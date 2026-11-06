@@ -24,11 +24,11 @@ Regulation 2
 
 ### PART 1 — Amendments to the Insolvency Act 1986
 
-**1.**[^key-c920708c0fa84be066b912100291b4e0] The Insolvency Act 1986 is amended as follows.
+**1.**[^c-c920708c0fa84be066b912100291b4e0] The Insolvency Act 1986 is amended as follows.
 
-**2.**[^key-9e60063b05e7da9c877c11c0027cbe63] In section 1 (those who may propose an arrangement) in subsection (5) for the words from “the EC Regulation” to the end substitute “Article 3 of the EU Regulation”[^f00005].
+**2.**[^c-9e60063b05e7da9c877c11c0027cbe63] In section 1 (those who may propose an arrangement) in subsection (5) for the words from “the EC Regulation” to the end substitute “Article 3 of the EU Regulation”[^f00005].
 
-**3.**[^key-229fe357f21f75f23011e997906718ca] In section 106 (final account prior to dissolution) after subsection (4) insert—
+**3.**[^c-229fe357f21f75f23011e997906718ca] In section 106 (final account prior to dissolution) after subsection (4) insert—
 
 > (4A) Subsection (4B) applies where, immediately before the liquidator sends a copy of the account of the winding up to the registrar under subsection (3), there are EU insolvency proceedings open in respect of the company in one or more other member States.
 >
@@ -38,13 +38,13 @@ Regulation 2
 > - (b) identifying the member State liquidator appointed in each of those proceedings, and
 > - (c) indicating, in relation to each of those member State liquidators, whether that member State liquidator consents to the company being dissolved.
 
-**4.**[^key-32a7626c347528862d0765e55ac8ef2e] In section 117 (High Court and county court jurisdiction) in subsection (7) for “the EC Regulation (jurisdiction under EC Regulation)” substitute “the EU Regulation (jurisdiction under EU Regulation)”[^f00006].
+**4.**[^c-32a7626c347528862d0765e55ac8ef2e] In section 117 (High Court and county court jurisdiction) in subsection (7) for “the EC Regulation (jurisdiction under EC Regulation)” substitute “the EU Regulation (jurisdiction under EU Regulation)”[^f00006].
 
-**5.**[^key-31df74cd3e4f801a2827a255585c351f] In section 120 (Court of Session and sheriff court jurisdiction) in subsection (6) for “the EC Regulation (jurisdiction under EC Regulation)” substitute “the EU Regulation (jurisdiction under EU Regulation)”[^f00007].
+**5.**[^c-31df74cd3e4f801a2827a255585c351f] In section 120 (Court of Session and sheriff court jurisdiction) in subsection (6) for “the EC Regulation (jurisdiction under EC Regulation)” substitute “the EU Regulation (jurisdiction under EU Regulation)”[^f00007].
 
-**6.**[^key-7b89267ef844fe3b7e00fa60e676ee49] In section 124 (application for winding up)[^f00008] in subsection (1) for the words from “a liquidator” to “(within the meaning of Article 38 of the EC Regulation)” substitute “a member State liquidator appointed in proceedings by virtue of Article 3(1) of the EU Regulation or a temporary administrator (within the meaning of Article 52 of the EU Regulation)”.
+**6.**[^c-7b89267ef844fe3b7e00fa60e676ee49] In section 124 (application for winding up)[^f00008] in subsection (1) for the words from “a liquidator” to “(within the meaning of Article 38 of the EC Regulation)” substitute “a member State liquidator appointed in proceedings by virtue of Article 3(1) of the EU Regulation or a temporary administrator (within the meaning of Article 52 of the EU Regulation)”.
 
-**7.**[^key-53c1ea62d47a2f050450f72bd2e968c2] In section 146 (final account)[^f00009] after subsection (5) insert—
+**7.**[^c-53c1ea62d47a2f050450f72bd2e968c2] In section 146 (final account)[^f00009] after subsection (5) insert—
 
 > (6) Subsection (7) applies where, immediately before the liquidator sends a copy of the account to the registrar under subsection (4) (or, where the liquidator sends a copy of the account to the court and the registrar on different days, immediately before the liquidator sends the first of those copies) there are EU insolvency proceedings open in respect of the company in one or more other member States.
 >
@@ -54,7 +54,7 @@ Regulation 2
 > - (b) identifying the member State liquidator appointed in each of those proceedings,
 > - (c) indicating, in relation to each of those member State liquidators, whether that member State liquidator consents to the company being dissolved.
 
-**8.**[^key-1177f6a01020f87a8b75fdaf09c4f731] After section 146 insert—
+**8.**[^c-1177f6a01020f87a8b75fdaf09c4f731] After section 146 insert—
 
 > **146A. Official receiver’s duty to send statement to registrar about other proceedings**
 >
@@ -69,7 +69,7 @@ Regulation 2
 > - (b) identifying the member State liquidator appointed in each of those proceedings, and
 > - (c) indicating, in relation to each of those member State liquidators, whether that member State liquidator consents to the company being dissolved.
 
-**9.**[^key-b346c0856e451f04ec5f600af5ac010e] (1) Section 201 (dissolution on voluntary winding up)[^f00010] is amended as follows.
+**9.**[^c-b346c0856e451f04ec5f600af5ac010e] (1) Section 201 (dissolution on voluntary winding up)[^f00010] is amended as follows.
 
 (2) In subsection (2)—
 
@@ -85,7 +85,7 @@ Regulation 2
 > - (a) all proceedings identified in the statement sent under section 106(4B) were closed, or
 > - (b) every member State liquidator appointed in those proceedings consented to the company being dissolved.
 
-**10.**[^key-f0c20a9d4193c8a8d2b8880f5c2f9876] (1) Section 202 (early dissolution: England and Wales)[^f00011] is amended as follows.
+**10.**[^c-f0c20a9d4193c8a8d2b8880f5c2f9876] (1) Section 202 (early dissolution: England and Wales)[^f00011] is amended as follows.
 
 (2) After subsection (2) insert—
 
@@ -120,9 +120,9 @@ Regulation 2
 
 (7) In that subsection, for “that period” substitute “the period in subsection (5) or (7)”.
 
-**11.**[^key-8472460a8a910099bd63a8f844834306] In section 203 (consequence of notice under section 202), in subsection (3)(b) for "section 202(5)" substitute “section 202(8)”.
+**11.**[^c-8472460a8a910099bd63a8f844834306] In section 203 (consequence of notice under section 202), in subsection (3)(b) for "section 202(5)" substitute “section 202(8)”.
 
-**12.**[^key-92e981737dc0e5cfa13fea2b4032f595] (1) Section 205 (dissolution otherwise than under sections 202 to 204) is amended as follows.
+**12.**[^c-92e981737dc0e5cfa13fea2b4032f595] (1) Section 205 (dissolution otherwise than under sections 202 to 204) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -138,15 +138,15 @@ Regulation 2
 > - (a) all proceedings identified in the statement under section 146(7) or 146A(2) were closed, or
 > - (b) every member State liquidator appointed in those proceedings consented to the company being dissolved.
 
-**13.**[^key-50601be8cc748a93de36bf71f8f88fbb] In section 221 (winding up of unregistered companies)[^f00012] in subsection (4) for “EC Regulation” substitute “EU Regulation”.
+**13.**[^c-50601be8cc748a93de36bf71f8f88fbb] In section 221 (winding up of unregistered companies)[^f00012] in subsection (4) for “EC Regulation” substitute “EU Regulation”.
 
-**14.**[^key-532e5fba10e23d53b8325342b41ee7c8] In section 225 (company incorporated outside Great Britain may be wound up though dissolved)[^f00013] in subsection (2) for “EC Regulation” substitute “EU Regulation”.
+**14.**[^c-532e5fba10e23d53b8325342b41ee7c8] In section 225 (company incorporated outside Great Britain may be wound up though dissolved)[^f00013] in subsection (2) for “EC Regulation” substitute “EU Regulation”.
 
-**15.**[^key-3273e266bf76d4a1dbb8725cd3ea8d56] In section 240 (“relevant time” under sections 238 and 239) in subsection (3)(d) for “Article 37 of the EC Regulation” substitute “Article 51 of the EU Regulation”.
+**15.**[^c-3273e266bf76d4a1dbb8725cd3ea8d56] In section 240 (“relevant time” under sections 238 and 239) in subsection (3)(d) for “Article 37 of the EC Regulation” substitute “Article 51 of the EU Regulation”.
 
-**16.**[^key-ab28aef38c869b1f18e0dfdb2b9b0adc] In section 247 (meaning of “insolvency” and “go into liquidation”)[^f00014] in subsection (3)(b) for “Article 37 of the EC Regulation” substitute “Article 51 of the EU Regulation”.
+**16.**[^c-ab28aef38c869b1f18e0dfdb2b9b0adc] In section 247 (meaning of “insolvency” and “go into liquidation”)[^f00014] in subsection (3)(b) for “Article 37 of the EC Regulation” substitute “Article 51 of the EU Regulation”.
 
-**17.**[^key-7596437485be792d445a3df843e3a86a] In section 251 (expressions used generally) at the appropriate places insert the following definitions—
+**17.**[^c-7596437485be792d445a3df843e3a86a] In section 251 (expressions used generally) at the appropriate places insert the following definitions—
 
 > - “EU insolvency proceedings” means insolvency proceedings as defined in Article 2(4) of the EU Regulation;
 
@@ -156,9 +156,9 @@ Regulation 2
 
 .
 
-**18.**[^key-00c041f380bae7293b40b92b5febc6d1] In section 263I (debtors against whom an adjudicator may make a bankruptcy order)[^f00015] in subsections (1)(b) and (4) for “EC Regulation” substitute “EU Regulation”.
+**18.**[^c-00c041f380bae7293b40b92b5febc6d1] In section 263I (debtors against whom an adjudicator may make a bankruptcy order)[^f00015] in subsections (1)(b) and (4) for “EC Regulation” substitute “EU Regulation”.
 
-**19.**[^key-0cbbb9498f581c00f97de523fecc4703] In section 264 (who may present a bankruptcy petition)[^f00016]—
+**19.**[^c-0cbbb9498f581c00f97de523fecc4703] In section 264 (who may present a bankruptcy petition)[^f00016]—
 
 - (a) in subsection (1)(ba) for “Article 38 of the EC Regulation” substitute “Article 52 of the EU Regulation”, and
 - (b) for subsection (1)(bb) substitute—
@@ -167,23 +167,23 @@ Regulation 2
 
   .
 
-**20.**[^key-37572718e39605be1a15162e8549d526] In section 265 (creditor’s petition: debtors against whom the court may make a bankruptcy order)[^f00017] in subsections (1)(b) and (4) for “EC Regulation” substitute “EU Regulation”.
+**20.**[^c-37572718e39605be1a15162e8549d526] In section 265 (creditor’s petition: debtors against whom the court may make a bankruptcy order)[^f00017] in subsections (1)(b) and (4) for “EC Regulation” substitute “EU Regulation”.
 
-**21.**[^key-300b70122db5f09ea275f68a4e85393c] In section 330 (final distribution)[^f00018] in subsection (6) for “Article 35 of the EC Regulation” (surplus in secondary proceedings to be transferred to main proceedings) substitute “Article 49 of the EU Regulation” (assets remaining in the secondary compulsory proceedings).
+**21.**[^c-300b70122db5f09ea275f68a4e85393c] In section 330 (final distribution)[^f00018] in subsection (6) for “Article 35 of the EC Regulation” (surplus in secondary proceedings to be transferred to main proceedings) substitute “Article 49 of the EU Regulation” (assets remaining in the secondary compulsory proceedings).
 
-**22.**[^key-d19bb287619d2bca352c9f8f3f18f5ce] In section 387 (meaning of “the relevant date”)[^f00019] in subsections (3)(aa) and (ab) for “Article 37 of the EC Regulation” substitute “Article 51 of the EU Regulation”[^f00020].
+**22.**[^c-d19bb287619d2bca352c9f8f3f18f5ce] In section 387 (meaning of “the relevant date”)[^f00019] in subsections (3)(aa) and (ab) for “Article 37 of the EC Regulation” substitute “Article 51 of the EU Regulation”[^f00020].
 
-**23.**[^key-e6a330de1dbe7bb75d6a89317c8eb873] In section 388 (meaning of “act as an insolvency practitioner”)[^f00021] in subsection (6) for “EC Regulation” substitute “EU Regulation”.
+**23.**[^c-e6a330de1dbe7bb75d6a89317c8eb873] In section 388 (meaning of “act as an insolvency practitioner”)[^f00021] in subsection (6) for “EC Regulation” substitute “EU Regulation”.
 
-**24.**[^key-d906bd5d19efedf9a6a196c0b67ba9d2] In section 411 (company insolvency rules)[^f00022] in subsections (1), (2A) and (2B) for “EC Regulation” in each place where it occurs substitute “EU Regulation”.
+**24.**[^c-d906bd5d19efedf9a6a196c0b67ba9d2] In section 411 (company insolvency rules)[^f00022] in subsections (1), (2A) and (2B) for “EC Regulation” in each place where it occurs substitute “EU Regulation”.
 
-**25.**[^key-90e235ba02d3ee184e79bf5ee5caf3ad] In section 412 (individual insolvency rules (England and Wales))[^f00023] in subsections (1), (2A) and (2B) for “EC Regulation” in each place where it occurs substitute “EU Regulation”.
+**25.**[^c-90e235ba02d3ee184e79bf5ee5caf3ad] In section 412 (individual insolvency rules (England and Wales))[^f00023] in subsections (1), (2A) and (2B) for “EC Regulation” in each place where it occurs substitute “EU Regulation”.
 
-**26.**[^key-98e6d758d5e46444b8dff84d903557ec] In section 420 (insolvent partnerships)[^f00024] in subsections (1A) and (1B) for “EC Regulation” substitute “EU Regulation”.
+**26.**[^c-98e6d758d5e46444b8dff84d903557ec] In section 420 (insolvent partnerships)[^f00024] in subsections (1A) and (1B) for “EC Regulation” substitute “EU Regulation”.
 
-**27.**[^key-8619335a1053815f82549d18a28fde97] In section 421 (insolvent estates of deceased persons)[^f00025] in subsections (1A) and (1B) for “EC Regulation” substitute “EU Regulation”.
+**27.**[^c-8619335a1053815f82549d18a28fde97] In section 421 (insolvent estates of deceased persons)[^f00025] in subsections (1A) and (1B) for “EC Regulation” substitute “EU Regulation”.
 
-**28.**[^key-8b3c52408f9e20541385dc090c23d708] In section 436 (expressions used generally)[^f00026] in subsection (1)—
+**28.**[^c-8b3c52408f9e20541385dc090c23d708] In section 436 (expressions used generally)[^f00026] in subsection (1)—
 
 - (a) omit the definition of “the EC Regulation”, and
 - (b) at the appropriate place insert—
@@ -192,9 +192,9 @@ Regulation 2
 
   .
 
-**29.**[^key-327f74ef7c77fdaf655a452097a4cb2c] In section 436A (proceedings under EC Regulation: modified definition of property)[^f00027] including in the heading, for “EC Regulation” substitute “EU Regulation”.
+**29.**[^c-327f74ef7c77fdaf655a452097a4cb2c] In section 436A (proceedings under EC Regulation: modified definition of property)[^f00027] including in the heading, for “EC Regulation” substitute “EU Regulation”.
 
-**30.**[^key-5a3a67603dfcc7dbf42dcc672b348742] (1) Schedule B1 (administration)[^f00028] is amended as follows.
+**30.**[^c-5a3a67603dfcc7dbf42dcc672b348742] (1) Schedule B1 (administration)[^f00028] is amended as follows.
 
 (2) In paragraph 84—
 
@@ -224,11 +224,11 @@ Regulation 2
 
 (5) In sub-paragraph (7)(a) and (c), after “sub-paragraph (6)” insert “or (6B)”.
 
-**31.**[^key-29683d3ee1fc2e40f99b0c2265b74ada] In Schedule B1[^f00029] (administration) in paragraph 111(1B) for the words from “the EC Regulation” to the end substitute “Article 3 of the EU Regulation”.
+**31.**[^c-29683d3ee1fc2e40f99b0c2265b74ada] In Schedule B1[^f00029] (administration) in paragraph 111(1B) for the words from “the EC Regulation” to the end substitute “Article 3 of the EU Regulation”.
 
 ### PART 2 — Amendments to the Insolvency (England and Wales) Rules 2016
 
-#### 32. Amendments to the Insolvency Rules 2016[^key-fd8414e6e5e7a08a41bee996660b8dd9]
+#### 32. Amendments to the Insolvency Rules 2016[^c-fd8414e6e5e7a08a41bee996660b8dd9]
 
 The Insolvency (England and Wales) Rules 2016[^f00030] are amended as follows.
 
@@ -236,7 +236,7 @@ The Insolvency (England and Wales) Rules 2016[^f00030] are amended as follows.
 
 \[Note: The note appearing after the definition of “document” should be replaced by: “\[Note: EU Regulation is defined for the purposes of these Rules by section 436 of the Act as Regulation (EU) 2015/848 of the European Parliament and of the Council.\]
 
-**33.**[^key-b622ebf82af6e0e39aa5d308d14b09fb] In rule 1.2(2)—
+**33.**[^c-b622ebf82af6e0e39aa5d308d14b09fb] In rule 1.2(2)—
 
 - (a) in the definition of “Article 1.2 undertaking” for “Council Regulation (EC) No. 1346/2000 (“the EC Regulations”)” substitute “Regulation (EU) 2015/848 of the European Parliament and of the Council” (“the EU Regulations”)” and for footnote “(**a**)” substitute “OJEU L141/19, 5.6.2015;”;
 - (b) for the definition of “main proceedings” substitute—
@@ -259,7 +259,7 @@ The Insolvency (England and Wales) Rules 2016[^f00030] are amended as follows.
   >   - (a) in relation to England and Wales, are set out in Annex A to the EU Regulation under the heading "United Kingdom"; and
   >   - (b) in relation to another member State, are set out under the heading relating to that member State;
 
-**34.**[^key-97f98594c5e6ff9b396adf147f0a761f] (1) Rule 1.20 (registrar of companies: covering notices) is amended as follows.
+**34.**[^c-97f98594c5e6ff9b396adf147f0a761f] (1) Rule 1.20 (registrar of companies: covering notices) is amended as follows.
 
 (2) After paragraph (1)(n) insert—
 
@@ -267,7 +267,7 @@ The Insolvency (England and Wales) Rules 2016[^f00030] are amended as follows.
 
 .
 
-#### 35. Rule 2.14 (documents filed with the court to obtain a moratorium (paragraph 7(1) of Schedule A1))[^key-3387540c9610e0f81677b915be9decf1]
+#### 35. Rule 2.14 (documents filed with the court to obtain a moratorium (paragraph 7(1) of Schedule A1))[^c-3387540c9610e0f81677b915be9decf1]
 
 Rule 2.14 is amended by inserting after paragraph (2)—
 
@@ -275,7 +275,7 @@ Rule 2.14 is amended by inserting after paragraph (2)—
 
 .
 
-#### 36. Rule 2.25 (CVA: consideration of proposal: common requirements (section 3))[^key-4cc6432f630f2af1aba8ab8576e440f0]
+#### 36. Rule 2.25 (CVA: consideration of proposal: common requirements (section 3))[^c-4cc6432f630f2af1aba8ab8576e440f0]
 
 (1) Rule 2.25 is amended as follows.
 
@@ -287,15 +287,15 @@ Rule 2.14 is amended by inserting after paragraph (2)—
 
 (3) Paragraph (3)(d)(iii) is amended by inserting after the words “administrator or liquidator” the words “in which case the comments required are limited to stating whether the proceedings will be main, secondary, territorial or non-EU proceedings with the reasons for so stating”.
 
-#### 37. Rule 3.51 (order of priority)[^key-0d012b000feffa3be645134ca73d5f00]
+#### 37. Rule 3.51 (order of priority)[^c-0d012b000feffa3be645134ca73d5f00]
 
 In rule 3.51(2)(g) after “(including any” insert “costs referred to in Articles 30 or 59 of the EU Regulation and”.
 
-#### 38. Rule 6.42 (general rule as to priority)[^key-a11a74ed4971b558e472094df2ec439e]
+#### 38. Rule 6.42 (general rule as to priority)[^c-a11a74ed4971b558e472094df2ec439e]
 
 In rule 6.42(4)(f) after “(including any” insert “costs referred to in Articles 30 or 59 of the EU Regulation and”.
 
-#### 39. Rule 7.33 (application for the appointment of provisional liquidator (section 135))[^key-d40b11713beaf5b232212b0430523014]
+#### 39. Rule 7.33 (application for the appointment of provisional liquidator (section 135))[^c-d40b11713beaf5b232212b0430523014]
 
 In rule 7.33(2) after sub-paragraph (e) insert—
 
@@ -303,11 +303,11 @@ In rule 7.33(2) after sub-paragraph (e) insert—
 
 .
 
-#### 40. Rule 7.108 (general rule as to priority)[^key-71aa1f9eb045f001ff80b99f33c9732c]
+#### 40. Rule 7.108 (general rule as to priority)[^c-71aa1f9eb045f001ff80b99f33c9732c]
 
 In rule 7.108(4)(m) after “(including any” insert “costs referred to in Articles 30 or 59 of the EU Regulation and”.
 
-#### 41. Rule 8.19 (IVA: Nominee’s report (section 256A))[^key-a0b00b23aa8a7857e72d011eb25b0172]
+#### 41. Rule 8.19 (IVA: Nominee’s report (section 256A))[^c-a0b00b23aa8a7857e72d011eb25b0172]
 
 (1) Rule 8.19 is amended as follows.
 
@@ -317,7 +317,7 @@ In rule 7.108(4)(m) after “(including any” insert “costs referred to in Ar
 
 .
 
-#### 42. Rule 10.49 (application for the appointment of interim receiver (section 286))[^key-dc6db501ec4826f70e1166eabf969d3b]
+#### 42. Rule 10.49 (application for the appointment of interim receiver (section 286))[^c-dc6db501ec4826f70e1166eabf969d3b]
 
 In rule 10.49—
 
@@ -328,11 +328,11 @@ In rule 10.49—
 
   .
 
-#### 43. Rule 10.149 (general rule as to priority)[^key-cb674bdf8b14510fdf3ee0dd0bdd8bce]
+#### 43. Rule 10.149 (general rule as to priority)[^c-cb674bdf8b14510fdf3ee0dd0bdd8bce]
 
 In rule 10.149(n) after “(including any” insert "costs referred to in Article 30 of the EU Regulation and”.
 
-#### 44. Rule 15.11 (Notice of decision procedures or of seeking deemed consent: when and to whom delivered)[^key-16ac8339bc14242c096b753f0e237e0d]
+#### 44. Rule 15.11 (Notice of decision procedures or of seeking deemed consent: when and to whom delivered)[^c-16ac8339bc14242c096b753f0e237e0d]
 
 In the table in rule 15.11 (Notice of decision procedures or of seeking deemed consent: when and to whom delivered) at the end of the table insert—
 
@@ -342,11 +342,11 @@ Table 1
 | --- | --- | --- | --- |
 | Main proceedings in another member State | Approval under Article 36(5) of the EU Regulation of proposed undertaking offered by a member State liquidator | all the local creditors in the United Kingdom | 14 days |
 
-#### 45. Part 21[^key-649a2ff821057887e5b23123d4072737]
+#### 45. Part 21[^c-649a2ff821057887e5b23123d4072737]
 
 For the heading to Part 21 substitute “The EU Regulation”.
 
-#### 46. Interpretation for Part 21[^key-0335a96e3f3f31138978252fbd1862e5]
+#### 46. Interpretation for Part 21[^c-0335a96e3f3f31138978252fbd1862e5]
 
 In rule 21.1—
 
@@ -357,7 +357,7 @@ In rule 21.1—
   - (i) for the words “Article 37 of the EC Regulation (conversion of earlier proceedings)” substitute “Article 51 of the EU Regulation (conversion of secondary insolvency proceedings)”; and
   - (ii) for “that—” to the end of sub-paragraph (c) substitute “that winding-up proceedings of one kind are converted into winding-up proceedings of another kind.”.
 
-#### 47. Standard contents of applications to court under the EU Regulation[^key-432985a495cffda24ab367c1e477296b]
+#### 47. Standard contents of applications to court under the EU Regulation[^c-432985a495cffda24ab367c1e477296b]
 
 After rule 21.1 insert—
 
@@ -367,7 +367,7 @@ After rule 21.1 insert—
 
 \[Insert the following after the heading to Rule 21.2: “Note: "Local creditor” is defined in Article 2(11) of the EU Regulation.”\]
 
-**48.**[^key-e696013c0d7259011edb7b961fe05896] Rule 21.2 is amended as follows—
+**48.**[^c-e696013c0d7259011edb7b961fe05896] Rule 21.2 is amended as follows—
 
 - (a) in paragraph (1) for “Article 37 of the EC Regulation” substitute “Article 51 of the EU Regulation”;
 - (b) for paragraph (1)(a) and (b) substitute—
@@ -376,11 +376,11 @@ After rule 21.1 insert—
   > - (b) conversion of an IVA into bankruptcy or of bankruptcy into an IVA;
 - (c) in paragraph (3)(b) for the words “would prove to be in the interests of the creditors in the main proceedings” substitute “would be most appropriate as regards the interests of the local creditors and coherence between the main and secondary insolvency proceedings”.
 
-#### 49. Confirmation of creditors’ voluntary winding up: application[^key-a0a86aa51f457f26549bc3dbeddabc52]
+#### 49. Confirmation of creditors’ voluntary winding up: application[^c-a0a86aa51f457f26549bc3dbeddabc52]
 
 In rule 21.4(3) at the end of sub-paragraph (e) insert “and the reasons for so stating”.
 
-#### 50. Member state liquidator: duty to give notice[^key-07f497fa5656b274aaa2096c51a0e305]
+#### 50. Member state liquidator: duty to give notice[^c-07f497fa5656b274aaa2096c51a0e305]
 
 In rule 21.7—
 
@@ -394,14 +394,14 @@ In rule 21.7—
     > - (a) any member State liquidator; or
     > - (b) where the supervisor, administrator, liquidator, provisional liquidator, interim receiver or trustee knows that an application has been made to commence insolvency proceedings in another member State but a member State liquidator has not yet been appointed to the court to which that application has been made.
 
-#### 51. Member State liquidator: rules on creditors’ participation in proceedings[^key-5bca091bd98287e3d0e0dc7623f60fbe]
+#### 51. Member State liquidator: rules on creditors’ participation in proceedings[^c-5bca091bd98287e3d0e0dc7623f60fbe]
 
 In rule 21.8—
 
 - (a) in paragraph (1) for “Article 32(3) of the EC Regulation” substitute “Article 45 of the EU Regulation”; and
 - (b) in paragraph (2)(b) for “Article 2(f) of the EC Regulation” substitute “Article 2(8) of the EU Regulation”.
 
-**52.**[^key-be9c59a8e919816a7a2de52f8a4c661a][^key-5bca091bd98287e3d0e0dc7623f60fbe] After rule 21.8 insert the following—
+**52.**[^c-be9c59a8e919816a7a2de52f8a4c661a][^c-5bca091bd98287e3d0e0dc7623f60fbe] After rule 21.8 insert the following—
 
 > **Main proceedings in England and Wales: undertaking by office-holder in respect of assets in another member State (Article 36 of the EU Regulation)**
 >
@@ -514,7 +514,7 @@ In rule 21.8—
 
 ### PART 3 — Other amendments: England and Wales
 
-#### 53. Land Registration Rules 2003[^key-3ceabb661ae12d86fa1235a15128f0f2]
+#### 53. Land Registration Rules 2003[^c-3ceabb661ae12d86fa1235a15128f0f2]
 
 (1) The Land Registration Rules 2003[^f00031] are amended as follows.
 
@@ -525,7 +525,7 @@ In rule 21.8—
 
 (3) For the heading to Rule 171 substitute “Proceedings under the EU Regulation on insolvency proceedings.”
 
-#### 54. Civil Proceedings Fees Order 2008[^key-a3802239a2b309a7c50063200e822fce]
+#### 54. Civil Proceedings Fees Order 2008[^c-a3802239a2b309a7c50063200e822fce]
 
 (1) The Civil Proceedings Fees Order 2008[^f00032] are amended as follows.
 
@@ -540,15 +540,15 @@ In rule 21.8—
 
 ### PART 4 — Amendments to the Insolvency Act 1986 extending to Scotland only
 
-**55.**[^key-c41493db8eb1be970a6cceb0d9de8c39] The Insolvency Act 1986 is amended as follows.
+**55.**[^c-c41493db8eb1be970a6cceb0d9de8c39] The Insolvency Act 1986 is amended as follows.
 
-**56.**[^key-a79678199ab9dea1bfa8b7590a90a8df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**56.**[^c-a79678199ab9dea1bfa8b7590a90a8df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**57.**[^key-5c783d7d885b18f00871ae1b58d11d50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**57.**[^c-5c783d7d885b18f00871ae1b58d11d50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**58.**[^key-77ba088e14703bdd246919278322f856] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**58.**[^c-77ba088e14703bdd246919278322f856] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**59.**[^key-1ede84574ced1a119e99ccf523cdcd1f] In section 204 (early dissolution: Scotland)[^f00033] after subsection (4) insert—
+**59.**[^c-1ede84574ced1a119e99ccf523cdcd1f] In section 204 (early dissolution: Scotland)[^f00033] after subsection (4) insert—
 
 > (4A) Subsection (4B) applies where immediately before the liquidator makes an application under subsection (2), there are EU insolvency proceedings open in respect of the company in one or more other member States.
 >
@@ -570,335 +570,335 @@ In rule 21.8—
 > - (a) all proceedings identified in the statement under subsection (4B) were closed, or
 > - (b) every member State liquidator appointed in those proceedings consented to the company being dissolved.
 
-**60.**[^key-b72b7ebf243d6adfe89759da6df44052] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**60.**[^c-b72b7ebf243d6adfe89759da6df44052] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 5 (affected by repeal, see note) — Amendments to the Insolvency (Scotland) Rules 1986 (affected by repeal, see note)[^key-568c3e72e8ae01e11d90e48dad8b13d4][^key-568c3e72e8ae01e11d90e48dad8b13d4]
+### PART 5 (affected by repeal, see note) — Amendments to the Insolvency (Scotland) Rules 1986 (affected by repeal, see note)[^c-568c3e72e8ae01e11d90e48dad8b13d4][^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-#### 61. The Insolvency (Scotland) Rules 1986 (affected by repeal, see note)[^key-43528c72fa09548c81a628b7d8e53578][^key-568c3e72e8ae01e11d90e48dad8b13d4]
+#### 61. The Insolvency (Scotland) Rules 1986 (affected by repeal, see note)[^c-43528c72fa09548c81a628b7d8e53578][^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-The Insolvency (Scotland) Rules 1986 *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4][^f00034] are amended as follows. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+The Insolvency (Scotland) Rules 1986 *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4][^f00034] are amended as follows. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-#### 62. Rule 0.2 Interpretation (affected by repeal, see note)[^key-2142120425e238493cf4ae3784e7fbba][^key-568c3e72e8ae01e11d90e48dad8b13d4]
+#### 62. Rule 0.2 Interpretation (affected by repeal, see note)[^c-2142120425e238493cf4ae3784e7fbba][^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-In Rule 0.2 (interpretation)— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+In Rule 0.2 (interpretation)— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-- (a) in the definition of “centre of main interests” for “EC” substitute “EU”; *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-- (b) for the definition of “EC Regulation” substitute— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+- (a) in the definition of “centre of main interests” for “EC” substitute “EU”; *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+- (b) for the definition of “EC Regulation” substitute— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-  > - “EU Regulation” means Regulation (EU) 2015/848 of the European Parliament and of the Council on insolvency proceedings *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-
-  ;
-- (c) for the definition of establishment substitute— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-
-  > - “establishment” has the meaning given by Article 2(10) of the EU Regulation; *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-- (d) for the definition of “main proceedings” substitute— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-
-  > - “main proceedings” means “proceedings opened in accordance with Article 3(1) of the EU Regulation and falling within the definition of insolvency proceedings in Article 2(4) of the EU Regulation and which— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-  >   - (a) in relation to Scotland are set out in Annex A to the EU Regulation under the heading “United Kingdom”; and *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-  >   - (b) in relation to another member State, are set out under the heading relating to that member State; *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-- (e) for the definition of “member State liquidator” substitute— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-
-  > - “member State liquidator” *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4] means a person falling within the definition of “insolvency practitioner” in Article 2(5) of the EU Regulation appointed in proceedings to which the EU Regulation applies in a member State other than the United Kingdom *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+  > - “EU Regulation” means Regulation (EU) 2015/848 of the European Parliament and of the Council on insolvency proceedings *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
   ;
-- (f) for the definition of “secondary proceedings” substitute— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+- (c) for the definition of establishment substitute— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-  > - “secondary proceedings” means proceedings opened in accordance with Article 3(2) and (3) of the EU Regulation and falling within the definition of insolvency proceedings in Article 2(4) of that Regulation and which— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-  >   - (a) in relation to Scotland are set out in Annex A to that Regulation under the heading “United Kingdom”; *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-  >   - (b) and in relation to another member State are set out under the heading relating to that member State *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+  > - “establishment” has the meaning given by Article 2(10) of the EU Regulation; *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+- (d) for the definition of “main proceedings” substitute— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+
+  > - “main proceedings” means “proceedings opened in accordance with Article 3(1) of the EU Regulation and falling within the definition of insolvency proceedings in Article 2(4) of the EU Regulation and which— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+  >   - (a) in relation to Scotland are set out in Annex A to the EU Regulation under the heading “United Kingdom”; and *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+  >   - (b) in relation to another member State, are set out under the heading relating to that member State; *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+- (e) for the definition of “member State liquidator” substitute— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+
+  > - “member State liquidator” *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4] means a person falling within the definition of “insolvency practitioner” in Article 2(5) of the EU Regulation appointed in proceedings to which the EU Regulation applies in a member State other than the United Kingdom *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
   ;
-- (g) for the definition of “territorial proceedings” substitute— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+- (f) for the definition of “secondary proceedings” substitute— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-  > - “territorial proceedings” means proceedings opened in accordance with Article 3(2) and (4) of the EU Regulation and falling within the definition of insolvency proceedings in Article 2(4) of the EU Regulation and which— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-  >   - (a) in relation to Scotland are set out in Annex A to that Regulation under the heading “United Kingdom”; *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-  >   - (b) and in relation to another member State are set out under the heading relating to that member State; *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+  > - “secondary proceedings” means proceedings opened in accordance with Article 3(2) and (3) of the EU Regulation and falling within the definition of insolvency proceedings in Article 2(4) of that Regulation and which— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+  >   - (a) in relation to Scotland are set out in Annex A to that Regulation under the heading “United Kingdom”; *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+  >   - (b) and in relation to another member State are set out under the heading relating to that member State *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-#### 63. Rule 1.3 Contents of proposal (affected by repeal, see note)[^key-4ae033b3aad0a42201c5e750ce52c513][^key-568c3e72e8ae01e11d90e48dad8b13d4]
+  ;
+- (g) for the definition of “territorial proceedings” substitute— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-Rule 1.3(2)(p) is amended by substituting “EU Regulation” for “EC Regulation”. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+  > - “territorial proceedings” means proceedings opened in accordance with Article 3(2) and (4) of the EU Regulation and falling within the definition of insolvency proceedings in Article 2(4) of the EU Regulation and which— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+  >   - (a) in relation to Scotland are set out in Annex A to that Regulation under the heading “United Kingdom”; *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+  >   - (b) and in relation to another member State are set out under the heading relating to that member State; *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-#### 64. Rule 1.7 Nominee’s report on the proposal (affected by repeal, see note)[^key-6290e1df7818019eea5360d528d6a8f1][^key-568c3e72e8ae01e11d90e48dad8b13d4]
+#### 63. Rule 1.3 Contents of proposal (affected by repeal, see note)[^c-4ae033b3aad0a42201c5e750ce52c513][^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-Rule 1.7 is amended by inserting after paragraph (2)— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+Rule 1.3(2)(p) is amended by substituting “EU Regulation” for “EC Regulation”. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-> (2A) The nominee must examine whether there is jurisdiction to open the proceedings and must specify in the nominee’s comments on the proposal required by paragraph (2) whether the EU Regulation will apply and, if so, whether the proceedings will be main proceedings, territorial proceedings or secondary with the reasons for so stating. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+#### 64. Rule 1.7 Nominee’s report on the proposal (affected by repeal, see note)[^c-6290e1df7818019eea5360d528d6a8f1][^c-568c3e72e8ae01e11d90e48dad8b13d4]
+
+Rule 1.7 is amended by inserting after paragraph (2)— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+
+> (2A) The nominee must examine whether there is jurisdiction to open the proceedings and must specify in the nominee’s comments on the proposal required by paragraph (2) whether the EU Regulation will apply and, if so, whether the proceedings will be main proceedings, territorial proceedings or secondary with the reasons for so stating. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
 .
 
-#### 65. Rule 1.10 preparation of proposal (affected by repeal, see note)[^key-06862a6993f03c96e8b2b27e91410691][^key-568c3e72e8ae01e11d90e48dad8b13d4]
+#### 65. Rule 1.10 preparation of proposal (affected by repeal, see note)[^c-06862a6993f03c96e8b2b27e91410691][^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-Rule 1.10 is amended by inserting— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+Rule 1.10 is amended by inserting— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-> - (d) the reasons for stating whether the EU Regulation will apply and, if so, whether the proceedings will be main proceedings, territorial proceedings or secondary proceedings. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+> - (d) the reasons for stating whether the EU Regulation will apply and, if so, whether the proceedings will be main proceedings, territorial proceedings or secondary proceedings. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-#### 66. Rule 1.17 Report of meetings (affected by repeal, see note)[^key-f004bb90d671cffd27abfcaca810bc54][^key-568c3e72e8ae01e11d90e48dad8b13d4]
+#### 66. Rule 1.17 Report of meetings (affected by repeal, see note)[^c-f004bb90d671cffd27abfcaca810bc54][^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-Rule 1.17 *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4][^f00035] is amended— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+Rule 1.17 *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4][^f00035] is amended— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-- (a) by substituting in paragraph 2(ca)(i) “EU Regulation” for “EC Regulation”; and *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-- (b) by inserting in paragraph 2(ca)(ii) “or secondary proceedings” after “territorial proceedings”. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+- (a) by substituting in paragraph 2(ca)(i) “EU Regulation” for “EC Regulation”; and *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+- (b) by inserting in paragraph 2(ca)(ii) “or secondary proceedings” after “territorial proceedings”. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-#### 67. Rule 1.28 the nominee’s statement (affected by repeal, see note)[^key-1522d0bbad156dcdf8928e103f5ea269][^key-568c3e72e8ae01e11d90e48dad8b13d4]
+#### 67. Rule 1.28 the nominee’s statement (affected by repeal, see note)[^c-1522d0bbad156dcdf8928e103f5ea269][^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-Rule 1.28 is amended by inserting after paragraph (2)— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+Rule 1.28 is amended by inserting after paragraph (2)— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-> (2A) The nominee must examine whether there is jurisdiction to open the proceedings and must specify in the nominee’s comments on the proposal required by paragraph (2) whether the EU Regulation will apply and, if so, whether the proceedings will be main proceedings, territorial proceedings, or secondary proceedings with the reasons for so stating. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-
-.
-
-#### 68. Documents submitted to the court to obtain a moratorium (affected by repeal, see note)[^key-b5104452a825cad53daff9d878f7ba94][^key-568c3e72e8ae01e11d90e48dad8b13d4]
-
-Rule 1.29(2) is amended by inserting after subparagraph (b)— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-
-> - (c) a statement from the nominee whether the proceedings will be main, secondary, territorial or *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4] non-EU proceedings *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4] with the reasons for so stating must also be filed with the court. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+> (2A) The nominee must examine whether there is jurisdiction to open the proceedings and must specify in the nominee’s comments on the proposal required by paragraph (2) whether the EU Regulation will apply and, if so, whether the proceedings will be main proceedings, territorial proceedings, or secondary proceedings with the reasons for so stating. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
 .
 
-#### 69. Part 1 Chapter 8: EC Regulation – Conversion of voluntary Arrangement into Winding Up (affected by repeal, see note)[^key-b14e572bf039d58c58f654ca4a77ee41][^key-568c3e72e8ae01e11d90e48dad8b13d4]
+#### 68. Documents submitted to the court to obtain a moratorium (affected by repeal, see note)[^c-b5104452a825cad53daff9d878f7ba94][^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-In the heading to Chapter 8 of Part 1 for “EC Regulation” substitute “EU Regulation”. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+Rule 1.29(2) is amended by inserting after subparagraph (b)— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-#### 70. Rule 1.46 Application for conversion into winding up (affected by repeal, see note)[^key-c1e46dc29f47372b811b52c54d451fb0][^key-568c3e72e8ae01e11d90e48dad8b13d4]
+> - (c) a statement from the nominee whether the proceedings will be main, secondary, territorial or *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4] non-EU proceedings *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4] with the reasons for so stating must also be filed with the court. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-Rule 1.46(1A) is amended as follows— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+.
 
-- (a) for “Article 37 of the EC Regulation (conversion of earlier proceedings)” substitute “Article 51 of the EU Regulation (conversion of secondary insolvency proceedings”; and *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-- (b) in sub-paragraph (a) delete the words from “whose purposes are” to the end of the sub-paragraph. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+#### 69. Part 1 Chapter 8: EC Regulation – Conversion of voluntary Arrangement into Winding Up (affected by repeal, see note)[^c-b14e572bf039d58c58f654ca4a77ee41][^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-#### 71. Rule 1.47 Contents of affidavit (affected by repeal, see note)[^key-15ba51988a072cee53539d5604380b29][^key-568c3e72e8ae01e11d90e48dad8b13d4]
+In the heading to Chapter 8 of Part 1 for “EC Regulation” substitute “EU Regulation”. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-Rule 1.47 is amended as follows— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+#### 70. Rule 1.46 Application for conversion into winding up (affected by repeal, see note)[^c-c1e46dc29f47372b811b52c54d451fb0][^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-- (a) in paragraph (1)(b) for the words “would prove to be in the interests of the creditors in the main proceedings” substitute: “would be most appropriate as regards the interests of the local creditors and coherence between the main and secondary insolvency proceedings”; and *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-- (b) in paragraph (1)(c) after “as to whether the company ought to enter” insert “administration,”. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+Rule 1.46(1A) is amended as follows— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-#### 72. Part 1 Chapter 9: EC Regulation – Member State Liquidator (affected by repeal, see note)[^key-0e8c29cc0c72e0bb293abae2979b3e8c][^key-568c3e72e8ae01e11d90e48dad8b13d4]
+- (a) for “Article 37 of the EC Regulation (conversion of earlier proceedings)” substitute “Article 51 of the EU Regulation (conversion of secondary insolvency proceedings”; and *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+- (b) in sub-paragraph (a) delete the words from “whose purposes are” to the end of the sub-paragraph. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-In the heading to Chapter 9 of Part 1 for “EC Regulation” substitute “EU Regulation”. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+#### 71. Rule 1.47 Contents of affidavit (affected by repeal, see note)[^c-15ba51988a072cee53539d5604380b29][^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-#### 73. Rule 1.49 Notice to member State liquidator (affected by repeal, see note)[^key-0813545e76e838572576874ab472692e][^key-568c3e72e8ae01e11d90e48dad8b13d4]
+Rule 1.47 is amended as follows— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-(1) Rule 1.49 is amended as follows. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+- (a) in paragraph (1)(b) for the words “would prove to be in the interests of the creditors in the main proceedings” substitute: “would be most appropriate as regards the interests of the local creditors and coherence between the main and secondary insolvency proceedings”; and *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+- (b) in paragraph (1)(c) after “as to whether the company ought to enter” insert “administration,”. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-(2) In paragraph (2) for “the member State liquidator” substitute— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+#### 72. Part 1 Chapter 9: EC Regulation – Member State Liquidator (affected by repeal, see note)[^c-0e8c29cc0c72e0bb293abae2979b3e8c][^c-568c3e72e8ae01e11d90e48dad8b13d4]
+
+In the heading to Chapter 9 of Part 1 for “EC Regulation” substitute “EU Regulation”. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+
+#### 73. Rule 1.49 Notice to member State liquidator (affected by repeal, see note)[^c-0813545e76e838572576874ab472692e][^c-568c3e72e8ae01e11d90e48dad8b13d4]
+
+(1) Rule 1.49 is amended as follows. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+
+(2) In paragraph (2) for “the member State liquidator” substitute— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
 > —
 >
-> - (a) any *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4] member State liquidator *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]; or *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-> - (b) where the supervisor knows that an application has been made to commence insolvency proceedings in another member State, but a member State liquidator has not yet been appointed, to the court to which that application has been made. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+> - (a) any *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4] member State liquidator *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]; or *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+> - (b) where the supervisor knows that an application has been made to commence insolvency proceedings in another member State, but a member State liquidator has not yet been appointed, to the court to which that application has been made. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-(3) In paragraph (3) for “Article 31 of the EC Regulation (duty to co-operate and communicate information)” substitute “Article 41 of the EU Regulation (cooperation and communication between insolvency practitioners)”. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+(3) In paragraph (3) for “Article 31 of the EC Regulation (duty to co-operate and communicate information)” substitute “Article 41 of the EU Regulation (cooperation and communication between insolvency practitioners)”. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-#### 74. Rule 2.1: Introductory and interpretation (affected by repeal, see note)[^key-5864186abf3afd3c706cbfe4ae46e5a9][^key-568c3e72e8ae01e11d90e48dad8b13d4]
+#### 74. Rule 2.1: Introductory and interpretation (affected by repeal, see note)[^c-5864186abf3afd3c706cbfe4ae46e5a9][^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-In Rule 2.1(1)(d) in the entries for Chapter 12 and Chapter 13 for “EC Regulation” substitute “EU Regulation”. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+In Rule 2.1(1)(d) in the entries for Chapter 12 and Chapter 13 for “EC Regulation” substitute “EU Regulation”. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-#### 75. Rule 2.2: Form of application (affected by repeal, see note)[^key-4f53dbf2943ba513a69fc7b6d471bedc][^key-568c3e72e8ae01e11d90e48dad8b13d4]
+#### 75. Rule 2.2: Form of application (affected by repeal, see note)[^c-4f53dbf2943ba513a69fc7b6d471bedc][^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-In rule 2.2(3) for “the EC Regulation” substitute “the EU Regulation”. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+In rule 2.2(3) for “the EC Regulation” substitute “the EU Regulation”. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-#### 76. Rule 2.25 : Administrator’s proposals (affected by repeal, see note)[^key-a6203b18c5a1f0edeccef9eb8fee42b0][^key-568c3e72e8ae01e11d90e48dad8b13d4]
+#### 76. Rule 2.25 : Administrator’s proposals (affected by repeal, see note)[^c-a6203b18c5a1f0edeccef9eb8fee42b0][^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-In Rule 2.25(1)(q)(i) for “the EC Regulation” substitute “the EU Regulation”. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+In Rule 2.25(1)(q)(i) for “the EC Regulation” substitute “the EU Regulation”. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-#### 77. Part 2 Chapter 12: EC Regulation – Conversion of Administration into Winding Up (affected by repeal, see note)[^key-e1b85ade6c86469034f55b6fc784704d][^key-568c3e72e8ae01e11d90e48dad8b13d4]
+#### 77. Part 2 Chapter 12: EC Regulation – Conversion of Administration into Winding Up (affected by repeal, see note)[^c-e1b85ade6c86469034f55b6fc784704d][^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-For the heading to Chapter 12 of Part 2 substitute “EU Regulation – conversion of administration proceedings under Article 51 of the EU Regulation”. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+For the heading to Chapter 12 of Part 2 substitute “EU Regulation – conversion of administration proceedings under Article 51 of the EU Regulation”. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-#### 78. Rule 2.57 Application for conversion into winding up (affected by repeal, see note)[^key-13a7c463220dd8e8aa229f012664abc0][^key-568c3e72e8ae01e11d90e48dad8b13d4]
+#### 78. Rule 2.57 Application for conversion into winding up (affected by repeal, see note)[^c-13a7c463220dd8e8aa229f012664abc0][^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-(1) In the heading to the Rule delete the words “into winding up”. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+(1) In the heading to the Rule delete the words “into winding up”. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-(2) Rule 2.57(1A) is amended as follows— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+(2) Rule 2.57(1A) is amended as follows— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-- (a) for “Article 37 of the EC Regulation (conversion of earlier proceedings)” substitute “Article 51 of the EU Regulation (conversion of secondary insolvency proceedings)”, *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-- (b) delete sub-paragraph (a), and *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-- (c) insert— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+- (a) for “Article 37 of the EC Regulation (conversion of earlier proceedings)” substitute “Article 51 of the EU Regulation (conversion of secondary insolvency proceedings)”, *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+- (b) delete sub-paragraph (a), and *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+- (c) insert— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-  > - (aa (affected by repeal, see note))[^key-568c3e72e8ae01e11d90e48dad8b13d4] the administration is converted into a company voluntary arrangement; *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+  > - (aa (affected by repeal, see note))[^c-568c3e72e8ae01e11d90e48dad8b13d4] the administration is converted into a company voluntary arrangement; *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-#### 79. Rule 2.58 Contents of affidavit (affected by repeal, see note)[^key-ad5aeaeb4d753f6e3e3e4b2b9a8159cc][^key-568c3e72e8ae01e11d90e48dad8b13d4]
+#### 79. Rule 2.58 Contents of affidavit (affected by repeal, see note)[^c-ad5aeaeb4d753f6e3e3e4b2b9a8159cc][^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-In Rule 2.58(1)(b) for the words “would prove to be in the interests of the creditors in the main proceedings” substitute “would be most appropriate as regards the interests of the local creditors and coherence between the main and secondary insolvency proceedings;” *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+In Rule 2.58(1)(b) for the words “would prove to be in the interests of the creditors in the main proceedings” substitute “would be most appropriate as regards the interests of the local creditors and coherence between the main and secondary insolvency proceedings;” *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-#### 80. Part 2 Chapter 13: EC Regulation — (affected by repeal, see note)member State liquidator (affected by repeal, see note)[^key-7052aa20e94d8469cb6a3770a4b0da72][^key-568c3e72e8ae01e11d90e48dad8b13d4][^key-568c3e72e8ae01e11d90e48dad8b13d4]
+#### 80. Part 2 Chapter 13: EC Regulation — (affected by repeal, see note)member State liquidator (affected by repeal, see note)[^c-7052aa20e94d8469cb6a3770a4b0da72][^c-568c3e72e8ae01e11d90e48dad8b13d4][^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-In the heading to Chapter 13 of Part 2 for “EC Regulation” substitute “EU Regulation”. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+In the heading to Chapter 13 of Part 2 for “EC Regulation” substitute “EU Regulation”. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-#### 81. Rule 2.60 Interpretation of creditor and notice to member State liquidator (affected by repeal, see note)[^key-c4806b2173c7af7e85f1b54b7ed33a70][^key-568c3e72e8ae01e11d90e48dad8b13d4]
+#### 81. Rule 2.60 Interpretation of creditor and notice to member State liquidator (affected by repeal, see note)[^c-c4806b2173c7af7e85f1b54b7ed33a70][^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-Rule 2.60 is amended as follows— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+Rule 2.60 is amended as follows— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-- (a) in paragraph (3) for “Article 32 of the EC Regulation” substitute “Article 45 of the EU Regulation”; *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-- (b) in paragraph (5) for “Article 31 of the EC Regulation (duty to co-operate and communicate information)” substitute “Article 41 of the EU Regulation (cooperation and communication between insolvency practitioners)”. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+- (a) in paragraph (3) for “Article 32 of the EC Regulation” substitute “Article 45 of the EU Regulation”; *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+- (b) in paragraph (5) for “Article 31 of the EC Regulation (duty to co-operate and communicate information)” substitute “Article 41 of the EU Regulation (cooperation and communication between insolvency practitioners)”. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-#### 82. Rule 4.67 (order of priority of expenses of liquidation) (affected by repeal, see note)[^key-15b30ee434a089675bf29ae3ef46111c][^key-568c3e72e8ae01e11d90e48dad8b13d4]
+#### 82. Rule 4.67 (order of priority of expenses of liquidation) (affected by repeal, see note)[^c-15b30ee434a089675bf29ae3ef46111c][^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-Rule 4.67(1)(a) is amended by inserting after “functions in the liquidation” the words “including any costs referred to in Article 30 and 59 of the EU Regulation”. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+Rule 4.67(1)(a) is amended by inserting after “functions in the liquidation” the words “including any costs referred to in Article 30 and 59 of the EU Regulation”. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-#### 83. Rule 4.75A (electronic measures - application) (affected by repeal, see note)[^key-1539f7d340f427a212551232b74120f7][^key-568c3e72e8ae01e11d90e48dad8b13d4]
+#### 83. Rule 4.75A (electronic measures - application) (affected by repeal, see note)[^c-1539f7d340f427a212551232b74120f7][^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-In Rule 4.75A(4)(b) (electronic measures - application), for “Article 37 of the EC Regulation” substitute “Article 51 of the EU Regulation”. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+In Rule 4.75A(4)(b) (electronic measures - application), for “Article 37 of the EC Regulation” substitute “Article 51 of the EU Regulation”. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-#### 84. Part 4 Chapter 14: EC Regulation – member State liquidator (affected by repeal, see note)[^key-f893024111e0764ed1ca1913e65d2f3b][^key-568c3e72e8ae01e11d90e48dad8b13d4]
+#### 84. Part 4 Chapter 14: EC Regulation – member State liquidator (affected by repeal, see note)[^c-f893024111e0764ed1ca1913e65d2f3b][^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-In the heading to Chapter 14 of Part 4 for “EC Regulation” substitute “EU Regulation”. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+In the heading to Chapter 14 of Part 4 for “EC Regulation” substitute “EU Regulation”. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-#### 85. Winding up – member State liquidator (affected by repeal, see note)[^key-9f51c7a1ca58582457e85ee368145fb2][^key-568c3e72e8ae01e11d90e48dad8b13d4]
+#### 85. Winding up – member State liquidator (affected by repeal, see note)[^c-9f51c7a1ca58582457e85ee368145fb2][^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-In Rule 4.83 (interpretation of creditor and notice to member State liquidator)— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+In Rule 4.83 (interpretation of creditor and notice to member State liquidator)— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-- (a) in paragraph (4) for “Article 32 of the EC Regulation” substitute “Article 45 of the EU Regulation”; and *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-- (b) in paragraph (6) for “Article 31 of the EC Regulation (duty to co-operate and communicate information)” substitute “Article 41 of the EU Regulation (cooperation and communication between insolvency practitioners)”. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+- (a) in paragraph (4) for “Article 32 of the EC Regulation” substitute “Article 45 of the EU Regulation”; and *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+- (b) in paragraph (6) for “Article 31 of the EC Regulation (duty to co-operate and communicate information)” substitute “Article 41 of the EU Regulation (cooperation and communication between insolvency practitioners)”. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-#### 86. Part 4 Chapter 15 (affected by repeal, see note)[^key-207b4910b836105e3619cc6a7fb2d626][^key-568c3e72e8ae01e11d90e48dad8b13d4]
+#### 86. Part 4 Chapter 15 (affected by repeal, see note)[^c-207b4910b836105e3619cc6a7fb2d626][^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-In the heading to Chapter 15 for “EC Regulation” substitute “EU Regulation”. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+In the heading to Chapter 15 for “EC Regulation” substitute “EU Regulation”. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-#### 87. Confirmation of creditors’ voluntary winding up: application (affected by repeal, see note)[^key-4388eefbbff071805090a69a92c4c32d][^key-568c3e72e8ae01e11d90e48dad8b13d4]
+#### 87. Confirmation of creditors’ voluntary winding up: application (affected by repeal, see note)[^c-4388eefbbff071805090a69a92c4c32d][^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-In Rule 4.84 (application for confirmation)— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+In Rule 4.84 (application for confirmation)— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-- (a) in paragraph (1) for “EC Regulation” substitute “EU Regulation”; and *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-- (b) for sub-paragraph (2)(e) substitute— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+- (a) in paragraph (1) for “EC Regulation” substitute “EU Regulation”; and *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+- (b) for sub-paragraph (2)(e) substitute— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-  > - (e) that the EU Regulation will apply to the company and whether the proceedings will be main proceedings, territorial proceedings or secondary proceedings and the reasons for so stating *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+  > - (e) that the EU Regulation will apply to the company and whether the proceedings will be main proceedings, territorial proceedings or secondary proceedings and the reasons for so stating *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
   .
 
-#### 88. Member State liquidator (affected by repeal, see note): duty to give notice (affected by repeal, see note)[^key-56dce887d5b8e1137a68c0fa3704d784][^key-568c3e72e8ae01e11d90e48dad8b13d4][^key-568c3e72e8ae01e11d90e48dad8b13d4]
+#### 88. Member State liquidator (affected by repeal, see note): duty to give notice (affected by repeal, see note)[^c-56dce887d5b8e1137a68c0fa3704d784][^c-568c3e72e8ae01e11d90e48dad8b13d4][^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-In Rule 4.85 (notice to member State liquidator and creditors in member *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4] States)— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+In Rule 4.85 (notice to member State liquidator and creditors in member *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4] States)— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-- (a) in paragraph (a) for “the member State liquidator” the second time it occurs substitute— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+- (a) in paragraph (a) for “the member State liquidator” the second time it occurs substitute— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
   > —
   >
-  > - (i) any member State liquidator; or *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-  > - (ii (affected by repeal, see note))[^key-568c3e72e8ae01e11d90e48dad8b13d4] where the liquidator knows that an application has been made to commence insolvency proceedings in another member State but a member State liquidator has not yet been appointed, to the court to which that application has been made *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+  > - (i) any member State liquidator; or *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+  > - (ii (affected by repeal, see note))[^c-568c3e72e8ae01e11d90e48dad8b13d4] where the liquidator knows that an application has been made to commence insolvency proceedings in another member State but a member State liquidator has not yet been appointed, to the court to which that application has been made *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-  ; and *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-- (b) in paragraph (b), for “Article 40 of the EC Regulation” substitute “Article 54 of the EU Regulation”. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+  ; and *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+- (b) in paragraph (b), for “Article 40 of the EC Regulation” substitute “Article 54 of the EU Regulation”. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-#### 89. Member State liquidator (affected by repeal, see note): interpretation of creditor (affected by repeal, see note)[^key-9b66288396def705567c1c7922cb67a6][^key-568c3e72e8ae01e11d90e48dad8b13d4][^key-568c3e72e8ae01e11d90e48dad8b13d4]
+#### 89. Member State liquidator (affected by repeal, see note): interpretation of creditor (affected by repeal, see note)[^c-9b66288396def705567c1c7922cb67a6][^c-568c3e72e8ae01e11d90e48dad8b13d4][^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-In Rule 7.20A (interpretation of creditor) for “Article 32 of the EC Regulation” substitute “Article 45 of the EU Regulation”. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+In Rule 7.20A (interpretation of creditor) for “Article 32 of the EC Regulation” substitute “Article 45 of the EU Regulation”. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-#### 90. EU Regulation – undertakings and group proceedings etc. (affected by repeal, see note)[^key-5c793b6cc3823a39d30772a53bd8181a][^key-568c3e72e8ae01e11d90e48dad8b13d4]
+#### 90. EU Regulation – undertakings and group proceedings etc. (affected by repeal, see note)[^c-5c793b6cc3823a39d30772a53bd8181a][^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-After Rule 7.20A, insert— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+After Rule 7.20A, insert— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-> **CHAPTER (affected by repeal, see note) 2A — The EU Regulation (affected by repeal, see note)[^key-568c3e72e8ae01e11d90e48dad8b13d4][^key-568c3e72e8ae01e11d90e48dad8b13d4]**
+> **CHAPTER (affected by repeal, see note) 2A — The EU Regulation (affected by repeal, see note)[^c-568c3e72e8ae01e11d90e48dad8b13d4][^c-568c3e72e8ae01e11d90e48dad8b13d4]**
 >
-> **7.20B. Main proceedings in Scotland: undertaking by office-holder in respect of assets in another member State (Article 36 of the EU Regulation) (affected by repeal, see note)[^key-568c3e72e8ae01e11d90e48dad8b13d4]**
+> **7.20B. Main proceedings in Scotland: undertaking by office-holder in respect of assets in another member State (Article 36 of the EU Regulation) (affected by repeal, see note)[^c-568c3e72e8ae01e11d90e48dad8b13d4]**
 >
-> (1) This rule applies where an office-holder in main proceedings proposes to give an undertaking under Article 36 of the EU Regulation in respect of assets located in another member State. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+> (1) This rule applies where an office-holder in main proceedings proposes to give an undertaking under Article 36 of the EU Regulation in respect of assets located in another member State. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 >
-> (2) The following requirements apply in respect of the proposed undertaking. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+> (2) The following requirements apply in respect of the proposed undertaking. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 >
-> (3) In addition to the requirements as to form and content set out in Article 36 the undertaking must contain— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+> (3) In addition to the requirements as to form and content set out in Article 36 the undertaking must contain— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 >
-> - (a) the heading “Proposed Undertaking under Article 36 of the EU Insolvency Regulation (2015/848)”; *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-> - (b) identification details for the company and for the main proceedings; *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-> - (c) identification and contact details for the office-holder; and *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-> - (d) a description of the effect of the undertaking if approved. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+> - (a) the heading “Proposed Undertaking under Article 36 of the EU Insolvency Regulation (2015/848)”; *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+> - (b) identification details for the company and for the main proceedings; *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+> - (c) identification and contact details for the office-holder; and *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+> - (d) a description of the effect of the undertaking if approved. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 >
-> (4) The proposed undertaking must be delivered to all the local creditors *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4][^f00036] in the member State concerned of whose address the office-holder is aware. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+> (4) The proposed undertaking must be delivered to all the local creditors *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4][^f00036] in the member State concerned of whose address the office-holder is aware. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 >
-> (5) Where the undertaking is rejected the office-holder must inform all the creditors of the company of the rejection of the undertaking as soon as reasonably practicable. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+> (5) Where the undertaking is rejected the office-holder must inform all the creditors of the company of the rejection of the undertaking as soon as reasonably practicable. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 >
-> (6) Where the undertaking is approved the office-holder must as soon as reasonably practicable— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+> (6) Where the undertaking is approved the office-holder must as soon as reasonably practicable— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 >
-> - (a) send a copy of the undertaking to all the creditors with a notice informing them of the approval of the undertaking and of its effect (so far as they have not already been given this information under paragraph (3)(d)); *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-> - (b) where the insolvency proceedings relate to a registered company deliver a copy of the undertaking to the registrar of companies. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+> - (a) send a copy of the undertaking to all the creditors with a notice informing them of the approval of the undertaking and of its effect (so far as they have not already been given this information under paragraph (3)(d)); *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+> - (b) where the insolvency proceedings relate to a registered company deliver a copy of the undertaking to the registrar of companies. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 >
-> (7) The office-holder may advertise details of the undertaking in the other member State in such manner as the office-holder thinks fit. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+> (7) The office-holder may advertise details of the undertaking in the other member State in such manner as the office-holder thinks fit. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 >
-> **7.20C. Main proceedings in another member State: approval of undertaking offered by the member State liquidator to local creditors in the UK (affected by repeal, see note)[^key-568c3e72e8ae01e11d90e48dad8b13d4]**
+> **7.20C. Main proceedings in another member State: approval of undertaking offered by the member State liquidator to local creditors in the UK (affected by repeal, see note)[^c-568c3e72e8ae01e11d90e48dad8b13d4]**
 >
-> (1) This rule applies where a member State liquidator proposes an undertaking under Article 36 and the secondary proceedings which the undertaking is intended to avoid would be insolvency proceedings to which these Rules apply. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+> (1) This rule applies where a member State liquidator proposes an undertaking under Article 36 and the secondary proceedings which the undertaking is intended to avoid would be insolvency proceedings to which these Rules apply. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 >
-> (2) A decision by the local creditors whether to approve the undertaking shall be taken as if it were a decision taken by a company’s creditors to approve a proposed company voluntary arrangement under section 4A of the Act *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4][^f00037].
+> (2) A decision by the local creditors whether to approve the undertaking shall be taken as if it were a decision taken by a company’s creditors to approve a proposed company voluntary arrangement under section 4A of the Act *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4][^f00037].
 >
-> (3) Without prejudice to the generality of paragraph (2), Rules 1.14 to 1.16E apply to that decision. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+> (3) Without prejudice to the generality of paragraph (2), Rules 1.14 to 1.16E apply to that decision. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 >
-> (4) Where the main proceedings relate to a registered company the member State liquidator must deliver a copy of the approved undertaking to the registrar of companies. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+> (4) Where the main proceedings relate to a registered company the member State liquidator must deliver a copy of the approved undertaking to the registrar of companies. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 >
-> **7.20D. Powers of an office-holder or member State liquidator in proceedings concerning members of a group of companies (Article 60 of the EU Regulation) (affected by repeal, see note)[^key-568c3e72e8ae01e11d90e48dad8b13d4]**
+> **7.20D. Powers of an office-holder or member State liquidator in proceedings concerning members of a group of companies (Article 60 of the EU Regulation) (affected by repeal, see note)[^c-568c3e72e8ae01e11d90e48dad8b13d4]**
 >
-> Where an office-holder or a member State liquidator makes an application in accordance with paragraph (1)(b) *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4] of Article 60 of the EU Regulation *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4] the application must state with reasons why the applicant thinks the matters set out in (i) to (iv) of that paragraph apply. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+> Where an office-holder or a member State liquidator makes an application in accordance with paragraph (1)(b) *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4] of Article 60 of the EU Regulation *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4] the application must state with reasons why the applicant thinks the matters set out in (i) to (iv) of that paragraph apply. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 >
-> **7.20E. Group coordination proceedings (Section 2 of Chapter 5 of the EU Regulation) (affected by repeal, see note)[^key-568c3e72e8ae01e11d90e48dad8b13d4]**
+> **7.20E. Group coordination proceedings (Section 2 of Chapter 5 of the EU Regulation) (affected by repeal, see note)[^c-568c3e72e8ae01e11d90e48dad8b13d4]**
 >
-> (1) An application to open group coordination proceedings must be headed “Application under Article 61 of Regulation (EU) 2015/848 to open group coordination proceedings” and must, in addition to the requirements in Article 61 contain— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+> (1) An application to open group coordination proceedings must be headed “Application under Article 61 of Regulation (EU) 2015/848 to open group coordination proceedings” and must, in addition to the requirements in Article 61 contain— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 >
-> - (a) identification and contact details for the office-holder making the application; *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-> - (b) identification details for the company and the insolvency proceedings by virtue of which the office-holder is making the application; *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-> - (c) identification details for the company and the insolvency proceedings in respect of each company which is a member of the group; *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-> - (d) contact details for the office-holders and member State liquidators appointed in those proceedings; *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-> - (e) identification details for any insolvency proceedings in respect of a member of the group which are not to be subject to the coordination because of an objection to being included; and *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-> - (f) if relevant, a copy of any such agreement as is mentioned in Article 66 of the EU Regulation. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+> - (a) identification and contact details for the office-holder making the application; *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+> - (b) identification details for the company and the insolvency proceedings by virtue of which the office-holder is making the application; *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+> - (c) identification details for the company and the insolvency proceedings in respect of each company which is a member of the group; *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+> - (d) contact details for the office-holders and member State liquidators appointed in those proceedings; *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+> - (e) identification details for any insolvency proceedings in respect of a member of the group which are not to be subject to the coordination because of an objection to being included; and *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+> - (f) if relevant, a copy of any such agreement as is mentioned in Article 66 of the EU Regulation. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 >
-> (2) “office-holder” in this rule includes as the context requires a person holding office in insolvency proceedings in relation to the company in Scotland or Northern Ireland and a member State liquidator. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+> (2) “office-holder” in this rule includes as the context requires a person holding office in insolvency proceedings in relation to the company in Scotland or Northern Ireland and a member State liquidator. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 >
-> **7.20F. Group coordination order (Article 68 EU Regulation) (affected by repeal, see note)[^key-568c3e72e8ae01e11d90e48dad8b13d4]**
+> **7.20F. Group coordination order (Article 68 EU Regulation) (affected by repeal, see note)[^c-568c3e72e8ae01e11d90e48dad8b13d4]**
 >
-> (1) An order opening group coordination proceedings must also *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4][^f00038] contain— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+> (1) An order opening group coordination proceedings must also *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4][^f00038] contain— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 >
-> - (a) identification details for the insolvency proceedings by virtue of which the office-holder is making the application; *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-> - (b) identification and contact details for the office-holder making the application; *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-> - (c) identification details for the insolvency proceedings which are subject to the coordination; and *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-> - (d) identification details for any insolvency proceedings for a member of the group which is not subject to the coordination because of an objection to being included. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+> - (a) identification details for the insolvency proceedings by virtue of which the office-holder is making the application; *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+> - (b) identification and contact details for the office-holder making the application; *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+> - (c) identification details for the insolvency proceedings which are subject to the coordination; and *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+> - (d) identification details for any insolvency proceedings for a member of the group which is not subject to the coordination because of an objection to being included. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 >
-> (2) The office-holder making the application must deliver a copy of the order to the coordinator and to any person who is, in respect of proceedings subject to the coordination,— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+> (2) The office-holder making the application must deliver a copy of the order to the coordinator and to any person who is, in respect of proceedings subject to the coordination,— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 >
-> - (a) an office-holder, *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-> - (b) a person holding office in insolvency proceedings in relation to the company in England and Wales or Northern Ireland, and *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-> - (c) a member State liquidator. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+> - (a) an office-holder, *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+> - (b) a person holding office in insolvency proceedings in relation to the company in England and Wales or Northern Ireland, and *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+> - (c) a member State liquidator. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 >
-> **7.20G. Delivery of group coordination order to registrar of companies (affected by repeal, see note)[^key-568c3e72e8ae01e11d90e48dad8b13d4]**
+> **7.20G. Delivery of group coordination order to registrar of companies (affected by repeal, see note)[^c-568c3e72e8ae01e11d90e48dad8b13d4]**
 >
-> An office-holder in respect of insolvency proceedings subject to coordination must deliver a copy of the group coordination order to the registrar of companies. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+> An office-holder in respect of insolvency proceedings subject to coordination must deliver a copy of the group coordination order to the registrar of companies. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 >
-> **7.20H. Office holder’s report (affected by repeal, see note)[^key-568c3e72e8ae01e11d90e48dad8b13d4]**
+> **7.20H. Office holder’s report (affected by repeal, see note)[^c-568c3e72e8ae01e11d90e48dad8b13d4]**
 >
-> Where, under the second paragraph of Article 70(2) of the EU Regulation, an office-holder is required to give reasons for not following the coordinator’s recommendations or the group coordination plan those reasons must be given as soon as reasonably practicable by a notice to all the creditors. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+> Where, under the second paragraph of Article 70(2) of the EU Regulation, an office-holder is required to give reasons for not following the coordinator’s recommendations or the group coordination plan those reasons must be given as soon as reasonably practicable by a notice to all the creditors. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 >
-> **7.20I. Publication of opening of proceedings by a member State liquidator (affected by repeal, see note)[^key-568c3e72e8ae01e11d90e48dad8b13d4]**
+> **7.20I. Publication of opening of proceedings by a member State liquidator (affected by repeal, see note)[^c-568c3e72e8ae01e11d90e48dad8b13d4]**
 >
-> (1) This rule applies where— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+> (1) This rule applies where— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 >
-> - (a) a company subject to insolvency proceedings has an establishment in Scotland; and *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-> - (b) a member State liquidator is required or authorised under Article 28 of the EU Regulation to publish a notice. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+> - (a) a company subject to insolvency proceedings has an establishment in Scotland; and *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+> - (b) a member State liquidator is required or authorised under Article 28 of the EU Regulation to publish a notice. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 >
-> (2) The notice must be published in the Edinburgh Gazette. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+> (2) The notice must be published in the Edinburgh Gazette. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 >
-> **7.20J. Statement by member State liquidator (affected by repeal, see note) that insolvency proceedings in another member State are closed etc. (affected by repeal, see note)[^key-568c3e72e8ae01e11d90e48dad8b13d4][^key-568c3e72e8ae01e11d90e48dad8b13d4]**
+> **7.20J. Statement by member State liquidator (affected by repeal, see note) that insolvency proceedings in another member State are closed etc. (affected by repeal, see note)[^c-568c3e72e8ae01e11d90e48dad8b13d4][^c-568c3e72e8ae01e11d90e48dad8b13d4]**
 >
-> A statement by a member State liquidator under any of sections 201, 204, 205 or paragraph 84 of Schedule B1 informing the registrar of companies that the insolvency proceedings in another member State are closed or that the member State liquidator consents to the dissolution must contain— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+> A statement by a member State liquidator under any of sections 201, 204, 205 or paragraph 84 of Schedule B1 informing the registrar of companies that the insolvency proceedings in another member State are closed or that the member State liquidator consents to the dissolution must contain— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 >
-> - (a) identification details for the company; and *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-> - (b) identification details for the member State liquidator. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+> - (a) identification details for the company; and *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+> - (b) identification details for the member State liquidator. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
 .
 
-#### 91. Forms (affected by repeal, see note)[^key-45ab0c38d54cecbeaed20ec3cc9d9604][^key-568c3e72e8ae01e11d90e48dad8b13d4]
+#### 91. Forms (affected by repeal, see note)[^c-45ab0c38d54cecbeaed20ec3cc9d9604][^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-In Schedule 5 (Forms)— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+In Schedule 5 (Forms)— *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
-- (a) in Form 4.7 (Scot) (Statement of Claim by Creditor) note 6, for “liquidator” substitute “insolvency practitioner”; and *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
-- (b) in Form 4.30 (Scot) (Confirmation by Court of Creditors’ Voluntary Winding up Application and Order) in marginal note (e), for “or territorial proceedings” substitute “, territorial proceedings or non-EU proceedings”. *(affected by repeal, see note)*[^key-568c3e72e8ae01e11d90e48dad8b13d4]
+- (a) in Form 4.7 (Scot) (Statement of Claim by Creditor) note 6, for “liquidator” substitute “insolvency practitioner”; and *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
+- (b) in Form 4.30 (Scot) (Confirmation by Court of Creditors’ Voluntary Winding up Application and Order) in marginal note (e), for “or territorial proceedings” substitute “, territorial proceedings or non-EU proceedings”. *(affected by repeal, see note)*[^c-568c3e72e8ae01e11d90e48dad8b13d4]
 
 ### PART 6 — Other amendments England, Wales and Scotland
 
-#### 92. Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016[^key-ef4a0c99d4a28318633c03af0fabbba3]
+#### 92. Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016[^c-ef4a0c99d4a28318633c03af0fabbba3]
 
 (1) The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016[^f00039] is amended as follows.
 
 (2) In the definition of “creditor” in article 2(1), for “liquidator” substitute “insolvency practitioner”.
 
-#### 93. The Pension Protection Fund (Entry Rules) Regulations 2005[^key-2f499dd0b5b1970184821533e06a79c9]
+#### 93. The Pension Protection Fund (Entry Rules) Regulations 2005[^c-2f499dd0b5b1970184821533e06a79c9]
 
 (1) The Pension Protection Fund (Entry Rules) Regulations 2005[^f00040] are amended as follows.
 
@@ -917,7 +917,7 @@ In Schedule 5 (Forms)— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11
 
 .
 
-#### 94. Cross-Border Insolvency Regulations 2006[^key-f2b28fff33b6c6f601b1a53914fd03bc]
+#### 94. Cross-Border Insolvency Regulations 2006[^c-f2b28fff33b6c6f601b1a53914fd03bc]
 
 (1) The Cross-Border Insolvency Regulations 2006[^f00041] are amended as follows.
 
@@ -945,13 +945,13 @@ In Schedule 5 (Forms)— *(affected by repeal, see note)*[^key-568c3e72e8ae01e11
 
   .
 
-#### 95. Regulated Covered Bonds Regulations 2008[^key-ac10611ed8cabb81004da9a45f5bb49c]
+#### 95. Regulated Covered Bonds Regulations 2008[^c-ac10611ed8cabb81004da9a45f5bb49c]
 
 The Regulated Covered Bonds Regulations 2008[^f00042] are amended as follows. In regulation 1(2) (Citation, commencement and interpretation) in the definition of “centre of main interests” for “Council Regulation [(EC) No 1346/2000](https://www.legislation.gov.uk/european/regulation/2000/1346)” substitute “Regulation (EU) 2015/848 of the European Parliament and of the Council”.
 
 ### PART 7 — Northern Ireland
 
-#### 96. Amendments to the Insolvency (Northern Ireland) Order 1989[^key-468020cec34a90fbdbe6b5391c173682]
+#### 96. Amendments to the Insolvency (Northern Ireland) Order 1989[^c-468020cec34a90fbdbe6b5391c173682]
 
 (1) The Insolvency (Northern Ireland) Order 1989[^f00043] is amended as follows.
 
@@ -970,13 +970,13 @@ The Regulated Covered Bonds Regulations 2008[^f00042] are amended as follows. In
 
 (3) In Article 2A (proceedings under EC Regulation: modified definition of property)[^f00045] and in the heading to that Article for “EC Regulation” substitute “EU Regulation”.
 
-**97.**[^key-80f78a4325f8cddba15a16d31d50e8f2] In Article 3 (meaning of “act as insolvency practitioner”)[^f00046] in paragraph (6) for “EC Regulation” substitute “EU Regulation”.
+**97.**[^c-80f78a4325f8cddba15a16d31d50e8f2] In Article 3 (meaning of “act as insolvency practitioner”)[^f00046] in paragraph (6) for “EC Regulation” substitute “EU Regulation”.
 
-**98.**[^key-0d47c7248b19cd5eb8576d014343b5ad] In Article 6 (interpretation: “insolvency” and “go into liquidation”) in paragraph (3)(b) for “Article 37 of the EC Regulation” substitute “Article 51 of the EU Regulation”.
+**98.**[^c-0d47c7248b19cd5eb8576d014343b5ad] In Article 6 (interpretation: “insolvency” and “go into liquidation”) in paragraph (3)(b) for “Article 37 of the EC Regulation” substitute “Article 51 of the EU Regulation”.
 
-**99.**[^key-e073e1f5ca7464b71f08cb64df330d2b] In Article 14 (those who may propose an arrangement) in paragraph (5) for “same meaning as in the EC Regulation” to the end of the sentence substitute “same meaning as in Article 3 of the EU Regulation.”
+**99.**[^c-e073e1f5ca7464b71f08cb64df330d2b] In Article 14 (those who may propose an arrangement) in paragraph (5) for “same meaning as in the EC Regulation” to the end of the sentence substitute “same meaning as in Article 3 of the EU Regulation.”
 
-**100.**[^key-b3a88ee1183d3c7c06cf432139a1f0d4] In Article 80 (final meeting prior to dissolution) after paragraph (3) insert—
+**100.**[^c-b3a88ee1183d3c7c06cf432139a1f0d4] In Article 80 (final meeting prior to dissolution) after paragraph (3) insert—
 
 > (3A) Paragraph (3B) applies where, immediately before the liquidator sends a copy of the account of the winding up to the registrar under paragraph (3), there are EU insolvency proceedings open in respect of the company in one or more other member States.
 >
@@ -986,9 +986,9 @@ The Regulated Covered Bonds Regulations 2008[^f00042] are amended as follows. In
 > - (b) identifying that member State liquidator appointed in each of those proceedings, and
 > - (c) indicating, in relation to each of those member State liquidators, whether the member State liquidator consents to the company being dissolved.
 
-**101.**[^key-fd15e754ce339d01cef5099a8df7453d] In Article 104 (application for winding up)[^f00047] for the words from “ in paragraph (1) for the words from a liquidator ” to “(within the meaning of Article 38 of the EC Regulation)” substitute “a member State liquidator appointed in proceedings by virtue of Article 3(1) of the EU Regulation or a temporary administrator (within the meaning of Article 52 of the EU Regulation)”.
+**101.**[^c-fd15e754ce339d01cef5099a8df7453d] In Article 104 (application for winding up)[^f00047] for the words from “ in paragraph (1) for the words from a liquidator ” to “(within the meaning of Article 38 of the EC Regulation)” substitute “a member State liquidator appointed in proceedings by virtue of Article 3(1) of the EU Regulation or a temporary administrator (within the meaning of Article 52 of the EU Regulation)”.
 
-**102.**[^key-21f5766b34084e1c6791d7f6925c8f2b] In Article 124 (duty to summon final meeting) after paragraph (3) insert—
+**102.**[^c-21f5766b34084e1c6791d7f6925c8f2b] In Article 124 (duty to summon final meeting) after paragraph (3) insert—
 
 > (4) The liquidator shall during the relevant period send to the High court and the registrar—
 >
@@ -1007,7 +1007,7 @@ The Regulated Covered Bonds Regulations 2008[^f00042] are amended as follows. In
 
 .
 
-**103.**[^key-5010f861cd4efc9559db819edb5e2740] After Article 124 insert—
+**103.**[^c-5010f861cd4efc9559db819edb5e2740] After Article 124 insert—
 
 > **124A. Official receiver’s duty to send statement to registrar about other proceedings—**
 >
@@ -1024,7 +1024,7 @@ The Regulated Covered Bonds Regulations 2008[^f00042] are amended as follows. In
 
 .
 
-**104.**[^key-c0a177e81e384d161bfad112d70ac30c] (1) Article 166 (dissolution (voluntary winding up)) is amended as follows.
+**104.**[^c-c0a177e81e384d161bfad112d70ac30c] (1) Article 166 (dissolution (voluntary winding up)) is amended as follows.
 
 (2) In paragraph (2)—
 
@@ -1042,7 +1042,7 @@ The Regulated Covered Bonds Regulations 2008[^f00042] are amended as follows. In
 
 .
 
-**105.**[^key-cc9e8795a22b4ea0ff2d8f0f376915b2] (1) Article 167 (early dissolution) is amended as follows.
+**105.**[^c-cc9e8795a22b4ea0ff2d8f0f376915b2] (1) Article 167 (early dissolution) is amended as follows.
 
 (2) After paragraph (1) insert—
 
@@ -1076,9 +1076,9 @@ The Regulated Covered Bonds Regulations 2008[^f00042] are amended as follows. In
 
 (6) In paragraph (5), for “that period” substitute “the period in paragraph (4) or (6)".
 
-**106.**[^key-ba806e18a3426942db25cfbdcb0837bb] In Article 168 (consequence of notice under Article 167), in paragraph (3)(b) for “Article 167(4)” substitute “Article 167(7)”.
+**106.**[^c-ba806e18a3426942db25cfbdcb0837bb] In Article 168 (consequence of notice under Article 167), in paragraph (3)(b) for “Article 167(4)” substitute “Article 167(7)”.
 
-**107.**[^key-5a6910f541d0d4094f2c62dcd9435f03] (1) Article 169 (dissolution otherwise than under Article 167) is amended as follows.
+**107.**[^c-5a6910f541d0d4094f2c62dcd9435f03] (1) Article 169 (dissolution otherwise than under Article 167) is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -1094,13 +1094,13 @@ The Regulated Covered Bonds Regulations 2008[^f00042] are amended as follows. In
 > - (a) all proceedings identified in the statement under Article 124(7) or 124A(2) were closed; or
 > - (b) every member State liquidator appointed in those proceedings consented to the company being dissolved.
 
-**108.**[^key-b301f40b8db11ebdd4d9ef121b42b13e] In Article 185 (winding up of unregistered companies)[^f00048] in paragraph (3) for “EC Regulation” substitute “EU Regulation”.
+**108.**[^c-b301f40b8db11ebdd4d9ef121b42b13e] In Article 185 (winding up of unregistered companies)[^f00048] in paragraph (3) for “EC Regulation” substitute “EU Regulation”.
 
-**109.**[^key-6caf1d5f7b951db883ddc870d76cde42] In Article 189 (company incorporated outside Northern Ireland)[^f00049] may be wound up though dissolved) in paragraph (2) for “EC Regulation” substitute “EU Regulation”.
+**109.**[^c-6caf1d5f7b951db883ddc870d76cde42] In Article 189 (company incorporated outside Northern Ireland)[^f00049] may be wound up though dissolved) in paragraph (2) for “EC Regulation” substitute “EU Regulation”.
 
-**110.**[^key-1c6733d43ea08fcd70848d187a2ed18a] In Article 204 (“relevant time” under Articles 202, 203)[^f00050] in paragraph (3)(d) for “Article 37 of the EC Regulation” substitute “Article 51 of the EU Regulation”.
+**110.**[^c-1c6733d43ea08fcd70848d187a2ed18a] In Article 204 (“relevant time” under Articles 202, 203)[^f00050] in paragraph (3)(d) for “Article 37 of the EC Regulation” substitute “Article 51 of the EU Regulation”.
 
-**111.**[^key-3c502d6eab932b216d5925fcf107a511] In Article 238 (who may present a bankruptcy petition)—
+**111.**[^c-3c502d6eab932b216d5925fcf107a511] In Article 238 (who may present a bankruptcy petition)—
 
 - (a) in paragraph (1)(ba) for “Article 38 of the EC Regulation” substitute “Article 52 of the EU Regulation”; and
 - (b) for paragraph (1)(bb) substitute—
@@ -1109,21 +1109,21 @@ The Regulated Covered Bonds Regulations 2008[^f00042] are amended as follows. In
 
   .
 
-**112.**[^key-aee404c461871cc0e8bfaa3cc0be1775] In Article 239 (conditions to be satisfied in respect of debtor)[^f00051] in paragraph (3) for “EC Regulation” substitute “EU Regulation”.
+**112.**[^c-aee404c461871cc0e8bfaa3cc0be1775] In Article 239 (conditions to be satisfied in respect of debtor)[^f00051] in paragraph (3) for “EC Regulation” substitute “EU Regulation”.
 
-**113.**[^key-518ad72f637ab6737e9cc548080aa9ec] In Article 303 (final distribution)[^f00052] in paragraph (6) for “Article 35 of the EC Regulation” substitute “Article 49 of the Insolvency Regulation”.
+**113.**[^c-518ad72f637ab6737e9cc548080aa9ec] In Article 303 (final distribution)[^f00052] in paragraph (6) for “Article 35 of the EC Regulation” substitute “Article 49 of the Insolvency Regulation”.
 
-**114.**[^key-dd8800ef67f116c26240e42c29db1bd2] In Article 347 (the “relevant date”)[^f00053] in paragraphs (3)(aa) and (ab) for “Article 37 of the EC Regulation” substitute “Article 51 of the EU Regulation”.
+**114.**[^c-dd8800ef67f116c26240e42c29db1bd2] In Article 347 (the “relevant date”)[^f00053] in paragraphs (3)(aa) and (ab) for “Article 37 of the EC Regulation” substitute “Article 51 of the EU Regulation”.
 
-**115.**[^key-b53b25871b98bec28db5d36fbf190ad9] In Article 359 (Insolvency rules)[^f00054] in paragraphs (1), (2A) and (2B) for “EC Regulation” in each place where it occurs substitute “EU Regulation”.
+**115.**[^c-b53b25871b98bec28db5d36fbf190ad9] In Article 359 (Insolvency rules)[^f00054] in paragraphs (1), (2A) and (2B) for “EC Regulation” in each place where it occurs substitute “EU Regulation”.
 
-**116.**[^key-5d6bc0e882b068606bc72bc560523100] In Article 364 (Insolvent partnerships)[^f00055] in paragraphs (1A) and (1B) for “EC Regulation” in each place it occurs substitute “EU Regulation”.
+**116.**[^c-5d6bc0e882b068606bc72bc560523100] In Article 364 (Insolvent partnerships)[^f00055] in paragraphs (1A) and (1B) for “EC Regulation” in each place it occurs substitute “EU Regulation”.
 
-**117.**[^key-73ed1be30fba7f46cd5891738657f66c] In Article 365 (Insolvent estates of deceased persons)[^f00056] in paragraphs (1A) and (1B) for “EC Regulation” in each place where it occurs substitute “EU Regulation”.
+**117.**[^c-73ed1be30fba7f46cd5891738657f66c] In Article 365 (Insolvent estates of deceased persons)[^f00056] in paragraphs (1A) and (1B) for “EC Regulation” in each place where it occurs substitute “EU Regulation”.
 
-**118.**[^key-be8a0ad97e04e580348582c1941aa7f5] Schedule B1 (administration) is amended as follows.
+**118.**[^c-be8a0ad97e04e580348582c1941aa7f5] Schedule B1 (administration) is amended as follows.
 
-**119.**[^key-454c2539b09be663c8f997943fa05eb4] (1) In paragraph 85 (moving from administration to dissolution) after sub-paragraph (1) insert—
+**119.**[^c-454c2539b09be663c8f997943fa05eb4] (1) In paragraph 85 (moving from administration to dissolution) after sub-paragraph (1) insert—
 
 > (1A) Sub-paragraph (1B) applies where, immediately before the administrator sends the notice, there are EU insolvency proceedings open in respect of the company in one or more member States.
 >
@@ -1151,11 +1151,11 @@ The Regulated Covered Bonds Regulations 2008[^f00042] are amended as follows. In
 
 (5) In sub-paragraph (7)(a) and (c), after “sub-paragraph (6)” insert “or 6(B)”.
 
-**120.**[^key-1312e32f385c97db091196daa0c90a8a] In Schedule B1 (administration) in paragraph 1 (1B)[^f00057] for the words from “as in the EC Regulation” until the end of the sub-paragraph substitute “as in Article 3 of the EU Regulation”.
+**120.**[^c-1312e32f385c97db091196daa0c90a8a] In Schedule B1 (administration) in paragraph 1 (1B)[^f00057] for the words from “as in the EC Regulation” until the end of the sub-paragraph substitute “as in Article 3 of the EU Regulation”.
 
 ### PART 8 — Northern Ireland
 
-#### 121. Amendments to the Insolvency Rules (Northern Ireland) 1991[^key-614216a335f64d7fffca514a142c6ec4]
+#### 121. Amendments to the Insolvency Rules (Northern Ireland) 1991[^c-614216a335f64d7fffca514a142c6ec4]
 
 (1) The Insolvency Rules (Northern Ireland) 1991[^f00058] are amended as follows.
 
@@ -1184,7 +1184,7 @@ The Regulated Covered Bonds Regulations 2008[^f00042] are amended as follows. In
 
   .
 
-#### 122. Rule 1.09 (Summoning of meetings under Article 16)[^key-79175300f576a1b78449b4657876b1de]
+#### 122. Rule 1.09 (Summoning of meetings under Article 16)[^c-79175300f576a1b78449b4657876b1de]
 
 (1) Rule 1.09 is amended as follows.
 
@@ -1192,14 +1192,14 @@ The Regulated Covered Bonds Regulations 2008[^f00042] are amended as follows. In
 
 > (1A) The nominee shall examine whether there is jurisdiction to open the proceedings and shall specify in the nominee’s comments on the proposal required by paragraphs (2)(c) and (3)(c) whether the proceedings will be main, secondary, territorial or non-EU proceedings with the reasons for so stating.
 
-#### 123. Rule 1.31 (application for conversion into winding up)[^key-6143a33611660707e17f095f5dee4971]
+#### 123. Rule 1.31 (application for conversion into winding up)[^c-6143a33611660707e17f095f5dee4971]
 
 In Rule 1.31—
 
 - (a) in paragraph (1) for “Article 37 of the EC Regulation (conversion of earlier proceedings)” substitute “Article 51 of the EU Regulation” and after the words “of a voluntary arrangement into a winding up” insert the words “or of a winding up into a voluntary arrangement; and
 - (b) in paragraph (3) at the beginning of sub-paragraph (b) insert “In the case of an application for the conversion of a voluntary arrangement into a winding up, on”.
 
-#### 124. Rule 1.32 (contents of affidavit)[^key-544e15fd84165d111b1e887eb65e0c8d]
+#### 124. Rule 1.32 (contents of affidavit)[^c-544e15fd84165d111b1e887eb65e0c8d]
 
 In Rule 1.32—
 
@@ -1208,7 +1208,7 @@ In Rule 1.32—
   - (i) at the beginning of sub-paragraph (c) insert, “In the case of an application for the conversion of a voluntary arrangement into a winding up”; and
   - (ii) for sub-paragraph (d)(i) substitute, “in deciding whether to make the order applied for, and”.
 
-#### 125. Rule 1.33 (power of court)[^key-9d6cf9b09f946c26915717ba22dd4a6e]
+#### 125. Rule 1.33 (power of court)[^c-9d6cf9b09f946c26915717ba22dd4a6e]
 
 In Rule 2.133—
 
@@ -1216,7 +1216,7 @@ In Rule 2.133—
 - (b) in paragraph (2) after “into” insert “a voluntary arrangement or”; and
 - (c) in paragraph (3), after “paragraph” in the second place where it occurs, insert “for conversion into winding up”.
 
-#### 126. Interpretation of creditor and notice to member State liquidator[^key-f250be627d467c87492a9bce0bb5f36d]
+#### 126. Interpretation of creditor and notice to member State liquidator[^c-f250be627d467c87492a9bce0bb5f36d]
 
 In Rule 1.34—
 
@@ -1232,7 +1232,7 @@ In Rule 1.34—
   - (i) after “liquidator” insert “, provisional liquidator, interim receiver”;
   - (ii) for “Article 31” substitute “Article 41 of the EU Regulation”.
 
-#### 127. Documents submitted to the court to obtain moratorium[^key-6767b531b70697443f1895dd0dae93ff]
+#### 127. Documents submitted to the court to obtain moratorium[^c-6767b531b70697443f1895dd0dae93ff]
 
 Rule 1.39(2) is amended by inserting after subparagraph (b)—
 
@@ -1240,18 +1240,18 @@ Rule 1.39(2) is amended by inserting after subparagraph (b)—
 
 .
 
-#### 128. Rule 2.068 (expenses of the Administration)[^key-5a3112e4ce4b19df36b0cf7679d7b893]
+#### 128. Rule 2.068 (expenses of the Administration)[^c-5a3112e4ce4b19df36b0cf7679d7b893]
 
 In paragraph (1)(f) of Rule 2.068 after “(including any” insert “costs referred to in Articles 30 or 59 of the EU Regulations and”.
 
-#### 129. Rules 2.131 (application for conversion into winding-up)[^key-9069ce97e3c78bfb1aa2bb148cabb8db]
+#### 129. Rules 2.131 (application for conversion into winding-up)[^c-9069ce97e3c78bfb1aa2bb148cabb8db]
 
 In Rule 2.131—
 
 - (a) in paragraph (1) for “Article 37 of the EC Regulation (conversion of earlier proceedings)” substitute “Article 51 of the EU Regulation” and after the words “of an administration into a winding up” insert the words “or of a winding up into an administration”;
 - (b) in paragraph (3) at the beginning of sub-paragraph (b) insert “In the case of an application for the conversion of an administration into a winding up, on”.
 
-#### 130. Rule 2.132 (contents of affidavit)[^key-a69aff0fd0a149d21641dbf43d9932f0]
+#### 130. Rule 2.132 (contents of affidavit)[^c-a69aff0fd0a149d21641dbf43d9932f0]
 
 In Rule 2.132—
 
@@ -1260,7 +1260,7 @@ In Rule 2.132—
   - (i) at the beginning of sub-paragraph (c) insert, “In the case of an application for the conversion of an administration into a winding up”; and
   - (ii) for sub-paragraph (d)(i) substitute, “in deciding whether to make an administration or winding up order, as the case may be”.
 
-#### 131. Rule 2.133 (power of court)[^key-edd0466617434377a487d48c8fa566cd]
+#### 131. Rule 2.133 (power of court)[^c-edd0466617434377a487d48c8fa566cd]
 
 In Rule 2.133—
 
@@ -1268,7 +1268,7 @@ In Rule 2.133—
 - (b) in paragraph (2) after “into” insert “administration or”; and
 - (c) in paragraph (3), after “paragraph” in the second place where it occurs, insert “for conversion into winding up”.
 
-#### 132. Interpretation of creditor and notice to member State liquidator[^key-8f61113d8949e13fdfa5839277e5b77b]
+#### 132. Interpretation of creditor and notice to member State liquidator[^c-8f61113d8949e13fdfa5839277e5b77b]
 
 In Rule 2.134—
 
@@ -1281,7 +1281,7 @@ In Rule 2.134—
 
   .
 
-**133.**[^key-64e3887ca374ed840d85fc3d2b3eab88][^key-8f61113d8949e13fdfa5839277e5b77b] After Rule 2.134 insert the following—
+**133.**[^c-64e3887ca374ed840d85fc3d2b3eab88][^c-8f61113d8949e13fdfa5839277e5b77b] After Rule 2.134 insert the following—
 
 > **Main proceedings in Northern Ireland: undertaking by office-holder in respect of assets in another member State (Article 36 of the EU Regulation)**
 >
@@ -1397,7 +1397,7 @@ In Rule 2.134—
 
 .
 
-#### 134. Rule 4.027 (Appointment of provisional liquidator)[^key-8d3ee82ed1faad75bd77a194aeede2d3]
+#### 134. Rule 4.027 (Appointment of provisional liquidator)[^c-8d3ee82ed1faad75bd77a194aeede2d3]
 
 In Rule 4.027(2) after sub-paragraph (e) insert—
 
@@ -1405,11 +1405,11 @@ In Rule 4.027(2) after sub-paragraph (e) insert—
 
 .
 
-#### 135. Rule 4.228 (General Rule as to priority)[^key-45b3b096f94b67f8a023242c10c57fea]
+#### 135. Rule 4.228 (General Rule as to priority)[^c-45b3b096f94b67f8a023242c10c57fea]
 
 In Rule 4.228 (3)(m) after “(including any” insert “costs referred to in Articles 30 or 59 of the EU Regulation and”.
 
-#### 136. Rule 5.14 (Nominee’s report to the court)[^key-721193b3dd9e9726d48d0300d14e88c5]
+#### 136. Rule 5.14 (Nominee’s report to the court)[^c-721193b3dd9e9726d48d0300d14e88c5]
 
 (1) Rule 5.14 is amended as follows.
 
@@ -1419,19 +1419,19 @@ In Rule 4.228 (3)(m) after “(including any” insert “costs referred to in A
 
 .
 
-#### 137. Chapter 13 of Part 5[^key-4f4210265b0bd593119143964fdeb340]
+#### 137. Chapter 13 of Part 5[^c-4f4210265b0bd593119143964fdeb340]
 
 In the heading to Chapter 13 of Part 5 for the words “EC Regulation” substitute the words “EU Regulation”.
 
-#### 138. Rule 5.61 (Application for conversion of voluntary arrangement into bankruptcy)[^key-3e7a31b36ef28c0d652c4556bd177ae4]
+#### 138. Rule 5.61 (Application for conversion of voluntary arrangement into bankruptcy)[^c-3e7a31b36ef28c0d652c4556bd177ae4]
 
 In Rule 5.61[^f00059] in paragraph (1) for “Article 37 of the EC Regulation (conversion of earlier proceedings)” substitute “Article 51 of the EU Regulation” and after the words “of a voluntary arrangement into a bankruptcy” insert the words “or of a bankruptcy into a voluntary arrangement”.
 
-#### 139. Rule 5.62 (contents of affidavit)[^key-085c36bfce10e0fb35aa19ee0e2d021c]
+#### 139. Rule 5.62 (contents of affidavit)[^c-085c36bfce10e0fb35aa19ee0e2d021c]
 
 In Rule 5.62 for paragraph (1)(b) substitute “the deponent’s belief that the conversion of the IVA into a bankruptcy or of the bankruptcy into an IVA would be most appropriate as regards the interests of the local creditors and coherence between the main and secondary insolvency proceedings.”
 
-#### 140. Rule 6.049 (Application for the appointment of interim receiver)[^key-35c74ed92ce0e7a03fde53ad6f3e9c02]
+#### 140. Rule 6.049 (Application for the appointment of interim receiver)[^c-35c74ed92ce0e7a03fde53ad6f3e9c02]
 
 In Rule 6.049—
 
@@ -1442,17 +1442,17 @@ In Rule 6.049—
 
   .
 
-#### 141. Rule 6.222 (General Rule as to priority)[^key-6dc2ce4679cf18af8337d776e52c51fb]
+#### 141. Rule 6.222 (General Rule as to priority)[^c-6dc2ce4679cf18af8337d776e52c51fb]
 
 In Rule 6.222(1)(m) after “(including any” insert “insert costs referred to in Articles 30 or 59 of the EU Regulation and”.
 
-#### 142. Rule 7.56 (Application for confirmation)[^key-82bda03dbf67ccda55967e9af8a94eaf]
+#### 142. Rule 7.56 (Application for confirmation)[^c-82bda03dbf67ccda55967e9af8a94eaf]
 
 In Rule 7.56(3) at the end of sub-paragraph (e) insert “and the reasons for so stating”.
 
 ### PART 9 — Consequential amendments Northern Ireland
 
-#### 143. Amendments to the Pension Protection Fund (Entry Rules) Regulations (Northern Ireland) 2005[^key-d149ad209ade586fcdedab0c49638c00]
+#### 143. Amendments to the Pension Protection Fund (Entry Rules) Regulations (Northern Ireland) 2005[^c-d149ad209ade586fcdedab0c49638c00]
 
 (1) The Pension Protection Fund (Entry Rules) Regulations (Northern Ireland) 2005[^f00060] are amended as follows.
 
@@ -1471,7 +1471,7 @@ In Rule 7.56(3) at the end of sub-paragraph (e) insert “and the reasons for so
 
 .
 
-#### 144. Cross-Border Insolvency Regulations (Northern Ireland) 2007[^key-4c219c9e9f5bb02b45c43dccd1ee211d]
+#### 144. Cross-Border Insolvency Regulations (Northern Ireland) 2007[^c-4c219c9e9f5bb02b45c43dccd1ee211d]
 
 (1) The Cross-Border Insolvency Regulations (Northern Ireland) 2007[^f00061] are amended as follows.
 
@@ -1492,251 +1492,251 @@ In Rule 7.56(3) at the end of sub-paragraph (e) insert “and the reasons for so
 
 ## Annotations
 
-[^key-c920708c0fa84be066b912100291b4e0]: Commencement: Sch. para. 1 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-c920708c0fa84be066b912100291b4e0]: Commencement: Sch. para. 1 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-9e60063b05e7da9c877c11c0027cbe63]: Commencement: Sch. para. 2 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-9e60063b05e7da9c877c11c0027cbe63]: Commencement: Sch. para. 2 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00005]: Footnote: Subsection (5) was inserted by [S.I. 2005/879](https://www.legislation.gov.uk/uksi/2005/879).
 
-[^key-229fe357f21f75f23011e997906718ca]: Commencement: Sch. para. 3 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-229fe357f21f75f23011e997906718ca]: Commencement: Sch. para. 3 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-32a7626c347528862d0765e55ac8ef2e]: Commencement: Sch. para. 4 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-32a7626c347528862d0765e55ac8ef2e]: Commencement: Sch. para. 4 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00006]: Footnote: Subsection (7) was inserted by [S.I. 2002/1240](https://www.legislation.gov.uk/uksi/2002/1240).
 
-[^key-31df74cd3e4f801a2827a255585c351f]: Commencement: Sch. para. 5 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-31df74cd3e4f801a2827a255585c351f]: Commencement: Sch. para. 5 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00007]: Footnote: Subsection (6) was inserted by [S.I. 2002/1240](https://www.legislation.gov.uk/uksi/2002/1240).
 
-[^key-7b89267ef844fe3b7e00fa60e676ee49]: Commencement: Sch. para. 6 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-7b89267ef844fe3b7e00fa60e676ee49]: Commencement: Sch. para. 6 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00008]: Footnote: Relevant amendments to subsection (1) were made by [S.I. 2002/1240](https://www.legislation.gov.uk/uksi/2002/1240).
 
-[^key-53c1ea62d47a2f050450f72bd2e968c2]: Commencement: Sch. para. 7 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-53c1ea62d47a2f050450f72bd2e968c2]: Commencement: Sch. para. 7 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00009]: Footnote: Section 146 has been amended by the Small Business, Enterprise and Employment Act 2015.
 
-[^key-1177f6a01020f87a8b75fdaf09c4f731]: Commencement: Sch. para. 8 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-1177f6a01020f87a8b75fdaf09c4f731]: Commencement: Sch. para. 8 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-b346c0856e451f04ec5f600af5ac010e]: Commencement: Sch. para. 9 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-b346c0856e451f04ec5f600af5ac010e]: Commencement: Sch. para. 9 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00010]: Footnote: Relevant amendments to section 201 have been made by the Small Business, Enterprise and Employment Act [2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26) and by [S.I. 2006/3429](https://www.legislation.gov.uk/uksi/2006/3429).
 
-[^key-f0c20a9d4193c8a8d2b8880f5c2f9876]: Commencement: Sch. para. 10 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-f0c20a9d4193c8a8d2b8880f5c2f9876]: Commencement: Sch. para. 10 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00011]: Footnote: Relevant amendments to section 202 have been made by the Small Business, Enterprise and Employment Act [2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-8472460a8a910099bd63a8f844834306]: Commencement: Sch. para. 11 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-8472460a8a910099bd63a8f844834306]: Commencement: Sch. para. 11 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-92e981737dc0e5cfa13fea2b4032f595]: Commencement: Sch. para. 12 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-92e981737dc0e5cfa13fea2b4032f595]: Commencement: Sch. para. 12 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-50601be8cc748a93de36bf71f8f88fbb]: Commencement: Sch. para. 13 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-50601be8cc748a93de36bf71f8f88fbb]: Commencement: Sch. para. 13 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00012]: Footnote: Relevant amendment has been made by [S.I. 2002/1240](https://www.legislation.gov.uk/uksi/2002/1240).
 
-[^key-532e5fba10e23d53b8325342b41ee7c8]: Commencement: Sch. para. 14 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-532e5fba10e23d53b8325342b41ee7c8]: Commencement: Sch. para. 14 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00013]: Footnote: Relevant amendment has been made by [S.I. 2002/1240](https://www.legislation.gov.uk/uksi/2002/1240).
 
-[^key-3273e266bf76d4a1dbb8725cd3ea8d56]: Commencement: Sch. para. 15 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-3273e266bf76d4a1dbb8725cd3ea8d56]: Commencement: Sch. para. 15 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-ab28aef38c869b1f18e0dfdb2b9b0adc]: Commencement: Sch. para. 16 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-ab28aef38c869b1f18e0dfdb2b9b0adc]: Commencement: Sch. para. 16 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00014]: Footnote: Relevant amendments have been made by [S.I. 2002/1240](https://www.legislation.gov.uk/uksi/2002/1240) and paragraph 33 of Schedule 17 to the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40).
 
-[^key-7596437485be792d445a3df843e3a86a]: Commencement: Sch. para. 17 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-7596437485be792d445a3df843e3a86a]: Commencement: Sch. para. 17 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-00c041f380bae7293b40b92b5febc6d1]: Commencement: Sch. para. 18 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-00c041f380bae7293b40b92b5febc6d1]: Commencement: Sch. para. 18 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00015]: Footnote: Section 263I was inserted by the Enterprise and Regulatory Reform Act [2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24).
 
-[^key-0cbbb9498f581c00f97de523fecc4703]: Commencement: Sch. para. 19 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-0cbbb9498f581c00f97de523fecc4703]: Commencement: Sch. para. 19 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00016]: Footnote: Section 264 has been amended by the Enterprise and Regulatory Reform Act [2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24) and subsections (1)(ba) and (bb) were inserted by [S.I. 2002/1240](https://www.legislation.gov.uk/uksi/2002/1240).
 
-[^key-37572718e39605be1a15162e8549d526]: Commencement: Sch. para. 20 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-37572718e39605be1a15162e8549d526]: Commencement: Sch. para. 20 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00017]: Footnote: Section 265 was substituted by the Enterprise and Regulatory Reform Act 2013.
 
-[^key-300b70122db5f09ea275f68a4e85393c]: Commencement: Sch. para. 21 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-300b70122db5f09ea275f68a4e85393c]: Commencement: Sch. para. 21 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00018]: Footnote: Subsection (6) was inserted by [SI 2002/1240](https://www.legislation.gov.uk/uksi/2002/1240).
 
-[^key-d19bb287619d2bca352c9f8f3f18f5ce]: Commencement: Sch. para. 22 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-d19bb287619d2bca352c9f8f3f18f5ce]: Commencement: Sch. para. 22 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00019]: Footnote: Subsection (3)(aa) and (ab) were inserted by [S.I. 2002/1240](https://www.legislation.gov.uk/uksi/2002/1240).
 
 [^f00020]: Footnote: Paragraphs (aa) and (ab) were inserted by [S.I. 2002/1240](https://www.legislation.gov.uk/uksi/2002/1240).
 
-[^key-e6a330de1dbe7bb75d6a89317c8eb873]: Commencement: Sch. para. 23 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-e6a330de1dbe7bb75d6a89317c8eb873]: Commencement: Sch. para. 23 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00021]: Footnote: Subsection (6) was inserted by [SI 2002/1240](https://www.legislation.gov.uk/uksi/2002/1240).
 
-[^key-d906bd5d19efedf9a6a196c0b67ba9d2]: Commencement: Sch. para. 24 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-d906bd5d19efedf9a6a196c0b67ba9d2]: Commencement: Sch. para. 24 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00022]: Footnote: Subsection (1) was amended and subsections (2A) and (2B) were inserted by [SI 2002/1037](https://www.legislation.gov.uk/uksi/2002/1037).
 
-[^key-90e235ba02d3ee184e79bf5ee5caf3ad]: Commencement: Sch. para. 25 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-90e235ba02d3ee184e79bf5ee5caf3ad]: Commencement: Sch. para. 25 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00023]: Footnote: Subsection (1) was amended and subsections (2A) and (2B) were inserted by [SI 2002/1037](https://www.legislation.gov.uk/uksi/2002/1037).
 
-[^key-98e6d758d5e46444b8dff84d903557ec]: Commencement: Sch. para. 26 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-98e6d758d5e46444b8dff84d903557ec]: Commencement: Sch. para. 26 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00024]: Footnote: Subsections (1A) and (1B) were inserted by [S.I. 2002/1037](https://www.legislation.gov.uk/uksi/2002/1037).
 
-[^key-8619335a1053815f82549d18a28fde97]: Commencement: Sch. para. 27 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-8619335a1053815f82549d18a28fde97]: Commencement: Sch. para. 27 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00025]: Footnote: Subsections (1A) and (1B) were inserted by [S.I. 2002/1037](https://www.legislation.gov.uk/uksi/2002/1037).
 
-[^key-8b3c52408f9e20541385dc090c23d708]: Commencement: Sch. para. 28 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-8b3c52408f9e20541385dc090c23d708]: Commencement: Sch. para. 28 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00026]: Footnote: The definition of EC Regulation was inserted by [S.I. 2002/1037](https://www.legislation.gov.uk/uksi/2002/1037).
 
-[^key-327f74ef7c77fdaf655a452097a4cb2c]: Commencement: Sch. para. 29 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-327f74ef7c77fdaf655a452097a4cb2c]: Commencement: Sch. para. 29 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00027]: Footnote: Section 436A was inserted by [S.I. 2002/1240](https://www.legislation.gov.uk/uksi/2002/1240).
 
-[^key-5a3a67603dfcc7dbf42dcc672b348742]: Commencement: Sch. para. 30 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-5a3a67603dfcc7dbf42dcc672b348742]: Commencement: Sch. para. 30 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00028]: Footnote: Schedule B1 was inserted by the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40).
 
-[^key-29683d3ee1fc2e40f99b0c2265b74ada]: Commencement: Sch. para. 31 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-29683d3ee1fc2e40f99b0c2265b74ada]: Commencement: Sch. para. 31 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00029]: Footnote: Paragraph 111(1B) was inserted by [S.I. 2005/879](https://www.legislation.gov.uk/uksi/2005/879).
 
-[^key-fd8414e6e5e7a08a41bee996660b8dd9]: Commencement: Sch. para. 32 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-fd8414e6e5e7a08a41bee996660b8dd9]: Commencement: Sch. para. 32 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00030]: Footnote: [S.I. 2016/1024](https://www.legislation.gov.uk/uksi/2016/1024).
 
-[^key-b622ebf82af6e0e39aa5d308d14b09fb]: Commencement: Sch. para. 33 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-b622ebf82af6e0e39aa5d308d14b09fb]: Commencement: Sch. para. 33 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-97f98594c5e6ff9b396adf147f0a761f]: Commencement: Sch. para. 34 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-97f98594c5e6ff9b396adf147f0a761f]: Commencement: Sch. para. 34 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-3387540c9610e0f81677b915be9decf1]: Commencement: Sch. para. 35 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-3387540c9610e0f81677b915be9decf1]: Commencement: Sch. para. 35 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-4cc6432f630f2af1aba8ab8576e440f0]: Commencement: Sch. para. 36 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-4cc6432f630f2af1aba8ab8576e440f0]: Commencement: Sch. para. 36 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-0d012b000feffa3be645134ca73d5f00]: Commencement: Sch. para. 37 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-0d012b000feffa3be645134ca73d5f00]: Commencement: Sch. para. 37 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-a11a74ed4971b558e472094df2ec439e]: Commencement: Sch. para. 38 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-a11a74ed4971b558e472094df2ec439e]: Commencement: Sch. para. 38 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-d40b11713beaf5b232212b0430523014]: Commencement: Sch. para. 39 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-d40b11713beaf5b232212b0430523014]: Commencement: Sch. para. 39 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-71aa1f9eb045f001ff80b99f33c9732c]: Commencement: Sch. para. 40 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-71aa1f9eb045f001ff80b99f33c9732c]: Commencement: Sch. para. 40 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-a0b00b23aa8a7857e72d011eb25b0172]: Commencement: Sch. para. 41 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-a0b00b23aa8a7857e72d011eb25b0172]: Commencement: Sch. para. 41 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-dc6db501ec4826f70e1166eabf969d3b]: Commencement: Sch. para. 42 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-dc6db501ec4826f70e1166eabf969d3b]: Commencement: Sch. para. 42 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-cb674bdf8b14510fdf3ee0dd0bdd8bce]: Commencement: Sch. para. 43 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-cb674bdf8b14510fdf3ee0dd0bdd8bce]: Commencement: Sch. para. 43 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-16ac8339bc14242c096b753f0e237e0d]: Commencement: Sch. para. 44 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-16ac8339bc14242c096b753f0e237e0d]: Commencement: Sch. para. 44 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-649a2ff821057887e5b23123d4072737]: Commencement: Sch. para. 45 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-649a2ff821057887e5b23123d4072737]: Commencement: Sch. para. 45 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-0335a96e3f3f31138978252fbd1862e5]: Commencement: Sch. para. 46 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-0335a96e3f3f31138978252fbd1862e5]: Commencement: Sch. para. 46 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-432985a495cffda24ab367c1e477296b]: Commencement: Sch. para. 47 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-432985a495cffda24ab367c1e477296b]: Commencement: Sch. para. 47 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-e696013c0d7259011edb7b961fe05896]: Commencement: Sch. para. 48 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-e696013c0d7259011edb7b961fe05896]: Commencement: Sch. para. 48 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-a0a86aa51f457f26549bc3dbeddabc52]: Commencement: Sch. para. 49 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-a0a86aa51f457f26549bc3dbeddabc52]: Commencement: Sch. para. 49 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-07f497fa5656b274aaa2096c51a0e305]: Commencement: Sch. para. 50 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-07f497fa5656b274aaa2096c51a0e305]: Commencement: Sch. para. 50 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-5bca091bd98287e3d0e0dc7623f60fbe]: Commencement: Sch. para. 51 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-5bca091bd98287e3d0e0dc7623f60fbe]: Commencement: Sch. para. 51 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-be9c59a8e919816a7a2de52f8a4c661a]: Commencement: Sch. para. 52 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-be9c59a8e919816a7a2de52f8a4c661a]: Commencement: Sch. para. 52 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-3ceabb661ae12d86fa1235a15128f0f2]: Commencement: Sch. para. 53 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-3ceabb661ae12d86fa1235a15128f0f2]: Commencement: Sch. para. 53 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00031]: Footnote: [S.I. 2003/1417](https://www.legislation.gov.uk/uksi/2003/1417).
 
-[^key-a3802239a2b309a7c50063200e822fce]: Commencement: Sch. para. 54 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-a3802239a2b309a7c50063200e822fce]: Commencement: Sch. para. 54 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00032]: Footnote: [S.I. 2008/1053](https://www.legislation.gov.uk/uksi/2008/1053).
 
-[^key-c41493db8eb1be970a6cceb0d9de8c39]: Commencement: Sch. para. 55 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-c41493db8eb1be970a6cceb0d9de8c39]: Commencement: Sch. para. 55 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-a79678199ab9dea1bfa8b7590a90a8df]: Textual amendment: [Sch. para. 56](https://www.legislation.gov.uk/uksi/2017/702/schedule/paragraph/56) omitted (6.4.2019) by virtue of [The Small Business, Enterprise and Employment Act 2015 (Commencement No. 7, Consequential, Transitional and Savings Provisions) Regulations 2019 (S.I. 2019/816)](https://www.legislation.gov.uk/uksi/2019/816), [reg. 6(3)](https://www.legislation.gov.uk/uksi/2019/816/regulation/6/3)
+[^c-a79678199ab9dea1bfa8b7590a90a8df]: Textual amendment: [Sch. para. 56](https://www.legislation.gov.uk/uksi/2017/702/schedule/paragraph/56) omitted (6.4.2019) by virtue of [The Small Business, Enterprise and Employment Act 2015 (Commencement No. 7, Consequential, Transitional and Savings Provisions) Regulations 2019 (S.I. 2019/816)](https://www.legislation.gov.uk/uksi/2019/816), [reg. 6(3)](https://www.legislation.gov.uk/uksi/2019/816/regulation/6/3)
 
-[^key-5c783d7d885b18f00871ae1b58d11d50]: Textual amendment: [Sch. para. 57](https://www.legislation.gov.uk/uksi/2017/702/schedule/paragraph/57) omitted (6.4.2019) by virtue of [The Small Business, Enterprise and Employment Act 2015 (Commencement No. 7, Consequential, Transitional and Savings Provisions) Regulations 2019 (S.I. 2019/816)](https://www.legislation.gov.uk/uksi/2019/816), [reg. 6(3)](https://www.legislation.gov.uk/uksi/2019/816/regulation/6/3)
+[^c-5c783d7d885b18f00871ae1b58d11d50]: Textual amendment: [Sch. para. 57](https://www.legislation.gov.uk/uksi/2017/702/schedule/paragraph/57) omitted (6.4.2019) by virtue of [The Small Business, Enterprise and Employment Act 2015 (Commencement No. 7, Consequential, Transitional and Savings Provisions) Regulations 2019 (S.I. 2019/816)](https://www.legislation.gov.uk/uksi/2019/816), [reg. 6(3)](https://www.legislation.gov.uk/uksi/2019/816/regulation/6/3)
 
-[^key-77ba088e14703bdd246919278322f856]: Textual amendment: [Sch. para. 58](https://www.legislation.gov.uk/uksi/2017/702/schedule/paragraph/58) omitted (6.4.2019) by virtue of [The Small Business, Enterprise and Employment Act 2015 (Commencement No. 7, Consequential, Transitional and Savings Provisions) Regulations 2019 (S.I. 2019/816)](https://www.legislation.gov.uk/uksi/2019/816), [reg. 6(3)](https://www.legislation.gov.uk/uksi/2019/816/regulation/6/3)
+[^c-77ba088e14703bdd246919278322f856]: Textual amendment: [Sch. para. 58](https://www.legislation.gov.uk/uksi/2017/702/schedule/paragraph/58) omitted (6.4.2019) by virtue of [The Small Business, Enterprise and Employment Act 2015 (Commencement No. 7, Consequential, Transitional and Savings Provisions) Regulations 2019 (S.I. 2019/816)](https://www.legislation.gov.uk/uksi/2019/816), [reg. 6(3)](https://www.legislation.gov.uk/uksi/2019/816/regulation/6/3)
 
-[^key-1ede84574ced1a119e99ccf523cdcd1f]: Commencement: Sch. para. 59 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-1ede84574ced1a119e99ccf523cdcd1f]: Commencement: Sch. para. 59 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00033]: Footnote: Section 204 has been amended by [SSI 2016/141](https://www.legislation.gov.uk/ssi/2016/141). Amendments made by the Small Business, Enterprise and Employment Act 2015 have not been commenced in respect of Scotland.
 
-[^key-b72b7ebf243d6adfe89759da6df44052]: Textual amendment: [Sch. para. 60](https://www.legislation.gov.uk/uksi/2017/702/schedule/paragraph/60) omitted (6.4.2019) by virtue of [The Small Business, Enterprise and Employment Act 2015 (Commencement No. 7, Consequential, Transitional and Savings Provisions) Regulations 2019 (S.I. 2019/816)](https://www.legislation.gov.uk/uksi/2019/816), [reg. 6(3)](https://www.legislation.gov.uk/uksi/2019/816/regulation/6/3)
+[^c-b72b7ebf243d6adfe89759da6df44052]: Textual amendment: [Sch. para. 60](https://www.legislation.gov.uk/uksi/2017/702/schedule/paragraph/60) omitted (6.4.2019) by virtue of [The Small Business, Enterprise and Employment Act 2015 (Commencement No. 7, Consequential, Transitional and Savings Provisions) Regulations 2019 (S.I. 2019/816)](https://www.legislation.gov.uk/uksi/2019/816), [reg. 6(3)](https://www.legislation.gov.uk/uksi/2019/816/regulation/6/3)
 
-[^key-568c3e72e8ae01e11d90e48dad8b13d4]: Textual amendment: [Sch. 1 Pt. 5](https://www.legislation.gov.uk/uksi/2017/702/schedule/1/part/5) revoked in so far as it amends the 1986 Rules in relation to winding up (6.4.2019) by [The Insolvency (Scotland) (Receivership and Winding up) Rules 2018 (S.S.I. 2018/347)](https://www.legislation.gov.uk/ssi/2018/347), [rule 1](https://www.legislation.gov.uk/ssi/2018/347/rule/1), [sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2018/347/schedule/1/paragraph/1)
+[^c-568c3e72e8ae01e11d90e48dad8b13d4]: Textual amendment: [Sch. 1 Pt. 5](https://www.legislation.gov.uk/uksi/2017/702/schedule/1/part/5) revoked in so far as it amends the 1986 Rules in relation to winding up (6.4.2019) by [The Insolvency (Scotland) (Receivership and Winding up) Rules 2018 (S.S.I. 2018/347)](https://www.legislation.gov.uk/ssi/2018/347), [rule 1](https://www.legislation.gov.uk/ssi/2018/347/rule/1), [sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2018/347/schedule/1/paragraph/1)
 
     [Sch. 1 Pt. 5](https://www.legislation.gov.uk/uksi/2017/702/schedule/1/part/5) revoked in so far as it amends the 1986 Rules in relation to CVAs and administration (6.4.2019) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) Rules 2018 (S.I. 2018/1082)](https://www.legislation.gov.uk/uksi/2018/1082), [rule 1](https://www.legislation.gov.uk/uksi/2018/1082/rule/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2018/1082/schedule/1)
 
-[^key-43528c72fa09548c81a628b7d8e53578]: Commencement: Sch. para. 61 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-43528c72fa09548c81a628b7d8e53578]: Commencement: Sch. para. 61 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00034]: Footnote: [S.I. 1986/1915](https://www.legislation.gov.uk/uksi/1986/1915) as amended by [S.I. 1987/1921](https://www.legislation.gov.uk/uksi/1987/1921), [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [S.I. 2002/2709](https://www.legislation.gov.uk/uksi/2002/2709), [S.I. 2003/2108](https://www.legislation.gov.uk/uksi/2003/2108), [S.I. 2003/2109](https://www.legislation.gov.uk/uksi/2003/2109), [S.I. 2003/2111](https://www.legislation.gov.uk/uksi/2003/2111), [S.I. 2006/734](https://www.legislation.gov.uk/uksi/2006/734), [S.I. 2007/2537](https://www.legislation.gov.uk/uksi/2007/2537), [S.I. 2008/662](https://www.legislation.gov.uk/uksi/2008/662), [S.I. 2009/662](https://www.legislation.gov.uk/uksi/2009/662), [S.I. 2010/688](https://www.legislation.gov.uk/uksi/2010/688), [S.I. 2012/2404](https://www.legislation.gov.uk/uksi/2012/2404), [S.S.I. 2008/393](https://www.legislation.gov.uk/ssi/2008/393) and [S.S.I. 2014/114](https://www.legislation.gov.uk/ssi/2014/114)
 
-[^key-2142120425e238493cf4ae3784e7fbba]: Commencement: Sch. para. 62 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-2142120425e238493cf4ae3784e7fbba]: Commencement: Sch. para. 62 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-4ae033b3aad0a42201c5e750ce52c513]: Commencement: Sch. para. 63 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-4ae033b3aad0a42201c5e750ce52c513]: Commencement: Sch. para. 63 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-6290e1df7818019eea5360d528d6a8f1]: Commencement: Sch. para. 64 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-6290e1df7818019eea5360d528d6a8f1]: Commencement: Sch. para. 64 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-06862a6993f03c96e8b2b27e91410691]: Commencement: Sch. para. 65 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-06862a6993f03c96e8b2b27e91410691]: Commencement: Sch. para. 65 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-f004bb90d671cffd27abfcaca810bc54]: Commencement: Sch. para. 66 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-f004bb90d671cffd27abfcaca810bc54]: Commencement: Sch. para. 66 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00035]: Footnote: Rule 1.17 was amended by [SI 2003/2109](https://www.legislation.gov.uk/uksi/2003/2109).
 
-[^key-1522d0bbad156dcdf8928e103f5ea269]: Commencement: Sch. para. 67 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-1522d0bbad156dcdf8928e103f5ea269]: Commencement: Sch. para. 67 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-b5104452a825cad53daff9d878f7ba94]: Commencement: Sch. para. 68 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-b5104452a825cad53daff9d878f7ba94]: Commencement: Sch. para. 68 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-b14e572bf039d58c58f654ca4a77ee41]: Commencement: Sch. para. 69 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-b14e572bf039d58c58f654ca4a77ee41]: Commencement: Sch. para. 69 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-c1e46dc29f47372b811b52c54d451fb0]: Commencement: Sch. para. 70 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-c1e46dc29f47372b811b52c54d451fb0]: Commencement: Sch. para. 70 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-15ba51988a072cee53539d5604380b29]: Commencement: Sch. para. 71 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-15ba51988a072cee53539d5604380b29]: Commencement: Sch. para. 71 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-0e8c29cc0c72e0bb293abae2979b3e8c]: Commencement: Sch. para. 72 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-0e8c29cc0c72e0bb293abae2979b3e8c]: Commencement: Sch. para. 72 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-0813545e76e838572576874ab472692e]: Commencement: Sch. para. 73 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-0813545e76e838572576874ab472692e]: Commencement: Sch. para. 73 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-5864186abf3afd3c706cbfe4ae46e5a9]: Commencement: Sch. para. 74 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-5864186abf3afd3c706cbfe4ae46e5a9]: Commencement: Sch. para. 74 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-4f53dbf2943ba513a69fc7b6d471bedc]: Commencement: Sch. para. 75 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-4f53dbf2943ba513a69fc7b6d471bedc]: Commencement: Sch. para. 75 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-a6203b18c5a1f0edeccef9eb8fee42b0]: Commencement: Sch. para. 76 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-a6203b18c5a1f0edeccef9eb8fee42b0]: Commencement: Sch. para. 76 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-e1b85ade6c86469034f55b6fc784704d]: Commencement: Sch. para. 77 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-e1b85ade6c86469034f55b6fc784704d]: Commencement: Sch. para. 77 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-13a7c463220dd8e8aa229f012664abc0]: Commencement: Sch. para. 78 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-13a7c463220dd8e8aa229f012664abc0]: Commencement: Sch. para. 78 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-ad5aeaeb4d753f6e3e3e4b2b9a8159cc]: Commencement: Sch. para. 79 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-ad5aeaeb4d753f6e3e3e4b2b9a8159cc]: Commencement: Sch. para. 79 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-7052aa20e94d8469cb6a3770a4b0da72]: Commencement: Sch. para. 80 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-7052aa20e94d8469cb6a3770a4b0da72]: Commencement: Sch. para. 80 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-c4806b2173c7af7e85f1b54b7ed33a70]: Commencement: Sch. para. 81 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-c4806b2173c7af7e85f1b54b7ed33a70]: Commencement: Sch. para. 81 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-15b30ee434a089675bf29ae3ef46111c]: Commencement: Sch. para. 82 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-15b30ee434a089675bf29ae3ef46111c]: Commencement: Sch. para. 82 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-1539f7d340f427a212551232b74120f7]: Commencement: Sch. para. 83 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-1539f7d340f427a212551232b74120f7]: Commencement: Sch. para. 83 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-f893024111e0764ed1ca1913e65d2f3b]: Commencement: Sch. para. 84 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-f893024111e0764ed1ca1913e65d2f3b]: Commencement: Sch. para. 84 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-9f51c7a1ca58582457e85ee368145fb2]: Commencement: Sch. para. 85 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-9f51c7a1ca58582457e85ee368145fb2]: Commencement: Sch. para. 85 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-207b4910b836105e3619cc6a7fb2d626]: Commencement: Sch. para. 86 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-207b4910b836105e3619cc6a7fb2d626]: Commencement: Sch. para. 86 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-4388eefbbff071805090a69a92c4c32d]: Commencement: Sch. para. 87 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-4388eefbbff071805090a69a92c4c32d]: Commencement: Sch. para. 87 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-56dce887d5b8e1137a68c0fa3704d784]: Commencement: Sch. para. 88 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-56dce887d5b8e1137a68c0fa3704d784]: Commencement: Sch. para. 88 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-9b66288396def705567c1c7922cb67a6]: Commencement: Sch. para. 89 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-9b66288396def705567c1c7922cb67a6]: Commencement: Sch. para. 89 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-5c793b6cc3823a39d30772a53bd8181a]: Commencement: Sch. para. 90 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-5c793b6cc3823a39d30772a53bd8181a]: Commencement: Sch. para. 90 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00036]: Footnote: “Local creditor” is defined in Article 2(11) of the EU Regulation.
 
@@ -1744,25 +1744,25 @@ In Rule 7.56(3) at the end of sub-paragraph (e) insert “and the reasons for so
 
 [^f00038]: Footnote: An order opening group coordination proceedings must contain the matters set out in Article 68(1)(a) to (c).
 
-[^key-45ab0c38d54cecbeaed20ec3cc9d9604]: Commencement: Sch. para. 91 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-45ab0c38d54cecbeaed20ec3cc9d9604]: Commencement: Sch. para. 91 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-ef4a0c99d4a28318633c03af0fabbba3]: Commencement: Sch. para. 92 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-ef4a0c99d4a28318633c03af0fabbba3]: Commencement: Sch. para. 92 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00039]: Footnote: [S.I. 2016/1034](https://www.legislation.gov.uk/uksi/2016/1034).
 
-[^key-2f499dd0b5b1970184821533e06a79c9]: Commencement: Sch. para. 93 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-2f499dd0b5b1970184821533e06a79c9]: Commencement: Sch. para. 93 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00040]: Footnote: [S.I. 2005/590](https://www.legislation.gov.uk/uksi/2005/590); relevant amending instruments are S.I.s [2014/1664](https://www.legislation.gov.uk/uksi/2014/1664) and [2016/294](https://www.legislation.gov.uk/uksi/2016/294).
 
-[^key-f2b28fff33b6c6f601b1a53914fd03bc]: Commencement: Sch. para. 94 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-f2b28fff33b6c6f601b1a53914fd03bc]: Commencement: Sch. para. 94 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00041]: Footnote: [S.I. 2006/1030](https://www.legislation.gov.uk/uksi/2006/1030).
 
-[^key-ac10611ed8cabb81004da9a45f5bb49c]: Commencement: Sch. para. 95 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-ac10611ed8cabb81004da9a45f5bb49c]: Commencement: Sch. para. 95 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00042]: Footnote: [S.I. 2008/346](https://www.legislation.gov.uk/uksi/2008/346) to which there are amendments that are not relevant to this instrument.
 
-[^key-468020cec34a90fbdbe6b5391c173682]: Commencement: Sch. para. 96 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-468020cec34a90fbdbe6b5391c173682]: Commencement: Sch. para. 96 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00043]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405).
 
@@ -1770,130 +1770,130 @@ In Rule 7.56(3) at the end of sub-paragraph (e) insert “and the reasons for so
 
 [^f00045]: Footnote: Article 2A was inserted by [S.R. 2002/334](https://www.legislation.gov.uk/nisr/2002/334).
 
-[^key-80f78a4325f8cddba15a16d31d50e8f2]: Commencement: Sch. para. 97 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-80f78a4325f8cddba15a16d31d50e8f2]: Commencement: Sch. para. 97 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00046]: Footnote: Paragraph (6) was inserted by [S.R. 2002/334](https://www.legislation.gov.uk/nisr/2002/334).
 
-[^key-0d47c7248b19cd5eb8576d014343b5ad]: Commencement: Sch. para. 98 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-0d47c7248b19cd5eb8576d014343b5ad]: Commencement: Sch. para. 98 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-e073e1f5ca7464b71f08cb64df330d2b]: Commencement: Sch. para. 99 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-e073e1f5ca7464b71f08cb64df330d2b]: Commencement: Sch. para. 99 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-b3a88ee1183d3c7c06cf432139a1f0d4]: Commencement: Sch. para. 100 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-b3a88ee1183d3c7c06cf432139a1f0d4]: Commencement: Sch. para. 100 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-fd15e754ce339d01cef5099a8df7453d]: Commencement: Sch. para. 101 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-fd15e754ce339d01cef5099a8df7453d]: Commencement: Sch. para. 101 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00047]: Footnote: Relevant amendments were made by [S.R. 2002/334](https://www.legislation.gov.uk/nisr/2002/334).
 
-[^key-21f5766b34084e1c6791d7f6925c8f2b]: Commencement: Sch. para. 102 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-21f5766b34084e1c6791d7f6925c8f2b]: Commencement: Sch. para. 102 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-5010f861cd4efc9559db819edb5e2740]: Commencement: Sch. para. 103 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-5010f861cd4efc9559db819edb5e2740]: Commencement: Sch. para. 103 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-c0a177e81e384d161bfad112d70ac30c]: Commencement: Sch. para. 104 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-c0a177e81e384d161bfad112d70ac30c]: Commencement: Sch. para. 104 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-cc9e8795a22b4ea0ff2d8f0f376915b2]: Commencement: Sch. para. 105 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-cc9e8795a22b4ea0ff2d8f0f376915b2]: Commencement: Sch. para. 105 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-ba806e18a3426942db25cfbdcb0837bb]: Commencement: Sch. para. 106 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-ba806e18a3426942db25cfbdcb0837bb]: Commencement: Sch. para. 106 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-5a6910f541d0d4094f2c62dcd9435f03]: Commencement: Sch. para. 107 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-5a6910f541d0d4094f2c62dcd9435f03]: Commencement: Sch. para. 107 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-b301f40b8db11ebdd4d9ef121b42b13e]: Commencement: Sch. para. 108 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-b301f40b8db11ebdd4d9ef121b42b13e]: Commencement: Sch. para. 108 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00048]: Footnote: Relevant amendments to paragraph (3) have been made by [S.R. 2002/334](https://www.legislation.gov.uk/nisr/2002/334).
 
-[^key-6caf1d5f7b951db883ddc870d76cde42]: Commencement: Sch. para. 109 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-6caf1d5f7b951db883ddc870d76cde42]: Commencement: Sch. para. 109 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00049]: Footnote: Relevant amendments to paragraph (2) have been made by [S.R. 2002/334](https://www.legislation.gov.uk/nisr/2002/334).
 
-[^key-1c6733d43ea08fcd70848d187a2ed18a]: Commencement: Sch. para. 110 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-1c6733d43ea08fcd70848d187a2ed18a]: Commencement: Sch. para. 110 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00050]: Footnote: Paragraphs (1)(ba) and (bb) were inserted by [S.R. 2002/334](https://www.legislation.gov.uk/nisr/2002/334).
 
-[^key-3c502d6eab932b216d5925fcf107a511]: Commencement: Sch. para. 111 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-3c502d6eab932b216d5925fcf107a511]: Commencement: Sch. para. 111 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-aee404c461871cc0e8bfaa3cc0be1775]: Commencement: Sch. para. 112 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-aee404c461871cc0e8bfaa3cc0be1775]: Commencement: Sch. para. 112 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00051]: Footnote: Relevant amendments were made to paragraph (3) by [S.R. 2002/334](https://www.legislation.gov.uk/nisr/2002/334).
 
-[^key-518ad72f637ab6737e9cc548080aa9ec]: Commencement: Sch. para. 113 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-518ad72f637ab6737e9cc548080aa9ec]: Commencement: Sch. para. 113 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00052]: Footnote: Relevant amendments were made to paragraph (6) by [S.R. 2002/334](https://www.legislation.gov.uk/nisr/2002/334).
 
-[^key-dd8800ef67f116c26240e42c29db1bd2]: Commencement: Sch. para. 114 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-dd8800ef67f116c26240e42c29db1bd2]: Commencement: Sch. para. 114 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00053]: Footnote: Paragraphs (3)(aa) and (bb) were inserted by [S.R.2002/334](https://www.legislation.gov.uk/nisr/2002/334) and 3(ab) was amended by [S.R. 2004/307](https://www.legislation.gov.uk/nisr/2004/307).
 
-[^key-b53b25871b98bec28db5d36fbf190ad9]: Commencement: Sch. para. 115 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-b53b25871b98bec28db5d36fbf190ad9]: Commencement: Sch. para. 115 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00054]: Footnote: Article 359 was amended by [S.R. 2002/223](https://www.legislation.gov.uk/nisr/2002/223) and [S.R. 2004/307](https://www.legislation.gov.uk/nisr/2004/307).
 
-[^key-5d6bc0e882b068606bc72bc560523100]: Commencement: Sch. para. 116 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-5d6bc0e882b068606bc72bc560523100]: Commencement: Sch. para. 116 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00055]: Footnote: Article 364 was amended by [S.R. 2002/223](https://www.legislation.gov.uk/nisr/2002/223).
 
-[^key-73ed1be30fba7f46cd5891738657f66c]: Commencement: Sch. para. 117 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-73ed1be30fba7f46cd5891738657f66c]: Commencement: Sch. para. 117 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00056]: Footnote: Paragraphs (1A) and (1B) were inserted by [S.R. 2002/223](https://www.legislation.gov.uk/nisr/2002/223).
 
-[^key-be8a0ad97e04e580348582c1941aa7f5]: Commencement: Sch. para. 118 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-be8a0ad97e04e580348582c1941aa7f5]: Commencement: Sch. para. 118 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-454c2539b09be663c8f997943fa05eb4]: Commencement: Sch. para. 119 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-454c2539b09be663c8f997943fa05eb4]: Commencement: Sch. para. 119 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-1312e32f385c97db091196daa0c90a8a]: Commencement: Sch. para. 120 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-1312e32f385c97db091196daa0c90a8a]: Commencement: Sch. para. 120 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00057]: Footnote: Schedule B1 was inserted by [S.I. 2005/1455 (N.I. 10)](https://www.legislation.gov.uk/nisi/2005/1455).
 
-[^key-614216a335f64d7fffca514a142c6ec4]: Commencement: Sch. para. 121 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-614216a335f64d7fffca514a142c6ec4]: Commencement: Sch. para. 121 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00058]: Footnote: [S.R.1991/364](https://www.legislation.gov.uk/nisr/1991/364).
 
-[^key-79175300f576a1b78449b4657876b1de]: Commencement: Sch. para. 122 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-79175300f576a1b78449b4657876b1de]: Commencement: Sch. para. 122 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-6143a33611660707e17f095f5dee4971]: Commencement: Sch. para. 123 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-6143a33611660707e17f095f5dee4971]: Commencement: Sch. para. 123 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-544e15fd84165d111b1e887eb65e0c8d]: Commencement: Sch. para. 124 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-544e15fd84165d111b1e887eb65e0c8d]: Commencement: Sch. para. 124 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-9d6cf9b09f946c26915717ba22dd4a6e]: Commencement: Sch. para. 125 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-9d6cf9b09f946c26915717ba22dd4a6e]: Commencement: Sch. para. 125 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-f250be627d467c87492a9bce0bb5f36d]: Commencement: Sch. para. 126 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-f250be627d467c87492a9bce0bb5f36d]: Commencement: Sch. para. 126 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-6767b531b70697443f1895dd0dae93ff]: Commencement: Sch. para. 127 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-6767b531b70697443f1895dd0dae93ff]: Commencement: Sch. para. 127 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-5a3112e4ce4b19df36b0cf7679d7b893]: Commencement: Sch. para. 128 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-5a3112e4ce4b19df36b0cf7679d7b893]: Commencement: Sch. para. 128 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-9069ce97e3c78bfb1aa2bb148cabb8db]: Commencement: Sch. para. 129 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-9069ce97e3c78bfb1aa2bb148cabb8db]: Commencement: Sch. para. 129 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-a69aff0fd0a149d21641dbf43d9932f0]: Commencement: Sch. para. 130 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-a69aff0fd0a149d21641dbf43d9932f0]: Commencement: Sch. para. 130 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-edd0466617434377a487d48c8fa566cd]: Commencement: Sch. para. 131 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-edd0466617434377a487d48c8fa566cd]: Commencement: Sch. para. 131 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-8f61113d8949e13fdfa5839277e5b77b]: Commencement: Sch. para. 132 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-8f61113d8949e13fdfa5839277e5b77b]: Commencement: Sch. para. 132 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-64e3887ca374ed840d85fc3d2b3eab88]: Commencement: Sch. para. 133 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-64e3887ca374ed840d85fc3d2b3eab88]: Commencement: Sch. para. 133 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-8d3ee82ed1faad75bd77a194aeede2d3]: Commencement: Sch. para. 134 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-8d3ee82ed1faad75bd77a194aeede2d3]: Commencement: Sch. para. 134 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-45b3b096f94b67f8a023242c10c57fea]: Commencement: Sch. para. 135 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-45b3b096f94b67f8a023242c10c57fea]: Commencement: Sch. para. 135 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-721193b3dd9e9726d48d0300d14e88c5]: Commencement: Sch. para. 136 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-721193b3dd9e9726d48d0300d14e88c5]: Commencement: Sch. para. 136 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-4f4210265b0bd593119143964fdeb340]: Commencement: Sch. para. 137 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-4f4210265b0bd593119143964fdeb340]: Commencement: Sch. para. 137 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-3e7a31b36ef28c0d652c4556bd177ae4]: Commencement: Sch. para. 138 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-3e7a31b36ef28c0d652c4556bd177ae4]: Commencement: Sch. para. 138 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00059]: Footnote: This and Rule 5.62 were substituted by paragraph 54 of the Schedule to [S.R. 2006/47](https://www.legislation.gov.uk/nisr/2006/47).
 
-[^key-085c36bfce10e0fb35aa19ee0e2d021c]: Commencement: Sch. para. 139 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-085c36bfce10e0fb35aa19ee0e2d021c]: Commencement: Sch. para. 139 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-35c74ed92ce0e7a03fde53ad6f3e9c02]: Commencement: Sch. para. 140 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-35c74ed92ce0e7a03fde53ad6f3e9c02]: Commencement: Sch. para. 140 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-6dc2ce4679cf18af8337d776e52c51fb]: Commencement: Sch. para. 141 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-6dc2ce4679cf18af8337d776e52c51fb]: Commencement: Sch. para. 141 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-82bda03dbf67ccda55967e9af8a94eaf]: Commencement: Sch. para. 142 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-82bda03dbf67ccda55967e9af8a94eaf]: Commencement: Sch. para. 142 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
-[^key-d149ad209ade586fcdedab0c49638c00]: Commencement: Sch. para. 143 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-d149ad209ade586fcdedab0c49638c00]: Commencement: Sch. para. 143 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00060]: Footnote: [S.R. 2005/126](https://www.legislation.gov.uk/nisr/2005/126); relevant amending instruments are [SR 2014/195](https://www.legislation.gov.uk/nisr/2014/195) and [S.R. 2016 No. 165](https://www.legislation.gov.uk/nisr/2016/165)
 
-[^key-4c219c9e9f5bb02b45c43dccd1ee211d]: Commencement: Sch. para. 144 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-4c219c9e9f5bb02b45c43dccd1ee211d]: Commencement: Sch. para. 144 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00061]: Footnote: [S.R. 2007/115](https://www.legislation.gov.uk/nisr/2007/115).

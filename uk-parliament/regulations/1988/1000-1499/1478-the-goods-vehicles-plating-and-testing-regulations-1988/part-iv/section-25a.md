@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25A. Interpretation of this Part[^key-e1beff4a09300cfaba561a07eefea46f]
+## 25A. Interpretation of this Part[^c-e1beff4a09300cfaba561a07eefea46f]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ In this Part, a reference to a periodical test includes a goods vehicle test car
 
 ## Annotations
 
-[^key-e1beff4a09300cfaba561a07eefea46f]: Textual amendment: [Reg. 25A](https://www.legislation.gov.uk/uksi/1988/1478/regulation/25A) inserted (5.3.1997) by [The Goods Vehicles (Plating and Testing) (Amendment) (No. 2) Regulations 1997 (S.I. 1997/263)](https://www.legislation.gov.uk/uksi/1997/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1997/263/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/1997/263/regulation/11)
+[^c-e1beff4a09300cfaba561a07eefea46f]: Textual amendment: [Reg. 25A](https://www.legislation.gov.uk/uksi/1988/1478/regulation/25A) inserted (5.3.1997) by [The Goods Vehicles (Plating and Testing) (Amendment) (No. 2) Regulations 1997 (S.I. 1997/263)](https://www.legislation.gov.uk/uksi/1997/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1997/263/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/1997/263/regulation/11)

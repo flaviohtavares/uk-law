@@ -252,9 +252,9 @@ Section 61 of the 2000 Act shall apply for the purposes of this Schedule as if�
 
 #### 10. Statement of relevant donations
 
-(1)[^key-f764cf1136b342d288ed1e7a55fc958d] The candidate's election agent must include in any return required to be delivered under section 46 of this Act a statement of relevant donations which complies with paragraphs 11 and 12.
+(1)[^c-f764cf1136b342d288ed1e7a55fc958d] The candidate's election agent must include in any return required to be delivered under section 46 of this Act a statement of relevant donations which complies with paragraphs 11 and 12.
 
-(2)[^key-e8cd3b0676387c0866eeb2aefc781a9a] If the statement states that the candidate’s election agent has seen evidence of such description as is prescribed by the Secretary of State in regulations made by virtue of paragraph 2 of Schedule 6 to the Political Parties, Elections and Referendums Act 2000 that an individual donor has an anonymous entry in an electoral register, the statement must be accompanied by a copy of the evidence.
+(2)[^c-e8cd3b0676387c0866eeb2aefc781a9a] If the statement states that the candidate’s election agent has seen evidence of such description as is prescribed by the Secretary of State in regulations made by virtue of paragraph 2 of Schedule 6 to the Political Parties, Elections and Referendums Act 2000 that an individual donor has an anonymous entry in an electoral register, the statement must be accompanied by a copy of the evidence.
 
 #### 11. Donations from permissible donors
 
@@ -262,7 +262,7 @@ The statement must record, in relation to each relevant donation accepted by the
 
 - (a) the amount of the donation (if a donation of money, in cash or otherwise) or (in any other case) the nature of the donation and its value as determined in accordance with paragraph 5;
 - (b) the date when the donation was accepted by the candidate or the candidate's election agent; and
-- (c) the information about the donor which is, in connection with recordable donations to registered parties, required to be recorded in donation reports by virtue of paragraph 2 of Schedule 6 to the 2000 Act (reading references in sub-paragraphs (3B) and (3C) to the registered party as references to the candidate’s election agent)[^key-8c555c84ba3c5e4ccc1dbeb13b6053c8].
+- (c) the information about the donor which is, in connection with recordable donations to registered parties, required to be recorded in donation reports by virtue of paragraph 2 of Schedule 6 to the 2000 Act (reading references in sub-paragraphs (3B) and (3C) to the registered party as references to the candidate’s election agent)[^c-8c555c84ba3c5e4ccc1dbeb13b6053c8].
 
 #### 12. Donations from impermissible donors
 
@@ -286,8 +286,8 @@ The statement must record, in relation to each relevant donation accepted by the
 
 [^c21918971]: Textual amendment: [Schs. 3A](https://www.legislation.gov.uk/apni/1962/14/schedule/3A), 3B inserted (16.12.2010) by [Local Elections (Northern Ireland) Order 2010 (S.I. 2010/2977)](https://www.legislation.gov.uk/uksi/2010/2977), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/2), [4](https://www.legislation.gov.uk/uksi/2010/2977/article/4), [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2010/2977/schedule/1/paragraph/19) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/3))
 
-[^key-f764cf1136b342d288ed1e7a55fc958d]: Textual amendment: Sch. 3A para. 10 renumbered as Sch. 3A para. 10(1) (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [6(4)(a)](https://www.legislation.gov.uk/uksi/2014/1116/article/6/4/a)
+[^c-f764cf1136b342d288ed1e7a55fc958d]: Textual amendment: Sch. 3A para. 10 renumbered as Sch. 3A para. 10(1) (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [6(4)(a)](https://www.legislation.gov.uk/uksi/2014/1116/article/6/4/a)
 
-[^key-e8cd3b0676387c0866eeb2aefc781a9a]: Textual amendment: [Sch. 3A para. 10(2)](https://www.legislation.gov.uk/apni/1962/14/schedule/3A/paragraph/10/2) inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [6(4)(a)](https://www.legislation.gov.uk/uksi/2014/1116/article/6/4/a)
+[^c-e8cd3b0676387c0866eeb2aefc781a9a]: Textual amendment: [Sch. 3A para. 10(2)](https://www.legislation.gov.uk/apni/1962/14/schedule/3A/paragraph/10/2) inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [6(4)(a)](https://www.legislation.gov.uk/uksi/2014/1116/article/6/4/a)
 
-[^key-8c555c84ba3c5e4ccc1dbeb13b6053c8]: Textual amendment: Words in [Sch. 3A para. 11(c)](https://www.legislation.gov.uk/apni/1962/14/schedule/3A/paragraph/11/c) inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [6(4)(b)](https://www.legislation.gov.uk/uksi/2014/1116/article/6/4/b)
+[^c-8c555c84ba3c5e4ccc1dbeb13b6053c8]: Textual amendment: Words in [Sch. 3A para. 11(c)](https://www.legislation.gov.uk/apni/1962/14/schedule/3A/paragraph/11/c) inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [6(4)(b)](https://www.legislation.gov.uk/uksi/2014/1116/article/6/4/b)

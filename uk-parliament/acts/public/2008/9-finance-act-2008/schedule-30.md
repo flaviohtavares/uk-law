@@ -54,7 +54,7 @@ Section 94
 
 (5) Omit the entry for “self-certificate”.
 
-**6.**[^key-0523f3b3433f6816757219299285e5a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-0523f3b3433f6816757219299285e5a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **7.** In paragraph 36 of Schedule 10 (notice of appeal), in sub-paragraph (5A)(d), for “one for which a self-certificate is due” substitute “ not notifiable ”.
 
@@ -93,4 +93,4 @@ Section 94
 
 ## Annotations
 
-[^key-0523f3b3433f6816757219299285e5a1]: Textual amendment: [Sch. 30 para. 6](https://www.legislation.gov.uk/ukpga/2008/9/schedule/30/paragraph/6) omitted (with effect in accordance with Sch. 39 para. 10(4) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 8(2)(e)(ii)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/8/2/e/ii) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
+[^c-0523f3b3433f6816757219299285e5a1]: Textual amendment: [Sch. 30 para. 6](https://www.legislation.gov.uk/ukpga/2008/9/schedule/30/paragraph/6) omitted (with effect in accordance with Sch. 39 para. 10(4) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 8(2)(e)(ii)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/8/2/e/ii) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))

@@ -31,7 +31,7 @@ summary: ''
 - (e) the MMO,
 - (f) the authority for any IFC district that adjoins the IFC district established by the order,
 - (g) the Welsh Ministers, in a case where the IFC district established by the order adjoins the Welsh inshore region,
-- (h)[^key-9fec542652fcd8f32c23e53498b43cdf] the Natural Resources Body for Wales, in a case where the IFC district established by the order adjoins the Welsh inshore region,
+- (h)[^c-9fec542652fcd8f32c23e53498b43cdf] the Natural Resources Body for Wales, in a case where the IFC district established by the order adjoins the Welsh inshore region,
 
 and any other person likely to be affected by the amendment or revocation of the order.
 
@@ -39,4 +39,4 @@ and any other person likely to be affected by the amendment or revocation of the
 
 [^c2007926]: Commencement: S. 152 partly in force; s. 152 in force for specified purposes at Royal Assent see s. 324(1)(c)
 
-[^key-9fec542652fcd8f32c23e53498b43cdf]: Textual amendment: [S. 152(2)(h)](https://www.legislation.gov.uk/ukpga/2009/23/section/152/2/h) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 445](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/445) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-9fec542652fcd8f32c23e53498b43cdf]: Textual amendment: [S. 152(2)(h)](https://www.legislation.gov.uk/ukpga/2009/23/section/152/2/h) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 445](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/445) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

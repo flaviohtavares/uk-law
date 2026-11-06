@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Publication of particulars[^key-0b855203f5d11be1a9eee0b2af00e72c]
+## 61. Publication of particulars[^c-0b855203f5d11be1a9eee0b2af00e72c]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b855203f5d11be1a9eee0b2af00e72c]: Commencement: Reg. 61 in force at 1.10.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/c)
+[^c-0b855203f5d11be1a9eee0b2af00e72c]: Commencement: Reg. 61 in force at 1.10.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/c)

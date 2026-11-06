@@ -46,15 +46,15 @@ Coming into operation
 
 The Secretary of State in exercise of the powers conferred on him by Article 25 of the Criminal Justice (Northern Ireland) Order 2005[^f00001] hereby makes the following scheme:
 
-## 1. Citation and commencement[^key-3617d809df24676d8de36f282d93148f]
+## 1. Citation and commencement[^c-3617d809df24676d8de36f282d93148f]
 
 This scheme may be cited as the Probation Board for Northern Ireland Victim Information Scheme 2005 and shall come into operation on 25th October 2005.
 
-## 2. Interpretation[^key-c6949efb551f004797d5480722e673b2]
+## 2. Interpretation[^c-c6949efb551f004797d5480722e673b2]
 
 In this scheme “the Board” means the Probation Board for Northern Ireland and “supervised offender” means a person subject to supervision in accordance with Article 25(2) of the Criminal Justice (Northern Ireland) Order 2005.
 
-## 3. Application of Scheme[^key-85fea0dc431defa2221c3cc6b83f0ca0]
+## 3. Application of Scheme[^c-85fea0dc431defa2221c3cc6b83f0ca0]
 
 (1) The following persons, not being the actual victim of an offence, are to be regarded as the victim of that offence for the purposes of this scheme instead of the actual victim:
 
@@ -76,11 +76,11 @@ In this scheme “the Board” means the Probation Board for Northern Ireland an
 
 (5) In paragraph (1) “a vulnerable person” means a person under the age of eighteen or a person whose physical or mental state is such that the Board considers that it is reasonable in all the circumstances for a person listed in (1)(b) to receive the information instead.
 
-## 4. Notification by Victim[^key-31adcc8637d55d405aa9403917b61abf]
+## 4. Notification by Victim[^c-31adcc8637d55d405aa9403917b61abf]
 
 A victim must indicate that he wishes to receive information under the scheme by applying in writing to the Board with the information specified in the Schedule to the scheme.
 
-## 5. Information to be made available and timing[^key-62ee4b50db951c32b8f3540ee05875ef]
+## 5. Information to be made available and timing[^c-62ee4b50db951c32b8f3540ee05875ef]
 
 (1) The victim of an offence shall be entitled to receive under this scheme the information specified in the following paragraphs in relation to a relevant supervised offender.
 
@@ -98,7 +98,7 @@ A victim must indicate that he wishes to receive information under the scheme by
 
 (4) The victim will be provided with the information to be provided under this Article within a reasonable time of the application for information being made, or if later, of the information being available.
 
-## 6. Grounds for refusal to release information[^key-52fdfce2d85ee3349121b556ea438fb4]
+## 6. Grounds for refusal to release information[^c-52fdfce2d85ee3349121b556ea438fb4]
 
 (1) The following circumstances are specified for the purposes of Article 25(6) of the Criminal Justice (Northern Ireland) Order 2005 (circumstances in which the Board is not required to make information available under the scheme).
 
@@ -123,7 +123,7 @@ Northern Ireland Office
 
 Article 4
 
-**1.**[^key-6fc2a32c9cb23650c5cdaa94f337a650] The information to be provided by the victim is as follows:
+**1.**[^c-6fc2a32c9cb23650c5cdaa94f337a650] The information to be provided by the victim is as follows:
 
 - (a) The name, address and date of birth of the actual victim.
 - (b) Details of the offence.
@@ -139,18 +139,18 @@ This scheme is made under Article 25 of the Criminal Justice (Northern Ireland) 
 
 [^f00001]: Footnote: [S.I. 2005 No. 1965 (N.I. 15)](https://www.legislation.gov.uk/nisi/2005/1965)
 
-[^key-3617d809df24676d8de36f282d93148f]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2005/432/article/1) in operation at 25.10.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/432/article/1)
+[^c-3617d809df24676d8de36f282d93148f]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2005/432/article/1) in operation at 25.10.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/432/article/1)
 
-[^key-c6949efb551f004797d5480722e673b2]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2005/432/article/2) in operation at 25.10.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/432/article/1)
+[^c-c6949efb551f004797d5480722e673b2]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2005/432/article/2) in operation at 25.10.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/432/article/1)
 
-[^key-85fea0dc431defa2221c3cc6b83f0ca0]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2005/432/article/3) in operation at 25.10.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/432/article/1)
+[^c-85fea0dc431defa2221c3cc6b83f0ca0]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2005/432/article/3) in operation at 25.10.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/432/article/1)
 
 [^M_F_5a6ac1a4-fb4e-47c9-a3ec-3cc91a581e9a]: Textual amendment: words in art. 3(4)(a) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://editorial.legislation.gov.uk/uksi/2019/1514/contents), [regs. 1(2)](https://editorial.legislation.gov.uk/uksi/2019/1514/regulation/1), [162](https://editorial.legislation.gov.uk/uksi/2019/1514/regulation/162)
 
-[^key-31adcc8637d55d405aa9403917b61abf]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2005/432/article/4) in operation at 25.10.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/432/article/1)
+[^c-31adcc8637d55d405aa9403917b61abf]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2005/432/article/4) in operation at 25.10.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/432/article/1)
 
-[^key-62ee4b50db951c32b8f3540ee05875ef]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2005/432/article/5) in operation at 25.10.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/432/article/1)
+[^c-62ee4b50db951c32b8f3540ee05875ef]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2005/432/article/5) in operation at 25.10.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/432/article/1)
 
-[^key-52fdfce2d85ee3349121b556ea438fb4]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2005/432/article/6) in operation at 25.10.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/432/article/1)
+[^c-52fdfce2d85ee3349121b556ea438fb4]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2005/432/article/6) in operation at 25.10.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/432/article/1)
 
-[^key-6fc2a32c9cb23650c5cdaa94f337a650]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2005/432/schedule/paragraph/1) in operation at 25.10.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/432/article/1)
+[^c-6fc2a32c9cb23650c5cdaa94f337a650]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2005/432/schedule/paragraph/1) in operation at 25.10.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/432/article/1)

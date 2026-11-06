@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Receipt of a club transfer value payment[^key-e165efebaa97b5856d2afd331d717e05][^key-7b424f8ddaabed61b79c160568873e53]
+## 42. Receipt of a club transfer value payment[^c-e165efebaa97b5856d2afd331d717e05][^c-7b424f8ddaabed61b79c160568873e53]
 
 *Extent: N.I.*
 
 (1) This regulation applies if a club transfer value payment is received from another club scheme in relation to an active member of this scheme.
 
-(2) On receiving the club transfer value payment, the scheme manager must credit the active member’s account, in relation to the sending scheme, with an amount of club transfer earned pension the member is entitled to count under regulation 153[^key-ca42535099f31133c44bbecca350c101] .
+(2) On receiving the club transfer value payment, the scheme manager must credit the active member’s account, in relation to the sending scheme, with an amount of club transfer earned pension the member is entitled to count under regulation 153[^c-ca42535099f31133c44bbecca350c101] .
 
 ## Annotations
 
-[^key-e165efebaa97b5856d2afd331d717e05]: Commencement: [Reg. 42](https://www.legislation.gov.uk/nisr/2014/290/regulation/42) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-e165efebaa97b5856d2afd331d717e05]: Commencement: [Reg. 42](https://www.legislation.gov.uk/nisr/2014/290/regulation/42) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
-[^key-7b424f8ddaabed61b79c160568873e53]: Textual amendment: Word in [reg. 42(2)](https://www.legislation.gov.uk/nisr/2014/290/regulation/42/2) inserted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [17(a)](https://www.legislation.gov.uk/nisr/2022/67/regulation/17/a)
+[^c-7b424f8ddaabed61b79c160568873e53]: Textual amendment: Word in [reg. 42(2)](https://www.legislation.gov.uk/nisr/2014/290/regulation/42/2) inserted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [17(a)](https://www.legislation.gov.uk/nisr/2022/67/regulation/17/a)
 
-[^key-ca42535099f31133c44bbecca350c101]: Textual amendment: Word in [reg. 42(2)](https://www.legislation.gov.uk/nisr/2014/290/regulation/42/2) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [17(b)](https://www.legislation.gov.uk/nisr/2022/67/regulation/17/b)
+[^c-ca42535099f31133c44bbecca350c101]: Textual amendment: Word in [reg. 42(2)](https://www.legislation.gov.uk/nisr/2014/290/regulation/42/2) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [17(b)](https://www.legislation.gov.uk/nisr/2022/67/regulation/17/b)

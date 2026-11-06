@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Request to confirm details on certificate[^key-5cf21b26a3e0f6ada7eded61d37e9769]
+## 147. Request to confirm details on certificate[^c-5cf21b26a3e0f6ada7eded61d37e9769]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where a member has been provided with a certificate under regulation 146 (requir
 
 ## Annotations
 
-[^key-5cf21b26a3e0f6ada7eded61d37e9769]: Commencement: [Reg. 147](https://www.legislation.gov.uk/uksi/2014/2848/regulation/147) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-5cf21b26a3e0f6ada7eded61d37e9769]: Commencement: [Reg. 147](https://www.legislation.gov.uk/uksi/2014/2848/regulation/147) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

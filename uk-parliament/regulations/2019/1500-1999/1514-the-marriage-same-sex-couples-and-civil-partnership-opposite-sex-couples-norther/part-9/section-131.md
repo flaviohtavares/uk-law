@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Land Acquisition and Compensation (Northern Ireland) Order 1973[^key-dafc74490b241993b12b78ca44b5c6ef]
+## 131. Land Acquisition and Compensation (Northern Ireland) Order 1973[^c-dafc74490b241993b12b78ca44b5c6ef]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ In Article 47(6)(a)(ii) of the Land Acquisition and Compensation (Northern Irela
 
 ## Annotations
 
-[^key-dafc74490b241993b12b78ca44b5c6ef]: Commencement: Reg. 131 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-dafc74490b241993b12b78ca44b5c6ef]: Commencement: Reg. 131 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00215]: Footnote: [S.I. 1973/1896 (N.I. 21)](https://www.legislation.gov.uk/nisi/1973/1896). Article 47 was repealed for certain purposes by [S.I. 1982/712 (N.I. 9)](https://www.legislation.gov.uk/nisi/1982/712), Article 23, Schedules 1 and 3.

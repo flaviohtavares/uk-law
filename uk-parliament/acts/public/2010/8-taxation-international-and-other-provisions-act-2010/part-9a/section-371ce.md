@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 371CE. Does Chapter 6 apply?[^key-629ada2c8a18d82affe2c0e203fa8e18]
+## 371CE. Does Chapter 6 apply?[^c-629ada2c8a18d82affe2c0e203fa8e18]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,14 +27,14 @@ summary: ''
 
 (2) The CFC's trading finance profits are to be treated for the purposes of this Part as if they were non-trading finance profits (and, accordingly, Chapter 6 cannot apply for the accounting period) if—
 
-- (a) the CFC is a group treasury company in the accounting period (see section 371CEA)[^key-3e920905dafeeed60a5a4e030e6d27bf], and
+- (a) the CFC is a group treasury company in the accounting period (see section 371CEA)[^c-3e920905dafeeed60a5a4e030e6d27bf], and
 - (b) a notice is given to an officer of Revenue and Customs requesting that the CFC's trading finance profits be treated as if they were non-trading finance profits.
 
 (3) Profits treated as non-trading finance profits under subsection (2) are not to be taken to fall within section 371CB(3) or (4).
 
-(4)[^key-2ef5a9f191d43d6bda83b31c69c9d4e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-2ef5a9f191d43d6bda83b31c69c9d4e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-2ef5a9f191d43d6bda83b31c69c9d4e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-2ef5a9f191d43d6bda83b31c69c9d4e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) A notice under subsection (2)(b)—
 
@@ -57,8 +57,8 @@ summary: ''
 
 ## Annotations
 
-[^key-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))
+[^c-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))
 
-[^key-3e920905dafeeed60a5a4e030e6d27bf]: Textual amendment: Words in [s. 371CE(2)(a)](https://www.legislation.gov.uk/ukpga/2010/8/section/371CE/2/a) inserted (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 21(2)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/21/2/a)
+[^c-3e920905dafeeed60a5a4e030e6d27bf]: Textual amendment: Words in [s. 371CE(2)(a)](https://www.legislation.gov.uk/ukpga/2010/8/section/371CE/2/a) inserted (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 21(2)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/21/2/a)
 
-[^key-2ef5a9f191d43d6bda83b31c69c9d4e0]: Textual amendment: [S. 371CE(4)](https://www.legislation.gov.uk/ukpga/2010/8/section/371CE/4)[(5)](https://www.legislation.gov.uk/ukpga/2010/8/section/371CE/5) omitted (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 21(2)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/21/2/b)
+[^c-2ef5a9f191d43d6bda83b31c69c9d4e0]: Textual amendment: [S. 371CE(4)](https://www.legislation.gov.uk/ukpga/2010/8/section/371CE/4)[(5)](https://www.legislation.gov.uk/ukpga/2010/8/section/371CE/5) omitted (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 21(2)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/21/2/b)

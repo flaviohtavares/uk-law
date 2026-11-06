@@ -26,8 +26,8 @@ summary: ''
 
 (3) Where a note is in the body of it made payable at a particular place, presentment at that place is necessary in order to render an indorser liable; but when a place of payment is indicated by way of memorandum only, presentment at that place is sufficient to render the indorser liable, but a presentment to the maker elsewhere, if sufficient in other respects, shall also suffice.
 
-(4)[^key-6b37def7c67d9ce5a39e7243cf951c9e] This section is subject to Part 4A (presentment by electronic means).
+(4)[^c-6b37def7c67d9ce5a39e7243cf951c9e] This section is subject to Part 4A (presentment by electronic means).
 
 ## Annotations
 
-[^key-6b37def7c67d9ce5a39e7243cf951c9e]: Textual amendment: [S. 87(4)](https://www.legislation.gov.uk/ukpga/Vict/45-46/61/section/87/4) inserted (26.3.2015, 31.7.2016 in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 13(5)](https://www.legislation.gov.uk/ukpga/2015/26/section/13/5), [164(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/4)
+[^c-6b37def7c67d9ce5a39e7243cf951c9e]: Textual amendment: [S. 87(4)](https://www.legislation.gov.uk/ukpga/Vict/45-46/61/section/87/4) inserted (26.3.2015, 31.7.2016 in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 13(5)](https://www.legislation.gov.uk/ukpga/2015/26/section/13/5), [164(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/4)

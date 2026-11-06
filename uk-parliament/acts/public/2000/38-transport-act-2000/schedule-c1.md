@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE C1 — Information[^key-08760f68ccc10531b463c0bb752d5a64]
+## SCHEDULE C1 — Information[^c-08760f68ccc10531b463c0bb752d5a64]
 
 *Extent: E+W+S+N.I.*
 
@@ -236,4 +236,4 @@ but subject to a maximum of £2,000,000.
 
 ## Annotations
 
-[^key-08760f68ccc10531b463c0bb752d5a64]: Textual amendment: Sch. C1 inserted (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [ss. 10(7)(b)](https://www.legislation.gov.uk/ukpga/2021/12/section/10/7/b), [21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 6](https://www.legislation.gov.uk/ukpga/2021/12/schedule/6); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/b)
+[^c-08760f68ccc10531b463c0bb752d5a64]: Textual amendment: Sch. C1 inserted (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [ss. 10(7)(b)](https://www.legislation.gov.uk/ukpga/2021/12/section/10/7/b), [21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 6](https://www.legislation.gov.uk/ukpga/2021/12/schedule/6); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/b)

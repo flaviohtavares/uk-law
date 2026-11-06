@@ -41,15 +41,15 @@ Coming into operation
 
 The Fisheries Conservancy Board for Northern Ireland, in exercise of the powers conferred on it by section 26(1) of the Fisheries Act (Northern Ireland) 1966[^f00001] and of every other power enabling it in that behalf, with the approval of the Department of Culture, Arts and Leisure[^f00002], hereby makes the following Byelaws:
 
-## 1. Citation and commencement[^key-ca3a23662f88cbdbbf401ccbb2ccd632]
+## 1. Citation and commencement[^c-ca3a23662f88cbdbbf401ccbb2ccd632]
 
 These Byelaws may be cited as the Public Angling Estate Byelaws (Northern Ireland) 2005 and shall come into operation on 4th July 2005.
 
-## 2. Application[^key-c48da1274e871cea1bf859f05e3bbd84]
+## 2. Application[^c-c48da1274e871cea1bf859f05e3bbd84]
 
 These Byelaws shall apply to angling in the waters described in the first column of the Schedule.
 
-## 3. Interpretation[^key-87977909c214deb948da30247471530e]
+## 3. Interpretation[^c-87977909c214deb948da30247471530e]
 
 In these Byelaws –
 
@@ -65,30 +65,30 @@ In these Byelaws –
 - “maggots” means any larvae of the Order Diptera including the house fly of the Family *Muscidae* and the blue-bottle or blowfly of the Family *Calliphoridae*;
 - “shrimp fishing” means the use of a hook baited with a shrimp (Crangon species);
 - “spinning” means the use of a single rod, reel (including a fixed spool reel) and line to cast or throw bait and retrieve the bait by rewinding the line on to the drum of the reel with the bait kept in motion throughout;
-- “rainbow trout” means trout of the species *Oncorhynchus Mykiss[^key-5db53857f6773d83e36a160840496fd3]* ;
+- “rainbow trout” means trout of the species *Oncorhynchus Mykiss[^c-5db53857f6773d83e36a160840496fd3]* ;
 - “stocked trout” means brown or rainbow trout stocked from a fish farm;
 - “trolling” means the drawing of a fishing line with one or more hooks attached through the water from a moving boat;
 - “worm fishing” means the use of a hook baited with one or more earthworms.
 
-## 4. Permitted methods of angling[^key-114ce19922683ee7ae907bd6e33ca903]
+## 4. Permitted methods of angling[^c-114ce19922683ee7ae907bd6e33ca903]
 
 (1) Subject to the provisions of these Byelaws, the only methods of angling permitted in the waters described in the first column of the Schedule shall be those specified in the second column of the Schedule, and the use of those methods shall be subject to any restrictions as to the number or minimum length of fish which may be retained as specified in respect thereof in the third column of the Schedule or in the Fisheries Byelaws (Northern Ireland) 2003[^f00003].
 
 (2) The use of any matter of vegetable origin or the different species of maggots and earthworms as bait when spinning shall be prohibited.
 
-## 5. Return of fish to water[^key-8a5430d5d283a356b75ae78aec81fe12]
+## 5. Return of fish to water[^c-8a5430d5d283a356b75ae78aec81fe12]
 
 All brown trout, rainbow trout and sea trout in excess of the maximum number, or of less than the minimum length, which may be retained as specified in the third column of the Schedule and all carp must, without avoidable injury, be returned immediately to the water from which such fish were taken.
 
-## 6. Prohibition of ground bait and maggots[^key-348e64160907e76624ad51886fcd82e1]
+## 6. Prohibition of ground bait and maggots[^c-348e64160907e76624ad51886fcd82e1]
 
 Subject to the provisions of Byelaw 7, the use or possession of ground bait or maggots while angling is prohibited.
 
-## 7. Exception from prohibition[^key-48d4a800d5e20c1046c8c94dcb99e730]
+## 7. Exception from prohibition[^c-48d4a800d5e20c1046c8c94dcb99e730]
 
 The prohibition imposed by Byelaw 6 shall not apply on the Broadwater, the Colebrooke River downstream of Ballindarragh Bridge on the B514 road, Carnagh Forest Lakes, Craigavon (South) Lake, Creeve Lough, Cypress Pond, Enagh Lough, the Quoile Basin and River downstream from the disused railway bridge near Inch Abbey, Upper Lough Erne and in that part of Lower Lough Erne to the east of an imaginary line running from the nearest point on the shore of Boa Island in the townland of Pollaginnive to Hare Island and from that point on Hare Island to the most easterly point on Bess Island and to the most easterly point of Tully Point in the townland of Tully, the River Lagan from 150 metres downstream of Red Bridge to Stranmillis Weir, the Lower Bann navigation canals, Lough Macronan, Lough Scolban, and the Upper River Bann from Point of Whitecoat to Lough Neagh.
 
-## 8. Restrictions on the use of boats and prohibition on use of float tubes[^key-6cfcd6c3a2400b1b246682e9fe8bda8e]
+## 8. Restrictions on the use of boats and prohibition on use of float tubes[^c-6cfcd6c3a2400b1b246682e9fe8bda8e]
 
 (1) Except on the waters specified in paragraphs (2) and (3), the use of boats for the purpose of angling is prohibited.
 
@@ -96,20 +96,20 @@ The prohibition imposed by Byelaw 6 shall not apply on the Broadwater, the Coleb
 
 (3) Only boats supplied by the Department, or its agent, shall be used for the purpose of angling on Ballykeel Lougherne, Clay Lake, Dungonnell Reservoir, Lough Money, Lough Mourne and Upper South Woodburn Reservoir.
 
-**9.**[^key-63b1ddee962c16c4ec23915395cb0a5f][^key-c10273751b19849c1233b76b4686715c] Mechanically propelled boats, other than electrically powered boats, shall not be used for the purpose of angling except on Upper and Lower Lough Erne and Craigavon (North) Lake.
+**9.**[^c-63b1ddee962c16c4ec23915395cb0a5f][^c-c10273751b19849c1233b76b4686715c] Mechanically propelled boats, other than electrically powered boats, shall not be used for the purpose of angling except on Upper and Lower Lough Erne and Craigavon (North) Lake.
 
-**10.**[^key-31be99365a9c9211b62425d4b2b74db4][^key-c10273751b19849c1233b76b4686715c] A float tube shall not be used for the purpose of angling.
+**10.**[^c-31be99365a9c9211b62425d4b2b74db4][^c-c10273751b19849c1233b76b4686715c] A float tube shall not be used for the purpose of angling.
 
-## 11. Restrictions on trolling[^key-0576728793cdfa328aa31fa1dbcc3154]
+## 11. Restrictions on trolling[^c-0576728793cdfa328aa31fa1dbcc3154]
 
 Trolling is prohibited except on Upper and Lower Lough Erne.
 
-**12.**[^key-2b825c71512f5132c97242aeea5d31e6] For the purpose of trolling on Upper and Lower Lough Erne the number of fishing rods and lines or hand lines which may be used shall not exceed –
+**12.**[^c-2b825c71512f5132c97242aeea5d31e6] For the purpose of trolling on Upper and Lower Lough Erne the number of fishing rods and lines or hand lines which may be used shall not exceed –
 
 - (a) four in the case of a boat occupied by two or more persons; and
 - (b) two in the case of a boat occupied by one person.
 
-## 13. Prohibition on angling in certain areas[^key-861fe3d2adb4285140c4edd693d71810]
+## 13. Prohibition on angling in certain areas[^c-861fe3d2adb4285140c4edd693d71810]
 
 (1) Angling shall be prohibited in the River Bush –
 
@@ -121,7 +121,7 @@ Trolling is prohibited except on Upper and Lower Lough Erne.
 - (a) the western shore from Shooter’s Island to the new Barrier; and
 - (b) the eastern shore from Steamboat Quay to the most southerly point of Castle Island.
 
-## 14. Times for angling[^key-4a7845886b28fc8fc7d2c0d11d595ad7]
+## 14. Times for angling[^c-4a7845886b28fc8fc7d2c0d11d595ad7]
 
 (1) On that section of the River Bush between a point 457 metres downstream of the Lower Road Bridge, Bushmills and the crest of the Salmon Leap Falls angling shall be permitted only between 0800 hours and either one hour after sunset or 2200 hours whichever is earlier.
 
@@ -135,7 +135,7 @@ Trolling is prohibited except on Upper and Lower Lough Erne.
 - North Woodburn Reservoir; and
 - Upper South Woodburn Reservoir.
 
-## 15. Revocations[^key-9f295a419aac6f1290da92541ac708fd]
+## 15. Revocations[^c-9f295a419aac6f1290da92541ac708fd]
 
 The following Byelaws are hereby revoked –
 
@@ -164,7 +164,7 @@ A senior officer of the
 
 Department of Culture, Arts and Leisure
 
-## SCHEDULE[^key-290317a0f7413ec94ba2fc0a4add6cea]
+## SCHEDULE[^c-290317a0f7413ec94ba2fc0a4add6cea]
 
 Byelaws 2, 4 and 5
 
@@ -239,7 +239,7 @@ Byelaws 2, 4 and 5
 </tbody>
 </table>
 
-[^key-d3de1340670e800947ee4c471562ebb3][^key-beaca7ef6415813a6c1021f26234535e][^key-72c8eb48be15b10f90bc15b8cf069af9][^key-bb8f2fc7a0118c31931e46185f3bd123]
+[^c-d3de1340670e800947ee4c471562ebb3][^c-beaca7ef6415813a6c1021f26234535e][^c-72c8eb48be15b10f90bc15b8cf069af9][^c-bb8f2fc7a0118c31931e46185f3bd123]
 
 (This note is not part of the Byelaws)
 
@@ -267,41 +267,41 @@ The principal changes are as follows –
 
 [^f00002]: Footnote: Functions transferred by virtue of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) Article 3 and Schedule 1
 
-[^key-ca3a23662f88cbdbbf401ccbb2ccd632]: Commencement: Byelaw 1 in operation at 4.7.2005 with application in accordance with Byelaw 2
+[^c-ca3a23662f88cbdbbf401ccbb2ccd632]: Commencement: Byelaw 1 in operation at 4.7.2005 with application in accordance with Byelaw 2
 
-[^key-c48da1274e871cea1bf859f05e3bbd84]: Commencement: Byelaw 2 in operation at 4.7.2005 with application in accordance with Byelaw 2
+[^c-c48da1274e871cea1bf859f05e3bbd84]: Commencement: Byelaw 2 in operation at 4.7.2005 with application in accordance with Byelaw 2
 
-[^key-87977909c214deb948da30247471530e]: Commencement: Byelaw 3 in operation at 4.7.2005 with application in accordance with Byelaw 2
+[^c-87977909c214deb948da30247471530e]: Commencement: Byelaw 3 in operation at 4.7.2005 with application in accordance with Byelaw 2
 
-[^key-5db53857f6773d83e36a160840496fd3]: Textual amendment: Words in Byelaw 3 substituted (3.7.2006) by [Public Angling Estate (Amendment) Byelaws (Northern Ireland) 2006 (S.R. 2006/224)](https://www.legislation.gov.uk/nisr/2006/224), Byelaw 3
+[^c-5db53857f6773d83e36a160840496fd3]: Textual amendment: Words in Byelaw 3 substituted (3.7.2006) by [Public Angling Estate (Amendment) Byelaws (Northern Ireland) 2006 (S.R. 2006/224)](https://www.legislation.gov.uk/nisr/2006/224), Byelaw 3
 
-[^key-114ce19922683ee7ae907bd6e33ca903]: Commencement: Byelaw 4 in operation at 4.7.2005 with application in accordance with Byelaw 2
+[^c-114ce19922683ee7ae907bd6e33ca903]: Commencement: Byelaw 4 in operation at 4.7.2005 with application in accordance with Byelaw 2
 
 [^f00003]: Footnote: [S.R. 2003 No. 525](https://www.legislation.gov.uk/nisr/2003/525)
 
-[^key-8a5430d5d283a356b75ae78aec81fe12]: Commencement: Byelaw 5 in operation at 4.7.2005 with application in accordance with Byelaw 2
+[^c-8a5430d5d283a356b75ae78aec81fe12]: Commencement: Byelaw 5 in operation at 4.7.2005 with application in accordance with Byelaw 2
 
-[^key-348e64160907e76624ad51886fcd82e1]: Commencement: Byelaw 6 in operation at 4.7.2005 with application in accordance with Byelaw 2
+[^c-348e64160907e76624ad51886fcd82e1]: Commencement: Byelaw 6 in operation at 4.7.2005 with application in accordance with Byelaw 2
 
-[^key-48d4a800d5e20c1046c8c94dcb99e730]: Commencement: Byelaw 7 in operation at 4.7.2005 with application in accordance with Byelaw 2
+[^c-48d4a800d5e20c1046c8c94dcb99e730]: Commencement: Byelaw 7 in operation at 4.7.2005 with application in accordance with Byelaw 2
 
-[^key-6cfcd6c3a2400b1b246682e9fe8bda8e]: Commencement: Byelaw 8 in operation at 4.7.2005 with application in accordance with Byelaw 2
+[^c-6cfcd6c3a2400b1b246682e9fe8bda8e]: Commencement: Byelaw 8 in operation at 4.7.2005 with application in accordance with Byelaw 2
 
-[^key-63b1ddee962c16c4ec23915395cb0a5f]: Commencement: Byelaw 9 in operation at 4.7.2005 with application in accordance with Byelaw 2
+[^c-63b1ddee962c16c4ec23915395cb0a5f]: Commencement: Byelaw 9 in operation at 4.7.2005 with application in accordance with Byelaw 2
 
-[^key-c10273751b19849c1233b76b4686715c]: Commencement: [S. 8](https://www.legislation.gov.uk/nisr/2005/267/section/8) in operation at 4.7.2005 with application in accordance with, see
+[^c-c10273751b19849c1233b76b4686715c]: Commencement: [S. 8](https://www.legislation.gov.uk/nisr/2005/267/section/8) in operation at 4.7.2005 with application in accordance with, see
 
-[^key-31be99365a9c9211b62425d4b2b74db4]: Commencement: Byelaw 10 in operation at 4.7.2005 with application in accordance with Byelaw 2
+[^c-31be99365a9c9211b62425d4b2b74db4]: Commencement: Byelaw 10 in operation at 4.7.2005 with application in accordance with Byelaw 2
 
-[^key-0576728793cdfa328aa31fa1dbcc3154]: Commencement: Byelaw 11 in operation at 4.7.2005 with application in accordance with Byelaw 2
+[^c-0576728793cdfa328aa31fa1dbcc3154]: Commencement: Byelaw 11 in operation at 4.7.2005 with application in accordance with Byelaw 2
 
-[^key-2b825c71512f5132c97242aeea5d31e6]: Commencement: Byelaw 12 in operation at 4.7.2005 with application in accordance with Byelaw 2
+[^c-2b825c71512f5132c97242aeea5d31e6]: Commencement: Byelaw 12 in operation at 4.7.2005 with application in accordance with Byelaw 2
 
-[^key-861fe3d2adb4285140c4edd693d71810]: Commencement: Byelaw 13 in operation at 4.7.2005 with application in accordance with Byelaw 2
+[^c-861fe3d2adb4285140c4edd693d71810]: Commencement: Byelaw 13 in operation at 4.7.2005 with application in accordance with Byelaw 2
 
-[^key-4a7845886b28fc8fc7d2c0d11d595ad7]: Commencement: Byelaw 14 in operation at 4.7.2005 with application in accordance with Byelaw 2
+[^c-4a7845886b28fc8fc7d2c0d11d595ad7]: Commencement: Byelaw 14 in operation at 4.7.2005 with application in accordance with Byelaw 2
 
-[^key-9f295a419aac6f1290da92541ac708fd]: Commencement: Byelaw 15 in operation at 4.7.2005 with application in accordance with Byelaw 2
+[^c-9f295a419aac6f1290da92541ac708fd]: Commencement: Byelaw 15 in operation at 4.7.2005 with application in accordance with Byelaw 2
 
 [^f00004]: Footnote: [S.R. 1989 No. 482](https://www.legislation.gov.uk/nisr/1989/482)
 
@@ -311,12 +311,12 @@ The principal changes are as follows –
 
 [^f00007]: Footnote: [S.R. 1994 No. 314](https://www.legislation.gov.uk/nisr/1994/314)
 
-[^key-290317a0f7413ec94ba2fc0a4add6cea]: Commencement: Sch. in operation at 4.7.2005 with application in accordance with Byelaw 2
+[^c-290317a0f7413ec94ba2fc0a4add6cea]: Commencement: Sch. in operation at 4.7.2005 with application in accordance with Byelaw 2
 
-[^key-d3de1340670e800947ee4c471562ebb3]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2005/267/schedule) (d) added (3.7.2006) by [Public Angling Estate (Amendment) Byelaws (Northern Ireland) 2006 (S.R. 2006/224)](https://www.legislation.gov.uk/nisr/2006/224), Byelaw 4(a)
+[^c-d3de1340670e800947ee4c471562ebb3]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2005/267/schedule) (d) added (3.7.2006) by [Public Angling Estate (Amendment) Byelaws (Northern Ireland) 2006 (S.R. 2006/224)](https://www.legislation.gov.uk/nisr/2006/224), Byelaw 4(a)
 
-[^key-beaca7ef6415813a6c1021f26234535e]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2005/267/schedule) inserted (3.7.2006) by [Public Angling Estate (Amendment) Byelaws (Northern Ireland) 2006 (S.R. 2006/224)](https://www.legislation.gov.uk/nisr/2006/224), Byelaw 4(c)
+[^c-beaca7ef6415813a6c1021f26234535e]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2005/267/schedule) inserted (3.7.2006) by [Public Angling Estate (Amendment) Byelaws (Northern Ireland) 2006 (S.R. 2006/224)](https://www.legislation.gov.uk/nisr/2006/224), Byelaw 4(c)
 
-[^key-72c8eb48be15b10f90bc15b8cf069af9]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2005/267/schedule) inserted (3.7.2006) by [Public Angling Estate (Amendment) Byelaws (Northern Ireland) 2006 (S.R. 2006/224)](https://www.legislation.gov.uk/nisr/2006/224), Byelaw 4(b)
+[^c-72c8eb48be15b10f90bc15b8cf069af9]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2005/267/schedule) inserted (3.7.2006) by [Public Angling Estate (Amendment) Byelaws (Northern Ireland) 2006 (S.R. 2006/224)](https://www.legislation.gov.uk/nisr/2006/224), Byelaw 4(b)
 
-[^key-bb8f2fc7a0118c31931e46185f3bd123]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2005/267/schedule) inserted (3.7.2006) by [Public Angling Estate (Amendment) Byelaws (Northern Ireland) 2006 (S.R. 2006/224)](https://www.legislation.gov.uk/nisr/2006/224), Byelaw 4(d)
+[^c-bb8f2fc7a0118c31931e46185f3bd123]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2005/267/schedule) inserted (3.7.2006) by [Public Angling Estate (Amendment) Byelaws (Northern Ireland) 2006 (S.R. 2006/224)](https://www.legislation.gov.uk/nisr/2006/224), Byelaw 4(d)

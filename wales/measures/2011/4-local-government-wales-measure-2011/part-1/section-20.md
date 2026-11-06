@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Local authority functions not to be delegated[^key-85b8754b40117350126e878e04c3d941]
+## 20. Local authority functions not to be delegated[^c-85b8754b40117350126e878e04c3d941]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The functions of a local authority under sections 8(1), 11, 12(1) and (2), 14(1)
 
 ## Annotations
 
-[^key-85b8754b40117350126e878e04c3d941]: Commencement: S. 20 in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/b)
+[^c-85b8754b40117350126e878e04c3d941]: Commencement: S. 20 in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/b)

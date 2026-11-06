@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Employment status of officials[^key-e8e5d243bbeb7337562bd4ef8fd781ee]
+## 69. Employment status of officials[^c-e8e5d243bbeb7337562bd4ef8fd781ee]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ must be treated as a period of continuous employment with the relevant local aut
 
 ## Annotations
 
-[^key-e8e5d243bbeb7337562bd4ef8fd781ee]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2007/18/section/69) in force at 1.12.2007 by [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/i)
+[^c-e8e5d243bbeb7337562bd4ef8fd781ee]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2007/18/section/69) in force at 1.12.2007 by [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/i)

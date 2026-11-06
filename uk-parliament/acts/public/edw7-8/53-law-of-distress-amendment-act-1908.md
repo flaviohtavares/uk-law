@@ -29,73 +29,73 @@ Law of Distress Amendment Act 1908 (repealed)
 
 1908 c. 53
 
-[^key-ede7227dc50c2121a45e8c46d60e0ca2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ede7227dc50c2121a45e8c46d60e0ca2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Under tenant or lodger, if distress levied, to make declaration that immediate tenant has no property in goods distrained.[^key-ede7227dc50c2121a45e8c46d60e0ca2]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Penalty.[^key-ede7227dc50c2121a45e8c46d60e0ca2]
+## 1. Under tenant or lodger, if distress levied, to make declaration that immediate tenant has no property in goods distrained.[^c-ede7227dc50c2121a45e8c46d60e0ca2]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Payments by under tenant or lodger to superior landlord.[^key-ede7227dc50c2121a45e8c46d60e0ca2]
+## 2. Penalty.[^c-ede7227dc50c2121a45e8c46d60e0ca2]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exclusion of certain goods.[^key-ede7227dc50c2121a45e8c46d60e0ca2]
+## 3. Payments by under tenant or lodger to superior landlord.[^c-ede7227dc50c2121a45e8c46d60e0ca2]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4A. Hire purchase etc. agreements.[^key-ede7227dc50c2121a45e8c46d60e0ca2]
+## 4. Exclusion of certain goods.[^c-ede7227dc50c2121a45e8c46d60e0ca2]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Exclusion of certain under tenants.[^key-ede7227dc50c2121a45e8c46d60e0ca2]
+## 4A. Hire purchase etc. agreements.[^c-ede7227dc50c2121a45e8c46d60e0ca2]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. To avoid distress.[^key-ede7227dc50c2121a45e8c46d60e0ca2]
+## 5. Exclusion of certain under tenants.[^c-ede7227dc50c2121a45e8c46d60e0ca2]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-ede7227dc50c2121a45e8c46d60e0ca2]
+## 6. To avoid distress.[^c-ede7227dc50c2121a45e8c46d60e0ca2]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-ede7227dc50c2121a45e8c46d60e0ca2]
 
 **May not be in force at this date. Check the source.**
 
-## 8. Repeal of 34 & 35 Vict. c. 9[^key-ede7227dc50c2121a45e8c46d60e0ca2]
+## 8. Repeal of 34 & 35 Vict. c. 9[^c-ede7227dc50c2121a45e8c46d60e0ca2]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Definitions.[^key-ede7227dc50c2121a45e8c46d60e0ca2]
+## 9. Definitions.[^c-ede7227dc50c2121a45e8c46d60e0ca2]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Act not to extend to Scotland.[^key-ede7227dc50c2121a45e8c46d60e0ca2]
+## 10. Act not to extend to Scotland.[^c-ede7227dc50c2121a45e8c46d60e0ca2]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Short title.[^key-ede7227dc50c2121a45e8c46d60e0ca2]
+## 11. Short title.[^c-ede7227dc50c2121a45e8c46d60e0ca2]
 
 **No longer in force.**
 
@@ -103,4 +103,4 @@ Law of Distress Amendment Act 1908 (repealed)
 
 ## Annotations
 
-[^key-ede7227dc50c2121a45e8c46d60e0ca2]: Textual amendment: Act repealed (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 14 para. 20](https://www.legislation.gov.uk/ukpga/2007/15/schedule/14/paragraph/20), [Sch. 23 Pt. 4](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/4) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-ede7227dc50c2121a45e8c46d60e0ca2]: Textual amendment: Act repealed (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 14 para. 20](https://www.legislation.gov.uk/ukpga/2007/15/schedule/14/paragraph/20), [Sch. 23 Pt. 4](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/4) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)

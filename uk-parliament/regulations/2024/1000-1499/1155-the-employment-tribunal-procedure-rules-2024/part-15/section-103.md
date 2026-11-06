@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 103. Appeals against improvement and prohibition notices[^key-edf239c243a95406c1c0de82b0b255a2]
+## 103. Appeals against improvement and prohibition notices[^c-edf239c243a95406c1c0de82b0b255a2]
 
 *Extent: E+W+S*
 
@@ -29,7 +29,7 @@ summary: ''
 
 ## Annotations
 
-[^key-edf239c243a95406c1c0de82b0b255a2]: Commencement: [Rule 103](https://www.legislation.gov.uk/uksi/2024/1155/rule/103) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-edf239c243a95406c1c0de82b0b255a2]: Commencement: [Rule 103](https://www.legislation.gov.uk/uksi/2024/1155/rule/103) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
 [^f00045]: Footnote: Regulation 14A was inserted by [S.I. 2024/1156](https://www.legislation.gov.uk/uksi/2024/1156).
 

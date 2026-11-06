@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Not exhibiting licence: period of grace[^key-b4072ae22153fcfc639a6a0171e1903d]
+## 147. Not exhibiting licence: period of grace[^c-b4072ae22153fcfc639a6a0171e1903d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4072ae22153fcfc639a6a0171e1903d]: Textual amendment: [S. 147](https://www.legislation.gov.uk/ukpga/2008/9/section/147) omitted (17.7.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 188(3)(a)](https://www.legislation.gov.uk/ukpga/2013/29/section/188/3/a)
+[^c-b4072ae22153fcfc639a6a0171e1903d]: Textual amendment: [S. 147](https://www.legislation.gov.uk/ukpga/2008/9/section/147) omitted (17.7.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 188(3)(a)](https://www.legislation.gov.uk/ukpga/2013/29/section/188/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7B. Investigations under section 6: information about, and to, a registered person's employers[^key-d35fdc268eae1684b3817f849cb61fcb]
+## 7B. Investigations under section 6: information about, and to, a registered person's employers[^c-d35fdc268eae1684b3817f849cb61fcb]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d35fdc268eae1684b3817f849cb61fcb]: Textual amendment: [S. 7B](https://www.legislation.gov.uk/nia/2001/3/section/7B) inserted (13.5.2016) by [Health and Personal Social Services (Amendment) Act (NorthernIreland) 2016 (c. 23)](https://www.legislation.gov.uk/nia/2016/23), [ss. 2(2)](https://www.legislation.gov.uk/nia/2016/23/section/2/2), [8](https://www.legislation.gov.uk/nia/2016/23/section/8)
+[^c-d35fdc268eae1684b3817f849cb61fcb]: Textual amendment: [S. 7B](https://www.legislation.gov.uk/nia/2001/3/section/7B) inserted (13.5.2016) by [Health and Personal Social Services (Amendment) Act (NorthernIreland) 2016 (c. 23)](https://www.legislation.gov.uk/nia/2016/23), [ss. 2(2)](https://www.legislation.gov.uk/nia/2016/23/section/2/2), [8](https://www.legislation.gov.uk/nia/2016/23/section/8)

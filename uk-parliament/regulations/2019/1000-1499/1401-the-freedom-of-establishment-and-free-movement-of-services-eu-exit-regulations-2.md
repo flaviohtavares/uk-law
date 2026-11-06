@@ -32,7 +32,7 @@ summary: ''
 
 Exiting The European Union
 
-The Freedom of Establishment and Free Movement of Services (EU Exit) Regulations 2019 (revoked)[^key-929160ba8aa399f1f7c1828a31903fb4]
+The Freedom of Establishment and Free Movement of Services (EU Exit) Regulations 2019 (revoked)[^c-929160ba8aa399f1f7c1828a31903fb4]
 
 Made
 
@@ -40,30 +40,30 @@ Made
 
 Coming into force in accordance with regulation 1
 
-[^key-929160ba8aa399f1f7c1828a31903fb4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-929160ba8aa399f1f7c1828a31903fb4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-929160ba8aa399f1f7c1828a31903fb4]
+## 1. Citation and commencement[^c-929160ba8aa399f1f7c1828a31903fb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Cessation of freedom of establishment[^key-929160ba8aa399f1f7c1828a31903fb4]
+## 2. Cessation of freedom of establishment[^c-929160ba8aa399f1f7c1828a31903fb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Cessation of free movement of services[^key-929160ba8aa399f1f7c1828a31903fb4]
+## 3. Cessation of free movement of services[^c-929160ba8aa399f1f7c1828a31903fb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Cessation of discrimination on the grounds of nationality[^key-929160ba8aa399f1f7c1828a31903fb4]
+## 4. Cessation of discrimination on the grounds of nationality[^c-929160ba8aa399f1f7c1828a31903fb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-929160ba8aa399f1f7c1828a31903fb4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-929160ba8aa399f1f7c1828a31903fb4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-929160ba8aa399f1f7c1828a31903fb4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-929160ba8aa399f1f7c1828a31903fb4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-929160ba8aa399f1f7c1828a31903fb4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/1401) revoked (1.3.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 18(b)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/18/b)
+[^c-929160ba8aa399f1f7c1828a31903fb4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/1401) revoked (1.3.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 18(b)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/18/b)

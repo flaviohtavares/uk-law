@@ -44,7 +44,7 @@ summary: ''
 
 (5) In this Act “**the health and social care bodies**” means—
 
-- (a)[^key-e7c123beb07b26196027f1fcf4e32a31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-e7c123beb07b26196027f1fcf4e32a31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the Regional Agency for Public Health and Social Well-being, established under section 12 and referred to in this Act as “**the Regional Agency**”;
 - (c) the Regional Business Services Organisation, established under section 14 and referred to in this Act as “**RBSO**”;
 - (d) HSC trusts;
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7c123beb07b26196027f1fcf4e32a31]: Textual amendment: [S. 1(5)(a)](https://www.legislation.gov.uk/nia/2009/1/section/1/5/a) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 229](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/229); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-e7c123beb07b26196027f1fcf4e32a31]: Textual amendment: [S. 1(5)(a)](https://www.legislation.gov.uk/nia/2009/1/section/1/5/a) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 229](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/229); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)

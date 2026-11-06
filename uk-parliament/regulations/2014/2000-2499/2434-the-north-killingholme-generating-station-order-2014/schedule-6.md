@@ -22,7 +22,7 @@ summary: ''
 
 Article 33
 
-### 1. Interpretation of Schedule[^key-9245d3e79eaed7d357d21113c134228f]
+### 1. Interpretation of Schedule[^c-9245d3e79eaed7d357d21113c134228f]
 
 In this Schedule—
 
@@ -30,7 +30,7 @@ In this Schedule—
 - “business day” means a day other than Saturday or Sunday which is not Christmas Day, Good Friday or a bank holiday under section 1 of the Banking and Financial Dealings Act 1971[^f00018]; and
 - “requirement consultee” means, in relation to a requirement which is the subject of an appeal, any person named as a person to be consulted by the discharging authority in discharging that requirement.
 
-### 2. Applications made under requirement[^key-f55dd358a52072ac87643afecdcd6ebb]
+### 2. Applications made under requirement[^c-f55dd358a52072ac87643afecdcd6ebb]
 
 (1) Where an application has been made to a discharging authority for any agreement or approval required by a requirement the discharging authority shall give notice to the undertaker of their decision on the application before the end of the decision period.
 
@@ -40,7 +40,7 @@ In this Schedule—
 - (b) where further information is requested under paragraph 3, 5 weeks from the day immediately following that on which further information has been supplied by the undertaker under paragraph 3; or
 - (c) such longer period as may be agreed by the undertaker and the discharging authority in writing before the end of the period in sub-paragraph (a) or (b).
 
-### 3. Further information[^key-6d46549a57510f4109a66df223b46a67]
+### 3. Further information[^c-6d46549a57510f4109a66df223b46a67]
 
 (1) In relation to any application to which this Schedule applies, the discharging authority shall have the right to request such further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -50,7 +50,7 @@ In this Schedule—
 
 (4) If the discharging authority does not give such notification as specified in sub-paragraph (2) or (3) it shall be deemed to have sufficient information to consider the application and shall not thereafter be entitled to request further information without the prior agreement of the undertaker.
 
-### 4. Fees[^key-a7e07c323ed981a58545458750d12331]
+### 4. Fees[^c-a7e07c323ed981a58545458750d12331]
 
 (1) Where an application is made to the discharging authority for agreement or approval in respect of a requirement, a fee of £97 shall be paid to that authority.
 
@@ -61,7 +61,7 @@ In this Schedule—
 
 unless within that period the undertaker agrees, in writing, that the fee shall be retained by the discharging authority and credited in respect of a future application.
 
-### 5. Appeals[^key-4c177bd6953f9c276dc8eca25bc7ac59]
+### 5. Appeals[^c-4c177bd6953f9c276dc8eca25bc7ac59]
 
 (1) The undertaker may appeal in the event that—
 
@@ -103,14 +103,14 @@ and may deal with the application as if it had been made to the appointed person
 
 ## Annotations
 
-[^key-9245d3e79eaed7d357d21113c134228f]: Commencement: Sch. 6 para. 1 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-9245d3e79eaed7d357d21113c134228f]: Commencement: Sch. 6 para. 1 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
 [^f00018]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-f55dd358a52072ac87643afecdcd6ebb]: Commencement: Sch. 6 para. 2 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-f55dd358a52072ac87643afecdcd6ebb]: Commencement: Sch. 6 para. 2 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-6d46549a57510f4109a66df223b46a67]: Commencement: Sch. 6 para. 3 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-6d46549a57510f4109a66df223b46a67]: Commencement: Sch. 6 para. 3 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-a7e07c323ed981a58545458750d12331]: Commencement: Sch. 6 para. 4 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-a7e07c323ed981a58545458750d12331]: Commencement: Sch. 6 para. 4 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-4c177bd6953f9c276dc8eca25bc7ac59]: Commencement: Sch. 6 para. 5 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-4c177bd6953f9c276dc8eca25bc7ac59]: Commencement: Sch. 6 para. 5 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)

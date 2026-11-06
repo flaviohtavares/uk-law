@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 264. Directions to scheme administrators[^key-e31398d4517232be35c4d7d99e460600]
+## 264. Directions to scheme administrators[^c-e31398d4517232be35c4d7d99e460600]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e31398d4517232be35c4d7d99e460600]: Commencement: [S. 264](https://www.legislation.gov.uk/ukpga/2023/52/section/264) in force at 26.12.2023, see [s. 334(3)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/i)
+[^c-e31398d4517232be35c4d7d99e460600]: Commencement: [S. 264](https://www.legislation.gov.uk/ukpga/2023/52/section/264) in force at 26.12.2023, see [s. 334(3)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/i)

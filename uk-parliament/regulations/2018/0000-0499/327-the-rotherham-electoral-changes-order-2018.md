@@ -147,7 +147,7 @@ Wards of the parish of Aston cum Aughton
 | Aston cum Aughton South | 7 |
 | Aston cum Aughton West | 3 |
 
-Table 2[^key-1d388975395432e10bfb3cd7bab22e5b]
+Table 2[^c-1d388975395432e10bfb3cd7bab22e5b]
 
 Wards of the parish of Bramley
 
@@ -229,4 +229,4 @@ An impact assessment has not been produced for this instrument as no impact on t
 
     https://www.lgbce.org.uk/current-reviews/yorkshire-and-the-humber/south-yorkshire/rotherham
 
-[^key-1d388975395432e10bfb3cd7bab22e5b]: Textual amendment: Sch. 2 Table 2 substituted (28.1.2020) by [The Rotherham (Electoral Changes) (Amendment) Order 2020 (S.I. 2020/62)](https://www.legislation.gov.uk/uksi/2020/62), [arts. 1](https://www.legislation.gov.uk/uksi/2020/62/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/62/article/2/2)
+[^c-1d388975395432e10bfb3cd7bab22e5b]: Textual amendment: Sch. 2 Table 2 substituted (28.1.2020) by [The Rotherham (Electoral Changes) (Amendment) Order 2020 (S.I. 2020/62)](https://www.legislation.gov.uk/uksi/2020/62), [arts. 1](https://www.legislation.gov.uk/uksi/2020/62/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/62/article/2/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Recovery of expenditure on income support: additional amounts and transfer of orders.[^key-b875c9c2f63a14bc8c675f248267741a]
+## 102. Recovery of expenditure on income support: additional amounts and transfer of orders.[^c-b875c9c2f63a14bc8c675f248267741a]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b875c9c2f63a14bc8c675f248267741a]: Textual amendment: [S. 102](https://www.legislation.gov.uk/ukpga/1992/8/section/102) repealed (27.10.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 5](https://www.legislation.gov.uk/nia/2008/10/schedule/5); [S.R. 2008/399](https://www.legislation.gov.uk/nisr/2008/399), [art. 2(2)(d)(ii)](https://www.legislation.gov.uk/nisr/2008/399/article/2/2/d/ii) (with [art. 3](https://www.legislation.gov.uk/nisr/2008/399/article/3))
+[^c-b875c9c2f63a14bc8c675f248267741a]: Textual amendment: [S. 102](https://www.legislation.gov.uk/ukpga/1992/8/section/102) repealed (27.10.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 5](https://www.legislation.gov.uk/nia/2008/10/schedule/5); [S.R. 2008/399](https://www.legislation.gov.uk/nisr/2008/399), [art. 2(2)(d)(ii)](https://www.legislation.gov.uk/nisr/2008/399/article/2/2/d/ii) (with [art. 3](https://www.legislation.gov.uk/nisr/2008/399/article/3))

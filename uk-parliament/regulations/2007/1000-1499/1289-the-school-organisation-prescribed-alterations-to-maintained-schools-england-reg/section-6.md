@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Consultation prior to these Regulations[^key-0f56f1fd898b9d0d250e0bd96d68f10b]
+## 6. Consultation prior to these Regulations[^c-0f56f1fd898b9d0d250e0bd96d68f10b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ If before May 25<sup>th</sup> 2007 any action was taken which (had it been taken
 
 ## Annotations
 
-[^key-0f56f1fd898b9d0d250e0bd96d68f10b]: Commencement: Reg. 6 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-0f56f1fd898b9d0d250e0bd96d68f10b]: Commencement: Reg. 6 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)

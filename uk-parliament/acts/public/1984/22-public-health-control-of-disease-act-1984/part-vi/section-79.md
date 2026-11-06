@@ -22,10 +22,10 @@ summary: ''
 
 (1) This Act may be cited as the Public Health (Control of Disease) Act 1984.
 
-(2)[^key-c9ece4d6e950825733e15f9e4db4b75e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c9ece4d6e950825733e15f9e4db4b75e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) This Act shall not extend to Scotland or to Northern Ireland.
 
 ## Annotations
 
-[^key-c9ece4d6e950825733e15f9e4db4b75e]: Textual amendment: S. 79(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-c9ece4d6e950825733e15f9e4db4b75e]: Textual amendment: S. 79(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)

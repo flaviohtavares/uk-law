@@ -30,7 +30,7 @@ Key to Schedule 4
 | PD | Footpath diversion |
 | PS | Footpath stopping up |
 
-### PART 1 — FOOTPATHS FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-beff6d831f24ba5d17da059c293227f7]
+### PART 1 — FOOTPATHS FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-beff6d831f24ba5d17da059c293227f7]
 
 <table>
 <thead>
@@ -47,7 +47,7 @@ Key to Schedule 4
 </tbody>
 </table>
 
-### PART 2 — FOOTPATH FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-b18cb15cfcd064d95afcc730cfb096f6]
+### PART 2 — FOOTPATH FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-b18cb15cfcd064d95afcc730cfb096f6]
 
 <table>
 <thead>
@@ -59,7 +59,7 @@ Key to Schedule 4
 </tbody>
 </table>
 
-### PART 3 — NEW FOOTPATHS[^key-1667833619a990117c7cc60c2a9ae429]
+### PART 3 — NEW FOOTPATHS[^c-1667833619a990117c7cc60c2a9ae429]
 
 | *(1)*<br>*Area* | *(2)*<br>*New Footpath* |
 | --- | --- |
@@ -68,8 +68,8 @@ Key to Schedule 4
 
 ## Annotations
 
-[^key-beff6d831f24ba5d17da059c293227f7]: Commencement: Sch. 4 Pt. 1 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-beff6d831f24ba5d17da059c293227f7]: Commencement: Sch. 4 Pt. 1 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
 
-[^key-b18cb15cfcd064d95afcc730cfb096f6]: Commencement: Sch. 4 Pt. 2 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-b18cb15cfcd064d95afcc730cfb096f6]: Commencement: Sch. 4 Pt. 2 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
 
-[^key-1667833619a990117c7cc60c2a9ae429]: Commencement: Sch. 4 Pt. 3 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-1667833619a990117c7cc60c2a9ae429]: Commencement: Sch. 4 Pt. 3 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

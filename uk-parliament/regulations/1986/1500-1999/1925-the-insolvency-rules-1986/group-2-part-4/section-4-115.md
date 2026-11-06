@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.115. Court's power to regulate meetings under Rules 4.113, 4.114-CVL[^key-4c18fe65c4689ff22626216a569bf307]
+## 4.115. Court's power to regulate meetings under Rules 4.113, 4.114-CVL[^c-4c18fe65c4689ff22626216a569bf307]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a meeting under Rule 4.113 or 4.114-CVL is to be held, or is proposed to b
 
 ## Annotations
 
-[^key-4c18fe65c4689ff22626216a569bf307]: Commencement: [Rule 4.115](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.115) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-4c18fe65c4689ff22626216a569bf307]: Commencement: [Rule 4.115](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.115) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

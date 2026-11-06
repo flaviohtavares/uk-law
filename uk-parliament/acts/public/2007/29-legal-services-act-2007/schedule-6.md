@@ -45,7 +45,7 @@ Sections 24 and 26
 **3.** (1) This paragraph applies where the Board receives a request under paragraph 2, in respect of an activity, from—
 
 - (a) the Lord Chancellor,
-- (b) the CMA[^key-15e62472fcd957523f0a52011fbb7069],
+- (b) the CMA[^c-15e62472fcd957523f0a52011fbb7069],
 - (c) the Consumer Panel, or
 - (d) the Lord Chief Justice.
 
@@ -140,7 +140,7 @@ carry out such inquiries as it considers appropriate to enable it to determine w
 (2) The Board must, as soon as reasonably practicable, give notice of its decision to—
 
 - (a) the Lord Chancellor,
-- (b) the CMA[^key-cf640b20c98e37d56c9dcd81ac5ed98a],
+- (b) the CMA[^c-cf640b20c98e37d56c9dcd81ac5ed98a],
 - (c) the Consumer Panel, and
 - (d) the Lord Chief Justice,
 
@@ -182,7 +182,7 @@ in respect of an activity.
 
 (4) The Board may issue a notice under sub-paragraph (2) only after it has consulted—
 
-- (a) the CMA[^key-35f262006a2f51b78b9b8209f53f0c4d],
+- (a) the CMA[^c-35f262006a2f51b78b9b8209f53f0c4d],
 - (b) the Consumer Panel, and
 - (c) the Lord Chief Justice.
 
@@ -268,7 +268,7 @@ in respect of an activity.
 
 (4) The Board may issue a notice under sub-paragraph (2) only after it has consulted—
 
-- (a) the CMA[^key-02e851f5a87f0e7ee4a5df43b3fbcf86],
+- (a) the CMA[^c-02e851f5a87f0e7ee4a5df43b3fbcf86],
 - (b) the Consumer Panel, and
 - (c) the Lord Chief Justice.
 
@@ -282,12 +282,12 @@ in respect of an activity.
 
 ## Annotations
 
-[^key-15e62472fcd957523f0a52011fbb7069]: Textual amendment: Word in [Sch. 6 para. 3(1)(b)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/6/paragraph/3/1/b) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 118(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/118/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-15e62472fcd957523f0a52011fbb7069]: Textual amendment: Word in [Sch. 6 para. 3(1)(b)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/6/paragraph/3/1/b) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 118(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/118/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-cf640b20c98e37d56c9dcd81ac5ed98a]: Textual amendment: Word in [Sch. 6 para. 9(2)(b)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/6/paragraph/9/2/b) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 118(5)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/118/5); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-cf640b20c98e37d56c9dcd81ac5ed98a]: Textual amendment: Word in [Sch. 6 para. 9(2)(b)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/6/paragraph/9/2/b) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 118(5)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/118/5); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-35f262006a2f51b78b9b8209f53f0c4d]: Textual amendment: Word in [Sch. 6 para. 11(4)(a)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/6/paragraph/11/4/a) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 118(6)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/118/6); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-35f262006a2f51b78b9b8209f53f0c4d]: Textual amendment: Word in [Sch. 6 para. 11(4)(a)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/6/paragraph/11/4/a) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 118(6)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/118/6); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
 [^c20323481]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2007/29/schedule/6/paragraph/12) wholly in force at 1.1.2010; [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2007/29/schedule/6/paragraph/12) not in force at Royal Assent see [s. 211](https://www.legislation.gov.uk/ukpga/2007/29/section/211); [Sch. 6 para. 12(1)-(3)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/6/paragraph/12/1) in force at 1.1.2009 by [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/b/iii); [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2007/29/schedule/6/paragraph/12) in force otherwise at 1.1.2010 by [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/b/ii)
 
-[^key-02e851f5a87f0e7ee4a5df43b3fbcf86]: Textual amendment: Word in [Sch. 6 para. 17(4)(a)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/6/paragraph/17/4/a) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 118(7)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/118/7); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-02e851f5a87f0e7ee4a5df43b3fbcf86]: Textual amendment: Word in [Sch. 6 para. 17(4)(a)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/6/paragraph/17/4/a) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 118(7)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/118/7); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

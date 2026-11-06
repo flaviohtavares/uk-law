@@ -51,13 +51,13 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred by section 58(2) of the Children and Families (Wales) Measure 2010[^f00001], make the following regulations.
 
-## 1. Citation, commencement and application[^key-6acbc23d296e9252655eb2bde2288c4a]
+## 1. Citation, commencement and application[^c-6acbc23d296e9252655eb2bde2288c4a]
 
 (1) The title of these Regulations is the Integrated Family Support Teams (Family Support Functions) (Wales) (Amendment) Regulations 2011 and they come into force on 1 March 2011.
 
 (2) These Regulations apply in relation to Wales.
 
-**2.**[^key-3250418952ba88f64975b180e3c117b1] In Table 1 of Schedule 1 to the Integrated Family Support Teams (Family Support Functions) (Wales) Regulations 2010[^f00002] delete the words –
+**2.**[^c-3250418952ba88f64975b180e3c117b1] In Table 1 of Schedule 1 to the Integrated Family Support Teams (Family Support Functions) (Wales) Regulations 2010[^f00002] delete the words –
 
 > - s.82 National Health Service Act 2006 (*Cooperation between NHS bodies and local authorities*)
 
@@ -77,8 +77,8 @@ These Regulations amend the Integrated Family Support Teams (Family Support Func
 
 [^f00001]: Footnote: [2010 nawm.1](https://www.legislation.gov.uk/mwa/2010/1)
 
-[^key-6acbc23d296e9252655eb2bde2288c4a]: Commencement: Reg. 1 in force at 1.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/191/regulation/1/1)
+[^c-6acbc23d296e9252655eb2bde2288c4a]: Commencement: Reg. 1 in force at 1.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/191/regulation/1/1)
 
-[^key-3250418952ba88f64975b180e3c117b1]: Commencement: Reg. 2 in force at 1.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/191/regulation/1/1)
+[^c-3250418952ba88f64975b180e3c117b1]: Commencement: Reg. 2 in force at 1.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/191/regulation/1/1)
 
 [^f00002]: Footnote: S.I. [2010/1701 (W.162)](https://www.legislation.gov.uk/wsi/2010/1701)

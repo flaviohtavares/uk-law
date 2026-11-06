@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Estimates of likely energy bill savings[^key-d79b513238647ed06701be5491e89db9]
+## 27. Estimates of likely energy bill savings[^c-d79b513238647ed06701be5491e89db9]
 
 *Extent: E+W+S*
 
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d79b513238647ed06701be5491e89db9]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2012/2079/regulation/27) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)
+[^c-d79b513238647ed06701be5491e89db9]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2012/2079/regulation/27) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)
 
 [^f00024]: Footnote: This is the estimate that is required to be made under section 4(4) of the Act.
 

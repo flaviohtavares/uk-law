@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7A. Review[^key-430babd99f966e2d83dc120c50408c85]
+## 7A. Review[^c-430babd99f966e2d83dc120c50408c85]
 
 *Extent: E+W*
 
 (1) The Secretary of State must from time to time—
 
-- (a) carry out a review of articles 1 to 7ZA[^key-2c30cb60103f08125ca81c03d564f93f];
+- (a) carry out a review of articles 1 to 7ZA[^c-2c30cb60103f08125ca81c03d564f93f];
 - (b) set out the conclusions of the review in a report; and
 - (c) publish the report.
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-430babd99f966e2d83dc120c50408c85]: Textual amendment: Art. 7A inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [3](https://www.legislation.gov.uk/uksi/2016/332/article/3)
+[^c-430babd99f966e2d83dc120c50408c85]: Textual amendment: Art. 7A inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [3](https://www.legislation.gov.uk/uksi/2016/332/article/3)
 
-[^key-2c30cb60103f08125ca81c03d564f93f]: Textual amendment: Words in [art. 7A(1)(a)](https://www.legislation.gov.uk/uksi/2015/596/article/7A/1/a) substituted (6.4.2018) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2018 (S.I. 2018/343)](https://www.legislation.gov.uk/uksi/2018/343), [arts. 1](https://www.legislation.gov.uk/uksi/2018/343/article/1), [5](https://www.legislation.gov.uk/uksi/2018/343/article/5)
+[^c-2c30cb60103f08125ca81c03d564f93f]: Textual amendment: Words in [art. 7A(1)(a)](https://www.legislation.gov.uk/uksi/2015/596/article/7A/1/a) substituted (6.4.2018) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2018 (S.I. 2018/343)](https://www.legislation.gov.uk/uksi/2018/343), [arts. 1](https://www.legislation.gov.uk/uksi/2018/343/article/1), [5](https://www.legislation.gov.uk/uksi/2018/343/article/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8B. Meaning of “franchised provider”, “franchised student”, “student population”, “unregistered franchised provider”, “below-threshold franchised provider” and “qualifying franchised provider”[^key-8ce8f101023d5495af75f4a1f083bbbf]
+## 8B. Meaning of “franchised provider”, “franchised student”, “student population”, “unregistered franchised provider”, “below-threshold franchised provider” and “qualifying franchised provider”[^c-8ce8f101023d5495af75f4a1f083bbbf]
 
 *Extent: E+W+S+N.I.*
 
@@ -94,4 +94,4 @@ where—
 
 ## Annotations
 
-[^key-8ce8f101023d5495af75f4a1f083bbbf]: Textual amendment: Pt. 1 Ch. 2A inserted (25.6.2026) by [The Education (Student Support for Postgraduate Provision) (Amendment) Regulations 2026 (S.I. 2026/581)](https://www.legislation.gov.uk/uksi/2026/581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2026/581/regulation/11) (with [regs. 13](https://www.legislation.gov.uk/uksi/2026/581/regulation/13), [14](https://www.legislation.gov.uk/uksi/2026/581/regulation/14))
+[^c-8ce8f101023d5495af75f4a1f083bbbf]: Textual amendment: Pt. 1 Ch. 2A inserted (25.6.2026) by [The Education (Student Support for Postgraduate Provision) (Amendment) Regulations 2026 (S.I. 2026/581)](https://www.legislation.gov.uk/uksi/2026/581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2026/581/regulation/11) (with [regs. 13](https://www.legislation.gov.uk/uksi/2026/581/regulation/13), [14](https://www.legislation.gov.uk/uksi/2026/581/regulation/14))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — Schedule 3A to the New Roads and Street Works Act 1991[^key-857a268eadda2d3d3b70dbeb7367b58f][^key-136bc2ac47217c06f05481eedb923cd7]
+## SCHEDULE 4 — Schedule 3A to the New Roads and Street Works Act 1991[^c-857a268eadda2d3d3b70dbeb7367b58f][^c-136bc2ac47217c06f05481eedb923cd7]
 
 *Extent: E+W*
 
@@ -139,6 +139,6 @@ Section 52
 
 ## Annotations
 
-[^key-857a268eadda2d3d3b70dbeb7367b58f]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/18/schedule/4) in force at 29.6.2007 for specified purposes for E. and 1.4.2008 for E. in so far as not already in force by [S.I. 2007/1890](https://www.legislation.gov.uk/uksi/2007/1890), [art. 2](https://www.legislation.gov.uk/uksi/2007/1890/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/1890/schedule) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/1890/article/7))
+[^c-857a268eadda2d3d3b70dbeb7367b58f]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/18/schedule/4) in force at 29.6.2007 for specified purposes for E. and 1.4.2008 for E. in so far as not already in force by [S.I. 2007/1890](https://www.legislation.gov.uk/uksi/2007/1890), [art. 2](https://www.legislation.gov.uk/uksi/2007/1890/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/1890/schedule) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/1890/article/7))
 
-[^key-136bc2ac47217c06f05481eedb923cd7]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/18/schedule/4) in force at 26.11.2007 for specified purposes for W. and 1.4.2008 for W. in so far as not already in force by [S.I. 2007/3174](https://www.legislation.gov.uk/wsi/2007/3174), [art. 2](https://www.legislation.gov.uk/wsi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/wsi/2007/3174/schedule) (with [art. 8](https://www.legislation.gov.uk/wsi/2007/3174/article/8))
+[^c-136bc2ac47217c06f05481eedb923cd7]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/18/schedule/4) in force at 26.11.2007 for specified purposes for W. and 1.4.2008 for W. in so far as not already in force by [S.I. 2007/3174](https://www.legislation.gov.uk/wsi/2007/3174), [art. 2](https://www.legislation.gov.uk/wsi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/wsi/2007/3174/schedule) (with [art. 8](https://www.legislation.gov.uk/wsi/2007/3174/article/8))

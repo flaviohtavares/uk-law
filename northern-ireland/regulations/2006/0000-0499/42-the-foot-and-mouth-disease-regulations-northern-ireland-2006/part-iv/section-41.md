@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Duty of the Department to erect signs[^key-b1d5c073f402ded18db0f2f724b85fbc]
+## 41. Duty of the Department to erect signs[^c-b1d5c073f402ded18db0f2f724b85fbc]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ The Department shall ensure that the boundaries of the following zones are indic
 
 ## Annotations
 
-[^key-b1d5c073f402ded18db0f2f724b85fbc]: Commencement: Reg. 41 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-b1d5c073f402ded18db0f2f724b85fbc]: Commencement: Reg. 41 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

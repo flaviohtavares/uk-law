@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Restricted premises orders: interested persons[^key-8723cf3a6ce9eb075681c374f3032d34]
+## 24. Restricted premises orders: interested persons[^c-8723cf3a6ce9eb075681c374f3032d34]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8723cf3a6ce9eb075681c374f3032d34]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2026/18/section/24) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-8723cf3a6ce9eb075681c374f3032d34]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2026/18/section/24) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

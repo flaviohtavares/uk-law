@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Disclosure prejudicial to safety of State or contrary to public interest[^key-2d17f6298989626729757375229375d3]
+## 70. Disclosure prejudicial to safety of State or contrary to public interest[^c-2d17f6298989626729757375229375d3]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ that, in the opinion of the Minister, the disclosure of that document or informa
 
 ## Annotations
 
-[^key-2d17f6298989626729757375229375d3]: Commencement: [S. 70](https://www.legislation.gov.uk/anaw/2019/3/section/70) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-2d17f6298989626729757375229375d3]: Commencement: [S. 70](https://www.legislation.gov.uk/anaw/2019/3/section/70) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

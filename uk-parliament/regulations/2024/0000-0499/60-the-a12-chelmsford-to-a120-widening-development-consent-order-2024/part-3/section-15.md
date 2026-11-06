@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Speed limits[^key-9b605b2bf74d5ef38970759da861f991]
+## 15. Speed limits[^c-9b605b2bf74d5ef38970759da861f991]
 
 *Extent: E+W*
 
@@ -56,14 +56,14 @@ summary: ''
 
   where “**road**” includes the adjacent hard shoulder and verge and any lay by;
 - “**speed limit sign**” in relation to a vehicle, means a traffic sign of the type shown in diagram 670 in Part 2 of Schedule 10 to the 2016 Regulations and Directions which is—
-  - (a) situated on or near any part of a road specified in column (2) of the table in Part 6 (speed limits) of Schedule 3[^key-6daa62acf9e60fab7f11f76c9298b811] to this Order as being subject to a variable speed in limit in column (3) of that table; and
+  - (a) situated on or near any part of a road specified in column (2) of the table in Part 6 (speed limits) of Schedule 3[^c-6daa62acf9e60fab7f11f76c9298b811] to this Order as being subject to a variable speed in limit in column (3) of that table; and
   - (b) directed at traffic on the carriageway on which the vehicle is being driven;
 - “**variable message sign**” has the meaning given by Schedule 1 (definitions) to the 2016 Regulations and Directions;
 
 ## Annotations
 
-[^key-9b605b2bf74d5ef38970759da861f991]: Commencement: Art. 15 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-9b605b2bf74d5ef38970759da861f991]: Commencement: Art. 15 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
 [^f00053]: Footnote: [S.I. 2011/935](https://www.legislation.gov.uk/uksi/2011/935).
 
-[^key-6daa62acf9e60fab7f11f76c9298b811]: Textual amendment: Words in art. 15(9) substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-6daa62acf9e60fab7f11f76c9298b811]: Textual amendment: Words in art. 15(9) substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)

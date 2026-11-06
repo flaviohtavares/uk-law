@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 61. Arbitration[^key-a77b83c7a5c78646a4fbb5da4766e983]
+## 61. Arbitration[^c-a77b83c7a5c78646a4fbb5da4766e983]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a77b83c7a5c78646a4fbb5da4766e983]: Commencement: Art. 61 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-a77b83c7a5c78646a4fbb5da4766e983]: Commencement: Art. 61 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)

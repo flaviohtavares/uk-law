@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Defence of due diligence[^key-19aa83c753fbf308756530d5950d6ea1]
+## 75. Defence of due diligence[^c-19aa83c753fbf308756530d5950d6ea1]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-19aa83c753fbf308756530d5950d6ea1]: Commencement: Reg. 75 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-19aa83c753fbf308756530d5950d6ea1]: Commencement: Reg. 75 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)

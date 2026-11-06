@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73A. Operation of scheme during winding up period[^key-6239903199e6342c46f6f48472c5d4e0][^key-2ee2b1737d1ce667d24801b01e6ed81e]
+## 73A. Operation of scheme during winding up period[^c-6239903199e6342c46f6f48472c5d4e0][^c-2ee2b1737d1ce667d24801b01e6ed81e]
 
 *Extent: N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 
 (6) Where a person is entitled to a pension credit derived from another person's shareable rights under the scheme, paragraph (3) does not prevent the trustees or managers of the scheme discharging their liability in respect of the credit under Chapter 1 of Part V of the Welfare Reform and Pensions (Northern Ireland) Order 1999 (sharing of rights under pension arrangements) by conferring appropriate rights under the scheme on that person.
 
-(6A)[^key-aedd86e6e560d7e01430bc3b9d283340] During the winding up period no right or entitlement of any member, or of any other person in respect of a member, to a benefit that is not a money purchase benefit is to be converted into, or replaced with, a right or entitlement to a money purchase benefit under the scheme rules.
+(6A)[^c-aedd86e6e560d7e01430bc3b9d283340] During the winding up period no right or entitlement of any member, or of any other person in respect of a member, to a benefit that is not a money purchase benefit is to be converted into, or replaced with, a right or entitlement to a money purchase benefit under the scheme rules.
 
 (7) Regulations may require the trustees or managers of the scheme, in prescribed circumstances—
 
@@ -68,10 +68,10 @@ and paragraph (10) of Article 73 applies as it applies for the purposes of that 
 
 ## Annotations
 
-[^key-6239903199e6342c46f6f48472c5d4e0]: Modification: [Art. 73A](https://www.legislation.gov.uk/nisi/1995/3213/article/73A) modified (6.4.2017) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 20 para. 15(4)](https://www.legislation.gov.uk/nia/2015/5/schedule/20/paragraph/15/4) (with [Sch. 20 paras. 9](https://www.legislation.gov.uk/nia/2015/5/schedule/20/paragraph/9), [11](https://www.legislation.gov.uk/nia/2015/5/schedule/20/paragraph/11)); [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 5(b)](https://www.legislation.gov.uk/nisr/2017/44/article/5/b)
+[^c-6239903199e6342c46f6f48472c5d4e0]: Modification: [Art. 73A](https://www.legislation.gov.uk/nisi/1995/3213/article/73A) modified (6.4.2017) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 20 para. 15(4)](https://www.legislation.gov.uk/nia/2015/5/schedule/20/paragraph/15/4) (with [Sch. 20 paras. 9](https://www.legislation.gov.uk/nia/2015/5/schedule/20/paragraph/9), [11](https://www.legislation.gov.uk/nia/2015/5/schedule/20/paragraph/11)); [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 5(b)](https://www.legislation.gov.uk/nisr/2017/44/article/5/b)
 
-[^key-2ee2b1737d1ce667d24801b01e6ed81e]: Modification: [Art. 73A](https://www.legislation.gov.uk/nisi/1995/3213/article/73A) modified (6.4.2017) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 20 para. 15(2)](https://www.legislation.gov.uk/nia/2015/5/schedule/20/paragraph/15/2) (with [Sch. 20 paras. 9](https://www.legislation.gov.uk/nia/2015/5/schedule/20/paragraph/9), [11](https://www.legislation.gov.uk/nia/2015/5/schedule/20/paragraph/11)); [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 5(b)](https://www.legislation.gov.uk/nisr/2017/44/article/5/b)
+[^c-2ee2b1737d1ce667d24801b01e6ed81e]: Modification: [Art. 73A](https://www.legislation.gov.uk/nisi/1995/3213/article/73A) modified (6.4.2017) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 20 para. 15(2)](https://www.legislation.gov.uk/nia/2015/5/schedule/20/paragraph/15/2) (with [Sch. 20 paras. 9](https://www.legislation.gov.uk/nia/2015/5/schedule/20/paragraph/9), [11](https://www.legislation.gov.uk/nia/2015/5/schedule/20/paragraph/11)); [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 5(b)](https://www.legislation.gov.uk/nisr/2017/44/article/5/b)
 
 [^c17251511]: Textual amendment: mod. by SR 2005/363
 
-[^key-aedd86e6e560d7e01430bc3b9d283340]: Textual amendment: Art. 73A(6A) inserted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [ss. 64(1)](https://www.legislation.gov.uk/ukpga/2015/8/section/64/1), [89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-aedd86e6e560d7e01430bc3b9d283340]: Textual amendment: Art. 73A(6A) inserted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [ss. 64(1)](https://www.legislation.gov.uk/ukpga/2015/8/section/64/1), [89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))

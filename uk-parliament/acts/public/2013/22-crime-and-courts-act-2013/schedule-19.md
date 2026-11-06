@@ -24,11 +24,11 @@ Section 49
 
 ### Part 1 — Civil recovery investigations
 
-**1.**[^key-4f818b06e88719b632a6b29ad34aa512][^key-9da1bbe90f131a377ada47da4ef5075d] Part 8 of the Proceeds of Crime Act 2002 (investigations) is amended as follows.
+**1.**[^c-4f818b06e88719b632a6b29ad34aa512][^c-9da1bbe90f131a377ada47da4ef5075d] Part 8 of the Proceeds of Crime Act 2002 (investigations) is amended as follows.
 
 #### Meaning of “civil recovery investigation”
 
-**2.**[^key-787b687ea18eaa38d39233faca440f5f][^key-ec8c5193864d34adfc5ff13cd3ff04f4][^key-59b9fbb716ccfe53efa2281fed1b284c] In section 341 (investigations), for subsections (2) and (3) substitute—
+**2.**[^c-787b687ea18eaa38d39233faca440f5f][^c-ec8c5193864d34adfc5ff13cd3ff04f4][^c-59b9fbb716ccfe53efa2281fed1b284c] In section 341 (investigations), for subsections (2) and (3) substitute—
 
 > (2) For the purposes of this Part a civil recovery investigation is an investigation for the purpose of identifying recoverable property or associated property and includes investigation into—
 >
@@ -44,7 +44,7 @@ Section 49
 > - (c) property to which an interim administration order applies, or
 > - (d) property detained under section 295.
 
-**3.**[^key-787b687ea18eaa38d39233faca440f5f][^key-9f9c2ca46de2eb5988ea90a8e99c8a36][^key-4d5d4e10bf73cd77a8f7a43bc1399882] After that section insert—
+**3.**[^c-787b687ea18eaa38d39233faca440f5f][^c-9f9c2ca46de2eb5988ea90a8e99c8a36][^c-4d5d4e10bf73cd77a8f7a43bc1399882] After that section insert—
 
 > **341A. Orders and warrants sought for civil recovery investigations**
 >
@@ -56,9 +56,9 @@ Section 49
 
 #### Production orders: England and Wales and Northern Ireland[^M_F_044a0d38-c1da-493e-e35d-758485533628]
 
-**4.**[^key-787b687ea18eaa38d39233faca440f5f][^key-7dec6f642f2f1d89991bcf4e99451fc9][^key-089297a4162530aecca25def4f89905e] In section 345 (production orders), in subsection (2)(a), after “confiscation investigation” insert “ , a civil recovery investigation ”.
+**4.**[^c-787b687ea18eaa38d39233faca440f5f][^c-7dec6f642f2f1d89991bcf4e99451fc9][^c-089297a4162530aecca25def4f89905e] In section 345 (production orders), in subsection (2)(a), after “confiscation investigation” insert “ , a civil recovery investigation ”.
 
-**5.**[^key-787b687ea18eaa38d39233faca440f5f][^key-7b4666e39d87b614276ed81987570755][^key-100949f484b49bbb75ee532369e307d7] In section 346 (requirements for making of production order), in subsection (2), for paragraph (b) substitute—
+**5.**[^c-787b687ea18eaa38d39233faca440f5f][^c-7b4666e39d87b614276ed81987570755][^c-100949f484b49bbb75ee532369e307d7] In section 346 (requirements for making of production order), in subsection (2), for paragraph (b) substitute—
 
 > - (b) in the case of a civil recovery investigation—
 >   - (i) the person the application for the order specifies as being subject to the investigation holds recoverable property or associated property,
@@ -69,9 +69,9 @@ Section 49
 
 #### Search and seizure warrants: England and Wales and Northern Ireland[^M_F_463909d2-da27-4bcf-853d-9d6fa4e169c8]
 
-**6.**[^key-787b687ea18eaa38d39233faca440f5f][^key-02a4e85edd647d57d9a792be17c07c37][^key-37b7bf722eeb3625eea44f052c3e6474] In section 352 (search and seizure warrants), in subsection (2)(a), after “confiscation investigation” insert “ , a civil recovery investigation ”.
+**6.**[^c-787b687ea18eaa38d39233faca440f5f][^c-02a4e85edd647d57d9a792be17c07c37][^c-37b7bf722eeb3625eea44f052c3e6474] In section 352 (search and seizure warrants), in subsection (2)(a), after “confiscation investigation” insert “ , a civil recovery investigation ”.
 
-**7.**[^key-787b687ea18eaa38d39233faca440f5f][^key-5807cd5acf9a43cb1bb68c347b9d953c][^key-3a50b445e5ef2f4cca21ed1f71222e34] (1) Section 353 (requirements where production order not available) is amended as follows.
+**7.**[^c-787b687ea18eaa38d39233faca440f5f][^c-5807cd5acf9a43cb1bb68c347b9d953c][^c-3a50b445e5ef2f4cca21ed1f71222e34] (1) Section 353 (requirements where production order not available) is amended as follows.
 
 (2) In subsection (2), for paragraph (b) substitute—
 
@@ -105,9 +105,9 @@ Section 49
 
 #### Disclosure orders: England and Wales and Northern Ireland[^M_F_efd75f2f-25da-491f-f905-b8b2422ff67d]
 
-**8.**[^key-787b687ea18eaa38d39233faca440f5f][^key-2fa88854e48eacd2be55b5111e1d7aeb][^key-c386e86695dd33319da560100f5e8708] In section 357 (disclosure orders), in subsection (3)(b), at the beginning insert “ a person specified in the application or ”.
+**8.**[^c-787b687ea18eaa38d39233faca440f5f][^c-2fa88854e48eacd2be55b5111e1d7aeb][^c-c386e86695dd33319da560100f5e8708] In section 357 (disclosure orders), in subsection (3)(b), at the beginning insert “ a person specified in the application or ”.
 
-**9.**[^key-787b687ea18eaa38d39233faca440f5f][^key-9dd14d86dab92de97dec8a41355f498f][^key-02dfe83893ab06eb1dc987df4e4d09fc] In section 358 (requirements for making of disclosure order), in subsection (2), for paragraph (b) substitute—
+**9.**[^c-787b687ea18eaa38d39233faca440f5f][^c-9dd14d86dab92de97dec8a41355f498f][^c-02dfe83893ab06eb1dc987df4e4d09fc] In section 358 (requirements for making of disclosure order), in subsection (2), for paragraph (b) substitute—
 
 > - (b) in the case of a civil recovery investigation—
 >   - (i) the person specified in the application for the order holds recoverable property or associated property,
@@ -118,12 +118,12 @@ Section 49
 
 #### Customer information orders: England and Wales and Northern Ireland[^M_F_06e3542a-e5bc-4119-b117-28bb826fc8d3]
 
-**10.**[^key-787b687ea18eaa38d39233faca440f5f][^key-bbd5e7a90b05ce56e8bfa441f4b035e8][^key-8b6ad9258a280bde08bd2731eed45d7d] In section 363 (customer information orders), in subsection (2)—
+**10.**[^c-787b687ea18eaa38d39233faca440f5f][^c-bbd5e7a90b05ce56e8bfa441f4b035e8][^c-8b6ad9258a280bde08bd2731eed45d7d] In section 363 (customer information orders), in subsection (2)—
 
 - (a) after “confiscation investigation” insert “ , a civil recovery investigation ”, and
 - (b) omit paragraph (b) (and the “or” before it).
 
-**11.**[^key-787b687ea18eaa38d39233faca440f5f][^key-e6ad3e8a5d09c0413fe79688afa2de93][^key-ae8001b444791c2d024aa4a933e86295] In section 365 (requirements for making of customer information order), for subsection (3) substitute—
+**11.**[^c-787b687ea18eaa38d39233faca440f5f][^c-e6ad3e8a5d09c0413fe79688afa2de93][^c-ae8001b444791c2d024aa4a933e86295] In section 365 (requirements for making of customer information order), for subsection (3) substitute—
 
 > (3A) In the case of a civil recovery investigation, there must be reasonable grounds for suspecting that the person specified in the application—
 >
@@ -132,24 +132,24 @@ Section 49
 
 #### Account monitoring orders: England and Wales and Northern Ireland[^M_F_87fb4417-0216-4697-8edd-b47b3b1564f7]
 
-**12.**[^key-787b687ea18eaa38d39233faca440f5f][^key-f7319e419a0fab3bb471c0545b32a12b][^key-246c048fbd873a7d6526899372a98bed] In section 370 (account monitoring orders), in subsection (2)—
+**12.**[^c-787b687ea18eaa38d39233faca440f5f][^c-f7319e419a0fab3bb471c0545b32a12b][^c-246c048fbd873a7d6526899372a98bed] In section 370 (account monitoring orders), in subsection (2)—
 
 - (a) after “confiscation investigation” insert “ , a civil recovery investigation ”, and
 - (b) omit paragraph (b) (and the “or” before it).
 
-**13.**[^key-787b687ea18eaa38d39233faca440f5f][^key-6162cc762d6985873f252abe52002e9a][^key-64540d91e110854ed2b63f69b0c8b6df] In section 371 (requirements for making of account monitoring order), for subsection (3) substitute—
+**13.**[^c-787b687ea18eaa38d39233faca440f5f][^c-6162cc762d6985873f252abe52002e9a][^c-64540d91e110854ed2b63f69b0c8b6df] In section 371 (requirements for making of account monitoring order), for subsection (3) substitute—
 
 > (3A) In the case of a civil recovery investigation, there must be reasonable grounds for suspecting that the person specified in the application holds recoverable property or associated property.
 
 #### Production orders: Scotland
 
-**14.**[^key-986bb904e032a2ad7ec31c97c797752c] (1) Section 380 (production orders) is amended as follows.
+**14.**[^c-986bb904e032a2ad7ec31c97c797752c] (1) Section 380 (production orders) is amended as follows.
 
 (2) In subsection (2), omit “property subject to”.
 
 (3) In subsection (3)(a), after “confiscation investigation” insert “ , a civil recovery investigation ”.
 
-**15.**[^key-ace64547dcd864e219b24f6ad057a661] (1) In section 381 (requirements for making of production order), in subsection (2), for paragraph (b) substitute—
+**15.**[^c-ace64547dcd864e219b24f6ad057a661] (1) In section 381 (requirements for making of production order), in subsection (2), for paragraph (b) substitute—
 
 > - (b) in the case of a civil recovery investigation—
 >   - (i) the person the application for the order specifies as being subject to the investigation holds recoverable property or associated property,
@@ -160,13 +160,13 @@ Section 49
 
 #### Search warrants: Scotland
 
-**16.**[^key-a256117303b9d5d009d15c8c68ed7b60] (1) Section 387 (search warrants) is amended as follows.
+**16.**[^c-a256117303b9d5d009d15c8c68ed7b60] (1) Section 387 (search warrants) is amended as follows.
 
 (2) In subsection (2), omit “property subject to”.
 
 (3) In subsection (3)(a), after “confiscation investigation” insert “ , a civil recovery investigation ”.
 
-**17.**[^key-8670abc3f7095cb45e010bec792a4c04] (1) Section 388 (requirements where production order not available) is amended as follows.
+**17.**[^c-8670abc3f7095cb45e010bec792a4c04] (1) Section 388 (requirements where production order not available) is amended as follows.
 
 (2) In subsection (2), for paragraph (b) substitute—
 
@@ -200,9 +200,9 @@ Section 49
 
 #### Disclosure orders: Scotland
 
-**18.**[^key-00b9c23026fec7fcba6a9c123a91ac9a] In section 391 (disclosure orders), in subsection (3)(b), at the beginning insert “ a person specified in the application or ”.
+**18.**[^c-00b9c23026fec7fcba6a9c123a91ac9a] In section 391 (disclosure orders), in subsection (3)(b), at the beginning insert “ a person specified in the application or ”.
 
-**19.**[^key-5797a5f8188e92f7e93a663aba4a649f] In section 392 (requirements for making of disclosure order), in subsection (2), for paragraph (b) substitute—
+**19.**[^c-5797a5f8188e92f7e93a663aba4a649f] In section 392 (requirements for making of disclosure order), in subsection (2), for paragraph (b) substitute—
 
 > - (b) in the case of a civil recovery investigation—
 >   - (i) the person specified in the application for the order holds recoverable property or associated property,
@@ -213,7 +213,7 @@ Section 49
 
 #### Customer information orders: Scotland
 
-**20.**[^key-8e1b8611e25e4f9d67679386395f6cd7] (1) Section 397 (customer information orders) is amended as follows.
+**20.**[^c-8e1b8611e25e4f9d67679386395f6cd7] (1) Section 397 (customer information orders) is amended as follows.
 
 (2) In subsection (2), omit “property subject to”.
 
@@ -222,7 +222,7 @@ Section 49
 - (a) after “confiscation investigation” insert “ , a civil recovery investigation ”, and
 - (b) omit paragraph (b) (and the “or” before it).
 
-**21.**[^key-4bdf6ab7c2fd4c5b4866f8109de75cef] In section 399 (requirements for making of customer information order), for subsection (3) substitute—
+**21.**[^c-4bdf6ab7c2fd4c5b4866f8109de75cef] In section 399 (requirements for making of customer information order), for subsection (3) substitute—
 
 > (3A) In the case of a civil recovery investigation, there must be reasonable grounds for suspecting that the person specified in the application—
 >
@@ -231,7 +231,7 @@ Section 49
 
 #### Account monitoring orders: Scotland
 
-**22.**[^key-87885fe55358a17df48db9be3177ece9] (1) Section 404 (account monitoring orders) is amended as follows.
+**22.**[^c-87885fe55358a17df48db9be3177ece9] (1) Section 404 (account monitoring orders) is amended as follows.
 
 (2) In subsection (2), omit “property subject to”.
 
@@ -240,20 +240,20 @@ Section 49
 - (a) after “confiscation investigation” insert “ , a civil recovery investigation ”, and
 - (b) omit paragraph (b) (and the “or” before it).
 
-**23.**[^key-ce07b3eb2328482352b4078cdd815627] In section 405 (requirements for making of account monitoring order), for subsection (3) substitute—
+**23.**[^c-ce07b3eb2328482352b4078cdd815627] In section 405 (requirements for making of account monitoring order), for subsection (3) substitute—
 
 > (3A) In the case of a civil recovery investigation, there must be reasonable grounds for suspecting that the person specified in the application holds recoverable property or associated property.
 
 ### Part 2 — Evidence overseas
 
-**24.**[^key-c578753df7a820e01af266c1c353d34a][^key-43baba14c397cf2916e6e90a30404ac3][^key-23d165adbaa77423eb4afc66d493f2ae] Part 8 of the Proceeds of Crime Act 2002 (investigations) is amended as follows.
+**24.**[^c-c578753df7a820e01af266c1c353d34a][^c-43baba14c397cf2916e6e90a30404ac3][^c-23d165adbaa77423eb4afc66d493f2ae] Part 8 of the Proceeds of Crime Act 2002 (investigations) is amended as follows.
 
-**25.**[^key-0a4807c197564fb5455a3681c3088742][^key-2cdc78cf37715db7125af194f7d956bd][^key-4a16605a2ef02be60b61747ad6535b04] In section 341(3A) (definition of detained cash investigation)—
+**25.**[^c-0a4807c197564fb5455a3681c3088742][^c-2cdc78cf37715db7125af194f7d956bd][^c-4a16605a2ef02be60b61747ad6535b04] In section 341(3A) (definition of detained cash investigation)—
 
 - (a) after “investigation is” insert “ an investigation for the purposes of Chapter 3 of Part 5 into— ”, and
 - (b) in paragraphs (a) and (b), omit “an investigation for the purposes of Chapter 3 of Part 5 into”.
 
-**26.**[^key-ac0caf4c014eb398d0ebbf78f88bf605][^key-0a4807c197564fb5455a3681c3088742][^key-d3ab4da344325aacd33696204395a5cb][^key-b6073fc33fe9dae0e33c5541bdf17cda] In Chapter 2 (England and Wales and Northern Ireland), after section 375 and the heading “Evidence overseas” insert—
+**26.**[^c-ac0caf4c014eb398d0ebbf78f88bf605][^c-0a4807c197564fb5455a3681c3088742][^c-d3ab4da344325aacd33696204395a5cb][^c-b6073fc33fe9dae0e33c5541bdf17cda] In Chapter 2 (England and Wales and Northern Ireland), after section 375 and the heading “Evidence overseas” insert—
 
 > **375A. Evidence overseas**
 >
@@ -312,7 +312,7 @@ Section 49
 >
 > (4) Subsection (2) does not apply if the court, tribunal, government or authority to whom the request for assistance was sent consents to the use.
 
-**27.**[^key-0a4807c197564fb5455a3681c3088742][^key-209abc1aa4f40f67e6243d897e7249a4][^key-b183d0079ab91ab7e96874b120313980] (1) Section 378 (officers) is amended as follows.
+**27.**[^c-0a4807c197564fb5455a3681c3088742][^c-209abc1aa4f40f67e6243d897e7249a4][^c-b183d0079ab91ab7e96874b120313980] (1) Section 378 (officers) is amended as follows.
 
 (2) After subsection (3A) insert—
 
@@ -335,7 +335,7 @@ Section 49
 
   > - (b) a senior member of SOCA's staff is a senior appropriate officer.
 
-**28.**[^key-bdb2753e9072ea1ab36b29c2cd572e7a][^key-0fdd95cd8291f3a05bf27be19ee9c6d1] In Chapter 3 (Scotland), after section 408 insert—
+**28.**[^c-bdb2753e9072ea1ab36b29c2cd572e7a][^c-0fdd95cd8291f3a05bf27be19ee9c6d1] In Chapter 3 (Scotland), after section 408 insert—
 
 > **Evidence overseas**
 >
@@ -400,132 +400,132 @@ Section 49
 
 #### Immigration officers
 
-**29.**[^key-9474ab3e25b025eee291c34d4c5c3066][^key-7782dfa3cc46ee170daaa3eaafdb7c3f][^key-2c4796fff7d0114f9fb2f6e44aaeb7ee] In section 378 of the Proceeds of Crime Act 2002 (investigations: appropriate officers etc), in subsection (3AA) (inserted by this Schedule), after paragraph (c) insert—
+**29.**[^c-9474ab3e25b025eee291c34d4c5c3066][^c-7782dfa3cc46ee170daaa3eaafdb7c3f][^c-2c4796fff7d0114f9fb2f6e44aaeb7ee] In section 378 of the Proceeds of Crime Act 2002 (investigations: appropriate officers etc), in subsection (3AA) (inserted by this Schedule), after paragraph (c) insert—
 
 > - (d) an immigration officer who is not below such grade as is designated by the Secretary of State as equivalent to that rank.
 
 #### National Crime Agency
 
-**30.**[^key-9474ab3e25b025eee291c34d4c5c3066][^key-2bf75ffd1ee7ff0ac6c616b313aa10e2][^key-b46a615f9691fee754a4fcdc5f9ea418] In section 378 of the Proceeds of Crime Act 2002 (investigations: appropriate officers etc), in subsection (6A)(b) (inserted by this Schedule), for “senior member of SOCA's staff” substitute “ senior National Crime Agency officer ”.
+**30.**[^c-9474ab3e25b025eee291c34d4c5c3066][^c-2bf75ffd1ee7ff0ac6c616b313aa10e2][^c-b46a615f9691fee754a4fcdc5f9ea418] In section 378 of the Proceeds of Crime Act 2002 (investigations: appropriate officers etc), in subsection (6A)(b) (inserted by this Schedule), for “senior member of SOCA's staff” substitute “ senior National Crime Agency officer ”.
 
 ## Annotations
 
-[^key-4f818b06e88719b632a6b29ad34aa512]: Commencement: Sch. 19 para. 1 in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
+[^c-4f818b06e88719b632a6b29ad34aa512]: Commencement: Sch. 19 para. 1 in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
 
-[^key-9da1bbe90f131a377ada47da4ef5075d]: Commencement: Sch. 19 para. 1 in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2)
+[^c-9da1bbe90f131a377ada47da4ef5075d]: Commencement: Sch. 19 para. 1 in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2)
 
-[^key-787b687ea18eaa38d39233faca440f5f]: Extent: Sch. 19 paras. 2-13 extended (N.I.) (20.3.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2015/798/article/7/b)
+[^c-787b687ea18eaa38d39233faca440f5f]: Extent: Sch. 19 paras. 2-13 extended (N.I.) (20.3.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2015/798/article/7/b)
 
-[^key-ec8c5193864d34adfc5ff13cd3ff04f4]: Commencement: Sch. 19 para. 2 in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
+[^c-ec8c5193864d34adfc5ff13cd3ff04f4]: Commencement: Sch. 19 para. 2 in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
 
-[^key-59b9fbb716ccfe53efa2281fed1b284c]: Commencement: [Sch. 19 para. 2](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/2) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/4/article/3))
+[^c-59b9fbb716ccfe53efa2281fed1b284c]: Commencement: [Sch. 19 para. 2](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/2) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/4/article/3))
 
-[^key-9f9c2ca46de2eb5988ea90a8e99c8a36]: Commencement: Sch. 19 para. 3 in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
+[^c-9f9c2ca46de2eb5988ea90a8e99c8a36]: Commencement: Sch. 19 para. 3 in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
 
-[^key-4d5d4e10bf73cd77a8f7a43bc1399882]: Commencement: [Sch. 19 para. 3](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/3) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/4/article/3))
+[^c-4d5d4e10bf73cd77a8f7a43bc1399882]: Commencement: [Sch. 19 para. 3](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/3) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/4/article/3))
 
 [^M_F_044a0d38-c1da-493e-e35d-758485533628]: Textual amendment: Words in Sch. 19 para. 4 heading inserted (20.3.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [9](https://www.legislation.gov.uk/uksi/2015/798/article/9)
 
-[^key-7dec6f642f2f1d89991bcf4e99451fc9]: Commencement: Sch. 19 para. 4 in force at 1.6.2015 for E.W.S.(except for the words “and Northern Ireland” in the preceding heading) by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
+[^c-7dec6f642f2f1d89991bcf4e99451fc9]: Commencement: Sch. 19 para. 4 in force at 1.6.2015 for E.W.S.(except for the words “and Northern Ireland” in the preceding heading) by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
 
-[^key-089297a4162530aecca25def4f89905e]: Commencement: [Sch. 19 para. 4](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/4) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/4/article/3))
+[^c-089297a4162530aecca25def4f89905e]: Commencement: [Sch. 19 para. 4](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/4) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/4/article/3))
 
-[^key-7b4666e39d87b614276ed81987570755]: Commencement: Sch. 19 para. 5 in force at 1.6.2015 for E.W.S. (except for the words “and Northern Ireland” in the preceding heading) by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
+[^c-7b4666e39d87b614276ed81987570755]: Commencement: Sch. 19 para. 5 in force at 1.6.2015 for E.W.S. (except for the words “and Northern Ireland” in the preceding heading) by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
 
-[^key-100949f484b49bbb75ee532369e307d7]: Commencement: [Sch. 19 para. 5](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/5) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/4/article/3))
+[^c-100949f484b49bbb75ee532369e307d7]: Commencement: [Sch. 19 para. 5](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/5) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/4/article/3))
 
 [^M_F_463909d2-da27-4bcf-853d-9d6fa4e169c8]: Textual amendment: Words in Sch. 19 para. 6 heading inserted (20.3.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [9](https://www.legislation.gov.uk/uksi/2015/798/article/9)
 
-[^key-02a4e85edd647d57d9a792be17c07c37]: Commencement: Sch. 19 para. 6 in force at 1.6.2015 for E.W.S. (except for the words “and Northern Ireland” in the preceding heading) by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
+[^c-02a4e85edd647d57d9a792be17c07c37]: Commencement: Sch. 19 para. 6 in force at 1.6.2015 for E.W.S. (except for the words “and Northern Ireland” in the preceding heading) by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
 
-[^key-37b7bf722eeb3625eea44f052c3e6474]: Commencement: [Sch. 19 para. 6](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/6) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/4/article/3))
+[^c-37b7bf722eeb3625eea44f052c3e6474]: Commencement: [Sch. 19 para. 6](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/6) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/4/article/3))
 
-[^key-5807cd5acf9a43cb1bb68c347b9d953c]: Commencement: Sch. 19 para. 7 in force at 1.6.2015 for E.W.S. (except for the words “and Northern Ireland” in the preceding heading) by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
+[^c-5807cd5acf9a43cb1bb68c347b9d953c]: Commencement: Sch. 19 para. 7 in force at 1.6.2015 for E.W.S. (except for the words “and Northern Ireland” in the preceding heading) by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
 
-[^key-3a50b445e5ef2f4cca21ed1f71222e34]: Commencement: [Sch. 19 para. 7](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/7) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/4/article/3))
+[^c-3a50b445e5ef2f4cca21ed1f71222e34]: Commencement: [Sch. 19 para. 7](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/7) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/4/article/3))
 
 [^M_F_efd75f2f-25da-491f-f905-b8b2422ff67d]: Textual amendment: Words in Sch. 19 para. 8 heading inserted (20.3.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [9](https://www.legislation.gov.uk/uksi/2015/798/article/9)
 
-[^key-2fa88854e48eacd2be55b5111e1d7aeb]: Commencement: Sch. 19 para. 8 in force at 1.6.2015 for E.W.S. (except for the words “and Northern Ireland” in the preceding heading) by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
+[^c-2fa88854e48eacd2be55b5111e1d7aeb]: Commencement: Sch. 19 para. 8 in force at 1.6.2015 for E.W.S. (except for the words “and Northern Ireland” in the preceding heading) by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
 
-[^key-c386e86695dd33319da560100f5e8708]: Commencement: [Sch. 19 para. 8](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/8) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/4/article/3))
+[^c-c386e86695dd33319da560100f5e8708]: Commencement: [Sch. 19 para. 8](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/8) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/4/article/3))
 
-[^key-9dd14d86dab92de97dec8a41355f498f]: Commencement: Sch. 19 para. 9 in force at 1.6.2015 for E.W.S. (except for the words “and Northern Ireland” in the preceding heading) by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
+[^c-9dd14d86dab92de97dec8a41355f498f]: Commencement: Sch. 19 para. 9 in force at 1.6.2015 for E.W.S. (except for the words “and Northern Ireland” in the preceding heading) by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
 
-[^key-02dfe83893ab06eb1dc987df4e4d09fc]: Commencement: [Sch. 19 para. 9](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/9) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/4/article/3))
+[^c-02dfe83893ab06eb1dc987df4e4d09fc]: Commencement: [Sch. 19 para. 9](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/9) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/4/article/3))
 
 [^M_F_06e3542a-e5bc-4119-b117-28bb826fc8d3]: Textual amendment: Words in Sch. 19 para. 10 heading inserted (20.3.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [9](https://www.legislation.gov.uk/uksi/2015/798/article/9)
 
-[^key-bbd5e7a90b05ce56e8bfa441f4b035e8]: Commencement: Sch. 19 para. 10 in force at 1.6.2015 for E.W.S. (except for the words “and Northern Ireland” in the preceding heading) by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
+[^c-bbd5e7a90b05ce56e8bfa441f4b035e8]: Commencement: Sch. 19 para. 10 in force at 1.6.2015 for E.W.S. (except for the words “and Northern Ireland” in the preceding heading) by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
 
-[^key-8b6ad9258a280bde08bd2731eed45d7d]: Commencement: [Sch. 19 para. 10](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/10) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/4/article/3))
+[^c-8b6ad9258a280bde08bd2731eed45d7d]: Commencement: [Sch. 19 para. 10](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/10) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/4/article/3))
 
-[^key-e6ad3e8a5d09c0413fe79688afa2de93]: Commencement: Sch. 19 para. 11 in force at 1.6.2015 for E.W.S. (except for the words “and Northern Ireland” in the preceding heading) by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
+[^c-e6ad3e8a5d09c0413fe79688afa2de93]: Commencement: Sch. 19 para. 11 in force at 1.6.2015 for E.W.S. (except for the words “and Northern Ireland” in the preceding heading) by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
 
-[^key-ae8001b444791c2d024aa4a933e86295]: Commencement: [Sch. 19 para. 11](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/11) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/4/article/3))
+[^c-ae8001b444791c2d024aa4a933e86295]: Commencement: [Sch. 19 para. 11](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/11) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/4/article/3))
 
 [^M_F_87fb4417-0216-4697-8edd-b47b3b1564f7]: Textual amendment: Words in Sch. 19 para. 12 heading inserted (20.3.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [9](https://www.legislation.gov.uk/uksi/2015/798/article/9)
 
-[^key-f7319e419a0fab3bb471c0545b32a12b]: Commencement: Sch. 19 para. 12 in force at 1.6.2015 for E.W.S. (except for the words “and Northern Ireland” in the preceding heading) by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
+[^c-f7319e419a0fab3bb471c0545b32a12b]: Commencement: Sch. 19 para. 12 in force at 1.6.2015 for E.W.S. (except for the words “and Northern Ireland” in the preceding heading) by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
 
-[^key-246c048fbd873a7d6526899372a98bed]: Commencement: [Sch. 19 para. 12](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/12) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/4/article/3))
+[^c-246c048fbd873a7d6526899372a98bed]: Commencement: [Sch. 19 para. 12](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/12) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/4/article/3))
 
-[^key-6162cc762d6985873f252abe52002e9a]: Commencement: Sch. 19 para. 13 in force at 1.6.2015 for E.W.S. (except for the words “and Northern Ireland” in the preceding heading) by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
+[^c-6162cc762d6985873f252abe52002e9a]: Commencement: Sch. 19 para. 13 in force at 1.6.2015 for E.W.S. (except for the words “and Northern Ireland” in the preceding heading) by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
 
-[^key-64540d91e110854ed2b63f69b0c8b6df]: Commencement: [Sch. 19 para. 13](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/13) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/4/article/3))
+[^c-64540d91e110854ed2b63f69b0c8b6df]: Commencement: [Sch. 19 para. 13](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/13) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/4/article/3))
 
-[^key-986bb904e032a2ad7ec31c97c797752c]: Commencement: Sch. 19 para. 14 in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
+[^c-986bb904e032a2ad7ec31c97c797752c]: Commencement: Sch. 19 para. 14 in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
 
-[^key-ace64547dcd864e219b24f6ad057a661]: Commencement: Sch. 19 para. 15 in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
+[^c-ace64547dcd864e219b24f6ad057a661]: Commencement: Sch. 19 para. 15 in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
 
-[^key-a256117303b9d5d009d15c8c68ed7b60]: Commencement: Sch. 19 para. 16 in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
+[^c-a256117303b9d5d009d15c8c68ed7b60]: Commencement: Sch. 19 para. 16 in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
 
-[^key-8670abc3f7095cb45e010bec792a4c04]: Commencement: Sch. 19 para. 17 in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
+[^c-8670abc3f7095cb45e010bec792a4c04]: Commencement: Sch. 19 para. 17 in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
 
-[^key-00b9c23026fec7fcba6a9c123a91ac9a]: Commencement: Sch. 19 para. 18 in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
+[^c-00b9c23026fec7fcba6a9c123a91ac9a]: Commencement: Sch. 19 para. 18 in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
 
-[^key-5797a5f8188e92f7e93a663aba4a649f]: Commencement: Sch. 19 para. 19 in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
+[^c-5797a5f8188e92f7e93a663aba4a649f]: Commencement: Sch. 19 para. 19 in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
 
-[^key-8e1b8611e25e4f9d67679386395f6cd7]: Commencement: Sch. 19 para. 20 in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
+[^c-8e1b8611e25e4f9d67679386395f6cd7]: Commencement: Sch. 19 para. 20 in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
 
-[^key-4bdf6ab7c2fd4c5b4866f8109de75cef]: Commencement: Sch. 19 para. 21 in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
+[^c-4bdf6ab7c2fd4c5b4866f8109de75cef]: Commencement: Sch. 19 para. 21 in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
 
-[^key-87885fe55358a17df48db9be3177ece9]: Commencement: Sch. 19 para. 22 in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
+[^c-87885fe55358a17df48db9be3177ece9]: Commencement: Sch. 19 para. 22 in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
 
-[^key-ce07b3eb2328482352b4078cdd815627]: Commencement: Sch. 19 para. 23 in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
+[^c-ce07b3eb2328482352b4078cdd815627]: Commencement: Sch. 19 para. 23 in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3))
 
-[^key-c578753df7a820e01af266c1c353d34a]: Commencement: Sch. 19 para. 24 in force at 22.11.2014 for specified purposes by [S.I. 2014/3098](https://www.legislation.gov.uk/uksi/2014/3098), [art. 3](https://www.legislation.gov.uk/uksi/2014/3098/article/3)
+[^c-c578753df7a820e01af266c1c353d34a]: Commencement: Sch. 19 para. 24 in force at 22.11.2014 for specified purposes by [S.I. 2014/3098](https://www.legislation.gov.uk/uksi/2014/3098), [art. 3](https://www.legislation.gov.uk/uksi/2014/3098/article/3)
 
-[^key-43baba14c397cf2916e6e90a30404ac3]: Commencement: Sch. 19 para. 24 in force at 1.6.2015 for E.W.S. in so far as not already in force by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/964/article/2/e)
+[^c-43baba14c397cf2916e6e90a30404ac3]: Commencement: Sch. 19 para. 24 in force at 1.6.2015 for E.W.S. in so far as not already in force by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/964/article/2/e)
 
-[^key-23d165adbaa77423eb4afc66d493f2ae]: Commencement: [Sch. 19 para. 24](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/24) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2)
+[^c-23d165adbaa77423eb4afc66d493f2ae]: Commencement: [Sch. 19 para. 24](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/24) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2)
 
-[^key-0a4807c197564fb5455a3681c3088742]: Extent: Sch. 19 paras. 25-27 extended (N.I.) (20.3.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2015/798/article/7/b)
+[^c-0a4807c197564fb5455a3681c3088742]: Extent: Sch. 19 paras. 25-27 extended (N.I.) (20.3.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2015/798/article/7/b)
 
-[^key-2cdc78cf37715db7125af194f7d956bd]: Commencement: [Sch. 19 para. 25](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/25) in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/964/article/2/e)
+[^c-2cdc78cf37715db7125af194f7d956bd]: Commencement: [Sch. 19 para. 25](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/25) in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/964/article/2/e)
 
-[^key-4a16605a2ef02be60b61747ad6535b04]: Commencement: [Sch. 19 para. 25](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/25) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2)
+[^c-4a16605a2ef02be60b61747ad6535b04]: Commencement: [Sch. 19 para. 25](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/25) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2)
 
-[^key-ac0caf4c014eb398d0ebbf78f88bf605]: Commencement: Sch. 19 para. 26 in force at 22.11.2014 for specified purposes by [S.I. 2014/3098](https://www.legislation.gov.uk/uksi/2014/3098), [art. 3](https://www.legislation.gov.uk/uksi/2014/3098/article/3)
+[^c-ac0caf4c014eb398d0ebbf78f88bf605]: Commencement: Sch. 19 para. 26 in force at 22.11.2014 for specified purposes by [S.I. 2014/3098](https://www.legislation.gov.uk/uksi/2014/3098), [art. 3](https://www.legislation.gov.uk/uksi/2014/3098/article/3)
 
-[^key-d3ab4da344325aacd33696204395a5cb]: Commencement: [Sch. 19 para. 26](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/26) in force at 1.6.2015 for E.W.S. in so far as not already in force by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/964/article/2/e)
+[^c-d3ab4da344325aacd33696204395a5cb]: Commencement: [Sch. 19 para. 26](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/26) in force at 1.6.2015 for E.W.S. in so far as not already in force by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/964/article/2/e)
 
-[^key-b6073fc33fe9dae0e33c5541bdf17cda]: Commencement: [Sch. 19 para. 26](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/26) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2)
+[^c-b6073fc33fe9dae0e33c5541bdf17cda]: Commencement: [Sch. 19 para. 26](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/26) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2)
 
-[^key-209abc1aa4f40f67e6243d897e7249a4]: Commencement: [Sch. 19 para. 27](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/27) in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/964/article/2/e)
+[^c-209abc1aa4f40f67e6243d897e7249a4]: Commencement: [Sch. 19 para. 27](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/27) in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/964/article/2/e)
 
-[^key-b183d0079ab91ab7e96874b120313980]: Commencement: [Sch. 19 para. 27](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/27) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2)
+[^c-b183d0079ab91ab7e96874b120313980]: Commencement: [Sch. 19 para. 27](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/27) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2)
 
-[^key-bdb2753e9072ea1ab36b29c2cd572e7a]: Commencement: Sch. 19 para. 28 in force at 22.11.2014 for specified purposes by [S.I. 2014/3098](https://www.legislation.gov.uk/uksi/2014/3098), [art. 3](https://www.legislation.gov.uk/uksi/2014/3098/article/3)
+[^c-bdb2753e9072ea1ab36b29c2cd572e7a]: Commencement: Sch. 19 para. 28 in force at 22.11.2014 for specified purposes by [S.I. 2014/3098](https://www.legislation.gov.uk/uksi/2014/3098), [art. 3](https://www.legislation.gov.uk/uksi/2014/3098/article/3)
 
-[^key-0fdd95cd8291f3a05bf27be19ee9c6d1]: Commencement: [Sch. 19 para. 28](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/28) in force at 1.6.2015 for E.W.S. in so far as not already in force by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/964/article/2/e)
+[^c-0fdd95cd8291f3a05bf27be19ee9c6d1]: Commencement: [Sch. 19 para. 28](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/28) in force at 1.6.2015 for E.W.S. in so far as not already in force by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/964/article/2/e)
 
-[^key-9474ab3e25b025eee291c34d4c5c3066]: Extent: Sch. 19 para. 30 extended (N.I.) (20.3.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2015/798/article/7/b)
+[^c-9474ab3e25b025eee291c34d4c5c3066]: Extent: Sch. 19 para. 30 extended (N.I.) (20.3.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2015/798/article/7/b)
 
-[^key-7782dfa3cc46ee170daaa3eaafdb7c3f]: Commencement: [Sch. 19 para. 29](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/29) in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/964/article/2/f)
+[^c-7782dfa3cc46ee170daaa3eaafdb7c3f]: Commencement: [Sch. 19 para. 29](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/29) in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/964/article/2/f)
 
-[^key-2c4796fff7d0114f9fb2f6e44aaeb7ee]: Commencement: [Sch. 19 para. 29](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/29) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2)
+[^c-2c4796fff7d0114f9fb2f6e44aaeb7ee]: Commencement: [Sch. 19 para. 29](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/29) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2)
 
-[^key-2bf75ffd1ee7ff0ac6c616b313aa10e2]: Commencement: [Sch. 19 para. 30](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/30) in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/964/article/2/f)
+[^c-2bf75ffd1ee7ff0ac6c616b313aa10e2]: Commencement: [Sch. 19 para. 30](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/30) in force at 1.6.2015 for E.W.S. by [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/964/article/2/f)
 
-[^key-b46a615f9691fee754a4fcdc5f9ea418]: Commencement: [Sch. 19 para. 30](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/30) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2)
+[^c-b46a615f9691fee754a4fcdc5f9ea418]: Commencement: [Sch. 19 para. 30](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/30) in force at 1.2.2017 in so far as not already in force by [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2)

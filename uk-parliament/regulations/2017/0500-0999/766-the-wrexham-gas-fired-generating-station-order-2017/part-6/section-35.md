@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Certification of plans etc.[^key-937a41ab06560e335cf9919d8ce5297d]
+## 35. Certification of plans etc.[^c-937a41ab06560e335cf9919d8ce5297d]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-937a41ab06560e335cf9919d8ce5297d]: Commencement: Art. 35 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-937a41ab06560e335cf9919d8ce5297d]: Commencement: Art. 35 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)

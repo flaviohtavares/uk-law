@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Meaning of “significant infrastructure project”[^key-6c9463f8462f59812575be6d51dda974]
+## 1. Meaning of “significant infrastructure project”[^c-6c9463f8462f59812575be6d51dda974]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In this Act, a “**significant infrastructure project**” means—
 
 ## Annotations
 
-[^key-6c9463f8462f59812575be6d51dda974]: Commencement: S. 1 in force at 4.6.2024, see [s. 147(1)(a)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/a)
+[^c-6c9463f8462f59812575be6d51dda974]: Commencement: S. 1 in force at 4.6.2024, see [s. 147(1)(a)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/a)

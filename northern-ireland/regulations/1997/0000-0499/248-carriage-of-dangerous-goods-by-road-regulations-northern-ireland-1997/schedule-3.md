@@ -24,7 +24,7 @@ summary: ''
 
 Regulation 11(1)
 
-### 1. Construction of vehicles and tank containers[^key-a3b46428193d396b0ff461758d595ca9]
+### 1. Construction of vehicles and tank containers[^c-a3b46428193d396b0ff461758d595ca9]
 
 The operator of a road tanker or tank container shall not use that road tanker or tank container for the carriage of dangerous goods unless—
 
@@ -41,7 +41,7 @@ The operator of a road tanker or tank container shall not use that road tanker o
 
   as may reasonably foreseeably be needed to enable him to comply with this Schedule insofar as it imposes requirements or prohibitions on him.
 
-### 2. Testing and examination of the carrying tanks of road tankers and tank containers[^key-c092312944cb2a61f56b0536cf6ff4d6]
+### 2. Testing and examination of the carrying tanks of road tankers and tank containers[^c-c092312944cb2a61f56b0536cf6ff4d6]
 
 (1) Dangerous goods shall not be carried in the carrying tank of a road tanker or in a tank container unless—
 
@@ -99,7 +99,7 @@ The operator of a road tanker or tank container shall not use that road tanker o
 
 (13) Notwithstanding sub-paragraphs (1)(*c*) and (3), the operator may transport by road, uncleaned tanks in respect of which the relevant certificate has expired for the sole purpose of undergoing the tests with a view to renewing that certificate.
 
-### 3. Exceptions to paragraph 2[^key-493caf4134366d5859665ed60dc0ab44]
+### 3. Exceptions to paragraph 2[^c-493caf4134366d5859665ed60dc0ab44]
 
 (1) Paragraph 2(1), (6) and (11) shall not apply to the carrying tank of a road tanker or to any tank container used for the carriage of any dangerous goods where such a tank and its fittings have been examined, tested, certified and plated in accordance with the requirements of—
 
@@ -109,7 +109,7 @@ The operator of a road tanker or tank container shall not use that road tanker o
 
 (2) Paragraph 2(6) shall not apply to any tube trailer or tube container where the information specified therein is indelibly marked on each transportable pressure receptacle.
 
-### 4. Keeping of documents[^key-4e8ff3e20eaf96315189443626f2e678]
+### 4. Keeping of documents[^c-4e8ff3e20eaf96315189443626f2e678]
 
 (1) All the documents referred to in paragraphs 1 and 2 shall be kept—
 
@@ -125,7 +125,7 @@ The operator of a road tanker or tank container shall not use that road tanker o
 
 (4) Where either of the procedures referred to in paragraph 2(4) has been used, it shall be sufficient compliance with sub-paragraph (1) in respect of the report referred to in paragraph 2(1)(*c*) if that report is kept by the operator concerned in a computer at the appropriate place specified in sub-paragraph (1); and without prejudice to the generality of sub-paragraph (3), if the operator changes in circumstances where the report referred to in paragraph 2(1)(*c*) is kept in a computer in accordance with this sub-paragraph, the previous operator shall provide the new operator with the information contained in that report in written form.
 
-**5.**[^key-de0906452dc26d59ccb5e3fee1d0ce8e] In this Schedule—
+**5.**[^c-de0906452dc26d59ccb5e3fee1d0ce8e] In this Schedule—
 
 - “pressure vessel” means a tank container or the carrying tank of a road tanker which is—
   - (a) used or intended to be used for the carriage of dangerous goods—
@@ -137,14 +137,14 @@ The operator of a road tanker or tank container shall not use that road tanker o
 
 ## Annotations
 
-[^key-a3b46428193d396b0ff461758d595ca9]: Commencement: Sch. 3 para. 1 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-a3b46428193d396b0ff461758d595ca9]: Commencement: Sch. 3 para. 1 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
 
-[^key-c092312944cb2a61f56b0536cf6ff4d6]: Commencement: Sch. 3 para. 2 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-c092312944cb2a61f56b0536cf6ff4d6]: Commencement: Sch. 3 para. 2 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
 
 [^f00028]: Footnote: [S.R. 1988 No. 24](https://www.legislation.gov.uk/nisr/1988/24) revoked by [S.R. 1992 No. 260](https://www.legislation.gov.uk/nisr/1992/260), regulation 30(2) and Schedule 5, Part I
 
-[^key-493caf4134366d5859665ed60dc0ab44]: Commencement: Sch. 3 para. 3 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-493caf4134366d5859665ed60dc0ab44]: Commencement: Sch. 3 para. 3 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
 
-[^key-4e8ff3e20eaf96315189443626f2e678]: Commencement: Sch. 3 para. 4 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-4e8ff3e20eaf96315189443626f2e678]: Commencement: Sch. 3 para. 4 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
 
-[^key-de0906452dc26d59ccb5e3fee1d0ce8e]: Commencement: Sch. 3 para. 5 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-de0906452dc26d59ccb5e3fee1d0ce8e]: Commencement: Sch. 3 para. 5 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)

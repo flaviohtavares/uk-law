@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Duties on the Secretary of State relating to exports[^key-cdb7959f4217cb04fc0174142f1ea815]
+## 30. Duties on the Secretary of State relating to exports[^c-cdb7959f4217cb04fc0174142f1ea815]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cdb7959f4217cb04fc0174142f1ea815]: Commencement: Reg. 30 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-cdb7959f4217cb04fc0174142f1ea815]: Commencement: Reg. 30 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
 [^f00007]: Footnote: Published by the World Health Organization at: www.who.int/medicines/en

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**24.**[^key-dd6c6e7b0bb481e8067b15a80705555b] In Part 57—
+**24.**[^c-dd6c6e7b0bb481e8067b15a80705555b] In Part 57—
 
 - (a) in rule 57.1, in paragraph (2), in subparagraph (b), for sub-subparagraph (iii), insert—
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd6c6e7b0bb481e8067b15a80705555b]: Commencement: [Rule 24](https://www.legislation.gov.uk/uksi/2014/407/rule/24) in force at 22.4.2014, see [rule 2(1)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/1)
+[^c-dd6c6e7b0bb481e8067b15a80705555b]: Commencement: [Rule 24](https://www.legislation.gov.uk/uksi/2014/407/rule/24) in force at 22.4.2014, see [rule 2(1)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/1)

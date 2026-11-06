@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Notice of hearing[^key-2526fc1c3914a30e4a77f09177a69263]
+## 30. Notice of hearing[^c-2526fc1c3914a30e4a77f09177a69263]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2526fc1c3914a30e4a77f09177a69263]: Commencement: Reg. 30 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)
+[^c-2526fc1c3914a30e4a77f09177a69263]: Commencement: Reg. 30 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)

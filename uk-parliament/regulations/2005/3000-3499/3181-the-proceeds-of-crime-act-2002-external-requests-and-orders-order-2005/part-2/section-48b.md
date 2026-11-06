@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48B. Costs of storage and realisation[^key-3117005e1f6218ec39f222b3f22fd100]
+## 48B. Costs of storage and realisation[^c-3117005e1f6218ec39f222b3f22fd100]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3117005e1f6218ec39f222b3f22fd100]: Textual amendment: [Ch. 3A](https://www.legislation.gov.uk/uksi/2005/3181/chapter/3A) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [17](https://www.legislation.gov.uk/uksi/2015/1750/article/17)
+[^c-3117005e1f6218ec39f222b3f22fd100]: Textual amendment: [Ch. 3A](https://www.legislation.gov.uk/uksi/2005/3181/chapter/3A) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [17](https://www.legislation.gov.uk/uksi/2015/1750/article/17)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 122. Amount which may be claimed generally[^key-17b471d5c8c68c8e540105fb9ad31727]
+## 122. Amount which may be claimed generally[^c-17b471d5c8c68c8e540105fb9ad31727]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17b471d5c8c68c8e540105fb9ad31727]: Commencement: Rule 122 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-17b471d5c8c68c8e540105fb9ad31727]: Commencement: Rule 122 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 109. Resignation of the bank liquidator[^key-3c490786fecc911e93c4b0c147927658]
+## 109. Resignation of the bank liquidator[^c-3c490786fecc911e93c4b0c147927658]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c490786fecc911e93c4b0c147927658]: Commencement: Rule 109 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-3c490786fecc911e93c4b0c147927658]: Commencement: Rule 109 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

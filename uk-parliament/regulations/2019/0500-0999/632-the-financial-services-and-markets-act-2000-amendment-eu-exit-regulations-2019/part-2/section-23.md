@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Sections 55Z1 to 55Z2A (notification)[^key-f53a583c757b95116c62a42a5b66eda0]
+## 23. Sections 55Z1 to 55Z2A (notification)[^c-f53a583c757b95116c62a42a5b66eda0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Omit sections 55Z1 to 55Z2A [^c23657481] (notification of ESMA, EBA and European
 
 ## Annotations
 
-[^key-f53a583c757b95116c62a42a5b66eda0]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-f53a583c757b95116c62a42a5b66eda0]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23657481]: Marginal citation: Section 55Z2 was amended by [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115) and [S.I. 2015/486](https://www.legislation.gov.uk/uksi/2015/486); section 55Z2A was inserted by [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115).

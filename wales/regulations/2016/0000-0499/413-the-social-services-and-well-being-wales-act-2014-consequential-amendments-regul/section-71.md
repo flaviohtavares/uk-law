@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**71.**[^key-c5b32a94155c37bee6af8c99a0b1d84c] For section 22E[^f00083] (children’s homes provided by appropriate national authority) substitute—
+**71.**[^c-c5b32a94155c37bee6af8c99a0b1d84c] For section 22E[^f00083] (children’s homes provided by appropriate national authority) substitute—
 
 > **22E. Children’s homes provided by Secretary of State or Welsh Ministers**
 >
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c5b32a94155c37bee6af8c99a0b1d84c]: Commencement: Reg. 71 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-c5b32a94155c37bee6af8c99a0b1d84c]: Commencement: Reg. 71 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00083]: Footnote: Section 22E was substituted, together with sections 22A to 22D and 22F, for section 23 as originally enacted, by the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), section 8(1).

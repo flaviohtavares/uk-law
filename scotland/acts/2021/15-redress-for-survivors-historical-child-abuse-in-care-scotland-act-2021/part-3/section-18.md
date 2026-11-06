@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Eligibility to apply for a redress payment[^key-9e8d8e8c0333f9d92ee493642b4ca664]
+## 18. Eligibility to apply for a redress payment[^c-9e8d8e8c0333f9d92ee493642b4ca664]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e8d8e8c0333f9d92ee493642b4ca664]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2021/15/section/18) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-9e8d8e8c0333f9d92ee493642b4ca664]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2021/15/section/18) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

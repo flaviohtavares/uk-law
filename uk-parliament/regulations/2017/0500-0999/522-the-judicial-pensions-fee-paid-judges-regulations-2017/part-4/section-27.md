@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Paragraph (2) applies where a member (“P”) at any time [^key-b5c9d8a6fe767193a7b2c5c7ef15d5d7]... ceases to hold an eligible fee-paid judicial office (“the relevant office”) and—
+(1) Paragraph (2) applies where a member (“P”) at any time [^c-b5c9d8a6fe767193a7b2c5c7ef15d5d7]... ceases to hold an eligible fee-paid judicial office (“the relevant office”) and—
 
 - (a) P has reckonable service in relation to the relevant office;
 - (b) either—
@@ -33,7 +33,7 @@ summary: ''
 (3) The notice—
 
 - (a) must be in the form determined by the appropriate Minister, and
-- (b)[^key-4096c5b65f30c40a333788c9262fb741][^key-f76233b6550e8d8db38b971d6c2ba0c5] must be received by the appropriate Minister within the period of 6 months beginning with the day on which P ceases to hold the relevant office.
+- (b)[^c-4096c5b65f30c40a333788c9262fb741][^c-f76233b6550e8d8db38b971d6c2ba0c5] must be received by the appropriate Minister within the period of 6 months beginning with the day on which P ceases to hold the relevant office.
 
 (4) A notice under this regulation has effect on the day on which it is received by the appropriate Minister, and is irrevocable.
 
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b5c9d8a6fe767193a7b2c5c7ef15d5d7]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/uksi/2017/522/regulation/27/1) omitted (1.4.2023) by virtue of [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [71(6)](https://www.legislation.gov.uk/uksi/2023/403/regulation/71/6)
+[^c-b5c9d8a6fe767193a7b2c5c7ef15d5d7]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/uksi/2017/522/regulation/27/1) omitted (1.4.2023) by virtue of [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [71(6)](https://www.legislation.gov.uk/uksi/2023/403/regulation/71/6)
 
-[^key-4096c5b65f30c40a333788c9262fb741]: Modification: [Reg. 27(3)(b)](https://www.legislation.gov.uk/uksi/2017/522/regulation/27/3/b) modified (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [10](https://www.legislation.gov.uk/uksi/2023/766/regulation/10)
+[^c-4096c5b65f30c40a333788c9262fb741]: Modification: [Reg. 27(3)(b)](https://www.legislation.gov.uk/uksi/2017/522/regulation/27/3/b) modified (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [10](https://www.legislation.gov.uk/uksi/2023/766/regulation/10)
 
-[^key-f76233b6550e8d8db38b971d6c2ba0c5]: Modification: [Reg. 27(3)(b)](https://www.legislation.gov.uk/uksi/2017/522/regulation/27/3/b) modified (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [18(2)](https://www.legislation.gov.uk/uksi/2023/766/regulation/18/2)[(3)](https://www.legislation.gov.uk/uksi/2023/766/regulation/18/3)
+[^c-f76233b6550e8d8db38b971d6c2ba0c5]: Modification: [Reg. 27(3)(b)](https://www.legislation.gov.uk/uksi/2017/522/regulation/27/3/b) modified (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [18(2)](https://www.legislation.gov.uk/uksi/2023/766/regulation/18/2)[(3)](https://www.legislation.gov.uk/uksi/2023/766/regulation/18/3)

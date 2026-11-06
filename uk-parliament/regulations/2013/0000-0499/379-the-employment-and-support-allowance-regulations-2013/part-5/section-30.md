@@ -43,7 +43,7 @@ the Secretary of State may, if paragraph (5) applies, determine afresh whether t
 - (b) the Secretary of State wishes to determine whether the previous determination about limited capability for work-related activity or about treating the claimant as having or as not having limited capability for work-related activity, was made in ignorance of, or was based on a mistake as to, some material fact; or
 - (c) at least three months have passed since the date of the previous determination about limited capability for work-related activity or about treating the claimant as having or as not having limited capability for work-related activity.
 
-(5A)[^key-dd8e204302cf4e40ac933b3f84d1feb5] For the purposes of paragraph (5)(a), doing work for payment or in expectation of payment, or doing voluntary work, is not a relevant change of circumstances.
+(5A)[^c-dd8e204302cf4e40ac933b3f84d1feb5] For the purposes of paragraph (5)(a), doing work for payment or in expectation of payment, or doing voluntary work, is not a relevant change of circumstances.
 
 (6) In assessing the extent of a claimant's capability to perform any activity listed in Schedule 3, it is a condition that the claimant's incapability to perform the activity arises—
 
@@ -56,4 +56,4 @@ the Secretary of State may, if paragraph (5) applies, determine afresh whether t
 
 ## Annotations
 
-[^key-dd8e204302cf4e40ac933b3f84d1feb5]: Textual amendment: [Reg. 30(5A)](https://www.legislation.gov.uk/uksi/2013/379/regulation/30/5A) inserted (30.4.2026) by [The Universal Credit, Personal Independence Payment and Employment and Support Allowance (Amendment) Regulations 2026 (S.I. 2026/395)](https://www.legislation.gov.uk/uksi/2026/395), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/395/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2026/395/regulation/4/3)
+[^c-dd8e204302cf4e40ac933b3f84d1feb5]: Textual amendment: [Reg. 30(5A)](https://www.legislation.gov.uk/uksi/2013/379/regulation/30/5A) inserted (30.4.2026) by [The Universal Credit, Personal Independence Payment and Employment and Support Allowance (Amendment) Regulations 2026 (S.I. 2026/395)](https://www.legislation.gov.uk/uksi/2026/395), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/395/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2026/395/regulation/4/3)

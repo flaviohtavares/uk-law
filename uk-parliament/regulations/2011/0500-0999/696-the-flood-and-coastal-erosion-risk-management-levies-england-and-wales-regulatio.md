@@ -38,7 +38,7 @@ Flood Risk Management, England And Wales
 
 Water Industry, England And Wales
 
-The Flood and Coastal Erosion Risk Management[^key-447dfdecc478a38395aeaa5f4743df6d] (Levies) (England and Wales) Regulations 2011
+The Flood and Coastal Erosion Risk Management[^c-447dfdecc478a38395aeaa5f4743df6d] (Levies) (England and Wales) Regulations 2011
 
 Made
 
@@ -60,26 +60,26 @@ The Secretary of State, in relation to England, and the Welsh Ministers, in rela
 
 ## PART 1 — General
 
-### 1. Citation, commencement and application[^key-da0676c861177cd0f37d190e7741ec01]
+### 1. Citation, commencement and application[^c-da0676c861177cd0f37d190e7741ec01]
 
 (1) These Regulations—
 
-- (a) may be cited as the Flood and Coastal Erosion Risk Management[^key-2f79933b7f060dd1213f7742a7071c56] (Levies) (England and Wales) Regulations 2011; and
+- (a) may be cited as the Flood and Coastal Erosion Risk Management[^c-2f79933b7f060dd1213f7742a7071c56] (Levies) (England and Wales) Regulations 2011; and
 - (b) come into force on 1st April 2011.
 
 (2) These Regulations apply in relation to levies issued for any financial year beginning on or after 1st April 2012.
 
-(3)[^key-60cd46cb2a52cd8735eef0614da71b89] Any reference to the Environment Agency (Levies) (England and Wales) Regulations 2011, wherever it occurs, is to be treated as a reference to these Regulations.
+(3)[^c-60cd46cb2a52cd8735eef0614da71b89] Any reference to the Environment Agency (Levies) (England and Wales) Regulations 2011, wherever it occurs, is to be treated as a reference to these Regulations.
 
-### 2. Interpretation[^key-b38da06dc1fed386edf9230a762fa97b]
+### 2. Interpretation[^c-b38da06dc1fed386edf9230a762fa97b]
 
 In these Regulations—
 
-- “actual expenditure”, in relation to the area of a Regional Flood and Coastal Committee for a financial year, means the sum of the amount of levy revenue spent in that area in that financial year by the appropriate agency[^key-ba6098df66a863330c0fe00970a8aabb] in connection with the appropriate agency's—
+- “actual expenditure”, in relation to the area of a Regional Flood and Coastal Committee for a financial year, means the sum of the amount of levy revenue spent in that area in that financial year by the appropriate agency[^c-ba6098df66a863330c0fe00970a8aabb] in connection with the appropriate agency's—
   - (a) flood and coastal erosion risk management functions in that area, and
   - (b) administrative expenses, and research or related activities, for that financial year;
 - “the Agency” means the Environment Agency;
-- “[^key-583e7b26cc77b229513983b7b9251674]**the appropriate agency**” means the Agency in relation to England and the Natural Resources Body for Wales in relation to Wales;
+- “[^c-583e7b26cc77b229513983b7b9251674]**the appropriate agency**” means the Agency in relation to England and the Natural Resources Body for Wales in relation to Wales;
 - “area”, in relation to a Regional Flood and Coastal Committee, means the region for which the Regional Flood and Coastal Committee is established under section 22(1) of the Flood and Water Management Act 2010;
 - “constituent authority”, in relation to a Regional Flood and Coastal Committee, means a lead local flood authority (within the meaning given in section 6(7) and (9) of the Flood and Water Management Act 2010) any part of whose area is in the area of the Committee;
 - “flood and coastal erosion risk management functions”, in relation to the appropriate agency, means the following functions exercisable by the appropriate agency—
@@ -93,16 +93,16 @@ In these Regulations—
 
 ## PART 2 — Issue and payment of levies
 
-### 3. Issue of levies[^key-301d2d63699819bccd781dc9bfe97d85]
+### 3. Issue of levies[^c-301d2d63699819bccd781dc9bfe97d85]
 
-(1) When issuing a levy to a constituent authority for a financial year, the appropriate agency[^key-4edee28d8decc1d33e179e0ebd79e6f7] must specify—
+(1) When issuing a levy to a constituent authority for a financial year, the appropriate agency[^c-4edee28d8decc1d33e179e0ebd79e6f7] must specify—
 
 - (a) that part of the constituent authority’s area to which the levy relates; and
 - (b) the basis on which the levy is calculated.
 
 (2) A levy (other than a levy issued under regulation 4) must be issued before 15th February in the financial year preceding that for which the levy is issued, but it is not invalid merely because it is issued on or after that date.
 
-### 4. Substituted levies[^key-d88ba5e2b3724436b35006a54105c5da]
+### 4. Substituted levies[^c-d88ba5e2b3724436b35006a54105c5da]
 
 (1) If the appropriate agency has issued a levy to a constituent authority for a financial year, originally or by way of substitute (“old levy”), the appropriate agency may issue a levy in substitution for that levy (“new levy”).
 
@@ -117,7 +117,7 @@ In these Regulations—
 - (a) credit the excess against any future liability of the constituent authority to pay a levy to the appropriate agency; or
 - (b) repay the excess.
 
-### 5. Payment of levies[^key-45946795253599a6c4968a5f033d8f10]
+### 5. Payment of levies[^c-45946795253599a6c4968a5f033d8f10]
 
 (1) This regulation applies if the appropriate agency has issued a levy to a constituent authority for a financial year in accordance with regulation 3 or 4.
 
@@ -131,7 +131,7 @@ In these Regulations—
 
 ## PART 3 — Calculation of levies
 
-### 6. Calculation of levies[^key-f38acad9e5d794cd76fad4046fa7b155]
+### 6. Calculation of levies[^c-f38acad9e5d794cd76fad4046fa7b155]
 
 (1) The appropriate agency must calculate the levy to be issued to a constituent authority for a financial year in accordance with this regulation.
 
@@ -147,11 +147,11 @@ where—
 - B is the appropriate agency’s qualifying expenses for the area of the Committee for the financial year, and
 - C is the sum of the relevant council tax bases for the financial year for all the constituent authorities of the Committee.
 
-### 7. Relevant council tax base[^key-3f9f6bc1d9704c788565afadeb7da248]
+### 7. Relevant council tax base[^c-3f9f6bc1d9704c788565afadeb7da248]
 
 (1) The relevant council tax base for a financial year for a constituent authority of a Regional Flood and Coastal Committee is—
 
-- (a) if the constituent authority is a billing authority[^f00002] in England, the council tax base for the financial year for its levy area calculated in accordance with the 2012 Regulations[^key-7714e50ce8888013d58ee4a4757f0c52];
+- (a) if the constituent authority is a billing authority[^f00002] in England, the council tax base for the financial year for its levy area calculated in accordance with the 2012 Regulations[^c-7714e50ce8888013d58ee4a4757f0c52];
 - (b) if the constituent authority is a billing authority in Wales, the council tax base for the financial year for its levy area calculated in accordance with the Local Authorities (Calculation of Council Tax Base) (Wales) Regulations 1995[^f00003];
 - (c) if the constituent authority is a precepting authority[^f00004], the council tax base for the financial year for its levy area determined by—
   - (i) calculating, in accordance with the 2012 Regulations, the council tax base for the financial year for those parts of each billing authority’s area that fall within the levy area of the precepting authority; and
@@ -160,11 +160,11 @@ where—
 (2) In this regulation—
 
 - “levy area” means that part of a constituent authority’s area that is in the area of the Regional Flood and Coastal Committee; and
-- “the[^key-31627219c421afe3b490c578947de878] 2012 Regulations” means the Local Authorities (Calculation of Council Tax Base) (Amendment) Regulations 1992.
+- “the[^c-31627219c421afe3b490c578947de878] 2012 Regulations” means the Local Authorities (Calculation of Council Tax Base) (Amendment) Regulations 1992.
 
-### 8. Qualifying expenses[^key-a1832ca779014fd4f6e752048c65623b]
+### 8. Qualifying expenses[^c-a1832ca779014fd4f6e752048c65623b]
 
-(1) The appropriate agency[^key-8c6318e2ab34a3ab622ba3af356dc5a6] may ascertain its expenses for the area of a Regional Flood and Coastal Committee for a financial year (“qualifying expenses”) by—
+(1) The appropriate agency[^c-8c6318e2ab34a3ab622ba3af356dc5a6] may ascertain its expenses for the area of a Regional Flood and Coastal Committee for a financial year (“qualifying expenses”) by—
 
 - (a) estimating the amount of relevant expenditure for that area for the financial year;
 - (b) subtracting from that amount any amount that will be funded by means other than a levy;
@@ -184,7 +184,7 @@ where—
     - (i) the appropriate agency's administrative expenses for that financial year, and
     - (ii) the amount to be spent by the appropriate agency for that financial year for research or related activities.
 
-### 9. Carrying forward of balances for purpose of ascertaining qualifying expenses for an area[^key-45b93e326a0bbe6f2645625e2afd26b8]
+### 9. Carrying forward of balances for purpose of ascertaining qualifying expenses for an area[^c-45b93e326a0bbe6f2645625e2afd26b8]
 
 (1) This regulation applies in relation to the area of a Regional Flood and Coastal Committee unless, before 1st December in a financial year, the appropriate agency revises the boundaries of the area in accordance with regulations made under section 22(2)(a) of the Flood and Water Management Act 2010.
 
@@ -211,7 +211,7 @@ where—
   - (ii) the financial year after the next financial year; or
 - (b) apportion the amount of the difference between each constituent authority in that area based on the proportion that the relevant council tax base for the financial year for each constituent authority bears to the sum of the relevant council tax bases for the financial year for all constituent authorities in that area, and pay those apportioned amounts to the constituent authorities.
 
-### 10. Carrying forward of balances following revision of boundaries[^key-63ee353cefe2884b816160227dbb082d]
+### 10. Carrying forward of balances following revision of boundaries[^c-63ee353cefe2884b816160227dbb082d]
 
 (1) This regulation applies if, before 1st December in a financial year, the appropriate agency revises the boundaries of the area of a Regional Flood and Coastal Committee (“old area”) in accordance with regulations made under section 22(2)(a) of the Flood and Water Management Act 2010 to create new areas.
 
@@ -243,7 +243,7 @@ where—
 
 ## PART 4 — Anticipation of levies
 
-### 11. Anticipation of levy[^key-662d81f93af3a122c2b195d80985ba99]
+### 11. Anticipation of levy[^c-662d81f93af3a122c2b195d80985ba99]
 
 (1) A constituent authority may anticipate that the appropriate agency will issue a levy to it for any part of its area for a financial year if—
 
@@ -256,10 +256,10 @@ where—
 
 (4) References in this regulation to a constituent authority’s calculations are references to calculations made under—
 
-- (a) section 31A[^key-cf0812e5891fc6f6f169436e0f3d40cd] (calculation of budget requirement) of the Local Government Finance Act 1992[^f00006], if the constituent authority is a billing authority; or
-- (b) section 42A[^key-0f540d14f5e9cd47e185c4f9ed34c415] (calculation of budget requirement) of that Act[^f00007], if the constituent authority is a precepting authority.
+- (a) section 31A[^c-cf0812e5891fc6f6f169436e0f3d40cd] (calculation of budget requirement) of the Local Government Finance Act 1992[^f00006], if the constituent authority is a billing authority; or
+- (b) section 42A[^c-0f540d14f5e9cd47e185c4f9ed34c415] (calculation of budget requirement) of that Act[^f00007], if the constituent authority is a precepting authority.
 
-### 12. Requirement to notify appropriate agency of relevant council tax base[^key-45eecaee2cc79deeb67b7b07a16801e1][^key-0d63fb9aaddd495eb6287666b08b0755]
+### 12. Requirement to notify appropriate agency of relevant council tax base[^c-45eecaee2cc79deeb67b7b07a16801e1][^c-0d63fb9aaddd495eb6287666b08b0755]
 
 During the period beginning with 1st December and ending on 31st January in a financial year, a billing authority must notify the appropriate agency of its relevant council tax base if—
 
@@ -268,7 +268,7 @@ During the period beginning with 1st December and ending on 31st January in a 
 
 ## PART 5 — Miscellaneous
 
-### 13. Revocation and transitional provisions[^key-c5ea5e4196d25889bbc37ff375a8851d]
+### 13. Revocation and transitional provisions[^c-c5ea5e4196d25889bbc37ff375a8851d]
 
 (1) The Environment Agency (Levies) Regulations 1993[^f00008] (“the 1993 Regulations”) are revoked.
 
@@ -312,67 +312,67 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 ## Annotations
 
-[^key-447dfdecc478a38395aeaa5f4743df6d]: Textual amendment: Words in Regulations title substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/uksi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/755/article/1/2), [Sch. 4 para. 398](https://www.legislation.gov.uk/uksi/2013/755/schedule/4/paragraph/398) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2013/755/schedule/7))
+[^c-447dfdecc478a38395aeaa5f4743df6d]: Textual amendment: Words in Regulations title substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/uksi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/755/article/1/2), [Sch. 4 para. 398](https://www.legislation.gov.uk/uksi/2013/755/schedule/4/paragraph/398) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2013/755/schedule/7))
 
 [^f00001]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41); section 74 was amended by the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), section 117(1) and Schedule 13, paragraph 72(1) and (2). The functions of the Secretary of State under section 74 of the Local Government Finance Act 1988 were, so far as exercisable in relation to Wales, transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). Those functions are now exercisable by the Welsh Ministers by virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32). Section 17 of the Flood and Water Management Act [2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29) allows the Environment Agency to issue levies to lead local flood authorities and provides that the Environment Agency shall be treated as a levying body within the meaning of section 74 of the Local Government Finance Act 1988.
 
-[^key-da0676c861177cd0f37d190e7741ec01]: Commencement: Reg. 1 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/696/regulation/1/1/b)
+[^c-da0676c861177cd0f37d190e7741ec01]: Commencement: Reg. 1 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/696/regulation/1/1/b)
 
-[^key-2f79933b7f060dd1213f7742a7071c56]: Textual amendment: Words in [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2011/696/regulation/1/1/a) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 399(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/399/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-2f79933b7f060dd1213f7742a7071c56]: Textual amendment: Words in [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2011/696/regulation/1/1/a) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 399(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/399/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-60cd46cb2a52cd8735eef0614da71b89]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2011/696/regulation/1/3) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 399(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/399/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-60cd46cb2a52cd8735eef0614da71b89]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2011/696/regulation/1/3) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 399(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/399/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-b38da06dc1fed386edf9230a762fa97b]: Commencement: Reg. 2 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/696/regulation/1/1/b)
+[^c-b38da06dc1fed386edf9230a762fa97b]: Commencement: Reg. 2 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/696/regulation/1/1/b)
 
-[^key-ba6098df66a863330c0fe00970a8aabb]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2011/696/regulation/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 400(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/400/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-ba6098df66a863330c0fe00970a8aabb]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2011/696/regulation/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 400(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/400/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-583e7b26cc77b229513983b7b9251674]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2011/696/regulation/2) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 400(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/400/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-583e7b26cc77b229513983b7b9251674]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2011/696/regulation/2) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 400(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/400/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-301d2d63699819bccd781dc9bfe97d85]: Commencement: Reg. 3 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/696/regulation/1/1/b)
+[^c-301d2d63699819bccd781dc9bfe97d85]: Commencement: Reg. 3 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/696/regulation/1/1/b)
 
-[^key-4edee28d8decc1d33e179e0ebd79e6f7]: Textual amendment: Words in [regs. 3-6](https://www.legislation.gov.uk/uksi/2011/696/regulation/3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 401](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/401) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-4edee28d8decc1d33e179e0ebd79e6f7]: Textual amendment: Words in [regs. 3-6](https://www.legislation.gov.uk/uksi/2011/696/regulation/3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 401](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/401) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-d88ba5e2b3724436b35006a54105c5da]: Commencement: Reg. 4 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/696/regulation/1/1/b)
+[^c-d88ba5e2b3724436b35006a54105c5da]: Commencement: Reg. 4 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/696/regulation/1/1/b)
 
-[^key-45946795253599a6c4968a5f033d8f10]: Commencement: Reg. 5 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/696/regulation/1/1/b)
+[^c-45946795253599a6c4968a5f033d8f10]: Commencement: Reg. 5 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/696/regulation/1/1/b)
 
-[^key-f38acad9e5d794cd76fad4046fa7b155]: Commencement: Reg. 6 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/696/regulation/1/1/b)
+[^c-f38acad9e5d794cd76fad4046fa7b155]: Commencement: Reg. 6 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/696/regulation/1/1/b)
 
-[^key-3f9f6bc1d9704c788565afadeb7da248]: Commencement: Reg. 7 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/696/regulation/1/1/b)
+[^c-3f9f6bc1d9704c788565afadeb7da248]: Commencement: Reg. 7 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/696/regulation/1/1/b)
 
 [^f00002]: Footnote: Section 144 of the Local Government Finance Act 1988 provides that “billing authority” has the same meaning as in Part 1 of the Local Government Finance Act 1992.
 
-[^key-7714e50ce8888013d58ee4a4757f0c52]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2011/696/regulation/7/1) substituted (30.11.2012) by [The Local Authorities (Calculation of Council Tax Base) (England) Regulations 2012 (S.I. 2012/2914)](https://www.legislation.gov.uk/uksi/2012/2914), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1), [12(4)(a)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/12/4/a)
+[^c-7714e50ce8888013d58ee4a4757f0c52]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2011/696/regulation/7/1) substituted (30.11.2012) by [The Local Authorities (Calculation of Council Tax Base) (England) Regulations 2012 (S.I. 2012/2914)](https://www.legislation.gov.uk/uksi/2012/2914), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1), [12(4)(a)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/12/4/a)
 
 [^f00003]: Footnote: [S.I. 1995/2561](https://www.legislation.gov.uk/uksi/1995/2561), amended by [S.I. 2004/3094 (W.268)](https://www.legislation.gov.uk/wsi/2004/3094).
 
 [^f00004]: Footnote: Section 144 of the Local Government Finance Act 1988 provides that “precepting authority” has the same meaning as in Part 1 of the Local Government Finance Act 1992. A lead local flood authority in Wales is not a precepting authority.
 
-[^key-31627219c421afe3b490c578947de878]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2011/696/regulation/7/2) substituted (30.11.2012) by [The Local Authorities (Calculation of Council Tax Base) (England) Regulations 2012 (S.I. 2012/2914)](https://www.legislation.gov.uk/uksi/2012/2914), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1), [12(4)(b)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/12/4/b)
+[^c-31627219c421afe3b490c578947de878]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2011/696/regulation/7/2) substituted (30.11.2012) by [The Local Authorities (Calculation of Council Tax Base) (England) Regulations 2012 (S.I. 2012/2914)](https://www.legislation.gov.uk/uksi/2012/2914), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1), [12(4)(b)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/12/4/b)
 
-[^key-a1832ca779014fd4f6e752048c65623b]: Commencement: Reg. 8 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/696/regulation/1/1/b)
+[^c-a1832ca779014fd4f6e752048c65623b]: Commencement: Reg. 8 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/696/regulation/1/1/b)
 
-[^key-8c6318e2ab34a3ab622ba3af356dc5a6]: Textual amendment: Words in [regs. 8-11](https://www.legislation.gov.uk/uksi/2011/696/regulation/8) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 401](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/401) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-8c6318e2ab34a3ab622ba3af356dc5a6]: Textual amendment: Words in [regs. 8-11](https://www.legislation.gov.uk/uksi/2011/696/regulation/8) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 401](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/401) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-45b93e326a0bbe6f2645625e2afd26b8]: Commencement: Reg. 9 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/696/regulation/1/1/b)
+[^c-45b93e326a0bbe6f2645625e2afd26b8]: Commencement: Reg. 9 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/696/regulation/1/1/b)
 
-[^key-63ee353cefe2884b816160227dbb082d]: Commencement: Reg. 10 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/696/regulation/1/1/b)
+[^c-63ee353cefe2884b816160227dbb082d]: Commencement: Reg. 10 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/696/regulation/1/1/b)
 
-[^key-662d81f93af3a122c2b195d80985ba99]: Commencement: Reg. 11 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/696/regulation/1/1/b)
+[^c-662d81f93af3a122c2b195d80985ba99]: Commencement: Reg. 11 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/696/regulation/1/1/b)
 
-[^key-cf0812e5891fc6f6f169436e0f3d40cd]: Textual amendment: Word in [reg. 11(4)(a)](https://www.legislation.gov.uk/uksi/2011/696/regulation/11/4/a) substituted (16.3.2012) by [The Local Authority (Referendums Relating to Council Tax Increases) Regulations 2012 (S.I. 2012/460)](https://www.legislation.gov.uk/uksi/2012/460), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/460/regulation/1/1/b), [Sch. para. 18(a)](https://www.legislation.gov.uk/uksi/2012/460/schedule/paragraph/18/a)
+[^c-cf0812e5891fc6f6f169436e0f3d40cd]: Textual amendment: Word in [reg. 11(4)(a)](https://www.legislation.gov.uk/uksi/2011/696/regulation/11/4/a) substituted (16.3.2012) by [The Local Authority (Referendums Relating to Council Tax Increases) Regulations 2012 (S.I. 2012/460)](https://www.legislation.gov.uk/uksi/2012/460), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/460/regulation/1/1/b), [Sch. para. 18(a)](https://www.legislation.gov.uk/uksi/2012/460/schedule/paragraph/18/a)
 
 [^f00006]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14). Section 32 was amended by: the [Local Government (Wales) Act 1994 (1994, c. 19)](https://www.legislation.gov.uk/ukpga/1994/19), s. 38(11) and Schedule 12, paragraph 4(2); the Police Act 1997 ([1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50)), s. 134(1) and Schedule 9, paragraph 67; the Criminal Justice and Police Act 2001 ([2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16)), s. 137 and Schedule 7, Pt 5(1); the Local Government Act 2003 ([2003 c. 26](https://www.legislation.gov.uk/ukpga/2003/26)), s. 127(2) and Schedule 8, Pt 1; [S.I. 1994/246](https://www.legislation.gov.uk/uksi/1994/246); [S.I. 1995/234](https://www.legislation.gov.uk/uksi/1995/234); [S.I. 1996/56](https://www.legislation.gov.uk/uksi/1996/56); [S.I. 2002/328](https://www.legislation.gov.uk/uksi/2002/328); [S.I. 2005/190](https://www.legislation.gov.uk/uksi/2005/190); [S.I. 2010/219](https://www.legislation.gov.uk/uksi/2010/219) and [S.I. 2010/317](https://www.legislation.gov.uk/uksi/2010/317).
 
-[^key-0f540d14f5e9cd47e185c4f9ed34c415]: Textual amendment: Word in [reg. 11(4)(b)](https://www.legislation.gov.uk/uksi/2011/696/regulation/11/4/b) substituted (16.3.2012) by [The Local Authority (Referendums Relating to Council Tax Increases) Regulations 2012 (S.I. 2012/460)](https://www.legislation.gov.uk/uksi/2012/460), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/460/regulation/1/1/b), [Sch. para. 18(b)](https://www.legislation.gov.uk/uksi/2012/460/schedule/paragraph/18/b)
+[^c-0f540d14f5e9cd47e185c4f9ed34c415]: Textual amendment: Word in [reg. 11(4)(b)](https://www.legislation.gov.uk/uksi/2011/696/regulation/11/4/b) substituted (16.3.2012) by [The Local Authority (Referendums Relating to Council Tax Increases) Regulations 2012 (S.I. 2012/460)](https://www.legislation.gov.uk/uksi/2012/460), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/460/regulation/1/1/b), [Sch. para. 18(b)](https://www.legislation.gov.uk/uksi/2012/460/schedule/paragraph/18/b)
 
 [^f00007]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14). Section 43 was amended by: the Police Act 1997 ([1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50)), s. 134(1) and Schedule 9, paragraph 68(2) and (3); the Criminal Justice and Police Act 2001 ([2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16)), s. 137 and Schedule 7, Pt 5(1); Local Government Act 2003 ([2003 c. 26](https://www.legislation.gov.uk/ukpga/2003/26)), s. 127(2) and Schedule 8, Pt 1; the Serious Organised Crime and Police Act 2005 ([2005 c. 15](https://www.legislation.gov.uk/ukpga/2005/15)), s. 174(2) and Schedule 17, Pt 2; [S.I. 1994/246](https://www.legislation.gov.uk/uksi/1994/246); [S.I. 1995/234](https://www.legislation.gov.uk/uksi/1995/234); [S.I. 1996/296](https://www.legislation.gov.uk/uksi/1996/296); [S.I. 2000/717](https://www.legislation.gov.uk/uksi/2000/717); [S.I. 2010/219](https://www.legislation.gov.uk/uksi/2010/219) and [S.I. 2010/317](https://www.legislation.gov.uk/uksi/2010/317).
 
-[^key-45eecaee2cc79deeb67b7b07a16801e1]: Commencement: Reg. 12 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/696/regulation/1/1/b)
+[^c-45eecaee2cc79deeb67b7b07a16801e1]: Commencement: Reg. 12 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/696/regulation/1/1/b)
 
-[^key-0d63fb9aaddd495eb6287666b08b0755]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2011/696/regulation/12) heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 401](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/401) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-0d63fb9aaddd495eb6287666b08b0755]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2011/696/regulation/12) heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 401](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/401) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-c5ea5e4196d25889bbc37ff375a8851d]: Commencement: Reg. 13 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/696/regulation/1/1/b)
+[^c-c5ea5e4196d25889bbc37ff375a8851d]: Commencement: Reg. 13 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/696/regulation/1/1/b)
 
 [^f00008]: Footnote: [S.I. 1993/61](https://www.legislation.gov.uk/uksi/1993/61).
 

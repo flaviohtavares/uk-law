@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14N. Species control orders: entry by warrant etc.[^key-2e63d71d90e63fbd437c4456ec6e1e79]
+## 14N. Species control orders: entry by warrant etc.[^c-2e63d71d90e63fbd437c4456ec6e1e79]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ the sheriff or justice may grant a warrant authorising the person to enter premi
 
 ## Annotations
 
-[^key-2e63d71d90e63fbd437c4456ec6e1e79]: Textual amendment: Ss. 14D-14P inserted (S.) (2.7.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 16](https://www.legislation.gov.uk/asp/2011/6/section/16), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2012/175/article/2/1/b)
+[^c-2e63d71d90e63fbd437c4456ec6e1e79]: Textual amendment: Ss. 14D-14P inserted (S.) (2.7.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 16](https://www.legislation.gov.uk/asp/2011/6/section/16), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2012/175/article/2/1/b)

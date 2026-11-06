@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 59. Authentication of documents[^key-353c6cf8b36c594e35fa2fd9774dbd4f]
+## 59. Authentication of documents[^c-353c6cf8b36c594e35fa2fd9774dbd4f]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ A document or proceeding requiring authentication by an open-ended investment co
 
 ## Annotations
 
-[^key-353c6cf8b36c594e35fa2fd9774dbd4f]: Commencement: [Reg. 59](https://www.legislation.gov.uk/nisr/2004/335/regulation/59) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-353c6cf8b36c594e35fa2fd9774dbd4f]: Commencement: [Reg. 59](https://www.legislation.gov.uk/nisr/2004/335/regulation/59) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

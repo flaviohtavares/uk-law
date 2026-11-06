@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81A. Employee’s appeal against direction notice[^key-0add6f4323f1c53ba752b1bd35cb580a]
+## 81A. Employee’s appeal against direction notice[^c-0add6f4323f1c53ba752b1bd35cb580a]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 - (b) in relation to condition B in regulation 81, the relevant payment was not a notional payment, or
 - (c) the excess is incorrect.
 
-(3) On an appeal under paragraph (1) that is notified to the tribunal, the tribunal[^key-8ba26289a9f05ae7209348050b8d5a9b] may—
+(3) On an appeal under paragraph (1) that is notified to the tribunal, the tribunal[^c-8ba26289a9f05ae7209348050b8d5a9b] may—
 
 - (a) if it appears ... that the direction notice should not have been made, set aside the notice; or
 - (b) if it appears ... that the amount of tax specified in the direction notice is incorrect, increase or reduce the amount specified in the notice accordingly.
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0add6f4323f1c53ba752b1bd35cb580a]: Textual amendment: [Reg. 81A](https://www.legislation.gov.uk/uksi/2003/2682/regulation/81A) inserted (12.4.2004) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2004 (S.I. 2004/851)](https://www.legislation.gov.uk/uksi/2004/851), [regs. 1](https://www.legislation.gov.uk/uksi/2004/851/regulation/1), [6](https://www.legislation.gov.uk/uksi/2004/851/regulation/6)
+[^c-0add6f4323f1c53ba752b1bd35cb580a]: Textual amendment: [Reg. 81A](https://www.legislation.gov.uk/uksi/2003/2682/regulation/81A) inserted (12.4.2004) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2004 (S.I. 2004/851)](https://www.legislation.gov.uk/uksi/2004/851), [regs. 1](https://www.legislation.gov.uk/uksi/2004/851/regulation/1), [6](https://www.legislation.gov.uk/uksi/2004/851/regulation/6)
 
-[^key-8ba26289a9f05ae7209348050b8d5a9b]: Textual amendment: Words in [reg. 81A(3)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/81A/3) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 102(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/102/2)
+[^c-8ba26289a9f05ae7209348050b8d5a9b]: Textual amendment: Words in [reg. 81A(3)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/81A/3) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 102(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/102/2)

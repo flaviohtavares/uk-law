@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — Revocations[^key-0b990f51074f31f0ba5d6710f2a2dda0]
+## SCHEDULE 6 — Revocations[^c-0b990f51074f31f0ba5d6710f2a2dda0]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ Article 15
 
 ## Annotations
 
-[^key-0b990f51074f31f0ba5d6710f2a2dda0]: Commencement: [Sch. 6](https://www.legislation.gov.uk/uksi/2009/462/schedule/6) in force at 1.4.2009, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2009/462/article/1/b)
+[^c-0b990f51074f31f0ba5d6710f2a2dda0]: Commencement: [Sch. 6](https://www.legislation.gov.uk/uksi/2009/462/schedule/6) in force at 1.4.2009, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2009/462/article/1/b)

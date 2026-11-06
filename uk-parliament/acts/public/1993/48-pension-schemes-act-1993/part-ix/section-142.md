@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Powers of the Board to wind up schemes.[^key-a34d209a93a2d0cf98f91e28b21f79e2]
+## 142. Powers of the Board to wind up schemes.[^c-a34d209a93a2d0cf98f91e28b21f79e2]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a34d209a93a2d0cf98f91e28b21f79e2]: Textual amendment: [Ss. 142, 143](https://www.legislation.gov.uk/ukpga/1993/48/section/143) repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [ss. 161](https://www.legislation.gov.uk/ukpga/1995/26/section/161), [180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 7 Pt. IV](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/IV); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/2)
+[^c-a34d209a93a2d0cf98f91e28b21f79e2]: Textual amendment: [Ss. 142, 143](https://www.legislation.gov.uk/ukpga/1993/48/section/143) repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [ss. 161](https://www.legislation.gov.uk/ukpga/1995/26/section/161), [180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 7 Pt. IV](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/IV); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/2)

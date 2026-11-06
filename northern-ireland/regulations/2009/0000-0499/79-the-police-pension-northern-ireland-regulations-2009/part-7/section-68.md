@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 68. Appeal to independent medical referee[^key-cc5993b16cfd145effcea6dac6971cee]
+## 68. Appeal to independent medical referee[^c-cc5993b16cfd145effcea6dac6971cee]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc5993b16cfd145effcea6dac6971cee]: Commencement: Reg. 68 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-cc5993b16cfd145effcea6dac6971cee]: Commencement: Reg. 68 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

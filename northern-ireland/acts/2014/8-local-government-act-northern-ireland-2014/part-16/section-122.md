@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 122. Schemes for transfers of assets and liabilities[^key-d2f60d423eba0ad6f0f6e0d0d5346622]
+## 122. Schemes for transfers of assets and liabilities[^c-d2f60d423eba0ad6f0f6e0d0d5346622]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2f60d423eba0ad6f0f6e0d0d5346622]: Commencement: [S. 122](https://www.legislation.gov.uk/nia/2014/8/section/122) in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-d2f60d423eba0ad6f0f6e0d0d5346622]: Commencement: [S. 122](https://www.legislation.gov.uk/nia/2014/8/section/122) in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)

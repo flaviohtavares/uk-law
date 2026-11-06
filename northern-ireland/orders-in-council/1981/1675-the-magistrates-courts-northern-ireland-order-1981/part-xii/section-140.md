@@ -23,7 +23,7 @@ summary: ''
 (1) Subject to this Article, a person convicted by a magistrates' court may appeal to a county court,—
 
 - (a) whether or not he pleaded guilty, against his sentence;
-- (b)[^c22518581][^key-45bded2b4dbe0f0533eab8eb914621f5][^key-32ac1e00ad607025d6b3afacbe710e38] if he did not plead guilty, against the conviction.
+- (b)[^c22518581][^c-45bded2b4dbe0f0533eab8eb914621f5][^c-32ac1e00ad607025d6b3afacbe710e38] if he did not plead guilty, against the conviction.
 
 (1A)[^c16971321] Article 6 of the Criminal Justice (Northern Ireland) Order 1996 (under which a conviction of an offence for which an order for conditional or absolute discharge is made is deemed not to be a conviction except for certain purposes) shall not prevent an appeal under this Article, whether against conviction or otherwise.
 
@@ -51,9 +51,9 @@ summary: ''
 
 [^c22518581]: Modification: [Art. 140(1)(b)](https://www.legislation.gov.uk/nisi/1981/1675/article/140/1/b) extended (15.12.2011) by [Terrorism Prevention and Investigation Measures Act 2011 (c. 23)](https://www.legislation.gov.uk/ukpga/2011/23), [ss. 15(3)](https://www.legislation.gov.uk/ukpga/2011/23/section/15/3), [31(2)](https://www.legislation.gov.uk/ukpga/2011/23/section/31/2), [Sch. 3 para. 4(5)(d)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/3/paragraph/4/5/d) (with [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/23/schedule/8))
 
-[^key-45bded2b4dbe0f0533eab8eb914621f5]: Modification: [Art. 140(1)(b)](https://www.legislation.gov.uk/nisi/1981/1675/article/140/1/b) applied (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5), [Sch. 4 para. 4(5)(d)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/4/paragraph/4/5/d)
+[^c-45bded2b4dbe0f0533eab8eb914621f5]: Modification: [Art. 140(1)(b)](https://www.legislation.gov.uk/nisi/1981/1675/article/140/1/b) applied (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5), [Sch. 4 para. 4(5)(d)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/4/paragraph/4/5/d)
 
-[^key-32ac1e00ad607025d6b3afacbe710e38]: Modification: [Art. 140(1)(b)](https://www.legislation.gov.uk/nisi/1981/1675/article/140/1/b) applied (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 9 para. 4(6)(d)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/9/paragraph/4/6/d) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-32ac1e00ad607025d6b3afacbe710e38]: Modification: [Art. 140(1)(b)](https://www.legislation.gov.uk/nisi/1981/1675/article/140/1/b) applied (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 9 para. 4(6)(d)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/9/paragraph/4/6/d) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
 [^c16971321]: Textual amendment: [1996 NI 24](https://www.legislation.gov.uk/1996/ni24)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.21A. Expenses of voluntary arrangement[^key-4fd017f80ab3b455cd0edde92b1047e7]
+## 4.21A. Expenses of voluntary arrangement[^c-4fd017f80ab3b455cd0edde92b1047e7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a winding-up order is made and there is at the time of the presentation of
 
 ## Annotations
 
-[^key-4fd017f80ab3b455cd0edde92b1047e7]: Textual amendment: [Rule 4.21A](https://www.legislation.gov.uk/uksi/1986/1925/rule/4) inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/rule/1), [Sch. para. 39](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/39)
+[^c-4fd017f80ab3b455cd0edde92b1047e7]: Textual amendment: [Rule 4.21A](https://www.legislation.gov.uk/uksi/1986/1925/rule/4) inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/rule/1), [Sch. para. 39](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/39)

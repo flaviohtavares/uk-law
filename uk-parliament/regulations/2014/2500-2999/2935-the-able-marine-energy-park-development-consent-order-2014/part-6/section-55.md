@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 55. Certification of plans etc[^key-55c5b7992e583db9bb2c5bf21517ac9f]
+## 55. Certification of plans etc[^c-55c5b7992e583db9bb2c5bf21517ac9f]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ for certification that they are true copies of the documents referred to in this
 
 ## Annotations
 
-[^key-55c5b7992e583db9bb2c5bf21517ac9f]: Commencement: [Art. 55](https://www.legislation.gov.uk/uksi/2014/2935/article/55) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-55c5b7992e583db9bb2c5bf21517ac9f]: Commencement: [Art. 55](https://www.legislation.gov.uk/uksi/2014/2935/article/55) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

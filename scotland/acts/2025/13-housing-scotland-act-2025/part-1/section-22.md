@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Prospective landlords’ duty to include information about rent in advertisements[^key-dcbb412dc19e3a0b9bdd4dadd640bfe7][^key-63dc786060b34b5755b31b96d1d8791c]
+## 22. Prospective landlords’ duty to include information about rent in advertisements[^c-dcbb412dc19e3a0b9bdd4dadd640bfe7][^c-63dc786060b34b5755b31b96d1d8791c]
 
 *Extent: S*
 
@@ -111,6 +111,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dcbb412dc19e3a0b9bdd4dadd640bfe7]: Commencement: S. 22 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-dcbb412dc19e3a0b9bdd4dadd640bfe7]: Commencement: S. 22 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-63dc786060b34b5755b31b96d1d8791c]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2025/13/section/22) in force at 1.4.2026 for specified purposes by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-63dc786060b34b5755b31b96d1d8791c]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2025/13/section/22) in force at 1.4.2026 for specified purposes by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

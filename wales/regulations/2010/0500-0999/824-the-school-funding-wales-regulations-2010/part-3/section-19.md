@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Funding for pupils over compulsory school age[^key-2601ad0476969c9e6e8f03ceb48c29ba]
+## 19. Funding for pupils over compulsory school age[^c-2601ad0476969c9e6e8f03ceb48c29ba]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) The Amount must include, on a net basis—
 
-- (a) an allocation by the local authority in respect of that school’s provision for pupils over compulsory school age in accordance with the conditions of grant payable to the local authority by the Welsh Ministers under section 101 of the 2022 Act[^key-2b7b2ff812400635721d52469b2416bb] (“the Grant”);
+- (a) an allocation by the local authority in respect of that school’s provision for pupils over compulsory school age in accordance with the conditions of grant payable to the local authority by the Welsh Ministers under section 101 of the 2022 Act[^c-2b7b2ff812400635721d52469b2416bb] (“the Grant”);
 - (b) any amount which the local authority provides for education of pupils over compulsory school age.
 
 (3) To the extent the Amount is not subject to the conditions in the Grant, a local authority must, in determining budget shares use a factor which allocates funding in respect of pupils over compulsory school age.
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2601ad0476969c9e6e8f03ceb48c29ba]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2010/824/regulation/19) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)
+[^c-2601ad0476969c9e6e8f03ceb48c29ba]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2010/824/regulation/19) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)
 
-[^key-2b7b2ff812400635721d52469b2416bb]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/19/2) substituted (1.4.2026) by [The School Funding, Budget Statements and Outturn Statements (Wales) Regulations 2026 (W.S.I. 2026/66)](https://www.legislation.gov.uk/wsi/2026/66), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/wsi/2026/66/regulation/2/2/c)
+[^c-2b7b2ff812400635721d52469b2416bb]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/19/2) substituted (1.4.2026) by [The School Funding, Budget Statements and Outturn Statements (Wales) Regulations 2026 (W.S.I. 2026/66)](https://www.legislation.gov.uk/wsi/2026/66), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/wsi/2026/66/regulation/2/2/c)

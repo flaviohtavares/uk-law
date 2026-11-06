@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-df828c93bddd07eb45fb766748d47f64]
+## 1. Citation and commencement[^c-df828c93bddd07eb45fb766748d47f64]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Net Zero Teesside Order 2024 and comes into force
 
 ## Annotations
 
-[^key-df828c93bddd07eb45fb766748d47f64]: Commencement: Art. 1 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-df828c93bddd07eb45fb766748d47f64]: Commencement: Art. 1 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)

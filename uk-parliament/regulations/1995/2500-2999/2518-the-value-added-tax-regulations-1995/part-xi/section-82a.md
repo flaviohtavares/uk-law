@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82A. Goods supplied by persons outside the United Kingdom[^key-c09e5f2e4cee9bc683e92b3ce7c1ffb0]
+## 82A. Goods supplied by persons outside the United Kingdom[^c-c09e5f2e4cee9bc683e92b3ce7c1ffb0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Goods which are treated as supplied by a person under section 9A of the Act shal
 
 ## Annotations
 
-[^key-c09e5f2e4cee9bc683e92b3ce7c1ffb0]: Textual amendment: [Reg. 82A](https://www.legislation.gov.uk/uksi/1995/2518/regulation/82A) inserted (with effect in accordance with reg. 2(1) of the amending S.I.) by [The Value Added Tax (Amendment) (No. 4) Regulations 2004 (S.I. 2004/3140)](https://www.legislation.gov.uk/uksi/2004/3140), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2004/3140/regulation/2/1), [4](https://www.legislation.gov.uk/uksi/2004/3140/regulation/4)
+[^c-c09e5f2e4cee9bc683e92b3ce7c1ffb0]: Textual amendment: [Reg. 82A](https://www.legislation.gov.uk/uksi/1995/2518/regulation/82A) inserted (with effect in accordance with reg. 2(1) of the amending S.I.) by [The Value Added Tax (Amendment) (No. 4) Regulations 2004 (S.I. 2004/3140)](https://www.legislation.gov.uk/uksi/2004/3140), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2004/3140/regulation/2/1), [4](https://www.legislation.gov.uk/uksi/2004/3140/regulation/4)

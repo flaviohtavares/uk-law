@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Offence of breach of reporting restrictions: application to providers of information society services[^key-ee96efd95044ce687c6f350a049365a8]
+## SCHEDULE 4 — Offence of breach of reporting restrictions: application to providers of information society services[^c-ee96efd95044ce687c6f350a049365a8]
 
 *Extent: E+W*
 
@@ -136,4 +136,4 @@ After Schedule 11A to EA 2002 (inserted by section 8), insert—
 
 ## Annotations
 
-[^key-ee96efd95044ce687c6f350a049365a8]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2011/21/schedule/4) in force at 1.10.2012 by [S.I. 2012/2213](https://www.legislation.gov.uk/uksi/2012/2213), [art. 3](https://www.legislation.gov.uk/uksi/2012/2213/article/3)
+[^c-ee96efd95044ce687c6f350a049365a8]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2011/21/schedule/4) in force at 1.10.2012 by [S.I. 2012/2213](https://www.legislation.gov.uk/uksi/2012/2213), [art. 3](https://www.legislation.gov.uk/uksi/2012/2213/article/3)

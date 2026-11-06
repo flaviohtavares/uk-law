@@ -32,7 +32,7 @@ summary: ''
 
 Rating And Valuation
 
-The Valuation for Rating (Coronavirus) (England) Regulations 2021 (revoked)[^key-3ed03205dc7194d6174b670edcde289a]
+The Valuation for Rating (Coronavirus) (England) Regulations 2021 (revoked)[^c-3ed03205dc7194d6174b670edcde289a]
 
 Made
 
@@ -46,23 +46,23 @@ Laid before Parliament
 
 at 4.00 p.m. on 25th March 2021
 
-[^key-3ed03205dc7194d6174b670edcde289a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3ed03205dc7194d6174b670edcde289a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-3ed03205dc7194d6174b670edcde289a]
+## 1. Citation, commencement and application[^c-3ed03205dc7194d6174b670edcde289a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Valuation of hereditaments[^key-3ed03205dc7194d6174b670edcde289a]
+## 2. Valuation of hereditaments[^c-3ed03205dc7194d6174b670edcde289a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3ed03205dc7194d6174b670edcde289a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3ed03205dc7194d6174b670edcde289a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-3ed03205dc7194d6174b670edcde289a]EXPLANATORY NOTE
+[^c-3ed03205dc7194d6174b670edcde289a]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -76,4 +76,4 @@ An impact assessment has not been produced for this instrument as it amends an e
 
 ## Annotations
 
-[^key-3ed03205dc7194d6174b670edcde289a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/398) revoked (15.12.2021) by [Rating (Coronavirus) and Directors Disqualification (Dissolved Companies) Act 2021 (c. 34)](https://www.legislation.gov.uk/ukpga/2021/34), [ss. 1(9)](https://www.legislation.gov.uk/ukpga/2021/34/section/1/9), [4(4)(a)](https://www.legislation.gov.uk/ukpga/2021/34/section/4/4/a)
+[^c-3ed03205dc7194d6174b670edcde289a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/398) revoked (15.12.2021) by [Rating (Coronavirus) and Directors Disqualification (Dissolved Companies) Act 2021 (c. 34)](https://www.legislation.gov.uk/ukpga/2021/34), [ss. 1(9)](https://www.legislation.gov.uk/ukpga/2021/34/section/1/9), [4(4)(a)](https://www.legislation.gov.uk/ukpga/2021/34/section/4/4/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## E1. Overriding provision as to guaranteed minimum pensions[^key-95fec8bc9bebb91406ee91ea2131027a]
+## E1. Overriding provision as to guaranteed minimum pensions[^c-95fec8bc9bebb91406ee91ea2131027a]
 
 *Extent: N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-95fec8bc9bebb91406ee91ea2131027a]: Commencement: Reg. E1 in operation at 2.11.1998, see reg. A1
+[^c-95fec8bc9bebb91406ee91ea2131027a]: Commencement: Reg. E1 in operation at 2.11.1998, see reg. A1
 
 [^f00018]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49) as amended by [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213) Article 147 and Schedule 3 paragraph 20

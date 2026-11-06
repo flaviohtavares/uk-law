@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Model standards[^key-b877d37983f095bd171c56f6e1dac029]
+## 10. Model standards[^c-b877d37983f095bd171c56f6e1dac029]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b877d37983f095bd171c56f6e1dac029]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2013/6/section/10) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-b877d37983f095bd171c56f6e1dac029]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2013/6/section/10) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

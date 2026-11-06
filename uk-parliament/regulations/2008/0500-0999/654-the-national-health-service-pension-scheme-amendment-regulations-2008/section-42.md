@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Amendment of regulation N1[^key-43f6966f8172f9720ab7d1b873ef236c]
+## 42. Amendment of regulation N1[^c-43f6966f8172f9720ab7d1b873ef236c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In paragraph (2)(b) of regulation N1 (member’s right to transfer accrued right
 
 ## Annotations
 
-[^key-43f6966f8172f9720ab7d1b873ef236c]: Commencement: Reg. 42 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-43f6966f8172f9720ab7d1b873ef236c]: Commencement: Reg. 42 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

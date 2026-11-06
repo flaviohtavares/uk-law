@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21E. Overview and scrutiny committees of certain district councils: functions with respect to partner authorities[^key-9200158dfa9c6672579b0c521265901c]
+## 21E. Overview and scrutiny committees of certain district councils: functions with respect to partner authorities[^c-9200158dfa9c6672579b0c521265901c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9200158dfa9c6672579b0c521265901c]: Textual amendment: [S. 21E](https://www.legislation.gov.uk/ukpga/2000/22/section/21E) repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 24](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/24), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b/c)
+[^c-9200158dfa9c6672579b0c521265901c]: Textual amendment: [S. 21E](https://www.legislation.gov.uk/ukpga/2000/22/section/21E) repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 24](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/24), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b/c)

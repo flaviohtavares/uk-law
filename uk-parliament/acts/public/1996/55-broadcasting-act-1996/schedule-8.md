@@ -60,7 +60,7 @@ Section 136.
 > - (d) by section 47(8), in relation to a licence to provide a licensable programme service, or
 > - (e) by section 55(4), in relation to an additional services licence.
 
-**4.**[^key-45c8ee334ad8dc4e7c8ab1e1abe79e26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-45c8ee334ad8dc4e7c8ab1e1abe79e26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Radio services
 
@@ -103,4 +103,4 @@ Section 136.
 
 ## Annotations
 
-[^key-45c8ee334ad8dc4e7c8ab1e1abe79e26]: Textual amendment: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/1996/55/schedule/8/paragraph/4) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-45c8ee334ad8dc4e7c8ab1e1abe79e26]: Textual amendment: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/1996/55/schedule/8/paragraph/4) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

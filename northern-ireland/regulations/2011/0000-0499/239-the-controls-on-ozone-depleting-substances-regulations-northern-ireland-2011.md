@@ -48,19 +48,19 @@ The Department makes these Regulations in the exercise of the powers conferred b
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and application[^key-f6ea8334c204f72f615b227417f3c495]
+### 1. Citation, commencement and application[^c-f6ea8334c204f72f615b227417f3c495]
 
 (1) These Regulations may be cited as the Controls on Ozone-Depleting Substances Regulations (Northern Ireland) 2011, and shall come into operation on 31<sup>st</sup> July 2011.
 
 (2) These Regulations apply to offshore installations.
 
-### 2. Interpretation[^key-16a45d58cc76a309a547c7168c046c63]
+### 2. Interpretation[^c-16a45d58cc76a309a547c7168c046c63]
 
 (1) In these Regulations—
 
 - “the 1997 Order” means the Waste and Contaminated Land (Northern Ireland) Order 1997[^f00004]
 - “authorised person” means a person authorised under regulation 14(5);
-- “the Department” means the Department of Agriculture, Environment and Rural Affairs[^key-2097bcd39d9f17798efa1b26c00cbc99] ;
+- “the Department” means the Department of Agriculture, Environment and Rural Affairs[^c-2097bcd39d9f17798efa1b26c00cbc99] ;
 - “the enforcing authority” means—
   - (a) the district council, or, in a case which the Department makes a direction under regulation 14(2), the Department; and
   - (b) in relation to offshore installations, the Secretary of State;
@@ -88,19 +88,19 @@ The Department makes these Regulations in the exercise of the powers conferred b
 
 (4) Expressions used in these Regulations and in the EU Regulation have the same meaning in these Regulations as they have in the EU Regulation.
 
-(5)[^key-eba6bdec4b1fa8dc2205bab76ccb90ea] References in these Regulations to the EU Regulation are to the EU Regulation as amended by regulations made under the European Union (Withdrawal) Act 2018.
+(5)[^c-eba6bdec4b1fa8dc2205bab76ccb90ea] References in these Regulations to the EU Regulation are to the EU Regulation as amended by regulations made under the European Union (Withdrawal) Act 2018.
 
-### 3. Meaning of “controlled substances”[^key-c7f37ead2772997ae3eee3f84cc27b4e]
+### 3. Meaning of “controlled substances”[^c-c7f37ead2772997ae3eee3f84cc27b4e]
 
 References in these Regulations to “controlled substances” are references to those substances in Annex I to the EU Regulation as amended from time to time.
 
 ## PART 2 — Enforcement, offences, penalties and revocations
 
-### 4. The competent authority[^key-48474fba7f33bf0859ee7c9157050575]
+### 4. The competent authority[^c-48474fba7f33bf0859ee7c9157050575]
 
 The Department is the competent authority for the purposes of the EU Regulation.
 
-### 5. Breach of the EU Regulation[^key-a8de72092d868958461a532f180ca4ba]
+### 5. Breach of the EU Regulation[^c-a8de72092d868958461a532f180ca4ba]
 
 Any person who breaches any of the following provisions of the EU Regulation is guilty of an offence.
 
@@ -121,24 +121,24 @@ Any person who breaches any of the following provisions of the EU Regulation is 
 | Article 23(6) | Precautionary measures to prevent and minimise leakages and emissions of controlled substances inadvertently produced in the manufacture of other chemicals |
 | Article 24(1) | Production, placing on the market, and use of new substances |
 
-### 6. Powers of the enforcing authority[^key-557ca65afd5a7726e14f179de27d9732]
+### 6. Powers of the enforcing authority[^c-557ca65afd5a7726e14f179de27d9732]
 
 (1) The enforcing authority may by notice require a person in possession of a controlled substance, or a product or equipment containing or relying on a controlled substance, that has been produced or placed on the market, in contravention of the EU Regulation, to dispose of it, or otherwise render it harmless, in accordance with the notice.
 
 (2) Failure to comply with such a notice is an offence.
 
-### 7. Information notices[^key-f5ed340b89abb847af40cd4e4e72b99c]
+### 7. Information notices[^c-f5ed340b89abb847af40cd4e4e72b99c]
 
 The enforcing authority may, by notice served on any person, require that person to furnish such information as is specified in the notice, in such form and within such period following the service of the notice or at such time as is so specified.
 
-### 8. Enforcement notices[^key-b40ce90efb2d0263bd4a9ee476c37e41]
+### 8. Enforcement notices[^c-b40ce90efb2d0263bd4a9ee476c37e41]
 
 (1) An enforcement notice is a notice requiring a person to take specified steps to remedy a contravention, to remedy a contravention to the fullest extent possible, or to remedy matters making it likely that a contravention will arise.
 
 (2) If an enforcing authority is of the opinion that a person—
 
 - (a) has contravened, is contravening or is likely to contravene these Regulations; or
-- (b) has contravened Article 18(4) or 27(1) to (7) of the EU Regulation,[^key-5050131b00758cd447935c134678e527]
+- (b) has contravened Article 18(4) or 27(1) to (7) of the EU Regulation,[^c-5050131b00758cd447935c134678e527]
 
   the enforcing authority may serve on that person an enforcement notice.
 
@@ -160,7 +160,7 @@ The enforcing authority may, by notice served on any person, require that person
 - (a) enter the land and take the steps specified in the enforcement notice; and
 - (b) recover from the person who is the owner, any expenses reasonably incurred by it in doing so and those expenses shall be a civil debt recoverable summarily.
 
-### 9. Appeals against enforcement notices[^key-dec9a64a62acd058610a8387197b604c]
+### 9. Appeals against enforcement notices[^c-dec9a64a62acd058610a8387197b604c]
 
 (1) A person who is aggrieved by an enforcement notice may appeal to a court of summary jurisdiction.
 
@@ -175,11 +175,11 @@ The enforcing authority may, by notice served on any person, require that person
 
 (5) Where an appeal is brought against an enforcement notice, that enforcement notice must be of no effect pending the final determination or the withdrawal of the appeal.
 
-### 10. Enforcement by the High Court[^key-76dfee48d451564e349b6a65fedd4845]
+### 10. Enforcement by the High Court[^c-76dfee48d451564e349b6a65fedd4845]
 
 If the enforcing authority is of the opinion that proceedings against a person for an offence under Regulation 11(f) would afford an ineffectual remedy against that person, the enforcing authority may take proceedings in the High Court for the purpose of securing compliance with that enforcement notice.
 
-### 11. Additional offences[^key-ff1f4d0093af91f508872977bf116d8f]
+### 11. Additional offences[^c-ff1f4d0093af91f508872977bf116d8f]
 
 A person commits an offence if that person—
 
@@ -192,14 +192,14 @@ A person commits an offence if that person—
 - (g) knowingly or recklessly furnishes any information under Article 27 of the EU Regulation which is false or misleading in any material particular; or
 - (h) intentionally prevents any other person from appearing before an authorised person to provide information, or to answer questions for which an authorised person may require an answer.
 
-### 12. Penalties[^key-664fe3acfd05aea1eddfdc93d4293e5b]
+### 12. Penalties[^c-664fe3acfd05aea1eddfdc93d4293e5b]
 
 A person guilty of an offence under these Regulations is liable—
 
 - (a) on summary conviction, to a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment, to a fine.
 
-### 13. Offences by bodies corporate[^key-42da51099718bb0682366d3c49666412]
+### 13. Offences by bodies corporate[^c-42da51099718bb0682366d3c49666412]
 
 (1) For the purposes of these Regulations, section 20(2) of the Interpretation Act (Northern Ireland) 1954[^f00009] applies with the omission of the words “the liability of whose members is limited”, and where affairs of a body corporate are managed by its members, applies in relation to acts or defaults of a member in connection with the functions of management as if that person were a Director of the body corporate.
 
@@ -221,7 +221,7 @@ A person guilty of an offence under these Regulations is liable—
 
   that officer or member as well as the association is guilty of the offence and liable to be proceeded against and punished accordingly.
 
-### 14. Enforcement[^key-efca2ca93fd17cd6c58fadc4e53b011e]
+### 14. Enforcement[^c-efca2ca93fd17cd6c58fadc4e53b011e]
 
 (1) Subject to paragraphs (2) and (3), the district council must enforce these Regulations.
 
@@ -240,7 +240,7 @@ the Department may direct that the duty imposed by paragraph (1) on the district
 
 (6) The powers in article 72 (powers of enforcing authorities and persons authorised by them) of the 1997 Order are extended to the marine area for the purposes of these Regulations.
 
-### 15. Application to the Crown[^key-d0938aa4b3074011022770b468588793]
+### 15. Application to the Crown[^c-d0938aa4b3074011022770b468588793]
 
 (1) Subject to the provisions of this regulation, these Regulations bind the Crown.
 
@@ -248,7 +248,7 @@ the Department may direct that the duty imposed by paragraph (1) on the district
 
 (3) Notwithstanding paragraph (2), these Regulations must apply to persons in the public service of the Crown as they apply to other persons.
 
-### 16. Revocation[^key-07cc2fe6ecb5fbc5a9d3aa6facd8ba6b]
+### 16. Revocation[^c-07cc2fe6ecb5fbc5a9d3aa6facd8ba6b]
 
 The Environmental Protection (Controls on Ozone-Depleting Substances) Regulations (Northern Ireland) 2003[^f00010] are revoked.
 
@@ -286,13 +286,13 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00003]: Footnote: Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c 51)](https://www.legislation.gov.uk/ukpga/2006/51)
 
-[^key-f6ea8334c204f72f615b227417f3c495]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2011/239/regulation/1) in operation at 31.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/1/1)
+[^c-f6ea8334c204f72f615b227417f3c495]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2011/239/regulation/1) in operation at 31.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/1/1)
 
-[^key-16a45d58cc76a309a547c7168c046c63]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2011/239/regulation/2) in operation at 31.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/1/1)
+[^c-16a45d58cc76a309a547c7168c046c63]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2011/239/regulation/2) in operation at 31.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 1997/2778 (N.I. 19)](https://www.legislation.gov.uk/nisi/1997/2778)
 
-[^key-2097bcd39d9f17798efa1b26c00cbc99]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/2/1) substituted (31.12.2020) by [The Fluorinated Greenhouse Gases and Ozone-Depleting Substances (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/304)](https://www.legislation.gov.uk/nisr/2020/304), [regs. 1(2)(b)](https://www.legislation.gov.uk/nisr/2020/304/regulation/1/2/b), [2(2)](https://www.legislation.gov.uk/nisr/2020/304/regulation/2/2) (with [reg. 1(3)](https://www.legislation.gov.uk/nisr/2020/304/regulation/1/3))
+[^c-2097bcd39d9f17798efa1b26c00cbc99]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/2/1) substituted (31.12.2020) by [The Fluorinated Greenhouse Gases and Ozone-Depleting Substances (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/304)](https://www.legislation.gov.uk/nisr/2020/304), [regs. 1(2)(b)](https://www.legislation.gov.uk/nisr/2020/304/regulation/1/2/b), [2(2)](https://www.legislation.gov.uk/nisr/2020/304/regulation/2/2) (with [reg. 1(3)](https://www.legislation.gov.uk/nisr/2020/304/regulation/1/3))
 
 [^f00005]: Footnote: OJ No L286, 31.10.2009, p1, amended by Commission Regulation (EU) No 744/2010 (OJ No L 218, 19.8.2010, p2).
 
@@ -300,40 +300,40 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00007]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-eba6bdec4b1fa8dc2205bab76ccb90ea]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2011/239/regulation/2/5) inserted (31.12.2020) by [The Fluorinated Greenhouse Gases and Ozone-Depleting Substances (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/281)](https://www.legislation.gov.uk/uksi/2019/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/281/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2019/281/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eba6bdec4b1fa8dc2205bab76ccb90ea]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2011/239/regulation/2/5) inserted (31.12.2020) by [The Fluorinated Greenhouse Gases and Ozone-Depleting Substances (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/281)](https://www.legislation.gov.uk/uksi/2019/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/281/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2019/281/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c7f37ead2772997ae3eee3f84cc27b4e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2011/239/regulation/3) in operation at 31.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/1/1)
+[^c-c7f37ead2772997ae3eee3f84cc27b4e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2011/239/regulation/3) in operation at 31.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/1/1)
 
-[^key-48474fba7f33bf0859ee7c9157050575]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2011/239/regulation/4) in operation at 31.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/1/1)
+[^c-48474fba7f33bf0859ee7c9157050575]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2011/239/regulation/4) in operation at 31.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/1/1)
 
-[^key-a8de72092d868958461a532f180ca4ba]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2011/239/regulation/5) in operation at 31.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/1/1)
+[^c-a8de72092d868958461a532f180ca4ba]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2011/239/regulation/5) in operation at 31.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/1/1)
 
-[^key-557ca65afd5a7726e14f179de27d9732]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2011/239/regulation/6) in operation at 31.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/1/1)
+[^c-557ca65afd5a7726e14f179de27d9732]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2011/239/regulation/6) in operation at 31.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/1/1)
 
-[^key-f5ed340b89abb847af40cd4e4e72b99c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2011/239/regulation/7) in operation at 31.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/1/1)
+[^c-f5ed340b89abb847af40cd4e4e72b99c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2011/239/regulation/7) in operation at 31.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/1/1)
 
-[^key-b40ce90efb2d0263bd4a9ee476c37e41]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2011/239/regulation/8) in operation at 31.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/1/1)
+[^c-b40ce90efb2d0263bd4a9ee476c37e41]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2011/239/regulation/8) in operation at 31.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/1/1)
 
-[^key-5050131b00758cd447935c134678e527]: Textual amendment: Words in [reg. 8(2)(b)](https://www.legislation.gov.uk/nisr/2011/239/regulation/8/2/b) substituted (31.12.2020) by [The Fluorinated Greenhouse Gases and Ozone-Depleting Substances (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/281)](https://www.legislation.gov.uk/uksi/2019/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/281/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2019/281/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5050131b00758cd447935c134678e527]: Textual amendment: Words in [reg. 8(2)(b)](https://www.legislation.gov.uk/nisr/2011/239/regulation/8/2/b) substituted (31.12.2020) by [The Fluorinated Greenhouse Gases and Ozone-Depleting Substances (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/281)](https://www.legislation.gov.uk/uksi/2019/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/281/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2019/281/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dec9a64a62acd058610a8387197b604c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2011/239/regulation/9) in operation at 31.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/1/1)
+[^c-dec9a64a62acd058610a8387197b604c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2011/239/regulation/9) in operation at 31.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/1/1)
 
 [^f00008]: Footnote: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675)
 
-[^key-76dfee48d451564e349b6a65fedd4845]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2011/239/regulation/10) in operation at 31.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/1/1)
+[^c-76dfee48d451564e349b6a65fedd4845]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2011/239/regulation/10) in operation at 31.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/1/1)
 
-[^key-ff1f4d0093af91f508872977bf116d8f]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2011/239/regulation/11) in operation at 31.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/1/1)
+[^c-ff1f4d0093af91f508872977bf116d8f]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2011/239/regulation/11) in operation at 31.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/1/1)
 
-[^key-664fe3acfd05aea1eddfdc93d4293e5b]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2011/239/regulation/12) in operation at 31.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/1/1)
+[^c-664fe3acfd05aea1eddfdc93d4293e5b]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2011/239/regulation/12) in operation at 31.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/1/1)
 
-[^key-42da51099718bb0682366d3c49666412]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2011/239/regulation/13) in operation at 31.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/1/1)
+[^c-42da51099718bb0682366d3c49666412]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2011/239/regulation/13) in operation at 31.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/1/1)
 
 [^f00009]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-efca2ca93fd17cd6c58fadc4e53b011e]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2011/239/regulation/14) in operation at 31.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/1/1)
+[^c-efca2ca93fd17cd6c58fadc4e53b011e]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2011/239/regulation/14) in operation at 31.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/1/1)
 
-[^key-d0938aa4b3074011022770b468588793]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2011/239/regulation/15) in operation at 31.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/1/1)
+[^c-d0938aa4b3074011022770b468588793]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2011/239/regulation/15) in operation at 31.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/1/1)
 
-[^key-07cc2fe6ecb5fbc5a9d3aa6facd8ba6b]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2011/239/regulation/16) in operation at 31.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/1/1)
+[^c-07cc2fe6ecb5fbc5a9d3aa6facd8ba6b]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2011/239/regulation/16) in operation at 31.7.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/239/regulation/1/1)
 
 [^f00010]: Footnote: [S.R. 2003 No. 97](https://www.legislation.gov.uk/nisr/2003/97)

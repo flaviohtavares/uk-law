@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 2024-02-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/14
 
-## 39ZA. Certificates[^key-e6ef08914b9896abceb80add243b04a2][^key-1476ab3d90ce7622feb815793f21073e]
+## 39ZA. Certificates[^c-e6ef08914b9896abceb80add243b04a2][^c-1476ab3d90ce7622feb815793f21073e]
 
 A document bearing a certificate which—
 
@@ -25,6 +25,6 @@ shall be conclusive evidence of the decision; and a certificate purporting to be
 
 ## Annotations
 
-[^key-e6ef08914b9896abceb80add243b04a2]: Modification: S. 39ZA applied (with modifications) (6.4.2010) by [The National Insurance Contribution Credits (Transfer of Functions) Order 2009 (S.I. 2009/1377)](https://www.legislation.gov.uk/uksi/2009/1377), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1377/article/1/1), [3(2)(s)](https://www.legislation.gov.uk/uksi/2009/1377/article/3/2/s), [4](https://www.legislation.gov.uk/uksi/2009/1377/article/4)
+[^c-e6ef08914b9896abceb80add243b04a2]: Modification: S. 39ZA applied (with modifications) (6.4.2010) by [The National Insurance Contribution Credits (Transfer of Functions) Order 2009 (S.I. 2009/1377)](https://www.legislation.gov.uk/uksi/2009/1377), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1377/article/1/1), [3(2)(s)](https://www.legislation.gov.uk/uksi/2009/1377/article/3/2/s), [4](https://www.legislation.gov.uk/uksi/2009/1377/article/4)
 
-[^key-1476ab3d90ce7622feb815793f21073e]: Textual amendment: S. 39ZA inserted (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 166](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/166)
+[^c-1476ab3d90ce7622feb815793f21073e]: Textual amendment: S. 39ZA inserted (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 166](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/166)

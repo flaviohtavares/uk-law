@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Meaning of “air weapon”[^key-041070d83d1995f6d2451d51ae0fd123]
+## 1. Meaning of “air weapon”[^c-041070d83d1995f6d2451d51ae0fd123]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-041070d83d1995f6d2451d51ae0fd123]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2015/10/section/1) in force at 1.12.2015 by [S.S.I. 2015/382](https://www.legislation.gov.uk/ssi/2015/382), [art. 2](https://www.legislation.gov.uk/ssi/2015/382/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/382/schedule)
+[^c-041070d83d1995f6d2451d51ae0fd123]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2015/10/section/1) in force at 1.12.2015 by [S.S.I. 2015/382](https://www.legislation.gov.uk/ssi/2015/382), [art. 2](https://www.legislation.gov.uk/ssi/2015/382/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/382/schedule)

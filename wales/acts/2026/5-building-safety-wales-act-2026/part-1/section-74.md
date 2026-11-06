@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74. Provision of building safety information to tenants[^key-269f87744c79df8e7a82263448c06667]
+## 74. Provision of building safety information to tenants[^c-269f87744c79df8e7a82263448c06667]
 
 *Extent: E+W*
 
@@ -97,4 +97,4 @@ summary: ''
 
 ## Annotations
 
-[^key-269f87744c79df8e7a82263448c06667]: Commencement: S. 74 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-269f87744c79df8e7a82263448c06667]: Commencement: S. 74 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

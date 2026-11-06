@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Step-in by Ministers[^key-c985e8c28a0ac0a943864cf56b1d5c02]
+## 44. Step-in by Ministers[^c-c985e8c28a0ac0a943864cf56b1d5c02]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c985e8c28a0ac0a943864cf56b1d5c02]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2010/16/section/44) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-c985e8c28a0ac0a943864cf56b1d5c02]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2010/16/section/44) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

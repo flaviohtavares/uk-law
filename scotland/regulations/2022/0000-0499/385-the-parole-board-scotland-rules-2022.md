@@ -48,13 +48,13 @@ The Scottish Ministers make the following Rules in exercise of the powers confer
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and application[^key-74aeccd45109befa463c5ae9ae688d63]
+### 1. Citation, commencement and application[^c-74aeccd45109befa463c5ae9ae688d63]
 
 (1) These Rules may be cited as the Parole Board (Scotland) Rules 2022 and come into force on 1 April 2023.
 
 (2) These Rules apply to every case referred by the Scottish Ministers to the Board on or after 1 April 2023.
 
-### 2. Interpretation[^key-ecff89c499a873326cabcfe9c27c3290]
+### 2. Interpretation[^c-ecff89c499a873326cabcfe9c27c3290]
 
 In these Rules, except where the context otherwise requires—
 
@@ -85,7 +85,7 @@ In these Rules, except where the context otherwise requires—
 
 ## PART 2 — General Rules
 
-### 3. Application and interpretation of Part[^key-42f9412443e39cc649e4da185011615f]
+### 3. Application and interpretation of Part[^c-42f9412443e39cc649e4da185011615f]
 
 (1) Subject to paragraph (2), and except where otherwise expressly provided, this Part applies to every case referred by the Scottish Ministers to the Board.
 
@@ -98,11 +98,11 @@ In these Rules, except where the context otherwise requires—
 
 (3) In this Part, references to a “**panel**” in relation to anything done in respect of a case are to the casework panel or, as the case may be, oral hearing panel appointed under rule 7 to consider the case.
 
-### 4. Notification of referral of case[^key-1269e9ccc874e32a2fd05edac0247056]
+### 4. Notification of referral of case[^c-1269e9ccc874e32a2fd05edac0247056]
 
 When a case is referred to the Board the Scottish Ministers must at the same time notify the person concerned, in writing, that the case has been referred.
 
-### 5. Scottish Ministers’ Dossier[^key-67315c728713f336e4497294f726699d]
+### 5. Scottish Ministers’ Dossier[^c-67315c728713f336e4497294f726699d]
 
 (1) When a case is referred to the Board, the Scottish Ministers must send information and documents to the Board and, subject to Rule 9, to the person concerned in accordance with this rule.
 
@@ -118,7 +118,7 @@ When a case is referred to the Board the Scottish Ministers must at the same tim
 
 (4) The information mentioned in paragraphs (2) and (3) must be sent no later than 10 working days after the case is referred to the Board.
 
-### 6. Procedure applying to consideration of a case[^key-a173aad1ff767888aa89c0516006fd0e]
+### 6. Procedure applying to consideration of a case[^c-a173aad1ff767888aa89c0516006fd0e]
 
 (1) An indeterminate case must be considered under the procedure in Part 4.
 
@@ -131,7 +131,7 @@ When a case is referred to the Board the Scottish Ministers must at the same tim
 
 (4) The Board may grant or refuse an application made under paragraph (3) and must give each party written notice of that decision and, where the request is refused, of the reasons for that decision.
 
-### 7. Composition of panel to consider case[^key-82d4eb10613b667b8d210b9ebd007b40]
+### 7. Composition of panel to consider case[^c-82d4eb10613b667b8d210b9ebd007b40]
 
 (1) Subject to paragraphs (3) and (7), a casework panel of any 2 or 3 members of the Board is to be appointed for the purpose of—
 
@@ -169,7 +169,7 @@ is to be designated as chairperson of the oral hearing panel.
 - (b) a current or former Senator of the College of Justice, or
 - (c) a current or former sheriff principal, sheriff, or summary sheriff.
 
-### 8. Preliminary hearings[^key-526873580215b5ed46dd08f873236f88]
+### 8. Preliminary hearings[^c-526873580215b5ed46dd08f873236f88]
 
 (1) A preliminary hearing for the purpose of any matter relating to a case is to be conducted in accordance with this rule.
 
@@ -190,7 +190,7 @@ is to be designated as chairperson of the oral hearing panel.
 
 (8) Following a preliminary hearing the decision of the person or persons conducting the hearing is to be recorded in writing, together with a statement of the reasons for that decision, and sent to the parties within 10 working days of the conclusion of that hearing.
 
-### 9. Non-disclosure of information[^key-29dbf1ed6c1a0ecadc1ff7af756eef6b]
+### 9. Non-disclosure of information[^c-29dbf1ed6c1a0ecadc1ff7af756eef6b]
 
 (1) This rule applies where information mentioned in paragraph (2) is determined by the Scottish Ministers, a panel or the Board, as the case may be, to be information which should not be disclosed to the person concerned (“damaging information”) for one of the following reasons—
 
@@ -237,7 +237,7 @@ is to be designated as chairperson of the oral hearing panel.
 - “**special advocate**” means an independent solicitor or advocate,
 - “**victim**” means any victim of the offence for which the person concerned’s current sentence was imposed.
 
-### 10. Written representations[^key-6b2ad64fcc6b34158e569f869721d407]
+### 10. Written representations[^c-6b2ad64fcc6b34158e569f869721d407]
 
 (1) The person concerned may submit written representations in relation to their case, together with any other information or document which that person considers to be relevant and wishes the panel to take into account, within four weeks of the date on which the dossier information is sent to the person under rule 5.
 
@@ -247,7 +247,7 @@ is to be designated as chairperson of the oral hearing panel.
 
 (4) Representations under paragraph (2) may, in particular, include representations about the non-disclosure of any damaging information to which a written notice under rule 9(3)(b) relates.
 
-### 11. Matters to be taken into account[^key-4e1858e832f304ac8c7f1fddad5886cd]
+### 11. Matters to be taken into account[^c-4e1858e832f304ac8c7f1fddad5886cd]
 
 (1) In considering a case, the panel must take into account the likely impact of any of its decisions on the safety and security of any victim or of any family member of a victim.
 
@@ -263,7 +263,7 @@ is to be designated as chairperson of the oral hearing panel.
 
 (4) Paragraph (1) does not oblige the panel to seek supplementary information relative to a victim or family members of a victim.
 
-### 12. Additional matter to be taken into account in certain cases[^key-4605ea07f0ccaefe39f4414d24a3a818]
+### 12. Additional matter to be taken into account in certain cases[^c-4605ea07f0ccaefe39f4414d24a3a818]
 
 (1) This rule applies to a case where—
 
@@ -277,7 +277,7 @@ is to be designated as chairperson of the oral hearing panel.
 
 (3) In this rule, “**victim**” means any victim of the offence for which the sentence mentioned in paragraph (1)(a) was imposed.
 
-### 13. Confidentiality[^key-6234ba82ade0d8f576c9d3c8198e7135]
+### 13. Confidentiality[^c-6234ba82ade0d8f576c9d3c8198e7135]
 
 (1) The information to which this rule applies must not be disclosed either directly or indirectly to any person not involved in the proceedings to which the information relates or to the public, unless an exception listed in paragraph (3) applies.
 
@@ -293,7 +293,7 @@ is to be designated as chairperson of the oral hearing panel.
 - (b) to the extent necessary in connection with any court proceedings or any person’s statutory functions, or
 - (c) to the extent necessary for the purpose of a summary published under rule 34.
 
-### 14. Time[^key-6a3af7fc188540d91809f3f456ded980]
+### 14. Time[^c-6a3af7fc188540d91809f3f456ded980]
 
 (1) If the period of time specified in these Rules for doing an act expires on a Saturday, Sunday or bank holiday, the act is done in time if it is done on the next working day.
 
@@ -301,7 +301,7 @@ is to be designated as chairperson of the oral hearing panel.
 
 (3) If a panel or the Board varies a period of time under this Rule, it must have regard to the desirability of avoiding unnecessary delay in relation to the case, and the need to ensure fairness to the parties.
 
-### 15. Sending of documents[^key-9a2f5bc4d00227387c0d00608927dfca]
+### 15. Sending of documents[^c-9a2f5bc4d00227387c0d00608927dfca]
 
 Any application, document, notice, or other written material which, under these Rules, may or must be made, served, given, sent or otherwise transmitted to any person may be sent—
 
@@ -310,7 +310,7 @@ Any application, document, notice, or other written material which, under these 
   - (i) where the intended recipient is the Board, a panel or any member of the Board or member of a panel, to the office of the Board, and
   - (ii) in any other case, to the last known address of the intended recipient.
 
-### 16. Format of parole proceedings[^key-3dfc3a5ed4fb3f9a3a324e7f838c3aa8]
+### 16. Format of parole proceedings[^c-3dfc3a5ed4fb3f9a3a324e7f838c3aa8]
 
 (1) Subject to this Rule, proceedings of a panel or, as the case may be, of the Board are to take place by live link.
 
@@ -331,13 +331,13 @@ Any application, document, notice, or other written material which, under these 
 
   while not present in the same place.
 
-### 17. Exercise of functions[^key-3fc205db9e264c53dde162368f144fd9]
+### 17. Exercise of functions[^c-3fc205db9e264c53dde162368f144fd9]
 
 (1) Where the chairperson of a panel is unable for any reason to exercise a function conferred on them by these Rules, the function may be exercised instead by the chairperson of the Board.
 
 (2) Where a function which is conferred by this Part on the Board is exercised by a panel by virtue of rule 7(1), that does not prevent the Board exercising that function.
 
-### 18. Correction of irregularities and errors[^key-d2097726be2abf6e4241160ee5ac415d]
+### 18. Correction of irregularities and errors[^c-d2097726be2abf6e4241160ee5ac415d]
 
 (1) Any irregularity in the proceedings of a panel or, as the case may be, the Board resulting from failure to comply with any provision of these Rules or of any direction under these Rules does not of itself render the proceedings void.
 
@@ -350,7 +350,7 @@ give such directions as appear to them to be appropriate to address the irregula
 
 (3) Where a document recording a decision under these Rules contains a mistake (including a clerical or factual error or omission or another accidental inaccuracy), the chairperson of the Board, or of the panel which made the decision in question, may issue a written correction slip to correct the mistake.
 
-### 19. Reconsideration of panel decisions[^key-65a11bbf508e45bd11cd02de50e89b08]
+### 19. Reconsideration of panel decisions[^c-65a11bbf508e45bd11cd02de50e89b08]
 
 (1) Subject to paragraph (2) the decision of a panel in relation to a case may be reconsidered under this Rule.
 
@@ -373,7 +373,7 @@ give such directions as appear to them to be appropriate to address the irregula
 
 ## PART 3 — Procedure for cases to be determined by casework panel
 
-### 20. General procedure of casework panel[^key-2ea2fbe64cb84acf7c2d31a643241c0d]
+### 20. General procedure of casework panel[^c-2ea2fbe64cb84acf7c2d31a643241c0d]
 
 (1) Other than as provided for under these Rules, a casework panel may regulate its own procedure for considering a case under this Part.
 
@@ -387,11 +387,11 @@ give such directions as appear to them to be appropriate to address the irregula
 
 (3) In this rule, “**victim**” means any victim of the offence for which the person concerned’s current sentence was imposed.
 
-### 21. Information for casework panel consideration of case[^key-cf79256c201e4a2bfd3b5c458bd1e48c]
+### 21. Information for casework panel consideration of case[^c-cf79256c201e4a2bfd3b5c458bd1e48c]
 
 A casework panel may request information or documents from any person in relation to a case to be considered by the panel.
 
-### 22. Decision of casework panel[^key-5c12f80dbd88ee2750889ab89aa27508]
+### 22. Decision of casework panel[^c-5c12f80dbd88ee2750889ab89aa27508]
 
 (1) A casework panel of 2 members must reach a decision by unanimous agreement.
 
@@ -409,13 +409,13 @@ A casework panel may request information or documents from any person in relatio
 
 ## PART 4 — Procedure for cases to be determined by an oral hearing panel
 
-### 23. General procedure of oral hearing panel[^key-a15711faecaa3180250b21d607603e91]
+### 23. General procedure of oral hearing panel[^c-a15711faecaa3180250b21d607603e91]
 
 (1) Subject to the provisions of these Rules, an oral hearing panel may regulate its own procedure for the purpose of a case to be determined under this Part.
 
 (2) A case to which this Part applies is to be determined following an oral hearing in accordance with this Part, unless the parties and the panel agree that the case may be determined without an oral hearing.
 
-### 24. Directions[^key-9bde4814e38a44478f87baa2ba3528f3]
+### 24. Directions[^c-9bde4814e38a44478f87baa2ba3528f3]
 
 (1) The chairperson of an oral hearing panel must consider the need for directions to be made under this rule in respect of a case and may make, vary, or revoke such directions, including directions in respect of —
 
@@ -430,7 +430,7 @@ A casework panel may request information or documents from any person in relatio
 
 (4) Representations mentioned in paragraph (3) may be made in writing or at a preliminary hearing.
 
-### 25. Date and notice period of oral hearing[^key-ae3856f1b86da3a87d66662ee4f5fd93]
+### 25. Date and notice period of oral hearing[^c-ae3856f1b86da3a87d66662ee4f5fd93]
 
 (1) Subject to paragraph (2), and unless the parties otherwise agree to a shorter period, the oral hearing panel must give the parties and any person authorised to attend a hearing under rule 26, 27(3), 29 or 30 not less than 15 working days’ notice of the date and time at which the hearing will be held, together with such other information about the hearing as is necessary to enable those persons to attend the hearing.
 
@@ -443,7 +443,7 @@ A casework panel may request information or documents from any person in relatio
 - (a) in a case where the date, time and place for the hearing to continue are announced before the adjournment, no further notice will be required,
 - (b) in any other case, the panel must give the persons notified under paragraph (1) no less than 5 working days’ notice of the date, time and place for the hearing to continue.
 
-### 26. Representation of parties at oral hearing[^key-529eb21a905ebef5e901c5eae25389c2]
+### 26. Representation of parties at oral hearing[^c-529eb21a905ebef5e901c5eae25389c2]
 
 (1) Subject to this rule, any person authorised by a party for that purpose may represent a party at an oral hearing.
 
@@ -460,7 +460,7 @@ A casework panel may request information or documents from any person in relatio
 
 (6) Where the panel is considering making arrangements under paragraph (5)(b), it may seek information, recommendations or reports from such persons as appear to it to be suitably qualified or experienced in the field of mental capacity and mental welfare to assist with the panel’s appointment of a representative.
 
-### 27. Attendance at oral hearing[^key-7a2449d3d30f2afdc497bd838f091105]
+### 27. Attendance at oral hearing[^c-7a2449d3d30f2afdc497bd838f091105]
 
 (1) An oral hearing under this Part is to be held in private.
 
@@ -476,7 +476,7 @@ A casework panel may request information or documents from any person in relatio
 
 (3) The panel may also at any time authorise any person, other than a person to whom rule 30 applies, to attend a hearing for such purpose and on such terms and conditions as the panel considers appropriate.
 
-### 28. Citation of persons to attend oral hearing[^key-f28d3ef5f8e853e375a258e16a6ae55a]
+### 28. Citation of persons to attend oral hearing[^c-f28d3ef5f8e853e375a258e16a6ae55a]
 
 (1) For the purposes of requiring any person to attend an oral hearing under this Part to give evidence, or to produce information or documents, the provisions of subsections (4) and (5) of section 210 of the Local Government (Scotland) Act 1973[^f00015] apply as if—
 
@@ -504,7 +504,7 @@ A casework panel may request information or documents from any person in relatio
 - (b) include an explanation of the reason why the person is required to attend the oral hearing,
 - (c) be sent by the Board to that person (and a copy sent to each party) as soon as practicable.
 
-### 29. Other persons accompanying the person concerned[^key-ffe52d988528c8c242ae1e5411bf1bfa]
+### 29. Other persons accompanying the person concerned[^c-ffe52d988528c8c242ae1e5411bf1bfa]
 
 (1) The person concerned may apply in writing to the oral hearing panel to authorise a person or persons to accompany them at the oral hearing as a support person or persons.
 
@@ -516,7 +516,7 @@ A casework panel may request information or documents from any person in relatio
 
 (5) The chairperson of the panel may grant or refuse an application under paragraph (1) and must give each party written notice of that decision and, where the application is refused, of the reasons for that decision.
 
-### 30. Observation of oral hearing by victim[^key-e7524d780d436abea0e3697e608135e1]
+### 30. Observation of oral hearing by victim[^c-e7524d780d436abea0e3697e608135e1]
 
 (1) This rule applies to indeterminate cases only.
 
@@ -543,7 +543,7 @@ A casework panel may request information or documents from any person in relatio
   - (i) intimated under section 17(2) of the Criminal Justice (Scotland) Act 2003[^f00016] that they wish to be afforded the opportunity to make representations in respect of decisions to release a convicted person on licence, or
   - (ii) intimated under section 17(11) of that Act that they wish to receive information under that section.
 
-### 31. Written statement of preparation[^key-c17c98e28849e3eb451cb16a51b55abf]
+### 31. Written statement of preparation[^c-c17c98e28849e3eb451cb16a51b55abf]
 
 (1) Not later than 10 working days before the date of the oral hearing, the person concerned (or their representative) must send the panel a statement indicating the extent to which that person is prepared for the oral hearing.
 
@@ -551,7 +551,7 @@ A casework panel may request information or documents from any person in relatio
 
 (3) Where an oral hearing is postponed under paragraph (2), the requirement in paragraph (1), and any requirements in other provisions of this Part, apply as if the reference to the date of the hearing was a reference to the postponed hearing date.
 
-### 32. Procedure at oral hearing[^key-0451ae479585f4fc71e5879d6dd691d3]
+### 32. Procedure at oral hearing[^c-0451ae479585f4fc71e5879d6dd691d3]
 
 (1) At the beginning of an oral hearing, the chairperson of the panel must explain the order of proceeding which the panel proposes to adopt at the hearing.
 
@@ -570,7 +570,7 @@ A casework panel may request information or documents from any person in relatio
 
 (6) The panel may consider any document or information notwithstanding that it would be inadmissible in proceedings before a court of law but no person may by virtue of these Rules be compelled to give any evidence or to produce any document which that person could not be compelled to give or produce in proceedings before a court of law.
 
-### 33. Decision of oral hearing panel[^key-e7f709e241608cfbff88fe52018d9806]
+### 33. Decision of oral hearing panel[^c-e7f709e241608cfbff88fe52018d9806]
 
 (1) An oral hearing panel of 3 members may reach its decision by majority.
 
@@ -586,7 +586,7 @@ A casework panel may request information or documents from any person in relatio
 
 (5) The decision minute must be sent to the parties not later than 10 working days after the end of the oral hearing.
 
-### 34. Publication of decision summary[^key-33f54fb46607de883ab29783631dac47]
+### 34. Publication of decision summary[^c-33f54fb46607de883ab29783631dac47]
 
 (1) This rule applies to indeterminate cases only.
 
@@ -607,7 +607,7 @@ A casework panel may request information or documents from any person in relatio
 
 ## PART 5 — Revocation, transitional and savings provision
 
-**35.**[^key-65d820b3ed44b8a6c5213e1ad80958d8] (1) Subject to paragraphs (3),(4) and (5), the instruments listed in schedule 2 are revoked.
+**35.**[^c-65d820b3ed44b8a6c5213e1ad80958d8] (1) Subject to paragraphs (3),(4) and (5), the instruments listed in schedule 2 are revoked.
 
 (2) Subject to paragraph (5), where a case has been referred to the Board before 1 April 2023, but a decision has not been made in respect of that case, these Rules apply to that case as if it had been referred on or after that date.
 
@@ -636,24 +636,24 @@ Edinburgh
 
 Rule 5
 
-**1.**[^key-3fb44b6e7c7fc711d089d1df4bced537] A cover note including—
+**1.**[^c-3fb44b6e7c7fc711d089d1df4bced537] A cover note including—
 
 - (a) the full name, date of birth, and prisoner number of the person concerned,
 - (b) where applicable, the place in which the person concerned is detained, and other places in which that person has been detained,
 - (c) the person’s current sentence or sentences and an indication of the circumstances of the offence or offences for which that sentence or those sentences were imposed, and
 - (d) any significant dates in relation to the current sentence or sentences, including where applicable the parole qualifying date, the earliest day of liberation, the licence end date, the sentence end date, the dates of any recall or revocation of the person’s licence, and the duration and date of expiry of any punishment part.
 
-**2.**[^key-08128bd3a87f0f3b4113bd70029bab0e] A record of any other offences of which a court has found the person concerned guilty, together with a note of the sentence or other disposal ordered on such findings.
+**2.**[^c-08128bd3a87f0f3b4113bd70029bab0e] A record of any other offences of which a court has found the person concerned guilty, together with a note of the sentence or other disposal ordered on such findings.
 
-**3.**[^key-853a904b841bb334b3cb7b04506affbe] A document setting out the sentence calculation applicable to the current sentence or sentences.
+**3.**[^c-853a904b841bb334b3cb7b04506affbe] A document setting out the sentence calculation applicable to the current sentence or sentences.
 
-**4.**[^key-2e9fd3b765a51f05eb52f04c4dcd4987] A copy of any report on the person concerned made while the person was subject to a transfer for treatment direction under section 136 of the Mental Health (Care and Treatment) (Scotland) Act 2003[^f00019].
+**4.**[^c-2e9fd3b765a51f05eb52f04c4dcd4987] A copy of any report on the person concerned made while the person was subject to a transfer for treatment direction under section 136 of the Mental Health (Care and Treatment) (Scotland) Act 2003[^f00019].
 
-**5.**[^key-51573f7864fe59380be83a9231fb2ad4] Up-to-date reports by those involved in supervising, caring for or counselling the person concerned, relating to that person’s circumstances (including home background), behaviour, and suitability for release or, as the case may be, re-release on licence.
+**5.**[^c-51573f7864fe59380be83a9231fb2ad4] Up-to-date reports by those involved in supervising, caring for or counselling the person concerned, relating to that person’s circumstances (including home background), behaviour, and suitability for release or, as the case may be, re-release on licence.
 
-**6.**[^key-45270322263b25cbe6587e6dccdf72c7] In a case where a risk management plan is required to be prepared a copy of the most recent risk management plan in respect of the person concerned, together with any available supplementary information about that plan.
+**6.**[^c-45270322263b25cbe6587e6dccdf72c7] In a case where a risk management plan is required to be prepared a copy of the most recent risk management plan in respect of the person concerned, together with any available supplementary information about that plan.
 
-**7.**[^key-34bf41c3ae2ae1c749ac891ef7a22ab1] In an indeterminate case—
+**7.**[^c-34bf41c3ae2ae1c749ac891ef7a22ab1] In an indeterminate case—
 
 - (a) a copy of the judgement of the Sheriff Appeal Court or the High Court on any appeal by the person concerned against the current sentence or sentences or the convictions on which that sentence was, or those sentences were, imposed,
 - (b) a copy of any trial judge report in relation to the case,
@@ -666,19 +666,19 @@ Rule 5
 
 Rule 35
 
-**1.**[^key-47989886537f5fb2b016b6aa8b0f3bce] The Parole Board (Scotland) Rules 2001[^f00020]
+**1.**[^c-47989886537f5fb2b016b6aa8b0f3bce] The Parole Board (Scotland) Rules 2001[^f00020]
 
-**2.**[^key-3180c50e24adcd16ad92886e0179ea3c] The Parole Board (Scotland) Amendment Rules 2010[^f00021].
+**2.**[^c-3180c50e24adcd16ad92886e0179ea3c] The Parole Board (Scotland) Amendment Rules 2010[^f00021].
 
-**3.**[^key-8d4ad24979096d329265c0cf9f74733b] The Parole Board (Scotland) Amendment Rules 2011[^f00022].
+**3.**[^c-8d4ad24979096d329265c0cf9f74733b] The Parole Board (Scotland) Amendment Rules 2011[^f00022].
 
-**4.**[^key-ada20f1a1d176a65e1d1422cd5cd8d7d] The Parole Board (Scotland) Amendment Rules 2012[^f00023].
+**4.**[^c-ada20f1a1d176a65e1d1422cd5cd8d7d] The Parole Board (Scotland) Amendment Rules 2012[^f00023].
 
-**5.**[^key-ab997a31b07dd134731e8443abd5f5ae] The Parole Board (Scotland) Amendment (No. 2) Rules 2012[^f00024].
+**5.**[^c-ab997a31b07dd134731e8443abd5f5ae] The Parole Board (Scotland) Amendment (No. 2) Rules 2012[^f00024].
 
-**6.**[^key-76b607ad4255c6fa9cb70c29c91602b9] The Parole Board (Scotland) Amendment Rules 2021[^f00025].
+**6.**[^c-76b607ad4255c6fa9cb70c29c91602b9] The Parole Board (Scotland) Amendment Rules 2021[^f00025].
 
-**7.**[^key-cc85a526114f3c872224f485076707c1] The Parole Board (Scotland) Amendment Rules 2022[^f00026].
+**7.**[^c-cc85a526114f3c872224f485076707c1] The Parole Board (Scotland) Amendment Rules 2022[^f00026].
 
 EXPLANATORY NOTE
 
@@ -702,9 +702,9 @@ An Equality Impact Assessment has been prepared in respect of these Rules and pl
 
 [^f00001]: Footnote: [1993 c. 9](https://www.legislation.gov.uk/ukpga/1993/9). Section 20(4) was amended by the Crime and Disorder Act [1998 (c. 37)](https://www.legislation.gov.uk/ukpga/1998/37), schedule 8 paragraph 106 and the Convention Rights Compliance (Scotland) Act [2001 asp 7](https://www.legislation.gov.uk/asp/2001/7) (“**the 2001 Act**”), section 5(1)(b). Subsection (4A) was inserted by the 2001 Act, section 5(1)(c). Subsection (4B) was inserted by the Management of Offenders (Scotland) Act [2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14) (“**the 2019 Act**”), section 52(2). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of Section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-74aeccd45109befa463c5ae9ae688d63]: Commencement: [Rule 1](https://www.legislation.gov.uk/ssi/2022/385/rule/1) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-74aeccd45109befa463c5ae9ae688d63]: Commencement: [Rule 1](https://www.legislation.gov.uk/ssi/2022/385/rule/1) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
-[^key-ecff89c499a873326cabcfe9c27c3290]: Commencement: [Rule 2](https://www.legislation.gov.uk/ssi/2022/385/rule/2) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-ecff89c499a873326cabcfe9c27c3290]: Commencement: [Rule 2](https://www.legislation.gov.uk/ssi/2022/385/rule/2) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
 [^f00002]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
 
@@ -726,126 +726,126 @@ An Equality Impact Assessment has been prepared in respect of these Rules and pl
 
 [^f00011]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-42f9412443e39cc649e4da185011615f]: Commencement: [Rule 3](https://www.legislation.gov.uk/ssi/2022/385/rule/3) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-42f9412443e39cc649e4da185011615f]: Commencement: [Rule 3](https://www.legislation.gov.uk/ssi/2022/385/rule/3) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
 [^f00012]: Footnote: Section 17(1) and (1A) were substituted by section 36(4) of the 2003 Act.
 
-[^key-1269e9ccc874e32a2fd05edac0247056]: Commencement: [Rule 4](https://www.legislation.gov.uk/ssi/2022/385/rule/4) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-1269e9ccc874e32a2fd05edac0247056]: Commencement: [Rule 4](https://www.legislation.gov.uk/ssi/2022/385/rule/4) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
-[^key-67315c728713f336e4497294f726699d]: Commencement: [Rule 5](https://www.legislation.gov.uk/ssi/2022/385/rule/5) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-67315c728713f336e4497294f726699d]: Commencement: [Rule 5](https://www.legislation.gov.uk/ssi/2022/385/rule/5) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
 [^f00013]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46); section 210F was inserted by section 1 of the Criminal Justice (Scotland) Act [2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7) (“**the 2003 Act**”) and relevantly amended by the Management of Offenders (Scotland) Act [2005 (asp 14)](https://www.legislation.gov.uk/asp/2005/14), section 14(2) and (3).
 
 [^f00014]: Footnote: The Risk Management Authority was established by section 3 of the 2003 Act.
 
-[^key-a173aad1ff767888aa89c0516006fd0e]: Commencement: [Rule 6](https://www.legislation.gov.uk/ssi/2022/385/rule/6) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-a173aad1ff767888aa89c0516006fd0e]: Commencement: [Rule 6](https://www.legislation.gov.uk/ssi/2022/385/rule/6) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
-[^key-82d4eb10613b667b8d210b9ebd007b40]: Commencement: [Rule 7](https://www.legislation.gov.uk/ssi/2022/385/rule/7) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-82d4eb10613b667b8d210b9ebd007b40]: Commencement: [Rule 7](https://www.legislation.gov.uk/ssi/2022/385/rule/7) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
-[^key-526873580215b5ed46dd08f873236f88]: Commencement: [Rule 8](https://www.legislation.gov.uk/ssi/2022/385/rule/8) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-526873580215b5ed46dd08f873236f88]: Commencement: [Rule 8](https://www.legislation.gov.uk/ssi/2022/385/rule/8) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
-[^key-29dbf1ed6c1a0ecadc1ff7af756eef6b]: Commencement: [Rule 9](https://www.legislation.gov.uk/ssi/2022/385/rule/9) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-29dbf1ed6c1a0ecadc1ff7af756eef6b]: Commencement: [Rule 9](https://www.legislation.gov.uk/ssi/2022/385/rule/9) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
-[^key-6b2ad64fcc6b34158e569f869721d407]: Commencement: [Rule 10](https://www.legislation.gov.uk/ssi/2022/385/rule/10) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-6b2ad64fcc6b34158e569f869721d407]: Commencement: [Rule 10](https://www.legislation.gov.uk/ssi/2022/385/rule/10) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
-[^key-4e1858e832f304ac8c7f1fddad5886cd]: Textual amendment: Rule 11 substituted (25.3.2026) by [The Parole Board (Scotland) Amendment Rules 2026 (S.S.I. 2026/82)](https://www.legislation.gov.uk/ssi/2026/82), [rules 1(1)](https://www.legislation.gov.uk/ssi/2026/82/rule/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2026/82/rule/2/2) (with [rule 1(2)](https://www.legislation.gov.uk/ssi/2026/82/rule/1/2))
+[^c-4e1858e832f304ac8c7f1fddad5886cd]: Textual amendment: Rule 11 substituted (25.3.2026) by [The Parole Board (Scotland) Amendment Rules 2026 (S.S.I. 2026/82)](https://www.legislation.gov.uk/ssi/2026/82), [rules 1(1)](https://www.legislation.gov.uk/ssi/2026/82/rule/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2026/82/rule/2/2) (with [rule 1(2)](https://www.legislation.gov.uk/ssi/2026/82/rule/1/2))
 
-[^key-4605ea07f0ccaefe39f4414d24a3a818]: Textual amendment: Rule 12 substituted (25.3.2026) by [The Parole Board (Scotland) Amendment Rules 2026 (S.S.I. 2026/82)](https://www.legislation.gov.uk/ssi/2026/82), [rules 1(1)](https://www.legislation.gov.uk/ssi/2026/82/rule/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2026/82/rule/2/3) (with [rule 1(2)](https://www.legislation.gov.uk/ssi/2026/82/rule/1/2))
+[^c-4605ea07f0ccaefe39f4414d24a3a818]: Textual amendment: Rule 12 substituted (25.3.2026) by [The Parole Board (Scotland) Amendment Rules 2026 (S.S.I. 2026/82)](https://www.legislation.gov.uk/ssi/2026/82), [rules 1(1)](https://www.legislation.gov.uk/ssi/2026/82/rule/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2026/82/rule/2/3) (with [rule 1(2)](https://www.legislation.gov.uk/ssi/2026/82/rule/1/2))
 
-[^key-6234ba82ade0d8f576c9d3c8198e7135]: Commencement: [Rule 13](https://www.legislation.gov.uk/ssi/2022/385/rule/13) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-6234ba82ade0d8f576c9d3c8198e7135]: Commencement: [Rule 13](https://www.legislation.gov.uk/ssi/2022/385/rule/13) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
-[^key-6a3af7fc188540d91809f3f456ded980]: Commencement: [Rule 14](https://www.legislation.gov.uk/ssi/2022/385/rule/14) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-6a3af7fc188540d91809f3f456ded980]: Commencement: [Rule 14](https://www.legislation.gov.uk/ssi/2022/385/rule/14) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
-[^key-9a2f5bc4d00227387c0d00608927dfca]: Commencement: [Rule 15](https://www.legislation.gov.uk/ssi/2022/385/rule/15) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-9a2f5bc4d00227387c0d00608927dfca]: Commencement: [Rule 15](https://www.legislation.gov.uk/ssi/2022/385/rule/15) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
-[^key-3dfc3a5ed4fb3f9a3a324e7f838c3aa8]: Commencement: [Rule 16](https://www.legislation.gov.uk/ssi/2022/385/rule/16) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-3dfc3a5ed4fb3f9a3a324e7f838c3aa8]: Commencement: [Rule 16](https://www.legislation.gov.uk/ssi/2022/385/rule/16) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
-[^key-3fc205db9e264c53dde162368f144fd9]: Commencement: [Rule 17](https://www.legislation.gov.uk/ssi/2022/385/rule/17) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-3fc205db9e264c53dde162368f144fd9]: Commencement: [Rule 17](https://www.legislation.gov.uk/ssi/2022/385/rule/17) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
-[^key-d2097726be2abf6e4241160ee5ac415d]: Commencement: [Rule 18](https://www.legislation.gov.uk/ssi/2022/385/rule/18) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-d2097726be2abf6e4241160ee5ac415d]: Commencement: [Rule 18](https://www.legislation.gov.uk/ssi/2022/385/rule/18) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
-[^key-65a11bbf508e45bd11cd02de50e89b08]: Commencement: [Rule 19](https://www.legislation.gov.uk/ssi/2022/385/rule/19) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-65a11bbf508e45bd11cd02de50e89b08]: Commencement: [Rule 19](https://www.legislation.gov.uk/ssi/2022/385/rule/19) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
-[^key-2ea2fbe64cb84acf7c2d31a643241c0d]: Commencement: [Rule 20](https://www.legislation.gov.uk/ssi/2022/385/rule/20) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-2ea2fbe64cb84acf7c2d31a643241c0d]: Commencement: [Rule 20](https://www.legislation.gov.uk/ssi/2022/385/rule/20) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
-[^key-cf79256c201e4a2bfd3b5c458bd1e48c]: Commencement: [Rule 21](https://www.legislation.gov.uk/ssi/2022/385/rule/21) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-cf79256c201e4a2bfd3b5c458bd1e48c]: Commencement: [Rule 21](https://www.legislation.gov.uk/ssi/2022/385/rule/21) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
-[^key-5c12f80dbd88ee2750889ab89aa27508]: Commencement: [Rule 22](https://www.legislation.gov.uk/ssi/2022/385/rule/22) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-5c12f80dbd88ee2750889ab89aa27508]: Commencement: [Rule 22](https://www.legislation.gov.uk/ssi/2022/385/rule/22) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
-[^key-a15711faecaa3180250b21d607603e91]: Commencement: [Rule 23](https://www.legislation.gov.uk/ssi/2022/385/rule/23) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-a15711faecaa3180250b21d607603e91]: Commencement: [Rule 23](https://www.legislation.gov.uk/ssi/2022/385/rule/23) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
-[^key-9bde4814e38a44478f87baa2ba3528f3]: Commencement: [Rule 24](https://www.legislation.gov.uk/ssi/2022/385/rule/24) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-9bde4814e38a44478f87baa2ba3528f3]: Commencement: [Rule 24](https://www.legislation.gov.uk/ssi/2022/385/rule/24) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
-[^key-ae3856f1b86da3a87d66662ee4f5fd93]: Commencement: [Rule 25](https://www.legislation.gov.uk/ssi/2022/385/rule/25) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-ae3856f1b86da3a87d66662ee4f5fd93]: Commencement: [Rule 25](https://www.legislation.gov.uk/ssi/2022/385/rule/25) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
-[^key-529eb21a905ebef5e901c5eae25389c2]: Commencement: [Rule 26](https://www.legislation.gov.uk/ssi/2022/385/rule/26) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-529eb21a905ebef5e901c5eae25389c2]: Commencement: [Rule 26](https://www.legislation.gov.uk/ssi/2022/385/rule/26) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
-[^key-7a2449d3d30f2afdc497bd838f091105]: Commencement: [Rule 27](https://www.legislation.gov.uk/ssi/2022/385/rule/27) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-7a2449d3d30f2afdc497bd838f091105]: Commencement: [Rule 27](https://www.legislation.gov.uk/ssi/2022/385/rule/27) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
-[^key-f28d3ef5f8e853e375a258e16a6ae55a]: Commencement: [Rule 28](https://www.legislation.gov.uk/ssi/2022/385/rule/28) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-f28d3ef5f8e853e375a258e16a6ae55a]: Commencement: [Rule 28](https://www.legislation.gov.uk/ssi/2022/385/rule/28) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
 [^f00015]: Footnote: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65). Subsection 210(5) was amended by virtue of sections 289F and 289G of the Criminal Procedure (Scotland) Act [1975 (c. 21)](https://www.legislation.gov.uk/ukpga/1975/21), as inserted by the Criminal Justice Act [1983 (c. 48)](https://www.legislation.gov.uk/ukpga/1983/48), section 54. The standard scale is as provided for in section 225(2) of the Criminal Procedure (Scotland) Act [1995 (c. 46)](https://www.legislation.gov.uk/ukpga/1995/46).
 
-[^key-ffe52d988528c8c242ae1e5411bf1bfa]: Commencement: [Rule 29](https://www.legislation.gov.uk/ssi/2022/385/rule/29) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-ffe52d988528c8c242ae1e5411bf1bfa]: Commencement: [Rule 29](https://www.legislation.gov.uk/ssi/2022/385/rule/29) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
-[^key-e7524d780d436abea0e3697e608135e1]: Commencement: [Rule 30](https://www.legislation.gov.uk/ssi/2022/385/rule/30) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-e7524d780d436abea0e3697e608135e1]: Commencement: [Rule 30](https://www.legislation.gov.uk/ssi/2022/385/rule/30) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
 [^f00016]: Footnote: [2003 asp 7](https://www.legislation.gov.uk/asp/2003/7).
 
-[^key-c17c98e28849e3eb451cb16a51b55abf]: Commencement: [Rule 31](https://www.legislation.gov.uk/ssi/2022/385/rule/31) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-c17c98e28849e3eb451cb16a51b55abf]: Commencement: [Rule 31](https://www.legislation.gov.uk/ssi/2022/385/rule/31) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
-[^key-0451ae479585f4fc71e5879d6dd691d3]: Commencement: [Rule 32](https://www.legislation.gov.uk/ssi/2022/385/rule/32) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-0451ae479585f4fc71e5879d6dd691d3]: Commencement: [Rule 32](https://www.legislation.gov.uk/ssi/2022/385/rule/32) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
-[^key-e7f709e241608cfbff88fe52018d9806]: Commencement: [Rule 33](https://www.legislation.gov.uk/ssi/2022/385/rule/33) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-e7f709e241608cfbff88fe52018d9806]: Commencement: [Rule 33](https://www.legislation.gov.uk/ssi/2022/385/rule/33) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
-[^key-33f54fb46607de883ab29783631dac47]: Commencement: [Rule 34](https://www.legislation.gov.uk/ssi/2022/385/rule/34) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-33f54fb46607de883ab29783631dac47]: Commencement: [Rule 34](https://www.legislation.gov.uk/ssi/2022/385/rule/34) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
 [^f00017]: Footnote: [2003 asp 7](https://www.legislation.gov.uk/asp/2003/7); section 16(1) has been amended by the Victims and Witnesses (Scotland) Act [2014 (asp 1)](https://www.legislation.gov.uk/asp/2014/1), section 27 and by [S.S.I. 2008/185](https://www.legislation.gov.uk/ssi/2008/185).
 
-[^key-65d820b3ed44b8a6c5213e1ad80958d8]: Commencement: [Rule 35](https://www.legislation.gov.uk/ssi/2022/385/rule/35) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-65d820b3ed44b8a6c5213e1ad80958d8]: Commencement: [Rule 35](https://www.legislation.gov.uk/ssi/2022/385/rule/35) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
 [^f00018]: Footnote: [S.S.I. 2001/315](https://www.legislation.gov.uk/ssi/2001/315), as amended by [S.S.I. 2010/164](https://www.legislation.gov.uk/ssi/2010/164); [S.S.I. 2011/133](https://www.legislation.gov.uk/ssi/2011/133); [S.S.I. 2012/167](https://www.legislation.gov.uk/ssi/2012/167); [S.S.I. 2012/197](https://www.legislation.gov.uk/ssi/2012/197); [S.I. 2013/2042](https://www.legislation.gov.uk/uksi/2013/2042); [S.S.I. 2021/4](https://www.legislation.gov.uk/ssi/2021/4) and [S.S.I. 2022/10](https://www.legislation.gov.uk/ssi/2022/10).
 
-[^key-3fb44b6e7c7fc711d089d1df4bced537]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2022/385/schedule/1/paragraph/1) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-3fb44b6e7c7fc711d089d1df4bced537]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2022/385/schedule/1/paragraph/1) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
-[^key-08128bd3a87f0f3b4113bd70029bab0e]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2022/385/schedule/1/paragraph/2) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-08128bd3a87f0f3b4113bd70029bab0e]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2022/385/schedule/1/paragraph/2) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
-[^key-853a904b841bb334b3cb7b04506affbe]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2022/385/schedule/1/paragraph/3) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-853a904b841bb334b3cb7b04506affbe]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2022/385/schedule/1/paragraph/3) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
-[^key-2e9fd3b765a51f05eb52f04c4dcd4987]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2022/385/schedule/1/paragraph/4) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-2e9fd3b765a51f05eb52f04c4dcd4987]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2022/385/schedule/1/paragraph/4) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
 [^f00019]: Footnote: [2003 asp 13](https://www.legislation.gov.uk/asp/2003/13). As amended by the Mental Health (Scotland) Act [2015 asp 9](https://www.legislation.gov.uk/asp/2015/9), sections 12(2) and 34(2).
 
-[^key-51573f7864fe59380be83a9231fb2ad4]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2022/385/schedule/1/paragraph/5) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-51573f7864fe59380be83a9231fb2ad4]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2022/385/schedule/1/paragraph/5) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
-[^key-45270322263b25cbe6587e6dccdf72c7]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ssi/2022/385/schedule/1/paragraph/6) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-45270322263b25cbe6587e6dccdf72c7]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ssi/2022/385/schedule/1/paragraph/6) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
-[^key-34bf41c3ae2ae1c749ac891ef7a22ab1]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ssi/2022/385/schedule/1/paragraph/7) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-34bf41c3ae2ae1c749ac891ef7a22ab1]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ssi/2022/385/schedule/1/paragraph/7) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
-[^key-47989886537f5fb2b016b6aa8b0f3bce]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2022/385/schedule/2/paragraph/1) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-47989886537f5fb2b016b6aa8b0f3bce]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2022/385/schedule/2/paragraph/1) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
 [^f00020]: Footnote: [S.S.I. 2001/315](https://www.legislation.gov.uk/ssi/2001/315).
 
-[^key-3180c50e24adcd16ad92886e0179ea3c]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2022/385/schedule/2/paragraph/2) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-3180c50e24adcd16ad92886e0179ea3c]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2022/385/schedule/2/paragraph/2) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
 [^f00021]: Footnote: [S.S.I. 2010/164](https://www.legislation.gov.uk/ssi/2010/164), as amended by [S.I. 2013/2042](https://www.legislation.gov.uk/uksi/2013/2042).
 
-[^key-8d4ad24979096d329265c0cf9f74733b]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2022/385/schedule/2/paragraph/3) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-8d4ad24979096d329265c0cf9f74733b]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2022/385/schedule/2/paragraph/3) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
 [^f00022]: Footnote: [S.S.I. 2011/133](https://www.legislation.gov.uk/ssi/2011/133).
 
-[^key-ada20f1a1d176a65e1d1422cd5cd8d7d]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2022/385/schedule/2/paragraph/4) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-ada20f1a1d176a65e1d1422cd5cd8d7d]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2022/385/schedule/2/paragraph/4) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
 [^f00023]: Footnote: [S.S.I. 2012/167](https://www.legislation.gov.uk/ssi/2012/167), as amended by [S.S.I. 2012/197](https://www.legislation.gov.uk/ssi/2012/197).
 
-[^key-ab997a31b07dd134731e8443abd5f5ae]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2022/385/schedule/2/paragraph/5) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-ab997a31b07dd134731e8443abd5f5ae]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2022/385/schedule/2/paragraph/5) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
 [^f00024]: Footnote: [S.S.I. 2012/197](https://www.legislation.gov.uk/ssi/2012/197).
 
-[^key-76b607ad4255c6fa9cb70c29c91602b9]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2022/385/schedule/2/paragraph/6) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-76b607ad4255c6fa9cb70c29c91602b9]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2022/385/schedule/2/paragraph/6) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
 [^f00025]: Footnote: [S.S.I. 2021/4](https://www.legislation.gov.uk/ssi/2021/4).
 
-[^key-cc85a526114f3c872224f485076707c1]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2022/385/schedule/2/paragraph/7) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
+[^c-cc85a526114f3c872224f485076707c1]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2022/385/schedule/2/paragraph/7) in force at 1.4.2023, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1)
 
 [^f00026]: Footnote: [S.S.I. 2022/10](https://www.legislation.gov.uk/ssi/2022/10).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 464C.. Treatment of certain repayments and return payments[^key-a23d8d900d88d43040a9d4fea6d28136]
+## 464C.. Treatment of certain repayments and return payments[^c-a23d8d900d88d43040a9d4fea6d28136]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a23d8d900d88d43040a9d4fea6d28136]: Textual amendment: Pt. 10 Ch. 3B omitted (30.10.2024) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 81(3)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/81/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/81/4)
+[^c-a23d8d900d88d43040a9d4fea6d28136]: Textual amendment: Pt. 10 Ch. 3B omitted (30.10.2024) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 81(3)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/81/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/81/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21.4. Procedure[^key-516988a282c81152b72d96716cb3ea1a]
+## 21.4. Procedure[^c-516988a282c81152b72d96716cb3ea1a]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-516988a282c81152b72d96716cb3ea1a]: Commencement: Para. 21.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-516988a282c81152b72d96716cb3ea1a]: Commencement: Para. 21.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

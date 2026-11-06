@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Placement orders[^key-a6fe738e44ed1b0b1a94cbd1acaf87e7]
+## 18. Placement orders[^c-a6fe738e44ed1b0b1a94cbd1acaf87e7]
 
 *Extent: N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6fe738e44ed1b0b1a94cbd1acaf87e7]: Commencement: S. 18 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-a6fe738e44ed1b0b1a94cbd1acaf87e7]: Commencement: S. 18 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

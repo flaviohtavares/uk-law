@@ -33,8 +33,8 @@ summary: ''
 - “**international obligation**” has the meaning given by section 1(8);
 - “**person**” has the meaning given by section 9(5);
 - “prescribed”, in any provision relating to regulations, means prescribed by the regulations;
-- [^key-b12e338992c70545d63979edfcc9a475]...
-- [^key-b12e338992c70545d63979edfcc9a475]...
+- [^c-b12e338992c70545d63979edfcc9a475]...
+- [^c-b12e338992c70545d63979edfcc9a475]...
 - “**the Security Council**” means the Security Council of the United Nations;
 - “the territorial sea” (without more) means the territorial sea adjacent to the United Kingdom;
 - “**terrorism**” has the same meaning as in the Terrorism Act 2000 (see section 1(1) to (4) of that Act);
@@ -73,4 +73,4 @@ in order for the person to be regarded as “connected with” that country for 
 
 ## Annotations
 
-[^key-b12e338992c70545d63979edfcc9a475]: Textual amendment: Words in [s. 62(1)](https://www.legislation.gov.uk/ukpga/2018/13/section/62/1) omitted (1.1.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 88(4)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/88/4)
+[^c-b12e338992c70545d63979edfcc9a475]: Textual amendment: Words in [s. 62(1)](https://www.legislation.gov.uk/ukpga/2018/13/section/62/1) omitted (1.1.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 88(4)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/88/4)

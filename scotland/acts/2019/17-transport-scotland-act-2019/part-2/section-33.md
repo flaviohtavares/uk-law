@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Interpretation of Part[^key-129855dad283a30a10772c341626f5be]
+## 33. Interpretation of Part[^c-129855dad283a30a10772c341626f5be]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ In this Part—
 
 ## Annotations
 
-[^key-129855dad283a30a10772c341626f5be]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2019/17/section/33) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)
+[^c-129855dad283a30a10772c341626f5be]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2019/17/section/33) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)

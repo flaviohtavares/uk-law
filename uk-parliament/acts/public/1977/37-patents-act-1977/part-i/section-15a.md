@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15A. Preliminary examination[^key-8d85f385c79a56bfcf2baff71ec397d1]
+## 15A. Preliminary examination[^c-8d85f385c79a56bfcf2baff71ec397d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ then the comptroller shall notify the applicant accordingly.
 
 ## Annotations
 
-[^key-8d85f385c79a56bfcf2baff71ec397d1]: Textual amendment: Ss. 15, 15A substituted for s. 15 (1.1.2005) by [The Regulatory Reform (Patents) Order 2004 (S.I. 2004/2357)](https://www.legislation.gov.uk/uksi/2004/2357), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/2357/article/1/2), [5](https://www.legislation.gov.uk/uksi/2004/2357/article/5) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2004/2357/article/20))
+[^c-8d85f385c79a56bfcf2baff71ec397d1]: Textual amendment: Ss. 15, 15A substituted for s. 15 (1.1.2005) by [The Regulatory Reform (Patents) Order 2004 (S.I. 2004/2357)](https://www.legislation.gov.uk/uksi/2004/2357), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/2357/article/1/2), [5](https://www.legislation.gov.uk/uksi/2004/2357/article/5) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2004/2357/article/20))

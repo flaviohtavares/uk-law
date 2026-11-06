@@ -26,7 +26,7 @@ Sections 35, 36 and 37
 
 #### Introductory
 
-**1.**[^key-2ca5892d2fc203527621e9fd5d7ac62c] (1) This Part of this Schedule sets out the powers exercisable by English and Welsh constables and enforcement officers under sections 35 and 38(1).
+**1.**[^c-2ca5892d2fc203527621e9fd5d7ac62c] (1) This Part of this Schedule sets out the powers exercisable by English and Welsh constables and enforcement officers under sections 35 and 38(1).
 
 (2) In this Part of this Schedule—
 
@@ -35,7 +35,7 @@ Sections 35, 36 and 37
 
 #### Power to stop, board, divert and detain
 
-**2.**[^key-8381d1d8ff1efcd1b11b6094ed6706e6] (1) This paragraph applies if an English and Welsh constable or an enforcement officer has reasonable grounds to suspect that—
+**2.**[^c-8381d1d8ff1efcd1b11b6094ed6706e6] (1) This paragraph applies if an English and Welsh constable or an enforcement officer has reasonable grounds to suspect that—
 
 - (a) an offence under section 1 or 2 is being, or has been, committed on the ship, or
 - (b) the ship is otherwise being used in connection with the commission of an offence under either of those sections.
@@ -63,7 +63,7 @@ Sections 35, 36 and 37
 
 #### Power to search and obtain information
 
-**3.**[^key-3ec85a13ca990640ddfe3cd58f4413b3] (1) This paragraph applies if an English and Welsh constable or an enforcement officer has reasonable grounds to suspect that there is evidence on the ship (other than items subject to legal privilege) relating—
+**3.**[^c-3ec85a13ca990640ddfe3cd58f4413b3] (1) This paragraph applies if an English and Welsh constable or an enforcement officer has reasonable grounds to suspect that there is evidence on the ship (other than items subject to legal privilege) relating—
 
 - (a) to an offence under section 1 or 2, or
 - (b) to an offence that is connected with an offence under either of those sections.
@@ -93,7 +93,7 @@ Sections 35, 36 and 37
 
 #### Power of arrest and seizure
 
-**4.**[^key-f1846dcc86dc7356e7fc7de3caa67b0e] (1) This paragraph applies if an English and Welsh constable or an enforcement officer has reasonable grounds to suspect that an offence under section 1 or 2 has been, or is being, committed on the ship.
+**4.**[^c-f1846dcc86dc7356e7fc7de3caa67b0e] (1) This paragraph applies if an English and Welsh constable or an enforcement officer has reasonable grounds to suspect that an offence under section 1 or 2 has been, or is being, committed on the ship.
 
 (2) The constable or enforcement officer may arrest without warrant anyone whom the constable or officer has reasonable grounds for suspecting to be guilty of the offence.
 
@@ -101,7 +101,7 @@ Sections 35, 36 and 37
 
 #### Code of practice
 
-**5.**[^key-41b57c1e12bafb3d96a37e00a927c4b5] (1) The Secretary of State must prepare and issue a code in respect of the practice to be followed by English and Welsh constables and enforcement officers when arresting a person under the power conferred by paragraph 4.
+**5.**[^c-41b57c1e12bafb3d96a37e00a927c4b5] (1) The Secretary of State must prepare and issue a code in respect of the practice to be followed by English and Welsh constables and enforcement officers when arresting a person under the power conferred by paragraph 4.
 
 (2) The code must in particular provide guidance as to the information to be given to the person at the time of arrest (whether about procedural rights or other matters).
 
@@ -126,7 +126,7 @@ Sections 35, 36 and 37
 
 #### Assistants
 
-**6.**[^key-00b1af9c193d272c225b30975d460731] (1) An English and Welsh constable or an enforcement officer may—
+**6.**[^c-00b1af9c193d272c225b30975d460731] (1) An English and Welsh constable or an enforcement officer may—
 
 - (a) be accompanied by other persons, and
 - (b) take equipment or materials,
@@ -137,22 +137,22 @@ to assist the constable or officer in the exercise of powers under this Part of 
 
 #### Reasonable force
 
-**7.**[^key-e95cff13f4c21a5f3898685a64f61b28] An English and Welsh constable or an enforcement officer may use reasonable force, if necessary, in the performance of functions under this Part of this Schedule.
+**7.**[^c-e95cff13f4c21a5f3898685a64f61b28] An English and Welsh constable or an enforcement officer may use reasonable force, if necessary, in the performance of functions under this Part of this Schedule.
 
 #### Evidence of authority
 
-**8.**[^key-17985406b34a9089dd0e26c951c1431b] An English and Welsh constable or an enforcement officer must produce evidence of the constable's or officer's authority if asked to do so.
+**8.**[^c-17985406b34a9089dd0e26c951c1431b] An English and Welsh constable or an enforcement officer must produce evidence of the constable's or officer's authority if asked to do so.
 
 #### Protection of constables and enforcement officers
 
-**9.**[^key-219dd8012e99dd9bdac938a5f5d6d827] An English and Welsh constable or an enforcement officer is not liable in any criminal or civil proceedings for anything done in the purported performance of functions under this Part of this Schedule if the court is satisfied that—
+**9.**[^c-219dd8012e99dd9bdac938a5f5d6d827] An English and Welsh constable or an enforcement officer is not liable in any criminal or civil proceedings for anything done in the purported performance of functions under this Part of this Schedule if the court is satisfied that—
 
 - (a) the act was done in good faith, and
 - (b) there were reasonable grounds for doing it.
 
 #### Offences
 
-**10.**[^key-9c566253deef580932af6b25fa4ffdd4] (1) A person commits an offence under the law of England and Wales if the person—
+**10.**[^c-9c566253deef580932af6b25fa4ffdd4] (1) A person commits an offence under the law of England and Wales if the person—
 
 - (a) intentionally obstructs a constable or an enforcement officer in the performance of functions under this Part of this Schedule, or
 - (b) fails without reasonable excuse to comply with a requirement made by a constable or an enforcement officer in the performance of those functions.
@@ -168,7 +168,7 @@ to assist the constable or officer in the exercise of powers under this Part of 
 
 #### Introductory
 
-**11.**[^key-b998321776e4754a56ffc27ce9b976e2] (1) This Part of this Schedule sets out the powers exercisable by Scottish constables and enforcement officers under sections 36 and 38(4).
+**11.**[^c-b998321776e4754a56ffc27ce9b976e2] (1) This Part of this Schedule sets out the powers exercisable by Scottish constables and enforcement officers under sections 36 and 38(4).
 
 (2) In this Part of this Schedule—
 
@@ -178,7 +178,7 @@ to assist the constable or officer in the exercise of powers under this Part of 
 
 #### Power to stop, board, divert and detain
 
-**12.**[^key-89a00550509fbc10a6468944f76a785c] (1) This paragraph applies if a Scottish constable or an enforcement officer has reasonable grounds to suspect that—
+**12.**[^c-89a00550509fbc10a6468944f76a785c] (1) This paragraph applies if a Scottish constable or an enforcement officer has reasonable grounds to suspect that—
 
 - (a) a listed offence is being, or has been, committed on the ship, or
 - (b) the ship is otherwise being used in connection with the commission of a listed offence.
@@ -206,7 +206,7 @@ to assist the constable or officer in the exercise of powers under this Part of 
 
 #### Power to search and obtain information
 
-**13.**[^key-03a6be52ba607d72d55ea8731cf2d8ba] (1) This paragraph applies if a Scottish constable or an enforcement officer has reasonable grounds to suspect that there is evidence on the ship (other than items subject to legal privilege) relating—
+**13.**[^c-03a6be52ba607d72d55ea8731cf2d8ba] (1) This paragraph applies if a Scottish constable or an enforcement officer has reasonable grounds to suspect that there is evidence on the ship (other than items subject to legal privilege) relating—
 
 - (a) to a listed offence, or
 - (b) to an offence that is connected with a listed offence.
@@ -236,7 +236,7 @@ to assist the constable or officer in the exercise of powers under this Part of 
 
 #### Power of arrest and seizure
 
-**14.**[^key-3193c10984c773810e98b1c4563cc296] (1) This paragraph applies if a Scottish constable or an enforcement officer has reasonable grounds to suspect that a listed offence has been, or is being, committed on the ship.
+**14.**[^c-3193c10984c773810e98b1c4563cc296] (1) This paragraph applies if a Scottish constable or an enforcement officer has reasonable grounds to suspect that a listed offence has been, or is being, committed on the ship.
 
 (2) The constable or enforcement officer may arrest without warrant anyone whom the constable or officer has reasonable grounds for suspecting to be guilty of the offence.
 
@@ -244,7 +244,7 @@ to assist the constable or officer in the exercise of powers under this Part of 
 
 #### Assistants
 
-**15.**[^key-c2f5a4ea6f0945da18308be0e555c881] (1) A Scottish constable or an enforcement officer may—
+**15.**[^c-c2f5a4ea6f0945da18308be0e555c881] (1) A Scottish constable or an enforcement officer may—
 
 - (a) be accompanied by other persons, and
 - (b) take equipment or materials,
@@ -255,15 +255,15 @@ to assist the constable or officer in the exercise of powers under this Part of 
 
 #### Reasonable force
 
-**16.**[^key-ac901cf84891aba7586919c9482b8d37] A Scottish constable or an enforcement officer may use reasonable force, if necessary, in the performance of functions under this Part of this Schedule.
+**16.**[^c-ac901cf84891aba7586919c9482b8d37] A Scottish constable or an enforcement officer may use reasonable force, if necessary, in the performance of functions under this Part of this Schedule.
 
 #### Evidence of authority
 
-**17.**[^key-a9be3205501ac62b6a1a8298cbd7c74d] A Scottish constable or an enforcement officer must produce evidence of the constable's or officer's authority if asked to do so.
+**17.**[^c-a9be3205501ac62b6a1a8298cbd7c74d] A Scottish constable or an enforcement officer must produce evidence of the constable's or officer's authority if asked to do so.
 
 #### Offences
 
-**18.**[^key-59d0bc5aeeee957075ca25857571a148] (1) A person commits an offence under the law of Scotland if the person—
+**18.**[^c-59d0bc5aeeee957075ca25857571a148] (1) A person commits an offence under the law of Scotland if the person—
 
 - (a) intentionally obstructs a constable or an enforcement officer in the performance of functions under this Part of this Schedule, or
 - (b) fails without reasonable excuse to comply with a requirement made by a constable or an enforcement officer in the performance of those functions.
@@ -282,7 +282,7 @@ to assist the constable or officer in the exercise of powers under this Part of 
 
 #### Introductory
 
-**19.**[^key-9b7534bfa92bf4eb5dd385d76843cb7d] (1) This Part of this Schedule sets out the powers exercisable by Northern Ireland constables and enforcement officers under sections 37 and 38(7).
+**19.**[^c-9b7534bfa92bf4eb5dd385d76843cb7d] (1) This Part of this Schedule sets out the powers exercisable by Northern Ireland constables and enforcement officers under sections 37 and 38(7).
 
 (2) In this Part of this Schedule—
 
@@ -292,7 +292,7 @@ to assist the constable or officer in the exercise of powers under this Part of 
 
 #### Power to stop, board, divert and detain
 
-**20.**[^key-33328117bdec044c91501c9335f779c8] (1) This paragraph applies if a Northern Ireland constable or an enforcement officer has reasonable grounds to suspect that—
+**20.**[^c-33328117bdec044c91501c9335f779c8] (1) This paragraph applies if a Northern Ireland constable or an enforcement officer has reasonable grounds to suspect that—
 
 - (a) a listed offence is being, or has been, committed on the ship, or
 - (b) the ship is otherwise being used in connection with the commission of a listed offence.
@@ -320,7 +320,7 @@ to assist the constable or officer in the exercise of powers under this Part of 
 
 #### Power to search and obtain information
 
-**21.**[^key-3da7af7d17803e71e4f7c98d6f5d387f] (1) This paragraph applies if a Northern Ireland constable or an enforcement officer has reasonable grounds to suspect that there is evidence on the ship (other than items subject to legal privilege) relating—
+**21.**[^c-3da7af7d17803e71e4f7c98d6f5d387f] (1) This paragraph applies if a Northern Ireland constable or an enforcement officer has reasonable grounds to suspect that there is evidence on the ship (other than items subject to legal privilege) relating—
 
 - (a) to a listed offence, or
 - (b) to an offence that is connected with a listed offence.
@@ -350,7 +350,7 @@ to assist the constable or officer in the exercise of powers under this Part of 
 
 #### Power of arrest and seizure
 
-**22.**[^key-743f0472f179e9fb04c69800b956172f] (1) This paragraph applies if a Northern Ireland constable or an enforcement officer has reasonable grounds to suspect that a listed offence has been, or is being, committed on the ship.
+**22.**[^c-743f0472f179e9fb04c69800b956172f] (1) This paragraph applies if a Northern Ireland constable or an enforcement officer has reasonable grounds to suspect that a listed offence has been, or is being, committed on the ship.
 
 (2) The constable or enforcement officer may arrest without warrant anyone whom the constable or officer has reasonable grounds for suspecting to be guilty of the offence.
 
@@ -358,7 +358,7 @@ to assist the constable or officer in the exercise of powers under this Part of 
 
 #### Code of practice
 
-**23.**[^key-f3d63be032573eed81f83542f85818bc] (1) The Department of Justice in Northern Ireland must prepare and issue a code in respect of the practice to be followed by Northern Ireland constables and enforcement officers when arresting a person under the power conferred by paragraph 22.
+**23.**[^c-f3d63be032573eed81f83542f85818bc] (1) The Department of Justice in Northern Ireland must prepare and issue a code in respect of the practice to be followed by Northern Ireland constables and enforcement officers when arresting a person under the power conferred by paragraph 22.
 
 (2) The code must in particular provide guidance as to the information to be given to the person at the time of arrest (whether about procedural rights or other matters).
 
@@ -384,7 +384,7 @@ to assist the constable or officer in the exercise of powers under this Part of 
 
 #### Assistants
 
-**24.**[^key-19425279a4248c82aabe618556d61666] (1) A Northern Ireland constable or an enforcement officer may—
+**24.**[^c-19425279a4248c82aabe618556d61666] (1) A Northern Ireland constable or an enforcement officer may—
 
 - (a) be accompanied by other persons, and
 - (b) take equipment or materials,
@@ -395,22 +395,22 @@ to assist the constable or officer in the exercise of powers under this Part of 
 
 #### Reasonable force
 
-**25.**[^key-9b265325f0bd99157b84b56ef4c40529] A Northern Ireland constable or an enforcement officer may use reasonable force, if necessary, in the performance of functions under this Part of this Schedule.
+**25.**[^c-9b265325f0bd99157b84b56ef4c40529] A Northern Ireland constable or an enforcement officer may use reasonable force, if necessary, in the performance of functions under this Part of this Schedule.
 
 #### Evidence of authority
 
-**26.**[^key-82769e4183e44770b9a6fb7e317f822d] A Northern Ireland constable or an enforcement officer must produce evidence of the constable's or officer's authority if asked to do so.
+**26.**[^c-82769e4183e44770b9a6fb7e317f822d] A Northern Ireland constable or an enforcement officer must produce evidence of the constable's or officer's authority if asked to do so.
 
 #### Protection of constables and enforcement officers
 
-**27.**[^key-84f76bd32ba9fe2d8dcf1ae6fcd8f63a] A Northern Ireland constable or an enforcement officer is not liable in any criminal or civil proceedings for anything done in the purported performance of functions under this Part of this Schedule if the court is satisfied that—
+**27.**[^c-84f76bd32ba9fe2d8dcf1ae6fcd8f63a] A Northern Ireland constable or an enforcement officer is not liable in any criminal or civil proceedings for anything done in the purported performance of functions under this Part of this Schedule if the court is satisfied that—
 
 - (a) the act was done in good faith, and
 - (b) there were reasonable grounds for doing it.
 
 #### Offences
 
-**28.**[^key-323b5b6045ada8985d882a4c85fcfc17] (1) A person commits an offence under the law of Northern Ireland if the person—
+**28.**[^c-323b5b6045ada8985d882a4c85fcfc17] (1) A person commits an offence under the law of Northern Ireland if the person—
 
 - (a) intentionally obstructs a constable or an enforcement officer in the performance of functions under this Part of this Schedule, or
 - (b) fails without reasonable excuse to comply with a requirement made by a constable or an enforcement officer in the performance of those functions.
@@ -427,58 +427,58 @@ to assist the constable or officer in the exercise of powers under this Part of 
 
 ## Annotations
 
-[^key-2ca5892d2fc203527621e9fd5d7ac62c]: Commencement: Sch. 2 para. 1 in force for specified purposes at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
+[^c-2ca5892d2fc203527621e9fd5d7ac62c]: Commencement: Sch. 2 para. 1 in force for specified purposes at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
 
-[^key-8381d1d8ff1efcd1b11b6094ed6706e6]: Commencement: Sch. 2 para. 2 in force for specified purposes at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
+[^c-8381d1d8ff1efcd1b11b6094ed6706e6]: Commencement: Sch. 2 para. 2 in force for specified purposes at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
 
-[^key-3ec85a13ca990640ddfe3cd58f4413b3]: Commencement: Sch. 2 para. 3 in force at 8.8.2016 for specified purposes by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
+[^c-3ec85a13ca990640ddfe3cd58f4413b3]: Commencement: Sch. 2 para. 3 in force at 8.8.2016 for specified purposes by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
 
-[^key-f1846dcc86dc7356e7fc7de3caa67b0e]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/4) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
+[^c-f1846dcc86dc7356e7fc7de3caa67b0e]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/4) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
 
-[^key-41b57c1e12bafb3d96a37e00a927c4b5]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/5) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
+[^c-41b57c1e12bafb3d96a37e00a927c4b5]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/5) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
 
-[^key-00b1af9c193d272c225b30975d460731]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/6) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
+[^c-00b1af9c193d272c225b30975d460731]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/6) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
 
-[^key-e95cff13f4c21a5f3898685a64f61b28]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/7) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
+[^c-e95cff13f4c21a5f3898685a64f61b28]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/7) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
 
-[^key-17985406b34a9089dd0e26c951c1431b]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/8) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
+[^c-17985406b34a9089dd0e26c951c1431b]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/8) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
 
-[^key-219dd8012e99dd9bdac938a5f5d6d827]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/9) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
+[^c-219dd8012e99dd9bdac938a5f5d6d827]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/9) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
 
-[^key-9c566253deef580932af6b25fa4ffdd4]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/10) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
+[^c-9c566253deef580932af6b25fa4ffdd4]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/10) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
 
-[^key-b998321776e4754a56ffc27ce9b976e2]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/11) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
+[^c-b998321776e4754a56ffc27ce9b976e2]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/11) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
 
-[^key-89a00550509fbc10a6468944f76a785c]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/12) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
+[^c-89a00550509fbc10a6468944f76a785c]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/12) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
 
-[^key-03a6be52ba607d72d55ea8731cf2d8ba]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/13) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
+[^c-03a6be52ba607d72d55ea8731cf2d8ba]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/13) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
 
-[^key-3193c10984c773810e98b1c4563cc296]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/14) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
+[^c-3193c10984c773810e98b1c4563cc296]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/14) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
 
-[^key-c2f5a4ea6f0945da18308be0e555c881]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/15) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
+[^c-c2f5a4ea6f0945da18308be0e555c881]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/15) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
 
-[^key-ac901cf84891aba7586919c9482b8d37]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/16) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
+[^c-ac901cf84891aba7586919c9482b8d37]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/16) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
 
-[^key-a9be3205501ac62b6a1a8298cbd7c74d]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/17) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
+[^c-a9be3205501ac62b6a1a8298cbd7c74d]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/17) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
 
-[^key-59d0bc5aeeee957075ca25857571a148]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/18) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
+[^c-59d0bc5aeeee957075ca25857571a148]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/18) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
 
-[^key-9b7534bfa92bf4eb5dd385d76843cb7d]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/19) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
+[^c-9b7534bfa92bf4eb5dd385d76843cb7d]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/19) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
 
-[^key-33328117bdec044c91501c9335f779c8]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/20) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
+[^c-33328117bdec044c91501c9335f779c8]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/20) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
 
-[^key-3da7af7d17803e71e4f7c98d6f5d387f]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/21) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
+[^c-3da7af7d17803e71e4f7c98d6f5d387f]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/21) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
 
-[^key-743f0472f179e9fb04c69800b956172f]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/22) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
+[^c-743f0472f179e9fb04c69800b956172f]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/22) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
 
-[^key-f3d63be032573eed81f83542f85818bc]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/23) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
+[^c-f3d63be032573eed81f83542f85818bc]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/23) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
 
-[^key-19425279a4248c82aabe618556d61666]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/24) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
+[^c-19425279a4248c82aabe618556d61666]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/24) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
 
-[^key-9b265325f0bd99157b84b56ef4c40529]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/25) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
+[^c-9b265325f0bd99157b84b56ef4c40529]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/25) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
 
-[^key-82769e4183e44770b9a6fb7e317f822d]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/26) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
+[^c-82769e4183e44770b9a6fb7e317f822d]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/26) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
 
-[^key-84f76bd32ba9fe2d8dcf1ae6fcd8f63a]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/27) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
+[^c-84f76bd32ba9fe2d8dcf1ae6fcd8f63a]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/27) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
 
-[^key-323b5b6045ada8985d882a4c85fcfc17]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/28) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)
+[^c-323b5b6045ada8985d882a4c85fcfc17]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2015/30/schedule/2/paragraph/28) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/e)

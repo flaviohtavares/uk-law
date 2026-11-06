@@ -44,7 +44,7 @@ In accordance with section 201(2) of that Act a draft of these Regulations has b
 
 The Lord President of the Council has consulted the Electoral Commission, the Information Commissioner and such other persons as he considered appropriate in accordance with section 53(5) of the Representation of the People Act 1983 and section 7(1) of the Political Parties, Elections and Referendums Act 2000[^f00002].
 
-## 1. Citation, commencement, extent and interpretation[^key-1cfae9ab0f5b30b2a2c39fb25fcc1868]
+## 1. Citation, commencement, extent and interpretation[^c-1cfae9ab0f5b30b2a2c39fb25fcc1868]
 
 (1) These Regulations may be cited as the Electoral Registration (Disclosure of Electoral Registers) Regulations 2013 and come into force on the day after the day on which they are made.
 
@@ -58,14 +58,14 @@ The Lord President of the Council has consulted the Electoral Commission, the In
 - “conduit system” has the same meaning as in paragraph 1 of Schedule 2 to the Telecommunications Act 1984[^f00003];
 - “registration officer” means the electoral registration officer.
 
-## 2. Disclosure of electoral registers[^key-989f21c93db160848feff513632e917c]
+## 2. Disclosure of electoral registers[^c-989f21c93db160848feff513632e917c]
 
 (1) Subject to regulation 4, each registration officer must disclose to the Lord President—
 
 - (a) a copy of the electoral registers maintained by that registration officer; and
 - (b) any other information held by the registration officer and which the Lord President may have specified in writing which relates to the information contained in the electoral registers.
 
-(2)[^key-92435a144d5c136916bbcb1896395527] Each registration officer must disclose the information in paragraph (1) on the date or dates notified to the registration officer in writing by the Lord President, which shall be within the period starting with the day on which the Electoral Registration (Disclosure of Electoral Registers) (Amendment) Regulations 2014 come into force and ending with 9th June 2014 in relation to England and Wales and with 18th September 2014 in relation to Scotland.
+(2)[^c-92435a144d5c136916bbcb1896395527] Each registration officer must disclose the information in paragraph (1) on the date or dates notified to the registration officer in writing by the Lord President, which shall be within the period starting with the day on which the Electoral Registration (Disclosure of Electoral Registers) (Amendment) Regulations 2014 come into force and ending with 9th June 2014 in relation to England and Wales and with 18th September 2014 in relation to Scotland.
 
 (3) The registration officer must disclose the information in such a format and through such a conduit system as the Lord President may have notified to the officer in writing.
 
@@ -82,7 +82,7 @@ The Lord President of the Council has consulted the Electoral Commission, the In
 
 (7) On receipt of such results, the Lord President may disclose them to the registration officer.
 
-## 3. Processing of information disclosed[^key-866b9ae93c5463787b8680a0c6578bc8]
+## 3. Processing of information disclosed[^c-866b9ae93c5463787b8680a0c6578bc8]
 
 (1) Information disclosed under regulation 2(1), (4), (6) or (7) may not be disclosed to any other person except—
 
@@ -92,9 +92,9 @@ The Lord President of the Council has consulted the Electoral Commission, the In
 (2) A person who discloses information in breach of paragraph (1) is guilty of an offence and liable—
 
 - (a) on conviction on indictment, to imprisonment for a term not exceeding two years, or to a fine, or to both;
-- (b) on summary conviction, to imprisonment for a term not exceeding 12 months *(Extent: E+W)* *(affected by repeal, see note)*[^key-9a03eca38a72602e5976d40ed9140d99] the general limit in a magistrates’ court *(Extent: E+W)*, or to a fine not exceeding the statutory maximum, or to both.
+- (b) on summary conviction, to imprisonment for a term not exceeding 12 months *(Extent: E+W)* *(affected by repeal, see note)*[^c-9a03eca38a72602e5976d40ed9140d99] the general limit in a magistrates’ court *(Extent: E+W)*, or to a fine not exceeding the statutory maximum, or to both.
 
-## 4.[^key-77172c09acc00d84b66268083d547c23]
+## 4.[^c-77172c09acc00d84b66268083d547c23]
 
 (1) Any person who discloses information under these Regulations must process it in accordance with any requirements as to the processing of that information that may have been imposed by the Lord President in writing, including requirements as to the transfer, storage, destruction and security of that information.
 
@@ -136,16 +136,16 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00002]: Footnote: [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41).
 
-[^key-1cfae9ab0f5b30b2a2c39fb25fcc1868]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/760/regulation/1) in force at 27.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/760/regulation/1/1)
+[^c-1cfae9ab0f5b30b2a2c39fb25fcc1868]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/760/regulation/1) in force at 27.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/760/regulation/1/1)
 
 [^f00003]: Footnote: [1984 c. 12](https://www.legislation.gov.uk/ukpga/1984/12); paragraph 1 of Schedule 2 was amended by section 106(2) of the Communications Act [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-989f21c93db160848feff513632e917c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/760/regulation/2) in force at 27.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/760/regulation/1/1)
+[^c-989f21c93db160848feff513632e917c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/760/regulation/2) in force at 27.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/760/regulation/1/1)
 
-[^key-92435a144d5c136916bbcb1896395527]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2013/760/regulation/2/2) substituted (28.2.2014) by [The Electoral Registration (Disclosure of Electoral Registers) (Amendment) Regulations 2014 (S.I. 2014/450)](https://www.legislation.gov.uk/uksi/2014/450), [regs. 1](https://www.legislation.gov.uk/uksi/2014/450/regulation/1), [2](https://www.legislation.gov.uk/uksi/2014/450/regulation/2)
+[^c-92435a144d5c136916bbcb1896395527]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2013/760/regulation/2/2) substituted (28.2.2014) by [The Electoral Registration (Disclosure of Electoral Registers) (Amendment) Regulations 2014 (S.I. 2014/450)](https://www.legislation.gov.uk/uksi/2014/450), [regs. 1](https://www.legislation.gov.uk/uksi/2014/450/regulation/1), [2](https://www.legislation.gov.uk/uksi/2014/450/regulation/2)
 
-[^key-866b9ae93c5463787b8680a0c6578bc8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/760/regulation/3) in force at 27.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/760/regulation/1/1)
+[^c-866b9ae93c5463787b8680a0c6578bc8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/760/regulation/3) in force at 27.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/760/regulation/1/1)
 
-[^key-9a03eca38a72602e5976d40ed9140d99]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/uksi/2013/760/regulation/3/2/b) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2)
+[^c-9a03eca38a72602e5976d40ed9140d99]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/uksi/2013/760/regulation/3/2/b) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2)
 
-[^key-77172c09acc00d84b66268083d547c23]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/760/regulation/4) in force at 27.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/760/regulation/1/1)
+[^c-77172c09acc00d84b66268083d547c23]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/760/regulation/4) in force at 27.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/760/regulation/1/1)

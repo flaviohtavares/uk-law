@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Transitional provision about applications[^key-8c26992fa9e6f288e42a4bfa8a64d822]
+## 49. Transitional provision about applications[^c-8c26992fa9e6f288e42a4bfa8a64d822]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ the Panel must deal with the application in accordance with the Act as amended b
 
 ## Annotations
 
-[^key-8c26992fa9e6f288e42a4bfa8a64d822]: Commencement: Reg. 49 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-8c26992fa9e6f288e42a4bfa8a64d822]: Commencement: Reg. 49 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00067]: Footnote: Section 4A was inserted by Part 1 of Schedule 5 to the Marriage (Same Sex Couples) Act 2013.

@@ -20,17 +20,17 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This regulation applies in respect of one or more relevant offices[^key-eb276d21965f183a001297a7151e420d] where—
+(1) This regulation applies in respect of one or more relevant offices[^c-eb276d21965f183a001297a7151e420d] where—
 
-- (a) P[^key-b4a1406a85d08b7b48da21215e9ae41f] retires (whether before, on or after the commencement day); and
+- (a) P[^c-b4a1406a85d08b7b48da21215e9ae41f] retires (whether before, on or after the commencement day); and
 - (b) on the day on which P retires, P—
   - (i) has reached the age of 65;
   - (ii) has at least 5 years' qualifying judicial service, and
-  - (iii) has accrued reckonable service in relation to the relevant[^key-00177a7dd099b6fae2e2d2abe650baaf] office.
+  - (iii) has accrued reckonable service in relation to the relevant[^c-00177a7dd099b6fae2e2d2abe650baaf] office.
 
-(2) On a pension start[^key-034756b6f6c34f27e0026ef590eff055] day, P becomes entitled to the payment for life of a pension.
+(2) On a pension start[^c-034756b6f6c34f27e0026ef590eff055] day, P becomes entitled to the payment for life of a pension.
 
-(3)[^key-7f0f43e788e42ab82ef0c12009a7dadc] In this regulation “**pension start day**” means—
+(3)[^c-7f0f43e788e42ab82ef0c12009a7dadc] In this regulation “**pension start day**” means—
 
 - (a) in respect of pension payable in respect of qualifying fee-paid service on or after 7 April 2000—
   - (i) the day after that on which P retires, or
@@ -41,12 +41,12 @@ summary: ''
 
 ## Annotations
 
-[^key-eb276d21965f183a001297a7151e420d]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2017/522/regulation/12/1) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [14(a)(i)](https://www.legislation.gov.uk/uksi/2023/403/regulation/14/a/i)
+[^c-eb276d21965f183a001297a7151e420d]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2017/522/regulation/12/1) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [14(a)(i)](https://www.legislation.gov.uk/uksi/2023/403/regulation/14/a/i)
 
-[^key-b4a1406a85d08b7b48da21215e9ae41f]: Textual amendment: Word in [reg. 12(1)(a)](https://www.legislation.gov.uk/uksi/2017/522/regulation/12/1/a) substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [14(a)(ii)](https://www.legislation.gov.uk/uksi/2023/403/regulation/14/a/ii)
+[^c-b4a1406a85d08b7b48da21215e9ae41f]: Textual amendment: Word in [reg. 12(1)(a)](https://www.legislation.gov.uk/uksi/2017/522/regulation/12/1/a) substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [14(a)(ii)](https://www.legislation.gov.uk/uksi/2023/403/regulation/14/a/ii)
 
-[^key-00177a7dd099b6fae2e2d2abe650baaf]: Textual amendment: Words in [reg. 12(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2017/522/regulation/12/1/b/iii) substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [14(a)(iii)](https://www.legislation.gov.uk/uksi/2023/403/regulation/14/a/iii)
+[^c-00177a7dd099b6fae2e2d2abe650baaf]: Textual amendment: Words in [reg. 12(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2017/522/regulation/12/1/b/iii) substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [14(a)(iii)](https://www.legislation.gov.uk/uksi/2023/403/regulation/14/a/iii)
 
-[^key-034756b6f6c34f27e0026ef590eff055]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2017/522/regulation/12/2) substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2023/403/regulation/14/b)
+[^c-034756b6f6c34f27e0026ef590eff055]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2017/522/regulation/12/2) substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2023/403/regulation/14/b)
 
-[^key-7f0f43e788e42ab82ef0c12009a7dadc]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/uksi/2017/522/regulation/12/3) substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [14(c)](https://www.legislation.gov.uk/uksi/2023/403/regulation/14/c)
+[^c-7f0f43e788e42ab82ef0c12009a7dadc]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/uksi/2017/522/regulation/12/3) substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [14(c)](https://www.legislation.gov.uk/uksi/2023/403/regulation/14/c)

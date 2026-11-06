@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-673b0abbdae489f9bafc6ebfbb74e80d]
+## 2. Interpretation[^c-673b0abbdae489f9bafc6ebfbb74e80d]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - “**the 1961 Act**” means the Land Compensation Act 1961[^f00011];
 - “**the 1965 Act**” means the Compulsory Purchase Act 1965[^f00012];
-- “**the 1966 Act**” means the Tees and Hartlepools[^key-509d8393e67ed2c076d7b0a3ef1af886] Port Authority Act 1966[^f00013];
+- “**the 1966 Act**” means the Tees and Hartlepools[^c-509d8393e67ed2c076d7b0a3ef1af886] Port Authority Act 1966[^f00013];
 - “**the 1974 Order**” means the Tees and Hartlepool Port Authority Revision Order 1974[^f00014];
 - “**the 1980 Act**” means the Highways Act 1980[^f00015];
 - “**the 1981 Act**” means the Compulsory Purchase (Vesting Declarations) Act 1981[^f00016];
@@ -44,7 +44,7 @@ summary: ''
 - “**apparatus**” has the same meaning as in Part 3 (Street works in England and Wales) of the 1991 Act and further includes pipelines (and parts of them), aerial markers, cathodic protection test posts, field boundary markers, transformer rectifier kiosks, electricity and fibre-optic cables, pipe and cable protection telecommunications equipment and electricity cabinets;
 - “**application guide**” means the document of that description which is certified by the Secretary of State as the application guide under article 45 for the purposes of this Order;
 - “**authorised development**” means the development described in Schedule 1 (authorised development) and any other development authorised by this Order within the meaning of section 32 (meaning of “**development**”) of the 2008 Act;
-- “[^key-2839733772a079e073aaa5e967b72164]**book of reference**” means the documents of that description which are certified by the Secretary of State as the book of reference and the supplemental book of reference under article 45 for the purposes of this Order;
+- “[^c-2839733772a079e073aaa5e967b72164]**book of reference**” means the documents of that description which are certified by the Secretary of State as the book of reference and the supplemental book of reference under article 45 for the purposes of this Order;
 - “**building**” includes any structure or erection or any part of a building, structure or erection;
 - “**carbon dioxide storage licence**” means a licence for the activities under section 17 of the Energy Act 2008 for the carbon dioxide storage site;
 - “**carbon dioxide storage site**” means the site for the storage of carbon dioxide captured or collected by the authorised development;
@@ -53,7 +53,7 @@ summary: ''
 - “**CCP**” means the carbon capture plant, which is designed to capture a minimum rate of 90% of the carbon dioxide emissions of the generating station operating at full load;
 - “**commence**” means—
   - (a) in relation to works seaward of MHWS, the first carrying out of any licensed marine activities authorised by the deemed marine licences, save for operations consisting of pre-construction monitoring surveys approved under the deemed marine licences; or
-  - (b) in respect of any other works comprised in or carried out for the purposes of the authorised development, the first carrying out of any material operation, as defined in section 155 ([^key-c60fd4d87d4bac2680687f1f8cb42b82]... when development begins) of the 2008 Act,
+  - (b) in respect of any other works comprised in or carried out for the purposes of the authorised development, the first carrying out of any material operation, as defined in section 155 ([^c-c60fd4d87d4bac2680687f1f8cb42b82]... when development begins) of the 2008 Act,
 
   and the words “commencement” and “commenced” and cognate expressions are to be construed accordingly;
 - “**commissioning**” means the process of testing all systems and components of the authorised development which are installed or in relation to which installation is nearly complete in order to ensure that they, and the authorised development as a whole, function in accordance with the plant design specifications and the undertaker’s operational and safety requirements;
@@ -85,7 +85,7 @@ summary: ''
 - “**NGET**” means National Grid Electricity Transmission plc (company number 2366977) whose registered office is at 1-3 Strand, London WC2N 5EH;
 - “**NZT Power**” means Net Zero Teesside Power Limited (company number 12473751) whose registered office is at Chertsey Road, Sunbury On Thames, Middlesex, United Kingdom, TW16 7BP;
 - “**NZNS Storage**” means Net Zero North Sea Storage Limited (company number 12473084) whose registered office is at Chertsey Road, Sunbury On Thames, Middlesex, United Kingdom, TW16 7BP;
-- “Order land” means the land which is required for, or is required to facilitate, or is incidental to, or is affected by, the authorised development shown edged red on the land plans and shown shaded orange on the land plans and described in the book of reference;[^key-3fee8c01ecf951bcad2b3fb983201e06]
+- “Order land” means the land which is required for, or is required to facilitate, or is incidental to, or is affected by, the authorised development shown edged red on the land plans and shown shaded orange on the land plans and described in the book of reference;[^c-3fee8c01ecf951bcad2b3fb983201e06]
 - “**Order limits**” means the limits shown on the works plans within which the authorised development may be carried out;
 - “**owner**”, in relation to land, has the same meaning as in section 7 (interpretation) of the Acquisition of Land Act 1981[^f00027];
 - “**permitted preliminary works**” means works consisting of environmental surveys, geotechnical surveys, surveys of existing infrastructure, and other investigations for the purpose of assessing ground conditions, the preparation of facilities for the use of contractors (excluding earthworks and excavations), the provision of temporary means of enclosure and site security for construction, the temporary display of site notices or advertisements and any other works agreed by the relevant planning authority, provided that these will not give rise to any materially new or materially different environmental effects from those assessed in the environmental statement;
@@ -102,13 +102,13 @@ summary: ''
 - “**statutory undertaker**” means any person falling within section 127(8) (statutory undertakers’ land) of the 2008 Act, subject to any specific wording in this Order;
 - “**street**” means a street within the meaning given by section 48 (streets, street works and undertakers)[^f00028] of the 1991 Act, together with land on the verge of a street or between two carriageways, and “**street**” includes any part of a street;
 - “**street authority**”, in relation to a street, has the same meaning as in Part 3 (street works in England and Wales) of the 1991 Act[^f00029];
-- “[^key-27b3429745fa2e8284a4220d7ae5f7a8]**supplemental land**” means the land which is required for, or is required to facilitate, or is incidental to, or is affected by, the authorised development shown shaded orange on the land plans and described in the book of reference;
+- “[^c-27b3429745fa2e8284a4220d7ae5f7a8]**supplemental land**” means the land which is required for, or is required to facilitate, or is incidental to, or is affected by, the authorised development shown shaded orange on the land plans and described in the book of reference;
 - “**Teesworks Limited**” means Teesworks Limited (company number 12351851) whose registered office is at Venture House, Aykley Heads, Durham, England, DH1 5TS;
 - “**traffic authority**” has the same meaning as given in section 121A (traffic authorities) of the 1984 Act;
 - “**tribunal**” means the Lands Chamber of the Upper Tribunal;
 - “**Trinity House**” means the Corporation of Trinity House of Deptford Strond;
 - “**undertaker**” means, subject to articles 7 (benefit of the Order) and 8 (consent to transfer benefit of this Order)—
-  - (a) for the purposes of constructing, maintaining and operating Project A, NZT Power; and[^key-5f4a46c4f28f3c1c865667b07724e29b]
+  - (a) for the purposes of constructing, maintaining and operating Project A, NZT Power; and[^c-5f4a46c4f28f3c1c865667b07724e29b]
   - (b) for the purposes of constructing, maintaining and operating Project B, NZNS Storage;
 - “**updated landscape and biodiversity plan**” means the document of that description which is certified as the updated landscape and biodiversity plan by the Secretary of State under article 45 for the purposes of this Order;
 - “**watercourse**” includes all rivers, streams, creeks, ditches, drains, canals, cuts, culverts, dykes, sluices, sewers and passages through which water flows except a public sewer or drain;
@@ -129,13 +129,13 @@ summary: ''
 
 ## Annotations
 
-[^key-673b0abbdae489f9bafc6ebfbb74e80d]: Commencement: Art. 2 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-673b0abbdae489f9bafc6ebfbb74e80d]: Commencement: Art. 2 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
 
 [^f00011]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
 [^f00012]: Footnote: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56).
 
-[^key-509d8393e67ed2c076d7b0a3ef1af886]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/uksi/2024/174/article/2) substituted (21.12.2024) by [The Net Zero Teesside (Correction) Order 2024 (S.I. 2024/1384)](https://www.legislation.gov.uk/uksi/2024/1384), [art. 1](https://www.legislation.gov.uk/uksi/2024/1384/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1384/schedule) Table
+[^c-509d8393e67ed2c076d7b0a3ef1af886]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/uksi/2024/174/article/2) substituted (21.12.2024) by [The Net Zero Teesside (Correction) Order 2024 (S.I. 2024/1384)](https://www.legislation.gov.uk/uksi/2024/1384), [art. 1](https://www.legislation.gov.uk/uksi/2024/1384/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1384/schedule) Table
 
 [^f00013]: Footnote: [1966 c. xxv](https://www.legislation.gov.uk/ukla/1966/25).
 
@@ -165,11 +165,11 @@ summary: ''
 
 [^f00026]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-2839733772a079e073aaa5e967b72164]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2024/174/article/2) substituted (29.10.2025) by virtue of [The Net Zero Teesside (Amendment) Order 2025 (S.I. 2025/1143)](https://www.legislation.gov.uk/uksi/2025/1143), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1143/article/1), [3](https://www.legislation.gov.uk/uksi/2025/1143/article/3)
+[^c-2839733772a079e073aaa5e967b72164]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2024/174/article/2) substituted (29.10.2025) by virtue of [The Net Zero Teesside (Amendment) Order 2025 (S.I. 2025/1143)](https://www.legislation.gov.uk/uksi/2025/1143), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1143/article/1), [3](https://www.legislation.gov.uk/uksi/2025/1143/article/3)
 
-[^key-c60fd4d87d4bac2680687f1f8cb42b82]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2024/174/article/2) omitted (21.12.2024) by virtue of [The Net Zero Teesside (Correction) Order 2024 (S.I. 2024/1384)](https://www.legislation.gov.uk/uksi/2024/1384), [art. 1](https://www.legislation.gov.uk/uksi/2024/1384/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1384/schedule) Table
+[^c-c60fd4d87d4bac2680687f1f8cb42b82]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2024/174/article/2) omitted (21.12.2024) by virtue of [The Net Zero Teesside (Correction) Order 2024 (S.I. 2024/1384)](https://www.legislation.gov.uk/uksi/2024/1384), [art. 1](https://www.legislation.gov.uk/uksi/2024/1384/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1384/schedule) Table
 
-[^key-3fee8c01ecf951bcad2b3fb983201e06]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2024/174/article/2) substituted (29.10.2025) by [The Net Zero Teesside (Amendment) Order 2025 (S.I. 2025/1143)](https://www.legislation.gov.uk/uksi/2025/1143), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1143/article/1), [4](https://www.legislation.gov.uk/uksi/2025/1143/article/4)
+[^c-3fee8c01ecf951bcad2b3fb983201e06]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2024/174/article/2) substituted (29.10.2025) by [The Net Zero Teesside (Amendment) Order 2025 (S.I. 2025/1143)](https://www.legislation.gov.uk/uksi/2025/1143), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1143/article/1), [4](https://www.legislation.gov.uk/uksi/2025/1143/article/4)
 
 [^f00027]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67). The definition of “owner” was amended by section 70 of and paragraph 9 of Schedule 15 to the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34). There are other amendments to section 7 which are not relevant to the Order.
 
@@ -177,8 +177,8 @@ summary: ''
 
 [^f00029]: Footnote: “Street authority” is defined in section 49, which was amended by section 1(6) and paragraphs 113 and 117 of Schedule 1 to the Infrastructure Act 2015.
 
-[^key-27b3429745fa2e8284a4220d7ae5f7a8]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2024/174/article/2) inserted (29.10.2025) by [The Net Zero Teesside (Amendment) Order 2025 (S.I. 2025/1143)](https://www.legislation.gov.uk/uksi/2025/1143), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1143/article/1), [5](https://www.legislation.gov.uk/uksi/2025/1143/article/5)
+[^c-27b3429745fa2e8284a4220d7ae5f7a8]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2024/174/article/2) inserted (29.10.2025) by [The Net Zero Teesside (Amendment) Order 2025 (S.I. 2025/1143)](https://www.legislation.gov.uk/uksi/2025/1143), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1143/article/1), [5](https://www.legislation.gov.uk/uksi/2025/1143/article/5)
 
-[^key-5f4a46c4f28f3c1c865667b07724e29b]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/uksi/2024/174/article/2) inserted (21.12.2024) by [The Net Zero Teesside (Correction) Order 2024 (S.I. 2024/1384)](https://www.legislation.gov.uk/uksi/2024/1384), [art. 1](https://www.legislation.gov.uk/uksi/2024/1384/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1384/schedule) Table
+[^c-5f4a46c4f28f3c1c865667b07724e29b]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/uksi/2024/174/article/2) inserted (21.12.2024) by [The Net Zero Teesside (Correction) Order 2024 (S.I. 2024/1384)](https://www.legislation.gov.uk/uksi/2024/1384), [art. 1](https://www.legislation.gov.uk/uksi/2024/1384/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1384/schedule) Table
 
 [^f00030]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).

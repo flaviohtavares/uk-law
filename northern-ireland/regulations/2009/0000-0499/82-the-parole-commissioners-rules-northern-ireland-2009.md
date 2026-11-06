@@ -46,13 +46,13 @@ The Secretary of State makes the following rules in exercise of the powers confe
 
 ## PART 1 — INTRODUCTORY
 
-### 1. Title and Commencement[^key-223d0a9f63942aef279eb4f677e50e56]
+### 1. Title and Commencement[^c-223d0a9f63942aef279eb4f677e50e56]
 
 These rules may be cited as the Parole Commissioners’ Rules 2009 and shall come into operation on 1 April 2009.
 
-### 2. Application and Interpretation[^key-1c8ca3335d14cbd05b307561c055d6bb]
+### 2. Application and Interpretation[^c-1c8ca3335d14cbd05b307561c055d6bb]
 
-(1) Subject to rules 25, 26 and 31(1) these rules apply where a prisoner’s case is referred to the Commissioners by the Secretary of State under Articles 6 or 9(4) of the 2001 Order or Articles 18 , 20A[^key-2fff0038b3e055deac78378eb7561100] or 28(4) of the 2008 Order.
+(1) Subject to rules 25, 26 and 31(1) these rules apply where a prisoner’s case is referred to the Commissioners by the Secretary of State under Articles 6 or 9(4) of the 2001 Order or Articles 18 , 20A[^c-2fff0038b3e055deac78378eb7561100] or 28(4) of the 2008 Order.
 
 (2) In these rules—
 
@@ -78,7 +78,7 @@ These rules may be cited as the Parole Commissioners’ Rules 2009 and shall com
 
 ## PART 2 — POWERS
 
-### 3. General powers of the Commissioners[^key-c9e06926978c71aff1943a7b997d867b]
+### 3. General powers of the Commissioners[^c-c9e06926978c71aff1943a7b997d867b]
 
 (1) Subject to the provisions of these rules, the Commissioners may regulate their own procedure in dealing with any matter as they consider appropriate.
 
@@ -90,17 +90,17 @@ These rules may be cited as the Parole Commissioners’ Rules 2009 and shall com
 
 (5) A copy of the report of the interview prepared under paragraph (4) shall be made available to the prisoner and the Secretary of State.
 
-### 4. The deputy Chief Commissioner[^key-8665c557d936e3793dffd2fb43fdcd8c]
+### 4. The deputy Chief Commissioner[^c-8665c557d936e3793dffd2fb43fdcd8c]
 
 The deputy Chief Commissioner shall exercise such powers and functions as may be delegated by the Chief Commissioner and in the event of the Chief Commissioner being unavailable shall exercise all or any of the powers and functions conferred on the Chief Commissioner by these rules.
 
-### 5. Deemed delegation to deputy Chief Commissioner[^key-9ed7c4b233f327ea449185b6054d0ecc]
+### 5. Deemed delegation to deputy Chief Commissioner[^c-9ed7c4b233f327ea449185b6054d0ecc]
 
 When the Chief Commissioner is a member of a panel dealing with a case, the Chief Commissioner shall, after appointment of the panel under rule 12(2) be deemed to have delegated all of the powers and functions of the Chief Commissioner relating to that case to the deputy Chief Commissioner.
 
 ## PART 3 — PRISONERS’ CASES
 
-### 6. Listing and provisional timetable[^key-1e657622749e207ce659e6b9bba88646]
+### 6. Listing and provisional timetable[^c-1e657622749e207ce659e6b9bba88646]
 
 (1) Where a case is referred to the Commissioners by the Secretary of State the Commissioners shall, within 7 days, list the case and serve written notice of referral on the parties indicating a provisional timetable for consideration of the case by a single Commissioner.
 
@@ -111,14 +111,14 @@ When the Chief Commissioner is a member of a panel dealing with a case, the Chie
 - (a) where the single Commissioner has provisionally directed that the prisoner be released or has directed that the case should be considered by a panel, is no later than 8 weeks from the date of the provisional direction or direction as the case may be; or
 - (b) where the single Commissioner has directed that the prisoner not be released and the prisoner has served a notice in accordance with rule 13(5), is no later than 8 weeks from the date of service of the notice.
 
-### 7. Representation[^key-094d6a3ee5c6a5e8a9e0d3740d93a654]
+### 7. Representation[^c-094d6a3ee5c6a5e8a9e0d3740d93a654]
 
 (1) Subject to paragraphs (2) and (3) the prisoner may appoint a person to act as the prisoner’s representative.
 
 (2) ) The following persons may act as a representative of the prisoner only with the consent of the Chief Commissioner:
 
 - (a) any person serving a sentence of imprisonment;
-- (b) any person who has been released from prison on licence for life, or any person who —[^key-7c10299a057574915ba804a29fe779ef]
+- (b) any person who has been released from prison on licence for life, or any person who —[^c-7c10299a057574915ba804a29fe779ef]
   - (i) is on licence having been released under Article 18 or 20A of the 2008 Order, or
   - (ii) is a person to whom Article 18 or 20A of that Order applies and who is on licence having been released under Article 20 of that Order;
 - (c) any person who is on licence having been released from prison under Article 26 of the Criminal Justice (Northern Ireland) Order 1996[^f00004];
@@ -147,7 +147,7 @@ When the Chief Commissioner is a member of a panel dealing with a case, the Chie
 
 (12) In paragraph (11)(a) “governor” means any governor and includes a prison officer to whom a governor’s functions has been delegated.
 
-### 8. Information and reports by the Secretary of State[^key-970f016704bdc9c3394ad933b9aeff0d]
+### 8. Information and reports by the Secretary of State[^c-970f016704bdc9c3394ad933b9aeff0d]
 
 (1) Within 8 weeks of the case being listed for hearing, and subject to paragraph (2) and rule 9, the Secretary of State shall serve on the Commissioners and the prisoner or the prisoner’s representative:
 
@@ -165,7 +165,7 @@ When the Chief Commissioner is a member of a panel dealing with a case, the Chie
 
 provided that no information disclosed in accordance with this paragraph shall be disclosed either directly or indirectly to the prisoner or to any other person without the authority of the single Commissioner, or the chairman of the panel.
 
-### 9. Non-disclosure of confidential information[^key-a87f6d5948b0f9bc224337c19428ff7f]
+### 9. Non-disclosure of confidential information[^c-a87f6d5948b0f9bc224337c19428ff7f]
 
 (1) This rule applies where the Secretary of State certifies as confidential information any information, document or evidence which, in the Secretary of State’s opinion, would, if disclosed to the prisoner or any other person be likely to:
 
@@ -182,11 +182,11 @@ and any such information, document or evidence is referred to in these rules as 
 
 (3) Where the Secretary of State has certified information as confidential, the Secretary of State shall, within 7 days of doing so, serve on the prisoner and on the Commissioners, whether by way of inclusion with the case papers or otherwise, written notice of this stating, so far as the Secretary of State considers it possible to do so without causing harm of the kind referred to in paragraph (1), the gist of the information withheld and the reasons for withholding it.
 
-### 10. Evidence of the prisoner[^key-cac2d23f5554f3850b3be9e59192b0e7]
+### 10. Evidence of the prisoner[^c-cac2d23f5554f3850b3be9e59192b0e7]
 
 Where the prisoner wishes to make representations about the case or to adduce documentary evidence, the prisoner shall serve such representations and documentary evidence on the Commissioners and the Secretary of State within 14 weeks of the case being listed.
 
-### 11. Further evidence and information[^key-8a43ac16498392afc9853e0186ed0e1d]
+### 11. Further evidence and information[^c-8a43ac16498392afc9853e0186ed0e1d]
 
 (1) Following receipt of the papers from the parties, the single Commissioner or the chairman of the panel may require either party to produce further evidence or information on any topic relevant to the conduct or determination of the case and may stay the progress of the case until a response to their requirement has been received.
 
@@ -194,7 +194,7 @@ Where the prisoner wishes to make representations about the case or to adduce do
 
 (3) A party may not supplement or add to case papers, response papers or further evidence and information produced and served under this rule without the leave of the single Commissioner or the chairman of the panel dealing with the case, as the case may be.
 
-### 12. Appointment of single Commissioner and panels of Commissioners[^key-40b16165ddd9b28dc8aff13e26f69cb4]
+### 12. Appointment of single Commissioner and panels of Commissioners[^c-40b16165ddd9b28dc8aff13e26f69cb4]
 
 (1) Within 7 days from the referral of a prisoner’s case to the Commissioners by the Secretary of State the Chief Commissioner shall appoint a Commissioner who shall act as the single Commissioner for the purpose of conducting proceedings in relation to a prisoner’s case pursuant to rule 13.
 
@@ -208,7 +208,7 @@ Where the prisoner wishes to make representations about the case or to adduce do
 
 (6) If a Commissioner who has been appointed as the single Commissioner under paragraph (1) or as a member of a panel under paragraph (2) becomes unavailable or if the Chief Commissioner considers that it would be inappropriate for that Commissioner to continue to act the Chief Commissioner shall, subject to paragraphs (3), (4) and (5), appoint another Commissioner to take the place of that Commissioner.
 
-### 13. Consideration by single Commissioner[^key-f301fd2b9c8321998b40c0c2ffe7e26b]
+### 13. Consideration by single Commissioner[^c-f301fd2b9c8321998b40c0c2ffe7e26b]
 
 (1) Within 4 weeks of the expiry of the time specified in rule 10 the single Commissioner shall consider the prisoner’s case and make a provisional direction or direction under paragraph (2).
 
@@ -228,7 +228,7 @@ Where the prisoner wishes to make representations about the case or to adduce do
 
 (7) Subject to paragraph (6); directions made under paragraph (2)(a) or (b) are provisional directions only, final directions shall only be made pursuant to rules 16 or 17.
 
-### 14. Directions of single Commissioner[^key-e991e7369b30581535e19e739e233e03]
+### 14. Directions of single Commissioner[^c-e991e7369b30581535e19e739e233e03]
 
 (1) Subject to paragraph (2), before a panel is appointed under rule 12(2), the single Commissioner may give, vary or revoke directions to ensure the efficient further conduct of the prisoner’s case, including directions in respect of matters such as:
 
@@ -258,7 +258,7 @@ and following the single Commissioner’s appointment under rule 12(1) and consi
 
 (8) The time specified in rule 13(5) shall not be varied save in exceptional circumstances.
 
-### 15. Adjournment[^key-0c677d63461c31139428a141b757587f]
+### 15. Adjournment[^c-0c677d63461c31139428a141b757587f]
 
 (1) The single Commissioner or the panel may at any time adjourn the consideration of a prisoner’s case by way of direction for any purpose they consider appropriate
 
@@ -268,7 +268,7 @@ and following the single Commissioner’s appointment under rule 12(1) and consi
 
 (4) Where an oral hearing is adjourned without a date having been fixed under paragraph (2), the chairman of the panel shall give the parties not less than 14 days notice, or such shorter notice to which all parties may consent, of the date, time and place of the resumed hearing.
 
-### 16. Provisional direction of single Commissioner that the prisoner be released or single Commissioner directs that the case should be considered by a panel[^key-3765e4118f7694372af27065a6a3de17]
+### 16. Provisional direction of single Commissioner that the prisoner be released or single Commissioner directs that the case should be considered by a panel[^c-3765e4118f7694372af27065a6a3de17]
 
 (1) In any case where:
 
@@ -284,7 +284,7 @@ the prisoner’s case shall be considered by a panel appointed under rule 12(2).
 - (a) direct that the prisoner not be released; or
 - (b) direct that the prisoner be released.
 
-### 17. Provisional direction of single Commissioner that the prisoner not be released[^key-95f01dbc1d428cce70721ecbe76b6132]
+### 17. Provisional direction of single Commissioner that the prisoner not be released[^c-95f01dbc1d428cce70721ecbe76b6132]
 
 (1) Where the single Commissioner has made a provisional direction under rule 13(2)(b) that the prisoner not be released, and the prisoner has served such notice as is required under rule 13(5) a panel formed under rule 12(2) shall consider the prisoner’s case.
 
@@ -295,7 +295,7 @@ the prisoner’s case shall be considered by a panel appointed under rule 12(2).
 - (a) direct that the prisoner not be released; or
 - (b) direct that the prisoner be released.
 
-### 18. Directions of chairman of the panel[^key-90e6cc44bf1d30098f59f22523108ce8]
+### 18. Directions of chairman of the panel[^c-90e6cc44bf1d30098f59f22523108ce8]
 
 (1) Subject to paragraph (2), the chairman of the panel may give, vary or revoke directions for the conduct of the case allocated to the panel, including directions in respect of matters such as:
 
@@ -335,7 +335,7 @@ and following appointment under rule 12(2), the chairman of the panel shall cons
 
 (10) The direction of the Chief Commissioner made under paragraph (7) shall be final and shall be recorded in writing with reasons, dated and signed by the Chief Commissioner, and served on the parties not more that 7 days after the date of the making of the direction.
 
-### 19. Special advocates[^key-1aee1664e51548886b3b80e139f5dcfe]
+### 19. Special advocates[^c-1aee1664e51548886b3b80e139f5dcfe]
 
 (1) On receiving a certificate of confidential information under rule 9, the single Commissioner or chairman of the panel dealing with the case shall inform the Advocate General for Northern Ireland of the proceedings before the panel, with a view to the Advocate General for Northern Ireland, if the Advocate General for Northern Ireland thinks fit to do so, appointing a special advocate to represent the interests of the prisoner.
 
@@ -354,29 +354,29 @@ and following appointment under rule 12(2), the chairman of the panel shall cons
 
 (6) Until section 27 of the Justice (Northern Ireland) Act 2002[^f00006] comes into force, paragraph (1) shall have effect as if the references to the Advocate General for Northern Ireland were references to the Attorney-General.
 
-### 20. Notice of oral hearing[^key-94ab1ca6bedf7489b1478aa02226f8eb]
+### 20. Notice of oral hearing[^c-94ab1ca6bedf7489b1478aa02226f8eb]
 
 (1) When finalising the date for an oral hearing the Commissioners shall consult the parties.
 
 (2) The Commissioners shall give the parties at least 2 weeks’ notice of the date, time and place scheduled for oral hearing or such shorter notice to which the parties may consent.
 
-### 21. Witnesses[^key-fb97ebdb111ced1265616abc62be6109]
+### 21. Witnesses[^c-fb97ebdb111ced1265616abc62be6109]
 
 (1) Where one party wishes to call witnesses at the oral hearing, that party shall make a written application to the chairman of the panel, and shall serve a copy on the other party at least 6 weeks before the date of the hearing, giving the name, address and occupation of the witnesses whom that party wishes to call and the substance of the evidence that party proposes to adduce.
 
 (2) The chairman of the panel may grant or refuse an application under paragraph (1) and shall communicate within 7 days the decision to both parties, giving reasons in writing, in the case of a refusal, for the decision.
 
-### 22. Location and privacy of oral hearings[^key-cbf624b422d3a025131295b8ea7ba0a2]
+### 22. Location and privacy of oral hearings[^c-cbf624b422d3a025131295b8ea7ba0a2]
 
 (1) Subject to rule 18(9) oral hearings shall be held at the prison unless the chairman of the panel and the parties agree otherwise.
 
 (2) Oral hearings shall be held in private.
 
-(3) Subject to rule 22A, information[^key-c0fcb13f0c19d8e9d21acdf3f2947765] about the proceedings and the names of any persons concerned in the proceedings shall not be made public.
+(3) Subject to rule 22A, information[^c-c0fcb13f0c19d8e9d21acdf3f2947765] about the proceedings and the names of any persons concerned in the proceedings shall not be made public.
 
 (4) The chairman of the panel may admit to the oral hearing such persons on such terms and conditions as the chairman of the panel considers appropriate.
 
-### 22A. Information about proceedings[^key-8ce8acd57efa36d3cf07f074b4f18bb6]
+### 22A. Information about proceedings[^c-8ce8acd57efa36d3cf07f074b4f18bb6]
 
 (1) Where a registered victim or other person makes a request for a summary of the reasons for a provisional direction of a single Commissioner recorded under rule 13(2)(b) that has become final by virtue of rule 13(6), the Chief Commissioner must appoint a Commissioner to consider the request. The appointed Commissioner must then produce a summary of the reasons for that direction, unless the appointed Commissioner decides that there are exceptional circumstances why a summary should not be produced for disclosure.
 
@@ -406,7 +406,7 @@ and following appointment under rule 12(2), the chairman of the panel shall cons
 - (b) the Probation Board for Northern Ireland Victim Information Scheme, 2005;
 - (c) the Victims of Mentally Disordered Offenders Information (Northern Ireland) Scheme, 2008.
 
-### 22B. Appeals about summaries[^key-2663fc544a8e5ccb02a40205853e5793]
+### 22B. Appeals about summaries[^c-2663fc544a8e5ccb02a40205853e5793]
 
 (1) here a Commissioner appointed under paragraph (1) or (4) of Rule 22A decides that there are exceptional circumstances why a summary should not be produced for disclosure pursuant to the respective paragraph, the registered victim or other person who has made the request for the summary, may, within 14 days of being served with notice of that decision, appeal to the Chief Commissioner by serving a written notice of appeal on the Chief Commissioner stating the grounds of the appeal.
 
@@ -419,7 +419,7 @@ and following appointment under rule 12(2), the chairman of the panel shall cons
 
 (4) Rule 22A applies to the production of a summary following a direction on appeal under this Rule for the production of a summary.
 
-### 23. Oral hearing procedure[^key-3ad802d2d4277409f954551f6f2bee91]
+### 23. Oral hearing procedure[^c-3ad802d2d4277409f954551f6f2bee91]
 
 (1) At the beginning of the oral hearing the chairman of the panel shall explain the order of proceedings which the panel proposes to adopt.
 
@@ -444,7 +444,7 @@ and following appointment under rule 12(2), the chairman of the panel shall cons
 
 (9) After all the evidence has been heard, the prisoner shall be given a further opportunity to address the panel.
 
-### 24. The decision of the panel[^key-29d13de6b907df071ad1bab2f7e568d0]
+### 24. The decision of the panel[^c-29d13de6b907df071ad1bab2f7e568d0]
 
 (1) The decision of the majority of the panel shall be the decision of the panel.
 
@@ -452,18 +452,18 @@ and following appointment under rule 12(2), the chairman of the panel shall cons
 
 ## PART 4 — RECALLED PRISONERS
 
-### 25. Recalled life, indeterminate and extended custodial and terrorist prisoners[^key-550a87f8618957b299abfbeeafc730d7][^key-e4725cd97f776672a3bae6cbb22e1dd1]
+### 25. Recalled life, indeterminate and extended custodial and terrorist prisoners[^c-550a87f8618957b299abfbeeafc730d7][^c-e4725cd97f776672a3bae6cbb22e1dd1]
 
-Where the Secretary of State refers a life prisoner’s case to the Commissioners under Article 9(4) of the 2001 Order or the case of a prisoner who was released on licence under Article 18 or 20A of the 2008 Order[^key-d628ca89058b2d15e9f4f720def05132] to the Commissioners under Article 28(4) of the 2008 Order, these rules shall apply subject to the following modifications:
+Where the Secretary of State refers a life prisoner’s case to the Commissioners under Article 9(4) of the 2001 Order or the case of a prisoner who was released on licence under Article 18 or 20A of the 2008 Order[^c-d628ca89058b2d15e9f4f720def05132] to the Commissioners under Article 28(4) of the 2008 Order, these rules shall apply subject to the following modifications:
 
 - (a) rules 6, 7(4), (7), (9) and (10), 8(1), 9(3), 10, 12(1), 13(1), (3) and (6), 14(3), (4), (5) and (7), 15(3) and (4), 18(3), (4), (5), (7)(b) and (10), 20(2), 21 and 24(2) shall apply as if for references to the periods of time specified there were substituted a reference to such period of time as the Commissioners, the single Commissioner or the chairman of the panel shall determine, taking account of both the desirability of reaching an early decision in the prisoner’s case and the need to ensure fairness to the prisoner; and
 - (b) rule 8(1) shall apply as if for the reference to the information and reports specified in Schedule 1 there were substituted a reference to the information and reports specified in Schedule 2.
 
 ## PART 5 — SHORT CUSTODIAL TERMS
 
-### 26. Short custodial terms[^key-c42412a71eb7c9c9753f3906172dc580]
+### 26. Short custodial terms[^c-c42412a71eb7c9c9753f3906172dc580]
 
-(1)[^key-bf7ac9e23a8f5fc0bcce5a104a05f1f3] Subject to paragraph (2), where—
+(1)[^c-bf7ac9e23a8f5fc0bcce5a104a05f1f3] Subject to paragraph (2), where—
 
 - (a) the Department of Justice refers to the Commissioners—
   - (i) the case of an extended custodial prisoner under Article 18 of the 2008 Order, or
@@ -474,7 +474,7 @@ these rules shall apply subject to the modifications made by rule 25(a).
 
 (2) Where this rule applies the prisoner may agree that the modifications made by rule 25(a) do not have effect.
 
-(3)[^key-70c5f4c2e23db7f5474cff3c05f361e7] For the purposes of paragraph (1)(b), the “relevant part of the sentence”—
+(3)[^c-70c5f4c2e23db7f5474cff3c05f361e7] For the purposes of paragraph (1)(b), the “relevant part of the sentence”—
 
 - (a) in the case of an extended custodial prisoner to whom Article 18 of the 2008 Order applies, means one half of the appropriate custodial term of the sentence as defined by Article 14(4) or 14(6) of that Order;
 - (b) in the case of a prisoner to whom Article 20A of that Order applies, has the meaning given by paragraph (9) of that Article;
@@ -483,11 +483,11 @@ and in determining the length of that part any reduction required by section 26(
 
 ## PART 6 — MISCELLANEOUS
 
-### 27. Time[^key-1b4117d8a82db3f99d9be430a15a1ba3]
+### 27. Time[^c-1b4117d8a82db3f99d9be430a15a1ba3]
 
 Where the time prescribed by or under these rules for doing any act expires on a Saturday, Sunday or public holiday in Northern Ireland, the act shall be done in time if done on the next working day.
 
-### 28. Transmission of documents[^key-4ee8bd5cce7354c30a939ba223d08047]
+### 28. Transmission of documents[^c-4ee8bd5cce7354c30a939ba223d08047]
 
 (1) Subject to paragraph (2), any document required or authorised by these rules to be served on or otherwise transmitted to any person may be sent by pre-paid post or delivered:
 
@@ -505,11 +505,11 @@ Where the time prescribed by or under these rules for doing any act expires on a
 
 (4) In this rule “FAX” means the making of a facsimile copy of a document by the transmission of electronic signals.
 
-### 29. Irregularities[^key-5258d3286d7b18043a14c9cd9604f43d]
+### 29. Irregularities[^c-5258d3286d7b18043a14c9cd9604f43d]
 
 Any irregularity resulting from a failure to comply with these rules, or with any rule of practice for the time being in force, which occurs before a single Commissioner appointed under rule 12(1) or a panel appointed under rule 12(2) has determined a case shall not of itself render the proceedings void, unless the Commissioners, the single Commissioner or the panel shall so direct, but such proceedings may be set aside either wholly or in part as irregular, or amended or otherwise dealt with in such manner and upon such terms as the Commissioners, the single Commissioner or the panel shall think fit.
 
-### 30. Clerical mistakes and slips[^key-685f73bff119beb036966b1b1a4d8be0]
+### 30. Clerical mistakes and slips[^c-685f73bff119beb036966b1b1a4d8be0]
 
 Clerical mistakes in any document recording decisions under these rules, or errors arising in such document from an accidental slip or omission, may be corrected:
 
@@ -520,13 +520,13 @@ Clerical mistakes in any document recording decisions under these rules, or erro
 
 ## PART 7 — SUPPLEMENTARY
 
-### 31. Transitional Provision[^key-4d2ef25a8bfa71fe184e5280146e3ffb]
+### 31. Transitional Provision[^c-4d2ef25a8bfa71fe184e5280146e3ffb]
 
 (1) Where the case of a life prisoner has been listed under rule 4 of the 2001 Rules before the coming into operation of these rules, the 2001 Rules shall apply.
 
 (2) Where the case of a life prisoner is listed on or after these rules come into operation, these rules shall apply.
 
-### 32. Revocation and saving[^key-03e36d3fb4053af8176b8774f4a3967f]
+### 32. Revocation and saving[^c-03e36d3fb4053af8176b8774f4a3967f]
 
 (1) Subject to paragraph (2) the 2001 Rules are revoked.
 
@@ -540,7 +540,7 @@ Northern Ireland Office
 
 ## SCHEDULE 1 — Information and reports for submission by the Secretary of State on a reference to the Commissioners under Article 6 of the 2001 Order or Article 18 of the 2008 Order
 
-### PART A — Information Relating to the Prisoner[^key-d41d0c5dcdac58f47c865f47a9793fa5]
+### PART A — Information Relating to the Prisoner[^c-d41d0c5dcdac58f47c865f47a9793fa5]
 
 - **1.** The full name of the prisoner.
 - **2.** The date of birth of the prisoner.
@@ -551,7 +551,7 @@ Northern Ireland Office
 - **7.** Where applicable, the conclusions of the Court of Appeal in respect of any appeal by the prisoner, the Attorney-General or the Director of Public Prosecutions for Northern Ireland against conviction or sentence.
 - **8.** Where applicable, particulars of and documents relating to any previous applications by the prisoner in respect of the case.
 
-### PART B — Reports Relating to the Prisoner[^key-d51e8c9de518374663068e191f0d5ace]
+### PART B — Reports Relating to the Prisoner[^c-d51e8c9de518374663068e191f0d5ace]
 
 - **1.** Any pre-trial and pre-sentence reports examined by the sentencing court and any police report on the circumstances of the offence(s).
 - **2.** Any report on the prisoner while he was subject to a transfer direction under Article 53 of the Mental Health (Northern Ireland) Order 1986[^f00008].
@@ -583,7 +583,7 @@ Northern Ireland Office
 
 ## SCHEDULE 2 — Information and reports for submission by the Secretary of State on a reference to the Commissioners under Article 9(4) of the 2001 Order or an indeterminate custodial prisoner’s or extended custodial prisoner’s case under Article 28(4) of the 2008 Order
 
-### PART A — Information Relating to the Prisoner[^key-16e97bfba45c9704128dabf65c92f833]
+### PART A — Information Relating to the Prisoner[^c-16e97bfba45c9704128dabf65c92f833]
 
 - **1.** The full name of the prisoner.
 - **2.** The date of birth of the prisoner.
@@ -595,7 +595,7 @@ Northern Ireland Office
 - **8.** The statement of reasons for the most recent recall which was given to the prisoner, and any representations made by him under Article 9(3) of the 2001 Order or Article 28(3)(b) of the 2008 Order.
 - **9** The details of any memorandum which the Commissioners considered prior to making their recommendation for recall under Article 9(1) of the 2001 Order or Article 28(2)(a) of the 2008 Order or confirming the Secretary of State’s decision to recall under Article 9(2) of the 2001 Order or Article 28(2)(b) of the 2008 Order, including the reasons why the Secretary of State considered it expedient in the public interest to recall that prisoner before a recommendation from the Commissioners was practicable.
 
-### PART B — Reports Relating to the Prisoner[^key-336093e519e502b4357e88d50dca224a]
+### PART B — Reports Relating to the Prisoner[^c-336093e519e502b4357e88d50dca224a]
 
 - **1.** Any reports considered by the Commissioners prior to making its recommendation for recall under Article 9(1) of the 2001 Order or Article 28(2)(a) of the 2008 Order or its confirmation of the Secretary of State’s decision to recall under Article 9(2) of the 2001 Order or Article 28(2)(b) of the 2008 Order.
 - **2.** Any other relevant reports.
@@ -618,104 +618,104 @@ Rule 32 provides for the revocation of the Life Sentence Review Commissioners’
 
 [^f00001]: Footnote: [S.I. 2008/1216 (N.I. 1)](https://www.legislation.gov.uk/nisi/2008/1216)
 
-[^key-223d0a9f63942aef279eb4f677e50e56]: Commencement: Rule 1 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-223d0a9f63942aef279eb4f677e50e56]: Commencement: Rule 1 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
-[^key-1c8ca3335d14cbd05b307561c055d6bb]: Commencement: Rule 2 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-1c8ca3335d14cbd05b307561c055d6bb]: Commencement: Rule 2 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
-[^key-2fff0038b3e055deac78378eb7561100]: Textual amendment: Word in [rule 2(1)](https://www.legislation.gov.uk/nisr/2009/82/rule/2/1) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 76(2)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/76/2)
+[^c-2fff0038b3e055deac78378eb7561100]: Textual amendment: Word in [rule 2(1)](https://www.legislation.gov.uk/nisr/2009/82/rule/2/1) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 76(2)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/76/2)
 
 [^f00002]: Footnote: [S.I. 2001/2564 (N.I.2)](https://www.legislation.gov.uk/nisi/2001/2564)
 
 [^f00003]: Footnote: [S.R. 2001 No. 317](https://www.legislation.gov.uk/nisr/2001/317)
 
-[^key-c9e06926978c71aff1943a7b997d867b]: Commencement: Rule 3 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-c9e06926978c71aff1943a7b997d867b]: Commencement: Rule 3 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
-[^key-8665c557d936e3793dffd2fb43fdcd8c]: Commencement: Rule 4 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-8665c557d936e3793dffd2fb43fdcd8c]: Commencement: Rule 4 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
-[^key-9ed7c4b233f327ea449185b6054d0ecc]: Commencement: Rule 5 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-9ed7c4b233f327ea449185b6054d0ecc]: Commencement: Rule 5 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
-[^key-1e657622749e207ce659e6b9bba88646]: Commencement: Rule 6 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-1e657622749e207ce659e6b9bba88646]: Commencement: Rule 6 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
-[^key-094d6a3ee5c6a5e8a9e0d3740d93a654]: Commencement: Rule 7 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-094d6a3ee5c6a5e8a9e0d3740d93a654]: Commencement: Rule 7 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
-[^key-7c10299a057574915ba804a29fe779ef]: Textual amendment: [Rule 7(2)(b)(i)](https://www.legislation.gov.uk/nisr/2009/82/rule/7/2/b/i)[(ii)](https://www.legislation.gov.uk/nisr/2009/82/rule/7/2/b/ii) substituted for words (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 76(3)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/76/3)
+[^c-7c10299a057574915ba804a29fe779ef]: Textual amendment: [Rule 7(2)(b)(i)](https://www.legislation.gov.uk/nisr/2009/82/rule/7/2/b/i)[(ii)](https://www.legislation.gov.uk/nisr/2009/82/rule/7/2/b/ii) substituted for words (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 76(3)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/76/3)
 
 [^f00004]: Footnote: [SI 1996/3160 (N.I. 24)](https://www.legislation.gov.uk/nisi/1996/3160) as modified by [S.R. 2008 No. 217](https://www.legislation.gov.uk/nisr/2008/217)
 
 [^f00005]: Footnote: [SI 1998/1504 (N.I. 9)](https://www.legislation.gov.uk/nisi/1998/1504) as amended by [S.I. 2001/2564 (N.I. 2)](https://www.legislation.gov.uk/nisi/2001/2564)
 
-[^key-970f016704bdc9c3394ad933b9aeff0d]: Commencement: Rule 8 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-970f016704bdc9c3394ad933b9aeff0d]: Commencement: Rule 8 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
-[^key-a87f6d5948b0f9bc224337c19428ff7f]: Commencement: Rule 9 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-a87f6d5948b0f9bc224337c19428ff7f]: Commencement: Rule 9 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
-[^key-cac2d23f5554f3850b3be9e59192b0e7]: Commencement: Rule 10 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-cac2d23f5554f3850b3be9e59192b0e7]: Commencement: Rule 10 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
-[^key-8a43ac16498392afc9853e0186ed0e1d]: Commencement: Rule 11 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-8a43ac16498392afc9853e0186ed0e1d]: Commencement: Rule 11 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
-[^key-40b16165ddd9b28dc8aff13e26f69cb4]: Commencement: Rule 12 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-40b16165ddd9b28dc8aff13e26f69cb4]: Commencement: Rule 12 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
-[^key-f301fd2b9c8321998b40c0c2ffe7e26b]: Commencement: Rule 13 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-f301fd2b9c8321998b40c0c2ffe7e26b]: Commencement: Rule 13 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
-[^key-e991e7369b30581535e19e739e233e03]: Commencement: Rule 14 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-e991e7369b30581535e19e739e233e03]: Commencement: Rule 14 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
-[^key-0c677d63461c31139428a141b757587f]: Commencement: Rule 15 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-0c677d63461c31139428a141b757587f]: Commencement: Rule 15 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
-[^key-3765e4118f7694372af27065a6a3de17]: Commencement: Rule 16 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-3765e4118f7694372af27065a6a3de17]: Commencement: Rule 16 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
-[^key-95f01dbc1d428cce70721ecbe76b6132]: Commencement: Rule 17 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-95f01dbc1d428cce70721ecbe76b6132]: Commencement: Rule 17 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
-[^key-90e6cc44bf1d30098f59f22523108ce8]: Commencement: Rule 18 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-90e6cc44bf1d30098f59f22523108ce8]: Commencement: Rule 18 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
-[^key-1aee1664e51548886b3b80e139f5dcfe]: Commencement: Rule 19 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-1aee1664e51548886b3b80e139f5dcfe]: Commencement: Rule 19 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
 [^f00006]: Footnote: [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26)
 
-[^key-94ab1ca6bedf7489b1478aa02226f8eb]: Commencement: Rule 20 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-94ab1ca6bedf7489b1478aa02226f8eb]: Commencement: Rule 20 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
-[^key-fb97ebdb111ced1265616abc62be6109]: Commencement: Rule 21 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-fb97ebdb111ced1265616abc62be6109]: Commencement: Rule 21 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
-[^key-cbf624b422d3a025131295b8ea7ba0a2]: Commencement: Rule 22 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-cbf624b422d3a025131295b8ea7ba0a2]: Commencement: Rule 22 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
-[^key-c0fcb13f0c19d8e9d21acdf3f2947765]: Textual amendment: Words in [rule 22(3)](https://www.legislation.gov.uk/nisr/2009/82/rule/22/3) substituted (21.6.2021) by [The Parole Commissioners’ (Amendment) Rules (Northern Ireland) 2021 (S.R. 2021/138)](https://www.legislation.gov.uk/nisr/2021/138), [rules 1](https://www.legislation.gov.uk/nisr/2021/138/rule/1), [2(1)](https://www.legislation.gov.uk/nisr/2021/138/rule/2/1)
+[^c-c0fcb13f0c19d8e9d21acdf3f2947765]: Textual amendment: Words in [rule 22(3)](https://www.legislation.gov.uk/nisr/2009/82/rule/22/3) substituted (21.6.2021) by [The Parole Commissioners’ (Amendment) Rules (Northern Ireland) 2021 (S.R. 2021/138)](https://www.legislation.gov.uk/nisr/2021/138), [rules 1](https://www.legislation.gov.uk/nisr/2021/138/rule/1), [2(1)](https://www.legislation.gov.uk/nisr/2021/138/rule/2/1)
 
-[^key-8ce8acd57efa36d3cf07f074b4f18bb6]: Textual amendment: [Rule 22A](https://www.legislation.gov.uk/nisr/2009/82/rule/22A) substituted (21.3.2022) by [The Parole Commissioners’ (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/65)](https://www.legislation.gov.uk/nisr/2022/65), [rules 1](https://www.legislation.gov.uk/nisr/2022/65/rule/1), [3](https://www.legislation.gov.uk/nisr/2022/65/rule/3) (with [rule 5(1)-(3)](https://www.legislation.gov.uk/nisr/2022/65/rule/5/1))
+[^c-8ce8acd57efa36d3cf07f074b4f18bb6]: Textual amendment: [Rule 22A](https://www.legislation.gov.uk/nisr/2009/82/rule/22A) substituted (21.3.2022) by [The Parole Commissioners’ (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/65)](https://www.legislation.gov.uk/nisr/2022/65), [rules 1](https://www.legislation.gov.uk/nisr/2022/65/rule/1), [3](https://www.legislation.gov.uk/nisr/2022/65/rule/3) (with [rule 5(1)-(3)](https://www.legislation.gov.uk/nisr/2022/65/rule/5/1))
 
-[^key-2663fc544a8e5ccb02a40205853e5793]: Textual amendment: [Rule 22B](https://www.legislation.gov.uk/nisr/2009/82/rule/22B) inserted (21.3.2022) by [The Parole Commissioners’ (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/65)](https://www.legislation.gov.uk/nisr/2022/65), [rules 1](https://www.legislation.gov.uk/nisr/2022/65/rule/1), [4](https://www.legislation.gov.uk/nisr/2022/65/rule/4) (with [rule 5(1)-(3)](https://www.legislation.gov.uk/nisr/2022/65/rule/5/1))
+[^c-2663fc544a8e5ccb02a40205853e5793]: Textual amendment: [Rule 22B](https://www.legislation.gov.uk/nisr/2009/82/rule/22B) inserted (21.3.2022) by [The Parole Commissioners’ (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/65)](https://www.legislation.gov.uk/nisr/2022/65), [rules 1](https://www.legislation.gov.uk/nisr/2022/65/rule/1), [4](https://www.legislation.gov.uk/nisr/2022/65/rule/4) (with [rule 5(1)-(3)](https://www.legislation.gov.uk/nisr/2022/65/rule/5/1))
 
-[^key-3ad802d2d4277409f954551f6f2bee91]: Commencement: Rule 23 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-3ad802d2d4277409f954551f6f2bee91]: Commencement: Rule 23 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
-[^key-29d13de6b907df071ad1bab2f7e568d0]: Commencement: Rule 24 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-29d13de6b907df071ad1bab2f7e568d0]: Commencement: Rule 24 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
-[^key-550a87f8618957b299abfbeeafc730d7]: Commencement: Rule 25 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-550a87f8618957b299abfbeeafc730d7]: Commencement: Rule 25 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
-[^key-e4725cd97f776672a3bae6cbb22e1dd1]: Textual amendment: Words in [rule 25](https://www.legislation.gov.uk/nisr/2009/82/rule/25) heading inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 76(4)(a)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/76/4/a)
+[^c-e4725cd97f776672a3bae6cbb22e1dd1]: Textual amendment: Words in [rule 25](https://www.legislation.gov.uk/nisr/2009/82/rule/25) heading inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 76(4)(a)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/76/4/a)
 
-[^key-d628ca89058b2d15e9f4f720def05132]: Textual amendment: Words in [rule 25](https://www.legislation.gov.uk/nisr/2009/82/rule/25) substituted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 76(4)(b)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/76/4/b)
+[^c-d628ca89058b2d15e9f4f720def05132]: Textual amendment: Words in [rule 25](https://www.legislation.gov.uk/nisr/2009/82/rule/25) substituted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 76(4)(b)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/76/4/b)
 
-[^key-c42412a71eb7c9c9753f3906172dc580]: Commencement: Rule 26 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-c42412a71eb7c9c9753f3906172dc580]: Commencement: Rule 26 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
-[^key-bf7ac9e23a8f5fc0bcce5a104a05f1f3]: Textual amendment: [Rule 26(1)](https://www.legislation.gov.uk/nisr/2009/82/rule/26/1) substituted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 76(5)(a)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/76/5/a)
+[^c-bf7ac9e23a8f5fc0bcce5a104a05f1f3]: Textual amendment: [Rule 26(1)](https://www.legislation.gov.uk/nisr/2009/82/rule/26/1) substituted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 76(5)(a)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/76/5/a)
 
-[^key-70c5f4c2e23db7f5474cff3c05f361e7]: Textual amendment: [Rule 26(3)](https://www.legislation.gov.uk/nisr/2009/82/rule/26/3) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 76(5)(b)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/76/5/b)
+[^c-70c5f4c2e23db7f5474cff3c05f361e7]: Textual amendment: [Rule 26(3)](https://www.legislation.gov.uk/nisr/2009/82/rule/26/3) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 76(5)(b)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/76/5/b)
 
-[^key-1b4117d8a82db3f99d9be430a15a1ba3]: Commencement: Rule 27 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-1b4117d8a82db3f99d9be430a15a1ba3]: Commencement: Rule 27 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
-[^key-4ee8bd5cce7354c30a939ba223d08047]: Commencement: Rule 28 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-4ee8bd5cce7354c30a939ba223d08047]: Commencement: Rule 28 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
-[^key-5258d3286d7b18043a14c9cd9604f43d]: Commencement: Rule 29 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-5258d3286d7b18043a14c9cd9604f43d]: Commencement: Rule 29 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
-[^key-685f73bff119beb036966b1b1a4d8be0]: Commencement: Rule 30 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-685f73bff119beb036966b1b1a4d8be0]: Commencement: Rule 30 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
-[^key-4d2ef25a8bfa71fe184e5280146e3ffb]: Commencement: Rule 31 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-4d2ef25a8bfa71fe184e5280146e3ffb]: Commencement: Rule 31 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
-[^key-03e36d3fb4053af8176b8774f4a3967f]: Commencement: Rule 32 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-03e36d3fb4053af8176b8774f4a3967f]: Commencement: Rule 32 in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
-[^key-d41d0c5dcdac58f47c865f47a9793fa5]: Commencement: Sch. 1 Pt. A in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-d41d0c5dcdac58f47c865f47a9793fa5]: Commencement: Sch. 1 Pt. A in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
-[^key-d51e8c9de518374663068e191f0d5ace]: Commencement: Sch. 1 Pt. B in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-d51e8c9de518374663068e191f0d5ace]: Commencement: Sch. 1 Pt. B in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
 [^f00008]: Footnote: [S.I. 1986/595 (N.I. 4)](https://www.legislation.gov.uk/nisi/1986/595), as amended by [S.I. 1998/1504 (N.I. 9)](https://www.legislation.gov.uk/nisi/1998/1504) and prospectively amended by [2002 c.26](https://www.legislation.gov.uk/ukpga/2002/26)
 
-[^key-16e97bfba45c9704128dabf65c92f833]: Commencement: Sch. 2 Pt. A in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-16e97bfba45c9704128dabf65c92f833]: Commencement: Sch. 2 Pt. A in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
 
-[^key-336093e519e502b4357e88d50dca224a]: Commencement: Sch. 2 Pt. B in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)
+[^c-336093e519e502b4357e88d50dca224a]: Commencement: Sch. 2 Pt. B in operation at 1.4.2009, see [rule 1](https://www.legislation.gov.uk/nisr/2009/82/rule/1)

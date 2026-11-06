@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) On making a contract payment the contractor (see section 57(3)) must deduct from it a sum equal to the relevant percentage of so much of the payment as is not shown to represent the direct cost to the sub-contractor[^key-3660dfacd76478ff186c7093e49dc9c0] of materials used or to be used in carrying out the construction operations to which the contract under which the payment is to be made relates.
+(1) On making a contract payment the contractor (see section 57(3)) must deduct from it a sum equal to the relevant percentage of so much of the payment as is not shown to represent the direct cost to the sub-contractor[^c-3660dfacd76478ff186c7093e49dc9c0] of materials used or to be used in carrying out the construction operations to which the contract under which the payment is to be made relates.
 
 (2) In subsection (1) “**the relevant percentage**” means such percentage as the Treasury may by order determine.
 
@@ -29,7 +29,7 @@ summary: ''
 - (a) if the person for whose labour (or for whose employees' or officers' labour) the payment in question is made is registered for payment under deduction, the percentage which is the basic rate for the year of assessment in which the payment is made, or
 - (b) if that person is not so registered, the percentage which is the higher rate for that year of assessment.
 
-(4)[^key-ab77b72e014364e80c1ea0d573d8a034] Subsection (5) applies where the contractor is a person falling within section 59(1)(l).
+(4)[^c-ab77b72e014364e80c1ea0d573d8a034] Subsection (5) applies where the contractor is a person falling within section 59(1)(l).
 
 (5) An officer of Revenue and Customs may, if the officer considers it appropriate to do so, by notice in writing—
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3660dfacd76478ff186c7093e49dc9c0]: Textual amendment: Words in s. 61(1) substituted (6.4.2021 for the tax year 2021-22 and subsequent tax years) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2021/26/schedule/6/paragraph/4)
+[^c-3660dfacd76478ff186c7093e49dc9c0]: Textual amendment: Words in s. 61(1) substituted (6.4.2021 for the tax year 2021-22 and subsequent tax years) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2021/26/schedule/6/paragraph/4)
 
-[^key-ab77b72e014364e80c1ea0d573d8a034]: Textual amendment: S. 61(4)-(7) inserted (6.4.2021 for the tax year 2021-22 and subsequent tax years) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2021/26/schedule/6/paragraph/5)
+[^c-ab77b72e014364e80c1ea0d573d8a034]: Textual amendment: S. 61(4)-(7) inserted (6.4.2021 for the tax year 2021-22 and subsequent tax years) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2021/26/schedule/6/paragraph/5)

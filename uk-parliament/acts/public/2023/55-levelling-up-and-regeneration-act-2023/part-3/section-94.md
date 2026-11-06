@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. National development management policies: meaning[^key-7a0d2b826b4957a2e4d6337cdc57cc0c][^key-5b587bec705824660132c19a1c881aa5]
+## 94. National development management policies: meaning[^c-7a0d2b826b4957a2e4d6337cdc57cc0c][^c-5b587bec705824660132c19a1c881aa5]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ After section 38 of PCPA 2004 insert—
 
 ## Annotations
 
-[^key-7a0d2b826b4957a2e4d6337cdc57cc0c]: Commencement: S. 94 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-7a0d2b826b4957a2e4d6337cdc57cc0c]: Commencement: S. 94 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-5b587bec705824660132c19a1c881aa5]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2023/55/section/94) in force at 31.1.2024 by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/c)
+[^c-5b587bec705824660132c19a1c881aa5]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2023/55/section/94) in force at 31.1.2024 by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/c)

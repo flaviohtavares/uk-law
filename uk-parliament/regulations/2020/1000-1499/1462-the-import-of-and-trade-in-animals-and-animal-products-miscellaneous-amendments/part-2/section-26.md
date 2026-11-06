@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26.[^key-7129e4bf4899be633e6ccab2a7214543]
+## 26.[^c-7129e4bf4899be633e6ccab2a7214543]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 36, in each place, for “EU Regulation” substitute “ Official
 
 ## Annotations
 
-[^key-7129e4bf4899be633e6ccab2a7214543]: Commencement: Reg. 26 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
+[^c-7129e4bf4899be633e6ccab2a7214543]: Commencement: Reg. 26 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)

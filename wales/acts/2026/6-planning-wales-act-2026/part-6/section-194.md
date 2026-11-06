@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 194. Compensation: loss or damage as a result of enforcement action[^key-a34f6d0f0c4bbe9e3878e385c0927a43]
+## 194. Compensation: loss or damage as a result of enforcement action[^c-a34f6d0f0c4bbe9e3878e385c0927a43]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a34f6d0f0c4bbe9e3878e385c0927a43]: Commencement: S. 194 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-a34f6d0f0c4bbe9e3878e385c0927a43]: Commencement: S. 194 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 91. Consequential amendments[^key-ea3a798a2bd06d36659012e3a46ca58e][^key-4d43ef172cd21261a880f5daf1c94804][^key-fd70285489b46552a0f1d00b86c4a465]
+## 91. Consequential amendments[^c-ea3a798a2bd06d36659012e3a46ca58e][^c-4d43ef172cd21261a880f5daf1c94804][^c-fd70285489b46552a0f1d00b86c4a465]
 
 *Extent: E+W*
 
@@ -24,8 +24,8 @@ Schedule 11 provides for amendments consequential on the provisions of this Part
 
 ## Annotations
 
-[^key-ea3a798a2bd06d36659012e3a46ca58e]: Commencement: S. 91 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/c)
+[^c-ea3a798a2bd06d36659012e3a46ca58e]: Commencement: S. 91 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/c)
 
-[^key-4d43ef172cd21261a880f5daf1c94804]: Commencement: S. 91 in force at 23.7.2007 for specified purposes for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [2(1)(2)(g)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2053/article/4)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), art. 3)
+[^c-4d43ef172cd21261a880f5daf1c94804]: Commencement: S. 91 in force at 23.7.2007 for specified purposes for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [2(1)(2)(g)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2053/article/4)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), art. 3)
 
-[^key-fd70285489b46552a0f1d00b86c4a465]: Commencement: S. 91 in force at 31.3.2008 for specified purposes for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [3(1)(2)(d)](https://www.legislation.gov.uk/uksi/2007/2053/article/3/1) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2007/2053/article/5)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), arts. 3, 5)
+[^c-fd70285489b46552a0f1d00b86c4a465]: Commencement: S. 91 in force at 31.3.2008 for specified purposes for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [3(1)(2)(d)](https://www.legislation.gov.uk/uksi/2007/2053/article/3/1) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2007/2053/article/5)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), arts. 3, 5)

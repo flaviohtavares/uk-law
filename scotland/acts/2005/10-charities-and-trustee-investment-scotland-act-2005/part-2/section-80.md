@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Representation and solicitation[^key-cfcc15f2cb57a6d6778401a3ed8d8cea]
+## 80. Representation and solicitation[^c-cfcc15f2cb57a6d6778401a3ed8d8cea]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ then (if the person would not be so regarded apart from this subsection) that pe
 
 ## Annotations
 
-[^key-cfcc15f2cb57a6d6778401a3ed8d8cea]: Commencement: S. 80 in force at 24.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(2)](https://www.legislation.gov.uk/ssi/2006/189/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/2)
+[^c-cfcc15f2cb57a6d6778401a3ed8d8cea]: Commencement: S. 80 in force at 24.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(2)](https://www.legislation.gov.uk/ssi/2006/189/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/2)

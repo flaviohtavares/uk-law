@@ -37,7 +37,7 @@ summary: ''
   - (a) has been gravely injurious to the interests of the State; or
   - (b) is liable to lead to serious loss of confidence in service by members of police forces in England and Wales; and
 - “**relevant offence**” means—
-  - (a) one or more offences under the Official Secrets Acts 1911 to 1989 [^c22402971] , or under section 18 of, or listed in section 33(3)(a) of, the National Security Act 2023,[^key-e69995a8e0de1a58e17ac0807ca8a808] for which the member has been sentenced on the same occasion to—
+  - (a) one or more offences under the Official Secrets Acts 1911 to 1989 [^c22402971] , or under section 18 of, or listed in section 33(3)(a) of, the National Security Act 2023,[^c-e69995a8e0de1a58e17ac0807ca8a808] for which the member has been sentenced on the same occasion to—
     - (i) a term of imprisonment of at least 10 years; or
     - (ii) 2 or more consecutive terms of imprisonment which add up to at least 10 years;
   - (b) an offence committed in connection with the member's service as a member of a police force and in respect of which the Secretary of State for the Home Department has issued a forfeiture certificate.
@@ -48,4 +48,4 @@ summary: ''
 
 [^c22402971]: Marginal citation: [1989 c. 6](https://www.legislation.gov.uk/ukpga/1989/6); see [section 16(2)](https://www.legislation.gov.uk/ukpga/1989/6/section/16/2) for the meaning of “Official Secrets Acts 1911 to 1989”.
 
-[^key-e69995a8e0de1a58e17ac0807ca8a808]: Textual amendment: Words in [reg. 211(5)](https://www.legislation.gov.uk/uksi/2015/445/regulation/211/5) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 50(2)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/50/2)
+[^c-e69995a8e0de1a58e17ac0807ca8a808]: Textual amendment: Words in [reg. 211(5)](https://www.legislation.gov.uk/uksi/2015/445/regulation/211/5) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 50(2)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/50/2)

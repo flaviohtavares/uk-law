@@ -39,21 +39,21 @@ The Secretary of State for Education makes the following Order in exercise of th
 
 In making this Order the Secretary of State has followed the procedure specified in the Religious Character of Schools (Designation Procedure) (Independent Schools) (England) Regulations 2003[^f00003].
 
-## 1. Citation[^key-5230b350c2b2c59e71023bc124d07c1b]
+## 1. Citation[^c-5230b350c2b2c59e71023bc124d07c1b]
 
 This Order may be cited as the Designation of Schools Having a Religious Character (Independent Schools) (England) Order 2013.
 
-## 2. Interpretation[^key-f2d5a9693ca8a883bf1c6ccb693b7e46]
+## 2. Interpretation[^c-f2d5a9693ca8a883bf1c6ccb693b7e46]
 
 In this Order “the relevant religion or religious denomination” means the religion or religious denomination in accordance with whose tenets education is provided at the school or the school is conducted.
 
-## 3. Designation of schools[^key-02d38b529ee0d8ca834114e668b368ee]
+## 3. Designation of schools[^c-02d38b529ee0d8ca834114e668b368ee]
 
 (1) The schools listed in column (1) of Schedule 1 are designated as schools having a religious character.
 
 (2) The relevant religion or religious denomination in relation to a school listed in column (1) of Schedule 1 is specified in relation to that school in column (2).
 
-## 4. Revocations[^key-d725ef7f3429de06abd9aeed0e20b13a]
+## 4. Revocations[^c-d725ef7f3429de06abd9aeed0e20b13a]
 
 The instruments listed in column (1) of Schedule 2 (which have the references listed in column (2)) are revoked to the extent indicated in column (3).
 
@@ -65,7 +65,7 @@ Department for Education
 
 30th August 2013
 
-## SCHEDULE 1 — Schools having a religious character[^key-a61e51a3d7c07449c8b8f40a35feb78d]
+## SCHEDULE 1 — Schools having a religious character[^c-a61e51a3d7c07449c8b8f40a35feb78d]
 
 Article 3
 
@@ -117,9 +117,9 @@ Article 3
 </tbody>
 </table>
 
-[^key-96324c4441d680c89a91057ce897037e][^key-4a7fa4b67a8cf8d27b0fbd53fa857f6d][^key-327e867040b90c1a979b076693ef3bc7][^key-333bedd3956e4d25598c06df153ab8e9][^key-e99a9540b72cce881778658bde819b25][^key-e99a9540b72cce881778658bde819b25][^key-3efa9cfcfcdc963bf97d12001f927ce9][^key-31ac4fd0dd4ce2b65df78f7fb2de5b88][^key-2c367bcde39f80363e3cf702e4826d32][^key-99a5a6961d625c46900c232acedad7a6][^key-4db161ba04f26b95b27a1b79b25d29ff]
+[^c-96324c4441d680c89a91057ce897037e][^c-4a7fa4b67a8cf8d27b0fbd53fa857f6d][^c-327e867040b90c1a979b076693ef3bc7][^c-333bedd3956e4d25598c06df153ab8e9][^c-e99a9540b72cce881778658bde819b25][^c-e99a9540b72cce881778658bde819b25][^c-3efa9cfcfcdc963bf97d12001f927ce9][^c-31ac4fd0dd4ce2b65df78f7fb2de5b88][^c-2c367bcde39f80363e3cf702e4826d32][^c-99a5a6961d625c46900c232acedad7a6][^c-4db161ba04f26b95b27a1b79b25d29ff]
 
-## SCHEDULE 2 — Revocations[^key-d9ebe55a4ed641d320a2d7942fae841c]
+## SCHEDULE 2 — Revocations[^c-d9ebe55a4ed641d320a2d7942fae841c]
 
 Article 4
 
@@ -149,34 +149,34 @@ Designation by this Order is not of itself a means of acquiring a religious char
 
 [^f00003]: Footnote: [S.I. 2003/2314](https://www.legislation.gov.uk/uksi/2003/2314), as amended by [S.I. 2004/2262](https://www.legislation.gov.uk/uksi/2004/2262).
 
-[^key-5230b350c2b2c59e71023bc124d07c1b]: Commencement: Art. 1 in force at made date
+[^c-5230b350c2b2c59e71023bc124d07c1b]: Commencement: Art. 1 in force at made date
 
-[^key-f2d5a9693ca8a883bf1c6ccb693b7e46]: Commencement: Art. 2 in force at made date
+[^c-f2d5a9693ca8a883bf1c6ccb693b7e46]: Commencement: Art. 2 in force at made date
 
-[^key-02d38b529ee0d8ca834114e668b368ee]: Commencement: Art. 3 in force at made date
+[^c-02d38b529ee0d8ca834114e668b368ee]: Commencement: Art. 3 in force at made date
 
-[^key-d725ef7f3429de06abd9aeed0e20b13a]: Commencement: Art. 4 in force at made date
+[^c-d725ef7f3429de06abd9aeed0e20b13a]: Commencement: Art. 4 in force at made date
 
-[^key-a61e51a3d7c07449c8b8f40a35feb78d]: Commencement: Sch. 1 in force at made date
+[^c-a61e51a3d7c07449c8b8f40a35feb78d]: Commencement: Sch. 1 in force at made date
 
-[^key-96324c4441d680c89a91057ce897037e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2162/schedule/1) substituted (5.11.2013) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 2) Order 2013 (S.I. 2013/2867)](https://www.legislation.gov.uk/uksi/2013/2867), [art. 5(2)](https://www.legislation.gov.uk/uksi/2013/2867/article/5/2)
+[^c-96324c4441d680c89a91057ce897037e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2162/schedule/1) substituted (5.11.2013) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 2) Order 2013 (S.I. 2013/2867)](https://www.legislation.gov.uk/uksi/2013/2867), [art. 5(2)](https://www.legislation.gov.uk/uksi/2013/2867/article/5/2)
 
-[^key-4a7fa4b67a8cf8d27b0fbd53fa857f6d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2162/schedule/1) substituted (5.11.2013) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 2) Order 2013 (S.I. 2013/2867)](https://www.legislation.gov.uk/uksi/2013/2867), [art. 5(3)](https://www.legislation.gov.uk/uksi/2013/2867/article/5/3)
+[^c-4a7fa4b67a8cf8d27b0fbd53fa857f6d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2162/schedule/1) substituted (5.11.2013) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 2) Order 2013 (S.I. 2013/2867)](https://www.legislation.gov.uk/uksi/2013/2867), [art. 5(3)](https://www.legislation.gov.uk/uksi/2013/2867/article/5/3)
 
-[^key-327e867040b90c1a979b076693ef3bc7]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2162/schedule/1) substituted (5.11.2013) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 2) Order 2013 (S.I. 2013/2867)](https://www.legislation.gov.uk/uksi/2013/2867), [art. 5(4)](https://www.legislation.gov.uk/uksi/2013/2867/article/5/4)
+[^c-327e867040b90c1a979b076693ef3bc7]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2162/schedule/1) substituted (5.11.2013) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 2) Order 2013 (S.I. 2013/2867)](https://www.legislation.gov.uk/uksi/2013/2867), [art. 5(4)](https://www.legislation.gov.uk/uksi/2013/2867/article/5/4)
 
-[^key-333bedd3956e4d25598c06df153ab8e9]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2162/schedule/1) substituted (5.11.2013) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 2) Order 2013 (S.I. 2013/2867)](https://www.legislation.gov.uk/uksi/2013/2867), [art. 5(5)](https://www.legislation.gov.uk/uksi/2013/2867/article/5/5)
+[^c-333bedd3956e4d25598c06df153ab8e9]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2162/schedule/1) substituted (5.11.2013) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 2) Order 2013 (S.I. 2013/2867)](https://www.legislation.gov.uk/uksi/2013/2867), [art. 5(5)](https://www.legislation.gov.uk/uksi/2013/2867/article/5/5)
 
-[^key-e99a9540b72cce881778658bde819b25]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2162/schedule/1) revoked (31.8.2019) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) Order 2019 (S.I. 2019/1201)](https://www.legislation.gov.uk/uksi/2019/1201), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1201/article/1), [3(c)](https://www.legislation.gov.uk/uksi/2019/1201/article/3/c)
+[^c-e99a9540b72cce881778658bde819b25]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2162/schedule/1) revoked (31.8.2019) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) Order 2019 (S.I. 2019/1201)](https://www.legislation.gov.uk/uksi/2019/1201), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1201/article/1), [3(c)](https://www.legislation.gov.uk/uksi/2019/1201/article/3/c)
 
-[^key-3efa9cfcfcdc963bf97d12001f927ce9]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2162/schedule/1) substituted (5.11.2013) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 2) Order 2013 (S.I. 2013/2867)](https://www.legislation.gov.uk/uksi/2013/2867), [art. 5(6)](https://www.legislation.gov.uk/uksi/2013/2867/article/5/6)
+[^c-3efa9cfcfcdc963bf97d12001f927ce9]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2162/schedule/1) substituted (5.11.2013) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 2) Order 2013 (S.I. 2013/2867)](https://www.legislation.gov.uk/uksi/2013/2867), [art. 5(6)](https://www.legislation.gov.uk/uksi/2013/2867/article/5/6)
 
-[^key-31ac4fd0dd4ce2b65df78f7fb2de5b88]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2162/schedule/1) substituted (5.11.2013) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 2) Order 2013 (S.I. 2013/2867)](https://www.legislation.gov.uk/uksi/2013/2867), [art. 5(7)](https://www.legislation.gov.uk/uksi/2013/2867/article/5/7)
+[^c-31ac4fd0dd4ce2b65df78f7fb2de5b88]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2162/schedule/1) substituted (5.11.2013) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 2) Order 2013 (S.I. 2013/2867)](https://www.legislation.gov.uk/uksi/2013/2867), [art. 5(7)](https://www.legislation.gov.uk/uksi/2013/2867/article/5/7)
 
-[^key-2c367bcde39f80363e3cf702e4826d32]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2162/schedule/1) substituted (5.11.2013) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 2) Order 2013 (S.I. 2013/2867)](https://www.legislation.gov.uk/uksi/2013/2867), [art. 5(8)](https://www.legislation.gov.uk/uksi/2013/2867/article/5/8)
+[^c-2c367bcde39f80363e3cf702e4826d32]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2162/schedule/1) substituted (5.11.2013) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 2) Order 2013 (S.I. 2013/2867)](https://www.legislation.gov.uk/uksi/2013/2867), [art. 5(8)](https://www.legislation.gov.uk/uksi/2013/2867/article/5/8)
 
-[^key-99a5a6961d625c46900c232acedad7a6]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2162/schedule/1) substituted (5.11.2013) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 2) Order 2013 (S.I. 2013/2867)](https://www.legislation.gov.uk/uksi/2013/2867), [art. 5(9)](https://www.legislation.gov.uk/uksi/2013/2867/article/5/9)
+[^c-99a5a6961d625c46900c232acedad7a6]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2162/schedule/1) substituted (5.11.2013) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 2) Order 2013 (S.I. 2013/2867)](https://www.legislation.gov.uk/uksi/2013/2867), [art. 5(9)](https://www.legislation.gov.uk/uksi/2013/2867/article/5/9)
 
-[^key-4db161ba04f26b95b27a1b79b25d29ff]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2162/schedule/1) substituted (5.11.2013) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 2) Order 2013 (S.I. 2013/2867)](https://www.legislation.gov.uk/uksi/2013/2867), [art. 5(10)](https://www.legislation.gov.uk/uksi/2013/2867/article/5/10)
+[^c-4db161ba04f26b95b27a1b79b25d29ff]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2162/schedule/1) substituted (5.11.2013) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 2) Order 2013 (S.I. 2013/2867)](https://www.legislation.gov.uk/uksi/2013/2867), [art. 5(10)](https://www.legislation.gov.uk/uksi/2013/2867/article/5/10)
 
-[^key-d9ebe55a4ed641d320a2d7942fae841c]: Commencement: Sch. 2 in force at made date
+[^c-d9ebe55a4ed641d320a2d7942fae841c]: Commencement: Sch. 2 in force at made date

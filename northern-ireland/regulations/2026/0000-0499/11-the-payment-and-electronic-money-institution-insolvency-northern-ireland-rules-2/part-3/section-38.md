@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Notice of meeting by advertisement only[^key-28dfc5b1c81e99f33beb691af64b26b8]
+## 38. Notice of meeting by advertisement only[^c-28dfc5b1c81e99f33beb691af64b26b8]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28dfc5b1c81e99f33beb691af64b26b8]: Commencement: [Rule 38](https://www.legislation.gov.uk/nisr/2026/11/rule/38) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-28dfc5b1c81e99f33beb691af64b26b8]: Commencement: [Rule 38](https://www.legislation.gov.uk/nisr/2026/11/rule/38) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

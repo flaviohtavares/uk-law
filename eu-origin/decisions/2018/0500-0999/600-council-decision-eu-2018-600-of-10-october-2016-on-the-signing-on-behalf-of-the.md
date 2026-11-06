@@ -33,16 +33,16 @@ of 10 October 2016
 
 on the signing, on behalf of the European Union, of the Agreement between the European Union and New Zealand on cooperation and mutual administrative assistance in customs matters (revoked)
 
-[^key-833c2ec8efe5e88bbaf81964343e5cb8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-833c2ec8efe5e88bbaf81964343e5cb8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-833c2ec8efe5e88bbaf81964343e5cb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-833c2ec8efe5e88bbaf81964343e5cb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-833c2ec8efe5e88bbaf81964343e5cb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-833c2ec8efe5e88bbaf81964343e5cb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-833c2ec8efe5e88bbaf81964343e5cb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-833c2ec8efe5e88bbaf81964343e5cb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-833c2ec8efe5e88bbaf81964343e5cb8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-833c2ec8efe5e88bbaf81964343e5cb8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-833c2ec8efe5e88bbaf81964343e5cb8]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-833c2ec8efe5e88bbaf81964343e5cb8]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

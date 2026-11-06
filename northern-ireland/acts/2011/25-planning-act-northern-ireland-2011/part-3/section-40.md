@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. Form and content of applications[^key-f468c96474e89279ad56bf175a07b2fb][^key-6b7ba39f6128a200f40320fc05a1a481][^key-2f5f0ed73ae267031cc18d32f95f44b5][^key-74c02eabf59e519824afa60575a56884][^key-5973ca44404c3a81635fac7d7c90559a][^key-2f5f0ed73ae267031cc18d32f95f44b5]
+## 40. Form and content of applications[^c-f468c96474e89279ad56bf175a07b2fb][^c-6b7ba39f6128a200f40320fc05a1a481][^c-2f5f0ed73ae267031cc18d32f95f44b5][^c-74c02eabf59e519824afa60575a56884][^c-5973ca44404c3a81635fac7d7c90559a][^c-2f5f0ed73ae267031cc18d32f95f44b5]
 
 *Extent: N.I.*
 
@@ -38,12 +38,12 @@ summary: ''
 
 ## Annotations
 
-[^key-f468c96474e89279ad56bf175a07b2fb]: Commencement: S. 40 in operation at 1.2.2015 for specified purposes by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 2](https://www.legislation.gov.uk/nisr/2015/25/article/2)
+[^c-f468c96474e89279ad56bf175a07b2fb]: Commencement: S. 40 in operation at 1.2.2015 for specified purposes by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 2](https://www.legislation.gov.uk/nisr/2015/25/article/2)
 
-[^key-6b7ba39f6128a200f40320fc05a1a481]: Commencement: S. 40 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 3](https://www.legislation.gov.uk/nisr/2015/25/article/3)
+[^c-6b7ba39f6128a200f40320fc05a1a481]: Commencement: S. 40 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 3](https://www.legislation.gov.uk/nisr/2015/25/article/3)
 
-[^key-2f5f0ed73ae267031cc18d32f95f44b5]: Modification: Pt. 3 applied with modification(s) (1.4.2015) by [The Planning General Regulations (Northern Ireland) 2015 (S.R. 2015/39)](https://www.legislation.gov.uk/nisr/2015/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/39/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/39/regulation/2) (with [regs. 3-10](https://www.legislation.gov.uk/nisr/2015/39/regulation/3))
+[^c-2f5f0ed73ae267031cc18d32f95f44b5]: Modification: Pt. 3 applied with modification(s) (1.4.2015) by [The Planning General Regulations (Northern Ireland) 2015 (S.R. 2015/39)](https://www.legislation.gov.uk/nisr/2015/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/39/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/39/regulation/2) (with [regs. 3-10](https://www.legislation.gov.uk/nisr/2015/39/regulation/3))
 
-[^key-74c02eabf59e519824afa60575a56884]: Modification: S. 40 applied with modification(s) (1.4.2015) by [The Planning (Trees) Regulations (Northern Ireland) 2015 (S.R. 2015/84)](https://www.legislation.gov.uk/nisr/2015/84), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/84/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/84/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/84/schedule) (with [reg. 11(7)](https://www.legislation.gov.uk/nisr/2015/84/regulation/11/7))
+[^c-74c02eabf59e519824afa60575a56884]: Modification: S. 40 applied with modification(s) (1.4.2015) by [The Planning (Trees) Regulations (Northern Ireland) 2015 (S.R. 2015/84)](https://www.legislation.gov.uk/nisr/2015/84), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/84/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/84/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/84/schedule) (with [reg. 11(7)](https://www.legislation.gov.uk/nisr/2015/84/regulation/11/7))
 
-[^key-5973ca44404c3a81635fac7d7c90559a]: Modification: S. 40 applied with modification(s) (1.4.2015) by [The Planning (Control of Advertisements) Regulations (Northern Ireland) 2015 (S.R. 2015/66)](https://www.legislation.gov.uk/nisr/2015/66), [regs. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1), [8](https://www.legislation.gov.uk/nisr/2015/66/regulation/8), [Sch. 4 Pts. 1](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/part/1), [2](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/part/2)
+[^c-5973ca44404c3a81635fac7d7c90559a]: Modification: S. 40 applied with modification(s) (1.4.2015) by [The Planning (Control of Advertisements) Regulations (Northern Ireland) 2015 (S.R. 2015/66)](https://www.legislation.gov.uk/nisr/2015/66), [regs. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1), [8](https://www.legislation.gov.uk/nisr/2015/66/regulation/8), [Sch. 4 Pts. 1](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/part/1), [2](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/part/2)

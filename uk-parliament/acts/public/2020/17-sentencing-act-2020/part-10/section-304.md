@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 304. Transfer to Scotland or Northern Ireland of suspended sentence orders which impose community requirements[^key-be79948ec554024d0327a0dd41a6f537]
+## 304. Transfer to Scotland or Northern Ireland of suspended sentence orders which impose community requirements[^c-be79948ec554024d0327a0dd41a6f537]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 17 makes provision about the transfer to Scotland or Northern Ireland o
 
 ## Annotations
 
-[^key-be79948ec554024d0327a0dd41a6f537]: Commencement: S. 304 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-be79948ec554024d0327a0dd41a6f537]: Commencement: S. 304 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

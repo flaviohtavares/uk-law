@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Transfer of leave stamps[^key-0a466c7763159844206936f37260598c]
+## 43. Transfer of leave stamps[^c-0a466c7763159844206936f37260598c]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a466c7763159844206936f37260598c]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2004/19/section/43) in force at 1.10.2004 by [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)
+[^c-0a466c7763159844206936f37260598c]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2004/19/section/43) in force at 1.10.2004 by [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)

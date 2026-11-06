@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198. Restrictions on importing US technology[^key-28c6f4e4614b1c99125cd64afd675af8]
+## 198. Restrictions on importing US technology[^c-28c6f4e4614b1c99125cd64afd675af8]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28c6f4e4614b1c99125cd64afd675af8]: Commencement: Reg. 198 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-28c6f4e4614b1c99125cd64afd675af8]: Commencement: Reg. 198 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

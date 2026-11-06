@@ -45,7 +45,7 @@ Coming into force
 
 The Welsh Ministers in exercise of the powers conferred on the Secretary of State by sections 444A(3) and (6), 444B and 569 of the Education Act 1996[^f00001] and now vested in them, make the following Regulations:
 
-## 1. Title, commencement and application[^key-7d870c6b277f9989f92c8e225515dc30]
+## 1. Title, commencement and application[^c-7d870c6b277f9989f92c8e225515dc30]
 
 (1) The title of these Regulations is the Education (Penalty Notices) (Wales) Regulations 2013 and they come into force on 2 September 2013.
 
@@ -53,13 +53,13 @@ The Welsh Ministers in exercise of the powers conferred on the Secretary of Stat
 
 (3) In relation to offences under section 444 of the 1996 Act, these Regulations apply to penalty notices issued on or after the date on which these Regulations come into force, whether the alleged offence was committed before, on or after that date.
 
-## 2. Interpretation[^key-98ece394e6a089529fcfcec747edbcb3]
+## 2. Interpretation[^c-98ece394e6a089529fcfcec747edbcb3]
 
 (1) In these Regulations—
 
 - “the 1996 Act” (“*Deddf 1996*”) means the Education Act 1996;
 - “alternative educational provision” (“*darpariaeth addysgol amgen*”) means one of the following—
-  - (a) education provided by a local authority for a child otherwise than at school or at the child’s home by way of arrangements made under section 19A[^key-2dde7f25ea9db41856f29cf25cb4e904] of the 1996 Act;
+  - (a) education provided by a local authority for a child otherwise than at school or at the child’s home by way of arrangements made under section 19A[^c-2dde7f25ea9db41856f29cf25cb4e904] of the 1996 Act;
   - (b) education at a place outside the premises of the school at which the child is a registered pupil and which the child is required by the appropriate authority (within the meaning of section 444ZA[^f00003] of the 1996 Act) to attend for the purpose of receiving any instruction or training;
 - “code of conduct” (“*cod ymddygiad*”) means the local authority’s code of conduct for the time being in force pursuant to regulations 14 to 16;
 - “penalty notice” (“*hysbysiad cosb*”) means a penalty notice issued pursuant to section 444A(1) of the 1996 Act; and
@@ -67,7 +67,7 @@ The Welsh Ministers in exercise of the powers conferred on the Secretary of Stat
 
 (2) In these Regulations a reference to a deputy or assistant head teacher includes a reference to a person acting as deputy or assistant head teacher, as the case may be[^f00004].
 
-## 3. Form and content of penalty notices[^key-466dbb1ddd2ae4480aa6473c59220ea6]
+## 3. Form and content of penalty notices[^c-466dbb1ddd2ae4480aa6473c59220ea6]
 
 A penalty notice must give such details of the circumstances alleged to constitute the offence to which the notice relates as are necessary to give reasonable information as to the offence and must contain—
 
@@ -91,18 +91,18 @@ A penalty notice must give such details of the circumstances alleged to constitu
 
 ## The penalty
 
-### 4. Amount of penalty[^key-76eb86cb9258004e9ec0fb4fbb675bb2]
+### 4. Amount of penalty[^c-76eb86cb9258004e9ec0fb4fbb675bb2]
 
 The amount of the penalty to be paid is—
 
 - (a) £60, where the amount is paid within 28 days of receipt of the penalty notice; or
 - (b) £120, where paragraph (a) does not apply but where the amount is paid within 42 days of receipt of the penalty notice.
 
-### 5. Period for payment of the penalty[^key-61153d6ea28a25ce22e2e72f923aa4c1]
+### 5. Period for payment of the penalty[^c-61153d6ea28a25ce22e2e72f923aa4c1]
 
 The time by which the penalty is to be paid[^f00005] is within 42 days of receipt of the penalty notice.
 
-### 6. Payment of penalty[^key-111e7b47c769234cddeda3c9f8ec12ff]
+### 6. Payment of penalty[^c-111e7b47c769234cddeda3c9f8ec12ff]
 
 (1) The penalty is payable to—
 
@@ -113,13 +113,13 @@ The time by which the penalty is to be paid[^f00005] is within 42 days of receip
 
 ## Effect of penalty notice
 
-### 7. Period during which proceedings may not be instituted[^key-283bae8e045d3148e70e3fe9b687b049]
+### 7. Period during which proceedings may not be instituted[^c-283bae8e045d3148e70e3fe9b687b049]
 
 The period prescribed for the purposes of section 444A(3) of the 1996 Act is 42 days beginning with the date on which the recipient receives the penalty notice.
 
 ## Withdrawal
 
-### 8. Withdrawal of penalty notice[^key-cfff80da3e7ddf2c1448d45895a0f0e9]
+### 8. Withdrawal of penalty notice[^c-cfff80da3e7ddf2c1448d45895a0f0e9]
 
 (1) A penalty notice may be withdrawn by the local authority named in the notice as the authority to which payment is to be made in any case in which—
 
@@ -147,7 +147,7 @@ if both of the following conditions are met—
 - (i) a further penalty notice in respect of the offence, or in the case of sub-paragraph (b), the first mentioned offence, was issued at the same time as the first penalty notice was withdrawn; and
 - (ii) the penalty has not been paid pursuant to that further penalty notice in accordance with the requirements of these Regulations.
 
-### 9. Non payment of the penalty[^key-d0c961346526bef37c15a215f77b2c74]
+### 9. Non payment of the penalty[^c-d0c961346526bef37c15a215f77b2c74]
 
 The authority must withdraw the penalty notice where—
 
@@ -156,17 +156,17 @@ The authority must withdraw the penalty notice where—
 
 ## Issue of penalty notices
 
-### 10. Authority to issue penalty notices[^key-4112f7d7269deef6e6c72a06d5715a12]
+### 10. Authority to issue penalty notices[^c-4112f7d7269deef6e6c72a06d5715a12]
 
 (1) A head teacher may authorise a deputy or assistant head teacher to issue penalty notices.
 
 (2) But a head teacher may not authorise any other member of staff to issue penalty notices.
 
-### 11. Limitation on schools issuing penalty notices[^key-a7b07bb42d6339f37471e4a250529cd9]
+### 11. Limitation on schools issuing penalty notices[^c-a7b07bb42d6339f37471e4a250529cd9]
 
 A head teacher or deputy or assistant head teacher may only issue a penalty notice in respect of a child who is a registered pupil at the school at which that head teacher, or deputy or assistant head teacher, as the case may be, works.
 
-### 12. Limitation on local authorities, issuing penalty notices[^key-0c786465067b0cb24e3516ebaa5cd15a]
+### 12. Limitation on local authorities, issuing penalty notices[^c-0c786465067b0cb24e3516ebaa5cd15a]
 
 (1) Subject to paragraph (2), an officer of a local authority may only issue a penalty notice in respect of a child—
 
@@ -176,13 +176,13 @@ A head teacher or deputy or assistant head teacher may only issue a penalty noti
 
 (2) Where a local authority has entered into an agreement with another local authority for an officer of that other authority to issue penalty notices in respect of a child to which paragraph (1)(a) or (b) applies, an officer of that other authority may issue a penalty notice in respect of such child.
 
-### 13. Several penalty notices in respect of the same offence[^key-40b5d669a76dcd9c4ab8e6ad29a6e634]
+### 13. Several penalty notices in respect of the same offence[^c-40b5d669a76dcd9c4ab8e6ad29a6e634]
 
 Where there is more than one person liable for the offence, a separate penalty notice may be issued to each person.
 
 ## Codes of conduct
 
-### 14. Requirement to draw up code of conduct[^key-1303f94e3e55431474b2d2fe7479412d]
+### 14. Requirement to draw up code of conduct[^c-1303f94e3e55431474b2d2fe7479412d]
 
 Each local authority must draw up a code of conduct which sets out measures to ensure consistency in the issuing of penalty notices, including—
 
@@ -192,7 +192,7 @@ Each local authority must draw up a code of conduct which sets out measures to e
 - (d) a maximum number of penalty notices that may be issued to one parent in any twelve month period; and
 - (e) arrangements for co-ordination between the local authority, neighbouring local authorities where appropriate, the police and authorised officers[^f00006].
 
-### 15. Consultation on the code of conduct[^key-e3083dafa013b67d5ed83982f6c351db]
+### 15. Consultation on the code of conduct[^c-e3083dafa013b67d5ed83982f6c351db]
 
 (1) In preparing the code of conduct the local authority must consult governing bodies, head teachers and the chief officer of police for a police area which includes all or part of the area of the local authority.
 
@@ -201,17 +201,17 @@ Each local authority must draw up a code of conduct which sets out measures to e
 - “chief officer of police” has the meaning given by section 101(1) of the Police Act 1996[^f00007];
 - “police area” means a police area provided for by section 1 of that Act.
 
-### 16. Compliance with the code of conduct[^key-7442915ae93df657f08baf35542ce1bc]
+### 16. Compliance with the code of conduct[^c-7442915ae93df657f08baf35542ce1bc]
 
 Any person issuing a penalty notice must do so in accordance with the code of conduct.
 
 ## Information
 
-### 17. Copy of the penalty notice to be supplied to the local authority[^key-4886f98710ba832f250e823340405a0c]
+### 17. Copy of the penalty notice to be supplied to the local authority[^c-4886f98710ba832f250e823340405a0c]
 
 A person issuing a penalty notice must (without delay) provide a copy to the local authority which is named in the notice as the authority to which payment is to be made pursuant to regulation 3(f).
 
-### 18. Records[^key-d9b4bd76c29b218d1d90b4be30251f10]
+### 18. Records[^c-d9b4bd76c29b218d1d90b4be30251f10]
 
 A local authority must keep records of penalty notices which must include—
 
@@ -220,19 +220,19 @@ A local authority must keep records of penalty notices which must include—
 - (c) whether the notice was withdrawn and on what grounds; and
 - (d) whether the recipient was prosecuted for the offence for which the notice was issued (or, where the notice related to an offence under subsection (1) of section 444 of the 1996 Act, for an offence under subsection (1A) arising out of the same circumstances).
 
-### 19. Information to the Welsh Ministers[^key-7f5812ddac87d6671f8665b90c4febeb]
+### 19. Information to the Welsh Ministers[^c-7f5812ddac87d6671f8665b90c4febeb]
 
 A local authority must supply to the Welsh Ministers such information as they may require in respect of penalty notices.
 
 ## Final provisions
 
-### 20. Service of notices[^key-5f477d9b424ca27ff2eb74d39d7ae9e4]
+### 20. Service of notices[^c-5f477d9b424ca27ff2eb74d39d7ae9e4]
 
 (1) Where the penalty notice is served by first class post[^f00008], service is deemed to have been effected, unless the contrary is proved, on the second working day after posting the notice.
 
 (2) In this regulation “working day” means a day other than a Saturday, a Sunday, Christmas Day, Good Friday, or a day which is a bank holiday within the meaning of the Banking and Financial Dealings Act 1971[^f00009].
 
-### 21. Sums received by local authorities[^key-7745bdea9608ad1aa01a9fa408266fd3]
+### 21. Sums received by local authorities[^c-7745bdea9608ad1aa01a9fa408266fd3]
 
 (1) The functions of a local authority specified for the purposes of section 444A(6)(a) of the 1996 Act are issuing and enforcing penalty notices, and prosecuting recipients who do not pay.
 
@@ -274,60 +274,60 @@ Regulations 22 and 23 prescribe how the penalty notice is to be served and how s
 
 [^f00001]: Footnote: 1996\. c.56; sections 444A and 444B were inserted by section 23(1) of the Anti-social Behaviour Act [2003 (c.38)](https://www.legislation.gov.uk/ukpga/2003/38); section 444A has been amended by section 117 of, and paragraph 3 of Schedule 18 to, the Education Act [2005 (c.18)](https://www.legislation.gov.uk/ukpga/2005/18) and section 110 of the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40). References to local education authority were substituted with local authority by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). The application of sections 444A and 444B were applied to Wales by virtue of [S.I. 2013/1657 (W.155)](https://www.legislation.gov.uk/wsi/2013/1657).
 
-[^key-7d870c6b277f9989f92c8e225515dc30]: Commencement: Reg. 1 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
+[^c-7d870c6b277f9989f92c8e225515dc30]: Commencement: Reg. 1 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
 
-[^key-98ece394e6a089529fcfcec747edbcb3]: Commencement: Reg. 2 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
+[^c-98ece394e6a089529fcfcec747edbcb3]: Commencement: Reg. 2 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
 
-[^key-2dde7f25ea9db41856f29cf25cb4e904]: Textual amendment: Word in reg. 2(1) substituted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 in so far as not already in force) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3), [17(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/17/2)[(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/17/3)
+[^c-2dde7f25ea9db41856f29cf25cb4e904]: Textual amendment: Word in reg. 2(1) substituted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 in so far as not already in force) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3), [17(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/17/2)[(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/17/3)
 
 [^f00003]: Footnote: Section 444ZA was inserted by section 116 of the Education Act 2005.
 
 [^f00004]: Footnote: By section 579(1) of the Education Act [1996 (c.56)](https://www.legislation.gov.uk/ukpga/1996/56), “head teacher” includes an acting head teacher.
 
-[^key-466dbb1ddd2ae4480aa6473c59220ea6]: Commencement: Reg. 3 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
+[^c-466dbb1ddd2ae4480aa6473c59220ea6]: Commencement: Reg. 3 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
 
-[^key-76eb86cb9258004e9ec0fb4fbb675bb2]: Commencement: Reg. 4 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
+[^c-76eb86cb9258004e9ec0fb4fbb675bb2]: Commencement: Reg. 4 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
 
-[^key-61153d6ea28a25ce22e2e72f923aa4c1]: Commencement: Reg. 5 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
+[^c-61153d6ea28a25ce22e2e72f923aa4c1]: Commencement: Reg. 5 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
 
 [^f00005]: Footnote: If the penalty is paid within this period, the recipient cannot be convicted of the offence under section 444A(4) of the Education Act [1996 (c.56)](https://www.legislation.gov.uk/ukpga/1996/56), to which the notice relates.
 
-[^key-111e7b47c769234cddeda3c9f8ec12ff]: Commencement: Reg. 6 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
+[^c-111e7b47c769234cddeda3c9f8ec12ff]: Commencement: Reg. 6 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
 
-[^key-283bae8e045d3148e70e3fe9b687b049]: Commencement: Reg. 7 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
+[^c-283bae8e045d3148e70e3fe9b687b049]: Commencement: Reg. 7 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
 
-[^key-cfff80da3e7ddf2c1448d45895a0f0e9]: Commencement: Reg. 8 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
+[^c-cfff80da3e7ddf2c1448d45895a0f0e9]: Commencement: Reg. 8 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
 
-[^key-d0c961346526bef37c15a215f77b2c74]: Commencement: Reg. 9 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
+[^c-d0c961346526bef37c15a215f77b2c74]: Commencement: Reg. 9 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
 
-[^key-4112f7d7269deef6e6c72a06d5715a12]: Commencement: Reg. 10 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
+[^c-4112f7d7269deef6e6c72a06d5715a12]: Commencement: Reg. 10 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
 
-[^key-a7b07bb42d6339f37471e4a250529cd9]: Commencement: Reg. 11 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
+[^c-a7b07bb42d6339f37471e4a250529cd9]: Commencement: Reg. 11 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
 
-[^key-0c786465067b0cb24e3516ebaa5cd15a]: Commencement: Reg. 12 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
+[^c-0c786465067b0cb24e3516ebaa5cd15a]: Commencement: Reg. 12 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
 
-[^key-40b5d669a76dcd9c4ab8e6ad29a6e634]: Commencement: Reg. 13 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
+[^c-40b5d669a76dcd9c4ab8e6ad29a6e634]: Commencement: Reg. 13 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
 
-[^key-1303f94e3e55431474b2d2fe7479412d]: Commencement: Reg. 14 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
+[^c-1303f94e3e55431474b2d2fe7479412d]: Commencement: Reg. 14 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
 
 [^f00006]: Footnote: “Authorised officer” is defined in section 444B(4) of the Education Act [1996 (c.56)](https://www.legislation.gov.uk/ukpga/1996/56) in relation to penalty notices under section 444A of that Act.
 
-[^key-e3083dafa013b67d5ed83982f6c351db]: Commencement: Reg. 15 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
+[^c-e3083dafa013b67d5ed83982f6c351db]: Commencement: Reg. 15 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
 
 [^f00007]: Footnote: [1996 c.16](https://www.legislation.gov.uk/ukpga/1996/16), to which there are amendments not relevant to these Regulations.
 
-[^key-7442915ae93df657f08baf35542ce1bc]: Commencement: Reg. 16 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
+[^c-7442915ae93df657f08baf35542ce1bc]: Commencement: Reg. 16 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
 
-[^key-4886f98710ba832f250e823340405a0c]: Commencement: Reg. 17 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
+[^c-4886f98710ba832f250e823340405a0c]: Commencement: Reg. 17 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
 
-[^key-d9b4bd76c29b218d1d90b4be30251f10]: Commencement: Reg. 18 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
+[^c-d9b4bd76c29b218d1d90b4be30251f10]: Commencement: Reg. 18 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
 
-[^key-7f5812ddac87d6671f8665b90c4febeb]: Commencement: Reg. 19 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
+[^c-7f5812ddac87d6671f8665b90c4febeb]: Commencement: Reg. 19 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
 
-[^key-5f477d9b424ca27ff2eb74d39d7ae9e4]: Commencement: Reg. 20 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
+[^c-5f477d9b424ca27ff2eb74d39d7ae9e4]: Commencement: Reg. 20 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
 
 [^f00008]: Footnote: Section 572 of the Education Act 1996 makes provision for the service of notices.
 
 [^f00009]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-7745bdea9608ad1aa01a9fa408266fd3]: Commencement: Reg. 21 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)
+[^c-7745bdea9608ad1aa01a9fa408266fd3]: Commencement: Reg. 21 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1983/regulation/1/1)

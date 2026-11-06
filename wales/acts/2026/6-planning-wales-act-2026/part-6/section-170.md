@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 170. Interpretation of this Chapter[^key-752c03ff363637e93797cccc73b1ea0d]
+## 170. Interpretation of this Chapter[^c-752c03ff363637e93797cccc73b1ea0d]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-752c03ff363637e93797cccc73b1ea0d]: Commencement: S. 170 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-752c03ff363637e93797cccc73b1ea0d]: Commencement: S. 170 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

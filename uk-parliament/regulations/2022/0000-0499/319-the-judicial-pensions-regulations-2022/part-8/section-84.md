@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Annual rate of surviving adult’s pensions payable on death of active member (death in service)[^key-a3893186a6fbd469141d49dd91da2274]
+## 84. Annual rate of surviving adult’s pensions payable on death of active member (death in service)[^c-a3893186a6fbd469141d49dd91da2274]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,7 +51,7 @@ summary: ''
     - (b) 10;
   - Y is the lower of—
     - (a) the number of years (expressed in years and a fraction of a year, determined by complete months) for which the member has been an active member of this scheme; and
-    - (b) the number of scheme years (expressed in years and a fraction of a year, determined by complete months) in relation to which an amount of earned pension was specified in the active member’s account . Where this figure is 0, a value of 0.083 will be applied[^key-19f65eb7b52d3e5b89f9bd26140d744e];
+    - (b) the number of scheme years (expressed in years and a fraction of a year, determined by complete months) in relation to which an amount of earned pension was specified in the active member’s account . Where this figure is 0, a value of 0.083 will be applied[^c-19f65eb7b52d3e5b89f9bd26140d744e];
 - “the member’s assumed period of pensionable service” means the period (expressed in years and a fraction of a year, determined by complete months)—
   - (a) beginning with the day after the date of the member’s death; and
   - (b) ending with—
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a3893186a6fbd469141d49dd91da2274]: Commencement: Reg. 84 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-a3893186a6fbd469141d49dd91da2274]: Commencement: Reg. 84 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
 
-[^key-19f65eb7b52d3e5b89f9bd26140d744e]: Textual amendment: Words in [reg. 84(6)](https://www.legislation.gov.uk/uksi/2022/319/regulation/84/6) inserted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2024/1358/regulation/6)
+[^c-19f65eb7b52d3e5b89f9bd26140d744e]: Textual amendment: Words in [reg. 84(6)](https://www.legislation.gov.uk/uksi/2022/319/regulation/84/6) inserted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2024/1358/regulation/6)

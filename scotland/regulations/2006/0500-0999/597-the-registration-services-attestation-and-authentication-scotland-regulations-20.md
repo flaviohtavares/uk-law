@@ -43,20 +43,20 @@ Coming into force
 
 The Registrar General, in exercise of the powers conferred by sections 15(1) and (2), 16(1)(c), 18(1)(a), 21(2)(a), 24, 25(1)(c), 41, 54(1)(b) and 54A of the Registration of Births, Deaths and Marriages (Scotland) Act 1965[^f00001], sections 3(3A), 5(1) and 24A(2) of the Marriage (Scotland) Act 1977[^f00002] and of all other powers enabling him in that behalf, and with the approval of the Scottish Ministers[^f00003] in accordance with section 54(1) of the 1965 Act and section 25(1) of the 1977 Act, makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-d896d83ea93c4b0be937a096b5845806]
+## 1. Citation, commencement and interpretation[^c-d896d83ea93c4b0be937a096b5845806]
 
 (1) These Regulations may be cited as the Registration Services (Attestation and Authentication) (Scotland) Regulations 2006 and shall come into force on 1st January 2007.
 
 (2) In these Regulations, “the 1965 Act” means the Registration of Births, Deaths and Marriages (Scotland) Act 1965.
 
-## 2. Manner of attestation[^key-f673c6c5ab7aaafcc96b175335894e5e]
+## 2. Manner of attestation[^c-f673c6c5ab7aaafcc96b175335894e5e]
 
 Manuscript signature is the manner of attestation prescribed for the purposes of–
 
 - (a) sections 15(1) and (2), 16(1)(c), 18(1)(a), 21(2)(a), 24 and 25(1)(c) of the 1965 Act; and
 - (b) sections 3(3A) and 5(1) of the Marriage (Scotland) Act 1977.
 
-## 3. Authentication of extracts[^key-ca9cf78f155ed8e47324423eb8f0500a]
+## 3. Authentication of extracts[^c-ca9cf78f155ed8e47324423eb8f0500a]
 
 An extract issued under the 1965 Act is–
 
@@ -101,8 +101,8 @@ A Regulatory Impact Assessment has not been produced for this instrument as it h
 
 [^f00003]: Footnote: The functions of the Secretary of State under the 1965 and 1977 Acts were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-d896d83ea93c4b0be937a096b5845806]: Commencement: Reg. 1 in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/597/regulation/1/1)
+[^c-d896d83ea93c4b0be937a096b5845806]: Commencement: Reg. 1 in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/597/regulation/1/1)
 
-[^key-f673c6c5ab7aaafcc96b175335894e5e]: Commencement: Reg. 2 in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/597/regulation/1/1)
+[^c-f673c6c5ab7aaafcc96b175335894e5e]: Commencement: Reg. 2 in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/597/regulation/1/1)
 
-[^key-ca9cf78f155ed8e47324423eb8f0500a]: Commencement: Reg. 3 in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/597/regulation/1/1)
+[^c-ca9cf78f155ed8e47324423eb8f0500a]: Commencement: Reg. 3 in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/597/regulation/1/1)

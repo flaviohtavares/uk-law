@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 85. Approval, publication and implementation of Welsh in education strategic plans[^key-534867a6d7107700290b662864c97b63]
+## 85. Approval, publication and implementation of Welsh in education strategic plans[^c-534867a6d7107700290b662864c97b63]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-534867a6d7107700290b662864c97b63]: Commencement: [S. 85](https://www.legislation.gov.uk/anaw/2013/1/section/85) in force at 3.12.2013 by [S.I. 2013/3024](https://www.legislation.gov.uk/wsi/2013/3024), [art. 2](https://www.legislation.gov.uk/wsi/2013/3024/article/2)
+[^c-534867a6d7107700290b662864c97b63]: Commencement: [S. 85](https://www.legislation.gov.uk/anaw/2013/1/section/85) in force at 3.12.2013 by [S.I. 2013/3024](https://www.legislation.gov.uk/wsi/2013/3024), [art. 2](https://www.legislation.gov.uk/wsi/2013/3024/article/2)

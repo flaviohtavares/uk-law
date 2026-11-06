@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 185. Assignment of right to dividend[^key-920e9c3091a6b85d05ee8a95da9c3059]
+## 185. Assignment of right to dividend[^c-920e9c3091a6b85d05ee8a95da9c3059]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-920e9c3091a6b85d05ee8a95da9c3059]: Commencement: [Rule 185](https://www.legislation.gov.uk/uksi/2011/1301/rule/185) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-920e9c3091a6b85d05ee8a95da9c3059]: Commencement: [Rule 185](https://www.legislation.gov.uk/uksi/2011/1301/rule/185) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

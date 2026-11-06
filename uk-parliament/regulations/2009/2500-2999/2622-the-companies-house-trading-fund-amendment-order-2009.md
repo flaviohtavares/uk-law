@@ -32,7 +32,7 @@ summary: ''
 
 Government Trading Funds
 
-The Companies House Trading Fund (Amendment) Order 2009 (revoked)[^key-cbdeaae54b8a37619c9441894124963b]
+The Companies House Trading Fund (Amendment) Order 2009 (revoked)[^c-cbdeaae54b8a37619c9441894124963b]
 
 Made
 
@@ -40,20 +40,20 @@ Made
 
 Coming into force immediately after it is made
 
-[^key-cbdeaae54b8a37619c9441894124963b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cbdeaae54b8a37619c9441894124963b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-cbdeaae54b8a37619c9441894124963b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-cbdeaae54b8a37619c9441894124963b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-cbdeaae54b8a37619c9441894124963b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-cbdeaae54b8a37619c9441894124963b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cbdeaae54b8a37619c9441894124963b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cbdeaae54b8a37619c9441894124963b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cbdeaae54b8a37619c9441894124963b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cbdeaae54b8a37619c9441894124963b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cbdeaae54b8a37619c9441894124963b]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/2622) revoked (1.4.2020) by [The Companies House Trading Fund (Revocation) Order 2019 (S.I. 2019/1337)](https://www.legislation.gov.uk/uksi/2019/1337), [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/1337/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2019/1337/schedule)
+[^c-cbdeaae54b8a37619c9441894124963b]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/2622) revoked (1.4.2020) by [The Companies House Trading Fund (Revocation) Order 2019 (S.I. 2019/1337)](https://www.legislation.gov.uk/uksi/2019/1337), [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/1337/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2019/1337/schedule)

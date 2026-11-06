@@ -22,18 +22,18 @@ summary: ''
 
 (1) This section applies if—
 
-- (a) the individual's total qualifying care[^key-c432f08d5c9fa3cf6240eaf8bedefd40] receipts for the period of account exceed the individual's relevant limit for the period, and
+- (a) the individual's total qualifying care[^c-c432f08d5c9fa3cf6240eaf8bedefd40] receipts for the period of account exceed the individual's relevant limit for the period, and
 - (b) the individual makes an election under this section.
 
 (2) The profits of the trade for the tax year are—
 
-- (a) the individual's total qualifying care[^key-f4914398adce89b4c7a63b2022915879] receipts for the period of account, less
+- (a) the individual's total qualifying care[^c-f4914398adce89b4c7a63b2022915879] receipts for the period of account, less
 - (b) the individual's relevant limit for the period.
 
 (3) Sections 818(2) and (3) and 819 (adjustment of assessment) apply for the purposes of an election under this section as they apply for the purposes of an election under those sections.
 
 ## Annotations
 
-[^key-c432f08d5c9fa3cf6240eaf8bedefd40]: Textual amendment: Words in s. 823(1)(a) substituted (16.12.2010) (with effect in accordance with Sch. 1 para. 36 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/24) (with [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37))
+[^c-c432f08d5c9fa3cf6240eaf8bedefd40]: Textual amendment: Words in s. 823(1)(a) substituted (16.12.2010) (with effect in accordance with Sch. 1 para. 36 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/24) (with [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37))
 
-[^key-f4914398adce89b4c7a63b2022915879]: Textual amendment: Words in s. 823(2)(a) substituted (16.12.2010) (with effect in accordance with Sch. 1 para. 36 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/24) (with [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37))
+[^c-f4914398adce89b4c7a63b2022915879]: Textual amendment: Words in s. 823(2)(a) substituted (16.12.2010) (with effect in accordance with Sch. 1 para. 36 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/24) (with [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37))

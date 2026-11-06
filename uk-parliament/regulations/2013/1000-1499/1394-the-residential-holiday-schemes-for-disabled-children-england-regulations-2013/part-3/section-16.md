@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Policies and records[^key-61f9304373644a4335e7a1849f618541]
+## 16. Policies and records[^c-61f9304373644a4335e7a1849f618541]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61f9304373644a4335e7a1849f618541]: Commencement: Reg. 16 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-61f9304373644a4335e7a1849f618541]: Commencement: Reg. 16 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)

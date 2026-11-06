@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Child’s special allowance[^key-eeaf483b344e240d84f59b2dee8989de]
+## 16. Child’s special allowance[^c-eeaf483b344e240d84f59b2dee8989de]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eeaf483b344e240d84f59b2dee8989de]: Commencement: Reg. 16 in operation at 25.7.2006 with effect in accordance with reg. 1
+[^c-eeaf483b344e240d84f59b2dee8989de]: Commencement: Reg. 16 in operation at 25.7.2006 with effect in accordance with reg. 1

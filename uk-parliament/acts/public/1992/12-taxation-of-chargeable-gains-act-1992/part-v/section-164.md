@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164. Other retirement relief.[^key-a52f8acb1d64b9d2b509972c455e850c]
+## 164. Other retirement relief.[^c-a52f8acb1d64b9d2b509972c455e850c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a52f8acb1d64b9d2b509972c455e850c]: Textual amendment: S. 164 repealed (with effect in relation to disposals in the year 2003-04 and subsequent years of assessment in accordance with s. 140(2), Sch. 27 Pt. III(31) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [s. 140(2)(b)](https://www.legislation.gov.uk/ukpga/1998/36/section/140/2/b), [Sch. 27 Pt. III(31)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/27/part/III/31)
+[^c-a52f8acb1d64b9d2b509972c455e850c]: Textual amendment: S. 164 repealed (with effect in relation to disposals in the year 2003-04 and subsequent years of assessment in accordance with s. 140(2), Sch. 27 Pt. III(31) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [s. 140(2)(b)](https://www.legislation.gov.uk/ukpga/1998/36/section/140/2/b), [Sch. 27 Pt. III(31)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/27/part/III/31)

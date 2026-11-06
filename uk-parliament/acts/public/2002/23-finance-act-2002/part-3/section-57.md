@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-7a70b211d2cec5c2c8cb80747aec78bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-7a70b211d2cec5c2c8cb80747aec78bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Schedule 17 to this Act (which makes provision consequential on the introduction of community investment tax relief) has effect.
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a70b211d2cec5c2c8cb80747aec78bf]: Textual amendment: [S. 57(1)](https://www.legislation.gov.uk/ukpga/2002/23/section/57/1) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 369](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/369), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-7a70b211d2cec5c2c8cb80747aec78bf]: Textual amendment: [S. 57(1)](https://www.legislation.gov.uk/ukpga/2002/23/section/57/1) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 369](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/369), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

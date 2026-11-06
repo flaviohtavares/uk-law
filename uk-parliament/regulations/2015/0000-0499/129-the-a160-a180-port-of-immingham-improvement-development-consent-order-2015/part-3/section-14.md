@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Access to works[^key-765828b943116ed6ee70bc2bca5ddfff]
+## 14. Access to works[^c-765828b943116ed6ee70bc2bca5ddfff]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Secretary of State may, for the purposes of the authorised development form 
 
 ## Annotations
 
-[^key-765828b943116ed6ee70bc2bca5ddfff]: Commencement: Art. 14 in force at 25.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/129/article/1)
+[^c-765828b943116ed6ee70bc2bca5ddfff]: Commencement: Art. 14 in force at 25.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/129/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-646fe6e40993d9a49296a80cc0b08f84]
+## 1. Citation and commencement[^c-646fe6e40993d9a49296a80cc0b08f84]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the National Grid (Bramford to Twinstead Reinforcemen
 
 ## Annotations
 
-[^key-646fe6e40993d9a49296a80cc0b08f84]: Commencement: Art. 1 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-646fe6e40993d9a49296a80cc0b08f84]: Commencement: Art. 1 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)

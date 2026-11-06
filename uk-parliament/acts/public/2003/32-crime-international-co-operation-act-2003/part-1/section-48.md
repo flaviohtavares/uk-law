@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Transfer of EU etc. prisoner to assist UK investigation[^key-530a56f47bd6d6c6b80835e5d6d26d0d]
+## 48. Transfer of EU etc. prisoner to assist UK investigation[^c-530a56f47bd6d6c6b80835e5d6d26d0d]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ The offence must be one which was or may have been committed in the participatin
 (2) This section applies to a person who is detained in custody in a participating country—
 
 - (a) by virtue of a sentence or order of a court exercising criminal jurisdiction there, or
-- (b) in consequence of —[^key-db04b99ac43e4017acb5cbbf22fed8aa]
+- (b) in consequence of —[^c-db04b99ac43e4017acb5cbbf22fed8aa]
 - (a) having been transferred there, or responsibility for his detention and release having been transferred there, from the United Kingdom under the Repatriation of Prisoners Act 1984;
 - (b) having been transferred there, or responsibility for his detention and release having been transferred there, under any similar provision or arrangement from any other country or territory.
 
@@ -55,6 +55,6 @@ The offence must be one which was or may have been committed in the participatin
 
 ## Annotations
 
-[^key-530a56f47bd6d6c6b80835e5d6d26d0d]: Commencement: S. 48 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-530a56f47bd6d6c6b80835e5d6d26d0d]: Commencement: S. 48 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
 
-[^key-db04b99ac43e4017acb5cbbf22fed8aa]: Textual amendment: Words in s. 48(2)(b) substituted (14.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 26 para. 52](https://www.legislation.gov.uk/ukpga/2008/4/schedule/26/paragraph/52); [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 48(q)](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/48/q)
+[^c-db04b99ac43e4017acb5cbbf22fed8aa]: Textual amendment: Words in s. 48(2)(b) substituted (14.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 26 para. 52](https://www.legislation.gov.uk/ukpga/2008/4/schedule/26/paragraph/52); [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 48(q)](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/48/q)

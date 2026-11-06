@@ -52,11 +52,11 @@ In accordance with section 86(4) of the Act the Secretary of State has consulted
 
 ## PART 1 — INTRODUCTION
 
-### 1. Citation and commencement[^key-4d0ae0d9cf01429cc3c044947aa22d2b]
+### 1. Citation and commencement[^c-4d0ae0d9cf01429cc3c044947aa22d2b]
 
 These Regulations may be cited as the Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Electromagnetic Fields) Regulations 2016 and come into force on 21st November 2016.
 
-### 2. Interpretation[^key-3b529027372cace93a90d4bcd1231957]
+### 2. Interpretation[^c-3b529027372cace93a90d4bcd1231957]
 
 (1) In these Regulations—
 
@@ -67,7 +67,7 @@ These Regulations may be cited as the Merchant Shipping and Fishing Vessels (Hea
 - “ELV” means an exposure limit value set out in Part 2 of the Schedule;
 - “employer” means a person by whom a worker is employed on a ship under a contract of employment;
 - “the General Duties Regulations” means the Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997[^f00004];
-- [^key-31aea6dfb5bf7a501c10b906e513d0c6]...
+- [^c-31aea6dfb5bf7a501c10b906e513d0c6]...
 - “health and safety” includes the occupational health and safety of persons while on board a ship and while boarding or leaving a ship;
 - “health effect” means a direct biophysical effect which is potentially harmful to human health;
 - “indirect effect” means an effect, caused by the presence of an object or a substance in an electromagnetic field, which may present a safety or health hazard;
@@ -75,8 +75,8 @@ These Regulations may be cited as the Merchant Shipping and Fishing Vessels (Hea
 - “sensory effect” means a direct biophysical effect involving a transient disturbance in sensory perception or a minor and temporary change in brain function;
 - “ship” includes hovercraft;
 - “United Kingdom ship” means a ship which is—
-  - (a) a United Kingdom ship within the meaning of section 85(2) of the Act, or[^key-8b1283d53b1eb9a4c53bf4e989df9915]
-  - (b) [^key-31aea6dfb5bf7a501c10b906e513d0c6]...
+  - (a) a United Kingdom ship within the meaning of section 85(2) of the Act, or[^c-8b1283d53b1eb9a4c53bf4e989df9915]
+  - (b) [^c-31aea6dfb5bf7a501c10b906e513d0c6]...
   - (c) a hovercraft registered under the Hovercraft Act 1968[^f00005]; and
 - “worker at particular risk” means—
   - (a) a worker who has declared to his or her employer a condition which may lead to a higher susceptibility to the potential effects of exposure to electromagnetic fields; or
@@ -86,7 +86,7 @@ These Regulations may be cited as the Merchant Shipping and Fishing Vessels (Hea
 
 (3) In the application of these Regulations to a hovercraft, a reference to the master of a ship includes a reference to the captain of that hovercraft.
 
-### 3. Meaning of “worker”[^key-8bbbbf0cd62d7c5b27c87f203b9ace3a]
+### 3. Meaning of “worker”[^c-8bbbbf0cd62d7c5b27c87f203b9ace3a]
 
 (1) In these Regulations, “worker” means a person employed under a contract of employment and includes a trainee or apprentice other than a person who is training in a vessel which is being used—
 
@@ -104,7 +104,7 @@ and which is operating under a relevant code.
 
 (3) In paragraph (2), each reference to a Code includes a reference to any document containing an amendment or replacement of that Code which is considered by the Secretary of State to be relevant from time to time and is specified in a Merchant Shipping Notice which contains a statement to that effect.
 
-### 4. Application of these Regulations[^key-9a65730c55e4754236fbe011817d8a4e]
+### 4. Application of these Regulations[^c-9a65730c55e4754236fbe011817d8a4e]
 
 (1) Without prejudice to regulation 5 (general duties) of the General Duties Regulations and subject to paragraph (2), these Regulations apply in relation to activities in which workers are subject to, or are potentially subject to exposure to, electromagnetic fields on United Kingdom ships.
 
@@ -126,7 +126,7 @@ that provision does not apply in relation to activities on that ship to the exte
 
 ## PART 2 — EXPOSURE AND RISK
 
-### 5. Limitation on exposure to electromagnetic fields[^key-9ebf2027a5cfd81c52f6854921e89839]
+### 5. Limitation on exposure to electromagnetic fields[^c-9ebf2027a5cfd81c52f6854921e89839]
 
 (1) Subject to paragraphs (2) and (3), an employer must ensure that workers are not exposed to electromagnetic field levels in excess of the ELVs.
 
@@ -141,7 +141,7 @@ that provision does not apply in relation to activities on that ship to the exte
 
 - “sensory effect ELV” means the sensory effect ELVs set out in Part 2 of the Schedule.
 
-### 6. Exposure assessment[^key-c297521e9773327d50697beb73c959fc]
+### 6. Exposure assessment[^c-c297521e9773327d50697beb73c959fc]
 
 (1) Subject to paragraph (5), the employer must make a suitable and sufficient assessment of the levels of electromagnetic fields to which workers may be exposed.
 
@@ -166,7 +166,7 @@ and make such changes to it as are necessary to ensure it remains suitable and s
 
 (5) Where an employer has made an assessment before the date on which these Regulations come into force, which assessment would have complied with the requirements of this regulation, that employer is to be treated, on and after that date, as having complied with paragraph (1).
 
-### 7. Application of regulations 8 to 10[^key-895c1b9e0911ade62d2f9b345764ee39]
+### 7. Application of regulations 8 to 10[^c-895c1b9e0911ade62d2f9b345764ee39]
 
 (1) Regulation 8 does not apply—
 
@@ -183,7 +183,7 @@ and make such changes to it as are necessary to ensure it remains suitable and s
 
 - “indirect effect ALs” means the Low ALs in Table AL1, and the ALs in Tables AL5 to AL7, in the Schedule.
 
-### 8. Action plan[^key-08ae9f6b7da80ad3e6a0410f3972ee63]
+### 8. Action plan[^c-08ae9f6b7da80ad3e6a0410f3972ee63]
 
 (1) The employer must make and implement a suitable and sufficient action plan to ensure compliance with regulation 5(1).
 
@@ -200,7 +200,7 @@ and make such changes to it as are necessary to ensure it remains suitable and s
 
 (3) Where, despite the measures taken in accordance with paragraph (1), the exposure of workers exceeds any ELV the employer must, as soon as is reasonably practicable, identify and implement any changes to the action plan which are necessary to ensure compliance with regulation 5(1).
 
-### 9. Risk assessment[^key-61a1055b82a773b9486c963d92beed89]
+### 9. Risk assessment[^c-61a1055b82a773b9486c963d92beed89]
 
 (1) Subject to paragraph (5), the employer must make a suitable and sufficient assessment of the risks to workers arising from their exposure to electromagnetic fields.
 
@@ -233,7 +233,7 @@ and make such changes to it as are necessary to ensure it remains suitable and s
 
 (5) Where an employer has made an assessment before the date on which these Regulations come into force, which assessment would have complied with the requirements of this regulation, that employer is to be treated, on and after that date, as having complied with paragraph (1).
 
-### 10. Obligation to eliminate or reduce risks[^key-a1e0020cd8f19ec59522fbd0944cc19f]
+### 10. Obligation to eliminate or reduce risks[^c-a1e0020cd8f19ec59522fbd0944cc19f]
 
 (1) The employer must ensure that, so far as is reasonably practicable, the risks identified in the most recent risk assessment under regulation 9 are eliminated or reduced to a minimum.
 
@@ -244,7 +244,7 @@ and make such changes to it as are necessary to ensure it remains suitable and s
 
 ## PART 3 — ENFORCEMENT
 
-### 11. Offences and Penalties[^key-1f34230a87937b3c8a881c97e642a010]
+### 11. Offences and Penalties[^c-1f34230a87937b3c8a881c97e642a010]
 
 (1) Any person who fails to comply with regulations 5, 6, 8, 9, 10 or 20 is guilty of an offence and is liable—
 
@@ -263,11 +263,11 @@ and make such changes to it as are necessary to ensure it remains suitable and s
 
 (6) Where an offence under these Regulations committed by a Scottish partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, that partner as well as the partnership is guilty of that offence and is liable to be proceeded against and punished accordingly.
 
-### 12. Burden of proving what is reasonably practicable[^key-8afb33a54f558db2d0dad73927f244db]
+### 12. Burden of proving what is reasonably practicable[^c-8afb33a54f558db2d0dad73927f244db]
 
 In any proceedings under these Regulations consisting of a failure to comply with a duty or a requirement to do something so far as is reasonably practicable, it is for the defendant to prove that it was not reasonably practicable to do more than was in fact done to satisfy that duty or requirement.
 
-### 13. Detention of a United Kingdom ship[^key-63165f61cfeb53f8e05b909ea4d771f0]
+### 13. Detention of a United Kingdom ship[^c-63165f61cfeb53f8e05b909ea4d771f0]
 
 (1) Where a surveyor of ships is satisfied that there is or has been a failure to comply in relation to any ship with the requirements of these Regulations, that ship is liable to be detained until a surveyor of ships is satisfied that those requirements are complied with.
 
@@ -304,7 +304,7 @@ and any balance must be repaid to the first-mentioned person.
 - (a) references to the master or owner of the ship were references to the employer or other person having control of the matter in question; and
 - (b) references to an offence under section 131 were references to an offence arising from the failure in question.
 
-### 14. Inspection and other measures in respect of ships registered outside the United Kingdom[^key-4d11f1d8fcc76a50c6553aade34bd787]
+### 14. Inspection and other measures in respect of ships registered outside the United Kingdom[^c-4d11f1d8fcc76a50c6553aade34bd787]
 
 (1) When a ship which is not a United Kingdom ship is in United Kingdom waters, a relevant inspector may inspect that ship to ascertain whether the standards required in relation to United Kingdom ships by these Regulations are met in relation to that ship.
 
@@ -325,11 +325,11 @@ and any balance must be repaid to the first-mentioned person.
 
 - “relevant inspector” means a person mentioned in paragraph (a), (b) or (c) of section 258(1) of the Act (powers to inspect ships and their equipment, etc)[^f00014].
 
-### 15. Application of powers of inspectors in relation to Government ships[^key-363bd7c4ae95a85960fc40fd7d7f1632]
+### 15. Application of powers of inspectors in relation to Government ships[^c-363bd7c4ae95a85960fc40fd7d7f1632]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Enforcement of detention[^key-a5b64df5fdd69ec531759ac5d0d44b3a]
+### 16. Enforcement of detention[^c-a5b64df5fdd69ec531759ac5d0d44b3a]
 
 (1) Section 284 of the Act (enforcing detention of ship)[^f00016] applies where a ship is liable to be detained under these Regulations as if—
 
@@ -342,17 +342,17 @@ and any balance must be repaid to the first-mentioned person.
 - (b) specifies the matters which, in the opinion of the surveyor of ships, have the effect that in relation to that ship those requirements are not met; and
 - (c) requires the terms of the notice to be complied with until the ship is released by any person mentioned in section 284(1) of the Act.
 
-### 17. Right of appeal and compensation[^key-3bcb7e9359605e23f100dd22c8082a4b]
+### 17. Right of appeal and compensation[^c-3bcb7e9359605e23f100dd22c8082a4b]
 
-Regulations 19, 20 and 21[^key-1f4e4330f42844378f9f0b004106f7a0] (right of appeal and compensation, arbitration and compensation for unjustified detention) of the Merchant Shipping (Port State Control) Regulations 2026[^M_F_d1b797c4-a2c0-4267-df02-b741c52c6713] apply to a detention notice served under these Regulations as they apply to a detention order under those Regulations.
+Regulations 19, 20 and 21[^c-1f4e4330f42844378f9f0b004106f7a0] (right of appeal and compensation, arbitration and compensation for unjustified detention) of the Merchant Shipping (Port State Control) Regulations 2026[^M_F_d1b797c4-a2c0-4267-df02-b741c52c6713] apply to a detention notice served under these Regulations as they apply to a detention order under those Regulations.
 
-### 18. Prohibition on charging of workers[^key-622b7f637d05d447edc98f8697d581b9]
+### 18. Prohibition on charging of workers[^c-622b7f637d05d447edc98f8697d581b9]
 
 No charging in respect of anything done or provided in accordance with any requirement of these Regulations may be levied or permitted to be levied on any worker.
 
 ## PART 4 — MISCELLANEOUS
 
-### 19. Information and training[^key-377592dcd1c62fd2603ba63e957d33c0]
+### 19. Information and training[^c-377592dcd1c62fd2603ba63e957d33c0]
 
 The employer must provide relevant information and training to any workers who are likely to be subjected to the risks identified in the most recent risk assessment under regulation 9, including in relation to—
 
@@ -365,7 +365,7 @@ The employer must provide relevant information and training to any workers who a
 - (g) safe working practices; and
 - (h) any additional measures taken in respect of workers at particular risk.
 
-### 20. Health surveillance and medical examinations[^key-54f0bcd63bf9bfdc71045b1276221451]
+### 20. Health surveillance and medical examinations[^c-54f0bcd63bf9bfdc71045b1276221451]
 
 (1) The employer must ensure that health surveillance and medical examinations are provided as appropriate to any worker who—
 
@@ -380,7 +380,7 @@ The employer must provide relevant information and training to any workers who a
 
 - “health effect ELVs” means the health effect ELVs set out in Part 2 of the Schedule.
 
-### 21. Records[^key-6219ee37d3d851a527a9390a4294a9aa]
+### 21. Records[^c-6219ee37d3d851a527a9390a4294a9aa]
 
 An employer who employs five or more workers must—
 
@@ -389,7 +389,7 @@ An employer who employs five or more workers must—
   - (i) the most recent action plan under regulation 8; and
   - (ii) the significant findings of the most recent risk assessment under regulation 9.
 
-### 22. Duties of other persons[^key-a8206da157e79e9c955155dbc42991ac]
+### 22. Duties of other persons[^c-a8206da157e79e9c955155dbc42991ac]
 
 (1) Where a person on whom a duty is imposed by any of the preceding provisions of these Regulations does not have control of the matter to which that provision relates because responsibility for the operation of the ship falls upon another person, that duty also extends to any other person who has control of that matter.
 
@@ -398,7 +398,7 @@ An employer who employs five or more workers must—
 - (a) make full and proper use of all clothing and equipment provided by the employer to that worker in pursuance of these Regulations; and
 - (b) give effect to all information and training provided to that worker under regulation 19.
 
-### 23. Exemptions[^key-0cc24f90166a4310d20f7f021336367e]
+### 23. Exemptions[^c-0cc24f90166a4310d20f7f021336367e]
 
 (1) The Secretary of State may exempt an employer from the requirements of regulations 5(1) and 8 in relation to one or more work activities.
 
@@ -415,13 +415,13 @@ An employer who employs five or more workers must—
 
 (4) The Secretary of State may amend or revoke an exemption at any time.
 
-### 24. Amendment to Regulations[^key-c90ec502ede7efbb0d09979073fb776d]
+### 24. Amendment to Regulations[^c-c90ec502ede7efbb0d09979073fb776d]
 
 (1) The Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997[^f00018] are amended as follows.
 
 (2) In the Schedule (merchant shipping health and safety regulations containing duties in respect of workers which regulation 13A extends to all seafarers)[^f00019], at the appropriate place, insert “The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Electromagnetic Fields) Regulations 2016”.
 
-### 25. Review[^key-8c4016efc73d9762dc65f3360b64053e]
+### 25. Review[^c-8c4016efc73d9762dc65f3360b64053e]
 
 (1) The Secretary of State must from time to time—
 
@@ -461,7 +461,7 @@ Regulations 2, 5, 6, 7 and 20.
 
 ### PART 1 — Introduction to Parts 2 and 3
 
-**1.**[^key-1eaa596e2da74bf494994d08756c5e46] In this schedule—
+**1.**[^c-1eaa596e2da74bf494994d08756c5e46] In this schedule—
 
 - “contact current (I<sub>C</sub>)” is the current created when a person comes into contact with an object in an electromagnetic field, expressed in ampères (A);
 - “external electric field strength (E)” is a vector quantity corresponding to the force exerted on a charged particle in the environment, irrespective of its motion in space, expressed in volts per metre (Vm<sup>-1</sup>);
@@ -472,22 +472,22 @@ Regulations 2, 5, 6, 7 and 20.
 - “specific energy absorption (SA)” is the energy absorbed per unit mass of biological tissue, expressed in joules per kilogram (Jkg<sup>–1</sup>); and
 - “specific energy absorption rate (SAR)” is the rate at which energy is absorbed per unit mass of body tissue, expressed in watts per kilogram (Wkg<sup>–1</sup>).
 
-**2.**[^key-e582e52f16e3d57effee5522155a7562] The ALs and ELVs set out in tables are grouped according to their potential effects, being—
+**2.**[^c-e582e52f16e3d57effee5522155a7562] The ALs and ELVs set out in tables are grouped according to their potential effects, being—
 
 - (a) thermal effects, related to the heating of tissue due to its absorption of electromagnetic fields; and
 - (b) non-thermal effects, related to the stimulation of muscles, nerves or sensory organs due to the presence of electromagnetic fields.
 
-**3.**[^key-385a1b1a1a22a5285bd15d24f9120294] The low ALs in Table AL1 in Part 2, and the ALs in Part 3, specify the electromagnetic field levels above which specific indirect effects may occur.
+**3.**[^c-385a1b1a1a22a5285bd15d24f9120294] The low ALs in Table AL1 in Part 2, and the ALs in Part 3, specify the electromagnetic field levels above which specific indirect effects may occur.
 
-**4.**[^key-20866fe962b5e52c300782d94330bb5e] The remaining ALs in Part 2 are defined physical quantities related to the direct biophysical effects of exposure to electromagnetic fields. Employers may, as part of their exposure assessment, assess electromagnetic field levels against these ALs. Each AL table states which ELV or ELVs will be complied with if electromagnetic field levels at a particular frequency do not exceed the specified AL. Exposure to electromagnetic field levels that exceeds an AL may still be below the relevant ELV, but in order to determine this the employer will need to undertake a further assessment under regulation 6.
+**4.**[^c-20866fe962b5e52c300782d94330bb5e] The remaining ALs in Part 2 are defined physical quantities related to the direct biophysical effects of exposure to electromagnetic fields. Employers may, as part of their exposure assessment, assess electromagnetic field levels against these ALs. Each AL table states which ELV or ELVs will be complied with if electromagnetic field levels at a particular frequency do not exceed the specified AL. Exposure to electromagnetic field levels that exceeds an AL may still be below the relevant ELV, but in order to determine this the employer will need to undertake a further assessment under regulation 6.
 
-**5.**[^key-59eca27407ae0ac0046f42b75df492b0] Except where otherwise indicated—
+**5.**[^c-59eca27407ae0ac0046f42b75df492b0] Except where otherwise indicated—
 
 - (a) “f” is the frequency expressed in hertz;
 - (b) the ALs and ELVs relate to exposure in any part of the body; and
 - (c) notes to the tables apply only to the table under which they appear.
 
-**6.**[^key-88f4e26302164ce51fdd2a27b0b1c833] The applicable safety measures referred to in regulation 5(2) are those required by the notes to the table or tables containing the sensory effect ELV which is to be exceeded, being the note to Table ELV1, and note 2 to Tables ELV3 and ELV5.
+**6.**[^c-88f4e26302164ce51fdd2a27b0b1c833] The applicable safety measures referred to in regulation 5(2) are those required by the notes to the table or tables containing the sensory effect ELV which is to be exceeded, being the note to Table ELV1, and note 2 to Tables ELV3 and ELV5.
 
 ### PART 2 — Direct biophysical effects of exposure[^M_I_0b37c5d0-9a18-416c-fad5-dfa44e9e00d8]
 
@@ -747,19 +747,19 @@ An impact assessment of the effect of these Regulations on the cost to business 
 
 [^f00003]: Footnote: [S.I. 1993/595](https://www.legislation.gov.uk/uksi/1993/595).
 
-[^key-4d0ae0d9cf01429cc3c044947aa22d2b]: Commencement: Reg. 1 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
+[^c-4d0ae0d9cf01429cc3c044947aa22d2b]: Commencement: Reg. 1 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
 
-[^key-3b529027372cace93a90d4bcd1231957]: Commencement: Reg. 2 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
+[^c-3b529027372cace93a90d4bcd1231957]: Commencement: Reg. 2 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
 
 [^f00004]: Footnote: [S.I. 1997/2962](https://www.legislation.gov.uk/uksi/1997/2962); as amended by [S.I. 1998/2411](https://www.legislation.gov.uk/uksi/1998/2411) and [2001/54](https://www.legislation.gov.uk/uksi/2001/54). There are other amendments, but none is relevant.
 
-[^key-31aea6dfb5bf7a501c10b906e513d0c6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/1026/regulation/2/1) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-31aea6dfb5bf7a501c10b906e513d0c6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/1026/regulation/2/1) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
 
-[^key-8b1283d53b1eb9a4c53bf4e989df9915]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/1026/regulation/2/1) inserted (10.4.2026) by [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-8b1283d53b1eb9a4c53bf4e989df9915]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/1026/regulation/2/1) inserted (10.4.2026) by [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
 
 [^f00005]: Footnote: [1968 c. 59](https://www.legislation.gov.uk/ukpga/1968/59).
 
-[^key-8bbbbf0cd62d7c5b27c87f203b9ace3a]: Commencement: Reg. 3 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
+[^c-8bbbbf0cd62d7c5b27c87f203b9ace3a]: Commencement: Reg. 3 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
 
 [^f00006]: Footnote: Published by the Maritime and Coastguard Agency on www.gov.uk.
 
@@ -769,83 +769,83 @@ An impact assessment of the effect of these Regulations on the cost to business 
 
 [^f00009]: Footnote: Published by the Stationery Office in 1999 (IBSN 0-11-551812-6).
 
-[^key-9a65730c55e4754236fbe011817d8a4e]: Commencement: Reg. 4 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
+[^c-9a65730c55e4754236fbe011817d8a4e]: Commencement: Reg. 4 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
 
-[^key-9ebf2027a5cfd81c52f6854921e89839]: Commencement: Reg. 5 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
+[^c-9ebf2027a5cfd81c52f6854921e89839]: Commencement: Reg. 5 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
 
 [^f00010]: Footnote: See paragraph 6 of Part 1 of the Schedule.
 
-[^key-c297521e9773327d50697beb73c959fc]: Commencement: Reg. 6 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
+[^c-c297521e9773327d50697beb73c959fc]: Commencement: Reg. 6 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
 
 [^f00011]: Footnote: See paragraphs 3 and 4 of Part 1 of the Schedule.
 
-[^key-895c1b9e0911ade62d2f9b345764ee39]: Commencement: Reg. 7 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
+[^c-895c1b9e0911ade62d2f9b345764ee39]: Commencement: Reg. 7 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
 
-[^key-08ae9f6b7da80ad3e6a0410f3972ee63]: Commencement: Reg. 8 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
+[^c-08ae9f6b7da80ad3e6a0410f3972ee63]: Commencement: Reg. 8 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
 
-[^key-61a1055b82a773b9486c963d92beed89]: Commencement: Reg. 9 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
+[^c-61a1055b82a773b9486c963d92beed89]: Commencement: Reg. 9 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
 
-[^key-a1e0020cd8f19ec59522fbd0944cc19f]: Commencement: Reg. 10 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
+[^c-a1e0020cd8f19ec59522fbd0944cc19f]: Commencement: Reg. 10 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
 
-[^key-1f34230a87937b3c8a881c97e642a010]: Commencement: Reg. 11 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
+[^c-1f34230a87937b3c8a881c97e642a010]: Commencement: Reg. 11 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
 
-[^key-8afb33a54f558db2d0dad73927f244db]: Commencement: Reg. 12 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
+[^c-8afb33a54f558db2d0dad73927f244db]: Commencement: Reg. 12 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
 
-[^key-63165f61cfeb53f8e05b909ea4d771f0]: Commencement: Reg. 13 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
+[^c-63165f61cfeb53f8e05b909ea4d771f0]: Commencement: Reg. 13 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
 
 [^f00012]: Footnote: Cmnd. 8941.
 
-[^key-4d11f1d8fcc76a50c6553aade34bd787]: Commencement: Reg. 14 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
+[^c-4d11f1d8fcc76a50c6553aade34bd787]: Commencement: Reg. 14 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
 
 [^f00013]: Footnote: The International Labour Office is the permanent secretariat of the International Labour Organisation, which is an agency of the United Nations.
 
 [^f00014]: Footnote: Section 258(1) was amended by the Merchant Shipping and Maritime Security Act [1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28), Schedule 1, paragraph 4 and Schedule 7, Part I, and modified in relation to a ship in a port in the United Kingdom by [S.I. 1995/3158](https://www.legislation.gov.uk/uksi/1995/3158).
 
-[^key-363bd7c4ae95a85960fc40fd7d7f1632]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2016/1026/regulation/15) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-363bd7c4ae95a85960fc40fd7d7f1632]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2016/1026/regulation/15) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
 
-[^key-a5b64df5fdd69ec531759ac5d0d44b3a]: Commencement: Reg. 16 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
+[^c-a5b64df5fdd69ec531759ac5d0d44b3a]: Commencement: Reg. 16 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
 
 [^f00016]: Footnote: Section 284 was amended by the Merchant Shipping and Maritime Security Act 1997, Schedule 1, paragraph 5.
 
-[^key-3bcb7e9359605e23f100dd22c8082a4b]: Commencement: Reg. 17 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
+[^c-3bcb7e9359605e23f100dd22c8082a4b]: Commencement: Reg. 17 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
 
-[^key-1f4e4330f42844378f9f0b004106f7a0]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2016/1026/regulation/17) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+[^c-1f4e4330f42844378f9f0b004106f7a0]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2016/1026/regulation/17) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
 
 [^M_F_d1b797c4-a2c0-4267-df02-b741c52c6713]: Textual amendment: Word in [reg. 17](https://www.legislation.gov.uk/uksi/2016/1026/regulation/17) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
 
-[^key-622b7f637d05d447edc98f8697d581b9]: Commencement: Reg. 18 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
+[^c-622b7f637d05d447edc98f8697d581b9]: Commencement: Reg. 18 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
 
-[^key-377592dcd1c62fd2603ba63e957d33c0]: Commencement: Reg. 19 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
+[^c-377592dcd1c62fd2603ba63e957d33c0]: Commencement: Reg. 19 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
 
-[^key-54f0bcd63bf9bfdc71045b1276221451]: Commencement: Reg. 20 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
+[^c-54f0bcd63bf9bfdc71045b1276221451]: Commencement: Reg. 20 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
 
-[^key-6219ee37d3d851a527a9390a4294a9aa]: Commencement: Reg. 21 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
+[^c-6219ee37d3d851a527a9390a4294a9aa]: Commencement: Reg. 21 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
 
-[^key-a8206da157e79e9c955155dbc42991ac]: Commencement: Reg. 22 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
+[^c-a8206da157e79e9c955155dbc42991ac]: Commencement: Reg. 22 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
 
-[^key-0cc24f90166a4310d20f7f021336367e]: Commencement: Reg. 23 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
+[^c-0cc24f90166a4310d20f7f021336367e]: Commencement: Reg. 23 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
 
-[^key-c90ec502ede7efbb0d09979073fb776d]: Commencement: Reg. 24 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
+[^c-c90ec502ede7efbb0d09979073fb776d]: Commencement: Reg. 24 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
 
 [^f00018]: Footnote: [S.I. 1997/2962](https://www.legislation.gov.uk/uksi/1997/2962).
 
 [^f00019]: Footnote: The Schedule was inserted by [S.I. 2014/1616](https://www.legislation.gov.uk/uksi/2014/1616), regulation 2.
 
-[^key-8c4016efc73d9762dc65f3360b64053e]: Commencement: Reg. 25 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
+[^c-8c4016efc73d9762dc65f3360b64053e]: Commencement: Reg. 25 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
 
 [^f00020]: Footnote: OJ L 179, 29.6.2013, p.1.
 
-[^key-1eaa596e2da74bf494994d08756c5e46]: Commencement: Sch. Pt. 1 para. 1 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
+[^c-1eaa596e2da74bf494994d08756c5e46]: Commencement: Sch. Pt. 1 para. 1 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
 
-[^key-e582e52f16e3d57effee5522155a7562]: Commencement: Sch. Pt. 1 para. 2 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
+[^c-e582e52f16e3d57effee5522155a7562]: Commencement: Sch. Pt. 1 para. 2 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
 
-[^key-385a1b1a1a22a5285bd15d24f9120294]: Commencement: Sch. Pt. 1 para. 3 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
+[^c-385a1b1a1a22a5285bd15d24f9120294]: Commencement: Sch. Pt. 1 para. 3 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
 
-[^key-20866fe962b5e52c300782d94330bb5e]: Commencement: Sch. Pt. 1 para. 4 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
+[^c-20866fe962b5e52c300782d94330bb5e]: Commencement: Sch. Pt. 1 para. 4 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
 
-[^key-59eca27407ae0ac0046f42b75df492b0]: Commencement: Sch. Pt. 1 para. 5 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
+[^c-59eca27407ae0ac0046f42b75df492b0]: Commencement: Sch. Pt. 1 para. 5 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
 
-[^key-88f4e26302164ce51fdd2a27b0b1c833]: Commencement: Sch. Pt. 1 para. 6 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
+[^c-88f4e26302164ce51fdd2a27b0b1c833]: Commencement: Sch. Pt. 1 para. 6 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
 
 [^M_I_0b37c5d0-9a18-416c-fad5-dfa44e9e00d8]: Commencement: Sch. Pt. 2 in force at 21.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1)
 

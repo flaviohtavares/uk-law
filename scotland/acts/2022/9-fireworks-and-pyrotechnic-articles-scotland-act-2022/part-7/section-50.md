@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Report on operation of Act[^key-9e41d478ee04769ba11de0a0b4e478cf]
+## 50. Report on operation of Act[^c-9e41d478ee04769ba11de0a0b4e478cf]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e41d478ee04769ba11de0a0b4e478cf]: Commencement: S. 50 in force at 11.8.2022, see [s. 56(1)](https://www.legislation.gov.uk/asp/2022/9/section/56/1)
+[^c-9e41d478ee04769ba11de0a0b4e478cf]: Commencement: S. 50 in force at 11.8.2022, see [s. 56(1)](https://www.legislation.gov.uk/asp/2022/9/section/56/1)

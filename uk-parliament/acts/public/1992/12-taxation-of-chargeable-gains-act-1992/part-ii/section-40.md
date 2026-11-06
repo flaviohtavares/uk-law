@@ -41,10 +41,10 @@ the sums so allowable under section 38 shall, subject to subsection (2) below, i
 
 and subsection (2) above shall not apply.
 
-(4)[^key-2cc28fe9215e71cba9895a78bc5042e3] In consequence of Chapter 2 of Part 4 of the Finance Act 1996 (c. 8) (loan relationships) and CTA 2009 (Part 5 of which re-enacts that Chapter)[^key-a199a1f37dcec8a947a54714f6d4a138] this section does not have effect in relation to interest referable to an accounting period ending on or after 1st April 1996.
+(4)[^c-2cc28fe9215e71cba9895a78bc5042e3] In consequence of Chapter 2 of Part 4 of the Finance Act 1996 (c. 8) (loan relationships) and CTA 2009 (Part 5 of which re-enacts that Chapter)[^c-a199a1f37dcec8a947a54714f6d4a138] this section does not have effect in relation to interest referable to an accounting period ending on or after 1st April 1996.
 
 ## Annotations
 
-[^key-2cc28fe9215e71cba9895a78bc5042e3]: Textual amendment: S. 40(4) added (24.7.2002) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [Sch. 25 para. 60(2)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/25/paragraph/60/2)
+[^c-2cc28fe9215e71cba9895a78bc5042e3]: Textual amendment: S. 40(4) added (24.7.2002) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [Sch. 25 para. 60(2)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/25/paragraph/60/2)
 
-[^key-a199a1f37dcec8a947a54714f6d4a138]: Textual amendment: Words in s. 40(4) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 362](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/362) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-a199a1f37dcec8a947a54714f6d4a138]: Textual amendment: Words in s. 40(4) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 362](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/362) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

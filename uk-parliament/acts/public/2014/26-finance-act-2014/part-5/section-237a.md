@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 237A. Duty to give conduct notice: defeat of promoted arrangements[^M_C_f9edf311-08e5-4693-9f8c-901a8b2fce48][^M_C_9d44e47b-0b20-4107-b019-4a8fbfed2dba][^key-1c71f6f626f0c3ea23ab5c68b4d234b4]
+## 237A. Duty to give conduct notice: defeat of promoted arrangements[^M_C_f9edf311-08e5-4693-9f8c-901a8b2fce48][^M_C_9d44e47b-0b20-4107-b019-4a8fbfed2dba][^c-1c71f6f626f0c3ea23ab5c68b4d234b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,16 +31,16 @@ But see also subsection (14).
 
 (3) The authorised officer must determine whether or not—
 
-- (a)[^key-d83a1de868c85ee8a92141f17696d1bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-d83a1de868c85ee8a92141f17696d1bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) P's meeting of the condition as mentioned in subsection (2)(b),
 
 should be regarded as significant in view of the purposes of this Part.
 
-(3A)[^key-2843f74b34dbe3456ac24db4eef41bd0] In determining under subsection (3) whether or not P's meeting of the condition should be regarded as significant, the authorised officer must determine whether the meeting of that condition by the person mentioned in subsection (2)(a) should be regarded as significant in view of the purposes of this Part.
+(3A)[^c-2843f74b34dbe3456ac24db4eef41bd0] In determining under subsection (3) whether or not P's meeting of the condition should be regarded as significant, the authorised officer must determine whether the meeting of that condition by the person mentioned in subsection (2)(a) should be regarded as significant in view of the purposes of this Part.
 
 (3B) If the officer determines that the meeting of the condition by that person should be regarded as significant, the officer must determine that P's meeting of that condition should be regarded as significant.
 
-(3C)[^key-aa2f6d043d56bde67189be9b72ef7d83] If a person meets a condition in subsection (11), (12) or (13) and the person falls within the case described in paragraph 2 of Schedule 33A (multiple entity promoter), the authorised officer must determine (whether under subsection (1) or (3)(a) or (b)) that the meeting of the condition should be regarded as significant.
+(3C)[^c-aa2f6d043d56bde67189be9b72ef7d83] If a person meets a condition in subsection (11), (12) or (13) and the person falls within the case described in paragraph 2 of Schedule 33A (multiple entity promoter), the authorised officer must determine (whether under subsection (1) or (3)(a) or (b)) that the meeting of the condition should be regarded as significant.
 
 (4) Subsections (1) and (2) do not apply if a conduct notice or monitoring notice already has effect in relation to P.
 
@@ -57,7 +57,7 @@ should be regarded as significant in view of the purposes of this Part.
 
 (9) If the authorised officer determines under subsection (3) that—
 
-- (a)[^key-be15d9981b21ab4771df46a4b3cd80d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-be15d9981b21ab4771df46a4b3cd80d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) P's meeting of the condition as mentioned in subsection (2)(b),
 
 should be regarded as significant in view of the purposes of this Part, the officer must give P a conduct notice, unless subsection (10) applies.
@@ -83,12 +83,12 @@ should be regarded as significant in view of the purposes of this Part, the offi
 
 [^M_C_9d44e47b-0b20-4107-b019-4a8fbfed2dba]: Modification: S. 237A modified (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(22)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/22)
 
-[^key-1c71f6f626f0c3ea23ab5c68b4d234b4]: Textual amendment: Ss. 237A-237D inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/2)
+[^c-1c71f6f626f0c3ea23ab5c68b4d234b4]: Textual amendment: Ss. 237A-237D inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/2)
 
-[^key-d83a1de868c85ee8a92141f17696d1bd]: Textual amendment: [S. 237A(3)(a)](https://www.legislation.gov.uk/ukpga/2014/26/section/237A/3/a) omitted (with effect in accordance with s. 121(6) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 22(2)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/22/2/a)
+[^c-d83a1de868c85ee8a92141f17696d1bd]: Textual amendment: [S. 237A(3)(a)](https://www.legislation.gov.uk/ukpga/2014/26/section/237A/3/a) omitted (with effect in accordance with s. 121(6) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 22(2)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/22/2/a)
 
-[^key-2843f74b34dbe3456ac24db4eef41bd0]: Textual amendment: [S. 237A(3A)](https://www.legislation.gov.uk/ukpga/2014/26/section/237A/3A)[(3B)](https://www.legislation.gov.uk/ukpga/2014/26/section/237A/3B) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 22(2)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/22/2/b)
+[^c-2843f74b34dbe3456ac24db4eef41bd0]: Textual amendment: [S. 237A(3A)](https://www.legislation.gov.uk/ukpga/2014/26/section/237A/3A)[(3B)](https://www.legislation.gov.uk/ukpga/2014/26/section/237A/3B) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 22(2)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/22/2/b)
 
-[^key-aa2f6d043d56bde67189be9b72ef7d83]: Textual amendment: [S. 237A(3C)](https://www.legislation.gov.uk/ukpga/2014/26/section/237A/3C) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 12](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/12)
+[^c-aa2f6d043d56bde67189be9b72ef7d83]: Textual amendment: [S. 237A(3C)](https://www.legislation.gov.uk/ukpga/2014/26/section/237A/3C) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 12](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/12)
 
-[^key-be15d9981b21ab4771df46a4b3cd80d2]: Textual amendment: [S. 237A(9)(a)](https://www.legislation.gov.uk/ukpga/2014/26/section/237A/9/a) omitted (with effect in accordance with s. 121(6) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 22(2)(c)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/22/2/c)
+[^c-be15d9981b21ab4771df46a4b3cd80d2]: Textual amendment: [S. 237A(9)(a)](https://www.legislation.gov.uk/ukpga/2014/26/section/237A/9/a) omitted (with effect in accordance with s. 121(6) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 22(2)(c)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/22/2/c)

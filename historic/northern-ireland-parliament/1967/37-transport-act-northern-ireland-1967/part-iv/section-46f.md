@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46F. Savings[^key-2fde740d4c27479602b3844026be0f43]
+## 46F. Savings[^c-2fde740d4c27479602b3844026be0f43]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2fde740d4c27479602b3844026be0f43]: Textual amendment: [S. 46F](https://www.legislation.gov.uk/apni/1967/37/section/46F) omitted (18.8.2014) by virtue of [The Road Passenger Transport (Qualifications of Operators) Regulations (Northern Ireland) 2014 (S.R. 2014/206)](https://www.legislation.gov.uk/nisr/2014/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/206/regulation/1/1), [9(12)](https://www.legislation.gov.uk/nisr/2014/206/regulation/9/12)
+[^c-2fde740d4c27479602b3844026be0f43]: Textual amendment: [S. 46F](https://www.legislation.gov.uk/apni/1967/37/section/46F) omitted (18.8.2014) by virtue of [The Road Passenger Transport (Qualifications of Operators) Regulations (Northern Ireland) 2014 (S.R. 2014/206)](https://www.legislation.gov.uk/nisr/2014/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/206/regulation/1/1), [9(12)](https://www.legislation.gov.uk/nisr/2014/206/regulation/9/12)

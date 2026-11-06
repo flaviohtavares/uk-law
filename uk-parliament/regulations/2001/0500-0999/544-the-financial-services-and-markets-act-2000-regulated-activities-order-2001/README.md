@@ -85,16 +85,16 @@ The Treasury, in exercise of the powers conferred on them by sections 22(1) and 
 - [Section 9AB — Funds received for payment services](part-ii/section-9ab.md)
 - [Section 9AC — Local authorities](part-ii/section-9ac.md)
 
-#### CHAPTER IIA — ELECTRONIC MONEY[^key-553740a5a5511f8a0755c9ba7dd31279]
+#### CHAPTER IIA — ELECTRONIC MONEY[^c-553740a5a5511f8a0755c9ba7dd31279]
 
-##### The activity[^key-553740a5a5511f8a0755c9ba7dd31279]
+##### The activity[^c-553740a5a5511f8a0755c9ba7dd31279]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 9B — Issuing electronic money](part-ii/section-9b.md)
 - [Section 9BA](part-ii/section-9ba.md)
 
-##### Exclusions[^key-553740a5a5511f8a0755c9ba7dd31279]
+##### Exclusions[^c-553740a5a5511f8a0755c9ba7dd31279]
 
 - [Section 9C — Persons certified as small issuers etc.](part-ii/section-9c.md)
 - [Section 9D — Applications for certificates](part-ii/section-9d.md)
@@ -102,7 +102,7 @@ The Treasury, in exercise of the powers conferred on them by sections 22(1) and 
 - [Section 9F — Revocation of certificate on request](part-ii/section-9f.md)
 - [Section 9G — Obtaining information from certified persons etc.](part-ii/section-9g.md)
 
-##### Supplemental[^key-553740a5a5511f8a0755c9ba7dd31279]
+##### Supplemental[^c-553740a5a5511f8a0755c9ba7dd31279]
 
 *Extent: E+W+S+N.I.*
 
@@ -112,49 +112,49 @@ The Treasury, in exercise of the powers conferred on them by sections 22(1) and 
 - [Section 9K — Record of certified persons](part-ii/section-9k.md)
 - [Section 9L — Funds received for payment services](part-ii/section-9l.md)
 
-#### Chapter 2B — Cryptoassets[^key-8c1e6456b1778ff000e35bb879e9c9a3]
+#### Chapter 2B — Cryptoassets[^c-8c1e6456b1778ff000e35bb879e9c9a3]
 
-##### Issuing qualifying stablecoin: the activity[^key-8c1e6456b1778ff000e35bb879e9c9a3]
+##### Issuing qualifying stablecoin: the activity[^c-8c1e6456b1778ff000e35bb879e9c9a3]
 
 - [Section 9M — Issuing qualifying stablecoin](part-ii/section-9m.md)
 
-##### Safeguarding of qualifying cryptoassets and specified investment cryptoassets: the activities[^key-8c1e6456b1778ff000e35bb879e9c9a3]
+##### Safeguarding of qualifying cryptoassets and specified investment cryptoassets: the activities[^c-8c1e6456b1778ff000e35bb879e9c9a3]
 
 - [Section 9N — Safeguarding of qualifying cryptoassets and relevant specified investment cryptoassets](part-ii/section-9n.md)
 
-##### Safeguarding of qualifying cryptoassets and specified investment cryptoassets: exclusions[^key-8c1e6456b1778ff000e35bb879e9c9a3]
+##### Safeguarding of qualifying cryptoassets and specified investment cryptoassets: exclusions[^c-8c1e6456b1778ff000e35bb879e9c9a3]
 
 - [Section 9O — Article 9N exclusion: group activity](part-ii/section-9o.md)
 - [Section 9P — Article 9N exclusion:introductions](part-ii/section-9p.md)
 - [Section 9Q — Article 9N exclusion: temporary settlement arrangements](part-ii/section-9q.md)
 - [Section 9R — Article 9N exclusion: other exclusions](part-ii/section-9r.md)
 
-##### Operating a qualifying cryptoasset trading platform: the activity[^key-8c1e6456b1778ff000e35bb879e9c9a3]
+##### Operating a qualifying cryptoasset trading platform: the activity[^c-8c1e6456b1778ff000e35bb879e9c9a3]
 
 - [Section 9S — Operating a qualifying cryptoasset trading platform](part-ii/section-9s.md)
 
-##### Dealing in qualifying cryptoassets as principal: the activity[^key-8c1e6456b1778ff000e35bb879e9c9a3]
+##### Dealing in qualifying cryptoassets as principal: the activity[^c-8c1e6456b1778ff000e35bb879e9c9a3]
 
 - [Section 9T — Dealing in qualifying cryptoassets as principal](part-ii/section-9t.md)
 
-##### Dealing in qualifying cryptoassets as principal: exclusions[^key-8c1e6456b1778ff000e35bb879e9c9a3]
+##### Dealing in qualifying cryptoassets as principal: exclusions[^c-8c1e6456b1778ff000e35bb879e9c9a3]
 
 - [Section 9U — Article 9T exclusion:absence of holding out etc.](part-ii/section-9u.md)
 - [Section 9V — Article 9T exclusion: other exclusions](part-ii/section-9v.md)
 
-##### Dealing in qualifying cryptoassets as agent: the activity[^key-8c1e6456b1778ff000e35bb879e9c9a3]
+##### Dealing in qualifying cryptoassets as agent: the activity[^c-8c1e6456b1778ff000e35bb879e9c9a3]
 
 - [Section 9W — Dealing in qualifying cryptoassets as agent](part-ii/section-9w.md)
 
-##### Dealing in qualifying cryptoassets as agent: exclusions[^key-8c1e6456b1778ff000e35bb879e9c9a3]
+##### Dealing in qualifying cryptoassets as agent: exclusions[^c-8c1e6456b1778ff000e35bb879e9c9a3]
 
 - [Section 9X — Article 9W: exclusions](part-ii/section-9x.md)
 
-##### Arranging deals in qualifying cryptoassets: the activity[^key-8c1e6456b1778ff000e35bb879e9c9a3]
+##### Arranging deals in qualifying cryptoassets: the activity[^c-8c1e6456b1778ff000e35bb879e9c9a3]
 
 - [Section 9Y — Arranging deals in qualifying cryptoassets](part-ii/section-9y.md)
 
-##### Arranging deals in qualifying cryptoassets: exclusions[^key-8c1e6456b1778ff000e35bb879e9c9a3]
+##### Arranging deals in qualifying cryptoassets: exclusions[^c-8c1e6456b1778ff000e35bb879e9c9a3]
 
 - [Section 9Z — Article 9Y exclusion: arrangements not causing a deal](part-ii/section-9z.md)
 - [Section 9Z1 — Article 9Y exclusion: introducing](part-ii/section-9z1.md)
@@ -163,17 +163,17 @@ The Treasury, in exercise of the powers conferred on them by sections 22(1) and 
 - [Section 9Z4 — Article 9Y exclusion: trustees, nominees and personal representatives](part-ii/section-9z4.md)
 - [Section 9Z5 — Article 9Y: other exclusions](part-ii/section-9z5.md)
 
-##### Qualifying cryptoasset staking: the activity[^key-8c1e6456b1778ff000e35bb879e9c9a3]
+##### Qualifying cryptoasset staking: the activity[^c-8c1e6456b1778ff000e35bb879e9c9a3]
 
 - [Section 9Z6 — Qualifying cryptoasset staking](part-ii/section-9z6.md)
 
-##### Qualifying cryptoasset staking: exclusions[^key-8c1e6456b1778ff000e35bb879e9c9a3]
+##### Qualifying cryptoasset staking: exclusions[^c-8c1e6456b1778ff000e35bb879e9c9a3]
 
 - [Section 9Z7 — Article 9Z6 exclusion: introducing](part-ii/section-9z7.md)
 - [Section 9Z8 — Article 9Z6 exclusion: enabling parties to communicate](part-ii/section-9z8.md)
 - [Section 9Z9 — Article 9Z6 exclusion: technical services exclusion](part-ii/section-9z9.md)
 
-##### Cryptoassets: general exclusions[^key-8c1e6456b1778ff000e35bb879e9c9a3]
+##### Cryptoassets: general exclusions[^c-8c1e6456b1778ff000e35bb879e9c9a3]
 
 - [Section 9Z10 — Activities carried on for the sale of goods or supply of services](part-ii/section-9z10.md)
 - [Section 9Z11 — Activities incidental to the carrying on of a profession or business](part-ii/section-9z11.md)
@@ -197,7 +197,7 @@ The Treasury, in exercise of the powers conferred on them by sections 22(1) and 
 
 - [Section 13 — Application of sections 327 and 332 of the Act to insurance market activities](part-ii/section-13.md)
 
-#### CHAPTER 3A — Insurance risk transformation[^key-0341586b29450aae219fd9385edc73e3]
+#### CHAPTER 3A — Insurance risk transformation[^c-0341586b29450aae219fd9385edc73e3]
 
 - [Section 13A — Transformer vehicles: insurance risk transformation](part-ii/section-13a.md)
 
@@ -236,17 +236,17 @@ The Treasury, in exercise of the powers conferred on them by sections 22(1) and 
 - [Section 23 — Risk management](part-ii/section-23.md)
 - [Section 24 — Other exclusions](part-ii/section-24.md)
 
-#### Chapter 5A — Bidding in Emissions Auctions[^key-7a9a42135638cfc87269019e64cd6b1b]
+#### Chapter 5A — Bidding in Emissions Auctions[^c-7a9a42135638cfc87269019e64cd6b1b]
 
 *Extent: E+W+S+N.I.*
 
-##### The activity[^key-7a9a42135638cfc87269019e64cd6b1b]
+##### The activity[^c-7a9a42135638cfc87269019e64cd6b1b]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 24A — Bidding in emissions auctions](part-ii/section-24a.md)
 
-##### Exclusions[^key-7a9a42135638cfc87269019e64cd6b1b]
+##### Exclusions[^c-7a9a42135638cfc87269019e64cd6b1b]
 
 *Extent: E+W+S+N.I.*
 
@@ -292,15 +292,15 @@ The Treasury, in exercise of the powers conferred on them by sections 22(1) and 
 - [Section 35B — Providing pensions guidance ...](part-ii/section-35b.md)
 - [Section 36 — Other exclusions](part-ii/section-36.md)
 
-#### Chapter 6A — Credit Broking[^key-b52642df0c809f1aa295b3f79f2dbaea]
+#### Chapter 6A — Credit Broking[^c-b52642df0c809f1aa295b3f79f2dbaea]
 
 *Extent: E+W+S+N.I.*
 
-##### The activity[^key-b52642df0c809f1aa295b3f79f2dbaea]
+##### The activity[^c-b52642df0c809f1aa295b3f79f2dbaea]
 
 - [Section 36A — Credit broking](part-ii/section-36a.md)
 
-##### Exclusions[^key-b52642df0c809f1aa295b3f79f2dbaea]
+##### Exclusions[^c-b52642df0c809f1aa295b3f79f2dbaea]
 
 *Extent: E+W+S+N.I.*
 
@@ -313,22 +313,22 @@ The Treasury, in exercise of the powers conferred on them by sections 22(1) and 
 - [Section 36FB — Activities in relation to certain regulated credit agreements](part-ii/section-36fb.md)
 - [Section 36G — Other exclusions](part-ii/section-36g.md)
 
-#### Chapter 6B — Operating an Electronic System in Relation to Lending[^key-b52642df0c809f1aa295b3f79f2dbaea]
+#### Chapter 6B — Operating an Electronic System in Relation to Lending[^c-b52642df0c809f1aa295b3f79f2dbaea]
 
 *Extent: E+W+S+N.I.*
 
-##### The activity[^key-b52642df0c809f1aa295b3f79f2dbaea]
+##### The activity[^c-b52642df0c809f1aa295b3f79f2dbaea]
 
 - [Section 36H — Operating an electronic system in relation to lending](part-ii/section-36h.md)
 
-##### Exclusion[^key-b52642df0c809f1aa295b3f79f2dbaea]
+##### Exclusion[^c-b52642df0c809f1aa295b3f79f2dbaea]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 36I — Information society services](part-ii/section-36i.md)
 - [Section 36IA — Activities in relation to debentures and bonds](part-ii/section-36ia.md)
 
-##### Supplemental[^key-b52642df0c809f1aa295b3f79f2dbaea]
+##### Supplemental[^c-b52642df0c809f1aa295b3f79f2dbaea]
 
 - [Section 36J — Meaning of “consumer”](part-ii/section-36j.md)
 
@@ -343,33 +343,33 @@ The Treasury, in exercise of the powers conferred on them by sections 22(1) and 
 - [Section 38 — Attorneys](part-ii/section-38.md)
 - [Section 39 — Other exclusions](part-ii/section-39.md)
 
-#### CHAPTER VIIA — Assisting in the Administration and Performance of a Contract of Insurance[^key-f392e4056396d0ebcee1a5fb33bd136d]
+#### CHAPTER VIIA — Assisting in the Administration and Performance of a Contract of Insurance[^c-f392e4056396d0ebcee1a5fb33bd136d]
 
 *Extent: E+W+S+N.I.*
 
-##### The activity[^key-f392e4056396d0ebcee1a5fb33bd136d]
+##### The activity[^c-f392e4056396d0ebcee1a5fb33bd136d]
 
 - [Section 39A — Assisting in the administration and performance of a contract of insurance](part-ii/section-39a.md)
 
-##### Exclusions[^key-f392e4056396d0ebcee1a5fb33bd136d]
+##### Exclusions[^c-f392e4056396d0ebcee1a5fb33bd136d]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 39B — Claims management on behalf of an insurer etc.](part-ii/section-39b.md)
 - [Section 39C — Other exclusions](part-ii/section-39c.md)
 
-#### Chapter 7B — Activities in Relation to Debt[^key-17d5017841c99d8e2e20b44565cb7975]
+#### Chapter 7B — Activities in Relation to Debt[^c-17d5017841c99d8e2e20b44565cb7975]
 
 *Extent: E+W+S+N.I.*
 
-##### The activities[^key-17d5017841c99d8e2e20b44565cb7975]
+##### The activities[^c-17d5017841c99d8e2e20b44565cb7975]
 
 - [Section 39D — Debt adjusting](part-ii/section-39d.md)
 - [Section 39E — Debt-counselling](part-ii/section-39e.md)
 - [Section 39F — Debt-collecting](part-ii/section-39f.md)
 - [Section 39G — Debt administration](part-ii/section-39g.md)
 
-##### Exclusions[^key-17d5017841c99d8e2e20b44565cb7975]
+##### Exclusions[^c-17d5017841c99d8e2e20b44565cb7975]
 
 *Extent: E+W+S+N.I.*
 
@@ -380,7 +380,7 @@ The Treasury, in exercise of the powers conferred on them by sections 22(1) and 
 - [Section 39KA — Activities carried on by reason of providing pensions guidance ...](part-ii/section-39ka.md)
 - [Section 39L — Other exclusions](part-ii/section-39l.md)
 
-##### Supplemental[^key-17d5017841c99d8e2e20b44565cb7975]
+##### Supplemental[^c-17d5017841c99d8e2e20b44565cb7975]
 
 - [Section 39M — Meaning of “consumer” etc.](part-ii/section-39m.md)
 
@@ -414,7 +414,7 @@ The Treasury, in exercise of the powers conferred on them by sections 22(1) and 
 - [Section 49 — Instructions in the course of providing a network](part-ii/section-49.md)
 - [Section 50 — Other exclusions](part-ii/section-50.md)
 
-#### Chapter X — Collective Investment ...[^key-b255a5e57896c8950ddbbd6d36c41a3d]
+#### Chapter X — Collective Investment ...[^c-b255a5e57896c8950ddbbd6d36c41a3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -427,16 +427,16 @@ The Treasury, in exercise of the powers conferred on them by sections 22(1) and 
 - [Section 51ZD — Acting as trustee or depositary of an AIF](part-ii/section-51zd.md)
 - [Section 51ZE — Establishing etc. a collective investment scheme](part-ii/section-51ze.md)
 
-##### Exclusions[^key-dc40b2381edc494a102ae76de171ecc0]
+##### Exclusions[^c-dc40b2381edc494a102ae76de171ecc0]
 
 - [Section 51ZF — Persons excluded from managing an AIF](part-ii/section-51zf.md)
 - [Section 51ZG — Operating a collective investment scheme in relation to a UK UCITS or an AIF](part-ii/section-51zg.md)
 
-##### ...[^key-dc40b2381edc494a102ae76de171ecc0]
+##### ...[^c-dc40b2381edc494a102ae76de171ecc0]
 
 - [Section 51A — Other exclusions](part-ii/section-51a.md)
 
-#### Chapter XI — ... Pension Schemes[^key-ddcd4866d67bf6e598b2b07092b98c92]
+#### Chapter XI — ... Pension Schemes[^c-ddcd4866d67bf6e598b2b07092b98c92]
 
 *Extent: E+W+S+N.I.*
 
@@ -444,19 +444,19 @@ The Treasury, in exercise of the powers conferred on them by sections 22(1) and 
 
 - [Section 52 — Establishing etc. a pension scheme](part-ii/section-52.md)
 
-##### Exclusion[^key-6ed87ab682be3b6c4e30bc39e1cf1875]
+##### Exclusion[^c-6ed87ab682be3b6c4e30bc39e1cf1875]
 
 - [Section 52A — Other exclusions](part-ii/section-52a.md)
 
-#### CHAPTER XIA — Providing Basic Advice On Stakeholder Products[^key-fdc4b21ff5c0384488191332b4f25ab0]
+#### CHAPTER XIA — Providing Basic Advice On Stakeholder Products[^c-fdc4b21ff5c0384488191332b4f25ab0]
 
 *Extent: E+W+S+N.I.*
 
-##### The activity[^key-fdc4b21ff5c0384488191332b4f25ab0]
+##### The activity[^c-fdc4b21ff5c0384488191332b4f25ab0]
 
 - [Section 52B — Providing basic advice on stakeholder products](part-ii/section-52b.md)
 
-##### Exclusion[^key-f73e509b37d7e7d82433f371e90a72fa]
+##### Exclusion[^c-f73e509b37d7e7d82433f371e90a72fa]
 
 - [Section 52C — Providing pensions guidance ...](part-ii/section-52c.md)
 
@@ -485,7 +485,7 @@ The Treasury, in exercise of the powers conferred on them by sections 22(1) and 
 - [Section 54B — Advice given by reason of providing pensions guidance ...](part-ii/section-54b.md)
 - [Section 55 — Other exclusions etc.](part-ii/section-55.md)
 
-#### Chapter 12A — Providing Targeted Support[^key-65187406fd8bf64c555b320571531604]
+#### Chapter 12A — Providing Targeted Support[^c-65187406fd8bf64c555b320571531604]
 
 - [Section 55A — Providing Targeted Support](part-ii/section-55a.md)
 
@@ -499,7 +499,7 @@ The Treasury, in exercise of the powers conferred on them by sections 22(1) and 
 - [Section 57 — Managing the underwriting capacity of a Lloyd’s syndicate](part-ii/section-57.md)
 - [Section 58 — Arranging deals in contracts of insurance written at Lloyd’s](part-ii/section-58.md)
 
-##### Exclusion[^key-db8f2f81722f740692d7551952033a49]
+##### Exclusion[^c-db8f2f81722f740692d7551952033a49]
 
 - [Section 58A — ... Managers of UCITS and AIFs](part-ii/section-58a.md)
 
@@ -513,7 +513,7 @@ The Treasury, in exercise of the powers conferred on them by sections 22(1) and 
 
 - [Section 59 — Funeral plan contracts](part-ii/section-59.md)
 
-##### Exclusions[^key-48cfdde38db59e8530135fb78f7d18b4]
+##### Exclusions[^c-48cfdde38db59e8530135fb78f7d18b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -522,11 +522,11 @@ The Treasury, in exercise of the powers conferred on them by sections 22(1) and 
 - [Section 60A — ...Managers of UCITS and AIFs](part-ii/section-60a.md)
 - [Section 60AA — Insolvency practitioners](part-ii/section-60aa.md)
 
-#### Chapter 14A — Regulated Credit Agreements[^key-715a373f306ef1d29d9e1397179a518c]
+#### Chapter 14A — Regulated Credit Agreements[^c-715a373f306ef1d29d9e1397179a518c]
 
 *Extent: E+W+S+N.I.*
 
-##### The activities[^key-715a373f306ef1d29d9e1397179a518c]
+##### The activities[^c-715a373f306ef1d29d9e1397179a518c]
 
 *Extent: E+W+S+N.I.*
 
@@ -539,7 +539,7 @@ The Treasury, in exercise of the powers conferred on them by sections 22(1) and 
 - [Section 60H — Exempt agreements: exemptions relating to the nature of the borrower](part-ii/section-60h.md)
 - [Section 60HA — Exempt agreements: provision qualifying articles 60E and 60F](part-ii/section-60ha.md)
 
-##### Exclusions[^key-715a373f306ef1d29d9e1397179a518c]
+##### Exclusions[^c-715a373f306ef1d29d9e1397179a518c]
 
 *Extent: E+W+S+N.I.*
 
@@ -549,7 +549,7 @@ The Treasury, in exercise of the powers conferred on them by sections 22(1) and 
 - [Section 60JB — Electronic money institutions](part-ii/section-60jb.md)
 - [Section 60K — Other exclusions](part-ii/section-60k.md)
 
-##### Supplemental[^key-715a373f306ef1d29d9e1397179a518c]
+##### Supplemental[^c-715a373f306ef1d29d9e1397179a518c]
 
 *Extent: E+W+S+N.I.*
 
@@ -558,22 +558,22 @@ The Treasury, in exercise of the powers conferred on them by sections 22(1) and 
 - [Section 60LB — Green deal plans](part-ii/section-60lb.md)
 - [Section 60M — Total charge for credit](part-ii/section-60m.md)
 
-#### Chapter 14B — Regulated Consumer Hire Agreements[^key-715a373f306ef1d29d9e1397179a518c]
+#### Chapter 14B — Regulated Consumer Hire Agreements[^c-715a373f306ef1d29d9e1397179a518c]
 
 *Extent: E+W+S+N.I.*
 
-##### The activities[^key-715a373f306ef1d29d9e1397179a518c]
+##### The activities[^c-715a373f306ef1d29d9e1397179a518c]
 
 - [Section 60N — Regulated consumer hire agreements](part-ii/section-60n.md)
 - [Section 60O — Exempt agreements: exemptions relating to nature of agreement](part-ii/section-60o.md)
 - [Section 60P — Exempt agreements: exemptions relating to supply of essential services](part-ii/section-60p.md)
 - [Section 60Q — Exempt agreements: exemptions relating to the nature of the hirer](part-ii/section-60q.md)
 
-##### Exclusion[^key-715a373f306ef1d29d9e1397179a518c]
+##### Exclusion[^c-715a373f306ef1d29d9e1397179a518c]
 
 - [Section 60R — Other exclusions](part-ii/section-60r.md)
 
-##### Supplemental[^key-76720bf76a095cc4117f5db428705a7b][^key-715a373f306ef1d29d9e1397179a518c]
+##### Supplemental[^c-76720bf76a095cc4117f5db428705a7b][^c-715a373f306ef1d29d9e1397179a518c]
 
 - [Section 60S — Meaning of consumer etc.](part-ii/section-60s.md)
 
@@ -592,61 +592,61 @@ The Treasury, in exercise of the powers conferred on them by sections 22(1) and 
 - [Section 63 — Administration pursuant to agreement with authorised person](part-ii/section-63.md)
 - [Section 63A — Other exclusions](part-ii/section-63a.md)
 
-#### Chapter XVA — Regulated Home Reversion Plans[^key-1fcfd710c51963e005973d70ac0f1ddc]
+#### Chapter XVA — Regulated Home Reversion Plans[^c-1fcfd710c51963e005973d70ac0f1ddc]
 
 *Extent: E+W+S+N.I.*
 
-##### The activities[^key-1fcfd710c51963e005973d70ac0f1ddc]
+##### The activities[^c-1fcfd710c51963e005973d70ac0f1ddc]
 
 - [Section 63B — Entering into and administering regulated home reversion plans](part-ii/section-63b.md)
 
-##### Exclusions[^key-1fcfd710c51963e005973d70ac0f1ddc]
+##### Exclusions[^c-1fcfd710c51963e005973d70ac0f1ddc]
 
 - [Section 63C — Arranging administration by authorised person](part-ii/section-63c.md)
 - [Section 63D — Administration pursuant to agreement with authorised person](part-ii/section-63d.md)
 - [Section 63E — Other exclusions](part-ii/section-63e.md)
 
-#### Chapter XVB — Regulated Home Purchase Plans[^key-1fcfd710c51963e005973d70ac0f1ddc]
+#### Chapter XVB — Regulated Home Purchase Plans[^c-1fcfd710c51963e005973d70ac0f1ddc]
 
 *Extent: E+W+S+N.I.*
 
-##### The activities[^key-1fcfd710c51963e005973d70ac0f1ddc]
+##### The activities[^c-1fcfd710c51963e005973d70ac0f1ddc]
 
 - [Section 63F — Entering into and administering regulated home purchase plans](part-ii/section-63f.md)
 
-##### Exclusions[^key-1fcfd710c51963e005973d70ac0f1ddc]
+##### Exclusions[^c-1fcfd710c51963e005973d70ac0f1ddc]
 
 - [Section 63G — Arranging administration by authorised person](part-ii/section-63g.md)
 - [Section 63H — Administration pursuant to agreement with authorised person](part-ii/section-63h.md)
 - [Section 63I — Other exclusions](part-ii/section-63i.md)
 
-#### Chapter XVC — Regulated Sale and Rent Back Agreements[^key-f51c0bbe837f7fe0cd7561c28bf2dddc]
+#### Chapter XVC — Regulated Sale and Rent Back Agreements[^c-f51c0bbe837f7fe0cd7561c28bf2dddc]
 
 *Extent: E+W+S+N.I.*
 
-##### The activities[^key-f51c0bbe837f7fe0cd7561c28bf2dddc]
+##### The activities[^c-f51c0bbe837f7fe0cd7561c28bf2dddc]
 
 - [Section 63J — Entering into and administering regulated sale and rent back agreements](part-ii/section-63j.md)
 
-##### Exclusions[^key-f51c0bbe837f7fe0cd7561c28bf2dddc]
+##### Exclusions[^c-f51c0bbe837f7fe0cd7561c28bf2dddc]
 
 - [Section 63K — Arranging administration by authorised person](part-ii/section-63k.md)
 - [Section 63L — Administration pursuant to agreement with authorised person](part-ii/section-63l.md)
 - [Section 63M — Other exclusions](part-ii/section-63m.md)
 
-#### Chapter 15D — Activities of Reclaim Funds[^key-59af1229709b29745e640699a0efdeb2]
+#### Chapter 15D — Activities of Reclaim Funds[^c-59af1229709b29745e640699a0efdeb2]
 
 *Extent: E+W+S+N.I.*
 
-##### The activities[^key-59af1229709b29745e640699a0efdeb2]
+##### The activities[^c-59af1229709b29745e640699a0efdeb2]
 
 - [Section 63N — Dormant account funds](part-ii/section-63n.md)
 
-#### Chapter 15E — Specified Benchmarks[^key-7af17d95f6b15c854ba0481c1c5c06ce]
+#### Chapter 15E — Specified Benchmarks[^c-7af17d95f6b15c854ba0481c1c5c06ce]
 
 *Extent: E+W+S+N.I.*
 
-##### The activities[^key-7af17d95f6b15c854ba0481c1c5c06ce]
+##### The activities[^c-7af17d95f6b15c854ba0481c1c5c06ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -657,13 +657,13 @@ The Treasury, in exercise of the powers conferred on them by sections 22(1) and 
 - [Section 63S — Administering a benchmark](part-ii/section-63s.md)
 - [Section 63T — Administration of a benchmark by the FCA](part-ii/section-63t.md)
 
-#### CHAPTER 15F — ESG RATINGS[^key-d686ca47d70e55ec032b2f7748406496]
+#### CHAPTER 15F — ESG RATINGS[^c-d686ca47d70e55ec032b2f7748406496]
 
-##### The activity[^key-d686ca47d70e55ec032b2f7748406496]
+##### The activity[^c-d686ca47d70e55ec032b2f7748406496]
 
 - [Section 63U — ESG ratings](part-ii/section-63u.md)
 
-##### Exclusions[^key-d686ca47d70e55ec032b2f7748406496]
+##### Exclusions[^c-d686ca47d70e55ec032b2f7748406496]
 
 - [Section 63V — Regulated products and services](part-ii/section-63v.md)
 - [Section 63W — Unregulated benchmarks](part-ii/section-63w.md)
@@ -677,7 +677,7 @@ The Treasury, in exercise of the powers conferred on them by sections 22(1) and 
 - [Section 63Z5 — Proxy advice](part-ii/section-63z5.md)
 - [Section 63Z6 — Other exclusion](part-ii/section-63z6.md)
 
-##### Supplemental[^key-d686ca47d70e55ec032b2f7748406496]
+##### Supplemental[^c-d686ca47d70e55ec032b2f7748406496]
 
 - [Section 63Z7 — Interpretation](part-ii/section-63z7.md)
 
@@ -689,7 +689,7 @@ The Treasury, in exercise of the powers conferred on them by sections 22(1) and 
 
 - [Section 64 — Agreeing to carry on specified kinds of activity](part-ii/section-64.md)
 
-##### Exclusions[^key-462095367b7c8ef26d83525b1ca78027]
+##### Exclusions[^c-462095367b7c8ef26d83525b1ca78027]
 
 *Extent: E+W+S+N.I.*
 
@@ -753,30 +753,30 @@ The Treasury, in exercise of the powers conferred on them by sections 22(1) and 
 - [Section 88G — Qualifying stablecoin](part-iii/section-88g.md)
 - [Section 89 — Rights to or interests in investments](part-iii/section-89.md)
 
-### PART 3A — SPECIFIED ACTIVITIES IN RELATION TO INFORMATION[^key-f8d8e8dec0d867ac5eda3a1c76304af0]
+### PART 3A — SPECIFIED ACTIVITIES IN RELATION TO INFORMATION[^c-f8d8e8dec0d867ac5eda3a1c76304af0]
 
 *Extent: E+W+S+N.I.*
 
-#### The activities[^key-f8d8e8dec0d867ac5eda3a1c76304af0]
+#### The activities[^c-f8d8e8dec0d867ac5eda3a1c76304af0]
 
 - [Section 89A — Providing credit information services](part-3a/section-89a.md)
 - [Section 89B — Providing credit references](part-3a/section-89b.md)
 - [Section 89BA — Operating a pensions dashboard service](part-3a/section-89ba.md)
 
-#### Exclusions[^key-f8d8e8dec0d867ac5eda3a1c76304af0]
+#### Exclusions[^c-f8d8e8dec0d867ac5eda3a1c76304af0]
 
 - [Section 89C — Activities carried on by members of the legal profession, etc](part-3a/section-89c.md)
 - [Section 89D — Other exclusions](part-3a/section-89d.md)
 
-#### Supplemental[^key-f8d8e8dec0d867ac5eda3a1c76304af0]
+#### Supplemental[^c-f8d8e8dec0d867ac5eda3a1c76304af0]
 
 - [Section 89E — Meaning of “consumer” etc.](part-3a/section-89e.md)
 
-### PART 3B — CLAIMS MANAGEMENT ACTIVITIES IN GREAT BRITAIN[^key-1bd07fdf9bd2c4efb6220c0fc9c87e2e]
+### PART 3B — CLAIMS MANAGEMENT ACTIVITIES IN GREAT BRITAIN[^c-1bd07fdf9bd2c4efb6220c0fc9c87e2e]
 
 *Extent: E+W+S*
 
-#### The activities (Extent: E+W+S)[^key-1bd07fdf9bd2c4efb6220c0fc9c87e2e]
+#### The activities (Extent: E+W+S)[^c-1bd07fdf9bd2c4efb6220c0fc9c87e2e]
 
 - [Section 89F — Specified kinds of claims management activity](part-3b/section-89f.md)
 - [Section 89G — Seeking out, referrals and identification of claims or potential claims](part-3b/section-89g.md)
@@ -787,7 +787,7 @@ The Treasury, in exercise of the powers conferred on them by sections 22(1) and 
 - [Section 89L — Advice, investigation or representation in relation to a criminal injury claim](part-3b/section-89l.md)
 - [Section 89M — Advice, investigation or representation in relation to an employment related claim](part-3b/section-89m.md)
 
-#### Exclusions (Extent: E+W+S)[^key-1bd07fdf9bd2c4efb6220c0fc9c87e2e]
+#### Exclusions (Extent: E+W+S)[^c-1bd07fdf9bd2c4efb6220c0fc9c87e2e]
 
 - [Section 89N — Claims management activity conducted by legal professionals](part-3b/section-89n.md)
 - [Section 89O — Claims management activity conducted by a charity or not-for-profit agency](part-3b/section-89o.md)
@@ -809,7 +809,7 @@ The Treasury, in exercise of the powers conferred on them by sections 22(1) and 
 - [Section 90 — Consequential amendments of the Consumer Credit Act 1974](part-iv/section-90.md)
 - [Section 91 — Consequential amendments of subordinate legislation under the Consumer Credit Act 1974](part-iv/section-91.md)
 
-### PART V — UNAUTHORISED PERSONS CARRYING ON INSURANCE DISTRIBUTION ACTIVITIES[^key-7c6f0811a7b2314b4deb4bcf2a26a35c][^key-cce3f4d61c6354f13803c1057d6c8d7a]
+### PART V — UNAUTHORISED PERSONS CARRYING ON INSURANCE DISTRIBUTION ACTIVITIES[^c-7c6f0811a7b2314b4deb4bcf2a26a35c][^c-cce3f4d61c6354f13803c1057d6c8d7a]
 
 *Extent: E+W+S+N.I.*
 
@@ -819,7 +819,7 @@ The Treasury, in exercise of the powers conferred on them by sections 22(1) and 
 - [Section 95 — Exclusion from record where not fit and proper to carry on insurance distribution activities](part-v/section-95.md)
 - [Section 96 — Exclusion from the record where FCA has exercised its powers under Part XX of the Act](part-v/section-96.md)
 
-### PART 6 — MISCELLANEOUS[^key-386d460ab7e8edc226efbef7859ba174]
+### PART 6 — MISCELLANEOUS[^c-386d460ab7e8edc226efbef7859ba174]
 
 - [Section 97 — Disapplication of section 49(2) of the Act](part-6/section-97.md)
 - [Section 98 — Application of section 137B of the Act to backing assets for qualifying stablecoin](part-6/section-98.md)
@@ -867,60 +867,60 @@ Schedules 2 and 3 set out the text of certain provisions of Council Directive No
 
 [^c16224611]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-553740a5a5511f8a0755c9ba7dd31279]: Textual amendment: Pt. 2 Ch. 2A inserted (11.4.2002 for specified purposes, 27.4.2002 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2002 (S.I. 2002/682)](https://www.legislation.gov.uk/uksi/2002/682), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/682/article/1/2), [4](https://www.legislation.gov.uk/uksi/2002/682/article/4) (with [arts. 9](https://www.legislation.gov.uk/uksi/2002/682/article/9), [10](https://www.legislation.gov.uk/uksi/2002/682/article/10))
+[^c-553740a5a5511f8a0755c9ba7dd31279]: Textual amendment: Pt. 2 Ch. 2A inserted (11.4.2002 for specified purposes, 27.4.2002 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2002 (S.I. 2002/682)](https://www.legislation.gov.uk/uksi/2002/682), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/682/article/1/2), [4](https://www.legislation.gov.uk/uksi/2002/682/article/4) (with [arts. 9](https://www.legislation.gov.uk/uksi/2002/682/article/9), [10](https://www.legislation.gov.uk/uksi/2002/682/article/10))
 
-[^key-8c1e6456b1778ff000e35bb879e9c9a3]: Textual amendment: [Pt. 2 Ch. 2B](https://www.legislation.gov.uk/uksi/2001/544/part/2/chapter/2B) inserted (25.2.2026 for specified purposes) by [The Financial Services and Markets Act 2000 (Cryptoassets) Regulations 2026 (S.I. 2026/102)](https://www.legislation.gov.uk/uksi/2026/102), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/2/3), [40(5)](https://www.legislation.gov.uk/uksi/2026/102/regulation/40/5) (with [regs. 53-56](https://www.legislation.gov.uk/uksi/2026/102/regulation/53))
+[^c-8c1e6456b1778ff000e35bb879e9c9a3]: Textual amendment: [Pt. 2 Ch. 2B](https://www.legislation.gov.uk/uksi/2001/544/part/2/chapter/2B) inserted (25.2.2026 for specified purposes) by [The Financial Services and Markets Act 2000 (Cryptoassets) Regulations 2026 (S.I. 2026/102)](https://www.legislation.gov.uk/uksi/2026/102), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/2/3), [40(5)](https://www.legislation.gov.uk/uksi/2026/102/regulation/40/5) (with [regs. 53-56](https://www.legislation.gov.uk/uksi/2026/102/regulation/53))
 
-[^key-0341586b29450aae219fd9385edc73e3]: Textual amendment: [Pt. II Ch. 3A](https://www.legislation.gov.uk/uksi/2001/544/part/II/chapter/3A) inserted (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/5/3)
+[^c-0341586b29450aae219fd9385edc73e3]: Textual amendment: [Pt. II Ch. 3A](https://www.legislation.gov.uk/uksi/2001/544/part/II/chapter/3A) inserted (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/5/3)
 
-[^key-7a9a42135638cfc87269019e64cd6b1b]: Textual amendment: Pt. 2 Ch. 5A inserted (20.7.2012) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2012 (S.I. 2012/1906)](https://www.legislation.gov.uk/uksi/2012/1906), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1906/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2012/1906/article/2/3)
+[^c-7a9a42135638cfc87269019e64cd6b1b]: Textual amendment: Pt. 2 Ch. 5A inserted (20.7.2012) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2012 (S.I. 2012/1906)](https://www.legislation.gov.uk/uksi/2012/1906), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1906/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2012/1906/article/2/3)
 
-[^key-b52642df0c809f1aa295b3f79f2dbaea]: Textual amendment: Pt. II Ch. 6A, 6B inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [4](https://www.legislation.gov.uk/uksi/2013/1881/article/4)
+[^c-b52642df0c809f1aa295b3f79f2dbaea]: Textual amendment: Pt. II Ch. 6A, 6B inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [4](https://www.legislation.gov.uk/uksi/2013/1881/article/4)
 
-[^key-f392e4056396d0ebcee1a5fb33bd136d]: Textual amendment: Pt. 2 Ch. 7A inserted (31.10.2004 for specified purposes, 14.1.2005 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2003 (S.I. 2003/1476)](https://www.legislation.gov.uk/uksi/2003/1476), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/1476/article/1/3), [7](https://www.legislation.gov.uk/uksi/2003/1476/article/7)
+[^c-f392e4056396d0ebcee1a5fb33bd136d]: Textual amendment: Pt. 2 Ch. 7A inserted (31.10.2004 for specified purposes, 14.1.2005 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2003 (S.I. 2003/1476)](https://www.legislation.gov.uk/uksi/2003/1476), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/1476/article/1/3), [7](https://www.legislation.gov.uk/uksi/2003/1476/article/7)
 
-[^key-17d5017841c99d8e2e20b44565cb7975]: Textual amendment: Pt. II Ch. 7B inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [5](https://www.legislation.gov.uk/uksi/2013/1881/article/5)
+[^c-17d5017841c99d8e2e20b44565cb7975]: Textual amendment: Pt. II Ch. 7B inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [5](https://www.legislation.gov.uk/uksi/2013/1881/article/5)
 
-[^key-b255a5e57896c8950ddbbd6d36c41a3d]: Textual amendment: Word in Pt. 2 Ch. 10 heading omitted (22.7.2013) by virtue of [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 1(11)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/1/11)
+[^c-b255a5e57896c8950ddbbd6d36c41a3d]: Textual amendment: Word in Pt. 2 Ch. 10 heading omitted (22.7.2013) by virtue of [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 1(11)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/1/11)
 
-[^key-dc40b2381edc494a102ae76de171ecc0]: Textual amendment: Arts. 51ZA-51ZG substituted for arts. 51 and cross-heading (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 1(12)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/1/12)
+[^c-dc40b2381edc494a102ae76de171ecc0]: Textual amendment: Arts. 51ZA-51ZG substituted for arts. 51 and cross-heading (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 1(12)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/1/12)
 
-[^key-ddcd4866d67bf6e598b2b07092b98c92]: Textual amendment: Word in Pt. 2 Ch. 11 title omitted (1.10.2006 for specified purposes, 6.4.2007 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2006 (S.I. 2006/1969)](https://www.legislation.gov.uk/uksi/2006/1969), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1969/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2006/1969/article/2/3)
+[^c-ddcd4866d67bf6e598b2b07092b98c92]: Textual amendment: Word in Pt. 2 Ch. 11 title omitted (1.10.2006 for specified purposes, 6.4.2007 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2006 (S.I. 2006/1969)](https://www.legislation.gov.uk/uksi/2006/1969), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1969/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2006/1969/article/2/3)
 
-[^key-6ed87ab682be3b6c4e30bc39e1cf1875]: Textual amendment: Art. 52A and cross-heading inserted (21.8.2002) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2002 (S.I. 2002/1776)](https://www.legislation.gov.uk/uksi/2002/1776), [arts. 1](https://www.legislation.gov.uk/uksi/2002/1776/article/1), [3(11)](https://www.legislation.gov.uk/uksi/2002/1776/article/3/11)
+[^c-6ed87ab682be3b6c4e30bc39e1cf1875]: Textual amendment: Art. 52A and cross-heading inserted (21.8.2002) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2002 (S.I. 2002/1776)](https://www.legislation.gov.uk/uksi/2002/1776), [arts. 1](https://www.legislation.gov.uk/uksi/2002/1776/article/1), [3(11)](https://www.legislation.gov.uk/uksi/2002/1776/article/3/11)
 
-[^key-fdc4b21ff5c0384488191332b4f25ab0]: Textual amendment: Pt. 2 Ch. 11A inserted (6.4.2005) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2004 (S.I. 2004/2737)](https://www.legislation.gov.uk/uksi/2004/2737), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/2737/article/1/1), [3](https://www.legislation.gov.uk/uksi/2004/2737/article/3)
+[^c-fdc4b21ff5c0384488191332b4f25ab0]: Textual amendment: Pt. 2 Ch. 11A inserted (6.4.2005) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2004 (S.I. 2004/2737)](https://www.legislation.gov.uk/uksi/2004/2737), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/2737/article/1/1), [3](https://www.legislation.gov.uk/uksi/2004/2737/article/3)
 
-[^key-f73e509b37d7e7d82433f371e90a72fa]: Textual amendment: Art. 52C and cross-heading inserted (26.3.2015) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (Pensions Guidance Exclusions) Order 2015 (S.I. 2015/489)](https://www.legislation.gov.uk/uksi/2015/489), [arts. 1](https://www.legislation.gov.uk/uksi/2015/489/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2015/489/article/2/5)
+[^c-f73e509b37d7e7d82433f371e90a72fa]: Textual amendment: Art. 52C and cross-heading inserted (26.3.2015) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (Pensions Guidance Exclusions) Order 2015 (S.I. 2015/489)](https://www.legislation.gov.uk/uksi/2015/489), [arts. 1](https://www.legislation.gov.uk/uksi/2015/489/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2015/489/article/2/5)
 
-[^key-65187406fd8bf64c555b320571531604]: Textual amendment: [Pt. 2 Ch. 12A](https://www.legislation.gov.uk/uksi/2001/544/part/II/chapter/12A) inserted (23.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Providing Targeted Support) (Amendment) Order 2026 (S.I. 2026/74)](https://www.legislation.gov.uk/uksi/2026/74), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/74/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/74/article/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2026/74/article/2/3)
+[^c-65187406fd8bf64c555b320571531604]: Textual amendment: [Pt. 2 Ch. 12A](https://www.legislation.gov.uk/uksi/2001/544/part/II/chapter/12A) inserted (23.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Providing Targeted Support) (Amendment) Order 2026 (S.I. 2026/74)](https://www.legislation.gov.uk/uksi/2026/74), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/74/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/74/article/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2026/74/article/2/3)
 
-[^key-db8f2f81722f740692d7551952033a49]: Textual amendment: Art. 58A and cross-heading inserted (21.8.2002) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2002 (S.I. 2002/1776)](https://www.legislation.gov.uk/uksi/2002/1776), [arts. 1](https://www.legislation.gov.uk/uksi/2002/1776/article/1), [3(13)](https://www.legislation.gov.uk/uksi/2002/1776/article/3/13)
+[^c-db8f2f81722f740692d7551952033a49]: Textual amendment: Art. 58A and cross-heading inserted (21.8.2002) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2002 (S.I. 2002/1776)](https://www.legislation.gov.uk/uksi/2002/1776), [arts. 1](https://www.legislation.gov.uk/uksi/2002/1776/article/1), [3(13)](https://www.legislation.gov.uk/uksi/2002/1776/article/3/13)
 
-[^key-48cfdde38db59e8530135fb78f7d18b4]: Textual amendment: Art. 60 cross-heading substituted (21.8.2002) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2002 (S.I. 2002/1776)](https://www.legislation.gov.uk/uksi/2002/1776), [arts. 1](https://www.legislation.gov.uk/uksi/2002/1776/article/1), [3(14)](https://www.legislation.gov.uk/uksi/2002/1776/article/3/14)
+[^c-48cfdde38db59e8530135fb78f7d18b4]: Textual amendment: Art. 60 cross-heading substituted (21.8.2002) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2002 (S.I. 2002/1776)](https://www.legislation.gov.uk/uksi/2002/1776), [arts. 1](https://www.legislation.gov.uk/uksi/2002/1776/article/1), [3(14)](https://www.legislation.gov.uk/uksi/2002/1776/article/3/14)
 
-[^key-715a373f306ef1d29d9e1397179a518c]: Textual amendment: Pt. II Ch. 14A, 14B inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [6](https://www.legislation.gov.uk/uksi/2013/1881/article/6)
+[^c-715a373f306ef1d29d9e1397179a518c]: Textual amendment: Pt. II Ch. 14A, 14B inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [6](https://www.legislation.gov.uk/uksi/2013/1881/article/6)
 
-[^key-76720bf76a095cc4117f5db428705a7b]: Textual amendment: Art. 60S and cross-heading inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [2(37)](https://www.legislation.gov.uk/uksi/2014/366/article/2/37)
+[^c-76720bf76a095cc4117f5db428705a7b]: Textual amendment: Art. 60S and cross-heading inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [2(37)](https://www.legislation.gov.uk/uksi/2014/366/article/2/37)
 
-[^key-1fcfd710c51963e005973d70ac0f1ddc]: Textual amendment: Pt. 2 Chs. 15A, 15B inserted (6.11.2006 for specified purposes, 6.4.2007 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2006 (S.I. 2006/2383)](https://www.legislation.gov.uk/uksi/2006/2383), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2), [18](https://www.legislation.gov.uk/uksi/2006/2383/article/18)
+[^c-1fcfd710c51963e005973d70ac0f1ddc]: Textual amendment: Pt. 2 Chs. 15A, 15B inserted (6.11.2006 for specified purposes, 6.4.2007 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2006 (S.I. 2006/2383)](https://www.legislation.gov.uk/uksi/2006/2383), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2), [18](https://www.legislation.gov.uk/uksi/2006/2383/article/18)
 
-[^key-f51c0bbe837f7fe0cd7561c28bf2dddc]: Textual amendment: Pt. 2 Ch. 15C inserted (1.7.2009 for specified purposes, 30.6.2010 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2009 (S.I. 2009/1342)](https://www.legislation.gov.uk/uksi/2009/1342), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/1342/article/1/2), [17](https://www.legislation.gov.uk/uksi/2009/1342/article/17)
+[^c-f51c0bbe837f7fe0cd7561c28bf2dddc]: Textual amendment: Pt. 2 Ch. 15C inserted (1.7.2009 for specified purposes, 30.6.2010 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2009 (S.I. 2009/1342)](https://www.legislation.gov.uk/uksi/2009/1342), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/1342/article/1/2), [17](https://www.legislation.gov.uk/uksi/2009/1342/article/17)
 
-[^key-59af1229709b29745e640699a0efdeb2]: Textual amendment: Pt. 2 Ch. 15D inserted (13.7.2009) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2009 (S.I. 2009/1389)](https://www.legislation.gov.uk/uksi/2009/1389), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1389/article/1), [4](https://www.legislation.gov.uk/uksi/2009/1389/article/4)
+[^c-59af1229709b29745e640699a0efdeb2]: Textual amendment: Pt. 2 Ch. 15D inserted (13.7.2009) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2009 (S.I. 2009/1389)](https://www.legislation.gov.uk/uksi/2009/1389), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1389/article/1), [4](https://www.legislation.gov.uk/uksi/2009/1389/article/4)
 
-[^key-7af17d95f6b15c854ba0481c1c5c06ce]: Textual amendment: Pt. 2 Ch. 15E inserted (2.4.2013) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2013 (S.I. 2013/655)](https://www.legislation.gov.uk/uksi/2013/655), [arts. 1](https://www.legislation.gov.uk/uksi/2013/655/article/1), [5](https://www.legislation.gov.uk/uksi/2013/655/article/5)
+[^c-7af17d95f6b15c854ba0481c1c5c06ce]: Textual amendment: Pt. 2 Ch. 15E inserted (2.4.2013) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2013 (S.I. 2013/655)](https://www.legislation.gov.uk/uksi/2013/655), [arts. 1](https://www.legislation.gov.uk/uksi/2013/655/article/1), [5](https://www.legislation.gov.uk/uksi/2013/655/article/5)
 
-[^key-d686ca47d70e55ec032b2f7748406496]: Textual amendment: [Pt. 2 Ch. 15F](https://www.legislation.gov.uk/uksi/2001/544/part/2/chapter/15F) inserted (16.12.2025 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (ESG Ratings) Order 2025 (S.I. 2025/1349)](https://www.legislation.gov.uk/uksi/2025/1349), [arts. 2](https://www.legislation.gov.uk/uksi/2025/1349/article/2), [6](https://www.legislation.gov.uk/uksi/2025/1349/article/6) (with [arts. 8-22](https://www.legislation.gov.uk/uksi/2025/1349/article/8))
+[^c-d686ca47d70e55ec032b2f7748406496]: Textual amendment: [Pt. 2 Ch. 15F](https://www.legislation.gov.uk/uksi/2001/544/part/2/chapter/15F) inserted (16.12.2025 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (ESG Ratings) Order 2025 (S.I. 2025/1349)](https://www.legislation.gov.uk/uksi/2025/1349), [arts. 2](https://www.legislation.gov.uk/uksi/2025/1349/article/2), [6](https://www.legislation.gov.uk/uksi/2025/1349/article/6) (with [arts. 8-22](https://www.legislation.gov.uk/uksi/2025/1349/article/8))
 
-[^key-462095367b7c8ef26d83525b1ca78027]: Textual amendment: Art. 65 and cross-heading substituted (21.8.2002) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2002 (S.I. 2002/1776)](https://www.legislation.gov.uk/uksi/2002/1776), [arts. 1](https://www.legislation.gov.uk/uksi/2002/1776/article/1), [3(17)](https://www.legislation.gov.uk/uksi/2002/1776/article/3/17)
+[^c-462095367b7c8ef26d83525b1ca78027]: Textual amendment: Art. 65 and cross-heading substituted (21.8.2002) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2002 (S.I. 2002/1776)](https://www.legislation.gov.uk/uksi/2002/1776), [arts. 1](https://www.legislation.gov.uk/uksi/2002/1776/article/1), [3(17)](https://www.legislation.gov.uk/uksi/2002/1776/article/3/17)
 
-[^key-f8d8e8dec0d867ac5eda3a1c76304af0]: Textual amendment: Pt. 3A inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [8(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/8/2)
+[^c-f8d8e8dec0d867ac5eda3a1c76304af0]: Textual amendment: Pt. 3A inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [8(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/8/2)
 
-[^key-1bd07fdf9bd2c4efb6220c0fc9c87e2e]: Textual amendment: Pt. 3B inserted (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [7](https://www.legislation.gov.uk/uksi/2018/1253/article/7)
+[^c-1bd07fdf9bd2c4efb6220c0fc9c87e2e]: Textual amendment: Pt. 3B inserted (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [7](https://www.legislation.gov.uk/uksi/2018/1253/article/7)
 
-[^key-7c6f0811a7b2314b4deb4bcf2a26a35c]: Textual amendment: Pt. 5 inserted (31.10.2004 for specified purposes, 14.1.2005 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2003 (S.I. 2003/1476)](https://www.legislation.gov.uk/uksi/2003/1476), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/1476/article/1/3), [13](https://www.legislation.gov.uk/uksi/2003/1476/article/13)
+[^c-7c6f0811a7b2314b4deb4bcf2a26a35c]: Textual amendment: Pt. 5 inserted (31.10.2004 for specified purposes, 14.1.2005 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2003 (S.I. 2003/1476)](https://www.legislation.gov.uk/uksi/2003/1476), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/1476/article/1/3), [13](https://www.legislation.gov.uk/uksi/2003/1476/article/13)
 
-[^key-cce3f4d61c6354f13803c1057d6c8d7a]: Textual amendment: Word in Pt. V heading substituted (1.10.2018) by [The Insurance Distribution (Regulated Activities and Miscellaneous Amendments) Order 2018 (S.I. 2018/546)](https://www.legislation.gov.uk/uksi/2018/546), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/546/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2018/546/article/7/2)
+[^c-cce3f4d61c6354f13803c1057d6c8d7a]: Textual amendment: Word in Pt. V heading substituted (1.10.2018) by [The Insurance Distribution (Regulated Activities and Miscellaneous Amendments) Order 2018 (S.I. 2018/546)](https://www.legislation.gov.uk/uksi/2018/546), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/546/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2018/546/article/7/2)
 
-[^key-386d460ab7e8edc226efbef7859ba174]: Textual amendment: Pt. 6 and heading inserted (15.7.2004) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2004 (S.I. 2004/1610)](https://www.legislation.gov.uk/uksi/2004/1610), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1610/article/1/2), [3](https://www.legislation.gov.uk/uksi/2004/1610/article/3)
+[^c-386d460ab7e8edc226efbef7859ba174]: Textual amendment: Pt. 6 and heading inserted (15.7.2004) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2004 (S.I. 2004/1610)](https://www.legislation.gov.uk/uksi/2004/1610), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1610/article/1/2), [3](https://www.legislation.gov.uk/uksi/2004/1610/article/3)

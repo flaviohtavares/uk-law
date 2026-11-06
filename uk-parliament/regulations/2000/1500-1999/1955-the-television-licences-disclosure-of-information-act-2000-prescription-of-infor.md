@@ -45,11 +45,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred upon him by section 1(3) and (4) of the Television Licences (Disclosure of Information) Act 2000[^f00001], hereby makes the following Order—
 
-## 1. Citation and commencement[^key-f7ae56cbe0c5da6bf4ede0cabce8968c]
+## 1. Citation and commencement[^c-f7ae56cbe0c5da6bf4ede0cabce8968c]
 
 This Order may be cited as the Television Licences (Disclosure of Information) Act 2000 (Prescription of Information) Order 2000 and shall come into force on 1st August 2000.
 
-## 2. Prescription of “social security information”[^key-21abc521c728aac050a0877b8a393433]
+## 2. Prescription of “social security information”[^c-21abc521c728aac050a0877b8a393433]
 
 (1) Information of the description mentioned in paragraph (2) is hereby prescribed, in relation to the Secretary of State and the Department for Social Development (“the Northern Ireland department”), as “social security information” for the purposes of section 1 of the Television Licences (Disclosure of Information) Act 2000 (supply of information to the BBC etc. by the Secretary of State and the Northern Ireland department).
 
@@ -76,6 +76,6 @@ Article 2 provides that the information in question is the name, date of birth, 
 
 [^f00001]: Footnote: [2000 c. 15](https://www.legislation.gov.uk/ukpga/2000/15). For the definition of “prescribed”, see section 5 of that Act.
 
-[^key-f7ae56cbe0c5da6bf4ede0cabce8968c]: Commencement: Art. 1 in force at 1.8.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/1955/article/1)
+[^c-f7ae56cbe0c5da6bf4ede0cabce8968c]: Commencement: Art. 1 in force at 1.8.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/1955/article/1)
 
-[^key-21abc521c728aac050a0877b8a393433]: Commencement: Art. 2 in force at 1.8.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/1955/article/1)
+[^c-21abc521c728aac050a0877b8a393433]: Commencement: Art. 2 in force at 1.8.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/1955/article/1)

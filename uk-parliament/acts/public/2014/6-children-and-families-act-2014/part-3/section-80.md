@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Parents and young people lacking capacity[^key-27352350ce71a2e634409a4353f08372][^key-e0db85a43fc645a472d79b82d38d4149]
+## 80. Parents and young people lacking capacity[^c-27352350ce71a2e634409a4353f08372][^c-e0db85a43fc645a472d79b82d38d4149]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-27352350ce71a2e634409a4353f08372]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2014/6/section/80) in force at 1.4.2014 for specified purposes by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 3(k)](https://www.legislation.gov.uk/uksi/2014/889/article/3/k)
+[^c-27352350ce71a2e634409a4353f08372]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2014/6/section/80) in force at 1.4.2014 for specified purposes by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 3(k)](https://www.legislation.gov.uk/uksi/2014/889/article/3/k)
 
-[^key-e0db85a43fc645a472d79b82d38d4149]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2014/6/section/80) in force at 1.9.2014 in so far as not already in force by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)
+[^c-e0db85a43fc645a472d79b82d38d4149]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2014/6/section/80) in force at 1.9.2014 in so far as not already in force by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)

@@ -47,9 +47,9 @@ Coming into force
 
 In exercise of the powers conferred on him by the definition of “designated” in section 7(5) of the Crime (International Co-operation) Act 2003[^f00001], the Secretary of State hereby makes the following Order:
 
-**1.**[^key-d4b9ab626823d46c34c57539873483e1] This Order may be cited as the Crime (International Co-operation) Act 2003 (Designation of Prosecuting Authorities) Order 2004 and shall come into force on 26th April 2004.
+**1.**[^c-d4b9ab626823d46c34c57539873483e1] This Order may be cited as the Crime (International Co-operation) Act 2003 (Designation of Prosecuting Authorities) Order 2004 and shall come into force on 26th April 2004.
 
-**2.**[^key-a88234807c9c9d8c26c7e15a6d79b5f7] (1) The prosecuting authorities listed in paragraph (2) are hereby designated for the purposes of section 7(5) of the Crime (International Co-operation) Act 2003.
+**2.**[^c-a88234807c9c9d8c26c7e15a6d79b5f7] (1) The prosecuting authorities listed in paragraph (2) are hereby designated for the purposes of section 7(5) of the Crime (International Co-operation) Act 2003.
 
 (2) Those prosecuting authorities are—
 
@@ -79,8 +79,8 @@ This Order designates prosecuting authorities for the purposes of section 7(5) o
 
 [^f00001]: Footnote: [2003 c. 32](https://www.legislation.gov.uk/ukpga/2003/32).
 
-[^key-d4b9ab626823d46c34c57539873483e1]: Commencement: Art. 1 in force at 26.4.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1034/article/1)
+[^c-d4b9ab626823d46c34c57539873483e1]: Commencement: Art. 1 in force at 26.4.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1034/article/1)
 
-[^key-a88234807c9c9d8c26c7e15a6d79b5f7]: Commencement: Art. 2 in force at 26.4.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1034/article/1)
+[^c-a88234807c9c9d8c26c7e15a6d79b5f7]: Commencement: Art. 2 in force at 26.4.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1034/article/1)
 
 [^f00002]: Footnote: [1987 c. 38](https://www.legislation.gov.uk/ukpga/1987/38)

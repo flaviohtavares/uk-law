@@ -47,7 +47,7 @@ and the Executive or the ONR, as the case may be, must refuse to grant a varied 
 
 (5) Where a licensing authority proposes to vary a licence without the agreement of the licensee it must, before taking any such action, notify the licensee of its proposed course of action and afford the licensee the opportunity of making representations to the licensing authority about it, within a period of 28 days from the date of the notification.
 
-(6) Representations made for the purpose of paragraph (5)[^key-d569f6039f34560caecd0484612314b2] may be made in writing, or both in writing and orally.
+(6) Representations made for the purpose of paragraph (5)[^c-d569f6039f34560caecd0484612314b2] may be made in writing, or both in writing and orally.
 
 (7) Where the licensing authority decides to vary a licence without the agreement of the licensee it must provide the licensee with written reasons for its decision.
 
@@ -57,4 +57,4 @@ and the Executive or the ONR, as the case may be, must refuse to grant a varied 
 
 ## Annotations
 
-[^key-d569f6039f34560caecd0484612314b2]: Textual amendment: Words in reg. 16(6) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 18(c)](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/18/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-d569f6039f34560caecd0484612314b2]: Textual amendment: Words in reg. 16(6) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 18(c)](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/18/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))

@@ -33,13 +33,13 @@ summary: ''
 - (b) a county council;
 - (bb)[^c12073321] the Greater London Authority;
 - (bc) any functional body, within the meaning of the Greater London Authority Act 1999;
-- (c)[^key-d30f214f07de7613f40568c4417901aa] a police and crime commissioner;
+- (c)[^c-d30f214f07de7613f40568c4417901aa] a police and crime commissioner;
 - (ca) [^c16365001]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (cb) [^c16365001]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d)[^c12073361] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) the Receiver for the Metropolitan Police District; [^c12073371]. . .
 - (f)[^c12073381] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (g)[^key-d26131d990d08f55287699a32985878e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-d26131d990d08f55287699a32985878e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The Secretary of State may by order provide that subsection (2) above shall also apply in relation to any dwelling of a class prescribed by the order.
 
@@ -51,7 +51,7 @@ summary: ''
 
 [^c12073321]: Textual amendment: S. 19(3)(bb)(bc) inserted (8.5.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 137](https://www.legislation.gov.uk/ukpga/1999/29/section/137) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 1999/3434](https://www.legislation.gov.uk/uksi/1999/3434), [art. 3](https://www.legislation.gov.uk/uksi/1999/3434/article/3)
 
-[^key-d30f214f07de7613f40568c4417901aa]: Textual amendment: S. 19(3)(c) substituted (22.11.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 212](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/212); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/i)
+[^c-d30f214f07de7613f40568c4417901aa]: Textual amendment: S. 19(3)(c) substituted (22.11.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 212](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/212); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/i)
 
 [^c16365001]: Textual amendment: S. 19(3)(ca)(cb) repealed (1.4.2002) by [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16), [ss. 128](https://www.legislation.gov.uk/ukpga/2001/16/section/128), [137](https://www.legislation.gov.uk/ukpga/2001/16/section/137), [Sch. 6 Pt. 3 para. 76](https://www.legislation.gov.uk/ukpga/2001/16/schedule/6/part/3/paragraph/76), [Sch. 7 Pt. 5](https://www.legislation.gov.uk/ukpga/2001/16/schedule/7/part/5); [S.I. 2002/344](https://www.legislation.gov.uk/uksi/2002/344), [art. 3(j)(k)(m)](https://www.legislation.gov.uk/uksi/2002/344/article/3/j/k/m) (with transitional provisions in [art. 4](https://www.legislation.gov.uk/uksi/2002/344/article/4))
 
@@ -61,4 +61,4 @@ summary: ''
 
 [^c12073381]: Textual amendment: S. 19(3)(f) repealed (1.4.1995) by [1994 c. 29](https://www.legislation.gov.uk/ukpga/1994/29), [s. 93](https://www.legislation.gov.uk/ukpga/1994/29/section/93), [Sch. 9 Pt. I](https://www.legislation.gov.uk/ukpga/1994/29/schedule/9/part/I); [S.I. 1994/3262](https://www.legislation.gov.uk/uksi/1994/3262), [art. 4(1)](https://www.legislation.gov.uk/uksi/1994/3262/article/4/1), [Sch](https://www.legislation.gov.uk/uksi/1994/3262/schedule)
 
-[^key-d26131d990d08f55287699a32985878e]: Textual amendment: S. 19(3)(g) omitted (W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 34](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/34)
+[^c-d26131d990d08f55287699a32985878e]: Textual amendment: S. 19(3)(g) omitted (W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 34](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/34)

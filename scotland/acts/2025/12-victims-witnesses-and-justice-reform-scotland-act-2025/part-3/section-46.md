@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Information to be given concerning offender subject to compulsion order[^key-a01163849e7bf8b2395eec5e5b0bd069]
+## 46. Information to be given concerning offender subject to compulsion order[^c-a01163849e7bf8b2395eec5e5b0bd069]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a01163849e7bf8b2395eec5e5b0bd069]: Commencement: S. 46 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-a01163849e7bf8b2395eec5e5b0bd069]: Commencement: S. 46 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Parties to the contract[^key-986428109178a8009ab0d70b4c616b8d]
+## 11. Parties to the contract[^c-986428109178a8009ab0d70b4c616b8d]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ A contract must specify –
 
 ## Annotations
 
-[^key-986428109178a8009ab0d70b4c616b8d]: Commencement: Reg. 11 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-986428109178a8009ab0d70b4c616b8d]: Commencement: Reg. 11 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)

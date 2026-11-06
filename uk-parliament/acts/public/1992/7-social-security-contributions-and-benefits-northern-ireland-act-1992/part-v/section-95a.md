@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95A. Employment training schemes etc.[^key-6f93d731222956f0ac2de5468a096f84]
+## 95A. Employment training schemes etc.[^c-6f93d731222956f0ac2de5468a096f84]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f93d731222956f0ac2de5468a096f84]: Textual amendment: [S. 95A](https://www.legislation.gov.uk/ukpga/1992/7/section/95A) inserted (1.6.2016 for specified purposes, 31.10.2016 in so far as not already in force) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [72(1)](https://www.legislation.gov.uk/nisi/2015/2006/article/72/1); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [arts. 2(3)(b)](https://www.legislation.gov.uk/nisr/2016/234/article/2/3/b), [3(2)(c)](https://www.legislation.gov.uk/nisr/2016/234/article/3/2/c)
+[^c-6f93d731222956f0ac2de5468a096f84]: Textual amendment: [S. 95A](https://www.legislation.gov.uk/ukpga/1992/7/section/95A) inserted (1.6.2016 for specified purposes, 31.10.2016 in so far as not already in force) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [72(1)](https://www.legislation.gov.uk/nisi/2015/2006/article/72/1); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [arts. 2(3)(b)](https://www.legislation.gov.uk/nisr/2016/234/article/2/3/b), [3(2)(c)](https://www.legislation.gov.uk/nisr/2016/234/article/3/2/c)

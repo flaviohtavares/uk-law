@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Systems and processes requirement[^key-8a857b3e7c1e7fe90f826ec6c797181a]
+## 14. Systems and processes requirement[^c-8a857b3e7c1e7fe90f826ec6c797181a]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 5 sets out the matters that the Regulator must take into account in dec
 
 ## Annotations
 
-[^key-8a857b3e7c1e7fe90f826ec6c797181a]: Commencement: Reg. 14 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-8a857b3e7c1e7fe90f826ec6c797181a]: Commencement: Reg. 14 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)

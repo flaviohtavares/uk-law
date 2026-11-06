@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Quotas: meaning of “qualifying audiovisual content” etc[^key-0ec96f12ac8f434da3e8109dc473f3f1][^key-59240db47ef21d3326396445dca77977][^key-5cee04c1f477f46e8a8c7e66efd3eef6]
+## 11. Quotas: meaning of “qualifying audiovisual content” etc[^c-0ec96f12ac8f434da3e8109dc473f3f1][^c-59240db47ef21d3326396445dca77977][^c-5cee04c1f477f46e8a8c7e66efd3eef6]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,8 +60,8 @@ After section 278A of the Communications Act 2003 (as inserted by section 10) in
 
 ## Annotations
 
-[^key-0ec96f12ac8f434da3e8109dc473f3f1]: Commencement: S. 11 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
+[^c-0ec96f12ac8f434da3e8109dc473f3f1]: Commencement: S. 11 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
 
-[^key-59240db47ef21d3326396445dca77977]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2024/15/section/11) in force at 23.8.2024 for specified purposes by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule)
+[^c-59240db47ef21d3326396445dca77977]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2024/15/section/11) in force at 23.8.2024 for specified purposes by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule)
 
-[^key-5cee04c1f477f46e8a8c7e66efd3eef6]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2024/15/section/11) in force at 1.1.2026 in so far as not already in force by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/k)
+[^c-5cee04c1f477f46e8a8c7e66efd3eef6]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2024/15/section/11) in force at 1.1.2026 in so far as not already in force by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/k)

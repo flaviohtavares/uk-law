@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Application of fire safety rules to school care accommodation service[^key-369a5e952a8ee31ed7789a62b9dfb888]
+## 83. Application of fire safety rules to school care accommodation service[^c-369a5e952a8ee31ed7789a62b9dfb888]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In section 78 of the Fire (Scotland) Act 2005 (asp 5), in subsection (5)(c), aft
 
 ## Annotations
 
-[^key-369a5e952a8ee31ed7789a62b9dfb888]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2007/14/section/83) in force at 1.9.2007 by [S.S.I. 2007/385](https://www.legislation.gov.uk/ssi/2007/385), [art. 2](https://www.legislation.gov.uk/ssi/2007/385/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/385/schedule)
+[^c-369a5e952a8ee31ed7789a62b9dfb888]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2007/14/section/83) in force at 1.9.2007 by [S.S.I. 2007/385](https://www.legislation.gov.uk/ssi/2007/385), [art. 2](https://www.legislation.gov.uk/ssi/2007/385/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/385/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Transitional and saving provisions in respect of investigatory powers[^key-923afa9825b468b04a97215a14250b4b]
+## 8. Transitional and saving provisions in respect of investigatory powers[^c-923afa9825b468b04a97215a14250b4b]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-923afa9825b468b04a97215a14250b4b]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8) in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1)
+[^c-923afa9825b468b04a97215a14250b4b]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8) in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1)
 
 [^f00010]: Footnote: [S.I. 2015/1553](https://www.legislation.gov.uk/uksi/2015/1553).
 

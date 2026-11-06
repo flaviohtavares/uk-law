@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Up-dating certificates[^M_C_0374adfe-71e4-4d6b-8dee-4bc3eda4edb5][^key-5ff45b91bd06d105344bd66bb5fbaf36][^key-8a84a05b0165fb5d45982d65c2afd5de][^key-ac822c2310a9d58cb3cf4085d4e52ffe]
+## 83. Up-dating certificates[^M_C_0374adfe-71e4-4d6b-8dee-4bc3eda4edb5][^c-5ff45b91bd06d105344bd66bb5fbaf36][^c-8a84a05b0165fb5d45982d65c2afd5de][^c-ac822c2310a9d58cb3cf4085d4e52ffe]
 
 *Extent: E+W*
 
@@ -104,8 +104,8 @@ After section 116 of the Police Act 1997 (enhanced criminal record certificates:
 
 [^M_C_0374adfe-71e4-4d6b-8dee-4bc3eda4edb5]: Modification: S. 83 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(2)(3) of the amending S.I.) by [The Police Act 1997 (Criminal Records) (Guernsey) (Amendment) Order 2012 (S.I. 2012/1762)](https://www.legislation.gov.uk/uksi/2012/1762), [art. 4(1)(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/4/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/1762/schedule/1)
 
-[^key-5ff45b91bd06d105344bd66bb5fbaf36]: Modification: S. 83 extended (Jersey) (with modifications) (17.10.2012 coming into force in accordance with art. 1(2)(3)) by [The Police Act 1997 (Criminal Records) (Jersey) (Amendment) Order 2012 (S.I. 2012/2591)](https://www.legislation.gov.uk/uksi/2012/2591), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2591/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2591/article/1/3)[4(1)](https://www.legislation.gov.uk/uksi/2012/2591/article/4/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2012/2591/article/4/2/d), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2591/schedule/1) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2591/article/5))
+[^c-5ff45b91bd06d105344bd66bb5fbaf36]: Modification: S. 83 extended (Jersey) (with modifications) (17.10.2012 coming into force in accordance with art. 1(2)(3)) by [The Police Act 1997 (Criminal Records) (Jersey) (Amendment) Order 2012 (S.I. 2012/2591)](https://www.legislation.gov.uk/uksi/2012/2591), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2591/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2591/article/1/3)[4(1)](https://www.legislation.gov.uk/uksi/2012/2591/article/4/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2012/2591/article/4/2/d), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2591/schedule/1) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2591/article/5))
 
-[^key-8a84a05b0165fb5d45982d65c2afd5de]: Modification: S. 83 extended (Isle of Man) (with modifications) (with effect in accordance with art. 1(3)(4) of the amending S.I.) by [The Police Act 1997 (Criminal Records) (Isle of Man) (Amendment) Order 2012 (S.I. 2012/2598)](https://www.legislation.gov.uk/uksi/2012/2598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2), [4(1)(d)](https://www.legislation.gov.uk/uksi/2012/2598/article/4/1/d), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2598/schedule/1)
+[^c-8a84a05b0165fb5d45982d65c2afd5de]: Modification: S. 83 extended (Isle of Man) (with modifications) (with effect in accordance with art. 1(3)(4) of the amending S.I.) by [The Police Act 1997 (Criminal Records) (Isle of Man) (Amendment) Order 2012 (S.I. 2012/2598)](https://www.legislation.gov.uk/uksi/2012/2598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2), [4(1)(d)](https://www.legislation.gov.uk/uksi/2012/2598/article/4/1/d), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2598/schedule/1)
 
-[^key-ac822c2310a9d58cb3cf4085d4e52ffe]: Commencement: S. 83 in force at 17.6.2013 by [S.I. 2013/1180](https://www.legislation.gov.uk/uksi/2013/1180), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/1180/article/2/b)
+[^c-ac822c2310a9d58cb3cf4085d4e52ffe]: Commencement: S. 83 in force at 17.6.2013 by [S.I. 2013/1180](https://www.legislation.gov.uk/uksi/2013/1180), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/1180/article/2/b)

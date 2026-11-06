@@ -42,7 +42,7 @@ Coming into force
 
 The Lord Chancellor in exercise of the powers conferred by sections 58AA(4) and (5) and 120(3) of the Courts and Legal Services Act 1990[^f00001], having consulted in accordance with section 58AA(6) of that Act, makes the following Regulations, a draft of which has been laid before and approved by resolution of each House of Parliament in accordance with section 120(4)[^f00002] of that Act.
 
-## 1. Citation, commencement, interpretation and application[^key-d3d20afabfaf4dbb03498b3cdc56cd82]
+## 1. Citation, commencement, interpretation and application[^c-d3d20afabfaf4dbb03498b3cdc56cd82]
 
 (1) These Regulations may be cited as the Damages-Based Agreements Regulations 2013 and come into force on 1st April 2013.
 
@@ -50,7 +50,7 @@ The Lord Chancellor in exercise of the powers conferred by sections 58AA(4) and 
 
 - “the Act” means the Courts and Legal Services Act 1990;
 - “claim for personal injuries” has the same meaning as in Rule 2.3 of the Civil Procedure Rules 1998[^f00003];
-- “client” means the person who has instructed the representative to provide advocacy services, litigation services (within section 119 of the Act) or claims management services (within the meaning of section 419A of the Financial Services and Markets Act 2000[^key-6cc89c39a8518921e126284b2dcf9417]) and is liable to make a payment for those services;
+- “client” means the person who has instructed the representative to provide advocacy services, litigation services (within section 119 of the Act) or claims management services (within the meaning of section 419A of the Financial Services and Markets Act 2000[^c-6cc89c39a8518921e126284b2dcf9417]) and is liable to make a payment for those services;
 - “costs” means the total of the representative’s time reasonably spent, in respect of the claim or proceedings, multiplied by the reasonable hourly rate of remuneration of the representative;
 - “employment matter” means a matter that is, or could become, the subject of proceedings before an employment tribunal;
 - “expenses” means disbursements incurred by the representative, including the expense of obtaining an expert’s report and, in an employment matter only, counsel’s fees;
@@ -70,13 +70,13 @@ to any damages-based agreement in respect of an employment matter.
 
 (6) Where these Regulations relate to an employment matter, they apply to all damages-based agreements signed on or after the date on which these Regulations come into force.
 
-## 2. Revocation of 2010 Regulations and transitional provision[^key-9ae92a30e2c816d9f599d4b0991a7653]
+## 2. Revocation of 2010 Regulations and transitional provision[^c-9ae92a30e2c816d9f599d4b0991a7653]
 
 (1) Subject to paragraph (2), the Damages-Based Agreements Regulations 2010[^f00006] (“the 2010 Regulations”) are revoked.
 
 (2) The 2010 Regulations shall continue to have effect in respect of any damages-based agreement to which those Regulations applied and which was signed before the date on which these Regulations come into force.
 
-## 3. Requirements of an agreement in respect of all damages-based agreements[^key-fb57aa1b47f197d86168421670dd6af2]
+## 3. Requirements of an agreement in respect of all damages-based agreements[^c-fb57aa1b47f197d86168421670dd6af2]
 
 The requirements prescribed for the purposes of section 58AA(4)(c) of the Act are that the terms and conditions of a damages-based agreement must specify—
 
@@ -84,7 +84,7 @@ The requirements prescribed for the purposes of section 58AA(4)(c) of the Act ar
 - (b) the circumstances in which the representative’s payment, expenses and costs, or part of them, are payable; and
 - (c) the reason for setting the amount of the payment at the level agreed, which, in an employment matter, shall include having regard to, where appropriate, whether the claim or proceedings is one of several similar claims or proceedings.
 
-## 4. Payment in respect of claims or proceedings other than an employment matter[^key-afe501aa95460d42686bfd953afd7fb1]
+## 4. Payment in respect of claims or proceedings other than an employment matter[^c-afe501aa95460d42686bfd953afd7fb1]
 
 (1) In respect of any claim or proceedings, other than an employment matter, to which these Regulations apply, a damages-based agreement must not require an amount to be paid by the client other than—
 
@@ -109,7 +109,7 @@ that have been paid or are payable by another party to the proceedings by agreem
 
 (4) The amounts prescribed in paragraphs (2)(b) and (3) shall only apply to claims or proceedings at first instance.
 
-## 5. Information required to be given before an agreement is made in an employment matter[^key-c380e7b4c651d5977ba884168e237c0e]
+## 5. Information required to be given before an agreement is made in an employment matter[^c-c380e7b4c651d5977ba884168e237c0e]
 
 (1) In an employment matter, the requirements prescribed for the purposes of section 58AA(4)(d) of the Act are to provide—
 
@@ -121,7 +121,7 @@ that have been paid or are payable by another party to the proceedings by agreem
 - (a) the circumstances in which the client may seek a review of costs and expenses of the representative and the procedure for doing so;
 - (b) the dispute resolution service provided by the Advisory, Conciliation and Arbitration Service (ACAS) in regard to actual and potential claims;
 - (c) whether other methods of pursuing the claim or financing the proceedings, including—
-  - (i) advice under arrangements made for the purposes of Part 1 (legal aid) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^key-5e0e2489bb6d257937a9d4a7c7253818],
+  - (i) advice under arrangements made for the purposes of Part 1 (legal aid) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^c-5e0e2489bb6d257937a9d4a7c7253818],
   - (ii) legal expenses insurance,
   - (iii) pro bono representation, or
   - (iv) trade union representation,
@@ -130,15 +130,15 @@ that have been paid or are payable by another party to the proceedings by agreem
 - (d) the point at which expenses become payable; and
 - (e) a reasonable estimate of the amount that is likely to be spent upon expenses, inclusive of VAT.
 
-## 6. Additional causes of action in an employment matter[^key-22ae0d789a9bfc05c76709754696a13d]
+## 6. Additional causes of action in an employment matter[^c-22ae0d789a9bfc05c76709754696a13d]
 
 In an employment matter, any amendment to a damages-based agreement to cover additional causes of action must be in writing and signed by the client and the representative.
 
-## 7. Payment in an employment matter[^key-5f84a0f0eb8d5258d14bfca08404dc2c]
+## 7. Payment in an employment matter[^c-5f84a0f0eb8d5258d14bfca08404dc2c]
 
 In an employment matter, a damages-based agreement must not provide for a payment above an amount which, including VAT, is equal to 35% of the sums ultimately recovered by the client in the claim or proceedings.
 
-## 8. Terms and conditions of termination in an employment matter[^key-a4362b28beb6c40ae1f186916c822fea]
+## 8. Terms and conditions of termination in an employment matter[^c-a4362b28beb6c40ae1f186916c822fea]
 
 (1) In an employment matter, the additional requirements prescribed for the purposes of section 58AA(4)(c) of the Act are that the terms and conditions of a damages-based agreement must be in accordance with paragraphs (2), (3) and (4).
 
@@ -202,28 +202,28 @@ Regulation 8 states that the terms and conditions of an agreement that provide f
 
 [^f00002]: Footnote: Section 120(4) was amended by section 154(3) of the Coroners and Justice Act 2009 and sections 44(5) and 45(12) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012.
 
-[^key-d3d20afabfaf4dbb03498b3cdc56cd82]: Commencement: Reg. 1 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/609/regulation/1/1)
+[^c-d3d20afabfaf4dbb03498b3cdc56cd82]: Commencement: Reg. 1 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/609/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132), to which there have been amendments not relevant to these Regulations.
 
-[^key-6cc89c39a8518921e126284b2dcf9417]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/609/regulation/1/2) substituted (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [102](https://www.legislation.gov.uk/uksi/2018/1253/article/102) (with [arts. 106](https://www.legislation.gov.uk/uksi/2018/1253/article/106), [112](https://www.legislation.gov.uk/uksi/2018/1253/article/112))
+[^c-6cc89c39a8518921e126284b2dcf9417]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/609/regulation/1/2) substituted (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [102](https://www.legislation.gov.uk/uksi/2018/1253/article/102) (with [arts. 106](https://www.legislation.gov.uk/uksi/2018/1253/article/106), [112](https://www.legislation.gov.uk/uksi/2018/1253/article/112))
 
 [^f00005]: Footnote: [1974 c.47](https://www.legislation.gov.uk/ukpga/1974/47). Section 57 has been amended by section 98 of the 1990 Act and sections 117 and 221 of, and Schedule 16 to, the Legal Services Act [2007 (c.29)](https://www.legislation.gov.uk/ukpga/2007/29).
 
-[^key-9ae92a30e2c816d9f599d4b0991a7653]: Commencement: Reg. 2 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/609/regulation/1/1)
+[^c-9ae92a30e2c816d9f599d4b0991a7653]: Commencement: Reg. 2 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/609/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 2010/1206](https://www.legislation.gov.uk/uksi/2010/1206).
 
-[^key-fb57aa1b47f197d86168421670dd6af2]: Commencement: Reg. 3 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/609/regulation/1/1)
+[^c-fb57aa1b47f197d86168421670dd6af2]: Commencement: Reg. 3 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/609/regulation/1/1)
 
-[^key-afe501aa95460d42686bfd953afd7fb1]: Commencement: Reg. 4 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/609/regulation/1/1)
+[^c-afe501aa95460d42686bfd953afd7fb1]: Commencement: Reg. 4 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/609/regulation/1/1)
 
-[^key-c380e7b4c651d5977ba884168e237c0e]: Commencement: Reg. 5 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/609/regulation/1/1)
+[^c-c380e7b4c651d5977ba884168e237c0e]: Commencement: Reg. 5 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/609/regulation/1/1)
 
-[^key-5e0e2489bb6d257937a9d4a7c7253818]: Textual amendment: Words in [reg. 5(2)(c)(i)](https://www.legislation.gov.uk/uksi/2013/609/regulation/5/2/c/i) substituted (1.4.2013) by [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2013/534/schedule/paragraph/26) (as inserted by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Consequential, Transitional and Saving Provisions) (Amendment) Regulations 2013 (S.I. 2013/621)](https://www.legislation.gov.uk/uksi/2013/621), [regs. 1](https://www.legislation.gov.uk/uksi/2013/621/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/621/regulation/4))
+[^c-5e0e2489bb6d257937a9d4a7c7253818]: Textual amendment: Words in [reg. 5(2)(c)(i)](https://www.legislation.gov.uk/uksi/2013/609/regulation/5/2/c/i) substituted (1.4.2013) by [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2013/534/schedule/paragraph/26) (as inserted by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Consequential, Transitional and Saving Provisions) (Amendment) Regulations 2013 (S.I. 2013/621)](https://www.legislation.gov.uk/uksi/2013/621), [regs. 1](https://www.legislation.gov.uk/uksi/2013/621/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/621/regulation/4))
 
-[^key-22ae0d789a9bfc05c76709754696a13d]: Commencement: Reg. 6 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/609/regulation/1/1)
+[^c-22ae0d789a9bfc05c76709754696a13d]: Commencement: Reg. 6 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/609/regulation/1/1)
 
-[^key-5f84a0f0eb8d5258d14bfca08404dc2c]: Commencement: Reg. 7 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/609/regulation/1/1)
+[^c-5f84a0f0eb8d5258d14bfca08404dc2c]: Commencement: Reg. 7 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/609/regulation/1/1)
 
-[^key-a4362b28beb6c40ae1f186916c822fea]: Commencement: Reg. 8 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/609/regulation/1/1)
+[^c-a4362b28beb6c40ae1f186916c822fea]: Commencement: Reg. 8 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/609/regulation/1/1)

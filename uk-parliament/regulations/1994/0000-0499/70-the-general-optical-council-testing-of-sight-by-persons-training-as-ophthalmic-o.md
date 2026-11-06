@@ -64,19 +64,19 @@ The General Optical Council in exercise of their powers under section 24(3) of t
 
 ### 1. Citation
 
-These Rules may be cited as the Testing of Sight by Persons Training as Optometrists[^key-04e3648cd24bb9475b882a3ac42cef9e] Rules 1993.
+These Rules may be cited as the Testing of Sight by Persons Training as Optometrists[^c-04e3648cd24bb9475b882a3ac42cef9e] Rules 1993.
 
 ### 2. Interpretation
 
 In these Rules, unless the context otherwise requires:—
 
 - “the Act” means the Opticians Act 1989;
-- “approved qualification” means a qualification approved by the Council under section 12 of the Act as suitable to be granted to optometrists[^key-b804632a88c3982bd2514160f5911863];
-- “approved training establishment[^key-329ef6d080f9f1e48fda00ce831e08da]” means an establishment approved by the Council under section 12 of the Act (as suitable for the training of optometrists);
+- “approved qualification” means a qualification approved by the Council under section 12 of the Act as suitable to be granted to optometrists[^c-b804632a88c3982bd2514160f5911863];
+- “approved training establishment[^c-329ef6d080f9f1e48fda00ce831e08da]” means an establishment approved by the Council under section 12 of the Act (as suitable for the training of optometrists);
 - “the Council” means the General Optical Council; and
-- “optometrist[^key-c48895b1a166899fc71cde009a1d9a97]” and “registered optometrist” have the meanings given them in section 36 of the Act.
+- “optometrist[^c-c48895b1a166899fc71cde009a1d9a97]” and “registered optometrist” have the meanings given them in section 36 of the Act.
 
-### 3. Exemption from section 24(1) of the Act of testing of sight by Persons Training as Optometrists[^key-dac2d84f73e2a4f916850fba34218b63]
+### 3. Exemption from section 24(1) of the Act of testing of sight by Persons Training as Optometrists[^c-dac2d84f73e2a4f916850fba34218b63]
 
 Any testing of sight which is carried out:—
 
@@ -85,16 +85,16 @@ Any testing of sight which is carried out:—
 
 shall be exempt from section 24(1) of the Act (testing of sight).
 
-### 4. Classes of Persons Training as Optometrists[^key-f9b18ed319ff3cf663ed4d8b6c9725e1]
+### 4. Classes of Persons Training as Optometrists[^c-f9b18ed319ff3cf663ed4d8b6c9725e1]
 
 The classes of persons prescribed for the purposes of these Rules are the following:—
 
-- (a)[^key-1cc4dc9a47671880d86ec1c52c775209] persons who are undertaking training at an approved training establishment for the purpose of satisfying section 8(1)(a) or 8(2A)(a) of the Act;
+- (a)[^c-1cc4dc9a47671880d86ec1c52c775209] persons who are undertaking training at an approved training establishment for the purpose of satisfying section 8(1)(a) or 8(2A)(a) of the Act;
 - (b) persons who are obtaining practical experience in the work of an optometrist under the supervision of a registered medical practitioner or a registered optometrist for the purpose of satisfying section 8(1)(b) or 8(2A) of the Act;
-- (c)[^key-c372b975f93d7bbf1c247fd9f6d14103] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d) persons who are undergoing examination or assessment[^key-cc4b81c566abdbae9b22b08e0a863e0f] for an approved qualification;
+- (c)[^c-c372b975f93d7bbf1c247fd9f6d14103] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) persons who are undergoing examination or assessment[^c-cc4b81c566abdbae9b22b08e0a863e0f] for an approved qualification;
 - (e) persons who have qualified as optometrists outside the United Kingdom and are receiving instruction at an approved training establishment;
-- (f)[^key-d1bc6fa359cb13336d358364eb98c55e] persons who are in the course of training as an optometrist outside the United Kingdom and are receiving instruction at an approved training establishment.
+- (f)[^c-d1bc6fa359cb13336d358364eb98c55e] persons who are in the course of training as an optometrist outside the United Kingdom and are receiving instruction at an approved training establishment.
 
 ### 5. Revocation
 
@@ -132,24 +132,24 @@ The main difference between the Rules approved by this Order and the 1974 Rules 
 
 [^M_F_0ed3b29b-3564-4d06-bd83-297c31d32183]: Textual amendment: Word in Sch. Rules substituted (30.6.2005 as notified in the London Gazette dated 3.6.2005) by virtue of [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 25(b)](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/25/b)
 
-[^key-04e3648cd24bb9475b882a3ac42cef9e]: Textual amendment: Word in [Sch. rule 1](https://www.legislation.gov.uk/uksi/1994/70/schedule/rule/1) substituted (30.6.2005 as notified in the London Gazette dated 3.6.2005) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 25(b)](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/25/b)
+[^c-04e3648cd24bb9475b882a3ac42cef9e]: Textual amendment: Word in [Sch. rule 1](https://www.legislation.gov.uk/uksi/1994/70/schedule/rule/1) substituted (30.6.2005 as notified in the London Gazette dated 3.6.2005) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 25(b)](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/25/b)
 
-[^key-b804632a88c3982bd2514160f5911863]: Textual amendment: Word in [Sch. rule 2](https://www.legislation.gov.uk/uksi/1994/70/schedule/rule/2) substituted (30.6.2005 as notified in the London Gazette dated 3.6.2005) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 25(b)](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/25/b)
+[^c-b804632a88c3982bd2514160f5911863]: Textual amendment: Word in [Sch. rule 2](https://www.legislation.gov.uk/uksi/1994/70/schedule/rule/2) substituted (30.6.2005 as notified in the London Gazette dated 3.6.2005) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 25(b)](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/25/b)
 
-[^key-329ef6d080f9f1e48fda00ce831e08da]: Textual amendment: Word in Sch. Rules substituted (30.6.2005 as notified in the London Gazette dated 3.6.2005) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 25(c)](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/25/c)
+[^c-329ef6d080f9f1e48fda00ce831e08da]: Textual amendment: Word in Sch. Rules substituted (30.6.2005 as notified in the London Gazette dated 3.6.2005) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 25(c)](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/25/c)
 
-[^key-c48895b1a166899fc71cde009a1d9a97]: Textual amendment: Word in Sch. Rules substituted (30.6.2005 as notified in the London Gazette dated 3.6.2005) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 25(a)](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/25/a)
+[^c-c48895b1a166899fc71cde009a1d9a97]: Textual amendment: Word in Sch. Rules substituted (30.6.2005 as notified in the London Gazette dated 3.6.2005) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 25(a)](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/25/a)
 
-[^key-dac2d84f73e2a4f916850fba34218b63]: Textual amendment: Word in [Sch. rule 3](https://www.legislation.gov.uk/uksi/1994/70/schedule/rule/3) substituted (30.6.2005 as notified in the London Gazette dated 3.6.2005) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 25(b)](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/25/b)
+[^c-dac2d84f73e2a4f916850fba34218b63]: Textual amendment: Word in [Sch. rule 3](https://www.legislation.gov.uk/uksi/1994/70/schedule/rule/3) substituted (30.6.2005 as notified in the London Gazette dated 3.6.2005) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 25(b)](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/25/b)
 
-[^key-f9b18ed319ff3cf663ed4d8b6c9725e1]: Textual amendment: Word in [Sch. rule 4](https://www.legislation.gov.uk/uksi/1994/70/schedule/rule/4) substituted (30.6.2005 as notified in the London Gazette dated 3.6.2005) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 25(b)](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/25/b)
+[^c-f9b18ed319ff3cf663ed4d8b6c9725e1]: Textual amendment: Word in [Sch. rule 4](https://www.legislation.gov.uk/uksi/1994/70/schedule/rule/4) substituted (30.6.2005 as notified in the London Gazette dated 3.6.2005) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 25(b)](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/25/b)
 
-[^key-1cc4dc9a47671880d86ec1c52c775209]: Textual amendment: [Sch. rules 4(a)(b)](https://www.legislation.gov.uk/uksi/1994/70/schedule/rule/4/a) substituted (30.6.2005 as notified in the London Gazette dated 3.6.2005) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 25(d)(i)](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/25/d/i)
+[^c-1cc4dc9a47671880d86ec1c52c775209]: Textual amendment: [Sch. rules 4(a)(b)](https://www.legislation.gov.uk/uksi/1994/70/schedule/rule/4/a) substituted (30.6.2005 as notified in the London Gazette dated 3.6.2005) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 25(d)(i)](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/25/d/i)
 
-[^key-c372b975f93d7bbf1c247fd9f6d14103]: Textual amendment: [Sch. rule 4(c)](https://www.legislation.gov.uk/uksi/1994/70/schedule/rule/4/c) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 5 para. 18](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/paragraph/18) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [13](https://www.legislation.gov.uk/uksi/2020/1394/regulation/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c372b975f93d7bbf1c247fd9f6d14103]: Textual amendment: [Sch. rule 4(c)](https://www.legislation.gov.uk/uksi/1994/70/schedule/rule/4/c) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 5 para. 18](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/paragraph/18) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [13](https://www.legislation.gov.uk/uksi/2020/1394/regulation/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cc4b81c566abdbae9b22b08e0a863e0f]: Textual amendment: Words in [Sch. rule 4(d)](https://www.legislation.gov.uk/uksi/1994/70/schedule/rule/4/d) inserted (30.6.2005 as notified in the London Gazette dated 3.6.2005) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 25(d)(ii)](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/25/d/ii)
+[^c-cc4b81c566abdbae9b22b08e0a863e0f]: Textual amendment: Words in [Sch. rule 4(d)](https://www.legislation.gov.uk/uksi/1994/70/schedule/rule/4/d) inserted (30.6.2005 as notified in the London Gazette dated 3.6.2005) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 25(d)(ii)](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/25/d/ii)
 
-[^key-d1bc6fa359cb13336d358364eb98c55e]: Textual amendment: [Sch. rule 4(f)](https://www.legislation.gov.uk/uksi/1994/70/schedule/rule/4/f) added (20.10.1999) by [The General Optical Council (Testing of Sight by Persons Training as Ophthalmic Opticians Rules) (Amendment) Order of Council 1999 (S.I. 1999/2897)](https://www.legislation.gov.uk/uksi/1999/2897), [Sch. rule 2](https://www.legislation.gov.uk/uksi/1999/2897/schedule/paragraph/2)
+[^c-d1bc6fa359cb13336d358364eb98c55e]: Textual amendment: [Sch. rule 4(f)](https://www.legislation.gov.uk/uksi/1994/70/schedule/rule/4/f) added (20.10.1999) by [The General Optical Council (Testing of Sight by Persons Training as Ophthalmic Opticians Rules) (Amendment) Order of Council 1999 (S.I. 1999/2897)](https://www.legislation.gov.uk/uksi/1999/2897), [Sch. rule 2](https://www.legislation.gov.uk/uksi/1999/2897/schedule/paragraph/2)
 
 [^f00004]: Footnote: [S.I. 1974/1329](https://www.legislation.gov.uk/uksi/1974/1329).

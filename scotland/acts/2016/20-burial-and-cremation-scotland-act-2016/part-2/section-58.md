@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Cremation register: offence[^key-cccf9e8732e1f7ae3c57dafdd222b1d2]
+## 58. Cremation register: offence[^c-cccf9e8732e1f7ae3c57dafdd222b1d2]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cccf9e8732e1f7ae3c57dafdd222b1d2]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2016/20/section/58) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
+[^c-cccf9e8732e1f7ae3c57dafdd222b1d2]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2016/20/section/58) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))

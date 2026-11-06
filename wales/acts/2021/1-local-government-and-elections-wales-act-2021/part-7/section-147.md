@@ -20,19 +20,19 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-e68271bc3084307e9b3ab0c0725a9cb3] Merger regulations and restructuring regulations may include supplementary, incidental, consequential, transitional, transitory or saving provision.
+(1)[^c-e68271bc3084307e9b3ab0c0725a9cb3] Merger regulations and restructuring regulations may include supplementary, incidental, consequential, transitional, transitory or saving provision.
 
-(2)[^key-e68271bc3084307e9b3ab0c0725a9cb3] The Welsh Ministers may by regulations make supplementary, incidental, consequential, transitional, transitory or saving provision in relation to particular merger regulations or particular restructuring regulations—
+(2)[^c-e68271bc3084307e9b3ab0c0725a9cb3] The Welsh Ministers may by regulations make supplementary, incidental, consequential, transitional, transitory or saving provision in relation to particular merger regulations or particular restructuring regulations—
 
 - (a) for the purposes of or in consequence of those regulations, or
 - (b) for giving full effect to those regulations.
 
-(3)[^key-e68271bc3084307e9b3ab0c0725a9cb3] The Welsh Ministers may by regulations of general application make supplementary, incidental, consequential, transitional, transitory or saving provision—
+(3)[^c-e68271bc3084307e9b3ab0c0725a9cb3] The Welsh Ministers may by regulations of general application make supplementary, incidental, consequential, transitional, transitory or saving provision—
 
 - (a) for the purposes of or in consequence of merger regulations or restructuring regulations, or
 - (b) for giving full effect to merger regulations or restructuring regulations.
 
-(4)[^key-e68271bc3084307e9b3ab0c0725a9cb3] Regulations under subsection (3) have effect subject to any provision included in merger regulations or restructuring regulations.
+(4)[^c-e68271bc3084307e9b3ab0c0725a9cb3] Regulations under subsection (3) have effect subject to any provision included in merger regulations or restructuring regulations.
 
 (5) In this section references to supplementary, incidental, consequential, transitional, transitory or saving provision include provision—
 
@@ -44,21 +44,21 @@ summary: ''
 - (f) with respect to charter trustees;
 - (g) in relation to preserved counties (within the meaning of section 270(1) of the 1972 Act).
 
-(6)[^key-e68271bc3084307e9b3ab0c0725a9cb3] In this section references to supplementary, incidental, consequential, transitional, transitory or saving provision also include provision with respect to—
+(6)[^c-e68271bc3084307e9b3ab0c0725a9cb3] In this section references to supplementary, incidental, consequential, transitional, transitory or saving provision also include provision with respect to—
 
 - (a) the establishment or membership of public bodies in any area affected by merger regulations or restructuring regulations and the election or appointment of members of the public bodies, or
 - (b) the abolition or establishment, or the restriction or extension, of the jurisdiction of any public body in or over any part of any area affected by merger regulations or restructuring regulations.
 
-(7)[^key-e68271bc3084307e9b3ab0c0725a9cb3] Supplementary, incidental, consequential, transitional, transitory or saving provision in merger regulations, restructuring regulations or regulations under this section may take the form of provision—
+(7)[^c-e68271bc3084307e9b3ab0c0725a9cb3] Supplementary, incidental, consequential, transitional, transitory or saving provision in merger regulations, restructuring regulations or regulations under this section may take the form of provision—
 
 - (a) amending, modifying, applying (with or without modifications) or disapplying any enactment, or
 - (b) repealing or revoking any enactment (with or without savings).
 
-(8)[^key-e68271bc3084307e9b3ab0c0725a9cb3] Merger regulations, restructuring regulations or regulations under this section containing provision for the transfer of staff must apply the provisions of the Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246), apart from regulations 4(6) and 10, to transfers made under the regulations under this Part (whether or not the transfer is a relevant transfer for the purposes of the Transfer of Undertakings (Protection of Employment) Regulations 2006).
+(8)[^c-e68271bc3084307e9b3ab0c0725a9cb3] Merger regulations, restructuring regulations or regulations under this section containing provision for the transfer of staff must apply the provisions of the Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246), apart from regulations 4(6) and 10, to transfers made under the regulations under this Part (whether or not the transfer is a relevant transfer for the purposes of the Transfer of Undertakings (Protection of Employment) Regulations 2006).
 
 (9) “Enactment” in subsection (7) includes any charter, whenever granted.
 
-(10)[^key-e68271bc3084307e9b3ab0c0725a9cb3] The Welsh Ministers may—
+(10)[^c-e68271bc3084307e9b3ab0c0725a9cb3] The Welsh Ministers may—
 
 - (a) by regulations amend or revoke regulations made under subsection (2) or (3) or regulations made under this paragraph;
 - (b) by regulations amend merger regulations, restructuring regulations or regulations made under this paragraph;
@@ -72,4 +72,4 @@ and regulations made under this subsection may make supplementary, incidental, c
 
 [^c24522391]: Commencement: S. 147(5)(9) in force at 21.1.2021, see s. 175(1)(f)
 
-[^key-e68271bc3084307e9b3ab0c0725a9cb3]: Commencement: S. 147(1)-(4)(6)-(8)(10) in force at 1.4.2021 in so far as not already in force by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(d)](https://www.legislation.gov.uk/uksi/2021/297/article/2/d)
+[^c-e68271bc3084307e9b3ab0c0725a9cb3]: Commencement: S. 147(1)-(4)(6)-(8)(10) in force at 1.4.2021 in so far as not already in force by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(d)](https://www.legislation.gov.uk/uksi/2021/297/article/2/d)

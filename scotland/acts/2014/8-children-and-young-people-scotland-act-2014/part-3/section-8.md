@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Requirement to prepare children's services plan[^key-1e5cbaa9d39c99855dd91a59e2404266][^key-59161c82f3178de6d913c2a726b08f51]
+## 8. Requirement to prepare children's services plan[^c-1e5cbaa9d39c99855dd91a59e2404266][^c-59161c82f3178de6d913c2a726b08f51]
 
 *Extent: S*
 
@@ -33,8 +33,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1e5cbaa9d39c99855dd91a59e2404266]: Commencement: S. 8 in force at 30.9.2015 for specified purposes by [S.S.I. 2015/317](https://www.legislation.gov.uk/ssi/2015/317), [art. 2](https://www.legislation.gov.uk/ssi/2015/317/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/317/schedule)
+[^c-1e5cbaa9d39c99855dd91a59e2404266]: Commencement: S. 8 in force at 30.9.2015 for specified purposes by [S.S.I. 2015/317](https://www.legislation.gov.uk/ssi/2015/317), [art. 2](https://www.legislation.gov.uk/ssi/2015/317/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/317/schedule)
 
-[^key-59161c82f3178de6d913c2a726b08f51]: Commencement: S. 8 in force at 7.10.2016 in so far as not already in force by [S.S.I. 2016/254](https://www.legislation.gov.uk/ssi/2016/254), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2016/254/article/3/1/b)
+[^c-59161c82f3178de6d913c2a726b08f51]: Commencement: S. 8 in force at 7.10.2016 in so far as not already in force by [S.S.I. 2016/254](https://www.legislation.gov.uk/ssi/2016/254), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2016/254/article/3/1/b)
 
 [^M_P_2263c0fb-994e-4dc8-8da5-b9bf8d823826]: Subordinate legislation: S. 8(2)(a): 1.4.2017 specified for the purposes of s. 8(2)(a) (7.10.2016) by [S.S.I. 2016/255](https://www.legislation.gov.uk/ssi/2016/255), [arts. 1](https://www.legislation.gov.uk/ssi/2016/255/article/1), [2](https://www.legislation.gov.uk/ssi/2016/255/article/2)

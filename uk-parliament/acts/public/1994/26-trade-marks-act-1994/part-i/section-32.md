@@ -27,7 +27,7 @@ summary: ''
 - (a) a request for registration of a trade mark,
 - (b) the name and address of the applicant,
 - (c) a statement of the goods or services in relation to which it is sought to register the trade mark, and
-- (d) a representation of the trade mark, which is capable of being represented in the register in a manner which enables the registrar and other competent authorities and the public to determine the clear and precise subject matter of the protection afforded to the proprietor[^key-f3146b9a7077502b77aa08b64dec01fd].
+- (d) a representation of the trade mark, which is capable of being represented in the register in a manner which enables the registrar and other competent authorities and the public to determine the clear and precise subject matter of the protection afforded to the proprietor[^c-f3146b9a7077502b77aa08b64dec01fd].
 
 (3) The application shall state that the trade mark is being used, by the applicant or with his consent, in relation to those goods or services, or that he has a*bona fide* intention that it should be so used.
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3146b9a7077502b77aa08b64dec01fd]: Textual amendment: Words in s. 32(2)(d) inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2018/825/regulation/18) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
+[^c-f3146b9a7077502b77aa08b64dec01fd]: Textual amendment: Words in s. 32(2)(d) inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2018/825/regulation/18) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))

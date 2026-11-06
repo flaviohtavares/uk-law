@@ -34,7 +34,7 @@ An Act of the Scottish Parliament to require that motor vehicles provided for th
 
 The Bill for this Act of the Scottish Parliament was passed by the Parliament on 9th November 2017 and received Royal Assent on 18th December 2017
 
-## 1. Duty to ensure seat belts fitted on dedicated school transport services[^key-ffaa0de1a7e9684ff94b4f06fe377b39][^key-9106bf69be3693a922b95328af5aea8b]
+## 1. Duty to ensure seat belts fitted on dedicated school transport services[^c-ffaa0de1a7e9684ff94b4f06fe377b39][^c-9106bf69be3693a922b95328af5aea8b]
 
 A school authority must ensure that each motor vehicle which the authority provides or arranges to be provided for a dedicated school transport service has a seat belt fitted to each passenger seat.
 
@@ -76,7 +76,7 @@ A school authority must ensure that each motor vehicle which the authority provi
 - “school education”,
 - “secondary education.”
 
-## 4. Annual seat belts statement[^key-dd01cc889c9eaaf1afc67e395a5a66c3]
+## 4. Annual seat belts statement[^c-dd01cc889c9eaaf1afc67e395a5a66c3]
 
 (1) A school authority must prepare a seat belts statement in respect of each successive period of 1 year beginning with the day on which this section comes into force.
 
@@ -90,7 +90,7 @@ A school authority must ensure that each motor vehicle which the authority provi
 - (a) as soon as reasonably practicable after the end of the period mentioned in subsection (1), and
 - (b) in such manner as the authority considers appropriate.
 
-## 5. Guidance on wearing of seat belts[^key-664520b7bcaf58b3a79d1aaadac2bc66]
+## 5. Guidance on wearing of seat belts[^c-664520b7bcaf58b3a79d1aaadac2bc66]
 
 (1) The Scottish Ministers must publish guidance about the steps which a school authority may take to promote and to assess the wearing of seat belts by pupils carried by the authority's dedicated school transport services.
 
@@ -123,10 +123,10 @@ The short title of this Act is the Seat Belts on School Transport (Scotland) Act
 
 ## Annotations
 
-[^key-ffaa0de1a7e9684ff94b4f06fe377b39]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2017/7/section/1) in force at 1.8.2018 for specified purposes by [S.S.I. 2018/195](https://www.legislation.gov.uk/ssi/2018/195), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2018/195/regulation/3/1)
+[^c-ffaa0de1a7e9684ff94b4f06fe377b39]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2017/7/section/1) in force at 1.8.2018 for specified purposes by [S.S.I. 2018/195](https://www.legislation.gov.uk/ssi/2018/195), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2018/195/regulation/3/1)
 
-[^key-9106bf69be3693a922b95328af5aea8b]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2017/7/section/1) in force at 1.8.2021 in so far as not already in force by [S.S.I. 2018/195](https://www.legislation.gov.uk/ssi/2018/195), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2018/195/regulation/3/2)
+[^c-9106bf69be3693a922b95328af5aea8b]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2017/7/section/1) in force at 1.8.2021 in so far as not already in force by [S.S.I. 2018/195](https://www.legislation.gov.uk/ssi/2018/195), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2018/195/regulation/3/2)
 
-[^key-dd01cc889c9eaaf1afc67e395a5a66c3]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2017/7/section/4) in force at 1.8.2018 by [S.S.I. 2018/195](https://www.legislation.gov.uk/ssi/2018/195), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2018/195/regulation/3/1)
+[^c-dd01cc889c9eaaf1afc67e395a5a66c3]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2017/7/section/4) in force at 1.8.2018 by [S.S.I. 2018/195](https://www.legislation.gov.uk/ssi/2018/195), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2018/195/regulation/3/1)
 
-[^key-664520b7bcaf58b3a79d1aaadac2bc66]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2017/7/section/5) in force at 1.8.2018 by [S.S.I. 2018/195](https://www.legislation.gov.uk/ssi/2018/195), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2018/195/regulation/3/1)
+[^c-664520b7bcaf58b3a79d1aaadac2bc66]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2017/7/section/5) in force at 1.8.2018 by [S.S.I. 2018/195](https://www.legislation.gov.uk/ssi/2018/195), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2018/195/regulation/3/1)

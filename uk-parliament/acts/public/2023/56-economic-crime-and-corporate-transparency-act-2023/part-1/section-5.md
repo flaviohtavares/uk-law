@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Proposed officers: disqualification[^key-5797b76e2f398e0f56bf89a5b67dbf7b]
+## 5. Proposed officers: disqualification[^c-5797b76e2f398e0f56bf89a5b67dbf7b]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5797b76e2f398e0f56bf89a5b67dbf7b]: Commencement: S. 5 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-5797b76e2f398e0f56bf89a5b67dbf7b]: Commencement: S. 5 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

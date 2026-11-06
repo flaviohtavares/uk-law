@@ -32,7 +32,7 @@ summary: ''
 
 Corporation Tax
 
-The Corporation Tax (Tax Treatment of Financing Costs and Income) (Acceptable Financial Statements) Regulations 2009 (revoked)[^key-381b904b111df6dc903711ff8b47dc41]
+The Corporation Tax (Tax Treatment of Financing Costs and Income) (Acceptable Financial Statements) Regulations 2009 (revoked)[^c-381b904b111df6dc903711ff8b47dc41]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st January 2010
 
-[^key-381b904b111df6dc903711ff8b47dc41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-381b904b111df6dc903711ff8b47dc41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and effect[^key-381b904b111df6dc903711ff8b47dc41]
+## 1. Citation, commencement and effect[^c-381b904b111df6dc903711ff8b47dc41]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Acceptable financial statements[^key-381b904b111df6dc903711ff8b47dc41]
+## 2. Acceptable financial statements[^c-381b904b111df6dc903711ff8b47dc41]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-381b904b111df6dc903711ff8b47dc41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-381b904b111df6dc903711ff8b47dc41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-381b904b111df6dc903711ff8b47dc41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-381b904b111df6dc903711ff8b47dc41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-381b904b111df6dc903711ff8b47dc41]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/3217) revoked (with effect in accordance with Sch. 5 para. 26(1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 11(3)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/11/3/b)
+[^c-381b904b111df6dc903711ff8b47dc41]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/3217) revoked (with effect in accordance with Sch. 5 para. 26(1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 11(3)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/11/3/b)

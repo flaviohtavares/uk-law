@@ -37,7 +37,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Code of practice
 
-### 1. Parking code[^key-c0a253ad5644d66c994145d276a53a30]
+### 1. Parking code[^c-c0a253ad5644d66c994145d276a53a30]
 
 (1) The Secretary of State must prepare a code of practice containing guidance about the operation and management of private parking facilities.
 
@@ -48,7 +48,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (3) For the purposes of this section “**good practice**” means such practice in the operation or management of private parking facilities as appears to the Secretary of State to be desirable having regard to the interests of persons using such facilities.
 
-### 2. Parking code: procedure[^key-19b20231b28128ccfc7f287b1a578323]
+### 2. Parking code: procedure[^c-19b20231b28128ccfc7f287b1a578323]
 
 (1) Before preparing a code under section 1, the Secretary of State must consult—
 
@@ -71,7 +71,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (7) In calculating the 40-day period, no account is to be taken of any period during which Parliament is dissolved or prorogued or during which both Houses are adjourned for more than 4 days.
 
-### 3. Review and revision of parking code[^key-0bbc6b0cb60508d10e8e484f10f09401]
+### 3. Review and revision of parking code[^c-0bbc6b0cb60508d10e8e484f10f09401]
 
 (1) The Secretary of State must keep the parking code under review.
 
@@ -82,7 +82,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (3) Section 2 (other than subsection (3)(b)) applies to an alteration prepared under this section (and to the preparing of such an alteration) as it applies to a code prepared under section 1 (and to the preparing of such a code).
 
-### 4. Publication of parking code[^key-d931b488e2f342c59f1d823446b71429]
+### 4. Publication of parking code[^c-d931b488e2f342c59f1d823446b71429]
 
 (1) The Secretary of State must publish each code issued under section 2(4).
 
@@ -91,7 +91,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - (a) the alteration, or
 - (b) the parking code as altered by it.
 
-### 5. Effect of parking code[^key-b378881d869cf618e26dfa9620e36b8c]
+### 5. Effect of parking code[^c-b378881d869cf618e26dfa9620e36b8c]
 
 (1) A failure on the part of any person to act in accordance with any provision of the parking code does not of itself make that person liable to any legal proceedings in any court or tribunal.
 
@@ -109,7 +109,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (5) The parking code is admissible in evidence in any legal proceedings.
 
-### 6. Delegation of functions[^key-a25083ea872d90837c3df5c93ef0d8f3]
+### 6. Delegation of functions[^c-a25083ea872d90837c3df5c93ef0d8f3]
 
 (1) The Secretary of State may—
 
@@ -134,7 +134,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Appeals
 
-### 7. Appeals against parking charges[^key-d300fbd971017f9d2db93d749b5a27d9]
+### 7. Appeals against parking charges[^c-d300fbd971017f9d2db93d749b5a27d9]
 
 (1) This section applies if the parking code contains guidance recommending that all parking appeals are dealt with by a single person who is independent of persons providing private parking facilities.
 
@@ -152,7 +152,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Levy
 
-### 8. Levy for recovery of administrative and investigation costs[^c23716031][^key-883855161c788013b36341f3e6b015f3]
+### 8. Levy for recovery of administrative and investigation costs[^c23716031][^c-883855161c788013b36341f3e6b015f3]
 
 (1) The Secretary of State may make regulations requiring accredited parking associations to pay a levy for the purposes of meeting costs incurred, or expected to be incurred, in connection with—
 
@@ -203,7 +203,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (3) A statutory instrument containing regulations under section 8(1) is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 10. Interpretation[^key-2ac3bf0069d435a5e0fdd17d4a247d20]
+### 10. Interpretation[^c-2ac3bf0069d435a5e0fdd17d4a247d20]
 
 (1) In this Act—
 
@@ -231,7 +231,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
   - (iii) a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994, and
 - (c) the reference in paragraph 3(4) to an Act is to be taken to include an Act of the Scottish Parliament.
 
-### 11. Application to the Crown[^key-53b51347cfa17a1514fe8c24203b50cd]
+### 11. Application to the Crown[^c-53b51347cfa17a1514fe8c24203b50cd]
 
 (1) This Act binds the Crown and applies in relation to any Crown land as it applies in relation to any other land.
 
@@ -268,24 +268,24 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Annotations
 
-[^key-c0a253ad5644d66c994145d276a53a30]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2019/8/section/1) in force at 20.5.2024 by [S.I. 2024/653](https://www.legislation.gov.uk/uksi/2024/653), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/653/regulation/2/a)
+[^c-c0a253ad5644d66c994145d276a53a30]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2019/8/section/1) in force at 20.5.2024 by [S.I. 2024/653](https://www.legislation.gov.uk/uksi/2024/653), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/653/regulation/2/a)
 
-[^key-19b20231b28128ccfc7f287b1a578323]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2019/8/section/2) in force at 20.5.2024 by [S.I. 2024/653](https://www.legislation.gov.uk/uksi/2024/653), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/653/regulation/2/b)
+[^c-19b20231b28128ccfc7f287b1a578323]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2019/8/section/2) in force at 20.5.2024 by [S.I. 2024/653](https://www.legislation.gov.uk/uksi/2024/653), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/653/regulation/2/b)
 
-[^key-0bbc6b0cb60508d10e8e484f10f09401]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2019/8/section/3) in force at 20.5.2024 by [S.I. 2024/653](https://www.legislation.gov.uk/uksi/2024/653), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/653/regulation/2/c)
+[^c-0bbc6b0cb60508d10e8e484f10f09401]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2019/8/section/3) in force at 20.5.2024 by [S.I. 2024/653](https://www.legislation.gov.uk/uksi/2024/653), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/653/regulation/2/c)
 
-[^key-d931b488e2f342c59f1d823446b71429]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2019/8/section/4) in force at 20.5.2024 by [S.I. 2024/653](https://www.legislation.gov.uk/uksi/2024/653), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/653/regulation/2/d)
+[^c-d931b488e2f342c59f1d823446b71429]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2019/8/section/4) in force at 20.5.2024 by [S.I. 2024/653](https://www.legislation.gov.uk/uksi/2024/653), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/653/regulation/2/d)
 
-[^key-b378881d869cf618e26dfa9620e36b8c]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2019/8/section/5) in force at 20.5.2024 by [S.I. 2024/653](https://www.legislation.gov.uk/uksi/2024/653), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/653/regulation/2/e)
+[^c-b378881d869cf618e26dfa9620e36b8c]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2019/8/section/5) in force at 20.5.2024 by [S.I. 2024/653](https://www.legislation.gov.uk/uksi/2024/653), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/653/regulation/2/e)
 
-[^key-a25083ea872d90837c3df5c93ef0d8f3]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2019/8/section/6) in force at 20.5.2024 by [S.I. 2024/653](https://www.legislation.gov.uk/uksi/2024/653), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2024/653/regulation/2/f)
+[^c-a25083ea872d90837c3df5c93ef0d8f3]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2019/8/section/6) in force at 20.5.2024 by [S.I. 2024/653](https://www.legislation.gov.uk/uksi/2024/653), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2024/653/regulation/2/f)
 
-[^key-d300fbd971017f9d2db93d749b5a27d9]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2019/8/section/7) in force at 20.5.2024 by [S.I. 2024/653](https://www.legislation.gov.uk/uksi/2024/653), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/653/regulation/2/g)
+[^c-d300fbd971017f9d2db93d749b5a27d9]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2019/8/section/7) in force at 20.5.2024 by [S.I. 2024/653](https://www.legislation.gov.uk/uksi/2024/653), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/653/regulation/2/g)
 
 [^c23716031]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2019/8/section/8) in force at 15.3.2019 for specified purposes, see. [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2019/8/section/12/1/b)
 
-[^key-883855161c788013b36341f3e6b015f3]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2019/8/section/8) in force at 20.5.2024 in so far as not already in force by [S.I. 2024/653](https://www.legislation.gov.uk/uksi/2024/653), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2024/653/regulation/2/h)
+[^c-883855161c788013b36341f3e6b015f3]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2019/8/section/8) in force at 20.5.2024 in so far as not already in force by [S.I. 2024/653](https://www.legislation.gov.uk/uksi/2024/653), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2024/653/regulation/2/h)
 
-[^key-2ac3bf0069d435a5e0fdd17d4a247d20]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2019/8/section/10) in force at 20.5.2024 by [S.I. 2024/653](https://www.legislation.gov.uk/uksi/2024/653), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2024/653/regulation/2/i)
+[^c-2ac3bf0069d435a5e0fdd17d4a247d20]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2019/8/section/10) in force at 20.5.2024 by [S.I. 2024/653](https://www.legislation.gov.uk/uksi/2024/653), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2024/653/regulation/2/i)
 
-[^key-53b51347cfa17a1514fe8c24203b50cd]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2019/8/section/11) in force at 20.5.2024 by [S.I. 2024/653](https://www.legislation.gov.uk/uksi/2024/653), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2024/653/regulation/2/j)
+[^c-53b51347cfa17a1514fe8c24203b50cd]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2019/8/section/11) in force at 20.5.2024 by [S.I. 2024/653](https://www.legislation.gov.uk/uksi/2024/653), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2024/653/regulation/2/j)

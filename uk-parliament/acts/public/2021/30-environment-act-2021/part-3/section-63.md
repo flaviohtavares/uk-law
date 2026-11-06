@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Regulations under the Environmental Protection Act 1990[^key-707077717967a3567c4fb313b0225f48]
+## 63. Regulations under the Environmental Protection Act 1990[^c-707077717967a3567c4fb313b0225f48]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-707077717967a3567c4fb313b0225f48]: Commencement: S. 63 in force at Royal Assent, see [s. 147(1)(a)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/a)
+[^c-707077717967a3567c4fb313b0225f48]: Commencement: S. 63 in force at Royal Assent, see [s. 147(1)(a)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/a)

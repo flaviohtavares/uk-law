@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 70. Procedure for section 68 orders: opposed cases[^key-70912895ea02e7bc39576461a33022e1][^key-4f549721e19b2c13c8128ece8a06a161][^key-9c4898e63549652d8b3914f6b3bd2b36][^key-2f5f0ed73ae267031cc18d32f95f44b5][^key-2f5f0ed73ae267031cc18d32f95f44b5]
+## 70. Procedure for section 68 orders: opposed cases[^c-70912895ea02e7bc39576461a33022e1][^c-4f549721e19b2c13c8128ece8a06a161][^c-9c4898e63549652d8b3914f6b3bd2b36][^c-2f5f0ed73ae267031cc18d32f95f44b5][^c-2f5f0ed73ae267031cc18d32f95f44b5]
 
 *Extent: N.I.*
 
@@ -38,10 +38,10 @@ summary: ''
 
 ## Annotations
 
-[^key-70912895ea02e7bc39576461a33022e1]: Commencement: S. 70 in operation at 1.2.2015 for specified purposes by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 2](https://www.legislation.gov.uk/nisr/2015/25/article/2)
+[^c-70912895ea02e7bc39576461a33022e1]: Commencement: S. 70 in operation at 1.2.2015 for specified purposes by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 2](https://www.legislation.gov.uk/nisr/2015/25/article/2)
 
-[^key-4f549721e19b2c13c8128ece8a06a161]: Commencement: S. 70 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 3](https://www.legislation.gov.uk/nisr/2015/25/article/3)
+[^c-4f549721e19b2c13c8128ece8a06a161]: Commencement: S. 70 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 3](https://www.legislation.gov.uk/nisr/2015/25/article/3)
 
-[^key-9c4898e63549652d8b3914f6b3bd2b36]: Modification: S. 70 applied (with modifications) (1.4.2015) by [The Planning (Control of Advertisements) Regulations (Northern Ireland) 2015 (S.R. 2015/66)](https://www.legislation.gov.uk/nisr/2015/66), [regs. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1), [16](https://www.legislation.gov.uk/nisr/2015/66/regulation/16), [Sch. 4 Pts. 1](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/part/1), [2](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/part/2)
+[^c-9c4898e63549652d8b3914f6b3bd2b36]: Modification: S. 70 applied (with modifications) (1.4.2015) by [The Planning (Control of Advertisements) Regulations (Northern Ireland) 2015 (S.R. 2015/66)](https://www.legislation.gov.uk/nisr/2015/66), [regs. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1), [16](https://www.legislation.gov.uk/nisr/2015/66/regulation/16), [Sch. 4 Pts. 1](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/part/1), [2](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/part/2)
 
-[^key-2f5f0ed73ae267031cc18d32f95f44b5]: Modification: Pt. 3 applied with modification(s) (1.4.2015) by [The Planning General Regulations (Northern Ireland) 2015 (S.R. 2015/39)](https://www.legislation.gov.uk/nisr/2015/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/39/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/39/regulation/2) (with [regs. 3-10](https://www.legislation.gov.uk/nisr/2015/39/regulation/3))
+[^c-2f5f0ed73ae267031cc18d32f95f44b5]: Modification: Pt. 3 applied with modification(s) (1.4.2015) by [The Planning General Regulations (Northern Ireland) 2015 (S.R. 2015/39)](https://www.legislation.gov.uk/nisr/2015/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/39/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/39/regulation/2) (with [regs. 3-10](https://www.legislation.gov.uk/nisr/2015/39/regulation/3))

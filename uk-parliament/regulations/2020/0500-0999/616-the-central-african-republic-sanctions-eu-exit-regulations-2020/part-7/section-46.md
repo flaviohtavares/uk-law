@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. General trade licences: inspection of records[^key-b92d8ea5ed849ec6d86a22890ec63181]
+## 46. General trade licences: inspection of records[^c-b92d8ea5ed849ec6d86a22890ec63181]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b92d8ea5ed849ec6d86a22890ec63181]: Commencement: Reg. 46 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
+[^c-b92d8ea5ed849ec6d86a22890ec63181]: Commencement: Reg. 46 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)

@@ -34,7 +34,7 @@ Regulations laid before the Assembly in accordance with section 42(2) of the Agr
 
 Agriculture
 
-The Agriculture (Student fees) (Amendment) Regulations (Northern Ireland) 2021 (revoked)[^key-12e9556df961ce342b911fd3d1f79125]
+The Agriculture (Student fees) (Amendment) Regulations (Northern Ireland) 2021 (revoked)[^c-12e9556df961ce342b911fd3d1f79125]
 
 Made
 
@@ -44,31 +44,31 @@ Coming into operation
 
 1st August 2021
 
-[^key-12e9556df961ce342b911fd3d1f79125]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-12e9556df961ce342b911fd3d1f79125]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-12e9556df961ce342b911fd3d1f79125]
+## 1. Citation and commencement[^c-12e9556df961ce342b911fd3d1f79125]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Agriculture (Student fees) Regulations (Northern Ireland) 2007[^key-12e9556df961ce342b911fd3d1f79125]
+## 2. Amendment to the Agriculture (Student fees) Regulations (Northern Ireland) 2007[^c-12e9556df961ce342b911fd3d1f79125]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to Regulation 4[^key-12e9556df961ce342b911fd3d1f79125]
+## 3. Amendment to Regulation 4[^c-12e9556df961ce342b911fd3d1f79125]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment to Regulation 5[^key-12e9556df961ce342b911fd3d1f79125]
+## 4. Amendment to Regulation 5[^c-12e9556df961ce342b911fd3d1f79125]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation[^key-12e9556df961ce342b911fd3d1f79125]
+## 5. Revocation[^c-12e9556df961ce342b911fd3d1f79125]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-12e9556df961ce342b911fd3d1f79125]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-12e9556df961ce342b911fd3d1f79125]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -92,4 +92,4 @@ Regulation 5 revokes regulation 4 and 7 of The Agriculture (Student fees) (Amend
 
 ## Annotations
 
-[^key-12e9556df961ce342b911fd3d1f79125]: Textual amendment: Regulations revoked (1.9.2022) by [The Agriculture (Student fees) Regulations (Northern Ireland) 2022 (S.R. 2022/199)](https://www.legislation.gov.uk/nisr/2022/199), [regs. 1](https://www.legislation.gov.uk/nisr/2022/199/regulation/1), [22](https://www.legislation.gov.uk/nisr/2022/199/regulation/22)
+[^c-12e9556df961ce342b911fd3d1f79125]: Textual amendment: Regulations revoked (1.9.2022) by [The Agriculture (Student fees) Regulations (Northern Ireland) 2022 (S.R. 2022/199)](https://www.legislation.gov.uk/nisr/2022/199), [regs. 1](https://www.legislation.gov.uk/nisr/2022/199/regulation/1), [22](https://www.legislation.gov.uk/nisr/2022/199/regulation/22)

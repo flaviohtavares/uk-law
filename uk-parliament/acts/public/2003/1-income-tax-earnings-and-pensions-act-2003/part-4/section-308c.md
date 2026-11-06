@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 308C. Provision of pensions advice: limited exemption[^key-d1f07b2758ab0b1ba231e31211983a5f]
+## 308C. Provision of pensions advice: limited exemption[^c-d1f07b2758ab0b1ba231e31211983a5f]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,13 +52,13 @@ if Condition A or B is met.
 
 (9) “**Relevant pension age**”, in relation to an employee, means—
 
-- (a)[^key-29bbe3d261e0c6c2a3e757bbf607d965] if any of paragraphs 22, 23, 23ZB or 23ZC of Schedule 36 to FA 2004 apply in relation to the employee, the lowest protected pension age that applies as a result of those paragraphs (in relation to the employee or, as the case may be, to sums or assets that relate to the employee), or
+- (a)[^c-29bbe3d261e0c6c2a3e757bbf607d965] if any of paragraphs 22, 23, 23ZB or 23ZC of Schedule 36 to FA 2004 apply in relation to the employee, the lowest protected pension age that applies as a result of those paragraphs (in relation to the employee or, as the case may be, to sums or assets that relate to the employee), or
 - (b) in any other case, the employee's normal minimum pension age, as defined by section 279(1) of FA 2004.
 
 (10) The “ill-health condition” is met by an employee if the employer is satisfied, on the basis of evidence provided by a registered medical practitioner, that the employee is (and will continue to be) incapable of carrying on his or her occupation because of physical or mental impairment.
 
 ## Annotations
 
-[^key-d1f07b2758ab0b1ba231e31211983a5f]: Textual amendment: [S. 308C](https://www.legislation.gov.uk/ukpga/2003/1/section/308C) inserted (with effect in accordance with s. 3(5) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 3(1)](https://www.legislation.gov.uk/ukpga/2017/32/section/3/1)
+[^c-d1f07b2758ab0b1ba231e31211983a5f]: Textual amendment: [S. 308C](https://www.legislation.gov.uk/ukpga/2003/1/section/308C) inserted (with effect in accordance with s. 3(5) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 3(1)](https://www.legislation.gov.uk/ukpga/2017/32/section/3/1)
 
-[^key-29bbe3d261e0c6c2a3e757bbf607d965]: Textual amendment: [S. 308C(9)(a)](https://www.legislation.gov.uk/ukpga/2003/1/section/308C/9/a) substituted (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 10(7)](https://www.legislation.gov.uk/ukpga/2022/3/section/10/7)
+[^c-29bbe3d261e0c6c2a3e757bbf607d965]: Textual amendment: [S. 308C(9)(a)](https://www.legislation.gov.uk/ukpga/2003/1/section/308C/9/a) substituted (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 10(7)](https://www.legislation.gov.uk/ukpga/2022/3/section/10/7)

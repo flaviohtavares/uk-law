@@ -173,368 +173,368 @@ These Regulations may be cited as the Insolvency (Scotland) Regulations 2003 and
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART II (affected by repeal, see note) (affected by repeal, see note) — COMPANIES (affected by repeal, see note) (affected by repeal, see note)[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666][^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666]
+## PART II (affected by repeal, see note) (affected by repeal, see note) — COMPANIES (affected by repeal, see note) (affected by repeal, see note)[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666][^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
-### 22. Interpretation of Part II (affected by repeal, see note) (affected by repeal, see note)[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666]
+### 22. Interpretation of Part II (affected by repeal, see note) (affected by repeal, see note)[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
-In this Part of these Regulations, references to “ *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]**the principal Rules *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]**” are references to the Insolvency (Scotland) Rules 1986 *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666] [^c5204071] and a Rule referred to by number alone means the Rule so numbered in the principal Rules. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+In this Part of these Regulations, references to “ *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]**the principal Rules *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]**” are references to the Insolvency (Scotland) Rules 1986 *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666] [^c5204071] and a Rule referred to by number alone means the Rule so numbered in the principal Rules. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
-### 23. Amendments to the principal Rules (affected by repeal, see note) (affected by repeal, see note)[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666]
+### 23. Amendments to the principal Rules (affected by repeal, see note) (affected by repeal, see note)[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
-(1) The principal Rules are amended as provided in this Part of these Regulations. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+(1) The principal Rules are amended as provided in this Part of these Regulations. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
-(2) Anything done before 8th September 2003 under or for the purposes of any provision of the principal Rules is not invalidated by the amendment of that provision by these Regulations, but it has effect as if done under or for the purposes of the provision as amended. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+(2) Anything done before 8th September 2003 under or for the purposes of any provision of the principal Rules is not invalidated by the amendment of that provision by these Regulations, but it has effect as if done under or for the purposes of the provision as amended. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
-### 24. Amendments to the principal Rules in relation to Introductory Provisions (affected by repeal, see note) (affected by repeal, see note)[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666]
+### 24. Amendments to the principal Rules in relation to Introductory Provisions (affected by repeal, see note) (affected by repeal, see note)[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
-(1) Rule 0.2 (interpretation) is amended as follows. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+(1) Rule 0.2 (interpretation) is amended as follows. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
-(2) The following expressions are inserted in paragraph (1) in the appropriate alphabetical order:– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+(2) The following expressions are inserted in paragraph (1) in the appropriate alphabetical order:– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
-- “**centre of main interests *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]**” has the same meaning as in the EC Regulation; *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-- “**EC Regulation *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]**” means Council Regulation *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666] [(EC) No. 1346/2000 *(affected by repeal, see note)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2000/1346)[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666] of 29th May 2000 on insolvency proceedings; *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-- “**establishment *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]**” has the meaning given by Article 2(h) of the EC Regulation; *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-- “**main proceedings *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]**” means proceedings opened in accordance with Article 3(1) of the EC Regulation and falling within the definition of insolvency proceedings in Article 2(a) of the EC Regulation, and *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-  - (a) in relation to England and Wales and Scotland set out in Annex A to the EC Regulation under the heading “United Kingdom”; and *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-  - (b) in relation to another member State, set out in Annex A to the EC Regulation under the heading relating to that member State; *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-- “**member State liquidator *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]**” means a person falling within the definition of liquidator in Article 2(b) of the EC Regulation appointed in proceedings to which it applies in a member State other than the United Kingdom; *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-- “**secondary proceedings *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]**” means proceedings opened in accordance with Articles 3(2) and 3(3) of the EC Regulation and falling within the definition of winding-up proceedings in Article 2(c) of the EC Regulation, and *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-  - (a) in relation to England and Wales and Scotland, set out in Annex B to the EC Regulation under the heading “United Kingdom”; and *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-  - (b) in relation to another member State, set out in Annex B to the EC Regulation under the heading relating to that member State; *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-- “**territorial proceedings *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]**” means proceedings opened in accordance with Articles 3(2) and 3(4) of the EC Regulation and falling within the definition of insolvency proceedings in Article 2(a) of the EC Regulation, and *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-  - (a) in relation to England and Wales and Scotland, set out in Annex A to the EC Regulation under the heading “United Kingdom”; and *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-  - (b) in relation to another member State, set out in Annex A to the EC Regulation under the heading relating to that member State. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+- “**centre of main interests *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]**” has the same meaning as in the EC Regulation; *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+- “**EC Regulation *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]**” means Council Regulation *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666] [(EC) No. 1346/2000 *(affected by repeal, see note)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2000/1346)[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666] of 29th May 2000 on insolvency proceedings; *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+- “**establishment *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]**” has the meaning given by Article 2(h) of the EC Regulation; *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+- “**main proceedings *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]**” means proceedings opened in accordance with Article 3(1) of the EC Regulation and falling within the definition of insolvency proceedings in Article 2(a) of the EC Regulation, and *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+  - (a) in relation to England and Wales and Scotland set out in Annex A to the EC Regulation under the heading “United Kingdom”; and *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+  - (b) in relation to another member State, set out in Annex A to the EC Regulation under the heading relating to that member State; *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+- “**member State liquidator *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]**” means a person falling within the definition of liquidator in Article 2(b) of the EC Regulation appointed in proceedings to which it applies in a member State other than the United Kingdom; *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+- “**secondary proceedings *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]**” means proceedings opened in accordance with Articles 3(2) and 3(3) of the EC Regulation and falling within the definition of winding-up proceedings in Article 2(c) of the EC Regulation, and *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+  - (a) in relation to England and Wales and Scotland, set out in Annex B to the EC Regulation under the heading “United Kingdom”; and *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+  - (b) in relation to another member State, set out in Annex B to the EC Regulation under the heading relating to that member State; *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+- “**territorial proceedings *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]**” means proceedings opened in accordance with Articles 3(2) and 3(4) of the EC Regulation and falling within the definition of insolvency proceedings in Article 2(a) of the EC Regulation, and *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+  - (a) in relation to England and Wales and Scotland, set out in Annex A to the EC Regulation under the heading “United Kingdom”; and *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+  - (b) in relation to another member State, set out in Annex A to the EC Regulation under the heading relating to that member State. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
-### 25. Amendments to principal Rules in relation to Company Voluntary Arrangements (affected by repeal, see note) (affected by repeal, see note)[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666]
+### 25. Amendments to principal Rules in relation to Company Voluntary Arrangements (affected by repeal, see note) (affected by repeal, see note)[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
-(1) In Rule 1.1(2)(d) (scope of this Part; interpretation) *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666] [^c5204081] for “5 and 6” substitute– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666] “ 5, 6, and 8 ” *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666].
+(1) In Rule 1.1(2)(d) (scope of this Part; interpretation) *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666] [^c5204081] for “5 and 6” substitute– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666] “ 5, 6, and 8 ” *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666].
 
-(2) In Rule 1.3(2) (contents of proposal) *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666] [^c5204091], at the end of sub-paragraph (o), for “; and.” substitute– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+(2) In Rule 1.3(2) (contents of proposal) *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666] [^c5204091], at the end of sub-paragraph (o), for “; and.” substitute– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
-> ; and *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> ; and *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> - (p) whether the EC Regulation will apply and, if so, whether the proceedings will be main proceedings or territorial proceedings. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> - (p) whether the EC Regulation will apply and, if so, whether the proceedings will be main proceedings or territorial proceedings. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
 .
 
-(3) In Rule 1.17(2) (report of meetings)– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+(3) In Rule 1.17(2) (report of meetings)– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
-- (a) at the end of sub-paragraph (c) omit “and”; and *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-- (b) after sub-paragraph (c) insert– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+- (a) at the end of sub-paragraph (c) omit “and”; and *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+- (b) after sub-paragraph (c) insert– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
-  > - (ca (affected by repeal, see note) (affected by repeal, see note))[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666] state whether, in the opinion of the supervisor– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-  >   - (i) the EC Regulation applies to the voluntary arrangement; and *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-  >   - (ii (affected by repeal, see note) (affected by repeal, see note))[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666] if so, whether the proceedings are main proceedings or territorial proceedings; and *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+  > - (ca (affected by repeal, see note) (affected by repeal, see note))[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666] state whether, in the opinion of the supervisor– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+  >   - (i) the EC Regulation applies to the voluntary arrangement; and *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+  >   - (ii (affected by repeal, see note) (affected by repeal, see note))[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666] if so, whether the proceedings are main proceedings or territorial proceedings; and *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
   .
 
-(4) After Rule 1.45 (implementation of the arrangement) *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666] [^c5204101] insert– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+(4) After Rule 1.45 (implementation of the arrangement) *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666] [^c5204101] insert– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
-> **CHAPTER 8 (affected by repeal, see note) (affected by repeal, see note) — EC REGULATION - CONVERSION OF VOLUNTARY ARRANGEMENT INTO WINDING UP (affected by repeal, see note) (affected by repeal, see note)[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666][^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666]**
+> **CHAPTER 8 (affected by repeal, see note) (affected by repeal, see note) — EC REGULATION - CONVERSION OF VOLUNTARY ARRANGEMENT INTO WINDING UP (affected by repeal, see note) (affected by repeal, see note)[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666][^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666]**
 >
-> **1.46. Application for conversion into winding up (affected by repeal, see note) (affected by repeal, see note)[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666]**
+> **1.46. Application for conversion into winding up (affected by repeal, see note) (affected by repeal, see note)[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666]**
 >
-> (1) Where a member State liquidator proposes to apply to the court for the conversion under Article 37 of the EC Regulation (conversion of earlier proceedings) of a voluntary arrangement into a winding up, an affidavit complying with Rule 1.47 must be prepared and sworn, and lodged in court in support of the application. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (1) Where a member State liquidator proposes to apply to the court for the conversion under Article 37 of the EC Regulation (conversion of earlier proceedings) of a voluntary arrangement into a winding up, an affidavit complying with Rule 1.47 must be prepared and sworn, and lodged in court in support of the application. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> (2) The application and the affidavit required under this Rule shall be served upon– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (2) The application and the affidavit required under this Rule shall be served upon– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> - (a) the company; and *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-> - (b) the supervisor. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> - (a) the company; and *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+> - (b) the supervisor. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> **1.47. Contents of affidavit (affected by repeal, see note) (affected by repeal, see note)[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666]**
+> **1.47. Contents of affidavit (affected by repeal, see note) (affected by repeal, see note)[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666]**
 >
-> (1) The affidavit shall state– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (1) The affidavit shall state– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> - (a) that main proceedings have been opened in relation to the company in a member State other than the United Kingdom; *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-> - (b) the deponent’s belief that the conversion of the voluntary arrangement into a winding up would prove to be in the interests of the creditors in the main proceedings; *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-> - (c) the deponent’s opinion as to whether the company ought to enter voluntary winding up or be wound up by the court; and *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-> - (d) all other matters that, in the opinion of the member State liquidator, would assist the court– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
->   - (i) in deciding whether to make such an order, and *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
->   - (ii (affected by repeal, see note) (affected by repeal, see note))[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666] if the court were to do so, in considering the need for any consequential provision that would be necessary or desirable. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> - (a) that main proceedings have been opened in relation to the company in a member State other than the United Kingdom; *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+> - (b) the deponent’s belief that the conversion of the voluntary arrangement into a winding up would prove to be in the interests of the creditors in the main proceedings; *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+> - (c) the deponent’s opinion as to whether the company ought to enter voluntary winding up or be wound up by the court; and *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+> - (d) all other matters that, in the opinion of the member State liquidator, would assist the court– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+>   - (i) in deciding whether to make such an order, and *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+>   - (ii (affected by repeal, see note) (affected by repeal, see note))[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666] if the court were to do so, in considering the need for any consequential provision that would be necessary or desirable. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> (2) An affidavit under this Rule shall be sworn by, or on behalf of, the member State liquidator. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (2) An affidavit under this Rule shall be sworn by, or on behalf of, the member State liquidator. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> **1.48. Power of court (affected by repeal, see note) (affected by repeal, see note)[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666]**
+> **1.48. Power of court (affected by repeal, see note) (affected by repeal, see note)[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666]**
 >
-> (1) On hearing the application for conversion into winding up, the court may make such order as it thinks fit. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (1) On hearing the application for conversion into winding up, the court may make such order as it thinks fit. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> (2) If the court makes an order for conversion into winding up, the order may contain all such consequential provisions as the court deems necessary or desirable. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (2) If the court makes an order for conversion into winding up, the order may contain all such consequential provisions as the court deems necessary or desirable. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> (3) Without prejudice to the generality of paragraph (1), an order under that paragraph may provide that the company be wound up as if a resolution for voluntary winding up under section 84 were passed on the day on which the order is made. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (3) Without prejudice to the generality of paragraph (1), an order under that paragraph may provide that the company be wound up as if a resolution for voluntary winding up under section 84 were passed on the day on which the order is made. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> (4) Where the court makes an order for conversion into winding up under paragraph (1), any expenses properly incurred as expenses of the administration of the voluntary arrangement in question shall be a first charge on the company’s assets. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (4) Where the court makes an order for conversion into winding up under paragraph (1), any expenses properly incurred as expenses of the administration of the voluntary arrangement in question shall be a first charge on the company’s assets. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> **CHAPTER 9 (affected by repeal, see note) (affected by repeal, see note) — EC REGULATION - MEMBER STATE LIQUIDATOR (affected by repeal, see note) (affected by repeal, see note)[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666][^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666]**
+> **CHAPTER 9 (affected by repeal, see note) (affected by repeal, see note) — EC REGULATION - MEMBER STATE LIQUIDATOR (affected by repeal, see note) (affected by repeal, see note)[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666][^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666]**
 >
-> **1.49. Notice to member State liquidator (affected by repeal, see note) (affected by repeal, see note)[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666]**
+> **1.49. Notice to member State liquidator (affected by repeal, see note) (affected by repeal, see note)[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666]**
 >
-> (1) This Rule applies where a member State liquidator has been appointed in relation to the company. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (1) This Rule applies where a member State liquidator has been appointed in relation to the company. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> (2) Where the supervisor is obliged to give notice to, or provide a copy of a document (including an order of court) to, the court or the registrar of companies, the supervisor shall give notice or provide a copy, as appropriate, to the member State liquidator. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (2) Where the supervisor is obliged to give notice to, or provide a copy of a document (including an order of court) to, the court or the registrar of companies, the supervisor shall give notice or provide a copy, as appropriate, to the member State liquidator. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> (3) Paragraph (2) is without prejudice to the generality of the obligations imposed by Article 31 of the EC Regulation (duty to co operate and communicate information). *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (3) Paragraph (2) is without prejudice to the generality of the obligations imposed by Article 31 of the EC Regulation (duty to co operate and communicate information). *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
 .
 
-### 26. Amendments to the principal Rules in relation to Administration (affected by repeal, see note) (affected by repeal, see note)[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666]
+### 26. Amendments to the principal Rules in relation to Administration (affected by repeal, see note) (affected by repeal, see note)[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
-(1) In Rule 2.7(1) (statement to be annexed to proposals)– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+(1) In Rule 2.7(1) (statement to be annexed to proposals)– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
-- (a) at the end of sub-paragraph (f) *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666] [^c5204111] omit “and”; and *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-- (b) after sub-paragraph (f) insert– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+- (a) at the end of sub-paragraph (f) *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666] [^c5204111] omit “and”; and *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+- (b) after sub-paragraph (f) insert– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
-  > - (fa (affected by repeal, see note) (affected by repeal, see note))[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666] whether– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-  > - (i) the EC Regulation applies; and *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-  >   - (ii (affected by repeal, see note) (affected by repeal, see note))[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666] if so, whether the proceedings are main proceedings or territorial proceedings; and *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+  > - (fa (affected by repeal, see note) (affected by repeal, see note))[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666] whether– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+  > - (i) the EC Regulation applies; and *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+  >   - (ii (affected by repeal, see note) (affected by repeal, see note))[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666] if so, whether the proceedings are main proceedings or territorial proceedings; and *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
   .
 
-(2) After Rule 2.9 (general) insert– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+(2) After Rule 2.9 (general) insert– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
-> **2.9A. Applicable law (affected by repeal, see note) (affected by repeal, see note)[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666]**
+> **2.9A. Applicable law (affected by repeal, see note) (affected by repeal, see note)[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666]**
 >
-> (1) Rule 2.9 does not apply where the laws of a member State (and not the law of Scotland) apply in relation to the conduct of the meeting. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (1) Rule 2.9 does not apply where the laws of a member State (and not the law of Scotland) apply in relation to the conduct of the meeting. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> (2) Where this Rule applies, subject as above, the meeting shall be summoned and conducted in accordance with the constitution of the company and the laws of the member State referred to in paragraph (1) above shall apply to the conduct of the meeting. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (2) Where this Rule applies, subject as above, the meeting shall be summoned and conducted in accordance with the constitution of the company and the laws of the member State referred to in paragraph (1) above shall apply to the conduct of the meeting. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> **2.9B. Entitlement to vote (affected by repeal, see note) (affected by repeal, see note)[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666]**
+> **2.9B. Entitlement to vote (affected by repeal, see note) (affected by repeal, see note)[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666]**
 >
-> (1) No vote shall be cast by virtue of a claim more than once on any resolution put to the meeting. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (1) No vote shall be cast by virtue of a claim more than once on any resolution put to the meeting. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> (2) Where– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (2) Where– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> - (a) a creditor is entitled to vote under this Rule, *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-> - (b) has lodged his claim in one or more sets of other proceedings; and *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-> - (c) votes (either in person or by proxy) on a resolution put to the meeting, *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> - (a) a creditor is entitled to vote under this Rule, *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+> - (b) has lodged his claim in one or more sets of other proceedings; and *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+> - (c) votes (either in person or by proxy) on a resolution put to the meeting, *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> only the creditor’s vote shall be counted. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> only the creditor’s vote shall be counted. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> (3) Where– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (3) Where– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> - (a) a creditor has lodged his claim in more than one set of other proceedings, and *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-> - (b) more than one member State liquidator seeks to vote by virtue of that claim, *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> - (a) a creditor has lodged his claim in more than one set of other proceedings, and *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+> - (b) more than one member State liquidator seeks to vote by virtue of that claim, *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> the entitlement to vote by virtue of that claim is exercisable by the member State liquidator in main proceedings, whether or not the creditor has lodged his claim in the main proceedings. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> the entitlement to vote by virtue of that claim is exercisable by the member State liquidator in main proceedings, whether or not the creditor has lodged his claim in the main proceedings. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> (4) For the purposes of paragraph (1), the claim of a creditor and of any member State liquidator in relation to the same debt are a single claim. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (4) For the purposes of paragraph (1), the claim of a creditor and of any member State liquidator in relation to the same debt are a single claim. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> (5) For the purposes of paragraphs (2) and (3), “other proceedings mean main proceedings or territorial proceedings in another member State. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-
-.
-
-(3) In Rule 2.18 (resignation from office), after paragraph (3) insert– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-
-> (4) Where the administrator gives notice under paragraph (3), he must also give notice to a member State liquidator, if such a person has been appointed in relation to the company. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (5) For the purposes of paragraphs (2) and (3), “other proceedings mean main proceedings or territorial proceedings in another member State. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
 .
 
-(4) After Rule 2.21 (VAT Bad Debt relief – application of provisions in Part 3 (Receivers)) insert– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+(3) In Rule 2.18 (resignation from office), after paragraph (3) insert– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
-> **CHAPTER 7 (affected by repeal, see note) (affected by repeal, see note) — EC REGULATION - CONVERSION OF ADMINISTRATION INTO WINDING UP (affected by repeal, see note) (affected by repeal, see note)[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666][^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666]**
->
-> **2.22. Application for conversion into winding up (affected by repeal, see note) (affected by repeal, see note)[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666]**
->
-> (1) Where a member State liquidator proposes to apply to the court for the conversion under Article 37 of the EC Regulation (conversion of earlier proceedings) of an administration into a winding up, an affidavit complying with Rule 2.23 must be prepared and sworn, and lodged in court in support of the application. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
->
-> (2) The application and the affidavit required under this Rule shall be served upon– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
->
-> - (a) the company; and *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-> - (b) the administrator. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
->
-> **2.23. Contents of affidavit (affected by repeal, see note) (affected by repeal, see note)[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666]**
->
-> (1) The affidavit shall state– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
->
-> - (a) that main proceedings have been opened in relation to the company in a member State other than the United Kingdom; *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-> - (b) the deponent’s belief that the conversion of the administration into a winding up would prove to be in the interests of the creditors in the main proceedings; *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-> - (c) the deponent’s opinion as to whether the company ought to enter voluntary winding up or be wound up by the court; and *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-> - (d) all other matters that, in the opinion of the member State liquidator, would assist the court– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
->   - (i) in deciding whether to make such an order, and *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
->   - (ii (affected by repeal, see note) (affected by repeal, see note))[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666] if the court were to do so, in considering the need for any consequential provision that would be necessary or desirable. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
->
-> (2) An affidavit under this Rule shall be sworn by, or on behalf of, the member State liquidator. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
->
-> **2.24. Power of court (affected by repeal, see note) (affected by repeal, see note)[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666]**
->
-> (1) On hearing the application for conversion into winding up, the court may make such order as it thinks fit. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
->
-> (2) If the court makes an order for conversion into winding up, the order may contain all such consequential provisions as the court deems necessary or desirable. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
->
-> (3) Without prejudice to the generality of paragraph (1), an order under that paragraph may provide that the company be wound up as if a resolution for voluntary winding up under section 84 were passed on the day on which the order is made. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
->
-> **CHAPTER 8 (affected by repeal, see note) (affected by repeal, see note) — EC REGULATION - MEMBER STATE LIQUIDATOR (affected by repeal, see note) (affected by repeal, see note)[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666][^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666]**
->
-> **2.25. Interpretation of creditor and notice to member State liquidator (affected by repeal, see note) (affected by repeal, see note)[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666]**
->
-> (1) This Rule applies where a member State liquidator has been appointed in relation to the company. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
->
-> (2) For the purposes of the Rules referred to in paragraph (3) the member State liquidator is deemed to be a creditor. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
->
-> (3) The Rules referred to in paragraph (2) are– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
->
-> - (a) Rule 2.10(1); *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-> - (b) Rule 2.11; *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-> - (c) Rule 2.12; and *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-> - (d) Rule 2.14. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
->
-> (4) For the purposes of the application by Rule 2.15 of Rule 3.4 with regard to a creditors' committee in an administration, the member State liquidator is deemed to be a creditor. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
->
-> (5) For the purposes of the application by Rule 2.9 of Rule 7.9(3) insofar as– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
->
-> - (a) Rule 7.9(3) applies Rules 4.15 and 4.16; and *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-> - (b) by virtue of its application by Rule 7.9(3), Rule 4.16 applies section 49 of the Bankruptcy Act, *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
->
-> the member State liquidator is deemed to be a creditor. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
->
-> (6) For the purposes of the application by Rule 2.15 of Chapter 3 of Part 3 and the application by Rule 3.6 of Rules 4.50(b) and 4.52(3), the member State liquidator is deemed to be a creditor. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
->
-> (7) For the purposes of the application by Rule 2.16 of Rule 4.34(3), the member State liquidator is deemed to be a creditor. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
->
-> (8) Paragraphs (2) to (7) are without prejudice to the generality of the right to participate referred to in paragraph 3 of Article 32 of the EC Regulation (exercise of creditors' rights). *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
->
-> (9) Where the administrator is obliged to give notice to, or provide a copy of a document (including an order of court) to, the court or the registrar of companies, the administrator shall give notice or provide copies, as the case may be, to the member State liquidator. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
->
-> (10) Paragraph (9) is without prejudice to the generality of the obligations imposed by Article 31 of the EC Regulation (duty to co operate and communicate information). *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (4) Where the administrator gives notice under paragraph (3), he must also give notice to a member State liquidator, if such a person has been appointed in relation to the company. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
 .
 
-### 27. Amendments to the principal Rules in relation to Companies Winding up (affected by repeal, see note) (affected by repeal, see note)[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666]
+(4) After Rule 2.21 (VAT Bad Debt relief – application of provisions in Part 3 (Receivers)) insert– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
-(1) In Rule 4.15 (submission of claims)– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> **CHAPTER 7 (affected by repeal, see note) (affected by repeal, see note) — EC REGULATION - CONVERSION OF ADMINISTRATION INTO WINDING UP (affected by repeal, see note) (affected by repeal, see note)[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666][^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666]**
+>
+> **2.22. Application for conversion into winding up (affected by repeal, see note) (affected by repeal, see note)[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666]**
+>
+> (1) Where a member State liquidator proposes to apply to the court for the conversion under Article 37 of the EC Regulation (conversion of earlier proceedings) of an administration into a winding up, an affidavit complying with Rule 2.23 must be prepared and sworn, and lodged in court in support of the application. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+>
+> (2) The application and the affidavit required under this Rule shall be served upon– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+>
+> - (a) the company; and *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+> - (b) the administrator. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+>
+> **2.23. Contents of affidavit (affected by repeal, see note) (affected by repeal, see note)[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666]**
+>
+> (1) The affidavit shall state– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+>
+> - (a) that main proceedings have been opened in relation to the company in a member State other than the United Kingdom; *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+> - (b) the deponent’s belief that the conversion of the administration into a winding up would prove to be in the interests of the creditors in the main proceedings; *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+> - (c) the deponent’s opinion as to whether the company ought to enter voluntary winding up or be wound up by the court; and *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+> - (d) all other matters that, in the opinion of the member State liquidator, would assist the court– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+>   - (i) in deciding whether to make such an order, and *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+>   - (ii (affected by repeal, see note) (affected by repeal, see note))[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666] if the court were to do so, in considering the need for any consequential provision that would be necessary or desirable. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+>
+> (2) An affidavit under this Rule shall be sworn by, or on behalf of, the member State liquidator. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+>
+> **2.24. Power of court (affected by repeal, see note) (affected by repeal, see note)[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666]**
+>
+> (1) On hearing the application for conversion into winding up, the court may make such order as it thinks fit. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+>
+> (2) If the court makes an order for conversion into winding up, the order may contain all such consequential provisions as the court deems necessary or desirable. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+>
+> (3) Without prejudice to the generality of paragraph (1), an order under that paragraph may provide that the company be wound up as if a resolution for voluntary winding up under section 84 were passed on the day on which the order is made. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+>
+> **CHAPTER 8 (affected by repeal, see note) (affected by repeal, see note) — EC REGULATION - MEMBER STATE LIQUIDATOR (affected by repeal, see note) (affected by repeal, see note)[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666][^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666]**
+>
+> **2.25. Interpretation of creditor and notice to member State liquidator (affected by repeal, see note) (affected by repeal, see note)[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666]**
+>
+> (1) This Rule applies where a member State liquidator has been appointed in relation to the company. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+>
+> (2) For the purposes of the Rules referred to in paragraph (3) the member State liquidator is deemed to be a creditor. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+>
+> (3) The Rules referred to in paragraph (2) are– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+>
+> - (a) Rule 2.10(1); *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+> - (b) Rule 2.11; *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+> - (c) Rule 2.12; and *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+> - (d) Rule 2.14. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+>
+> (4) For the purposes of the application by Rule 2.15 of Rule 3.4 with regard to a creditors' committee in an administration, the member State liquidator is deemed to be a creditor. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+>
+> (5) For the purposes of the application by Rule 2.9 of Rule 7.9(3) insofar as– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+>
+> - (a) Rule 7.9(3) applies Rules 4.15 and 4.16; and *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+> - (b) by virtue of its application by Rule 7.9(3), Rule 4.16 applies section 49 of the Bankruptcy Act, *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+>
+> the member State liquidator is deemed to be a creditor. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+>
+> (6) For the purposes of the application by Rule 2.15 of Chapter 3 of Part 3 and the application by Rule 3.6 of Rules 4.50(b) and 4.52(3), the member State liquidator is deemed to be a creditor. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+>
+> (7) For the purposes of the application by Rule 2.16 of Rule 4.34(3), the member State liquidator is deemed to be a creditor. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+>
+> (8) Paragraphs (2) to (7) are without prejudice to the generality of the right to participate referred to in paragraph 3 of Article 32 of the EC Regulation (exercise of creditors' rights). *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+>
+> (9) Where the administrator is obliged to give notice to, or provide a copy of a document (including an order of court) to, the court or the registrar of companies, the administrator shall give notice or provide copies, as the case may be, to the member State liquidator. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+>
+> (10) Paragraph (9) is without prejudice to the generality of the obligations imposed by Article 31 of the EC Regulation (duty to co operate and communicate information). *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
-- (a) for paragraph (5) substitute– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+.
 
-  > (5) Votes are calculated according to the amount of– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-  >
-  > - (a) a creditor’s debt as at the date of the commencement of the winding up within the meaning of section 129, deducting any amount paid in respect of that debt after that date; or *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-  > - (b) in relation to a member State liquidator, the debt claimed to be due to creditors in proceedings in relation to which he holds office. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+### 27. Amendments to the principal Rules in relation to Companies Winding up (affected by repeal, see note) (affected by repeal, see note)[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
-  ; and *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-- (b) after paragraph (5) insert– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+(1) In Rule 4.15 (submission of claims)– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
-  > (5A) No vote shall be cast by virtue of a debt more than once on any resolution put to the meeting. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+- (a) for paragraph (5) substitute– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+
+  > (5) Votes are calculated according to the amount of– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
   >
-  > (5B) Where a creditor– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+  > - (a) a creditor’s debt as at the date of the commencement of the winding up within the meaning of section 129, deducting any amount paid in respect of that debt after that date; or *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+  > - (b) in relation to a member State liquidator, the debt claimed to be due to creditors in proceedings in relation to which he holds office. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+
+  ; and *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+- (b) after paragraph (5) insert– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+
+  > (5A) No vote shall be cast by virtue of a debt more than once on any resolution put to the meeting. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
   >
-  > - (a) is entitled to vote under this Rule (as read with Rule 7.9); *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-  > - (b) has lodged his claim in one or more sets of other proceedings; and *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-  > - (c) votes (either in person or by proxy) on a resolution put to the meeting, *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+  > (5B) Where a creditor– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
   >
-  > only the creditor’s vote shall be counted. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+  > - (a) is entitled to vote under this Rule (as read with Rule 7.9); *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+  > - (b) has lodged his claim in one or more sets of other proceedings; and *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+  > - (c) votes (either in person or by proxy) on a resolution put to the meeting, *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
   >
-  > (5C) Where– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+  > only the creditor’s vote shall be counted. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
   >
-  > - (a) a creditor has lodged his claim in more than one set of other proceedings; and *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-  > - (b) more than one member State liquidator seeks to vote by virtue of that claim, *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+  > (5C) Where– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
   >
-  > the entitlement to vote by virtue of that claim is exercisable by the member State liquidator in main proceedings, whether or not the creditor has lodged his claim in the main proceedings. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+  > - (a) a creditor has lodged his claim in more than one set of other proceedings; and *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+  > - (b) more than one member State liquidator seeks to vote by virtue of that claim, *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
   >
-  > (5D) For the purposes of paragraphs (5B) and (5C), “ *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]**other proceedings *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]**” means main proceedings, secondary proceedings or territorial proceedings in another member State. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+  > the entitlement to vote by virtue of that claim is exercisable by the member State liquidator in main proceedings, whether or not the creditor has lodged his claim in the main proceedings. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+  >
+  > (5D) For the purposes of paragraphs (5B) and (5C), “ *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]**other proceedings *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]**” means main proceedings, secondary proceedings or territorial proceedings in another member State. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
   .
 
-(2) In Rule 4.68 (application of the Bankruptcy Act)– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+(2) In Rule 4.68 (application of the Bankruptcy Act)– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
-- (a) in paragraph (2), delete “and” at the end of sub-paragraph (b); and *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-- (b) at the end of paragraph (2)(c) insert– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+- (a) in paragraph (2), delete “and” at the end of sub-paragraph (b); and *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+- (b) at the end of paragraph (2)(c) insert– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
-  > ; and *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+  > ; and *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
   >
-  > - (d) for subsection (11) substitute– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+  > - (d) for subsection (11) substitute– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
   >
-  > (“(11)) Subject to any notification by the person entitled to a dividend given to the liquidator that he wishes the dividend to be paid to another person, or that he has assigned his entitlement to another person, where both a creditor and a member State liquidator have had a claim accepted in relation to the same debt, payment shall only be made to the creditor. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+  > (“(11)) Subject to any notification by the person entitled to a dividend given to the liquidator that he wishes the dividend to be paid to another person, or that he has assigned his entitlement to another person, where both a creditor and a member State liquidator have had a claim accepted in relation to the same debt, payment shall only be made to the creditor. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
   .
 
-(3) After Rule 4.82 (leave to act as director – third excepted case) insert– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+(3) After Rule 4.82 (leave to act as director – third excepted case) insert– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
-> **CHAPTER 14 (affected by repeal, see note) (affected by repeal, see note) — EC REGULATION - MEMBER STATE LIQUIDATOR (affected by repeal, see note) (affected by repeal, see note)[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666][^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666]**
+> **CHAPTER 14 (affected by repeal, see note) (affected by repeal, see note) — EC REGULATION - MEMBER STATE LIQUIDATOR (affected by repeal, see note) (affected by repeal, see note)[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666][^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666]**
 >
-> **4.83. Interpretation of creditor and notice to member State liquidator (affected by repeal, see note) (affected by repeal, see note)[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666]**
+> **4.83. Interpretation of creditor and notice to member State liquidator (affected by repeal, see note) (affected by repeal, see note)[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666]**
 >
-> (1) This Rule applies where a member State liquidator has been appointed in relation to the company. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (1) This Rule applies where a member State liquidator has been appointed in relation to the company. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> (2) For the purposes of the provisions referred to in paragraph (3) the member State liquidator is deemed to be a creditor. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (2) For the purposes of the provisions referred to in paragraph (3) the member State liquidator is deemed to be a creditor. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> (3) The provisions referred to in paragraph (2) are– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (3) The provisions referred to in paragraph (2) are– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> - (a) Rules 4.10(1) (report to creditors and contributories), 4.10(3) (summary of statement of affairs), 4.13 (other meetings of creditors), 4.15 (submission of claims), 4.17 (claims in foreign currency), 4.18(4) (appointment of liquidator by court), 4.23(2) and (4) (summoning of meeting for removal of liquidator), 4.31 (final meeting), 4.35 (creditors' claim that remuneration is excessive), 4.41(1), (2) and (3) (membership of liquidation committee), 4.52(3) (vacancy (creditor members)), 4.62(1) (membership of committee), 4.74 (notice of order for public examination), 7.3 (notice of meeting) (insofar as it applies to a notice of meeting of creditors under section 138(3) or (4) for the purposes of rule 4.12 and to a meeting requisitioned under rule 7.6 insofar as it applies in a winding up by the court), 7.6(2) (meetings requisitioned) (insofar as it applies in a winding up by the court) and 7.9 (entitlement to vote (creditors)) (insofar as it applies in a winding up by the court); and *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-> - (b) sections 48(5), (6) and (8) and 49 of the Bankruptcy Act as applied by Rule 4.16 and section 52(3) of that Act as applied by rule 4.68(1). *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> - (a) Rules 4.10(1) (report to creditors and contributories), 4.10(3) (summary of statement of affairs), 4.13 (other meetings of creditors), 4.15 (submission of claims), 4.17 (claims in foreign currency), 4.18(4) (appointment of liquidator by court), 4.23(2) and (4) (summoning of meeting for removal of liquidator), 4.31 (final meeting), 4.35 (creditors' claim that remuneration is excessive), 4.41(1), (2) and (3) (membership of liquidation committee), 4.52(3) (vacancy (creditor members)), 4.62(1) (membership of committee), 4.74 (notice of order for public examination), 7.3 (notice of meeting) (insofar as it applies to a notice of meeting of creditors under section 138(3) or (4) for the purposes of rule 4.12 and to a meeting requisitioned under rule 7.6 insofar as it applies in a winding up by the court), 7.6(2) (meetings requisitioned) (insofar as it applies in a winding up by the court) and 7.9 (entitlement to vote (creditors)) (insofar as it applies in a winding up by the court); and *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+> - (b) sections 48(5), (6) and (8) and 49 of the Bankruptcy Act as applied by Rule 4.16 and section 52(3) of that Act as applied by rule 4.68(1). *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> (4) Paragraphs (2) and (3) are without prejudice to the generality of the right to participate referred to in paragraph 3 of Article 32 of the EC Regulation (exercise of creditors' rights). *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (4) Paragraphs (2) and (3) are without prejudice to the generality of the right to participate referred to in paragraph 3 of Article 32 of the EC Regulation (exercise of creditors' rights). *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> (5) Where the liquidator is obliged to give notice to, or provide a copy of a document (including an order of court) to, the court or the registrar of companies, the liquidator shall give notice or provide copies, as the case may be, to the member State liquidator. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (5) Where the liquidator is obliged to give notice to, or provide a copy of a document (including an order of court) to, the court or the registrar of companies, the liquidator shall give notice or provide copies, as the case may be, to the member State liquidator. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> (6) Paragraph (5) is without prejudice to the generality of the obligations imposed by Article 31 of the EC Regulation (duty to co operate and communicate information). *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (6) Paragraph (5) is without prejudice to the generality of the obligations imposed by Article 31 of the EC Regulation (duty to co operate and communicate information). *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> **CHAPTER 15 (affected by repeal, see note) (affected by repeal, see note) — EC REGULATION - CREDITORS' VOLUNTARY WINDING UP - CONFIRMATION BY THE COURT (affected by repeal, see note) (affected by repeal, see note)[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666][^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666]**
+> **CHAPTER 15 (affected by repeal, see note) (affected by repeal, see note) — EC REGULATION - CREDITORS' VOLUNTARY WINDING UP - CONFIRMATION BY THE COURT (affected by repeal, see note) (affected by repeal, see note)[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666][^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666]**
 >
-> **4.84. Application for confirmation (affected by repeal, see note) (affected by repeal, see note)[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666]**
+> **4.84. Application for confirmation (affected by repeal, see note) (affected by repeal, see note)[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666]**
 >
-> (1) Where a company has passed a resolution for voluntary winding up, and no declaration under section 89 has been made, the liquidator may apply to the court for an order confirming the creditors' voluntary winding up for the purposes of the EC Regulation. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (1) Where a company has passed a resolution for voluntary winding up, and no declaration under section 89 has been made, the liquidator may apply to the court for an order confirming the creditors' voluntary winding up for the purposes of the EC Regulation. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> (2) The application shall be in writing in the form required by Rule 7.30 and Schedule 5 and verified by affidavit by the liquidator (using the same form) and shall state— *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (2) The application shall be in writing in the form required by Rule 7.30 and Schedule 5 and verified by affidavit by the liquidator (using the same form) and shall state— *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> - (a) the name of the applicant; *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-> - (b) the name of the company and its registered number; *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-> - (c) the date on which the resolution for voluntary winding up was passed; *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-> - (d) that the application is accompanied by all of the documents required under paragraph (3) which are true copies of the documents required; and *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-> - (e) that the EC Regulation will apply to the company and whether the proceedings will be main proceedings, territorial proceedings or secondary proceedings. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> - (a) the name of the applicant; *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+> - (b) the name of the company and its registered number; *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+> - (c) the date on which the resolution for voluntary winding up was passed; *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+> - (d) that the application is accompanied by all of the documents required under paragraph (3) which are true copies of the documents required; and *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+> - (e) that the EC Regulation will apply to the company and whether the proceedings will be main proceedings, territorial proceedings or secondary proceedings. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> (3) The liquidator shall lodge in court two copies of the application, together with one copy of the following:– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (3) The liquidator shall lodge in court two copies of the application, together with one copy of the following:– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> - (a) the resolution for voluntary winding up referred to by section 84(3); *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-> - (b) evidence of his appointment as liquidator of the company; and *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-> - (c) the statement of affairs required under section 99. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> - (a) the resolution for voluntary winding up referred to by section 84(3); *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+> - (b) evidence of his appointment as liquidator of the company; and *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+> - (c) the statement of affairs required under section 99. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> (4) It shall not be necessary to serve the application on, or give notice of it to, any person. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (4) It shall not be necessary to serve the application on, or give notice of it to, any person. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> (5) On an application under this Rule the court may confirm the creditors' voluntary winding up. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (5) On an application under this Rule the court may confirm the creditors' voluntary winding up. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> (6) If the court confirms the creditor’s voluntary winding up it may do so without a hearing. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (6) If the court confirms the creditor’s voluntary winding up it may do so without a hearing. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> (7) This Rule applies in relation to a UK insurer (within the meaning of the Insurers (Reorganisation and Winding Up) Regulations 2003 *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666] [^c5204121]) with the modification specified in paragraph (8) below. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (7) This Rule applies in relation to a UK insurer (within the meaning of the Insurers (Reorganisation and Winding Up) Regulations 2003 *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666] [^c5204121]) with the modification specified in paragraph (8) below. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> (8) For the purposes of paragraph (7), this Rule has effect as if there were substituted for paragraph (1) above– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (8) For the purposes of paragraph (7), this Rule has effect as if there were substituted for paragraph (1) above– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> > (1) Where a UK Insurer (within the meaning of the Insurers (Reorganisation and Winding Up) Regulations 2003) has passed a resolution for voluntary winding up, and no declaration under section 89 has been made, the liquidator may apply to court for an order confirming the creditors' voluntary winding up for the purposes of Articles 9 and 27 of Directive *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666] [2001/17/EC *(affected by repeal, see note)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2001/0017)[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666] of the European Parliament and of the Council of 19th March 2001 on the reorganisation and winding up of insurance undertakings *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666] [^c5204131].
+> > (1) Where a UK Insurer (within the meaning of the Insurers (Reorganisation and Winding Up) Regulations 2003) has passed a resolution for voluntary winding up, and no declaration under section 89 has been made, the liquidator may apply to court for an order confirming the creditors' voluntary winding up for the purposes of Articles 9 and 27 of Directive *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666] [2001/17/EC *(affected by repeal, see note)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2001/0017)[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666] of the European Parliament and of the Council of 19th March 2001 on the reorganisation and winding up of insurance undertakings *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666] [^c5204131].
 >
 > .
 >
-> **4.85. Notice to member State liquidator and creditors in member States (affected by repeal, see note) (affected by repeal, see note)[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666]**
+> **4.85. Notice to member State liquidator and creditors in member States (affected by repeal, see note) (affected by repeal, see note)[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666]**
 >
-> Where the court has confirmed the creditors' voluntary winding up, the liquidator shall forthwith give notice– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> Where the court has confirmed the creditors' voluntary winding up, the liquidator shall forthwith give notice– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> - (a) if there is a member State liquidator in relation to the company, to the member State liquidator; *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
-> - (b) in accordance with Article 40 of the EC Regulation (duty to inform creditors). *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> - (a) if there is a member State liquidator in relation to the company, to the member State liquidator; *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
+> - (b) in accordance with Article 40 of the EC Regulation (duty to inform creditors). *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
 .
 
-### 28. Amendment to the principal Rules in relation to Part 7 (provisions of general application) (affected by repeal, see note) (affected by repeal, see note)[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666]
+### 28. Amendment to the principal Rules in relation to Part 7 (provisions of general application) (affected by repeal, see note) (affected by repeal, see note)[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
-(1) After Rule 7.20 (representation of corporations) insert– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+(1) After Rule 7.20 (representation of corporations) insert– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
-> **7.20A. Interpretation of creditor (affected by repeal, see note) (affected by repeal, see note)[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666]**
+> **7.20A. Interpretation of creditor (affected by repeal, see note) (affected by repeal, see note)[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666]**
 >
-> (1) This Rule applies where a member State liquidator has been appointed in relation to a person subject to insolvency proceedings. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (1) This Rule applies where a member State liquidator has been appointed in relation to a person subject to insolvency proceedings. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> (2) For the purposes of the Rule 7.18(1) (right of inspection of proxies) a member State liquidator appointed in main proceedings is deemed to be a creditor. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (2) For the purposes of the Rule 7.18(1) (right of inspection of proxies) a member State liquidator appointed in main proceedings is deemed to be a creditor. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 >
-> (3) Paragraph (2) is without prejudice to the generality of the right to participate referred to in paragraph 3 of Article 32 of the EC Regulation (exercise of creditors' rights). *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (3) Paragraph (2) is without prejudice to the generality of the right to participate referred to in paragraph 3 of Article 32 of the EC Regulation (exercise of creditors' rights). *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
 .
 
-(2) After rule 7.26(2) (right to have list of creditors) insert– *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+(2) After rule 7.26(2) (right to have list of creditors) insert– *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
-> (2A) For the purpose of this Rule a member State liquidator appointed in main proceedings in relation to a person is deemed to be a creditor. *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+> (2A) For the purpose of this Rule a member State liquidator appointed in main proceedings in relation to a person is deemed to be a creditor. *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
 .
 
-### 29. Forms (affected by repeal, see note) (affected by repeal, see note)[^key-af9128c788e89f6b2b564296a4b106c0][^key-7d3c11d33aec3428c9a0d6a823dd4666]
+### 29. Forms (affected by repeal, see note) (affected by repeal, see note)[^c-af9128c788e89f6b2b564296a4b106c0][^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
-(1) The form 4.7 (Scot) (Statement of Claim by Creditor) contained in Part I of Schedule 2 to these Regulations shall be substituted for the form bearing that number in Schedule 5 to the principal Rules (Forms). *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+(1) The form 4.7 (Scot) (Statement of Claim by Creditor) contained in Part I of Schedule 2 to these Regulations shall be substituted for the form bearing that number in Schedule 5 to the principal Rules (Forms). *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
-(2) The form contained in Part II of Schedule 2 to these Regulations shall be added to Schedule 5 to the principal Rules as Form 4.30 (Scot). *(affected by repeal, see note)*[^key-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^key-7d3c11d33aec3428c9a0d6a823dd4666]
+(2) The form contained in Part II of Schedule 2 to these Regulations shall be added to Schedule 5 to the principal Rules as Form 4.30 (Scot). *(affected by repeal, see note)*[^c-af9128c788e89f6b2b564296a4b106c0] *(affected by repeal, see note)*[^c-7d3c11d33aec3428c9a0d6a823dd4666]
 
 NIGEL GRIFFITHS
 
@@ -560,7 +560,7 @@ Regulation 21
 
 Regulation 29
 
-### PART I (affected by repeal, see note) (affected by repeal, see note)[^key-97e1cdfcbd2638774e5c277010863d9e][^key-12b0fee6397a1aed68d5e5072ec2483d]
+### PART I (affected by repeal, see note) (affected by repeal, see note)[^c-97e1cdfcbd2638774e5c277010863d9e][^c-12b0fee6397a1aed68d5e5072ec2483d]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2003/2109/images/uksi_20032109_en_sld_003)
 
@@ -568,7 +568,7 @@ Regulation 29
 
 [image: see source](https://www.legislation.gov.uk/uksi/2003/2109/images/uksi_20032109_en_sld_005)
 
-### PART II (affected by repeal, see note) (affected by repeal, see note)[^key-97e1cdfcbd2638774e5c277010863d9e][^key-12b0fee6397a1aed68d5e5072ec2483d]
+### PART II (affected by repeal, see note) (affected by repeal, see note)[^c-97e1cdfcbd2638774e5c277010863d9e][^c-12b0fee6397a1aed68d5e5072ec2483d]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2003/2109/images/uksi_20032109_en_sld_006)
 
@@ -603,9 +603,9 @@ The main amendments to the 1986 Rules are–
 
 [^M_F_1ae74efd-8c35-4711-ca8d-9579a5fc025a]: Textual amendment: Pt. 1 revoked (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/2)
 
-[^key-af9128c788e89f6b2b564296a4b106c0]: Textual amendment: Pt. II revoked in part (S.) (6.4.2019) by [The Insolvency (Scotland) (Receivership and Winding up) Rules 2018 (S.S.I. 2018/347)](https://www.legislation.gov.uk/ssi/2018/347), [rule 1](https://www.legislation.gov.uk/ssi/2018/347/rule/1), [sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2018/347/schedule/1/paragraph/1)
+[^c-af9128c788e89f6b2b564296a4b106c0]: Textual amendment: Pt. II revoked in part (S.) (6.4.2019) by [The Insolvency (Scotland) (Receivership and Winding up) Rules 2018 (S.S.I. 2018/347)](https://www.legislation.gov.uk/ssi/2018/347), [rule 1](https://www.legislation.gov.uk/ssi/2018/347/rule/1), [sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2018/347/schedule/1/paragraph/1)
 
-[^key-7d3c11d33aec3428c9a0d6a823dd4666]: Textual amendment: Pt. II revoked in part (S.) (6.4.2019) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) Rules 2018 (S.I. 2018/1082)](https://www.legislation.gov.uk/uksi/2018/1082), [rule 1](https://www.legislation.gov.uk/uksi/2018/1082/rule/1), [Sch. 1 Table](https://www.legislation.gov.uk/uksi/2018/1082/schedule/1)
+[^c-7d3c11d33aec3428c9a0d6a823dd4666]: Textual amendment: Pt. II revoked in part (S.) (6.4.2019) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) Rules 2018 (S.I. 2018/1082)](https://www.legislation.gov.uk/uksi/2018/1082), [rule 1](https://www.legislation.gov.uk/uksi/2018/1082/rule/1), [Sch. 1 Table](https://www.legislation.gov.uk/uksi/2018/1082/schedule/1)
 
 [^c5204071]: Marginal citation: [S.I. 1986/1915](https://www.legislation.gov.uk/uksi/1986/1915), amended by [S.I. 1987/1921](https://www.legislation.gov.uk/uksi/1987/1921) and [S.I. 2002/2709](https://www.legislation.gov.uk/uksi/2002/2709).
 
@@ -623,6 +623,6 @@ The main amendments to the 1986 Rules are–
 
 [^M_F_52484d3f-3dac-4770-895e-01e1244a2e58]: Textual amendment: Sch. 1 revoked (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/2)
 
-[^key-97e1cdfcbd2638774e5c277010863d9e]: Textual amendment: Sch. 2 revoked in part (S.) (6.4.2019) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) Rules 2018 (S.I. 2018/1082)](https://www.legislation.gov.uk/uksi/2018/1082), [rule 1](https://www.legislation.gov.uk/uksi/2018/1082/rule/1), [Sch. 1 Table](https://www.legislation.gov.uk/uksi/2018/1082/schedule/1)
+[^c-97e1cdfcbd2638774e5c277010863d9e]: Textual amendment: Sch. 2 revoked in part (S.) (6.4.2019) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) Rules 2018 (S.I. 2018/1082)](https://www.legislation.gov.uk/uksi/2018/1082), [rule 1](https://www.legislation.gov.uk/uksi/2018/1082/rule/1), [Sch. 1 Table](https://www.legislation.gov.uk/uksi/2018/1082/schedule/1)
 
-[^key-12b0fee6397a1aed68d5e5072ec2483d]: Textual amendment: Sch. 2 revoked in part (S.) (6.4.2019) by [The Insolvency (Scotland) (Receivership and Winding up) Rules 2018 (S.S.I. 2018/347)](https://www.legislation.gov.uk/ssi/2018/347), [rule 1](https://www.legislation.gov.uk/ssi/2018/347/rule/1), [sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2018/347/schedule/1/paragraph/1)
+[^c-12b0fee6397a1aed68d5e5072ec2483d]: Textual amendment: Sch. 2 revoked in part (S.) (6.4.2019) by [The Insolvency (Scotland) (Receivership and Winding up) Rules 2018 (S.S.I. 2018/347)](https://www.legislation.gov.uk/ssi/2018/347), [rule 1](https://www.legislation.gov.uk/ssi/2018/347/rule/1), [sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2018/347/schedule/1/paragraph/1)

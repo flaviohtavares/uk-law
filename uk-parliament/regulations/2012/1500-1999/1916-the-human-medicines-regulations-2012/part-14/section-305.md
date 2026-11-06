@@ -26,7 +26,7 @@ summary: ''
 
 (3) A notice under this regulation must—
 
-- (a)[^key-0b1cc4ea296671de135e227cd5bd8551] state that the Ministers are minded to make a determination under regulation 306 that the advertisement is incompatible with the prohibitions imposed by Chapter 2 and specify whether the incompatibility is insofar as the advertisement is for publication—
+- (a)[^c-0b1cc4ea296671de135e227cd5bd8551] state that the Ministers are minded to make a determination under regulation 306 that the advertisement is incompatible with the prohibitions imposed by Chapter 2 and specify whether the incompatibility is insofar as the advertisement is for publication—
   - (i) in Great Britain;
   - (ii) in Northern Ireland; or
   - (iii) in both Great Britain and Northern Ireland;
@@ -36,12 +36,12 @@ summary: ''
 
 (4) A notice under this regulation may require the person to whom it is given not to publish, or to cease to publish, the advertisement
 
-- (a)[^key-8f39f77b4a59450dd2c94324158a475c] in Great Britain;
+- (a)[^c-8f39f77b4a59450dd2c94324158a475c] in Great Britain;
 - (b) in Northern Ireland; or
 - (c) in both Great Britain and Northern Ireland.
 
 ## Annotations
 
-[^key-0b1cc4ea296671de135e227cd5bd8551]: Textual amendment: Reg. 305(3)(a) substituted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 217A(a)](https://www.legislation.gov.uk/uksi/2019/775/regulation/217A/a) (as inserted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 177](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/177))
+[^c-0b1cc4ea296671de135e227cd5bd8551]: Textual amendment: Reg. 305(3)(a) substituted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 217A(a)](https://www.legislation.gov.uk/uksi/2019/775/regulation/217A/a) (as inserted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 177](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/177))
 
-[^key-8f39f77b4a59450dd2c94324158a475c]: Textual amendment: Reg. 305(4)(a)-(c) inserted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 217A(b)](https://www.legislation.gov.uk/uksi/2019/775/regulation/217A/b) (as inserted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 177](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/177))
+[^c-8f39f77b4a59450dd2c94324158a475c]: Textual amendment: Reg. 305(4)(a)-(c) inserted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 217A(b)](https://www.legislation.gov.uk/uksi/2019/775/regulation/217A/b) (as inserted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 177](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/177))

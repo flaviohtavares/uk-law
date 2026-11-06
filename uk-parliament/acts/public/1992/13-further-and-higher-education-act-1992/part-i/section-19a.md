@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19A. Duty in relation to promotion of well-being of local area[^key-bbb758d7a5bfd3c24eab3780f57f8853]
+## 19A. Duty in relation to promotion of well-being of local area[^c-bbb758d7a5bfd3c24eab3780f57f8853]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bbb758d7a5bfd3c24eab3780f57f8853]: Textual amendment: S. 19A repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2011/21/schedule/12/paragraph/4); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-bbb758d7a5bfd3c24eab3780f57f8853]: Textual amendment: S. 19A repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2011/21/schedule/12/paragraph/4); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

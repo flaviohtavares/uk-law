@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Additional information to be provided to victims[^key-fd7418005372c3afe39ca86c4563621f]
+## 41. Additional information to be provided to victims[^c-fd7418005372c3afe39ca86c4563621f]
 
 *Extent: S*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd7418005372c3afe39ca86c4563621f]: Commencement: S. 41 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-fd7418005372c3afe39ca86c4563621f]: Commencement: S. 41 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

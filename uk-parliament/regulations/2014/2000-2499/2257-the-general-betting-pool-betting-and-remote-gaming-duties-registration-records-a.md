@@ -46,11 +46,11 @@ Coming into force
 
 The Commissioners for Her Majesty’s Revenue and Customs make these Regulations exercising their powers in sections 163(3), 164(3), 164(5), 164(6), 164(7), 168, 189 and 194(1) of the Finance Act 2014[^f00001].
 
-## 1. Citation and commencement[^key-3d680d2269b15c85779e01995523c88c]
+## 1. Citation and commencement[^c-3d680d2269b15c85779e01995523c88c]
 
 These Regulations may be cited as the General Betting, Pool Betting and Remote Gaming Duties (Registration, Records and Agents) Regulations 2014 and come into force on 18th September 2014.
 
-## 2. Interpretation[^key-f6f2e9c8b8b043c881631fb969d4bbf5]
+## 2. Interpretation[^c-f6f2e9c8b8b043c881631fb969d4bbf5]
 
 (1) The following definitions apply in these Regulations—
 
@@ -63,7 +63,7 @@ These Regulations may be cited as the General Betting, Pool Betting and Remote G
 - (a) if made using the registration feature of the Gambling Tax Service, or
 - (b) if made in the form and manner they specify for the purpose in a notice.
 
-## 3. Registration: general[^key-788baba48f25d8cb8717ed7b0d88d866]
+## 3. Registration: general[^c-788baba48f25d8cb8717ed7b0d88d866]
 
 (1) A person may only become registered in the register maintained under section 164(1)(a), (b) or (c) following a successful application for each respective purpose made by that person to the Commissioners.
 
@@ -87,9 +87,9 @@ The breach of this paragraph does not preclude the Commissioners determining the
 
 (10) Where a notification under paragraph (8) or some other fact indicates that the person is no longer required to be registered under section 164 as of a particular day, the de-registration of that person takes effect from that day even if it is before the one on which the Commissioners make the determination.
 
-(11)[^key-8cbdcfe19e96cc39e309788251f982e7] The Commissioners may impose conditions additional to the requirements of regulation 6 on a person registered under section 164 of the Act about record-keeping and the inspection of those records by an officer of Revenue and Customs.
+(11)[^c-8cbdcfe19e96cc39e309788251f982e7] The Commissioners may impose conditions additional to the requirements of regulation 6 on a person registered under section 164 of the Act about record-keeping and the inspection of those records by an officer of Revenue and Customs.
 
-## 4. Registration: groups[^key-1e71b6ff77ea56e06358e4aeee25755a]
+## 4. Registration: groups[^c-1e71b6ff77ea56e06358e4aeee25755a]
 
 (1) Two or more persons may be registered as a group in the register maintained under section 164(1)(a), (b) or (c), provided that each is a body corporate required to be but not otherwise registered under the paragraph in question, and one person controls each of the others.
 
@@ -107,7 +107,7 @@ The breach of this paragraph does not preclude the Commissioners determining the
 - (c) for regulation 3(7), the registration feature or notice may specify additional information needed for registration as a group lead or other group member;
 - (d) in regulation 3(8), the “person” refers to the group lead member;
 - (e) in regulation 3(9), the first mention of “person” refers to the group lead member, the second mention of “person” refers to any group member;
-- (f) in regulation 3(10) or (11)[^key-200a7f31f5e25256d538ef8bcf291caf], the “person” refers to any group member.
+- (f) in regulation 3(10) or (11)[^c-200a7f31f5e25256d538ef8bcf291caf], the “person” refers to any group member.
 
 (5) A person is only eligible to be registered as a group member (other than as the group lead member) under paragraph (1) if—
 
@@ -126,7 +126,7 @@ The breach of this paragraph does not preclude the Commissioners determining the
 
 (11) A person becomes a member of an existing group once the group lead member has notified the Commissioners of this intention and the register adjusted, subject to paragraph (5) with the omission of “proposed” in each place.
 
-## 5. Registration for remote gaming duty: transitional provision[^key-9965077e3ebef591f40c788bcc7a2c9a]
+## 5. Registration for remote gaming duty: transitional provision[^c-9965077e3ebef591f40c788bcc7a2c9a]
 
 (1) Paragraph (2) applies instead of regulations 3 and 4 in the case of—
 
@@ -138,7 +138,7 @@ The breach of this paragraph does not preclude the Commissioners determining the
 - (a) for the purpose of including that person in the register maintained under section 164(1)(c), and
 - (b) that would be required under regulation 3(7) or 4(4)(c) had it applied.
 
-## 6. Records[^key-fc7c32c9533e22b372481bf7ab24a5f5]
+## 6. Records[^c-fc7c32c9533e22b372481bf7ab24a5f5]
 
 (1) A person who is in the register maintained under section 164(1)(a), (b) or (c) must prepare and retain such records as the Commissioners specify in a notice for a person of that class or description, and in the form and manner that they specify in the notice for records of that class or description.
 
@@ -148,7 +148,7 @@ The breach of this paragraph does not preclude the Commissioners determining the
 
 (4) If, including the day the person receives the request, there are less than 14 days remaining in the time period, the person must allow the inspection within that time period.
 
-## 7. Agents and the Gambling Tax Service[^key-c255cb13ceaa8bd54e15ece1463cef14]
+## 7. Agents and the Gambling Tax Service[^c-c255cb13ceaa8bd54e15ece1463cef14]
 
 A person appointed as an agent by a registrable person for any of the purposes of Part 3 of the Finance Act 2014 is only valid for those purposes while authorised by the registrable person to view that registrable person’s record on the Gambling Tax Service without limit as to duty or duties.
 
@@ -186,29 +186,29 @@ It remains an accurate summary of the impacts that apply to this instrument.
 
 [^f00001]: Footnote: [2014 c. 26](https://www.legislation.gov.uk/ukpga/2014/26). Section 175 provides for penalties in relation to specified contraventions of these Regulations.
 
-[^key-3d680d2269b15c85779e01995523c88c]: Commencement: Reg. 1 in force at 18.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2257/regulation/1)
+[^c-3d680d2269b15c85779e01995523c88c]: Commencement: Reg. 1 in force at 18.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2257/regulation/1)
 
-[^key-f6f2e9c8b8b043c881631fb969d4bbf5]: Commencement: Reg. 2 in force at 18.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2257/regulation/1)
+[^c-f6f2e9c8b8b043c881631fb969d4bbf5]: Commencement: Reg. 2 in force at 18.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2257/regulation/1)
 
-[^key-788baba48f25d8cb8717ed7b0d88d866]: Commencement: Reg. 3 in force at 18.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2257/regulation/1)
+[^c-788baba48f25d8cb8717ed7b0d88d866]: Commencement: Reg. 3 in force at 18.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2257/regulation/1)
 
-[^key-8cbdcfe19e96cc39e309788251f982e7]: Textual amendment: [Reg. 3(11)](https://www.legislation.gov.uk/uksi/2014/2257/regulation/3/11) inserted (1.12.2014) by [The General Betting, Pool Betting and Remote Gaming Duties (Returns, Payments, Information and Records) Regulations 2014 (S.I. 2014/2912)](https://www.legislation.gov.uk/uksi/2014/2912), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2912/regulation/1), [6(1)](https://www.legislation.gov.uk/uksi/2014/2912/regulation/6/1)
+[^c-8cbdcfe19e96cc39e309788251f982e7]: Textual amendment: [Reg. 3(11)](https://www.legislation.gov.uk/uksi/2014/2257/regulation/3/11) inserted (1.12.2014) by [The General Betting, Pool Betting and Remote Gaming Duties (Returns, Payments, Information and Records) Regulations 2014 (S.I. 2014/2912)](https://www.legislation.gov.uk/uksi/2014/2912), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2912/regulation/1), [6(1)](https://www.legislation.gov.uk/uksi/2014/2912/regulation/6/1)
 
-[^key-1e71b6ff77ea56e06358e4aeee25755a]: Commencement: Reg. 4 in force at 18.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2257/regulation/1)
+[^c-1e71b6ff77ea56e06358e4aeee25755a]: Commencement: Reg. 4 in force at 18.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2257/regulation/1)
 
 [^f00002]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-200a7f31f5e25256d538ef8bcf291caf]: Textual amendment: Words in [reg. 4(4)(f)](https://www.legislation.gov.uk/uksi/2014/2257/regulation/4/4/f) inserted (1.12.2014) by [The General Betting, Pool Betting and Remote Gaming Duties (Returns, Payments, Information and Records) Regulations 2014 (S.I. 2014/2912)](https://www.legislation.gov.uk/uksi/2014/2912), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2912/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2014/2912/regulation/6/2)
+[^c-200a7f31f5e25256d538ef8bcf291caf]: Textual amendment: Words in [reg. 4(4)(f)](https://www.legislation.gov.uk/uksi/2014/2257/regulation/4/4/f) inserted (1.12.2014) by [The General Betting, Pool Betting and Remote Gaming Duties (Returns, Payments, Information and Records) Regulations 2014 (S.I. 2014/2912)](https://www.legislation.gov.uk/uksi/2014/2912), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2912/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2014/2912/regulation/6/2)
 
-[^key-9965077e3ebef591f40c788bcc7a2c9a]: Commencement: Reg. 5 in force at 18.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2257/regulation/1)
+[^c-9965077e3ebef591f40c788bcc7a2c9a]: Commencement: Reg. 5 in force at 18.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2257/regulation/1)
 
 [^f00003]: Footnote: [1981 c. 63](https://www.legislation.gov.uk/ukpga/1981/63); section 26J(1) was inserted by the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), Schedule 1, paragraph 2.
 
 [^f00004]: Footnote: [S.I. 2007/2192](https://www.legislation.gov.uk/uksi/2007/2192).
 
-[^key-fc7c32c9533e22b372481bf7ab24a5f5]: Commencement: Reg. 6 in force at 18.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2257/regulation/1)
+[^c-fc7c32c9533e22b372481bf7ab24a5f5]: Commencement: Reg. 6 in force at 18.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2257/regulation/1)
 
-[^key-c255cb13ceaa8bd54e15ece1463cef14]: Commencement: Reg. 7 in force at 18.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2257/regulation/1)
+[^c-c255cb13ceaa8bd54e15ece1463cef14]: Commencement: Reg. 7 in force at 18.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2257/regulation/1)
 
 [^f00005]: Footnote: Section 198(5) of the Finance Act [2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26).
 

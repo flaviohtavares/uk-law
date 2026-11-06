@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W*
 
-(1) A transfer effected by virtue of section 89 [^key-5e2f4ae5c39ee240d5f43c4def3fa508]... is not to give rise to liability to stamp duty.
+(1) A transfer effected by virtue of section 89 [^c-5e2f4ae5c39ee240d5f43c4def3fa508]... is not to give rise to liability to stamp duty.
 
-(2) Stamp duty is not to be chargeable on a scheme made under section 92[^key-60c228229fdbb02583e1b1d530ade9cf].
+(2) Stamp duty is not to be chargeable on a scheme made under section 92[^c-60c228229fdbb02583e1b1d530ade9cf].
 
 ## Annotations
 
-[^key-5e2f4ae5c39ee240d5f43c4def3fa508]: Textual amendment: Words in s. 94(1) omitted (1.4.2006) by virtue of [National Council for Education and Training for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3238)](https://www.legislation.gov.uk/uksi/2005/3238), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3238/article/1/1), [Sch. 1 para. 70(a)](https://www.legislation.gov.uk/uksi/2005/3238/schedule/1/paragraph/70/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2005/3238/article/7))
+[^c-5e2f4ae5c39ee240d5f43c4def3fa508]: Textual amendment: Words in s. 94(1) omitted (1.4.2006) by virtue of [National Council for Education and Training for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3238)](https://www.legislation.gov.uk/uksi/2005/3238), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3238/article/1/1), [Sch. 1 para. 70(a)](https://www.legislation.gov.uk/uksi/2005/3238/schedule/1/paragraph/70/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2005/3238/article/7))
 
-[^key-60c228229fdbb02583e1b1d530ade9cf]: Textual amendment: Words in [s. 94(2)](https://www.legislation.gov.uk/ukpga/2000/21/section/94/2) substituted (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 14 para. 59](https://www.legislation.gov.uk/ukpga/2006/40/schedule/14/paragraph/59); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
+[^c-60c228229fdbb02583e1b1d530ade9cf]: Textual amendment: Words in [s. 94(2)](https://www.legislation.gov.uk/ukpga/2000/21/section/94/2) substituted (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 14 para. 59](https://www.legislation.gov.uk/ukpga/2006/40/schedule/14/paragraph/59); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)

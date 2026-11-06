@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Meaning of constable etc.[^key-4e48c6ffa737e477db33c52f8a9beb58]
+## 72. Meaning of constable etc.[^c-4e48c6ffa737e477db33c52f8a9beb58]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-4e48c6ffa737e477db33c52f8a9beb58]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2016/1/section/72) in force at 11.5.2017 by [S.S.I. 2017/99](https://www.legislation.gov.uk/ssi/2017/99), [art. 2(f)](https://www.legislation.gov.uk/ssi/2017/99/article/2/f) (with [art. 6](https://www.legislation.gov.uk/ssi/2017/99/article/6))
+[^c-4e48c6ffa737e477db33c52f8a9beb58]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2016/1/section/72) in force at 11.5.2017 by [S.S.I. 2017/99](https://www.legislation.gov.uk/ssi/2017/99), [art. 2(f)](https://www.legislation.gov.uk/ssi/2017/99/article/2/f) (with [art. 6](https://www.legislation.gov.uk/ssi/2017/99/article/6))

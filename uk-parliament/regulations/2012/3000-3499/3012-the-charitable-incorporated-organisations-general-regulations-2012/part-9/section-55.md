@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Agreement with Commission to send by electronic means[^key-d96d330462c3ded5a6b5415f534f8385]
+## 55. Agreement with Commission to send by electronic means[^c-d96d330462c3ded5a6b5415f534f8385]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d96d330462c3ded5a6b5415f534f8385]: Commencement: Reg. 55 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-d96d330462c3ded5a6b5415f534f8385]: Commencement: Reg. 55 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

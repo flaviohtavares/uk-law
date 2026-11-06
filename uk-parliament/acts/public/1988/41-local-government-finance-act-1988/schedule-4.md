@@ -143,7 +143,7 @@ This Part of this Schedule applies as regards the recovery of any sum falling wi
 
 (3)[^M_F_91436be3-7c64-48b7-ecf2-61492fe48bdd] This paragraph applies to a jobseeker’s allowance as it applies to income support.
 
-(4)[^key-5e00b87d326dc462bca206332dafba2d] This paragraph applies to state pension credit as it applies to income support.
+(4)[^c-5e00b87d326dc462bca206332dafba2d] This paragraph applies to state pension credit as it applies to income support.
 
 #### Distress
 
@@ -426,7 +426,7 @@ that person shall accept the amount, no further steps shall be taken as regards 
 
 [^M_F_91436be3-7c64-48b7-ecf2-61492fe48bdd]: Textual amendment: Sch. 4 para. 6(3) inserted (11.6.1996) by Jobseekers Act [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18), [s. 41(4)](https://www.legislation.gov.uk/ukpga/1995/18/section/41/4), [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/1995/18/schedule/2/paragraph/18); [S.I. 1996/1509](https://www.legislation.gov.uk/uksi/1996/1509), [art. 2](https://www.legislation.gov.uk/uksi/1996/1509/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1996/1509/schedule)
 
-[^key-5e00b87d326dc462bca206332dafba2d]: Textual amendment: Sch. 4 para. 6 amended (2.7.2002 for specified purposes, 6.10.2003 in so far as not already in force) by [State Pension Credit Act 2002 (c. 16)](https://www.legislation.gov.uk/ukpga/2002/16), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3), [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/29); S.I. 2002/1691, art. 2(l); [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+[^c-5e00b87d326dc462bca206332dafba2d]: Textual amendment: Sch. 4 para. 6 amended (2.7.2002 for specified purposes, 6.10.2003 in so far as not already in force) by [State Pension Credit Act 2002 (c. 16)](https://www.legislation.gov.uk/ukpga/2002/16), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3), [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/29); S.I. 2002/1691, art. 2(l); [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
 
 [^c13077241]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 

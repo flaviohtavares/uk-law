@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Early removal of certain short-term prisoners from the United Kingdom[^key-e3467f93d282af8ef388b4492fffb9fe]
+## 19. Early removal of certain short-term prisoners from the United Kingdom[^c-e3467f93d282af8ef388b4492fffb9fe]
 
 *Extent: S*
 
@@ -96,4 +96,4 @@ For schedule 6 to the Custodial Sentences and Weapons (Scotland) Act 2007 (asp 1
 
 ## Annotations
 
-[^key-e3467f93d282af8ef388b4492fffb9fe]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2010/13/section/19) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-e3467f93d282af8ef388b4492fffb9fe]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2010/13/section/19) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

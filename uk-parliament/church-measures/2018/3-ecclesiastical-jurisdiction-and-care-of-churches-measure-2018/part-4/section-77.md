@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 77. Power to specify matters in rules[^key-3f6bb6a1a33c52f2ecbce781701c2e73]
+## 77. Power to specify matters in rules[^c-3f6bb6a1a33c52f2ecbce781701c2e73]
 
 *Extent: E*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f6bb6a1a33c52f2ecbce781701c2e73]: Commencement: [S. 77](https://www.legislation.gov.uk/ukcm/2018/3/section/77) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-3f6bb6a1a33c52f2ecbce781701c2e73]: Commencement: [S. 77](https://www.legislation.gov.uk/ukcm/2018/3/section/77) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

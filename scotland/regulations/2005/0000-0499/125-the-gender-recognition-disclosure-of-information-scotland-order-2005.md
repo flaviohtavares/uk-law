@@ -43,15 +43,15 @@ Coming into force
 
 4th April 2005
 
-The Scottish Ministers, in exercise of the powers conferred by section 22(5), (6) and (7) of the Gender Recognition Act 2004[^f00001], hereby make the following Order:[^key-06181d31b0a7f09bcb0d34f461c5e45d][^key-6ff08b860642170648d1fd5b32672f98][^key-438c9f88eb34782b5fa193940103bd80]
+The Scottish Ministers, in exercise of the powers conferred by section 22(5), (6) and (7) of the Gender Recognition Act 2004[^f00001], hereby make the following Order:[^c-06181d31b0a7f09bcb0d34f461c5e45d][^c-6ff08b860642170648d1fd5b32672f98][^c-438c9f88eb34782b5fa193940103bd80]
 
-## 1. Citation, commencement and extent[^key-334dc6918f8174df25a952b4e1fe663f]
+## 1. Citation, commencement and extent[^c-334dc6918f8174df25a952b4e1fe663f]
 
 (1) This Order may be cited as the Gender Recognition (Disclosure of Information) (Scotland) Order 2005 and shall come into force on 4th April 2005.
 
 (2) This Order extends to Scotland only.
 
-## 2. Interpretation[^key-be911768f8373eef582800388479fbec]
+## 2. Interpretation[^c-be911768f8373eef582800388479fbec]
 
 In this Order–
 
@@ -60,11 +60,11 @@ In this Order–
 - “the 1989 Order” means the Insolvency (Northern Ireland) Order 1989[^f00003]; and
 - “the subject”, in relation to any protected information, means a person to whom any protected information relates.
 
-## 3. Disclosure for purpose of obtaining legal advice[^key-7eccfa5d4d12877f60ee2dc9e1f439ce]
+## 3. Disclosure for purpose of obtaining legal advice[^c-7eccfa5d4d12877f60ee2dc9e1f439ce]
 
 It is not an offence under section 22 of the Act to disclose protected information for the purpose of obtaining legal advice.
 
-## 4. Disclosure for religious purposes[^key-9e794e14399893b7fc64a00996708377]
+## 4. Disclosure for religious purposes[^c-9e794e14399893b7fc64a00996708377]
 
 (1) It is not an offence under section 22 of the Act for a person who acquired protected information in an official capacity in relation to an organised religion to disclose that information to any other person acting in such a capacity if the conditions set out in paragraphs (2) and (3) are met.
 
@@ -84,7 +84,7 @@ It is not an offence under section 22 of the Act to disclose protected informati
 
 (4) It is not an offence under section 22 of the Act for a person who acquired protected information in an official capacity in relation to an organised religion, and who requires to make a decision in relation to the any of the matters specified in paragraph (2), to disclose that information to any person responsible for the supervision of the person making the disclosure.
 
-## 5. Disclosure for medical purposes[^key-943cc9a7945bfa58e8e79f933175f338]
+## 5. Disclosure for medical purposes[^c-943cc9a7945bfa58e8e79f933175f338]
 
 (1) It is not an offence under section 22 of the Act to disclose protected information if–
 
@@ -98,12 +98,12 @@ It is not an offence under section 22 of the Act to disclose protected informati
 - (b) “health professional” means–
   - (i) a registered medical practitioner;
   - (ii) a registered dentist within the meaning of section 53(1) of the Dentists Act 1984[^f00004];
-  - (iii) a pharmacist or pharmacy technician registered in Part 1 or 3 of one of the registers maintained under articles 10(1) and 21(1) of[^key-1f34e852fd19567b6aecfa6dffe99bb7] the Pharmacists and Pharmacy Technicians Order 2007 or a registered person within the meaning of article 2(2) of the Pharmacy (Northern Ireland) Order 1976[^f00006];
+  - (iii) a pharmacist or pharmacy technician registered in Part 1 or 3 of one of the registers maintained under articles 10(1) and 21(1) of[^c-1f34e852fd19567b6aecfa6dffe99bb7] the Pharmacists and Pharmacy Technicians Order 2007 or a registered person within the meaning of article 2(2) of the Pharmacy (Northern Ireland) Order 1976[^f00006];
   - (iv) a registered nurse;
-  - (v) any person who is registered under the Health Professions Order 2001[^key-b3ddf81f026c50ed3dbf6d3ecfecf9f8] as a paramedic or operating department practitioner; and
+  - (v) any person who is registered under the Health Professions Order 2001[^c-b3ddf81f026c50ed3dbf6d3ecfecf9f8] as a paramedic or operating department practitioner; and
   - (vi) a person employed in a trainee capacity in any of the professions specified in this sub-paragraph.
 
-## 6. Credit reference agencies[^key-16164328e8414a9ef5ae00bf9c559579]
+## 6. Credit reference agencies[^c-16164328e8414a9ef5ae00bf9c559579]
 
 (1) It is not an offence under sections 22 of the Act to disclose protected information if–
 
@@ -113,9 +113,9 @@ It is not an offence under section 22 of the Act to disclose protected informati
 
 (2) It is not an offence under section 22 of the Act for a person, when making a disclosure under paragraph (1), also to disclose information taken from an electoral register.
 
-(3) For the purposes of this article “credit reference agency” is to be read in accordance with[^key-edc4d36f9af24a690843bd904dcfa789] section 145(8) of the Consumer Credit Act 1974[^f00008].
+(3) For the purposes of this article “credit reference agency” is to be read in accordance with[^c-edc4d36f9af24a690843bd904dcfa789] section 145(8) of the Consumer Credit Act 1974[^f00008].
 
-## 7. Insolvency and Bankruptcy[^key-90f6fe6f1c82b57826256f6e9473b9e0]
+## 7. Insolvency and Bankruptcy[^c-90f6fe6f1c82b57826256f6e9473b9e0]
 
 (1) It is not an offence under section 22 of the Act to disclose protected information if–
 
@@ -149,41 +149,41 @@ In some cases, the Order requires the disclosure to include the information that
 
 [^f00001]: Footnote: [2004 c. 7](https://www.legislation.gov.uk/ukpga/2004/7).
 
-[^key-06181d31b0a7f09bcb0d34f461c5e45d]: Modification: Order applied (with modifications) (21.2.2009) by [The Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order 2009 (S.I. 2009/317)](https://www.legislation.gov.uk/uksi/2009/317), [arts. 1](https://www.legislation.gov.uk/uksi/2009/317/article/1), [3](https://www.legislation.gov.uk/uksi/2009/317/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/317/schedule)
+[^c-06181d31b0a7f09bcb0d34f461c5e45d]: Modification: Order applied (with modifications) (21.2.2009) by [The Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order 2009 (S.I. 2009/317)](https://www.legislation.gov.uk/uksi/2009/317), [arts. 1](https://www.legislation.gov.uk/uksi/2009/317/article/1), [3](https://www.legislation.gov.uk/uksi/2009/317/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/317/schedule)
 
-[^key-6ff08b860642170648d1fd5b32672f98]: Modification: Order applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
+[^c-6ff08b860642170648d1fd5b32672f98]: Modification: Order applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
 
-[^key-438c9f88eb34782b5fa193940103bd80]: Modification: Order applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5))
+[^c-438c9f88eb34782b5fa193940103bd80]: Modification: Order applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5))
 
-[^key-334dc6918f8174df25a952b4e1fe663f]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2005/125/article/1) in force at 4.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2005/125/article/1/1)
+[^c-334dc6918f8174df25a952b4e1fe663f]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2005/125/article/1) in force at 4.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2005/125/article/1/1)
 
-[^key-be911768f8373eef582800388479fbec]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2005/125/article/2) in force at 4.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2005/125/article/1/1)
+[^c-be911768f8373eef582800388479fbec]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2005/125/article/2) in force at 4.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2005/125/article/1/1)
 
 [^f00002]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
 [^f00003]: Footnote: S.I. [1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405).
 
-[^key-7eccfa5d4d12877f60ee2dc9e1f439ce]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2005/125/article/3) in force at 4.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2005/125/article/1/1)
+[^c-7eccfa5d4d12877f60ee2dc9e1f439ce]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2005/125/article/3) in force at 4.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2005/125/article/1/1)
 
-[^key-9e794e14399893b7fc64a00996708377]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2005/125/article/4) in force at 4.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2005/125/article/1/1)
+[^c-9e794e14399893b7fc64a00996708377]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2005/125/article/4) in force at 4.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2005/125/article/1/1)
 
-[^key-943cc9a7945bfa58e8e79f933175f338]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2005/125/article/5) in force at 4.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2005/125/article/1/1)
+[^c-943cc9a7945bfa58e8e79f933175f338]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2005/125/article/5) in force at 4.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2005/125/article/1/1)
 
 [^f00004]: Footnote: [1984 c. 24](https://www.legislation.gov.uk/ukpga/1984/24).
 
-[^key-1f34e852fd19567b6aecfa6dffe99bb7]: Textual amendment: Words in [art. 5(2)(b)(iii)](https://www.legislation.gov.uk/ssi/2005/125/article/5/2/b/iii) substituted (1.7.2009 as notified in the London Gazette dated 19.6.2009 (Issue 59104)) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(5)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/5), [Sch. 4 para. 29](https://www.legislation.gov.uk/uksi/2009/1182/schedule/4/paragraph/29)
+[^c-1f34e852fd19567b6aecfa6dffe99bb7]: Textual amendment: Words in [art. 5(2)(b)(iii)](https://www.legislation.gov.uk/ssi/2005/125/article/5/2/b/iii) substituted (1.7.2009 as notified in the London Gazette dated 19.6.2009 (Issue 59104)) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(5)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/5), [Sch. 4 para. 29](https://www.legislation.gov.uk/uksi/2009/1182/schedule/4/paragraph/29)
 
 [^f00006]: Footnote: S.I. [1976/1213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1976/1213).
 
-[^key-b3ddf81f026c50ed3dbf6d3ecfecf9f8]: Textual amendment: Words in [art. 5(2)(b)(v)](https://www.legislation.gov.uk/ssi/2005/125/article/5/2/b/v) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2019/1094/schedule/2/paragraph/20); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-b3ddf81f026c50ed3dbf6d3ecfecf9f8]: Textual amendment: Words in [art. 5(2)(b)(v)](https://www.legislation.gov.uk/ssi/2005/125/article/5/2/b/v) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2019/1094/schedule/2/paragraph/20); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
-[^key-16164328e8414a9ef5ae00bf9c559579]: Commencement: Art. 6 in force at 4.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2005/125/article/1/1)
+[^c-16164328e8414a9ef5ae00bf9c559579]: Commencement: Art. 6 in force at 4.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2005/125/article/1/1)
 
-[^key-edc4d36f9af24a690843bd904dcfa789]: Textual amendment: Words in art. 6(3) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 28](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/28)
+[^c-edc4d36f9af24a690843bd904dcfa789]: Textual amendment: Words in art. 6(3) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 28](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/28)
 
 [^f00008]: Footnote: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39).
 
-[^key-90f6fe6f1c82b57826256f6e9473b9e0]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2005/125/article/7) in force at 4.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2005/125/article/1/1)
+[^c-90f6fe6f1c82b57826256f6e9473b9e0]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2005/125/article/7) in force at 4.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2005/125/article/1/1)
 
 [^f00009]: Footnote: [1985 c. 66](https://www.legislation.gov.uk/ukpga/1985/66) as amended by the Bankruptcy (Scotland) Act [1993 (c. 6)](https://www.legislation.gov.uk/ukpga/1993/6).
 

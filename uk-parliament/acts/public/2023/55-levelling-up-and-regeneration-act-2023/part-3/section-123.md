@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Duty in relation to self-build and custom housebuilding[^key-9037b57d5dc11959c7e1afa657940d06][^key-24c60d430a3e82da6ce2ddfd84163706]
+## 123. Duty in relation to self-build and custom housebuilding[^c-9037b57d5dc11959c7e1afa657940d06][^c-24c60d430a3e82da6ce2ddfd84163706]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9037b57d5dc11959c7e1afa657940d06]: Commencement: S. 123 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-9037b57d5dc11959c7e1afa657940d06]: Commencement: S. 123 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-24c60d430a3e82da6ce2ddfd84163706]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2023/55/section/123) in force at 31.1.2024 by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/f)
+[^c-24c60d430a3e82da6ce2ddfd84163706]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2023/55/section/123) in force at 31.1.2024 by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/f)

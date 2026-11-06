@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. The 2018 Act and the UK GDPR[^key-7a3c44b5d590fbda931f1180f0f40054]
+## 66. The 2018 Act and the UK GDPR[^c-7a3c44b5d590fbda931f1180f0f40054]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-7a3c44b5d590fbda931f1180f0f40054]: Commencement: S. 66 in force at Royal Assent, see [s. 142(2)(a)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/a)
+[^c-7a3c44b5d590fbda931f1180f0f40054]: Commencement: S. 66 in force at Royal Assent, see [s. 142(2)(a)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Statements of compliance[^key-f600b1bc7a2f70dd985af15ab67d94cf][^key-ad258512a8edbc550e5a8433136c4db0]
+## 22. Statements of compliance[^c-f600b1bc7a2f70dd985af15ab67d94cf][^c-ad258512a8edbc550e5a8433136c4db0]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f600b1bc7a2f70dd985af15ab67d94cf]: Commencement: S. 22 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-f600b1bc7a2f70dd985af15ab67d94cf]: Commencement: S. 22 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-ad258512a8edbc550e5a8433136c4db0]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2022/46/section/22) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-ad258512a8edbc550e5a8433136c4db0]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2022/46/section/22) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE, WALES
 
-The Feeding Stuffs (Wales) (Amendment) Regulations 2008 (revoked)[^key-627ea7e8eb70562cd2e9bf8b80130f97]
+The Feeding Stuffs (Wales) (Amendment) Regulations 2008 (revoked)[^c-627ea7e8eb70562cd2e9bf8b80130f97]
 
 Made
 
@@ -45,21 +45,21 @@ Coming into force
 
 30 July 2008
 
-[^key-627ea7e8eb70562cd2e9bf8b80130f97]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-627ea7e8eb70562cd2e9bf8b80130f97]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and Commencement[^key-627ea7e8eb70562cd2e9bf8b80130f97]
+## 1. Title and Commencement[^c-627ea7e8eb70562cd2e9bf8b80130f97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Feeding Stuffs (Wales) Regulations 2006[^key-627ea7e8eb70562cd2e9bf8b80130f97]
+## 2. Amendment of the Feeding Stuffs (Wales) Regulations 2006[^c-627ea7e8eb70562cd2e9bf8b80130f97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-627ea7e8eb70562cd2e9bf8b80130f97]
+## SCHEDULE[^c-627ea7e8eb70562cd2e9bf8b80130f97]
 
 Regulation 2(2)
 
@@ -67,8 +67,8 @@ Regulation 2(2)
 
 **May not be in force at this date. Check the source.**
 
-[^key-627ea7e8eb70562cd2e9bf8b80130f97]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-627ea7e8eb70562cd2e9bf8b80130f97]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-627ea7e8eb70562cd2e9bf8b80130f97]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2008/1806) revoked (23.11.2010) by [The Animal Feed (Wales) Regulations 2010 (S.I. 2010/2652)](https://www.legislation.gov.uk/wsi/2010/2652), [reg. 1](https://www.legislation.gov.uk/wsi/2010/2652/regulation/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2010/2652/schedule/2)
+[^c-627ea7e8eb70562cd2e9bf8b80130f97]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2008/1806) revoked (23.11.2010) by [The Animal Feed (Wales) Regulations 2010 (S.I. 2010/2652)](https://www.legislation.gov.uk/wsi/2010/2652), [reg. 1](https://www.legislation.gov.uk/wsi/2010/2652/regulation/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2010/2652/schedule/2)

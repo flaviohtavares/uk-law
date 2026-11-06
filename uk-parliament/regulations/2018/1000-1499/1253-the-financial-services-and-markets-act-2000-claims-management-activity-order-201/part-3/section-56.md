@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 56. Unprofessional conduct: continuation of investigation commenced by the Regulator[^key-c51c0e35f222094e0f6c40b1e5da6de0][^key-232abb3ffe171c75c81f6d437fc892ae]
+## 56. Unprofessional conduct: continuation of investigation commenced by the Regulator[^c-c51c0e35f222094e0f6c40b1e5da6de0][^c-232abb3ffe171c75c81f6d437fc892ae]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c51c0e35f222094e0f6c40b1e5da6de0]: Commencement: Art. 56 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-c51c0e35f222094e0f6c40b1e5da6de0]: Commencement: Art. 56 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-232abb3ffe171c75c81f6d437fc892ae]: Commencement: [Art. 56](https://www.legislation.gov.uk/uksi/2018/1253/article/56) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-232abb3ffe171c75c81f6d437fc892ae]: Commencement: [Art. 56](https://www.legislation.gov.uk/uksi/2018/1253/article/56) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)

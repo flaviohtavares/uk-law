@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 90B. Condition relating to development progress reports in England[^key-9662217e594236ce51a8856636f25290]
+## 90B. Condition relating to development progress reports in England[^c-9662217e594236ce51a8856636f25290]
 
 *Extent: E+W*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9662217e594236ce51a8856636f25290]: Textual amendment: [S. 90B](https://www.legislation.gov.uk/ukpga/1990/8/section/90B) and cross-heading inserted (26.12.2023 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 114(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/114/3), [255(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-9662217e594236ce51a8856636f25290]: Textual amendment: [S. 90B](https://www.legislation.gov.uk/ukpga/1990/8/section/90B) and cross-heading inserted (26.12.2023 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 114(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/114/3), [255(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

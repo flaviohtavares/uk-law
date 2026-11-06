@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Funding[^key-fd91f408c1c70a19a3bd27cf39231298]
+## 23. Funding[^c-fd91f408c1c70a19a3bd27cf39231298]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd91f408c1c70a19a3bd27cf39231298]: Commencement: S. 23 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)
+[^c-fd91f408c1c70a19a3bd27cf39231298]: Commencement: S. 23 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)

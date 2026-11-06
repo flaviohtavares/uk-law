@@ -31,7 +31,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION
 
-The Air Quality Limit Values (Scotland) Amendment Regulations 2005 (revoked)[^key-b1d4a437d42d67e437269a4adeab28c8]
+The Air Quality Limit Values (Scotland) Amendment Regulations 2005 (revoked)[^c-b1d4a437d42d67e437269a4adeab28c8]
 
 Made
 
@@ -45,30 +45,30 @@ Coming into force
 
 25th June 2005
 
-[^key-b1d4a437d42d67e437269a4adeab28c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b1d4a437d42d67e437269a4adeab28c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b1d4a437d42d67e437269a4adeab28c8]
+## 1. Citation and commencement[^c-b1d4a437d42d67e437269a4adeab28c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Air Quality Limit Values (Scotland) Regulations 2003[^key-b1d4a437d42d67e437269a4adeab28c8]
+## 2. Amendment of the Air Quality Limit Values (Scotland) Regulations 2003[^c-b1d4a437d42d67e437269a4adeab28c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Public participation[^key-b1d4a437d42d67e437269a4adeab28c8]
+## 3. Public participation[^c-b1d4a437d42d67e437269a4adeab28c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Reference methods for the sampling and measurement of PM10[^key-b1d4a437d42d67e437269a4adeab28c8]
+## 4. Reference methods for the sampling and measurement of PM10[^c-b1d4a437d42d67e437269a4adeab28c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b1d4a437d42d67e437269a4adeab28c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b1d4a437d42d67e437269a4adeab28c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b1d4a437d42d67e437269a4adeab28c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b1d4a437d42d67e437269a4adeab28c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b1d4a437d42d67e437269a4adeab28c8]: Textual amendment: Regulations revoked (29.3.2007) by [The Air Quality Standards (Scotland) Regulations 2007 (revoked) 2007 (S.S.I. 2007/182)](https://www.legislation.gov.uk/ssi/2007/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/182/regulation/1/1), [30(1)(c)](https://www.legislation.gov.uk/ssi/2007/182/regulation/30/1/c)
+[^c-b1d4a437d42d67e437269a4adeab28c8]: Textual amendment: Regulations revoked (29.3.2007) by [The Air Quality Standards (Scotland) Regulations 2007 (revoked) 2007 (S.S.I. 2007/182)](https://www.legislation.gov.uk/ssi/2007/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/182/regulation/1/1), [30(1)(c)](https://www.legislation.gov.uk/ssi/2007/182/regulation/30/1/c)

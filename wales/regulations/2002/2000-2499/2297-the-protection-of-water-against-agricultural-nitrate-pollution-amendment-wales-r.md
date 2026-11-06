@@ -31,7 +31,7 @@ summary: ''
 
 WATER, WALES
 
-The Protection of Water Against Agricultural Nitrate Pollution (Amendment) (Wales) Regulations 2002 (revoked)[^key-8d0a9a39c760483322a88d9467569835]
+The Protection of Water Against Agricultural Nitrate Pollution (Amendment) (Wales) Regulations 2002 (revoked)[^c-8d0a9a39c760483322a88d9467569835]
 
 Made
 
@@ -41,56 +41,56 @@ Coming into force
 
 11th September 2002
 
-[^key-8d0a9a39c760483322a88d9467569835]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8d0a9a39c760483322a88d9467569835]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-8d0a9a39c760483322a88d9467569835]
+## 1. Citation, commencement, application and interpretation[^c-8d0a9a39c760483322a88d9467569835]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Principal Regulations[^key-8d0a9a39c760483322a88d9467569835]
+## 2. Amendment to the Principal Regulations[^c-8d0a9a39c760483322a88d9467569835]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Saving[^key-8d0a9a39c760483322a88d9467569835]
+## 3. Saving[^c-8d0a9a39c760483322a88d9467569835]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d0a9a39c760483322a88d9467569835]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8d0a9a39c760483322a88d9467569835]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-8d0a9a39c760483322a88d9467569835]
+## SCHEDULE[^c-8d0a9a39c760483322a88d9467569835]
 
 Regulation 2
 
-[^key-8d0a9a39c760483322a88d9467569835]
+[^c-8d0a9a39c760483322a88d9467569835]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-8d0a9a39c760483322a88d9467569835] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-8d0a9a39c760483322a88d9467569835] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-8d0a9a39c760483322a88d9467569835] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-8d0a9a39c760483322a88d9467569835] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-8d0a9a39c760483322a88d9467569835] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-8d0a9a39c760483322a88d9467569835] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-8d0a9a39c760483322a88d9467569835] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-8d0a9a39c760483322a88d9467569835] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-8d0a9a39c760483322a88d9467569835] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-8d0a9a39c760483322a88d9467569835] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-8d0a9a39c760483322a88d9467569835] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-8d0a9a39c760483322a88d9467569835] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-8d0a9a39c760483322a88d9467569835] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-8d0a9a39c760483322a88d9467569835] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-8d0a9a39c760483322a88d9467569835] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-8d0a9a39c760483322a88d9467569835] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-8d0a9a39c760483322a88d9467569835] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-8d0a9a39c760483322a88d9467569835] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8d0a9a39c760483322a88d9467569835]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8d0a9a39c760483322a88d9467569835]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8d0a9a39c760483322a88d9467569835]: Textual amendment: Regulations revoked (1.1.2009) by [The Nitrate Pollution Prevention (Wales) Regulations 2008 (S.I. 2008/3143)](https://www.legislation.gov.uk/uksi/2008/3143), [regs. 3(1)](https://www.legislation.gov.uk/uksi/2008/3143/regulation/3), [50(c)](https://www.legislation.gov.uk/uksi/2008/3143/regulation/50)
+[^c-8d0a9a39c760483322a88d9467569835]: Textual amendment: Regulations revoked (1.1.2009) by [The Nitrate Pollution Prevention (Wales) Regulations 2008 (S.I. 2008/3143)](https://www.legislation.gov.uk/uksi/2008/3143), [regs. 3(1)](https://www.legislation.gov.uk/uksi/2008/3143/regulation/3), [50(c)](https://www.legislation.gov.uk/uksi/2008/3143/regulation/50)

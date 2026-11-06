@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18.22. Intermediary’s duty to the court[^key-72aacd303f14bac248eb700e51a1f71f]
+## 18.22. Intermediary’s duty to the court[^c-72aacd303f14bac248eb700e51a1f71f]
 
 *Extent: E+W*
 
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-72aacd303f14bac248eb700e51a1f71f]: Commencement: [Rule 18.22](https://www.legislation.gov.uk/uksi/2025/909/rule/18.22) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-72aacd303f14bac248eb700e51a1f71f]: Commencement: [Rule 18.22](https://www.legislation.gov.uk/uksi/2025/909/rule/18.22) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00454]: Footnote: [1999 c. 23](https://www.legislation.gov.uk/ukpga/1999/23); section 29 was amended by paragraph 384 of Schedule 8 to the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39).
 

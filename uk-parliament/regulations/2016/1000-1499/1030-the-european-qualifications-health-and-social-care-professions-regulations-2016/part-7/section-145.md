@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Amendment of Schedule 3 (Welsh text)[^key-8945c3036787452962e37c91a7b7b497]
+## 145. Amendment of Schedule 3 (Welsh text)[^c-8945c3036787452962e37c91a7b7b497]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8945c3036787452962e37c91a7b7b497]: Commencement: Reg. 145 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-8945c3036787452962e37c91a7b7b497]: Commencement: Reg. 145 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

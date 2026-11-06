@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Recovery of costs of new connections[^key-78902b0340f4bc9d1b51d9972bc59a92]
+## 30. Recovery of costs of new connections[^c-78902b0340f4bc9d1b51d9972bc59a92]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-78902b0340f4bc9d1b51d9972bc59a92]: Commencement: Art. 30 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
+[^c-78902b0340f4bc9d1b51d9972bc59a92]: Commencement: Art. 30 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
 
 [^f00032]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).

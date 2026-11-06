@@ -26,7 +26,7 @@ summary: ''
 - (b) any other sums received under this Act in that year by that body; and
 - (c) any sums received otherwise than under this Act in that year by that body for the purposes of enabling them to defray any such expenditure.
 
-(1A)[^key-e872697b180e3aad38b9d290d169bb82] References to “functions” in subsection (1) are, in the application of that subsection to HIS, to be construed as references to HIS's health service functions only.
+(1A)[^c-e872697b180e3aad38b9d290d169bb82] References to “functions” in subsection (1) are, in the application of that subsection to HIS, to be construed as references to HIS's health service functions only.
 
 (2) Subsection (9) of section 85AA[^c14170581] shall apply for the purposes of this section as it applies for the purposes of that section.
 
@@ -34,9 +34,9 @@ summary: ''
 
 Directions under this subsection may be specific in character.
 
-(4)[^c14170521][^c14170531][^key-2fb8ef049aa8f3c150c23cf70b9ab927] To the extent to which—
+(4)[^c14170521][^c14170531][^c-2fb8ef049aa8f3c150c23cf70b9ab927] To the extent to which—
 
-- (a) any expenditure of a Health Board , HIS[^key-db259ff9b24eccb6dd042f30ad7dbcfe] or a local health council is defrayed by that body as trustee; or
+- (a) any expenditure of a Health Board , HIS[^c-db259ff9b24eccb6dd042f30ad7dbcfe] or a local health council is defrayed by that body as trustee; or
 - (b) any sums are received by such a body as trustee or under section 84A,
 
 that expenditure and, subject to subsection (5), those sums shall be disregarded for the purposes of this section, and, for those purposes, sums which, in the hands of such a body, cease to be trust funds and become applicable by the body otherwise than as trustee shall be treated, on their becoming so applicable, as having been received by the body otherwise than as trustee.
@@ -81,7 +81,7 @@ that expenditure and, subject to subsection (5), those sums shall be disregarded
 
 [^c14170571]: Textual amendment: Word in s. 85A(1)(a) substituted (1.10.1999) by [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8), [s. 65(1)](https://www.legislation.gov.uk/ukpga/1999/8/section/65/1), [Sch. 4 para. 55(a)](https://www.legislation.gov.uk/ukpga/1999/8/schedule/4/paragraph/55/a); [S.S.I. 1999/90](https://www.legislation.gov.uk/ssi/1999/90), [art. 2(a)(b)](https://www.legislation.gov.uk/ssi/1999/90/article/2/a/b), [Sch. 1](https://www.legislation.gov.uk/ssi/1999/90/schedule/1)
 
-[^key-e872697b180e3aad38b9d290d169bb82]: Textual amendment: S. 85A(1A) inserted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 17 para. 17(a)](https://www.legislation.gov.uk/asp/2010/8/schedule/17/paragraph/17/a); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-e872697b180e3aad38b9d290d169bb82]: Textual amendment: S. 85A(1A) inserted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 17 para. 17(a)](https://www.legislation.gov.uk/asp/2010/8/schedule/17/paragraph/17/a); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
 
 [^c14170581]: Textual amendment: Words in s. 85A(2) substituted (1.10.1999) by [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8), [s. 65(1)](https://www.legislation.gov.uk/ukpga/1999/8/section/65/1), [Sch. 4 para. 55(b)](https://www.legislation.gov.uk/ukpga/1999/8/schedule/4/paragraph/55/b); [S.S.I. 1999/90](https://www.legislation.gov.uk/ssi/1999/90), [art. 2(a)(b)](https://www.legislation.gov.uk/ssi/1999/90/article/2/a/b), [Sch. 1](https://www.legislation.gov.uk/ssi/1999/90/schedule/1)
 
@@ -89,9 +89,9 @@ that expenditure and, subject to subsection (5), those sums shall be disregarded
 
 [^c14170621]: Textual amendment: Words in s. 85A(3) inserted (1.10.1999) by [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8), [s. 65(1)](https://www.legislation.gov.uk/ukpga/1999/8/section/65/1), [Sch. 4 para. 55(c)](https://www.legislation.gov.uk/ukpga/1999/8/schedule/4/paragraph/55/c); [S.S.I. 1999/90](https://www.legislation.gov.uk/ssi/1999/90), [art. 2(a)(b)](https://www.legislation.gov.uk/ssi/1999/90/article/2/a/b), [Sch. 1](https://www.legislation.gov.uk/ssi/1999/90/schedule/1)
 
-[^key-2fb8ef049aa8f3c150c23cf70b9ab927]: Modification: [S. 85A(4)](https://www.legislation.gov.uk/ukpga/1978/29/section/85A/4) applied (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2019/336/schedule/1/part/1) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
+[^c-2fb8ef049aa8f3c150c23cf70b9ab927]: Modification: [S. 85A(4)](https://www.legislation.gov.uk/ukpga/1978/29/section/85A/4) applied (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2019/336/schedule/1/part/1) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
 
-[^key-db259ff9b24eccb6dd042f30ad7dbcfe]: Textual amendment: Words in s. 85A(4)(a) inserted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 17 para. 17(b)](https://www.legislation.gov.uk/asp/2010/8/schedule/17/paragraph/17/b); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-db259ff9b24eccb6dd042f30ad7dbcfe]: Textual amendment: Words in s. 85A(4)(a) inserted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 17 para. 17(b)](https://www.legislation.gov.uk/asp/2010/8/schedule/17/paragraph/17/b); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
 
 [^c14170651]: Textual amendment: Word in s. 85A(6)(c) inserted (1.10.1999) by [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8), [s. 65(1)](https://www.legislation.gov.uk/ukpga/1999/8/section/65/1), [Sch. 4 para. 55(d)](https://www.legislation.gov.uk/ukpga/1999/8/schedule/4/paragraph/55/d); [S.S.I. 1999/90](https://www.legislation.gov.uk/ssi/1999/90), [art. 2(a)(b)](https://www.legislation.gov.uk/ssi/1999/90/article/2/a/b), [Sch. 1](https://www.legislation.gov.uk/ssi/1999/90/schedule/1)
 

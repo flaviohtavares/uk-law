@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 147. Application for ancillary orders: Secretary of State[^key-fc42a7ffa493a65e0fae73fce22de144]
+## 147. Application for ancillary orders: Secretary of State[^c-fc42a7ffa493a65e0fae73fce22de144]
 
 *Extent: S*
 
 (1) This section applies where the Secretary of State applies for a section 146 order.
 
-(2) If the application under section 146 relates to solemn proceedings (whether continuing or concluded) or to 2011 Act proceedings[^key-b7f46b0b790ee0fc44692948e63d1c2f], the Secretary of State may also apply to the court for—
+(2) If the application under section 146 relates to solemn proceedings (whether continuing or concluded) or to 2011 Act proceedings[^c-b7f46b0b790ee0fc44692948e63d1c2f], the Secretary of State may also apply to the court for—
 
 - (a) a restricted notification order and a non-attendance order, or
 - (b) a non-attendance order (but not a restricted notification order).
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fc42a7ffa493a65e0fae73fce22de144]: Commencement: S. 147 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2011/178/article/3) )
+[^c-fc42a7ffa493a65e0fae73fce22de144]: Commencement: S. 147 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2011/178/article/3) )
 
-[^key-b7f46b0b790ee0fc44692948e63d1c2f]: Textual amendment: Words in s. 147(2) inserted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [Sch. para. 24](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/24); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-b7f46b0b790ee0fc44692948e63d1c2f]: Textual amendment: Words in s. 147(2) inserted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [Sch. para. 24](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/24); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)

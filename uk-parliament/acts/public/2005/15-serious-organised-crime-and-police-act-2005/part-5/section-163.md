@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-8b8ed67e0261259687364ff5a91b8c83][^key-35f78ca3a533425a64c4430945ec4493] Sections 113 and 115 of the Police Act 1997 (c. 50) (criminal record certificates) are omitted.
+(1)[^c-8b8ed67e0261259687364ff5a91b8c83][^c-35f78ca3a533425a64c4430945ec4493] Sections 113 and 115 of the Police Act 1997 (c. 50) (criminal record certificates) are omitted.
 
-(2)[^key-9a0335be501e48414cdb23e07088a8dc][^key-35f78ca3a533425a64c4430945ec4493][^key-bbb2eb1055f9aa93551319864195004d][^key-0e089622e64721184c3c22a35146bf99][^key-d815ba93125889e5c011cf413d81744f][^key-4f8bb61248e03d1eef8ba773c1eb36d2][^key-52e45ec025728d8b9e9da7b7506126bf][^key-a99c351cc3bbe7c99482f901eecd520e] Before section 114 of that Act insert—
+(2)[^c-9a0335be501e48414cdb23e07088a8dc][^c-35f78ca3a533425a64c4430945ec4493][^c-bbb2eb1055f9aa93551319864195004d][^c-0e089622e64721184c3c22a35146bf99][^c-d815ba93125889e5c011cf413d81744f][^c-4f8bb61248e03d1eef8ba773c1eb36d2][^c-52e45ec025728d8b9e9da7b7506126bf][^c-a99c351cc3bbe7c99482f901eecd520e] Before section 114 of that Act insert—
 
 > **113A. Criminal record certificates**
 >
@@ -239,32 +239,32 @@ summary: ''
 >
 > (3) If the power mentioned in subsection (2) is exercised by the Scottish Ministers, the reference in that subsection to each House of Parliament must be construed as a reference to the Scottish Parliament.
 
-(3)[^key-8b8ed67e0261259687364ff5a91b8c83][^key-9c5362f26ac7f52b3d00e976b1ca6f3d][^key-55994d6bbb7759ec606645362401f153] Schedule 14 (which makes consequential amendments to Part 5 of the Police Act 1997 (c. 50)) has effect.
+(3)[^c-8b8ed67e0261259687364ff5a91b8c83][^c-9c5362f26ac7f52b3d00e976b1ca6f3d][^c-55994d6bbb7759ec606645362401f153] Schedule 14 (which makes consequential amendments to Part 5 of the Police Act 1997 (c. 50)) has effect.
 
-(4)[^key-a11a9592416eb3ff29f05ae3dbd07ed3] If section 115(1) of the Adoption and Children Act 2002 (c. 38) comes into force before the preceding provisions of this section, the Secretary of State may by order apply Part 5 of the Police Act 1997 subject to such modifications as he thinks necessary or expedient for the purpose of enabling a certificate or statement to be issued under section 113 or 115 of that Act of 1997 in connection with consideration by a court of whether to make a special guardianship order under section 14A of the Children Act 1989 (c. 41).
+(4)[^c-a11a9592416eb3ff29f05ae3dbd07ed3] If section 115(1) of the Adoption and Children Act 2002 (c. 38) comes into force before the preceding provisions of this section, the Secretary of State may by order apply Part 5 of the Police Act 1997 subject to such modifications as he thinks necessary or expedient for the purpose of enabling a certificate or statement to be issued under section 113 or 115 of that Act of 1997 in connection with consideration by a court of whether to make a special guardianship order under section 14A of the Children Act 1989 (c. 41).
 
 ## Annotations
 
-[^key-8b8ed67e0261259687364ff5a91b8c83]: Commencement: [S. 163(1)](https://www.legislation.gov.uk/ukpga/2005/15/section/163/1)[(3)](https://www.legislation.gov.uk/ukpga/2005/15/section/163/3) in force at 1.4.2006 for S. by [S.S.I. 2006/166](https://www.legislation.gov.uk/ssi/2006/166), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2006/166/article/2/1/c)
+[^c-8b8ed67e0261259687364ff5a91b8c83]: Commencement: [S. 163(1)](https://www.legislation.gov.uk/ukpga/2005/15/section/163/1)[(3)](https://www.legislation.gov.uk/ukpga/2005/15/section/163/3) in force at 1.4.2006 for S. by [S.S.I. 2006/166](https://www.legislation.gov.uk/ssi/2006/166), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2006/166/article/2/1/c)
 
-[^key-35f78ca3a533425a64c4430945ec4493]: Commencement: [S. 163(1)](https://www.legislation.gov.uk/ukpga/2005/15/section/163/1)[(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/163/2) in force at 6.4.2006 for specified purposes for E.W. by [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 7(a)](https://www.legislation.gov.uk/uksi/2006/378/article/7/a)
+[^c-35f78ca3a533425a64c4430945ec4493]: Commencement: [S. 163(1)](https://www.legislation.gov.uk/ukpga/2005/15/section/163/1)[(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/163/2) in force at 6.4.2006 for specified purposes for E.W. by [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 7(a)](https://www.legislation.gov.uk/uksi/2006/378/article/7/a)
 
-[^key-9a0335be501e48414cdb23e07088a8dc]: Commencement: [S. 163(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/163/2) in force at 1.4.2006 for specified purposes for S. by [S.S.I. 2006/166](https://www.legislation.gov.uk/ssi/2006/166), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2006/166/article/2/1/c)
+[^c-9a0335be501e48414cdb23e07088a8dc]: Commencement: [S. 163(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/163/2) in force at 1.4.2006 for specified purposes for S. by [S.S.I. 2006/166](https://www.legislation.gov.uk/ssi/2006/166), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2006/166/article/2/1/c)
 
-[^key-bbb2eb1055f9aa93551319864195004d]: Commencement: [S. 163(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/163/2) in force at 25.9.2006 for specified purposes for E.W. by [S.I. 2006/2182](https://www.legislation.gov.uk/uksi/2006/2182), [art. 2](https://www.legislation.gov.uk/uksi/2006/2182/article/2)
+[^c-bbb2eb1055f9aa93551319864195004d]: Commencement: [S. 163(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/163/2) in force at 25.9.2006 for specified purposes for E.W. by [S.I. 2006/2182](https://www.legislation.gov.uk/uksi/2006/2182), [art. 2](https://www.legislation.gov.uk/uksi/2006/2182/article/2)
 
-[^key-0e089622e64721184c3c22a35146bf99]: Commencement: [S. 163(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/163/2) in force at 12.11.2007 for specified purposes for E.W. by [S.I. 2007/3064](https://www.legislation.gov.uk/uksi/2007/3064), [art. 2](https://www.legislation.gov.uk/uksi/2007/3064/article/2)
+[^c-0e089622e64721184c3c22a35146bf99]: Commencement: [S. 163(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/163/2) in force at 12.11.2007 for specified purposes for E.W. by [S.I. 2007/3064](https://www.legislation.gov.uk/uksi/2007/3064), [art. 2](https://www.legislation.gov.uk/uksi/2007/3064/article/2)
 
-[^key-d815ba93125889e5c011cf413d81744f]: Commencement: [S. 163(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/163/2) in force at 29.2.2008 for specified purposes for E.W. by [S.I. 2008/306](https://www.legislation.gov.uk/uksi/2008/306), [art. 2](https://www.legislation.gov.uk/uksi/2008/306/article/2)
+[^c-d815ba93125889e5c011cf413d81744f]: Commencement: [S. 163(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/163/2) in force at 29.2.2008 for specified purposes for E.W. by [S.I. 2008/306](https://www.legislation.gov.uk/uksi/2008/306), [art. 2](https://www.legislation.gov.uk/uksi/2008/306/article/2)
 
-[^key-4f8bb61248e03d1eef8ba773c1eb36d2]: Commencement: [S. 163(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/163/2) in force at 1.4.2008 for N.I. by [S.I. 2008/697](https://www.legislation.gov.uk/uksi/2008/697), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/697/article/2/a)
+[^c-4f8bb61248e03d1eef8ba773c1eb36d2]: Commencement: [S. 163(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/163/2) in force at 1.4.2008 for N.I. by [S.I. 2008/697](https://www.legislation.gov.uk/uksi/2008/697), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/697/article/2/a)
 
-[^key-52e45ec025728d8b9e9da7b7506126bf]: Commencement: [S. 163(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/163/2) in force at 9.3.2015 for specified purposes by [S.I. 2015/188](https://www.legislation.gov.uk/uksi/2015/188), [art. 2](https://www.legislation.gov.uk/uksi/2015/188/article/2)
+[^c-52e45ec025728d8b9e9da7b7506126bf]: Commencement: [S. 163(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/163/2) in force at 9.3.2015 for specified purposes by [S.I. 2015/188](https://www.legislation.gov.uk/uksi/2015/188), [art. 2](https://www.legislation.gov.uk/uksi/2015/188/article/2)
 
-[^key-a99c351cc3bbe7c99482f901eecd520e]: Commencement: [S. 163(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/163/2) in force at 27.3.2020 for E.W. for specified purposes and immediately after the coming into force of 2020 c. 7, s. 9(8) for E.W. for further specified purposes by [S.I. 2020/357](https://www.legislation.gov.uk/uksi/2020/357), [art. 2](https://www.legislation.gov.uk/uksi/2020/357/article/2)
+[^c-a99c351cc3bbe7c99482f901eecd520e]: Commencement: [S. 163(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/163/2) in force at 27.3.2020 for E.W. for specified purposes and immediately after the coming into force of 2020 c. 7, s. 9(8) for E.W. for further specified purposes by [S.I. 2020/357](https://www.legislation.gov.uk/uksi/2020/357), [art. 2](https://www.legislation.gov.uk/uksi/2020/357/article/2)
 
-[^key-9c5362f26ac7f52b3d00e976b1ca6f3d]: Commencement: [S. 163(3)](https://www.legislation.gov.uk/ukpga/2005/15/section/163/3) in force at 6.4.2006 for specified purposes for E.W. by [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 7(b)](https://www.legislation.gov.uk/uksi/2006/378/article/7/b)
+[^c-9c5362f26ac7f52b3d00e976b1ca6f3d]: Commencement: [S. 163(3)](https://www.legislation.gov.uk/ukpga/2005/15/section/163/3) in force at 6.4.2006 for specified purposes for E.W. by [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 7(b)](https://www.legislation.gov.uk/uksi/2006/378/article/7/b)
 
-[^key-55994d6bbb7759ec606645362401f153]: Commencement: [S. 163(3)](https://www.legislation.gov.uk/ukpga/2005/15/section/163/3) in force at 3.12.2007 for N.I. by [S.I. 2007/3341](https://www.legislation.gov.uk/uksi/2007/3341), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3341/article/2/a)
+[^c-55994d6bbb7759ec606645362401f153]: Commencement: [S. 163(3)](https://www.legislation.gov.uk/ukpga/2005/15/section/163/3) in force at 3.12.2007 for N.I. by [S.I. 2007/3341](https://www.legislation.gov.uk/uksi/2007/3341), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3341/article/2/a)
 
-[^key-a11a9592416eb3ff29f05ae3dbd07ed3]: Commencement: S. 163(4) in force at 7.7.2005, see s. 178(2)
+[^c-a11a9592416eb3ff29f05ae3dbd07ed3]: Commencement: S. 163(4) in force at 7.7.2005, see s. 178(2)

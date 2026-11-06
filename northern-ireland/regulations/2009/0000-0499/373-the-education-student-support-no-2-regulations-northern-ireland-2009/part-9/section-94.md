@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 94. Payment of grants for fees[^key-c9d71e588fa393c693f48b1fd4904097]
+## 94. Payment of grants for fees[^c-c9d71e588fa393c693f48b1fd4904097]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9d71e588fa393c693f48b1fd4904097]: Commencement: Reg. 94 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-c9d71e588fa393c693f48b1fd4904097]: Commencement: Reg. 94 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)

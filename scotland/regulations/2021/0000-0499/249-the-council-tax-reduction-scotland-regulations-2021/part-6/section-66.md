@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66. Capital limit[^key-2344d093679ea188eabd1ef46c07ba95]
+## 66. Capital limit[^c-2344d093679ea188eabd1ef46c07ba95]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ No person is entitled to council tax reduction if that person’s capital exceed
 
 ## Annotations
 
-[^key-2344d093679ea188eabd1ef46c07ba95]: Commencement: [Reg. 66](https://www.legislation.gov.uk/ssi/2021/249/regulation/66) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-2344d093679ea188eabd1ef46c07ba95]: Commencement: [Reg. 66](https://www.legislation.gov.uk/ssi/2021/249/regulation/66) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

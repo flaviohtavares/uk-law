@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Order for removal to and detention in hospital[^key-dc918bfaf58f666a7408525ec9c2843b]
+## 42. Order for removal to and detention in hospital[^c-dc918bfaf58f666a7408525ec9c2843b]
 
 *Extent: S*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc918bfaf58f666a7408525ec9c2843b]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2008/5/section/42) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-dc918bfaf58f666a7408525ec9c2843b]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2008/5/section/42) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

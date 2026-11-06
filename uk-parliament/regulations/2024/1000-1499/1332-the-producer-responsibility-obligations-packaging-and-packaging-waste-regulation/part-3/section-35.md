@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Reporting obligations: large producers[^key-5ec567a90fdcda80cdb9fe540f9cf383]
+## 35. Reporting obligations: large producers[^c-5ec567a90fdcda80cdb9fe540f9cf383]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,7 +45,7 @@ Data to be reported to the appropriate agency: large producers
 </tbody>
 </table>
 
-[^key-cf9885295b91319e44c62e1a6d7c7b7c]
+[^c-cf9885295b91319e44c62e1a6d7c7b7c]
 
 (2) Reports of data for which Table 2 specifies a 6 monthly reporting period must be submitted to the appropriate agency—
 
@@ -60,6 +60,6 @@ Data to be reported to the appropriate agency: large producers
 
 ## Annotations
 
-[^key-5ec567a90fdcda80cdb9fe540f9cf383]: Commencement: Reg. 35 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-5ec567a90fdcda80cdb9fe540f9cf383]: Commencement: Reg. 35 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-cf9885295b91319e44c62e1a6d7c7b7c]: Textual amendment: Word in [reg. 35(1)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/35/1) Table 2 omitted (1.1.2026) by virtue of [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/6/5) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
+[^c-cf9885295b91319e44c62e1a6d7c7b7c]: Textual amendment: Word in [reg. 35(1)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/35/1) Table 2 omitted (1.1.2026) by virtue of [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/6/5) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))

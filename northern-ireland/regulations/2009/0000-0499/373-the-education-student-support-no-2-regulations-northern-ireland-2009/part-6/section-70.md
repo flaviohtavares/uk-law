@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 70. Long courses loan[^key-0d8f1f3519c0b6516ef013938215890c]
+## 70. Long courses loan[^c-0d8f1f3519c0b6516ef013938215890c]
 
 *Extent: N.I.*
 
@@ -37,30 +37,30 @@ summary: ''
 
 (5) The amount is—
 
-- (i) for a student in category A, £96[^key-4ce6fdb55cebb25c80ff8ed49e1c41c7];
-- (ii) for a student in category B, £188[^key-5c469621da914f2ddfa70772856f6b53];
-- (iii) for a student in category C, £203[^key-ee21e454e39558f26e1464a1e2def7df];
-- (iv) for a student in category D, £146[^key-a874acaa766ec6aa5134f21532d140ef].
+- (i) for a student in category A, £96[^c-4ce6fdb55cebb25c80ff8ed49e1c41c7];
+- (ii) for a student in category B, £188[^c-5c469621da914f2ddfa70772856f6b53];
+- (iii) for a student in category C, £203[^c-ee21e454e39558f26e1464a1e2def7df];
+- (iv) for a student in category D, £146[^c-a874acaa766ec6aa5134f21532d140ef].
 
 (6) Where an eligible student attends a course at the University of Ulster for a period not exceeding 6 weeks during the summer vacation and the Department is satisfied that the course is one which is included under the university’s summer teaching scheme, the maximum amount of long courses loan for each week or part week of such attendance is—
 
-- (a) for a student in Category A, by £96[^key-e0b81b56bdaccab411543564db8a9318]; or
-- (b) for a student in Category D, by £146[^key-8df05d540c5d6024898fcbb8b0f6d943]
+- (a) for a student in Category A, by £96[^c-e0b81b56bdaccab411543564db8a9318]; or
+- (b) for a student in Category D, by £146[^c-8df05d540c5d6024898fcbb8b0f6d943]
 
 (7) A deduction from the amount of long courses loan calculated in accordance with this regulation may be made in accordance with Part 8.
 
 ## Annotations
 
-[^key-0d8f1f3519c0b6516ef013938215890c]: Commencement: Reg. 70 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-0d8f1f3519c0b6516ef013938215890c]: Commencement: Reg. 70 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
 
-[^key-4ce6fdb55cebb25c80ff8ed49e1c41c7]: Textual amendment: Sum in [reg. 70(5)(i)](https://www.legislation.gov.uk/nisr/2009/373/regulation/70/5/i) substituted (10.4.2026 with application in accordance with reg. 1(3)(4)(b)) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/56)](https://www.legislation.gov.uk/nisr/2026/56), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2026/56/regulation/1/2), [7](https://www.legislation.gov.uk/nisr/2026/56/regulation/7), [Sch.](https://www.legislation.gov.uk/nisr/2026/56/schedule)
+[^c-4ce6fdb55cebb25c80ff8ed49e1c41c7]: Textual amendment: Sum in [reg. 70(5)(i)](https://www.legislation.gov.uk/nisr/2009/373/regulation/70/5/i) substituted (10.4.2026 with application in accordance with reg. 1(3)(4)(b)) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/56)](https://www.legislation.gov.uk/nisr/2026/56), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2026/56/regulation/1/2), [7](https://www.legislation.gov.uk/nisr/2026/56/regulation/7), [Sch.](https://www.legislation.gov.uk/nisr/2026/56/schedule)
 
-[^key-5c469621da914f2ddfa70772856f6b53]: Textual amendment: Sum in [reg. 70(5)(ii)](https://www.legislation.gov.uk/nisr/2009/373/regulation/70/5/ii) substituted (10.4.2026 with application in accordance with reg. 1(3)(4)(b)) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/56)](https://www.legislation.gov.uk/nisr/2026/56), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2026/56/regulation/1/2), [7](https://www.legislation.gov.uk/nisr/2026/56/regulation/7), [Sch.](https://www.legislation.gov.uk/nisr/2026/56/schedule)
+[^c-5c469621da914f2ddfa70772856f6b53]: Textual amendment: Sum in [reg. 70(5)(ii)](https://www.legislation.gov.uk/nisr/2009/373/regulation/70/5/ii) substituted (10.4.2026 with application in accordance with reg. 1(3)(4)(b)) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/56)](https://www.legislation.gov.uk/nisr/2026/56), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2026/56/regulation/1/2), [7](https://www.legislation.gov.uk/nisr/2026/56/regulation/7), [Sch.](https://www.legislation.gov.uk/nisr/2026/56/schedule)
 
-[^key-ee21e454e39558f26e1464a1e2def7df]: Textual amendment: Sum in [reg. 70(5)(iii)](https://www.legislation.gov.uk/nisr/2009/373/regulation/70/5/iii) substituted (10.4.2026 with application in accordance with reg. 1(3)(4)(b)) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/56)](https://www.legislation.gov.uk/nisr/2026/56), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2026/56/regulation/1/2), [7](https://www.legislation.gov.uk/nisr/2026/56/regulation/7), [Sch.](https://www.legislation.gov.uk/nisr/2026/56/schedule)
+[^c-ee21e454e39558f26e1464a1e2def7df]: Textual amendment: Sum in [reg. 70(5)(iii)](https://www.legislation.gov.uk/nisr/2009/373/regulation/70/5/iii) substituted (10.4.2026 with application in accordance with reg. 1(3)(4)(b)) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/56)](https://www.legislation.gov.uk/nisr/2026/56), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2026/56/regulation/1/2), [7](https://www.legislation.gov.uk/nisr/2026/56/regulation/7), [Sch.](https://www.legislation.gov.uk/nisr/2026/56/schedule)
 
-[^key-a874acaa766ec6aa5134f21532d140ef]: Textual amendment: Sum in [reg. 70(5)(iv)](https://www.legislation.gov.uk/nisr/2009/373/regulation/70/5/iv) substituted (10.4.2026 with application in accordance with reg. 1(3)(4)(b)) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/56)](https://www.legislation.gov.uk/nisr/2026/56), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2026/56/regulation/1/2), [7](https://www.legislation.gov.uk/nisr/2026/56/regulation/7), [Sch.](https://www.legislation.gov.uk/nisr/2026/56/schedule)
+[^c-a874acaa766ec6aa5134f21532d140ef]: Textual amendment: Sum in [reg. 70(5)(iv)](https://www.legislation.gov.uk/nisr/2009/373/regulation/70/5/iv) substituted (10.4.2026 with application in accordance with reg. 1(3)(4)(b)) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/56)](https://www.legislation.gov.uk/nisr/2026/56), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2026/56/regulation/1/2), [7](https://www.legislation.gov.uk/nisr/2026/56/regulation/7), [Sch.](https://www.legislation.gov.uk/nisr/2026/56/schedule)
 
-[^key-e0b81b56bdaccab411543564db8a9318]: Textual amendment: Sum in [reg. 70(6)(a)](https://www.legislation.gov.uk/nisr/2009/373/regulation/70/6/a) substituted (10.4.2026 with application in accordance with reg. 1(3)(4)(b)) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/56)](https://www.legislation.gov.uk/nisr/2026/56), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2026/56/regulation/1/2), [7](https://www.legislation.gov.uk/nisr/2026/56/regulation/7), [Sch.](https://www.legislation.gov.uk/nisr/2026/56/schedule)
+[^c-e0b81b56bdaccab411543564db8a9318]: Textual amendment: Sum in [reg. 70(6)(a)](https://www.legislation.gov.uk/nisr/2009/373/regulation/70/6/a) substituted (10.4.2026 with application in accordance with reg. 1(3)(4)(b)) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/56)](https://www.legislation.gov.uk/nisr/2026/56), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2026/56/regulation/1/2), [7](https://www.legislation.gov.uk/nisr/2026/56/regulation/7), [Sch.](https://www.legislation.gov.uk/nisr/2026/56/schedule)
 
-[^key-8df05d540c5d6024898fcbb8b0f6d943]: Textual amendment: Sum in [reg. 70(6)(b)](https://www.legislation.gov.uk/nisr/2009/373/regulation/70/6/b) substituted (10.4.2026 with application in accordance with reg. 1(3)(4)(b)) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/56)](https://www.legislation.gov.uk/nisr/2026/56), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2026/56/regulation/1/2), [7](https://www.legislation.gov.uk/nisr/2026/56/regulation/7), [Sch.](https://www.legislation.gov.uk/nisr/2026/56/schedule)
+[^c-8df05d540c5d6024898fcbb8b0f6d943]: Textual amendment: Sum in [reg. 70(6)(b)](https://www.legislation.gov.uk/nisr/2009/373/regulation/70/6/b) substituted (10.4.2026 with application in accordance with reg. 1(3)(4)(b)) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/56)](https://www.legislation.gov.uk/nisr/2026/56), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2026/56/regulation/1/2), [7](https://www.legislation.gov.uk/nisr/2026/56/regulation/7), [Sch.](https://www.legislation.gov.uk/nisr/2026/56/schedule)

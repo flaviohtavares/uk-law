@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 13 — DOCUMENTS AND PLANS TO BE CERTIFIED[^key-0d26a82ef62a566d51beba45391def83]
+## SCHEDULE 13 — DOCUMENTS AND PLANS TO BE CERTIFIED[^c-0d26a82ef62a566d51beba45391def83]
 
 *Extent: E+W+S*
 
@@ -64,7 +64,7 @@ Article 41
 | Figure 13-2: Operational Noise Contours | EN010142/APP/6.3 | 1 | June 2024 |
 | Figure 16-3: Proposed HGV Routes – Principal Site and Cable Route Corridor | EN010142/APP/6.3 | 1 | June 2024 |
 | Figure 16-4: Local Highway Network | EN010142/APP/6.3 | 1 | June 2024 |
-| Figure 16-8: Selected Bus Stops and Routes Closest[^key-7ad600118e9a7160202be18619b4f5e9] to the Scheme | EN010142/APP/6.3 | 1 | June 2024 |
+| Figure 16-8: Selected Bus Stops and Routes Closest[^c-7ad600118e9a7160202be18619b4f5e9] to the Scheme | EN010142/APP/6.3 | 1 | June 2024 |
 | Figure 18-5: Transport Cumulative Traffic Routes | EN010142/APP/6.3 | 2 | February 2025 |
 | Outline Design Principles Statement | EN010142/APP/7.4 | 3 | January 2025 |
 | Framework Construction Environmental Management Plan | EN010142/APP/7.8 | 3 | February 2025 |
@@ -80,6 +80,6 @@ Article 41
 
 ## Annotations
 
-[^key-0d26a82ef62a566d51beba45391def83]: Commencement: Sch. 13 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
+[^c-0d26a82ef62a566d51beba45391def83]: Commencement: Sch. 13 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
 
-[^key-7ad600118e9a7160202be18619b4f5e9]: Textual amendment: Word in Sch. 13 substituted (30.4.2026) by [The Tillbridge Solar (Correction) Order 2026 (S.I. 2026/487)](https://www.legislation.gov.uk/uksi/2026/487), [art. 1](https://www.legislation.gov.uk/uksi/2026/487/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/487/schedule)
+[^c-7ad600118e9a7160202be18619b4f5e9]: Textual amendment: Word in Sch. 13 substituted (30.4.2026) by [The Tillbridge Solar (Correction) Order 2026 (S.I. 2026/487)](https://www.legislation.gov.uk/uksi/2026/487), [art. 1](https://www.legislation.gov.uk/uksi/2026/487/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/487/schedule)

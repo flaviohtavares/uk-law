@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 19. Commencement and application[^key-fd567aff4184eb28842256aba8b7f784]
+## 19. Commencement and application[^c-fd567aff4184eb28842256aba8b7f784]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd567aff4184eb28842256aba8b7f784]: Commencement: S. 19 in force at Royal Assent, see [s. 19(1)(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/b)
+[^c-fd567aff4184eb28842256aba8b7f784]: Commencement: S. 19 in force at Royal Assent, see [s. 19(1)(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/b)

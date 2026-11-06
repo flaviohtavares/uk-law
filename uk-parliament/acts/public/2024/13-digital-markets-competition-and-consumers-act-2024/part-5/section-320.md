@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 320. Requests for investigative assistance[^key-8aea8941d93c36e0e85a7a0c29b63616][^key-fb00649212c63d63a35131f27f3921cf]
+## 320. Requests for investigative assistance[^c-8aea8941d93c36e0e85a7a0c29b63616][^c-fb00649212c63d63a35131f27f3921cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8aea8941d93c36e0e85a7a0c29b63616]: Commencement: S. 320 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-8aea8941d93c36e0e85a7a0c29b63616]: Commencement: S. 320 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-fb00649212c63d63a35131f27f3921cf]: Commencement: [S. 320](https://www.legislation.gov.uk/ukpga/2024/13/section/320) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(4)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/4)
+[^c-fb00649212c63d63a35131f27f3921cf]: Commencement: [S. 320](https://www.legislation.gov.uk/ukpga/2024/13/section/320) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(4)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/4)

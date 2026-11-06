@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Code of practice: Chief Constable[^key-690a3ce599f4a060b85684f6259fad3c]
+## 48. Code of practice: Chief Constable[^c-690a3ce599f4a060b85684f6259fad3c]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-690a3ce599f4a060b85684f6259fad3c]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2003/20/section/48) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(ee)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/ee)
+[^c-690a3ce599f4a060b85684f6259fad3c]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2003/20/section/48) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(ee)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/ee)

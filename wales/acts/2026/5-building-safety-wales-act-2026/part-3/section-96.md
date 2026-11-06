@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 96. Power of enforcing authority to give compliance notice[^key-327dba30757f50274a746c3d68e1c416]
+## 96. Power of enforcing authority to give compliance notice[^c-327dba30757f50274a746c3d68e1c416]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-327dba30757f50274a746c3d68e1c416]: Commencement: S. 96 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-327dba30757f50274a746c3d68e1c416]: Commencement: S. 96 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Prisoner to comply with licence conditions[^key-0379800ecd70b5af7761dc6bac34b985]
+## 35. Prisoner to comply with licence conditions[^c-0379800ecd70b5af7761dc6bac34b985]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ Where a prisoner is released on licence by virtue of section 11(2), 13(2)(a), 19
 
 ## Annotations
 
-[^key-0379800ecd70b5af7761dc6bac34b985]: Modification: Pt. 2 power to modify conferred (24.9.2012) by [Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7)](https://www.legislation.gov.uk/asp/2012/7), [ss. 2(2)](https://www.legislation.gov.uk/asp/2012/7/section/2/2), [5(2)](https://www.legislation.gov.uk/asp/2012/7/section/5/2); [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 2](https://www.legislation.gov.uk/ssi/2012/249/article/2)
+[^c-0379800ecd70b5af7761dc6bac34b985]: Modification: Pt. 2 power to modify conferred (24.9.2012) by [Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7)](https://www.legislation.gov.uk/asp/2012/7), [ss. 2(2)](https://www.legislation.gov.uk/asp/2012/7/section/2/2), [5(2)](https://www.legislation.gov.uk/asp/2012/7/section/5/2); [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 2](https://www.legislation.gov.uk/ssi/2012/249/article/2)

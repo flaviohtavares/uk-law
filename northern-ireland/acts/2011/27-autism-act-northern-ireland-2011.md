@@ -53,14 +53,14 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (1) The Department must prepare a strategy on autism to be known as the autism strategy and must publish the autism strategy not less than two years after the passing of this Act.
 
-(2) Before preparing the autism strategy, the Department must consult the Northern Ireland departments , and such other persons as the Department considers appropriate,[^key-d53097004c1e8de9f1efac5cadee9d38] on it.
+(2) Before preparing the autism strategy, the Department must consult the Northern Ireland departments , and such other persons as the Department considers appropriate,[^c-d53097004c1e8de9f1efac5cadee9d38] on it.
 
 (3) The Department must request every HSC trust to provide data on the prevalence of autism in its area in order—
 
 - (a) that it can publish and update the strategy; and
 - (b) that the Northern Ireland departments can effectively implement the strategy.
 
-(3A)[^key-88f9a88633bdde0094451b4de6c46e39] The data on prevalence must include data on prevalence in adults and prevalence in children.
+(3A)[^c-88f9a88633bdde0094451b4de6c46e39] The data on prevalence must include data on prevalence in adults and prevalence in children.
 
 (4) The HSC trusts must provide the Department with all information it requests under subsection (3).
 
@@ -86,7 +86,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (4) The autism strategy must set out the Department's proposals for promoting an autism awareness campaign.
 
-(4A)[^key-5492850fcfc9106b75da2f244b488bf9] The autism strategy must set out how training (including accredited training) is to be provided to the staff of Northern Ireland departments and other public bodies on how to best address the needs of—
+(4A)[^c-5492850fcfc9106b75da2f244b488bf9] The autism strategy must set out how training (including accredited training) is to be provided to the staff of Northern Ireland departments and other public bodies on how to best address the needs of—
 
 - (a) persons with autism, and
 - (b) the families and carers of persons with autism.
@@ -117,7 +117,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (7) Before making a regulation under this section the Department must consult the Northern Ireland departments and other such persons as the Department thinks appropriate.
 
-## 3A. Methodology of the autism strategy[^key-6c547a522c19df65a6c6db672b3d7839]
+## 3A. Methodology of the autism strategy[^c-6c547a522c19df65a6c6db672b3d7839]
 
 (1) The autism strategy must take into account best international practice on autism.
 
@@ -134,7 +134,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (6) Without limiting the generality of consultations required under section 2(2), those measurable targets must be developed in consultation with bodies with an interest in promoting the rights of persons with autism.
 
-## Funding for autism[^key-33b8165a6797f7d7b960c64d04723012]
+## Funding for autism[^c-33b8165a6797f7d7b960c64d04723012]
 
 ### 3B. Annual autism funding reports
 
@@ -155,7 +155,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (4) The first annual report must be laid in respect of the financial year ending 31 March 2023.
 
-## Autism reviewer[^key-b945af45d9dff76b5d87201e1f7d4098]
+## Autism reviewer[^c-b945af45d9dff76b5d87201e1f7d4098]
 
 ### 3C. Autism reviewer
 
@@ -200,7 +200,7 @@ The functions of the autism reviewer are—
 - “**HSC trust**” refers to a body established under Article 10 of the Health and Personal Social Services (Northern Ireland) Order 1991 (NI 1);
 - “**the Minister**” means the Minister of Health, Social Services and Public Safety;
 - “**Northern Ireland department**” means the Department of Culture, Arts and Leisure, the Department of Education, the Department for Employment and Learning, the Department of Agriculture and Rural Development, the Department of Enterprise, Trade and Investment, the Department of the Environment, the Department of Finance and Personnel, the Department of Justice, the Department for Regional Development, the Department for Social Development and the Office of the First Minister and deputy First Minister.
-- “[^key-665fe3cc3282a0d4196c765210b3aba4]**public body**” means a body established by or under a statutory provision within the meaning of section 1(f) of the Interpretation Act (Northern Ireland) 1954.
+- “[^c-665fe3cc3282a0d4196c765210b3aba4]**public body**” means a body established by or under a statutory provision within the meaning of section 1(f) of the Interpretation Act (Northern Ireland) 1954.
 
 ### 5. Commencement
 
@@ -212,16 +212,16 @@ This Act may be cited as the Autism Act (Northern Ireland) 2011.
 
 ## Annotations
 
-[^key-d53097004c1e8de9f1efac5cadee9d38]: Textual amendment: Words in [s. 2(2)](https://www.legislation.gov.uk/nia/2011/27/section/2/2) inserted (27.7.2022) by [Autism (Amendment) Act (Northern Ireland) 2022 (c. 13)](https://www.legislation.gov.uk/nia/2022/13), [ss. 1(a)](https://www.legislation.gov.uk/nia/2022/13/section/1/a), [7](https://www.legislation.gov.uk/nia/2022/13/section/7)
+[^c-d53097004c1e8de9f1efac5cadee9d38]: Textual amendment: Words in [s. 2(2)](https://www.legislation.gov.uk/nia/2011/27/section/2/2) inserted (27.7.2022) by [Autism (Amendment) Act (Northern Ireland) 2022 (c. 13)](https://www.legislation.gov.uk/nia/2022/13), [ss. 1(a)](https://www.legislation.gov.uk/nia/2022/13/section/1/a), [7](https://www.legislation.gov.uk/nia/2022/13/section/7)
 
-[^key-88f9a88633bdde0094451b4de6c46e39]: Textual amendment: [S. 2(3A)](https://www.legislation.gov.uk/nia/2011/27/section/2/3A) inserted (27.7.2022) by [Autism (Amendment) Act (Northern Ireland) 2022 (c. 13)](https://www.legislation.gov.uk/nia/2022/13), [ss. 1(b)](https://www.legislation.gov.uk/nia/2022/13/section/1/b), [7](https://www.legislation.gov.uk/nia/2022/13/section/7)
+[^c-88f9a88633bdde0094451b4de6c46e39]: Textual amendment: [S. 2(3A)](https://www.legislation.gov.uk/nia/2011/27/section/2/3A) inserted (27.7.2022) by [Autism (Amendment) Act (Northern Ireland) 2022 (c. 13)](https://www.legislation.gov.uk/nia/2022/13), [ss. 1(b)](https://www.legislation.gov.uk/nia/2022/13/section/1/b), [7](https://www.legislation.gov.uk/nia/2022/13/section/7)
 
-[^key-5492850fcfc9106b75da2f244b488bf9]: Textual amendment: [S. 3(4A)-(4E)](https://www.legislation.gov.uk/nia/2011/27/section/3/4A) inserted (27.7.2022) by [Autism (Amendment) Act (Northern Ireland) 2022 (c. 13)](https://www.legislation.gov.uk/nia/2022/13), [ss. 2](https://www.legislation.gov.uk/nia/2022/13/section/2), [7](https://www.legislation.gov.uk/nia/2022/13/section/7)
+[^c-5492850fcfc9106b75da2f244b488bf9]: Textual amendment: [S. 3(4A)-(4E)](https://www.legislation.gov.uk/nia/2011/27/section/3/4A) inserted (27.7.2022) by [Autism (Amendment) Act (Northern Ireland) 2022 (c. 13)](https://www.legislation.gov.uk/nia/2022/13), [ss. 2](https://www.legislation.gov.uk/nia/2022/13/section/2), [7](https://www.legislation.gov.uk/nia/2022/13/section/7)
 
-[^key-6c547a522c19df65a6c6db672b3d7839]: Textual amendment: [S. 3A](https://www.legislation.gov.uk/nia/2011/27/section/3A) inserted (27.7.2022) by [Autism (Amendment) Act (Northern Ireland) 2022 (c. 13)](https://www.legislation.gov.uk/nia/2022/13), [ss. 3](https://www.legislation.gov.uk/nia/2022/13/section/3), [7](https://www.legislation.gov.uk/nia/2022/13/section/7)
+[^c-6c547a522c19df65a6c6db672b3d7839]: Textual amendment: [S. 3A](https://www.legislation.gov.uk/nia/2011/27/section/3A) inserted (27.7.2022) by [Autism (Amendment) Act (Northern Ireland) 2022 (c. 13)](https://www.legislation.gov.uk/nia/2022/13), [ss. 3](https://www.legislation.gov.uk/nia/2022/13/section/3), [7](https://www.legislation.gov.uk/nia/2022/13/section/7)
 
-[^key-33b8165a6797f7d7b960c64d04723012]: Textual amendment: [S. 3B](https://www.legislation.gov.uk/nia/2011/27/section/3B) and cross-heading inserted (27.7.2022) by [Autism (Amendment) Act (Northern Ireland) 2022 (c. 13)](https://www.legislation.gov.uk/nia/2022/13), [ss. 4](https://www.legislation.gov.uk/nia/2022/13/section/4), [7](https://www.legislation.gov.uk/nia/2022/13/section/7)
+[^c-33b8165a6797f7d7b960c64d04723012]: Textual amendment: [S. 3B](https://www.legislation.gov.uk/nia/2011/27/section/3B) and cross-heading inserted (27.7.2022) by [Autism (Amendment) Act (Northern Ireland) 2022 (c. 13)](https://www.legislation.gov.uk/nia/2022/13), [ss. 4](https://www.legislation.gov.uk/nia/2022/13/section/4), [7](https://www.legislation.gov.uk/nia/2022/13/section/7)
 
-[^key-b945af45d9dff76b5d87201e1f7d4098]: Textual amendment: [Ss. 3C](https://www.legislation.gov.uk/nia/2011/27/section/3C), [3D](https://www.legislation.gov.uk/nia/2011/27/section/3D) and cross-heading inserted (27.7.2022) by [Autism (Amendment) Act (Northern Ireland) 2022 (c. 13)](https://www.legislation.gov.uk/nia/2022/13), [ss. 5](https://www.legislation.gov.uk/nia/2022/13/section/5), [7](https://www.legislation.gov.uk/nia/2022/13/section/7)
+[^c-b945af45d9dff76b5d87201e1f7d4098]: Textual amendment: [Ss. 3C](https://www.legislation.gov.uk/nia/2011/27/section/3C), [3D](https://www.legislation.gov.uk/nia/2011/27/section/3D) and cross-heading inserted (27.7.2022) by [Autism (Amendment) Act (Northern Ireland) 2022 (c. 13)](https://www.legislation.gov.uk/nia/2022/13), [ss. 5](https://www.legislation.gov.uk/nia/2022/13/section/5), [7](https://www.legislation.gov.uk/nia/2022/13/section/7)
 
-[^key-665fe3cc3282a0d4196c765210b3aba4]: Textual amendment: Words in [s. 4(1)](https://www.legislation.gov.uk/nia/2011/27/section/4/1) inserted (27.7.2022) by [Autism (Amendment) Act (Northern Ireland) 2022 (c. 13)](https://www.legislation.gov.uk/nia/2022/13), [ss. 6](https://www.legislation.gov.uk/nia/2022/13/section/6), [7](https://www.legislation.gov.uk/nia/2022/13/section/7)
+[^c-665fe3cc3282a0d4196c765210b3aba4]: Textual amendment: Words in [s. 4(1)](https://www.legislation.gov.uk/nia/2011/27/section/4/1) inserted (27.7.2022) by [Autism (Amendment) Act (Northern Ireland) 2022 (c. 13)](https://www.legislation.gov.uk/nia/2022/13), [ss. 6](https://www.legislation.gov.uk/nia/2022/13/section/6), [7](https://www.legislation.gov.uk/nia/2022/13/section/7)

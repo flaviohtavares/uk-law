@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-a6107b0cd56731eb051393da0369098a]
+## 1. Citation and commencement[^c-a6107b0cd56731eb051393da0369098a]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as The Foot-and-Mouth Disease Regulations (Northe
 
 ## Annotations
 
-[^key-a6107b0cd56731eb051393da0369098a]: Commencement: Reg. 1 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-a6107b0cd56731eb051393da0369098a]: Commencement: Reg. 1 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

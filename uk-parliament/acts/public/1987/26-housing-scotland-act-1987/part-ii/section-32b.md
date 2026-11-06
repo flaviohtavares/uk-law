@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32B. Housing support: persons found to be homeless or threatened with homelessness[^key-bafe062f95152efd1cb5dab1004c67e5]
+## 32B. Housing support: persons found to be homeless or threatened with homelessness[^c-bafe062f95152efd1cb5dab1004c67e5]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ as they think fit.
 
 ## Annotations
 
-[^key-bafe062f95152efd1cb5dab1004c67e5]: Textual amendment: S. 32B inserted (7.10.2011 for specified purposes, 1.6.2013 in so far as not already in force) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [ss. 158](https://www.legislation.gov.uk/asp/2010/17/section/158), [166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2); [S.S.I. 2011/339](https://www.legislation.gov.uk/ssi/2011/339), [art. 2](https://www.legislation.gov.uk/ssi/2011/339/article/2); S.S.I. 2012/283, art. 3
+[^c-bafe062f95152efd1cb5dab1004c67e5]: Textual amendment: S. 32B inserted (7.10.2011 for specified purposes, 1.6.2013 in so far as not already in force) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [ss. 158](https://www.legislation.gov.uk/asp/2010/17/section/158), [166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2); [S.S.I. 2011/339](https://www.legislation.gov.uk/ssi/2011/339), [art. 2](https://www.legislation.gov.uk/ssi/2011/339/article/2); S.S.I. 2012/283, art. 3

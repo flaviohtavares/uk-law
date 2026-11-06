@@ -22,7 +22,7 @@ summary: ''
 
 Article 14(2)
 
-### 1. General requirements for applications for an absent vote[^key-088f471c63accb72eaba3de61ef9b769]
+### 1. General requirements for applications for an absent vote[^c-088f471c63accb72eaba3de61ef9b769]
 
 (1) Applications under article 6 (absent vote at Senedd elections for a particular or an indefinite period), 7 (absent vote at a particular Senedd election), 9 (proxies at Senedd elections) or 10 (voting as proxy at Senedd elections) must state—
 
@@ -67,7 +67,7 @@ must state the period for which it is made, but where the poll for a Senedd elec
 - (d) in the case of a homeless person within the meaning of section 7B(2)(c) of the 1983 Act, the address shown on the declaration of local connection in accordance with section 7B(3)(d) of the 1983 Act, and
 - (e) in the case of a person who is, or has been, a child looked after by a local authority, the address at which they are resident, or the address shown on the declaration of local connection in accordance with section 7B(3)(d) of the 1983 Act.
 
-### 2. Additional requirements for applications for ballot papers to be sent to different address from that stated in application[^key-8d6936fd0a15905f9ad25d26f77c74e4]
+### 2. Additional requirements for applications for ballot papers to be sent to different address from that stated in application[^c-8d6936fd0a15905f9ad25d26f77c74e4]
 
 (1) Sub-paragraph (2) applies where—
 
@@ -78,7 +78,7 @@ must state the period for which it is made, but where the poll for a Senedd elec
 
 (3) This paragraph does not apply where an applicant has, or has applied for, an anonymous entry.
 
-### 3. Additional requirements for applications for ballot papers to be sent to different address from that shown in the record kept under article 6 or 10[^key-091df6245689ab70b2869e6f9accc8bf]
+### 3. Additional requirements for applications for ballot papers to be sent to different address from that shown in the record kept under article 6 or 10[^c-091df6245689ab70b2869e6f9accc8bf]
 
 (1) Sub-paragraph (2) applies to an application for a person’s ballot paper to be sent to a different address from that shown in the record under—
 
@@ -89,7 +89,7 @@ must state the period for which it is made, but where the poll for a Senedd elec
 
 (3) This paragraph does not apply where an applicant has, or has applied for, an anonymous entry.
 
-### 4. The personal identifiers record[^key-1f468578b1e06a5087a249426893f757]
+### 4. The personal identifiers record[^c-1f468578b1e06a5087a249426893f757]
 
 (1) The registration officer must maintain a record (“the personal identifiers record”) of the signatures and dates of birth provided by persons whose applications under article 6(1), 7(1) or 10(4)(a) or (b) have been granted.
 
@@ -111,7 +111,7 @@ must state the period for which it is made, but where the poll for a Senedd elec
 - (a) any candidate, or agent appointed under paragraph 6 of Schedule 2, attending proceedings on receipt of postal ballot papers, in accordance with and for the purposes referred to in paragraphs 23, 26 and 27 of that Schedule;
 - (b) any person attending proceedings on receipt of postal ballot papers, who is entitled to do so by virtue of any of sections 6A to 6D of the 2000 Political Parties Act[^f00075], but only to the extent required to permit them to observe the proceedings.
 
-### 5. Notification of rejected postal voting statement[^key-5cf79373a6e7b97b87219b9490e5f46e]
+### 5. Notification of rejected postal voting statement[^c-5cf79373a6e7b97b87219b9490e5f46e]
 
 (1) Where an absent voter, whether an elector or a proxy, appears on the list created under paragraph 26(4) of Schedule 2 (lists of rejected postal ballot papers)—
 
@@ -126,14 +126,14 @@ must state the period for which it is made, but where the poll for a Senedd elec
 
 (3) A notification issued under sub-paragraph (1) may also include any other information that the registration officer considers appropriate, but save for the elector’s, or the proxy’s, name, a notification must not include any information held on the personal identifiers record.
 
-### 6. Additional requirements for applications for appointment of a proxy[^key-7991a086c2db0ab803b7fc74a5f800a4]
+### 6. Additional requirements for applications for appointment of a proxy[^c-7991a086c2db0ab803b7fc74a5f800a4]
 
 An application for the appointment of a proxy under article 6 or 7 must state the full name and address of the person whom the applicant wishes to appoint as their proxy, together with the family relationship, if any, with the applicant, and—
 
 - (a) if it is signed only by the applicant, must contain a statement by the applicant that the applicant has consulted the person so named and that that person is capable of being and willing to be appointed to vote as proxy for the applicant, or
 - (b) if it is also signed by the person to be appointed, must contain a statement by that person that they are capable of being and willing to be appointed to vote as the applicant’s proxy.
 
-### 7. Additional requirements for applications for a proxy vote for a particular or indefinite period on grounds of severe sight-impairment or other disability[^key-357ec98b5f68ec00bb5189abff802b12]
+### 7. Additional requirements for applications for a proxy vote for a particular or indefinite period on grounds of severe sight-impairment or other disability[^c-357ec98b5f68ec00bb5189abff802b12]
 
 (1) An application to vote by proxy for a particular or indefinite period under article 6(2) for a reason under article 6(3)(c) (application by reason of severe sight-impairment or other disability) must specify the disability by reason of which the application is made.
 
@@ -198,7 +198,7 @@ An application for the appointment of a proxy under article 6 or 7 must state th
 
 (8) In this paragraph, “**the allotted polling station**” in relation to an elector, means the polling station allotted or likely to be allotted to the elector under rule 34 of Schedule 5.
 
-### 8. Additional requirements for applications for a proxy vote for a particular or indefinite period based on occupation, service, employment or attendance on a course[^key-da191131f89cff6589bc753ac04597d6]
+### 8. Additional requirements for applications for a proxy vote for a particular or indefinite period based on occupation, service, employment or attendance on a course[^c-da191131f89cff6589bc753ac04597d6]
 
 (1) An application to vote by proxy for a particular or indefinite period under article 6(3)(d) and (e) must state—
 
@@ -231,7 +231,7 @@ An application for the appointment of a proxy under article 6 or 7 must state th
 
 (6) In this paragraph, the “**allotted polling station**” in relation to an elector, means the polling station allotted or likely to be allotted to the elector under rule 34 of Schedule 5.
 
-### 9. Additional requirements for applications to vote by proxy in respect of a particular Senedd election[^key-9f7535cd1420071076164063b43ab5dc]
+### 9. Additional requirements for applications to vote by proxy in respect of a particular Senedd election[^c-9f7535cd1420071076164063b43ab5dc]
 
 (1) This paragraph applies to an application under article 7(2) (absent vote at a particular Senedd election).
 
@@ -267,7 +267,7 @@ the requirements of paragraphs 1 and 7 apply.
 
 (9) In this paragraph, the “**allotted polling station**” in relation to an elector, means the polling station allotted or likely to be allotted to the elector under rule 34 of Schedule 5.
 
-### 10. Additional requirements for applications for an emergency proxy vote in respect of a particular election: grounds relating to occupation, service or employment[^key-f397bd9f7ff29d1391487d05f8573bb7]
+### 10. Additional requirements for applications for an emergency proxy vote in respect of a particular election: grounds relating to occupation, service or employment[^c-f397bd9f7ff29d1391487d05f8573bb7]
 
 (1) This paragraph sets out the requirements referred to in paragraph 9(5).
 
@@ -298,7 +298,7 @@ the requirements of paragraphs 1 and 7 apply.
 
 (7) For the purposes of this paragraph, one person (“**A**”) is related to another (“**B**”) if A is the spouse, civil partner, parent, grandparent, brother, sister, child or grandchild of B.
 
-### 11. Closing dates for applications[^key-db4a76beedcec61a25ba210743a810c8]
+### 11. Closing dates for applications[^c-db4a76beedcec61a25ba210743a810c8]
 
 (1) An application—
 
@@ -348,7 +348,7 @@ must be refused for the purposes of any particular Senedd election if it is rece
 - (f) a day that is a bank holiday in England and Wales under the Banking and Financial Dealings Act 1971[^f00092];
 - (g) a day appointed for public thanksgiving or mourning.
 
-### 12. Grant or refusal of applications[^key-e10552cef7abf394c1bba25684ec7e1b]
+### 12. Grant or refusal of applications[^c-e10552cef7abf394c1bba25684ec7e1b]
 
 (1) A decision by the registration officer to grant an application to vote by post must be notified to the applicant.
 
@@ -371,7 +371,7 @@ must be refused for the purposes of any particular Senedd election if it is rece
 
 (9) At a Senedd election, where the registration officer (“**R**”) is not the returning officer for a Senedd constituency, or part of a Senedd constituency, R must send to the returning officer details of any application to vote by post which R has granted as soon as practicable after doing so.
 
-### 13. Notice of appeal[^key-36cb9884b1d562567641589ec6a4d3e3]
+### 13. Notice of appeal[^c-36cb9884b1d562567641589ec6a4d3e3]
 
 (1) A person wishing to appeal against the decision of a registration officer under article 3(1) (registration and absent voting appeals) must give notice of the appeal and the grounds of the appeal to the registration officer within 14 days of the receipt of the notice given under paragraph 12(4).
 
@@ -383,14 +383,14 @@ must be refused for the purposes of any particular Senedd election if it is rece
 
 (3) Where it appears to the registration officer that any notices of appeal received are based on similar grounds, the registration officer must inform the county court of this to enable the court, if it thinks fit, to consolidate the appeals or select a test case.
 
-### 14. Cancellation of proxy appointment[^key-4c6d0f1347393812c976ee546e5ad3c7]
+### 14. Cancellation of proxy appointment[^c-4c6d0f1347393812c976ee546e5ad3c7]
 
 Where the appointment of a proxy is cancelled by notice given to the registration officer under article 9(9), ceases to be in force under article 9(10), or is no longer in force under article 9(11)(b), the registration officer must—
 
 - (a) notify the person whose appointment as proxy has been cancelled, expired, ceases to be or is no longer in force, unless the registration officer has previously been notified by that person that the person no longer wishes to act as proxy, and
 - (b) remove the name of that person from the record kept under article 6(4).
 
-### 15. Inquiries by registration officer[^key-4c3aaad80060f9dea299f9ec1da69003]
+### 15. Inquiries by registration officer[^c-4c3aaad80060f9dea299f9ec1da69003]
 
 (1) The registration officer may, at such times as they think fit, make inquiries of a person who is shown as voting by proxy in the record kept under article 6(4) in pursuance of an application granted on the grounds set out in article 6(3)(c) or (d) (disability, severe sight-impairment, occupation, service or employment), for the purpose of determining whether there has been a material change of circumstances.
 
@@ -398,7 +398,7 @@ Where the appointment of a proxy is cancelled by notice given to the registratio
 
 (3) The registration officer may treat the failure by a person of whom inquiries have been made under sub-paragraph (1) or (2) to respond within 1 month of the date on which they were made as sufficient evidence of a material change in circumstances.
 
-### 16. Requirement to provide fresh signatures at five yearly intervals[^key-941a7200c82a52ad6a35e3d668ee7399]
+### 16. Requirement to provide fresh signatures at five yearly intervals[^c-941a7200c82a52ad6a35e3d668ee7399]
 
 (1) Every year by 31 January, the registration officer must send to every person who remains an absent voter and whose signature on the personal identifiers record is more than five years old, a notice in writing—
 
@@ -431,7 +431,7 @@ Where the appointment of a proxy is cancelled by notice given to the registratio
 - (a) explaining the effect of such removal, and
 - (b) reminding the absent voter that they may make a fresh application under article 6(1) or (2), 7(1) or (2) or 10(4) to vote by post or proxy.
 
-### 17. Requirement to provide fresh signatures following rejection of postal voting statement[^key-de457153772dbcfbc953ae5fa065f87c]
+### 17. Requirement to provide fresh signatures following rejection of postal voting statement[^c-de457153772dbcfbc953ae5fa065f87c]
 
 (1) The registration officer may require the absent voter to provide a fresh signature for the personal identifiers record where, in relation to a Senedd election—
 
@@ -476,7 +476,7 @@ Where the appointment of a proxy is cancelled by notice given to the registratio
 
 (12) In this paragraph, the “**relevant record**” means the record kept under article 6(4) or 10(6).
 
-### 18. Records and lists kept under articles 6, 8 and 10[^key-acdc456acebe6318b9e5be0da62fd49c]
+### 18. Records and lists kept under articles 6, 8 and 10[^c-acdc456acebe6318b9e5be0da62fd49c]
 
 (1) Any of the persons listed in sub-paragraph (2) entitled to copies of the full register in accordance with the provisions of regulations 103, 105, 106 and 108 of the 2001 Regulations[^f00093], are also entitled, subject to this paragraph and paragraph 19, to request that the registration officer supply free of charge the relevant parts, within the meaning of the 2001 Regulations, of a copy of any information which the registration officer keeps in—
 
@@ -557,16 +557,16 @@ otherwise than by means of hand-written notes.
 - (a) a person who has an anonymous entry, or
 - (b) the proxy of a person who has an anonymous entry.
 
-### 19. Conditions on the use, supply and inspection of absent voter records or lists[^key-44de0795bf87b8dee82f09de34fdca78]
+### 19. Conditions on the use, supply and inspection of absent voter records or lists[^c-44de0795bf87b8dee82f09de34fdca78]
 
 (1) The provisions of regulations 94 and 96 of the 2001 Regulations[^f00096] apply to information covered by paragraph 18(1) as they apply to restrictions on the supply, disclosure and use of the full register, except that permitted purposes for the purpose of paragraph 18(1) means either—
 
-- (a) purposes mentioned in article 84A(1)[^key-42fcb79c2f4d1f3dc10917811922a0ba] of the UK GDPR[^f00097] (archiving in the public interest, scientific or historical research or statistics), or
+- (a) purposes mentioned in article 84A(1)[^c-42fcb79c2f4d1f3dc10917811922a0ba] of the UK GDPR[^f00097] (archiving in the public interest, scientific or historical research or statistics), or
 - (b) electoral purposes.
 
 (2) In this paragraph, “**the UK GDPR**” has the meaning given in section 3(10) of the Data Protection Act 2018[^f00098].
 
-### 20. Protection of information about persons aged under 16[^key-0fc10fbe51c2ed51b16de3437322eb2c]
+### 20. Protection of information about persons aged under 16[^c-0fc10fbe51c2ed51b16de3437322eb2c]
 
 (1) Subject to sub-paragraph (2), a young person’s information, other than any information by which the person’s date of birth may be ascertained, may be disclosed in a version or copy of an absent voters record or list supplied in accordance with the relevant provisions of this Order in relation to Senedd elections, but only so far as it is necessary to do so for the purposes of, or in connection with, an election at which the person will be entitled to vote.
 
@@ -577,15 +577,15 @@ otherwise than by means of hand-written notes.
 - “**absent voters record or list**” (“***cofnod neu restr o bleidleiswyr absennol***”) is to be construed in accordance with section 24(2) of the Senedd and Elections (Wales) Act 2020, and also includes the records kept under articles 6(11) and 10(13);
 - “**young person’s information**” (“***gwybodaeth person ifanc***”) is to be construed in accordance with section 24(2) of the Senedd and Elections (Wales) Act 2020[^f00100].
 
-### 21. Marked register for polling stations[^key-0cb0941924213bb37a2284be75551e51]
+### 21. Marked register for polling stations[^c-0cb0941924213bb37a2284be75551e51]
 
 To indicate that an elector or an elector’s proxy is entitled to vote by post and is for that reason not entitled to vote in person, the letter “A” must be placed against the entry for that elector in any copy of the register, or part of it, provided for a polling station.
 
-### 22. Certificate of employment at a Senedd election[^key-45c21a6228d911eeb17c8f4872fadfe7]
+### 22. Certificate of employment at a Senedd election[^c-45c21a6228d911eeb17c8f4872fadfe7]
 
 The certificate as to the employment of constables and persons employed by a returning officer on the date of the poll at a Senedd election, to enable such a constable or person to vote elsewhere than at that person’s own polling station, must be in form 2 set out in Welsh and English in Schedule 10 and must be signed, in the case of a constable, by an officer of a police force of or above the rank of inspector.
 
-### 23. Notification by registration officer[^key-72eb98dfb1abeae09b588d9e88e7cf40]
+### 23. Notification by registration officer[^c-72eb98dfb1abeae09b588d9e88e7cf40]
 
 Where a registration officer is required by this Schedule to notify any person, such notification must be in writing and may be sent by post—
 
@@ -594,7 +594,7 @@ Where a registration officer is required by this Schedule to notify any person, 
 
 ## Annotations
 
-[^key-088f471c63accb72eaba3de61ef9b769]: Commencement: Sch. 1 para. 1 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-088f471c63accb72eaba3de61ef9b769]: Commencement: Sch. 1 para. 1 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00071]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2). Section 16 was amended by Schedule 7 to the Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2) and section 20(4) of the Senedd and Elections (Wales) Act [2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1).
 
@@ -604,19 +604,19 @@ Where a registration officer is required by this Schedule to notify any person, 
 
 [^f00074]: Footnote: Section 7A was inserted by section 5 of the Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2). It was subsequently amended by section 12(2) of the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22) and paragraph 3 of Schedule 4 to the Electoral Registration and Administration Act [2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6). There are other amendments to section 7A that are not relevant here.
 
-[^key-8d6936fd0a15905f9ad25d26f77c74e4]: Commencement: Sch. 1 para. 2 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-8d6936fd0a15905f9ad25d26f77c74e4]: Commencement: Sch. 1 para. 2 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-091df6245689ab70b2869e6f9accc8bf]: Commencement: Sch. 1 para. 3 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-091df6245689ab70b2869e6f9accc8bf]: Commencement: Sch. 1 para. 3 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-1f468578b1e06a5087a249426893f757]: Commencement: Sch. 1 para. 4 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-1f468578b1e06a5087a249426893f757]: Commencement: Sch. 1 para. 4 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00075]: Footnote: [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41). Sections 6A to 6D were inserted by section 29 of the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22). Section 6A was amended by paragraph 10 of Schedule 10 to Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13); paragraph 3 of Schedule 6 to the Recall of MPs Act [2015 (c. 25)](https://www.legislation.gov.uk/ukpga/2015/25) and [S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388). Section 6C was amended by paragraph 5 of Schedule 2 to the Senedd and Elections (Wales) Act [2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1). Section 6D was amended by paragraph 6 of Schedule 2 to the Senedd and Elections (Wales) Act 2020.
 
-[^key-5cf79373a6e7b97b87219b9490e5f46e]: Commencement: Sch. 1 para. 5 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-5cf79373a6e7b97b87219b9490e5f46e]: Commencement: Sch. 1 para. 5 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-7991a086c2db0ab803b7fc74a5f800a4]: Commencement: Sch. 1 para. 6 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-7991a086c2db0ab803b7fc74a5f800a4]: Commencement: Sch. 1 para. 6 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-357ec98b5f68ec00bb5189abff802b12]: Commencement: Sch. 1 para. 7 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-357ec98b5f68ec00bb5189abff802b12]: Commencement: Sch. 1 para. 7 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00076]: Footnote: [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253), amended by [S.I. 2009/1182](https://www.legislation.gov.uk/uksi/2009/1182) and [S.I. 2018/838](https://www.legislation.gov.uk/uksi/2018/838).
 
@@ -650,29 +650,29 @@ Where a registration officer is required by this Schedule to notify any person, 
 
 [^f00091]: Footnote: [S.I. 2011/517](https://www.legislation.gov.uk/uksi/2011/517). Article 24A was inserted by [S.I. 2013/436](https://www.legislation.gov.uk/uksi/2013/436) and was subsequently amended by [S.I. 2017/247](https://www.legislation.gov.uk/uksi/2017/247), [S.I. 2023/323](https://www.legislation.gov.uk/uksi/2023/323) and [S.I. 2024/347](https://www.legislation.gov.uk/uksi/2024/347).
 
-[^key-da191131f89cff6589bc753ac04597d6]: Commencement: Sch. 1 para. 8 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-da191131f89cff6589bc753ac04597d6]: Commencement: Sch. 1 para. 8 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-9f7535cd1420071076164063b43ab5dc]: Commencement: Sch. 1 para. 9 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-9f7535cd1420071076164063b43ab5dc]: Commencement: Sch. 1 para. 9 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-f397bd9f7ff29d1391487d05f8573bb7]: Commencement: Sch. 1 para. 10 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-f397bd9f7ff29d1391487d05f8573bb7]: Commencement: Sch. 1 para. 10 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-db4a76beedcec61a25ba210743a810c8]: Commencement: Sch. 1 para. 11 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-db4a76beedcec61a25ba210743a810c8]: Commencement: Sch. 1 para. 11 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00092]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-e10552cef7abf394c1bba25684ec7e1b]: Commencement: Sch. 1 para. 12 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-e10552cef7abf394c1bba25684ec7e1b]: Commencement: Sch. 1 para. 12 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-36cb9884b1d562567641589ec6a4d3e3]: Commencement: Sch. 1 para. 13 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-36cb9884b1d562567641589ec6a4d3e3]: Commencement: Sch. 1 para. 13 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-4c6d0f1347393812c976ee546e5ad3c7]: Commencement: Sch. 1 para. 14 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-4c6d0f1347393812c976ee546e5ad3c7]: Commencement: Sch. 1 para. 14 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-4c3aaad80060f9dea299f9ec1da69003]: Commencement: Sch. 1 para. 15 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-4c3aaad80060f9dea299f9ec1da69003]: Commencement: Sch. 1 para. 15 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-941a7200c82a52ad6a35e3d668ee7399]: Commencement: Sch. 1 para. 16 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-941a7200c82a52ad6a35e3d668ee7399]: Commencement: Sch. 1 para. 16 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-de457153772dbcfbc953ae5fa065f87c]: Commencement: Sch. 1 para. 17 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-de457153772dbcfbc953ae5fa065f87c]: Commencement: Sch. 1 para. 17 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-acdc456acebe6318b9e5be0da62fd49c]: Commencement: Sch. 1 para. 18 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-acdc456acebe6318b9e5be0da62fd49c]: Commencement: Sch. 1 para. 18 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00093]: Footnote: [S.I. 2001/341](https://www.legislation.gov.uk/uksi/2001/341). Regulations 103, 105, 106 and 108 were added by [S.I. 2002/1871](https://www.legislation.gov.uk/uksi/2002/1871). Regulations 103 and 108 were subsequently amended by [S.I. 2018/1310](https://www.legislation.gov.uk/uksi/2018/1310) (as amended by regulation 2(2) of [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389)).
 
@@ -680,26 +680,26 @@ Where a registration officer is required by this Schedule to notify any person, 
 
 [^f00095]: Footnote: Section 52(1) was amended by paragraph 12 of Schedule 4 to the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50). The functions of the Secretary of State, insofar as they are exercisable within devolved competence, were transferred to the Welsh Ministers by article 45 of, and paragraph 1 of Schedule 1 to, the Welsh Ministers (Transfer of Functions) Order 2018 ([S.I. 2018/644](https://www.legislation.gov.uk/uksi/2018/644)).
 
-[^key-44de0795bf87b8dee82f09de34fdca78]: Commencement: Sch. 1 para. 19 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-44de0795bf87b8dee82f09de34fdca78]: Commencement: Sch. 1 para. 19 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00096]: Footnote: Regulations 94 and 96 were added by [S.I. 2002/1871](https://www.legislation.gov.uk/uksi/2002/1871). Regulation 94 was subsequently amended by [S.I. 2022/1382](https://www.legislation.gov.uk/uksi/2022/1382) and regulation 96 was subsequently amended by paragraph 259 of Schedule 19 to the Data Protection Act [2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12) and [S.I. 2006/752](https://www.legislation.gov.uk/uksi/2006/752).
 
-[^key-42fcb79c2f4d1f3dc10917811922a0ba]: Textual amendment: Words in [Sch. 1 para. 19(1)(a)](https://www.legislation.gov.uk/wsi/2025/864/schedule/1/paragraph/19/1/a) substituted (5.2.2026) by [The Data (Use and Access) Act 2025 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/1331)](https://www.legislation.gov.uk/uksi/2025/1331), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2025/1331/regulation/2/3), [18(a)](https://www.legislation.gov.uk/uksi/2025/1331/regulation/18/a); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/n)
+[^c-42fcb79c2f4d1f3dc10917811922a0ba]: Textual amendment: Words in [Sch. 1 para. 19(1)(a)](https://www.legislation.gov.uk/wsi/2025/864/schedule/1/paragraph/19/1/a) substituted (5.2.2026) by [The Data (Use and Access) Act 2025 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/1331)](https://www.legislation.gov.uk/uksi/2025/1331), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2025/1331/regulation/2/3), [18(a)](https://www.legislation.gov.uk/uksi/2025/1331/regulation/18/a); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/n)
 
 [^f00097]: Footnote: E.U. 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (United Kingdom General Data Protection Regulation), as it forms part of the law of England and Wales, Scotland and Northern Ireland by virtue of section 3 of the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16).
 
 [^f00098]: Footnote: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12). Section 3(1) was amended by [S.I. 2019/419](https://www.legislation.gov.uk/uksi/2019/419).
 
-[^key-0fc10fbe51c2ed51b16de3437322eb2c]: Commencement: Sch. 1 para. 20 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-0fc10fbe51c2ed51b16de3437322eb2c]: Commencement: Sch. 1 para. 20 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00099]: Footnote: [2020 anaw 1](https://www.legislation.gov.uk/anaw/2020/1). Section 26 was amended by paragraph 15 of Schedule 2 to the Local Government and Elections (Wales) Act [2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1).
 
 [^f00100]: Footnote: Section 24(2) was amended by paragraph 15 of Schedule 2 to the Local Government and Elections (Wales) Act [2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1).
 
-[^key-0cb0941924213bb37a2284be75551e51]: Commencement: Sch. 1 para. 21 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-0cb0941924213bb37a2284be75551e51]: Commencement: Sch. 1 para. 21 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-45c21a6228d911eeb17c8f4872fadfe7]: Commencement: Sch. 1 para. 22 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-45c21a6228d911eeb17c8f4872fadfe7]: Commencement: Sch. 1 para. 22 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-72eb98dfb1abeae09b588d9e88e7cf40]: Commencement: Sch. 1 para. 23 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-72eb98dfb1abeae09b588d9e88e7cf40]: Commencement: Sch. 1 para. 23 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00101]: Footnote: Section 59(3B) was inserted by section 13 of the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22).

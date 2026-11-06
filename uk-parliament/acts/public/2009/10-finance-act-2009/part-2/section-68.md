@@ -36,8 +36,8 @@ For this purpose “the relevant period” is the period—
 - (a) beginning with 12 January 2009, and
 - (b) ending with 1 April 2009.
 
-(4)[^key-5c54c90181700b9a4807fd5da75c11f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-5c54c90181700b9a4807fd5da75c11f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5c54c90181700b9a4807fd5da75c11f2]: Textual amendment: [S. 68(4)](https://www.legislation.gov.uk/ukpga/2009/10/section/68/4) omitted (1.4.2011) by virtue of [The Finance Act 2009, Schedules 55 and 56 (Income Tax Self Assessment and Pension Schemes) (Appointed Days and Consequential and Savings Provisions) Order 2011 (S.I. 2011/702)](https://www.legislation.gov.uk/uksi/2011/702), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/702/article/1/1), [15(a)](https://www.legislation.gov.uk/uksi/2011/702/article/15/a) (with [arts. 20](https://www.legislation.gov.uk/uksi/2011/702/article/20), [22](https://www.legislation.gov.uk/uksi/2011/702/article/22))
+[^c-5c54c90181700b9a4807fd5da75c11f2]: Textual amendment: [S. 68(4)](https://www.legislation.gov.uk/ukpga/2009/10/section/68/4) omitted (1.4.2011) by virtue of [The Finance Act 2009, Schedules 55 and 56 (Income Tax Self Assessment and Pension Schemes) (Appointed Days and Consequential and Savings Provisions) Order 2011 (S.I. 2011/702)](https://www.legislation.gov.uk/uksi/2011/702), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/702/article/1/1), [15(a)](https://www.legislation.gov.uk/uksi/2011/702/article/15/a) (with [arts. 20](https://www.legislation.gov.uk/uksi/2011/702/article/20), [22](https://www.legislation.gov.uk/uksi/2011/702/article/22))

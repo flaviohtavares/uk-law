@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Information notices[^key-0a3b27c57e40a6996947bf479f42baca]
+## 30. Information notices[^c-0a3b27c57e40a6996947bf479f42baca]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 
 (2) The time within which the information is required to be given to the inspector or other officer must be reasonable.
 
-(3) An appropriate person must produce for examination by the inspector or other officer any authorisation, official statement, certificate, plant passport, Northern Ireland plant health label,[^key-a6d5249f3a4b033a7a7ab31d2c004444] record, invoice or other document relating to a plant pest or any plant, plant product or other object specified in the notice.
+(3) An appropriate person must produce for examination by the inspector or other officer any authorisation, official statement, certificate, plant passport, Northern Ireland plant health label,[^c-a6d5249f3a4b033a7a7ab31d2c004444] record, invoice or other document relating to a plant pest or any plant, plant product or other object specified in the notice.
 
 (4) In this regulation, “**appropriate person**” means—
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0a3b27c57e40a6996947bf479f42baca]: Commencement: Reg. 30 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
+[^c-0a3b27c57e40a6996947bf479f42baca]: Commencement: Reg. 30 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
 
-[^key-a6d5249f3a4b033a7a7ab31d2c004444]: Textual amendment: Words in [reg. 30(3)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/30/3) inserted (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/3/4)
+[^c-a6d5249f3a4b033a7a7ab31d2c004444]: Textual amendment: Words in [reg. 30(3)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/30/3) inserted (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/3/4)

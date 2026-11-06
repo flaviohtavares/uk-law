@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Standard entitlement of current system students on end-on courses and certain degree courses[^key-d2070c2d4166fbe3ee55a3e40d5e19f7]
+## 24. Standard entitlement of current system students on end-on courses and certain degree courses[^c-d2070c2d4166fbe3ee55a3e40d5e19f7]
 
 *Extent: N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 
 - (a) a current system student who is on an end-on course of the kind described in paragraph (d) of the definition of “end-on course” in regulation 2;
 - (b) a current system student who—
-  - (i)[^key-85c9526f287381baf816968c92d8f17d] has completed a course mentioned in paragraph 2, 3 or 4 of Schedule 3 or overseas equivalent, or a foundation degree course or overseas equivalent, on a full-time, part-time or full-time distance learning basis having achieved a qualification;
+  - (i)[^c-85c9526f287381baf816968c92d8f17d] has completed a course mentioned in paragraph 2, 3 or 4 of Schedule 3 or overseas equivalent, or a foundation degree course or overseas equivalent, on a full-time, part-time or full-time distance learning basis having achieved a qualification;
   - (ii) is on a full-time first degree course (other than a first degree course for the initial training of teachers) that the student did not begin immediately after the course referred to in paragraph (i); and
   - (iii) has not taken a full-time first degree course after the course referred to in paragraph (i) and before the current course.
 
@@ -69,6 +69,6 @@ where
 
 ## Annotations
 
-[^key-d2070c2d4166fbe3ee55a3e40d5e19f7]: Commencement: Reg. 24 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-d2070c2d4166fbe3ee55a3e40d5e19f7]: Commencement: Reg. 24 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
 
-[^key-85c9526f287381baf816968c92d8f17d]: Textual amendment: [Reg. 24(2)(b)(i)](https://www.legislation.gov.uk/nisr/2009/373/regulation/24/2/b/i) substituted (23.12.2010) by [The Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009 (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/383)](https://www.legislation.gov.uk/nisr/2010/383), [regs. 1](https://www.legislation.gov.uk/nisr/2010/383/regulation/1), [10](https://www.legislation.gov.uk/nisr/2010/383/regulation/10)
+[^c-85c9526f287381baf816968c92d8f17d]: Textual amendment: [Reg. 24(2)(b)(i)](https://www.legislation.gov.uk/nisr/2009/373/regulation/24/2/b/i) substituted (23.12.2010) by [The Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009 (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/383)](https://www.legislation.gov.uk/nisr/2010/383), [regs. 1](https://www.legislation.gov.uk/nisr/2010/383/regulation/1), [10](https://www.legislation.gov.uk/nisr/2010/383/regulation/10)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Amendment of section 15[^key-5254b898f1f0501494c509e869a8391f]
+## 114. Amendment of section 15[^c-5254b898f1f0501494c509e869a8391f]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5254b898f1f0501494c509e869a8391f]: Commencement: Reg. 114 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-5254b898f1f0501494c509e869a8391f]: Commencement: Reg. 114 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00093]: Footnote: Section 15 was substituted by section 5 of the Health and Personal Social Services (Amendment) Act (Northern Ireland) [2016 (c.23 (N.I.)](https://www.legislation.gov.uk/nia/2016/23)).

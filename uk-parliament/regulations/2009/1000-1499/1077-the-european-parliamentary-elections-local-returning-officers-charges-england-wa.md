@@ -31,7 +31,7 @@ summary: ''
 
 Representation Of The People
 
-The European Parliamentary Elections (Local Returning Officers’ Charges) (England, Wales and Gibraltar) Order 2009 (revoked)[^key-5a9beb56731db67a6b938ef6150bfa6f]
+The European Parliamentary Elections (Local Returning Officers’ Charges) (England, Wales and Gibraltar) Order 2009 (revoked)[^c-5a9beb56731db67a6b938ef6150bfa6f]
 
 Made
 
@@ -39,43 +39,43 @@ Made
 
 Coming into force in accordance with article 1(1)
 
-[^key-5a9beb56731db67a6b938ef6150bfa6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5a9beb56731db67a6b938ef6150bfa6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and interpretation[^key-5a9beb56731db67a6b938ef6150bfa6f]
+## 1. Citation, commencement, extent and interpretation[^c-5a9beb56731db67a6b938ef6150bfa6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-5a9beb56731db67a6b938ef6150bfa6f]
+## 2. Revocation[^c-5a9beb56731db67a6b938ef6150bfa6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Overall maximum recoverable amount[^key-5a9beb56731db67a6b938ef6150bfa6f]
+## 3. Overall maximum recoverable amount[^c-5a9beb56731db67a6b938ef6150bfa6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Maximum recoverable amount for specified services[^key-5a9beb56731db67a6b938ef6150bfa6f]
+## 4. Maximum recoverable amount for specified services[^c-5a9beb56731db67a6b938ef6150bfa6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-5a9beb56731db67a6b938ef6150bfa6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-5a9beb56731db67a6b938ef6150bfa6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Maximum recoverable amount for specified expenses[^key-5a9beb56731db67a6b938ef6150bfa6f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**7.**[^key-5a9beb56731db67a6b938ef6150bfa6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 8. Overall maximum recoverable amount at an uncontested election[^key-5a9beb56731db67a6b938ef6150bfa6f]
+## 6. Maximum recoverable amount for specified expenses[^c-5a9beb56731db67a6b938ef6150bfa6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a9beb56731db67a6b938ef6150bfa6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-5a9beb56731db67a6b938ef6150bfa6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Overall maximum recoverable amount at an uncontested election[^c-5a9beb56731db67a6b938ef6150bfa6f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-5a9beb56731db67a6b938ef6150bfa6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Overall maximum recoverable amounts and maximum recoverable amounts for the specified services and the specified expenses for local counting areas[^key-5a9beb56731db67a6b938ef6150bfa6f]
+## SCHEDULE — Overall maximum recoverable amounts and maximum recoverable amounts for the specified services and the specified expenses for local counting areas[^c-5a9beb56731db67a6b938ef6150bfa6f]
 
 Regulations 3, 4 and 6
 
@@ -83,8 +83,8 @@ Regulations 3, 4 and 6
 
 **May not be in force at this date. Check the source.**
 
-[^key-5a9beb56731db67a6b938ef6150bfa6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5a9beb56731db67a6b938ef6150bfa6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5a9beb56731db67a6b938ef6150bfa6f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/1077) revoked (14.2.2014) by [The European Parliamentary Elections (Returning Officers’ and Local Returning Officers’ Charges) (Great Britain and Gibraltar) Order 2014 (revoked) 2014 (S.I. 2014/325)](https://www.legislation.gov.uk/uksi/2014/325), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/325/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2014/325/article/3/b)
+[^c-5a9beb56731db67a6b938ef6150bfa6f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/1077) revoked (14.2.2014) by [The European Parliamentary Elections (Returning Officers’ and Local Returning Officers’ Charges) (Great Britain and Gibraltar) Order 2014 (revoked) 2014 (S.I. 2014/325)](https://www.legislation.gov.uk/uksi/2014/325), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/325/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2014/325/article/3/b)

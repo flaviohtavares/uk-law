@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 177. Application of Chapter[^key-1f7b34d52497a33d277a6dd6348329b1]
+## 177. Application of Chapter[^c-1f7b34d52497a33d277a6dd6348329b1]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ This Chapter applies in relation to an active member of this scheme (P) who has 
 
 ## Annotations
 
-[^key-1f7b34d52497a33d277a6dd6348329b1]: Commencement: Reg. 177 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-1f7b34d52497a33d277a6dd6348329b1]: Commencement: Reg. 177 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

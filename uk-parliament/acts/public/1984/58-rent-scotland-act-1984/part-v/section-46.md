@@ -32,7 +32,7 @@ summary: ''
 
 (5) In this section and section 47 below, “**relevant date**”, in relation to a rent which has been registered under this Part of this Act, means the date from which the registration took effect or, in the case of a registered rent which has been confirmed by the rent officer, the date from which the confirmation (or, where there have been two or more confirmations, the last of them) took effect but does not mean the date from which registration took effect under section 49A of this Act.
 
-(6) For the purposes of subsection (5) above, where a rent is registered as a result of a decision of the First-tier Tribunal[^key-daa50c143b77c8247ec0f982d561cac3] the date from which that registration took effect shall be taken to be the date on which the rent determined by the rent officer was registered or, as the case may be, the confirmation of the registered rent by the rent officer was noted.
+(6) For the purposes of subsection (5) above, where a rent is registered as a result of a decision of the First-tier Tribunal[^c-daa50c143b77c8247ec0f982d561cac3] the date from which that registration took effect shall be taken to be the date on which the rent determined by the rent officer was registered or, as the case may be, the confirmation of the registered rent by the rent officer was noted.
 
 (7) No application for the registration of a rent for a dwelling-house shall be entertained at a time when there is in operation, with respect to that dwelling-house, a condition relating to rent imposed under any of the following enactments, that is to say,—
 
@@ -50,7 +50,7 @@ below, the provisions of Part I of Schedule 5 to this Act shall have effect with
 
 [^c981861]: Textual amendment: S. 46(3A) inserted (1.4.1993) by [S.I. 1993/658](https://www.legislation.gov.uk/uksi/1993/658), [art. 2](https://www.legislation.gov.uk/uksi/1993/658/article/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1993/658/schedule/1/paragraph/2).
 
-[^key-daa50c143b77c8247ec0f982d561cac3]: Textual amendment: Words in [s. 46(6)](https://www.legislation.gov.uk/ukpga/1984/58/section/46/6) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337)](https://www.legislation.gov.uk/ssi/2016/337), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2), [sch. 2 para. 1(3)](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/1/3) (with [sch. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1))
+[^c-daa50c143b77c8247ec0f982d561cac3]: Textual amendment: Words in [s. 46(6)](https://www.legislation.gov.uk/ukpga/1984/58/section/46/6) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337)](https://www.legislation.gov.uk/ssi/2016/337), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2), [sch. 2 para. 1(3)](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/1/3) (with [sch. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1))
 
 [^c981881]: Marginal citation: [1926 c. 56](https://www.legislation.gov.uk/ukpga/1926/56).
 

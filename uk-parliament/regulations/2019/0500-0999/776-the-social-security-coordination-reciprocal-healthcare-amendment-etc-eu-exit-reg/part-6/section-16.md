@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Amendment of the EEA agreement[^key-c9f464a103ef6712686a2efe250a9a53]
+## 16. Amendment of the EEA agreement[^c-c9f464a103ef6712686a2efe250a9a53]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,10 +24,10 @@ In the Agreement on the European Economic Area signed at Oporto on 2 May 1992, s
 
 - (a) omit point (e) (modification of Annex 3);
 - (b) omit point (f) (modification of Annex 4);
-- (c) omit point (l) (modification of Annex 11) [^key-899b7b268587ad1224e380b2054e23b8]....
+- (c) omit point (l) (modification of Annex 11) [^c-899b7b268587ad1224e380b2054e23b8]....
 
 ## Annotations
 
-[^key-c9f464a103ef6712686a2efe250a9a53]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-c9f464a103ef6712686a2efe250a9a53]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-899b7b268587ad1224e380b2054e23b8]: Textual amendment: Words in reg. 16(c) omitted (31.12.2020) by virtue of [The Social Security Co-ordination (Revocation of Retained Direct EU Legislation and Related Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1508)](https://www.legislation.gov.uk/uksi/2020/1508), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1508/regulation/1/3), [Sch. para. 5(b)](https://www.legislation.gov.uk/uksi/2020/1508/schedule/paragraph/5/b)
+[^c-899b7b268587ad1224e380b2054e23b8]: Textual amendment: Words in reg. 16(c) omitted (31.12.2020) by virtue of [The Social Security Co-ordination (Revocation of Retained Direct EU Legislation and Related Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1508)](https://www.legislation.gov.uk/uksi/2020/1508), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1508/regulation/1/3), [Sch. para. 5(b)](https://www.legislation.gov.uk/uksi/2020/1508/schedule/paragraph/5/b)

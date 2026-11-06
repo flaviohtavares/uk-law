@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 162. Calls by building society liquidator[^key-676a08f0fd778e7d6622beedf410b2d3]
+## 162. Calls by building society liquidator[^c-676a08f0fd778e7d6622beedf410b2d3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.202 of the 1986 Rules.
 
 ## Annotations
 
-[^key-676a08f0fd778e7d6622beedf410b2d3]: Commencement: Rule 162 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-676a08f0fd778e7d6622beedf410b2d3]: Commencement: Rule 162 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

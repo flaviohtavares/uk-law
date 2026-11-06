@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 126. Effect of granting listed building consent on enforcement notice[^key-67e72a4f872277548fbdb7f1f226693e][^key-2309a297f20c42ed0a0c02d4fffefebb]
+## 126. Effect of granting listed building consent on enforcement notice[^c-67e72a4f872277548fbdb7f1f226693e][^c-2309a297f20c42ed0a0c02d4fffefebb]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-67e72a4f872277548fbdb7f1f226693e]: Commencement: S. 126 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-67e72a4f872277548fbdb7f1f226693e]: Commencement: S. 126 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-2309a297f20c42ed0a0c02d4fffefebb]: Commencement: [S. 126](https://www.legislation.gov.uk/asc/2023/3/section/126) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-2309a297f20c42ed0a0c02d4fffefebb]: Commencement: [S. 126](https://www.legislation.gov.uk/asc/2023/3/section/126) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

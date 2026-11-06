@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Commission Regulation [(EC) No 1569/2007](https://www.legislation.gov.uk/eur/2007/1569)[^key-b4e7616b9345a345bb95882a35c1849e]
+## 67. Commission Regulation [(EC) No 1569/2007](https://www.legislation.gov.uk/eur/2007/1569)[^c-b4e7616b9345a345bb95882a35c1849e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 - (a) after “considered” insert “ for the specified purposes as ”;
 - (b) for the words from “International” to “IFRS)” substitute “ UK-adopted international accounting standards ”;
-- (c)[^key-673cb3d9c7d8f898a3f52c48bf126fe5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-673cb3d9c7d8f898a3f52c48bf126fe5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In Article 2 (equivalence)—
 
@@ -71,6 +71,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b4e7616b9345a345bb95882a35c1849e]: Commencement: Reg. 67 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-b4e7616b9345a345bb95882a35c1849e]: Commencement: Reg. 67 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-673cb3d9c7d8f898a3f52c48bf126fe5]: Textual amendment: Reg. 67(2)(c) omitted (6.9.2019) by virtue of [The Prospectus (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1234)](https://www.legislation.gov.uk/uksi/2019/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2019/1234/regulation/22) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1234](https://www.legislation.gov.uk/uksi/2019/1234), [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/29/2)))
+[^c-673cb3d9c7d8f898a3f52c48bf126fe5]: Textual amendment: Reg. 67(2)(c) omitted (6.9.2019) by virtue of [The Prospectus (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1234)](https://www.legislation.gov.uk/uksi/2019/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2019/1234/regulation/22) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1234](https://www.legislation.gov.uk/uksi/2019/1234), [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/29/2)))

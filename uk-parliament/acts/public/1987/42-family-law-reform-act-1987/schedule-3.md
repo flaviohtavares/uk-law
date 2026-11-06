@@ -30,13 +30,13 @@ summary: ''
 
 *Extent: E+W*
 
-**2.**[^key-c96dd7473dbad50ce88b3813dda97dc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c96dd7473dbad50ce88b3813dda97dc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-c96dd7473dbad50ce88b3813dda97dc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c96dd7473dbad50ce88b3813dda97dc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-c96dd7473dbad50ce88b3813dda97dc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c96dd7473dbad50ce88b3813dda97dc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-c96dd7473dbad50ce88b3813dda97dc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c96dd7473dbad50ce88b3813dda97dc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Affiliation orders
 
@@ -82,7 +82,7 @@ the court may, if it thinks fit, direct that the affiliation order shall cease t
 
 ## Annotations
 
-[^key-c96dd7473dbad50ce88b3813dda97dc7]: Textual amendment: Sch. 3 paras. 2-5 repealed (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) (with [Sch. 4 paras. 2](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/2), [6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2897/article/2/b)
+[^c-c96dd7473dbad50ce88b3813dda97dc7]: Textual amendment: Sch. 3 paras. 2-5 repealed (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) (with [Sch. 4 paras. 2](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/2), [6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2897/article/2/b)
 
 [^c1014377]: Marginal citation: [1957 c. 55](https://www.legislation.gov.uk/ukpga/1957/55).
 

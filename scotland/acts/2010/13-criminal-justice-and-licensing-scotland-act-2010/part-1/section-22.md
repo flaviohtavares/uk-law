@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Pre-sentencing reports about organisations[^key-77e97920673a17257bcdcd089ea2182c]
+## 22. Pre-sentencing reports about organisations[^c-77e97920673a17257bcdcd089ea2182c]
 
 *Extent: S*
 
@@ -73,4 +73,4 @@ After section 203 of the 1995 Act (reports), insert—
 
 ## Annotations
 
-[^key-77e97920673a17257bcdcd089ea2182c]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2010/13/section/22) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))
+[^c-77e97920673a17257bcdcd089ea2182c]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2010/13/section/22) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))

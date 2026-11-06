@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 85. Contracting-out: abolition of all protected rights[^key-5be424a5d6b790422c4db32d9537a92a]
+## 85. Contracting-out: abolition of all protected rights[^c-5be424a5d6b790422c4db32d9537a92a]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5be424a5d6b790422c4db32d9537a92a]: Commencement: S. 85 in operation at 6.4.2012 by [S.R. 2012/119](https://www.legislation.gov.uk/nisr/2012/119), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/119/article/2/a)
+[^c-5be424a5d6b790422c4db32d9537a92a]: Commencement: S. 85 in operation at 6.4.2012 by [S.R. 2012/119](https://www.legislation.gov.uk/nisr/2012/119), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/119/article/2/a)

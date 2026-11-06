@@ -105,7 +105,7 @@ The Secretary of State, being a Minister designated [^c22147021] for the purpose
 - [Section 25 — Identification of areas of significant energy consumption](part-4/section-25.md)
 - [Section 25A — Conversion into kWh units](part-4/section-25a.md)
 
-#### Chapter 2A — Calculations related to organisational purposes[^key-2b0348af0a1753ad36f02221c130aa91]
+#### Chapter 2A — Calculations related to organisational purposes[^c-2b0348af0a1753ad36f02221c130aa91]
 
 - [Section 25B — Amount of energy consumption related to organisational purposes](part-4/section-25b.md)
 - [Section 25C — Energy Intensity Ratio](part-4/section-25c.md)
@@ -115,13 +115,13 @@ The Secretary of State, being a Minister designated [^c22147021] for the purpose
 - [Section 26 — Duty to carry out an energy audit](part-4/section-26.md)
 - [Section 27 — Identification of energy saving opportunities](part-4/section-27.md)
 
-#### Chapter 3A — ESOS Report[^key-ea4dbf7367b14e24b29e6b093af69e0f]
+#### Chapter 3A — ESOS Report[^c-ea4dbf7367b14e24b29e6b093af69e0f]
 
 - [Section 27A — ESOS Report](part-4/section-27a.md)
 - [Section 27B — Energy savings since the previous compliance date](part-4/section-27b.md)
 - [Section 27C — Disclosure of information to group undertaking](part-4/section-27c.md)
 
-#### Chapter 3B — Energy savings since the previous compliance date and ESOS action plan review[^key-6be0ea0a3e81f0a0adebc460d6bb8bf8]
+#### Chapter 3B — Energy savings since the previous compliance date and ESOS action plan review[^c-6be0ea0a3e81f0a0adebc460d6bb8bf8]
 
 - [Section 27D — Energy savings since the previous compliance date](part-4/section-27d.md)
 - [Section 27E — ESOS action plan review](part-4/section-27e.md)
@@ -130,20 +130,20 @@ The Secretary of State, being a Minister designated [^c22147021] for the purpose
 
 - [Section 28 — Evidence packs](part-4/section-28.md)
 
-### PART 5 — Notification and confirmation requirements ...[^key-863637b1566f1476d320ad6aaf7134b2][^key-390519a07e65e1cc089d0f8d988e5561]
+### PART 5 — Notification and confirmation requirements ...[^c-863637b1566f1476d320ad6aaf7134b2][^c-390519a07e65e1cc089d0f8d988e5561]
 
 - [Section 29 — Notification of compliance](part-5/section-29.md)
 - [Section 30 — Responsible officers](part-5/section-30.md)
 - [Section 31 — Confirmation to be given by responsible officer](part-5/section-31.md)
 
-### PART 6 — Deemed compliance with Scheme requirements[^key-175d81737822c907c03a56db0d9358d5]
+### PART 6 — Deemed compliance with Scheme requirements[^c-175d81737822c907c03a56db0d9358d5]
 
 - [Section 32 — Energy consumption not subject to audit](part-6/section-32.md)
 - [Section 33 — Compliance with ISO 50001](part-6/section-33.md)
 - [Section 33A — Zero energy consumption](part-6/section-33a.md)
 - [Section 34 — Display Energy Certificates and Green Deal Assessments](part-6/section-34.md)
 
-### Part 6A — ESOS action plan and ESOS progress update[^key-a99f91c5d3faa8d79c58f9016e87cef5]
+### Part 6A — ESOS action plan and ESOS progress update[^c-a99f91c5d3faa8d79c58f9016e87cef5]
 
 - [Section 34A — ESOS action plan](part-6a/section-34a.md)
 - [Section 34B — ESOS progress update](part-6a/section-34b.md)
@@ -235,16 +235,16 @@ A transposition note, and a full impact assessment of the effect that this instr
 
 [^c22147031]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) is amended by section 27(1)(a) of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and by paragraph 1 of Schedule 1(1) to the [European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7).
 
-[^key-2b0348af0a1753ad36f02221c130aa91]: Textual amendment: [Pt. 4 Ch. 2A](https://www.legislation.gov.uk/uksi/2014/1643/part/4/chapter/2A) inserted (29.11.2023) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2023/1182/regulation/15)
+[^c-2b0348af0a1753ad36f02221c130aa91]: Textual amendment: [Pt. 4 Ch. 2A](https://www.legislation.gov.uk/uksi/2014/1643/part/4/chapter/2A) inserted (29.11.2023) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2023/1182/regulation/15)
 
-[^key-ea4dbf7367b14e24b29e6b093af69e0f]: Textual amendment: [Pt. 4 Ch. 3A](https://www.legislation.gov.uk/uksi/2014/1643/part/4/chapter/3A) inserted (29.11.2023) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2023/1182/regulation/18)
+[^c-ea4dbf7367b14e24b29e6b093af69e0f]: Textual amendment: [Pt. 4 Ch. 3A](https://www.legislation.gov.uk/uksi/2014/1643/part/4/chapter/3A) inserted (29.11.2023) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2023/1182/regulation/18)
 
-[^key-6be0ea0a3e81f0a0adebc460d6bb8bf8]: Textual amendment: [Pt. 4 Ch. 3B](https://www.legislation.gov.uk/uksi/2014/1643/part/4/chapter/3B) inserted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2026/701/regulation/17)
+[^c-6be0ea0a3e81f0a0adebc460d6bb8bf8]: Textual amendment: [Pt. 4 Ch. 3B](https://www.legislation.gov.uk/uksi/2014/1643/part/4/chapter/3B) inserted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2026/701/regulation/17)
 
-[^key-863637b1566f1476d320ad6aaf7134b2]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/uksi/2014/1643/part/5) heading substituted (29.11.2023) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2023/1182/regulation/20)
+[^c-863637b1566f1476d320ad6aaf7134b2]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/uksi/2014/1643/part/5) heading substituted (29.11.2023) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2023/1182/regulation/20)
 
-[^key-390519a07e65e1cc089d0f8d988e5561]: Textual amendment: Words in [Pt. 5](https://www.legislation.gov.uk/uksi/2014/1643/part/5) heading omitted (22.7.2026) by virtue of [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2026/701/regulation/19)
+[^c-390519a07e65e1cc089d0f8d988e5561]: Textual amendment: Words in [Pt. 5](https://www.legislation.gov.uk/uksi/2014/1643/part/5) heading omitted (22.7.2026) by virtue of [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2026/701/regulation/19)
 
-[^key-175d81737822c907c03a56db0d9358d5]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/uksi/2014/1643/part/6) heading substituted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2026/701/regulation/22)
+[^c-175d81737822c907c03a56db0d9358d5]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/uksi/2014/1643/part/6) heading substituted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2026/701/regulation/22)
 
-[^key-a99f91c5d3faa8d79c58f9016e87cef5]: Textual amendment: [Pt. 6A](https://www.legislation.gov.uk/uksi/2014/1643/part/6A) inserted (29.11.2023) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2023/1182/regulation/26)
+[^c-a99f91c5d3faa8d79c58f9016e87cef5]: Textual amendment: [Pt. 6A](https://www.legislation.gov.uk/uksi/2014/1643/part/6A) inserted (29.11.2023) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2023/1182/regulation/26)

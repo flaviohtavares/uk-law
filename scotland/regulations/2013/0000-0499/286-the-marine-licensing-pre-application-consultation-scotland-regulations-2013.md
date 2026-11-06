@@ -48,15 +48,15 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 22(1) and (4), 23(3)(d), (4) and (5), 24(2) and 165(1) of the Marine (Scotland) Act 2010[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-59aae3c7276d43e4e0604dc32e374284]
+## 1. Citation and commencement[^c-59aae3c7276d43e4e0604dc32e374284]
 
 These Regulations may be cited as the Marine Licensing (Pre-application Consultation) (Scotland) Regulations 2013 and come into force on 1st January 2014.
 
-## 2. Application[^key-d0f2295947ecf66abca2811c9fe6175c]
+## 2. Application[^c-d0f2295947ecf66abca2811c9fe6175c]
 
 Regulations 5 to 7 apply in relation to any application for a marine licence received by the Scottish Ministers on or after 6th April 2014.
 
-## 3. Interpretation[^key-cf1642c24aac55c04c170bab3418022f]
+## 3. Interpretation[^c-cf1642c24aac55c04c170bab3418022f]
 
 In these Regulations—
 
@@ -65,11 +65,11 @@ In these Regulations—
 - “inter-tidal boundary” means the area of sea and foreshore bounded by the mean low water spring tide and the mean high water spring tide of Scotland;
 - “local newspaper” means a newspaper which is likely to come to the attention of those persons who are likely to be affected by the licensable marine activity for which a marine licence is to be sought;
 - “pre-application consultation report” means a report which must be prepared by virtue of section 24(1) of the Act;
-- “pre-application consultation statement” means a statement from the Scottish Ministers as to whether or not, in their opinion, an activity in respect of which a marine licence is being sought is of a class or description prescribed by regulation 4; [^key-9e1d29d73a9bb7bf1fbb0d77ab69fd4f]...
-- “relevant period” means the period beginning on 21 May 2020 and ending on the date on which Part 1 of the Coronavirus (Scotland) Act 2020 expires in accordance with section 12 of that Act; and[^key-b479f50ce58a431f3f0187e9dda79079]
+- “pre-application consultation statement” means a statement from the Scottish Ministers as to whether or not, in their opinion, an activity in respect of which a marine licence is being sought is of a class or description prescribed by regulation 4; [^c-9e1d29d73a9bb7bf1fbb0d77ab69fd4f]...
+- “relevant period” means the period beginning on 21 May 2020 and ending on the date on which Part 1 of the Coronavirus (Scotland) Act 2020 expires in accordance with section 12 of that Act; and[^c-b479f50ce58a431f3f0187e9dda79079]
 - “renewable energy structure” means a structure in the Scottish marine area constructed for the purposes of generating electricity and includes all ancillary works.
 
-## 4. Prescribed classes or descriptions of licensable marine activity[^key-3f960894ab5c72268fdee06dfc45eec2]
+## 4. Prescribed classes or descriptions of licensable marine activity[^c-3f960894ab5c72268fdee06dfc45eec2]
 
 The following classes or descriptions of licensable marine activity are prescribed—
 
@@ -88,7 +88,7 @@ The following classes or descriptions of licensable marine activity are prescrib
 - (f) the construction of a renewable energy structure within the Scottish marine area either in or over the sea or on or under the seabed, but only where the total area in which such structure is to be located exceeds 10,000 square metres in extent; and
 - (g) the alteration or improvement of a renewable energy structure within the Scottish marine area either in or over the sea or on or under the seabed by extending the structure, but only where the total area in which such structure, as extended, is to be located exceeds 10,000 square metres in extent.
 
-## 5. Procedure in relation to a pre-application consultation statement[^key-e7ef4e80b4f075d2e95306d9869b7793]
+## 5. Procedure in relation to a pre-application consultation statement[^c-e7ef4e80b4f075d2e95306d9869b7793]
 
 (1) A prospective applicant for a marine licence who considers that the activity in respect of which a licence may, or is to, be sought which may, or is to, be of a class or description prescribed in regulation 4 may notify the Scottish Ministers requiring a pre-application consultation statement from them.
 
@@ -111,7 +111,7 @@ or within such longer period as may be agreed by the Scottish Ministers and the 
 
 (6) Where the Scottish Ministers are of the opinion that the marine activity referred to in the notification under paragraph (1) is not of a class or description prescribed in regulation 4, then they must provide the prospective applicant with a pre-application consultation statement to that effect giving reasons for their opinion.
 
-## 6. Pre-application consultation[^key-ffd1270f83e99cf950d68fabb2dd277c]
+## 6. Pre-application consultation[^c-ffd1270f83e99cf950d68fabb2dd277c]
 
 (1) This regulation and regulation 7 apply to a prospective applicant for a marine licence to whom the Scottish Ministers have provided a pre-application consultation statement under regulation 5(5).
 
@@ -123,9 +123,9 @@ or within such longer period as may be agreed by the Scottish Ministers and the 
 - (d) Scottish Natural Heritage; and
 - (e) any delegate for a marine region where the application for a marine licence is for an activity which is to be carried out wholly or partly in that region.
 
-## 7. Pre-application consultation event[^key-fae5adf7bcb8e7a64782a1206fd7eb6e]
+## 7. Pre-application consultation event[^c-fae5adf7bcb8e7a64782a1206fd7eb6e]
 
-(1) Subject to regulation 7A, the prospective[^key-1aef38c1898e5d6c92bf4f341d2f7987] applicant for a marine licence must—
+(1) Subject to regulation 7A, the prospective[^c-1aef38c1898e5d6c92bf4f341d2f7987] applicant for a marine licence must—
 
 - (a) hold at least one pre-application consultation event at which those persons mentioned in regulation 6(2), and members of the public, may provide comments to the prospective applicant as regards the licensable marine activity to which the application for a marine licence is to relate; and
 - (b) publish in a local newspaper a notice containing—
@@ -146,7 +146,7 @@ or within such longer period as may be agreed by the Scottish Ministers and the 
 - (b) that pre-application consultation event has been held in a suitably accessible venue; and
 - (c) that pre-application consultation event has been advertised at least six weeks prior to the event in a manner likely to bring the application to the attention of persons likely to be interested in it.
 
-## 7A. Temporary relaxation of pre-application consultation requirements during Coronavirus emergency period[^key-af28d4a612f2776d2af81a3d976b815d]
+## 7A. Temporary relaxation of pre-application consultation requirements during Coronavirus emergency period[^c-af28d4a612f2776d2af81a3d976b815d]
 
 (1) Regulation 7 applies during the relevant period and during the period of 6 weeks immediately after the end of the relevant period, as if—
 
@@ -154,15 +154,15 @@ or within such longer period as may be agreed by the Scottish Ministers and the 
 - (b) in paragraph (1)(b)(iii) “the date and place of the pre-application consultation event” were substituted with “the date and instructions on how to join a pre-application online consultation event”; and
 - (c) paragraph (3)(b) were omitted.
 
-## 8. Pre-application consultation report[^key-b119b76a806ca9eaf3a644c4d96595f5]
+## 8. Pre-application consultation report[^c-b119b76a806ca9eaf3a644c4d96595f5]
 
-Subject to regulation 8A, a pre-application[^key-e4c95f0fbc9232d3be816bf71d7bd820] consultation report which must be prepared by virtue of section 24(1) of the Act must be in the form prescribed in the Schedule.
+Subject to regulation 8A, a pre-application[^c-e4c95f0fbc9232d3be816bf71d7bd820] consultation report which must be prepared by virtue of section 24(1) of the Act must be in the form prescribed in the Schedule.
 
-## 8A. Temporary modification of form of pre-application consultation report[^key-8230e655b390da1cfcdc34cc83e174df]
+## 8A. Temporary modification of form of pre-application consultation report[^c-8230e655b390da1cfcdc34cc83e174df]
 
 Where regulation 7A applies, regulation 8 applies as if the form referred to in that regulation were substituted with the form set out in the schedule of the Marine Works and Marine Licensing (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2020.
 
-## 9. Written and electronic communication[^key-3319d695378b56c0e874d09900e35e4c]
+## 9. Written and electronic communication[^c-3319d695378b56c0e874d09900e35e4c]
 
 (1) All applications, notices, notifications, reports and statements to which these Regulations apply must be made in writing.
 
@@ -181,7 +181,7 @@ Edinburgh
 
 8th October 2013
 
-## SCHEDULE[^key-c60538f0400eb5dfa59d5705c2e50567]
+## SCHEDULE[^c-c60538f0400eb5dfa59d5705c2e50567]
 
 Regulation 8
 
@@ -217,36 +217,36 @@ A Business and Regulatory Impact Assessment (“BRIA”) has been prepared in re
 
 [^f00001]: Footnote: [2010 asp 5](https://www.legislation.gov.uk/asp/2010/5).
 
-[^key-59aae3c7276d43e4e0604dc32e374284]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2013/286/regulation/1) in force at 1.1.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/286/regulation/1)
+[^c-59aae3c7276d43e4e0604dc32e374284]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2013/286/regulation/1) in force at 1.1.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/286/regulation/1)
 
-[^key-d0f2295947ecf66abca2811c9fe6175c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2013/286/regulation/2) in force at 1.1.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/286/regulation/1)
+[^c-d0f2295947ecf66abca2811c9fe6175c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2013/286/regulation/2) in force at 1.1.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/286/regulation/1)
 
-[^key-cf1642c24aac55c04c170bab3418022f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2013/286/regulation/3) in force at 1.1.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/286/regulation/1)
+[^c-cf1642c24aac55c04c170bab3418022f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2013/286/regulation/3) in force at 1.1.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/286/regulation/1)
 
-[^key-9e1d29d73a9bb7bf1fbb0d77ab69fd4f]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/ssi/2013/286/regulation/3) omitted (20.5.2020 at 1.45 p.m.) by virtue of [The Marine Works and Marine Licensing (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/157)](https://www.legislation.gov.uk/ssi/2020/157), [regs. 1](https://www.legislation.gov.uk/ssi/2020/157/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/157/regulation/2/2)
+[^c-9e1d29d73a9bb7bf1fbb0d77ab69fd4f]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/ssi/2013/286/regulation/3) omitted (20.5.2020 at 1.45 p.m.) by virtue of [The Marine Works and Marine Licensing (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/157)](https://www.legislation.gov.uk/ssi/2020/157), [regs. 1](https://www.legislation.gov.uk/ssi/2020/157/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/157/regulation/2/2)
 
-[^key-b479f50ce58a431f3f0187e9dda79079]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2013/286/regulation/3) inserted (20.5.2020 at 1.45 p.m.) by [The Marine Works and Marine Licensing (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/157)](https://www.legislation.gov.uk/ssi/2020/157), [regs. 1](https://www.legislation.gov.uk/ssi/2020/157/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/157/regulation/2/2)
+[^c-b479f50ce58a431f3f0187e9dda79079]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2013/286/regulation/3) inserted (20.5.2020 at 1.45 p.m.) by [The Marine Works and Marine Licensing (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/157)](https://www.legislation.gov.uk/ssi/2020/157), [regs. 1](https://www.legislation.gov.uk/ssi/2020/157/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/157/regulation/2/2)
 
-[^key-3f960894ab5c72268fdee06dfc45eec2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2013/286/regulation/4) in force at 1.1.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/286/regulation/1)
+[^c-3f960894ab5c72268fdee06dfc45eec2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2013/286/regulation/4) in force at 1.1.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/286/regulation/1)
 
-[^key-e7ef4e80b4f075d2e95306d9869b7793]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2013/286/regulation/5) in force at 1.1.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/286/regulation/1)
+[^c-e7ef4e80b4f075d2e95306d9869b7793]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2013/286/regulation/5) in force at 1.1.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/286/regulation/1)
 
-[^key-ffd1270f83e99cf950d68fabb2dd277c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2013/286/regulation/6) in force at 1.1.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/286/regulation/1)
+[^c-ffd1270f83e99cf950d68fabb2dd277c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2013/286/regulation/6) in force at 1.1.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/286/regulation/1)
 
-[^key-fae5adf7bcb8e7a64782a1206fd7eb6e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2013/286/regulation/7) in force at 1.1.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/286/regulation/1)
+[^c-fae5adf7bcb8e7a64782a1206fd7eb6e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2013/286/regulation/7) in force at 1.1.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/286/regulation/1)
 
-[^key-1aef38c1898e5d6c92bf4f341d2f7987]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/ssi/2013/286/regulation/7/1) substituted (20.5.2020 at 1.45 p.m.) by virtue of [The Marine Works and Marine Licensing (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/157)](https://www.legislation.gov.uk/ssi/2020/157), [regs. 1](https://www.legislation.gov.uk/ssi/2020/157/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2020/157/regulation/2/3)
+[^c-1aef38c1898e5d6c92bf4f341d2f7987]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/ssi/2013/286/regulation/7/1) substituted (20.5.2020 at 1.45 p.m.) by virtue of [The Marine Works and Marine Licensing (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/157)](https://www.legislation.gov.uk/ssi/2020/157), [regs. 1](https://www.legislation.gov.uk/ssi/2020/157/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2020/157/regulation/2/3)
 
-[^key-af28d4a612f2776d2af81a3d976b815d]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/ssi/2013/286/regulation/7A) inserted (20.5.2020 at 1.45 p.m.) by [The Marine Works and Marine Licensing (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/157)](https://www.legislation.gov.uk/ssi/2020/157), [regs. 1](https://www.legislation.gov.uk/ssi/2020/157/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2020/157/regulation/2/4)
+[^c-af28d4a612f2776d2af81a3d976b815d]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/ssi/2013/286/regulation/7A) inserted (20.5.2020 at 1.45 p.m.) by [The Marine Works and Marine Licensing (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/157)](https://www.legislation.gov.uk/ssi/2020/157), [regs. 1](https://www.legislation.gov.uk/ssi/2020/157/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2020/157/regulation/2/4)
 
-[^key-b119b76a806ca9eaf3a644c4d96595f5]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2013/286/regulation/8) in force at 1.1.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/286/regulation/1)
+[^c-b119b76a806ca9eaf3a644c4d96595f5]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2013/286/regulation/8) in force at 1.1.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/286/regulation/1)
 
-[^key-e4c95f0fbc9232d3be816bf71d7bd820]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/ssi/2013/286/regulation/8) substituted (20.5.2020 at 1.45 p.m.) by virtue of [The Marine Works and Marine Licensing (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/157)](https://www.legislation.gov.uk/ssi/2020/157), [regs. 1](https://www.legislation.gov.uk/ssi/2020/157/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2020/157/regulation/2/5)
+[^c-e4c95f0fbc9232d3be816bf71d7bd820]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/ssi/2013/286/regulation/8) substituted (20.5.2020 at 1.45 p.m.) by virtue of [The Marine Works and Marine Licensing (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/157)](https://www.legislation.gov.uk/ssi/2020/157), [regs. 1](https://www.legislation.gov.uk/ssi/2020/157/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2020/157/regulation/2/5)
 
-[^key-8230e655b390da1cfcdc34cc83e174df]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/ssi/2013/286/regulation/8A) inserted (20.5.2020 at 1.45 p.m.) by [The Marine Works and Marine Licensing (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/157)](https://www.legislation.gov.uk/ssi/2020/157), [regs. 1](https://www.legislation.gov.uk/ssi/2020/157/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2020/157/regulation/2/6)
+[^c-8230e655b390da1cfcdc34cc83e174df]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/ssi/2013/286/regulation/8A) inserted (20.5.2020 at 1.45 p.m.) by [The Marine Works and Marine Licensing (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/157)](https://www.legislation.gov.uk/ssi/2020/157), [regs. 1](https://www.legislation.gov.uk/ssi/2020/157/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2020/157/regulation/2/6)
 
-[^key-3319d695378b56c0e874d09900e35e4c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2013/286/regulation/9) in force at 1.1.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/286/regulation/1)
+[^c-3319d695378b56c0e874d09900e35e4c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2013/286/regulation/9) in force at 1.1.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/286/regulation/1)
 
 [^f00002]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7); section 15 was amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), Schedule 17, paragraph 158. Section 15 provides that “electronic communication” means a communication transmitted (whether from one person to another, from one device to another or from a person to a device or vice versa)- (a) by means of an electronic communications network; or (b) by other means but while in an electronic form.
 
-[^key-c60538f0400eb5dfa59d5705c2e50567]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2013/286/schedule) in force at 1.1.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/286/regulation/1)
+[^c-c60538f0400eb5dfa59d5705c2e50567]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2013/286/schedule) in force at 1.1.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/286/regulation/1)

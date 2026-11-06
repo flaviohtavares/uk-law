@@ -48,15 +48,15 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-4389d0475370abbf5591902bba53b118]
+### 1. Citation and commencement[^c-4389d0475370abbf5591902bba53b118]
 
 This Order may be cited as the Regulation of Investigatory Powers (Authorisation of Covert Human Intelligence Sources) (Scotland) Order 2014 and comes into force on 2nd February 2015.
 
-### 2. Interpretation[^key-f3e597bb2b1fc405c32c10453ccf157e]
+### 2. Interpretation[^c-f3e597bb2b1fc405c32c10453ccf157e]
 
 In this Order—
 
-- “Commissioner” means a Judicial Commissioner[^key-7588d7f5be508c860531cd00d2395fb4];
+- “Commissioner” means a Judicial Commissioner[^c-7588d7f5be508c860531cd00d2395fb4];
 - “communications subject to legal privilege” means—
   - (a) communications between a professional legal adviser and that adviser’s client; or
   - (b) communications made in connection with, or in contemplation of, legal proceedings and for the purposes of those proceedings,
@@ -73,19 +73,19 @@ which would, in legal proceedings, be protected from disclosure by virtue of any
   - (e) the Police Service of Northern Ireland;
   - (f) the National Crime Agency;
   - (g) the Ministry of Defence Police;
-  - (ga) the tri-service serious crime unit;[^key-4ad2d31f05df0a37e714615728401f5a]
+  - (ga) the tri-service serious crime unit;[^c-4ad2d31f05df0a37e714615728401f5a]
   - (i) the British Transport Police Force;
   - (j) the Royal Navy Police; or
   - (k) the Royal Military Police;
 - “source” means a covert human intelligence source;
 - “the 2010 Order” means the Regulation of Investigatory Powers (Prescription of Offices, etc. and Specification of Public Authorities) (Scotland) Order 2010[^f00003];
 - “the Act” means the Regulation of Investigatory Powers (Scotland) Act 2000; and
-- “[^key-2316d9faf9eba191a1f44d45db1ebc18]**tri-service serious crime unit**” means the unit described in section 375(1A) of the Armed Forces Act 2006.
+- “[^c-2316d9faf9eba191a1f44d45db1ebc18]**tri-service serious crime unit**” means the unit described in section 375(1A) of the Armed Forces Act 2006.
 - “writing” includes electronic communications within the meaning given by section 15 of the Electronic Communications Act 2000[^f00004].
 
 ## PART 2 — Communications subject to legal privilege
 
-### 3. Communications subject to legal privilege[^key-e6d36218f82cebd9f7c067bd4275d894]
+### 3. Communications subject to legal privilege[^c-e6d36218f82cebd9f7c067bd4275d894]
 
 (1) This Part applies to the grant or renewal of an authorisation for the conduct or use of a source to—
 
@@ -95,7 +95,7 @@ which would, in legal proceedings, be protected from disclosure by virtue of any
 
 (2) Where a single authorisation authorises conduct mentioned in paragraph (1) and other conduct authorised by the Act, this Part applies only in relation to those parts of the combined authorisation which authorise conduct mentioned in paragraph (1).
 
-### 4. Notification[^key-d42b100a0f8cb64db9647a199c4ceb42]
+### 4. Notification[^c-d42b100a0f8cb64db9647a199c4ceb42]
 
 (1) Before a person grants or renews an authorisation for conduct to which this Part applies, that person must give notice to a Commissioner under this article.
 
@@ -122,7 +122,7 @@ which would, in legal proceedings, be protected from disclosure by virtue of any
 - (e) the results of any review of the matters mentioned in section 19(7) of the Act; and
 - (f) the period for which the authorisation is considered likely to continue to be necessary.
 
-### 5. Approval required for grant or renewal of authorisations[^key-681a4ee75a8b95c8e5ee198b1e550c45]
+### 5. Approval required for grant or renewal of authorisations[^c-681a4ee75a8b95c8e5ee198b1e550c45]
 
 (1) If a Commissioner receives a notice under article 4(1), that Commissioner must, as soon as reasonably practicable, decide whether or not to approve the grant or renewal of the authorisation to which the notice relates.
 
@@ -140,13 +140,13 @@ which would, in legal proceedings, be protected from disclosure by virtue of any
 - (a) it has been approved in accordance with this article by a Commissioner; and
 - (b) notice of that Commissioner’s approval has been given in accordance with paragraph (2)(b).
 
-### 6. Duration[^key-00194370a8cbc651ff55337aa77dad56]
+### 6. Duration[^c-00194370a8cbc651ff55337aa77dad56]
 
 For the purposes of an authorisation for conduct to which this Part applies, paragraph (b) of section 19(3) of the Act has effect as if the period specified in that paragraph were three months.
 
 ## PART 3 — Authorisation in relation to relevant sources
 
-### 7. Notification of authorisation for conduct or use of relevant sources[^key-9a046a43083b239f48057bb1ae6a1b2c]
+### 7. Notification of authorisation for conduct or use of relevant sources[^c-9a046a43083b239f48057bb1ae6a1b2c]
 
 (1) A person who grants or renews an authorisation for the conduct or use of a relevant source must give notice of that authorisation to a Commissioner under this article unless the authorisation is a long term authorisation.
 
@@ -158,7 +158,7 @@ For the purposes of an authorisation for conduct to which this Part applies, par
   - (i) the grounds on which the person giving the notice is satisfied that the requirements of section 7(2) of the Act are satisfied; and
   - (ii) the conduct that is, or is to be, authorised.
 
-### 8. Long term authorisations[^key-45ef5d1bd746e5362825596bd0b7d57f]
+### 8. Long term authorisations[^c-45ef5d1bd746e5362825596bd0b7d57f]
 
 (1) In this Part, an authorisation for the conduct or use of a relevant source is a long term authorisation if the periods mentioned in paragraph (2)(a) and (b), when taken together, exceed 12 months.
 
@@ -177,7 +177,7 @@ For the purposes of an authorisation for conduct to which this Part applies, par
 
 (5) If an authorisation for the conduct or use of a relevant source is an authorisation to which Part 2 applies, the references in paragraphs (1) and (3) to 12 months are to be read as if they were references to 3 months.
 
-### 9. Notification of long term authorisations[^key-4e6d127527979172dac7c6f6f62ac7ce]
+### 9. Notification of long term authorisations[^c-4e6d127527979172dac7c6f6f62ac7ce]
 
 (1) Before a person grants or renews a long term authorisation, that person must give notice to a Commissioner under this article.
 
@@ -196,7 +196,7 @@ For the purposes of an authorisation for conduct to which this Part applies, par
 - (c) the results of any review of the matters mentioned in section 19(7) of the Act; and
 - (d) the period for which the authorisation is considered likely to continue to be necessary.
 
-### 10. Approval required for grant or renewal of long term authorisations[^key-8a425b947153d641c2564bdae5336dbb]
+### 10. Approval required for grant or renewal of long term authorisations[^c-8a425b947153d641c2564bdae5336dbb]
 
 (1) If a Commissioner receives a notice under article 9(1), that Commissioner must, as soon as reasonably practicable, decide whether or not to approve the grant or renewal of the authorisation to which the notice relates.
 
@@ -212,17 +212,17 @@ For the purposes of an authorisation for conduct to which this Part applies, par
 - (a) it has been approved in accordance with this article by a Commissioner; and
 - (b) notice of that Commissioner’s approval has been given in accordance with paragraph (2)(b).
 
-### 11. Appeals against decisions by Commissioners[^key-ad200b96588cc402f2b4e5982b7e8fbb]
+### 11. Appeals against decisions by Commissioners[^c-ad200b96588cc402f2b4e5982b7e8fbb]
 
-(1) Any person seeking approval for the grant or renewal of a long term authorisation may appeal to the Investigatory Powers Commissioner[^key-8f670ee5ae76a5a023fc72de32e7c227] against any refusal of a Commissioner (other than the Investigatory Powers Commissioner)[^key-a2a40fb3943c74bc1ed8aaadec62ddb9] to approve any such authorisation.
+(1) Any person seeking approval for the grant or renewal of a long term authorisation may appeal to the Investigatory Powers Commissioner[^c-8f670ee5ae76a5a023fc72de32e7c227] against any refusal of a Commissioner (other than the Investigatory Powers Commissioner)[^c-a2a40fb3943c74bc1ed8aaadec62ddb9] to approve any such authorisation.
 
 (2) An appeal under this article must be made no later than 7 days from the date on which notice of the refusal is given under article 10(2)(b).
 
-(3) The Investigatory Powers Commissioner[^key-b1bbd3aadd604f01804b0a893f86a0ce] must allow an appeal under this article if satisfied that there are reasonable grounds for believing that the requirements of section 7(2) of the Act are satisfied in relation to the proposed authorisation.
+(3) The Investigatory Powers Commissioner[^c-b1bbd3aadd604f01804b0a893f86a0ce] must allow an appeal under this article if satisfied that there are reasonable grounds for believing that the requirements of section 7(2) of the Act are satisfied in relation to the proposed authorisation.
 
 ## PART 4 — Prescribed offices, ranks and positions in relation to relevant public authorities
 
-### 12. Prescribed offices, ranks and positions in relation to the Police Service of Scotland[^key-bfb3fdd4b275489c279fed1a578b053a]
+### 12. Prescribed offices, ranks and positions in relation to the Police Service of Scotland[^c-bfb3fdd4b275489c279fed1a578b053a]
 
 (1) The 2010 Order[^f00005] is amended as follows.
 
@@ -316,7 +316,7 @@ For the purposes of an authorisation for conduct to which this Part applies, par
 
 ## PART 5 — Authorisations by other relevant public authorities
 
-### 13. Prescribed offices, ranks and positions in other relevant public authorities[^key-9d26e6579b3d9c95edfb9e0ef9d70279]
+### 13. Prescribed offices, ranks and positions in other relevant public authorities[^c-9d26e6579b3d9c95edfb9e0ef9d70279]
 
 (1) Schedule 1 to the 2010 Order is amended as follows.
 
@@ -329,7 +329,7 @@ For the purposes of an authorisation for conduct to which this Part applies, par
 
 ## PART 6 — Transitional provision
 
-### 14. Transitional provision[^key-c95befc0c6ecc1cfb7c98b65565acf1b]
+### 14. Transitional provision[^c-c95befc0c6ecc1cfb7c98b65565acf1b]
 
 This Order does not affect the continued operation of authorisations granted or renewed under section 7 of the Act before 2nd February 2015.
 
@@ -373,52 +373,52 @@ Part 5 makes unrelated minor amendments to the 2010 Order to alter the office ho
 
 [^f00001]: Footnote: [2000 asp 11](https://www.legislation.gov.uk/asp/2000/11). Section 8 has been amended by paragraph 15(3) of schedule 7 to the Police and Fire Reform (Scotland) Act [2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), article 4 of [S.S.I. 2010/350](https://www.legislation.gov.uk/ssi/2010/350) and article 2 of [S.S.I. 2010/420](https://www.legislation.gov.uk/ssi/2010/420).
 
-[^key-4389d0475370abbf5591902bba53b118]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2014/339/article/1) in force at 2.2.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/339/article/1)
+[^c-4389d0475370abbf5591902bba53b118]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2014/339/article/1) in force at 2.2.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/339/article/1)
 
-[^key-f3e597bb2b1fc405c32c10453ccf157e]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2014/339/article/2) in force at 2.2.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/339/article/1)
+[^c-f3e597bb2b1fc405c32c10453ccf157e]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2014/339/article/2) in force at 2.2.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/339/article/1)
 
-[^key-7588d7f5be508c860531cd00d2395fb4]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2014/339/article/2) substituted (11.9.2017) by [The Investigatory Powers Act 2016 (Consequential Amendments and Saving Provisions) Regulations 2017 (S.I. 2017/845)](https://www.legislation.gov.uk/uksi/2017/845), [regs. 1](https://www.legislation.gov.uk/uksi/2017/845/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2017/845/regulation/6/2) (with [reg. 6(3)](https://www.legislation.gov.uk/uksi/2017/845/regulation/6/3))
+[^c-7588d7f5be508c860531cd00d2395fb4]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2014/339/article/2) substituted (11.9.2017) by [The Investigatory Powers Act 2016 (Consequential Amendments and Saving Provisions) Regulations 2017 (S.I. 2017/845)](https://www.legislation.gov.uk/uksi/2017/845), [regs. 1](https://www.legislation.gov.uk/uksi/2017/845/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2017/845/regulation/6/2) (with [reg. 6(3)](https://www.legislation.gov.uk/uksi/2017/845/regulation/6/3))
 
 [^f00002]: Footnote: [1996 c.16](https://www.legislation.gov.uk/ukpga/1996/16).
 
-[^key-4ad2d31f05df0a37e714615728401f5a]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2014/339/article/2) inserted (5.12.2022) by [The Armed Forces (Tri-Service Serious Crime Unit) (Consequential Amendments) Regulations 2022 (S.I. 2022/1051)](https://www.legislation.gov.uk/uksi/2022/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/1/2), [18(2)(a)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/18/2/a)
+[^c-4ad2d31f05df0a37e714615728401f5a]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2014/339/article/2) inserted (5.12.2022) by [The Armed Forces (Tri-Service Serious Crime Unit) (Consequential Amendments) Regulations 2022 (S.I. 2022/1051)](https://www.legislation.gov.uk/uksi/2022/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/1/2), [18(2)(a)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/18/2/a)
 
 [^f00003]: Footnote: [S.S.I. 2010/350](https://www.legislation.gov.uk/ssi/2010/350). This Order has been amended by paragraph 36 of Schedule 1 to the Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 ([S.S.I. 2013/119](https://www.legislation.gov.uk/ssi/2013/119)).
 
-[^key-2316d9faf9eba191a1f44d45db1ebc18]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2014/339/article/2) inserted (5.12.2022) by [The Armed Forces (Tri-Service Serious Crime Unit) (Consequential Amendments) Regulations 2022 (S.I. 2022/1051)](https://www.legislation.gov.uk/uksi/2022/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/1/2), [18(2)(b)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/18/2/b)
+[^c-2316d9faf9eba191a1f44d45db1ebc18]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2014/339/article/2) inserted (5.12.2022) by [The Armed Forces (Tri-Service Serious Crime Unit) (Consequential Amendments) Regulations 2022 (S.I. 2022/1051)](https://www.legislation.gov.uk/uksi/2022/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/1/2), [18(2)(b)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/18/2/b)
 
 [^f00004]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15 has been amended by paragraph 158 of Schedule 17 to the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-e6d36218f82cebd9f7c067bd4275d894]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2014/339/article/3) in force at 2.2.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/339/article/1)
+[^c-e6d36218f82cebd9f7c067bd4275d894]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2014/339/article/3) in force at 2.2.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/339/article/1)
 
-[^key-d42b100a0f8cb64db9647a199c4ceb42]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2014/339/article/4) in force at 2.2.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/339/article/1)
+[^c-d42b100a0f8cb64db9647a199c4ceb42]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2014/339/article/4) in force at 2.2.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/339/article/1)
 
-[^key-681a4ee75a8b95c8e5ee198b1e550c45]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2014/339/article/5) in force at 2.2.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/339/article/1)
+[^c-681a4ee75a8b95c8e5ee198b1e550c45]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2014/339/article/5) in force at 2.2.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/339/article/1)
 
-[^key-00194370a8cbc651ff55337aa77dad56]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2014/339/article/6) in force at 2.2.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/339/article/1)
+[^c-00194370a8cbc651ff55337aa77dad56]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2014/339/article/6) in force at 2.2.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/339/article/1)
 
-[^key-9a046a43083b239f48057bb1ae6a1b2c]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2014/339/article/7) in force at 2.2.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/339/article/1)
+[^c-9a046a43083b239f48057bb1ae6a1b2c]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2014/339/article/7) in force at 2.2.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/339/article/1)
 
-[^key-45ef5d1bd746e5362825596bd0b7d57f]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2014/339/article/8) in force at 2.2.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/339/article/1)
+[^c-45ef5d1bd746e5362825596bd0b7d57f]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2014/339/article/8) in force at 2.2.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/339/article/1)
 
-[^key-4e6d127527979172dac7c6f6f62ac7ce]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2014/339/article/9) in force at 2.2.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/339/article/1)
+[^c-4e6d127527979172dac7c6f6f62ac7ce]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2014/339/article/9) in force at 2.2.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/339/article/1)
 
-[^key-8a425b947153d641c2564bdae5336dbb]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2014/339/article/10) in force at 2.2.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/339/article/1)
+[^c-8a425b947153d641c2564bdae5336dbb]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2014/339/article/10) in force at 2.2.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/339/article/1)
 
-[^key-ad200b96588cc402f2b4e5982b7e8fbb]: Commencement: [Art. 11](https://www.legislation.gov.uk/ssi/2014/339/article/11) in force at 2.2.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/339/article/1)
+[^c-ad200b96588cc402f2b4e5982b7e8fbb]: Commencement: [Art. 11](https://www.legislation.gov.uk/ssi/2014/339/article/11) in force at 2.2.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/339/article/1)
 
-[^key-8f670ee5ae76a5a023fc72de32e7c227]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/ssi/2014/339/article/11/1) substituted (11.9.2017) by [The Investigatory Powers Act 2016 (Consequential Amendments and Saving Provisions) Regulations 2017 (S.I. 2017/845)](https://www.legislation.gov.uk/uksi/2017/845), [regs. 1](https://www.legislation.gov.uk/uksi/2017/845/regulation/1), [6(4)(a)](https://www.legislation.gov.uk/uksi/2017/845/regulation/6/4/a)
+[^c-8f670ee5ae76a5a023fc72de32e7c227]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/ssi/2014/339/article/11/1) substituted (11.9.2017) by [The Investigatory Powers Act 2016 (Consequential Amendments and Saving Provisions) Regulations 2017 (S.I. 2017/845)](https://www.legislation.gov.uk/uksi/2017/845), [regs. 1](https://www.legislation.gov.uk/uksi/2017/845/regulation/1), [6(4)(a)](https://www.legislation.gov.uk/uksi/2017/845/regulation/6/4/a)
 
-[^key-a2a40fb3943c74bc1ed8aaadec62ddb9]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/ssi/2014/339/article/11/1) inserted (11.9.2017) by [The Investigatory Powers Act 2016 (Consequential Amendments and Saving Provisions) Regulations 2017 (S.I. 2017/845)](https://www.legislation.gov.uk/uksi/2017/845), [regs. 1](https://www.legislation.gov.uk/uksi/2017/845/regulation/1), [6(4)(b)](https://www.legislation.gov.uk/uksi/2017/845/regulation/6/4/b)
+[^c-a2a40fb3943c74bc1ed8aaadec62ddb9]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/ssi/2014/339/article/11/1) inserted (11.9.2017) by [The Investigatory Powers Act 2016 (Consequential Amendments and Saving Provisions) Regulations 2017 (S.I. 2017/845)](https://www.legislation.gov.uk/uksi/2017/845), [regs. 1](https://www.legislation.gov.uk/uksi/2017/845/regulation/1), [6(4)(b)](https://www.legislation.gov.uk/uksi/2017/845/regulation/6/4/b)
 
-[^key-b1bbd3aadd604f01804b0a893f86a0ce]: Textual amendment: Words in [art. 11(3)](https://www.legislation.gov.uk/ssi/2014/339/article/11/3) substituted (11.9.2017) by [The Investigatory Powers Act 2016 (Consequential Amendments and Saving Provisions) Regulations 2017 (S.I. 2017/845)](https://www.legislation.gov.uk/uksi/2017/845), [regs. 1](https://www.legislation.gov.uk/uksi/2017/845/regulation/1), [6(4)(a)](https://www.legislation.gov.uk/uksi/2017/845/regulation/6/4/a)
+[^c-b1bbd3aadd604f01804b0a893f86a0ce]: Textual amendment: Words in [art. 11(3)](https://www.legislation.gov.uk/ssi/2014/339/article/11/3) substituted (11.9.2017) by [The Investigatory Powers Act 2016 (Consequential Amendments and Saving Provisions) Regulations 2017 (S.I. 2017/845)](https://www.legislation.gov.uk/uksi/2017/845), [regs. 1](https://www.legislation.gov.uk/uksi/2017/845/regulation/1), [6(4)(a)](https://www.legislation.gov.uk/uksi/2017/845/regulation/6/4/a)
 
-[^key-bfb3fdd4b275489c279fed1a578b053a]: Commencement: [Art. 12](https://www.legislation.gov.uk/ssi/2014/339/article/12) in force at 2.2.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/339/article/1)
+[^c-bfb3fdd4b275489c279fed1a578b053a]: Commencement: [Art. 12](https://www.legislation.gov.uk/ssi/2014/339/article/12) in force at 2.2.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/339/article/1)
 
 [^f00005]: Footnote: [S.S.I. 2010/350](https://www.legislation.gov.uk/ssi/2010/350). This Order has been amended by paragraph 36 of Schedule 1 to the Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 ([S.S.I. 2013/119](https://www.legislation.gov.uk/ssi/2013/119)).
 
 [^f00006]: Footnote: [1996 c.16](https://www.legislation.gov.uk/ukpga/1996/16).
 
-[^key-9d26e6579b3d9c95edfb9e0ef9d70279]: Commencement: [Art. 13](https://www.legislation.gov.uk/ssi/2014/339/article/13) in force at 2.2.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/339/article/1)
+[^c-9d26e6579b3d9c95edfb9e0ef9d70279]: Commencement: [Art. 13](https://www.legislation.gov.uk/ssi/2014/339/article/13) in force at 2.2.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/339/article/1)
 
-[^key-c95befc0c6ecc1cfb7c98b65565acf1b]: Commencement: [Art. 14](https://www.legislation.gov.uk/ssi/2014/339/article/14) in force at 2.2.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/339/article/1)
+[^c-c95befc0c6ecc1cfb7c98b65565acf1b]: Commencement: [Art. 14](https://www.legislation.gov.uk/ssi/2014/339/article/14) in force at 2.2.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/339/article/1)

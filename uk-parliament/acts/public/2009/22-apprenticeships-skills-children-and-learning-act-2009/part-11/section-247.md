@@ -40,7 +40,7 @@ After section 85C of the Further and Higher Education Act 1992 (power of members
 > (5) A procedure under subsection (1) must include provision to the effect—
 >
 > - (a) that a person (“R”) who would otherwise be required by the procedure to report an incident to a parent must not report it to that parent if it appears to R that doing so would be likely to result in significant harm to the student; and
-> - (b) that if it appears to R that there is no parent of the student to whom R could report the incident without that being likely to result in significant harm to the student, R must report the incident to the local authority [^key-ba5db254d8726725e2e1f838323e1501]... within whose area the student is ordinarily resident.
+> - (b) that if it appears to R that there is no parent of the student to whom R could report the incident without that being likely to result in significant harm to the student, R must report the incident to the local authority [^c-ba5db254d8726725e2e1f838323e1501]... within whose area the student is ordinarily resident.
 >
 > (6) In deciding for the purposes of provision made under subsection (5) whether reporting an incident to a parent would be likely to result in significant harm to the student, R must have regard to any guidance issued by the Secretary of State about the meaning of “significant harm” for those purposes.
 >
@@ -48,4 +48,4 @@ After section 85C of the Further and Higher Education Act 1992 (power of members
 
 ## Annotations
 
-[^key-ba5db254d8726725e2e1f838323e1501]: Textual amendment: Words in s. 247 repealed (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 16(13)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/13), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/1)
+[^c-ba5db254d8726725e2e1f838323e1501]: Textual amendment: Words in s. 247 repealed (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 16(13)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/13), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/1)

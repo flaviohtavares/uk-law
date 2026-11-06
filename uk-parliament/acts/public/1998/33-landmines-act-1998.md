@@ -195,7 +195,7 @@ impose prohibitions only on United Kingdom nationals, Scottish partnerships and 
 
 (7) In this section—
 
-- “**Her Majesty’s armed forces**” means any of Her Majesty’s forces, within the meaning of the Armed Forces Act 2006[^key-276f04d17d56aded903dadf27cb20469];
+- “**Her Majesty’s armed forces**” means any of Her Majesty’s forces, within the meaning of the Armed Forces Act 2006[^c-276f04d17d56aded903dadf27cb20469];
 - “**military operation**” includes any naval or air force operation; and
 - “**operation**” includes exercises and other activities.
 
@@ -546,9 +546,9 @@ he may issue a warrant in writing authorising a person acting under the authorit
 
 - (a) take with him such other persons and such equipment as appear to him to be necessary;
 - (b) inspect any document found on the premises which he has reasonable cause to believe may be required as evidence for the purposes of proceedings in respect of an offence under this Act;
-- (c)[^key-3de8df3c56362600f637c6a6146a4f8b] take copies of, or seize and remove, any such document;
-- (d)[^key-3de8df3c56362600f637c6a6146a4f8b] inspect, seize and remove any device or equipment found on the premises which he has reasonable cause to believe may be required as such evidence;
-- (e)[^key-3de8df3c56362600f637c6a6146a4f8b] inspect, sample, seize and remove any substance found on the premises which he has reasonable cause to believe may be required as such evidence.
+- (c)[^c-3de8df3c56362600f637c6a6146a4f8b] take copies of, or seize and remove, any such document;
+- (d)[^c-3de8df3c56362600f637c6a6146a4f8b] inspect, seize and remove any device or equipment found on the premises which he has reasonable cause to believe may be required as such evidence;
+- (e)[^c-3de8df3c56362600f637c6a6146a4f8b] inspect, sample, seize and remove any substance found on the premises which he has reasonable cause to believe may be required as such evidence.
 
 (4) A constable who enters the premises—
 
@@ -600,18 +600,18 @@ Proceedings for a section 2 offence shall not be instituted—
 - (a) in England and Wales, except by or with the consent of the Attorney General;
 - (b) in Northern Ireland, except by or with the consent of the Attorney General for Northern Ireland.
 
-### 21. Revenue and Customs prosecutions.[^key-8dc496c382bd1abbed8fdb4faf2a60c0]
+### 21. Revenue and Customs prosecutions.[^c-8dc496c382bd1abbed8fdb4faf2a60c0]
 
-(1) Subject to section 20, proceedings for a section 2 offence may be instituted by[^key-5cbaa2a5759333ddf63c18cda52f5002] the Director of Public Prosecutions[^key-330264d33105f1c2ec1a0d5564792bac] or by order of the Commissioners for Her Majesty’s Revenue and Customs if it appears to the Director or to the Commissioners[^key-f38f7d6e751405d54230929b0da11e15] that the offence has involved either—
+(1) Subject to section 20, proceedings for a section 2 offence may be instituted by[^c-5cbaa2a5759333ddf63c18cda52f5002] the Director of Public Prosecutions[^c-330264d33105f1c2ec1a0d5564792bac] or by order of the Commissioners for Her Majesty’s Revenue and Customs if it appears to the Director or to the Commissioners[^c-f38f7d6e751405d54230929b0da11e15] that the offence has involved either—
 
 - (a) the movement of a prohibited object into or out of any country or territory; or
 - (b) any proposal or attempt to move a prohibited object into or out of any country or territory.
 
-(2) Any proceedings for an offence which are instituted by order of the Commissioners[^key-1bbe7b35507189a97a066af79ac2379d] under subsection (1) shall be commenced in the name of an officer of Revenue and Customs[^key-a411f2a556564e7ff8d5d7d7f374cee3].
+(2) Any proceedings for an offence which are instituted by order of the Commissioners[^c-1bbe7b35507189a97a066af79ac2379d] under subsection (1) shall be commenced in the name of an officer of Revenue and Customs[^c-a411f2a556564e7ff8d5d7d7f374cee3].
 
-(3)[^key-22c23e2c7e81e659f1869209363d7b25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-22c23e2c7e81e659f1869209363d7b25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) Where the Commissioners [^key-aee6e7059c57456897e2ebb3bd014a27]... investigate, or propose to investigate, any matter with a view to determining—
+(4) Where the Commissioners [^c-aee6e7059c57456897e2ebb3bd014a27]... investigate, or propose to investigate, any matter with a view to determining—
 
 - (a) whether there are grounds for believing that a section 2 offence has been committed, or
 - (b) whether a person should be prosecuted for such an offence,
@@ -621,9 +621,9 @@ that matter shall be treated as an assigned matter within the meaning of the [^c
 (5) Nothing in this section shall be taken—
 
 - (a) to prevent any person (including any officer) who has power to arrest, detain or prosecute any person for a section 2 offence from doing so; or
-- (b) to prevent a court from proceeding to deal with a person brought before it following his arrest by an officer for a section 2 offence, even though the proceedings have not been instituted in accordance with this section[^key-56db22d4b2185b5103db7fa44f1bf282].
+- (b) to prevent a court from proceeding to deal with a person brought before it following his arrest by an officer for a section 2 offence, even though the proceedings have not been instituted in accordance with this section[^c-56db22d4b2185b5103db7fa44f1bf282].
 
-(6)[^key-b7b9fa847e319ec685d5c15f2d87fc72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-b7b9fa847e319ec685d5c15f2d87fc72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) This section does not apply to proceedings in Scotland.
 
@@ -736,7 +736,7 @@ A notice under any provision of this Act, or a copy of a notice under any such p
 
 [^c1119942]: Marginal citation: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
 
-[^key-276f04d17d56aded903dadf27cb20469]: Textual amendment: Words in [s. 5(7)](https://www.legislation.gov.uk/ukpga/1998/33/section/5/7) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 152](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/152); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-276f04d17d56aded903dadf27cb20469]: Textual amendment: Words in [s. 5(7)](https://www.legislation.gov.uk/ukpga/1998/33/section/5/7) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 152](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/152); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c1119944]: Marginal citation: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
 
@@ -746,31 +746,31 @@ A notice under any provision of this Act, or a copy of a notice under any such p
 
 [^c1119947]: Marginal citation: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
 
-[^key-3de8df3c56362600f637c6a6146a4f8b]: Modification: S. 18(3)(c)(d)(e): powers of seizure extended (1.4.2003) by [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [ss. 50](https://www.legislation.gov.uk/ukpga/2001/16/section/50), [138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2), [Sch. 1 paras. 66](https://www.legislation.gov.uk/ukpga/2001/16/schedule/1/paragraph/66) (with [ss. 52-54](https://www.legislation.gov.uk/ukpga/2001/16/section/52), [68](https://www.legislation.gov.uk/ukpga/2001/16/section/68)); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/708/article/2/a); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/708/article/2/a); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/708/article/2/a)
+[^c-3de8df3c56362600f637c6a6146a4f8b]: Modification: S. 18(3)(c)(d)(e): powers of seizure extended (1.4.2003) by [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [ss. 50](https://www.legislation.gov.uk/ukpga/2001/16/section/50), [138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2), [Sch. 1 paras. 66](https://www.legislation.gov.uk/ukpga/2001/16/schedule/1/paragraph/66) (with [ss. 52-54](https://www.legislation.gov.uk/ukpga/2001/16/section/52), [68](https://www.legislation.gov.uk/ukpga/2001/16/section/68)); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/708/article/2/a); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/708/article/2/a); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/708/article/2/a)
 
 [^c1119951]: Modification: [S. 19(2)](https://www.legislation.gov.uk/ukpga/1998/33/section/19/2): disclosure powers extended (14.12.2001) by [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24), [ss. 17](https://www.legislation.gov.uk/ukpga/2001/24/section/17), [127(1)](https://www.legislation.gov.uk/ukpga/2001/24/section/127/1), [Sch. 4 Pt. I para. 44](https://www.legislation.gov.uk/ukpga/2001/24/schedule/4/part/I/paragraph/44)
 
-[^key-8dc496c382bd1abbed8fdb4faf2a60c0]: Textual amendment: S. 21 heading substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 66(g)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/66/g); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-8dc496c382bd1abbed8fdb4faf2a60c0]: Textual amendment: S. 21 heading substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 66(g)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/66/g); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-5cbaa2a5759333ddf63c18cda52f5002]: Textual amendment: Words in s. 21(1) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 66(a)(i)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/66/a/i); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-5cbaa2a5759333ddf63c18cda52f5002]: Textual amendment: Words in s. 21(1) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 66(a)(i)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/66/a/i); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-330264d33105f1c2ec1a0d5564792bac]: Textual amendment: Words in [s. 21(1)](https://www.legislation.gov.uk/ukpga/1998/33/section/21/1) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/13)
+[^c-330264d33105f1c2ec1a0d5564792bac]: Textual amendment: Words in [s. 21(1)](https://www.legislation.gov.uk/ukpga/1998/33/section/21/1) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/13)
 
-[^key-f38f7d6e751405d54230929b0da11e15]: Textual amendment: Words in s. 21(1) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 66(a)(ii)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/66/a/ii); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-f38f7d6e751405d54230929b0da11e15]: Textual amendment: Words in s. 21(1) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 66(a)(ii)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/66/a/ii); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-1bbe7b35507189a97a066af79ac2379d]: Textual amendment: Words in s. 21(2) inserted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 66(b)(i)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/66/b/i); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-1bbe7b35507189a97a066af79ac2379d]: Textual amendment: Words in s. 21(2) inserted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 66(b)(i)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/66/b/i); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-a411f2a556564e7ff8d5d7d7f374cee3]: Textual amendment: Words in s. 21(2) inserted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 66(b)(ii)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/66/b/ii); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-a411f2a556564e7ff8d5d7d7f374cee3]: Textual amendment: Words in s. 21(2) inserted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 66(b)(ii)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/66/b/ii); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-22c23e2c7e81e659f1869209363d7b25]: Textual amendment: S. 21(3) repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 66(c)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/66/c), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h/i)
+[^c-22c23e2c7e81e659f1869209363d7b25]: Textual amendment: S. 21(3) repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 66(c)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/66/c), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h/i)
 
-[^key-aee6e7059c57456897e2ebb3bd014a27]: Textual amendment: Words in s. 21(4) omitted (18.4.2005) by virtue of [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 66(d)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/66/d); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-aee6e7059c57456897e2ebb3bd014a27]: Textual amendment: Words in s. 21(4) omitted (18.4.2005) by virtue of [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 66(d)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/66/d); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
 [^c1119952]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).
 
-[^key-56db22d4b2185b5103db7fa44f1bf282]: Textual amendment: Words in s. 21(5)(b) substituted (18.4.2005) by virtue of [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 66(e)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/66/e); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-56db22d4b2185b5103db7fa44f1bf282]: Textual amendment: Words in s. 21(5)(b) substituted (18.4.2005) by virtue of [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 66(e)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/66/e); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-b7b9fa847e319ec685d5c15f2d87fc72]: Textual amendment: S. 21(6) repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 66(f)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/66/f), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h/i)
+[^c-b7b9fa847e319ec685d5c15f2d87fc72]: Textual amendment: S. 21(6) repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 66(f)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/66/f), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h/i)
 
 [^c1119953]: Marginal citation: [1947 c. 44](https://www.legislation.gov.uk/ukpga/1947/44).
 

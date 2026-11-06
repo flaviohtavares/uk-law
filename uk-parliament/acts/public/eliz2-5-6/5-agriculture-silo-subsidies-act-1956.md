@@ -31,24 +31,24 @@ Agriculture (Silo Subsidies) Act 1956 (repealed)
 
 1956 c.5
 
-[^key-77fb669da7f546d15ce525e48f39b051]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-77fb669da7f546d15ce525e48f39b051]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[20th December, 1956\]
 
 **No longer in force.**
 
-## 1. Schemes for silo subsidies.[^key-77fb669da7f546d15ce525e48f39b051][^key-77fb669da7f546d15ce525e48f39b051]
+## 1. Schemes for silo subsidies.[^c-77fb669da7f546d15ce525e48f39b051][^c-77fb669da7f546d15ce525e48f39b051]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Expenses.[^key-77fb669da7f546d15ce525e48f39b051][^key-77fb669da7f546d15ce525e48f39b051]
+## 2. Expenses.[^c-77fb669da7f546d15ce525e48f39b051][^c-77fb669da7f546d15ce525e48f39b051]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Short title.[^key-77fb669da7f546d15ce525e48f39b051][^key-77fb669da7f546d15ce525e48f39b051]
+## 3. Short title.[^c-77fb669da7f546d15ce525e48f39b051][^c-77fb669da7f546d15ce525e48f39b051]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-77fb669da7f546d15ce525e48f39b051]: Textual amendment: Act repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-77fb669da7f546d15ce525e48f39b051]: Textual amendment: Act repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1

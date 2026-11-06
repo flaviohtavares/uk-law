@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Benefit of the Order[^key-593df4268f5732ef690813e29160d2a1]
+## 7. Benefit of the Order[^c-593df4268f5732ef690813e29160d2a1]
 
 *Extent: E+W+S*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-593df4268f5732ef690813e29160d2a1]: Commencement: Art. 7 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-593df4268f5732ef690813e29160d2a1]: Commencement: Art. 7 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
 
 [^f00015]: Footnote: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29). Section 6 was substituted by section 30 of the Utilities Act 2000, and amended by sections 89, 136, 143, 145 and 197 of, and Schedule 19 and Part 1 of Schedule 23 to, the Energy Act 2004, section 79 of, and Schedule 8 to, the Climate Change Act 2008, section 72 of, and Schedule 1 to, the Energy Act 2011, and [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704) and [S.I. 2012/2004](https://www.legislation.gov.uk/uksi/2012/2004)

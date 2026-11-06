@@ -31,7 +31,7 @@ summary: ''
 
 Agriculture, Wales
 
-The Common Agricultural Policy Basic Payment Scheme (Provisional Payment Region Classification) (Wales) Regulations 2014 (revoked)[^key-d30bc3acb36ef26d6a0aff49a41e1dd6]
+The Common Agricultural Policy Basic Payment Scheme (Provisional Payment Region Classification) (Wales) Regulations 2014 (revoked)[^c-d30bc3acb36ef26d6a0aff49a41e1dd6]
 
 Made
 
@@ -45,27 +45,27 @@ Coming into force
 
 4 August 2014
 
-[^key-d30bc3acb36ef26d6a0aff49a41e1dd6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d30bc3acb36ef26d6a0aff49a41e1dd6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-d30bc3acb36ef26d6a0aff49a41e1dd6]
+## 1. Title, application and commencement[^c-d30bc3acb36ef26d6a0aff49a41e1dd6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-d30bc3acb36ef26d6a0aff49a41e1dd6]
+## 2. Interpretation[^c-d30bc3acb36ef26d6a0aff49a41e1dd6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Regions[^key-d30bc3acb36ef26d6a0aff49a41e1dd6]
+## 3. Regions[^c-d30bc3acb36ef26d6a0aff49a41e1dd6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d30bc3acb36ef26d6a0aff49a41e1dd6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d30bc3acb36ef26d6a0aff49a41e1dd6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Improved Agricultural Species[^key-d30bc3acb36ef26d6a0aff49a41e1dd6]
+## SCHEDULE — Improved Agricultural Species[^c-d30bc3acb36ef26d6a0aff49a41e1dd6]
 
 Regulation 3(2)(d)
 
@@ -73,8 +73,8 @@ Regulation 3(2)(d)
 
 **May not be in force at this date. Check the source.**
 
-[^key-d30bc3acb36ef26d6a0aff49a41e1dd6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d30bc3acb36ef26d6a0aff49a41e1dd6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d30bc3acb36ef26d6a0aff49a41e1dd6]: Textual amendment: Regulations revoked (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/uksi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/463/regulation/1/3), [31(d)](https://www.legislation.gov.uk/uksi/2019/463/regulation/31/d)
+[^c-d30bc3acb36ef26d6a0aff49a41e1dd6]: Textual amendment: Regulations revoked (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/uksi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/463/regulation/1/3), [31(d)](https://www.legislation.gov.uk/uksi/2019/463/regulation/31/d)

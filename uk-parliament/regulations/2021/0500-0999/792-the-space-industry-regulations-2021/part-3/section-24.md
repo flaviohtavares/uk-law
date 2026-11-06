@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Withdrawal of an application for a licence[^key-74cc2629bcce5ea141e6f6fee68751ec]
+## 24. Withdrawal of an application for a licence[^c-74cc2629bcce5ea141e6f6fee68751ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ An applicant may withdraw an application for a licence by giving notice to the r
 
 ## Annotations
 
-[^key-74cc2629bcce5ea141e6f6fee68751ec]: Commencement: Reg. 24 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-74cc2629bcce5ea141e6f6fee68751ec]: Commencement: Reg. 24 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

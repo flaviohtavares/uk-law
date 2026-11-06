@@ -34,38 +34,38 @@ of 7 November 2007
 
 amending Council Directive 95/64/EC, Council Regulation (EC) No 1172/98, Regulations (EC) No 91/2003 and (EC) No 1365/2006 of the European Parliament and of the Council with respect to the establishment of NST 2007 as the unique classification for transported goods in certain transport modes (revoked)
 
-[^key-6453439ee46f0d7e766a9b089d5bcc21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6453439ee46f0d7e766a9b089d5bcc21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Amendment to Directive 95/64/EC[^key-6453439ee46f0d7e766a9b089d5bcc21]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Amendment to Regulation (EC) No 1172/98[^key-6453439ee46f0d7e766a9b089d5bcc21]
+## Article 1. Amendment to Directive 95/64/EC[^c-6453439ee46f0d7e766a9b089d5bcc21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Amendment to Regulation (EC) No 91/2003[^key-6453439ee46f0d7e766a9b089d5bcc21]
+## Article 2. Amendment to Regulation (EC) No 1172/98[^c-6453439ee46f0d7e766a9b089d5bcc21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Amendment to Regulation (EC) No 1365/2006[^key-6453439ee46f0d7e766a9b089d5bcc21]
+## Article 3. Amendment to Regulation (EC) No 91/2003[^c-6453439ee46f0d7e766a9b089d5bcc21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Level of detail in Community statistics[^key-6453439ee46f0d7e766a9b089d5bcc21]
+## Article 4. Amendment to Regulation (EC) No 1365/2006[^c-6453439ee46f0d7e766a9b089d5bcc21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Entry into force[^key-6453439ee46f0d7e766a9b089d5bcc21]
+## Article 5. Level of detail in Community statistics[^c-6453439ee46f0d7e766a9b089d5bcc21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6453439ee46f0d7e766a9b089d5bcc21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 6. Entry into force[^c-6453439ee46f0d7e766a9b089d5bcc21]
 
-## ANNEX[^key-6453439ee46f0d7e766a9b089d5bcc21]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-6453439ee46f0d7e766a9b089d5bcc21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-6453439ee46f0d7e766a9b089d5bcc21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6453439ee46f0d7e766a9b089d5bcc21]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 108](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/108); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6453439ee46f0d7e766a9b089d5bcc21]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 108](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/108); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

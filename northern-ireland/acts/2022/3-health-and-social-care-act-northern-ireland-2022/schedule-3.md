@@ -24,7 +24,7 @@ Section 5.
 
 ### Transfer of assets and liabilities
 
-**1.**[^key-44f9115d6a61e7661f865111b2736708] (1) A scheme may designate the assets or liabilities to be transferred—
+**1.**[^c-44f9115d6a61e7661f865111b2736708] (1) A scheme may designate the assets or liabilities to be transferred—
 
 - (a) by specifying them or describing them in particular;
 - (b) by identifying them generally by reference to a specified part of the Regional Board’s undertaking, or their connection with the exercise of specified functions of the Board; or
@@ -53,7 +53,7 @@ is conclusive evidence for all purposes of that fact.
 
 ### Transfer of employed staff
 
-**2.**[^key-e0df50dc24d8a9be3494d23cadd73cc9] (1) This paragraph applies if rights and liabilities under a contract of employment are transferred by virtue of a scheme.
+**2.**[^c-e0df50dc24d8a9be3494d23cadd73cc9] (1) This paragraph applies if rights and liabilities under a contract of employment are transferred by virtue of a scheme.
 
 (2) The Transfer of Undertakings (Protection of Employment) Regulations 2006 ([S.I. 2006/246](https://www.legislation.gov.uk/uksi/2006/246)) apply to the transfer whether or not the transfer would, apart from this paragraph, be a relevant transfer for the purposes of the Regulations.
 
@@ -82,23 +82,23 @@ is conclusive evidence for all purposes of that fact.
 
 ### Continuity
 
-**3.**[^key-f56e179b80a7793e4bfdb5e87a9869d3] A transfer by virtue of a scheme does not affect the validity of anything done by, or in relation to, the Regional Board before the transfer date.
+**3.**[^c-f56e179b80a7793e4bfdb5e87a9869d3] A transfer by virtue of a scheme does not affect the validity of anything done by, or in relation to, the Regional Board before the transfer date.
 
-**4.**[^key-e60ce0c0643cb33a78f77a37246e1bb0] Anything which—
+**4.**[^c-e60ce0c0643cb33a78f77a37246e1bb0] Anything which—
 
 - (a) before the transfer date was done by or in relation to the Regional Board for the purposes of or otherwise in connection with anything transferred by virtue of a scheme, and
 - (b) is in effect immediately before the transfer date,
 
 continues to have effect to the same extent and subject to the same provisions as if it had been done by, or in relation to, the transferee.
 
-**5.**[^key-d3b841e64c22a3b029e2ab6413fde7e2] Anything (including any legal proceedings) which—
+**5.**[^c-d3b841e64c22a3b029e2ab6413fde7e2] Anything (including any legal proceedings) which—
 
 - (a) relates to anything transferred by virtue of a scheme, and
 - (b) is in the process of being done by or in relation to the Regional Board immediately before the transfer date,
 
 may be continued by or in relation to the transferee.
 
-**6.**[^key-319e5e0aa54176658418e09617fba4b8] (1) In any statutory provision or statutory document—
+**6.**[^c-319e5e0aa54176658418e09617fba4b8] (1) In any statutory provision or statutory document—
 
 - (a) which relates to anything transferred by virtue of the scheme, and
 - (b) which is in effect immediately before the transfer date,
@@ -112,14 +112,14 @@ any reference to the Regional Board is to be construed, in relation to any time 
 
 ## Annotations
 
-[^key-44f9115d6a61e7661f865111b2736708]: Commencement: Sch. 3 para. 1 in operation at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/nia/2022/3/section/8/2)
+[^c-44f9115d6a61e7661f865111b2736708]: Commencement: Sch. 3 para. 1 in operation at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/nia/2022/3/section/8/2)
 
-[^key-e0df50dc24d8a9be3494d23cadd73cc9]: Commencement: Sch. 3 para. 2 in operation at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/nia/2022/3/section/8/2)
+[^c-e0df50dc24d8a9be3494d23cadd73cc9]: Commencement: Sch. 3 para. 2 in operation at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/nia/2022/3/section/8/2)
 
-[^key-f56e179b80a7793e4bfdb5e87a9869d3]: Commencement: Sch. 3 para. 3 in operation at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/nia/2022/3/section/8/2)
+[^c-f56e179b80a7793e4bfdb5e87a9869d3]: Commencement: Sch. 3 para. 3 in operation at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/nia/2022/3/section/8/2)
 
-[^key-e60ce0c0643cb33a78f77a37246e1bb0]: Commencement: Sch. 3 para. 4 in operation at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/nia/2022/3/section/8/2)
+[^c-e60ce0c0643cb33a78f77a37246e1bb0]: Commencement: Sch. 3 para. 4 in operation at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/nia/2022/3/section/8/2)
 
-[^key-d3b841e64c22a3b029e2ab6413fde7e2]: Commencement: Sch. 3 para. 5 in operation at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/nia/2022/3/section/8/2)
+[^c-d3b841e64c22a3b029e2ab6413fde7e2]: Commencement: Sch. 3 para. 5 in operation at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/nia/2022/3/section/8/2)
 
-[^key-319e5e0aa54176658418e09617fba4b8]: Commencement: Sch. 3 para. 6 in operation at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/nia/2022/3/section/8/2)
+[^c-319e5e0aa54176658418e09617fba4b8]: Commencement: Sch. 3 para. 6 in operation at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/nia/2022/3/section/8/2)

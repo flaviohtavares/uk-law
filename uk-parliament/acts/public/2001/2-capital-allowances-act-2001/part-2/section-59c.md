@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59C. Sections 59A and 59B: tax avoidance arrangements[^key-3f2d4326db6c25d4ae2a4dcfba37689f]
+## 59C. Sections 59A and 59B: tax avoidance arrangements[^c-3f2d4326db6c25d4ae2a4dcfba37689f]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f2d4326db6c25d4ae2a4dcfba37689f]: Textual amendment: [Ss. 59A-59C](https://www.legislation.gov.uk/ukpga/2001/2/section/59A) and cross-heading inserted (22.2.2024) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 7(6)](https://www.legislation.gov.uk/ukpga/2023/30/section/7/6) (as amended by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 1(2)](https://www.legislation.gov.uk/ukpga/2024/3/section/1/2))
+[^c-3f2d4326db6c25d4ae2a4dcfba37689f]: Textual amendment: [Ss. 59A-59C](https://www.legislation.gov.uk/ukpga/2001/2/section/59A) and cross-heading inserted (22.2.2024) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 7(6)](https://www.legislation.gov.uk/ukpga/2023/30/section/7/6) (as amended by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 1(2)](https://www.legislation.gov.uk/ukpga/2024/3/section/1/2))

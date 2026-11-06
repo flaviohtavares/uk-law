@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Health service body status[^key-b048c5b8e9d6036bfb34b061c02b05c7]
+## 10. Health service body status[^c-b048c5b8e9d6036bfb34b061c02b05c7]
 
 *Extent: S*
 
@@ -63,6 +63,6 @@ as a health service body for any purposes of section 17A of the Act from the dat
 
 ## Annotations
 
-[^key-b048c5b8e9d6036bfb34b061c02b05c7]: Commencement: Reg. 10 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-b048c5b8e9d6036bfb34b061c02b05c7]: Commencement: Reg. 10 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
 [^f00049]: Footnote: Section 17A was inserted by the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19), section 30 and amended by the Health Authorities Act [1995 (c. 17)](https://www.legislation.gov.uk/ukpga/1995/17), Schedule 1, paragraph 102(2), the National Health Service (Primary Care) Act [1997 (c. 46)](https://www.legislation.gov.uk/ukpga/1997/46), Schedule 2, paragraph 36, the Health Act [1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8), Schedule 4, paragraph 46 and S.I. [1991/195](https://www.legislation.gov.uk/uksi/1991/195).

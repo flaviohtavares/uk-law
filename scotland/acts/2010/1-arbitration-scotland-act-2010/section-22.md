@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Saving for other bases of recognition or enforcement[^key-93fdd6a5985a0b8e5bb27b3beec66558]
+## 22. Saving for other bases of recognition or enforcement[^c-93fdd6a5985a0b8e5bb27b3beec66558]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Nothing in sections 19 to 21 affects any other right to rely on or enforce a Con
 
 ## Annotations
 
-[^key-93fdd6a5985a0b8e5bb27b3beec66558]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2010/1/section/22) in force at 7.6.2010 for specified purposes by [S.S.I. 2010/195](https://www.legislation.gov.uk/ssi/2010/195), [art. 2](https://www.legislation.gov.uk/ssi/2010/195/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/195/article/3))
+[^c-93fdd6a5985a0b8e5bb27b3beec66558]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2010/1/section/22) in force at 7.6.2010 for specified purposes by [S.S.I. 2010/195](https://www.legislation.gov.uk/ssi/2010/195), [art. 2](https://www.legislation.gov.uk/ssi/2010/195/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/195/article/3))

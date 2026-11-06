@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation[^key-075a85949d0f369e7c4939d3e1a54268]
+## 2. Interpretation[^c-075a85949d0f369e7c4939d3e1a54268]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ In these Regulations—
 
 ## Annotations
 
-[^key-075a85949d0f369e7c4939d3e1a54268]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-075a85949d0f369e7c4939d3e1a54268]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
 [^c23664071]: Marginal citation: [S.I. 2005/2339](https://www.legislation.gov.uk/uksi/2005/2339), amended by [S.I. 2006/1028](https://www.legislation.gov.uk/uksi/2006/1028), 2007/3378, 2011/1043 and 2014/2400 and the Intellectual Property (Unjustified Threats) Act 2017, c.14.
 

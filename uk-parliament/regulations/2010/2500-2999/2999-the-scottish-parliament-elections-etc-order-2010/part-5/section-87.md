@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Modification of section 10 of the 1998 Act[^key-a754ea841a94ae35dbbd502e2b7eb112]
+## 87. Modification of section 10 of the 1998 Act[^c-a754ea841a94ae35dbbd502e2b7eb112]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ Section 10 of the 1998 Act[^f00054] is modified by substituting, for subsections
 
 ## Annotations
 
-[^key-a754ea841a94ae35dbbd502e2b7eb112]: Commencement: Art. 87 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-a754ea841a94ae35dbbd502e2b7eb112]: Commencement: Art. 87 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00054]: Footnote: Section 10 was previously modified by [S.I. 2007/937](https://www.legislation.gov.uk/uksi/2007/937), but that instrument is revoked by this Order.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Delegation of functions to CAA[^key-f3d8b0411075f2c5a91ee51717f664c3]
+## 5. Delegation of functions to CAA[^c-f3d8b0411075f2c5a91ee51717f664c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3d8b0411075f2c5a91ee51717f664c3]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2021/12/section/5) in force at 18.2.2022 by [S.I. 2022/119](https://www.legislation.gov.uk/uksi/2022/119), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/119/regulation/2/e)
+[^c-f3d8b0411075f2c5a91ee51717f664c3]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2021/12/section/5) in force at 18.2.2022 by [S.I. 2022/119](https://www.legislation.gov.uk/uksi/2022/119), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/119/regulation/2/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Amendment of regulation 22 (form and content of permits)[^key-ae94eaaa3335af49bc2cdc8e5d8ba5d4]
+## 13. Amendment of regulation 22 (form and content of permits)[^c-ae94eaaa3335af49bc2cdc8e5d8ba5d4]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In regulation 22(3) (form and content of permits), after “granting”, insert 
 
 ## Annotations
 
-[^key-ae94eaaa3335af49bc2cdc8e5d8ba5d4]: Commencement: Reg. 13 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)
+[^c-ae94eaaa3335af49bc2cdc8e5d8ba5d4]: Commencement: Reg. 13 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)

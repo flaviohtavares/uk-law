@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. The Welsh Revenue Authority[^key-2de5a84cbffcd3e057ef6e3d1597af41]
+## 2. The Welsh Revenue Authority[^c-2de5a84cbffcd3e057ef6e3d1597af41]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2de5a84cbffcd3e057ef6e3d1597af41]: Commencement: S. 2 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)
+[^c-2de5a84cbffcd3e057ef6e3d1597af41]: Commencement: S. 2 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)

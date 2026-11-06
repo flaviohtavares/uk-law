@@ -55,7 +55,7 @@ the trade or part of a trade which is continued or ceases to be carried on by th
 
 (2) Section 28 of the 1992 Act (time of disposal or acquisition in pursuance of contract) shall have effect in relation to any disposal or acquisition in pursuance of an obligation imposed by virtue of paragraph 2(1)(g) of Schedule 2 to this Act as it would apply if the obligation were contained in a contract made at the time when the scheme containing the obligation comes into force.
 
-(3)[^key-da033ac0db450dd234e211a14c5b0525] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-da033ac0db450dd234e211a14c5b0525] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Chargeable gains: compensation and insurance money
 
@@ -308,7 +308,7 @@ would fall (apart from this sub-paragraph) to be regarded for those purposes as 
 - (a) by virtue of any relevant transfer any liability for any loan made to the predecessor vests in a successor company, and
 - (b) at the coming into force of that transfer that company is wholly owned by the Crown,
 
-the vesting of liability for that loan in that company shall not affect any direction in respect of the loan given or having effect as if given by the Treasury under section 755 of the Income Tax (Trading and Other Income) Act 2005[^key-17e82f275d636b98f088e118d3d8c3b5] (income tax exemption for interest on foreign currency securities).
+the vesting of liability for that loan in that company shall not affect any direction in respect of the loan given or having effect as if given by the Treasury under section 755 of the Income Tax (Trading and Other Income) Act 2005[^c-17e82f275d636b98f088e118d3d8c3b5] (income tax exemption for interest on foreign currency securities).
 
 (2) Any share issued by a successor company in pursuance of paragraph 2 of Schedule 3 to this Act shall be treated for the purposes of the Corporation Tax Acts as if it had been issued wholly in consideration of a subscription paid to that company of an amount equal to the nominal value of the share.
 
@@ -580,9 +580,9 @@ shall give rise to a charge to stamp duty reserve tax.
 
 [^c10940511]: Textual amendment: Words in Sch. 4 para. 1(2) substituted (22.3.2001 with effect as mentioned in [s. 579(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/579/1) of the amending Act) by [2001 c. 2](https://www.legislation.gov.uk/ukpga/2001/2), [s. 578](https://www.legislation.gov.uk/ukpga/2001/2/section/578), [Sch. 2 para. 93(1)(b)](https://www.legislation.gov.uk/ukpga/2001/2/schedule/2/paragraph/93/1/b)
 
-[^key-da033ac0db450dd234e211a14c5b0525]: Textual amendment: [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/ukpga/1994/21/schedule/4/paragraph/2/3) omitted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 70(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/70/c)
+[^c-da033ac0db450dd234e211a14c5b0525]: Textual amendment: [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/ukpga/1994/21/schedule/4/paragraph/2/3) omitted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 70(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/70/c)
 
-[^key-17e82f275d636b98f088e118d3d8c3b5]: Textual amendment: Words in Sch. 4 para. 17(1) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 474](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/474) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-17e82f275d636b98f088e118d3d8c3b5]: Textual amendment: Words in Sch. 4 para. 17(1) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 474](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/474) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
 [^c10940521]: Textual amendment: Words in Sch. 4 para. 19(1)(2)(a) substituted (22.3.2001 with effect as mentioned in [s. 579(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/579/1) of the amending Act) by [2001 c. 2](https://www.legislation.gov.uk/ukpga/2001/2), [s. 578](https://www.legislation.gov.uk/ukpga/2001/2/section/578), [Sch. 2 para. 93(2)](https://www.legislation.gov.uk/ukpga/2001/2/schedule/2/paragraph/93/2)
 

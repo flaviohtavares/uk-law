@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138BA. Disapplication or modification of rules in individual cases[^key-5ebd6726b0d857ceaa39fb32ca4cbc9a][^key-d93d37d70fa3356722fbc3a33311b06f]
+## 138BA. Disapplication or modification of rules in individual cases[^c-5ebd6726b0d857ceaa39fb32ca4cbc9a][^c-d93d37d70fa3356722fbc3a33311b06f]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5ebd6726b0d857ceaa39fb32ca4cbc9a]: Modification: [S. 138BA](https://www.legislation.gov.uk/ukpga/2000/8/section/138BA) applied (30.6.2024) by [The Financial Services and Markets Act 2000 (Disapplication or Modification of Financial Regulator Rules in Individual Cases) Regulations 2024 (S.I. 2024/539)](https://www.legislation.gov.uk/uksi/2024/539), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/539/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2024/539/regulation/2)
+[^c-5ebd6726b0d857ceaa39fb32ca4cbc9a]: Modification: [S. 138BA](https://www.legislation.gov.uk/ukpga/2000/8/section/138BA) applied (30.6.2024) by [The Financial Services and Markets Act 2000 (Disapplication or Modification of Financial Regulator Rules in Individual Cases) Regulations 2024 (S.I. 2024/539)](https://www.legislation.gov.uk/uksi/2024/539), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/539/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2024/539/regulation/2)
 
-[^key-d93d37d70fa3356722fbc3a33311b06f]: Textual amendment: [S. 138BA](https://www.legislation.gov.uk/ukpga/2000/8/section/138BA) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 34(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/34/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(x)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/x)
+[^c-d93d37d70fa3356722fbc3a33311b06f]: Textual amendment: [S. 138BA](https://www.legislation.gov.uk/ukpga/2000/8/section/138BA) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 34(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/34/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(x)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/x)

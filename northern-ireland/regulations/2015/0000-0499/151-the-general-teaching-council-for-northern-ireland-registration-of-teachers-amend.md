@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Education makes the following Regulations in exercise of the powers conferred by Articles 36(1), (3)(f) and (5), 40(3) and 90(3) of the Education (Northern Ireland) Order 1998[^f00001].
 
-## 1. Citation and commencement[^key-543ceeaebd1f143b28159b5d261a16e8]
+## 1. Citation and commencement[^c-543ceeaebd1f143b28159b5d261a16e8]
 
 These Regulations may be cited as the General Teaching Council for Northern Ireland (Registration of Teachers) (Amendment) Regulations (Northern Ireland) 2015 and shall come into operation on 1st April 2015.
 
-## 2. Amendment of the General Teaching Council for Northern Ireland (Registration of Teachers) Regulations (Northern Ireland) 2004[^key-76a800b41b8453862a5d42e02fc3628c]
+## 2. Amendment of the General Teaching Council for Northern Ireland (Registration of Teachers) Regulations (Northern Ireland) 2004[^c-76a800b41b8453862a5d42e02fc3628c]
 
 (1) The General Teaching Council for Northern Ireland (Registration of Teachers) Regulations (Northern Ireland) 2004[^f00002] are amended in accordance with paragraphs (2) to (8).
 
@@ -136,9 +136,9 @@ They also make a number of amendments to the supply of information provisions in
 
 [^f00001]: Footnote: [S.I. 1998/1759 (N.I. 13)](https://www.legislation.gov.uk/nisi/1998/1759). Article 36 has been amended by Article 35 of the Education and Libraries (Northern Ireland) Order 2003 ([S.I. 2003/424 (N.I. 12)](https://www.legislation.gov.uk/nisi/2003/424)) and Articles 35 and 36 of the Education (Northern Ireland) Order 2006 ([S.I. 2006/1915 (N.I. 11)](https://www.legislation.gov.uk/nisi/2006/1915))
 
-[^key-543ceeaebd1f143b28159b5d261a16e8]: Commencement: Reg. 1 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/151/regulation/1)
+[^c-543ceeaebd1f143b28159b5d261a16e8]: Commencement: Reg. 1 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/151/regulation/1)
 
-[^key-76a800b41b8453862a5d42e02fc3628c]: Commencement: Reg. 2 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/151/regulation/1)
+[^c-76a800b41b8453862a5d42e02fc3628c]: Commencement: Reg. 2 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/151/regulation/1)
 
 [^f00002]: Footnote: [S.R. 2004 No. 38](https://www.legislation.gov.uk/nisr/2004/38); relevant amending regulations are [S.R. 2007 No. 402](https://www.legislation.gov.uk/nisr/2007/402) and [S.R. 2009 No. 370](https://www.legislation.gov.uk/nisr/2009/370)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Periodic returns[^c1942179][^key-4d06b7111160cbcf26b66638f73bb47c]
+## 40. Periodic returns[^c1942179][^c-4d06b7111160cbcf26b66638f73bb47c]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 [^c1942179]: Commencement: S. 40 partly in force; S. 40 in force for specified purposes at Royal Assent, see [s. 170](https://www.legislation.gov.uk/ukpga/2008/14/section/170)
 
-[^key-4d06b7111160cbcf26b66638f73bb47c]: Commencement: S. 40 in force at 1.4.2009 for specified purposes by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2](https://www.legislation.gov.uk/uksi/2009/462/article/2), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/15)
+[^c-4d06b7111160cbcf26b66638f73bb47c]: Commencement: S. 40 in force at 1.4.2009 for specified purposes by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2](https://www.legislation.gov.uk/uksi/2009/462/article/2), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/15)

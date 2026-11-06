@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Duty of health boards to protect public health[^key-bfc8be15716f129c52b6e10f4466a0b8]
+## 2. Duty of health boards to protect public health[^c-bfc8be15716f129c52b6e10f4466a0b8]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bfc8be15716f129c52b6e10f4466a0b8]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2008/5/section/2) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-bfc8be15716f129c52b6e10f4466a0b8]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2008/5/section/2) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

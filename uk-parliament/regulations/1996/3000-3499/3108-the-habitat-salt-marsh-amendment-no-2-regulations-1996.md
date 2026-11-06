@@ -30,7 +30,7 @@ summary: ''
 
 AGRICULTURE
 
-The Habitat (Salt-Marsh) (Amendment) (No. 2) Regulations 1996 (revoked)[^key-776326901a466bda8f25a3d92e5e3972]
+The Habitat (Salt-Marsh) (Amendment) (No. 2) Regulations 1996 (revoked)[^c-776326901a466bda8f25a3d92e5e3972]
 
 Made
 
@@ -44,24 +44,24 @@ Coming into force
 
 1st January 1997
 
-[^key-776326901a466bda8f25a3d92e5e3972]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-776326901a466bda8f25a3d92e5e3972]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and extent[^key-776326901a466bda8f25a3d92e5e3972]
+## 1. Title, commencement and extent[^c-776326901a466bda8f25a3d92e5e3972]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to previous Regulations[^key-776326901a466bda8f25a3d92e5e3972]
+## 2. Amendments to previous Regulations[^c-776326901a466bda8f25a3d92e5e3972]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-776326901a466bda8f25a3d92e5e3972]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-776326901a466bda8f25a3d92e5e3972]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-776326901a466bda8f25a3d92e5e3972]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-776326901a466bda8f25a3d92e5e3972]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-776326901a466bda8f25a3d92e5e3972]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1996/3108) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-776326901a466bda8f25a3d92e5e3972]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1996/3108) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

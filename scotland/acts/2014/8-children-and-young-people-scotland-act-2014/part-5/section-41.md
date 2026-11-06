@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Guidance on child's plans[^key-c041696f69c103937713640c224fadea]
+## 41. Guidance on child's plans[^c-c041696f69c103937713640c224fadea]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c041696f69c103937713640c224fadea]: Textual amendment: Pt. 5 repealed (5.5.2025) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 32(b)](https://www.legislation.gov.uk/asp/2024/5/section/32/b), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/115](https://www.legislation.gov.uk/ssi/2025/115), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/115/regulation/2/1/c)
+[^c-c041696f69c103937713640c224fadea]: Textual amendment: Pt. 5 repealed (5.5.2025) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 32(b)](https://www.legislation.gov.uk/asp/2024/5/section/32/b), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/115](https://www.legislation.gov.uk/ssi/2025/115), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/115/regulation/2/1/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Power to deal with cause of imminent danger of serious pollution etc.[^key-38bf46af9f300c03cbc2a3bc03c0dbd5][^key-7b2d1e831e9a47ba27cd11b039986742][^key-f3e1f5b4a1e3e0b7e8de5ac7267dee9a]
+## 109. Power to deal with cause of imminent danger of serious pollution etc.[^c-38bf46af9f300c03cbc2a3bc03c0dbd5][^c-7b2d1e831e9a47ba27cd11b039986742][^c-f3e1f5b4a1e3e0b7e8de5ac7267dee9a]
 
 *Extent: E+W+S*
 
@@ -33,8 +33,8 @@ and if, where paragraph (b) above applies, the authorised person cannot after re
 
 ## Annotations
 
-[^key-38bf46af9f300c03cbc2a3bc03c0dbd5]: Modification: S. 109 applied (with modifications) (1.4.2018) by [The Control of Mercury (Enforcement) Regulations 2017 (S.I. 2017/1200)](https://www.legislation.gov.uk/uksi/2017/1200), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/2/2), [9(4)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/9/4)[(5)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/9/5) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/1/2))
+[^c-38bf46af9f300c03cbc2a3bc03c0dbd5]: Modification: S. 109 applied (with modifications) (1.4.2018) by [The Control of Mercury (Enforcement) Regulations 2017 (S.I. 2017/1200)](https://www.legislation.gov.uk/uksi/2017/1200), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/2/2), [9(4)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/9/4)[(5)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/9/5) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/1/2))
 
-[^key-7b2d1e831e9a47ba27cd11b039986742]: Modification: S. 109 applied (with modifications) (1.4.2018) by [The Control of Mercury (Enforcement) Regulations 2017 (S.I. 2017/1200)](https://www.legislation.gov.uk/uksi/2017/1200), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/2/2), [27(3)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/27/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/1/2))
+[^c-7b2d1e831e9a47ba27cd11b039986742]: Modification: S. 109 applied (with modifications) (1.4.2018) by [The Control of Mercury (Enforcement) Regulations 2017 (S.I. 2017/1200)](https://www.legislation.gov.uk/uksi/2017/1200), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/2/2), [27(3)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/27/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/1/2))
 
-[^key-f3e1f5b4a1e3e0b7e8de5ac7267dee9a]: Modification: S. 109: functions etc. assigned to the Port Health Authority (7.11.2024) by [The London Port Health Authority Order 2024 (S.I. 2024/1161)](https://www.legislation.gov.uk/uksi/2024/1161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1161/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1161/schedule) (with [arts. 4(3)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/3), [5(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/5/2))
+[^c-f3e1f5b4a1e3e0b7e8de5ac7267dee9a]: Modification: S. 109: functions etc. assigned to the Port Health Authority (7.11.2024) by [The London Port Health Authority Order 2024 (S.I. 2024/1161)](https://www.legislation.gov.uk/uksi/2024/1161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1161/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1161/schedule) (with [arts. 4(3)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/3), [5(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/5/2))

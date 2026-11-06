@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Brokering services: non-UK activity relating to military goods and military technology[^key-2b8c063e9e0ed1a006406575b7ed9612]
+## 27. Brokering services: non-UK activity relating to military goods and military technology[^c-2b8c063e9e0ed1a006406575b7ed9612]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b8c063e9e0ed1a006406575b7ed9612]: Commencement: Reg. 27 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)
+[^c-2b8c063e9e0ed1a006406575b7ed9612]: Commencement: Reg. 27 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)

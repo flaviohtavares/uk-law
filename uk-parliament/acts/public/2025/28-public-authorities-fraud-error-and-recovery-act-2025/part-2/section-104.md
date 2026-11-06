@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 104. Powers of Scottish Ministers[^key-02533d2978a02c1f023746284addb8cf][^key-cf4d2213ebde59d1a48a7736382053d1]
+## 104. Powers of Scottish Ministers[^c-02533d2978a02c1f023746284addb8cf][^c-cf4d2213ebde59d1a48a7736382053d1]
 
 *Extent: E+W+S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-02533d2978a02c1f023746284addb8cf]: Commencement: S. 104 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-02533d2978a02c1f023746284addb8cf]: Commencement: S. 104 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-cf4d2213ebde59d1a48a7736382053d1]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2025/28/section/104) in force at 24.6.2026 by [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/1/f)
+[^c-cf4d2213ebde59d1a48a7736382053d1]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2025/28/section/104) in force at 24.6.2026 by [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/1/f)

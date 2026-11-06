@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 90. Work to improve energy efficiency and safety[^key-0a5a5cec39bc9f4e4cdb92f8cae66a0e]
+## 90. Work to improve energy efficiency and safety[^c-0a5a5cec39bc9f4e4cdb92f8cae66a0e]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ the local authority may invite an application (or, as the case may be, a further
 
 ## Annotations
 
-[^key-0a5a5cec39bc9f4e4cdb92f8cae66a0e]: Commencement: [S. 90](https://www.legislation.gov.uk/asp/2006/1/section/90) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-0a5a5cec39bc9f4e4cdb92f8cae66a0e]: Commencement: [S. 90](https://www.legislation.gov.uk/asp/2006/1/section/90) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

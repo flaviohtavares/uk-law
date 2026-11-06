@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Private Rights[^key-9ec1a0e889ecd9442f90e2353d08f859]
+## 22. Private Rights[^c-9ec1a0e889ecd9442f90e2353d08f859]
 
 *Extent: E+W+S*
 
-(1) Subject to the provisions of this article, all private rights and restrictions over land subject to compulsory acquisition under this Order[^key-d65af5d258680f8bc3a0f2f6ba2d6371] are extinguished—
+(1) Subject to the provisions of this article, all private rights and restrictions over land subject to compulsory acquisition under this Order[^c-d65af5d258680f8bc3a0f2f6ba2d6371] are extinguished—
 
 - (a) as from the date of acquisition of the land, or of the right, or of the benefit of the restriction by the undertaker, whether compulsorily, by agreement or through the grant of a lease of the land by agreement; or
 - (b) on the date of entry on the land by the undertaker under section 11(1) of the 1965 Act (power of entry),
@@ -64,6 +64,6 @@ the agreement is effective in respect of the persons so deriving title, whether 
 
 ## Annotations
 
-[^key-9ec1a0e889ecd9442f90e2353d08f859]: Commencement: Art. 22 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-9ec1a0e889ecd9442f90e2353d08f859]: Commencement: Art. 22 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
 
-[^key-d65af5d258680f8bc3a0f2f6ba2d6371]: Textual amendment: Words in art. 22(1) substituted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
+[^c-d65af5d258680f8bc3a0f2f6ba2d6371]: Textual amendment: Words in art. 22(1) substituted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 5A — Further circumstances in which a claimant with limited capability for work and work-related activity is a “pre-2026 claimant” for the purposes of regulation 28[^key-9c492dbbbbd195162ecda5fefe23aa6d]
+## SCHEDULE 5A — Further circumstances in which a claimant with limited capability for work and work-related activity is a “pre-2026 claimant” for the purposes of regulation 28[^c-9c492dbbbbd195162ecda5fefe23aa6d]
 
 *Extent: N.I.*
 
@@ -65,4 +65,4 @@ This paragraph applies where—
 
 ## Annotations
 
-[^key-9c492dbbbbd195162ecda5fefe23aa6d]: Textual amendment: [Sch. 5A](https://www.legislation.gov.uk/nisr/2016/216/schedule/5A) inserted (6.4.2026 with effect in relation to assessment periods commencing on or after that date) by [The Universal Credit and Employment and Support Allowance (Rates of Allowances) (Amendment and Modification) Regulations (Northern Ireland) 2026 (S.R. 2026/54)](https://www.legislation.gov.uk/nisr/2026/54), [regs. 1(4)](https://www.legislation.gov.uk/nisr/2026/54/regulation/1/3), [3(4)](https://www.legislation.gov.uk/nisr/2026/54/regulation/3/4)
+[^c-9c492dbbbbd195162ecda5fefe23aa6d]: Textual amendment: [Sch. 5A](https://www.legislation.gov.uk/nisr/2016/216/schedule/5A) inserted (6.4.2026 with effect in relation to assessment periods commencing on or after that date) by [The Universal Credit and Employment and Support Allowance (Rates of Allowances) (Amendment and Modification) Regulations (Northern Ireland) 2026 (S.R. 2026/54)](https://www.legislation.gov.uk/nisr/2026/54), [regs. 1(4)](https://www.legislation.gov.uk/nisr/2026/54/regulation/1/3), [3(4)](https://www.legislation.gov.uk/nisr/2026/54/regulation/3/4)

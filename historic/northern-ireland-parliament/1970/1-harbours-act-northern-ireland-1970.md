@@ -34,7 +34,7 @@ An Act to make further provision with respect to harbours.
 
 [^c16690691]WHEREAS the consent of the Board of Trade and of the Crown Estate Commissioners to this Act has been obtained so far as it is required by section 9(1) of the Northern Ireland (Miscellaneous Provisions) Act 1932 :
 
-And Whereas the Clerk of the Parliaments has certified accordingly pursuant to section 1 of the Legislative Procedure Act (Northern Ireland) 1933 [^c16690681]:[^key-06f0447e7cdefa9a60b2c2f5c6e95abf]
+And Whereas the Clerk of the Parliaments has certified accordingly pursuant to section 1 of the Legislative Procedure Act (Northern Ireland) 1933 [^c16690681]:[^c-06f0447e7cdefa9a60b2c2f5c6e95abf]
 
 ## PART I — HARBOUR DEVELOPMENT AND HARBOUR CHARGES
 
@@ -99,9 +99,9 @@ And Whereas the Clerk of the Parliaments has certified accordingly pursuant to s
 
 #### 4. Maximum amount of loans and grants under sections 2 and 3.
 
-The aggregate amount of loans and of grants together made under sections 2 and 3 by the Ministry shall not exceed £90 million[^key-d78c99080a6eec742362504b8b00824b].
+The aggregate amount of loans and of grants together made under sections 2 and 3 by the Ministry shall not exceed £90 million[^c-d78c99080a6eec742362504b8b00824b].
 
-#### 4A. Grants payable to certain harbour authorities in relation to expenses[^key-a0c0adf9688b2d0526b138b136988633]
+#### 4A. Grants payable to certain harbour authorities in relation to expenses[^c-a0c0adf9688b2d0526b138b136988633]
 
 (1) Subject to subsection (2), the Department of Agriculture and Rural Development, with the approval of the Department of Finance and Personnel, may give to a harbour authority in relation to which the Department of Agriculture and Rural Development exercises functions for the purposes of this Act financial assistance by way of grant in respect of any expenses chargeable against income, being expenses which are incurred by the authority during a period in respect of which, in the opinion of the Department of Agriculture and Rural Development, the authority was not in receipt of sufficient revenue to meet its expenses.
 
@@ -525,7 +525,7 @@ the amount shall be treated as a loss to the Exchequer, but this subsection shal
 
 *Subs.(3) rep. by SLR 1976*
 
-(4) The Ministry of Finance may issue out of the Consolidated Fund to the Ministry such sums as are necessary to enable the Ministry to make loans under section 2 or grants under section 3 and the Department of Agriculture and Rural Development to make grants under section 4A[^key-e6377a02e4c3eb00a8bf522fe34e16e1].
+(4) The Ministry of Finance may issue out of the Consolidated Fund to the Ministry such sums as are necessary to enable the Ministry to make loans under section 2 or grants under section 3 and the Department of Agriculture and Rural Development to make grants under section 4A[^c-e6377a02e4c3eb00a8bf522fe34e16e1].
 
 (5) For the purpose of providing sums to be issued under subsection (4), the Ministry of Finance may borrow money.
 
@@ -778,13 +778,13 @@ Section 26.
 
 [^c16690681]: Marginal citation: [1933 c. 4](https://www.legislation.gov.uk/ukpga/1933/4)
 
-[^key-06f0447e7cdefa9a60b2c2f5c6e95abf]: Modification: [Act](https://www.legislation.gov.uk/apni/1970/1) modified (1.12.2024 in so far as not already in force) by [Seafarers Wages Act 2023 (c. 8)](https://www.legislation.gov.uk/ukpga/2023/8), [ss. 9(7)](https://www.legislation.gov.uk/ukpga/2023/8/section/9/7), [20(3)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/3) (with [s. 1(2)](https://www.legislation.gov.uk/ukpga/2023/8/section/1/2)); [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
+[^c-06f0447e7cdefa9a60b2c2f5c6e95abf]: Modification: [Act](https://www.legislation.gov.uk/apni/1970/1) modified (1.12.2024 in so far as not already in force) by [Seafarers Wages Act 2023 (c. 8)](https://www.legislation.gov.uk/ukpga/2023/8), [ss. 9(7)](https://www.legislation.gov.uk/ukpga/2023/8/section/9/7), [20(3)](https://www.legislation.gov.uk/ukpga/2023/8/section/20/3) (with [s. 1(2)](https://www.legislation.gov.uk/ukpga/2023/8/section/1/2)); [S.I. 2024/1008](https://www.legislation.gov.uk/uksi/2024/1008), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1008/regulation/2)
 
 [^c11537431]: Textual amendment: [1976 NI 21](https://www.legislation.gov.uk/nisi/1976)
 
-[^key-d78c99080a6eec742362504b8b00824b]: Textual amendment: Words in s. 4 substituted (2.3.2021) by [Harbours (Grants and Loans Limit) Act (Northern Ireland) 2021 (c. 1)](https://www.legislation.gov.uk/nia/2021/1), [ss. 1(1)](https://www.legislation.gov.uk/nia/2021/1/section/1/1), [2](https://www.legislation.gov.uk/nia/2021/1/section/2)
+[^c-d78c99080a6eec742362504b8b00824b]: Textual amendment: Words in s. 4 substituted (2.3.2021) by [Harbours (Grants and Loans Limit) Act (Northern Ireland) 2021 (c. 1)](https://www.legislation.gov.uk/nia/2021/1), [ss. 1(1)](https://www.legislation.gov.uk/nia/2021/1/section/1/1), [2](https://www.legislation.gov.uk/nia/2021/1/section/2)
 
-[^key-a0c0adf9688b2d0526b138b136988633]: Textual amendment: [S. 4A](https://www.legislation.gov.uk/apni/1970/1/section/4A) inserted (29.4.2014) by [Financial Provisions Act (Northern Ireland) 2014 (c. 6)](https://www.legislation.gov.uk/nia/2014/6), [ss. 2(a)](https://www.legislation.gov.uk/nia/2014/6/section/2/a), [13(1)](https://www.legislation.gov.uk/nia/2014/6/section/13/1)
+[^c-a0c0adf9688b2d0526b138b136988633]: Textual amendment: [S. 4A](https://www.legislation.gov.uk/apni/1970/1/section/4A) inserted (29.4.2014) by [Financial Provisions Act (Northern Ireland) 2014 (c. 6)](https://www.legislation.gov.uk/nia/2014/6), [ss. 2(a)](https://www.legislation.gov.uk/nia/2014/6/section/2/a), [13(1)](https://www.legislation.gov.uk/nia/2014/6/section/13/1)
 
 [^m00001]: Marginal citation: 1847 c.27
 
@@ -828,7 +828,7 @@ Section 26.
 
 [^c11537771]: Textual amendment: [1991 NI 6](https://www.legislation.gov.uk/1991/ni6)
 
-[^key-e6377a02e4c3eb00a8bf522fe34e16e1]: Textual amendment: Words in s. 33 inserted (29.4.2014) by [Financial Provisions Act (Northern Ireland) 2014 (c. 6)](https://www.legislation.gov.uk/nia/2014/6), [ss. 2(b)](https://www.legislation.gov.uk/nia/2014/6/section/2/b), [13(1)](https://www.legislation.gov.uk/nia/2014/6/section/13/1)
+[^c-e6377a02e4c3eb00a8bf522fe34e16e1]: Textual amendment: Words in s. 33 inserted (29.4.2014) by [Financial Provisions Act (Northern Ireland) 2014 (c. 6)](https://www.legislation.gov.uk/nia/2014/6), [ss. 2(b)](https://www.legislation.gov.uk/nia/2014/6/section/2/b), [13(1)](https://www.legislation.gov.uk/nia/2014/6/section/13/1)
 
 [^c11537781]: Textual amendment: [1984 c. 12](https://www.legislation.gov.uk/ukpga/1984/12)
 

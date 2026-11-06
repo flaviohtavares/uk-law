@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Duty of landlords to publish administration charge schedules[^key-d906ce5d0924ea4d4a8a1da357c793df]
+## 61. Duty of landlords to publish administration charge schedules[^c-d906ce5d0924ea4d4a8a1da357c793df]
 
 *Extent: E+W*
 
@@ -95,4 +95,4 @@ In Schedule 11 to the CLRA 2002 (administration charges)—
 
 ## Annotations
 
-[^key-d906ce5d0924ea4d4a8a1da357c793df]: Commencement: S. 61 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-d906ce5d0924ea4d4a8a1da357c793df]: Commencement: S. 61 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Insertion of sections 2A to 2D[^key-75626347899947969da6445372490cbb]
+## 5. Insertion of sections 2A to 2D[^c-75626347899947969da6445372490cbb]
 
 *Extent: E+W+S+N.I.*
 
@@ -95,4 +95,4 @@ After section 2 insert—
 
 ## Annotations
 
-[^key-75626347899947969da6445372490cbb]: Commencement: Art. 5 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-75626347899947969da6445372490cbb]: Commencement: Art. 5 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)

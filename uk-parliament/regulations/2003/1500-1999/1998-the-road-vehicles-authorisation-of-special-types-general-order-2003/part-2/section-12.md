@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Length: police notification and attendants[^key-6c8b33bd6eed0dcad0f0ab9fe7f095e2]
+## 12. Length: police notification and attendants[^c-6c8b33bd6eed0dcad0f0ab9fe7f095e2]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c8b33bd6eed0dcad0f0ab9fe7f095e2]: Commencement: Art. 12 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-6c8b33bd6eed0dcad0f0ab9fe7f095e2]: Commencement: Art. 12 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

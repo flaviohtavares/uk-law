@@ -109,7 +109,7 @@ he shall be guilty of an offence and shall for each such offence be liable on su
 
 (3) If any person who is required under this Act to answer any question, refuses to answer, or wilfully gives a false answer, to that question, he shall be guilty of an offence and shall for each such offence be liable on summary conviction to a fine not exceeding level 3 on the standard scale:
 
-Provided that a person, being required to state his religious profession or any particulars with respect to sexual orientation or gender identity[^key-06bc103165790b3acc43eca8c7a49822] , shall not be subject to any penalty for refusing to do so.
+Provided that a person, being required to state his religious profession or any particulars with respect to sexual orientation or gender identity[^c-06bc103165790b3acc43eca8c7a49822] , shall not be subject to any penalty for refusing to do so.
 
 (4)[^c16954721] If—
 
@@ -177,7 +177,7 @@ Section 1.
 
 **7.** Religion.
 
-**7A.**[^key-ee1bd0633676728759985e5fe7204e24] Sexual orientation.
+**7A.**[^c-ee1bd0633676728759985e5fe7204e24] Sexual orientation.
 
 **7B.** Gender identity.
 
@@ -199,10 +199,10 @@ Section 1.
 
 [^c16954661]: Textual amendment: [1984 NI 3](https://www.legislation.gov.uk/nisi/1984)
 
-[^key-06bc103165790b3acc43eca8c7a49822]: Textual amendment: Words in [s. 7(3)](https://www.legislation.gov.uk/apni/1969/8/section/7/3) inserted (8.10.2019) by [Census (Return Particulars and Removal of Penalties) Act 2019 (c. 28)](https://www.legislation.gov.uk/ukpga/2019/28), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2019/28/section/2/3), [3(4)](https://www.legislation.gov.uk/ukpga/2019/28/section/3/4)
+[^c-06bc103165790b3acc43eca8c7a49822]: Textual amendment: Words in [s. 7(3)](https://www.legislation.gov.uk/apni/1969/8/section/7/3) inserted (8.10.2019) by [Census (Return Particulars and Removal of Penalties) Act 2019 (c. 28)](https://www.legislation.gov.uk/ukpga/2019/28), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2019/28/section/2/3), [3(4)](https://www.legislation.gov.uk/ukpga/2019/28/section/3/4)
 
 [^c16954721]: Textual amendment: [1991 NI 5](https://www.legislation.gov.uk/nisi/1991)
 
 [^c16954741]: Textual amendment: [2004 c.33](https://www.legislation.gov.uk/ukpga/2004/33)
 
-[^key-ee1bd0633676728759985e5fe7204e24]: Textual amendment: [Sch. paras. 7A](https://www.legislation.gov.uk/apni/1969/8/schedule/paragraph/7A), [7B](https://www.legislation.gov.uk/apni/1969/8/schedule/paragraph/7B) inserted (8.10.2019) by [Census (Return Particulars and Removal of Penalties) Act 2019 (c. 28)](https://www.legislation.gov.uk/ukpga/2019/28), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2019/28/section/2/2), [3(4)](https://www.legislation.gov.uk/ukpga/2019/28/section/3/4)
+[^c-ee1bd0633676728759985e5fe7204e24]: Textual amendment: [Sch. paras. 7A](https://www.legislation.gov.uk/apni/1969/8/schedule/paragraph/7A), [7B](https://www.legislation.gov.uk/apni/1969/8/schedule/paragraph/7B) inserted (8.10.2019) by [Census (Return Particulars and Removal of Penalties) Act 2019 (c. 28)](https://www.legislation.gov.uk/ukpga/2019/28), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2019/28/section/2/2), [3(4)](https://www.legislation.gov.uk/ukpga/2019/28/section/3/4)

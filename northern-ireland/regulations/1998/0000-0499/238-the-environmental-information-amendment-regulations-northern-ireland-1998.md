@@ -32,7 +32,7 @@ EUROPEAN COMMUNITIES
 
 ENVIRONMENTAL PROTECTION
 
-The Environmental Information (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^key-920dca92a8dde1a57df62cfc701c9667]
+The Environmental Information (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^c-920dca92a8dde1a57df62cfc701c9667]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into operation
 
 31st July 1998
 
-[^key-920dca92a8dde1a57df62cfc701c9667]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-920dca92a8dde1a57df62cfc701c9667]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-920dca92a8dde1a57df62cfc701c9667]
+## 1. Citation, commencement and interpretation[^c-920dca92a8dde1a57df62cfc701c9667]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Environmental Information Regulations (Northern Ireland) 1993[^key-920dca92a8dde1a57df62cfc701c9667]
+## 2. Amendment of the Environmental Information Regulations (Northern Ireland) 1993[^c-920dca92a8dde1a57df62cfc701c9667]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-920dca92a8dde1a57df62cfc701c9667]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-920dca92a8dde1a57df62cfc701c9667]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-920dca92a8dde1a57df62cfc701c9667]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-920dca92a8dde1a57df62cfc701c9667]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-920dca92a8dde1a57df62cfc701c9667]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/238) revoked (1.1.2005) by [The Environmental Information Regulations 2004 (S.I. 2004/3391)](https://www.legislation.gov.uk/uksi/2004/3391), [reg. 21(b)](https://www.legislation.gov.uk/uksi/2004/3391/regulation/21/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2004/3391/regulation/3))
+[^c-920dca92a8dde1a57df62cfc701c9667]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/238) revoked (1.1.2005) by [The Environmental Information Regulations 2004 (S.I. 2004/3391)](https://www.legislation.gov.uk/uksi/2004/3391), [reg. 21(b)](https://www.legislation.gov.uk/uksi/2004/3391/regulation/21/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2004/3391/regulation/3))

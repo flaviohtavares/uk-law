@@ -24,10 +24,10 @@ summary: ''
 
 (2) But this section applies to an annuity which arises from a source outside the United Kingdom only if it is paid to a person resident in the United Kingdom.
 
-(3) This section does not apply to an annuity to which Chapter 5A[^key-3b22f2eca240ba8f6b43538d6baee353] of this Part applies.
+(3) This section does not apply to an annuity to which Chapter 5A[^c-3b22f2eca240ba8f6b43538d6baee353] of this Part applies.
 
 (4) For the purposes of this section “**office**” includes in particular any position which has an existence independent of the person who holds it and may be filled by successive holders.
 
 ## Annotations
 
-[^key-3b22f2eca240ba8f6b43538d6baee353]: Textual amendment: Words in s. 611(3) substituted (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1), [Sch. 31 para. 9](https://www.legislation.gov.uk/ukpga/2004/12/schedule/31/paragraph/9) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-3b22f2eca240ba8f6b43538d6baee353]: Textual amendment: Words in s. 611(3) substituted (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1), [Sch. 31 para. 9](https://www.legislation.gov.uk/ukpga/2004/12/schedule/31/paragraph/9) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))

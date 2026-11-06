@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 214. Building Societies (Deferred Shares) Order 1991[^key-cbce7de1d11421e535bbb32cc927af02]
+## 214. Building Societies (Deferred Shares) Order 1991[^c-cbce7de1d11421e535bbb32cc927af02]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ The Building Societies (Deferred Shares) Order 1991 ([S.I. 1991/701](https://www
 
 ## Annotations
 
-[^key-cbce7de1d11421e535bbb32cc927af02]: Commencement: Art. 214 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-cbce7de1d11421e535bbb32cc927af02]: Commencement: Art. 214 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

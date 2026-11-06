@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Statement of proposed administrator[^key-4856cde6b982d0d21d94911b2682117f]
+## 7. Statement of proposed administrator[^c-4856cde6b982d0d21d94911b2682117f]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ An application for a special administration order must be accompanied by a state
 
 ## Annotations
 
-[^key-4856cde6b982d0d21d94911b2682117f]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2011/1301/rule/7) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-4856cde6b982d0d21d94911b2682117f]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2011/1301/rule/7) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

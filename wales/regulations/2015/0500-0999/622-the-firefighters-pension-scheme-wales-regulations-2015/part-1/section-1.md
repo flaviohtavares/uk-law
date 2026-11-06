@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Title and commencement[^key-382a9080c2ef66eee41f92ed593505e6]
+## 1. Title and commencement[^c-382a9080c2ef66eee41f92ed593505e6]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-382a9080c2ef66eee41f92ed593505e6]: Commencement: Reg. 1 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-382a9080c2ef66eee41f92ed593505e6]: Commencement: Reg. 1 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

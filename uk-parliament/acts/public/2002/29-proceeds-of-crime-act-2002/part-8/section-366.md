@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 366. Offences[^key-350bb193557ac0341dae2e966f406f6b][^key-5338b5c3e745919759adc47fcedfe019][^key-b58e036e3d827f92197753939e69810d][^key-707e8de1ad589c39bce5c721c9b5aad4][^key-3d5d5356de59fcab7f54006fd94056a5]
+## 366. Offences[^c-350bb193557ac0341dae2e966f406f6b][^c-5338b5c3e745919759adc47fcedfe019][^c-b58e036e3d827f92197753939e69810d][^c-707e8de1ad589c39bce5c721c9b5aad4][^c-3d5d5356de59fcab7f54006fd94056a5]
 
 *Extent: E+W+N.I.*
 
@@ -36,12 +36,12 @@ summary: ''
 
 ## Annotations
 
-[^key-350bb193557ac0341dae2e966f406f6b]: Commencement: S. 366 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
+[^c-350bb193557ac0341dae2e966f406f6b]: Commencement: S. 366 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
 
-[^key-5338b5c3e745919759adc47fcedfe019]: Modification: S. 366 applied (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [20(2)](https://www.legislation.gov.uk/uksi/2003/425/article/20/2)
+[^c-5338b5c3e745919759adc47fcedfe019]: Modification: S. 366 applied (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [20(2)](https://www.legislation.gov.uk/uksi/2003/425/article/20/2)
 
-[^key-b58e036e3d827f92197753939e69810d]: Modification: S. 366 applied (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [29(1)](https://www.legislation.gov.uk/uksi/2003/425/article/29/1), [(2)](https://www.legislation.gov.uk/uksi/2003/425/article/29/2)
+[^c-b58e036e3d827f92197753939e69810d]: Modification: S. 366 applied (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [29(1)](https://www.legislation.gov.uk/uksi/2003/425/article/29/1), [(2)](https://www.legislation.gov.uk/uksi/2003/425/article/29/2)
 
-[^key-707e8de1ad589c39bce5c721c9b5aad4]: Modification: S. 366 applied (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [10(2)](https://www.legislation.gov.uk/uksi/2003/425/article/10/2), 20(2), 29(1)(2), 30(1)(2)
+[^c-707e8de1ad589c39bce5c721c9b5aad4]: Modification: S. 366 applied (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [10(2)](https://www.legislation.gov.uk/uksi/2003/425/article/10/2), 20(2), 29(1)(2), 30(1)(2)
 
-[^key-3d5d5356de59fcab7f54006fd94056a5]: Modification: S. 366 applied (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [30(1)](https://www.legislation.gov.uk/uksi/2003/425/article/30/1), [(2)](https://www.legislation.gov.uk/uksi/2003/425/article/30/2)
+[^c-3d5d5356de59fcab7f54006fd94056a5]: Modification: S. 366 applied (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [30(1)](https://www.legislation.gov.uk/uksi/2003/425/article/30/1), [(2)](https://www.legislation.gov.uk/uksi/2003/425/article/30/2)

@@ -43,7 +43,7 @@ In this Schedule penalties by virtue of which sub-paragraph (2) applies in relat
 
 (4) Penalties are within this paragraph if they are incurred under any of the following—
 
-- (a)[^key-3dd253277606ecc0d434eff1be030bd3] section 315 or 315A of FA 2004 (disclosure of tax avoidance schemes);
+- (a)[^c-3dd253277606ecc0d434eff1be030bd3] section 315 or 315A of FA 2004 (disclosure of tax avoidance schemes);
 - (b) Part 5 of FA 2014 (promoters of tax avoidance schemes) (other than the provision mentioned in sub-paragraph (3)(a)), and Schedule 36 to FA 2008 (information and inspection powers) as it has effect in relation to that Part (see section of 272A of FA 2014);
 - (c) Schedule 36 to FA 2008 as it has effect in relation to Schedule 16 to F(No.2)A 2017 (see Part 9 of Schedule 16 to F(No.2)A 2017);
 - (d) Schedule 17 to F(No.2)A 2017 (disclosure of tax avoidance schemes: VAT and other indirect taxes).
@@ -175,4 +175,4 @@ A is liable to a further penalty under paragraph 1(2) only where the original pe
 
 ## Annotations
 
-[^key-3dd253277606ecc0d434eff1be030bd3]: Textual amendment: [Sch. 13 para. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/13/paragraph/1/4/a) substituted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 218(4)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/218/4/b) (with [s. 219](https://www.legislation.gov.uk/ukpga/2026/11/section/219))
+[^c-3dd253277606ecc0d434eff1be030bd3]: Textual amendment: [Sch. 13 para. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/13/paragraph/1/4/a) substituted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 218(4)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/218/4/b) (with [s. 219](https://www.legislation.gov.uk/ukpga/2026/11/section/219))

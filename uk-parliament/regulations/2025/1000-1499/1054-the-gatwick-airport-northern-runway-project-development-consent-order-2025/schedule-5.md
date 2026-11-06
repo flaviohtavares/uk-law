@@ -22,7 +22,7 @@ summary: ''
 
 Article 17
 
-### PART 1 — NEW AND REALIGNED CLASSIFIED TRUNK ROADS[^key-981b45b65a0c65b5d86890ef763b99ce]
+### PART 1 — NEW AND REALIGNED CLASSIFIED TRUNK ROADS[^c-981b45b65a0c65b5d86890ef763b99ce]
 
 <table>
 <thead>
@@ -51,7 +51,7 @@ Article 17
 </tbody>
 </table>
 
-### PART 2 — NEW AND REALIGNED CLASSIFIED NON-TRUNK ROADS[^key-80435e75b6bda7e27a8224cc9a2c691b]
+### PART 2 — NEW AND REALIGNED CLASSIFIED NON-TRUNK ROADS[^c-80435e75b6bda7e27a8224cc9a2c691b]
 
 <table>
 <thead>
@@ -74,7 +74,7 @@ Article 17
 </tbody>
 </table>
 
-### PART 3 — NEW AND REALIGNED UNCLASSIFIED ROADS[^key-68647becc00d58669fd2917eecfb7504]
+### PART 3 — NEW AND REALIGNED UNCLASSIFIED ROADS[^c-68647becc00d58669fd2917eecfb7504]
 
 <table>
 <thead>
@@ -95,7 +95,7 @@ Article 17
 </tbody>
 </table>
 
-### PART 4 — ROADS TO BE DE-TRUNKED[^key-4cf493c72c5b5060c0617d7282028c7f]
+### PART 4 — ROADS TO BE DE-TRUNKED[^c-4cf493c72c5b5060c0617d7282028c7f]
 
 <table>
 <thead>
@@ -109,10 +109,10 @@ Article 17
 
 ## Annotations
 
-[^key-981b45b65a0c65b5d86890ef763b99ce]: Commencement: Sch. 5 Pt. 1 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-981b45b65a0c65b5d86890ef763b99ce]: Commencement: Sch. 5 Pt. 1 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
 
-[^key-80435e75b6bda7e27a8224cc9a2c691b]: Commencement: Sch. 5 Pt. 2 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-80435e75b6bda7e27a8224cc9a2c691b]: Commencement: Sch. 5 Pt. 2 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
 
-[^key-68647becc00d58669fd2917eecfb7504]: Commencement: Sch. 5 Pt. 3 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-68647becc00d58669fd2917eecfb7504]: Commencement: Sch. 5 Pt. 3 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
 
-[^key-4cf493c72c5b5060c0617d7282028c7f]: Commencement: Sch. 5 Pt. 4 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-4cf493c72c5b5060c0617d7282028c7f]: Commencement: Sch. 5 Pt. 4 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)

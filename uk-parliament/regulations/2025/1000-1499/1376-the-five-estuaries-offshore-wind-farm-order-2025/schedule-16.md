@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 16 — Offshore co-ordinates[^key-99c713ed53e4de62f5b971b0599ce67f]
+## SCHEDULE 16 — Offshore co-ordinates[^c-99c713ed53e4de62f5b971b0599ce67f]
 
 *Extent: E+W*
 
@@ -1856,10 +1856,10 @@ Article 2, Schedules 1 and 2
 </tbody>
 </table>
 
-[^key-eeb35dc8dbb3a9b8198e827c2e4c64c2]
+[^c-eeb35dc8dbb3a9b8198e827c2e4c64c2]
 
 ## Annotations
 
-[^key-99c713ed53e4de62f5b971b0599ce67f]: Commencement: Sch. 16 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-99c713ed53e4de62f5b971b0599ce67f]: Commencement: Sch. 16 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-eeb35dc8dbb3a9b8198e827c2e4c64c2]: Textual amendment: Sch. 16 substituted (6.10.2026) by [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)
+[^c-eeb35dc8dbb3a9b8198e827c2e4c64c2]: Textual amendment: Sch. 16 substituted (6.10.2026) by [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)

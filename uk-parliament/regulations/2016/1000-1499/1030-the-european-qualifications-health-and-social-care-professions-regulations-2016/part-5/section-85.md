@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Amendment of rule 21[^key-a3e7e07c1061b3f749c84c395ce684c0]
+## 85. Amendment of rule 21[^c-a3e7e07c1061b3f749c84c395ce684c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a3e7e07c1061b3f749c84c395ce684c0]: Commencement: Reg. 85 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-a3e7e07c1061b3f749c84c395ce684c0]: Commencement: Reg. 85 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00066]: Footnote: Rule 21 was amended by [S.I. 2015/1923](https://www.legislation.gov.uk/uksi/2015/1923).

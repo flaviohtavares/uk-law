@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## Schedule 5A — Higher Education Classification of Subjects Course Codes and Labels[^key-a7ddd0c5b854ca94c324e961ad0ce4a2]
+## Schedule 5A — Higher Education Classification of Subjects Course Codes and Labels[^c-a7ddd0c5b854ca94c324e961ad0ce4a2]
 
 *Extent: E+W*
 
 (Regulation 25(2))
 
-Table 15A sets out the Higher Education Classification of Subjects (HECoS) course codes and labels for the purposes of sub-paragraph (b) of Case 3 in regulation 25(2)[^key-5a865966da06b64cd5d9a9b7b4eb4a79] “The Higher Education Classification of Subjects” has the meaning given in paragraph (3) of regulation 25.[^key-487568a39872e14488e900a650da4827] .
+Table 15A sets out the Higher Education Classification of Subjects (HECoS) course codes and labels for the purposes of sub-paragraph (b) of Case 3 in regulation 25(2)[^c-5a865966da06b64cd5d9a9b7b4eb4a79] “The Higher Education Classification of Subjects” has the meaning given in paragraph (3) of regulation 25.[^c-487568a39872e14488e900a650da4827] .
 
-Table 15A[^key-204f9aaaa1d9577e01b7345ce4db1da9]
+Table 15A[^c-204f9aaaa1d9577e01b7345ce4db1da9]
 
 | HECoS code | HECoS label |
 | --- | --- |
@@ -79,10 +79,10 @@ Table 15A[^key-204f9aaaa1d9577e01b7345ce4db1da9]
 
 ## Annotations
 
-[^key-a7ddd0c5b854ca94c324e961ad0ce4a2]: Textual amendment: [Sch. 5A](https://www.legislation.gov.uk/wsi/2018/191/schedule/5A) inserted (with application in accordance with reg. 1(3)(b) of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/235)](https://www.legislation.gov.uk/uksi/2019/235), [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2019/235/regulation/1/3/a), [Sch. 2](https://www.legislation.gov.uk/uksi/2019/235/schedule/2)
+[^c-a7ddd0c5b854ca94c324e961ad0ce4a2]: Textual amendment: [Sch. 5A](https://www.legislation.gov.uk/wsi/2018/191/schedule/5A) inserted (with application in accordance with reg. 1(3)(b) of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/235)](https://www.legislation.gov.uk/uksi/2019/235), [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2019/235/regulation/1/3/a), [Sch. 2](https://www.legislation.gov.uk/uksi/2019/235/schedule/2)
 
-[^key-5a865966da06b64cd5d9a9b7b4eb4a79]: Textual amendment: Words in [Sch. 5A](https://www.legislation.gov.uk/wsi/2018/191/schedule/5A) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Education (Student Support) (Miscellaneous Amendments) (Wales) Regulations 2021 (S.I. 2021/73)](https://www.legislation.gov.uk/uksi/2021/73), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/73/regulation/1/2), [46(a)](https://www.legislation.gov.uk/uksi/2021/73/regulation/46/a)
+[^c-5a865966da06b64cd5d9a9b7b4eb4a79]: Textual amendment: Words in [Sch. 5A](https://www.legislation.gov.uk/wsi/2018/191/schedule/5A) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Education (Student Support) (Miscellaneous Amendments) (Wales) Regulations 2021 (S.I. 2021/73)](https://www.legislation.gov.uk/uksi/2021/73), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/73/regulation/1/2), [46(a)](https://www.legislation.gov.uk/uksi/2021/73/regulation/46/a)
 
-[^key-487568a39872e14488e900a650da4827]: Textual amendment: Words in [Sch. 5A](https://www.legislation.gov.uk/wsi/2018/191/schedule/5A) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Education (Student Support) (Miscellaneous Amendments) (Wales) Regulations 2021 (S.I. 2021/73)](https://www.legislation.gov.uk/uksi/2021/73), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/73/regulation/1/2), [46(b)](https://www.legislation.gov.uk/uksi/2021/73/regulation/46/b)
+[^c-487568a39872e14488e900a650da4827]: Textual amendment: Words in [Sch. 5A](https://www.legislation.gov.uk/wsi/2018/191/schedule/5A) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Education (Student Support) (Miscellaneous Amendments) (Wales) Regulations 2021 (S.I. 2021/73)](https://www.legislation.gov.uk/uksi/2021/73), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/73/regulation/1/2), [46(b)](https://www.legislation.gov.uk/uksi/2021/73/regulation/46/b)
 
-[^key-204f9aaaa1d9577e01b7345ce4db1da9]: Textual amendment: [Sch. 5A](https://www.legislation.gov.uk/wsi/2018/191/schedule/5A) Table 15A substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Education (Student Support) (Miscellaneous Amendments) (Wales) Regulations 2021 (S.I. 2021/73)](https://www.legislation.gov.uk/uksi/2021/73), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/73/regulation/1/2), [46(c)](https://www.legislation.gov.uk/uksi/2021/73/regulation/46/c)
+[^c-204f9aaaa1d9577e01b7345ce4db1da9]: Textual amendment: [Sch. 5A](https://www.legislation.gov.uk/wsi/2018/191/schedule/5A) Table 15A substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Education (Student Support) (Miscellaneous Amendments) (Wales) Regulations 2021 (S.I. 2021/73)](https://www.legislation.gov.uk/uksi/2021/73), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/73/regulation/1/2), [46(c)](https://www.legislation.gov.uk/uksi/2021/73/regulation/46/c)

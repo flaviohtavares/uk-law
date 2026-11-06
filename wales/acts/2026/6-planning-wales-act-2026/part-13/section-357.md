@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 357. No withdrawal of notice to treat deemed to have been served under this Part[^key-fada233a8356eff16fee3397a5333e8a]
+## 357. No withdrawal of notice to treat deemed to have been served under this Part[^c-fada233a8356eff16fee3397a5333e8a]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Where a notice to treat is treated as having been served by virtue of section 33
 
 ## Annotations
 
-[^key-fada233a8356eff16fee3397a5333e8a]: Commencement: S. 357 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-fada233a8356eff16fee3397a5333e8a]: Commencement: S. 357 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

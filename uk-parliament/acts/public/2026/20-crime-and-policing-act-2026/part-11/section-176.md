@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176. Section 173: confidential information[^key-d4757a3b99ff9d35eac271f4b40d61bd]
+## 176. Section 173: confidential information[^c-d4757a3b99ff9d35eac271f4b40d61bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,10 +59,10 @@ summary: ''
   - (ii) excluded material within the meaning of that Order (see Article 13 of that Order);
   - (iii) special procedure material within the meaning of that Order (see Article 16 of that Order).
 
-(7)[^key-4e5d26f61f76a477eceeb033b77b27c2] The Secretary of State may by regulations provide for circumstances in which the duty in subsection (2) does not apply in relation to protected material of the kind mentioned in subsection (6)(a)(ii) and (iii), (b)(ii), and (c)(ii) and (iii).
+(7)[^c-4e5d26f61f76a477eceeb033b77b27c2] The Secretary of State may by regulations provide for circumstances in which the duty in subsection (2) does not apply in relation to protected material of the kind mentioned in subsection (6)(a)(ii) and (iii), (b)(ii), and (c)(ii) and (iii).
 
 ## Annotations
 
-[^key-d4757a3b99ff9d35eac271f4b40d61bd]: Commencement: S. 176 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-d4757a3b99ff9d35eac271f4b40d61bd]: Commencement: S. 176 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-4e5d26f61f76a477eceeb033b77b27c2]: Commencement: [S. 176(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/176/7) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(t)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/t)
+[^c-4e5d26f61f76a477eceeb033b77b27c2]: Commencement: [S. 176(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/176/7) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(t)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/t)

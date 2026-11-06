@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Circumstances in which a person is to be treated as being or not being a member of the household[^key-1050199bae003590d6fc1345fca7a672]
+## 8. Circumstances in which a person is to be treated as being or not being a member of the household[^c-1050199bae003590d6fc1345fca7a672]
 
 *Extent: N.I.*
 
@@ -50,7 +50,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1050199bae003590d6fc1345fca7a672]: Commencement: Reg. 8 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-1050199bae003590d6fc1345fca7a672]: Commencement: Reg. 8 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
 
 [^f00023]: Footnote: [S.R. 1989 No. 253](https://www.legislation.gov.uk/nisr/1989/253); to which there are no relevant amendments
 

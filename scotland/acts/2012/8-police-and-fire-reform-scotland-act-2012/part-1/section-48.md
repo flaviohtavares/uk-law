@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Governance and administration of police[^key-524a1c97156089a47d3790629502dbc7]
+## 48. Governance and administration of police[^c-524a1c97156089a47d3790629502dbc7]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Scottish Ministers must make regulations as to the governance, administratio
 
 ## Annotations
 
-[^key-524a1c97156089a47d3790629502dbc7]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2012/8/section/48) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+[^c-524a1c97156089a47d3790629502dbc7]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2012/8/section/48) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)

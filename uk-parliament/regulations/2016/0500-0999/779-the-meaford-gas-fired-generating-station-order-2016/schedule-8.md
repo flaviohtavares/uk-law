@@ -22,7 +22,7 @@ summary: ''
 
 Article 35
 
-### 1. Applications made under requirements[^key-c4949840d60e92e9f741cc5a5d35ba62]
+### 1. Applications made under requirements[^c-c4949840d60e92e9f741cc5a5d35ba62]
 
 (1) Where an application has been made to the relevant authority for any consent, agreement or approval required by a requirement (including agreement or approval in respect of part of a requirement) included in this Order the relevant authority must give notice to the undertaker of their decision on the application within a period of eight weeks beginning with—
 
@@ -32,7 +32,7 @@ Article 35
 
 (2) In the event that the relevant authority does not determine an application within the period set out in sub-paragraph (1), the relevant authority is to be taken to have granted all parts of the application (without any condition or qualification) at the end of that period.
 
-### 2. Further information[^key-cca7a93425c79473f71ebc2def7410c3]
+### 2. Further information[^c-cca7a93425c79473f71ebc2def7410c3]
 
 (1) In relation to any part of the application to which this Schedule applies, the relevant authority has the right to request such further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -40,7 +40,7 @@ Article 35
 
 (3) Where further information is requested under this paragraph 2 in relation to part only of an application, that part is to be treated as separate from the remainder of the application for the purposes of calculating time periods in paragraph 1(1)(b) and this paragraph 2.
 
-### 3. Appeals[^key-d284400809c3c50dfb286f7cb8a06d1b]
+### 3. Appeals[^c-d284400809c3c50dfb286f7cb8a06d1b]
 
 (1) The undertaker may appeal in the event that—
 
@@ -81,7 +81,7 @@ and may deal with the application as if it had been made to him in the first ins
 
 (11) On application by the relevant authority or the undertaker, the appointed person may give directions as to the costs of the appeal parties and as to the parties by whom the costs of the appeal are to be paid. In considering whether to make any such direction and the terms on which it is to be made, the appointed person must have regard to Planning Practice Guidance: Appeals (March 2014) or any guidance which may from time to time replace it.
 
-### 4.[^key-b8acfefdc67ee1b2db33fc1017824840]
+### 4.[^c-b8acfefdc67ee1b2db33fc1017824840]
 
 In this Schedule—
 
@@ -90,10 +90,10 @@ In this Schedule—
 
 ## Annotations
 
-[^key-c4949840d60e92e9f741cc5a5d35ba62]: Commencement: Sch. 8 para. 1 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/779/article/1)
+[^c-c4949840d60e92e9f741cc5a5d35ba62]: Commencement: Sch. 8 para. 1 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/779/article/1)
 
-[^key-cca7a93425c79473f71ebc2def7410c3]: Commencement: Sch. 8 para. 2 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/779/article/1)
+[^c-cca7a93425c79473f71ebc2def7410c3]: Commencement: Sch. 8 para. 2 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/779/article/1)
 
-[^key-d284400809c3c50dfb286f7cb8a06d1b]: Commencement: Sch. 8 para. 3 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/779/article/1)
+[^c-d284400809c3c50dfb286f7cb8a06d1b]: Commencement: Sch. 8 para. 3 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/779/article/1)
 
-[^key-b8acfefdc67ee1b2db33fc1017824840]: Commencement: Sch. 8 para. 4 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/779/article/1)
+[^c-b8acfefdc67ee1b2db33fc1017824840]: Commencement: Sch. 8 para. 4 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/779/article/1)

@@ -31,7 +31,7 @@ summary: ''
 
 Local Government
 
-Local Government (Accounts and Audit) (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^key-d15ba79805e3c39990d361053690ea36]
+Local Government (Accounts and Audit) (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^c-d15ba79805e3c39990d361053690ea36]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 1st April 2007
 
-[^key-d15ba79805e3c39990d361053690ea36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d15ba79805e3c39990d361053690ea36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d15ba79805e3c39990d361053690ea36]
+## 1. Citation and commencement[^c-d15ba79805e3c39990d361053690ea36]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Local Government (Accounts and Audit) Regulations (Northern Ireland) 2006[^key-d15ba79805e3c39990d361053690ea36]
+## 2. Amendment to the Local Government (Accounts and Audit) Regulations (Northern Ireland) 2006[^c-d15ba79805e3c39990d361053690ea36]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d15ba79805e3c39990d361053690ea36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d15ba79805e3c39990d361053690ea36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d15ba79805e3c39990d361053690ea36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d15ba79805e3c39990d361053690ea36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d15ba79805e3c39990d361053690ea36]: Textual amendment: Regulations revoked (1.4.2015) by [The Local Government (Accounts and Audit) Regulations (Northern Ireland) 2015 (S.R. 2015/106)](https://www.legislation.gov.uk/nisr/2015/106), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/106/regulation/1/1), [3(1)(b)](https://www.legislation.gov.uk/nisr/2015/106/regulation/3/1/b) (with [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/106/regulation/1/2), [3(2)](https://www.legislation.gov.uk/nisr/2015/106/regulation/3/2))
+[^c-d15ba79805e3c39990d361053690ea36]: Textual amendment: Regulations revoked (1.4.2015) by [The Local Government (Accounts and Audit) Regulations (Northern Ireland) 2015 (S.R. 2015/106)](https://www.legislation.gov.uk/nisr/2015/106), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/106/regulation/1/1), [3(1)(b)](https://www.legislation.gov.uk/nisr/2015/106/regulation/3/1/b) (with [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/106/regulation/1/2), [3(2)](https://www.legislation.gov.uk/nisr/2015/106/regulation/3/2))

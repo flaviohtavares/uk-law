@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18A. Risk assessment by relevant persons in relation to proliferation financing[^key-78012d7748c934d1778fbfdfaad0f68b]
+## 18A. Risk assessment by relevant persons in relation to proliferation financing[^c-78012d7748c934d1778fbfdfaad0f68b]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78012d7748c934d1778fbfdfaad0f68b]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/uksi/2017/692/regulation/18A) inserted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [6(3)](https://www.legislation.gov.uk/uksi/2022/860/regulation/6/3)
+[^c-78012d7748c934d1778fbfdfaad0f68b]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/uksi/2017/692/regulation/18A) inserted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [6(3)](https://www.legislation.gov.uk/uksi/2022/860/regulation/6/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. The apprenticeship offer[^key-2a983ac0485ee3599f2a5d8d4cc584ce]
+## 69. The apprenticeship offer[^c-2a983ac0485ee3599f2a5d8d4cc584ce]
 
 *Extent: E+W*
 
@@ -92,4 +92,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a983ac0485ee3599f2a5d8d4cc584ce]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2011/21/section/69) in force at 1.9.2012 by [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3)
+[^c-2a983ac0485ee3599f2a5d8d4cc584ce]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2011/21/section/69) in force at 1.9.2012 by [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3)

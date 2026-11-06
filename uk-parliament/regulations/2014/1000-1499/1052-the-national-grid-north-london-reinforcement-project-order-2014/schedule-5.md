@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 5 — STREETS TO BE PERMANENTLY STOPPED UP[^key-0360cb9c2f3a8d81d037fc68eb103ca4]
+## SCHEDULE 5 — STREETS TO BE PERMANENTLY STOPPED UP[^c-0360cb9c2f3a8d81d037fc68eb103ca4]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ Article 12
 
 ## Annotations
 
-[^key-0360cb9c2f3a8d81d037fc68eb103ca4]: Commencement: Sch. 5 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)
+[^c-0360cb9c2f3a8d81d037fc68eb103ca4]: Commencement: Sch. 5 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)

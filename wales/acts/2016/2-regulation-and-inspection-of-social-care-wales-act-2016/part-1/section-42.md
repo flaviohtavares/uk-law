@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Annual report on regulatory functions[^key-20be97351ff7e93badcb041716f0445a]
+## 42. Annual report on regulatory functions[^c-20be97351ff7e93badcb041716f0445a]
 
 *Extent: E+W*
 
@@ -39,10 +39,10 @@ summary: ''
 - (c) section 7(1) of the 2014 Act (duty to have due regard to the United Nations Principles for Older Persons when exercising functions relating to adult social services), and
 - (d) Part 4 of the Welsh Language (Wales) Measure 2011 (nawm 1) (standards).
 
-(5) The Welsh Ministers must lay a copy of a published annual report before Senedd Cymru[^key-226e48d27dc0166024d55cbcf11f6bf1].
+(5) The Welsh Ministers must lay a copy of a published annual report before Senedd Cymru[^c-226e48d27dc0166024d55cbcf11f6bf1].
 
 ## Annotations
 
-[^key-20be97351ff7e93badcb041716f0445a]: Commencement: S. 42 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(e)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/e)
+[^c-20be97351ff7e93badcb041716f0445a]: Commencement: S. 42 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(e)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/e)
 
-[^key-226e48d27dc0166024d55cbcf11f6bf1]: Textual amendment: Words in [s. 42(5)](https://www.legislation.gov.uk/anaw/2016/2/section/42/5) substituted (25.3.2025) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(1)(a)(ii)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a/ii), [Sch. 1 para. 7(15)(d)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/7/15/d)
+[^c-226e48d27dc0166024d55cbcf11f6bf1]: Textual amendment: Words in [s. 42(5)](https://www.legislation.gov.uk/anaw/2016/2/section/42/5) substituted (25.3.2025) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(1)(a)(ii)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a/ii), [Sch. 1 para. 7(15)(d)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/7/15/d)

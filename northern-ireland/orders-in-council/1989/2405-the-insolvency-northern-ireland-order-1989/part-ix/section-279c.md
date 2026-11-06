@@ -22,11 +22,11 @@ summary: ''
 
 (1) This Article applies where—
 
-- (a) property is excluded from the bankrupt’s estate by virtue of section 423(2)(a), (b), (c) or (d) of the Proceeds of Crime Act 2002 (property excluded from the bankrupt's estate[^key-93321f02f37cc867abea532d72db30f9]),
+- (a) property is excluded from the bankrupt’s estate by virtue of section 423(2)(a), (b), (c) or (d) of the Proceeds of Crime Act 2002 (property excluded from the bankrupt's estate[^c-93321f02f37cc867abea532d72db30f9]),
 - (b) a confiscation order is made under section 6, 92 or 156 of that Act, and
 - (c) the confiscation order is discharged under section 30, 114 or 180 of that Act (as the case may be) or quashed under that Act or in pursuance of any enactment relating to appeals against conviction or sentence.
 
-(2)[^key-34b394634b64a64660c2b0d237e7f883] Any such property vests in the trustee as part of the bankrupt's estate if it is in the hands of—
+(2)[^c-34b394634b64a64660c2b0d237e7f883] Any such property vests in the trustee as part of the bankrupt's estate if it is in the hands of—
 
 - (a) a receiver appointed under Part 2 or 4 of that Act,
 - (b) an administrator appointed under Part 3 of that Act,
@@ -38,6 +38,6 @@ summary: ''
 
 [^c20234791]: Textual amendment: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29)
 
-[^key-93321f02f37cc867abea532d72db30f9]: Textual amendment: Words in [art. 279C(1)(a)](https://www.legislation.gov.uk/nisi/1989/2405/article/279C/1/a) substituted (1.6.2015) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1), [Sch. 7 para. 64(2)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/7/paragraph/64/2); [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [arts. 2(2)(e)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/e), [3(m)](https://www.legislation.gov.uk/uksi/2015/983/article/3/m)
+[^c-93321f02f37cc867abea532d72db30f9]: Textual amendment: Words in [art. 279C(1)(a)](https://www.legislation.gov.uk/nisi/1989/2405/article/279C/1/a) substituted (1.6.2015) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1), [Sch. 7 para. 64(2)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/7/paragraph/64/2); [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [arts. 2(2)(e)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/e), [3(m)](https://www.legislation.gov.uk/uksi/2015/983/article/3/m)
 
-[^key-34b394634b64a64660c2b0d237e7f883]: Textual amendment: [Art. 279C(2)](https://www.legislation.gov.uk/nisi/1989/2405/article/279C/2) substituted (1.6.2015 for specified purposes, 1.3.2016 in so far as not already in force) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1), [Sch. 7 para. 64(3)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/7/paragraph/64/3); [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [arts. 2(2)(e)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/e), [3(m)](https://www.legislation.gov.uk/uksi/2015/983/article/3/m); [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(i)](https://www.legislation.gov.uk/uksi/2016/147/article/3/i)
+[^c-34b394634b64a64660c2b0d237e7f883]: Textual amendment: [Art. 279C(2)](https://www.legislation.gov.uk/nisi/1989/2405/article/279C/2) substituted (1.6.2015 for specified purposes, 1.3.2016 in so far as not already in force) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1), [Sch. 7 para. 64(3)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/7/paragraph/64/3); [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [arts. 2(2)(e)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/e), [3(m)](https://www.legislation.gov.uk/uksi/2015/983/article/3/m); [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(i)](https://www.legislation.gov.uk/uksi/2016/147/article/3/i)

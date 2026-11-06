@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 610. Interpretation of the Trust Deed—meaning of “authorised insurance company”[^key-fcc9ea53b3594e75ce1d3866bc3e14a3]
+## 610. Interpretation of the Trust Deed—meaning of “authorised insurance company”[^c-fcc9ea53b3594e75ce1d3866bc3e14a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ In Appendix 1 to the Transport Act 2000 (Civil Aviation Authority Pension Scheme
 
 ## Annotations
 
-[^key-fcc9ea53b3594e75ce1d3866bc3e14a3]: Commencement: Art. 610 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-fcc9ea53b3594e75ce1d3866bc3e14a3]: Commencement: Art. 610 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00369]: Footnote: The Trustees to the Pension Scheme were consulted on , and have consented to, this consequential amendment to the Scheme.

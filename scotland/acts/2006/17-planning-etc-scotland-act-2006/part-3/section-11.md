@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Pre-application consultation[^key-7c8154e17f89f8481ddd7eaad0ab2eab][^key-1a0014ac9d0c5cad6aa7c414674a96ec][^key-6dca0a58ae6030278978a40dee53db56]
+## 11. Pre-application consultation[^c-7c8154e17f89f8481ddd7eaad0ab2eab][^c-1a0014ac9d0c5cad6aa7c414674a96ec][^c-6dca0a58ae6030278978a40dee53db56]
 
 *Extent: S*
 
@@ -90,8 +90,8 @@ After section 35 of the principal Act insert—
 
 ## Annotations
 
-[^key-7c8154e17f89f8481ddd7eaad0ab2eab]: Commencement: S. 11 in force at 12.12.2008 for specified purposes by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a)
+[^c-7c8154e17f89f8481ddd7eaad0ab2eab]: Commencement: S. 11 in force at 12.12.2008 for specified purposes by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a)
 
-[^key-1a0014ac9d0c5cad6aa7c414674a96ec]: Commencement: S. 11 in force at 6.4.2009 in so far as not already in force by [S.S.I. 2009/100](https://www.legislation.gov.uk/ssi/2009/100), [art. 2](https://www.legislation.gov.uk/ssi/2009/100/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/100/schedule)
+[^c-1a0014ac9d0c5cad6aa7c414674a96ec]: Commencement: S. 11 in force at 6.4.2009 in so far as not already in force by [S.S.I. 2009/100](https://www.legislation.gov.uk/ssi/2009/100), [art. 2](https://www.legislation.gov.uk/ssi/2009/100/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/100/schedule)
 
-[^key-6dca0a58ae6030278978a40dee53db56]: Modification: S. 11 savings for effects of commencing S.S.I. 2009/100, art. 2, Sch. (6.4.2009) by [Planning etc. (Scotland) Act 2006 (Saving and Transitional Provisions) Order 2009 (S.S.I. 2009/101)](https://www.legislation.gov.uk/ssi/2009/101), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2009/101/article/1/1), [2](https://www.legislation.gov.uk/ssi/2009/101/article/2)
+[^c-6dca0a58ae6030278978a40dee53db56]: Modification: S. 11 savings for effects of commencing S.S.I. 2009/100, art. 2, Sch. (6.4.2009) by [Planning etc. (Scotland) Act 2006 (Saving and Transitional Provisions) Order 2009 (S.S.I. 2009/101)](https://www.legislation.gov.uk/ssi/2009/101), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2009/101/article/1/1), [2](https://www.legislation.gov.uk/ssi/2009/101/article/2)

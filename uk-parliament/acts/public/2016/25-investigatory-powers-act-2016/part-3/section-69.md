@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Duties in connection with operation of filtering arrangements[^key-3e6f87665f1cc48478df00b37929aac7]
+## 69. Duties in connection with operation of filtering arrangements[^c-3e6f87665f1cc48478df00b37929aac7]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
   - (i) has been obtained or processed under the filtering arrangements, and
   - (ii) is to be disclosed in pursuance of an authorisation or for the purpose mentioned in section 67(1)(a),
 
-  is disclosed only to the person to whom the data is to be disclosed in pursuance of the authorisation or (as the case may be) to the person considering whether to grant the authorisation[^key-daba85901a6d92a72543f85b030a3396],
+  is disclosed only to the person to whom the data is to be disclosed in pursuance of the authorisation or (as the case may be) to the person considering whether to grant the authorisation[^c-daba85901a6d92a72543f85b030a3396],
 - (c) that any authorisation data which is obtained under the filtering arrangements in pursuance of an authorisation is immediately destroyed—
   - (i) when the purposes of the authorisation have been met, or
   - (ii) if at any time it ceases to be necessary to retain the data for the purposes or purpose concerned.
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3e6f87665f1cc48478df00b37929aac7]: Commencement: S. 69 in force at 5.2.2019 by [S.I. 2019/174](https://www.legislation.gov.uk/uksi/2019/174), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2019/174/regulation/2/d)
+[^c-3e6f87665f1cc48478df00b37929aac7]: Commencement: S. 69 in force at 5.2.2019 by [S.I. 2019/174](https://www.legislation.gov.uk/uksi/2019/174), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2019/174/regulation/2/d)
 
-[^key-daba85901a6d92a72543f85b030a3396]: Textual amendment: Words in s. 69(1)(b) substituted (5.2.2019) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [reg. 1(4)(d)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/4/d)[(5)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/5), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/9) (see S.I. 2019/174, reg. 2(c))
+[^c-daba85901a6d92a72543f85b030a3396]: Textual amendment: Words in s. 69(1)(b) substituted (5.2.2019) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [reg. 1(4)(d)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/4/d)[(5)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/5), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/9) (see S.I. 2019/174, reg. 2(c))

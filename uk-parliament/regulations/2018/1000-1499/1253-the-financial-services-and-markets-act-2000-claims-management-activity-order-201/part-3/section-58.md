@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 58. Continuation of criminal proceedings instituted by the Regulator[^key-4fa3f3a23aa3eadf08a2ebcf7c21d15c][^key-bd25ed24f54c7d6852242ad21707a90b]
+## 58. Continuation of criminal proceedings instituted by the Regulator[^c-4fa3f3a23aa3eadf08a2ebcf7c21d15c][^c-bd25ed24f54c7d6852242ad21707a90b]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4fa3f3a23aa3eadf08a2ebcf7c21d15c]: Commencement: Art. 58 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-4fa3f3a23aa3eadf08a2ebcf7c21d15c]: Commencement: Art. 58 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-bd25ed24f54c7d6852242ad21707a90b]: Commencement: [Art. 58](https://www.legislation.gov.uk/uksi/2018/1253/article/58) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-bd25ed24f54c7d6852242ad21707a90b]: Commencement: [Art. 58](https://www.legislation.gov.uk/uksi/2018/1253/article/58) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)

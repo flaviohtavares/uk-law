@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Revocations and transitional provisions[^key-3b1ea10ec324799ae7ada39acff32bc0]
+## 27. Revocations and transitional provisions[^c-3b1ea10ec324799ae7ada39acff32bc0]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b1ea10ec324799ae7ada39acff32bc0]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2004/317/regulation/27) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-3b1ea10ec324799ae7ada39acff32bc0]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2004/317/regulation/27) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)

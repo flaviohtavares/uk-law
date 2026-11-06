@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 9 — Powers of entry and inspection[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+## SCHEDULE 9 — Powers of entry and inspection[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,52 +24,52 @@ summary: ''
 
 Article 89
 
-### SECTION 1[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+### SECTION 1[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
-#### 1. Powers of entry and inspection[^key-b7a52f3626210c3787e0acdbaaaa5a08]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**2.**[^key-b7a52f3626210c3787e0acdbaaaa5a08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-b7a52f3626210c3787e0acdbaaaa5a08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**4.**[^key-b7a52f3626210c3787e0acdbaaaa5a08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**5.**[^key-b7a52f3626210c3787e0acdbaaaa5a08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**6.**[^key-b7a52f3626210c3787e0acdbaaaa5a08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**7.**[^key-b7a52f3626210c3787e0acdbaaaa5a08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**8.**[^key-b7a52f3626210c3787e0acdbaaaa5a08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### SECTION 2 — Warrants, evidence and compensation[^key-b7a52f3626210c3787e0acdbaaaa5a08]
-
-#### 9. Entry and inspection under warrant[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+#### 1. Powers of entry and inspection[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-b7a52f3626210c3787e0acdbaaaa5a08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b7a52f3626210c3787e0acdbaaaa5a08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-b7a52f3626210c3787e0acdbaaaa5a08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b7a52f3626210c3787e0acdbaaaa5a08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-b7a52f3626210c3787e0acdbaaaa5a08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b7a52f3626210c3787e0acdbaaaa5a08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-b7a52f3626210c3787e0acdbaaaa5a08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b7a52f3626210c3787e0acdbaaaa5a08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-b7a52f3626210c3787e0acdbaaaa5a08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-b7a52f3626210c3787e0acdbaaaa5a08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Compensation in respect of entry and inspection[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+**7.**[^c-b7a52f3626210c3787e0acdbaaaa5a08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^c-b7a52f3626210c3787e0acdbaaaa5a08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### SECTION 2 — Warrants, evidence and compensation[^c-b7a52f3626210c3787e0acdbaaaa5a08]
+
+#### 9. Entry and inspection under warrant[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-b7a52f3626210c3787e0acdbaaaa5a08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-b7a52f3626210c3787e0acdbaaaa5a08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-b7a52f3626210c3787e0acdbaaaa5a08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-b7a52f3626210c3787e0acdbaaaa5a08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-b7a52f3626210c3787e0acdbaaaa5a08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-b7a52f3626210c3787e0acdbaaaa5a08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^c-b7a52f3626210c3787e0acdbaaaa5a08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14.**[^c-b7a52f3626210c3787e0acdbaaaa5a08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 15. Compensation in respect of entry and inspection[^c-b7a52f3626210c3787e0acdbaaaa5a08]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16.**[^c-b7a52f3626210c3787e0acdbaaaa5a08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**17.**[^c-b7a52f3626210c3787e0acdbaaaa5a08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**18.**[^c-b7a52f3626210c3787e0acdbaaaa5a08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b7a52f3626210c3787e0acdbaaaa5a08]: Textual amendment: Order revoked (with savings) (20.5.2013 and 1.4.2019 in so far as not already in force) by [The CRC Energy Efficiency Scheme Order 2013 (revoked) 2013 (S.I. 2013/1119)](https://www.legislation.gov.uk/uksi/2013/1119), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1119/article/1), [96(1)(2)](https://www.legislation.gov.uk/uksi/2013/1119/article/96/1/2) (with [arts. 2(2)](https://www.legislation.gov.uk/uksi/2013/1119/article/2/2), [86](https://www.legislation.gov.uk/uksi/2013/1119/article/86))
+[^c-b7a52f3626210c3787e0acdbaaaa5a08]: Textual amendment: Order revoked (with savings) (20.5.2013 and 1.4.2019 in so far as not already in force) by [The CRC Energy Efficiency Scheme Order 2013 (revoked) 2013 (S.I. 2013/1119)](https://www.legislation.gov.uk/uksi/2013/1119), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1119/article/1), [96(1)(2)](https://www.legislation.gov.uk/uksi/2013/1119/article/96/1/2) (with [arts. 2(2)](https://www.legislation.gov.uk/uksi/2013/1119/article/2/2), [86](https://www.legislation.gov.uk/uksi/2013/1119/article/86))

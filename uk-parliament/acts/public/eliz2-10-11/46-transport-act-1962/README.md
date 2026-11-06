@@ -31,7 +31,7 @@ Transport Act 1962
 
 An Act to provide for the re-organisation of the nationalised transport undertakings now carried on under the Transport Act 1947, and for that purpose to provide for the establishment of public authorities as successors to the British Transport Commission, and for the transfer to them of undertakings, parts of undertakings, property, rights, obligations and liabilities; to repeal certain enactments relating to transport charges and facilities and to amend in other respects the law relating to transport, inland waterways, harbours and port facilities; and for purposes connected with the matters aforesaid.
 
-\[1st August 1962\] [^c4788041][^c4788051][^c4788061][^c4788071][^c4788081][^key-69945d93b514b50c73185d55e310c91b]
+\[1st August 1962\] [^c4788041][^c4788051][^c4788061][^c4788071][^c4788081][^c-69945d93b514b50c73185d55e310c91b]
 
 ## Contents
 
@@ -227,6 +227,6 @@ SCHEDULES
 
 [^c4788081]: Extent: For extent see [s. 93(1)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/46/section/93/1)
 
-[^key-69945d93b514b50c73185d55e310c91b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/46) transfer of functions in part (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 2](https://www.legislation.gov.uk/uksi/2012/1659/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/1659/schedule/1) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-69945d93b514b50c73185d55e310c91b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/46) transfer of functions in part (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 2](https://www.legislation.gov.uk/uksi/2012/1659/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/1659/schedule/1) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
 [^c4792371]: Modification: [Pt. II](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/46/part/II) extended by [Mines (Working Facilities and Support) Act 1966 (c. 4)](https://www.legislation.gov.uk/ukpga/1966/4), [s. 12(2)](https://www.legislation.gov.uk/ukpga/1966/4/section/12/2)

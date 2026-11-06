@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Works to safeguard buildings and the operation of the authorised tramway[^key-aaa58ed05591d6f1a2c95701d8d8aa6f]
+## 21. Works to safeguard buildings and the operation of the authorised tramway[^c-aaa58ed05591d6f1a2c95701d8d8aa6f]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ the Authority must compensate the owners and occupiers of the building for any d
 
 ## Annotations
 
-[^key-aaa58ed05591d6f1a2c95701d8d8aa6f]: Commencement: Art. 21 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-aaa58ed05591d6f1a2c95701d8d8aa6f]: Commencement: Art. 21 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

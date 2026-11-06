@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Transfer of advowson subject to trust of land or comprised in settled land.[^key-25935109290354e67c0c368263a69b0a]
+## 33. Transfer of advowson subject to trust of land or comprised in settled land.[^c-25935109290354e67c0c368263a69b0a]
 
 *Extent: E*
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-25935109290354e67c0c368263a69b0a]: Textual amendment: Words in [s. 33 heading](https://www.legislation.gov.uk/ukcm/1986/3/part/III/crossheading/other-amendments-of-the-law-relating-to-rights-of-patronage-etc) substituted (1.1.2020) by [The Legislative Reform (Patronage of Benefices) Order 2019 (S.I. 2019/1183)](https://www.legislation.gov.uk/uksi/2019/1183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1183/article/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2019/1183/article/7/3)
+[^c-25935109290354e67c0c368263a69b0a]: Textual amendment: Words in [s. 33 heading](https://www.legislation.gov.uk/ukcm/1986/3/part/III/crossheading/other-amendments-of-the-law-relating-to-rights-of-patronage-etc) substituted (1.1.2020) by [The Legislative Reform (Patronage of Benefices) Order 2019 (S.I. 2019/1183)](https://www.legislation.gov.uk/uksi/2019/1183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1183/article/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2019/1183/article/7/3)
 
 [^c922686]: Textual amendment: Words in s. 33(1) substituted (1.1.1997) by [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47), [s. 25(1)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/1), [Sch. 3 para. 24(a)](https://www.legislation.gov.uk/ukpga/1996/47/schedule/3/paragraph/24/a) (with [ss. 24(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/24/2), [25(4)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/4)); [S.I. 1996/2974](https://www.legislation.gov.uk/uksi/1996/2974), [art. 2](https://www.legislation.gov.uk/uksi/1996/2974/article/2)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 97. Funeral director: code of practice[^key-4d2c938e33a27a51607fc416e341e687]
+## 97. Funeral director: code of practice[^c-4d2c938e33a27a51607fc416e341e687]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d2c938e33a27a51607fc416e341e687]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2016/20/section/97) in force at 24.3.2021 by [S.S.I. 2021/126](https://www.legislation.gov.uk/ssi/2021/126), [reg. 2](https://www.legislation.gov.uk/ssi/2021/126/regulation/2)
+[^c-4d2c938e33a27a51607fc416e341e687]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2016/20/section/97) in force at 24.3.2021 by [S.S.I. 2021/126](https://www.legislation.gov.uk/ssi/2021/126), [reg. 2](https://www.legislation.gov.uk/ssi/2021/126/regulation/2)

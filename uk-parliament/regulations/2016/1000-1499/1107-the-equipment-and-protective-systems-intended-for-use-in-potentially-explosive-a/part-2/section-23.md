@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Storage and transport[^key-037a6ed2f09cc07474ed50618ee6ff57]
+## 23. Storage and transport[^c-037a6ed2f09cc07474ed50618ee6ff57]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Each importer must ensure that, whilst a product is under that importer’s resp
 
 ## Annotations
 
-[^key-037a6ed2f09cc07474ed50618ee6ff57]: Commencement: Reg. 23 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
+[^c-037a6ed2f09cc07474ed50618ee6ff57]: Commencement: Reg. 23 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)

@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION
 
-The Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^key-fc3238b613617ac26d4ce436963cb0e0]
+The Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^c-fc3238b613617ac26d4ce436963cb0e0]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 1st August 2003
 
-[^key-fc3238b613617ac26d4ce436963cb0e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc3238b613617ac26d4ce436963cb0e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-fc3238b613617ac26d4ce436963cb0e0]
+## 1. Citation and commencement[^c-fc3238b613617ac26d4ce436963cb0e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Education (Student Loans) Regulations (Northern Ireland) 1998[^key-fc3238b613617ac26d4ce436963cb0e0]
+## 2. Amendment of the Education (Student Loans) Regulations (Northern Ireland) 1998[^c-fc3238b613617ac26d4ce436963cb0e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fc3238b613617ac26d4ce436963cb0e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc3238b613617ac26d4ce436963cb0e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fc3238b613617ac26d4ce436963cb0e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc3238b613617ac26d4ce436963cb0e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fc3238b613617ac26d4ce436963cb0e0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/340) revoked (1.8.2004) by [The Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2004 (revoked) 2004 (S.R. 2004/305)](https://www.legislation.gov.uk/nisr/2004/305), [regs. 1](https://www.legislation.gov.uk/nisr/2004/305/regulation/1), [3](https://www.legislation.gov.uk/nisr/2004/305/regulation/3)
+[^c-fc3238b613617ac26d4ce436963cb0e0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/340) revoked (1.8.2004) by [The Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2004 (revoked) 2004 (S.R. 2004/305)](https://www.legislation.gov.uk/nisr/2004/305), [regs. 1](https://www.legislation.gov.uk/nisr/2004/305/regulation/1), [3](https://www.legislation.gov.uk/nisr/2004/305/regulation/3)

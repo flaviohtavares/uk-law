@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Transitional provision: approved places of inspection[^key-d8487d843ae9d978a25877d46216834f]
+## 13. Transitional provision: approved places of inspection[^c-d8487d843ae9d978a25877d46216834f]
 
 *Extent: E+W*
 
@@ -58,17 +58,17 @@ summary: ''
 - “**plant health movement document**” (“***dogfen symud iechyd planhigion***”) means a document in the form set out in the Annex to Commission Directive [2004/103/EC](https://www.legislation.gov.uk/eudr/2004/103) on identity and plant health checks of plants, plant products or other objects, listed in Part B of Annex V to Council Directive [2000/29/EC](https://www.legislation.gov.uk/eudr/2000/29), which may be carried out at a place other than the point of entry into the Community or at a place close by and specifying the conditions related to these checks [^c23987421];
 - “**relevant period**” (“***cyfnod perthnasol***”) means the period beginning on the commencement date and ending immediately before 14 December 2020;
 - “**temporary storage facility**” (“***cyfleuster storio dros dro***”) means a temporary storage facility within the meaning of Article 148 of Regulation (EU) No 952/2013 of the European Parliament and of the Council laying down the Union Customs Code [^c23987431];
-- “working day” (“[^key-94a11351d972957ef20ca3db70b1b32e]*diwrnod gwaith*”) has the meaning given in regulation 7(4).
-- [^key-f54db8aa582b12d62e16ac7e8e59e5df]...
+- “working day” (“[^c-94a11351d972957ef20ca3db70b1b32e]*diwrnod gwaith*”) has the meaning given in regulation 7(4).
+- [^c-f54db8aa582b12d62e16ac7e8e59e5df]...
 
 ## Annotations
 
-[^key-d8487d843ae9d978a25877d46216834f]: Commencement: Reg. 13 in force at 27.3.2020, see reg. 1
+[^c-d8487d843ae9d978a25877d46216834f]: Commencement: Reg. 13 in force at 27.3.2020, see reg. 1
 
 [^c23987421]: Marginal citation: OJ No. L 313, 12.10.2004, p. 16.
 
 [^c23987431]: Marginal citation: OJ No. L 269, 10.10.2013, p. 1, as last amended by Regulation (EU) 2019/632 of the European Parliament and of the Council (OJ No. L 111, 25.4.2019, p. 54).
 
-[^key-94a11351d972957ef20ca3db70b1b32e]: Textual amendment: Words in reg. 13(10) inserted (13.11.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1134)](https://www.legislation.gov.uk/wsi/2020/1134), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1134/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/wsi/2020/1134/regulation/2/4/b)
+[^c-94a11351d972957ef20ca3db70b1b32e]: Textual amendment: Words in reg. 13(10) inserted (13.11.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1134)](https://www.legislation.gov.uk/wsi/2020/1134), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1134/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/wsi/2020/1134/regulation/2/4/b)
 
-[^key-f54db8aa582b12d62e16ac7e8e59e5df]: Textual amendment: Words in reg. 13(10) omitted (13.11.2020) by virtue of [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1134)](https://www.legislation.gov.uk/wsi/2020/1134), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1134/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/wsi/2020/1134/regulation/2/4/a)
+[^c-f54db8aa582b12d62e16ac7e8e59e5df]: Textual amendment: Words in reg. 13(10) omitted (13.11.2020) by virtue of [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1134)](https://www.legislation.gov.uk/wsi/2020/1134), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1134/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/wsi/2020/1134/regulation/2/4/a)

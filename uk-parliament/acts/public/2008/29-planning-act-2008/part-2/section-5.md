@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. National policy statements[^key-a6d36245d51223e86a01724ab3c89e22]
+## 5. National policy statements[^c-a6d36245d51223e86a01724ab3c89e22]
 
 *Extent: E+W+S*
 
@@ -29,14 +29,14 @@ summary: ''
 
 (3) Before designating a statement as a national policy statement for the purposes of this Act the Secretary of State must carry out an appraisal of the sustainability of the policy set out in the statement.
 
-(4) A statement may be designated as a national policy statement for the purposes of this Act only if the consultation and publicity requirements set out in section 7, and the parliamentary requirements set out in section 9, have been complied with in relation to it and—[^key-af17146754f08cced1b080d6452757f5]
+(4) A statement may be designated as a national policy statement for the purposes of this Act only if the consultation and publicity requirements set out in section 7, and the parliamentary requirements set out in section 9, have been complied with in relation to it and—[^c-af17146754f08cced1b080d6452757f5]
 
 - (a) the consideration period for the statement has expired without the House of Commons resolving during that period that the statement should not be proceeded with, or
 - (b) the statement has been approved by resolution of the House of Commons—
   - (i) after being laid before Parliament under section 9(8), and
   - (ii) before the end of the consideration period.
 
-(4A)[^key-53da02b1f87b111b760b48a13ad68d9d] In subsection (4) “**the consideration period**”, in relation to a statement, means the period of 21 sitting days beginning with the first sitting day after the day on which the statement is laid before Parliament under section 9(8), and here “**sitting day**” means a day on which the House of Commons sits.
+(4A)[^c-53da02b1f87b111b760b48a13ad68d9d] In subsection (4) “**the consideration period**”, in relation to a statement, means the period of 21 sitting days beginning with the first sitting day after the day on which the statement is laid before Parliament under section 9(8), and here “**sitting day**” means a day on which the House of Commons sits.
 
 (5) The policy set out in a national policy statement may in particular—
 
@@ -55,19 +55,19 @@ summary: ''
 
 (9) The Secretary of State must—
 
-- (a) arrange for the publication of a national policy statement, [^key-8a16f365602bdacc6ff73f7bb8869a63]...
-- (b)[^key-4ca80e04849c0b75f12433eef1b828ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) arrange for the publication of a national policy statement, [^c-8a16f365602bdacc6ff73f7bb8869a63]...
+- (b)[^c-4ca80e04849c0b75f12433eef1b828ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) In this section “**statutory undertakers**” means persons who are, or are deemed to be, statutory undertakers for the purposes of any provision of Part 11 of TCPA 1990.
 
 ## Annotations
 
-[^key-a6d36245d51223e86a01724ab3c89e22]: Commencement: S. 5 in force at 6.4.2009 by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 2](https://www.legislation.gov.uk/uksi/2009/400/article/2)
+[^c-a6d36245d51223e86a01724ab3c89e22]: Commencement: S. 5 in force at 6.4.2009 by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 2](https://www.legislation.gov.uk/uksi/2009/400/article/2)
 
-[^key-af17146754f08cced1b080d6452757f5]: Textual amendment: Words in s. 5(4) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 130(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/130/2), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2011/20/section/144)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
+[^c-af17146754f08cced1b080d6452757f5]: Textual amendment: Words in s. 5(4) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 130(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/130/2), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2011/20/section/144)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
 
-[^key-53da02b1f87b111b760b48a13ad68d9d]: Textual amendment: S. 5(4A) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 130(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/130/3), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2011/20/section/144)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
+[^c-53da02b1f87b111b760b48a13ad68d9d]: Textual amendment: S. 5(4A) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 130(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/130/3), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2011/20/section/144)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
 
-[^key-8a16f365602bdacc6ff73f7bb8869a63]: Textual amendment: Word in s. 5(9)(a) repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/20); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(b)](https://www.legislation.gov.uk/uksi/2012/628/article/7/b)
+[^c-8a16f365602bdacc6ff73f7bb8869a63]: Textual amendment: Word in s. 5(9)(a) repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/20); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(b)](https://www.legislation.gov.uk/uksi/2012/628/article/7/b)
 
-[^key-4ca80e04849c0b75f12433eef1b828ba]: Textual amendment: S. 5(9)(b) repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 130(4)](https://www.legislation.gov.uk/ukpga/2011/20/section/130/4), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/20) (with [s. 144](https://www.legislation.gov.uk/ukpga/2011/20/section/144)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7](https://www.legislation.gov.uk/uksi/2012/628/article/7)
+[^c-4ca80e04849c0b75f12433eef1b828ba]: Textual amendment: S. 5(9)(b) repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 130(4)](https://www.legislation.gov.uk/ukpga/2011/20/section/130/4), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/20) (with [s. 144](https://www.legislation.gov.uk/ukpga/2011/20/section/144)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7](https://www.legislation.gov.uk/uksi/2012/628/article/7)

@@ -35,13 +35,13 @@ A Measure passed by the General Synod of the Church of England to make provision
 
 ## 1. Provision for consecration of women as bishops and for continuation of provision for ordination of women as priests
 
-(1)[^key-d0b1f9e2ead2bbd26f610cd4ceabd121] It shall be lawful for the General Synod to make provision by Canon for enabling women, as well as men, to be consecrated to the office of bishop if they otherwise satisfy the requirements of Canon Law as to the persons who may be consecrated as bishops.
+(1)[^c-d0b1f9e2ead2bbd26f610cd4ceabd121] It shall be lawful for the General Synod to make provision by Canon for enabling women, as well as men, to be consecrated to the office of bishop if they otherwise satisfy the requirements of Canon Law as to the persons who may be consecrated as bishops.
 
-(2)[^key-1fdc8467064d4de706f07052e632eeaa] It shall continue to be lawful for the General Synod to make provision by Canon for enabling women, as well as men, to be ordained to the office of priest if they otherwise satisfy the requirements of Canon Law as to the persons who may be ordained as priests.
+(2)[^c-1fdc8467064d4de706f07052e632eeaa] It shall continue to be lawful for the General Synod to make provision by Canon for enabling women, as well as men, to be ordained to the office of priest if they otherwise satisfy the requirements of Canon Law as to the persons who may be ordained as priests.
 
-(3)[^key-1fdc8467064d4de706f07052e632eeaa] The Priests (Ordination of Women) Measure 1993 is repealed.
+(3)[^c-1fdc8467064d4de706f07052e632eeaa] The Priests (Ordination of Women) Measure 1993 is repealed.
 
-## 2. Amendment of Equality Act[^key-2b5f540ade8cb6d4ced8a38277543d7d]
+## 2. Amendment of Equality Act[^c-2b5f540ade8cb6d4ced8a38277543d7d]
 
 In Schedule 6 to the Equality Act 2010, there is added at the end—
 
@@ -51,11 +51,11 @@ In Schedule 6 to the Equality Act 2010, there is added at the end—
 
 .
 
-## 3. Repeals[^key-079bedcabb63023b0296443b678cbd78]
+## 3. Repeals[^c-079bedcabb63023b0296443b678cbd78]
 
 The enactments mentioned in the Schedule are repealed to the extent specified in the second column of the Schedule.
 
-## 4. Citation, commencement and extent[^key-d10be40f2c75cde89d81e7c7d8b3536e]
+## 4. Citation, commencement and extent[^c-d10be40f2c75cde89d81e7c7d8b3536e]
 
 (1) This Measure may be cited as the Bishops and Priests (Consecration and Ordination of Women) Measure 2014.
 
@@ -67,7 +67,7 @@ The enactments mentioned in the Schedule are repealed to the extent specified in
 
 (5) If an Act of Tynwald or an instrument made under an Act of Tynwald so provides, this Measure extends to the Isle of Man, subject to such exceptions, adaptations or modifications as may be specified in the Act of Tynwald or instrument.
 
-## SCHEDULE — Repeals[^key-3b22322ffd5f14c7d7267ed9c359f9e0]
+## SCHEDULE — Repeals[^c-3b22322ffd5f14c7d7267ed9c359f9e0]
 
 Section 3
 
@@ -89,14 +89,14 @@ Section 3
 
 ## Annotations
 
-[^key-d0b1f9e2ead2bbd26f610cd4ceabd121]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/ukcm/2014/2/section/1/1) in force at 14.11.2014 by [S.I. 2014/4](https://www.legislation.gov.uk/ukci/2014/4), [art. 2](https://www.legislation.gov.uk/ukci/2014/4/article/2)
+[^c-d0b1f9e2ead2bbd26f610cd4ceabd121]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/ukcm/2014/2/section/1/1) in force at 14.11.2014 by [S.I. 2014/4](https://www.legislation.gov.uk/ukci/2014/4), [art. 2](https://www.legislation.gov.uk/ukci/2014/4/article/2)
 
-[^key-1fdc8467064d4de706f07052e632eeaa]: Commencement: [S. 1(2)](https://www.legislation.gov.uk/ukcm/2014/2/section/1/2)[(3)](https://www.legislation.gov.uk/ukcm/2014/2/section/1/3) in force at 17.11.2014 by [S.I. 2014/5](https://www.legislation.gov.uk/ukci/2014/5), [art. 2](https://www.legislation.gov.uk/ukci/2014/5/article/2)
+[^c-1fdc8467064d4de706f07052e632eeaa]: Commencement: [S. 1(2)](https://www.legislation.gov.uk/ukcm/2014/2/section/1/2)[(3)](https://www.legislation.gov.uk/ukcm/2014/2/section/1/3) in force at 17.11.2014 by [S.I. 2014/5](https://www.legislation.gov.uk/ukci/2014/5), [art. 2](https://www.legislation.gov.uk/ukci/2014/5/article/2)
 
-[^key-2b5f540ade8cb6d4ced8a38277543d7d]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2014/2/section/2) in force at 17.11.2014 by [S.I. 2014/5](https://www.legislation.gov.uk/ukci/2014/5), [art. 2](https://www.legislation.gov.uk/ukci/2014/5/article/2)
+[^c-2b5f540ade8cb6d4ced8a38277543d7d]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2014/2/section/2) in force at 17.11.2014 by [S.I. 2014/5](https://www.legislation.gov.uk/ukci/2014/5), [art. 2](https://www.legislation.gov.uk/ukci/2014/5/article/2)
 
-[^key-079bedcabb63023b0296443b678cbd78]: Commencement: [S. 3](https://www.legislation.gov.uk/ukcm/2014/2/section/3) in force at 17.11.2014 by [S.I. 2014/5](https://www.legislation.gov.uk/ukci/2014/5), [art. 2](https://www.legislation.gov.uk/ukci/2014/5/article/2)
+[^c-079bedcabb63023b0296443b678cbd78]: Commencement: [S. 3](https://www.legislation.gov.uk/ukcm/2014/2/section/3) in force at 17.11.2014 by [S.I. 2014/5](https://www.legislation.gov.uk/ukci/2014/5), [art. 2](https://www.legislation.gov.uk/ukci/2014/5/article/2)
 
-[^key-d10be40f2c75cde89d81e7c7d8b3536e]: Commencement: [S. 4](https://www.legislation.gov.uk/ukcm/2014/2/section/4) in force at 14.11.2014 by [S.I. 2014/4](https://www.legislation.gov.uk/ukci/2014/4), [art. 2](https://www.legislation.gov.uk/ukci/2014/4/article/2)
+[^c-d10be40f2c75cde89d81e7c7d8b3536e]: Commencement: [S. 4](https://www.legislation.gov.uk/ukcm/2014/2/section/4) in force at 14.11.2014 by [S.I. 2014/4](https://www.legislation.gov.uk/ukci/2014/4), [art. 2](https://www.legislation.gov.uk/ukci/2014/4/article/2)
 
-[^key-3b22322ffd5f14c7d7267ed9c359f9e0]: Commencement: [Sch.](https://www.legislation.gov.uk/ukcm/2014/2/schedule) in force at 17.11.2014 by [S.I. 2014/5](https://www.legislation.gov.uk/ukci/2014/5), [art. 2](https://www.legislation.gov.uk/ukci/2014/5/article/2)
+[^c-3b22322ffd5f14c7d7267ed9c359f9e0]: Commencement: [Sch.](https://www.legislation.gov.uk/ukcm/2014/2/schedule) in force at 17.11.2014 by [S.I. 2014/5](https://www.legislation.gov.uk/ukci/2014/5), [art. 2](https://www.legislation.gov.uk/ukci/2014/5/article/2)

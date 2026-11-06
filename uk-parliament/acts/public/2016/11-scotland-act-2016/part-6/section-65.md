@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Office of Communications[^key-94616ac3ce30f6353980027afe01f753]
+## 65. Office of Communications[^c-94616ac3ce30f6353980027afe01f753]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94616ac3ce30f6353980027afe01f753]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2016/11/section/65) in force at 18.8.2016 by [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 2](https://www.legislation.gov.uk/uksi/2016/759/regulation/2)
+[^c-94616ac3ce30f6353980027afe01f753]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2016/11/section/65) in force at 18.8.2016 by [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 2](https://www.legislation.gov.uk/uksi/2016/759/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Judges of the Sexual Offences Court: Lord Commissioners of Justiciary and temporary judges[^key-ecf077683d9f39a3e6757f3f07d9f2a5]
+## 72. Judges of the Sexual Offences Court: Lord Commissioners of Justiciary and temporary judges[^c-ecf077683d9f39a3e6757f3f07d9f2a5]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ also holds office as a Judge of the Sexual Offences Court.
 
 ## Annotations
 
-[^key-ecf077683d9f39a3e6757f3f07d9f2a5]: Commencement: S. 72 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-ecf077683d9f39a3e6757f3f07d9f2a5]: Commencement: S. 72 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

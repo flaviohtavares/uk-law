@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. 700 MHz paired frequency lot assignment stage bids[^key-2dde3e5a7ba5d1c9815a968caf0124c5]
+## 76. 700 MHz paired frequency lot assignment stage bids[^c-2dde3e5a7ba5d1c9815a968caf0124c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2dde3e5a7ba5d1c9815a968caf0124c5]: Commencement: Reg. 76 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-2dde3e5a7ba5d1c9815a968caf0124c5]: Commencement: Reg. 76 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

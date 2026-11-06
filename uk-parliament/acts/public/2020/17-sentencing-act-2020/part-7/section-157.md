@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157. Property to which a deprivation order applies: orders by magistrates' court[^key-75d39e46b197406e8037d5dc5c1eec20]
+## 157. Property to which a deprivation order applies: orders by magistrates' court[^c-75d39e46b197406e8037d5dc5c1eec20]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ This is subject to subsection (3).
 
 ## Annotations
 
-[^key-75d39e46b197406e8037d5dc5c1eec20]: Commencement: S. 157 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-75d39e46b197406e8037d5dc5c1eec20]: Commencement: S. 157 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

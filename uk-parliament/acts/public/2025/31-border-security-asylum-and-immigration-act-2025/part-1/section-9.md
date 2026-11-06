@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Directions and guidance by the Secretary of State[^key-3f1b5f2bb3bc64cec031d95fd1e5c4f3][^key-5c9e9f5a8645de523037a11766465893]
+## 9. Directions and guidance by the Secretary of State[^c-3f1b5f2bb3bc64cec031d95fd1e5c4f3][^c-5c9e9f5a8645de523037a11766465893]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3f1b5f2bb3bc64cec031d95fd1e5c4f3]: Commencement: S. 9 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-3f1b5f2bb3bc64cec031d95fd1e5c4f3]: Commencement: S. 9 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-5c9e9f5a8645de523037a11766465893]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2025/31/section/9) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/a)
+[^c-5c9e9f5a8645de523037a11766465893]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2025/31/section/9) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/a)

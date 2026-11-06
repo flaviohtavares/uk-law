@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Primary legislation words to which this Part applies[^key-792521435b2dbeaee142a4463c8a3ff4]
+## 29. Primary legislation words to which this Part applies[^c-792521435b2dbeaee142a4463c8a3ff4]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ The words to which this section applies are words that are—
 
 ## Annotations
 
-[^key-792521435b2dbeaee142a4463c8a3ff4]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2024/1/section/29) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-792521435b2dbeaee142a4463c8a3ff4]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2024/1/section/29) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

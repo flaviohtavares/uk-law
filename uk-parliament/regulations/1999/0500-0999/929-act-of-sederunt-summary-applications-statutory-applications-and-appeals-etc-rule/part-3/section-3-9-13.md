@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.9.13. Duties of administrator[^key-fb32d2de7a37c146254c9444955f40e8]
+## 3.9.13. Duties of administrator[^c-fb32d2de7a37c146254c9444955f40e8]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ lodge with the Accountant of Court an account of his intromissions in such form,
 
 ## Annotations
 
-[^key-fb32d2de7a37c146254c9444955f40e8]: Commencement: Rule 3.9.13 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-fb32d2de7a37c146254c9444955f40e8]: Commencement: Rule 3.9.13 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

@@ -37,7 +37,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Release of prisoners under Crime (Sentences) Act 1997
 
-### 1. Murder, manslaughter or indecent images: prisoner's non-disclosure[^key-8f811031fbafe77b0c172b5e9ea0309c]
+### 1. Murder, manslaughter or indecent images: prisoner's non-disclosure[^c-8f811031fbafe77b0c172b5e9ea0309c]
 
 (1) After section 28 of the Crime (Sentences) Act 1997 insert—
 
@@ -124,7 +124,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Release of prisoners under Criminal Justice Act 2003
 
-### 2. Manslaughter or indecent images: prisoner's non-disclosure[^key-650c6445a95bfcfe23f47ae6e8b959bf]
+### 2. Manslaughter or indecent images: prisoner's non-disclosure[^c-650c6445a95bfcfe23f47ae6e8b959bf]
 
 (1) The Criminal Justice Act 2003 is amended in accordance with this section.
 
@@ -292,6 +292,6 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Annotations
 
-[^key-8f811031fbafe77b0c172b5e9ea0309c]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2020/19/section/1) in force at 4.1.2021 by [S.I. 2020/1537](https://www.legislation.gov.uk/uksi/2020/1537), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1537/regulation/2)
+[^c-8f811031fbafe77b0c172b5e9ea0309c]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2020/19/section/1) in force at 4.1.2021 by [S.I. 2020/1537](https://www.legislation.gov.uk/uksi/2020/1537), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1537/regulation/2)
 
-[^key-650c6445a95bfcfe23f47ae6e8b959bf]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2020/19/section/2) in force at 4.1.2021 by [S.I. 2020/1537](https://www.legislation.gov.uk/uksi/2020/1537), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1537/regulation/2)
+[^c-650c6445a95bfcfe23f47ae6e8b959bf]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2020/19/section/2) in force at 4.1.2021 by [S.I. 2020/1537](https://www.legislation.gov.uk/uksi/2020/1537), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1537/regulation/2)

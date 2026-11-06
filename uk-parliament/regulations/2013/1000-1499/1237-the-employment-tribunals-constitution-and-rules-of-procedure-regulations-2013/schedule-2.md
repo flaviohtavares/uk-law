@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 2 — THE EMPLOYMENT TRIBUNALS (NATIONAL SECURITY) RULES OF PROCEDURE[^key-6c0d789f704308268f6c3ccfc73c977d]
+## SCHEDULE 2 — THE EMPLOYMENT TRIBUNALS (NATIONAL SECURITY) RULES OF PROCEDURE[^c-6c0d789f704308268f6c3ccfc73c977d]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ Regulation 13(2)
 
 ## Annotations
 
-[^key-6c0d789f704308268f6c3ccfc73c977d]: Textual amendment: [Schs. 1-3](https://www.legislation.gov.uk/uksi/2013/1237/schedule/1) omitted (6.1.2025) by virtue of [The Employment Tribunals (Procedure Rules) (Consequential Amendments) Regulations 2024 (S.I. 2024/1156)](https://www.legislation.gov.uk/uksi/2024/1156), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1156/regulation/1/1), [4(7)](https://www.legislation.gov.uk/uksi/2024/1156/regulation/4/7)
+[^c-6c0d789f704308268f6c3ccfc73c977d]: Textual amendment: [Schs. 1-3](https://www.legislation.gov.uk/uksi/2013/1237/schedule/1) omitted (6.1.2025) by virtue of [The Employment Tribunals (Procedure Rules) (Consequential Amendments) Regulations 2024 (S.I. 2024/1156)](https://www.legislation.gov.uk/uksi/2024/1156), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1156/regulation/1/1), [4(7)](https://www.legislation.gov.uk/uksi/2024/1156/regulation/4/7)

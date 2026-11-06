@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Slavery and trafficking prevention orders on sentencing[^key-eda734986d4d08e1680315c320387852]
+## 14. Slavery and trafficking prevention orders on sentencing[^c-eda734986d4d08e1680315c320387852]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eda734986d4d08e1680315c320387852]: Commencement: S. 14 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/b)
+[^c-eda734986d4d08e1680315c320387852]: Commencement: S. 14 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/b)

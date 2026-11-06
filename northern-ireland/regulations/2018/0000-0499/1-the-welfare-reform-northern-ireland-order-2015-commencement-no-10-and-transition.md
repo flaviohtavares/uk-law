@@ -39,11 +39,11 @@ The Secretary of State for Work and Pensions makes the following Order in exerci
 
 Those powers are exercisable by the Secretary of State by virtue of Article 4(1)(a) and (b) of the Welfare Reform (Northern Ireland) Order 2015.
 
-## 1. Citation[^key-5aaf4c887515dce23e6046bc75a1b3e2]
+## 1. Citation[^c-5aaf4c887515dce23e6046bc75a1b3e2]
 
 This Order may be cited as the Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 10 and Transitional and Transitory Provisions and Commencement No. 9 and Transitional and Transitory Provisions (Amendment)) Order 2018.
 
-## 2. Interpretation[^key-e2acd69848ceb88a433545269a2f1b0f]
+## 2. Interpretation[^c-e2acd69848ceb88a433545269a2f1b0f]
 
 (1) In this Order—
 
@@ -90,7 +90,7 @@ This Order may be cited as the Welfare Reform (Northern Ireland) Order 2015 (Com
 
 a claim for an employment and support allowance or a jobseeker’s allowance is treated as made at a date earlier than the date on which the action referred to in paragraph (4)(a) is taken, the claim is treated as made on that earlier date.
 
-## 3. Day appointed for the coming into force of the universal credit provisions[^key-0ee59731a54bd53276b4ea4c537d14e6]
+## 3. Day appointed for the coming into force of the universal credit provisions[^c-0ee59731a54bd53276b4ea4c537d14e6]
 
 (1) The day appointed for the coming into force of the provisions of the 2015 Order listed in Schedule 1 to the No. 8 Order, in so far as they are not already in force, in relation to the case of a claim referred to in paragraph (2), and any award that is made in respect of the claim, is the day appointed in accordance with paragraph (3).
 
@@ -112,7 +112,7 @@ a claim for an employment and support allowance or a jobseeker’s allowance is 
 
 (5) Article 5 of the No. 8 Order applies in connection with a claim for universal credit where a single claimant, or, as the case may be, either or both of joint claimants, gives or give incorrect information regarding his or her (or their) residing in one of the No. 4, the No. 5, the No. 6, or the No. 7 relevant districts, as it applies in connection with the giving of incorrect information regarding a claimant residing in one of the No. 1 relevant districts (as defined in the No. 8 Order).
 
-## 4. Day appointed for the abolition of income-related employment and support allowance and income-based jobseeker’s allowance[^key-47257cd537a7528e3c515f11a18d0ac6]
+## 4. Day appointed for the abolition of income-related employment and support allowance and income-based jobseeker’s allowance[^c-47257cd537a7528e3c515f11a18d0ac6]
 
 (1) The day appointed for the coming into force of the amending provisions in relation to the case of a claim referred to in paragraph (2) and any award that is made in respect of such a claim, is the day appointed in accordance with paragraph (3).
 
@@ -135,7 +135,7 @@ a claim for an employment and support allowance or a jobseeker’s allowance is 
 
 (3) The day appointed in relation to the case of a claim referred to in paragraph (2), and any award that is made in respect of the claim, is the first day of the period in respect of which the claim is made.
 
-(4) For the purposes of paragraph (2)(j), “relevant period” means, in relation to a claim for universal credit within sub-paragraphs (a) to (e)[^key-179ea58041b2dda2c8af3369c37bd531] , any UC claim period, and any period subsequent to any UC claim period in respect of which the claimant is entitled to an award of universal credit in respect of the claim.
+(4) For the purposes of paragraph (2)(j), “relevant period” means, in relation to a claim for universal credit within sub-paragraphs (a) to (e)[^c-179ea58041b2dda2c8af3369c37bd531] , any UC claim period, and any period subsequent to any UC claim period in respect of which the claimant is entitled to an award of universal credit in respect of the claim.
 
 (5) For the purposes of paragraph (4), a “UC claim period” is a period when—
 
@@ -150,15 +150,15 @@ a claim for an employment and support allowance or a jobseeker’s allowance is 
 
 (8) Article 7(8) of the No. 8 Order applies for the purposes of paragraph (3) as it applies for the purposes of Article 6(3) of the No. 8 Order.
 
-## 5. Application of the No. 8 Order[^key-d9ff97bf35a442e0b25bb06c6ee2331d]
+## 5. Application of the No. 8 Order[^c-d9ff97bf35a442e0b25bb06c6ee2331d]
 
 Articles 10 to 23 of the No. 8 Order apply in connection with the coming into force of the amending provisions in relation to the case of a claim referred to in Article 4(2), and any award made in respect of the claim, as they apply in connection with the coming into force of the amending provisions in relation to the case of a claim referred to in Article 6(2) of the No. 8 Order and any award made in respect of the claim.
 
-## 6. Transitional provision: claims for housing benefit, income support or a tax credit[^key-84e8e2a896a1c7db9b411a5b365d6690]
+## 6. Transitional provision: claims for housing benefit, income support or a tax credit[^c-84e8e2a896a1c7db9b411a5b365d6690]
 
 Article 24 of the No. 8 Order (prevention of claims for housing benefit, income support or a tax credit) applies as though the reference in paragraph (1) of that Article to Article 4(3) and (4)(a) of that Order included a reference to Article 3(1) and 2(a) to (d) of this Order.
 
-## 7. Amendment of the Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 9 and Transitional and Transitory Provisions) Order 2017[^key-0fd87586f89e8a60d8fcc8ec6e700e56]
+## 7. Amendment of the Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 9 and Transitional and Transitory Provisions) Order 2017[^c-0fd87586f89e8a60d8fcc8ec6e700e56]
 
 (1) The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 9 and Transitional and Transitory Provisions) Order 2017[^f00014] is amended in accordance with paragraphs (2) to (3).
 
@@ -333,9 +333,9 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00001]: Footnote: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006).
 
-[^key-5aaf4c887515dce23e6046bc75a1b3e2]: Commencement: Art. 1 in operation at made date
+[^c-5aaf4c887515dce23e6046bc75a1b3e2]: Commencement: Art. 1 in operation at made date
 
-[^key-e2acd69848ceb88a433545269a2f1b0f]: Commencement: Art. 2 in operation at made date
+[^c-e2acd69848ceb88a433545269a2f1b0f]: Commencement: Art. 2 in operation at made date
 
 [^f00002]: Footnote: [2007 c.2 (N.I)](https://www.legislation.gov.uk/nia/2007/2).
 
@@ -355,11 +355,11 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00010]: Footnote: Regulation 6(4ZA-4ZD) was inserted by regulation 2(5)(c) of [S.R. 2000 No. 365](https://www.legislation.gov.uk/nisr/2000/365) and amended by regulation 2(6)(d) of [S.R. 2009 No. 240](https://www.legislation.gov.uk/nisr/2009/240). Regulation 6(4A) was inserted by regulation 2(5)(c) of [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354) and substituted by regulation 3(4)(d) of [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156) and amended by regulation 2(4)(b)(i) and (ii) of [S.R. 2000 No. 365](https://www.legislation.gov.uk/nisr/2000/365), paragraph 2(4) of Schedule 2 to [S.R. 2001 No. 175](https://www.legislation.gov.uk/nisr/2001/175) and regulation 2(6)(e) of [S.R. 2009 No. 240](https://www.legislation.gov.uk/nisr/2009/240).
 
-[^key-0ee59731a54bd53276b4ea4c537d14e6]: Commencement: Art. 3 in operation at made date
+[^c-0ee59731a54bd53276b4ea4c537d14e6]: Commencement: Art. 3 in operation at made date
 
-[^key-47257cd537a7528e3c515f11a18d0ac6]: Commencement: Art. 4 in operation at made date
+[^c-47257cd537a7528e3c515f11a18d0ac6]: Commencement: Art. 4 in operation at made date
 
-[^key-179ea58041b2dda2c8af3369c37bd531]: Textual amendment: Words in [art. 4(4)](https://www.legislation.gov.uk/nisr/2018/1/article/4/4) substituted (19.7.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 12 and Transitional and Transitory Provisions and Commencement No. 9, 10 and 11 and Transitional and Transitory Provisions (Amendment)) Order 2018 (S.R. 2018/138)](https://www.legislation.gov.uk/nisr/2018/138), [art. 8](https://www.legislation.gov.uk/nisr/2018/138/article/8)
+[^c-179ea58041b2dda2c8af3369c37bd531]: Textual amendment: Words in [art. 4(4)](https://www.legislation.gov.uk/nisr/2018/1/article/4/4) substituted (19.7.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 12 and Transitional and Transitory Provisions and Commencement No. 9, 10 and 11 and Transitional and Transitory Provisions (Amendment)) Order 2018 (S.R. 2018/138)](https://www.legislation.gov.uk/nisr/2018/138), [art. 8](https://www.legislation.gov.uk/nisr/2018/138/article/8)
 
 [^f00011]: Footnote: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506).
 
@@ -367,10 +367,10 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00013]: Footnote: Commissioner means the Chief Social Security Commissioner or any other Social Security Commissioner and includes a tribunal of 2 or more Commissioners constituted under Article 16(7) of the Social Security (Northern Ireland) Order 1998.
 
-[^key-d9ff97bf35a442e0b25bb06c6ee2331d]: Commencement: Art. 5 in operation at made date
+[^c-d9ff97bf35a442e0b25bb06c6ee2331d]: Commencement: Art. 5 in operation at made date
 
-[^key-84e8e2a896a1c7db9b411a5b365d6690]: Commencement: Art. 6 in operation at made date
+[^c-84e8e2a896a1c7db9b411a5b365d6690]: Commencement: Art. 6 in operation at made date
 
-[^key-0fd87586f89e8a60d8fcc8ec6e700e56]: Commencement: Art. 7 in operation at made date
+[^c-0fd87586f89e8a60d8fcc8ec6e700e56]: Commencement: Art. 7 in operation at made date
 
 [^f00014]: Footnote: [S.R. 2017 No. 216 (C. 13)](https://www.legislation.gov.uk/nisr/2017/216).

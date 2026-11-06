@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86. Electronic delivery in postal administration proceedings – general[^key-c413b8cef970d8ceb1ff8aa1ec3f6023]
+## 86. Electronic delivery in postal administration proceedings – general[^c-c413b8cef970d8ceb1ff8aa1ec3f6023]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c413b8cef970d8ceb1ff8aa1ec3f6023]: Commencement: Rule 86 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-c413b8cef970d8ceb1ff8aa1ec3f6023]: Commencement: Rule 86 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

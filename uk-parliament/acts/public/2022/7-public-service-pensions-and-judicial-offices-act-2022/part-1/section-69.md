@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Meaning of “the election period”[^key-f02704cdd6b98bd470d043e41c783a7f][^key-db99837dac190d877f234751c1f30d77]
+## 69. Meaning of “the election period”[^c-f02704cdd6b98bd470d043e41c783a7f][^c-db99837dac190d877f234751c1f30d77]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f02704cdd6b98bd470d043e41c783a7f]: Commencement: S. 69 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-f02704cdd6b98bd470d043e41c783a7f]: Commencement: S. 69 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-db99837dac190d877f234751c1f30d77]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2022/7/section/69) in force at 4.7.2023 in so far as not already in force by [S.I. 2023/746](https://www.legislation.gov.uk/uksi/2023/746), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/746/regulation/2/a)
+[^c-db99837dac190d877f234751c1f30d77]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2022/7/section/69) in force at 4.7.2023 in so far as not already in force by [S.I. 2023/746](https://www.legislation.gov.uk/uksi/2023/746), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/746/regulation/2/a)

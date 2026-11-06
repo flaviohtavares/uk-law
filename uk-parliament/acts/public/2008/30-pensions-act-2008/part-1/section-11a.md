@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11A. Information to be given to pension schemes[^key-a02664c3c4a78b65955c68bba6826188]
+## 11A. Information to be given to pension schemes[^c-a02664c3c4a78b65955c68bba6826188]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ to the trustees or managers of the scheme (where the scheme is an occupational p
 
 ## Annotations
 
-[^key-a02664c3c4a78b65955c68bba6826188]: Textual amendment: [S. 11A](https://www.legislation.gov.uk/ukpga/2008/30/section/11A) inserted (29.4.2026) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 125(2)](https://www.legislation.gov.uk/ukpga/2026/22/section/125/2), [133(11)(c)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/c)
+[^c-a02664c3c4a78b65955c68bba6826188]: Textual amendment: [S. 11A](https://www.legislation.gov.uk/ukpga/2008/30/section/11A) inserted (29.4.2026) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 125(2)](https://www.legislation.gov.uk/ukpga/2026/22/section/125/2), [133(11)(c)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/c)

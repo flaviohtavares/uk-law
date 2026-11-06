@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 77. Duty of health body where pregnancy loss likely to occur[^key-e9766940d3b90037163561c1a2ec6340]
+## 77. Duty of health body where pregnancy loss likely to occur[^c-e9766940d3b90037163561c1a2ec6340]
 
 *Extent: S*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) If the relevant health body considers that it would be in the woman's best interests to do so, the relevant health body must give the woman an opportunity to decide—
 
-- (a) whether she wishes to make the arrangements for the remains of the fetus to be buried , cremated or hydrolysed[^key-2c9dd2b334df080e07fb4897be821860],
+- (a) whether she wishes to make the arrangements for the remains of the fetus to be buried , cremated or hydrolysed[^c-2c9dd2b334df080e07fb4897be821860],
 - (b) whether she wishes to authorise an individual of or over 16 years of age to make those arrangements—
   - (i) in a way specified by the woman, or
   - (ii) in a way specified by the body,
@@ -38,7 +38,7 @@ summary: ''
   - (i) as soon as practicable after the pregnancy ends, or
   - (ii) after the expiry of the 7-day period.
 
-(3) For the purposes of subsection (2)(c), the relevant health body must inform the woman if it would not be reasonably practicable for the body to arrange for the remains to be buried , cremated or hydrolysed[^key-9da85093103fbc7d01c335ab82eaadaa] in a particular way.
+(3) For the purposes of subsection (2)(c), the relevant health body must inform the woman if it would not be reasonably practicable for the body to arrange for the remains to be buried , cremated or hydrolysed[^c-9da85093103fbc7d01c335ab82eaadaa] in a particular way.
 
 (4) The relevant health body must keep a record of prescribed information.
 
@@ -51,8 +51,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e9766940d3b90037163561c1a2ec6340]: Commencement: S. 77 in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
+[^c-e9766940d3b90037163561c1a2ec6340]: Commencement: S. 77 in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
 
-[^key-2c9dd2b334df080e07fb4897be821860]: Textual amendment: Words in [s. 77(2)(a)](https://www.legislation.gov.uk/asp/2016/20/section/77/2/a) substituted (4.2.2026 for specified purposes, 2.3.2026 in so far as not already in force) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2)[(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/3), [sch. 2 para. 1(15)(a)](https://www.legislation.gov.uk/ssi/2026/50/schedule/2/paragraph/1/15/a)
+[^c-2c9dd2b334df080e07fb4897be821860]: Textual amendment: Words in [s. 77(2)(a)](https://www.legislation.gov.uk/asp/2016/20/section/77/2/a) substituted (4.2.2026 for specified purposes, 2.3.2026 in so far as not already in force) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2)[(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/3), [sch. 2 para. 1(15)(a)](https://www.legislation.gov.uk/ssi/2026/50/schedule/2/paragraph/1/15/a)
 
-[^key-9da85093103fbc7d01c335ab82eaadaa]: Textual amendment: Words in [s. 77(3)](https://www.legislation.gov.uk/asp/2016/20/section/77/3) substituted (4.2.2026 for specified purposes, 2.3.2026 in so far as not already in force) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2)[(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/3), [sch. 2 para. 1(15)(b)](https://www.legislation.gov.uk/ssi/2026/50/schedule/2/paragraph/1/15/b)
+[^c-9da85093103fbc7d01c335ab82eaadaa]: Textual amendment: Words in [s. 77(3)](https://www.legislation.gov.uk/asp/2016/20/section/77/3) substituted (4.2.2026 for specified purposes, 2.3.2026 in so far as not already in force) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2)[(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/3), [sch. 2 para. 1(15)(b)](https://www.legislation.gov.uk/ssi/2026/50/schedule/2/paragraph/1/15/b)

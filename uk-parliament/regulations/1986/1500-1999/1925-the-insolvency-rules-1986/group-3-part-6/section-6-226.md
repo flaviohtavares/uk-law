@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.226. General duty of existing trustee[^key-abb908c638eddc1a3ba019540adb84ac]
+## 6.226. General duty of existing trustee[^c-abb908c638eddc1a3ba019540adb84ac]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-abb908c638eddc1a3ba019540adb84ac]: Commencement: [Rule 6.226](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.226) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-abb908c638eddc1a3ba019540adb84ac]: Commencement: [Rule 6.226](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.226) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

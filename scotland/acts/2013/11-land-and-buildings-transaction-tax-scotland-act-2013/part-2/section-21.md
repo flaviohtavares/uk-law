@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Annuities etc.: chargeable consideration limited to 12 years' payments[^key-77d0346b327594a5b2dcb113af58bbf1]
+## 21. Annuities etc.: chargeable consideration limited to 12 years' payments[^c-77d0346b327594a5b2dcb113af58bbf1]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-77d0346b327594a5b2dcb113af58bbf1]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2013/11/section/21) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-77d0346b327594a5b2dcb113af58bbf1]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2013/11/section/21) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

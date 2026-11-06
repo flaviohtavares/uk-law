@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 117. Warrant to enter land[^key-c599ba9b2824c745e5f5e7985992fadb]
+## 117. Warrant to enter land[^c-c599ba9b2824c745e5f5e7985992fadb]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c599ba9b2824c745e5f5e7985992fadb]: Commencement: S. 117 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-c599ba9b2824c745e5f5e7985992fadb]: Commencement: S. 117 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

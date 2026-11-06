@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Register of interests[^key-cb3166471d8b89fc8f8c9f6c9915e04a][^key-34bf2638a33593b77efb02dc410c33e2][^key-be628288dac5cb92dbc808904a277d45]
+## 29. Register of interests[^c-cb3166471d8b89fc8f8c9f6c9915e04a][^c-34bf2638a33593b77efb02dc410c33e2][^c-be628288dac5cb92dbc808904a277d45]
 
 *Extent: E+W*
 
@@ -44,7 +44,7 @@ summary: ''
 
 (7) A parish council must, if it has a website, secure that its register is published on its website.
 
-(8) Subsections (5) to (7) are subject to sections 32(2) and 32A[^key-8e1ce4c31012a1c4adb13a942438a607].
+(8) Subsections (5) to (7) are subject to sections 32(2) and 32A[^c-8e1ce4c31012a1c4adb13a942438a607].
 
 (9) In this Chapter “**principal authority**”, in relation to a parish council, means—
 
@@ -56,10 +56,10 @@ summary: ''
 
 ## Annotations
 
-[^key-cb3166471d8b89fc8f8c9f6c9915e04a]: Commencement: S. 29 in force at 7.6.2012 for specified purposes by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/1463/article/2/c)
+[^c-cb3166471d8b89fc8f8c9f6c9915e04a]: Commencement: S. 29 in force at 7.6.2012 for specified purposes by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/1463/article/2/c)
 
-[^key-34bf2638a33593b77efb02dc410c33e2]: Commencement: S. 29 in force at 1.7.2012 in so far as not already in force by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 5(c)](https://www.legislation.gov.uk/uksi/2012/1463/article/5/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/1463/article/6), [7](https://www.legislation.gov.uk/uksi/2012/1463/article/7)) (as amended (3.7.2012) by [S.I. 2012/1714](https://www.legislation.gov.uk/uksi/2012/1714), art. 2)
+[^c-34bf2638a33593b77efb02dc410c33e2]: Commencement: S. 29 in force at 1.7.2012 in so far as not already in force by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 5(c)](https://www.legislation.gov.uk/uksi/2012/1463/article/5/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/1463/article/6), [7](https://www.legislation.gov.uk/uksi/2012/1463/article/7)) (as amended (3.7.2012) by [S.I. 2012/1714](https://www.legislation.gov.uk/uksi/2012/1714), art. 2)
 
-[^key-be628288dac5cb92dbc808904a277d45]: Modification: S. 29 modified (1.4.2018) by [The Sub-national Transport Body (Transport for the North) Regulations 2018 (S.I. 2018/103)](https://www.legislation.gov.uk/uksi/2018/103), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/1/2), [19(5)](https://www.legislation.gov.uk/uksi/2018/103/regulation/19/5)
+[^c-be628288dac5cb92dbc808904a277d45]: Modification: S. 29 modified (1.4.2018) by [The Sub-national Transport Body (Transport for the North) Regulations 2018 (S.I. 2018/103)](https://www.legislation.gov.uk/uksi/2018/103), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/1/2), [19(5)](https://www.legislation.gov.uk/uksi/2018/103/regulation/19/5)
 
-[^key-8e1ce4c31012a1c4adb13a942438a607]: Textual amendment: Words in [s. 29(8)](https://www.legislation.gov.uk/ukpga/2011/20/section/29/8) substituted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 65(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/65/3), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-8e1ce4c31012a1c4adb13a942438a607]: Textual amendment: Words in [s. 29(8)](https://www.legislation.gov.uk/ukpga/2011/20/section/29/8) substituted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 65(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/65/3), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

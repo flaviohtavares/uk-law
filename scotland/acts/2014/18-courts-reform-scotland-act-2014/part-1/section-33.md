@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Allocation of sheriffs and summary sheriffs to sheriff court districts[^key-333e697e7ba9e9a6860fda9e66281003]
+## 33. Allocation of sheriffs and summary sheriffs to sheriff court districts[^c-333e697e7ba9e9a6860fda9e66281003]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-333e697e7ba9e9a6860fda9e66281003]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2014/18/section/33) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-333e697e7ba9e9a6860fda9e66281003]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2014/18/section/33) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. List of assets of community value[^c2116499][^key-6ee84ee8ac662064f97aa18b256bf52a]
+## 87. List of assets of community value[^c2116499][^c-6ee84ee8ac662064f97aa18b256bf52a]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c2116499]: Commencement: S. 87 in force for specified purposes at Royal Assent see [s. 240(5)(f)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/f)
 
-[^key-6ee84ee8ac662064f97aa18b256bf52a]: Commencement: S. 87 in force at 21.9.2012 for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)
+[^c-6ee84ee8ac662064f97aa18b256bf52a]: Commencement: S. 87 in force at 21.9.2012 for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)

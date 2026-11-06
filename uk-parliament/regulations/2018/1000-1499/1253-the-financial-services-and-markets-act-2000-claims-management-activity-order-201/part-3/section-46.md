@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46. Cancellation of authorisation by the Regulator: appeal of decision[^key-f70f148f8fe9323dc0920f65648e5cbf][^key-acb54b41a288d72861b06d9b431275f5]
+## 46. Cancellation of authorisation by the Regulator: appeal of decision[^c-f70f148f8fe9323dc0920f65648e5cbf][^c-acb54b41a288d72861b06d9b431275f5]
 
 *Extent: E+W+S*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f70f148f8fe9323dc0920f65648e5cbf]: Commencement: Art. 46 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-f70f148f8fe9323dc0920f65648e5cbf]: Commencement: Art. 46 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-acb54b41a288d72861b06d9b431275f5]: Commencement: [Art. 46](https://www.legislation.gov.uk/uksi/2018/1253/article/46) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-acb54b41a288d72861b06d9b431275f5]: Commencement: [Art. 46](https://www.legislation.gov.uk/uksi/2018/1253/article/46) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)

@@ -31,7 +31,7 @@ summary: ''
 
 Environmental Protection, England And Wales
 
-The Pollution Prevention and Control (Designation of Energy Efficiency Directive) (England and Wales) Order 2015 (revoked)[^key-7b69acf9fc887fff594c0f2700cfb38b]
+The Pollution Prevention and Control (Designation of Energy Efficiency Directive) (England and Wales) Order 2015 (revoked)[^c-7b69acf9fc887fff594c0f2700cfb38b]
 
 Made
 
@@ -41,23 +41,23 @@ Coming into force
 
 20th March 2015
 
-[^key-7b69acf9fc887fff594c0f2700cfb38b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b69acf9fc887fff594c0f2700cfb38b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and application[^key-7b69acf9fc887fff594c0f2700cfb38b]
+## 1. Citation, commencement, extent and application[^c-7b69acf9fc887fff594c0f2700cfb38b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation[^key-7b69acf9fc887fff594c0f2700cfb38b]
+## 2. Designation[^c-7b69acf9fc887fff594c0f2700cfb38b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b69acf9fc887fff594c0f2700cfb38b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b69acf9fc887fff594c0f2700cfb38b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-7b69acf9fc887fff594c0f2700cfb38b]EXPLANATORY NOTE
+[^c-7b69acf9fc887fff594c0f2700cfb38b]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -69,4 +69,4 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 ## Annotations
 
-[^key-7b69acf9fc887fff594c0f2700cfb38b]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/816) revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 60](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/60); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7b69acf9fc887fff594c0f2700cfb38b]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/816) revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 60](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/60); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

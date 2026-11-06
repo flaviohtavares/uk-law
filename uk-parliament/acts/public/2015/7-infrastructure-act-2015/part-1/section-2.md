@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Areas and highways in an appointment[^key-4a298a38789225f5126afa841549414b]
+## 2. Areas and highways in an appointment[^c-4a298a38789225f5126afa841549414b]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ the Secretary of State becomes the highway authority for those highways (to the 
 
 ## Annotations
 
-[^key-4a298a38789225f5126afa841549414b]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2015/7/section/2) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-4a298a38789225f5126afa841549414b]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2015/7/section/2) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)

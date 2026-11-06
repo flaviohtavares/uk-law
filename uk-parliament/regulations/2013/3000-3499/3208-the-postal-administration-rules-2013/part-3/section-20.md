@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Postal administrator’s proposals[^key-e17dbfa59def8cb6c295b8f3739c63d2]
+## 20. Postal administrator’s proposals[^c-e17dbfa59def8cb6c295b8f3739c63d2]
 
 *Extent: E+W*
 
@@ -87,6 +87,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e17dbfa59def8cb6c295b8f3739c63d2]: Commencement: [Rule 20](https://www.legislation.gov.uk/uksi/2013/3208/rule/20) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-e17dbfa59def8cb6c295b8f3739c63d2]: Commencement: [Rule 20](https://www.legislation.gov.uk/uksi/2013/3208/rule/20) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
 
 [^f00010]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45); section 176A inserted by the Enterprise Act [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40), section 252.

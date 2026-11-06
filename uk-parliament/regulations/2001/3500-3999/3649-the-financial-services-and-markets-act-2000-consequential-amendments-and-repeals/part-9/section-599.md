@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 599. Construction of the 2000 Order—“relevant institution”[^key-c8f9e91536a0a04f47befd8df21026ca]
+## 599. Construction of the 2000 Order—“relevant institution”[^c-c8f9e91536a0a04f47befd8df21026ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8f9e91536a0a04f47befd8df21026ca]: Textual amendment: [Art. 599](https://www.legislation.gov.uk/uksi/2001/3649/article/599) revoked (2.7.2012) by [The Iraq (Asset-Freezing) Regulations 2012 (revoked) 2012 (S.I. 2012/1489)](https://www.legislation.gov.uk/uksi/2012/1489), [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1489/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/1489/schedule/2) (with [reg. 17](https://www.legislation.gov.uk/uksi/2012/1489/regulation/17))
+[^c-c8f9e91536a0a04f47befd8df21026ca]: Textual amendment: [Art. 599](https://www.legislation.gov.uk/uksi/2001/3649/article/599) revoked (2.7.2012) by [The Iraq (Asset-Freezing) Regulations 2012 (revoked) 2012 (S.I. 2012/1489)](https://www.legislation.gov.uk/uksi/2012/1489), [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1489/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/1489/schedule/2) (with [reg. 17](https://www.legislation.gov.uk/uksi/2012/1489/regulation/17))

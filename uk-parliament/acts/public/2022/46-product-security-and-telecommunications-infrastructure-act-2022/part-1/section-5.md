@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Types of product that may be relevant connectable products[^key-85d325b671ba2478124db6de545f1188][^key-690bb31f0b9de2ebcef8953a98ceb43d]
+## 5. Types of product that may be relevant connectable products[^c-85d325b671ba2478124db6de545f1188][^c-690bb31f0b9de2ebcef8953a98ceb43d]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,6 +57,6 @@ each of the input products is to be treated for the purposes of subsection (3) a
 
 ## Annotations
 
-[^key-85d325b671ba2478124db6de545f1188]: Commencement: S. 5 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-85d325b671ba2478124db6de545f1188]: Commencement: S. 5 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-690bb31f0b9de2ebcef8953a98ceb43d]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2022/46/section/5) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-690bb31f0b9de2ebcef8953a98ceb43d]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2022/46/section/5) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

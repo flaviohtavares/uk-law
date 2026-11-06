@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Evidence required by notice[^key-c40b4ba18434975c1ceb0596d3d1c7ac]
+## 145. Evidence required by notice[^c-c40b4ba18434975c1ceb0596d3d1c7ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) when the goods are imported into the United Kingdom;
 - (c) which customs procedure applies to the goods;
 - (d) the stage of a customs procedure reached in relation to the goods; or
-- (e) any other matter which enables HMRC to determine whether or not the EUCL continues or ceases to have effect in relation to the goods on or after IP completion day[^key-4f0525089669604566b960ef1082d1c9].
+- (e) any other matter which enables HMRC to determine whether or not the EUCL continues or ceases to have effect in relation to the goods on or after IP completion day[^c-4f0525089669604566b960ef1082d1c9].
 
 (2) HMRC must in, or with, the notification state by when compliance is required.
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c40b4ba18434975c1ceb0596d3d1c7ac]: Commencement: Reg. 145 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-c40b4ba18434975c1ceb0596d3d1c7ac]: Commencement: Reg. 145 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-4f0525089669604566b960ef1082d1c9]: Textual amendment: Words in reg. 145 substituted (31.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/2), [11(9)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/11/9); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-4f0525089669604566b960ef1082d1c9]: Textual amendment: Words in reg. 145 substituted (31.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/2), [11(9)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/11/9); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)

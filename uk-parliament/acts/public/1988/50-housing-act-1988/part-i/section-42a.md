@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42A. Information as to determination of rents in England[^key-43de83f41ffdb65f664abbf686834e17]
+## 42A. Information as to determination of rents in England[^c-43de83f41ffdb65f664abbf686834e17]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43de83f41ffdb65f664abbf686834e17]: Textual amendment: [S. 42A](https://www.legislation.gov.uk/ukpga/1988/50/section/42A) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 93](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/93) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-43de83f41ffdb65f664abbf686834e17]: Textual amendment: [S. 42A](https://www.legislation.gov.uk/ukpga/1988/50/section/42A) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 93](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/93) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

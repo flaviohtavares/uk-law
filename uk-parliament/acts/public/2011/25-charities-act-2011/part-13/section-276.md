@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 276. Notice of, and information about, s.275 resolution[^key-ed8b32464fe9310a30865bcb8ab0b7a1]
+## 276. Notice of, and information about, s.275 resolution[^c-ed8b32464fe9310a30865bcb8ab0b7a1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed8b32464fe9310a30865bcb8ab0b7a1]: Textual amendment: Ss. 267-280 omitted (7.3.2024) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2022/6/section/3/1), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2024/265/regulation/8))
+[^c-ed8b32464fe9310a30865bcb8ab0b7a1]: Textual amendment: Ss. 267-280 omitted (7.3.2024) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2022/6/section/3/1), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2024/265/regulation/8))

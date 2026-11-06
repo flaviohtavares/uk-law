@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66C. Information requests[^key-f533330f8cca071becf69eecef7ba5a9]
+## 66C. Information requests[^c-f533330f8cca071becf69eecef7ba5a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f533330f8cca071becf69eecef7ba5a9]: Textual amendment: S. 66C repealed (31.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 4 para. 34](https://www.legislation.gov.uk/ukpga/2011/20/schedule/4/paragraph/34), [Sch. 25 Pt. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/5); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 5(1)(a)](https://www.legislation.gov.uk/uksi/2012/57/article/5/1/a)[(c)](https://www.legislation.gov.uk/uksi/2012/57/article/5/1/c)[(2)(j)](https://www.legislation.gov.uk/uksi/2012/57/article/5/2/j) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [8](https://www.legislation.gov.uk/uksi/2012/57/article/8))
+[^c-f533330f8cca071becf69eecef7ba5a9]: Textual amendment: S. 66C repealed (31.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 4 para. 34](https://www.legislation.gov.uk/ukpga/2011/20/schedule/4/paragraph/34), [Sch. 25 Pt. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/5); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 5(1)(a)](https://www.legislation.gov.uk/uksi/2012/57/article/5/1/a)[(c)](https://www.legislation.gov.uk/uksi/2012/57/article/5/1/c)[(2)(j)](https://www.legislation.gov.uk/uksi/2012/57/article/5/2/j) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [8](https://www.legislation.gov.uk/uksi/2012/57/article/8))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Authorisation as respects child who dies 12 years of age or over by person with parental rights and responsibilities[^key-8778621a01eec39d42ee6c197fa0cd72]
+## 9. Authorisation as respects child who dies 12 years of age or over by person with parental rights and responsibilities[^c-8778621a01eec39d42ee6c197fa0cd72]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8778621a01eec39d42ee6c197fa0cd72]: Textual amendment: S. 9 repealed (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 15(3)](https://www.legislation.gov.uk/asp/2019/11/section/15/3), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-8778621a01eec39d42ee6c197fa0cd72]: Textual amendment: S. 9 repealed (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 15(3)](https://www.legislation.gov.uk/asp/2019/11/section/15/3), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)

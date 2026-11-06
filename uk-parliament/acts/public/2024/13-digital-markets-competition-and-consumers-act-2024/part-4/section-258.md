@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 258. Reminder notices[^key-b45315180c7cd46f2d3e587cfaed9204]
+## 258. Reminder notices[^c-b45315180c7cd46f2d3e587cfaed9204]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b45315180c7cd46f2d3e587cfaed9204]: Commencement: S. 258 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-b45315180c7cd46f2d3e587cfaed9204]: Commencement: S. 258 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)

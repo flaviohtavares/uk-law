@@ -31,10 +31,10 @@ summary: ''
 
 of 18 April 2001 concerning an Exchange of Letters amending point B of the Annex to the Agreement between the European Community and the Republic of Bulgaria on the reciprocal protection and control of wine names (notified under document number C(2001) 1080) (revoked)
 
-[^key-8de08b93fe0f8b9aba7315f1de124d24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8de08b93fe0f8b9aba7315f1de124d24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-8de08b93fe0f8b9aba7315f1de124d24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-8de08b93fe0f8b9aba7315f1de124d24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8de08b93fe0f8b9aba7315f1de124d24]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 4](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8de08b93fe0f8b9aba7315f1de124d24]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 4](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

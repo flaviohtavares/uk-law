@@ -22,8 +22,8 @@ summary: ''
 
 1. The master of a fishing vessel shall respect conditions and restrictions relating to the marking and identification of fishing vessels and their gear.
 
-2.[^key-30b6293434bf46bdf43cea663db1df72] A fisheries administration may make regulations specifying detailed rules for the marking and identification of fishing vessels and their gear.
+2.[^c-30b6293434bf46bdf43cea663db1df72] A fisheries administration may make regulations specifying detailed rules for the marking and identification of fishing vessels and their gear.
 
 ## Annotations
 
-[^key-30b6293434bf46bdf43cea663db1df72]: Textual amendment: [Art. 8(2)](https://www.legislation.gov.uk/eur/2009/1224/article/8/2) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [27(3)](https://www.legislation.gov.uk/uksi/2019/753/regulation/27/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-30b6293434bf46bdf43cea663db1df72]: Textual amendment: [Art. 8(2)](https://www.legislation.gov.uk/eur/2009/1224/article/8/2) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [27(3)](https://www.legislation.gov.uk/uksi/2019/753/regulation/27/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

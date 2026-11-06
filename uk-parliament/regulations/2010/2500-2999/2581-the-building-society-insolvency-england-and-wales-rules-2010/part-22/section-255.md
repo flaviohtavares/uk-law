@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 255. Notices[^key-9a40fbc9ec103f555ae01a383e4b685d]
+## 255. Notices[^c-9a40fbc9ec103f555ae01a383e4b685d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a40fbc9ec103f555ae01a383e4b685d]: Commencement: Rule 255 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-9a40fbc9ec103f555ae01a383e4b685d]: Commencement: Rule 255 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

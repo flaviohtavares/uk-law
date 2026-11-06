@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 115. Seal licence fees[^key-add1bc2e55dce924b299105cc06f8bb4]
+## 115. Seal licence fees[^c-add1bc2e55dce924b299105cc06f8bb4]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-add1bc2e55dce924b299105cc06f8bb4]: Commencement: [S. 115](https://www.legislation.gov.uk/asp/2010/5/section/115) in force at 1.9.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 3(b)](https://www.legislation.gov.uk/ssi/2010/230/article/3/b)
+[^c-add1bc2e55dce924b299105cc06f8bb4]: Commencement: [S. 115](https://www.legislation.gov.uk/asp/2010/5/section/115) in force at 1.9.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 3(b)](https://www.legislation.gov.uk/ssi/2010/230/article/3/b)

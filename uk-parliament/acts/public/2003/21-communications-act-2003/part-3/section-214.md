@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 214. Digital Channel 3 and Channel 5 licences[^key-8ffe19bf59151591077d8671ea315e3b]
+## 214. Digital Channel 3 and Channel 5 licences[^c-8ffe19bf59151591077d8671ea315e3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,10 +41,10 @@ are to be the same as in the case of, or of the specified part of, the service p
 - (a) must be a licence which continues in force, from the time from which it takes effect, until the end of the licensing period beginning or current at that time; and
 - (b) shall be renewable, on one or more occasions, under section 216.
 
-(6) For the purposes of subsection (5) a licensing period , in relation to a licence,[^key-5d0ef5a515e393cd97e653d2a5441da1] is—
+(6) For the purposes of subsection (5) a licensing period , in relation to a licence,[^c-5d0ef5a515e393cd97e653d2a5441da1] is—
 
-- (a) the period beginning with the commencement of this section and ending with the initial expiry date for that type of licence[^key-8865bf79e04524414e3f5f0f12c43803] ; or
-- (b) any subsequent period of ten years beginning with the end of the previous licensing period for that type of licence[^key-007d08b6023216bbb1579e9791851da2] .
+- (a) the period beginning with the commencement of this section and ending with the initial expiry date for that type of licence[^c-8865bf79e04524414e3f5f0f12c43803] ; or
+- (b) any subsequent period of ten years beginning with the end of the previous licensing period for that type of licence[^c-007d08b6023216bbb1579e9791851da2] .
 
 (7) The licence must contain the conditions that OFCOM consider appropriate for the purpose of performing their duty under section 263.
 
@@ -58,10 +58,10 @@ are to be the same as in the case of, or of the specified part of, the service p
 
 ## Annotations
 
-[^key-8ffe19bf59151591077d8671ea315e3b]: Commencement: S. 214 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-8ffe19bf59151591077d8671ea315e3b]: Commencement: S. 214 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-5d0ef5a515e393cd97e653d2a5441da1]: Textual amendment: Words in s. 214(6) inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 26(2)(a)](https://www.legislation.gov.uk/ukpga/2010/24/section/26/2/a), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
+[^c-5d0ef5a515e393cd97e653d2a5441da1]: Textual amendment: Words in s. 214(6) inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 26(2)(a)](https://www.legislation.gov.uk/ukpga/2010/24/section/26/2/a), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
 
-[^key-8865bf79e04524414e3f5f0f12c43803]: Textual amendment: Words in s. 214(6)(a) inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 26(2)(b)](https://www.legislation.gov.uk/ukpga/2010/24/section/26/2/b), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
+[^c-8865bf79e04524414e3f5f0f12c43803]: Textual amendment: Words in s. 214(6)(a) inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 26(2)(b)](https://www.legislation.gov.uk/ukpga/2010/24/section/26/2/b), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
 
-[^key-007d08b6023216bbb1579e9791851da2]: Textual amendment: Words in s. 214(6)(b) inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 26(2)(c)](https://www.legislation.gov.uk/ukpga/2010/24/section/26/2/c), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
+[^c-007d08b6023216bbb1579e9791851da2]: Textual amendment: Words in s. 214(6)(b) inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 26(2)(c)](https://www.legislation.gov.uk/ukpga/2010/24/section/26/2/c), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)

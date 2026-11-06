@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## P5. Periodical valuation of superannuation fund[^key-adf4adb27b2cf308a0532d72079a86fb]
+## P5. Periodical valuation of superannuation fund[^c-adf4adb27b2cf308a0532d72079a86fb]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-adf4adb27b2cf308a0532d72079a86fb]: Commencement: [Reg. P5](https://www.legislation.gov.uk/uksi/1986/24/regulation/P5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-adf4adb27b2cf308a0532d72079a86fb]: Commencement: [Reg. P5](https://www.legislation.gov.uk/uksi/1986/24/regulation/P5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

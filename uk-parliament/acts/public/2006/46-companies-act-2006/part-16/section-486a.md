@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 486A. Defective appointments: default power of Secretary of State[^M_C_03e7db03-86e6-477c-b28b-5e3854e6aa70][^key-15ce4de5cd0d77689119692b1c96d721]
+## 486A. Defective appointments: default power of Secretary of State[^M_C_03e7db03-86e6-477c-b28b-5e3854e6aa70][^c-15ce4de5cd0d77689119692b1c96d721]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ the Secretary of State may appoint another auditor or auditors in place of the a
 
 [^M_C_03e7db03-86e6-477c-b28b-5e3854e6aa70]: Modification: S. 486A applied (with modifications) by S.I. 2008/565, reg. 6(1)(1A) (as substituted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/6/a) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7)))
 
-[^key-15ce4de5cd0d77689119692b1c96d721]: Textual amendment: S. 486A inserted (with effect in accordance with reg. 2(3) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2017/1164/schedule/1/paragraph/16) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+[^c-15ce4de5cd0d77689119692b1c96d721]: Textual amendment: S. 486A inserted (with effect in accordance with reg. 2(3) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2017/1164/schedule/1/paragraph/16) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))

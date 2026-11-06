@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. The general duty, improvement objectives and consultation: guidance[^key-75e30cb92d1e9221f25b6751cfb7e50c]
+## 6. The general duty, improvement objectives and consultation: guidance[^c-75e30cb92d1e9221f25b6751cfb7e50c]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ a Welsh improvement authority must have regard to any guidance issued by the Wel
 
 ## Annotations
 
-[^key-75e30cb92d1e9221f25b6751cfb7e50c]: Commencement: [S. 6](https://www.legislation.gov.uk/mwa/2009/2/section/6) in force at 17.7.2009 by [S.I. 2009/1796](https://www.legislation.gov.uk/wsi/2009/1796), [art. 2(e)](https://www.legislation.gov.uk/wsi/2009/1796/article/2/e)
+[^c-75e30cb92d1e9221f25b6751cfb7e50c]: Commencement: [S. 6](https://www.legislation.gov.uk/mwa/2009/2/section/6) in force at 17.7.2009 by [S.I. 2009/1796](https://www.legislation.gov.uk/wsi/2009/1796), [art. 2(e)](https://www.legislation.gov.uk/wsi/2009/1796/article/2/e)

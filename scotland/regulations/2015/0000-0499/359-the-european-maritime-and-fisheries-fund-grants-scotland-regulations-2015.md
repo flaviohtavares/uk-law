@@ -52,7 +52,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 These Regulations make provision for a purpose mentioned in section 2(2) of the 1972 Act and it appears to the Scottish Ministers that it is expedient for references to the EU Regulations (as defined in regulation 2(1)) to be construed as references to those Regulations as amended from time to time.
 
-## 1. Citation, commencement and extent[^key-96d1000cdfd0c97083471a2041e55c0a]
+## 1. Citation, commencement and extent[^c-96d1000cdfd0c97083471a2041e55c0a]
 
 (1) These Regulations may be cited as the European Maritime and Fisheries Fund (Grants) (Scotland) Regulations 2015 and come into force on 30th November 2015.
 
@@ -60,7 +60,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 (3) So far as these Regulations extend beyond Scotland, they do so only as a matter of Scots law.
 
-## 2. Interpretation[^key-e0eb4d9ab268d5ac21990f96c44d1064]
+## 2. Interpretation[^c-e0eb4d9ab268d5ac21990f96c44d1064]
 
 (1) In these Regulations—
 
@@ -87,20 +87,20 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 - “relevant document” means any invoice, account, drawing, plan, technical specification or other document relating to the approved operation; and
 - “relevant operation” means an investment, project or action which is eligible for EU aid.
 
-(2) A reference in these Regulations to the EU Regulations, or to any of the instruments referred to in the definition of the EU Regulations, means a reference to the EU Regulations or that instrument as they or it had effect in EU law immediately before IP completion day[^key-2400cbae916017cfa941eb29b5e1ff22].
+(2) A reference in these Regulations to the EU Regulations, or to any of the instruments referred to in the definition of the EU Regulations, means a reference to the EU Regulations or that instrument as they or it had effect in EU law immediately before IP completion day[^c-2400cbae916017cfa941eb29b5e1ff22].
 
 (3) Except where the context otherwise requires, other expressions used in these Regulations have the meaning they bear in the EU Regulations.
 
 (4) A reference in these Regulations to anything done in writing includes an electronic communication as defined in section 15(1) of the Electronic Communications Act 2000[^f00006] which has been recorded and is consequently capable of being reproduced.
 
-## 3. Grants[^key-2504c15327cbf42cdf270f4538fcb50a]
+## 3. Grants[^c-2504c15327cbf42cdf270f4538fcb50a]
 
 Subject to the provisions of the EU Regulations and these Regulations, the Scottish Ministers may pay a grant to any person—
 
 - (a) who has applied for a grant; and
 - (b) whose application the Scottish Ministers have approved in respect of eligible expenditure incurred in connection with a relevant operation.
 
-## 4. Applications[^key-f2b9f0aae189dbe6d1fd4864d37f6b92]
+## 4. Applications[^c-f2b9f0aae189dbe6d1fd4864d37f6b92]
 
 (1) An application must be made in such form and manner and include such information as the Scottish Ministers may from time to time require.
 
@@ -108,7 +108,7 @@ Subject to the provisions of the EU Regulations and these Regulations, the Scott
 
 (3) An applicant must provide any further information and documents relating to the application as the Scottish Ministers may from time to time require.
 
-## 5. Determination of applications[^key-554d0a474767602c0cfd799fab3ab8a3]
+## 5. Determination of applications[^c-554d0a474767602c0cfd799fab3ab8a3]
 
 (1) Subject to the EU Regulations and these Regulations, the Scottish Ministers may—
 
@@ -139,13 +139,13 @@ Subject to the provisions of the EU Regulations and these Regulations, the Scott
 - (b) make a decision which either confirms their original decision or substitutes a different decision; and
 - (c) notify the applicant or beneficiary in writing of the decision under sub-paragraph (b).
 
-## 6. Claims for payment of grant[^key-0f996861d564d9d82c5587fc98197cf3]
+## 6. Claims for payment of grant[^c-0f996861d564d9d82c5587fc98197cf3]
 
 (1) Subject to paragraph (2) and to regulation 14, payment of a grant may be made to a beneficiary.
 
 (2) No grant is to be paid in respect of an approval unless the Scottish Ministers have been supplied with evidence which satisfies the Scottish Ministers that the amount of expenditure for which payment of a grant is claimed has been incurred by the beneficiary.
 
-## 7. Method of payment of grant[^key-c9d9c5fb41daa7777cb87ceb7e0d1c0e]
+## 7. Method of payment of grant[^c-c9d9c5fb41daa7777cb87ceb7e0d1c0e]
 
 Payments by way of grant may be made—
 
@@ -154,17 +154,17 @@ Payments by way of grant may be made—
 
 as the Scottish Ministers may reasonably determine, and any conditions in relation to any payment must be notified to the beneficiary in writing.
 
-## 8. Undertakings[^key-1e85069fab6c8380b115a6ffc7667e52]
+## 8. Undertakings[^c-1e85069fab6c8380b115a6ffc7667e52]
 
 A beneficiary must give the Scottish Ministers such undertakings as the Scottish Ministers consider appropriate for the purposes of these Regulations.
 
-## 9. Information[^key-39be5789de4b1132c578e587625e4ef3]
+## 9. Information[^c-39be5789de4b1132c578e587625e4ef3]
 
 (1) A beneficiary must supply the Scottish Ministers with such information in relation to an approved operation as the Scottish Ministers may from time to time reasonably require.
 
 (2) Where the Scottish Ministers require information under paragraph (1), the beneficiary must supply them with that information within such period as the Scottish Ministers may reasonably determine.
 
-## 10. Records[^key-9f62248ba3ef81240bf3fddaf1c407e8]
+## 10. Records[^c-9f62248ba3ef81240bf3fddaf1c407e8]
 
 (1) A beneficiary must—
 
@@ -178,11 +178,11 @@ A beneficiary must give the Scottish Ministers such undertakings as the Scottish
 
 (3) In determining in any case the date on which the control period expires, no account is to be taken of any time between the commencement and final determination of any proceedings brought under regulation 14 for the recovery of any grant paid in respect of that approved operation.
 
-## 11. Assistance to authorised officers[^key-bf3517214e2d343210d78614018e6039]
+## 11. Assistance to authorised officers[^c-bf3517214e2d343210d78614018e6039]
 
 Any beneficiary and any employee, servant or agent of a beneficiary must give to an authorised officer such assistance as the officer may reasonably require to exercise any power conferred on the officer by regulation 12.
 
-## 12. Powers of authorised officers[^key-6977bb1b4c34878d2d01d876a22dd6ed]
+## 12. Powers of authorised officers[^c-6977bb1b4c34878d2d01d876a22dd6ed]
 
 (1) An authorised officer may at all reasonable hours and on producing, if requested to do so, a duly authenticated document showing the authority of the officer, exercise the powers specified in this regulation for the purposes of—
 
@@ -222,7 +222,7 @@ and such powers are exercisable for those purposes in relation to any Scottish f
 - “relevant equipment” means any plant, machinery or other equipment for which a grant has been claimed or paid; and
 - “relevant premises” means any premises to which an approved operation relates or in which relevant documents or relevant equipment are retained or in which an authorised officer has reasonable grounds to believe such documents or equipment may be retained.
 
-## 13. Personal liability of authorised officers[^key-08e00faa07eef0cc6d856b570197d896]
+## 13. Personal liability of authorised officers[^c-08e00faa07eef0cc6d856b570197d896]
 
 (1) No authorised officer shall be personally liable in respect of any act—
 
@@ -240,7 +240,7 @@ if the authorised officer acted in the honest belief that these Regulations requ
 
 the enforcement authority which authorised the authorised officer may indemnify the authorised officer against the whole or part of any damages which that officer has been ordered to pay or any costs which that officer may have incurred if they are satisfied that that officer honestly believed that the act complained of was within the scope of that officer’s employment.
 
-## 14. Reduction, withholding and recovery of a grant[^key-bd37538ada113d60f9967436e17fe6cf]
+## 14. Reduction, withholding and recovery of a grant[^c-bd37538ada113d60f9967436e17fe6cf]
 
 (1) Subject to the provisions of this regulation, if, at any time after the Scottish Ministers have approved an application, it appears to them that—
 
@@ -264,13 +264,13 @@ the Scottish Ministers may revoke the approval in whole or in part or reduce or 
 - (b) afford the beneficiary the opportunity of making written representations within a reasonable time; and
 - (c) consider any representations.
 
-## 15. Interest[^key-54e0a5fcc6f2fa4aec89c9c9427c2560]
+## 15. Interest[^c-54e0a5fcc6f2fa4aec89c9c9427c2560]
 
 (1) Where the Scottish Ministers intend to recover on demand a grant in whole or in part in accordance with regulation 14, they may, in addition, recover interest on that amount at a rate of 1 per cent above the base lending rate of the Bank of England calculated on a daily basis for the period from the date of payment of the grant until the date of recovery.
 
 (2) In any proceedings for recovery under these Regulations, a certificate issued by the Scottish Ministers showing the rate or rates of interest, the amount of such interest recoverable and the period for which interest is calculated is, unless the contrary is shown, conclusive of those matters.
 
-## 16. Offences and penalties[^key-f15399c2558cdfd6cc2cbee79f7eb2eb]
+## 16. Offences and penalties[^c-f15399c2558cdfd6cc2cbee79f7eb2eb]
 
 (1) It is an offence for any person, for the purposes of obtaining a grant for themselves or any other person, knowingly or recklessly—
 
@@ -298,7 +298,7 @@ the Scottish Ministers may revoke the approval in whole or in part or reduce or 
 - (a) a certificate signed by or on behalf of the prosecutor, stating the date on which evidence sufficient in the opinion of the prosecutor to warrant the proceedings came to the knowledge of the prosecutor, is conclusive evidence of that fact; and
 - (b) a certificate stating that matter, and purporting to be signed by or on behalf of the prosecutor, is deemed to be so signed unless the contrary is proved.
 
-## 17. Offences by bodies corporate etc.[^key-4c353095bb6351d6dbda89b94979ccee]
+## 17. Offences by bodies corporate etc.[^c-4c353095bb6351d6dbda89b94979ccee]
 
 (1) Where—
 
@@ -317,7 +317,7 @@ the individual as well as the body corporate, Scottish partnership or unincorpor
 - (b) in relation to a Scottish partnership, a partner;
 - (c) in relation to an unincorporated association other than a Scottish partnership, a person who is concerned in the management or control of the association.
 
-## 18. Revocations and savings[^key-8974827a5f4f34011f8fe4318f63102d]
+## 18. Revocations and savings[^c-8974827a5f4f34011f8fe4318f63102d]
 
 (1) The following Regulations are revoked subject to the savings in paragraph (2)—
 
@@ -394,9 +394,9 @@ No Business and Regulatory Impact Assessment has been prepared in respect of the
 
 [^f00001]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) (“the 1998 Act”), Schedule 8, paragraph 15(3) (which was amended by section 27(4) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) (“the 2006 Act”). Section 2(2) was also amended by section 27(1)(a) of the 2006 Act and by the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7) (“the 2008 Act”), Schedule, Part 1. The functions conferred upon the Minister of the Crown under section 2(2), insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. Paragraph 1A of Schedule 2 was inserted by section 28 of the 2006 Act and was amended by the 2008 Act, Schedule, Part 1. The Scottish Ministers have been designated in regulation 3 of the Grants for Fishing and Aquaculture Industries Regulations 2015 ([S.I. 2015/1711](https://www.legislation.gov.uk/uksi/2015/1711)) as the intermediate body in Scotland for the purposes of Article 123 of the Common Provisions Regulation.
 
-[^key-96d1000cdfd0c97083471a2041e55c0a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/359/regulation/1) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
+[^c-96d1000cdfd0c97083471a2041e55c0a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/359/regulation/1) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
 
-[^key-e0eb4d9ab268d5ac21990f96c44d1064]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2015/359/regulation/2) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
+[^c-e0eb4d9ab268d5ac21990f96c44d1064]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2015/359/regulation/2) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
 
 [^f00002]: Footnote: OJ L 138, 13.5.2014, p.5.
 
@@ -406,45 +406,45 @@ No Business and Regulatory Impact Assessment has been prepared in respect of the
 
 [^f00005]: Footnote: OJ L 209, 16.7.2014, p.20.
 
-[^key-2400cbae916017cfa941eb29b5e1ff22]: Textual amendment: Words in reg. 2(2) substituted (31.12.2020) by [S.S.I. 2019/24](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [14](https://www.legislation.gov.uk/ssi/2019/24/regulation/14) (as substituted by [The Aquaculture and Fisheries (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/393)](https://www.legislation.gov.uk/ssi/2020/393), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/393/regulation/1/2), [5(4)](https://www.legislation.gov.uk/ssi/2020/393/regulation/5/4))
+[^c-2400cbae916017cfa941eb29b5e1ff22]: Textual amendment: Words in reg. 2(2) substituted (31.12.2020) by [S.S.I. 2019/24](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [14](https://www.legislation.gov.uk/ssi/2019/24/regulation/14) (as substituted by [The Aquaculture and Fisheries (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/393)](https://www.legislation.gov.uk/ssi/2020/393), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/393/regulation/1/2), [5(4)](https://www.legislation.gov.uk/ssi/2020/393/regulation/5/4))
 
 [^f00006]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), Schedule 17, paragraph 158.
 
-[^key-2504c15327cbf42cdf270f4538fcb50a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2015/359/regulation/3) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
+[^c-2504c15327cbf42cdf270f4538fcb50a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2015/359/regulation/3) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
 
-[^key-f2b9f0aae189dbe6d1fd4864d37f6b92]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2015/359/regulation/4) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
+[^c-f2b9f0aae189dbe6d1fd4864d37f6b92]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2015/359/regulation/4) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
 
-[^key-554d0a474767602c0cfd799fab3ab8a3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2015/359/regulation/5) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
+[^c-554d0a474767602c0cfd799fab3ab8a3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2015/359/regulation/5) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
 
-[^key-0f996861d564d9d82c5587fc98197cf3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2015/359/regulation/6) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
+[^c-0f996861d564d9d82c5587fc98197cf3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2015/359/regulation/6) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
 
-[^key-c9d9c5fb41daa7777cb87ceb7e0d1c0e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2015/359/regulation/7) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
+[^c-c9d9c5fb41daa7777cb87ceb7e0d1c0e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2015/359/regulation/7) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
 
-[^key-1e85069fab6c8380b115a6ffc7667e52]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2015/359/regulation/8) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
+[^c-1e85069fab6c8380b115a6ffc7667e52]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2015/359/regulation/8) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
 
-[^key-39be5789de4b1132c578e587625e4ef3]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2015/359/regulation/9) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
+[^c-39be5789de4b1132c578e587625e4ef3]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2015/359/regulation/9) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
 
-[^key-9f62248ba3ef81240bf3fddaf1c407e8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2015/359/regulation/10) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
+[^c-9f62248ba3ef81240bf3fddaf1c407e8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2015/359/regulation/10) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
 
-[^key-bf3517214e2d343210d78614018e6039]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2015/359/regulation/11) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
+[^c-bf3517214e2d343210d78614018e6039]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2015/359/regulation/11) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
 
-[^key-6977bb1b4c34878d2d01d876a22dd6ed]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2015/359/regulation/12) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
+[^c-6977bb1b4c34878d2d01d876a22dd6ed]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2015/359/regulation/12) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
 
 [^f00007]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-08e00faa07eef0cc6d856b570197d896]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2015/359/regulation/13) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
+[^c-08e00faa07eef0cc6d856b570197d896]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2015/359/regulation/13) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
 
-[^key-bd37538ada113d60f9967436e17fe6cf]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2015/359/regulation/14) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
+[^c-bd37538ada113d60f9967436e17fe6cf]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2015/359/regulation/14) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
 
-[^key-54e0a5fcc6f2fa4aec89c9c9427c2560]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2015/359/regulation/15) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
+[^c-54e0a5fcc6f2fa4aec89c9c9427c2560]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2015/359/regulation/15) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
 
-[^key-f15399c2558cdfd6cc2cbee79f7eb2eb]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2015/359/regulation/16) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
+[^c-f15399c2558cdfd6cc2cbee79f7eb2eb]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2015/359/regulation/16) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
 
 [^f00008]: Footnote: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46).
 
-[^key-4c353095bb6351d6dbda89b94979ccee]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2015/359/regulation/17) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
+[^c-4c353095bb6351d6dbda89b94979ccee]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2015/359/regulation/17) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
 
-[^key-8974827a5f4f34011f8fe4318f63102d]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2015/359/regulation/18) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
+[^c-8974827a5f4f34011f8fe4318f63102d]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2015/359/regulation/18) in force at 30.11.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/359/regulation/1/1)
 
 [^f00009]: Footnote: [S.S.I. 2007/307](https://www.legislation.gov.uk/ssi/2007/307), as amended by [S.S.I. 2010/323](https://www.legislation.gov.uk/ssi/2010/323) and [S.S.I. 2012/166](https://www.legislation.gov.uk/ssi/2012/166).
 

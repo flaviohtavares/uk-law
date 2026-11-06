@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — ORDERS REVOKED[^key-ecddc40bd6a7b5d3009412890043b779]
+## SCHEDULE 1 — ORDERS REVOKED[^c-ecddc40bd6a7b5d3009412890043b779]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ Article 2
 
 ## Annotations
 
-[^key-ecddc40bd6a7b5d3009412890043b779]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2870/schedule/1) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-ecddc40bd6a7b5d3009412890043b779]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2870/schedule/1) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

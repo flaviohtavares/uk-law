@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Scope of Part 2[^key-b0b96dd7dab13098695cfeb1bbdf712f]
+## 8. Scope of Part 2[^c-b0b96dd7dab13098695cfeb1bbdf712f]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0b96dd7dab13098695cfeb1bbdf712f]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2014/3/section/8) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-b0b96dd7dab13098695cfeb1bbdf712f]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2014/3/section/8) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

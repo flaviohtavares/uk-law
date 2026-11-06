@@ -24,7 +24,7 @@ summary: ''
 
 (2) An order under subsection (1) above declaring that an arrestment is invalid or has ceased to have effect shall not be subject to appeal.
 
-(3)[^key-deaaddee598f716092d5a25e24a7f9ea] The sheriff, on an application by the debtor, the creditor or the employer, may make an order determining any dispute as to the operation of an earnings arrestment.
+(3)[^c-deaaddee598f716092d5a25e24a7f9ea] The sheriff, on an application by the debtor, the creditor or the employer, may make an order determining any dispute as to the operation of an earnings arrestment.
 
 (4) Without prejudice to section 57(5) of this Act, the sheriff, when making an order under subsection (3) above, may order—
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-deaaddee598f716092d5a25e24a7f9ea]: Modification: S. 50(3) modified (1.4.2008) by [The Enforcement of Fines (Diligence) (Scotland) Regulations 2008 (S.S.I. 2008/104)](https://www.legislation.gov.uk/ssi/2008/104), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/104/regulation/1/1), [2(b)(i)](https://www.legislation.gov.uk/ssi/2008/104/regulation/2/b/i)
+[^c-deaaddee598f716092d5a25e24a7f9ea]: Modification: S. 50(3) modified (1.4.2008) by [The Enforcement of Fines (Diligence) (Scotland) Regulations 2008 (S.S.I. 2008/104)](https://www.legislation.gov.uk/ssi/2008/104), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/104/regulation/1/1), [2(b)(i)](https://www.legislation.gov.uk/ssi/2008/104/regulation/2/b/i)

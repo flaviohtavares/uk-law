@@ -31,7 +31,7 @@ Parks Regulation Act 1872
 
 An Act for the Regulation of the Royal Parks and Gardens.
 
-\[27th June 1872\][^c5680611][^c5680621][^c5680631][^key-e98922195e1fa232fa6d0fd1f5076359]
+\[27th June 1872\][^c5680611][^c5680621][^c5680631][^c-e98922195e1fa232fa6d0fd1f5076359]
 
 ## 1. Short title.
 
@@ -121,7 +121,7 @@ Nothing in this Act contained shall affect the Metropolitan Streets Act 1867, or
 
 [^c5680631]: Commencement: Act wholly in force at Royal Assent
 
-[^key-e98922195e1fa232fa6d0fd1f5076359]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/35-36/15) excluded (E.W.) (1.7.2005) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 162(1)](https://www.legislation.gov.uk/ukpga/2005/15/section/162/1), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8); [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(z)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/z)
+[^c-e98922195e1fa232fa6d0fd1f5076359]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/35-36/15) excluded (E.W.) (1.7.2005) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 162(1)](https://www.legislation.gov.uk/ukpga/2005/15/section/162/1), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8); [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(z)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/z)
 
 [^c5680641]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/Vict/35-36/15/section/2) repealed by [Parks Regulation (Amendment) Act 1926 (c. 36)](https://www.legislation.gov.uk/ukpga/1926/36), [Sch. Pt. I](https://www.legislation.gov.uk/ukpga/1926/36/schedule/part/I)
 

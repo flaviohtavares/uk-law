@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Sections 25 and 27: consequential amendments[^key-e2e3e4d8bf3318364ff6f23585bbdfca][^key-6310989d31c2b8ef31365289961968f2]
+## 28. Sections 25 and 27: consequential amendments[^c-e2e3e4d8bf3318364ff6f23585bbdfca][^c-6310989d31c2b8ef31365289961968f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -91,6 +91,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e2e3e4d8bf3318364ff6f23585bbdfca]: Commencement: S. 28 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-e2e3e4d8bf3318364ff6f23585bbdfca]: Commencement: S. 28 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-6310989d31c2b8ef31365289961968f2]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2023/29/section/28) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(s)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/s)
+[^c-6310989d31c2b8ef31365289961968f2]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2023/29/section/28) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(s)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/s)

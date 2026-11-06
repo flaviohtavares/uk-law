@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Interception in immigration detention facilities[^key-28304135e9dff41339854ca597545fa7]
+## 51. Interception in immigration detention facilities[^c-28304135e9dff41339854ca597545fa7]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28304135e9dff41339854ca597545fa7]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2016/25/section/51) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(p)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/p)
+[^c-28304135e9dff41339854ca597545fa7]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2016/25/section/51) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(p)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/p)

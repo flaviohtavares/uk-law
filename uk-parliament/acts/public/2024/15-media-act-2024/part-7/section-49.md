@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Penalties under Parts 3A and 3B of the Communications Act 2003[^key-337bd1d7d9bd709116e8840ba867c76b][^key-b476558ffc987f60ffa0d95f986f32a4]
+## 49. Penalties under Parts 3A and 3B of the Communications Act 2003[^c-337bd1d7d9bd709116e8840ba867c76b][^c-b476558ffc987f60ffa0d95f986f32a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-337bd1d7d9bd709116e8840ba867c76b]: Commencement: S. 49 not in force at Royal Assent, see [s. 55(3)(g)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/g)
+[^c-337bd1d7d9bd709116e8840ba867c76b]: Commencement: S. 49 not in force at Royal Assent, see [s. 55(3)(g)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/g)
 
-[^key-b476558ffc987f60ffa0d95f986f32a4]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2024/15/section/49) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(t)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/t)
+[^c-b476558ffc987f60ffa0d95f986f32a4]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2024/15/section/49) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(t)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/t)

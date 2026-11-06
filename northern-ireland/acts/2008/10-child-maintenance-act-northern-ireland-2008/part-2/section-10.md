@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Determination of applications for a variation[^key-0dd497d02071915496d765997aa0eb68][^key-1b9c8a6301ad7fd8a86a972e060d3447][^key-819e92447134b03a89f3481bbcc8713a]
+## 10. Determination of applications for a variation[^c-0dd497d02071915496d765997aa0eb68][^c-1b9c8a6301ad7fd8a86a972e060d3447][^c-819e92447134b03a89f3481bbcc8713a]
 
 *Extent: N.I.*
 
@@ -40,8 +40,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0dd497d02071915496d765997aa0eb68]: Commencement: S. 10 in operation at 10.12.2012 for specified purposes by [S.R. 2012/440](https://www.legislation.gov.uk/nisr/2012/440), [arts. 2(1)(a)](https://www.legislation.gov.uk/nisr/2012/440/article/2/1/a), [3](https://www.legislation.gov.uk/nisr/2012/440/article/3) (with [art. 4](https://www.legislation.gov.uk/nisr/2012/440/article/4)) (as modified (30.6.2014) by [S.R. 2014/194](https://www.legislation.gov.uk/nisr/2014/194), art. 4)
+[^c-0dd497d02071915496d765997aa0eb68]: Commencement: S. 10 in operation at 10.12.2012 for specified purposes by [S.R. 2012/440](https://www.legislation.gov.uk/nisr/2012/440), [arts. 2(1)(a)](https://www.legislation.gov.uk/nisr/2012/440/article/2/1/a), [3](https://www.legislation.gov.uk/nisr/2012/440/article/3) (with [art. 4](https://www.legislation.gov.uk/nisr/2012/440/article/4)) (as modified (30.6.2014) by [S.R. 2014/194](https://www.legislation.gov.uk/nisr/2014/194), art. 4)
 
-[^key-1b9c8a6301ad7fd8a86a972e060d3447]: Commencement: S. 10 in operation at 29.7.2013 for specified purposes by [S.R. 2013/201](https://www.legislation.gov.uk/nisr/2013/201), [arts. 2(1)(a)](https://www.legislation.gov.uk/nisr/2013/201/article/2/1/a), [3](https://www.legislation.gov.uk/nisr/2013/201/article/3) (with [art. 4](https://www.legislation.gov.uk/nisr/2013/201/article/4)) (as modified (30.6.2014) by [S.R. 2014/194](https://www.legislation.gov.uk/nisr/2014/194), art. 5)
+[^c-1b9c8a6301ad7fd8a86a972e060d3447]: Commencement: S. 10 in operation at 29.7.2013 for specified purposes by [S.R. 2013/201](https://www.legislation.gov.uk/nisr/2013/201), [arts. 2(1)(a)](https://www.legislation.gov.uk/nisr/2013/201/article/2/1/a), [3](https://www.legislation.gov.uk/nisr/2013/201/article/3) (with [art. 4](https://www.legislation.gov.uk/nisr/2013/201/article/4)) (as modified (30.6.2014) by [S.R. 2014/194](https://www.legislation.gov.uk/nisr/2014/194), art. 5)
 
-[^key-819e92447134b03a89f3481bbcc8713a]: Commencement: S. 10 in operation at 25.11.2013 in so far as not already in operation by [S.R. 2013/276](https://www.legislation.gov.uk/nisr/2013/276), [art. 2(a)](https://www.legislation.gov.uk/nisr/2013/276/article/2/a) (with [arts. 3-5](https://www.legislation.gov.uk/nisr/2013/276/article/3))
+[^c-819e92447134b03a89f3481bbcc8713a]: Commencement: S. 10 in operation at 25.11.2013 in so far as not already in operation by [S.R. 2013/276](https://www.legislation.gov.uk/nisr/2013/276), [art. 2(a)](https://www.legislation.gov.uk/nisr/2013/276/article/2/a) (with [arts. 3-5](https://www.legislation.gov.uk/nisr/2013/276/article/3))

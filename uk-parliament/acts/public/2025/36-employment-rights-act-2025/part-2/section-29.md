@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Collective redundancy: extended application of requirements[^key-5d048bb03d2c7e4be57e9eb5c69fd36e]
+## 29. Collective redundancy: extended application of requirements[^c-5d048bb03d2c7e4be57e9eb5c69fd36e]
 
 *Extent: E+W+S*
 
-(1)[^key-d0d6d1bb813603cd9ca2c1f55c4472c7] [Chapter 2](https://www.legislation.gov.uk/ukpga/1992/52/part/4/chapter/2) of [Part 4](https://www.legislation.gov.uk/ukpga/1992/52/part/4) of the [Trade Union and Labour Relations (Consolidation) Act 1992](https://www.legislation.gov.uk/ukpga/1992/52/contents) (procedure for handling redundancies) is amended as follows.
+(1)[^c-d0d6d1bb813603cd9ca2c1f55c4472c7] [Chapter 2](https://www.legislation.gov.uk/ukpga/1992/52/part/4/chapter/2) of [Part 4](https://www.legislation.gov.uk/ukpga/1992/52/part/4) of the [Trade Union and Labour Relations (Consolidation) Act 1992](https://www.legislation.gov.uk/ukpga/1992/52/contents) (procedure for handling redundancies) is amended as follows.
 
-(2)[^key-2a08a39c85936b85177d9299b9f8df86] In [section 188](https://www.legislation.gov.uk/ukpga/1992/52/section/188) (duty of employer to consult representatives)—
+(2)[^c-2a08a39c85936b85177d9299b9f8df86] In [section 188](https://www.legislation.gov.uk/ukpga/1992/52/section/188) (duty of employer to consult representatives)—
 
 - (a) before [subsection (1)](https://www.legislation.gov.uk/ukpga/1992/52/section/188) insert—
 
@@ -52,7 +52,7 @@ summary: ''
 
     .
 
-(3)[^key-2a08a39c85936b85177d9299b9f8df86] In [section 193](https://www.legislation.gov.uk/ukpga/1992/52/section/193) (duty of employer to notify Secretary of State of certain redundancies)—
+(3)[^c-2a08a39c85936b85177d9299b9f8df86] In [section 193](https://www.legislation.gov.uk/ukpga/1992/52/section/193) (duty of employer to notify Secretary of State of certain redundancies)—
 
 - (a) omit [subsection (1)](https://www.legislation.gov.uk/ukpga/1992/52/section/193);
 - (b) before [subsection (2)](https://www.legislation.gov.uk/ukpga/1992/52/section/193) insert—
@@ -79,12 +79,12 @@ summary: ''
 - (g) in [subsection (6)](https://www.legislation.gov.uk/ukpga/1992/52/section/193), omit “(1) or”;
 - (h) in [subsection (7)](https://www.legislation.gov.uk/ukpga/1992/52/section/193), for “(1)” substitute “(2)”.
 
-(4)[^key-2a08a39c85936b85177d9299b9f8df86] In [section 193A](https://www.legislation.gov.uk/ukpga/1992/52/section/193A) (redundancies of ships’ crew)—
+(4)[^c-2a08a39c85936b85177d9299b9f8df86] In [section 193A](https://www.legislation.gov.uk/ukpga/1992/52/section/193A) (redundancies of ships’ crew)—
 
 - (a) in [subsection (1)](https://www.legislation.gov.uk/ukpga/1992/52/section/193A)[(a)](https://www.legislation.gov.uk/ukpga/1992/52/section/193A), omit “193(1) or”;
 - (b) in [subsection (2)](https://www.legislation.gov.uk/ukpga/1992/52/section/193A), for “section 193(1) or (2)” substitute “section 193(2)”.
 
-(5)[^key-2a08a39c85936b85177d9299b9f8df86] After [section 195](https://www.legislation.gov.uk/ukpga/1992/52/section/195) insert—
+(5)[^c-2a08a39c85936b85177d9299b9f8df86] After [section 195](https://www.legislation.gov.uk/ukpga/1992/52/section/195) insert—
 
 > **195A. Construction of references to threshold number of employees**
 >
@@ -137,8 +137,8 @@ summary: ''
 
 ## Annotations
 
-[^key-5d048bb03d2c7e4be57e9eb5c69fd36e]: Commencement: S. 29 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-5d048bb03d2c7e4be57e9eb5c69fd36e]: Commencement: S. 29 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-d0d6d1bb813603cd9ca2c1f55c4472c7]: Commencement: [S. 29(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/29/1) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(14)(a)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/14/a)
+[^c-d0d6d1bb813603cd9ca2c1f55c4472c7]: Commencement: [S. 29(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/29/1) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(14)(a)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/14/a)
 
-[^key-2a08a39c85936b85177d9299b9f8df86]: Commencement: [S. 29(2)-(5)](https://www.legislation.gov.uk/ukpga/2025/36/section/29/2) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(14)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/14/b)
+[^c-2a08a39c85936b85177d9299b9f8df86]: Commencement: [S. 29(2)-(5)](https://www.legislation.gov.uk/ukpga/2025/36/section/29/2) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(14)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/14/b)

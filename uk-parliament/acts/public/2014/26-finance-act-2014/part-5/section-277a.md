@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 277A. Offences relating to stop notices[^key-1b933fc22bbedb5e2e6044247f31cddd]
+## 277A. Offences relating to stop notices[^c-1b933fc22bbedb5e2e6044247f31cddd]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b933fc22bbedb5e2e6044247f31cddd]: Textual amendment: [Ss. 227A](https://www.legislation.gov.uk/ukpga/2014/26/section/227A), [227B](https://www.legislation.gov.uk/ukpga/2014/26/section/227B) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 34(1)](https://www.legislation.gov.uk/ukpga/2024/3/section/34/1) (with [s. 34(3)](https://www.legislation.gov.uk/ukpga/2024/3/section/34/3)[(4)](https://www.legislation.gov.uk/ukpga/2024/3/section/34/4))
+[^c-1b933fc22bbedb5e2e6044247f31cddd]: Textual amendment: [Ss. 227A](https://www.legislation.gov.uk/ukpga/2014/26/section/227A), [227B](https://www.legislation.gov.uk/ukpga/2014/26/section/227B) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 34(1)](https://www.legislation.gov.uk/ukpga/2024/3/section/34/1) (with [s. 34(3)](https://www.legislation.gov.uk/ukpga/2024/3/section/34/3)[(4)](https://www.legislation.gov.uk/ukpga/2024/3/section/34/4))

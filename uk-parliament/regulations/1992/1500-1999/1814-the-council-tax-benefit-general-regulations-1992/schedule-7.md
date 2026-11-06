@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 70(3)
 
-**1.**[^key-fe09ecfb3de505383d4b59428dff46b3] A Review Board appointed by an authority listed in column (1) of the Table below shall consist of not less than three of the persons specified in relation to that authority in column (2) of that Table.
+**1.**[^c-fe09ecfb3de505383d4b59428dff46b3] A Review Board appointed by an authority listed in column (1) of the Table below shall consist of not less than three of the persons specified in relation to that authority in column (2) of that Table.
 
 **Table**
 
@@ -42,12 +42,12 @@ Regulation 70(3)
 
 [^f00129]
 
-**2.**[^key-74b0c0cce185d0a6592a019fa3166088] The members of a Review Board shall appoint one of their number to be the Chairman.
+**2.**[^c-74b0c0cce185d0a6592a019fa3166088] The members of a Review Board shall appoint one of their number to be the Chairman.
 
 ## Annotations
 
-[^key-fe09ecfb3de505383d4b59428dff46b3]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/uksi/1992/1814/schedule/7/paragraph/1) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-fe09ecfb3de505383d4b59428dff46b3]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/uksi/1992/1814/schedule/7/paragraph/1) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
 [^f00129]: Footnote: [1968 c. 16](https://www.legislation.gov.uk/ukpga/1968/16).
 
-[^key-74b0c0cce185d0a6592a019fa3166088]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/uksi/1992/1814/schedule/7/paragraph/2) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-74b0c0cce185d0a6592a019fa3166088]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/uksi/1992/1814/schedule/7/paragraph/2) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

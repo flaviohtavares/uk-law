@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 222B. Hub and spoke arrangements: sharing of data between different businesses[^key-f2ea0d2f96ff7130a21215337c5d82ea]
+## 222B. Hub and spoke arrangements: sharing of data between different businesses[^c-f2ea0d2f96ff7130a21215337c5d82ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ bear the meanings they bear in those provisions of the Data Protection Act 2018.
 
 ## Annotations
 
-[^key-f2ea0d2f96ff7130a21215337c5d82ea]: Textual amendment: [Regs. 222A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/222A), [222B](https://www.legislation.gov.uk/uksi/2012/1916/regulation/222B) inserted (1.10.2025) by [The Human Medicines (Amendments Relating to Hub and Spoke Dispensing etc.) Regulations 2025 (S.I. 2025/758)](https://www.legislation.gov.uk/uksi/2025/758), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/758/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2025/758/regulation/9)
+[^c-f2ea0d2f96ff7130a21215337c5d82ea]: Textual amendment: [Regs. 222A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/222A), [222B](https://www.legislation.gov.uk/uksi/2012/1916/regulation/222B) inserted (1.10.2025) by [The Human Medicines (Amendments Relating to Hub and Spoke Dispensing etc.) Regulations 2025 (S.I. 2025/758)](https://www.legislation.gov.uk/uksi/2025/758), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/758/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2025/758/regulation/9)

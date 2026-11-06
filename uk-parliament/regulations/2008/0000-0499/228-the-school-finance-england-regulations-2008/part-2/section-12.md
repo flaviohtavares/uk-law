@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Redetermination of schools budgets and individual schools budgets[^key-dff961bbf5708c5adb8602d725e2a584]
+## 12. Redetermination of schools budgets and individual schools budgets[^c-dff961bbf5708c5adb8602d725e2a584]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dff961bbf5708c5adb8602d725e2a584]: Commencement: Reg. 12 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-dff961bbf5708c5adb8602d725e2a584]: Commencement: Reg. 12 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)

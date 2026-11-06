@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 110. Notice to Bank of England of intention to vacate office[^key-d17ea64ac1aaa9da944ffe2abfe98c7c]
+## 110. Notice to Bank of England of intention to vacate office[^c-d17ea64ac1aaa9da944ffe2abfe98c7c]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d17ea64ac1aaa9da944ffe2abfe98c7c]: Commencement: Rule 110 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-d17ea64ac1aaa9da944ffe2abfe98c7c]: Commencement: Rule 110 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Schools of a particular description[^key-7ea30296031886b22aba08629b188eff]
+## 19. Schools of a particular description[^c-7ea30296031886b22aba08629b188eff]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ea30296031886b22aba08629b188eff]: Commencement: Reg. 19 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-7ea30296031886b22aba08629b188eff]: Commencement: Reg. 19 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)

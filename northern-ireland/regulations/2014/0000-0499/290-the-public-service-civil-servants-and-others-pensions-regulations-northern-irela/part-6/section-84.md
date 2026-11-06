@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 84. Option to commute part of pension[^key-72c41c43e0e9314701764ec4ce39cf80]
+## 84. Option to commute part of pension[^c-72c41c43e0e9314701764ec4ce39cf80]
 
 *Extent: N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-72c41c43e0e9314701764ec4ce39cf80]: Commencement: [Reg. 84](https://www.legislation.gov.uk/nisr/2014/290/regulation/84) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-72c41c43e0e9314701764ec4ce39cf80]: Commencement: [Reg. 84](https://www.legislation.gov.uk/nisr/2014/290/regulation/84) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
 [^f00055]: Footnote: Section 241 was amended by the Finance Act [2006 (c.25)](https://www.legislation.gov.uk/ukpga/2006/25) Schedule 21 paragraphs 2 and 9, the Finance Act [2007 (c.11)](https://www.legislation.gov.uk/ukpga/2007/11) Schedule 19 paragraphs 1 and 15 and the Finance Act [2011 (c.11)](https://www.legislation.gov.uk/ukpga/2011/11) Schedule 16 paragraphs 62 and 74
 

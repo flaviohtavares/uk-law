@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 126. Crown application[^key-fb212382305832b3a63ad10fe836594a]
+## 126. Crown application[^c-fb212382305832b3a63ad10fe836594a]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb212382305832b3a63ad10fe836594a]: Commencement: [S. 126](https://www.legislation.gov.uk/asp/2019/17/section/126) in force at 22.9.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-fb212382305832b3a63ad10fe836594a]: Commencement: [S. 126](https://www.legislation.gov.uk/asp/2019/17/section/126) in force at 22.9.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)

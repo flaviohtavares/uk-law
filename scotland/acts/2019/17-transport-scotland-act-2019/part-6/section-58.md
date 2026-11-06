@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Imposition of penalty charges[^key-b67d33d1d9cecdedabc3ac8a78d21eac][^key-3805f677cd4d7f12f6ae102b0a29c79a]
+## 58. Imposition of penalty charges[^c-b67d33d1d9cecdedabc3ac8a78d21eac][^c-3805f677cd4d7f12f6ae102b0a29c79a]
 
 *Extent: S*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b67d33d1d9cecdedabc3ac8a78d21eac]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2019/17/section/58) in force at 22.9.2023 for specified purposes by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-b67d33d1d9cecdedabc3ac8a78d21eac]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2019/17/section/58) in force at 22.9.2023 for specified purposes by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
 
-[^key-3805f677cd4d7f12f6ae102b0a29c79a]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2019/17/section/58) in force at 11.12.2023 in so far as not already in force by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-3805f677cd4d7f12f6ae102b0a29c79a]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2019/17/section/58) in force at 11.12.2023 in so far as not already in force by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)

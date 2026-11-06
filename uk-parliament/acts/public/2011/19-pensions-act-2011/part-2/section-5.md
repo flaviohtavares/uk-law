@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Earnings trigger for automatic enrolment and re-enrolment[^c2114359][^key-cf016714eb1ac78358192a41a22e8eb2]
+## 5. Earnings trigger for automatic enrolment and re-enrolment[^c2114359][^c-cf016714eb1ac78358192a41a22e8eb2]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 [^c2114359]: Commencement: [Pt. 2](https://www.legislation.gov.uk/ukpga/2011/19/part/2) (ss. 4-18) partly in force; [Pt. 2](https://www.legislation.gov.uk/ukpga/2011/19/part/2) (ss. 4-18) in force at 3.11.2011 in so far as it confers power to make subordinate legislation see [s. 38(1)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/1).
 
-[^key-cf016714eb1ac78358192a41a22e8eb2]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2011/19/section/5) in force at 30.6.2012 in so far as not already in force by [S.I. 2012/1681](https://www.legislation.gov.uk/uksi/2012/1681), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/1681/article/2/2/a)
+[^c-cf016714eb1ac78358192a41a22e8eb2]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2011/19/section/5) in force at 30.6.2012 in so far as not already in force by [S.I. 2012/1681](https://www.legislation.gov.uk/uksi/2012/1681), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/1681/article/2/2/a)

@@ -122,7 +122,7 @@ The several shares of any such money as aforesaid shall be paid to the persons e
 
 Any assignment, sale or contract of or relating to any such money as aforesaid, payable in respect of the services of any petty officer or seaman, non-commissioned officer of marines or marine, other than such as may be made or entered into under the authority of and in conformity with any such Order in Council, shall be void.
 
-### 16. Exemption from stamp duty.[^key-8ef68e2aab83785b4bd8ff013b0d89a4]
+### 16. Exemption from stamp duty.[^c-8ef68e2aab83785b4bd8ff013b0d89a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -239,7 +239,7 @@ Witness,
 
 [^c564126]: Textual amendment: Words in [s. 12](https://www.legislation.gov.uk/ukpga/Vict/27-28/24/section/12) repealed (19.11.1998) by [1998 c. 43](https://www.legislation.gov.uk/ukpga/1998/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1998/43/section/1/1), [Sch. 1 Pt. VIII](https://www.legislation.gov.uk/ukpga/1998/43/schedule/1/part/VIII)
 
-[^key-8ef68e2aab83785b4bd8ff013b0d89a4]: Textual amendment: [S. 16](https://www.legislation.gov.uk/ukpga/Vict/27-28/24/section/16) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-8ef68e2aab83785b4bd8ff013b0d89a4]: Textual amendment: [S. 16](https://www.legislation.gov.uk/ukpga/Vict/27-28/24/section/16) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c564129]: Modification: [S. 17](https://www.legislation.gov.uk/ukpga/Vict/27-28/24/section/17) amended by [Armed Forces Act 1981 (c. 55, SIF 7:1)](https://www.legislation.gov.uk/ukpga/1981/55), [s. 25](https://www.legislation.gov.uk/ukpga/1981/55/section/25)
 

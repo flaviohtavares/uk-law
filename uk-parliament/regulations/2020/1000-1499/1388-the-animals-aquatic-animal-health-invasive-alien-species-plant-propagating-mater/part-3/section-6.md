@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Commission [Decision 2008/392/EC](https://www.legislation.gov.uk/european/decision/2008/0392)[^key-d1aae0f62996d5b82d305f4eec255f56]
+## 6. Commission [Decision 2008/392/EC](https://www.legislation.gov.uk/european/decision/2008/0392)[^c-d1aae0f62996d5b82d305f4eec255f56]
 
 *Extent: E+W+S*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1aae0f62996d5b82d305f4eec255f56]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
+[^c-d1aae0f62996d5b82d305f4eec255f56]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)

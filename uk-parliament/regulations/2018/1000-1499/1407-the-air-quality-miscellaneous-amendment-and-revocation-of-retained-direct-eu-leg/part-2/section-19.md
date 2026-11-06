@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Decision 2017/302/EU establishing best available techniques (BAT) conclusions, under Directive 2010/75/EU of the European Parliament and of the Council, for the intensive rearing of poultry or pigs[^key-08d7a88ecf38bd92ef492d74aad5199f]
+## 19. Decision 2017/302/EU establishing best available techniques (BAT) conclusions, under Directive 2010/75/EU of the European Parliament and of the Council, for the intensive rearing of poultry or pigs[^c-08d7a88ecf38bd92ef492d74aad5199f]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08d7a88ecf38bd92ef492d74aad5199f]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-08d7a88ecf38bd92ef492d74aad5199f]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

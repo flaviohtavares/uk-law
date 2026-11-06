@@ -45,7 +45,7 @@ Coming into force
 
 The Welsh Ministers make the following Regulations in exercise of the powers conferred by sections 167A, 167B(2) and 210(7) of the Education Act 2002[^f00001] and sections 171(1) and (2) and 181(2) of the Education and Inspections Act 2006[^f00002].
 
-## 1. Title, commencement and interpretation[^key-ef0a58c07eec3faffc07caebeab4aba7]
+## 1. Title, commencement and interpretation[^c-ef0a58c07eec3faffc07caebeab4aba7]
 
 (1) The title of these Regulations is the Independent Schools (Prohibition on Participation in Management) (Wales) Regulations 2024 and they come into force on 14 February 2024.
 
@@ -53,12 +53,12 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 - “**the 2002 Act**” (“***Deddf 2002***”) means the Education Act 2002;
 - “**the 2006 Act**” (“***Deddf 2006***”) means the Education and Inspections Act 2006;
-- “[^key-23b8d22aaddcaf2fca05b5f57dd73fc3]**appropriate authority**” (“***awdurdod priodol***”) has the meaning given by section 167A(6)(b) of the 2002 Act;
+- “[^c-23b8d22aaddcaf2fca05b5f57dd73fc3]**appropriate authority**” (“***awdurdod priodol***”) has the meaning given by section 167A(6)(b) of the 2002 Act;
 - “**caution**” (“***rhybuddiad***”) has the meaning given by section 8A(2) of the Rehabilitation of Offenders Act 1974[^f00003];
 - “**independent school**” (“***ysgol annibynnol***”) has the meaning given by section 463 of the Education Act 1996[^f00004];
 - “**section 167A direction**” (“***cyfarwyddyd adran 167A***”) means a direction given under section 167A of the 2002 Act.
 
-## 2. Prescribed grounds for a section 167A direction[^key-f3dffbf2d538039ad49bc3b2d1cee329]
+## 2. Prescribed grounds for a section 167A direction[^c-f3dffbf2d538039ad49bc3b2d1cee329]
 
 (1) The prescribed grounds on which a section 167A direction may be given in respect of a person are that—
 
@@ -97,7 +97,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 (8) For the purposes of paragraph (7) P commits an offence under the law in force in a country outside the United Kingdom if P commits an act that is punishable under the law in force in that country however that act is described in that law.
 
-## 3. Procedure for giving a section 167A direction[^key-f7d6f2c96db8cfb101172b290bd0e7be]
+## 3. Procedure for giving a section 167A direction[^c-f7d6f2c96db8cfb101172b290bd0e7be]
 
 (1) Before giving a section 167A direction in respect of a person the appropriate authority must give the person the opportunity to make representations as to why the appropriate authority should not give the direction.
 
@@ -118,7 +118,7 @@ the appropriate authority may allow a further period of time that the appropriat
 
 (7) If a section 167A direction is given in respect of a person the appropriate authority must take all reasonable steps to notify the person of that fact.
 
-## 4. Cases in which the appropriate authority may vary or revoke a section 167A direction[^key-cd188dee4999f3f976c2bb7de3413c42]
+## 4. Cases in which the appropriate authority may vary or revoke a section 167A direction[^c-cd188dee4999f3f976c2bb7de3413c42]
 
 The prescribed cases in which the appropriate authority may vary or revoke a section 167A direction are where—
 
@@ -128,7 +128,7 @@ The prescribed cases in which the appropriate authority may vary or revoke a sec
 
 and the appropriate authority considers that it is appropriate to vary or revoke the direction.
 
-## 5. Grounds on which variation or revocation of a section 167A direction may be sought[^key-9edfa27f30fb8d8bf4c1a2b558bbbb8d]
+## 5. Grounds on which variation or revocation of a section 167A direction may be sought[^c-9edfa27f30fb8d8bf4c1a2b558bbbb8d]
 
 (1) The prescribed grounds on which a person subject to a section 167A direction may seek to have it varied or revoked are that—
 
@@ -143,7 +143,7 @@ and the appropriate authority considers that it is appropriate to vary or revoke
 
 (3) For the purposes of this regulation a section 167A direction is given on the grounds of a conviction, caution, finding or conduct if the ground in regulation 2(1) is met by virtue of the conviction, caution, finding or conduct (as the case may be).
 
-## 6. Appeals: restriction on First-tier Tribunal’s power to entertain appeal[^key-7c1e5d05589e4dfe5536a9fe0904d6af]
+## 6. Appeals: restriction on First-tier Tribunal’s power to entertain appeal[^c-7c1e5d05589e4dfe5536a9fe0904d6af]
 
 (1) This regulation applies in relation to a section 167A direction which is given on the grounds of a conviction for an offence.
 
@@ -151,7 +151,7 @@ and the appropriate authority considers that it is appropriate to vary or revoke
 
 (3) For the purposes of paragraph (1) a section 167A direction is given on the grounds of a conviction for an offence if the ground in regulation 2(1) is met by virtue of a conviction for the offence.
 
-## 7. Appeals: First-tier Tribunal’s powers[^key-2418183adc68a685a8a2adcc3e5153a7]
+## 7. Appeals: First-tier Tribunal’s powers[^c-2418183adc68a685a8a2adcc3e5153a7]
 
 (1) This regulation applies where—
 
@@ -165,7 +165,7 @@ and the appropriate authority considers that it is appropriate to vary or revoke
 - (a) any information relevant to the decision to give a direction, or not to vary or revoke a direction, which the appropriate authority did not have at the time the decision was made;
 - (b) any evidence of a material change of circumstances of the person concerned occurring since the decision to give a direction or not to vary or revoke a direction was made.
 
-## 8. Directions given under section 142 of the 2002 Act[^key-02a726fb5393d2d9440079dca0cd92bc]
+## 8. Directions given under section 142 of the 2002 Act[^c-02a726fb5393d2d9440079dca0cd92bc]
 
 (1) The prescribed grounds for the purposes of section 171(1)(a) of the 2006 Act on which a direction under section 142 of the 2002 Act (prohibition from teaching, etc.)[^f00009] was given in respect of the person are grounds relating to the person’s misconduct.
 
@@ -207,15 +207,15 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: [2006 c. 40](https://www.legislation.gov.uk/ukpga/2006/40). Section 171 was amended by article 13(1) and (2)(f) of the Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 ([S.I. 2012/3006](https://www.legislation.gov.uk/uksi/2012/3006)) and paragraphs 37 and 40(2) of Schedule 1 to the Education and Skills Act [2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25). Section 181(2) was amended by section 23(3) of the Learner Travel (Wales) Measure [2008 (nawm 2)](https://www.legislation.gov.uk/mwa/2008/2).
 
-[^key-ef0a58c07eec3faffc07caebeab4aba7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2024/28/regulation/1) in force at 14.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/28/regulation/1/1)
+[^c-ef0a58c07eec3faffc07caebeab4aba7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2024/28/regulation/1) in force at 14.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/28/regulation/1/1)
 
-[^key-23b8d22aaddcaf2fca05b5f57dd73fc3]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/28/regulation/1/2) inserted (1.8.2025) by [The Amendments to Subordinate Legislation (Miscellaneous Corrections) (Wales) Regulations 2025 (S.I. 2025/805)](https://www.legislation.gov.uk/wsi/2025/805), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/805/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2025/805/regulation/9)
+[^c-23b8d22aaddcaf2fca05b5f57dd73fc3]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/28/regulation/1/2) inserted (1.8.2025) by [The Amendments to Subordinate Legislation (Miscellaneous Corrections) (Wales) Regulations 2025 (S.I. 2025/805)](https://www.legislation.gov.uk/wsi/2025/805), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/805/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2025/805/regulation/9)
 
 [^f00003]: Footnote: [1974 c. 53](https://www.legislation.gov.uk/ukpga/1974/53). Section 8A was inserted by section 49 of, and paragraphs 1 and 3 of Schedule 10 to, the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4). Subsection (2) of section 8A was amended by sections 135 and 141 of, and paragraphs 1 and 2 of Schedule 24 and paragraphs 1 and 8 of Schedule 25 to, the Legal Aid Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10) and section 119 of and paragraphs 1 and 2(b) of Schedule 11 to, the Police, Crime, Sentencing and Courts Act [2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32).
 
 [^f00004]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Section 463 was substituted by section 172 of the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32). Subsection (1) was amended by section 26 of, and paragraph 4 of Schedule 1 to the Additional Learning Needs and Education Tribunal (Wales) [Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2) and by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158) and [S.I. 2016/463 (W. 131)](https://www.legislation.gov.uk/wsi/2016/463). There are other amending instruments but none is relevant to these regulations.
 
-[^key-f3dffbf2d538039ad49bc3b2d1cee329]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2024/28/regulation/2) in force at 14.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/28/regulation/1/1)
+[^c-f3dffbf2d538039ad49bc3b2d1cee329]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2024/28/regulation/2) in force at 14.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/28/regulation/1/1)
 
 [^f00005]: Footnote: Sentencing Act [2020 c. 17](https://www.legislation.gov.uk/ukpga/2020/17).
 
@@ -223,18 +223,18 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00007]: Footnote: Schedule 2 was inserted by section 49 of, and paragraphs 1 and 6 of Schedule 10 to, the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4). Schedule 2 was amended by sections 119 and 193 of and paragraph 1 and 3 of Schedule 11 to the Police, Crime and Sentencing Courts Act [2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32) and sections 135 and 141 of, and paragraphs 1 and 3 of Schedule 24 to, the Legal Aid Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10).
 
-[^key-f7d6f2c96db8cfb101172b290bd0e7be]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2024/28/regulation/3) in force at 14.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/28/regulation/1/1)
+[^c-f7d6f2c96db8cfb101172b290bd0e7be]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2024/28/regulation/3) in force at 14.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/28/regulation/1/1)
 
-[^key-cd188dee4999f3f976c2bb7de3413c42]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2024/28/regulation/4) in force at 14.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/28/regulation/1/1)
+[^c-cd188dee4999f3f976c2bb7de3413c42]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2024/28/regulation/4) in force at 14.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/28/regulation/1/1)
 
-[^key-9edfa27f30fb8d8bf4c1a2b558bbbb8d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2024/28/regulation/5) in force at 14.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/28/regulation/1/1)
+[^c-9edfa27f30fb8d8bf4c1a2b558bbbb8d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2024/28/regulation/5) in force at 14.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/28/regulation/1/1)
 
 [^f00008]: Footnote: [S.I. 1975/1023](https://www.legislation.gov.uk/uksi/1975/1023), amended by [S.I. 2020/1373](https://www.legislation.gov.uk/uksi/2020/1373); there are other amending instruments, but none is relevant to these Regulations. “**Protected caution**” and “**protected conviction**” are defined in article 2A, which was inserted by articles 2 and 4 of the Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975 (Amendment) (England and Wales) Order 2013 ([S.I. 2013/1198](https://www.legislation.gov.uk/uksi/2013/1198)).
 
-[^key-7c1e5d05589e4dfe5536a9fe0904d6af]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2024/28/regulation/6) in force at 14.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/28/regulation/1/1)
+[^c-7c1e5d05589e4dfe5536a9fe0904d6af]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2024/28/regulation/6) in force at 14.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/28/regulation/1/1)
 
-[^key-2418183adc68a685a8a2adcc3e5153a7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2024/28/regulation/7) in force at 14.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/28/regulation/1/1)
+[^c-2418183adc68a685a8a2adcc3e5153a7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2024/28/regulation/7) in force at 14.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/28/regulation/1/1)
 
-[^key-02a726fb5393d2d9440079dca0cd92bc]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2024/28/regulation/8) in force at 14.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/28/regulation/1/1)
+[^c-02a726fb5393d2d9440079dca0cd92bc]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2024/28/regulation/8) in force at 14.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/28/regulation/1/1)
 
 [^f00009]: Footnote: Section 142 was repealed in part by section 63(2) of, and Schedule 10 to, the Safeguarding Vulnerable Groups Act 2006 on 12 October 2009. Article 4 of the Safeguarding Vulnerable Groups Act 2006 (Commencement No 6, Transitional Provisions and Savings) Order 2009 saves the operation of section 142 in relation to directions to prohibit persons from participating in the management of an independent school on grounds of misconduct.

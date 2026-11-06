@@ -46,7 +46,7 @@ Coming into force
 
 4th April 2005
 
-The Secretary of State, in exercise of the powers conferred upon him by section 22(5) and (7) of the Gender Recognition Act 2004 [^c11911271], hereby makes the following Order:[^key-e2020bcfc2678b766230acc3db76dbb2][^key-61e60c86d740a7ed84826ca219e81be5][^key-8570e971b7fe5f60392643979b9a4b56]
+The Secretary of State, in exercise of the powers conferred upon him by section 22(5) and (7) of the Gender Recognition Act 2004 [^c11911271], hereby makes the following Order:[^c-e2020bcfc2678b766230acc3db76dbb2][^c-61e60c86d740a7ed84826ca219e81be5][^c-8570e971b7fe5f60392643979b9a4b56]
 
 ## 1. Citation, commencement and extent
 
@@ -99,9 +99,9 @@ It is not an offence under section 22 of the Act to disclose protected informati
 
 - (a) a registered medical practitioner;
 - (b) a registered dentist within the meaning of section 53(1) of the Dentists Act 1984 [^c11911281];
-- (c) a pharmacist or a pharmacy technician registered in Part 1, 2, 4 or 5 of the register maintained under article 19 of the Pharmacy Order 2010[^key-908975263d63a301338c893d2b75e1a3] or a registered person within the meaning of article 2(2) of the Pharmacy (Northern Ireland) Order 1976 [^c11911301];
+- (c) a pharmacist or a pharmacy technician registered in Part 1, 2, 4 or 5 of the register maintained under article 19 of the Pharmacy Order 2010[^c-908975263d63a301338c893d2b75e1a3] or a registered person within the meaning of article 2(2) of the Pharmacy (Northern Ireland) Order 1976 [^c11911301];
 - (d) a registered nurse;
-- (e) a person who is registered under the Health Professions Order 2001[^key-53e2c82d10081c29667a6d94c06f04c3] as a paramedic or operating department practitioner;
+- (e) a person who is registered under the Health Professions Order 2001[^c-53e2c82d10081c29667a6d94c06f04c3] as a paramedic or operating department practitioner;
 - (f) a person working lawfully in a trainee capacity in any of the professions specified in this paragraph.
 
 ## 6. Credit reference agencies
@@ -114,7 +114,7 @@ It is not an offence under section 22 of the Act to disclose protected informati
 
 (2) It is not an offence under section 22 of the Act, when making a disclosure under paragraph (1), also to disclose protected information obtained from an electoral register.
 
-(3) “**Credit reference agency**” is to be read in accordance with[^key-28e9fa24e6a794a41bf3d4f7a49024e5] section 145(8) of the Consumer Credit Act 1974 [^c11911321].
+(3) “**Credit reference agency**” is to be read in accordance with[^c-28e9fa24e6a794a41bf3d4f7a49024e5] section 145(8) of the Consumer Credit Act 1974 [^c11911321].
 
 ## 7. Insolvency
 
@@ -156,21 +156,21 @@ This Order extends only to England and Wales and Northern Ireland.
 
 [^c11911271]: Marginal citation: [2004 c. 7](https://www.legislation.gov.uk/ukpga/2004/7).
 
-[^key-e2020bcfc2678b766230acc3db76dbb2]: Modification: Order applied (with modifications) (21.2.2009) by [The Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order 2009 (S.I. 2009/317)](https://www.legislation.gov.uk/uksi/2009/317), [arts. 1](https://www.legislation.gov.uk/uksi/2009/317/article/1), [3](https://www.legislation.gov.uk/uksi/2009/317/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/317/schedule)
+[^c-e2020bcfc2678b766230acc3db76dbb2]: Modification: Order applied (with modifications) (21.2.2009) by [The Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order 2009 (S.I. 2009/317)](https://www.legislation.gov.uk/uksi/2009/317), [arts. 1](https://www.legislation.gov.uk/uksi/2009/317/article/1), [3](https://www.legislation.gov.uk/uksi/2009/317/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/317/schedule)
 
-[^key-61e60c86d740a7ed84826ca219e81be5]: Modification: Order applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
+[^c-61e60c86d740a7ed84826ca219e81be5]: Modification: Order applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
 
-[^key-8570e971b7fe5f60392643979b9a4b56]: Modification: Order applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
+[^c-8570e971b7fe5f60392643979b9a4b56]: Modification: Order applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
 
 [^c11911281]: Marginal citation: [1984 c. 24](https://www.legislation.gov.uk/ukpga/1984/24).
 
-[^key-908975263d63a301338c893d2b75e1a3]: Textual amendment: Words in art. 5(3)(c) substituted (27.9.2010) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(5)](https://www.legislation.gov.uk/uksi/2010/231/article/1/5), [Sch. 4 para. 49](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/49) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/231/schedule/5)); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-908975263d63a301338c893d2b75e1a3]: Textual amendment: Words in art. 5(3)(c) substituted (27.9.2010) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(5)](https://www.legislation.gov.uk/uksi/2010/231/article/1/5), [Sch. 4 para. 49](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/49) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/231/schedule/5)); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^c11911301]: Marginal citation: ()[S.I. 1976/1213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1976/1213).
 
-[^key-53e2c82d10081c29667a6d94c06f04c3]: Textual amendment: Words in [art. 5(3)(e)](https://www.legislation.gov.uk/uksi/2005/916/article/5/3/e) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2019/1094/schedule/2/paragraph/21); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), reg. 2(b)
+[^c-53e2c82d10081c29667a6d94c06f04c3]: Textual amendment: Words in [art. 5(3)(e)](https://www.legislation.gov.uk/uksi/2005/916/article/5/3/e) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2019/1094/schedule/2/paragraph/21); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), reg. 2(b)
 
-[^key-28e9fa24e6a794a41bf3d4f7a49024e5]: Textual amendment: Words in art. 6(3) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 27](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/27)
+[^c-28e9fa24e6a794a41bf3d4f7a49024e5]: Textual amendment: Words in art. 6(3) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 27](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/27)
 
 [^c11911321]: Marginal citation: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39).
 

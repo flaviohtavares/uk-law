@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32Z5. Offences by bodies corporate etc.[^key-f578fda1228510e1bae36a8156034658]
+## 32Z5. Offences by bodies corporate etc.[^c-f578fda1228510e1bae36a8156034658]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ the individual (as well as the body corporate, partnership or, as the case may b
 
 ## Annotations
 
-[^key-f578fda1228510e1bae36a8156034658]: Textual amendment: S. 32Z5 and cross-heading inserted (S.) (1.5.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 81](https://www.legislation.gov.uk/asp/2014/14/section/81), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-f578fda1228510e1bae36a8156034658]: Textual amendment: S. 32Z5 and cross-heading inserted (S.) (1.5.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 81](https://www.legislation.gov.uk/asp/2014/14/section/81), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

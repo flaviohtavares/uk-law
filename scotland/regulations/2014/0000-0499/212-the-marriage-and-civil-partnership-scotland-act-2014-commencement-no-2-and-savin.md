@@ -50,7 +50,7 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred on them by section 36(2) and (3) of the Marriage and Civil Partnership (Scotland) Act 2014[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and interpretation[^key-596b4a836caf470ed345466c1cf8c200]
+## 1. Citation, commencement and interpretation[^c-596b4a836caf470ed345466c1cf8c200]
 
 (1) This Order may be cited as the Marriage and Civil Partnership (Scotland) Act 2014 (Commencement No. 2 and Saving Provisions) Order 2014 and comes into force on 1st September 2014.
 
@@ -61,19 +61,19 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 - “the 2014 Act” means the Marriage and Civil Partnership (Scotland) Act 2014;
 - “the GRA 2004” means the Gender Recognition Act 2004[^f00004].
 
-## 2. Appointed day[^key-42715383d6c47d3b03815dfda3586349]
+## 2. Appointed day[^c-42715383d6c47d3b03815dfda3586349]
 
 (1) Subject to article 3, the appointed day is 1st September 2014 for the provisions of the 2014 Act specified in column 1 of the Schedule (the subject matter of which is described in column 2 of the Schedule).
 
 (2) Where a purpose is specified in column 3 of the Schedule in relation to any provision, the provision comes into force on 1st September 2014 for that purpose only.
 
-## 3. Saving[^key-8667b44b89c9824e6447cbd1891b5865]
+## 3. Saving[^c-8667b44b89c9824e6447cbd1891b5865]
 
 (1) The Marriage (Prescription of Religious Bodies) (Scotland) Regulations 1977[^f00005] continue to have effect despite the coming into force on 1st September 2014, for the purposes specified in the Schedule, of section 12(2) of the 2014 Act.
 
 (2) The abolition of the common law offence of bigamy by section 28(3) of the 2014 Act does not apply to—
 
-- (a) any marriages or purported marriages entered into before 1st September 2014, and any prosecution in relation to such marriages or purported marriages where proceedings commence on[^key-1e89fe04696b3a12dfc3e91acffa45f4] or after that date; or
+- (a) any marriages or purported marriages entered into before 1st September 2014, and any prosecution in relation to such marriages or purported marriages where proceedings commence on[^c-1e89fe04696b3a12dfc3e91acffa45f4] or after that date; or
 - (b) any prosecution for the common law offence of bigamy where proceedings commenced before that date.
 
 ALEX NEIL
@@ -86,7 +86,7 @@ Edinburgh
 
 22nd July 2014
 
-## SCHEDULE[^key-c1e6dab1b44a8aa0c37ed577a7b8a1ab]
+## SCHEDULE[^c-c1e6dab1b44a8aa0c37ed577a7b8a1ab]
 
 Article 2
 
@@ -160,7 +160,7 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00001]: Footnote: [2014 asp 5](https://www.legislation.gov.uk/asp/2014/5).
 
-[^key-596b4a836caf470ed345466c1cf8c200]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2014/212/article/1) in force at 1.9.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/212/article/1/1)
+[^c-596b4a836caf470ed345466c1cf8c200]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2014/212/article/1) in force at 1.9.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/212/article/1/1)
 
 [^f00002]: Footnote: [1977 c.15](https://www.legislation.gov.uk/ukpga/1977/15).
 
@@ -168,12 +168,12 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00004]: Footnote: [2004 c.7](https://www.legislation.gov.uk/ukpga/2004/7).
 
-[^key-42715383d6c47d3b03815dfda3586349]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2) in force at 1.9.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/212/article/1/1)
+[^c-42715383d6c47d3b03815dfda3586349]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2) in force at 1.9.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/212/article/1/1)
 
-[^key-8667b44b89c9824e6447cbd1891b5865]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2014/212/article/3) in force at 1.9.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/212/article/1/1)
+[^c-8667b44b89c9824e6447cbd1891b5865]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2014/212/article/3) in force at 1.9.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/212/article/1/1)
 
 [^f00005]: Footnote: [S.I. 1977/1670](https://www.legislation.gov.uk/uksi/1977/1670). The Regulations were made under section 8(1)(a)(ii) of the Marriage (Scotland) Act 1977 which is amended by section 12(2) of the Marriage and Civil Partnership (Scotland) Act 2014.
 
-[^key-1e89fe04696b3a12dfc3e91acffa45f4]: Textual amendment: Word in [art. 3(2)(a)](https://www.legislation.gov.uk/ssi/2014/212/article/3/2/a) inserted (1.9.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 (Commencement No. 2 and Saving Provisions) Amendment Order 2014 (S.S.I. 2014/218)](https://www.legislation.gov.uk/ssi/2014/218), [arts. 1](https://www.legislation.gov.uk/ssi/2014/218/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2014/218/article/2/2)
+[^c-1e89fe04696b3a12dfc3e91acffa45f4]: Textual amendment: Word in [art. 3(2)(a)](https://www.legislation.gov.uk/ssi/2014/212/article/3/2/a) inserted (1.9.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 (Commencement No. 2 and Saving Provisions) Amendment Order 2014 (S.S.I. 2014/218)](https://www.legislation.gov.uk/ssi/2014/218), [arts. 1](https://www.legislation.gov.uk/ssi/2014/218/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2014/218/article/2/2)
 
-[^key-c1e6dab1b44a8aa0c37ed577a7b8a1ab]: Textual amendment: Sch. substituted (1.9.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 (Commencement No. 2 and Saving Provisions) Amendment Order 2014 (S.S.I. 2014/218)](https://www.legislation.gov.uk/ssi/2014/218), [art. 1](https://www.legislation.gov.uk/ssi/2014/218/article/1), [sch.](https://www.legislation.gov.uk/ssi/2014/218/schedule)
+[^c-c1e6dab1b44a8aa0c37ed577a7b8a1ab]: Textual amendment: Sch. substituted (1.9.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 (Commencement No. 2 and Saving Provisions) Amendment Order 2014 (S.S.I. 2014/218)](https://www.legislation.gov.uk/ssi/2014/218), [art. 1](https://www.legislation.gov.uk/ssi/2014/218/article/1), [sch.](https://www.legislation.gov.uk/ssi/2014/218/schedule)

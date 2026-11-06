@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83. Notional capital receipts[^key-db8dfe10a10c17b926f13b3c32f27e38]
+## 83. Notional capital receipts[^c-db8dfe10a10c17b926f13b3c32f27e38]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ there shall be deducted from the amount by which, apart from this regulation, th
 
 ## Annotations
 
-[^key-db8dfe10a10c17b926f13b3c32f27e38]: Commencement: Reg. 83 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-db8dfe10a10c17b926f13b3c32f27e38]: Commencement: Reg. 83 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Powers of intervention where shipping accident threatens pollution.[^key-319be5bc5d2850f849d0f67bd044d23a]
+## 2. Powers of intervention where shipping accident threatens pollution.[^c-319be5bc5d2850f849d0f67bd044d23a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-319be5bc5d2850f849d0f67bd044d23a]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1997/28/section/2) repealed (10.9.2003) by [Marine Safety Act 2003 (c. 16)](https://www.legislation.gov.uk/ukpga/2003/16), [s. 4](https://www.legislation.gov.uk/ukpga/2003/16/section/4), [Sch. 3](https://www.legislation.gov.uk/ukpga/2003/16/schedule/3)
+[^c-319be5bc5d2850f849d0f67bd044d23a]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1997/28/section/2) repealed (10.9.2003) by [Marine Safety Act 2003 (c. 16)](https://www.legislation.gov.uk/ukpga/2003/16), [s. 4](https://www.legislation.gov.uk/ukpga/2003/16/section/4), [Sch. 3](https://www.legislation.gov.uk/ukpga/2003/16/schedule/3)

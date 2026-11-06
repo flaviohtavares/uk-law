@@ -30,862 +30,862 @@ summary: ''
 
 Financial Services And Markets
 
-The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2017 *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2017 *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-Made *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+Made *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-28th March 2017 *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+28th March 2017 *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-Coming into force in accordance with article 1(2) *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+Coming into force in accordance with article 1(2) *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-The Treasury make the following Order in exercise of the powers conferred by sections 21(5), (9), (10) and (15), 22(1) and (5), 137D(1)(b), 419 and 428(3) of, and paragraph 25 of Schedule 2 to, the Financial Services and Markets Act 2000 *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00001].
+The Treasury make the following Order in exercise of the powers conferred by sections 21(5), (9), (10) and (15), 22(1) and (5), 137D(1)(b), 419 and 428(3) of, and paragraph 25 of Schedule 2 to, the Financial Services and Markets Act 2000 *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00001].
 
-In the opinion of the Treasury one of the effects of the following Order is that an activity which is not a regulated activity (within the meaning of the Financial Services and Markets Act 2000) will become a regulated activity. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+In the opinion of the Treasury one of the effects of the following Order is that an activity which is not a regulated activity (within the meaning of the Financial Services and Markets Act 2000) will become a regulated activity. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-In accordance with sections 137E(1)(a) and 429(1), (3) and (4) of, and paragraph 26(2) of Schedule 2 to, the Financial Services and Markets Act 2000, a draft of this Order was laid before Parliament and approved by a resolution of each House of Parliament. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^key-b3df2b38a0d7ee121e2ecf8320900aff]
+In accordance with sections 137E(1)(a) and 429(1), (3) and (4) of, and paragraph 26(2) of Schedule 2 to, the Financial Services and Markets Act 2000, a draft of this Order was laid before Parliament and approved by a resolution of each House of Parliament. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^c-b3df2b38a0d7ee121e2ecf8320900aff]
 
-## 1. Citation, commencement and interpretation (affected by repeal, see note)[^key-2929bdaf4988b94fdd0e25e357171465][^key-987cdd3766a1343a6a364dab7152ea80]
+## 1. Citation, commencement and interpretation (affected by repeal, see note)[^c-2929bdaf4988b94fdd0e25e357171465][^c-987cdd3766a1343a6a364dab7152ea80]
 
-(1) This Order may be cited as the Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2017. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(1) This Order may be cited as the Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2017. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(2) This Order comes into force— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(2) This Order comes into force— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-- (a) on 1st April 2017 for the purposes of— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-  - (i) enabling applications to be made for a Part 4A permission, for a variation of a Part 4A permission or for an approval under section 59 of the Act *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00002], or *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-  - (ii (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] enabling such applications to be determined, *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+- (a) on 1st April 2017 for the purposes of— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+  - (i) enabling applications to be made for a Part 4A permission, for a variation of a Part 4A permission or for an approval under section 59 of the Act *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00002], or *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+  - (ii (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] enabling such applications to be determined, *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-  in relation to any specified activity or any specified investment amended or inserted by this Order; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (b) on 1st April 2017 for the purposes of article 16; and *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (c) on 3rd January 2018 for all other purposes. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+  in relation to any specified activity or any specified investment amended or inserted by this Order; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (b) on 1st April 2017 for the purposes of article 16; and *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (c) on 3rd January 2018 for all other purposes. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(3) In this Order— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(3) In this Order— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-- “the Act” means the Financial Services and Markets Act 2000; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- “the Order” means the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00003].
+- “the Act” means the Financial Services and Markets Act 2000; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- “the Order” means the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00003].
 
-## 2. Amendments to article 3 of the Order: interpretation (affected by repeal, see note)[^key-722fdc8baf7c43633bc95db8322132c4][^key-987cdd3766a1343a6a364dab7152ea80]
+## 2. Amendments to article 3 of the Order: interpretation (affected by repeal, see note)[^c-722fdc8baf7c43633bc95db8322132c4][^c-987cdd3766a1343a6a364dab7152ea80]
 
-(1) Article 3(1) of the Order *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00004] (interpretation) is amended as follows. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(1) Article 3(1) of the Order *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00004] (interpretation) is amended as follows. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(2) In the definition of “the Commission Regulation” for “1287/2006 of 10 August 2006” substitute “Commission Delegated Regulation of 25.4.2016 supplementing *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^key-987cdd3766a1343a6a364dab7152ea80] of the European Parliament and of the Council as regards organisational requirements and operating conditions for investment firms and defined terms for the purposes of that Directive” *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00005].
+(2) In the definition of “the Commission Regulation” for “1287/2006 of 10 August 2006” substitute “Commission Delegated Regulation of 25.4.2016 supplementing *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^c-987cdd3766a1343a6a364dab7152ea80] of the European Parliament and of the Council as regards organisational requirements and operating conditions for investment firms and defined terms for the purposes of that Directive” *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00005].
 
-(3) In the definition of “credit institution”— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(3) In the definition of “credit institution”— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-- (a) in paragraph (a), for “(the text of which is set out in Schedule 3)” substitute “(the text of which is set out in Part 1 of Schedule 3) read with any directly applicable *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] EU *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] regulation made under Article 2.3 or 2.4 of the markets in financial instruments directive (and the text of Article 4 of the Commission Regulation is set out in Part 2 of Schedule 3)”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (b) in paragraph (b), after “markets in financial instruments directive” insert “read with any directly applicable *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] EU *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] regulation made under Article 2.3 or 2.4 of that directive”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+- (a) in paragraph (a), for “(the text of which is set out in Schedule 3)” substitute “(the text of which is set out in Part 1 of Schedule 3) read with any directly applicable *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] EU *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] regulation made under Article 2.3 or 2.4 of the markets in financial instruments directive (and the text of Article 4 of the Commission Regulation is set out in Part 2 of Schedule 3)”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (b) in paragraph (b), after “markets in financial instruments directive” insert “read with any directly applicable *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] EU *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] regulation made under Article 2.3 or 2.4 of that directive”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(4) In the definition of “financial instrument” for “Chapter *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] VI *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]” substitute “Articles 5 to 8, 10 and 11”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(4) In the definition of “financial instrument” for “Chapter *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] VI *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]” substitute “Articles 5 to 8, 10 and 11”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(5) In the definition of “home Member State” for “Article 4.1.20” substitute “Article 4.1.55(a)”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(5) In the definition of “home Member State” for “Article 4.1.20” substitute “Article 4.1.55(a)”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(6) In the definition of “investment firm”— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(6) In the definition of “investment firm”— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-- (a) in paragraph (a), for “(the text of which is set out in Schedule 3)” substitute “(the text of which is set out in Part 1 of Schedule 3) read with any directly applicable *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] EU *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] regulation made under Article 2.3 or 2.4 of the markets in financial instruments directive (and the text of Article 4 of the Commission Regulation is set out in Part 2 of Schedule 3)”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (b) in paragraph (c), after “that directive” insert “read with any directly applicable *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] EU *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] regulation made under Article 2.3 or 2.4 of the markets in financial instruments directive”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+- (a) in paragraph (a), for “(the text of which is set out in Schedule 3)” substitute “(the text of which is set out in Part 1 of Schedule 3) read with any directly applicable *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] EU *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] regulation made under Article 2.3 or 2.4 of the markets in financial instruments directive (and the text of Article 4 of the Commission Regulation is set out in Part 2 of Schedule 3)”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (b) in paragraph (c), after “that directive” insert “read with any directly applicable *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] EU *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] regulation made under Article 2.3 or 2.4 of the markets in financial instruments directive”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(7) In the definition of “investment services and activities”, in paragraph (a) for “Article 52 of Commission *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2006/73/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2006/0073)[^key-987cdd3766a1343a6a364dab7152ea80] of 10 August 2006” substitute “Article 9 of the Commission Regulation”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(7) In the definition of “investment services and activities”, in paragraph (a) for “Article 52 of Commission *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2006/73/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2006/0073)[^c-987cdd3766a1343a6a364dab7152ea80] of 10 August 2006” substitute “Article 9 of the Commission Regulation”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(8) In the definition of “market operator”— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(8) In the definition of “market operator”— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-- (a) for “Article 4.1.13” substitute “Article 4.1.18”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (b) in paragraph (a), for “(the text of which is set out in Schedule 3)” substitute “(the text of which is set out in Part 1 of Schedule 3) read with any directly applicable *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] EU *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] regulation made under Article 2.3 or 2.4 of the markets in financial instruments directive (and the text of Article 4 of the Commission Regulation is set out in Part 2 of Schedule 3)”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (c) in paragraph (b), after “that directive” insert “read with any directly applicable *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] EU *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] regulation made under Article 2.3 or 2.4 of the markets in financial instruments directive”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+- (a) for “Article 4.1.13” substitute “Article 4.1.18”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (b) in paragraph (a), for “(the text of which is set out in Schedule 3)” substitute “(the text of which is set out in Part 1 of Schedule 3) read with any directly applicable *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] EU *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] regulation made under Article 2.3 or 2.4 of the markets in financial instruments directive (and the text of Article 4 of the Commission Regulation is set out in Part 2 of Schedule 3)”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (c) in paragraph (b), after “that directive” insert “read with any directly applicable *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] EU *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] regulation made under Article 2.3 or 2.4 of the markets in financial instruments directive”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(9) In the definition of “multilateral trading facility” for “Article 4.1.15” in both places substitute “Article 4.1.22”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(9) In the definition of “multilateral trading facility” for “Article 4.1.15” in both places substitute “Article 4.1.22”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(10) In the definition of “overseas person” after “25D,” insert “25DA,”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(10) In the definition of “overseas person” after “25D,” insert “25DA,”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(11) In the definition of “security” after “82” insert “or by article 82B”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(11) In the definition of “security” after “82” insert “or by article 82B”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(12) At the appropriate places insert— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(12) At the appropriate places insert— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-> - “alternative investment fund managers directive” means *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2011/61/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2011/0061)[^key-987cdd3766a1343a6a364dab7152ea80] of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00006];
-> - “markets in financial instruments directive” means *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^key-987cdd3766a1343a6a364dab7152ea80] of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments (recast) *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00007];
-> - “markets in financial instruments regulation” means Regulation ( *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]EU *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00008];
-> - “organised trading facility” means— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->   - (a) an organised trading facility (within the meaning of Article 4.1.23 of the markets in financial instruments directive) operated by an investment firm, a credit institution or a market operator; or *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->   - (b) a facility which— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->     - (i) is operated by an investment firm, a credit institution or a market operator which does not have a home Member State; and *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->     - (ii) if its operator had a home Member State, would be an organised trading facility within the meaning of Article 4.1.23 of the markets in financial instruments directive; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - “structured deposit” means a deposit which is fully repayable at maturity on terms under which interest or a premium will be paid or is at risk, according to a formula involving factors such as— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->   - (a) an index or combination of indices, excluding variable rate deposits whose return is directly linked to an interest rate index such as Euribor or Libor; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->   - (b) a financial instrument or combination of financial instruments; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->   - (c) a commodity or combination of commodities or other physical or non-physical non-fungible assets; or *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->   - (d) a foreign exchange rate or combination of foreign exchange rates; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-
-.
-
-## 3. Organised trading facility (affected by repeal, see note)[^key-4527537f69895259aee4b1da6c154401][^key-987cdd3766a1343a6a364dab7152ea80]
-
-After article 25D of the Order *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00009] (operating a multilateral trading facility), insert— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-
-> **25DA (affected by repeal, see note). Operating an organised trading facility (affected by repeal, see note)[^key-987cdd3766a1343a6a364dab7152ea80][^key-987cdd3766a1343a6a364dab7152ea80]**
->
-> (1) The operation of an organised trading facility on which non-equity MiFID instruments are traded is a specified kind of activity. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> (2) In paragraph (1) a “non-equity MiFID instrument” means any investment— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> - (a) of the kind specified by article 77, 77A, 78, 79, 80, 81, 82B, 83, 84 or 85; or *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (b) of the kind specified by article 89 so far as relevant to an investment falling within sub-paragraph (a), *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> that is a bond, a structured finance product (within the meaning of Article 2.1.28 of the markets in financial instruments regulation *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00010]), an emission allowance, or a derivative (within the meaning of Article 2.1.29 of the markets in financial instruments regulation). *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+> - “alternative investment fund managers directive” means *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2011/61/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2011/0061)[^c-987cdd3766a1343a6a364dab7152ea80] of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00006];
+> - “markets in financial instruments directive” means *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^c-987cdd3766a1343a6a364dab7152ea80] of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments (recast) *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00007];
+> - “markets in financial instruments regulation” means Regulation ( *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]EU *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00008];
+> - “organised trading facility” means— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>   - (a) an organised trading facility (within the meaning of Article 4.1.23 of the markets in financial instruments directive) operated by an investment firm, a credit institution or a market operator; or *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>   - (b) a facility which— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>     - (i) is operated by an investment firm, a credit institution or a market operator which does not have a home Member State; and *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>     - (ii) if its operator had a home Member State, would be an organised trading facility within the meaning of Article 4.1.23 of the markets in financial instruments directive; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - “structured deposit” means a deposit which is fully repayable at maturity on terms under which interest or a premium will be paid or is at risk, according to a formula involving factors such as— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>   - (a) an index or combination of indices, excluding variable rate deposits whose return is directly linked to an interest rate index such as Euribor or Libor; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>   - (b) a financial instrument or combination of financial instruments; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>   - (c) a commodity or combination of commodities or other physical or non-physical non-fungible assets; or *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>   - (d) a foreign exchange rate or combination of foreign exchange rates; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
 .
 
-## 4. Structured deposits (affected by repeal, see note)[^key-a476f96165a9b305ea0ad3da98b12c1a][^key-987cdd3766a1343a6a364dab7152ea80]
+## 3. Organised trading facility (affected by repeal, see note)[^c-4527537f69895259aee4b1da6c154401][^c-987cdd3766a1343a6a364dab7152ea80]
 
-(1) In article 21(1) of the Order *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00011] (dealing in investments as agent), after “securities” insert “, structured deposits”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+After article 25D of the Order *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00009] (operating a multilateral trading facility), insert— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(2) In article 25 of the Order (arranging deals in investments)— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+> **25DA (affected by repeal, see note). Operating an organised trading facility (affected by repeal, see note)[^c-987cdd3766a1343a6a364dab7152ea80][^c-987cdd3766a1343a6a364dab7152ea80]**
+>
+> (1) The operation of an organised trading facility on which non-equity MiFID instruments are traded is a specified kind of activity. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> (2) In paragraph (1) a “non-equity MiFID instrument” means any investment— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> - (a) of the kind specified by article 77, 77A, 78, 79, 80, 81, 82B, 83, 84 or 85; or *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (b) of the kind specified by article 89 so far as relevant to an investment falling within sub-paragraph (a), *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> that is a bond, a structured finance product (within the meaning of Article 2.1.28 of the markets in financial instruments regulation *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00010]), an emission allowance, or a derivative (within the meaning of Article 2.1.29 of the markets in financial instruments regulation). *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-- (a) in paragraph (1)— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-  - (i) omit “or” at the end of sub-paragraph (b); *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-  - (ii (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] after sub-paragraph (c) insert— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+.
 
-    > , or *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+## 4. Structured deposits (affected by repeal, see note)[^c-a476f96165a9b305ea0ad3da98b12c1a][^c-987cdd3766a1343a6a364dab7152ea80]
+
+(1) In article 21(1) of the Order *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00011] (dealing in investments as agent), after “securities” insert “, structured deposits”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+(2) In article 25 of the Order (arranging deals in investments)— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+- (a) in paragraph (1)— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+  - (i) omit “or” at the end of sub-paragraph (b); *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+  - (ii (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] after sub-paragraph (c) insert— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+    > , or *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
     >
-    > - (d) a structured deposit, *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+    > - (d) a structured deposit, *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
     ;
-- (b) in paragraph (2), for “or (c)” substitute “, (c) or (d)”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+- (b) in paragraph (2), for “or (c)” substitute “, (c) or (d)”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(3) In article 37(a) of the Order (managing investments), after “security” insert “, structured deposit”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(3) In article 37(a) of the Order (managing investments), after “security” insert “, structured deposit”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(4) In article 53(1)(b)(i) of the Order (advising on investments) after “security” insert “, structured deposit”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(4) In article 53(1)(b)(i) of the Order (advising on investments) after “security” insert “, structured deposit”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-## 5. Amendments to article 72 of the Order: overseas persons (affected by repeal, see note)[^key-e2166a19cb357b939eebc55208c72406][^key-987cdd3766a1343a6a364dab7152ea80]
+## 5. Amendments to article 72 of the Order: overseas persons (affected by repeal, see note)[^c-e2166a19cb357b939eebc55208c72406][^c-987cdd3766a1343a6a364dab7152ea80]
 
-(1) Article 72 *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00012] of the Order (overseas persons) is amended as follows. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(1) Article 72 *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00012] of the Order (overseas persons) is amended as follows. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(2) In paragraphs (1), (2), (3) and (4) for “or 25D” substitute “, 25D or 25DA”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(2) In paragraphs (1), (2), (3) and (4) for “or 25D” substitute “, 25D or 25DA”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(3) After paragraph (10) insert— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(3) After paragraph (10) insert— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-> (11) This Article does not apply where the overseas person is— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+> (11) This Article does not apply where the overseas person is— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 >
-> - (a) a third-country firm, as defined by Article 4.1.57 (“definitions”) of the markets in financial instruments directive (“third country firm”); *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (b) established in a country subject to an equivalence decision; and *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (c) carrying on an activity a third country firm established in that third country may carry on by virtue of the equivalence decision under— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->   - (i) Article 46.1 of the markets in financial instruments regulation (general provisions) if it is registered by ESMA in the register of third country firms established in accordance with Article 48 of that Regulation (register); *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->   - (ii (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] Article 47.3 of the markets in financial instruments regulation (equivalence decision) if it has a branch in an *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] EEA *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] State other than the United Kingdom and is authorised in that State in accordance with Article 39 of the markets in financial instruments directive (establishment of a branch); or *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->   - (iii (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] Article 46.5 of the markets in financial instruments regulation. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+> - (a) a third-country firm, as defined by Article 4.1.57 (“definitions”) of the markets in financial instruments directive (“third country firm”); *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (b) established in a country subject to an equivalence decision; and *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (c) carrying on an activity a third country firm established in that third country may carry on by virtue of the equivalence decision under— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>   - (i) Article 46.1 of the markets in financial instruments regulation (general provisions) if it is registered by ESMA in the register of third country firms established in accordance with Article 48 of that Regulation (register); *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>   - (ii (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] Article 47.3 of the markets in financial instruments regulation (equivalence decision) if it has a branch in an *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] EEA *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] State other than the United Kingdom and is authorised in that State in accordance with Article 39 of the markets in financial instruments directive (establishment of a branch); or *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>   - (iii (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] Article 46.5 of the markets in financial instruments regulation. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 >
-> (12) For the purposes of paragraph (11)— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+> (12) For the purposes of paragraph (11)— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 >
-> - (a) “equivalence decision” means a decision adopted by the Commission in relation to a country under Article 47.1 of the markets in financial instruments regulation which has not been withdrawn by a subsequent decision adopted by the Commission under that Article; and *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (b) a country is subject to an equivalence decision if a period of more than three years has elapsed since the adoption of the decision by the Commission, beginning on the day after the date of the adoption of the decision. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+> - (a) “equivalence decision” means a decision adopted by the Commission in relation to a country under Article 47.1 of the markets in financial instruments regulation which has not been withdrawn by a subsequent decision adopted by the Commission under that Article; and *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (b) a country is subject to an equivalence decision if a period of more than three years has elapsed since the adoption of the decision by the Commission, beginning on the day after the date of the adoption of the decision. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
 .
 
-## 6. Emission allowances (affected by repeal, see note)[^key-bda5b6ef7dadefe4fc0e0e8116bde898][^key-987cdd3766a1343a6a364dab7152ea80]
+## 6. Emission allowances (affected by repeal, see note)[^c-bda5b6ef7dadefe4fc0e0e8116bde898][^c-987cdd3766a1343a6a364dab7152ea80]
 
-After article 82A of the Order *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00013] (greenhouse gas emissions allowances), insert— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+After article 82A of the Order *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00013] (greenhouse gas emissions allowances), insert— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-> **82B. Emission allowances (affected by repeal, see note)[^key-987cdd3766a1343a6a364dab7152ea80]**
+> **82B. Emission allowances (affected by repeal, see note)[^c-987cdd3766a1343a6a364dab7152ea80]**
 >
-> (1) Subject to paragraph (2), emission allowances consisting of any units recognised for compliance with the requirements of the emission allowance trading directive. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+> (1) Subject to paragraph (2), emission allowances consisting of any units recognised for compliance with the requirements of the emission allowance trading directive. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 >
-> (2) Paragraph (1) only applies to emission allowances in relation to which— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+> (2) Paragraph (1) only applies to emission allowances in relation to which— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 >
-> - (a) an investment firm or credit institution is providing or performing investment services and activities on a professional basis; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (b) a management company is providing, in accordance with Article 6.3 of the *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] UCITS *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] directive, the investment services specified in paragraph 4 or 5 of Section A, or the ancillary service specified in paragraph 1 of Section B, of Annex 1 to the markets in financial instruments directive; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (c) a market operator is providing the investment service specified in paragraph 8 or 9 of Section A of Annex 1 to the markets in financial instruments directive; or *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (d) an AIFM is providing, in accordance with Article 6.4 of the alternative investment fund managers directive the investment service specified in paragraph 1, 4 or 5 of Section A, or the ancillary service specified in paragraph 1 of Section B, of Annex I to the markets in financial instruments directive. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+> - (a) an investment firm or credit institution is providing or performing investment services and activities on a professional basis; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (b) a management company is providing, in accordance with Article 6.3 of the *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] UCITS *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] directive, the investment services specified in paragraph 4 or 5 of Section A, or the ancillary service specified in paragraph 1 of Section B, of Annex 1 to the markets in financial instruments directive; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (c) a market operator is providing the investment service specified in paragraph 8 or 9 of Section A of Annex 1 to the markets in financial instruments directive; or *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (d) an AIFM is providing, in accordance with Article 6.4 of the alternative investment fund managers directive the investment service specified in paragraph 1, 4 or 5 of Section A, or the ancillary service specified in paragraph 1 of Section B, of Annex I to the markets in financial instruments directive. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
 .
 
-## 7. Amendments to article 83 of the Order: options (affected by repeal, see note)[^key-1b21da7855511fe4985e2d12682fb3cf][^key-987cdd3766a1343a6a364dab7152ea80]
+## 7. Amendments to article 83 of the Order: options (affected by repeal, see note)[^c-1b21da7855511fe4985e2d12682fb3cf][^c-987cdd3766a1343a6a364dab7152ea80]
 
-(1) Article 83 of the Order *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00014] (options) is amended as follows. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(1) Article 83 of the Order *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00014] (options) is amended as follows. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(2) In paragraph (1)(e)— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(2) In paragraph (1)(e)— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-- (a) after “directive” insert “read with Articles 5, 6, 7 and 8 of the Commission Regulation”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (b) for “the text of which is set out in Part I” substitute “the texts of which are set out in Parts 1 and 2”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+- (a) after “directive” insert “read with Articles 5, 6, 7 and 8 of the Commission Regulation”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (b) for “the text of which is set out in Part I” substitute “the texts of which are set out in Parts 1 and 2”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(3) In paragraph (2)(d)— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(3) In paragraph (2)(d)— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-- (a) in paragraph (i), after “Schedule 2” insert “(read with Articles 5 and 6 of the Commission Regulation)”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (b) in paragraph (ii), for “38” substitute “7”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+- (a) in paragraph (i), after “Schedule 2” insert “(read with Articles 5 and 6 of the Commission Regulation)”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (b) in paragraph (ii), for “38” substitute “7”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(4) In paragraph (3)(c), after “with” insert “Articles 7 and 8 of”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(4) In paragraph (3)(c), after “with” insert “Articles 7 and 8 of”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(5) In paragraph (4)— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(5) In paragraph (4)— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-- (a) omit “or” at the end of sub-paragraph (b); *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (b) in sub-paragraph (c), for “paragraph 8” substitute “paragraph 8 or 9”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (c) after sub-paragraph (c) insert— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+- (a) omit “or” at the end of sub-paragraph (b); *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (b) in sub-paragraph (c), for “paragraph 8” substitute “paragraph 8 or 9”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (c) after sub-paragraph (c) insert— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-  > , or *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+  > , or *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
   >
-  > - (d) an AIFM is providing, in accordance with Article 6.4 of the alternative investment fund managers directive the investment service specified in paragraph 1, 4 or 5 of Section A, or the ancillary service specified in paragraph 1 of Section B, of Annex I to the markets in financial instruments directive. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+  > - (d) an AIFM is providing, in accordance with Article 6.4 of the alternative investment fund managers directive the investment service specified in paragraph 1, 4 or 5 of Section A, or the ancillary service specified in paragraph 1 of Section B, of Annex I to the markets in financial instruments directive. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
   .
 
-## 8. Amendments to article 84 of the Order: futures (affected by repeal, see note)[^key-c71b724e9dd9f9fbf23d35f5fd7676e6][^key-987cdd3766a1343a6a364dab7152ea80]
+## 8. Amendments to article 84 of the Order: futures (affected by repeal, see note)[^c-c71b724e9dd9f9fbf23d35f5fd7676e6][^c-987cdd3766a1343a6a364dab7152ea80]
 
-(1) Article 84 of the Order *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00015] (futures) is amended as follows. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(1) Article 84 of the Order *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00015] (futures) is amended as follows. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(2) In paragraph (1A)(d), after “directive” insert (read with Articles 5 and 6 of the Commission Regulation)”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(2) In paragraph (1A)(d), after “directive” insert (read with Articles 5 and 6 of the Commission Regulation)”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(3) In paragraph (1B)(d), for “38” substitute “7”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(3) In paragraph (1B)(d), for “38” substitute “7”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(4) In paragraph (1C)(c), after “with” insert “Articles 7 and 8 of”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(4) In paragraph (1C)(c), after “with” insert “Articles 7 and 8 of”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(5) After paragraph (1C), insert— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(5) After paragraph (1C), insert— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-> (1CA (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] Subject to paragraph (1D), any other derivative contract, relating to currencies to which paragraph 4 of Section C of Annex 1 to the markets in financial instruments directive read with Article 10 of the Commission Regulation (the texts of which are set out in Parts 1 and 2 of Schedule 2) applies. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-
-.
-
-(6) In paragraph (1D)— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-
-- (a) for “and (1C)” substitute “, (1C) and (1CA)”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (b) for “or forwards” substitute “, forwards or derivative contracts”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (c) omit “or” at the end of sub-paragraph (b); *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (d) in sub-paragraph (c), for “paragraph 8” substitute “paragraph 8 or 9”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (e) after sub-paragraph (c) insert— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-
-  > , or *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-  >
-  > - (d) an AIFM is providing, in accordance with Article 6.4 of the alternative investment fund managers directive the investment service specified in paragraph 1, 4 or 5 of Section A, or the ancillary service specified in paragraph 1 of Section B, of Annex I to the markets in financial instruments directive. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-
-  .
-
-(7) In paragraph (1E), for “(IC)” substitute “(1CA)”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-
-## 9. Amendments to article 85 of the Order: contracts for differences (affected by repeal, see note)[^key-c1db6a9d2ed782e3329aa8af6ba2cea8][^key-987cdd3766a1343a6a364dab7152ea80]
-
-(1) Article 85 of the Order *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00016] (contracts for differences *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] etc. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]) is amended as follows. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-
-(2) In paragraph (4)— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-
-- (a) omit “or” at the end of sub-paragraph (b); *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (b) in sub-paragraph (c), for “paragraph 8” substitute “paragraph 8 or 9”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (c) after sub-paragraph (c) insert— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-
-  > , or *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-  >
-  > - (d) an AIFM is providing, in accordance with Article 6.4 of the alternative investment fund managers directive the investment service specified in paragraph 1, 4 or 5 of Section A, or the ancillary service specified in paragraph 1 of Section B, of Annex I to the markets in financial instruments directive. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-
-  .
-
-(3) After paragraph (4) insert— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-
-> (4A) Subject to paragraph (4B), a derivative contract of a binary or other fixed outcomes nature— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> - (a) to which paragraph (1) does not apply; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (b) which is settled in cash; and *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (c) which is a financial instrument to which paragraph 4, 5, 6, 7 or 10 of Section C of Annex I to the markets in financial instruments directive read with Articles 5 to 8 and 10 of the Commission Regulation (the texts of which are set out in Parts 1 and 2 of Schedule 2) applies. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> (4B) Paragraph (4A) only applies to derivatives in relation to which— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> - (a) an investment firm or credit institution is providing or performing investment services and activities on a professional basis, *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (b) a management company is providing, in accordance with Article 6.3 of the *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] UCITS *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] directive, the investment service specified in paragraph 4 or 5 of Section A, or the ancillary service specified in paragraph 1 of Section B, of Annex I to the markets in financial instruments directive, *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (c) a market operator is providing the investment service specified in paragraph 8 or 9 of Section A of Annex I to the markets in financial instruments directive, *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (d) an AIFM is providing, in accordance with Article 6.4 of the alternative investment fund managers directive the investment service specified in paragraph 1, 4 or 5 of Section A, or the ancillary service specified in paragraph 1 of Section B, of Annex I to the markets in financial instruments directive, or *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (e) a person is carrying on the activity specified by article 25(2). *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+> (1CA (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] Subject to paragraph (1D), any other derivative contract, relating to currencies to which paragraph 4 of Section C of Annex 1 to the markets in financial instruments directive read with Article 10 of the Commission Regulation (the texts of which are set out in Parts 1 and 2 of Schedule 2) applies. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
 .
 
-## 10. Amendments to Schedule 2 to the Order (affected by repeal, see note)[^key-154ff24a5b1950b23b794fffdd0f08ae][^key-987cdd3766a1343a6a364dab7152ea80]
+(6) In paragraph (1D)— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(1) Schedule 2 to the Order *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00017] (Sections A and C of Annex I to the markets in financial instruments directive and related Community subordinate legislation) is amended as follows. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+- (a) for “and (1C)” substitute “, (1C) and (1CA)”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (b) for “or forwards” substitute “, forwards or derivative contracts”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (c) omit “or” at the end of sub-paragraph (b); *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (d) in sub-paragraph (c), for “paragraph 8” substitute “paragraph 8 or 9”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (e) after sub-paragraph (c) insert— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(2) In the heading, for “Community” substitute “ *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]EU *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]”.
+  > , or *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+  >
+  > - (d) an AIFM is providing, in accordance with Article 6.4 of the alternative investment fund managers directive the investment service specified in paragraph 1, 4 or 5 of Section A, or the ancillary service specified in paragraph 1 of Section B, of Annex I to the markets in financial instruments directive. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(3) In Part 1 of Schedule 2 (Section C of Annex I to the markets in financial instruments directive)— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+  .
 
-- (a) in paragraph 4, after “or yields,” insert “emission allowances”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (b) in paragraph 5— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-  - (i) for “forward rate agreements” substitute “forwards”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-  - (ii (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] for “otherwise” substitute “other”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (c) in paragraph 6— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-  - (i) for “contracts” substitute “contract”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-  - (ii (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] for “and/or an MTF” substitute “, an MTF, or an OTF, except for wholesale energy products traded on an OTF that must be physically settled”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (d) for paragraph 7 substitute— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(7) In paragraph (1E), for “(IC)” substitute “(1CA)”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-  > **7.** Option, futures, swaps, forwards and any other derivative contracts relating to commodities, that can be physically settled not otherwise mentioned in point 6 of this Section and not being for commercial purposes, which have the characteristics of other derivative financial instruments; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+## 9. Amendments to article 85 of the Order: contracts for differences (affected by repeal, see note)[^c-c1db6a9d2ed782e3329aa8af6ba2cea8][^c-987cdd3766a1343a6a364dab7152ea80]
+
+(1) Article 85 of the Order *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00016] (contracts for differences *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] etc. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]) is amended as follows. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+(2) In paragraph (4)— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+- (a) omit “or” at the end of sub-paragraph (b); *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (b) in sub-paragraph (c), for “paragraph 8” substitute “paragraph 8 or 9”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (c) after sub-paragraph (c) insert— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+  > , or *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+  >
+  > - (d) an AIFM is providing, in accordance with Article 6.4 of the alternative investment fund managers directive the investment service specified in paragraph 1, 4 or 5 of Section A, or the ancillary service specified in paragraph 1 of Section B, of Annex I to the markets in financial instruments directive. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+  .
+
+(3) After paragraph (4) insert— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+> (4A) Subject to paragraph (4B), a derivative contract of a binary or other fixed outcomes nature— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> - (a) to which paragraph (1) does not apply; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (b) which is settled in cash; and *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (c) which is a financial instrument to which paragraph 4, 5, 6, 7 or 10 of Section C of Annex I to the markets in financial instruments directive read with Articles 5 to 8 and 10 of the Commission Regulation (the texts of which are set out in Parts 1 and 2 of Schedule 2) applies. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> (4B) Paragraph (4A) only applies to derivatives in relation to which— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> - (a) an investment firm or credit institution is providing or performing investment services and activities on a professional basis, *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (b) a management company is providing, in accordance with Article 6.3 of the *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] UCITS *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] directive, the investment service specified in paragraph 4 or 5 of Section A, or the ancillary service specified in paragraph 1 of Section B, of Annex I to the markets in financial instruments directive, *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (c) a market operator is providing the investment service specified in paragraph 8 or 9 of Section A of Annex I to the markets in financial instruments directive, *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (d) an AIFM is providing, in accordance with Article 6.4 of the alternative investment fund managers directive the investment service specified in paragraph 1, 4 or 5 of Section A, or the ancillary service specified in paragraph 1 of Section B, of Annex I to the markets in financial instruments directive, or *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (e) a person is carrying on the activity specified by article 25(2). *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+.
+
+## 10. Amendments to Schedule 2 to the Order (affected by repeal, see note)[^c-154ff24a5b1950b23b794fffdd0f08ae][^c-987cdd3766a1343a6a364dab7152ea80]
+
+(1) Schedule 2 to the Order *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00017] (Sections A and C of Annex I to the markets in financial instruments directive and related Community subordinate legislation) is amended as follows. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+(2) In the heading, for “Community” substitute “ *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]EU *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]”.
+
+(3) In Part 1 of Schedule 2 (Section C of Annex I to the markets in financial instruments directive)— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+- (a) in paragraph 4, after “or yields,” insert “emission allowances”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (b) in paragraph 5— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+  - (i) for “forward rate agreements” substitute “forwards”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+  - (ii (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] for “otherwise” substitute “other”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (c) in paragraph 6— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+  - (i) for “contracts” substitute “contract”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+  - (ii (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] for “and/or an MTF” substitute “, an MTF, or an OTF, except for wholesale energy products traded on an OTF that must be physically settled”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (d) for paragraph 7 substitute— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+  > **7.** Option, futures, swaps, forwards and any other derivative contracts relating to commodities, that can be physically settled not otherwise mentioned in point 6 of this Section and not being for commercial purposes, which have the characteristics of other derivative financial instruments; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
   ;
-- (e) for paragraph 10 substitute— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+- (e) for paragraph 10 substitute— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-  > **10.** Options, futures, swaps, forward rate agreements and any other derivative contracts relating to climatic variables, freight rates or inflation rates or other official economic statistics that must be settled in cash or may be settled in cash at the option of one of the parties other than by reason of default or other termination event, as well as any other derivative contracts relating to assets, rights, obligations, indices and measures not otherwise mentioned in this Section, which have the characteristics of other derivative financial instruments, having regard to whether, inter alia, they are traded on a regulated market, OTF, or an MTF; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+  > **10.** Options, futures, swaps, forward rate agreements and any other derivative contracts relating to climatic variables, freight rates or inflation rates or other official economic statistics that must be settled in cash or may be settled in cash at the option of one of the parties other than by reason of default or other termination event, as well as any other derivative contracts relating to assets, rights, obligations, indices and measures not otherwise mentioned in this Section, which have the characteristics of other derivative financial instruments, having regard to whether, inter alia, they are traded on a regulated market, OTF, or an MTF; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
   ;
-- (f) after paragraph 10 insert— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+- (f) after paragraph 10 insert— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-  > **11.** Emission allowances consisting of any units recognised for compliance with the requirements of *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2003/87/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2003/0087)[^key-987cdd3766a1343a6a364dab7152ea80][^f00018] (Emissions Trading Scheme). *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-
-  .
-
-(4) For Part 2 of Schedule 2 (Chapter *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] VI *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] of the Commission Regulation) substitute— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-
-> **PART 2 (affected by repeal, see note) — Articles 5 to 8, 10 and 11 of the Commission Regulation (affected by repeal, see note)[^key-987cdd3766a1343a6a364dab7152ea80][^key-987cdd3766a1343a6a364dab7152ea80]**
->
-> **Article 5 (affected by repeal, see note) — Wholesale energy products that must be physically settled (affected by repeal, see note)[^key-987cdd3766a1343a6a364dab7152ea80][^key-987cdd3766a1343a6a364dab7152ea80]**
->
-> **1.** For the purposes of Section C(6) of Annex I to *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^key-987cdd3766a1343a6a364dab7152ea80], a wholesale energy product must be physically settled where all the following conditions are satisfied: *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> - (a) it contains provisions which ensure that parties to the contract have proportionate arrangements in place to be able to make or take delivery of the underlying commodity; a balancing agreement with the Transmission System Operator in the area of electricity and gas shall be considered a proportionate arrangement where the parties to the agreement have to ensure physical delivery of electricity or gas. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (b) it establishes unconditional, unrestricted and enforceable obligations of the parties to the contract to deliver and take delivery of the underlying commodity; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (c) it does not allow either party to replace physical delivery with cash settlement; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (d) the obligations under the contract cannot be offset against obligations from other contracts between the parties concerned, without prejudice to the rights of the parties to the contract, to net their cash payment obligations. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> For the purposes of point (d), operational netting in power and gas markets shall not be considered as offsetting of obligations under a contract against obligations from other contracts. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> **2.** Operational netting shall be understood as any nomination of quantities of power and gas to be fed into a gridwork upon being so required by the rules or requests of a Transmission System Operator as defined in Article 2(4) of *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2009/72/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2009/0072)[^key-987cdd3766a1343a6a364dab7152ea80] of the European Parliament and of the Council for an entity performing an equivalent function to a Transmission System Operator at the national level. Any nomination of quantities based on operational netting shall not be at the discretion of the parties to the contract. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> **3.** For the purposes of Section C(6) of Annex I to *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^key-987cdd3766a1343a6a364dab7152ea80], force majeure shall include any exceptional event or a set of circumstances which are outside the control of the parties to the contract, which the parties to the contract could not have reasonably foreseen or avoided by the exercise of appropriate and reasonable due diligence and which prevent one or both parties to the contract from fulfilling their contractual obligations. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> **4.** For the purposes of Section C(6) of Annex I to *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^key-987cdd3766a1343a6a364dab7152ea80] bona fide inability to settle shall include any event or set of circumstances, not qualifying as force majeure as referred to in paragraph 3, which are objectively and expressly defined in the contract terms, for one or both parties to the contract, acting in good faith, not to fulfil their contractual obligations. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> **5.** The existence of force majeure or bona fide inability to settle provisions shall not prevent a contract from being considered as ‘physically settled’ for the purposes of Section C(6) of Annex I to *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^key-987cdd3766a1343a6a364dab7152ea80].
->
-> **6.** The existence of default clauses providing that a party is entitled to financial compensation in the case of non- or defective performance of the contract shall not prevent the contract from being considered as ‘physically settled’ within the meaning of Section C(6) of Annex I to *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^key-987cdd3766a1343a6a364dab7152ea80].
->
-> **7.** The delivery methods for the contracts being considered as ‘physically settled’ within the meaning of Section C(6) of Annex I to *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^key-987cdd3766a1343a6a364dab7152ea80] shall include at least: *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> - (a) physical delivery of the relevant commodities themselves; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (b) delivery of a document giving rights of an ownership nature to the relevant commodities or the relevant quantity of the commodities concerned; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (c) other methods of bringing about the transfer of rights of an ownership nature in relation to the relevant quantity of goods without physically delivering them including notification, scheduling or nomination to the operator of an energy supply network, that entitles the recipient to the relevant quantity of the goods. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> **Article 6 (affected by repeal, see note) — Energy derivative contracts relating to oil and coal and wholesale energy products (affected by repeal, see note)[^key-987cdd3766a1343a6a364dab7152ea80][^key-987cdd3766a1343a6a364dab7152ea80]**
->
-> **1.** For the purposes of Section C(6) of Annex I to *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^key-987cdd3766a1343a6a364dab7152ea80], energy derivative contracts relating to oil shall be contracts with mineral oil, of any description and petroleum gases, whether in liquid or vapour form, including products, components and derivatives of oil and oil transport fuels, including those with biofuel additives, as an underlying. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> **2.** For the purposes of Section C(6) of Annex I to *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^key-987cdd3766a1343a6a364dab7152ea80], energy derivative contracts relating to coal shall be contracts with coal, defined as a black or dark-brown combustible mineral substance consisting of carbonised vegetable matter, used as a fuel, as an underlying. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> **3.** For the purposes of Section C(6) of Annex I to *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^key-987cdd3766a1343a6a364dab7152ea80] derivative contracts that have the characteristics of wholesale energy products as defined in Article 2(4) of Regulation ( *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]EU *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]) 1227/2011 of the European Parliament and Council shall be derivatives with electricity or natural gas as an underlying, in accordance with points (b) and (d) of Article 2(4) of that Regulation. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> **Article 7 (affected by repeal, see note) — Other derivative financial instruments (affected by repeal, see note)[^key-987cdd3766a1343a6a364dab7152ea80][^key-987cdd3766a1343a6a364dab7152ea80]**
->
-> **1.** For the purposes of Section C(7) of Annex I to *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^key-987cdd3766a1343a6a364dab7152ea80], a contract which is not a spot contract in accordance with paragraph 2 and which is not for commercial purposes as laid down in paragraph 4 shall be considered as having the characteristics of other derivative financial instruments where it satisfies the following conditions: *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> - (a) it meets one of the following criteria: *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->   - (i) it is traded on a third country trading venue that performs a similar function to a regulated market, an MTF or an OTF; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->   - (ii (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] it is expressly stated to be traded on, or is subject to the rules of, a regulated market, an MTF, an OTF or such a third country trading venue; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->   - (iii (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] it is equivalent to a contract traded on a regulated market, MTF, an OTF or such a third country trading venue, with regards to the price, the lot, the delivery date and other contractual terms; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (b) it is standardised so that the price, the lot, the delivery date and other terms are determined principally by reference to regularly published prices, standard lots or standard delivery dates. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> **2.** A spot contract for the purposes of paragraph 1 shall be a contract for the sale of a commodity, asset or right, under the terms of which delivery is scheduled to be made within the longer of the following periods: *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> - (a) 2 trading days; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (b) the period generally accepted in the market for that commodity, asset or right as the standard delivery period. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> A contract shall not be considered a spot contract where, irrespective of its explicit terms, there is an understanding between the parties to the contract that delivery of the underlying is to be postponed and not to be performed within the period referred to in paragraph 2. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> **3.** For the purposes of Section C(10) of Annex I to *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2004/39/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2004/0039)[^key-987cdd3766a1343a6a364dab7152ea80], a derivative contract relating to an underlying referred to in that Section or in Article 8 of this Regulation shall be considered to have the characteristics of other derivative financial instruments where one of the following conditions is satisfied: *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> - (a) it is settled in cash or may be settled in cash at the option of one or more of the parties, otherwise than by reason of a default or other termination event; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (b) it is traded on a regulated market, an MTF, an OTF, or a third country trading venue that performs a similar function to a regulated market, MTF or an OTF; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (c) the conditions laid down in paragraph 1 are satisfied in relation to that contract. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> **4.** A contract shall be considered to be for commercial purposes for the purposes of Section C(7) of Annex I to *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^key-987cdd3766a1343a6a364dab7152ea80], and as not having the characteristics of other derivative financial instruments for the purposes of Sections C(7) and (10) of that Annex, where the following conditions are both met: *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> - (a) it is entered into with or by an operator or administrator of an energy transmission grid, energy balancing mechanism or pipeline network, *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (b) it is necessary to keep in balance the supplies and uses of energy at a given time, including the case when the reserve capacity contracted by an electricity transmission system operator as defined in Article 2(4) of *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2009/72/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2009/0072)[^key-987cdd3766a1343a6a364dab7152ea80] is being transferred from one prequalified balancing service provider to another prequalified balancing service provider with the consent of the relevant transmission system operator. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> **Article 8 (affected by repeal, see note) — Derivatives under Section C(10) of Annex I to (affected by repeal, see note) [Directive 2014/65/EU (affected by repeal, see note)](https://www.legislation.gov.uk/european/directive/2014/0065)[^key-987cdd3766a1343a6a364dab7152ea80][^key-987cdd3766a1343a6a364dab7152ea80][^key-987cdd3766a1343a6a364dab7152ea80]**
->
-> In addition to derivative contracts expressly referred to in Section C(10) of Annex I to *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^key-987cdd3766a1343a6a364dab7152ea80], a derivative contract shall be subject to the provisions in that Section where it meets the criteria set out in that Section and in Article 7(3) of this Regulation and it relates to any of the following: *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> - (a) telecommunications bandwidth; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (b) commodity storage capacity; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (c) transmission or transportation capacity relating to commodities, whether cable, pipeline or other means with the exception of transmission rights related to electricity transmission cross zonal capacities when they are, on the primary market, entered into with or by a transmission system operator or any persons acting as service providers on their behalf and in order to allocate the transmission capacity; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (d) an allowance, credit, permit, right or similar asset which is directly linked to the supply, distribution or consumption of energy derived from renewable resources, except if the contract is already with the scope of Section C(4) of Annex I to *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^key-987cdd3766a1343a6a364dab7152ea80];
-> - (e) a geological, environmental or other physical variable, except if the contract is relating to any units recognised for compliance with the requirements of *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2003/87/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2003/0087)[^key-987cdd3766a1343a6a364dab7152ea80] of the European Parliament and of the Council; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (f) any other asset or right of a fungible nature, other than a right to receive a service, that is capable of being transferred; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (g) an index or measure related to the price or value of, or volume of transactions in any asset, right, service or obligation; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (h) an index or measure based on actuarial statistics. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> **Article 10 (affected by repeal, see note) — Characteristics of other derivative contracts relating to currencies (affected by repeal, see note)[^key-987cdd3766a1343a6a364dab7152ea80][^key-987cdd3766a1343a6a364dab7152ea80]**
->
-> **1.** For the purposes of Section C (4) of Annex I to *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^key-987cdd3766a1343a6a364dab7152ea80], other derivative contracts relating to a currency shall not be a financial instrument where the contract is one of the following: *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> - (a) a spot contract within the meaning of paragraph 2 of this Article, *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (b) a means of payment that: *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->   - (i) must be settled physically otherwise than by reason of a default or other termination event; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->   - (ii (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] is entered into by at least a person which is not a financial counterparty within the meaning of Article 2(8) of Regulation ( *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]EU *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]) No. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] 648/2012 of the European Parliament and of the Council; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->   - (iii (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] is entered into in order to facilitate payment for identifiable goods, services or direct investment; and *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->   - (iv (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] is not traded on a trading venue. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> **2.** A spot contract for the purposes of paragraph 1 shall be a contract for the exchange of one currency against another currency, under the terms of which delivery is scheduled to be made within the longer of the following periods: *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> - (a) 2 trading days in respect of any pair of the major currencies set out in paragraph 3; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (b) for any pair of currencies where at least one currency is not a major currency, the longer of 2 trading days or the period generally accepted in the market for that currency pair as the standard delivery period; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (c) where the contract for the exchange of those currencies is used for the main purpose of the sale or purchase of a transferable security or a unit in a collective investment undertaking, the period generally accepted in the market for the settlement of that transferable security or a unit in a collective investment undertaking as the standard delivery period or 5 trading days, whichever is shorter. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> A contract shall not be considered a spot contract where, irrespective of its explicit terms, there is an understanding between the parties to the contract that delivery of the currency is to be postponed and not to be performed within the period set out in the first subparagraph. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> **3.** The major currencies for the purposes of paragraph 2 shall only include the US dollar, Euro, Japanese yen, Pound sterling, Australian dollar, Swiss franc, Canadian dollar, Hong Kong dollar, Swedish krona, New Zealand dollar, Singapore dollar, Norwegian krone, Mexican peso, Croatian kuna, Bulgarian lev, Czech koruna, Danish krone, Hungarian forint, Polish złoty and Romanian leu. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> **4.** For the purposes of paragraph 2, a trading day shall mean any day of normal trading in the jurisdiction of both the currencies that are exchanged pursuant to the contract for the exchange of those currencies and in the jurisdiction of a third currency where any of the following conditions are met: *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> - (a) the exchange of those currencies involves converting them through that third currency for the purposes of liquidity; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (b) the standard delivery period for the exchange of those currencies references the jurisdiction of that third currency. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> **Article 11 (affected by repeal, see note) — Money-market instruments (affected by repeal, see note)[^key-987cdd3766a1343a6a364dab7152ea80][^key-987cdd3766a1343a6a364dab7152ea80]**
->
-> Money-market instruments in accordance with Article 4(1)(17) of *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^key-987cdd3766a1343a6a364dab7152ea80], shall include treasury bills, certificates of deposits, commercial papers and other instruments with substantively equivalent features where they have the following characteristics: *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> - (a) they have a value that can be determined at any time; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (b) they are not derivatives; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (c) they have a maturity at issuance of 397 days or less. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-
-.
-
-(5) In Part 3 of Schedule 2 (Section A of Annex I to the markets in financial instruments directive)— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-
-- (a) in paragraph 8, for “Multilateral Trading Facilities” substitute “an MTF”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (b) after paragraph 8 insert— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-
-  > **9.** Operation of an OTF. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+  > **11.** Emission allowances consisting of any units recognised for compliance with the requirements of *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2003/87/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2003/0087)[^c-987cdd3766a1343a6a364dab7152ea80][^f00018] (Emissions Trading Scheme). *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
   .
 
-(6) For Part 4 of Schedule 2 (Article 52 of Commission *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2006/73/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2006/0073)[^key-987cdd3766a1343a6a364dab7152ea80]) substitute— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(4) For Part 2 of Schedule 2 (Chapter *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] VI *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] of the Commission Regulation) substitute— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-> **PART (affected by repeal, see note) 4 — Article 9 of the Commission Regulation (affected by repeal, see note)[^key-987cdd3766a1343a6a364dab7152ea80][^key-987cdd3766a1343a6a364dab7152ea80]**
+> **PART 2 (affected by repeal, see note) — Articles 5 to 8, 10 and 11 of the Commission Regulation (affected by repeal, see note)[^c-987cdd3766a1343a6a364dab7152ea80][^c-987cdd3766a1343a6a364dab7152ea80]**
 >
-> **Article 9 (affected by repeal, see note) — Investment advice (affected by repeal, see note)[^key-987cdd3766a1343a6a364dab7152ea80][^key-987cdd3766a1343a6a364dab7152ea80]**
+> **Article 5 (affected by repeal, see note) — Wholesale energy products that must be physically settled (affected by repeal, see note)[^c-987cdd3766a1343a6a364dab7152ea80][^c-987cdd3766a1343a6a364dab7152ea80]**
 >
-> For the purposes of the definition of ‘investment advice’ in Article 4(1)(4) of *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^key-987cdd3766a1343a6a364dab7152ea80], a personal recommendation shall be considered a recommendation that is made to a person in his capacity as an investor or potential investor, or in his capacity as an agent for an investor or potential investor. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+> **1.** For the purposes of Section C(6) of Annex I to *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^c-987cdd3766a1343a6a364dab7152ea80], a wholesale energy product must be physically settled where all the following conditions are satisfied: *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 >
-> That recommendation shall be presented as suitable for that person, or shall be based on a consideration of the circumstances of that person, and shall constitute a recommendation to take one of the following sets of steps: *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+> - (a) it contains provisions which ensure that parties to the contract have proportionate arrangements in place to be able to make or take delivery of the underlying commodity; a balancing agreement with the Transmission System Operator in the area of electricity and gas shall be considered a proportionate arrangement where the parties to the agreement have to ensure physical delivery of electricity or gas. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (b) it establishes unconditional, unrestricted and enforceable obligations of the parties to the contract to deliver and take delivery of the underlying commodity; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (c) it does not allow either party to replace physical delivery with cash settlement; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (d) the obligations under the contract cannot be offset against obligations from other contracts between the parties concerned, without prejudice to the rights of the parties to the contract, to net their cash payment obligations. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 >
-> - (a) to buy, sell, subscribe for, exchange, redeem, hold or underwrite a particular financial instrument; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (b) to exercise or not to exercise any right conferred by a particular financial instrument to buy, sell, subscribe for, exchange, or redeem a financial instrument. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+> For the purposes of point (d), operational netting in power and gas markets shall not be considered as offsetting of obligations under a contract against obligations from other contracts. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 >
-> A recommendation shall not be considered a personal recommendation if it is issued exclusively to the public. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+> **2.** Operational netting shall be understood as any nomination of quantities of power and gas to be fed into a gridwork upon being so required by the rules or requests of a Transmission System Operator as defined in Article 2(4) of *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2009/72/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2009/0072)[^c-987cdd3766a1343a6a364dab7152ea80] of the European Parliament and of the Council for an entity performing an equivalent function to a Transmission System Operator at the national level. Any nomination of quantities based on operational netting shall not be at the discretion of the parties to the contract. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> **3.** For the purposes of Section C(6) of Annex I to *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^c-987cdd3766a1343a6a364dab7152ea80], force majeure shall include any exceptional event or a set of circumstances which are outside the control of the parties to the contract, which the parties to the contract could not have reasonably foreseen or avoided by the exercise of appropriate and reasonable due diligence and which prevent one or both parties to the contract from fulfilling their contractual obligations. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> **4.** For the purposes of Section C(6) of Annex I to *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^c-987cdd3766a1343a6a364dab7152ea80] bona fide inability to settle shall include any event or set of circumstances, not qualifying as force majeure as referred to in paragraph 3, which are objectively and expressly defined in the contract terms, for one or both parties to the contract, acting in good faith, not to fulfil their contractual obligations. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> **5.** The existence of force majeure or bona fide inability to settle provisions shall not prevent a contract from being considered as ‘physically settled’ for the purposes of Section C(6) of Annex I to *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^c-987cdd3766a1343a6a364dab7152ea80].
+>
+> **6.** The existence of default clauses providing that a party is entitled to financial compensation in the case of non- or defective performance of the contract shall not prevent the contract from being considered as ‘physically settled’ within the meaning of Section C(6) of Annex I to *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^c-987cdd3766a1343a6a364dab7152ea80].
+>
+> **7.** The delivery methods for the contracts being considered as ‘physically settled’ within the meaning of Section C(6) of Annex I to *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^c-987cdd3766a1343a6a364dab7152ea80] shall include at least: *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> - (a) physical delivery of the relevant commodities themselves; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (b) delivery of a document giving rights of an ownership nature to the relevant commodities or the relevant quantity of the commodities concerned; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (c) other methods of bringing about the transfer of rights of an ownership nature in relation to the relevant quantity of goods without physically delivering them including notification, scheduling or nomination to the operator of an energy supply network, that entitles the recipient to the relevant quantity of the goods. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> **Article 6 (affected by repeal, see note) — Energy derivative contracts relating to oil and coal and wholesale energy products (affected by repeal, see note)[^c-987cdd3766a1343a6a364dab7152ea80][^c-987cdd3766a1343a6a364dab7152ea80]**
+>
+> **1.** For the purposes of Section C(6) of Annex I to *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^c-987cdd3766a1343a6a364dab7152ea80], energy derivative contracts relating to oil shall be contracts with mineral oil, of any description and petroleum gases, whether in liquid or vapour form, including products, components and derivatives of oil and oil transport fuels, including those with biofuel additives, as an underlying. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> **2.** For the purposes of Section C(6) of Annex I to *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^c-987cdd3766a1343a6a364dab7152ea80], energy derivative contracts relating to coal shall be contracts with coal, defined as a black or dark-brown combustible mineral substance consisting of carbonised vegetable matter, used as a fuel, as an underlying. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> **3.** For the purposes of Section C(6) of Annex I to *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^c-987cdd3766a1343a6a364dab7152ea80] derivative contracts that have the characteristics of wholesale energy products as defined in Article 2(4) of Regulation ( *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]EU *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]) 1227/2011 of the European Parliament and Council shall be derivatives with electricity or natural gas as an underlying, in accordance with points (b) and (d) of Article 2(4) of that Regulation. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> **Article 7 (affected by repeal, see note) — Other derivative financial instruments (affected by repeal, see note)[^c-987cdd3766a1343a6a364dab7152ea80][^c-987cdd3766a1343a6a364dab7152ea80]**
+>
+> **1.** For the purposes of Section C(7) of Annex I to *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^c-987cdd3766a1343a6a364dab7152ea80], a contract which is not a spot contract in accordance with paragraph 2 and which is not for commercial purposes as laid down in paragraph 4 shall be considered as having the characteristics of other derivative financial instruments where it satisfies the following conditions: *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> - (a) it meets one of the following criteria: *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>   - (i) it is traded on a third country trading venue that performs a similar function to a regulated market, an MTF or an OTF; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>   - (ii (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] it is expressly stated to be traded on, or is subject to the rules of, a regulated market, an MTF, an OTF or such a third country trading venue; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>   - (iii (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] it is equivalent to a contract traded on a regulated market, MTF, an OTF or such a third country trading venue, with regards to the price, the lot, the delivery date and other contractual terms; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (b) it is standardised so that the price, the lot, the delivery date and other terms are determined principally by reference to regularly published prices, standard lots or standard delivery dates. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> **2.** A spot contract for the purposes of paragraph 1 shall be a contract for the sale of a commodity, asset or right, under the terms of which delivery is scheduled to be made within the longer of the following periods: *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> - (a) 2 trading days; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (b) the period generally accepted in the market for that commodity, asset or right as the standard delivery period. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> A contract shall not be considered a spot contract where, irrespective of its explicit terms, there is an understanding between the parties to the contract that delivery of the underlying is to be postponed and not to be performed within the period referred to in paragraph 2. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> **3.** For the purposes of Section C(10) of Annex I to *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2004/39/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2004/0039)[^c-987cdd3766a1343a6a364dab7152ea80], a derivative contract relating to an underlying referred to in that Section or in Article 8 of this Regulation shall be considered to have the characteristics of other derivative financial instruments where one of the following conditions is satisfied: *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> - (a) it is settled in cash or may be settled in cash at the option of one or more of the parties, otherwise than by reason of a default or other termination event; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (b) it is traded on a regulated market, an MTF, an OTF, or a third country trading venue that performs a similar function to a regulated market, MTF or an OTF; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (c) the conditions laid down in paragraph 1 are satisfied in relation to that contract. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> **4.** A contract shall be considered to be for commercial purposes for the purposes of Section C(7) of Annex I to *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^c-987cdd3766a1343a6a364dab7152ea80], and as not having the characteristics of other derivative financial instruments for the purposes of Sections C(7) and (10) of that Annex, where the following conditions are both met: *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> - (a) it is entered into with or by an operator or administrator of an energy transmission grid, energy balancing mechanism or pipeline network, *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (b) it is necessary to keep in balance the supplies and uses of energy at a given time, including the case when the reserve capacity contracted by an electricity transmission system operator as defined in Article 2(4) of *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2009/72/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2009/0072)[^c-987cdd3766a1343a6a364dab7152ea80] is being transferred from one prequalified balancing service provider to another prequalified balancing service provider with the consent of the relevant transmission system operator. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> **Article 8 (affected by repeal, see note) — Derivatives under Section C(10) of Annex I to (affected by repeal, see note) [Directive 2014/65/EU (affected by repeal, see note)](https://www.legislation.gov.uk/european/directive/2014/0065)[^c-987cdd3766a1343a6a364dab7152ea80][^c-987cdd3766a1343a6a364dab7152ea80][^c-987cdd3766a1343a6a364dab7152ea80]**
+>
+> In addition to derivative contracts expressly referred to in Section C(10) of Annex I to *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^c-987cdd3766a1343a6a364dab7152ea80], a derivative contract shall be subject to the provisions in that Section where it meets the criteria set out in that Section and in Article 7(3) of this Regulation and it relates to any of the following: *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> - (a) telecommunications bandwidth; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (b) commodity storage capacity; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (c) transmission or transportation capacity relating to commodities, whether cable, pipeline or other means with the exception of transmission rights related to electricity transmission cross zonal capacities when they are, on the primary market, entered into with or by a transmission system operator or any persons acting as service providers on their behalf and in order to allocate the transmission capacity; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (d) an allowance, credit, permit, right or similar asset which is directly linked to the supply, distribution or consumption of energy derived from renewable resources, except if the contract is already with the scope of Section C(4) of Annex I to *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^c-987cdd3766a1343a6a364dab7152ea80];
+> - (e) a geological, environmental or other physical variable, except if the contract is relating to any units recognised for compliance with the requirements of *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2003/87/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2003/0087)[^c-987cdd3766a1343a6a364dab7152ea80] of the European Parliament and of the Council; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (f) any other asset or right of a fungible nature, other than a right to receive a service, that is capable of being transferred; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (g) an index or measure related to the price or value of, or volume of transactions in any asset, right, service or obligation; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (h) an index or measure based on actuarial statistics. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> **Article 10 (affected by repeal, see note) — Characteristics of other derivative contracts relating to currencies (affected by repeal, see note)[^c-987cdd3766a1343a6a364dab7152ea80][^c-987cdd3766a1343a6a364dab7152ea80]**
+>
+> **1.** For the purposes of Section C (4) of Annex I to *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^c-987cdd3766a1343a6a364dab7152ea80], other derivative contracts relating to a currency shall not be a financial instrument where the contract is one of the following: *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> - (a) a spot contract within the meaning of paragraph 2 of this Article, *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (b) a means of payment that: *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>   - (i) must be settled physically otherwise than by reason of a default or other termination event; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>   - (ii (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] is entered into by at least a person which is not a financial counterparty within the meaning of Article 2(8) of Regulation ( *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]EU *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]) No. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] 648/2012 of the European Parliament and of the Council; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>   - (iii (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] is entered into in order to facilitate payment for identifiable goods, services or direct investment; and *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>   - (iv (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] is not traded on a trading venue. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> **2.** A spot contract for the purposes of paragraph 1 shall be a contract for the exchange of one currency against another currency, under the terms of which delivery is scheduled to be made within the longer of the following periods: *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> - (a) 2 trading days in respect of any pair of the major currencies set out in paragraph 3; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (b) for any pair of currencies where at least one currency is not a major currency, the longer of 2 trading days or the period generally accepted in the market for that currency pair as the standard delivery period; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (c) where the contract for the exchange of those currencies is used for the main purpose of the sale or purchase of a transferable security or a unit in a collective investment undertaking, the period generally accepted in the market for the settlement of that transferable security or a unit in a collective investment undertaking as the standard delivery period or 5 trading days, whichever is shorter. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> A contract shall not be considered a spot contract where, irrespective of its explicit terms, there is an understanding between the parties to the contract that delivery of the currency is to be postponed and not to be performed within the period set out in the first subparagraph. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> **3.** The major currencies for the purposes of paragraph 2 shall only include the US dollar, Euro, Japanese yen, Pound sterling, Australian dollar, Swiss franc, Canadian dollar, Hong Kong dollar, Swedish krona, New Zealand dollar, Singapore dollar, Norwegian krone, Mexican peso, Croatian kuna, Bulgarian lev, Czech koruna, Danish krone, Hungarian forint, Polish złoty and Romanian leu. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> **4.** For the purposes of paragraph 2, a trading day shall mean any day of normal trading in the jurisdiction of both the currencies that are exchanged pursuant to the contract for the exchange of those currencies and in the jurisdiction of a third currency where any of the following conditions are met: *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> - (a) the exchange of those currencies involves converting them through that third currency for the purposes of liquidity; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (b) the standard delivery period for the exchange of those currencies references the jurisdiction of that third currency. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> **Article 11 (affected by repeal, see note) — Money-market instruments (affected by repeal, see note)[^c-987cdd3766a1343a6a364dab7152ea80][^c-987cdd3766a1343a6a364dab7152ea80]**
+>
+> Money-market instruments in accordance with Article 4(1)(17) of *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^c-987cdd3766a1343a6a364dab7152ea80], shall include treasury bills, certificates of deposits, commercial papers and other instruments with substantively equivalent features where they have the following characteristics: *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> - (a) they have a value that can be determined at any time; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (b) they are not derivatives; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (c) they have a maturity at issuance of 397 days or less. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
 .
 
-## 11. Substitution of Schedule 3 to the Order (affected by repeal, see note)[^key-e57863b4cc49e95a5af997d5054b34e8][^key-987cdd3766a1343a6a364dab7152ea80]
+(5) In Part 3 of Schedule 2 (Section A of Annex I to the markets in financial instruments directive)— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-For Schedule 3 to the Order *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00019] (Article 2 of the markets in financial instruments directive) substitute— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+- (a) in paragraph 8, for “Multilateral Trading Facilities” substitute “an MTF”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (b) after paragraph 8 insert— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-> **SCHEDULE (affected by repeal, see note) 3 — Article 2 of the Markets in Financial Instruments Directive and related subordinate legislation (affected by repeal, see note)[^key-987cdd3766a1343a6a364dab7152ea80][^key-987cdd3766a1343a6a364dab7152ea80]**
+  > **9.** Operation of an OTF. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+  .
+
+(6) For Part 4 of Schedule 2 (Article 52 of Commission *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2006/73/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2006/0073)[^c-987cdd3766a1343a6a364dab7152ea80]) substitute— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+> **PART (affected by repeal, see note) 4 — Article 9 of the Commission Regulation (affected by repeal, see note)[^c-987cdd3766a1343a6a364dab7152ea80][^c-987cdd3766a1343a6a364dab7152ea80]**
 >
-> Article 3(1) *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+> **Article 9 (affected by repeal, see note) — Investment advice (affected by repeal, see note)[^c-987cdd3766a1343a6a364dab7152ea80][^c-987cdd3766a1343a6a364dab7152ea80]**
 >
-> **PART (affected by repeal, see note) 1 — Article 2 of the Markets in Financial Instruments Directive (affected by repeal, see note)[^key-987cdd3766a1343a6a364dab7152ea80][^key-987cdd3766a1343a6a364dab7152ea80]**
+> For the purposes of the definition of ‘investment advice’ in Article 4(1)(4) of *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^c-987cdd3766a1343a6a364dab7152ea80], a personal recommendation shall be considered a recommendation that is made to a person in his capacity as an investor or potential investor, or in his capacity as an agent for an investor or potential investor. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 >
-> **Article 2 (affected by repeal, see note) — Exemptions (affected by repeal, see note)[^key-987cdd3766a1343a6a364dab7152ea80][^key-987cdd3766a1343a6a364dab7152ea80]**
+> That recommendation shall be presented as suitable for that person, or shall be based on a consideration of the circumstances of that person, and shall constitute a recommendation to take one of the following sets of steps: *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 >
-> **1.** This Directive shall not apply to: *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+> - (a) to buy, sell, subscribe for, exchange, redeem, hold or underwrite a particular financial instrument; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (b) to exercise or not to exercise any right conferred by a particular financial instrument to buy, sell, subscribe for, exchange, or redeem a financial instrument. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 >
-> - (a) insurance undertakings or undertakings carrying out the reinsurance and retrocession activities referred to in *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2009/138/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2009/0138)[^key-987cdd3766a1343a6a364dab7152ea80] when carrying out the activities referred to in that Directive; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (b) persons providing investment services exclusively for their parent undertakings, for their subsidiaries or for other subsidiaries of their parent undertakings; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (c) persons providing an investment service where that service is provided in an incidental manner in the course of a professional activity and that activity is regulated by legal or regulatory provisions or a code of ethics governing the profession which do not exclude the provision of that service; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (d) persons dealing on own account in financial instruments other than commodity derivatives or emission allowances or derivatives thereof and not providing any other investment services or performing any other investment activities in financial instruments other than commodity derivatives or emission allowances or derivatives thereof unless such persons: *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->   - (i) are market makers; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->   - (ii (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] are members of or participants in a regulated market or an MTF, on the one hand, or have direct electronic access to a trading venue, on the other hand, except for non-financial entities who execute transactions on a trading venue which are objectively measurable as reducing risks directly relating to the commercial activity or treasury financing activity of those non-financial entities or their groups; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->   - (iii (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] apply a high frequency algorithmic trading technique; or *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->   - (iv (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] deal on own account when executing client orders; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
->   Persons exempt under points (a), (i) or (j) are not required to meet the conditions laid down in this point in order to be exempt. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (e) operators with compliance obligations under *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2003/87/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2003/0087)[^key-987cdd3766a1343a6a364dab7152ea80] who, when dealing in emission allowances, do not execute client orders and who do not provide any investment services or perform any investment activities other than dealing on own account, provided that those persons do not apply a high frequency algorithmic trading technique; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (f) persons providing investment services consisting exclusively in the administration of employee participation schemes; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (g) persons providing investment services which only involve both the administration of employee participation schemes and the provision of investment services exclusively for their parent undertakings, for their subsidiaries or for other subsidiaries of their parent undertakings; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (h) the members of the ESCB and other national bodies performing similar functions in the Union, other public bodies charged with or intervening in the management of the public debt in the Union and international financial institutions established by two or more Member States which have the purpose of mobilising funding and providing financial assistance to the benefit of their members that are experiencing or threatened by severe financing problems; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (i) collective investment undertakings and pension funds whether coordinated at Union level or not and the depositaries and managers of such undertakings; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (j) persons: *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->   - (i) dealing on own account, including market makers, in commodity derivatives or emission allowances or derivatives thereof, excluding persons who deal on own account when executing client orders; or *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->   - (ii (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] providing investment services, other than dealing on own account, in commodity derivatives or emission allowances or derivatives thereof to the customers or suppliers of their main business; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
->     provided that: *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> - for each of those cases individually and on an aggregate basis this is an ancillary activity to their main business, when considered on a group basis, and that main business is not the provision of investment services within the meaning of this Directive or banking activities under *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2013/36/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2013/0036)[^key-987cdd3766a1343a6a364dab7152ea80], or acting as a market maker in relation to commodity derivatives, *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - those persons do not apply a high frequency algorithmic trading technique; and *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - those persons notify annually the relevant competent authority that they make use of this exemption and upon request report to the competent authority the basis on which they consider that their activity under points (i) and (ii) is ancillary to their main business; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (k) persons providing investment advice in the course of providing another professional activity not covered by this Directive provided that the provision of such advice is not specifically remunerated; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (l) associations set up by Danish and Finnish pension funds with the sole aim of managing the assets of pension funds that are members of those associations; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (m) ‘agenti di cambio’ whose activities and functions are governed by Article 201 of Italian Legislative Decree No 58 of 24 February 1998; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (n) transmission system operators as defined in Article 2(4) of *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2009/72/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2009/0072)[^key-987cdd3766a1343a6a364dab7152ea80] or Article 2(4) of *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2009/73/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2009/0073)[^key-987cdd3766a1343a6a364dab7152ea80] when carrying out their tasks under those Directives, under Regulation *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [(EC) No 714/2009 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2009/0714)[^key-987cdd3766a1343a6a364dab7152ea80], under Regulation *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [(EC) No 715/2009 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2009/0715)[^key-987cdd3766a1343a6a364dab7152ea80] or under network codes or guidelines adopted pursuant to those Regulations, any persons acting as service providers on their behalf to carry out their task under those legislative acts or under network codes or guidelines adopted pursuant to those Regulations, and any operator or administrator of an energy balancing mechanism, pipeline network or system to keep in balance the supplies and uses of energy when carrying out such tasks. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
->   That exemption shall apply to persons engaged in the activities set out in this point only where they perform investment activities or provide investment services relating to commodity derivatives in order to carry out those activities. That exemption shall not apply with regard to the operation of a secondary market, including a platform for secondary trading in financial transmission rights; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (o) CSDs except as provided for in Article 73 of Regulation ( *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]EU *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]) No 909/2014 of the European Parliament and of the Council. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> **2.** The rights conferred by this Directive shall not extend to the provision of services as counterparty in transactions carried out by public bodies dealing with public debt or by members of the ESCB performing their tasks as provided for by the TFEU and by Protocol No 4 on the Statute of the European System of Central Banks and of the European Central Bank or performing equivalent functions under national provisions. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> **3.** The Commission shall adopt delegated acts in accordance with Article 89 to clarify for the purposes of point (c) of paragraph 1 when an activity is provided in an incidental manner. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> **4.** ESMA shall develop draft regulatory technical standards to specify, for the purposes of point (j) of paragraph 1, the criteria for establishing when an activity is to be considered to be ancillary to the main business at a group level. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> Those criteria shall take into account at least the following elements: *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> - (a) the need for ancillary activities to constitute a minority of activities at a group level; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (b) the size of their trading activity compared to the overall market trading activity in that asset class. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> In determining the extent to which ancillary activities constitute a minority of activities at a group level ESMA may determine that the capital employed for carrying out the ancillary activity relative to the capital employed for carrying out the main business is to be considered. However, that factor shall in no case be sufficient to demonstrate that the activity is ancillary to the main business of the group. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> The activities referred to in this paragraph shall be considered at a group level. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> The elements referred to in the second and third subparagraphs shall exclude: *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> - (a) intra-group transactions as referred to in Article 3 of Regulation ( *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]EU *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]) No 648/2012 that serve group-wide liquidity or risk management purposes; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (b) transactions in derivatives which are objectively measurable as reducing risks directly relating to the commercial activity or treasury financing activity; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (c) transactions in commodity derivatives and emission allowances entered into to fulfil obligations to provide liquidity on a trading venue, where such obligations are required by regulatory authorities in accordance with Union law or with national laws, regulations and administrative provisions, or by trading venues. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> ESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation ( *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]EU *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]) No 1095/2010. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> **PART (affected by repeal, see note) 2 — Article 4 of the Commission Regulation (affected by repeal, see note)[^key-987cdd3766a1343a6a364dab7152ea80][^key-987cdd3766a1343a6a364dab7152ea80]**
->
-> **Article 4 (affected by repeal, see note) — Provision of investment service in an incidental manner (affected by repeal, see note)[^key-987cdd3766a1343a6a364dab7152ea80][^key-987cdd3766a1343a6a364dab7152ea80]**
->
-> For the purpose of the exemption in point (c) of Article 2(1) of *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^key-987cdd3766a1343a6a364dab7152ea80], an investment service shall be deemed to be provided in an incidental manner in the course of a professional activity where the following conditions are satisfied: *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->
-> - (a) a close and factual connection exists between the professional activity and the provision of the investment service to the same client, such that the investment service can be regarded as accessory to the main professional activity; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (b) the provision of investment services to the clients of the main professional activity does not aim to provide a systematic source of income to the person providing the professional activity; and *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-> - (c) the person providing the professional activity does not market or otherwise promote his ability to provide investment services, except where these are disclosed to clients as being accessory to the main professional activity. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+> A recommendation shall not be considered a personal recommendation if it is issued exclusively to the public. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
 .
 
-## 12. Minor and consequential amendments to the Order (affected by repeal, see note)[^key-34d1e9c5f1382d5bfdb44622a24eb814][^key-987cdd3766a1343a6a364dab7152ea80]
+## 11. Substitution of Schedule 3 to the Order (affected by repeal, see note)[^c-e57863b4cc49e95a5af997d5054b34e8][^c-987cdd3766a1343a6a364dab7152ea80]
 
-(1) The Order is further amended as follows. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+For Schedule 3 to the Order *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00019] (Article 2 of the markets in financial instruments directive) substitute— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(2) In article 4 *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00020] (specified activities: general), in paragraph (4)(b)— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-
-- (a) after “16,” insert “18,”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (b) after “29,” insert “34,”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-
-(3) In articles 14(2) *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00021] (dealing in investments as principal), 21(2) (dealing in investments as agent) and 25(3) (arranging deals in investments) after “25D” insert “or 25DA”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-
-(4) In article 18 *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00022] (issue by a company of its own shares *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] etc *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]), after paragraph (2) insert— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-
-> (3) This article is subject to article 4(4). *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+> **SCHEDULE (affected by repeal, see note) 3 — Article 2 of the Markets in Financial Instruments Directive and related subordinate legislation (affected by repeal, see note)[^c-987cdd3766a1343a6a364dab7152ea80][^c-987cdd3766a1343a6a364dab7152ea80]**
+>
+> Article 3(1) *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> **PART (affected by repeal, see note) 1 — Article 2 of the Markets in Financial Instruments Directive (affected by repeal, see note)[^c-987cdd3766a1343a6a364dab7152ea80][^c-987cdd3766a1343a6a364dab7152ea80]**
+>
+> **Article 2 (affected by repeal, see note) — Exemptions (affected by repeal, see note)[^c-987cdd3766a1343a6a364dab7152ea80][^c-987cdd3766a1343a6a364dab7152ea80]**
+>
+> **1.** This Directive shall not apply to: *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> - (a) insurance undertakings or undertakings carrying out the reinsurance and retrocession activities referred to in *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2009/138/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2009/0138)[^c-987cdd3766a1343a6a364dab7152ea80] when carrying out the activities referred to in that Directive; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (b) persons providing investment services exclusively for their parent undertakings, for their subsidiaries or for other subsidiaries of their parent undertakings; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (c) persons providing an investment service where that service is provided in an incidental manner in the course of a professional activity and that activity is regulated by legal or regulatory provisions or a code of ethics governing the profession which do not exclude the provision of that service; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (d) persons dealing on own account in financial instruments other than commodity derivatives or emission allowances or derivatives thereof and not providing any other investment services or performing any other investment activities in financial instruments other than commodity derivatives or emission allowances or derivatives thereof unless such persons: *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>   - (i) are market makers; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>   - (ii (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] are members of or participants in a regulated market or an MTF, on the one hand, or have direct electronic access to a trading venue, on the other hand, except for non-financial entities who execute transactions on a trading venue which are objectively measurable as reducing risks directly relating to the commercial activity or treasury financing activity of those non-financial entities or their groups; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>   - (iii (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] apply a high frequency algorithmic trading technique; or *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>   - (iv (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] deal on own account when executing client orders; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+>   Persons exempt under points (a), (i) or (j) are not required to meet the conditions laid down in this point in order to be exempt. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (e) operators with compliance obligations under *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2003/87/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2003/0087)[^c-987cdd3766a1343a6a364dab7152ea80] who, when dealing in emission allowances, do not execute client orders and who do not provide any investment services or perform any investment activities other than dealing on own account, provided that those persons do not apply a high frequency algorithmic trading technique; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (f) persons providing investment services consisting exclusively in the administration of employee participation schemes; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (g) persons providing investment services which only involve both the administration of employee participation schemes and the provision of investment services exclusively for their parent undertakings, for their subsidiaries or for other subsidiaries of their parent undertakings; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (h) the members of the ESCB and other national bodies performing similar functions in the Union, other public bodies charged with or intervening in the management of the public debt in the Union and international financial institutions established by two or more Member States which have the purpose of mobilising funding and providing financial assistance to the benefit of their members that are experiencing or threatened by severe financing problems; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (i) collective investment undertakings and pension funds whether coordinated at Union level or not and the depositaries and managers of such undertakings; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (j) persons: *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>   - (i) dealing on own account, including market makers, in commodity derivatives or emission allowances or derivatives thereof, excluding persons who deal on own account when executing client orders; or *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>   - (ii (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] providing investment services, other than dealing on own account, in commodity derivatives or emission allowances or derivatives thereof to the customers or suppliers of their main business; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+>     provided that: *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> - for each of those cases individually and on an aggregate basis this is an ancillary activity to their main business, when considered on a group basis, and that main business is not the provision of investment services within the meaning of this Directive or banking activities under *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2013/36/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2013/0036)[^c-987cdd3766a1343a6a364dab7152ea80], or acting as a market maker in relation to commodity derivatives, *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - those persons do not apply a high frequency algorithmic trading technique; and *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - those persons notify annually the relevant competent authority that they make use of this exemption and upon request report to the competent authority the basis on which they consider that their activity under points (i) and (ii) is ancillary to their main business; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (k) persons providing investment advice in the course of providing another professional activity not covered by this Directive provided that the provision of such advice is not specifically remunerated; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (l) associations set up by Danish and Finnish pension funds with the sole aim of managing the assets of pension funds that are members of those associations; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (m) ‘agenti di cambio’ whose activities and functions are governed by Article 201 of Italian Legislative Decree No 58 of 24 February 1998; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (n) transmission system operators as defined in Article 2(4) of *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2009/72/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2009/0072)[^c-987cdd3766a1343a6a364dab7152ea80] or Article 2(4) of *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2009/73/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2009/0073)[^c-987cdd3766a1343a6a364dab7152ea80] when carrying out their tasks under those Directives, under Regulation *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [(EC) No 714/2009 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2009/0714)[^c-987cdd3766a1343a6a364dab7152ea80], under Regulation *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [(EC) No 715/2009 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2009/0715)[^c-987cdd3766a1343a6a364dab7152ea80] or under network codes or guidelines adopted pursuant to those Regulations, any persons acting as service providers on their behalf to carry out their task under those legislative acts or under network codes or guidelines adopted pursuant to those Regulations, and any operator or administrator of an energy balancing mechanism, pipeline network or system to keep in balance the supplies and uses of energy when carrying out such tasks. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+>   That exemption shall apply to persons engaged in the activities set out in this point only where they perform investment activities or provide investment services relating to commodity derivatives in order to carry out those activities. That exemption shall not apply with regard to the operation of a secondary market, including a platform for secondary trading in financial transmission rights; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (o) CSDs except as provided for in Article 73 of Regulation ( *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]EU *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]) No 909/2014 of the European Parliament and of the Council. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> **2.** The rights conferred by this Directive shall not extend to the provision of services as counterparty in transactions carried out by public bodies dealing with public debt or by members of the ESCB performing their tasks as provided for by the TFEU and by Protocol No 4 on the Statute of the European System of Central Banks and of the European Central Bank or performing equivalent functions under national provisions. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> **3.** The Commission shall adopt delegated acts in accordance with Article 89 to clarify for the purposes of point (c) of paragraph 1 when an activity is provided in an incidental manner. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> **4.** ESMA shall develop draft regulatory technical standards to specify, for the purposes of point (j) of paragraph 1, the criteria for establishing when an activity is to be considered to be ancillary to the main business at a group level. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> Those criteria shall take into account at least the following elements: *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> - (a) the need for ancillary activities to constitute a minority of activities at a group level; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (b) the size of their trading activity compared to the overall market trading activity in that asset class. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> In determining the extent to which ancillary activities constitute a minority of activities at a group level ESMA may determine that the capital employed for carrying out the ancillary activity relative to the capital employed for carrying out the main business is to be considered. However, that factor shall in no case be sufficient to demonstrate that the activity is ancillary to the main business of the group. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> The activities referred to in this paragraph shall be considered at a group level. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> The elements referred to in the second and third subparagraphs shall exclude: *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> - (a) intra-group transactions as referred to in Article 3 of Regulation ( *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]EU *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]) No 648/2012 that serve group-wide liquidity or risk management purposes; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (b) transactions in derivatives which are objectively measurable as reducing risks directly relating to the commercial activity or treasury financing activity; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (c) transactions in commodity derivatives and emission allowances entered into to fulfil obligations to provide liquidity on a trading venue, where such obligations are required by regulatory authorities in accordance with Union law or with national laws, regulations and administrative provisions, or by trading venues. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> ESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation ( *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]EU *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]) No 1095/2010. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> **PART (affected by repeal, see note) 2 — Article 4 of the Commission Regulation (affected by repeal, see note)[^c-987cdd3766a1343a6a364dab7152ea80][^c-987cdd3766a1343a6a364dab7152ea80]**
+>
+> **Article 4 (affected by repeal, see note) — Provision of investment service in an incidental manner (affected by repeal, see note)[^c-987cdd3766a1343a6a364dab7152ea80][^c-987cdd3766a1343a6a364dab7152ea80]**
+>
+> For the purpose of the exemption in point (c) of Article 2(1) of *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^c-987cdd3766a1343a6a364dab7152ea80], an investment service shall be deemed to be provided in an incidental manner in the course of a professional activity where the following conditions are satisfied: *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>
+> - (a) a close and factual connection exists between the professional activity and the provision of the investment service to the same client, such that the investment service can be regarded as accessory to the main professional activity; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (b) the provision of investment services to the clients of the main professional activity does not aim to provide a systematic source of income to the person providing the professional activity; and *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+> - (c) the person providing the professional activity does not market or otherwise promote his ability to provide investment services, except where these are disclosed to clients as being accessory to the main professional activity. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
 .
 
-(5) In article 25D(2)(a), after “81,” insert “82B,”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+## 12. Minor and consequential amendments to the Order (affected by repeal, see note)[^c-34d1e9c5f1382d5bfdb44622a24eb814][^c-987cdd3766a1343a6a364dab7152ea80]
 
-(6) In article 34 (arrangements for the issue of shares *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] etc *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]), after paragraph (2) insert— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(1) The Order is further amended as follows. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-> (3) This article is subject to article 4(4). *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(2) In article 4 *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00020] (specified activities: general), in paragraph (4)(b)— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+- (a) after “16,” insert “18,”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (b) after “29,” insert “34,”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+(3) In articles 14(2) *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00021] (dealing in investments as principal), 21(2) (dealing in investments as agent) and 25(3) (arranging deals in investments) after “25D” insert “or 25DA”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+(4) In article 18 *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00022] (issue by a company of its own shares *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] etc *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]), after paragraph (2) insert— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+> (3) This article is subject to article 4(4). *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
 .
 
-(7) In article 64 *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00023] (agreeing to carry on specified kinds of activity) after “25D,” insert “25DA,”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(5) In article 25D(2)(a), after “81,” insert “82B,”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(8) In article 72H *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00024] (insolvency practitioners) after paragraph (2)(d) insert— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(6) In article 34 (arrangements for the issue of shares *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] etc *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]), after paragraph (2) insert— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-> - (da (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] article 25DA (operating an organised trading facility); *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+> (3) This article is subject to article 4(4). *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
 .
 
-## 13. FCA general rules: product intervention and the integrity objective (affected by repeal, see note)[^key-ff85128163b577c86f0e783bc6e6b109][^key-987cdd3766a1343a6a364dab7152ea80]
+(7) In article 64 *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00023] (agreeing to carry on specified kinds of activity) after “25D,” insert “25DA,”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(1) The integrity objective applies for the purposes of section 137D of the Act *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00025] (FCA general rules: product intervention). *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(8) In article 72H *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00024] (insolvency practitioners) after paragraph (2)(d) insert— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(2) For the purposes of this article, “the integrity objective” means the integrity objective in section 1D *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00026] of the Act (the integrity objective). *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+> - (da (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] article 25DA (operating an organised trading facility); *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-## 14. Amendments to other legislation (affected by repeal, see note)[^key-bb890a632031c61dfb19f2aa470402a3][^key-987cdd3766a1343a6a364dab7152ea80]
+.
 
-The Schedule, which makes consequential amendments to primary and secondary legislation, has effect. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+## 13. FCA general rules: product intervention and the integrity objective (affected by repeal, see note)[^c-ff85128163b577c86f0e783bc6e6b109][^c-987cdd3766a1343a6a364dab7152ea80]
 
-## 15. Applications for permission or approval and variation of permission or approval (affected by repeal, see note)[^key-3f00a51d14f6789fb8b267f3a522a1e5][^key-987cdd3766a1343a6a364dab7152ea80]
+(1) The integrity objective applies for the purposes of section 137D of the Act *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00025] (FCA general rules: product intervention). *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(1) Where a person makes a completed application before 3rd July 2017 under Part 4A of the Act *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00027] for a permission or a variation of permission in relation to any specified activity or any specified investment amended or inserted by this Order, section 55V(1) of the Act (applications to be determined by the appropriate regulator within six months) does not apply to the application. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(2) For the purposes of this article, “the integrity objective” means the integrity objective in section 1D *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00026] of the Act (the integrity objective). *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(2) Where a person makes a completed application before 3rd July 2017 under section 60 of the Act *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00028] (applications for approval) for an approval, or under section 63ZA of the Act *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00029] (variation of approval) for a variation of an approval, in relation to any specified activity or any specified investment amended or inserted by this Order, section 61(3) *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00030] of the Act (determination of applications) does not apply to the application. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+## 14. Amendments to other legislation (affected by repeal, see note)[^c-bb890a632031c61dfb19f2aa470402a3][^c-987cdd3766a1343a6a364dab7152ea80]
 
-(3) If the appropriate regulator has not determined an application to which paragraph (1) or (2) applies before the end of the period of six months beginning on the date on which it received the completed application it must inform the applicant of the progress being made on the application. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+The Schedule, which makes consequential amendments to primary and secondary legislation, has effect. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(4) In any event the appropriate regulator must determine an application to which paragraph (1) or (2) applies before 3rd January 2018. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+## 15. Applications for permission or approval and variation of permission or approval (affected by repeal, see note)[^c-3f00a51d14f6789fb8b267f3a522a1e5][^c-987cdd3766a1343a6a364dab7152ea80]
 
-(5) In this article the “appropriator regulator” has the same meaning as in— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(1) Where a person makes a completed application before 3rd July 2017 under Part 4A of the Act *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00027] for a permission or a variation of permission in relation to any specified activity or any specified investment amended or inserted by this Order, section 55V(1) of the Act (applications to be determined by the appropriate regulator within six months) does not apply to the application. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-- (a) section 55U(6) *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00031] of the Act in the case of an application for a permission under Part 4A of the Act; or *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (b) section 60(9) of the Act in the case of an application for an approval under section 60 of the Act. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(2) Where a person makes a completed application before 3rd July 2017 under section 60 of the Act *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00028] (applications for approval) for an approval, or under section 63ZA of the Act *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00029] (variation of approval) for a variation of an approval, in relation to any specified activity or any specified investment amended or inserted by this Order, section 61(3) *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00030] of the Act (determination of applications) does not apply to the application. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-## 16. Transitional provision: structured deposits (affected by repeal, see note)[^key-543cb7d8a2f7cba5ee910df70c8b1ab8][^key-987cdd3766a1343a6a364dab7152ea80]
+(3) If the appropriate regulator has not determined an application to which paragraph (1) or (2) applies before the end of the period of six months beginning on the date on which it received the completed application it must inform the applicant of the progress being made on the application. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(1) Notwithstanding article 15, paragraph (2) applies where— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(4) In any event the appropriate regulator must determine an application to which paragraph (1) or (2) applies before 3rd January 2018. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-- (a) a person (“P”) gives notice to the appropriate regulator before *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] 1st April 2018[^key-b15408b63ccf05819c8bab5392a9ff75] *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80], in such form as the appropriate regulator directs, that P wishes to carry on a permitted activity in relation to structured deposits, *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (b) the appropriate regulator acknowledges receipt of the notice in writing, and *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (c) immediately before 3rd January 2018 P had a Part 4A permission to carry on the permitted activity to which the notice under sub-paragraph (a) relates. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(5) In this article the “appropriator regulator” has the same meaning as in— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(2) P’s Part 4A permission is to be treated, from 3rd January 2018 (or the date of acknowledgement of receipt, if later), as including permission to carry on any permitted activity to which the notice under paragraph (1)(a) relates in relation to structured deposits. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+- (a) section 55U(6) *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00031] of the Act in the case of an application for a permission under Part 4A of the Act; or *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (b) section 60(9) of the Act in the case of an application for an approval under section 60 of the Act. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(2A)[^key-938c4c647e7b7bb8bcf3843cb048c049] Notwithstanding article 15, paragraph (2B) applies where— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+## 16. Transitional provision: structured deposits (affected by repeal, see note)[^c-543cb7d8a2f7cba5ee910df70c8b1ab8][^c-987cdd3766a1343a6a364dab7152ea80]
 
-- (a) an EEA firm gives notice to the appropriate regulator before 1st April 2018, in such form as the appropriate regulator directs, that the EEA firm wishes to carry on a permitted activity in relation to structured deposits; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (b) the appropriate regulator acknowledges receipt of the notice in writing; and *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (c) the EEA firm— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-  - (i) immediately before 3rd January 2018 had permission under paragraph 15 of Schedule 3 (EEA passport rights) to the Act to carry on the permitted activity to which the notice under sub-paragraph (a) relates; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-  - (ii (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] the EEA firm’s permission under paragraph 15 of Schedule 3 to the Act does not permit it to carry on the permitted activity in relation to structured deposits after 3rd January 2018; and *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-  - (iii (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] the EEA firm is not, or would not be, otherwise entitled to carry on the permitted activity in exercise of an EEA right, whether through a United Kingdom branch or by providing services in the United Kingdom. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(1) Notwithstanding article 15, paragraph (2) applies where— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(2B) The EEA firm is to be treated, from 3rd January 2018 (or the date of acknowledgement of receipt, if later), as having a Part 4A permission to carry on any permitted activity to which the notice under paragraph (2A)(a) relates in relation to structured deposits. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+- (a) a person (“P”) gives notice to the appropriate regulator before *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] 1st April 2018[^c-b15408b63ccf05819c8bab5392a9ff75] *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80], in such form as the appropriate regulator directs, that P wishes to carry on a permitted activity in relation to structured deposits, *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (b) the appropriate regulator acknowledges receipt of the notice in writing, and *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (c) immediately before 3rd January 2018 P had a Part 4A permission to carry on the permitted activity to which the notice under sub-paragraph (a) relates. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(3) In this article “appropriate regulator” means— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(2) P’s Part 4A permission is to be treated, from 3rd January 2018 (or the date of acknowledgement of receipt, if later), as including permission to carry on any permitted activity to which the notice under paragraph (1)(a) relates in relation to structured deposits. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-- (a) in respect of a PRA-authorised person, the PRA; and *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (b) in respect of all other persons, the FCA; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(2A)[^c-938c4c647e7b7bb8bcf3843cb048c049] Notwithstanding article 15, paragraph (2B) applies where— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-- “permitted activity” means an activity of the kind specified by article 21, 25, 37 or 53 of the Order. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+- (a) an EEA firm gives notice to the appropriate regulator before 1st April 2018, in such form as the appropriate regulator directs, that the EEA firm wishes to carry on a permitted activity in relation to structured deposits; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (b) the appropriate regulator acknowledges receipt of the notice in writing; and *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (c) the EEA firm— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+  - (i) immediately before 3rd January 2018 had permission under paragraph 15 of Schedule 3 (EEA passport rights) to the Act to carry on the permitted activity to which the notice under sub-paragraph (a) relates; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+  - (ii (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] the EEA firm’s permission under paragraph 15 of Schedule 3 to the Act does not permit it to carry on the permitted activity in relation to structured deposits after 3rd January 2018; and *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+  - (iii (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] the EEA firm is not, or would not be, otherwise entitled to carry on the permitted activity in exercise of an EEA right, whether through a United Kingdom branch or by providing services in the United Kingdom. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-## 17. Review (affected by repeal, see note)[^key-987cdd3766a1343a6a364dab7152ea80][^key-987cdd3766a1343a6a364dab7152ea80]
+(2B) The EEA firm is to be treated, from 3rd January 2018 (or the date of acknowledgement of receipt, if later), as having a Part 4A permission to carry on any permitted activity to which the notice under paragraph (2A)(a) relates in relation to structured deposits. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+(3) In this article “appropriate regulator” means— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+- (a) in respect of a PRA-authorised person, the PRA; and *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (b) in respect of all other persons, the FCA; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+- “permitted activity” means an activity of the kind specified by article 21, 25, 37 or 53 of the Order. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+## 17. Review (affected by repeal, see note)[^c-987cdd3766a1343a6a364dab7152ea80][^c-987cdd3766a1343a6a364dab7152ea80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-David Evennett *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+David Evennett *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-Guto Bebb *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+Guto Bebb *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-Two of the Lords Commissioners of Her Majesty’s Treasury *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+Two of the Lords Commissioners of Her Majesty’s Treasury *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-28th March 2017 *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+28th March 2017 *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-## SCHEDULE (affected by repeal, see note) — Consequential amendments to primary and secondary legislation (affected by repeal, see note)[^key-987cdd3766a1343a6a364dab7152ea80][^key-987cdd3766a1343a6a364dab7152ea80]
+## SCHEDULE (affected by repeal, see note) — Consequential amendments to primary and secondary legislation (affected by repeal, see note)[^c-987cdd3766a1343a6a364dab7152ea80][^c-987cdd3766a1343a6a364dab7152ea80]
 
-Article 14 *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+Article 14 *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-### 1. Amendment to the Fair Trading Act 1973 (affected by repeal, see note)[^key-e2da03d0ee87d911368af0a82241f31f][^key-987cdd3766a1343a6a364dab7152ea80]
+### 1. Amendment to the Fair Trading Act 1973 (affected by repeal, see note)[^c-e2da03d0ee87d911368af0a82241f31f][^c-987cdd3766a1343a6a364dab7152ea80]
 
-In section 118 of the Fair Trading Act 1973 *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00033] (trading schemes to which Part 11 applies), in subsection (6A), after paragraph (ba) insert— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+In section 118 of the Fair Trading Act 1973 *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00033] (trading schemes to which Part 11 applies), in subsection (6A), after paragraph (ba) insert— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-> - (bb (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] operating an organised trading facility; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-
-.
-
-### 2. Amendment to the Companies Act 1989 (affected by repeal, see note)[^key-4003322818aab117aaf733609180707e][^key-987cdd3766a1343a6a364dab7152ea80]
-
-In section 176 of the Companies Act 1989 *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00034] (power to make provision about other charges), in subsection (8), after paragraph (ba) insert— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-
-> - (bb (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] operating an organised trading facility; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+> - (bb (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] operating an organised trading facility; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
 .
 
-### 3. Amendment to the Terrorism Act 2000 (affected by repeal, see note)[^key-4ba25d38ed178e8ee26e823645f987f5][^key-987cdd3766a1343a6a364dab7152ea80]
+### 2. Amendment to the Companies Act 1989 (affected by repeal, see note)[^c-4003322818aab117aaf733609180707e][^c-987cdd3766a1343a6a364dab7152ea80]
 
-In Schedule 6 to the Terrorism Act 2000 *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00035] (financial information), in paragraph 6(1A), after paragraph (ba) insert— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+In section 176 of the Companies Act 1989 *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00034] (power to make provision about other charges), in subsection (8), after paragraph (ba) insert— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-> - (bb (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] operating an organised trading facility, *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-
-.
-
-### 4. Amendment to the Financial Services and Markets Act 2000 (Collective Investment Schemes) Order 2001 (affected by repeal, see note)[^key-4d48a9196b0fd9ac9b06e0419210cde7][^key-987cdd3766a1343a6a364dab7152ea80]
-
-In the Schedule to the Financial Services and Markets Act 2000 (Collective Investment Schemes) Order 2001 *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00036] (arrangements not amounting to a collective investment scheme)— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-
-- (a) in paragraph 5(2)(a), after “25D (operating a multilateral trading facility),”, insert “25DA (operating an organised trading facility),”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (b) in paragraph 9(5), in the definition of “specified business”, after “25D,” insert “25DA,”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-
-### 5. Amendment to the Financial Services and Markets Act 2000 (Carrying on Regulated Activities by Way of Business) Order 2001 (affected by repeal, see note)[^key-8d4d63704dae3b52cbeef2870116216c][^key-987cdd3766a1343a6a364dab7152ea80]
-
-After article 3(2)(ca) of the Financial Services and Markets Act 2000 (Carrying on Regulated Activities by Way of Business) Order 2001 *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00037] (investment business) insert— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-
-> - (cb (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] article 25DA (operating an organised trading facility); *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+> - (bb (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] operating an organised trading facility; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
 .
 
-### 6. Amendments to the Financial Services and Markets Act 2000 (Exemption) Order 2001 (affected by repeal, see note)[^key-c769796639a8aacdfbd19420f221d4f9][^key-987cdd3766a1343a6a364dab7152ea80]
+### 3. Amendment to the Terrorism Act 2000 (affected by repeal, see note)[^c-4ba25d38ed178e8ee26e823645f987f5][^c-987cdd3766a1343a6a364dab7152ea80]
 
-(1) The Financial Services and Markets Act 2000 (Exemption) Order 2001 *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00038] is amended as follows. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+In Schedule 6 to the Terrorism Act 2000 *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00035] (financial information), in paragraph 6(1A), after paragraph (ba) insert— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(2) In article 5(1) (persons exempt in respect of particular regulated activities), after sub-paragraph (ca) insert— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-
-> - (cb (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] article 25DA (operating an organised trading facility); *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+> - (bb (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] operating an organised trading facility, *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
 .
 
-(3) In the Schedule— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+### 4. Amendment to the Financial Services and Markets Act 2000 (Collective Investment Schemes) Order 2001 (affected by repeal, see note)[^c-4d48a9196b0fd9ac9b06e0419210cde7][^c-987cdd3766a1343a6a364dab7152ea80]
 
-- (a) in paragraph 42 (gas industry)— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-  - (i) in sub-paragraph (1)— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-    - (aa (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] for “or 25D” substitute “, 25D or 25DA”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-    - (bb (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] for “or operating a multilateral trading facility” substitute “, operating a multilateral trading facility or operating an organised trading facility”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-  - (ii (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] in sub-paragraph (2)— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-    - (aa (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] for “or 25D” substitute “, 25D or 25DA”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-    - (bb (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] for “or operating a multilateral trading facility” substitute “, operating a multilateral trading facility or operating an organised trading facility”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (b) in paragraph 49 (electricity industry)— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-  - (i) in sub-paragraph (1)— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-    - (aa (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] after “25D” insert “, 25DA”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-    - (bb (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] after “operating a multilateral trading facility” insert “, operating an organised trading facility”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-  - (ii (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] in sub-paragraphs (2), (4) and (5) for “or 25D” substitute “, 25D or 25DA”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-  - (iii (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] in sub-paragraph (3) after “25D” insert “, 25DA”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+In the Schedule to the Financial Services and Markets Act 2000 (Collective Investment Schemes) Order 2001 *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00036] (arrangements not amounting to a collective investment scheme)— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-### 7. Amendments to the Financial Services and Markets Act 2000 (Appointed Representatives) Regulations 2001 (affected by repeal, see note)[^key-94991660ac0ab11e8e4f2d9fd5b1e22a][^key-987cdd3766a1343a6a364dab7152ea80]
+- (a) in paragraph 5(2)(a), after “25D (operating a multilateral trading facility),”, insert “25DA (operating an organised trading facility),”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (b) in paragraph 9(5), in the definition of “specified business”, after “25D,” insert “25DA,”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(1) The Financial Services and Markets Act 2000 (Appointed Representatives) Regulations 2001 *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00039] are amended as follows. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+### 5. Amendment to the Financial Services and Markets Act 2000 (Carrying on Regulated Activities by Way of Business) Order 2001 (affected by repeal, see note)[^c-8d4d63704dae3b52cbeef2870116216c][^c-987cdd3766a1343a6a364dab7152ea80]
 
-(2) In regulation 1(2) (citation, commencement and interpretation), in the definition of “buy”, “sell”, “security”, “qualifying contract of insurance” and “relevant investment”, for “and “relevant investment”” substitute “, “relevant investment” and “structured deposit””. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+After article 3(2)(ca) of the Financial Services and Markets Act 2000 (Carrying on Regulated Activities by Way of Business) Order 2001 *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00037] (investment business) insert— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(3) In regulation 2 (descriptions of business for which appointed representatives are exempt)— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-
-- (a) in paragraph (1)(a) for “or relevant investments” substitute “, relevant investments or structured deposits”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (b) in paragraph (1A), in sub-paragraphs (a) and (b) after “financial instruments” insert “or structured deposits”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-
-### 8. Amendments to the Financial Services and Markets Act 2000 (Professions) (Non-Exempt Activities) Order 2001 (affected by repeal, see note)[^key-c088216b69fade24d550c7d849b63a77][^key-987cdd3766a1343a6a364dab7152ea80]
-
-(1) The Financial Services and Markets Act 2000 (Professions) (Non-Exempt Activities) Order 2001 *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00040] is amended as follows. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-
-(2) In article 2(1) (interpretation), at the appropriate place insert— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-
-> - “structured deposit” has the meaning given by article 3(1) of the Regulated Activities Order; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+> - (cb (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] article 25DA (operating an organised trading facility); *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
 .
 
-(3) In articles 5(1) (managing investments) and 6(2)(b) and (c)(i) (advising on investments), for “security or contractually based investment” substitute “security, contractually based investment or structured deposit”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+### 6. Amendments to the Financial Services and Markets Act 2000 (Exemption) Order 2001 (affected by repeal, see note)[^c-c769796639a8aacdfbd19420f221d4f9][^c-987cdd3766a1343a6a364dab7152ea80]
 
-### 9. Amendments to the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (affected by repeal, see note)[^key-8ef6c48e2ae1344a78c7bf197edce342][^key-987cdd3766a1343a6a364dab7152ea80]
+(1) The Financial Services and Markets Act 2000 (Exemption) Order 2001 *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00038] is amended as follows. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(1) The Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00041] is amended as follows. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(2) In article 5(1) (persons exempt in respect of particular regulated activities), after sub-paragraph (ca) insert— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(2) In article 2(1) (interpretation), at the appropriate place insert— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-
-> - “structured deposit” means a deposit which is fully repayable at maturity on terms under which interest or a premium will be paid or is at risk, according to a formula involving factors such as— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->   - (a) an index or combination of indices excluding variable rate deposits whose return is directly linked to an interest rate index such as Euribor or Libor; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->   - (b) a financial instrument or combination of financial instruments; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->   - (c) a commodity or combination of commodities or other physical or non-physical non-fungible assets; or *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
->   - (d) a foreign exchange rate or combination of foreign exchange rates; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+> - (cb (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] article 25DA (operating an organised trading facility); *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
 .
 
-(3) In article 22(1) (deposits: non-real time communications), after “Schedule 1” insert “except where that controlled activity relates to a structured deposit”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(3) In the Schedule— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(4) In article 23 (deposits: real time communications), after “Schedule 1” insert “except where that controlled activity relates to a structured deposit”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+- (a) in paragraph 42 (gas industry)— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+  - (i) in sub-paragraph (1)— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+    - (aa (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] for “or 25D” substitute “, 25D or 25DA”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+    - (bb (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] for “or operating a multilateral trading facility” substitute “, operating a multilateral trading facility or operating an organised trading facility”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+  - (ii (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] in sub-paragraph (2)— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+    - (aa (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] for “or 25D” substitute “, 25D or 25DA”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+    - (bb (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] for “or operating a multilateral trading facility” substitute “, operating a multilateral trading facility or operating an organised trading facility”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (b) in paragraph 49 (electricity industry)— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+  - (i) in sub-paragraph (1)— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+    - (aa (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] after “25D” insert “, 25DA”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+    - (bb (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] after “operating a multilateral trading facility” insert “, operating an organised trading facility”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+  - (ii (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] in sub-paragraphs (2), (4) and (5) for “or 25D” substitute “, 25D or 25DA”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+  - (iii (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] in sub-paragraph (3) after “25D” insert “, 25DA”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(5) In article 37 (financial markets) — *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+### 7. Amendments to the Financial Services and Markets Act 2000 (Appointed Representatives) Regulations 2001 (affected by repeal, see note)[^c-94991660ac0ab11e8e4f2d9fd5b1e22a][^c-987cdd3766a1343a6a364dab7152ea80]
 
-- (a) in paragraph (3)(a), for “or 23” substitute “, 23 or 23A”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (b) in paragraph (4)(b), omit “ *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]II *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80],”.
+(1) The Financial Services and Markets Act 2000 (Appointed Representatives) Regulations 2001 *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00039] are amended as follows. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(6) In article 41(4)(b) (bearer instruments: promotions required or permitted by market rules), omit “ *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]II *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] or”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(2) In regulation 1(2) (citation, commencement and interpretation), in the definition of “buy”, “sell”, “security”, “qualifying contract of insurance” and “relevant investment”, for “and “relevant investment”” substitute “, “relevant investment” and “structured deposit””. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(7) In article 67(2)(b) (promotions required or permitted by market rules), omit “ *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]II *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] or”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(3) In regulation 2 (descriptions of business for which appointed representatives are exempt)— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(8) In article 68 (promotions in connection with admission to certain *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] EEA *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] markets), omit paragraph (2)(b), and the “or” preceding it. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+- (a) in paragraph (1)(a) for “or relevant investments” substitute “, relevant investments or structured deposits”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (b) in paragraph (1A), in sub-paragraphs (a) and (b) after “financial instruments” insert “or structured deposits”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(9) In the definition of “relevant market” in article 69(1) (promotions of securities already admitted to certain markets), omit “ *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]II *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] or”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+### 8. Amendments to the Financial Services and Markets Act 2000 (Professions) (Non-Exempt Activities) Order 2001 (affected by repeal, see note)[^c-c088216b69fade24d550c7d849b63a77][^c-987cdd3766a1343a6a364dab7152ea80]
 
-(10) In Schedule 1 (controlled activities and controlled investments)— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(1) The Financial Services and Markets Act 2000 (Professions) (Non-Exempt Activities) Order 2001 *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00040] is amended as follows. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-- (a) in paragraph 3(1) (dealing in securities and contractually based investments) after “securities” insert “, structured deposits”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (b) in paragraph 4 (arranging deals in investments)— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-  - (i) after sub-paragraph (1)(a), insert— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(2) In article 2(1) (interpretation), at the appropriate place insert— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-    > - (aa (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] a structured deposit; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+> - “structured deposit” has the meaning given by article 3(1) of the Regulated Activities Order; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+.
+
+(3) In articles 5(1) (managing investments) and 6(2)(b) and (c)(i) (advising on investments), for “security or contractually based investment” substitute “security, contractually based investment or structured deposit”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+### 9. Amendments to the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (affected by repeal, see note)[^c-8ef6c48e2ae1344a78c7bf197edce342][^c-987cdd3766a1343a6a364dab7152ea80]
+
+(1) The Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00041] is amended as follows. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+(2) In article 2(1) (interpretation), at the appropriate place insert— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+> - “structured deposit” means a deposit which is fully repayable at maturity on terms under which interest or a premium will be paid or is at risk, according to a formula involving factors such as— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>   - (a) an index or combination of indices excluding variable rate deposits whose return is directly linked to an interest rate index such as Euribor or Libor; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>   - (b) a financial instrument or combination of financial instruments; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>   - (c) a commodity or combination of commodities or other physical or non-physical non-fungible assets; or *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+>   - (d) a foreign exchange rate or combination of foreign exchange rates; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+.
+
+(3) In article 22(1) (deposits: non-real time communications), after “Schedule 1” insert “except where that controlled activity relates to a structured deposit”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+(4) In article 23 (deposits: real time communications), after “Schedule 1” insert “except where that controlled activity relates to a structured deposit”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+(5) In article 37 (financial markets) — *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+- (a) in paragraph (3)(a), for “or 23” substitute “, 23 or 23A”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (b) in paragraph (4)(b), omit “ *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]II *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80],”.
+
+(6) In article 41(4)(b) (bearer instruments: promotions required or permitted by market rules), omit “ *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]II *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] or”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+(7) In article 67(2)(b) (promotions required or permitted by market rules), omit “ *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]II *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] or”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+(8) In article 68 (promotions in connection with admission to certain *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] EEA *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] markets), omit paragraph (2)(b), and the “or” preceding it. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+(9) In the definition of “relevant market” in article 69(1) (promotions of securities already admitted to certain markets), omit “ *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]II *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] or”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+(10) In Schedule 1 (controlled activities and controlled investments)— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+- (a) in paragraph 3(1) (dealing in securities and contractually based investments) after “securities” insert “, structured deposits”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (b) in paragraph 4 (arranging deals in investments)— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+  - (i) after sub-paragraph (1)(a), insert— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+
+    > - (aa (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] a structured deposit; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
     ;
-  - (ii (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] in sub-paragraph (2), after “(1)(a),” insert “(aa),”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (c) after paragraph 4A (operating a multilateral trading facility), insert— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+  - (ii (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] in sub-paragraph (2), after “(1)(a),” insert “(aa),”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (c) after paragraph 4A (operating a multilateral trading facility), insert— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-  > **4AA (affected by repeal, see note). Operating an organised trading facility (affected by repeal, see note)[^key-987cdd3766a1343a6a364dab7152ea80][^key-987cdd3766a1343a6a364dab7152ea80]**
+  > **4AA (affected by repeal, see note). Operating an organised trading facility (affected by repeal, see note)[^c-987cdd3766a1343a6a364dab7152ea80][^c-987cdd3766a1343a6a364dab7152ea80]**
   >
-  > Operating an organised trading facility on which non-equity MiFID instruments are traded is a controlled activity. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+  > Operating an organised trading facility on which non-equity MiFID instruments are traded is a controlled activity. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
   ;
-- (d) in paragraph 5(a) (managing investments), after “security” insert “, structured deposit”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (e) in paragraph 7(1)(b)(i) (advising on investments), after “security” insert “, structured deposit”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (f) in paragraph 15A (alternative finance investment bonds), in paragraph (2)(f)(ii) for “Article 4.1(14) of *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2004/39/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2004/0039)[^key-987cdd3766a1343a6a364dab7152ea80] of the European Parliament and of the Council on markets in financial instruments” substitute “Article 4.1.21 of the markets in financial instruments directive”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (g) in paragraph 21 (options)— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-  - (i) in sub-paragraph (1)(e), after “directive” insert “(read with Articles 5, 6, 7 and 8 of the Commission Regulation)”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-  - (ii (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] in sub-paragraph (2)(d)— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-    - (aa (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] in sub-paragraph (i), after “directive” insert “(read with Articles 5 and 6 of the Commission Regulation)”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-    - (bb (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] in sub-paragraph (ii), for “38” substitute “7”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-  - (iii (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] in sub-paragraph (3)(c), after “with” insert “Articles 7 and 8 of”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-  - (iv (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] in sub-paragraph (4)— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-    - (aa (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] omit “or” at the end of paragraph (b); *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-    - (bb (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] in sub-paragraph (c), for “paragraph 8” substitute “paragraph 8 or 9”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-    - (cc (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] after sub-paragraph (c) insert— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+- (d) in paragraph 5(a) (managing investments), after “security” insert “, structured deposit”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (e) in paragraph 7(1)(b)(i) (advising on investments), after “security” insert “, structured deposit”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (f) in paragraph 15A (alternative finance investment bonds), in paragraph (2)(f)(ii) for “Article 4.1(14) of *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2004/39/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2004/0039)[^c-987cdd3766a1343a6a364dab7152ea80] of the European Parliament and of the Council on markets in financial instruments” substitute “Article 4.1.21 of the markets in financial instruments directive”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (g) in paragraph 21 (options)— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+  - (i) in sub-paragraph (1)(e), after “directive” insert “(read with Articles 5, 6, 7 and 8 of the Commission Regulation)”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+  - (ii (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] in sub-paragraph (2)(d)— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+    - (aa (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] in sub-paragraph (i), after “directive” insert “(read with Articles 5 and 6 of the Commission Regulation)”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+    - (bb (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] in sub-paragraph (ii), for “38” substitute “7”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+  - (iii (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] in sub-paragraph (3)(c), after “with” insert “Articles 7 and 8 of”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+  - (iv (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] in sub-paragraph (4)— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+    - (aa (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] omit “or” at the end of paragraph (b); *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+    - (bb (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] in sub-paragraph (c), for “paragraph 8” substitute “paragraph 8 or 9”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+    - (cc (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] after sub-paragraph (c) insert— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-      > , or *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+      > , or *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
       >
-      > - (d) an AIFM is providing, in accordance with Article 6.4 of the alternative investment fund managers directive the investment service specified in paragraph 1, 4 or 5 of Section A, or the ancillary service specified in paragraph 1 of Section B, of Annex I to the markets in financial instruments directive. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+      > - (d) an AIFM is providing, in accordance with Article 6.4 of the alternative investment fund managers directive the investment service specified in paragraph 1, 4 or 5 of Section A, or the ancillary service specified in paragraph 1 of Section B, of Annex I to the markets in financial instruments directive. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
       ;
-- (h) in paragraph 22 (futures)— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-  - (i) in sub-paragraph (1A)(d), after “directive” insert (read with Articles 5 and 6 of the Commission Regulation)”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-  - (ii (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] in sub-paragraph (1B)(d), for “38” substitute “7”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-  - (iii (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] in sub-paragraph (1C)(c), after “with” insert “Articles 7 and 8 of”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-  - (iv (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] after sub-paragraph (1C) insert— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+- (h) in paragraph 22 (futures)— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+  - (i) in sub-paragraph (1A)(d), after “directive” insert (read with Articles 5 and 6 of the Commission Regulation)”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+  - (ii (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] in sub-paragraph (1B)(d), for “38” substitute “7”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+  - (iii (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] in sub-paragraph (1C)(c), after “with” insert “Articles 7 and 8 of”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+  - (iv (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] after sub-paragraph (1C) insert— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-    > (1CA (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] Subject to sub-paragraph (1D), any other derivative contract, relating to currencies to which paragraph 4 of Section C of Annex 1 to the markets in financial instruments directive read with Article 10 of the Commission Regulation applies. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+    > (1CA (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] Subject to sub-paragraph (1D), any other derivative contract, relating to currencies to which paragraph 4 of Section C of Annex 1 to the markets in financial instruments directive read with Article 10 of the Commission Regulation applies. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
     ;
-  - (v) in sub-paragraph (1D)— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-    - (aa (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] for “and (1C)” substitute “, (1C) and (1CA)”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-    - (bb (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] for “or forwards” substitute “, forwards or derivative contacts”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-    - (cc (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] in paragraph (b), for “5(3)” substitute “6(3)”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-    - (dd (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] omit “or” at the end of paragraph (b); *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-    - (ee (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] in paragraph (c), for “paragraph 8” substitute “paragraph 8 or 9”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-    - (ff (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] after paragraph (c) insert— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+  - (v) in sub-paragraph (1D)— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+    - (aa (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] for “and (1C)” substitute “, (1C) and (1CA)”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+    - (bb (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] for “or forwards” substitute “, forwards or derivative contacts”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+    - (cc (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] in paragraph (b), for “5(3)” substitute “6(3)”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+    - (dd (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] omit “or” at the end of paragraph (b); *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+    - (ee (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] in paragraph (c), for “paragraph 8” substitute “paragraph 8 or 9”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+    - (ff (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] after paragraph (c) insert— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-      > , or *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+      > , or *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
       >
-      > - (d) an AIFM is providing, in accordance with Article 6.4 of the alternative investment fund managers directive the investment service specified in paragraph 1, 4 or 5 of Section A, or the ancillary service specified in paragraph 1 of Section B, of Annex I to the markets in financial instruments directive. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+      > - (d) an AIFM is providing, in accordance with Article 6.4 of the alternative investment fund managers directive the investment service specified in paragraph 1, 4 or 5 of Section A, or the ancillary service specified in paragraph 1 of Section B, of Annex I to the markets in financial instruments directive. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
       ;
-  - (vi (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] in sub-paragraph (1E), for “(IC)” substitute “(1CA)”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-- (i) in paragraph 23 (contracts for differences *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] etc. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80])—
-  - (i) in sub-paragraph (4)— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-    - (aa (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] in paragraph (b), for “5(3)” substitute “6(3)”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-    - (bb (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] omit “or” at the end of paragraph (b); *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-    - (cc (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] in paragraph (c), for “paragraph 8” substitute “paragraph 8 or 9”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-    - (dd (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] after paragraph (c) insert— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+  - (vi (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] in sub-paragraph (1E), for “(IC)” substitute “(1CA)”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+- (i) in paragraph 23 (contracts for differences *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] etc. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80])—
+  - (i) in sub-paragraph (4)— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+    - (aa (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] in paragraph (b), for “5(3)” substitute “6(3)”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+    - (bb (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] omit “or” at the end of paragraph (b); *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+    - (cc (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] in paragraph (c), for “paragraph 8” substitute “paragraph 8 or 9”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+    - (dd (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] after paragraph (c) insert— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-      > , or *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+      > , or *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
       >
-      > - (d) an AIFM is providing, in accordance with Article 6.4 of the alternative investment fund managers directive the investment service specified in paragraph 1, 4 or 5 of Section A, or the ancillary service specified in paragraph 1 of Section B, of Annex I to the markets in financial instruments directive. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+      > - (d) an AIFM is providing, in accordance with Article 6.4 of the alternative investment fund managers directive the investment service specified in paragraph 1, 4 or 5 of Section A, or the ancillary service specified in paragraph 1 of Section B, of Annex I to the markets in financial instruments directive. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
       ;
-  - (ii (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] after sub-paragraph (4) insert— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+  - (ii (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] after sub-paragraph (4) insert— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-    > (4A) Subject to sub-paragraph (4B), a derivative contract of a binary or other fixed outcomes nature— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+    > (4A) Subject to sub-paragraph (4B), a derivative contract of a binary or other fixed outcomes nature— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
     >
-    > - (a) to which sub-paragraph (1) does not apply; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-    > - (b) which is settled in cash; and *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-    > - (c) which is a financial instrument to which paragraph 4, 5, 6, 7 or 10 of Section C of Annex I to the markets in financial instruments directive read with Articles 5 to 8 and 10 of the Commission Regulation applies. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+    > - (a) to which sub-paragraph (1) does not apply; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+    > - (b) which is settled in cash; and *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+    > - (c) which is a financial instrument to which paragraph 4, 5, 6, 7 or 10 of Section C of Annex I to the markets in financial instruments directive read with Articles 5 to 8 and 10 of the Commission Regulation applies. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
     >
-    > (4B) Sub-paragraph (4A) only applies to derivatives in relation to which— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+    > (4B) Sub-paragraph (4A) only applies to derivatives in relation to which— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
     >
-    > - (a) an investment firm or credit institution is providing or performing investment services and activities on a professional basis, *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-    > - (b) a management company is providing, in accordance with Article 6.3 of the *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] UCITS *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] directive, the investment service specified in paragraph 4 or 5 of Section A, or the ancillary service specified in paragraph 1 of Section B, of Annex I to the markets in financial instruments directive, *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-    > - (c) a market operator is providing the investment service specified in paragraph 8 or 9 of Section A of Annex I to the markets in financial instruments directive, *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-    > - (d) an AIFM is providing, in accordance with Article 6.4 of the alternative investment fund managers directive the investment service specified in paragraph 1, 4 or 5 of Section A, or the ancillary service specified in paragraph 1 of Section B, of Annex I to the markets in financial instruments directive, or *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-    > - (e) a person is carrying on the controlled activity referred to in paragraph 4(2). *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+    > - (a) an investment firm or credit institution is providing or performing investment services and activities on a professional basis, *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+    > - (b) a management company is providing, in accordance with Article 6.3 of the *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] UCITS *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] directive, the investment service specified in paragraph 4 or 5 of Section A, or the ancillary service specified in paragraph 1 of Section B, of Annex I to the markets in financial instruments directive, *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+    > - (c) a market operator is providing the investment service specified in paragraph 8 or 9 of Section A of Annex I to the markets in financial instruments directive, *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+    > - (d) an AIFM is providing, in accordance with Article 6.4 of the alternative investment fund managers directive the investment service specified in paragraph 1, 4 or 5 of Section A, or the ancillary service specified in paragraph 1 of Section B, of Annex I to the markets in financial instruments directive, or *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+    > - (e) a person is carrying on the controlled activity referred to in paragraph 4(2). *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
     ;
-- (j) after paragraph 23 insert— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+- (j) after paragraph 23 insert— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-  > **23A. Emission allowances (affected by repeal, see note)[^key-987cdd3766a1343a6a364dab7152ea80]**
+  > **23A. Emission allowances (affected by repeal, see note)[^c-987cdd3766a1343a6a364dab7152ea80]**
   >
-  > (1) Subject to sub-paragraph (2), emission allowances consisting of any units recognised for compliance with the requirements of the emission allowance trading directive. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+  > (1) Subject to sub-paragraph (2), emission allowances consisting of any units recognised for compliance with the requirements of the emission allowance trading directive. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
   >
-  > (2) Sub-paragraph (1) only applies to emission allowances in relation to which— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+  > (2) Sub-paragraph (1) only applies to emission allowances in relation to which— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
   >
-  > - (a) an investment firm or credit institution is providing or performing investment services and activities on a professional basis; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-  > - (b) a management company is providing, in accordance with Article 6.3 of the *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] UCITS *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] directive, the investment services specified in paragraph 4 or 5 of Section A, or the ancillary service specified in paragraph 1 of Section B, of Annex 1 to the markets in financial instruments directive; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-  > - (c) a market operator is providing an investment service specified in paragraph 8 or 9 of Section A of Annex 1 to the markets in financial instruments directive; or *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-  > - (d) an AIFM is providing, in accordance with Article 6.4 of the alternative investment fund managers directive the investment service specified in paragraph 1, 4 or 5 of Section A, or the ancillary service specified in paragraph 1 of Section B, of Annex I to the markets in financial instruments directive. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+  > - (a) an investment firm or credit institution is providing or performing investment services and activities on a professional basis; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+  > - (b) a management company is providing, in accordance with Article 6.3 of the *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] UCITS *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] directive, the investment services specified in paragraph 4 or 5 of Section A, or the ancillary service specified in paragraph 1 of Section B, of Annex 1 to the markets in financial instruments directive; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+  > - (c) a market operator is providing an investment service specified in paragraph 8 or 9 of Section A of Annex 1 to the markets in financial instruments directive; or *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+  > - (d) an AIFM is providing, in accordance with Article 6.4 of the alternative investment fund managers directive the investment service specified in paragraph 1, 4 or 5 of Section A, or the ancillary service specified in paragraph 1 of Section B, of Annex I to the markets in financial instruments directive. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
   ;
-- (k) in paragraph 28 (interpretation)— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-  - (i) in the appropriate places, insert— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+- (k) in paragraph 28 (interpretation)— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+  - (i) in the appropriate places, insert— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-    > - “AIFM” has the meaning given in the Regulated Activities Order; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-    > - “markets in financial instruments directive” means *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^key-987cdd3766a1343a6a364dab7152ea80] of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments (recast) *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00042];
-    > - “non-equity MiFID instrument” has the meaning given in article 25DA of the Regulated Activities Order; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-    > - “organised trading facility” has the meaning given in the Regulated Activities Order; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+    > - “AIFM” has the meaning given in the Regulated Activities Order; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+    > - “markets in financial instruments directive” means *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] [Directive 2014/65/EU *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2014/0065)[^c-987cdd3766a1343a6a364dab7152ea80] of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments (recast) *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00042];
+    > - “non-equity MiFID instrument” has the meaning given in article 25DA of the Regulated Activities Order; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+    > - “organised trading facility” has the meaning given in the Regulated Activities Order; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
     ;
-  - (ii (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] in the definition of “Commission Regulation”, for “means Commission Regulation 1287/2006 of 10 August 2006” substitute “has the meaning given in the Regulated Activities Order”; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
-  - (iii (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] in the definition of “security”, after “20” insert “or 23A”. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+  - (ii (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] in the definition of “Commission Regulation”, for “means Commission Regulation 1287/2006 of 10 August 2006” substitute “has the meaning given in the Regulated Activities Order”; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
+  - (iii (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] in the definition of “security”, after “20” insert “or 23A”. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-(11) In Schedule 3 (markets and exchanges) omit Part 2 (certain investment exchanges operating relevant *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] EEA *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] markets). *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+(11) In Schedule 3 (markets and exchanges) omit Part 2 (certain investment exchanges operating relevant *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] EEA *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] markets). *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-### 10. Amendment to the Cancellation of Contracts made in a Consumer’s Home or Place of Work (affected by repeal, see note) etc. (affected by repeal, see note) Regulations 2008 (affected by repeal, see note)[^key-ac37206ae3290d3a81ef571bae26451a][^key-987cdd3766a1343a6a364dab7152ea80][^key-987cdd3766a1343a6a364dab7152ea80][^key-987cdd3766a1343a6a364dab7152ea80]
+### 10. Amendment to the Cancellation of Contracts made in a Consumer’s Home or Place of Work (affected by repeal, see note) etc. (affected by repeal, see note) Regulations 2008 (affected by repeal, see note)[^c-ac37206ae3290d3a81ef571bae26451a][^c-987cdd3766a1343a6a364dab7152ea80][^c-987cdd3766a1343a6a364dab7152ea80][^c-987cdd3766a1343a6a364dab7152ea80]
 
-In Schedule 3 to the Cancellation of Contracts made in a Consumer’s Home or Place of Work *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] etc. *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80] Regulations 2008 *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80][^f00043] (excepted contracts), in paragraph 8(1)(a) after sub-paragraph (iii) insert— *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+In Schedule 3 to the Cancellation of Contracts made in a Consumer’s Home or Place of Work *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] etc. *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80] Regulations 2008 *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80][^f00043] (excepted contracts), in paragraph 8(1)(a) after sub-paragraph (iii) insert— *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
-> - (iiia (affected by repeal, see note))[^key-987cdd3766a1343a6a364dab7152ea80] operating an organised trading facility; *(affected by repeal, see note)*[^key-987cdd3766a1343a6a364dab7152ea80]
+> - (iiia (affected by repeal, see note))[^c-987cdd3766a1343a6a364dab7152ea80] operating an organised trading facility; *(affected by repeal, see note)*[^c-987cdd3766a1343a6a364dab7152ea80]
 
 .
 
@@ -925,19 +925,19 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 ## Annotations
 
-[^key-987cdd3766a1343a6a364dab7152ea80]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2017/488) revoked (14.12.2023 for the revocation of art. 17) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(xvii)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/xvii)
+[^c-987cdd3766a1343a6a364dab7152ea80]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2017/488) revoked (14.12.2023 for the revocation of art. 17) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(xvii)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/xvii)
 
 [^f00001]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8). Sections 137D and 137E were inserted by section 24 of the Financial Services Act [2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21). Paragraph 25 of Schedule 2 was amended, and paragraph 26 was substituted, by section 8 of the Financial Services Act 2012.
 
-[^key-b3df2b38a0d7ee121e2ecf8320900aff]: Modification: Order: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-b3df2b38a0d7ee121e2ecf8320900aff]: Modification: Order: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-2929bdaf4988b94fdd0e25e357171465]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2017/488/article/1) in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)(c)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2)
+[^c-2929bdaf4988b94fdd0e25e357171465]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2017/488/article/1) in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)(c)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2)
 
 [^f00002]: Footnote: Section 59 was amended by section 14 of, and paragraph 3 of Schedule 5 to, the Financial Services Act 2012 and section 18 of and paragraph 1 of Schedule 3 to the Financial Services (Banking Reform) Act [2013 (c.33)](https://www.legislation.gov.uk/ukpga/2013/33) and [S.I. 2012/1906](https://www.legislation.gov.uk/uksi/2012/1906) and [2013/1773](https://www.legislation.gov.uk/uksi/2013/1773). It is prospectively amended by paragraph 2 of Schedule 4 to the Bank of England and Financial Services Act [2016 (c.14)](https://www.legislation.gov.uk/ukpga/2016/14).
 
 [^f00003]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544).
 
-[^key-722fdc8baf7c43633bc95db8322132c4]: Commencement: Art. 2 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)(c)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2)
+[^c-722fdc8baf7c43633bc95db8322132c4]: Commencement: Art. 2 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)(c)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2)
 
 [^f00004]: Footnote: The definition of “the Commission Regulation” was inserted by [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384). The definitions of “credit institution”, “financial instrument”, “investment firm”, “market operator” and “multilateral trading facility” were inserted by [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384). The definition of “home Member State” was inserted by [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384) and amended by [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115) and [2015/910](https://www.legislation.gov.uk/uksi/2015/910). The definition of “investment services and activities” was inserted by [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384) and substituted by [S.I. 2012/1906](https://www.legislation.gov.uk/uksi/2012/1906). The definition of “overseas person” was amended by [S.I. 2003/1475](https://www.legislation.gov.uk/uksi/2003/1475) and [1476](https://www.legislation.gov.uk/uksi/2003/1476), [2006/2383](https://www.legislation.gov.uk/uksi/2006/2383) and [3384](https://www.legislation.gov.uk/uksi/2006/3384), [2009/1342](https://www.legislation.gov.uk/uksi/2009/1342) and [2013/1773](https://www.legislation.gov.uk/uksi/2013/1773).
 
@@ -949,47 +949,47 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00008]: Footnote: OJ L173, 12/6/2014, p.84.
 
-[^key-4527537f69895259aee4b1da6c154401]: Commencement: Art. 3 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)(c)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2)
+[^c-4527537f69895259aee4b1da6c154401]: Commencement: Art. 3 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)(c)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2)
 
 [^f00009]: Footnote: Article 25D was inserted by [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384).
 
 [^f00010]: Footnote: OJ L173, 12/6/2014, p.84.
 
-[^key-a476f96165a9b305ea0ad3da98b12c1a]: Commencement: Art. 4 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)(c)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2)
+[^c-a476f96165a9b305ea0ad3da98b12c1a]: Commencement: Art. 4 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)(c)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2)
 
 [^f00011]: Footnote: Articles 21 and 25 were amended by [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476) and [2006/3384](https://www.legislation.gov.uk/uksi/2006/3384). Article 53 was amended by [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476) and [2016/392](https://www.legislation.gov.uk/uksi/2016/392).
 
-[^key-e2166a19cb357b939eebc55208c72406]: Commencement: Art. 5 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)(c)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2)
+[^c-e2166a19cb357b939eebc55208c72406]: Commencement: Art. 5 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)(c)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2)
 
 [^f00012]: Footnote: Article 72(1) to (4) was amended by [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384) and paragraph (10) was inserted by [S.I. 2015/910](https://www.legislation.gov.uk/uksi/2015/910).
 
-[^key-bda5b6ef7dadefe4fc0e0e8116bde898]: Commencement: Art. 6 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)(c)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2)
+[^c-bda5b6ef7dadefe4fc0e0e8116bde898]: Commencement: Art. 6 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)(c)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2)
 
 [^f00013]: Footnote: Article 82A was inserted by [S.I. 2012/1906](https://www.legislation.gov.uk/uksi/2012/1906).
 
-[^key-1b21da7855511fe4985e2d12682fb3cf]: Commencement: Art. 7 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)(c)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2)
+[^c-1b21da7855511fe4985e2d12682fb3cf]: Commencement: Art. 7 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)(c)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2)
 
 [^f00014]: Footnote: Article 83 was amended by [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384) and [2011/1613](https://www.legislation.gov.uk/uksi/2011/1613).
 
-[^key-c71b724e9dd9f9fbf23d35f5fd7676e6]: Commencement: Art. 8 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)(c)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2)
+[^c-c71b724e9dd9f9fbf23d35f5fd7676e6]: Commencement: Art. 8 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)(c)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2)
 
 [^f00015]: Footnote: Article 84 was amended by [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384) and [2011/1613](https://www.legislation.gov.uk/uksi/2011/1613).
 
-[^key-c1db6a9d2ed782e3329aa8af6ba2cea8]: Commencement: Art. 9 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)(c)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2)
+[^c-c1db6a9d2ed782e3329aa8af6ba2cea8]: Commencement: Art. 9 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)(c)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2)
 
 [^f00016]: Footnote: Article 85 was amended by [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384) and [2011/1613](https://www.legislation.gov.uk/uksi/2011/1613).
 
-[^key-154ff24a5b1950b23b794fffdd0f08ae]: Commencement: Art. 10 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)(c)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2)
+[^c-154ff24a5b1950b23b794fffdd0f08ae]: Commencement: Art. 10 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)(c)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2)
 
 [^f00017]: Footnote: Schedule 2 was substituted by [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384).
 
 [^f00018]: Footnote: OJ L275, 25/10/2003, p.32.
 
-[^key-e57863b4cc49e95a5af997d5054b34e8]: Commencement: Art. 11 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)(c)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2)
+[^c-e57863b4cc49e95a5af997d5054b34e8]: Commencement: Art. 11 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)(c)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2)
 
 [^f00019]: Footnote: Schedule 3 was substituted by [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384).
 
-[^key-34d1e9c5f1382d5bfdb44622a24eb814]: Commencement: Art. 12 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)(c)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2)
+[^c-34d1e9c5f1382d5bfdb44622a24eb814]: Commencement: Art. 12 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)(c)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2)
 
 [^f00020]: Footnote: Article 4(4) was substituted by [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384).
 
@@ -1001,15 +1001,15 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00024]: Footnote: Article 72H was inserted by [S.I. 2014/366](https://www.legislation.gov.uk/uksi/2014/366).
 
-[^key-ff85128163b577c86f0e783bc6e6b109]: Commencement: Art. 13 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)(c)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2)
+[^c-ff85128163b577c86f0e783bc6e6b109]: Commencement: Art. 13 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)(c)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2)
 
 [^f00025]: Footnote: Section 137D was inserted by section 24 of the Financial Services Act 2012.
 
 [^f00026]: Footnote: Section 1D was inserted by section 6 of the Financial Services Act 2012.
 
-[^key-bb890a632031c61dfb19f2aa470402a3]: Commencement: Art. 14 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)(c)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2)
+[^c-bb890a632031c61dfb19f2aa470402a3]: Commencement: Art. 14 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)(c)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2)
 
-[^key-3f00a51d14f6789fb8b267f3a522a1e5]: Commencement: Art. 15 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)(c)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2)
+[^c-3f00a51d14f6789fb8b267f3a522a1e5]: Commencement: Art. 15 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)(c)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2)
 
 [^f00027]: Footnote: Part 4A was inserted by section 11 of the Financial Services Act 2012 (and includes section 55U and 55V).
 
@@ -1021,50 +1021,50 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00031]: Footnote: Section 55U(6) was inserted by section 11(2) of the Financial Services Act 2012.
 
-[^key-543cb7d8a2f7cba5ee910df70c8b1ab8]: Commencement: Art. 16 in force at 1.4.2017, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2)
+[^c-543cb7d8a2f7cba5ee910df70c8b1ab8]: Commencement: Art. 16 in force at 1.4.2017, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2)
 
-[^key-b15408b63ccf05819c8bab5392a9ff75]: Textual amendment: Words in [art. 16(1)(a)](https://www.legislation.gov.uk/uksi/2017/488/article/16/1/a) substituted (2.1.2018) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (No.2) Regulations 2017 (S.I. 2017/1255)](https://www.legislation.gov.uk/uksi/2017/1255), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/2/a), [10(a)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/10/a)
+[^c-b15408b63ccf05819c8bab5392a9ff75]: Textual amendment: Words in [art. 16(1)(a)](https://www.legislation.gov.uk/uksi/2017/488/article/16/1/a) substituted (2.1.2018) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (No.2) Regulations 2017 (S.I. 2017/1255)](https://www.legislation.gov.uk/uksi/2017/1255), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/2/a), [10(a)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/10/a)
 
-[^key-938c4c647e7b7bb8bcf3843cb048c049]: Textual amendment: [Art. 16(2A)](https://www.legislation.gov.uk/uksi/2017/488/article/16/2A)[(2B)](https://www.legislation.gov.uk/uksi/2017/488/article/16/2B) inserted (2.1.2018) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (No.2) Regulations 2017 (S.I. 2017/1255)](https://www.legislation.gov.uk/uksi/2017/1255), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/2/a), [10(b)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/10/b)
+[^c-938c4c647e7b7bb8bcf3843cb048c049]: Textual amendment: [Art. 16(2A)](https://www.legislation.gov.uk/uksi/2017/488/article/16/2A)[(2B)](https://www.legislation.gov.uk/uksi/2017/488/article/16/2B) inserted (2.1.2018) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (No.2) Regulations 2017 (S.I. 2017/1255)](https://www.legislation.gov.uk/uksi/2017/1255), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/2/a), [10(b)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/10/b)
 
-[^key-e2da03d0ee87d911368af0a82241f31f]: Commencement: Sch. para. 1 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2/a)(c)
+[^c-e2da03d0ee87d911368af0a82241f31f]: Commencement: Sch. para. 1 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2/a)(c)
 
 [^f00033]: Footnote: [1973 c.41](https://www.legislation.gov.uk/ukpga/1973/41); section 118(6A) was inserted by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and paragraph (ba) was inserted by [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384).
 
-[^key-4003322818aab117aaf733609180707e]: Commencement: Sch. para. 2 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2/a)(c)
+[^c-4003322818aab117aaf733609180707e]: Commencement: Sch. para. 2 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2/a)(c)
 
 [^f00034]: Footnote: [1989 c.40](https://www.legislation.gov.uk/ukpga/1989/40); section 176(8) was inserted by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and paragraph (ba) was inserted by [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384).
 
-[^key-4ba25d38ed178e8ee26e823645f987f5]: Commencement: Sch. para. 3 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2/a)(c)
+[^c-4ba25d38ed178e8ee26e823645f987f5]: Commencement: Sch. para. 3 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2/a)(c)
 
 [^f00035]: Footnote: [2000 c.11](https://www.legislation.gov.uk/ukpga/2000/11); paragraph 6(1A) of Schedule 6 was inserted by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and paragraph (ba) was inserted by [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384).
 
-[^key-4d48a9196b0fd9ac9b06e0419210cde7]: Commencement: Sch. para. 4 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2/a)(c)
+[^c-4d48a9196b0fd9ac9b06e0419210cde7]: Commencement: Sch. para. 4 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2/a)(c)
 
 [^f00036]: Footnote: [S.I. 2001/1062](https://www.legislation.gov.uk/uksi/2001/1062) amended by [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384) and [2008/1641](https://www.legislation.gov.uk/uksi/2008/1641); there are other amendments but none is relevant.
 
-[^key-8d4d63704dae3b52cbeef2870116216c]: Commencement: Sch. para. 5 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2/a)(c)
+[^c-8d4d63704dae3b52cbeef2870116216c]: Commencement: Sch. para. 5 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2/a)(c)
 
 [^f00037]: Footnote: [S.I. 2001/1177](https://www.legislation.gov.uk/uksi/2001/1177). Article 3(2)(ca) was inserted by [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384). There are other amendments but none is relevant.
 
-[^key-c769796639a8aacdfbd19420f221d4f9]: Commencement: Sch. para. 6 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2/a)(c)
+[^c-c769796639a8aacdfbd19420f221d4f9]: Commencement: Sch. para. 6 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2/a)(c)
 
 [^f00038]: Footnote: [S.I.2001/1201](https://www.legislation.gov.uk/uksi/2001/1201). Article 5 and paragraphs 42 and 49 of the Schedule were amended by [S.I. 2007/125](https://www.legislation.gov.uk/uksi/2007/125). There are other amendments but none is relevant.
 
-[^key-94991660ac0ab11e8e4f2d9fd5b1e22a]: Commencement: Sch. para. 7 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2/a)(c)
+[^c-94991660ac0ab11e8e4f2d9fd5b1e22a]: Commencement: Sch. para. 7 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2/a)(c)
 
 [^f00039]: Footnote: [S.I. 2001/1217](https://www.legislation.gov.uk/uksi/2001/1217), amended by [S.I. 2001/2508](https://www.legislation.gov.uk/uksi/2001/2508), [2003/1476](https://www.legislation.gov.uk/uksi/2003/1476), [2004/453](https://www.legislation.gov.uk/uksi/2004/453) and [2006/3414](https://www.legislation.gov.uk/uksi/2006/3414). There are other amendments but none is relevant.
 
-[^key-c088216b69fade24d550c7d849b63a77]: Commencement: Sch. para. 8 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2/a)(c)
+[^c-c088216b69fade24d550c7d849b63a77]: Commencement: Sch. para. 8 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2/a)(c)
 
 [^f00040]: Footnote: [S.I. 2001/1227](https://www.legislation.gov.uk/uksi/2001/1227). Articles 2, 5 and 6 were amended by [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476). There are other amendments but none is relevant.
 
-[^key-8ef6c48e2ae1344a78c7bf197edce342]: Commencement: Sch. para. 9 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2/a)(c)
+[^c-8ef6c48e2ae1344a78c7bf197edce342]: Commencement: Sch. para. 9 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2/a)(c)
 
 [^f00041]: Footnote: [S.I. 2005/1529](https://www.legislation.gov.uk/uksi/2005/1529). Paragraph 4A of Schedule 1 was inserted by [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384). Paragraph 7 of Schedule 1 was amended by [S.I. 2016/392](https://www.legislation.gov.uk/uksi/2016/392). Paragraph 15A of Schedule 1 was inserted by [S.I. 2010/86](https://www.legislation.gov.uk/uksi/2010/86). Paragraph 21 of Schedule 1 was amended by [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384) and [2011/1613](https://www.legislation.gov.uk/uksi/2011/1613). Paragraphs 22 and 23 of Schedule 1 were amended by [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384). There are other amendments but none is relevant.
 
 [^f00042]: Footnote: OJ L173, 12/6/2014, p.349.
 
-[^key-ac37206ae3290d3a81ef571bae26451a]: Commencement: Sch. para. 10 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2/a)(c)
+[^c-ac37206ae3290d3a81ef571bae26451a]: Commencement: Sch. para. 10 in force at 1.4.2017 for specified purposes and 3.1.2018 in so far as not already in force, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2/a)(c)
 
 [^f00043]: Footnote: [S.I. 2008/1816](https://www.legislation.gov.uk/uksi/2008/1816).

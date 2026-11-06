@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Navigation etc. in vicinity of barrier[^key-98b68b07a0c42f366fd93579155f1fdc]
+## 46. Navigation etc. in vicinity of barrier[^c-98b68b07a0c42f366fd93579155f1fdc]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 ## Annotations
 
-[^key-98b68b07a0c42f366fd93579155f1fdc]: Commencement: Art. 46 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-98b68b07a0c42f366fd93579155f1fdc]: Commencement: Art. 46 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

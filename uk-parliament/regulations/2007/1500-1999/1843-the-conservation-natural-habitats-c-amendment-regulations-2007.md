@@ -84,141 +84,141 @@ In these Regulations, “**the 1994 Regulations**” means the Conservation (Nat
 
 (2) In regulation 2 [^c18776661] (interpretation and application), in paragraph (1)—
 
-- (a)[^key-362ddf25cdb2252359b4ac31cce3c2bb] before the definition of “agriculture Minister” insert the following definition—  *(affected by repeal, see note)*[^key-362ddf25cdb2252359b4ac31cce3c2bb]
+- (a)[^c-362ddf25cdb2252359b4ac31cce3c2bb] before the definition of “agriculture Minister” insert the following definition—  *(affected by repeal, see note)*[^c-362ddf25cdb2252359b4ac31cce3c2bb]
 
-  > “**the 2007 Regulations *(affected by repeal, see note)*[^key-362ddf25cdb2252359b4ac31cce3c2bb]**” means the Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007 *(affected by repeal, see note)*[^key-362ddf25cdb2252359b4ac31cce3c2bb] [^c18776671];
+  > “**the 2007 Regulations *(affected by repeal, see note)*[^c-362ddf25cdb2252359b4ac31cce3c2bb]**” means the Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007 *(affected by repeal, see note)*[^c-362ddf25cdb2252359b4ac31cce3c2bb] [^c18776671];
 
   ;
-- (b)[^key-e67bae1973818e7933f5f04ba443a9ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-e67bae1973818e7933f5f04ba443a9ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d) in the appropriate places insert the following definitions— *(affected by repeal, see note)*[^key-62c725e91d04dc2983e26403c6a13a93]
+- (b)[^c-e67bae1973818e7933f5f04ba443a9ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-e67bae1973818e7933f5f04ba443a9ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) in the appropriate places insert the following definitions— *(affected by repeal, see note)*[^c-62c725e91d04dc2983e26403c6a13a93]
 
   > -
-  >   - “**British fishery limits *(affected by repeal, see note)*[^key-62c725e91d04dc2983e26403c6a13a93]**” has the meaning given by the Fishery Limits Act 1976 *(affected by repeal, see note)*[^key-62c725e91d04dc2983e26403c6a13a93] [^c18776691];
+  >   - “**British fishery limits *(affected by repeal, see note)*[^c-62c725e91d04dc2983e26403c6a13a93]**” has the meaning given by the Fishery Limits Act 1976 *(affected by repeal, see note)*[^c-62c725e91d04dc2983e26403c6a13a93] [^c18776691];
 
   ;
 
-  > [^key-ac2ab89e3e8a2ef591e3a58191886009]...
+  > [^c-ac2ab89e3e8a2ef591e3a58191886009]...
 
   ;
 
-  > “**European offshore marine site *(affected by repeal, see note)*[^key-62c725e91d04dc2983e26403c6a13a93]**” means a European offshore marine site within the meaning of regulation 15 (meaning of European offshore marine site) of the 2007 Regulations; *(affected by repeal, see note)*[^key-62c725e91d04dc2983e26403c6a13a93]
+  > “**European offshore marine site *(affected by repeal, see note)*[^c-62c725e91d04dc2983e26403c6a13a93]**” means a European offshore marine site within the meaning of regulation 15 (meaning of European offshore marine site) of the 2007 Regulations; *(affected by repeal, see note)*[^c-62c725e91d04dc2983e26403c6a13a93]
 
   ;
 
-  > “**the offshore marine area *(affected by repeal, see note)*[^key-62c725e91d04dc2983e26403c6a13a93]**” means— *(affected by repeal, see note)*[^key-62c725e91d04dc2983e26403c6a13a93]
+  > “**the offshore marine area *(affected by repeal, see note)*[^c-62c725e91d04dc2983e26403c6a13a93]**” means— *(affected by repeal, see note)*[^c-62c725e91d04dc2983e26403c6a13a93]
   >
-  > - (a) any part of the seabed and subsoil situated in any area designated under section 1(7) of the Continental Shelf Act 1964 *(affected by repeal, see note)*[^key-62c725e91d04dc2983e26403c6a13a93] [^c18776711]; and *(affected by repeal, see note)*[^key-62c725e91d04dc2983e26403c6a13a93]
-  > - (b) any part of the waters within British fishery limits (except the internal waters of, and the territorial sea adjacent to, the United Kingdom, the Channel Islands and the Isle of Man); *(affected by repeal, see note)*[^key-62c725e91d04dc2983e26403c6a13a93]
+  > - (a) any part of the seabed and subsoil situated in any area designated under section 1(7) of the Continental Shelf Act 1964 *(affected by repeal, see note)*[^c-62c725e91d04dc2983e26403c6a13a93] [^c18776711]; and *(affected by repeal, see note)*[^c-62c725e91d04dc2983e26403c6a13a93]
+  > - (b) any part of the waters within British fishery limits (except the internal waters of, and the territorial sea adjacent to, the United Kingdom, the Channel Islands and the Isle of Man); *(affected by repeal, see note)*[^c-62c725e91d04dc2983e26403c6a13a93]
 
   ;
 
-  > “**offshore marine installation *(affected by repeal, see note)*[^key-62c725e91d04dc2983e26403c6a13a93]**” means any artificial island, installation or structure (other than a ship) which is situated— *(affected by repeal, see note)*[^key-62c725e91d04dc2983e26403c6a13a93]
+  > “**offshore marine installation *(affected by repeal, see note)*[^c-62c725e91d04dc2983e26403c6a13a93]**” means any artificial island, installation or structure (other than a ship) which is situated— *(affected by repeal, see note)*[^c-62c725e91d04dc2983e26403c6a13a93]
   >
-  > - (a) in any part of the waters in any area designated under section 1(7) of the Continental Shelf Act 1964; or *(affected by repeal, see note)*[^key-62c725e91d04dc2983e26403c6a13a93]
-  > - (b) in any part of the waters in any area designated under section 84(4) of the Energy Act 2004 *(affected by repeal, see note)*[^key-62c725e91d04dc2983e26403c6a13a93] [^c18776721];
+  > - (a) in any part of the waters in any area designated under section 1(7) of the Continental Shelf Act 1964; or *(affected by repeal, see note)*[^c-62c725e91d04dc2983e26403c6a13a93]
+  > - (b) in any part of the waters in any area designated under section 84(4) of the Energy Act 2004 *(affected by repeal, see note)*[^c-62c725e91d04dc2983e26403c6a13a93] [^c18776721];
 
   ;
 
-  > [^key-5b2a8d29a8d6e3a920061ad875b9d14a]...
+  > [^c-5b2a8d29a8d6e3a920061ad875b9d14a]...
 
   ;
 
-  > [^key-5b2a8d29a8d6e3a920061ad875b9d14a]...
+  > [^c-5b2a8d29a8d6e3a920061ad875b9d14a]...
 
   ; and
-- (e)[^key-cbc8e0bb76f420bcb4d26d22a5a81951] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-cbc8e0bb76f420bcb4d26d22a5a81951] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After paragraph (2) of regulation 2 (interpretation and application) insert—
 
-> (2A)[^key-022014900dd7cbfe2801187b00420c56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (2A)[^c-022014900dd7cbfe2801187b00420c56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> (2B)[^key-d0f234d1046ca6ccc606e7e28e82f448] Any reference to a numbered provision of these Regulations is— *(affected by repeal, see note)*[^key-d0f234d1046ca6ccc606e7e28e82f448]
+> (2B)[^c-d0f234d1046ca6ccc606e7e28e82f448] Any reference to a numbered provision of these Regulations is— *(affected by repeal, see note)*[^c-d0f234d1046ca6ccc606e7e28e82f448]
 >
-> - (a) in relation to England and Wales, to the provision of that number which has effect in England and Wales; and *(affected by repeal, see note)*[^key-d0f234d1046ca6ccc606e7e28e82f448]
-> - (b) in relation to Scotland, to the provision of that number which has effect in Scotland. *(affected by repeal, see note)*[^key-d0f234d1046ca6ccc606e7e28e82f448]
+> - (a) in relation to England and Wales, to the provision of that number which has effect in England and Wales; and *(affected by repeal, see note)*[^c-d0f234d1046ca6ccc606e7e28e82f448]
+> - (b) in relation to Scotland, to the provision of that number which has effect in Scotland. *(affected by repeal, see note)*[^c-d0f234d1046ca6ccc606e7e28e82f448]
 
 .
 
-(4)[^key-134f3e4cbda636fd7d3871d83a16c0ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-134f3e4cbda636fd7d3871d83a16c0ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-134f3e4cbda636fd7d3871d83a16c0ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-134f3e4cbda636fd7d3871d83a16c0ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-1d28a7bda10ccc658b8728940c3c626b] For regulation 4 (nature conservation bodies) substitute the following regulation— *(affected by repeal, see note)*[^key-1d28a7bda10ccc658b8728940c3c626b]
+(6)[^c-1d28a7bda10ccc658b8728940c3c626b] For regulation 4 (nature conservation bodies) substitute the following regulation— *(affected by repeal, see note)*[^c-1d28a7bda10ccc658b8728940c3c626b]
 
-> **4. Nature Conservation bodies (affected by repeal, see note)[^key-1d28a7bda10ccc658b8728940c3c626b]**
+> **4. Nature Conservation bodies (affected by repeal, see note)[^c-1d28a7bda10ccc658b8728940c3c626b]**
 >
-> (1) Subject to paragraph (2), in these Regulations “ *(affected by repeal, see note)*[^key-1d28a7bda10ccc658b8728940c3c626b]**nature conservation body *(affected by repeal, see note)*[^key-1d28a7bda10ccc658b8728940c3c626b]**” means Natural England, the Countryside Council for Wales or Scottish Natural Heritage; and references to “ *(affected by repeal, see note)*[^key-1d28a7bda10ccc658b8728940c3c626b]**the appropriate nature conservation body *(affected by repeal, see note)*[^key-1d28a7bda10ccc658b8728940c3c626b]**”, in relation to England, Wales or Scotland shall be construed accordingly. *(affected by repeal, see note)*[^key-1d28a7bda10ccc658b8728940c3c626b]
+> (1) Subject to paragraph (2), in these Regulations “ *(affected by repeal, see note)*[^c-1d28a7bda10ccc658b8728940c3c626b]**nature conservation body *(affected by repeal, see note)*[^c-1d28a7bda10ccc658b8728940c3c626b]**” means Natural England, the Countryside Council for Wales or Scottish Natural Heritage; and references to “ *(affected by repeal, see note)*[^c-1d28a7bda10ccc658b8728940c3c626b]**the appropriate nature conservation body *(affected by repeal, see note)*[^c-1d28a7bda10ccc658b8728940c3c626b]**”, in relation to England, Wales or Scotland shall be construed accordingly. *(affected by repeal, see note)*[^c-1d28a7bda10ccc658b8728940c3c626b]
 >
-> (2) In Parts IV and IVA of these Regulations, “nature conservation body” also includes the Joint Nature Conservation Committee, and references to “ *(affected by repeal, see note)*[^key-1d28a7bda10ccc658b8728940c3c626b]**the appropriate nature conservation body *(affected by repeal, see note)*[^key-1d28a7bda10ccc658b8728940c3c626b]**” in relation to a European offshore marine site shall be construed as meaning the Joint Nature Conservation Committee. *(affected by repeal, see note)*[^key-1d28a7bda10ccc658b8728940c3c626b]
+> (2) In Parts IV and IVA of these Regulations, “nature conservation body” also includes the Joint Nature Conservation Committee, and references to “ *(affected by repeal, see note)*[^c-1d28a7bda10ccc658b8728940c3c626b]**the appropriate nature conservation body *(affected by repeal, see note)*[^c-1d28a7bda10ccc658b8728940c3c626b]**” in relation to a European offshore marine site shall be construed as meaning the Joint Nature Conservation Committee. *(affected by repeal, see note)*[^c-1d28a7bda10ccc658b8728940c3c626b]
 
 .
 
-(7)[^key-c76a5b827d3e0fcc34dcea15178706e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-c76a5b827d3e0fcc34dcea15178706e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-c76a5b827d3e0fcc34dcea15178706e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-c76a5b827d3e0fcc34dcea15178706e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-c76a5b827d3e0fcc34dcea15178706e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-c76a5b827d3e0fcc34dcea15178706e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-c76a5b827d3e0fcc34dcea15178706e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-c76a5b827d3e0fcc34dcea15178706e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-c76a5b827d3e0fcc34dcea15178706e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-c76a5b827d3e0fcc34dcea15178706e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(12)[^key-c76a5b827d3e0fcc34dcea15178706e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-c76a5b827d3e0fcc34dcea15178706e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(13)[^key-c76a5b827d3e0fcc34dcea15178706e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-c76a5b827d3e0fcc34dcea15178706e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(14)[^key-c76a5b827d3e0fcc34dcea15178706e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-c76a5b827d3e0fcc34dcea15178706e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(15)[^key-c76a5b827d3e0fcc34dcea15178706e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(15)[^c-c76a5b827d3e0fcc34dcea15178706e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(16)[^key-c76a5b827d3e0fcc34dcea15178706e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(16)[^c-c76a5b827d3e0fcc34dcea15178706e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(17)[^key-c76a5b827d3e0fcc34dcea15178706e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(17)[^c-c76a5b827d3e0fcc34dcea15178706e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(18)[^key-c76a5b827d3e0fcc34dcea15178706e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(18)[^c-c76a5b827d3e0fcc34dcea15178706e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(19)[^key-c76a5b827d3e0fcc34dcea15178706e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(19)[^c-c76a5b827d3e0fcc34dcea15178706e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(20)[^key-c76a5b827d3e0fcc34dcea15178706e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(20)[^c-c76a5b827d3e0fcc34dcea15178706e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(21)[^key-c76a5b827d3e0fcc34dcea15178706e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(21)[^c-c76a5b827d3e0fcc34dcea15178706e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(22)[^key-8a1e8c871c319d113fd6bd12170858ec] In regulation 47 (application of provisions of this Part)— *(affected by repeal, see note)*[^key-8a1e8c871c319d113fd6bd12170858ec]
+(22)[^c-8a1e8c871c319d113fd6bd12170858ec] In regulation 47 (application of provisions of this Part)— *(affected by repeal, see note)*[^c-8a1e8c871c319d113fd6bd12170858ec]
 
-- (a) in paragraph (1)(a), after “European sites” insert *(affected by repeal, see note)*[^key-8a1e8c871c319d113fd6bd12170858ec] “ in Great Britain and European offshore marine sites ” *(affected by repeal, see note)*[^key-8a1e8c871c319d113fd6bd12170858ec];
-- (b) in paragraph (2)(b), after “European site” insert *(affected by repeal, see note)*[^key-8a1e8c871c319d113fd6bd12170858ec] “ in Great Britain or European offshore marine site ” *(affected by repeal, see note)*[^key-8a1e8c871c319d113fd6bd12170858ec]; and *(affected by repeal, see note)*[^key-8a1e8c871c319d113fd6bd12170858ec]
-- (c) after paragraph (2), add— *(affected by repeal, see note)*[^key-8a1e8c871c319d113fd6bd12170858ec]
+- (a) in paragraph (1)(a), after “European sites” insert *(affected by repeal, see note)*[^c-8a1e8c871c319d113fd6bd12170858ec] “ in Great Britain and European offshore marine sites ” *(affected by repeal, see note)*[^c-8a1e8c871c319d113fd6bd12170858ec];
+- (b) in paragraph (2)(b), after “European site” insert *(affected by repeal, see note)*[^c-8a1e8c871c319d113fd6bd12170858ec] “ in Great Britain or European offshore marine site ” *(affected by repeal, see note)*[^c-8a1e8c871c319d113fd6bd12170858ec]; and *(affected by repeal, see note)*[^c-8a1e8c871c319d113fd6bd12170858ec]
+- (c) after paragraph (2), add— *(affected by repeal, see note)*[^c-8a1e8c871c319d113fd6bd12170858ec]
 
-  > (3) Nothing in these Regulations requires an appropriate assessment of any plan or project to be carried out on or in any part of the waters or on or in any part of the seabed or subsoil comprising the offshore marine area, or on or in relation to an offshore marine installation. *(affected by repeal, see note)*[^key-8a1e8c871c319d113fd6bd12170858ec]
+  > (3) Nothing in these Regulations requires an appropriate assessment of any plan or project to be carried out on or in any part of the waters or on or in any part of the seabed or subsoil comprising the offshore marine area, or on or in relation to an offshore marine installation. *(affected by repeal, see note)*[^c-8a1e8c871c319d113fd6bd12170858ec]
 
   .
 
 (23) In regulation 48 (assessment of implications for European site)—
 
-- (a)[^key-2b578e2a544a6c0f392b91eff5fd753f] in paragraph (1)(a), after “Great Britain” insert *(affected by repeal, see note)*[^key-2b578e2a544a6c0f392b91eff5fd753f] “ or a European offshore marine site ” *(affected by repeal, see note)*[^key-2b578e2a544a6c0f392b91eff5fd753f];
-- (b)[^key-f176d9e01187c73b85a092f788672e1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-03e901216a1941297c527b9fb5215a4d] in paragraph (5), after “European site” insert *(affected by repeal, see note)*[^key-03e901216a1941297c527b9fb5215a4d] “ or European offshore marine site (as the case may be) ” *(affected by repeal, see note)*[^key-03e901216a1941297c527b9fb5215a4d];
-- (d) for paragraph (7), substitute— *(affected by repeal, see note)*[^key-03e901216a1941297c527b9fb5215a4d]
+- (a)[^c-2b578e2a544a6c0f392b91eff5fd753f] in paragraph (1)(a), after “Great Britain” insert *(affected by repeal, see note)*[^c-2b578e2a544a6c0f392b91eff5fd753f] “ or a European offshore marine site ” *(affected by repeal, see note)*[^c-2b578e2a544a6c0f392b91eff5fd753f];
+- (b)[^c-f176d9e01187c73b85a092f788672e1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-03e901216a1941297c527b9fb5215a4d] in paragraph (5), after “European site” insert *(affected by repeal, see note)*[^c-03e901216a1941297c527b9fb5215a4d] “ or European offshore marine site (as the case may be) ” *(affected by repeal, see note)*[^c-03e901216a1941297c527b9fb5215a4d];
+- (d) for paragraph (7), substitute— *(affected by repeal, see note)*[^c-03e901216a1941297c527b9fb5215a4d]
 
-  > (7) This regulation does not apply in relation to a site which is— *(affected by repeal, see note)*[^key-03e901216a1941297c527b9fb5215a4d]
+  > (7) This regulation does not apply in relation to a site which is— *(affected by repeal, see note)*[^c-03e901216a1941297c527b9fb5215a4d]
   >
-  > - (a) a European site by reason of regulation 10(1)(c); or *(affected by repeal, see note)*[^key-03e901216a1941297c527b9fb5215a4d]
-  > - (b) a European offshore marine site by reason of regulation 15(c) of the 2007 Regulations. *(affected by repeal, see note)*[^key-03e901216a1941297c527b9fb5215a4d]
+  > - (a) a European site by reason of regulation 10(1)(c); or *(affected by repeal, see note)*[^c-03e901216a1941297c527b9fb5215a4d]
+  > - (b) a European offshore marine site by reason of regulation 15(c) of the 2007 Regulations. *(affected by repeal, see note)*[^c-03e901216a1941297c527b9fb5215a4d]
 
-  ; and *(affected by repeal, see note)*[^key-03e901216a1941297c527b9fb5215a4d]
-- (e)[^key-087ada2c584277a305259f92596e21ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  ; and *(affected by repeal, see note)*[^c-03e901216a1941297c527b9fb5215a4d]
+- (e)[^c-087ada2c584277a305259f92596e21ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (24) In regulation 49 (considerations of overriding public interest)—
 
-- (a)[^key-9b22a97359961cbd6362dae450c4ac83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-afe9674724aa05a0697452e6ba0c1885] in paragraph (5) for “a European site” substitute *(affected by repeal, see note)*[^key-afe9674724aa05a0697452e6ba0c1885] “ the site concerned ” *(affected by repeal, see note)*[^key-afe9674724aa05a0697452e6ba0c1885].
+- (a)[^c-9b22a97359961cbd6362dae450c4ac83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-afe9674724aa05a0697452e6ba0c1885] in paragraph (5) for “a European site” substitute *(affected by repeal, see note)*[^c-afe9674724aa05a0697452e6ba0c1885] “ the site concerned ” *(affected by repeal, see note)*[^c-afe9674724aa05a0697452e6ba0c1885].
 
-(25)[^key-5193620169a2c8658c098d04593a1191] In regulation 50 (review of existing decisions and consents, &c), in paragraph (1), after “European site” insert *(affected by repeal, see note)*[^key-5193620169a2c8658c098d04593a1191] “ or a European offshore marine site ” *(affected by repeal, see note)*[^key-5193620169a2c8658c098d04593a1191].
+(25)[^c-5193620169a2c8658c098d04593a1191] In regulation 50 (review of existing decisions and consents, &c), in paragraph (1), after “European site” insert *(affected by repeal, see note)*[^c-5193620169a2c8658c098d04593a1191] “ or a European offshore marine site ” *(affected by repeal, see note)*[^c-5193620169a2c8658c098d04593a1191].
 
-(26) In regulation 52 (co-ordination where more than one competent authority involved), in sub-paragraphs (a) and (b) of paragraph (3), after “European site” insert *(affected by repeal, see note)*[^key-5193620169a2c8658c098d04593a1191] “ or a European offshore marine site ” *(affected by repeal, see note)*[^key-5193620169a2c8658c098d04593a1191].
+(26) In regulation 52 (co-ordination where more than one competent authority involved), in sub-paragraphs (a) and (b) of paragraph (3), after “European site” insert *(affected by repeal, see note)*[^c-5193620169a2c8658c098d04593a1191] “ or a European offshore marine site ” *(affected by repeal, see note)*[^c-5193620169a2c8658c098d04593a1191].
 
-(27) In regulation 53 (compensatory measures), in paragraph (a), after “European site” insert *(affected by repeal, see note)*[^key-5193620169a2c8658c098d04593a1191] “ or European offshore marine site ” *(affected by repeal, see note)*[^key-5193620169a2c8658c098d04593a1191].
+(27) In regulation 53 (compensatory measures), in paragraph (a), after “European site” insert *(affected by repeal, see note)*[^c-5193620169a2c8658c098d04593a1191] “ or European offshore marine site ” *(affected by repeal, see note)*[^c-5193620169a2c8658c098d04593a1191].
 
 (28) In regulation 53A [^c18776901] (control of operations requiring consent)—
 
@@ -227,81 +227,81 @@ In these Regulations, “**the 1994 Regulations**” means the Conservation (Nat
 
 (29) In regulation 54 (grant of planning permission)—
 
-- (a)[^key-6a35944ffb3f1b8cb265be4c4fffbda3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-6a35944ffb3f1b8cb265be4c4fffbda3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (2) for “European site” substitute “ European sites in Great Britain and European offshore marine sites ”;
-- (c)[^key-f94b2737b2e4220633d8b4d8ebb866d6] in paragraph (3), after “European site” insert *(affected by repeal, see note)*[^key-f94b2737b2e4220633d8b4d8ebb866d6] “ or European offshore marine site ” *(affected by repeal, see note)*[^key-f94b2737b2e4220633d8b4d8ebb866d6]; and *(affected by repeal, see note)*[^key-f94b2737b2e4220633d8b4d8ebb866d6]
-- (d) in paragraph (4), after “European site” insert *(affected by repeal, see note)*[^key-f94b2737b2e4220633d8b4d8ebb866d6] “ or European offshore marine site ” *(affected by repeal, see note)*[^key-f94b2737b2e4220633d8b4d8ebb866d6].
+- (c)[^c-f94b2737b2e4220633d8b4d8ebb866d6] in paragraph (3), after “European site” insert *(affected by repeal, see note)*[^c-f94b2737b2e4220633d8b4d8ebb866d6] “ or European offshore marine site ” *(affected by repeal, see note)*[^c-f94b2737b2e4220633d8b4d8ebb866d6]; and *(affected by repeal, see note)*[^c-f94b2737b2e4220633d8b4d8ebb866d6]
+- (d) in paragraph (4), after “European site” insert *(affected by repeal, see note)*[^c-f94b2737b2e4220633d8b4d8ebb866d6] “ or European offshore marine site ” *(affected by repeal, see note)*[^c-f94b2737b2e4220633d8b4d8ebb866d6].
 
-(30)[^key-0ecd16236c5092979496d04cc8969d34] In regulation 56(3) (planning permission: consideration on review), after “European site” insert *(affected by repeal, see note)*[^key-0ecd16236c5092979496d04cc8969d34] “ or European offshore marine site ” *(affected by repeal, see note)*[^key-0ecd16236c5092979496d04cc8969d34].
+(30)[^c-0ecd16236c5092979496d04cc8969d34] In regulation 56(3) (planning permission: consideration on review), after “European site” insert *(affected by repeal, see note)*[^c-0ecd16236c5092979496d04cc8969d34] “ or European offshore marine site ” *(affected by repeal, see note)*[^c-0ecd16236c5092979496d04cc8969d34].
 
-(31)[^key-3458abee8e444dfe1a49c19f365bc137] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(31)[^c-3458abee8e444dfe1a49c19f365bc137] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (32) In regulation 58(6) (effect of orders made on review: Scotland), after “European site” insert “or European offshore marine site”.
 
-(33)[^key-1c93ab7f8a6375072d8794164a0687f2] In regulation 60 (general development orders), in paragraph (1)(a), after “Great Britain” insert *(affected by repeal, see note)*[^key-1c93ab7f8a6375072d8794164a0687f2] “ or a European offshore marine site ” *(affected by repeal, see note)*[^key-1c93ab7f8a6375072d8794164a0687f2].
+(33)[^c-1c93ab7f8a6375072d8794164a0687f2] In regulation 60 (general development orders), in paragraph (1)(a), after “Great Britain” insert *(affected by repeal, see note)*[^c-1c93ab7f8a6375072d8794164a0687f2] “ or a European offshore marine site ” *(affected by repeal, see note)*[^c-1c93ab7f8a6375072d8794164a0687f2].
 
-(34) In regulation 62 (general development orders: approval of local planning authority), in paragraph (6)— *(affected by repeal, see note)*[^key-1c93ab7f8a6375072d8794164a0687f2]
+(34) In regulation 62 (general development orders: approval of local planning authority), in paragraph (6)— *(affected by repeal, see note)*[^c-1c93ab7f8a6375072d8794164a0687f2]
 
-- (a) after “In any other case” insert *(affected by repeal, see note)*[^key-1c93ab7f8a6375072d8794164a0687f2] “ in which the application has been sent to the appropriate nature conservation body, ” *(affected by repeal, see note)*[^key-1c93ab7f8a6375072d8794164a0687f2]; and *(affected by repeal, see note)*[^key-1c93ab7f8a6375072d8794164a0687f2]
-- (b) after “European site” insert *(affected by repeal, see note)*[^key-1c93ab7f8a6375072d8794164a0687f2] “ or European offshore marine site ” *(affected by repeal, see note)*[^key-1c93ab7f8a6375072d8794164a0687f2].
+- (a) after “In any other case” insert *(affected by repeal, see note)*[^c-1c93ab7f8a6375072d8794164a0687f2] “ in which the application has been sent to the appropriate nature conservation body, ” *(affected by repeal, see note)*[^c-1c93ab7f8a6375072d8794164a0687f2]; and *(affected by repeal, see note)*[^c-1c93ab7f8a6375072d8794164a0687f2]
+- (b) after “European site” insert *(affected by repeal, see note)*[^c-1c93ab7f8a6375072d8794164a0687f2] “ or European offshore marine site ” *(affected by repeal, see note)*[^c-1c93ab7f8a6375072d8794164a0687f2].
 
-(35) In regulation 64 (special development orders)— *(affected by repeal, see note)*[^key-1c93ab7f8a6375072d8794164a0687f2]
+(35) In regulation 64 (special development orders)— *(affected by repeal, see note)*[^c-1c93ab7f8a6375072d8794164a0687f2]
 
-- (a) in paragraph (2), for “this regulation” substitute *(affected by repeal, see note)*[^key-1c93ab7f8a6375072d8794164a0687f2] “ paragraph (1) ” *(affected by repeal, see note)*[^key-1c93ab7f8a6375072d8794164a0687f2]; and *(affected by repeal, see note)*[^key-1c93ab7f8a6375072d8794164a0687f2]
-- (b) after paragraph (2) insert the following paragraph— *(affected by repeal, see note)*[^key-1c93ab7f8a6375072d8794164a0687f2]
+- (a) in paragraph (2), for “this regulation” substitute *(affected by repeal, see note)*[^c-1c93ab7f8a6375072d8794164a0687f2] “ paragraph (1) ” *(affected by repeal, see note)*[^c-1c93ab7f8a6375072d8794164a0687f2]; and *(affected by repeal, see note)*[^c-1c93ab7f8a6375072d8794164a0687f2]
+- (b) after paragraph (2) insert the following paragraph— *(affected by repeal, see note)*[^c-1c93ab7f8a6375072d8794164a0687f2]
 
-  > (3) A special development order made on or after 21st August 2007 may not grant planning permission for development which is likely to have a significant effect on a European offshore marine site (either alone or in combination with other plans or projects). *(affected by repeal, see note)*[^key-1c93ab7f8a6375072d8794164a0687f2]
+  > (3) A special development order made on or after 21st August 2007 may not grant planning permission for development which is likely to have a significant effect on a European offshore marine site (either alone or in combination with other plans or projects). *(affected by repeal, see note)*[^c-1c93ab7f8a6375072d8794164a0687f2]
 
   .
 
-(36)[^key-14769484ea65ab6e483bbc107dba171f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(36)[^c-14769484ea65ab6e483bbc107dba171f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(37)[^key-00fa7d1cb1973246be97f19444693e5a] After regulation 65 (simplified planning zones) insert the following regulation— *(affected by repeal, see note)*[^key-00fa7d1cb1973246be97f19444693e5a]
+(37)[^c-00fa7d1cb1973246be97f19444693e5a] After regulation 65 (simplified planning zones) insert the following regulation— *(affected by repeal, see note)*[^c-00fa7d1cb1973246be97f19444693e5a]
 
-> **65A. Simplified planning zones and European offshore marine sites (affected by repeal, see note)[^key-00fa7d1cb1973246be97f19444693e5a]**
+> **65A. Simplified planning zones and European offshore marine sites (affected by repeal, see note)[^c-00fa7d1cb1973246be97f19444693e5a]**
 >
-> The adoption or approval of a simplified planning zone scheme on or after 21st August 2007 shall not have effect to grant planning permission for development which is likely to have a significant effect on a European offshore marine site (either alone or in combination with other plans or projects). *(affected by repeal, see note)*[^key-00fa7d1cb1973246be97f19444693e5a]
+> The adoption or approval of a simplified planning zone scheme on or after 21st August 2007 shall not have effect to grant planning permission for development which is likely to have a significant effect on a European offshore marine site (either alone or in combination with other plans or projects). *(affected by repeal, see note)*[^c-00fa7d1cb1973246be97f19444693e5a]
 
 .
 
-(38) After regulation 66 (enterprise zones) insert the following regulation— *(affected by repeal, see note)*[^key-00fa7d1cb1973246be97f19444693e5a]
+(38) After regulation 66 (enterprise zones) insert the following regulation— *(affected by repeal, see note)*[^c-00fa7d1cb1973246be97f19444693e5a]
 
-> **66A. Enterprise zones and European offshore marine sites (affected by repeal, see note)[^key-00fa7d1cb1973246be97f19444693e5a]**
+> **66A. Enterprise zones and European offshore marine sites (affected by repeal, see note)[^c-00fa7d1cb1973246be97f19444693e5a]**
 >
-> An order designating an enterprise zone, or the approval of a modified scheme, if made or given on or after 21st August 2007, shall not have effect to grant planning permission for development which is likely to have a significant effect on a European offshore marine site (either alone or in combination with other plans or projects). *(affected by repeal, see note)*[^key-00fa7d1cb1973246be97f19444693e5a]
+> An order designating an enterprise zone, or the approval of a modified scheme, if made or given on or after 21st August 2007, shall not have effect to grant planning permission for development which is likely to have a significant effect on a European offshore marine site (either alone or in combination with other plans or projects). *(affected by repeal, see note)*[^c-00fa7d1cb1973246be97f19444693e5a]
 
 .
 
-(39) In regulation 69 (construction or improvement of highways or roads)— *(affected by repeal, see note)*[^key-00fa7d1cb1973246be97f19444693e5a]
+(39) In regulation 69 (construction or improvement of highways or roads)— *(affected by repeal, see note)*[^c-00fa7d1cb1973246be97f19444693e5a]
 
-- (a) in paragraph (1) for “European site” substitute *(affected by repeal, see note)*[^key-00fa7d1cb1973246be97f19444693e5a] “ European sites in Great Britain and European offshore marine sites ” *(affected by repeal, see note)*[^key-00fa7d1cb1973246be97f19444693e5a]; and *(affected by repeal, see note)*[^key-00fa7d1cb1973246be97f19444693e5a]
-- (b) in paragraph (2) after “European site” insert *(affected by repeal, see note)*[^key-00fa7d1cb1973246be97f19444693e5a] “ or European offshore marine site ” *(affected by repeal, see note)*[^key-00fa7d1cb1973246be97f19444693e5a].
+- (a) in paragraph (1) for “European site” substitute *(affected by repeal, see note)*[^c-00fa7d1cb1973246be97f19444693e5a] “ European sites in Great Britain and European offshore marine sites ” *(affected by repeal, see note)*[^c-00fa7d1cb1973246be97f19444693e5a]; and *(affected by repeal, see note)*[^c-00fa7d1cb1973246be97f19444693e5a]
+- (b) in paragraph (2) after “European site” insert *(affected by repeal, see note)*[^c-00fa7d1cb1973246be97f19444693e5a] “ or European offshore marine site ” *(affected by repeal, see note)*[^c-00fa7d1cb1973246be97f19444693e5a].
 
 (40) In regulation 69A(1) [^c18776911] (core and other paths) for “European site” substitute “ European sites in Great Britain and European offshore marine sites ”.
 
-(41)[^key-e6fc94d8491e097c4b7146d390bd2f78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(41)[^c-e6fc94d8491e097c4b7146d390bd2f78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(42)[^key-e6fc94d8491e097c4b7146d390bd2f78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(42)[^c-e6fc94d8491e097c4b7146d390bd2f78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(43)[^key-e6fc94d8491e097c4b7146d390bd2f78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(43)[^c-e6fc94d8491e097c4b7146d390bd2f78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(44)[^key-f5e5e8452a51e961e5cbc8519a7ccadd] In regulation 83 (authorisations under Part I of the Environmental Protection Act 1990)— *(affected by repeal, see note)*[^key-f5e5e8452a51e961e5cbc8519a7ccadd]
+(44)[^c-f5e5e8452a51e961e5cbc8519a7ccadd] In regulation 83 (authorisations under Part I of the Environmental Protection Act 1990)— *(affected by repeal, see note)*[^c-f5e5e8452a51e961e5cbc8519a7ccadd]
 
-- (a) omit paragraphs (1) and (2); *(affected by repeal, see note)*[^key-f5e5e8452a51e961e5cbc8519a7ccadd]
-- (b) in paragraph (3), for “such authorisation as is mentioned in paragraph (1)” substitute *(affected by repeal, see note)*[^key-f5e5e8452a51e961e5cbc8519a7ccadd] “ authorisation under Part I of the Environmental Protection Act 1990 ” *(affected by repeal, see note)*[^key-f5e5e8452a51e961e5cbc8519a7ccadd]; and *(affected by repeal, see note)*[^key-f5e5e8452a51e961e5cbc8519a7ccadd]
-- (c) in paragraph (5) omit “agreeing to a plan or project, or”. *(affected by repeal, see note)*[^key-f5e5e8452a51e961e5cbc8519a7ccadd]
+- (a) omit paragraphs (1) and (2); *(affected by repeal, see note)*[^c-f5e5e8452a51e961e5cbc8519a7ccadd]
+- (b) in paragraph (3), for “such authorisation as is mentioned in paragraph (1)” substitute *(affected by repeal, see note)*[^c-f5e5e8452a51e961e5cbc8519a7ccadd] “ authorisation under Part I of the Environmental Protection Act 1990 ” *(affected by repeal, see note)*[^c-f5e5e8452a51e961e5cbc8519a7ccadd]; and *(affected by repeal, see note)*[^c-f5e5e8452a51e961e5cbc8519a7ccadd]
+- (c) in paragraph (5) omit “agreeing to a plan or project, or”. *(affected by repeal, see note)*[^c-f5e5e8452a51e961e5cbc8519a7ccadd]
 
-(45) In regulation 84 (licences under Part II of the Environmental Protection Act 1990)— *(affected by repeal, see note)*[^key-f5e5e8452a51e961e5cbc8519a7ccadd]
+(45) In regulation 84 (licences under Part II of the Environmental Protection Act 1990)— *(affected by repeal, see note)*[^c-f5e5e8452a51e961e5cbc8519a7ccadd]
 
-- (a) in paragraph (1)— *(affected by repeal, see note)*[^key-f5e5e8452a51e961e5cbc8519a7ccadd]
-  - (i) for “European site” substitute *(affected by repeal, see note)*[^key-f5e5e8452a51e961e5cbc8519a7ccadd] “ European sites in Great Britain and European offshore marine sites ” *(affected by repeal, see note)*[^key-f5e5e8452a51e961e5cbc8519a7ccadd],
-  - (ii (affected by repeal, see note))[^key-f5e5e8452a51e961e5cbc8519a7ccadd] at the end of sub-paragraph (a) add “, and”, *(affected by repeal, see note)*[^key-f5e5e8452a51e961e5cbc8519a7ccadd]
-  - (iii (affected by repeal, see note))[^key-f5e5e8452a51e961e5cbc8519a7ccadd] at the end of sub-paragraph (b) omit “, and”, and *(affected by repeal, see note)*[^key-f5e5e8452a51e961e5cbc8519a7ccadd]
-  - (iv (affected by repeal, see note))[^key-f5e5e8452a51e961e5cbc8519a7ccadd] omit sub-paragraph (c); *(affected by repeal, see note)*[^key-f5e5e8452a51e961e5cbc8519a7ccadd]
-- (b) in paragraph (2) after “European site” insert *(affected by repeal, see note)*[^key-f5e5e8452a51e961e5cbc8519a7ccadd] “ or European offshore marine site ” *(affected by repeal, see note)*[^key-f5e5e8452a51e961e5cbc8519a7ccadd]; and *(affected by repeal, see note)*[^key-f5e5e8452a51e961e5cbc8519a7ccadd]
-- (c) in paragraph (4) after “European site” insert *(affected by repeal, see note)*[^key-f5e5e8452a51e961e5cbc8519a7ccadd] “ or European offshore marine site ” *(affected by repeal, see note)*[^key-f5e5e8452a51e961e5cbc8519a7ccadd].
+- (a) in paragraph (1)— *(affected by repeal, see note)*[^c-f5e5e8452a51e961e5cbc8519a7ccadd]
+  - (i) for “European site” substitute *(affected by repeal, see note)*[^c-f5e5e8452a51e961e5cbc8519a7ccadd] “ European sites in Great Britain and European offshore marine sites ” *(affected by repeal, see note)*[^c-f5e5e8452a51e961e5cbc8519a7ccadd],
+  - (ii (affected by repeal, see note))[^c-f5e5e8452a51e961e5cbc8519a7ccadd] at the end of sub-paragraph (a) add “, and”, *(affected by repeal, see note)*[^c-f5e5e8452a51e961e5cbc8519a7ccadd]
+  - (iii (affected by repeal, see note))[^c-f5e5e8452a51e961e5cbc8519a7ccadd] at the end of sub-paragraph (b) omit “, and”, and *(affected by repeal, see note)*[^c-f5e5e8452a51e961e5cbc8519a7ccadd]
+  - (iv (affected by repeal, see note))[^c-f5e5e8452a51e961e5cbc8519a7ccadd] omit sub-paragraph (c); *(affected by repeal, see note)*[^c-f5e5e8452a51e961e5cbc8519a7ccadd]
+- (b) in paragraph (2) after “European site” insert *(affected by repeal, see note)*[^c-f5e5e8452a51e961e5cbc8519a7ccadd] “ or European offshore marine site ” *(affected by repeal, see note)*[^c-f5e5e8452a51e961e5cbc8519a7ccadd]; and *(affected by repeal, see note)*[^c-f5e5e8452a51e961e5cbc8519a7ccadd]
+- (c) in paragraph (4) after “European site” insert *(affected by repeal, see note)*[^c-f5e5e8452a51e961e5cbc8519a7ccadd] “ or European offshore marine site ” *(affected by repeal, see note)*[^c-f5e5e8452a51e961e5cbc8519a7ccadd].
 
-(46)[^key-8c3006646c026adb724b8f8242dece64] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(46)[^c-8c3006646c026adb724b8f8242dece64] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (47) In regulation 84A (permits under the Pollution Prevention and Control (Scotland) Regulations 2000) as it has effect in Scotland—
 
@@ -309,14 +309,14 @@ In these Regulations, “**the 1994 Regulations**” means the Conservation (Nat
 - (b) in paragraph (2), after “European site” insert “ or European offshore marine site ”; and
 - (c) in paragraph (4), after “European site” insert “ or European offshore marine site ”.
 
-(48)[^key-0cae4f02cb04be5a2313dcf2e04e7469] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(48)[^c-0cae4f02cb04be5a2313dcf2e04e7469] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (49) In regulation 84B [^c18777051] (abstraction and works authorised under water legislation) as it has effect in Scotland—
 
 - (a) in paragraph (2), after “European site” insert “ or European offshore marine site ”; and
 - (b) in paragraph (4), after “European site” insert “ or European offshore marine site ”.
 
-(50)[^key-a785c017a61dac61803efe9aadab9f76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(50)[^c-a785c017a61dac61803efe9aadab9f76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (51) In regulation 85B [^c18777061] (assessment of implications for European site) as it has effect in Scotland—
 
@@ -340,53 +340,53 @@ In these Regulations, “**the 1994 Regulations**” means the Conservation (Nat
 
 (54) In regulation 85E [^c18777091] as it has effect in Scotland, after “European site” insert “ or a European offshore marine site ”.
 
-(55)[^key-faf2657b26d857836d95ebc6cea5006f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(55)[^c-faf2657b26d857836d95ebc6cea5006f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(56)[^key-faf2657b26d857836d95ebc6cea5006f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(56)[^c-faf2657b26d857836d95ebc6cea5006f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(57)[^key-faf2657b26d857836d95ebc6cea5006f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(57)[^c-faf2657b26d857836d95ebc6cea5006f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(58)[^key-faf2657b26d857836d95ebc6cea5006f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(58)[^c-faf2657b26d857836d95ebc6cea5006f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(59)[^key-faf2657b26d857836d95ebc6cea5006f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(59)[^c-faf2657b26d857836d95ebc6cea5006f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(60)[^key-faf2657b26d857836d95ebc6cea5006f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(60)[^c-faf2657b26d857836d95ebc6cea5006f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(61)[^key-01a5d947be7a8d4eaad9442a9c3cdf72] After regulation 108 (service of notices) add the following regulations— *(affected by repeal, see note)*[^key-01a5d947be7a8d4eaad9442a9c3cdf72]
+(61)[^c-01a5d947be7a8d4eaad9442a9c3cdf72] After regulation 108 (service of notices) add the following regulations— *(affected by repeal, see note)*[^c-01a5d947be7a8d4eaad9442a9c3cdf72]
 
-> **109. Advisory role of the JNCC (affected by repeal, see note)[^key-01a5d947be7a8d4eaad9442a9c3cdf72]**
+> **109. Advisory role of the JNCC (affected by repeal, see note)[^c-01a5d947be7a8d4eaad9442a9c3cdf72]**
 >
-> (1) The Joint Nature Conservation Committee may provide advice or make representations to any competent authority in relation to— *(affected by repeal, see note)*[^key-01a5d947be7a8d4eaad9442a9c3cdf72]
+> (1) The Joint Nature Conservation Committee may provide advice or make representations to any competent authority in relation to— *(affected by repeal, see note)*[^c-01a5d947be7a8d4eaad9442a9c3cdf72]
 >
-> - (a) any question as to whether that authority is obliged to carry out an appropriate assessment in relation to a European offshore marine site under these Regulations; *(affected by repeal, see note)*[^key-01a5d947be7a8d4eaad9442a9c3cdf72]
-> - (b) any appropriate assessment on which that authority is obliged to consult the Committee under these Regulations; *(affected by repeal, see note)*[^key-01a5d947be7a8d4eaad9442a9c3cdf72]
-> - (c) any application made pursuant to regulation 62 of these Regulations and sent to the Committee by that authority pursuant to regulation 62(4); and *(affected by repeal, see note)*[^key-01a5d947be7a8d4eaad9442a9c3cdf72]
-> - (d) any decision of the Secretary of State in respect of which notice has been served on it by him under regulation 72(2)(b), 76(2)(b) or 80(2)(b) of these Regulations. *(affected by repeal, see note)*[^key-01a5d947be7a8d4eaad9442a9c3cdf72]
+> - (a) any question as to whether that authority is obliged to carry out an appropriate assessment in relation to a European offshore marine site under these Regulations; *(affected by repeal, see note)*[^c-01a5d947be7a8d4eaad9442a9c3cdf72]
+> - (b) any appropriate assessment on which that authority is obliged to consult the Committee under these Regulations; *(affected by repeal, see note)*[^c-01a5d947be7a8d4eaad9442a9c3cdf72]
+> - (c) any application made pursuant to regulation 62 of these Regulations and sent to the Committee by that authority pursuant to regulation 62(4); and *(affected by repeal, see note)*[^c-01a5d947be7a8d4eaad9442a9c3cdf72]
+> - (d) any decision of the Secretary of State in respect of which notice has been served on it by him under regulation 72(2)(b), 76(2)(b) or 80(2)(b) of these Regulations. *(affected by repeal, see note)*[^c-01a5d947be7a8d4eaad9442a9c3cdf72]
 >
-> (2) The Joint Nature Conservation Committee may undertake, commission or support (whether by financial means or otherwise) such research and scientific work as it considers is required for the purposes of providing advice or making representations under this regulation. *(affected by repeal, see note)*[^key-01a5d947be7a8d4eaad9442a9c3cdf72]
+> (2) The Joint Nature Conservation Committee may undertake, commission or support (whether by financial means or otherwise) such research and scientific work as it considers is required for the purposes of providing advice or making representations under this regulation. *(affected by repeal, see note)*[^c-01a5d947be7a8d4eaad9442a9c3cdf72]
 >
-> (3) In this regulation and regulation 110 of these Regulations, “ *(affected by repeal, see note)*[^key-01a5d947be7a8d4eaad9442a9c3cdf72]**research *(affected by repeal, see note)*[^key-01a5d947be7a8d4eaad9442a9c3cdf72]**” includes inquiries and investigations. *(affected by repeal, see note)*[^key-01a5d947be7a8d4eaad9442a9c3cdf72]
+> (3) In this regulation and regulation 110 of these Regulations, “ *(affected by repeal, see note)*[^c-01a5d947be7a8d4eaad9442a9c3cdf72]**research *(affected by repeal, see note)*[^c-01a5d947be7a8d4eaad9442a9c3cdf72]**” includes inquiries and investigations. *(affected by repeal, see note)*[^c-01a5d947be7a8d4eaad9442a9c3cdf72]
 >
-> **110. Advisory role of Natural England, the Countryside Council for Wales and Scottish Natural Heritage (affected by repeal, see note)[^key-01a5d947be7a8d4eaad9442a9c3cdf72]**
+> **110. Advisory role of Natural England, the Countryside Council for Wales and Scottish Natural Heritage (affected by repeal, see note)[^c-01a5d947be7a8d4eaad9442a9c3cdf72]**
 >
-> (1) Natural England may— *(affected by repeal, see note)*[^key-01a5d947be7a8d4eaad9442a9c3cdf72]
+> (1) Natural England may— *(affected by repeal, see note)*[^c-01a5d947be7a8d4eaad9442a9c3cdf72]
 >
-> - (a) provide advice and assistance, or make representations, to any competent authority on any matter which relates to England and is connected with the discharge of the competent authority's functions under these Regulations; and *(affected by repeal, see note)*[^key-01a5d947be7a8d4eaad9442a9c3cdf72]
-> - (b) undertake, commission or support (whether by financial means or otherwise) such research and scientific work as it considers is required for the purposes of providing advice or assistance or making representations under sub-paragraph (a). *(affected by repeal, see note)*[^key-01a5d947be7a8d4eaad9442a9c3cdf72]
+> - (a) provide advice and assistance, or make representations, to any competent authority on any matter which relates to England and is connected with the discharge of the competent authority's functions under these Regulations; and *(affected by repeal, see note)*[^c-01a5d947be7a8d4eaad9442a9c3cdf72]
+> - (b) undertake, commission or support (whether by financial means or otherwise) such research and scientific work as it considers is required for the purposes of providing advice or assistance or making representations under sub-paragraph (a). *(affected by repeal, see note)*[^c-01a5d947be7a8d4eaad9442a9c3cdf72]
 >
-> (2) The Countryside Council for Wales may— *(affected by repeal, see note)*[^key-01a5d947be7a8d4eaad9442a9c3cdf72]
+> (2) The Countryside Council for Wales may— *(affected by repeal, see note)*[^c-01a5d947be7a8d4eaad9442a9c3cdf72]
 >
-> - (a) provide advice and assistance, or make representations, to any competent authority on any matter which relates to Wales and is connected with the discharge of the competent authority's functions under these Regulations; and *(affected by repeal, see note)*[^key-01a5d947be7a8d4eaad9442a9c3cdf72]
-> - (b) undertake, commission or support (whether by financial means or otherwise) such research and scientific work as it considers is required for the purposes of providing advice or assistance or making representations under sub-paragraph (a). *(affected by repeal, see note)*[^key-01a5d947be7a8d4eaad9442a9c3cdf72]
+> - (a) provide advice and assistance, or make representations, to any competent authority on any matter which relates to Wales and is connected with the discharge of the competent authority's functions under these Regulations; and *(affected by repeal, see note)*[^c-01a5d947be7a8d4eaad9442a9c3cdf72]
+> - (b) undertake, commission or support (whether by financial means or otherwise) such research and scientific work as it considers is required for the purposes of providing advice or assistance or making representations under sub-paragraph (a). *(affected by repeal, see note)*[^c-01a5d947be7a8d4eaad9442a9c3cdf72]
 >
-> (3) Scottish Natural Heritage may— *(affected by repeal, see note)*[^key-01a5d947be7a8d4eaad9442a9c3cdf72]
+> (3) Scottish Natural Heritage may— *(affected by repeal, see note)*[^c-01a5d947be7a8d4eaad9442a9c3cdf72]
 >
-> - (a) provide advice and assistance, or make representations, to any competent authority on any matter which relates to Scotland and is connected with the discharge of the competent authority's functions under these Regulations; and *(affected by repeal, see note)*[^key-01a5d947be7a8d4eaad9442a9c3cdf72]
-> - (b) undertake, commission or support (whether by financial means or otherwise) such research and scientific work as it considers is required for the purposes of providing advice or assistance or making representations under sub-paragraph (a). *(affected by repeal, see note)*[^key-01a5d947be7a8d4eaad9442a9c3cdf72]
+> - (a) provide advice and assistance, or make representations, to any competent authority on any matter which relates to Scotland and is connected with the discharge of the competent authority's functions under these Regulations; and *(affected by repeal, see note)*[^c-01a5d947be7a8d4eaad9442a9c3cdf72]
+> - (b) undertake, commission or support (whether by financial means or otherwise) such research and scientific work as it considers is required for the purposes of providing advice or assistance or making representations under sub-paragraph (a). *(affected by repeal, see note)*[^c-01a5d947be7a8d4eaad9442a9c3cdf72]
 
 .
 
-(62)[^key-c88eb8cf047c56a54390c61edbb3d427] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(62)[^c-c88eb8cf047c56a54390c61edbb3d427] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 6. Amendment of the Conservation of Seals Act 1970
 
@@ -751,81 +751,81 @@ A full Regulatory Impact Assessment of the effect that this instrument will have
 
 [^c18776661]: Marginal citation: The definition of “the Habitats Directive” in regulation 2(1) of the 1994 Regulations was previously amended by regulation 2(2) of the [Conservation (Natural Habitats, & c.) (Amendment) Regulations 1997 (S.I. 1997/3055)](https://www.legislation.gov.uk/uksi/1997/3055).
 
-[^key-362ddf25cdb2252359b4ac31cce3c2bb]: Textual amendment: Reg. 5(2)(a) revoked (E.W.N.I.) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-362ddf25cdb2252359b4ac31cce3c2bb]: Textual amendment: Reg. 5(2)(a) revoked (E.W.N.I.) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
 [^c18776671]: Marginal citation: [S.I. 2007/1842](https://www.legislation.gov.uk/uksi/2007/1842).
 
-[^key-e67bae1973818e7933f5f04ba443a9ec]: Textual amendment: Reg. 5(2)(b)(c) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-e67bae1973818e7933f5f04ba443a9ec]: Textual amendment: Reg. 5(2)(b)(c) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-62c725e91d04dc2983e26403c6a13a93]: Textual amendment: Words in reg. 5(2)(d) revoked (E.W.N.I.) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-62c725e91d04dc2983e26403c6a13a93]: Textual amendment: Words in reg. 5(2)(d) revoked (E.W.N.I.) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
 [^c18776691]: Marginal citation: [1976 c.86](https://www.legislation.gov.uk/ukpga/1976/86).
 
-[^key-ac2ab89e3e8a2ef591e3a58191886009]: Textual amendment: Words in reg. 5(2)(d) revoked (S.) (16.8.2012) by [The Conservation (Natural Habitats, c.) Amendment (Scotland) Regulations 2012 (S.S.I. 2012/228)](https://www.legislation.gov.uk/ssi/2012/228), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/228/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2012/228/schedule)
+[^c-ac2ab89e3e8a2ef591e3a58191886009]: Textual amendment: Words in reg. 5(2)(d) revoked (S.) (16.8.2012) by [The Conservation (Natural Habitats, c.) Amendment (Scotland) Regulations 2012 (S.S.I. 2012/228)](https://www.legislation.gov.uk/ssi/2012/228), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/228/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2012/228/schedule)
 
 [^c18776711]: Marginal citation: [1964 c.29](https://www.legislation.gov.uk/ukpga/1964/29). Section 1(7) was amended by the [Oil and Gas (Enterprise) Act 1982 (c.23)](https://www.legislation.gov.uk/ukpga/1982/23) section 37 and Schedule 3, paragraph 1. Areas have been designated under section 1(7) by [S.I. 2000/3062](https://www.legislation.gov.uk/uksi/2000/3062) and 2001/3670.
 
 [^c18776721]: Marginal citation: [2004 c.20](https://www.legislation.gov.uk/ukpga/2004/20). An area has been designated under section 84(4) by [S.I. 2004/2668](https://www.legislation.gov.uk/uksi/2004/2668).
 
-[^key-5b2a8d29a8d6e3a920061ad875b9d14a]: Textual amendment: Words in reg. 5(2)(d) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-5b2a8d29a8d6e3a920061ad875b9d14a]: Textual amendment: Words in reg. 5(2)(d) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-cbc8e0bb76f420bcb4d26d22a5a81951]: Textual amendment: Reg. 5(2)(e) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-cbc8e0bb76f420bcb4d26d22a5a81951]: Textual amendment: Reg. 5(2)(e) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-022014900dd7cbfe2801187b00420c56]: Textual amendment: Words in reg. 5(3) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-022014900dd7cbfe2801187b00420c56]: Textual amendment: Words in reg. 5(3) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-d0f234d1046ca6ccc606e7e28e82f448]: Textual amendment: Words in reg. 5(3) revoked (E.W.N.I.) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-d0f234d1046ca6ccc606e7e28e82f448]: Textual amendment: Words in reg. 5(3) revoked (E.W.N.I.) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-134f3e4cbda636fd7d3871d83a16c0ac]: Textual amendment: Reg. 5(4)(5) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-134f3e4cbda636fd7d3871d83a16c0ac]: Textual amendment: Reg. 5(4)(5) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-1d28a7bda10ccc658b8728940c3c626b]: Textual amendment: Reg. 5(6) revoked (E.W.N.I.) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-1d28a7bda10ccc658b8728940c3c626b]: Textual amendment: Reg. 5(6) revoked (E.W.N.I.) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-c76a5b827d3e0fcc34dcea15178706e3]: Textual amendment: Reg. 5(7)-(21) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-c76a5b827d3e0fcc34dcea15178706e3]: Textual amendment: Reg. 5(7)-(21) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-8a1e8c871c319d113fd6bd12170858ec]: Textual amendment: Reg. 5(22) revoked (E.W.N.I.) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-8a1e8c871c319d113fd6bd12170858ec]: Textual amendment: Reg. 5(22) revoked (E.W.N.I.) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-2b578e2a544a6c0f392b91eff5fd753f]: Textual amendment: Reg. 5(23)(a) revoked (E.W.N.I.) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-2b578e2a544a6c0f392b91eff5fd753f]: Textual amendment: Reg. 5(23)(a) revoked (E.W.N.I.) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-f176d9e01187c73b85a092f788672e1d]: Textual amendment: Reg. 5(23)(b) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-f176d9e01187c73b85a092f788672e1d]: Textual amendment: Reg. 5(23)(b) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-03e901216a1941297c527b9fb5215a4d]: Textual amendment: Reg. 5(23)(c)(d) revoked (E.W.N.I.) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-03e901216a1941297c527b9fb5215a4d]: Textual amendment: Reg. 5(23)(c)(d) revoked (E.W.N.I.) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-087ada2c584277a305259f92596e21ed]: Textual amendment: Reg. 5(23)(e) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-087ada2c584277a305259f92596e21ed]: Textual amendment: Reg. 5(23)(e) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-9b22a97359961cbd6362dae450c4ac83]: Textual amendment: Reg. 5(24)(a) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-9b22a97359961cbd6362dae450c4ac83]: Textual amendment: Reg. 5(24)(a) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-afe9674724aa05a0697452e6ba0c1885]: Textual amendment: Reg. 5(24)(b) revoked (E.W.N.I.) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-afe9674724aa05a0697452e6ba0c1885]: Textual amendment: Reg. 5(24)(b) revoked (E.W.N.I.) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-5193620169a2c8658c098d04593a1191]: Textual amendment: Reg. 5(25)-(27) revoked (E.W.N.I.) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-5193620169a2c8658c098d04593a1191]: Textual amendment: Reg. 5(25)-(27) revoked (E.W.N.I.) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
 [^c18776901]: Marginal citation: Regulation 53A was inserted by regulations 3 and 16(b) of the [Conservation (Natural Habitats. &c) Amendment (Scotland) Regulations 2004 (S.S.I. 2004/475)](https://www.legislation.gov.uk/ssi/2004/475).
 
-[^key-6a35944ffb3f1b8cb265be4c4fffbda3]: Textual amendment: Reg. 5(29)(a) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-6a35944ffb3f1b8cb265be4c4fffbda3]: Textual amendment: Reg. 5(29)(a) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-f94b2737b2e4220633d8b4d8ebb866d6]: Textual amendment: Reg. 5(29)(c)(d) revoked (E.W.N.I.) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-f94b2737b2e4220633d8b4d8ebb866d6]: Textual amendment: Reg. 5(29)(c)(d) revoked (E.W.N.I.) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-0ecd16236c5092979496d04cc8969d34]: Textual amendment: Reg. 5(30) revoked (E.W.N.I.) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-0ecd16236c5092979496d04cc8969d34]: Textual amendment: Reg. 5(30) revoked (E.W.N.I.) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-3458abee8e444dfe1a49c19f365bc137]: Textual amendment: Reg. 5(31) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-3458abee8e444dfe1a49c19f365bc137]: Textual amendment: Reg. 5(31) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-1c93ab7f8a6375072d8794164a0687f2]: Textual amendment: Reg. 5(33)-(35) revoked (E.W.N.I.) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-1c93ab7f8a6375072d8794164a0687f2]: Textual amendment: Reg. 5(33)-(35) revoked (E.W.N.I.) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-14769484ea65ab6e483bbc107dba171f]: Textual amendment: Reg. 5(36) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-14769484ea65ab6e483bbc107dba171f]: Textual amendment: Reg. 5(36) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-00fa7d1cb1973246be97f19444693e5a]: Textual amendment: Reg. 5(37)-(39) revoked (E.W.N.I.) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-00fa7d1cb1973246be97f19444693e5a]: Textual amendment: Reg. 5(37)-(39) revoked (E.W.N.I.) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
 [^c18776911]: Marginal citation: Regulation 69A was inserted by section 99 of, and paragraphs 14 and 16 of Schedule 2 to, the [Land Reform (Scotland) Act 2003 (asp 2)](https://www.legislation.gov.uk/asp/2003/2).
 
-[^key-e6fc94d8491e097c4b7146d390bd2f78]: Textual amendment: Reg. 5(41)(42)(43) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-e6fc94d8491e097c4b7146d390bd2f78]: Textual amendment: Reg. 5(41)(42)(43) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-f5e5e8452a51e961e5cbc8519a7ccadd]: Textual amendment: Reg. 5(44)(45) revoked (E.W.N.I.) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-f5e5e8452a51e961e5cbc8519a7ccadd]: Textual amendment: Reg. 5(44)(45) revoked (E.W.N.I.) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-8c3006646c026adb724b8f8242dece64]: Textual amendment: Reg. 5(46) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-8c3006646c026adb724b8f8242dece64]: Textual amendment: Reg. 5(46) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-0cae4f02cb04be5a2313dcf2e04e7469]: Textual amendment: Reg. 5(48) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-0cae4f02cb04be5a2313dcf2e04e7469]: Textual amendment: Reg. 5(48) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
 [^c18777051]: Marginal citation: Regulation 84B (as it has effect in Scotland) was inserted by regulation 20 of the [Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2007 (S.S.I. 2007/80)](https://www.legislation.gov.uk/ssi/2007/80).
 
-[^key-a785c017a61dac61803efe9aadab9f76]: Textual amendment: Reg. 5(50) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-a785c017a61dac61803efe9aadab9f76]: Textual amendment: Reg. 5(50) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
 [^c18777061]: Marginal citation: Regulation 85B (as it has effect in Scotland) was inserted by regulation 22 of and Schedule 1 to the [Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2007 (S.S.I. 2007/80)](https://www.legislation.gov.uk/ssi/2007/80).
 
@@ -835,11 +835,11 @@ A full Regulatory Impact Assessment of the effect that this instrument will have
 
 [^c18777091]: Marginal citation: Regulation 85E (as it has effect in Scotland) was inserted by regulation 22 of and Schedule 1 to the [Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2007 (S.S.I. 2007/80)](https://www.legislation.gov.uk/ssi/2007/80).
 
-[^key-faf2657b26d857836d95ebc6cea5006f]: Textual amendment: Reg. 5(55)-(60) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-faf2657b26d857836d95ebc6cea5006f]: Textual amendment: Reg. 5(55)-(60) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-01a5d947be7a8d4eaad9442a9c3cdf72]: Textual amendment: Reg. 5(61) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-01a5d947be7a8d4eaad9442a9c3cdf72]: Textual amendment: Reg. 5(61) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-c88eb8cf047c56a54390c61edbb3d427]: Textual amendment: Reg. 5(62) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-c88eb8cf047c56a54390c61edbb3d427]: Textual amendment: Reg. 5(62) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
 [^c18777111]: Marginal citation: [1970 c.30](https://www.legislation.gov.uk/ukpga/1970/30). Section 10 has been amended by section 1(1)(b) and (7) of, and paragraph 10 of Schedule 1 to, the [Nature Conservancy Act 1973 (c.54)](https://www.legislation.gov.uk/ukpga/1973/54); [sections 12](https://www.legislation.gov.uk/uksi/2007/1843/section/12) and 73 of, and paragraph 7 of Schedule 7 and Schedule 17 to, the [Wildlife and Countryside Act 1981 (c.69)](https://www.legislation.gov.uk/ukpga/1981/69); [section 132](https://www.legislation.gov.uk/uksi/2007/1843/section/132) of, and paragraph 5 of Schedule 9 to, the [Environmental Protection Act 1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43); [sections 76(1)](https://www.legislation.gov.uk/uksi/2007/1843/section/76/1) and 102 of, and paragraph 4 of Part 2 of Schedule 10 to, and Part 3 of Schedule 16 to the [Countryside and Rights of Way Act 2000 (c.37)](https://www.legislation.gov.uk/ukpga/2000/37); [section 57](https://www.legislation.gov.uk/uksi/2007/1843/section/57) of, and paragraph 3(a) of Schedule 7 to, the [Nature Conservation (Scotland) Act 2004 (asp 6)](https://www.legislation.gov.uk/asp/2004/6); and section 105(1) of, and paragraph 57(1), (2) and (3) of Part 1 of Schedule 11 to, the [Natural Environment and Rural Communities Act 2006 (c.14)](https://www.legislation.gov.uk/ukpga/2006/14).
 

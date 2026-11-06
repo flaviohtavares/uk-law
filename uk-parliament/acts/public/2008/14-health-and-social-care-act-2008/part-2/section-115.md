@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Powers and duties of Council[^key-dfa6f73ae471cd5251046f586cb977a5]
+## 115. Powers and duties of Council[^c-dfa6f73ae471cd5251046f586cb977a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In section 26 of the 2002 Act (powers and duties of the Council: general), for s
 
 ## Annotations
 
-[^key-dfa6f73ae471cd5251046f586cb977a5]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2008/14/section/115) in force at 1.1.2009 by [S.I. 2008/3244](https://www.legislation.gov.uk/uksi/2008/3244), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/3244/article/2/c)
+[^c-dfa6f73ae471cd5251046f586cb977a5]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2008/14/section/115) in force at 1.1.2009 by [S.I. 2008/3244](https://www.legislation.gov.uk/uksi/2008/3244), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/3244/article/2/c)

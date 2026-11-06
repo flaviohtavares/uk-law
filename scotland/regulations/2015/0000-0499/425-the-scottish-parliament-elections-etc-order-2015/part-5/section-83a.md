@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83A. Vacancies: regional member seats[^key-f880e0ad870d3b47fa2fe4688f2c8467]
+## 83A. Vacancies: regional member seats[^c-f880e0ad870d3b47fa2fe4688f2c8467]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f880e0ad870d3b47fa2fe4688f2c8467]: Textual amendment: [Art. 83A](https://www.legislation.gov.uk/ssi/2015/425/article/83A) inserted (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [13](https://www.legislation.gov.uk/ssi/2020/426/article/13) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))
+[^c-f880e0ad870d3b47fa2fe4688f2c8467]: Textual amendment: [Art. 83A](https://www.legislation.gov.uk/ssi/2015/425/article/83A) inserted (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [13](https://www.legislation.gov.uk/ssi/2020/426/article/13) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))

@@ -30,7 +30,7 @@ TRADE MARKS
 
 COMMERCIAL PROPERTY
 
-The Olympics and Paralympics Association Rights[^key-149ed846226ebde6004c3bcc13f4706c] (Infringement Proceedings) Regulations 1995
+The Olympics and Paralympics Association Rights[^c-149ed846226ebde6004c3bcc13f4706c] (Infringement Proceedings) Regulations 1995
 
 Made
 
@@ -46,18 +46,18 @@ Coming into force
 
 The Secretary of State for National Heritage as respects England, Wales and Northern Ireland and the Secretary of State for Scotland as respects Scotland, in exercise of the powers conferred on them by section 7(1) of the Olympic Symbol etc. (Protection) Act 1995[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations—
 
-## 1. Citation, commencement and interpretation[^key-b25ade565340be62a8241c7b08f3c577]
+## 1. Citation, commencement and interpretation[^c-b25ade565340be62a8241c7b08f3c577]
 
-(1) These Regulations may be cited as The Olympics and Paralympics Association Rights[^key-a9e316bcf6b7829937acf6b054e7546e] (Infringement Proceedings) Regulations 1995 and shall come into force on 12th January 1996.
+(1) These Regulations may be cited as The Olympics and Paralympics Association Rights[^c-a9e316bcf6b7829937acf6b054e7546e] (Infringement Proceedings) Regulations 1995 and shall come into force on 12th January 1996.
 
-(2)[^key-fd2ee732c1d5cd2458320094c9d47cce] In these Regulations—
+(2)[^c-fd2ee732c1d5cd2458320094c9d47cce] In these Regulations—
 
 - “the court”, unless the context otherwise requires, means—
   - (a) in England and Wales and Northern Ireland, the High Court, and
   - (b) in Scotland, the Court of Session; and
 - “**the Olympics association right**” means the Olympics association right or the Paralympics association right as the case may be.
 
-## 2. Order for erasure & c. of controlled representations[^key-ec2b0715aafee5aa4be8ff38e47d45da]
+## 2. Order for erasure & c. of controlled representations[^c-ec2b0715aafee5aa4be8ff38e47d45da]
 
 (1) Where a person is found to have infringed the Olympics association right[^M_F_44ef4c05-4838-434b-b724-036c71d967ea] the court may make an order requiring him—
 
@@ -66,7 +66,7 @@ The Secretary of State for National Heritage as respects England, Wales and Nort
 
 (2) If an order under paragraph (1) above is not complied with, or it appears to the court likely that such an order would not be complied with, the court may order that the infringing goods, material or articles be delivered to such person as the court may direct for erasure, removal or obliteration of the offending controlled representation or for destruction, as the case may be.
 
-## 3. Order for delivery up of infringing goods, material or articles[^key-921748928b8e37be9380f3db5892bcca]
+## 3. Order for delivery up of infringing goods, material or articles[^c-921748928b8e37be9380f3db5892bcca]
 
 (1) The proprietor of the Olympics association right may apply to the court for an order for the delivery up to him, or such other person as the court may direct, of any infringing goods, material or articles which a person has in his possession, custody or control in the course of a business.
 
@@ -76,7 +76,7 @@ The Secretary of State for National Heritage as respects England, Wales and Nort
 
 (4) Nothing in this Regulation affects any other power of the court.
 
-## 4. Period after which remedy of delivery up is not available[^key-ec7687668ae25d0f29bc819a8d6dd7cd]
+## 4. Period after which remedy of delivery up is not available[^c-ec7687668ae25d0f29bc819a8d6dd7cd]
 
 (1) An application for an order under regulation 3 (order for the delivery up of infringing goods, material or articles) may not be made after the end of the period of six years from—
 
@@ -99,7 +99,7 @@ an application may be made at any time before the end of the period of six years
 - (b) in Scotland, means legal disability within the meaning of the Prescription and Limitation (Scotland) Act 1973[^f00005],
 - (c) in Northern Ireland, has the same meaning as in the Limitation (Northern Ireland) Order 1989[^f00006].
 
-## 5. Order as to the disposal of infringing goods, material or articles etc.[^key-b3f9f7747c83ac4dfcf51180aa2c2a29]
+## 5. Order as to the disposal of infringing goods, material or articles etc.[^c-b3f9f7747c83ac4dfcf51180aa2c2a29]
 
 (1) Where infringing goods, material or articles have been delivered up in pursuance of an order under regulation 3, an application may be made to the court—
 
@@ -119,17 +119,17 @@ and an order shall not take effect until the end of the period within which noti
 
 (5) If the court decides that no order should be made under this Regulation, the person in whose possession, custody or control the goods, material or articles were before being delivered up is entitled to their return.
 
-(6)[^key-a8c23956df4da2d0db8131c117069b85] In this Regulation, “**licensee**” means a person to whom the proprietor has given consent for the purposes of section 2(2)(b) of the Olympic Symbol etc. (Protection) Act 1995.
+(6)[^c-a8c23956df4da2d0db8131c117069b85] In this Regulation, “**licensee**” means a person to whom the proprietor has given consent for the purposes of section 2(2)(b) of the Olympic Symbol etc. (Protection) Act 1995.
 
 (7) References in this Regulation to a person having an interest in goods, material or articles include any person in whose favour an order could be made under—
 
 - (a) this Regulation,
-- (b) section 19 of the Trade Marks Act 1994 [^key-926c8e6ccb882110d20224267f0ec059]...,
+- (b) section 19 of the Trade Marks Act 1994 [^c-926c8e6ccb882110d20224267f0ec059]...,
 - (c) section 24D of the Registered Designs Act 1949,
 - (d) section 114, 204 or 231 of the Copyright, Designs and Patents Act 1988, or
 - (e) regulation 1C of the Community Design Regulations 2005.
 
-## 6. Jurisdiction of sheriff court or county court in Northern Ireland[^key-42b7a2751c5ffe631707de1da23df4aa]
+## 6. Jurisdiction of sheriff court or county court in Northern Ireland[^c-42b7a2751c5ffe631707de1da23df4aa]
 
 Proceedings for an order under regulation 3 (order for delivery up of infringing goods, material or articles) or regulation 5 (order as to disposal of infringing goods, etc.) may be brought—
 
@@ -160,25 +160,25 @@ The orders specified in these Regulations may be made by the High Court in Engla
 
 ## Annotations
 
-[^key-149ed846226ebde6004c3bcc13f4706c]: Textual amendment: Words in Title substituted (8.11.2010) by [The Olympics, Paralympics and London Olympics Association Rights (Infringement Proceedings) Regulations 2010 (S.I. 2010/2477)](https://www.legislation.gov.uk/uksi/2010/2477), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2477/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2010/2477/regulation/6/a)
+[^c-149ed846226ebde6004c3bcc13f4706c]: Textual amendment: Words in Title substituted (8.11.2010) by [The Olympics, Paralympics and London Olympics Association Rights (Infringement Proceedings) Regulations 2010 (S.I. 2010/2477)](https://www.legislation.gov.uk/uksi/2010/2477), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2477/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2010/2477/regulation/6/a)
 
 [^f00001]: Footnote: [1995 c. 32](https://www.legislation.gov.uk/ukpga/1995/32).
 
-[^key-b25ade565340be62a8241c7b08f3c577]: Commencement: Reg. 1 in force at 12.1.1996, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/1/1)
+[^c-b25ade565340be62a8241c7b08f3c577]: Commencement: Reg. 1 in force at 12.1.1996, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/1/1)
 
-[^key-a9e316bcf6b7829937acf6b054e7546e]: Textual amendment: Words in [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/1/1) substituted (8.11.2010) by [The Olympics, Paralympics and London Olympics Association Rights (Infringement Proceedings) Regulations 2010 (S.I. 2010/2477)](https://www.legislation.gov.uk/uksi/2010/2477), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2477/regulation/1/1), [6(b)(i)](https://www.legislation.gov.uk/uksi/2010/2477/regulation/6/b/i)
+[^c-a9e316bcf6b7829937acf6b054e7546e]: Textual amendment: Words in [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/1/1) substituted (8.11.2010) by [The Olympics, Paralympics and London Olympics Association Rights (Infringement Proceedings) Regulations 2010 (S.I. 2010/2477)](https://www.legislation.gov.uk/uksi/2010/2477), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2477/regulation/1/1), [6(b)(i)](https://www.legislation.gov.uk/uksi/2010/2477/regulation/6/b/i)
 
-[^key-fd2ee732c1d5cd2458320094c9d47cce]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/1/2) substituted (8.11.2010) by [The Olympics, Paralympics and London Olympics Association Rights (Infringement Proceedings) Regulations 2010 (S.I. 2010/2477)](https://www.legislation.gov.uk/uksi/2010/2477), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2477/regulation/1/1), [6(b)(ii)](https://www.legislation.gov.uk/uksi/2010/2477/regulation/6/b/ii)
+[^c-fd2ee732c1d5cd2458320094c9d47cce]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/1/2) substituted (8.11.2010) by [The Olympics, Paralympics and London Olympics Association Rights (Infringement Proceedings) Regulations 2010 (S.I. 2010/2477)](https://www.legislation.gov.uk/uksi/2010/2477), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2477/regulation/1/1), [6(b)(ii)](https://www.legislation.gov.uk/uksi/2010/2477/regulation/6/b/ii)
 
-[^key-ec2b0715aafee5aa4be8ff38e47d45da]: Commencement: Reg. 2 in force at 12.1.1996, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/1/1)
+[^c-ec2b0715aafee5aa4be8ff38e47d45da]: Commencement: Reg. 2 in force at 12.1.1996, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/1/1)
 
 [^M_F_44ef4c05-4838-434b-b724-036c71d967ea]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/2/1): footnote for “Olympics association right” omitted (8.11.2010) by virtue of [The Olympics, Paralympics and London Olympics Association Rights (Infringement Proceedings) Regulations 2010 (S.I. 2010/2477)](https://www.legislation.gov.uk/uksi/2010/2477), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2477/regulation/1/1), [6(c)](https://www.legislation.gov.uk/uksi/2010/2477/regulation/6/c)
 
 [^f00003]: Footnote: The expressions “infringing goods”, “infringing material” and “infringing articles” are defined in section 7 of the Olympic Symbol etc. (Protection) Act 1995.
 
-[^key-921748928b8e37be9380f3db5892bcca]: Commencement: Reg. 3 in force at 12.1.1996, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/1/1)
+[^c-921748928b8e37be9380f3db5892bcca]: Commencement: Reg. 3 in force at 12.1.1996, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/1/1)
 
-[^key-ec7687668ae25d0f29bc819a8d6dd7cd]: Commencement: Reg. 4 in force at 12.1.1996, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/1/1)
+[^c-ec7687668ae25d0f29bc819a8d6dd7cd]: Commencement: Reg. 4 in force at 12.1.1996, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/1/1)
 
 [^f00004]: Footnote: [1980 c. 58](https://www.legislation.gov.uk/ukpga/1980/58).
 
@@ -186,10 +186,10 @@ The orders specified in these Regulations may be made by the High Court in Engla
 
 [^f00006]: Footnote: S.I. [1989/1339 (N.I.11)](https://www.legislation.gov.uk/nisi/1989/1339).
 
-[^key-b3f9f7747c83ac4dfcf51180aa2c2a29]: Commencement: Reg. 5 in force at 12.1.1996, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/1/1)
+[^c-b3f9f7747c83ac4dfcf51180aa2c2a29]: Commencement: Reg. 5 in force at 12.1.1996, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/1/1)
 
-[^key-a8c23956df4da2d0db8131c117069b85]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/5/6)[(7)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/5/7) substituted for [reg. 5(6)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/5/6) (8.11.2010) by [The Olympics, Paralympics and London Olympics Association Rights (Infringement Proceedings) Regulations 2010 (S.I. 2010/2477)](https://www.legislation.gov.uk/uksi/2010/2477), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2477/regulation/1/1), [6(d)](https://www.legislation.gov.uk/uksi/2010/2477/regulation/6/d)
+[^c-a8c23956df4da2d0db8131c117069b85]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/5/6)[(7)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/5/7) substituted for [reg. 5(6)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/5/6) (8.11.2010) by [The Olympics, Paralympics and London Olympics Association Rights (Infringement Proceedings) Regulations 2010 (S.I. 2010/2477)](https://www.legislation.gov.uk/uksi/2010/2477), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2477/regulation/1/1), [6(d)](https://www.legislation.gov.uk/uksi/2010/2477/regulation/6/d)
 
-[^key-926c8e6ccb882110d20224267f0ec059]: Textual amendment: Words in [reg. 5(7)(b)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/5/7/b) omitted (31.12.2020) by virtue of [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2019/269/schedule/5/paragraph/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-926c8e6ccb882110d20224267f0ec059]: Textual amendment: Words in [reg. 5(7)(b)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/5/7/b) omitted (31.12.2020) by virtue of [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2019/269/schedule/5/paragraph/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-42b7a2751c5ffe631707de1da23df4aa]: Commencement: Reg. 6 in force at 12.1.1996, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/1/1)
+[^c-42b7a2751c5ffe631707de1da23df4aa]: Commencement: Reg. 6 in force at 12.1.1996, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/1/1)

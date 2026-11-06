@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6.3. Transfer of rights under section 107 of the Act[^key-00f87bde1a4b1dd72234f75244310ec7]
+## 6.3. Transfer of rights under section 107 of the Act[^c-00f87bde1a4b1dd72234f75244310ec7]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00f87bde1a4b1dd72234f75244310ec7]: Commencement: [Rule 6.3](https://www.legislation.gov.uk/uksi/1997/291/rule/6.3) in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-00f87bde1a4b1dd72234f75244310ec7]: Commencement: [Rule 6.3](https://www.legislation.gov.uk/uksi/1997/291/rule/6.3) in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

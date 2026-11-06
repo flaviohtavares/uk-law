@@ -30,7 +30,7 @@ summary: ''
 
 AGRICULTURE
 
-The Beef Carcase (Classification) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^key-b3a5689c49e0c097dded33e18fc5b769]
+The Beef Carcase (Classification) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^c-b3a5689c49e0c097dded33e18fc5b769]
 
 Made
 
@@ -40,24 +40,24 @@ Coming into operation
 
 17th March 1998
 
-[^key-b3a5689c49e0c097dded33e18fc5b769]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b3a5689c49e0c097dded33e18fc5b769]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-b3a5689c49e0c097dded33e18fc5b769]
+## 1. Citation, commencement and interpretation[^c-b3a5689c49e0c097dded33e18fc5b769]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Beef Carcase (Classification) Regulations (Northern Ireland) 1992[^key-b3a5689c49e0c097dded33e18fc5b769]
+## 2. Amendment of the Beef Carcase (Classification) Regulations (Northern Ireland) 1992[^c-b3a5689c49e0c097dded33e18fc5b769]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b3a5689c49e0c097dded33e18fc5b769]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b3a5689c49e0c097dded33e18fc5b769]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b3a5689c49e0c097dded33e18fc5b769]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b3a5689c49e0c097dded33e18fc5b769]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b3a5689c49e0c097dded33e18fc5b769]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/40) revoked (14.3.2005) by [The Beef Carcase (Classification) Regulations (Northern Ireland) 2005 (revoked) 2005 (S.R. 2005/28)](https://www.legislation.gov.uk/nisr/2005/28), [regs. 1](https://www.legislation.gov.uk/nisr/2005/28/regulation/1), [14](https://www.legislation.gov.uk/nisr/2005/28/regulation/14)
+[^c-b3a5689c49e0c097dded33e18fc5b769]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/40) revoked (14.3.2005) by [The Beef Carcase (Classification) Regulations (Northern Ireland) 2005 (revoked) 2005 (S.R. 2005/28)](https://www.legislation.gov.uk/nisr/2005/28), [regs. 1](https://www.legislation.gov.uk/nisr/2005/28/regulation/1), [14](https://www.legislation.gov.uk/nisr/2005/28/regulation/14)

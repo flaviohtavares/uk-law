@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Sitting in retirement offices[^key-599ac457e6dd19fcc617e659f06d867c]
+## 135. Sitting in retirement offices[^c-599ac457e6dd19fcc617e659f06d867c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 2 has effect.
 
 ## Annotations
 
-[^key-599ac457e6dd19fcc617e659f06d867c]: Commencement: [Reg. 135](https://www.legislation.gov.uk/uksi/2022/319/regulation/135) in force at 1.10.2022 by virtue of reg. 1(3)
+[^c-599ac457e6dd19fcc617e659f06d867c]: Commencement: [Reg. 135](https://www.legislation.gov.uk/uksi/2022/319/regulation/135) in force at 1.10.2022 by virtue of reg. 1(3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. General regulation-making power[^key-2dd30d8c905f9bd2757ba4d5e1026fa1]
+## 19. General regulation-making power[^c-2dd30d8c905f9bd2757ba4d5e1026fa1]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2dd30d8c905f9bd2757ba4d5e1026fa1]: Commencement: S. 19 in force at 14.12.2007 by [S.S.I. 2007/530](https://www.legislation.gov.uk/ssi/2007/530), [art. 2(c)](https://www.legislation.gov.uk/ssi/2007/530/article/2/c)
+[^c-2dd30d8c905f9bd2757ba4d5e1026fa1]: Commencement: S. 19 in force at 14.12.2007 by [S.S.I. 2007/530](https://www.legislation.gov.uk/ssi/2007/530), [art. 2(c)](https://www.legislation.gov.uk/ssi/2007/530/article/2/c)

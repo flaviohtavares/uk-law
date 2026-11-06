@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Sheriffs principal to be Appeal Sheriffs[^key-9a3bc9dfbb974931f85c6dc555112afd]
+## 49. Sheriffs principal to be Appeal Sheriffs[^c-9a3bc9dfbb974931f85c6dc555112afd]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a3bc9dfbb974931f85c6dc555112afd]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2014/18/section/49) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-9a3bc9dfbb974931f85c6dc555112afd]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2014/18/section/49) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

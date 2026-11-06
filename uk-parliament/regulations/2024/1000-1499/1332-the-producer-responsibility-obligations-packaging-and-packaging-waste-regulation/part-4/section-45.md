@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Provision of information by producers to compliance schemes[^key-1cfc2022810e8621be284c84e628c660]
+## 45. Provision of information by producers to compliance schemes[^c-1cfc2022810e8621be284c84e628c660]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ provides to the scheme operator any information which the scheme operator will n
 
 ## Annotations
 
-[^key-1cfc2022810e8621be284c84e628c660]: Commencement: Reg. 45 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-1cfc2022810e8621be284c84e628c660]: Commencement: Reg. 45 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

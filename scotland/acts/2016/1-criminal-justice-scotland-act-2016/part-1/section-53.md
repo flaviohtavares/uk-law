@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Duty to inform Principal Reporter if child not being prosecuted[^key-c169291e6c5659f89d53619471a287bc]
+## 53. Duty to inform Principal Reporter if child not being prosecuted[^c-c169291e6c5659f89d53619471a287bc]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c169291e6c5659f89d53619471a287bc]: Commencement: S. 53 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-c169291e6c5659f89d53619471a287bc]: Commencement: S. 53 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)

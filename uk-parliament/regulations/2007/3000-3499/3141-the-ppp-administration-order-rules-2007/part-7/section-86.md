@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 86. Right of inspection[^key-99b5a24494e450c4e665d1482fc74f4b]
+## 86. Right of inspection[^c-99b5a24494e450c4e665d1482fc74f4b]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99b5a24494e450c4e665d1482fc74f4b]: Commencement: [Rule 86](https://www.legislation.gov.uk/uksi/2007/3141/rule/86) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-99b5a24494e450c4e665d1482fc74f4b]: Commencement: [Rule 86](https://www.legislation.gov.uk/uksi/2007/3141/rule/86) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

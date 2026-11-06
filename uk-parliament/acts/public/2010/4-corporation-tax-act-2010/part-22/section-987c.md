@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 987C. Northern Ireland Housing Executive[^key-55263ccf2fa5f1ba53521c5df959a286]
+## 987C. Northern Ireland Housing Executive[^c-55263ccf2fa5f1ba53521c5df959a286]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Northern Ireland Housing Executive is not liable to corporation tax.
 
 ## Annotations
 
-[^key-55263ccf2fa5f1ba53521c5df959a286]: Textual amendment: S. 987C and cross-heading inserted (with effect in accordance with s. 39(2) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2021/26/section/39/1)
+[^c-55263ccf2fa5f1ba53521c5df959a286]: Textual amendment: S. 987C and cross-heading inserted (with effect in accordance with s. 39(2) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2021/26/section/39/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Safety at other sports grounds[^key-65e55c89f5c551e0ba160122b77b6774]
+## 32. Safety at other sports grounds[^c-65e55c89f5c551e0ba160122b77b6774]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65e55c89f5c551e0ba160122b77b6774]: Textual amendment: S. 32 repealed (with effect in accordance with Sch. 39 para. 35 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 33(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/33/c)
+[^c-65e55c89f5c551e0ba160122b77b6774]: Textual amendment: S. 32 repealed (with effect in accordance with Sch. 39 para. 35 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 33(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/33/c)

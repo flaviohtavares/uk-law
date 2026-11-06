@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 57. Power to make regulations[^key-f6470cee4bd351bb41d9e0ff48732b2c]
+## Article 57. Power to make regulations[^c-f6470cee4bd351bb41d9e0ff48732b2c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In order to ensure correct and efficient application of the provisions relating 
 
 ## Annotations
 
-[^key-f6470cee4bd351bb41d9e0ff48732b2c]: Textual amendment: Art. 57 substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) Regulations 2019 (S.I. 2019/748)](https://www.legislation.gov.uk/uksi/2019/748), [regs. 1](https://www.legislation.gov.uk/uksi/2019/748/regulation/1), [11](https://www.legislation.gov.uk/uksi/2019/748/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f6470cee4bd351bb41d9e0ff48732b2c]: Textual amendment: Art. 57 substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) Regulations 2019 (S.I. 2019/748)](https://www.legislation.gov.uk/uksi/2019/748), [regs. 1](https://www.legislation.gov.uk/uksi/2019/748/regulation/1), [11](https://www.legislation.gov.uk/uksi/2019/748/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

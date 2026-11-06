@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Conferral of additional powers on Land Registry[^key-ebf594de381f32176584152e6998e9a0]
+## 35. Conferral of additional powers on Land Registry[^c-ebf594de381f32176584152e6998e9a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ebf594de381f32176584152e6998e9a0]: Commencement: S. 35 in force at 12.4.2015, see s. 57(5)(e)
+[^c-ebf594de381f32176584152e6998e9a0]: Commencement: S. 35 in force at 12.4.2015, see s. 57(5)(e)

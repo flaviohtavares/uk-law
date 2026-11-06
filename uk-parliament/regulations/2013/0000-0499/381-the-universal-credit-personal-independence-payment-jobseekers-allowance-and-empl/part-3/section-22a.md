@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22A. Extension[^key-50513b7f3cf411abfe752ec93cda3646]
+## 22A. Extension[^c-50513b7f3cf411abfe752ec93cda3646]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Secretary of State may extend the length of a fixed term award of personal i
 
 ## Annotations
 
-[^key-50513b7f3cf411abfe752ec93cda3646]: Textual amendment: [Reg. 22A](https://www.legislation.gov.uk/uksi/2013/381/regulation/22A) inserted (2.6.2026) by [The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Decisions and Appeals) (Amendment) Regulations 2026 (S.I. 2026/457)](https://www.legislation.gov.uk/uksi/2026/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/457/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2026/457/regulation/2)
+[^c-50513b7f3cf411abfe752ec93cda3646]: Textual amendment: [Reg. 22A](https://www.legislation.gov.uk/uksi/2013/381/regulation/22A) inserted (2.6.2026) by [The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Decisions and Appeals) (Amendment) Regulations 2026 (S.I. 2026/457)](https://www.legislation.gov.uk/uksi/2026/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/457/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2026/457/regulation/2)

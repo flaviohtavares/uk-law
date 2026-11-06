@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.206. Appointment and remuneration[^key-2580a66e4df3c490107d5624c6776401]
+## 4.206. Appointment and remuneration[^c-2580a66e4df3c490107d5624c6776401]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ The report shall include the applicant's estimate of the value of the assets in 
 
 ## Annotations
 
-[^key-2580a66e4df3c490107d5624c6776401]: Commencement: [Rule 4.206](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.206) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-2580a66e4df3c490107d5624c6776401]: Commencement: [Rule 4.206](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.206) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00111]: Marginal citation: \[FORM 4.60\]

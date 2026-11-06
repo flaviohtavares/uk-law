@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Personal flying logbook[^key-564efab76159283610082bbc35e3df8c]
+## 58. Personal flying logbook[^c-564efab76159283610082bbc35e3df8c]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-564efab76159283610082bbc35e3df8c]: Commencement: [Art. 58](https://www.legislation.gov.uk/uksi/2013/2870/article/58) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-564efab76159283610082bbc35e3df8c]: Commencement: [Art. 58](https://www.legislation.gov.uk/uksi/2013/2870/article/58) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

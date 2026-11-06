@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Offence of failing to prevent smoking in smoke-free premises[^key-9594be526c5e9671480ff58a891162d3][^key-c832f5dab6a5a6b87218efe0a395b264]
+## 6. Offence of failing to prevent smoking in smoke-free premises[^c-9594be526c5e9671480ff58a891162d3][^c-c832f5dab6a5a6b87218efe0a395b264]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ to be imposed on a person, or description of person, specified in the regulation
 
 ## Annotations
 
-[^key-9594be526c5e9671480ff58a891162d3]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2017/2/section/6) in force at 29.9.2020 for specified purposes by [S.I. 2020/1048](https://www.legislation.gov.uk/wsi/2020/1048), [art. 2(1)(a)](https://www.legislation.gov.uk/wsi/2020/1048/article/2/1/a)
+[^c-9594be526c5e9671480ff58a891162d3]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2017/2/section/6) in force at 29.9.2020 for specified purposes by [S.I. 2020/1048](https://www.legislation.gov.uk/wsi/2020/1048), [art. 2(1)(a)](https://www.legislation.gov.uk/wsi/2020/1048/article/2/1/a)
 
-[^key-c832f5dab6a5a6b87218efe0a395b264]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2017/2/section/6) in force at 1.3.2021 in so far as not already in force by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
+[^c-c832f5dab6a5a6b87218efe0a395b264]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2017/2/section/6) in force at 1.3.2021 in so far as not already in force by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — Sub-contractors in the construction industry[^key-f2ab282dbfc3fef9430776de7c5c7d78]
+## SCHEDULE 8 — Sub-contractors in the construction industry[^c-f2ab282dbfc3fef9430776de7c5c7d78]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ Section 57.
 
 ## Annotations
 
-[^key-f2ab282dbfc3fef9430776de7c5c7d78]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/ukpga/1998/36/schedule/8) repealed (with effect in accordance with s. 77 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/7)
+[^c-f2ab282dbfc3fef9430776de7c5c7d78]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/ukpga/1998/36/schedule/8) repealed (with effect in accordance with s. 77 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/7)

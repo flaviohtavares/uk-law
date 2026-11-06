@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 88ZA. Alternative means of notifying changes of circumstances[^key-272f41916119d23ae5f57a70aa42d2f1]
+## 88ZA. Alternative means of notifying changes of circumstances[^c-272f41916119d23ae5f57a70aa42d2f1]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-272f41916119d23ae5f57a70aa42d2f1]: Textual amendment: Reg. 88ZA inserted (5.4.2010) by [The Social Security (Notification of Changes of Circumstances) Regulations 2010 (S.I. 2010/444)](https://www.legislation.gov.uk/uksi/2010/444), [regs. 1](https://www.legislation.gov.uk/uksi/2010/444/regulation/1), [5](https://www.legislation.gov.uk/uksi/2010/444/regulation/5)
+[^c-272f41916119d23ae5f57a70aa42d2f1]: Textual amendment: Reg. 88ZA inserted (5.4.2010) by [The Social Security (Notification of Changes of Circumstances) Regulations 2010 (S.I. 2010/444)](https://www.legislation.gov.uk/uksi/2010/444), [regs. 1](https://www.legislation.gov.uk/uksi/2010/444/regulation/1), [5](https://www.legislation.gov.uk/uksi/2010/444/regulation/5)

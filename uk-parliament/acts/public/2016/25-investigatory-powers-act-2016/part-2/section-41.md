@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Implementation of warrants[^key-a548f095119a62a5dbe5a4bceed8b0e9]
+## 41. Implementation of warrants[^c-a548f095119a62a5dbe5a4bceed8b0e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a548f095119a62a5dbe5a4bceed8b0e9]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2016/25/section/41) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(m)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/m)
+[^c-a548f095119a62a5dbe5a4bceed8b0e9]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2016/25/section/41) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(m)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/m)

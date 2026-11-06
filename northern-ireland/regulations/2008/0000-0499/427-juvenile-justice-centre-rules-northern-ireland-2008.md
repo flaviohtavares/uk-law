@@ -43,11 +43,11 @@ The Secretary of State makes the following Rules in exercise of the powers confe
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement[^key-0476a92b413af1aac15c3566462dbb1e]
+### 1. Citation and commencement[^c-0476a92b413af1aac15c3566462dbb1e]
 
 These rules may be cited as the Juvenile Justice Centre Rules (Northern Ireland) 2008 and shall come into operation on 12th November 2008.
 
-### 2. Interpretation[^key-33b1edccc9d98ebd6a32305aeae6cd09]
+### 2. Interpretation[^c-33b1edccc9d98ebd6a32305aeae6cd09]
 
 In these rules the following expressions have the meanings hereby assigned to them:—
 
@@ -69,11 +69,11 @@ In these rules the following expressions have the meanings hereby assigned to th
 - “single separation” means a child being locked in a room on his own, other than in his own bedroom at normal bedtime;
 - “staff” means staff employed in a centre.
 
-### 3. Revocation[^key-ca4253c6b918fd3454cddfb5c28ff213]
+### 3. Revocation[^c-ca4253c6b918fd3454cddfb5c28ff213]
 
 The Juvenile Justice Centre Rules (Northern Ireland) 1999[^f00003] are revoked.
 
-### 4. Statement of aims[^key-a7db8c66d8f3db18d44a7afc3b15325c]
+### 4. Statement of aims[^c-a7db8c66d8f3db18d44a7afc3b15325c]
 
 (1) The aims of a centre are to:—
 
@@ -99,20 +99,20 @@ The Juvenile Justice Centre Rules (Northern Ireland) 1999[^f00003] are revoked.
 
 (6) A statement of the aims in this rule and how they are to be achieved shall be prepared and displayed in a centre and shall be made available on request.
 
-### 5. Application of rules during an emergency[^key-9b43ede9e65ce63e263636c9ca4d6ddb]
+### 5. Application of rules during an emergency[^c-9b43ede9e65ce63e263636c9ca4d6ddb]
 
 Where there is an emergency affecting the safe and secure operation of a centre the Secretary of State may direct that these rules shall only have effect to the extent consistent with action necessary to deal with that emergency.
 
 ## PART 2 — MANAGEMENT
 
-### 6. Role of a director[^key-7c36d87170d5fabeb5b0e01e11da7efa]
+### 6. Role of a director[^c-7c36d87170d5fabeb5b0e01e11da7efa]
 
 A director discharges his duties and responsibilities under the Order by:—
 
 - (a) the implementation of these rules through the application of a range of policies and procedures which set out how the centre will be run; and
 - (b) the efficient running of the centre consistent with the safety and well-being of children, staff and other people visiting or working there.
 
-### 7. Policies and procedures[^key-29ddfb2850a84f0fe5cb253a1b43857a]
+### 7. Policies and procedures[^c-29ddfb2850a84f0fe5cb253a1b43857a]
 
 A director shall establish, implement and keep under review a set of policies and procedures which comply with current statutory provisions and is published and which shall include all of the following:—
 
@@ -126,21 +126,21 @@ A director shall establish, implement and keep under review a set of policies an
 - (h) involvement with families; and
 - (i) partnership working with agencies.
 
-### 8. Authority for detention[^key-0c9ddb868fd0832e3eeaa7a7a43d8304]
+### 8. Authority for detention[^c-0c9ddb868fd0832e3eeaa7a7a43d8304]
 
 (1) A child shall not be received into a centre without a valid order of committal, warrant or certificate authorising his detention in a centre.
 
 (2) The details of such order, warrant or certificate and any subsequent direction of a court shall be immediately recorded.
 
-### 9. Additional needs[^key-7a1b48d1914f7bf381ecf04de8da49c2]
+### 9. Additional needs[^c-7a1b48d1914f7bf381ecf04de8da49c2]
 
 A director shall ensure that procedures are in place to enable a child with additional needs to be given such individual support, aids and equipment as he may require as a result of any disability, health need, learning or language difficulty.
 
-### 10. Consultation and participation[^key-86e17d89152e769587b32d04bf8205aa]
+### 10. Consultation and participation[^c-86e17d89152e769587b32d04bf8205aa]
 
 A director shall ensure that the children are encouraged and enabled to express their views on matters that concern them and the services they receive and that due weight is given to such views in accordance with the age and maturity of the child.
 
-### 11. Information to children[^key-2f26e4fca8d17e6ec3851ccdb7fb7347]
+### 11. Information to children[^c-2f26e4fca8d17e6ec3851ccdb7fb7347]
 
 (1) A centre shall provide timely and relevant information regarding the operation of the centre to children received into the centre.
 
@@ -158,11 +158,11 @@ A director shall ensure that the children are encouraged and enabled to express 
 
 (6) Where a child is not fluent in English all reasonable steps shall be taken to provide the services of an interpreter, in particular during medical examinations and disciplinary proceedings.
 
-### 12. Information to parents[^key-22e44857d4e05094b6fe162bce2bdda2]
+### 12. Information to parents[^c-22e44857d4e05094b6fe162bce2bdda2]
 
 The director shall provide timely and relevant information to the parent of a child received into custody throughout the child’s stay and on the child’s transfer or release.
 
-### 13. Inspections[^key-d5840ded85929050d6cb64fef086cb18]
+### 13. Inspections[^c-d5840ded85929050d6cb64fef086cb18]
 
 (1) The director shall facilitate an inspection of a centre by a person authorised by the Secretary of State under Article 55 of the Order.
 
@@ -174,7 +174,7 @@ The director shall provide timely and relevant information to the parent of a ch
 
 (3) A person who has been authorised to conduct an inspection under this rule shall report in writing to the Secretary of State and the report shall be published in such manner as the Secretary of State may direct.
 
-### 14. Monitoring visits[^key-bd0351b6eadd448e161f1c0b08afdb9b]
+### 14. Monitoring visits[^c-bd0351b6eadd448e161f1c0b08afdb9b]
 
 A centre shall be visited at least once a month by a person approved by the Secretary of State. The person carrying out the visit may:—
 
@@ -185,7 +185,7 @@ A centre shall be visited at least once a month by a person approved by the Secr
 
 ## PART 3 — CARE AND PROTECTION OF CHILDREN
 
-### 15. Initial interview and assessments[^key-bf4fb549212e402c7a4a1c6395dc969b]
+### 15. Initial interview and assessments[^c-bf4fb549212e402c7a4a1c6395dc969b]
 
 (1) The director shall interview a child at the time of reception and in any case within 24 hours and shall ensure that any relevant matters or concerns are noted and dealt with appropriately.
 
@@ -208,7 +208,7 @@ A centre shall be visited at least once a month by a person approved by the Secr
 
 (6) The director shall nominate a member of staff to prepare, supervise and review the care plan of each child and to carry out the consultation referred to in paragraph (5).
 
-### 16. Food[^key-67a94ed593fe0ddf95d0fa765b996054]
+### 16. Food[^c-67a94ed593fe0ddf95d0fa765b996054]
 
 (1) The director shall ensure that children have access to fresh drinking water at all times and are provided with food which:—
 
@@ -220,7 +220,7 @@ A centre shall be visited at least once a month by a person approved by the Secr
 
 (2) The director shall ensure that the condition, quality and quantity of food and the conditions under which it is prepared and cooked are inspected frequently and that reported shortcomings are rectified as soon as possible.
 
-### 17. Clothing[^key-6228f7f291ce15d4d1358d3eb9d19531]
+### 17. Clothing[^c-6228f7f291ce15d4d1358d3eb9d19531]
 
 (1) The director shall ensure that children are adequately and appropriately clothed.
 
@@ -238,7 +238,7 @@ A centre shall be visited at least once a month by a person approved by the Secr
 
 (6) All clothing shall be kept in a clean and proper condition and arrangements shall be made for items to be changed as often as necessary for the maintenance of good health and hygiene.
 
-### 18. Personal property[^key-061dc38cfa99e8bafb9a8979753c4193]
+### 18. Personal property[^c-061dc38cfa99e8bafb9a8979753c4193]
 
 (1) A child shall be permitted to retain personal property in accordance with the directions of the director.
 
@@ -248,17 +248,17 @@ A centre shall be visited at least once a month by a person approved by the Secr
 
 (4) All lawful personal property and money held by a centre shall be returned to the child or his parent on release.
 
-### 19. Privileges[^key-e03ea0befd1fe0f8ab206e864e1f3a10]
+### 19. Privileges[^c-e03ea0befd1fe0f8ab206e864e1f3a10]
 
 A centre shall have in place a system of privileges and incentives appropriate to the child’s age, and assessed risk.
 
-### 20. Personal hygiene[^key-cc7467afcf172dfcf63d3ce73e472838]
+### 20. Personal hygiene[^c-cc7467afcf172dfcf63d3ce73e472838]
 
 (1) Each child shall be provided with an appropriate range of toiletries necessary for his health and cleanliness, which shall be replaced as necessary.
 
 (2) Facilities and opportunities shall be provided to enable and encourage children to maintain an acceptable standard of personal hygiene.
 
-### 21. Exercise and recreation[^key-d604ad9050dd6657a5f9e2c3476e2dfa]
+### 21. Exercise and recreation[^c-d604ad9050dd6657a5f9e2c3476e2dfa]
 
 (1) The director shall ensure that recreational activities are provided which include, subject to weather conditions and assessed risk, access to open air and that each child is encouraged to participate commensurate with his age, physical abilities and reasonable preferences.
 
@@ -266,7 +266,7 @@ A centre shall have in place a system of privileges and incentives appropriate t
 
 (3) Where such facilities cannot be provided within a centre, the director may, with the approval of the Secretary of State, grant permission for a child to attend facilities outside the centre.
 
-### 22. Religious observance[^key-ab8ed62f1694eb710bf0c911fbedbaba]
+### 22. Religious observance[^c-ab8ed62f1694eb710bf0c911fbedbaba]
 
 (1) A child shall be supported in his right to observe the requirements of his religious and spiritual life.
 
@@ -276,7 +276,7 @@ A centre shall have in place a system of privileges and incentives appropriate t
 
 (4) A chaplain shall have reasonable access to make pastoral visits to a child at the child’s request.
 
-### 23. Supervision[^key-070523efe92f89ea50159cf4dc75be0e]
+### 23. Supervision[^c-070523efe92f89ea50159cf4dc75be0e]
 
 (1) A child may be supervised by members of staff of either gender and to the extent and in the manner necessary to ensure the safety and well-being of children, staff and other people visiting or working there.
 
@@ -284,17 +284,17 @@ A centre shall have in place a system of privileges and incentives appropriate t
 
 (3) A child may be placed in any location in a centre at the discretion of the director taking into account the assessed risk or any other factor which he may consider relevant.
 
-### 24. Child protection[^key-26c1a5aea34fba77f1acb0157604fe83]
+### 24. Child protection[^c-26c1a5aea34fba77f1acb0157604fe83]
 
 (1) A centre shall have in place a policy on child protection approved by the Secretary of State.
 
 (2) The director shall also have in place a policy on public interest disclosure approved by the Secretary of State.
 
-### 25. Untried children[^key-083b9b5f6d41339ec96edf544a631ae9]
+### 25. Untried children[^c-083b9b5f6d41339ec96edf544a631ae9]
 
 The director shall, subject to any directions of the Secretary of State, make such provision as is necessary and appropriate and in the best interests of a child in order to recognise his untried status.
 
-### 26. Girls in custody[^key-c1f2b34bf1b342f235611daf59630a97]
+### 26. Girls in custody[^c-c1f2b34bf1b342f235611daf59630a97]
 
 (1) The director shall have in place a policy for the care of girls in custody, subject to any directions by the Secretary of State, which makes such provision or arrangements as are considered necessary and appropriate to meet the needs and reasonable preferences of girls, including the provision of separate accommodation within a centre.
 
@@ -302,7 +302,7 @@ The director shall, subject to any directions of the Secretary of State, make su
 
 ## PART 4 — HEALTHCARE
 
-### 27. Health[^key-d25649c4ddc664a33e0d04e1b006cecf]
+### 27. Health[^c-d25649c4ddc664a33e0d04e1b006cecf]
 
 (1) Each child shall receive appropriate medical care, both preventative and remedial, including dental, ophthalmological and mental healthcare, as well as pharmaceutical products and special diets as medically indicated.
 
@@ -310,7 +310,7 @@ The director shall, subject to any directions of the Secretary of State, make su
 
 (3) Guidance, support and advice on healthcare and personal care issues shall be provided for each child appropriate to his needs and wishes including help to counteract any addiction or dependency.
 
-### 28. Duties of healthcare officer[^key-b845420af31d698f2fc938cdf56e3610]
+### 28. Duties of healthcare officer[^c-b845420af31d698f2fc938cdf56e3610]
 
 (1) A healthcare officer shall be informed about a child who is ill, who complains of illness or who demonstrates symptoms of physical or mental difficulties and shall assess the child as soon as practicable and shall make arrangements for appropriate care to be provided.
 
@@ -324,7 +324,7 @@ The director shall, subject to any directions of the Secretary of State, make su
 
 (6) A healthcare officer may consult with another member of the medical profession or a member of an associated profession at his discretion.
 
-### 29. Medical examination[^key-a5349a61d013afe07cdbaf7e58fe2674]
+### 29. Medical examination[^c-a5349a61d013afe07cdbaf7e58fe2674]
 
 (1) A healthcare officer shall separately examine each child upon reception, or if this is not possible, within 24 hours, and shall record the result.
 
@@ -332,7 +332,7 @@ The director shall, subject to any directions of the Secretary of State, make su
 
 (3) If a child is found to have any infectious disease or to be in any condition which may threaten the health and well-being of himself or others, a healthcare officer shall take the necessary action for the child to receive appropriate treatment and report the matter to the director.
 
-### 30. Mental health and other conditions[^key-a35e87d8d587a21d2751e79791e6ff77]
+### 30. Mental health and other conditions[^c-a35e87d8d587a21d2751e79791e6ff77]
 
 (1) A healthcare professional with an appropriate mental health qualification shall have input into the initial and ongoing assessment of children in the centre.
 
@@ -344,7 +344,7 @@ The director shall, subject to any directions of the Secretary of State, make su
 
 (5) A healthcare officer shall inform the director immediately if he suspects that a child has suicidal intentions, and the director shall take appropriate measures to safeguard the child and to inform the parent of the child.
 
-### 31. Notification of incidents, illness or death[^key-37c6e52f6db51a99aef6e7277d98e114]
+### 31. Notification of incidents, illness or death[^c-37c6e52f6db51a99aef6e7277d98e114]
 
 (1) If a child dies, becomes seriously ill, sustains a severe injury or is removed to hospital the director shall take all reasonable steps to inform the child’s parent immediately and also any person whom the child may reasonably have asked to be informed.
 
@@ -356,7 +356,7 @@ The director shall, subject to any directions of the Secretary of State, make su
 
 (5) The director may grant permission for a child who has been detained in a centre under a juvenile justice centre order to attend the funeral of an immediate family member or to visit an immediate family member who is seriously ill or seriously injured.
 
-### 32. Pregnancy, confinement and babies[^key-ddcf4fdbb2d20dea77c79e1dd1a8765a]
+### 32. Pregnancy, confinement and babies[^c-ddcf4fdbb2d20dea77c79e1dd1a8765a]
 
 (1) Where a girl is pregnant on admission arrangements shall be made to provide her with pre and post-natal care and treatment.
 
@@ -368,11 +368,11 @@ The director shall, subject to any directions of the Secretary of State, make su
 
 ## PART 5 — COMMUNICATIONS
 
-### 33. Communications[^key-8de3c3abe1e72b239d2ef198020c75b0]
+### 33. Communications[^c-8de3c3abe1e72b239d2ef198020c75b0]
 
 Subject to the restrictions imposed by rule 38, a child shall be enabled to have contact with the wider world as provided in these rules and, in particular, to have such contact as will assist him in his preparation for his reintegration to the community.
 
-### 34. Family and other relationships[^key-88f969b5695e6335abb09a91147ba935]
+### 34. Family and other relationships[^c-88f969b5695e6335abb09a91147ba935]
 
 (1) Special attention shall be paid to the maintenance of the relationship between a child and his family.
 
@@ -384,7 +384,7 @@ Subject to the restrictions imposed by rule 38, a child shall be enabled to have
 
 (5) In any case where for any reason contact is not maintained between a child and his family the director may arrange for an independent person to visit and befriend and make representation on behalf of the child as provided for in rule 42(3).
 
-### 35. Letters and other communications[^key-12e20519ad5347a35cd596ef6c4a184d]
+### 35. Letters and other communications[^c-12e20519ad5347a35cd596ef6c4a184d]
 
 (1) A child shall, subject to such conditions as the director may reasonably impose, be entitled to send and receive letters or other communications, the cost of which shall be met by the centre.
 
@@ -392,11 +392,11 @@ Subject to the restrictions imposed by rule 38, a child shall be enabled to have
 
 (3) Except as provided by these rules every letter or communication to a child shall be opened by the child in the presence of a member of staff.
 
-### 36. Telephone calls[^key-8de5de90ac87d3df2efc05434425749e]
+### 36. Telephone calls[^c-8de5de90ac87d3df2efc05434425749e]
 
 The director shall have in place a policy for the use of telephones which shall permit a child to make one paid telephone call daily and other calls under such conditions as the director may reasonably impose.
 
-### 37. Visits[^key-ef22bfe145181b3456907d3f4d74ee1f]
+### 37. Visits[^c-ef22bfe145181b3456907d3f4d74ee1f]
 
 (1) There shall be established at a centre arrangements for children to receive visits.
 
@@ -408,11 +408,11 @@ The director shall have in place a policy for the use of telephones which shall 
 
 (3) Subject to the provisions of these rules, the director may give such directions as he thinks fit for the supervision of visits to children, either generally or in a particular case.
 
-### 38. Restrictions on communications[^key-9fd23a6ef4793c9dd9494787a1687365]
+### 38. Restrictions on communications[^c-9fd23a6ef4793c9dd9494787a1687365]
 
 Subject to rule 40, if the director has reason to believe that written or verbal communication is not consistent with a child’s best interests or may put the good order of the centre at risk, he may delay, examine, interrupt or prevent communication to or from a child and shall, other than in exceptional circumstances, communicate his reasons to the child.
 
-### 39. Legal advisers[^key-1c2e559160f9129629dc7de9c758e1cb]
+### 39. Legal advisers[^c-1c2e559160f9129629dc7de9c758e1cb]
 
 (1) The legal adviser to a child who is a party to any legal proceedings, civil or criminal, shall be afforded reasonable facilities for consultation in connection with those proceedings.
 
@@ -420,7 +420,7 @@ Subject to rule 40, if the director has reason to believe that written or verbal
 
 (3) A child’s legal adviser may, with the director’s permission, consult with the child in connection with any other legal business.
 
-### 40. Correspondence in connection with legal matters[^key-716bfddac3076567d3a489cfe0a59aff]
+### 40. Correspondence in connection with legal matters[^c-716bfddac3076567d3a489cfe0a59aff]
 
 (1) A child who is party to any legal proceedings may correspond with his legal adviser or any court, national or international, in connection with those proceedings.
 
@@ -434,11 +434,11 @@ Subject to rule 40, if the director has reason to believe that written or verbal
 
 (6) Subject to any directions given in the particular case by the Secretary of State, a registered medical practitioner selected by or on behalf of a child to whom paragraph (1) applies shall be afforded reasonable facilities for examining him in connection with the legal proceedings and may do so out of hearing but in sight of an appropriate member of staff.
 
-### 41. Police interviews[^key-cb97213c6a606ea2cc7b30be1ca8ff90]
+### 41. Police interviews[^c-cb97213c6a606ea2cc7b30be1ca8ff90]
 
 A police officer may, on production of an order issued by or on behalf of the Chief Constable, interview any child and an interview under this rule shall take place in accordance with statutory provisions in force at the time and such other conditions as the director may impose.
 
-### 42. Complaints and representation[^key-b904d9bca7f61f0c707fa53f440a1a24]
+### 42. Complaints and representation[^c-b904d9bca7f61f0c707fa53f440a1a24]
 
 (1) A centre shall have in place a policy for complaints approved by the Secretary of State.
 
@@ -448,7 +448,7 @@ A police officer may, on production of an order issued by or on behalf of the Ch
 
 ## PART 6 — LEARNING AND DEVELOPMENT
 
-### 43. Education, vocational training, programmes and activities[^key-9f2a8a1176018a5a4b93a241875376cd]
+### 43. Education, vocational training, programmes and activities[^c-9f2a8a1176018a5a4b93a241875376cd]
 
 (1) Arrangements shall be made at a centre for the education of each child according to his age and his needs.
 
@@ -462,11 +462,11 @@ A police officer may, on production of an order issued by or on behalf of the Ch
 
 (6) The director, with the approval of the Secretary of State, may grant permission for a child who has been detained in a centre under a juvenile justice centre order to attend education and vocational training and employment or other facilities outside the centre in preparation for his reintegration into the community on release.
 
-### 44. Resource centre[^key-6ee6941cf3c45a755079cf9b0e463028]
+### 44. Resource centre[^c-6ee6941cf3c45a755079cf9b0e463028]
 
 A resource centre shall be provided in a centre and shall contain a range of instructional and recreational books, media and other items suitable for the learning and development of children who shall be encouraged and enabled to make full use of the resource centre, under such conditions as the director may determine.
 
-### 45. Reintegration into the community[^key-159c20062232bfec0852078dee1ed210]
+### 45. Reintegration into the community[^c-159c20062232bfec0852078dee1ed210]
 
 (1) From the beginning of a child’s period of detention in a centre consideration shall be given, in consultation as appropriate with the child’s parent, other statutory or voluntary agencies and in particular, those responsible for his period of supervision under a juvenile justice centre order, to the child’s future and to the help to be given to him in preparation for his reintegration into the community.
 
@@ -478,11 +478,11 @@ A resource centre shall be provided in a centre and shall contain a range of ins
 
 ## PART 7 — SECURITY AND SAFETY
 
-### 46. Maintenance of good order and discipline[^key-cb977513cd04db16418fd084dccc9ded]
+### 46. Maintenance of good order and discipline[^c-cb977513cd04db16418fd084dccc9ded]
 
 Good order and discipline shall be maintained in a centre, but with no more restriction than is required in the interests of safety, security and well-ordered community life.
 
-### 47. Search[^key-b4277d68c1bb71134a5d6ebe6e615d24]
+### 47. Search[^c-b4277d68c1bb71134a5d6ebe6e615d24]
 
 (1) Each child shall be searched on his reception into a centre and subsequently as the director considers necessary in accordance with guidelines approved by the Secretary of State.
 
@@ -501,7 +501,7 @@ Good order and discipline shall be maintained in a centre, but with no more rest
 
 (7) The child shall be informed of the content of the record kept under paragraph (6) and encouraged to contribute to it as far as practicable.
 
-### 48. Record and photograph[^key-13775c47775f00ed18dedd8706ad4cb3]
+### 48. Record and photograph[^c-13775c47775f00ed18dedd8706ad4cb3]
 
 (1) A personal record of each child shall be prepared, maintained and preserved in such manner and for such period as is approved by the Secretary of State, but no part of the record shall be disclosed without legitimate reason.
 
@@ -509,7 +509,7 @@ Good order and discipline shall be maintained in a centre, but with no more rest
 
 (3) Such photographs shall be taken in a way which does not indicate that they have been taken in a centre.
 
-### 49. Observation of child by means of an overt closed circuit television system[^key-443e91abfc42c6b7a80dffeb74348345]
+### 49. Observation of child by means of an overt closed circuit television system[^c-443e91abfc42c6b7a80dffeb74348345]
 
 (1) The director may make arrangements for any child to be placed under constant observation by means of an overt closed circuit television system while the child is in a bedroom or other place in the centre if he considers that:—
 
@@ -518,11 +518,11 @@ Good order and discipline shall be maintained in a centre, but with no more rest
   - (ii) securing or maintaining security or good order and discipline in the centre; and
 - (b) such supervision is proportionate to what is sought to be achieved.
 
-### 50. Managing behaviour[^key-e12dd6ca781c2ff5e126025259810511]
+### 50. Managing behaviour[^c-e12dd6ca781c2ff5e126025259810511]
 
 The director shall have in place a policy for the management of difficult behaviour and maintenance of discipline.
 
-### 51. Physical restraint[^key-948248d7886f253fbb10782046267131]
+### 51. Physical restraint[^c-948248d7886f253fbb10782046267131]
 
 (1) Physical restraint shall only be used as a last resort in order to prevent:—
 
@@ -546,7 +546,7 @@ and then only when all other reasonable efforts to defuse and de-escalate the si
 
 (7) The director shall regularly review the use of physical restraint in a centre to ensure that its use is appropriate and proportionate and in accordance with these rules.
 
-### 52. Single separation[^key-73e7aa8cfe4dc01f41ab163132319d3f]
+### 52. Single separation[^c-73e7aa8cfe4dc01f41ab163132319d3f]
 
 (1) Single separation shall be used only where it is necessary in the best interests of a child or as part of an overall strategy to prevent or defuse any of the incidents specified in any of paragraphs (a) to (e) of Article 51(1).
 
@@ -560,7 +560,7 @@ and then only when all other reasonable efforts to defuse and de-escalate the si
 
 (6) Nothing in this rule shall restrict a child’s right to receive visits or to make a complaint or to consult with his legal adviser, chaplain or doctor.
 
-### 53. Prohibited articles and substances[^key-7b9ef2b9655021cdda3f4b9cf82fbc4d]
+### 53. Prohibited articles and substances[^c-7b9ef2b9655021cdda3f4b9cf82fbc4d]
 
 (1) Except with the permission of the director no child shall have in his possession or conceal or deposit anywhere within the centre any article or substance which has been prohibited by the director.
 
@@ -577,7 +577,7 @@ any prohibited article or substance.
 
 (5) Any prohibited article or substance may be confiscated by the director and shall be dealt with as he thinks fit.
 
-### 54. Alcohol, tobacco and drugs[^key-46850e44e124cb7d6fe86742fb4925b6]
+### 54. Alcohol, tobacco and drugs[^c-46850e44e124cb7d6fe86742fb4925b6]
 
 (1) Intoxicating liquor shall not be permitted in any part of a centre.
 
@@ -587,7 +587,7 @@ any prohibited article or substance.
 
 (4) Smoking shall not be permitted in any part of a centre.
 
-### 55. Control of persons and vehicles[^key-80bd9c51b9fcd1017b2c5efe54515959]
+### 55. Control of persons and vehicles[^c-80bd9c51b9fcd1017b2c5efe54515959]
 
 (1) Subject to rules 13 and 14:—
 
@@ -599,7 +599,7 @@ any prohibited article or substance.
 
 ## PART 8 — PREMISES
 
-### 56. Accommodation[^key-53930d6d7be1b2b8d112f792cdec9059]
+### 56. Accommodation[^c-53930d6d7be1b2b8d112f792cdec9059]
 
 (1) Each child in a centre shall be provided with a separate bedroom.
 
@@ -611,11 +611,11 @@ any prohibited article or substance.
 
 (5) The director shall have in place a policy for the searching of areas of the centre to maintain good order and discipline.
 
-### 57. Cleanliness of a centre[^key-35895f24665846202167ba4f9e093fea]
+### 57. Cleanliness of a centre[^c-35895f24665846202167ba4f9e093fea]
 
 The director of a centre shall ensure the cleanliness and hygiene of all parts of the centre in which children, members of staff and any others live, work or otherwise have reason to be.
 
-### 58. Health and safety[^key-30e1acf03f7a57dc3677cf68274370ab]
+### 58. Health and safety[^c-30e1acf03f7a57dc3677cf68274370ab]
 
 (1) The director shall ensure that all parts of a centre are kept in good structural repair externally and internally and comply with all relevant statutory provisions, including those relating to fire prevention, health and safety and the Disability Discrimination Act 1995.
 
@@ -623,11 +623,11 @@ The director of a centre shall ensure the cleanliness and hygiene of all parts o
 
 ## PART 9 — MANAGEMENT AND STAFFING
 
-### 59. Order and discipline[^key-c172364d8a22db1fdd59e374c82f3f11]
+### 59. Order and discipline[^c-c172364d8a22db1fdd59e374c82f3f11]
 
 The director and each member of staff in a centre shall encourage good order and discipline in a centre through positive influence and example and promoting mutual respect.
 
-### 60. General duties of members of staff[^key-e19f18e3817f7aee4ee4669ddf449aee]
+### 60. General duties of members of staff[^c-e19f18e3817f7aee4ee4669ddf449aee]
 
 (1) It shall be the duty of every member of staff to conform to these rules and the policies and procedures of a centre, to assist and support the director in their maintenance and to comply with and act upon his lawful direction.
 
@@ -645,17 +645,17 @@ The director and each member of staff in a centre shall encourage good order and
 
 (8) A member of staff shall not contact a person whom he knows to have been held in a centre or a relative or friend of such a person except as permitted in policy promulgated by the director.
 
-### 61. Gratuities[^key-a1664fba3c81e8f5b7b36f8b71fb396d]
+### 61. Gratuities[^c-a1664fba3c81e8f5b7b36f8b71fb396d]
 
 (1) A member of staff shall not receive any unauthorised fee, gratuity or other consideration in connection with his office.
 
 (2) If a member of staff is offered a fee, gratuity or any other consideration by any person he shall inform the director.
 
-### 62. Contracts[^key-f3441def30d14e5115a965dd3f5f32a7]
+### 62. Contracts[^c-f3441def30d14e5115a965dd3f5f32a7]
 
 Except with the permission of the Secretary of State, a member of staff shall not directly or indirectly have any interest in any contract or tender connected with the centre nor receive a fee, gratuity or other consideration from any contractor, or from any person tendering, or any other person whatever in connection with any such contract or tender.
 
-### 63. Communications with the media[^key-43be64822cbdd5f488d3fe819d590caf]
+### 63. Communications with the media[^c-43be64822cbdd5f488d3fe819d590caf]
 
 (1) Except with the permission of the Secretary of State, a member of staff shall not directly or indirectly communicate to a representative of the press, television or radio or to any other person matters which he has come to know in the course of his duties.
 
@@ -663,7 +663,7 @@ Except with the permission of the Secretary of State, a member of staff shall no
 
 ## PART 10 — ADDITIONAL RULES RELATING TO THE DIRECTOR
 
-### 64. Status of the director[^key-3a12ad5e7917a0b2ce245a60485b0509]
+### 64. Status of the director[^c-3a12ad5e7917a0b2ce245a60485b0509]
 
 (1) The director shall be in charge of a centre.
 
@@ -675,15 +675,15 @@ Except with the permission of the Secretary of State, a member of staff shall no
 
 (5) The director shall ensure the safe custody and proper disposal or use of all monies, equipment and materials in a centre and shall keep whatever records and accounts are required, subject to any directions of the Secretary of State.
 
-### 65. Delegation by the director[^key-ecb335fc5e4d75054fceec5dbd89f3ad]
+### 65. Delegation by the director[^c-ecb335fc5e4d75054fceec5dbd89f3ad]
 
 Subject to rule 23 and any directions of the Secretary of State, the director may delegate any of his powers and duties under these rules to another member of staff.
 
-### 66. Absence of the director from a centre[^key-bc60028fc5f24590a4fff63ab71fbffc]
+### 66. Absence of the director from a centre[^c-bc60028fc5f24590a4fff63ab71fbffc]
 
 In the absence of the director, the centre shall be in the charge of a designated member of staff who shall be competent to perform and shall perform any duties required of the director.
 
-### 67. Powers and duties relating to members of staff[^key-941ff565ab1c9c6279c3c228e012fe14]
+### 67. Powers and duties relating to members of staff[^c-941ff565ab1c9c6279c3c228e012fe14]
 
 (1) The director shall superintend the conduct of all members of staff under his control and shall deal with misconduct and breach of these rules subject to any directions of the Secretary of State.
 
@@ -697,19 +697,19 @@ In the absence of the director, the centre shall be in the charge of a designate
 
 (6) The director shall ensure that members of staff possess the skills and knowledge required for their roles and responsibilities and receive regular supervision and training.
 
-### 68. Duties in relation to the medical care of children[^key-32d0b980ba0e816e1119990be77f45e0]
+### 68. Duties in relation to the medical care of children[^c-32d0b980ba0e816e1119990be77f45e0]
 
 (1) Without prejudice to his other duties under these rules the director shall put in place and promulgate policies for the management of risk, prevention of suicide and self-harm and shall, without delay, draw the attention of a healthcare officer to any child whose physical or mental health appears to require attention.
 
 (2) The director shall satisfy himself that all members of staff who may be in contact with children are aware of the proper procedures for seeking to identify and for dealing with a child who, for whatever reason, may be regarded as a suicide risk, and shall satisfy himself that these procedures operate effectively.
 
-### 69. Other duties of the director[^key-df5d19a4b718bb66dadc94ee3766ec2d]
+### 69. Other duties of the director[^c-df5d19a4b718bb66dadc94ee3766ec2d]
 
 The director shall provide such information as the Secretary of State may direct and shall publish annually information which shall include the number of single separations, complaints, child protection referrals, incidents of suicide or self-harm, physical restraints, escapes, assaults and other incidents as directed by the Secretary of State.
 
 ## PART 11 — BREACH OF THE RULES
 
-### 70. Breach of the rules[^key-065a4c89aa20469d71dffa9bc7b5d614]
+### 70. Breach of the rules[^c-065a4c89aa20469d71dffa9bc7b5d614]
 
 Where staff fail to observe these rules they may be subject to disciplinary proceedings.
 
@@ -729,148 +729,148 @@ These Rules revoke the Juvenile Justice Centre Rules (Northern Ireland) 1999 and
 
 [^f00001]: Footnote: S.I. [1998/1504 (N.I. 9)](https://www.legislation.gov.uk/nisi/1998/1504)
 
-[^key-0476a92b413af1aac15c3566462dbb1e]: Commencement: Rule 1 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-0476a92b413af1aac15c3566462dbb1e]: Commencement: Rule 1 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-33b1edccc9d98ebd6a32305aeae6cd09]: Commencement: Rule 2 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-33b1edccc9d98ebd6a32305aeae6cd09]: Commencement: Rule 2 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
 [^f00002]: Footnote: [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32)
 
-[^key-ca4253c6b918fd3454cddfb5c28ff213]: Commencement: Rule 3 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-ca4253c6b918fd3454cddfb5c28ff213]: Commencement: Rule 3 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
 [^f00003]: Footnote: [S.R. 1999 No. 28](https://www.legislation.gov.uk/nisr/1999/28)
 
-[^key-a7db8c66d8f3db18d44a7afc3b15325c]: Commencement: Rule 4 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-a7db8c66d8f3db18d44a7afc3b15325c]: Commencement: Rule 4 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-9b43ede9e65ce63e263636c9ca4d6ddb]: Commencement: Rule 5 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-9b43ede9e65ce63e263636c9ca4d6ddb]: Commencement: Rule 5 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-7c36d87170d5fabeb5b0e01e11da7efa]: Commencement: Rule 6 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-7c36d87170d5fabeb5b0e01e11da7efa]: Commencement: Rule 6 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-29ddfb2850a84f0fe5cb253a1b43857a]: Commencement: Rule 7 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-29ddfb2850a84f0fe5cb253a1b43857a]: Commencement: Rule 7 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-0c9ddb868fd0832e3eeaa7a7a43d8304]: Commencement: Rule 8 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-0c9ddb868fd0832e3eeaa7a7a43d8304]: Commencement: Rule 8 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-7a1b48d1914f7bf381ecf04de8da49c2]: Commencement: Rule 9 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-7a1b48d1914f7bf381ecf04de8da49c2]: Commencement: Rule 9 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-86e17d89152e769587b32d04bf8205aa]: Commencement: Rule 10 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-86e17d89152e769587b32d04bf8205aa]: Commencement: Rule 10 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-2f26e4fca8d17e6ec3851ccdb7fb7347]: Commencement: Rule 11 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-2f26e4fca8d17e6ec3851ccdb7fb7347]: Commencement: Rule 11 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-22e44857d4e05094b6fe162bce2bdda2]: Commencement: Rule 12 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-22e44857d4e05094b6fe162bce2bdda2]: Commencement: Rule 12 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-d5840ded85929050d6cb64fef086cb18]: Commencement: Rule 13 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-d5840ded85929050d6cb64fef086cb18]: Commencement: Rule 13 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-bd0351b6eadd448e161f1c0b08afdb9b]: Commencement: Rule 14 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-bd0351b6eadd448e161f1c0b08afdb9b]: Commencement: Rule 14 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-bf4fb549212e402c7a4a1c6395dc969b]: Commencement: Rule 15 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-bf4fb549212e402c7a4a1c6395dc969b]: Commencement: Rule 15 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-67a94ed593fe0ddf95d0fa765b996054]: Commencement: Rule 16 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-67a94ed593fe0ddf95d0fa765b996054]: Commencement: Rule 16 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-6228f7f291ce15d4d1358d3eb9d19531]: Commencement: Rule 17 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-6228f7f291ce15d4d1358d3eb9d19531]: Commencement: Rule 17 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-061dc38cfa99e8bafb9a8979753c4193]: Commencement: Rule 18 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-061dc38cfa99e8bafb9a8979753c4193]: Commencement: Rule 18 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-e03ea0befd1fe0f8ab206e864e1f3a10]: Commencement: Rule 19 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-e03ea0befd1fe0f8ab206e864e1f3a10]: Commencement: Rule 19 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-cc7467afcf172dfcf63d3ce73e472838]: Commencement: Rule 20 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-cc7467afcf172dfcf63d3ce73e472838]: Commencement: Rule 20 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-d604ad9050dd6657a5f9e2c3476e2dfa]: Commencement: Rule 21 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-d604ad9050dd6657a5f9e2c3476e2dfa]: Commencement: Rule 21 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-ab8ed62f1694eb710bf0c911fbedbaba]: Commencement: Rule 22 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-ab8ed62f1694eb710bf0c911fbedbaba]: Commencement: Rule 22 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-070523efe92f89ea50159cf4dc75be0e]: Commencement: Rule 23 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-070523efe92f89ea50159cf4dc75be0e]: Commencement: Rule 23 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-26c1a5aea34fba77f1acb0157604fe83]: Commencement: Rule 24 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-26c1a5aea34fba77f1acb0157604fe83]: Commencement: Rule 24 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-083b9b5f6d41339ec96edf544a631ae9]: Commencement: Rule 25 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-083b9b5f6d41339ec96edf544a631ae9]: Commencement: Rule 25 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-c1f2b34bf1b342f235611daf59630a97]: Commencement: Rule 26 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-c1f2b34bf1b342f235611daf59630a97]: Commencement: Rule 26 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-d25649c4ddc664a33e0d04e1b006cecf]: Commencement: Rule 27 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-d25649c4ddc664a33e0d04e1b006cecf]: Commencement: Rule 27 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-b845420af31d698f2fc938cdf56e3610]: Commencement: Rule 28 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-b845420af31d698f2fc938cdf56e3610]: Commencement: Rule 28 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-a5349a61d013afe07cdbaf7e58fe2674]: Commencement: Rule 29 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-a5349a61d013afe07cdbaf7e58fe2674]: Commencement: Rule 29 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-a35e87d8d587a21d2751e79791e6ff77]: Commencement: Rule 30 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-a35e87d8d587a21d2751e79791e6ff77]: Commencement: Rule 30 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-37c6e52f6db51a99aef6e7277d98e114]: Commencement: Rule 31 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-37c6e52f6db51a99aef6e7277d98e114]: Commencement: Rule 31 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-ddcf4fdbb2d20dea77c79e1dd1a8765a]: Commencement: Rule 32 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-ddcf4fdbb2d20dea77c79e1dd1a8765a]: Commencement: Rule 32 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-8de3c3abe1e72b239d2ef198020c75b0]: Commencement: Rule 33 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-8de3c3abe1e72b239d2ef198020c75b0]: Commencement: Rule 33 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-88f969b5695e6335abb09a91147ba935]: Commencement: Rule 34 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-88f969b5695e6335abb09a91147ba935]: Commencement: Rule 34 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-12e20519ad5347a35cd596ef6c4a184d]: Commencement: Rule 35 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-12e20519ad5347a35cd596ef6c4a184d]: Commencement: Rule 35 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-8de5de90ac87d3df2efc05434425749e]: Commencement: Rule 36 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-8de5de90ac87d3df2efc05434425749e]: Commencement: Rule 36 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-ef22bfe145181b3456907d3f4d74ee1f]: Commencement: Rule 37 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-ef22bfe145181b3456907d3f4d74ee1f]: Commencement: Rule 37 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-9fd23a6ef4793c9dd9494787a1687365]: Commencement: Rule 38 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-9fd23a6ef4793c9dd9494787a1687365]: Commencement: Rule 38 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-1c2e559160f9129629dc7de9c758e1cb]: Commencement: Rule 39 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-1c2e559160f9129629dc7de9c758e1cb]: Commencement: Rule 39 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-716bfddac3076567d3a489cfe0a59aff]: Commencement: Rule 40 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-716bfddac3076567d3a489cfe0a59aff]: Commencement: Rule 40 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-cb97213c6a606ea2cc7b30be1ca8ff90]: Commencement: Rule 41 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-cb97213c6a606ea2cc7b30be1ca8ff90]: Commencement: Rule 41 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-b904d9bca7f61f0c707fa53f440a1a24]: Commencement: Rule 42 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-b904d9bca7f61f0c707fa53f440a1a24]: Commencement: Rule 42 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-9f2a8a1176018a5a4b93a241875376cd]: Commencement: Rule 43 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-9f2a8a1176018a5a4b93a241875376cd]: Commencement: Rule 43 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
 [^f00004]: Footnote: S.I. [1989/2406 (N.I. 20)](https://www.legislation.gov.uk/nisi/1989/2406)
 
-[^key-6ee6941cf3c45a755079cf9b0e463028]: Commencement: Rule 44 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-6ee6941cf3c45a755079cf9b0e463028]: Commencement: Rule 44 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-159c20062232bfec0852078dee1ed210]: Commencement: Rule 45 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-159c20062232bfec0852078dee1ed210]: Commencement: Rule 45 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-cb977513cd04db16418fd084dccc9ded]: Commencement: Rule 46 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-cb977513cd04db16418fd084dccc9ded]: Commencement: Rule 46 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-b4277d68c1bb71134a5d6ebe6e615d24]: Commencement: Rule 47 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-b4277d68c1bb71134a5d6ebe6e615d24]: Commencement: Rule 47 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-13775c47775f00ed18dedd8706ad4cb3]: Commencement: Rule 48 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-13775c47775f00ed18dedd8706ad4cb3]: Commencement: Rule 48 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-443e91abfc42c6b7a80dffeb74348345]: Commencement: Rule 49 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-443e91abfc42c6b7a80dffeb74348345]: Commencement: Rule 49 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-e12dd6ca781c2ff5e126025259810511]: Commencement: Rule 50 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-e12dd6ca781c2ff5e126025259810511]: Commencement: Rule 50 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-948248d7886f253fbb10782046267131]: Commencement: Rule 51 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-948248d7886f253fbb10782046267131]: Commencement: Rule 51 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-73e7aa8cfe4dc01f41ab163132319d3f]: Commencement: Rule 52 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-73e7aa8cfe4dc01f41ab163132319d3f]: Commencement: Rule 52 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-7b9ef2b9655021cdda3f4b9cf82fbc4d]: Commencement: Rule 53 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-7b9ef2b9655021cdda3f4b9cf82fbc4d]: Commencement: Rule 53 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-46850e44e124cb7d6fe86742fb4925b6]: Commencement: Rule 54 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-46850e44e124cb7d6fe86742fb4925b6]: Commencement: Rule 54 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-80bd9c51b9fcd1017b2c5efe54515959]: Commencement: Rule 55 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-80bd9c51b9fcd1017b2c5efe54515959]: Commencement: Rule 55 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-53930d6d7be1b2b8d112f792cdec9059]: Commencement: Rule 56 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-53930d6d7be1b2b8d112f792cdec9059]: Commencement: Rule 56 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-35895f24665846202167ba4f9e093fea]: Commencement: Rule 57 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-35895f24665846202167ba4f9e093fea]: Commencement: Rule 57 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-30e1acf03f7a57dc3677cf68274370ab]: Commencement: Rule 58 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-30e1acf03f7a57dc3677cf68274370ab]: Commencement: Rule 58 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-c172364d8a22db1fdd59e374c82f3f11]: Commencement: Rule 59 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-c172364d8a22db1fdd59e374c82f3f11]: Commencement: Rule 59 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-e19f18e3817f7aee4ee4669ddf449aee]: Commencement: Rule 60 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-e19f18e3817f7aee4ee4669ddf449aee]: Commencement: Rule 60 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-a1664fba3c81e8f5b7b36f8b71fb396d]: Commencement: Rule 61 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-a1664fba3c81e8f5b7b36f8b71fb396d]: Commencement: Rule 61 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-f3441def30d14e5115a965dd3f5f32a7]: Commencement: Rule 62 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-f3441def30d14e5115a965dd3f5f32a7]: Commencement: Rule 62 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-43be64822cbdd5f488d3fe819d590caf]: Commencement: Rule 63 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-43be64822cbdd5f488d3fe819d590caf]: Commencement: Rule 63 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-3a12ad5e7917a0b2ce245a60485b0509]: Commencement: Rule 64 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-3a12ad5e7917a0b2ce245a60485b0509]: Commencement: Rule 64 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-ecb335fc5e4d75054fceec5dbd89f3ad]: Commencement: Rule 65 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-ecb335fc5e4d75054fceec5dbd89f3ad]: Commencement: Rule 65 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-bc60028fc5f24590a4fff63ab71fbffc]: Commencement: Rule 66 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-bc60028fc5f24590a4fff63ab71fbffc]: Commencement: Rule 66 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-941ff565ab1c9c6279c3c228e012fe14]: Commencement: Rule 67 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-941ff565ab1c9c6279c3c228e012fe14]: Commencement: Rule 67 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-32d0b980ba0e816e1119990be77f45e0]: Commencement: Rule 68 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-32d0b980ba0e816e1119990be77f45e0]: Commencement: Rule 68 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-df5d19a4b718bb66dadc94ee3766ec2d]: Commencement: Rule 69 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-df5d19a4b718bb66dadc94ee3766ec2d]: Commencement: Rule 69 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
 
-[^key-065a4c89aa20469d71dffa9bc7b5d614]: Commencement: Rule 70 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)
+[^c-065a4c89aa20469d71dffa9bc7b5d614]: Commencement: Rule 70 in operation at 12.11.2008, see [rule 1](https://www.legislation.gov.uk/nisr/2008/427/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41A. Powers of Secretary of State in relation to reports and other duties of inspectors of constabulary[^key-242cb9ee7d48d2331aed8b1c52be77df]
+## 41A. Powers of Secretary of State in relation to reports and other duties of inspectors of constabulary[^c-242cb9ee7d48d2331aed8b1c52be77df]
 
 *Extent: N.I.*
 
@@ -93,4 +93,4 @@ notify the inspectors whether, in the opinion of the Secretary of State, the inf
 
 ## Annotations
 
-[^key-242cb9ee7d48d2331aed8b1c52be77df]: Textual amendment: S. 41A inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 22](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/22) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-242cb9ee7d48d2331aed8b1c52be77df]: Textual amendment: S. 41A inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 22](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/22) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

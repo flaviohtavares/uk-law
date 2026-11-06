@@ -141,7 +141,7 @@ the Department may, in accordance with arrangements approved by the Department o
 
 (2) Where an owner entering into an agreement or covenant under paragraph (1) has power to make that agreement or covenant binding upon his successors in title, and the agreement or covenant is expressed to be so binding, the Department shall have power to enforce that agreement or covenant against such successors in the like manner and to the like extent as if the Department were possessed of or entitled to or interested in adjacent land and as if the agreement or covenant had been expressed to be entered into for the benefit of the adjacent land.
 
-(3) The Department may waive (either permanently or temporarily) any condition imposed by an agreement or covenant made under paragraph (1) which is inconsistent with any provision of a local development plan[^key-d83e23a17587afa70a464522ab05aeef] or development order under the Planning Act (Northern Ireland) 2011[^key-544ac51b5fb8301e3766f46b9747f644].
+(3) The Department may waive (either permanently or temporarily) any condition imposed by an agreement or covenant made under paragraph (1) which is inconsistent with any provision of a local development plan[^c-d83e23a17587afa70a464522ab05aeef] or development order under the Planning Act (Northern Ireland) 2011[^c-544ac51b5fb8301e3766f46b9747f644].
 
 ### 9. Management agreements with owners and occupiers of land[^c11632501]
 
@@ -337,11 +337,11 @@ is of national importance, the Department may declare that land to be a national
 
 (8) In this Article “approved body” has the meaning given in Article 18(3).
 
-### 20. Marine nature reserves[^key-01681d839c68128d186b69750e5444f5]
+### 20. Marine nature reserves[^c-01681d839c68128d186b69750e5444f5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Byelaws for protection of marine nature reserves[^key-01681d839c68128d186b69750e5444f5]
+### 21. Byelaws for protection of marine nature reserves[^c-01681d839c68128d186b69750e5444f5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -415,13 +415,13 @@ make byelaws providing for the prevention of damage to such land and for securin
 
 ### 31. Enforcement of byelaws
 
-(1) The Department or, as the case may be, the Secretary of State, may authorise persons appointed or employed to enforce byelaws made under Articles 19, [^key-3c7ab412c48661bc81e6a2bc0a41bc0a]... and 30 and to take all steps and do all acts and things, necessary for that purpose.
+(1) The Department or, as the case may be, the Secretary of State, may authorise persons appointed or employed to enforce byelaws made under Articles 19, [^c-3c7ab412c48661bc81e6a2bc0a41bc0a]... and 30 and to take all steps and do all acts and things, necessary for that purpose.
 
-(2) In particular, any person authorised under paragraph (1) may, after due warning, remove or exclude a person from any land to which a byelaw made under Article 19, [^key-3c7ab412c48661bc81e6a2bc0a41bc0a]... or 30 applies who commits, or whom he reasonably suspects of committing, an offence against any such byelaw.
+(2) In particular, any person authorised under paragraph (1) may, after due warning, remove or exclude a person from any land to which a byelaw made under Article 19, [^c-3c7ab412c48661bc81e6a2bc0a41bc0a]... or 30 applies who commits, or whom he reasonably suspects of committing, an offence against any such byelaw.
 
 (3) A person who—
 
-- (a) commits an offence against any byelaw made under Article 19, [^key-3c7ab412c48661bc81e6a2bc0a41bc0a]... or 30; or
+- (a) commits an offence against any byelaw made under Article 19, [^c-3c7ab412c48661bc81e6a2bc0a41bc0a]... or 30; or
 - (b) obstructs any person authorised under paragraph (1);
 
 shall be guilty of an offence under this Order, and shall be liable on summary conviction to a fine not exceeding level 2 on the standard scale.
@@ -430,7 +430,7 @@ shall be guilty of an offence under this Order, and shall be liable on summary c
 
 (1) It shall be the duty of the Department, the Ulster Countryside Committee, the Committee for Nature Conservation and any other body having functions under this Order, in the exercise of such functions, to have due regard to the needs of agriculture, forestry and fisheries.
 
-(2)[^key-9e447fd56be08541296356611f5a7c1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9e447fd56be08541296356611f5a7c1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 33. Matters to be registered in Statutory Charges Register
 
@@ -527,15 +527,15 @@ and after considering the report of the person appointed to hold the inquiry or 
 
 **3.** As soon as may be after an order has been made the Department shall publish, in the Belfast Gazette and in two newspapers circulating in the area to which the order relates, a notice describing the effect of the order, stating that the order has been made, and naming a place where a copy thereof may be inspected at all reasonable hours.
 
-### PART II — MODIFICATION OF PART I FOR PURPOSES OF ORDERS DESIGNATING MARINE NATURE RESERVES[^key-ba32abf6ae2cbdae2c02cc0f336b0273]
+### PART II — MODIFICATION OF PART I FOR PURPOSES OF ORDERS DESIGNATING MARINE NATURE RESERVES[^c-ba32abf6ae2cbdae2c02cc0f336b0273]
 
 **No longer in force.**
 
-**4.**[^key-ba32abf6ae2cbdae2c02cc0f336b0273] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ba32abf6ae2cbdae2c02cc0f336b0273] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-ba32abf6ae2cbdae2c02cc0f336b0273] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ba32abf6ae2cbdae2c02cc0f336b0273] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-ba32abf6ae2cbdae2c02cc0f336b0273] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-ba32abf6ae2cbdae2c02cc0f336b0273] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Schedule 4—Amendments*
 
@@ -561,9 +561,9 @@ and after considering the report of the person appointed to hold the inquiry or 
 
 [^m00005]: Marginal citation: 1933 c. 6 (N.I.)
 
-[^key-d83e23a17587afa70a464522ab05aeef]: Textual amendment: Words in art. 8(3) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 48(a)](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/48/a) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by S.R. 2016/159, art. 2)
+[^c-d83e23a17587afa70a464522ab05aeef]: Textual amendment: Words in art. 8(3) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 48(a)](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/48/a) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by S.R. 2016/159, art. 2)
 
-[^key-544ac51b5fb8301e3766f46b9747f644]: Textual amendment: Words in art. 8(3) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 48(b)](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/48/b) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by S.R. 2016/159, art. 2)
+[^c-544ac51b5fb8301e3766f46b9747f644]: Textual amendment: Words in art. 8(3) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 48(b)](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/48/b) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by S.R. 2016/159, art. 2)
 
 [^c11632501]: Textual amendment: functions transf. by SR 1999/481
 
@@ -583,7 +583,7 @@ and after considering the report of the person appointed to hold the inquiry or 
 
 [^c19106941]: Modification: [Art. 19(5)](https://www.legislation.gov.uk/nisi/1985/170/article/19/5) modified (1.4.2007) by [Water and Sewerage Services (Northern Ireland) Order 2006 (S.I. 2006/3336 (N.I. 1))](https://www.legislation.gov.uk/nisi/2006/3336), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2006/3336/article/1/2), [308](https://www.legislation.gov.uk/nisi/2006/3336/article/308), [Sch. 12 para. 21(1)](https://www.legislation.gov.uk/nisi/2006/3336/schedule/12/paragraph/21/1) (with [arts. 8(8)](https://www.legislation.gov.uk/nisi/2006/3336/article/8/8), [121(3)](https://www.legislation.gov.uk/nisi/2006/3336/article/121/3), [307](https://www.legislation.gov.uk/nisi/2006/3336/article/307)); [S.R. 2007/194](https://www.legislation.gov.uk/nisr/2007/194), [art. 2(2)](https://www.legislation.gov.uk/nisr/2007/194/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisr/2007/194/schedule/1/part/II) (subject to [art. 3](https://www.legislation.gov.uk/nisr/2007/194/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/2))
 
-[^key-01681d839c68128d186b69750e5444f5]: Textual amendment: [Art. 21](https://www.legislation.gov.uk/nisi/1985/170/article/21) repealed (18.9.2013) by [Marine Act (Northern Ireland) 2013 (c. 10)](https://www.legislation.gov.uk/nia/2013/10), [ss. 40(1)(a)(i)](https://www.legislation.gov.uk/nia/2013/10/section/40/1/a/i), [49](https://www.legislation.gov.uk/nia/2013/10/section/49) (with [ss. 1(1)](https://www.legislation.gov.uk/nia/2013/10/section/1/1), [46(3)](https://www.legislation.gov.uk/nia/2013/10/section/46/3), [47](https://www.legislation.gov.uk/nia/2013/10/section/47))
+[^c-01681d839c68128d186b69750e5444f5]: Textual amendment: [Art. 21](https://www.legislation.gov.uk/nisi/1985/170/article/21) repealed (18.9.2013) by [Marine Act (Northern Ireland) 2013 (c. 10)](https://www.legislation.gov.uk/nia/2013/10), [ss. 40(1)(a)(i)](https://www.legislation.gov.uk/nia/2013/10/section/40/1/a/i), [49](https://www.legislation.gov.uk/nia/2013/10/section/49) (with [ss. 1(1)](https://www.legislation.gov.uk/nia/2013/10/section/1/1), [46(3)](https://www.legislation.gov.uk/nia/2013/10/section/46/3), [47](https://www.legislation.gov.uk/nia/2013/10/section/47))
 
 [^m00008]: Marginal citation: 1972 c. 9 (N.I.)
 
@@ -597,10 +597,10 @@ and after considering the report of the person appointed to hold the inquiry or 
 
 [^c19107021]: Modification: [Art. 30(5)](https://www.legislation.gov.uk/nisi/1985/170/article/30/5) modified (1.4.2007) by [Water and Sewerage Services (Northern Ireland) Order 2006 (S.I. 2006/3336 (N.I. 21))](https://www.legislation.gov.uk/nisi/2006/3336), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2006/3336/article/1/2), [308](https://www.legislation.gov.uk/nisi/2006/3336/article/308), [Sch. 12 para. 21(1)](https://www.legislation.gov.uk/nisi/2006/3336/schedule/12/paragraph/21/1) (with [arts. 8(8)](https://www.legislation.gov.uk/nisi/2006/3336/article/8/8), [121(3)](https://www.legislation.gov.uk/nisi/2006/3336/article/121/3), [307](https://www.legislation.gov.uk/nisi/2006/3336/article/307)); [S.R. 2007/194](https://www.legislation.gov.uk/nisr/2007/194), [art. 2(2)](https://www.legislation.gov.uk/nisr/2007/194/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisr/2007/194/schedule/1/part/II) (subject to [art. 3](https://www.legislation.gov.uk/nisr/2007/194/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/2))
 
-[^key-3c7ab412c48661bc81e6a2bc0a41bc0a]: Textual amendment: Word in [art. 31](https://www.legislation.gov.uk/nisi/1985/170/article/31) repealed (18.9.2013) by [Marine Act (Northern Ireland) 2013 (c. 10)](https://www.legislation.gov.uk/nia/2013/10), [ss. 40(1)(a)(ii)](https://www.legislation.gov.uk/nia/2013/10/section/40/1/a/ii), [49](https://www.legislation.gov.uk/nia/2013/10/section/49) (with [ss. 1(1)](https://www.legislation.gov.uk/nia/2013/10/section/1/1), [46(3)](https://www.legislation.gov.uk/nia/2013/10/section/46/3), [47](https://www.legislation.gov.uk/nia/2013/10/section/47))
+[^c-3c7ab412c48661bc81e6a2bc0a41bc0a]: Textual amendment: Word in [art. 31](https://www.legislation.gov.uk/nisi/1985/170/article/31) repealed (18.9.2013) by [Marine Act (Northern Ireland) 2013 (c. 10)](https://www.legislation.gov.uk/nia/2013/10), [ss. 40(1)(a)(ii)](https://www.legislation.gov.uk/nia/2013/10/section/40/1/a/ii), [49](https://www.legislation.gov.uk/nia/2013/10/section/49) (with [ss. 1(1)](https://www.legislation.gov.uk/nia/2013/10/section/1/1), [46(3)](https://www.legislation.gov.uk/nia/2013/10/section/46/3), [47](https://www.legislation.gov.uk/nia/2013/10/section/47))
 
-[^key-9e447fd56be08541296356611f5a7c1a]: Textual amendment: [Art. 32(2)](https://www.legislation.gov.uk/nisi/1985/170/article/32/2) omitted (8.5.2016) by virtue of [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 65](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/65) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-9e447fd56be08541296356611f5a7c1a]: Textual amendment: [Art. 32(2)](https://www.legislation.gov.uk/nisi/1985/170/article/32/2) omitted (8.5.2016) by virtue of [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 65](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/65) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^m00010]: Marginal citation: 1972 c. 9 (N.I.)
 
-[^key-ba32abf6ae2cbdae2c02cc0f336b0273]: Textual amendment: [Sch. 3 Pt. II](https://www.legislation.gov.uk/nisi/1985/170/schedule/3/part/II) repealed (18.9.2013) by [Marine Act (Northern Ireland) 2013 (c. 10)](https://www.legislation.gov.uk/nia/2013/10), [ss. 40(1)(a)(iii)](https://www.legislation.gov.uk/nia/2013/10/section/40/1/a/iii), [49](https://www.legislation.gov.uk/nia/2013/10/section/49) (with [ss. 1(1)](https://www.legislation.gov.uk/nia/2013/10/section/1/1), [46(3)](https://www.legislation.gov.uk/nia/2013/10/section/46/3), [47](https://www.legislation.gov.uk/nia/2013/10/section/47))
+[^c-ba32abf6ae2cbdae2c02cc0f336b0273]: Textual amendment: [Sch. 3 Pt. II](https://www.legislation.gov.uk/nisi/1985/170/schedule/3/part/II) repealed (18.9.2013) by [Marine Act (Northern Ireland) 2013 (c. 10)](https://www.legislation.gov.uk/nia/2013/10), [ss. 40(1)(a)(iii)](https://www.legislation.gov.uk/nia/2013/10/section/40/1/a/iii), [49](https://www.legislation.gov.uk/nia/2013/10/section/49) (with [ss. 1(1)](https://www.legislation.gov.uk/nia/2013/10/section/1/1), [46(3)](https://www.legislation.gov.uk/nia/2013/10/section/46/3), [47](https://www.legislation.gov.uk/nia/2013/10/section/47))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.2. The glossary[^key-5534859abb5cb59481fe5f055cfd2018]
+## 2.2. The glossary[^c-5534859abb5cb59481fe5f055cfd2018]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5534859abb5cb59481fe5f055cfd2018]: Commencement: [Rule 2.2](https://www.legislation.gov.uk/uksi/1998/3132/rule/2.2) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-5534859abb5cb59481fe5f055cfd2018]: Commencement: [Rule 2.2](https://www.legislation.gov.uk/uksi/1998/3132/rule/2.2) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

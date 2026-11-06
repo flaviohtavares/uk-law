@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-a593cf2335339426c412792e17eb8eb4][^key-1aa0fa60b98a477e443aed34e10a0a46] In section 59(1) (interpretation) of the 1968 Act, insert the following definitions in the appropriate places alphabetically—
+(1)[^c-a593cf2335339426c412792e17eb8eb4][^c-1aa0fa60b98a477e443aed34e10a0a46] In section 59(1) (interpretation) of the 1968 Act, insert the following definitions in the appropriate places alphabetically—
 
 > - “**private SUD system**” means any SUD system which is not a public SUD system;
 > - “**public SUD system**” means any SUD system which is vested in Scottish Water;
@@ -32,12 +32,12 @@ summary: ''
 
 .
 
-(2)[^key-5bcebbaef08c32314ef5ada112d75944] Schedule 3 makes modifications of the 1968 Act and the Water Industry (Scotland) Act 2002 (asp 3) in relation to sustainable urban drainage systems.
+(2)[^c-5bcebbaef08c32314ef5ada112d75944] Schedule 3 makes modifications of the 1968 Act and the Water Industry (Scotland) Act 2002 (asp 3) in relation to sustainable urban drainage systems.
 
 ## Annotations
 
-[^key-a593cf2335339426c412792e17eb8eb4]: Commencement: S. 33(1) in force at 6.3.2006 for specified purposes by [S.S.I. 2006/55](https://www.legislation.gov.uk/ssi/2006/55), [art. 2(c)](https://www.legislation.gov.uk/ssi/2006/55/article/2/c)
+[^c-a593cf2335339426c412792e17eb8eb4]: Commencement: S. 33(1) in force at 6.3.2006 for specified purposes by [S.S.I. 2006/55](https://www.legislation.gov.uk/ssi/2006/55), [art. 2(c)](https://www.legislation.gov.uk/ssi/2006/55/article/2/c)
 
-[^key-1aa0fa60b98a477e443aed34e10a0a46]: Commencement: S. 33(1) in force at 30.11.2007 in so far as not already in force by [S.S.I. 2007/512](https://www.legislation.gov.uk/ssi/2007/512), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/512/article/2/a)
+[^c-1aa0fa60b98a477e443aed34e10a0a46]: Commencement: S. 33(1) in force at 30.11.2007 in so far as not already in force by [S.S.I. 2007/512](https://www.legislation.gov.uk/ssi/2007/512), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/512/article/2/a)
 
-[^key-5bcebbaef08c32314ef5ada112d75944]: Commencement: S. 33(2) in force at 30.11.2007 by [S.S.I. 2007/512](https://www.legislation.gov.uk/ssi/2007/512), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/512/article/2/b)
+[^c-5bcebbaef08c32314ef5ada112d75944]: Commencement: S. 33(2) in force at 30.11.2007 by [S.S.I. 2007/512](https://www.legislation.gov.uk/ssi/2007/512), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/512/article/2/b)

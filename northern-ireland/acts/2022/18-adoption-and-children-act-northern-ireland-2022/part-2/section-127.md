@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 127. Duty to ensure visits to and advice etc. for children[^key-61364aece39c0c76d5d85ae4b91612b7]
+## 127. Duty to ensure visits to and advice etc. for children[^c-61364aece39c0c76d5d85ae4b91612b7]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ After Article 28A of the Children Order (as inserted by section 126) insert—
 
 ## Annotations
 
-[^key-61364aece39c0c76d5d85ae4b91612b7]: Commencement: S. 127 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-61364aece39c0c76d5d85ae4b91612b7]: Commencement: S. 127 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

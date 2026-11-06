@@ -31,38 +31,38 @@ summary: ''
 
 Housing, Wales
 
-The Housing (Wales) Act 2014 (Commencement No. 7) Order 2016 (revoked)[^key-614ab4d851f1b7d74ccee676fa2e72b5]
+The Housing (Wales) Act 2014 (Commencement No. 7) Order 2016 (revoked)[^c-614ab4d851f1b7d74ccee676fa2e72b5]
 
 Made
 
 18 October 2016
 
-[^key-614ab4d851f1b7d74ccee676fa2e72b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-614ab4d851f1b7d74ccee676fa2e72b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Title and interpretation[^key-614ab4d851f1b7d74ccee676fa2e72b5]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Appointed day[^key-614ab4d851f1b7d74ccee676fa2e72b5]
+## 1. Title and interpretation[^c-614ab4d851f1b7d74ccee676fa2e72b5]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**May not be in force at this date. Check the source.**
+## 2. Appointed day[^c-614ab4d851f1b7d74ccee676fa2e72b5]
 
-[^key-614ab4d851f1b7d74ccee676fa2e72b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Not yet in force.**
 
-**May not be in force at this date. Check the source.**
-
-[^key-614ab4d851f1b7d74ccee676fa2e72b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-614ab4d851f1b7d74ccee676fa2e72b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-614ab4d851f1b7d74ccee676fa2e72b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**May not be in force at this date. Check the source.**
+
+[^c-614ab4d851f1b7d74ccee676fa2e72b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**May not be in force at this date. Check the source.**
+
+[^c-614ab4d851f1b7d74ccee676fa2e72b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-614ab4d851f1b7d74ccee676fa2e72b5]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2016/1009) revoked (1.11.2016) by [The Housing (Wales) Act 2014 (Commencement No. 8) Order 2016 (S.I. 2016/1066)](https://www.legislation.gov.uk/wsi/2016/1066), [art. 3](https://www.legislation.gov.uk/wsi/2016/1066/article/3)
+[^c-614ab4d851f1b7d74ccee676fa2e72b5]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2016/1009) revoked (1.11.2016) by [The Housing (Wales) Act 2014 (Commencement No. 8) Order 2016 (S.I. 2016/1066)](https://www.legislation.gov.uk/wsi/2016/1066), [art. 3](https://www.legislation.gov.uk/wsi/2016/1066/article/3)

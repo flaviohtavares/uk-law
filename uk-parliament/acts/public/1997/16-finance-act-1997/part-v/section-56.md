@@ -22,10 +22,10 @@ summary: ''
 
 (1) In subsection (1) of section 265 of the Taxes Act 1988 (blind person’s allowance), for “£1,250” there shall be substituted “ £1,280 ”.
 
-(2)[^key-c36467404ad5fb91fb41c32e9781396d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c36467404ad5fb91fb41c32e9781396d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Subsection (1) above shall apply for the year 1997-98 and, subject to subsection (2) above, for subsequent years of assessment.
 
 ## Annotations
 
-[^key-c36467404ad5fb91fb41c32e9781396d]: Textual amendment: [S. 56(2)](https://www.legislation.gov.uk/ukpga/1997/16/section/56/2) omitted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 1 para. 6(h)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/1/paragraph/6/h)
+[^c-c36467404ad5fb91fb41c32e9781396d]: Textual amendment: [S. 56(2)](https://www.legislation.gov.uk/ukpga/1997/16/section/56/2) omitted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 1 para. 6(h)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/1/paragraph/6/h)

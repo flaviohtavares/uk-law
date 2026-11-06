@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. False statements in applications[^key-1b14d4e1ca17ef7b3a59f1aca3397866][^key-dfde5a55bde0282c3b770192204cfd2a][^key-1e28ec148890d74561a7d1afd4597ac8][^key-34d30c48fe83376a82b39dfc49e02f81][^key-1e28ec148890d74561a7d1afd4597ac8][^key-34d30c48fe83376a82b39dfc49e02f81]
+## 37. False statements in applications[^c-1b14d4e1ca17ef7b3a59f1aca3397866][^c-dfde5a55bde0282c3b770192204cfd2a][^c-1e28ec148890d74561a7d1afd4597ac8][^c-34d30c48fe83376a82b39dfc49e02f81][^c-1e28ec148890d74561a7d1afd4597ac8][^c-34d30c48fe83376a82b39dfc49e02f81]
 
 *Extent: E+W*
 
@@ -33,10 +33,10 @@ summary: ''
 
 ## Annotations
 
-[^key-1b14d4e1ca17ef7b3a59f1aca3397866]: Commencement: S. 37 in force at 12.1.2009 for specified purposes by [S.I. 2008/3168](https://www.legislation.gov.uk/uksi/2008/3168), [art. 2](https://www.legislation.gov.uk/uksi/2008/3168/article/2)
+[^c-1b14d4e1ca17ef7b3a59f1aca3397866]: Commencement: S. 37 in force at 12.1.2009 for specified purposes by [S.I. 2008/3168](https://www.legislation.gov.uk/uksi/2008/3168), [art. 2](https://www.legislation.gov.uk/uksi/2008/3168/article/2)
 
-[^key-dfde5a55bde0282c3b770192204cfd2a]: Commencement: S. 37 in force at 6.4.2010 in so far as not already in force by [S.I. 2010/807](https://www.legislation.gov.uk/uksi/2010/807), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/807/article/2/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2010/807/schedule/1/paragraph/10) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2010/807/part/3))
+[^c-dfde5a55bde0282c3b770192204cfd2a]: Commencement: S. 37 in force at 6.4.2010 in so far as not already in force by [S.I. 2010/807](https://www.legislation.gov.uk/uksi/2010/807), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/807/article/2/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2010/807/schedule/1/paragraph/10) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2010/807/part/3))
 
-[^key-1e28ec148890d74561a7d1afd4597ac8]: Modification: Pt. 1 excluded (6.4.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [arts. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/a), [17(4)(c)](https://www.legislation.gov.uk/uksi/2010/807/article/17/4/c) [(5)(b)](https://www.legislation.gov.uk/uksi/2010/807/article/17/5/b)
+[^c-1e28ec148890d74561a7d1afd4597ac8]: Modification: Pt. 1 excluded (6.4.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [arts. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/a), [17(4)(c)](https://www.legislation.gov.uk/uksi/2010/807/article/17/4/c) [(5)(b)](https://www.legislation.gov.uk/uksi/2010/807/article/17/5/b)
 
-[^key-34d30c48fe83376a82b39dfc49e02f81]: Modification: Pt. 1 excluded (6.4.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [arts. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/a), [14(4)(c)](https://www.legislation.gov.uk/uksi/2010/807/article/14/4/c)
+[^c-34d30c48fe83376a82b39dfc49e02f81]: Modification: Pt. 1 excluded (6.4.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [arts. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/a), [14(4)(c)](https://www.legislation.gov.uk/uksi/2010/807/article/14/4/c)

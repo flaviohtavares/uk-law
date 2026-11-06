@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Late presentation of Form P45: employer’s duties[^key-810c39f3257f2a8e6d5d7fa2b9906377]
+## 19. Late presentation of Form P45: employer’s duties[^c-810c39f3257f2a8e6d5d7fa2b9906377]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ After regulation 52(1) (late presentation of Form P45: employer’s duties) inse
 
 ## Annotations
 
-[^key-810c39f3257f2a8e6d5d7fa2b9906377]: Commencement: Reg. 19 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-810c39f3257f2a8e6d5d7fa2b9906377]: Commencement: Reg. 19 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2015-05-26.
 
-## 44B. Amount of extended payment (qualifying contributory benefits)[^key-705d247a6c0130ed60011a93478b0363]
+## 44B. Amount of extended payment (qualifying contributory benefits)[^c-705d247a6c0130ed60011a93478b0363]
 
 (1) For any week during the extended payment period the amount of the extended payment (qualifying contributory benefits) payable to a claimant shall be the higher of—
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-705d247a6c0130ed60011a93478b0363]: Textual amendment: [Regs. 44-44D](https://www.legislation.gov.uk/uksi/2006/216/regulation/44) substituted for [reg. 44](https://www.legislation.gov.uk/uksi/2006/216/regulation/44) (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2008/959/regulation/10/2)
+[^c-705d247a6c0130ed60011a93478b0363]: Textual amendment: [Regs. 44-44D](https://www.legislation.gov.uk/uksi/2006/216/regulation/44) substituted for [reg. 44](https://www.legislation.gov.uk/uksi/2006/216/regulation/44) (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2008/959/regulation/10/2)

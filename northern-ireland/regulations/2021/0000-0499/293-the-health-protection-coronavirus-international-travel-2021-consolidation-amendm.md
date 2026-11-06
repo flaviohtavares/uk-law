@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Health Protection (Coronavirus, International Travel) (2021 Consolidation) (Amendment No. 8) Regulations (Northern Ireland) 2021 (revoked)[^key-c038382bc51bee0502ded5b535d26b07]
+The Health Protection (Coronavirus, International Travel) (2021 Consolidation) (Amendment No. 8) Regulations (Northern Ireland) 2021 (revoked)[^c-c038382bc51bee0502ded5b535d26b07]
 
 Made
 
@@ -40,47 +40,47 @@ Made
 
 Coming into operation in accordance with regulations 1(2) and (3)
 
-[^key-c038382bc51bee0502ded5b535d26b07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c038382bc51bee0502ded5b535d26b07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-c038382bc51bee0502ded5b535d26b07]
+## 1. Citation, commencement and interpretation[^c-c038382bc51bee0502ded5b535d26b07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of principal Regulations[^key-c038382bc51bee0502ded5b535d26b07]
+## 2. Amendment of principal Regulations[^c-c038382bc51bee0502ded5b535d26b07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 2 (Interpretation)[^key-c038382bc51bee0502ded5b535d26b07]
+## 3. Amendment of regulation 2 (Interpretation)[^c-c038382bc51bee0502ded5b535d26b07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 3 (Interpretation: red list and non-red list countries and arrivals)[^key-c038382bc51bee0502ded5b535d26b07]
+## 4. Amendment of regulation 3 (Interpretation: red list and non-red list countries and arrivals)[^c-c038382bc51bee0502ded5b535d26b07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of Schedule 1 (Red list countries)[^key-c038382bc51bee0502ded5b535d26b07]
+## 5. Amendment of Schedule 1 (Red list countries)[^c-c038382bc51bee0502ded5b535d26b07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of Schedule 2B (Criteria to be an eligible arrival)[^key-c038382bc51bee0502ded5b535d26b07]
+## 6. Amendment of Schedule 2B (Criteria to be an eligible arrival)[^c-c038382bc51bee0502ded5b535d26b07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Persons who are exempt[^key-c038382bc51bee0502ded5b535d26b07]
+## 7. Persons who are exempt[^c-c038382bc51bee0502ded5b535d26b07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of Schedule 6[^key-c038382bc51bee0502ded5b535d26b07]
+## 8. Amendment of Schedule 6[^c-c038382bc51bee0502ded5b535d26b07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c038382bc51bee0502ded5b535d26b07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c038382bc51bee0502ded5b535d26b07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-c038382bc51bee0502ded5b535d26b07]EXPLANATORY NOTE
+[^c-c038382bc51bee0502ded5b535d26b07]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -106,4 +106,4 @@ Regulation 8 amends Schedule 4 to the principal Regulations to remove the “no 
 
 ## Annotations
 
-[^key-c038382bc51bee0502ded5b535d26b07]: Textual amendment: [Rule](https://www.legislation.gov.uk/nisr/2021/293) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/122)](https://www.legislation.gov.uk/nisr/2022/122), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/122/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/122/schedule)
+[^c-c038382bc51bee0502ded5b535d26b07]: Textual amendment: [Rule](https://www.legislation.gov.uk/nisr/2021/293) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/122)](https://www.legislation.gov.uk/nisr/2022/122), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/122/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/122/schedule)

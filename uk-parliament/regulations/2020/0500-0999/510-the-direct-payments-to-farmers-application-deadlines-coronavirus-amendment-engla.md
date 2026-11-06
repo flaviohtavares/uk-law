@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture
 
-The Direct Payments to Farmers (Application Deadlines) (Coronavirus) (Amendment) (England) Regulations 2020 (revoked)[^key-86a2af1b3cf9589b0b962caf764b0967]
+The Direct Payments to Farmers (Application Deadlines) (Coronavirus) (Amendment) (England) Regulations 2020 (revoked)[^c-86a2af1b3cf9589b0b962caf764b0967]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force
 
 15th May 2020
 
-[^key-86a2af1b3cf9589b0b962caf764b0967]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-86a2af1b3cf9589b0b962caf764b0967]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-86a2af1b3cf9589b0b962caf764b0967]
+## 1. Citation, commencement and application[^c-86a2af1b3cf9589b0b962caf764b0967]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Regulation 809/2014[^key-86a2af1b3cf9589b0b962caf764b0967]
+## 2. Amendment of Regulation 809/2014[^c-86a2af1b3cf9589b0b962caf764b0967]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-86a2af1b3cf9589b0b962caf764b0967]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-86a2af1b3cf9589b0b962caf764b0967]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-86a2af1b3cf9589b0b962caf764b0967]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-86a2af1b3cf9589b0b962caf764b0967]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-86a2af1b3cf9589b0b962caf764b0967]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/510) revoked (1.1.2024) by [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/paragraph/1) Table 2 (with [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/part/2))
+[^c-86a2af1b3cf9589b0b962caf764b0967]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/510) revoked (1.1.2024) by [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/paragraph/1) Table 2 (with [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/part/2))

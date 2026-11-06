@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.[^key-9d2caa1b182abf23c29ff4af6768fd5b]
+## 47.[^c-9d2caa1b182abf23c29ff4af6768fd5b]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In regulation 8 (events), after paragraph (b) insert—
 
 ## Annotations
 
-[^key-9d2caa1b182abf23c29ff4af6768fd5b]: Commencement: Reg. 47 in force at 27.5.2019, see reg. 1(2)
+[^c-9d2caa1b182abf23c29ff4af6768fd5b]: Commencement: Reg. 47 in force at 27.5.2019, see reg. 1(2)

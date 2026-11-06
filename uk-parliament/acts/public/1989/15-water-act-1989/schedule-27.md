@@ -44,7 +44,7 @@ Section 190.
 |  |  | Section 306. |
 |  |  | Section 337. |
 |  |  | In section 343(1), in the definition of “statutory undertakers”, the word “water”. |
-| [^key-f2302ca57ce02dd85bc5d072c83c7b1d][^key-91ac296df3f1a19059dd55aeec05d292] | [^key-f2302ca57ce02dd85bc5d072c83c7b1d][^key-91ac296df3f1a19059dd55aeec05d292]. . . | [^key-f2302ca57ce02dd85bc5d072c83c7b1d][^key-91ac296df3f1a19059dd55aeec05d292]. . . |
+| [^c-f2302ca57ce02dd85bc5d072c83c7b1d][^c-91ac296df3f1a19059dd55aeec05d292] | [^c-f2302ca57ce02dd85bc5d072c83c7b1d][^c-91ac296df3f1a19059dd55aeec05d292]. . . | [^c-f2302ca57ce02dd85bc5d072c83c7b1d][^c-91ac296df3f1a19059dd55aeec05d292]. . . |
 |  |  | In section 8(2), the words “in their area”. |
 |  |  | In section 10, in subsection (1), the definition of “district board”, and subsection (3). |
 |  |  | Section 11. |
@@ -341,7 +341,7 @@ Section 190.
 |  |  | Schedule 3. |
 |  |  | In Schedule 4, paragraphs 1 to 4. |
 | 1983 c. 29. | The Miscellaneous Financial Provisions Act 1983. | In Schedule 2, the entry relating to the Water Act 1973. |
-| [^key-f2302ca57ce02dd85bc5d072c83c7b1d][^key-91ac296df3f1a19059dd55aeec05d292] | [^key-f2302ca57ce02dd85bc5d072c83c7b1d][^key-91ac296df3f1a19059dd55aeec05d292] | [^key-f2302ca57ce02dd85bc5d072c83c7b1d][^key-91ac296df3f1a19059dd55aeec05d292] |
+| [^c-f2302ca57ce02dd85bc5d072c83c7b1d][^c-91ac296df3f1a19059dd55aeec05d292] | [^c-f2302ca57ce02dd85bc5d072c83c7b1d][^c-91ac296df3f1a19059dd55aeec05d292] | [^c-f2302ca57ce02dd85bc5d072c83c7b1d][^c-91ac296df3f1a19059dd55aeec05d292] |
 |  |  | In the Schedule, paragraph 9. |
 | 1983 c. 44. | The National Audit Act 1983. | In Schedule 4, the entries relating to the Regional Water Authorities and the Welsh Water Authority. |
 | 1984 c. 12. | The Telecommunications Act 1984. | In Schedule 2, in paragraph 23(10), in paragraph (a) of the definition of “relevant undertaker”, sub-paragraph (iii) and the word “or” immediately preceding it. |
@@ -389,6 +389,6 @@ Section 190.
 
 ## Annotations
 
-[^key-f2302ca57ce02dd85bc5d072c83c7b1d]: Textual amendment: Words in Sch. 27 Pt. I omitted (S.) (27.3.2009) by virtue of [The Aquatic Animal Health (Scotland) Regulations 2009 (S.S.I. 2009/85)](https://www.legislation.gov.uk/ssi/2009/85), [reg. 1(2)(c)](https://www.legislation.gov.uk/ssi/2009/85/regulation/1/2/c), [sch. 2 para. 8(c)](https://www.legislation.gov.uk/ssi/2009/85/schedule/2/paragraph/8/c) (with [reg. 2.](https://www.legislation.gov.uk/ssi/2009/85/regulation/2.))
+[^c-f2302ca57ce02dd85bc5d072c83c7b1d]: Textual amendment: Words in Sch. 27 Pt. I omitted (S.) (27.3.2009) by virtue of [The Aquatic Animal Health (Scotland) Regulations 2009 (S.S.I. 2009/85)](https://www.legislation.gov.uk/ssi/2009/85), [reg. 1(2)(c)](https://www.legislation.gov.uk/ssi/2009/85/regulation/1/2/c), [sch. 2 para. 8(c)](https://www.legislation.gov.uk/ssi/2009/85/schedule/2/paragraph/8/c) (with [reg. 2.](https://www.legislation.gov.uk/ssi/2009/85/regulation/2.))
 
-[^key-91ac296df3f1a19059dd55aeec05d292]: Textual amendment: Words in Sch. 27 Pt. I omitted (E.W.) (27.3.2009) by virtue of [The Aquatic Animal Health (England and Wales) Regulations 2009 (S.I. 2009/463)](https://www.legislation.gov.uk/uksi/2009/463), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/463/regulation/1/2), [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/uksi/2009/463/schedule/2/paragraph/8/b) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2009/463/regulation/2/2))
+[^c-91ac296df3f1a19059dd55aeec05d292]: Textual amendment: Words in Sch. 27 Pt. I omitted (E.W.) (27.3.2009) by virtue of [The Aquatic Animal Health (England and Wales) Regulations 2009 (S.I. 2009/463)](https://www.legislation.gov.uk/uksi/2009/463), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/463/regulation/1/2), [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/uksi/2009/463/schedule/2/paragraph/8/b) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2009/463/regulation/2/2))

@@ -32,7 +32,7 @@ summary: ''
 
 SPORTS GROUNDS AND SPORTING EVENTS, ENGLAND AND WALES
 
-The Football Spectators (Prescription) (Amendment) Order 2006 (revoked)[^key-3b73ddd96d4c86de38e02be512e39a0d]
+The Football Spectators (Prescription) (Amendment) Order 2006 (revoked)[^c-3b73ddd96d4c86de38e02be512e39a0d]
 
 Made
 
@@ -46,20 +46,20 @@ Coming into force
 
 10th April 2006
 
-[^key-3b73ddd96d4c86de38e02be512e39a0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3b73ddd96d4c86de38e02be512e39a0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-3b73ddd96d4c86de38e02be512e39a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-3b73ddd96d4c86de38e02be512e39a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-3b73ddd96d4c86de38e02be512e39a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-3b73ddd96d4c86de38e02be512e39a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3b73ddd96d4c86de38e02be512e39a0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3b73ddd96d4c86de38e02be512e39a0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3b73ddd96d4c86de38e02be512e39a0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3b73ddd96d4c86de38e02be512e39a0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3b73ddd96d4c86de38e02be512e39a0d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2006/761) revoked (1.7.2022) by [The Football Spectators (Prescription) Order 2022 (S.I. 2022/617)](https://www.legislation.gov.uk/uksi/2022/617), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/617/article/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2022/617/article/2/b)
+[^c-3b73ddd96d4c86de38e02be512e39a0d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2006/761) revoked (1.7.2022) by [The Football Spectators (Prescription) Order 2022 (S.I. 2022/617)](https://www.legislation.gov.uk/uksi/2022/617), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/617/article/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2022/617/article/2/b)

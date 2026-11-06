@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Aeronautical lights[^key-56f2e227f2ae5dc0eddc2383ef40d233]
+## 135. Aeronautical lights[^c-56f2e227f2ae5dc0eddc2383ef40d233]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56f2e227f2ae5dc0eddc2383ef40d233]: Commencement: [Art. 135](https://www.legislation.gov.uk/uksi/2015/870/article/135) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-56f2e227f2ae5dc0eddc2383ef40d233]: Commencement: [Art. 135](https://www.legislation.gov.uk/uksi/2015/870/article/135) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

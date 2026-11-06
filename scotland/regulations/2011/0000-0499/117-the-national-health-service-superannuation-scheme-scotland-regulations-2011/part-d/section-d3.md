@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## D3. Further contributions by employing authorities in respect of excessive pay increases[^key-96d872937be66ed5174655f0ca887509]
+## D3. Further contributions by employing authorities in respect of excessive pay increases[^c-96d872937be66ed5174655f0ca887509]
 
 *Extent: S*
 
@@ -32,20 +32,20 @@ summary: ''
 
 - (a) the member’s pensionable pay for Year 1, and
 - (b) the allowable amount for Year 2 increased by the lower of—
-  - (i) the aggregate of 7%[^key-ca77539b00621b728d8bb473d8b94716] and the percentage increase in the consumer prices index over the preceding twelve months, and
+  - (i) the aggregate of 7%[^c-ca77539b00621b728d8bb473d8b94716] and the percentage increase in the consumer prices index over the preceding twelve months, and
   - (ii) the percentage increase in the member’s pensionable pay Year 1 compared with Year 2.
 
 (4) The allowable amount in respect of Year 2 is the lower of—
 
 - (a) the member’s pensionable pay for Year 2, and
 - (b) the allowable amount for Year 3 increased by the lower of—
-  - (i) the aggregate of 7%[^key-daf0b0faad13ae5266a26da723c57b60] and the percentage increase in the consumer prices index over the preceding twelve months, and
+  - (i) the aggregate of 7%[^c-daf0b0faad13ae5266a26da723c57b60] and the percentage increase in the consumer prices index over the preceding twelve months, and
   - (ii) the percentage increase in the member’s pensionable pay Year 2 compared with Year 3.
 
 (5) The allowable amount for Year 3 is the lower of—
 
 - (a) the member’s pensionable pay for Year 3, and
-- (b) the member’s pensionable pay for the year immediately preceding Year 3 increased by the aggregate of 7%[^key-36f6c86b2e6a1814444b4149ab8d0d5a] and the percentage increase in the consumer prices index over the preceding twelve months.
+- (b) the member’s pensionable pay for the year immediately preceding Year 3 increased by the aggregate of 7%[^c-36f6c86b2e6a1814444b4149ab8d0d5a] and the percentage increase in the consumer prices index over the preceding twelve months.
 
 (6) An excess employer contribution is determined as follows—
 
@@ -66,19 +66,19 @@ Step 6: add together—
 
 to find the amount of the excess employer contribution.
 
-(7)[^key-7388633056e3a4d1647363ef16577f89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-7388633056e3a4d1647363ef16577f89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-7388633056e3a4d1647363ef16577f89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-7388633056e3a4d1647363ef16577f89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-7388633056e3a4d1647363ef16577f89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-7388633056e3a4d1647363ef16577f89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-7388633056e3a4d1647363ef16577f89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-7388633056e3a4d1647363ef16577f89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-7388633056e3a4d1647363ef16577f89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-7388633056e3a4d1647363ef16577f89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (12) The amount of an excess employer contribution must be paid to the Scottish Ministers within 1 month of them notifying the payer of its liability for that amount, but the Scottish Ministers may exceptionally specify that they are to be paid within some other period.
 
-(12A)[^key-687f241887a301edf304fcc96a7f6ef3] Paragraphs (12B) to (12G) apply in circumstances where a payer has been notified of a liability to pay an excess employer contribution on or after 1 April 2020.
+(12A)[^c-687f241887a301edf304fcc96a7f6ef3] Paragraphs (12B) to (12G) apply in circumstances where a payer has been notified of a liability to pay an excess employer contribution on or after 1 April 2020.
 
 (12B) Where a payer—
 
@@ -121,11 +121,11 @@ the Scottish Ministers must determine the excess employer contribution in accord
 
 (19) An increase in a member’s pensionable pay due to the acceptance of a transfer payment in the circumstances described in regulation C1(11) is to be ignored for the purposes of this regulation.
 
-(19A)[^key-84566c9c404563abe037174ba3a134fa] For the purposes of this regulation, an increase in a member’s pensionable pay solely due to an increase in the national minimum wage is to be ignored.
+(19A)[^c-84566c9c404563abe037174ba3a134fa] For the purposes of this regulation, an increase in a member’s pensionable pay solely due to an increase in the national minimum wage is to be ignored.
 
-(19B)[^key-ed9645e6a51310c00b9a940b03059ccd] An increase in a member’s pensionable pay pursuant to the “Framework agreement on the reform of Agenda for Change” adopted on 17 August 2018 is to be ignored for the purposes of this regulation.
+(19B)[^c-ed9645e6a51310c00b9a940b03059ccd] An increase in a member’s pensionable pay pursuant to the “Framework agreement on the reform of Agenda for Change” adopted on 17 August 2018 is to be ignored for the purposes of this regulation.
 
-(19C)[^key-a28b95b23588216d58af402c7091a9ee] Where—
+(19C)[^c-a28b95b23588216d58af402c7091a9ee] Where—
 
 - (a) the Scottish Ministers have approved terms and conditions relating to NHS employment, and
 - (b) a member’s pensionable pay has increased pursuant to those terms and conditions,
@@ -159,29 +159,29 @@ the increase in the member’s pensionable pay is to be disregarded for the purp
 - (g) a benefit referred to in paragraph (1) means—
   - (i) in the case of regulation E3, a benefit including the effects of any increase in pensionable service referred to in paragraph (4) of that regulation;
   - (ii) in the case of regulation E5, a benefit including the effects of any reduction referred to in paragraph (2) of that regulation; and
-- (h)[^key-d10d0b4950407691f6544b355bd563ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (i)[^key-1752d433efedf40cd122357d6500e3e4] the national minimum wage referred to in paragraph (19A) means the single hourly rate which is for the time being in force by virtue of regulations made under section 1(3) of the National Minimum Wage Act 1998.
+- (h)[^c-d10d0b4950407691f6544b355bd563ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-1752d433efedf40cd122357d6500e3e4] the national minimum wage referred to in paragraph (19A) means the single hourly rate which is for the time being in force by virtue of regulations made under section 1(3) of the National Minimum Wage Act 1998.
 
 ## Annotations
 
-[^key-96d872937be66ed5174655f0ca887509]: Textual amendment: Reg. D3 inserted (28.6.2014) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/154)](https://www.legislation.gov.uk/ssi/2014/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/154/regulation/1/2), [7](https://www.legislation.gov.uk/ssi/2014/154/regulation/7)
+[^c-96d872937be66ed5174655f0ca887509]: Textual amendment: Reg. D3 inserted (28.6.2014) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/154)](https://www.legislation.gov.uk/ssi/2014/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/154/regulation/1/2), [7](https://www.legislation.gov.uk/ssi/2014/154/regulation/7)
 
-[^key-ca77539b00621b728d8bb473d8b94716]: Textual amendment: Word in reg. D3(3)(b)(i) substituted (with effect from 1.4.2024) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(6)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/6), [10(2)](https://www.legislation.gov.uk/ssi/2024/272/regulation/10/2)
+[^c-ca77539b00621b728d8bb473d8b94716]: Textual amendment: Word in reg. D3(3)(b)(i) substituted (with effect from 1.4.2024) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(6)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/6), [10(2)](https://www.legislation.gov.uk/ssi/2024/272/regulation/10/2)
 
-[^key-daf0b0faad13ae5266a26da723c57b60]: Textual amendment: Word in reg. D3(4)(b)(i) substituted (with effect from 1.4.2024) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(6)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/6), [10(2)](https://www.legislation.gov.uk/ssi/2024/272/regulation/10/2)
+[^c-daf0b0faad13ae5266a26da723c57b60]: Textual amendment: Word in reg. D3(4)(b)(i) substituted (with effect from 1.4.2024) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(6)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/6), [10(2)](https://www.legislation.gov.uk/ssi/2024/272/regulation/10/2)
 
-[^key-36f6c86b2e6a1814444b4149ab8d0d5a]: Textual amendment: Word in reg. D3(5)(b) substituted (with effect from 1.4.2024) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(6)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/6), [10(2)](https://www.legislation.gov.uk/ssi/2024/272/regulation/10/2)
+[^c-36f6c86b2e6a1814444b4149ab8d0d5a]: Textual amendment: Word in reg. D3(5)(b) substituted (with effect from 1.4.2024) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(6)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/6), [10(2)](https://www.legislation.gov.uk/ssi/2024/272/regulation/10/2)
 
-[^key-7388633056e3a4d1647363ef16577f89]: Textual amendment: Regs. D3(7)-(11) omitted (with effect from 1.4.2024) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(6)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/6), [10(3)](https://www.legislation.gov.uk/ssi/2024/272/regulation/10/3)
+[^c-7388633056e3a4d1647363ef16577f89]: Textual amendment: Regs. D3(7)-(11) omitted (with effect from 1.4.2024) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(6)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/6), [10(3)](https://www.legislation.gov.uk/ssi/2024/272/regulation/10/3)
 
-[^key-687f241887a301edf304fcc96a7f6ef3]: Textual amendment: Regs. D3(12A)-(12G) inserted (with effect from 1.4.2024) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(6)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/6), [10(4)](https://www.legislation.gov.uk/ssi/2024/272/regulation/10/4)
+[^c-687f241887a301edf304fcc96a7f6ef3]: Textual amendment: Regs. D3(12A)-(12G) inserted (with effect from 1.4.2024) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(6)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/6), [10(4)](https://www.legislation.gov.uk/ssi/2024/272/regulation/10/4)
 
-[^key-84566c9c404563abe037174ba3a134fa]: Textual amendment: Reg. D3(19A) inserted (with effect in accordance with reg. 1(2)(b) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/434)](https://www.legislation.gov.uk/ssi/2017/434), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1), [4(a)](https://www.legislation.gov.uk/ssi/2017/434/regulation/4/a) (with [reg. 19](https://www.legislation.gov.uk/ssi/2017/434/regulation/19))
+[^c-84566c9c404563abe037174ba3a134fa]: Textual amendment: Reg. D3(19A) inserted (with effect in accordance with reg. 1(2)(b) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/434)](https://www.legislation.gov.uk/ssi/2017/434), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1), [4(a)](https://www.legislation.gov.uk/ssi/2017/434/regulation/4/a) (with [reg. 19](https://www.legislation.gov.uk/ssi/2017/434/regulation/19))
 
-[^key-ed9645e6a51310c00b9a940b03059ccd]: Textual amendment: Reg. D3(19B) inserted (with effect in accordance with reg. 1(3) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/30)](https://www.legislation.gov.uk/ssi/2020/30), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/30/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2020/30/regulation/4)
+[^c-ed9645e6a51310c00b9a940b03059ccd]: Textual amendment: Reg. D3(19B) inserted (with effect in accordance with reg. 1(3) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/30)](https://www.legislation.gov.uk/ssi/2020/30), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/30/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2020/30/regulation/4)
 
-[^key-a28b95b23588216d58af402c7091a9ee]: Textual amendment: Regs. D3(19C)-(19G) inserted (with effect from 1.4.2024) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(6)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/6), [10(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/10/5)
+[^c-a28b95b23588216d58af402c7091a9ee]: Textual amendment: Regs. D3(19C)-(19G) inserted (with effect from 1.4.2024) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(6)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/6), [10(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/10/5)
 
-[^key-d10d0b4950407691f6544b355bd563ff]: Textual amendment: Reg. D3(21)(h) omitted (with effect from 1.4.2024) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(6)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/6), [10(6)](https://www.legislation.gov.uk/ssi/2024/272/regulation/10/6)
+[^c-d10d0b4950407691f6544b355bd563ff]: Textual amendment: Reg. D3(21)(h) omitted (with effect from 1.4.2024) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(6)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/6), [10(6)](https://www.legislation.gov.uk/ssi/2024/272/regulation/10/6)
 
-[^key-1752d433efedf40cd122357d6500e3e4]: Textual amendment: Reg. D3(21)(i) and word inserted (with effect in accordance with reg. 1(2)(b) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/434)](https://www.legislation.gov.uk/ssi/2017/434), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1), [4(b)](https://www.legislation.gov.uk/ssi/2017/434/regulation/4/b) (with [reg. 19](https://www.legislation.gov.uk/ssi/2017/434/regulation/19))
+[^c-1752d433efedf40cd122357d6500e3e4]: Textual amendment: Reg. D3(21)(i) and word inserted (with effect in accordance with reg. 1(2)(b) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/434)](https://www.legislation.gov.uk/ssi/2017/434), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1), [4(b)](https://www.legislation.gov.uk/ssi/2017/434/regulation/4/b) (with [reg. 19](https://www.legislation.gov.uk/ssi/2017/434/regulation/19))

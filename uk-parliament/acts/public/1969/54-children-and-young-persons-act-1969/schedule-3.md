@@ -85,7 +85,7 @@ and in a case falling within sub-paragraph (1)(b) of this paragraph any provisio
 
 (2) Without prejudice to any power to vary the provisions of a trust deed relating to a community home consisting of premises designated as mentioned in sub-paragraph (1) of this paragraph, the purpose referred to in that sub-paragraph shall be deemed to be included among the purposes for which the premises are held in accordance with a trust deed relating to that home.
 
-**6.** (1) Where a section 46 order is made in relation to an approved institution (other than an institution provided by a local authority) and, in a regional plan approved by the Secretary of State, the whole or any part of the premises of the institution is designated as a community home to be provided by a local authority, then if the Secretary of State is satisfied that the premises so designated were to a substantial extent provided with the assistance of grants under section 104 of the Act of 1933 or section 20 of the Probation Service Act 1993[^c8361501] or section 3, 5 or 9 of the Criminal Justice and Court Services Act 2000[^c8361511] or under sections 3, 6 or 13 of the Offender Management Act 2007[^key-c2c9e4c34452d7f540abb8bd8bd6c558] , he may, by an authorisation in writing under this paragraph, authorise the transfer of the premises so designated to that local authority.
+**6.** (1) Where a section 46 order is made in relation to an approved institution (other than an institution provided by a local authority) and, in a regional plan approved by the Secretary of State, the whole or any part of the premises of the institution is designated as a community home to be provided by a local authority, then if the Secretary of State is satisfied that the premises so designated were to a substantial extent provided with the assistance of grants under section 104 of the Act of 1933 or section 20 of the Probation Service Act 1993[^c8361501] or section 3, 5 or 9 of the Criminal Justice and Court Services Act 2000[^c8361511] or under sections 3, 6 or 13 of the Offender Management Act 2007[^c-c2c9e4c34452d7f540abb8bd8bd6c558] , he may, by an authorisation in writing under this paragraph, authorise the transfer of the premises so designated to that local authority.
 
 (2) The transfer of any premises in pursuance of an authorisation under this paragraph—
 
@@ -93,7 +93,7 @@ and in a case falling within sub-paragraph (1)(b) of this paragraph any provisio
 - (b) shall not take effect before the specified date; and
 - (c) shall operate to vest the premises transferred in the local authority free from any charitable trust and from any other obligation requiring the use of the premises for the purposes of an approved institution.
 
-(3) Before giving an authorisation under this paragraph authorising the transfer of any premises belonging to a charity or otherwise held on charitable trusts, the Secretary of State shall consult the Charity Commission[^key-5fb230ac9ceee0914580fd73c8eb3a38] .
+(3) Before giving an authorisation under this paragraph authorising the transfer of any premises belonging to a charity or otherwise held on charitable trusts, the Secretary of State shall consult the Charity Commission[^c-5fb230ac9ceee0914580fd73c8eb3a38] .
 
 **7.** The provisions of paragraphs 3 to 6 of this Schedule shall have effect notwithstanding anything in the law relating to charities or in any deed or other instrument regulating the purposes for which any premises may be used.
 
@@ -115,9 +115,9 @@ any such obligation relating to that institution as is referred to in sub-paragr
 - (a) section 104 of the Act of 1933 (expenses of managers of an approved school); [^c8361581]. . .
 - (b) section 20 of the Probation Service Act 1993[^c8361591] (expenditure in connection with approved probation hostels or homes).
 - (c)[^c8361601] section 3 of the Criminal Justice and Court Services Act 2000 (functions of the Secretary of State);
-- (d) section 5 of that Act (functions of local probation boards); [^key-8551ddb235a1e4cbeb096dc8f1283509]...
+- (d) section 5 of that Act (functions of local probation boards); [^c-8551ddb235a1e4cbeb096dc8f1283509]...
 - (e) section 9 of that Act (approved premises),
-- (f)[^key-0ec6722ddc16df48781ef2aaca1f2746] section 6 of the Offender Management Act 2007 (power to make grants for probation purposes etc);
+- (f)[^c-0ec6722ddc16df48781ef2aaca1f2746] section 6 of the Offender Management Act 2007 (power to make grants for probation purposes etc);
 - (g) section 2(1) (responsibility for ensuring the provision of probation services) and section 3 (power to make arrangements for the provision of probation services) of the Offender Management Act 2007; or
 - (h) section 13 of the Offender Management Act 2007 (approved premises).
 
@@ -128,9 +128,9 @@ any such obligation relating to that institution as is referred to in sub-paragr
 - (a) the amount which in his opinion represents the proportion of the total amount of the grants paid in respect of expenditure in connection with the former approved institution which was attributable to expenditure of a capital nature; and
 - (b)[^c8361611] the amount which in his opinion represents the proportion of the contributions paid by local authorities under section 90 of the Act of 1933 or (as the case may be) the proportion of the sums paid by—
   - (i) probation committees under rules made under the Probation Service Act 1993,
-  - (ii) the Secretary of State under section 3 or 9 of the Criminal Justice and Court Services Act 2000, [^key-0c12a6c778e4aaf31d1a0446fb8e8ad9]...
+  - (ii) the Secretary of State under section 3 or 9 of the Criminal Justice and Court Services Act 2000, [^c-0c12a6c778e4aaf31d1a0446fb8e8ad9]...
   - (iii) local probation boards under section 5 of that Act,
-  - (iv)[^key-868cff659703922cfa6214abd30f20eb] the Secretary of State under sections 6 or 13 of the Offender Management Act 2007; and
+  - (iv)[^c-868cff659703922cfa6214abd30f20eb] the Secretary of State under sections 6 or 13 of the Offender Management Act 2007; and
   - (v) providers of probation services under section 3 of the Offender Management Act 2007.
 
   which (in either case) should be treated as having been paid on account of expenditure of a capital nature in connection with the former approved institution;
@@ -151,7 +151,7 @@ any such obligation relating to that institution as is referred to in sub-paragr
 (4) If any liabilities of a voluntary organisation which is the responsible organisation in relation to an assisted community home falling within sub-paragraph (1) of this paragraph were incurred by the organisation before the specified date or were transferred to the organisation by the section 46 order (by virtue of sub-paragraph (3) of this paragraph) and, in either case, had the former approved institution continued to be an approved institution, any expenditure incurred in meeting those liabilities would have been eligible for a grant out of moneys provided by Parliament—
 
 - (a) under section 104(1)(a) of the Act of 1933 as the expenses of the managers of an approved school, or
-- (b) under section 77(3)(b) of the [^c8361691]Criminal Justice Act 1948 or under section 51(3)(c) of the[^c8361701] [^c8361711]Powers of Criminal Courts Act 1973 or under section 20 of the Probation Service Act 1993[^c8361721] or under section 3, 5 or 9 of the Criminal Justice and Court Services Act 2000[^c8361731] or under sections 3, 6 or 13 of the Offender Management Act 2007[^key-a4f1ddf6dc82a97ef851682724dbe939] as expenditure falling within that section and relating to an approved probation hostel or home,
+- (b) under section 77(3)(b) of the [^c8361691]Criminal Justice Act 1948 or under section 51(3)(c) of the[^c8361701] [^c8361711]Powers of Criminal Courts Act 1973 or under section 20 of the Probation Service Act 1993[^c8361721] or under section 3, 5 or 9 of the Criminal Justice and Court Services Act 2000[^c8361731] or under sections 3, 6 or 13 of the Offender Management Act 2007[^c-a4f1ddf6dc82a97ef851682724dbe939] as expenditure falling within that section and relating to an approved probation hostel or home,
 
 then any expenditure incurred after the specified date by the responsible organisation in meeting those liabilities shall be deemed for the purposes of section 65(1) of this Act to be expenditure incurred by the responsible organisation in connection with the assisted community home in question.
 
@@ -189,9 +189,9 @@ then any expenditure incurred after the specified date by the responsible organi
 
 [^c8361511]: Textual amendment: Words in Sch. 3 para. 6(1) substituted (1.4.2001) by [2000 c. 43](https://www.legislation.gov.uk/ukpga/2000/43), [s. 74](https://www.legislation.gov.uk/ukpga/2000/43/section/74), [Sch. 7 Pt. II para. 43(2)](https://www.legislation.gov.uk/ukpga/2000/43/schedule/7/part/II/paragraph/43/2); [S.I. 2001/919](https://www.legislation.gov.uk/uksi/2001/919), [art. 2(f)(ii)](https://www.legislation.gov.uk/uksi/2001/919/article/2/f/ii)
 
-[^key-c2c9e4c34452d7f540abb8bd8bd6c558]: Textual amendment: Words in [Sch. 3 para. 6(1)](https://www.legislation.gov.uk/ukpga/1969/54/schedule/3/paragraph/6/1) inserted (1.4.2008) by [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [art. 1](https://www.legislation.gov.uk/uksi/2008/912/article/1), [Sch. 1 para. 3(3)(a)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/3/3/a)
+[^c-c2c9e4c34452d7f540abb8bd8bd6c558]: Textual amendment: Words in [Sch. 3 para. 6(1)](https://www.legislation.gov.uk/ukpga/1969/54/schedule/3/paragraph/6/1) inserted (1.4.2008) by [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [art. 1](https://www.legislation.gov.uk/uksi/2008/912/article/1), [Sch. 1 para. 3(3)(a)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/3/3/a)
 
-[^key-5fb230ac9ceee0914580fd73c8eb3a38]: Textual amendment: Words in Sch. 3 para. 6(3) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 53](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/53); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
+[^c-5fb230ac9ceee0914580fd73c8eb3a38]: Textual amendment: Words in Sch. 3 para. 6(3) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 53](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/53); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
 
 [^c8361571]: Textual amendment: Word in Sch. 3 para. 9(2) substituted (1.4.2001) by [2000 c. 43](https://www.legislation.gov.uk/ukpga/2000/43), [s. 74](https://www.legislation.gov.uk/ukpga/2000/43/section/74), [Sch. 7 Pt. II para. 43(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2000/43/schedule/7/part/II/paragraph/43/3/a/i); [S.I. 2001/919](https://www.legislation.gov.uk/uksi/2001/919), [art. 2(f)(ii)](https://www.legislation.gov.uk/uksi/2001/919/article/2/f/ii)
 
@@ -201,15 +201,15 @@ then any expenditure incurred after the specified date by the responsible organi
 
 [^c8361601]: Textual amendment: Sch. 3 para. 9(2)(c)-(e) inserted (1.4.2001) by [2000 c. 43](https://www.legislation.gov.uk/ukpga/2000/43), [s. 74](https://www.legislation.gov.uk/ukpga/2000/43/section/74), [Sch. 7 Pt. II para. 43(3)(a)(iii)](https://www.legislation.gov.uk/ukpga/2000/43/schedule/7/part/II/paragraph/43/3/a/iii); [S.I. 2001/919](https://www.legislation.gov.uk/uksi/2001/919), [art. 2(f)(ii)](https://www.legislation.gov.uk/uksi/2001/919/article/2/f/ii)
 
-[^key-8551ddb235a1e4cbeb096dc8f1283509]: Textual amendment: Word in Sch. 3 para. 9(2) omitted (1.4.2008) by virtue of [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [art. 1](https://www.legislation.gov.uk/uksi/2008/912/article/1), [Sch. 1 para. 3(3)(b)(i)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/3/3/b/i)
+[^c-8551ddb235a1e4cbeb096dc8f1283509]: Textual amendment: Word in Sch. 3 para. 9(2) omitted (1.4.2008) by virtue of [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [art. 1](https://www.legislation.gov.uk/uksi/2008/912/article/1), [Sch. 1 para. 3(3)(b)(i)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/3/3/b/i)
 
-[^key-0ec6722ddc16df48781ef2aaca1f2746]: Textual amendment: Sch. 3 para. 9(2)(f)-(h) inserted (1.4.2008) by [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [art. 1](https://www.legislation.gov.uk/uksi/2008/912/article/1), [Sch. 1 para. 3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/3/3/b/ii)
+[^c-0ec6722ddc16df48781ef2aaca1f2746]: Textual amendment: Sch. 3 para. 9(2)(f)-(h) inserted (1.4.2008) by [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [art. 1](https://www.legislation.gov.uk/uksi/2008/912/article/1), [Sch. 1 para. 3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/3/3/b/ii)
 
 [^c8361611]: Textual amendment: Sch. 3 para. 9(4)(b) substituted (1.4.2001) by [2000 c. 43](https://www.legislation.gov.uk/ukpga/2000/43), [s. 74](https://www.legislation.gov.uk/ukpga/2000/43/section/74), [Sch. 7 Pt. II para. 43(3)(b)](https://www.legislation.gov.uk/ukpga/2000/43/schedule/7/part/II/paragraph/43/3/b); [S.I. 2001/919](https://www.legislation.gov.uk/uksi/2001/919), [art. 2(f)(ii)](https://www.legislation.gov.uk/uksi/2001/919/article/2/f/ii)
 
-[^key-0c12a6c778e4aaf31d1a0446fb8e8ad9]: Textual amendment: Word in Sch. 3 para. 9(4)(b) omitted (1.4.2008) by virtue of [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [art. 1](https://www.legislation.gov.uk/uksi/2008/912/article/1), [Sch. 1 para. 3(3)(c)(i)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/3/3/c/i)
+[^c-0c12a6c778e4aaf31d1a0446fb8e8ad9]: Textual amendment: Word in Sch. 3 para. 9(4)(b) omitted (1.4.2008) by virtue of [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [art. 1](https://www.legislation.gov.uk/uksi/2008/912/article/1), [Sch. 1 para. 3(3)(c)(i)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/3/3/c/i)
 
-[^key-868cff659703922cfa6214abd30f20eb]: Textual amendment: Sch. 3 para. 9(4)(b)(iv)(v) inserted (1.4.2008) by [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [art. 1](https://www.legislation.gov.uk/uksi/2008/912/article/1), [Sch. 1 para. 3(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/3/3/c/ii)
+[^c-868cff659703922cfa6214abd30f20eb]: Textual amendment: Sch. 3 para. 9(4)(b)(iv)(v) inserted (1.4.2008) by [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [art. 1](https://www.legislation.gov.uk/uksi/2008/912/article/1), [Sch. 1 para. 3(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/3/3/c/ii)
 
 [^c8361691]: Marginal citation: [1948 c. 58](https://www.legislation.gov.uk/ukpga/1948/58)**(39:1).**
 
@@ -221,4 +221,4 @@ then any expenditure incurred after the specified date by the responsible organi
 
 [^c8361731]: Textual amendment: Words in s. 10(4)(b) inserted (1.4.2001) by [2000 c. 43](https://www.legislation.gov.uk/ukpga/2000/43), [s. 74](https://www.legislation.gov.uk/ukpga/2000/43/section/74), [Sch. 7 Pt. II para. 43(4)](https://www.legislation.gov.uk/ukpga/2000/43/schedule/7/part/II/paragraph/43/4); [S.I. 2001/919](https://www.legislation.gov.uk/uksi/2001/919), [art. 2(f)(ii)](https://www.legislation.gov.uk/uksi/2001/919/article/2/f/ii)
 
-[^key-a4f1ddf6dc82a97ef851682724dbe939]: Textual amendment: Words in [Sch. 3 para. 10(4)(b)](https://www.legislation.gov.uk/ukpga/1969/54/schedule/3/paragraph/10/4/b) inserted (1.4.2008) by [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [art. 1](https://www.legislation.gov.uk/uksi/2008/912/article/1), [Sch. 1 para. 3(3)(d)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/3/3/d)
+[^c-a4f1ddf6dc82a97ef851682724dbe939]: Textual amendment: Words in [Sch. 3 para. 10(4)(b)](https://www.legislation.gov.uk/ukpga/1969/54/schedule/3/paragraph/10/4/b) inserted (1.4.2008) by [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [art. 1](https://www.legislation.gov.uk/uksi/2008/912/article/1), [Sch. 1 para. 3(3)(d)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/3/3/d)

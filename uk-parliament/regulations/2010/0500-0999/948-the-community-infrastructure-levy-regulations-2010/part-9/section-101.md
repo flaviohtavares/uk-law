@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 101. Commitment to prison: further provision[^key-b93b3db4e3817aac780fc2eebf348883]
+## 101. Commitment to prison: further provision[^c-b93b3db4e3817aac780fc2eebf348883]
 
 *Extent: E+W*
 
 (1) A single warrant may not be issued under regulation 100 against more than one person.
 
-(2) Where an application under regulation 100 has been made, and after the making of the inquiries mentioned in paragraph (2) of that regulation no warrant is issued or term of imprisonment fixed, the court may remit all or part of the appropriate amount mentioned in regulation 98(3) *(Extent: E)* *(affected by repeal, see note)*[^key-a9a84f2abfdaa68fb0fc79b1a80fd95a] the amount outstanding (within the meaning of Schedule 12) *(Extent: E)* to which the application relates.
+(2) Where an application under regulation 100 has been made, and after the making of the inquiries mentioned in paragraph (2) of that regulation no warrant is issued or term of imprisonment fixed, the court may remit all or part of the appropriate amount mentioned in regulation 98(3) *(Extent: E)* *(affected by repeal, see note)*[^c-a9a84f2abfdaa68fb0fc79b1a80fd95a] the amount outstanding (within the meaning of Schedule 12) *(Extent: E)* to which the application relates.
 
 (3) Where an application under regulation 100 has been made but no warrant is issued or term of imprisonment fixed, the application may be renewed (except so far as regards any sum remitted under paragraph (2)) on the ground that the circumstances of the debtor have changed.
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b93b3db4e3817aac780fc2eebf348883]: Commencement: Reg. 101 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-b93b3db4e3817aac780fc2eebf348883]: Commencement: Reg. 101 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
 
-[^key-a9a84f2abfdaa68fb0fc79b1a80fd95a]: Textual amendment: Words in [reg. 101(2)](https://www.legislation.gov.uk/uksi/2010/948/regulation/101/2) substituted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [8(5)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/8/5) (with [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/4), [13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
+[^c-a9a84f2abfdaa68fb0fc79b1a80fd95a]: Textual amendment: Words in [reg. 101(2)](https://www.legislation.gov.uk/uksi/2010/948/regulation/101/2) substituted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [8(5)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/8/5) (with [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/4), [13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))

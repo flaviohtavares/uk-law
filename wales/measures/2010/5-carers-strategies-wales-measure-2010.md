@@ -36,58 +36,58 @@ Carers Strategies (Wales) Measure 2010 (repealed)
 
 2010 nawm 5
 
-[^key-26c6e09d1c24f8d9fe7342b4f2db7cf1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-26c6e09d1c24f8d9fe7342b4f2db7cf1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Carers[^key-26c6e09d1c24f8d9fe7342b4f2db7cf1]
+## 1. Carers[^c-26c6e09d1c24f8d9fe7342b4f2db7cf1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Duty to produce strategy[^key-26c6e09d1c24f8d9fe7342b4f2db7cf1]
+## 2. Duty to produce strategy[^c-26c6e09d1c24f8d9fe7342b4f2db7cf1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Appropriate information and advice[^key-26c6e09d1c24f8d9fe7342b4f2db7cf1]
+## 3. Appropriate information and advice[^c-26c6e09d1c24f8d9fe7342b4f2db7cf1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Consultation[^key-26c6e09d1c24f8d9fe7342b4f2db7cf1]
+## 4. Consultation[^c-26c6e09d1c24f8d9fe7342b4f2db7cf1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Further provision about strategies[^key-26c6e09d1c24f8d9fe7342b4f2db7cf1]
+## 5. Further provision about strategies[^c-26c6e09d1c24f8d9fe7342b4f2db7cf1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Submission of draft strategy to Welsh Ministers[^key-26c6e09d1c24f8d9fe7342b4f2db7cf1]
+## 6. Submission of draft strategy to Welsh Ministers[^c-26c6e09d1c24f8d9fe7342b4f2db7cf1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Public access to strategy[^key-26c6e09d1c24f8d9fe7342b4f2db7cf1]
+## 7. Public access to strategy[^c-26c6e09d1c24f8d9fe7342b4f2db7cf1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Power to add further relevant authorities[^key-26c6e09d1c24f8d9fe7342b4f2db7cf1]
+## 8. Power to add further relevant authorities[^c-26c6e09d1c24f8d9fe7342b4f2db7cf1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment to the Local Authority Social Services Act 1970[^key-26c6e09d1c24f8d9fe7342b4f2db7cf1]
+## 9. Amendment to the Local Authority Social Services Act 1970[^c-26c6e09d1c24f8d9fe7342b4f2db7cf1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Orders and regulations[^key-26c6e09d1c24f8d9fe7342b4f2db7cf1]
+## 10. Orders and regulations[^c-26c6e09d1c24f8d9fe7342b4f2db7cf1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Commencement[^key-26c6e09d1c24f8d9fe7342b4f2db7cf1]
+## 11. Commencement[^c-26c6e09d1c24f8d9fe7342b4f2db7cf1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Short title[^key-26c6e09d1c24f8d9fe7342b4f2db7cf1]
+## 12. Short title[^c-26c6e09d1c24f8d9fe7342b4f2db7cf1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-26c6e09d1c24f8d9fe7342b4f2db7cf1]: Textual amendment: [Measure](https://www.legislation.gov.uk/mwa/2010/5) repealed (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [reg. 279](https://www.legislation.gov.uk/wsi/2016/413/regulation/279)
+[^c-26c6e09d1c24f8d9fe7342b4f2db7cf1]: Textual amendment: [Measure](https://www.legislation.gov.uk/mwa/2010/5) repealed (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [reg. 279](https://www.legislation.gov.uk/wsi/2016/413/regulation/279)

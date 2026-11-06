@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Where NHS England[^key-fedf3951d93bcf656ad03378f887d7d5]—
+(1) Where NHS England[^c-fedf3951d93bcf656ad03378f887d7d5]—
 
 - (a) refuses an application from a person (P) by virtue of regulation 33;
 - (b) grants an application subject to conditions imposed on P by virtue of regulation 35;
@@ -42,7 +42,7 @@ NHS England must notify the persons listed in paragraph (2) that it has done so.
 - (e) the Northern Ireland Executive;
 - (f) the General Pharmaceutical Council;
 - (g) any Local Pharmaceutical Committee for the area of the relevant HWB (including any Local Pharmaceutical Committee for part of its area or for its area and that of all or part of the area of one or more other HWBs);
-- (h) in a case that is or may be a fraud case, the NHS CFA[^key-3a19ee5fa1f8f906afafff490d597dbb]; and
+- (h) in a case that is or may be a fraud case, the NHS CFA[^c-3a19ee5fa1f8f906afafff490d597dbb]; and
 - (i) any person who may and does request to be notified of an adverse fitness decision as regards P.
 
 (3) A person (Q) comes within paragraph (2)(i) if Q establishes to the satisfaction of NHS England (or before the appointed day the relevant Primary Care Trust) that Q—
@@ -79,10 +79,10 @@ NHS England terminates the suspension or removes the condition, NHS England must
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^c21647081]: Marginal citation: [Section 151](https://www.legislation.gov.uk/uksi/2013/349/section/151) has been amended by the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7) (“**the 2012 Act**”), Schedule 4, paragraph 79. Section 152 has been amended by the 2012 Act, Schedule 4, paragraph 80.
 
 [^c21647091]: Marginal citation: [Section 154](https://www.legislation.gov.uk/uksi/2013/349/section/154) has been amended by the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7) (“**the 2012 Act**”), Schedule 4, paragraph 81, and by [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22). Section 155 has been amended by the 2012 Act, Schedule 4, paragraph 82, and by [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22).
 
-[^key-3a19ee5fa1f8f906afafff490d597dbb]: Textual amendment: Words in [reg. 88(2)(h)](https://www.legislation.gov.uk/uksi/2013/349/regulation/88/2/h) substituted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2025/989/regulation/6)
+[^c-3a19ee5fa1f8f906afafff490d597dbb]: Textual amendment: Words in [reg. 88(2)(h)](https://www.legislation.gov.uk/uksi/2013/349/regulation/88/2/h) substituted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2025/989/regulation/6)

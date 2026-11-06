@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Disapplication and modification of statutory provisions[^key-85c72a677b72be905c9204a70e014328]
+## 6. Disapplication and modification of statutory provisions[^c-85c72a677b72be905c9204a70e014328]
 
 *Extent: E+W*
 
@@ -52,7 +52,7 @@ then the construction, maintenance, use or operation of that development under t
 
 ## Annotations
 
-[^key-85c72a677b72be905c9204a70e014328]: Commencement: Art. 6 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-85c72a677b72be905c9204a70e014328]: Commencement: Art. 6 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
 [^f00028]: Footnote: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59). Section 23 was amended by paragraph 192(2) of Schedule 22 to the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), paragraphs 25 and 32 of Schedule 2 to the Flood and Water Management Act [2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29) and [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. The Plant Health (Fees) (Forestry) (England and Scotland) Regulations 2015[^key-e3068b756c9487fc13c7acf38cb356ab]
+## 3. The Plant Health (Fees) (Forestry) (England and Scotland) Regulations 2015[^c-e3068b756c9487fc13c7acf38cb356ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e3068b756c9487fc13c7acf38cb356ab]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
+[^c-e3068b756c9487fc13c7acf38cb356ab]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
 
 [^c24374881]: Marginal citation: [S.I. 2015/350](https://www.legislation.gov.uk/uksi/2015/350), amended by [S.I. 2019/1488](https://www.legislation.gov.uk/uksi/2019/1488), 1517; there are other amending instruments but none is relevant.
 

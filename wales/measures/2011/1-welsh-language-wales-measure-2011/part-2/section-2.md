@@ -20,18 +20,18 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-3e103da4a0e88afba588e045c05842cc] There is to be a Welsh Language Commissioner (referred to in this Measure as “the Commissioner”).
+(1)[^c-3e103da4a0e88afba588e045c05842cc] There is to be a Welsh Language Commissioner (referred to in this Measure as “the Commissioner”).
 
-(2)[^key-0754088771582c07545b3517d433a353][^key-85a6786a703bfe71ccad6e7801ae9ed0] The First Minister must appoint the Commissioner.
+(2)[^c-0754088771582c07545b3517d433a353][^c-85a6786a703bfe71ccad6e7801ae9ed0] The First Minister must appoint the Commissioner.
 
-(3)[^key-0754088771582c07545b3517d433a353][^key-85a6786a703bfe71ccad6e7801ae9ed0] Schedule 1 makes further provision about the Commissioner.
+(3)[^c-0754088771582c07545b3517d433a353][^c-85a6786a703bfe71ccad6e7801ae9ed0] Schedule 1 makes further provision about the Commissioner.
 
-(4)[^key-3e103da4a0e88afba588e045c05842cc] For provision about the integrity of the Commissioner, see Chapter 1 of Part 8.
+(4)[^c-3e103da4a0e88afba588e045c05842cc] For provision about the integrity of the Commissioner, see Chapter 1 of Part 8.
 
 ## Annotations
 
-[^key-3e103da4a0e88afba588e045c05842cc]: Commencement: [S. 2(1)](https://www.legislation.gov.uk/mwa/2011/1/section/2/1)[(4)](https://www.legislation.gov.uk/mwa/2011/1/section/2/4) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/969/article/2/a)
+[^c-3e103da4a0e88afba588e045c05842cc]: Commencement: [S. 2(1)](https://www.legislation.gov.uk/mwa/2011/1/section/2/1)[(4)](https://www.legislation.gov.uk/mwa/2011/1/section/2/4) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/969/article/2/a)
 
-[^key-0754088771582c07545b3517d433a353]: Commencement: [S. 2(2)](https://www.legislation.gov.uk/mwa/2011/1/section/2/2)[(3)](https://www.legislation.gov.uk/mwa/2011/1/section/2/3) in force at 28.6.2011 for specified purposes by [S.I. 2011/1586](https://www.legislation.gov.uk/wsi/2011/1586), [art. 2(a)](https://www.legislation.gov.uk/wsi/2011/1586/article/2/a)
+[^c-0754088771582c07545b3517d433a353]: Commencement: [S. 2(2)](https://www.legislation.gov.uk/mwa/2011/1/section/2/2)[(3)](https://www.legislation.gov.uk/mwa/2011/1/section/2/3) in force at 28.6.2011 for specified purposes by [S.I. 2011/1586](https://www.legislation.gov.uk/wsi/2011/1586), [art. 2(a)](https://www.legislation.gov.uk/wsi/2011/1586/article/2/a)
 
-[^key-85a6786a703bfe71ccad6e7801ae9ed0]: Commencement: [S. 2(2)](https://www.legislation.gov.uk/mwa/2011/1/section/2/2)[(3)](https://www.legislation.gov.uk/mwa/2011/1/section/2/3) in force at 1.4.2012 in so far as not already in force by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/969/article/2/a)
+[^c-85a6786a703bfe71ccad6e7801ae9ed0]: Commencement: [S. 2(2)](https://www.legislation.gov.uk/mwa/2011/1/section/2/2)[(3)](https://www.legislation.gov.uk/mwa/2011/1/section/2/3) in force at 1.4.2012 in so far as not already in force by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/969/article/2/a)

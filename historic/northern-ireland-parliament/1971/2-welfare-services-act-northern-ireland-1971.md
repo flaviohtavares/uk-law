@@ -46,7 +46,7 @@ An Act to consolidate certain enactments relating to welfare services.
 
 (4) A \[[^c5455111] district council\] …. …[^c5455171] may recover from the estate of the deceased person, or from any person who, for the purposes of \[[^c5455111] the Health and Personal Social Services (Northern Ireland) Order 1972 [^m00001]\], was liable to maintain the deceased person immediately before his death, expenses incurred under subsection (1)…[^c5455191][^c5455201]. . . .
 
-(5)[^key-4e12351d38dcb4d93da5858953d05bc9][^key-6768eb5df4105dc84d43ef96efb7dc3d] Nothing in the foregoing provisions of this section shall affect any enactment regulating or authorising the burial, cremation or anatomical examination of the body of a deceased person; and a body shall not be cremated under this section where the \[[^c5455111] district council\] has reason to believe that cremation would be contrary to the wishes of the deceased.
+(5)[^c-4e12351d38dcb4d93da5858953d05bc9][^c-6768eb5df4105dc84d43ef96efb7dc3d] Nothing in the foregoing provisions of this section shall affect any enactment regulating or authorising the burial, cremation or anatomical examination of the body of a deceased person; and a body shall not be cremated under this section where the \[[^c5455111] district council\] has reason to believe that cremation would be contrary to the wishes of the deceased.
 
 *Ss.26‐29 rep. by 1972 NI 14*
 
@@ -78,6 +78,6 @@ An Act to consolidate certain enactments relating to welfare services.
 
 [^c5455201]: Textual amendment: [1986 NI 18](https://www.legislation.gov.uk/nisi/1986)
 
-[^key-4e12351d38dcb4d93da5858953d05bc9]: Modification: S. 25(5) excluded (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 28 para. 13(4)(b)](https://www.legislation.gov.uk/ukpga/2020/7/schedule/28/paragraph/13/4/b) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
+[^c-4e12351d38dcb4d93da5858953d05bc9]: Modification: S. 25(5) excluded (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 28 para. 13(4)(b)](https://www.legislation.gov.uk/ukpga/2020/7/schedule/28/paragraph/13/4/b) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
 
-[^key-6768eb5df4105dc84d43ef96efb7dc3d]: Modification: [S. 25(5)](https://www.legislation.gov.uk/apni/1971/2/section/25/5) expiry of earlier affecting provision 2020 c. 7, Sch. 28 para. 13 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-6768eb5df4105dc84d43ef96efb7dc3d]: Modification: [S. 25(5)](https://www.legislation.gov.uk/apni/1971/2/section/25/5) expiry of earlier affecting provision 2020 c. 7, Sch. 28 para. 13 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))

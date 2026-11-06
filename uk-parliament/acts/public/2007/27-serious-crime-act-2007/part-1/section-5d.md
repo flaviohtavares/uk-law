@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5D. Data from electronic monitoring: code of practice[^key-0c137f0edde2d1f4479247b8ca6a67da]
+## 5D. Data from electronic monitoring: code of practice[^c-0c137f0edde2d1f4479247b8ca6a67da]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c137f0edde2d1f4479247b8ca6a67da]: Textual amendment: [Ss. 5B-5D](https://www.legislation.gov.uk/ukpga/2007/27/section/5B) inserted (2.12.2025 for specified purposes) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 55(2)](https://www.legislation.gov.uk/ukpga/2025/31/section/55/2), [65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
+[^c-0c137f0edde2d1f4479247b8ca6a67da]: Textual amendment: [Ss. 5B-5D](https://www.legislation.gov.uk/ukpga/2007/27/section/5B) inserted (2.12.2025 for specified purposes) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 55(2)](https://www.legislation.gov.uk/ukpga/2025/31/section/55/2), [65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)

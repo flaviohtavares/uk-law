@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Power to make provision by development order in respect of applications to Welsh Ministers[^c22542811][^key-b84df66e7b6eeb51f092dd6c472e2358]
+## 25. Power to make provision by development order in respect of applications to Welsh Ministers[^c22542811][^c-b84df66e7b6eeb51f092dd6c472e2358]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ In TCPA 1990, after section 62Q (as inserted by section 24) insert—
 
 [^c22542811]: Commencement: [S. 25](https://www.legislation.gov.uk/anaw/2015/4/section/25) partly in force; [s. 25](https://www.legislation.gov.uk/anaw/2015/4/section/25) in force for specified purposes at 6.9.2015, see [s. 58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b)
 
-[^key-b84df66e7b6eeb51f092dd6c472e2358]: Commencement: [S. 25](https://www.legislation.gov.uk/anaw/2015/4/section/25) in force at 1.3.2016 for specified purposes by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 3(a)](https://www.legislation.gov.uk/wsi/2016/52/article/3/a)
+[^c-b84df66e7b6eeb51f092dd6c472e2358]: Commencement: [S. 25](https://www.legislation.gov.uk/anaw/2015/4/section/25) in force at 1.3.2016 for specified purposes by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 3(a)](https://www.legislation.gov.uk/wsi/2016/52/article/3/a)

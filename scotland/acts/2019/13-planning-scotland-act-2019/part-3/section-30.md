@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Determination of applications: statement to accompany notification[^key-2c46c0b289357f0ab7778c61fc969106]
+## 30. Determination of applications: statement to accompany notification[^c-2c46c0b289357f0ab7778c61fc969106]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c46c0b289357f0ab7778c61fc969106]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2019/13/section/30) in force at 1.3.2020 by [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 3](https://www.legislation.gov.uk/ssi/2019/385/regulation/3)
+[^c-2c46c0b289357f0ab7778c61fc969106]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2019/13/section/30) in force at 1.3.2020 by [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 3](https://www.legislation.gov.uk/ssi/2019/385/regulation/3)

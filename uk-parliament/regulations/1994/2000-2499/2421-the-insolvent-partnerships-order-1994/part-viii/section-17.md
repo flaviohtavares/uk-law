@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Forms[^key-f3e7c8000427ae84014d410dcc06dee6]
+## 17. Forms[^c-f3e7c8000427ae84014d410dcc06dee6]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3e7c8000427ae84014d410dcc06dee6]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/1994/2421/article/17) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
+[^c-f3e7c8000427ae84014d410dcc06dee6]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/1994/2421/article/17) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)

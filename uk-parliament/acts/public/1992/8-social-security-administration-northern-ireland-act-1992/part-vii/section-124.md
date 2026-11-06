@@ -22,9 +22,9 @@ summary: ''
 
 (1) Regulations may make provision requiring an employer in prescribed circumstances to furnish information in connection with the making of a claim by a woman who is or has been his employee for—
 
-- (za)[^key-6c8901949bcc1ba2fcf826fb9ba309bb] universal credit;
+- (za)[^c-6c8901949bcc1ba2fcf826fb9ba309bb] universal credit;
 - (a) a maternity allowance;
-- (aa)[^key-994e4846678c22d69c34b2861691ff0e] an employment and support allowance;
+- (aa)[^c-994e4846678c22d69c34b2861691ff0e] an employment and support allowance;
 - (b) short-term incapacity benefit[^c14901321];
 - (c) a long-term incapacity benefit under section 30A[^c14901331], 40 or 41 of the Contributions and Benefits Act; [^c14901341]. . .
 - (d)[^c14901341] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -45,13 +45,13 @@ summary: ''
   to furnish to the Department or the Inland Revenue (as the regulations may require)[^c14901371], within a prescribed period, any information required for the determination of any question arising in connection therewith; and
 - (c) may require persons who have made payments of statutory maternity pay to furnish to the Department or the Inland Revenue (as the regulations may require) such documents and information, at such times, as may be prescribed.
 
-(4)[^key-47f4ea10f4c69bcf684a45c986a961ca] Regulations made with the concurrence of the Inland Revenue may require employers to produce wages sheets and other documents and records to officers of the Inland Revenue, within a prescribed period, for the purpose of enabling them to satisfy themselves that statutory maternity pay has been paid, and is being paid, in accordance with regulations under section 5 above, to employees or former employees who are entitled to it.
+(4)[^c-47f4ea10f4c69bcf684a45c986a961ca] Regulations made with the concurrence of the Inland Revenue may require employers to produce wages sheets and other documents and records to officers of the Inland Revenue, within a prescribed period, for the purpose of enabling them to satisfy themselves that statutory maternity pay has been paid, and is being paid, in accordance with regulations under section 5 above, to employees or former employees who are entitled to it.
 
 ## Annotations
 
-[^key-6c8901949bcc1ba2fcf826fb9ba309bb]: Textual amendment: [S. 124(1)(za)](https://www.legislation.gov.uk/ukpga/1992/8/section/124/1/za) inserted (27.9.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 2 para. 18](https://www.legislation.gov.uk/nisi/2015/2006/schedule/2/paragraph/18); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 4(1)](https://www.legislation.gov.uk/nisr/2017/190/article/4/1)[(2)(g)(ii)](https://www.legislation.gov.uk/nisr/2017/190/article/4/2/g/ii)
+[^c-6c8901949bcc1ba2fcf826fb9ba309bb]: Textual amendment: [S. 124(1)(za)](https://www.legislation.gov.uk/ukpga/1992/8/section/124/1/za) inserted (27.9.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 2 para. 18](https://www.legislation.gov.uk/nisi/2015/2006/schedule/2/paragraph/18); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 4(1)](https://www.legislation.gov.uk/nisr/2017/190/article/4/1)[(2)(g)(ii)](https://www.legislation.gov.uk/nisr/2017/190/article/4/2/g/ii)
 
-[^key-994e4846678c22d69c34b2861691ff0e]: Textual amendment: S. 124(1)(aa) inserted (27.10.2008) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [s. 60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1), [Sch. 3 para. 4(18)](https://www.legislation.gov.uk/nia/2007/2/schedule/3/paragraph/4/18); [S.R. 2008/276](https://www.legislation.gov.uk/nisr/2008/276), [art. 2(2)(d)](https://www.legislation.gov.uk/nisr/2008/276/article/2/2/d), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2008/276/schedule/part/2)
+[^c-994e4846678c22d69c34b2861691ff0e]: Textual amendment: S. 124(1)(aa) inserted (27.10.2008) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [s. 60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1), [Sch. 3 para. 4(18)](https://www.legislation.gov.uk/nia/2007/2/schedule/3/paragraph/4/18); [S.R. 2008/276](https://www.legislation.gov.uk/nisr/2008/276), [art. 2(2)(d)](https://www.legislation.gov.uk/nisr/2008/276/article/2/2/d), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2008/276/schedule/part/2)
 
 [^c14901321]: Textual amendment: Words in s. 124(1)(b) substituted (13.4.1995) by [S.I. 1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898), [art. 13(1)](https://www.legislation.gov.uk/nisi/1994/1898/article/13/1), [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisi/1994/1898/schedule/1/part/II), [para. 49(a)](https://www.legislation.gov.uk/nisi/1994/1898/paragraph/49/a); [S.R. 1994/450](https://www.legislation.gov.uk/nisr/1994/450), [art. 2](https://www.legislation.gov.uk/nisr/1994/450/article/2), [Sch. Pt. IV](https://www.legislation.gov.uk/nisr/1994/450/schedule/part/IV)
 
@@ -63,4 +63,4 @@ summary: ''
 
 [^c14901371]: Textual amendment: Words in s. 124(3)(b)(c) inserted (24.3.1999 for certain purposes, otherwise 1.4.1999) by [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/671/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/1999/671/article/3/1), [Sch. 1 para. 30(b)](https://www.legislation.gov.uk/uksi/1999/671/schedule/1/paragraph/30/b); [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (subject to arts. 3-6 of the said S.R.)
 
-[^key-47f4ea10f4c69bcf684a45c986a961ca]: Textual amendment: S. 124(4) inserted (1.1.2005) by [National Insurance Contributions and Statutory Payments Act 2004 (c. 3)](https://www.legislation.gov.uk/ukpga/2004/3), [ss. 10(3)](https://www.legislation.gov.uk/ukpga/2004/3/section/10/3), [13](https://www.legislation.gov.uk/ukpga/2004/3/section/13); [S.I. 2004/1943](https://www.legislation.gov.uk/uksi/2004/1943), [art. 3(b)](https://www.legislation.gov.uk/uksi/2004/1943/article/3/b)
+[^c-47f4ea10f4c69bcf684a45c986a961ca]: Textual amendment: S. 124(4) inserted (1.1.2005) by [National Insurance Contributions and Statutory Payments Act 2004 (c. 3)](https://www.legislation.gov.uk/ukpga/2004/3), [ss. 10(3)](https://www.legislation.gov.uk/ukpga/2004/3/section/10/3), [13](https://www.legislation.gov.uk/ukpga/2004/3/section/13); [S.I. 2004/1943](https://www.legislation.gov.uk/uksi/2004/1943), [art. 3(b)](https://www.legislation.gov.uk/uksi/2004/1943/article/3/b)

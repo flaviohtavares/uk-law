@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Community governors[^key-d410a318b41948f3b56f01c26239921d]
+## 18. Community governors[^c-d410a318b41948f3b56f01c26239921d]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d410a318b41948f3b56f01c26239921d]: Commencement: Reg. 18 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-d410a318b41948f3b56f01c26239921d]: Commencement: Reg. 18 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

@@ -52,13 +52,13 @@ except in pursuance of a direction given by the Secretary of State.
 
 (7) A general lighthouse authority may sell or lease[^c14527791] any land belonging to them.
 
-(8)[^key-abd1e9849eb5d489ce2fb7cbfc913d16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-abd1e9849eb5d489ce2fb7cbfc913d16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-abd1e9849eb5d489ce2fb7cbfc913d16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-abd1e9849eb5d489ce2fb7cbfc913d16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-abd1e9849eb5d489ce2fb7cbfc913d16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-abd1e9849eb5d489ce2fb7cbfc913d16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-abd1e9849eb5d489ce2fb7cbfc913d16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-abd1e9849eb5d489ce2fb7cbfc913d16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -72,4 +72,4 @@ except in pursuance of a direction given by the Secretary of State.
 
 [^c14527791]: Textual amendment: Words in s. 197(7) inserted (17.7.1997) by [1997 c. 28](https://www.legislation.gov.uk/ukpga/1997/28), [s. 19(1)](https://www.legislation.gov.uk/ukpga/1997/28/section/19/1); [S.I. 1997/1539](https://www.legislation.gov.uk/uksi/1997/1539), [art. 2](https://www.legislation.gov.uk/uksi/1997/1539/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1997/1539/schedule)
 
-[^key-abd1e9849eb5d489ce2fb7cbfc913d16]: Textual amendment: [S. 197(8)-(11)](https://www.legislation.gov.uk/ukpga/1995/21/section/197/8) omitted (26.6.2013) by virtue of [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 9(2)](https://www.legislation.gov.uk/ukpga/2013/23/section/9/2), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 2](https://www.legislation.gov.uk/uksi/2013/1489/article/2)
+[^c-abd1e9849eb5d489ce2fb7cbfc913d16]: Textual amendment: [S. 197(8)-(11)](https://www.legislation.gov.uk/ukpga/1995/21/section/197/8) omitted (26.6.2013) by virtue of [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 9(2)](https://www.legislation.gov.uk/ukpga/2013/23/section/9/2), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 2](https://www.legislation.gov.uk/uksi/2013/1489/article/2)

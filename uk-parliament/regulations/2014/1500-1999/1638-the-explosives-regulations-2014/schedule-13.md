@@ -125,7 +125,7 @@ Regulation 33 of the Dangerous Substances in Harbour Areas Regulations 1987 [^c2
 
 (1) Schedule 1 to the Planning (Hazardous Substances) Regulations 1992 [^c22151251] (hazardous substances and controlled quantities) is amended as follows.
 
-(2)[^key-65292715989790fbb18eead201507706] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-65292715989790fbb18eead201507706] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In column 1 of entry number 54 in Part A as it applies in Wales, for paragraph (1) substitute—
 
@@ -138,7 +138,7 @@ Regulation 33 of the Dangerous Substances in Harbour Areas Regulations 1987 [^c2
 
 .
 
-(4)[^key-0b865796ad24d0bbd3f510bb0ca99920] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-0b865796ad24d0bbd3f510bb0ca99920] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In Part B as it applies in Wales—
 
@@ -584,9 +584,9 @@ The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013 [
 
 [^c22151251]: Marginal citation: [S.I. 1992/656](https://www.legislation.gov.uk/uksi/1992/656); relevant amending instruments are [S.I. 2009/1901](https://www.legislation.gov.uk/uksi/2009/1901) (in relation to England), 2010/450 (W.48) (in relation to Wales) and 2014/469.
 
-[^key-65292715989790fbb18eead201507706]: Textual amendment: [Sch. 13 para. 14(2)](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/14/2) revoked (E.) (1.6.2015) by [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/2015/627/regulation/28) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))
+[^c-65292715989790fbb18eead201507706]: Textual amendment: [Sch. 13 para. 14(2)](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/14/2) revoked (E.) (1.6.2015) by [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/2015/627/regulation/28) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))
 
-[^key-0b865796ad24d0bbd3f510bb0ca99920]: Textual amendment: [Sch. 13 para. 14(4)](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/14/4) revoked (E.) (1.6.2015) by [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/2015/627/regulation/28) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))
+[^c-0b865796ad24d0bbd3f510bb0ca99920]: Textual amendment: [Sch. 13 para. 14(4)](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/14/4) revoked (E.) (1.6.2015) by [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/2015/627/regulation/28) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))
 
 [^c22151261]: Marginal citation: [S.I. 1993/208](https://www.legislation.gov.uk/uksi/1993/208), amended by [S.I. 2005/1082](https://www.legislation.gov.uk/uksi/2005/1082); there are other amending instruments but none is relevant.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Category 1 territories not applying Trade and Cooperation Agreement to old cases[^key-6e2192ad47c15194d239a6fd2209aac3]
+## 13. Category 1 territories not applying Trade and Cooperation Agreement to old cases[^c-6e2192ad47c15194d239a6fd2209aac3]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e2192ad47c15194d239a6fd2209aac3]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2020/29/section/13) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/l)
+[^c-6e2192ad47c15194d239a6fd2209aac3]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2020/29/section/13) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/l)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Access to evidence at inquiry[^key-1b2ac07757c144ebc0ceef12666e3bdc][^key-0a6b4808bd704ba53d0338727bb2f771]
+## 48. Access to evidence at inquiry[^c-1b2ac07757c144ebc0ceef12666e3bdc][^c-0a6b4808bd704ba53d0338727bb2f771]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1b2ac07757c144ebc0ceef12666e3bdc]: Commencement: S. 48 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
+[^c-1b2ac07757c144ebc0ceef12666e3bdc]: Commencement: S. 48 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
 
-[^key-0a6b4808bd704ba53d0338727bb2f771]: Commencement: [S. 48](https://www.legislation.gov.uk/asc/2024/3/section/48) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(b)](https://www.legislation.gov.uk/wsi/2025/698/article/3/b)
+[^c-0a6b4808bd704ba53d0338727bb2f771]: Commencement: [S. 48](https://www.legislation.gov.uk/asc/2024/3/section/48) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(b)](https://www.legislation.gov.uk/wsi/2025/698/article/3/b)

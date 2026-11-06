@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Final offer orders: supplementary[^key-40e7d76e523d90bb1a5378f6e6c89ad7][^key-e36ca80f458f0450eaad97dd6031deb6]
+## 42. Final offer orders: supplementary[^c-40e7d76e523d90bb1a5378f6e6c89ad7][^c-e36ca80f458f0450eaad97dd6031deb6]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-40e7d76e523d90bb1a5378f6e6c89ad7]: Commencement: S. 42 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-40e7d76e523d90bb1a5378f6e6c89ad7]: Commencement: S. 42 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-e36ca80f458f0450eaad97dd6031deb6]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2024/13/section/42) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-e36ca80f458f0450eaad97dd6031deb6]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2024/13/section/42) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

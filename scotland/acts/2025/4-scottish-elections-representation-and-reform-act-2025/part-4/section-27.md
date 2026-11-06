@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Power of Presiding Officer to postpone ordinary election[^key-acb77de921bc489fb56578b823fc5019][^key-6ed95101afeaad5865863775bc8daa79]
+## 27. Power of Presiding Officer to postpone ordinary election[^c-acb77de921bc489fb56578b823fc5019][^c-6ed95101afeaad5865863775bc8daa79]
 
 *Extent: S*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-acb77de921bc489fb56578b823fc5019]: Commencement: S. 27 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-acb77de921bc489fb56578b823fc5019]: Commencement: S. 27 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-6ed95101afeaad5865863775bc8daa79]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2025/4/section/27) in force at 1.10.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)
+[^c-6ed95101afeaad5865863775bc8daa79]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2025/4/section/27) in force at 1.10.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)

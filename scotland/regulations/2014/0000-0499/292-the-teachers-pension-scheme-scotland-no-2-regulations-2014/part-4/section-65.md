@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Account established after phased retirement pension ceases to be payable[^key-ba12c3c5686cfebc402e02f9dc332e92]
+## 65. Account established after phased retirement pension ceases to be payable[^c-ba12c3c5686cfebc402e02f9dc332e92]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ If a phased retirement pension ceases to be payable under regulation 94 and P do
 
 ## Annotations
 
-[^key-ba12c3c5686cfebc402e02f9dc332e92]: Commencement: [Reg. 65](https://www.legislation.gov.uk/ssi/2014/292/regulation/65) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-ba12c3c5686cfebc402e02f9dc332e92]: Commencement: [Reg. 65](https://www.legislation.gov.uk/ssi/2014/292/regulation/65) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

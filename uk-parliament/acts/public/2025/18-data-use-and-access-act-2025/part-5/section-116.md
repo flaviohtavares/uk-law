@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Codes of conduct[^key-d99c711891ac79c0f262ca39e8faad7c][^key-65f48e427d698b8c34e6edc451196856]
+## 116. Codes of conduct[^c-d99c711891ac79c0f262ca39e8faad7c][^c-65f48e427d698b8c34e6edc451196856]
 
 *Extent: E+W+S+N.I.*
 
@@ -110,6 +110,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d99c711891ac79c0f262ca39e8faad7c]: Commencement: S. 116 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-d99c711891ac79c0f262ca39e8faad7c]: Commencement: S. 116 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-65f48e427d698b8c34e6edc451196856]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2025/18/section/116) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z)
+[^c-65f48e427d698b8c34e6edc451196856]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2025/18/section/116) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z)

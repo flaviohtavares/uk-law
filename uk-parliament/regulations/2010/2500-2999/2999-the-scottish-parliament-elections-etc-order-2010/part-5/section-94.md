@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Correction of procedural errors[^key-c6bd030a968d6b52d09eea6c6b3599ad]
+## 94. Correction of procedural errors[^c-c6bd030a968d6b52d09eea6c6b3599ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6bd030a968d6b52d09eea6c6b3599ad]: Commencement: Art. 94 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-c6bd030a968d6b52d09eea6c6b3599ad]: Commencement: Art. 94 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

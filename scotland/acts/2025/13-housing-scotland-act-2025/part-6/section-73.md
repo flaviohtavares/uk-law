@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Advisory panel: removal of funding cap[^key-6e5173ecdcd2c4735bd95ed2e24b397a][^key-24f0c99803c9f072060bfaafe3ce930a]
+## 73. Advisory panel: removal of funding cap[^c-6e5173ecdcd2c4735bd95ed2e24b397a][^c-24f0c99803c9f072060bfaafe3ce930a]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6e5173ecdcd2c4735bd95ed2e24b397a]: Commencement: S. 73 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-6e5173ecdcd2c4735bd95ed2e24b397a]: Commencement: S. 73 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-24f0c99803c9f072060bfaafe3ce930a]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2025/13/section/73) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-24f0c99803c9f072060bfaafe3ce930a]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2025/13/section/73) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

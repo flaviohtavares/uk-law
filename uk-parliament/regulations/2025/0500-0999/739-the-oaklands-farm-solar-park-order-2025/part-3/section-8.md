@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Street works[^key-abb651072a217c5fc7584305135f0322]
+## 8. Street works[^c-abb651072a217c5fc7584305135f0322]
 
 *Extent: E+W*
 
-(1) The undertaker may for the purposes of the authorised development, enter on so much of any of the streets specified in Schedule 2 (streets subject to street works) as is within the Order limits[^key-2405cfbb5ec51f9927925bfe888a23e9] and may—
+(1) The undertaker may for the purposes of the authorised development, enter on so much of any of the streets specified in Schedule 2 (streets subject to street works) as is within the Order limits[^c-2405cfbb5ec51f9927925bfe888a23e9] and may—
 
 - (a) break up or open the street, or any sewer, drain or tunnel under it;
 - (b) drill, tunnel or bore under the street;
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-abb651072a217c5fc7584305135f0322]: Commencement: Art. 8 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-abb651072a217c5fc7584305135f0322]: Commencement: Art. 8 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-2405cfbb5ec51f9927925bfe888a23e9]: Textual amendment: Words in [art. 8(1)](https://www.legislation.gov.uk/uksi/2025/739/article/8/1) substituted (9.10.2025) by [The Oaklands Farm Solar Park (Correction) Order 2025 (S.I. 2025/1070)](https://www.legislation.gov.uk/uksi/2025/1070), [art. 1](https://www.legislation.gov.uk/uksi/2025/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1070/schedule)
+[^c-2405cfbb5ec51f9927925bfe888a23e9]: Textual amendment: Words in [art. 8(1)](https://www.legislation.gov.uk/uksi/2025/739/article/8/1) substituted (9.10.2025) by [The Oaklands Farm Solar Park (Correction) Order 2025 (S.I. 2025/1070)](https://www.legislation.gov.uk/uksi/2025/1070), [art. 1](https://www.legislation.gov.uk/uksi/2025/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1070/schedule)

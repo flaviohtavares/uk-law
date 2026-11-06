@@ -38,7 +38,7 @@ summary: ''
   - (i) was a member of that group, and
   - (ii) owned the relevant asset or any part of it.
 
-(4) If at the relevant time A is not UK resident [^key-23e7162e0acd6bf1d3d3d1891f3125aa]... , subsection (2) applies to any person who is a controlling director—
+(4) If at the relevant time A is not UK resident [^c-23e7162e0acd6bf1d3d3d1891f3125aa]... , subsection (2) applies to any person who is a controlling director—
 
 - (a) of A,
 - (b) of a company that has control of A,
@@ -50,4 +50,4 @@ or was such a controlling director during that period.
 
 ## Annotations
 
-[^key-23e7162e0acd6bf1d3d3d1891f3125aa]: Textual amendment: Words in s. 795(4) omitted (6.4.2020) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 5 paras. 26](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/26), [35](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/35) (with [Sch. 5 para. 36](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/36))
+[^c-23e7162e0acd6bf1d3d3d1891f3125aa]: Textual amendment: Words in s. 795(4) omitted (6.4.2020) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 5 paras. 26](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/26), [35](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/35) (with [Sch. 5 para. 36](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/36))

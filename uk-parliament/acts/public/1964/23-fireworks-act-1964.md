@@ -31,18 +31,18 @@ Fireworks Act 1964 (repealed)
 
 1964 c.23
 
-[^key-688a4f191761b778fceaace47e901d78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-688a4f191761b778fceaace47e901d78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Exemption of fireworks for export from requirements as to marking.[^key-688a4f191761b778fceaace47e901d78][^key-688a4f191761b778fceaace47e901d78]
+## 1. Exemption of fireworks for export from requirements as to marking.[^c-688a4f191761b778fceaace47e901d78][^c-688a4f191761b778fceaace47e901d78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title.[^key-688a4f191761b778fceaace47e901d78][^key-688a4f191761b778fceaace47e901d78]
+## 2. Short title.[^c-688a4f191761b778fceaace47e901d78][^c-688a4f191761b778fceaace47e901d78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-688a4f191761b778fceaace47e901d78]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1964/23) repealed (4.7.2010) by [The Pyrotechnic Articles (Safety) Regulations 2010 (S.I. 2010/1554)](https://www.legislation.gov.uk/uksi/2010/1554), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1554/regulation/1/1), [49(3)](https://www.legislation.gov.uk/uksi/2010/1554/regulation/49/3) (with [reg. 49(13)](https://www.legislation.gov.uk/uksi/2010/1554/regulation/49/13))
+[^c-688a4f191761b778fceaace47e901d78]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1964/23) repealed (4.7.2010) by [The Pyrotechnic Articles (Safety) Regulations 2010 (S.I. 2010/1554)](https://www.legislation.gov.uk/uksi/2010/1554), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1554/regulation/1/1), [49(3)](https://www.legislation.gov.uk/uksi/2010/1554/regulation/49/3) (with [reg. 49(13)](https://www.legislation.gov.uk/uksi/2010/1554/regulation/49/13))

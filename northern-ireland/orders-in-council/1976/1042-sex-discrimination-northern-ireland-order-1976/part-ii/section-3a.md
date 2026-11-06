@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3A. Indirect discrimination on the ground of sex[^key-9866f5d7b6cd298ba864a9382b68a3ab]
+## 3A. Indirect discrimination on the ground of sex[^c-9866f5d7b6cd298ba864a9382b68a3ab]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9866f5d7b6cd298ba864a9382b68a3ab]: Textual amendment: Art. 3A inserted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2016/191/regulation/4/2)
+[^c-9866f5d7b6cd298ba864a9382b68a3ab]: Textual amendment: Art. 3A inserted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2016/191/regulation/4/2)

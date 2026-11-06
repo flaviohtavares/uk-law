@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. “Cultural property”[^key-e5d6477350ad422ac6201739061cea28]
+## 2. “Cultural property”[^c-e5d6477350ad422ac6201739061cea28]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In this Act “**cultural property**” has the meaning given in Article 1 of th
 
 ## Annotations
 
-[^key-e5d6477350ad422ac6201739061cea28]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2017/6/section/2) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)
+[^c-e5d6477350ad422ac6201739061cea28]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2017/6/section/2) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)

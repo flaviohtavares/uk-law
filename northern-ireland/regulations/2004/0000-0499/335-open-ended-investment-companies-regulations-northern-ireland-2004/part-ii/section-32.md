@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Dissolution on winding up by the court[^key-c97e1c3dc1ecc1ff718f433dd15c0b6c]
+## 32. Dissolution on winding up by the court[^c-c97e1c3dc1ecc1ff718f433dd15c0b6c]
 
 *Extent: N.I.*
 
@@ -49,4 +49,4 @@ not later than seven days after the giving of the direction, or the determinatio
 
 ## Annotations
 
-[^key-c97e1c3dc1ecc1ff718f433dd15c0b6c]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2004/335/regulation/32) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-c97e1c3dc1ecc1ff718f433dd15c0b6c]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2004/335/regulation/32) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

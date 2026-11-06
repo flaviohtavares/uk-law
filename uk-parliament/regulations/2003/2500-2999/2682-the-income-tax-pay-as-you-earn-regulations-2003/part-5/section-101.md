@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Death of employer[^key-7f30df87fb9284039f1c6d9b2dbfd6e6]
+## 101. Death of employer[^c-7f30df87fb9284039f1c6d9b2dbfd6e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f30df87fb9284039f1c6d9b2dbfd6e6]: Commencement: [Reg. 101](https://www.legislation.gov.uk/uksi/2003/2682/regulation/101) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)
+[^c-7f30df87fb9284039f1c6d9b2dbfd6e6]: Commencement: [Reg. 101](https://www.legislation.gov.uk/uksi/2003/2682/regulation/101) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)

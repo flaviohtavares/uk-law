@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Notices[^key-6df7c951faf34ba0bb3861e335e42d3c]
+## 26. Notices[^c-6df7c951faf34ba0bb3861e335e42d3c]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Any notice served by a licensing authority under these Regulations may be amende
 
 ## Annotations
 
-[^key-6df7c951faf34ba0bb3861e335e42d3c]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2021/84/regulation/26) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-6df7c951faf34ba0bb3861e335e42d3c]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2021/84/regulation/26) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)

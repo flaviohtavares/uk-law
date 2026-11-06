@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-86691c037d95688fd740ac76268834d7][^key-aa021275845e0cc2b1f89d4cc86b74c6] In this Part—
+(1)[^c-86691c037d95688fd740ac76268834d7][^c-aa021275845e0cc2b1f89d4cc86b74c6] In this Part—
 
-- [^key-bb6e6acbb8ce88e829806e50492c6548]...
+- [^c-bb6e6acbb8ce88e829806e50492c6548]...
 - “**intercepting authority**” is to be read in accordance with section 18;
 - “**international mutual assistance agreement**” has the meaning given by section 10(3);
 - “**mutual assistance warrant**” has the meaning given by section 15(4);
@@ -42,9 +42,9 @@ summary: ''
 - “**secondary data**” has the meaning given by section 16, and references to obtaining secondary data from a communication are to be read in accordance with that section;
 - “**targeted examination warrant**” has the meaning given by section 15(3).
 
-(2)[^key-ae7706c1aff1461afd06f404f744f81f] In this Part references to a member of a police force, in relation to the Royal Navy Police, the Royal Military Police or the Royal Air Force Police, do not include any member of that force who is not for the time being attached to, or serving with, that force or another of those police forces.
+(2)[^c-ae7706c1aff1461afd06f404f744f81f] In this Part references to a member of a police force, in relation to the Royal Navy Police, the Royal Military Police or the Royal Air Force Police, do not include any member of that force who is not for the time being attached to, or serving with, that force or another of those police forces.
 
-(3)[^key-ae7706c1aff1461afd06f404f744f81f] See also—
+(3)[^c-ae7706c1aff1461afd06f404f744f81f] See also—
 
 - section 261 (telecommunications definitions),
 - section 262 (postal definitions),
@@ -54,10 +54,10 @@ summary: ''
 
 ## Annotations
 
-[^key-86691c037d95688fd740ac76268834d7]: Commencement: S. 60(1) in force at 13.2.2017 for specified purposes by [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/e)
+[^c-86691c037d95688fd740ac76268834d7]: Commencement: S. 60(1) in force at 13.2.2017 for specified purposes by [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/e)
 
-[^key-aa021275845e0cc2b1f89d4cc86b74c6]: Commencement: S. 60(1) in force at 31.5.2018 in so far as not already in force by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 3(s)](https://www.legislation.gov.uk/uksi/2018/652/regulation/3/s)
+[^c-aa021275845e0cc2b1f89d4cc86b74c6]: Commencement: S. 60(1) in force at 31.5.2018 in so far as not already in force by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 3(s)](https://www.legislation.gov.uk/uksi/2018/652/regulation/3/s)
 
-[^key-bb6e6acbb8ce88e829806e50492c6548]: Textual amendment: Words in [s. 60(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/60/1) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [82(8)](https://www.legislation.gov.uk/uksi/2019/742/regulation/82/8) (with [reg. 83](https://www.legislation.gov.uk/uksi/2019/742/regulation/83)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bb6e6acbb8ce88e829806e50492c6548]: Textual amendment: Words in [s. 60(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/60/1) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [82(8)](https://www.legislation.gov.uk/uksi/2019/742/regulation/82/8) (with [reg. 83](https://www.legislation.gov.uk/uksi/2019/742/regulation/83)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ae7706c1aff1461afd06f404f744f81f]: Commencement: S. 60(2)(3) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 3(s)](https://www.legislation.gov.uk/uksi/2018/652/regulation/3/s)
+[^c-ae7706c1aff1461afd06f404f744f81f]: Commencement: S. 60(2)(3) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 3(s)](https://www.legislation.gov.uk/uksi/2018/652/regulation/3/s)

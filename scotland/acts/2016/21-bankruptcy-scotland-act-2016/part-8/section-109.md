@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 109. Management and realisation of estate[^key-2e58cfbc5db125f6ab4a236331a1cd15]
+## 109. Management and realisation of estate[^c-2e58cfbc5db125f6ab4a236331a1cd15]
 
 *Extent: S*
 
@@ -72,6 +72,6 @@ only in so far as, in the trustee's view, it would be of financial benefit to th
 
 ## Annotations
 
-[^key-2e58cfbc5db125f6ab4a236331a1cd15]: Commencement: S. 109 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-2e58cfbc5db125f6ab4a236331a1cd15]: Commencement: S. 109 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
 [^M_C_af9dbbdf-ebae-4196-aa0f-579f1a7c245f]: Modification: S. 109(4)(6)(10)(11) applied by 1986 c. 45, s. 185(1) (as substituted (30.11.2016) by S.I. 2016/1034, Sch. 1 para. 4(3)(a))

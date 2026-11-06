@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Penalties and forfeiture[^M_I_517983d6-0bfd-44a1-e2b6-9a39d2eba2b2][^key-25a7834607a037e2ae86c37c68a5fb05][^key-b3a878d04349324fd1f2f115f94f540a]
+## 89. Penalties and forfeiture[^M_I_517983d6-0bfd-44a1-e2b6-9a39d2eba2b2][^c-25a7834607a037e2ae86c37c68a5fb05][^c-b3a878d04349324fd1f2f115f94f540a]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 [^M_I_517983d6-0bfd-44a1-e2b6-9a39d2eba2b2]: Commencement: S. 89 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-25a7834607a037e2ae86c37c68a5fb05]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2023/30/section/89) in force at 1.8.2023 for specified purposes by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/d) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-25a7834607a037e2ae86c37c68a5fb05]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2023/30/section/89) in force at 1.8.2023 for specified purposes by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/d) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
 
-[^key-b3a878d04349324fd1f2f115f94f540a]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2023/30/section/89) in force at 1.2.2025 in so far as not already in force by [S.I. 2025/96](https://www.legislation.gov.uk/uksi/2025/96), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/96/regulation/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/96/regulation/3))
+[^c-b3a878d04349324fd1f2f115f94f540a]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2023/30/section/89) in force at 1.2.2025 in so far as not already in force by [S.I. 2025/96](https://www.legislation.gov.uk/uksi/2025/96), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/96/regulation/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/96/regulation/3))

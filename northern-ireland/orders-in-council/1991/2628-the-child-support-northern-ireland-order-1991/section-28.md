@@ -22,7 +22,7 @@ summary: ''
 
 (1) This Article applies where—
 
-- (a) an application for a maintenance calculation has been made [^key-882b9062f0e0eee863d642fb8dbcc197]... , or a maintenance calculation is in force, with respect to a person ( “the alleged parent”) who denies that he is a parent of a child with respect to whom the application or calculation was made [^key-882b9062f0e0eee863d642fb8dbcc197]...;
+- (a) an application for a maintenance calculation has been made [^c-882b9062f0e0eee863d642fb8dbcc197]... , or a maintenance calculation is in force, with respect to a person ( “the alleged parent”) who denies that he is a parent of a child with respect to whom the application or calculation was made [^c-882b9062f0e0eee863d642fb8dbcc197]...;
 - (b) the Department is not satisfied that the case falls within one of those set out in Article 27(2); and
 - (c) the Department or the person with care makes an application for a declaration under Article 31B of the Matrimonial and Family Proceedings (Northern Ireland) Order 1989 as to whether or not the alleged parent is one of the child's parents.
 
@@ -35,4 +35,4 @@ summary: ''
 
 [^c21017601]: Textual amendment: [2000 c. 4 (NI)](https://www.legislation.gov.uk/nia/2000/4)
 
-[^key-882b9062f0e0eee863d642fb8dbcc197]: Textual amendment: Words in [art. 28(1)(a)](https://www.legislation.gov.uk/nisi/1991/2628/article/28/1/a) repealed (27.10.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 5](https://www.legislation.gov.uk/nia/2008/10/schedule/5); [S.R. 2008/399](https://www.legislation.gov.uk/nisr/2008/399), [art. 2(2)(d)(i)](https://www.legislation.gov.uk/nisr/2008/399/article/2/2/d/i) (with [art. 3](https://www.legislation.gov.uk/nisr/2008/399/article/3))
+[^c-882b9062f0e0eee863d642fb8dbcc197]: Textual amendment: Words in [art. 28(1)(a)](https://www.legislation.gov.uk/nisi/1991/2628/article/28/1/a) repealed (27.10.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 5](https://www.legislation.gov.uk/nia/2008/10/schedule/5); [S.R. 2008/399](https://www.legislation.gov.uk/nisr/2008/399), [art. 2(2)(d)(i)](https://www.legislation.gov.uk/nisr/2008/399/article/2/2/d/i) (with [art. 3](https://www.legislation.gov.uk/nisr/2008/399/article/3))

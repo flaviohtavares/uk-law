@@ -32,7 +32,7 @@ summary: ''
 
 Police, England And Wales
 
-The Police and Crime Commissioner Elections (Returning Officers' Accounts) Regulations 2012 (revoked)[^key-c912e64bfbda785fbc19775f0efd5d65]
+The Police and Crime Commissioner Elections (Returning Officers' Accounts) Regulations 2012 (revoked)[^c-c912e64bfbda785fbc19775f0efd5d65]
 
 Made
 
@@ -46,42 +46,42 @@ Coming into force
 
 15th September 2012
 
-[^key-c912e64bfbda785fbc19775f0efd5d65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c912e64bfbda785fbc19775f0efd5d65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c912e64bfbda785fbc19775f0efd5d65]
+## 1. Citation and commencement[^c-c912e64bfbda785fbc19775f0efd5d65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-c912e64bfbda785fbc19775f0efd5d65]
+## 2. Interpretation[^c-c912e64bfbda785fbc19775f0efd5d65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Address for submission of accounts[^key-c912e64bfbda785fbc19775f0efd5d65]
+## 3. Address for submission of accounts[^c-c912e64bfbda785fbc19775f0efd5d65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Time for submission of accounts[^key-c912e64bfbda785fbc19775f0efd5d65]
+## 4. Time for submission of accounts[^c-c912e64bfbda785fbc19775f0efd5d65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Incomplete accounts[^key-c912e64bfbda785fbc19775f0efd5d65]
+## 5. Incomplete accounts[^c-c912e64bfbda785fbc19775f0efd5d65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Documents to be submitted with accounts[^key-c912e64bfbda785fbc19775f0efd5d65]
+## 6. Documents to be submitted with accounts[^c-c912e64bfbda785fbc19775f0efd5d65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Form of accounts[^key-c912e64bfbda785fbc19775f0efd5d65]
+## 7. Form of accounts[^c-c912e64bfbda785fbc19775f0efd5d65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c912e64bfbda785fbc19775f0efd5d65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c912e64bfbda785fbc19775f0efd5d65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c912e64bfbda785fbc19775f0efd5d65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c912e64bfbda785fbc19775f0efd5d65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c912e64bfbda785fbc19775f0efd5d65]: Textual amendment: Regulations revoked (16.3.2024) by [The Police and Crime Commissioner Elections (Returning Officers’ Accounts) Regulations 2024 (S.I. 2024/181)](https://www.legislation.gov.uk/uksi/2024/181), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/181/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2024/181/regulation/8/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/181/regulation/1/3))
+[^c-c912e64bfbda785fbc19775f0efd5d65]: Textual amendment: Regulations revoked (16.3.2024) by [The Police and Crime Commissioner Elections (Returning Officers’ Accounts) Regulations 2024 (S.I. 2024/181)](https://www.legislation.gov.uk/uksi/2024/181), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/181/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2024/181/regulation/8/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/181/regulation/1/3))

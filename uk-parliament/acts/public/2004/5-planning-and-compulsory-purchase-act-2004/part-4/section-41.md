@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41. Effect of revision or revocation of development order on incomplete development[^key-ff38175b440f558bc9989462efebbd15][^key-57e0fb38bed1c7a21f8728e2a5eb0e67][^key-9595419f14c7670ac0326b112665832f]
+## 41. Effect of revision or revocation of development order on incomplete development[^c-ff38175b440f558bc9989462efebbd15][^c-57e0fb38bed1c7a21f8728e2a5eb0e67][^c-9595419f14c7670ac0326b112665832f]
 
 *Extent: E+W*
 
@@ -45,8 +45,8 @@ In the principal Act after section 61C (planning permission granted by local dev
 
 ## Annotations
 
-[^key-ff38175b440f558bc9989462efebbd15]: Commencement: S. 41 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-ff38175b440f558bc9989462efebbd15]: Commencement: S. 41 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
 
-[^key-57e0fb38bed1c7a21f8728e2a5eb0e67]: Commencement: S. 41 in force at 10.5.2006 for E. so far as not already in force by [S.I. 2006/1061](https://www.legislation.gov.uk/uksi/2006/1061), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1061/article/2/a)
+[^c-57e0fb38bed1c7a21f8728e2a5eb0e67]: Commencement: S. 41 in force at 10.5.2006 for E. so far as not already in force by [S.I. 2006/1061](https://www.legislation.gov.uk/uksi/2006/1061), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1061/article/2/a)
 
-[^key-9595419f14c7670ac0326b112665832f]: Commencement: S. 41 in force at 30.4.2012 for W. so far as not already in force by [S.I. 2012/1100](https://www.legislation.gov.uk/uksi/2012/1100), [art. 2](https://www.legislation.gov.uk/uksi/2012/1100/article/2)
+[^c-9595419f14c7670ac0326b112665832f]: Commencement: S. 41 in force at 30.4.2012 for W. so far as not already in force by [S.I. 2012/1100](https://www.legislation.gov.uk/uksi/2012/1100), [art. 2](https://www.legislation.gov.uk/uksi/2012/1100/article/2)

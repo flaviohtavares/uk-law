@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Minerals[^key-f0cf70baf7f1082fab3de7ba9a8623a7]
+## 48. Minerals[^c-f0cf70baf7f1082fab3de7ba9a8623a7]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Nothing in this Order affects the rights of any person entitled to any mine or m
 
 ## Annotations
 
-[^key-f0cf70baf7f1082fab3de7ba9a8623a7]: Commencement: Art. 48 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-f0cf70baf7f1082fab3de7ba9a8623a7]: Commencement: Art. 48 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)

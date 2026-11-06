@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Consent to transfer benefit of Order[^key-d8d2a469d51b6bf6b75414cabee65c0e]
+## 9. Consent to transfer benefit of Order[^c-d8d2a469d51b6bf6b75414cabee65c0e]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ summary: ''
 
 (5) The consent of the Secretary of State is required for a transfer or grant under this article, except where the transfer or grant is made to—
 
-- (za)[^key-e3dbda80d6f5b0fba90aefc7a993c91b] South Eastern Power Networks plc (company number 03043097, whose registered office is at Newington House, 237 Southwark Bridge Road, London, SE1 6NP) for the purposes of undertaking Work No. 62(a) to (q);
+- (za)[^c-e3dbda80d6f5b0fba90aefc7a993c91b] South Eastern Power Networks plc (company number 03043097, whose registered office is at Newington House, 237 Southwark Bridge Road, London, SE1 6NP) for the purposes of undertaking Work No. 62(a) to (q);
 - (a) Southern Gas Networks PLC (company number 5167021, whose registered office is at St Lawrence House, Station Approach, Horley, Surrey, RH6 9HJ) for the purposes of undertaking Work No. 63(a) to 63(e);
 - (b) Affinity Water Limited (company number 2546950, whose registered office is at Tamblin Way, Hatfield, Hertfordshire, AL10 9EZ) for the purposes of undertaking Work No. 64(a) to 64(k);
 - (c) British Telecommunications PLC (company number 1800000, whose registered office is at 81 Newgate Street, London, EC1A 7AJ) ) for the purposes of undertaking Work No. 65(a) to 65(f);
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d8d2a469d51b6bf6b75414cabee65c0e]: Commencement: Art. 9 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
+[^c-d8d2a469d51b6bf6b75414cabee65c0e]: Commencement: Art. 9 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
 
-[^key-e3dbda80d6f5b0fba90aefc7a993c91b]: Textual amendment: [Art. 9(5)(za)](https://www.legislation.gov.uk/uksi/2022/549/article/9/5/za) inserted (19.1.2023) by [The M25 Junction 10/A3 Wisley Interchange Development Consent (Correction) Order 2023 (S.I. 2023/46)](https://www.legislation.gov.uk/uksi/2023/46), [arts. 1](https://www.legislation.gov.uk/uksi/2023/46/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/46/article/2/3)
+[^c-e3dbda80d6f5b0fba90aefc7a993c91b]: Textual amendment: [Art. 9(5)(za)](https://www.legislation.gov.uk/uksi/2022/549/article/9/5/za) inserted (19.1.2023) by [The M25 Junction 10/A3 Wisley Interchange Development Consent (Correction) Order 2023 (S.I. 2023/46)](https://www.legislation.gov.uk/uksi/2023/46), [arts. 1](https://www.legislation.gov.uk/uksi/2023/46/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/46/article/2/3)

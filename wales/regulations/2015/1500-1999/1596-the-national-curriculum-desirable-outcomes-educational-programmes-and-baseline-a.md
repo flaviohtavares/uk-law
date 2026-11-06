@@ -31,7 +31,7 @@ summary: ''
 
 Education, Wales
 
-The National Curriculum (Desirable Outcomes, Educational Programmes and Baseline and End of Phase Assessment Arrangements for the Foundation Phase) (Wales) Order 2015 (revoked)[^key-a6b1657be6b5f2104e3ec0fac572a69c]
+The National Curriculum (Desirable Outcomes, Educational Programmes and Baseline and End of Phase Assessment Arrangements for the Foundation Phase) (Wales) Order 2015 (revoked)[^c-a6b1657be6b5f2104e3ec0fac572a69c]
 
 Made
 
@@ -45,62 +45,62 @@ Coming into force
 
 1 September 2015
 
-[^key-a6b1657be6b5f2104e3ec0fac572a69c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a6b1657be6b5f2104e3ec0fac572a69c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — Introduction[^key-a6b1657be6b5f2104e3ec0fac572a69c]
+## PART 1 — Introduction[^c-a6b1657be6b5f2104e3ec0fac572a69c]
 
-### 1. Title, commencement and application[^key-a6b1657be6b5f2104e3ec0fac572a69c]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Revocation[^key-a6b1657be6b5f2104e3ec0fac572a69c]
+### 1. Title, commencement and application[^c-a6b1657be6b5f2104e3ec0fac572a69c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Interpretation[^key-a6b1657be6b5f2104e3ec0fac572a69c]
+### 2. Revocation[^c-a6b1657be6b5f2104e3ec0fac572a69c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Foundation Phase: National Curriculum[^key-a6b1657be6b5f2104e3ec0fac572a69c]
-
-### 4. Amendment to the Education (National Curriculum) (Foundation Phase) (Wales) Order 2014[^key-a6b1657be6b5f2104e3ec0fac572a69c]
+### 3. Interpretation[^c-a6b1657be6b5f2104e3ec0fac572a69c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Baseline assessment in the foundation phase[^key-a6b1657be6b5f2104e3ec0fac572a69c]
+## PART 2 — Foundation Phase: National Curriculum[^c-a6b1657be6b5f2104e3ec0fac572a69c]
 
-### 5. Baseline assessment[^key-a6b1657be6b5f2104e3ec0fac572a69c]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 6. Record of attainment[^key-a6b1657be6b5f2104e3ec0fac572a69c]
+### 4. Amendment to the Education (National Curriculum) (Foundation Phase) (Wales) Order 2014[^c-a6b1657be6b5f2104e3ec0fac572a69c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Timing of assessment and record of attainment[^key-a6b1657be6b5f2104e3ec0fac572a69c]
+## PART 3 — Baseline assessment in the foundation phase[^c-a6b1657be6b5f2104e3ec0fac572a69c]
+
+### 5. Baseline assessment[^c-a6b1657be6b5f2104e3ec0fac572a69c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — End of phase assessment in the foundation phase[^key-a6b1657be6b5f2104e3ec0fac572a69c]
-
-### 8. End of phase assessment[^key-a6b1657be6b5f2104e3ec0fac572a69c]
+### 6. Record of attainment[^c-a6b1657be6b5f2104e3ec0fac572a69c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Record of attainment[^key-a6b1657be6b5f2104e3ec0fac572a69c]
+### 7. Timing of assessment and record of attainment[^c-a6b1657be6b5f2104e3ec0fac572a69c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Timing of assessment and record of attainment[^key-a6b1657be6b5f2104e3ec0fac572a69c]
+## PART 4 — End of phase assessment in the foundation phase[^c-a6b1657be6b5f2104e3ec0fac572a69c]
+
+### 8. End of phase assessment[^c-a6b1657be6b5f2104e3ec0fac572a69c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a6b1657be6b5f2104e3ec0fac572a69c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 9. Record of attainment[^c-a6b1657be6b5f2104e3ec0fac572a69c]
 
-[^key-a6b1657be6b5f2104e3ec0fac572a69c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Timing of assessment and record of attainment[^c-a6b1657be6b5f2104e3ec0fac572a69c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-a6b1657be6b5f2104e3ec0fac572a69c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-a6b1657be6b5f2104e3ec0fac572a69c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a6b1657be6b5f2104e3ec0fac572a69c]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2015/1596) revoked (1.9.2022) by [The Education (Revocation of Assessment Arrangements in the National Curriculum and Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/517)](https://www.legislation.gov.uk/wsi/2022/517), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/wsi/2022/517/regulation/8/2/a)
+[^c-a6b1657be6b5f2104e3ec0fac572a69c]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2015/1596) revoked (1.9.2022) by [The Education (Revocation of Assessment Arrangements in the National Curriculum and Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/517)](https://www.legislation.gov.uk/wsi/2022/517), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/wsi/2022/517/regulation/8/2/a)

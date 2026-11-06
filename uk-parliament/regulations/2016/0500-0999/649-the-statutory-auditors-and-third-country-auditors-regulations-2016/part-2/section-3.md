@@ -24,9 +24,9 @@ summary: ''
 
 - (a) the public oversight of statutory auditors under these Regulations;
 - (b) carrying out the tasks provided for in the Audit Regulation and for ensuring that the provisions of that Regulation are applied;
-- (c) the determination of technical standards (which must meet the requirements of Schedule 1) and of other standards (which must meet the requirements of regulation 4(3) and[^key-7df6bcc24e3c00dcc3402d8b7a49122f] that Schedule) on professional ethics and internal quality control of statutory auditors and statutory audit work;
+- (c) the determination of technical standards (which must meet the requirements of Schedule 1) and of other standards (which must meet the requirements of regulation 4(3) and[^c-7df6bcc24e3c00dcc3402d8b7a49122f] that Schedule) on professional ethics and internal quality control of statutory auditors and statutory audit work;
 - (d) the determination of the manner in which the standards determined under sub-paragraph (c) are to be applied in practice;
-- (e) the imposition[^key-c4e906d93ebbfcd2765b8b71851c2769] of the standards determined under sub-paragraph (c) (including provision for securing compliance with those standards);
+- (e) the imposition[^c-c4e906d93ebbfcd2765b8b71851c2769] of the standards determined under sub-paragraph (c) (including provision for securing compliance with those standards);
 - (f) the determination of criteria for the purpose of determining whether persons are eligible for appointment as statutory auditors;
 - (g) the application of the criteria determined under sub-paragraph (f) to determine whether persons are eligible for appointment as statutory auditors;
 - (h) registration of persons approved as eligible for appointment as statutory auditors under sub-paragraph (g);
@@ -39,7 +39,7 @@ summary: ''
 (2) The competent authority—
 
 - (a) must consider whether and how tasks arising from its responsibility for the matters listed in sub-paragraphs (e) to (m) of paragraph (1) may be delegated to any recognised supervisory body; and
-- (b) subject to paragraphs (5), (5A) and (5B)[^key-f3ffec660feafbce7c94fb394253759d], may delegate such tasks to any recognised supervisory body.
+- (b) subject to paragraphs (5), (5A) and (5B)[^c-f3ffec660feafbce7c94fb394253759d], may delegate such tasks to any recognised supervisory body.
 
 (3) In exercising its duty under paragraph (2)(a), the competent authority—
 
@@ -50,7 +50,7 @@ summary: ''
 
 (5) The competent authority may not delegate tasks related to any of the matters listed in Article 24(1)(a) to (c) of the Audit Regulation.
 
-(5A)[^key-57508cf100c2aa19f5385f71af5bc93b] Any delegation under paragraph (2) of the competent authority’s responsibilities under sub-paragraphs (k), (l) or (m) of paragraph (1) must not prejudice the competent authority’s ability to initiate and conduct an inspection or investigation of audit work by a statutory auditor itself, where necessary, and to take appropriate action.
+(5A)[^c-57508cf100c2aa19f5385f71af5bc93b] Any delegation under paragraph (2) of the competent authority’s responsibilities under sub-paragraphs (k), (l) or (m) of paragraph (1) must not prejudice the competent authority’s ability to initiate and conduct an inspection or investigation of audit work by a statutory auditor itself, where necessary, and to take appropriate action.
 
 (5B) In determining the delegation of tasks, the competent authority must ensure that conflicts of interest are avoided.
 
@@ -77,7 +77,7 @@ summary: ''
 
 (13) Schedule 1 (which prescribes requirements for the standards the competent authority must determine in relation to the obligations of statutory auditors in relation to professional ethics, independence, objectivity and confidentiality) has effect.
 
-(14)[^key-775eb232de94e8b3350de0bac18813f9] The members of the management body of the competent authority must be individuals who—
+(14)[^c-775eb232de94e8b3350de0bac18813f9] The members of the management body of the competent authority must be individuals who—
 
 - (a) are knowledgeable in the areas relevant to statutory audit;
 - (b) are selected in accordance with an independent and transparent nomination procedure;
@@ -91,12 +91,12 @@ summary: ''
 
 ## Annotations
 
-[^key-7df6bcc24e3c00dcc3402d8b7a49122f]: Textual amendment: Words in [reg. 3(1)(c)](https://www.legislation.gov.uk/uksi/2016/649/regulation/3/1/c) inserted (31.12.2020) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/177)](https://www.legislation.gov.uk/uksi/2019/177), [regs. 2](https://www.legislation.gov.uk/uksi/2019/177/regulation/2), [67(a)](https://www.legislation.gov.uk/uksi/2019/177/regulation/67/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7df6bcc24e3c00dcc3402d8b7a49122f]: Textual amendment: Words in [reg. 3(1)(c)](https://www.legislation.gov.uk/uksi/2016/649/regulation/3/1/c) inserted (31.12.2020) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/177)](https://www.legislation.gov.uk/uksi/2019/177), [regs. 2](https://www.legislation.gov.uk/uksi/2019/177/regulation/2), [67(a)](https://www.legislation.gov.uk/uksi/2019/177/regulation/67/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c4e906d93ebbfcd2765b8b71851c2769]: Textual amendment: Word in [reg. 3(1)(e)](https://www.legislation.gov.uk/uksi/2016/649/regulation/3/1/e) substituted (31.12.2020) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/177)](https://www.legislation.gov.uk/uksi/2019/177), [regs. 2](https://www.legislation.gov.uk/uksi/2019/177/regulation/2), [67(b)](https://www.legislation.gov.uk/uksi/2019/177/regulation/67/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c4e906d93ebbfcd2765b8b71851c2769]: Textual amendment: Word in [reg. 3(1)(e)](https://www.legislation.gov.uk/uksi/2016/649/regulation/3/1/e) substituted (31.12.2020) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/177)](https://www.legislation.gov.uk/uksi/2019/177), [regs. 2](https://www.legislation.gov.uk/uksi/2019/177/regulation/2), [67(b)](https://www.legislation.gov.uk/uksi/2019/177/regulation/67/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f3ffec660feafbce7c94fb394253759d]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/uksi/2016/649/regulation/3/2/b) substituted (22.2.2019) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/177)](https://www.legislation.gov.uk/uksi/2019/177), [regs. 2](https://www.legislation.gov.uk/uksi/2019/177/regulation/2), [106(a)](https://www.legislation.gov.uk/uksi/2019/177/regulation/106/a)
+[^c-f3ffec660feafbce7c94fb394253759d]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/uksi/2016/649/regulation/3/2/b) substituted (22.2.2019) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/177)](https://www.legislation.gov.uk/uksi/2019/177), [regs. 2](https://www.legislation.gov.uk/uksi/2019/177/regulation/2), [106(a)](https://www.legislation.gov.uk/uksi/2019/177/regulation/106/a)
 
-[^key-57508cf100c2aa19f5385f71af5bc93b]: Textual amendment: [Reg. 3(5A)](https://www.legislation.gov.uk/uksi/2016/649/regulation/3/5A)[(5B)](https://www.legislation.gov.uk/uksi/2016/649/regulation/3/5B) inserted (22.2.2019) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/177)](https://www.legislation.gov.uk/uksi/2019/177), [regs. 2](https://www.legislation.gov.uk/uksi/2019/177/regulation/2), [106(b)](https://www.legislation.gov.uk/uksi/2019/177/regulation/106/b)
+[^c-57508cf100c2aa19f5385f71af5bc93b]: Textual amendment: [Reg. 3(5A)](https://www.legislation.gov.uk/uksi/2016/649/regulation/3/5A)[(5B)](https://www.legislation.gov.uk/uksi/2016/649/regulation/3/5B) inserted (22.2.2019) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/177)](https://www.legislation.gov.uk/uksi/2019/177), [regs. 2](https://www.legislation.gov.uk/uksi/2019/177/regulation/2), [106(b)](https://www.legislation.gov.uk/uksi/2019/177/regulation/106/b)
 
-[^key-775eb232de94e8b3350de0bac18813f9]: Textual amendment: [Reg. 3(14)](https://www.legislation.gov.uk/uksi/2016/649/regulation/3/14)[(15)](https://www.legislation.gov.uk/uksi/2016/649/regulation/3/15) inserted (22.2.2019) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/177)](https://www.legislation.gov.uk/uksi/2019/177), [regs. 2](https://www.legislation.gov.uk/uksi/2019/177/regulation/2), [106(c)](https://www.legislation.gov.uk/uksi/2019/177/regulation/106/c)
+[^c-775eb232de94e8b3350de0bac18813f9]: Textual amendment: [Reg. 3(14)](https://www.legislation.gov.uk/uksi/2016/649/regulation/3/14)[(15)](https://www.legislation.gov.uk/uksi/2016/649/regulation/3/15) inserted (22.2.2019) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/177)](https://www.legislation.gov.uk/uksi/2019/177), [regs. 2](https://www.legislation.gov.uk/uksi/2019/177/regulation/2), [106(c)](https://www.legislation.gov.uk/uksi/2019/177/regulation/106/c)

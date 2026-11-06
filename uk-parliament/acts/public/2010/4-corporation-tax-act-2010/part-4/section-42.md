@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Ring fence trades: further extension of period for relief[^key-6899d9b26025f14f7113a3e582f9dece]
+## 42. Ring fence trades: further extension of period for relief[^c-6899d9b26025f14f7113a3e582f9dece]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6899d9b26025f14f7113a3e582f9dece]: Modification: [S. 42](https://www.legislation.gov.uk/ukpga/2010/4/section/42) modified (with application in accordance with Sch. 2 para. 4(2)(3) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 2 para. 4(6)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/2/paragraph/4/6)
+[^c-6899d9b26025f14f7113a3e582f9dece]: Modification: [S. 42](https://www.legislation.gov.uk/ukpga/2010/4/section/42) modified (with application in accordance with Sch. 2 para. 4(2)(3) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 2 para. 4(6)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/2/paragraph/4/6)

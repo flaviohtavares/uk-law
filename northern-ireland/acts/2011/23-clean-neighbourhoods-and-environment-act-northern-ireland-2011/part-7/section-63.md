@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 63. Statutory nuisances[^key-6a1718d6676c4e4e5ad6343dd26855ae][^key-415c7189f66e7a08669662a7c892f63f]
+## 63. Statutory nuisances[^c-6a1718d6676c4e4e5ad6343dd26855ae][^c-415c7189f66e7a08669662a7c892f63f]
 
 *Extent: N.I.*
 
@@ -146,6 +146,6 @@ and, in circumstances where a code of practice under Article 51 of the Pollution
 
 ## Annotations
 
-[^key-6a1718d6676c4e4e5ad6343dd26855ae]: Commencement: [S. 63](https://www.legislation.gov.uk/nia/2011/23/section/63) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
+[^c-6a1718d6676c4e4e5ad6343dd26855ae]: Commencement: [S. 63](https://www.legislation.gov.uk/nia/2011/23/section/63) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
 
-[^key-415c7189f66e7a08669662a7c892f63f]: Commencement: [S. 63](https://www.legislation.gov.uk/nia/2011/23/section/63) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-415c7189f66e7a08669662a7c892f63f]: Commencement: [S. 63](https://www.legislation.gov.uk/nia/2011/23/section/63) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

@@ -31,48 +31,48 @@ Local Government (Interim Provisions) Act 1984 (repealed)
 
 1984 c. 53
 
-[^key-1dcae458f0755dd0c5a83e474225be60]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1dcae458f0755dd0c5a83e474225be60]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Part I[^key-1dcae458f0755dd0c5a83e474225be60]
+## Part I[^c-1dcae458f0755dd0c5a83e474225be60]
 
-### 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-1dcae458f0755dd0c5a83e474225be60][^key-1dcae458f0755dd0c5a83e474225be60]
+### 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-1dcae458f0755dd0c5a83e474225be60][^c-1dcae458f0755dd0c5a83e474225be60]
 
-## Part II[^key-1dcae458f0755dd0c5a83e474225be60]
+## Part II[^c-1dcae458f0755dd0c5a83e474225be60]
 
-### 2, 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-1dcae458f0755dd0c5a83e474225be60][^key-1dcae458f0755dd0c5a83e474225be60]
+### 2, 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-1dcae458f0755dd0c5a83e474225be60][^c-1dcae458f0755dd0c5a83e474225be60]
 
-## Part III — Staff Commission[^key-1dcae458f0755dd0c5a83e474225be60]
+## Part III — Staff Commission[^c-1dcae458f0755dd0c5a83e474225be60]
 
-### 4. Establishment and functions of staff commission.[^key-1dcae458f0755dd0c5a83e474225be60][^key-1dcae458f0755dd0c5a83e474225be60]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Part IV — Miscellaneous and Supplementary[^key-1dcae458f0755dd0c5a83e474225be60]
-
-### 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-1dcae458f0755dd0c5a83e474225be60][^key-1dcae458f0755dd0c5a83e474225be60]
-
-### 6. Postponement of exercise of functions.[^key-1dcae458f0755dd0c5a83e474225be60][^key-1dcae458f0755dd0c5a83e474225be60]
+### 4. Establishment and functions of staff commission.[^c-1dcae458f0755dd0c5a83e474225be60][^c-1dcae458f0755dd0c5a83e474225be60]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7—9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-1dcae458f0755dd0c5a83e474225be60][^key-1dcae458f0755dd0c5a83e474225be60]
+## Part IV — Miscellaneous and Supplementary[^c-1dcae458f0755dd0c5a83e474225be60]
 
-### 10. Disqualification for contravention of sections 8 and 9.[^key-1dcae458f0755dd0c5a83e474225be60][^key-1dcae458f0755dd0c5a83e474225be60]
+### 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-1dcae458f0755dd0c5a83e474225be60][^c-1dcae458f0755dd0c5a83e474225be60]
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 11. Accounts and financial consultation.[^key-1dcae458f0755dd0c5a83e474225be60][^key-1dcae458f0755dd0c5a83e474225be60]
+### 6. Postponement of exercise of functions.[^c-1dcae458f0755dd0c5a83e474225be60][^c-1dcae458f0755dd0c5a83e474225be60]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-1dcae458f0755dd0c5a83e474225be60][^key-1dcae458f0755dd0c5a83e474225be60]
+### 7—9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-1dcae458f0755dd0c5a83e474225be60][^c-1dcae458f0755dd0c5a83e474225be60]
 
-### 13. Short title and interpretation.[^key-1dcae458f0755dd0c5a83e474225be60][^key-1dcae458f0755dd0c5a83e474225be60]
+### 10. Disqualification for contravention of sections 8 and 9.[^c-1dcae458f0755dd0c5a83e474225be60][^c-1dcae458f0755dd0c5a83e474225be60]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Accounts and financial consultation.[^c-1dcae458f0755dd0c5a83e474225be60][^c-1dcae458f0755dd0c5a83e474225be60]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-1dcae458f0755dd0c5a83e474225be60][^c-1dcae458f0755dd0c5a83e474225be60]
+
+### 13. Short title and interpretation.[^c-1dcae458f0755dd0c5a83e474225be60][^c-1dcae458f0755dd0c5a83e474225be60]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1dcae458f0755dd0c5a83e474225be60]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1984/53) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-1dcae458f0755dd0c5a83e474225be60]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1984/53) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3

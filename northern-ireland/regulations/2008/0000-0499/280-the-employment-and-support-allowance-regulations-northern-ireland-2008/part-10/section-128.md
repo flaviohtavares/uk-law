@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 128. Calculation of the weekly amount of payments of child support maintenance[^key-4194584400bb67cbb9c7c2d69ca0e85d]
+## 128. Calculation of the weekly amount of payments of child support maintenance[^c-4194584400bb67cbb9c7c2d69ca0e85d]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4194584400bb67cbb9c7c2d69ca0e85d]: Textual amendment: [Regs. 126-130](https://www.legislation.gov.uk/nisr/2008/280/regulation/126) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/413)](https://www.legislation.gov.uk/nisr/2008/413), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/413/regulation/1/1), [3(22)](https://www.legislation.gov.uk/nisr/2008/413/regulation/3/22)
+[^c-4194584400bb67cbb9c7c2d69ca0e85d]: Textual amendment: [Regs. 126-130](https://www.legislation.gov.uk/nisr/2008/280/regulation/126) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/413)](https://www.legislation.gov.uk/nisr/2008/413), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/413/regulation/1/1), [3(22)](https://www.legislation.gov.uk/nisr/2008/413/regulation/3/22)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Consultation and publicity[^c19534131][^key-721badd12f838cdddce240912368a6f5]
+## 7. Consultation and publicity[^c19534131][^c-721badd12f838cdddce240912368a6f5]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ This is subject to subsections (4) and (5).
 
 [^c19534131]: Commencement: S. 7 partly in force; s. 7 in force for certain purposes at Royal Assent see [s. 241](https://www.legislation.gov.uk/ukpga/2008/29/section/241)
 
-[^key-721badd12f838cdddce240912368a6f5]: Commencement: S. 7 in force at 6.4.2009 in so far as not already in force by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 2](https://www.legislation.gov.uk/uksi/2009/400/article/2)
+[^c-721badd12f838cdddce240912368a6f5]: Commencement: S. 7 in force at 6.4.2009 in so far as not already in force by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 2](https://www.legislation.gov.uk/uksi/2009/400/article/2)

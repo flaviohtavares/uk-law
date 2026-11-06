@@ -34,7 +34,7 @@ duty at the higher rate becomes chargeable in respect of the licence for the veh
 
 a description of vehicle to which a higher rate of duty is applicable.
 
-(2A)[^key-d3d39f3d795af3ceb7aea74ae873435b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2A)[^c-d3d39f3d795af3ceb7aea74ae873435b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) For the purposes of subsection (1) a vehicle in respect of which a lower rate of duty is chargeable by virtue of regulations under paragraph 13 of Schedule 1 is also used so as to subject it to a higher rate if it is used in contravention of a condition imposed under or by virtue of sub-paragraph (2) of that paragraph.
 
@@ -65,6 +65,6 @@ bears to the number of months in the whole of the period for which the original 
 
     S. 15 modified (27.7.1999) by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [s. 9](https://www.legislation.gov.uk/ukpga/1999/16/section/9), [Sch. 1 para. 9(3)-(5)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/1/paragraph/9/3)
 
-[^key-d3d39f3d795af3ceb7aea74ae873435b]: Textual amendment: [S. 15(2A)](https://www.legislation.gov.uk/ukpga/1994/22/section/15/2A) omitted (with effect in accordance with Sch. 18 paras. 12-14, 16 of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 18 para. 10(c)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/18/paragraph/10/c)
+[^c-d3d39f3d795af3ceb7aea74ae873435b]: Textual amendment: [S. 15(2A)](https://www.legislation.gov.uk/ukpga/1994/22/section/15/2A) omitted (with effect in accordance with Sch. 18 paras. 12-14, 16 of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 18 para. 10(c)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/18/paragraph/10/c)
 
 [^c12507831]: Textual amendment: Words in s. 15(4) inserted (1.5.1995 with effect as mentioned in [Sch. 4 para. 29](https://www.legislation.gov.uk/ukpga/1995/4/schedule/4/paragraph/29) of the amending Act) by [1995 c. 4](https://www.legislation.gov.uk/ukpga/1995/4), [s. 19](https://www.legislation.gov.uk/ukpga/1995/4/section/19), [Sch. 4 Pt. IV paras. 19](https://www.legislation.gov.uk/ukpga/1995/4/schedule/4/part/IV/paragraph/19), [29](https://www.legislation.gov.uk/ukpga/1995/4/schedule/4/part/IV/paragraph/29)

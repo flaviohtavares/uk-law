@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 83. Declaration of acceptance of office.[^c19903381][^c15095311][^c15095321][^key-e3f07d9eccf075d63bd36d76cc792d30][^key-1551ddf38c187376cac27b875c328132][^key-5a0b3fba4c43364fb4776cd4586ee41e]
+## 83. Declaration of acceptance of office.[^c19903381][^c15095311][^c15095321][^c-e3f07d9eccf075d63bd36d76cc792d30][^c-1551ddf38c187376cac27b875c328132][^c-5a0b3fba4c43364fb4776cd4586ee41e]
 
 *Extent: E+W*
 
-(1)[^key-a619604fa3de73376d3c857250f4f054][^key-4a138d1531a59bd231fae7892578b1ca] The person elected to any of the following offices, that is to say, the office of chairman, vice-chairman, presiding member, deputy presiding member, *(Extent: W)*[^key-a6b36aa9c6aae64d6775998052b24c3f] [^c15095331]. . . councillor or elected mayor[^c15095341] of the council of a county , county borough[^c15095351], district or London borough [^c15095361]. . . shall not, unless he has made a declaration of acceptance of office in a form prescribed by an order made by the Secretary of State[^c15095371], and the declaration has within two months from the day of the election been delivered to the proper officer of the council, act in the office except for the purpose of taking such a declaration.
+(1)[^c-a619604fa3de73376d3c857250f4f054][^c-4a138d1531a59bd231fae7892578b1ca] The person elected to any of the following offices, that is to say, the office of chairman, vice-chairman, presiding member, deputy presiding member, *(Extent: W)*[^c-a6b36aa9c6aae64d6775998052b24c3f] [^c15095331]. . . councillor or elected mayor[^c15095341] of the council of a county , county borough[^c15095351], district or London borough [^c15095361]. . . shall not, unless he has made a declaration of acceptance of office in a form prescribed by an order made by the Secretary of State[^c15095371], and the declaration has within two months from the day of the election been delivered to the proper officer of the council, act in the office except for the purpose of taking such a declaration.
 
-(2)[^key-a619604fa3de73376d3c857250f4f054][^key-4a138d1531a59bd231fae7892578b1ca] If such a declaration is not made and delivered to the proper officer within the appointed time, the office of the person elected shall at the expiration of that time become vacant.
+(2)[^c-a619604fa3de73376d3c857250f4f054][^c-4a138d1531a59bd231fae7892578b1ca] If such a declaration is not made and delivered to the proper officer within the appointed time, the office of the person elected shall at the expiration of that time become vacant.
 
-(3)[^key-a619604fa3de73376d3c857250f4f054][^key-4a138d1531a59bd231fae7892578b1ca] The declaration shall be made before either—
+(3)[^c-a619604fa3de73376d3c857250f4f054][^c-4a138d1531a59bd231fae7892578b1ca] The declaration shall be made before either—
 
 - (a) two members of the council to which the declarant is elected; or
 - (aa)[^c15095381] an elected mayor of the council to which the declarant is elected; or
@@ -54,17 +54,17 @@ make in the presence of a member of the council or of the proper officer of the 
 
     S. 83 excluded (27.11.2001*temp.* until 27.7.2002) by [S.I. 2001/3576](https://www.legislation.gov.uk/uksi/2001/3576), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2001/3576/article/3/1/b)
 
-[^key-e3f07d9eccf075d63bd36d76cc792d30]: Modification: Pt. 5 applied (23.5.2019) by [The Buckinghamshire (Structural Changes) Order 2019 (S.I. 2019/957)](https://www.legislation.gov.uk/uksi/2019/957), [arts. 1](https://www.legislation.gov.uk/uksi/2019/957/article/1), [15(1)](https://www.legislation.gov.uk/uksi/2019/957/article/15/1)
+[^c-e3f07d9eccf075d63bd36d76cc792d30]: Modification: Pt. 5 applied (23.5.2019) by [The Buckinghamshire (Structural Changes) Order 2019 (S.I. 2019/957)](https://www.legislation.gov.uk/uksi/2019/957), [arts. 1](https://www.legislation.gov.uk/uksi/2019/957/article/1), [15(1)](https://www.legislation.gov.uk/uksi/2019/957/article/15/1)
 
-[^key-1551ddf38c187376cac27b875c328132]: Modification: Pt. 5 applied (14.2.2020) by [The Northamptonshire (Structural Changes) Order 2020 (S.I. 2020/156)](https://www.legislation.gov.uk/uksi/2020/156), [arts. 1](https://www.legislation.gov.uk/uksi/2020/156/article/1), [17(1)](https://www.legislation.gov.uk/uksi/2020/156/article/17/1)
+[^c-1551ddf38c187376cac27b875c328132]: Modification: Pt. 5 applied (14.2.2020) by [The Northamptonshire (Structural Changes) Order 2020 (S.I. 2020/156)](https://www.legislation.gov.uk/uksi/2020/156), [arts. 1](https://www.legislation.gov.uk/uksi/2020/156/article/1), [17(1)](https://www.legislation.gov.uk/uksi/2020/156/article/17/1)
 
-[^key-5a0b3fba4c43364fb4776cd4586ee41e]: Modification: Pt. 5 applied (18.3.2022) by [The Cumbria (Structural Changes) Order 2022 (S.I. 2022/331)](https://www.legislation.gov.uk/uksi/2022/331), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/331/article/1/1), [18(1)](https://www.legislation.gov.uk/uksi/2022/331/article/18/1)
+[^c-5a0b3fba4c43364fb4776cd4586ee41e]: Modification: Pt. 5 applied (18.3.2022) by [The Cumbria (Structural Changes) Order 2022 (S.I. 2022/331)](https://www.legislation.gov.uk/uksi/2022/331), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/331/article/1/1), [18(1)](https://www.legislation.gov.uk/uksi/2022/331/article/18/1)
 
-[^key-a619604fa3de73376d3c857250f4f054]: Modification: S. 83(1)-(3) modified (14.2.2020) by [The Northamptonshire (Structural Changes) Order 2020 (S.I. 2020/156)](https://www.legislation.gov.uk/uksi/2020/156), [arts. 1](https://www.legislation.gov.uk/uksi/2020/156/article/1), [20(15)](https://www.legislation.gov.uk/uksi/2020/156/article/20/15)[(16)](https://www.legislation.gov.uk/uksi/2020/156/article/20/16)
+[^c-a619604fa3de73376d3c857250f4f054]: Modification: S. 83(1)-(3) modified (14.2.2020) by [The Northamptonshire (Structural Changes) Order 2020 (S.I. 2020/156)](https://www.legislation.gov.uk/uksi/2020/156), [arts. 1](https://www.legislation.gov.uk/uksi/2020/156/article/1), [20(15)](https://www.legislation.gov.uk/uksi/2020/156/article/20/15)[(16)](https://www.legislation.gov.uk/uksi/2020/156/article/20/16)
 
-[^key-4a138d1531a59bd231fae7892578b1ca]: Modification: [S. 83(1)-(3)](https://www.legislation.gov.uk/ukpga/1972/70/section/83/1) modified (10.3.2026) by [The Surrey (Structural Changes) Order 2026 (S.I. 2026/264)](https://www.legislation.gov.uk/uksi/2026/264), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/264/article/1/1), [47(12)](https://www.legislation.gov.uk/uksi/2026/264/article/47/12), [49(12)](https://www.legislation.gov.uk/uksi/2026/264/article/49/12)
+[^c-4a138d1531a59bd231fae7892578b1ca]: Modification: [S. 83(1)-(3)](https://www.legislation.gov.uk/ukpga/1972/70/section/83/1) modified (10.3.2026) by [The Surrey (Structural Changes) Order 2026 (S.I. 2026/264)](https://www.legislation.gov.uk/uksi/2026/264), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/264/article/1/1), [47(12)](https://www.legislation.gov.uk/uksi/2026/264/article/47/12), [49(12)](https://www.legislation.gov.uk/uksi/2026/264/article/49/12)
 
-[^key-a6b36aa9c6aae64d6775998052b24c3f]: Textual amendment: Words in s. 83(1) inserted (30.9.2013) by [Local Government (Democracy) (Wales) Act 2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4), [ss. 51(5)](https://www.legislation.gov.uk/anaw/2013/4/section/51/5), [75(2)(d)](https://www.legislation.gov.uk/anaw/2013/4/section/75/2/d)
+[^c-a6b36aa9c6aae64d6775998052b24c3f]: Textual amendment: Words in s. 83(1) inserted (30.9.2013) by [Local Government (Democracy) (Wales) Act 2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4), [ss. 51(5)](https://www.legislation.gov.uk/anaw/2013/4/section/51/5), [75(2)(d)](https://www.legislation.gov.uk/anaw/2013/4/section/75/2/d)
 
 [^c15095331]: Textual amendment: Words repealed by [S.I. 1977/1710](https://www.legislation.gov.uk/uksi/1977/1710), [art. 3](https://www.legislation.gov.uk/uksi/1977/1710/article/3)(*c*)
 

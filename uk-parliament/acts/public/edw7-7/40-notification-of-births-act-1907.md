@@ -33,7 +33,7 @@ An Act to provide for the early Notification of Births.
 
 \[28th August 1907\] [^c5787671][^c5787681][^c5787691][^c5787701]
 
-## 1. Provisions for the earlier notification of births.[^key-6765534e2bd51207a113e1822bc900b7]
+## 1. Provisions for the earlier notification of births.[^c-6765534e2bd51207a113e1822bc900b7]
 
 The provisions of this section shall have effect in the area of any local authority [^c5788131]. . .
 
@@ -96,7 +96,7 @@ This Act may be cited as the Notification of Births Act 1907.
 
 [^c5787701]: Textual amendment: Act (except ss. 1, 6) repealed (S.) (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt.VIII](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/VIII)
 
-[^key-6765534e2bd51207a113e1822bc900b7]: Modification: S. 1 amended (N.I.) by S.I. 1991/194 (N.I. 1), art. 32(1)(1A)(2) (as substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [s. 34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 13(11)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/13/11); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2))
+[^c-6765534e2bd51207a113e1822bc900b7]: Modification: S. 1 amended (N.I.) by S.I. 1991/194 (N.I. 1), art. 32(1)(1A)(2) (as substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [s. 34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 13(11)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/13/11); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2))
 
 [^c5788131]: Textual amendment: Words repealed by [Notification of Births (Extension) Act 1915 (c. 64)](https://www.legislation.gov.uk/ukpga/1915/64), [Sch.](https://www.legislation.gov.uk/ukpga/1915/64/schedule)
 

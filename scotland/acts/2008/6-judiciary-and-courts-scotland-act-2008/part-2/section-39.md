@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Temporary judges: removal from office[^key-41a95a9c13f22f4d739f854de65decde]
+## 39. Temporary judges: removal from office[^c-41a95a9c13f22f4d739f854de65decde]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41a95a9c13f22f4d739f854de65decde]: Commencement: S. 39 in force at 1.4.2010 by [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/39/article/2/b), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/39/article/3))
+[^c-41a95a9c13f22f4d739f854de65decde]: Commencement: S. 39 in force at 1.4.2010 by [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/39/article/2/b), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/39/article/3))

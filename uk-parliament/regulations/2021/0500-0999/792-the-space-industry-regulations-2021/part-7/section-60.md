@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Records[^key-d731d9909b1cedb9e64ae45a87791863]
+## 60. Records[^c-d731d9909b1cedb9e64ae45a87791863]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d731d9909b1cedb9e64ae45a87791863]: Commencement: Reg. 60 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-d731d9909b1cedb9e64ae45a87791863]: Commencement: Reg. 60 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

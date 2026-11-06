@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 364. Director of Service Prosecutions[^key-932e89760c5c8e66e21aecc6e8def19b]
+## 364. Director of Service Prosecutions[^c-932e89760c5c8e66e21aecc6e8def19b]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-932e89760c5c8e66e21aecc6e8def19b]: Commencement: S. 364 in force at 24.6.2008 by [S.I. 2008/1650](https://www.legislation.gov.uk/uksi/2008/1650), [art. 4(b)](https://www.legislation.gov.uk/uksi/2008/1650/article/4/b)
+[^c-932e89760c5c8e66e21aecc6e8def19b]: Commencement: S. 364 in force at 24.6.2008 by [S.I. 2008/1650](https://www.legislation.gov.uk/uksi/2008/1650), [art. 4(b)](https://www.legislation.gov.uk/uksi/2008/1650/article/4/b)

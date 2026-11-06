@@ -86,7 +86,7 @@ References to the repealed Directives shall be construed as references to this R
 
 It shall apply from 1 June 2007.
 
-[^key-0b3abb6769c4cd4f05d827239405f23b]...
+[^c-0b3abb6769c4cd4f05d827239405f23b]...
 
 ## ANNEX
 
@@ -124,7 +124,7 @@ B.1.1.
 
 Personnel
 
-Sampling shall be performed by an authorised person [^key-221d59e5d24a34d67568386b9e02a375]....
+Sampling shall be performed by an authorised person [^c-221d59e5d24a34d67568386b9e02a375]....
 
 B.1.2.
 
@@ -154,7 +154,7 @@ B.1.6.
 
 Samples for enforcement, defence and referee purposes
 
-The samples for enforcement, defence and referee purposes shall be taken from the homogenised aggregate sample unless this conflicts with the rules applicable in each constituent territory of Great Britain[^key-fd1a7fd5fb7b358c5853d2ffd869b9a1] as regards the rights of the food business operator.
+The samples for enforcement, defence and referee purposes shall be taken from the homogenised aggregate sample unless this conflicts with the rules applicable in each constituent territory of Great Britain[^c-fd1a7fd5fb7b358c5853d2ffd869b9a1] as regards the rights of the food business operator.
 
 B.1.7.
 
@@ -168,7 +168,7 @@ B.1.8.
 
 Sealing and labelling of samples
 
-Each sample taken for official use shall be sealed at the place of sampling and identified following the rules applicable in each constituent territory of Great Britain[^key-60c7ed27b92b26e4a37593d12b177ef3].
+Each sample taken for official use shall be sealed at the place of sampling and identified following the rules applicable in each constituent territory of Great Britain[^c-60c7ed27b92b26e4a37593d12b177ef3].
 
 A record shall be kept of each sampling, permitting each lot or sublot to be identified unambiguously (reference to the lot number shall be given) and giving the date and place of sampling together with any additional information likely to be of assistance to the analyst.
 
@@ -314,7 +314,7 @@ C.2.4.
 
 Samples for enforcement, defence and referee purposes
 
-The samples for enforcement, defence and referee purposes shall be taken from the homogenised material unless this conflicts with the rules applicable in each constituent territory of Great Britain'[^key-158d6cb1c7928bbb9a0ff59499187d56] on sampling as regards the rights of the food business operator.
+The samples for enforcement, defence and referee purposes shall be taken from the homogenised material unless this conflicts with the rules applicable in each constituent territory of Great Britain'[^c-158d6cb1c7928bbb9a0ff59499187d56] on sampling as regards the rights of the food business operator.
 
 C.3.
 
@@ -398,7 +398,7 @@ C.3.3.1.
 
 Performance criteria
 
-Where no specific methods for the determination of contaminants in foodstuffs are prescribed [^key-e25dc661e83fc7e6a3fb0cdfa2dd418a]..., laboratories may select any validated method of analysis for the respective matrix provided that the selected method meets the specific performance criteria set out in Tables 5, 6 and 7.
+Where no specific methods for the determination of contaminants in foodstuffs are prescribed [^c-e25dc661e83fc7e6a3fb0cdfa2dd418a]..., laboratories may select any validated method of analysis for the respective matrix provided that the selected method meets the specific performance criteria set out in Tables 5, 6 and 7.
 
 It is recommended that fully validated methods (i.e. methods validated by collaborative trial for the respective matrix) are used where appropriate and available. Other suitable validated methods (e.g. in-house validated methods for the respective matrix) may also be used provided that they fulfil the performance criteria set out in Tables 5, 6 and 7.
 
@@ -646,15 +646,15 @@ The present interpretation rules shall apply for the analytical result obtained 
 
 [^f00007]: Footnote: Commission Regulation (EU) 2017/2158 of[^c000002] 20 November 2017 establishing mitigation measures and benchmark levels for the reduction of the presence of acrylamide in food ( [OJ L 304, 21.11.2017, p. 24](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2017.304.01.0024.01.ENG) ).
 
-[^key-0b3abb6769c4cd4f05d827239405f23b]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2007/333/signature) omitted (31.12.2020) by virtue of [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [29](https://www.legislation.gov.uk/uksi/2019/639/regulation/29); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0b3abb6769c4cd4f05d827239405f23b]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2007/333/signature) omitted (31.12.2020) by virtue of [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [29](https://www.legislation.gov.uk/uksi/2019/639/regulation/29); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-221d59e5d24a34d67568386b9e02a375]: Textual amendment: Words in Annex para. B.1.1 substituted (31.12.2020) by [S.I. 2019/639](https://www.legislation.gov.uk/uksi/2019/639), [reg. 30(a)](https://www.legislation.gov.uk/uksi/2019/639/regulation/30/a) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(10)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/10))
+[^c-221d59e5d24a34d67568386b9e02a375]: Textual amendment: Words in Annex para. B.1.1 substituted (31.12.2020) by [S.I. 2019/639](https://www.legislation.gov.uk/uksi/2019/639), [reg. 30(a)](https://www.legislation.gov.uk/uksi/2019/639/regulation/30/a) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(10)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/10))
 
-[^key-fd1a7fd5fb7b358c5853d2ffd869b9a1]: Textual amendment: Words in Annex para. B.1.6 substituted (31.12.2020) by [S.I. 2019/639](https://www.legislation.gov.uk/uksi/2019/639), [reg. 30(b)](https://www.legislation.gov.uk/uksi/2019/639/regulation/30/b) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(10)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/10))
+[^c-fd1a7fd5fb7b358c5853d2ffd869b9a1]: Textual amendment: Words in Annex para. B.1.6 substituted (31.12.2020) by [S.I. 2019/639](https://www.legislation.gov.uk/uksi/2019/639), [reg. 30(b)](https://www.legislation.gov.uk/uksi/2019/639/regulation/30/b) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(10)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/10))
 
 [^c000003]: Textual amendment: Inserted by [Commission Regulation (EU) No 836/2011 of 19 August 2011 amending Regulation (EC) No 333/2007 laying down the methods of sampling and analysis for the official control of the levels of lead, cadmium, mercury, inorganic tin, 3-MCPD and benzo(a)pyrene in foodstuffs (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2011/836).
 
-[^key-60c7ed27b92b26e4a37593d12b177ef3]: Textual amendment: Words in Annex para. B.1.8 omitted (31.12.2020) by virtue of [S.I. 2019/639](https://www.legislation.gov.uk/uksi/2019/639), [reg. 30(c)](https://www.legislation.gov.uk/uksi/2019/639/regulation/30/c) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(10)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/10))
+[^c-60c7ed27b92b26e4a37593d12b177ef3]: Textual amendment: Words in Annex para. B.1.8 omitted (31.12.2020) by virtue of [S.I. 2019/639](https://www.legislation.gov.uk/uksi/2019/639), [reg. 30(c)](https://www.legislation.gov.uk/uksi/2019/639/regulation/30/c) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(10)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/10))
 
 [^c000004]: Textual amendment: Substituted by [Commission Regulation (EU) No 836/2011 of 19 August 2011 amending Regulation (EC) No 333/2007 laying down the methods of sampling and analysis for the official control of the levels of lead, cadmium, mercury, inorganic tin, 3-MCPD and benzo(a)pyrene in foodstuffs (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2011/836).
 
@@ -666,7 +666,7 @@ The present interpretation rules shall apply for the analytical result obtained 
 
 [^c000006]: Textual amendment: Inserted by [Commission Regulation (EU) 2016/582 of 15 April 2016 amending Regulation (EC) No 333/2007 as regards the analysis of inorganic arsenic, lead and polycyclic aromatic hydrocarbons and certain performance criteria for analysis (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2016/582).
 
-[^key-158d6cb1c7928bbb9a0ff59499187d56]: Textual amendment: Words in Annex para. C.2.4 substituted (31.12.2020) by [S.I. 2019/639](https://www.legislation.gov.uk/uksi/2019/639), [reg. 30(d)](https://www.legislation.gov.uk/uksi/2019/639/regulation/30/d) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(10)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/10))
+[^c-158d6cb1c7928bbb9a0ff59499187d56]: Textual amendment: Words in Annex para. C.2.4 substituted (31.12.2020) by [S.I. 2019/639](https://www.legislation.gov.uk/uksi/2019/639), [reg. 30(d)](https://www.legislation.gov.uk/uksi/2019/639/regulation/30/d) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(10)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/10))
 
 [^f00012]: Footnote: Horwitz W. and Albert, R., 2006, The Horwitz Ratio (HorRat): A useful Index of Method Performance with respect to Precision, Journal of AOAC International, Vol. 89, 1095-1109.[^c000004]
 
@@ -682,7 +682,7 @@ The present interpretation rules shall apply for the analytical result obtained 
 
 [^f00018]: Footnote: Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007 ( [OJ L 347, 20.12.2013, p. 671](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.347.01.0671.01.ENG) ).
 
-[^key-e25dc661e83fc7e6a3fb0cdfa2dd418a]: Textual amendment: Words in Annex para. C.3.3.1 omitted (31.12.2020) by virtue of [S.I. 2019/639](https://www.legislation.gov.uk/uksi/2019/639), [reg. 30(e)](https://www.legislation.gov.uk/uksi/2019/639/regulation/30/e) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(10)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/10))
+[^c-e25dc661e83fc7e6a3fb0cdfa2dd418a]: Textual amendment: Words in Annex para. C.3.3.1 omitted (31.12.2020) by virtue of [S.I. 2019/639](https://www.legislation.gov.uk/uksi/2019/639), [reg. 30(e)](https://www.legislation.gov.uk/uksi/2019/639/regulation/30/e) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(10)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/10))
 
 [^c000007]: Textual amendment: Inserted by [Commission Implementing Regulation (EU) 2019/2093 of 29 November 2019 amending Regulation (EC) No 333/2007 as regards the analysis of 3-monochloropropane-1,2-diol (3-MCPD) fatty acid esters, glycidyl fatty acid esters, perchlorate and acrylamide (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2019/2093).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Building regulations[^key-e803085be88ce9c1f6f2331881342e82][^key-6372e1f767e518f960dd6b3f067181f7][^key-4cde8b5ca937b7be9727505b64c5223b]
+## 33. Building regulations[^c-e803085be88ce9c1f6f2331881342e82][^c-6372e1f767e518f960dd6b3f067181f7][^c-4cde8b5ca937b7be9727505b64c5223b]
 
 *Extent: E+W*
 
@@ -195,8 +195,8 @@ In Schedule 1 to the Building Act 1984 (building regulations) after paragraph 1 
 
 ## Annotations
 
-[^key-e803085be88ce9c1f6f2331881342e82]: Commencement: S. 33 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(ii)(c)
+[^c-e803085be88ce9c1f6f2331881342e82]: Commencement: S. 33 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(ii)(c)
 
-[^key-6372e1f767e518f960dd6b3f067181f7]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2022/30/section/33) in force at 6.4.2023 in force for E. and for W. except for specified purposes by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(n)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/n)
+[^c-6372e1f767e518f960dd6b3f067181f7]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2022/30/section/33) in force at 6.4.2023 in force for E. and for W. except for specified purposes by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(n)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/n)
 
-[^key-4cde8b5ca937b7be9727505b64c5223b]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2022/30/section/33) in force at 5.9.2023 for W. in so far as not already in force by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(i)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/i)
+[^c-4cde8b5ca937b7be9727505b64c5223b]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2022/30/section/33) in force at 5.9.2023 for W. in so far as not already in force by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(i)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/i)

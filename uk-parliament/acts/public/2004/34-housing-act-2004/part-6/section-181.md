@@ -42,7 +42,7 @@ summary: ''
 
 (6) Otherwise—
 
-- (a) the application is to be determined by the appropriate tribunal[^key-c1312bb5a227ae053bba73ea66b148b5], and
+- (a) the application is to be determined by the appropriate tribunal[^c-c1312bb5a227ae053bba73ea66b148b5], and
 - (b) the Secretary of State must make all such arrangements as he considers necessary for the purpose of, or in connection with, enabling it to be so determined.
 
 ## Annotations
@@ -51,4 +51,4 @@ summary: ''
 
 [^c2057341]: Textual amendment: Words in s. 181(3) substituted (1.6.2009) by [Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 5(1)(2)](https://www.legislation.gov.uk/uksi/2009/1307/article/5/1/2), [Sch. 1 para. 275](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/275) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
-[^key-c1312bb5a227ae053bba73ea66b148b5]: Textual amendment: Words in [s. 181(6)(a)](https://www.legislation.gov.uk/ukpga/2004/34/section/181/6/a) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 172](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/172) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-c1312bb5a227ae053bba73ea66b148b5]: Textual amendment: Words in [s. 181(6)(a)](https://www.legislation.gov.uk/ukpga/2004/34/section/181/6/a) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 172](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/172) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

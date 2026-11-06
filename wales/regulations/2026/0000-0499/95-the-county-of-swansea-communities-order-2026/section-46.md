@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Creation of the new community ward of Reynoldston[^key-8963b2bf21b7d287f4b02e9414fc58d9]
+## 46. Creation of the new community ward of Reynoldston[^c-8963b2bf21b7d287f4b02e9414fc58d9]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A new community ward is created in the community of Gower South which is to be k
 
 ## Annotations
 
-[^key-8963b2bf21b7d287f4b02e9414fc58d9]: Commencement: [Art. 46](https://www.legislation.gov.uk/wsi/2026/95/article/46) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-8963b2bf21b7d287f4b02e9414fc58d9]: Commencement: [Art. 46](https://www.legislation.gov.uk/wsi/2026/95/article/46) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

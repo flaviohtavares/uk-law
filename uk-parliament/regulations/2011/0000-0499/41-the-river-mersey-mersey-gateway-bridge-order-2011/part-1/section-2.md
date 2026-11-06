@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-3d01977a9c4d8f47cc66bb5414553f3b]
+## 2. Interpretation[^c-3d01977a9c4d8f47cc66bb5414553f3b]
 
 *Extent: E+W+S*
 
@@ -28,7 +28,7 @@ summary: ''
 - “the 1990 Act” means the Town and Country Planning Act 1990[^f00007];
 - “the 1991 Act” means the New Roads and Street Works Act 1991[^f00008];
 - “the 2000 Act” means the Transport Act 2000[^f00009];
-- “the 2013 Regulations” means the Road User Charging Schemes (Penalty Charges, Adjudication and Enforcement) (England) Regulations 2013;[^key-5c58ea6b8a22fc9eae0af87da50e80df]
+- “the 2013 Regulations” means the Road User Charging Schemes (Penalty Charges, Adjudication and Enforcement) (England) Regulations 2013;[^c-5c58ea6b8a22fc9eae0af87da50e80df]
 - “address” includes any number or address used for the purposes of electronic transmission;
 - “authorised activities” means the construction, carrying out and maintenance of the authorised works, the operation, use and maintenance of the new crossing and the exercise of any power, authority or discretion for the time being vested in or exercisable by the undertaker under this Order or otherwise;
 - “authorised works” means the scheduled works and any other works authorised by this Order;
@@ -112,7 +112,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3d01977a9c4d8f47cc66bb5414553f3b]: Commencement: Art. 2 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-3d01977a9c4d8f47cc66bb5414553f3b]: Commencement: Art. 2 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
 
 [^f00004]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -126,7 +126,7 @@ summary: ''
 
 [^f00009]: Footnote: [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38).
 
-[^key-5c58ea6b8a22fc9eae0af87da50e80df]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/41/article/2/1) inserted (14.9.2016) by [The River Mersey (Mersey Gateway Bridge) (Amendment) Order 2016 (S.I. 2016/851)](https://www.legislation.gov.uk/uksi/2016/851), [arts. 1](https://www.legislation.gov.uk/uksi/2016/851/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2016/851/article/3/2)
+[^c-5c58ea6b8a22fc9eae0af87da50e80df]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/41/article/2/1) inserted (14.9.2016) by [The River Mersey (Mersey Gateway Bridge) (Amendment) Order 2016 (S.I. 2016/851)](https://www.legislation.gov.uk/uksi/2016/851), [arts. 1](https://www.legislation.gov.uk/uksi/2016/851/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2016/851/article/3/2)
 
 [^f00010]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).
 

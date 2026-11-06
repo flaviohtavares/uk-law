@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86. Breach of conditions of grant or loan[^key-61b74fbaa00415dd1a57c85ccc2b4e38]
+## 86. Breach of conditions of grant or loan[^c-61b74fbaa00415dd1a57c85ccc2b4e38]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ it may, with the consent of the Scottish Ministers and subject to any conditions
 
 ## Annotations
 
-[^key-61b74fbaa00415dd1a57c85ccc2b4e38]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2006/1/section/86) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-61b74fbaa00415dd1a57c85ccc2b4e38]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2006/1/section/86) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

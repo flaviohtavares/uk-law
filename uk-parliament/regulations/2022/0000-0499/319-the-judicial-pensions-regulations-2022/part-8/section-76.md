@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Surviving adults[^key-afb1d2f3c3fbccde0ec1fa0037870d3d]
+## 76. Surviving adults[^c-afb1d2f3c3fbccde0ec1fa0037870d3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In these Regulations—
 
 ## Annotations
 
-[^key-afb1d2f3c3fbccde0ec1fa0037870d3d]: Commencement: Reg. 76 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-afb1d2f3c3fbccde0ec1fa0037870d3d]: Commencement: Reg. 76 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

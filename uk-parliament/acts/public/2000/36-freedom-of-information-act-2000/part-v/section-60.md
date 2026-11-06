@@ -22,7 +22,7 @@ summary: ''
 
 (1) Where a certificate under section 23(2) or 24(3) has been issued—
 
-- (a) the Commission[^key-2ca995ae0e489dc8c26167b1f18dbe17], or
+- (a) the Commission[^c-2ca995ae0e489dc8c26167b1f18dbe17], or
 - (b) any applicant whose request for information is affected by the issue of the certificate,
 
 may appeal to the Tribunal against the certificate.
@@ -39,4 +39,4 @@ may appeal to the Tribunal against the certificate.
 
 [^c11341951]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2000/36/section/60) wholly in force at 1.1.2005; [s. 60](https://www.legislation.gov.uk/ukpga/2000/36/section/60) not in force at Royal Assent, see [s. 87(3)](https://www.legislation.gov.uk/ukpga/2000/36/section/87/3); [s. 60](https://www.legislation.gov.uk/ukpga/2000/36/section/60) in force for certain purposes at 1.1.2005 by [S.I. 2002/1909](https://www.legislation.gov.uk/uksi/2002/1909), [art. 2](https://www.legislation.gov.uk/uksi/2002/1909/article/2) and otherwise in force at 1.1.2005 by [S.I. 2004/3122](https://www.legislation.gov.uk/uksi/2004/3122), [art. 2](https://www.legislation.gov.uk/uksi/2004/3122/article/2)
 
-[^key-2ca995ae0e489dc8c26167b1f18dbe17]: Textual amendment: Word in [s. 60(1)(a)](https://www.legislation.gov.uk/ukpga/2000/36/section/60/1/a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 12(20)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/12/20); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-2ca995ae0e489dc8c26167b1f18dbe17]: Textual amendment: Word in [s. 60(1)(a)](https://www.legislation.gov.uk/ukpga/2000/36/section/60/1/a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 12(20)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/12/20); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

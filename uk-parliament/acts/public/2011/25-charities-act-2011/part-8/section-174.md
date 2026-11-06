@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The Secretary of State[^key-7dde1211299b085c9c73090e958daa37] may by order amend any provision listed in subsection (2)—
+(1) The Secretary of State[^c-7dde1211299b085c9c73090e958daa37] may by order amend any provision listed in subsection (2)—
 
 - (a) by substituting a different sum for the sum for the time being specified in that provision, or
 - (b) if the provision specifies more than one sum, by substituting a different sum for any sum specified in that provision.
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7dde1211299b085c9c73090e958daa37]: Textual amendment: Words in [s. 174(1)](https://www.legislation.gov.uk/ukpga/2011/25/section/174/1) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(aa)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/aa) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-7dde1211299b085c9c73090e958daa37]: Textual amendment: Words in [s. 174(1)](https://www.legislation.gov.uk/ukpga/2011/25/section/174/1) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(aa)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/aa) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))

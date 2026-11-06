@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Keeper's warranty on registration under sections 25 and 29[^key-ebd1361098dcbfe4894a3818c69c217d]
+## 74. Keeper's warranty on registration under sections 25 and 29[^c-ebd1361098dcbfe4894a3818c69c217d]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ebd1361098dcbfe4894a3818c69c217d]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2012/5/section/74) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-ebd1361098dcbfe4894a3818c69c217d]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2012/5/section/74) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

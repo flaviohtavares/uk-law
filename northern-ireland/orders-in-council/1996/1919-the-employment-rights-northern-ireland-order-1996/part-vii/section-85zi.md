@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 85ZI. Agency workers: supplementary[^key-00e00d8edbe359062bf6e90e94c1983e]
+## 85ZI. Agency workers: supplementary[^c-00e00d8edbe359062bf6e90e94c1983e]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00e00d8edbe359062bf6e90e94c1983e]: Textual amendment: Arts. 85ZE-85ZI and cross-headings inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 15(2)](https://www.legislation.gov.uk/nia/2015/1/section/15/2), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(l)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/l)
+[^c-00e00d8edbe359062bf6e90e94c1983e]: Textual amendment: Arts. 85ZE-85ZI and cross-headings inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 15(2)](https://www.legislation.gov.uk/nia/2015/1/section/15/2), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(l)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/l)

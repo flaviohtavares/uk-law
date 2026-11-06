@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Procedure for orders designating National Parks[^key-fb1c369a24e264c1da657f2c51474a3d]
+## 60. Procedure for orders designating National Parks[^c-fb1c369a24e264c1da657f2c51474a3d]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb1c369a24e264c1da657f2c51474a3d]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2006/16/section/60) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-fb1c369a24e264c1da657f2c51474a3d]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2006/16/section/60) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

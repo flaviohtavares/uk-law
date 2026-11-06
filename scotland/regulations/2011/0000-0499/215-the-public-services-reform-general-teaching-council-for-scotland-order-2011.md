@@ -54,11 +54,11 @@ In accordance with section 25(2)(c) of the Act, the draft of this Order has bee
 
 ## PART 1 — INTRODUCTORY
 
-### 1. Citation[^key-bd11e8ea86369bae7607c219b7895cf4]
+### 1. Citation[^c-bd11e8ea86369bae7607c219b7895cf4]
 
 This Order may be cited as the Public Services Reform (General Teaching Council for Scotland) Order 2011.
 
-### 2. Commencement[^key-266bc41badba03ea6dcd0c58e34d4a8d]
+### 2. Commencement[^c-266bc41badba03ea6dcd0c58e34d4a8d]
 
 (1) The following provisions of this Order come into force on 4th April 2011:—
 
@@ -71,14 +71,14 @@ This Order may be cited as the Public Services Reform (General Teaching Council 
 
 (4) Where a provision of this Order requires consultation to take place and, before that provision comes into force, consultation takes place which would have satisfied the requirements to any extent had the provision been in force, the requirement is to be taken to have been satisfied to that extent.
 
-### 3. Interpretation[^key-10d7ef1ab5746ed50d870cadaed79e20][^key-c89488decc4f268f794cfde2179d81d2]
+### 3. Interpretation[^c-10d7ef1ab5746ed50d870cadaed79e20][^c-c89488decc4f268f794cfde2179d81d2]
 
 In this Order—
 
 - “**the 1980 Act**” means the Education (Scotland) Act 1980[^f00002];
 - “**the 1965 Act**” means the Teaching Council (Scotland) Act 1965[^f00003];
 - “**educational establishment**” has the same meaning as in the 1980 Act;
-- “**further education institution**” means a body listed under the heading “Institutions formerly eligible for funding by the Scottish Further Education Funding Council” in schedule 2 to the Further and Higher Education (Scotland) Act 2005[^f00004] or a college of further education which is assigned to a regional strategic body by order made under section 7C(1) of that Act,[^key-54e59f9a5b3144b2f79b4c4558c749bd] and “**further education teacher**” is to be construed accordingly;
+- “**further education institution**” means a body listed under the heading “Institutions formerly eligible for funding by the Scottish Further Education Funding Council” in schedule 2 to the Further and Higher Education (Scotland) Act 2005[^f00004] or a college of further education which is assigned to a regional strategic body by order made under section 7C(1) of that Act,[^c-54e59f9a5b3144b2f79b4c4558c749bd] and “**further education teacher**” is to be construed accordingly;
 - “**the GTCS**” has the meaning given by article 4;
 - “**the GTCS rules**” has the meaning given by article 15;
 - “**recognised teaching qualification**” is to be construed in accordance with articles 29 and 30;
@@ -90,7 +90,7 @@ In this Order—
 
 ## PART 2 — THE GENERAL TEACHING COUNCIL FOR SCOTLAND
 
-### 4. General Teaching Council for Scotland[^key-eca98333098bf895f4df43eeaec4f429]
+### 4. General Teaching Council for Scotland[^c-eca98333098bf895f4df43eeaec4f429]
 
 (1) There is to continue to be a body corporate known as the General Teaching Council for Scotland (“the GTCS”).
 
@@ -98,14 +98,14 @@ In this Order—
 
 (3) Schedule 3 makes further provision about the GTCS’s status, proceedings, staff and other matters.
 
-### 5. Principal aims[^key-402d9390a8244dd960a3825e8fad56bb]
+### 5. Principal aims[^c-402d9390a8244dd960a3825e8fad56bb]
 
 The GTCS’s principal aims are—
 
 - (a) to contribute to improving the quality of teaching and learning; and
 - (b) to maintain and improve teachers’ professional standards.
 
-### 6. General functions[^key-89c9589ec80c650801e4007e9c862d4c]
+### 6. General functions[^c-89c9589ec80c650801e4007e9c862d4c]
 
 The GTCS’s general functions are—
 
@@ -120,11 +120,11 @@ The GTCS’s general functions are—
   - (ii) the supply of teachers (except matters of remuneration or conditions of service); and
 - (f) to keep such other registers of other individuals working in educational settings as it thinks fit.
 
-### 7. Public interest[^key-3e8fd90cc37016ac5bc65f134ecac8f9]
+### 7. Public interest[^c-3e8fd90cc37016ac5bc65f134ecac8f9]
 
 The GTCS must have regard to the interests of the public when performing its functions.
 
-### 8. Best regulatory practice[^key-b00ba7b0f4b545a34b27a0d035882bab]
+### 8. Best regulatory practice[^c-b00ba7b0f4b545a34b27a0d035882bab]
 
 The GTCS must perform its functions in a way which—
 
@@ -133,7 +133,7 @@ The GTCS must perform its functions in a way which—
 - (c) encourages equal opportunities and in particular the observance of the requirements of the law for the time being relating to equal opportunities; and
 - (d) is consistent with any other principle which appears to it to represent best regulatory practice.
 
-### 9. General powers[^key-a86e2d35b32ce04cdf3f9d31a22fef99]
+### 9. General powers[^c-a86e2d35b32ce04cdf3f9d31a22fef99]
 
 (1) The GTCS may do anything which appears to it to be appropriate for the purposes of, or in connection with, the performance of its functions.
 
@@ -144,7 +144,7 @@ The GTCS must perform its functions in a way which—
 - (c) borrow money;
 - (d) charge fees for providing services.
 
-### 10. Advice, research, publication and promotion[^key-948036a8199bd298262f4a48aa82bd22]
+### 10. Advice, research, publication and promotion[^c-948036a8199bd298262f4a48aa82bd22]
 
 The GTCS may (as it thinks fit)—
 
@@ -153,11 +153,11 @@ The GTCS may (as it thinks fit)—
 - (c) publish, or assist in publishing, any information or advice relating to its functions;
 - (d) publicise, or assist in publicising, any matter relating to its functions.
 
-### 11. Recommendations to the Scottish Ministers[^key-94cbfff7801e753c86feb08859ccb902]
+### 11. Recommendations to the Scottish Ministers[^c-94cbfff7801e753c86feb08859ccb902]
 
 The Scottish Ministers must, when performing functions relating to education, have regard to any relevant recommendations made by the GTCS.
 
-### 12. Co-operation with other teaching councils[^key-2af38322e08c29272e7d4b39d169f67b]
+### 12. Co-operation with other teaching councils[^c-2af38322e08c29272e7d4b39d169f67b]
 
 (1) The GTCS must—
 
@@ -171,7 +171,7 @@ The Scottish Ministers must, when performing functions relating to education, ha
 - (c) the General Teaching Council for Northern Ireland; and
 - (d) any successor body or person which takes over all or any of the functions of the councils listed in sub-paragraphs (a) to (c).
 
-### 13. Employers’ duty to provide information about teachers[^key-b1a46ab2703f29490fee3dae08f9926f]
+### 13. Employers’ duty to provide information about teachers[^c-b1a46ab2703f29490fee3dae08f9926f]
 
 A person who employs a registered teacher to work in an educational establishment must provide the GTCS with—
 
@@ -182,7 +182,7 @@ A person who employs a registered teacher to work in an educational establishmen
 
 ### The Register of Teachers
 
-#### 14. The register of teachers[^key-e9d3f747d72546de950ab1a14e4f26a1]
+#### 14. The register of teachers[^c-e9d3f747d72546de950ab1a14e4f26a1]
 
 (1) It is for the GTCS to sub-divide or otherwise organise entries in the register in such manner as it thinks fit.
 
@@ -194,7 +194,7 @@ A person who employs a registered teacher to work in an educational establishmen
 
 (3) The GTCS must make the register available for inspection by the public.
 
-#### 15. GTCS rules[^key-696f5768a26cf2853c042b2c9aafed7c][^key-b93478b45c7783015534be655486621b]
+#### 15. GTCS rules[^c-696f5768a26cf2853c042b2c9aafed7c][^c-b93478b45c7783015534be655486621b]
 
 (1) The GTCS must make and publish rules (“the GTCS rules”)—
 
@@ -227,7 +227,7 @@ A person who employs a registered teacher to work in an educational establishmen
   - (iii) such other persons appearing to it to have an interest; and
 - (b) have regard to any views expressed by those consulted.
 
-#### 16. Entry in the register of teachers[^key-ded1af4fa31657ba2bf3739d6eb9c4ca]
+#### 16. Entry in the register of teachers[^c-ded1af4fa31657ba2bf3739d6eb9c4ca]
 
 (1) The GTCS must include an individual in the register if—
 
@@ -242,37 +242,37 @@ A person who employs a registered teacher to work in an educational establishmen
 - (a) the individual’s name and address; and
 - (b) such other information about the individual’s qualifications and other particulars as may be specified in the GTCS rules.
 
-#### 17. Recognised teaching qualifications[^key-a7f8a536861a603888e62434a0ea41ca]
+#### 17. Recognised teaching qualifications[^c-a7f8a536861a603888e62434a0ea41ca]
 
 The registration criteria set out in the GTCS rules must provide that an individual may be registered only if—
 
 - (a) the individual has obtained a recognised teaching qualification; or
 - (b) the GTCS is otherwise satisfied that the individual’s education, training or experience warrants the individual’s registration.
 
-#### 18. Fitness to teach[^key-a4cea86d269ef0d499c01af91d349a3b][^key-2752755f39437281472265c39b0caef4][^key-4f83343aae2a645153dfd47fec394203]
+#### 18. Fitness to teach[^c-a4cea86d269ef0d499c01af91d349a3b][^c-2752755f39437281472265c39b0caef4][^c-4f83343aae2a645153dfd47fec394203]
 
-(1)[^key-a4cea86d269ef0d499c01af91d349a3b] The GTCS—
+(1)[^c-a4cea86d269ef0d499c01af91d349a3b] The GTCS—
 
 - (a) must investigate the fitness to teach of any individual seeking registration; and
 - (b) may investigate any registered teacher’s fitness to teach where it becomes aware of circumstances which it considers justify such an investigation.
 
-(2)[^key-a4cea86d269ef0d499c01af91d349a3b] The GTCS must—
+(2)[^c-a4cea86d269ef0d499c01af91d349a3b] The GTCS must—
 
 - (a) refuse to register any individual seeking registration whom it considers to be unfit to teach; and
 - (b) remove from the register any registered teacher whom it subsequently considers to be unfit to teach.
 
-(3)[^key-a4cea86d269ef0d499c01af91d349a3b] An individual is “unfit to teach” for the purposes of this Order if the GTCS considers that the individual’s conduct or professional competence falls significantly short of the standards expected of a registered teacher (and “fitness to teach” is to be construed accordingly).
+(3)[^c-a4cea86d269ef0d499c01af91d349a3b] An individual is “unfit to teach” for the purposes of this Order if the GTCS considers that the individual’s conduct or professional competence falls significantly short of the standards expected of a registered teacher (and “fitness to teach” is to be construed accordingly).
 
-(4)[^key-2752755f39437281472265c39b0caef4][^key-4f83343aae2a645153dfd47fec394203] Schedule 4 makes further provision regarding individuals’ fitness to teach.
+(4)[^c-2752755f39437281472265c39b0caef4][^c-4f83343aae2a645153dfd47fec394203] Schedule 4 makes further provision regarding individuals’ fitness to teach.
 
-#### 19. Barred individuals[^key-1b4c5dd9acf2e8aedba1551b968aead2]
+#### 19. Barred individuals[^c-1b4c5dd9acf2e8aedba1551b968aead2]
 
-The GTCS must, on being notified that an individual is barred from regulated roles[^key-630cb5984b877175ad230aebab93f33b] with children by virtue of the Protection of Vulnerable Groups (Scotland) Act 2007[^f00005]—
+The GTCS must, on being notified that an individual is barred from regulated roles[^c-630cb5984b877175ad230aebab93f33b] with children by virtue of the Protection of Vulnerable Groups (Scotland) Act 2007[^f00005]—
 
 - (a) refuse to register that individual; or, as the case may be
 - (b) remove that individual from the register.
 
-#### 20. Registration fees[^key-663da5a230947bb48a66840dcdce1fdf][^key-3a342099ec6a2e4bb4e58b8f92a32201]
+#### 20. Registration fees[^c-663da5a230947bb48a66840dcdce1fdf][^c-3a342099ec6a2e4bb4e58b8f92a32201]
 
 (1) The GTCS may charge fees in relation to registration.
 
@@ -290,11 +290,11 @@ The GTCS must, on being notified that an individual is barred from regulated rol
 
 (4) The GTCS rules may make different rules in relation to fees for different circumstances.
 
-#### 21. Temporary restriction[^key-cc59ae7eb178d2ee7cde1d843f3ffc60]
+#### 21. Temporary restriction[^c-cc59ae7eb178d2ee7cde1d843f3ffc60]
 
 The GTCS rules may make provision to restrict an individual’s registration pending conclusion of its investigation into any circumstances which on the face of it might cause it to remove the individual from the register.
 
-#### 22. Removal from register[^key-3e184e4deaf1c59a2ad3bf27c18c39bf]
+#### 22. Removal from register[^c-3e184e4deaf1c59a2ad3bf27c18c39bf]
 
 (1) The GTCS rules may set out circumstances (other than those mentioned in articles 18 and 19) in which it may remove an individual from the register.
 
@@ -305,18 +305,18 @@ The GTCS rules may make provision to restrict an individual’s registration pen
 
 (3) If the GTCS rules set out any such circumstance, they must also require the GTCS to review any decision to remove an individual in that circumstance if requested to do so by the individual affected.
 
-#### 23. Notices[^key-2f2da62bb4a4bd4144f52bb44598351e]
+#### 23. Notices[^c-2f2da62bb4a4bd4144f52bb44598351e]
 
 (1) The GTCS must notify an individual of a decision—
 
 - (a) to refuse to register the individual because the GTCS considers that the individual—
   - (i) is unfit to teach;
-  - (ii) is barred from regulated roles[^key-d04914db5195129c190cb507f4b79d98] with children by virtue of the Protection of Vulnerable Groups (Scotland) Act 2007; or
+  - (ii) is barred from regulated roles[^c-d04914db5195129c190cb507f4b79d98] with children by virtue of the Protection of Vulnerable Groups (Scotland) Act 2007; or
   - (iii) does not otherwise meet the registration criteria;
 - (b) to restrict an individual’s registration under any rule made by virtue of article 21; or
 - (c) to remove the individual from the register, other than in accordance with any rule made by virtue of article 22, because the GTCS considers that the individual—
   - (i) is unfit to teach;
-  - (ii) is barred from regulated roles[^key-0ed0fd042a740d19cbdc140bea56a533] with children by virtue of the Protection of Vulnerable Groups (Scotland) Act 2007; or
+  - (ii) is barred from regulated roles[^c-0ed0fd042a740d19cbdc140bea56a533] with children by virtue of the Protection of Vulnerable Groups (Scotland) Act 2007; or
   - (iii) no longer meets the registration criteria.
 
 (2) The notice must—
@@ -326,7 +326,7 @@ The GTCS rules may make provision to restrict an individual’s registration pen
 
 (3) The GTCS must advise any person whom it knows employs the individual to work in an educational establishment of the decision.
 
-#### 24. Appeals[^key-bd2a6e6a63b91e021dc5f89cd63a4643]
+#### 24. Appeals[^c-bd2a6e6a63b91e021dc5f89cd63a4643]
 
 (1) Subject to paragraph (6), an individual may appeal to the Court of Session against any decision of the GTCS in respect of which notification is required under article 23.
 
@@ -346,7 +346,7 @@ The GTCS rules may make provision to restrict an individual’s registration pen
 
 (6) No appeal may be made where the refusal of an individual’s registration or the removal of an individual from the register is in consequence of article 19.
 
-#### 25. Employers: duty to report misconduct or incompetence[^key-3da68fee698333cc4acf63a6f35e8a41]
+#### 25. Employers: duty to report misconduct or incompetence[^c-3da68fee698333cc4acf63a6f35e8a41]
 
 (1) A person who employs a registered teacher to work in an educational establishment must immediately notify the GTCS if—
 
@@ -357,7 +357,7 @@ The GTCS rules may make provision to restrict an individual’s registration pen
 
 ### Register of other education professionals
 
-#### 26. Register of other education professionals[^key-c613c1fa577f15b3102bd3b250944b2e]
+#### 26. Register of other education professionals[^c-c613c1fa577f15b3102bd3b250944b2e]
 
 (1) The GTCS may keep such other registers of other individuals working in educational settings as it thinks fit.
 
@@ -367,7 +367,7 @@ The GTCS rules may make provision to restrict an individual’s registration pen
 
 ### Offences
 
-#### 27. Offences[^key-63bb0a85e0f0c3965ff537975fddfbe2]
+#### 27. Offences[^c-63bb0a85e0f0c3965ff537975fddfbe2]
 
 (1) It is an offence for a person to provide the GTCS or any other person with information if the person—
 
@@ -380,7 +380,7 @@ The GTCS rules may make provision to restrict an individual’s registration pen
 
 ## PART 4 — STANDARDS OF EDUCATION, TRAINING, ETC.
 
-### 28. Consultation[^key-abfba35764bb2828c470c93c89d1ff23]
+### 28. Consultation[^c-abfba35764bb2828c470c93c89d1ff23]
 
 Before establishing new standards, or changing existing standards, of education, training, conduct or professional competence appropriate to teachers, the GTCS must—
 
@@ -390,7 +390,7 @@ Before establishing new standards, or changing existing standards, of education,
   - (iii) such other persons appearing to it to have an interest; and
 - (b) have regard to any views expressed by those consulted.
 
-### 29. Teaching qualifications: primary and secondary education[^key-a123609151ca19fc36497b68d38d5c68]
+### 29. Teaching qualifications: primary and secondary education[^c-a123609151ca19fc36497b68d38d5c68]
 
 (1) It is for the GTCS to determine what constitutes a recognised teaching qualification for individuals seeking registration as a school teacher.
 
@@ -417,7 +417,7 @@ Before establishing new standards, or changing existing standards, of education,
 
 (6) The GTCS must publish determinations.
 
-### 30. Teaching qualifications: further education[^key-361af60d5ca003a206479bcd44831f09]
+### 30. Teaching qualifications: further education[^c-361af60d5ca003a206479bcd44831f09]
 
 (1) It is for the Scottish Ministers to determine what constitutes a recognised teaching qualification for individuals seeking registration as a further education teacher.
 
@@ -443,7 +443,7 @@ Before establishing new standards, or changing existing standards, of education,
 
 (6) The Scottish Ministers must publish determinations.
 
-### 31. GTCS duty to make re-accreditation scheme[^key-4e58aee4a28f67b0daa2861a8fe8e927]
+### 31. GTCS duty to make re-accreditation scheme[^c-4e58aee4a28f67b0daa2861a8fe8e927]
 
 (1) The GTCS must make and publish a scheme setting out measures to be undertaken for the purposes of allowing it to keep itself informed about the standards of education and training of registered teachers.
 
@@ -465,11 +465,11 @@ Before establishing new standards, or changing existing standards, of education,
 
 ## PART 5 — FINAL PROVISIONS
 
-### 32. Transitional and savings provisions[^key-20de297975ea039df584075ca7528fd2]
+### 32. Transitional and savings provisions[^c-20de297975ea039df584075ca7528fd2]
 
 Schedule 5 contains transitional and savings provisions.
 
-### 33. Consequential amendments, repeals and revocations[^key-2c43ae7643d3fdc328e28e0ffbc8aa1e]
+### 33. Consequential amendments, repeals and revocations[^c-2c43ae7643d3fdc328e28e0ffbc8aa1e]
 
 (1) Schedule 6 contains minor amendments and amendments consequential on the provisions of this Order.
 
@@ -485,7 +485,7 @@ Edinburgh
 
 17th March 2011
 
-## SCHEDULE 1 — Provisions of this Order which come into force on 4th April 2011[^key-b4f8dd08593b07b46f9df0b9207e1261]
+## SCHEDULE 1 — Provisions of this Order which come into force on 4th April 2011[^c-b4f8dd08593b07b46f9df0b9207e1261]
 
 Article 2(1)(b)
 
@@ -521,11 +521,11 @@ Article 2(1)(b)
 
 Article 4(2)
 
-### 1. Membership[^key-3ccccfd021db5596d52ae38c8ad06f70]
+### 1. Membership[^c-3ccccfd021db5596d52ae38c8ad06f70]
 
 The GTCS is to have 37 members (19 elected members, 11 nominated members and 7 appointed members).
 
-### 2. Elected members[^key-9f5f007c178265b74e0e9a4420335840][^key-d997ba51f5cd42a6819f7e40cea6f290]
+### 2. Elected members[^c-9f5f007c178265b74e0e9a4420335840][^c-d997ba51f5cd42a6819f7e40cea6f290]
 
 (1) Only registered teachers are eligible to be elected members.
 
@@ -552,7 +552,7 @@ The GTCS is to have 37 members (19 elected members, 11 nominated members and 7 a
   - (ii) those persons appearing to it have an interest; and
 - (b) have regard to any views expressed by those consulted.
 
-### 3. Nominated members[^key-2468b75cd2959ac6c03ffec7457c1712][^key-18f5261bc6dd0b08fc25c1b34f1a3ed6]
+### 3. Nominated members[^c-2468b75cd2959ac6c03ffec7457c1712][^c-18f5261bc6dd0b08fc25c1b34f1a3ed6]
 
 The 11 nominated members are to be comprised of the following:—
 
@@ -564,7 +564,7 @@ The 11 nominated members are to be comprised of the following:—
 - (f) 1 individual nominated by the Scottish Hierarchy of the Roman Catholic Church;
 - (g) 1 individual nominated by a body representative of Parent Councils and Combined Parent Councils.
 
-### 4. Appointed members[^key-628357e2f471fa08e128d3d3d31a3bfc][^key-8b2682591c06341d2e51f3cf2f08ad78]
+### 4. Appointed members[^c-628357e2f471fa08e128d3d3d31a3bfc][^c-8b2682591c06341d2e51f3cf2f08ad78]
 
 The 7 appointed members are to be appointed by the GTCS.
 
@@ -574,7 +574,7 @@ The 7 appointed members are to be appointed by the GTCS.
   - (ii) has obtained a recognised teaching qualification;
 - (c) The GTCS must, when making and operating the appointments scheme—
   - (i) endeavour to ensure that applications to become appointed members are made by as wide a range of applicants as practicable; and
-  - (ii) have regard to any principle which appears to it to represent best practice on public appointments (for example, any guidance from the Commissioner[^key-05f8891beee9fa4acfa82794ab9f499b] for Ethical Standards in Public Life in Scotland);
+  - (ii) have regard to any principle which appears to it to represent best practice on public appointments (for example, any guidance from the Commissioner[^c-05f8891beee9fa4acfa82794ab9f499b] for Ethical Standards in Public Life in Scotland);
 - (d) The appointments scheme may, in particular, make provision about—
   - (i) advertising for applications to become appointed members; and
   - (ii) the timing, procedure and operation of the scheme;
@@ -582,7 +582,7 @@ The 7 appointed members are to be appointed by the GTCS.
   - (i) consult those persons appearing to have an interest; and
   - (ii) have regard to any views expressed by those consulted.
 
-### 5. Term of office[^key-ca23108cf3b21e08132a706ece4c7d9e]
+### 5. Term of office[^c-ca23108cf3b21e08132a706ece4c7d9e]
 
 (1) The duration of the term of office of each member of the GTCS is 4 years.
 
@@ -592,7 +592,7 @@ The 7 appointed members are to be appointed by the GTCS.
 
 (4) This paragraph is subject to paragraph 6 (initial term of office).
 
-### 6. Initial term of office[^key-9fa8f2248d727a621bc38a4e1d78c09a]
+### 6. Initial term of office[^c-9fa8f2248d727a621bc38a4e1d78c09a]
 
 (1) This paragraph applies to the term of office of each member of the GTCS serving during the period beginning on 2nd April 2012 (“the initial term”).
 
@@ -602,7 +602,7 @@ The 7 appointed members are to be appointed by the GTCS.
 
 (4) The GTCS must decide which 18 members of the 37 members referred to in paragraph 1 are to hold office for 2 years only in accordance with sub-paragraph (2).
 
-### 7. Membership[^key-cab372f6c9f9df69c9f283de3284e4d7][^key-f891a38955a03d0fcc9c6dc50b46b781]
+### 7. Membership[^c-cab372f6c9f9df69c9f283de3284e4d7][^c-f891a38955a03d0fcc9c6dc50b46b781]
 
 (1) The GTCS must make a scheme (the “membership scheme”) relating to the removal, disqualification and replacement of members of the GTCS.
 
@@ -623,7 +623,7 @@ The 7 appointed members are to be appointed by the GTCS.
 
 (4) The GTCS must publish the membership scheme in such ways as it thinks fit.
 
-### 8. Power to amend schedule[^key-544a2890991686e063209c05fe45a1b2]
+### 8. Power to amend schedule[^c-544a2890991686e063209c05fe45a1b2]
 
 (1) The Scottish Ministers may by order made by statutory instrument modify this schedule as they think appropriate so as to amend the membership process of the GTCS.
 
@@ -635,7 +635,7 @@ The 7 appointed members are to be appointed by the GTCS.
 
 Article 4(3)
 
-### 1. Status[^key-17f8d848abaec11fd27a3d8530a26bc9]
+### 1. Status[^c-17f8d848abaec11fd27a3d8530a26bc9]
 
 (1) The GTCS—
 
@@ -644,7 +644,7 @@ Article 4(3)
 
 (2) The property of the GTCS is not property of, or property held on behalf of, the Crown.
 
-### 2. Convener[^key-5f7cb2d9b11e281192733035e60cbcd1]
+### 2. Convener[^c-5f7cb2d9b11e281192733035e60cbcd1]
 
 (1) The GTCS must appoint one of its members to chair meetings of the GTCS (the “Convener”).
 
@@ -652,7 +652,7 @@ Article 4(3)
 
 (3) In the absence of the Convener, the GTCS must appoint one of its members to act as the Convener and that individual has a casting vote in the proceedings of the GTCS.
 
-### 3. Committees[^key-1fde826a46c18938ab92ee373d950909][^key-4e98c29dcec2f4aa23e7b59bc031c2a3]
+### 3. Committees[^c-1fde826a46c18938ab92ee373d950909][^c-4e98c29dcec2f4aa23e7b59bc031c2a3]
 
 (1) The GTCS may appoint such committees as it thinks fit.
 
@@ -681,7 +681,7 @@ Article 4(3)
 
 (8) The GTCS must publish the committee scheme, in such ways as it thinks fit.
 
-### 4. Validity of Proceedings and Actions[^key-425ae8df45550c0ec873aa25ceaeeeba]
+### 4. Validity of Proceedings and Actions[^c-425ae8df45550c0ec873aa25ceaeeeba]
 
 (1) The validity of proceedings or actions of the GTCS (including proceedings or actions of any of its committees) is not affected by—
 
@@ -691,7 +691,7 @@ Article 4(3)
 
 (2) In this paragraph “committees” includes “sub-committees”.
 
-### 5. Reports[^key-a3b7bb0fea4aff9efdde7169675ca85d]
+### 5. Reports[^c-a3b7bb0fea4aff9efdde7169675ca85d]
 
 (1) The GTCS must, as soon as is reasonably practical after the end of each financial year, prepare and lay before the Scottish Parliament a report on the carrying out of its functions during the year.
 
@@ -703,7 +703,7 @@ Article 4(3)
 
 (5) The GTCS must periodically prepare and publish, in such ways as it thinks fit, a diversity action plan.
 
-### 6. Standing Orders[^key-0894d7b59dd352cf03184e3c939fc6fb][^key-64bd1e5759c152b9d38865bfe9a16894]
+### 6. Standing Orders[^c-0894d7b59dd352cf03184e3c939fc6fb][^c-64bd1e5759c152b9d38865bfe9a16894]
 
 The GTCS may make, and publish, standing orders for—
 
@@ -712,7 +712,7 @@ The GTCS may make, and publish, standing orders for—
 - (c) the execution of documents; and
 - (d) such other matters connected with or related to the conduct of the GTCS’s business as the GTCS thinks fit.
 
-### 7. Accounts[^key-bde6bc9e58a193d6c2dd11a227d8f255]
+### 7. Accounts[^c-bde6bc9e58a193d6c2dd11a227d8f255]
 
 (1) The GTCS must—
 
@@ -723,7 +723,7 @@ The GTCS may make, and publish, standing orders for—
 
 (2) In this paragraph, “financial year” means each period of a year ending on 31st March.
 
-### 8. Remuneration, allowances etc.[^key-152d53cbb42d77b230d64521cc9e9d8a]
+### 8. Remuneration, allowances etc.[^c-152d53cbb42d77b230d64521cc9e9d8a]
 
 (1) The GTCS may pay to its members—
 
@@ -746,7 +746,7 @@ then the GTCS may make a payment to the individual as it may determine.
 
 (5) In sub-paragraphs (1) and (2) “members” includes individuals who are appointed to committees or sub-committees under paragraph 3(3)(b) and (c).
 
-### 9. Staff[^key-c8c392ba8ae733d8ff8dbf399af5923f]
+### 9. Staff[^c-c8c392ba8ae733d8ff8dbf399af5923f]
 
 (1) The GTCS may employ any staff necessary to ensure the carrying out of the GTCS’s functions.
 
@@ -763,7 +763,7 @@ then the GTCS may make a payment to the individual as it may determine.
 - (a) who, of the individuals who are or have ceased to be employees of the GTCS, are to be eligible individuals; and
 - (b) the amount that may be paid or provided for.
 
-### 10. Grants and loans[^key-c4f7e41bb10b9c1bf9572f11562d4e6a]
+### 10. Grants and loans[^c-c4f7e41bb10b9c1bf9572f11562d4e6a]
 
 (1) The Scottish Ministers may make such grants to the GTCS as they determine.
 
@@ -773,7 +773,7 @@ then the GTCS may make a payment to the individual as it may determine.
 
 (4) A loan is made subject to any conditions specified by the Scottish Ministers (including conditions about repayment).
 
-### 11. Delegation of the GTCS’s functions[^key-3e9254d7438ed984b1d7747dce3a4473]
+### 11. Delegation of the GTCS’s functions[^c-3e9254d7438ed984b1d7747dce3a4473]
 
 (1) Any function of the GTCS (whether conferred by virtue of this Order or any other enactment), other than its functions of making rules or schemes by virtue of this Order, may be carried out on its behalf by—
 
@@ -787,7 +787,7 @@ then the GTCS may make a payment to the individual as it may determine.
 
 Article 18(4)
 
-### 1. GTCS rules on fitness to teach[^key-31a663d85e790663aa9eac3a5f964516][^key-c4a5647caced50ec9ece77053c3dbee6]
+### 1. GTCS rules on fitness to teach[^c-31a663d85e790663aa9eac3a5f964516][^c-c4a5647caced50ec9ece77053c3dbee6]
 
 (1) The GTCS rules may make provision about the circumstances in which, and the manner in which, an individual’s fitness to teach may be investigated.
 
@@ -804,7 +804,7 @@ Article 18(4)
 
 (3) The GTCS rules relating to fitness to teach have effect only if approved by the Lord President.
 
-### 2. Proceedings[^key-2900fec2693d0f00edbf10ce8a32ab18][^key-9fc21717936c43fdb9597ffac96c372a]
+### 2. Proceedings[^c-2900fec2693d0f00edbf10ce8a32ab18][^c-9fc21717936c43fdb9597ffac96c372a]
 
 (1) The GTCS may hold proceedings in respect of—
 
@@ -825,7 +825,7 @@ Article 18(4)
 
 (6) But the Court of Session may not order a person to give any evidence, or to disclose anything, which the person would be entitled to refuse to give or disclose in an action in that court.
 
-### 3. Legal assessor[^key-527fa340087765b6e6c91173b2058f92][^key-cca10e1c48d7c72e7af6d2217276d4a2]
+### 3. Legal assessor[^c-527fa340087765b6e6c91173b2058f92][^c-cca10e1c48d7c72e7af6d2217276d4a2]
 
 (1) The GTCS must appoint a legal assessor to advise it on questions of law arising in proceedings held under paragraph 2.
 
@@ -851,29 +851,29 @@ Article 18(4)
 
 Article 32
 
-### 1. The Teachers (Education, Training and Recommendation for Registration) (Scotland) Regulations 1993[^key-343bc4b40bd6818bc07a3dfe9958f916]
+### 1. The Teachers (Education, Training and Recommendation for Registration) (Scotland) Regulations 1993[^c-343bc4b40bd6818bc07a3dfe9958f916]
 
 Despite the revocation of regulation 3 of the Teachers (Education, Training and Recommendation for Registration) (Scotland) Regulations 1993[^f00007] (“the 1993 Regulations”), any determination made under regulation 3 continues to have effect until the GTCS makes a corresponding determination under article 29 of this Order or the Scottish Ministers make a corresponding determination under article 30 of this Order.
 
-**2.**[^key-cac17e0af2f803c000378e7a5254ceba] Despite the revocation of regulation 4 of the 1993 Regulations, any determination and approval made under regulation 4 continues to have effect until the GTCS makes a corresponding determination under article 29 of this Order or the Scottish Ministers make a corresponding determination under article 30 of this Order.
+**2.**[^c-cac17e0af2f803c000378e7a5254ceba] Despite the revocation of regulation 4 of the 1993 Regulations, any determination and approval made under regulation 4 continues to have effect until the GTCS makes a corresponding determination under article 29 of this Order or the Scottish Ministers make a corresponding determination under article 30 of this Order.
 
-**3.**[^key-c1f19bc05c217e034139b8e7e067ca69] Despite the revocation of regulation 5 of the 1993 Regulations, regulation 5 continues to have effect in relation to persons who have performed the work of a course complying with the requirements of regulation 4 of the 1993 regulations.
+**3.**[^c-c1f19bc05c217e034139b8e7e067ca69] Despite the revocation of regulation 5 of the 1993 Regulations, regulation 5 continues to have effect in relation to persons who have performed the work of a course complying with the requirements of regulation 4 of the 1993 regulations.
 
-**4.**[^key-972628585197087bcc805fad6a9172cb] Despite the revocation of regulation 6 of the 1993 Regulations, regulation 6 continues to have effect in relation to the requirements for recommendation for registration until such time as the GTCS sets corresponding requirements in the GTCS rules.
+**4.**[^c-972628585197087bcc805fad6a9172cb] Despite the revocation of regulation 6 of the 1993 Regulations, regulation 6 continues to have effect in relation to the requirements for recommendation for registration until such time as the GTCS sets corresponding requirements in the GTCS rules.
 
-### 5. Investigations in progress under section 10B of the 1965 Act[^key-6b15b6286e9ed07d6e7cb88f3fcc42bd]
+### 5. Investigations in progress under section 10B of the 1965 Act[^c-6b15b6286e9ed07d6e7cb88f3fcc42bd]
 
 (1) This paragraph applies to a preliminary investigation under section 10B[^f00008] of the 1965 Act that is still in progress on 2nd April 2012.
 
 (2) Any action or decision taken by the Investigating Sub-committee prior to 2nd April 2012, will, on and after 2nd April 2012, be treated as if it were an action or decision by the GTCS under Schedule 4 to this Order.
 
-### 6. Cases in progress before the Disciplinary Sub-committee[^key-21e45f74a4aa5cd5b68e459a15258ebe]
+### 6. Cases in progress before the Disciplinary Sub-committee[^c-21e45f74a4aa5cd5b68e459a15258ebe]
 
 (1) This paragraph applies where a case is still in progress on 2nd April 2012 under section 10C[^f00009] or 11[^f00010] of the 1965 Act.
 
 (2) Where a case is, prior to 2nd April 2012, being considered by the Disciplinary Sub-committee under section 10C or 11(1) or (2) of the 1965 Act, that case must, on and after 2nd April 2012, be considered by the GTCS under Schedule 4 of this Order.
 
-### 7. Persons with right to apply for variation or revocation of conditions under section 11(4) of 1965 Act[^key-d7b73f2c5432404eec163bf5bd99a5ff]
+### 7. Persons with right to apply for variation or revocation of conditions under section 11(4) of 1965 Act[^c-d7b73f2c5432404eec163bf5bd99a5ff]
 
 (1) This paragraph applies to a person in relation to whom a conditional registration order has been made and who has, prior to 2nd April 2012, a right to apply to the Professional Conduct Committee for a determination under section 11(4) of the 1965 Act.
 
@@ -883,13 +883,13 @@ Despite the revocation of regulation 3 of the Teachers (Education, Training and 
 
 (4) A notice under paragraph (3) must include a statement of the reasons for the determination.
 
-### 8. Persons to whom section 11(7) of the 1965 Act applies[^key-8753d419e47748f3cd50f06a4772c9c9]
+### 8. Persons to whom section 11(7) of the 1965 Act applies[^c-8753d419e47748f3cd50f06a4772c9c9]
 
 (1) This paragraph applies to a person in relation to whom a reprimand is marked against that person’s name in the register prior to 2nd April 2012.
 
 (2) Despite the repeal of section 11(7) of the 1965 Act, that section will continue to apply, on and after 2nd April 2012, in relation to the removal of a reprimand after the five year period referred to in that section.
 
-### 9. Persons to whom section 11(9) of the 1965 Act applies and directions made under section 10 of the 1965 Act[^key-53975448f4f3fd23fc8bc577cdf0f62f]
+### 9. Persons to whom section 11(9) of the 1965 Act applies and directions made under section 10 of the 1965 Act[^c-53975448f4f3fd23fc8bc577cdf0f62f]
 
 (1) This paragraph applies to a person to whom section 11(9) of the 1965 Act applies immediately prior to 2nd April 2012 and who is not entitled to be registered or re-registered except in compliance with a direction of the Disciplinary Sub-committee.
 
@@ -899,7 +899,7 @@ Despite the revocation of regulation 3 of the Teachers (Education, Training and 
 
 (4) Despite the repeal of section 11(10), that section continues to apply, on and after 2nd April 2012, to any existing prohibition under that section.
 
-### 10. Entries to which section 11A of the 1965 Act applies[^key-fc5a86c81de83c6b02c0aa84e7353448]
+### 10. Entries to which section 11A of the 1965 Act applies[^c-fc5a86c81de83c6b02c0aa84e7353448]
 
 (1) This paragraph applies to an entry in the register established under the 1965 Act which is marked as suspended before 2nd April 2012.
 
@@ -909,19 +909,19 @@ Despite the revocation of regulation 3 of the Teachers (Education, Training and 
 
 (4) For the purposes of this paragraph, any reference to a Committee or Sub-committee, where relevant to the cancellation of the suspension, is to be read as a reference to the GTCS and the requirements to serve a notice under section 11A(2) of the 1965 Act apply to the GTCS.
 
-### 11. Appeals[^key-80c702049d59526668cae6193892787c]
+### 11. Appeals[^c-80c702049d59526668cae6193892787c]
 
 (1) Where, before 2nd April 2012, a person has a right to appeal under section 12(1) of the 1965 Act, but has not yet lodged an appeal, that person will, on and after 2nd April 2012, have a right to appeal under article 24 of this Order.
 
 (2) The right to appeal in circumstances described in sub-paragraph (1) may only be exercised within the period of 28 days after the service of notice of the direction in question.
 
-### 12. Review[^key-dfc0edf31e523a53bd94d2d32e88c232]
+### 12. Review[^c-dfc0edf31e523a53bd94d2d32e88c232]
 
 (1) Despite the repeal of section 12(1A)[^f00013] of the 1965 Act, a person with a right to require a review under that sub-section immediately prior to 2nd April 2012, will, on and after 2nd April 2012, have a right to require the GTCS to carry out a review.
 
 (2) The right to require the GTCS to carry out a review is to be exercised within the prescribed number of days referred to in section 12(1A) of the 1965 Act.
 
-### 13. The Teaching Council (Scotland) (Legal Assessor) Rules 2006[^key-119872ad06324e2f45f39a87f26948a9]
+### 13. The Teaching Council (Scotland) (Legal Assessor) Rules 2006[^c-119872ad06324e2f45f39a87f26948a9]
 
 (1) Despite the revocation of the Teaching Council (Scotland) (Legal Assessor) Rules 2006 (“the 2006 Rules”)[^f00014], those rules continue to apply, on and after 2nd April 2012, to proceedings under this Order as they applied to proceedings under the 1965 Act until the Lord President makes rules relating to the functions of legal assessors under paragraph 3 of Schedule 4 to this Order.
 
@@ -935,7 +935,7 @@ Article 33(1)
 
 #### Education (Scotland) Act 1980
 
-**1.**[^key-7dc75bb36bdc95a204686b03edc51718] (1) The 1980 Act[^f00015] is amended as follows.
+**1.**[^c-7dc75bb36bdc95a204686b03edc51718] (1) The 1980 Act[^f00015] is amended as follows.
 
 (2) In paragraph (a) of sub-section (6) of section 105 (schemes for reorganisation of educational endowments) for “Teaching Council (Scotland) Act 1965” substitute “Public Services Reform (General Teaching Council for Scotland) Order 2011”.
 
@@ -943,7 +943,7 @@ Article 33(1)
 
 #### Protection of Vulnerable Groups (Scotland) Act 2007
 
-**2.**[^key-10e5e6140115681a4ac83b29c7ca37e1] (1) The Protection of Vulnerable Groups (Scotland) Act 2007[^f00016] is amended as follows.
+**2.**[^c-10e5e6140115681a4ac83b29c7ca37e1] (1) The Protection of Vulnerable Groups (Scotland) Act 2007[^f00016] is amended as follows.
 
 (2) In paragraph (a) of sub-section (3) of section 8 (meaning of “relevant functions”) for “Teaching Council (Scotland) Act [1965 (c.19)](https://www.legislation.gov.uk/ukpga/1965/19)” substitute “Public Services Reform (General Teaching Council for Scotland) Order 2011”.
 
@@ -953,36 +953,36 @@ Article 33(1)
 
 #### The Colleges of Education (Scotland) Regulations 1987
 
-**3.**[^key-29288835bf67e81fc509752b29944fdb] In regulation 25(7) of the Colleges of Education (Scotland) Regulations 1987[^f00017] (employment of staff) for “under section 6 of the Teaching Council (Scotland) Act 1965” substitute “in the register of teachers kept under the Public Services Reform (General Teaching Council for Scotland) Order 2011”.
+**3.**[^c-29288835bf67e81fc509752b29944fdb] In regulation 25(7) of the Colleges of Education (Scotland) Regulations 1987[^f00017] (employment of staff) for “under section 6 of the Teaching Council (Scotland) Act 1965” substitute “in the register of teachers kept under the Public Services Reform (General Teaching Council for Scotland) Order 2011”.
 
 #### The Redundancy Payments (Continuity of Employment in Local Government, etc.) (Modification) Order 1999
 
-**4.**[^key-bc7e546a225a91deb6423e50ea08b3e8] In paragraph 23 of section 3 of Schedule 1 to the Redundancy Payments (Continuity of Employment in Local Government, etc.) (Modification) Order 1999[^f00018] for “Teaching Council (Scotland) Act 1965” substitute “Public Services Reform (General Teaching Council for Scotland) Order 2011”.
+**4.**[^c-bc7e546a225a91deb6423e50ea08b3e8] In paragraph 23 of section 3 of Schedule 1 to the Redundancy Payments (Continuity of Employment in Local Government, etc.) (Modification) Order 1999[^f00018] for “Teaching Council (Scotland) Act 1965” substitute “Public Services Reform (General Teaching Council for Scotland) Order 2011”.
 
 #### The Scottish Social Services Council (Consultation on Codes of Practice) Order 2001
 
-**5.**[^key-6e3763bdc11a2e421ccbf46f2e63adba] In article 2(j) of the Scottish Social Services Council (Consultation on Codes of Practice) Order 2001[^f00019] (consultation on codes of practice) for “section 1 of the Teaching Council (Scotland) Act 1965” substitute “the Public Services Reform (General Teaching Council for Scotland) Order 2011”.
+**5.**[^c-6e3763bdc11a2e421ccbf46f2e63adba] In article 2(j) of the Scottish Social Services Council (Consultation on Codes of Practice) Order 2001[^f00019] (consultation on codes of practice) for “section 1 of the Teaching Council (Scotland) Act 1965” substitute “the Public Services Reform (General Teaching Council for Scotland) Order 2011”.
 
 #### The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2003
 
-**6.**[^key-391b41d1f3d0af86949c0728ef0a4f88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-391b41d1f3d0af86949c0728ef0a4f88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Requirements for Teachers (Scotland) Regulations 2005
 
-**7.**[^key-14296af479a17761d9691626d754f0ce] (1) The Requirements for Teachers (Scotland) Regulations 2005[^f00021] are amended as follows.
+**7.**[^c-14296af479a17761d9691626d754f0ce] (1) The Requirements for Teachers (Scotland) Regulations 2005[^f00021] are amended as follows.
 
 (2) In regulation 4(2) (requirement to employ registered teachers)—
 
 - (a) for “section 6 of the Teaching Council (Scotland) Act 1965” substitute “the Public Services Reform (General Teaching Council for Scotland) Order 2011”; and
 - (b) for “suspended” in both places it occurs substitute “restricted”.
 
-## SCHEDULE 7 — Repeals and Revocations[^key-3309cd7641f9096e44b4fc08cb169929]
+## SCHEDULE 7 — Repeals and Revocations[^c-3309cd7641f9096e44b4fc08cb169929]
 
 Article 33(2)
 
 ### Repeals of primary legislation
 
-[^key-3309cd7641f9096e44b4fc08cb169929]
+[^c-3309cd7641f9096e44b4fc08cb169929]
 
 | ***Enactment*** | ***Extent of repeal*** |
 | --- | --- |
@@ -1007,7 +1007,7 @@ Article 33(2)
 
 ### Revocations of secondary legislation
 
-[^key-3309cd7641f9096e44b4fc08cb169929]
+[^c-3309cd7641f9096e44b4fc08cb169929]
 
 | ***Regulations*** | ***Reference*** | ***Extent of revocation*** |
 | --- | --- | --- |
@@ -1084,13 +1084,13 @@ Schedule 1 contains commencement provisions. Schedule 5 makes transitional and s
 
 [^f00001]: Footnote: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8).
 
-[^key-bd11e8ea86369bae7607c219b7895cf4]: Commencement: Art. 1 in force at 4.4.2011, see [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2011/215/article/2/1/a)
+[^c-bd11e8ea86369bae7607c219b7895cf4]: Commencement: Art. 1 in force at 4.4.2011, see [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2011/215/article/2/1/a)
 
-[^key-266bc41badba03ea6dcd0c58e34d4a8d]: Commencement: Art. 2 in force at 4.4.2011, see [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2011/215/article/2/1/a)
+[^c-266bc41badba03ea6dcd0c58e34d4a8d]: Commencement: Art. 2 in force at 4.4.2011, see [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2011/215/article/2/1/a)
 
-[^key-10d7ef1ab5746ed50d870cadaed79e20]: Commencement: Art. 3 in force at 4.4.2011 for specified purposes, see [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2011/215/article/2/1/a)
+[^c-10d7ef1ab5746ed50d870cadaed79e20]: Commencement: Art. 3 in force at 4.4.2011 for specified purposes, see [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2011/215/article/2/1/a)
 
-[^key-c89488decc4f268f794cfde2179d81d2]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2011/215/article/3) in force at 2.4.2012 in so far as not already in force, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-c89488decc4f268f794cfde2179d81d2]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2011/215/article/3) in force at 2.4.2012 in so far as not already in force, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
 [^f00002]: Footnote: [1980 c.44](https://www.legislation.gov.uk/ukpga/1980/44); section 135 (interpretation) of this Act is relevant to this Order; the relevant definitions have been amended by section 2(2) of the Registered Establishments (Scotland) Act [1987 (c.40)](https://www.legislation.gov.uk/ukpga/1987/40), section 82(1) and (2) of and Schedules 10 and 11 to the Self-Governing Schools etc. (Scotland) Act [1989 (c.39)](https://www.legislation.gov.uk/ukpga/1989/39) and section 62(2) and (3) of and Schedules 9 and 10 to the Further and Higher Education (Scotland) Act [1992 (c.37)](https://www.legislation.gov.uk/ukpga/1992/37).
 
@@ -1098,218 +1098,218 @@ Schedule 1 contains commencement provisions. Schedule 5 makes transitional and s
 
 [^f00004]: Footnote: [2005 asp 6](https://www.legislation.gov.uk/asp/2005/6); schedule 2 to this Act has been relevantly amended by [S.S.I. 2005/660](https://www.legislation.gov.uk/ssi/2005/660), [2006/480](https://www.legislation.gov.uk/ssi/2006/480), [2007/255](https://www.legislation.gov.uk/ssi/2007/255) and [524](https://www.legislation.gov.uk/ssi/2007/524) and [2008/241](https://www.legislation.gov.uk/ssi/2008/241) and [412](https://www.legislation.gov.uk/ssi/2008/412).
 
-[^key-54e59f9a5b3144b2f79b4c4558c749bd]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/ssi/2011/215/article/3) inserted (31.3.2015) by [The Post-16 Education (Scotland) Act 2013 (Modification of Legislation) Order 2015 (S.S.I. 2015/153)](https://www.legislation.gov.uk/ssi/2015/153), [art. 1](https://www.legislation.gov.uk/ssi/2015/153/article/1), [sch. para. 16](https://www.legislation.gov.uk/ssi/2015/153/schedule/paragraph/16)
+[^c-54e59f9a5b3144b2f79b4c4558c749bd]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/ssi/2011/215/article/3) inserted (31.3.2015) by [The Post-16 Education (Scotland) Act 2013 (Modification of Legislation) Order 2015 (S.S.I. 2015/153)](https://www.legislation.gov.uk/ssi/2015/153), [art. 1](https://www.legislation.gov.uk/ssi/2015/153/article/1), [sch. para. 16](https://www.legislation.gov.uk/ssi/2015/153/schedule/paragraph/16)
 
-[^key-eca98333098bf895f4df43eeaec4f429]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2011/215/article/4) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-eca98333098bf895f4df43eeaec4f429]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2011/215/article/4) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-402d9390a8244dd960a3825e8fad56bb]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2011/215/article/5) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-402d9390a8244dd960a3825e8fad56bb]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2011/215/article/5) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-89c9589ec80c650801e4007e9c862d4c]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2011/215/article/6) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-89c9589ec80c650801e4007e9c862d4c]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2011/215/article/6) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-3e8fd90cc37016ac5bc65f134ecac8f9]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2011/215/article/7) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-3e8fd90cc37016ac5bc65f134ecac8f9]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2011/215/article/7) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-b00ba7b0f4b545a34b27a0d035882bab]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2011/215/article/8) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-b00ba7b0f4b545a34b27a0d035882bab]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2011/215/article/8) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-a86e2d35b32ce04cdf3f9d31a22fef99]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2011/215/article/9) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-a86e2d35b32ce04cdf3f9d31a22fef99]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2011/215/article/9) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-948036a8199bd298262f4a48aa82bd22]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2011/215/article/10) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-948036a8199bd298262f4a48aa82bd22]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2011/215/article/10) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-94cbfff7801e753c86feb08859ccb902]: Commencement: [Art. 11](https://www.legislation.gov.uk/ssi/2011/215/article/11) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-94cbfff7801e753c86feb08859ccb902]: Commencement: [Art. 11](https://www.legislation.gov.uk/ssi/2011/215/article/11) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-2af38322e08c29272e7d4b39d169f67b]: Commencement: [Art. 12](https://www.legislation.gov.uk/ssi/2011/215/article/12) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-2af38322e08c29272e7d4b39d169f67b]: Commencement: [Art. 12](https://www.legislation.gov.uk/ssi/2011/215/article/12) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-b1a46ab2703f29490fee3dae08f9926f]: Commencement: [Art. 13](https://www.legislation.gov.uk/ssi/2011/215/article/13) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-b1a46ab2703f29490fee3dae08f9926f]: Commencement: [Art. 13](https://www.legislation.gov.uk/ssi/2011/215/article/13) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-e9d3f747d72546de950ab1a14e4f26a1]: Commencement: [Art. 14](https://www.legislation.gov.uk/ssi/2011/215/article/14) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-e9d3f747d72546de950ab1a14e4f26a1]: Commencement: [Art. 14](https://www.legislation.gov.uk/ssi/2011/215/article/14) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-696f5768a26cf2853c042b2c9aafed7c]: Commencement: Art. 15 in force at 4.4.2011 for specified purposes, see [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/215/article/2/1/b), Sch. 1
+[^c-696f5768a26cf2853c042b2c9aafed7c]: Commencement: Art. 15 in force at 4.4.2011 for specified purposes, see [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/215/article/2/1/b), Sch. 1
 
-[^key-b93478b45c7783015534be655486621b]: Commencement: [Art. 15](https://www.legislation.gov.uk/ssi/2011/215/article/15) in force at 2.4.2012 in so far as not already in force, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-b93478b45c7783015534be655486621b]: Commencement: [Art. 15](https://www.legislation.gov.uk/ssi/2011/215/article/15) in force at 2.4.2012 in so far as not already in force, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-ded1af4fa31657ba2bf3739d6eb9c4ca]: Commencement: [Art. 16](https://www.legislation.gov.uk/ssi/2011/215/article/16) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-ded1af4fa31657ba2bf3739d6eb9c4ca]: Commencement: [Art. 16](https://www.legislation.gov.uk/ssi/2011/215/article/16) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-a7f8a536861a603888e62434a0ea41ca]: Commencement: [Art. 17](https://www.legislation.gov.uk/ssi/2011/215/article/17) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-a7f8a536861a603888e62434a0ea41ca]: Commencement: [Art. 17](https://www.legislation.gov.uk/ssi/2011/215/article/17) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-a4cea86d269ef0d499c01af91d349a3b]: Commencement: [Art. 18(1)-(3)](https://www.legislation.gov.uk/ssi/2011/215/article/18/1) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-a4cea86d269ef0d499c01af91d349a3b]: Commencement: [Art. 18(1)-(3)](https://www.legislation.gov.uk/ssi/2011/215/article/18/1) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-2752755f39437281472265c39b0caef4]: Commencement: Art. 18(4) in force at 4.4.2011 for specified purposes, see [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/215/article/2/1/b), Sch. 1
+[^c-2752755f39437281472265c39b0caef4]: Commencement: Art. 18(4) in force at 4.4.2011 for specified purposes, see [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/215/article/2/1/b), Sch. 1
 
-[^key-4f83343aae2a645153dfd47fec394203]: Commencement: [Art. 18(4)](https://www.legislation.gov.uk/ssi/2011/215/article/18/4) in force at 2.4.2012 in so far as not already in force, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-4f83343aae2a645153dfd47fec394203]: Commencement: [Art. 18(4)](https://www.legislation.gov.uk/ssi/2011/215/article/18/4) in force at 2.4.2012 in so far as not already in force, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-1b4c5dd9acf2e8aedba1551b968aead2]: Commencement: [Art. 19](https://www.legislation.gov.uk/ssi/2011/215/article/19) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-1b4c5dd9acf2e8aedba1551b968aead2]: Commencement: [Art. 19](https://www.legislation.gov.uk/ssi/2011/215/article/19) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-630cb5984b877175ad230aebab93f33b]: Textual amendment: Word in [art. 19](https://www.legislation.gov.uk/ssi/2011/215/article/19) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 14(2)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/14/2) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
+[^c-630cb5984b877175ad230aebab93f33b]: Textual amendment: Word in [art. 19](https://www.legislation.gov.uk/ssi/2011/215/article/19) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 14(2)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/14/2) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
 
 [^f00005]: Footnote: [2007 asp 14](https://www.legislation.gov.uk/asp/2007/14). Part 1 of that Act makes provision as to the operation of the lists of those individuals who are barred from working with children. Relevant amendments are to be made to Part 1 by schedule 14 of the [Public Services Reform (Scotland) Act 2010 (asp 8](https://www.legislation.gov.uk/asp/2010/8)), schedule 7 of the [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13](https://www.legislation.gov.uk/asp/2010/13)) and [S.I. 2009/1182](https://www.legislation.gov.uk/uksi/2009/1182).
 
-[^key-663da5a230947bb48a66840dcdce1fdf]: Commencement: Art. 20 in force at 4.4.2011 for specified purposes, see [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/215/article/2/1/b), Sch. 1
+[^c-663da5a230947bb48a66840dcdce1fdf]: Commencement: Art. 20 in force at 4.4.2011 for specified purposes, see [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/215/article/2/1/b), Sch. 1
 
-[^key-3a342099ec6a2e4bb4e58b8f92a32201]: Commencement: [Art. 20](https://www.legislation.gov.uk/ssi/2011/215/article/20) in force at 2.4.2012 in so far as not already in force, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-3a342099ec6a2e4bb4e58b8f92a32201]: Commencement: [Art. 20](https://www.legislation.gov.uk/ssi/2011/215/article/20) in force at 2.4.2012 in so far as not already in force, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-cc59ae7eb178d2ee7cde1d843f3ffc60]: Commencement: [Art. 21](https://www.legislation.gov.uk/ssi/2011/215/article/21) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-cc59ae7eb178d2ee7cde1d843f3ffc60]: Commencement: [Art. 21](https://www.legislation.gov.uk/ssi/2011/215/article/21) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-3e184e4deaf1c59a2ad3bf27c18c39bf]: Commencement: [Art. 22](https://www.legislation.gov.uk/ssi/2011/215/article/22) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-3e184e4deaf1c59a2ad3bf27c18c39bf]: Commencement: [Art. 22](https://www.legislation.gov.uk/ssi/2011/215/article/22) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-2f2da62bb4a4bd4144f52bb44598351e]: Commencement: [Art. 23](https://www.legislation.gov.uk/ssi/2011/215/article/23) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-2f2da62bb4a4bd4144f52bb44598351e]: Commencement: [Art. 23](https://www.legislation.gov.uk/ssi/2011/215/article/23) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-d04914db5195129c190cb507f4b79d98]: Textual amendment: Word in [art. 23(1)(a)(ii)](https://www.legislation.gov.uk/ssi/2011/215/article/23/1/a/ii) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 14(3)(a)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/14/3/a) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
+[^c-d04914db5195129c190cb507f4b79d98]: Textual amendment: Word in [art. 23(1)(a)(ii)](https://www.legislation.gov.uk/ssi/2011/215/article/23/1/a/ii) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 14(3)(a)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/14/3/a) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
 
-[^key-0ed0fd042a740d19cbdc140bea56a533]: Textual amendment: Word in [art. 23(1)(c)(ii)](https://www.legislation.gov.uk/ssi/2011/215/article/23/1/c/ii) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 14(3)(b)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/14/3/b) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
+[^c-0ed0fd042a740d19cbdc140bea56a533]: Textual amendment: Word in [art. 23(1)(c)(ii)](https://www.legislation.gov.uk/ssi/2011/215/article/23/1/c/ii) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 14(3)(b)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/14/3/b) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
 
-[^key-bd2a6e6a63b91e021dc5f89cd63a4643]: Commencement: [Art. 24](https://www.legislation.gov.uk/ssi/2011/215/article/24) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-bd2a6e6a63b91e021dc5f89cd63a4643]: Commencement: [Art. 24](https://www.legislation.gov.uk/ssi/2011/215/article/24) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-3da68fee698333cc4acf63a6f35e8a41]: Commencement: [Art. 25](https://www.legislation.gov.uk/ssi/2011/215/article/25) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-3da68fee698333cc4acf63a6f35e8a41]: Commencement: [Art. 25](https://www.legislation.gov.uk/ssi/2011/215/article/25) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-c613c1fa577f15b3102bd3b250944b2e]: Commencement: [Art. 26](https://www.legislation.gov.uk/ssi/2011/215/article/26) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-c613c1fa577f15b3102bd3b250944b2e]: Commencement: [Art. 26](https://www.legislation.gov.uk/ssi/2011/215/article/26) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-63bb0a85e0f0c3965ff537975fddfbe2]: Commencement: [Art. 27](https://www.legislation.gov.uk/ssi/2011/215/article/27) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-63bb0a85e0f0c3965ff537975fddfbe2]: Commencement: [Art. 27](https://www.legislation.gov.uk/ssi/2011/215/article/27) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-abfba35764bb2828c470c93c89d1ff23]: Commencement: [Art. 28](https://www.legislation.gov.uk/ssi/2011/215/article/28) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-abfba35764bb2828c470c93c89d1ff23]: Commencement: [Art. 28](https://www.legislation.gov.uk/ssi/2011/215/article/28) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-a123609151ca19fc36497b68d38d5c68]: Commencement: [Art. 29](https://www.legislation.gov.uk/ssi/2011/215/article/29) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-a123609151ca19fc36497b68d38d5c68]: Commencement: [Art. 29](https://www.legislation.gov.uk/ssi/2011/215/article/29) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-361af60d5ca003a206479bcd44831f09]: Commencement: [Art. 30](https://www.legislation.gov.uk/ssi/2011/215/article/30) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-361af60d5ca003a206479bcd44831f09]: Commencement: [Art. 30](https://www.legislation.gov.uk/ssi/2011/215/article/30) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-4e58aee4a28f67b0daa2861a8fe8e927]: Commencement: [Art. 31](https://www.legislation.gov.uk/ssi/2011/215/article/31) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-4e58aee4a28f67b0daa2861a8fe8e927]: Commencement: [Art. 31](https://www.legislation.gov.uk/ssi/2011/215/article/31) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-20de297975ea039df584075ca7528fd2]: Commencement: [Art. 32](https://www.legislation.gov.uk/ssi/2011/215/article/32) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-20de297975ea039df584075ca7528fd2]: Commencement: [Art. 32](https://www.legislation.gov.uk/ssi/2011/215/article/32) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-2c43ae7643d3fdc328e28e0ffbc8aa1e]: Commencement: [Art. 33](https://www.legislation.gov.uk/ssi/2011/215/article/33) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-2c43ae7643d3fdc328e28e0ffbc8aa1e]: Commencement: [Art. 33](https://www.legislation.gov.uk/ssi/2011/215/article/33) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-b4f8dd08593b07b46f9df0b9207e1261]: Commencement: Sch. 1 in force at 4.4.2011, see [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2011/215/article/2/1/a)
+[^c-b4f8dd08593b07b46f9df0b9207e1261]: Commencement: Sch. 1 in force at 4.4.2011, see [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2011/215/article/2/1/a)
 
-[^key-3ccccfd021db5596d52ae38c8ad06f70]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2011/215/schedule/2/paragraph/1) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-3ccccfd021db5596d52ae38c8ad06f70]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2011/215/schedule/2/paragraph/1) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-9f5f007c178265b74e0e9a4420335840]: Commencement: Sch. 2 para. 2 in force at 4.4.2011 for specified purposes, see [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/215/article/2/1/b), Sch. 1
+[^c-9f5f007c178265b74e0e9a4420335840]: Commencement: Sch. 2 para. 2 in force at 4.4.2011 for specified purposes, see [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/215/article/2/1/b), Sch. 1
 
-[^key-d997ba51f5cd42a6819f7e40cea6f290]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2011/215/schedule/2/paragraph/2) in force at 2.4.2012 in so far as not already in force, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-d997ba51f5cd42a6819f7e40cea6f290]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2011/215/schedule/2/paragraph/2) in force at 2.4.2012 in so far as not already in force, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-2468b75cd2959ac6c03ffec7457c1712]: Commencement: Sch. 2 para. 3 in force at 4.4.2011 for specified purposes, see [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/215/article/2/1/b), Sch. 1
+[^c-2468b75cd2959ac6c03ffec7457c1712]: Commencement: Sch. 2 para. 3 in force at 4.4.2011 for specified purposes, see [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/215/article/2/1/b), Sch. 1
 
-[^key-18f5261bc6dd0b08fc25c1b34f1a3ed6]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2011/215/schedule/2/paragraph/3) in force at 2.4.2012 in so far as not already in force, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-18f5261bc6dd0b08fc25c1b34f1a3ed6]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2011/215/schedule/2/paragraph/3) in force at 2.4.2012 in so far as not already in force, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-628357e2f471fa08e128d3d3d31a3bfc]: Commencement: Sch. 2 para. 4 in force at 4.4.2011 for specified purposes, see [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/215/article/2/1/b), Sch. 1
+[^c-628357e2f471fa08e128d3d3d31a3bfc]: Commencement: Sch. 2 para. 4 in force at 4.4.2011 for specified purposes, see [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/215/article/2/1/b), Sch. 1
 
-[^key-8b2682591c06341d2e51f3cf2f08ad78]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2011/215/schedule/2/paragraph/4) in force at 2.4.2012 in so far as not already in force, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-8b2682591c06341d2e51f3cf2f08ad78]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2011/215/schedule/2/paragraph/4) in force at 2.4.2012 in so far as not already in force, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-05f8891beee9fa4acfa82794ab9f499b]: Textual amendment: Word in [sch. 2 para. 4(c)(ii)](https://www.legislation.gov.uk/ssi/2011/215/schedule/2/paragraph/4/c/ii) substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [sch. 2 para. 19](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/19)
+[^c-05f8891beee9fa4acfa82794ab9f499b]: Textual amendment: Word in [sch. 2 para. 4(c)(ii)](https://www.legislation.gov.uk/ssi/2011/215/schedule/2/paragraph/4/c/ii) substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [sch. 2 para. 19](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/19)
 
-[^key-ca23108cf3b21e08132a706ece4c7d9e]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2011/215/schedule/2/paragraph/5) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-ca23108cf3b21e08132a706ece4c7d9e]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2011/215/schedule/2/paragraph/5) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-9fa8f2248d727a621bc38a4e1d78c09a]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2011/215/schedule/2/paragraph/6) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-9fa8f2248d727a621bc38a4e1d78c09a]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2011/215/schedule/2/paragraph/6) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-cab372f6c9f9df69c9f283de3284e4d7]: Commencement: Sch. 2 para. 7 in force at 4.4.2011 for specified purposes, see [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/215/article/2/1/b), Sch. 1
+[^c-cab372f6c9f9df69c9f283de3284e4d7]: Commencement: Sch. 2 para. 7 in force at 4.4.2011 for specified purposes, see [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/215/article/2/1/b), Sch. 1
 
-[^key-f891a38955a03d0fcc9c6dc50b46b781]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/2/paragraph/7) in force at 2.4.2012 in so far as not already in force, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-f891a38955a03d0fcc9c6dc50b46b781]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/2/paragraph/7) in force at 2.4.2012 in so far as not already in force, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-544a2890991686e063209c05fe45a1b2]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ssi/2011/215/schedule/2/paragraph/8) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-544a2890991686e063209c05fe45a1b2]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ssi/2011/215/schedule/2/paragraph/8) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-17f8d848abaec11fd27a3d8530a26bc9]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2011/215/schedule/3/paragraph/1) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-17f8d848abaec11fd27a3d8530a26bc9]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2011/215/schedule/3/paragraph/1) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-5f7cb2d9b11e281192733035e60cbcd1]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2011/215/schedule/3/paragraph/2) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-5f7cb2d9b11e281192733035e60cbcd1]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2011/215/schedule/3/paragraph/2) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-1fde826a46c18938ab92ee373d950909]: Commencement: Sch. 3 para. 3 in force at 4.4.2011 for specified purposes, see [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/215/article/2/1/b), Sch. 1
+[^c-1fde826a46c18938ab92ee373d950909]: Commencement: Sch. 3 para. 3 in force at 4.4.2011 for specified purposes, see [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/215/article/2/1/b), Sch. 1
 
-[^key-4e98c29dcec2f4aa23e7b59bc031c2a3]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2011/215/schedule/3/paragraph/3) in force at 2.4.2012 in so far as not already in force, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-4e98c29dcec2f4aa23e7b59bc031c2a3]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2011/215/schedule/3/paragraph/3) in force at 2.4.2012 in so far as not already in force, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-425ae8df45550c0ec873aa25ceaeeeba]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2011/215/schedule/3/paragraph/4) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-425ae8df45550c0ec873aa25ceaeeeba]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2011/215/schedule/3/paragraph/4) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-a3b7bb0fea4aff9efdde7169675ca85d]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ssi/2011/215/schedule/3/paragraph/5) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-a3b7bb0fea4aff9efdde7169675ca85d]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ssi/2011/215/schedule/3/paragraph/5) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-0894d7b59dd352cf03184e3c939fc6fb]: Commencement: Sch. 3 para. 6 in force at 4.4.2011 for specified purposes, see [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/215/article/2/1/b), Sch. 1
+[^c-0894d7b59dd352cf03184e3c939fc6fb]: Commencement: Sch. 3 para. 6 in force at 4.4.2011 for specified purposes, see [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/215/article/2/1/b), Sch. 1
 
-[^key-64bd1e5759c152b9d38865bfe9a16894]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ssi/2011/215/schedule/3/paragraph/6) in force at 2.4.2012 in so far as not already in force, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-64bd1e5759c152b9d38865bfe9a16894]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ssi/2011/215/schedule/3/paragraph/6) in force at 2.4.2012 in so far as not already in force, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-bde6bc9e58a193d6c2dd11a227d8f255]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/3/paragraph/7) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-bde6bc9e58a193d6c2dd11a227d8f255]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/3/paragraph/7) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-152d53cbb42d77b230d64521cc9e9d8a]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ssi/2011/215/schedule/3/paragraph/8) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-152d53cbb42d77b230d64521cc9e9d8a]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ssi/2011/215/schedule/3/paragraph/8) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-c8c392ba8ae733d8ff8dbf399af5923f]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ssi/2011/215/schedule/3/paragraph/9) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-c8c392ba8ae733d8ff8dbf399af5923f]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ssi/2011/215/schedule/3/paragraph/9) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-c4f7e41bb10b9c1bf9572f11562d4e6a]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ssi/2011/215/schedule/3/paragraph/10) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-c4f7e41bb10b9c1bf9572f11562d4e6a]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ssi/2011/215/schedule/3/paragraph/10) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-3e9254d7438ed984b1d7747dce3a4473]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ssi/2011/215/schedule/3/paragraph/11) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-3e9254d7438ed984b1d7747dce3a4473]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ssi/2011/215/schedule/3/paragraph/11) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-31a663d85e790663aa9eac3a5f964516]: Commencement: Sch. 4 para. 1 in force at 4.4.2011 for specified purposes, see [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/215/article/2/1/b), Sch. 1
+[^c-31a663d85e790663aa9eac3a5f964516]: Commencement: Sch. 4 para. 1 in force at 4.4.2011 for specified purposes, see [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/215/article/2/1/b), Sch. 1
 
-[^key-c4a5647caced50ec9ece77053c3dbee6]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ssi/2011/215/schedule/4/paragraph/1) in force at 2.4.2012 in so far as not already in force, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-c4a5647caced50ec9ece77053c3dbee6]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ssi/2011/215/schedule/4/paragraph/1) in force at 2.4.2012 in so far as not already in force, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-2900fec2693d0f00edbf10ce8a32ab18]: Commencement: Sch. 4 para. 2 in force at 4.4.2011 for specified purposes, see [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/215/article/2/1/b), Sch. 1
+[^c-2900fec2693d0f00edbf10ce8a32ab18]: Commencement: Sch. 4 para. 2 in force at 4.4.2011 for specified purposes, see [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/215/article/2/1/b), Sch. 1
 
-[^key-9fc21717936c43fdb9597ffac96c372a]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ssi/2011/215/schedule/4/paragraph/2) in force at 2.4.2012 in so far as not already in force, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-9fc21717936c43fdb9597ffac96c372a]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ssi/2011/215/schedule/4/paragraph/2) in force at 2.4.2012 in so far as not already in force, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-527fa340087765b6e6c91173b2058f92]: Commencement: Sch. 4 para. 3 in force at 4.4.2011 for specified purposes, see [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/215/article/2/1/b), Sch. 1
+[^c-527fa340087765b6e6c91173b2058f92]: Commencement: Sch. 4 para. 3 in force at 4.4.2011 for specified purposes, see [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/215/article/2/1/b), Sch. 1
 
-[^key-cca10e1c48d7c72e7af6d2217276d4a2]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2011/215/schedule/4/paragraph/3) in force at 2.4.2012 in so far as not already in force, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-cca10e1c48d7c72e7af6d2217276d4a2]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2011/215/schedule/4/paragraph/3) in force at 2.4.2012 in so far as not already in force, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
 [^f00006]: Footnote: [1946 c.36](https://www.legislation.gov.uk/ukpga/1946/36); relevantly modified by [S.I. 1999/1096](https://www.legislation.gov.uk/uksi/1999/1096).
 
-[^key-343bc4b40bd6818bc07a3dfe9958f916]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ssi/2011/215/schedule/5/paragraph/1) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-343bc4b40bd6818bc07a3dfe9958f916]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ssi/2011/215/schedule/5/paragraph/1) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
 [^f00007]: Footnote: [S.I. 1993/2732](https://www.legislation.gov.uk/uksi/1993/2732), amended by [S.S.I. 2004/390](https://www.legislation.gov.uk/ssi/2004/390).
 
-[^key-cac17e0af2f803c000378e7a5254ceba]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2011/215/schedule/5/paragraph/2) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-cac17e0af2f803c000378e7a5254ceba]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2011/215/schedule/5/paragraph/2) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-c1f19bc05c217e034139b8e7e067ca69]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ssi/2011/215/schedule/5/paragraph/3) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-c1f19bc05c217e034139b8e7e067ca69]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ssi/2011/215/schedule/5/paragraph/3) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-972628585197087bcc805fad6a9172cb]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ssi/2011/215/schedule/5/paragraph/4) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-972628585197087bcc805fad6a9172cb]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ssi/2011/215/schedule/5/paragraph/4) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-6b15b6286e9ed07d6e7cb88f3fcc42bd]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ssi/2011/215/schedule/5/paragraph/5) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-6b15b6286e9ed07d6e7cb88f3fcc42bd]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ssi/2011/215/schedule/5/paragraph/5) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
 [^f00008]: Footnote: Section 10B was inserted by section 50 of the [Standards in Scotland’s Schools etc. Act 2000 (asp 6](https://www.legislation.gov.uk/asp/2000/6)), and amended by paragraph 3 of Schedule 4 to the [Protection of Vulnerable Groups (Scotland) Act 2007 (asp 14](https://www.legislation.gov.uk/asp/2007/14)).
 
-[^key-21e45f74a4aa5cd5b68e459a15258ebe]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ssi/2011/215/schedule/5/paragraph/6) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-21e45f74a4aa5cd5b68e459a15258ebe]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ssi/2011/215/schedule/5/paragraph/6) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
 [^f00009]: Footnote: Section 10C was inserted by section 50 of the [Standards in Scotland’s Schools etc. Act 2000 (asp 6](https://www.legislation.gov.uk/asp/2000/6)).
 
 [^f00010]: Footnote: Section 11 was substituted by section 50 of the [Standards in Scotland’s Schools etc. Act 2000 (asp 6](https://www.legislation.gov.uk/asp/2000/6)), and amended by paragraph 4 of Schedule 4 to the [Protection of Vulnerable Groups (Scotland) Act 2007 (asp 14](https://www.legislation.gov.uk/asp/2007/14)).
 
-[^key-d7b73f2c5432404eec163bf5bd99a5ff]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/5/paragraph/7) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-d7b73f2c5432404eec163bf5bd99a5ff]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/5/paragraph/7) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-8753d419e47748f3cd50f06a4772c9c9]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ssi/2011/215/schedule/5/paragraph/8) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-8753d419e47748f3cd50f06a4772c9c9]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ssi/2011/215/schedule/5/paragraph/8) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-53975448f4f3fd23fc8bc577cdf0f62f]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ssi/2011/215/schedule/5/paragraph/9) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-53975448f4f3fd23fc8bc577cdf0f62f]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ssi/2011/215/schedule/5/paragraph/9) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-fc5a86c81de83c6b02c0aa84e7353448]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ssi/2011/215/schedule/5/paragraph/10) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-fc5a86c81de83c6b02c0aa84e7353448]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ssi/2011/215/schedule/5/paragraph/10) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
 [^f00011]: Footnote: Section 11A was inserted by section 50 of the [Standards in Scotland’s Schools etc. Act 2000 (asp 6](https://www.legislation.gov.uk/asp/2000/6)).
 
 [^f00012]: Footnote: [S.S.I. 2005/355](https://www.legislation.gov.uk/ssi/2005/355).
 
-[^key-80c702049d59526668cae6193892787c]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ssi/2011/215/schedule/5/paragraph/11) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-80c702049d59526668cae6193892787c]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ssi/2011/215/schedule/5/paragraph/11) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
-[^key-dfc0edf31e523a53bd94d2d32e88c232]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ssi/2011/215/schedule/5/paragraph/12) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-dfc0edf31e523a53bd94d2d32e88c232]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ssi/2011/215/schedule/5/paragraph/12) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
 [^f00013]: Footnote: Section 12(1A) was inserted by section 51(1) of the Standards in Scotland’s Schools etc. Act 2000.
 
-[^key-119872ad06324e2f45f39a87f26948a9]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ssi/2011/215/schedule/5/paragraph/13) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-119872ad06324e2f45f39a87f26948a9]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ssi/2011/215/schedule/5/paragraph/13) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
 [^f00014]: Footnote: [S.S.I. 2006/455](https://www.legislation.gov.uk/ssi/2006/455).
 
-[^key-7dc75bb36bdc95a204686b03edc51718]: Commencement: Sch. 6 para. 1 in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-7dc75bb36bdc95a204686b03edc51718]: Commencement: Sch. 6 para. 1 in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
 [^f00015]: Footnote: [1980 c.44](https://www.legislation.gov.uk/ukpga/1980/44).
 
-[^key-10e5e6140115681a4ac83b29c7ca37e1]: Commencement: Sch. 6 para. 2 in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-10e5e6140115681a4ac83b29c7ca37e1]: Commencement: Sch. 6 para. 2 in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
 [^f00016]: Footnote: [2007 asp 14](https://www.legislation.gov.uk/asp/2007/14).
 
-[^key-29288835bf67e81fc509752b29944fdb]: Commencement: Sch. 6 para. 3 in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-29288835bf67e81fc509752b29944fdb]: Commencement: Sch. 6 para. 3 in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
 [^f00017]: Footnote: [S.I. 1987/309](https://www.legislation.gov.uk/uksi/1987/309), to which there are amendments not relevant to this Order.
 
-[^key-bc7e546a225a91deb6423e50ea08b3e8]: Commencement: Sch. 6 para. 4 in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-bc7e546a225a91deb6423e50ea08b3e8]: Commencement: Sch. 6 para. 4 in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
 [^f00018]: Footnote: [S.I. 1999/2277](https://www.legislation.gov.uk/uksi/1999/2277).
 
-[^key-6e3763bdc11a2e421ccbf46f2e63adba]: Commencement: Sch. 6 para. 5 in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-6e3763bdc11a2e421ccbf46f2e63adba]: Commencement: Sch. 6 para. 5 in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
 [^f00019]: Footnote: [S.S.I. 2001/424](https://www.legislation.gov.uk/ssi/2001/424), to which there are amendments not relevant to this Order.
 
-[^key-391b41d1f3d0af86949c0728ef0a4f88]: Textual amendment: [Sch. 6 para. 6](https://www.legislation.gov.uk/ssi/2011/215/schedule/6/paragraph/6) revoked (14.2.2013) by [The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013 (S.S.I. 2013/50)](https://www.legislation.gov.uk/ssi/2013/50), [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/50/article/1/1), [sch. 5](https://www.legislation.gov.uk/ssi/2013/50/schedule/5)
+[^c-391b41d1f3d0af86949c0728ef0a4f88]: Textual amendment: [Sch. 6 para. 6](https://www.legislation.gov.uk/ssi/2011/215/schedule/6/paragraph/6) revoked (14.2.2013) by [The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013 (S.S.I. 2013/50)](https://www.legislation.gov.uk/ssi/2013/50), [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/50/article/1/1), [sch. 5](https://www.legislation.gov.uk/ssi/2013/50/schedule/5)
 
-[^key-14296af479a17761d9691626d754f0ce]: Commencement: Sch. 6 para. 7 in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-14296af479a17761d9691626d754f0ce]: Commencement: Sch. 6 para. 7 in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
 
 [^f00021]: Footnote: [S.S.I. 2005/355](https://www.legislation.gov.uk/ssi/2005/355).
 
-[^key-3309cd7641f9096e44b4fc08cb169929]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)
+[^c-3309cd7641f9096e44b4fc08cb169929]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7) in force at 2.4.2012, see [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/215/article/2/2)

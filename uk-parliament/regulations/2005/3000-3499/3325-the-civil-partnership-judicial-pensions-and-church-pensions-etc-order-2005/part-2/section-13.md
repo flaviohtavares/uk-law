@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: N.I.*
 
-**13.**[^key-bc36fd47f612c184ec75f6da8bef4d93] In section 16 (Departmental recommendation in certain cases), for “widow’s widower's” substitute “widow's, widower's, surviving civil partner's”.
+**13.**[^c-bc36fd47f612c184ec75f6da8bef4d93] In section 16 (Departmental recommendation in certain cases), for “widow’s widower's” substitute “widow's, widower's, surviving civil partner's”.
 
 ## Annotations
 
-[^key-bc36fd47f612c184ec75f6da8bef4d93]: Commencement: Art. 13 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-bc36fd47f612c184ec75f6da8bef4d93]: Commencement: Art. 13 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

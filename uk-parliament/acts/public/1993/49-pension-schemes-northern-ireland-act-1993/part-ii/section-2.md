@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Registration of occupational and personal pension schemes.[^key-e7c28cac141de8fc1cc636ae4675ed3f]
+## 2. Registration of occupational and personal pension schemes.[^c-e7c28cac141de8fc1cc636ae4675ed3f]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7c28cac141de8fc1cc636ae4675ed3f]: Textual amendment: S. 2 repealed (6.4.2005) by [The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1))](https://www.legislation.gov.uk/nisi/2005/255), [art. 1(2)](https://www.legislation.gov.uk/nisi/2005/255/article/1/2), [Sch. 11](https://www.legislation.gov.uk/nisi/2005/255/schedule/11); [S.R. 2005/166](https://www.legislation.gov.uk/nisr/2005/166), [art. 2(6)](https://www.legislation.gov.uk/nisr/2005/166/article/2/6), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/166/schedule/1)
+[^c-e7c28cac141de8fc1cc636ae4675ed3f]: Textual amendment: S. 2 repealed (6.4.2005) by [The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1))](https://www.legislation.gov.uk/nisi/2005/255), [art. 1(2)](https://www.legislation.gov.uk/nisi/2005/255/article/1/2), [Sch. 11](https://www.legislation.gov.uk/nisi/2005/255/schedule/11); [S.R. 2005/166](https://www.legislation.gov.uk/nisr/2005/166), [art. 2(6)](https://www.legislation.gov.uk/nisr/2005/166/article/2/6), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/166/schedule/1)

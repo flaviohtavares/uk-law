@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49C. Approval of redress schemes by the CMA[^key-6edbb5bc2348ba58158f69b3636b8db8][^key-bf1a8eef7a6eb8e02985f33da985f18d]
+## 49C. Approval of redress schemes by the CMA[^c-6edbb5bc2348ba58158f69b3636b8db8][^c-bf1a8eef7a6eb8e02985f33da985f18d]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,7 +61,7 @@ summary: ''
 
 - “**approved scheme**” means a redress scheme approved by the CMA,
 - “**compensating party**” means a person offering compensation under an approved scheme,
-- “[^key-314b7d35ba5d3f14d6557c250989e616]**infringement decision**” means a decision of the CMA that the Chapter I prohibition or the Chapter II prohibition has been infringed, and
+- “[^c-314b7d35ba5d3f14d6557c250989e616]**infringement decision**” means a decision of the CMA that the Chapter I prohibition or the Chapter II prohibition has been infringed, and
 - “**redress scheme**” means a scheme under which a person offers compensation in consequence of an infringement decision made in respect of that person.
 
 (12) For the purposes of this section and section 49E, “compensation”—
@@ -71,8 +71,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6edbb5bc2348ba58158f69b3636b8db8]: Textual amendment: Ss. 49C-49E inserted (3.8.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/12); [S.I. 2015/1584](https://www.legislation.gov.uk/uksi/2015/1584), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/1584/article/3/a); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-6edbb5bc2348ba58158f69b3636b8db8]: Textual amendment: Ss. 49C-49E inserted (3.8.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/12); [S.I. 2015/1584](https://www.legislation.gov.uk/uksi/2015/1584), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/1584/article/3/a); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-bf1a8eef7a6eb8e02985f33da985f18d]: Textual amendment: S. 47B substituted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 8 para. 5(1)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/5/1) (with [Sch. 8 para. 5(2)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/5/2)); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-bf1a8eef7a6eb8e02985f33da985f18d]: Textual amendment: S. 47B substituted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 8 para. 5(1)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/5/1) (with [Sch. 8 para. 5(2)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/5/2)); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-314b7d35ba5d3f14d6557c250989e616]: Textual amendment: Words in [s. 49C(11)](https://www.legislation.gov.uk/ukpga/1998/41/section/49C/11) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2019/93/regulation/17) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-314b7d35ba5d3f14d6557c250989e616]: Textual amendment: Words in [s. 49C(11)](https://www.legislation.gov.uk/ukpga/1998/41/section/49C/11) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2019/93/regulation/17) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**150.**[^key-8d60b54e7456e212199342c74a1879e3] The claim shall be made at, or sent to, any office designated by the Commissioners for the receipt of such claims.
+**150.**[^c-8d60b54e7456e212199342c74a1879e3] The claim shall be made at, or sent to, any office designated by the Commissioners for the receipt of such claims.
 
 ## Annotations
 
-[^key-8d60b54e7456e212199342c74a1879e3]: Commencement: Reg. 150 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-8d60b54e7456e212199342c74a1879e3]: Commencement: Reg. 150 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)

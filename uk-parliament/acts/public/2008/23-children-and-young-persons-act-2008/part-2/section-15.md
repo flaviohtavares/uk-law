@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Duty of local authority to ensure visits to looked after children and others[^key-e7cb0f29674a78220888d1ec5fcae902][^key-4e2fc84729c54d1b23be274f6b047451][^key-0d78a362ae0e74186a74321f573d6c41][^key-aa2761c20b847c88cd69f3c180cd7a28][^key-6a0cbbc8f394a3ec823e7fe631f06cc4]
+## 15. Duty of local authority to ensure visits to looked after children and others[^c-e7cb0f29674a78220888d1ec5fcae902][^c-4e2fc84729c54d1b23be274f6b047451][^c-0d78a362ae0e74186a74321f573d6c41][^c-aa2761c20b847c88cd69f3c180cd7a28][^c-6a0cbbc8f394a3ec823e7fe631f06cc4]
 
 *Extent: E+W*
 
@@ -51,12 +51,12 @@ After section 23 of the 1989 Act insert—
 
 ## Annotations
 
-[^key-e7cb0f29674a78220888d1ec5fcae902]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2008/23/section/15) in force at 1.9.2009 for specified purposes for E. by [S.I. 2009/2273](https://www.legislation.gov.uk/uksi/2009/2273), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2009/2273/article/2/2/d)
+[^c-e7cb0f29674a78220888d1ec5fcae902]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2008/23/section/15) in force at 1.9.2009 for specified purposes for E. by [S.I. 2009/2273](https://www.legislation.gov.uk/uksi/2009/2273), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2009/2273/article/2/2/d)
 
-[^key-4e2fc84729c54d1b23be274f6b047451]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2008/23/section/15) in force at 26.4.2010 for specified purposes for W. by [S.I. 2010/1329](https://www.legislation.gov.uk/wsi/2010/1329), [art. 2(d)](https://www.legislation.gov.uk/wsi/2010/1329/article/2/d)
+[^c-4e2fc84729c54d1b23be274f6b047451]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2008/23/section/15) in force at 26.4.2010 for specified purposes for W. by [S.I. 2010/1329](https://www.legislation.gov.uk/wsi/2010/1329), [art. 2(d)](https://www.legislation.gov.uk/wsi/2010/1329/article/2/d)
 
-[^key-0d78a362ae0e74186a74321f573d6c41]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2008/23/section/15) in force at 15.11.2010 for specified purposes for E. by [S.I. 2010/2714](https://www.legislation.gov.uk/uksi/2010/2714), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/2714/article/2/b)
+[^c-0d78a362ae0e74186a74321f573d6c41]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2008/23/section/15) in force at 15.11.2010 for specified purposes for E. by [S.I. 2010/2714](https://www.legislation.gov.uk/uksi/2010/2714), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/2714/article/2/b)
 
-[^key-aa2761c20b847c88cd69f3c180cd7a28]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2008/23/section/15) in force at 28.3.2011 for W. so far as not already in force by [S.I. 2011/949](https://www.legislation.gov.uk/wsi/2011/949), [art. 3(1)(a)](https://www.legislation.gov.uk/wsi/2011/949/article/3/1/a)
+[^c-aa2761c20b847c88cd69f3c180cd7a28]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2008/23/section/15) in force at 28.3.2011 for W. so far as not already in force by [S.I. 2011/949](https://www.legislation.gov.uk/wsi/2011/949), [art. 3(1)(a)](https://www.legislation.gov.uk/wsi/2011/949/article/3/1/a)
 
-[^key-6a0cbbc8f394a3ec823e7fe631f06cc4]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2008/23/section/15) in force at 1.4.2011 for E. so far as not already in force by [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/d)
+[^c-6a0cbbc8f394a3ec823e7fe631f06cc4]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2008/23/section/15) in force at 1.4.2011 for E. so far as not already in force by [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/d)

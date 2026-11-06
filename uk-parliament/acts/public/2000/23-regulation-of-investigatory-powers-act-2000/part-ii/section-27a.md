@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27A. Section 27: criminal injuries compensation for s. 29B conduct[^key-217a051a02397a2ab1581bb3b6c90ace]
+## 27A. Section 27: criminal injuries compensation for s. 29B conduct[^c-217a051a02397a2ab1581bb3b6c90ace]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ section 27(1) has no effect in relation to conduct authorised under section 29B.
 
 ## Annotations
 
-[^key-217a051a02397a2ab1581bb3b6c90ace]: Textual amendment: S. 27A inserted (10.8.2021 for specified purposes, 15.9.2021 for specified purposes, 30.9.2021 in so far as not already in force) by [Covert Human Intelligence Sources (Criminal Conduct) Act 2021 (c. 4)](https://www.legislation.gov.uk/ukpga/2021/4), [ss. 5](https://www.legislation.gov.uk/ukpga/2021/4/section/5), [9(2)](https://www.legislation.gov.uk/ukpga/2021/4/section/9/2); [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)[(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)[(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
+[^c-217a051a02397a2ab1581bb3b6c90ace]: Textual amendment: S. 27A inserted (10.8.2021 for specified purposes, 15.9.2021 for specified purposes, 30.9.2021 in so far as not already in force) by [Covert Human Intelligence Sources (Criminal Conduct) Act 2021 (c. 4)](https://www.legislation.gov.uk/ukpga/2021/4), [ss. 5](https://www.legislation.gov.uk/ukpga/2021/4/section/5), [9(2)](https://www.legislation.gov.uk/ukpga/2021/4/section/9/2); [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)[(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)[(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**49.**[^key-e21eb188b61ba99f9b4b6f20c91e99f3] In section 4[^f00055] (services under section 2 of the Chronically Sick and Disabled Persons Act 1970: duty to consider needs of disabled persons)—
+**49.**[^c-e21eb188b61ba99f9b4b6f20c91e99f3] In section 4[^f00055] (services under section 2 of the Chronically Sick and Disabled Persons Act 1970: duty to consider needs of disabled persons)—
 
 - (a) in subsection (1)—
   - (i) after “local authority” insert “in England”;
@@ -27,6 +27,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e21eb188b61ba99f9b4b6f20c91e99f3]: Commencement: Reg. 49 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-e21eb188b61ba99f9b4b6f20c91e99f3]: Commencement: Reg. 49 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00055]: Footnote: Section 4 was amended by [S.I. 2015/914](https://www.legislation.gov.uk/uksi/2015/914), Schedule, paragraphs 36, 39(1), (2), (3) and (4).

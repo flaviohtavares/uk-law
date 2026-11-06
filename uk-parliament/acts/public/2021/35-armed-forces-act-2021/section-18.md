@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Rehabilitation periods: England and Wales[^key-f9d4e5743da4d561d3320cae4d19647f][^key-64ee47b97bb78c6917fe46fe96508699]
+## 18. Rehabilitation periods: England and Wales[^c-f9d4e5743da4d561d3320cae4d19647f][^c-64ee47b97bb78c6917fe46fe96508699]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ In section 5 of the Rehabilitation of Offenders Act 1974 (rehabilitation periods
 
 ## Annotations
 
-[^key-f9d4e5743da4d561d3320cae4d19647f]: Commencement: S. 18 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
+[^c-f9d4e5743da4d561d3320cae4d19647f]: Commencement: S. 18 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
 
-[^key-64ee47b97bb78c6917fe46fe96508699]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2021/35/section/18) in force at 1.5.2022 by [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/4/d)
+[^c-64ee47b97bb78c6917fe46fe96508699]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2021/35/section/18) in force at 1.5.2022 by [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/4/d)

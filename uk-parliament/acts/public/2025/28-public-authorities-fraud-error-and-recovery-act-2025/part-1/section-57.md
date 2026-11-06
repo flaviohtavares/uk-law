@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 57. Procedural rights[^key-41de976ae0d51e747cfd318446ac5064][^key-f6728d087ef9f390585c8c1fbd075675]
+## 57. Procedural rights[^c-41de976ae0d51e747cfd318446ac5064][^c-f6728d087ef9f390585c8c1fbd075675]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-41de976ae0d51e747cfd318446ac5064]: Commencement: S. 57 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-41de976ae0d51e747cfd318446ac5064]: Commencement: S. 57 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-f6728d087ef9f390585c8c1fbd075675]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2025/28/section/57) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-f6728d087ef9f390585c8c1fbd075675]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2025/28/section/57) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

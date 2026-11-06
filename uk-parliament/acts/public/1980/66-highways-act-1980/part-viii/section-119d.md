@@ -78,7 +78,7 @@ so, however, that for the purposes of paragraphs (b) and (c) above the Secretary
 
 - “ **the appropriate conservation body** ” means—
   - (a) as respects England, Natural England[^c18594661] , and
-  - (b) as respects Wales, the Natural Resources Body for Wales[^key-ae6ad80c9fd996d8b7d8d530bcefe44e];
+  - (b) as respects Wales, the Natural Resources Body for Wales[^c-ae6ad80c9fd996d8b7d8d530bcefe44e];
 - “ **site of special scientific interest** ” has the same meaning as in the [^c13424031] Wildlife and Countryside Act 1981.
 
 ## Annotations
@@ -87,6 +87,6 @@ so, however, that for the purposes of paragraphs (b) and (c) above the Secretary
 
 [^c18594661]: Textual amendment: Words in s. 119D(12) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 105(1)](https://www.legislation.gov.uk/ukpga/2006/16/section/105/1), [Sch. 11 Pt. 1 para. 64](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/part/1/paragraph/64); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
 
-[^key-ae6ad80c9fd996d8b7d8d530bcefe44e]: Textual amendment: Words in [s. 119D(12)](https://www.legislation.gov.uk/ukpga/1980/66/section/119D/12) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 163, 411(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/163) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-ae6ad80c9fd996d8b7d8d530bcefe44e]: Textual amendment: Words in [s. 119D(12)](https://www.legislation.gov.uk/ukpga/1980/66/section/119D/12) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 163, 411(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/163) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c13424031]: Marginal citation: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).

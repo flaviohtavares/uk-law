@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1A. Commission’s duty to consult representative organisations.[^key-93fb1691267dd1fa93a11302358d293c][^c14209911][^c14209921]
+## 1A. Commission’s duty to consult representative organisations.[^c-93fb1691267dd1fa93a11302358d293c][^c14209911][^c14209921]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 ## Annotations
 
-[^key-93fb1691267dd1fa93a11302358d293c]: Textual amendment: Ss. 1-25 repealed (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2008/576/schedule/5/paragraph/7) (with [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/10))
+[^c-93fb1691267dd1fa93a11302358d293c]: Textual amendment: Ss. 1-25 repealed (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2008/576/schedule/5/paragraph/7) (with [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/10))
 
 [^c14209911]: Textual amendment: [S.1A](https://www.legislation.gov.uk/ukpga/1967/22/section/1A) inserted by [Agriculture (Miscellaneous Provisions) Act 1976 (c. 55)](https://www.legislation.gov.uk/ukpga/1976/55), [s. 3(2)](https://www.legislation.gov.uk/ukpga/1976/55/section/3/2)
 

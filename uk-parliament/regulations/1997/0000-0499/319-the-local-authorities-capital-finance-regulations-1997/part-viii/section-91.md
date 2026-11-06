@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 91. Disposal of shops and offices etc.[^key-5054f39141a809158671b7bcad3777af]
+## 91. Disposal of shops and offices etc.[^c-5054f39141a809158671b7bcad3777af]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ For the purposes of regulation 86, a disposal of an interest in land shall be a 
 
 ## Annotations
 
-[^key-5054f39141a809158671b7bcad3777af]: Commencement: Reg. 91 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-5054f39141a809158671b7bcad3777af]: Commencement: Reg. 91 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

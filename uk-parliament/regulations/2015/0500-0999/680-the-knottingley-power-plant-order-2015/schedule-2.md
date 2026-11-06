@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2 — STREETS SUBJECT TO STREET WORKS[^key-33315f6a8d5e933619045939a7775b94]
+## SCHEDULE 2 — STREETS SUBJECT TO STREET WORKS[^c-33315f6a8d5e933619045939a7775b94]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ Article 10
 
 ## Annotations
 
-[^key-33315f6a8d5e933619045939a7775b94]: Commencement: Sch. 2 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-33315f6a8d5e933619045939a7775b94]: Commencement: Sch. 2 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 190. Application of general duties to Part 3 functions etc.[^key-5f99e1fb8a775d95dac2e93517195483][^key-2b3adc363b8311488e74faf537325dd0][^key-e3fbf9874d0e06ac672993772902d700]
+## 190. Application of general duties to Part 3 functions etc.[^c-5f99e1fb8a775d95dac2e93517195483][^c-2b3adc363b8311488e74faf537325dd0][^c-e3fbf9874d0e06ac672993772902d700]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,8 +45,8 @@ of functions conferred on the Secretary of State or GEMA by or under section 90 
 
 ## Annotations
 
-[^key-5f99e1fb8a775d95dac2e93517195483]: Commencement: [S. 190](https://www.legislation.gov.uk/ukpga/2004/20/section/190) in force at 24.8.2004 for specified purposes by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)
+[^c-5f99e1fb8a775d95dac2e93517195483]: Commencement: [S. 190](https://www.legislation.gov.uk/ukpga/2004/20/section/190) in force at 24.8.2004 for specified purposes by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)
 
-[^key-2b3adc363b8311488e74faf537325dd0]: Commencement: [S. 190](https://www.legislation.gov.uk/ukpga/2004/20/section/190) in force at 5.10.2004 in so far as not already in force by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-2b3adc363b8311488e74faf537325dd0]: Commencement: [S. 190](https://www.legislation.gov.uk/ukpga/2004/20/section/190) in force at 5.10.2004 in so far as not already in force by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-e3fbf9874d0e06ac672993772902d700]: Modification: Ss. 171-196: power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 50](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/50)
+[^c-e3fbf9874d0e06ac672993772902d700]: Modification: Ss. 171-196: power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 50](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/50)

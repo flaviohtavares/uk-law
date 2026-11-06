@@ -32,7 +32,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION
 
-The Controls on Nonylphenol and Nonylphenol Ethoxylate Regulations 2004 (revoked)[^key-9cf84caf73cf031f9158e1d61ff21f79]
+The Controls on Nonylphenol and Nonylphenol Ethoxylate Regulations 2004 (revoked)[^c-9cf84caf73cf031f9158e1d61ff21f79]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 17th January 2005
 
-[^key-9cf84caf73cf031f9158e1d61ff21f79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9cf84caf73cf031f9158e1d61ff21f79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-9cf84caf73cf031f9158e1d61ff21f79]
+## 1. Citation, commencement and extent[^c-9cf84caf73cf031f9158e1d61ff21f79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-9cf84caf73cf031f9158e1d61ff21f79]
+## 2. Interpretation[^c-9cf84caf73cf031f9158e1d61ff21f79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Scope[^key-9cf84caf73cf031f9158e1d61ff21f79]
+## 3. Scope[^c-9cf84caf73cf031f9158e1d61ff21f79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prohibition on the placing on the market and use of nonylphenol and nonylphenol ethoxylate[^key-9cf84caf73cf031f9158e1d61ff21f79]
+## 4. Prohibition on the placing on the market and use of nonylphenol and nonylphenol ethoxylate[^c-9cf84caf73cf031f9158e1d61ff21f79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Offences and penalties[^key-9cf84caf73cf031f9158e1d61ff21f79]
+## 5. Offences and penalties[^c-9cf84caf73cf031f9158e1d61ff21f79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9cf84caf73cf031f9158e1d61ff21f79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9cf84caf73cf031f9158e1d61ff21f79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9cf84caf73cf031f9158e1d61ff21f79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9cf84caf73cf031f9158e1d61ff21f79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9cf84caf73cf031f9158e1d61ff21f79]: Textual amendment: Regulations revoked (7.1.2007) by The Controls on [Dangerous Substances and Preparations Regulations 2006 (S.I. 2006/3311)](https://www.legislation.gov.uk/uksi/2006/3311), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3311/regulation/1), [18(1)](https://www.legislation.gov.uk/uksi/2006/3311/regulation/18/1), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2006/3311/schedule/4/part/2)
+[^c-9cf84caf73cf031f9158e1d61ff21f79]: Textual amendment: Regulations revoked (7.1.2007) by The Controls on [Dangerous Substances and Preparations Regulations 2006 (S.I. 2006/3311)](https://www.legislation.gov.uk/uksi/2006/3311), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3311/regulation/1), [18(1)](https://www.legislation.gov.uk/uksi/2006/3311/regulation/18/1), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2006/3311/schedule/4/part/2)

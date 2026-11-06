@@ -39,7 +39,7 @@ summary: ''
 - (c) to prevent normal access by pedestrians to premises adjoining the road,
 - (d) to prevent any use of vehicles which is permitted by an order made under section 203 and applying to the road,
 - (e) to prevent statutory undertakers from having access to any works of theirs under, in, on, over, along or across the road, or
-- (f) to prevent the operator of an electronic communications code network[^key-b5ad93dc143be430fa3ff26f5b00514c] from having access to any works of his under, in, on, over, along or across the road.
+- (f) to prevent the operator of an electronic communications code network[^c-b5ad93dc143be430fa3ff26f5b00514c] from having access to any works of his under, in, on, over, along or across the road.
 
 (4) An order under section 203(6) may make provision requiring the removal of any obstruction of the road resulting from the exercise by a competent authority of their powers under this section.
 
@@ -49,4 +49,4 @@ summary: ''
 
 [^c950212]: Modification: S. 205: power to modify conferred (27.5.1997) by [1980 c. 65](https://www.legislation.gov.uk/ukpga/1980/65), [Sch. 30 Pt. II para. 7](https://www.legislation.gov.uk/ukpga/1980/65/schedule/30/part/II/paragraph/7) (as replaced (27.5.1997) by [1997 c. 11](https://www.legislation.gov.uk/ukpga/1997/11), [ss. 4](https://www.legislation.gov.uk/ukpga/1997/11/section/4), [6(2)](https://www.legislation.gov.uk/ukpga/1997/11/section/6/2), [Sch. 2 para. 31(12)](https://www.legislation.gov.uk/ukpga/1997/11/schedule/2/paragraph/31/12))
 
-[^key-b5ad93dc143be430fa3ff26f5b00514c]: Textual amendment: Words in s. 205(3) substituted (17.9.2003) by [Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 13(1)(c)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/1/c)[(2)(a)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/2/a)
+[^c-b5ad93dc143be430fa3ff26f5b00514c]: Textual amendment: Words in s. 205(3) substituted (17.9.2003) by [Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 13(1)(c)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/1/c)[(2)(a)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/2/a)

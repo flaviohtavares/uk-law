@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Meaning of “phased retirement earned pension”[^key-824134046bde062fd2da5de5db12d7e0]
+## 68. Meaning of “phased retirement earned pension”[^c-824134046bde062fd2da5de5db12d7e0]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The amount of phased retirement earned pension is the sum of—
 
 ## Annotations
 
-[^key-824134046bde062fd2da5de5db12d7e0]: Commencement: [Reg. 68](https://www.legislation.gov.uk/ssi/2014/292/regulation/68) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-824134046bde062fd2da5de5db12d7e0]: Commencement: [Reg. 68](https://www.legislation.gov.uk/ssi/2014/292/regulation/68) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

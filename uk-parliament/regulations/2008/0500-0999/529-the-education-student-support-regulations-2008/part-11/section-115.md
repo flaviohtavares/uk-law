@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Eligible distance learning students[^key-3d597ba54bfa4390ce46a423aafb10c6]
+## 115. Eligible distance learning students[^c-3d597ba54bfa4390ce46a423aafb10c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -99,7 +99,7 @@ A’s status as an eligible distance learning student terminates immediately bef
 
 ## Annotations
 
-[^key-3d597ba54bfa4390ce46a423aafb10c6]: Commencement: Reg. 115 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-3d597ba54bfa4390ce46a423aafb10c6]: Commencement: Reg. 115 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
 
 [^f00063]: Footnote: [S.S.I. 2007/151](https://www.legislation.gov.uk/ssi/2007/151), amended by [S.S.I. 2007/503](https://www.legislation.gov.uk/ssi/2007/503).
 

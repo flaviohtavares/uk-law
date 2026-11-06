@@ -48,13 +48,13 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with Article 18(1) and (2)[^f00003] of the CMO Regulation, the Scottish Ministers have taken into account the need to respond in a timely way to a particularly difficult market situation or economic developments having a significant negative impact on the margins in the sector.
 
-## 1. Citation, commencement and extent[^key-263fc4f0a20e73618cad5972e358439a]
+## 1. Citation, commencement and extent[^c-263fc4f0a20e73618cad5972e358439a]
 
 (1) These Regulations may be cited as the Private Storage Aid Scheme (Pigmeat) (Scotland) Regulations 2021 and come into force on 8 November 2021.
 
 (2) These Regulations extend to Scotland.
 
-## 2. Interpretation[^key-e8933969c3496a33f1e064ceed9d925c]
+## 2. Interpretation[^c-e8933969c3496a33f1e064ceed9d925c]
 
 In these Regulations—
 
@@ -63,7 +63,7 @@ In these Regulations—
 - “Regulation (EU) No. 2016/1238” means Commission Delegated Regulation (EU) No. 2016/1238 supplementing [Regulation (EU) No. 1308/2013](https://www.legislation.gov.uk/european/regulation/2013/1308) of the European Parliament and of the Council with regard to public intervention and aid for private storage[^f00004], and
 - “Regulation (EU) No. 2016/1240” means Commission Implementing Regulation (EU) No. 2016/1240 of 18 May 2016 laying down rules for the application of Regulation (EU) No. 1308/2013 of the European Parliament and the Council with regard to public intervention and aid for private storage[^f00005].
 
-## 3. Aid for Private Storage[^key-43abb5af1a79db8ac0604cf6476d1836]
+## 3. Aid for Private Storage[^c-43abb5af1a79db8ac0604cf6476d1836]
 
 (1) The Scottish Ministers may grant private storage aid for pigmeat[^f00006] in accordance with the conditions specified in these Regulations.
 
@@ -90,13 +90,13 @@ In these Regulations—
 
 apply, save as otherwise provided in these Regulations, to the private storage aid referred to in paragraph (1).
 
-## 4. Procedure to be followed[^key-2592237993125881f077dda1da27c93a]
+## 4. Procedure to be followed[^c-2592237993125881f077dda1da27c93a]
 
 (1) A person who wishes to apply for private storage aid referred to in regulation 3(1) must—
 
 - (a) be established in Scotland,
 - (b) manage premises situated in Scotland at which pigmeat is stored, and
-- (c) apply in the period beginning on the day after the day on which these Regulations come into force and ending on 31 March[^key-ea23039296c37ec59a333763c976f8ec] 2022.
+- (c) apply in the period beginning on the day after the day on which these Regulations come into force and ending on 31 March[^c-ea23039296c37ec59a333763c976f8ec] 2022.
 
 (2) An application must—
 
@@ -108,11 +108,11 @@ apply, save as otherwise provided in these Regulations, to the private storage a
 
 (4) This regulation is subject to Article 45 of Regulation (EU) No. 2016/1240[^f00007] (decisions on applications for aid for private storage fixed in advance) as modified by regulation 6.
 
-## 5. Waiver of security requirement[^key-d06e1a500326e35d20ae1506ae591fbb]
+## 5. Waiver of security requirement[^c-d06e1a500326e35d20ae1506ae591fbb]
 
 A person making an application for private storage aid referred to in regulation 3(1) is not required to lodge a security in favour of the relevant paying agency in accordance with Section 2 of Chapter IV of Commission Delegated [Regulation (EU) No. 907/2014](https://www.legislation.gov.uk/european/regulation/2014/0907) of 11 March 2014 supplementing [Regulation (EU) No. 1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306) of the European Parliament and of the Council with regard to paying agencies and other bodies, financial management, clearance of accounts, securities and use of euro[^f00008].
 
-## 6. Decisions on applications[^key-12389d96cf3c00a4f044e6b4ef7c4cb3]
+## 6. Decisions on applications[^c-12389d96cf3c00a4f044e6b4ef7c4cb3]
 
 (1) Article 45 of Regulation (EU) No. 2016/1240 (decisions on applications for aid for private storage aid fixed in advance) has effect in connection with decisions on applications for private storage aid referred to in regulation 3(1) with the modifications specified in paragraph (2).
 
@@ -157,7 +157,7 @@ St Andrew’s House,
 
 Edinburgh
 
-## SCHEDULE[^key-a12e895abd835975c408955931039cc4]
+## SCHEDULE[^c-a12e895abd835975c408955931039cc4]
 
 Regulation 3
 
@@ -176,7 +176,7 @@ Table 2
 
 |  |  |
 | --- | --- |
-| CN Code[^key-761e28e8b0a561b1f129d8be71253bf4] | Product in respect of which aid is available |
+| CN Code[^c-761e28e8b0a561b1f129d8be71253bf4] | Product in respect of which aid is available |
 | ex 0203 12 11 | Legs (bone in) |
 | ex 0203 12 19 | Shoulders (bone in) |
 | ex 0203 19 15 | Middles, loins or bellies, with or without rind or fat (bone in) |
@@ -213,30 +213,30 @@ A Business and Regulatory Impact Assessment has not been produced for this instr
 
 [^f00003]: Footnote: Relevantly amended by [S.I. 2019/831](https://www.legislation.gov.uk/uksi/2019/831).
 
-[^key-263fc4f0a20e73618cad5972e358439a]: Commencement: Reg. 1 in force at 8.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/398/regulation/1/1)
+[^c-263fc4f0a20e73618cad5972e358439a]: Commencement: Reg. 1 in force at 8.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/398/regulation/1/1)
 
-[^key-e8933969c3496a33f1e064ceed9d925c]: Commencement: Reg. 2 in force at 8.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/398/regulation/1/1)
+[^c-e8933969c3496a33f1e064ceed9d925c]: Commencement: Reg. 2 in force at 8.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/398/regulation/1/1)
 
 [^f00004]: Footnote: EUR 2016/1238, incorporated into domestic law on IP completion day by section 3 of the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) and relevantly amended by [S.I. 2019/823](https://www.legislation.gov.uk/uksi/2019/823).
 
 [^f00005]: Footnote: EUR 2016/1240, incorporated into domestic law on IP completion day by section 3 of the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) and relevantly amended by 2019/823.
 
-[^key-43abb5af1a79db8ac0604cf6476d1836]: Commencement: Reg. 3 in force at 8.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/398/regulation/1/1)
+[^c-43abb5af1a79db8ac0604cf6476d1836]: Commencement: Reg. 3 in force at 8.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/398/regulation/1/1)
 
 [^f00006]: Footnote: Article 17(h) of the CMO Regulation provides that aid for private storage may be granted in respect of pigmeat.
 
-[^key-2592237993125881f077dda1da27c93a]: Commencement: Reg. 4 in force at 8.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/398/regulation/1/1)
+[^c-2592237993125881f077dda1da27c93a]: Commencement: Reg. 4 in force at 8.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/398/regulation/1/1)
 
-[^key-ea23039296c37ec59a333763c976f8ec]: Textual amendment: Words in [reg. 4(1)(c)](https://www.legislation.gov.uk/ssi/2021/398/regulation/4/1/c) substituted (15.1.2022) by [The Private Storage Aid Scheme (Pigmeat) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/492)](https://www.legislation.gov.uk/ssi/2021/492), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/492/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/492/regulation/2/2)
+[^c-ea23039296c37ec59a333763c976f8ec]: Textual amendment: Words in [reg. 4(1)(c)](https://www.legislation.gov.uk/ssi/2021/398/regulation/4/1/c) substituted (15.1.2022) by [The Private Storage Aid Scheme (Pigmeat) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/492)](https://www.legislation.gov.uk/ssi/2021/492), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/492/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/492/regulation/2/2)
 
 [^f00007]: Footnote: Relevantly amended by [S.I. 2019/823](https://www.legislation.gov.uk/uksi/2019/823).
 
-[^key-d06e1a500326e35d20ae1506ae591fbb]: Commencement: Reg. 5 in force at 8.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/398/regulation/1/1)
+[^c-d06e1a500326e35d20ae1506ae591fbb]: Commencement: Reg. 5 in force at 8.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/398/regulation/1/1)
 
 [^f00008]: Footnote: EUR 2014/907, incorporated into domestic law on IP completion day by section 3 of the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) and relevantly amended by [S.I. 2019/765](https://www.legislation.gov.uk/uksi/2019/765).
 
-[^key-12389d96cf3c00a4f044e6b4ef7c4cb3]: Commencement: Reg. 6 in force at 8.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/398/regulation/1/1)
+[^c-12389d96cf3c00a4f044e6b4ef7c4cb3]: Commencement: Reg. 6 in force at 8.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/398/regulation/1/1)
 
-[^key-a12e895abd835975c408955931039cc4]: Commencement: Sch. in force at 8.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/398/regulation/1/1)
+[^c-a12e895abd835975c408955931039cc4]: Commencement: Sch. in force at 8.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/398/regulation/1/1)
 
-[^key-761e28e8b0a561b1f129d8be71253bf4]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2021/398/schedule) substituted (15.1.2022) by [The Private Storage Aid Scheme (Pigmeat) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/492)](https://www.legislation.gov.uk/ssi/2021/492), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/492/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2021/492/regulation/2/3)
+[^c-761e28e8b0a561b1f129d8be71253bf4]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2021/398/schedule) substituted (15.1.2022) by [The Private Storage Aid Scheme (Pigmeat) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/492)](https://www.legislation.gov.uk/ssi/2021/492), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/492/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2021/492/regulation/2/3)

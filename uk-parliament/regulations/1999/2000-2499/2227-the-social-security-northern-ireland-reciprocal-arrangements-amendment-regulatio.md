@@ -21,7 +21,7 @@ summary: ''
 
 > This law has been repealed or revoked.
 
-The Social Security (Northern Ireland Reciprocal Arrangements) Amendment Regulations 1999 (revoked)[^key-25ccbc4e68da2c7a71e27a1d22aafe53]
+The Social Security (Northern Ireland Reciprocal Arrangements) Amendment Regulations 1999 (revoked)[^c-25ccbc4e68da2c7a71e27a1d22aafe53]
 
 1999 No. 2227
 
@@ -39,15 +39,15 @@ Coming into force
 
 1st September 1999
 
-[^key-25ccbc4e68da2c7a71e27a1d22aafe53]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25ccbc4e68da2c7a71e27a1d22aafe53]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and interpretation[^key-25ccbc4e68da2c7a71e27a1d22aafe53]
+## 1. Citation, commencement and interpretation[^c-25ccbc4e68da2c7a71e27a1d22aafe53]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Adaptation of the Social Security Contributions and Benefits Act 1992, the Social Security Administration Act 1992, the Jobseekers Act 1995 and the Social Security Act 1998 and variation of the Principal Arrangements[^key-25ccbc4e68da2c7a71e27a1d22aafe53]
+## 2. Adaptation of the Social Security Contributions and Benefits Act 1992, the Social Security Administration Act 1992, the Jobseekers Act 1995 and the Social Security Act 1998 and variation of the Principal Arrangements[^c-25ccbc4e68da2c7a71e27a1d22aafe53]
 
 **No longer in force.**
 
@@ -55,38 +55,38 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-25ccbc4e68da2c7a71e27a1d22aafe53]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25ccbc4e68da2c7a71e27a1d22aafe53]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE — No. 1[^key-25ccbc4e68da2c7a71e27a1d22aafe53]
+## SCHEDULE — No. 1[^c-25ccbc4e68da2c7a71e27a1d22aafe53]
 
 **No longer in force.**
 
 Regulation 2(1)
 
-[^key-25ccbc4e68da2c7a71e27a1d22aafe53]
+[^c-25ccbc4e68da2c7a71e27a1d22aafe53]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-25ccbc4e68da2c7a71e27a1d22aafe53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-25ccbc4e68da2c7a71e27a1d22aafe53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-25ccbc4e68da2c7a71e27a1d22aafe53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-25ccbc4e68da2c7a71e27a1d22aafe53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-25ccbc4e68da2c7a71e27a1d22aafe53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-25ccbc4e68da2c7a71e27a1d22aafe53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-25ccbc4e68da2c7a71e27a1d22aafe53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-25ccbc4e68da2c7a71e27a1d22aafe53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-25ccbc4e68da2c7a71e27a1d22aafe53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-25ccbc4e68da2c7a71e27a1d22aafe53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## No. 2[^key-25ccbc4e68da2c7a71e27a1d22aafe53]
+## No. 2[^c-25ccbc4e68da2c7a71e27a1d22aafe53]
 
 **No longer in force.**
 
-[^key-25ccbc4e68da2c7a71e27a1d22aafe53]
+[^c-25ccbc4e68da2c7a71e27a1d22aafe53]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-25ccbc4e68da2c7a71e27a1d22aafe53]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25ccbc4e68da2c7a71e27a1d22aafe53]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-25ccbc4e68da2c7a71e27a1d22aafe53]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/1999/2227) revoked (E.W.S.) (6.4.2016) by [The Social Security (Northern Ireland Reciprocal Arrangements) Regulations 2016 (S.I. 2016/287)](https://www.legislation.gov.uk/uksi/2016/287), [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2016/287/regulation/3/1/b) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2016/287/regulation/3/2))
+[^c-25ccbc4e68da2c7a71e27a1d22aafe53]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/1999/2227) revoked (E.W.S.) (6.4.2016) by [The Social Security (Northern Ireland Reciprocal Arrangements) Regulations 2016 (S.I. 2016/287)](https://www.legislation.gov.uk/uksi/2016/287), [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2016/287/regulation/3/1/b) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2016/287/regulation/3/2))

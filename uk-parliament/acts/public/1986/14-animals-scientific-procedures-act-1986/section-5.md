@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Project licences: general[^c1016491][^key-f384459c14b6ded10dae88821049a40e]
+## 5. Project licences: general[^c1016491][^c-f384459c14b6ded10dae88821049a40e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) But subsection (2) does not apply in any case in which it appears to the Secretary of State, on the basis of a scientific justification, that the programme or procedures authorised by the project licence require a different place to be specified.
 
-(4)[^key-59593a25832d1343859aea005de4bea0] A project licence may specify a programme of work which consists of multiple generic projects if the projects—
+(4)[^c-59593a25832d1343859aea005de4bea0] A project licence may specify a programme of work which consists of multiple generic projects if the projects—
 
 - (a) are to be carried out to satisfy regulatory requirements, or
 - (b) use animals for production or diagnostic purposes, in accordance with established methods.
@@ -35,6 +35,6 @@ summary: ''
 
 [^c1016491]: Extent: In its application to Northern Ireland, this section has effect subject to the modifications set out in s. 29, see s. 29(1)
 
-[^key-f384459c14b6ded10dae88821049a40e]: Textual amendment: Ss. 5-5G substituted for s. 5 (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [9(1)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/9/1) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
+[^c-f384459c14b6ded10dae88821049a40e]: Textual amendment: Ss. 5-5G substituted for s. 5 (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [9(1)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/9/1) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
 
-[^key-59593a25832d1343859aea005de4bea0]: Textual amendment: S. 5(4) substituted (19.6.2026) by [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2026/663/regulation/3)
+[^c-59593a25832d1343859aea005de4bea0]: Textual amendment: S. 5(4) substituted (19.6.2026) by [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2026/663/regulation/3)

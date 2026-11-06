@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11A. Clients' contributions: specified criminal assistance by way of representation[^key-3d3c3c0c31773e407431000910813d28]
+## 11A. Clients' contributions: specified criminal assistance by way of representation[^c-3d3c3c0c31773e407431000910813d28]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d3c3c0c31773e407431000910813d28]: Textual amendment: S. 11A inserted (11.10.2013) by [Scottish Civil Justice Council and Criminal Legal Assistance Act 2013 (asp 3)](https://www.legislation.gov.uk/asp/2013/3), [ss. 19(3)](https://www.legislation.gov.uk/asp/2013/3/section/19/3), [25(2)](https://www.legislation.gov.uk/asp/2013/3/section/25/2); [S.S.I. 2013/262](https://www.legislation.gov.uk/ssi/2013/262), [art. 2](https://www.legislation.gov.uk/ssi/2013/262/article/2)
+[^c-3d3c3c0c31773e407431000910813d28]: Textual amendment: S. 11A inserted (11.10.2013) by [Scottish Civil Justice Council and Criminal Legal Assistance Act 2013 (asp 3)](https://www.legislation.gov.uk/asp/2013/3), [ss. 19(3)](https://www.legislation.gov.uk/asp/2013/3/section/19/3), [25(2)](https://www.legislation.gov.uk/asp/2013/3/section/25/2); [S.S.I. 2013/262](https://www.legislation.gov.uk/ssi/2013/262), [art. 2](https://www.legislation.gov.uk/ssi/2013/262/article/2)

@@ -30,7 +30,7 @@ summary: ''
 - (c) in proceedings for nullity \[[^f00112] of marriage\], where an order for the examination of the parties has been made on an application under rule 2.26, the notice required by paragraph 10 of that rule has been served and the report of the inspector or inspectors has been filed;
 - (d) any other directions of the court have been complied with.
 
-(2) The party making such request shall at the same time lodge in the Matrimonial Office a certificate in Form M8 that the cause is ready for trial and, in the case of a cause for hearing in \[[^f00113] the[^key-cfd9adedc0280bbe7f7d3b397703851d] county court\], the certificate shall state the place of trial requested.
+(2) The party making such request shall at the same time lodge in the Matrimonial Office a certificate in Form M8 that the cause is ready for trial and, in the case of a cause for hearing in \[[^f00113] the[^c-cfd9adedc0280bbe7f7d3b397703851d] county court\], the certificate shall state the place of trial requested.
 
 (3) \[[^f00114] Where a cause is defended, the party lodging the certificate of readiness\] shall at the same time deliver to the Matrimonial Office a bundle of pleadings for the judge consisting of an indexed copy of the following documents—
 
@@ -54,7 +54,7 @@ fastened together in the order shown and having endorsed thereon the names and a
 
 [^f00113]: Footnote: Words inserted by [S.R. 2005 No. 497](https://www.legislation.gov.uk/nisr/2005/497) with effect from 05.12.05
 
-[^key-cfd9adedc0280bbe7f7d3b397703851d]: Textual amendment: Word in [rule 2.28(2)](https://www.legislation.gov.uk/nisr/1996/322/article/2.28/2) substituted (31.10.2016) by [The Family Proceedings (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/301)](https://www.legislation.gov.uk/nisr/2016/301), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/301/rule/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2016/301/article/2/5); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-cfd9adedc0280bbe7f7d3b397703851d]: Textual amendment: Word in [rule 2.28(2)](https://www.legislation.gov.uk/nisr/1996/322/article/2.28/2) substituted (31.10.2016) by [The Family Proceedings (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/301)](https://www.legislation.gov.uk/nisr/2016/301), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/301/rule/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2016/301/article/2/5); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00114]: Footnote: Words substituted by [S.R. 2006 No. 304](https://www.legislation.gov.uk/nisr/2006/304) with effect from 01.08 06
 

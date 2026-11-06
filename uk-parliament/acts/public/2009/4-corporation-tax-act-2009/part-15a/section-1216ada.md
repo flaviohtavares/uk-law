@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1216ADA. Certain children's programmes not to be excluded programmes[^key-5a65cb0dd341316ed0dd311a52be6412][^key-d270a9585cd06681b6121dd8d870fc26]
+## 1216ADA. Certain children's programmes not to be excluded programmes[^c-5a65cb0dd341316ed0dd311a52be6412][^c-d270a9585cd06681b6121dd8d870fc26]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ and here “**relevant prize**” means a prize offered in connection with parti
 
 ## Annotations
 
-[^key-5a65cb0dd341316ed0dd311a52be6412]: Textual amendment: S. 1216ADA inserted (with effect in accordance with s. 30(7) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2015/11/section/30/6)
+[^c-5a65cb0dd341316ed0dd311a52be6412]: Textual amendment: S. 1216ADA inserted (with effect in accordance with s. 30(7) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2015/11/section/30/6)
 
-[^key-d270a9585cd06681b6121dd8d870fc26]: Textual amendment: Pt. 15A inserted (17.7.2013 for specified purposes, 19.7.2013 in so far as not already in force, and with effect in accordance with Sch. 16 para. 3 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 16 paras. 1](https://www.legislation.gov.uk/ukpga/2013/29/schedule/16/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/16/paragraph/2); [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/1)
+[^c-d270a9585cd06681b6121dd8d870fc26]: Textual amendment: Pt. 15A inserted (17.7.2013 for specified purposes, 19.7.2013 in so far as not already in force, and with effect in accordance with Sch. 16 para. 3 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 16 paras. 1](https://www.legislation.gov.uk/ukpga/2013/29/schedule/16/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/16/paragraph/2); [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/1)

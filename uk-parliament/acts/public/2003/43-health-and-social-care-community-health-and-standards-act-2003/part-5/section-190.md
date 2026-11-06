@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 190. Abolition of Public Health Laboratory Service Board[^key-7f2539fc1773fb4b8a6f886fb7bb1b8e]
+## 190. Abolition of Public Health Laboratory Service Board[^c-7f2539fc1773fb4b8a6f886fb7bb1b8e]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f2539fc1773fb4b8a6f886fb7bb1b8e]: Commencement: [S. 190](https://www.legislation.gov.uk/ukpga/2003/43/section/190) in force at 1.4.2005 by [S.I. 2005/457](https://www.legislation.gov.uk/uksi/2005/457), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/457/article/2/a)
+[^c-7f2539fc1773fb4b8a6f886fb7bb1b8e]: Commencement: [S. 190](https://www.legislation.gov.uk/ukpga/2003/43/section/190) in force at 1.4.2005 by [S.I. 2005/457](https://www.legislation.gov.uk/uksi/2005/457), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/457/article/2/a)

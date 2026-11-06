@@ -31,7 +31,7 @@ summary: ''
 
 PUBLIC HEALTH, WALES
 
-The Private Dentistry (Wales) (Amendment) Regulations 2011 (revoked)[^key-3ffcbf80ca9c093aef793e2e421c9824]
+The Private Dentistry (Wales) (Amendment) Regulations 2011 (revoked)[^c-3ffcbf80ca9c093aef793e2e421c9824]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 1 January 2012
 
-[^key-3ffcbf80ca9c093aef793e2e421c9824]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3ffcbf80ca9c093aef793e2e421c9824]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, application and interpretation[^key-3ffcbf80ca9c093aef793e2e421c9824]
+## 1. Title, commencement, application and interpretation[^c-3ffcbf80ca9c093aef793e2e421c9824]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the 2008 Regulations[^key-3ffcbf80ca9c093aef793e2e421c9824]
+## 2. Amendment of the 2008 Regulations[^c-3ffcbf80ca9c093aef793e2e421c9824]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4A. “Modification of section 31 of the Act (Inspections by persons authorised by registration authority)[^key-3ffcbf80ca9c093aef793e2e421c9824]
+## 4A. “Modification of section 31 of the Act (Inspections by persons authorised by registration authority)[^c-3ffcbf80ca9c093aef793e2e421c9824]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3ffcbf80ca9c093aef793e2e421c9824]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3ffcbf80ca9c093aef793e2e421c9824]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3ffcbf80ca9c093aef793e2e421c9824]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3ffcbf80ca9c093aef793e2e421c9824]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3ffcbf80ca9c093aef793e2e421c9824]: Textual amendment: Regulations revoked (1.4.2017) by [The Private Dentistry (Wales) Regulations 2017 (S.I. 2017/202)](https://www.legislation.gov.uk/uksi/2017/202), [regs. 1](https://www.legislation.gov.uk/uksi/2017/202/regulation/1), [41(b)](https://www.legislation.gov.uk/uksi/2017/202/regulation/41/b)
+[^c-3ffcbf80ca9c093aef793e2e421c9824]: Textual amendment: Regulations revoked (1.4.2017) by [The Private Dentistry (Wales) Regulations 2017 (S.I. 2017/202)](https://www.legislation.gov.uk/uksi/2017/202), [regs. 1](https://www.legislation.gov.uk/uksi/2017/202/regulation/1), [41(b)](https://www.legislation.gov.uk/uksi/2017/202/regulation/41/b)

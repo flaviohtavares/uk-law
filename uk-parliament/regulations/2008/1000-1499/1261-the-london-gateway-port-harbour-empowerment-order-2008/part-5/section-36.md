@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Power to enter vessels[^key-0e764cac79ef14d574ed60cc4a1d15c4]
+## 36. Power to enter vessels[^c-0e764cac79ef14d574ed60cc4a1d15c4]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e764cac79ef14d574ed60cc4a1d15c4]: Commencement: Art. 36 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-0e764cac79ef14d574ed60cc4a1d15c4]: Commencement: Art. 36 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

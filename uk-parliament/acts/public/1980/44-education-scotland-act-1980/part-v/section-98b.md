@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 98B. Refusal of application for registration: disqualifications[^key-c1cca0b67af87adace44875ec628a09e]
+## 98B. Refusal of application for registration: disqualifications[^c-c1cca0b67af87adace44875ec628a09e]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ as they may specify.
 
 ## Annotations
 
-[^key-c1cca0b67af87adace44875ec628a09e]: Textual amendment: Ss. 98A-98D substituted (31.12.2005) for s. 98A by [School Education (Ministerial Powers and Independent Schools) (Scotland) Act 2004 (asp 12)](https://www.legislation.gov.uk/asp/2004/12), [ss. 4(2)](https://www.legislation.gov.uk/asp/2004/12/section/4/2), [9(2)](https://www.legislation.gov.uk/asp/2004/12/section/9/2); [S.S.I. 2005/570](https://www.legislation.gov.uk/ssi/2005/570), [art. 2(a)](https://www.legislation.gov.uk/ssi/2005/570/article/2/a) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2005/570/article/3/1)[(2)](https://www.legislation.gov.uk/ssi/2005/570/article/3/2))
+[^c-c1cca0b67af87adace44875ec628a09e]: Textual amendment: Ss. 98A-98D substituted (31.12.2005) for s. 98A by [School Education (Ministerial Powers and Independent Schools) (Scotland) Act 2004 (asp 12)](https://www.legislation.gov.uk/asp/2004/12), [ss. 4(2)](https://www.legislation.gov.uk/asp/2004/12/section/4/2), [9(2)](https://www.legislation.gov.uk/asp/2004/12/section/9/2); [S.S.I. 2005/570](https://www.legislation.gov.uk/ssi/2005/570), [art. 2(a)](https://www.legislation.gov.uk/ssi/2005/570/article/2/a) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2005/570/article/3/1)[(2)](https://www.legislation.gov.uk/ssi/2005/570/article/3/2))

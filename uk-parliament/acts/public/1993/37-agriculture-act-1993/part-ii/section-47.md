@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Service of documents.[^key-8e520fdb2838150050dc54afe658a417]
+## 47. Service of documents.[^c-8e520fdb2838150050dc54afe658a417]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e520fdb2838150050dc54afe658a417]: Textual amendment: [S. 47](https://www.legislation.gov.uk/ukpga/1993/37/section/47) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-8e520fdb2838150050dc54afe658a417]: Textual amendment: [S. 47](https://www.legislation.gov.uk/ukpga/1993/37/section/47) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1

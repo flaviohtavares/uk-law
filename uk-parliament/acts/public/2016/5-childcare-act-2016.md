@@ -42,9 +42,9 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### 1. Duty to secure 30 hours free childcare available for working parents[^c22563041]
 
-(1)[^key-ff8766cfa0a01bd081bcc96b54e245df] The Secretary of State must secure that childcare is available free of charge for qualifying children of working parents for, or for a period equivalent to, 30 hours in each of 38 weeks in any year.
+(1)[^c-ff8766cfa0a01bd081bcc96b54e245df] The Secretary of State must secure that childcare is available free of charge for qualifying children of working parents for, or for a period equivalent to, 30 hours in each of 38 weeks in any year.
 
-(2)[^key-135f37eac71488378fa9d61ded7d097b] “**Qualifying child of working parents**” means a young child—
+(2)[^c-135f37eac71488378fa9d61ded7d097b] “**Qualifying child of working parents**” means a young child—
 
 - (a) who is under compulsory school age,
 - (b) who is in England,
@@ -52,9 +52,9 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - (d) in respect of whom any conditions relating to a parent of the child, or a partner of a parent of the child, which are specified in such regulations, are met, and
 - (e) in respect of whom a declaration has been made, in accordance with such regulations, to the effect that the requirements of paragraphs (a) to (d) are satisfied.
 
-(3)[^key-135f37eac71488378fa9d61ded7d097b] The conditions mentioned in subsection (2)(d) may, in particular, relate to the paid work undertaken by a parent or partner.
+(3)[^c-135f37eac71488378fa9d61ded7d097b] The conditions mentioned in subsection (2)(d) may, in particular, relate to the paid work undertaken by a parent or partner.
 
-(4)[^key-135f37eac71488378fa9d61ded7d097b] For the purposes of subsections (2) and (3), the Secretary of State may by regulations—
+(4)[^c-135f37eac71488378fa9d61ded7d097b] For the purposes of subsections (2) and (3), the Secretary of State may by regulations—
 
 - (a) make provision about when a person is, or is not, to be regarded as another person's partner;
 - (b) make provision as to what is, or is not, paid work;
@@ -66,16 +66,16 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (5) For the purposes of assisting the Secretary of State in the discharge of the duty imposed by subsection (1), the Commissioners for Her Majesty's Revenue and Customs may carry out functions in connection with the making of determinations as to whether a child is a qualifying child of working parents.
 
-(6)[^key-ff8766cfa0a01bd081bcc96b54e245df] In determining, for the purposes of subsection (1), the amount of childcare that is available—
+(6)[^c-ff8766cfa0a01bd081bcc96b54e245df] In determining, for the purposes of subsection (1), the amount of childcare that is available—
 
 - (a) account is to be taken of any childcare available under the duty imposed by section 7(1) of the Childcare Act 2006 (duty of English local authorities to secure early years provision free of charge in accordance with regulations), but
 - (b) no account is to be taken of childcare available otherwise than by virtue of that duty or the duty imposed by subsection (1).
 
-(7)[^key-135f37eac71488378fa9d61ded7d097b] The Secretary of State must set out in regulations when a year begins for the purposes of determining in relation to a child whether the duty in subsection (1) has been discharged.
+(7)[^c-135f37eac71488378fa9d61ded7d097b] The Secretary of State must set out in regulations when a year begins for the purposes of determining in relation to a child whether the duty in subsection (1) has been discharged.
 
-(8)[^key-135f37eac71488378fa9d61ded7d097b] The Secretary of State may by regulations make provision about the circumstances in which a child is, or is not, in England for the purposes of this section.
+(8)[^c-135f37eac71488378fa9d61ded7d097b] The Secretary of State may by regulations make provision about the circumstances in which a child is, or is not, in England for the purposes of this section.
 
-(9)[^key-135f37eac71488378fa9d61ded7d097b] In this section—
+(9)[^c-135f37eac71488378fa9d61ded7d097b] In this section—
 
 - “**childcare**” has the meaning given by section 18 of the Childcare Act 2006;
 - “**parent**”, in relation to a child, includes any individual who—
@@ -86,7 +86,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
   - (a) beginning with the child's birth, and
   - (b) ending immediately before the 1 September next following the date on which the child attains the age of 5.
 
-### 2. Discharging the section 1(1) duty[^key-4e05d5e1000c6452fe4f87a50202ca2d]
+### 2. Discharging the section 1(1) duty[^c-4e05d5e1000c6452fe4f87a50202ca2d]
 
 (1) The Secretary of State may make regulations for the purpose of discharging the duty imposed by section 1(1) (“**extended entitlement regulations**”).
 
@@ -134,7 +134,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - “**parent**” has the same meaning as in section 1;
 - “**qualifying child of working parents**” has the meaning given by section 1(2).
 
-### 3. Sections 1 and 2: consequential amendments[^key-87f1b7b16c4c6ed45da7bb4172b1b248]
+### 3. Sections 1 and 2: consequential amendments[^c-87f1b7b16c4c6ed45da7bb4172b1b248]
 
 (1) In section 99 of the Childcare Act 2006 (provision of information about young children: England), in subsection (1), omit the “and” at the end of paragraph (aa) and after paragraph (b) insert
 
@@ -159,7 +159,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
   .
 
-### 4. Supplementary provision about regulations under sections 1 and 2[^key-8c7eb1c3c3d38734c6a2a2f6c38a7d2e]
+### 4. Supplementary provision about regulations under sections 1 and 2[^c-8c7eb1c3c3d38734c6a2a2f6c38a7d2e]
 
 (1) In this section “**regulations**” means regulations under section 1 or 2.
 
@@ -185,7 +185,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Publication of information
 
-### 5. Duty to publish information about childcare and related matters[^key-1c4274c295640036d92caf9eba273e56]
+### 5. Duty to publish information about childcare and related matters[^c-1c4274c295640036d92caf9eba273e56]
 
 In section 12 of the Childcare Act 2006 (duty to provide information, advice and assistance), after subsection (6) insert—
 
@@ -233,14 +233,14 @@ This Act may be cited as the Childcare Act 2016.
 
 [^c22563041]: Commencement: S. 1(5) in force at Royal Assent, see [s. 7(1)(a)](https://www.legislation.gov.uk/ukpga/2016/5/section/7/1/a)
 
-[^key-ff8766cfa0a01bd081bcc96b54e245df]: Commencement: S. 1(1)(6) in force at 1.9.2017 by [S.I. 2017/785](https://www.legislation.gov.uk/uksi/2017/785), [reg. 2](https://www.legislation.gov.uk/uksi/2017/785/regulation/2)
+[^c-ff8766cfa0a01bd081bcc96b54e245df]: Commencement: S. 1(1)(6) in force at 1.9.2017 by [S.I. 2017/785](https://www.legislation.gov.uk/uksi/2017/785), [reg. 2](https://www.legislation.gov.uk/uksi/2017/785/regulation/2)
 
-[^key-135f37eac71488378fa9d61ded7d097b]: Commencement: S. 1(2)-(4)(7)-(9) in force at 3.11.2016 by [S.I. 2016/1055](https://www.legislation.gov.uk/uksi/2016/1055), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/1055/regulation/2/a)
+[^c-135f37eac71488378fa9d61ded7d097b]: Commencement: S. 1(2)-(4)(7)-(9) in force at 3.11.2016 by [S.I. 2016/1055](https://www.legislation.gov.uk/uksi/2016/1055), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/1055/regulation/2/a)
 
-[^key-4e05d5e1000c6452fe4f87a50202ca2d]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2016/5/section/2) in force at 3.11.2016 by [S.I. 2016/1055](https://www.legislation.gov.uk/uksi/2016/1055), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/1055/regulation/2/b)
+[^c-4e05d5e1000c6452fe4f87a50202ca2d]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2016/5/section/2) in force at 3.11.2016 by [S.I. 2016/1055](https://www.legislation.gov.uk/uksi/2016/1055), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/1055/regulation/2/b)
 
-[^key-87f1b7b16c4c6ed45da7bb4172b1b248]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2016/5/section/3) in force at 3.11.2016 by [S.I. 2016/1055](https://www.legislation.gov.uk/uksi/2016/1055), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1055/regulation/2/c)
+[^c-87f1b7b16c4c6ed45da7bb4172b1b248]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2016/5/section/3) in force at 3.11.2016 by [S.I. 2016/1055](https://www.legislation.gov.uk/uksi/2016/1055), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1055/regulation/2/c)
 
-[^key-8c7eb1c3c3d38734c6a2a2f6c38a7d2e]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2016/5/section/4) in force at 3.11.2016 by [S.I. 2016/1055](https://www.legislation.gov.uk/uksi/2016/1055), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/1055/regulation/2/d)
+[^c-8c7eb1c3c3d38734c6a2a2f6c38a7d2e]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2016/5/section/4) in force at 3.11.2016 by [S.I. 2016/1055](https://www.legislation.gov.uk/uksi/2016/1055), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/1055/regulation/2/d)
 
-[^key-1c4274c295640036d92caf9eba273e56]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2016/5/section/5) in force at 3.11.2016 by [S.I. 2016/1055](https://www.legislation.gov.uk/uksi/2016/1055), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/1055/regulation/2/e)
+[^c-1c4274c295640036d92caf9eba273e56]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2016/5/section/5) in force at 3.11.2016 by [S.I. 2016/1055](https://www.legislation.gov.uk/uksi/2016/1055), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/1055/regulation/2/e)

@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 31, 72 and 79
 
-### PART I — PORTS OF CHOICE FOR SHIPS TO BE REGISTERED ON PART I OF THE REGISTER[^key-5517cad95b80dec4860e2510fca71050]
+### PART I — PORTS OF CHOICE FOR SHIPS TO BE REGISTERED ON PART I OF THE REGISTER[^c-5517cad95b80dec4860e2510fca71050]
 
 - ABERDEEN
 - ABERYSTWYTH
@@ -61,7 +61,7 @@ Regulations 31, 72 and 79
 - FALMOUTH
 - FAVERSHAM
 - FELIXSTOWE
-- FISHGUARD[^key-9fb94afc8931939a0670511488429ded]
+- FISHGUARD[^c-9fb94afc8931939a0670511488429ded]
 - FLEETWOOD
 - FOLKESTONE
 - FOWEY
@@ -110,7 +110,7 @@ Regulations 31, 72 and 79
 - PETERHEAD
 - PLYMOUTH
 - POOLE
-- PORTLAND[^key-893f19488c87576333ab57d0e1140a9c]
+- PORTLAND[^c-893f19488c87576333ab57d0e1140a9c]
 - PORT TALBOT
 - PORTSMOUTH
 - PRESTON
@@ -141,7 +141,7 @@ Regulations 31, 72 and 79
 - WISBECH
 - WORKINGTON
 
-### PART 2 — PORTS FOR SHIPS TO BE REGISTERED ON PART II OF THE REGISTER (FISHING VESSELS)[^key-309e959c03747fb13f3fdb622b387325]
+### PART 2 — PORTS FOR SHIPS TO BE REGISTERED ON PART II OF THE REGISTER (FISHING VESSELS)[^c-309e959c03747fb13f3fdb622b387325]
 
 <table>
 <thead>
@@ -272,18 +272,18 @@ Regulations 31, 72 and 79
 </tbody>
 </table>
 
-[^key-d25dcc1ee763c3771589faafd86df86d][^key-e8bdedee3e89496f3a08f6e308d37435]
+[^c-d25dcc1ee763c3771589faafd86df86d][^c-e8bdedee3e89496f3a08f6e308d37435]
 
 ## Annotations
 
-[^key-5517cad95b80dec4860e2510fca71050]: Commencement: [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/1993/3138/schedule/2/part/I) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-5517cad95b80dec4860e2510fca71050]: Commencement: [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/1993/3138/schedule/2/part/I) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
 
-[^key-9fb94afc8931939a0670511488429ded]: Textual amendment: Word in [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/1993/3138/schedule/2/part/I) inserted (1.1.1999) by [The Merchant Shipping (Registration of Ships) (Amendment) Regulations 1998 (S.I. 1998/2976)](https://www.legislation.gov.uk/uksi/1998/2976), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2976/regulation/1), [28(a)](https://www.legislation.gov.uk/uksi/1998/2976/regulation/28/a)
+[^c-9fb94afc8931939a0670511488429ded]: Textual amendment: Word in [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/1993/3138/schedule/2/part/I) inserted (1.1.1999) by [The Merchant Shipping (Registration of Ships) (Amendment) Regulations 1998 (S.I. 1998/2976)](https://www.legislation.gov.uk/uksi/1998/2976), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2976/regulation/1), [28(a)](https://www.legislation.gov.uk/uksi/1998/2976/regulation/28/a)
 
-[^key-893f19488c87576333ab57d0e1140a9c]: Textual amendment: Word in [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/1993/3138/schedule/2/part/I) inserted (1.1.1999) by [The Merchant Shipping (Registration of Ships) (Amendment) Regulations 1998 (S.I. 1998/2976)](https://www.legislation.gov.uk/uksi/1998/2976), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2976/regulation/1), [28(b)](https://www.legislation.gov.uk/uksi/1998/2976/regulation/28/b)
+[^c-893f19488c87576333ab57d0e1140a9c]: Textual amendment: Word in [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/1993/3138/schedule/2/part/I) inserted (1.1.1999) by [The Merchant Shipping (Registration of Ships) (Amendment) Regulations 1998 (S.I. 1998/2976)](https://www.legislation.gov.uk/uksi/1998/2976), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2976/regulation/1), [28(b)](https://www.legislation.gov.uk/uksi/1998/2976/regulation/28/b)
 
-[^key-309e959c03747fb13f3fdb622b387325]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/1993/3138/schedule/2/part/2) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-309e959c03747fb13f3fdb622b387325]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/1993/3138/schedule/2/part/2) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
 
-[^key-d25dcc1ee763c3771589faafd86df86d]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/1993/3138/schedule/2/part/2) substituted (10.1.2000) by [The Merchant Shipping (Registration of Ships, and Tonnage) (Amendment) Regulations 1999 (S.I. 1999/3206)](https://www.legislation.gov.uk/uksi/1999/3206), [regs. 1](https://www.legislation.gov.uk/uksi/1999/3206/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/1999/3206/regulation/21/a)
+[^c-d25dcc1ee763c3771589faafd86df86d]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/1993/3138/schedule/2/part/2) substituted (10.1.2000) by [The Merchant Shipping (Registration of Ships, and Tonnage) (Amendment) Regulations 1999 (S.I. 1999/3206)](https://www.legislation.gov.uk/uksi/1999/3206), [regs. 1](https://www.legislation.gov.uk/uksi/1999/3206/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/1999/3206/regulation/21/a)
 
-[^key-e8bdedee3e89496f3a08f6e308d37435]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/1993/3138/schedule/2/part/2) inserted (10.1.2000) by [The Merchant Shipping (Registration of Ships, and Tonnage) (Amendment) Regulations 1999 (S.I. 1999/3206)](https://www.legislation.gov.uk/uksi/1999/3206), [regs. 1](https://www.legislation.gov.uk/uksi/1999/3206/regulation/1), [21(b)](https://www.legislation.gov.uk/uksi/1999/3206/regulation/21/b)
+[^c-e8bdedee3e89496f3a08f6e308d37435]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/1993/3138/schedule/2/part/2) inserted (10.1.2000) by [The Merchant Shipping (Registration of Ships, and Tonnage) (Amendment) Regulations 1999 (S.I. 1999/3206)](https://www.legislation.gov.uk/uksi/1999/3206), [regs. 1](https://www.legislation.gov.uk/uksi/1999/3206/regulation/1), [21(b)](https://www.legislation.gov.uk/uksi/1999/3206/regulation/21/b)

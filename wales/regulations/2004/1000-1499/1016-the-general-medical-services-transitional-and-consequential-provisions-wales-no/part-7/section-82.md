@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82. Transitional provision in cases where preferential treatment on transferring to medical lists was given[^key-00bde3b5ec617674072f0be804fbc99b]
+## 82. Transitional provision in cases where preferential treatment on transferring to medical lists was given[^c-00bde3b5ec617674072f0be804fbc99b]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ that medical practitioner shall be treated as though his or her name had been in
 
 ## Annotations
 
-[^key-00bde3b5ec617674072f0be804fbc99b]: Commencement: Art. 82 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-00bde3b5ec617674072f0be804fbc99b]: Commencement: Art. 82 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
 
 [^f00052]: Footnote: [1997 (c. 46)](https://www.legislation.gov.uk/ukpga/1997/46); Schedule 1 was amended by the Health and Social Care Act [2001 (c. 15)](https://www.legislation.gov.uk/ukpga/2001/15) (“the 2001 Act”).

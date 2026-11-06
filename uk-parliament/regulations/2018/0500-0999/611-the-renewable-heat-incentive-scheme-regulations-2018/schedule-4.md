@@ -40,7 +40,7 @@ Regulation 47
     - (ii) have the capacity to grow to a height of more than five metres;
 - “**designated for nature protection purposes**” means designated pursuant to the law of the United Kingdom or of any part of the United Kingdom or pursuant to the law of any country or territory outside the United Kingdom, for the purpose of protecting the natural environment;
 - “**highly biodiverse grassland**” is to be construed in accordance with Article 17(3)(c) of Directive [2009/28/EC](https://www.legislation.gov.uk/eudr/2009/28) of the European Parliament and of the Council on the promotion of the use of energy from renewable sources and amending and subsequently repealing Directives [2001/77/EC](https://www.legislation.gov.uk/eudr/2001/77) and [2003/30/EC](https://www.legislation.gov.uk/eudr/2003/30) [^c22956131];
-- [^key-53254ef52869eb6cc4b126fe14613ea5]...
+- [^c-53254ef52869eb6cc4b126fe14613ea5]...
 - “**primary forest**” means woodland of native species, where there is no clearly visible indication of human activity and ecological processes are not significantly disturbed; and
 - “**wetland area**” means land that is covered with or saturated by water—
   - (a) permanently; or
@@ -149,7 +149,7 @@ Regulation 47
 
 [^c22956131]: Marginal citation: OJ L 140 5.6.2009, p16; article 17 was amended by article 2(5) of Directive (EU) 2015/1513 of the European Parliament and of the Council amending Directive 98/70/EC relating to the quality of petrol and diesel fuels and amending Directive 2009/28/EC on the promotion of the use of energy from renewable sources (OJ L 239 15.9.2015, p1).
 
-[^key-53254ef52869eb6cc4b126fe14613ea5]: Textual amendment: Words in Sch. 4 para. 2 omitted (1.10.2018) by virtue of [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/635)](https://www.legislation.gov.uk/uksi/2018/635), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/635/regulation/1/4), [23](https://www.legislation.gov.uk/uksi/2018/635/regulation/23)
+[^c-53254ef52869eb6cc4b126fe14613ea5]: Textual amendment: Words in Sch. 4 para. 2 omitted (1.10.2018) by virtue of [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/635)](https://www.legislation.gov.uk/uksi/2018/635), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/635/regulation/1/4), [23](https://www.legislation.gov.uk/uksi/2018/635/regulation/23)
 
 [^c22956141]: Marginal citation: OJ L 309 24.11.2009, p71.
 

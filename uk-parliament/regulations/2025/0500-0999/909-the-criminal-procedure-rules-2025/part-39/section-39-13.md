@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39.13. Directions about re-admission to hospital on dismissal of appeal[^key-6817d45a3eafbb39802e125addb9d412]
+## 39.13. Directions about re-admission to hospital on dismissal of appeal[^c-6817d45a3eafbb39802e125addb9d412]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6817d45a3eafbb39802e125addb9d412]: Commencement: [Rule 39.13](https://www.legislation.gov.uk/uksi/2025/909/rule/39.13) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-6817d45a3eafbb39802e125addb9d412]: Commencement: [Rule 39.13](https://www.legislation.gov.uk/uksi/2025/909/rule/39.13) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00975]: Footnote: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20); section 37(1) was amended by section 55 of, and paragraph 12 of Schedule 4 to, the Crime (Sentences) Act [1997 (c. 43)](https://www.legislation.gov.uk/ukpga/1997/43) and section 304 of, and paragraphs 37 and 38 of Schedule 32 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).
 

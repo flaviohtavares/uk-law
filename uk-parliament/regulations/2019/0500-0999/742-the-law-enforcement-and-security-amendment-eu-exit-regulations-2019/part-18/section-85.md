@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. European investigation order made in the United Kingdom relating to the temporary transfer of a prisoner or EU prisoner[^key-e50e44d5604a60cc7912d3fb83308c41]
+## 85. European investigation order made in the United Kingdom relating to the temporary transfer of a prisoner or EU prisoner[^c-e50e44d5604a60cc7912d3fb83308c41]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e50e44d5604a60cc7912d3fb83308c41]: Commencement: Reg. 85 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-e50e44d5604a60cc7912d3fb83308c41]: Commencement: Reg. 85 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

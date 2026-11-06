@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Prohibition on certain disposals[^key-56031fcf85429bdea1172cc51eee3fdd]
+## 27. Prohibition on certain disposals[^c-56031fcf85429bdea1172cc51eee3fdd]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56031fcf85429bdea1172cc51eee3fdd]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2016/22/section/27) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)
+[^c-56031fcf85429bdea1172cc51eee3fdd]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2016/22/section/27) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)

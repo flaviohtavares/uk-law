@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Child protection disclosures[^key-13b8742872bea4c3edc1345f2d64169e]
+## 48. Child protection disclosures[^c-13b8742872bea4c3edc1345f2d64169e]
 
 *Extent: N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13b8742872bea4c3edc1345f2d64169e]: Commencement: [S. 48](https://www.legislation.gov.uk/nia/2015/9/section/48) in operation at 14.3.2016 by [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/136/article/2/a)
+[^c-13b8742872bea4c3edc1345f2d64169e]: Commencement: [S. 48](https://www.legislation.gov.uk/nia/2015/9/section/48) in operation at 14.3.2016 by [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/136/article/2/a)

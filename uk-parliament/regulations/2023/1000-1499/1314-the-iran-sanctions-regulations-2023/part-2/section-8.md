@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Designation criteria: meaning of “involved person”[^key-611614bdebfcccb0e86249ba656fd04f]
+## 8. Designation criteria: meaning of “involved person”[^c-611614bdebfcccb0e86249ba656fd04f]
 
 *Extent: E+W+S+N.I.*
 
@@ -145,6 +145,6 @@ summary: ''
 
 ## Annotations
 
-[^key-611614bdebfcccb0e86249ba656fd04f]: Commencement: Reg. 8 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-611614bdebfcccb0e86249ba656fd04f]: Commencement: Reg. 8 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 2008/3231](https://www.legislation.gov.uk/uksi/2008/3231). Schedule 1 was substituted by [S.I. 2010/2007](https://www.legislation.gov.uk/uksi/2010/2007) and subsequently amended by [S.I. 2014/702](https://www.legislation.gov.uk/uksi/2014/702); [S.I. 2015/940](https://www.legislation.gov.uk/uksi/2015/940); and [S.I. 2018/939](https://www.legislation.gov.uk/uksi/2018/939). Schedule 2 was substituted by [S.I. 2017/85](https://www.legislation.gov.uk/uksi/2017/85) and subsequently amended by [S.I. 2017/697](https://www.legislation.gov.uk/uksi/2017/697); [S.I. 2018/165](https://www.legislation.gov.uk/uksi/2018/165); [S.I. 2018/939](https://www.legislation.gov.uk/uksi/2018/939), [S.I. 2019/137](https://www.legislation.gov.uk/uksi/2019/137); [S.I. 2019/989](https://www.legislation.gov.uk/uksi/2019/989); [S.I. 2021/586](https://www.legislation.gov.uk/uksi/2021/586); [S.I. 2022/1042](https://www.legislation.gov.uk/uksi/2022/1042); and [S.I. 2023/302](https://www.legislation.gov.uk/uksi/2023/302). Schedule 3 was substituted by [S.I. 2010/2007](https://www.legislation.gov.uk/uksi/2010/2007) and subsequently amended by [S.I. 2015/940](https://www.legislation.gov.uk/uksi/2015/940); [S.I. 2017/85](https://www.legislation.gov.uk/uksi/2017/85); [S.I. 2018/939](https://www.legislation.gov.uk/uksi/2018/939); [S.I. 2019/137](https://www.legislation.gov.uk/uksi/2019/137); [S.I. 2019/1159](https://www.legislation.gov.uk/uksi/2019/1159); [S.I. 2021/586](https://www.legislation.gov.uk/uksi/2021/586); and [S.I. 2023/302](https://www.legislation.gov.uk/uksi/2023/302). There are other instruments which amend other parts of the Order, which are not relevant to these Regulations.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 135. Persons transferred under an order under section 34 of the Local Government (Scotland) Act 1975 or in consequence of section 1 of the Education (Mentally Handicapped Children) (Scotland) Act 1974[^key-ef16dd6fb88cfe36b5c0cb8889e64ff5]
+## 135. Persons transferred under an order under section 34 of the Local Government (Scotland) Act 1975 or in consequence of section 1 of the Education (Mentally Handicapped Children) (Scotland) Act 1974[^c-ef16dd6fb88cfe36b5c0cb8889e64ff5]
 
 *Extent: E+W+S*
 
@@ -63,7 +63,7 @@ then, that person shall not be subject to any provisions of these Regulations ex
 
 ## Annotations
 
-[^key-ef16dd6fb88cfe36b5c0cb8889e64ff5]: Commencement: Reg. 135 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-ef16dd6fb88cfe36b5c0cb8889e64ff5]: Commencement: Reg. 135 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00061]: Footnote: [1975 c. 30](https://www.legislation.gov.uk/ukpga/1975/30).
 

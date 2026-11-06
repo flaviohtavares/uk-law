@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Duty to provide information, advice and assistance[^key-c71bb2380aa03743282945b0893d77f0][^key-04dba016ce98dfb3b1364253b867d724][^key-490936c436c1f813130b6b09084c5fcb]
+## 12. Duty to provide information, advice and assistance[^c-c71bb2380aa03743282945b0893d77f0][^c-04dba016ce98dfb3b1364253b867d724][^c-490936c436c1f813130b6b09084c5fcb]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ summary: ''
 
 (6) The service must be established and maintained in the manner which is best calculated to facilitate access to the service by persons in the local authority's area who may benefit from it, including, in particular, persons who might otherwise have difficulty in taking advantage of the service.
 
-(6A)[^key-692fb55d934912e65cfda98a1bc5ff81] Regulations may require each English local authority to publish information which is of a prescribed description and relates to any of the matters mentioned in paragraphs (a) to (c) of subsection (2).
+(6A)[^c-692fb55d934912e65cfda98a1bc5ff81] Regulations may require each English local authority to publish information which is of a prescribed description and relates to any of the matters mentioned in paragraphs (a) to (c) of subsection (2).
 
 (6B) Regulations under subsection (6A) may require information to be published—
 
@@ -50,7 +50,7 @@ summary: ''
 
 (7) In exercising their functions under this section, a local authority must have regard to any guidance given from time to time by the Secretary of State.
 
-(8) For the purposes of this section, a child or young person is disabled if he has a disability for the purposes of the Equality Act 2010[^key-1ec04524c77d82169f372d21f96518c2].
+(8) For the purposes of this section, a child or young person is disabled if he has a disability for the purposes of the Equality Act 2010[^c-1ec04524c77d82169f372d21f96518c2].
 
 (9) In this section—
 
@@ -62,12 +62,12 @@ summary: ''
 
 ## Annotations
 
-[^key-c71bb2380aa03743282945b0893d77f0]: Commencement: S. 12 in force at 20.12.2006 for specified purposes by [S.I. 2006/3360](https://www.legislation.gov.uk/uksi/2006/3360), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/3360/article/2/a)
+[^c-c71bb2380aa03743282945b0893d77f0]: Commencement: S. 12 in force at 20.12.2006 for specified purposes by [S.I. 2006/3360](https://www.legislation.gov.uk/uksi/2006/3360), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/3360/article/2/a)
 
-[^key-04dba016ce98dfb3b1364253b867d724]: Commencement: S. 12 in force at 1.5.2007 for specified purposes by [S.I. 2007/1019](https://www.legislation.gov.uk/uksi/2007/1019), [art. 5](https://www.legislation.gov.uk/uksi/2007/1019/article/5)
+[^c-04dba016ce98dfb3b1364253b867d724]: Commencement: S. 12 in force at 1.5.2007 for specified purposes by [S.I. 2007/1019](https://www.legislation.gov.uk/uksi/2007/1019), [art. 5](https://www.legislation.gov.uk/uksi/2007/1019/article/5)
 
-[^key-490936c436c1f813130b6b09084c5fcb]: Commencement: S. 12 in force at 1.4.2008 in so far as not already in force by [S.I. 2008/785](https://www.legislation.gov.uk/uksi/2008/785), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/785/article/2/a)
+[^c-490936c436c1f813130b6b09084c5fcb]: Commencement: S. 12 in force at 1.4.2008 in so far as not already in force by [S.I. 2008/785](https://www.legislation.gov.uk/uksi/2008/785), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/785/article/2/a)
 
-[^key-692fb55d934912e65cfda98a1bc5ff81]: Textual amendment: [S. 12(6A)-(6C)](https://www.legislation.gov.uk/ukpga/2006/21/section/12/6A) inserted (3.11.2016) by [Childcare Act 2016 (c. 5)](https://www.legislation.gov.uk/ukpga/2016/5), [ss. 5](https://www.legislation.gov.uk/ukpga/2016/5/section/5), [7(2)](https://www.legislation.gov.uk/ukpga/2016/5/section/7/2); [S.I. 2016/1055](https://www.legislation.gov.uk/uksi/2016/1055), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/1055/regulation/2/e)
+[^c-692fb55d934912e65cfda98a1bc5ff81]: Textual amendment: [S. 12(6A)-(6C)](https://www.legislation.gov.uk/ukpga/2006/21/section/12/6A) inserted (3.11.2016) by [Childcare Act 2016 (c. 5)](https://www.legislation.gov.uk/ukpga/2016/5), [ss. 5](https://www.legislation.gov.uk/ukpga/2016/5/section/5), [7(2)](https://www.legislation.gov.uk/ukpga/2016/5/section/7/2); [S.I. 2016/1055](https://www.legislation.gov.uk/uksi/2016/1055), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/1055/regulation/2/e)
 
-[^key-1ec04524c77d82169f372d21f96518c2]: Textual amendment: Words in s. 12(8) substituted by [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15), [Sch. 26 Pt. 1 para. 89](https://www.legislation.gov.uk/ukpga/2010/15/schedule/26/part/1/paragraph/89) (as inserted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/6) (see [S.I](https://www.legislation.gov.uk/uksi/2010/2279/section/I). 2010/2317, art. 2)
+[^c-1ec04524c77d82169f372d21f96518c2]: Textual amendment: Words in s. 12(8) substituted by [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15), [Sch. 26 Pt. 1 para. 89](https://www.legislation.gov.uk/ukpga/2010/15/schedule/26/part/1/paragraph/89) (as inserted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/6) (see [S.I](https://www.legislation.gov.uk/uksi/2010/2279/section/I). 2010/2317, art. 2)

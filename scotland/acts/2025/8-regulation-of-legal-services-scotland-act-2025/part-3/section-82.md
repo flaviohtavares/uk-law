@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82. Minor and consequential amendments[^key-5f0407a347be8a95f236ae0ffbfb71eb]
+## 82. Minor and consequential amendments[^c-5f0407a347be8a95f236ae0ffbfb71eb]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ Parts 2 and 3 of schedule 3 contain minor amendments and amendments consequentia
 
 ## Annotations
 
-[^key-5f0407a347be8a95f236ae0ffbfb71eb]: Commencement: S. 82 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-5f0407a347be8a95f236ae0ffbfb71eb]: Commencement: S. 82 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

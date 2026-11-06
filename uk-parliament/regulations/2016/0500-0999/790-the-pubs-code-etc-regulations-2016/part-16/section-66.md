@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Rent assessments[^key-367753bfe1c1ea3bf1a86fa8a47b9eb7]
+## 66. Rent assessments[^c-367753bfe1c1ea3bf1a86fa8a47b9eb7]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-367753bfe1c1ea3bf1a86fa8a47b9eb7]: Commencement: Reg. 66 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-367753bfe1c1ea3bf1a86fa8a47b9eb7]: Commencement: Reg. 66 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)

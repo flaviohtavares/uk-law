@@ -52,7 +52,7 @@ The Secretary of State for Communities and Local Government, in exercise of the 
 
 These Regulations may be cited as the Local Authorities (Executive Arrangements) (Meetings and Access to Information) (England) Regulations 2012 and come into force on 10th September 2012.
 
-### 2. Interpretation[^key-77c52530651d21f6460af9b829466a00]
+### 2. Interpretation[^c-77c52530651d21f6460af9b829466a00]
 
 In these Regulations—
 
@@ -100,7 +100,7 @@ In these Regulations—
 
 ## PART 2 — Admission of public to meetings of local authority executives and their committees
 
-### 3. Meetings of local authority executives and their committees to be held in public[^key-6e3f6b25e4672e9724d62972448554f9]
+### 3. Meetings of local authority executives and their committees to be held in public[^c-6e3f6b25e4672e9724d62972448554f9]
 
 Subject to regulation 4, a meeting of a decision-making body must be held in public.
 
@@ -123,7 +123,7 @@ Subject to regulation 4, a meeting of a decision-making body must be held in pub
 
 (5) Without prejudice to any power of exclusion to suppress or prevent disorderly conduct or other misbehaviour at a meeting, the decision-making body is not to have the power to exclude members of the public from a meeting while it is open to the public.
 
-(5A)[^key-fb6e7799520ca7108f2c37b85a7650fe] Where the public are excluded from a meeting under paragraph (2), a decision making body may also prevent any person from reporting proceedings using methods—
+(5A)[^c-fb6e7799520ca7108f2c37b85a7650fe] Where the public are excluded from a meeting under paragraph (2), a decision making body may also prevent any person from reporting proceedings using methods—
 
 - (a) which can be used without that person's presence at the meeting, and
 - (b) which enable persons not present at the meeting to see or hear the proceedings at the meeting as it takes place or later.
@@ -134,7 +134,7 @@ Subject to regulation 4, a meeting of a decision-making body must be held in pub
 
 (6) While the meeting is open to the public, any person attending the meeting for the purpose of reporting the proceedings is, so far as practicable, to be afforded reasonable facilities for taking their report.
 
-(7)[^key-11bc7001b5d271854174357698004aa1] Any person who attends the meeting to report the proceedings may use any communication methods, including the internet, to publish, post or otherwise share the results of their reporting activities.
+(7)[^c-11bc7001b5d271854174357698004aa1] Any person who attends the meeting to report the proceedings may use any communication methods, including the internet, to publish, post or otherwise share the results of their reporting activities.
 
 (8) Publication and dissemination may take place at the time of the meeting or occur after the meeting.
 
@@ -148,14 +148,14 @@ Subject to regulation 4, a meeting of a decision-making body must be held in pub
 
 (1) A decision made by a decision-making body to hold a meeting in private is a prescribed decision for the purpose of section 9GA(5) of the 2000 Act (regulations requiring prescribed information about prescribed decisions).
 
-(2)[^key-dffea8099b7de4b0e1383dcccd30acf9] At least 28 clear days before a private meeting, the decision-making body must—
+(2)[^c-dffea8099b7de4b0e1383dcccd30acf9] At least 28 clear days before a private meeting, the decision-making body must—
 
 - (a) make available at the offices of the relevant local authority a notice of its intention to hold the meeting in private; and
 - (b) publish that notice on the relevant local authority's website, if it has one.
 
 (3) A notice under paragraph (2) must include a statement of the reasons for the meeting to be held in private.
 
-(4)[^key-3873cd36561e8d1401f32464ffe73501] At least five clear days before a private meeting, the decision-making body must—
+(4)[^c-3873cd36561e8d1401f32464ffe73501] At least five clear days before a private meeting, the decision-making body must—
 
 - (a) make available at the offices of the relevant local authority a further notice of its intention to hold the meeting in private; and
 - (b) publish that notice on the relevant local authority's website, if it has one.
@@ -174,14 +174,14 @@ Subject to regulation 4, a meeting of a decision-making body must be held in pub
 
 that the meeting is urgent and cannot reasonably be deferred.
 
-(7)[^key-962e1e03e6049f9eedb6cf5b8925f075] As soon as reasonably practicable after the decision-making body has obtained agreement under paragraph (6) to hold a private meeting, it must—
+(7)[^c-962e1e03e6049f9eedb6cf5b8925f075] As soon as reasonably practicable after the decision-making body has obtained agreement under paragraph (6) to hold a private meeting, it must—
 
 - (a) make available at the offices of the relevant local authority a notice setting out the reasons why the meeting is urgent and cannot reasonably be deferred; and
 - (b) publish that notice on the relevant local authority's website, if it has one.
 
 ### 6. Procedures prior to public meetings
 
-(1)[^key-cd1cd81ba65edc6d65221d32cf12bbb9] The decision-making body must give notice of the time and place of a public meeting by displaying it at the offices of the relevant local authority and publishing it on that authority's website, if it has one—
+(1)[^c-cd1cd81ba65edc6d65221d32cf12bbb9] The decision-making body must give notice of the time and place of a public meeting by displaying it at the offices of the relevant local authority and publishing it on that authority's website, if it has one—
 
 - (a) at least five clear days before the meeting; or
 - (b) where the meeting is convened at shorter notice, at the time that the meeting is convened.
@@ -193,7 +193,7 @@ that the meeting is urgent and cannot reasonably be deferred.
 
 ### 7. Access to agenda and connected reports for public meetings
 
-(1)[^key-1c88e0d82633c56546251626b5ef1a01] Subject to paragraph (2), a copy of the agenda and every report for a meeting must be made available for inspection by the public—
+(1)[^c-1c88e0d82633c56546251626b5ef1a01] Subject to paragraph (2), a copy of the agenda and every report for a meeting must be made available for inspection by the public—
 
 - (a) at the offices of the relevant local authority; and
 - (b) on the relevant local authority's website, if it has one.
@@ -248,7 +248,7 @@ that the meeting is urgent and cannot reasonably be deferred.
 - (g) that other documents relevant to those matters may be submitted to the decision maker; and
 - (h) the procedure for requesting details of those documents (if any) as they become available.
 
-(2)[^key-e75bc8f251b9d3c039384d42fac7bbad] At least 28 clear days before a key decision is made, the document referred to in paragraph (1) must be made available for inspection by the public—
+(2)[^c-e75bc8f251b9d3c039384d42fac7bbad] At least 28 clear days before a key decision is made, the document referred to in paragraph (1) must be made available for inspection by the public—
 
 - (a) at the offices of the relevant local authority; and
 - (b) on the relevant local authority's website, if it has one.
@@ -265,12 +265,12 @@ the document referred to in paragraph (1) must contain particulars of the matter
 (1) Subject to regulation 11, where the publication of the intention to make a key decision under regulation 9 is impracticable, that decision may only be made—
 
 - (a) where the proper officer has informed the chairman of the relevant overview and scrutiny committee or, if there is no such person, each member of the relevant overview and scrutiny committee by notice in writing, of the matter about which the decision is to be made;
-- (b)[^key-edae2b5b317dcc0b6e83b34f67ed9eff] where the proper officer has made available at the offices of the relevant local authority for inspection by the public and published on the relevant local authority's website, if it has one, a copy of the notice given pursuant to sub-paragraph (a); and
+- (b)[^c-edae2b5b317dcc0b6e83b34f67ed9eff] where the proper officer has made available at the offices of the relevant local authority for inspection by the public and published on the relevant local authority's website, if it has one, a copy of the notice given pursuant to sub-paragraph (a); and
 - (c) after five clear days have elapsed following the day on which the proper officer made available the notice referred to in sub-paragraph (b).
 
 (2) Where paragraph (1) applies to any matter, regulation 9 need not be complied with in relation to that matter.
 
-(3)[^key-2df25b665775fba26e558e5996ef8607] As soon as reasonably practicable after the proper officer has complied with paragraph (1), he or she must—
+(3)[^c-2df25b665775fba26e558e5996ef8607] As soon as reasonably practicable after the proper officer has complied with paragraph (1), he or she must—
 
 - (a) make available at the offices of the relevant local authority a notice setting out the reasons why compliance with regulation 9 is impracticable; and
 - (b) publish that notice on the relevant local authority's website, if it has one.
@@ -285,7 +285,7 @@ the document referred to in paragraph (1) must contain particulars of the matter
 
 that the making of the decision is urgent and cannot reasonably be deferred.
 
-(2)[^key-06ef96419f60e81396690b9bbd46993e] As soon as reasonably practicable after the decision maker has obtained agreement under paragraph (1) that the making of the decision is urgent and cannot reasonably be deferred, the decision maker must—
+(2)[^c-06ef96419f60e81396690b9bbd46993e] As soon as reasonably practicable after the decision maker has obtained agreement under paragraph (1) that the making of the decision is urgent and cannot reasonably be deferred, the decision maker must—
 
 - (a) make available at the offices of the relevant local authority a notice setting out the reasons that the meeting is urgent and cannot reasonably be deferred; and
 - (b) publish that notice on the relevant local authority's website, if it has one.
@@ -332,16 +332,16 @@ that the making of the decision is urgent and cannot reasonably be deferred.
 
 ### 14. Inspection of documents following executive decisions
 
-(1)[^key-d723b22cf1b59b50ae015fda61ee1b5b] Subject to regulation 20, after a meeting of a decision-making body at which an executive decision has been made, or after an individual member or an officer has made an executive decision the proper officer must ensure that a copy of—
+(1)[^c-d723b22cf1b59b50ae015fda61ee1b5b] Subject to regulation 20, after a meeting of a decision-making body at which an executive decision has been made, or after an individual member or an officer has made an executive decision the proper officer must ensure that a copy of—
 
 - (a) any records prepared in accordance with regulations 12 or 13; and
 - (b) any report considered at the meeting or, as the case may be, considered by the individual member or officer and relevant to a decision recorded in accordance with regulations 12 or 13 or, where only part of the report is relevant to such a decision, that part,
 
 must be available for inspection by members of the public, as soon as is reasonably practicable, at the offices of the relevant local authority, and on that authority's website, if it has one.
 
-(2)[^key-bb8f79b332e9e2a37682fe3f409df81e] Where a request on behalf of a newspaper is made for a copy of any of the documents available for public inspection under paragraph (1), those documents must be supplied for the benefit of the newspaper by the relevant local authority on payment by the newspaper to the local authority of postage, copying or other necessary charge for transmission.
+(2)[^c-bb8f79b332e9e2a37682fe3f409df81e] Where a request on behalf of a newspaper is made for a copy of any of the documents available for public inspection under paragraph (1), those documents must be supplied for the benefit of the newspaper by the relevant local authority on payment by the newspaper to the local authority of postage, copying or other necessary charge for transmission.
 
-### 15. Inspection of background papers[^key-e3cce6abd0fd0dfc0336847e7d62b594]
+### 15. Inspection of background papers[^c-e3cce6abd0fd0dfc0336847e7d62b594]
 
 Subject to regulation 20, when a copy of the whole or part of a report for a meeting is made available for inspection by members of the public in accordance with regulation 7 or 14, at the same time—
 
@@ -452,7 +452,7 @@ that overview and scrutiny committee may require the executive which is responsi
 - (a) authorises or requires documents relating to that decision to be disclosed to the public, or made available for public inspection where, the documents contain confidential information; or
 - (b) requires documents relating to that decision to be disclosed to the public, or made available for public inspection where the disclosure of the documents would, in the opinion of the member or officer making the decision, give rise to the disclosure of exempt information or the advice of a political adviser or assistant.
 
-(4)[^key-0fa8c89aa97a90e3b4aa90b466f79c3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-0fa8c89aa97a90e3b4aa90b466f79c3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 21. Inspection and supply of documents
 
@@ -460,9 +460,9 @@ that overview and scrutiny committee may require the executive which is responsi
 
 - (a) at all reasonable hours at the offices of the relevant local authority;
 - (b) on the relevant local authority's website, if it has one; and
-- (c)[^key-ead2c9aac2659221e07dfd1bda7beb27] in the case of documents to be available for inspection pursuant to regulation 15, on payment of a reasonable fee required by the relevant local authority by the person seeking to inspect the documents at the offices of the relevant local authority.
+- (c)[^c-ead2c9aac2659221e07dfd1bda7beb27] in the case of documents to be available for inspection pursuant to regulation 15, on payment of a reasonable fee required by the relevant local authority by the person seeking to inspect the documents at the offices of the relevant local authority.
 
-(2)[^key-7800beeed8fb2934714289ef1842ce48] Subject to paragraph (4), where a document is to be available for inspection by a person under any provision in these Regulations, the person may—
+(2)[^c-7800beeed8fb2934714289ef1842ce48] Subject to paragraph (4), where a document is to be available for inspection by a person under any provision in these Regulations, the person may—
 
 - (a) make a copy of the whole or part of the document; or
 - (b) require the person having custody of the document to supply the person requiring inspection a copy of the whole or part of the document,
@@ -537,7 +537,7 @@ No impact assessment has been produced in relation to these Regulations because 
 
 [^c21350211]: Marginal citation: [2000 c.22](https://www.legislation.gov.uk/ukpga/2000/22). Sections 9G and 9GA were inserted into the Local Government Act 2000 by section 21 of, and Schedule 2 to, the [Localism Act 2011 (c.20)](https://www.legislation.gov.uk/ukpga/2011/20). Schedule 2 to the Localism Act 2011 inserted Part 1A, applying to England only, into the 2000 Act. Section 105 is amended by section 100(3) of, and Schedule 3 to, the [Local Government Act 2003 (c.26)](https://www.legislation.gov.uk/ukpga/2003/26), by section 191(5) of the Local Government and Public Involvement in [Health Act 2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28), and by paragraph 70 of Schedule 3 to the Localism Act 2011.
 
-[^key-77c52530651d21f6460af9b829466a00]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/2089/regulation/2) modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [16(2)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/2) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-77c52530651d21f6460af9b829466a00]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/2089/regulation/2) modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [16(2)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/2) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
 
 [^c21350221]: Marginal citation: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
 
@@ -551,41 +551,41 @@ No impact assessment has been produced in relation to these Regulations because 
 
 [^c21350271]: Marginal citation: [1989 c.42](https://www.legislation.gov.uk/ukpga/1989/42).
 
-[^key-6e3f6b25e4672e9724d62972448554f9]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/2089/regulation/3) modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [16(3)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/3) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-6e3f6b25e4672e9724d62972448554f9]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/2089/regulation/3) modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [16(3)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/3) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
 
-[^key-fb6e7799520ca7108f2c37b85a7650fe]: Textual amendment: [Reg. 4(5A)-(5C)](https://www.legislation.gov.uk/uksi/2012/2089/regulation/4/5A) inserted (6.8.2014) by [The Openness of Local Government Bodies Regulations 2014 (S.I. 2014/2095)](https://www.legislation.gov.uk/uksi/2014/2095), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2095/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2014/2095/regulation/5/2)
+[^c-fb6e7799520ca7108f2c37b85a7650fe]: Textual amendment: [Reg. 4(5A)-(5C)](https://www.legislation.gov.uk/uksi/2012/2089/regulation/4/5A) inserted (6.8.2014) by [The Openness of Local Government Bodies Regulations 2014 (S.I. 2014/2095)](https://www.legislation.gov.uk/uksi/2014/2095), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2095/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2014/2095/regulation/5/2)
 
-[^key-11bc7001b5d271854174357698004aa1]: Textual amendment: [Reg. 4(7)-(9)](https://www.legislation.gov.uk/uksi/2012/2089/regulation/4/7) inserted (6.8.2014) by [The Openness of Local Government Bodies Regulations 2014 (S.I. 2014/2095)](https://www.legislation.gov.uk/uksi/2014/2095), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2095/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2014/2095/regulation/5/3)
+[^c-11bc7001b5d271854174357698004aa1]: Textual amendment: [Reg. 4(7)-(9)](https://www.legislation.gov.uk/uksi/2012/2089/regulation/4/7) inserted (6.8.2014) by [The Openness of Local Government Bodies Regulations 2014 (S.I. 2014/2095)](https://www.legislation.gov.uk/uksi/2014/2095), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2095/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2014/2095/regulation/5/3)
 
-[^key-dffea8099b7de4b0e1383dcccd30acf9]: Modification: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/2012/2089/regulation/5/2) modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [16(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/4)[(5)(a)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/5/a) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-dffea8099b7de4b0e1383dcccd30acf9]: Modification: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/2012/2089/regulation/5/2) modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [16(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/4)[(5)(a)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/5/a) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
 
-[^key-3873cd36561e8d1401f32464ffe73501]: Modification: [Reg. 5(4)](https://www.legislation.gov.uk/uksi/2012/2089/regulation/5/4) modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [16(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/4)[(5)(b)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/5/b) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-3873cd36561e8d1401f32464ffe73501]: Modification: [Reg. 5(4)](https://www.legislation.gov.uk/uksi/2012/2089/regulation/5/4) modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [16(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/4)[(5)(b)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/5/b) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
 
-[^key-962e1e03e6049f9eedb6cf5b8925f075]: Modification: [Reg. 5(7)](https://www.legislation.gov.uk/uksi/2012/2089/regulation/5/7) modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [16(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/4)[(5)(c)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/5/c) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-962e1e03e6049f9eedb6cf5b8925f075]: Modification: [Reg. 5(7)](https://www.legislation.gov.uk/uksi/2012/2089/regulation/5/7) modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [16(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/4)[(5)(c)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/5/c) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
 
-[^key-cd1cd81ba65edc6d65221d32cf12bbb9]: Modification: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2012/2089/regulation/6/1) modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [16(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/4)[(5)(d)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/5/d) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-cd1cd81ba65edc6d65221d32cf12bbb9]: Modification: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2012/2089/regulation/6/1) modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [16(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/4)[(5)(d)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/5/d) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
 
-[^key-1c88e0d82633c56546251626b5ef1a01]: Modification: [Reg. 7(1)](https://www.legislation.gov.uk/uksi/2012/2089/regulation/7/1) modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [16(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/4)[(5)(e)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/5/e) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-1c88e0d82633c56546251626b5ef1a01]: Modification: [Reg. 7(1)](https://www.legislation.gov.uk/uksi/2012/2089/regulation/7/1) modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [16(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/4)[(5)(e)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/5/e) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
 
-[^key-e75bc8f251b9d3c039384d42fac7bbad]: Modification: [Reg. 9(2)](https://www.legislation.gov.uk/uksi/2012/2089/regulation/9/2) modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [16(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/4)[(5)(f)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/5/f) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-e75bc8f251b9d3c039384d42fac7bbad]: Modification: [Reg. 9(2)](https://www.legislation.gov.uk/uksi/2012/2089/regulation/9/2) modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [16(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/4)[(5)(f)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/5/f) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
 
-[^key-edae2b5b317dcc0b6e83b34f67ed9eff]: Modification: [Reg. 10(1)(b)](https://www.legislation.gov.uk/uksi/2012/2089/regulation/10/1/b) modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [16(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/4)[(5)(g)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/5/g) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-edae2b5b317dcc0b6e83b34f67ed9eff]: Modification: [Reg. 10(1)(b)](https://www.legislation.gov.uk/uksi/2012/2089/regulation/10/1/b) modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [16(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/4)[(5)(g)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/5/g) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
 
-[^key-2df25b665775fba26e558e5996ef8607]: Modification: [Reg. 10(3)](https://www.legislation.gov.uk/uksi/2012/2089/regulation/10/3) modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [16(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/4)[(5)(h)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/5/h) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-2df25b665775fba26e558e5996ef8607]: Modification: [Reg. 10(3)](https://www.legislation.gov.uk/uksi/2012/2089/regulation/10/3) modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [16(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/4)[(5)(h)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/5/h) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
 
-[^key-06ef96419f60e81396690b9bbd46993e]: Modification: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/2012/2089/regulation/11/2) modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [16(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/4)[(5)(i)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/5/i) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-06ef96419f60e81396690b9bbd46993e]: Modification: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/2012/2089/regulation/11/2) modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [16(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/4)[(5)(i)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/5/i) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
 
-[^key-d723b22cf1b59b50ae015fda61ee1b5b]: Modification: [Reg. 14(1)](https://www.legislation.gov.uk/uksi/2012/2089/regulation/14/1) modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [16(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/4)[(5)(j)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/5/j) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-d723b22cf1b59b50ae015fda61ee1b5b]: Modification: [Reg. 14(1)](https://www.legislation.gov.uk/uksi/2012/2089/regulation/14/1) modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [16(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/4)[(5)(j)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/5/j) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
 
-[^key-bb8f79b332e9e2a37682fe3f409df81e]: Modification: [Reg. 14(2)](https://www.legislation.gov.uk/uksi/2012/2089/regulation/14/2) disapplied (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [16(6)(a)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/6/a) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-bb8f79b332e9e2a37682fe3f409df81e]: Modification: [Reg. 14(2)](https://www.legislation.gov.uk/uksi/2012/2089/regulation/14/2) disapplied (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [16(6)(a)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/6/a) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
 
-[^key-e3cce6abd0fd0dfc0336847e7d62b594]: Modification: [Reg. 15](https://www.legislation.gov.uk/uksi/2012/2089/regulation/15) modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [16(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/4)[(5)(k)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/5/k) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-e3cce6abd0fd0dfc0336847e7d62b594]: Modification: [Reg. 15](https://www.legislation.gov.uk/uksi/2012/2089/regulation/15) modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [16(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/4)[(5)(k)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/5/k) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
 
-[^key-0fa8c89aa97a90e3b4aa90b466f79c3d]: Textual amendment: [Reg. 20(4)](https://www.legislation.gov.uk/uksi/2012/2089/regulation/20/4) omitted (6.8.2014) by virtue of [The Openness of Local Government Bodies Regulations 2014 (S.I. 2014/2095)](https://www.legislation.gov.uk/uksi/2014/2095), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2095/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2014/2095/regulation/5/4)
+[^c-0fa8c89aa97a90e3b4aa90b466f79c3d]: Textual amendment: [Reg. 20(4)](https://www.legislation.gov.uk/uksi/2012/2089/regulation/20/4) omitted (6.8.2014) by virtue of [The Openness of Local Government Bodies Regulations 2014 (S.I. 2014/2095)](https://www.legislation.gov.uk/uksi/2014/2095), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2095/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2014/2095/regulation/5/4)
 
-[^key-ead2c9aac2659221e07dfd1bda7beb27]: Modification: [Reg. 21(1)(c)](https://www.legislation.gov.uk/uksi/2012/2089/regulation/21/1/c) disapplied (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [16(6)(b)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/6/b) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-ead2c9aac2659221e07dfd1bda7beb27]: Modification: [Reg. 21(1)(c)](https://www.legislation.gov.uk/uksi/2012/2089/regulation/21/1/c) disapplied (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [16(6)(b)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/6/b) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
 
-[^key-7800beeed8fb2934714289ef1842ce48]: Modification: [Reg. 21(2)](https://www.legislation.gov.uk/uksi/2012/2089/regulation/21/2) disapplied (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [16(6)(c)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/6/c) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-7800beeed8fb2934714289ef1842ce48]: Modification: [Reg. 21(2)](https://www.legislation.gov.uk/uksi/2012/2089/regulation/21/2) disapplied (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [16(6)(c)](https://www.legislation.gov.uk/uksi/2020/392/regulation/16/6/c) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
 
 [^c21350281]: Marginal citation: [S.I. 2000/3272](https://www.legislation.gov.uk/uksi/2000/3272).
 

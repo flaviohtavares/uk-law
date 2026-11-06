@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 249. Consequential and transitional provision[^key-3dfc75e5ab3d1c08573bf34b76539f04][^c2191356]
+## 249. Consequential and transitional provision[^c-3dfc75e5ab3d1c08573bf34b76539f04][^c2191356]
 
 *Extent: E+W*
 
@@ -41,7 +41,7 @@ summary: ''
 
 (7) A procedure established by the Institute before commencement for the preparation of statements of standards is to be treated on and after commencement as if it were a procedure established by NICE in accordance with section 234(7) for the preparation of quality standards.
 
-(8) For the purposes of this section “the transitional commissioner” is the Secretary of State; but the Secretary of State, after consulting NHS England[^key-d23c69bff54a60347bacf94be53e66a8], may direct that in relation to a particular statement of standards or matter the transitional commissioner is—
+(8) For the purposes of this section “the transitional commissioner” is the Secretary of State; but the Secretary of State, after consulting NHS England[^c-d23c69bff54a60347bacf94be53e66a8], may direct that in relation to a particular statement of standards or matter the transitional commissioner is—
 
 - (a) NHS England, or
 - (b) both the Secretary of State and NHS England.
@@ -54,8 +54,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3dfc75e5ab3d1c08573bf34b76539f04]: Commencement: [S. 249](https://www.legislation.gov.uk/ukpga/2012/7/section/249) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-3dfc75e5ab3d1c08573bf34b76539f04]: Commencement: [S. 249](https://www.legislation.gov.uk/ukpga/2012/7/section/249) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c2191356]: Commencement: [S. 249](https://www.legislation.gov.uk/ukpga/2012/7/section/249) partly in force; [s. 249](https://www.legislation.gov.uk/ukpga/2012/7/section/249) in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)
 
-[^key-d23c69bff54a60347bacf94be53e66a8]: Textual amendment: Words in [s. 249](https://www.legislation.gov.uk/ukpga/2012/7/section/249) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-d23c69bff54a60347bacf94be53e66a8]: Textual amendment: Words in [s. 249](https://www.legislation.gov.uk/ukpga/2012/7/section/249) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

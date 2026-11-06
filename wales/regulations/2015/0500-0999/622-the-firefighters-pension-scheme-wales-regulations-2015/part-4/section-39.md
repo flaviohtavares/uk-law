@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Application of Chapter[^key-e50fb6ce6f57a30eb429c120de442baa]
+## 39. Application of Chapter[^c-e50fb6ce6f57a30eb429c120de442baa]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e50fb6ce6f57a30eb429c120de442baa]: Commencement: Reg. 39 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-e50fb6ce6f57a30eb429c120de442baa]: Commencement: Reg. 39 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

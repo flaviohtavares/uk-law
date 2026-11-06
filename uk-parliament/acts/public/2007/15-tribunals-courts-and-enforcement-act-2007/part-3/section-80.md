@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Agricultural holdings[^key-d4332b932003f5604ab2cfb5a37caf61]
+## 80. Agricultural holdings[^c-d4332b932003f5604ab2cfb5a37caf61]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4332b932003f5604ab2cfb5a37caf61]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2007/15/section/80) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)
+[^c-d4332b932003f5604ab2cfb5a37caf61]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2007/15/section/80) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)

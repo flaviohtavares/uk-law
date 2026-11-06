@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — New Schedule C1 to the Transport Act 2000[^key-3bcc9ed41a036ef116f935b42d5fa439]
+## SCHEDULE 6 — New Schedule C1 to the Transport Act 2000[^c-3bcc9ed41a036ef116f935b42d5fa439]
 
 *Extent: E+W+S+N.I.*
 
 Section 10
 
-[^key-3bcc9ed41a036ef116f935b42d5fa439]
+[^c-3bcc9ed41a036ef116f935b42d5fa439]
 
 This Schedule sets out the new Schedule C1 to the Transport Act 2000, to be inserted after Schedule B1 to that Act (inserted by section 10 above)—
 
@@ -244,4 +244,4 @@ This Schedule sets out the new Schedule C1 to the Transport Act 2000, to be inse
 
 ## Annotations
 
-[^key-3bcc9ed41a036ef116f935b42d5fa439]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ukpga/2021/12/schedule/6) in force at 29.6.2021 by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/i)
+[^c-3bcc9ed41a036ef116f935b42d5fa439]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ukpga/2021/12/schedule/6) in force at 29.6.2021 by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/i)

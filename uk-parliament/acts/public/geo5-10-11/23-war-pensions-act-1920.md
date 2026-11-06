@@ -55,13 +55,13 @@ Provided that nothing in this section shall affect the operation of section thre
 
 (1) The Minister may, in his discretion and upon such terms as he thinks fit, restore, either in whole or in part, any pension which has been forfeited under the [^c581678]Forfeiture Act, 1870.
 
-(2) During such time as any person whose pension has been forfeited, whether under the [^c581679]Forfeiture Act, 1870, or otherwise, is undergoing imprisonment, the Minister may in his discretion pay or apply any part of the pension which may be restored under the foregoing provision or otherwise, or any allowance payable to that person during the continuance of the pension, to, or for the benefit of, the wife, civil partner,[^key-f64e2c96b163ebdf4b3c8dc540418b75] children, or other dependants of that person.
+(2) During such time as any person whose pension has been forfeited, whether under the [^c581679]Forfeiture Act, 1870, or otherwise, is undergoing imprisonment, the Minister may in his discretion pay or apply any part of the pension which may be restored under the foregoing provision or otherwise, or any allowance payable to that person during the continuance of the pension, to, or for the benefit of, the wife, civil partner,[^c-f64e2c96b163ebdf4b3c8dc540418b75] children, or other dependants of that person.
 
 (3) In this section the expression “**pension**” means any pension awarded or administered by the Minister in pursuance of any Warrant or Order in Council.
 
 ## 8. Statutory right of widow and children to a pension.
 
-(1)[^c581680] The widow, surviving civil partner[^key-d68ee0217e27fea754404d00953a5453] or dependant of a deceased officer or man shall be entitled to receive such pension, gratuity, or allowance as is awarded by the Minister under any Warrant or Order in Council for the time being in force in respect of that officer or man, and for the payment whereof money has been provided by Parliament, but the award of any such pension, gratuity, or allowance shall be subject to the conditions contained in the Warrant or Order.
+(1)[^c581680] The widow, surviving civil partner[^c-d68ee0217e27fea754404d00953a5453] or dependant of a deceased officer or man shall be entitled to receive such pension, gratuity, or allowance as is awarded by the Minister under any Warrant or Order in Council for the time being in force in respect of that officer or man, and for the payment whereof money has been provided by Parliament, but the award of any such pension, gratuity, or allowance shall be subject to the conditions contained in the Warrant or Order.
 
 (2)[^c581681] Section eight of the War Pensions (Administrative Provisions) Act, 1919 (which provides for appeals to pensions appeal tribunals), shall have effect as though the words “or parent or dependent” were inserted therein after the words “motherless child.”
 
@@ -118,11 +118,11 @@ Any . . . [^c581683] document used in relation to the payment of any pension, gr
 
 [^c581679]: Marginal citation: [1870 c. 23](https://www.legislation.gov.uk/ukpga/1870/23).
 
-[^key-f64e2c96b163ebdf4b3c8dc540418b75]: Textual amendment: Words in s. 7(2) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 11](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/11); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-f64e2c96b163ebdf4b3c8dc540418b75]: Textual amendment: Words in s. 7(2) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 11](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/11); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
 [^c581680]: Modification: S. 8(1) amended by [War Pensions Act 1921 (c. 49)](https://www.legislation.gov.uk/ukpga/1921/49), [s. 6](https://www.legislation.gov.uk/ukpga/1921/49/section/6)
 
-[^key-d68ee0217e27fea754404d00953a5453]: Textual amendment: Words in [s. 8](https://www.legislation.gov.uk/ukpga/Geo5/10-11/23/section/8) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 12](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/12); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-d68ee0217e27fea754404d00953a5453]: Textual amendment: Words in [s. 8](https://www.legislation.gov.uk/ukpga/Geo5/10-11/23/section/8) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 12](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/12); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
 [^c581681]: Modification: The text of s. 8(2) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any repeals or amendments which may have been made prior to 1.2.1991
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73. Councillor’s allowance[^key-0c7e2ec3f3534aa73879d3670d144bbf]
+## 73. Councillor’s allowance[^c-0c7e2ec3f3534aa73879d3670d144bbf]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ For the purposes of section 3(1)(c) of the Act—
 
 ## Annotations
 
-[^key-0c7e2ec3f3534aa73879d3670d144bbf]: Commencement: [Reg. 73](https://www.legislation.gov.uk/nisr/2008/280/regulation/73) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-0c7e2ec3f3534aa73879d3670d144bbf]: Commencement: [Reg. 73](https://www.legislation.gov.uk/nisr/2008/280/regulation/73) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

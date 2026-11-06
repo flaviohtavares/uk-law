@@ -27,20 +27,20 @@ summary: ''
 - (a) the allowance of a deduction (or increased deduction) under section 1219, or
 - (b) any other tax advantage.
 
-(3)[^key-082b9628d941cdbb7db2c93641bc65b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-082b9628d941cdbb7db2c93641bc65b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The reference in subsection (1) to expenses of management includes amounts treated by any provision as deductible under section 1219.
 
 (5) In this section—
 
 - “**arrangements**” includes any agreement, understanding, scheme, transaction or series of transactions (whether or not legally enforceable),
-- [^key-1a465084ec2bc15c47811a992a6e3dce]...
-- “**tax advantage**” has the meaning given by section 1139 of CTA 2010[^key-f68d789726ea898f06c150d1b08934cd].
+- [^c-1a465084ec2bc15c47811a992a6e3dce]...
+- “**tax advantage**” has the meaning given by section 1139 of CTA 2010[^c-f68d789726ea898f06c150d1b08934cd].
 
 ## Annotations
 
-[^key-082b9628d941cdbb7db2c93641bc65b4]: Textual amendment: S. 1248(3) omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 29 paras. 39(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/39/a), [52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/52)
+[^c-082b9628d941cdbb7db2c93641bc65b4]: Textual amendment: S. 1248(3) omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 29 paras. 39(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/39/a), [52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/52)
 
-[^key-1a465084ec2bc15c47811a992a6e3dce]: Textual amendment: Words in s. 1248(5) omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 29 paras. 39(b)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/39/b), [52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/52)
+[^c-1a465084ec2bc15c47811a992a6e3dce]: Textual amendment: Words in s. 1248(5) omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 29 paras. 39(b)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/39/b), [52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/52)
 
-[^key-f68d789726ea898f06c150d1b08934cd]: Textual amendment: Words in s. 1248(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 689(b)(ii)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/689/b/ii) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-f68d789726ea898f06c150d1b08934cd]: Textual amendment: Words in s. 1248(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 689(b)(ii)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/689/b/ii) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

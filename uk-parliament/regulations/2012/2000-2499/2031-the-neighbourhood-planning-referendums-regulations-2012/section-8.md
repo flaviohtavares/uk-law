@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) This regulation applies, in relation to the residential[^key-8f9dea06ae90f8039a0fd86c5ba04094] referendum, where the poll is not taken together with the poll at a relevant election.
+(1) This regulation applies, in relation to the residential[^c-8f9dea06ae90f8039a0fd86c5ba04094] referendum, where the poll is not taken together with the poll at a relevant election.
 
 (2) The referendum is to be conducted in accordance with the Neighbourhood Planning Referendums Rules (set out in Schedule 3).
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8f9dea06ae90f8039a0fd86c5ba04094]: Textual amendment: Word in reg. 8(1) inserted (6.4.2013) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2013 (S.I. 2013/798)](https://www.legislation.gov.uk/uksi/2013/798), [regs. 1](https://www.legislation.gov.uk/uksi/2013/798/regulation/1), [6(1)](https://www.legislation.gov.uk/uksi/2013/798/regulation/6/1)
+[^c-8f9dea06ae90f8039a0fd86c5ba04094]: Textual amendment: Word in reg. 8(1) inserted (6.4.2013) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2013 (S.I. 2013/798)](https://www.legislation.gov.uk/uksi/2013/798), [regs. 1](https://www.legislation.gov.uk/uksi/2013/798/regulation/1), [6(1)](https://www.legislation.gov.uk/uksi/2013/798/regulation/6/1)
 
 [^c21341011]: Marginal citation: [1983 c.2](https://www.legislation.gov.uk/ukpga/1983/2). The relevant amendments to which are: section 11(4) of the [Parliamentary Voting System and Constituencies Act 2011 (c.1)](https://www.legislation.gov.uk/ukpga/2011/1), [paragraphs 12](https://www.legislation.gov.uk/ukpga/2011/1/paragraph/12), [14](https://www.legislation.gov.uk/ukpga/2011/1/paragraph/14) and 71 of Schedule 4 to the [Representation of the People Act 1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50) and paragraph 6 of Schedule 21 to the [Political Parties, Elections and Referendums Act 2000 (c. 41)](https://www.legislation.gov.uk/ukpga/2000/41).

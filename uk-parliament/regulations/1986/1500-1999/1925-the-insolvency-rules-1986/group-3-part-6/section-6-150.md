@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.150. Membership of creditors' committee[^key-9bb7ad61c5344c06efa62795107480ef]
+## 6.150. Membership of creditors' committee[^c-9bb7ad61c5344c06efa62795107480ef]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9bb7ad61c5344c06efa62795107480ef]: Commencement: [Rule 6.150](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.150) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-9bb7ad61c5344c06efa62795107480ef]: Commencement: [Rule 6.150](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.150) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -48,7 +48,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and application[^key-48195aaf9d54027aed2d3b39237383c6]
+### 1. Citation, commencement and application[^c-48195aaf9d54027aed2d3b39237383c6]
 
 (1) These Regulations may be cited as the Asset Transfer Request (Review Procedure) (Scotland) Regulations 2016 and come into force on 23rd January 2017.
 
@@ -56,7 +56,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 (3) These Regulations apply as specified in regulation 13 to applications for review made under section 87(2) of the Act (review of decisions by the Scottish Ministers).
 
-### 2. Interpretation[^key-427d3904869f779ef9f905a2b5c2adcc]
+### 2. Interpretation[^c-427d3904869f779ef9f905a2b5c2adcc]
 
 In these Regulations—
 
@@ -84,7 +84,7 @@ In these Regulations—
 
 ## PART 2 — Application for review under section 86(2) of the Act
 
-### 3. Application for review[^key-398847424ce7512b93af5f95e8066a0b]
+### 3. Application for review[^c-398847424ce7512b93af5f95e8066a0b]
 
 (1) An application for review to the local authority under section 86(2) of the Act is to be made in writing in accordance with this regulation.
 
@@ -112,7 +112,7 @@ In these Regulations—
 - (a) in accordance with and to the extent permitted by regulation 4(6); or
 - (b) where the local authority makes a request (under regulation 8(1), rule 1(1) of the Hearing Session Rules or otherwise) for further representations to be made or further information to be provided by the community transfer body.
 
-### 4. Notification to interested parties and publication[^key-4e430ef786fe7ff4396074586349095d]
+### 4. Notification to interested parties and publication[^c-4e430ef786fe7ff4396074586349095d]
 
 (1) The local authority must before the expiry of the period of 10 working days beginning with the date on which the application for review is made—
 
@@ -140,7 +140,7 @@ In these Regulations—
 
 (7) An interested party may, in addition to any representations made by virtue of paragraph (4), raise matters and submit further documents, materials or evidence only in accordance with a request made under regulation 8(1), rule 1(1) of the Hearing Session Rules or otherwise.
 
-### 5. Publication of review documents[^key-5cd29b3c0347b5bc431a9e7bc356f333]
+### 5. Publication of review documents[^c-5cd29b3c0347b5bc431a9e7bc356f333]
 
 The local authority must, in relation to a review, make a copy of—
 
@@ -151,11 +151,11 @@ available for inspection on a website or by other electronic means until such ti
 
 ## PART 3 — Procedure for Determination
 
-### 6. Determination without further procedure[^key-e5790f7340476731ce9c0e536cab8bc5]
+### 6. Determination without further procedure[^c-e5790f7340476731ce9c0e536cab8bc5]
 
 Where the local authority considers that the review documents provide sufficient information to enable it to determine the review, it may determine the review without further procedure.
 
-### 7. Decision as to further procedure[^key-bd72110a5995c4dda73947fc8520ab67]
+### 7. Decision as to further procedure[^c-bd72110a5995c4dda73947fc8520ab67]
 
 (1) Where the local authority does not determine the review without further procedure, the local authority may determine the manner in which the review is to be conducted.
 
@@ -171,7 +171,7 @@ Where the local authority considers that the review documents provide sufficient
 
 (4) Notices given under regulation 8(1) or rule 1(1) of the Hearing Session Rules may be given separately or combined into a single notice.
 
-### 8. Written submissions[^key-977514df14bd3730cc09e5431a81bd02]
+### 8. Written submissions[^c-977514df14bd3730cc09e5431a81bd02]
 
 (1) Where the local authority has determined that further representations should be made or further information should be provided by means of written submissions, the local authority may request such further representations or information and is to do so by giving written notice to that effect to—
 
@@ -195,11 +195,11 @@ Where the local authority considers that the review documents provide sufficient
 
 (6) In this regulation “additional material” has the meaning given in paragraph (3).
 
-### 9. Time period for decision[^key-b495d499a391c363c1856988c375a6ca]
+### 9. Time period for decision[^c-b495d499a391c363c1856988c375a6ca]
 
 The period prescribed for the purposes of section 86(7)(b)(i) of the Act is the period of 6 months beginning with the date on which the application for review under section 86(2) of the Act is made.
 
-### 10. New evidence[^key-9f9e23e9b2e3754a49c0ee806a59baf5]
+### 10. New evidence[^c-9f9e23e9b2e3754a49c0ee806a59baf5]
 
 (1) If, after the conclusion of any further procedure conducted by virtue of regulation 7, the local authority proposes to take into consideration any new evidence which is material to the determination of the review, the local authority must not reach a decision on the review without first affording the community transfer body and any other relevant party an opportunity of making representations on such new evidence.
 
@@ -210,7 +210,7 @@ The period prescribed for the purposes of section 86(7)(b)(i) of the Act is the 
 
 ## PART 4 — Reviews under section 87(2) of the Act
 
-### 11. Reviews under section 87(2) of the Act[^key-513c271206e431dfd6d49f92e9a179c0]
+### 11. Reviews under section 87(2) of the Act[^c-513c271206e431dfd6d49f92e9a179c0]
 
 (1) An application for review under section 87(2) of the Act is to be made in writing in accordance with this regulation.
 
@@ -219,9 +219,9 @@ The period prescribed for the purposes of section 86(7)(b)(i) of the Act is the 
 - (a) section 87(1)(b)(i) or (ii) of the Act, the date of the decision notice; and
 - (b) section 87(1)(b)(iii) of the Act, the date of expiry of the period allowed for determination of the request.
 
-### 12. Review panel[^key-43ccecdb88aff4a93e1d0abf9c63e581]
+### 12. Review panel[^c-43ccecdb88aff4a93e1d0abf9c63e581]
 
-(1) Where an application for review is made the Scottish Ministers must appoint 3 persons, no more than one of whom may be a[^key-e43bd3a5c24cf90b566f0e9ed0f50457] member of the staff of the Scottish Ministers, to consider the asset transfer request and report to them on it (“the review panel”).
+(1) Where an application for review is made the Scottish Ministers must appoint 3 persons, no more than one of whom may be a[^c-e43bd3a5c24cf90b566f0e9ed0f50457] member of the staff of the Scottish Ministers, to consider the asset transfer request and report to them on it (“the review panel”).
 
 (2) Following such consideration the review panel must report–
 
@@ -230,7 +230,7 @@ The period prescribed for the purposes of section 86(7)(b)(i) of the Act is the 
 
 to the Scottish Ministers.
 
-### 13. Application of regulations[^key-566f33d033b327655daacb48c7ed6192]
+### 13. Application of regulations[^c-566f33d033b327655daacb48c7ed6192]
 
 These Regulations, other than regulations 3(1) and (2), 9 and 10, apply to a review under section 87(2) of the Act as they apply to a review under section 86(2) of the Act as if—
 
@@ -241,7 +241,7 @@ These Regulations, other than regulations 3(1) and (2), 9 and 10, apply to a rev
   - (i) for “does not determine the review without” there were substituted “consider that”; and
   - (ii) after “procedure” there were inserted “is desirable to assist them in the preparation of their report”.
 
-### 14. New evidence[^key-cfba2068e898802ae31fff46e4349732]
+### 14. New evidence[^c-cfba2068e898802ae31fff46e4349732]
 
 (1) If, after the consideration of the review panel’s report, the Scottish Ministers propose to take into consideration any new evidence which is material to the determination of the review, the Scottish Ministers must not reach a decision on the review without affording the community transfer body and any other relevant party an opportunity of making representations on such new evidence.
 
@@ -253,7 +253,7 @@ These Regulations, other than regulations 3(1) and (2), 9 and 10, apply to a rev
 
 ## PART 5 — General
 
-### 15. Further copies of documents etc.[^key-8aa7e03332e898d6c448d0325585d051]
+### 15. Further copies of documents etc.[^c-8aa7e03332e898d6c448d0325585d051]
 
 (1) The relevant authority may require any person who has submitted documents, materials or evidence under these Regulations in connection with the review to—
 
@@ -262,13 +262,13 @@ These Regulations, other than regulations 3(1) and (2), 9 and 10, apply to a rev
 
 (2) The relevant authority must, until such time as the review is determined, make copies of such documents, materials or evidence provided under paragraph (1)(a) available for inspection at an office of the relevant authority and, where practicable, must afford any person who so requests a reasonable opportunity of taking copies of such documents (or any part thereof).
 
-### 16. Compliance with notification and consultation procedures[^key-be0f649784612afa1e0971b98fdfca31]
+### 16. Compliance with notification and consultation procedures[^c-be0f649784612afa1e0971b98fdfca31]
 
 (1) The relevant authority must, to the extent not already done so, comply with regulations 6 (notification of asset transfer request) and 7 (publication of asset transfer request) of the Asset Transfer Request (Procedure) (Scotland) Regulations 2016[^f00003] before determining the review.
 
 (2) Where the relevant authority notifies any person in accordance with paragraph (1), references in these Regulations (other than regulation 4) to an interested party include any such person from whom the relevant authority received representations (which are not subsequently withdrawn) in connection with the asset transfer request.
 
-### 17. Decision notice[^key-cf28afa094a30f36df34e3d36474b1b6]
+### 17. Decision notice[^c-cf28afa094a30f36df34e3d36474b1b6]
 
 The relevant authority must—
 
@@ -276,19 +276,19 @@ The relevant authority must—
 - (b) notify every person who made (and did not subsequently withdraw) representations in respect of the review that a decision on the review has been made and how a copy of the notice of the decision may be inspected; and
 - (c) make a copy of the decision notice available for inspection on a website or by other electronic means.
 
-### 18. Contact address[^key-bba806baa7d5659a147937f61f1ab5fc][^key-a26532ab97f3568e8de99e79046ed579]
+### 18. Contact address[^c-bba806baa7d5659a147937f61f1ab5fc][^c-a26532ab97f3568e8de99e79046ed579]
 
 (1) In relation to a review to which these Regulations apply, the “contact address” is the address (or addresses), including any address (or addresses) for the purposes of electronic communication within the meaning of regulation 19, to which the community transfer body wishes any document relating to the review to be sent.
 
 (2) The contact address is the address (or addresses) included in the application for review unless the community transfer body subsequently expressly informs the relevant authority of a change to the contact address.
 
-### 19. Electronic communication[^key-24986b30aab9c62cef2284230f32734a]
+### 19. Electronic communication[^c-24986b30aab9c62cef2284230f32734a]
 
 (1) Where the criteria in paragraph (2) are met, any document required or authorised to be sent by these Regulations may be sent by electronic communication and any requirement in these Regulations that any document is to be in writing is fulfilled.
 
 (2) The criteria are—
 
-- (a) the recipient agrees, or is deemed to have agreed under paragraph (3) or (5A)[^key-e9e4b903e6058c86f1fb25d6ad98a005], to receive it electronically; and
+- (a) the recipient agrees, or is deemed to have agreed under paragraph (3) or (5A)[^c-e9e4b903e6058c86f1fb25d6ad98a005], to receive it electronically; and
 - (b) the document transmitted by electronic communication is—
   - (i) capable of being accessed by the recipient;
   - (ii) legible in all material respects; and
@@ -306,7 +306,7 @@ The relevant authority must—
 - (a) the date specified by the person in the notice; or
 - (b) the expiry of the period of 5 working days beginning with the date on which the notice is given.
 
-(5A)[^key-824e6111f4174a728323784ad5e60f35] Where the contact address includes an address (or addresses) for the purposes of electronic communication (“electronic communication contact address”) the community transfer body is taken to have agreed—
+(5A)[^c-824e6111f4174a728323784ad5e60f35] Where the contact address includes an address (or addresses) for the purposes of electronic communication (“electronic communication contact address”) the community transfer body is taken to have agreed—
 
 - (a) to the use of electronic communication for all purposes relating to the review which are capable of being carried out electronically; and
 - (b) that the address for the purposes of such communication is the electronic communication contact address.
@@ -321,7 +321,7 @@ The relevant authority must—
 - “address” includes any number or address used for the purpose of such communication or storage;
 - “document” includes any notice, consent, agreement, decision, representation, statement, report or other information or communication;
 - “electronic communication” has the meaning given in section 15(1) of the Electronic Communications Act 2000[^f00004];
-- “electronic communication contact address” has the meaning given in paragraph (5A);[^key-435b0ca3bcd861eda1427dea438e4b23]
+- “electronic communication contact address” has the meaning given in paragraph (5A);[^c-435b0ca3bcd861eda1427dea438e4b23]
 - “legible in all material respects” means that the information contained in the document is available to the recipient to no lesser extent than it would be if sent or given by means of a document in printed form; and
 - “sent” includes served, submitted or given and cognate expressions are to be construed accordingly.
 
@@ -339,7 +339,7 @@ Edinburgh
 
 Regulation 2
 
-### 1. Notice of hearing session and specified matters[^key-29a5ad6d3fdc325590619cf88ca7cc40]
+### 1. Notice of hearing session and specified matters[^c-29a5ad6d3fdc325590619cf88ca7cc40]
 
 (1) Where the local authority has determined that a hearing session should be held it is to give written notice to that effect to—
 
@@ -353,20 +353,20 @@ Regulation 2
 
 (4) A person given notice under paragraph (1)(b) or (c) and who intends to appear at the hearing session must within the period of 10 working days beginning with the date of such notice inform the local authority in writing of that intention.
 
-### 2. Appearances at hearing session[^key-e490132da5a5e68621a4179e0b37f664]
+### 2. Appearances at hearing session[^c-e490132da5a5e68621a4179e0b37f664]
 
 The persons entitled to appear at a hearing session are—
 
 - (a) the community transfer body; and
 - (b) any other person who, in response to a notice given under rule 1(1), has informed the local authority of their intention to appear at the hearing session in accordance with rule 1(4).
 
-### 3. Date and notification of hearing session[^key-fa72a99646fbbb2ce7c94f99d47f1f31]
+### 3. Date and notification of hearing session[^c-fa72a99646fbbb2ce7c94f99d47f1f31]
 
 (1) The date, time and place at which the hearing session is to be held is to be determined (and may subsequently be varied) by the local authority.
 
 (2) The local authority is to give to those persons entitled to appear at the hearing session such notice of the date, time and place fixed for the holding of a hearing session (and any subsequent variation thereof) as may appear to the local authority to be reasonable in the circumstances.
 
-### 4. Service of hearing statements and documents[^key-f0475fb8658d3577342d74e640b844b3]
+### 4. Service of hearing statements and documents[^c-f0475fb8658d3577342d74e640b844b3]
 
 (1) Where required to do so by notice given by the local authority, a person entitled to appear at the hearing session must, by such date as is specified in the notice, send to the local authority, the community transfer body and to such other persons entitled to appear at the hearing session as the local authority may specify in such notice—
 
@@ -388,7 +388,7 @@ The persons entitled to appear at a hearing session are—
 - (b) a list of documents (if any) which the person putting forward such case intends to refer to or rely on; and
 - (c) a list of any other persons who are to speak at the hearing session in respect of such case, any matters which such persons are particularly to address and any relevant qualifications of such persons to do so.
 
-### 5. Procedure at hearing[^key-bba8ba5ef238d0fcf1eb4316cdba27eb]
+### 5. Procedure at hearing[^c-bba8ba5ef238d0fcf1eb4316cdba27eb]
 
 (1) Except as otherwise provided in these Hearing Session Rules, the procedure at a hearing session shall be as the local authority determines.
 
@@ -432,66 +432,66 @@ Part 5 makes general provisions in relation to the provision of further copies o
 
 [^f00001]: Footnote: [2015 asp 6](https://www.legislation.gov.uk/asp/2015/6).
 
-[^key-48195aaf9d54027aed2d3b39237383c6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/358/regulation/1) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
+[^c-48195aaf9d54027aed2d3b39237383c6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/358/regulation/1) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
 
-[^key-427d3904869f779ef9f905a2b5c2adcc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/358/regulation/2) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
+[^c-427d3904869f779ef9f905a2b5c2adcc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/358/regulation/2) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
 
 [^f00002]: Footnote: [S.S.I. 2016/357](https://www.legislation.gov.uk/ssi/2016/357).
 
-[^key-398847424ce7512b93af5f95e8066a0b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/358/regulation/3) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
+[^c-398847424ce7512b93af5f95e8066a0b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/358/regulation/3) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
 
-[^key-4e430ef786fe7ff4396074586349095d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/358/regulation/4) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
+[^c-4e430ef786fe7ff4396074586349095d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/358/regulation/4) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
 
-[^key-5cd29b3c0347b5bc431a9e7bc356f333]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2016/358/regulation/5) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
+[^c-5cd29b3c0347b5bc431a9e7bc356f333]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2016/358/regulation/5) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
 
-[^key-e5790f7340476731ce9c0e536cab8bc5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2016/358/regulation/6) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
+[^c-e5790f7340476731ce9c0e536cab8bc5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2016/358/regulation/6) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
 
-[^key-bd72110a5995c4dda73947fc8520ab67]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2016/358/regulation/7) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
+[^c-bd72110a5995c4dda73947fc8520ab67]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2016/358/regulation/7) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
 
-[^key-977514df14bd3730cc09e5431a81bd02]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2016/358/regulation/8) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
+[^c-977514df14bd3730cc09e5431a81bd02]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2016/358/regulation/8) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
 
-[^key-b495d499a391c363c1856988c375a6ca]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2016/358/regulation/9) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
+[^c-b495d499a391c363c1856988c375a6ca]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2016/358/regulation/9) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
 
-[^key-9f9e23e9b2e3754a49c0ee806a59baf5]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2016/358/regulation/10) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
+[^c-9f9e23e9b2e3754a49c0ee806a59baf5]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2016/358/regulation/10) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
 
-[^key-513c271206e431dfd6d49f92e9a179c0]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2016/358/regulation/11) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
+[^c-513c271206e431dfd6d49f92e9a179c0]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2016/358/regulation/11) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
 
-[^key-43ccecdb88aff4a93e1d0abf9c63e581]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2016/358/regulation/12) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
+[^c-43ccecdb88aff4a93e1d0abf9c63e581]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2016/358/regulation/12) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
 
-[^key-e43bd3a5c24cf90b566f0e9ed0f50457]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/12/1) substituted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2016/411/regulation/3/2)
+[^c-e43bd3a5c24cf90b566f0e9ed0f50457]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/12/1) substituted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2016/411/regulation/3/2)
 
-[^key-566f33d033b327655daacb48c7ed6192]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2016/358/regulation/13) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
+[^c-566f33d033b327655daacb48c7ed6192]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2016/358/regulation/13) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
 
-[^key-cfba2068e898802ae31fff46e4349732]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2016/358/regulation/14) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
+[^c-cfba2068e898802ae31fff46e4349732]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2016/358/regulation/14) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
 
-[^key-8aa7e03332e898d6c448d0325585d051]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2016/358/regulation/15) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
+[^c-8aa7e03332e898d6c448d0325585d051]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2016/358/regulation/15) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
 
-[^key-be0f649784612afa1e0971b98fdfca31]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2016/358/regulation/16) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
+[^c-be0f649784612afa1e0971b98fdfca31]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2016/358/regulation/16) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
 
 [^f00003]: Footnote: [S.S.I. 2016/357](https://www.legislation.gov.uk/ssi/2016/357).
 
-[^key-cf28afa094a30f36df34e3d36474b1b6]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2016/358/regulation/17) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
+[^c-cf28afa094a30f36df34e3d36474b1b6]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2016/358/regulation/17) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
 
-[^key-bba806baa7d5659a147937f61f1ab5fc]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2016/358/regulation/18) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
+[^c-bba806baa7d5659a147937f61f1ab5fc]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2016/358/regulation/18) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
 
-[^key-a26532ab97f3568e8de99e79046ed579]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/ssi/2016/358/regulation/18) substituted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2016/411/regulation/3/3)
+[^c-a26532ab97f3568e8de99e79046ed579]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/ssi/2016/358/regulation/18) substituted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2016/411/regulation/3/3)
 
-[^key-24986b30aab9c62cef2284230f32734a]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2016/358/regulation/19) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
+[^c-24986b30aab9c62cef2284230f32734a]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2016/358/regulation/19) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
 
-[^key-e9e4b903e6058c86f1fb25d6ad98a005]: Textual amendment: Words in [reg. 19(2)(a)](https://www.legislation.gov.uk/ssi/2016/358/regulation/19/2/a) inserted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/ssi/2016/411/regulation/3/4/a)
+[^c-e9e4b903e6058c86f1fb25d6ad98a005]: Textual amendment: Words in [reg. 19(2)(a)](https://www.legislation.gov.uk/ssi/2016/358/regulation/19/2/a) inserted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/ssi/2016/411/regulation/3/4/a)
 
-[^key-824e6111f4174a728323784ad5e60f35]: Textual amendment: [Reg. 19(5A)](https://www.legislation.gov.uk/ssi/2016/358/regulation/19/5A)[(5B)](https://www.legislation.gov.uk/ssi/2016/358/regulation/19/5B) inserted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/ssi/2016/411/regulation/3/4/b)
+[^c-824e6111f4174a728323784ad5e60f35]: Textual amendment: [Reg. 19(5A)](https://www.legislation.gov.uk/ssi/2016/358/regulation/19/5A)[(5B)](https://www.legislation.gov.uk/ssi/2016/358/regulation/19/5B) inserted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/ssi/2016/411/regulation/3/4/b)
 
 [^f00004]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15 was amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), schedule 17, paragraph 158.
 
-[^key-435b0ca3bcd861eda1427dea438e4b23]: Textual amendment: Words in [reg. 19(6)](https://www.legislation.gov.uk/ssi/2016/358/regulation/19/6) inserted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [3(4)(c)](https://www.legislation.gov.uk/ssi/2016/411/regulation/3/4/c)
+[^c-435b0ca3bcd861eda1427dea438e4b23]: Textual amendment: Words in [reg. 19(6)](https://www.legislation.gov.uk/ssi/2016/358/regulation/19/6) inserted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [3(4)(c)](https://www.legislation.gov.uk/ssi/2016/411/regulation/3/4/c)
 
-[^key-29a5ad6d3fdc325590619cf88ca7cc40]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2016/358/schedule/paragraph/1) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
+[^c-29a5ad6d3fdc325590619cf88ca7cc40]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2016/358/schedule/paragraph/1) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
 
-[^key-e490132da5a5e68621a4179e0b37f664]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2016/358/schedule/paragraph/2) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
+[^c-e490132da5a5e68621a4179e0b37f664]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2016/358/schedule/paragraph/2) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
 
-[^key-fa72a99646fbbb2ce7c94f99d47f1f31]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2016/358/schedule/paragraph/3) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
+[^c-fa72a99646fbbb2ce7c94f99d47f1f31]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2016/358/schedule/paragraph/3) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
 
-[^key-f0475fb8658d3577342d74e640b844b3]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2016/358/schedule/paragraph/4) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
+[^c-f0475fb8658d3577342d74e640b844b3]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2016/358/schedule/paragraph/4) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
 
-[^key-bba8ba5ef238d0fcf1eb4316cdba27eb]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2016/358/schedule/paragraph/5) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)
+[^c-bba8ba5ef238d0fcf1eb4316cdba27eb]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2016/358/schedule/paragraph/5) in force at 23.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/358/regulation/1/1)

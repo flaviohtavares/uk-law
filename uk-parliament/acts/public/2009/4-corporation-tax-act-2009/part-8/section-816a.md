@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 816A. Restrictions on goodwill and certain other assets[^key-6c5996cd590597b83e310778c1660d63]
+## 816A. Restrictions on goodwill and certain other assets[^c-6c5996cd590597b83e310778c1660d63]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c5996cd590597b83e310778c1660d63]: Textual amendment: S. 816A omitted (with effect in accordance with Sch. 9 para. 7 of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2019/1/schedule/9/paragraph/5)
+[^c-6c5996cd590597b83e310778c1660d63]: Textual amendment: S. 816A omitted (with effect in accordance with Sch. 9 para. 7 of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2019/1/schedule/9/paragraph/5)

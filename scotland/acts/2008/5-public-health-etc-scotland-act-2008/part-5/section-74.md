@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Inspection of premises in relation to which notice served[^key-db8d471a2e40f2e9fde67be059b5a586]
+## 74. Inspection of premises in relation to which notice served[^c-db8d471a2e40f2e9fde67be059b5a586]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db8d471a2e40f2e9fde67be059b5a586]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2008/5/section/74) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-db8d471a2e40f2e9fde67be059b5a586]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2008/5/section/74) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

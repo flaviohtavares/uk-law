@@ -39,18 +39,18 @@ amending Decision 2004/388/EC on an Intra-Community transfer of explosives docum
 
 (2010/347/EU) (revoked)
 
-[^key-a051b7b970e81c3c4c2c1e80b58e38b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a051b7b970e81c3c4c2c1e80b58e38b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-a051b7b970e81c3c4c2c1e80b58e38b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-a051b7b970e81c3c4c2c1e80b58e38b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-a051b7b970e81c3c4c2c1e80b58e38b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-a051b7b970e81c3c4c2c1e80b58e38b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-a051b7b970e81c3c4c2c1e80b58e38b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-a051b7b970e81c3c4c2c1e80b58e38b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a051b7b970e81c3c4c2c1e80b58e38b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a051b7b970e81c3c4c2c1e80b58e38b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a051b7b970e81c3c4c2c1e80b58e38b1]: Textual amendment: Decision revoked (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 16 para. 36(b)](https://www.legislation.gov.uk/uksi/2019/696/schedule/16/paragraph/36/b) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a051b7b970e81c3c4c2c1e80b58e38b1]: Textual amendment: Decision revoked (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 16 para. 36(b)](https://www.legislation.gov.uk/uksi/2019/696/schedule/16/paragraph/36/b) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

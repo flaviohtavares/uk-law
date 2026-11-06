@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Proposal to register tip[^key-b7273cd7f033a11d60b1476c3d6d857d]
+## 20. Proposal to register tip[^c-b7273cd7f033a11d60b1476c3d6d857d]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7273cd7f033a11d60b1476c3d6d857d]: Commencement: S. 20 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-b7273cd7f033a11d60b1476c3d6d857d]: Commencement: S. 20 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

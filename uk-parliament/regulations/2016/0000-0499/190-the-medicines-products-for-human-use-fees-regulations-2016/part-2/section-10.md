@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Fee for advice for other purposes[^key-53f0058fe7f90d0283d580d1633bce7b]
+## 10. Fee for advice for other purposes[^c-53f0058fe7f90d0283d580d1633bce7b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53f0058fe7f90d0283d580d1633bce7b]: Textual amendment: Reg. 10 omitted (1.4.2025) by virtue of [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2025/317/regulation/10)
+[^c-53f0058fe7f90d0283d580d1633bce7b]: Textual amendment: Reg. 10 omitted (1.4.2025) by virtue of [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2025/317/regulation/10)

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**289.**[^key-5639c644d0e9498e683cb00d3723b257] For section 107(6) (interpretation of chapter) substitute—
+**289.**[^c-5639c644d0e9498e683cb00d3723b257] For section 107(6) (interpretation of chapter) substitute—
 
 > (6) In this Chapter, references to a child who is looked after by a local authority are to be construed—
 >
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5639c644d0e9498e683cb00d3723b257]: Commencement: Reg. 289 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-5639c644d0e9498e683cb00d3723b257]: Commencement: Reg. 289 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

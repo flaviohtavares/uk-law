@@ -42,7 +42,7 @@ Coming into operation
 
 The Department for Employment and Learning[^f00001], in exercise of the powers conferred by Articles 15(2), 49(2), 77(2) and 106(2) of the Trade Union and Labour Relations (Northern Ireland) Order 1995[^f00002], and now vested in it[^f00003], makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-44c77b5c74e8d3618c9bb1575fc7be01]
+## 1. Citation, commencement and interpretation[^c-44c77b5c74e8d3618c9bb1575fc7be01]
 
 (1) This Order may be cited as the Trade Union Ballots and Elections (Independent Scrutineer Qualifications) Order (Northern Ireland) 2010 and shall come into operation on 6th April 2010.
 
@@ -52,11 +52,11 @@ The Department for Employment and Learning[^f00001], in exercise of the powers c
 - “an individual potentially qualified to be a scrutineer” means an individual who satisfies the requirement specified in either paragraph (a) of Article 3 or paragraph (a) of Article 4;
 - “the relevant provisions” means the provisions of Articles 15(2)(a), 49(2)(a), 77(2)(a) and 106(2)(a) of the 1995 Order.
 
-## 2. Qualifications[^key-77b9d1da1d2a9e828d10eb7ff38936b6]
+## 2. Qualifications[^c-77b9d1da1d2a9e828d10eb7ff38936b6]
 
 An individual satisfies the condition specified for the purposes of the relevant provisions in relation to a ballot or election, (as the case may be), if he satisfies the condition specified in Article 3 or 4.
 
-**3.**[^key-8bc2bbe4efe46b0267bd3bf30e48af99] An individual satisfies this condition if—
+**3.**[^c-8bc2bbe4efe46b0267bd3bf30e48af99] An individual satisfies this condition if—
 
 - (a) he has in force a practising certificate issued by one or more of the following bodies—
   - (i) the Law Society of Northern Ireland;
@@ -66,24 +66,24 @@ An individual satisfies the condition specified for the purposes of the relevant
   and;
 - (b) he is not disqualified from satisfying this condition by virtue of Article 5.
 
-**4.**[^key-6e8ed45515a09ef5daa5b9350c72d918] An individual satisfies this condition if—
+**4.**[^c-6e8ed45515a09ef5daa5b9350c72d918] An individual satisfies this condition if—
 
 - (a) he is qualified to be an auditor of a trade union by virtue of paragraph 6 of Schedule 1 to the Industrial Relations (Northern Ireland) Order 1992[^f00004]; and
 - (b) he is not disqualified from satisfying this condition by virtue of Article 5.
 
-**5.**[^key-7a35d4148ac7c7e7c092348bf5d54a47] (1) An individual potentially qualified to be a scrutineer does not satisfy the condition specified in article 3 or 4 if he or any existing partner of his has—
+**5.**[^c-7a35d4148ac7c7e7c092348bf5d54a47] (1) An individual potentially qualified to be a scrutineer does not satisfy the condition specified in article 3 or 4 if he or any existing partner of his has—
 
 - (a) during the preceding 12 months, been a member, an officer or an employee of the trade union proposing to hold the ballot or election; or
 - (b) in acting at any time as a scrutineer for any trade union, knowingly permitted any member, officer or employee of the trade union to assist him in carrying out any of the functions referred to in Articles 15(3), 49(3), 77 (3) and 106(1) of the 1995 Order.
 
 (2) References in this Article to an officer shall be construed as not including an auditor.
 
-**6.**[^key-c81893cd762476e4c3326fd34e9f18f3] A partnership satisfies the condition specified for the purposes of the relevant provisions in relation to a ballot or election, (as the case may be), if—
+**6.**[^c-c81893cd762476e4c3326fd34e9f18f3] A partnership satisfies the condition specified for the purposes of the relevant provisions in relation to a ballot or election, (as the case may be), if—
 
 - (a) every member of the partnership is an individual potentially qualified to be a scrutineer; and
 - (b) no member of the partnership is disqualified from being a scrutineer by virtue of Article 5.
 
-## 7. Persons specified by name[^key-b5892cf52a9371e5019c436cbed31882]
+## 7. Persons specified by name[^c-b5892cf52a9371e5019c436cbed31882]
 
 The following persons are specified for the purposes of the relevant provisions—
 
@@ -94,7 +94,7 @@ The following persons are specified for the purposes of the relevant provisions�
 - Democracy Technology Limited (trading as Mi-Voice); and
 - Kanto Elect Limited.
 
-## 8. Revocation[^key-e1e3038089a5cbd3b2ff93beb4191bde]
+## 8. Revocation[^c-e1e3038089a5cbd3b2ff93beb4191bde]
 
 The Trade Union Elections and Ballots (Independent Scrutineer Qualifications) Order (Northern Ireland) 1992[^f00005] and the Trade Union Elections and Ballots (Independent Scrutineer Qualifications) (Amendment) Order (Northern Ireland) 2003[^f00006] are hereby revoked.
 
@@ -131,23 +131,23 @@ An impact assessment has not been produced for this statutory rule as no impact 
 
 [^f00003]: Footnote: *See* [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-44c77b5c74e8d3618c9bb1575fc7be01]: Commencement: Art. 1 in operation at 6.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2010/78/article/1/1)
+[^c-44c77b5c74e8d3618c9bb1575fc7be01]: Commencement: Art. 1 in operation at 6.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2010/78/article/1/1)
 
-[^key-77b9d1da1d2a9e828d10eb7ff38936b6]: Commencement: Art. 2 in operation at 6.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2010/78/article/1/1)
+[^c-77b9d1da1d2a9e828d10eb7ff38936b6]: Commencement: Art. 2 in operation at 6.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2010/78/article/1/1)
 
-[^key-8bc2bbe4efe46b0267bd3bf30e48af99]: Commencement: Art. 3 in operation at 6.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2010/78/article/1/1)
+[^c-8bc2bbe4efe46b0267bd3bf30e48af99]: Commencement: Art. 3 in operation at 6.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2010/78/article/1/1)
 
-[^key-6e8ed45515a09ef5daa5b9350c72d918]: Commencement: Art. 4 in operation at 6.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2010/78/article/1/1)
+[^c-6e8ed45515a09ef5daa5b9350c72d918]: Commencement: Art. 4 in operation at 6.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2010/78/article/1/1)
 
 [^f00004]: Footnote: [S.I. 1992/807 (N.I. 5)](https://www.legislation.gov.uk/nisi/1992/807); paragraph 6 of Schedule 1 was substituted by paragraph 22 of the Schedule to the Companies (1990 Order) (Eligibility for Appointment as Company Auditor) (Consequential Amendments) Regulations (Northern Ireland) 1993 ([S.R. 1993 No. 67](https://www.legislation.gov.uk/nisr/1993/67)) and amended by paragraph 2(g) of Schedule 1 to the Companies Act 2006 (Consequential Amendments etc) Order 2008 ([S.I. 2008/948](https://www.legislation.gov.uk/uksi/2008/948)).
 
-[^key-7a35d4148ac7c7e7c092348bf5d54a47]: Commencement: Art. 5 in operation at 6.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2010/78/article/1/1)
+[^c-7a35d4148ac7c7e7c092348bf5d54a47]: Commencement: Art. 5 in operation at 6.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2010/78/article/1/1)
 
-[^key-c81893cd762476e4c3326fd34e9f18f3]: Commencement: Art. 6 in operation at 6.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2010/78/article/1/1)
+[^c-c81893cd762476e4c3326fd34e9f18f3]: Commencement: Art. 6 in operation at 6.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2010/78/article/1/1)
 
-[^key-b5892cf52a9371e5019c436cbed31882]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/nisr/2010/78/article/7) substituted (17.12.2017) by [The Trade Union Ballots and Elections (Independent Scrutineer Qualifications) (Amendment) Order (Northern Ireland) 2017 (S.R. 2017/224)](https://www.legislation.gov.uk/nisr/2017/224), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2017/224/article/1/1), [2](https://www.legislation.gov.uk/nisr/2017/224/article/2)
+[^c-b5892cf52a9371e5019c436cbed31882]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/nisr/2010/78/article/7) substituted (17.12.2017) by [The Trade Union Ballots and Elections (Independent Scrutineer Qualifications) (Amendment) Order (Northern Ireland) 2017 (S.R. 2017/224)](https://www.legislation.gov.uk/nisr/2017/224), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2017/224/article/1/1), [2](https://www.legislation.gov.uk/nisr/2017/224/article/2)
 
-[^key-e1e3038089a5cbd3b2ff93beb4191bde]: Commencement: Art. 8 in operation at 6.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2010/78/article/1/1)
+[^c-e1e3038089a5cbd3b2ff93beb4191bde]: Commencement: Art. 8 in operation at 6.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2010/78/article/1/1)
 
 [^f00005]: Footnote: [S.R. 1992 No. 241](https://www.legislation.gov.uk/nisr/1992/241)
 

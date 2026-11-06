@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Interpretation[^key-7689d167b0bf9cc2cac4999c06da8ddd]
+## 17. Interpretation[^c-7689d167b0bf9cc2cac4999c06da8ddd]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ In this Act—
 
 ## Annotations
 
-[^key-7689d167b0bf9cc2cac4999c06da8ddd]: Commencement: [S. 17](https://www.legislation.gov.uk/asc/2021/3/section/17) in force at 8.4.2021, see [s. 19(1)](https://www.legislation.gov.uk/asc/2021/3/section/19/1)
+[^c-7689d167b0bf9cc2cac4999c06da8ddd]: Commencement: [S. 17](https://www.legislation.gov.uk/asc/2021/3/section/17) in force at 8.4.2021, see [s. 19(1)](https://www.legislation.gov.uk/asc/2021/3/section/19/1)

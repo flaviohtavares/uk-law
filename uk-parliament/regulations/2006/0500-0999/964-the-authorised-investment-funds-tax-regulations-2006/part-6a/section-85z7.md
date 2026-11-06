@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85Z7. Modification of section 162 TCGA 1992[^key-e7d651ce46fa813c235c276ae9ffac81]
+## 85Z7. Modification of section 162 TCGA 1992[^c-e7d651ce46fa813c235c276ae9ffac81]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7d651ce46fa813c235c276ae9ffac81]: Textual amendment: Pt. 6A inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2010 (S.I. 2010/294)](https://www.legislation.gov.uk/uksi/2010/294), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/294/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2010/294/regulation/21) (with [regs. 25](https://www.legislation.gov.uk/uksi/2010/294/regulation/25), [26](https://www.legislation.gov.uk/uksi/2010/294/regulation/26))
+[^c-e7d651ce46fa813c235c276ae9ffac81]: Textual amendment: Pt. 6A inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2010 (S.I. 2010/294)](https://www.legislation.gov.uk/uksi/2010/294), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/294/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2010/294/regulation/21) (with [regs. 25](https://www.legislation.gov.uk/uksi/2010/294/regulation/25), [26](https://www.legislation.gov.uk/uksi/2010/294/regulation/26))

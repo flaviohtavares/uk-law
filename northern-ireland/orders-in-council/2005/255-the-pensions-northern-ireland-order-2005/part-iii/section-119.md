@@ -28,7 +28,7 @@ summary: ''
 
 (4) During the assessment period, except in prescribed circumstances and subject to prescribed conditions—
 
-- (za)[^key-2102b2cb8b4593f226751ecb2e010d46] no right or entitlement of any member, or of any other person in respect of a member, to a benefit that is not a money purchase benefit is to be converted into, or replaced with, a right or entitlement to a money purchase benefit under the scheme rules,
+- (za)[^c-2102b2cb8b4593f226751ecb2e010d46] no right or entitlement of any member, or of any other person in respect of a member, to a benefit that is not a money purchase benefit is to be converted into, or replaced with, a right or entitlement to a money purchase benefit under the scheme rules,
 - (a) no transfers of, or transfer payments in respect of, any member's rights under the scheme rules are to be made from the scheme, and
 - (b) no other steps may be taken to discharge any liability of the scheme to or in respect of a member of the scheme in respect of—
   - (i) pensions or other benefits, or
@@ -42,7 +42,7 @@ summary: ''
 (6) Paragraph (7) applies where, on the commencement of the assessment period—
 
 - (a) a member's pensionable service terminates, and
-- (b) he becomes a person to whom Chapter 2 of Part 4ZA[^key-b193b52ddd3ffb34c72d911b96badcf3] of the Pension Schemes Act (early leavers: cash transfer sums and contribution refunds) applies.
+- (b) he becomes a person to whom Chapter 2 of Part 4ZA[^c-b193b52ddd3ffb34c72d911b96badcf3] of the Pension Schemes Act (early leavers: cash transfer sums and contribution refunds) applies.
 
 Article 134(5) (retrospective accrual of benefits in certain circumstances) is to be disregarded for the purposes of determining whether a member falls within sub-paragraph (a) or (b).
 
@@ -63,6 +63,6 @@ Article 134(5) (retrospective accrual of benefits in certain circumstances) is t
 
 [^c17103891]: Textual amendment: mod. by SR 2005/91
 
-[^key-2102b2cb8b4593f226751ecb2e010d46]: Textual amendment: [Art. 119(4)(za)](https://www.legislation.gov.uk/nisi/2005/255/article/119/4/za) inserted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [ss. 64(3)](https://www.legislation.gov.uk/ukpga/2015/8/section/64/3), [89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-2102b2cb8b4593f226751ecb2e010d46]: Textual amendment: [Art. 119(4)(za)](https://www.legislation.gov.uk/nisi/2005/255/article/119/4/za) inserted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [ss. 64(3)](https://www.legislation.gov.uk/ukpga/2015/8/section/64/3), [89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
 
-[^key-b193b52ddd3ffb34c72d911b96badcf3]: Textual amendment: Words in [art. 119(6)(b)](https://www.legislation.gov.uk/nisi/2005/255/article/119/6/b) substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 85](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/85) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-b193b52ddd3ffb34c72d911b96badcf3]: Textual amendment: Words in [art. 119(6)(b)](https://www.legislation.gov.uk/nisi/2005/255/article/119/6/b) substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 85](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/85) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))

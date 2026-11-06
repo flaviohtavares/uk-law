@@ -47,7 +47,7 @@ Coming into force
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by sections 74(1), (5) and (5A), 74A(10)(a) and 104(1) and (1A) of, and paragraphs 4(1) and 5(2) of Schedule 4B to, the New Roads and Street Works Act 1991[^f00001] and sections 37(1) and (6) and 39(2) of the Traffic Management Act 2004[^f00002].
 
-## 1. Citation, commencement and extent[^key-5a28640e23a17a5ddce888a1a873f9f3]
+## 1. Citation, commencement and extent[^c-5a28640e23a17a5ddce888a1a873f9f3]
 
 (1) These Regulations may be cited as the Street and Road Works (Charges and Penalties) (Amendments) (England) Regulations 2025.
 
@@ -55,7 +55,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (3) These Regulations extend to England and Wales.
 
-## 2. Amendments to the Street Works (Fixed Penalty) (England) Regulations 2007[^key-bbb25de7bd73fc83f63a69e515ad8a68]
+## 2. Amendments to the Street Works (Fixed Penalty) (England) Regulations 2007[^c-bbb25de7bd73fc83f63a69e515ad8a68]
 
 (1) The Street Works (Fixed Penalty) (England) Regulations 2007[^f00003] are amended as follows.
 
@@ -64,7 +64,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - (a) in each entry in column 4, for “£120” substitute “£240”;
 - (b) in each entry in column 5, for “£80” substitute “£160”.
 
-## 3. Amendments to the Traffic Management Permit Scheme (England) Regulations 2007[^key-3d6aeb9f9dd98bf6b89ee7609c2c0499]
+## 3. Amendments to the Traffic Management Permit Scheme (England) Regulations 2007[^c-3d6aeb9f9dd98bf6b89ee7609c2c0499]
 
 (1) The Traffic Management Permit Scheme (England) Regulations 2007[^f00004] are amended as follows.
 
@@ -78,7 +78,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - (a) in sub-paragraph (a), for “£300” substitute “£600”;
 - (b) in sub-paragraph (b), for “£80” substitute “£160”.
 
-## 4. Amendments to the Street Works (Charges for Unreasonably Prolonged Occupation of the Highway) (England) Regulations 2009[^key-ef3de4f6a333d1ccaeb56a607279bafb]
+## 4. Amendments to the Street Works (Charges for Unreasonably Prolonged Occupation of the Highway) (England) Regulations 2009[^c-ef3de4f6a333d1ccaeb56a607279bafb]
 
 (1) The Street Works (Charges for Unreasonably Prolonged Occupation of the Highway) (England) Regulations 2009[^f00005] are amended as follows.
 
@@ -88,7 +88,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - (b) in each place it occurs in paragraph (4) (including Table 1); and
 - (c) in paragraph 5, in Table 2.
 
-## 5. Amendments to the Street Works (Charges for Occupation of the Highway) (England) Regulations 2012[^key-16b9c310f14895954fffe22fa8580a79]
+## 5. Amendments to the Street Works (Charges for Occupation of the Highway) (England) Regulations 2012[^c-16b9c310f14895954fffe22fa8580a79]
 
 (1) The Street Works (Charges for Occupation of the Highway) (England) Regulations 2012[^f00006] are amended as follows.
 
@@ -135,21 +135,21 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00002]: Footnote: [2004 c. 18](https://www.legislation.gov.uk/ukpga/2004/18). Sections 37 and 39 were amended by section 51 of, and paragraphs 9 and 10 of Schedule 10 to, the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20).
 
-[^key-5a28640e23a17a5ddce888a1a873f9f3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/1074/regulation/1) in force at 5.1.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1074/regulation/1/2)
+[^c-5a28640e23a17a5ddce888a1a873f9f3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/1074/regulation/1) in force at 5.1.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1074/regulation/1/2)
 
-[^key-bbb25de7bd73fc83f63a69e515ad8a68]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/1074/regulation/2) in force at 5.1.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1074/regulation/1/2)
+[^c-bbb25de7bd73fc83f63a69e515ad8a68]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/1074/regulation/2) in force at 5.1.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1074/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2007/1952](https://www.legislation.gov.uk/uksi/2007/1952), to which there are amendments not relevant to these Regulations.
 
-[^key-3d6aeb9f9dd98bf6b89ee7609c2c0499]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/1074/regulation/3) in force at 5.1.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1074/regulation/1/2)
+[^c-3d6aeb9f9dd98bf6b89ee7609c2c0499]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/1074/regulation/3) in force at 5.1.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1074/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 2007/3372](https://www.legislation.gov.uk/uksi/2007/3372), to which there are amendments not relevant to these Regulations.
 
-[^key-ef3de4f6a333d1ccaeb56a607279bafb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/1074/regulation/4) in force at 5.1.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1074/regulation/1/2)
+[^c-ef3de4f6a333d1ccaeb56a607279bafb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/1074/regulation/4) in force at 5.1.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1074/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 2009/303](https://www.legislation.gov.uk/uksi/2009/303), amended by [S.I. 2009/1178](https://www.legislation.gov.uk/uksi/2009/1178), [2012/2272](https://www.legislation.gov.uk/uksi/2012/2272), [2020/122](https://www.legislation.gov.uk/uksi/2020/122), [2022/831](https://www.legislation.gov.uk/uksi/2022/831); there are other amending instruments but none is relevant.
 
-[^key-16b9c310f14895954fffe22fa8580a79]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/1074/regulation/5) in force at 5.1.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1074/regulation/1/2)
+[^c-16b9c310f14895954fffe22fa8580a79]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/1074/regulation/5) in force at 5.1.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1074/regulation/1/2)
 
 [^f00006]: Footnote: [S.I. 2012/425](https://www.legislation.gov.uk/uksi/2012/425), to which there are amendments not relevant to these Regulations.
 

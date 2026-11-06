@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. National Statistician: executive functions[^key-601487dd923528e0a8cc0399292b7ac5]
+## 31. National Statistician: executive functions[^c-601487dd923528e0a8cc0399292b7ac5]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-601487dd923528e0a8cc0399292b7ac5]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2007/18/section/31) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-601487dd923528e0a8cc0399292b7ac5]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2007/18/section/31) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)

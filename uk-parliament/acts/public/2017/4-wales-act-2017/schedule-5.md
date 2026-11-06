@@ -26,7 +26,7 @@ Section 60
 
 #### Duty to fill vacancies
 
-**1.**[^key-f9c3dd2f1ee555b178a0b6f2420516e2] (1) If there is a vacancy in the office of President of Welsh Tribunals, the Lord Chief Justice must appoint a person to that office.
+**1.**[^c-f9c3dd2f1ee555b178a0b6f2420516e2] (1) If there is a vacancy in the office of President of Welsh Tribunals, the Lord Chief Justice must appoint a person to that office.
 
 (2) Sub-paragraph (1) does not apply to a vacancy while the Lord Chief Justice, the Lord Chancellor and the Welsh Ministers all agree that it may remain unfilled.
 
@@ -34,7 +34,7 @@ Section 60
 
 #### The two routes to appointment: agreement under this paragraph or selection under Part 2
 
-**2.**[^key-37426ce9a1189d799f2de3c35c0e94a5] (1) The Lord Chief Justice, before he or she may appoint a person to the office of President of Welsh Tribunals, must consult—
+**2.**[^c-37426ce9a1189d799f2de3c35c0e94a5] (1) The Lord Chief Justice, before he or she may appoint a person to the office of President of Welsh Tribunals, must consult—
 
 - (a) the Lord Chancellor, and
 - (b) the Welsh Ministers.
@@ -61,11 +61,11 @@ the Lord Chief Justice must, instead of appointing the person, consult afresh un
 
 #### Eligibility for selection
 
-**3.**[^key-5fcfd00899abcae77cea3606851948f4] A person is eligible for selection in pursuance of a request under paragraph 2(5) only if he or she satisfies the judicial-appointment eligibility condition on a 7-year basis.
+**3.**[^c-5fcfd00899abcae77cea3606851948f4] A person is eligible for selection in pursuance of a request under paragraph 2(5) only if he or she satisfies the judicial-appointment eligibility condition on a 7-year basis.
 
 #### The selection process
 
-**4.**[^key-d62307e3ff79ab6defc62f44a0ab3d4a] (1) On receiving a request from the Lord Chief Justice under paragraph 2(5) the Commission must appoint a selection panel.
+**4.**[^c-d62307e3ff79ab6defc62f44a0ab3d4a] (1) On receiving a request from the Lord Chief Justice under paragraph 2(5) the Commission must appoint a selection panel.
 
 (2) The panel must have an odd number of members not less than five.
 
@@ -96,7 +96,7 @@ Contributions to meeting more than one of the requirements may be made by the sa
 
 #### Merit and good character
 
-**5.**[^key-3b999c9a70b004ea64f7dc14d05caf4f] (1) This paragraph applies to any selection by a selection panel appointed under paragraph 4.
+**5.**[^c-3b999c9a70b004ea64f7dc14d05caf4f] (1) This paragraph applies to any selection by a selection panel appointed under paragraph 4.
 
 (2) Selection must be solely on merit.
 
@@ -109,13 +109,13 @@ Contributions to meeting more than one of the requirements may be made by the sa
 
 #### Encouragement of diversity
 
-**6.**[^key-4fefc1d970ad2af91a6d2a5398b0adf2] (1) A selection panel appointed under paragraph 4, in performing its functions under this Part, must have regard to the need to encourage diversity in the range of persons available for selection.
+**6.**[^c-4fefc1d970ad2af91a6d2a5398b0adf2] (1) A selection panel appointed under paragraph 4, in performing its functions under this Part, must have regard to the need to encourage diversity in the range of persons available for selection.
 
 (2) This paragraph is subject to paragraph 5.
 
 #### Regulations about selection
 
-**7.**[^key-757aaa5a00cc366eed56947767f218f1] (1) The Lord Chancellor must by regulations made with the agreement of the Lord Chief Justice and the Welsh Ministers—
+**7.**[^c-757aaa5a00cc366eed56947767f218f1] (1) The Lord Chancellor must by regulations made with the agreement of the Lord Chief Justice and the Welsh Ministers—
 
 - (a) make further provision about the process to be applied in a case where the Commission receives a request under paragraph 2(5);
 - (b) make further provision about—
@@ -155,7 +155,7 @@ A statutory instrument containing regulations under this paragraph may not be ma
 
 #### Withdrawal and modification of requests
 
-**8.**[^key-48bf43197650e3ca83b412921fcad413] (1) The Lord Chief Justice may withdraw a request under paragraph 2(5)—
+**8.**[^c-48bf43197650e3ca83b412921fcad413] (1) The Lord Chief Justice may withdraw a request under paragraph 2(5)—
 
 - (a) with the agreement of the Welsh Ministers, or
 - (b) if, after consulting Welsh Ministers, the Lord Chief Justice considers the selection process determined by the selection panel is not satisfactory, or has not been applied satisfactorily.
@@ -184,7 +184,7 @@ A statutory instrument containing regulations under this paragraph may not be ma
 
 #### Effect of acceptance of selection
 
-**9.**[^key-37b2c834abf44b421ae6a70ec10c694c] (1) Subject to the following provisions of this paragraph, where the Lord Chief Justice accepts a selection made under paragraph 4(4) he or she must appoint the person selected.
+**9.**[^c-37b2c834abf44b421ae6a70ec10c694c] (1) Subject to the following provisions of this paragraph, where the Lord Chief Justice accepts a selection made under paragraph 4(4) he or she must appoint the person selected.
 
 (2) Before making the appointment the Lord Chief Justice may direct the Commission to make arrangements in accordance with the direction—
 
@@ -207,7 +207,7 @@ A statutory instrument containing regulations under this paragraph may not be ma
 
 #### Tenure, removal, resignation etc
 
-**10.**[^key-7d72c248f0968689d6bd7393ffee62af] (1) If—
+**10.**[^c-7d72c248f0968689d6bd7393ffee62af] (1) If—
 
 - (a) a person is appointed to the office of President of Welsh Tribunals on terms that provide for him or her to retire from the office at a particular time specified in those terms (““the end of the fixed term””), and
 - (b) the end of the fixed term is earlier than the time at which the person is required by the 1993 Act to retire from the office,
@@ -220,9 +220,9 @@ the person shall, if still holding the office at the end of the fixed term, vaca
 
 (4) In this paragraph “**"the 1993 Act”**” means the Judicial Pensions and Retirement Act 1993.
 
-**11.**[^key-bd39823e6a6fc9dfbdbfce963178979f] A person who holds the office of President of Welsh Tribunals may at any time resign that office by giving the Lord Chief Justice notice in writing to that effect.
+**11.**[^c-bd39823e6a6fc9dfbdbfce963178979f] A person who holds the office of President of Welsh Tribunals may at any time resign that office by giving the Lord Chief Justice notice in writing to that effect.
 
-**12.**[^key-e27020dd1fa47aeeec150ecb49a3bc9b] (1) The Lord Chief Justice, if satisfied by means of a medical certificate that a person holding the office of President of Welsh Tribunals—
+**12.**[^c-e27020dd1fa47aeeec150ecb49a3bc9b] (1) The Lord Chief Justice, if satisfied by means of a medical certificate that a person holding the office of President of Welsh Tribunals—
 
 - (a) is disabled by permanent infirmity from the performance of the duties of the office, and
 - (b) is for the time being incapacitated from resigning the office,
@@ -236,7 +236,7 @@ may, subject to sub-paragraph (2), by instrument under his or her hand declare t
 
 #### Remuneration, allowances and expenses
 
-**13.**[^key-c8f12e4b86744b89923d237bb579ed3e] The Welsh Ministers may pay to the President of Welsh Tribunals whatever amounts they determine in respect of—
+**13.**[^c-c8f12e4b86744b89923d237bb579ed3e] The Welsh Ministers may pay to the President of Welsh Tribunals whatever amounts they determine in respect of—
 
 - (a) remuneration;
 - (b) allowances;
@@ -244,7 +244,7 @@ may, subject to sub-paragraph (2), by instrument under his or her hand declare t
 
 #### Oaths
 
-**14.**[^key-b87a40a87ad2d84f8fd2f2035e43abc4] (1) A person appointed to the office of President of Welsh Tribunals must take the required oaths in the presence of—
+**14.**[^c-b87a40a87ad2d84f8fd2f2035e43abc4] (1) A person appointed to the office of President of Welsh Tribunals must take the required oaths in the presence of—
 
 - (a) the Lord Chief Justice, or
 - (b) another holder of high judicial office (as defined in section 60(2) of the Constitutional Reform Act 2005) who is nominated by the Lord Chief Justice for the purpose of taking the oaths from the person.
@@ -260,30 +260,30 @@ as set out in the Promissory Oaths Act 1868.
 
 ## Annotations
 
-[^key-f9c3dd2f1ee555b178a0b6f2420516e2]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/5/paragraph/1) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
+[^c-f9c3dd2f1ee555b178a0b6f2420516e2]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/5/paragraph/1) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
 
-[^key-37426ce9a1189d799f2de3c35c0e94a5]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2017/4/schedule/5/paragraph/2) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
+[^c-37426ce9a1189d799f2de3c35c0e94a5]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2017/4/schedule/5/paragraph/2) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
 
-[^key-5fcfd00899abcae77cea3606851948f4]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2017/4/schedule/5/paragraph/3) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
+[^c-5fcfd00899abcae77cea3606851948f4]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2017/4/schedule/5/paragraph/3) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
 
-[^key-d62307e3ff79ab6defc62f44a0ab3d4a]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2017/4/schedule/5/paragraph/4) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
+[^c-d62307e3ff79ab6defc62f44a0ab3d4a]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2017/4/schedule/5/paragraph/4) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
 
-[^key-3b999c9a70b004ea64f7dc14d05caf4f]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2017/4/schedule/5/paragraph/5) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
+[^c-3b999c9a70b004ea64f7dc14d05caf4f]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2017/4/schedule/5/paragraph/5) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
 
-[^key-4fefc1d970ad2af91a6d2a5398b0adf2]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/5/paragraph/6) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
+[^c-4fefc1d970ad2af91a6d2a5398b0adf2]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/5/paragraph/6) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
 
-[^key-757aaa5a00cc366eed56947767f218f1]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2017/4/schedule/5/paragraph/7) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
+[^c-757aaa5a00cc366eed56947767f218f1]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2017/4/schedule/5/paragraph/7) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
 
-[^key-48bf43197650e3ca83b412921fcad413]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2017/4/schedule/5/paragraph/8) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
+[^c-48bf43197650e3ca83b412921fcad413]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2017/4/schedule/5/paragraph/8) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
 
-[^key-37b2c834abf44b421ae6a70ec10c694c]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/5/paragraph/9) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
+[^c-37b2c834abf44b421ae6a70ec10c694c]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/5/paragraph/9) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
 
-[^key-7d72c248f0968689d6bd7393ffee62af]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2017/4/schedule/5/paragraph/10) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
+[^c-7d72c248f0968689d6bd7393ffee62af]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2017/4/schedule/5/paragraph/10) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
 
-[^key-bd39823e6a6fc9dfbdbfce963178979f]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2017/4/schedule/5/paragraph/11) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
+[^c-bd39823e6a6fc9dfbdbfce963178979f]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2017/4/schedule/5/paragraph/11) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
 
-[^key-e27020dd1fa47aeeec150ecb49a3bc9b]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2017/4/schedule/5/paragraph/12) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
+[^c-e27020dd1fa47aeeec150ecb49a3bc9b]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2017/4/schedule/5/paragraph/12) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
 
-[^key-c8f12e4b86744b89923d237bb579ed3e]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2017/4/schedule/5/paragraph/13) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
+[^c-c8f12e4b86744b89923d237bb579ed3e]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2017/4/schedule/5/paragraph/13) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
 
-[^key-b87a40a87ad2d84f8fd2f2035e43abc4]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2017/4/schedule/5/paragraph/14) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
+[^c-b87a40a87ad2d84f8fd2f2035e43abc4]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2017/4/schedule/5/paragraph/14) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)

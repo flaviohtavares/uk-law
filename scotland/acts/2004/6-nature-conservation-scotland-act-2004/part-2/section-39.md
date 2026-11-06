@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Acquisition of land by SNH[^key-254d54933031d4be7c17e73ed36f5ad9][^key-ead0d4685f72033f34d8b45402895718]
+## 39. Acquisition of land by SNH[^c-254d54933031d4be7c17e73ed36f5ad9][^c-ead0d4685f72033f34d8b45402895718]
 
 *Extent: S*
 
@@ -48,6 +48,6 @@ all or any part of land of a description specified in subsection (2).
 
 ## Annotations
 
-[^key-254d54933031d4be7c17e73ed36f5ad9]: Commencement: S. 39 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-254d54933031d4be7c17e73ed36f5ad9]: Commencement: S. 39 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
 
-[^key-ead0d4685f72033f34d8b45402895718]: Modification: S. 39 applied (with modifications) by by S.I. 1994/2716, regs. 19, 22 (as substituted (29.11.2004) by [Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2004 (S.S.I. 2004/475)](https://www.legislation.gov.uk/ssi/2004/475), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/475/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2004/475/regulation/9) (with [regs. 20-21](https://www.legislation.gov.uk/ssi/2004/475/regulation/20)))
+[^c-ead0d4685f72033f34d8b45402895718]: Modification: S. 39 applied (with modifications) by by S.I. 1994/2716, regs. 19, 22 (as substituted (29.11.2004) by [Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2004 (S.S.I. 2004/475)](https://www.legislation.gov.uk/ssi/2004/475), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/475/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2004/475/regulation/9) (with [regs. 20-21](https://www.legislation.gov.uk/ssi/2004/475/regulation/20)))

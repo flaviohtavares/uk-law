@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Proposals under section 25: procedure[^key-240801312233a99f6b9662ea9bf9c8b5]
+## 26. Proposals under section 25: procedure[^c-240801312233a99f6b9662ea9bf9c8b5]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-240801312233a99f6b9662ea9bf9c8b5]: Commencement: S. 26 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(e)](https://www.legislation.gov.uk/uksi/2007/935/article/5/e)
+[^c-240801312233a99f6b9662ea9bf9c8b5]: Commencement: S. 26 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(e)](https://www.legislation.gov.uk/uksi/2007/935/article/5/e)

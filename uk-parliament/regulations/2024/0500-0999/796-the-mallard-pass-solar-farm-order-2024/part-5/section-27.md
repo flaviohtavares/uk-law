@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Modification of Part 1 of the Compulsory Purchase Act 1965[^key-3f796eb8ba323798467f52e0d52ee3ad]
+## 27. Modification of Part 1 of the Compulsory Purchase Act 1965[^c-3f796eb8ba323798467f52e0d52ee3ad]
 
 *Extent: E+W*
 
 (1) Part 1 of the 1965 Act (compulsory acquisition under Acquisition of Land Act 1981), as applied to this Order by section 125 (application of compulsory acquisition provisions) of the 2008 Act, is modified as follows.
 
-(2) In section 4A(1) (extension of time limit during challenge)[^key-dc03508a02212d3b4d06f1907ca172b3] for “section 23 of the Acquisition of Land Act 1981 (application to High Court in respect of compulsory purchase order), the three year period mentioned in section 4” substitute “section 118 (legal challenges relating to applications for orders granting development consent) of the 2008 Act, the five year period mentioned in article 20 (time limit for exercise of authority to acquire land compulsorily) of the Mallard Pass Solar Farm Order 2024.”.
+(2) In section 4A(1) (extension of time limit during challenge)[^c-dc03508a02212d3b4d06f1907ca172b3] for “section 23 of the Acquisition of Land Act 1981 (application to High Court in respect of compulsory purchase order), the three year period mentioned in section 4” substitute “section 118 (legal challenges relating to applications for orders granting development consent) of the 2008 Act, the five year period mentioned in article 20 (time limit for exercise of authority to acquire land compulsorily) of the Mallard Pass Solar Farm Order 2024.”.
 
 (3) In section 11A (powers of entry: further notice of entry)—
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3f796eb8ba323798467f52e0d52ee3ad]: Commencement: Art. 27 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-3f796eb8ba323798467f52e0d52ee3ad]: Commencement: Art. 27 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-dc03508a02212d3b4d06f1907ca172b3]: Textual amendment: [Art. 27(2)](https://www.legislation.gov.uk/uksi/2024/796/article/27/2) bracket inserted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)
+[^c-dc03508a02212d3b4d06f1907ca172b3]: Textual amendment: [Art. 27(2)](https://www.legislation.gov.uk/uksi/2024/796/article/27/2) bracket inserted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)

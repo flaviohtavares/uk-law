@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Landlord registration where agent is a registered letting agent[^key-90c36af2e30d023d412100e661adcc7b]
+## 60. Landlord registration where agent is a registered letting agent[^c-90c36af2e30d023d412100e661adcc7b]
 
 *Extent: S*
 
@@ -81,4 +81,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90c36af2e30d023d412100e661adcc7b]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2014/14/section/60) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-90c36af2e30d023d412100e661adcc7b]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2014/14/section/60) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

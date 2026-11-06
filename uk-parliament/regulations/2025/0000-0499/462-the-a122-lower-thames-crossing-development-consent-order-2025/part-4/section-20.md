@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Protective work to land and buildings[^key-29ee1ca0fb8f6737ff3739c3f6f3e0ac]
+## 20. Protective work to land and buildings[^c-29ee1ca0fb8f6737ff3739c3f6f3e0ac]
 
 *Extent: E+W*
 
@@ -75,7 +75,7 @@ the undertaker must compensate the owners and occupiers of the building for any 
 
 ## Annotations
 
-[^key-29ee1ca0fb8f6737ff3739c3f6f3e0ac]: Commencement: Art. 20 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-29ee1ca0fb8f6737ff3739c3f6f3e0ac]: Commencement: Art. 20 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
 [^f00074]: Footnote: [1990 c. 9](https://www.legislation.gov.uk/ukpga/1990/9). Section 1 was amended by paragraph 8 of Schedule 17 to the Enterprise and Regulatory Reform Act [2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24) and by section 26(1) of the Historic Environment (Wales) Act [2016 (anaw 4)](https://www.legislation.gov.uk/anaw/2016/4) .
 

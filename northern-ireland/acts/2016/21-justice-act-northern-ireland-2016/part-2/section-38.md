@@ -37,7 +37,7 @@ summary: ''
 
 (6) The Ombudsman may report on that response to such persons as the Ombudsman may think fit.
 
-(7)[^key-c9ec8afb50439a620962792c225a513c] Regulations may make provision as to the procedures to be followed in relation to reports under this section and may in particular include provision—
+(7)[^c-c9ec8afb50439a620962792c225a513c] Regulations may make provision as to the procedures to be followed in relation to reports under this section and may in particular include provision—
 
 - (a) enabling the Ombudsman to show any person a draft of the whole or any part of a report;
 - (b) enabling the Ombudsman to publish the whole or any part of a report;
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9ec8afb50439a620962792c225a513c]: Commencement: [S. 38(7)](https://www.legislation.gov.uk/nia/2016/21/section/38/7) in operation at 1.9.2016 for specified purposes by [S.R. 2016/248](https://www.legislation.gov.uk/nisr/2016/248), [art. 3(c)](https://www.legislation.gov.uk/nisr/2016/248/article/3/c)
+[^c-c9ec8afb50439a620962792c225a513c]: Commencement: [S. 38(7)](https://www.legislation.gov.uk/nia/2016/21/section/38/7) in operation at 1.9.2016 for specified purposes by [S.R. 2016/248](https://www.legislation.gov.uk/nisr/2016/248), [art. 3(c)](https://www.legislation.gov.uk/nisr/2016/248/article/3/c)

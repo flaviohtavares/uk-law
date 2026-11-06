@@ -28,12 +28,12 @@ summary: ''
 
 - (a) the total number of shares of the company,
 - (b) the aggregate nominal value of those shares,
-- (ba)[^key-af43201e6a4ae56542c7b2be19a07c6b] the aggregate amount (if any) unpaid on those shares (whether on account of their nominal value or by way of premium), and
+- (ba)[^c-af43201e6a4ae56542c7b2be19a07c6b] the aggregate amount (if any) unpaid on those shares (whether on account of their nominal value or by way of premium), and
 - (c) for each class of shares—
   - (i) prescribed particulars of the rights attached to the shares,
   - (ii) the total number of shares of that class, and
-  - (iii) the aggregate nominal value of shares of that class, [^key-2edfe6bb5665608bcab9a4cd0db075c5]...
-- (d)[^key-2edfe6bb5665608bcab9a4cd0db075c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) the aggregate nominal value of shares of that class, [^c-2edfe6bb5665608bcab9a4cd0db075c5]...
+- (d)[^c-2edfe6bb5665608bcab9a4cd0db075c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) If default is made in complying with this section, an offence is committed by—
 
@@ -46,6 +46,6 @@ summary: ''
 
 [^c20233751]: Commencement: S. 619 wholly in force at 1.10.2009; s. 619 not in force at Royal Assent, see s. 1300; s. 619 in force for specified purposes at 20.1.2007 by [S.I. 2006/3428](https://www.legislation.gov.uk/uksi/2006/3428), [art. 3(3)](https://www.legislation.gov.uk/uksi/2006/3428/article/3/3) (subject to [art. 5](https://www.legislation.gov.uk/uksi/2006/3428/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3428/schedule/1) and with [arts. 6](https://www.legislation.gov.uk/uksi/2006/3428/article/6), [8](https://www.legislation.gov.uk/uksi/2006/3428/article/8), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/3428/schedule/5)); s. 614 otherwise in force at 1.10.2009 by [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 3(k)](https://www.legislation.gov.uk/uksi/2008/2860/article/3/k) (with [arts. 5](https://www.legislation.gov.uk/uksi/2008/2860/article/5), [7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (as amended by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), [art. 18](https://www.legislation.gov.uk/uksi/2009/1802/article/18))
 
-[^key-af43201e6a4ae56542c7b2be19a07c6b]: Textual amendment: S. 619(3)(ba) inserted (30.6.2016) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 6 para. 6(a)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/6/paragraph/6/a); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(e)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/e)
+[^c-af43201e6a4ae56542c7b2be19a07c6b]: Textual amendment: S. 619(3)(ba) inserted (30.6.2016) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 6 para. 6(a)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/6/paragraph/6/a); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(e)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/e)
 
-[^key-2edfe6bb5665608bcab9a4cd0db075c5]: Textual amendment: S. 619(3)(d) and word omitted (30.6.2016) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 6 para. 6(b)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/6/paragraph/6/b); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(e)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/e)
+[^c-2edfe6bb5665608bcab9a4cd0db075c5]: Textual amendment: S. 619(3)(d) and word omitted (30.6.2016) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 6 para. 6(b)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/6/paragraph/6/b); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(e)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/e)

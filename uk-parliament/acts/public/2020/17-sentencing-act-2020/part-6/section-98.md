@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Failure to agree youth offender contract[^key-8426cb533bb1537eeab078ee45dbb7d1]
+## 98. Failure to agree youth offender contract[^c-8426cb533bb1537eeab078ee45dbb7d1]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ the panel must end the meeting and refer the offender back to court.
 
 ## Annotations
 
-[^key-8426cb533bb1537eeab078ee45dbb7d1]: Commencement: S. 98 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-8426cb533bb1537eeab078ee45dbb7d1]: Commencement: S. 98 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

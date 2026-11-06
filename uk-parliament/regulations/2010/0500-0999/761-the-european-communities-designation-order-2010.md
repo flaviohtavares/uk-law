@@ -32,7 +32,7 @@ summary: ''
 
 European Union
 
-The European Communities (Designation) Order 2010 (revoked)[^key-3b377864d70ea549ecf73a1a5402118f]
+The European Communities (Designation) Order 2010 (revoked)[^c-3b377864d70ea549ecf73a1a5402118f]
 
 Made
 
@@ -50,55 +50,55 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-3b377864d70ea549ecf73a1a5402118f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3b377864d70ea549ecf73a1a5402118f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and interpretation[^key-3b377864d70ea549ecf73a1a5402118f]
+## 1. Citation and interpretation[^c-3b377864d70ea549ecf73a1a5402118f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Commencement[^key-3b377864d70ea549ecf73a1a5402118f]
+## 2. Commencement[^c-3b377864d70ea549ecf73a1a5402118f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation in relation to mutual assistance for the recovery of claims[^key-3b377864d70ea549ecf73a1a5402118f]
+## 3. Designation in relation to mutual assistance for the recovery of claims[^c-3b377864d70ea549ecf73a1a5402118f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Designation in relation to changes in terminology or numbering arising out of the Treaty of Lisbon[^key-3b377864d70ea549ecf73a1a5402118f]
+## 4. Designation in relation to changes in terminology or numbering arising out of the Treaty of Lisbon[^c-3b377864d70ea549ecf73a1a5402118f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Designation in relation to defence-related products[^key-3b377864d70ea549ecf73a1a5402118f]
+## 5. Designation in relation to defence-related products[^c-3b377864d70ea549ecf73a1a5402118f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Designations in relation to energy and energy sources[^key-3b377864d70ea549ecf73a1a5402118f]
+## 6. Designations in relation to energy and energy sources[^c-3b377864d70ea549ecf73a1a5402118f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-3b377864d70ea549ecf73a1a5402118f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-3b377864d70ea549ecf73a1a5402118f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Relationship with other designations[^key-3b377864d70ea549ecf73a1a5402118f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 9. Restrictions[^key-3b377864d70ea549ecf73a1a5402118f]
+## 8. Relationship with other designations[^c-3b377864d70ea549ecf73a1a5402118f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Revocations[^key-3b377864d70ea549ecf73a1a5402118f]
+## 9. Restrictions[^c-3b377864d70ea549ecf73a1a5402118f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-3b377864d70ea549ecf73a1a5402118f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 10. Revocations[^c-3b377864d70ea549ecf73a1a5402118f]
 
-[^key-3b377864d70ea549ecf73a1a5402118f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^c-3b377864d70ea549ecf73a1a5402118f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-3b377864d70ea549ecf73a1a5402118f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-3b377864d70ea549ecf73a1a5402118f]EXPLANATORY NOTE
+[^c-3b377864d70ea549ecf73a1a5402118f]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -106,4 +106,4 @@ This Order designates the Secretary of State so that the Secretary of State may 
 
 ## Annotations
 
-[^key-3b377864d70ea549ecf73a1a5402118f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/761) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3b377864d70ea549ecf73a1a5402118f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/761) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -25,7 +25,7 @@ summary: ''
 (2) In this Order and the 1991 Order[^c17169791]
 
 - “Article 15B arrangements” means arrangements under Article 15B;[^c17169811]
-- "authorised HSC trust” means an HSC trust that is exercising social care and children functions within the meaning of Article 10A of the Health and Personal Social Services (Northern Ireland) Order 1991;[^key-9697d7deeb8598172414a00a78ab31f5]
+- "authorised HSC trust” means an HSC trust that is exercising social care and children functions within the meaning of Article 10A of the Health and Personal Social Services (Northern Ireland) Order 1991;[^c-9697d7deeb8598172414a00a78ab31f5]
 - [^c23376241]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “child” means a person who is not over compulsory school age;
 - *Definition rep. by 1988 NI 23*
@@ -35,9 +35,9 @@ summary: ''
 - “directions”, except in Articles 9 and 11 and Schedule 11, means directions in writing given by the Department[^c23376601];
 - “disability” includes mental disorder as well as physical disability;
 - *Definition rep. by 1984 NI 8*
-- [^key-89cd03cbeda2197363b2410c89c0ebdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^key-b9240d9dcef01470d1ded8af6a63e6f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^key-b9240d9dcef01470d1ded8af6a63e6f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-89cd03cbeda2197363b2410c89c0ebdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-b9240d9dcef01470d1ded8af6a63e6f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-b9240d9dcef01470d1ded8af6a63e6f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “endowment”, in relation to a hospital which was immediately before 5th July 1948 a voluntary hospital or a local authority hospital, means property held immediately before 1st August 1951 or, in the case of the Mater Infirmorum Hospital, 1st January 1972, by the governing body of the hospital or by trustees solely for the purposes of that hospital or, in the case of a local authority hospital, by the local authority or other body solely for the purposes of that hospital, being property of the following descriptions—
   - (a) interests in or attaching to land (other than such premises as were transferred to and vested in the Northern Ireland Hospitals Authority under section 23(1) or (5) of the Health Services Act (Northern Ireland) 1948 [^m00009]), and in equipment, furniture or other movable property used on, or in connection with, that land;
   - (b) shares, stocks, bonds, debentures and other securities and any other personal property held by way of an investment;
@@ -95,12 +95,12 @@ summary: ''
 
   - (d) being a person who has asked for assistance, is, in the opinion of the Ministry, a person to whom any of the social care provided by it may be made available;
 - [^c23376401]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- “pharmacist” has the same meaning as in the Human Medicines Regulations 2012[^key-51fc67a654184c135529b7d4b5347bad];
+- “pharmacist” has the same meaning as in the Human Medicines Regulations 2012[^c-51fc67a654184c135529b7d4b5347bad];
 - “pharmaceutical services” has the meaning assigned to it by Article 63(1);
 - “prescribed” means prescribed by regulations;
 - “primary medical services” means services which are primary medical services for the purposes of Part VI (see Article 56);
 - “public body” means a body established by or under any transferred provision;
-- [^key-b9240d9dcef01470d1ded8af6a63e6f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-b9240d9dcef01470d1ded8af6a63e6f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - [^c23376411]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “relative” means a spouse or civil partner[^c17170331] or a lineal ancestor or lineal descendant, or lineal descendant of an ancestor not more remote than great-grandfather or great-grandmother;
 - [^c23376431]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -147,7 +147,7 @@ summary: ''
 
 [^c17169811]: Textual amendment: [1997 NI 7](https://www.legislation.gov.uk/nisi/1997)
 
-[^key-9697d7deeb8598172414a00a78ab31f5]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1972/1265/article/2/2) inserted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/5); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-9697d7deeb8598172414a00a78ab31f5]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1972/1265/article/2/2) inserted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/5); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c23376241]: Textual amendment: Art. 2(2): definition of "the Agency" repealed (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [s. 34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 3(1)(a)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/3/1/a), [Sch. 7](https://www.legislation.gov.uk/nia/2009/1/schedule/7); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
@@ -157,9 +157,9 @@ summary: ''
 
 [^c23376601]: Textual amendment: Art. 2(2): words in the definition of "directions" substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [s. 34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 3(1)(b)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/3/1/b); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-89cd03cbeda2197363b2410c89c0ebdc]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1972/1265/article/2/2) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-89cd03cbeda2197363b2410c89c0ebdc]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1972/1265/article/2/2) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-b9240d9dcef01470d1ded8af6a63e6f8]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1972/1265/article/2/2) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/784/regulation/2/2) (with [regs. 11](https://www.legislation.gov.uk/uksi/2019/784/regulation/11), [12](https://www.legislation.gov.uk/uksi/2019/784/regulation/12)) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 14](https://www.legislation.gov.uk/uksi/2020/1348/regulation/14), [16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b9240d9dcef01470d1ded8af6a63e6f8]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1972/1265/article/2/2) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/784/regulation/2/2) (with [regs. 11](https://www.legislation.gov.uk/uksi/2019/784/regulation/11), [12](https://www.legislation.gov.uk/uksi/2019/784/regulation/12)) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 14](https://www.legislation.gov.uk/uksi/2020/1348/regulation/14), [16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^m00009]: Marginal citation: 1948 c.3
 
@@ -209,7 +209,7 @@ summary: ''
 
 [^c23376401]: Textual amendment: Art. 2(2): definition of "personal social services" repealed (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [s. 34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 3(1)(a)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/3/1/a), [Sch. 7](https://www.legislation.gov.uk/nia/2009/1/schedule/7); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-51fc67a654184c135529b7d4b5347bad]: Textual amendment: Words in art. 2(2) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 46(a)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/46/a) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-51fc67a654184c135529b7d4b5347bad]: Textual amendment: Words in art. 2(2) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 46(a)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/46/a) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
 [^c23376411]: Textual amendment: Art. 2(2): definition of "regulations" repealed (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [s. 34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 3(1)(a)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/3/1/a), [Sch. 7](https://www.legislation.gov.uk/nia/2009/1/schedule/7); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 

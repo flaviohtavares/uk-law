@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80. Notification by postal administrator of court order[^key-2597dafdb9fbd8345df1d6d7a305dcaa]
+## 80. Notification by postal administrator of court order[^c-2597dafdb9fbd8345df1d6d7a305dcaa]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2597dafdb9fbd8345df1d6d7a305dcaa]: Commencement: [Rule 80](https://www.legislation.gov.uk/uksi/2013/3208/rule/80) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-2597dafdb9fbd8345df1d6d7a305dcaa]: Commencement: [Rule 80](https://www.legislation.gov.uk/uksi/2013/3208/rule/80) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Felling or lopping of trees[^key-f715837638dd094abba36550db0ea3cb]
+## 32. Felling or lopping of trees[^c-f715837638dd094abba36550db0ea3cb]
 
 *Extent: E+W*
 
@@ -27,10 +27,10 @@ summary: ''
 
 (2) In carrying out any activity authorised by paragraph (1), the undertaker must do no unnecessary damage to any tree or shrub and must pay compensation to any person for any loss or damage arising from such activity.
 
-(3) Any dispute as to a person's entitlement to compensation under paragraph (2), or as to the amount of compensation, is to be determined under Part 1 of the 1961 Act[^key-76de7085e6b3d2868cef7f087ed8c102].
+(3) Any dispute as to a person's entitlement to compensation under paragraph (2), or as to the amount of compensation, is to be determined under Part 1 of the 1961 Act[^c-76de7085e6b3d2868cef7f087ed8c102].
 
 ## Annotations
 
-[^key-f715837638dd094abba36550db0ea3cb]: Commencement: Art. 32 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
+[^c-f715837638dd094abba36550db0ea3cb]: Commencement: Art. 32 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
 
-[^key-76de7085e6b3d2868cef7f087ed8c102]: Textual amendment: Words in [art. 32(3)](https://www.legislation.gov.uk/uksi/2020/847/article/32/3) substituted (17.5.2021) by [The Immingham Open Cycle Gas Turbine (Correction) Order 2021 (S.I. 2021/581)](https://www.legislation.gov.uk/uksi/2021/581), [art. 1](https://www.legislation.gov.uk/uksi/2021/581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/581/schedule)
+[^c-76de7085e6b3d2868cef7f087ed8c102]: Textual amendment: Words in [art. 32(3)](https://www.legislation.gov.uk/uksi/2020/847/article/32/3) substituted (17.5.2021) by [The Immingham Open Cycle Gas Turbine (Correction) Order 2021 (S.I. 2021/581)](https://www.legislation.gov.uk/uksi/2021/581), [art. 1](https://www.legislation.gov.uk/uksi/2021/581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/581/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Parking places and related facilities[^key-a305b87343b8d957b81350cce92de074]
+## 27. Parking places and related facilities[^c-a305b87343b8d957b81350cce92de074]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Council may provide facilities within the harbours for the parking of vehicl
 
 ## Annotations
 
-[^key-a305b87343b8d957b81350cce92de074]: Commencement: Art. 27 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-a305b87343b8d957b81350cce92de074]: Commencement: Art. 27 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Functions of Deputy Commissioner of Police of the Metropolis[^key-0b3a2ce17549e8a109a6db74cd66c864]
+## 44. Functions of Deputy Commissioner of Police of the Metropolis[^c-0b3a2ce17549e8a109a6db74cd66c864]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b3a2ce17549e8a109a6db74cd66c864]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2011/13/section/44) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-0b3a2ce17549e8a109a6db74cd66c864]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2011/13/section/44) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

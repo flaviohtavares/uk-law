@@ -35,22 +35,22 @@ concerning the authorisation of guanidinoacetic acid as a feed additive for chic
 
 (Text with EEA relevance) (revoked)
 
-[^key-2a2cd7f6231ec6680fa490bd7813281a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2a2cd7f6231ec6680fa490bd7813281a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-2a2cd7f6231ec6680fa490bd7813281a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-2a2cd7f6231ec6680fa490bd7813281a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-2a2cd7f6231ec6680fa490bd7813281a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-2a2cd7f6231ec6680fa490bd7813281a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-2a2cd7f6231ec6680fa490bd7813281a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-2a2cd7f6231ec6680fa490bd7813281a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-2a2cd7f6231ec6680fa490bd7813281a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-2a2cd7f6231ec6680fa490bd7813281a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a2cd7f6231ec6680fa490bd7813281a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2a2cd7f6231ec6680fa490bd7813281a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-2a2cd7f6231ec6680fa490bd7813281a]
+## ANNEX[^c-2a2cd7f6231ec6680fa490bd7813281a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2a2cd7f6231ec6680fa490bd7813281a]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 207](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/207) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-2a2cd7f6231ec6680fa490bd7813281a]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 207](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/207) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

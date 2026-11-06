@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 128. Education action zone[^key-7a961d69fede7197d4c72284996eb6ee]
+## 128. Education action zone[^c-7a961d69fede7197d4c72284996eb6ee]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a961d69fede7197d4c72284996eb6ee]: Textual amendment: S. 128 repealed (29.6.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 60(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/60/1), [78(2)(j)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/j)
+[^c-7a961d69fede7197d4c72284996eb6ee]: Textual amendment: S. 128 repealed (29.6.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 60(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/60/1), [78(2)(j)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/j)

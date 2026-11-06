@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 294. Authentication[^key-cac71253ba83407375da9f65dea5892f]
+## 294. Authentication[^c-cac71253ba83407375da9f65dea5892f]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cac71253ba83407375da9f65dea5892f]: Commencement: [Rule 294](https://www.legislation.gov.uk/uksi/2011/1301/rule/294) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-cac71253ba83407375da9f65dea5892f]: Commencement: [Rule 294](https://www.legislation.gov.uk/uksi/2011/1301/rule/294) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

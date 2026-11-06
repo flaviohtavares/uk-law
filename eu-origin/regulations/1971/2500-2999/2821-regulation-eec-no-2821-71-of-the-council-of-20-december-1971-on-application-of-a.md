@@ -33,10 +33,10 @@ Regulation (EEC) No 2821/71 of the Council
 
 of 20 December 1971 on application of Article 85 (3) of the Treaty to categories of agreements, decisions and concerted practices (revoked)
 
-[^key-f260b4d59c1d68f9470784f0370a5ff8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f260b4d59c1d68f9470784f0370a5ff8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-f260b4d59c1d68f9470784f0370a5ff8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-f260b4d59c1d68f9470784f0370a5ff8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f260b4d59c1d68f9470784f0370a5ff8]: Textual amendment: Regulation revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 1(c)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/1/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f260b4d59c1d68f9470784f0370a5ff8]: Textual amendment: Regulation revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 1(c)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/1/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

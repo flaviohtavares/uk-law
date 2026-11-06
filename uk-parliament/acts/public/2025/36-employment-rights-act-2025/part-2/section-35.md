@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Duty to keep records relating to annual leave[^key-9fdaa477551180b73729485e0b01a127][^key-d21af88a4a826423310ccb99509eceaf]
+## 35. Duty to keep records relating to annual leave[^c-9fdaa477551180b73729485e0b01a127][^c-d21af88a4a826423310ccb99509eceaf]
 
 *Extent: E+W+S*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9fdaa477551180b73729485e0b01a127]: Commencement: S. 35 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-9fdaa477551180b73729485e0b01a127]: Commencement: S. 35 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-d21af88a4a826423310ccb99509eceaf]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2025/36/section/35) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(8)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/8)
+[^c-d21af88a4a826423310ccb99509eceaf]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2025/36/section/35) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(8)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/8)

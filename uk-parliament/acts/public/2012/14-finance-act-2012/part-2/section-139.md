@@ -35,12 +35,12 @@ summary: ''
   - (a) assumes risks from insurance or re-insurance undertakings, and
   - (b) fully funds its exposures to those risks through the proceeds of a debt issue or other financing mechanism where the repayment rights of the providers of the mechanism are subordinated to the re-insurance obligations of the undertaking,
 - “**liabilities**”, in relation to an insurance company, means—
-  - (a) the mathematical reserves of the company as determined in accordance with section 1.2 of the INSPRU[^key-cd96a44cd6e29d5ac7af960daa5264ae], and
-  - (b) liabilities of the company (whose value falls to be determined in accordance with section 1.3 of the GENPRU[^key-e24d1112ec920439c9b352f5dfef09da]) which arise from deposit back arrangements,
+  - (a) the mathematical reserves of the company as determined in accordance with section 1.2 of the INSPRU[^c-cd96a44cd6e29d5ac7af960daa5264ae], and
+  - (b) liabilities of the company (whose value falls to be determined in accordance with section 1.3 of the GENPRU[^c-e24d1112ec920439c9b352f5dfef09da]) which arise from deposit back arrangements,
 - “**overseas life insurance company**” means an insurance company which is not resident in the United Kingdom but which carries on life assurance business in the United Kingdom through a permanent establishment there,
 - “**re-insurance**” includes retrocession,
 - “**UK life insurance company**” means an insurance company other than an overseas life insurance company,
-- “**with-profits fund**” has the meaning given by the IPRU (INS)[^key-2ec8ff2fa7cb22a97842d6cde98ea4fb].
+- “**with-profits fund**” has the meaning given by the IPRU (INS)[^c-2ec8ff2fa7cb22a97842d6cde98ea4fb].
 
 (2) In this Part any reference to the debiting or crediting of an amount in accounts drawn up by an insurance company is a reference to bringing in the amount as a debit or credit in—
 
@@ -58,21 +58,21 @@ irrespective of how any account or statement within any of paragraphs (a) to (c)
 (4) In this section—
 
 - “**deposit back arrangements**” means arrangements by which an amount is deposited by the re-insurer under a contract of re-insurance with the cedant,
-- “[^key-b95cdc7101f4b8d341febd317b3695b8]GENPRU” means the General Prudential Sourcebook made by the Prudential Regulation Authority under FISMA 2000,
+- “[^c-b95cdc7101f4b8d341febd317b3695b8]GENPRU” means the General Prudential Sourcebook made by the Prudential Regulation Authority under FISMA 2000,
 - “INSPRU” means the Prudential Sourcebook for Insurers made by the Prudential Regulation Authority under FISMA 2000, and
 - “IPRU (INS)” means the Interim Prudential Sourcebook for Insurers made by the Prudential Regulation Authority under FISMA 2000.
-- [^key-f52b9964e1efe888d8f68fc4f0503f30]...
-- [^key-f52b9964e1efe888d8f68fc4f0503f30]...
-- [^key-f52b9964e1efe888d8f68fc4f0503f30]...
+- [^c-f52b9964e1efe888d8f68fc4f0503f30]...
+- [^c-f52b9964e1efe888d8f68fc4f0503f30]...
+- [^c-f52b9964e1efe888d8f68fc4f0503f30]...
 
 ## Annotations
 
-[^key-cd96a44cd6e29d5ac7af960daa5264ae]: Textual amendment: Words in s. 139(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 16(2)(a)(i)](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/16/2/a/i)
+[^c-cd96a44cd6e29d5ac7af960daa5264ae]: Textual amendment: Words in s. 139(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 16(2)(a)(i)](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/16/2/a/i)
 
-[^key-e24d1112ec920439c9b352f5dfef09da]: Textual amendment: Words in s. 139(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 16(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/16/2/a/ii)
+[^c-e24d1112ec920439c9b352f5dfef09da]: Textual amendment: Words in s. 139(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 16(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/16/2/a/ii)
 
-[^key-2ec8ff2fa7cb22a97842d6cde98ea4fb]: Textual amendment: Words in s. 139(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 16(2)(b)](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/16/2/b)
+[^c-2ec8ff2fa7cb22a97842d6cde98ea4fb]: Textual amendment: Words in s. 139(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 16(2)(b)](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/16/2/b)
 
-[^key-b95cdc7101f4b8d341febd317b3695b8]: Textual amendment: Words in s. 139(4) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 16(3)(a)](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/16/3/a)
+[^c-b95cdc7101f4b8d341febd317b3695b8]: Textual amendment: Words in s. 139(4) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 16(3)(a)](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/16/3/a)
 
-[^key-f52b9964e1efe888d8f68fc4f0503f30]: Textual amendment: Words in s. 139(4) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 16(3)(b)](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/16/3/b)
+[^c-f52b9964e1efe888d8f68fc4f0503f30]: Textual amendment: Words in s. 139(4) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 16(3)(b)](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/16/3/b)

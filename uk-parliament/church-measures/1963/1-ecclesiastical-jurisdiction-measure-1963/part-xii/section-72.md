@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 72. Occupation of parsonage house by person appointed by bishop.[^key-d532fc91a29a6d58ca890dd5e966cce0]
+## 72. Occupation of parsonage house by person appointed by bishop.[^c-d532fc91a29a6d58ca890dd5e966cce0]
 
 *Extent: E*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d532fc91a29a6d58ca890dd5e966cce0]: Modification: [S. 72](https://www.legislation.gov.uk/ukcm/1963/1/section/72) applied (with modifications) (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [ss. 35(1)](https://www.legislation.gov.uk/ukcm/2003/3/section/35/1), [48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-d532fc91a29a6d58ca890dd5e966cce0]: Modification: [S. 72](https://www.legislation.gov.uk/ukcm/1963/1/section/72) applied (with modifications) (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [ss. 35(1)](https://www.legislation.gov.uk/ukcm/2003/3/section/35/1), [48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
 [^c1021393]: Textual amendment: Words repealed by [Repairs of Benefice Buildings Measure 1972 (No. 2)](https://www.legislation.gov.uk/ukcm/1972/2), [Sch. 2](https://www.legislation.gov.uk/ukcm/1972/2/schedule/2)

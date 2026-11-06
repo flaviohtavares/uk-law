@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Requirement for primary medical services provider to belong to clinical commissioning group[^key-de780d8e972f2a6346b2ac735baabcd2][^c2191283]
+## 28. Requirement for primary medical services provider to belong to clinical commissioning group[^c-de780d8e972f2a6346b2ac735baabcd2][^c2191283]
 
 *Extent: E+W*
 
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-de780d8e972f2a6346b2ac735baabcd2]: Commencement: S. 28 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-de780d8e972f2a6346b2ac735baabcd2]: Commencement: S. 28 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c2191283]: Commencement: S. 28 partly in force; s. 28 in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)

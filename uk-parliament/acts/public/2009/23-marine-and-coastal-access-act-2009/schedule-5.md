@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 5 — Preparation of an MPS or of amendments of an MPS[^key-8bded8e91697415cf18c2a434e6c58d1]
+## Schedule 5 — Preparation of an MPS or of amendments of an MPS[^c-8bded8e91697415cf18c2a434e6c58d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -202,7 +202,7 @@ sub-paragraph (2) applies.
 
 ## Annotations
 
-[^key-8bded8e91697415cf18c2a434e6c58d1]: Modification: Sch. 5: functions made exercisable jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 4 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+[^c-8bded8e91697415cf18c2a434e6c58d1]: Modification: Sch. 5: functions made exercisable jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 4 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
 
 [^c2008105]: Commencement: Sch. 5 para. 1 wholly in force at 12.1.2010; Sch. 5 para. 1 in force for specified purposes at Royal Assent see s. 324(1)(a)(i); Sch. 5 para. 1 in force in so far as not already in force at 12.1.2010 see s. 324(2)(a)
 

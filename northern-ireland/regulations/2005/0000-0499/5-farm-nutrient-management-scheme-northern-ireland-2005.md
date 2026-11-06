@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Agriculture and Rural Development[^f00001], in exercise of the powers conferred on it by Article 16(1) and (2) of the Agriculture and Fisheries (Financial Assistance) (Northern Ireland) Order 1987[^f00002] and of every other power enabling it in that behalf, and with the approval of the Department of Finance and Personnel, hereby makes the following Scheme:
 
-## 1. Citation and commencement[^key-829a5cfb900b6248bb8c7efcddde29ed]
+## 1. Citation and commencement[^c-829a5cfb900b6248bb8c7efcddde29ed]
 
 The Scheme may be cited as the Farm Nutrient Management Scheme (Northern Ireland) 2005 and shall come into operation on 16th January 2005.
 
-## 2. Interpretation[^key-88876c236fac95b36932e7e916ee8d55]
+## 2. Interpretation[^c-88876c236fac95b36932e7e916ee8d55]
 
 In this Scheme –
 
@@ -53,7 +53,7 @@ In this Scheme –
 - “the Department” means the Department of Agriculture and Rural Development;
 - “slurry” means excreta produced by livestock whilst in a yard or building or a mixture consisting wholly or mainly of such excreta, bedding, rainwater and washings from a building or yard used by livestock or any combination of these, at a consistency that allows it to be pumped or discharged at any stage in the handling process.
 
-## 3. Payment and amount of grants[^key-a9e92a8f65d462e470b52fc8f091bf78]
+## 3. Payment and amount of grants[^c-a9e92a8f65d462e470b52fc8f091bf78]
 
 (1) Subject to the following provisions of this Scheme, the Department may make to any person a grant representing 60 per cent[^M_F_2875d742-4eaa-4050-b312-954b1c483075] of any expenditure –
 
@@ -75,7 +75,7 @@ In this Scheme –
 
 (4) The Department shall not approve any expenditure unless the work, facility or transaction to which it refers complies with the requirements or prohibitions of the Schedule.
 
-## 4. Financial limits[^key-462c96804afe9431097d23d0b0656b8d]
+## 4. Financial limits[^c-462c96804afe9431097d23d0b0656b8d]
 
 (1) If, in view of the total amount of expenditure approved for the purposes of applications already accepted under this Scheme, the Department is at any time of the opinion that the financial resources which are available for payment of grant under Article 3(1) during any period are insufficient to satisfy any payment during that period which would result from the acceptance of any further application, it may suspend further consideration of any application received at the date of its decision but not yet accepted, or any application it may receive after the date of its decision, until such time as may subsequently be specified by it.
 
@@ -83,7 +83,7 @@ In this Scheme –
 
 (3) Notice of a decision under paragraph (1) or (2) shall be published in the Belfast Gazette.
 
-## 5. Restrictions on the making of grants[^key-f2ed8a45c4aac2362df43342a209f457]
+## 5. Restrictions on the making of grants[^c-f2ed8a45c4aac2362df43342a209f457]
 
 The Department shall not make a grant under Article 3(1) –
 
@@ -91,7 +91,7 @@ The Department shall not make a grant under Article 3(1) –
 - (b) unless it is satisfied that the expenditure towards which the grant is to be made will result in some environmental benefit; and
 - (c) unless the requirements of Article 5 of Council Regulation (EC) No.1257/1999[^f00003]; are satisfied.
 
-## 6. Applications for grant[^key-52603e8c160d022d549c3abb3014d4ac]
+## 6. Applications for grant[^c-52603e8c160d022d549c3abb3014d4ac]
 
 (1) Any application –
 
@@ -100,7 +100,7 @@ The Department shall not make a grant under Article 3(1) –
 
 (2) The Department shall inform an applicant in writing whether the application is accepted or not and, if it is not accepted, shall give the reasons.
 
-## 7. Revocation[^key-f23df8c95bfd2a796015f7bdcbf622b8]
+## 7. Revocation[^c-f23df8c95bfd2a796015f7bdcbf622b8]
 
 The Farm Nutrient Management Scheme (Northern Ireland) 2004[^f00004] is hereby revoked.
 
@@ -124,16 +124,16 @@ Department of Finance and Personnel
 
 ## SCHEDULE — CONDITIONS UNDER WHICH GRANT IS PAYABLE
 
-**1.**[^key-c155216ac0b4a6751625c937edd5bf5f] The work, facility or transaction to which the expenditure relates shall not commence before the date the expenditure is approved.
+**1.**[^c-c155216ac0b4a6751625c937edd5bf5f] The work, facility or transaction to which the expenditure relates shall not commence before the date the expenditure is approved.
 
-**2.**[^key-a6e8a9c5b858fa56612893a47e1d1958] New and replacement structures to which the expenditure relates must be designed to have a minimum life of ten years (twenty years for those installations covered by the Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) Regulations (Northern Ireland) 2003) and which meet the requirements of the appropriate British Standards, namely BS5502 Parts 22 and 50 and BS8007.
+**2.**[^c-a6e8a9c5b858fa56612893a47e1d1958] New and replacement structures to which the expenditure relates must be designed to have a minimum life of ten years (twenty years for those installations covered by the Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) Regulations (Northern Ireland) 2003) and which meet the requirements of the appropriate British Standards, namely BS5502 Parts 22 and 50 and BS8007.
 
-**3.**[^key-3114b2f808e5a14351e33d8b7f0e5bfc] The expenditure shall not relate to machinery, other than –
+**3.**[^c-3114b2f808e5a14351e33d8b7f0e5bfc] The expenditure shall not relate to machinery, other than –
 
 - (a) slurry separators and associated fixed pumps and pipework, and
 - (b) fixed pumps and associated pipework for transfer of slurry to other storage facilities.
 
-**4.**[^key-7d11d56451b4ea823052253102f3d9d0] Applicants who are tenants must ensure that the work to which the expenditure relates, is permitted under the terms of their tenancy agreement, and if the tenancy agreement is for less than five years, must provide written confirmation, from their landlord, that the facility will be kept in agricultural use, at least until five years have elapsed from the date of the claim.
+**4.**[^c-7d11d56451b4ea823052253102f3d9d0] Applicants who are tenants must ensure that the work to which the expenditure relates, is permitted under the terms of their tenancy agreement, and if the tenancy agreement is for less than five years, must provide written confirmation, from their landlord, that the facility will be kept in agricultural use, at least until five years have elapsed from the date of the claim.
 
 (This note is not part of the Scheme.)
 
@@ -155,30 +155,30 @@ The procedure for claiming grant is determined by the Department (Article 6).
 
 [^f00002]: Footnote: S.I. [1987/166 (N.I. 1)](https://www.legislation.gov.uk/nisi/1987/166)
 
-[^key-829a5cfb900b6248bb8c7efcddde29ed]: Commencement: Art. 1 in operation at 16.1.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/5/article/1)
+[^c-829a5cfb900b6248bb8c7efcddde29ed]: Commencement: Art. 1 in operation at 16.1.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/5/article/1)
 
-[^key-88876c236fac95b36932e7e916ee8d55]: Commencement: Art. 2 in operation at 16.1.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/5/article/1)
+[^c-88876c236fac95b36932e7e916ee8d55]: Commencement: Art. 2 in operation at 16.1.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/5/article/1)
 
-[^key-a9e92a8f65d462e470b52fc8f091bf78]: Commencement: Art. 3 in operation at 16.1.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/5/article/1)
+[^c-a9e92a8f65d462e470b52fc8f091bf78]: Commencement: Art. 3 in operation at 16.1.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/5/article/1)
 
 [^M_F_2875d742-4eaa-4050-b312-954b1c483075]: Textual amendment: Words in art. 3(1) substituted (29.9.2005) by [Farm Nutrient Management (Amendment) Scheme (Northern Ireland) 2005 (S.R 2005/407)](https://editorial.legislation.gov.uk/nisr/2005/407/section/2/made), [Regs. 1](https://editorial.legislation.gov.uk/nisr/2005/407/section/1/made), [2(2)](https://editorial.legislation.gov.uk/nisr/2005/407/section/2/made)
 
-[^key-462c96804afe9431097d23d0b0656b8d]: Commencement: Art. 4 in operation at 16.1.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/5/article/1)
+[^c-462c96804afe9431097d23d0b0656b8d]: Commencement: Art. 4 in operation at 16.1.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/5/article/1)
 
-[^key-f2ed8a45c4aac2362df43342a209f457]: Commencement: Art. 5 in operation at 16.1.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/5/article/1)
+[^c-f2ed8a45c4aac2362df43342a209f457]: Commencement: Art. 5 in operation at 16.1.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/5/article/1)
 
 [^f00003]: Footnote: O.J. No. L160, 26.6.1999
 
-[^key-52603e8c160d022d549c3abb3014d4ac]: Commencement: Art. 6 in operation at 16.1.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/5/article/1)
+[^c-52603e8c160d022d549c3abb3014d4ac]: Commencement: Art. 6 in operation at 16.1.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/5/article/1)
 
-[^key-f23df8c95bfd2a796015f7bdcbf622b8]: Commencement: Art. 7 in operation at 16.1.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/5/article/1)
+[^c-f23df8c95bfd2a796015f7bdcbf622b8]: Commencement: Art. 7 in operation at 16.1.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/5/article/1)
 
 [^f00004]: Footnote: [S.R. 2004 No. 498](https://www.legislation.gov.uk/nisr/2004/498)
 
-[^key-c155216ac0b4a6751625c937edd5bf5f]: Commencement: Sch. para. 1 in operation at 16.1.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/5/article/1)
+[^c-c155216ac0b4a6751625c937edd5bf5f]: Commencement: Sch. para. 1 in operation at 16.1.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/5/article/1)
 
-[^key-a6e8a9c5b858fa56612893a47e1d1958]: Commencement: Sch. para. 2 in operation at 16.1.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/5/article/1)
+[^c-a6e8a9c5b858fa56612893a47e1d1958]: Commencement: Sch. para. 2 in operation at 16.1.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/5/article/1)
 
-[^key-3114b2f808e5a14351e33d8b7f0e5bfc]: Commencement: Sch. para. 3 in operation at 16.1.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/5/article/1)
+[^c-3114b2f808e5a14351e33d8b7f0e5bfc]: Commencement: Sch. para. 3 in operation at 16.1.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/5/article/1)
 
-[^key-7d11d56451b4ea823052253102f3d9d0]: Commencement: Sch. para. 4 in operation at 16.1.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/5/article/1)
+[^c-7d11d56451b4ea823052253102f3d9d0]: Commencement: Sch. para. 4 in operation at 16.1.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/5/article/1)

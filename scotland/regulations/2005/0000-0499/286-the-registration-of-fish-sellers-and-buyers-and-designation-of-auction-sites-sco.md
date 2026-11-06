@@ -43,7 +43,7 @@ Coming into force in accordance with regulation 1(2)
 
 The Scottish Ministers, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Citation, commencement and extent[^key-69195bbbef2a39175d6029f9b59ca79f]
+## 1. Citation, commencement and extent[^c-69195bbbef2a39175d6029f9b59ca79f]
 
 (1) These Regulations may be cited as the Registration of Fish Sellers and Buyers and Designation of Auction Sites (Scotland) Regulations 2005.
 
@@ -56,7 +56,7 @@ The Scottish Ministers, in exercise of the powers conferred by section 2(2) of t
 
 (4) Proceedings for an offence under these Regulations may be taken, and for all incidental purposes the offence may be treated as having been committed, in any place in the United Kingdom.
 
-## 2. Interpretation[^key-95c713cf21ee802967f9391be28f0b58]
+## 2. Interpretation[^c-95c713cf21ee802967f9391be28f0b58]
 
 (1) In these Regulations–
 
@@ -75,7 +75,7 @@ The Scottish Ministers, in exercise of the powers conferred by section 2(2) of t
 
 (2) In these Regulations, any reference to a registered fish buyer or registered fish seller shall include an agent who buys or sells fish on behalf of the buyer or seller, and any similar expressions shall be interpreted accordingly.
 
-## 3. Registration of fish sellers[^key-824e2e16000f1e656b106b979083e917]
+## 3. Registration of fish sellers[^c-824e2e16000f1e656b106b979083e917]
 
 (1) A registered fish seller is authorised for the purposes of Article 9(1), insofar as that seller sells first sale fish by way of competitive bidding at a designated auction site.
 
@@ -106,7 +106,7 @@ is guilty of an offence.
 
 (8) Any person who knowingly or recklessly makes a statement which is false in a material particular in an application under this regulation is guilty of an offence.
 
-## 4. Sale of fish[^key-142140dc24ec12252b3fc5400cb689ba]
+## 4. Sale of fish[^c-142140dc24ec12252b3fc5400cb689ba]
 
 **Not yet in force.**
 
@@ -119,7 +119,7 @@ is guilty of an offence.
 
 (2) Where first sale fish is sold from a fishing vessel to a buyer who is not a registered fish buyer the master, owner or charterer (if any) of the fishing vessel is guilty of an offence.
 
-## 5. Maintenance of records by registered seller[^key-7aadf05c36236d7888c782f81eeca292]
+## 5. Maintenance of records by registered seller[^c-7aadf05c36236d7888c782f81eeca292]
 
 **Not yet in force.**
 
@@ -147,7 +147,7 @@ is guilty of an offence.
 
 (7) Any person who knowingly or recklessly maintains or produces records which are false in a material particular is guilty of an offence.
 
-## 6. Designation of auction sites[^key-4113dae89fccd1ad11dbe3f4ba6a089c]
+## 6. Designation of auction sites[^c-4113dae89fccd1ad11dbe3f4ba6a089c]
 
 (1) Any person may apply to the Scottish Ministers to have a site designated as a designated auction site.
 
@@ -175,7 +175,7 @@ the person who applied to have the site designated as a designated auction site 
 
 (7) Any person who knowingly or recklessly makes a statement which is false in a material particular in an application under this regulation is guilty of an offence.
 
-## 7. Registration of fish buyers[^key-f27030528fd722cfc986c11ac3a79fe4]
+## 7. Registration of fish buyers[^c-f27030528fd722cfc986c11ac3a79fe4]
 
 (1) For the purposes of Article 22(2)(b) of the CFP Regulation, a registered fish buyer shall be regarded as registered with the authorities.
 
@@ -206,7 +206,7 @@ is guilty of an offence.
 
 (8) Any person who knowingly or recklessly makes a statement which that person knows to be false in a material particular in an application under this regulation is guilty of an offence.
 
-## 8. Purchase of fish by an unregistered buyer[^key-9c227bce966bd2eb253a81cfdfeb9636]
+## 8. Purchase of fish by an unregistered buyer[^c-9c227bce966bd2eb253a81cfdfeb9636]
 
 **Not yet in force.**
 
@@ -219,7 +219,7 @@ is guilty of an offence.
 
 is guilty of an offence.
 
-## 9. Maintenance of records by registered buyer[^key-9853c3d62f7d8b0ea950801eddc999d3]
+## 9. Maintenance of records by registered buyer[^c-9853c3d62f7d8b0ea950801eddc999d3]
 
 (1) Subject to paragraph (2), a registered fish buyer shall maintain records of every purchase of first sale fish made by that buyer at the place in the United Kingdom notified to the Scottish Ministers for that purpose in the registered fish buyer’s application for registration.
 
@@ -245,13 +245,13 @@ is guilty of an offence.
 
 (7) Any person who knowingly or recklessly maintains or produces records which are false in a material particular is guilty of an offence.
 
-## 10. Sale of fish landed from a licensed fishing vessel[^key-aa8315b45c43b7e42f10538d929d5dee]
+## 10. Sale of fish landed from a licensed fishing vessel[^c-aa8315b45c43b7e42f10538d929d5dee]
 
 **Not yet in force.**
 
 Any person who markets first sale fish which was landed by a fishing vessel in the United Kingdom other than by a licensed fishing vessel is guilty of an offence.
 
-## 11. Prohibition on purchase of fish not landed by a licensed fishing vessel[^key-dd6f26de0914f9559c888b5720824b79]
+## 11. Prohibition on purchase of fish not landed by a licensed fishing vessel[^c-dd6f26de0914f9559c888b5720824b79]
 
 **Not yet in force.**
 
@@ -264,7 +264,7 @@ Any person who markets first sale fish which was landed by a fishing vessel in t
 
 that the fish had not been landed by a licensed fishing vessel.
 
-## 12. Penalties[^key-00b4394791dc0a17de3370846a0b5d09]
+## 12. Penalties[^c-00b4394791dc0a17de3370846a0b5d09]
 
 (1) A person convicted of an offence under these Regulations shall be liable–
 
@@ -277,7 +277,7 @@ that the fish had not been landed by a licensed fishing vessel.
 - (b) in the case of an offence under regulation 6(6) or (7), order that the designation of the site be revoked and order that the person convicted be disqualified from applying to have a site designated under regulation 6 or be disqualified from applying to have a site designated under regulation 6 for a specified period;
 - (c) in the case of an offence under regulation 7(7) or (8), 9(6) or (7), or 11(1), order that the registration of the person convicted is revoked and that person be disqualified from applying for registration under regulation 7 or be disqualified from applying for registration under regulation 7 for a specified period.
 
-## 13. Powers of British sea-fishery officers in relation to fishing boats[^key-4dba0582ca75d3783c25159dc09708c2]
+## 13. Powers of British sea-fishery officers in relation to fishing boats[^c-4dba0582ca75d3783c25159dc09708c2]
 
 (1) For the purpose of enforcing these Regulations or any equivalent provision, any British sea-fishery officer may exercise the powers conferred by this regulation in relation to–
 
@@ -304,7 +304,7 @@ but nothing in sub paragraph (f) above shall permit any document required by law
 
 and where such an officer detains or requires the detention of a boat the officer shall serve on the master a notice in writing stating that the boat will be or is required to be detained until the notice is withdrawn by the service on the master of a further notice in writing signed by a British sea fishery officer.
 
-## 14. Powers of British sea-fishery officers on land[^key-a4f337e5a593f38508eb44c5cf4b00f5]
+## 14. Powers of British sea-fishery officers on land[^c-a4f337e5a593f38508eb44c5cf4b00f5]
 
 (1) For the purpose of enforcing these Regulations or any equivalent provision, any British sea-fishery officer may–
 
@@ -340,7 +340,7 @@ the sheriff may by warrant signed by the sheriff, and valid for one month, autho
 
 the sheriff may by warrant signed by the sheriff, and valid for one month, authorise a British sea fishery officer to enter the premises, if need be by reasonable force, and take with the officer such persons as appear to the officer to be necessary, and to search for and seize any computers or other devices in which data may be recorded in electronic form, including any related equipment, and to undertake forensic examination of any such computer or other device including the copying of data and files held on any such computers or devices.
 
-## 15. Powers of British sea-fishery officers to seize fish and fishing gear[^key-a72ac78e28e923958ddda140d79edea8]
+## 15. Powers of British sea-fishery officers to seize fish and fishing gear[^c-a72ac78e28e923958ddda140d79edea8]
 
 (1) This article applies–
 
@@ -349,11 +349,11 @@ the sheriff may by warrant signed by the sheriff, and valid for one month, autho
 
 (2) Where this article applies, any British sea-fishery officer may seize any fish (including any receptacle which contains the fish) in respect of which the officer has reasonable grounds to suspect that an offence under these Regulations or under any equivalent provision, has been committed.
 
-## 16. Protection of officers[^key-e00bc24419043cd44ea95d456ba43eb5]
+## 16. Protection of officers[^c-e00bc24419043cd44ea95d456ba43eb5]
 
 A British sea fishery officer or a person assisting that officer by virtue of regulation 13(2) or 14(1)(b), or authorised under regulation 14(3) or (4), of these Regulations shall not be liable in any civil or criminal proceedings for anything done in the purported exercise of the powers conferred on that officer by regulations 13 and 14 of these Regulations if the court is satisfied that the act was done in good faith, that there were reasonable grounds for doing it and that it was done with reasonable skill and care.
 
-## 17. Obstruction of officers[^key-b51da7807872a74e815be9d8783d9c0d]
+## 17. Obstruction of officers[^c-b51da7807872a74e815be9d8783d9c0d]
 
 (1) Any person who–
 
@@ -368,7 +368,7 @@ is guilty of an offence.
 - (a) on summary conviction to a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment to a fine.
 
-## 18. Provisions as to offences and proceedings[^key-fb7b5b9e4cba7bd2be9879038a37b24e]
+## 18. Provisions as to offences and proceedings[^c-fb7b5b9e4cba7bd2be9879038a37b24e]
 
 (1) Where an offence under these Regulations, or under any equivalent provision, committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of–
 
@@ -409,9 +409,9 @@ A Regulatory Impact Assessment in relation to these Regulations has been prepare
 
 [^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), Schedule 8, paragraph 15(3). The functions of the Minister of the Crown, insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
 
-[^key-69195bbbef2a39175d6029f9b59ca79f]: Commencement: Reg. 1 in force at 20.6.2005, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/a)
+[^c-69195bbbef2a39175d6029f9b59ca79f]: Commencement: Reg. 1 in force at 20.6.2005, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/a)
 
-[^key-95c713cf21ee802967f9391be28f0b58]: Commencement: Reg. 2 in force at 20.6.2005, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/a)
+[^c-95c713cf21ee802967f9391be28f0b58]: Commencement: Reg. 2 in force at 20.6.2005, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/a)
 
 [^f00002]: Footnote: O.J. No. L 261, 20.10.93, p.1.
 
@@ -427,34 +427,34 @@ A Regulatory Impact Assessment in relation to these Regulations has been prepare
 
 [^f00008]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-824e2e16000f1e656b106b979083e917]: Commencement: Reg. 3 in force at 20.6.2005, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/a)
+[^c-824e2e16000f1e656b106b979083e917]: Commencement: Reg. 3 in force at 20.6.2005, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/a)
 
-[^key-142140dc24ec12252b3fc5400cb689ba]: Commencement: Reg. 4 in force at 1.9.2005, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/b)
+[^c-142140dc24ec12252b3fc5400cb689ba]: Commencement: Reg. 4 in force at 1.9.2005, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/b)
 
-[^key-7aadf05c36236d7888c782f81eeca292]: Commencement: Reg. 5 in force at 1.9.2005, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/b)
+[^c-7aadf05c36236d7888c782f81eeca292]: Commencement: Reg. 5 in force at 1.9.2005, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/b)
 
-[^key-4113dae89fccd1ad11dbe3f4ba6a089c]: Commencement: Reg. 6 in force at 20.6.2005, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/a)
+[^c-4113dae89fccd1ad11dbe3f4ba6a089c]: Commencement: Reg. 6 in force at 20.6.2005, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/a)
 
-[^key-f27030528fd722cfc986c11ac3a79fe4]: Commencement: Reg. 7 in force at 20.6.2005, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/a)
+[^c-f27030528fd722cfc986c11ac3a79fe4]: Commencement: Reg. 7 in force at 20.6.2005, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/a)
 
-[^key-9c227bce966bd2eb253a81cfdfeb9636]: Commencement: Reg. 8 in force at 1.9.2005, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/b)
+[^c-9c227bce966bd2eb253a81cfdfeb9636]: Commencement: Reg. 8 in force at 1.9.2005, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/b)
 
-[^key-9853c3d62f7d8b0ea950801eddc999d3]: Commencement: Reg. 9 in force at 20.6.2005, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/a)
+[^c-9853c3d62f7d8b0ea950801eddc999d3]: Commencement: Reg. 9 in force at 20.6.2005, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/a)
 
-[^key-aa8315b45c43b7e42f10538d929d5dee]: Commencement: Reg. 10 in force at 1.9.2005, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/b)
+[^c-aa8315b45c43b7e42f10538d929d5dee]: Commencement: Reg. 10 in force at 1.9.2005, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/b)
 
-[^key-dd6f26de0914f9559c888b5720824b79]: Commencement: Reg. 11 in force at 1.9.2005, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/b)
+[^c-dd6f26de0914f9559c888b5720824b79]: Commencement: Reg. 11 in force at 1.9.2005, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/b)
 
-[^key-00b4394791dc0a17de3370846a0b5d09]: Commencement: Reg. 12 in force at 20.6.2005, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/a)
+[^c-00b4394791dc0a17de3370846a0b5d09]: Commencement: Reg. 12 in force at 20.6.2005, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/a)
 
-[^key-4dba0582ca75d3783c25159dc09708c2]: Commencement: Reg. 13 in force at 20.6.2005, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/a)
+[^c-4dba0582ca75d3783c25159dc09708c2]: Commencement: Reg. 13 in force at 20.6.2005, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/a)
 
-[^key-a4f337e5a593f38508eb44c5cf4b00f5]: Commencement: Reg. 14 in force at 20.6.2005, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/a)
+[^c-a4f337e5a593f38508eb44c5cf4b00f5]: Commencement: Reg. 14 in force at 20.6.2005, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/a)
 
-[^key-a72ac78e28e923958ddda140d79edea8]: Commencement: Reg. 15 in force at 20.6.2005, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/a)
+[^c-a72ac78e28e923958ddda140d79edea8]: Commencement: Reg. 15 in force at 20.6.2005, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/a)
 
-[^key-e00bc24419043cd44ea95d456ba43eb5]: Commencement: Reg. 16 in force at 20.6.2005, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/a)
+[^c-e00bc24419043cd44ea95d456ba43eb5]: Commencement: Reg. 16 in force at 20.6.2005, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/a)
 
-[^key-b51da7807872a74e815be9d8783d9c0d]: Commencement: Reg. 17 in force at 20.6.2005, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/a)
+[^c-b51da7807872a74e815be9d8783d9c0d]: Commencement: Reg. 17 in force at 20.6.2005, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/a)
 
-[^key-fb7b5b9e4cba7bd2be9879038a37b24e]: Commencement: Reg. 18 in force at 20.6.2005, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/a)
+[^c-fb7b5b9e4cba7bd2be9879038a37b24e]: Commencement: Reg. 18 in force at 20.6.2005, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2005/286/regulation/1/2/a)

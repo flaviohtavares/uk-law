@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Trees subject to tree preservation orders[^key-11242de29732efb9d300bb3f6cb17fe6]
+## 34. Trees subject to tree preservation orders[^c-11242de29732efb9d300bb3f6cb17fe6]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11242de29732efb9d300bb3f6cb17fe6]: Commencement: Art. 34 in force at 28.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2950/article/1)
+[^c-11242de29732efb9d300bb3f6cb17fe6]: Commencement: Art. 34 in force at 28.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2950/article/1)

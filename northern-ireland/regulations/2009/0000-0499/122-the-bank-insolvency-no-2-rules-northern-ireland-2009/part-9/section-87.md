@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 87. Creditors’ meeting to be notified of bank liquidator’s resignation[^key-59781f4484aad8ca5cb972d109b583c4]
+## 87. Creditors’ meeting to be notified of bank liquidator’s resignation[^c-59781f4484aad8ca5cb972d109b583c4]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59781f4484aad8ca5cb972d109b583c4]: Commencement: Rule 87 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-59781f4484aad8ca5cb972d109b583c4]: Commencement: Rule 87 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

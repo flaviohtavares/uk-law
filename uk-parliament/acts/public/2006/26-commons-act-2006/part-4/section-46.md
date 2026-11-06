@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Powers relating to unauthorised agricultural activities[^key-7ac7a8fd6b9b0aec84174d86c1b664ec][^key-88d4663d9dabe8dd2fc8923ecb605777]
+## 46. Powers relating to unauthorised agricultural activities[^c-7ac7a8fd6b9b0aec84174d86c1b664ec][^c-88d4663d9dabe8dd2fc8923ecb605777]
 
 *Extent: E+W*
 
@@ -56,7 +56,7 @@ summary: ''
 
 (7) If a person on whom a notice is served under this section fails to comply with it—
 
-- (a) the appropriate national authority may apply to the county court[^key-0ebd9befe15a00dc45313339221b0882] for an order requiring him to do so; and
+- (a) the appropriate national authority may apply to the county court[^c-0ebd9befe15a00dc45313339221b0882] for an order requiring him to do so; and
 - (b) the court may make such an order for the purpose of securing compliance with the notice as it thinks fit.
 
 (8) For the purposes of this section, activity is unauthorised if the person carrying it out or causing it to be carried out—
@@ -75,8 +75,8 @@ summary: ''
 
 ## Annotations
 
-[^key-7ac7a8fd6b9b0aec84174d86c1b664ec]: Commencement: S. 46 in force at 1.10.2008 for E. by [S.I. 2008/1960](https://www.legislation.gov.uk/uksi/2008/1960), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/1960/article/2/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1960/article/3))
+[^c-7ac7a8fd6b9b0aec84174d86c1b664ec]: Commencement: S. 46 in force at 1.10.2008 for E. by [S.I. 2008/1960](https://www.legislation.gov.uk/uksi/2008/1960), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/1960/article/2/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1960/article/3))
 
-[^key-88d4663d9dabe8dd2fc8923ecb605777]: Commencement: S. 46 in force at 1.4.2012 for W. by [S.I. 2012/806](https://www.legislation.gov.uk/wsi/2012/806), [art. 2](https://www.legislation.gov.uk/wsi/2012/806/article/2)
+[^c-88d4663d9dabe8dd2fc8923ecb605777]: Commencement: S. 46 in force at 1.4.2012 for W. by [S.I. 2012/806](https://www.legislation.gov.uk/wsi/2012/806), [art. 2](https://www.legislation.gov.uk/wsi/2012/806/article/2)
 
-[^key-0ebd9befe15a00dc45313339221b0882]: Textual amendment: Words in [s. 46(7)(a)](https://www.legislation.gov.uk/ukpga/2006/26/section/46/7/a) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-0ebd9befe15a00dc45313339221b0882]: Textual amendment: Words in [s. 46(7)(a)](https://www.legislation.gov.uk/ukpga/2006/26/section/46/7/a) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

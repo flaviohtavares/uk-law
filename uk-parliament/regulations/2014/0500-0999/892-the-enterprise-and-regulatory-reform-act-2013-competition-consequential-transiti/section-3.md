@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Continuity of functions[^key-e2b561eb800dfe21a7cff7881e3ec01e]
+## 3. Continuity of functions[^c-e2b561eb800dfe21a7cff7881e3ec01e]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,6 +68,6 @@ and references in this article to things done include references to things omitt
 
 ## Annotations
 
-[^key-e2b561eb800dfe21a7cff7881e3ec01e]: Commencement: Art. 3 in force at 1.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1)
+[^c-e2b561eb800dfe21a7cff7881e3ec01e]: Commencement: Art. 3 in force at 1.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1)
 
 [^f00003]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56). Sections 32 to 35 of the Water Industry Act 1991 were substituted by section 70 of the Enterprise Act 2002.

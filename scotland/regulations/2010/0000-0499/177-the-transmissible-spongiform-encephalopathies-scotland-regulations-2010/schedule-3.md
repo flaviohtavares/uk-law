@@ -60,7 +60,7 @@ Regulation 5(b)
 
 - (a) a veterinary inspector suspects that a bovine animal has a TSE;
 - (b) the monitoring of carcases under Part 1 of Schedule 2 or under Annex III to the EU TSE Regulation (monitoring system) confirms that an animal is suspected of having a TSE; or
-- (c) the competent authority of another part of the United Kingdom [^key-e2ec006522d83cd89e55b72759644bbd]... notifies the Scottish Ministers that a bovine animal is suspected of having a TSE,
+- (c) the competent authority of another part of the United Kingdom [^c-e2ec006522d83cd89e55b72759644bbd]... notifies the Scottish Ministers that a bovine animal is suspected of having a TSE,
 
 an inspector must identify—
 
@@ -186,6 +186,6 @@ The Scottish Ministers must pay compensation—
 
 ## Annotations
 
-[^key-e2ec006522d83cd89e55b72759644bbd]: Textual amendment: Words in [sch. 3 para. 4(1)(c)](https://www.legislation.gov.uk/ssi/2010/177/schedule/3/paragraph/4/1/c) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [27(4)](https://www.legislation.gov.uk/ssi/2019/71/regulation/27/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e2ec006522d83cd89e55b72759644bbd]: Textual amendment: Words in [sch. 3 para. 4(1)(c)](https://www.legislation.gov.uk/ssi/2010/177/schedule/3/paragraph/4/1/c) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [27(4)](https://www.legislation.gov.uk/ssi/2019/71/regulation/27/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c20301841]: Marginal citation: O.J. No. L 125, 12.5.1984, p.58, amended by Commission Decision (EC) No. 2007/371/EC (O.J. L 140, 1.6.2007, p.49).

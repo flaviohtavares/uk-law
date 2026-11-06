@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Contributing to a sustainable and innovative economy[^key-659c3f19a72874e8834c632cd1ae036c][^key-4778f60b18d1cabb77521e0956d4af34][^key-82dcd4046cd0ab31a0af16fe6da3c084]
+## 8. Contributing to a sustainable and innovative economy[^c-659c3f19a72874e8834c632cd1ae036c][^c-4778f60b18d1cabb77521e0956d4af34][^c-82dcd4046cd0ab31a0af16fe6da3c084]
 
 *Extent: E+W*
 
@@ -28,8 +28,8 @@ summary: ''
 
 ## Annotations
 
-[^key-659c3f19a72874e8834c632cd1ae036c]: Commencement: S. 8 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-659c3f19a72874e8834c632cd1ae036c]: Commencement: S. 8 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-4778f60b18d1cabb77521e0956d4af34]: Commencement: [S. 8](https://www.legislation.gov.uk/asc/2022/1/section/8) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(g)](https://www.legislation.gov.uk/wsi/2023/919/article/3/g)
+[^c-4778f60b18d1cabb77521e0956d4af34]: Commencement: [S. 8](https://www.legislation.gov.uk/asc/2022/1/section/8) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(g)](https://www.legislation.gov.uk/wsi/2023/919/article/3/g)
 
-[^key-82dcd4046cd0ab31a0af16fe6da3c084]: Commencement: [S. 8](https://www.legislation.gov.uk/asc/2022/1/section/8) in force at 1.4.2024 in so far as not already in force by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 4(a)](https://www.legislation.gov.uk/wsi/2023/919/article/4/a)
+[^c-82dcd4046cd0ab31a0af16fe6da3c084]: Commencement: [S. 8](https://www.legislation.gov.uk/asc/2022/1/section/8) in force at 1.4.2024 in so far as not already in force by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 4(a)](https://www.legislation.gov.uk/wsi/2023/919/article/4/a)

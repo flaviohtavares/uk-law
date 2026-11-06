@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**287.**[^key-5b05fc2f9bf3e4f79ac1f58e1941d97f] In section 28 of the Protection of Freedoms Act 2012 (interpretation: chapter 2)—
+**287.**[^c-5b05fc2f9bf3e4f79ac1f58e1941d97f] In section 28 of the Protection of Freedoms Act 2012 (interpretation: chapter 2)—
 
 - (a) in subsection (7) after “Children Act 1989” insert “or section 74 of the Social Services and Well-being (Wales) Act 2014”;
 - (b) in subsection (8)—
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b05fc2f9bf3e4f79ac1f58e1941d97f]: Commencement: Reg. 287 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-5b05fc2f9bf3e4f79ac1f58e1941d97f]: Commencement: Reg. 287 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

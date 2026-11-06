@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 91A. Cases in which payments to a housing authority are to take the form of a rent allowance[^key-f55849eaad12f271528f6b505a605393]
+## 91A. Cases in which payments to a housing authority are to take the form of a rent allowance[^c-f55849eaad12f271528f6b505a605393]
 
 *Extent: E+W+S*
 
@@ -30,7 +30,7 @@ summary: ''
 - (d) an interim empty dwelling management order made in accordance with section 133 of that Act; and
 - (e) a final empty dwelling management order made in accordance with section 136 of that Act.
 
-(3)[^key-efa3b49be10e1df4d66ac9585f1e6bbf] Where—
+(3)[^c-efa3b49be10e1df4d66ac9585f1e6bbf] Where—
 
 - (a) the occupier of a caravan, mobile home or houseboat is liable to make payments in respect of that caravan, mobile home or houseboat and housing benefit in relation to those payments takes the form of a rent allowance; and
 - (b) the occupier is also liable to make payments to a housing authority in respect of the site on which that caravan or mobile home stands, or in respect of the mooring to which the houseboat is attached,
@@ -39,6 +39,6 @@ housing benefit in respect of payments to the housing authority shall take the f
 
 ## Annotations
 
-[^key-f55849eaad12f271528f6b505a605393]: Textual amendment: Reg. 91A inserted (3.4.2006) by [The Housing Benefit (Amendment) Regulations 2006 (S.I. 2006/644)](https://www.legislation.gov.uk/uksi/2006/644), [regs. 1](https://www.legislation.gov.uk/uksi/2006/644/regulation/1), [2](https://www.legislation.gov.uk/uksi/2006/644/regulation/2)
+[^c-f55849eaad12f271528f6b505a605393]: Textual amendment: Reg. 91A inserted (3.4.2006) by [The Housing Benefit (Amendment) Regulations 2006 (S.I. 2006/644)](https://www.legislation.gov.uk/uksi/2006/644), [regs. 1](https://www.legislation.gov.uk/uksi/2006/644/regulation/1), [2](https://www.legislation.gov.uk/uksi/2006/644/regulation/2)
 
-[^key-efa3b49be10e1df4d66ac9585f1e6bbf]: Textual amendment: Reg. 91A(3) added (6.4.2009) by [The Housing Benefit and Council Tax Benefit (Amendment) (No. 2) Regulations 2008 (S.I. 2008/2824)](https://www.legislation.gov.uk/uksi/2008/2824), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2824/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2008/2824/regulation/2/2)
+[^c-efa3b49be10e1df4d66ac9585f1e6bbf]: Textual amendment: Reg. 91A(3) added (6.4.2009) by [The Housing Benefit and Council Tax Benefit (Amendment) (No. 2) Regulations 2008 (S.I. 2008/2824)](https://www.legislation.gov.uk/uksi/2008/2824), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2824/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2008/2824/regulation/2/2)

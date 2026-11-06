@@ -32,7 +32,7 @@ summary: ''
 
 European Union
 
-The European Communities (Designation) (No. 4) Order 2010 (revoked)[^key-078178b89d89fc8bd5a841fc01da7a81]
+The European Communities (Designation) (No. 4) Order 2010 (revoked)[^c-078178b89d89fc8bd5a841fc01da7a81]
 
 Made
 
@@ -52,31 +52,31 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-078178b89d89fc8bd5a841fc01da7a81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-078178b89d89fc8bd5a841fc01da7a81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-078178b89d89fc8bd5a841fc01da7a81]
+## 1. Citation, commencement and interpretation[^c-078178b89d89fc8bd5a841fc01da7a81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation in relation to public procurement[^key-078178b89d89fc8bd5a841fc01da7a81]
+## 2. Designation in relation to public procurement[^c-078178b89d89fc8bd5a841fc01da7a81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation in relation to social security[^key-078178b89d89fc8bd5a841fc01da7a81]
+## 3. Designation in relation to social security[^c-078178b89d89fc8bd5a841fc01da7a81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Relationship with other designations[^key-078178b89d89fc8bd5a841fc01da7a81]
+## 4. Relationship with other designations[^c-078178b89d89fc8bd5a841fc01da7a81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-078178b89d89fc8bd5a841fc01da7a81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-078178b89d89fc8bd5a841fc01da7a81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-078178b89d89fc8bd5a841fc01da7a81]EXPLANATORY NOTE
+[^c-078178b89d89fc8bd5a841fc01da7a81]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -92,4 +92,4 @@ A full Impact Assessment has not been produced for this instrument as no impact 
 
 ## Annotations
 
-[^key-078178b89d89fc8bd5a841fc01da7a81]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/2473) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-078178b89d89fc8bd5a841fc01da7a81]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/2473) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

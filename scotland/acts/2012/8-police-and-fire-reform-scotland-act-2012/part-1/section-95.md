@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 95. SPT visits[^key-229562b64b2e305fbf4fd86433d22037]
+## 95. SPT visits[^c-229562b64b2e305fbf4fd86433d22037]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-229562b64b2e305fbf4fd86433d22037]: Commencement: [S. 95](https://www.legislation.gov.uk/asp/2012/8/section/95) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-229562b64b2e305fbf4fd86433d22037]: Commencement: [S. 95](https://www.legislation.gov.uk/asp/2012/8/section/95) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Where no return and declaration is needed[^key-012f09aa391c25e48a1f8a327c45bead]
+## 50. Where no return and declaration is needed[^c-012f09aa391c25e48a1f8a327c45bead]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ Notwithstanding anything in articles 47 and 48, no return or declaration as to e
 
 ## Annotations
 
-[^key-012f09aa391c25e48a1f8a327c45bead]: Commencement: Art. 50 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-012f09aa391c25e48a1f8a327c45bead]: Commencement: Art. 50 in force at 16.12.2015 in accordance with art. 1(1)

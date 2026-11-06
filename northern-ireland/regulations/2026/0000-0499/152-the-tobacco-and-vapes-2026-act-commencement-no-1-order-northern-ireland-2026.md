@@ -37,11 +37,11 @@ Made
 
 The Department of Health, in exercise of the powers conferred by section 175(8)(a) of the Tobacco and Vapes Act 2026[^f00001], makes the following Order.
 
-## 1. Citation[^key-2c923bd2b3932584c5001fb7e4a60f49]
+## 1. Citation[^c-2c923bd2b3932584c5001fb7e4a60f49]
 
 This Order may be cited as The Tobacco and Vapes (2026 Act) (Commencement No.1) Order (Northern Ireland) 2026.
 
-## 2. Appointed day[^key-1937235a6ee2200bd779b90b3ac27347]
+## 2. Appointed day[^c-1937235a6ee2200bd779b90b3ac27347]
 
 The appointed day for the coming into operation of the following provisions of the Tobacco and Vapes Act 2026 is 29<sup>th</sup> October 2026—
 
@@ -64,6 +64,6 @@ This Order brings into operation on 29<sup>th</sup> October 2026 section 87 of, 
 
 [^f00001]: Footnote: [2026 c. 18](https://www.legislation.gov.uk/ukpga/2026/18)
 
-[^key-2c923bd2b3932584c5001fb7e4a60f49]: Commencement: Art. 1 in operation at made date
+[^c-2c923bd2b3932584c5001fb7e4a60f49]: Commencement: Art. 1 in operation at made date
 
-[^key-1937235a6ee2200bd779b90b3ac27347]: Commencement: Art. 2 in operation at made date
+[^c-1937235a6ee2200bd779b90b3ac27347]: Commencement: Art. 2 in operation at made date

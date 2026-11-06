@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1.9. Summoning of meetings under s. 3[^key-3e97dde7114a269ea786afe13f91ffc8]
+## 1.9. Summoning of meetings under s. 3[^c-3e97dde7114a269ea786afe13f91ffc8]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e97dde7114a269ea786afe13f91ffc8]: Commencement: [Rule 1.9](https://www.legislation.gov.uk/uksi/1986/1925/rule/1.9) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-3e97dde7114a269ea786afe13f91ffc8]: Commencement: [Rule 1.9](https://www.legislation.gov.uk/uksi/1986/1925/rule/1.9) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

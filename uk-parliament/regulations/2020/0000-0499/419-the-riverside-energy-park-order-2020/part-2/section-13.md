@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Temporary prohibition or restriction of use of streets and public rights of way[^key-aee4afb18b7272be2a3a772a6cf5f12a]
+## 13. Temporary prohibition or restriction of use of streets and public rights of way[^c-aee4afb18b7272be2a3a772a6cf5f12a]
 
 *Extent: E+W*
 
-(1) The undertaker may, during and for the purposes of constructing the authorised development, temporarily alter, divert, prohibit the use of or restrict the use of any street or public right of way [^key-4da3120a3683225da784104c42c6fdf1]... and may for any reasonable time—
+(1) The undertaker may, during and for the purposes of constructing the authorised development, temporarily alter, divert, prohibit the use of or restrict the use of any street or public right of way [^c-4da3120a3683225da784104c42c6fdf1]... and may for any reasonable time—
 
 - (a) divert the traffic from the street or public right of way; and
 - (b) subject to paragraph (3), prevent all persons from passing along the street or public right of way.
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aee4afb18b7272be2a3a772a6cf5f12a]: Commencement: Art. 13 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-aee4afb18b7272be2a3a772a6cf5f12a]: Commencement: Art. 13 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-4da3120a3683225da784104c42c6fdf1]: Textual amendment: Words in [art. 13(1)](https://www.legislation.gov.uk/uksi/2020/419/article/13/1) omitted (10.3.2021) by virtue of [The Riverside Energy Park (Correction) Order 2021 (S.I. 2021/273)](https://www.legislation.gov.uk/uksi/2021/273), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/273/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/273/schedule)
+[^c-4da3120a3683225da784104c42c6fdf1]: Textual amendment: Words in [art. 13(1)](https://www.legislation.gov.uk/uksi/2020/419/article/13/1) omitted (10.3.2021) by virtue of [The Riverside Energy Park (Correction) Order 2021 (S.I. 2021/273)](https://www.legislation.gov.uk/uksi/2021/273), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/273/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/273/schedule)

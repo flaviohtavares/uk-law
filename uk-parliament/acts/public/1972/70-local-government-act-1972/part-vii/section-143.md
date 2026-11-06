@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 143. Subscriptions to local government associations.[^c15110431][^c15110441][^key-f5176eb33cf162a81003c2fb0a828db6]
+## 143. Subscriptions to local government associations.[^c15110431][^c15110441][^c-f5176eb33cf162a81003c2fb0a828db6]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
     S. 143: power conferred to make provisions about matters of the kind dealt with in this section (1.9.1997) by [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50), [s. 44(1)](https://www.legislation.gov.uk/ukpga/1997/50/section/44/1), [Sch. 4(a)(xi)](https://www.legislation.gov.uk/ukpga/1997/50/schedule/4/a/xi); [S.I. 1997/1930](https://www.legislation.gov.uk/uksi/1997/1930), [art. 2(1)(2)(m)](https://www.legislation.gov.uk/uksi/1997/1930/article/2/1/2/m)
 
-[^key-f5176eb33cf162a81003c2fb0a828db6]: Modification: S. 143 applied (with modifications) (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [7](https://www.legislation.gov.uk/uksi/2011/939/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/939/schedule/1)
+[^c-f5176eb33cf162a81003c2fb0a828db6]: Modification: S. 143 applied (with modifications) (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [7](https://www.legislation.gov.uk/uksi/2011/939/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/939/schedule/1)
 
 [^M_F_fbddae10-6cc1-40ce-a1c0-402f3c1326a6]: Textual amendment: Words in s. 143(2) inserted (25.3.2022) by [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/uksi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/372/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2022/372/regulation/19)

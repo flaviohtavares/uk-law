@@ -39,7 +39,7 @@ Be it therefore enacted by the King’s most Excellent Majesty, by and with the 
 
 ## Vote on Account for 2023-24
 
-### 1. Vote on account for 2023-24[^key-6aaef9a2a8afdde6d761b1e05cef4947]
+### 1. Vote on account for 2023-24[^c-6aaef9a2a8afdde6d761b1e05cef4947]
 
 (1) The use of resources for the year ending with 31 March 2024 is authorised up to the amount of £463,741,347,000.
 
@@ -57,7 +57,7 @@ up to the amount of £374,553,971,000.
 
 ## Further supplementary provision for 2022-23
 
-### 2. Authorisation of further supplementary provision for 2022-23[^key-59a3f6a44df8d71e9d26ff6a152db278]
+### 2. Authorisation of further supplementary provision for 2022-23[^c-59a3f6a44df8d71e9d26ff6a152db278]
 
 (1) The amount up to which the authorisation was conferred for the use of resources for the year ending with 31 March 2023 is to be treated as reduced by £1,987,407,000.
 
@@ -75,7 +75,7 @@ is to be treated as reduced by £24,497,487,000.
 
 (4) The increases and reductions for which this section provides are to be treated as having had effect from the beginning of 1 April 2022.
 
-### 3. Appropriation of further supplementary provision for 2022-23[^key-2ec63ff2a736dde4a189097223af504a]
+### 3. Appropriation of further supplementary provision for 2022-23[^c-2ec63ff2a736dde4a189097223af504a]
 
 (1) For the purposes of—
 
@@ -109,7 +109,7 @@ the Main Estimates Act 2022 is to be treated as having effect with the adjustmen
 
 ## Excesses for 2021-22
 
-### 4. Authorisation of excesses for 2021-22[^key-9eab0ad8afdd5f0769953effd674fc95]
+### 4. Authorisation of excesses for 2021-22[^c-9eab0ad8afdd5f0769953effd674fc95]
 
 (1) The amount up to which authorisation was conferred for the use of resources for the year ending with 31 March 2022 is to be treated as further increased, for the purpose of making good excesses, by £2,457,088,000.
 
@@ -117,7 +117,7 @@ the Main Estimates Act 2022 is to be treated as having effect with the adjustmen
 
 (3) The increases for which this section provides are to be treated as having had effect from the beginning of 1 April 2021.
 
-### 5. Appropriation of excesses for 2021-22[^key-b53af952daf2b7c3761cbe847b36b211]
+### 5. Appropriation of excesses for 2021-22[^c-b53af952daf2b7c3761cbe847b36b211]
 
 (1) For the purpose of appropriating the amount of resources the use of which for the year ending with 31 March 2022 is authorised by section 4(1), the Main Estimates Act 2021 is treated as having effect with the adjustments provided for in Schedule 2 to this Act.
 
@@ -140,7 +140,7 @@ the Main Estimates Act 2022 is to be treated as having effect with the adjustmen
 
 ## General
 
-### 6. Short title[^key-8f94c7104d8717cc07573c2ba165d96d]
+### 6. Short title[^c-8f94c7104d8717cc07573c2ba165d96d]
 
 This Act may be cited as the Supply and Appropriation (Anticipation and Adjustments) Act 2023.
 
@@ -148,13 +148,13 @@ This Act may be cited as the Supply and Appropriation (Anticipation and Adjustme
 
 Section 3
 
-**1.**[^key-7fe7f75f892179e904926f83850e0e95] (1) In this Schedule, where one asterisk (\*) or two asterisks (\*\*) appears at the beginning of a description of matters to which expenditure may relate, or from which income may arise, the description is a description which was not included in the Schedule to the Supply and Appropriation (Main Estimates) Act 2022 as originally enacted.
+**1.**[^c-7fe7f75f892179e904926f83850e0e95] (1) In this Schedule, where one asterisk (\*) or two asterisks (\*\*) appears at the beginning of a description of matters to which expenditure may relate, or from which income may arise, the description is a description which was not included in the Schedule to the Supply and Appropriation (Main Estimates) Act 2022 as originally enacted.
 
 (2) Text which follows one asterisk (\*) was added by the Schedule to the Supply and Appropriation (Adjustments) Act 2022.
 
 (3) Text which follows two asterisks (\*\*) is added by this Schedule.
 
-**2.**[^key-56c330a31544ca222175cfd455c544bc] In the Schedule to the Supply and Appropriation (Main Estimates) Act 2022, the title of the Estimate that is now entitled “Parliamentary Works Grant” was “Parliamentary Works Sponsor Body”.
+**2.**[^c-56c330a31544ca222175cfd455c544bc] In the Schedule to the Supply and Appropriation (Main Estimates) Act 2022, the title of the Estimate that is now entitled “Parliamentary Works Grant” was “Parliamentary Works Sponsor Body”.
 
 Department of Health and Social Care, 2022-23
 
@@ -1160,7 +1160,7 @@ National Audit Office
 
 Section 5
 
-**1.**[^key-9909dcc622ac746d5d3b25720695d93e] (1) In this Schedule, where two asterisks (\*\*) appear at the beginning of a description of matters to which expenditure may relate, the description is a description which was not included in the Schedule to the Supply and Appropriation (Main Estimates) Act 2021 as originally enacted.
+**1.**[^c-9909dcc622ac746d5d3b25720695d93e] (1) In this Schedule, where two asterisks (\*\*) appear at the beginning of a description of matters to which expenditure may relate, the description is a description which was not included in the Schedule to the Supply and Appropriation (Main Estimates) Act 2021 as originally enacted.
 
 (2) Text which follows two asterisks (\*\*) is added by this Schedule.
 
@@ -1186,20 +1186,20 @@ Department of Health and Social Care
 
 ## Annotations
 
-[^key-6aaef9a2a8afdde6d761b1e05cef4947]: Commencement: S. 1 in force at Royal Assent
+[^c-6aaef9a2a8afdde6d761b1e05cef4947]: Commencement: S. 1 in force at Royal Assent
 
-[^key-59a3f6a44df8d71e9d26ff6a152db278]: Commencement: S. 2 in force at Royal Assent
+[^c-59a3f6a44df8d71e9d26ff6a152db278]: Commencement: S. 2 in force at Royal Assent
 
-[^key-2ec63ff2a736dde4a189097223af504a]: Commencement: S. 3 in force at Royal Assent
+[^c-2ec63ff2a736dde4a189097223af504a]: Commencement: S. 3 in force at Royal Assent
 
-[^key-9eab0ad8afdd5f0769953effd674fc95]: Commencement: S. 4 in force at Royal Assent
+[^c-9eab0ad8afdd5f0769953effd674fc95]: Commencement: S. 4 in force at Royal Assent
 
-[^key-b53af952daf2b7c3761cbe847b36b211]: Commencement: S. 5 in force at Royal Assent
+[^c-b53af952daf2b7c3761cbe847b36b211]: Commencement: S. 5 in force at Royal Assent
 
-[^key-8f94c7104d8717cc07573c2ba165d96d]: Commencement: S. 6 in force at Royal Assent
+[^c-8f94c7104d8717cc07573c2ba165d96d]: Commencement: S. 6 in force at Royal Assent
 
-[^key-7fe7f75f892179e904926f83850e0e95]: Commencement: Sch. 1 para. 1 in force at Royal Assent
+[^c-7fe7f75f892179e904926f83850e0e95]: Commencement: Sch. 1 para. 1 in force at Royal Assent
 
-[^key-56c330a31544ca222175cfd455c544bc]: Commencement: Sch. 1 para. 2 in force at Royal Assent
+[^c-56c330a31544ca222175cfd455c544bc]: Commencement: Sch. 1 para. 2 in force at Royal Assent
 
-[^key-9909dcc622ac746d5d3b25720695d93e]: Commencement: Sch. 2 para. 1 in force at Royal Assent
+[^c-9909dcc622ac746d5d3b25720695d93e]: Commencement: Sch. 2 para. 1 in force at Royal Assent

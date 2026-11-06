@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Meaning of operator[^key-fc980ab79f606b7000d7f752008c8aae]
+## 4. Meaning of operator[^c-fc980ab79f606b7000d7f752008c8aae]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc980ab79f606b7000d7f752008c8aae]: Commencement: Reg. 4 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-fc980ab79f606b7000d7f752008c8aae]: Commencement: Reg. 4 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)

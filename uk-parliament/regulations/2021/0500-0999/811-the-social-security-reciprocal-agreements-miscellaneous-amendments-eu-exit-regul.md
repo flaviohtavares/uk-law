@@ -52,7 +52,7 @@ The Secretary of State, in exercise of the powers conferred by section 8(1) and 
 
 The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the appropriate Parliamentary procedure for these Regulations) have been satisfied.
 
-## 1. Citation, commencement and extent[^key-03454360548a85029cbd25f4b623a9ed]
+## 1. Citation, commencement and extent[^c-03454360548a85029cbd25f4b623a9ed]
 
 (1) These Regulations may be cited as the Social Security (Reciprocal Agreements) (Miscellaneous Amendments) (EU Exit) Regulations 2021.
 
@@ -66,13 +66,13 @@ The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the ap
 
 (6) Regulations 5, 6 and 7 extend to England and Wales, Scotland and Northern Ireland.
 
-## .... The Social Fund Winter Fuel Payment Regulations 2000[^key-52868328d15253f58e7c707ee97669ec]
+## .... The Social Fund Winter Fuel Payment Regulations 2000[^c-52868328d15253f58e7c707ee97669ec]
 
 *Extent: E+W+S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Social Security (Application of Reciprocal Agreements with Australia, Canada and New Zealand) (EEA States and Switzerland) Regulations 2015[^key-0474f262a663593f9ec83074dc55ba1e]
+## 3. Amendments to the Social Security (Application of Reciprocal Agreements with Australia, Canada and New Zealand) (EEA States and Switzerland) Regulations 2015[^c-0474f262a663593f9ec83074dc55ba1e]
 
 *Extent: E+W+S*
 
@@ -95,7 +95,7 @@ The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the ap
 
 .
 
-## 4. Revocation of the Social Security (Application of Reciprocal Agreements with Australia, Canada and New Zealand) (EEA States and Switzerland) Regulations 2015[^key-52ef2eed65ad967d9d591a9b9cdec8c2]
+## 4. Revocation of the Social Security (Application of Reciprocal Agreements with Australia, Canada and New Zealand) (EEA States and Switzerland) Regulations 2015[^c-52ef2eed65ad967d9d591a9b9cdec8c2]
 
 *Extent: E+W+S*
 
@@ -106,19 +106,19 @@ The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the ap
 - (a) are habitually resident in an EEA state or Switzerland on 31st December 2021; and
 - (b) remain habitually resident in that same state after 31st December 2021.
 
-## 5. The European Network of Employment Services (EU Exit) Regulations 2018[^key-a30145ee25d76b96b166b14a7cba07c9]
+## 5. The European Network of Employment Services (EU Exit) Regulations 2018[^c-a30145ee25d76b96b166b14a7cba07c9]
 
 (1) The European Network of Employment Services (EU Exit) Regulations 2018[^f00006] are amended as follows.
 
 (2) Omit regulation 3 (transitional and consequential provisions on the revocation of retained EU instruments).
 
-## 6. The Transfer of State Pensions and Benefits Regulations 2007[^key-3c77dcb2d248574a1717ac30cd059240]
+## 6. The Transfer of State Pensions and Benefits Regulations 2007[^c-3c77dcb2d248574a1717ac30cd059240]
 
 (1) The Transfer of State Pensions and Benefits Regulations 2007[^f00007] are amended as follows.
 
 (2) In regulation 1 (citation, commencement and interpretation), omit paragraph (2A).
 
-## 7. Regulation (EEC, Euratom, ECSC) No 259/68 of the Council of 29 February 1968 laying down the Staff Regulations of Officials and the Conditions of Employment of Other Servants of the European Communities and instituting special measures temporarily applicable to officials of the Commission[^key-c21731411eb13b1f497c7dbba92e0d66]
+## 7. Regulation (EEC, Euratom, ECSC) No 259/68 of the Council of 29 February 1968 laying down the Staff Regulations of Officials and the Conditions of Employment of Other Servants of the European Communities and instituting special measures temporarily applicable to officials of the Commission[^c-c21731411eb13b1f497c7dbba92e0d66]
 
 Articles 11 and 12 of Annex VIII to the Staff Regulations of Officials of the European Union, and articles 39, 109 and 135 of the Conditions of Employment of Other Servants of the European Union, in Regulation (EEC, Euratom, ECSC) No 259/68 of the Council of 29 February 1968 laying down the Staff Regulations of Officials and the Conditions of Employment of Other Servants of the European Communities and instituting special measures temporarily applicable to officials of the Commission, to the extent these articles form part of domestic law by virtue of section 3 of the European Union (Withdrawal) Act 2018[^f00008], are omitted.
 
@@ -156,26 +156,26 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00001]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16). Section 8 was amended by section 27 of the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1). Paragraph 21 of Schedule 7 was amended by paragraph 53(2) of Schedule 5 of the European Union (Withdrawal Agreement) Act 2020.
 
-[^key-03454360548a85029cbd25f4b623a9ed]: Commencement: Reg. 1 in force at 31.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/811/regulation/1/2)
+[^c-03454360548a85029cbd25f4b623a9ed]: Commencement: Reg. 1 in force at 31.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/811/regulation/1/2)
 
-[^key-52868328d15253f58e7c707ee97669ec]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2021/811/regulation/2) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869)](https://www.legislation.gov.uk/uksi/2024/869), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/869/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/869/schedule/2)
+[^c-52868328d15253f58e7c707ee97669ec]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2021/811/regulation/2) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869)](https://www.legislation.gov.uk/uksi/2024/869), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/869/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/869/schedule/2)
 
-[^key-0474f262a663593f9ec83074dc55ba1e]: Commencement: Reg. 3 in force at 31.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/811/regulation/1/2)
+[^c-0474f262a663593f9ec83074dc55ba1e]: Commencement: Reg. 3 in force at 31.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/811/regulation/1/2)
 
 [^f00004]: Footnote: [2020 c. 29](https://www.legislation.gov.uk/ukpga/2020/29).
 
-[^key-52ef2eed65ad967d9d591a9b9cdec8c2]: Commencement: Reg. 4 in force at 31.12.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2021/811/regulation/1/4)
+[^c-52ef2eed65ad967d9d591a9b9cdec8c2]: Commencement: Reg. 4 in force at 31.12.2021, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2021/811/regulation/1/4)
 
 [^f00005]: Footnote: [S.I. 2015/349](https://www.legislation.gov.uk/uksi/2015/349).
 
-[^key-a30145ee25d76b96b166b14a7cba07c9]: Commencement: Reg. 5 in force at 31.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/811/regulation/1/2)
+[^c-a30145ee25d76b96b166b14a7cba07c9]: Commencement: Reg. 5 in force at 31.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/811/regulation/1/2)
 
 [^f00006]: Footnote: [S.I. 2018/1283](https://www.legislation.gov.uk/uksi/2018/1283).
 
-[^key-3c77dcb2d248574a1717ac30cd059240]: Commencement: Reg. 6 in force at 31.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/811/regulation/1/2)
+[^c-3c77dcb2d248574a1717ac30cd059240]: Commencement: Reg. 6 in force at 31.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/811/regulation/1/2)
 
 [^f00007]: Footnote: [S.I. 2007/1398](https://www.legislation.gov.uk/uksi/2007/1398). Paragraph (2A) was inserted by [S.I. 2010/1825](https://www.legislation.gov.uk/uksi/2010/1825). There are other amendments not relevant to these Regulations.
 
-[^key-c21731411eb13b1f497c7dbba92e0d66]: Commencement: Reg. 7 in force at 31.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/811/regulation/1/2)
+[^c-c21731411eb13b1f497c7dbba92e0d66]: Commencement: Reg. 7 in force at 31.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/811/regulation/1/2)
 
 [^f00008]: Footnote: Section 3 was amended by section 25 of the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1).

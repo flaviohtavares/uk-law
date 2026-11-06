@@ -53,8 +53,8 @@ The Secretary of State makes the following Regulations in exercise of the powers
 (2) In these Regulations—
 
 - “**the Act**” means the Pensions Act 2008;
-- “deferral date” means the date specified in a notice given by an employer under regulation 4B(1) or (2);[^key-f38e712460563fd3a0fed7e39253118a]
-- “**employer, except in regulations 4B and 4C,[^key-a5806c039d0a283e4e4c152e0927ee02]**” has the meaning given by–
+- “deferral date” means the date specified in a notice given by an employer under regulation 4B(1) or (2);[^c-f38e712460563fd3a0fed7e39253118a]
+- “**employer, except in regulations 4B and 4C,[^c-a5806c039d0a283e4e4c152e0927ee02]**” has the meaning given by–
   - (a) section 88(7) of the Act; and
   - (b) regulation 2(2);
 - “the employers' duties” means sections 2 to 9 of the Act;
@@ -67,23 +67,23 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
   a worker or workers to whom PAYE income is payable;
 - “**scheme administrator**” has the same meaning as in section 270 of the Finance Act 2004 [^c20097471]; and
-- “[^key-3efb6be64029ef596cbb14fecca542de]**staging date**” means the date prescribed in accordance with regulation 2(1) on which the employers’ duties apply to employers.
+- “[^c-3efb6be64029ef596cbb14fecca542de]**staging date**” means the date prescribed in accordance with regulation 2(1) on which the employers’ duties apply to employers.
 
 ## 2. Application of the employers' duties to employers
 
-(1)[^key-fd91049c364e1b739dc09fb06d8d32ea] Except where an employer satisfies the conditions for early automatic enrolment in regulation 3, the employers’ duties do not apply to employers described in the first column of the table in regulation 4 until—
+(1)[^c-fd91049c364e1b739dc09fb06d8d32ea] Except where an employer satisfies the conditions for early automatic enrolment in regulation 3, the employers’ duties do not apply to employers described in the first column of the table in regulation 4 until—
 
 - (a) the corresponding staging date prescribed in the final column of that table; or
 - (b) in a case to which paragraph (1A) applies—
   - (i) the corresponding staging date prescribed in the final column of that table in regulation 4; or
   - (ii) where the employer so chooses, the corresponding staging date prescribed in the final column of the table as modified by regulation 4A.
 
-(1A)[^key-1cc7d8ebe92fdf599828e23f7c1d85fc] This paragraph applies in a case where, on 1st April 2012, the employer—
+(1A)[^c-1cc7d8ebe92fdf599828e23f7c1d85fc] This paragraph applies in a case where, on 1st April 2012, the employer—
 
 - (a) had less than 50 workers; and
 - (b) had, or was part of, one or more PAYE schemes in which there were 50 or more persons.
 
-(2) For the purposes of these Regulations (except for regulations 4B and 4C)[^key-12a884d3bcdad31800f0fad4bac49c04], an employer is a person within the meaning of section 88(7) of the Act who—
+(2) For the purposes of these Regulations (except for regulations 4B and 4C)[^c-12a884d3bcdad31800f0fad4bac49c04], an employer is a person within the meaning of section 88(7) of the Act who—
 
 - (a) has , or is part of,[^c22560501] a PAYE scheme of any size, determined by the Regulator in accordance with paragraphs (3) and (4); or
 - (b) meets any other description contained in the first column of the table in regulation 4 (including having no PAYE scheme).
@@ -102,28 +102,28 @@ the employers' duties apply to that employer in respect of the scheme (or scheme
 (6) Any employer who first pays PAYE income in respect of a worker between—
 
 - (a) 1st April 2012; and
-- (b) up to (but not including) 1st October 2017[^key-e30ee84c013fc46834b51810fbb90b1e],
+- (b) up to (but not including) 1st October 2017[^c-e30ee84c013fc46834b51810fbb90b1e],
 
 is to be treated as a new employer in accordance with the relevant entry in the first column of the table in regulation 4.
 
 (7) Where paragraph (6) applies, the employers' duties do not apply to such an employer until PAYE income is first payable in respect of any worker and then only in accordance with the table in regulation 4.
 
-(8)[^key-d9f915eac19d07751c430b47bf4922e1] Where—
+(8)[^c-d9f915eac19d07751c430b47bf4922e1] Where—
 
 - (a) an employer first pays PAYE income in respect of any worker on or after 1st October 2017; and
 - (b) the employers’ duties do not already apply to that employer,
 
 the employers’ duties apply to that employer from the day on which the employer’s first worker begins to be employed by the employer.
 
-(9)[^key-1ef09cbcd1012fc979c1c264cdf42253] This paragraph applies in the case of an employer who does not have a PAYE scheme in respect of any worker after 1st April 2017.
+(9)[^c-1ef09cbcd1012fc979c1c264cdf42253] This paragraph applies in the case of an employer who does not have a PAYE scheme in respect of any worker after 1st April 2017.
 
-(10) Where paragraph (9) applies and the employers’ duties do not already apply to that employer, the employers’ duties apply to that employer from the date on which the employer’s first worker begins to be employed by the employer[^key-c510c560dd5ef57948752361b1fa7f0a].
+(10) Where paragraph (9) applies and the employers’ duties do not already apply to that employer, the employers’ duties apply to that employer from the date on which the employer’s first worker begins to be employed by the employer[^c-c510c560dd5ef57948752361b1fa7f0a].
 
 ## 3. Early automatic enrolment
 
 (1)[^c22560521] Where the conditions in paragraphs (3) and (4) are both satisfied, the employers' duties apply to an employer from the early automatic enrolment date referred to in paragraph (5).
 
-(1A)[^key-e91656efaf164f75fd2c3de199cf9925] This regulation does not apply where the employer has chosen a staging date in accordance with regulation 2(1)(b)(ii).
+(1A)[^c-e91656efaf164f75fd2c3de199cf9925] This regulation does not apply where the employer has chosen a staging date in accordance with regulation 2(1)(b)(ii).
 
 (2) Where the condition in paragraph (3) is satisfied but the condition in paragraph (4) is not satisfied, the employers' duties apply to an employer from the staging date corresponding to that employer's description [^c22560541]... .
 
@@ -132,35 +132,35 @@ the employers’ duties apply to that employer from the day on which the employe
 (4) The second condition is that an employer has chosen an early automatic enrolment date referred to in paragraph (5)[^c22560561] for the employers' duties to apply, which is earlier than the date mentioned in the final column of that table corresponding to that employer, and has—
 
 - (a) [^c22560581]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) where, on the date the employer notifies the Regulator in accordance with sub-paragraph (c), the duty in section 3(2) of the Act (automatic enrolment) applies in relation to at least one of that employer’s jobholders,[^key-a3d1257a03b63b509a98b98aed7f52c8] secured the agreement of the trustees or managers[^c22560601] (or scheme administrator or provider) of a pension scheme[^key-d2ee7ad92cc9e7db14d35a2dc9123f51] that that scheme is[^key-b712227ff5cc8a21a3f1e296a171cd58] to be used by the employer to comply with those duties from that early automatic enrolment date; and
+- (b) where, on the date the employer notifies the Regulator in accordance with sub-paragraph (c), the duty in section 3(2) of the Act (automatic enrolment) applies in relation to at least one of that employer’s jobholders,[^c-a3d1257a03b63b509a98b98aed7f52c8] secured the agreement of the trustees or managers[^c22560601] (or scheme administrator or provider) of a pension scheme[^c-d2ee7ad92cc9e7db14d35a2dc9123f51] that that scheme is[^c-b712227ff5cc8a21a3f1e296a171cd58] to be used by the employer to comply with those duties from that early automatic enrolment date; and
 - (c)[^c22560621] notified the Regulator accordingly in writing, at any time—
-  - (i) where paragraph (5)(a) or (d) applies, on or before the early automatic enrolment date;[^key-7466e5257256bcbd6bc187aaa39792c9]
+  - (i) where paragraph (5)(a) or (d) applies, on or before the early automatic enrolment date;[^c-7466e5257256bcbd6bc187aaa39792c9]
   - (ii) where paragraph (5)(b) applies, before 1st November 2012; or
   - (iii) where paragraph (5)(c) applies, no later than the first day of the period of one month before the date specified in that sub-paragraph.
 
 (5)[^c22560651] The early automatic enrolment date is—
 
 - (a) any date in the final column of the table in regulation 4 which is earlier than the staging date corresponding to that employers' description;
-- (b) 1st December 2012; [^key-69bffa5c31e036d321c56c7c746e058b]...
+- (b) 1st December 2012; [^c-69bffa5c31e036d321c56c7c746e058b]...
 - (c) in the case of an employer of 50,000 or more persons by PAYE scheme size or any other description, one of the following dates to be chosen by the employer—
   - (i) 1st July 2012;
   - (ii) 1st August 2012; or
-  - (iii) 1st September 2012; or[^key-1e881cba1f2d4163e5d76729839df52a]
+  - (iii) 1st September 2012; or[^c-1e881cba1f2d4163e5d76729839df52a]
 - (d) in the case of an employer who has no jobholder to whom the duty in section 3(2) of the Act applies on the date the employer notifies the Regulator in accordance with paragraph (4)(c)(i), any date which is earlier than the staging date corresponding to that employer’s description.
 
 ## 4. Staging of the employers' duties
 
 (1) The table in this regulation sets out the application of the employers' duties.
 
-(2)[^key-239dabe8353ac28d37cbaf972a60f3b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-239dabe8353ac28d37cbaf972a60f3b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-239dabe8353ac28d37cbaf972a60f3b6] ......
+(3)[^c-239dabe8353ac28d37cbaf972a60f3b6] ......
 
 Table
 
 | *Employer (by PAYE scheme size or other description)* | *Date before which notification to automatically enrol early must be sent* | *Staging date* |
 | --- | --- | --- |
-| 120,000 or more | [^key-81e9a8ec5a0f073760cdd907d56a12d9]. . . | 1st October 2012 |
+| 120,000 or more | [^c-81e9a8ec5a0f073760cdd907d56a12d9]. . . | 1st October 2012 |
 | 50,000-119,999 |  | 1st November 2012 |
 | 30,000-49,999 |  | 1st January 2013 |
 | 20,000-29,999 |  | 1st February 2013 |
@@ -175,7 +175,7 @@ Table
 | 500-799 |  | 1st November 2013 |
 | 350-499 |  | 1st January 2014 |
 | 250-349 |  | 1st February 2014 |
-| 160-249[^key-fa04b6027952765d0189884841884952] |  | 1st April 2014 |
+| 160-249[^c-fa04b6027952765d0189884841884952] |  | 1st April 2014 |
 | 90-159 |  | 1st May 2014 |
 | 62-89 |  | 1st July 2014 |
 | 61 |  | 1st August 2014 |
@@ -215,7 +215,7 @@ Table
 | New employer ( PAYE income first payable between 1st October 2016 and 30th June 2017) |  | 1st January 2018 |
 | New employer ( PAYE income first payable between 1st July 2017 and 30th September 2017) |  | 1st February 2018 |
 
-**4A.**[^key-7a9737b525f0deb6a571cd7079139f08] (1) For the purposes of regulation 2(1)(b)(ii), the date in the final column of the table in regulation 4 is modified in accordance with paragraph (2).
+**4A.**[^c-7a9737b525f0deb6a571cd7079139f08] (1) For the purposes of regulation 2(1)(b)(ii), the date in the final column of the table in regulation 4 is modified in accordance with paragraph (2).
 
 (2) Where the staging date in the final column of the table in regulation 4 is in the period—
 
@@ -232,7 +232,7 @@ Table
 - (k) beginning with 1st November 2014 and ending on 1st January 2015, the modified date is 1st February 2017; or
 - (l) beginning with 1st March 2015 and ending on 1st April 2015, the modified date is 1st April 2017.
 
-## 4B. Deferral of automatic enrolment for post-staging employers[^key-4d8fe674ecb99712c72b2286fae4d727]
+## 4B. Deferral of automatic enrolment for post-staging employers[^c-4d8fe674ecb99712c72b2286fae4d727]
 
 (1) Where—
 
@@ -253,14 +253,14 @@ the worker’s automatic enrolment date is the deferral date if on that date sec
 
 (4) A notice under paragraph (1) or (2) may be given on the starting day or within the period of six weeks beginning with the day after the starting day.
 
-(5) The deferral date may be any date in the period of three months after[^key-3fc0c33a372c3758b58d645b6d4b70ef] the starting day.
+(5) The deferral date may be any date in the period of three months after[^c-3fc0c33a372c3758b58d645b6d4b70ef] the starting day.
 
 (6) If E gives a worker a notice under paragraph (1), E may not give the worker a notice under paragraph (2) in relation to any occasion on or before the deferral date on which the worker becomes a jobholder to whom section 3 applies.
 
 (7) In this regulation—
 
 - (a) references to “E” (or to an “employer”) are to a person falling within the meaning of “employer” in section 88(7) of the Act—
-  - (i)[^key-71bd1a42ae84ed23c1a174c9fd3cb20e] who first pays PAYE income in respect of any worker on or after 1st October 2017; or
+  - (i)[^c-71bd1a42ae84ed23c1a174c9fd3cb20e] who first pays PAYE income in respect of any worker on or after 1st October 2017; or
   - (ii) who does not have a PAYE scheme, where E’s first worker begins to be employed by E after 1st April 2017,
 
   where the employers’ duties did not apply before that date;
@@ -306,12 +306,12 @@ the worker’s automatic enrolment date is the deferral date if on that date sec
 
 For the purposes of section 29 of the Act (transitional periods for money purchase and personal pension schemes)—
 
-- (a) the first transitional period [^key-4a233f39254bf5ad9bcc35ae9f317804]... , beginning with the coming into force of section 20 (quality requirement: UK money purchase schemes), ends on, but includes, 5th April 2018[^key-9ef9d09648b6d761b676bbdad35ee67f]; and
-- (b) the second transitional period is one year beginning with 6th April 2018 and ending on, but including, 5th April 2019[^key-a0b1b5acdbba5f653801a2436d7511eb].
+- (a) the first transitional period [^c-4a233f39254bf5ad9bcc35ae9f317804]... , beginning with the coming into force of section 20 (quality requirement: UK money purchase schemes), ends on, but includes, 5th April 2018[^c-9ef9d09648b6d761b676bbdad35ee67f]; and
+- (b) the second transitional period is one year beginning with 6th April 2018 and ending on, but including, 5th April 2019[^c-a0b1b5acdbba5f653801a2436d7511eb].
 
 ## 6. Transitional period for defined benefits and hybrid schemes
 
-For the purposes of section 30 of the Act (transitional period for defined benefits and hybrid schemes), the transitional period for defined benefits and hybrid schemes[^key-683e935a685716009fdc6a62cb3aa8a0]..., beginning with the day on which section 3 (automatic enrolment) comes into force , ends on, but includes, 30th September 2017[^key-5ec8af4c5e9ef5c4734d3088f35b2cc8] .
+For the purposes of section 30 of the Act (transitional period for defined benefits and hybrid schemes), the transitional period for defined benefits and hybrid schemes[^c-683e935a685716009fdc6a62cb3aa8a0]..., beginning with the day on which section 3 (automatic enrolment) comes into force , ends on, but includes, 30th September 2017[^c-5ec8af4c5e9ef5c4734d3088f35b2cc8] .
 
 Signed by authority of the Secretary of State for Work and Pensions.
 
@@ -343,9 +343,9 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c22560461]: Textual amendment: Words in reg. 1(1) substituted (1.6.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/215)](https://www.legislation.gov.uk/uksi/2012/215), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/215/regulation/1/2/b), [3(a)](https://www.legislation.gov.uk/uksi/2012/215/regulation/3/a)
 
-[^key-f38e712460563fd3a0fed7e39253118a]: Textual amendment: Words in reg. 1(2) inserted (1.4.2017) by [The Employers Duties (Implementation) (Amendment) Regulations 2017 (S.I. 2017/347)](https://www.legislation.gov.uk/uksi/2017/347), [regs. 1](https://www.legislation.gov.uk/uksi/2017/347/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2017/347/regulation/3/1/a)
+[^c-f38e712460563fd3a0fed7e39253118a]: Textual amendment: Words in reg. 1(2) inserted (1.4.2017) by [The Employers Duties (Implementation) (Amendment) Regulations 2017 (S.I. 2017/347)](https://www.legislation.gov.uk/uksi/2017/347), [regs. 1](https://www.legislation.gov.uk/uksi/2017/347/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2017/347/regulation/3/1/a)
 
-[^key-a5806c039d0a283e4e4c152e0927ee02]: Textual amendment: Words in reg. 1(2) inserted (1.4.2017) by [The Employers Duties (Implementation) (Amendment) Regulations 2017 (S.I. 2017/347)](https://www.legislation.gov.uk/uksi/2017/347), [regs. 1](https://www.legislation.gov.uk/uksi/2017/347/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2017/347/regulation/3/1/b)
+[^c-a5806c039d0a283e4e4c152e0927ee02]: Textual amendment: Words in reg. 1(2) inserted (1.4.2017) by [The Employers Duties (Implementation) (Amendment) Regulations 2017 (S.I. 2017/347)](https://www.legislation.gov.uk/uksi/2017/347), [regs. 1](https://www.legislation.gov.uk/uksi/2017/347/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2017/347/regulation/3/1/b)
 
 [^c20097461]: Marginal citation: [2003 c.1](https://www.legislation.gov.uk/ukpga/2003/1). Section 683 has been amended but not in a way material to these Regulations.
 
@@ -353,27 +353,27 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c20097471]: Marginal citation: [2004 c.12](https://www.legislation.gov.uk/ukpga/2004/12).
 
-[^key-3efb6be64029ef596cbb14fecca542de]: Textual amendment: Words in reg. 1(2) substituted (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations 2012 (S.I. 2012/1813)](https://www.legislation.gov.uk/uksi/2012/1813), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1813/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/1813/regulation/2/2)
+[^c-3efb6be64029ef596cbb14fecca542de]: Textual amendment: Words in reg. 1(2) substituted (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations 2012 (S.I. 2012/1813)](https://www.legislation.gov.uk/uksi/2012/1813), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1813/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/1813/regulation/2/2)
 
-[^key-fd91049c364e1b739dc09fb06d8d32ea]: Textual amendment: Reg. 2(1) substituted (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations 2012 (S.I. 2012/1813)](https://www.legislation.gov.uk/uksi/2012/1813), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1813/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2012/1813/regulation/2/3/a)
+[^c-fd91049c364e1b739dc09fb06d8d32ea]: Textual amendment: Reg. 2(1) substituted (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations 2012 (S.I. 2012/1813)](https://www.legislation.gov.uk/uksi/2012/1813), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1813/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2012/1813/regulation/2/3/a)
 
-[^key-1cc7d8ebe92fdf599828e23f7c1d85fc]: Textual amendment: Reg. 2(1A) inserted (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations 2012 (S.I. 2012/1813)](https://www.legislation.gov.uk/uksi/2012/1813), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1813/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2012/1813/regulation/2/3/b)
+[^c-1cc7d8ebe92fdf599828e23f7c1d85fc]: Textual amendment: Reg. 2(1A) inserted (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations 2012 (S.I. 2012/1813)](https://www.legislation.gov.uk/uksi/2012/1813), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1813/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2012/1813/regulation/2/3/b)
 
-[^key-12a884d3bcdad31800f0fad4bac49c04]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2010/4/regulation/2/2) inserted (1.4.2017) by [The Employers Duties (Implementation) (Amendment) Regulations 2017 (S.I. 2017/347)](https://www.legislation.gov.uk/uksi/2017/347), [regs. 1](https://www.legislation.gov.uk/uksi/2017/347/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2017/347/regulation/3/2/a)
+[^c-12a884d3bcdad31800f0fad4bac49c04]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2010/4/regulation/2/2) inserted (1.4.2017) by [The Employers Duties (Implementation) (Amendment) Regulations 2017 (S.I. 2017/347)](https://www.legislation.gov.uk/uksi/2017/347), [regs. 1](https://www.legislation.gov.uk/uksi/2017/347/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2017/347/regulation/3/2/a)
 
 [^c22560501]: Textual amendment: Words in reg. 2(2)(a) inserted (1.6.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/215)](https://www.legislation.gov.uk/uksi/2012/215), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/215/regulation/1/2/a), [4](https://www.legislation.gov.uk/uksi/2012/215/regulation/4)
 
-[^key-e30ee84c013fc46834b51810fbb90b1e]: Textual amendment: Words in reg. 2(6)(b) substituted (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations 2012 (S.I. 2012/1813)](https://www.legislation.gov.uk/uksi/2012/1813), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1813/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2012/1813/regulation/2/3/c)
+[^c-e30ee84c013fc46834b51810fbb90b1e]: Textual amendment: Words in reg. 2(6)(b) substituted (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations 2012 (S.I. 2012/1813)](https://www.legislation.gov.uk/uksi/2012/1813), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1813/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2012/1813/regulation/2/3/c)
 
-[^key-d9f915eac19d07751c430b47bf4922e1]: Textual amendment: [Reg. 2(8)](https://www.legislation.gov.uk/uksi/2010/4/regulation/2/8) substituted (1.4.2017) by [The Employers Duties (Implementation) (Amendment) Regulations 2017 (S.I. 2017/347)](https://www.legislation.gov.uk/uksi/2017/347), [regs. 1](https://www.legislation.gov.uk/uksi/2017/347/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2017/347/regulation/3/2/b)
+[^c-d9f915eac19d07751c430b47bf4922e1]: Textual amendment: [Reg. 2(8)](https://www.legislation.gov.uk/uksi/2010/4/regulation/2/8) substituted (1.4.2017) by [The Employers Duties (Implementation) (Amendment) Regulations 2017 (S.I. 2017/347)](https://www.legislation.gov.uk/uksi/2017/347), [regs. 1](https://www.legislation.gov.uk/uksi/2017/347/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2017/347/regulation/3/2/b)
 
-[^key-1ef09cbcd1012fc979c1c264cdf42253]: Textual amendment: Reg. 2(9)(10) inserted (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations 2012 (S.I. 2012/1813)](https://www.legislation.gov.uk/uksi/2012/1813), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1813/regulation/1), [2(3)(e)](https://www.legislation.gov.uk/uksi/2012/1813/regulation/2/3/e)
+[^c-1ef09cbcd1012fc979c1c264cdf42253]: Textual amendment: Reg. 2(9)(10) inserted (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations 2012 (S.I. 2012/1813)](https://www.legislation.gov.uk/uksi/2012/1813), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1813/regulation/1), [2(3)(e)](https://www.legislation.gov.uk/uksi/2012/1813/regulation/2/3/e)
 
-[^key-c510c560dd5ef57948752361b1fa7f0a]: Textual amendment: Words in [reg. 2(10)](https://www.legislation.gov.uk/uksi/2010/4/regulation/2/10) substituted (1.4.2017) by [The Employers Duties (Implementation) (Amendment) Regulations 2017 (S.I. 2017/347)](https://www.legislation.gov.uk/uksi/2017/347), [regs. 1](https://www.legislation.gov.uk/uksi/2017/347/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2017/347/regulation/3/2/c)
+[^c-c510c560dd5ef57948752361b1fa7f0a]: Textual amendment: Words in [reg. 2(10)](https://www.legislation.gov.uk/uksi/2010/4/regulation/2/10) substituted (1.4.2017) by [The Employers Duties (Implementation) (Amendment) Regulations 2017 (S.I. 2017/347)](https://www.legislation.gov.uk/uksi/2017/347), [regs. 1](https://www.legislation.gov.uk/uksi/2017/347/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2017/347/regulation/3/2/c)
 
 [^c22560521]: Textual amendment: Reg. 3(1) substituted (1.6.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/215)](https://www.legislation.gov.uk/uksi/2012/215), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/215/regulation/1/2/a), [5(a)](https://www.legislation.gov.uk/uksi/2012/215/regulation/5/a)
 
-[^key-e91656efaf164f75fd2c3de199cf9925]: Textual amendment: Reg. 3(1A) inserted (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations 2012 (S.I. 2012/1813)](https://www.legislation.gov.uk/uksi/2012/1813), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1813/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2012/1813/regulation/2/4/a)
+[^c-e91656efaf164f75fd2c3de199cf9925]: Textual amendment: Reg. 3(1A) inserted (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations 2012 (S.I. 2012/1813)](https://www.legislation.gov.uk/uksi/2012/1813), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1813/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2012/1813/regulation/2/4/a)
 
 [^c22560541]: Textual amendment: Words in reg. 3(2) omitted (1.6.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/215)](https://www.legislation.gov.uk/uksi/2012/215), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/215/regulation/1/2/a), [5(b)](https://www.legislation.gov.uk/uksi/2012/215/regulation/5/b)
 
@@ -381,44 +381,44 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c22560581]: Textual amendment: Reg. 3(4)(a) omitted (1.6.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/215)](https://www.legislation.gov.uk/uksi/2012/215), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/215/regulation/1/2/a), [5(c)(ii)](https://www.legislation.gov.uk/uksi/2012/215/regulation/5/c/ii)
 
-[^key-a3d1257a03b63b509a98b98aed7f52c8]: Textual amendment: Words in reg. 3(4)(b) inserted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/311)](https://www.legislation.gov.uk/uksi/2016/311), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/311/regulation/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2016/311/regulation/2/2/a/i)
+[^c-a3d1257a03b63b509a98b98aed7f52c8]: Textual amendment: Words in reg. 3(4)(b) inserted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/311)](https://www.legislation.gov.uk/uksi/2016/311), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/311/regulation/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2016/311/regulation/2/2/a/i)
 
 [^c22560601]: Textual amendment: Words in reg. 3(4)(b) substituted (1.6.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/215)](https://www.legislation.gov.uk/uksi/2012/215), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/215/regulation/1/2/a), [5(c)(iii)](https://www.legislation.gov.uk/uksi/2012/215/regulation/5/c/iii)
 
-[^key-d2ee7ad92cc9e7db14d35a2dc9123f51]: Textual amendment: Words in reg. 3(4)(b) substituted (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations 2012 (S.I. 2012/1813)](https://www.legislation.gov.uk/uksi/2012/1813), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1813/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2012/1813/regulation/2/4/b)
+[^c-d2ee7ad92cc9e7db14d35a2dc9123f51]: Textual amendment: Words in reg. 3(4)(b) substituted (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations 2012 (S.I. 2012/1813)](https://www.legislation.gov.uk/uksi/2012/1813), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1813/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2012/1813/regulation/2/4/b)
 
-[^key-b712227ff5cc8a21a3f1e296a171cd58]: Textual amendment: Word in reg. 3(4)(b) substituted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/311)](https://www.legislation.gov.uk/uksi/2016/311), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/311/regulation/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/311/regulation/2/2/a/ii)
+[^c-b712227ff5cc8a21a3f1e296a171cd58]: Textual amendment: Word in reg. 3(4)(b) substituted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/311)](https://www.legislation.gov.uk/uksi/2016/311), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/311/regulation/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/311/regulation/2/2/a/ii)
 
 [^c22560621]: Textual amendment: Reg. 3(4)(c) substituted (1.6.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/215)](https://www.legislation.gov.uk/uksi/2012/215), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/215/regulation/1/2/a), [5(c)(iv)](https://www.legislation.gov.uk/uksi/2012/215/regulation/5/c/iv)
 
-[^key-7466e5257256bcbd6bc187aaa39792c9]: Textual amendment: Reg. 3(4)(c)(i) substituted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/311)](https://www.legislation.gov.uk/uksi/2016/311), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/311/regulation/1/1), [2(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2016/311/regulation/2/2/a/iii)
+[^c-7466e5257256bcbd6bc187aaa39792c9]: Textual amendment: Reg. 3(4)(c)(i) substituted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/311)](https://www.legislation.gov.uk/uksi/2016/311), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/311/regulation/1/1), [2(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2016/311/regulation/2/2/a/iii)
 
 [^c22560651]: Textual amendment: Reg. 3(5) inserted (1.6.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/215)](https://www.legislation.gov.uk/uksi/2012/215), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/215/regulation/1/2/a), [5(d)](https://www.legislation.gov.uk/uksi/2012/215/regulation/5/d)
 
-[^key-69bffa5c31e036d321c56c7c746e058b]: Textual amendment: Word in reg. 3(5)(b) omitted (6.4.2016) by virtue of [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/311)](https://www.legislation.gov.uk/uksi/2016/311), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/311/regulation/1/1), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2016/311/regulation/2/2/b/i)
+[^c-69bffa5c31e036d321c56c7c746e058b]: Textual amendment: Word in reg. 3(5)(b) omitted (6.4.2016) by virtue of [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/311)](https://www.legislation.gov.uk/uksi/2016/311), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/311/regulation/1/1), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2016/311/regulation/2/2/b/i)
 
-[^key-1e881cba1f2d4163e5d76729839df52a]: Textual amendment: Reg. 3(5)(d) and word inserted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/311)](https://www.legislation.gov.uk/uksi/2016/311), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/311/regulation/1/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/311/regulation/2/2/b/ii)
+[^c-1e881cba1f2d4163e5d76729839df52a]: Textual amendment: Reg. 3(5)(d) and word inserted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/311)](https://www.legislation.gov.uk/uksi/2016/311), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/311/regulation/1/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/311/regulation/2/2/b/ii)
 
-[^key-239dabe8353ac28d37cbaf972a60f3b6]: Textual amendment: Reg. 4(2)(3) omitted (6.4.2016) by virtue of [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/311)](https://www.legislation.gov.uk/uksi/2016/311), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/311/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2016/311/regulation/2/3/a)
+[^c-239dabe8353ac28d37cbaf972a60f3b6]: Textual amendment: Reg. 4(2)(3) omitted (6.4.2016) by virtue of [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/311)](https://www.legislation.gov.uk/uksi/2016/311), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/311/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2016/311/regulation/2/3/a)
 
-[^key-81e9a8ec5a0f073760cdd907d56a12d9]: Textual amendment: Words in reg. 4 omitted (6.4.2016) by virtue of [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/311)](https://www.legislation.gov.uk/uksi/2016/311), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/311/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2016/311/regulation/2/3/b)
+[^c-81e9a8ec5a0f073760cdd907d56a12d9]: Textual amendment: Words in reg. 4 omitted (6.4.2016) by virtue of [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/311)](https://www.legislation.gov.uk/uksi/2016/311), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/311/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2016/311/regulation/2/3/b)
 
-[^key-fa04b6027952765d0189884841884952]: Textual amendment: Words in reg. 4 substituted (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations 2012 (S.I. 2012/1813)](https://www.legislation.gov.uk/uksi/2012/1813), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1813/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2012/1813/regulation/2/5)
+[^c-fa04b6027952765d0189884841884952]: Textual amendment: Words in reg. 4 substituted (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations 2012 (S.I. 2012/1813)](https://www.legislation.gov.uk/uksi/2012/1813), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1813/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2012/1813/regulation/2/5)
 
-[^key-7a9737b525f0deb6a571cd7079139f08]: Textual amendment: Reg. 4A inserted (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations 2012 (S.I. 2012/1813)](https://www.legislation.gov.uk/uksi/2012/1813), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1813/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2012/1813/regulation/2/6)
+[^c-7a9737b525f0deb6a571cd7079139f08]: Textual amendment: Reg. 4A inserted (1.10.2012) by [The Employers' Duties (Implementation) (Amendment) Regulations 2012 (S.I. 2012/1813)](https://www.legislation.gov.uk/uksi/2012/1813), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1813/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2012/1813/regulation/2/6)
 
-[^key-4d8fe674ecb99712c72b2286fae4d727]: Textual amendment: [Regs. 4B-4C](https://www.legislation.gov.uk/uksi/2010/4/regulation/4B) inserted (1.4.2017) by [The Employers Duties (Implementation) (Amendment) Regulations 2017 (S.I. 2017/347)](https://www.legislation.gov.uk/uksi/2017/347), [regs. 1](https://www.legislation.gov.uk/uksi/2017/347/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/347/regulation/4)
+[^c-4d8fe674ecb99712c72b2286fae4d727]: Textual amendment: [Regs. 4B-4C](https://www.legislation.gov.uk/uksi/2010/4/regulation/4B) inserted (1.4.2017) by [The Employers Duties (Implementation) (Amendment) Regulations 2017 (S.I. 2017/347)](https://www.legislation.gov.uk/uksi/2017/347), [regs. 1](https://www.legislation.gov.uk/uksi/2017/347/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/347/regulation/4)
 
-[^key-3fc0c33a372c3758b58d645b6d4b70ef]: Textual amendment: Word in [reg. 4B(5)](https://www.legislation.gov.uk/uksi/2010/4/regulation/4B/5) substituted (1.10.2017) by [The Employers’ Duties (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/868)](https://www.legislation.gov.uk/uksi/2017/868), [regs. 1](https://www.legislation.gov.uk/uksi/2017/868/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2017/868/regulation/2/a)
+[^c-3fc0c33a372c3758b58d645b6d4b70ef]: Textual amendment: Word in [reg. 4B(5)](https://www.legislation.gov.uk/uksi/2010/4/regulation/4B/5) substituted (1.10.2017) by [The Employers’ Duties (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/868)](https://www.legislation.gov.uk/uksi/2017/868), [regs. 1](https://www.legislation.gov.uk/uksi/2017/868/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2017/868/regulation/2/a)
 
-[^key-71bd1a42ae84ed23c1a174c9fd3cb20e]: Textual amendment: [Reg. 4B(7)(a)(i)](https://www.legislation.gov.uk/uksi/2010/4/regulation/4B/7/a/i) substituted (1.10.2017) by [The Employers’ Duties (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/868)](https://www.legislation.gov.uk/uksi/2017/868), [regs. 1](https://www.legislation.gov.uk/uksi/2017/868/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2017/868/regulation/2/b)
+[^c-71bd1a42ae84ed23c1a174c9fd3cb20e]: Textual amendment: [Reg. 4B(7)(a)(i)](https://www.legislation.gov.uk/uksi/2010/4/regulation/4B/7/a/i) substituted (1.10.2017) by [The Employers’ Duties (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/868)](https://www.legislation.gov.uk/uksi/2017/868), [regs. 1](https://www.legislation.gov.uk/uksi/2017/868/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2017/868/regulation/2/b)
 
-[^key-4a233f39254bf5ad9bcc35ae9f317804]: Textual amendment: Words in reg. 5(a) omitted (1.10.2016) by virtue of [The Employers Duties (Implementation) (Amendment) Regulations 2016 (S.I. 2016/719)](https://www.legislation.gov.uk/uksi/2016/719), [regs. 1](https://www.legislation.gov.uk/uksi/2016/719/regulation/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2016/719/regulation/2/2/a/i)
+[^c-4a233f39254bf5ad9bcc35ae9f317804]: Textual amendment: Words in reg. 5(a) omitted (1.10.2016) by virtue of [The Employers Duties (Implementation) (Amendment) Regulations 2016 (S.I. 2016/719)](https://www.legislation.gov.uk/uksi/2016/719), [regs. 1](https://www.legislation.gov.uk/uksi/2016/719/regulation/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2016/719/regulation/2/2/a/i)
 
-[^key-9ef9d09648b6d761b676bbdad35ee67f]: Textual amendment: Words in reg. 5(a) added (1.10.2016) by [The Employers Duties (Implementation) (Amendment) Regulations 2016 (S.I. 2016/719)](https://www.legislation.gov.uk/uksi/2016/719), [regs. 1](https://www.legislation.gov.uk/uksi/2016/719/regulation/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/719/regulation/2/2/a/ii)
+[^c-9ef9d09648b6d761b676bbdad35ee67f]: Textual amendment: Words in reg. 5(a) added (1.10.2016) by [The Employers Duties (Implementation) (Amendment) Regulations 2016 (S.I. 2016/719)](https://www.legislation.gov.uk/uksi/2016/719), [regs. 1](https://www.legislation.gov.uk/uksi/2016/719/regulation/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/719/regulation/2/2/a/ii)
 
-[^key-a0b1b5acdbba5f653801a2436d7511eb]: Textual amendment: Words in reg. 5(b) substituted (1.10.2016) by [The Employers Duties (Implementation) (Amendment) Regulations 2016 (S.I. 2016/719)](https://www.legislation.gov.uk/uksi/2016/719), [regs. 1](https://www.legislation.gov.uk/uksi/2016/719/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/719/regulation/2/2/b)
+[^c-a0b1b5acdbba5f653801a2436d7511eb]: Textual amendment: Words in reg. 5(b) substituted (1.10.2016) by [The Employers Duties (Implementation) (Amendment) Regulations 2016 (S.I. 2016/719)](https://www.legislation.gov.uk/uksi/2016/719), [regs. 1](https://www.legislation.gov.uk/uksi/2016/719/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/719/regulation/2/2/b)
 
-[^key-683e935a685716009fdc6a62cb3aa8a0]: Textual amendment: Words in reg. 6 omitted (1.10.2016) by virtue of [The Employers Duties (Implementation) (Amendment) Regulations 2016 (S.I. 2016/719)](https://www.legislation.gov.uk/uksi/2016/719), [regs. 1](https://www.legislation.gov.uk/uksi/2016/719/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2016/719/regulation/2/3/a)
+[^c-683e935a685716009fdc6a62cb3aa8a0]: Textual amendment: Words in reg. 6 omitted (1.10.2016) by virtue of [The Employers Duties (Implementation) (Amendment) Regulations 2016 (S.I. 2016/719)](https://www.legislation.gov.uk/uksi/2016/719), [regs. 1](https://www.legislation.gov.uk/uksi/2016/719/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2016/719/regulation/2/3/a)
 
-[^key-5ec8af4c5e9ef5c4734d3088f35b2cc8]: Textual amendment: Words in reg. 6 added (1.10.2016) by [The Employers Duties (Implementation) (Amendment) Regulations 2016 (S.I. 2016/719)](https://www.legislation.gov.uk/uksi/2016/719), [regs. 1](https://www.legislation.gov.uk/uksi/2016/719/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2016/719/regulation/2/3/b)
+[^c-5ec8af4c5e9ef5c4734d3088f35b2cc8]: Textual amendment: Words in reg. 6 added (1.10.2016) by [The Employers Duties (Implementation) (Amendment) Regulations 2016 (S.I. 2016/719)](https://www.legislation.gov.uk/uksi/2016/719), [regs. 1](https://www.legislation.gov.uk/uksi/2016/719/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2016/719/regulation/2/3/b)

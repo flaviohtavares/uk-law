@@ -38,7 +38,7 @@ Section 114
 (3) In this Schedule a reference to a “**lay person**” is a reference to a person who has never been—
 
 - (a) an authorised person in relation to an activity which is a reserved legal activity,
-- (aa)[^key-faf7e41942b2d83c29f787a2f6c6933b] an authorised person (within the meaning given in section 31 of the Financial Services and Markets Act 2000 (authorised persons)) in relation to regulated claims management activity (within the meaning given by section 417(1) of that Act (definitions)),
+- (aa)[^c-faf7e41942b2d83c29f787a2f6c6933b] an authorised person (within the meaning given in section 31 of the Financial Services and Markets Act 2000 (authorised persons)) in relation to regulated claims management activity (within the meaning given by section 417(1) of that Act (definitions)),
 - (b) an advocate in Scotland,
 - (c) a solicitor in Scotland,
 - (d) a member of the Bar of Northern Ireland, or
@@ -74,7 +74,7 @@ Section 114
 - (f) the maintenance of the professional standards of persons who provide legal services,
 - (g) non-commercial legal services,
 - (h) the differing needs of consumers, and
-- (i) the provision of claims management services (within the meaning of section 419A of the Financial Services and Markets Act 2000 (c. 8)[^key-52a0b73fb6074d154fe3ae16193867b0]).
+- (i) the provision of claims management services (within the meaning of section 419A of the Financial Services and Markets Act 2000 (c. 8)[^c-52a0b73fb6074d154fe3ae16193867b0]).
 
 ### Terms of appointment and tenure of members
 
@@ -99,7 +99,7 @@ Section 114
 
 - (a) has failed without reasonable excuse to discharge the functions of the office for a continuous period of at least 6 months,
 - (b) has been convicted of an offence,
-- (c) is an undischarged bankrupt or is a person in relation to whom a moratorium period under a debt relief order applies (under Part 7A of the Insolvency Act 1986)[^key-99850747c52ad5f0a3a9b053e62ccbdc], or
+- (c) is an undischarged bankrupt or is a person in relation to whom a moratorium period under a debt relief order applies (under Part 7A of the Insolvency Act 1986)[^c-99850747c52ad5f0a3a9b053e62ccbdc], or
 - (d) is otherwise unfit to hold the office or unable to discharge its functions.
 
 (3) The chairman may be removed from office under sub-paragraph (1)(b) only with the consent of the Lord Chancellor.
@@ -311,10 +311,10 @@ to exercise, on behalf of the OLC, such of its functions, in such circumstances,
 
 ## Annotations
 
-[^key-faf7e41942b2d83c29f787a2f6c6933b]: Textual amendment: Sch. 15 para. 2(3)(aa) inserted (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [95(10)(a)](https://www.legislation.gov.uk/uksi/2018/1253/article/95/10/a)
+[^c-faf7e41942b2d83c29f787a2f6c6933b]: Textual amendment: Sch. 15 para. 2(3)(aa) inserted (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [95(10)(a)](https://www.legislation.gov.uk/uksi/2018/1253/article/95/10/a)
 
-[^key-52a0b73fb6074d154fe3ae16193867b0]: Textual amendment: Words in Sch. 15 para. 4(i) substituted (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [95(10)(b)](https://www.legislation.gov.uk/uksi/2018/1253/article/95/10/b)
+[^c-52a0b73fb6074d154fe3ae16193867b0]: Textual amendment: Words in Sch. 15 para. 4(i) substituted (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [95(10)(b)](https://www.legislation.gov.uk/uksi/2018/1253/article/95/10/b)
 
-[^key-99850747c52ad5f0a3a9b053e62ccbdc]: Textual amendment: Words in Sch. 15 para. 8(2)(c) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 61(3)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/61/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
+[^c-99850747c52ad5f0a3a9b053e62ccbdc]: Textual amendment: Words in Sch. 15 para. 8(2)(c) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 61(3)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/61/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
 
 [^c20064021]: Modification: [Sch. 15 para. 10](https://www.legislation.gov.uk/ukpga/2007/29/schedule/15/paragraph/10) modified (temp.) (7.3.2008) by [The Legal Services Act 2007 (Commencement No.1 and Transitory Provisions) Order 2008 (S.I. 2008/222)](https://www.legislation.gov.uk/uksi/2008/222), [art. 8](https://www.legislation.gov.uk/uksi/2008/222/article/8)

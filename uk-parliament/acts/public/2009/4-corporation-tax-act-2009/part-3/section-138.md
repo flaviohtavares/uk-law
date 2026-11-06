@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Payments by companies liable to pool betting duty[^key-af475587a272adf415cf17009cb7864f]
+## 138. Payments by companies liable to pool betting duty[^c-af475587a272adf415cf17009cb7864f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af475587a272adf415cf17009cb7864f]: Textual amendment: S. 138 repealed (with effect in accordance with Sch. 39 para. 21(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 22(1)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/22/1/a)
+[^c-af475587a272adf415cf17009cb7864f]: Textual amendment: S. 138 repealed (with effect in accordance with Sch. 39 para. 21(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 22(1)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/22/1/a)

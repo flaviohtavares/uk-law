@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31.10. Procedure for standard disclosure[^key-0ba6b07cd4f318e187a03431448c09c1]
+## 31.10. Procedure for standard disclosure[^c-0ba6b07cd4f318e187a03431448c09c1]
 
 *Extent: E+W*
 
@@ -33,20 +33,20 @@ summary: ''
   - (i) those documents which are no longer in the party’s control; and
   - (ii) what has happened to those documents.
 
-(Rule 31.19 (3) and (4) require a statement in the list of documents relating to any documents inspection of which a person claims they have[^key-98775913e52090e76c5ab30e8463b482] a right or duty to withhold)
+(Rule 31.19 (3) and (4) require a statement in the list of documents relating to any documents inspection of which a person claims they have[^c-98775913e52090e76c5ab30e8463b482] a right or duty to withhold)
 
 (5) The list must include a disclosure statement.
 
-(6)[^key-588c0d24678acf7c31e0d0bca9847264] Except as provided by any rule or practice direction, a disclosure statement is a statement made by the party disclosing the documents (or, where relevant, their litigation friend)—
+(6)[^c-588c0d24678acf7c31e0d0bca9847264] Except as provided by any rule or practice direction, a disclosure statement is a statement made by the party disclosing the documents (or, where relevant, their litigation friend)—
 
-- (a) setting out the extent of the search that has been made to locate documents which they are[^key-b223a78e40384f512e083d52d1726f3b] required to disclose;
-- (b) certifying that they understand[^key-7d084479f6fa63763706a1defad8e55c] the duty to disclose documents; and
-- (c) certifying that to the best of their knowledge they have[^key-050382d56e1cdaff9ca741c1827561a1] carried out that duty.
+- (a) setting out the extent of the search that has been made to locate documents which they are[^c-b223a78e40384f512e083d52d1726f3b] required to disclose;
+- (b) certifying that they understand[^c-7d084479f6fa63763706a1defad8e55c] the duty to disclose documents; and
+- (c) certifying that to the best of their knowledge they have[^c-050382d56e1cdaff9ca741c1827561a1] carried out that duty.
 
 (7) Where the party making the disclosure statement is a company, firm, association or other organisation, the statement must also—
 
 - (a) identify the person making the statement; and
-- (b) explain why they are[^key-602ca7ee44c85e837b5627a75fbd7e9a] considered an appropriate person to make the statement.
+- (b) explain why they are[^c-602ca7ee44c85e837b5627a75fbd7e9a] considered an appropriate person to make the statement.
 
 (8) The parties may agree in writing—
 
@@ -57,16 +57,16 @@ summary: ''
 
 ## Annotations
 
-[^key-0ba6b07cd4f318e187a03431448c09c1]: Commencement: [Rule 31.10](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.10) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-0ba6b07cd4f318e187a03431448c09c1]: Commencement: [Rule 31.10](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.10) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
-[^key-98775913e52090e76c5ab30e8463b482]: Textual amendment: Words in [rule 31.10](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.10) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [10(6)(a)](https://www.legislation.gov.uk/uksi/2026/817/rule/10/6/a)
+[^c-98775913e52090e76c5ab30e8463b482]: Textual amendment: Words in [rule 31.10](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.10) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [10(6)(a)](https://www.legislation.gov.uk/uksi/2026/817/rule/10/6/a)
 
-[^key-588c0d24678acf7c31e0d0bca9847264]: Textual amendment: Words in [rule 31.10(6)](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.10/6) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [10(6)(b)(i)](https://www.legislation.gov.uk/uksi/2026/817/rule/10/6/b/i)
+[^c-588c0d24678acf7c31e0d0bca9847264]: Textual amendment: Words in [rule 31.10(6)](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.10/6) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [10(6)(b)(i)](https://www.legislation.gov.uk/uksi/2026/817/rule/10/6/b/i)
 
-[^key-b223a78e40384f512e083d52d1726f3b]: Textual amendment: Words in [rule 31.10(6)(a)](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.10/6/a) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [10(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/817/rule/10/6/b/ii)
+[^c-b223a78e40384f512e083d52d1726f3b]: Textual amendment: Words in [rule 31.10(6)(a)](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.10/6/a) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [10(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/817/rule/10/6/b/ii)
 
-[^key-7d084479f6fa63763706a1defad8e55c]: Textual amendment: Words in [rule 31.10(6)(b)](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.10/6/b) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [10(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2026/817/rule/10/6/b/iii)
+[^c-7d084479f6fa63763706a1defad8e55c]: Textual amendment: Words in [rule 31.10(6)(b)](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.10/6/b) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [10(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2026/817/rule/10/6/b/iii)
 
-[^key-050382d56e1cdaff9ca741c1827561a1]: Textual amendment: Words in [rule 31.10(6)(c)](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.10/6/c) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [10(6)(b)(iv)](https://www.legislation.gov.uk/uksi/2026/817/rule/10/6/b/iv)
+[^c-050382d56e1cdaff9ca741c1827561a1]: Textual amendment: Words in [rule 31.10(6)(c)](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.10/6/c) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [10(6)(b)(iv)](https://www.legislation.gov.uk/uksi/2026/817/rule/10/6/b/iv)
 
-[^key-602ca7ee44c85e837b5627a75fbd7e9a]: Textual amendment: Words in [rule 31.10(7)](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.10/7) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [10(6)(c)](https://www.legislation.gov.uk/uksi/2026/817/rule/10/6/c)
+[^c-602ca7ee44c85e837b5627a75fbd7e9a]: Textual amendment: Words in [rule 31.10(7)](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.10/7) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [10(6)(c)](https://www.legislation.gov.uk/uksi/2026/817/rule/10/6/c)

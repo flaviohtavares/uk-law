@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Record of accelerated misconduct hearing[^key-d75906055417ed09e3ef7fc8180123bf]
+## 64. Record of accelerated misconduct hearing[^c-d75906055417ed09e3ef7fc8180123bf]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d75906055417ed09e3ef7fc8180123bf]: Commencement: Reg. 64 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-d75906055417ed09e3ef7fc8180123bf]: Commencement: Reg. 64 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)

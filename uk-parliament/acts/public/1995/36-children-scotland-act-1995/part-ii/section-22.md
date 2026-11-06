@@ -39,7 +39,7 @@ by providing a range and level of services appropriate to the children’s needs
 
 (4) Assistance such as is mentioned in subsection (3)(b) above may be given unconditionally or subject to conditions as to the repayment, in whole or in part, of it or of its value; but before giving it, or imposing such conditions, the local authority shall have regard to the means of the child concerned and of his parents and no condition shall require repayment by a person at any time when in receipt of—
 
-- (za)[^key-cf546519e3c96bfafbc8f5120f64b389] universal credit under Part 1 of the Welfare Reform Act 2012;
+- (za)[^c-cf546519e3c96bfafbc8f5120f64b389] universal credit under Part 1 of the Welfare Reform Act 2012;
 - (a) income supportor working families’ tax credit[^c13125521] payable under the [^c13125531]Social Security Contributions and Benefits Act 1992;
 - (aa)[^c13125541] any element of child tax credit other than the family element or working tax credit; or
 - (b) an income-based jobseeker’s allowance payable under the [^c13125551]Jobseekers Act 1995; or[^c21003241]
@@ -49,7 +49,7 @@ by providing a range and level of services appropriate to the children’s needs
 
 [^c13125501]: Modification: S. 22 restricted (8.1.2003) by [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41), [art. 54](https://www.legislation.gov.uk/ukpga/2002/41/article/54), [Sch. 3 para. 1(1)(i)](https://www.legislation.gov.uk/ukpga/2002/41/schedule/3/paragraph/1/1/i); [S.I. 2002/2811](https://www.legislation.gov.uk/uksi/2002/2811), [art. 2](https://www.legislation.gov.uk/uksi/2002/2811/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2811/schedule) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/2002/2811/article/3))
 
-[^key-cf546519e3c96bfafbc8f5120f64b389]: Textual amendment: S. 22(4)(za) inserted (29.4.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) (No. 2) Regulations 2013 (S.S.I. 2013/137)](https://www.legislation.gov.uk/ssi/2013/137), [regs. 1](https://www.legislation.gov.uk/ssi/2013/137/regulation/1), [5](https://www.legislation.gov.uk/ssi/2013/137/regulation/5)
+[^c-cf546519e3c96bfafbc8f5120f64b389]: Textual amendment: S. 22(4)(za) inserted (29.4.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) (No. 2) Regulations 2013 (S.S.I. 2013/137)](https://www.legislation.gov.uk/ssi/2013/137), [regs. 1](https://www.legislation.gov.uk/ssi/2013/137/regulation/1), [5](https://www.legislation.gov.uk/ssi/2013/137/regulation/5)
 
 [^c13125521]: Textual amendment: Words in s. 22 substituted (5.10.1999) by [1999 c. 10](https://www.legislation.gov.uk/ukpga/1999/10), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/1999/10/section/1/2), [20](https://www.legislation.gov.uk/ukpga/1999/10/section/20), [Sch. 1 paras. 1](https://www.legislation.gov.uk/ukpga/1999/10/schedule/1/paragraph/1), [6(j)](https://www.legislation.gov.uk/ukpga/1999/10/schedule/1/paragraph/6/j)
 

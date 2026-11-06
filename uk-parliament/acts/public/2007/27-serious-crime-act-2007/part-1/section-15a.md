@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15A. Notification requirements: England and Wales[^key-151aa54da63765a308e9d5cd0f0b614a]
+## 15A. Notification requirements: England and Wales[^c-151aa54da63765a308e9d5cd0f0b614a]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-151aa54da63765a308e9d5cd0f0b614a]: Textual amendment: [S. 15A](https://www.legislation.gov.uk/ukpga/2007/27/section/15A) and cross-heading inserted (2.12.2025 for specified purposes) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2025/31/section/58/2), [65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
+[^c-151aa54da63765a308e9d5cd0f0b614a]: Textual amendment: [S. 15A](https://www.legislation.gov.uk/ukpga/2007/27/section/15A) and cross-heading inserted (2.12.2025 for specified purposes) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2025/31/section/58/2), [65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)

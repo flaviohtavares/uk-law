@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. The order[^key-e88eec6d95dcfa0173aab267ccadc539]
+## 94. The order[^c-e88eec6d95dcfa0173aab267ccadc539]
 
 *Extent: E+W+S+N.I.*
 
 (1) A bank insolvency order is an order appointing a person as the bank liquidator of a bank.
 
-(2) A person is eligible for appointment as a bank liquidator if qualified to act as an insolvency practitioner in relation to the bank[^key-93713b156126f7ffa6ee605fe0b4fb81].
+(2) A person is eligible for appointment as a bank liquidator if qualified to act as an insolvency practitioner in relation to the bank[^c-93713b156126f7ffa6ee605fe0b4fb81].
 
 (3) An appointment may be made only if the person has consented to act.
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e88eec6d95dcfa0173aab267ccadc539]: Commencement: S. 94 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)
+[^c-e88eec6d95dcfa0173aab267ccadc539]: Commencement: S. 94 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)
 
-[^key-93713b156126f7ffa6ee605fe0b4fb81]: Textual amendment: Words in s. 94(2) inserted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/5/2)
+[^c-93713b156126f7ffa6ee605fe0b4fb81]: Textual amendment: Words in s. 94(2) inserted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/5/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Variation of heat network zone by local authority[^key-65ee0de8eee21dac1727386f4b2d8663][^key-7da544c2056a42788d21bd85a389ae02]
+## 50. Variation of heat network zone by local authority[^c-65ee0de8eee21dac1727386f4b2d8663][^c-7da544c2056a42788d21bd85a389ae02]
 
 *Extent: S*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-65ee0de8eee21dac1727386f4b2d8663]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2021/9/section/50) in force at 16.1.2023 for specified purposes by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)
+[^c-65ee0de8eee21dac1727386f4b2d8663]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2021/9/section/50) in force at 16.1.2023 for specified purposes by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)
 
-[^key-7da544c2056a42788d21bd85a389ae02]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2021/9/section/50) in force at 30.5.2023 in so far as not already in force by [S.S.I. 2023/148](https://www.legislation.gov.uk/ssi/2023/148), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/1)[(2)(e)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/2/e)
+[^c-7da544c2056a42788d21bd85a389ae02]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2021/9/section/50) in force at 30.5.2023 in so far as not already in force by [S.S.I. 2023/148](https://www.legislation.gov.uk/ssi/2023/148), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/1)[(2)(e)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/2/e)

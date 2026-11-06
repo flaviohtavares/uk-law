@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Amendment of rule 10[^key-860a44ccd6636313c6752fceb1a75837]
+## 45. Amendment of rule 10[^c-860a44ccd6636313c6752fceb1a75837]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-860a44ccd6636313c6752fceb1a75837]: Commencement: Reg. 45 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-860a44ccd6636313c6752fceb1a75837]: Commencement: Reg. 45 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

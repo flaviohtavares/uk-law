@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Selections for appointments to the civil service[^key-d6ce1a233f0541c62046add54a6af71d][^key-a748eb81a66873d985d5af9148223ec0]
+## 10. Selections for appointments to the civil service[^c-d6ce1a233f0541c62046add54a6af71d][^c-a748eb81a66873d985d5af9148223ec0]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d6ce1a233f0541c62046add54a6af71d]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2010/25/section/10) in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
+[^c-d6ce1a233f0541c62046add54a6af71d]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2010/25/section/10) in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
 
-[^key-a748eb81a66873d985d5af9148223ec0]: Modification: [Ss. 10-14](https://www.legislation.gov.uk/ukpga/2010/25/section/10) excluded (27.5.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 1 para. 7(7)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/1/paragraph/7/7); [S.I. 2013/1042](https://www.legislation.gov.uk/uksi/2013/1042), [art. 3(i)](https://www.legislation.gov.uk/uksi/2013/1042/article/3/i)
+[^c-a748eb81a66873d985d5af9148223ec0]: Modification: [Ss. 10-14](https://www.legislation.gov.uk/ukpga/2010/25/section/10) excluded (27.5.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 1 para. 7(7)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/1/paragraph/7/7); [S.I. 2013/1042](https://www.legislation.gov.uk/uksi/2013/1042), [art. 3(i)](https://www.legislation.gov.uk/uksi/2013/1042/article/3/i)

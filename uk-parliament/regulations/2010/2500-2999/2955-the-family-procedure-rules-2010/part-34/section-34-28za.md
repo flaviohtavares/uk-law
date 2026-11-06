@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34.28ZA. Notification of proceedings in a Hague Convention Country or in the United States of America[^key-d290d4a2f8200648315613d026b91722]
+## 34.28ZA. Notification of proceedings in a Hague Convention Country or in the United States of America[^c-d290d4a2f8200648315613d026b91722]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Practice Direction 34E applies where the court officer receives from the Lord Ch
 
 ## Annotations
 
-[^key-d290d4a2f8200648315613d026b91722]: Textual amendment: Pt. 34 Ch. 2 Section 3 inserted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [124](https://www.legislation.gov.uk/uksi/2013/3204/rule/124) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-d290d4a2f8200648315613d026b91722]: Textual amendment: Pt. 34 Ch. 2 Section 3 inserted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [124](https://www.legislation.gov.uk/uksi/2013/3204/rule/124) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)

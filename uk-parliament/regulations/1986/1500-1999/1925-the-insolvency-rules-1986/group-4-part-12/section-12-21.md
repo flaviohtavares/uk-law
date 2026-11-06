@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12.21. Punishment of offences[^key-e9611fa7f282e74fed460d1caabc0bd8]
+## 12.21. Punishment of offences[^c-e9611fa7f282e74fed460d1caabc0bd8]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9611fa7f282e74fed460d1caabc0bd8]: Commencement: [Rule 12.21](https://www.legislation.gov.uk/uksi/1986/1925/rule/12.21) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-e9611fa7f282e74fed460d1caabc0bd8]: Commencement: [Rule 12.21](https://www.legislation.gov.uk/uksi/1986/1925/rule/12.21) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

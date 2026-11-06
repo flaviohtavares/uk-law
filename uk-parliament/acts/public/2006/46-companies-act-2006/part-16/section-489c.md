@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 489C. Restriction on appointment of auditor of public company which is a public interest entity[^key-0403addac171d5668a435029b36131ab]
+## 489C. Restriction on appointment of auditor of public company which is a public interest entity[^c-0403addac171d5668a435029b36131ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0403addac171d5668a435029b36131ab]: Textual amendment: S. 489C inserted (with effect in accordance with reg. 1(6)(8) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [12(10)](https://www.legislation.gov.uk/uksi/2017/516/regulation/12/10)
+[^c-0403addac171d5668a435029b36131ab]: Textual amendment: S. 489C inserted (with effect in accordance with reg. 1(6)(8) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [12(10)](https://www.legislation.gov.uk/uksi/2017/516/regulation/12/10)

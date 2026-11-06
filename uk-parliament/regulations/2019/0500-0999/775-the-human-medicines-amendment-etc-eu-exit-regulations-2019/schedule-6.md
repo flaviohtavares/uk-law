@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 168
 
-**1.**[^key-82b6ea17396c1245dad548dfb10da419] After Schedule 12 insert—
+**1.**[^c-82b6ea17396c1245dad548dfb10da419] After Schedule 12 insert—
 
 > **SCHEDULE 12A — Further provision as to the performance of pharmacovigilance activities**
 >
@@ -36,7 +36,7 @@ Regulation 168
 >
 > (2) The holder may, where appropriate, use separate pharmacovigilance systems for different categories of medicinal products and if it does so, each such system must be described in a separate pharmacovigilance system master file.
 >
-> (3) All medicinal products for which the holder obtained a UKMA(GB)[^key-d1dd2ef35227a06a74d82855da2cfb3a] in accordance with these Regulations must be covered by a pharmacovigilance system master file.
+> (3) All medicinal products for which the holder obtained a UKMA(GB)[^c-d1dd2ef35227a06a74d82855da2cfb3a] in accordance with these Regulations must be covered by a pharmacovigilance system master file.
 >
 > **2. Content of the pharmacovigilance system master file**
 >
@@ -45,9 +45,9 @@ Regulation 168
 > - (a) the following information relating to the qualified person responsible for pharmacovigilance—
 >   - (i) a description of the responsibilities demonstrating that the qualified person for pharmacovigilance has sufficient authority over the pharmacovigilance system in order to promote, maintain and improve compliance with pharmacovigilance tasks and responsibilities,
 >   - (ii) a summary curriculum vitae of the qualified person responsible for pharmacovigilance,
->   - (iii) contact details of the qualified person for pharmacovigilance, [^key-32537e76599920186046c8f24f1eab7b]...
->   - (iv) details of back-up arrangements to apply in the absence of the qualified person responsible for pharmacovigilance, and[^key-13731fc537359e28ccecabd7791851d5]
->   - (v)[^key-9bcfa9dc55d8fabcb0bfd7c46d939f59] responsibilities and contact details of the nominated person (where a person is nominated under regulation 182(2A));
+>   - (iii) contact details of the qualified person for pharmacovigilance, [^c-32537e76599920186046c8f24f1eab7b]...
+>   - (iv) details of back-up arrangements to apply in the absence of the qualified person responsible for pharmacovigilance, and[^c-13731fc537359e28ccecabd7791851d5]
+>   - (v)[^c-9bcfa9dc55d8fabcb0bfd7c46d939f59] responsibilities and contact details of the nominated person (where a person is nominated under regulation 182(2A));
 > - (b) a description of the organisational structure of the holder, including the list of each site where one or more of the following pharmacovigilance activities are undertaken—
 >   - (i) individual case safety report collection and evaluation,
 >   - (ii) safety database case entry,
@@ -57,7 +57,7 @@ Regulation 168
 >   - (vi) pre and post-authorisation study management, and
 >   - (vii) management of safety variations to the terms of a UK marketing authorisation;
 > - (c) a description of the location of, functionality of and operational responsibility for computerised systems and databases used to receive, collate, record and report safety information, and an assessment of their fitness for purpose;
-> - (d) a description of data handling[^key-c4d0cbfa750327027a73546cae6c8da6] and recording and of the process used for each of the following pharmacovigilance activities—
+> - (d) a description of data handling[^c-c4d0cbfa750327027a73546cae6c8da6] and recording and of the process used for each of the following pharmacovigilance activities—
 >   - (i) the continuous monitoring of the risk-benefit balance of each medicinal product, the result of that monitoring and the decision-making process for taking appropriate measures,
 >   - (ii) operation of each risk management system and of the monitoring of the outcome of risk minimisation measures,
 >   - (iii) collection, assessment and reporting of individual case safety reports,
@@ -93,7 +93,7 @@ Regulation 168
 >
 > (3) Any deviations from the pharmacovigilance procedures, their impact and their management must be documented in the pharmacovigilance system master file until resolved.
 >
-> (4)[^key-1451cc00f8f5e374f6552f38e4ecef8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (4)[^c-1451cc00f8f5e374f6552f38e4ecef8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **5. Form of the documents contained in the pharmacovigilance system master file**
 >
@@ -115,9 +115,9 @@ Regulation 168
 >
 > **7. Availability and location of the pharmacovigilance system master file**
 >
-> (1)[^key-575897d9fc875efaaed8b7da8feba62b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (1)[^c-575897d9fc875efaaed8b7da8feba62b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> (2) The holder must ensure that the qualified person and nominated person (where a person is nominated under regulation 182(2A))[^key-1117e39cf1ee53ef59c32317c600ce13] for pharmacovigilance have[^key-63733ce88a8ae0f2e31fbd48b11db3d3] permanent access to the pharmacovigilance system master file.
+> (2) The holder must ensure that the qualified person and nominated person (where a person is nominated under regulation 182(2A))[^c-1117e39cf1ee53ef59c32317c600ce13] for pharmacovigilance have[^c-63733ce88a8ae0f2e31fbd48b11db3d3] permanent access to the pharmacovigilance system master file.
 >
 > (3) For the purposes of regulation 182(2)(b), the licensing authority may limit its request to specific parts or modules of the pharmacovigilance system master file and the holder is to bear the costs of submitting the copy of the pharmacovigilance system master file.
 >
@@ -438,7 +438,7 @@ Regulation 168
 >
 > **27. Format of periodic safety update reports**
 >
-> (1)[^key-b85821949741071462a5a064b115ee2e] Electronic PSURs must be submitted in the following format—
+> (1)[^c-b85821949741071462a5a064b115ee2e] Electronic PSURs must be submitted in the following format—
 >
 > - (a) Part I: title page including signature;
 > - (b) Part II: executive summary; and
@@ -484,7 +484,7 @@ Regulation 168
 >   - (xix) conclusions and actions, and
 >   - (xx) appendices to the PSUR.
 >
-> (2)[^key-277527a37a2597e877c476699771872e] In this paragraph, “**signal evaluation**” means the process of further evaluating a validated signal taking into account all available evidence, to determine whether there are new risks causally associated with the active substance or medicinal product, or whether known risks have changed, and that process—
+> (2)[^c-277527a37a2597e877c476699771872e] In this paragraph, “**signal evaluation**” means the process of further evaluating a validated signal taking into account all available evidence, to determine whether there are new risks causally associated with the active substance or medicinal product, or whether known risks have changed, and that process—
 >
 > - (a) may include non-clinical and clinical data; and
 > - (b) must be as comprehensive as possible regarding the sources of information used for that process.
@@ -627,28 +627,28 @@ Regulation 168
 
 ## Annotations
 
-[^key-82b6ea17396c1245dad548dfb10da419]: Commencement: Sch. 6 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-82b6ea17396c1245dad548dfb10da419]: Commencement: Sch. 6 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-d1dd2ef35227a06a74d82855da2cfb3a]: Textual amendment: Word in Sch. 6 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 192(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/192/a)
+[^c-d1dd2ef35227a06a74d82855da2cfb3a]: Textual amendment: Word in Sch. 6 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 192(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/192/a)
 
-[^key-32537e76599920186046c8f24f1eab7b]: Textual amendment: Word in Sch. 6 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 192(b)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/192/b/i)
+[^c-32537e76599920186046c8f24f1eab7b]: Textual amendment: Word in Sch. 6 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 192(b)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/192/b/i)
 
-[^key-13731fc537359e28ccecabd7791851d5]: Textual amendment: Words in Sch. 6 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 192(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/192/b/ii)
+[^c-13731fc537359e28ccecabd7791851d5]: Textual amendment: Words in Sch. 6 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 192(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/192/b/ii)
 
-[^key-9bcfa9dc55d8fabcb0bfd7c46d939f59]: Textual amendment: Words in Sch. 6 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 192(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/192/b/iii)
+[^c-9bcfa9dc55d8fabcb0bfd7c46d939f59]: Textual amendment: Words in Sch. 6 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 192(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/192/b/iii)
 
-[^key-c4d0cbfa750327027a73546cae6c8da6]: Textual amendment: Word in Sch. 6 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 192(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/192/c)
+[^c-c4d0cbfa750327027a73546cae6c8da6]: Textual amendment: Word in Sch. 6 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 192(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/192/c)
 
-[^key-1451cc00f8f5e374f6552f38e4ecef8a]: Textual amendment: Words in Sch. 6 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 192(d)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/192/d)
+[^c-1451cc00f8f5e374f6552f38e4ecef8a]: Textual amendment: Words in Sch. 6 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 192(d)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/192/d)
 
-[^key-575897d9fc875efaaed8b7da8feba62b]: Textual amendment: Words in Sch. 6 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 192(e)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/192/e/i)
+[^c-575897d9fc875efaaed8b7da8feba62b]: Textual amendment: Words in Sch. 6 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 192(e)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/192/e/i)
 
-[^key-1117e39cf1ee53ef59c32317c600ce13]: Textual amendment: Words in Sch. 6 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 192(e)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/192/e/ii/aa)
+[^c-1117e39cf1ee53ef59c32317c600ce13]: Textual amendment: Words in Sch. 6 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 192(e)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/192/e/ii/aa)
 
-[^key-63733ce88a8ae0f2e31fbd48b11db3d3]: Textual amendment: Word in Sch. 6 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 192(e)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/192/e/ii/bb)
+[^c-63733ce88a8ae0f2e31fbd48b11db3d3]: Textual amendment: Word in Sch. 6 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 192(e)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/192/e/ii/bb)
 
 [^c23885601]: Marginal citation: International Committee of Medical Journal Editors. Uniform requirements for manuscripts submitted to biomedical journals. N Engl J Med 1997; 336:309-15.
 
-[^key-b85821949741071462a5a064b115ee2e]: Textual amendment: Words in Sch. 6 renumbered (31.12.2020 immediately before IP completion day) by [The Human Medicines and Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1385)](https://www.legislation.gov.uk/uksi/2019/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1385/regulation/1), [Sch. 1 para. 9(a)](https://www.legislation.gov.uk/uksi/2019/1385/schedule/1/paragraph/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b85821949741071462a5a064b115ee2e]: Textual amendment: Words in Sch. 6 renumbered (31.12.2020 immediately before IP completion day) by [The Human Medicines and Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1385)](https://www.legislation.gov.uk/uksi/2019/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1385/regulation/1), [Sch. 1 para. 9(a)](https://www.legislation.gov.uk/uksi/2019/1385/schedule/1/paragraph/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-277527a37a2597e877c476699771872e]: Textual amendment: Words in Sch. 6 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines and Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1385)](https://www.legislation.gov.uk/uksi/2019/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1385/regulation/1), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/uksi/2019/1385/schedule/1/paragraph/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-277527a37a2597e877c476699771872e]: Textual amendment: Words in Sch. 6 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines and Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1385)](https://www.legislation.gov.uk/uksi/2019/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1385/regulation/1), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/uksi/2019/1385/schedule/1/paragraph/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

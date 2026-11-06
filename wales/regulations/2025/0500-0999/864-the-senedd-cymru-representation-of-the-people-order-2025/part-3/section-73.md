@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Officials not to act for candidates[^key-84fad439ed8b3e2beb1dd069ede493ba]
+## 73. Officials not to act for candidates[^c-84fad439ed8b3e2beb1dd069ede493ba]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ unless that person is a candidate.
 
 ## Annotations
 
-[^key-84fad439ed8b3e2beb1dd069ede493ba]: Commencement: Art. 73 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-84fad439ed8b3e2beb1dd069ede493ba]: Commencement: Art. 73 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

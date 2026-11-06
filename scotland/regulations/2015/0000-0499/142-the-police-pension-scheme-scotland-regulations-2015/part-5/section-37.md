@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Calculation of “retirement index adjustment”[^key-0c326e323f87f6141cd72ff48d395e33]
+## 37. Calculation of “retirement index adjustment”[^c-0c326e323f87f6141cd72ff48d395e33]
 
 *Extent: S*
 
@@ -37,12 +37,12 @@ where—
 
 - *A* means—
   - (a) for accrued club transfer earned pension, the in-service revaluation index that applies in relation to the sending scheme for the leaving year; and
-  - (b) for accrued standard earned pension, the index adjustment[^key-3550458e7f54c128c464bd0bc8f84253] that applies in relation to this scheme for the leaving year;
+  - (b) for accrued standard earned pension, the index adjustment[^c-3550458e7f54c128c464bd0bc8f84253] that applies in relation to this scheme for the leaving year;
 - *B* is the number of complete months in the period between the beginning of the leaving year and the end of the last day of pensionable service; and
 - “complete month” includes an incomplete month that consists of at least 16 days.
 
 ## Annotations
 
-[^key-0c326e323f87f6141cd72ff48d395e33]: Commencement: Reg. 37 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-0c326e323f87f6141cd72ff48d395e33]: Commencement: Reg. 37 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-3550458e7f54c128c464bd0bc8f84253]: Textual amendment: Words in [reg. 37](https://www.legislation.gov.uk/ssi/2015/142/regulation/37) substituted (21.12.2017) by [The Police Pension Scheme (Scotland) Amendment Regulations 2017 (S.S.I. 2017/387)](https://www.legislation.gov.uk/ssi/2017/387), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/387/regulation/1/2), [11](https://www.legislation.gov.uk/ssi/2017/387/regulation/11)
+[^c-3550458e7f54c128c464bd0bc8f84253]: Textual amendment: Words in [reg. 37](https://www.legislation.gov.uk/ssi/2015/142/regulation/37) substituted (21.12.2017) by [The Police Pension Scheme (Scotland) Amendment Regulations 2017 (S.S.I. 2017/387)](https://www.legislation.gov.uk/ssi/2017/387), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/387/regulation/1/2), [11](https://www.legislation.gov.uk/ssi/2017/387/regulation/11)

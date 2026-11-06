@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2AA — Duties of distribution exemption holders[^key-96f7125eebe7cf644c148ed1819a0bcc]
+## SCHEDULE 2AA — Duties of distribution exemption holders[^c-96f7125eebe7cf644c148ed1819a0bcc]
 
 *Extent: E+W+S+N.I.*
 
@@ -484,4 +484,4 @@ Section 6B
 
 ## Annotations
 
-[^key-96f7125eebe7cf644c148ed1819a0bcc]: Textual amendment: Schs. 2AA, 2AB inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [20(3)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/20/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2704/schedule/1)
+[^c-96f7125eebe7cf644c148ed1819a0bcc]: Textual amendment: Schs. 2AA, 2AB inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [20(3)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/20/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2704/schedule/1)

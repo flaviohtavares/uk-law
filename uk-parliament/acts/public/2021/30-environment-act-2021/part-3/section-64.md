@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Powers to make charging schemes[^key-32d464fc37cc1692551f713dca93c084][^key-64d4bc26ee403c5b65db6b70c1f80d49][^key-8215ea8aea9e3c90f4965507f1df76c2][^key-b4e7586232cb3a36d1273fab1ea37235]
+## 64. Powers to make charging schemes[^c-32d464fc37cc1692551f713dca93c084][^c-64d4bc26ee403c5b65db6b70c1f80d49][^c-8215ea8aea9e3c90f4965507f1df76c2][^c-b4e7586232cb3a36d1273fab1ea37235]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,10 +43,10 @@ summary: ''
 
 ## Annotations
 
-[^key-32d464fc37cc1692551f713dca93c084]: Commencement: S. 64 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)-(5)
+[^c-32d464fc37cc1692551f713dca93c084]: Commencement: S. 64 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)-(5)
 
-[^key-64d4bc26ee403c5b65db6b70c1f80d49]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2021/30/section/64) in force at 24.1.2022 for specified purposes by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/l)
+[^c-64d4bc26ee403c5b65db6b70c1f80d49]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2021/30/section/64) in force at 24.1.2022 for specified purposes by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/l)
 
-[^key-8215ea8aea9e3c90f4965507f1df76c2]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2021/30/section/64) in force at 7.3.2022 for specified purposes for W. by [S.I. 2022/223](https://www.legislation.gov.uk/wsi/2022/223), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/223/regulation/1/2), [2(c)](https://www.legislation.gov.uk/wsi/2022/223/regulation/2/c)
+[^c-8215ea8aea9e3c90f4965507f1df76c2]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2021/30/section/64) in force at 7.3.2022 for specified purposes for W. by [S.I. 2022/223](https://www.legislation.gov.uk/wsi/2022/223), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/223/regulation/1/2), [2(c)](https://www.legislation.gov.uk/wsi/2022/223/regulation/2/c)
 
-[^key-b4e7586232cb3a36d1273fab1ea37235]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2021/30/section/64) in force at 9.11.2022 for specified purposes for S. by [S.S.I. 2022/305](https://www.legislation.gov.uk/ssi/2022/305), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2022/305/regulation/2/b)
+[^c-b4e7586232cb3a36d1273fab1ea37235]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2021/30/section/64) in force at 9.11.2022 for specified purposes for S. by [S.S.I. 2022/305](https://www.legislation.gov.uk/ssi/2022/305), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2022/305/regulation/2/b)

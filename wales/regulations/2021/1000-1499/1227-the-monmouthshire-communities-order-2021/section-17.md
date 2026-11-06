@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Grofield and Llanwenarth Citra — change in community ward boundaries and consequential change to electoral wards[^key-fedbfb58febb303afb8cee5fa072bbfe][^key-b1969efbdf81c78e3f84f520a19f2cd4]
+## 17. Grofield and Llanwenarth Citra — change in community ward boundaries and consequential change to electoral wards[^c-fedbfb58febb303afb8cee5fa072bbfe][^c-b1969efbdf81c78e3f84f520a19f2cd4]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ The part of the Grofield ward of the community of Abergavenny shown hatched on M
 
 ## Annotations
 
-[^key-fedbfb58febb303afb8cee5fa072bbfe]: Commencement: Art. 17 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-fedbfb58febb303afb8cee5fa072bbfe]: Commencement: Art. 17 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-b1969efbdf81c78e3f84f520a19f2cd4]: Commencement: [Art. 17](https://www.legislation.gov.uk/wsi/2021/1227/article/17) in force at 4.5.2022 at 23:59 hours at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-b1969efbdf81c78e3f84f520a19f2cd4]: Commencement: [Art. 17](https://www.legislation.gov.uk/wsi/2021/1227/article/17) in force at 4.5.2022 at 23:59 hours at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

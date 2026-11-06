@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Failure to comply with information notice[^key-a348d40bad708865295eb2900888b8c7]
+## 66. Failure to comply with information notice[^c-a348d40bad708865295eb2900888b8c7]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a348d40bad708865295eb2900888b8c7]: Commencement: Art. 66 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-a348d40bad708865295eb2900888b8c7]: Commencement: Art. 66 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)

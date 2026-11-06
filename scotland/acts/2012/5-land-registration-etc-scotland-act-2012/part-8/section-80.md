@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Rectification of the register[^key-e94b12d3b3562b3164e84c2e93f3aff1]
+## 80. Rectification of the register[^c-e94b12d3b3562b3164e84c2e93f3aff1]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e94b12d3b3562b3164e84c2e93f3aff1]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2012/5/section/80) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-e94b12d3b3562b3164e84c2e93f3aff1]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2012/5/section/80) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

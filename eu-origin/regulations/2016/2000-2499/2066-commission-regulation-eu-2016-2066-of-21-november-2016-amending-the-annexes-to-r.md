@@ -33,18 +33,18 @@ of 21 November 2016
 
 amending the annexes to Regulation (EC) No 1059/2003 of the European Parliament and of the Council on the establishment of a common classification of territorial units for statistics (NUTS) (revoked)
 
-[^key-e269754f3ae060d5ae5065992d1454df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e269754f3ae060d5ae5065992d1454df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-e269754f3ae060d5ae5065992d1454df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-e269754f3ae060d5ae5065992d1454df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-e269754f3ae060d5ae5065992d1454df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-e269754f3ae060d5ae5065992d1454df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e269754f3ae060d5ae5065992d1454df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e269754f3ae060d5ae5065992d1454df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-e269754f3ae060d5ae5065992d1454df]
+## ANNEX[^c-e269754f3ae060d5ae5065992d1454df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e269754f3ae060d5ae5065992d1454df]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 270](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/270); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e269754f3ae060d5ae5065992d1454df]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 270](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/270); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

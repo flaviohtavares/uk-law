@@ -38,7 +38,7 @@ would be entitled to receive (whether for his benefit or not) the proceeds of sa
 
 (2B) Where tax is chargeable under section 32A above on the occurrence of an event which is a chargeable event with respect to any property by virtue of subsection (4)(b) of that section, the person liable for the tax is the person by whom or for whose benefit the property is disposed of.
 
-(3) The persons liable for tax charged under section 79(3A)[^key-013f1ad4a4769f60f41f69e9712fe709] above are—
+(3) The persons liable for tax charged under section 79(3A)[^c-013f1ad4a4769f60f41f69e9712fe709] above are—
 
 - (a) the trustees of the settlement concerned, and
 - (b) any person for whose benefit any of the property or income from it is applied at or after the time of the event occasioning the charge.
@@ -51,4 +51,4 @@ would be entitled to receive (whether for his benefit or not) the proceeds of sa
 
 [^c13613251]: Textual amendment: Finance Act 1985 Sch. 26, para. 10,*in relation to events occurring after* 18*March* 1985.
 
-[^key-013f1ad4a4769f60f41f69e9712fe709]: Textual amendment: Words in s. 207(3) substituted (with effect in accordance with s. 12(9) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 12(8)(a)](https://www.legislation.gov.uk/ukpga/2015/33/section/12/8/a)
+[^c-013f1ad4a4769f60f41f69e9712fe709]: Textual amendment: Words in s. 207(3) substituted (with effect in accordance with s. 12(9) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 12(8)(a)](https://www.legislation.gov.uk/ukpga/2015/33/section/12/8/a)

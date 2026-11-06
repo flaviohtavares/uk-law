@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Orders under section 98: supplementary provisions[^c2007848][^key-5ec21df8afa33def7d4a5a86906f3037]
+## 99. Orders under section 98: supplementary provisions[^c2007848][^c-5ec21df8afa33def7d4a5a86906f3037]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ as the authority making the order may determine.
 
 [^c2007848]: Commencement: S. 99 partly in force; s. 99 in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-5ec21df8afa33def7d4a5a86906f3037]: Commencement: S. 99 in force at 6.4.2011 in so far as not already in force by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-5ec21df8afa33def7d4a5a86906f3037]: Commencement: S. 99 in force at 6.4.2011 in so far as not already in force by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)

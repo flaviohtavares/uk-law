@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 92. Decision to establish a European Union reference laboratory[^key-5d3442f2924d7f6947c05554d5cb4191]
+## Article 92. Decision to establish a European Union reference laboratory[^c-5d3442f2924d7f6947c05554d5cb4191]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d3442f2924d7f6947c05554d5cb4191]: Textual amendment: [Arts. 92-94](https://www.legislation.gov.uk/eur/2017/625/article/92) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [18(1)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/18/1) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-5d3442f2924d7f6947c05554d5cb4191]: Textual amendment: [Arts. 92-94](https://www.legislation.gov.uk/eur/2017/625/article/92) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [18(1)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/18/1) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

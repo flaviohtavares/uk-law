@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Offences: reprocessors and exporters[^key-356e94c92c9901231fc11ab024a6c98a]
+## 117. Offences: reprocessors and exporters[^c-356e94c92c9901231fc11ab024a6c98a]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-356e94c92c9901231fc11ab024a6c98a]: Commencement: Reg. 117 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-356e94c92c9901231fc11ab024a6c98a]: Commencement: Reg. 117 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

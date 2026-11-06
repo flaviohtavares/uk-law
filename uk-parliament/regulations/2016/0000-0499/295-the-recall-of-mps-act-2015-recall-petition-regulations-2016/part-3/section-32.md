@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Spoilt signing sheets[^key-cddce4683a1673492d3abc18fb21bba8]
+## 32. Spoilt signing sheets[^c-cddce4683a1673492d3abc18fb21bba8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A person who has inadvertently dealt with their signing sheet in such manner tha
 
 ## Annotations
 
-[^key-cddce4683a1673492d3abc18fb21bba8]: Commencement: Reg. 32 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-cddce4683a1673492d3abc18fb21bba8]: Commencement: Reg. 32 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

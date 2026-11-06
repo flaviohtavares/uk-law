@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: S*
 
-The Commissioner[^key-9dddf759d0683da6a51ddbada5aef471] may pay to persons giving evidence, producing documents or providing information under section 13 of the Ethical Standards Act or section 13 of the Parliamentary Standards Act such allowances or expenses as the Commissioner[^key-3017e22ae5f8c223b16a1b2066df812b] may, with the approval of the Parliamentary corporation, determine.
+The Commissioner[^c-9dddf759d0683da6a51ddbada5aef471] may pay to persons giving evidence, producing documents or providing information under section 13 of the Ethical Standards Act or section 13 of the Parliamentary Standards Act such allowances or expenses as the Commissioner[^c-3017e22ae5f8c223b16a1b2066df812b] may, with the approval of the Parliamentary corporation, determine.
 
 ## Annotations
 
-[^key-9dddf759d0683da6a51ddbada5aef471]: Textual amendment: Word in s. 13 substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 14(a)](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/14/a)
+[^c-9dddf759d0683da6a51ddbada5aef471]: Textual amendment: Word in s. 13 substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 14(a)](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/14/a)
 
-[^key-3017e22ae5f8c223b16a1b2066df812b]: Textual amendment: Words in s. 13 substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 14(b)](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/14/b)
+[^c-3017e22ae5f8c223b16a1b2066df812b]: Textual amendment: Words in s. 13 substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 14(b)](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/14/b)

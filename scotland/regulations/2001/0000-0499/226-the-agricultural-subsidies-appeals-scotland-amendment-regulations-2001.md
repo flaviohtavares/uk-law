@@ -49,13 +49,13 @@ The Scottish Ministers, in exercise of the powers conferred by section 2(2) of t
 
 (2) For the purposes of regulation 5(4), these Regulations shall come into force on 9th June 2001 and, for all other purposes, shall come into force on 29th June 2001.
 
-(3)[^key-e757372117069de9f847c013e864c4c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-e757372117069de9f847c013e864c4c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-a4bb9f5c906711ab0d15864f55666888]
+## 2. Amendment of the principal Regulations[^c-a4bb9f5c906711ab0d15864f55666888]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application of additional appeal rights[^key-5ce8ba4d802c457cbe68db7a0bc130f8]
+## 3. Application of additional appeal rights[^c-5ce8ba4d802c457cbe68db7a0bc130f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -79,7 +79,7 @@ The Scottish Ministers, in exercise of the powers conferred by section 2(2) of t
 
 .
 
-## 5. Transitional provisions in relation to the ESA Orders[^key-166d7bb80921b90ed1684487f9adb456]
+## 5. Transitional provisions in relation to the ESA Orders[^c-166d7bb80921b90ed1684487f9adb456]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -111,10 +111,10 @@ These Regulations in addition–
 
 [^c15928341]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), [Schedule 8](https://www.legislation.gov.uk/ukpga/1998/46/schedule/8), [paragraph 15(3)](https://www.legislation.gov.uk/ukpga/1998/46/paragraph/15/3). The functions conferred on a Minister of the Crown by section 2(2) were transferred, so far as within devolved competence, to the Scottish Ministers by section 53 of the Scotland Act 1998.
 
-[^key-e757372117069de9f847c013e864c4c0]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/ssi/2001/226/regulation/1/3) revoked (1.10.2004) by [The Agricultural Subsidies (Appeals) (Scotland) Regulations 2004 (S.S.I. 2004/381)](https://www.legislation.gov.uk/ssi/2004/381), [regs. 1](https://www.legislation.gov.uk/ssi/2004/381/regulation/1), [14(2)](https://www.legislation.gov.uk/ssi/2004/381/regulation/14/2), [sch.](https://www.legislation.gov.uk/ssi/2004/381/schedule)
+[^c-e757372117069de9f847c013e864c4c0]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/ssi/2001/226/regulation/1/3) revoked (1.10.2004) by [The Agricultural Subsidies (Appeals) (Scotland) Regulations 2004 (S.S.I. 2004/381)](https://www.legislation.gov.uk/ssi/2004/381), [regs. 1](https://www.legislation.gov.uk/ssi/2004/381/regulation/1), [14(2)](https://www.legislation.gov.uk/ssi/2004/381/regulation/14/2), [sch.](https://www.legislation.gov.uk/ssi/2004/381/schedule)
 
-[^key-a4bb9f5c906711ab0d15864f55666888]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/ssi/2001/226/regulation/2) revoked (1.10.2004) by [The Agricultural Subsidies (Appeals) (Scotland) Regulations 2004 (S.S.I. 2004/381)](https://www.legislation.gov.uk/ssi/2004/381), [regs. 1](https://www.legislation.gov.uk/ssi/2004/381/regulation/1), [14(2)](https://www.legislation.gov.uk/ssi/2004/381/regulation/14/2), [sch.](https://www.legislation.gov.uk/ssi/2004/381/schedule)
+[^c-a4bb9f5c906711ab0d15864f55666888]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/ssi/2001/226/regulation/2) revoked (1.10.2004) by [The Agricultural Subsidies (Appeals) (Scotland) Regulations 2004 (S.S.I. 2004/381)](https://www.legislation.gov.uk/ssi/2004/381), [regs. 1](https://www.legislation.gov.uk/ssi/2004/381/regulation/1), [14(2)](https://www.legislation.gov.uk/ssi/2004/381/regulation/14/2), [sch.](https://www.legislation.gov.uk/ssi/2004/381/schedule)
 
-[^key-5ce8ba4d802c457cbe68db7a0bc130f8]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2001/226/regulation/3) revoked (1.10.2004) by [The Agricultural Subsidies (Appeals) (Scotland) Regulations 2004 (S.S.I. 2004/381)](https://www.legislation.gov.uk/ssi/2004/381), [regs. 1](https://www.legislation.gov.uk/ssi/2004/381/regulation/1), [14(2)](https://www.legislation.gov.uk/ssi/2004/381/regulation/14/2), [sch.](https://www.legislation.gov.uk/ssi/2004/381/schedule)
+[^c-5ce8ba4d802c457cbe68db7a0bc130f8]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2001/226/regulation/3) revoked (1.10.2004) by [The Agricultural Subsidies (Appeals) (Scotland) Regulations 2004 (S.S.I. 2004/381)](https://www.legislation.gov.uk/ssi/2004/381), [regs. 1](https://www.legislation.gov.uk/ssi/2004/381/regulation/1), [14(2)](https://www.legislation.gov.uk/ssi/2004/381/regulation/14/2), [sch.](https://www.legislation.gov.uk/ssi/2004/381/schedule)
 
-[^key-166d7bb80921b90ed1684487f9adb456]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/ssi/2001/226/regulation/5) revoked (1.10.2004) by [The Agricultural Subsidies (Appeals) (Scotland) Regulations 2004 (S.S.I. 2004/381)](https://www.legislation.gov.uk/ssi/2004/381), [regs. 1](https://www.legislation.gov.uk/ssi/2004/381/regulation/1), [14(2)](https://www.legislation.gov.uk/ssi/2004/381/regulation/14/2), [sch.](https://www.legislation.gov.uk/ssi/2004/381/schedule)
+[^c-166d7bb80921b90ed1684487f9adb456]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/ssi/2001/226/regulation/5) revoked (1.10.2004) by [The Agricultural Subsidies (Appeals) (Scotland) Regulations 2004 (S.S.I. 2004/381)](https://www.legislation.gov.uk/ssi/2004/381), [regs. 1](https://www.legislation.gov.uk/ssi/2004/381/regulation/1), [14(2)](https://www.legislation.gov.uk/ssi/2004/381/regulation/14/2), [sch.](https://www.legislation.gov.uk/ssi/2004/381/schedule)

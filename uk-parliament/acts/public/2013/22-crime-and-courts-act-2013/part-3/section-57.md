@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Public order offences[^key-2aa62ea7a55569b57681456ab2fe514e]
+## 57. Public order offences[^c-2aa62ea7a55569b57681456ab2fe514e]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2aa62ea7a55569b57681456ab2fe514e]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2013/22/section/57) in force at 1.2.2014 by [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 3](https://www.legislation.gov.uk/uksi/2013/2981/article/3)
+[^c-2aa62ea7a55569b57681456ab2fe514e]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2013/22/section/57) in force at 1.2.2014 by [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 3](https://www.legislation.gov.uk/uksi/2013/2981/article/3)

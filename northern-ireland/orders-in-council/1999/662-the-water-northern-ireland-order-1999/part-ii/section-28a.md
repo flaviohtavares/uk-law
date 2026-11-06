@@ -41,7 +41,7 @@ and any person who, without reasonable excuse, refuses or fails to permit the De
 (5) Information or facilities provided under paragraph (1) or (2) to—
 
 - (a) the Department,
-- (b)[^key-cec40a837fe8d2f9618bc93886c21f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-cec40a837fe8d2f9618bc93886c21f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the Department for Infrastructure[^M_F_66e16841-b93d-4cd2-eb2d-a4b35d47130a];
 - (d) a water undertaker; or
 - (e) Waterways Ireland,
@@ -60,6 +60,6 @@ shall be provided free of charge; and facilities provided under paragraph (1) to
 
 [^c19619781]: Textual amendment: Art. 28A inserted (1.4.2007) by [Water and Sewerage Services (Northern Ireland) Order 2006 (S.I. 2006/3336 (N.I. 21))](https://www.legislation.gov.uk/nisi/2006/3336), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2006/3336/article/1/2), [284](https://www.legislation.gov.uk/nisi/2006/3336/article/284) (with [arts. 8(8)](https://www.legislation.gov.uk/nisi/2006/3336/article/8/8), [121(3)](https://www.legislation.gov.uk/nisi/2006/3336/article/121/3), [307](https://www.legislation.gov.uk/nisi/2006/3336/article/307)); [S.R. 2007/194](https://www.legislation.gov.uk/nisr/2007/194), [art. 2(2)](https://www.legislation.gov.uk/nisr/2007/194/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisr/2007/194/schedule/1/part/II) (with [art. 3](https://www.legislation.gov.uk/nisr/2007/194/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/2))
 
-[^key-cec40a837fe8d2f9618bc93886c21f4b]: Textual amendment: Art. 28A(5)(b) omitted (8.5.2016) by virtue of [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 68](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/68) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-cec40a837fe8d2f9618bc93886c21f4b]: Textual amendment: Art. 28A(5)(b) omitted (8.5.2016) by virtue of [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 68](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/68) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^M_F_66e16841-b93d-4cd2-eb2d-a4b35d47130a]: Textual amendment: Words in art. 28A(5)(c) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 25](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/25) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))

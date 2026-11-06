@@ -31,22 +31,22 @@ Offences (Aggravation by Prejudice) (Scotland) Act 2009 (repealed)
 
 2009 asp 8
 
-[^key-3e2a7879a54f7fd0aa5203760e10ec32]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e2a7879a54f7fd0aa5203760e10ec32]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Prejudice relating to disability[^key-3e2a7879a54f7fd0aa5203760e10ec32]
+## 1. Prejudice relating to disability[^c-3e2a7879a54f7fd0aa5203760e10ec32]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Prejudice relating to sexual orientation or transgender identity[^key-3e2a7879a54f7fd0aa5203760e10ec32]
+## 2. Prejudice relating to sexual orientation or transgender identity[^c-3e2a7879a54f7fd0aa5203760e10ec32]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Commencement and short title[^key-3e2a7879a54f7fd0aa5203760e10ec32]
+## 3. Commencement and short title[^c-3e2a7879a54f7fd0aa5203760e10ec32]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3e2a7879a54f7fd0aa5203760e10ec32]: Textual amendment: [Act](https://www.legislation.gov.uk/asp/2009/8) repealed (1.4.2024) by [Hate Crime and Public Order (Scotland) Act 2021 (asp 14)](https://www.legislation.gov.uk/asp/2021/14), [s. 21(2)](https://www.legislation.gov.uk/asp/2021/14/section/21/2), [sch. 2 para. 5](https://www.legislation.gov.uk/asp/2021/14/schedule/2/paragraph/5); [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+[^c-3e2a7879a54f7fd0aa5203760e10ec32]: Textual amendment: [Act](https://www.legislation.gov.uk/asp/2009/8) repealed (1.4.2024) by [Hate Crime and Public Order (Scotland) Act 2021 (asp 14)](https://www.legislation.gov.uk/asp/2021/14), [s. 21(2)](https://www.legislation.gov.uk/asp/2021/14/section/21/2), [sch. 2 para. 5](https://www.legislation.gov.uk/asp/2021/14/schedule/2/paragraph/5); [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))

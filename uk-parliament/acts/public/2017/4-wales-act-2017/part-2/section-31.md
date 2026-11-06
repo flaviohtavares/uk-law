@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Application of general provisions to transfer of functions in sections 29 and 30[^key-398be3510409a2afa08f1799291a2f2a]
+## 31. Application of general provisions to transfer of functions in sections 29 and 30[^c-398be3510409a2afa08f1799291a2f2a]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-398be3510409a2afa08f1799291a2f2a]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2017/4/section/31) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g)
+[^c-398be3510409a2afa08f1799291a2f2a]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2017/4/section/31) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g)

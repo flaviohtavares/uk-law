@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 56. Training and information[^key-39e58a4c9bfb08a0bb8d5b9be91bb3ab]
+## 56. Training and information[^c-39e58a4c9bfb08a0bb8d5b9be91bb3ab]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39e58a4c9bfb08a0bb8d5b9be91bb3ab]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/2014/3248/regulation/56) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-39e58a4c9bfb08a0bb8d5b9be91bb3ab]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/2014/3248/regulation/56) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

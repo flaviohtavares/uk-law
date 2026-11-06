@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118A. Designated postal operators[^key-a6569df9bc358014c041cf95a5310337]
+## 118A. Designated postal operators[^c-a6569df9bc358014c041cf95a5310337]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6569df9bc358014c041cf95a5310337]: Textual amendment: [Art. 118A](https://www.legislation.gov.uk/uksi/2013/2870/article/118A) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [13(2)](https://www.legislation.gov.uk/uksi/2021/755/article/13/2)
+[^c-a6569df9bc358014c041cf95a5310337]: Textual amendment: [Art. 118A](https://www.legislation.gov.uk/uksi/2013/2870/article/118A) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [13(2)](https://www.legislation.gov.uk/uksi/2021/755/article/13/2)

@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30A. Use of statements in prosecution[^key-25b0e8b20596a611ebce5a1aae449bb0]
+## 30A. Use of statements in prosecution[^c-25b0e8b20596a611ebce5a1aae449bb0]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-13112d19e38ac139a092e01cbbdf5dc5] A statement made by a person in response to a requirement imposed by virtue of any of sections 26, 27 to 28A and 40ZD[^key-6abf8498afb717ecfcd7b00807347f3c] may not be used in evidence against him on a prosecution for an offence under section 188 of the Enterprise Act 2002 unless, in the proceedings—
+(1)[^c-13112d19e38ac139a092e01cbbdf5dc5] A statement made by a person in response to a requirement imposed by virtue of any of sections 26, 27 to 28A and 40ZD[^c-6abf8498afb717ecfcd7b00807347f3c] may not be used in evidence against him on a prosecution for an offence under section 188 of the Enterprise Act 2002 unless, in the proceedings—
 
 - (a) in giving evidence, he makes a statement inconsistent with it, and
 - (b) evidence relating to it is adduced, or a question relating to it is asked, by him or on his behalf.
 
-(2)[^key-4eadd7f07e681e78bc0c2b081da547f9] A statement by an individual in response to a requirement imposed by virtue of section 26A (a “section 26A statement”) may only be used in evidence against the individual—
+(2)[^c-4eadd7f07e681e78bc0c2b081da547f9] A statement by an individual in response to a requirement imposed by virtue of section 26A (a “section 26A statement”) may only be used in evidence against the individual—
 
 - (a) on a prosecution for an offence under section 44, or
 - (b) on a prosecution for some other offence in a case falling within subsection (3).
@@ -44,10 +44,10 @@ summary: ''
 
 ## Annotations
 
-[^key-25b0e8b20596a611ebce5a1aae449bb0]: Textual amendment: S. 30A inserted (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [ss. 198](https://www.legislation.gov.uk/ukpga/2002/40/section/198), [279](https://www.legislation.gov.uk/ukpga/2002/40/section/279); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule)
+[^c-25b0e8b20596a611ebce5a1aae449bb0]: Textual amendment: S. 30A inserted (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [ss. 198](https://www.legislation.gov.uk/ukpga/2002/40/section/198), [279](https://www.legislation.gov.uk/ukpga/2002/40/section/279); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule)
 
-[^key-13112d19e38ac139a092e01cbbdf5dc5]: Textual amendment: S. 30A renumbered as s. 30A(1) (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 39(5)](https://www.legislation.gov.uk/ukpga/2013/24/section/39/5), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-13112d19e38ac139a092e01cbbdf5dc5]: Textual amendment: S. 30A renumbered as s. 30A(1) (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 39(5)](https://www.legislation.gov.uk/ukpga/2013/24/section/39/5), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-6abf8498afb717ecfcd7b00807347f3c]: Textual amendment: Words in s. 30A(1) substituted (31.12.2020) by S.I. 2019/93, reg. 7A (as inserted by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/1343/regulation/3))
+[^c-6abf8498afb717ecfcd7b00807347f3c]: Textual amendment: Words in s. 30A(1) substituted (31.12.2020) by S.I. 2019/93, reg. 7A (as inserted by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/1343/regulation/3))
 
-[^key-4eadd7f07e681e78bc0c2b081da547f9]: Textual amendment: S. 30A(2)-(5) inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 39(7)](https://www.legislation.gov.uk/ukpga/2013/24/section/39/7), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-4eadd7f07e681e78bc0c2b081da547f9]: Textual amendment: S. 30A(2)-(5) inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 39(7)](https://www.legislation.gov.uk/ukpga/2013/24/section/39/7), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

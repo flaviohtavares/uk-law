@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Notification of independent reviewer's decision[^key-56b2dddcf5889fde1b87fa72d3797f36]
+## 29. Notification of independent reviewer's decision[^c-56b2dddcf5889fde1b87fa72d3797f36]
 
 *Extent: S*
 
@@ -28,8 +28,8 @@ summary: ''
 (2) The persons are—
 
 - (a) the applicant,
-- (b) the Scottish Ministers, [^key-0887307ac53bb25ad93c71ab1fe0efb0]...
-- (c) where the review included a review under section 24 of information relating to the applicant provided by the chief constable in accordance with section 14, the chief constable, and[^key-268c4c17871c5af74107f3209b1efe4b]
+- (b) the Scottish Ministers, [^c-0887307ac53bb25ad93c71ab1fe0efb0]...
+- (c) where the review included a review under section 24 of information relating to the applicant provided by the chief constable in accordance with section 14, the chief constable, and[^c-268c4c17871c5af74107f3209b1efe4b]
 - (d) where the review included a review under section 24 of information relating to the applicant provided by a chief officer in response to a request under section 14A, the chief officer.
 
 (3) In subsection (1)(a), the “**independent reviewer's decision**” includes—
@@ -40,8 +40,8 @@ summary: ''
 
 ## Annotations
 
-[^key-56b2dddcf5889fde1b87fa72d3797f36]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2020/13/section/29) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-56b2dddcf5889fde1b87fa72d3797f36]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2020/13/section/29) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
 
-[^key-0887307ac53bb25ad93c71ab1fe0efb0]: Textual amendment: Word in [s. 29(2)](https://www.legislation.gov.uk/asp/2020/13/section/29/2) omitted (1.4.2025) by virtue of [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 1(8)(a)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/1/8/a)
+[^c-0887307ac53bb25ad93c71ab1fe0efb0]: Textual amendment: Word in [s. 29(2)](https://www.legislation.gov.uk/asp/2020/13/section/29/2) omitted (1.4.2025) by virtue of [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 1(8)(a)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/1/8/a)
 
-[^key-268c4c17871c5af74107f3209b1efe4b]: Textual amendment: [S. 29(2)(d)](https://www.legislation.gov.uk/asp/2020/13/section/29/2/d) and word inserted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 1(8)(b)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/1/8/b)
+[^c-268c4c17871c5af74107f3209b1efe4b]: Textual amendment: [S. 29(2)(d)](https://www.legislation.gov.uk/asp/2020/13/section/29/2/d) and word inserted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 1(8)(b)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/1/8/b)

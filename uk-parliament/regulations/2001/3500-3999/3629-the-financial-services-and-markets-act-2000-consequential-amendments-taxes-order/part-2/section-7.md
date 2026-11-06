@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Stamp duty: intermediaries[^key-0edc613877ce7d683c17b529b43ccca3]
+## 7. Stamp duty: intermediaries[^c-0edc613877ce7d683c17b529b43ccca3]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0edc613877ce7d683c17b529b43ccca3]: Commencement: Art. 7 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-0edc613877ce7d683c17b529b43ccca3]: Commencement: Art. 7 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00010]: Footnote: Section 80B was inserted, together with section 80A, by section 97(1) of the Finance Act 1997.

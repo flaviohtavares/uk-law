@@ -62,11 +62,11 @@ Section 59.
 
 *Extent: E+W+S*
 
-**4.**[^key-3d453011183f6b95ffdcba0c7fd02fe7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-3d453011183f6b95ffdcba0c7fd02fe7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-879ec822f4fd9faaf8bbae5834c7983f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-879ec822f4fd9faaf8bbae5834c7983f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-c921a2256e18906f472f2500325e233e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-c921a2256e18906f472f2500325e233e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Insolvency Act 1986 (c.45)
 
@@ -186,11 +186,11 @@ Section 59.
 
 *Extent: N.I.*
 
-**13.**[^key-58617d565f222768b2e0617dce4c3de3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-58617d565f222768b2e0617dce4c3de3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-58617d565f222768b2e0617dce4c3de3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-58617d565f222768b2e0617dce4c3de3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-58617d565f222768b2e0617dce4c3de3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-58617d565f222768b2e0617dce4c3de3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Banking Act 1987 (c.22)
 
@@ -272,7 +272,7 @@ Section 59.
 
 *Extent: N.I.*
 
-**22.**[^key-62439208dcde47406abac7f1da8e9240] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-62439208dcde47406abac7f1da8e9240] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Insolvency (Northern Ireland) Order 1989 (N.I.19)
 
@@ -361,11 +361,11 @@ In paragraph 6 of Schedule 2 to the [^c9547791]Proceeds of Crime (Northern Irela
 
 [^c9547391]: Marginal citation: [S.I. 1979/1714 (N.I. 19)](https://www.legislation.gov.uk/nisi/1979/1714).
 
-[^key-3d453011183f6b95ffdcba0c7fd02fe7]: Textual amendment: Sch. 3 para. 4 repealed (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-3d453011183f6b95ffdcba0c7fd02fe7]: Textual amendment: Sch. 3 para. 4 repealed (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-879ec822f4fd9faaf8bbae5834c7983f]: Textual amendment: Sch. 3 para. 5 repealed (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-879ec822f4fd9faaf8bbae5834c7983f]: Textual amendment: Sch. 3 para. 5 repealed (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-c921a2256e18906f472f2500325e233e]: Textual amendment: Sch. 3 para. 6 repealed (6.4.2005) by [Companies (Audit, Investigations and Community Enterprise) Act 2004 (c. 27)](https://www.legislation.gov.uk/ukpga/2004/27), [s. 65(1)](https://www.legislation.gov.uk/ukpga/2004/27/section/65/1), [Sch. 8](https://www.legislation.gov.uk/ukpga/2004/27/schedule/8); [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2)
+[^c-c921a2256e18906f472f2500325e233e]: Textual amendment: Sch. 3 para. 6 repealed (6.4.2005) by [Companies (Audit, Investigations and Community Enterprise) Act 2004 (c. 27)](https://www.legislation.gov.uk/ukpga/2004/27), [s. 65(1)](https://www.legislation.gov.uk/ukpga/2004/27/section/65/1), [Sch. 8](https://www.legislation.gov.uk/ukpga/2004/27/schedule/8); [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2)
 
 [^c9547441]: Commencement: Sch. 3 wholly in force at 14.12.2000; Sch. 3 not in force at Royal Assent see s. 68(3); Sch. 3 in force at 14.4.2000 in relation to England and Wales by [S.I. 2000/1034](https://www.legislation.gov.uk/uksi/2000/1034), [arts. 2(a)](https://www.legislation.gov.uk/uksi/2000/1034/article/2/a), [3](https://www.legislation.gov.uk/uksi/2000/1034/article/3); Sch. 3 in force at 1.1.2001 in relation to Scotland by [S.S.I. 2000/445](https://www.legislation.gov.uk/ssi/2000/445), [art. 2](https://www.legislation.gov.uk/ssi/2000/445/article/2)
 
@@ -393,7 +393,7 @@ In paragraph 6 of Schedule 2 to the [^c9547791]Proceeds of Crime (Northern Irela
 
 [^c9547561]: Commencement: Sch. 3 wholly in force at 14.12.2000; Sch. 3 not in force at Royal Assent see s. 68(3); Sch. 3 in force at 14.4.2000 in relation to England and Wales and Northern Ireland by [S.I. 2000/1034](https://www.legislation.gov.uk/uksi/2000/1034), [arts. 2(a)](https://www.legislation.gov.uk/uksi/2000/1034/article/2/a), [3](https://www.legislation.gov.uk/uksi/2000/1034/article/3); Sch. 3 in force at 1.1.2001 in relation to Scotland by [S.S.I. 2000/445](https://www.legislation.gov.uk/ssi/2000/445), [art. 2](https://www.legislation.gov.uk/ssi/2000/445/article/2)
 
-[^key-58617d565f222768b2e0617dce4c3de3]: Textual amendment: Sch. 3 paras. 13-15 repealed (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-58617d565f222768b2e0617dce4c3de3]: Textual amendment: Sch. 3 paras. 13-15 repealed (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c9547591]: Commencement: Sch. 3 wholly in force at 14.12.2000; Sch. 3 not in force at Royal Assent see s. 68(3); Sch. 3 in force at 14.4.2000 in relation to England and Wales and Northern Ireland by [S.I. 2000/1034](https://www.legislation.gov.uk/uksi/2000/1034), [arts. 2(a)](https://www.legislation.gov.uk/uksi/2000/1034/article/2/a), [3](https://www.legislation.gov.uk/uksi/2000/1034/article/3); Sch. 3 in force at 1.1.2001 in relation to Scotland by [S.S.I. 2000/445](https://www.legislation.gov.uk/ssi/2000/445), [art. 2](https://www.legislation.gov.uk/ssi/2000/445/article/2)
 
@@ -423,7 +423,7 @@ In paragraph 6 of Schedule 2 to the [^c9547791]Proceeds of Crime (Northern Irela
 
 [^c9547721]: Marginal citation: [S.I. 1979/1714 (N.I. 19)](https://www.legislation.gov.uk/nisi/1979/1714).
 
-[^key-62439208dcde47406abac7f1da8e9240]: Textual amendment: Sch. 3 para. 22 repealed (N.I.) (5.9.2003) by [The Company Directors Disqualification (Northern Ireland) Order 2002 (S.I. 2002/3150)](https://www.legislation.gov.uk/nisi/2002/3150), [art. 1(2)](https://www.legislation.gov.uk/nisi/2002/3150/article/1/2), [Sch. 4](https://www.legislation.gov.uk/nisi/2002/3150/schedule/4) (with [Sch. 2](https://www.legislation.gov.uk/nisi/2002/3150/schedule/2)); [S.R. 2003/345](https://www.legislation.gov.uk/nisr/2003/345), [art. 3(2)](https://www.legislation.gov.uk/nisr/2003/345/article/3/2) (subject to [S.R. 2003/346](https://www.legislation.gov.uk/nisr/2003/346), arts. 3-6)
+[^c-62439208dcde47406abac7f1da8e9240]: Textual amendment: Sch. 3 para. 22 repealed (N.I.) (5.9.2003) by [The Company Directors Disqualification (Northern Ireland) Order 2002 (S.I. 2002/3150)](https://www.legislation.gov.uk/nisi/2002/3150), [art. 1(2)](https://www.legislation.gov.uk/nisi/2002/3150/article/1/2), [Sch. 4](https://www.legislation.gov.uk/nisi/2002/3150/schedule/4) (with [Sch. 2](https://www.legislation.gov.uk/nisi/2002/3150/schedule/2)); [S.R. 2003/345](https://www.legislation.gov.uk/nisr/2003/345), [art. 3(2)](https://www.legislation.gov.uk/nisr/2003/345/article/3/2) (subject to [S.R. 2003/346](https://www.legislation.gov.uk/nisr/2003/346), arts. 3-6)
 
 [^c9547741]: Marginal citation: [S.I. 1989/2405](https://www.legislation.gov.uk/uksi/1989/2405).
 

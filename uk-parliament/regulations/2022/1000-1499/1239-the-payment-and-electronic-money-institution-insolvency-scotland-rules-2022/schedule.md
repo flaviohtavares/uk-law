@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE — Punishment of offences[^key-badbfb0d6c75419bb33024aadd2f4ebe]
+## SCHEDULE — Punishment of offences[^c-badbfb0d6c75419bb33024aadd2f4ebe]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ Rule 160
 
 ## Annotations
 
-[^key-badbfb0d6c75419bb33024aadd2f4ebe]: Commencement: Sch. in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-badbfb0d6c75419bb33024aadd2f4ebe]: Commencement: Sch. in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

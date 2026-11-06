@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Obtaining advice from representative bodies[^key-aefb44ccd8040040a39fb1b4bb788131]
+## 80. Obtaining advice from representative bodies[^c-aefb44ccd8040040a39fb1b4bb788131]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ the Secretary of State must have regard to the advice in that exercise of that f
 
 ## Annotations
 
-[^key-aefb44ccd8040040a39fb1b4bb788131]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2011/13/section/80) in force at 15.11.2011 by [S.I. 2011/2515](https://www.legislation.gov.uk/uksi/2011/2515), [art. 3(b)](https://www.legislation.gov.uk/uksi/2011/2515/article/3/b)
+[^c-aefb44ccd8040040a39fb1b4bb788131]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2011/13/section/80) in force at 15.11.2011 by [S.I. 2011/2515](https://www.legislation.gov.uk/uksi/2011/2515), [art. 3(b)](https://www.legislation.gov.uk/uksi/2011/2515/article/3/b)

@@ -38,7 +38,7 @@ An Act of the National Assembly for Wales to make provision for the mapping of a
 
 \[4 November 2013\]
 
-**Having been passed by the National Assembly for Wales and having received the assent of Her Majesty, it is enacted as follows:**[^key-054c0b5343951dd7523125ee20dff643]
+**Having been passed by the National Assembly for Wales and having received the assent of Her Majesty, it is enacted as follows:**[^c-054c0b5343951dd7523125ee20dff643]
 
 ## Introduction
 
@@ -101,7 +101,7 @@ which are available for use by, or by any description of, walkers and cyclists u
 
 ## Maps
 
-### 3. Existing routes maps[^key-2ae96f3d209fe3a3b34df53d3b81d35d]
+### 3. Existing routes maps[^c-2ae96f3d209fe3a3b34df53d3b81d35d]
 
 (1) Each local authority must—
 
@@ -151,7 +151,7 @@ which are available for use by, or by any description of, walkers and cyclists u
 
 (11) The Welsh Ministers may by direction given to a local authority specify an occasion different from that specified in subsection (10)(c) as the occasion on which the local authority must submit an existing routes map to the Welsh Ministers for approval.
 
-### 4. Integrated network maps[^key-3dc8ec5d374ba32c02f243e9962b0eba]
+### 4. Integrated network maps[^c-3dc8ec5d374ba32c02f243e9962b0eba]
 
 (1) Each local authority must—
 
@@ -202,7 +202,7 @@ that the local authority considers are needed to develop or enhance an integrate
 
 (10) The Welsh Ministers may by direction given to a local authority specify a period different from that in subsection (9)(c) as the period before the end of which the local authority must submit an integrated network map to the Welsh Ministers for approval.
 
-### 5. Publication etc. of maps[^key-7567fa22cff8ae935894fadd6a539be7]
+### 5. Publication etc. of maps[^c-7567fa22cff8ae935894fadd6a539be7]
 
 (1) As soon as reasonably practicable after an existing routes map or integrated network map prepared by a local authority has been approved by the Welsh Ministers, the local authority must—
 
@@ -222,13 +222,13 @@ that the local authority considers are needed to develop or enhance an integrate
 - (d) cause a copy to be made available for inspection (at all reasonable hours) at such places as it considers appropriate, and
 - (e) give notice, in such manner as it considers appropriate, for bringing the attention of the public to the places at which a copy of it is available for inspection.
 
-### 6. Developing transport policies with regard to integrated network map[^key-8d4b0c541121ab44a20e1f426249de79]
+### 6. Developing transport policies with regard to integrated network map[^c-8d4b0c541121ab44a20e1f426249de79]
 
 Each local authority must, in developing policies under section 108(1)(a) or (2A) of the Transport Act 2000 (policies forming basis of local transport plans), have regard to the integrated network map for its area.
 
 ## Other provisions
 
-### 7. Securing continuous improvement in active travel routes[^key-547528e88aa54230df1d370bd6d318d5]
+### 7. Securing continuous improvement in active travel routes[^c-547528e88aa54230df1d370bd6d318d5]
 
 (1) Each local authority must in every year secure that there are—
 
@@ -241,11 +241,11 @@ in its area.
 
 (3) Each local authority must make a report to the Welsh Ministers specifying the costs incurred by it in each financial year in performing the duty imposed by subsection (1).
 
-### 8. Reports by Welsh Ministers on active travel[^key-f96ab8e5f77d08c4e82eb6b36785bade]
+### 8. Reports by Welsh Ministers on active travel[^c-f96ab8e5f77d08c4e82eb6b36785bade]
 
 The Welsh Ministers must make and publish annual reports on the extent to which walkers and cyclists make active travel journeys in Wales.
 
-### 9. Provision for walkers and cyclists in exercise of certain functions[^key-924697d2e362594d9ab6f78d5782ddef]
+### 9. Provision for walkers and cyclists in exercise of certain functions[^c-924697d2e362594d9ab6f78d5782ddef]
 
 (1) The Welsh Ministers and each local authority must, in the exercise of their functions under Parts 3, 4, 5, 9 and 12 of the Highways Act 1980 (creation, maintenance and improvement of highways, interference with highways and acquisition etc. of land), in so far as it is practicable to do so, take reasonable steps to enhance the provision made for walkers and cyclists.
 
@@ -255,7 +255,7 @@ The Welsh Ministers must make and publish annual reports on the extent to which 
 - (b) Part 3 of the New Roads and Street Works Act 1991 (street works), and
 - (c) Part 2 of the Traffic Management Act 2004 (network management by local traffic authorities).
 
-### 10. Duty to exercise functions to promote active travel[^key-645b2a15a568c575fea73ad5df9cb17e]
+### 10. Duty to exercise functions to promote active travel[^c-645b2a15a568c575fea73ad5df9cb17e]
 
 (1) The Welsh Ministers and local authorities must exercise their functions under this Act in a manner designed to—
 
@@ -264,7 +264,7 @@ The Welsh Ministers must make and publish annual reports on the extent to which 
 
 (2) Each local authority must make a report to the Welsh Ministers specifying what it has done in each financial year in the performance of the duty imposed on it by subsection (1).
 
-### 10A. Promotion by Welsh Ministers of active travel as a way of reducing or limiting air pollution[^key-56852f66f769146335f48860aa998a6d]
+### 10A. Promotion by Welsh Ministers of active travel as a way of reducing or limiting air pollution[^c-56852f66f769146335f48860aa998a6d]
 
 (1) The Welsh Ministers must take steps to promote active travel as a way of reducing or limiting air pollution in Wales.
 
@@ -302,7 +302,7 @@ The Welsh Ministers must make and publish annual reports on the extent to which 
 
 (4) Regulations under subsection (3) may specify a public authority only if the authority is a “devolved Welsh authority” within the meaning of section 157A(1)(a) of the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-(4A)[^key-a893592010e9175a268f4f3c4eb3f6d9] Regulations under subsection (3) may not specify the Office of Environmental Governance Wales.
+(4A)[^c-a893592010e9175a268f4f3c4eb3f6d9] Regulations under subsection (3) may not specify the Office of Environmental Governance Wales.
 
 (5) Before specifying a public authority in regulations under subsection (3), the Welsh Ministers must consult the authority about the proposal.
 
@@ -325,7 +325,7 @@ The Welsh Ministers must make and publish annual reports on the extent to which 
 
 ## Supplementary
 
-### 11. Review of operation of Act[^key-a7fef1f81a8fe7c051ad02bfc4a39d74]
+### 11. Review of operation of Act[^c-a7fef1f81a8fe7c051ad02bfc4a39d74]
 
 The Welsh Ministers must, no later than the end of the period of 5 years beginning immediately after the end of the period mentioned in section 4(6)(a), carry out a review of the operation of this Act with a view in particular to assessing its success in securing new active travel routes and related facilities and improvements of existing active travel routes and related facilities.
 
@@ -364,26 +364,26 @@ The short title of this Act is the Active Travel (Wales) Act 2013.
 
 ## Annotations
 
-[^key-054c0b5343951dd7523125ee20dff643]: Modification: [Act](https://www.legislation.gov.uk/anaw/2013/7) applied (with modifications) (28.2.2022) by [The Corporate Joint Committees (Transport Functions) (Consequential Modifications and Transitional Provisions) (Wales) Regulations 2022 (S.I. 2022/188)](https://www.legislation.gov.uk/wsi/2022/188), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/188/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2022/188/regulation/3), [Sch. para. 4](https://www.legislation.gov.uk/wsi/2022/188/schedule/paragraph/4)
+[^c-054c0b5343951dd7523125ee20dff643]: Modification: [Act](https://www.legislation.gov.uk/anaw/2013/7) applied (with modifications) (28.2.2022) by [The Corporate Joint Committees (Transport Functions) (Consequential Modifications and Transitional Provisions) (Wales) Regulations 2022 (S.I. 2022/188)](https://www.legislation.gov.uk/wsi/2022/188), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/188/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2022/188/regulation/3), [Sch. para. 4](https://www.legislation.gov.uk/wsi/2022/188/schedule/paragraph/4)
 
-[^key-2ae96f3d209fe3a3b34df53d3b81d35d]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2013/7/section/3) in force at 25.9.2014 by [S.I. 2014/2589](https://www.legislation.gov.uk/wsi/2014/2589), [art. 2](https://www.legislation.gov.uk/wsi/2014/2589/article/2)
+[^c-2ae96f3d209fe3a3b34df53d3b81d35d]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2013/7/section/3) in force at 25.9.2014 by [S.I. 2014/2589](https://www.legislation.gov.uk/wsi/2014/2589), [art. 2](https://www.legislation.gov.uk/wsi/2014/2589/article/2)
 
-[^key-3dc8ec5d374ba32c02f243e9962b0eba]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2013/7/section/4) in force at 25.9.2014 by [S.I. 2014/2589](https://www.legislation.gov.uk/wsi/2014/2589), [art. 2](https://www.legislation.gov.uk/wsi/2014/2589/article/2)
+[^c-3dc8ec5d374ba32c02f243e9962b0eba]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2013/7/section/4) in force at 25.9.2014 by [S.I. 2014/2589](https://www.legislation.gov.uk/wsi/2014/2589), [art. 2](https://www.legislation.gov.uk/wsi/2014/2589/article/2)
 
-[^key-7567fa22cff8ae935894fadd6a539be7]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2013/7/section/5) in force at 25.9.2014 by [S.I. 2014/2589](https://www.legislation.gov.uk/wsi/2014/2589), [art. 2](https://www.legislation.gov.uk/wsi/2014/2589/article/2)
+[^c-7567fa22cff8ae935894fadd6a539be7]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2013/7/section/5) in force at 25.9.2014 by [S.I. 2014/2589](https://www.legislation.gov.uk/wsi/2014/2589), [art. 2](https://www.legislation.gov.uk/wsi/2014/2589/article/2)
 
-[^key-8d4b0c541121ab44a20e1f426249de79]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2013/7/section/6) in force at 25.9.2014 by [S.I. 2014/2589](https://www.legislation.gov.uk/wsi/2014/2589), [art. 2](https://www.legislation.gov.uk/wsi/2014/2589/article/2)
+[^c-8d4b0c541121ab44a20e1f426249de79]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2013/7/section/6) in force at 25.9.2014 by [S.I. 2014/2589](https://www.legislation.gov.uk/wsi/2014/2589), [art. 2](https://www.legislation.gov.uk/wsi/2014/2589/article/2)
 
-[^key-547528e88aa54230df1d370bd6d318d5]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2013/7/section/7) in force at 25.9.2014 by [S.I. 2014/2589](https://www.legislation.gov.uk/wsi/2014/2589), [art. 2](https://www.legislation.gov.uk/wsi/2014/2589/article/2)
+[^c-547528e88aa54230df1d370bd6d318d5]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2013/7/section/7) in force at 25.9.2014 by [S.I. 2014/2589](https://www.legislation.gov.uk/wsi/2014/2589), [art. 2](https://www.legislation.gov.uk/wsi/2014/2589/article/2)
 
-[^key-f96ab8e5f77d08c4e82eb6b36785bade]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2013/7/section/8) in force at 25.9.2014 by [S.I. 2014/2589](https://www.legislation.gov.uk/wsi/2014/2589), [art. 2](https://www.legislation.gov.uk/wsi/2014/2589/article/2)
+[^c-f96ab8e5f77d08c4e82eb6b36785bade]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2013/7/section/8) in force at 25.9.2014 by [S.I. 2014/2589](https://www.legislation.gov.uk/wsi/2014/2589), [art. 2](https://www.legislation.gov.uk/wsi/2014/2589/article/2)
 
-[^key-924697d2e362594d9ab6f78d5782ddef]: Commencement: [S. 9](https://www.legislation.gov.uk/anaw/2013/7/section/9) in force at 25.9.2014 by [S.I. 2014/2589](https://www.legislation.gov.uk/wsi/2014/2589), [art. 2](https://www.legislation.gov.uk/wsi/2014/2589/article/2)
+[^c-924697d2e362594d9ab6f78d5782ddef]: Commencement: [S. 9](https://www.legislation.gov.uk/anaw/2013/7/section/9) in force at 25.9.2014 by [S.I. 2014/2589](https://www.legislation.gov.uk/wsi/2014/2589), [art. 2](https://www.legislation.gov.uk/wsi/2014/2589/article/2)
 
-[^key-645b2a15a568c575fea73ad5df9cb17e]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2013/7/section/10) in force at 25.9.2014 by [S.I. 2014/2589](https://www.legislation.gov.uk/wsi/2014/2589), [art. 2](https://www.legislation.gov.uk/wsi/2014/2589/article/2)
+[^c-645b2a15a568c575fea73ad5df9cb17e]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2013/7/section/10) in force at 25.9.2014 by [S.I. 2014/2589](https://www.legislation.gov.uk/wsi/2014/2589), [art. 2](https://www.legislation.gov.uk/wsi/2014/2589/article/2)
 
-[^key-56852f66f769146335f48860aa998a6d]: Textual amendment: [Ss. 10A-10C](https://www.legislation.gov.uk/anaw/2013/7/section/10A) inserted (31.1.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 11](https://www.legislation.gov.uk/asc/2024/2/section/11), [30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3); [S.I. 2025/72](https://www.legislation.gov.uk/wsi/2025/72), [art. 2](https://www.legislation.gov.uk/wsi/2025/72/article/2)
+[^c-56852f66f769146335f48860aa998a6d]: Textual amendment: [Ss. 10A-10C](https://www.legislation.gov.uk/anaw/2013/7/section/10A) inserted (31.1.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 11](https://www.legislation.gov.uk/asc/2024/2/section/11), [30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3); [S.I. 2025/72](https://www.legislation.gov.uk/wsi/2025/72), [art. 2](https://www.legislation.gov.uk/wsi/2025/72/article/2)
 
-[^key-a893592010e9175a268f4f3c4eb3f6d9]: Textual amendment: [S. 10B(4A)](https://www.legislation.gov.uk/anaw/2013/7/section/10B/4A) inserted (27.6.2026) by [Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc 4)](https://www.legislation.gov.uk/asc/2026/4), [s. 46(2)(g)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/g), [Sch. 4 para. 4(2)](https://www.legislation.gov.uk/asc/2026/4/schedule/4/paragraph/4/2)
+[^c-a893592010e9175a268f4f3c4eb3f6d9]: Textual amendment: [S. 10B(4A)](https://www.legislation.gov.uk/anaw/2013/7/section/10B/4A) inserted (27.6.2026) by [Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc 4)](https://www.legislation.gov.uk/asc/2026/4), [s. 46(2)(g)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/g), [Sch. 4 para. 4(2)](https://www.legislation.gov.uk/asc/2026/4/schedule/4/paragraph/4/2)
 
-[^key-a7fef1f81a8fe7c051ad02bfc4a39d74]: Commencement: [S. 11](https://www.legislation.gov.uk/anaw/2013/7/section/11) in force at 25.9.2014 by [S.I. 2014/2589](https://www.legislation.gov.uk/wsi/2014/2589), [art. 2](https://www.legislation.gov.uk/wsi/2014/2589/article/2)
+[^c-a7fef1f81a8fe7c051ad02bfc4a39d74]: Commencement: [S. 11](https://www.legislation.gov.uk/anaw/2013/7/section/11) in force at 25.9.2014 by [S.I. 2014/2589](https://www.legislation.gov.uk/wsi/2014/2589), [art. 2](https://www.legislation.gov.uk/wsi/2014/2589/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Smoke-free vehicles[^key-8757b2303322f8073172583fbbe349fa]
+## 15. Smoke-free vehicles[^c-8757b2303322f8073172583fbbe349fa]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8757b2303322f8073172583fbbe349fa]: Commencement: [S. 15](https://www.legislation.gov.uk/anaw/2017/2/section/15) in force at 29.9.2020 by [S.I. 2020/1048](https://www.legislation.gov.uk/wsi/2020/1048), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2020/1048/article/2/2/a)
+[^c-8757b2303322f8073172583fbbe349fa]: Commencement: [S. 15](https://www.legislation.gov.uk/anaw/2017/2/section/15) in force at 29.9.2020 by [S.I. 2020/1048](https://www.legislation.gov.uk/wsi/2020/1048), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2020/1048/article/2/2/a)

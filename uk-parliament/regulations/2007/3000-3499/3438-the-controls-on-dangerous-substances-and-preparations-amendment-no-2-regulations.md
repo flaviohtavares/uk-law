@@ -32,7 +32,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION
 
-The Controls on Dangerous Substances and Preparations (Amendment) (No. 2) Regulations 2007 (revoked)[^key-f3f1a8062186535ba1939ba04211695f]
+The Controls on Dangerous Substances and Preparations (Amendment) (No. 2) Regulations 2007 (revoked)[^c-f3f1a8062186535ba1939ba04211695f]
 
 Made
 
@@ -46,27 +46,27 @@ Coming into force
 
 31st December 2007
 
-[^key-f3f1a8062186535ba1939ba04211695f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f3f1a8062186535ba1939ba04211695f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f3f1a8062186535ba1939ba04211695f]
+## 1. Citation and commencement[^c-f3f1a8062186535ba1939ba04211695f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-f3f1a8062186535ba1939ba04211695f]
+## 2. Amendment[^c-f3f1a8062186535ba1939ba04211695f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f3f1a8062186535ba1939ba04211695f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f3f1a8062186535ba1939ba04211695f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-f3f1a8062186535ba1939ba04211695f]
+## SCHEDULE[^c-f3f1a8062186535ba1939ba04211695f]
 
 Regulation 2
 
-> **SCHEDULE 1 — Table of substances, preparations and restrictions[^key-f3f1a8062186535ba1939ba04211695f]**
+> **SCHEDULE 1 — Table of substances, preparations and restrictions[^c-f3f1a8062186535ba1939ba04211695f]**
 >
 > Regulation 3
 >
@@ -74,8 +74,8 @@ Regulation 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-f3f1a8062186535ba1939ba04211695f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f3f1a8062186535ba1939ba04211695f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f3f1a8062186535ba1939ba04211695f]: Textual amendment: Regulations revoked (1.6.2009) by [The REACH Enforcement Regulations 2008 (S.I. 2008/2852)](https://www.legislation.gov.uk/uksi/2008/2852), [reg. 1](https://www.legislation.gov.uk/uksi/2008/2852/regulation/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2852/schedule/10/part/1)
+[^c-f3f1a8062186535ba1939ba04211695f]: Textual amendment: Regulations revoked (1.6.2009) by [The REACH Enforcement Regulations 2008 (S.I. 2008/2852)](https://www.legislation.gov.uk/uksi/2008/2852), [reg. 1](https://www.legislation.gov.uk/uksi/2008/2852/regulation/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2852/schedule/10/part/1)

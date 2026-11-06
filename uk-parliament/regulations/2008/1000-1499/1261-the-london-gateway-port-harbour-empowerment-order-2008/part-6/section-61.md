@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 61. For the protection of the Port of London Authority[^key-cd26c75c1d09971fae4ce1e01c798d3b]
+## 61. For the protection of the Port of London Authority[^c-cd26c75c1d09971fae4ce1e01c798d3b]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 8 shall have effect.
 
 ## Annotations
 
-[^key-cd26c75c1d09971fae4ce1e01c798d3b]: Commencement: Art. 61 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-cd26c75c1d09971fae4ce1e01c798d3b]: Commencement: Art. 61 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53A. Interpretation of Part 10A[^key-b2476b875e9b569c760afecc0f36919d]
+## 53A. Interpretation of Part 10A[^c-b2476b875e9b569c760afecc0f36919d]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In this Part—
 
 ## Annotations
 
-[^key-b2476b875e9b569c760afecc0f36919d]: Textual amendment: Pt. 10A inserted (12.7.2018) by [The Merchant Shipping (Maritime Labour Convention) (Compulsory Financial Security) (Amendment) Regulations 2018 (S.I. 2018/667)](https://www.legislation.gov.uk/uksi/2018/667), [regs. 1](https://www.legislation.gov.uk/uksi/2018/667/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2018/667/regulation/2/7)
+[^c-b2476b875e9b569c760afecc0f36919d]: Textual amendment: Pt. 10A inserted (12.7.2018) by [The Merchant Shipping (Maritime Labour Convention) (Compulsory Financial Security) (Amendment) Regulations 2018 (S.I. 2018/667)](https://www.legislation.gov.uk/uksi/2018/667), [regs. 1](https://www.legislation.gov.uk/uksi/2018/667/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2018/667/regulation/2/7)

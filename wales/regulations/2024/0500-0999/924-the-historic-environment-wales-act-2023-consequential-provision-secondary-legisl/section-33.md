@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**33.**[^key-56fe1b02cad7ab15470e32cac1ccf8a5] In regulation 2(1)—
+**33.**[^c-56fe1b02cad7ab15470e32cac1ccf8a5] In regulation 2(1)—
 
 - (a) insert in the appropriate place ““**the 2023 Act**” (“***Deddf 2023***”) means the Historic Environment (Wales) Act 2023;”;
 - (b) in the definition of “appointed representative”, for sub-paragraph (b) substitute—
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56fe1b02cad7ab15470e32cac1ccf8a5]: Commencement: [Reg. 33](https://www.legislation.gov.uk/wsi/2024/924/regulation/33) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-56fe1b02cad7ab15470e32cac1ccf8a5]: Commencement: [Reg. 33](https://www.legislation.gov.uk/wsi/2024/924/regulation/33) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

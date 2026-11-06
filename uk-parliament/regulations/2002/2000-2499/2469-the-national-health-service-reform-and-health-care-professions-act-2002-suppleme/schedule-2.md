@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — ENACTMENTS WHERE BEFORE “HEALTH AUTHORITY” THERE IS INSERTED “STRATEGIC HEALTH AUTHORITY,”[^key-d9b538e817de74093a86a5e98a3c8519]
+## SCHEDULE 2 — ENACTMENTS WHERE BEFORE “HEALTH AUTHORITY” THERE IS INSERTED “STRATEGIC HEALTH AUTHORITY,”[^c-d9b538e817de74093a86a5e98a3c8519]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ Regulation 5
 
 ## Annotations
 
-[^key-d9b538e817de74093a86a5e98a3c8519]: Commencement: Sch. 2 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
+[^c-d9b538e817de74093a86a5e98a3c8519]: Commencement: Sch. 2 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
 
 [^f00141]: Footnote: [S.I. 1984/2010](https://www.legislation.gov.uk/uksi/1984/2010).
 

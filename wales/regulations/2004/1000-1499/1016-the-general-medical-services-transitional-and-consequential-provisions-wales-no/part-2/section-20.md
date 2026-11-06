@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Refusal of approval of premises under paragraphs 29 and 29A of Schedule 2 to the 1992 Regulations[^key-96019e4e3ce41b8de37f1a20edb014be]
+## 20. Refusal of approval of premises under paragraphs 29 and 29A of Schedule 2 to the 1992 Regulations[^c-96019e4e3ce41b8de37f1a20edb014be]
 
 *Extent: E+W*
 
@@ -45,7 +45,7 @@ that appeal shall be dealt with or continue to be dealt with, as if paragraph 29
 
 ## Annotations
 
-[^key-96019e4e3ce41b8de37f1a20edb014be]: Commencement: Art. 20 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-96019e4e3ce41b8de37f1a20edb014be]: Commencement: Art. 20 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
 
 [^f00029]: Footnote: Paragraph 29 was amended by [S.I. 2002/1896 (W.197)](https://www.legislation.gov.uk/wsi/2002/1896) and [2002/916 (W.104)](https://www.legislation.gov.uk/wsi/2002/916).
 

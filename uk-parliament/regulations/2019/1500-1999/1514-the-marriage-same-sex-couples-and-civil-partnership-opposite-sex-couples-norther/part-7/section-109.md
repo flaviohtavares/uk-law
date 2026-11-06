@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Rate Relief regulations of 2007[^key-558735af21b8b921a8cec2511bbce31e]
+## 109. Rate Relief regulations of 2007[^c-558735af21b8b921a8cec2511bbce31e]
 
 *Extent: N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-558735af21b8b921a8cec2511bbce31e]: Commencement: Reg. 109 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-558735af21b8b921a8cec2511bbce31e]: Commencement: Reg. 109 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00173]: Footnote: [S.R. (N.I.) 2007/203](https://www.legislation.gov.uk/nisr/2007/203).
 

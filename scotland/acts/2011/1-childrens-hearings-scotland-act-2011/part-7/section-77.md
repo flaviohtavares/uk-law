@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 77. Power to exclude relevant person's representative from children's hearing[^key-16486498c07e58bd16bad5a81f78c820]
+## 77. Power to exclude relevant person's representative from children's hearing[^c-16486498c07e58bd16bad5a81f78c820]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16486498c07e58bd16bad5a81f78c820]: Commencement: S. 77 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-16486498c07e58bd16bad5a81f78c820]: Commencement: S. 77 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

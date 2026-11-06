@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Election agent and sub-agent in Scottish Parliament elections: public notice of home address[^key-b9de6d9153f0c64ffb8016b3201d9bef][^key-b08b0cb4938893771ac7a6885b6b5638]
+## 37. Election agent and sub-agent in Scottish Parliament elections: public notice of home address[^c-b9de6d9153f0c64ffb8016b3201d9bef][^c-b08b0cb4938893771ac7a6885b6b5638]
 
 *Extent: S*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b9de6d9153f0c64ffb8016b3201d9bef]: Commencement: S. 37 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-b9de6d9153f0c64ffb8016b3201d9bef]: Commencement: S. 37 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-b08b0cb4938893771ac7a6885b6b5638]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2025/4/section/37) in force at 1.10.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)
+[^c-b08b0cb4938893771ac7a6885b6b5638]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2025/4/section/37) in force at 1.10.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)

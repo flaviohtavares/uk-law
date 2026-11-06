@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 116A. Members of local authorities in Wales not to be appointed as officers[^key-aedd517abb47acbc3631a8459fc023aa]
+## 116A. Members of local authorities in Wales not to be appointed as officers[^c-aedd517abb47acbc3631a8459fc023aa]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A member of a local authority in Wales is disqualified for being appointed or el
 
 ## Annotations
 
-[^key-aedd517abb47acbc3631a8459fc023aa]: Textual amendment: [S. 116A](https://www.legislation.gov.uk/ukpga/1972/70/section/116A) inserted (17.11.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 21](https://www.legislation.gov.uk/asc/2021/1/section/21), [175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7); [S.I. 2021/1249](https://www.legislation.gov.uk/wsi/2021/1249), [art. 2(a)](https://www.legislation.gov.uk/wsi/2021/1249/article/2/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2021/1249/article/4))
+[^c-aedd517abb47acbc3631a8459fc023aa]: Textual amendment: [S. 116A](https://www.legislation.gov.uk/ukpga/1972/70/section/116A) inserted (17.11.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 21](https://www.legislation.gov.uk/asc/2021/1/section/21), [175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7); [S.I. 2021/1249](https://www.legislation.gov.uk/wsi/2021/1249), [art. 2(a)](https://www.legislation.gov.uk/wsi/2021/1249/article/2/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2021/1249/article/4))

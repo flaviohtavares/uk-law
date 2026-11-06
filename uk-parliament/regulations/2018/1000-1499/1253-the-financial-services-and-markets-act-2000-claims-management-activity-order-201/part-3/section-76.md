@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 76. Exemption from liability in damages[^key-5d47dcff5fe4eb657dc7f289ed0e9386][^key-3eb4ebd09ab3e64fb9daff1795dbc812]
+## 76. Exemption from liability in damages[^c-5d47dcff5fe4eb657dc7f289ed0e9386][^c-3eb4ebd09ab3e64fb9daff1795dbc812]
 
 *Extent: E+W+S*
 
@@ -27,8 +27,8 @@ Paragraph 10(1) of Schedule 17 to the 2000 Act[^f00112] (exemption from liabilit
 
 ## Annotations
 
-[^key-5d47dcff5fe4eb657dc7f289ed0e9386]: Commencement: Art. 76 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-5d47dcff5fe4eb657dc7f289ed0e9386]: Commencement: Art. 76 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-3eb4ebd09ab3e64fb9daff1795dbc812]: Commencement: [Art. 76](https://www.legislation.gov.uk/uksi/2018/1253/article/76) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-3eb4ebd09ab3e64fb9daff1795dbc812]: Commencement: [Art. 76](https://www.legislation.gov.uk/uksi/2018/1253/article/76) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00112]: Footnote: Paragraph 10(1) of Schedule 17 was amended by the Consumer Credit Act [2006 (c. 14)](https://www.legislation.gov.uk/ukpga/2006/14), section 61(10)(d) and [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881).

@@ -55,7 +55,7 @@ The Department of the Environment makes these Regulations in exercise of the pow
 (1) In these Regulations—
 
 - “**the Administrator**” means the Department of the Environment;
-- “**the charge**” means the full consideration received by a seller for carrier bags[^key-f188c2d58283f94bbfb4e44b8102678b] which attract the requirement to charge;
+- “**the charge**” means the full consideration received by a seller for carrier bags[^c-f188c2d58283f94bbfb4e44b8102678b] which attract the requirement to charge;
 - “**consideration**” includes any chargeable VAT;
 - “**the Department**” means the Department of the Environment;
 - “**discretionary requirement**” has the meaning given in paragraph 12(3) of Schedule 6 to the Climate Change Act 2008;
@@ -67,7 +67,7 @@ The Department of the Environment makes these Regulations in exercise of the pow
   - (b) as a variable monetary penalty, by virtue of paragraph 9 of Schedule 3;
   - (c) as a non-compliance penalty, by virtue of paragraph 8 of Schedule 4;
 - “**net proceeds of the charge**” means the proceeds of the charge less—
-  - (a) any element of the charge in excess of 25[^key-97725afef0d75f69ee91f21391c63bb1] pence;
+  - (a) any element of the charge in excess of 25[^c-97725afef0d75f69ee91f21391c63bb1] pence;
   - (b) any amount of chargeable VAT in respect of the 25 pence charge.
 - “**non-compliance penalty notice**” has the meaning given in paragraph 5(4) of Schedule 4;
 - “**non-monetary discretionary requirement**” has the meaning given in paragraph 12(4) of Schedule 6 to the Climate Change Act 2008;
@@ -90,7 +90,7 @@ The Department of the Environment makes these Regulations in exercise of the pow
 
 (3) References to carrier bags which attract the requirement to charge are references to those carrier bags to which regulation 6 applies.
 
-### 3. Meaning of “carrier bag”[^key-3d2c9521defbd967cec5e99550ce3d1e]
+### 3. Meaning of “carrier bag”[^c-3d2c9521defbd967cec5e99550ce3d1e]
 
 In these Regulations “**carrier bag**” means a bag of any material supplied or designed for the purpose of enabling goods to be taken away or delivered.
 
@@ -110,7 +110,7 @@ In these Regulations “**carrier bag**” means a bag of any material supplied 
 
 ### 6. Requirement to charge
 
-Subject to regulation 7, a seller shall charge a customer at least 25[^key-31dc47f8f40d4465dfa58a63ad4cc339] pence for every carrier bag[^key-05e62d6cb0996fe5ae7b2513e9bffe1c] supplied new at a place where goods are sold[^key-795334fe4f26bc87da4669b57c62c9da] .
+Subject to regulation 7, a seller shall charge a customer at least 25[^c-31dc47f8f40d4465dfa58a63ad4cc339] pence for every carrier bag[^c-05e62d6cb0996fe5ae7b2513e9bffe1c] supplied new at a place where goods are sold[^c-795334fe4f26bc87da4669b57c62c9da] .
 
 ### 7. Exemption from the requirement to charge
 
@@ -141,8 +141,8 @@ Regulation 6 does not apply in relation to the supply of carrier bags of the kin
 
 - (a) the number of carrier bags supplied to customers which attract the requirement to charge;
 - (b) the total proceeds received for carrier bags supplied to customers which attract the requirement to charge;
-- (c) the amount received by way of the 25[^key-502e5b3e6afaa956468105ce837e9a72] pence element of the charge;
-- (d) any amount of chargeable VAT in respect of the 25[^key-49c55ace31a92d8759b606083c818172] pence element of the charge;
+- (c) the amount received by way of the 25[^c-502e5b3e6afaa956468105ce837e9a72] pence element of the charge;
+- (d) any amount of chargeable VAT in respect of the 25[^c-49c55ace31a92d8759b606083c818172] pence element of the charge;
 - (e) the net proceeds of the charge.
 
 ### 10. Availability of records
@@ -405,18 +405,18 @@ Regulation 7
 
   and in respect of which the maximum dimensions are 205 millimetres (“mm”) (width) x 125 mm (gusset width) x 458 mm (height inclusive of handles);
 - (c) bags used to contain hot foods or hot drinks intended for consumption away from the premises on which they are sold;
-- (d)[^key-82f4dfd6900ca8834c6b7c4903147097] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-fa42cc041c1350136ec3bf9874bd1f18] sealed transit bags
+- (d)[^c-82f4dfd6900ca8834c6b7c4903147097] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-fa42cc041c1350136ec3bf9874bd1f18] sealed transit bags
 - (f) mail order dispatch and courier bags;
-- (g)[^key-4675e7bd71e820445524c4514476ae72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (h)[^key-4675e7bd71e820445524c4514476ae72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (i)[^key-4675e7bd71e820445524c4514476ae72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (j)[^key-4675e7bd71e820445524c4514476ae72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-4675e7bd71e820445524c4514476ae72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-4675e7bd71e820445524c4514476ae72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-4675e7bd71e820445524c4514476ae72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j)[^c-4675e7bd71e820445524c4514476ae72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (k) bags used solely to contain live aquatic creatures in water;
-- (l)[^key-0eb07d1b62d395e2aeab3bc04f528876] bags which are sold to customers for a price greater than £5 each[^key-948c2f9d0888663a258ecdc97b937661] ;
+- (l)[^c-0eb07d1b62d395e2aeab3bc04f528876] bags which are sold to customers for a price greater than £5 each[^c-948c2f9d0888663a258ecdc97b937661] ;
 - (m) multiple reuse plastic bags that are issued as free replacements for a corresponding number of worn out multiple reuse plastic bags;
-- (n)[^key-619eb737d0f987ee5afc1f0c666ca29c] bags used solely to carry goods supplied by a seller for home delivery as part of a grocery service from 1<sup>st</sup> April to 30<sup>th</sup> September 2020 only.
-- (o)[^key-fa961b9561cf6152c6e9212db08e1841] bags which—
+- (n)[^c-619eb737d0f987ee5afc1f0c666ca29c] bags used solely to carry goods supplied by a seller for home delivery as part of a grocery service from 1<sup>st</sup> April to 30<sup>th</sup> September 2020 only.
+- (o)[^c-fa961b9561cf6152c6e9212db08e1841] bags which—
   - (i) are made of any material;
   - (ii) have maximum dimensions of 125mm (width) x 155mm (height);
   - (iii) have a gusset of less than 50mm; and
@@ -430,11 +430,11 @@ Regulation 7
 (3) In this paragraph—
 
 - “**dentist**” means a person registered in the dentists register kept under section 14 of the Dentists Act 1984 [^c21532641];
-- “**EEA health professional**” has the meaning given in regulation 213(1) of the Human Medicines Regulations 2012[^key-cf345c07a9b390129fe398895f119c57] ;
+- “**EEA health professional**” has the meaning given in regulation 213(1) of the Human Medicines Regulations 2012[^c-cf345c07a9b390129fe398895f119c57] ;
 - “**independent nurse prescriber**” has the meaning given in the Pharmaceutical Services Regulations (Northern Ireland) 1997 [^c21532661];
 - “**listed appliances**” means listed appliances within the meaning of article 63 of the Health and Personal Social Services (Northern Ireland) Order 1972 [^c21532671];
 - “**medicinal product**” has the meaning given in section 130 of the Medicines Act 1968 [^c21532681];
-- “[^key-46d436634b26a9e082b29eb304154634]**multiple reuse plastic bags**” means bags which—
+- “[^c-46d436634b26a9e082b29eb304154634]**multiple reuse plastic bags**” means bags which—
   - (a) are made wholly or mainly from plastic;
   - (b) have either maximum dimensions of 404 mm (both width and height) or a maximum dimension of 439 mm (either width or height);
   - (c) are manufactured from material which is greater than 49 microns in thickness;
@@ -446,8 +446,8 @@ Regulation 7
 - “**prescription only medicine**” means a medicinal product—
   - (a) of a description or falling within a class specified in an order made under section 58 [^c21532711] of the Medicines Act 1968;
   - (b) to which section 58 of that Act applies by virtue of an order made under section 104 [^c21532721] of that Act;
-- “[^key-65218c582ab56ec8292c324f0517773f]**sealed transit bags**” means bags which are intended to be used to carry alcohol or tobacco purchased in an area designated by the Secretary of State as a security restricted area under section 11A of the Aviation Security Act 1982 and which are sealed after the item is placed therein
-- “supplementary prescriber”, “nurse independent prescriber”, “optometrist independent prescriber” and “pharmacist independent prescriber” each have the meanings respectively ascribed to them in regulation 8(1) of the Human Medicines Regulations 2012[^key-8d80c7d2e29543de5e41accc7817ff0c] ;
+- “[^c-65218c582ab56ec8292c324f0517773f]**sealed transit bags**” means bags which are intended to be used to carry alcohol or tobacco purchased in an area designated by the Secretary of State as a security restricted area under section 11A of the Aviation Security Act 1982 and which are sealed after the item is placed therein
+- “supplementary prescriber”, “nurse independent prescriber”, “optometrist independent prescriber” and “pharmacist independent prescriber” each have the meanings respectively ascribed to them in regulation 8(1) of the Human Medicines Regulations 2012[^c-8d80c7d2e29543de5e41accc7817ff0c] ;
 - “**unpackaged**” means wholly or partly unwrapped.
 
 ## SCHEDULE 2 — Fixed monetary penalties
@@ -812,43 +812,43 @@ A draft of the Regulations was notified to the European Commission in accordance
 
 [^c21532601]: Marginal citation: [2008 c.27](https://www.legislation.gov.uk/ukpga/2008/27)
 
-[^key-f188c2d58283f94bbfb4e44b8102678b]: Textual amendment: Words in Regulations (excl. regs. 1(1), 3) substituted (19.1.2015) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 9(3)(b) (6)](https://www.legislation.gov.uk/nia/2014/7/section/9/3/b) (with [s. 9(7)](https://www.legislation.gov.uk/nia/2014/7/section/9/7))
+[^c-f188c2d58283f94bbfb4e44b8102678b]: Textual amendment: Words in Regulations (excl. regs. 1(1), 3) substituted (19.1.2015) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 9(3)(b) (6)](https://www.legislation.gov.uk/nia/2014/7/section/9/3/b) (with [s. 9(7)](https://www.legislation.gov.uk/nia/2014/7/section/9/7))
 
-[^key-97725afef0d75f69ee91f21391c63bb1]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2013/4/regulation/2/1) substituted (1.4.2022) by [The Single Use Carrier Bags Charge (Amendment and Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/33)](https://www.legislation.gov.uk/nisr/2022/33), [regs. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1), [3](https://www.legislation.gov.uk/nisr/2022/33/regulation/3)
+[^c-97725afef0d75f69ee91f21391c63bb1]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2013/4/regulation/2/1) substituted (1.4.2022) by [The Single Use Carrier Bags Charge (Amendment and Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/33)](https://www.legislation.gov.uk/nisr/2022/33), [regs. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1), [3](https://www.legislation.gov.uk/nisr/2022/33/regulation/3)
 
 [^c21532611]: Marginal citation: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23); there are amendments to section 96 which are not relevant to these Regulations.
 
-[^key-3d2c9521defbd967cec5e99550ce3d1e]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2013/4/regulation/3) substituted (19.1.2015) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 9(2)](https://www.legislation.gov.uk/nia/2014/7/section/9/2)[(6)](https://www.legislation.gov.uk/nia/2014/7/section/9/6) (with [s. 9(7)](https://www.legislation.gov.uk/nia/2014/7/section/9/7))
+[^c-3d2c9521defbd967cec5e99550ce3d1e]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2013/4/regulation/3) substituted (19.1.2015) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 9(2)](https://www.legislation.gov.uk/nia/2014/7/section/9/2)[(6)](https://www.legislation.gov.uk/nia/2014/7/section/9/6) (with [s. 9(7)](https://www.legislation.gov.uk/nia/2014/7/section/9/7))
 
-[^key-31dc47f8f40d4465dfa58a63ad4cc339]: Textual amendment: Word in [reg. 6](https://www.legislation.gov.uk/nisr/2013/4/regulation/6) substituted (1.4.2022) by [The Single Use Carrier Bags Charge (Amendment and Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/33)](https://www.legislation.gov.uk/nisr/2022/33), [regs. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1), [4](https://www.legislation.gov.uk/nisr/2022/33/regulation/4)
+[^c-31dc47f8f40d4465dfa58a63ad4cc339]: Textual amendment: Word in [reg. 6](https://www.legislation.gov.uk/nisr/2013/4/regulation/6) substituted (1.4.2022) by [The Single Use Carrier Bags Charge (Amendment and Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/33)](https://www.legislation.gov.uk/nisr/2022/33), [regs. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1), [4](https://www.legislation.gov.uk/nisr/2022/33/regulation/4)
 
-[^key-05e62d6cb0996fe5ae7b2513e9bffe1c]: Textual amendment: Words in Regulations (excl. regs. 1(1), 3) substituted (19.1.2015) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 9(3)(a) (6)](https://www.legislation.gov.uk/nia/2014/7/section/9/3/a) (with [s. 9(7)](https://www.legislation.gov.uk/nia/2014/7/section/9/7))
+[^c-05e62d6cb0996fe5ae7b2513e9bffe1c]: Textual amendment: Words in Regulations (excl. regs. 1(1), 3) substituted (19.1.2015) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 9(3)(a) (6)](https://www.legislation.gov.uk/nia/2014/7/section/9/3/a) (with [s. 9(7)](https://www.legislation.gov.uk/nia/2014/7/section/9/7))
 
-[^key-795334fe4f26bc87da4669b57c62c9da]: Textual amendment: Words in reg. 6 substituted (19.1.2015) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 9(4)](https://www.legislation.gov.uk/nia/2014/7/section/9/4)[(6)](https://www.legislation.gov.uk/nia/2014/7/section/9/6) (with [s. 9(7)](https://www.legislation.gov.uk/nia/2014/7/section/9/7))
+[^c-795334fe4f26bc87da4669b57c62c9da]: Textual amendment: Words in reg. 6 substituted (19.1.2015) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 9(4)](https://www.legislation.gov.uk/nia/2014/7/section/9/4)[(6)](https://www.legislation.gov.uk/nia/2014/7/section/9/6) (with [s. 9(7)](https://www.legislation.gov.uk/nia/2014/7/section/9/7))
 
-[^key-502e5b3e6afaa956468105ce837e9a72]: Textual amendment: Word in [reg. 9(3)(c)](https://www.legislation.gov.uk/nisr/2013/4/regulation/9/3/c) substituted (1.4.2022) by [The Single Use Carrier Bags Charge (Amendment and Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/33)](https://www.legislation.gov.uk/nisr/2022/33), [regs. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1), [5(1)(a)](https://www.legislation.gov.uk/nisr/2022/33/regulation/5/1/a)
+[^c-502e5b3e6afaa956468105ce837e9a72]: Textual amendment: Word in [reg. 9(3)(c)](https://www.legislation.gov.uk/nisr/2013/4/regulation/9/3/c) substituted (1.4.2022) by [The Single Use Carrier Bags Charge (Amendment and Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/33)](https://www.legislation.gov.uk/nisr/2022/33), [regs. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1), [5(1)(a)](https://www.legislation.gov.uk/nisr/2022/33/regulation/5/1/a)
 
-[^key-49c55ace31a92d8759b606083c818172]: Textual amendment: Word in [reg. 9(3)(d)](https://www.legislation.gov.uk/nisr/2013/4/regulation/9/3/d) substituted (1.4.2022) by [The Single Use Carrier Bags Charge (Amendment and Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/33)](https://www.legislation.gov.uk/nisr/2022/33), [regs. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1), [5(1)(b)](https://www.legislation.gov.uk/nisr/2022/33/regulation/5/1/b)
+[^c-49c55ace31a92d8759b606083c818172]: Textual amendment: Word in [reg. 9(3)(d)](https://www.legislation.gov.uk/nisr/2013/4/regulation/9/3/d) substituted (1.4.2022) by [The Single Use Carrier Bags Charge (Amendment and Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/33)](https://www.legislation.gov.uk/nisr/2022/33), [regs. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1), [5(1)(b)](https://www.legislation.gov.uk/nisr/2022/33/regulation/5/1/b)
 
 [^c21532621]: Marginal citation: Appeals are assigned to the General Regulatory Chamber of the First-tier Tribunal by virtue of article 5B(a) of the First-tier Tribunal and Upper Tribunal (Chambers) Order 2008 ([S.I. 2008/2684](https://www.legislation.gov.uk/uksi/2008/2684), amended by [S.I. 2009/196](https://www.legislation.gov.uk/uksi/2009/196), 2009/1021 and 2009/1590). [The Tribunal Procedure (First-tier Tribunal) (General Regulatory Chamber) Rules 2009 (S.I. 2009/1976)](https://www.legislation.gov.uk/uksi/2009/1976) sets out procedural rules relating to such appeals.
 
-[^key-82f4dfd6900ca8834c6b7c4903147097]: Textual amendment: [Sch. 1 para. 1(1)(d)](https://www.legislation.gov.uk/nisr/2013/4/schedule/1/paragraph/1/1/d) omitted (1.4.2022) by virtue of [The Single Use Carrier Bags Charge (Amendment and Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/33)](https://www.legislation.gov.uk/nisr/2022/33), [regs. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1), [6(1)(a)](https://www.legislation.gov.uk/nisr/2022/33/regulation/6/1/a)
+[^c-82f4dfd6900ca8834c6b7c4903147097]: Textual amendment: [Sch. 1 para. 1(1)(d)](https://www.legislation.gov.uk/nisr/2013/4/schedule/1/paragraph/1/1/d) omitted (1.4.2022) by virtue of [The Single Use Carrier Bags Charge (Amendment and Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/33)](https://www.legislation.gov.uk/nisr/2022/33), [regs. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1), [6(1)(a)](https://www.legislation.gov.uk/nisr/2022/33/regulation/6/1/a)
 
-[^key-fa42cc041c1350136ec3bf9874bd1f18]: Textual amendment: [Sch. 1 para. 1(1)(e)](https://www.legislation.gov.uk/nisr/2013/4/schedule/1/paragraph/1/1/e) substituted (1.4.2022) by [The Single Use Carrier Bags Charge (Amendment and Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/33)](https://www.legislation.gov.uk/nisr/2022/33), [regs. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1), [6(1)(b)](https://www.legislation.gov.uk/nisr/2022/33/regulation/6/1/b)
+[^c-fa42cc041c1350136ec3bf9874bd1f18]: Textual amendment: [Sch. 1 para. 1(1)(e)](https://www.legislation.gov.uk/nisr/2013/4/schedule/1/paragraph/1/1/e) substituted (1.4.2022) by [The Single Use Carrier Bags Charge (Amendment and Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/33)](https://www.legislation.gov.uk/nisr/2022/33), [regs. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1), [6(1)(b)](https://www.legislation.gov.uk/nisr/2022/33/regulation/6/1/b)
 
-[^key-4675e7bd71e820445524c4514476ae72]: Textual amendment: [Sch. 1 para. 1(1)(g)-(j)](https://www.legislation.gov.uk/nisr/2013/4/schedule/1/paragraph/1/1/g) omitted (1.4.2022) by virtue of [The Single Use Carrier Bags Charge (Amendment and Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/33)](https://www.legislation.gov.uk/nisr/2022/33), [regs. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1), [6(1)(c)](https://www.legislation.gov.uk/nisr/2022/33/regulation/6/1/c)
+[^c-4675e7bd71e820445524c4514476ae72]: Textual amendment: [Sch. 1 para. 1(1)(g)-(j)](https://www.legislation.gov.uk/nisr/2013/4/schedule/1/paragraph/1/1/g) omitted (1.4.2022) by virtue of [The Single Use Carrier Bags Charge (Amendment and Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/33)](https://www.legislation.gov.uk/nisr/2022/33), [regs. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1), [6(1)(c)](https://www.legislation.gov.uk/nisr/2022/33/regulation/6/1/c)
 
-[^key-0eb07d1b62d395e2aeab3bc04f528876]: Textual amendment: Sch. 1 para. 1(1)(l)(m) added (19.1.2015) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 9(5)(a)](https://www.legislation.gov.uk/nia/2014/7/section/9/5/a)[(6)](https://www.legislation.gov.uk/nia/2014/7/section/9/6) (with [s. 9(7)](https://www.legislation.gov.uk/nia/2014/7/section/9/7))
+[^c-0eb07d1b62d395e2aeab3bc04f528876]: Textual amendment: Sch. 1 para. 1(1)(l)(m) added (19.1.2015) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 9(5)(a)](https://www.legislation.gov.uk/nia/2014/7/section/9/5/a)[(6)](https://www.legislation.gov.uk/nia/2014/7/section/9/6) (with [s. 9(7)](https://www.legislation.gov.uk/nia/2014/7/section/9/7))
 
-[^key-948c2f9d0888663a258ecdc97b937661]: Textual amendment: Words in [Sch. 1 para. 1(1)(l)](https://www.legislation.gov.uk/nisr/2013/4/schedule/1/paragraph/1/1/l) substituted (1.4.2022) by [The Single Use Carrier Bags Charge (Amendment and Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/33)](https://www.legislation.gov.uk/nisr/2022/33), [regs. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1), [6(1)(d)](https://www.legislation.gov.uk/nisr/2022/33/regulation/6/1/d)
+[^c-948c2f9d0888663a258ecdc97b937661]: Textual amendment: Words in [Sch. 1 para. 1(1)(l)](https://www.legislation.gov.uk/nisr/2013/4/schedule/1/paragraph/1/1/l) substituted (1.4.2022) by [The Single Use Carrier Bags Charge (Amendment and Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/33)](https://www.legislation.gov.uk/nisr/2022/33), [regs. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1), [6(1)(d)](https://www.legislation.gov.uk/nisr/2022/33/regulation/6/1/d)
 
-[^key-619eb737d0f987ee5afc1f0c666ca29c]: Textual amendment: [Sch. 1 para. 1(1)(n)](https://www.legislation.gov.uk/nisr/2013/4/schedule/1/paragraph/1/1/n) inserted (1.4.2020) by [The Single Use Carrier Bags Charge (Coronavirus Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/56)](https://www.legislation.gov.uk/nisr/2020/56), [regs. 1](https://www.legislation.gov.uk/nisr/2020/56/regulation/1), [3](https://www.legislation.gov.uk/nisr/2020/56/regulation/3)
+[^c-619eb737d0f987ee5afc1f0c666ca29c]: Textual amendment: [Sch. 1 para. 1(1)(n)](https://www.legislation.gov.uk/nisr/2013/4/schedule/1/paragraph/1/1/n) inserted (1.4.2020) by [The Single Use Carrier Bags Charge (Coronavirus Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/56)](https://www.legislation.gov.uk/nisr/2020/56), [regs. 1](https://www.legislation.gov.uk/nisr/2020/56/regulation/1), [3](https://www.legislation.gov.uk/nisr/2020/56/regulation/3)
 
-[^key-fa961b9561cf6152c6e9212db08e1841]: Textual amendment: [Sch. 1 para. 1(1)(o)](https://www.legislation.gov.uk/nisr/2013/4/schedule/1/paragraph/1/1/o) inserted (1.4.2022) by [The Single Use Carrier Bags Charge (Amendment and Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/33)](https://www.legislation.gov.uk/nisr/2022/33), [regs. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1), [6(1)(e)](https://www.legislation.gov.uk/nisr/2022/33/regulation/6/1/e)
+[^c-fa961b9561cf6152c6e9212db08e1841]: Textual amendment: [Sch. 1 para. 1(1)(o)](https://www.legislation.gov.uk/nisr/2013/4/schedule/1/paragraph/1/1/o) inserted (1.4.2022) by [The Single Use Carrier Bags Charge (Amendment and Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/33)](https://www.legislation.gov.uk/nisr/2022/33), [regs. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1), [6(1)(e)](https://www.legislation.gov.uk/nisr/2022/33/regulation/6/1/e)
 
 [^c21532641]: Marginal citation: [1984 c. 24](https://www.legislation.gov.uk/ukpga/1984/24); section 14 was substituted by [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011), [articles 2(1)](https://www.legislation.gov.uk/uksi/2005/2011/article/2/1) and 6; and amended by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101), [regulations 109](https://www.legislation.gov.uk/uksi/2007/3101/regulation/109) and 111.
 
-[^key-cf345c07a9b390129fe398895f119c57]: Textual amendment: Words in Sch. 1 para. 1(3) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 30](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/30)
+[^c-cf345c07a9b390129fe398895f119c57]: Textual amendment: Words in Sch. 1 para. 1(3) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 30](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/30)
 
 [^c21532661]: Marginal citation: [S.I. 1997/381](https://www.legislation.gov.uk/uksi/1997/381) as amended by 2003/447
 
@@ -856,7 +856,7 @@ A draft of the Regulations was notified to the European Commission in accordance
 
 [^c21532681]: Marginal citation: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67); section 130 was amended by [S.I. 1994/3119](https://www.legislation.gov.uk/uksi/1994/3119), [regulation 2(b)](https://www.legislation.gov.uk/uksi/1994/3119/regulation/2/b); and [S.I. 2005/50](https://www.legislation.gov.uk/uksi/2005/50), [regulation 25(1)(c)](https://www.legislation.gov.uk/uksi/2005/50/regulation/25/1/c) and (d); there are other amendments but none is relevant.
 
-[^key-46d436634b26a9e082b29eb304154634]: Textual amendment: Words in Sch. 1 para. 1(3) inserted (19.1.2015) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 9(5)(b)](https://www.legislation.gov.uk/nia/2014/7/section/9/5/b)[(6)](https://www.legislation.gov.uk/nia/2014/7/section/9/6) (with [s. 9(7)](https://www.legislation.gov.uk/nia/2014/7/section/9/7))
+[^c-46d436634b26a9e082b29eb304154634]: Textual amendment: Words in Sch. 1 para. 1(3) inserted (19.1.2015) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 9(5)(b)](https://www.legislation.gov.uk/nia/2014/7/section/9/5/b)[(6)](https://www.legislation.gov.uk/nia/2014/7/section/9/6) (with [s. 9(7)](https://www.legislation.gov.uk/nia/2014/7/section/9/7))
 
 [^c21532691]: Marginal citation: Section 52 was amended by the [Health Act 2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28) ; there are other amendments but none is relevant.
 
@@ -866,6 +866,6 @@ A draft of the Regulations was notified to the European Commission in accordance
 
 [^c21532721]: Marginal citation: Section 104 was amended by [S.I. 2004/1031](https://www.legislation.gov.uk/uksi/2004/1031), [regulation 54](https://www.legislation.gov.uk/uksi/2004/1031/regulation/54) and paragraph 17 of Schedule 10; and by [S.I. 2006/2407](https://www.legislation.gov.uk/uksi/2006/2407), [paragraphs 1](https://www.legislation.gov.uk/uksi/2006/2407/paragraph/1) and 54 of Schedule 8.
 
-[^key-65218c582ab56ec8292c324f0517773f]: Textual amendment: Words in [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/nisr/2013/4/schedule/1/paragraph/1/3) inserted (1.4.2022) by [The Single Use Carrier Bags Charge (Amendment and Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/33)](https://www.legislation.gov.uk/nisr/2022/33), [regs. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1), [6(3)(a)](https://www.legislation.gov.uk/nisr/2022/33/regulation/6/2/a)
+[^c-65218c582ab56ec8292c324f0517773f]: Textual amendment: Words in [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/nisr/2013/4/schedule/1/paragraph/1/3) inserted (1.4.2022) by [The Single Use Carrier Bags Charge (Amendment and Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/33)](https://www.legislation.gov.uk/nisr/2022/33), [regs. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1), [6(3)(a)](https://www.legislation.gov.uk/nisr/2022/33/regulation/6/2/a)
 
-[^key-8d80c7d2e29543de5e41accc7817ff0c]: Textual amendment: Words in [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/nisr/2013/4/schedule/1/paragraph/1/3) substituted (1.4.2022) by [The Single Use Carrier Bags Charge (Amendment and Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/33)](https://www.legislation.gov.uk/nisr/2022/33), [regs. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1), [6(3)(b)](https://www.legislation.gov.uk/nisr/2022/33/regulation/6/2/b)
+[^c-8d80c7d2e29543de5e41accc7817ff0c]: Textual amendment: Words in [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/nisr/2013/4/schedule/1/paragraph/1/3) substituted (1.4.2022) by [The Single Use Carrier Bags Charge (Amendment and Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/33)](https://www.legislation.gov.uk/nisr/2022/33), [regs. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1), [6(3)(b)](https://www.legislation.gov.uk/nisr/2022/33/regulation/6/2/b)

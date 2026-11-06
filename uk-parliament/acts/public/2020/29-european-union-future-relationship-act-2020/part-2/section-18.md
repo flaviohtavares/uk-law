@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Interpretation of sections 14 to 17[^key-e0b1a1befc92fb51b9db00adf22e20a8]
+## 18. Interpretation of sections 14 to 17[^c-e0b1a1befc92fb51b9db00adf22e20a8]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,8 +27,8 @@ summary: ''
   - (a) a person in the United Kingdom with any function of carrying out market surveillance that is conferred by an enactment or rule of law, and
   - (b) a person in any other country or territory with any corresponding function;
 - “**non-food product safety annex**” means one of the following annexes to the Trade and Cooperation Agreement—
-  - (a) Annex 11[^key-380c8fb7f3e8332c02ce5639a0f0c1ac]: Motor vehicles and equipment and parts thereof, or
-  - (b) Annex 13[^key-a5d71b06e8c4e1efcb834c6494eaf537] : Chemicals;
+  - (a) Annex 11[^c-380c8fb7f3e8332c02ce5639a0f0c1ac]: Motor vehicles and equipment and parts thereof, or
+  - (b) Annex 13[^c-a5d71b06e8c4e1efcb834c6494eaf537] : Chemicals;
 - “**permitted purpose**” has the meaning given by section 14(3);
 - “**relevant authority**” means—
   - (a) a Minister of the Crown, or
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e0b1a1befc92fb51b9db00adf22e20a8]: Commencement: S. 18 in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(q)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/q)
+[^c-e0b1a1befc92fb51b9db00adf22e20a8]: Commencement: S. 18 in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(q)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/q)
 
-[^key-380c8fb7f3e8332c02ce5639a0f0c1ac]: Textual amendment: Words in [s. 18(1)](https://www.legislation.gov.uk/ukpga/2020/29/section/18/1/a) substituted (23.7.2021) by [The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884)](https://www.legislation.gov.uk/uksi/2021/884), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/884/schedule) (with [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/3/a))
+[^c-380c8fb7f3e8332c02ce5639a0f0c1ac]: Textual amendment: Words in [s. 18(1)](https://www.legislation.gov.uk/ukpga/2020/29/section/18/1/a) substituted (23.7.2021) by [The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884)](https://www.legislation.gov.uk/uksi/2021/884), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/884/schedule) (with [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/3/a))
 
-[^key-a5d71b06e8c4e1efcb834c6494eaf537]: Textual amendment: Words in [s. 18(1)](https://www.legislation.gov.uk/ukpga/2020/29/section/18/1/b) substituted (23.7.2021) by [The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884)](https://www.legislation.gov.uk/uksi/2021/884), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/884/schedule) (with [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/3/a))
+[^c-a5d71b06e8c4e1efcb834c6494eaf537]: Textual amendment: Words in [s. 18(1)](https://www.legislation.gov.uk/ukpga/2020/29/section/18/1/b) substituted (23.7.2021) by [The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884)](https://www.legislation.gov.uk/uksi/2021/884), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/884/schedule) (with [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/3/a))

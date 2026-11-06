@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Control schemes[^key-1ee3a625072eb8966e5ad5f9406deca4]
+## 17. Control schemes[^c-1ee3a625072eb8966e5ad5f9406deca4]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ee3a625072eb8966e5ad5f9406deca4]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2013/7/section/17) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-1ee3a625072eb8966e5ad5f9406deca4]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2013/7/section/17) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

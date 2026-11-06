@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Adjustment of allocated benefit (members who have reached the age of 75)[^key-13f228e90d6e3b94b574c9f226194d18]
+## 82. Adjustment of allocated benefit (members who have reached the age of 75)[^c-13f228e90d6e3b94b574c9f226194d18]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-13f228e90d6e3b94b574c9f226194d18]: Commencement: [Reg. 82](https://www.legislation.gov.uk/uksi/2015/182/regulation/82) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-13f228e90d6e3b94b574c9f226194d18]: Commencement: [Reg. 82](https://www.legislation.gov.uk/uksi/2015/182/regulation/82) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
 
 [^f00037]: Footnote: Section 167 was amended by the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11) Schedule 20 paragraph 22 and the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11) Schedule 16 paragraph 11. See also Part 2 of Schedule 28 to that Act for the meaning of expressions used in section 167.

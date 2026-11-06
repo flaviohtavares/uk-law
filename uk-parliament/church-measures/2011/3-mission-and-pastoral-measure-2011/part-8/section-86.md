@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 86. During suspension period sequestration of profits, appointment of priest in charge and management of property[^key-41e57a8f262944389781463b9f9ebfa0]
+## 86. During suspension period sequestration of profits, appointment of priest in charge and management of property[^c-41e57a8f262944389781463b9f9ebfa0]
 
 *Extent: E*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41e57a8f262944389781463b9f9ebfa0]: Commencement: S. 86 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-41e57a8f262944389781463b9f9ebfa0]: Commencement: S. 86 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

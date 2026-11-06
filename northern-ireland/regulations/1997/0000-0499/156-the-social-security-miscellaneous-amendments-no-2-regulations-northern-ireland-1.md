@@ -38,7 +38,7 @@ Coming into operation in accordance with regulation 1(1)
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 35(3)(*b*), 65(5), 76(2) and 171(1) to (3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and sections 5(1)(*a*) to (*c*), (*h*) and (*i*), 25(1), 45(7), 59(1), 60(1) and 165(1) and (3) to (6) of the Social Security Administration (Northern Ireland) Act 1992[^f00002] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-6d4f803a48abaee8c3e1142a7c9b7a83]
+## 1. Citation, commencement and interpretation[^c-6d4f803a48abaee8c3e1142a7c9b7a83]
 
 (1) These Regulations may be cited as the Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1997 and shall come into operation as follows—
 
@@ -53,14 +53,14 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to a Measure of the Assembly.
 
-## 2. Amendment of the Social Security (Maternity Allowance) Regulations[^key-cb7be20a8fde00183d42ba061d49459c]
+## 2. Amendment of the Social Security (Maternity Allowance) Regulations[^c-cb7be20a8fde00183d42ba061d49459c]
 
 In regulation 3 of the Social Security (Maternity Allowance) Regulations (Northern Ireland) 1987[^f00004] (modification of the maternity allowance period)—
 
 - (a) in paragraph (1) for “paragraphs (2) to (6)” there shall be substituted “the following provisions of this regulation”; and
 - (b) paragraphs (3) to (6) shall be omitted.
 
-## 3. Amendment of the Social Security (Claims and Payments) Regulations[^key-d2d9f69c5547ec630d314fd7b8c4c3f6][^key-7dbdfb45ccb7053dd7aa84c3e5faf473][^key-7717c542930c66c7b92f79332dcbaf61][^key-55558f12a9092e3c9d4c539777bb9812]
+## 3. Amendment of the Social Security (Claims and Payments) Regulations[^c-d2d9f69c5547ec630d314fd7b8c4c3f6][^c-7dbdfb45ccb7053dd7aa84c3e5faf473][^c-7717c542930c66c7b92f79332dcbaf61][^c-55558f12a9092e3c9d4c539777bb9812]
 
 (1) The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00005] shall be amended in accordance with paragraphs (2) to (8).
 
@@ -326,7 +326,7 @@ In regulation 3 of the Social Security (Maternity Allowance) Regulations (Northe
 
 (8) In Schedule 4[^f00015] (prescribed times for claiming benefit) in paragraph 2 in column (2) for “one month” there shall be substituted “3 months”.
 
-## 4. Amendment of the Social Security (Adjudication) Regulations[^key-364bf672c0be1c6c5015c8656e510a4c][^key-f88ec73a9878cbaad94e3eda6f8b9f81][^key-671718b0b492b6fc9a2ef105fe035c5c]
+## 4. Amendment of the Social Security (Adjudication) Regulations[^c-364bf672c0be1c6c5015c8656e510a4c][^c-f88ec73a9878cbaad94e3eda6f8b9f81][^c-671718b0b492b6fc9a2ef105fe035c5c]
 
 (1) The Social Security (Adjudication) Regulations (Northern Ireland) 1995[^f00016] shall be amended in accordance with paragraphs (2) to (11).
 
@@ -407,13 +407,13 @@ In regulation 3 of the Social Security (Maternity Allowance) Regulations (Northe
 
 .
 
-## 5. Savings[^key-578321238ef36d4edeb53ee46cf02aec]
+## 5. Savings[^c-578321238ef36d4edeb53ee46cf02aec]
 
 (1) In the case of a claim for retirement pension or graduated retirement benefit made on or before 3rd August 1997 regulation 19 of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 (time for claiming benefit) shall have effect as if regulation 3(7) of these Regulations had not been made.
 
 (2) In the case of an application for a review of a decision relating to retirement pension where the application is made on or before 3rd August 1997 regulation 59 of the Social Security (Adjudication) Regulations (Northern Ireland) 1995 (review of decisions involving payment or increase of benefit other than industrial injuries benefit (except reduced earnings allowance), income support, jobseeker’s allowance, family credit or disability working allowance) shall have effect as if regulation 4(4) of these Regulations had not been made.
 
-## 6. Revocations[^key-e9fc6f5d1d569299b9760193c3aa96e2]
+## 6. Revocations[^c-e9fc6f5d1d569299b9760193c3aa96e2]
 
 **Not yet in force.**
 
@@ -429,7 +429,7 @@ Assistant Secretary
 
 **Not yet in force.**
 
-## SCHEDULE — Revocations[^key-2e902f86f68e3841fd5c5b6408dfeb22]
+## SCHEDULE — Revocations[^c-2e902f86f68e3841fd5c5b6408dfeb22]
 
 Regulation 6
 
@@ -490,21 +490,21 @@ These Regulations correspond to provision contained in Regulations made by the S
 
 [^f00002]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-6d4f803a48abaee8c3e1142a7c9b7a83]: Commencement: Reg. 1 in operation at 7.4.1997, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1997/156/regulation/1/1/a)
+[^c-6d4f803a48abaee8c3e1142a7c9b7a83]: Commencement: Reg. 1 in operation at 7.4.1997, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1997/156/regulation/1/1/a)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-cb7be20a8fde00183d42ba061d49459c]: Commencement: Reg. 2 in operation at 7.4.1997, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1997/156/regulation/1/1/a)
+[^c-cb7be20a8fde00183d42ba061d49459c]: Commencement: Reg. 2 in operation at 7.4.1997, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1997/156/regulation/1/1/a)
 
 [^f00004]: Footnote: [S.R. 1987 No. 170](https://www.legislation.gov.uk/nisr/1987/170); relevant amending regulations are [S.R. 1994 No. 271](https://www.legislation.gov.uk/nisr/1994/271)
 
-[^key-d2d9f69c5547ec630d314fd7b8c4c3f6]: Commencement: Reg. 3(1)(3)(a)(b)(d)(f)(4)(b)(4)(d)(9) in operation at 6.10.1997, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1997/156/regulation/1/1/d)
+[^c-d2d9f69c5547ec630d314fd7b8c4c3f6]: Commencement: Reg. 3(1)(3)(a)(b)(d)(f)(4)(b)(4)(d)(9) in operation at 6.10.1997, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1997/156/regulation/1/1/d)
 
-[^key-7dbdfb45ccb7053dd7aa84c3e5faf473]: Commencement: Reg. 3(2)(3)(c)(4)(a)(4)(c)(e)(5)(6)(8) in operation at 7.4.1997, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1997/156/regulation/1/1/a)
+[^c-7dbdfb45ccb7053dd7aa84c3e5faf473]: Commencement: Reg. 3(2)(3)(c)(4)(a)(4)(c)(e)(5)(6)(8) in operation at 7.4.1997, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1997/156/regulation/1/1/a)
 
-[^key-7717c542930c66c7b92f79332dcbaf61]: Commencement: Reg. 3(7) in operation at 7.4.1997 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1997/156/regulation/1/1/b)(i)
+[^c-7717c542930c66c7b92f79332dcbaf61]: Commencement: Reg. 3(7) in operation at 7.4.1997 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1997/156/regulation/1/1/b)(i)
 
-[^key-55558f12a9092e3c9d4c539777bb9812]: Commencement: Reg. 3(7) comes into force in accordance with reg. 1(1)(b)(ii)
+[^c-55558f12a9092e3c9d4c539777bb9812]: Commencement: Reg. 3(7) comes into force in accordance with reg. 1(1)(b)(ii)
 
 [^f00005]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending regulations are [S.R. 1988 No. 141](https://www.legislation.gov.uk/nisr/1988/141), [S.R. 1989 No. 398](https://www.legislation.gov.uk/nisr/1989/398), [S.R. 1990 No. 137](https://www.legislation.gov.uk/nisr/1990/137), [S.R. 1991 No. 488](https://www.legislation.gov.uk/nisr/1991/488), [S.R. 1992 Nos. 7](https://www.legislation.gov.uk/nisr/1992/7), [83](https://www.legislation.gov.uk/nisr/1992/83) and [453](https://www.legislation.gov.uk/nisr/1992/453), [S.R. 1993 No. 375](https://www.legislation.gov.uk/nisr/1993/375), [S.R. 1994 No. 456](https://www.legislation.gov.uk/nisr/1994/456) and [S.R. 1996 Nos. 57](https://www.legislation.gov.uk/nisr/1996/57), [354](https://www.legislation.gov.uk/nisr/1996/354), [432](https://www.legislation.gov.uk/nisr/1996/432) and [449](https://www.legislation.gov.uk/nisr/1996/449)
 
@@ -528,11 +528,11 @@ These Regulations correspond to provision contained in Regulations made by the S
 
 [^f00015]: Footnote: Paragraph 2 was substituted by regulation 2(13) of [S.R. 1994 No. 456](https://www.legislation.gov.uk/nisr/1994/456)
 
-[^key-364bf672c0be1c6c5015c8656e510a4c]: Commencement: Reg. 4(1)-(3)(5)-(11) in operation at 7.4.1997, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1997/156/regulation/1/1/a)
+[^c-364bf672c0be1c6c5015c8656e510a4c]: Commencement: Reg. 4(1)-(3)(5)-(11) in operation at 7.4.1997, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1997/156/regulation/1/1/a)
 
-[^key-f88ec73a9878cbaad94e3eda6f8b9f81]: Commencement: Reg. 4(4) in operation at 7.4.1997 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1997/156/regulation/1/1/c)(i)
+[^c-f88ec73a9878cbaad94e3eda6f8b9f81]: Commencement: Reg. 4(4) in operation at 7.4.1997 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1997/156/regulation/1/1/c)(i)
 
-[^key-671718b0b492b6fc9a2ef105fe035c5c]: Commencement: Reg. 4(4) comes into force in accordance with reg. 1(1)(c)(ii)
+[^c-671718b0b492b6fc9a2ef105fe035c5c]: Commencement: Reg. 4(4) comes into force in accordance with reg. 1(1)(c)(ii)
 
 [^f00016]: Footnote: [S.R. 1995 No. 293](https://www.legislation.gov.uk/nisr/1995/293); relevant amending regulations are [S.R. 1996 Nos. 57](https://www.legislation.gov.uk/nisr/1996/57), [288](https://www.legislation.gov.uk/nisr/1996/288) and [355](https://www.legislation.gov.uk/nisr/1996/355)
 
@@ -540,8 +540,8 @@ These Regulations correspond to provision contained in Regulations made by the S
 
 [^f00018]: Footnote: Regulation 63A was inserted by regulation 2(6) of [S.R. 1996 No. 355](https://www.legislation.gov.uk/nisr/1996/355) and amended by regulation 3(3) of [S.R. 1996 No. 432](https://www.legislation.gov.uk/nisr/1996/432) and regulation 2 of [S.R. 1996 No. 499](https://www.legislation.gov.uk/nisr/1996/499)
 
-[^key-578321238ef36d4edeb53ee46cf02aec]: Commencement: Reg. 5 in operation at 7.4.1997, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1997/156/regulation/1/1/a)
+[^c-578321238ef36d4edeb53ee46cf02aec]: Commencement: Reg. 5 in operation at 7.4.1997, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1997/156/regulation/1/1/a)
 
-[^key-e9fc6f5d1d569299b9760193c3aa96e2]: Commencement: Reg. 6 in operation at 6.10.1997, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1997/156/regulation/1/1/d)
+[^c-e9fc6f5d1d569299b9760193c3aa96e2]: Commencement: Reg. 6 in operation at 6.10.1997, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1997/156/regulation/1/1/d)
 
-[^key-2e902f86f68e3841fd5c5b6408dfeb22]: Commencement: Sch. in operation at 6.10.1997, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1997/156/regulation/1/1/d)
+[^c-2e902f86f68e3841fd5c5b6408dfeb22]: Commencement: Sch. in operation at 6.10.1997, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1997/156/regulation/1/1/d)

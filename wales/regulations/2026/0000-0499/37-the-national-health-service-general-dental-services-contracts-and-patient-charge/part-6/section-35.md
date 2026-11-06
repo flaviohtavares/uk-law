@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Continuity of existing contracts[^key-fec8696dd2b36886985d215aa1443e99]
+## 35. Continuity of existing contracts[^c-fec8696dd2b36886985d215aa1443e99]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fec8696dd2b36886985d215aa1443e99]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2026/37/regulation/35) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-fec8696dd2b36886985d215aa1443e99]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2026/37/regulation/35) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

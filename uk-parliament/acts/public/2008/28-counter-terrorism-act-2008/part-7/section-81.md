@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Application for anonymity for controlled person[^key-77b4d1740821cfec789e14d576adb647]
+## 81. Application for anonymity for controlled person[^c-77b4d1740821cfec789e14d576adb647]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-77b4d1740821cfec789e14d576adb647]: Textual amendment: Ss. 78-81 omitted (15.12.2011) by virtue of [Terrorism Prevention and Investigation Measures Act 2011 (c. 23)](https://www.legislation.gov.uk/ukpga/2011/23), [s. 31(2)](https://www.legislation.gov.uk/ukpga/2011/23/section/31/2), [Sch. 7 para. 5(4)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/7/paragraph/5/4) (with [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/23/schedule/8))
+[^c-77b4d1740821cfec789e14d576adb647]: Textual amendment: Ss. 78-81 omitted (15.12.2011) by virtue of [Terrorism Prevention and Investigation Measures Act 2011 (c. 23)](https://www.legislation.gov.uk/ukpga/2011/23), [s. 31(2)](https://www.legislation.gov.uk/ukpga/2011/23/section/31/2), [Sch. 7 para. 5(4)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/7/paragraph/5/4) (with [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/23/schedule/8))

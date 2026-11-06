@@ -32,7 +32,7 @@ summary: ''
 
 MEDICINES
 
-The Medicines (Sale or Supply) (Miscellaneous Amendments) Regulations 2005 (revoked)[^key-815d7ccd4642e5d69cba73c06ba12212]
+The Medicines (Sale or Supply) (Miscellaneous Amendments) Regulations 2005 (revoked)[^c-815d7ccd4642e5d69cba73c06ba12212]
 
 Made
 
@@ -46,40 +46,40 @@ Coming into force
 
 30th June 2005
 
-[^key-815d7ccd4642e5d69cba73c06ba12212]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-815d7ccd4642e5d69cba73c06ba12212]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-815d7ccd4642e5d69cba73c06ba12212]
+## 1. Citation, commencement and interpretation[^c-815d7ccd4642e5d69cba73c06ba12212]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 1 of the Marketing Authorisations Regulations[^key-815d7ccd4642e5d69cba73c06ba12212]
+## 2. Amendment of regulation 1 of the Marketing Authorisations Regulations[^c-815d7ccd4642e5d69cba73c06ba12212]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 1 of the Sale or Supply Regulations[^key-815d7ccd4642e5d69cba73c06ba12212]
+## 3. Amendment of regulation 1 of the Sale or Supply Regulations[^c-815d7ccd4642e5d69cba73c06ba12212]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 5 of the Sale or Supply Regulations[^key-815d7ccd4642e5d69cba73c06ba12212]
+## 4. Amendment of regulation 5 of the Sale or Supply Regulations[^c-815d7ccd4642e5d69cba73c06ba12212]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 8 of the Sale or Supply Regulations[^key-815d7ccd4642e5d69cba73c06ba12212]
+## 5. Amendment of regulation 8 of the Sale or Supply Regulations[^c-815d7ccd4642e5d69cba73c06ba12212]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of regulation 1 of the Child Safety Regulations[^key-815d7ccd4642e5d69cba73c06ba12212]
+## 6. Amendment of regulation 1 of the Child Safety Regulations[^c-815d7ccd4642e5d69cba73c06ba12212]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-815d7ccd4642e5d69cba73c06ba12212]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-815d7ccd4642e5d69cba73c06ba12212]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-815d7ccd4642e5d69cba73c06ba12212]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-815d7ccd4642e5d69cba73c06ba12212]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-815d7ccd4642e5d69cba73c06ba12212]: Textual amendment: Regulations revoked (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 35](https://www.legislation.gov.uk/uksi/2012/1916/schedule/35) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-815d7ccd4642e5d69cba73c06ba12212]: Textual amendment: Regulations revoked (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 35](https://www.legislation.gov.uk/uksi/2012/1916/schedule/35) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))

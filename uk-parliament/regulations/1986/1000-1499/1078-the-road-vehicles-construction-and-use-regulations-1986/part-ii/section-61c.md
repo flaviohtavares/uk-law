@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 61C. End-of-series exemption[^key-d705511ff41f3067c5c493aecea6021c]
+## 61C. End-of-series exemption[^c-d705511ff41f3067c5c493aecea6021c]
 
 *Extent: E+W+S*
 
@@ -63,4 +63,4 @@ be deemed to be fulfilled, in relation to complete vehicles, for the period begi
 
 ## Annotations
 
-[^key-d705511ff41f3067c5c493aecea6021c]: Textual amendment: [Reg. 61C](https://www.legislation.gov.uk/uksi/1986/1078/regulation/61C) substituted (14.1.2012) by [The Road Vehicles (Construction and Use) (Amendment No. 2) Regulations 2011 (S.I. 2011/3065)](https://www.legislation.gov.uk/uksi/2011/3065), [regs. 1](https://www.legislation.gov.uk/uksi/2011/3065/regulation/1), [4](https://www.legislation.gov.uk/uksi/2011/3065/regulation/4)
+[^c-d705511ff41f3067c5c493aecea6021c]: Textual amendment: [Reg. 61C](https://www.legislation.gov.uk/uksi/1986/1078/regulation/61C) substituted (14.1.2012) by [The Road Vehicles (Construction and Use) (Amendment No. 2) Regulations 2011 (S.I. 2011/3065)](https://www.legislation.gov.uk/uksi/2011/3065), [regs. 1](https://www.legislation.gov.uk/uksi/2011/3065/regulation/1), [4](https://www.legislation.gov.uk/uksi/2011/3065/regulation/4)

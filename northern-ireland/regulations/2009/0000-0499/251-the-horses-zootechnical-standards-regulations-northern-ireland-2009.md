@@ -36,7 +36,7 @@ European Communities
 
 Animals
 
-The Horses (Zootechnical Standards) Regulations (Northern Ireland) 2009 (revoked)[^key-324cffba44687769b63ef451caf3acae]
+The Horses (Zootechnical Standards) Regulations (Northern Ireland) 2009 (revoked)[^c-324cffba44687769b63ef451caf3acae]
 
 Made
 
@@ -46,92 +46,92 @@ Coming into operation
 
 14th September 2009
 
-[^key-324cffba44687769b63ef451caf3acae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-324cffba44687769b63ef451caf3acae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — General Provisions[^key-324cffba44687769b63ef451caf3acae]
+## PART 1 — General Provisions[^c-324cffba44687769b63ef451caf3acae]
 
-### 1. Citation and commencement[^key-324cffba44687769b63ef451caf3acae]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-324cffba44687769b63ef451caf3acae]
+### 1. Citation and commencement[^c-324cffba44687769b63ef451caf3acae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Recognition of Organisations[^key-324cffba44687769b63ef451caf3acae]
-
-### 3. Criteria for recognition[^key-324cffba44687769b63ef451caf3acae]
+### 2. Interpretation[^c-324cffba44687769b63ef451caf3acae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Refusal to recognise and withdrawal of recognition from organisations[^key-324cffba44687769b63ef451caf3acae]
+## PART 2 — Recognition of Organisations[^c-324cffba44687769b63ef451caf3acae]
+
+### 3. Criteria for recognition[^c-324cffba44687769b63ef451caf3acae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Representation to the Department[^key-324cffba44687769b63ef451caf3acae]
+### 4. Refusal to recognise and withdrawal of recognition from organisations[^c-324cffba44687769b63ef451caf3acae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Form and Content of Stud Book[^key-324cffba44687769b63ef451caf3acae]
-
-### 6. Division of main section of stud book[^key-324cffba44687769b63ef451caf3acae]
+### 5. Representation to the Department[^c-324cffba44687769b63ef451caf3acae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Compulsory entry in main section of stud book[^key-324cffba44687769b63ef451caf3acae]
+## PART 3 — Form and Content of Stud Book[^c-324cffba44687769b63ef451caf3acae]
+
+### 6. Division of main section of stud book[^c-324cffba44687769b63ef451caf3acae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Entry in supplementary section of stud book[^key-324cffba44687769b63ef451caf3acae]
+### 7. Compulsory entry in main section of stud book[^c-324cffba44687769b63ef451caf3acae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Cross breeding programmes[^key-324cffba44687769b63ef451caf3acae]
+### 8. Entry in supplementary section of stud book[^c-324cffba44687769b63ef451caf3acae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Entry of horses registered in other stud books[^key-324cffba44687769b63ef451caf3acae]
+### 9. Cross breeding programmes[^c-324cffba44687769b63ef451caf3acae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Entry in stud book for an animal imported from another member state[^key-324cffba44687769b63ef451caf3acae]
+### 10. Entry of horses registered in other stud books[^c-324cffba44687769b63ef451caf3acae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Revocation[^key-324cffba44687769b63ef451caf3acae]
+### 11. Entry in stud book for an animal imported from another member state[^c-324cffba44687769b63ef451caf3acae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-324cffba44687769b63ef451caf3acae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 12. Revocation[^c-324cffba44687769b63ef451caf3acae]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-324cffba44687769b63ef451caf3acae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Criteria for Recognition[^key-324cffba44687769b63ef451caf3acae]
+## SCHEDULE — Criteria for Recognition[^c-324cffba44687769b63ef451caf3acae]
 
 Regulation 3
 
-### 1. Constitution of recognised organisations[^key-324cffba44687769b63ef451caf3acae]
+### 1. Constitution of recognised organisations[^c-324cffba44687769b63ef451caf3acae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Operation of recognised organisations[^key-324cffba44687769b63ef451caf3acae]
+### 2. Operation of recognised organisations[^c-324cffba44687769b63ef451caf3acae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Improvement and selection programmes[^key-324cffba44687769b63ef451caf3acae]
+### 3. Improvement and selection programmes[^c-324cffba44687769b63ef451caf3acae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Non-discriminatory treatment of breeders[^key-324cffba44687769b63ef451caf3acae]
+### 4. Non-discriminatory treatment of breeders[^c-324cffba44687769b63ef451caf3acae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-324cffba44687769b63ef451caf3acae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-324cffba44687769b63ef451caf3acae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-324cffba44687769b63ef451caf3acae]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/251) revoked (26.12.2018) by [The Zootechnical Standards Regulations (Northern Ireland) 2018 (S.R. 2018/204)](https://www.legislation.gov.uk/nisr/2018/204), [regs. 1](https://www.legislation.gov.uk/nisr/2018/204/regulation/1), [10(c)](https://www.legislation.gov.uk/nisr/2018/204/regulation/10/c)
+[^c-324cffba44687769b63ef451caf3acae]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/251) revoked (26.12.2018) by [The Zootechnical Standards Regulations (Northern Ireland) 2018 (S.R. 2018/204)](https://www.legislation.gov.uk/nisr/2018/204), [regs. 1](https://www.legislation.gov.uk/nisr/2018/204/regulation/1), [10(c)](https://www.legislation.gov.uk/nisr/2018/204/regulation/10/c)

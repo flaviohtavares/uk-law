@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Consent under section 51 of 2003 Act: prescribed information[^key-06a12693d15fbbcca1e089251edc49d8][^key-953265125bc9afcfbd34032b6fd5ea05]
+## 50. Consent under section 51 of 2003 Act: prescribed information[^c-06a12693d15fbbcca1e089251edc49d8][^c-953265125bc9afcfbd34032b6fd5ea05]
 
 *Extent: S*
 
@@ -49,6 +49,6 @@ After section 51A of the 2003 Act (inserted by section 49), insert—
 
 ## Annotations
 
-[^key-06a12693d15fbbcca1e089251edc49d8]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2015/6/section/50) in force at 13.11.2015 for specified purposes by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)
+[^c-06a12693d15fbbcca1e089251edc49d8]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2015/6/section/50) in force at 13.11.2015 for specified purposes by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)
 
-[^key-953265125bc9afcfbd34032b6fd5ea05]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2015/6/section/50) in force at 15.4.2016 in so far as not already in force by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-953265125bc9afcfbd34032b6fd5ea05]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2015/6/section/50) in force at 15.4.2016 in so far as not already in force by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

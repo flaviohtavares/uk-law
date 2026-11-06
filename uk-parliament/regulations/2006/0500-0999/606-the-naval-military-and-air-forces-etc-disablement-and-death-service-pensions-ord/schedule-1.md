@@ -114,7 +114,7 @@ Article 3(1)
 
 ### PART II — RATES OF RETIRED PAY, PENSIONS, GRATUITIES AND ALLOWANCES
 
-**RETIRED PAY OR PENSIONS FOR DISABLED MEMBERS OF THE ARMED FORCES[^key-8a9503564df43e269080f263d9f3d018]**
+**RETIRED PAY OR PENSIONS FOR DISABLED MEMBERS OF THE ARMED FORCES[^c-8a9503564df43e269080f263d9f3d018]**
 
 | Degree of Disablement | Yearly Rates of Retired Pay and Pensions for Groups 1 - 9 | Weekly Rates of Pensions for Groups 10 - 15 |
 | --- | --- | --- |
@@ -131,7 +131,7 @@ Article 3(1)
 
 ### PART III — GRATUITIES PAYABLE FOR MINOR INJURIES
 
-Table 1[^key-dd3cffa25290391b62cb3b9cbd2d1fa8]
+Table 1[^c-dd3cffa25290391b62cb3b9cbd2d1fa8]
 
 GRATUITIES PAYABLE FOR SPECIFIED MINOR INJURIES
 
@@ -176,7 +176,7 @@ GRATUITIES PAYABLE FOR SPECIFIED MINOR INJURIES
 </tbody>
 </table>
 
-Table 2[^key-f9160f20b3127d4a5a81cf7838dbedd5]
+Table 2[^c-f9160f20b3127d4a5a81cf7838dbedd5]
 
 GRATUITIES PAYABLE TO MEMBERS OF THE ARMED FORCES FOR DISABLEMENT ASSESSED AT LESS THAN 20 PER CENT NOT BEING A MINOR INJURY SPECIFIED IN TABLE 1
 
@@ -192,7 +192,7 @@ GRATUITIES PAYABLE TO MEMBERS OF THE ARMED FORCES FOR DISABLEMENT ASSESSED AT LE
 
 ### PART IV
 
-RATES OF ALLOWANCES PAYABLE IN RESPECT OF DISABLEMENT AND EARNINGS OR INCOME THRESHOLDS[^key-4e30b508ffb47cd3c7aa99af0b11f704]
+RATES OF ALLOWANCES PAYABLE IN RESPECT OF DISABLEMENT AND EARNINGS OR INCOME THRESHOLDS[^c-4e30b508ffb47cd3c7aa99af0b11f704]
 
 <table>
 <thead>
@@ -320,12 +320,12 @@ RATES OF ALLOWANCES PAYABLE IN RESPECT OF DISABLEMENT AND EARNINGS OR INCOME THR
 
 ## Annotations
 
-[^key-8a9503564df43e269080f263d9f3d018]: Textual amendment: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2006/606/schedule/1/part/II) Table substituted (6.4.2026) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2026 (S.I. 2026/101)](https://www.legislation.gov.uk/uksi/2026/101), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/101/article/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2026/101/article/3/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/101/schedule/1)
+[^c-8a9503564df43e269080f263d9f3d018]: Textual amendment: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2006/606/schedule/1/part/II) Table substituted (6.4.2026) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2026 (S.I. 2026/101)](https://www.legislation.gov.uk/uksi/2026/101), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/101/article/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2026/101/article/3/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/101/schedule/1)
 
-[^key-dd3cffa25290391b62cb3b9cbd2d1fa8]: Textual amendment: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2006/606/schedule/1/part/3) Table 1 substituted (6.4.2026) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2026 (S.I. 2026/101)](https://www.legislation.gov.uk/uksi/2026/101), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/101/article/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2026/101/article/3/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/101/schedule/2)
+[^c-dd3cffa25290391b62cb3b9cbd2d1fa8]: Textual amendment: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2006/606/schedule/1/part/3) Table 1 substituted (6.4.2026) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2026 (S.I. 2026/101)](https://www.legislation.gov.uk/uksi/2026/101), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/101/article/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2026/101/article/3/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/101/schedule/2)
 
-[^key-f9160f20b3127d4a5a81cf7838dbedd5]: Textual amendment: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2006/606/schedule/1/part/3) Table 2 substituted (6.4.2026) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2026 (S.I. 2026/101)](https://www.legislation.gov.uk/uksi/2026/101), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/101/article/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2026/101/article/3/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/101/schedule/2)
+[^c-f9160f20b3127d4a5a81cf7838dbedd5]: Textual amendment: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2006/606/schedule/1/part/3) Table 2 substituted (6.4.2026) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2026 (S.I. 2026/101)](https://www.legislation.gov.uk/uksi/2026/101), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/101/article/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2026/101/article/3/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/101/schedule/2)
 
-[^key-4e30b508ffb47cd3c7aa99af0b11f704]: Textual amendment: [Sch. 1 Pt. 4](https://www.legislation.gov.uk/uksi/2006/606/schedule/1/part/4) Table substituted (6.4.2026) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2026 (S.I. 2026/101)](https://www.legislation.gov.uk/uksi/2026/101), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/101/article/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2026/101/article/3/c), [Sch. 3](https://www.legislation.gov.uk/uksi/2026/101/schedule/3)
+[^c-4e30b508ffb47cd3c7aa99af0b11f704]: Textual amendment: [Sch. 1 Pt. 4](https://www.legislation.gov.uk/uksi/2006/606/schedule/1/part/4) Table substituted (6.4.2026) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2026 (S.I. 2026/101)](https://www.legislation.gov.uk/uksi/2026/101), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/101/article/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2026/101/article/3/c), [Sch. 3](https://www.legislation.gov.uk/uksi/2026/101/schedule/3)
 
 [^c2155032]: Textual amendment: Words in Sch. 1 Pt. 4 Table inserted (6.4.2009) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2009 (S.I. 2009/706)](https://www.legislation.gov.uk/uksi/2009/706), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/706/article/1/1), [15(d)](https://www.legislation.gov.uk/uksi/2009/706/article/15/d) (with [art. 18](https://www.legislation.gov.uk/uksi/2009/706/article/18))

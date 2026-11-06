@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 178. Liability in other cases[^key-0f9ad128f547340485a14ddc8b1b5746]
+## 178. Liability in other cases[^c-0f9ad128f547340485a14ddc8b1b5746]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f9ad128f547340485a14ddc8b1b5746]: Commencement: S. 178 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-0f9ad128f547340485a14ddc8b1b5746]: Commencement: S. 178 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -32,8 +32,8 @@ summary: ''
 
 (6) For the meaning of “interest period” and “the settlement day”, see sections 673 and 674 respectively.
 
-(7)[^key-cca3c6b0a48f19e9601481e81d52c7b4] Subsection (1) is subject to section 832 of ITTOIA 2005 (relevant foreign income charged on remittance basis).
+(7)[^c-cca3c6b0a48f19e9601481e81d52c7b4] Subsection (1) is subject to section 832 of ITTOIA 2005 (relevant foreign income charged on remittance basis).
 
 ## Annotations
 
-[^key-cca3c6b0a48f19e9601481e81d52c7b4]: Textual amendment: S. 617(7) inserted (21.7.2008 with effect in accordance with Sch. 7 para. 160 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 157](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/157)
+[^c-cca3c6b0a48f19e9601481e81d52c7b4]: Textual amendment: S. 617(7) inserted (21.7.2008 with effect in accordance with Sch. 7 para. 160 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 157](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/157)

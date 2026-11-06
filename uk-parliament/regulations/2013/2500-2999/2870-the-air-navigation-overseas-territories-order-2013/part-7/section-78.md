@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Pre-flight action by pilot-in-command of an aircraft[^key-5a828c95478c2f83db7aae64ce5f8e84]
+## 78. Pre-flight action by pilot-in-command of an aircraft[^c-5a828c95478c2f83db7aae64ce5f8e84]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ The pilot-in-command of an aircraft must take all reasonable steps so as to be s
 
 ## Annotations
 
-[^key-5a828c95478c2f83db7aae64ce5f8e84]: Commencement: [Art. 78](https://www.legislation.gov.uk/uksi/2013/2870/article/78) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-5a828c95478c2f83db7aae64ce5f8e84]: Commencement: [Art. 78](https://www.legislation.gov.uk/uksi/2013/2870/article/78) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

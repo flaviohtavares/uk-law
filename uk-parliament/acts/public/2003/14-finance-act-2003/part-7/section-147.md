@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-e8176523be759a984b39000eb1ee0f05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-e8176523be759a984b39000eb1ee0f05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In the Social Security Contributions and Benefits Act 1992 (c. 4) and the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7), in paragraph 6 of Schedule 1 (power to combine collection of national insurance contributions with tax) after sub-paragraph (4A) insert—
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e8176523be759a984b39000eb1ee0f05]: Textual amendment: [S. 147(1)](https://www.legislation.gov.uk/ukpga/2003/14/section/147/1) repealed (with effect in accordance with s. 77 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/7)
+[^c-e8176523be759a984b39000eb1ee0f05]: Textual amendment: [S. 147(1)](https://www.legislation.gov.uk/ukpga/2003/14/section/147/1) repealed (with effect in accordance with s. 77 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Crown rights[^key-d3db4fb5d32dac9b3fde3fe7ec414676]
+## 40. Crown rights[^c-d3db4fb5d32dac9b3fde3fe7ec414676]
 
 *Extent: E+W+S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d3db4fb5d32dac9b3fde3fe7ec414676]: Commencement: Art. 40 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
+[^c-d3db4fb5d32dac9b3fde3fe7ec414676]: Commencement: Art. 40 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
 
 [^f00090]: Footnote: Section 227 was amended by [S.I. 2017/524](https://www.legislation.gov.uk/uksi/2017/524).

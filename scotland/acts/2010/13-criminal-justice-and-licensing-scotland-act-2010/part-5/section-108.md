@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-f4ff037e2f007674ab5236f4d4cd582f][^key-9ec93a3cd3eb5dd58f9254f1a63ed1cf] The Police Act 1997 (c.50) is amended as follows.
+(1)[^c-f4ff037e2f007674ab5236f4d4cd582f][^c-9ec93a3cd3eb5dd58f9254f1a63ed1cf] The Police Act 1997 (c.50) is amended as follows.
 
-(2)[^key-28d1000c8d75e9f210c00bb46a724495] In section 113B (enhanced criminal record certificates), in subsection (3), for the words from “, or” immediately following paragraph (a) to the end of paragraph (b), substitute
+(2)[^c-28d1000c8d75e9f210c00bb46a724495] In section 113B (enhanced criminal record certificates), in subsection (3), for the words from “, or” immediately following paragraph (a) to the end of paragraph (b), substitute
 
 > (or states that there is no such matter or information), and
 >
@@ -30,7 +30,7 @@ summary: ''
 
 .
 
-(3)[^key-28d1000c8d75e9f210c00bb46a724495] After that section insert—
+(3)[^c-28d1000c8d75e9f210c00bb46a724495] After that section insert—
 
 > **113BA. Information held outside the United Kingdom**
 >
@@ -48,7 +48,7 @@ summary: ''
 
 .
 
-(4)[^key-b33f486802f812b966c62f1fff29a4d9] In section 120ZB (regulations about registration), after subsection (2) insert—
+(4)[^c-b33f486802f812b966c62f1fff29a4d9] In section 120ZB (regulations about registration), after subsection (2) insert—
 
 > (2A) The provision which may be made by virtue of subsection (2)(a) includes in particular provision for—
 >
@@ -63,10 +63,10 @@ summary: ''
 
 ## Annotations
 
-[^key-f4ff037e2f007674ab5236f4d4cd582f]: Commencement: [S. 108(1)](https://www.legislation.gov.uk/asp/2010/13/section/108/1) in force at 12.10.2010 for specified purposes by [S.S.I. 2010/344](https://www.legislation.gov.uk/ssi/2010/344), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2010/344/article/2/b/i)
+[^c-f4ff037e2f007674ab5236f4d4cd582f]: Commencement: [S. 108(1)](https://www.legislation.gov.uk/asp/2010/13/section/108/1) in force at 12.10.2010 for specified purposes by [S.S.I. 2010/344](https://www.legislation.gov.uk/ssi/2010/344), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2010/344/article/2/b/i)
 
-[^key-9ec93a3cd3eb5dd58f9254f1a63ed1cf]: Commencement: [S. 108(1)](https://www.legislation.gov.uk/asp/2010/13/section/108/1) in force at 28.2.2011 in so far as not already in force by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/157/article/2/b)
+[^c-9ec93a3cd3eb5dd58f9254f1a63ed1cf]: Commencement: [S. 108(1)](https://www.legislation.gov.uk/asp/2010/13/section/108/1) in force at 28.2.2011 in so far as not already in force by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/157/article/2/b)
 
-[^key-28d1000c8d75e9f210c00bb46a724495]: Commencement: [S. 108(2)](https://www.legislation.gov.uk/asp/2010/13/section/108/2)[(3)](https://www.legislation.gov.uk/asp/2010/13/section/108/3) in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/157/article/2/b) (with [art. 3](https://www.legislation.gov.uk/ssi/2011/157/article/3))
+[^c-28d1000c8d75e9f210c00bb46a724495]: Commencement: [S. 108(2)](https://www.legislation.gov.uk/asp/2010/13/section/108/2)[(3)](https://www.legislation.gov.uk/asp/2010/13/section/108/3) in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/157/article/2/b) (with [art. 3](https://www.legislation.gov.uk/ssi/2011/157/article/3))
 
-[^key-b33f486802f812b966c62f1fff29a4d9]: Commencement: [S. 108(4)](https://www.legislation.gov.uk/asp/2010/13/section/108/4) in force at 12.10.2010 by [S.S.I. 2010/344](https://www.legislation.gov.uk/ssi/2010/344), [art. 2(b)(ii)](https://www.legislation.gov.uk/ssi/2010/344/article/2/b/ii)
+[^c-b33f486802f812b966c62f1fff29a4d9]: Commencement: [S. 108(4)](https://www.legislation.gov.uk/asp/2010/13/section/108/4) in force at 12.10.2010 by [S.S.I. 2010/344](https://www.legislation.gov.uk/ssi/2010/344), [art. 2(b)(ii)](https://www.legislation.gov.uk/ssi/2010/344/article/2/b/ii)

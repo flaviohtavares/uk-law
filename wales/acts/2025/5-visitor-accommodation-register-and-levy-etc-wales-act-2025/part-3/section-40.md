@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Payment of the levy[^key-bb0ef9622cd77cb71f55bb40ef0149e0]
+## 40. Payment of the levy[^c-bb0ef9622cd77cb71f55bb40ef0149e0]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb0ef9622cd77cb71f55bb40ef0149e0]: Commencement: S. 40 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-bb0ef9622cd77cb71f55bb40ef0149e0]: Commencement: S. 40 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

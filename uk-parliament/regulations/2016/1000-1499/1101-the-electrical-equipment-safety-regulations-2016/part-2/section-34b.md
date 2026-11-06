@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34B. Further use of UK marking[^key-f1e3571da0f564fca4ad6ecaaeaf4472][^key-b7dd1d6f6077d62fcc57f4f780f97e75]
+## 34B. Further use of UK marking[^c-f1e3571da0f564fca4ad6ecaaeaf4472][^c-b7dd1d6f6077d62fcc57f4f780f97e75]
 
 *Extent: E+W+S*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f1e3571da0f564fca4ad6ecaaeaf4472]: Textual amendment: [Reg. 34B](https://www.legislation.gov.uk/uksi/2016/1101/regulation/34B) substituted (E.W.S.) (1.10.2024) by [The Product Safety and Metrology etc. (Amendment) Regulations 2024 (S.I. 2024/696)](https://www.legislation.gov.uk/uksi/2024/696), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2024/696/regulation/14/3) (with [reg. 23](https://www.legislation.gov.uk/uksi/2024/696/regulation/23))
+[^c-f1e3571da0f564fca4ad6ecaaeaf4472]: Textual amendment: [Reg. 34B](https://www.legislation.gov.uk/uksi/2016/1101/regulation/34B) substituted (E.W.S.) (1.10.2024) by [The Product Safety and Metrology etc. (Amendment) Regulations 2024 (S.I. 2024/696)](https://www.legislation.gov.uk/uksi/2024/696), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2024/696/regulation/14/3) (with [reg. 23](https://www.legislation.gov.uk/uksi/2024/696/regulation/23))
 
-[^key-b7dd1d6f6077d62fcc57f4f780f97e75]: Textual amendment: Regs. 34A-34C inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 23 para. 19](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/19) (as amended by [S.I. 2020/1460](https://www.legislation.gov.uk/uksi/2020/1460), [reg 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 15(3)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/15/3)); [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch.5 para 1(10)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/10), see [reg.1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-b7dd1d6f6077d62fcc57f4f780f97e75]: Textual amendment: Regs. 34A-34C inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 23 para. 19](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/19) (as amended by [S.I. 2020/1460](https://www.legislation.gov.uk/uksi/2020/1460), [reg 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 15(3)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/15/3)); [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch.5 para 1(10)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/10), see [reg.1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

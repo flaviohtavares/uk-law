@@ -32,7 +32,7 @@ summary: ''
 
 Immigration
 
-The Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2014 (revoked)[^key-9a7562ad1e70a305a38913bedb871778]
+The Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2014 (revoked)[^c-9a7562ad1e70a305a38913bedb871778]
 
 Made
 
@@ -44,26 +44,26 @@ Laid before Parliament
 
 Coming into force in accordance with article 1
 
-[^key-9a7562ad1e70a305a38913bedb871778]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9a7562ad1e70a305a38913bedb871778]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9a7562ad1e70a305a38913bedb871778]
+## 1. Citation and commencement[^c-9a7562ad1e70a305a38913bedb871778]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Channel Tunnel (Miscellaneous Provisions) Order 1994[^key-9a7562ad1e70a305a38913bedb871778]
+## 2. Amendments to the Channel Tunnel (Miscellaneous Provisions) Order 1994[^c-9a7562ad1e70a305a38913bedb871778]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-9a7562ad1e70a305a38913bedb871778] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-9a7562ad1e70a305a38913bedb871778] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9a7562ad1e70a305a38913bedb871778]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9a7562ad1e70a305a38913bedb871778]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9a7562ad1e70a305a38913bedb871778]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9a7562ad1e70a305a38913bedb871778]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9a7562ad1e70a305a38913bedb871778]: Textual amendment: Order revoked (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [art. 15](https://www.legislation.gov.uk/uksi/2020/915/article/15)
+[^c-9a7562ad1e70a305a38913bedb871778]: Textual amendment: Order revoked (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [art. 15](https://www.legislation.gov.uk/uksi/2020/915/article/15)

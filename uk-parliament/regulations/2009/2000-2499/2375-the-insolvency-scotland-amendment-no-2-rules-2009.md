@@ -34,7 +34,7 @@ Insolvency, Scotland
 
 Companies
 
-The Insolvency (Scotland) Amendment (No. 2) Rules 2009 (revoked)[^key-248c85adc128a822c1fd4562b5527221]
+The Insolvency (Scotland) Amendment (No. 2) Rules 2009 (revoked)[^c-248c85adc128a822c1fd4562b5527221]
 
 Made
 
@@ -48,31 +48,31 @@ Coming into force
 
 1st October 2009
 
-[^key-248c85adc128a822c1fd4562b5527221]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-248c85adc128a822c1fd4562b5527221]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-248c85adc128a822c1fd4562b5527221]
+## 1. Citation, commencement and interpretation[^c-248c85adc128a822c1fd4562b5527221]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the principal Rules[^key-248c85adc128a822c1fd4562b5527221]
+## 2. Amendments to the principal Rules[^c-248c85adc128a822c1fd4562b5527221]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-248c85adc128a822c1fd4562b5527221]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-248c85adc128a822c1fd4562b5527221]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — AMENDMENTS TO THE PRINCIPAL RULES[^key-248c85adc128a822c1fd4562b5527221]
+## SCHEDULE 1 — AMENDMENTS TO THE PRINCIPAL RULES[^c-248c85adc128a822c1fd4562b5527221]
 
 Rule 2
 
-**1.**[^key-248c85adc128a822c1fd4562b5527221] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-248c85adc128a822c1fd4562b5527221] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-248c85adc128a822c1fd4562b5527221] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-248c85adc128a822c1fd4562b5527221] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-248c85adc128a822c1fd4562b5527221]
+## SCHEDULE 2[^c-248c85adc128a822c1fd4562b5527221]
 
 Rule 2
 
@@ -80,8 +80,8 @@ Rule 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-248c85adc128a822c1fd4562b5527221]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-248c85adc128a822c1fd4562b5527221]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-248c85adc128a822c1fd4562b5527221]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2009/2375) revoked (6.4.2019) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) Rules 2018 (S.I. 2018/1082)](https://www.legislation.gov.uk/uksi/2018/1082), [rule 1](https://www.legislation.gov.uk/uksi/2018/1082/rule/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2018/1082/schedule/1)
+[^c-248c85adc128a822c1fd4562b5527221]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2009/2375) revoked (6.4.2019) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) Rules 2018 (S.I. 2018/1082)](https://www.legislation.gov.uk/uksi/2018/1082), [rule 1](https://www.legislation.gov.uk/uksi/2018/1082/rule/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2018/1082/schedule/1)

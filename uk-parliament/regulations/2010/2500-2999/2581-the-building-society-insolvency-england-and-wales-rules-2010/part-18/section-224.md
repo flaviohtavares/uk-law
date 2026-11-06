@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 224. Payment into court[^key-ca5cc1b2ba1ca9833471953158cb99df]
+## 224. Payment into court[^c-ca5cc1b2ba1ca9833471953158cb99df]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 7.59 of the 1986 Rules[^f00078].
 
 ## Annotations
 
-[^key-ca5cc1b2ba1ca9833471953158cb99df]: Commencement: Rule 224 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-ca5cc1b2ba1ca9833471953158cb99df]: Commencement: Rule 224 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00078]: Footnote: Rule 7.59 was amended by [S.I.1999/1022](https://www.legislation.gov.uk/uksi/1999/1022).

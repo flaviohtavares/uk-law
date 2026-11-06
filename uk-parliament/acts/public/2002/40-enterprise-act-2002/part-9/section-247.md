@@ -29,11 +29,11 @@ The following enactments (which make provision as to the disclosure of certain i
 - (e) section 10 of the Estate Agents Act 1979 (c. 38);
 - (f) section 19(1) to (3), (4)(c), (d) and (f) and (5) and (6) of the Competition Act 1980 (c. 21);
 - (g) section 38 of the Consumer Protection Act 1987 (c. 43);
-- (h)[^key-25f192e7cb4fc9640487b2b282fe5add] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-25f192e7cb4fc9640487b2b282fe5add] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (i) paragraph 5 of Schedule 2 to the Timeshare Act 1992 (c. 35);
 - (j) sections 55 and 56 of and Schedule 11 to the Competition Act 1998 (c. 41);
 - (k) section 351(1) to (3) and (7) of and Schedule 19 to the Financial Services and Markets Act 2000 (c. 8).
 
 ## Annotations
 
-[^key-25f192e7cb4fc9640487b2b282fe5add]: Textual amendment: S. 247(h) omitted (1.10.2013) by virtue of [The Property Misdescriptions Act 1991 (Repeal) Order 2013 (S.I. 2013/1575)](https://www.legislation.gov.uk/uksi/2013/1575), [art. 1](https://www.legislation.gov.uk/uksi/2013/1575/article/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2013/1575/schedule/paragraph/9)
+[^c-25f192e7cb4fc9640487b2b282fe5add]: Textual amendment: S. 247(h) omitted (1.10.2013) by virtue of [The Property Misdescriptions Act 1991 (Repeal) Order 2013 (S.I. 2013/1575)](https://www.legislation.gov.uk/uksi/2013/1575), [art. 1](https://www.legislation.gov.uk/uksi/2013/1575/article/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2013/1575/schedule/paragraph/9)

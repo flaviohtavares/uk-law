@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 153A. Further information on extension of compulsion order[^key-83a01ec4d68b5e9538f7f36eaca7e86b]
+## 153A. Further information on extension of compulsion order[^c-83a01ec4d68b5e9538f7f36eaca7e86b]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83a01ec4d68b5e9538f7f36eaca7e86b]: Textual amendment: S. 153A inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 50(2)](https://www.legislation.gov.uk/asp/2015/9/section/50/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/197/article/4))
+[^c-83a01ec4d68b5e9538f7f36eaca7e86b]: Textual amendment: S. 153A inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 50(2)](https://www.legislation.gov.uk/asp/2015/9/section/50/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/197/article/4))

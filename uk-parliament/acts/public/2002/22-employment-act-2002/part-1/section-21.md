@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Funding of employers’ liabilities: statutory maternity pay[^key-5661f67d84610446f63b7107943e614f]
+## 21. Funding of employers’ liabilities: statutory maternity pay[^c-5661f67d84610446f63b7107943e614f]
 
 *Extent: E+W+S+N.I.*
 
@@ -108,4 +108,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5661f67d84610446f63b7107943e614f]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2002/22/section/21) in force at 6.4.2003 by [S.I. 2002/2866](https://www.legislation.gov.uk/uksi/2002/2866), [art. 2(3)](https://www.legislation.gov.uk/uksi/2002/2866/article/2/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2002/2866/schedule/1/part/3) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2002/2866/schedule/3))
+[^c-5661f67d84610446f63b7107943e614f]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2002/22/section/21) in force at 6.4.2003 by [S.I. 2002/2866](https://www.legislation.gov.uk/uksi/2002/2866), [art. 2(3)](https://www.legislation.gov.uk/uksi/2002/2866/article/2/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2002/2866/schedule/1/part/3) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2002/2866/schedule/3))

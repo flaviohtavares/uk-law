@@ -45,7 +45,7 @@ The Queen’s Most Excellent Majesty in Council
 
 Her Majesty, in exercise of the powers conferred upon Her by section 168 of the Serious Organised Crime and Police Act 2005[^f00001], section 66(4) of the Safeguarding Vulnerable Groups Act 2006[^f00002] and section 118 of the Protection of Freedoms Act 2012[^f00003], is pleased, by and with the advice of Her Privy Council, to make the following Order:
 
-## 1. Citation and commencement[^key-0b278d4e732e597aba89de50de3874c7]
+## 1. Citation and commencement[^c-0b278d4e732e597aba89de50de3874c7]
 
 (1) This Order may be cited as the Police Act 1997 (Criminal Records) (Jersey) (Amendment) Order 2012.
 
@@ -56,7 +56,7 @@ Her Majesty, in exercise of the powers conferred upon Her by section 168 of the 
 - (a) any provision extended as specified in paragraph (2) of article 4 and any provision in any Part extended as specified in paragraphs (3) to (6) of article 4 (subject to the modifications specified in Schedules 1 to 5 of this Order) does not have effect in Jersey until the day that provision comes into force in England and Wales;
 - (b) paragraph (4) of Schedule 1 shall have effect in Jersey when the extensions and modifications specified in paragraphs (3) to (6) of article 4 have effect in Jersey.
 
-## 2. Interpretation[^key-5dfa4d9e54571c5c35e683b4e365c9c3]
+## 2. Interpretation[^c-5dfa4d9e54571c5c35e683b4e365c9c3]
 
 (1) In this Order—
 
@@ -66,7 +66,7 @@ Her Majesty, in exercise of the powers conferred upon Her by section 168 of the 
 
 (2) The Interpretation (Jersey) Law 1954 shall apply to this Order as if this Order were an enactment for the purposes of that Law.
 
-## 3. Amendment of the 2010 Order[^key-60553ea4c7c0b7048c3a60bb53742d84]
+## 3. Amendment of the 2010 Order[^c-60553ea4c7c0b7048c3a60bb53742d84]
 
 (1) The 2010 Order is amended as follows.
 
@@ -80,7 +80,7 @@ Her Majesty, in exercise of the powers conferred upon Her by section 168 of the 
 
 (6) Schedule 3 is revoked.
 
-## 4. Extension of Part 5 of, and Schedules 9 and 10 to, the Protection of Freedoms Act 2012 to Jersey[^key-5af94f413f2500ad568bafd695327f3d]
+## 4. Extension of Part 5 of, and Schedules 9 and 10 to, the Protection of Freedoms Act 2012 to Jersey[^c-5af94f413f2500ad568bafd695327f3d]
 
 (1) The following provisions of Part 5 (Safeguarding of vulnerable groups, criminal records, etc.) of the 2012 Act extend to Jersey subject to the modifications specified in Schedule 1.
 
@@ -99,14 +99,14 @@ Her Majesty, in exercise of the powers conferred upon Her by section 168 of the 
 
 (4) Part 7 of Schedule 9 (Criminal records) to the 2012 Act extends to Jersey subject to the modifications specified in Schedule 3.
 
-(5) Part 5 of Schedule 10 (Safeguarding of vulnerable groups) to the 2012 Act extends to Jersey to the extent that it repeals the following provisions of the Police Act 1997—[^key-0e3471b3cf243e2cf649fe171abbd612]
+(5) Part 5 of Schedule 10 (Safeguarding of vulnerable groups) to the 2012 Act extends to Jersey to the extent that it repeals the following provisions of the Police Act 1997—[^c-0e3471b3cf243e2cf649fe171abbd612]
 
 - (a) section 113BA(2)(b) to (d);
 - (b) section 113BB(2)(b) to (d).
 
 (6) Part 6 of Schedule 10 (Criminal records) to the 2012 Act extends to Jersey subject to the modifications specified in Schedule 5.
 
-## 5. Subordinate legislation made under extended provisions[^key-78aae378110fda97370d3738e977e075]
+## 5. Subordinate legislation made under extended provisions[^c-78aae378110fda97370d3738e977e075]
 
 Any order or regulations made by the Secretary of State under the provisions extended to Jersey by this Order shall not have effect in Jersey until the order or regulations, having been communicated to the Bailiff of Jersey for registration by the Royal Court, have been so registered; and they shall come into force on the day following registration or the day of coming into force specified in the order or regulations, whichever is the later.
 
@@ -118,19 +118,19 @@ Clerk of the Privy Council
 
 Article 4(1)
 
-**1.**[^key-15a2f9a4ee2a3056137b9fe0ec874a08] In section 79 (restriction on information provided to certain persons)—
+**1.**[^c-15a2f9a4ee2a3056137b9fe0ec874a08] In section 79 (restriction on information provided to certain persons)—
 
 - (a) omit subsection (1);
 - (b) in subsection (3) for “120AB” substitute “120ZA”.
 
-**2.**[^key-3b71b007cbb09681779f757b02886b2d] In section 80 (minimum age for applicants for certificates or to be registered)—
+**2.**[^c-3b71b007cbb09681779f757b02886b2d] In section 80 (minimum age for applicants for certificates or to be registered)—
 
 - (a) in the heading omit “or to be registered”;
 - (b) omit subsection (2).
 
-**3.**[^key-51ccab3f01a92951c2abd5eaa0256d2b] In section 82 (enhanced criminal record certificates: additional safeguards), in subsection (3)(a) at the end of the inserted definition of “relevant chief officer” add “and the Chief Officer of the States of Jersey Police Force”.
+**3.**[^c-51ccab3f01a92951c2abd5eaa0256d2b] In section 82 (enhanced criminal record certificates: additional safeguards), in subsection (3)(a) at the end of the inserted definition of “relevant chief officer” add “and the Chief Officer of the States of Jersey Police Force”.
 
-**4.**[^key-2808b6c5451d897c6a857cee4324a493] After section 84 insert the following section—
+**4.**[^c-2808b6c5451d897c6a857cee4324a493] After section 84 insert the following section—
 
 > **84A. Consequential amendments, repeals and revocations**
 >
@@ -140,15 +140,15 @@ Article 4(1)
 
 .
 
-**5.**[^key-be0cbb9a54e0bf054916f96e08c82969] In section 87 (formation and constitution of DBS), omit subsection (3).
+**5.**[^c-be0cbb9a54e0bf054916f96e08c82969] In section 87 (formation and constitution of DBS), omit subsection (3).
 
-**6.**[^key-7e2542133cd79a5dc55509a813638f76] In section 88 (transfer of functions to DBS and dissolution of ISA), for subsection (2) substitute—
+**6.**[^c-7e2542133cd79a5dc55509a813638f76] In section 88 (transfer of functions to DBS and dissolution of ISA), for subsection (2) substitute—
 
 > (2) The Secretary of State may by order transfer to DBS any function of the Secretary of State under, or in connection with, Part 5 of the Police Act 1997 (criminal records).
 
 .
 
-**7.**[^key-6d940f526b8fbbb10317aab062602453] In section 89 (orders under section 88)—
+**7.**[^c-6d940f526b8fbbb10317aab062602453] In section 89 (orders under section 88)—
 
 - (a) omit subsections (2) to (4);
 - (b) for subsection (5), substitute—
@@ -161,17 +161,17 @@ Article 4(1)
 
 Article 4(3)
 
-**1.**[^key-63e778be190dfddd7b756c2d886d628a] Omit paragraphs 36 and 37.
+**1.**[^c-63e778be190dfddd7b756c2d886d628a] Omit paragraphs 36 and 37.
 
-**2.**[^key-7acb11f9d61727fe708978cbf45c30a4] Omit paragraphs 40 to 42.
+**2.**[^c-7acb11f9d61727fe708978cbf45c30a4] Omit paragraphs 40 to 42.
 
-**3.**[^key-a9be63e16ff019bca9899b2b2df952e5] Omit paragraphs 43 to 103.
+**3.**[^c-a9be63e16ff019bca9899b2b2df952e5] Omit paragraphs 43 to 103.
 
 ## SCHEDULE 3 — Modifications to Part 7 of Schedule 9 to the 2012 Act
 
 Article 4(4)
 
-**1.**[^key-b921a7aec7ebdac9f21e14e00b7f01c6] For paragraph 107[^f00005] substitute—
+**1.**[^c-b921a7aec7ebdac9f21e14e00b7f01c6] For paragraph 107[^f00005] substitute—
 
 > **107.** In section 116, for subsection (3) substitute—
 >
@@ -179,14 +179,14 @@ Article 4(4)
 
 .
 
-**2.**[^key-d34b9e5453e16737fa35a49cbd9df0c9] In paragraph 109—
+**2.**[^c-d34b9e5453e16737fa35a49cbd9df0c9] In paragraph 109—
 
 - (a) in subparagraph (2)(b) for “, 117A” substitute “or 117A”;
 - (b) in subparagraph (3), in the inserted subsection (3A)—
   - (i) for the first reference to the “Secretary of State” substitute “Minister for Home Affairs”;
   - (ii) after “fingerprints” insert “for transmission to the Secretary of State”.
 
-**3.**[^key-61262fbd1596615c8e18916971646ac4] In paragraph 110—
+**3.**[^c-61262fbd1596615c8e18916971646ac4] In paragraph 110—
 
 - (a) for subparagraph (2), substitute—
 
@@ -204,7 +204,7 @@ Article 4(4)
 
   .
 
-**4.**[^key-285d308fc00b8afb49dc4cd7813a6621] For paragraph 112 substitute—
+**4.**[^c-285d308fc00b8afb49dc4cd7813a6621] For paragraph 112 substitute—
 
 > **112.** (1) Section 120 (registered persons), is amended as follows.
 >
@@ -212,11 +212,11 @@ Article 4(4)
 
 .
 
-**5.**[^key-f8a8dfe04b64acae8e866d87907e0c4b] Omit paragraphs 113 and 114.
+**5.**[^c-f8a8dfe04b64acae8e866d87907e0c4b] Omit paragraphs 113 and 114.
 
-**6.**[^key-91b11761f6ce174bb8074f4e8aa51a70] Omit paragraphs 119 to 129.
+**6.**[^c-91b11761f6ce174bb8074f4e8aa51a70] Omit paragraphs 119 to 129.
 
-## SCHEDULE 4 — Modifications to Part 5 of Schedule 10 to the 2012 Act[^key-38e010f2f5d3ec325d45b92208b7f294]
+## SCHEDULE 4 — Modifications to Part 5 of Schedule 10 to the 2012 Act[^c-38e010f2f5d3ec325d45b92208b7f294]
 
 **No longer in force.**
 
@@ -224,11 +224,11 @@ Article 4(5)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — Modifications to Part 6 of Schedule 10 to the 2012 Act[^key-b49ea97ac0509e5431a5d4328b767cdf]
+## SCHEDULE 5 — Modifications to Part 6 of Schedule 10 to the 2012 Act[^c-b49ea97ac0509e5431a5d4328b767cdf]
 
 Article 4(6)
 
-[^key-b49ea97ac0509e5431a5d4328b767cdf]
+[^c-b49ea97ac0509e5431a5d4328b767cdf]
 
 For Part 6 substitute—
 
@@ -308,56 +308,56 @@ An informal Keeling Schedule setting out the provisions of the 2012 Act as they 
 
 [^f00003]: Footnote: [2012 c. 9](https://www.legislation.gov.uk/ukpga/2012/9).
 
-[^key-0b278d4e732e597aba89de50de3874c7]: Commencement: Art. 1 comes into force in accordance with art. 1(2)
+[^c-0b278d4e732e597aba89de50de3874c7]: Commencement: Art. 1 comes into force in accordance with art. 1(2)
 
-[^key-5dfa4d9e54571c5c35e683b4e365c9c3]: Commencement: Art. 2 comes into force in accordance with art. 1(2)
+[^c-5dfa4d9e54571c5c35e683b4e365c9c3]: Commencement: Art. 2 comes into force in accordance with art. 1(2)
 
 [^f00004]: Footnote: [S.I. 2010/765](https://www.legislation.gov.uk/uksi/2010/765).
 
-[^key-60553ea4c7c0b7048c3a60bb53742d84]: Commencement: Art. 3 comes into force in accordance with art. 1(2)
+[^c-60553ea4c7c0b7048c3a60bb53742d84]: Commencement: Art. 3 comes into force in accordance with art. 1(2)
 
-[^key-5af94f413f2500ad568bafd695327f3d]: Commencement: Art. 4 comes into force in accordance with art. 1(2)
+[^c-5af94f413f2500ad568bafd695327f3d]: Commencement: Art. 4 comes into force in accordance with art. 1(2)
 
-[^key-0e3471b3cf243e2cf649fe171abbd612]: Textual amendment: Words in [art. 4(5)](https://www.legislation.gov.uk/uksi/2012/2591/article/4/5) substituted (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Safeguarding Vulnerable Groups Act 2006 (Jersey) Order 2025 (S.I. 2025/825)](https://www.legislation.gov.uk/uksi/2025/825), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/825/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2025/825/article/3/2)
+[^c-0e3471b3cf243e2cf649fe171abbd612]: Textual amendment: Words in [art. 4(5)](https://www.legislation.gov.uk/uksi/2012/2591/article/4/5) substituted (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Safeguarding Vulnerable Groups Act 2006 (Jersey) Order 2025 (S.I. 2025/825)](https://www.legislation.gov.uk/uksi/2025/825), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/825/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2025/825/article/3/2)
 
-[^key-78aae378110fda97370d3738e977e075]: Commencement: Art. 5 comes into force in accordance with art. 1(2)
+[^c-78aae378110fda97370d3738e977e075]: Commencement: Art. 5 comes into force in accordance with art. 1(2)
 
-[^key-15a2f9a4ee2a3056137b9fe0ec874a08]: Commencement: Sch. 1 para. 1 comes into force in accordance with art. 1(2)
+[^c-15a2f9a4ee2a3056137b9fe0ec874a08]: Commencement: Sch. 1 para. 1 comes into force in accordance with art. 1(2)
 
-[^key-3b71b007cbb09681779f757b02886b2d]: Commencement: Sch. 1 para. 2 comes into force in accordance with art. 1(2)
+[^c-3b71b007cbb09681779f757b02886b2d]: Commencement: Sch. 1 para. 2 comes into force in accordance with art. 1(2)
 
-[^key-51ccab3f01a92951c2abd5eaa0256d2b]: Commencement: Sch. 1 para. 3 comes into force in accordance with art. 1(2)
+[^c-51ccab3f01a92951c2abd5eaa0256d2b]: Commencement: Sch. 1 para. 3 comes into force in accordance with art. 1(2)
 
-[^key-2808b6c5451d897c6a857cee4324a493]: Commencement: Sch. 1 para. 4 comes into force in accordance with art. 1(2)
+[^c-2808b6c5451d897c6a857cee4324a493]: Commencement: Sch. 1 para. 4 comes into force in accordance with art. 1(2)
 
-[^key-be0cbb9a54e0bf054916f96e08c82969]: Commencement: Sch. 1 para. 5 comes into force in accordance with art. 1(2)
+[^c-be0cbb9a54e0bf054916f96e08c82969]: Commencement: Sch. 1 para. 5 comes into force in accordance with art. 1(2)
 
-[^key-7e2542133cd79a5dc55509a813638f76]: Commencement: Sch. 1 para. 6 comes into force in accordance with art. 1(2)
+[^c-7e2542133cd79a5dc55509a813638f76]: Commencement: Sch. 1 para. 6 comes into force in accordance with art. 1(2)
 
-[^key-6d940f526b8fbbb10317aab062602453]: Commencement: Sch. 1 para. 7 comes into force in accordance with art. 1(2)
+[^c-6d940f526b8fbbb10317aab062602453]: Commencement: Sch. 1 para. 7 comes into force in accordance with art. 1(2)
 
-[^key-63e778be190dfddd7b756c2d886d628a]: Commencement: Sch. 2 para. 1 comes into force in accordance with art. 1(2)
+[^c-63e778be190dfddd7b756c2d886d628a]: Commencement: Sch. 2 para. 1 comes into force in accordance with art. 1(2)
 
-[^key-7acb11f9d61727fe708978cbf45c30a4]: Commencement: Sch. 2 para. 2 comes into force in accordance with art. 1(2)
+[^c-7acb11f9d61727fe708978cbf45c30a4]: Commencement: Sch. 2 para. 2 comes into force in accordance with art. 1(2)
 
-[^key-a9be63e16ff019bca9899b2b2df952e5]: Commencement: Sch. 2 para. 3 comes into force in accordance with art. 1(2)
+[^c-a9be63e16ff019bca9899b2b2df952e5]: Commencement: Sch. 2 para. 3 comes into force in accordance with art. 1(2)
 
-[^key-b921a7aec7ebdac9f21e14e00b7f01c6]: Commencement: Sch. 3 para. 1 comes into force in accordance with art. 1(2)
+[^c-b921a7aec7ebdac9f21e14e00b7f01c6]: Commencement: Sch. 3 para. 1 comes into force in accordance with art. 1(2)
 
 [^f00005]: Footnote: Paragraphs 107, 109, 110 and 112 of Part 7 of Schedule 9 to the 2012 Act, respectively amend sections 116, 118, 119 and 120 of the Police Act [1997 (c.50)](https://www.legislation.gov.uk/ukpga/1997/50), which were extended, with modifications, by [S.I. 2010/765](https://www.legislation.gov.uk/uksi/2010/765) and which, by modification of Part 7 of Schedule 9 to the 2012 Act, are further modified by this Order.
 
-[^key-d34b9e5453e16737fa35a49cbd9df0c9]: Commencement: Sch. 3 para. 2 comes into force in accordance with art. 1(2)
+[^c-d34b9e5453e16737fa35a49cbd9df0c9]: Commencement: Sch. 3 para. 2 comes into force in accordance with art. 1(2)
 
-[^key-61262fbd1596615c8e18916971646ac4]: Commencement: Sch. 3 para. 3 comes into force in accordance with art. 1(2)
+[^c-61262fbd1596615c8e18916971646ac4]: Commencement: Sch. 3 para. 3 comes into force in accordance with art. 1(2)
 
-[^key-285d308fc00b8afb49dc4cd7813a6621]: Commencement: Sch. 3 para. 4 comes into force in accordance with art. 1(2)
+[^c-285d308fc00b8afb49dc4cd7813a6621]: Commencement: Sch. 3 para. 4 comes into force in accordance with art. 1(2)
 
-[^key-f8a8dfe04b64acae8e866d87907e0c4b]: Commencement: Sch. 3 para. 5 comes into force in accordance with art. 1(2)
+[^c-f8a8dfe04b64acae8e866d87907e0c4b]: Commencement: Sch. 3 para. 5 comes into force in accordance with art. 1(2)
 
-[^key-91b11761f6ce174bb8074f4e8aa51a70]: Commencement: Sch. 3 para. 6 comes into force in accordance with art. 1(2)
+[^c-91b11761f6ce174bb8074f4e8aa51a70]: Commencement: Sch. 3 para. 6 comes into force in accordance with art. 1(2)
 
-[^key-38e010f2f5d3ec325d45b92208b7f294]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2012/2591/schedule/4) omitted (coming into force in accordance with art. 1(1) of the amending S.I.) by virtue of [The Safeguarding Vulnerable Groups Act 2006 (Jersey) Order 2025 (S.I. 2025/825)](https://www.legislation.gov.uk/uksi/2025/825), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/825/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2025/825/article/3/3)
+[^c-38e010f2f5d3ec325d45b92208b7f294]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2012/2591/schedule/4) omitted (coming into force in accordance with art. 1(1) of the amending S.I.) by virtue of [The Safeguarding Vulnerable Groups Act 2006 (Jersey) Order 2025 (S.I. 2025/825)](https://www.legislation.gov.uk/uksi/2025/825), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/825/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2025/825/article/3/3)
 
-[^key-b49ea97ac0509e5431a5d4328b767cdf]: Commencement: Sch. 5 comes into force in accordance with art. 1(2)
+[^c-b49ea97ac0509e5431a5d4328b767cdf]: Commencement: Sch. 5 comes into force in accordance with art. 1(2)
 
 [^f00008]: Footnote: These Provisions were previously extended, with modifications, by [S.I. 2010/765](https://www.legislation.gov.uk/uksi/2010/765).

@@ -32,7 +32,7 @@ summary: ''
 
 Customs
 
-The Export Control (Iran) Order 2011 (revoked)[^key-caae68f8d3eae02bd1a23e8af2f5d750]
+The Export Control (Iran) Order 2011 (revoked)[^c-caae68f8d3eae02bd1a23e8af2f5d750]
 
 Made
 
@@ -46,76 +46,76 @@ Coming into force
 
 13th June 2011
 
-[^key-caae68f8d3eae02bd1a23e8af2f5d750]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-caae68f8d3eae02bd1a23e8af2f5d750]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement[^key-caae68f8d3eae02bd1a23e8af2f5d750]
+## 1. Citation, commencement[^c-caae68f8d3eae02bd1a23e8af2f5d750]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocations[^key-caae68f8d3eae02bd1a23e8af2f5d750]
+## 2. Revocations[^c-caae68f8d3eae02bd1a23e8af2f5d750]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-caae68f8d3eae02bd1a23e8af2f5d750]
+## 3. Interpretation[^c-caae68f8d3eae02bd1a23e8af2f5d750]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Savings[^key-caae68f8d3eae02bd1a23e8af2f5d750]
+## 4. Savings[^c-caae68f8d3eae02bd1a23e8af2f5d750]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Offences related to Annexes I, II and III items[^key-caae68f8d3eae02bd1a23e8af2f5d750]
+## 5. Offences related to Annexes I, II and III items[^c-caae68f8d3eae02bd1a23e8af2f5d750]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Offences related to Annex IV items[^key-caae68f8d3eae02bd1a23e8af2f5d750]
+## 6. Offences related to Annex IV items[^c-caae68f8d3eae02bd1a23e8af2f5d750]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Offences related to Annex VI items[^key-caae68f8d3eae02bd1a23e8af2f5d750]
+## 7. Offences related to Annex VI items[^c-caae68f8d3eae02bd1a23e8af2f5d750]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Offences related to restrictions on financing of certain enterprises[^key-caae68f8d3eae02bd1a23e8af2f5d750]
+## 8. Offences related to restrictions on financing of certain enterprises[^c-caae68f8d3eae02bd1a23e8af2f5d750]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Offences related to restrictions on Iranian investment in the uranium mining and nuclear industry[^key-caae68f8d3eae02bd1a23e8af2f5d750]
+## 9. Offences related to restrictions on Iranian investment in the uranium mining and nuclear industry[^c-caae68f8d3eae02bd1a23e8af2f5d750]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Offences related to EU authorisations[^key-caae68f8d3eae02bd1a23e8af2f5d750]
+## 10. Offences related to EU authorisations[^c-caae68f8d3eae02bd1a23e8af2f5d750]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Overlap with the 2008 Order[^key-caae68f8d3eae02bd1a23e8af2f5d750]
+## 11. Overlap with the 2008 Order[^c-caae68f8d3eae02bd1a23e8af2f5d750]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Supplementary provisions as to Offences[^key-caae68f8d3eae02bd1a23e8af2f5d750]
+## 12. Supplementary provisions as to Offences[^c-caae68f8d3eae02bd1a23e8af2f5d750]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Penalties[^key-caae68f8d3eae02bd1a23e8af2f5d750]
+## 13. Penalties[^c-caae68f8d3eae02bd1a23e8af2f5d750]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Application of the 1979 Act[^key-caae68f8d3eae02bd1a23e8af2f5d750]
+## 14. Application of the 1979 Act[^c-caae68f8d3eae02bd1a23e8af2f5d750]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Review[^key-caae68f8d3eae02bd1a23e8af2f5d750]
+## 15. Review[^c-caae68f8d3eae02bd1a23e8af2f5d750]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-caae68f8d3eae02bd1a23e8af2f5d750]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-caae68f8d3eae02bd1a23e8af2f5d750]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-caae68f8d3eae02bd1a23e8af2f5d750]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-caae68f8d3eae02bd1a23e8af2f5d750]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-caae68f8d3eae02bd1a23e8af2f5d750]: Textual amendment: Order revoked (1.6.2012) by [The Export Control (Iran Sanctions) Order 2012 (S.I. 2012/1243)](https://www.legislation.gov.uk/uksi/2012/1243), [art. 1(1)(2)](https://www.legislation.gov.uk/uksi/2012/1243/article/1/2)
+[^c-caae68f8d3eae02bd1a23e8af2f5d750]: Textual amendment: Order revoked (1.6.2012) by [The Export Control (Iran Sanctions) Order 2012 (S.I. 2012/1243)](https://www.legislation.gov.uk/uksi/2012/1243), [art. 1(1)(2)](https://www.legislation.gov.uk/uksi/2012/1243/article/1/2)

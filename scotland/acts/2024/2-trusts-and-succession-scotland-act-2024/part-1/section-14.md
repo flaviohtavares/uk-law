@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Making of decision[^key-caa98cfbd864d5df1acc595549b72693][^key-401880105fdef2221200c4d4d2f797d5]
+## 14. Making of decision[^c-caa98cfbd864d5df1acc595549b72693][^c-401880105fdef2221200c4d4d2f797d5]
 
 *Extent: S*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-caa98cfbd864d5df1acc595549b72693]: Commencement: S. 14 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-caa98cfbd864d5df1acc595549b72693]: Commencement: S. 14 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
 
-[^key-401880105fdef2221200c4d4d2f797d5]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2024/2/section/14) in force at 26.6.2024 for specified purposes by [S.S.I. 2024/164](https://www.legislation.gov.uk/ssi/2024/164), [reg. 2](https://www.legislation.gov.uk/ssi/2024/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/164/schedule)
+[^c-401880105fdef2221200c4d4d2f797d5]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2024/2/section/14) in force at 26.6.2024 for specified purposes by [S.S.I. 2024/164](https://www.legislation.gov.uk/ssi/2024/164), [reg. 2](https://www.legislation.gov.uk/ssi/2024/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/164/schedule)

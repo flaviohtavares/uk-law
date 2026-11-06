@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Certificate that actuarial valuation prepared in accordance with scheme rules[^c24480811][^key-090ffa7f6be0ac6afa9d3096c6cd1ca9]
+## 72. Certificate that actuarial valuation prepared in accordance with scheme rules[^c24480811][^c-090ffa7f6be0ac6afa9d3096c6cd1ca9]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ A scheme actuary who prepares an actuarial valuation in pursuance of a provision
 
 [^c24480811]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2021/1/section/72) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-090ffa7f6be0ac6afa9d3096c6cd1ca9]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2021/1/section/72) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-090ffa7f6be0ac6afa9d3096c6cd1ca9]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2021/1/section/72) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)

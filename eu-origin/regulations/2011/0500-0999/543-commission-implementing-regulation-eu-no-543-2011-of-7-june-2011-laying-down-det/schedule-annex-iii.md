@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX III — CERTIFICATE OF CONFORMITY WITH THE EUROPEAN UNION MARKETING STANDARDS FOR FRESH FRUIT AND VEGETABLES REFERRED TO IN ARTICLES 12, 13 AND 14[^key-502ffcc8be5c3c097751b081feaf1c52]
+## ANNEX III — CERTIFICATE OF CONFORMITY WITH THE EUROPEAN UNION MARKETING STANDARDS FOR FRESH FRUIT AND VEGETABLES REFERRED TO IN ARTICLES 12, 13 AND 14[^c-502ffcc8be5c3c097751b081feaf1c52]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-502ffcc8be5c3c097751b081feaf1c52]: Textual amendment: Annex 3: words “Great Britain” substituted for words “the European Union”, in each place it occurs (including the heading) (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [8(44)](https://www.legislation.gov.uk/uksi/2019/822/regulation/8/44) (as substituted by [S.I. 2020/1453](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [10(16)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/10/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-502ffcc8be5c3c097751b081feaf1c52]: Textual amendment: Annex 3: words “Great Britain” substituted for words “the European Union”, in each place it occurs (including the heading) (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [8(44)](https://www.legislation.gov.uk/uksi/2019/822/regulation/8/44) (as substituted by [S.I. 2020/1453](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [10(16)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/10/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

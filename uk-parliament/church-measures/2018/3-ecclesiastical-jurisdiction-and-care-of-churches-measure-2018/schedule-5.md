@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## SCHEDULE 5 — REPEALS AND REVOCATIONS[^key-cc9d8dd864c08f89d2889fdb2e8dcac2]
+## SCHEDULE 5 — REPEALS AND REVOCATIONS[^c-cc9d8dd864c08f89d2889fdb2e8dcac2]
 
 *Extent: E*
 
@@ -113,4 +113,4 @@ Section 98
 
 ## Annotations
 
-[^key-cc9d8dd864c08f89d2889fdb2e8dcac2]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-cc9d8dd864c08f89d2889fdb2e8dcac2]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

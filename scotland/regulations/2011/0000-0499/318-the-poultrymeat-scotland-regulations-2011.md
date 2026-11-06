@@ -63,7 +63,7 @@ To the extent that these Regulations have been made in exercise of the powers un
 
 (3) These Regulations extend to Scotland only.
 
-(4) These Regulations apply to poultrymeat described in point 1 of Part V of Annex[^key-f6e8c9be821f0e72fd76278dfdb6c9ca] VII to Council Regulation 2013 [^key-e117ddb12481f87c9dc00f38fed8287c]... , excluding poultrymeat described in point I(2) of Part B of Annex XIV to the Single CMO Regulation[^key-92d087184879d851a43cdf8faf0b2aea].
+(4) These Regulations apply to poultrymeat described in point 1 of Part V of Annex[^c-f6e8c9be821f0e72fd76278dfdb6c9ca] VII to Council Regulation 2013 [^c-e117ddb12481f87c9dc00f38fed8287c]... , excluding poultrymeat described in point I(2) of Part B of Annex XIV to the Single CMO Regulation[^c-92d087184879d851a43cdf8faf0b2aea].
 
 (5) These Regulations do not apply to the direct supply of small quantities of poultrymeat by a producer with an annual production of under 10,000 birds where the meat—
 
@@ -81,12 +81,12 @@ To the extent that these Regulations have been made in exercise of the powers un
 - “**Commission Regulation**” means Commission Regulation (EC) No 543/2008 laying down detailed rules for the application of Council Regulation (EC) No 1234/2007 as regards the marketing standards for poultrymeat, as amended from time to time;
 - “**computer equipment**” means any computer, and any associated electronic storage device or apparatus;
 - “**contravene**” includes fail to comply, and contravention is to be construed accordingly;
-- “Council Regulation 2013” means Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products and repealing Council Regulations[^key-9111531c95f30fd688716ba45597a931] [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234), as amended from time to time,
+- “Council Regulation 2013” means Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products and repealing Council Regulations[^c-9111531c95f30fd688716ba45597a931] [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234), as amended from time to time,
 - “**cutting plant**” means an establishment used for boning and/or cutting up meat;
 - “**enforcement authority**” means an authority exercising a function conferred on it by regulation 8;
-- **“assimilated[^key-c41cdc26f4f7cf3b0058bf94cc455eb1] poultrymeat provision**” means a provision of the Single CMO Regulation or, as the case may be, Council Regulation 2013[^key-7eb61c9022ccb8ac99caa0df162d1072] or the Commission Regulation specified in column 1 of Part 1 or 2 of Schedule 1, as read with any provision mentioned in the corresponding entry in column 2 of Part 1 or 2 of that Schedule;
+- **“assimilated[^c-c41cdc26f4f7cf3b0058bf94cc455eb1] poultrymeat provision**” means a provision of the Single CMO Regulation or, as the case may be, Council Regulation 2013[^c-7eb61c9022ccb8ac99caa0df162d1072] or the Commission Regulation specified in column 1 of Part 1 or 2 of Schedule 1, as read with any provision mentioned in the corresponding entry in column 2 of Part 1 or 2 of that Schedule;
 - “**food authority**” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 [^c21026781];
-- “poultrymeat” “has the meaning given by point II(1) of Part V of Annex VII to Council Regulation 2013;[^key-1484028ee9caa69ea32014308d4fda43]
+- “poultrymeat” “has the meaning given by point II(1) of Part V of Annex VII to Council Regulation 2013;[^c-1484028ee9caa69ea32014308d4fda43]
 - “**premises**” means any place, including those requiring inspection under Article 12(5)(a) to (d) of the Commission Regulation, and any vehicle, trailer, stall or moveable structure;
 - “**relevant individual**” means—
   - (a) in relation to a body corporate—
@@ -98,11 +98,11 @@ To the extent that these Regulations have been made in exercise of the powers un
 
 (2) In these Regulations, any reference to Part B of Annex XIV to the Single CMO Regulation is a reference to Part B of Annex XIV as amended from time to time.
 
-(3) Any expressions used in these Regulations to which meanings are given in either the Single CMO Regulations or, as the case may be, Council Regulation 2013[^key-ef7bfe3fa7d16165e4a5f6c51cc6c3c4] or the Commission Regulation have the same meaning as in those EU Regulations.
+(3) Any expressions used in these Regulations to which meanings are given in either the Single CMO Regulations or, as the case may be, Council Regulation 2013[^c-ef7bfe3fa7d16165e4a5f6c51cc6c3c4] or the Commission Regulation have the same meaning as in those EU Regulations.
 
 ## 3. Offences
 
-A person commits an offence if that person contravenes an assimilated[^key-461250e550f8557b09d86251784566f2] poultrymeat provision.
+A person commits an offence if that person contravenes an assimilated[^c-461250e550f8557b09d86251784566f2] poultrymeat provision.
 
 ## 4. Registration as required by Article 12 of the Commission Regulation
 
@@ -186,11 +186,11 @@ A person commits an offence if that person contravenes an assimilated[^key-46125
 
 ## 8. Enforcement
 
-(1) The Agency must enforce the assimilated[^key-23ed0c58da57c805cd8d4d9471411bd9] poultrymeat provisions at slaughterhouses and approved cutting plants.
+(1) The Agency must enforce the assimilated[^c-23ed0c58da57c805cd8d4d9471411bd9] poultrymeat provisions at slaughterhouses and approved cutting plants.
 
-(2) Subject to paragraphs (3) and (4), a food authority must enforce the assimilated[^key-d31d2d3e2b895d756a47e5aecd07f7f5] poultrymeat provisions in its area other than at slaughterhouses and approved cutting plants.
+(2) Subject to paragraphs (3) and (4), a food authority must enforce the assimilated[^c-d31d2d3e2b895d756a47e5aecd07f7f5] poultrymeat provisions in its area other than at slaughterhouses and approved cutting plants.
 
-(3) A food authority must enforce the assimilated[^key-92f9b00db1e052ea9798d2a5ca9176ae] Poultrymeat provisions in its area in relation to poultrymeat imported from a third country.
+(3) A food authority must enforce the assimilated[^c-92f9b00db1e052ea9798d2a5ca9176ae] Poultrymeat provisions in its area in relation to poultrymeat imported from a third country.
 
 (4) The record keeping requirements in Article 12(2), (3) and (4) of the Commission Regulation must be enforced by the Scottish Ministers.
 
@@ -207,7 +207,7 @@ Each enforcement authority must give such assistance and information to any othe
 
 (1) An authorised officer may enter any premises at any reasonable hour for the purpose of ensuring that the provisions of these Regulations are being complied with.
 
-(2)[^key-7ac854297709ecf035b350682a67ddc7] The authorised officer may be accompanied by such other persons as the authorised officer considers necessary.
+(2)[^c-7ac854297709ecf035b350682a67ddc7] The authorised officer may be accompanied by such other persons as the authorised officer considers necessary.
 
 (3) An authorised officer must not exercise the powers under paragraph (1) or (2) except on the production, if so required, of a duly authenticated document showing the authorised officer's authority.
 
@@ -246,7 +246,7 @@ Each enforcement authority must give such assistance and information to any othe
   - (ii) any empty container;
   - (iii) any label;
   - (iv) any packaging; and
-  - (v) any live poultry (within the meaning given to it in Part XX of Annex I to the Council Regulation 2013[^key-190d6276affe791ce04c359d1025f77b]);
+  - (v) any live poultry (within the meaning given to it in Part XX of Annex I to the Council Regulation 2013[^c-190d6276affe791ce04c359d1025f77b]);
 - (b) search the premises;
 - (c) carry out any inquiries, examinations or tests;
 - (d) have access to, and inspect and copy, any documents or records (in whatever form they are held) relating to matters covered by these Regulations, and remove them to enable them to be copied;
@@ -278,7 +278,7 @@ Each enforcement authority must give such assistance and information to any othe
 
 (9) The authorised officer may give such directions as the authorised officer thinks appropriate in relation to a batch of poultrymeat to which paragraph (10) applies—
 
-- (a) to prevent it being marketed in Great Britain[^key-cc2e52ffa4f38f09b92ad98a1cfed732] until the packaging has been marked, under supervision, in the manner mentioned in the first sub-paragraph of Article 16(6) of the Commission Regulation; or
+- (a) to prevent it being marketed in Great Britain[^c-cc2e52ffa4f38f09b92ad98a1cfed732] until the packaging has been marked, under supervision, in the manner mentioned in the first sub-paragraph of Article 16(6) of the Commission Regulation; or
 - (b) to ensure that it is exported to a third country.
 
 (10) This paragraph applies to—
@@ -290,7 +290,7 @@ Each enforcement authority must give such assistance and information to any othe
 
 (11) The authorised officer must not exercise any power under this regulation, or give a direction under this regulation, except on the production, if so required, of a duly authenticated document showing the authorised officer's authority.
 
-(12)[^key-71921224970369942346bd5cff92d7bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-71921224970369942346bd5cff92d7bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 12. Procedure on seizure
 
@@ -374,13 +374,13 @@ Each enforcement authority must give such assistance and information to any othe
 
 ## 13. Compliance notices
 
-(1) If an authorised officer has reasonable grounds for believing that any person is contravening, or has contravened, an assimilated[^key-65e27440617938a331365b4af8f4faea] poultrymeat provision, the authorised officer may, by notice (a “compliance notice”), require a person to take steps (or steps at least equivalent to them), within such period as the authorised officer may specify, to secure that the contravention does not continue or recur.
+(1) If an authorised officer has reasonable grounds for believing that any person is contravening, or has contravened, an assimilated[^c-65e27440617938a331365b4af8f4faea] poultrymeat provision, the authorised officer may, by notice (a “compliance notice”), require a person to take steps (or steps at least equivalent to them), within such period as the authorised officer may specify, to secure that the contravention does not continue or recur.
 
 (2) A compliance notice must—
 
 - (a) state the authorised officer's grounds for the belief;
-- (b) specify the matter that constitutes the contravention of the assimilated[^key-f12048cc1df330f593aae13062723d2b] poultrymeat provision;
-- (c) specify the activities that must stop, or the steps that must be taken in order to comply with the assimilated[^key-dd8ddabe0e01f53c5fa407f415e9ca00] poultrymeat provision;
+- (b) specify the matter that constitutes the contravention of the assimilated[^c-f12048cc1df330f593aae13062723d2b] poultrymeat provision;
+- (c) specify the activities that must stop, or the steps that must be taken in order to comply with the assimilated[^c-dd8ddabe0e01f53c5fa407f415e9ca00] poultrymeat provision;
 - (d) state the period within which an activity must stop, or steps specified in the notice, or steps at least equivalent to them, must be taken;
 - (e) state the right of appeal to the sheriff conferred by regulation 14; and
 - (f) state the period within which such an appeal must be brought.
@@ -506,7 +506,7 @@ the individual as well as the body corporate, Scottish partnership or unincorpor
 - (d) in relation to section 30(8)(a), omit “under subsection (6) above”; and
 - (e) in relation to section 44(2), (3) and (4), construe any reference to a food authority as a reference to an enforcement authority.
 
-## 22. Consequential amendments[^key-4b59b58797c291aa1a59f4c370759588]
+## 22. Consequential amendments[^c-4b59b58797c291aa1a59f4c370759588]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -528,19 +528,19 @@ St Andrew's House,
 
 Edinburgh
 
-## SCHEDULE 1 — ASSIMILATED POULTRYMEAT PROVISIONS CONTRAVENTION OF WHICH IS AN OFFENCE[^key-4d726bf3ed4c32eff454b5d41e5b0f18]
+## SCHEDULE 1 — ASSIMILATED POULTRYMEAT PROVISIONS CONTRAVENTION OF WHICH IS AN OFFENCE[^c-4d726bf3ed4c32eff454b5d41e5b0f18]
 
 Regulation 2(1)
 
-### PART 1 — PROVISIONS OF THE SINGLE CMO REGULATION OR THE COUNCIL REGULATION 2013[^key-abbb05caa726372c95523bca049b0eeb][^key-39cb8980180fd25eec50118584414fe2]
+### PART 1 — PROVISIONS OF THE SINGLE CMO REGULATION OR THE COUNCIL REGULATION 2013[^c-abbb05caa726372c95523bca049b0eeb][^c-39cb8980180fd25eec50118584414fe2]
 
 | *Column 1* | *Column 2* | *Column 3* |
 | --- | --- | --- |
 | Relevant provision of the Single CMO or Council Regulation 2013[^M_F_eb751abb-91dc-4bc8-f25c-c5aea1344cca] | Provisions to be read with the provisions of the Single CMO Regulation or Council Regulation 2013[^M_F_6e9bdf63-e8cf-4422-f2e7-099e8e577f6d] mentioned in column 1 | Subject matter |
-| Article 116 of the Single CMO Regulation[^key-4655add7570822a3dd2c19a8906c49d7] | Points I(2) and (3) and III(1) of Part B of Annex XIV to the Single CMO Regulation,[^key-9661342da80dc41d645f50167cd72b0b] and the Commission Regulation | Prohibition on the marketing of poultrymeat except in accordance with the marketing standards laid down in Part B of Annex XIV to the Single CMO Regulation and the Commission Regulation. |
-| Point III(1) of Part B of Annex XIV to the Single CMO Regulation[^key-e7b2ce9986609f59e26c03c482afffb1] | Article 7 of the Commission Regulation | Quality grading |
-| *[^key-0b445b740e9c376c8bf82c093b3d12fd]...* | *[^key-0b445b740e9c376c8bf82c093b3d12fd]...* | *[^key-0b445b740e9c376c8bf82c093b3d12fd]...* |
-| Point[^key-4b2f3307388bf318e7e6de162e7a25f9] III of Part V of Annex VII to Council Regulation 2013 | Point II(4) of Part V of Annex[^key-d7804e84244863beeb5e559fb49c1925] VII to Council Regulation 2013 in relation to quick-frozen poultrymeat<br>Point II(6) of Part V of Annex VII to Council Regulation 2013 in relation to fresh poultrymeat preparation | Marketing of poultrymeat and poultrymeat preparations in a fresh, frozen or quick-frozen condition. |
+| Article 116 of the Single CMO Regulation[^c-4655add7570822a3dd2c19a8906c49d7] | Points I(2) and (3) and III(1) of Part B of Annex XIV to the Single CMO Regulation,[^c-9661342da80dc41d645f50167cd72b0b] and the Commission Regulation | Prohibition on the marketing of poultrymeat except in accordance with the marketing standards laid down in Part B of Annex XIV to the Single CMO Regulation and the Commission Regulation. |
+| Point III(1) of Part B of Annex XIV to the Single CMO Regulation[^c-e7b2ce9986609f59e26c03c482afffb1] | Article 7 of the Commission Regulation | Quality grading |
+| *[^c-0b445b740e9c376c8bf82c093b3d12fd]...* | *[^c-0b445b740e9c376c8bf82c093b3d12fd]...* | *[^c-0b445b740e9c376c8bf82c093b3d12fd]...* |
+| Point[^c-4b2f3307388bf318e7e6de162e7a25f9] III of Part V of Annex VII to Council Regulation 2013 | Point II(4) of Part V of Annex[^c-d7804e84244863beeb5e559fb49c1925] VII to Council Regulation 2013 in relation to quick-frozen poultrymeat<br>Point II(6) of Part V of Annex VII to Council Regulation 2013 in relation to fresh poultrymeat preparation | Marketing of poultrymeat and poultrymeat preparations in a fresh, frozen or quick-frozen condition. |
 
 ### PART 2 — PROVISIONS OF THE COMMISSION REGULATION
 
@@ -553,7 +553,7 @@ Regulation 2(1)
 |  |  |  |
 | Article 3(4), second sub-paragraph | Article 3(1) of the Commission Regulation | Labelling of a poultry carcase that is presented for marketing with giblets but the giblets do not include one or more of the heart, neck, gizzard or liver. |
 |  |  |  |
-| Article 3(5) | Point III(1) of Part B of Annex XIV to the Single CMO Regulation and Point III of Part V of Annex VII to Council Regulation 2013[^key-1a0609bbd4d34962efe76c27d5087739] | Indications to be shown on certain commercial documents. |
+| Article 3(5) | Point III(1) of Part B of Annex XIV to the Single CMO Regulation and Point III of Part V of Annex VII to Council Regulation 2013[^c-1a0609bbd4d34962efe76c27d5087739] | Indications to be shown on certain commercial documents. |
 |  |  |  |
 | Article 4(1) | Articles 1 and 3(1) of, and Annex I to, the Commission Regulation | Names under which poultrymeat must be sold. |
 |  |  |  |
@@ -563,15 +563,15 @@ Regulation 2(1)
 |  |  |  |
 | Article 5(2) | Article 5(3), (4) and (6) of the Commission Regulation, as read, in the case of Article 5(4), with Article 5(5) of that Regulation | Additional requirements relating to the labelling, presentation and advertising of poultrymeat intended for the final consumer. |
 |  |  |  |
-| Article 6 | Point[^key-2bf927862d1ee2b590aad5cc550cb73d] II(3) of Part V of Annex VII to Council Regulation 2013 | Temperature at which frozen poultrymeat must be stored and kept. |
+| Article 6 | Point[^c-2bf927862d1ee2b590aad5cc550cb73d] II(3) of Part V of Annex VII to Council Regulation 2013 | Temperature at which frozen poultrymeat must be stored and kept. |
 |  |  |  |
-| Article 7(1) | Point III(1) of Part B of Annex XIV to the Single CMO Regulation[^key-d6a8d541b6203805da42bf65936c5a22] | Criteria to be applied when grading poultry carcases and cuts into class A or B. |
+| Article 7(1) | Point III(1) of Part B of Annex XIV to the Single CMO Regulation[^c-d6a8d541b6203805da42bf65936c5a22] | Criteria to be applied when grading poultry carcases and cuts into class A or B. |
 |  |  |  |
 | Article 7(2) | Article 7(1) of the Commission Regulation | Additional criteria for grading poultry carcases and cuts as class A. |
 |  |  |  |
-| Article 10 | [^key-ef30b540fe82b2881e42f5ebe33c3e0d]. . . | Terms to describe the method by which poultrymeat has been chilled. |
+| Article 10 | [^c-ef30b540fe82b2881e42f5ebe33c3e0d]. . . | Terms to describe the method by which poultrymeat has been chilled. |
 |  |  |  |
-| Article 11(1), first sub-paragraph | The second sub-paragraph of Article 11(1) of, and Annex V[^key-58f30ce7c305bd4e00e0b1c126740e4f] to, the Commission Regulation | Terms to describe particular types of farming method. |
+| Article 11(1), first sub-paragraph | The second sub-paragraph of Article 11(1) of, and Annex V[^c-58f30ce7c305bd4e00e0b1c126740e4f] to, the Commission Regulation | Terms to describe particular types of farming method. |
 |  |  |  |
 | Article 11(1), third sub-paragraph | The first sub-paragraph of Article 11(1) of the Commission Regulation | Foie gras indication. |
 |  |  |  |
@@ -591,7 +591,7 @@ Regulation 2(1)
 |  |  |  |
 | Article 16(1), first sub-paragraph | Annexes VI and IX to the Commission Regulation | Water content checks on carcases. |
 |  |  |  |
-| Article 16(1), second sub-paragraph | Annexes VI and IX[^key-c85735cc93c845c6360c2838cb794f4e] to the Commission Regulation | Making the necessary technical adjustments when water content is above the permitted level. |
+| Article 16(1), second sub-paragraph | Annexes VI and IX[^c-c85735cc93c845c6360c2838cb794f4e] to the Commission Regulation | Making the necessary technical adjustments when water content is above the permitted level. |
 |  |  |  |
 | Article 16(2) | Article 15(1) of, and Annexes VI and VII to, the Commission Regulation | Water content checks on frozen and quick-frozen chickens. |
 |  |  |  |
@@ -599,7 +599,7 @@ Regulation 2(1)
 |  |  |  |
 | Article 16(4) | Article 16(1) and (2) of, and Annexes VI to IX to, the Commission Regulation | Water content checks on air chilled chicken carcases. |
 |  |  |  |
-| Article 16(6) | [^key-5da53136e2bb904994beba7413235dad]. . . | Marketing of frozen and quick-frozen chickens under supervision where the water content exceeds technically unavoidable values. |
+| Article 16(6) | [^c-5da53136e2bb904994beba7413235dad]. . . | Marketing of frozen and quick-frozen chickens under supervision where the water content exceeds technically unavoidable values. |
 |  |  |  |
 | Article 20(1) | Annex VIII to the Commission Regulation | Prohibition on the marketing of certain poultry cuts if the water content exceeds technically unavoidable values. |
 |  |  |  |
@@ -613,7 +613,7 @@ Regulation 2(1)
 |  |  |  |
 | Article 20(4) in so far as it applies to Article 16(4) of the Commission Regulation | Articles 16(1) and (2) of, and Annexes VI to IX to, the Commission Regulation | Water content checks on air chilled poultry cuts. |
 |  |  |  |
-| Article 20(4) in so far as it applies Article 16(6) of the Commission Regulation | [^key-9e8650243367583fc4a29370d85e60ea]. . . | Marketing of certain poultry cuts under supervision where the water content exceeds technically unavoidable values. |
+| Article 20(4) in so far as it applies Article 16(6) of the Commission Regulation | [^c-9e8650243367583fc4a29370d85e60ea]. . . | Marketing of certain poultry cuts under supervision where the water content exceeds technically unavoidable values. |
 
 ## SCHEDULE 2 — FEES FOR WATER CONTENT CHECKS
 
@@ -673,53 +673,53 @@ A Business and Regulatory Impact Assessment has been prepared. Copies may be ob
 
 [^c21026771]: Marginal citation: [Section 48(4A)](https://www.legislation.gov.uk/ssi/2011/318/section/48/4A) was inserted by the [Food Standards Act 1999 (c.28)](https://www.legislation.gov.uk/ukpga/1999/28), paragraphs 7 and 21 of Schedule 5.
 
-[^key-f6e8c9be821f0e72fd76278dfdb6c9ca]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/ssi/2011/318/regulation/1/4) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [23(2)(a)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/23/2/a)
+[^c-f6e8c9be821f0e72fd76278dfdb6c9ca]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/ssi/2011/318/regulation/1/4) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [23(2)(a)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/23/2/a)
 
-[^key-e117ddb12481f87c9dc00f38fed8287c]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/ssi/2011/318/regulation/1/4) omitted (28.2.2019) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [43(2)](https://www.legislation.gov.uk/ssi/2018/391/regulation/43/2)
+[^c-e117ddb12481f87c9dc00f38fed8287c]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/ssi/2011/318/regulation/1/4) omitted (28.2.2019) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [43(2)](https://www.legislation.gov.uk/ssi/2018/391/regulation/43/2)
 
-[^key-92d087184879d851a43cdf8faf0b2aea]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/ssi/2011/318/regulation/1/4) inserted (9.12.2019) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(2)(d)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/2/d), [5(2)](https://www.legislation.gov.uk/ssi/2019/347/regulation/5/2)
+[^c-92d087184879d851a43cdf8faf0b2aea]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/ssi/2011/318/regulation/1/4) inserted (9.12.2019) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(2)(d)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/2/d), [5(2)](https://www.legislation.gov.uk/ssi/2019/347/regulation/5/2)
 
 [^M_F_270b873e-c25c-4422-9a1c-68a52116e549]: Textual amendment: Words in reg. 2(1) substituted (1.4.2015) by [The Food (Scotland) Act 2015 (Consequential and Transitional Provisions) Order 2015 (S.S.I. 2015/100)](https://www.legislation.gov.uk/ssi/2015/100), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/100/article/1/2), [2](https://www.legislation.gov.uk/ssi/2015/100/article/2), [sch. para. 30](https://www.legislation.gov.uk/ssi/2015/100/schedule/paragraph/30)
 
-[^key-9111531c95f30fd688716ba45597a931]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2011/318/regulation/2/1) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [43(3)](https://www.legislation.gov.uk/ssi/2018/391/regulation/43/3)
+[^c-9111531c95f30fd688716ba45597a931]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2011/318/regulation/2/1) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [43(3)](https://www.legislation.gov.uk/ssi/2018/391/regulation/43/3)
 
-[^key-c41cdc26f4f7cf3b0058bf94cc455eb1]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2011/318/regulation/2/1) substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [5(a)](https://www.legislation.gov.uk/ssi/2025/407/regulation/5/a)
+[^c-c41cdc26f4f7cf3b0058bf94cc455eb1]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2011/318/regulation/2/1) substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [5(a)](https://www.legislation.gov.uk/ssi/2025/407/regulation/5/a)
 
-[^key-7eb61c9022ccb8ac99caa0df162d1072]: Textual amendment: Words in reg. 2(1) inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [23(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/23/3/a/ii)
+[^c-7eb61c9022ccb8ac99caa0df162d1072]: Textual amendment: Words in reg. 2(1) inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [23(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/23/3/a/ii)
 
 [^c21026781]: Marginal citation: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39), as amended by the [Environment Act 1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), [sch. 22](https://www.legislation.gov.uk/ukpga/1995/25/schedule), para. 232(1)
 
-[^key-1484028ee9caa69ea32014308d4fda43]: Textual amendment: Words in reg. 2(1) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [23(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/23/3/a/iii)
+[^c-1484028ee9caa69ea32014308d4fda43]: Textual amendment: Words in reg. 2(1) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [23(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/23/3/a/iii)
 
-[^key-ef7bfe3fa7d16165e4a5f6c51cc6c3c4]: Textual amendment: Words in reg. 2(3) inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [23(3)(b)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/23/3/b)
+[^c-ef7bfe3fa7d16165e4a5f6c51cc6c3c4]: Textual amendment: Words in reg. 2(3) inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [23(3)(b)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/23/3/b)
 
-[^key-461250e550f8557b09d86251784566f2]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2011/318/regulation/3) substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [5(b)](https://www.legislation.gov.uk/ssi/2025/407/regulation/5/b)
+[^c-461250e550f8557b09d86251784566f2]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2011/318/regulation/3) substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [5(b)](https://www.legislation.gov.uk/ssi/2025/407/regulation/5/b)
 
 [^c21026791]: Marginal citation: OJ L 31, 1.2.2002 p.1, to which there are no amendments relevant to Article 3.
 
-[^key-23ed0c58da57c805cd8d4d9471411bd9]: Textual amendment: Word in [reg. 8(1)](https://www.legislation.gov.uk/ssi/2011/318/regulation/8/1) substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [5(c)](https://www.legislation.gov.uk/ssi/2025/407/regulation/5/c)
+[^c-23ed0c58da57c805cd8d4d9471411bd9]: Textual amendment: Word in [reg. 8(1)](https://www.legislation.gov.uk/ssi/2011/318/regulation/8/1) substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [5(c)](https://www.legislation.gov.uk/ssi/2025/407/regulation/5/c)
 
-[^key-d31d2d3e2b895d756a47e5aecd07f7f5]: Textual amendment: Word in [reg. 8(2)](https://www.legislation.gov.uk/ssi/2011/318/regulation/8/2) substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [5(c)](https://www.legislation.gov.uk/ssi/2025/407/regulation/5/c)
+[^c-d31d2d3e2b895d756a47e5aecd07f7f5]: Textual amendment: Word in [reg. 8(2)](https://www.legislation.gov.uk/ssi/2011/318/regulation/8/2) substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [5(c)](https://www.legislation.gov.uk/ssi/2025/407/regulation/5/c)
 
-[^key-92f9b00db1e052ea9798d2a5ca9176ae]: Textual amendment: Word in [reg. 8(3)](https://www.legislation.gov.uk/ssi/2011/318/regulation/8/3) substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [5(c)](https://www.legislation.gov.uk/ssi/2025/407/regulation/5/c)
+[^c-92f9b00db1e052ea9798d2a5ca9176ae]: Textual amendment: Word in [reg. 8(3)](https://www.legislation.gov.uk/ssi/2011/318/regulation/8/3) substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [5(c)](https://www.legislation.gov.uk/ssi/2025/407/regulation/5/c)
 
 [^c21026801]: Marginal citation: OJ L 139, 30.4.2004, p.55, as last amended by Commission Regulation (EU) No 150/2011 (OJ L 46, 19.2.2011, p.14).
 
 [^c21026811]: Marginal citation: OJ L 165, 30.4.2004, p.1, as last amended by Commission Regulation (EU) No 208/2011 (OJ L 58, 3.3.2011, p.29).
 
-[^key-7ac854297709ecf035b350682a67ddc7]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/ssi/2011/318/regulation/10/2) substituted (31.12.2020) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [5(6)](https://www.legislation.gov.uk/ssi/2019/347/regulation/5/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7ac854297709ecf035b350682a67ddc7]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/ssi/2011/318/regulation/10/2) substituted (31.12.2020) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [5(6)](https://www.legislation.gov.uk/ssi/2019/347/regulation/5/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-190d6276affe791ce04c359d1025f77b]: Textual amendment: Words in [reg. 11(1)(a)(v)](https://www.legislation.gov.uk/ssi/2011/318/regulation/11/1/a/v) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [23(4)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/23/4)
+[^c-190d6276affe791ce04c359d1025f77b]: Textual amendment: Words in [reg. 11(1)(a)(v)](https://www.legislation.gov.uk/ssi/2011/318/regulation/11/1/a/v) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [23(4)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/23/4)
 
-[^key-cc2e52ffa4f38f09b92ad98a1cfed732]: Textual amendment: Words in [reg. 11(9)(a)](https://www.legislation.gov.uk/ssi/2011/318/regulation/11/9/a) substituted by (31.12.2020) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [5(7)(a)](https://www.legislation.gov.uk/ssi/2019/347/regulation/5/7/a) (as substituted by [S.S.I. 2020/368](https://www.legislation.gov.uk/ssi/2020/368), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/1/2), [6(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/6/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cc2e52ffa4f38f09b92ad98a1cfed732]: Textual amendment: Words in [reg. 11(9)(a)](https://www.legislation.gov.uk/ssi/2011/318/regulation/11/9/a) substituted by (31.12.2020) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [5(7)(a)](https://www.legislation.gov.uk/ssi/2019/347/regulation/5/7/a) (as substituted by [S.S.I. 2020/368](https://www.legislation.gov.uk/ssi/2020/368), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/1/2), [6(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/6/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-71921224970369942346bd5cff92d7bf]: Textual amendment: [Reg. 11(12)](https://www.legislation.gov.uk/ssi/2011/318/regulation/11/12) omitted (31.12.2020) by virtue of [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [5(7)(b)](https://www.legislation.gov.uk/ssi/2019/347/regulation/5/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-71921224970369942346bd5cff92d7bf]: Textual amendment: [Reg. 11(12)](https://www.legislation.gov.uk/ssi/2011/318/regulation/11/12) omitted (31.12.2020) by virtue of [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [5(7)(b)](https://www.legislation.gov.uk/ssi/2019/347/regulation/5/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-65e27440617938a331365b4af8f4faea]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/ssi/2011/318/regulation/13/1) substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [5(d)(i)](https://www.legislation.gov.uk/ssi/2025/407/regulation/5/d/i)
+[^c-65e27440617938a331365b4af8f4faea]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/ssi/2011/318/regulation/13/1) substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [5(d)(i)](https://www.legislation.gov.uk/ssi/2025/407/regulation/5/d/i)
 
-[^key-f12048cc1df330f593aae13062723d2b]: Textual amendment: Word in [reg. 13(2)(b)](https://www.legislation.gov.uk/ssi/2011/318/regulation/13/2/b) substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [5(d)(ii)](https://www.legislation.gov.uk/ssi/2025/407/regulation/5/d/ii)
+[^c-f12048cc1df330f593aae13062723d2b]: Textual amendment: Word in [reg. 13(2)(b)](https://www.legislation.gov.uk/ssi/2011/318/regulation/13/2/b) substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [5(d)(ii)](https://www.legislation.gov.uk/ssi/2025/407/regulation/5/d/ii)
 
-[^key-dd8ddabe0e01f53c5fa407f415e9ca00]: Textual amendment: Word in [reg. 13(2)(c)](https://www.legislation.gov.uk/ssi/2011/318/regulation/13/2/c) substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [5(d)(ii)](https://www.legislation.gov.uk/ssi/2025/407/regulation/5/d/ii)
+[^c-dd8ddabe0e01f53c5fa407f415e9ca00]: Textual amendment: Word in [reg. 13(2)(c)](https://www.legislation.gov.uk/ssi/2011/318/regulation/13/2/c) substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [5(d)(ii)](https://www.legislation.gov.uk/ssi/2025/407/regulation/5/d/ii)
 
 [^c21026821]: Marginal citation: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
@@ -727,46 +727,46 @@ A Business and Regulatory Impact Assessment has been prepared. Copies may be ob
 
 [^c21026841]: Marginal citation: [1990 c.16](https://www.legislation.gov.uk/ukpga/1990/16).
 
-[^key-4b59b58797c291aa1a59f4c370759588]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/ssi/2011/318/regulation/22) revoked (6.4.2013) by [The Food Safety (Sampling and Qualifications) (Scotland) Regulations 2013 (S.S.I. 2013/84)](https://www.legislation.gov.uk/ssi/2013/84), [reg. 1](https://www.legislation.gov.uk/ssi/2013/84/regulation/1), [sch. 4](https://www.legislation.gov.uk/ssi/2013/84/schedule/4) (with [reg. 3](https://www.legislation.gov.uk/ssi/2013/84/regulation/3))
+[^c-4b59b58797c291aa1a59f4c370759588]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/ssi/2011/318/regulation/22) revoked (6.4.2013) by [The Food Safety (Sampling and Qualifications) (Scotland) Regulations 2013 (S.S.I. 2013/84)](https://www.legislation.gov.uk/ssi/2013/84), [reg. 1](https://www.legislation.gov.uk/ssi/2013/84/regulation/1), [sch. 4](https://www.legislation.gov.uk/ssi/2013/84/schedule/4) (with [reg. 3](https://www.legislation.gov.uk/ssi/2013/84/regulation/3))
 
 [^c21026881]: Marginal citation: [S.I](https://www.legislation.gov.uk/ssi/2011/318/section/I). 1984/1576.
 
 [^c21026891]: Marginal citation: [S.I. 1990/2625](https://www.legislation.gov.uk/uksi/1990/2625).
 
-[^key-4d726bf3ed4c32eff454b5d41e5b0f18]: Textual amendment: Word in [sch. 1](https://www.legislation.gov.uk/ssi/2011/318/schedule/1) heading substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [5(e)](https://www.legislation.gov.uk/ssi/2025/407/regulation/5/e)
+[^c-4d726bf3ed4c32eff454b5d41e5b0f18]: Textual amendment: Word in [sch. 1](https://www.legislation.gov.uk/ssi/2011/318/schedule/1) heading substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [5(e)](https://www.legislation.gov.uk/ssi/2025/407/regulation/5/e)
 
-[^key-abbb05caa726372c95523bca049b0eeb]: Modification: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2011/318/schedule/1/part/1) modified (temp.) (28.11.2022) by [The Common Organisation of the Markets in Agricultural Products (Poultrymeat) (Miscellaneous Temporary Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/352)](https://www.legislation.gov.uk/ssi/2022/352), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/352/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2022/352/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/352/regulation/1/2))
+[^c-abbb05caa726372c95523bca049b0eeb]: Modification: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2011/318/schedule/1/part/1) modified (temp.) (28.11.2022) by [The Common Organisation of the Markets in Agricultural Products (Poultrymeat) (Miscellaneous Temporary Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/352)](https://www.legislation.gov.uk/ssi/2022/352), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/352/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2022/352/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/352/regulation/1/2))
 
-[^key-39cb8980180fd25eec50118584414fe2]: Textual amendment: Words in sch. 1 Pt. 1 heading inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [23(5)(a)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/23/5/a)
+[^c-39cb8980180fd25eec50118584414fe2]: Textual amendment: Words in sch. 1 Pt. 1 heading inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [23(5)(a)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/23/5/a)
 
 [^M_F_eb751abb-91dc-4bc8-f25c-c5aea1344cca]: Textual amendment: Words in sch. 1 Pt. 1 substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [23(5)(b)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/23/5/b)
 
 [^M_F_6e9bdf63-e8cf-4422-f2e7-099e8e577f6d]: Textual amendment: Words in sch. 1 Pt. 1 inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [23(5)(c)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/23/5/c)
 
-[^key-4655add7570822a3dd2c19a8906c49d7]: Textual amendment: Words in [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2011/318/schedule/1/part/1) substituted (9.12.2019) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(2)(e)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/2/e), [5(9)(b)(i)(aa)](https://www.legislation.gov.uk/ssi/2019/347/regulation/5/9/b/i/aa)
+[^c-4655add7570822a3dd2c19a8906c49d7]: Textual amendment: Words in [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2011/318/schedule/1/part/1) substituted (9.12.2019) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(2)(e)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/2/e), [5(9)(b)(i)(aa)](https://www.legislation.gov.uk/ssi/2019/347/regulation/5/9/b/i/aa)
 
-[^key-9661342da80dc41d645f50167cd72b0b]: Textual amendment: Words in [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2011/318/schedule/1/part/1) substituted (9.12.2019) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(2)(e)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/2/e), [5(9)(b)(i)(bb)](https://www.legislation.gov.uk/ssi/2019/347/regulation/5/9/b/i/bb)
+[^c-9661342da80dc41d645f50167cd72b0b]: Textual amendment: Words in [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2011/318/schedule/1/part/1) substituted (9.12.2019) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(2)(e)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/2/e), [5(9)(b)(i)(bb)](https://www.legislation.gov.uk/ssi/2019/347/regulation/5/9/b/i/bb)
 
-[^key-e7b2ce9986609f59e26c03c482afffb1]: Textual amendment: Words in [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2011/318/schedule/1/part/1) inserted (9.12.2019) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(2)(e)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/2/e), [5(9)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/347/regulation/5/9/b/ii)
+[^c-e7b2ce9986609f59e26c03c482afffb1]: Textual amendment: Words in [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2011/318/schedule/1/part/1) inserted (9.12.2019) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(2)(e)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/2/e), [5(9)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/347/regulation/5/9/b/ii)
 
-[^key-0b445b740e9c376c8bf82c093b3d12fd]: Textual amendment: Words in [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2011/318/schedule/1/part/1) omitted (28.2.2019) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [43(4)(a)](https://www.legislation.gov.uk/ssi/2018/391/regulation/43/4/a)
+[^c-0b445b740e9c376c8bf82c093b3d12fd]: Textual amendment: Words in [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2011/318/schedule/1/part/1) omitted (28.2.2019) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [43(4)(a)](https://www.legislation.gov.uk/ssi/2018/391/regulation/43/4/a)
 
-[^key-4b2f3307388bf318e7e6de162e7a25f9]: Textual amendment: Words in sch. 1 Pt. 1 substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [23(5)(g)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/23/5/g)
+[^c-4b2f3307388bf318e7e6de162e7a25f9]: Textual amendment: Words in sch. 1 Pt. 1 substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [23(5)(g)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/23/5/g)
 
-[^key-d7804e84244863beeb5e559fb49c1925]: Textual amendment: Words in sch. 1 Pt. 1 substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [23(5)(h)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/23/5/h)
+[^c-d7804e84244863beeb5e559fb49c1925]: Textual amendment: Words in sch. 1 Pt. 1 substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [23(5)(h)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/23/5/h)
 
-[^key-1a0609bbd4d34962efe76c27d5087739]: Textual amendment: Words in sch. 1 Pt. 2 substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [23(6)(a)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/23/6/a)
+[^c-1a0609bbd4d34962efe76c27d5087739]: Textual amendment: Words in sch. 1 Pt. 2 substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [23(6)(a)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/23/6/a)
 
-[^key-2bf927862d1ee2b590aad5cc550cb73d]: Textual amendment: Words in sch. 1 Pt. 2 substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [23(6)(b)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/23/6/b)
+[^c-2bf927862d1ee2b590aad5cc550cb73d]: Textual amendment: Words in sch. 1 Pt. 2 substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [23(6)(b)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/23/6/b)
 
-[^key-d6a8d541b6203805da42bf65936c5a22]: Textual amendment: Words in [sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2011/318/schedule/1/part/2) substituted (9.12.2019) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(2)(f)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/2/f), [5(9)(c)(i)](https://www.legislation.gov.uk/ssi/2019/347/regulation/5/9/c/i)
+[^c-d6a8d541b6203805da42bf65936c5a22]: Textual amendment: Words in [sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2011/318/schedule/1/part/2) substituted (9.12.2019) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(2)(f)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/2/f), [5(9)(c)(i)](https://www.legislation.gov.uk/ssi/2019/347/regulation/5/9/c/i)
 
-[^key-ef30b540fe82b2881e42f5ebe33c3e0d]: Textual amendment: Words in [sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2011/318/schedule/1/part/2) omitted (31.12.2020) by virtue of [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [5(9)(c)(ii)](https://www.legislation.gov.uk/ssi/2019/347/regulation/5/9/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ef30b540fe82b2881e42f5ebe33c3e0d]: Textual amendment: Words in [sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2011/318/schedule/1/part/2) omitted (31.12.2020) by virtue of [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [5(9)(c)(ii)](https://www.legislation.gov.uk/ssi/2019/347/regulation/5/9/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-58f30ce7c305bd4e00e0b1c126740e4f]: Textual amendment: Words in [sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2011/318/schedule/1/part/2) substituted (31.12.2020) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [5(9)(c)(iii)](https://www.legislation.gov.uk/ssi/2019/347/regulation/5/9/c/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-58f30ce7c305bd4e00e0b1c126740e4f]: Textual amendment: Words in [sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2011/318/schedule/1/part/2) substituted (31.12.2020) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [5(9)(c)(iii)](https://www.legislation.gov.uk/ssi/2019/347/regulation/5/9/c/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c85735cc93c845c6360c2838cb794f4e]: Textual amendment: Word in [sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2011/318/schedule/1/part/2) substituted (9.12.2019) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(2)(f)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/2/f), [5(9)(c)(iv)](https://www.legislation.gov.uk/ssi/2019/347/regulation/5/9/c/iv)
+[^c-c85735cc93c845c6360c2838cb794f4e]: Textual amendment: Word in [sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2011/318/schedule/1/part/2) substituted (9.12.2019) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(2)(f)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/2/f), [5(9)(c)(iv)](https://www.legislation.gov.uk/ssi/2019/347/regulation/5/9/c/iv)
 
-[^key-5da53136e2bb904994beba7413235dad]: Textual amendment: Words in [sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2011/318/schedule/1/part/2) omitted (31.12.2020) by virtue of [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [5(9)(c)(v)](https://www.legislation.gov.uk/ssi/2019/347/regulation/5/9/c/v); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5da53136e2bb904994beba7413235dad]: Textual amendment: Words in [sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2011/318/schedule/1/part/2) omitted (31.12.2020) by virtue of [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [5(9)(c)(v)](https://www.legislation.gov.uk/ssi/2019/347/regulation/5/9/c/v); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9e8650243367583fc4a29370d85e60ea]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2011/318/schedule/1) heading substituted (31.12.2020) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [5(9)(a)](https://www.legislation.gov.uk/ssi/2019/347/regulation/5/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9e8650243367583fc4a29370d85e60ea]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2011/318/schedule/1) heading substituted (31.12.2020) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [5(9)(a)](https://www.legislation.gov.uk/ssi/2019/347/regulation/5/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

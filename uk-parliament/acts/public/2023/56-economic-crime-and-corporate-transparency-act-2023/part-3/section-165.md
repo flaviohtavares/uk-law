@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165. Verification of registrable beneficial owners and managing officers[^key-5d1b91c067a62d215465e9b4e46924dd]
+## 165. Verification of registrable beneficial owners and managing officers[^c-5d1b91c067a62d215465e9b4e46924dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d1b91c067a62d215465e9b4e46924dd]: Commencement: S. 165 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-5d1b91c067a62d215465e9b4e46924dd]: Commencement: S. 165 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Applicants etc. with convictions for serious offences[^key-c627de4eb4ad5dac67c6a8f5419f703c]
+## 60. Applicants etc. with convictions for serious offences[^c-c627de4eb4ad5dac67c6a8f5419f703c]
 
 *Extent: S*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c627de4eb4ad5dac67c6a8f5419f703c]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2021/15/section/60) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-c627de4eb4ad5dac67c6a8f5419f703c]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2021/15/section/60) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

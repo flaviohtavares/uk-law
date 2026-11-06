@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 59. Daily reduction rate[^key-b78b4f015bc46312a89e81104a8f09e7]
+## 59. Daily reduction rate[^c-b78b4f015bc46312a89e81104a8f09e7]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b78b4f015bc46312a89e81104a8f09e7]: Commencement: [Reg. 59](https://www.legislation.gov.uk/nisr/2016/219/regulation/59) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-b78b4f015bc46312a89e81104a8f09e7]: Commencement: [Reg. 59](https://www.legislation.gov.uk/nisr/2016/219/regulation/59) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

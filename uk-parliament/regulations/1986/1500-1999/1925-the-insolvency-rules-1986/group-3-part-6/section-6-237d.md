@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.237D. Charging Order[^key-78c7b777330ac8bace13f129695e3ff7]
+## 6.237D. Charging Order[^c-78c7b777330ac8bace13f129695e3ff7]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) The respondents to the application shall be—
 
-- (a) any spouse or former spouse or civil partner or former civil partner[^key-de9e8ad9d07cdc4aa5c5b98e6751f128] of the bankrupt having or claiming to have an interest in the [^m00052]property;
+- (a) any spouse or former spouse or civil partner or former civil partner[^c-de9e8ad9d07cdc4aa5c5b98e6751f128] of the bankrupt having or claiming to have an interest in the [^m00052]property;
 - (b) any other person appearing to have an interest in the property; and
 - (c) such other persons as the court may direct.
 
@@ -56,7 +56,7 @@ summary: ''
 - (a) an application under section 6(1)(a) of the Land Charges Act 1972 (application for registration in the register of writs and orders affecting land); or
 - (b) an application under the Land Registration Act 2002 for an entry in the register in respect of the charge imposed by the order; and such application under that Act as shall be necessary to show in the individual register or registers of the dwelling-house that the interest has vested in the bankrupt.
 
-(10)[^key-30267e27c46a01f05d792c82a3b454ce] In determining the value of the bankrupt’s interest for the purposes of paragraph (6)(c), the court shall disregard that part of the value of the property in which the bankrupt’s interest subsists which is equal to the value of—
+(10)[^c-30267e27c46a01f05d792c82a3b454ce] In determining the value of the bankrupt’s interest for the purposes of paragraph (6)(c), the court shall disregard that part of the value of the property in which the bankrupt’s interest subsists which is equal to the value of—
 
 - (a) any loans secured by mortgage or other charge against the property;
 - (b) any other third party interest; and
@@ -64,10 +64,10 @@ summary: ''
 
 ## Annotations
 
-[^key-78c7b777330ac8bace13f129695e3ff7]: Textual amendment: Rules 6.237-6.237E substituted for rule 6.327 (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 51](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/51)
+[^c-78c7b777330ac8bace13f129695e3ff7]: Textual amendment: Rules 6.237-6.237E substituted for rule 6.327 (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 51](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/51)
 
-[^key-de9e8ad9d07cdc4aa5c5b98e6751f128]: Textual amendment: Words in rule 6.237D(2)(a) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 18 para. 1(5)](https://www.legislation.gov.uk/uksi/2005/2114/schedule/18/paragraph/1/5)
+[^c-de9e8ad9d07cdc4aa5c5b98e6751f128]: Textual amendment: Words in rule 6.237D(2)(a) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 18 para. 1(5)](https://www.legislation.gov.uk/uksi/2005/2114/schedule/18/paragraph/1/5)
 
 [^m00052]: Marginal citation: \[FORM 4.21\]
 
-[^key-30267e27c46a01f05d792c82a3b454ce]: Textual amendment: Rule 6.237D(10) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [43](https://www.legislation.gov.uk/uksi/2004/584/article/43)
+[^c-30267e27c46a01f05d792c82a3b454ce]: Textual amendment: Rule 6.237D(10) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [43](https://www.legislation.gov.uk/uksi/2004/584/article/43)

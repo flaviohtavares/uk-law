@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Effect of probation and absolute discharge[^key-c882240766020a43a761812e0e554c1a]
+## 24. Effect of probation and absolute discharge[^c-c882240766020a43a761812e0e554c1a]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c882240766020a43a761812e0e554c1a]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2010/13/section/24) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))
+[^c-c882240766020a43a761812e0e554c1a]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2010/13/section/24) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))

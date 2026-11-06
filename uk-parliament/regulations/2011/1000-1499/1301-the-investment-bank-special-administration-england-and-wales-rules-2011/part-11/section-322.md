@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 322. Charges for copy documents[^key-e59a4e063c4e99f36c320201b4d506a3]
+## 322. Charges for copy documents[^c-e59a4e063c4e99f36c320201b4d506a3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Except where prohibited by the Rules, the administrator is entitled to require t
 
 ## Annotations
 
-[^key-e59a4e063c4e99f36c320201b4d506a3]: Commencement: [Rule 322](https://www.legislation.gov.uk/uksi/2011/1301/rule/322) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-e59a4e063c4e99f36c320201b4d506a3]: Commencement: [Rule 322](https://www.legislation.gov.uk/uksi/2011/1301/rule/322) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

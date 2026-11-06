@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 6 — ACCESS TO WORKS[^key-aa28734d25d9ed8a04d9d78dd7db96f9]
+## SCHEDULE 6 — ACCESS TO WORKS[^c-aa28734d25d9ed8a04d9d78dd7db96f9]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ Article 14
 
 ## Annotations
 
-[^key-aa28734d25d9ed8a04d9d78dd7db96f9]: Commencement: Sch. 6 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-aa28734d25d9ed8a04d9d78dd7db96f9]: Commencement: Sch. 6 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

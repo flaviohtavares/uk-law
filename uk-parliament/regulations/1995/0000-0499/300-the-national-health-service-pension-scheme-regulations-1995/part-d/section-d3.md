@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## D3. Further contributions by employing authorities in respect of excessive pay increases[^key-7d002687a053f473efd1d2a014627cdb]
+## D3. Further contributions by employing authorities in respect of excessive pay increases[^c-7d002687a053f473efd1d2a014627cdb]
 
 *Extent: E+W+S*
 
@@ -32,20 +32,20 @@ summary: ''
 
 - (a) the member’s pensionable pay for Year 1, and
 - (b) the allowable amount for Year 2 increased by the lower of—
-  - (i)[^key-eb0e832fbf0994c5fc5f5f451e287ce3] the aggregate of 7%[^key-f588cc0050c3ab3cf595469fb2b94cb3] and the percentage (if any) by which the consumer prices index for the February before the start of Year 1 is higher than it was for the previous February, and
-  - (ii) the percentage increase in the member’s pensionable pay for[^key-39289142e463f7d8c032aca7a9681af2] Year 1 compared with Year 2.
+  - (i)[^c-eb0e832fbf0994c5fc5f5f451e287ce3] the aggregate of 7%[^c-f588cc0050c3ab3cf595469fb2b94cb3] and the percentage (if any) by which the consumer prices index for the February before the start of Year 1 is higher than it was for the previous February, and
+  - (ii) the percentage increase in the member’s pensionable pay for[^c-39289142e463f7d8c032aca7a9681af2] Year 1 compared with Year 2.
 
 (4) The allowable amount in respect of Year 2 is the lower of—
 
 - (a) the member’s pensionable pay for Year 2, and
 - (b) the allowable amount for Year 3 increased by the lower of—
-  - (i)[^key-caba8915f0cfb7b214c17eaab26788a6] the aggregate of 7%[^key-c8a4a0009d8f554a089c8a487c60e282] and the percentage (if any) by which the consumer prices index for the February before the start of Year 2 is higher than it was for the previous February, and
-  - (ii) the percentage increase in the member’s pensionable pay for[^key-331d08af906036ec7fd37e31d66e2d6e] Year 2 compared with Year 3.
+  - (i)[^c-caba8915f0cfb7b214c17eaab26788a6] the aggregate of 7%[^c-c8a4a0009d8f554a089c8a487c60e282] and the percentage (if any) by which the consumer prices index for the February before the start of Year 2 is higher than it was for the previous February, and
+  - (ii) the percentage increase in the member’s pensionable pay for[^c-331d08af906036ec7fd37e31d66e2d6e] Year 2 compared with Year 3.
 
 (5) The allowable amount for Year 3 is the lower of—
 
 - (a) the member’s pensionable pay for Year 3, and
-- (b)[^key-d1a18094a6d9dc42e8101a72719baf2e] the member’s pensionable pay for the year immediately preceding Year 3 increased by the aggregate of 7%[^key-f28a756584a1a9773af2a7ad79542184] and the percentage (if any) by which the consumer prices index for the February before the start of Year 3 is higher than it was for the previous February.
+- (b)[^c-d1a18094a6d9dc42e8101a72719baf2e] the member’s pensionable pay for the year immediately preceding Year 3 increased by the aggregate of 7%[^c-f28a756584a1a9773af2a7ad79542184] and the percentage (if any) by which the consumer prices index for the February before the start of Year 3 is higher than it was for the previous February.
 
 (6) An excess employer contribution is determined as follows—
 
@@ -55,24 +55,24 @@ summary: ''
 - Step 4: multiply Amount B by the applicable factor to find Amount D
 - Step 5: in the case of a member who is entitled to a benefit under regulation L1, multiply Amount C by the applicable factor to find Amount E
 - Step 6: add together—
-- (a) Amount D[^key-659f584a34c5b0e65d6c9b5f122b5360] and Amount E, in the case of a member entitled to a benefit under regulation L1;
+- (a) Amount D[^c-659f584a34c5b0e65d6c9b5f122b5360] and Amount E, in the case of a member entitled to a benefit under regulation L1;
 - (b) Amount C and Amount D, in all other cases,
 
   to find the amount of the excess employer contribution.
 
-(7)[^key-f76c4f1229329e9cfec738d6d9f6f2ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-f76c4f1229329e9cfec738d6d9f6f2ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-f76c4f1229329e9cfec738d6d9f6f2ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-f76c4f1229329e9cfec738d6d9f6f2ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-f76c4f1229329e9cfec738d6d9f6f2ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-f76c4f1229329e9cfec738d6d9f6f2ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-f76c4f1229329e9cfec738d6d9f6f2ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-f76c4f1229329e9cfec738d6d9f6f2ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-f76c4f1229329e9cfec738d6d9f6f2ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-f76c4f1229329e9cfec738d6d9f6f2ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (12)  The amount of an excess employer contribution must be paid to the Secretary of State within 1 month of the Secretary of State notifying the payer of its liability for that amount: but the Secretary of State may exceptionally specify that it is to be paid within some other period.
 
-(12A)[^key-ef3927b5843e108e8fcb14446d51b3c8] Paragraphs (12B) to (12G) apply in circumstances where a payer has been notified of a liability to pay an excess employer contribution on or after 1st April 2018.
+(12A)[^c-ef3927b5843e108e8fcb14446d51b3c8] Paragraphs (12B) to (12G) apply in circumstances where a payer has been notified of a liability to pay an excess employer contribution on or after 1st April 2018.
 
 (12B) Where a payer—
 
@@ -100,7 +100,7 @@ summary: ''
 
 - (a) the amount of the excess employer contribution that is unpaid;
 - (b) the amount of any interest due on the amount referred to in paragraph (a);
-- (c) the amount of the supplementary charge[^key-01dfbcfb9892e4595ef09c196dcd95e3] arising from the late payment of the excess employer contribution;
+- (c) the amount of the supplementary charge[^c-01dfbcfb9892e4595ef09c196dcd95e3] arising from the late payment of the excess employer contribution;
 - (d) that the amounts in (a) to (c) are to be received by the Secretary of State within 1 month of the date of the notice.
 
 (14) Where a payer fails to comply with a late payment notice, the Secretary of State may issue a further late payment notice amended to take account of that failure.
@@ -109,20 +109,20 @@ summary: ''
 
 (16) In the case of a member in part-time employment, this regulation is subject to regulation R5.
 
-(17)[^key-041f49d87518b48fa1cda7aea270e673] For the purposes of this regulation an increase in pensionable pay during Year 3, Year 2 or, as the case may be, Year 1 is to be ignored where the Secretary of State is satisfied it arises as a result of—
+(17)[^c-041f49d87518b48fa1cda7aea270e673] For the purposes of this regulation an increase in pensionable pay during Year 3, Year 2 or, as the case may be, Year 1 is to be ignored where the Secretary of State is satisfied it arises as a result of—
 
 - (a) the member taking up a new employment with a new employer: provided the Secretary of State is satisfied that the employer in question is a new employer;
-- (b) the ending of a salary sacrifice arrangement made before 1st April 2014 [^key-1e476b32671aa371538eb61b5f4ac406]....
+- (b) the ending of a salary sacrifice arrangement made before 1st April 2014 [^c-1e476b32671aa371538eb61b5f4ac406]....
 
 (18) If the Secretary of State is not satisfied that the employer in question is a new employer, that employer is to be treated as an employing authority liable for an excess employer contribution in accordance with this regulation.
 
 (19) An increase in a member’s pensionable pay due to the acceptance of a transfer payment in the circumstances described in regulation C1(5) shall be ignored for the purposes of this regulation.
 
-(19A)[^key-930c2e2059f8f97cc02c32a7e8dc63b7] An increase in a member’s pensionable pay solely due to an increase in the national minimum wage is to be ignored for the purposes of this regulation.
+(19A)[^c-930c2e2059f8f97cc02c32a7e8dc63b7] An increase in a member’s pensionable pay solely due to an increase in the national minimum wage is to be ignored for the purposes of this regulation.
 
-(19B)[^key-3943198175ac632ab9639475e01b45fa] An increase in a member’s pensionable pay pursuant to the “Framework agreement on the reform of Agenda for Change” adopted on 27 June 2018 is to be ignored for the purposes of this regulation.
+(19B)[^c-3943198175ac632ab9639475e01b45fa] An increase in a member’s pensionable pay pursuant to the “Framework agreement on the reform of Agenda for Change” adopted on 27 June 2018 is to be ignored for the purposes of this regulation.
 
-(19C)[^key-5942fda83062576fd43751cbcbc1e1cc] Where—
+(19C)[^c-5942fda83062576fd43751cbcbc1e1cc] Where—
 
 - (a) the Secretary of State has approved terms and conditions relating to NHS employment; and
 - (b) a member’s pensionable pay has increased pursuant to those terms and conditions,
@@ -161,50 +161,50 @@ summary: ''
 - (g) a benefit referred to in paragraph (1) means—
   - (i) in the case of regulation E2A, a benefit including the effects of any increase in pensionable service referred to in paragraph (4) of that regulation;
   - (ii) in the case of regulation E5, a benefit including the effects of any reduction referred to in paragraph (2) of that regulation;
-- (h)[^key-ac90bd279b942befa780301d68934aa3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (i)[^key-5f66e3fea6c13f10d58f425305214fe8] “national minimum wage” means the single hourly rate prescribed by the Secretary of State pursuant to section 1(3) of the National Minimum Wage Act 1998;
-- (j)[^key-d291cdc27ec1c7471a32fe45308ccda2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-ac90bd279b942befa780301d68934aa3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-5f66e3fea6c13f10d58f425305214fe8] “national minimum wage” means the single hourly rate prescribed by the Secretary of State pursuant to section 1(3) of the National Minimum Wage Act 1998;
+- (j)[^c-d291cdc27ec1c7471a32fe45308ccda2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7d002687a053f473efd1d2a014627cdb]: Textual amendment: [Reg. D3](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3) inserted (1.4.2014) by [The National Health Service Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/570)](https://www.legislation.gov.uk/uksi/2014/570), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/570/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2014/570/regulation/8) (with [reg. 49](https://www.legislation.gov.uk/uksi/2014/570/regulation/49))
+[^c-7d002687a053f473efd1d2a014627cdb]: Textual amendment: [Reg. D3](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3) inserted (1.4.2014) by [The National Health Service Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/570)](https://www.legislation.gov.uk/uksi/2014/570), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/570/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2014/570/regulation/8) (with [reg. 49](https://www.legislation.gov.uk/uksi/2014/570/regulation/49))
 
-[^key-eb0e832fbf0994c5fc5f5f451e287ce3]: Textual amendment: [Reg. D3(3)(b)(i)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/3/b/i) substituted (with effect from 1.4.2014) by [The National Health Service Pension Scheme (Amendment No.2) Regulations 2014 (S.I. 2014/1607)](https://www.legislation.gov.uk/uksi/2014/1607), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1607/regulation/1/2), [5(2)(i)](https://www.legislation.gov.uk/uksi/2014/1607/regulation/5/2/i)
+[^c-eb0e832fbf0994c5fc5f5f451e287ce3]: Textual amendment: [Reg. D3(3)(b)(i)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/3/b/i) substituted (with effect from 1.4.2014) by [The National Health Service Pension Scheme (Amendment No.2) Regulations 2014 (S.I. 2014/1607)](https://www.legislation.gov.uk/uksi/2014/1607), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1607/regulation/1/2), [5(2)(i)](https://www.legislation.gov.uk/uksi/2014/1607/regulation/5/2/i)
 
-[^key-f588cc0050c3ab3cf595469fb2b94cb3]: Textual amendment: Word in [reg. D3(3)(b)(i)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/3/b/i) substituted (1.7.2021 with effect from 1.7.2021) by [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/5), [5(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/5/2) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))
+[^c-f588cc0050c3ab3cf595469fb2b94cb3]: Textual amendment: Word in [reg. D3(3)(b)(i)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/3/b/i) substituted (1.7.2021 with effect from 1.7.2021) by [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/5), [5(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/5/2) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))
 
-[^key-39289142e463f7d8c032aca7a9681af2]: Textual amendment: Word in [reg. D3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/3/b/ii) inserted (with effect from 1.4.2014) by [The National Health Service Pension Scheme (Amendment No.2) Regulations 2014 (S.I. 2014/1607)](https://www.legislation.gov.uk/uksi/2014/1607), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1607/regulation/1/2), [5(2)(ii)](https://www.legislation.gov.uk/uksi/2014/1607/regulation/5/2/ii)
+[^c-39289142e463f7d8c032aca7a9681af2]: Textual amendment: Word in [reg. D3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/3/b/ii) inserted (with effect from 1.4.2014) by [The National Health Service Pension Scheme (Amendment No.2) Regulations 2014 (S.I. 2014/1607)](https://www.legislation.gov.uk/uksi/2014/1607), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1607/regulation/1/2), [5(2)(ii)](https://www.legislation.gov.uk/uksi/2014/1607/regulation/5/2/ii)
 
-[^key-caba8915f0cfb7b214c17eaab26788a6]: Textual amendment: [Reg. D3(4)(b)(i)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/4/b/i) substituted (with effect from 1.4.2014) by [The National Health Service Pension Scheme (Amendment No.2) Regulations 2014 (S.I. 2014/1607)](https://www.legislation.gov.uk/uksi/2014/1607), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1607/regulation/1/2), [5(3)(i)](https://www.legislation.gov.uk/uksi/2014/1607/regulation/5/3/i)
+[^c-caba8915f0cfb7b214c17eaab26788a6]: Textual amendment: [Reg. D3(4)(b)(i)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/4/b/i) substituted (with effect from 1.4.2014) by [The National Health Service Pension Scheme (Amendment No.2) Regulations 2014 (S.I. 2014/1607)](https://www.legislation.gov.uk/uksi/2014/1607), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1607/regulation/1/2), [5(3)(i)](https://www.legislation.gov.uk/uksi/2014/1607/regulation/5/3/i)
 
-[^key-c8a4a0009d8f554a089c8a487c60e282]: Textual amendment: Word in [reg. D3(4)(b)(i)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/4/b/i) substituted (1.7.2021 with effect from 1.7.2021) by [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/5), [5(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/5/2) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))
+[^c-c8a4a0009d8f554a089c8a487c60e282]: Textual amendment: Word in [reg. D3(4)(b)(i)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/4/b/i) substituted (1.7.2021 with effect from 1.7.2021) by [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/5), [5(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/5/2) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))
 
-[^key-331d08af906036ec7fd37e31d66e2d6e]: Textual amendment: Word in [reg. D3(4)(b)(ii)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/4/b/ii) inserted (with effect from 1.4.2014) by [The National Health Service Pension Scheme (Amendment No.2) Regulations 2014 (S.I. 2014/1607)](https://www.legislation.gov.uk/uksi/2014/1607), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1607/regulation/1/2), [5(3)(ii)](https://www.legislation.gov.uk/uksi/2014/1607/regulation/5/3/ii)
+[^c-331d08af906036ec7fd37e31d66e2d6e]: Textual amendment: Word in [reg. D3(4)(b)(ii)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/4/b/ii) inserted (with effect from 1.4.2014) by [The National Health Service Pension Scheme (Amendment No.2) Regulations 2014 (S.I. 2014/1607)](https://www.legislation.gov.uk/uksi/2014/1607), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1607/regulation/1/2), [5(3)(ii)](https://www.legislation.gov.uk/uksi/2014/1607/regulation/5/3/ii)
 
-[^key-d1a18094a6d9dc42e8101a72719baf2e]: Textual amendment: [Reg. D3(5)(b)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/5/b) substituted (with effect from 1.4.2014) by [The National Health Service Pension Scheme (Amendment No.2) Regulations 2014 (S.I. 2014/1607)](https://www.legislation.gov.uk/uksi/2014/1607), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1607/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2014/1607/regulation/5/4)
+[^c-d1a18094a6d9dc42e8101a72719baf2e]: Textual amendment: [Reg. D3(5)(b)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/5/b) substituted (with effect from 1.4.2014) by [The National Health Service Pension Scheme (Amendment No.2) Regulations 2014 (S.I. 2014/1607)](https://www.legislation.gov.uk/uksi/2014/1607), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1607/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2014/1607/regulation/5/4)
 
-[^key-f28a756584a1a9773af2a7ad79542184]: Textual amendment: Word in [reg. D3(5)(b)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/5/b) substituted (1.7.2021 with effect from 1.7.2021) by [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/5), [5(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/5/2) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))
+[^c-f28a756584a1a9773af2a7ad79542184]: Textual amendment: Word in [reg. D3(5)(b)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/5/b) substituted (1.7.2021 with effect from 1.7.2021) by [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/5), [5(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/5/2) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))
 
-[^key-659f584a34c5b0e65d6c9b5f122b5360]: Textual amendment: Words in [reg. D3(6)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/6) substituted (with effect from 1.4.2014) by [The National Health Service Pension Scheme (Amendment No.2) Regulations 2014 (S.I. 2014/1607)](https://www.legislation.gov.uk/uksi/2014/1607), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1607/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2014/1607/regulation/5/5)
+[^c-659f584a34c5b0e65d6c9b5f122b5360]: Textual amendment: Words in [reg. D3(6)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/6) substituted (with effect from 1.4.2014) by [The National Health Service Pension Scheme (Amendment No.2) Regulations 2014 (S.I. 2014/1607)](https://www.legislation.gov.uk/uksi/2014/1607), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1607/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2014/1607/regulation/5/5)
 
-[^key-f76c4f1229329e9cfec738d6d9f6f2ff]: Textual amendment: [Regs. D3(7)-(11)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/7) omitted (1.7.2021 with effect from 1.7.2021) by virtue of [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/5), [5(3)](https://www.legislation.gov.uk/uksi/2021/631/regulation/5/3) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))
+[^c-f76c4f1229329e9cfec738d6d9f6f2ff]: Textual amendment: [Regs. D3(7)-(11)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/7) omitted (1.7.2021 with effect from 1.7.2021) by virtue of [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/5), [5(3)](https://www.legislation.gov.uk/uksi/2021/631/regulation/5/3) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))
 
-[^key-ef3927b5843e108e8fcb14446d51b3c8]: Textual amendment: [Regs. D3(12A)-(12G)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/12A) inserted (1.7.2021 with effect from 1.7.2021) by [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/5), [5(4)](https://www.legislation.gov.uk/uksi/2021/631/regulation/5/4) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))
+[^c-ef3927b5843e108e8fcb14446d51b3c8]: Textual amendment: [Regs. D3(12A)-(12G)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/12A) inserted (1.7.2021 with effect from 1.7.2021) by [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/5), [5(4)](https://www.legislation.gov.uk/uksi/2021/631/regulation/5/4) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))
 
-[^key-01dfbcfb9892e4595ef09c196dcd95e3]: Textual amendment: Words in [reg. D3(13)(c)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/13/c) substituted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/2/c), [4(2)](https://www.legislation.gov.uk/uksi/2017/275/regulation/4/2)
+[^c-01dfbcfb9892e4595ef09c196dcd95e3]: Textual amendment: Words in [reg. D3(13)(c)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/13/c) substituted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/2/c), [4(2)](https://www.legislation.gov.uk/uksi/2017/275/regulation/4/2)
 
-[^key-041f49d87518b48fa1cda7aea270e673]: Textual amendment: [Reg. D3(17)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/17) substituted (with effect from 1.4.2014) by [The National Health Service Pension Scheme (Amendment No.2) Regulations 2014 (S.I. 2014/1607)](https://www.legislation.gov.uk/uksi/2014/1607), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1607/regulation/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2014/1607/regulation/5/6)
+[^c-041f49d87518b48fa1cda7aea270e673]: Textual amendment: [Reg. D3(17)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/17) substituted (with effect from 1.4.2014) by [The National Health Service Pension Scheme (Amendment No.2) Regulations 2014 (S.I. 2014/1607)](https://www.legislation.gov.uk/uksi/2014/1607), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1607/regulation/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2014/1607/regulation/5/6)
 
-[^key-1e476b32671aa371538eb61b5f4ac406]: Textual amendment: Words in [reg. D3(17)(b)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/17/b) omitted (1.7.2021 with effect from 1.7.2021) by virtue of [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/5), [5(5)](https://www.legislation.gov.uk/uksi/2021/631/regulation/5/5) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))
+[^c-1e476b32671aa371538eb61b5f4ac406]: Textual amendment: Words in [reg. D3(17)(b)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/17/b) omitted (1.7.2021 with effect from 1.7.2021) by virtue of [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/5), [5(5)](https://www.legislation.gov.uk/uksi/2021/631/regulation/5/5) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))
 
-[^key-930c2e2059f8f97cc02c32a7e8dc63b7]: Textual amendment: [Reg. D3(19A)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/19A) inserted (with effect from 1.4.2016) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(1)(2)(b)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/1/2/b), [4(3)](https://www.legislation.gov.uk/uksi/2017/275/regulation/4/3)
+[^c-930c2e2059f8f97cc02c32a7e8dc63b7]: Textual amendment: [Reg. D3(19A)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/19A) inserted (with effect from 1.4.2016) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(1)(2)(b)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/1/2/b), [4(3)](https://www.legislation.gov.uk/uksi/2017/275/regulation/4/3)
 
-[^key-3943198175ac632ab9639475e01b45fa]: Textual amendment: [Reg. D3(19B)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/19B) inserted (with effect from 1.4.2018) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2)[(4)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/4), [6](https://www.legislation.gov.uk/uksi/2019/418/regulation/6)
+[^c-3943198175ac632ab9639475e01b45fa]: Textual amendment: [Reg. D3(19B)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/19B) inserted (with effect from 1.4.2018) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2)[(4)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/4), [6](https://www.legislation.gov.uk/uksi/2019/418/regulation/6)
 
-[^key-5942fda83062576fd43751cbcbc1e1cc]: Textual amendment: [Regs. D3(19C)-(19G)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/19C) inserted (1.7.2021 with effect from 1.7.2021) by [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/5), [5(6)](https://www.legislation.gov.uk/uksi/2021/631/regulation/5/6) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))
+[^c-5942fda83062576fd43751cbcbc1e1cc]: Textual amendment: [Regs. D3(19C)-(19G)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/19C) inserted (1.7.2021 with effect from 1.7.2021) by [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/5), [5(6)](https://www.legislation.gov.uk/uksi/2021/631/regulation/5/6) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))
 
-[^key-ac90bd279b942befa780301d68934aa3]: Textual amendment: [Reg. D3(21)(h)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/21/h) omitted (1.7.2021 with effect from 1.7.2021) by virtue of [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/5), [5(7)(a)](https://www.legislation.gov.uk/uksi/2021/631/regulation/5/7/a) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))
+[^c-ac90bd279b942befa780301d68934aa3]: Textual amendment: [Reg. D3(21)(h)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/21/h) omitted (1.7.2021 with effect from 1.7.2021) by virtue of [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/5), [5(7)(a)](https://www.legislation.gov.uk/uksi/2021/631/regulation/5/7/a) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))
 
-[^key-5f66e3fea6c13f10d58f425305214fe8]: Textual amendment: [Reg. D3(21)(i)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/21/i) inserted (with effect from 1.4.2016) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(1)(2)(b)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/1/2/b), [4(4)](https://www.legislation.gov.uk/uksi/2017/275/regulation/4/4)
+[^c-5f66e3fea6c13f10d58f425305214fe8]: Textual amendment: [Reg. D3(21)(i)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/21/i) inserted (with effect from 1.4.2016) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(1)(2)(b)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/1/2/b), [4(4)](https://www.legislation.gov.uk/uksi/2017/275/regulation/4/4)
 
-[^key-d291cdc27ec1c7471a32fe45308ccda2]: Textual amendment: [Reg. D3(21)(j)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/21/j) omitted (1.4.2024) by virtue of [The National Health Service Pension Schemes (Amendment) Regulations 2024 (S.I. 2024/281)](https://www.legislation.gov.uk/uksi/2024/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2024/281/regulation/4)
+[^c-d291cdc27ec1c7471a32fe45308ccda2]: Textual amendment: [Reg. D3(21)(j)](https://www.legislation.gov.uk/uksi/1995/300/regulation/D3/21/j) omitted (1.4.2024) by virtue of [The National Health Service Pension Schemes (Amendment) Regulations 2024 (S.I. 2024/281)](https://www.legislation.gov.uk/uksi/2024/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2024/281/regulation/4)

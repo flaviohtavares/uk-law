@@ -202,7 +202,7 @@ These Regulations may be cited as the Children's Social Care (Coronavirus) (Temp
 - (a) in paragraph (3) for the words “at least once a month” there were substituted “ in accordance with guidance issued by the Department ”; and
 - (b) paragraph (4)(a) and (b) were omitted.
 
-## 10. Expiration[^key-b2c049ccfe3c5c10569413f35bdc96fa]
+## 10. Expiration[^c-b2c049ccfe3c5c10569413f35bdc96fa]
 
 The modifications provided in regulations 2 to 9 expire at the end of the period of twelve months beginning with and including the day on which these Regulations come into operation.
 
@@ -270,4 +270,4 @@ Regulation 10 provides that the modifications in regulations 2 to 9 shall expire
 
 [^c24094961]: Marginal citation: S.R. [2005 No. 176](https://www.legislation.gov.uk/ukcm/2005/176)
 
-[^key-b2c049ccfe3c5c10569413f35bdc96fa]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/nisr/2020/78/regulation/10) substituted (5.11.2020) by [The Childrens Social Care (Coronavirus) (Temporary Modification of Childrens Social Care) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/235)](https://www.legislation.gov.uk/nisr/2020/235), [regs. 1](https://www.legislation.gov.uk/nisr/2020/235/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2020/235/regulation/2/2)
+[^c-b2c049ccfe3c5c10569413f35bdc96fa]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/nisr/2020/78/regulation/10) substituted (5.11.2020) by [The Childrens Social Care (Coronavirus) (Temporary Modification of Childrens Social Care) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/235)](https://www.legislation.gov.uk/nisr/2020/235), [regs. 1](https://www.legislation.gov.uk/nisr/2020/235/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2020/235/regulation/2/2)

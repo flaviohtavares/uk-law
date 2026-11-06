@@ -33,7 +33,7 @@ supplementing Directive 2002/87/EC of the European Parliament and of the Council
 
 (Text with EEA relevance)
 
-[^key-7cba13e35f92c5e78503638171633558][^key-42c7c3aa60a46804472e7554f3003cbf]
+[^c-7cba13e35f92c5e78503638171633558][^c-42c7c3aa60a46804472e7554f3003cbf]
 
 THE EUROPEAN COMMISSION,
 
@@ -101,7 +101,7 @@ HAS ADOPTED THIS REGULATION:
 
 This Regulation specifies the technical principles and technical calculation methods listed in Annex I to Directive 2002/87/EC for the purposes of the alternatives to deduction referred to Article 49(1) of Regulation (EU) No 575/2013 and for the purposes of calculating own funds and supplementary capital adequacy requirement as provided for in Article 6(2) of Directive 2002/87/EC.
 
-### Article 2. Definitions[^key-e87802fb347a7786e5fe94be8030226d]
+### Article 2. Definitions[^c-e87802fb347a7786e5fe94be8030226d]
 
 For the purposes of this Regulation, the following definitions shall apply:
 
@@ -152,7 +152,7 @@ The regulated entities or the mixed financial holding company in a financial con
 
 In relation to insurance-led financial conglomerates, method 1 for calculating the group solvency of insurance and reinsurance undertakings, as laid down in Articles 230, 231 and 232 of Directive 2009/138/EC, shall be considered as equivalent to method 1 for calculating the supplementary capital adequacy requirements of the regulated entities in a financial conglomerate, as laid down in Annex I to Directive 2002/87/EC, provided that the scope of group supervision under Title III of Directive 2009/138/EC is not materially different from the scope of supplementary supervision under Chapter II of Directive 2002/87/EC.
 
-### Article 9. Solvency requirement[^key-baca5125019b75b25857907ca7460572]
+### Article 9. Solvency requirement[^c-baca5125019b75b25857907ca7460572]
 
 1. Where the rules for the insurance sector are to be applied, the Solvency Capital Requirement referred to in Articles 100 and 218 of Directive 2009/138/EC including any capital add-on applied in accordance with Article 37 of that Directive, following from Article 216(4), Article 231(7), Article 232, Article 233(6), Article 238(2) and (3) of that Directive shall be considered to be the solvency requirements; for the purpose of the calculation of the supplementary capital adequacy requirements.
 
@@ -274,9 +274,9 @@ The difference shall not be negative.
 
 ## Annotations
 
-[^key-7cba13e35f92c5e78503638171633558]: Modification: The “appropriate regulator” has power to make such provision as they consider appropriate by means of an instrument in writing to prevent, remedy or mitigate any failure of the provisions of this Regulation to operate effectively or any other deficiency arising from the withdrawal of the United Kingdom from the EU, see [The Financial Regulators' Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1115)](https://www.legislation.gov.uk/uksi/2018/1115), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1115/regulation/2), [3](https://www.legislation.gov.uk/uksi/2018/1115/regulation/3), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2018/1115/schedule/part/4) (with saving on IP completion day by [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-7cba13e35f92c5e78503638171633558]: Modification: The “appropriate regulator” has power to make such provision as they consider appropriate by means of an instrument in writing to prevent, remedy or mitigate any failure of the provisions of this Regulation to operate effectively or any other deficiency arising from the withdrawal of the United Kingdom from the EU, see [The Financial Regulators' Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1115)](https://www.legislation.gov.uk/uksi/2018/1115), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1115/regulation/2), [3](https://www.legislation.gov.uk/uksi/2018/1115/regulation/3), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2018/1115/schedule/part/4) (with saving on IP completion day by [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-42c7c3aa60a46804472e7554f3003cbf]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-42c7c3aa60a46804472e7554f3003cbf]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^f00001]: Footnote: [OJ L 176, 27.6.2013, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.176.01.0001.01.ENG).
 
@@ -292,9 +292,9 @@ The difference shall not be negative.
 
 [^f00007]: Footnote: Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC ([OJ L 331, 15.12.2010, p. 84](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2010.331.01.0084.01.ENG)).
 
-[^key-e87802fb347a7786e5fe94be8030226d]: Textual amendment: Art. 2 (as previously modified on IP completion day by the PRA's Technical Standards (Financial Conglomerates) (EU Exit) Instrument 2019 dated 9.4.2019) amended (30.11.2025) by [The Financial Services and Markets Act 2023 (Capital Buffers and Macro-prudential Measures) (Consequential Amendments) Regulations 2025 (S.I. 2025/1023)](https://www.legislation.gov.uk/uksi/2025/1023), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1023/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2025/1023/regulation/7/2)
+[^c-e87802fb347a7786e5fe94be8030226d]: Textual amendment: Art. 2 (as previously modified on IP completion day by the PRA's Technical Standards (Financial Conglomerates) (EU Exit) Instrument 2019 dated 9.4.2019) amended (30.11.2025) by [The Financial Services and Markets Act 2023 (Capital Buffers and Macro-prudential Measures) (Consequential Amendments) Regulations 2025 (S.I. 2025/1023)](https://www.legislation.gov.uk/uksi/2025/1023), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1023/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2025/1023/regulation/7/2)
 
-[^key-baca5125019b75b25857907ca7460572]: Textual amendment: Art. 9 (as previously modified on IP completion day by the PRA's Technical Standards (Financial Conglomerates) (EU Exit) Instrument 2019 dated 9.4.2019) amended (30.11.2025) by [The Financial Services and Markets Act 2023 (Capital Buffers and Macro-prudential Measures) (Consequential Amendments) Regulations 2025 (S.I. 2025/1023)](https://www.legislation.gov.uk/uksi/2025/1023), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1023/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2025/1023/regulation/7/3)
+[^c-baca5125019b75b25857907ca7460572]: Textual amendment: Art. 9 (as previously modified on IP completion day by the PRA's Technical Standards (Financial Conglomerates) (EU Exit) Instrument 2019 dated 9.4.2019) amended (30.11.2025) by [The Financial Services and Markets Act 2023 (Capital Buffers and Macro-prudential Measures) (Consequential Amendments) Regulations 2025 (S.I. 2025/1023)](https://www.legislation.gov.uk/uksi/2025/1023), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1023/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2025/1023/regulation/7/3)
 
 [^f00008]: Footnote: Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) ([OJ L 302, 17.11.2009, p. 32](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.302.01.0032.01.ENG)).
 

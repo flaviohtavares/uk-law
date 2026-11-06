@@ -46,7 +46,7 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 87(1)(b) and (3)(b) of the Police and Fire Reform (Scotland) Act 2012[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and interpretation[^key-b74df6a7c654af7afc75d49f5948edb1]
+## 1. Citation, commencement and interpretation[^c-b74df6a7c654af7afc75d49f5948edb1]
 
 (1) This Order may be cited as the Scottish Police Authority (Provision of Goods and Services) Order 2013 and comes into force on 1st April 2013.
 
@@ -60,7 +60,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
   - (d) private investigation involving surveillance, inquiries or investigation for the purpose of obtaining information; or
   - (e) providing advice as to the taking of safety precautions in relation to risk to property or persons including natural persons or the keeping of custody of keys or locks.
 
-## 2. Provision of Goods and Services[^key-78133e8ede37b2ec3cfbeb272236b3c1]
+## 2. Provision of Goods and Services[^c-78133e8ede37b2ec3cfbeb272236b3c1]
 
 For the purposes of section 87(1)(b) of the 2012 Act—
 
@@ -69,7 +69,7 @@ For the purposes of section 87(1)(b) of the 2012 Act—
 
 are specified.
 
-**3.**[^key-43152a9710b4b7f55d96179821a9787b] For the purposes of section 87(3)(b) of the 2012 Act—
+**3.**[^c-43152a9710b4b7f55d96179821a9787b] For the purposes of section 87(3)(b) of the 2012 Act—
 
 - (a) the types of goods and services (other than police services) mentioned in column 1 of the Table in Schedule 2; and
 - (b) the types of person mentioned in the corresponding entry in column 2 of the Table in Schedule 2,
@@ -86,7 +86,7 @@ Edinburgh
 
 26th February 2013
 
-## SCHEDULE 1[^key-4892e6f2cb311c95c20c09b2601e7ff5]
+## SCHEDULE 1[^c-4892e6f2cb311c95c20c09b2601e7ff5]
 
 Article 2
 
@@ -132,9 +132,9 @@ Article 2
 </tbody>
 </table>
 
-[^f00002][^f00003][^f00004][^key-efc1e9839245f5a3b29842943801680e][^f00005][^f00006]
+[^f00002][^f00003][^f00004][^c-efc1e9839245f5a3b29842943801680e][^f00005][^f00006]
 
-## SCHEDULE 2[^key-418eba101fa1cd96376783086444a3a4]
+## SCHEDULE 2[^c-418eba101fa1cd96376783086444a3a4]
 
 Article 3
 
@@ -156,13 +156,13 @@ This Order specifies the types of goods and services that the Scottish Police Au
 
 [^f00001]: Footnote: [2012 asp 8.](https://www.legislation.gov.uk/asp/2012/8)
 
-[^key-b74df6a7c654af7afc75d49f5948edb1]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2013/73/article/1) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/73/article/1/1)
+[^c-b74df6a7c654af7afc75d49f5948edb1]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2013/73/article/1) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/73/article/1/1)
 
-[^key-78133e8ede37b2ec3cfbeb272236b3c1]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2013/73/article/2) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/73/article/1/1)
+[^c-78133e8ede37b2ec3cfbeb272236b3c1]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2013/73/article/2) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/73/article/1/1)
 
-[^key-43152a9710b4b7f55d96179821a9787b]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2013/73/article/3) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/73/article/1/1)
+[^c-43152a9710b4b7f55d96179821a9787b]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2013/73/article/3) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/73/article/1/1)
 
-[^key-4892e6f2cb311c95c20c09b2601e7ff5]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2013/73/schedule/1) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/73/article/1/1)
+[^c-4892e6f2cb311c95c20c09b2601e7ff5]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2013/73/schedule/1) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/73/article/1/1)
 
 [^f00002]: Footnote: [2001 c.12](https://www.legislation.gov.uk/ukpga/2001/12).
 
@@ -170,10 +170,10 @@ This Order specifies the types of goods and services that the Scottish Police Au
 
 [^f00004]: Footnote: [1992 c.37](https://www.legislation.gov.uk/ukpga/1992/37).
 
-[^key-efc1e9839245f5a3b29842943801680e]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2013/73/schedule/1) substituted (31.3.2015) by The Post-16 [Education (Scotland) Act 2013 (Modification of Legislation) Order 2015 (S.S.I. 2015/153)](https://www.legislation.gov.uk/ssi/2015/153), [art. 1](https://www.legislation.gov.uk/ssi/2015/153/article/1), [sch. para. 19](https://www.legislation.gov.uk/ssi/2015/153/schedule/paragraph/19)
+[^c-efc1e9839245f5a3b29842943801680e]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2013/73/schedule/1) substituted (31.3.2015) by The Post-16 [Education (Scotland) Act 2013 (Modification of Legislation) Order 2015 (S.S.I. 2015/153)](https://www.legislation.gov.uk/ssi/2015/153), [art. 1](https://www.legislation.gov.uk/ssi/2015/153/article/1), [sch. para. 19](https://www.legislation.gov.uk/ssi/2015/153/schedule/paragraph/19)
 
 [^f00005]: Footnote: [2005 asp 6](https://www.legislation.gov.uk/asp/2005/6).
 
 [^f00006]: Footnote: [1992 c.37](https://www.legislation.gov.uk/ukpga/1992/37).
 
-[^key-418eba101fa1cd96376783086444a3a4]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2013/73/schedule/2) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/73/article/1/1)
+[^c-418eba101fa1cd96376783086444a3a4]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2013/73/schedule/2) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/73/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17D. Meaning of “exempt property”[^key-2a2e6d8fc941cd8ff464a7900385ce64]
+## 17D. Meaning of “exempt property”[^c-2a2e6d8fc941cd8ff464a7900385ce64]
 
 *Extent: S*
 
@@ -76,4 +76,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a2e6d8fc941cd8ff464a7900385ce64]: Textual amendment: [Ss. 17C](https://www.legislation.gov.uk/asp/2016/19/section/17C), [17D](https://www.legislation.gov.uk/asp/2016/19/section/17D) and cross-heading inserted (7.1.2026 for the insertion of s. 17D and 1.4.2026 in so far as not already in force) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 23(3)](https://www.legislation.gov.uk/asp/2025/13/section/23/3), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2025/355](https://www.legislation.gov.uk/ssi/2025/355), [reg. 3(a)](https://www.legislation.gov.uk/ssi/2025/355/regulation/3/a); S.S.I. 2026/115, reg. 2(1)(5), sch. Pt. 1
+[^c-2a2e6d8fc941cd8ff464a7900385ce64]: Textual amendment: [Ss. 17C](https://www.legislation.gov.uk/asp/2016/19/section/17C), [17D](https://www.legislation.gov.uk/asp/2016/19/section/17D) and cross-heading inserted (7.1.2026 for the insertion of s. 17D and 1.4.2026 in so far as not already in force) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 23(3)](https://www.legislation.gov.uk/asp/2025/13/section/23/3), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2025/355](https://www.legislation.gov.uk/ssi/2025/355), [reg. 3(a)](https://www.legislation.gov.uk/ssi/2025/355/regulation/3/a); S.S.I. 2026/115, reg. 2(1)(5), sch. Pt. 1

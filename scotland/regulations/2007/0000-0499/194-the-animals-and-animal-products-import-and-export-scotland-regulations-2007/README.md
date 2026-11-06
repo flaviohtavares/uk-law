@@ -34,7 +34,7 @@ ANIMALS
 
 ANIMAL HEALTH
 
-The Animals and Animal Products (Import and Export) (Scotland) Regulations 2007 (revoked)[^key-4e3e00fcab8e3c106fb8d5852aa93b18]
+The Animals and Animal Products (Import and Export) (Scotland) Regulations 2007 (revoked)[^c-4e3e00fcab8e3c106fb8d5852aa93b18]
 
 Made
 
@@ -48,11 +48,11 @@ Coming into force
 
 2nd April 2007
 
-[^key-4e3e00fcab8e3c106fb8d5852aa93b18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e3e00fcab8e3c106fb8d5852aa93b18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — INTRODUCTORY[^key-4e3e00fcab8e3c106fb8d5852aa93b18]
+### PART I — INTRODUCTORY[^c-4e3e00fcab8e3c106fb8d5852aa93b18]
 
 **No longer in force.**
 
@@ -60,7 +60,7 @@ Coming into force
 - [Section 2 — Exception](part-i/section-2.md)
 - [Section 3 — Enforcement](part-i/section-3.md)
 
-### PART II — INTRA COMMUNITY TRADE[^key-4e3e00fcab8e3c106fb8d5852aa93b18]
+### PART II — INTRA COMMUNITY TRADE[^c-4e3e00fcab8e3c106fb8d5852aa93b18]
 
 **No longer in force.**
 
@@ -76,7 +76,7 @@ Coming into force
 - [Section 13 — Assembly centres and slaughterhouses](part-ii/section-13.md)
 - [Section 14 — Illegal consignments](part-ii/section-14.md)
 
-### PART III — THIRD COUNTRY IMPORTS[^key-4e3e00fcab8e3c106fb8d5852aa93b18]
+### PART III — THIRD COUNTRY IMPORTS[^c-4e3e00fcab8e3c106fb8d5852aa93b18]
 
 **No longer in force.**
 
@@ -92,7 +92,7 @@ Coming into force
 - [Section 24 — Arrival at the place of destination](part-iii/section-24.md)
 - [Section 25 — Post-import controls](part-iii/section-25.md)
 
-### PART IV — PRE-CHECKED THIRD COUNTRY IMPORTS[^key-4e3e00fcab8e3c106fb8d5852aa93b18]
+### PART IV — PRE-CHECKED THIRD COUNTRY IMPORTS[^c-4e3e00fcab8e3c106fb8d5852aa93b18]
 
 **No longer in force.**
 
@@ -100,14 +100,14 @@ Coming into force
 - [Section 27 — Imports](part-iv/section-27.md)
 - [Section 28 — Import procedure](part-iv/section-28.md)
 
-### PART IVA — THIRD COUNTRY EXPORTS[^key-4e3e00fcab8e3c106fb8d5852aa93b18]
+### PART IVA — THIRD COUNTRY EXPORTS[^c-4e3e00fcab8e3c106fb8d5852aa93b18]
 
 **No longer in force.**
 
 - [Section 28A — Application of Part IVA](part-iva/section-28a.md)
 - [Section 28B — Exports to third countries](part-iva/section-28b.md)
 
-### PART V — GENERAL[^key-4e3e00fcab8e3c106fb8d5852aa93b18]
+### PART V — GENERAL[^c-4e3e00fcab8e3c106fb8d5852aa93b18]
 
 *Extent: S*
 
@@ -141,14 +141,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-4e3e00fcab8e3c106fb8d5852aa93b18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e3e00fcab8e3c106fb8d5852aa93b18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: S*
 
 **May not be in force at this date. Check the source.**
 
-[^key-4e3e00fcab8e3c106fb8d5852aa93b18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e3e00fcab8e3c106fb8d5852aa93b18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4e3e00fcab8e3c106fb8d5852aa93b18]: Textual amendment: Regulations revoked (1.7.2012) by [The Trade in Animals and Related Products (Scotland) Regulations 2012 (S.S.I. 2012/177)](https://www.legislation.gov.uk/ssi/2012/177), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2012/177/regulation/38/b), [38(b)](https://www.legislation.gov.uk/ssi/2012/177/regulation/38/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2012/177/regulation/3))
+[^c-4e3e00fcab8e3c106fb8d5852aa93b18]: Textual amendment: Regulations revoked (1.7.2012) by [The Trade in Animals and Related Products (Scotland) Regulations 2012 (S.S.I. 2012/177)](https://www.legislation.gov.uk/ssi/2012/177), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2012/177/regulation/38/b), [38(b)](https://www.legislation.gov.uk/ssi/2012/177/regulation/38/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2012/177/regulation/3))

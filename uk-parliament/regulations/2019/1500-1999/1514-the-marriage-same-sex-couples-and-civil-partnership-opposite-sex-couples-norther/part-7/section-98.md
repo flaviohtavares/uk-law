@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Tax Credit (Appeals) Regulations (Northern Ireland) 2002[^key-3a61530404c4106fed260b0f75a40424]
+## 98. Tax Credit (Appeals) Regulations (Northern Ireland) 2002[^c-3a61530404c4106fed260b0f75a40424]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ In regulation 1(3) of the Tax Credits (Appeals) Regulations (Northern Ireland) 2
 
 ## Annotations
 
-[^key-3a61530404c4106fed260b0f75a40424]: Commencement: Reg. 98 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-3a61530404c4106fed260b0f75a40424]: Commencement: Reg. 98 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00161]: Footnote: [S.R. (N.I.) 2002/403](https://www.legislation.gov.uk/nisr/2002/403). In regulation 1(3), the definition of “couple” was inserted by paragraph 39 of Schedule 3 to [S.R. (N.I.) 2005/536](https://www.legislation.gov.uk/nisr/2005/536).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 228. Issue and use of forms[^key-3a4d3d19d4178601678aa850c7289eda]
+## 228. Issue and use of forms[^c-3a4d3d19d4178601678aa850c7289eda]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 8.2 of the 1986 Rules.
 
 ## Annotations
 
-[^key-3a4d3d19d4178601678aa850c7289eda]: Commencement: Rule 228 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-3a4d3d19d4178601678aa850c7289eda]: Commencement: Rule 228 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

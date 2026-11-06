@@ -35,18 +35,18 @@ renewing the membership of the Scientific and Technical Committee and repealing 
 
 (2013/412/Euratom) (revoked)
 
-[^key-06d2dbda502a697f117b4455bb8c6932]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-06d2dbda502a697f117b4455bb8c6932]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-06d2dbda502a697f117b4455bb8c6932] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-06d2dbda502a697f117b4455bb8c6932] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-06d2dbda502a697f117b4455bb8c6932] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-06d2dbda502a697f117b4455bb8c6932] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-06d2dbda502a697f117b4455bb8c6932] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-06d2dbda502a697f117b4455bb8c6932] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-06d2dbda502a697f117b4455bb8c6932]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-06d2dbda502a697f117b4455bb8c6932]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-06d2dbda502a697f117b4455bb8c6932]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)
+[^c-06d2dbda502a697f117b4455bb8c6932]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)

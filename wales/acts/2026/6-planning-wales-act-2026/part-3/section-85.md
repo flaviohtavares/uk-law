@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 85. Applications relating to urgent Crown development[^key-fa870d3cd1f9e0086793eefe2a8a7949]
+## 85. Applications relating to urgent Crown development[^c-fa870d3cd1f9e0086793eefe2a8a7949]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa870d3cd1f9e0086793eefe2a8a7949]: Commencement: S. 85 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-fa870d3cd1f9e0086793eefe2a8a7949]: Commencement: S. 85 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

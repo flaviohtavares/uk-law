@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 217. The consent form as evidence of signification of consent[^key-89992ef396e18dd2e5b6e3b99b13e780]
+## 217. The consent form as evidence of signification of consent[^c-89992ef396e18dd2e5b6e3b99b13e780]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The requirement in section 17(2) for consent to accept the risks involved in an 
 
 ## Annotations
 
-[^key-89992ef396e18dd2e5b6e3b99b13e780]: Commencement: Reg. 217 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-89992ef396e18dd2e5b6e3b99b13e780]: Commencement: Reg. 217 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

@@ -48,11 +48,11 @@ To be laid before Parliament
 
 The Lord Chancellor, in exercise of the powers conferred on him by paragraphs 14(2), 22(c), 23 and 50(3) of Schedule 15, and paragraph 14(4) of Schedule 17 to, the Civil Partnership Act 2004[^f00001], hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-2a049a1aaeae876b27ebf4e76588860c]
+## 1. Citation and commencement[^c-2a049a1aaeae876b27ebf4e76588860c]
 
 These Regulations may be cited as the Dissolution etc. (Pensions) Regulations (Northern Ireland) 2005 and shall come into operation on 5th December 2005.
 
-## 2. Interpretation[^key-84c1a1f371ece64c037c61f2f33c37aa]
+## 2. Interpretation[^c-84c1a1f371ece64c037c61f2f33c37aa]
 
 In these Regulations—
 
@@ -62,7 +62,7 @@ In these Regulations—
 - (d) expressions defined in paragraph 11 and 24 of Schedule 15 have the meanings assigned by those paragraphs;
 - (e) a reference to a rule by number alone is a reference to the rule so numbered in the Family Proceedings Rules (Northern Ireland) 1996[^f00002].
 
-## 3. Valuation[^key-79e293e55d386efe1b3b3b8373a7cc7b]
+## 3. Valuation[^c-79e293e55d386efe1b3b3b8373a7cc7b]
 
 (1) For the purpose of the court’s functions in connection with the exercise of any of its powers under Schedule 15 to the Act of 2004, benefits under a pension arrangement shall be calculated and verified in the manner set out in regulation 3 of the Pensions on Divorce etc. (Provision of Information) Regulations (Northern Ireland) 2000[^f00003], and—
 
@@ -74,10 +74,10 @@ In these Regulations—
 
 - (a) the Pensions on Divorce etc. (Provision of Information) Regulations (Northern Ireland) 2000;
 - (b) regulation 5 of, and Schedule 2 to, the Occupational Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1997[^f00004] and regulation 11 of, and Schedule 1 to, the Occupational Pension Schemes (Transfer Values) Regulations (Northern Ireland) 1996[^f00005];
-- (c) sections 89A and 90(1)[^key-41374b7f3b2efa04ced72787caf9f8c7] of the Pension Schemes (Northern Ireland) Act 1993[^f00006];
-- (d) section 90(2)[^key-620b16ae318e04260d7376ead5a9d90b] of the Pension Schemes (Northern Ireland) Act 1993 or paragraph 2(1) (or, where applicable, 2(2)) of Schedule 2 to the Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1987[^f00007].
+- (c) sections 89A and 90(1)[^c-41374b7f3b2efa04ced72787caf9f8c7] of the Pension Schemes (Northern Ireland) Act 1993[^f00006];
+- (d) section 90(2)[^c-620b16ae318e04260d7376ead5a9d90b] of the Pension Schemes (Northern Ireland) Act 1993 or paragraph 2(1) (or, where applicable, 2(2)) of Schedule 2 to the Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1987[^f00007].
 
-## 4. Pension attachment: notices[^key-ae1e9610c168f3a2a39dde7b82d48ad0]
+## 4. Pension attachment: notices[^c-ae1e9610c168f3a2a39dde7b82d48ad0]
 
 (1) This regulation applies in the circumstances set out in sub-paragraphs (a) and (b) of paragraph 22 of Schedule 15 (transfers of pension rights).
 
@@ -108,7 +108,7 @@ In these Regulations—
 - (a) within the period provided by section 95 of the Pension Schemes (Northern Ireland) Act 1993[^f00008] for the person responsible for the first arrangement to carry out what the member requires; and
 - (b) before the expiry of 21 days after the person responsible for the first arrangement has made all required payments to the person responsible for the new arrangement.
 
-## 5. Pension attachment: reduction in benefits[^key-4c99ce34c316c233e01acc696a0cafca]
+## 5. Pension attachment: reduction in benefits[^c-4c99ce34c316c233e01acc696a0cafca]
 
 (1) This regulation applies where—
 
@@ -124,7 +124,7 @@ In these Regulations—
 
 (3) Where the event mentioned in paragraph 1(b) consists of a transfer of some but not all of the rights of the civil partner with pension rights from the arrangement, the person responsible for the first arrangement shall, within 14 days of the transfer, give notice to the other civil partner of the name and address of the person responsible for any pension arrangement under which the civil partner with pension rights has acquired rights as a result of that event.
 
-## 6. Pension attachment: change of circumstances[^key-31823e8019f6f54de74dd817151657d0]
+## 6. Pension attachment: change of circumstances[^c-31823e8019f6f54de74dd817151657d0]
 
 (1) This regulation applies where—
 
@@ -148,7 +148,7 @@ In these Regulations—
 - (a) its liability to the civil partner with pension rights shall be discharged to the extent of that payment; and
 - (b) the other civil partner must, within 14 days of the payment being made, make a payment to the civil partner with pension rights to the extent of that payment.
 
-## 7. Pension attachment: transfer of rights[^key-e9147372902cd54608f80302884e669c][^key-a4d293b55ee471ee95771c1c55648586]
+## 7. Pension attachment: transfer of rights[^c-e9147372902cd54608f80302884e669c][^c-a4d293b55ee471ee95771c1c55648586]
 
 (1) This regulation applies where—
 
@@ -173,11 +173,11 @@ and the other civil partner shall be deemed to have given notice under regulatio
 
 (5) Upon complying with paragraph (4), the person responsible for the first arrangement shall be discharged from any further obligation under regulation 4 or 7(4), whether in relation to the event in question or any further event set out in regulation 6(2) which may be notified to that person by the other civil partner.
 
-## 8. Service[^key-5a0f4c8b2124f10be82ba90a62edf972][^key-ba541721d9981bba455f61c66650fdbf]
+## 8. Service[^c-5a0f4c8b2124f10be82ba90a62edf972][^c-ba541721d9981bba455f61c66650fdbf]
 
 A notice under regulation 4, 5, 6 or 7 may be sent by fax or by ordinary first class post to the last known address of the intended recipient and shall be deemed to have been received on the seventh day after the day on which it was sent.
 
-## 9. Pension sharing order not to take effect pending appeal[^key-c20a00702f97c84bcc8b3bbd19934f63]
+## 9. Pension sharing order not to take effect pending appeal[^c-c20a00702f97c84bcc8b3bbd19934f63]
 
 (1) No pension sharing order under Part 3 of Schedule 15, or variation of a pension sharing order under Part 10 of Schedule 15, shall take effect earlier than 7 days after the end of the period for filing notice of appeal against the order.
 
@@ -207,13 +207,13 @@ The Regulations provide in particular for:
 
 [^f00001]: Footnote: [c.33](https://www.legislation.gov.uk/ukpga/2004/33).
 
-[^key-2a049a1aaeae876b27ebf4e76588860c]: Commencement: Reg. 1 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/484/regulation/1)
+[^c-2a049a1aaeae876b27ebf4e76588860c]: Commencement: Reg. 1 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/484/regulation/1)
 
-[^key-84c1a1f371ece64c037c61f2f33c37aa]: Commencement: Reg. 2 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/484/regulation/1)
+[^c-84c1a1f371ece64c037c61f2f33c37aa]: Commencement: Reg. 2 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/484/regulation/1)
 
 [^f00002]: Footnote: [S.R. 1996 No. 322](https://www.legislation.gov.uk/nisr/1996/322) to which the most recent relevant amendments were made by [S.R. 2000 No. 329](https://www.legislation.gov.uk/nisr/2000/329) and [S.R. 2002 No. 137](https://www.legislation.gov.uk/nisr/2002/137).
 
-[^key-79e293e55d386efe1b3b3b8373a7cc7b]: Commencement: Reg. 3 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/484/regulation/1)
+[^c-79e293e55d386efe1b3b3b8373a7cc7b]: Commencement: Reg. 3 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/484/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2000 No. 142](https://www.legislation.gov.uk/nisr/2000/142).
 
@@ -221,28 +221,28 @@ The Regulations provide in particular for:
 
 [^f00005]: Footnote: [S.R. 1996 No. 619](https://www.legislation.gov.uk/nisr/1996/619).
 
-[^key-41374b7f3b2efa04ced72787caf9f8c7]: Textual amendment: Words in [reg. 3(2)(c)](https://www.legislation.gov.uk/nisr/2005/484/regulation/3/2/c) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [7(a)](https://www.legislation.gov.uk/nisr/2016/172/regulation/7/a)
+[^c-41374b7f3b2efa04ced72787caf9f8c7]: Textual amendment: Words in [reg. 3(2)(c)](https://www.legislation.gov.uk/nisr/2005/484/regulation/3/2/c) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [7(a)](https://www.legislation.gov.uk/nisr/2016/172/regulation/7/a)
 
 [^f00006]: Footnote: [c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 89A was inserted by Article 149 of the Pensions (Northern Ireland) Order 1995 (S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)) and amended by paragraph 23 of Schedule 9 to the Welfare Reform and Pensions (Northern Ireland) Order 1999; section 90 was amended by Article 150 of the Pensions (Northern Ireland) Order 1995 and paragraph 24 of Schedule 9 to the Welfare Reform and Pensions (Northern Ireland) Order 1999.
 
-[^key-620b16ae318e04260d7376ead5a9d90b]: Textual amendment: Words in [reg. 3(2)(d)](https://www.legislation.gov.uk/nisr/2005/484/regulation/3/2/d) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [7(b)](https://www.legislation.gov.uk/nisr/2016/172/regulation/7/b)
+[^c-620b16ae318e04260d7376ead5a9d90b]: Textual amendment: Words in [reg. 3(2)(d)](https://www.legislation.gov.uk/nisr/2005/484/regulation/3/2/d) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/172)](https://www.legislation.gov.uk/nisr/2016/172), [regs. 1](https://www.legislation.gov.uk/nisr/2016/172/regulation/1), [7(b)](https://www.legislation.gov.uk/nisr/2016/172/regulation/7/b)
 
 [^f00007]: Footnote: [S.R. 1987 No. 288](https://www.legislation.gov.uk/nisr/1987/288).
 
-[^key-ae1e9610c168f3a2a39dde7b82d48ad0]: Commencement: Reg. 4 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/484/regulation/1)
+[^c-ae1e9610c168f3a2a39dde7b82d48ad0]: Commencement: Reg. 4 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/484/regulation/1)
 
 [^f00008]: Footnote: Section 95 was amended by paragraph 8 of Schedule 4 to the Pensions (Northern Ireland) Order 1995 (S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213).
 
-[^key-4c99ce34c316c233e01acc696a0cafca]: Commencement: Reg. 5 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/484/regulation/1)
+[^c-4c99ce34c316c233e01acc696a0cafca]: Commencement: Reg. 5 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/484/regulation/1)
 
-[^key-31823e8019f6f54de74dd817151657d0]: Commencement: Reg. 6 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/484/regulation/1)
+[^c-31823e8019f6f54de74dd817151657d0]: Commencement: Reg. 6 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/484/regulation/1)
 
-[^key-e9147372902cd54608f80302884e669c]: Commencement: Reg. 7 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/484/regulation/1)
+[^c-e9147372902cd54608f80302884e669c]: Commencement: Reg. 7 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/484/regulation/1)
 
-[^key-a4d293b55ee471ee95771c1c55648586]: Modification: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/484/regulation/7) applied (with modifications) (14.8.2006) by [The Dissolution etc. (Pension Protection Fund) Regulations (Northern Ireland) 2006 (S.R. 2006/311)](https://www.legislation.gov.uk/nisr/2006/311), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/311/regulation/1/1), [5(a)](https://www.legislation.gov.uk/nisr/2006/311/regulation/5/a)
+[^c-a4d293b55ee471ee95771c1c55648586]: Modification: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/484/regulation/7) applied (with modifications) (14.8.2006) by [The Dissolution etc. (Pension Protection Fund) Regulations (Northern Ireland) 2006 (S.R. 2006/311)](https://www.legislation.gov.uk/nisr/2006/311), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/311/regulation/1/1), [5(a)](https://www.legislation.gov.uk/nisr/2006/311/regulation/5/a)
 
-[^key-5a0f4c8b2124f10be82ba90a62edf972]: Commencement: Reg. 8 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/484/regulation/1)
+[^c-5a0f4c8b2124f10be82ba90a62edf972]: Commencement: Reg. 8 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/484/regulation/1)
 
-[^key-ba541721d9981bba455f61c66650fdbf]: Modification: [Reg. 8](https://www.legislation.gov.uk/nisr/2005/484/regulation/8) applied (with modifications) (14.8.2006) by [The Dissolution etc. (Pension Protection Fund) Regulations (Northern Ireland) 2006 (S.R. 2006/311)](https://www.legislation.gov.uk/nisr/2006/311), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/311/regulation/1/1), [5(b)](https://www.legislation.gov.uk/nisr/2006/311/regulation/5/b)
+[^c-ba541721d9981bba455f61c66650fdbf]: Modification: [Reg. 8](https://www.legislation.gov.uk/nisr/2005/484/regulation/8) applied (with modifications) (14.8.2006) by [The Dissolution etc. (Pension Protection Fund) Regulations (Northern Ireland) 2006 (S.R. 2006/311)](https://www.legislation.gov.uk/nisr/2006/311), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/311/regulation/1/1), [5(b)](https://www.legislation.gov.uk/nisr/2006/311/regulation/5/b)
 
-[^key-c20a00702f97c84bcc8b3bbd19934f63]: Commencement: Reg. 9 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/484/regulation/1)
+[^c-c20a00702f97c84bcc8b3bbd19934f63]: Commencement: Reg. 9 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/484/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Power to require providers of internet services to prevent or restrict access by children to internet services[^key-de4aded73b100aabb2af9d744a24abeb]
+## 70. Power to require providers of internet services to prevent or restrict access by children to internet services[^c-de4aded73b100aabb2af9d744a24abeb]
 
 *Extent: E+W+S+N.I.*
 
@@ -98,4 +98,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de4aded73b100aabb2af9d744a24abeb]: Commencement: S. 70 in force at Royal Assent, see [s. 78(1)(b)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/b)
+[^c-de4aded73b100aabb2af9d744a24abeb]: Commencement: S. 70 in force at Royal Assent, see [s. 78(1)(b)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 186. Third excepted case[^key-5b964fdfcea89fd5d1b47a4570b7fd3b]
+## 186. Third excepted case[^c-5b964fdfcea89fd5d1b47a4570b7fd3b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.230 of the 1986 Rules. In paragraph (a), for “liquidating company
 
 ## Annotations
 
-[^key-5b964fdfcea89fd5d1b47a4570b7fd3b]: Commencement: Rule 186 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-5b964fdfcea89fd5d1b47a4570b7fd3b]: Commencement: Rule 186 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

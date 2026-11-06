@@ -66,18 +66,18 @@ In these Regulations—
 
 (1) Subject to paragraphs (2) and (3), these Regulations apply to the paints, varnishes and vehicle refinishing products as defined in Schedule 1 (“relevant products”).
 
-(2)[^key-81222a4c49948695eb0e8b11ec3adb65] These Regulations apply to relevant products that—
+(2)[^c-81222a4c49948695eb0e8b11ec3adb65] These Regulations apply to relevant products that—
 
 - (a) are to be used in any part of the United Kingdom, and
 - (b) in Northern Ireland are to be used in a country or territory in the customs territory of the European Union.
 
-(3) These Regulations do not apply to products which are sold for exclusive use in an a solvent emission activity[^key-b42cf8ce2f1f3749011bfb81baf84d60] .
+(3) These Regulations do not apply to products which are sold for exclusive use in an a solvent emission activity[^c-b42cf8ce2f1f3749011bfb81baf84d60] .
 
 (4) In this regulation—
 
-- “solvent emission activity[^key-6d5455d6adac6a52635a7e02d9d1851e]” means any activity falling within—
-  - (a) Schedule 14 to the Environmental Permitting (England and Wales) Regulations 2016;[^key-22ac2bd5f6f0af03e1046e9f413335f1]
-  - (b) Schedule 23 (organic solvent emissions activities) of the Environmental Authorisations (Scotland) Regulations 2018.[^key-9aacc26b58dc204d42cc28c1591dbe6b]
+- “solvent emission activity[^c-6d5455d6adac6a52635a7e02d9d1851e]” means any activity falling within—
+  - (a) Schedule 14 to the Environmental Permitting (England and Wales) Regulations 2016;[^c-22ac2bd5f6f0af03e1046e9f413335f1]
+  - (b) Schedule 23 (organic solvent emissions activities) of the Environmental Authorisations (Scotland) Regulations 2018.[^c-9aacc26b58dc204d42cc28c1591dbe6b]
   - (c) section 7 of Part 1 of Schedule 1 to the Pollution Prevention and Control Regulations (Northern Ireland) 2003[^f00005].
 
 ## 4. Limitations on marketing paints and varnishes and vehicle refinishing products
@@ -107,7 +107,7 @@ In these Regulations—
 - (a) in England and Wales, by the local authority;
 - (b) in Scotland—
   - (i) by the local authority;
-  - (ii) by the Scottish Environment Protection Agency in relation to any point of use or productive process regulated by that agency under the[^key-5c5419afda0a8fff2dba5c34d489b0d4] Environmental Authorisations (Scotland) Regulations 2018[^key-cee2332c969647cc5a92f2649f4231dd];
+  - (ii) by the Scottish Environment Protection Agency in relation to any point of use or productive process regulated by that agency under the[^c-5c5419afda0a8fff2dba5c34d489b0d4] Environmental Authorisations (Scotland) Regulations 2018[^c-cee2332c969647cc5a92f2649f4231dd];
 - (c) in Northern Ireland, by the district council in accordance with the enforcement provisions set out in Schedule 4.
 
 (2) Where a local authority in England enforces these regulations, sections 108 and 110 of the Environment Act 1995[^f00006] apply as if that local authority were an enforcing authority for the purposes of section 108.
@@ -416,21 +416,21 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68), as amended by the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
 
-[^key-81222a4c49948695eb0e8b11ec3adb65]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2012/1715/regulation/3/2) substituted (31.12.2020) by S.I. 2019/74, reg. 5 (as substituted by [The Air Quality (Amendment) (Northern Ireland Protocol) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1352)](https://www.legislation.gov.uk/uksi/2020/1352), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1352/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2020/1352/regulation/3/2))
+[^c-81222a4c49948695eb0e8b11ec3adb65]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2012/1715/regulation/3/2) substituted (31.12.2020) by S.I. 2019/74, reg. 5 (as substituted by [The Air Quality (Amendment) (Northern Ireland Protocol) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1352)](https://www.legislation.gov.uk/uksi/2020/1352), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1352/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2020/1352/regulation/3/2))
 
-[^key-b42cf8ce2f1f3749011bfb81baf84d60]: Textual amendment: Words in reg. 3(3) substituted (E.W.S.) (27.2.2013) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2013 (S.I. 2013/390)](https://www.legislation.gov.uk/uksi/2013/390), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2013/390/regulation/2/1), [57(2)](https://www.legislation.gov.uk/uksi/2013/390/regulation/57/2)
+[^c-b42cf8ce2f1f3749011bfb81baf84d60]: Textual amendment: Words in reg. 3(3) substituted (E.W.S.) (27.2.2013) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2013 (S.I. 2013/390)](https://www.legislation.gov.uk/uksi/2013/390), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2013/390/regulation/2/1), [57(2)](https://www.legislation.gov.uk/uksi/2013/390/regulation/57/2)
 
-[^key-6d5455d6adac6a52635a7e02d9d1851e]: Textual amendment: Words in reg. 3(4) substituted (E.W.S.) (27.2.2013) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2013 (S.I. 2013/390)](https://www.legislation.gov.uk/uksi/2013/390), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2013/390/regulation/2/1), [57(3)(a)](https://www.legislation.gov.uk/uksi/2013/390/regulation/57/3/a)
+[^c-6d5455d6adac6a52635a7e02d9d1851e]: Textual amendment: Words in reg. 3(4) substituted (E.W.S.) (27.2.2013) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2013 (S.I. 2013/390)](https://www.legislation.gov.uk/uksi/2013/390), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2013/390/regulation/2/1), [57(3)(a)](https://www.legislation.gov.uk/uksi/2013/390/regulation/57/3/a)
 
-[^key-22ac2bd5f6f0af03e1046e9f413335f1]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2012/1715/regulation/3/4) substituted (E.W.) (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 40](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/40) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-22ac2bd5f6f0af03e1046e9f413335f1]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2012/1715/regulation/3/4) substituted (E.W.) (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 40](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/40) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-9aacc26b58dc204d42cc28c1591dbe6b]: Textual amendment: [Reg. 3(4)(b)](https://www.legislation.gov.uk/uksi/2012/1715/regulation/3/4/b) substituted (S.) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 21(2)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/21/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-9aacc26b58dc204d42cc28c1591dbe6b]: Textual amendment: [Reg. 3(4)(b)](https://www.legislation.gov.uk/uksi/2012/1715/regulation/3/4/b) substituted (S.) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 21(2)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/21/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^f00005]: Footnote: [S.R. 2003 No. 46](https://www.legislation.gov.uk/nisr/2003/46), relevant amending instruments are [S.R. 2004 No. 36](https://www.legislation.gov.uk/nisr/2004/36), [S.R. 2005 No. 229](https://www.legislation.gov.uk/nisr/2005/229), [S.R. 2005 No.285](https://www.legislation.gov.uk/nisr/2005/285), and [S.R. 2005 No. 454](https://www.legislation.gov.uk/nisr/2005/454).
 
-[^key-5c5419afda0a8fff2dba5c34d489b0d4]: Textual amendment: Words in reg. 6(1)(b)(ii) substituted (S.) (7.1.2013) by [The Pollution Prevention and Control (Scotland) Regulations 2012 (S.S.I. 2012/360)](https://www.legislation.gov.uk/ssi/2012/360), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/360/regulation/1/2), [sch. 11 para. 27(3)](https://www.legislation.gov.uk/ssi/2012/360/schedule/11/paragraph/27/3) (with [reg. 71](https://www.legislation.gov.uk/ssi/2012/360/regulation/71))
+[^c-5c5419afda0a8fff2dba5c34d489b0d4]: Textual amendment: Words in reg. 6(1)(b)(ii) substituted (S.) (7.1.2013) by [The Pollution Prevention and Control (Scotland) Regulations 2012 (S.S.I. 2012/360)](https://www.legislation.gov.uk/ssi/2012/360), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/360/regulation/1/2), [sch. 11 para. 27(3)](https://www.legislation.gov.uk/ssi/2012/360/schedule/11/paragraph/27/3) (with [reg. 71](https://www.legislation.gov.uk/ssi/2012/360/regulation/71))
 
-[^key-cee2332c969647cc5a92f2649f4231dd]: Textual amendment: Words in reg. 6(1)(b)(ii) substituted (S.) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 21(3)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/21/3) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-cee2332c969647cc5a92f2649f4231dd]: Textual amendment: Words in reg. 6(1)(b)(ii) substituted (S.) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 21(3)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/21/3) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^f00006]: Footnote: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), as amended by section 6 of and Schedule 3 to the Pollution Prevention and Control Act [1999 (c. 24)](https://www.legislation.gov.uk/ukpga/1999/24), [S.I. 2000/1973](https://www.legislation.gov.uk/uksi/2000/1973), section 55 of the Anti-social Behaviour Act [2003 (c. 38)](https://www.legislation.gov.uk/ukpga/2003/38) and section 53 of the Clean Neighbourhoods and Environment Act [2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16).
 

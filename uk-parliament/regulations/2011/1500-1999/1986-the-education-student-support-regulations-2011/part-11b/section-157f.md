@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 157F. Maximum amount of loans for living costs: general[^key-38517a92bbf535ed07f05c172588bf2e]
+## 157F. Maximum amount of loans for living costs: general[^c-38517a92bbf535ed07f05c172588bf2e]
 
 *Extent: E+W*
 
@@ -35,9 +35,9 @@ summary: ''
 - (f) where the intensity of study is 75 per cent or more, but less than 100 per cent, the relevant intensity of study is 75 per cent;
 - (g) where the intensity of study is 100 per cent or higher, the relevant intensity of study is 100 per cent.
 
-(3) An eligible part-time student with reduced entitlement is an eligible part-time student , other than an eligible part-time care leaver,[^key-828374b3139dcde62dd5d89a6360cab5] who opts, when applying for a loan for living costs, not to provide the information needed to calculate the household income.
+(3) An eligible part-time student with reduced entitlement is an eligible part-time student , other than an eligible part-time care leaver,[^c-828374b3139dcde62dd5d89a6360cab5] who opts, when applying for a loan for living costs, not to provide the information needed to calculate the household income.
 
-(4) [^key-185ca04619f20aead965f0b2cfed4b7e]... In this Part—
+(4) [^c-185ca04619f20aead965f0b2cfed4b7e]... In this Part—
 
 - (a) an eligible part-time student (“X”) is in category A if X resides at X’s parents’ home while attending the designated part-time course;
 - (b) an eligible part-time student (“Y”) is in category B if Y is not in category A and Y attends one or more of the following—
@@ -51,8 +51,8 @@ summary: ''
 
 ## Annotations
 
-[^key-38517a92bbf535ed07f05c172588bf2e]: Textual amendment: Pt. 11B inserted (with application in accordance with reg. 1(2)(b) of the amending S.I.) by [The Education (Student Support) (Amendment) (No. 3) Regulations 2018 (S.I. 2018/472)](https://www.legislation.gov.uk/uksi/2018/472), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/472/regulation/1/2/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2018/472/schedule/1)
+[^c-38517a92bbf535ed07f05c172588bf2e]: Textual amendment: Pt. 11B inserted (with application in accordance with reg. 1(2)(b) of the amending S.I.) by [The Education (Student Support) (Amendment) (No. 3) Regulations 2018 (S.I. 2018/472)](https://www.legislation.gov.uk/uksi/2018/472), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/472/regulation/1/2/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2018/472/schedule/1)
 
-[^key-828374b3139dcde62dd5d89a6360cab5]: Textual amendment: Words in [reg. 157F(3)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/157F/3) inserted (with application in accordance with reg. 2(2)(b)(4) of the amending S.I.) by [The Education (Student Fees, Awards, Support and Loan Repayments) (Amendment) Regulations 2026 (S.I. 2026/130)](https://www.legislation.gov.uk/uksi/2026/130), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/130/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/130/regulation/2/2/b)[(4)](https://www.legislation.gov.uk/uksi/2026/130/regulation/2/4), [8(9)](https://www.legislation.gov.uk/uksi/2026/130/regulation/8/9)
+[^c-828374b3139dcde62dd5d89a6360cab5]: Textual amendment: Words in [reg. 157F(3)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/157F/3) inserted (with application in accordance with reg. 2(2)(b)(4) of the amending S.I.) by [The Education (Student Fees, Awards, Support and Loan Repayments) (Amendment) Regulations 2026 (S.I. 2026/130)](https://www.legislation.gov.uk/uksi/2026/130), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/130/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/130/regulation/2/2/b)[(4)](https://www.legislation.gov.uk/uksi/2026/130/regulation/2/4), [8(9)](https://www.legislation.gov.uk/uksi/2026/130/regulation/8/9)
 
-[^key-185ca04619f20aead965f0b2cfed4b7e]: Textual amendment: Words in [reg. 157F(4)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/157F/4) omitted (23.12.2021) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [15(4)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/15/4)
+[^c-185ca04619f20aead965f0b2cfed4b7e]: Textual amendment: Words in [reg. 157F(4)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/157F/4) omitted (23.12.2021) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [15(4)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/15/4)

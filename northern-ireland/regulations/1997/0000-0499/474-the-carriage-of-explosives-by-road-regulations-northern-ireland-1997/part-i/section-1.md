@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-a2ce66ec31bc08a4891f43a765b77b06]
+## 1. Citation and commencement[^c-a2ce66ec31bc08a4891f43a765b77b06]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Carriage of Explosives by Road Regulations
 
 ## Annotations
 
-[^key-a2ce66ec31bc08a4891f43a765b77b06]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-a2ce66ec31bc08a4891f43a765b77b06]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)

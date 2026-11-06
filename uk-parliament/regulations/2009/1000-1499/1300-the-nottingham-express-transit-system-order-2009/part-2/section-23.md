@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Power to construct temporary street tramway[^key-bded9058a7047a0b47b38fdad40a4a87]
+## 23. Power to construct temporary street tramway[^c-bded9058a7047a0b47b38fdad40a4a87]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bded9058a7047a0b47b38fdad40a4a87]: Commencement: Art. 23 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-bded9058a7047a0b47b38fdad40a4a87]: Commencement: Art. 23 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

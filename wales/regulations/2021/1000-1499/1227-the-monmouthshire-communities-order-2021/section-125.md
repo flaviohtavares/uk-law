@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 125. Llanbadoc — community electoral arrangements[^key-7906b9d8b684b85ce3b8101d1974d898][^key-ad185e794ac605cd0112f30493fa481b]
+## 125. Llanbadoc — community electoral arrangements[^c-7906b9d8b684b85ce3b8101d1974d898][^c-ad185e794ac605cd0112f30493fa481b]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ In the community of Llanbadoc the number of councillors to be elected for the—
 
 ## Annotations
 
-[^key-7906b9d8b684b85ce3b8101d1974d898]: Commencement: Art. 125 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-7906b9d8b684b85ce3b8101d1974d898]: Commencement: Art. 125 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-ad185e794ac605cd0112f30493fa481b]: Commencement: [Art. 125](https://www.legislation.gov.uk/wsi/2021/1227/article/125) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-ad185e794ac605cd0112f30493fa481b]: Commencement: [Art. 125](https://www.legislation.gov.uk/wsi/2021/1227/article/125) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

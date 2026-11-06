@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 97. Use of fixed penalty receipts: lower tier authorities[^key-8b39169e5e6e4401b6345d7431283446][^key-0fbf537eabb60b7c7ab02cfe385cb848][^key-9626ba1b52dd6e707b96b0327e5aa55d]
+## 97. Use of fixed penalty receipts: lower tier authorities[^c-8b39169e5e6e4401b6345d7431283446][^c-0fbf537eabb60b7c7ab02cfe385cb848][^c-9626ba1b52dd6e707b96b0327e5aa55d]
 
 *Extent: E+W*
 
@@ -39,8 +39,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8b39169e5e6e4401b6345d7431283446]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2005/16/section/97) in force at 14.3.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/795/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/795/schedule/1)
+[^c-8b39169e5e6e4401b6345d7431283446]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2005/16/section/97) in force at 14.3.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/795/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/795/schedule/1)
 
-[^key-0fbf537eabb60b7c7ab02cfe385cb848]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2005/16/section/97) in force at 16.3.2006 for specified purposes for W. by [S.I. 2006/768](https://www.legislation.gov.uk/wsi/2006/768), [art. 3](https://www.legislation.gov.uk/wsi/2006/768/article/3)
+[^c-0fbf537eabb60b7c7ab02cfe385cb848]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2005/16/section/97) in force at 16.3.2006 for specified purposes for W. by [S.I. 2006/768](https://www.legislation.gov.uk/wsi/2006/768), [art. 3](https://www.legislation.gov.uk/wsi/2006/768/article/3)
 
-[^key-9626ba1b52dd6e707b96b0327e5aa55d]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2005/16/section/97) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. in so far as not already in force by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(mm)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/mm)
+[^c-9626ba1b52dd6e707b96b0327e5aa55d]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2005/16/section/97) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. in so far as not already in force by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(mm)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/mm)

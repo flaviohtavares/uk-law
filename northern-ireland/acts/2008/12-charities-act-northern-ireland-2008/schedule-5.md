@@ -44,9 +44,9 @@ Section 57(2).
 
 **2.**[^c22542431] (1) In paragraph 1(2)(c) “**child**” includes a stepchild.
 
-(2) For the purposes of paragraph 1(2)(e) a person living with another as that person's spouse[^key-004e9eb4f9f4ba3e613bc90ee1d8b8ae] shall be treated as that person's spouse.
+(2) For the purposes of paragraph 1(2)(e) a person living with another as that person's spouse[^c-004e9eb4f9f4ba3e613bc90ee1d8b8ae] shall be treated as that person's spouse.
 
-(3)[^key-c78a52e4339fc1709b551c1586f31d17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c78a52e4339fc1709b551c1586f31d17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.**[^c22542441] For the purposes of paragraph 1(2)(g) a person controls an institution if that person is able to secure that the affairs of the institution are conducted in accordance with the wishes of that person.
 
@@ -65,9 +65,9 @@ Section 57(2).
 
 [^c22542431]: Commencement: Sch. 5 para. 2 partly in operation; Sch. 5 para. 2 not in operation at Royal Assent see s. 185(1); Sch. 5 para. 2 in operation for certain purposes at 18.2.2011 by [S.R. 2011/11](https://www.legislation.gov.uk/nisr/2011/11), [art. 2](https://www.legislation.gov.uk/nisr/2011/11/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/11/schedule)
 
-[^key-004e9eb4f9f4ba3e613bc90ee1d8b8ae]: Textual amendment: Word in [Sch. 5 para. 2(2)](https://www.legislation.gov.uk/nia/2008/12/schedule/5/paragraph/2/2) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [146(2)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/146/2/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-004e9eb4f9f4ba3e613bc90ee1d8b8ae]: Textual amendment: Word in [Sch. 5 para. 2(2)](https://www.legislation.gov.uk/nia/2008/12/schedule/5/paragraph/2/2) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [146(2)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/146/2/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-c78a52e4339fc1709b551c1586f31d17]: Textual amendment: [Sch. 5 para. 2(3)](https://www.legislation.gov.uk/nia/2008/12/schedule/5/paragraph/2/3) omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [146(2)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/146/2/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-c78a52e4339fc1709b551c1586f31d17]: Textual amendment: [Sch. 5 para. 2(3)](https://www.legislation.gov.uk/nia/2008/12/schedule/5/paragraph/2/3) omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [146(2)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/146/2/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c22542441]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/nia/2008/12/schedule/5/paragraph/3) partly in operation; [Sch. 5 para. 3](https://www.legislation.gov.uk/nia/2008/12/schedule/5/paragraph/3) not in operation at Royal Assent see [s. 185(1)](https://www.legislation.gov.uk/nia/2008/12/section/185/1); [Sch. 5 para. 3](https://www.legislation.gov.uk/nia/2008/12/schedule/5/paragraph/3) in operation for certain purposes at 18.2.2011 by [S.R. 2011/11](https://www.legislation.gov.uk/nisr/2011/11), [art. 2](https://www.legislation.gov.uk/nisr/2011/11/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/11/schedule)
 

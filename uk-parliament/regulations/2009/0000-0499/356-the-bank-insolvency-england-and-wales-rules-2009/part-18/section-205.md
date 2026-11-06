@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 205. Warrants under section 236[^key-2fb0fb9ffde9ba01a452cb7656cb170b]
+## 205. Warrants under section 236[^c-2fb0fb9ffde9ba01a452cb7656cb170b]
 
 *Extent: E+W*
 
-Apply rule 7.23 of the 1986 Rules. In paragraph (1), leave out “251N[^key-ea800b00c484bc4f6c9f54457796c905] or 366 (the equivalent in bankruptcy)”.
+Apply rule 7.23 of the 1986 Rules. In paragraph (1), leave out “251N[^c-ea800b00c484bc4f6c9f54457796c905] or 366 (the equivalent in bankruptcy)”.
 
 ## Annotations
 
-[^key-2fb0fb9ffde9ba01a452cb7656cb170b]: Commencement: Rule 205 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-2fb0fb9ffde9ba01a452cb7656cb170b]: Commencement: Rule 205 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
-[^key-ea800b00c484bc4f6c9f54457796c905]: Textual amendment: Word in [rule 205](https://www.legislation.gov.uk/uksi/2009/356/rule/205) inserted (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [63](https://www.legislation.gov.uk/uksi/2010/2579/rule/63)
+[^c-ea800b00c484bc4f6c9f54457796c905]: Textual amendment: Word in [rule 205](https://www.legislation.gov.uk/uksi/2009/356/rule/205) inserted (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [63](https://www.legislation.gov.uk/uksi/2010/2579/rule/63)

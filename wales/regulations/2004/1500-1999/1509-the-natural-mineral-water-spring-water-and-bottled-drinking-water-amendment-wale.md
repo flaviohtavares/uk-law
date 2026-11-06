@@ -30,7 +30,7 @@ summary: ''
 
 FOOD, WALES
 
-The Natural Mineral Water, Spring Water and Bottled Drinking Water (Amendment) (Wales) Regulations 2004 (revoked)[^key-b815f9a422f3173de50a6cfeea8ca813]
+The Natural Mineral Water, Spring Water and Bottled Drinking Water (Amendment) (Wales) Regulations 2004 (revoked)[^c-b815f9a422f3173de50a6cfeea8ca813]
 
 Made
 
@@ -46,86 +46,86 @@ Regulations 5, 8(2), 11(a) and 12(2)
 
 1 July 2004
 
-[^key-b815f9a422f3173de50a6cfeea8ca813]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b815f9a422f3173de50a6cfeea8ca813]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-b815f9a422f3173de50a6cfeea8ca813]
+## 1. Title, commencement and application[^c-b815f9a422f3173de50a6cfeea8ca813]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Natural Mineral Water, Spring Water and Bottled Drinking Water Regulations 1999[^key-b815f9a422f3173de50a6cfeea8ca813]
+## 2. Amendments to the Natural Mineral Water, Spring Water and Bottled Drinking Water Regulations 1999[^c-b815f9a422f3173de50a6cfeea8ca813]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-b815f9a422f3173de50a6cfeea8ca813]
+## 3.[^c-b815f9a422f3173de50a6cfeea8ca813]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-b815f9a422f3173de50a6cfeea8ca813]
+## 4.[^c-b815f9a422f3173de50a6cfeea8ca813]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-b815f9a422f3173de50a6cfeea8ca813]
+## 5.[^c-b815f9a422f3173de50a6cfeea8ca813]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-b815f9a422f3173de50a6cfeea8ca813]
+## 6.[^c-b815f9a422f3173de50a6cfeea8ca813]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-b815f9a422f3173de50a6cfeea8ca813]
+## 7.[^c-b815f9a422f3173de50a6cfeea8ca813]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-b815f9a422f3173de50a6cfeea8ca813]
+## 8.[^c-b815f9a422f3173de50a6cfeea8ca813]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-b815f9a422f3173de50a6cfeea8ca813]
+## 9.[^c-b815f9a422f3173de50a6cfeea8ca813]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-b815f9a422f3173de50a6cfeea8ca813]
+## 10.[^c-b815f9a422f3173de50a6cfeea8ca813]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11.[^key-b815f9a422f3173de50a6cfeea8ca813]
+## 11.[^c-b815f9a422f3173de50a6cfeea8ca813]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12.[^key-b815f9a422f3173de50a6cfeea8ca813]
+## 12.[^c-b815f9a422f3173de50a6cfeea8ca813]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13.[^key-b815f9a422f3173de50a6cfeea8ca813]
+## 13.[^c-b815f9a422f3173de50a6cfeea8ca813]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14.[^key-b815f9a422f3173de50a6cfeea8ca813]
+## 14.[^c-b815f9a422f3173de50a6cfeea8ca813]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Consequential amendments[^key-b815f9a422f3173de50a6cfeea8ca813]
+## 15. Consequential amendments[^c-b815f9a422f3173de50a6cfeea8ca813]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b815f9a422f3173de50a6cfeea8ca813]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b815f9a422f3173de50a6cfeea8ca813]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — SCHEDULES 5, 6 AND 7 TO BE ADDED TO THE NATURAL MINERAL WATER, SPRING WATER AND BOTTLED DRINKING WATER REGULATIONS 1999[^key-b815f9a422f3173de50a6cfeea8ca813]
+## SCHEDULE — SCHEDULES 5, 6 AND 7 TO BE ADDED TO THE NATURAL MINERAL WATER, SPRING WATER AND BOTTLED DRINKING WATER REGULATIONS 1999[^c-b815f9a422f3173de50a6cfeea8ca813]
 
 Regulation 14
 
-[^key-b815f9a422f3173de50a6cfeea8ca813]
+[^c-b815f9a422f3173de50a6cfeea8ca813]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b815f9a422f3173de50a6cfeea8ca813]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b815f9a422f3173de50a6cfeea8ca813]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b815f9a422f3173de50a6cfeea8ca813]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)
+[^c-b815f9a422f3173de50a6cfeea8ca813]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)

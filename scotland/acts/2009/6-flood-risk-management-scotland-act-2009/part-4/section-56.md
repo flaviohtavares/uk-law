@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. General power to manage flood risk[^key-d7bc4c20a19a7aef7fd21408176785f6]
+## 56. General power to manage flood risk[^c-d7bc4c20a19a7aef7fd21408176785f6]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d7bc4c20a19a7aef7fd21408176785f6]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2009/6/section/56) in force at 24.12.2010 by [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(a)](https://www.legislation.gov.uk/ssi/2010/401/article/3/a)
+[^c-d7bc4c20a19a7aef7fd21408176785f6]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2009/6/section/56) in force at 24.12.2010 by [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(a)](https://www.legislation.gov.uk/ssi/2010/401/article/3/a)

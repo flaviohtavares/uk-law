@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Introductory[^key-56d23231ebb2184242fa664e2d7bbe97]
+## 146. Introductory[^c-56d23231ebb2184242fa664e2d7bbe97]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Health and Social Work Professions Order 2001[^f00099] is amended in accorda
 
 ## Annotations
 
-[^key-56d23231ebb2184242fa664e2d7bbe97]: Commencement: Reg. 146 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-56d23231ebb2184242fa664e2d7bbe97]: Commencement: Reg. 146 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00099]: Footnote: [S.I. 2002/254](https://www.legislation.gov.uk/uksi/2002/254), the title of which was substituted by section 213 of the Health and Social Care Act 2012.

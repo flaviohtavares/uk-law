@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Pension credit member’s rights[^key-d6863b6eaf326a21207d198387d0863d]
+## 88. Pension credit member’s rights[^c-d6863b6eaf326a21207d198387d0863d]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6863b6eaf326a21207d198387d0863d]: Commencement: [Reg. 88](https://www.legislation.gov.uk/uksi/2015/182/regulation/88) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-d6863b6eaf326a21207d198387d0863d]: Commencement: [Reg. 88](https://www.legislation.gov.uk/uksi/2015/182/regulation/88) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4.9. Vulnerable witnesses[^key-9bbb7e10bd6aa070e78baba5ec78f901]
+## 4.9. Vulnerable witnesses[^c-9bbb7e10bd6aa070e78baba5ec78f901]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 6 makes provision about vulnerable witnesses.
 
 ## Annotations
 
-[^key-9bbb7e10bd6aa070e78baba5ec78f901]: Commencement: [Rule 4.9](https://www.legislation.gov.uk/ssi/2017/103/rule/4.9) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-9bbb7e10bd6aa070e78baba5ec78f901]: Commencement: [Rule 4.9](https://www.legislation.gov.uk/ssi/2017/103/rule/4.9) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

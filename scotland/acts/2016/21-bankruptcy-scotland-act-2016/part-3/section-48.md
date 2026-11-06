@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Proceedings before trustee vote[^key-9698b117a51f78256172792cf5fd200c]
+## 48. Proceedings before trustee vote[^c-9698b117a51f78256172792cf5fd200c]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9698b117a51f78256172792cf5fd200c]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2016/21/section/48) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-9698b117a51f78256172792cf5fd200c]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2016/21/section/48) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

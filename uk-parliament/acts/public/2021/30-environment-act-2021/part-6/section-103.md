@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Biodiversity reports[^key-6544e8cc14e435d0938ea5ca660d9b52][^key-14f05e28e0516dda0a94558ee6537f15]
+## 103. Biodiversity reports[^c-6544e8cc14e435d0938ea5ca660d9b52][^c-14f05e28e0516dda0a94558ee6537f15]
 
 *Extent: E+W*
 
@@ -77,6 +77,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6544e8cc14e435d0938ea5ca660d9b52]: Commencement: S. 103 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-6544e8cc14e435d0938ea5ca660d9b52]: Commencement: S. 103 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-14f05e28e0516dda0a94558ee6537f15]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2021/30/section/103) in force at 1.1.2023 by [S.I. 2022/1266](https://www.legislation.gov.uk/uksi/2022/1266), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/1266/regulation/2/b)
+[^c-14f05e28e0516dda0a94558ee6537f15]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2021/30/section/103) in force at 1.1.2023 by [S.I. 2022/1266](https://www.legislation.gov.uk/uksi/2022/1266), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/1266/regulation/2/b)

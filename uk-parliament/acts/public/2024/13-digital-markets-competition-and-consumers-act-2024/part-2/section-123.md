@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Additional powers of seizure from domestic premises[^key-73f2c505dfcb0e54c2f2010e4f8406c3][^key-5bfeb5be1638670049ffe355e6bcc713]
+## 123. Additional powers of seizure from domestic premises[^c-73f2c505dfcb0e54c2f2010e4f8406c3][^c-5bfeb5be1638670049ffe355e6bcc713]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-73f2c505dfcb0e54c2f2010e4f8406c3]: Commencement: S. 123 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-73f2c505dfcb0e54c2f2010e4f8406c3]: Commencement: S. 123 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-5bfeb5be1638670049ffe355e6bcc713]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2024/13/section/123) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/2) (with [Sch. paras. 2](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-5bfeb5be1638670049ffe355e6bcc713]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2024/13/section/123) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/2) (with [Sch. paras. 2](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))

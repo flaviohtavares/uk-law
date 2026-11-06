@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18A. Amended determinations[^key-7a96d45e291302e76a4ceb2a51f2feb6]
+## 18A. Amended determinations[^c-7a96d45e291302e76a4ceb2a51f2feb6]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a96d45e291302e76a4ceb2a51f2feb6]: Textual amendment: Reg. 18A inserted (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/3), [10](https://www.legislation.gov.uk/uksi/2007/2868/regulation/10) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/6))
+[^c-7a96d45e291302e76a4ceb2a51f2feb6]: Textual amendment: Reg. 18A inserted (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/3), [10](https://www.legislation.gov.uk/uksi/2007/2868/regulation/10) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/6))

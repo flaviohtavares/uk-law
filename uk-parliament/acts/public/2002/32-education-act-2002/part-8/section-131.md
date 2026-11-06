@@ -27,7 +27,7 @@ summary: ''
 
 (2) The regulations may impose a duty on—
 
-- (a) a local authority[^key-379c0a8ab791aad4cda0b42dbea5f020];
+- (a) a local authority[^c-379c0a8ab791aad4cda0b42dbea5f020];
 - (b) the governing body of a school or institution;
 - (c) the head teacher of a school or the principal of an institution.
 
@@ -42,19 +42,19 @@ summary: ''
 
 (6) Before making regulations under this section the Secretary of State shall consult such of the following as appear to him to be appropriate—
 
-- (a) associations of local authorities[^key-0b83dc4852763b67d3e91bf8700f3c44] in England,
+- (a) associations of local authorities[^c-0b83dc4852763b67d3e91bf8700f3c44] in England,
 - (b) local authorities in England,
 - (c) bodies representing the interests of governing bodies in England,
-- (d) bodies representing the interests of teachers in England, [^key-5e280ba36e8ca4dac70899266863a84d]...
-- (e)[^key-5e280ba36e8ca4dac70899266863a84d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) bodies representing the interests of teachers in England, [^c-5e280ba36e8ca4dac70899266863a84d]...
+- (e)[^c-5e280ba36e8ca4dac70899266863a84d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Before making regulations under this section the National Assembly for Wales shall consult such of the following as appear to it to be appropriate—
 
 - (a) associations of local authorities in Wales,
 - (b) local authorities in Wales,
-- (c) bodies representing the interests of governing bodies in Wales, and[^key-1dffcd6039c27e4421905203add893f0]
-- (d) bodies representing the interests of teachers in Wales, [^key-ba394f72a4376aa1fcdeac72b32747a0]...
-- (e)[^key-ba394f72a4376aa1fcdeac72b32747a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) bodies representing the interests of governing bodies in Wales, and[^c-1dffcd6039c27e4421905203add893f0]
+- (d) bodies representing the interests of teachers in Wales, [^c-ba394f72a4376aa1fcdeac72b32747a0]...
+- (e)[^c-ba394f72a4376aa1fcdeac72b32747a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) Section 49 of the Education (No. 2) Act 1986 (c. 61) (appraisal) shall cease to have effect.
 
@@ -62,12 +62,12 @@ summary: ''
 
 [^c385184]: Commencement: S. 131 wholly in force at 19.12.2002; s. 131 not in force at Royal Assent, see s. 216; s. 131 in force for E. at 1.10.2002 by [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3) (with transitional provisions and savings in [art. 4](https://www.legislation.gov.uk/uksi/2002/2439/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2002/2439/schedule)); s. 131 in force for W. at 19.12.2002 by [S.I. 2002/3185](https://www.legislation.gov.uk/uksi/2002/3185), [art. 4](https://www.legislation.gov.uk/uksi/2002/3185/article/4), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2002/3185/schedule/part/I)
 
-[^key-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
+[^c-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
 
-[^key-0b83dc4852763b67d3e91bf8700f3c44]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/3)
+[^c-0b83dc4852763b67d3e91bf8700f3c44]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/3)
 
-[^key-5e280ba36e8ca4dac70899266863a84d]: Textual amendment: S. 131(6)(e) and word repealed (1.4.2010) by [The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080)](https://www.legislation.gov.uk/uksi/2010/1080), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2010/1080/article/1/2/a)[(b)](https://www.legislation.gov.uk/uksi/2010/1080/article/1/2/b), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2010/1080/schedule/1/paragraph/46), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2010/1080/schedule/2/part/1) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2010/1080/article/2/3))
+[^c-5e280ba36e8ca4dac70899266863a84d]: Textual amendment: S. 131(6)(e) and word repealed (1.4.2010) by [The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080)](https://www.legislation.gov.uk/uksi/2010/1080), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2010/1080/article/1/2/a)[(b)](https://www.legislation.gov.uk/uksi/2010/1080/article/1/2/b), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2010/1080/schedule/1/paragraph/46), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2010/1080/schedule/2/part/1) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2010/1080/article/2/3))
 
-[^key-1dffcd6039c27e4421905203add893f0]: Textual amendment: Word in s. 131(7)(c) inserted (1.4.2006) by [The National Council for Education and Training for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3238)](https://www.legislation.gov.uk/uksi/2005/3238), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3238/article/1/1), [Sch. 1 para. 87(a)](https://www.legislation.gov.uk/uksi/2005/3238/schedule/1/paragraph/87/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2005/3238/article/7))
+[^c-1dffcd6039c27e4421905203add893f0]: Textual amendment: Word in s. 131(7)(c) inserted (1.4.2006) by [The National Council for Education and Training for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3238)](https://www.legislation.gov.uk/uksi/2005/3238), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3238/article/1/1), [Sch. 1 para. 87(a)](https://www.legislation.gov.uk/uksi/2005/3238/schedule/1/paragraph/87/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2005/3238/article/7))
 
-[^key-ba394f72a4376aa1fcdeac72b32747a0]: Textual amendment: S. 131(7)(e) and word omitted (1.4.2006) by virtue of [The National Council for Education and Training for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3238)](https://www.legislation.gov.uk/uksi/2005/3238), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3238/article/1/1), [Sch. 1 para. 87(b)](https://www.legislation.gov.uk/uksi/2005/3238/schedule/1/paragraph/87/b) (with [art. 7](https://www.legislation.gov.uk/uksi/2005/3238/article/7))
+[^c-ba394f72a4376aa1fcdeac72b32747a0]: Textual amendment: S. 131(7)(e) and word omitted (1.4.2006) by virtue of [The National Council for Education and Training for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3238)](https://www.legislation.gov.uk/uksi/2005/3238), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3238/article/1/1), [Sch. 1 para. 87(b)](https://www.legislation.gov.uk/uksi/2005/3238/schedule/1/paragraph/87/b) (with [art. 7](https://www.legislation.gov.uk/uksi/2005/3238/article/7))

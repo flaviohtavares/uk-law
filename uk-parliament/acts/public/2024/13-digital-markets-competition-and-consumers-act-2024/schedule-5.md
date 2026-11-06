@@ -22,9 +22,9 @@ summary: ''
 
 Section 128
 
-**1.**[^key-5181169c87be6d7947b396e20557a5a7][^key-d64907ade85dcfaf5574f24e004858af] Chapter 1 of Part 3 of EA 2002 (mergers: duty to make references) is amended as follows.
+**1.**[^c-5181169c87be6d7947b396e20557a5a7][^c-d64907ade85dcfaf5574f24e004858af] Chapter 1 of Part 3 of EA 2002 (mergers: duty to make references) is amended as follows.
 
-**2.**[^key-5561cc6b06086b54906092ae9b9b175a][^key-c8dc005dffc4e398969dd751f65acf60] (1) Section 22 (duty to make references in relation to completed mergers) is amended as follows.
+**2.**[^c-5561cc6b06086b54906092ae9b9b175a][^c-c8dc005dffc4e398969dd751f65acf60] (1) Section 22 (duty to make references in relation to completed mergers) is amended as follows.
 
 (2) After subsection (1) insert—
 
@@ -34,7 +34,7 @@ Section 128
 
 (4) In subsection (3), in the words before paragraph (a), for “this section” substitute “subsection (1)”.
 
-**3.**[^key-abd301e8ad9f519fe971b262acf1c725][^key-577c8be41f47143727e1854adab555a2] (1) Section 33 (duty to make references in relation to anticipated mergers) is amended as follows.
+**3.**[^c-abd301e8ad9f519fe971b262acf1c725][^c-577c8be41f47143727e1854adab555a2] (1) Section 33 (duty to make references in relation to anticipated mergers) is amended as follows.
 
 (2) After subsection (1) insert—
 
@@ -44,7 +44,7 @@ Section 128
 
 (4) In subsection (3), in the words before paragraph (a), for “this section” substitute “subsection (1)”.
 
-**4.**[^key-5c6765737b32abbebe5a9c9656dbbd7f][^key-5b3e9cab7fa835f21f8c9c8c1fccf5a8] (1) Section 34ZA (time-limits for decisions about references) is amended as follows.
+**4.**[^c-5c6765737b32abbebe5a9c9656dbbd7f][^c-5b3e9cab7fa835f21f8c9c8c1fccf5a8] (1) Section 34ZA (time-limits for decisions about references) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -57,11 +57,11 @@ Section 128
 
 (4) In subsection (2), in the words before paragraph (a), for “section 22 or 33” substitute “section 22(1) or 33(1)”.
 
-**5.**[^key-89d40d2ac473d0452260c9ebb0a16b46][^key-d59d463a8553ab1285f4b12f731f8bf9] In section 34ZB (extension of time-limits), in subsection (1), for “mentioned in” substitute “for the purposes of”.
+**5.**[^c-89d40d2ac473d0452260c9ebb0a16b46][^c-d59d463a8553ab1285f4b12f731f8bf9] In section 34ZB (extension of time-limits), in subsection (1), for “mentioned in” substitute “for the purposes of”.
 
-**6.**[^key-c91f261a3fe5cf6734d6fa4ed0201f85][^key-2a448129f3a5ec4b4a00acffd3a5b6ec] In section 34ZC (sections 34ZA and 34ZB: supplementary), in subsection (1), for “period mentioned in” substitute “initial period for the purposes of”.
+**6.**[^c-c91f261a3fe5cf6734d6fa4ed0201f85][^c-2a448129f3a5ec4b4a00acffd3a5b6ec] In section 34ZC (sections 34ZA and 34ZB: supplementary), in subsection (1), for “period mentioned in” substitute “initial period for the purposes of”.
 
-**7.**[^key-c85b96dfde2b20de45b7df959d0d407a][^key-b56f6ab3b549b0a1e4c23bb723b86068] After section 34ZC (sections 34ZA and 34ZB: supplementary) insert—
+**7.**[^c-c85b96dfde2b20de45b7df959d0d407a][^c-b56f6ab3b549b0a1e4c23bb723b86068] After section 34ZC (sections 34ZA and 34ZB: supplementary) insert—
 
 > **34ZD. Fast-track reference requests**
 >
@@ -113,7 +113,7 @@ Section 128
 >
 > (5) Where the CMA decides to accept a fast-track reference request the duties to make references under sections 22(1) and 33(1) do not apply, and accordingly the CMA may not make any reference under those provisions in respect of the arrangements concerned (but see the duties under sections 22(1A) and 33(1A)).
 
-**8.**[^key-67e78896a6932c2d8673267c8954752b][^key-faf4aaaae0dca4bbfef77f67b4d995ec] (1) Section 39 (time-limits for investigations and reports) is amended as follows.
+**8.**[^c-67e78896a6932c2d8673267c8954752b][^c-faf4aaaae0dca4bbfef77f67b4d995ec] (1) Section 39 (time-limits for investigations and reports) is amended as follows.
 
 (2) In subsection (3), after “section 38” insert “on a reference under section 22(1) or 33(1)”.
 
@@ -123,13 +123,13 @@ Section 128
 
 (4) In subsection (7), after “(3)” insert “, (3A)”.
 
-**9.**[^key-a26979b7c7341bf8f3daebab2c96da9f][^key-368a53e040533b8c663c08dcad6d05df] (1) Section 40 (section 39: supplementary) is amended as follows.
+**9.**[^c-a26979b7c7341bf8f3daebab2c96da9f][^c-368a53e040533b8c663c08dcad6d05df] (1) Section 40 (section 39: supplementary) is amended as follows.
 
 (2) In subsection (4), after “section 39(3)” insert “or (3A)”.
 
 (3) In subsection (5), before “or (4)” insert “, (3A)”.
 
-**10.**[^key-9ede0b6a103c5b8e8c0cc179ed5c7975][^key-12956266a84bfdcec764ca44d80082c9] (1) In Chapter 3 of Part 3 of EA 2002 (mergers: other special cases), Schedule 5A (energy network mergers affecting comparative regulation: modifications of Chapter 1 of Part 3) is amended as follows.
+**10.**[^c-9ede0b6a103c5b8e8c0cc179ed5c7975][^c-12956266a84bfdcec764ca44d80082c9] (1) In Chapter 3 of Part 3 of EA 2002 (mergers: other special cases), Schedule 5A (energy network mergers affecting comparative regulation: modifications of Chapter 1 of Part 3) is amended as follows.
 
 (2) In paragraph 1 (general modifications), in sub-paragraph (2), for the words after “include” substitute
 
@@ -157,20 +157,20 @@ Section 128
 >
 > Section 39 (time-limits for investigations and reports) has effect as if subsection (3A) were omitted.
 
-**11.**[^key-9e73f68e2626f062589af91a191bb04b][^key-57695d3816af5f608cfc986a281381bc] (1) In Chapter 4 of Part 3 of EA 2002 (mergers: enforcement), section 73 (undertakings in lieu of references under section 22 or 33) is amended as follows.
+**11.**[^c-9e73f68e2626f062589af91a191bb04b][^c-57695d3816af5f608cfc986a281381bc] (1) In Chapter 4 of Part 3 of EA 2002 (mergers: enforcement), section 73 (undertakings in lieu of references under section 22 or 33) is amended as follows.
 
 (2) In the heading, for “section 22, 33” substitute “section 22(1), 33(1)”.
 
 (3) In subsection (1), for “section 22 or 33” substitute “section 22(1) or 33(1)”.
 
-**12.**[^key-fa7155b2e0ed00b1b34e538ca16bb9c8][^key-af4557c50815ded71743a2298057e828] Chapter 5 of Part 3 of EA 2002 (mergers: supplementary) is amended as follows.
+**12.**[^c-fa7155b2e0ed00b1b34e538ca16bb9c8][^c-af4557c50815ded71743a2298057e828] Chapter 5 of Part 3 of EA 2002 (mergers: supplementary) is amended as follows.
 
-**13.**[^key-eb6dcb3c91be307fb64798201a3011d2][^key-d49fe250ddc4affd89c9667a06d3da46] In section 104 (certain duties of relevant authorities to consult), in subsection (6), in the definition of “relevant decision”, in paragraph (a)—
+**13.**[^c-eb6dcb3c91be307fb64798201a3011d2][^c-d49fe250ddc4affd89c9667a06d3da46] In section 104 (certain duties of relevant authorities to consult), in subsection (6), in the definition of “relevant decision”, in paragraph (a)—
 
 - (a) in sub-paragraph (i), for “section 22, 33” substitute “section 22(1), 33(1)”;
 - (b) in sub-paragraph (ii), for “such a reference” substitute “a reference under section 22, 33, 68B or 68C”.
 
-**14.**[^key-6e079ce6d680af2da8b459035e98c102][^key-219030cda3eda9b3f489dae948935ec5] (1) Section 107 (further publicity requirements) is amended as follows.
+**14.**[^c-6e079ce6d680af2da8b459035e98c102][^c-219030cda3eda9b3f489dae948935ec5] (1) Section 107 (further publicity requirements) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -190,7 +190,7 @@ Section 128
 
 .
 
-**15.**[^key-cd4b3edea4546c9b30099a45af07df6d][^key-8cedf991fc953791f3d9873d335367f6] In section 130 (interpretation), in the appropriate place insert—
+**15.**[^c-cd4b3edea4546c9b30099a45af07df6d][^c-8cedf991fc953791f3d9873d335367f6] In section 130 (interpretation), in the appropriate place insert—
 
 > |  |  |
 > | --- | --- |
@@ -200,62 +200,62 @@ Section 128
 
 ## Annotations
 
-[^key-5181169c87be6d7947b396e20557a5a7]: Commencement: Sch. 5 para. 1 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-5181169c87be6d7947b396e20557a5a7]: Commencement: Sch. 5 para. 1 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-d64907ade85dcfaf5574f24e004858af]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2024/13/schedule/5/paragraph/1) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(11)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/11) (with [Sch. paras. 5(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-d64907ade85dcfaf5574f24e004858af]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2024/13/schedule/5/paragraph/1) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(11)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/11) (with [Sch. paras. 5(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-5561cc6b06086b54906092ae9b9b175a]: Commencement: Sch. 5 para. 2 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-5561cc6b06086b54906092ae9b9b175a]: Commencement: Sch. 5 para. 2 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-c8dc005dffc4e398969dd751f65acf60]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2024/13/schedule/5/paragraph/2) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(11)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/11) (with [Sch. paras. 5(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-c8dc005dffc4e398969dd751f65acf60]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2024/13/schedule/5/paragraph/2) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(11)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/11) (with [Sch. paras. 5(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-abd301e8ad9f519fe971b262acf1c725]: Commencement: Sch. 5 para. 3 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-abd301e8ad9f519fe971b262acf1c725]: Commencement: Sch. 5 para. 3 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-577c8be41f47143727e1854adab555a2]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2024/13/schedule/5/paragraph/3) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(11)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/11) (with [Sch. paras. 5(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-577c8be41f47143727e1854adab555a2]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2024/13/schedule/5/paragraph/3) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(11)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/11) (with [Sch. paras. 5(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-5c6765737b32abbebe5a9c9656dbbd7f]: Commencement: Sch. 5 para. 4 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-5c6765737b32abbebe5a9c9656dbbd7f]: Commencement: Sch. 5 para. 4 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-5b3e9cab7fa835f21f8c9c8c1fccf5a8]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2024/13/schedule/5/paragraph/4) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(11)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/11) (with [Sch. paras. 5(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-5b3e9cab7fa835f21f8c9c8c1fccf5a8]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2024/13/schedule/5/paragraph/4) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(11)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/11) (with [Sch. paras. 5(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-89d40d2ac473d0452260c9ebb0a16b46]: Commencement: Sch. 5 para. 5 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-89d40d2ac473d0452260c9ebb0a16b46]: Commencement: Sch. 5 para. 5 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-d59d463a8553ab1285f4b12f731f8bf9]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2024/13/schedule/5/paragraph/5) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(11)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/11) (with [Sch. paras. 5(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-d59d463a8553ab1285f4b12f731f8bf9]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2024/13/schedule/5/paragraph/5) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(11)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/11) (with [Sch. paras. 5(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-c91f261a3fe5cf6734d6fa4ed0201f85]: Commencement: Sch. 5 para. 6 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-c91f261a3fe5cf6734d6fa4ed0201f85]: Commencement: Sch. 5 para. 6 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-2a448129f3a5ec4b4a00acffd3a5b6ec]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2024/13/schedule/5/paragraph/6) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(11)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/11) (with [Sch. paras. 5(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-2a448129f3a5ec4b4a00acffd3a5b6ec]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2024/13/schedule/5/paragraph/6) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(11)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/11) (with [Sch. paras. 5(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-c85b96dfde2b20de45b7df959d0d407a]: Commencement: Sch. 5 para. 7 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-c85b96dfde2b20de45b7df959d0d407a]: Commencement: Sch. 5 para. 7 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-b56f6ab3b549b0a1e4c23bb723b86068]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2024/13/schedule/5/paragraph/7) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(11)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/11) (with [Sch. paras. 5(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-b56f6ab3b549b0a1e4c23bb723b86068]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2024/13/schedule/5/paragraph/7) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(11)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/11) (with [Sch. paras. 5(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-67e78896a6932c2d8673267c8954752b]: Commencement: Sch. 5 para. 8 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-67e78896a6932c2d8673267c8954752b]: Commencement: Sch. 5 para. 8 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-faf4aaaae0dca4bbfef77f67b4d995ec]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2024/13/schedule/5/paragraph/8) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(11)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/11) (with [Sch. paras. 5(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-faf4aaaae0dca4bbfef77f67b4d995ec]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2024/13/schedule/5/paragraph/8) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(11)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/11) (with [Sch. paras. 5(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-a26979b7c7341bf8f3daebab2c96da9f]: Commencement: Sch. 5 para. 9 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-a26979b7c7341bf8f3daebab2c96da9f]: Commencement: Sch. 5 para. 9 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-368a53e040533b8c663c08dcad6d05df]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2024/13/schedule/5/paragraph/9) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(11)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/11) (with [Sch. paras. 5(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-368a53e040533b8c663c08dcad6d05df]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2024/13/schedule/5/paragraph/9) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(11)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/11) (with [Sch. paras. 5(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-9ede0b6a103c5b8e8c0cc179ed5c7975]: Commencement: Sch. 5 para. 10 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-9ede0b6a103c5b8e8c0cc179ed5c7975]: Commencement: Sch. 5 para. 10 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-12956266a84bfdcec764ca44d80082c9]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2024/13/schedule/5/paragraph/10) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(11)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/11) (with [Sch. paras. 5(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-12956266a84bfdcec764ca44d80082c9]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2024/13/schedule/5/paragraph/10) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(11)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/11) (with [Sch. paras. 5(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-9e73f68e2626f062589af91a191bb04b]: Commencement: Sch. 5 para. 11 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-9e73f68e2626f062589af91a191bb04b]: Commencement: Sch. 5 para. 11 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-57695d3816af5f608cfc986a281381bc]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2024/13/schedule/5/paragraph/11) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(11)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/11) (with [Sch. paras. 5(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-57695d3816af5f608cfc986a281381bc]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2024/13/schedule/5/paragraph/11) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(11)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/11) (with [Sch. paras. 5(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-fa7155b2e0ed00b1b34e538ca16bb9c8]: Commencement: Sch. 5 para. 12 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-fa7155b2e0ed00b1b34e538ca16bb9c8]: Commencement: Sch. 5 para. 12 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-af4557c50815ded71743a2298057e828]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2024/13/schedule/5/paragraph/12) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(11)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/11) (with [Sch. paras. 5(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-af4557c50815ded71743a2298057e828]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2024/13/schedule/5/paragraph/12) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(11)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/11) (with [Sch. paras. 5(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-eb6dcb3c91be307fb64798201a3011d2]: Commencement: Sch. 5 para. 13 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-eb6dcb3c91be307fb64798201a3011d2]: Commencement: Sch. 5 para. 13 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-d49fe250ddc4affd89c9667a06d3da46]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2024/13/schedule/5/paragraph/13) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(11)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/11) (with [Sch. paras. 5(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-d49fe250ddc4affd89c9667a06d3da46]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2024/13/schedule/5/paragraph/13) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(11)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/11) (with [Sch. paras. 5(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-6e079ce6d680af2da8b459035e98c102]: Commencement: Sch. 5 para. 14 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-6e079ce6d680af2da8b459035e98c102]: Commencement: Sch. 5 para. 14 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-219030cda3eda9b3f489dae948935ec5]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2024/13/schedule/5/paragraph/14) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(11)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/11) (with [Sch. paras. 5(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-219030cda3eda9b3f489dae948935ec5]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2024/13/schedule/5/paragraph/14) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(11)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/11) (with [Sch. paras. 5(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-cd4b3edea4546c9b30099a45af07df6d]: Commencement: Sch. 5 para. 15 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-cd4b3edea4546c9b30099a45af07df6d]: Commencement: Sch. 5 para. 15 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-8cedf991fc953791f3d9873d335367f6]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2024/13/schedule/5/paragraph/15) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(11)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/11) (with [Sch. paras. 5(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-8cedf991fc953791f3d9873d335367f6]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2024/13/schedule/5/paragraph/15) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(11)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/11) (with [Sch. paras. 5(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))

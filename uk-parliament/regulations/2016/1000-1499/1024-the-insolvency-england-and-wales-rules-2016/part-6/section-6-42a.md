@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.42A. Priority of moratorium debts in subsequent winding up[^key-06bc25c8cb0441ca32ed021a7e8b8fec]
+## 6.42A. Priority of moratorium debts in subsequent winding up[^c-06bc25c8cb0441ca32ed021a7e8b8fec]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ Where section 174A applies the moratorium debts and priority pre-moratorium debt
 
 ## Annotations
 
-[^key-06bc25c8cb0441ca32ed021a7e8b8fec]: Textual amendment: [Rule 6.42A](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.42A) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [30](https://www.legislation.gov.uk/uksi/2021/1028/rule/30) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-06bc25c8cb0441ca32ed021a7e8b8fec]: Textual amendment: [Rule 6.42A](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.42A) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [30](https://www.legislation.gov.uk/uksi/2021/1028/rule/30) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))

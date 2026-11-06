@@ -35,7 +35,7 @@ An Act to make provision for immigration restrictions to be disregarded for the 
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Immigration restrictions to be disregarded in certain cases[^key-81178c931cfd871fc4299bdf7cdb6413]
+## 1. Immigration restrictions to be disregarded in certain cases[^c-81178c931cfd871fc4299bdf7cdb6413]
 
 (1) In the British Nationality Act 1981, after section 50A insert—
 
@@ -58,7 +58,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (2) The provision inserted by subsection (1) is treated as always having had effect.
 
-## 2. Extent and short title[^key-b6ad2447721570cf5cbac419c39d8c4c]
+## 2. Extent and short title[^c-b6ad2447721570cf5cbac419c39d8c4c]
 
 (1) This Act extends to England and Wales, Scotland, Northern Ireland, the Channel Islands, the Isle of Man, and the British overseas territories.
 
@@ -66,6 +66,6 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Annotations
 
-[^key-81178c931cfd871fc4299bdf7cdb6413]: Commencement: S. 1 in force at Royal Assent
+[^c-81178c931cfd871fc4299bdf7cdb6413]: Commencement: S. 1 in force at Royal Assent
 
-[^key-b6ad2447721570cf5cbac419c39d8c4c]: Commencement: S. 2 in force at Royal Assent
+[^c-b6ad2447721570cf5cbac419c39d8c4c]: Commencement: S. 2 in force at Royal Assent

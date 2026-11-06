@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77.[^key-29e3f3e2df6dcf5278a60196da962e36]
+## 77.[^c-29e3f3e2df6dcf5278a60196da962e36]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ In regulation 145H (removals of goods from a fiscal warehousing regime and trans
 
 ## Annotations
 
-[^key-29e3f3e2df6dcf5278a60196da962e36]: Commencement: Reg. 77 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-29e3f3e2df6dcf5278a60196da962e36]: Commencement: Reg. 77 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

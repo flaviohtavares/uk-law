@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Access prohibitions: reimbursement of costs[^key-752fc577a32a9ba5521cb43d166e5077]
+## 24. Access prohibitions: reimbursement of costs[^c-752fc577a32a9ba5521cb43d166e5077]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-752fc577a32a9ba5521cb43d166e5077]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2016/2/section/24) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-752fc577a32a9ba5521cb43d166e5077]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2016/2/section/24) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

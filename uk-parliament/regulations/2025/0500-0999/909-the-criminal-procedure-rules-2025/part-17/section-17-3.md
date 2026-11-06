@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17.3. Application for summons, warrant or order: general rules[^key-413cf90a0d358f85cd026d134bbeaa5c]
+## 17.3. Application for summons, warrant or order: general rules[^c-413cf90a0d358f85cd026d134bbeaa5c]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-413cf90a0d358f85cd026d134bbeaa5c]: Commencement: [Rule 17.3](https://www.legislation.gov.uk/uksi/2025/909/rule/17.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-413cf90a0d358f85cd026d134bbeaa5c]: Commencement: [Rule 17.3](https://www.legislation.gov.uk/uksi/2025/909/rule/17.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

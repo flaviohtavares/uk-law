@@ -32,7 +32,7 @@ summary: ''
 
 POLICE
 
-The Police Act 1997 (Criminal Records) (Scotland) Amendment Regulations 2009 (revoked)[^key-30312caaa1e9abc1cf629547486d171f]
+The Police Act 1997 (Criminal Records) (Scotland) Amendment Regulations 2009 (revoked)[^c-30312caaa1e9abc1cf629547486d171f]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 13th March 2009
 
-[^key-30312caaa1e9abc1cf629547486d171f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-30312caaa1e9abc1cf629547486d171f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-30312caaa1e9abc1cf629547486d171f]
+## 1. Citation, commencement and extent[^c-30312caaa1e9abc1cf629547486d171f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Police Act 1997 (Criminal Records) (Scotland) Regulations 2006[^key-30312caaa1e9abc1cf629547486d171f]
+## 2. Amendment of the Police Act 1997 (Criminal Records) (Scotland) Regulations 2006[^c-30312caaa1e9abc1cf629547486d171f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 7 (central records: prescribed details)[^key-30312caaa1e9abc1cf629547486d171f]
+## 3. Amendment of regulation 7 (central records: prescribed details)[^c-30312caaa1e9abc1cf629547486d171f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 8 (enhanced criminal record certificates: relevant police forces)[^key-30312caaa1e9abc1cf629547486d171f]
+## 4. Amendment of regulation 8 (enhanced criminal record certificates: relevant police forces)[^c-30312caaa1e9abc1cf629547486d171f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-30312caaa1e9abc1cf629547486d171f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-30312caaa1e9abc1cf629547486d171f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-30312caaa1e9abc1cf629547486d171f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-30312caaa1e9abc1cf629547486d171f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-30312caaa1e9abc1cf629547486d171f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2009/40) revoked (28.2.2011) by [The Police Act 1997 (Criminal Records) (Scotland) Regulations 2010 (S.S.I. 2010/168)](https://www.legislation.gov.uk/ssi/2010/168), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/168/regulation/1), [17(d)](https://www.legislation.gov.uk/ssi/2010/168/regulation/17)
+[^c-30312caaa1e9abc1cf629547486d171f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2009/40) revoked (28.2.2011) by [The Police Act 1997 (Criminal Records) (Scotland) Regulations 2010 (S.S.I. 2010/168)](https://www.legislation.gov.uk/ssi/2010/168), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/168/regulation/1), [17(d)](https://www.legislation.gov.uk/ssi/2010/168/regulation/17)

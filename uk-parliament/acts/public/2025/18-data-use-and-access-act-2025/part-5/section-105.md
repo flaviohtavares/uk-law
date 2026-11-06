@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Consequential amendments to the EITSET Regulations[^key-43f8dbdd40ef16f11578a8c6dd7b6b83][^key-a5046afbabb7bf2b103b6471201d3824]
+## 105. Consequential amendments to the EITSET Regulations[^c-43f8dbdd40ef16f11578a8c6dd7b6b83][^c-a5046afbabb7bf2b103b6471201d3824]
 
 *Extent: E+W+S+N.I.*
 
@@ -95,6 +95,6 @@ summary: ''
 
 ## Annotations
 
-[^key-43f8dbdd40ef16f11578a8c6dd7b6b83]: Commencement: S. 105 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-43f8dbdd40ef16f11578a8c6dd7b6b83]: Commencement: S. 105 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-a5046afbabb7bf2b103b6471201d3824]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2025/18/section/105) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/u)
+[^c-a5046afbabb7bf2b103b6471201d3824]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2025/18/section/105) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/u)

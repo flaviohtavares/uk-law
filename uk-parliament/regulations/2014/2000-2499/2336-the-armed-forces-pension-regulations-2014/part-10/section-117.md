@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Scheme administrator for purposes of the Finance Act 2004[^key-6d712f79a68cce1cc36cbb2b9bc1f4c5]
+## 117. Scheme administrator for purposes of the Finance Act 2004[^c-6d712f79a68cce1cc36cbb2b9bc1f4c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d712f79a68cce1cc36cbb2b9bc1f4c5]: Commencement: [Reg. 117](https://www.legislation.gov.uk/uksi/2014/2336/regulation/117) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-6d712f79a68cce1cc36cbb2b9bc1f4c5]: Commencement: [Reg. 117](https://www.legislation.gov.uk/uksi/2014/2336/regulation/117) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

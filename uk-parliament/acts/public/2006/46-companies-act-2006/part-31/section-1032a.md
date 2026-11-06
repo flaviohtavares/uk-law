@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1032A. Restoration by court of company with share warrants[^key-f03dea3191f9fe9471de111db051df79]
+## 1032A. Restoration by court of company with share warrants[^c-f03dea3191f9fe9471de111db051df79]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,8 +47,8 @@ summary: ''
 
 (8) Where a share warrant is cancelled by an order as mentioned in subsection (2), the company must, as soon as reasonably practicable—
 
-- (a) enter the date the cancellation takes effect in its register of members, [^key-1ddf3dce64dba93a41124c92c31a82a4]...
-- (b)[^key-1ddf3dce64dba93a41124c92c31a82a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) enter the date the cancellation takes effect in its register of members, [^c-1ddf3dce64dba93a41124c92c31a82a4]...
+- (b)[^c-1ddf3dce64dba93a41124c92c31a82a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) Subsection (10) applies where—
 
@@ -76,6 +76,6 @@ For this purpose a shadow director is treated as an officer of the company.
 
 ## Annotations
 
-[^key-f03dea3191f9fe9471de111db051df79]: Textual amendment: S. 1032A inserted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(3)(g)(ii)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/g/ii), [Sch. 4 para. 28(1)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/4/paragraph/28/1) (with [Sch. 4 para. 28(2)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/4/paragraph/28/2), [(3)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/4/paragraph/28/3))
+[^c-f03dea3191f9fe9471de111db051df79]: Textual amendment: S. 1032A inserted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(3)(g)(ii)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/g/ii), [Sch. 4 para. 28(1)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/4/paragraph/28/1) (with [Sch. 4 para. 28(2)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/4/paragraph/28/2), [(3)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/4/paragraph/28/3))
 
-[^key-1ddf3dce64dba93a41124c92c31a82a4]: Textual amendment: S. 1032A(8)(b) and word omitted (26.10.2023 for specified purposes, 26.1.2026 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2023/56/schedule/1/paragraph/22); [S.I. 2026/57](https://www.legislation.gov.uk/uksi/2026/57), [reg. 2](https://www.legislation.gov.uk/uksi/2026/57/regulation/2)
+[^c-1ddf3dce64dba93a41124c92c31a82a4]: Textual amendment: S. 1032A(8)(b) and word omitted (26.10.2023 for specified purposes, 26.1.2026 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2023/56/schedule/1/paragraph/22); [S.I. 2026/57](https://www.legislation.gov.uk/uksi/2026/57), [reg. 2](https://www.legislation.gov.uk/uksi/2026/57/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Delegation of lighting functions of highway authority.[^key-9088022f371bc1c9e27dd57e54366d11]
+## 98. Delegation of lighting functions of highway authority.[^c-9088022f371bc1c9e27dd57e54366d11]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9088022f371bc1c9e27dd57e54366d11]: Modification: S. 98 functions made exercisable concurrently (3.3.2017) by [The Cambridgeshire and Peterborough Combined Authority Order 2017 (S.I. 2017/251)](https://www.legislation.gov.uk/uksi/2017/251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b), [9(2)(x)](https://www.legislation.gov.uk/uksi/2017/251/article/9/2/x)[(3)](https://www.legislation.gov.uk/uksi/2017/251/article/9/3)
+[^c-9088022f371bc1c9e27dd57e54366d11]: Modification: S. 98 functions made exercisable concurrently (3.3.2017) by [The Cambridgeshire and Peterborough Combined Authority Order 2017 (S.I. 2017/251)](https://www.legislation.gov.uk/uksi/2017/251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b), [9(2)(x)](https://www.legislation.gov.uk/uksi/2017/251/article/9/2/x)[(3)](https://www.legislation.gov.uk/uksi/2017/251/article/9/3)

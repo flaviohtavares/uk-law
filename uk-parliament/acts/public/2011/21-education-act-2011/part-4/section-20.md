@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Requirement for schools to participate in international surveys[^key-096c9daa2aea60c5afaf59e86ba3c72f]
+## 20. Requirement for schools to participate in international surveys[^c-096c9daa2aea60c5afaf59e86ba3c72f]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In Chapter 4 of Part 9 of EA 1996 (provision of information by governing bodies 
 
 ## Annotations
 
-[^key-096c9daa2aea60c5afaf59e86ba3c72f]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2011/21/section/20) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)
+[^c-096c9daa2aea60c5afaf59e86ba3c72f]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2011/21/section/20) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)

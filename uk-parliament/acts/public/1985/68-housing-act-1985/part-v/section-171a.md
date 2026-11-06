@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The provisions of this Part continue to apply where a person ceases to be a secure tenant of a dwelling-house by reason of the disposal by the landlord of an interest in the dwelling-house in England[^key-43ef40b5832e0e1daca5f2ef4f218a62] to a person who is not an authority or body within section 80 (the landlord condition for secure tenancies).
+(1) The provisions of this Part continue to apply where a person ceases to be a secure tenant of a dwelling-house by reason of the disposal by the landlord of an interest in the dwelling-house in England[^c-43ef40b5832e0e1daca5f2ef4f218a62] to a person who is not an authority or body within section 80 (the landlord condition for secure tenancies).
 
 (2) In the following provisions of this Part—
 
@@ -42,4 +42,4 @@ summary: ''
 
 [^c15066881]: Textual amendment: Ss. 171A–171H inserted by [Housing and Planning Act 1986 (c. 63, SIF 61)](https://www.legislation.gov.uk/ukpga/1986/63), [s. 8(1)](https://www.legislation.gov.uk/ukpga/1986/63/section/8/1)
 
-[^key-43ef40b5832e0e1daca5f2ef4f218a62]: Textual amendment: Words in [s. 171A(1)](https://www.legislation.gov.uk/ukpga/1985/68/section/171A/1) inserted (26.1.2019) by [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [3(l)](https://www.legislation.gov.uk/wsi/2019/110/regulation/3/l) (with [reg. 5](https://www.legislation.gov.uk/wsi/2019/110/regulation/5))
+[^c-43ef40b5832e0e1daca5f2ef4f218a62]: Textual amendment: Words in [s. 171A(1)](https://www.legislation.gov.uk/ukpga/1985/68/section/171A/1) inserted (26.1.2019) by [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [3(l)](https://www.legislation.gov.uk/wsi/2019/110/regulation/3/l) (with [reg. 5](https://www.legislation.gov.uk/wsi/2019/110/regulation/5))

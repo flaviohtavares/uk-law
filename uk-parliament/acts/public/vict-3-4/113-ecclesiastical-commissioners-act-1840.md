@@ -33,15 +33,15 @@ Ecclesiastical Commissioners Act 1840
 
 An Act to carry into effect, with certain modifications, the Fourth Report of the Commissioners of Ecclesiastical Duties and Revenues.
 
-\[11th August 1840\][^c555876][^c555877][^c555878][^c555879][^c555880][^c555881][^c555882][^key-21e49e5d0d71066b7ba83b5acda69629]
+\[11th August 1840\][^c555876][^c555877][^c555878][^c555879][^c555880][^c555881][^c555882][^c-21e49e5d0d71066b7ba83b5acda69629]
 
 ## 1]—4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c555883]
 
-## 5. Canonry at Christchurch annexed to a professorship instead of canonry at Worcester.[^key-b440bc7f67c7d1668d20318942828a74]
+## 5. Canonry at Christchurch annexed to a professorship instead of canonry at Worcester.[^c-b440bc7f67c7d1668d20318942828a74]
 
 In the chapter of Christchurch in Oxford the first vacant canonry, not being one of the two canonries which are respectively annexed to regius professorships in the university of Oxford, shall immediately become and be permanently annexed and united to the lady Margaret’s professorship of divinity in the said university, and shall and may be held by the present and every future lady Margaret’s professor of divinity therein; and upon such annexation as aforesaid the canonry in the cathedral church of Worcester, which is now annexed to the last-mentioned professorship, shall be ipso facto detached therefrom, and shall become vacant; and the canonry secondly-vacant in the said chapter of Christchurch shall be subject to the provisions herein-after contained respecting the endowment of archdeaconries by the annexation of canonries thereto.
 
-## 6. Two canonries at Christchurch annexed to new professorships in the university of Oxford.[^key-fbd2d3e8c7ea3f9c1dd56083fd49eed1]
+## 6. Two canonries at Christchurch annexed to new professorships in the university of Oxford.[^c-fbd2d3e8c7ea3f9c1dd56083fd49eed1]
 
 And whereas her Majesty has graciously intimated to Parliament her royal will and intention to found two new professorships in the said university of Oxford, and it is expedient that the same should be competently endowed: the two canonries in the said chapter of Christchurch (not being either of them a canonry annexed or to be annexed to any of the professorships already founded in the said university) which shall be thirdly and fourthly vacant, shall, upon the vacancies thereof respectively, and the foundation of such professorships respectively, become and be permanently annexed and united thereto, in such order as her Majesty shall, in and by her royal letters patent founding such professorships, direct and appoint; and if either of such last-mentioned canonries be vacant before the foundation of such professorships, the same shall not be filled up until after such foundation; and after such annexation the said canonries shall and may be held by the holders of such professorships respectively for the time being; provided that if the member of any college or hall in the said university except Christchurch shall hereafter accept any professorship to which a canonry of Christchurch is or shall be annexed, he shall thereby cease to be a member of such other college or hall.
 
@@ -69,9 +69,9 @@ The deanery of every cathedral and collegiate church upon the old foundation, ex
 
 *Extent: E*
 
-[^key-87cb2e7ac6229cd6bb7d63e1bb58cef9]
+[^c-87cb2e7ac6229cd6bb7d63e1bb58cef9]
 
-No person shall hereafter be capable of receiving the appointment of dean [^key-cd250cd8fa7a6ad90674a95344b65068]... ,[^c555890] archdeacon, or canon, until he shall have been six years complete in holy orders and, in the case of a dean[^c555891] [^key-cd250cd8fa7a6ad90674a95344b65068] ... or archdeacon, be in priest’s orders at the time of the appointment, except in the case of a canonry annexed to any professorship, headship, or other office in any university.
+No person shall hereafter be capable of receiving the appointment of dean [^c-cd250cd8fa7a6ad90674a95344b65068]... ,[^c555890] archdeacon, or canon, until he shall have been six years complete in holy orders and, in the case of a dean[^c555891] [^c-cd250cd8fa7a6ad90674a95344b65068] ... or archdeacon, be in priest’s orders at the time of the appointment, except in the case of a canonry annexed to any professorship, headship, or other office in any university.
 
 ## 28. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c555892]
 
@@ -89,7 +89,7 @@ The rectory of the parish of Saint Margaret in the city of Westminster shall imm
 
 ## 34. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c555898]
 
-## 35. Further provision for archdeaconries.[^key-d618e9f17856cb45aaecc3b43d23a0a4]
+## 35. Further provision for archdeaconries.[^c-d618e9f17856cb45aaecc3b43d23a0a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -121,11 +121,11 @@ In the construction of this Act the said free chapel of Saint George in Windsor 
 
 ## 49—53. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c555911]
 
-## 54. Endowments of suppressed sinecure rectories vested in commissioners.[^key-30cac3672582981d0dfde82aba7c2137]
+## 54. Endowments of suppressed sinecure rectories vested in commissioners.[^c-30cac3672582981d0dfde82aba7c2137]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 55. As to certain sinecure rectories.[^key-b273ac22ae4723735f250dea295bc567]
+## 55. As to certain sinecure rectories.[^c-b273ac22ae4723735f250dea295bc567]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -153,7 +153,7 @@ The Church Commissioners[^c555915] shall, for the purpose of enforcing payment o
 
 ## 67. Mode of applying the revenues at the disposal of the commissioners.[^c555929][^c555928]
 
-Except as herein otherwise specified, all the monies and revenues to be paid to the Church Commissioners[^c555930], and all the rents and profits of the lands, tithes, and other hereditaments vested and to be vested in them the said commissioners by and under the authority of this Act, together with all accumulations of interest produced by and arising therefrom, shall be from time to time carried over by the said commissioners to their general fund, and by payments or investments made out of such fund, or, if in any case it be deemed more expedient, by means of an actual conveyance and assignment of such lands, tithes, or other hereditaments, or of a portion thereof, additional provision shall be made . . .[^c555932] for the cure of souls in parishes where such assistance is most required, in such manner as shall . . . be deemed most conducive to the efficiency of the Established Church: [^key-429eb678d2e9e1bfe444976e30314d9e]...
+Except as herein otherwise specified, all the monies and revenues to be paid to the Church Commissioners[^c555930], and all the rents and profits of the lands, tithes, and other hereditaments vested and to be vested in them the said commissioners by and under the authority of this Act, together with all accumulations of interest produced by and arising therefrom, shall be from time to time carried over by the said commissioners to their general fund, and by payments or investments made out of such fund, or, if in any case it be deemed more expedient, by means of an actual conveyance and assignment of such lands, tithes, or other hereditaments, or of a portion thereof, additional provision shall be made . . .[^c555932] for the cure of souls in parishes where such assistance is most required, in such manner as shall . . . be deemed most conducive to the efficiency of the Established Church: [^c-429eb678d2e9e1bfe444976e30314d9e]...
 
 ## 68. Special arrangements, with consent of bishop or chapter.[^c555935][^c555934]
 
@@ -179,33 +179,33 @@ By the authority herein-after provided, and for the purpose of fully carrying in
 
 ## 83. \[Church Commissioners\] to lay schemes before Queen in council, for carrying into effect the said recommendations.[^c555947]
 
-[^key-db6309b540e0efbfda2a240d862f4d02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db6309b540e0efbfda2a240d862f4d02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 84. Queen in council may make order for carrying schemes into effect.[^key-018451a9f416bb2660a50b4eae370476][^c555950][^c555949]
+## 84. Queen in council may make order for carrying schemes into effect.[^c-018451a9f416bb2660a50b4eae370476][^c555950][^c555949]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 85. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c555952]
 
-## 86. Orders gazetted to be of full effect.[^key-25f8830f2def2461a878442b55c3b436]
+## 86. Orders gazetted to be of full effect.[^c-25f8830f2def2461a878442b55c3b436]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 87. Copies of orders to be laid before Parliament.
 
-[^key-7d7f9ca913094a86fc25441f271795e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7d7f9ca913094a86fc25441f271795e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 88. Penalty for neglect of registration.[^key-726c8c067851257d2e55d1ae21fe0721]
+## 88. Penalty for neglect of registration.[^c-726c8c067851257d2e55d1ae21fe0721]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 89. Fee to registrar.
 
-[^key-b48327ef67ebc707686bfa52304fc371]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b48327ef67ebc707686bfa52304fc371]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 90. Provisions of 1836 c. 77 to extend to this Act.
 
-[^key-aa32a50e88ed82ed91a1ea319feadcc2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aa32a50e88ed82ed91a1ea319feadcc2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 91. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c555958]
 
@@ -237,13 +237,13 @@ In the construction of this Act the term “**canon**” shall be construed to m
 
 [^c555882]: Commencement: Act wholly in force at Royal Assent
 
-[^key-21e49e5d0d71066b7ba83b5acda69629]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/3-4/113) excluded in part (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/1/2)
+[^c-21e49e5d0d71066b7ba83b5acda69629]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/3-4/113) excluded in part (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/1/2)
 
 [^c555883]: Textual amendment: Ss. \[1\]–4, 8–15, 17, 18, 20–23, 25, 26, 28, 33, 41, 45, 46, 49–53, 59, 61, 63, 64, 66 and Sch. repealed by [Cathedrals Measure 1963 (No. 2)](https://www.legislation.gov.uk/ukcm/1963/2), [Sch. 2](https://www.legislation.gov.uk/ukcm/1963/2/schedule/2)
 
-[^key-b440bc7f67c7d1668d20318942828a74]: Modification: S. 5 excluded by 1995 gsm 2, s. 2(3) (as substituted (E.) (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [ss. 19](https://www.legislation.gov.uk/ukcm/2014/1/section/19), [21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2))
+[^c-b440bc7f67c7d1668d20318942828a74]: Modification: S. 5 excluded by 1995 gsm 2, s. 2(3) (as substituted (E.) (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [ss. 19](https://www.legislation.gov.uk/ukcm/2014/1/section/19), [21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2))
 
-[^key-fbd2d3e8c7ea3f9c1dd56083fd49eed1]: Modification: S. 6 excluded by 1995 gsm 2, s. 2(3) (as substituted (E.) (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [ss. 19](https://www.legislation.gov.uk/ukcm/2014/1/section/19), [21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2))
+[^c-fbd2d3e8c7ea3f9c1dd56083fd49eed1]: Modification: S. 6 excluded by 1995 gsm 2, s. 2(3) (as substituted (E.) (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [ss. 19](https://www.legislation.gov.uk/ukcm/2014/1/section/19), [21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2))
 
 [^c555884]: Textual amendment: Ss. \[1\]–4, 8–15, 17, 18, 20–23, 25, 26, 28, 33, 41, 45, 46, 49–53, 59, 61, 63, 64, 66 and Sch. repealed by [Cathedrals Measure 1963 (No. 2)](https://www.legislation.gov.uk/ukcm/1963/2), [Sch. 2](https://www.legislation.gov.uk/ukcm/1963/2/schedule/2)
 
@@ -257,9 +257,9 @@ In the construction of this Act the term “**canon**” shall be construed to m
 
 [^c555889]: Textual amendment: Ss. \[1\]–4, 8–15, 17, 18, 20–23, 25, 26, 28, 33, 41, 45, 46, 49–53, 59, 61, 63, 64, 66 and Sch. repealed by [Cathedrals Measure 1963 (No. 2)](https://www.legislation.gov.uk/ukcm/1963/2), [Sch. 2](https://www.legislation.gov.uk/ukcm/1963/2/schedule/2)
 
-[^key-87cb2e7ac6229cd6bb7d63e1bb58cef9]: Modification: [S. 27](https://www.legislation.gov.uk/ukpga/Vict/3-4/113/section/27) excluded by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [s. 14A(3)(b)](https://www.legislation.gov.uk/ukcm/2021/2/section/14A/3/b) (as inserted by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [s. 7(1)](https://www.legislation.gov.uk/ukcm/2024/1/section/7/1) (with [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/1/1)))
+[^c-87cb2e7ac6229cd6bb7d63e1bb58cef9]: Modification: [S. 27](https://www.legislation.gov.uk/ukpga/Vict/3-4/113/section/27) excluded by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [s. 14A(3)(b)](https://www.legislation.gov.uk/ukcm/2021/2/section/14A/3/b) (as inserted by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [s. 7(1)](https://www.legislation.gov.uk/ukcm/2024/1/section/7/1) (with [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/1/1)))
 
-[^key-cd250cd8fa7a6ad90674a95344b65068]: Textual amendment: Word in s. 27 omitted (coming into force in accordance with s. 53(3) of the amending Measure) by virtue of [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukcm/2021/2/schedule/4/paragraph/1) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
+[^c-cd250cd8fa7a6ad90674a95344b65068]: Textual amendment: Word in s. 27 omitted (coming into force in accordance with s. 53(3) of the amending Measure) by virtue of [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukcm/2021/2/schedule/4/paragraph/1) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
 
 [^c555890]: Textual amendment: Word in s. 27 inserted (1.9.1995) by [1995 No. 2](https://www.legislation.gov.uk/ukcm/1995/2), [s. 5(a)](https://www.legislation.gov.uk/ukcm/1995/2/section/5/a); [Instrument dated 26.7.1995 made by Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1995-07-26)
 
@@ -279,7 +279,7 @@ In the construction of this Act the term “**canon**” shall be construed to m
 
 [^c555898]: Textual amendment: [Ss. 16](https://www.legislation.gov.uk/ukpga/Vict/3-4/113/section/16), [34](https://www.legislation.gov.uk/ukpga/Vict/3-4/113/section/34) repealed by [Archdeaconries (Augmentation) Measure 1953 (No. 4)](https://www.legislation.gov.uk/ukcm/1953/4), [Sch.](https://www.legislation.gov.uk/ukcm/1953/4/schedule)
 
-[^key-d618e9f17856cb45aaecc3b43d23a0a4]: Textual amendment: S. 35 repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 1](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/1); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-d618e9f17856cb45aaecc3b43d23a0a4]: Textual amendment: S. 35 repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 1](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/1); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
 
 [^c555899]: Textual amendment: [S. 36](https://www.legislation.gov.uk/ukpga/Vict/3-4/113/section/36) repealed by [Ecclesiastical Commissioners Act 1841 (c. 39)](https://www.legislation.gov.uk/ukpga/1841/39), [s. 12](https://www.legislation.gov.uk/ukpga/1841/39/section/12)
 
@@ -307,9 +307,9 @@ In the construction of this Act the term “**canon**” shall be construed to m
 
 [^c555911]: Textual amendment: Ss. \[1\]–4, 8–15, 17, 18, 20–23, 25, 26, 28, 33, 41, 45, 46, 49–53, 59, 61, 63, 64, 66 and Sch. repealed by [Cathedrals Measure 1963 (No. 2)](https://www.legislation.gov.uk/ukcm/1963/2), [Sch. 2](https://www.legislation.gov.uk/ukcm/1963/2/schedule/2)
 
-[^key-30cac3672582981d0dfde82aba7c2137]: Textual amendment: S. 54 repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/3); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-30cac3672582981d0dfde82aba7c2137]: Textual amendment: S. 54 repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/3); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
 
-[^key-b273ac22ae4723735f250dea295bc567]: Textual amendment: S. 55 repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/3); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-b273ac22ae4723735f250dea295bc567]: Textual amendment: S. 55 repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/3); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
 
 [^c555914]: Textual amendment: [S. 56](https://www.legislation.gov.uk/ukpga/Vict/3-4/113/section/56) repealed by [Endowments and Glebe Measure 1976 (No. 4)](https://www.legislation.gov.uk/ukcm/1976/4), [Sch. 8](https://www.legislation.gov.uk/ukcm/1976/4/schedule/8)
 
@@ -339,7 +339,7 @@ In the construction of this Act the term “**canon**” shall be construed to m
 
 [^c555932]: Textual amendment: Words in s. 67 repealed (1.1.2001) by [2000 No. 1](https://www.legislation.gov.uk/ukcm/2000/1), [s. 20](https://www.legislation.gov.uk/ukcm/2000/1/section/20), [Sch. 8 Pt. I](https://www.legislation.gov.uk/ukcm/2000/1/schedule/8/part/I); [Instrument dated 14.12.2000 made by the Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/2000-12-14)
 
-[^key-429eb678d2e9e1bfe444976e30314d9e]: Textual amendment: Words in [s. 67](https://www.legislation.gov.uk/ukpga/Vict/3-4/113/section/67) repealed (E.) (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [ss. 1(1)](https://www.legislation.gov.uk/ukcm/2014/1/section/1/1), [21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
+[^c-429eb678d2e9e1bfe444976e30314d9e]: Textual amendment: Words in [s. 67](https://www.legislation.gov.uk/ukpga/Vict/3-4/113/section/67) repealed (E.) (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [ss. 1(1)](https://www.legislation.gov.uk/ukcm/2014/1/section/1/1), [21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
 
 [^c555935]: Modification: [S.68](https://www.legislation.gov.uk/ukpga/Vict/3-4/113/section/68) amended (30.6.1999) by [1999 No. 1](https://www.legislation.gov.uk/ukcm/1999/1), [ss. 36(2)(6)](https://www.legislation.gov.uk/ukcm/1999/1/section/36/2/6), [38(2)(3)](https://www.legislation.gov.uk/ukcm/1999/1/section/38/2/3) (with [ss. 33](https://www.legislation.gov.uk/ukcm/1999/1/section/33), [34](https://www.legislation.gov.uk/ukcm/1999/1/section/34), [37](https://www.legislation.gov.uk/ukcm/1999/1/section/37))
 
@@ -367,9 +367,9 @@ In the construction of this Act the term “**canon**” shall be construed to m
 
 [^c555947]: Textual amendment: Words substituted by virtue of [Church Commissioners Measure 1947 (No. 2)](https://www.legislation.gov.uk/ukcm/1947/2), [s. 18(2)](https://www.legislation.gov.uk/ukcm/1947/2/section/18/2)
 
-[^key-db6309b540e0efbfda2a240d862f4d02]: Textual amendment: S. 83 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6 Group 2(1)](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6)
+[^c-db6309b540e0efbfda2a240d862f4d02]: Textual amendment: S. 83 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6 Group 2(1)](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6)
 
-[^key-018451a9f416bb2660a50b4eae370476]: Textual amendment: S. 84 repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 7](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/7); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-018451a9f416bb2660a50b4eae370476]: Textual amendment: S. 84 repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 7](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/7); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
 
 [^c555950]: Modification: S. 84 amended (30.6.1999) by [1999 No. 1](https://www.legislation.gov.uk/ukcm/1999/1), [ss. 36(2)(6)](https://www.legislation.gov.uk/ukcm/1999/1/section/36/2/6), [38(2)(3)](https://www.legislation.gov.uk/ukcm/1999/1/section/38/2/3) (with [ss. 33](https://www.legislation.gov.uk/ukcm/1999/1/section/33), [34](https://www.legislation.gov.uk/ukcm/1999/1/section/34), [37](https://www.legislation.gov.uk/ukcm/1999/1/section/37))
 
@@ -377,15 +377,15 @@ In the construction of this Act the term “**canon**” shall be construed to m
 
 [^c555952]: Textual amendment: [S. 85](https://www.legislation.gov.uk/ukpga/Vict/3-4/113/section/85) repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt. VI](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/VI)
 
-[^key-25f8830f2def2461a878442b55c3b436]: Textual amendment: S. 86 repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 7](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/7); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-25f8830f2def2461a878442b55c3b436]: Textual amendment: S. 86 repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 7](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/7); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
 
-[^key-7d7f9ca913094a86fc25441f271795e7]: Textual amendment: S. 87 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6 Group 2(1)](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6)
+[^c-7d7f9ca913094a86fc25441f271795e7]: Textual amendment: S. 87 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6 Group 2(1)](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6)
 
-[^key-726c8c067851257d2e55d1ae21fe0721]: Textual amendment: S. 88 repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 7](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/7); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-726c8c067851257d2e55d1ae21fe0721]: Textual amendment: S. 88 repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 7](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/7); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
 
-[^key-b48327ef67ebc707686bfa52304fc371]: Textual amendment: S. 89 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6 Group 2(1)](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6)
+[^c-b48327ef67ebc707686bfa52304fc371]: Textual amendment: S. 89 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6 Group 2(1)](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6)
 
-[^key-aa32a50e88ed82ed91a1ea319feadcc2]: Textual amendment: S. 90 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6 Group 2(1)](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6)
+[^c-aa32a50e88ed82ed91a1ea319feadcc2]: Textual amendment: S. 90 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6 Group 2(1)](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6)
 
 [^c555958]: Textual amendment: [S. 91](https://www.legislation.gov.uk/ukpga/Vict/3-4/113/section/91) repealed by [Ecclesiastical Commissioners Act 1850 (c. 94)](https://www.legislation.gov.uk/ukpga/1850/94), [s. 5](https://www.legislation.gov.uk/ukpga/1850/94/section/5)
 

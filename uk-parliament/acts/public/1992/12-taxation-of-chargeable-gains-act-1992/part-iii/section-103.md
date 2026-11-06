@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Restriction on availability of indexation allowance.[^key-bf7ac8c3abde15f14bcf2992586328ff]
+## 103. Restriction on availability of indexation allowance.[^c-bf7ac8c3abde15f14bcf2992586328ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf7ac8c3abde15f14bcf2992586328ff]: Textual amendment: S. 103 repealed (with effect in accordance with s. 93(11) of the amending Act) by [Finance Act 1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), [s. 93(7)](https://www.legislation.gov.uk/ukpga/1994/9/section/93/7), [Sch. 26 Pt. V(8)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/26/part/V/8) (with [Sch. 12](https://www.legislation.gov.uk/ukpga/1994/9/schedule/12))
+[^c-bf7ac8c3abde15f14bcf2992586328ff]: Textual amendment: S. 103 repealed (with effect in accordance with s. 93(11) of the amending Act) by [Finance Act 1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), [s. 93(7)](https://www.legislation.gov.uk/ukpga/1994/9/section/93/7), [Sch. 26 Pt. V(8)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/26/part/V/8) (with [Sch. 12](https://www.legislation.gov.uk/ukpga/1994/9/schedule/12))

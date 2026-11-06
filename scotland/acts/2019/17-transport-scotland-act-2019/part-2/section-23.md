@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Power to share information[^key-60753e35cd1167cab4ac5f94ee51c0d5]
+## 23. Power to share information[^c-60753e35cd1167cab4ac5f94ee51c0d5]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60753e35cd1167cab4ac5f94ee51c0d5]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2019/17/section/23) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)
+[^c-60753e35cd1167cab4ac5f94ee51c0d5]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2019/17/section/23) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)

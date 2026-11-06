@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Meaning of “airspace change proposal”[^key-ae8234d7814c711eb25b5b4c0a33e10f]
+## 1. Meaning of “airspace change proposal”[^c-ae8234d7814c711eb25b5b4c0a33e10f]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In this Part references to an “airspace change proposal” are to a proposal t
 
 ## Annotations
 
-[^key-ae8234d7814c711eb25b5b4c0a33e10f]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/12/section/1) in force at 18.2.2022 by [S.I. 2022/119](https://www.legislation.gov.uk/uksi/2022/119), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/119/regulation/2/a)
+[^c-ae8234d7814c711eb25b5b4c0a33e10f]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/12/section/1) in force at 18.2.2022 by [S.I. 2022/119](https://www.legislation.gov.uk/uksi/2022/119), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/119/regulation/2/a)

@@ -33,11 +33,11 @@ summary: ''
 
 (5) When the relevant person becomes aware that all or part of the rights under the insurance policy are being, or have been, assigned to an individual, body corporate, trust or other legal arrangement which is receiving the value or part of the value of the insurance policy for its own benefit ( “ the new beneficiary ”), the relevant person must identify the new beneficiary as soon as possible after becoming aware of the assignment, and in any case before a payment is made under the policy.
 
-(6) The relevant person must not set up an anonymous account, an anonymous passbook or an anonymous safe-deposit box[^key-9f48a2449dffd8bf260270c78d2066ec] for any new or existing customer.
+(6) The relevant person must not set up an anonymous account, an anonymous passbook or an anonymous safe-deposit box[^c-9f48a2449dffd8bf260270c78d2066ec] for any new or existing customer.
 
 (7) The relevant person must apply customer due diligence measures to all anonymous accounts and passbooks in existence on the date on which these Regulations come into force, and in any event before such accounts or passbooks are used in any way.
 
-(7A)[^key-bf21ebf9272810f4abfb0ff8b5270bcb] The relevant person must apply customer due diligence measures to all anonymous safe-deposit boxes in existence on 10th January 2019, and in any event before such safe-deposit boxes are used in any way.
+(7A)[^c-bf21ebf9272810f4abfb0ff8b5270bcb] The relevant person must apply customer due diligence measures to all anonymous safe-deposit boxes in existence on 10th January 2019, and in any event before such safe-deposit boxes are used in any way.
 
 (8) A relevant person which—
 
@@ -51,7 +51,7 @@ may not issue shares evidenced by a share certificate (or any other documentary 
 - (a) an application for an authorisation order under regulation 12 of the Open-ended Investment Companies Regulations 2001 was made in relation to that open-ended investment company before the date on which these Regulations come into force; and
 - (b) that application was not determined until a date on or after the date on which these Regulations come into force.
 
-(10)[^key-1efabf7c6f531c2f46749b9ce7afe784] Paragraphs (11) to (17) apply if the relevant person provides a customer with a new account into which monies are pooled (“pooled account”) on or after the day on which this paragraph comes into force.
+(10)[^c-1efabf7c6f531c2f46749b9ce7afe784] Paragraphs (11) to (17) apply if the relevant person provides a customer with a new account into which monies are pooled (“pooled account”) on or after the day on which this paragraph comes into force.
 
 (11) When providing a customer with a pooled account, the relevant person must—
 
@@ -75,10 +75,10 @@ may not issue shares evidenced by a share certificate (or any other documentary 
 
 ## Annotations
 
-[^key-9f48a2449dffd8bf260270c78d2066ec]: Textual amendment: Words in reg. 29(6) substituted (10.1.2019) by [The Money Laundering and Terrorist Financing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1337)](https://www.legislation.gov.uk/uksi/2018/1337), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1337/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2018/1337/regulation/3/a)
+[^c-9f48a2449dffd8bf260270c78d2066ec]: Textual amendment: Words in reg. 29(6) substituted (10.1.2019) by [The Money Laundering and Terrorist Financing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1337)](https://www.legislation.gov.uk/uksi/2018/1337), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1337/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2018/1337/regulation/3/a)
 
-[^key-bf21ebf9272810f4abfb0ff8b5270bcb]: Textual amendment: Reg. 29(7A) inserted (10.1.2019) by [The Money Laundering and Terrorist Financing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1337)](https://www.legislation.gov.uk/uksi/2018/1337), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1337/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2018/1337/regulation/3/b)
+[^c-bf21ebf9272810f4abfb0ff8b5270bcb]: Textual amendment: Reg. 29(7A) inserted (10.1.2019) by [The Money Laundering and Terrorist Financing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1337)](https://www.legislation.gov.uk/uksi/2018/1337), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1337/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2018/1337/regulation/3/b)
 
 [^c23048121]: Marginal citation: [S.I. 2001/1228](https://www.legislation.gov.uk/uksi/2001/1228).
 
-[^key-1efabf7c6f531c2f46749b9ce7afe784]: Textual amendment: [Reg. 29(10)-(18)](https://www.legislation.gov.uk/uksi/2017/692/regulation/29/10) inserted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2026/621/regulation/15)
+[^c-1efabf7c6f531c2f46749b9ce7afe784]: Textual amendment: [Reg. 29(10)-(18)](https://www.legislation.gov.uk/uksi/2017/692/regulation/29/10) inserted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2026/621/regulation/15)

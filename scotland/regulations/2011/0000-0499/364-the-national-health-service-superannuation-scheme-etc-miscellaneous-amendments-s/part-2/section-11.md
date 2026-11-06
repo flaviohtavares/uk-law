@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Amendment of regulation S2[^key-2d016c3da7fdfa650a8c432f3d2d0126]
+## 11. Amendment of regulation S2[^c-2d016c3da7fdfa650a8c432f3d2d0126]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In regulation S2 (reduction of pension on return to NHS employment)—
 
 ## Annotations
 
-[^key-2d016c3da7fdfa650a8c432f3d2d0126]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2011/364/regulation/11) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-2d016c3da7fdfa650a8c432f3d2d0126]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2011/364/regulation/11) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

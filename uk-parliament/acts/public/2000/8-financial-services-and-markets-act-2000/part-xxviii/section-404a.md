@@ -31,7 +31,7 @@ summary: ''
 - (e) as to the things that relevant firms are, or are not, to do in establishing and operating consumer redress schemes;
 - (f) securing that relevant firms are not required to investigate anything occurring after a specified date;
 - (g) specifying the times by which anything required to be done under any consumer redress scheme is to be done;
-- (h) requiring relevant firms to provide information to the FCA[^key-70992176a3e5d4f5b664c1641550cf7c];
+- (h) requiring relevant firms to provide information to the FCA[^c-70992176a3e5d4f5b664c1641550cf7c];
 - (i) authorising one or more competent persons to do anything for the purposes of, or in connection with, the establishment or operation of any consumer redress scheme;
 - (j) for the nomination or approval by the FCA of persons authorised under paragraph (i);
 - (k) as to the circumstances in which, instead of a relevant firm, the FCA (or one or more competent persons acting on the FCA's behalf) may carry out the investigation and take the other relevant steps under any consumer redress scheme;
@@ -66,4 +66,4 @@ in relation to any determination mentioned in section 404(6) and (7) made by the
 
 [^c2078023]: Textual amendment: Ss. 404-404G and preceding cross-heading substituted (12.10.2010) for s. 404 and preceding cross-heading by [Financial Services Act 2010 (c. 28)](https://www.legislation.gov.uk/ukpga/2010/28), [ss. 14](https://www.legislation.gov.uk/ukpga/2010/28/section/14), [26(3)](https://www.legislation.gov.uk/ukpga/2010/28/section/26/3); [S.I. 2010/2480](https://www.legislation.gov.uk/uksi/2010/2480), [art. 2](https://www.legislation.gov.uk/uksi/2010/2480/article/2)
 
-[^key-70992176a3e5d4f5b664c1641550cf7c]: Textual amendment: Word in s. 404A substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 19](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/19) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-70992176a3e5d4f5b664c1641550cf7c]: Textual amendment: Word in s. 404A substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 19](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/19) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

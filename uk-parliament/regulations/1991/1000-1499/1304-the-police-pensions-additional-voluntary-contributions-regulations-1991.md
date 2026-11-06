@@ -42,27 +42,27 @@ Coming into force
 
 1st July 1991
 
-In exercise of the powers conferred on me by sections 1 to 7 of the Police Pensions Act 1976[^f00001], and after consultation with the Police Negotiating Board for the United Kingdom, I hereby with the consent of the Treasury[^f00002] make the following Regulations:[^key-5de2095e565f9777cfd90954f0beb387]
+In exercise of the powers conferred on me by sections 1 to 7 of the Police Pensions Act 1976[^f00001], and after consultation with the Police Negotiating Board for the United Kingdom, I hereby with the consent of the Treasury[^f00002] make the following Regulations:[^c-5de2095e565f9777cfd90954f0beb387]
 
-## 1. Citation and commencement[^key-2619b58c90a5c20686c993342dd9b8cc]
+## 1. Citation and commencement[^c-2619b58c90a5c20686c993342dd9b8cc]
 
 These Regulations may be cited as the Police Pensions (Additional Voluntary Contributions) Regulations 1991, and shall come into force on 1st July 1991 but have effect as from 6th April 1990.
 
-## 2. Interpretation[^key-450261111b142033a15e4d1dacba38e7]
+## 2. Interpretation[^c-450261111b142033a15e4d1dacba38e7]
 
 (1) In these Regulations, unless the context otherwise requires, any reference to a numbered regulation or Schedule is to be construed as a reference to the regulation or Schedule which bears that number in these Regulations, and any reference to a numbered paragraph in a regulation of or a Schedule to these Regulations is to be construed as a reference to the paragraph bearing that number in that regulation or, as the case may be, that Schedule.
 
-(2) In these Regulations references to the Taxes Act are references to the Income and Corporation Taxes Act 1988[^f00003] , references to the 1999 Act are references to the Welfare Reform and Pensions Act 1999 *(Extent: S)*[^key-dabd1b9cf13cbad58ee7e3290b82e108] and references to the 1987 Regulations are references to the Police Pensions Regulations 1987[^f00004].
+(2) In these Regulations references to the Taxes Act are references to the Income and Corporation Taxes Act 1988[^f00003] , references to the 1999 Act are references to the Welfare Reform and Pensions Act 1999 *(Extent: S)*[^c-dabd1b9cf13cbad58ee7e3290b82e108] and references to the 1987 Regulations are references to the Police Pensions Regulations 1987[^f00004].
 
 (3) In these Regulations, unless the context otherwise requires—
 
-- “the *(Extent: E+W)*[^key-3ad3e7bcb9464c01794cbd7d120feec8] 1993 Act *(Extent: E+W)*” means the Pension Schemes Act 1993; *(Extent: E+W)*
+- “the *(Extent: E+W)*[^c-3ad3e7bcb9464c01794cbd7d120feec8] 1993 Act *(Extent: E+W)*” means the Pension Schemes Act 1993; *(Extent: E+W)*
 - “the *(Extent: E+W)* 1999 Act *(Extent: E+W)*” means the Welfare Reform and Pensions Act 1999; *(Extent: E+W)*
-- “the *(Extent: S)*[^key-6f712b668a480dff5f4d2feebc37a1c4] 2014 Act *(Extent: S)*” means the Taxation of Pensions Act 2014; *(Extent: S)*
+- “the *(Extent: S)*[^c-6f712b668a480dff5f4d2feebc37a1c4] 2014 Act *(Extent: S)*” means the Taxation of Pensions Act 2014; *(Extent: S)*
 - “the *(Extent: S)* 2009 Regulations *(Extent: S)*” means the Registered Pension Schemes (Authorised Payments) Regulations 2009; *(Extent: S)*
-- “approved additional voluntary contributions provider” means[^key-31db41e6d500917a130c748fec2ebb0d] The Equitable Life Assurance Society *(Extent: E+W)* *(affected by repeal, see note)*[^key-dd623c0cd62fc2868bc5f51ea59e4b29] Utmost Life and Pensions Limited *(Extent: E+W)* or The Standard Life Assurance Company *(Extent: S)* *(affected by repeal, see note)*[^key-3534691551f8b22286fa0d360978355e] , The Standard Life Assurance Company or Utmost Life and Pensions Limited *(Extent: S)*;
-- [^key-5117b272cf57e9d024d47883dc6eb029]...
-- “the *(Extent: S)*[^key-752ea21a4d5762130219e0e193ad4b83] AVC *(Extent: S)* scheme” means the occupational pension scheme (within the meaning of section 1 of the Pension Schemes Act 1993) established under section 1 of the Police Pensions Act 1976 and these Regulations; *(Extent: S)*
+- “approved additional voluntary contributions provider” means[^c-31db41e6d500917a130c748fec2ebb0d] The Equitable Life Assurance Society *(Extent: E+W)* *(affected by repeal, see note)*[^c-dd623c0cd62fc2868bc5f51ea59e4b29] Utmost Life and Pensions Limited *(Extent: E+W)* or The Standard Life Assurance Company *(Extent: S)* *(affected by repeal, see note)*[^c-3534691551f8b22286fa0d360978355e] , The Standard Life Assurance Company or Utmost Life and Pensions Limited *(Extent: S)*;
+- [^c-5117b272cf57e9d024d47883dc6eb029]...
+- “the *(Extent: S)*[^c-752ea21a4d5762130219e0e193ad4b83] AVC *(Extent: S)* scheme” means the occupational pension scheme (within the meaning of section 1 of the Pension Schemes Act 1993) established under section 1 of the Police Pensions Act 1976 and these Regulations; *(Extent: S)*
 - “basic contributions” means contributions paid pursuant to an election under regulation 4(1);
 - “basic contributor” is to be construed in accordance with regulation 7;
 - “cash equivalent” means a cash equivalent mentioned in paragraph 12(1) of Schedule 1A to the Social Security Pensions Act 1975[^f00005];
@@ -74,8 +74,8 @@ These Regulations may be cited as the Police Pensions (Additional Voluntary Cont
 - “free-standing additional voluntary contributions scheme” means an approved scheme which falls within section 591(2)(h) of the Taxes Act;
 - “the Index” means the index of retail prices published by the Department of Employment;
 - “insurance company” means— *(Extent: S)*[^M_F_0f809421-d3a8-4aeb-c8fc-194e02be2a02] *(Extent: E+W)*[^M_F_9edc4aaa-7757-4a32-8565-21f340746d10]
-  - (a) a person who has permission under Part 4 of the Financial Services and Markets Act 2000 to effect or carry out contracts of long-term insurance, *(Extent: S)* *(Extent: E+W)* [^key-b9755203db7252bb78ec5c5e4c563cc9]... *(Extent: S)* *(Extent: E+W)*
-  - (b) [^key-55ae5329b95ba9ee732dabe7a12ae480]... *(Extent: S)* *(Extent: E+W)*
+  - (a) a person who has permission under Part 4 of the Financial Services and Markets Act 2000 to effect or carry out contracts of long-term insurance, *(Extent: S)* *(Extent: E+W)* [^c-b9755203db7252bb78ec5c5e4c563cc9]... *(Extent: S)* *(Extent: E+W)*
+  - (b) [^c-55ae5329b95ba9ee732dabe7a12ae480]... *(Extent: S)* *(Extent: E+W)*
 - “normal benefit age” means 60; *(Extent: E+W)*
 - “overseas policeman” has the same meaning as in the 1987 Regulations;
 - “participator” means a basic contributor or a person who has ceased to be a basic contributor but has not exercised any right to take a cash equivalent or to be paid a lump sum under regulation 14(1);
@@ -91,18 +91,18 @@ These Regulations may be cited as the Police Pensions (Additional Voluntary Cont
 - “pension sharing order” means a pension sharing order or other provision referred to in section 28(1) of the 1999 Act or Article 25(1) of the Welfare Reform and Pensions (Northern Ireland) Order 1999; *(Extent: S)*
 - “pension sharing order” means an order or provision mentioned in section 28(1) of the *(Extent: E+W)* 1999 Act *(Extent: E+W)*; *(Extent: E+W)*
 - “pensionable policemean” means a person by whom contributions are for the time being payable under regulation G2 of the 1987 Regulations;
-- “pension provider” means a body listed in schedule 1, *(Extent: S)*[^key-7368e3cb30d9af2a62d1691b2613174d]
+- “pension provider” means a body listed in schedule 1, *(Extent: S)*[^c-7368e3cb30d9af2a62d1691b2613174d]
 - “Police Pensions Scheme” means the Police Pensions Scheme, the rules of which are set out in the Police Pensions Regulations 1987; *(Extent: S)*
-- “registered pension scheme” means a scheme registered under section 153 of the Finance Act 2004;[^key-9f01a475a35110232f3fb8c463ae72d1]
-- “relevant *(Extent: E+W)* police pension authority[^key-45b51e7b0cf028f0f9d6b9a004e64667] *(Extent: E+W)*” has the meaning given by regulation L1(4) of the Police Pensions Regulations 1987; *(Extent: E+W)*
+- “registered pension scheme” means a scheme registered under section 153 of the Finance Act 2004;[^c-9f01a475a35110232f3fb8c463ae72d1]
+- “relevant *(Extent: E+W)* police pension authority[^c-45b51e7b0cf028f0f9d6b9a004e64667] *(Extent: E+W)*” has the meaning given by regulation L1(4) of the Police Pensions Regulations 1987; *(Extent: E+W)*
 - “retire” means become entitled to payment of a pension or gratuity under regulations B1 to B5 of the 1987 Regulations, and cognate expressions are to be construed accordingly;
 - “shareable rights” means any rights a person has under the *(Extent: S)* AVC *(Extent: S)* Scheme except those rights referred to in regulation 2 of the Pension Sharing (Valuation) Regulations 2000; *(Extent: S)*
-- [^key-1be2343361cbb38a9ff461cf34036e95]... and
+- [^c-1be2343361cbb38a9ff461cf34036e95]... and
 - “tax year” means the 12 months beginning with 6th April in any year.
 
 *Extent: E+W*
 
-(4)[^key-c341d9dd99e02978acbb9588ea9ec87c] The definition of “insurance company” in paragraph (3) must be read with—
+(4)[^c-c341d9dd99e02978acbb9588ea9ec87c] The definition of “insurance company” in paragraph (3) must be read with—
 
 - (a) section 22 of the Financial Services and Markets Act 2000,
 - (b) any relevant order under that section, and
@@ -110,30 +110,30 @@ These Regulations may be cited as the Police Pensions (Additional Voluntary Cont
 
 *Extent: S*
 
-(4)[^key-25f2d1c3abb0e64e869731b20c2d82ab] The definition of “insurance company” in paragraph (3) must be read with–
+(4)[^c-25f2d1c3abb0e64e869731b20c2d82ab] The definition of “insurance company” in paragraph (3) must be read with–
 
 - (a) section 22 (the classes of activity and categories of investment) of the Financial Services and Markets Act 2000,
 - (b) any relevant order under that section, and
 - (c) Schedule 2 to that Act.
 
-## 3. Making and acceptance of elections[^key-0f44056d17802aefa4e5b23cbfa5cb1e]
+## 3. Making and acceptance of elections[^c-0f44056d17802aefa4e5b23cbfa5cb1e]
 
 (1) Any election under these Regulations—
 
-- (a) is to be made by giving written notice to the police authority *(Extent: E+W)* *(affected by repeal, see note)*[^key-45b51e7b0cf028f0f9d6b9a004e64667] police pension authority *(Extent: E+W)*, and
+- (a) is to be made by giving written notice to the police authority *(Extent: E+W)* *(affected by repeal, see note)*[^c-45b51e7b0cf028f0f9d6b9a004e64667] police pension authority *(Extent: E+W)*, and
 - (b) is, subject to paragraphs (2) to (4), to be accepted by the authority.
 
-(2) No election under these Regulations is to be accepted if any limit imposed by regulation 8(4) (payment and amount of contributions)[^key-fe69daf1b3f2939b7eb635e2aae26950] would be exceeded.
+(2) No election under these Regulations is to be accepted if any limit imposed by regulation 8(4) (payment and amount of contributions)[^c-fe69daf1b3f2939b7eb635e2aae26950] would be exceeded.
 
 *Extent: E+W*
 
-(2A)[^key-775ca9f4684346f1d43ba8e06599cde1] No election under regulation 4(1) (payment of basic contributions) or 5(1) (payment of death benefit contributions) made on or after 1st October 2010 is to be accepted.
+(2A)[^c-775ca9f4684346f1d43ba8e06599cde1] No election under regulation 4(1) (payment of basic contributions) or 5(1) (payment of death benefit contributions) made on or after 1st October 2010 is to be accepted.
 
 (2B (Extent: E+W))  No election under regulation 6(1)(a) (alteration of amount of basic contributions) or 6(2)(a) (alteration of amount to be secured by death benefit contributions) made on or after 1st October 2010 is to be accepted if it would have the effect of increasing the amount of the basic contributions or the amount to be secured by the death benefit contributions, as the case may be. *(Extent: E+W)*
 
 *Extent: S*
 
-(2A)[^key-580147e0d91b52fa481742147cf8ee18] No election under regulation 4(1) (election to pay basic contributions) or 5(1) (elections in respect of death benefit cover) made on or after 1st October 2010 is to be accepted.
+(2A)[^c-580147e0d91b52fa481742147cf8ee18] No election under regulation 4(1) (election to pay basic contributions) or 5(1) (elections in respect of death benefit cover) made on or after 1st October 2010 is to be accepted.
 
 (2B (Extent: S))  No election under regulation 6(1)(a) (election to alter amount of basic contributions) or regulation 6(2)(a) or 6(3) (elections to alter amount to be secured by death benefit contributions) made on or after 1st October 2010 is to be accepted if it would have the effect of increasing the amount of the basic contributions or the amount to be secured by the death benefit contributions, as the case may be. *(Extent: S)*
 
@@ -142,22 +142,22 @@ These Regulations may be cited as the Police Pensions (Additional Voluntary Cont
 - (a) any information required under regulation 16(2) is not given, or
 - (b) the information given is such that the cover could not be secured by investment under regulation 9(3).
 
-(4)[^key-820b4e7981466a2bed3a669f19065071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-820b4e7981466a2bed3a669f19065071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) The police authority *(Extent: E+W)* *(affected by repeal, see note)*[^key-45b51e7b0cf028f0f9d6b9a004e64667] police pension authority *(Extent: E+W)* are to give effect as soon as is reasonably practicable to any election accepted by them.
+(5) The police authority *(Extent: E+W)* *(affected by repeal, see note)*[^c-45b51e7b0cf028f0f9d6b9a004e64667] police pension authority *(Extent: E+W)* are to give effect as soon as is reasonably practicable to any election accepted by them.
 
-## 4. Election to pay basic contributions[^key-1c4466de194f27a837638e29e47424bf]
+## 4. Election to pay basic contributions[^c-1c4466de194f27a837638e29e47424bf]
 
-(1) A pensionable policeman may at any time before 1st October 2010[^key-504706e34a11ba65e6c91c40d265a8f1] elect to pay basic contributions under these Regulations.
+(1) A pensionable policeman may at any time before 1st October 2010[^c-504706e34a11ba65e6c91c40d265a8f1] elect to pay basic contributions under these Regulations.
 
 (2) The notice of such an election is to specify—
 
 - (a) the amount of each contribution, and
 - (b) the way in which the contributions are to be invested under regulation 9.
 
-## 5. Elections in respect of death benefit cover[^key-eb082d22fc1290d2d52d9f2b08d4e248]
+## 5. Elections in respect of death benefit cover[^c-eb082d22fc1290d2d52d9f2b08d4e248]
 
-(1) A pensionable policeman may at any time before 1st October 2010[^key-d3bb83386dfecf9bcc96d90ad4730857] elect to pay death benefit contributions to secure death benefit cover, that is to say the payment of a lump sum in the event of his dying in the circumstances specified in paragraph (2).
+(1) A pensionable policeman may at any time before 1st October 2010[^c-d3bb83386dfecf9bcc96d90ad4730857] elect to pay death benefit contributions to secure death benefit cover, that is to say the payment of a lump sum in the event of his dying in the circumstances specified in paragraph (2).
 
 (2) The circumstances are that—
 
@@ -166,7 +166,7 @@ These Regulations may be cited as the Police Pensions (Additional Voluntary Cont
 
 (3) A pensionable policeman’s retirement date is the date on which he would be required by regulation A18(1) of the 1987 Regulations to retire assuming that there were no postponement under regulation A18(2) and no change of rank.
 
-(4) The notice of an election under paragraph (1) is to specify the approved additional voluntary contributions provider with which the contributions are to be invested and[^key-fd00c94860bc7f2413ed02c9ec4daa3a] the amount to be secured [^key-0f0c0264adc592ebcca565549a4a3726]....
+(4) The notice of an election under paragraph (1) is to specify the approved additional voluntary contributions provider with which the contributions are to be invested and[^c-fd00c94860bc7f2413ed02c9ec4daa3a] the amount to be secured [^c-0f0c0264adc592ebcca565549a4a3726]....
 
 (5) An election under paragraph (1) ceases to have effect on the person’s retirement date, but if the time at which he is required by regulation A18(1) of the 1987 Regulations to retire becomes later by reason of—
 
@@ -177,27 +177,27 @@ These Regulations may be cited as the Police Pensions (Additional Voluntary Cont
 
 (6) Any continued death benefit cover secured by an election under paragraph (5) lapses if the person retires before the date to which the cover was continued.
 
-## 6. Variation and cancellation of elections[^key-ac470a6c6beaf7cf411a177036db1a86]
+## 6. Variation and cancellation of elections[^c-ac470a6c6beaf7cf411a177036db1a86]
 
-(1) Subject to paragraph (4),[^key-097f9e5e0f06437da0802585c3c90f16] a basic contributor may at any time elect—
+(1) Subject to paragraph (4),[^c-097f9e5e0f06437da0802585c3c90f16] a basic contributor may at any time elect—
 
 - (a) to alter the amount of his basic contributions, or
 - (b) to require them to be invested in future, under regulation 9, in a different way, or
-- (c) to require the police authority *(Extent: E+W)* *(affected by repeal, see note)*[^key-45b51e7b0cf028f0f9d6b9a004e64667] police pension authority *(Extent: E+W)* to realise any investment and to reinvest the proceeds, under regulation 9, in a different way, or
+- (c) to require the police authority *(Extent: E+W)* *(affected by repeal, see note)*[^c-45b51e7b0cf028f0f9d6b9a004e64667] police pension authority *(Extent: E+W)* to realise any investment and to reinvest the proceeds, under regulation 9, in a different way, or
 - (d) to cancel his election under regulation 4(1).
 
 (2) Subject to paragraph (4), a death benefit contributor may at any time elect—
 
-- (a) to alter the approved additional voluntary contributions provider with which the contributions are to be invested and[^key-2e8cfaa162eccdecd965107a859b8d48] the amount to be secured [^key-910e11c74b4328154de646e1c80f210c]..., or
+- (a) to alter the approved additional voluntary contributions provider with which the contributions are to be invested and[^c-2e8cfaa162eccdecd965107a859b8d48] the amount to be secured [^c-910e11c74b4328154de646e1c80f210c]..., or
 - (b) to cancel his election under regulation 5(1).
 
 (3) Subject to paragraph (4), a person paying further contributions under regulation 5(5) (continuance of death benefit cover during service after retirement age) may at any time make any election that he could have made under paragraph (2)(a) above if he had been paying death benefit contributions.
 
 *Extent: E+W*
 
-(4 (Extent: E+W+S))[^key-57227a089104858c902536f609113fd1] An election may not be made under any of the preceding paragraphs of this regulation on or after 1st October 2010 if it would have the effect of increasing the amount of the basic contributions or the amount to be secured by the death benefit contributions, as the case may be. *(Extent: E+W+S)*
+(4 (Extent: E+W+S))[^c-57227a089104858c902536f609113fd1] An election may not be made under any of the preceding paragraphs of this regulation on or after 1st October 2010 if it would have the effect of increasing the amount of the basic contributions or the amount to be secured by the death benefit contributions, as the case may be. *(Extent: E+W+S)*
 
-## 7. Basic and death benefit contributors[^key-ca8d249c12cadb65e0e803672408e59f]
+## 7. Basic and death benefit contributors[^c-ca8d249c12cadb65e0e803672408e59f]
 
 (1) Subject to paragraph (3), a person is a basic contributor while an election under regulation 4(1) (regular contributions) has effect.
 
@@ -205,47 +205,47 @@ These Regulations may be cited as the Police Pensions (Additional Voluntary Cont
 
 (3) A person who has ceased to be a pensionable policeman ceases to be either a basic contributor or a death benefit contributor.
 
-## 8. Payment and amount of contributions[^key-a2179abc8d37538fee82bb8b8a602c15]
+## 8. Payment and amount of contributions[^c-a2179abc8d37538fee82bb8b8a602c15]
 
-(1) Basic contributions are payable to the police authority *(Extent: E+W)* *(affected by repeal, see note)*[^key-45b51e7b0cf028f0f9d6b9a004e64667] police pension authority *(Extent: E+W)* at intervals of not less than 4 weeks.
+(1) Basic contributions are payable to the police authority *(Extent: E+W)* *(affected by repeal, see note)*[^c-45b51e7b0cf028f0f9d6b9a004e64667] police pension authority *(Extent: E+W)* at intervals of not less than 4 weeks.
 
-(2) Death benefit contributions and further contributions under regulation 5(5) (continuance of death benefit cover) are payable to the police authority *(Extent: E+W)* *(affected by repeal, see note)*[^key-45b51e7b0cf028f0f9d6b9a004e64667] police pension authority *(Extent: E+W)* at the same times as basic contributions.
+(2) Death benefit contributions and further contributions under regulation 5(5) (continuance of death benefit cover) are payable to the police authority *(Extent: E+W)* *(affected by repeal, see note)*[^c-45b51e7b0cf028f0f9d6b9a004e64667] police pension authority *(Extent: E+W)* at the same times as basic contributions.
 
-(3) All contributions are to be deducted by the police authority *(Extent: E+W)* *(affected by repeal, see note)*[^key-45b51e7b0cf028f0f9d6b9a004e64667] police pension authority *(Extent: E+W)* from the person’s pay.
+(3) All contributions are to be deducted by the police authority *(Extent: E+W)* *(affected by repeal, see note)*[^c-45b51e7b0cf028f0f9d6b9a004e64667] police pension authority *(Extent: E+W)* from the person’s pay.
 
 (4) The total of the contributions of all kinds paid in any tax year must not exceed the lesser of (A-B-C) and D, where—
 
 - A is 15 per cent of the person’s emoluments for that year,
-- B is the total of any contributions paid by him in the year to a registered pension scheme[^key-0c6291f146aa209b63cc7991071553b2],
+- B is the total of any contributions paid by him in the year to a registered pension scheme[^c-0c6291f146aa209b63cc7991071553b2],
 - C is the total of the contributions paid by him in the year under the 1987 Regulations, and
 - D is the amount which would provide the maximum allowable benefits.
 
-(5 (Extent: E+W))[^key-a346803c7257f2abc35d42e3fcdc35d6] The maximum allowable benefits are the maximum amount that can be secured having regard to regulations 5(4) and 6(2)(a). *(Extent: E+W)*
+(5 (Extent: E+W))[^c-a346803c7257f2abc35d42e3fcdc35d6] The maximum allowable benefits are the maximum amount that can be secured having regard to regulations 5(4) and 6(2)(a). *(Extent: E+W)*
 
-(5 (Extent: S))[^key-2e4c8c8ab659c2402afc63927619470f] The maximum allowable benefits are the maximum amount that can be secured in accordance with regulations 5(4) and 6(2)(a). *(Extent: S)*
+(5 (Extent: S))[^c-2e4c8c8ab659c2402afc63927619470f] The maximum allowable benefits are the maximum amount that can be secured in accordance with regulations 5(4) and 6(2)(a). *(Extent: S)*
 
-## 9. Investment of contributions[^key-695658f5a7371876597d408b361d4507]
+## 9. Investment of contributions[^c-695658f5a7371876597d408b361d4507]
 
-(1) Basic contributions are to be invested by the police authority *(Extent: E+W)* *(affected by repeal, see note)*[^key-45b51e7b0cf028f0f9d6b9a004e64667] police pension authority *(Extent: E+W)* in accordance with any election for the time being having effect under regulation 4(1) or 6(1)(b) or (c).
+(1) Basic contributions are to be invested by the police authority *(Extent: E+W)* *(affected by repeal, see note)*[^c-45b51e7b0cf028f0f9d6b9a004e64667] police pension authority *(Extent: E+W)* in accordance with any election for the time being having effect under regulation 4(1) or 6(1)(b) or (c).
 
-(2) In paragraph (1) “invested” means invested with such approved additional voluntary contributions providers and in such investments managed by those providers as may be selected by the basic contributor *(Extent: E+W)*[^key-0f45841af400e1e9ede3e5612d5a187b] with such approved additional voluntary contributions provider and in such investments managed by such provider as may be selected by the basic contributor. *(Extent: S)*[^key-926748e2473ff9b8b2aa133a486b3124]
+(2) In paragraph (1) “invested” means invested with such approved additional voluntary contributions providers and in such investments managed by those providers as may be selected by the basic contributor *(Extent: E+W)*[^c-0f45841af400e1e9ede3e5612d5a187b] with such approved additional voluntary contributions provider and in such investments managed by such provider as may be selected by the basic contributor. *(Extent: S)*[^c-926748e2473ff9b8b2aa133a486b3124]
 
-(3) Death benefit contributions and further contributions under regulation 5(5) are to be invested by the police authority *(Extent: E+W)* *(affected by repeal, see note)*[^key-45b51e7b0cf028f0f9d6b9a004e64667] police pension authority *(Extent: E+W)* with the approved additional voluntary contributions provider selected by the death benefit contributor *(Extent: E+W)*[^key-4afc4dbb0b682e1e8c54c5877139e5f6] with an approved additional voluntary contributions provider selected by the death benefit contributor *(Extent: S)*[^key-b92e5851f705306feda34228cabbc84a] so as to secure death benefit cover of the amount required by any election for the time being having effect under regulation 5(1) or (5) or 6(2) or (3).
+(3) Death benefit contributions and further contributions under regulation 5(5) are to be invested by the police authority *(Extent: E+W)* *(affected by repeal, see note)*[^c-45b51e7b0cf028f0f9d6b9a004e64667] police pension authority *(Extent: E+W)* with the approved additional voluntary contributions provider selected by the death benefit contributor *(Extent: E+W)*[^c-4afc4dbb0b682e1e8c54c5877139e5f6] with an approved additional voluntary contributions provider selected by the death benefit contributor *(Extent: S)*[^c-b92e5851f705306feda34228cabbc84a] so as to secure death benefit cover of the amount required by any election for the time being having effect under regulation 5(1) or (5) or 6(2) or (3).
 
-## 10. Inward transfers[^key-8de3e90c44888c5d92d2934b46649dfc]
+## 10. Inward transfers[^c-8de3e90c44888c5d92d2934b46649dfc]
 
-(1) At any time before 1st October 2010,[^key-ecc65e4a1e984c18cbe6d5a6845810b9] a police authority *(Extent: E+W)* *(affected by repeal, see note)*[^key-45b51e7b0cf028f0f9d6b9a004e64667] police pension authority *(Extent: E+W)* may accept a transfer value from the administrator of—
+(1) At any time before 1st October 2010,[^c-ecc65e4a1e984c18cbe6d5a6845810b9] a police authority *(Extent: E+W)* *(affected by repeal, see note)*[^c-45b51e7b0cf028f0f9d6b9a004e64667] police pension authority *(Extent: E+W)* may accept a transfer value from the administrator of—
 
 - (a) a free-standing additional voluntary contributions scheme, or
-- (b) a registered pension scheme[^key-1c2e549a4dddc118a33eebc900aea20e] which provides additional benefits but does not fall within section 591(2)(h) of the Taxes Act,
+- (b) a registered pension scheme[^c-1c2e549a4dddc118a33eebc900aea20e] which provides additional benefits but does not fall within section 591(2)(h) of the Taxes Act,
 
-in respect of a basic contributor except if or to the extent that the transfer value relates to pension credit rights *(Extent: E+W)*[^key-5d252eb427112eee7b02c85abcee4de7].
+in respect of a basic contributor except if or to the extent that the transfer value relates to pension credit rights *(Extent: E+W)*[^c-5d252eb427112eee7b02c85abcee4de7].
 
-(2 (Extent: E+W))[^key-d8db3c70f5648d341c0d202bfeb86ec9] A transfer value accepted by a *(Extent: E+W)* police pension authority *(Extent: E+W)* is to be invested by them with such approved additional voluntary contribution providers and in such investments managed by those providers as may be specified in writing by the basic contributor. *(Extent: E+W)*
+(2 (Extent: E+W))[^c-d8db3c70f5648d341c0d202bfeb86ec9] A transfer value accepted by a *(Extent: E+W)* police pension authority *(Extent: E+W)* is to be invested by them with such approved additional voluntary contribution providers and in such investments managed by those providers as may be specified in writing by the basic contributor. *(Extent: E+W)*
 
-(2)[^key-dbbaa771dfa2faf8a1dd8d08fff0552d] A transfer value accepted by a police authority is to be invested by them with an approved additional voluntary contributions provider and in such investments managed by such provider such as may be specified in writing by the basic contributor.
+(2)[^c-dbbaa771dfa2faf8a1dd8d08fff0552d] A transfer value accepted by a police authority is to be invested by them with an approved additional voluntary contributions provider and in such investments managed by such provider such as may be specified in writing by the basic contributor.
 
-## 10A. Outward transfers[^M_E_d27fc48a-0fcc-49db-e9e3-c9e5650372b1][^key-371b6dff31ca99fed7b03a4cfb511248]
+## 10A. Outward transfers[^M_E_d27fc48a-0fcc-49db-e9e3-c9e5650372b1][^c-371b6dff31ca99fed7b03a4cfb511248]
 
 *Extent: E+W*
 
@@ -260,7 +260,7 @@ in respect of a basic contributor except if or to the extent that the transfer v
 - (a) the participator is a participator in the scheme or arrangement, and
 - (b) it is a scheme or arrangement for the time being approved by the Board of Inland Revenue as a scheme or arrangement to which transfers of rights in respect of additional voluntary contributions may be made in the circumstances which apply in the case of the request by the participator in question.
 
-## 10A. Outward transfers[^V_S_e0549afa-5711-14ae-99ab-3e96b6de56a7][^key-b5734b83322908fd2e30ed78412567fe]
+## 10A. Outward transfers[^V_S_e0549afa-5711-14ae-99ab-3e96b6de56a7][^c-b5734b83322908fd2e30ed78412567fe]
 
 *Extent: S*
 
@@ -277,7 +277,7 @@ in respect of a basic contributor except if or to the extent that the transfer v
 - (a) the participator is a participator in the scheme or arrangement, and
 - (b) it is a scheme or arrangement for the time being approved by the Board of Inland Revenue as a scheme or arrangement to which transfers of rights in respect of additional voluntary contributions may be made in the circumstances which apply in the case of the request by the participator in question.
 
-## 10A. Pension sharing on divorce or nullity of marriage[^key-e631fa9ae182766733834c008fe42285]
+## 10A. Pension sharing on divorce or nullity of marriage[^c-e631fa9ae182766733834c008fe42285]
 
 *Extent: E+W*
 
@@ -289,7 +289,7 @@ in respect of a basic contributor except if or to the extent that the transfer v
 
 Schedule 1A has effect for making provision in relation to pension credit rights and pension credit payable under the scheme constituted by these Regulations.
 
-## 10C. Retirement Benefits: England and Wales[^key-f89d0bd11f4d2e9aa230873a8fdfe59e]
+## 10C. Retirement Benefits: England and Wales[^c-f89d0bd11f4d2e9aa230873a8fdfe59e]
 
 *Extent: E+W*
 
@@ -361,69 +361,69 @@ Schedule 1A has effect for making provision in relation to pension credit rights
 - (e) a Short-term Annuity means a member’s short-term annuity within the meaning of paragraph 6 of Schedule 28 to the 2004 Act;
 - (f) a Pension Payment out of Uncrystallised Funds means an uncrystallised funds pension lump sum within the meaning of paragraph 4A of Schedule 29 to the 2004 Act.
 
-## 11. Retirement pensions (affected by repeal, see note)[^key-ee208bada808d87fff57a61b47a84925][^key-cc3c2b29af057f402214c842cf2fb821][^key-cc3c2b29af057f402214c842cf2fb821]
+## 11. Retirement pensions (affected by repeal, see note)[^c-ee208bada808d87fff57a61b47a84925][^c-cc3c2b29af057f402214c842cf2fb821][^c-cc3c2b29af057f402214c842cf2fb821]
 
-(1) A participator may apply some or all of the proceeds of an investment made under regulation 9 to arrange with *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821] a pension provider[^key-e04ac2c1ccd0b282ed2db188679f1cef] *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]—
+(1) A participator may apply some or all of the proceeds of an investment made under regulation 9 to arrange with *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821] a pension provider[^c-e04ac2c1ccd0b282ed2db188679f1cef] *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]—
 
-- (a) payment of a lifetime annuity; *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
-- (b) payment of a lifetime annuity and a pension commencement lump sum; *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
-- (c) a lump sum commutation payment that— *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
-  - (i) reflects the value of benefits referred to in sub-paragraph (a) or (b); and *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
-  - (ii (affected by repeal, see note))[^key-cc3c2b29af057f402214c842cf2fb821] meets the requirements of regulations 11 and 12 of the 2009 Regulations; *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
-- (d) any payment to the participator that complies with the requirements of the 2014 Act. *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
+- (a) payment of a lifetime annuity; *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
+- (b) payment of a lifetime annuity and a pension commencement lump sum; *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
+- (c) a lump sum commutation payment that— *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
+  - (i) reflects the value of benefits referred to in sub-paragraph (a) or (b); and *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
+  - (ii (affected by repeal, see note))[^c-cc3c2b29af057f402214c842cf2fb821] meets the requirements of regulations 11 and 12 of the 2009 Regulations; *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
+- (d) any payment to the participator that complies with the requirements of the 2014 Act. *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
 
-(2) Paragraph (1) is subject to paragraphs (10) to (13). *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
+(2) Paragraph (1) is subject to paragraphs (10) to (13). *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
 
-(3) Subject to paragraphs (4) and (5), the approved additional voluntary contributions provider must provide a participator with an option to receive benefits under paragraph (1)(a) to (c). *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
+(3) Subject to paragraphs (4) and (5), the approved additional voluntary contributions provider must provide a participator with an option to receive benefits under paragraph (1)(a) to (c). *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
 
-(4) Any annuity payable in accordance with paragraph (1)(a) or (b) must— *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
+(4) Any annuity payable in accordance with paragraph (1)(a) or (b) must— *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
 
-- (a) be incapable, in whole or in part, of surrender, assignation or commutation; *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
-- (b) commence not earlier than the participator’s normal minimum pension age (within the meaning of section 279(1) of the Finance Act 2004); *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
-- (c) be payable to the participator for life. *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
+- (a) be incapable, in whole or in part, of surrender, assignation or commutation; *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
+- (b) commence not earlier than the participator’s normal minimum pension age (within the meaning of section 279(1) of the Finance Act 2004); *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
+- (c) be payable to the participator for life. *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
 
-(5) A lump sum commutation payment referred to in paragraph (1)(c) may be paid in respect of benefits payable under paragraph (1)(a), (b) or (d). *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
+(5) A lump sum commutation payment referred to in paragraph (1)(c) may be paid in respect of benefits payable under paragraph (1)(a), (b) or (d). *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
 
-(6) The approved additional voluntary contributions provider may, in addition to providing a participator with benefits under paragraph (3), provide a participator with alternative benefit options under paragraph (1)(d). *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
+(6) The approved additional voluntary contributions provider may, in addition to providing a participator with benefits under paragraph (3), provide a participator with alternative benefit options under paragraph (1)(d). *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
 
-(7) A participator must, not earlier than 3 months before the date from which the participator wishes those benefits under these Regulations to be provided, make a benefits election to the police authority specifying— *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
+(7) A participator must, not earlier than 3 months before the date from which the participator wishes those benefits under these Regulations to be provided, make a benefits election to the police authority specifying— *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
 
-- (a) whether and which benefits are to be provided under paragraph (3) or, alternatively, paragraph (6); *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
-- (b) the approved additional voluntary contributions provider who is to provide each benefit; *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
-- (c) for whom, if anyone, a dependant’s benefit is to be provided; *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
-- (d) if more than one benefit is to be provided, either— *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
-  - (i) the proportion of the amount secured by the total investments made under regulation 9 that is to be applied to the purchase or arrangement of each of them; or *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
-  - (ii (affected by repeal, see note))[^key-cc3c2b29af057f402214c842cf2fb821] the dependants’ benefits to be provided expressed as a percentage of the participator’s benefits; *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
-- (e) in respect of every annuity to be provided— *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
-  - (i) the annual rate of the annuity; *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
-  - (ii (affected by repeal, see note))[^key-cc3c2b29af057f402214c842cf2fb821] whether it is to be payable for life or for a fixed period; *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
-  - (iii (affected by repeal, see note))[^key-cc3c2b29af057f402214c842cf2fb821] whether its rate is to be fixed or to vary in accordance with the Index or to increase yearly by a specified percentage or (if lower) to increase by the increase in the Index for the year in question; *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
-  - (iv (affected by repeal, see note))[^key-cc3c2b29af057f402214c842cf2fb821] whether the rate may reduce; and *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
-- (f) in the case of a participator who chooses a life-time annuity referred to in paragraph (1)(a) or (b) and who dies within the period of 5 years beginning with the date on which the annuity commences, whether, if the annuity had continued at the rate in force at the time of the participator’s death, a lump sum is to be paid equal to the balance that would have been payable during the remainder of that period. *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
+- (a) whether and which benefits are to be provided under paragraph (3) or, alternatively, paragraph (6); *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
+- (b) the approved additional voluntary contributions provider who is to provide each benefit; *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
+- (c) for whom, if anyone, a dependant’s benefit is to be provided; *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
+- (d) if more than one benefit is to be provided, either— *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
+  - (i) the proportion of the amount secured by the total investments made under regulation 9 that is to be applied to the purchase or arrangement of each of them; or *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
+  - (ii (affected by repeal, see note))[^c-cc3c2b29af057f402214c842cf2fb821] the dependants’ benefits to be provided expressed as a percentage of the participator’s benefits; *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
+- (e) in respect of every annuity to be provided— *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
+  - (i) the annual rate of the annuity; *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
+  - (ii (affected by repeal, see note))[^c-cc3c2b29af057f402214c842cf2fb821] whether it is to be payable for life or for a fixed period; *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
+  - (iii (affected by repeal, see note))[^c-cc3c2b29af057f402214c842cf2fb821] whether its rate is to be fixed or to vary in accordance with the Index or to increase yearly by a specified percentage or (if lower) to increase by the increase in the Index for the year in question; *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
+  - (iv (affected by repeal, see note))[^c-cc3c2b29af057f402214c842cf2fb821] whether the rate may reduce; and *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
+- (f) in the case of a participator who chooses a life-time annuity referred to in paragraph (1)(a) or (b) and who dies within the period of 5 years beginning with the date on which the annuity commences, whether, if the annuity had continued at the rate in force at the time of the participator’s death, a lump sum is to be paid equal to the balance that would have been payable during the remainder of that period. *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
 
-(8) If there are exceptional circumstances of serious ill-health, the police authority may in their discretion realise the pension investments without purchasing any pension, and in that event the amount obtained becomes payable as a lump sum. *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
+(8) If there are exceptional circumstances of serious ill-health, the police authority may in their discretion realise the pension investments without purchasing any pension, and in that event the amount obtained becomes payable as a lump sum. *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
 
-(9) More than one benefits election may be made under paragraph (7) and an election must— *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
+(9) More than one benefits election may be made under paragraph (7) and an election must— *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
 
-- (a) be in writing, and *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
-- (b) contain such information as the police authority request. *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
+- (a) be in writing, and *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
+- (b) contain such information as the police authority request. *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
 
-(10) Upon receipt of a notice of election under paragraph (7), the police authority must, as soon as reasonably practicable, realise the investments made under regulation 9 and apply the proceeds in the manner specified in it. *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
+(10) Upon receipt of a notice of election under paragraph (7), the police authority must, as soon as reasonably practicable, realise the investments made under regulation 9 and apply the proceeds in the manner specified in it. *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
 
-(11) Where a participator dies before retirement or after retirement but before the benefits under this regulation are paid, the investments made under regulation 9 must be realised and are payable as a lump sum in accordance with regulation 15(2). *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
+(11) Where a participator dies before retirement or after retirement but before the benefits under this regulation are paid, the investments made under regulation 9 must be realised and are payable as a lump sum in accordance with regulation 15(2). *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
 
-(12) The police authority may realise the investments made under regulation 9 and apply the proceeds to the purchase of benefits under these Regulations from an insurer in such form as appears to the police authority to be suitable where the conditions in paragraph (13) are satisfied. *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
+(12) The police authority may realise the investments made under regulation 9 and apply the proceeds to the purchase of benefits under these Regulations from an insurer in such form as appears to the police authority to be suitable where the conditions in paragraph (13) are satisfied. *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
 
-(13) Those conditions are— *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
+(13) Those conditions are— *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
 
-- (a) the participator’s retirement date falls on or after 1st December 1999; and *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
-- (b) the participator has attained the age of 75 and has not given a notice of election under paragraph (7) before doing so. *(affected by repeal, see note)*[^key-cc3c2b29af057f402214c842cf2fb821]
+- (a) the participator’s retirement date falls on or after 1st December 1999; and *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
+- (b) the participator has attained the age of 75 and has not given a notice of election under paragraph (7) before doing so. *(affected by repeal, see note)*[^c-cc3c2b29af057f402214c842cf2fb821]
 
-## 12. Lump sum death benefit[^key-d9d1631f6541ba6ebcb177de1ed1ee39]
+## 12. Lump sum death benefit[^c-d9d1631f6541ba6ebcb177de1ed1ee39]
 
-Where a person who is paying death benefit contributions or further contributions under regulation 5(5) dies and any lump sum secured by those contributions is obtained by the police authority *(Extent: E+W)* *(affected by repeal, see note)*[^key-45b51e7b0cf028f0f9d6b9a004e64667] police pension authority *(Extent: E+W)* from the approved additional voluntary contributions provider[^key-a243bffbe83b5acedc2d2445b1d053e4] the lump sum becomes payable.
+Where a person who is paying death benefit contributions or further contributions under regulation 5(5) dies and any lump sum secured by those contributions is obtained by the police authority *(Extent: E+W)* *(affected by repeal, see note)*[^c-45b51e7b0cf028f0f9d6b9a004e64667] police pension authority *(Extent: E+W)* from the approved additional voluntary contributions provider[^c-a243bffbe83b5acedc2d2445b1d053e4] the lump sum becomes payable.
 
-## 12A. Pension sharing on divorce or on the dissolution of a civil partnership[^key-7fa4517e3af31f79fac50428f3ac49ae][^key-9292bf925a678234409ee2a8251ccb49]
+## 12A. Pension sharing on divorce or on the dissolution of a civil partnership[^c-7fa4517e3af31f79fac50428f3ac49ae][^c-9292bf925a678234409ee2a8251ccb49]
 
 *Extent: S*
 
@@ -431,7 +431,7 @@ Where a person who is paying death benefit contributions or further contribution
 
 (2) Upon the taking effect of a pension sharing order, an amount representing the pension credit member’s share of the pension debit member’s accumulated additional voluntary contributions calculated in accordance with regulation 10(4) of the Pension Sharing (Implementation and Discharge of Liability) Regulations 2000 shall be invested by the police authority in accordance with the wishes of the pension credit member in one or more of the ways prescribed in regulation 9(2).
 
-(3) The benefits that may be provided in accordance with this regulation under a pension policy purchased as described in regulation 11(12)[^key-4181a4c04516e1d59e634dae0139de11] as it applies in the circumstances of this regulation are a pension and one or more dependant’s pensions.
+(3) The benefits that may be provided in accordance with this regulation under a pension policy purchased as described in regulation 11(12)[^c-4181a4c04516e1d59e634dae0139de11] as it applies in the circumstances of this regulation are a pension and one or more dependant’s pensions.
 
 (4) The pension will commence not earlier than the date on which the pension credit member attains the age of 60 and is payable for life.
 
@@ -439,21 +439,21 @@ Where a person who is paying death benefit contributions or further contribution
 
 (6) Upon the death of a person after a pension sharing order has been made but before a police authority has discharged its liability in respect of the pension credit to which that person would otherwise be entitled, a lump sum equal to the value of the pension credit at the date of that person’s death shall be paid to his personal representatives.
 
-(7) Regulation 11 applies[^key-c9586673f2305c06325fa7c9b6d48ffb] in the circumstances of this regulation, with the following modifications wherever the words to be modified appear:–
+(7) Regulation 11 applies[^c-c9586673f2305c06325fa7c9b6d48ffb] in the circumstances of this regulation, with the following modifications wherever the words to be modified appear:–
 
 - (a) the reference to participator shall be a reference to pension credit member;
 - (b) the reference to retirement shall be a reference to the date on which the pension commences under regulation 12A(4);
-- (c)[^key-637adcfe8d0f29396b8ed3a5afb66281] the reference to lifetime annuity shall be a reference to a pension credit member’s lifetime annuity;
-- (d) the reference in paragraph (8) to serious ill-health shall be a reference to ill-health which is such as to give rise to a life expectancy of less than one year from the date on which the commutation is applied for; [^key-68bd0143bd83dbba868fc8868840e059]...
-- (e)[^key-68bd0143bd83dbba868fc8868840e059] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-637adcfe8d0f29396b8ed3a5afb66281] the reference to lifetime annuity shall be a reference to a pension credit member’s lifetime annuity;
+- (d) the reference in paragraph (8) to serious ill-health shall be a reference to ill-health which is such as to give rise to a life expectancy of less than one year from the date on which the commutation is applied for; [^c-68bd0143bd83dbba868fc8868840e059]...
+- (e)[^c-68bd0143bd83dbba868fc8868840e059] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In regulation 15, wherever regulation 11 is referred to, it shall include a reference to that regulation as modified by this regulation in relation to pension credits.
 
-## 13. Benefit limits[^key-baa549def10469e63349a7c4af1251a6]
+## 13. Benefit limits[^c-baa549def10469e63349a7c4af1251a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Repayment in certain cases[^key-c997f525c6d97afa07387dd5a6de1795]
+## 14. Repayment in certain cases[^c-c997f525c6d97afa07387dd5a6de1795]
 
 (1) If a person—
 
@@ -467,42 +467,42 @@ the appropriate lump sum becomes payable.
 
 (3) The appropriate lump sum is the realisable value of the pension investments.
 
-## 15. Payment by responsible person[^key-a32819bf04c12a8f4023bf33ed3a5934][^key-bf4a3fdc694f40f7a789d2b8439184da]
+## 15. Payment by responsible person[^c-a32819bf04c12a8f4023bf33ed3a5934][^c-bf4a3fdc694f40f7a789d2b8439184da]
 
 (1) Retirement pensions shall be paid by the responsible person to the persons entitled to them.
 
 (2) Lump sums payable—
 
-- (a) as mentioned in regulation 11(7)(f) *(Extent: S)*[^key-362264f60120d749ac52a066d61a9ffc] regulation 10C(7)(f) *(Extent: E+W)*[^key-aaf753822d81e4f7d7acd81e051d7537] or paragraph 2 of Schedule 1A or by virtue of an election for a payment under paragraph 3(4)(f) of that Schedule *(Extent: E+W)*[^key-f8f962d9ea2a655aa73105e3223d5589], or
+- (a) as mentioned in regulation 11(7)(f) *(Extent: S)*[^c-362264f60120d749ac52a066d61a9ffc] regulation 10C(7)(f) *(Extent: E+W)*[^c-aaf753822d81e4f7d7acd81e051d7537] or paragraph 2 of Schedule 1A or by virtue of an election for a payment under paragraph 3(4)(f) of that Schedule *(Extent: E+W)*[^c-f8f962d9ea2a655aa73105e3223d5589], or
 - (b) under regulation 12 or 14(2),
 
-shall be paid by the responsible person to the deceased’s widow or widower or surviving civil partner[^key-07390ea43dbf0a6fab836b6f7dc8b160] or, if there is no widow or widower or surviving civil partner, to the personal representatives.
+shall be paid by the responsible person to the deceased’s widow or widower or surviving civil partner[^c-07390ea43dbf0a6fab836b6f7dc8b160] or, if there is no widow or widower or surviving civil partner, to the personal representatives.
 
-(3) Lump sums payable under regulation 11(8) *(Extent: E+W)* *(affected by repeal, see note)*[^key-7f3899d6e949c45c1bfcf80c86a7f57e] regulation 10C(8) *(Extent: E+W)* or 14(1) shall be paid by the responsible person to the former basic contributor.
+(3) Lump sums payable under regulation 11(8) *(Extent: E+W)* *(affected by repeal, see note)*[^c-7f3899d6e949c45c1bfcf80c86a7f57e] regulation 10C(8) *(Extent: E+W)* or 14(1) shall be paid by the responsible person to the former basic contributor.
 
-(4)[^key-79e64e484fbb2c2273f849b7845e7a2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-79e64e484fbb2c2273f849b7845e7a2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-79e64e484fbb2c2273f849b7845e7a2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-79e64e484fbb2c2273f849b7845e7a2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6) The amount of any tax chargeable under the Taxes Act on a payment under this regulation or Schedule 1A (pension sharing) *(Extent: E+W)*[^key-c521fd87b168d415bc661a43ca1fa1ea] shall be deducted by the responsible person before payment.
+(6) The amount of any tax chargeable under the Taxes Act on a payment under this regulation or Schedule 1A (pension sharing) *(Extent: E+W)*[^c-c521fd87b168d415bc661a43ca1fa1ea] shall be deducted by the responsible person before payment.
 
 *Extent: E+W*
 
-(7)[^key-97ac01179c058412d74a9b671eb9d7ca] For the purposes of this regulation “the responsible person” means—
+(7)[^c-97ac01179c058412d74a9b671eb9d7ca] For the purposes of this regulation “the responsible person” means—
 
 - (a) so far as the regulation relates to a payment under regulation 10C(1), the pension provider, and
 - (b) so far as it relates to any other payment, the police pension authority.
 
 *Extent: S*
 
-(7)[^key-e53eb69cc35525d9afe0f27d546c21d4] For the purposes of this regulation “the responsible person” means–
+(7)[^c-e53eb69cc35525d9afe0f27d546c21d4] For the purposes of this regulation “the responsible person” means–
 
-- (a)[^key-4659f555fbbdb6d821595b3a2e0b0152] so far as the regulation relates to a payment under regulation 11(1), the pension provider[^key-21716f9ddb9606df9010408ca86d850c]; and
+- (a)[^c-4659f555fbbdb6d821595b3a2e0b0152] so far as the regulation relates to a payment under regulation 11(1), the pension provider[^c-21716f9ddb9606df9010408ca86d850c]; and
 - (b) so far as it relates to the payment of any other lump sum, the police authority.
 
-## 16. Information[^key-f7099be47a051d79e5fc52bf6b12c1c2]
+## 16. Information[^c-f7099be47a051d79e5fc52bf6b12c1c2]
 
-(1) A person making an election under these Regulations is to give the police authority *(Extent: E+W)* *(affected by repeal, see note)*[^key-45b51e7b0cf028f0f9d6b9a004e64667] police pension authority *(Extent: E+W)* such information as they may reasonably require for the purposes of their functions under these Regulations.
+(1) A person making an election under these Regulations is to give the police authority *(Extent: E+W)* *(affected by repeal, see note)*[^c-45b51e7b0cf028f0f9d6b9a004e64667] police pension authority *(Extent: E+W)* such information as they may reasonably require for the purposes of their functions under these Regulations.
 
 (2) A person making—
 
@@ -512,23 +512,23 @@ shall be paid by the responsible person to the deceased’s widow or widower or 
 
 *Extent: E+W*
 
-- (d)[^key-e578d0e18baa9bdcc3668f4ab6980833] an election under paragraph 3 of Schedule 1A (pension credit benefits),
+- (d)[^c-e578d0e18baa9bdcc3668f4ab6980833] an election under paragraph 3 of Schedule 1A (pension credit benefits),
 
-is, in particular, to give the police authority *(Extent: E+W)* *(affected by repeal, see note)*[^key-45b51e7b0cf028f0f9d6b9a004e64667] police pension authority *(Extent: E+W)* such information about his health as they may reasonably require having regard to regulation 9(3) (investment so as to secure death benefit cover).
+is, in particular, to give the police authority *(Extent: E+W)* *(affected by repeal, see note)*[^c-45b51e7b0cf028f0f9d6b9a004e64667] police pension authority *(Extent: E+W)* such information about his health as they may reasonably require having regard to regulation 9(3) (investment so as to secure death benefit cover).
 
-## 17. Appeals[^key-86266ee2240eaa3e47e75248df74129b]
+## 17. Appeals[^c-86266ee2240eaa3e47e75248df74129b]
 
-(1) A person who is aggrieved by the refusal of the police authority *(Extent: E+W)* *(affected by repeal, see note)*[^key-45b51e7b0cf028f0f9d6b9a004e64667] police pension authority *(Extent: E+W)* to admit a claim to receive as of right a pension, or a larger pension than that granted, under these Regulations may, subject to paragraph (2), appeal—
+(1) A person who is aggrieved by the refusal of the police authority *(Extent: E+W)* *(affected by repeal, see note)*[^c-45b51e7b0cf028f0f9d6b9a004e64667] police pension authority *(Extent: E+W)* to admit a claim to receive as of right a pension, or a larger pension than that granted, under these Regulations may, subject to paragraph (2), appeal—
 
-- (a) if he was, or the claim is to a pension in respect of a person who was, a member of a police force within the meaning of the Police Act 1964 *(Extent: E+W)* *(affected by repeal, see note)*[^key-c2d6e82377380aa88d85aeb90c0cc6e9][^f00009] maintained under section 2 of the Police Act 1996, the metropolitan police force, the City of London police, the Director General of the National Crime Squad, the Director General of the National Criminal Intelligence Service, a police member of the National Crime Squad appointed under section 55(1)(b) of the Police Act 1997 or a police member of the National Criminal Intelligence Service appointed under section 9(1)(b) of the Police Act 1997 *(Extent: E+W)*, to the Crown Court, or
+- (a) if he was, or the claim is to a pension in respect of a person who was, a member of a police force within the meaning of the Police Act 1964 *(Extent: E+W)* *(affected by repeal, see note)*[^c-c2d6e82377380aa88d85aeb90c0cc6e9][^f00009] maintained under section 2 of the Police Act 1996, the metropolitan police force, the City of London police, the Director General of the National Crime Squad, the Director General of the National Criminal Intelligence Service, a police member of the National Crime Squad appointed under section 55(1)(b) of the Police Act 1997 or a police member of the National Criminal Intelligence Service appointed under section 9(1)(b) of the Police Act 1997 *(Extent: E+W)*, to the Crown Court, or
 - (b) if he was, or the claim is to a pension in respect of a person who was, a member of a police force within the meaning of the Police (Scotland) Act 1967[^f00010], to the sheriff having jurisdiction in the place where he last served as such a member, or
 - (c) if he was, or the claim is to a pension in respect of a person who was, an overseas policeman, an inspector or assistant inspector of constabulary or a central police officer, to the Secretary of State.
 
-(2) Paragraph (1) does not confer a right of appeal against anything done by the police authority *(Extent: E+W)* *(affected by repeal, see note)*[^key-45b51e7b0cf028f0f9d6b9a004e64667] police pension authority *(Extent: E+W)* in the exercise of a power conferred by these Regulations which is rexpressly declared by these Regulations to be a power which they are to exercise in their discretion.
+(2) Paragraph (1) does not confer a right of appeal against anything done by the police authority *(Extent: E+W)* *(affected by repeal, see note)*[^c-45b51e7b0cf028f0f9d6b9a004e64667] police pension authority *(Extent: E+W)* in the exercise of a power conferred by these Regulations which is rexpressly declared by these Regulations to be a power which they are to exercise in their discretion.
 
 (3) In this regulation “pension” includes any lump sum payable under these Regulations.
 
-## 18. Retrospective effect: incidental provision[^key-61d9f6ee6de998c93b6aa50406833c40]
+## 18. Retrospective effect: incidental provision[^c-61d9f6ee6de998c93b6aa50406833c40]
 
 (1) Any notice given after 5th April 1990 and before 1st July 1991 which, if these Regulations had been in force, would have constituted notice of an election under these Regulations is to be treated as having constituted notice of such an election.
 
@@ -557,7 +557,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 4th June 1991
 
-## SCHEDULE 1A — PENSION SHARING[^key-7869da6371b82600ceb78aa5a0785c81]
+## SCHEDULE 1A — PENSION SHARING[^c-7869da6371b82600ceb78aa5a0785c81]
 
 *Extent: E+W*
 
@@ -585,7 +585,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 (7) In this paragraph “dependant”, in relation to a pension credit member, means a person who at the date of the member’s death—
 
-- (a) is the pension credit member’s spouse [^M_F_419f51b4-2303-4537-ac83-44b15471f449]or civil partner *(Extent: E+W+S)*[^key-4d91fbe2a9bdaefcf2afea04e0f07333] and, if separated from the member by an order or decree of a competent court, is receiving from the member regular contributions for the person’s support or the support of the person’s child in consequence of such an order or decree, or
+- (a) is the pension credit member’s spouse [^M_F_419f51b4-2303-4537-ac83-44b15471f449]or civil partner *(Extent: E+W+S)*[^c-4d91fbe2a9bdaefcf2afea04e0f07333] and, if separated from the member by an order or decree of a competent court, is receiving from the member regular contributions for the person’s support or the support of the person’s child in consequence of such an order or decree, or
 - (b) is a person who would be the pension credit member’s child within the meaning of Schedule A of the 1987 Regulations if at the date of the pension credit member’s death the member had been a pensionable policeman.
 
 ### Discharge of liability in respect of a pension credit following the death of the person entitled to the pension credit
@@ -660,11 +660,11 @@ the relevant police pension authority may realise the investments made under par
 
 **8.** Where a pension credit member has rights under the scheme constituted by these Regulations apart from his pension credit rights, the pension credit rights are to be treated as provided separately for the purposes of all requirements of the Inland Revenue in relation to limits on benefits.
 
-## SCHEDULE 1 — PENSION PROVIDERS[^key-07b5cde5cf6247993bddf4bb0671daca]
+## SCHEDULE 1 — PENSION PROVIDERS[^c-07b5cde5cf6247993bddf4bb0671daca]
 
-Regulation *(Extent: E+W)* *(affected by repeal, see note)*[^key-4d88cc18f075c8164e4cd2a6afc7a5d2] 2(3)[^key-2fcb4d5437c7182a8e1fc5082ab27737] *(Extent: E+W)* *(affected by repeal, see note)*[^key-4d88cc18f075c8164e4cd2a6afc7a5d2] Regulation 10C(14)(b) *(Extent: E+W)*
+Regulation *(Extent: E+W)* *(affected by repeal, see note)*[^c-4d88cc18f075c8164e4cd2a6afc7a5d2] 2(3)[^c-2fcb4d5437c7182a8e1fc5082ab27737] *(Extent: E+W)* *(affected by repeal, see note)*[^c-4d88cc18f075c8164e4cd2a6afc7a5d2] Regulation 10C(14)(b) *(Extent: E+W)*
 
-[^key-07b5cde5cf6247993bddf4bb0671daca]
+[^c-07b5cde5cf6247993bddf4bb0671daca]
 
 - The Society
 - Eagle Star Insurance Company Limited
@@ -674,37 +674,37 @@ Regulation *(Extent: E+W)* *(affected by repeal, see note)*[^key-4d88cc18f075c81
 - The Standard Life Assurance Company
 - Sun Life Assurance Society PLC
 
-## SCHEDULE 2 — BENEFIT LIMITS[^key-a490bb01e39c5fd1d4ca918d16173552]
+## SCHEDULE 2 — BENEFIT LIMITS[^c-a490bb01e39c5fd1d4ca918d16173552]
 
 **No longer in force.**
 
 Regulation 13
 
-### PART I — interpretation[^key-a490bb01e39c5fd1d4ca918d16173552]
+### PART I — interpretation[^c-a490bb01e39c5fd1d4ca918d16173552]
 
-**1.**[^key-a490bb01e39c5fd1d4ca918d16173552] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a490bb01e39c5fd1d4ca918d16173552] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-a490bb01e39c5fd1d4ca918d16173552] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a490bb01e39c5fd1d4ca918d16173552] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-a490bb01e39c5fd1d4ca918d16173552] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a490bb01e39c5fd1d4ca918d16173552] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-a490bb01e39c5fd1d4ca918d16173552] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-a490bb01e39c5fd1d4ca918d16173552] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-a490bb01e39c5fd1d4ca918d16173552] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-a490bb01e39c5fd1d4ca918d16173552] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — retirement pensions[^key-a490bb01e39c5fd1d4ca918d16173552]
+### PART II — retirement pensions[^c-a490bb01e39c5fd1d4ca918d16173552]
 
-**6.**[^key-a490bb01e39c5fd1d4ca918d16173552] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-a490bb01e39c5fd1d4ca918d16173552] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-a490bb01e39c5fd1d4ca918d16173552] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-a490bb01e39c5fd1d4ca918d16173552] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-a490bb01e39c5fd1d4ca918d16173552] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-a490bb01e39c5fd1d4ca918d16173552] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-a490bb01e39c5fd1d4ca918d16173552] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-a490bb01e39c5fd1d4ca918d16173552] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — lump sums on death[^key-a490bb01e39c5fd1d4ca918d16173552]
+### PART III — lump sums on death[^c-a490bb01e39c5fd1d4ca918d16173552]
 
-**10.**[^key-a490bb01e39c5fd1d4ca918d16173552] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-a490bb01e39c5fd1d4ca918d16173552] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (This note is not part of the Regulations)
 
@@ -732,31 +732,31 @@ Section 1(5) of the Police Pensions Act 1976 confers express power to make regul
 
 [^f00002]: Footnote: See [S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670).
 
-[^key-5de2095e565f9777cfd90954f0beb387]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1991/1304) excluded (with effect from 1.12.2000) by [The Police Pensions (Pension Sharing) Regulations 2002 (S.I. 2002/3202)](https://www.legislation.gov.uk/uksi/2002/3202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/3202/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2002/3202/regulation/4/2)
+[^c-5de2095e565f9777cfd90954f0beb387]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1991/1304) excluded (with effect from 1.12.2000) by [The Police Pensions (Pension Sharing) Regulations 2002 (S.I. 2002/3202)](https://www.legislation.gov.uk/uksi/2002/3202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/3202/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2002/3202/regulation/4/2)
 
-[^key-2619b58c90a5c20686c993342dd9b8cc]: Commencement: Reg. 1 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
+[^c-2619b58c90a5c20686c993342dd9b8cc]: Commencement: Reg. 1 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
 
-[^key-450261111b142033a15e4d1dacba38e7]: Commencement: Reg. 2 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
+[^c-450261111b142033a15e4d1dacba38e7]: Commencement: Reg. 2 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
 
 [^f00003]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
 
-[^key-dabd1b9cf13cbad58ee7e3290b82e108]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/2/2) inserted (S.) (with effect from 1.12.2000) by [The Police Pensions (Additional Voluntary Contributions and Increased Benefits) (Pension Sharing) (Scotland) Amendment Regulations 2001 (S.S.I. 2001/461)](https://www.legislation.gov.uk/ssi/2001/461), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2001/461/regulation/1/2), [sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2001/461/schedule/2/paragraph/1)
+[^c-dabd1b9cf13cbad58ee7e3290b82e108]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/2/2) inserted (S.) (with effect from 1.12.2000) by [The Police Pensions (Additional Voluntary Contributions and Increased Benefits) (Pension Sharing) (Scotland) Amendment Regulations 2001 (S.S.I. 2001/461)](https://www.legislation.gov.uk/ssi/2001/461), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2001/461/regulation/1/2), [sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2001/461/schedule/2/paragraph/1)
 
 [^f00004]: Footnote: [S.I. 1987/257](https://www.legislation.gov.uk/uksi/1987/257); relevant amendments were made by [S.I. 1990/805](https://www.legislation.gov.uk/uksi/1990/805).
 
-[^key-3ad3e7bcb9464c01794cbd7d120feec8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1991/1304/regulation/2) inserted (E.W.) (with effect from 1.12.2000) by [The Police Pensions (Pension Sharing) Regulations 2002 (S.I. 2002/3202)](https://www.legislation.gov.uk/uksi/2002/3202), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3202/regulation/1/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2002/3202/schedule/2/paragraph/1)
+[^c-3ad3e7bcb9464c01794cbd7d120feec8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1991/1304/regulation/2) inserted (E.W.) (with effect from 1.12.2000) by [The Police Pensions (Pension Sharing) Regulations 2002 (S.I. 2002/3202)](https://www.legislation.gov.uk/uksi/2002/3202), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3202/regulation/1/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2002/3202/schedule/2/paragraph/1)
 
-[^key-6f712b668a480dff5f4d2feebc37a1c4]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/2/3) inserted (S.) (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/75)](https://www.legislation.gov.uk/ssi/2016/75), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/75/regulation/1/1), [17](https://www.legislation.gov.uk/ssi/2016/75/regulation/17)
+[^c-6f712b668a480dff5f4d2feebc37a1c4]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/2/3) inserted (S.) (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/75)](https://www.legislation.gov.uk/ssi/2016/75), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/75/regulation/1/1), [17](https://www.legislation.gov.uk/ssi/2016/75/regulation/17)
 
-[^key-31db41e6d500917a130c748fec2ebb0d]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/2/3) inserted (E.W.) (with effect from 1.12.2002) by [The Police Pensions (Amendment) Regulations 2003 (S.I. 2003/27)](https://www.legislation.gov.uk/uksi/2003/27), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2003/27/regulation/1/2/b), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/uksi/2003/27/schedule/2/paragraph/1/a) and (S.) (with effect from 1.12.2002) by [The Police Pensions (Scotland) Amendment Regulations 2003 (S.S.I. 2003/406)](https://www.legislation.gov.uk/ssi/2003/406), [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2003/406/regulation/1/1/b), [sch. 2 para. 1(a)](https://www.legislation.gov.uk/ssi/2003/406/schedule/2/paragraph/1/a)
+[^c-31db41e6d500917a130c748fec2ebb0d]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/2/3) inserted (E.W.) (with effect from 1.12.2002) by [The Police Pensions (Amendment) Regulations 2003 (S.I. 2003/27)](https://www.legislation.gov.uk/uksi/2003/27), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2003/27/regulation/1/2/b), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/uksi/2003/27/schedule/2/paragraph/1/a) and (S.) (with effect from 1.12.2002) by [The Police Pensions (Scotland) Amendment Regulations 2003 (S.S.I. 2003/406)](https://www.legislation.gov.uk/ssi/2003/406), [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2003/406/regulation/1/1/b), [sch. 2 para. 1(a)](https://www.legislation.gov.uk/ssi/2003/406/schedule/2/paragraph/1/a)
 
-[^key-dd623c0cd62fc2868bc5f51ea59e4b29]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/2/3) substituted (E.W.) (with effect from 1.1.2020) by [The Police Pensions (Contributions and Additional Voluntary Contributions Provider) (Amendment) (England and Wales) Regulations 2020 (S.I. 2020/188)](https://www.legislation.gov.uk/uksi/2020/188), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/188/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/188/regulation/2/2)
+[^c-dd623c0cd62fc2868bc5f51ea59e4b29]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/2/3) substituted (E.W.) (with effect from 1.1.2020) by [The Police Pensions (Contributions and Additional Voluntary Contributions Provider) (Amendment) (England and Wales) Regulations 2020 (S.I. 2020/188)](https://www.legislation.gov.uk/uksi/2020/188), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/188/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/188/regulation/2/2)
 
-[^key-3534691551f8b22286fa0d360978355e]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/2/3) substituted (S.) (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by [The Police Pensions (Amendment) (Scotland) Regulations 2020 (S.S.I. 2020/33)](https://www.legislation.gov.uk/ssi/2020/33), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/33/regulation/1/2), [7(2)](https://www.legislation.gov.uk/ssi/2020/33/regulation/7/2)
+[^c-3534691551f8b22286fa0d360978355e]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/2/3) substituted (S.) (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by [The Police Pensions (Amendment) (Scotland) Regulations 2020 (S.S.I. 2020/33)](https://www.legislation.gov.uk/ssi/2020/33), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/33/regulation/1/2), [7(2)](https://www.legislation.gov.uk/ssi/2020/33/regulation/7/2)
 
-[^key-5117b272cf57e9d024d47883dc6eb029]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/2/3) omitted (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [19(a)](https://www.legislation.gov.uk/uksi/2018/530/regulation/19/a) and (S.) (1.4.2019) by virtue of [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [12(a)](https://www.legislation.gov.uk/ssi/2019/68/regulation/12/a)
+[^c-5117b272cf57e9d024d47883dc6eb029]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/2/3) omitted (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [19(a)](https://www.legislation.gov.uk/uksi/2018/530/regulation/19/a) and (S.) (1.4.2019) by virtue of [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [12(a)](https://www.legislation.gov.uk/ssi/2019/68/regulation/12/a)
 
-[^key-752ea21a4d5762130219e0e193ad4b83]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/2/3) inserted (S.) (with effect from 1.12.2000) by [The Police Pensions (Additional Voluntary Contributions and Increased Benefits) (Pension Sharing) (Scotland) Amendment Regulations 2001 (S.S.I. 2001/461)](https://www.legislation.gov.uk/ssi/2001/461), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2001/461/regulation/1/2), [sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2001/461/schedule/2/paragraph/2)
+[^c-752ea21a4d5762130219e0e193ad4b83]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/2/3) inserted (S.) (with effect from 1.12.2000) by [The Police Pensions (Additional Voluntary Contributions and Increased Benefits) (Pension Sharing) (Scotland) Amendment Regulations 2001 (S.S.I. 2001/461)](https://www.legislation.gov.uk/ssi/2001/461), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2001/461/regulation/1/2), [sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2001/461/schedule/2/paragraph/2)
 
 [^f00005]: Footnote: [1975 c. 60](https://www.legislation.gov.uk/ukpga/1975/60); Schedule 1A was inserted by the Social Security Act [1985 (c. 53)](https://www.legislation.gov.uk/ukpga/1985/53), Schedule 1, paragraph 3, and amendedby the Social Security Act [1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50), Schedule 10, paragraphs 29 and 30.
 
@@ -768,176 +768,176 @@ Section 1(5) of the Police Pensions Act 1976 confers express power to make regul
 
 [^M_F_9edc4aaa-7757-4a32-8565-21f340746d10]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/2/3) inserted (E.W.) (with effect from 1.12.2002) by [The Police Pensions (Amendment) Regulations 2003 (S.I. 2003/27)](https://www.legislation.gov.uk/uksi/2003/27), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2003/27/regulation/1/2/b), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/uksi/2003/27/schedule/2/paragraph/1/a)
 
-[^key-b9755203db7252bb78ec5c5e4c563cc9]: Textual amendment: Word in [reg. 2(3)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/2/3) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [129(2)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/129/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b9755203db7252bb78ec5c5e4c563cc9]: Textual amendment: Word in [reg. 2(3)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/2/3) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [129(2)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/129/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-55ae5329b95ba9ee732dabe7a12ae480]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/2/3) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [129(2)(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/129/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-55ae5329b95ba9ee732dabe7a12ae480]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/2/3) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [129(2)(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/129/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7368e3cb30d9af2a62d1691b2613174d]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/2/3) inserted (S.) (1.4.2019) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [12(b)](https://www.legislation.gov.uk/ssi/2019/68/regulation/12/b)
+[^c-7368e3cb30d9af2a62d1691b2613174d]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/2/3) inserted (S.) (1.4.2019) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [12(b)](https://www.legislation.gov.uk/ssi/2019/68/regulation/12/b)
 
-[^key-9f01a475a35110232f3fb8c463ae72d1]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/2/3) inserted (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [19(b)](https://www.legislation.gov.uk/uksi/2018/530/regulation/19/b) and (S.) (1.4.2019) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [12(c)](https://www.legislation.gov.uk/ssi/2019/68/regulation/12/c)
+[^c-9f01a475a35110232f3fb8c463ae72d1]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/2/3) inserted (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [19(b)](https://www.legislation.gov.uk/uksi/2018/530/regulation/19/b) and (S.) (1.4.2019) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [12(c)](https://www.legislation.gov.uk/ssi/2019/68/regulation/12/c)
 
-[^key-45b51e7b0cf028f0f9d6b9a004e64667]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/1991/1304) substituted (E.W.) (16.1.2012) by [The Police Pensions (Amendment) Regulations 2011 (S.I. 2011/3063)](https://www.legislation.gov.uk/uksi/2011/3063), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/3063/regulation/1/1), [2-4](https://www.legislation.gov.uk/uksi/2011/3063/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2011/3063/schedule) (with [reg. 9](https://www.legislation.gov.uk/uksi/2011/3063/regulation/9))
+[^c-45b51e7b0cf028f0f9d6b9a004e64667]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/1991/1304) substituted (E.W.) (16.1.2012) by [The Police Pensions (Amendment) Regulations 2011 (S.I. 2011/3063)](https://www.legislation.gov.uk/uksi/2011/3063), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/3063/regulation/1/1), [2-4](https://www.legislation.gov.uk/uksi/2011/3063/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2011/3063/schedule) (with [reg. 9](https://www.legislation.gov.uk/uksi/2011/3063/regulation/9))
 
-[^key-1be2343361cbb38a9ff461cf34036e95]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/2/3) omitted (E.W.) (10.2.2003) by virtue of [The Police Pensions (Amendment) Regulations 2003 (S.I. 2003/27)](https://www.legislation.gov.uk/uksi/2003/27), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/27/regulation/1/2), [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/uksi/2003/27/schedule/2/paragraph/1/b) and (S.) (1.10.2003) by virtue of [The Police Pensions (Scotland) Amendment Regulations 2003 (S.S.I. 2003/406)](https://www.legislation.gov.uk/ssi/2003/406), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/406/regulation/1/1), [sch. 2 para. 1(b)](https://www.legislation.gov.uk/ssi/2003/406/schedule/2/paragraph/1/b)
+[^c-1be2343361cbb38a9ff461cf34036e95]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/2/3) omitted (E.W.) (10.2.2003) by virtue of [The Police Pensions (Amendment) Regulations 2003 (S.I. 2003/27)](https://www.legislation.gov.uk/uksi/2003/27), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/27/regulation/1/2), [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/uksi/2003/27/schedule/2/paragraph/1/b) and (S.) (1.10.2003) by virtue of [The Police Pensions (Scotland) Amendment Regulations 2003 (S.S.I. 2003/406)](https://www.legislation.gov.uk/ssi/2003/406), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/406/regulation/1/1), [sch. 2 para. 1(b)](https://www.legislation.gov.uk/ssi/2003/406/schedule/2/paragraph/1/b)
 
-[^key-c341d9dd99e02978acbb9588ea9ec87c]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/2/4) inserted (E.W.) (with effect from 1.12.2002) by [The Police Pensions (Amendment) Regulations 2003 (S.I. 2003/27)](https://www.legislation.gov.uk/uksi/2003/27), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2003/27/regulation/1/2/b), [Sch. 2 para. 1(c)](https://www.legislation.gov.uk/uksi/2003/27/schedule/2/paragraph/1/c)
+[^c-c341d9dd99e02978acbb9588ea9ec87c]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/2/4) inserted (E.W.) (with effect from 1.12.2002) by [The Police Pensions (Amendment) Regulations 2003 (S.I. 2003/27)](https://www.legislation.gov.uk/uksi/2003/27), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2003/27/regulation/1/2/b), [Sch. 2 para. 1(c)](https://www.legislation.gov.uk/uksi/2003/27/schedule/2/paragraph/1/c)
 
-[^key-25f2d1c3abb0e64e869731b20c2d82ab]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/2/4) inserted (S.) (with effect from 1.12.2002) by [The Police Pensions (Scotland) Amendment Regulations 2003 (S.S.I. 2003/406)](https://www.legislation.gov.uk/ssi/2003/406), [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2003/406/regulation/1/1/b), [sch. 2 para. 1(c)](https://www.legislation.gov.uk/ssi/2003/406/schedule/2/paragraph/1/c)
+[^c-25f2d1c3abb0e64e869731b20c2d82ab]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/2/4) inserted (S.) (with effect from 1.12.2002) by [The Police Pensions (Scotland) Amendment Regulations 2003 (S.S.I. 2003/406)](https://www.legislation.gov.uk/ssi/2003/406), [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2003/406/regulation/1/1/b), [sch. 2 para. 1(c)](https://www.legislation.gov.uk/ssi/2003/406/schedule/2/paragraph/1/c)
 
-[^key-0f44056d17802aefa4e5b23cbfa5cb1e]: Commencement: Reg. 3 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
+[^c-0f44056d17802aefa4e5b23cbfa5cb1e]: Commencement: Reg. 3 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
 
-[^key-fe69daf1b3f2939b7eb635e2aae26950]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/3/2) substituted (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [20(a)](https://www.legislation.gov.uk/uksi/2018/530/regulation/20/a) and (S.) (1.4.2019) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [13(a)](https://www.legislation.gov.uk/ssi/2019/68/regulation/13/a)
+[^c-fe69daf1b3f2939b7eb635e2aae26950]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/3/2) substituted (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [20(a)](https://www.legislation.gov.uk/uksi/2018/530/regulation/20/a) and (S.) (1.4.2019) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [13(a)](https://www.legislation.gov.uk/ssi/2019/68/regulation/13/a)
 
-[^key-775ca9f4684346f1d43ba8e06599cde1]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/3/2A)[(2B)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/3/2B) inserted (E.W.) (1.10.2010) by [The Police Pensions (Additional Voluntary Contributions) (Amendment) Regulations 2010 (S.I. 2010/2235)](https://www.legislation.gov.uk/uksi/2010/2235), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2235/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2010/2235/regulation/2/2)
+[^c-775ca9f4684346f1d43ba8e06599cde1]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/3/2A)[(2B)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/3/2B) inserted (E.W.) (1.10.2010) by [The Police Pensions (Additional Voluntary Contributions) (Amendment) Regulations 2010 (S.I. 2010/2235)](https://www.legislation.gov.uk/uksi/2010/2235), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2235/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2010/2235/regulation/2/2)
 
-[^key-580147e0d91b52fa481742147cf8ee18]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/3/2A)[(2B)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/3/2B) inserted (S.) (1.10.2010) by [The Police Pensions (Additional Voluntary Contributions) Amendment (Scotland) Regulations 2010 (S.S.I. 2010/320)](https://www.legislation.gov.uk/ssi/2010/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/320/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2010/320/regulation/2/2)
+[^c-580147e0d91b52fa481742147cf8ee18]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/3/2A)[(2B)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/3/2B) inserted (S.) (1.10.2010) by [The Police Pensions (Additional Voluntary Contributions) Amendment (Scotland) Regulations 2010 (S.S.I. 2010/320)](https://www.legislation.gov.uk/ssi/2010/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/320/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2010/320/regulation/2/2)
 
-[^key-820b4e7981466a2bed3a669f19065071]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/3/4) omitted (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [20(b)](https://www.legislation.gov.uk/uksi/2018/530/regulation/20/b) and (S.) (1.4.2019) by virtue of [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [13(b)](https://www.legislation.gov.uk/ssi/2019/68/regulation/13/b)
+[^c-820b4e7981466a2bed3a669f19065071]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/3/4) omitted (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [20(b)](https://www.legislation.gov.uk/uksi/2018/530/regulation/20/b) and (S.) (1.4.2019) by virtue of [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [13(b)](https://www.legislation.gov.uk/ssi/2019/68/regulation/13/b)
 
-[^key-1c4466de194f27a837638e29e47424bf]: Commencement: Reg. 4 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
+[^c-1c4466de194f27a837638e29e47424bf]: Commencement: Reg. 4 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
 
-[^key-504706e34a11ba65e6c91c40d265a8f1]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/4/1) inserted (E.W.) (1.10.2010) by [The Police Pensions (Additional Voluntary Contributions) (Amendment) Regulations 2010 (S.I. 2010/2235)](https://www.legislation.gov.uk/uksi/2010/2235), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2235/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2010/2235/regulation/2/3) and (S.) (1.10.2010) by [The Police Pensions (Additional Voluntary Contributions) Amendment (Scotland) Regulations 2010 (S.S.I. 2010/320)](https://www.legislation.gov.uk/ssi/2010/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/320/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2010/320/regulation/2/3)
+[^c-504706e34a11ba65e6c91c40d265a8f1]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/4/1) inserted (E.W.) (1.10.2010) by [The Police Pensions (Additional Voluntary Contributions) (Amendment) Regulations 2010 (S.I. 2010/2235)](https://www.legislation.gov.uk/uksi/2010/2235), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2235/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2010/2235/regulation/2/3) and (S.) (1.10.2010) by [The Police Pensions (Additional Voluntary Contributions) Amendment (Scotland) Regulations 2010 (S.S.I. 2010/320)](https://www.legislation.gov.uk/ssi/2010/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/320/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2010/320/regulation/2/3)
 
-[^key-eb082d22fc1290d2d52d9f2b08d4e248]: Commencement: Reg. 5 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
+[^c-eb082d22fc1290d2d52d9f2b08d4e248]: Commencement: Reg. 5 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
 
-[^key-d3bb83386dfecf9bcc96d90ad4730857]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/5/1) inserted (E.W.) (1.10.2010) by [The Police Pensions (Additional Voluntary Contributions) (Amendment) Regulations 2010 (S.I. 2010/2235)](https://www.legislation.gov.uk/uksi/2010/2235), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2235/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2010/2235/regulation/2/4) and (S.) (1.10.2010) by [The Police Pensions (Additional Voluntary Contributions) Amendment (Scotland) Regulations 2010 (S.S.I. 2010/320)](https://www.legislation.gov.uk/ssi/2010/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/320/regulation/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2010/320/regulation/2/4)
+[^c-d3bb83386dfecf9bcc96d90ad4730857]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/5/1) inserted (E.W.) (1.10.2010) by [The Police Pensions (Additional Voluntary Contributions) (Amendment) Regulations 2010 (S.I. 2010/2235)](https://www.legislation.gov.uk/uksi/2010/2235), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2235/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2010/2235/regulation/2/4) and (S.) (1.10.2010) by [The Police Pensions (Additional Voluntary Contributions) Amendment (Scotland) Regulations 2010 (S.S.I. 2010/320)](https://www.legislation.gov.uk/ssi/2010/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/320/regulation/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2010/320/regulation/2/4)
 
-[^key-fd00c94860bc7f2413ed02c9ec4daa3a]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/5/4) inserted (E.W.) (with effect from 1.12.2002) by [The Police Pensions (Amendment) Regulations 2003 (S.I. 2003/27)](https://www.legislation.gov.uk/uksi/2003/27), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2003/27/regulation/1/2/b), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2003/27/schedule/2/paragraph/2) and (S.) (with effect from 1.12.2002) by [The Police Pensions (Scotland) Amendment Regulations 2003 (S.S.I. 2003/406)](https://www.legislation.gov.uk/ssi/2003/406), [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2003/406/regulation/1/1/b), [sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2003/406/schedule/2/paragraph/2)
+[^c-fd00c94860bc7f2413ed02c9ec4daa3a]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/5/4) inserted (E.W.) (with effect from 1.12.2002) by [The Police Pensions (Amendment) Regulations 2003 (S.I. 2003/27)](https://www.legislation.gov.uk/uksi/2003/27), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2003/27/regulation/1/2/b), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2003/27/schedule/2/paragraph/2) and (S.) (with effect from 1.12.2002) by [The Police Pensions (Scotland) Amendment Regulations 2003 (S.S.I. 2003/406)](https://www.legislation.gov.uk/ssi/2003/406), [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2003/406/regulation/1/1/b), [sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2003/406/schedule/2/paragraph/2)
 
-[^key-0f0c0264adc592ebcca565549a4a3726]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/5/4) omitted (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2018/530/regulation/21) and (S.) (1.4.2019) by virtue of [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [14](https://www.legislation.gov.uk/ssi/2019/68/regulation/14)
+[^c-0f0c0264adc592ebcca565549a4a3726]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/5/4) omitted (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2018/530/regulation/21) and (S.) (1.4.2019) by virtue of [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [14](https://www.legislation.gov.uk/ssi/2019/68/regulation/14)
 
-[^key-ac470a6c6beaf7cf411a177036db1a86]: Commencement: Reg. 6 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
+[^c-ac470a6c6beaf7cf411a177036db1a86]: Commencement: Reg. 6 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
 
-[^key-097f9e5e0f06437da0802585c3c90f16]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/6/1)[(2)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/6/2)[(3)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/6/3) inserted (E.W.) (1.10.2010) by [The Police Pensions (Additional Voluntary Contributions) (Amendment) Regulations 2010 (S.I. 2010/2235)](https://www.legislation.gov.uk/uksi/2010/2235), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2235/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2010/2235/regulation/2/5) and (S.) (1.10.2010) by [The Police Pensions (Additional Voluntary Contributions) Amendment (Scotland) Regulations 2010 (S.S.I. 2010/320)](https://www.legislation.gov.uk/ssi/2010/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/320/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2010/320/regulation/2/5/a)
+[^c-097f9e5e0f06437da0802585c3c90f16]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/6/1)[(2)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/6/2)[(3)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/6/3) inserted (E.W.) (1.10.2010) by [The Police Pensions (Additional Voluntary Contributions) (Amendment) Regulations 2010 (S.I. 2010/2235)](https://www.legislation.gov.uk/uksi/2010/2235), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2235/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2010/2235/regulation/2/5) and (S.) (1.10.2010) by [The Police Pensions (Additional Voluntary Contributions) Amendment (Scotland) Regulations 2010 (S.S.I. 2010/320)](https://www.legislation.gov.uk/ssi/2010/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/320/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2010/320/regulation/2/5/a)
 
-[^key-2e8cfaa162eccdecd965107a859b8d48]: Textual amendment: Words in [reg. 6(2)(a)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/6/2/a) inserted (E.W.) (with effect from 1.12.2002) by [The Police Pensions (Amendment) Regulations 2003 (S.I. 2003/27)](https://www.legislation.gov.uk/uksi/2003/27), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2003/27/regulation/1/2/b), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2003/27/schedule/2/paragraph/2) and (S.) (with effect from 1.12.2002) by [The Police Pensions (Scotland) Amendment Regulations 2003 (S.S.I. 2003/406)](https://www.legislation.gov.uk/ssi/2003/406), [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2003/406/regulation/1/1/b), [sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2003/406/schedule/2/paragraph/2)
+[^c-2e8cfaa162eccdecd965107a859b8d48]: Textual amendment: Words in [reg. 6(2)(a)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/6/2/a) inserted (E.W.) (with effect from 1.12.2002) by [The Police Pensions (Amendment) Regulations 2003 (S.I. 2003/27)](https://www.legislation.gov.uk/uksi/2003/27), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2003/27/regulation/1/2/b), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2003/27/schedule/2/paragraph/2) and (S.) (with effect from 1.12.2002) by [The Police Pensions (Scotland) Amendment Regulations 2003 (S.S.I. 2003/406)](https://www.legislation.gov.uk/ssi/2003/406), [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2003/406/regulation/1/1/b), [sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2003/406/schedule/2/paragraph/2)
 
-[^key-910e11c74b4328154de646e1c80f210c]: Textual amendment: Words in [reg. 6(2)(a)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/6/2/a) omitted (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2018/530/regulation/21) and (S.) (1.4.2019) by virtue of [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [15](https://www.legislation.gov.uk/ssi/2019/68/regulation/15)
+[^c-910e11c74b4328154de646e1c80f210c]: Textual amendment: Words in [reg. 6(2)(a)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/6/2/a) omitted (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2018/530/regulation/21) and (S.) (1.4.2019) by virtue of [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [15](https://www.legislation.gov.uk/ssi/2019/68/regulation/15)
 
-[^key-57227a089104858c902536f609113fd1]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/6/4) inserted (E.W.) (1.10.2010) by [The Police Pensions (Additional Voluntary Contributions) (Amendment) Regulations 2010 (S.I. 2010/2235)](https://www.legislation.gov.uk/uksi/2010/2235), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2235/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2010/2235/regulation/2/5/b) and (S.) (1.10.2010) by [The Police Pensions (Additional Voluntary Contributions) Amendment (Scotland) Regulations 2010 (S.S.I. 2010/320)](https://www.legislation.gov.uk/ssi/2010/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/320/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2010/320/regulation/2/5/b)
+[^c-57227a089104858c902536f609113fd1]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/6/4) inserted (E.W.) (1.10.2010) by [The Police Pensions (Additional Voluntary Contributions) (Amendment) Regulations 2010 (S.I. 2010/2235)](https://www.legislation.gov.uk/uksi/2010/2235), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2235/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2010/2235/regulation/2/5/b) and (S.) (1.10.2010) by [The Police Pensions (Additional Voluntary Contributions) Amendment (Scotland) Regulations 2010 (S.S.I. 2010/320)](https://www.legislation.gov.uk/ssi/2010/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/320/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2010/320/regulation/2/5/b)
 
-[^key-ca8d249c12cadb65e0e803672408e59f]: Commencement: Reg. 7 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
+[^c-ca8d249c12cadb65e0e803672408e59f]: Commencement: Reg. 7 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
 
-[^key-a2179abc8d37538fee82bb8b8a602c15]: Commencement: Reg. 8 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
+[^c-a2179abc8d37538fee82bb8b8a602c15]: Commencement: Reg. 8 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
 
-[^key-0c6291f146aa209b63cc7991071553b2]: Textual amendment: Words in [reg. 8(4)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/8/4) substituted (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [22(a)](https://www.legislation.gov.uk/uksi/2018/530/regulation/22/a) and (S.) (1.4.2019) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [16(a)](https://www.legislation.gov.uk/ssi/2019/68/regulation/16/a)
+[^c-0c6291f146aa209b63cc7991071553b2]: Textual amendment: Words in [reg. 8(4)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/8/4) substituted (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [22(a)](https://www.legislation.gov.uk/uksi/2018/530/regulation/22/a) and (S.) (1.4.2019) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [16(a)](https://www.legislation.gov.uk/ssi/2019/68/regulation/16/a)
 
-[^key-a346803c7257f2abc35d42e3fcdc35d6]: Textual amendment: [Reg. 8(5)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/8/5) substituted (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [22(b)](https://www.legislation.gov.uk/uksi/2018/530/regulation/22/b)
+[^c-a346803c7257f2abc35d42e3fcdc35d6]: Textual amendment: [Reg. 8(5)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/8/5) substituted (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [22(b)](https://www.legislation.gov.uk/uksi/2018/530/regulation/22/b)
 
-[^key-2e4c8c8ab659c2402afc63927619470f]: Textual amendment: [Reg. 8(5)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/8/5) substituted (S.) (1.4.2019) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [16(b)](https://www.legislation.gov.uk/ssi/2019/68/regulation/16/b)
+[^c-2e4c8c8ab659c2402afc63927619470f]: Textual amendment: [Reg. 8(5)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/8/5) substituted (S.) (1.4.2019) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [16(b)](https://www.legislation.gov.uk/ssi/2019/68/regulation/16/b)
 
-[^key-695658f5a7371876597d408b361d4507]: Commencement: Reg. 9 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
+[^c-695658f5a7371876597d408b361d4507]: Commencement: Reg. 9 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
 
-[^key-0f45841af400e1e9ede3e5612d5a187b]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/9/2) substituted (E.W.) (with effect from 1.12.2002) by [The Police Pensions (Amendment) Regulations 2003 (S.I. 2003/27)](https://www.legislation.gov.uk/uksi/2003/27), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2003/27/regulation/1/2/b), [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2003/27/schedule/2/paragraph/3/a)
+[^c-0f45841af400e1e9ede3e5612d5a187b]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/9/2) substituted (E.W.) (with effect from 1.12.2002) by [The Police Pensions (Amendment) Regulations 2003 (S.I. 2003/27)](https://www.legislation.gov.uk/uksi/2003/27), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2003/27/regulation/1/2/b), [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2003/27/schedule/2/paragraph/3/a)
 
-[^key-926748e2473ff9b8b2aa133a486b3124]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/9/2) substituted (S.) (with effect from 1.12.2002) by [The Police Pensions (Scotland) Amendment Regulations 2003 (S.S.I. 2003/406)](https://www.legislation.gov.uk/ssi/2003/406), [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2003/406/regulation/1/1/b), [sch. 2 para. 3(a)](https://www.legislation.gov.uk/ssi/2003/406/schedule/2/paragraph/3/a)
+[^c-926748e2473ff9b8b2aa133a486b3124]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/9/2) substituted (S.) (with effect from 1.12.2002) by [The Police Pensions (Scotland) Amendment Regulations 2003 (S.S.I. 2003/406)](https://www.legislation.gov.uk/ssi/2003/406), [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2003/406/regulation/1/1/b), [sch. 2 para. 3(a)](https://www.legislation.gov.uk/ssi/2003/406/schedule/2/paragraph/3/a)
 
-[^key-4afc4dbb0b682e1e8c54c5877139e5f6]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/9/3) substituted (E.W.) (with effect from 1.12.2002) by [The Police Pensions (Amendment) Regulations 2003 (S.I. 2003/27)](https://www.legislation.gov.uk/uksi/2003/27), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2003/27/regulation/1/2/b), [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/uksi/2003/27/schedule/2/paragraph/3/b)
+[^c-4afc4dbb0b682e1e8c54c5877139e5f6]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/9/3) substituted (E.W.) (with effect from 1.12.2002) by [The Police Pensions (Amendment) Regulations 2003 (S.I. 2003/27)](https://www.legislation.gov.uk/uksi/2003/27), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2003/27/regulation/1/2/b), [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/uksi/2003/27/schedule/2/paragraph/3/b)
 
-[^key-b92e5851f705306feda34228cabbc84a]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/9/3) substituted (S.) (with effect from 1.12.2002) by [The Police Pensions (Scotland) Amendment Regulations 2003 (S.S.I. 2003/406)](https://www.legislation.gov.uk/ssi/2003/406), [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2003/406/regulation/1/1/b), [sch. 2 para. 3(b)](https://www.legislation.gov.uk/ssi/2003/406/schedule/2/paragraph/3/b)
+[^c-b92e5851f705306feda34228cabbc84a]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/9/3) substituted (S.) (with effect from 1.12.2002) by [The Police Pensions (Scotland) Amendment Regulations 2003 (S.S.I. 2003/406)](https://www.legislation.gov.uk/ssi/2003/406), [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2003/406/regulation/1/1/b), [sch. 2 para. 3(b)](https://www.legislation.gov.uk/ssi/2003/406/schedule/2/paragraph/3/b)
 
-[^key-8de3e90c44888c5d92d2934b46649dfc]: Commencement: Reg. 10 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
+[^c-8de3e90c44888c5d92d2934b46649dfc]: Commencement: Reg. 10 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
 
-[^key-ecc65e4a1e984c18cbe6d5a6845810b9]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/10/1) inserted (E.W.) (1.10.2010) by [The Police Pensions (Additional Voluntary Contributions) (Amendment) Regulations 2010 (S.I. 2010/2235)](https://www.legislation.gov.uk/uksi/2010/2235), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2235/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2010/2235/regulation/2/6) and (S.) (1.10.2010) by [The Police Pensions (Additional Voluntary Contributions) Amendment (Scotland) Regulations 2010 (S.S.I. 2010/320)](https://www.legislation.gov.uk/ssi/2010/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/320/regulation/1/1), [2(6)](https://www.legislation.gov.uk/ssi/2010/320/regulation/2/6)
+[^c-ecc65e4a1e984c18cbe6d5a6845810b9]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/10/1) inserted (E.W.) (1.10.2010) by [The Police Pensions (Additional Voluntary Contributions) (Amendment) Regulations 2010 (S.I. 2010/2235)](https://www.legislation.gov.uk/uksi/2010/2235), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2235/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2010/2235/regulation/2/6) and (S.) (1.10.2010) by [The Police Pensions (Additional Voluntary Contributions) Amendment (Scotland) Regulations 2010 (S.S.I. 2010/320)](https://www.legislation.gov.uk/ssi/2010/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/320/regulation/1/1), [2(6)](https://www.legislation.gov.uk/ssi/2010/320/regulation/2/6)
 
-[^key-1c2e549a4dddc118a33eebc900aea20e]: Textual amendment: Words in [reg. 10(1)(b)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/10/1/b) substituted (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/2018/530/regulation/23) and (S.) (1.4.2019) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [17](https://www.legislation.gov.uk/ssi/2019/68/regulation/17)
+[^c-1c2e549a4dddc118a33eebc900aea20e]: Textual amendment: Words in [reg. 10(1)(b)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/10/1/b) substituted (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/2018/530/regulation/23) and (S.) (1.4.2019) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [17](https://www.legislation.gov.uk/ssi/2019/68/regulation/17)
 
-[^key-5d252eb427112eee7b02c85abcee4de7]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/10/1) inserted (E.W.) (with effect from 1.12.2000) by [The Police Pensions (Pension Sharing) Regulations 2002 (S.I. 2002/3202)](https://www.legislation.gov.uk/uksi/2002/3202), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3202/regulation/1/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2002/3202/schedule/2/paragraph/2)
+[^c-5d252eb427112eee7b02c85abcee4de7]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/10/1) inserted (E.W.) (with effect from 1.12.2000) by [The Police Pensions (Pension Sharing) Regulations 2002 (S.I. 2002/3202)](https://www.legislation.gov.uk/uksi/2002/3202), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3202/regulation/1/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2002/3202/schedule/2/paragraph/2)
 
-[^key-d8db3c70f5648d341c0d202bfeb86ec9]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/10/2) substituted (E.W.) (10.2.2003) by [The Police Pensions (Amendment) Regulations 2003 (S.I. 2003/27)](https://www.legislation.gov.uk/uksi/2003/27), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/27/regulation/1/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2003/27/schedule/2/paragraph/4)
+[^c-d8db3c70f5648d341c0d202bfeb86ec9]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/10/2) substituted (E.W.) (10.2.2003) by [The Police Pensions (Amendment) Regulations 2003 (S.I. 2003/27)](https://www.legislation.gov.uk/uksi/2003/27), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/27/regulation/1/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2003/27/schedule/2/paragraph/4)
 
-[^key-dbbaa771dfa2faf8a1dd8d08fff0552d]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/10/2) substituted (S.) (1.10.2003) by [The Police Pensions (Scotland) Amendment Regulations 2003 (S.S.I. 2003/406)](https://www.legislation.gov.uk/ssi/2003/406), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/406/regulation/1/1), [sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2003/406/schedule/2/paragraph/4)
+[^c-dbbaa771dfa2faf8a1dd8d08fff0552d]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/10/2) substituted (S.) (1.10.2003) by [The Police Pensions (Scotland) Amendment Regulations 2003 (S.S.I. 2003/406)](https://www.legislation.gov.uk/ssi/2003/406), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/406/regulation/1/1), [sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2003/406/schedule/2/paragraph/4)
 
 [^M_E_d27fc48a-0fcc-49db-e9e3-c9e5650372b1]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only
 
-[^key-371b6dff31ca99fed7b03a4cfb511248]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/1991/1304/regulation/10A) inserted (E.W.) (10.2.2003) by [The Police Pensions (Amendment) Regulations 2003 (S.I. 2003/27)](https://www.legislation.gov.uk/uksi/2003/27), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/27/regulation/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2003/27/schedule/2/paragraph/5)
+[^c-371b6dff31ca99fed7b03a4cfb511248]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/1991/1304/regulation/10A) inserted (E.W.) (10.2.2003) by [The Police Pensions (Amendment) Regulations 2003 (S.I. 2003/27)](https://www.legislation.gov.uk/uksi/2003/27), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/27/regulation/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2003/27/schedule/2/paragraph/5)
 
 [^V_S_e0549afa-5711-14ae-99ab-3e96b6de56a7]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
 
-[^key-b5734b83322908fd2e30ed78412567fe]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/1991/1304/regulation/10A) substituted (S.) (1.10.2003) by [The Police Pensions (Scotland) Amendment Regulations 2003 (S.S.I. 2003/406)](https://www.legislation.gov.uk/ssi/2003/406), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/406/regulation/1/1), [sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2003/406/schedule/2/paragraph/5)
+[^c-b5734b83322908fd2e30ed78412567fe]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/1991/1304/regulation/10A) substituted (S.) (1.10.2003) by [The Police Pensions (Scotland) Amendment Regulations 2003 (S.S.I. 2003/406)](https://www.legislation.gov.uk/ssi/2003/406), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/406/regulation/1/1), [sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2003/406/schedule/2/paragraph/5)
 
-[^key-e631fa9ae182766733834c008fe42285]: Textual amendment: Reg. 10A renumbered as reg. 10B (E.W.) (1.4.2003) by [The Police Pensions (Amendment) (No. 2) Regulations 2003 (S.I. 2003/535)](https://www.legislation.gov.uk/uksi/2003/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/535/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/535/schedule/2)
+[^c-e631fa9ae182766733834c008fe42285]: Textual amendment: Reg. 10A renumbered as reg. 10B (E.W.) (1.4.2003) by [The Police Pensions (Amendment) (No. 2) Regulations 2003 (S.I. 2003/535)](https://www.legislation.gov.uk/uksi/2003/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/535/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/535/schedule/2)
 
 [^M_F_529f218d-21c0-4ad0-fa6e-10360749b399]: Textual amendment: By [The Police Pensions Amendment (Scotland) Regulations 2006 (S.S.I. 2006/285)](https://www.legislation.gov.uk/ssi/2006/285), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2006/285/regulation/1/2), [sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2006/285/schedule/2/paragraph/2), it is provided that (S.) (with effect from 5.12.2005) for the heading of reg. 10B “Pension sharing on divorce or nullity of marriage or on the dissolution or nullity of a civil partnership” is substituted \[Editorial note: The purported substitution was not applied because the affected provision does not extend to Scotland\]
 
-[^key-f89d0bd11f4d2e9aa230873a8fdfe59e]: Textual amendment: [Reg. 10C](https://www.legislation.gov.uk/uksi/1991/1304/regulation/10C) inserted (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2018/530/regulation/24)
+[^c-f89d0bd11f4d2e9aa230873a8fdfe59e]: Textual amendment: [Reg. 10C](https://www.legislation.gov.uk/uksi/1991/1304/regulation/10C) inserted (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2018/530/regulation/24)
 
-[^key-ee208bada808d87fff57a61b47a84925]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/1991/1304/regulation/11) substituted (S.) (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/75)](https://www.legislation.gov.uk/ssi/2016/75), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/75/regulation/1/1), [18](https://www.legislation.gov.uk/ssi/2016/75/regulation/18)
+[^c-ee208bada808d87fff57a61b47a84925]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/1991/1304/regulation/11) substituted (S.) (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/75)](https://www.legislation.gov.uk/ssi/2016/75), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/75/regulation/1/1), [18](https://www.legislation.gov.uk/ssi/2016/75/regulation/18)
 
-[^key-cc3c2b29af057f402214c842cf2fb821]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/1991/1304/regulation/11) omitted (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [25](https://www.legislation.gov.uk/uksi/2018/530/regulation/25)
+[^c-cc3c2b29af057f402214c842cf2fb821]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/1991/1304/regulation/11) omitted (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [25](https://www.legislation.gov.uk/uksi/2018/530/regulation/25)
 
-[^key-e04ac2c1ccd0b282ed2db188679f1cef]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/11/1) substituted (1.4.2019) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [18](https://www.legislation.gov.uk/ssi/2019/68/regulation/18)
+[^c-e04ac2c1ccd0b282ed2db188679f1cef]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/11/1) substituted (1.4.2019) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [18](https://www.legislation.gov.uk/ssi/2019/68/regulation/18)
 
-[^key-d9d1631f6541ba6ebcb177de1ed1ee39]: Commencement: Reg. 12 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
+[^c-d9d1631f6541ba6ebcb177de1ed1ee39]: Commencement: Reg. 12 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
 
-[^key-a243bffbe83b5acedc2d2445b1d053e4]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/1991/1304/regulation/12) substituted (E.W.) (10.2.2003) by [The Police Pensions (Amendment) Regulations 2003 (S.I. 2003/27)](https://www.legislation.gov.uk/uksi/2003/27), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/27/regulation/1/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2003/27/schedule/2/paragraph/7) and (S.) (1.10.2003) by [The Police Pensions (Scotland) Amendment Regulations 2003 (S.S.I. 2003/406)](https://www.legislation.gov.uk/ssi/2003/406), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/406/regulation/1/1), [sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2003/406/schedule/2/paragraph/7)
+[^c-a243bffbe83b5acedc2d2445b1d053e4]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/1991/1304/regulation/12) substituted (E.W.) (10.2.2003) by [The Police Pensions (Amendment) Regulations 2003 (S.I. 2003/27)](https://www.legislation.gov.uk/uksi/2003/27), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/27/regulation/1/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2003/27/schedule/2/paragraph/7) and (S.) (1.10.2003) by [The Police Pensions (Scotland) Amendment Regulations 2003 (S.S.I. 2003/406)](https://www.legislation.gov.uk/ssi/2003/406), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/406/regulation/1/1), [sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2003/406/schedule/2/paragraph/7)
 
-[^key-7fa4517e3af31f79fac50428f3ac49ae]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/uksi/1991/1304/regulation/12A) inserted (S.) (with effect from 1.12.2000) by [The Police Pensions (Additional Voluntary Contributions and Increased Benefits) (Pension Sharing) (Scotland) Amendment Regulations 2001 (S.S.I. 2001/461)](https://www.legislation.gov.uk/ssi/2001/461), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2001/461/regulation/1/2), [sch. 1](https://www.legislation.gov.uk/ssi/2001/461/schedule/1)
+[^c-7fa4517e3af31f79fac50428f3ac49ae]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/uksi/1991/1304/regulation/12A) inserted (S.) (with effect from 1.12.2000) by [The Police Pensions (Additional Voluntary Contributions and Increased Benefits) (Pension Sharing) (Scotland) Amendment Regulations 2001 (S.S.I. 2001/461)](https://www.legislation.gov.uk/ssi/2001/461), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2001/461/regulation/1/2), [sch. 1](https://www.legislation.gov.uk/ssi/2001/461/schedule/1)
 
-[^key-9292bf925a678234409ee2a8251ccb49]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/uksi/1991/1304/regulation/12A) heading substituted (with effect from 5.12.2005) by [The Police Pensions Amendment (Scotland) Regulations 2006 (S.S.I. 2006/285)](https://www.legislation.gov.uk/ssi/2006/285), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2006/285/regulation/1/2), [sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2006/285/schedule/2/paragraph/3)
+[^c-9292bf925a678234409ee2a8251ccb49]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/uksi/1991/1304/regulation/12A) heading substituted (with effect from 5.12.2005) by [The Police Pensions Amendment (Scotland) Regulations 2006 (S.S.I. 2006/285)](https://www.legislation.gov.uk/ssi/2006/285), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2006/285/regulation/1/2), [sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2006/285/schedule/2/paragraph/3)
 
-[^key-4181a4c04516e1d59e634dae0139de11]: Textual amendment: Words in [reg. 12A(3)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/12A/3) substituted (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/75)](https://www.legislation.gov.uk/ssi/2016/75), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/75/regulation/1/1), [19(a)](https://www.legislation.gov.uk/ssi/2016/75/regulation/19/a)
+[^c-4181a4c04516e1d59e634dae0139de11]: Textual amendment: Words in [reg. 12A(3)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/12A/3) substituted (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/75)](https://www.legislation.gov.uk/ssi/2016/75), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/75/regulation/1/1), [19(a)](https://www.legislation.gov.uk/ssi/2016/75/regulation/19/a)
 
-[^key-c9586673f2305c06325fa7c9b6d48ffb]: Textual amendment: Words in [reg. 12A(7)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/12A/7) substituted (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/75)](https://www.legislation.gov.uk/ssi/2016/75), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/75/regulation/1/1), [19(b)(i)](https://www.legislation.gov.uk/ssi/2016/75/regulation/19/b/i)
+[^c-c9586673f2305c06325fa7c9b6d48ffb]: Textual amendment: Words in [reg. 12A(7)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/12A/7) substituted (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/75)](https://www.legislation.gov.uk/ssi/2016/75), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/75/regulation/1/1), [19(b)(i)](https://www.legislation.gov.uk/ssi/2016/75/regulation/19/b/i)
 
-[^key-637adcfe8d0f29396b8ed3a5afb66281]: Textual amendment: [Reg. 12A(7)(c)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/12A/7/c) substituted (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/75)](https://www.legislation.gov.uk/ssi/2016/75), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/75/regulation/1/1), [19(b)(ii)](https://www.legislation.gov.uk/ssi/2016/75/regulation/19/b/ii)
+[^c-637adcfe8d0f29396b8ed3a5afb66281]: Textual amendment: [Reg. 12A(7)(c)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/12A/7/c) substituted (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/75)](https://www.legislation.gov.uk/ssi/2016/75), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/75/regulation/1/1), [19(b)(ii)](https://www.legislation.gov.uk/ssi/2016/75/regulation/19/b/ii)
 
-[^key-68bd0143bd83dbba868fc8868840e059]: Textual amendment: [Reg. 12A(7)(e)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/12A/7/e) and word omitted (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by virtue of [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/75)](https://www.legislation.gov.uk/ssi/2016/75), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/75/regulation/1/1), [19(b)(iii)](https://www.legislation.gov.uk/ssi/2016/75/regulation/19/b/iii)
+[^c-68bd0143bd83dbba868fc8868840e059]: Textual amendment: [Reg. 12A(7)(e)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/12A/7/e) and word omitted (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by virtue of [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/75)](https://www.legislation.gov.uk/ssi/2016/75), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/75/regulation/1/1), [19(b)(iii)](https://www.legislation.gov.uk/ssi/2016/75/regulation/19/b/iii)
 
-[^key-baa549def10469e63349a7c4af1251a6]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/1991/1304/regulation/13) omitted (S.) (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by virtue of [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/75)](https://www.legislation.gov.uk/ssi/2016/75), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/75/regulation/1/1), [20](https://www.legislation.gov.uk/ssi/2016/75/regulation/20) and (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2018/530/regulation/26)
+[^c-baa549def10469e63349a7c4af1251a6]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/1991/1304/regulation/13) omitted (S.) (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by virtue of [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/75)](https://www.legislation.gov.uk/ssi/2016/75), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/75/regulation/1/1), [20](https://www.legislation.gov.uk/ssi/2016/75/regulation/20) and (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2018/530/regulation/26)
 
-[^key-c997f525c6d97afa07387dd5a6de1795]: Commencement: Reg. 14 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
+[^c-c997f525c6d97afa07387dd5a6de1795]: Commencement: Reg. 14 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
 
-[^key-a32819bf04c12a8f4023bf33ed3a5934]: Commencement: Reg. 15 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
+[^c-a32819bf04c12a8f4023bf33ed3a5934]: Commencement: Reg. 15 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
 
-[^key-bf4a3fdc694f40f7a789d2b8439184da]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/uksi/1991/1304/regulation/15) substituted (E.W.) (10.2.2003) by [The Police Pensions (Amendment) Regulations 2003 (S.I. 2003/27)](https://www.legislation.gov.uk/uksi/2003/27), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/27/regulation/1/2), [Sch. 2 para. 8(1)](https://www.legislation.gov.uk/uksi/2003/27/schedule/2/paragraph/8/1) and (S.) (1.10.2003) by [The Police Pensions (Scotland) Amendment Regulations 2003 (S.S.I. 2003/406)](https://www.legislation.gov.uk/ssi/2003/406), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/406/regulation/1/1), [sch. 2 para. 8(a)](https://www.legislation.gov.uk/ssi/2003/406/schedule/2/paragraph/8)
+[^c-bf4a3fdc694f40f7a789d2b8439184da]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/uksi/1991/1304/regulation/15) substituted (E.W.) (10.2.2003) by [The Police Pensions (Amendment) Regulations 2003 (S.I. 2003/27)](https://www.legislation.gov.uk/uksi/2003/27), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/27/regulation/1/2), [Sch. 2 para. 8(1)](https://www.legislation.gov.uk/uksi/2003/27/schedule/2/paragraph/8/1) and (S.) (1.10.2003) by [The Police Pensions (Scotland) Amendment Regulations 2003 (S.S.I. 2003/406)](https://www.legislation.gov.uk/ssi/2003/406), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/406/regulation/1/1), [sch. 2 para. 8(a)](https://www.legislation.gov.uk/ssi/2003/406/schedule/2/paragraph/8)
 
-[^key-362264f60120d749ac52a066d61a9ffc]: Textual amendment: Words in [reg. 15(2)(a)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/15/2/a) substituted (S.) (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/75)](https://www.legislation.gov.uk/ssi/2016/75), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/75/regulation/1/1), [21(a)](https://www.legislation.gov.uk/ssi/2016/75/regulation/21/a)
+[^c-362264f60120d749ac52a066d61a9ffc]: Textual amendment: Words in [reg. 15(2)(a)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/15/2/a) substituted (S.) (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/75)](https://www.legislation.gov.uk/ssi/2016/75), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/75/regulation/1/1), [21(a)](https://www.legislation.gov.uk/ssi/2016/75/regulation/21/a)
 
-[^key-aaf753822d81e4f7d7acd81e051d7537]: Textual amendment: Words in [reg. 15(2)(a)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/15/2/a) substituted (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [27(a)](https://www.legislation.gov.uk/uksi/2018/530/regulation/27/a)
+[^c-aaf753822d81e4f7d7acd81e051d7537]: Textual amendment: Words in [reg. 15(2)(a)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/15/2/a) substituted (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [27(a)](https://www.legislation.gov.uk/uksi/2018/530/regulation/27/a)
 
-[^key-f8f962d9ea2a655aa73105e3223d5589]: Textual amendment: Words in [reg. 15(2)(a)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/15/2/a) inserted (E.W.) (with effect from 1.12.2000) by [The Police Pensions (Pension Sharing) Regulations 2002 (S.I. 2002/3202)](https://www.legislation.gov.uk/uksi/2002/3202), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3202/regulation/1/1), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2002/3202/schedule/2/paragraph/4/a)
+[^c-f8f962d9ea2a655aa73105e3223d5589]: Textual amendment: Words in [reg. 15(2)(a)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/15/2/a) inserted (E.W.) (with effect from 1.12.2000) by [The Police Pensions (Pension Sharing) Regulations 2002 (S.I. 2002/3202)](https://www.legislation.gov.uk/uksi/2002/3202), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3202/regulation/1/1), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2002/3202/schedule/2/paragraph/4/a)
 
-[^key-07390ea43dbf0a6fab836b6f7dc8b160]: Textual amendment: Words in reg. 15(2) inserted (E.W.) (with effect from 5.12.2005) by [The Police Pensions (Amendment) Regulations 2006 (S.I. 2006/740)](https://www.legislation.gov.uk/uksi/2006/740), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/740/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2006/740/schedule/2/paragraph/1) and (S.) (with effect from 5.12.2005) by [The Police Pensions Amendment (Scotland) Regulations 2006 (S.S.I. 2006/285)](https://www.legislation.gov.uk/ssi/2006/285), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2006/285/regulation/1/2), [sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2006/285/schedule/2/paragraph/1)
+[^c-07390ea43dbf0a6fab836b6f7dc8b160]: Textual amendment: Words in reg. 15(2) inserted (E.W.) (with effect from 5.12.2005) by [The Police Pensions (Amendment) Regulations 2006 (S.I. 2006/740)](https://www.legislation.gov.uk/uksi/2006/740), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/740/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2006/740/schedule/2/paragraph/1) and (S.) (with effect from 5.12.2005) by [The Police Pensions Amendment (Scotland) Regulations 2006 (S.S.I. 2006/285)](https://www.legislation.gov.uk/ssi/2006/285), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2006/285/regulation/1/2), [sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2006/285/schedule/2/paragraph/1)
 
-[^key-7f3899d6e949c45c1bfcf80c86a7f57e]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/15/3) substituted (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [27(b)](https://www.legislation.gov.uk/uksi/2018/530/regulation/27/b)
+[^c-7f3899d6e949c45c1bfcf80c86a7f57e]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/15/3) substituted (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [27(b)](https://www.legislation.gov.uk/uksi/2018/530/regulation/27/b)
 
-[^key-79e64e484fbb2c2273f849b7845e7a2a]: Textual amendment: [Reg. 15(4)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/15/4)[(5)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/15/5) omitted (S.) (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by virtue of [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/75)](https://www.legislation.gov.uk/ssi/2016/75), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/75/regulation/1/1), [21(b)](https://www.legislation.gov.uk/ssi/2016/75/regulation/21/b) and (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [27(c)](https://www.legislation.gov.uk/uksi/2018/530/regulation/27/c)
+[^c-79e64e484fbb2c2273f849b7845e7a2a]: Textual amendment: [Reg. 15(4)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/15/4)[(5)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/15/5) omitted (S.) (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by virtue of [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/75)](https://www.legislation.gov.uk/ssi/2016/75), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/75/regulation/1/1), [21(b)](https://www.legislation.gov.uk/ssi/2016/75/regulation/21/b) and (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [27(c)](https://www.legislation.gov.uk/uksi/2018/530/regulation/27/c)
 
-[^key-c521fd87b168d415bc661a43ca1fa1ea]: Textual amendment: Words in [reg. 15(6)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/15/6) inserted (E.W.) (with effect from 1.12.2000) by [The Police Pensions (Pension Sharing) Regulations 2002 (S.I. 2002/3202)](https://www.legislation.gov.uk/uksi/2002/3202), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3202/regulation/1/1), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/2002/3202/schedule/2/paragraph/4/b)
+[^c-c521fd87b168d415bc661a43ca1fa1ea]: Textual amendment: Words in [reg. 15(6)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/15/6) inserted (E.W.) (with effect from 1.12.2000) by [The Police Pensions (Pension Sharing) Regulations 2002 (S.I. 2002/3202)](https://www.legislation.gov.uk/uksi/2002/3202), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3202/regulation/1/1), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/2002/3202/schedule/2/paragraph/4/b)
 
-[^key-97ac01179c058412d74a9b671eb9d7ca]: Textual amendment: [Reg. 15(7)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/15/7) substituted (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [27(d)](https://www.legislation.gov.uk/uksi/2018/530/regulation/27/d)
+[^c-97ac01179c058412d74a9b671eb9d7ca]: Textual amendment: [Reg. 15(7)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/15/7) substituted (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [27(d)](https://www.legislation.gov.uk/uksi/2018/530/regulation/27/d)
 
-[^key-e53eb69cc35525d9afe0f27d546c21d4]: Textual amendment: [Reg. 15(7)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/15/7) inserted (S.) (1.10.2003) by [The Police Pensions (Scotland) Amendment Regulations 2003 (S.S.I. 2003/406)](https://www.legislation.gov.uk/ssi/2003/406), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/406/regulation/1/1), [sch. 2 para. 8(b)](https://www.legislation.gov.uk/ssi/2003/406/schedule/2/paragraph/8)
+[^c-e53eb69cc35525d9afe0f27d546c21d4]: Textual amendment: [Reg. 15(7)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/15/7) inserted (S.) (1.10.2003) by [The Police Pensions (Scotland) Amendment Regulations 2003 (S.S.I. 2003/406)](https://www.legislation.gov.uk/ssi/2003/406), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/406/regulation/1/1), [sch. 2 para. 8(b)](https://www.legislation.gov.uk/ssi/2003/406/schedule/2/paragraph/8)
 
-[^key-4659f555fbbdb6d821595b3a2e0b0152]: Textual amendment: [Reg. 15(7)(a)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/15/7/a) substituted (S.) (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/75)](https://www.legislation.gov.uk/ssi/2016/75), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/75/regulation/1/1), [21(c)](https://www.legislation.gov.uk/ssi/2016/75/regulation/21/c)
+[^c-4659f555fbbdb6d821595b3a2e0b0152]: Textual amendment: [Reg. 15(7)(a)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/15/7/a) substituted (S.) (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/75)](https://www.legislation.gov.uk/ssi/2016/75), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/75/regulation/1/1), [21(c)](https://www.legislation.gov.uk/ssi/2016/75/regulation/21/c)
 
-[^key-21716f9ddb9606df9010408ca86d850c]: Textual amendment: Words in [reg. 15(7)(a)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/15/7/a) substituted (S.) (1.4.2019) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [19](https://www.legislation.gov.uk/ssi/2019/68/regulation/19)
+[^c-21716f9ddb9606df9010408ca86d850c]: Textual amendment: Words in [reg. 15(7)(a)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/15/7/a) substituted (S.) (1.4.2019) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [19](https://www.legislation.gov.uk/ssi/2019/68/regulation/19)
 
-[^key-f7099be47a051d79e5fc52bf6b12c1c2]: Commencement: Reg. 16 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
+[^c-f7099be47a051d79e5fc52bf6b12c1c2]: Commencement: Reg. 16 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
 
-[^key-e578d0e18baa9bdcc3668f4ab6980833]: Textual amendment: [Reg. 16(2)(d)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/16/2/d) inserted (E.W.) (with effect from 1.12.2000) by [The Police Pensions (Pension Sharing) Regulations 2002 (S.I. 2002/3202)](https://www.legislation.gov.uk/uksi/2002/3202), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3202/regulation/1/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2002/3202/schedule/2/paragraph/5)
+[^c-e578d0e18baa9bdcc3668f4ab6980833]: Textual amendment: [Reg. 16(2)(d)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/16/2/d) inserted (E.W.) (with effect from 1.12.2000) by [The Police Pensions (Pension Sharing) Regulations 2002 (S.I. 2002/3202)](https://www.legislation.gov.uk/uksi/2002/3202), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3202/regulation/1/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2002/3202/schedule/2/paragraph/5)
 
-[^key-86266ee2240eaa3e47e75248df74129b]: Commencement: Reg. 17 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
+[^c-86266ee2240eaa3e47e75248df74129b]: Commencement: Reg. 17 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
 
-[^key-c2d6e82377380aa88d85aeb90c0cc6e9]: Textual amendment: Words in [reg. 17(1)(a)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/17/1/a) substituted (E.W.) (15.11.2003) by [The Police Pensions (Additional Voluntary Contributions) (Amendment) Regulations 2003 (S.I. 2003/2717)](https://www.legislation.gov.uk/uksi/2003/2717), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2717/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2003/2717/regulation/2/2)
+[^c-c2d6e82377380aa88d85aeb90c0cc6e9]: Textual amendment: Words in [reg. 17(1)(a)](https://www.legislation.gov.uk/uksi/1991/1304/regulation/17/1/a) substituted (E.W.) (15.11.2003) by [The Police Pensions (Additional Voluntary Contributions) (Amendment) Regulations 2003 (S.I. 2003/2717)](https://www.legislation.gov.uk/uksi/2003/2717), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2717/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2003/2717/regulation/2/2)
 
 [^f00009]: Footnote: [1964 c. 48](https://www.legislation.gov.uk/ukpga/1964/48).
 
 [^f00010]: Footnote: [1967 c. 77](https://www.legislation.gov.uk/ukpga/1967/77).
 
-[^key-61d9f6ee6de998c93b6aa50406833c40]: Commencement: Reg. 18 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
+[^c-61d9f6ee6de998c93b6aa50406833c40]: Commencement: Reg. 18 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
 
-[^key-7869da6371b82600ceb78aa5a0785c81]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/1991/1304/schedule/1A) inserted (E.W.) (with effect from 1.12.2000) by [The Police Pensions (Pension Sharing) Regulations 2002 (S.I. 2002/3202)](https://www.legislation.gov.uk/uksi/2002/3202), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3202/regulation/1/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2002/3202/schedule/2/paragraph/6)
+[^c-7869da6371b82600ceb78aa5a0785c81]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/1991/1304/schedule/1A) inserted (E.W.) (with effect from 1.12.2000) by [The Police Pensions (Pension Sharing) Regulations 2002 (S.I. 2002/3202)](https://www.legislation.gov.uk/uksi/2002/3202), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3202/regulation/1/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2002/3202/schedule/2/paragraph/6)
 
 [^M_F_419f51b4-2303-4537-ac83-44b15471f449]: Textual amendment: By [The Police Pensions Amendment (Scotland) Regulations 2006 (S.S.I. 2006/285)](https://www.legislation.gov.uk/ssi/2006/285), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2006/285/regulation/1/2), [sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2006/285/schedule/2/paragraph/4), it is provided that (S.) (with effect from 5.12.2005) there be inserted the words “or civil partner” \[Editorial note: The purported insertion was not applied because the affected provision does not extend to Scotland\]
 
-[^key-4d91fbe2a9bdaefcf2afea04e0f07333]: Textual amendment: Words in [Sch. 1A para. 1(7)(a)](https://www.legislation.gov.uk/uksi/1991/1304/schedule/1A) inserted (with effect from 5.12.2005) by [The Police Pensions (Amendment) Regulations 2006 (S.I. 2006/740)](https://www.legislation.gov.uk/uksi/2006/740), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/740/regulation/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2006/740/schedule/2/paragraph/2)
+[^c-4d91fbe2a9bdaefcf2afea04e0f07333]: Textual amendment: Words in [Sch. 1A para. 1(7)(a)](https://www.legislation.gov.uk/uksi/1991/1304/schedule/1A) inserted (with effect from 5.12.2005) by [The Police Pensions (Amendment) Regulations 2006 (S.I. 2006/740)](https://www.legislation.gov.uk/uksi/2006/740), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/740/regulation/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2006/740/schedule/2/paragraph/2)
 
-[^key-07b5cde5cf6247993bddf4bb0671daca]: Commencement: Sch. 1 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
+[^c-07b5cde5cf6247993bddf4bb0671daca]: Commencement: Sch. 1 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1304/regulation/1)
 
-[^key-4d88cc18f075c8164e4cd2a6afc7a5d2]: Textual amendment: Words in Sch. 1 shoulder note substituted (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/2018/530/regulation/28)
+[^c-4d88cc18f075c8164e4cd2a6afc7a5d2]: Textual amendment: Words in Sch. 1 shoulder note substituted (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/2018/530/regulation/28)
 
-[^key-2fcb4d5437c7182a8e1fc5082ab27737]: Textual amendment: Word in Sch. 1 shoulder note substituted (S.) (1.4.2019) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [20](https://www.legislation.gov.uk/ssi/2019/68/regulation/20)
+[^c-2fcb4d5437c7182a8e1fc5082ab27737]: Textual amendment: Word in Sch. 1 shoulder note substituted (S.) (1.4.2019) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [20](https://www.legislation.gov.uk/ssi/2019/68/regulation/20)
 
-[^key-a490bb01e39c5fd1d4ca918d16173552]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1991/1304/schedule/2) omitted (S.) (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by virtue of [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/75)](https://www.legislation.gov.uk/ssi/2016/75), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/75/regulation/1/1), [22](https://www.legislation.gov.uk/ssi/2016/75/regulation/22) and (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2018/530/regulation/26)
+[^c-a490bb01e39c5fd1d4ca918d16173552]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1991/1304/schedule/2) omitted (S.) (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by virtue of [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/75)](https://www.legislation.gov.uk/ssi/2016/75), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/75/regulation/1/1), [22](https://www.legislation.gov.uk/ssi/2016/75/regulation/22) and (E.W.) (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations 2018 (S.I. 2018/530)](https://www.legislation.gov.uk/uksi/2018/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/530/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2018/530/regulation/26)

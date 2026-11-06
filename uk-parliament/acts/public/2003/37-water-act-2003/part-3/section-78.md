@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. National security[^key-ef8084d90ba8ae055937798bce1e9fae][^key-57d4e4eaa734b064530673abeb81841b]
+## 78. National security[^c-ef8084d90ba8ae055937798bce1e9fae][^c-57d4e4eaa734b064530673abeb81841b]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ef8084d90ba8ae055937798bce1e9fae]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2003/37/section/78) in force at 1.10.2004 for E. by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(n)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/n) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
+[^c-ef8084d90ba8ae055937798bce1e9fae]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2003/37/section/78) in force at 1.10.2004 for E. by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(n)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/n) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
 
-[^key-57d4e4eaa734b064530673abeb81841b]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2003/37/section/78) in force at 11.11.2004 for W. by [S.I. 2004/2916](https://www.legislation.gov.uk/wsi/2004/2916), [art. 2(b)](https://www.legislation.gov.uk/wsi/2004/2916/article/2/b)
+[^c-57d4e4eaa734b064530673abeb81841b]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2003/37/section/78) in force at 11.11.2004 for W. by [S.I. 2004/2916](https://www.legislation.gov.uk/wsi/2004/2916), [art. 2(b)](https://www.legislation.gov.uk/wsi/2004/2916/article/2/b)

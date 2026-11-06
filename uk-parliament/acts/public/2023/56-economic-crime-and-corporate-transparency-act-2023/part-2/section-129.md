@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Dissolution and winding up: modifications of general law[^key-79405a7b7706e09ee253dace06f7ecba]
+## 129. Dissolution and winding up: modifications of general law[^c-79405a7b7706e09ee253dace06f7ecba]
 
 *Extent: E+W+S+N.I.*
 
@@ -88,4 +88,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79405a7b7706e09ee253dace06f7ecba]: Commencement: S. 129 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-79405a7b7706e09ee253dace06f7ecba]: Commencement: S. 129 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

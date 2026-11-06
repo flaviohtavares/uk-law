@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 126. Use of proxies at meetings[^key-464a5930423a7e052420be1f6bdd138e]
+## 126. Use of proxies at meetings[^c-464a5930423a7e052420be1f6bdd138e]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-464a5930423a7e052420be1f6bdd138e]: Commencement: [Rule 126](https://www.legislation.gov.uk/uksi/2011/1301/rule/126) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-464a5930423a7e052420be1f6bdd138e]: Commencement: [Rule 126](https://www.legislation.gov.uk/uksi/2011/1301/rule/126) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

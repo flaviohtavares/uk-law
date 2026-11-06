@@ -43,7 +43,7 @@ in respect of any expense or expenditure incurred by a local authority on or aft
 
 - “**the appropriate percentage**”, in relation to a relevant capital amount, means the percentage specified in or under the superseded provision in relation to the subsidy or contribution to which the capital amount relates and, in relation to a subsidy or contribution, means the percentage specified in or under the superseded provision in relation to that subsidy or contribution;
 - “**the relevant capital amount**”, in relation to a subsidy or contribution, means the sum of—
-- (a) such amount as the Secretary of State considers would, on the date of his payment under subsection (3)(a) above, be payable by the local authority were they then to repay a loan, repayable over twenty years, taken out by them from the Treasury, as a local loan made under section 3 of the National Loans Act 1968,[^key-a898d0deb50df95128b54933ad0fc641] to meet their expense or, as the case may be, expenditure in respect of or towards which the subsidy or contribution was made; and
+- (a) such amount as the Secretary of State considers would, on the date of his payment under subsection (3)(a) above, be payable by the local authority were they then to repay a loan, repayable over twenty years, taken out by them from the Treasury, as a local loan made under section 3 of the National Loans Act 1968,[^c-a898d0deb50df95128b54933ad0fc641] to meet their expense or, as the case may be, expenditure in respect of or towards which the subsidy or contribution was made; and
 - (b) any other amount which he considers would be then payable on such repayment of that loan;
 
 “**relevant expenditure**”, in relation to a subsidy or contribution, means the expense or expenditure in respect of which the subsidy or contribution was made.
@@ -64,6 +64,6 @@ in respect of any expense or expenditure incurred by a local authority on or aft
 
 [^c10516551]: Marginal citation: [1987 c. 26](https://www.legislation.gov.uk/ukpga/1987/26).
 
-[^key-a898d0deb50df95128b54933ad0fc641]: Textual amendment: Words in s. 67(4) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 76](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/76) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
+[^c-a898d0deb50df95128b54933ad0fc641]: Textual amendment: Words in s. 67(4) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 76](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/76) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
 
 [^c10516561]: Marginal citation: [1987 c. 26](https://www.legislation.gov.uk/ukpga/1987/26).

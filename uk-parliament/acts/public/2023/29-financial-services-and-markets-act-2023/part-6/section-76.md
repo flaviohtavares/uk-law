@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Arrangements for the investigation of complaints[^key-034bccac19c1472f698d9980736b1f32][^key-1c62919df704be2bd8de941ab76f303e]
+## 76. Arrangements for the investigation of complaints[^c-034bccac19c1472f698d9980736b1f32][^c-1c62919df704be2bd8de941ab76f303e]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-034bccac19c1472f698d9980736b1f32]: Commencement: S. 76 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-034bccac19c1472f698d9980736b1f32]: Commencement: S. 76 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-1c62919df704be2bd8de941ab76f303e]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2023/29/section/76) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(xx)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/xx)
+[^c-1c62919df704be2bd8de941ab76f303e]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2023/29/section/76) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(xx)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/xx)

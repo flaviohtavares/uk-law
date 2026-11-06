@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24A. Duty to prevent access to seriously harmful extrinsic material[^key-1121b9872206e5b76c8d2fd2fd4aae56]
+## 24A. Duty to prevent access to seriously harmful extrinsic material[^c-1121b9872206e5b76c8d2fd2fd4aae56]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1121b9872206e5b76c8d2fd2fd4aae56]: Textual amendment: [S. 24A](https://www.legislation.gov.uk/ukpga/1996/55/section/24A) inserted (31.7.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 92](https://www.legislation.gov.uk/ukpga/2017/30/section/92), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(x)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/x)
+[^c-1121b9872206e5b76c8d2fd2fd4aae56]: Textual amendment: [S. 24A](https://www.legislation.gov.uk/ukpga/1996/55/section/24A) inserted (31.7.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 92](https://www.legislation.gov.uk/ukpga/2017/30/section/92), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(x)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/x)

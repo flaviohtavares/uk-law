@@ -27,7 +27,7 @@ summary: ''
 - (a) to the act or default of another; or
 - (b) to reliance on information supplied by another;
 
-unless, not less than seven clear days before the hearing of the proceedings (in England, Wales and Northern Ireland), or the trial diet (in Scotland) *(Extent: N.I.)* *(affected by repeal, see note)*[^key-bc6740f5698d6778b6bf1f496ed904b5], the person has served a notice on the person bringing the proceedings.
+unless, not less than seven clear days before the hearing of the proceedings (in England, Wales and Northern Ireland), or the trial diet (in Scotland) *(Extent: N.I.)* *(affected by repeal, see note)*[^c-bc6740f5698d6778b6bf1f496ed904b5], the person has served a notice on the person bringing the proceedings.
 
 (3) The notice must give the information in the possession of the person (“A”) serving the notice which identifies or assists in identifying the person (“B”) who—
 
@@ -41,4 +41,4 @@ unless, not less than seven clear days before the hearing of the proceedings (in
 
 ## Annotations
 
-[^key-bc6740f5698d6778b6bf1f496ed904b5]: Textual amendment: Words in [reg. 43(2)](https://www.legislation.gov.uk/uksi/2012/3032/regulation/43/2) omitted (N.I.) (31.12.2020) by virtue of [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/3), [14(9)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/14/9)
+[^c-bc6740f5698d6778b6bf1f496ed904b5]: Textual amendment: Words in [reg. 43(2)](https://www.legislation.gov.uk/uksi/2012/3032/regulation/43/2) omitted (N.I.) (31.12.2020) by virtue of [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/3), [14(9)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/14/9)

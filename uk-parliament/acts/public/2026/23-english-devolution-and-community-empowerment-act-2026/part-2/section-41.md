@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Local growth plans[^key-30299169590cc33d32c110ff8248e9b9][^key-1dedf738b5372dda57c8e80b1cd465b9]
+## 41. Local growth plans[^c-30299169590cc33d32c110ff8248e9b9][^c-1dedf738b5372dda57c8e80b1cd465b9]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 22 confers on mayoral strategic authorities functions in relation to lo
 
 ## Annotations
 
-[^key-30299169590cc33d32c110ff8248e9b9]: Commencement: S. 41 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
+[^c-30299169590cc33d32c110ff8248e9b9]: Commencement: S. 41 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
 
-[^key-1dedf738b5372dda57c8e80b1cd465b9]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2026/23/section/41) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-1dedf738b5372dda57c8e80b1cd465b9]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2026/23/section/41) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

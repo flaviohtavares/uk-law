@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Development consent etc. granted by the Order[^key-8ea4baf2cfe6b973fa21494ed097420c]
+## 3. Development consent etc. granted by the Order[^c-8ea4baf2cfe6b973fa21494ed097420c]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 
 (3) UK Power Networks may—
 
-- (a) subject to articles 6(2) and 6(4)[^key-1591f075b679cfd4888156bb48339d15], install the UK Power Networks works; and
+- (a) subject to articles 6(2) and 6(4)[^c-1591f075b679cfd4888156bb48339d15], install the UK Power Networks works; and
 - (b) keep installed the above-ground electric lines included in the UK Power Networks works.
 
 (4) The authorised development must be constructed, installed and kept installed in the lines and situations shown on the Works Plans in Schedule 2 (plans and drawings), subject to article 5 (limits of deviation) and to the Requirements set out in Schedule 3 (requirements).
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8ea4baf2cfe6b973fa21494ed097420c]: Commencement: Art. 3 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-8ea4baf2cfe6b973fa21494ed097420c]: Commencement: Art. 3 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
 
-[^key-1591f075b679cfd4888156bb48339d15]: Textual amendment: Words in [art. 3(3)(a)](https://www.legislation.gov.uk/uksi/2017/817/article/3/3/a) substituted (8.5.2018) by [The National Grid (Richborough Connection Project) (Correction) Order 2018 (S.I. 2018/572)](https://www.legislation.gov.uk/uksi/2018/572), [art. 1](https://www.legislation.gov.uk/uksi/2018/572/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/572/schedule)
+[^c-1591f075b679cfd4888156bb48339d15]: Textual amendment: Words in [art. 3(3)(a)](https://www.legislation.gov.uk/uksi/2017/817/article/3/3/a) substituted (8.5.2018) by [The National Grid (Richborough Connection Project) (Correction) Order 2018 (S.I. 2018/572)](https://www.legislation.gov.uk/uksi/2018/572), [art. 1](https://www.legislation.gov.uk/uksi/2018/572/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/572/schedule)

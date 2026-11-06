@@ -31,7 +31,7 @@ summary: ''
 
 Public Health, Wales
 
-The Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 3) Regulations 2021 (revoked)[^key-ec16e34ae97e346b71a1d1caa271ab1f]
+The Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 3) Regulations 2021 (revoked)[^c-ec16e34ae97e346b71a1d1caa271ab1f]
 
 Made
 
@@ -45,111 +45,111 @@ Laid before Senedd Cymru
 
 at 2.00 p.m. on 15 February 2021
 
-[^key-ec16e34ae97e346b71a1d1caa271ab1f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ec16e34ae97e346b71a1d1caa271ab1f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — General[^key-ec16e34ae97e346b71a1d1caa271ab1f]
+## PART 1 — General[^c-ec16e34ae97e346b71a1d1caa271ab1f]
 
-### 1. Title, coming into force and interpretation[^key-ec16e34ae97e346b71a1d1caa271ab1f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 2 — Amendment of the International Travel Regulations relating to arrivals from non-exempt countries and territories[^key-ec16e34ae97e346b71a1d1caa271ab1f]
-
-### 2. Amendment of the International Travel Regulations[^key-ec16e34ae97e346b71a1d1caa271ab1f]
+### 1. Title, coming into force and interpretation[^c-ec16e34ae97e346b71a1d1caa271ab1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Insertion of Part 2B of the International Travel Regulations[^key-ec16e34ae97e346b71a1d1caa271ab1f]
+## PART 2 — Amendment of the International Travel Regulations relating to arrivals from non-exempt countries and territories[^c-ec16e34ae97e346b71a1d1caa271ab1f]
+
+### 2. Amendment of the International Travel Regulations[^c-ec16e34ae97e346b71a1d1caa271ab1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Insertion of Schedules 1B and 1C[^key-ec16e34ae97e346b71a1d1caa271ab1f]
+### 3. Insertion of Part 2B of the International Travel Regulations[^c-ec16e34ae97e346b71a1d1caa271ab1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Amendment of the International Travel Regulations relating to arrivals from a country or territory listed in Schedule 3A to the International Travel Regulations[^key-ec16e34ae97e346b71a1d1caa271ab1f]
-
-### 5. Amendment of regulation 9[^key-ec16e34ae97e346b71a1d1caa271ab1f]
+### 4. Insertion of Schedules 1B and 1C[^c-ec16e34ae97e346b71a1d1caa271ab1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Amendment of regulation 12E[^key-ec16e34ae97e346b71a1d1caa271ab1f]
+## PART 3 — Amendment of the International Travel Regulations relating to arrivals from a country or territory listed in Schedule 3A to the International Travel Regulations[^c-ec16e34ae97e346b71a1d1caa271ab1f]
+
+### 5. Amendment of regulation 9[^c-ec16e34ae97e346b71a1d1caa271ab1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Amendment of regulation 12F[^key-ec16e34ae97e346b71a1d1caa271ab1f]
+### 6. Amendment of regulation 12E[^c-ec16e34ae97e346b71a1d1caa271ab1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Miscellaneous amendments to the International Travel Regulations relating to Parts 2 and 3 of these Regulations[^key-ec16e34ae97e346b71a1d1caa271ab1f]
-
-### 8. Amendment to regulation 14[^key-ec16e34ae97e346b71a1d1caa271ab1f]
+### 7. Amendment of regulation 12F[^c-ec16e34ae97e346b71a1d1caa271ab1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Amendment to regulation 16[^key-ec16e34ae97e346b71a1d1caa271ab1f]
+## PART 4 — Miscellaneous amendments to the International Travel Regulations relating to Parts 2 and 3 of these Regulations[^c-ec16e34ae97e346b71a1d1caa271ab1f]
+
+### 8. Amendment to regulation 14[^c-ec16e34ae97e346b71a1d1caa271ab1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Amendment to regulation 17[^key-ec16e34ae97e346b71a1d1caa271ab1f]
+### 9. Amendment to regulation 16[^c-ec16e34ae97e346b71a1d1caa271ab1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Amendment to regulation 18[^key-ec16e34ae97e346b71a1d1caa271ab1f]
+### 10. Amendment to regulation 17[^c-ec16e34ae97e346b71a1d1caa271ab1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Amendment to Schedule 1[^key-ec16e34ae97e346b71a1d1caa271ab1f]
+### 11. Amendment to regulation 18[^c-ec16e34ae97e346b71a1d1caa271ab1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — Amendments to Schedule 2 to the International Travel Regulations[^key-ec16e34ae97e346b71a1d1caa271ab1f]
-
-### 13. Amendments to Schedule 2 (exempt persons)[^key-ec16e34ae97e346b71a1d1caa271ab1f]
+### 12. Amendment to Schedule 1[^c-ec16e34ae97e346b71a1d1caa271ab1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 6 — Insertion of new Schedule 5 to the International Travel Regulations and amendments to regulation 10 of the International Travel Regulations[^key-ec16e34ae97e346b71a1d1caa271ab1f]
+## PART 5 — Amendments to Schedule 2 to the International Travel Regulations[^c-ec16e34ae97e346b71a1d1caa271ab1f]
 
-### 14. Insertion of Schedule 5 to the International Travel Regulations (sectoral exceptions)[^key-ec16e34ae97e346b71a1d1caa271ab1f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 15. Amendment to regulation 10 of the International Travel Regulations (isolation requirements: exceptions)[^key-ec16e34ae97e346b71a1d1caa271ab1f]
+### 13. Amendments to Schedule 2 (exempt persons)[^c-ec16e34ae97e346b71a1d1caa271ab1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 7 — Miscellaneous amendments to the International Travel Regulations regarding the removal of provisions from Schedule 2 and the addition of Schedule 5[^key-ec16e34ae97e346b71a1d1caa271ab1f]
+## PART 6 — Insertion of new Schedule 5 to the International Travel Regulations and amendments to regulation 10 of the International Travel Regulations[^c-ec16e34ae97e346b71a1d1caa271ab1f]
 
-### 16. Amendments to the International Travel Regulations regarding the removal of certain provisions from Schedule 2 and the addition of Schedule 5[^key-ec16e34ae97e346b71a1d1caa271ab1f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**17.**[^key-ec16e34ae97e346b71a1d1caa271ab1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**18.**[^key-ec16e34ae97e346b71a1d1caa271ab1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**19.**[^key-ec16e34ae97e346b71a1d1caa271ab1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 8 — Amendments to the list of sporting events in Schedule 4 to the International Travel Regulations[^key-ec16e34ae97e346b71a1d1caa271ab1f]
-
-### 20. Amendments to the list of specified sporting events[^key-ec16e34ae97e346b71a1d1caa271ab1f]
+### 14. Insertion of Schedule 5 to the International Travel Regulations (sectoral exceptions)[^c-ec16e34ae97e346b71a1d1caa271ab1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 9 — Transitional Provision[^key-ec16e34ae97e346b71a1d1caa271ab1f]
-
-### 21. Transitional provision[^key-ec16e34ae97e346b71a1d1caa271ab1f]
+### 15. Amendment to regulation 10 of the International Travel Regulations (isolation requirements: exceptions)[^c-ec16e34ae97e346b71a1d1caa271ab1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ec16e34ae97e346b71a1d1caa271ab1f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART 7 — Miscellaneous amendments to the International Travel Regulations regarding the removal of provisions from Schedule 2 and the addition of Schedule 5[^c-ec16e34ae97e346b71a1d1caa271ab1f]
+
+### 16. Amendments to the International Travel Regulations regarding the removal of certain provisions from Schedule 2 and the addition of Schedule 5[^c-ec16e34ae97e346b71a1d1caa271ab1f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**17.**[^c-ec16e34ae97e346b71a1d1caa271ab1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**18.**[^c-ec16e34ae97e346b71a1d1caa271ab1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**19.**[^c-ec16e34ae97e346b71a1d1caa271ab1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 8 — Amendments to the list of sporting events in Schedule 4 to the International Travel Regulations[^c-ec16e34ae97e346b71a1d1caa271ab1f]
+
+### 20. Amendments to the list of specified sporting events[^c-ec16e34ae97e346b71a1d1caa271ab1f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 9 — Transitional Provision[^c-ec16e34ae97e346b71a1d1caa271ab1f]
+
+### 21. Transitional provision[^c-ec16e34ae97e346b71a1d1caa271ab1f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-ec16e34ae97e346b71a1d1caa271ab1f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-ec16e34ae97e346b71a1d1caa271ab1f]EXPLANATORY NOTE
+[^c-ec16e34ae97e346b71a1d1caa271ab1f]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -179,4 +179,4 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 ## Annotations
 
-[^key-ec16e34ae97e346b71a1d1caa271ab1f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2021/154) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 32](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/32)
+[^c-ec16e34ae97e346b71a1d1caa271ab1f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2021/154) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 32](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/32)

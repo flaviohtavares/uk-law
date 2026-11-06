@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Submission of accounts[^key-07f6970d9e20ff7091a307b879694e30]
+## 23. Submission of accounts[^c-07f6970d9e20ff7091a307b879694e30]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07f6970d9e20ff7091a307b879694e30]: Commencement: Rule 23 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-07f6970d9e20ff7091a307b879694e30]: Commencement: Rule 23 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

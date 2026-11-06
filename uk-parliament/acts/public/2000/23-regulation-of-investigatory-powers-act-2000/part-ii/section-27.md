@@ -34,13 +34,13 @@ summary: ''
 
 (4) In this section “**relevant enactment**” means—
 
-- (a) an enactment contained in this Act or the Investigatory Powers Act 2016[^key-389ab555bb6826c7c35069d24538d895];
+- (a) an enactment contained in this Act or the Investigatory Powers Act 2016[^c-389ab555bb6826c7c35069d24538d895];
 - (b) section 5 of the [^c10566951]Intelligence Services Act 1994 (warrants for the intelligence services); or
 - (c) an enactment contained in Part III of the [^c10566961]Police Act 1997 (powers of the police and of officers of Revenue and Customs).[^c19935521]
 
 ## Annotations
 
-[^key-389ab555bb6826c7c35069d24538d895]: Textual amendment: Words in s. 27(4)(a) inserted (27.6.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/4) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(g)(i)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/g/i)
+[^c-389ab555bb6826c7c35069d24538d895]: Textual amendment: Words in s. 27(4)(a) inserted (27.6.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/4) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(g)(i)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/g/i)
 
 [^c10566951]: Marginal citation: [1994 c. 13](https://www.legislation.gov.uk/ukpga/1994/13).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Application of enactments relating to railways[^key-43d91388c05c709b4a49e9b00e60819a]
+## 3. Application of enactments relating to railways[^c-43d91388c05c709b4a49e9b00e60819a]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-43d91388c05c709b4a49e9b00e60819a]: Commencement: Art. 3 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-43d91388c05c709b4a49e9b00e60819a]: Commencement: Art. 3 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
 [^f00013]: Footnote: [1839 c. 45](https://www.legislation.gov.uk/ukpga/1839/45).
 

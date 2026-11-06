@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Calculation of basic amount of tax by the Greater London Authority[^key-b4eb690d76b0c20bf29998ae0f43ecfe]
+## 77. Calculation of basic amount of tax by the Greater London Authority[^c-b4eb690d76b0c20bf29998ae0f43ecfe]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4eb690d76b0c20bf29998ae0f43ecfe]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2011/20/section/77) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/g)
+[^c-b4eb690d76b0c20bf29998ae0f43ecfe]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2011/20/section/77) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/g)

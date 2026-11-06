@@ -53,7 +53,7 @@ if there are also summary proceedings against the accused person in that court i
 
 that order.
 
-(4)[^c19804171] On the application of the prosecutor, the sheriff who has made an order under subsection (2A) above (or another sheriff of the same sheriffdom)[^key-1c1abc99703ed71933f027c0c4ddf143] may, if a sheriff of the other sheriffdom mentioned in paragraph (b) of that subsection consents—
+(4)[^c19804171] On the application of the prosecutor, the sheriff who has made an order under subsection (2A) above (or another sheriff of the same sheriffdom)[^c-1c1abc99703ed71933f027c0c4ddf143] may, if a sheriff of the other sheriffdom mentioned in paragraph (b) of that subsection consents—
 
 - (a) revoke; or
 - (b) vary so as to restrict the effect of,
@@ -72,4 +72,4 @@ that order.
 
 [^c19804171]: Textual amendment: S. 137B(4) added (10.3.2008) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6) , [ss. 22(2)(d)](https://www.legislation.gov.uk/asp/2007/6/section/22/2/d) , [84](https://www.legislation.gov.uk/asp/2007/6/section/84) ; [S.S.I. 2008/42](https://www.legislation.gov.uk/ssi/2008/42) , [art. 3](https://www.legislation.gov.uk/ssi/2008/42/article/3) , [Sch.](https://www.legislation.gov.uk/ssi/2008/42/schedule)
 
-[^key-1c1abc99703ed71933f027c0c4ddf143]: Textual amendment: Words in s. 137B(4) substituted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13) , [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1) , [sch. 7 para. 53](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/53) ; [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-1c1abc99703ed71933f027c0c4ddf143]: Textual amendment: Words in s. 137B(4) substituted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13) , [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1) , [sch. 7 para. 53](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/53) ; [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

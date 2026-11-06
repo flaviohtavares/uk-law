@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66. Returns or reports of meetings[^key-549bed738f7ba5ada098f54ecfd39527]
+## 66. Returns or reports of meetings[^c-549bed738f7ba5ada098f54ecfd39527]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-549bed738f7ba5ada098f54ecfd39527]: Commencement: Rule 66 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-549bed738f7ba5ada098f54ecfd39527]: Commencement: Rule 66 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

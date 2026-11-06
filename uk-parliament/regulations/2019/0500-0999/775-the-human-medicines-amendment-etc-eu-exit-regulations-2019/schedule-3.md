@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 12
 
-**1.**[^key-81621774c01b16b1222f9a21cc87267a] After Schedule 2 to the Human Medicines Regulations 2012, insert—
+**1.**[^c-81621774c01b16b1222f9a21cc87267a] After Schedule 2 to the Human Medicines Regulations 2012, insert—
 
 > **SCHEDULE 2A — Modifications of Commission Directive [2003/94/EC](https://www.legislation.gov.uk/eudr/2003/94)**
 >
@@ -43,4 +43,4 @@ Regulation 12
 
 ## Annotations
 
-[^key-81621774c01b16b1222f9a21cc87267a]: Commencement: Sch. 3 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-81621774c01b16b1222f9a21cc87267a]: Commencement: Sch. 3 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64A. Powers in relation to salmon and freshwater fisheries: sampling, etc.[^key-c5128d64d2b53d7c6049e22aa84678da]
+## 64A. Powers in relation to salmon and freshwater fisheries: sampling, etc.[^c-c5128d64d2b53d7c6049e22aa84678da]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5128d64d2b53d7c6049e22aa84678da]: Textual amendment: [S. 64A](https://www.legislation.gov.uk/asp/2003/15/section/64A) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 27(2)](https://www.legislation.gov.uk/asp/2013/7/section/27/2), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-c5128d64d2b53d7c6049e22aa84678da]: Textual amendment: [S. 64A](https://www.legislation.gov.uk/asp/2003/15/section/64A) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 27(2)](https://www.legislation.gov.uk/asp/2013/7/section/27/2), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

@@ -41,7 +41,7 @@ at 6am on 2 April 2007
 
 The National Assembly for Wales, in exercise of the powers conferred by sections 2(5), 3, 5(1) and (2), 6, 8(3), 10 and 79(3) of, and paragraph 4 of Schedule 1 to, the Health Act 2006[^f00001] and section 26 of the Welsh Language Act 1993[^f00002], hereby makes the following Regulations:
 
-## 1. Title, commencement, application and interpretation[^key-3d492ad0d361687b1cb41b8e2d73e043]
+## 1. Title, commencement, application and interpretation[^c-3d492ad0d361687b1cb41b8e2d73e043]
 
 (1) The title of these Regulations is the Smoke- free Premises etc. (Wales) Regulations 2007 and they come into force at 6am on 2 April 2007.
 
@@ -57,7 +57,7 @@ The National Assembly for Wales, in exercise of the powers conferred by sections
 - “private dwelling” (“*annedd breifat*”) includes self-contained residential accommodation for temporary or holiday use and any garage, outhouse or other structure for the exclusive use of persons living in the dwelling;
 - “private vehicle” (“*cerbyd preifat*”) means a vehicle which is used wholly or mainly for the private purposes of the person who owns it or who has a right to use it which does not derive from a payment or undertaking to pay for the use of the vehicle or its driver for a particular journey.
 
-## 2. Meaning of “enclosed” and “substantially enclosed” premises[^key-e86b693bf17219123198588e396c5e20]
+## 2. Meaning of “enclosed” and “substantially enclosed” premises[^c-e86b693bf17219123198588e396c5e20]
 
 (1) For the purposes of section 2 of the Act, premises are enclosed if they have a ceiling or roof and, except for doors, windows and passageways, they are wholly enclosed either permanently or temporarily.
 
@@ -67,7 +67,7 @@ The National Assembly for Wales, in exercise of the powers conferred by sections
 
 (4) In this regulation “roof” includes any fixed or moveable structure or device.
 
-## 3. Exemptions for smoke-free premises[^key-af902327112d40b23b9479bc53e2898c]
+## 3. Exemptions for smoke-free premises[^c-af902327112d40b23b9479bc53e2898c]
 
 (1) A private dwelling is not smoke-free except for any part of it which is —
 
@@ -107,7 +107,7 @@ The National Assembly for Wales, in exercise of the powers conferred by sections
 - (iii) development of smoking or pharmaceutical products that could result in the manufacture of less dangerous products for smoking; or
 - (iv) smoking cessation programmes.
 
-## 4. Smoke-free vehicles[^key-58351325c1164180b691286c6f9bbe55]
+## 4. Smoke-free vehicles[^c-58351325c1164180b691286c6f9bbe55]
 
 (1) Subject to the following paragraphs of this regulation, a vehicle shall be smoke-free if it is used —
 
@@ -126,7 +126,7 @@ The National Assembly for Wales, in exercise of the powers conferred by sections
 
 (5) In this regulation “roof” does not include any roof which is completely stowed away so that it does not cover any part of a compartment in which persons may travel.
 
-## 5. No-smoking signs: smoke-free premises[^key-2c2ae224fbcd2e308732f653a9dda399]
+## 5. No-smoking signs: smoke-free premises[^c-2c2ae224fbcd2e308732f653a9dda399]
 
 (1) For the purposes of section 6 of the Act, any person who occupies or is concerned in the management of smoke-free premises must make sure that no-smoking signs meeting the requirements specified in paragraph (2) are displayed in those premises in accordance with the requirements contained in paragraph (3).
 
@@ -138,7 +138,7 @@ The National Assembly for Wales, in exercise of the powers conferred by sections
 
 (3) A no-smoking sign complying with the requirements of paragraph (2) must be displayed in a prominent position at or near each entrance to smoke-free premises.
 
-## 6. No-smoking signs: smoke-free vehicles[^key-7edd6e5471ad239deb69bf54ddf22314]
+## 6. No-smoking signs: smoke-free vehicles[^c-7edd6e5471ad239deb69bf54ddf22314]
 
 (1) The relevant person in relation to a vehicle which is smoke-free by virtue of regulation 4 must make sure that no-smoking signs meeting the requirements specified in paragraph (2) are displayed on the vehicle in accordance with the requirements contained in paragraph (3).
 
@@ -154,11 +154,11 @@ The National Assembly for Wales, in exercise of the powers conferred by sections
 - (b) the driver, and
 - (c) any person on a vehicle who is responsible for order or safety on it.
 
-## 7. Duty to prevent smoking in smoke-free vehicles[^key-462fa8578ff3916533d98a41121f8960]
+## 7. Duty to prevent smoking in smoke-free vehicles[^c-462fa8578ff3916533d98a41121f8960]
 
 It is the duty of the relevant person in relation to a vehicle which is smoke-free by virtue of regulation 4 to cause a person smoking in the vehicle to stop smoking.
 
-## 8. Enforcement: designation of enforcement authorities[^key-e946001523d83850ebe1f39b335084e7]
+## 8. Enforcement: designation of enforcement authorities[^c-e946001523d83850ebe1f39b335084e7]
 
 (1) County councils and county borough councils in Wales are designated as enforcement authorities for the purposes of Chapter 1 of Part 1 of the Act.
 
@@ -166,7 +166,7 @@ It is the duty of the relevant person in relation to a vehicle which is smoke-fr
 
 (3) Where more than one enforcement authority is investigating the same person under powers conferred by Chapter 1 of Part 1 of the Act, the authorities concerned may by agreement transfer enforcement functions to one of them or to any other enforcement authority.
 
-## 9. Enforcement: penalty notice[^key-0dac0225f695eec910885c56b0964526]
+## 9. Enforcement: penalty notice[^c-0dac0225f695eec910885c56b0964526]
 
 (1) The penalty notice forms set out in the Schedule to these Regulations are specified in relation to the offences described in them.
 
@@ -182,7 +182,7 @@ First Minister for Wales
 
 9 March 2007
 
-## SCHEDULE — Penalty Notice Forms[^key-bf40eef36af3bb96e50f6f407684377c]
+## SCHEDULE — Penalty Notice Forms[^c-bf40eef36af3bb96e50f6f407684377c]
 
 Regulation 9(1)
 
@@ -214,28 +214,28 @@ A draft of the Regulations was notified to the European Commission in accordance
 
 [^f00002]: Footnote: [1993 c. 38](https://www.legislation.gov.uk/ukpga/1993/38).
 
-[^key-3d492ad0d361687b1cb41b8e2d73e043]: Commencement: Reg. 1 in force at 2.4.2007 at 6 a.m., see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/787/regulation/1/1)
+[^c-3d492ad0d361687b1cb41b8e2d73e043]: Commencement: Reg. 1 in force at 2.4.2007 at 6 a.m., see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/787/regulation/1/1)
 
 [^f00003]: Footnote: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14).
 
 [^f00004]: Footnote: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20).
 
-[^key-e86b693bf17219123198588e396c5e20]: Commencement: Reg. 2 in force at 2.4.2007 at 6 a.m., see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/787/regulation/1/1)
+[^c-e86b693bf17219123198588e396c5e20]: Commencement: Reg. 2 in force at 2.4.2007 at 6 a.m., see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/787/regulation/1/1)
 
-[^key-af902327112d40b23b9479bc53e2898c]: Commencement: Reg. 3 in force at 2.4.2007 at 6 a.m., see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/787/regulation/1/1)
+[^c-af902327112d40b23b9479bc53e2898c]: Commencement: Reg. 3 in force at 2.4.2007 at 6 a.m., see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/787/regulation/1/1)
 
-[^key-58351325c1164180b691286c6f9bbe55]: Commencement: Reg. 4 in force at 2.4.2007 at 6 a.m., see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/787/regulation/1/1)
+[^c-58351325c1164180b691286c6f9bbe55]: Commencement: Reg. 4 in force at 2.4.2007 at 6 a.m., see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/787/regulation/1/1)
 
-[^key-2c2ae224fbcd2e308732f653a9dda399]: Commencement: Reg. 5 in force at 2.4.2007 at 6 a.m., see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/787/regulation/1/1)
+[^c-2c2ae224fbcd2e308732f653a9dda399]: Commencement: Reg. 5 in force at 2.4.2007 at 6 a.m., see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/787/regulation/1/1)
 
-[^key-7edd6e5471ad239deb69bf54ddf22314]: Commencement: Reg. 6 in force at 2.4.2007 at 6 a.m., see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/787/regulation/1/1)
+[^c-7edd6e5471ad239deb69bf54ddf22314]: Commencement: Reg. 6 in force at 2.4.2007 at 6 a.m., see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/787/regulation/1/1)
 
-[^key-462fa8578ff3916533d98a41121f8960]: Commencement: Reg. 7 in force at 2.4.2007 at 6 a.m., see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/787/regulation/1/1)
+[^c-462fa8578ff3916533d98a41121f8960]: Commencement: Reg. 7 in force at 2.4.2007 at 6 a.m., see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/787/regulation/1/1)
 
-[^key-e946001523d83850ebe1f39b335084e7]: Commencement: Reg. 8 in force at 2.4.2007 at 6 a.m., see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/787/regulation/1/1)
+[^c-e946001523d83850ebe1f39b335084e7]: Commencement: Reg. 8 in force at 2.4.2007 at 6 a.m., see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/787/regulation/1/1)
 
-[^key-0dac0225f695eec910885c56b0964526]: Commencement: Reg. 9 in force at 2.4.2007 at 6 a.m., see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/787/regulation/1/1)
+[^c-0dac0225f695eec910885c56b0964526]: Commencement: Reg. 9 in force at 2.4.2007 at 6 a.m., see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/787/regulation/1/1)
 
 [^f00005]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-bf40eef36af3bb96e50f6f407684377c]: Commencement: Sch. in force at 2.4.2007 at 6 a.m., see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/787/regulation/1/1)
+[^c-bf40eef36af3bb96e50f6f407684377c]: Commencement: Sch. in force at 2.4.2007 at 6 a.m., see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/787/regulation/1/1)

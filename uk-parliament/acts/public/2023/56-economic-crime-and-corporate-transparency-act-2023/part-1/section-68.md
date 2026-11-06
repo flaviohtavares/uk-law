@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Allocation of unique identifiers[^key-5718d24d4707671d92f3e2c9649dce15][^key-d7f99bcb6b2e37fa9661791bd602616e]
+## 68. Allocation of unique identifiers[^c-5718d24d4707671d92f3e2c9649dce15][^c-d7f99bcb6b2e37fa9661791bd602616e]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5718d24d4707671d92f3e2c9649dce15]: Commencement: S. 68 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-5718d24d4707671d92f3e2c9649dce15]: Commencement: S. 68 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-d7f99bcb6b2e37fa9661791bd602616e]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2023/56/section/68) in force at 18.3.2025 in so far as not already in force by [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/b)
+[^c-d7f99bcb6b2e37fa9661791bd602616e]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2023/56/section/68) in force at 18.3.2025 in so far as not already in force by [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/b)

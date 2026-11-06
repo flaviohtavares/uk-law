@@ -57,9 +57,9 @@ summary: ''
 (6) An order under subsection (4) or (5) may—
 
 - (a) make provision similar to any provision of section 18 or 19 of the [^c13165611]Further and Higher Education Act 1992 (further education corporation: powers);
-- (b) make provision for the continuity of the body corporate, including provision for the continuation of anything done under any of sections 29 to 29C[^key-ca77f6ebfba22ea846585601582679c4] of the [^c13165621]Further and Higher Education Act 1992 (government and conduct of designated institutions);
+- (b) make provision for the continuity of the body corporate, including provision for the continuation of anything done under any of sections 29 to 29C[^c-ca77f6ebfba22ea846585601582679c4] of the [^c13165621]Further and Higher Education Act 1992 (government and conduct of designated institutions);
 - (c) make provision expressed to have effect subject to the institution’s instrument or articles of government;
-- (d) make provision which confers exempt charitable status (for the purposes of the the Charities Act 2011)[^key-55a375748ef0c195906294d2ec21f6b7] and which relates to the governing body or to an institution administered by or established for the purposes of that body;
+- (d) make provision which confers exempt charitable status (for the purposes of the the Charities Act 2011)[^c-55a375748ef0c195906294d2ec21f6b7] and which relates to the governing body or to an institution administered by or established for the purposes of that body;
 - (e) make provision about the discontinuance of the institution;
 - (f) make provision about the dissolution of the body corporate (including provision about the treatment of property, rights and liabilities).
 
@@ -84,8 +84,8 @@ summary: ''
 
 [^c13165611]: Marginal citation: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13).
 
-[^key-ca77f6ebfba22ea846585601582679c4]: Textual amendment: Words in [s. 143(6)(b)](https://www.legislation.gov.uk/ukpga/2000/21/section/143/6/b) substituted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 12 para. 44(3)](https://www.legislation.gov.uk/ukpga/2011/21/schedule/12/paragraph/44/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-ca77f6ebfba22ea846585601582679c4]: Textual amendment: Words in [s. 143(6)(b)](https://www.legislation.gov.uk/ukpga/2000/21/section/143/6/b) substituted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 12 para. 44(3)](https://www.legislation.gov.uk/ukpga/2011/21/schedule/12/paragraph/44/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
 [^c13165621]: Marginal citation: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13).
 
-[^key-55a375748ef0c195906294d2ec21f6b7]: Textual amendment: Words in s. 143(6)(d) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 88](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/88) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-55a375748ef0c195906294d2ec21f6b7]: Textual amendment: Words in s. 143(6)(d) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 88](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/88) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))

@@ -31,7 +31,7 @@ summary: ''
 
 PLANT HEALTH, WALES
 
-The Plant Health (Amendment) (Wales) Order 1999 (revoked)[^key-091047d0686ca3054809e98a08a67064]
+The Plant Health (Amendment) (Wales) Order 1999 (revoked)[^c-091047d0686ca3054809e98a08a67064]
 
 Made
 
@@ -41,56 +41,56 @@ Coming into force
 
 21st August 1999
 
-[^key-091047d0686ca3054809e98a08a67064]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-091047d0686ca3054809e98a08a67064]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-091047d0686ca3054809e98a08a67064]
+## 1. Citation and commencement[^c-091047d0686ca3054809e98a08a67064]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Health (Great Britain) Order 1993[^key-091047d0686ca3054809e98a08a67064]
+## 2. Amendment of the Plant Health (Great Britain) Order 1993[^c-091047d0686ca3054809e98a08a67064]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-091047d0686ca3054809e98a08a67064]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-091047d0686ca3054809e98a08a67064]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## THE SCHEDULE — NEW SCHEDULE 13A TO THE PLANT HEALTH (GREAT BRITAIN) ORDER 1993[^key-091047d0686ca3054809e98a08a67064]
+## THE SCHEDULE — NEW SCHEDULE 13A TO THE PLANT HEALTH (GREAT BRITAIN) ORDER 1993[^c-091047d0686ca3054809e98a08a67064]
 
 Article 2(5)
 
-> **SCHEDULE 13A — SPECIAL MEASURES FOR THE CONTROL OF RALSTONIA SOLANACEARUM (SMITH) YABUUCHI ET AL.[^key-091047d0686ca3054809e98a08a67064]**
+> **SCHEDULE 13A — SPECIAL MEASURES FOR THE CONTROL OF RALSTONIA SOLANACEARUM (SMITH) YABUUCHI ET AL.[^c-091047d0686ca3054809e98a08a67064]**
 >
 > Article 18(7)
 >
-> **1.**[^key-091047d0686ca3054809e98a08a67064] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-091047d0686ca3054809e98a08a67064] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-091047d0686ca3054809e98a08a67064] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-091047d0686ca3054809e98a08a67064] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-091047d0686ca3054809e98a08a67064] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-091047d0686ca3054809e98a08a67064] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4.**[^key-091047d0686ca3054809e98a08a67064] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-091047d0686ca3054809e98a08a67064] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5.**[^key-091047d0686ca3054809e98a08a67064] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **5.**[^c-091047d0686ca3054809e98a08a67064] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **6.**[^key-091047d0686ca3054809e98a08a67064] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **6.**[^c-091047d0686ca3054809e98a08a67064] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **7.**[^key-091047d0686ca3054809e98a08a67064] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **7.**[^c-091047d0686ca3054809e98a08a67064] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **8.**[^key-091047d0686ca3054809e98a08a67064] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **8.**[^c-091047d0686ca3054809e98a08a67064] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **9.**[^key-091047d0686ca3054809e98a08a67064] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **9.**[^c-091047d0686ca3054809e98a08a67064] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **10.**[^key-091047d0686ca3054809e98a08a67064] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **10.**[^c-091047d0686ca3054809e98a08a67064] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **11.**[^key-091047d0686ca3054809e98a08a67064] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **11.**[^c-091047d0686ca3054809e98a08a67064] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-091047d0686ca3054809e98a08a67064]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-091047d0686ca3054809e98a08a67064]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-091047d0686ca3054809e98a08a67064]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/1999/2641) revoked (27.6.2006) by [The Plant Health (Wales) Order 2006 (S.I. 2006/1643)](https://www.legislation.gov.uk/wsi/2006/1643), [art. 1(2)](https://www.legislation.gov.uk/wsi/2006/1643/article/1/2), [Sch. 19](https://www.legislation.gov.uk/wsi/2006/1643/schedule/19)
+[^c-091047d0686ca3054809e98a08a67064]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/1999/2641) revoked (27.6.2006) by [The Plant Health (Wales) Order 2006 (S.I. 2006/1643)](https://www.legislation.gov.uk/wsi/2006/1643), [art. 1(2)](https://www.legislation.gov.uk/wsi/2006/1643/article/1/2), [Sch. 19](https://www.legislation.gov.uk/wsi/2006/1643/schedule/19)

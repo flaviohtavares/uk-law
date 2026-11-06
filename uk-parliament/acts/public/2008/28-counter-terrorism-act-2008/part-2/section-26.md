@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Issue and revision of code of practice[^key-24f33c71dba66da71ded04c2d636ebe9]
+## 26. Issue and revision of code of practice[^c-24f33c71dba66da71ded04c2d636ebe9]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ and may modify the draft in the light of the representations made.
 
 ## Annotations
 
-[^key-24f33c71dba66da71ded04c2d636ebe9]: Commencement: S. 26 in force at 30.4.2012 by [S.I. 2012/1121](https://www.legislation.gov.uk/uksi/2012/1121), [art. 2](https://www.legislation.gov.uk/uksi/2012/1121/article/2)
+[^c-24f33c71dba66da71ded04c2d636ebe9]: Commencement: S. 26 in force at 30.4.2012 by [S.I. 2012/1121](https://www.legislation.gov.uk/uksi/2012/1121), [art. 2](https://www.legislation.gov.uk/uksi/2012/1121/article/2)

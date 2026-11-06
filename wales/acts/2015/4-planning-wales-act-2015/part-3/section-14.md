@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Welsh Ministers' power to direct preparation of joint local development plan[^c22542701][^key-31a4791357f1d213f6f904cfa6676ceb]
+## 14. Welsh Ministers' power to direct preparation of joint local development plan[^c22542701][^c-31a4791357f1d213f6f904cfa6676ceb]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ summary: ''
 
 [^c22542701]: Commencement: S. 14 partly in force; s. 14 in force for specified purposes at 6.9.2015, see s. 58(2)(b)(4)(b)
 
-[^key-31a4791357f1d213f6f904cfa6676ceb]: Commencement: S. 14 in force at 4.1.2016 in so far as not already in force by [S.I. 2015/1987](https://www.legislation.gov.uk/wsi/2015/1987), [art. 3(d)](https://www.legislation.gov.uk/wsi/2015/1987/article/3/d)
+[^c-31a4791357f1d213f6f904cfa6676ceb]: Commencement: S. 14 in force at 4.1.2016 in so far as not already in force by [S.I. 2015/1987](https://www.legislation.gov.uk/wsi/2015/1987), [art. 3(d)](https://www.legislation.gov.uk/wsi/2015/1987/article/3/d)

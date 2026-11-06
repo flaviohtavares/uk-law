@@ -54,7 +54,7 @@ An Act to amend the law in respect of the definition of still-birth; to make cer
 
 for the words “28 weeks” there shall be substituted “ 24 weeks ”.
 
-(2)[^key-0ab19cf888d2adc5b50e271e36a9dfae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0ab19cf888d2adc5b50e271e36a9dfae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 3. Provision for Northern Ireland.
 
@@ -89,6 +89,6 @@ An Order in Council under paragraph 1(1)(b) of Schedule 1 to the [^c859055]North
 
 [^c859053]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-0ab19cf888d2adc5b50e271e36a9dfae]: Textual amendment: [S. 2(2)](https://www.legislation.gov.uk/ukpga/1992/29/section/2/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 10
+[^c-0ab19cf888d2adc5b50e271e36a9dfae]: Textual amendment: [S. 2(2)](https://www.legislation.gov.uk/ukpga/1992/29/section/2/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 10
 
 [^c859055]: Marginal citation: [1974 c. 28](https://www.legislation.gov.uk/ukpga/1974/28).

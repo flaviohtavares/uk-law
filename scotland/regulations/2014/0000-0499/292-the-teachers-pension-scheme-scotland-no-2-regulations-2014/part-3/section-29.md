@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Pensionable service before automatic enrolment date[^key-96a609b63bce62d4e7204768fbf2c44a]
+## 29. Pensionable service before automatic enrolment date[^c-96a609b63bce62d4e7204768fbf2c44a]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96a609b63bce62d4e7204768fbf2c44a]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2014/292/regulation/29) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-96a609b63bce62d4e7204768fbf2c44a]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2014/292/regulation/29) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

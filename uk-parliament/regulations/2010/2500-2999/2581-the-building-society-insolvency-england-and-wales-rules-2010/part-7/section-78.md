@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78. Debt payable at future time[^key-78e58c63c71a8bcae5056a3b4d09e323]
+## 78. Debt payable at future time[^c-78e58c63c71a8bcae5056a3b4d09e323]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-78e58c63c71a8bcae5056a3b4d09e323]: Commencement: Rule 78 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-78e58c63c71a8bcae5056a3b4d09e323]: Commencement: Rule 78 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00032]: Footnote: Rule 4.94 was amended by [S.I. 2005/527](https://www.legislation.gov.uk/uksi/2005/527).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Delivery of order confirming reduction of share capital[^key-440aeea0263946e4d29f9f442f96eec5][^key-b03ff62eb770da8e73fc79d6de17c0d9]
+## 76. Delivery of order confirming reduction of share capital[^c-440aeea0263946e4d29f9f442f96eec5][^c-b03ff62eb770da8e73fc79d6de17c0d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 649 of the Companies Act 2006 (registration of court order confirming
 
 ## Annotations
 
-[^key-440aeea0263946e4d29f9f442f96eec5]: Commencement: S. 76 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-440aeea0263946e4d29f9f442f96eec5]: Commencement: S. 76 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-b03ff62eb770da8e73fc79d6de17c0d9]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2023/56/section/76) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z18)
+[^c-b03ff62eb770da8e73fc79d6de17c0d9]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2023/56/section/76) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z18)

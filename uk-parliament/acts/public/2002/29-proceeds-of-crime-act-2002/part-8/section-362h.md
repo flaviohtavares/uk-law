@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 362H. Holding of property: trusts and company arrangements etc[^key-83407cfc195f6c04cfbd21adfe208270]
+## 362H. Holding of property: trusts and company arrangements etc[^c-83407cfc195f6c04cfbd21adfe208270]
 
 *Extent: E+W+N.I.*
 
@@ -44,4 +44,4 @@ direct or indirect control over the property.
 
 ## Annotations
 
-[^key-83407cfc195f6c04cfbd21adfe208270]: Textual amendment: [Ss. 362A-362I](https://www.legislation.gov.uk/ukpga/2002/29/section/362A) and cross-heading inserted (27.4.2017 for specified purposes, 31.1.2018 for E.W. in so far as not already in force, 28.6.2021 for N.I. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 1](https://www.legislation.gov.uk/ukpga/2017/22/section/1), [58(1)(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1/6) (as amended (N.I.) (31.12.2020) by [S.I. 2019/742](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [109(2)](https://www.legislation.gov.uk/uksi/2019/742/regulation/109/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/a); [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/a)
+[^c-83407cfc195f6c04cfbd21adfe208270]: Textual amendment: [Ss. 362A-362I](https://www.legislation.gov.uk/ukpga/2002/29/section/362A) and cross-heading inserted (27.4.2017 for specified purposes, 31.1.2018 for E.W. in so far as not already in force, 28.6.2021 for N.I. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 1](https://www.legislation.gov.uk/ukpga/2017/22/section/1), [58(1)(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1/6) (as amended (N.I.) (31.12.2020) by [S.I. 2019/742](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [109(2)](https://www.legislation.gov.uk/uksi/2019/742/regulation/109/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/a); [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/a)

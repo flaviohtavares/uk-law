@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 104. Reduction period to continue where award terminates[^key-1b4cedbaa964ea43a2d1e5baaa81814c]
+## 104. Reduction period to continue where award terminates[^c-1b4cedbaa964ea43a2d1e5baaa81814c]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b4cedbaa964ea43a2d1e5baaa81814c]: Modification: [Reg. 104](https://www.legislation.gov.uk/nisr/2016/216/regulation/104) excluded (coming into force in accordance with reg.1 of the amending Rule) by [The Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/226)](https://www.legislation.gov.uk/nisr/2016/226), [regs. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1), [35(a)](https://www.legislation.gov.uk/nisr/2016/226/regulation/35/a)
+[^c-1b4cedbaa964ea43a2d1e5baaa81814c]: Modification: [Reg. 104](https://www.legislation.gov.uk/nisr/2016/216/regulation/104) excluded (coming into force in accordance with reg.1 of the amending Rule) by [The Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/226)](https://www.legislation.gov.uk/nisr/2016/226), [regs. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1), [35(a)](https://www.legislation.gov.uk/nisr/2016/226/regulation/35/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29C. Dispute resolution: procedure[^key-92f24398423552148a5302f4d3218aac]
+## 29C. Dispute resolution: procedure[^c-92f24398423552148a5302f4d3218aac]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92f24398423552148a5302f4d3218aac]: Textual amendment: Ss. 29A-29E substituted for ss. 29A-29D (29.1.2010 for E.W.S.) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) , [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1) , [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2009/26/schedule/6/paragraph/10) ; [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125) , [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
+[^c-92f24398423552148a5302f4d3218aac]: Textual amendment: Ss. 29A-29E substituted for ss. 29A-29D (29.1.2010 for E.W.S.) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) , [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1) , [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2009/26/schedule/6/paragraph/10) ; [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125) , [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)

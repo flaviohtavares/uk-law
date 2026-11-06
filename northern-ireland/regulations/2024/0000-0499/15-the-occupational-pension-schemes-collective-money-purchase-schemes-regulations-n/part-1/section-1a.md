@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1A. Application[^key-8ed4dbbc8a017dfe64c264cbbd926ea3]
+## 1A. Application[^c-8ed4dbbc8a017dfe64c264cbbd926ea3]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ed4dbbc8a017dfe64c264cbbd926ea3]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/nisr/2024/15/regulation/1A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [58(2)](https://www.legislation.gov.uk/nisr/2026/151/regulation/58/2)
+[^c-8ed4dbbc8a017dfe64c264cbbd926ea3]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/nisr/2024/15/regulation/1A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [58(2)](https://www.legislation.gov.uk/nisr/2026/151/regulation/58/2)

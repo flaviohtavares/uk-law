@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50B. Compulsory testing for alcohol[^key-99387bb655ece20d49a8be12c4e51449]
+## 50B. Compulsory testing for alcohol[^c-99387bb655ece20d49a8be12c4e51449]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99387bb655ece20d49a8be12c4e51449]: Textual amendment: Rule 50B inserted (18.4.2005) by [The Prison (Amendment) Rules 2005 (S.I. 2005/869)](https://www.legislation.gov.uk/uksi/2005/869), [rule 1(1)](https://www.legislation.gov.uk/uksi/2005/869/rule/1/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2005/869/schedule/1/paragraph/3)
+[^c-99387bb655ece20d49a8be12c4e51449]: Textual amendment: Rule 50B inserted (18.4.2005) by [The Prison (Amendment) Rules 2005 (S.I. 2005/869)](https://www.legislation.gov.uk/uksi/2005/869), [rule 1(1)](https://www.legislation.gov.uk/uksi/2005/869/rule/1/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2005/869/schedule/1/paragraph/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. New, reorganised and closing schools[^key-3b99798ac1b36faa0202976b28edf241]
+## 21. New, reorganised and closing schools[^c-3b99798ac1b36faa0202976b28edf241]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b99798ac1b36faa0202976b28edf241]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2011/371/regulation/21) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)
+[^c-3b99798ac1b36faa0202976b28edf241]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2011/371/regulation/21) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)

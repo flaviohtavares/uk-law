@@ -41,8 +41,8 @@ summary: ''
 
 (5) In subsection (4)(b) “**simultaneous application**” means an application made simultaneously with B's monitoring application under section 24.
 
-(6)[^key-656d92f66dabe46d149163dc25834f10] The Secretary of State may by order amend the preceding provisions of this section for the purpose of altering the meaning of relevant information relating to children or vulnerable adults (as the case may be).
+(6)[^c-656d92f66dabe46d149163dc25834f10] The Secretary of State may by order amend the preceding provisions of this section for the purpose of altering the meaning of relevant information relating to children or vulnerable adults (as the case may be).
 
 ## Annotations
 
-[^key-656d92f66dabe46d149163dc25834f10]: Commencement: S. 31(6) in force at 19.5.2008 for specified purposes by [S.I. 2008/1320](https://www.legislation.gov.uk/uksi/2008/1320), [art. 5(e)](https://www.legislation.gov.uk/uksi/2008/1320/article/5/e)
+[^c-656d92f66dabe46d149163dc25834f10]: Commencement: S. 31(6) in force at 19.5.2008 for specified purposes by [S.I. 2008/1320](https://www.legislation.gov.uk/uksi/2008/1320), [art. 5(e)](https://www.legislation.gov.uk/uksi/2008/1320/article/5/e)

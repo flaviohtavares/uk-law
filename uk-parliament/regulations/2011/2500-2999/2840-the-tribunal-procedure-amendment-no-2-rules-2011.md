@@ -32,7 +32,7 @@ summary: ''
 
 Tribunals And Inquiries
 
-The Tribunal Procedure (Amendment) (No.2) Rules 2011 (revoked)[^key-c3703700c98536e0812a4f2162710bad]
+The Tribunal Procedure (Amendment) (No.2) Rules 2011 (revoked)[^c-c3703700c98536e0812a4f2162710bad]
 
 Made
 
@@ -46,48 +46,48 @@ Coming into force
 
 19th December 2011
 
-[^key-c3703700c98536e0812a4f2162710bad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3703700c98536e0812a4f2162710bad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c3703700c98536e0812a4f2162710bad]
+## 1. Citation and commencement[^c-c3703700c98536e0812a4f2162710bad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Asylum and Immigration Tribunal (Procedure) Rules 2005[^key-c3703700c98536e0812a4f2162710bad]
+## 2. Amendments to the Asylum and Immigration Tribunal (Procedure) Rules 2005[^c-c3703700c98536e0812a4f2162710bad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-c3703700c98536e0812a4f2162710bad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c3703700c98536e0812a4f2162710bad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-c3703700c98536e0812a4f2162710bad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c3703700c98536e0812a4f2162710bad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-c3703700c98536e0812a4f2162710bad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c3703700c98536e0812a4f2162710bad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-c3703700c98536e0812a4f2162710bad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-c3703700c98536e0812a4f2162710bad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-c3703700c98536e0812a4f2162710bad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-c3703700c98536e0812a4f2162710bad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-c3703700c98536e0812a4f2162710bad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-c3703700c98536e0812a4f2162710bad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-c3703700c98536e0812a4f2162710bad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-c3703700c98536e0812a4f2162710bad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-c3703700c98536e0812a4f2162710bad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-c3703700c98536e0812a4f2162710bad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-c3703700c98536e0812a4f2162710bad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-c3703700c98536e0812a4f2162710bad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-c3703700c98536e0812a4f2162710bad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-c3703700c98536e0812a4f2162710bad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-c3703700c98536e0812a4f2162710bad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-c3703700c98536e0812a4f2162710bad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-c3703700c98536e0812a4f2162710bad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-c3703700c98536e0812a4f2162710bad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c3703700c98536e0812a4f2162710bad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3703700c98536e0812a4f2162710bad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c3703700c98536e0812a4f2162710bad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3703700c98536e0812a4f2162710bad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c3703700c98536e0812a4f2162710bad]: Textual amendment: Rules revoked (20.10.2014) by [The Tribunal Procedure (First-tier Tribunal) (Immigration and Asylum Chamber) Rules 2014 (S.I. 2014/2604)](https://www.legislation.gov.uk/uksi/2014/2604), [rules 1(1)](https://www.legislation.gov.uk/uksi/2014/2604/rule/1/1), [45 Table 1](https://www.legislation.gov.uk/uksi/2014/2604/rule/45)
+[^c-c3703700c98536e0812a4f2162710bad]: Textual amendment: Rules revoked (20.10.2014) by [The Tribunal Procedure (First-tier Tribunal) (Immigration and Asylum Chamber) Rules 2014 (S.I. 2014/2604)](https://www.legislation.gov.uk/uksi/2014/2604), [rules 1(1)](https://www.legislation.gov.uk/uksi/2014/2604/rule/1/1), [45 Table 1](https://www.legislation.gov.uk/uksi/2014/2604/rule/45)

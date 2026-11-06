@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Receipt of a club transfer value payment[^key-0c161a12a74cba5c129d750f2764f9a8]
+## 33. Receipt of a club transfer value payment[^c-0c161a12a74cba5c129d750f2764f9a8]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c161a12a74cba5c129d750f2764f9a8]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2014/2848/regulation/33) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-0c161a12a74cba5c129d750f2764f9a8]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2014/2848/regulation/33) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

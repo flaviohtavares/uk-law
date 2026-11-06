@@ -46,7 +46,7 @@ Coming into force
 
 The Treasury make the following Regulations in exercise of the powers conferred by sections 151(3), (4) and (6), 158(5) and (7), 166(6) and (8) and 167(4) and (6) of the Finance Act 2012[^f00001].
 
-## 1. Citation, commencement, effect and interpretation[^key-b389373e8f2b2dcd5342aa25dbb84465]
+## 1. Citation, commencement, effect and interpretation[^c-b389373e8f2b2dcd5342aa25dbb84465]
 
 (1) These Regulations may be cited as the Friendly Societies (Modifications of the Tax Acts) Regulations 2012 and shall come into force on 31st December 2012.
 
@@ -54,7 +54,7 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 
 (3) In these Regulations “FA 2012” means “the Finance Act 2012”.
 
-## 2. Friendly societies subject to the same basic rules as mutual insurers[^key-651f595b7c24bb8bf8cae1393889f96f]
+## 2. Friendly societies subject to the same basic rules as mutual insurers[^c-651f595b7c24bb8bf8cae1393889f96f]
 
 The Corporation Tax Acts[^f00002], in so far as they apply to—
 
@@ -64,7 +64,7 @@ The Corporation Tax Acts[^f00002], in so far as they apply to—
 
 have effect with the modifications specified in regulations 3 to 15.
 
-**3.**[^key-d030de63e3c19bff3f5244e92bc2f5fd] In Schedule 7 to the Finance Act 1991, paragraph 16 (transitional relief for old general annuity contracts)[^f00003] applies as if in sub-paragraph (7)—
+**3.**[^c-d030de63e3c19bff3f5244e92bc2f5fd] In Schedule 7 to the Finance Act 1991, paragraph 16 (transitional relief for old general annuity contracts)[^f00003] applies as if in sub-paragraph (7)—
 
 - (a) in the definition of “general annuity contract” after “referable to” there were inserted “taxable”, and
 - (b) at the appropriate place there were inserted—
@@ -73,7 +73,7 @@ have effect with the modifications specified in regulations 3 to 15.
 
   .
 
-**4.**[^key-fdadff1e455a210ac4ad29bcac7a0fb4] Section 255 of CAA 2001 (apportionment of allowances and charges)[^f00004] applies as if for subsection (1) there were substituted—
+**4.**[^c-fdadff1e455a210ac4ad29bcac7a0fb4] Section 255 of CAA 2001 (apportionment of allowances and charges)[^f00004] applies as if for subsection (1) there were substituted—
 
 > (1) This section applies if the long-term business of the company consists of two or more of—
 >
@@ -85,7 +85,7 @@ have effect with the modifications specified in regulations 3 to 15.
 
 .
 
-**4A.**[^key-b3b7129d12163ad0e1b86fa5b3e2e922] Section 270HG of CAA 2001 (structures and buildings allowances: apportionment of allowances) applies as if for subsection (1) there were substituted—
+**4A.**[^c-b3b7129d12163ad0e1b86fa5b3e2e922] Section 270HG of CAA 2001 (structures and buildings allowances: apportionment of allowances) applies as if for subsection (1) there were substituted—
 
 > (1) This section applies if the long-term business of the company consists of two or more of—
 >
@@ -97,7 +97,7 @@ have effect with the modifications specified in regulations 3 to 15.
 
 .
 
-**5.**[^key-9826e4f63676b358749a43a7cb116364] Section 57 of FA 2012 (meaning of basic life assurance and general annuity business) applies as if in subsection (2)—
+**5.**[^c-9826e4f63676b358749a43a7cb116364] Section 57 of FA 2012 (meaning of basic life assurance and general annuity business) applies as if in subsection (2)—
 
 - (a) the “or” at the end of paragraph (f) were omitted, and
 - (b) at the end of paragraph (g) there were inserted—
@@ -108,7 +108,7 @@ have effect with the modifications specified in regulations 3 to 15.
 
   .
 
-**6.**[^key-17d26715935fbdfedbbd07890203321a] After section 57 of FA 2012 (meaning of basic life assurance and general annuity business) there is treated as inserted—
+**6.**[^c-17d26715935fbdfedbbd07890203321a] After section 57 of FA 2012 (meaning of basic life assurance and general annuity business) there is treated as inserted—
 
 > **57A. Section 57: meaning of “tax exempt business”**
 >
@@ -123,13 +123,13 @@ have effect with the modifications specified in regulations 3 to 15.
 
 .
 
-**7.**[^key-e8f6ae84b58c535a97f07930c2f62ee5] Section 63 of FA 2012 (meaning of “long-term business” and “PHI business”) applies as if after subsection (2) there were inserted—
+**7.**[^c-e8f6ae84b58c535a97f07930c2f62ee5] Section 63 of FA 2012 (meaning of “long-term business” and “PHI business”) applies as if after subsection (2) there were inserted—
 
 > (3) But “PHI business” does not include tax exempt business.
 
 .
 
-**8.**[^key-428c7e66390323b946e2f836fd88aca4] Section 66 of FA 2012 (separate businesses for BLAGAB and other long-term business) applies as if**—**
+**8.**[^c-428c7e66390323b946e2f836fd88aca4] Section 66 of FA 2012 (separate businesses for BLAGAB and other long-term business) applies as if**—**
 
 - (a) for subsections (1) to (3) there were substituted—
 
@@ -150,7 +150,7 @@ have effect with the modifications specified in regulations 3 to 15.
   , and
 - (b) in subsection (5)(a) for “(3)” there were substituted “(3A)”.
 
-**9.**[^key-17a623b7d7afe910bc5b6dc726bcb1d1] Section 67 (exemption where BLAGAB small part of long-term business) applies as if—
+**9.**[^c-17a623b7d7afe910bc5b6dc726bcb1d1] Section 67 (exemption where BLAGAB small part of long-term business) applies as if—
 
 - (a) for subsection (3) there were substituted—
 
@@ -162,7 +162,7 @@ have effect with the modifications specified in regulations 3 to 15.
   , and
 - (b) in subsection (4) for “that single trade” there were substituted “the trade in subsection (3)(a)”.
 
-**10.**[^key-ed8105987b5533ed0cc4ac5d9248ebce] Section 97 of FA 2012 (application of Chapter) applies as if for subsection (1) there were substituted—
+**10.**[^c-ed8105987b5533ed0cc4ac5d9248ebce] Section 97 of FA 2012 (application of Chapter) applies as if for subsection (1) there were substituted—
 
 > (1) This Chapter applies in the case of an insurance company that carries on basic life assurance and general annuity business and one or both of—
 >
@@ -171,13 +171,13 @@ have effect with the modifications specified in regulations 3 to 15.
 
 .
 
-**11.**[^key-21657ac1eb5dbc94c0ff8d03f6ea8e79] Section 98 of FA 2012 (commercial allocation) applies as if after subsection (2) there were inserted—
+**11.**[^c-21657ac1eb5dbc94c0ff8d03f6ea8e79] Section 98 of FA 2012 (commercial allocation) applies as if after subsection (2) there were inserted—
 
 > (2A) But in determining those items, the credits or other income, the debits or other losses and the expenses in relation to tax exempt business are not to be taken into account.
 
 .
 
-**12.**[^key-4e9c52207cc020885674f5b931f4d63b] Section 114 of FA 2012 (application of Chapter) applies as if—
+**12.**[^c-4e9c52207cc020885674f5b931f4d63b] Section 114 of FA 2012 (application of Chapter) applies as if—
 
 - (a) in subsection (1)—
   - (i) for “, has”, there were substituted “carries on two or more of”,
@@ -198,17 +198,17 @@ have effect with the modifications specified in regulations 3 to 15.
 
     .
 
-**13.**[^key-9a681a9b2d625fa2865ce59d220426ff] In section 115 of FA 2012 (commercial allocation of accounting profit or loss and tax adjustments) subsections (1) and (2) apply as if “two” were omitted.
+**13.**[^c-9a681a9b2d625fa2865ce59d220426ff] In section 115 of FA 2012 (commercial allocation of accounting profit or loss and tax adjustments) subsections (1) and (2) apply as if “two” were omitted.
 
-**14.**[^key-6653a6a96b3bd5d3bbaf03e4c96de254] Section 172 of FA 2012 (minor definitions) applies as if in subsection (2) after “that Part”, there were inserted—
+**14.**[^c-6653a6a96b3bd5d3bbaf03e4c96de254] Section 172 of FA 2012 (minor definitions) applies as if in subsection (2) after “that Part”, there were inserted—
 
 > except where the context otherwise requires
 
 .
 
-**15.**[^key-7d20349eeb9c95965eefc6525f64cc3c] Section 174 of FA 2012 (index of defined terms) applies as if in the table in the second column (“where explained”) in relation to the expression “basic life and general annuity business (abbreviated to “BLAGAB”)” after “section 57” there were inserted “(a) to (g)”.
+**15.**[^c-7d20349eeb9c95965eefc6525f64cc3c] Section 174 of FA 2012 (index of defined terms) applies as if in the table in the second column (“where explained”) in relation to the expression “basic life and general annuity business (abbreviated to “BLAGAB”)” after “section 57” there were inserted “(a) to (g)”.
 
-## 16. Revocation[^key-bf871949be0237b59dbb2a843fb1cc15]
+## 16. Revocation[^c-bf871949be0237b59dbb2a843fb1cc15]
 
 The Regulations specified in the Schedule are revoked.
 
@@ -220,7 +220,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 3rd December 2012
 
-## SCHEDULE[^key-f26192a0c08f9381ef14e0c27d24750d]
+## SCHEDULE[^c-f26192a0c08f9381ef14e0c27d24750d]
 
 Regulation 16
 
@@ -276,44 +276,44 @@ A Tax Information and Impact Note covering this instrument was published on 6th 
 
 [^f00001]: Footnote: [2012 c. 14](https://www.legislation.gov.uk/ukpga/2012/14).
 
-[^key-b389373e8f2b2dcd5342aa25dbb84465]: Commencement: Reg. 1 in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)
+[^c-b389373e8f2b2dcd5342aa25dbb84465]: Commencement: Reg. 1 in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)
 
-[^key-651f595b7c24bb8bf8cae1393889f96f]: Commencement: Reg. 2 in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)
+[^c-651f595b7c24bb8bf8cae1393889f96f]: Commencement: Reg. 2 in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)
 
 [^f00002]: Footnote: “The Corporation Tax Acts” is defined in Schedule 1 to the Interpretation Act [1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30) as meaning the enactments relating to the taxation of the income and chargeable gains of companies and of company distributions.
 
-[^key-d030de63e3c19bff3f5244e92bc2f5fd]: Commencement: Reg. 3 in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)
+[^c-d030de63e3c19bff3f5244e92bc2f5fd]: Commencement: Reg. 3 in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)
 
 [^f00003]: Footnote: [1991 c. 31](https://www.legislation.gov.uk/ukpga/1991/31). Paragraph 16(7) of Schedule 7 has been relevantly amended by paragraph 14(4) of Schedule 10 and Part 2(10) of Schedule 27 to the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11).
 
-[^key-fdadff1e455a210ac4ad29bcac7a0fb4]: Commencement: Reg. 4 in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)
+[^c-fdadff1e455a210ac4ad29bcac7a0fb4]: Commencement: Reg. 4 in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)
 
 [^f00004]: Footnote: [2001 c. 2](https://www.legislation.gov.uk/ukpga/2001/2). Section 255 has been substituted by paragraph 98 of Schedule 16 to the Finance Act 2012.
 
-[^key-b3b7129d12163ad0e1b86fa5b3e2e922]: Textual amendment: Reg. 4A inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [11](https://www.legislation.gov.uk/uksi/2019/1087/regulation/11)
+[^c-b3b7129d12163ad0e1b86fa5b3e2e922]: Textual amendment: Reg. 4A inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [11](https://www.legislation.gov.uk/uksi/2019/1087/regulation/11)
 
-[^key-9826e4f63676b358749a43a7cb116364]: Commencement: Reg. 5 in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)
+[^c-9826e4f63676b358749a43a7cb116364]: Commencement: Reg. 5 in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)
 
-[^key-17d26715935fbdfedbbd07890203321a]: Commencement: Reg. 6 in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)
+[^c-17d26715935fbdfedbbd07890203321a]: Commencement: Reg. 6 in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)
 
-[^key-e8f6ae84b58c535a97f07930c2f62ee5]: Commencement: Reg. 7 in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)
+[^c-e8f6ae84b58c535a97f07930c2f62ee5]: Commencement: Reg. 7 in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)
 
-[^key-428c7e66390323b946e2f836fd88aca4]: Commencement: Reg. 8 in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)
+[^c-428c7e66390323b946e2f836fd88aca4]: Commencement: Reg. 8 in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)
 
-[^key-17a623b7d7afe910bc5b6dc726bcb1d1]: Commencement: Reg. 9 in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)
+[^c-17a623b7d7afe910bc5b6dc726bcb1d1]: Commencement: Reg. 9 in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)
 
-[^key-ed8105987b5533ed0cc4ac5d9248ebce]: Commencement: Reg. 10 in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)
+[^c-ed8105987b5533ed0cc4ac5d9248ebce]: Commencement: Reg. 10 in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)
 
-[^key-21657ac1eb5dbc94c0ff8d03f6ea8e79]: Commencement: Reg. 11 in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)
+[^c-21657ac1eb5dbc94c0ff8d03f6ea8e79]: Commencement: Reg. 11 in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)
 
-[^key-4e9c52207cc020885674f5b931f4d63b]: Commencement: Reg. 12 in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)
+[^c-4e9c52207cc020885674f5b931f4d63b]: Commencement: Reg. 12 in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)
 
-[^key-9a681a9b2d625fa2865ce59d220426ff]: Commencement: Reg. 13 in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)
+[^c-9a681a9b2d625fa2865ce59d220426ff]: Commencement: Reg. 13 in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)
 
-[^key-6653a6a96b3bd5d3bbaf03e4c96de254]: Commencement: Reg. 14 in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)
+[^c-6653a6a96b3bd5d3bbaf03e4c96de254]: Commencement: Reg. 14 in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)
 
-[^key-7d20349eeb9c95965eefc6525f64cc3c]: Commencement: Reg. 15 in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)
+[^c-7d20349eeb9c95965eefc6525f64cc3c]: Commencement: Reg. 15 in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)
 
-[^key-bf871949be0237b59dbb2a843fb1cc15]: Commencement: Reg. 16 in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)
+[^c-bf871949be0237b59dbb2a843fb1cc15]: Commencement: Reg. 16 in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)
 
-[^key-f26192a0c08f9381ef14e0c27d24750d]: Commencement: Sch. in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)
+[^c-f26192a0c08f9381ef14e0c27d24750d]: Commencement: Sch. in force at 31.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1)

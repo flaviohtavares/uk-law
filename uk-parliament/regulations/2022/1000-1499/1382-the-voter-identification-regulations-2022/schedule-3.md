@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 15(2)
 
-### 1. Requirements for the design of the anonymous elector’s document[^key-478f60f18f309e2ca775b2cb8a3c772f]
+### 1. Requirements for the design of the anonymous elector’s document[^c-478f60f18f309e2ca775b2cb8a3c772f]
 
 (1) The anonymous elector’s document must be 297 millimetres in height and 210 millimetres in width.
 
@@ -36,7 +36,7 @@ Regulation 15(2)
   - (v) one or more security features recommended by the Home Secretary;
 - (b) for the design of the dual Welsh and English version of the anonymous elector’s document in accordance with regulation 15(1)(d), the Welsh equivalent of any text shown in English.
 
-### 2. Requirements for the design of the electoral identity document[^key-79b60c145f5d23c3ba1e3a9781e1420f]
+### 2. Requirements for the design of the electoral identity document[^c-79b60c145f5d23c3ba1e3a9781e1420f]
 
 (1) The electoral identity document must be 297 millimetres in height and 210 millimetres in width.
 
@@ -52,7 +52,7 @@ Regulation 15(2)
   - (vii) one or more security features recommended by the Home Secretary;
 - (b) for the design of the dual Welsh and English version of the electoral identity document in accordance with regulation 15(1)(d), the Welsh equivalent of any text shown in English.
 
-### 3. Requirements for the design of the temporary electoral identity document[^key-c7813cde1a0fe60611fb364a1d2d344f]
+### 3. Requirements for the design of the temporary electoral identity document[^c-c7813cde1a0fe60611fb364a1d2d344f]
 
 (1) The temporary electoral identity document must be 297 millimetres in height and 210 millimetres in width.
 
@@ -70,8 +70,8 @@ Regulation 15(2)
 
 ## Annotations
 
-[^key-478f60f18f309e2ca775b2cb8a3c772f]: Commencement: Sch. 3 para. 1 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-478f60f18f309e2ca775b2cb8a3c772f]: Commencement: Sch. 3 para. 1 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
 
-[^key-79b60c145f5d23c3ba1e3a9781e1420f]: Commencement: Sch. 3 para. 2 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-79b60c145f5d23c3ba1e3a9781e1420f]: Commencement: Sch. 3 para. 2 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
 
-[^key-c7813cde1a0fe60611fb364a1d2d344f]: Commencement: Sch. 3 para. 3 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-c7813cde1a0fe60611fb364a1d2d344f]: Commencement: Sch. 3 para. 3 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

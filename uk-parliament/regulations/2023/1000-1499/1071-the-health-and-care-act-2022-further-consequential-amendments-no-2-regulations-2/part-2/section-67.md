@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Amendment of the Functions of the National Health Service Commissioning Board and the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) (Primary Dental Services) (England) Regulations 2013[^key-6b5b7bbff4c450a7f4fd1e6afc99582f]
+## 67. Amendment of the Functions of the National Health Service Commissioning Board and the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) (Primary Dental Services) (England) Regulations 2013[^c-6b5b7bbff4c450a7f4fd1e6afc99582f]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6b5b7bbff4c450a7f4fd1e6afc99582f]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/2023/1071/regulation/67) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-6b5b7bbff4c450a7f4fd1e6afc99582f]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/2023/1071/regulation/67) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00056]: Footnote: [S.I. 2013/469](https://www.legislation.gov.uk/uksi/2013/469), to which there are amendments not relevant to these Regulations.

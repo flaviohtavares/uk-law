@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 12. Notifications from the central administrator[^key-636b458c21f0ba4b7140659a436504c2]
+## Article 12. Notifications from the central administrator[^c-636b458c21f0ba4b7140659a436504c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-636b458c21f0ba4b7140659a436504c2]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/eur/2013/389/article/12) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [4(8)](https://www.legislation.gov.uk/uksi/2021/511/regulation/4/8)
+[^c-636b458c21f0ba4b7140659a436504c2]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/eur/2013/389/article/12) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [4(8)](https://www.legislation.gov.uk/uksi/2021/511/regulation/4/8)

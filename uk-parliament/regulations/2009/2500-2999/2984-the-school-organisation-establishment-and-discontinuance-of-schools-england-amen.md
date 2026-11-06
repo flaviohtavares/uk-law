@@ -32,7 +32,7 @@ summary: ''
 
 Education, England
 
-The School Organisation (Establishment and Discontinuance of Schools)(England)(Amendment) Regulations 2009 (revoked)[^key-f54f1c1fac7cf51b00f5c615fbe7c43b]
+The School Organisation (Establishment and Discontinuance of Schools)(England)(Amendment) Regulations 2009 (revoked)[^c-f54f1c1fac7cf51b00f5c615fbe7c43b]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 16th December 2009
 
-[^key-f54f1c1fac7cf51b00f5c615fbe7c43b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f54f1c1fac7cf51b00f5c615fbe7c43b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f54f1c1fac7cf51b00f5c615fbe7c43b]
+## 1. Citation and commencement[^c-f54f1c1fac7cf51b00f5c615fbe7c43b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the School Organisation (Establishment and Discontinuance of Schools)(England) Regulations 2007[^key-f54f1c1fac7cf51b00f5c615fbe7c43b]
+## 2. Amendment of the School Organisation (Establishment and Discontinuance of Schools)(England) Regulations 2007[^c-f54f1c1fac7cf51b00f5c615fbe7c43b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-f54f1c1fac7cf51b00f5c615fbe7c43b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f54f1c1fac7cf51b00f5c615fbe7c43b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-f54f1c1fac7cf51b00f5c615fbe7c43b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f54f1c1fac7cf51b00f5c615fbe7c43b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f54f1c1fac7cf51b00f5c615fbe7c43b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f54f1c1fac7cf51b00f5c615fbe7c43b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f54f1c1fac7cf51b00f5c615fbe7c43b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f54f1c1fac7cf51b00f5c615fbe7c43b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f54f1c1fac7cf51b00f5c615fbe7c43b]: Textual amendment: Regulations revoked (28.1.2014) by [The School Organisation (Establishment and Discontinuance of Schools) Regulations 2013 (S.I. 2013/3109)](https://www.legislation.gov.uk/uksi/2013/3109), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3109/regulation/1), [3(1)(e)](https://www.legislation.gov.uk/uksi/2013/3109/regulation/3/1/e) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2013/3109/regulation/3/2))
+[^c-f54f1c1fac7cf51b00f5c615fbe7c43b]: Textual amendment: Regulations revoked (28.1.2014) by [The School Organisation (Establishment and Discontinuance of Schools) Regulations 2013 (S.I. 2013/3109)](https://www.legislation.gov.uk/uksi/2013/3109), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3109/regulation/1), [3(1)(e)](https://www.legislation.gov.uk/uksi/2013/3109/regulation/3/1/e) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2013/3109/regulation/3/2))

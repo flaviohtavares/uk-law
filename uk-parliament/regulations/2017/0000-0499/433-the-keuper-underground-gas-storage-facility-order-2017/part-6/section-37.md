@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Procedure in relation to certain approvals etc.[^key-2cab536e64744797d11bef1a583a2bd3]
+## 37. Procedure in relation to certain approvals etc.[^c-2cab536e64744797d11bef1a583a2bd3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where an application is made to or request is made of the relevant planning auth
 
 ## Annotations
 
-[^key-2cab536e64744797d11bef1a583a2bd3]: Commencement: Art. 37 in force at 5.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/433/article/1)
+[^c-2cab536e64744797d11bef1a583a2bd3]: Commencement: Art. 37 in force at 5.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/433/article/1)

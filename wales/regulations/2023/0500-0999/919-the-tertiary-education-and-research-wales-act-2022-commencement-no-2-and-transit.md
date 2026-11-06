@@ -37,13 +37,13 @@ Made
 
 The Welsh Ministers, in exercise of the powers conferred by section 148(2) and (3) of the Tertiary Education and Research (Wales) Act 2022[^f00001], make the following Order:
 
-## 1. Title and interpretation[^key-4a1eb4117ffa7c3d9ccedacce92a9f72]
+## 1. Title and interpretation[^c-4a1eb4117ffa7c3d9ccedacce92a9f72]
 
 (1) The title of this Order is the Tertiary Education and Research (Wales) Act 2022 (Commencement No. 2 and Transitory Provision) Order 2023.
 
 (2) In this Order “**the Act**” means the Tertiary Education and Research (Wales) Act 2022, and other words and expressions have the same meaning as they have in the Act.
 
-## 2. Provisions coming into force on 4 September 2023[^key-034af195bbdf610f8e8852bff779dc9b]
+## 2. Provisions coming into force on 4 September 2023[^c-034af195bbdf610f8e8852bff779dc9b]
 
 The following provisions of the Act come into force on 4 September 2023—
 
@@ -89,7 +89,7 @@ The following provisions of the Act come into force on 4 September 2023—
   - (ii) paragraph 20(2)(a);
   - (iii) paragraph 28(a).
 
-## 3. Provisions coming into force on 4 September 2023 to the extent specified[^key-7aa03214acce0a6398663de39ee2d7ad]
+## 3. Provisions coming into force on 4 September 2023 to the extent specified[^c-7aa03214acce0a6398663de39ee2d7ad]
 
 The following provisions of the Act come into force on 4 September 2023 to the extent specified in relation to each such provision—
 
@@ -133,21 +133,21 @@ The following provisions of the Act come into force on 4 September 2023 to the e
 - (ll) section 105 (financial support for research and innovation), for the purposes of making regulations under that section;
 - (mm) in Schedule 1, paragraph 9(5), except in so far as it refers to paragraph 6(5).
 
-## 4. Provisions coming into force on 1 April 2024[^key-c22e2179b7b9ee0ad5d5f08b9f652db6]
+## 4. Provisions coming into force on 1 April 2024[^c-c22e2179b7b9ee0ad5d5f08b9f652db6]
 
 The following provisions of the Act come into force on 1 April 2024—
 
 - (a) sections 2 to 5 and 7 to 12 in so far as not already in force;
 - (b) section 16 (review of strategic plan);
 - (c) section 85 in so far as not already in force;
-- (d)[^key-8433a068e106cca48358f2d0b9a1c7cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-4d47de35a06dd97e12cc77068233d617] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-8433a068e106cca48358f2d0b9a1c7cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-4d47de35a06dd97e12cc77068233d617] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Provisions coming into force on 1 April 2024 to the extent specified[^key-19b59e30bb5a7a01c6419fa891056ba9]
+## 5. Provisions coming into force on 1 April 2024 to the extent specified[^c-19b59e30bb5a7a01c6419fa891056ba9]
 
 Section 94 (education and training for eligible persons over 19) comes into force on 1 April 2024 for the purposes of making regulations under that section.
 
-## 6. Provisions coming into force on 1 April 2024 subject to transitory arrangements[^key-8e65fbc611646ba0c113918429e01884]
+## 6. Provisions coming into force on 1 April 2024 subject to transitory arrangements[^c-8e65fbc611646ba0c113918429e01884]
 
 (1) Section 15 (approval, publication and implementation of strategic plan) comes into force on 1 April 2024 subject to the modification set out in paragraph (2) which applies during the period beginning with 1 April 2024 and ending on 16 December 2024.
 
@@ -269,18 +269,18 @@ The following provisions of the Act have been brought into force by a Commenceme
 
 [^f00001]: Footnote: [2022 asc 1](https://www.legislation.gov.uk/asc/2022/1).
 
-[^key-4a1eb4117ffa7c3d9ccedacce92a9f72]: Commencement: Art. 1 in force at made date
+[^c-4a1eb4117ffa7c3d9ccedacce92a9f72]: Commencement: Art. 1 in force at made date
 
-[^key-034af195bbdf610f8e8852bff779dc9b]: Commencement: Art. 2 in force at made date
+[^c-034af195bbdf610f8e8852bff779dc9b]: Commencement: Art. 2 in force at made date
 
-[^key-7aa03214acce0a6398663de39ee2d7ad]: Commencement: Art. 3 in force at made date
+[^c-7aa03214acce0a6398663de39ee2d7ad]: Commencement: Art. 3 in force at made date
 
-[^key-c22e2179b7b9ee0ad5d5f08b9f652db6]: Commencement: Art. 4 in force at made date
+[^c-c22e2179b7b9ee0ad5d5f08b9f652db6]: Commencement: Art. 4 in force at made date
 
-[^key-8433a068e106cca48358f2d0b9a1c7cb]: Textual amendment: [Art. 4(d)](https://www.legislation.gov.uk/wsi/2023/919/article/4/d) omitted (15.3.2024) by virtue of [The Tertiary Education and Research (Wales) Act 2022 (Commencement No. 2 and Transitory Provision) (Amendment) Order 2024 (S.I. 2024/217)](https://www.legislation.gov.uk/wsi/2024/217), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/217/article/1/2), [3](https://www.legislation.gov.uk/wsi/2024/217/article/3)
+[^c-8433a068e106cca48358f2d0b9a1c7cb]: Textual amendment: [Art. 4(d)](https://www.legislation.gov.uk/wsi/2023/919/article/4/d) omitted (15.3.2024) by virtue of [The Tertiary Education and Research (Wales) Act 2022 (Commencement No. 2 and Transitory Provision) (Amendment) Order 2024 (S.I. 2024/217)](https://www.legislation.gov.uk/wsi/2024/217), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/217/article/1/2), [3](https://www.legislation.gov.uk/wsi/2024/217/article/3)
 
-[^key-4d47de35a06dd97e12cc77068233d617]: Textual amendment: [Art. 4(e)](https://www.legislation.gov.uk/wsi/2023/919/article/4/e) omitted (15.3.2024) by virtue of [The Tertiary Education and Research (Wales) Act 2022 (Commencement No. 2 and Transitory Provision) (Amendment) Order 2024 (S.I. 2024/217)](https://www.legislation.gov.uk/wsi/2024/217), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/217/article/1/2), [3](https://www.legislation.gov.uk/wsi/2024/217/article/3)
+[^c-4d47de35a06dd97e12cc77068233d617]: Textual amendment: [Art. 4(e)](https://www.legislation.gov.uk/wsi/2023/919/article/4/e) omitted (15.3.2024) by virtue of [The Tertiary Education and Research (Wales) Act 2022 (Commencement No. 2 and Transitory Provision) (Amendment) Order 2024 (S.I. 2024/217)](https://www.legislation.gov.uk/wsi/2024/217), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/217/article/1/2), [3](https://www.legislation.gov.uk/wsi/2024/217/article/3)
 
-[^key-19b59e30bb5a7a01c6419fa891056ba9]: Commencement: Art. 5 in force at made date
+[^c-19b59e30bb5a7a01c6419fa891056ba9]: Commencement: Art. 5 in force at made date
 
-[^key-8e65fbc611646ba0c113918429e01884]: Commencement: Art. 6 in force at made date
+[^c-8e65fbc611646ba0c113918429e01884]: Commencement: Art. 6 in force at made date

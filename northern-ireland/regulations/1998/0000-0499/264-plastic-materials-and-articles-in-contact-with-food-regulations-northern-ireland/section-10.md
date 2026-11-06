@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Offences[^key-e1fd825501e606b862909c8b74a2e4f4]
+## 10. Offences[^c-e1fd825501e606b862909c8b74a2e4f4]
 
 *Extent: N.I.*
 
@@ -81,4 +81,4 @@ whichever is earlier.
 
 ## Annotations
 
-[^key-e1fd825501e606b862909c8b74a2e4f4]: Commencement: Reg. 10 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
+[^c-e1fd825501e606b862909c8b74a2e4f4]: Commencement: Reg. 10 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)

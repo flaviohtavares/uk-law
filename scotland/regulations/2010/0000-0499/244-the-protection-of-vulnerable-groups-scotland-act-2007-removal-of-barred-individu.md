@@ -34,7 +34,7 @@ Children And Young Persons
 
 Protection Of Vulnerable Adults
 
-The Protection of Vulnerable Groups (Scotland) Act 2007 (Removal of Barred Individuals from Regulated Work) Regulations 2010 (revoked)[^key-4b0597cc89c44284bcc6a34ebe9275f8]
+The Protection of Vulnerable Groups (Scotland) Act 2007 (Removal of Barred Individuals from Regulated Work) Regulations 2010 (revoked)[^c-4b0597cc89c44284bcc6a34ebe9275f8]
 
 Made
 
@@ -42,24 +42,24 @@ Made
 
 Coming into force in accordance with regulation 1
 
-[^key-4b0597cc89c44284bcc6a34ebe9275f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b0597cc89c44284bcc6a34ebe9275f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4b0597cc89c44284bcc6a34ebe9275f8]
+## 1. Citation and commencement[^c-4b0597cc89c44284bcc6a34ebe9275f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Removing barred individuals[^key-4b0597cc89c44284bcc6a34ebe9275f8]
+## 2. Removing barred individuals[^c-4b0597cc89c44284bcc6a34ebe9275f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4b0597cc89c44284bcc6a34ebe9275f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b0597cc89c44284bcc6a34ebe9275f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4b0597cc89c44284bcc6a34ebe9275f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b0597cc89c44284bcc6a34ebe9275f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4b0597cc89c44284bcc6a34ebe9275f8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2010/244) revoked (1.4.2025) by [The Regulated Roles (Prohibitions and Requirements) (Scotland) Regulations 2024 (S.S.I. 2024/393)](https://www.legislation.gov.uk/ssi/2024/393), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/393/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2024/393/regulation/4); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2) sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
+[^c-4b0597cc89c44284bcc6a34ebe9275f8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2010/244) revoked (1.4.2025) by [The Regulated Roles (Prohibitions and Requirements) (Scotland) Regulations 2024 (S.S.I. 2024/393)](https://www.legislation.gov.uk/ssi/2024/393), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/393/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2024/393/regulation/4); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2) sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)

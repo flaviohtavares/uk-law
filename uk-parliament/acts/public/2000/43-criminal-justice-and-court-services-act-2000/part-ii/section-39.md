@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Extension of offence: conduct towards 14 and 15 year olds.[^key-666db2944dce14a27ae1e63f2c2bc9c0]
+## 39. Extension of offence: conduct towards 14 and 15 year olds.[^c-666db2944dce14a27ae1e63f2c2bc9c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-666db2944dce14a27ae1e63f2c2bc9c0]: Textual amendment: S. 39 repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 44(2)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/44/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
+[^c-666db2944dce14a27ae1e63f2c2bc9c0]: Textual amendment: S. 39 repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 44(2)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/44/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 100. Regulations as to closure orders[^key-7005ab199817892d16a6839ec62ec72f]
+## 100. Regulations as to closure orders[^c-7005ab199817892d16a6839ec62ec72f]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ The Scottish Ministers may by regulations make further provision as to the proce
 
 ## Annotations
 
-[^key-7005ab199817892d16a6839ec62ec72f]: Commencement: [S. 100](https://www.legislation.gov.uk/asp/2005/16/section/100) in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-7005ab199817892d16a6839ec62ec72f]: Commencement: [S. 100](https://www.legislation.gov.uk/asp/2005/16/section/100) in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)

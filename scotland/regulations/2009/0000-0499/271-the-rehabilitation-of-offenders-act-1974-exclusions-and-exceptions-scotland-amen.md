@@ -32,7 +32,7 @@ summary: ''
 
 Rehabilitation Of Offenders
 
-The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Amendment Order 2009 (revoked)[^key-95e4a663ac2f6fd804a237375442ba06]
+The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Amendment Order 2009 (revoked)[^c-95e4a663ac2f6fd804a237375442ba06]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into force
 
 29th June 2009
 
-[^key-95e4a663ac2f6fd804a237375442ba06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-95e4a663ac2f6fd804a237375442ba06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-95e4a663ac2f6fd804a237375442ba06]
+## 1. Citation, commencement and extent[^c-95e4a663ac2f6fd804a237375442ba06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2003[^key-95e4a663ac2f6fd804a237375442ba06]
+## 2. Amendment of the Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2003[^c-95e4a663ac2f6fd804a237375442ba06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-95e4a663ac2f6fd804a237375442ba06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-95e4a663ac2f6fd804a237375442ba06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-95e4a663ac2f6fd804a237375442ba06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-95e4a663ac2f6fd804a237375442ba06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-95e4a663ac2f6fd804a237375442ba06]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2009/271) revoked (28.2.2011) by [The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Amendment Order 2010 (S.S.I. 2010/243)](https://www.legislation.gov.uk/ssi/2010/243), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2010/243/article/1), [7(1)](https://www.legislation.gov.uk/ssi/2010/243/article/7)
+[^c-95e4a663ac2f6fd804a237375442ba06]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2009/271) revoked (28.2.2011) by [The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Amendment Order 2010 (S.S.I. 2010/243)](https://www.legislation.gov.uk/ssi/2010/243), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2010/243/article/1), [7(1)](https://www.legislation.gov.uk/ssi/2010/243/article/7)

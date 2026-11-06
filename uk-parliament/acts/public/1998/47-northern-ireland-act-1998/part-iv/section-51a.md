@@ -29,7 +29,7 @@ the financial assistance payable to it under that Act shall be reduced according
 
 (2) The Assembly may, before the end of the period by reference to which a reduction under subsection (1) falls to be made, by resolution extend that period.
 
-(3)[^key-b05b7bed01038854f30a232f8716e206] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b05b7bed01038854f30a232f8716e206] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The period by reference to which a reduction under subsection (1) falls to be made shall come to an end if the Assembly—
 
@@ -50,8 +50,8 @@ the financial assistance payable to it under that Act shall be reduced according
 
 (9) In this section a reference to—
 
-- (a) the period by reference to which a reduction under subsection (1) falls to be made, [^key-eddb08fefcdaddfca7078463cd177661]...
-- (b)[^key-eddb08fefcdaddfca7078463cd177661] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the period by reference to which a reduction under subsection (1) falls to be made, [^c-eddb08fefcdaddfca7078463cd177661]...
+- (b)[^c-eddb08fefcdaddfca7078463cd177661] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 is, where the period has been extended, a reference to the period as extended.
 
@@ -59,6 +59,6 @@ is, where the period has been extended, a reference to the period as extended.
 
 [^c20116601]: Textual amendment: Ss. 51A-51C inserted (7.1.2004) by Northern Ireland (Monitoring Commission etc.) Act 2003, {ss. 8}, 12; [S.I. 2004/83](https://www.legislation.gov.uk/uksi/2004/83), [art. 2](https://www.legislation.gov.uk/uksi/2004/83/article/2)
 
-[^key-b05b7bed01038854f30a232f8716e206]: Textual amendment: S. 51A(3) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(h)(i)](https://www.legislation.gov.uk/uksi/2011/978/article/5/h/i)
+[^c-b05b7bed01038854f30a232f8716e206]: Textual amendment: S. 51A(3) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(h)(i)](https://www.legislation.gov.uk/uksi/2011/978/article/5/h/i)
 
-[^key-eddb08fefcdaddfca7078463cd177661]: Textual amendment: S. 51A(9)(b) and preceding word omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(h)(ii)](https://www.legislation.gov.uk/uksi/2011/978/article/5/h/ii)
+[^c-eddb08fefcdaddfca7078463cd177661]: Textual amendment: S. 51A(9)(b) and preceding word omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(h)(ii)](https://www.legislation.gov.uk/uksi/2011/978/article/5/h/ii)

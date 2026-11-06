@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167. Interim prohibition orders[^key-5a1362696b33ccc64dfc173c2367a879]
+## 167. Interim prohibition orders[^c-5a1362696b33ccc64dfc173c2367a879]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a1362696b33ccc64dfc173c2367a879]: Commencement: [S. 167](https://www.legislation.gov.uk/anaw/2016/2/section/167) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(f)](https://www.legislation.gov.uk/wsi/2017/309/article/2/f) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-5a1362696b33ccc64dfc173c2367a879]: Commencement: [S. 167](https://www.legislation.gov.uk/anaw/2016/2/section/167) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(f)](https://www.legislation.gov.uk/wsi/2017/309/article/2/f) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

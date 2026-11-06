@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Subject to[^key-6367712f83d9862df24f45cb491c139e] regulation 20C[^key-75c98ded7148483d9378174be8e6cec9], an agreement must, unless it is of a type or nature to which a particular provision does not apply, contain other terms which have the same effect as those specified in Schedule 3 except paragraphs 55(4) to 55(13) and 56 and Schedule 5.
+(1) Subject to[^c-6367712f83d9862df24f45cb491c139e] regulation 20C[^c-75c98ded7148483d9378174be8e6cec9], an agreement must, unless it is of a type or nature to which a particular provision does not apply, contain other terms which have the same effect as those specified in Schedule 3 except paragraphs 55(4) to 55(13) and 56 and Schedule 5.
 
 (2) The paragraphs specified in paragraph (1) shall have effect in relation to the matters set out in those paragraphs.
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6367712f83d9862df24f45cb491c139e]: Textual amendment: Words in reg. 20(1) substituted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [34](https://www.legislation.gov.uk/uksi/2013/364/regulation/34) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2013/364/schedule/2))
+[^c-6367712f83d9862df24f45cb491c139e]: Textual amendment: Words in reg. 20(1) substituted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [34](https://www.legislation.gov.uk/uksi/2013/364/regulation/34) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2013/364/schedule/2))
 
-[^key-75c98ded7148483d9378174be8e6cec9]: Textual amendment: Words in reg. 20(1) substituted (1.4.2016) by [The National Health Service (Primary Dental Services Miscellaneous Amendments and Directions to the NHS Business Services Authority) Regulations 2016 (S.I. 2016/298)](https://www.legislation.gov.uk/uksi/2016/298), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/298/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2016/298/regulation/21)
+[^c-75c98ded7148483d9378174be8e6cec9]: Textual amendment: Words in reg. 20(1) substituted (1.4.2016) by [The National Health Service (Primary Dental Services Miscellaneous Amendments and Directions to the NHS Business Services Authority) Regulations 2016 (S.I. 2016/298)](https://www.legislation.gov.uk/uksi/2016/298), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/298/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2016/298/regulation/21)

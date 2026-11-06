@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Statutory undertakers etc.[^key-70b0780265c779a78f4b874a62ba02b6]
+## 43. Statutory undertakers etc.[^c-70b0780265c779a78f4b874a62ba02b6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The provisions of Schedule 12 (provisions relating to statutory undertaker etc.)
 
 ## Annotations
 
-[^key-70b0780265c779a78f4b874a62ba02b6]: Commencement: Art. 43 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-70b0780265c779a78f4b874a62ba02b6]: Commencement: Art. 43 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)

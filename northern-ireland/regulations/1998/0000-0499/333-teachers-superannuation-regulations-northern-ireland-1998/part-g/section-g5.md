@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## G5. Employers' contributions[^key-6c6827c389b7e6c45e14b980fb259cf0]
+## G5. Employers' contributions[^c-6c6827c389b7e6c45e14b980fb259cf0]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ where—
 
 ## Annotations
 
-[^key-6c6827c389b7e6c45e14b980fb259cf0]: Commencement: Reg. G5 in operation at 2.11.1998, see reg. A1
+[^c-6c6827c389b7e6c45e14b980fb259cf0]: Commencement: Reg. G5 in operation at 2.11.1998, see reg. A1

@@ -46,21 +46,21 @@ The Department for the Economy[^f00001], makes the following Regulations in exer
 
 In accordance with Article 363(3) of that Order, the Department has had regard to the regulatory objectives (as defined by Article 350C(3) of that Order).
 
-## 1. Citation and commencement[^key-accd0fb51952376d57c42018a2a59c00]
+## 1. Citation and commencement[^c-accd0fb51952376d57c42018a2a59c00]
 
 These Regulations may be cited as the Insolvency Practitioners (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2025 and come into operation on 9th December 2025.
 
-## 2. Interpretation[^key-d425040605452cf955f630d5bf973d1f]
+## 2. Interpretation[^c-d425040605452cf955f630d5bf973d1f]
 
 In these Regulations “**the Department**” means the Department for the Economy.
 
-## 3. Amendments to the Insolvency Practitioners Regulations (Northern Ireland) 2006[^key-3d63759ffc8b467106fac76d4c615ced]
+## 3. Amendments to the Insolvency Practitioners Regulations (Northern Ireland) 2006[^c-3d63759ffc8b467106fac76d4c615ced]
 
 The Insolvency Practitioners Regulations (Northern Ireland) 2006[^f00004] are amended as set out in regulations 4 and 5.
 
-**4.**[^key-2aa6a0a64555879d0168bb1811c336b2] In regulation 2 (interpretation: general), in paragraph (1) in the definition of “insolvency practitioner”, insert “of the Order.” after “Article 349A”[^f00005].
+**4.**[^c-2aa6a0a64555879d0168bb1811c336b2] In regulation 2 (interpretation: general), in paragraph (1) in the definition of “insolvency practitioner”, insert “of the Order.” after “Article 349A”[^f00005].
 
-**5.**[^key-f22b7d8de40fd779d23daaa8221dd344] (1) Schedule 2 (requirements for security and related matters) is amended as follows.
+**5.**[^c-f22b7d8de40fd779d23daaa8221dd344] (1) Schedule 2 (requirements for security and related matters) is amended as follows.
 
 (2) In paragraph 1 (interpretation), in the appropriate places, insert the following definitions—
 
@@ -139,7 +139,7 @@ The Insolvency Practitioners Regulations (Northern Ireland) 2006[^f00004] are am
 
 .
 
-## 6. Transitional and savings[^key-0175f22ed6d05d45f3a8aac437352efd]
+## 6. Transitional and savings[^c-0175f22ed6d05d45f3a8aac437352efd]
 
 (1) Subject to paragraphs (2) to (3), the amendments made by these Regulations do not apply to a bond issued by the surety before 1st January 2027 as it relates to a case in respect of which an insolvency practitioner was appointed before 1st January 2027.
 
@@ -203,18 +203,18 @@ A regulatory impact assessment has not been produced for this instrument as no, 
 
 [^f00003]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405). Article 363 was amended by section 23 of the Insolvency (Amendment) Act (Northern Ireland) [2016 (c.2 (N.I.))](https://www.legislation.gov.uk/nia/2016/2).
 
-[^key-accd0fb51952376d57c42018a2a59c00]: Commencement: Reg. 1 in operation at 9.12.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/177/regulation/1)
+[^c-accd0fb51952376d57c42018a2a59c00]: Commencement: Reg. 1 in operation at 9.12.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/177/regulation/1)
 
-[^key-d425040605452cf955f630d5bf973d1f]: Commencement: Reg. 2 in operation at 9.12.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/177/regulation/1)
+[^c-d425040605452cf955f630d5bf973d1f]: Commencement: Reg. 2 in operation at 9.12.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/177/regulation/1)
 
-[^key-3d63759ffc8b467106fac76d4c615ced]: Commencement: Reg. 3 in operation at 9.12.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/177/regulation/1)
+[^c-3d63759ffc8b467106fac76d4c615ced]: Commencement: Reg. 3 in operation at 9.12.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/177/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2006 No. 33](https://www.legislation.gov.uk/nisr/2006/33), as amended by [S.R. 2009 No. 401](https://www.legislation.gov.uk/nisr/2009/401), [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472), [S.I. 2018/1329](https://www.legislation.gov.uk/uksi/2018/1329), [2020 c.12 (N.I.)](https://www.legislation.gov.uk/ukpga/2018/2020), [S.R. 2021 No. 140](https://www.legislation.gov.uk/nisr/2021/140), and [S.R. 2022 No. 241](https://www.legislation.gov.uk/nisr/2022/241).
 
-[^key-2aa6a0a64555879d0168bb1811c336b2]: Commencement: Reg. 4 in operation at 9.12.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/177/regulation/1)
+[^c-2aa6a0a64555879d0168bb1811c336b2]: Commencement: Reg. 4 in operation at 9.12.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/177/regulation/1)
 
 [^f00005]: Footnote: [2016 c. 2 (NI)](https://www.legislation.gov.uk/nia/2016/2), Article 349A was inserted by section 14 of the Insolvency (Amendment) Act (Northern Ireland) 2016.
 
-[^key-f22b7d8de40fd779d23daaa8221dd344]: Commencement: Reg. 5 in operation at 9.12.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/177/regulation/1)
+[^c-f22b7d8de40fd779d23daaa8221dd344]: Commencement: Reg. 5 in operation at 9.12.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/177/regulation/1)
 
-[^key-0175f22ed6d05d45f3a8aac437352efd]: Commencement: Reg. 6 in operation at 9.12.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/177/regulation/1)
+[^c-0175f22ed6d05d45f3a8aac437352efd]: Commencement: Reg. 6 in operation at 9.12.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/177/regulation/1)

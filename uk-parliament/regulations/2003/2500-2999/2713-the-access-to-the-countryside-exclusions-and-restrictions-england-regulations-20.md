@@ -58,7 +58,7 @@ The Secretary of State for Environment, Food and Rural Affairs, in exercise of t
 (1) In these Regulations—
 
 - “the Act” means the Countryside and Rights of Way Act 2000;
-- [^key-5ec55891d823832ce71a36c8d913aec8]...
+- [^c-5ec55891d823832ce71a36c8d913aec8]...
 - “electronic communication” has the meaning given in section 15(1) of the Electronic Communications Act 2000[^f00004]
 - “right of access” means the right conferred by section 2(1);
 - “working day” means any day other than—
@@ -148,13 +148,13 @@ The Secretary of State for Environment, Food and Rural Affairs, in exercise of t
 - (c) the location and extent of the land, sufficiently to enable it to be identified by the authority, whether by marking it on a map or otherwise;
 - (d) the period of the exclusion or restriction to be provided for by the direction, except where that period is to be determined by the applicant in accordance with the direction;
 - (e) the purpose of the exclusion or restriction and, in the case of a restriction, the nature of it;
-- (f) the reason (or reasons) why the applicant considers that such exclusion or restriction is necessary; [^key-b390e256e1f3377fab98a1986443092b]...
-- (g) if the applicant is an entitled person for the purposes of section 22, the total number of days in respect of which he has exercised, or proposes to exercise, the right conferred by that section in each calendar year in respect of which the direction is being sought and the purpose for which he has exercised, or proposes to exercise, that right; and[^key-aae3d4fcb043af7b3c78115e7a5a960f]
-- (h)[^key-ca3f71573704c882ec24b001f05aec08] whether the land is coastal margin;
+- (f) the reason (or reasons) why the applicant considers that such exclusion or restriction is necessary; [^c-b390e256e1f3377fab98a1986443092b]...
+- (g) if the applicant is an entitled person for the purposes of section 22, the total number of days in respect of which he has exercised, or proposes to exercise, the right conferred by that section in each calendar year in respect of which the direction is being sought and the purpose for which he has exercised, or proposes to exercise, that right; and[^c-aae3d4fcb043af7b3c78115e7a5a960f]
+- (h)[^c-ca3f71573704c882ec24b001f05aec08] whether the land is coastal margin;
 
 (2) An application made by a person under paragraph (1) may be withdrawn by that person by notice in writing given to the relevant authority at any time before the date on which the application is determined by the authority.
 
-(3)[^key-4789e4fd34341ef659a6a582ea2d4441] Paragraphs (4) to (7) apply where an application referred to in paragraph (1) relates to land which is coastal margin.
+(3)[^c-4789e4fd34341ef659a6a582ea2d4441] Paragraphs (4) to (7) apply where an application referred to in paragraph (1) relates to land which is coastal margin.
 
 (4) Where the proposed direction would authorise a specified person to exclude or restrict access to land in a manner specified in the direction, the application must state—
 
@@ -179,7 +179,7 @@ The Secretary of State for Environment, Food and Rural Affairs, in exercise of t
 
 ### 7. Notices relating to periods during which exclusions or restrictions are to apply
 
-(1) Subject to paragraph (3), where a direction is given by a relevant authority under section 24, 25, 25A[^key-daabc6b6657690ddb9f4a8d21f675581] or 26, or by the Secretary of State under section 28, so as to exclude or restrict the right of access to any land during a period to be determined by a relevant person, where the direction so requires,[^key-e55a72a5850183ea612e94b487f3fd5b] notice of the period so determined shall be given by the relevant person to the authority or the Secretary of State and the direction shall have no effect until—
+(1) Subject to paragraph (3), where a direction is given by a relevant authority under section 24, 25, 25A[^c-daabc6b6657690ddb9f4a8d21f675581] or 26, or by the Secretary of State under section 28, so as to exclude or restrict the right of access to any land during a period to be determined by a relevant person, where the direction so requires,[^c-e55a72a5850183ea612e94b487f3fd5b] notice of the period so determined shall be given by the relevant person to the authority or the Secretary of State and the direction shall have no effect until—
 
 - (a) the expiry of five working days after the day on which notice of that period given by the relevant person is received by the authority or the Secretary of State; or
 - (b) such other time after the day on which the notice is received by the authority or the Secretary of State as may be specified in the direction.
@@ -190,8 +190,8 @@ The Secretary of State for Environment, Food and Rural Affairs, in exercise of t
 
 (4) In this regulation, “relevant person” means—
 
-- (a) in the case of a direction under section 24, the person who applied for the direction or, if a person is specified in the direction, that person[^key-f140ac8195fb445c19a6cf5bacb525be];
-- (b) in the case of a direction under section 25, 25A[^key-3ed191a4203bef472ac942e43983f3ea] or 26, a person specified in the direction; and
+- (a) in the case of a direction under section 24, the person who applied for the direction or, if a person is specified in the direction, that person[^c-f140ac8195fb445c19a6cf5bacb525be];
+- (b) in the case of a direction under section 25, 25A[^c-3ed191a4203bef472ac942e43983f3ea] or 26, a person specified in the direction; and
 - (c) in the case of a direction under section 28, a person authorised by the Secretary of State.
 
 ### 8. Applications for a direction under section 24 or 25 by holders of rights of common
@@ -207,23 +207,23 @@ The Secretary of State for Environment, Food and Rural Affairs, in exercise of t
 
 ### 9. Consultation on proposals for long-term exclusions or restrictions
 
-(1) For the purposes of consulting a local access forum under section 27(1), the relevant authority shall supply the forum with a copy of the notice referred to in paragraph (3)[^key-e0403079c56def4fde9ec46cc3a5394b].
+(1) For the purposes of consulting a local access forum under section 27(1), the relevant authority shall supply the forum with a copy of the notice referred to in paragraph (3)[^c-e0403079c56def4fde9ec46cc3a5394b].
 
 (2) Before giving a direction under section 28 for the purposes of defence which will, indefinitely or for a period which exceeds (or may exceed) six months, exclude or restrict the right of access in relation to any land in an area in which there is a local access forum, the Secretary of State shall consult the forum.
 
-(3) Where a relevant authority proposes to give a direction under section 24, 25 , 25A[^key-1a97b03d49f7ef75c9c9c266c5c438b6] or 26, or the Secretary of State proposes to give a direction under section 28 for the purposes of defence which (in any such case) will exclude or restrict access to any land indefinitely or for a period which exceeds (or may exceed) six months, they or he, as the case may be, shall publish a notice which—
+(3) Where a relevant authority proposes to give a direction under section 24, 25 , 25A[^c-1a97b03d49f7ef75c9c9c266c5c438b6] or 26, or the Secretary of State proposes to give a direction under section 28 for the purposes of defence which (in any such case) will exclude or restrict access to any land indefinitely or for a period which exceeds (or may exceed) six months, they or he, as the case may be, shall publish a notice which—
 
 - (a) describes the area of land to which the proposed direction will relate sufficiently to identify it;
 - (b) describes the nature and purpose of the proposed direction;
-- (c)[^key-cb0015dad7cab9e9be6550bfaaaf905b] states how copies of documents relating to the proposed direction may be obtained;
-- (d) states that representations with regard to the proposed direction may be made by any person in writing to the authority or the Secretary of State, as appropriate, by such date as is specified in the notice, which date shall not be earlier than a date two weeks after the date on which the notice is published by the authority or, as the case may be, the Secretary of State; and[^key-c922b6ec941fce5636da96d8f5987f3d]
-- (e)[^key-422c2393d733f7dc0b32f6ac3656d828] includes the information specified in regulation 6(1)(b) to (h)
+- (c)[^c-cb0015dad7cab9e9be6550bfaaaf905b] states how copies of documents relating to the proposed direction may be obtained;
+- (d) states that representations with regard to the proposed direction may be made by any person in writing to the authority or the Secretary of State, as appropriate, by such date as is specified in the notice, which date shall not be earlier than a date two weeks after the date on which the notice is published by the authority or, as the case may be, the Secretary of State; and[^c-c922b6ec941fce5636da96d8f5987f3d]
+- (e)[^c-422c2393d733f7dc0b32f6ac3656d828] includes the information specified in regulation 6(1)(b) to (h)
 
 (4) A relevant authority or the Secretary of State shall not be required to publish a notice under paragraph (3) where they or he (as the case may be) considers that it is not in the public or defence interest that the information referred to in that paragraph should be disclosed.
 
 (5) The notice referred to in paragraph (3) shall be published by being made available for inspection on a website maintained by or on behalf of—
 
-- (a) in the case of a proposed direction under section 24, 25, 25A[^key-c07e7d99d51a671fd0995ddf244bc153] or 26, the relevant authority, or
+- (a) in the case of a proposed direction under section 24, 25, 25A[^c-c07e7d99d51a671fd0995ddf244bc153] or 26, the relevant authority, or
 - (b) in the case of a proposed direction under section 28 for the purposes of defence, the Secretary of State,
 
 until such time as the application for the direction in question is determined.
@@ -247,7 +247,7 @@ A relevant authority shall—
 - (a) in relation to an application for a direction under section 24 or 25, as soon as practicable notify the applicant of the decision which they have taken in respect of the application and, where they have given such a direction, supply a copy of the direction to—
   - (i) the applicant, and
   - (ii) the access authority for the area in which the land to which the direction relates is situated;
-- (b) where they have given a direction under section 25 other than on an application by a person interested in the land to which the direction relates, or a direction under section 25A or 26[^key-9c0102cb1b0c09ebfe4bccb45fa0da95], notify—
+- (b) where they have given a direction under section 25 other than on an application by a person interested in the land to which the direction relates, or a direction under section 25A or 26[^c-9c0102cb1b0c09ebfe4bccb45fa0da95], notify—
   - (i) the owner of the land, if it is reasonably practicable to do so, and
   - (ii) the access authority for the area in which the land to which the direction relates is situated;
 - (c) notify the access authority of any notice given to them for the purposes of regulation 5(1);
@@ -281,14 +281,14 @@ Where the Secretary of State has given a direction under section 28 for the purp
 
 ### 14. Reviews of directions
 
-Where, in accordance with section 27(3), a relevant authority review a direction given under section 24, 25 , 25A[^key-d7c10da5d7d6debb98c1c15548297601] or 26 or, in accordance with section 28(4), the Secretary of State reviews a direction given under section 28 for the purposes of defence, they or he (as the case may be) shall, having regard to the interest of the public in having access to the land to which the direction relates—
+Where, in accordance with section 27(3), a relevant authority review a direction given under section 24, 25 , 25A[^c-d7c10da5d7d6debb98c1c15548297601] or 26 or, in accordance with section 28(4), the Secretary of State reviews a direction given under section 28 for the purposes of defence, they or he (as the case may be) shall, having regard to the interest of the public in having access to the land to which the direction relates—
 
 - (a) consider whether the exclusion or restriction is still necessary for the purpose for which the direction was given; and
 - (b) if so, consider whether the extent of the exclusion or the nature of the restriction remains appropriate for the purpose for which the direction was given.
 
 ### 15. Consultation on reviews by relevant authorities of directions excluding or restricting access on a long-term basis
 
-(1) Before reviewing, in accordance with section 27(3), a direction given under section 24, 25, 25A or 26[^key-0265cbcd22b7543371909608f3b2e5f7] a relevant authority shall—
+(1) Before reviewing, in accordance with section 27(3), a direction given under section 24, 25, 25A or 26[^c-0265cbcd22b7543371909608f3b2e5f7] a relevant authority shall—
 
 - (a) consult the local access forum;
 - (b) in the case of a direction under section 24 or a direction under section 25 given on the application of a person interested in the land to which the direction relates, consult, if it is reasonably practicable to do so, the person on whose application the direction was given or his successor in title;
@@ -326,18 +326,18 @@ Where, in accordance with section 27(3), a relevant authority review a direction
 
 ### 17. Informing the public of exclusions or restrictions
 
-(1) Natural England[^key-816d26885bf5255f933f4b6bc248c77e] shall, as soon as practicable, make available on a website maintained by them details of—
+(1) Natural England[^c-816d26885bf5255f933f4b6bc248c77e] shall, as soon as practicable, make available on a website maintained by them details of—
 
 - (a) any exclusion or restriction of the right of access under section 22 or 23 other than an exclusion or restriction referred to in regulation 4(6); and
-- (b) any direction given by the relevant authority under section 24, 25 , 25A[^key-53e4c9403545de68b37329a325614acc] or 26 or any direction given by the Secretary of State under section 28 for the purposes of defence, other than a direction to which paragraph (3) applies.
+- (b) any direction given by the relevant authority under section 24, 25 , 25A[^c-53e4c9403545de68b37329a325614acc] or 26 or any direction given by the Secretary of State under section 28 for the purposes of defence, other than a direction to which paragraph (3) applies.
 
-(2) Natural England[^key-ac3b8cb4b36217ae7de7d942d79a82fd] shall not be required to make available any information under paragraph (1) where they consider that it is not in the public or defence interest that the information should be disclosed.
+(2) Natural England[^c-ac3b8cb4b36217ae7de7d942d79a82fd] shall not be required to make available any information under paragraph (1) where they consider that it is not in the public or defence interest that the information should be disclosed.
 
-(3) Where any direction given by the relevant authority under section 24, 25 , 25A[^key-b794e601f065d1dbcd5bc730c45ab541] or 26 or any direction given by the Secretary of State under section 28 for the purposes of defence provides for the period during which it is to have effect to be notified to the authority or, as the case may be, the Secretary of State, Natural England[^key-486b1c0545ec46648640882ed681f4cc] shall, as soon as practicable after any such notification has been given, make details of the exclusion or restriction imposed by the direction, and of the period referred to in the notification, available for inspection on such a website, provided that not less than five working days' notice of the notification has been given to the authority.
+(3) Where any direction given by the relevant authority under section 24, 25 , 25A[^c-b794e601f065d1dbcd5bc730c45ab541] or 26 or any direction given by the Secretary of State under section 28 for the purposes of defence provides for the period during which it is to have effect to be notified to the authority or, as the case may be, the Secretary of State, Natural England[^c-486b1c0545ec46648640882ed681f4cc] shall, as soon as practicable after any such notification has been given, make details of the exclusion or restriction imposed by the direction, and of the period referred to in the notification, available for inspection on such a website, provided that not less than five working days' notice of the notification has been given to the authority.
 
-(4) Where the details of any notice or direction have been made available in accordance with paragraph (1) or (3), Natural England[^key-c11a153c3ba195a78abf86b75ecc9818] shall ensure that such details shall remain available until such time as the exclusion or restriction of the right of access referred to in the notice or direction ceases to have effect.
+(4) Where the details of any notice or direction have been made available in accordance with paragraph (1) or (3), Natural England[^c-c11a153c3ba195a78abf86b75ecc9818] shall ensure that such details shall remain available until such time as the exclusion or restriction of the right of access referred to in the notice or direction ceases to have effect.
 
-(5) The Secretary of State, a National Park Authority and the Forestry Commissioners shall assist Natural England[^key-53c3dde2707591e52168dc7ed92ac71a] in carrying out their duty under paragraph (1) or (3) by supplying to Natural England in writing any relevant information concerning any exclusion, restriction or direction referred to in these paragraphs as soon as reasonably practicable after they have received notification of the exclusion or restriction or given the direction, as the case may be.
+(5) The Secretary of State, a National Park Authority and the Forestry Commissioners shall assist Natural England[^c-53c3dde2707591e52168dc7ed92ac71a] in carrying out their duty under paragraph (1) or (3) by supplying to Natural England in writing any relevant information concerning any exclusion, restriction or direction referred to in these paragraphs as soon as reasonably practicable after they have received notification of the exclusion or restriction or given the direction, as the case may be.
 
 ### 18. Amendment of the Local Access Forums (England) Regulations 2002
 
@@ -380,7 +380,7 @@ In this Part—
 - “prescribed period” means a period prescribed by these Regulations as one within which certain requirements so prescribed are to be met;
 - “proof of evidence” means a proof of evidence sent to the Secretary of State in accordance with regulation 47;
 - “questionnaire” means a document, in a form supplied by the Secretary of State, seeking information relating to the appeal;
-- “relevant website” means a website maintained by the Secretary of State for purposes which include making available for inspection certain notices, decisions and notifications relating to an appeal under this Part;[^key-a6c6a0a3b9d05f710c6c049734340ba6]
+- “relevant website” means a website maintained by the Secretary of State for purposes which include making available for inspection certain notices, decisions and notifications relating to an appeal under this Part;[^c-a6c6a0a3b9d05f710c6c049734340ba6]
 - “start date” means the date on which certain prescribed periods are to begin, and, in relation to any given appeal, means the date specified by the Secretary of State under regulation 23(1)(a) in her written notice to the appellant and the relevant authority under that regulation;
 - “statement of case” means a written statement containing full particulars of the case which a person proposes to put forward, at a hearing or inquiry or by written representations, in relation to the appeal, and includes copies of any supporting documents which that person intends to refer to or put in evidence;
 - “statement of common ground” means a written statement which is prepared jointly by the appellant and the relevant authority pursuant to regulation 48, and contains agreed factual information about the appeal;
@@ -439,7 +439,7 @@ The relevant authority shall ensure that, within two weeks of the receipt by the
 - (f) state that any other person may also make representations in writing to the Secretary of State in respect of the appeal by ensuring that they are received by the Secretary of State within such time; and
 - (g) if there is to be a hearing or inquiry, state that any person, other than the appellant or a relevant authority, may be heard with the permission of the inspector and that such permission shall not be unreasonably withheld.
 
-(3) The Secretary of State shall ensure that a copy of the notice of appeal is available for inspection on a relevant website[^key-549e65ddda2fcfbbac7a22447a6164ab] until the appeal is determined.
+(3) The Secretary of State shall ensure that a copy of the notice of appeal is available for inspection on a relevant website[^c-549e65ddda2fcfbbac7a22447a6164ab] until the appeal is determined.
 
 #### 24. Supply of further information by the relevant authority
 
@@ -495,7 +495,7 @@ and all such information shall be provided in writing within such period as the 
 
 #### 29. Site inspections
 
-(1) Where it appears to the Secretary of State necessary or expedient to do so she may arrange for an inspection of the appeal land to be made by an inspector [^key-faf1c10828ce3666494b479d94961fb1]....
+(1) Where it appears to the Secretary of State necessary or expedient to do so she may arrange for an inspection of the appeal land to be made by an inspector [^c-faf1c10828ce3666494b479d94961fb1]....
 
 (2) Where the inspector intends to make an inspection under paragraph (1), the Secretary of State shall ask the appellant and the relevant authority whether they wish to be present or be represented.
 
@@ -515,7 +515,7 @@ The Secretary of State, or as the case may be, the inspector shall notify their 
 - (b) the relevant authority; and
 - (c) any interested person;
 
-and the Secretary of State shall ensure that, as soon as practicable after such decision has been made, a copy of the decision is made available for inspection on a relevant website[^key-d895a251d02810abcc6064780dbd5a97] for a period of three months starting with the date of the decision.
+and the Secretary of State shall ensure that, as soon as practicable after such decision has been made, a copy of the decision is made available for inspection on a relevant website[^c-d895a251d02810abcc6064780dbd5a97] for a period of three months starting with the date of the decision.
 
 ### CHAPTER III — Appeals determined by way of a hearing
 
@@ -534,7 +534,7 @@ and the Secretary of State shall ensure that, as soon as practicable after such 
 
 (5) The Secretary of State may at any time change the time or place for the holding of a hearing and shall give such notice of any change to the persons mentioned in paragraph (3) as appears to her to be reasonable.
 
-(6) The Secretary of State may require the relevant authority to publish, not less than two weeks before the date fixed for the hearing, a notice of the hearing in one or more newspapers circulating in the locality in which the appeal land is situated; and the Secretary of State shall ensure that a copy of such notice is available for inspection on a relevant website[^key-684f80306ff765828980a5e9f66ae57c] until the appeal is determined.
+(6) The Secretary of State may require the relevant authority to publish, not less than two weeks before the date fixed for the hearing, a notice of the hearing in one or more newspapers circulating in the locality in which the appeal land is situated; and the Secretary of State shall ensure that a copy of such notice is available for inspection on a relevant website[^c-684f80306ff765828980a5e9f66ae57c] until the appeal is determined.
 
 (7) Every notice of a hearing published pursuant to paragraph (6) shall contain—
 
@@ -594,7 +594,7 @@ The inspector shall, at the commencement of the hearing, announce his name and t
 - (b) all parties present at the hearing would have the opportunity to attend the adjourned hearing; and
 - (c) neither the appellant nor the relevant authority has raised any reasonable objections to its being continued at the site of the appeal land.
 
-(2) Unless the hearing is to be adjourned to the appeal land pursuant to paragraph (1), the inspector may, where it appears to him necessary or expedient to do so, arrange to make an inspection of the appeal land in the company of the appellant and the relevant authority or their representatives [^key-f7acb393087f34252091294280085fba]....
+(2) Unless the hearing is to be adjourned to the appeal land pursuant to paragraph (1), the inspector may, where it appears to him necessary or expedient to do so, arrange to make an inspection of the appeal land in the company of the appellant and the relevant authority or their representatives [^c-f7acb393087f34252091294280085fba]....
 
 (3) In all cases where the inspector intends to make a site inspection he shall announce during the hearing the date and time at which he proposes to make it.
 
@@ -663,7 +663,7 @@ and they shall ensure that such written representations or request to re-open th
 
 (5) A person applying to the Secretary of State under paragraph (3) or (4) shall ensure that his application is received by the Secretary of State within four weeks and six weeks, respectively, of the date of the decision of the Secretary of State.
 
-(6) The Secretary of State shall ensure that, as soon as practicable after any notification has been given under paragraph (2), a copy of the notification is made available for inspection on a relevant website[^key-89fe1e4abfdf33099ea102171fd21fb0] for a period of three months.
+(6) The Secretary of State shall ensure that, as soon as practicable after any notification has been given under paragraph (2), a copy of the notification is made available for inspection on a relevant website[^c-89fe1e4abfdf33099ea102171fd21fb0] for a period of three months.
 
 #### 41. Notification of decision—transferred appeals
 
@@ -680,7 +680,7 @@ and they shall ensure that such written representations or request to re-open th
 
 (4) Any person making an application under paragraph (3) shall ensure that it is received by the Secretary of State within six weeks of the date of the inspector’s decision.
 
-(5) The Secretary of State shall ensure that, as soon as practicable after any notification has been given under paragraph (2), a copy of the notification is made available for inspection on a relevant website[^key-b258b9ed1273f2827fc3e7f8b70f23b2] for a period of three months.
+(5) The Secretary of State shall ensure that, as soon as practicable after any notification has been given under paragraph (2), a copy of the notification is made available for inspection on a relevant website[^c-b258b9ed1273f2827fc3e7f8b70f23b2] for a period of three months.
 
 ### CHAPTER IV — Appeals to be determined by way of an inquiry
 
@@ -734,7 +734,7 @@ The appellant and the relevant authority may each in writing require the other t
 
 (5) Where, under paragraph (4)(a), the Secretary of State changes the date for the holding of an inquiry, paragraph (3) shall apply to the new date as it applied to the date originally fixed, and where, under paragraph (4)(b), she changes the time or place for the holding of an inquiry, she shall give such notice of such change as appears to her to be reasonable.
 
-(6) The Secretary of State may require the relevant authority to publish, not less than two weeks before the date fixed for the holding of an inquiry, a notice of the inquiry in one or more newspapers circulating in the locality in which the appeal land is situated; and the Secretary of State shall ensure that a copy of such notice is available for inspection on a relevant website[^key-8355e40b59c8dd14447c253410117aac] until the appeal is determined.
+(6) The Secretary of State may require the relevant authority to publish, not less than two weeks before the date fixed for the holding of an inquiry, a notice of the inquiry in one or more newspapers circulating in the locality in which the appeal land is situated; and the Secretary of State shall ensure that a copy of such notice is available for inspection on a relevant website[^c-8355e40b59c8dd14447c253410117aac] until the appeal is determined.
 
 (7) Every notice of an inquiry published pursuant to paragraph (6) shall contain—
 
@@ -821,7 +821,7 @@ but any such person may submit to the inspector any evidence or other matter in 
 
 #### 51. Site inspections
 
-(1) During an inquiry or after its close, the inspector may, where it appears to him necessary or expedient to do so, arrange to make an inspection of the appeal land [^key-2e959bd1d5f7b1e88d7963e12219c840]... .
+(1) During an inquiry or after its close, the inspector may, where it appears to him necessary or expedient to do so, arrange to make an inspection of the appeal land [^c-2e959bd1d5f7b1e88d7963e12219c840]... .
 
 (2) Where the inspector intends to make an inspection under paragraph (1), he shall ask the appellant and the relevant authority whether they wish to be present or be represented.
 
@@ -892,7 +892,7 @@ and they shall ensure that such written representations are received by the Secr
 
 (5) Any person applying to the Secretary of State under paragraph (3) or (4) shall ensure that his application is received by the Secretary of State within four weeks of the Secretary of State’s decision.
 
-(6) The Secretary of State shall ensure that, as soon as practicable after any notification has been given under paragraph (2), a copy of the notification is made available for inspection on a relevant website[^key-ac91120ffca48d18d76631a65458abbe] for a period of three months.
+(6) The Secretary of State shall ensure that, as soon as practicable after any notification has been given under paragraph (2), a copy of the notification is made available for inspection on a relevant website[^c-ac91120ffca48d18d76631a65458abbe] for a period of three months.
 
 (7) An inspector may, in place of the Secretary of State, take such steps as the Secretary of State is required or enabled to take under or by virtue of this regulation.
 
@@ -911,7 +911,7 @@ and they shall ensure that such written representations are received by the Secr
 
 (4) Any person making an application pursuant to paragraph (3) shall ensure that it is received by the Secretary of State within six weeks of the date of the decision.
 
-(5) The Secretary of State[^key-17d37a99075bb6cfa2ade286623c674e] shall ensure that, as soon as practicable after any notification has been given under paragraph (2), a copy of the notification is made available for inspection on a relevant website[^key-64afd24335bc688593fc7fda429bef1a] for a period of three months.
+(5) The Secretary of State[^c-17d37a99075bb6cfa2ade286623c674e] shall ensure that, as soon as practicable after any notification has been given under paragraph (2), a copy of the notification is made available for inspection on a relevant website[^c-64afd24335bc688593fc7fda429bef1a] for a period of three months.
 
 ### CHAPTER V — Appeal against a decision of a relevant authority not to act in accordance with an application for a direction under section 25(1)(a)
 
@@ -931,7 +931,7 @@ The Secretary of State shall, before the end of the next working day after the d
 
 - (a) make appropriate arrangements for a hearing to be held;
 - (b) notify the appellant and the authority, by telephone, electronic communication, facsimile transmission or first class post, of the date, time and place of the hearing; and
-- (c) ensure that the information referred to in sub-paragraph (b) and a copy of the amended notice of appeal are available for inspection on a relevant website[^key-4846240512dba1b1f61fb90ad7bb2b7c] until the appeal is determined.
+- (c) ensure that the information referred to in sub-paragraph (b) and a copy of the amended notice of appeal are available for inspection on a relevant website[^c-4846240512dba1b1f61fb90ad7bb2b7c] until the appeal is determined.
 
 #### 58. Consecutive and concurrent hearings
 
@@ -970,9 +970,9 @@ but the inspector may permit any other person to appear in person or be represen
 
 #### 61. Notification of decision—appeals determined by the Secretary of State
 
-(1)[^key-4075e1a03d289899c7edbd5de39c3388] Where a hearing has been held for the purposes of an appeal determined by the Secretary of State she shall, within forty-eight hours of the close of the hearing, notify her decision on the appeal to the appellant, the relevant authority and any [^key-0402060d02b33845172a8ca2002d03d2]... other person who appeared at the hearing by sending to them a copy of the amended notice of appeal with her decision endorsed on it.
+(1)[^c-4075e1a03d289899c7edbd5de39c3388] Where a hearing has been held for the purposes of an appeal determined by the Secretary of State she shall, within forty-eight hours of the close of the hearing, notify her decision on the appeal to the appellant, the relevant authority and any [^c-0402060d02b33845172a8ca2002d03d2]... other person who appeared at the hearing by sending to them a copy of the amended notice of appeal with her decision endorsed on it.
 
-(2)[^key-a6e37b49d99139b9d040915ed189d318] The Secretary of State shall ensure that, as soon as practicable after any notification has been given under paragraph (1), a copy of the amended notice of appeal with her decision endorsed on it is made available for inspection on a relevant website[^key-fecf671e693e7140a7ec71086aa2ba39] for a period of three months.
+(2)[^c-a6e37b49d99139b9d040915ed189d318] The Secretary of State shall ensure that, as soon as practicable after any notification has been given under paragraph (1), a copy of the amended notice of appeal with her decision endorsed on it is made available for inspection on a relevant website[^c-fecf671e693e7140a7ec71086aa2ba39] for a period of three months.
 
 #### 62. Notification of decision—transferred appeals
 
@@ -981,7 +981,7 @@ but the inspector may permit any other person to appear in person or be represen
 - (a) unless it is not reasonably practicable to do so, announce his decision on the appeal at the close of the hearing; and
 - (b) within forty-eight hours of the close of the hearing, notify his decision on the appeal to the appellant, the relevant authority and any other person who appeared at the hearing, by sending to them a copy of the amended notice of appeal with his decision endorsed on it.
 
-(2) The Secretary of State shall ensure that, as soon as practicable after any notification has been given under paragraph (1), a copy of the amended notice of appeal with the inspector’s decision endorsed on it[^key-d58fd804721b2ef33323f155a6f64c6f] is made available for inspection on a relevant website[^key-f77dfff7a034294abc4437b8f974ddd9] for a period of three months.
+(2) The Secretary of State shall ensure that, as soon as practicable after any notification has been given under paragraph (1), a copy of the amended notice of appeal with the inspector’s decision endorsed on it[^c-d58fd804721b2ef33323f155a6f64c6f] is made available for inspection on a relevant website[^c-f77dfff7a034294abc4437b8f974ddd9] for a period of three months.
 
 #### 63. Extension of time
 
@@ -994,7 +994,7 @@ The Secretary of State may, at any time and in any particular case, extend the t
 (2) Where the appeal procedure is changed by the Secretary of State under this regulation the Secretary of State shall—
 
 - (a) notify the appellant, the relevant authority and any interested person of such change, and
-- (b) ensure that a copy of such notice is available for inspection on a relevant website[^key-16f9516472d9d65290e9e5ae3d95ebc3] until the appeal is determined; and
+- (b) ensure that a copy of such notice is available for inspection on a relevant website[^c-16f9516472d9d65290e9e5ae3d95ebc3] until the appeal is determined; and
 
 the Secretary of State may give any consequential directions as to the procedure to be applied in relation to the appeal as she may consider necessary.
 
@@ -1051,7 +1051,7 @@ the Secretary of State shall, after consulting the other party or, where the Sec
 
 - (a) the Secretary of State shall—
   - (i) notify the appellant, the relevant authority and any interested person in respect of the appeal of such change, and
-  - (ii) ensure that a copy of such notice is available for inspection on a relevant website[^key-15864d92de55b75acfb82b6126ca3adc] until the appeal is determined; and
+  - (ii) ensure that a copy of such notice is available for inspection on a relevant website[^c-15864d92de55b75acfb82b6126ca3adc] until the appeal is determined; and
 - (b) in relation to the conduct of the appeal thereafter—
   - (i) any step taken or thing done under these Regulations in relation to the former appeal procedure which could have been taken done under any corresponding provision of these Regulations relating to the new appeal procedure shall have effect as if taken or done under that corresponding provision, and
   - (ii) the Secretary of State may give any consequential directions as to the procedure to be applied in relation to the appeal as she may consider necessary.
@@ -1146,104 +1146,104 @@ The use of electronic communications is permitted for the purposes of these Regu
 
 [^f00003]: Footnote: Regulations made by the Secretary of State may be made only as respects England: see section 45(1) for the meaning of “regulations”.
 
-[^key-5ec55891d823832ce71a36c8d913aec8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/2713/regulation/2/1) omitted (1.10.2011) by virtue of [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2011/2021/regulation/3)
+[^c-5ec55891d823832ce71a36c8d913aec8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/2713/regulation/2/1) omitted (1.10.2011) by virtue of [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2011/2021/regulation/3)
 
 [^f00004]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
 
 [^f00005]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-b390e256e1f3377fab98a1986443092b]: Textual amendment: Word in reg. 6(1)(f) omitted (1.10.2011) by virtue of [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/4/a/i)
+[^c-b390e256e1f3377fab98a1986443092b]: Textual amendment: Word in reg. 6(1)(f) omitted (1.10.2011) by virtue of [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/4/a/i)
 
-[^key-aae3d4fcb043af7b3c78115e7a5a960f]: Textual amendment: Word in reg. 6(1)(g) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/4/a/ii)
+[^c-aae3d4fcb043af7b3c78115e7a5a960f]: Textual amendment: Word in reg. 6(1)(g) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/4/a/ii)
 
-[^key-ca3f71573704c882ec24b001f05aec08]: Textual amendment: Reg. 6(1)(h) added (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [4(a)(iii)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/4/a/iii)
+[^c-ca3f71573704c882ec24b001f05aec08]: Textual amendment: Reg. 6(1)(h) added (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [4(a)(iii)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/4/a/iii)
 
-[^key-4789e4fd34341ef659a6a582ea2d4441]: Textual amendment: Reg. 6(3)-(7) added (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/4/b)
+[^c-4789e4fd34341ef659a6a582ea2d4441]: Textual amendment: Reg. 6(3)-(7) added (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/4/b)
 
-[^key-daabc6b6657690ddb9f4a8d21f675581]: Textual amendment: Word in reg. 7(1) inserted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [5(a)(i)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/5/a/i)
+[^c-daabc6b6657690ddb9f4a8d21f675581]: Textual amendment: Word in reg. 7(1) inserted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [5(a)(i)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/5/a/i)
 
-[^key-e55a72a5850183ea612e94b487f3fd5b]: Textual amendment: Words in reg. 7(1) inserted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/5/a/ii)
+[^c-e55a72a5850183ea612e94b487f3fd5b]: Textual amendment: Words in reg. 7(1) inserted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/5/a/ii)
 
-[^key-f140ac8195fb445c19a6cf5bacb525be]: Textual amendment: Words in reg. 7(4)(a) inserted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/5/b)
+[^c-f140ac8195fb445c19a6cf5bacb525be]: Textual amendment: Words in reg. 7(4)(a) inserted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/5/b)
 
-[^key-3ed191a4203bef472ac942e43983f3ea]: Textual amendment: Word in reg. 7(4)(b) inserted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/5/c)
+[^c-3ed191a4203bef472ac942e43983f3ea]: Textual amendment: Word in reg. 7(4)(b) inserted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/5/c)
 
 [^f00006]: Footnote: [1965 c. 64](https://www.legislation.gov.uk/ukpga/1965/64).
 
-[^key-e0403079c56def4fde9ec46cc3a5394b]: Textual amendment: Words in reg. 9(1) substituted for reg. 9(1)(a)(b) (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/6/a)
+[^c-e0403079c56def4fde9ec46cc3a5394b]: Textual amendment: Words in reg. 9(1) substituted for reg. 9(1)(a)(b) (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/6/a)
 
-[^key-1a97b03d49f7ef75c9c9c266c5c438b6]: Textual amendment: Word in reg. 9(3) inserted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [6(b)(i)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/6/b/i)
+[^c-1a97b03d49f7ef75c9c9c266c5c438b6]: Textual amendment: Word in reg. 9(3) inserted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [6(b)(i)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/6/b/i)
 
-[^key-cb0015dad7cab9e9be6550bfaaaf905b]: Textual amendment: Reg. 9(3)(c) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [6(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/6/b/ii)
+[^c-cb0015dad7cab9e9be6550bfaaaf905b]: Textual amendment: Reg. 9(3)(c) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [6(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/6/b/ii)
 
-[^key-c922b6ec941fce5636da96d8f5987f3d]: Textual amendment: Word in reg. 9(3)(d) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [6(b)(iii)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/6/b/iii)
+[^c-c922b6ec941fce5636da96d8f5987f3d]: Textual amendment: Word in reg. 9(3)(d) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [6(b)(iii)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/6/b/iii)
 
-[^key-422c2393d733f7dc0b32f6ac3656d828]: Textual amendment: Reg. 9(3)(e) added (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [6(b)(iv)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/6/b/iv)
+[^c-422c2393d733f7dc0b32f6ac3656d828]: Textual amendment: Reg. 9(3)(e) added (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [6(b)(iv)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/6/b/iv)
 
-[^key-c07e7d99d51a671fd0995ddf244bc153]: Textual amendment: Word in reg. 9(5)(a) inserted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [6(c)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/6/c)
+[^c-c07e7d99d51a671fd0995ddf244bc153]: Textual amendment: Word in reg. 9(5)(a) inserted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [6(c)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/6/c)
 
-[^key-9c0102cb1b0c09ebfe4bccb45fa0da95]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/2003/2713/regulation/11) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2011/2021/regulation/7)
+[^c-9c0102cb1b0c09ebfe4bccb45fa0da95]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/2003/2713/regulation/11) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2011/2021/regulation/7)
 
-[^key-d7c10da5d7d6debb98c1c15548297601]: Textual amendment: Word in reg. 14 inserted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2011/2021/regulation/8)
+[^c-d7c10da5d7d6debb98c1c15548297601]: Textual amendment: Word in reg. 14 inserted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2011/2021/regulation/8)
 
-[^key-0265cbcd22b7543371909608f3b2e5f7]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2003/2713/regulation/15/1) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2011/2021/regulation/9)
+[^c-0265cbcd22b7543371909608f3b2e5f7]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2003/2713/regulation/15/1) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2011/2021/regulation/9)
 
-[^key-816d26885bf5255f933f4b6bc248c77e]: Textual amendment: Words in reg. 17(1) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/10/b)
+[^c-816d26885bf5255f933f4b6bc248c77e]: Textual amendment: Words in reg. 17(1) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/10/b)
 
-[^key-53e4c9403545de68b37329a325614acc]: Textual amendment: Word in reg. 17(1)(b) inserted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/10/a)
+[^c-53e4c9403545de68b37329a325614acc]: Textual amendment: Word in reg. 17(1)(b) inserted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/10/a)
 
-[^key-ac3b8cb4b36217ae7de7d942d79a82fd]: Textual amendment: Words in reg. 17(2) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/10/b)
+[^c-ac3b8cb4b36217ae7de7d942d79a82fd]: Textual amendment: Words in reg. 17(2) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/10/b)
 
-[^key-b794e601f065d1dbcd5bc730c45ab541]: Textual amendment: Word in reg. 17(3) inserted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [10(c)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/10/c)
+[^c-b794e601f065d1dbcd5bc730c45ab541]: Textual amendment: Word in reg. 17(3) inserted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [10(c)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/10/c)
 
-[^key-486b1c0545ec46648640882ed681f4cc]: Textual amendment: Words in reg. 17(3) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [10(d)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/10/d)
+[^c-486b1c0545ec46648640882ed681f4cc]: Textual amendment: Words in reg. 17(3) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [10(d)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/10/d)
 
-[^key-c11a153c3ba195a78abf86b75ecc9818]: Textual amendment: Words in reg. 17(4) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [10(d)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/10/d)
+[^c-c11a153c3ba195a78abf86b75ecc9818]: Textual amendment: Words in reg. 17(4) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [10(d)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/10/d)
 
-[^key-53c3dde2707591e52168dc7ed92ac71a]: Textual amendment: Words in reg. 17(5) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [10(d)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/10/d)
+[^c-53c3dde2707591e52168dc7ed92ac71a]: Textual amendment: Words in reg. 17(5) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [10(d)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/10/d)
 
 [^f00007]: Footnote: S.I. [2002/1836](https://www.legislation.gov.uk/uksi/2002/1836).
 
-[^key-a6c6a0a3b9d05f710c6c049734340ba6]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2003/2713/regulation/19) inserted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2011/2021/regulation/11)
+[^c-a6c6a0a3b9d05f710c6c049734340ba6]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2003/2713/regulation/19) inserted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2011/2021/regulation/11)
 
-[^key-549e65ddda2fcfbbac7a22447a6164ab]: Textual amendment: Words in [reg. 23(3)](https://www.legislation.gov.uk/uksi/2003/2713/regulation/23/3) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2011/2021/regulation/12)
+[^c-549e65ddda2fcfbbac7a22447a6164ab]: Textual amendment: Words in [reg. 23(3)](https://www.legislation.gov.uk/uksi/2003/2713/regulation/23/3) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2011/2021/regulation/12)
 
-[^key-faf1c10828ce3666494b479d94961fb1]: Textual amendment: Words in reg. 29(1) omitted (1.10.2011) by virtue of [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2011/2021/regulation/13)
+[^c-faf1c10828ce3666494b479d94961fb1]: Textual amendment: Words in reg. 29(1) omitted (1.10.2011) by virtue of [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2011/2021/regulation/13)
 
-[^key-d895a251d02810abcc6064780dbd5a97]: Textual amendment: Words in [reg. 31](https://www.legislation.gov.uk/uksi/2003/2713/regulation/31) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2011/2021/regulation/14)
+[^c-d895a251d02810abcc6064780dbd5a97]: Textual amendment: Words in [reg. 31](https://www.legislation.gov.uk/uksi/2003/2713/regulation/31) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2011/2021/regulation/14)
 
-[^key-684f80306ff765828980a5e9f66ae57c]: Textual amendment: Words in [reg. 32(6)](https://www.legislation.gov.uk/uksi/2003/2713/regulation/32/6) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2011/2021/regulation/15)
+[^c-684f80306ff765828980a5e9f66ae57c]: Textual amendment: Words in [reg. 32(6)](https://www.legislation.gov.uk/uksi/2003/2713/regulation/32/6) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2011/2021/regulation/15)
 
-[^key-f7acb393087f34252091294280085fba]: Textual amendment: Words in reg. 37(2) omitted (1.10.2011) by virtue of [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2011/2021/regulation/16)
+[^c-f7acb393087f34252091294280085fba]: Textual amendment: Words in reg. 37(2) omitted (1.10.2011) by virtue of [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2011/2021/regulation/16)
 
-[^key-89fe1e4abfdf33099ea102171fd21fb0]: Textual amendment: Words in [reg. 40(6)](https://www.legislation.gov.uk/uksi/2003/2713/regulation/40/6) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2011/2021/regulation/17)
+[^c-89fe1e4abfdf33099ea102171fd21fb0]: Textual amendment: Words in [reg. 40(6)](https://www.legislation.gov.uk/uksi/2003/2713/regulation/40/6) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2011/2021/regulation/17)
 
-[^key-b258b9ed1273f2827fc3e7f8b70f23b2]: Textual amendment: Words in [reg. 41(5)](https://www.legislation.gov.uk/uksi/2003/2713/regulation/41/5) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2011/2021/regulation/18)
+[^c-b258b9ed1273f2827fc3e7f8b70f23b2]: Textual amendment: Words in [reg. 41(5)](https://www.legislation.gov.uk/uksi/2003/2713/regulation/41/5) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2011/2021/regulation/18)
 
-[^key-8355e40b59c8dd14447c253410117aac]: Textual amendment: Words in [reg. 45(6)](https://www.legislation.gov.uk/uksi/2003/2713/regulation/45/6) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2011/2021/regulation/19)
+[^c-8355e40b59c8dd14447c253410117aac]: Textual amendment: Words in [reg. 45(6)](https://www.legislation.gov.uk/uksi/2003/2713/regulation/45/6) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2011/2021/regulation/19)
 
-[^key-2e959bd1d5f7b1e88d7963e12219c840]: Textual amendment: Words in reg. 51(1) omitted (1.10.2011) by virtue of [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2011/2021/regulation/20)
+[^c-2e959bd1d5f7b1e88d7963e12219c840]: Textual amendment: Words in reg. 51(1) omitted (1.10.2011) by virtue of [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2011/2021/regulation/20)
 
-[^key-ac91120ffca48d18d76631a65458abbe]: Textual amendment: Words in reg. 54(6) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2011/2021/regulation/21)
+[^c-ac91120ffca48d18d76631a65458abbe]: Textual amendment: Words in reg. 54(6) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2011/2021/regulation/21)
 
-[^key-17d37a99075bb6cfa2ade286623c674e]: Textual amendment: Word in reg. 55(5) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [22(i)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/22/i)
+[^c-17d37a99075bb6cfa2ade286623c674e]: Textual amendment: Word in reg. 55(5) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [22(i)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/22/i)
 
-[^key-64afd24335bc688593fc7fda429bef1a]: Textual amendment: Words in reg. 55(5) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [22(ii)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/22/ii)
+[^c-64afd24335bc688593fc7fda429bef1a]: Textual amendment: Words in reg. 55(5) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [22(ii)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/22/ii)
 
-[^key-4846240512dba1b1f61fb90ad7bb2b7c]: Textual amendment: Words in [reg. 57(c)](https://www.legislation.gov.uk/uksi/2003/2713/regulation/57/c) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/2011/2021/regulation/23)
+[^c-4846240512dba1b1f61fb90ad7bb2b7c]: Textual amendment: Words in [reg. 57(c)](https://www.legislation.gov.uk/uksi/2003/2713/regulation/57/c) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/2011/2021/regulation/23)
 
-[^key-4075e1a03d289899c7edbd5de39c3388]: Textual amendment: Reg. 61(1): reg. 61 renumbered as reg. 61(1) (24.4.2006) by [The Access to the Countryside (Exclusions and Restrictions) (England) (Amendment) Regulations 2006 (S.I. 2006/990)](https://www.legislation.gov.uk/uksi/2006/990), [regs. 1](https://www.legislation.gov.uk/uksi/2006/990/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2006/990/regulation/2/2)
+[^c-4075e1a03d289899c7edbd5de39c3388]: Textual amendment: Reg. 61(1): reg. 61 renumbered as reg. 61(1) (24.4.2006) by [The Access to the Countryside (Exclusions and Restrictions) (England) (Amendment) Regulations 2006 (S.I. 2006/990)](https://www.legislation.gov.uk/uksi/2006/990), [regs. 1](https://www.legislation.gov.uk/uksi/2006/990/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2006/990/regulation/2/2)
 
-[^key-0402060d02b33845172a8ca2002d03d2]: Textual amendment: Word in reg. 61(1) omitted (24.4.2006) by virtue of [The Access to the Countryside (Exclusions and Restrictions) (England) (Amendment) Regulations 2006 (S.I. 2006/990)](https://www.legislation.gov.uk/uksi/2006/990), [regs. 1](https://www.legislation.gov.uk/uksi/2006/990/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2006/990/regulation/2/3)
+[^c-0402060d02b33845172a8ca2002d03d2]: Textual amendment: Word in reg. 61(1) omitted (24.4.2006) by virtue of [The Access to the Countryside (Exclusions and Restrictions) (England) (Amendment) Regulations 2006 (S.I. 2006/990)](https://www.legislation.gov.uk/uksi/2006/990), [regs. 1](https://www.legislation.gov.uk/uksi/2006/990/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2006/990/regulation/2/3)
 
-[^key-a6e37b49d99139b9d040915ed189d318]: Textual amendment: Reg. 61(2) inserted (24.4.2006) by [The Access to the Countryside (Exclusions and Restrictions) (England) (Amendment) Regulations 2006 (S.I. 2006/990)](https://www.legislation.gov.uk/uksi/2006/990), [regs. 1](https://www.legislation.gov.uk/uksi/2006/990/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2006/990/regulation/2/4)
+[^c-a6e37b49d99139b9d040915ed189d318]: Textual amendment: Reg. 61(2) inserted (24.4.2006) by [The Access to the Countryside (Exclusions and Restrictions) (England) (Amendment) Regulations 2006 (S.I. 2006/990)](https://www.legislation.gov.uk/uksi/2006/990), [regs. 1](https://www.legislation.gov.uk/uksi/2006/990/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2006/990/regulation/2/4)
 
-[^key-fecf671e693e7140a7ec71086aa2ba39]: Textual amendment: Words in [reg. 61(2)](https://www.legislation.gov.uk/uksi/2003/2713/regulation/61/2) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2011/2021/regulation/24)
+[^c-fecf671e693e7140a7ec71086aa2ba39]: Textual amendment: Words in [reg. 61(2)](https://www.legislation.gov.uk/uksi/2003/2713/regulation/61/2) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2011/2021/regulation/24)
 
-[^key-d58fd804721b2ef33323f155a6f64c6f]: Textual amendment: Words in reg. 62(2) inserted (24.4.2006) by [The Access to the Countryside (Exclusions and Restrictions) (England) (Amendment) Regulations 2006 (S.I. 2006/990)](https://www.legislation.gov.uk/uksi/2006/990), [regs. 1](https://www.legislation.gov.uk/uksi/2006/990/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2006/990/regulation/2/5)
+[^c-d58fd804721b2ef33323f155a6f64c6f]: Textual amendment: Words in reg. 62(2) inserted (24.4.2006) by [The Access to the Countryside (Exclusions and Restrictions) (England) (Amendment) Regulations 2006 (S.I. 2006/990)](https://www.legislation.gov.uk/uksi/2006/990), [regs. 1](https://www.legislation.gov.uk/uksi/2006/990/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2006/990/regulation/2/5)
 
-[^key-f77dfff7a034294abc4437b8f974ddd9]: Textual amendment: Words in [reg. 62(2)](https://www.legislation.gov.uk/uksi/2003/2713/regulation/62/2) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [25](https://www.legislation.gov.uk/uksi/2011/2021/regulation/25)
+[^c-f77dfff7a034294abc4437b8f974ddd9]: Textual amendment: Words in [reg. 62(2)](https://www.legislation.gov.uk/uksi/2003/2713/regulation/62/2) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [25](https://www.legislation.gov.uk/uksi/2011/2021/regulation/25)
 
-[^key-16f9516472d9d65290e9e5ae3d95ebc3]: Textual amendment: Words in [reg. 64(2)(b)](https://www.legislation.gov.uk/uksi/2003/2713/regulation/64/2/b) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2011/2021/regulation/26)
+[^c-16f9516472d9d65290e9e5ae3d95ebc3]: Textual amendment: Words in [reg. 64(2)(b)](https://www.legislation.gov.uk/uksi/2003/2713/regulation/64/2/b) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2011/2021/regulation/26)
 
-[^key-15864d92de55b75acfb82b6126ca3adc]: Textual amendment: Words in [reg. 68(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2003/2713/regulation/68/5/a/ii) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [27](https://www.legislation.gov.uk/uksi/2011/2021/regulation/27)
+[^c-15864d92de55b75acfb82b6126ca3adc]: Textual amendment: Words in [reg. 68(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2003/2713/regulation/68/5/a/ii) substituted (1.10.2011) by [The Access to the Countryside (Exclusions and Restrictions) (Amendment) (England) Regulations 2011 (S.I. 2011/2021)](https://www.legislation.gov.uk/uksi/2011/2021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2021/regulation/1/1), [27](https://www.legislation.gov.uk/uksi/2011/2021/regulation/27)

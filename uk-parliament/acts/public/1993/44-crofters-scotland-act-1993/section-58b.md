@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58B. Variation of conditions on approval or consent[^key-b8ffc8636ba06984f51b30427f009b31]
+## 58B. Variation of conditions on approval or consent[^c-b8ffc8636ba06984f51b30427f009b31]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ as they consider appropriate.
 
 ## Annotations
 
-[^key-b8ffc8636ba06984f51b30427f009b31]: Textual amendment: [S. 58B](https://www.legislation.gov.uk/ukpga/1993/44/section/58B) inserted (1.10.2011) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [ss. 48(12)](https://www.legislation.gov.uk/asp/2010/14/section/48/12), [57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3](https://www.legislation.gov.uk/ssi/2011/334/article/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))
+[^c-b8ffc8636ba06984f51b30427f009b31]: Textual amendment: [S. 58B](https://www.legislation.gov.uk/ukpga/1993/44/section/58B) inserted (1.10.2011) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [ss. 48(12)](https://www.legislation.gov.uk/asp/2010/14/section/48/12), [57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3](https://www.legislation.gov.uk/ssi/2011/334/article/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))

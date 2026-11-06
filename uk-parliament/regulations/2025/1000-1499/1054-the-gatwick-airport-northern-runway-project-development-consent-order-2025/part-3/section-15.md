@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Public rights of way – creation, diversion and stopping up[^key-92c51531c670465c55c64ec8e4719c08]
+## 15. Public rights of way – creation, diversion and stopping up[^c-92c51531c670465c55c64ec8e4719c08]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92c51531c670465c55c64ec8e4719c08]: Commencement: Art. 15 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-92c51531c670465c55c64ec8e4719c08]: Commencement: Art. 15 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)

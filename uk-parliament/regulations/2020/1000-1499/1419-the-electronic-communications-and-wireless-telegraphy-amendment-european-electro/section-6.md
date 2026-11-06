@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Saving for existing universal service conditions relating to social tariffs[^key-1e71a59dac4196a22ea56a84717f55df]
+## 6. Saving for existing universal service conditions relating to social tariffs[^c-1e71a59dac4196a22ea56a84717f55df]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1e71a59dac4196a22ea56a84717f55df]: Commencement: Reg. 6 in force at 21.12.2020, see reg. 1(2)
+[^c-1e71a59dac4196a22ea56a84717f55df]: Commencement: Reg. 6 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362411]: Marginal citation: [S.I. 2003/1904](https://www.legislation.gov.uk/uksi/2003/1904); paragraph 5(2) of the Schedule is revoked by paragraph 1 of Schedule 2 to these Regulations.
 

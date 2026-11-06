@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Authorised excuses for failures as to return and declarations[^key-f02f28b9a835bdad7e053e703cb7af23]
+## 60. Authorised excuses for failures as to return and declarations[^c-f02f28b9a835bdad7e053e703cb7af23]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ and not by reason of any want of good faith on the applicant’s part.
 
 ## Annotations
 
-[^key-f02f28b9a835bdad7e053e703cb7af23]: Commencement: Art. 60 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-f02f28b9a835bdad7e053e703cb7af23]: Commencement: Art. 60 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Alcoholic strength[^M_I_21e80336-8842-496a-86f7-6d06d9238a05][^key-64fdcfd7173ace60b4710e7f9de563b3]
+## 45. Alcoholic strength[^M_I_21e80336-8842-496a-86f7-6d06d9238a05][^c-64fdcfd7173ace60b4710e7f9de563b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 [^M_I_21e80336-8842-496a-86f7-6d06d9238a05]: Commencement: S. 45 in force at Royal Assent for specified purposes, see [s. 120(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/1/b)
 
-[^key-64fdcfd7173ace60b4710e7f9de563b3]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2023/30/section/45) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-64fdcfd7173ace60b4710e7f9de563b3]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2023/30/section/45) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

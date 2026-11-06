@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**323.**[^key-d25dad2e59ca6bc4b02be4262646a03e] Before Schedule 1 insert the following—
+**323.**[^c-d25dad2e59ca6bc4b02be4262646a03e] Before Schedule 1 insert the following—
 
 > **Schedule A1 — Direct Payments: After-care Under the Mental Health Act 1983**
 >
@@ -83,4 +83,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d25dad2e59ca6bc4b02be4262646a03e]: Commencement: Reg. 323 comes into force in accordance with reg. 2(6), see reg. 2(1)(6)
+[^c-d25dad2e59ca6bc4b02be4262646a03e]: Commencement: Reg. 323 comes into force in accordance with reg. 2(6), see reg. 2(1)(6)

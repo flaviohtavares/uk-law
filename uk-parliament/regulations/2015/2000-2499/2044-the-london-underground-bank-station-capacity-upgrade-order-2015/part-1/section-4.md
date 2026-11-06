@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Application, modification and exclusion of legislative provisions relating to street works[^key-d1c3666454a1dcb5e85eceb07ade7554]
+## 4. Application, modification and exclusion of legislative provisions relating to street works[^c-d1c3666454a1dcb5e85eceb07ade7554]
 
 *Extent: E+W+S*
 
@@ -64,7 +64,7 @@ all such other provisions as apply for the purposes of the provisions mentioned 
 
 ## Annotations
 
-[^key-d1c3666454a1dcb5e85eceb07ade7554]: Commencement: Art. 4 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-d1c3666454a1dcb5e85eceb07ade7554]: Commencement: Art. 4 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
 
 [^f00018]: Footnote: As amended by section 102 of, and Schedule 17 to, the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51) and Schedule 9 to the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22).
 

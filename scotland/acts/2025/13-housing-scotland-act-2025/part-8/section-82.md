@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82. Regulations[^key-0371d5cc12096966b56b4075c7140d9d]
+## 82. Regulations[^c-0371d5cc12096966b56b4075c7140d9d]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0371d5cc12096966b56b4075c7140d9d]: Commencement: S. 82 in force at 7.11.2025, see [s. 86(1)](https://www.legislation.gov.uk/asp/2025/13/section/86/1)
+[^c-0371d5cc12096966b56b4075c7140d9d]: Commencement: S. 82 in force at 7.11.2025, see [s. 86(1)](https://www.legislation.gov.uk/asp/2025/13/section/86/1)

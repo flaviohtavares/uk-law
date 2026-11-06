@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Exemption for recognised investment exchanges and clearing houses[^key-e54ec65e78ab9c53f1b554658b5c8eca]
+## 28. Exemption for recognised investment exchanges and clearing houses[^c-e54ec65e78ab9c53f1b554658b5c8eca]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e54ec65e78ab9c53f1b554658b5c8eca]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2012/21/section/28) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-e54ec65e78ab9c53f1b554658b5c8eca]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2012/21/section/28) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

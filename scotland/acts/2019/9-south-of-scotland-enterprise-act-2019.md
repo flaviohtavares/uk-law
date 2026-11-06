@@ -36,13 +36,13 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Establishment
 
-### 1. South of Scotland Enterprise[^key-7741a9e54f1d1387aecc96159463ff6b]
+### 1. South of Scotland Enterprise[^c-7741a9e54f1d1387aecc96159463ff6b]
 
 (1) South of Scotland Enterprise is established.
 
 (2) It is a body corporate.
 
-### 2. People constituting body and staff[^key-63fb15f6f2fea816ae8fc6ab3f2c207e]
+### 2. People constituting body and staff[^c-63fb15f6f2fea816ae8fc6ab3f2c207e]
 
 (1) South of Scotland Enterprise is to consist of—
 
@@ -52,7 +52,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (2) Schedule 1 makes provision about South of Scotland Enterprise's members and staff.
 
-### 3. Exclusion of Crown status[^key-6ba2415ae06881a5810c1992d5522704]
+### 3. Exclusion of Crown status[^c-6ba2415ae06881a5810c1992d5522704]
 
 (1) South of Scotland Enterprise—
 
@@ -61,7 +61,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (2) South of Scotland Enterprise's members and staff are not to be regarded as civil servants.
 
-### 4. Application of public bodies legislation[^key-b635a874b6b78b5fe5e941fe2d90f407]
+### 4. Application of public bodies legislation[^c-b635a874b6b78b5fe5e941fe2d90f407]
 
 (1) Schedule 2 amends other enactments so that their provisions apply to South of Scotland Enterprise.
 
@@ -69,7 +69,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Aims and powers
 
-### 5. Aims[^key-f43da55da001391e68d63f4a91aa9ad0]
+### 5. Aims[^c-f43da55da001391e68d63f4a91aa9ad0]
 
 (1) South of Scotland Enterprise's aims are to—
 
@@ -99,7 +99,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) The Scottish Ministers may by regulations alter South of Scotland Enterprise's aims by modifying this section.
 
-### 6. Action plan[^key-c342b3d068d139e0c64d2a316420e1db]
+### 6. Action plan[^c-c342b3d068d139e0c64d2a316420e1db]
 
 (1) South of Scotland Enterprise—
 
@@ -111,7 +111,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) Replacing one version of the action plan with another is a modification of the plan for the purposes of this section.
 
-### 7. Consultation on action plan[^key-64a40c11001f3c61bd1521a5e3e96510]
+### 7. Consultation on action plan[^c-64a40c11001f3c61bd1521a5e3e96510]
 
 (1) South of Scotland Enterprise must—
 
@@ -143,7 +143,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### 8. General powers
 
-(1)[^key-6770ec9493f03c117bea2f882a2dfb51][^key-aa6fcf28e546a169ffb1f9fd8275cc6f] South of Scotland Enterprise may do anything which appears to it to be—
+(1)[^c-6770ec9493f03c117bea2f882a2dfb51][^c-aa6fcf28e546a169ffb1f9fd8275cc6f] South of Scotland Enterprise may do anything which appears to it to be—
 
 - (a) either—
   - (i) necessary or expedient for the purposes of, or in connection with, achieving its aims or the performance of any of its other functions, or
@@ -152,30 +152,30 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (2) Without prejudice to the generality of subsection (1), South of Scotland Enterprise may—
 
-- (a)[^key-fbedf59690a182cfe3b795fd85777b51] enter into contracts,
-- (b)[^key-fbedf59690a182cfe3b795fd85777b51] acquire and dispose of land and other property,
-- (c)[^key-625ae4bd37721a64e8a92c24dbd6ae19] form or promote (whether alone or with others) subsidiaries within the meaning of section 1159 of the Companies Act 2006,
-- (d)[^key-625ae4bd37721a64e8a92c24dbd6ae19] form and register (whether alone or with others) a society under the Co-operative and Community Benefit Societies Act 2014,
-- (e)[^key-625ae4bd37721a64e8a92c24dbd6ae19] enter into a partnership,
-- (f)[^key-625ae4bd37721a64e8a92c24dbd6ae19] become a member of a consortium,
-- (g)[^key-625ae4bd37721a64e8a92c24dbd6ae19] provide grants and loans.
+- (a)[^c-fbedf59690a182cfe3b795fd85777b51] enter into contracts,
+- (b)[^c-fbedf59690a182cfe3b795fd85777b51] acquire and dispose of land and other property,
+- (c)[^c-625ae4bd37721a64e8a92c24dbd6ae19] form or promote (whether alone or with others) subsidiaries within the meaning of section 1159 of the Companies Act 2006,
+- (d)[^c-625ae4bd37721a64e8a92c24dbd6ae19] form and register (whether alone or with others) a society under the Co-operative and Community Benefit Societies Act 2014,
+- (e)[^c-625ae4bd37721a64e8a92c24dbd6ae19] enter into a partnership,
+- (f)[^c-625ae4bd37721a64e8a92c24dbd6ae19] become a member of a consortium,
+- (g)[^c-625ae4bd37721a64e8a92c24dbd6ae19] provide grants and loans.
 
-(3)[^key-6770ec9493f03c117bea2f882a2dfb51][^key-aa6fcf28e546a169ffb1f9fd8275cc6f] Despite the generality of subsection (1), South of Scotland Enterprise may not borrow money except from—
+(3)[^c-6770ec9493f03c117bea2f882a2dfb51][^c-aa6fcf28e546a169ffb1f9fd8275cc6f] Despite the generality of subsection (1), South of Scotland Enterprise may not borrow money except from—
 
 - (a) the Scottish Ministers (see section 19), or
 - (b) a person who is, or was at the time the loan was made, one of its subsidiaries within the meaning of section 1159 of the Companies Act 2006.
 
-(4)[^key-625ae4bd37721a64e8a92c24dbd6ae19] South of Scotland Enterprise may charge for providing a service.
+(4)[^c-625ae4bd37721a64e8a92c24dbd6ae19] South of Scotland Enterprise may charge for providing a service.
 
 ## Operational matters
 
-### 9. Headquarters[^key-1dacfab63bbd476e50e1981121c6c498]
+### 9. Headquarters[^c-1dacfab63bbd476e50e1981121c6c498]
 
 (1) The Scottish Ministers must specify in a direction under section 17 the place where South of Scotland Enterprise is to have its headquarters.
 
 (2) Any place specified in fulfilment of the duty under subsection (1) must be in the South of Scotland.
 
-### 10. Committees[^key-2fbaefb1ad4a8e357cc6416aefd6a84f]
+### 10. Committees[^c-2fbaefb1ad4a8e357cc6416aefd6a84f]
 
 (1) South of Scotland Enterprise may establish committees and sub-committees.
 
@@ -193,17 +193,17 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (5) The reference in subsection (3) to allowances and gratuities includes allowances and gratuities by way of compensation for loss of office as a member of a committee or sub-committee.
 
-### 11. Workers' interests committee[^key-5376fd9e4eccbc2aacb997f3144d4617]
+### 11. Workers' interests committee[^c-5376fd9e4eccbc2aacb997f3144d4617]
 
 (1) South of Scotland Enterprise must establish a committee to advise it on what might be done to advance the interests of workers in the South of Scotland.
 
 (2) The committee must include at least one member nominated by a trade union operating in the South of Scotland.
 
-### 12. Regulation of procedure[^key-f4a6a366940d706c8c2175db2e6d2a86]
+### 12. Regulation of procedure[^c-f4a6a366940d706c8c2175db2e6d2a86]
 
 South of Scotland Enterprise may regulate its own procedure (including quorum) and that of its committees and sub-committees.
 
-### 13. Authority to perform functions[^key-5786c3ca6827da8267fa36510c4b3dce]
+### 13. Authority to perform functions[^c-5786c3ca6827da8267fa36510c4b3dce]
 
 (1) South of Scotland Enterprise may authorise any of its—
 
@@ -219,7 +219,7 @@ to perform such of its functions (and to such extent) as it may determine.
 - (a) affect the responsibility of South of Scotland Enterprise for the performance of the function, or
 - (b) prevent South of Scotland Enterprise from performing the function itself.
 
-### 14. Validity of things done[^key-3271d5510518258d68949574abfe54c5]
+### 14. Validity of things done[^c-3271d5510518258d68949574abfe54c5]
 
 The validity of anything done by South of Scotland Enterprise, its committees or sub-committees is not affected by—
 
@@ -229,7 +229,7 @@ The validity of anything done by South of Scotland Enterprise, its committees or
 
 ## Accountability
 
-### 15. Accounts and audit[^key-0c2184347015e573fc626878e17ea62c]
+### 15. Accounts and audit[^c-0c2184347015e573fc626878e17ea62c]
 
 South of Scotland Enterprise must—
 
@@ -237,7 +237,7 @@ South of Scotland Enterprise must—
 - (b) prepare in respect of each financial year a statement of accounts, and
 - (c) send a copy of the statement to the Auditor General for Scotland for auditing.
 
-### 16. Annual report[^key-6c1b11502ea729195c2e193ce3064904]
+### 16. Annual report[^c-6c1b11502ea729195c2e193ce3064904]
 
 (1) South of Scotland Enterprise must, after each financial year—
 
@@ -248,7 +248,7 @@ South of Scotland Enterprise must—
 
 ## Ministerial powers
 
-### 17. Direction[^key-86f36975ee966e2e1b35792f6f26dea1][^key-c8e45139ef0a82169587b29f6124c9f6]
+### 17. Direction[^c-86f36975ee966e2e1b35792f6f26dea1][^c-c8e45139ef0a82169587b29f6124c9f6]
 
 (1) South of Scotland Enterprise must comply with any direction issued to it by the Scottish Ministers.
 
@@ -264,7 +264,7 @@ South of Scotland Enterprise must—
 - (a) the direction, and
 - (b) their reasons for issuing it.
 
-### 18. Fair work direction[^key-73f0d29d9ef2a6e4ce6aca40e275e1b7]
+### 18. Fair work direction[^c-73f0d29d9ef2a6e4ce6aca40e275e1b7]
 
 (1) The Scottish Ministers must issue a direction under section 17 to South of Scotland Enterprise about fair work within 1 year of this section coming into force.
 
@@ -280,7 +280,7 @@ South of Scotland Enterprise must—
 - (a) persons who appear to the Scottish Ministers to represent the interests of those who work in the South of Scotland, and
 - (b) persons who appear to the Scottish Ministers to represent the interests of employers in the South of Scotland.
 
-### 19. Financial assistance[^key-ac278ab4007859be0aad3f345b7ca9d4]
+### 19. Financial assistance[^c-ac278ab4007859be0aad3f345b7ca9d4]
 
 (1) The Scottish Ministers may provide such financial assistance to South of Scotland Enterprise as they consider appropriate.
 
@@ -292,13 +292,13 @@ South of Scotland Enterprise must—
 
 ### 20. Transfer of property and liabilities
 
-(1)[^key-c1797135dc308351c13e3b0abe1ed52b] On the day this section comes into force, the transferring property (including rights) and liabilities of Scottish Enterprise are transferred to, and vest in, South of Scotland Enterprise.
+(1)[^c-c1797135dc308351c13e3b0abe1ed52b] On the day this section comes into force, the transferring property (including rights) and liabilities of Scottish Enterprise are transferred to, and vest in, South of Scotland Enterprise.
 
-(2)[^key-2b0cee115696205910d39f147e644dbb] The Scottish Ministers are to identify the transferring property and liabilities by regulations.
+(2)[^c-2b0cee115696205910d39f147e644dbb] The Scottish Ministers are to identify the transferring property and liabilities by regulations.
 
 ## Interpretation
 
-### 21. Meaning of South of Scotland[^key-e277021731fa5e9fc1f309561c3a967f]
+### 21. Meaning of South of Scotland[^c-e277021731fa5e9fc1f309561c3a967f]
 
 In this Act, “**the South of Scotland**” means the areas of—
 
@@ -342,7 +342,7 @@ The short title of this Act is the South of Scotland Enterprise Act 2019.
 
 #### Appointment of members
 
-**1.**[^key-e159cb423552028650aa7d390ecb6927] (1) The Scottish Ministers are to appoint—
+**1.**[^c-e159cb423552028650aa7d390ecb6927] (1) The Scottish Ministers are to appoint—
 
 - (a) the chair of South of Scotland Enterprise, and
 - (b) its other members.
@@ -366,13 +366,13 @@ The short title of this Act is the South of Scotland Enterprise Act 2019.
 
 #### Tenure
 
-**2.**[^key-fda3fe4f6b4704b4193ad371e94905c9] (1) A person's membership continues until the end of the period of appointment (subject to paragraph 3).
+**2.**[^c-fda3fe4f6b4704b4193ad371e94905c9] (1) A person's membership continues until the end of the period of appointment (subject to paragraph 3).
 
 (2) In sub-paragraph (1), “**the period of appointment**” means the period specified by the Scottish Ministers on appointing the person as a member.
 
 #### Early termination
 
-**3.**[^key-06a2474abd20e78141f04aa65b8a3025] (1) A person's membership ends if—
+**3.**[^c-06a2474abd20e78141f04aa65b8a3025] (1) A person's membership ends if—
 
 - (a) the person gives written notice to the Scottish Ministers that the person resigns,
 - (b) the person becomes disqualified from being a member (see paragraph 4),
@@ -388,7 +388,7 @@ The short title of this Act is the South of Scotland Enterprise Act 2019.
 
 #### Grounds for disqualification from membership
 
-**4.**[^key-228dafeb8c6297049223279819f142e1] A person is disqualified from being a member if the person is—
+**4.**[^c-228dafeb8c6297049223279819f142e1] A person is disqualified from being a member if the person is—
 
 - (a) a member of the Scottish Parliament,
 - (b) a member of the House of Commons,
@@ -396,7 +396,7 @@ The short title of this Act is the South of Scotland Enterprise Act 2019.
 
 #### Remuneration, allowances and gratuities
 
-**5.**[^key-e1232e095eeed077a740a9ca9025c7c4] (1) South of Scotland Enterprise may, in accordance with a determination by the Scottish Ministers—
+**5.**[^c-e1232e095eeed077a740a9ca9025c7c4] (1) South of Scotland Enterprise may, in accordance with a determination by the Scottish Ministers—
 
 - (a) pay each member remuneration and allowances (including expenses), and
 - (b) pay, or make arrangements for the payment of, allowances and gratuities to, or in respect of, any person who is or has been a member.
@@ -417,13 +417,13 @@ The short title of this Act is the South of Scotland Enterprise Act 2019.
 
 #### Other terms and conditions
 
-**6.**[^key-1aa3dbebdb50afda9fcce63fd0a82306] The Scottish Ministers may determine the terms and conditions of membership in relation to matters not covered by this schedule.
+**6.**[^c-1aa3dbebdb50afda9fcce63fd0a82306] The Scottish Ministers may determine the terms and conditions of membership in relation to matters not covered by this schedule.
 
 ### PART 2 — STAFF
 
 #### Chief executive
 
-**7.**[^key-af0f39948831afbe3392caef5dcd840d] (1) South of Scotland Enterprise is to have a chief executive.
+**7.**[^c-af0f39948831afbe3392caef5dcd840d] (1) South of Scotland Enterprise is to have a chief executive.
 
 (2) The chief executive is a member of staff of South of Scotland Enterprise.
 
@@ -437,11 +437,11 @@ The short title of this Act is the South of Scotland Enterprise Act 2019.
 
 #### Other staff
 
-**8.**[^key-4a9f12deab355fb91a5e10791fc77fe8] South of Scotland Enterprise may appoint staff.
+**8.**[^c-4a9f12deab355fb91a5e10791fc77fe8] South of Scotland Enterprise may appoint staff.
 
 #### Staff terms and conditions
 
-**9.**[^key-bc566d8b01c524e76330f34ac2f389a4] (1) Staff appointed by South of Scotland Enterprise are appointed on such terms and conditions as South of Scotland Enterprise determines.
+**9.**[^c-bc566d8b01c524e76330f34ac2f389a4] (1) Staff appointed by South of Scotland Enterprise are appointed on such terms and conditions as South of Scotland Enterprise determines.
 
 (2) South of Scotland Enterprise may not determine staff terms and conditions without the Scottish Ministers' approval.
 
@@ -449,7 +449,7 @@ The short title of this Act is the South of Scotland Enterprise Act 2019.
 
 #### Pensions, allowances and gratuities
 
-**10.**[^key-86bc48d01f316ccde1660e044729ca86] (1) South of Scotland Enterprise may, with the approval of the Scottish Ministers, pay or make arrangements for the payment of pensions, allowances and gratuities to, or in respect of, any person who is or has been a member of staff of South of Scotland Enterprise.
+**10.**[^c-86bc48d01f316ccde1660e044729ca86] (1) South of Scotland Enterprise may, with the approval of the Scottish Ministers, pay or make arrangements for the payment of pensions, allowances and gratuities to, or in respect of, any person who is or has been a member of staff of South of Scotland Enterprise.
 
 (2) Those arrangements may include—
 
@@ -464,11 +464,11 @@ The short title of this Act is the South of Scotland Enterprise Act 2019.
 
 ### Ethical Standards in Public Life etc. (Scotland) Act 2000
 
-**1.**[^key-af1facab40677617ce2b61dd7e825106] In schedule 3 of the Ethical Standards in Public Life etc. (Scotland) Act 2000, after the entry relating to Social Care and Social Work Improvement Scotland insert— “ South of Scotland Enterprise ”.
+**1.**[^c-af1facab40677617ce2b61dd7e825106] In schedule 3 of the Ethical Standards in Public Life etc. (Scotland) Act 2000, after the entry relating to Social Care and Social Work Improvement Scotland insert— “ South of Scotland Enterprise ”.
 
 ### Scottish Public Services Ombudsman Act 2002
 
-**2.**[^key-08fa9759dc9822b964ee3f5e9ea55a1a] In schedule 2 of the Scottish Public Services Ombudsman Act 2002, after paragraph 52A insert—
+**2.**[^c-08fa9759dc9822b964ee3f5e9ea55a1a] In schedule 2 of the Scottish Public Services Ombudsman Act 2002, after paragraph 52A insert—
 
 > **52B.** South of Scotland Enterprise.
 
@@ -476,7 +476,7 @@ The short title of this Act is the South of Scotland Enterprise Act 2019.
 
 ### Freedom of Information (Scotland) Act 2002
 
-**3.**[^key-549989850a5126b52421854e4b2773ab] In schedule 1 of the Freedom of Information (Scotland) Act 2002, after paragraph 102A insert—
+**3.**[^c-549989850a5126b52421854e4b2773ab] In schedule 1 of the Freedom of Information (Scotland) Act 2002, after paragraph 102A insert—
 
 > **102B.** South of Scotland Enterprise.
 
@@ -484,11 +484,11 @@ The short title of this Act is the South of Scotland Enterprise Act 2019.
 
 ### Public Appointments and Public Bodies etc. (Scotland) Act 2003
 
-**4.**[^key-ee54b3cb20168e0acf0857aca14aec60] In schedule 2 of the Public Appointments and Public Bodies etc. (Scotland) Act 2003, after the entry relating to Social Care and Social Work Improvement Scotland insert— “ South of Scotland Enterprise ”.
+**4.**[^c-ee54b3cb20168e0acf0857aca14aec60] In schedule 2 of the Public Appointments and Public Bodies etc. (Scotland) Act 2003, after the entry relating to Social Care and Social Work Improvement Scotland insert— “ South of Scotland Enterprise ”.
 
 ### Further and Higher Education (Scotland) Act 2005
 
-**5.**[^key-ceea13d38d49940529d236824d111ea2] (1) The Further and Higher Education (Scotland) Act 2005 is amended as follows.
+**5.**[^c-ceea13d38d49940529d236824d111ea2] (1) The Further and Higher Education (Scotland) Act 2005 is amended as follows.
 
 (2) In section 22(5)—
 
@@ -511,7 +511,7 @@ The short title of this Act is the South of Scotland Enterprise Act 2019.
 
 ### Public Services Reform (Scotland) Act 2010
 
-**6.**[^key-2a644dab33a17fa0dc12934281d3735e] (1) The Public Services Reform (Scotland) Act 2010 is amended as follows.
+**6.**[^c-2a644dab33a17fa0dc12934281d3735e] (1) The Public Services Reform (Scotland) Act 2010 is amended as follows.
 
 (2) In schedule 5, after the entry relating to Social Care and Social Work Improvement Scotland insert— “ South of Scotland Enterprise ”.
 
@@ -519,11 +519,11 @@ The short title of this Act is the South of Scotland Enterprise Act 2019.
 
 ### Public Records (Scotland) Act 2011
 
-**7.**[^key-c14a9bfab9c322e38a9c2112abd5fa5e] In the schedule of the Public Records (Scotland) Act 2011, after the entry relating to Social Care and Social Work Improvement Scotland insert— “ South of Scotland Enterprise ”.
+**7.**[^c-c14a9bfab9c322e38a9c2112abd5fa5e] In the schedule of the Public Records (Scotland) Act 2011, after the entry relating to Social Care and Social Work Improvement Scotland insert— “ South of Scotland Enterprise ”.
 
 ### Water Resources (Scotland) Act 2013
 
-**8.**[^key-8fe696919bb8b715043ee0088346f9a1] In section 3 of the Water Resources (Scotland) Act 2013, at the end of paragraph (f) insert
+**8.**[^c-8fe696919bb8b715043ee0088346f9a1] In section 3 of the Water Resources (Scotland) Act 2013, at the end of paragraph (f) insert
 
 > ,
 >
@@ -533,7 +533,7 @@ The short title of this Act is the South of Scotland Enterprise Act 2019.
 
 ### Community Empowerment (Scotland) Act 2015
 
-**9.**[^key-d6ceb8329b51e085da2304c573069ae1] (1) The Community Empowerment (Scotland) Act 2015 is amended as follows.
+**9.**[^c-d6ceb8329b51e085da2304c573069ae1] (1) The Community Empowerment (Scotland) Act 2015 is amended as follows.
 
 (2) In section 13(2), after paragraph (f) insert
 
@@ -549,11 +549,11 @@ The short title of this Act is the South of Scotland Enterprise Act 2019.
 
 ### Climate Change (Duties of Public Bodies: Reporting Requirements) (Scotland) Order 2015
 
-**10.**[^key-a50f5b46a52b0a1160e78c19a09eaa60] In schedule 1 of the Climate Change (Duties of Public Bodies: Reporting Requirements) (Scotland) Order 2015 (S.S.I. 2015/347), after the entry relating to Social Care and Social Work Improvement Scotland insert— “ South of Scotland Enterprise ”.
+**10.**[^c-a50f5b46a52b0a1160e78c19a09eaa60] In schedule 1 of the Climate Change (Duties of Public Bodies: Reporting Requirements) (Scotland) Order 2015 (S.S.I. 2015/347), after the entry relating to Social Care and Social Work Improvement Scotland insert— “ South of Scotland Enterprise ”.
 
 ### Gender Representation on Public Boards (Scotland) Act 2018
 
-**11.**[^key-418a36ae94641e593f09a8dbd39d6c78] In schedule 1 of the Gender Representation on Public Boards (Scotland) Act 2018, after the entry relating to Social Care and Social Work Improvement Scotland insert—
+**11.**[^c-418a36ae94641e593f09a8dbd39d6c78] In schedule 1 of the Gender Representation on Public Boards (Scotland) Act 2018, after the entry relating to Social Care and Social Work Improvement Scotland insert—
 
 > |  |  |
 > | --- | --- |
@@ -563,96 +563,96 @@ The short title of this Act is the South of Scotland Enterprise Act 2019.
 
 ## Annotations
 
-[^key-7741a9e54f1d1387aecc96159463ff6b]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2019/9/section/1) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-7741a9e54f1d1387aecc96159463ff6b]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2019/9/section/1) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-63fb15f6f2fea816ae8fc6ab3f2c207e]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2019/9/section/2) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-63fb15f6f2fea816ae8fc6ab3f2c207e]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2019/9/section/2) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-6ba2415ae06881a5810c1992d5522704]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2019/9/section/3) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-6ba2415ae06881a5810c1992d5522704]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2019/9/section/3) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-b635a874b6b78b5fe5e941fe2d90f407]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2019/9/section/4) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-b635a874b6b78b5fe5e941fe2d90f407]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2019/9/section/4) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-f43da55da001391e68d63f4a91aa9ad0]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2019/9/section/5) in force at 1.4.2020 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2019/308/regulation/3/2) (as amended by S.S.I. 2020/85, regs. 1, 2)
+[^c-f43da55da001391e68d63f4a91aa9ad0]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2019/9/section/5) in force at 1.4.2020 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2019/308/regulation/3/2) (as amended by S.S.I. 2020/85, regs. 1, 2)
 
-[^key-c342b3d068d139e0c64d2a316420e1db]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2019/9/section/6) in force at 1.4.2020 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2019/308/regulation/3/2) (as amended by S.S.I. 2020/85, regs. 1, 2)
+[^c-c342b3d068d139e0c64d2a316420e1db]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2019/9/section/6) in force at 1.4.2020 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2019/308/regulation/3/2) (as amended by S.S.I. 2020/85, regs. 1, 2)
 
-[^key-64a40c11001f3c61bd1521a5e3e96510]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2019/9/section/7) in force at 1.4.2020 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2019/308/regulation/3/2) (as amended by S.S.I. 2020/85, regs. 1, 2)
+[^c-64a40c11001f3c61bd1521a5e3e96510]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2019/9/section/7) in force at 1.4.2020 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2019/308/regulation/3/2) (as amended by S.S.I. 2020/85, regs. 1, 2)
 
-[^key-6770ec9493f03c117bea2f882a2dfb51]: Commencement: S. 8(1)(3) in force at 16.10.2019 for specified purposes by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2019/308/regulation/4))
+[^c-6770ec9493f03c117bea2f882a2dfb51]: Commencement: S. 8(1)(3) in force at 16.10.2019 for specified purposes by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2019/308/regulation/4))
 
-[^key-aa6fcf28e546a169ffb1f9fd8275cc6f]: Commencement: S. 8(1)(3) in force at 1.4.2020 in so far as not already in force by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2019/308/regulation/3/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2019/308/regulation/4)) (as amended by [S.S.I. 2020/85](https://www.legislation.gov.uk/ssi/2020/85), regs. 1, 2)
+[^c-aa6fcf28e546a169ffb1f9fd8275cc6f]: Commencement: S. 8(1)(3) in force at 1.4.2020 in so far as not already in force by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2019/308/regulation/3/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2019/308/regulation/4)) (as amended by [S.S.I. 2020/85](https://www.legislation.gov.uk/ssi/2020/85), regs. 1, 2)
 
-[^key-fbedf59690a182cfe3b795fd85777b51]: Commencement: S. 8(2)(a)(b) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-fbedf59690a182cfe3b795fd85777b51]: Commencement: S. 8(2)(a)(b) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-625ae4bd37721a64e8a92c24dbd6ae19]: Commencement: S. 8(2)(c)-(g)(4) in force at 1.4.2020 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2019/308/regulation/3/2) (as amended by [S.S.I. 2020/85](https://www.legislation.gov.uk/ssi/2020/85), regs. 1, 2)
+[^c-625ae4bd37721a64e8a92c24dbd6ae19]: Commencement: S. 8(2)(c)-(g)(4) in force at 1.4.2020 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2019/308/regulation/3/2) (as amended by [S.S.I. 2020/85](https://www.legislation.gov.uk/ssi/2020/85), regs. 1, 2)
 
-[^key-1dacfab63bbd476e50e1981121c6c498]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2019/9/section/9) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-1dacfab63bbd476e50e1981121c6c498]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2019/9/section/9) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-2fbaefb1ad4a8e357cc6416aefd6a84f]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2019/9/section/10) in force at 1.4.2020 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2019/308/regulation/3/2) (as amended by S.S.I. 2020/85, regs. 1, 2)
+[^c-2fbaefb1ad4a8e357cc6416aefd6a84f]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2019/9/section/10) in force at 1.4.2020 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2019/308/regulation/3/2) (as amended by S.S.I. 2020/85, regs. 1, 2)
 
-[^key-5376fd9e4eccbc2aacb997f3144d4617]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2019/9/section/11) in force at 1.4.2020 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2019/308/regulation/3/2) (as amended by S.S.I. 2020/85, regs. 1, 2)
+[^c-5376fd9e4eccbc2aacb997f3144d4617]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2019/9/section/11) in force at 1.4.2020 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2019/308/regulation/3/2) (as amended by S.S.I. 2020/85, regs. 1, 2)
 
-[^key-f4a6a366940d706c8c2175db2e6d2a86]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2019/9/section/12) in force at 1.4.2020 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2019/308/regulation/3/2) (as amended by S.S.I. 2020/85, regs. 1, 2)
+[^c-f4a6a366940d706c8c2175db2e6d2a86]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2019/9/section/12) in force at 1.4.2020 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2019/308/regulation/3/2) (as amended by S.S.I. 2020/85, regs. 1, 2)
 
-[^key-5786c3ca6827da8267fa36510c4b3dce]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2019/9/section/13) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-5786c3ca6827da8267fa36510c4b3dce]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2019/9/section/13) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-3271d5510518258d68949574abfe54c5]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2019/9/section/14) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-3271d5510518258d68949574abfe54c5]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2019/9/section/14) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-0c2184347015e573fc626878e17ea62c]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2019/9/section/15) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-0c2184347015e573fc626878e17ea62c]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2019/9/section/15) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-6c1b11502ea729195c2e193ce3064904]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2019/9/section/16) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-6c1b11502ea729195c2e193ce3064904]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2019/9/section/16) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-86f36975ee966e2e1b35792f6f26dea1]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2019/9/section/17) in force at 16.10.2019 for specified purposes by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-86f36975ee966e2e1b35792f6f26dea1]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2019/9/section/17) in force at 16.10.2019 for specified purposes by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-c8e45139ef0a82169587b29f6124c9f6]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2019/9/section/17) in force at 1.4.2020 in so far as not already in force by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2019/308/regulation/3/2) (as amended by S.S.I. 2020/85, regs. 1, 2)
+[^c-c8e45139ef0a82169587b29f6124c9f6]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2019/9/section/17) in force at 1.4.2020 in so far as not already in force by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2019/308/regulation/3/2) (as amended by S.S.I. 2020/85, regs. 1, 2)
 
-[^key-73f0d29d9ef2a6e4ce6aca40e275e1b7]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2019/9/section/18) in force at 1.4.2020 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2019/308/regulation/3/2) (as amended by S.S.I. 2020/85, regs. 1, 2)
+[^c-73f0d29d9ef2a6e4ce6aca40e275e1b7]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2019/9/section/18) in force at 1.4.2020 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2019/308/regulation/3/2) (as amended by S.S.I. 2020/85, regs. 1, 2)
 
-[^key-ac278ab4007859be0aad3f345b7ca9d4]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2019/9/section/19) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-ac278ab4007859be0aad3f345b7ca9d4]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2019/9/section/19) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-c1797135dc308351c13e3b0abe1ed52b]: Commencement: S. 20(1) in force at 1.6.2020 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2019/308/regulation/3) (as amended (31.3.2020) by [S.S.I. 2020/85](https://www.legislation.gov.uk/ssi/2020/85), [regs. 1](https://www.legislation.gov.uk/ssi/2020/85/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/85/regulation/2))
+[^c-c1797135dc308351c13e3b0abe1ed52b]: Commencement: S. 20(1) in force at 1.6.2020 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2019/308/regulation/3) (as amended (31.3.2020) by [S.S.I. 2020/85](https://www.legislation.gov.uk/ssi/2020/85), [regs. 1](https://www.legislation.gov.uk/ssi/2020/85/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/85/regulation/2))
 
-[^key-2b0cee115696205910d39f147e644dbb]: Commencement: S. 20(2) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-2b0cee115696205910d39f147e644dbb]: Commencement: S. 20(2) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-e277021731fa5e9fc1f309561c3a967f]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2019/9/section/21) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-e277021731fa5e9fc1f309561c3a967f]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2019/9/section/21) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-e159cb423552028650aa7d390ecb6927]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2019/9/schedule/1/paragraph/1) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-e159cb423552028650aa7d390ecb6927]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2019/9/schedule/1/paragraph/1) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-fda3fe4f6b4704b4193ad371e94905c9]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2019/9/schedule/1/paragraph/2) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-fda3fe4f6b4704b4193ad371e94905c9]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2019/9/schedule/1/paragraph/2) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-06a2474abd20e78141f04aa65b8a3025]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2019/9/schedule/1/paragraph/3) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-06a2474abd20e78141f04aa65b8a3025]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2019/9/schedule/1/paragraph/3) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-228dafeb8c6297049223279819f142e1]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2019/9/schedule/1/paragraph/4) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-228dafeb8c6297049223279819f142e1]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2019/9/schedule/1/paragraph/4) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-e1232e095eeed077a740a9ca9025c7c4]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2019/9/schedule/1/paragraph/5) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-e1232e095eeed077a740a9ca9025c7c4]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2019/9/schedule/1/paragraph/5) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-1aa3dbebdb50afda9fcce63fd0a82306]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2019/9/schedule/1/paragraph/6) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-1aa3dbebdb50afda9fcce63fd0a82306]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2019/9/schedule/1/paragraph/6) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-af0f39948831afbe3392caef5dcd840d]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2019/9/schedule/1/paragraph/7) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-af0f39948831afbe3392caef5dcd840d]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2019/9/schedule/1/paragraph/7) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-4a9f12deab355fb91a5e10791fc77fe8]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2019/9/schedule/1/paragraph/8) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-4a9f12deab355fb91a5e10791fc77fe8]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2019/9/schedule/1/paragraph/8) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-bc566d8b01c524e76330f34ac2f389a4]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2019/9/schedule/1/paragraph/9) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-bc566d8b01c524e76330f34ac2f389a4]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2019/9/schedule/1/paragraph/9) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-86bc48d01f316ccde1660e044729ca86]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asp/2019/9/schedule/1/paragraph/10) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-86bc48d01f316ccde1660e044729ca86]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asp/2019/9/schedule/1/paragraph/10) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-af1facab40677617ce2b61dd7e825106]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/1) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-af1facab40677617ce2b61dd7e825106]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/1) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-08fa9759dc9822b964ee3f5e9ea55a1a]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/2) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-08fa9759dc9822b964ee3f5e9ea55a1a]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/2) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-549989850a5126b52421854e4b2773ab]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/3) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-549989850a5126b52421854e4b2773ab]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/3) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-ee54b3cb20168e0acf0857aca14aec60]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/4) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-ee54b3cb20168e0acf0857aca14aec60]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/4) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-ceea13d38d49940529d236824d111ea2]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/5) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-ceea13d38d49940529d236824d111ea2]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/5) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-2a644dab33a17fa0dc12934281d3735e]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/6) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-2a644dab33a17fa0dc12934281d3735e]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/6) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-c14a9bfab9c322e38a9c2112abd5fa5e]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/7) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-c14a9bfab9c322e38a9c2112abd5fa5e]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/7) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-8fe696919bb8b715043ee0088346f9a1]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/8) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-8fe696919bb8b715043ee0088346f9a1]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/8) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-d6ceb8329b51e085da2304c573069ae1]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/9) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-d6ceb8329b51e085da2304c573069ae1]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/9) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-a50f5b46a52b0a1160e78c19a09eaa60]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/10) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-a50f5b46a52b0a1160e78c19a09eaa60]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/10) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-418a36ae94641e593f09a8dbd39d6c78]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/11) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-418a36ae94641e593f09a8dbd39d6c78]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/11) in force at 16.10.2019 by [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)

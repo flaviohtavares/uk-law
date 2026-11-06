@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 213U. Powers for prosecutors to appear in proceedings[^key-403d5302d229bcbcdcc03dacdb8f36e6]
+## 213U. Powers for prosecutors to appear in proceedings[^c-403d5302d229bcbcdcc03dacdb8f36e6]
 
 *Extent: E+W+S+N.I.*
 
-(1) The Director of Public Prosecutions or the Director of Public Prosecutions for Northern Ireland[^key-6028db698b172dc8c5c9a41b32766220] may appear for a constable under this Part if the Director—
+(1) The Director of Public Prosecutions or the Director of Public Prosecutions for Northern Ireland[^c-6028db698b172dc8c5c9a41b32766220] may appear for a constable under this Part if the Director—
 
 - (a) is asked by, or on behalf of, a constable to do so, and
 - (b) considers it appropriate to do so.
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-403d5302d229bcbcdcc03dacdb8f36e6]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2005/3181/part/5A) inserted (12.11.2019) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [30](https://www.legislation.gov.uk/uksi/2018/1078/article/30)
+[^c-403d5302d229bcbcdcc03dacdb8f36e6]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2005/3181/part/5A) inserted (12.11.2019) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [30](https://www.legislation.gov.uk/uksi/2018/1078/article/30)
 
-[^key-6028db698b172dc8c5c9a41b32766220]: Textual amendment: Words in [art. 213U(1)](https://www.legislation.gov.uk/uksi/2005/3181/article/213U/1) inserted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [17](https://www.legislation.gov.uk/uksi/2021/638/article/17)
+[^c-6028db698b172dc8c5c9a41b32766220]: Textual amendment: Words in [art. 213U(1)](https://www.legislation.gov.uk/uksi/2005/3181/article/213U/1) inserted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [17](https://www.legislation.gov.uk/uksi/2021/638/article/17)

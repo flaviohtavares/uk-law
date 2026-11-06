@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-f31b92328b342173a300654959e57b0c]
+## 1. Citation and commencement[^c-f31b92328b342173a300654959e57b0c]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Domestic Renewable Heat Incentive Scheme R
 
 ## Annotations
 
-[^key-f31b92328b342173a300654959e57b0c]: Commencement: Reg. 1 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-f31b92328b342173a300654959e57b0c]: Commencement: Reg. 1 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)

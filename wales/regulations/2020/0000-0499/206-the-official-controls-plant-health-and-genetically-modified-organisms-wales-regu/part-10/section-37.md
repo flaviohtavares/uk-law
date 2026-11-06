@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Service of notices[^key-42f417b3f37a3703b042066e8dc7f136]
+## 37. Service of notices[^c-42f417b3f37a3703b042066e8dc7f136]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 - (b) leaving it at, or sending it by post to, the person's last known place of abode or business, or
 - (c) sending it to any email address that the person has given to the appropriate authority for the service of notices.
 
-(3) If a notice is to be given by a plant health inspector or the appropriate authority[^key-109cfa0658bb2c8ed159e298df3cbf7d] to an occupier or other person in charge of premises and the last known place of abode or address of that person cannot be ascertained after reasonable enquiry, the notice may be served on that person by addressing it to “the occupier” and leaving it conspicuously affixed to an object on the premises for a period of seven days.
+(3) If a notice is to be given by a plant health inspector or the appropriate authority[^c-109cfa0658bb2c8ed159e298df3cbf7d] to an occupier or other person in charge of premises and the last known place of abode or address of that person cannot be ascertained after reasonable enquiry, the notice may be served on that person by addressing it to “the occupier” and leaving it conspicuously affixed to an object on the premises for a period of seven days.
 
 (4) A notice may—
 
@@ -44,15 +44,15 @@ summary: ''
 
 (6) In this regulation—
 
-- “**notice**” (“***hysbysiad***”) means a notice to be given by a plant health inspector or the appropriate authority[^key-cf9cd0709fc0bbba5347bdd4fb6d6183] under these Regulations;
+- “**notice**” (“***hysbysiad***”) means a notice to be given by a plant health inspector or the appropriate authority[^c-cf9cd0709fc0bbba5347bdd4fb6d6183] under these Regulations;
 - “**contact address**” (“***cyfeiriad cysylltu***”), in relation to a registered operator, means—
   - (a) the operator's principal address in the register, or
   - (b) any other postal address in Wales that the operator has given to the appropriate authority as a contact address for the service of notices.
 
 ## Annotations
 
-[^key-42f417b3f37a3703b042066e8dc7f136]: Commencement: Reg. 37 in force at 27.3.2020, see reg. 1
+[^c-42f417b3f37a3703b042066e8dc7f136]: Commencement: Reg. 37 in force at 27.3.2020, see reg. 1
 
-[^key-109cfa0658bb2c8ed159e298df3cbf7d]: Textual amendment: Words in reg. 37(3) inserted (15.12.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/1303)](https://www.legislation.gov.uk/wsi/2020/1303), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1303/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/wsi/2020/1303/regulation/2/4/a)
+[^c-109cfa0658bb2c8ed159e298df3cbf7d]: Textual amendment: Words in reg. 37(3) inserted (15.12.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/1303)](https://www.legislation.gov.uk/wsi/2020/1303), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1303/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/wsi/2020/1303/regulation/2/4/a)
 
-[^key-cf9cd0709fc0bbba5347bdd4fb6d6183]: Textual amendment: Words in reg. 37(6) inserted (15.12.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/1303)](https://www.legislation.gov.uk/wsi/2020/1303), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1303/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/wsi/2020/1303/regulation/2/4/b)
+[^c-cf9cd0709fc0bbba5347bdd4fb6d6183]: Textual amendment: Words in reg. 37(6) inserted (15.12.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/1303)](https://www.legislation.gov.uk/wsi/2020/1303), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1303/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/wsi/2020/1303/regulation/2/4/b)

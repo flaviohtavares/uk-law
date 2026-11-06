@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Statement of proposed administrator[^key-eda2ce2b97dee9b0185c5c5ceba9e300]
+## 7. Statement of proposed administrator[^c-eda2ce2b97dee9b0185c5c5ceba9e300]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ An application for a special administration order must be accompanied by a state
 
 ## Annotations
 
-[^key-eda2ce2b97dee9b0185c5c5ceba9e300]: Commencement: Rule 7 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-eda2ce2b97dee9b0185c5c5ceba9e300]: Commencement: Rule 7 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

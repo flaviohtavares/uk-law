@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Changes to timing or location[^key-156515f2bc7a8c2213e8e3cf42482f20]
+## 117. Changes to timing or location[^c-156515f2bc7a8c2213e8e3cf42482f20]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-156515f2bc7a8c2213e8e3cf42482f20]: Commencement: Reg. 117 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-156515f2bc7a8c2213e8e3cf42482f20]: Commencement: Reg. 117 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

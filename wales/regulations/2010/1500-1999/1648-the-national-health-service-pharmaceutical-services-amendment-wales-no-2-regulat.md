@@ -31,7 +31,7 @@ summary: ''
 
 NATIONAL HEALTH SERVICE, WALES
 
-The National Health Service (Pharmaceutical Services) (Amendment) (Wales) (No. 2) Regulations 2010 (revoked)[^key-25a2ce4a2be382e2545746b5e7e92fe2]
+The National Health Service (Pharmaceutical Services) (Amendment) (Wales) (No. 2) Regulations 2010 (revoked)[^c-25a2ce4a2be382e2545746b5e7e92fe2]
 
 Made
 
@@ -45,35 +45,35 @@ Coming into force
 
 14 July 2010
 
-[^key-25a2ce4a2be382e2545746b5e7e92fe2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25a2ce4a2be382e2545746b5e7e92fe2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, application and interpretation[^key-25a2ce4a2be382e2545746b5e7e92fe2]
+## 1. Title, commencement, application and interpretation[^c-25a2ce4a2be382e2545746b5e7e92fe2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 2 of the principal Regulation[^key-25a2ce4a2be382e2545746b5e7e92fe2]
+## 2. Amendment of regulation 2 of the principal Regulation[^c-25a2ce4a2be382e2545746b5e7e92fe2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to Schedule 2 to the principal Regulations[^key-25a2ce4a2be382e2545746b5e7e92fe2]
+## 3. Amendments to Schedule 2 to the principal Regulations[^c-25a2ce4a2be382e2545746b5e7e92fe2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments to Schedule 2A to the principal Regulations[^key-25a2ce4a2be382e2545746b5e7e92fe2]
+## 4. Amendments to Schedule 2A to the principal Regulations[^c-25a2ce4a2be382e2545746b5e7e92fe2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments to the National Health Service (Pharmaceutical Services) (Amendment) (Wales) Regulations 2010[^key-25a2ce4a2be382e2545746b5e7e92fe2]
+## 5. Amendments to the National Health Service (Pharmaceutical Services) (Amendment) (Wales) Regulations 2010[^c-25a2ce4a2be382e2545746b5e7e92fe2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-25a2ce4a2be382e2545746b5e7e92fe2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25a2ce4a2be382e2545746b5e7e92fe2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Paragraph to be substituted for paragraph 22 (complaints) of Schedule 2A to the principal Regulations[^key-25a2ce4a2be382e2545746b5e7e92fe2]
+## SCHEDULE — Paragraph to be substituted for paragraph 22 (complaints) of Schedule 2A to the principal Regulations[^c-25a2ce4a2be382e2545746b5e7e92fe2]
 
 Regulation 4(10)
 
@@ -81,8 +81,8 @@ Regulation 4(10)
 
 **May not be in force at this date. Check the source.**
 
-[^key-25a2ce4a2be382e2545746b5e7e92fe2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25a2ce4a2be382e2545746b5e7e92fe2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-25a2ce4a2be382e2545746b5e7e92fe2]: Textual amendment: Regulations revoked (10.5.2013) by [The National Health Service (Pharmaceutical Services) (Wales) Regulations 2013 (S.I. 2013/898)](https://www.legislation.gov.uk/uksi/2013/898), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/898/regulation/1/2), [Sch. 8 para. 24](https://www.legislation.gov.uk/uksi/2013/898/schedule/8/paragraph/24)
+[^c-25a2ce4a2be382e2545746b5e7e92fe2]: Textual amendment: Regulations revoked (10.5.2013) by [The National Health Service (Pharmaceutical Services) (Wales) Regulations 2013 (S.I. 2013/898)](https://www.legislation.gov.uk/uksi/2013/898), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/898/regulation/1/2), [Sch. 8 para. 24](https://www.legislation.gov.uk/uksi/2013/898/schedule/8/paragraph/24)

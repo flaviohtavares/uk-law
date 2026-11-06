@@ -52,15 +52,15 @@ The Secretary of State, acting in relation to river basin districts that are who
 
 The Secretary of State is designated for the purposes of that section in relation to matters relating to the environment[^f00002], and the Welsh Ministers are designated for the purposes of that section in relation to water resources[^f00003].
 
-## 1. Citation and commencement[^key-43602fc5316d270fe714c2068d542d82]
+## 1. Citation and commencement[^c-43602fc5316d270fe714c2068d542d82]
 
 These Regulations may be cited as the Water Environment (Water Framework Directive) (England and Wales) (Amendment) Regulations 2015 and come into force on 14th September 2015.
 
-## 2. Amendments to the Water Environment (Water Framework Directive) (England and Wales) Regulations 2003[^key-e2a124e8cb8356570af79d5e2c2d7cbb]
+## 2. Amendments to the Water Environment (Water Framework Directive) (England and Wales) Regulations 2003[^c-e2a124e8cb8356570af79d5e2c2d7cbb]
 
 The Water Environment (Water Framework Directive) (England and Wales) Regulations 2003[^f00004] are amended in accordance with regulations 3 to 13.
 
-## 3. Regulation 2 (interpretation)[^key-a3ceb26396ea94246848e14ed24d213b]
+## 3. Regulation 2 (interpretation)[^c-a3ceb26396ea94246848e14ed24d213b]
 
 (1) In regulation 2(1)—
 
@@ -91,7 +91,7 @@ The Water Environment (Water Framework Directive) (England and Wales) Regulation
 - (a) in the opening words and in paragraphs (a) and (b), omit each “and each of its principal regional offices”; and
 - (b) in paragraph (c), omit “and each of their principal regional offices”.
 
-## 4. Regulation 3 (the general duties)[^key-f17688d576ab5e0e5b08fd787bb9d83e]
+## 4. Regulation 3 (the general duties)[^c-f17688d576ab5e0e5b08fd787bb9d83e]
 
 (1) In regulation 3(1)—
 
@@ -100,7 +100,7 @@ The Water Environment (Water Framework Directive) (England and Wales) Regulation
 
 (2) In regulation 3(2), for “of the Directive for the achievement of its environmental objectives”, substitute “of the Directive and the EQS Directive for the achievement of the environmental objectives”.
 
-## 5. Regulation 9 (monitoring)[^key-641785b26f059f762aef80c47b0108b0]
+## 5. Regulation 9 (monitoring)[^c-641785b26f059f762aef80c47b0108b0]
 
 In regulation 9, after paragraph (4) insert—
 
@@ -108,7 +108,7 @@ In regulation 9, after paragraph (4) insert—
 
 .
 
-## 6. Regulation 10 (environmental objectives and programmes of measures)[^key-3bf9fc295b3dca00d0337cccc2a23cac]
+## 6. Regulation 10 (environmental objectives and programmes of measures)[^c-3bf9fc295b3dca00d0337cccc2a23cac]
 
 In regulation 10, after paragraph (5) insert—
 
@@ -116,7 +116,7 @@ In regulation 10, after paragraph (5) insert—
 
 .
 
-## 7. New regulation 10A (further programmes of measures)[^key-6fc223387dd4d9f7bc12f484e423bfa5]
+## 7. New regulation 10A (further programmes of measures)[^c-6fc223387dd4d9f7bc12f484e423bfa5]
 
 After regulation 10 insert—
 
@@ -136,7 +136,7 @@ After regulation 10 insert—
 
 .
 
-## 8. Regulation 11 (river basin management plans)[^key-4b4e98a0ad0a56a401b4488b59deab5f]
+## 8. Regulation 11 (river basin management plans)[^c-4b4e98a0ad0a56a401b4488b59deab5f]
 
 (1) In regulation 11(2)(b), after “the Directive” insert “and the EQS Directive”.
 
@@ -150,7 +150,7 @@ After regulation 10 insert—
 
 .
 
-## 9. Regulation 18 (publication of information)[^key-28fbf1047cc8661d4b85913cc688e7c6]
+## 9. Regulation 18 (publication of information)[^c-28fbf1047cc8661d4b85913cc688e7c6]
 
 In regulation 18, after paragraph (3) insert—
 
@@ -158,7 +158,7 @@ In regulation 18, after paragraph (3) insert—
 
 .
 
-## 10. New regulation 18A[^key-c3ee7b7a567e80c8fa252d727820c271]
+## 10. New regulation 18A[^c-c3ee7b7a567e80c8fa252d727820c271]
 
 After regulation 18 insert—
 
@@ -177,7 +177,7 @@ After regulation 18 insert—
 
 .
 
-## 11. Schedule 1 (Directive definitions)[^key-dceb9d0f733b5188c7c5675f4b34c35c]
+## 11. Schedule 1 (Directive definitions)[^c-dceb9d0f733b5188c7c5675f4b34c35c]
 
 In Schedule 1, in the appropriate place insert—
 
@@ -185,7 +185,7 @@ In Schedule 1, in the appropriate place insert—
 
 .
 
-## 12. Schedule 2 (enactments in relation to which duties in regulation 3 apply)[^key-9165b421aae5dc64679386fffa732259]
+## 12. Schedule 2 (enactments in relation to which duties in regulation 3 apply)[^c-9165b421aae5dc64679386fffa732259]
 
 (1) In Part 1 of Schedule 2—
 
@@ -204,7 +204,7 @@ In Schedule 1, in the appropriate place insert—
 
 (2) For Part 2 of Schedule 2, substitute the Part in the Schedule to these Regulations.
 
-## 13. Further miscellaneous amendments[^key-cb0ef9db4383838f76fb5900daa43d31]
+## 13. Further miscellaneous amendments[^c-cb0ef9db4383838f76fb5900daa43d31]
 
 (1) For regulation 4, substitute—
 
@@ -244,7 +244,7 @@ On behalf of the Minister for Natural Resources One of the Welsh Ministers
 
 20th August 2015
 
-## SCHEDULE — New Part 2 of Schedule 2 to the 2003 Regulations[^key-631e2c20e4c92c58b0765b2fc94316a4]
+## SCHEDULE — New Part 2 of Schedule 2 to the 2003 Regulations[^c-631e2c20e4c92c58b0765b2fc94316a4]
 
 Regulation 12(2)
 
@@ -302,33 +302,33 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00003]: Footnote: [S.I. 2003/2901](https://www.legislation.gov.uk/uksi/2003/2901), to which there are amendments not relevant to these Regulations.
 
-[^key-43602fc5316d270fe714c2068d542d82]: Commencement: Reg. 1 in force at 14.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1623/regulation/1)
+[^c-43602fc5316d270fe714c2068d542d82]: Commencement: Reg. 1 in force at 14.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1623/regulation/1)
 
-[^key-e2a124e8cb8356570af79d5e2c2d7cbb]: Commencement: Reg. 2 in force at 14.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1623/regulation/1)
+[^c-e2a124e8cb8356570af79d5e2c2d7cbb]: Commencement: Reg. 2 in force at 14.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1623/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2003/3242](https://www.legislation.gov.uk/uksi/2003/3242), amended by [S.I. 2013/755 (W.90)](https://www.legislation.gov.uk/wsi/2013/755); there are other amending instruments but none is relevant.
 
-[^key-a3ceb26396ea94246848e14ed24d213b]: Commencement: Reg. 3 in force at 14.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1623/regulation/1)
+[^c-a3ceb26396ea94246848e14ed24d213b]: Commencement: Reg. 3 in force at 14.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1623/regulation/1)
 
 [^f00005]: Footnote: OJ No L 327, 22.12.2000, p1, as last amended by Commission Directive 2014/101/EU (OJ No L 311, 31.10.2014, p32). The effect of section 20A of the Interpretation Act [1978 (c.30)](https://www.legislation.gov.uk/ukpga/1978/30) is that the updated reference to [Directive 2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) is to that Directive as last amended by Commission Directive 2014/101/EU.
 
 [^f00006]: Footnote: OJ No L 348, 24.12.2008, p84, as last amended by Directive 2013/39/EU (OJ No L 226, 24.8.2013, p1).
 
-[^key-f17688d576ab5e0e5b08fd787bb9d83e]: Commencement: Reg. 4 in force at 14.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1623/regulation/1)
+[^c-f17688d576ab5e0e5b08fd787bb9d83e]: Commencement: Reg. 4 in force at 14.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1623/regulation/1)
 
-[^key-641785b26f059f762aef80c47b0108b0]: Commencement: Reg. 5 in force at 14.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1623/regulation/1)
+[^c-641785b26f059f762aef80c47b0108b0]: Commencement: Reg. 5 in force at 14.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1623/regulation/1)
 
-[^key-3bf9fc295b3dca00d0337cccc2a23cac]: Commencement: Reg. 6 in force at 14.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1623/regulation/1)
+[^c-3bf9fc295b3dca00d0337cccc2a23cac]: Commencement: Reg. 6 in force at 14.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1623/regulation/1)
 
-[^key-6fc223387dd4d9f7bc12f484e423bfa5]: Commencement: Reg. 7 in force at 14.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1623/regulation/1)
+[^c-6fc223387dd4d9f7bc12f484e423bfa5]: Commencement: Reg. 7 in force at 14.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1623/regulation/1)
 
-[^key-4b4e98a0ad0a56a401b4488b59deab5f]: Commencement: Reg. 8 in force at 14.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1623/regulation/1)
+[^c-4b4e98a0ad0a56a401b4488b59deab5f]: Commencement: Reg. 8 in force at 14.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1623/regulation/1)
 
-[^key-28fbf1047cc8661d4b85913cc688e7c6]: Commencement: Reg. 9 in force at 14.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1623/regulation/1)
+[^c-28fbf1047cc8661d4b85913cc688e7c6]: Commencement: Reg. 9 in force at 14.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1623/regulation/1)
 
 [^f00007]: Footnote: OJ No L 41, 14.2.2003, p26.
 
-[^key-c3ee7b7a567e80c8fa252d727820c271]: Commencement: Reg. 10 in force at 14.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1623/regulation/1)
+[^c-c3ee7b7a567e80c8fa252d727820c271]: Commencement: Reg. 10 in force at 14.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1623/regulation/1)
 
 [^f00008]: Footnote: OJ No L 309, 24.11.2009, p1, as last amended by Regulation (EU) No 652/2014 (OJ No L 189, 27.6.2014, p1).
 
@@ -338,17 +338,17 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00011]: Footnote: [S.I. 2013/1506](https://www.legislation.gov.uk/uksi/2013/1506), to which there are amendments not relevant to these Regulations.
 
-[^key-dceb9d0f733b5188c7c5675f4b34c35c]: Commencement: Reg. 11 in force at 14.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1623/regulation/1)
+[^c-dceb9d0f733b5188c7c5675f4b34c35c]: Commencement: Reg. 11 in force at 14.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1623/regulation/1)
 
-[^key-9165b421aae5dc64679386fffa732259]: Commencement: Reg. 12 in force at 14.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1623/regulation/1)
+[^c-9165b421aae5dc64679386fffa732259]: Commencement: Reg. 12 in force at 14.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1623/regulation/1)
 
 [^f00012]: Footnote: [1991 c.59](https://www.legislation.gov.uk/ukpga/1991/59).
 
 [^f00013]: Footnote: [2010 c.29](https://www.legislation.gov.uk/ukpga/2010/29).
 
-[^key-cb0ef9db4383838f76fb5900daa43d31]: Commencement: Reg. 13 in force at 14.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1623/regulation/1)
+[^c-cb0ef9db4383838f76fb5900daa43d31]: Commencement: Reg. 13 in force at 14.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1623/regulation/1)
 
-[^key-631e2c20e4c92c58b0765b2fc94316a4]: Commencement: Sch. in force at 14.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1623/regulation/1)
+[^c-631e2c20e4c92c58b0765b2fc94316a4]: Commencement: Sch. in force at 14.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1623/regulation/1)
 
 [^f00014]: Footnote: [S.I. 1989/1263](https://www.legislation.gov.uk/uksi/1989/1263), amended by [S.I. 1990/880](https://www.legislation.gov.uk/uksi/1990/880), [1996/593](https://www.legislation.gov.uk/uksi/1996/593), [2000/656](https://www.legislation.gov.uk/uksi/2000/656), [2010/1159](https://www.legislation.gov.uk/uksi/2010/1159), [1820 (W.177)](https://www.legislation.gov.uk/wsi/2010/1820) and [2013/755 (W.90)](https://www.legislation.gov.uk/wsi/2013/755).
 

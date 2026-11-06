@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 225. Offences[^key-f5fdd9d87f97e13daebca7f672304294]
+## 225. Offences[^c-f5fdd9d87f97e13daebca7f672304294]
 
 *Extent: E+W+S+N.I.*
 
@@ -75,4 +75,4 @@ as if the offence had been committed in that district (and in that event the off
 
 ## Annotations
 
-[^key-f5fdd9d87f97e13daebca7f672304294]: Commencement: S. 225 in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/8)
+[^c-f5fdd9d87f97e13daebca7f672304294]: Commencement: S. 225 in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/8)

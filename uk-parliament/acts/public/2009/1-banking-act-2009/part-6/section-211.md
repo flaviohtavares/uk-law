@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 211. “Commencement”[^key-59d4b87c54166bfbd4aaaed816de124b]
+## 211. “Commencement”[^c-59d4b87c54166bfbd4aaaed816de124b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In this Part “**commencement**” means the date set for the coming into force
 
 ## Annotations
 
-[^key-59d4b87c54166bfbd4aaaed816de124b]: Commencement: S. 211 in force at 23.11.2009 by [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
+[^c-59d4b87c54166bfbd4aaaed816de124b]: Commencement: S. 211 in force at 23.11.2009 by [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)

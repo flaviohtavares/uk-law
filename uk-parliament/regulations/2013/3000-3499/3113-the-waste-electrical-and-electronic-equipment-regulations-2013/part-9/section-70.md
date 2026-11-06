@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Approval of designated collection facilities[^key-9bc0dc49239e4bcad8ee12a310c8776f]
+## 70. Approval of designated collection facilities[^c-9bc0dc49239e4bcad8ee12a310c8776f]
 
 *Extent: E+W+S+N.I.*
 
 (1) The Secretary of State may, after consultation with such persons or bodies as appear to him representative of the interests concerned, approve any establishment or undertaking carrying out collection operations as a designated collection facility.
 
-(2) The Secretary of State must[^key-c82a64d71965afd1cc3a82fd83d5d13c] not approve any establishment or undertaking under paragraph (1) unless he is satisfied that the criteria set out in Schedule 12 are met.
+(2) The Secretary of State must[^c-c82a64d71965afd1cc3a82fd83d5d13c] not approve any establishment or undertaking under paragraph (1) unless he is satisfied that the criteria set out in Schedule 12 are met.
 
 (3) The Secretary of State may review any decision made under paragraph (1) at any time.
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9bc0dc49239e4bcad8ee12a310c8776f]: Commencement: Reg. 70 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-9bc0dc49239e4bcad8ee12a310c8776f]: Commencement: Reg. 70 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
 
-[^key-c82a64d71965afd1cc3a82fd83d5d13c]: Textual amendment: Word in [reg. 70(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/70/2) substituted (25.7.2014) by virtue of [The Waste Electrical and Electronic Equipment and Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2014 (S.I. 2014/1771)](https://www.legislation.gov.uk/uksi/2014/1771), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/1/b), [3(3)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/3/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1771/schedule/2/part/1)
+[^c-c82a64d71965afd1cc3a82fd83d5d13c]: Textual amendment: Word in [reg. 70(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/70/2) substituted (25.7.2014) by virtue of [The Waste Electrical and Electronic Equipment and Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2014 (S.I. 2014/1771)](https://www.legislation.gov.uk/uksi/2014/1771), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/1/b), [3(3)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/3/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1771/schedule/2/part/1)

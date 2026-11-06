@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76D. Deciding applications made under section 62A[^key-5b76aed25bf17f9d2fdc9f61c41c6bed]
+## 76D. Deciding applications made under section 62A[^c-5b76aed25bf17f9d2fdc9f61c41c6bed]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) revoke the person's appointment; and
 - (b) appoint another person to determine the application instead.
 
-(3) A person appointed under this section to determine an application for planning permission or permission in principle[^key-f7b919e7087112c50965599a35c5a7ef] made to the Secretary of State under section 62A has the same powers and duties that the Secretary of State has under section 76C.
+(3) A person appointed under this section to determine an application for planning permission or permission in principle[^c-f7b919e7087112c50965599a35c5a7ef] made to the Secretary of State under section 62A has the same powers and duties that the Secretary of State has under section 76C.
 
 (4) Where a direct application is determined by a person appointed under this section, the person's decision is to be treated as that of the Secretary of State.
 
@@ -44,6 +44,6 @@ then, so far as the context permits, the enactment is to be read, in relation to
 
 ## Annotations
 
-[^key-5b76aed25bf17f9d2fdc9f61c41c6bed]: Textual amendment: Ss. 76C-76E inserted (9.5.2013 for E. for specified purposes, 1.10.2013 for specified purposes, 1.10.2014 in so far as not already in force) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [s. 35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/5); [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2); [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/1/a); S.I. 2014/1531, art. 2
+[^c-5b76aed25bf17f9d2fdc9f61c41c6bed]: Textual amendment: Ss. 76C-76E inserted (9.5.2013 for E. for specified purposes, 1.10.2013 for specified purposes, 1.10.2014 in so far as not already in force) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [s. 35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/5); [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2); [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/1/a); S.I. 2014/1531, art. 2
 
-[^key-f7b919e7087112c50965599a35c5a7ef]: Textual amendment: Words in [s. 76D(3)](https://www.legislation.gov.uk/ukpga/1990/8/section/76D/3) inserted (13.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 12 para. 19](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/19); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-f7b919e7087112c50965599a35c5a7ef]: Textual amendment: Words in [s. 76D(3)](https://www.legislation.gov.uk/ukpga/1990/8/section/76D/3) inserted (13.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 12 para. 19](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/19); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)

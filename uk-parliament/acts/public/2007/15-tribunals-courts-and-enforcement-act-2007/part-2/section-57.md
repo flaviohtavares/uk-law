@@ -24,7 +24,7 @@ summary: ''
 
 (2) In subsection (1)—
 
-- (a)[^key-751bf7b5364bbf9fd31a95528f2a9f60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-751bf7b5364bbf9fd31a95528f2a9f60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for “the Lord Chief Justice may, after consulting the Lord Chancellor,” substitute “ the Lord Chancellor may ”.
 
 (3) After subsection (1) insert—
@@ -42,7 +42,7 @@ summary: ''
 
 > (3) An appointment under this section may extend until the day on which a person attains the age of seventy-five years if it is an appointment of a holder of relevant office.
 
-(5)[^key-4a85c8ccc3882697d22ad47ec96034c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-4a85c8ccc3882697d22ad47ec96034c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In section 92(1) of the Supreme Court Act 1981 after “this section” insert “ , to section 91(3) ”.
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-751bf7b5364bbf9fd31a95528f2a9f60]: Textual amendment: [S. 57(2)(a)](https://www.legislation.gov.uk/ukpga/2007/15/section/57/2/a) omitted (1.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 35(7)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/35/7); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-751bf7b5364bbf9fd31a95528f2a9f60]: Textual amendment: [S. 57(2)(a)](https://www.legislation.gov.uk/ukpga/2007/15/section/57/2/a) omitted (1.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 35(7)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/35/7); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-4a85c8ccc3882697d22ad47ec96034c2]: Textual amendment: [S. 57(5)](https://www.legislation.gov.uk/ukpga/2007/15/section/57/5) omitted (1.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 35(7)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/35/7); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-4a85c8ccc3882697d22ad47ec96034c2]: Textual amendment: [S. 57(5)](https://www.legislation.gov.uk/ukpga/2007/15/section/57/5) omitted (1.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 35(7)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/35/7); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)

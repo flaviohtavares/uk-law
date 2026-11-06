@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## 17D. Generating stations (other than microgenerators) accredited after feed-in tariffs become available[^key-b813e37f4b899e100dd0cd2ffc107a0c]
+## 17D. Generating stations (other than microgenerators) accredited after feed-in tariffs become available[^c-b813e37f4b899e100dd0cd2ffc107a0c]
 
 (1) This article applies to a generating station (other than a microgenerator or a generating station whose electricity is sold pursuant to a NFFO arrangement) in respect of which an application for accreditation is made and determined at a time when a relevant financial scheme (“the scheme”) is in force.
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b813e37f4b899e100dd0cd2ffc107a0c]: Textual amendment: Arts. 17A-17E inserted (1.4.2010) by [The Renewables Obligation (Scotland) Amendment Order 2010 (S.S.I. 2010/147)](https://www.legislation.gov.uk/ssi/2010/147), [arts. 1](https://www.legislation.gov.uk/ssi/2010/147/article/1), [8](https://www.legislation.gov.uk/ssi/2010/147/article/8) (with [art. 17](https://www.legislation.gov.uk/ssi/2010/147/article/17))
+[^c-b813e37f4b899e100dd0cd2ffc107a0c]: Textual amendment: Arts. 17A-17E inserted (1.4.2010) by [The Renewables Obligation (Scotland) Amendment Order 2010 (S.S.I. 2010/147)](https://www.legislation.gov.uk/ssi/2010/147), [arts. 1](https://www.legislation.gov.uk/ssi/2010/147/article/1), [8](https://www.legislation.gov.uk/ssi/2010/147/article/8) (with [art. 17](https://www.legislation.gov.uk/ssi/2010/147/article/17))

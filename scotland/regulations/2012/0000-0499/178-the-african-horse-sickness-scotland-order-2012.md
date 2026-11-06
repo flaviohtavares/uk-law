@@ -66,7 +66,7 @@ This Order—
 - “**carcase**” means carcase of a horse;
 - “**Chief Veterinary Officer**” means the Chief Veterinary Officer for Scotland;
 - “**contact premises**” means premises that have an epidemiological connection with infected premises, including those that due to their proximity to infected premises the Chief Veterinary Officer considers have an epidemiological connection with infected premises;
-- **[^key-7888e2ff9e89f18f85ca289f73870293]...**
+- **[^c-7888e2ff9e89f18f85ca289f73870293]...**
 - “**equipment**” means, except in article 28(3)(a), any equipment that may have been in contact with blood or other bodily fluids from a horse, including needles and surgical or dental equipment, unless that equipment has either been sterilised following such contact or is securely confined in a sharps container complying with British Standard 7320 [^c21268311] (or equivalent standard);
 - “**genetic material**” means any semen, ovum or embryo of a horse;
 - “**horse**” means any animal of the family Equidae and includes hybrids of those animals;
@@ -420,7 +420,7 @@ except under the authority of a licence granted by a veterinary inspector.
 
 (1) This article applies where—
 
-- (a) the presence of African horse sickness virus is suspected or officially confirmed [^key-84b57429f49f540958524b292923b5c8]... outside Scotland; and
+- (a) the presence of African horse sickness virus is suspected or officially confirmed [^c-84b57429f49f540958524b292923b5c8]... outside Scotland; and
 - (b) the Scottish Ministers consider that there is a risk of spread of African horse sickness virus to Scotland.
 
 (2) The Scottish Ministers may declare in Scotland any of the following—
@@ -535,8 +535,8 @@ A person must not vaccinate a horse against African horse sickness except—
 
 - (a) take with them any equipment; and
 - (b) be accompanied by—
-  - (i) such other person as they consider necessary; [^key-468847488043856a92c028aa4a65e3d1]...
-  - (ii)[^key-0d2cd36df8fbdf5be06be77202507a9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) such other person as they consider necessary; [^c-468847488043856a92c028aa4a65e3d1]...
+  - (ii)[^c-0d2cd36df8fbdf5be06be77202507a9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) A person entering premises under paragraph (1) may take a vehicle with them.
 
@@ -765,7 +765,7 @@ A business and regulatory impact assessment has been prepared and placed in the 
 
 [^c21268291]: Marginal citation: The powers to make this Order are exercised together by virtue of section 33(2) of the [Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10). The Order is subject to the negative procedure by virtue of section 33(4) of that Act.
 
-[^key-7888e2ff9e89f18f85ca289f73870293]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2012/178/article/2/1) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [30(2)](https://www.legislation.gov.uk/ssi/2019/71/regulation/30/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7888e2ff9e89f18f85ca289f73870293]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2012/178/article/2/1) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [30(2)](https://www.legislation.gov.uk/ssi/2019/71/regulation/30/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21268311]: Marginal citation: ISBN 0 580 18481 1, published 29th June 1990.
 
@@ -783,11 +783,11 @@ A business and regulatory impact assessment has been prepared and placed in the 
 
 [^c21268381]: Marginal citation: See also the power of the Scottish Ministers under article 17 to declare a temporary control zone.
 
-[^key-84b57429f49f540958524b292923b5c8]: Textual amendment: Words in [art. 20(1)(a)](https://www.legislation.gov.uk/ssi/2012/178/article/20/1/a) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [30(3)](https://www.legislation.gov.uk/ssi/2019/71/regulation/30/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-84b57429f49f540958524b292923b5c8]: Textual amendment: Words in [art. 20(1)(a)](https://www.legislation.gov.uk/ssi/2012/178/article/20/1/a) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [30(3)](https://www.legislation.gov.uk/ssi/2019/71/regulation/30/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-468847488043856a92c028aa4a65e3d1]: Textual amendment: Word in [art. 28(3)(b)](https://www.legislation.gov.uk/ssi/2012/178/article/28/3/b) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [30(4)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/30/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-468847488043856a92c028aa4a65e3d1]: Textual amendment: Word in [art. 28(3)(b)](https://www.legislation.gov.uk/ssi/2012/178/article/28/3/b) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [30(4)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/30/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0d2cd36df8fbdf5be06be77202507a9c]: Textual amendment: [Art. 28(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2012/178/article/28/3/b/ii) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [30(4)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/30/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0d2cd36df8fbdf5be06be77202507a9c]: Textual amendment: [Art. 28(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2012/178/article/28/3/b/ii) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [30(4)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/30/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21268391]: Marginal citation: [1981 c.22](https://www.legislation.gov.uk/ukpga/1981/22).
 

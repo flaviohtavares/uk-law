@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 115. Appeals: granting of leave or permission and assessment of grounds of appeal[^key-02ea267508cb3c140e545d7c783dcc68]
+## 115. Appeals: granting of leave or permission and assessment of grounds of appeal[^c-02ea267508cb3c140e545d7c783dcc68]
 
 *Extent: S*
 
@@ -67,4 +67,4 @@ In the Court of Session Act 1988, after section 31 insert—
 
 ## Annotations
 
-[^key-02ea267508cb3c140e545d7c783dcc68]: Commencement: [S. 115](https://www.legislation.gov.uk/asp/2014/18/section/115) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-02ea267508cb3c140e545d7c783dcc68]: Commencement: [S. 115](https://www.legislation.gov.uk/asp/2014/18/section/115) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

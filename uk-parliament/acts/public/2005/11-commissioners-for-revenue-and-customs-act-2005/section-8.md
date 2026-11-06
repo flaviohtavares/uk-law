@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Power to transfer functions[^key-5bbde936bfdfe819659d724017af7a3c]
+## 8. Power to transfer functions[^c-5bbde936bfdfe819659d724017af7a3c]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5bbde936bfdfe819659d724017af7a3c]: Commencement: S. 8 in force at 18.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/e)
+[^c-5bbde936bfdfe819659d724017af7a3c]: Commencement: S. 8 in force at 18.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/e)

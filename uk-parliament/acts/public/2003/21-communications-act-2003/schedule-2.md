@@ -24,7 +24,7 @@ Section 30
 
 ### Contents of transfer scheme
 
-**1.**[^key-09ecf73a9047e470baa294a75dad091f] (1) A transfer scheme—
+**1.**[^c-09ecf73a9047e470baa294a75dad091f] (1) A transfer scheme—
 
 - (a) shall set out the property, rights and liabilities to be transferred by the scheme; and
 - (b) may make incidental, supplemental, consequential and transitional provision in connection with the transfer of that property and of those rights and liabilities.
@@ -54,7 +54,7 @@ as there would be, in the case of a transaction apart from this Act (whether und
 
 ### Effect of transfer scheme
 
-**2.**[^key-64798d0ead770801db94e7182039ebcb] (1) Property transferred by a transfer scheme shall, on the coming into force of the scheme, vest in OFCOM without further assurance.
+**2.**[^c-64798d0ead770801db94e7182039ebcb] (1) Property transferred by a transfer scheme shall, on the coming into force of the scheme, vest in OFCOM without further assurance.
 
 (2) Where any transfer scheme comes into force, any agreement made, transaction effected or other thing done by or in relation to the person from whom any transfers for which the scheme provides are made shall have effect, so far as necessary for the purposes of those transfers, as if—
 
@@ -79,7 +79,7 @@ that agreement, document, process or instrument shall have effect so far as nece
 
 ### Retrospective modification of a transfer scheme
 
-**3.**[^key-3acfd15b61e1cd91f936f681070355e4] (1) If at any time after the coming into force of a transfer scheme it appears to the Secretary of State that it is appropriate to do so, he may by order provide for the scheme to be deemed to have come into force with such modifications (including modifications retrospective to the time of the coming into force of the scheme) as may be provided for in the order.
+**3.**[^c-3acfd15b61e1cd91f936f681070355e4] (1) If at any time after the coming into force of a transfer scheme it appears to the Secretary of State that it is appropriate to do so, he may by order provide for the scheme to be deemed to have come into force with such modifications (including modifications retrospective to the time of the coming into force of the scheme) as may be provided for in the order.
 
 (2) The power under this paragraph to provide by order for the modification of a transfer scheme shall be exercisable for the purpose only of making provision that could have been made by the scheme.
 
@@ -87,7 +87,7 @@ that agreement, document, process or instrument shall have effect so far as nece
 
 ### Compensation
 
-**4.**[^key-6629a6a8161525bd444fec27cf12c4ce] (1) Where, in consequence of any provision included in a transfer scheme, the interests, rights or liabilities of a third party are modified as mentioned in sub-paragraph (2), the third party is to be entitled to such compensation as may be just in respect of—
+**4.**[^c-6629a6a8161525bd444fec27cf12c4ce] (1) Where, in consequence of any provision included in a transfer scheme, the interests, rights or liabilities of a third party are modified as mentioned in sub-paragraph (2), the third party is to be entitled to such compensation as may be just in respect of—
 
 - (a) any diminution in the value of any of his interests or rights, or
 - (b) any increase in the burden of his liabilities,
@@ -135,7 +135,7 @@ and that liability shall be apportioned between those persons in such manner as 
 
 ### Stamp duty
 
-**5.**[^key-741a548c1695f0a63a996d9500438b5b] (1) Stamp duty is not to be chargeable—
+**5.**[^c-741a548c1695f0a63a996d9500438b5b] (1) Stamp duty is not to be chargeable—
 
 - (a) on a transfer scheme; or
 - (b) on an instrument or agreement certified by the Secretary of State to the Commissioners of Inland Revenue as made for the purposes of a transfer scheme, or as made for purposes connected with such a scheme.
@@ -145,7 +145,7 @@ and that liability shall be apportioned between those persons in such manner as 
 - (a) in accordance with section 12 of the Stamp Act 1891 (c. 39) it has been stamped with a stamp denoting either that it is not chargeable to duty or that it has been duly stamped; or
 - (b) it is stamped with the duty to which it would be chargeable apart from this paragraph.
 
-#### 5A. Stamp duty land tax[^key-a56e429b3ec14958440c0ade555a2918]
+#### 5A. Stamp duty land tax[^c-a56e429b3ec14958440c0ade555a2918]
 
 (1) For the purposes of stamp duty land tax, a land transaction effected by, or for the purposes of, or for purposes connected with, a transfer scheme is exempt from charge.
 
@@ -158,20 +158,20 @@ and that liability shall be apportioned between those persons in such manner as 
 
 ### Interpretation of Schedule
 
-**6.**[^key-c4a92eaae09b5582465438e2adc6d867] In this Schedule “**transfer scheme**” means a scheme made by a pre-commencement regulator or by the Secretary of State under section 30.
+**6.**[^c-c4a92eaae09b5582465438e2adc6d867] In this Schedule “**transfer scheme**” means a scheme made by a pre-commencement regulator or by the Secretary of State under section 30.
 
 ## Annotations
 
-[^key-09ecf73a9047e470baa294a75dad091f]: Commencement: Sch. 2 para. 1 in force at 18.9.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2)
+[^c-09ecf73a9047e470baa294a75dad091f]: Commencement: Sch. 2 para. 1 in force at 18.9.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2)
 
-[^key-64798d0ead770801db94e7182039ebcb]: Commencement: Sch. 2 para. 2 in force at 18.9.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2)
+[^c-64798d0ead770801db94e7182039ebcb]: Commencement: Sch. 2 para. 2 in force at 18.9.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2)
 
-[^key-3acfd15b61e1cd91f936f681070355e4]: Commencement: Sch. 2 para. 3 in force at 18.9.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2)
+[^c-3acfd15b61e1cd91f936f681070355e4]: Commencement: Sch. 2 para. 3 in force at 18.9.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2)
 
-[^key-6629a6a8161525bd444fec27cf12c4ce]: Commencement: Sch. 2 para. 4 in force at 18.9.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2)
+[^c-6629a6a8161525bd444fec27cf12c4ce]: Commencement: Sch. 2 para. 4 in force at 18.9.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2)
 
-[^key-741a548c1695f0a63a996d9500438b5b]: Commencement: Sch. 2 para. 5 in force at 18.9.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2)
+[^c-741a548c1695f0a63a996d9500438b5b]: Commencement: Sch. 2 para. 5 in force at 18.9.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2)
 
-[^key-a56e429b3ec14958440c0ade555a2918]: Textual amendment: Sch. 2 para. 5A inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 33](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/33)
+[^c-a56e429b3ec14958440c0ade555a2918]: Textual amendment: Sch. 2 para. 5A inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 33](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/33)
 
-[^key-c4a92eaae09b5582465438e2adc6d867]: Commencement: Sch. 2 para. 6 in force at 18.9.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2)
+[^c-c4a92eaae09b5582465438e2adc6d867]: Commencement: Sch. 2 para. 6 in force at 18.9.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2)

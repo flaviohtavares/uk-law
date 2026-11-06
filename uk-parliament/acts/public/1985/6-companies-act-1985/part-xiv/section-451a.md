@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 451A. Disclosure of information by Secretary of State or inspector.[^key-35f6889e3281b328c376492c93da689e][^c17416331][^c17416341][^c17416321]
+## 451A. Disclosure of information by Secretary of State or inspector.[^c-35f6889e3281b328c376492c93da689e][^c17416331][^c17416341][^c17416321]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,7 +61,7 @@ summary: ''
 
 ## Annotations
 
-[^key-35f6889e3281b328c376492c93da689e]: Modification: S. 451A applied (with modifications) (E.W.S.) (6.4.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Investigations) Regulations 2014 (S.I. 2014/574)](https://www.legislation.gov.uk/uksi/2014/574), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/574/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/574/regulation/2)
+[^c-35f6889e3281b328c376492c93da689e]: Modification: S. 451A applied (with modifications) (E.W.S.) (6.4.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Investigations) Regulations 2014 (S.I. 2014/574)](https://www.legislation.gov.uk/uksi/2014/574), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/574/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/574/regulation/2)
 
 [^c17416331]: Modification: S. 451A extended (with modifications) by [S.I. 1989/638](https://www.legislation.gov.uk/uksi/1989/638), [regs. 18](https://www.legislation.gov.uk/uksi/1989/638/regulation/18), [21](https://www.legislation.gov.uk/uksi/1989/638/regulation/21), [Sch. 4 para. 11](https://www.legislation.gov.uk/uksi/1989/638/schedule/4/paragraph/11)
 

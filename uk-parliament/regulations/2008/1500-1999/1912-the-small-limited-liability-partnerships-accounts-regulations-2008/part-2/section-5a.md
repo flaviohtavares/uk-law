@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5A. Non-IAS individual accounts: micro-entities – notes to the accounts[^key-4fbb276ba236cdc297d5f41af1a5b1ad]
+## 5A. Non-IAS individual accounts: micro-entities – notes to the accounts[^c-4fbb276ba236cdc297d5f41af1a5b1ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Regulation 5A of the Small Companies Accounts Regulations applies to LLPs, modif
 
 ## Annotations
 
-[^key-4fbb276ba236cdc297d5f41af1a5b1ad]: Textual amendment: Reg. 5A inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [32](https://www.legislation.gov.uk/uksi/2016/575/regulation/32)
+[^c-4fbb276ba236cdc297d5f41af1a5b1ad]: Textual amendment: Reg. 5A inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [32](https://www.legislation.gov.uk/uksi/2016/575/regulation/32)

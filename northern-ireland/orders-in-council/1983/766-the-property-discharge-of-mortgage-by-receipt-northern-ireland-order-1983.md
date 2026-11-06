@@ -78,7 +78,7 @@ the receipt operates—
 
 (10) In this Article—
 
-- “mortgage” includes a charge for securing money and a further charge, but does not include a mortgage to which[^c5467511]. . . section 33 of the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969[^key-6160604ae5117feb8904cf00321e4311] ,[^c5467521][^c5467531]. . . section 57A of the Friendly Societies Act 1974[^c5467541] or Article 34 of the Credit Unions (Northern Ireland) Order 1985(e) applies and, subject to paragraph 2(7) of Schedule 4 to the Building Societies Act 1986, does not include a mortgage to which that paragraph 2 applies;
+- “mortgage” includes a charge for securing money and a further charge, but does not include a mortgage to which[^c5467511]. . . section 33 of the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969[^c-6160604ae5117feb8904cf00321e4311] ,[^c5467521][^c5467531]. . . section 57A of the Friendly Societies Act 1974[^c5467541] or Article 34 of the Credit Unions (Northern Ireland) Order 1985(e) applies and, subject to paragraph 2(7) of Schedule 4 to the Building Societies Act 1986, does not include a mortgage to which that paragraph 2 applies;
 - “mortgaged property” means the property remaining subject to the mortgage at the date of the receipt;
 - “mortgagee” includes any person deriving title under the original mortgagee; and
 - “mortgagor”, in relation to a mortgage, means the person for the time being entitled to the equity of redemption and includes any person deriving title under the original mortgagor, or entitled to redeem, a mortgage according to his estate in the mortgaged property.
@@ -122,7 +122,7 @@ The mortgagee executing the receipt derives title under the original mortgagee a
 
 [^c5467511]: Textual amendment: [1986 c.53](https://www.legislation.gov.uk/ukpga/1986/53)
 
-[^key-6160604ae5117feb8904cf00321e4311]: Textual amendment: Words in [art. 3(10)](https://www.legislation.gov.uk/nisi/1983/766/article/3/10) substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 20](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/20); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-6160604ae5117feb8904cf00321e4311]: Textual amendment: Words in [art. 3(10)](https://www.legislation.gov.uk/nisi/1983/766/article/3/10) substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 20](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/20); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
 [^c5467521]: Textual amendment: [1969 c. 24 (N.I.)](https://www.legislation.gov.uk/apni/1969/24).
 

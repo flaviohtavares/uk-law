@@ -33,32 +33,32 @@ of 27 March 2020
 
 on the harmonised standards for railway products drafted in support of Directive 2008/57/EC of the European Parliament and of the Council on the interoperability of the rail system within the Community (revoked)
 
-[^key-45290d2055dc189ef882350ad312c737]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45290d2055dc189ef882350ad312c737]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-45290d2055dc189ef882350ad312c737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-45290d2055dc189ef882350ad312c737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-45290d2055dc189ef882350ad312c737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-45290d2055dc189ef882350ad312c737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-45290d2055dc189ef882350ad312c737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-45290d2055dc189ef882350ad312c737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-45290d2055dc189ef882350ad312c737]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45290d2055dc189ef882350ad312c737]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-45290d2055dc189ef882350ad312c737]
+## ANNEX I[^c-45290d2055dc189ef882350ad312c737]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-45290d2055dc189ef882350ad312c737]
+## ANNEX II[^c-45290d2055dc189ef882350ad312c737]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-45290d2055dc189ef882350ad312c737]
+## ANNEX III[^c-45290d2055dc189ef882350ad312c737]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-45290d2055dc189ef882350ad312c737]: Textual amendment: Decision revoked (4.3.2024) by [The Railways (Revocation and Consequential Provision) Regulations 2024 (S.I. 2024/127)](https://www.legislation.gov.uk/uksi/2024/127), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/127/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/127/schedule)
+[^c-45290d2055dc189ef882350ad312c737]: Textual amendment: Decision revoked (4.3.2024) by [The Railways (Revocation and Consequential Provision) Regulations 2024 (S.I. 2024/127)](https://www.legislation.gov.uk/uksi/2024/127), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/127/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/127/schedule)

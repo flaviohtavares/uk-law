@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42.18. Stay[^key-3f4ad373841186eb615bf0b4df1fbc6d]
+## 42.18. Stay[^c-3f4ad373841186eb615bf0b4df1fbc6d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Unless the Court of Appeal or the Crown Court orders otherwise, an appeal under 
 
 ## Annotations
 
-[^key-3f4ad373841186eb615bf0b4df1fbc6d]: Commencement: [Rule 42.18](https://www.legislation.gov.uk/uksi/2025/909/rule/42.18) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-3f4ad373841186eb615bf0b4df1fbc6d]: Commencement: [Rule 42.18](https://www.legislation.gov.uk/uksi/2025/909/rule/42.18) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

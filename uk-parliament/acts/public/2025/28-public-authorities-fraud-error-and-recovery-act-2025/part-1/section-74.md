@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 74. Interpretation[^key-6826b74ac7ba5e0832f63753923e2de8][^key-0a30b6913ecb17d2ebee59c9602962a3]
+## 74. Interpretation[^c-6826b74ac7ba5e0832f63753923e2de8][^c-0a30b6913ecb17d2ebee59c9602962a3]
 
 *Extent: E+W*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6826b74ac7ba5e0832f63753923e2de8]: Commencement: S. 74 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
+[^c-6826b74ac7ba5e0832f63753923e2de8]: Commencement: S. 74 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
 
-[^key-0a30b6913ecb17d2ebee59c9602962a3]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2025/28/section/74) in force at 1.4.2026 in so far as not already in force by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/b)
+[^c-0a30b6913ecb17d2ebee59c9602962a3]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2025/28/section/74) in force at 1.4.2026 in so far as not already in force by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/b)

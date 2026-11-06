@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Persons entitled to purchase and hold certificates[^key-91fe6d786bcd095e00f5f1518e0d5bac]
+## 39. Persons entitled to purchase and hold certificates[^c-91fe6d786bcd095e00f5f1518e0d5bac]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91fe6d786bcd095e00f5f1518e0d5bac]: Commencement: Reg. 39 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-91fe6d786bcd095e00f5f1518e0d5bac]: Commencement: Reg. 39 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

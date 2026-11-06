@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Children’s advocacy services: notification of hearings[^key-f27edc28f6b611d895e88dd3af621db1]
+## 53. Children’s advocacy services: notification of hearings[^c-f27edc28f6b611d895e88dd3af621db1]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f27edc28f6b611d895e88dd3af621db1]: Commencement: S. 53 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-f27edc28f6b611d895e88dd3af621db1]: Commencement: S. 53 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

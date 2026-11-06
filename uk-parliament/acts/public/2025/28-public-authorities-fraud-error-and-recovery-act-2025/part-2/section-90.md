@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 90. Disclosure of information etc: interaction with external constraints[^key-ce7bb26257eec6e893039d7c2b205506]
+## 90. Disclosure of information etc: interaction with external constraints[^c-ce7bb26257eec6e893039d7c2b205506]
 
 *Extent: E+W+S*
 
@@ -59,4 +59,4 @@ In Part 6 of the Social Security Administration Act 1992 (enforcement), after se
 
 ## Annotations
 
-[^key-ce7bb26257eec6e893039d7c2b205506]: Commencement: S. 90 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-ce7bb26257eec6e893039d7c2b205506]: Commencement: S. 90 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)

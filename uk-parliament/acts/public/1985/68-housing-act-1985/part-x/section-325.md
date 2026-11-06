@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The room standard is contravened when the number of persons sleeping in a dwelling and the number of rooms available as sleeping accommodation is such that two persons of opposite sexes who are not living together as a married couple or civil partners[^key-37e2150b611bf5510612c15d97dd7443] must sleep in the same room.
+(1) The room standard is contravened when the number of persons sleeping in a dwelling and the number of rooms available as sleeping accommodation is such that two persons of opposite sexes who are not living together as a married couple or civil partners[^c-37e2150b611bf5510612c15d97dd7443] must sleep in the same room.
 
 (2) For this purpose—
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-37e2150b611bf5510612c15d97dd7443]: Textual amendment: Words in [s. 325(1)](https://www.legislation.gov.uk/ukpga/1985/68/section/325/1) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 10(5)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/10/5)
+[^c-37e2150b611bf5510612c15d97dd7443]: Textual amendment: Words in [s. 325(1)](https://www.legislation.gov.uk/ukpga/1985/68/section/325/1) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 10(5)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/10/5)

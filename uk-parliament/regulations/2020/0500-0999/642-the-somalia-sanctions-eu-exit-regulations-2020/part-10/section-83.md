@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Transitional provision: Treasury licences[^key-b90681bf62e0d872aba472cd504aa754]
+## 83. Transitional provision: Treasury licences[^c-b90681bf62e0d872aba472cd504aa754]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ is to be treated on and after the relevant date as a reference to the correspond
 
 ## Annotations
 
-[^key-b90681bf62e0d872aba472cd504aa754]: Commencement: Reg. 83 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
+[^c-b90681bf62e0d872aba472cd504aa754]: Commencement: Reg. 83 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Where it is proposed that the type or extent of an operation in respect of which a safety certificate has been issued is to be substantially changed then the holder of the safety certificate shall apply to the Office of Rail and Road[^key-f869864dddfa1b36e8dbc7ebfa549ce3] for the safety certificate to be amended accordingly and the substantial change shall not be made until the safety certificate is so amended.
+(1) Where it is proposed that the type or extent of an operation in respect of which a safety certificate has been issued is to be substantially changed then the holder of the safety certificate shall apply to the Office of Rail and Road[^c-f869864dddfa1b36e8dbc7ebfa549ce3] for the safety certificate to be amended accordingly and the substantial change shall not be made until the safety certificate is so amended.
 
 (2) An application for an amended safety certificate under this regulation shall—
 
@@ -44,4 +44,4 @@ and in either case shall give reasons for its decision.
 
 ## Annotations
 
-[^key-f869864dddfa1b36e8dbc7ebfa549ce3]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2006/599/regulation/8) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 6(e)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/6/e)
+[^c-f869864dddfa1b36e8dbc7ebfa549ce3]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2006/599/regulation/8) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 6(e)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/6/e)

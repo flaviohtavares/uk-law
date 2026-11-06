@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 26 — OTHER EMISSIONS ACTIVITIES[^key-7ab12a365750225822f579fdb9ca74e8]
+## SCHEDULE 26 — OTHER EMISSIONS ACTIVITIES[^c-7ab12a365750225822f579fdb9ca74e8]
 
 *Extent: S*
 
@@ -481,4 +481,4 @@ where the throughput of the works in any 12-month period is likely to exceed 10,
 
 ## Annotations
 
-[^key-7ab12a365750225822f579fdb9ca74e8]: Textual amendment: [Sch. 26](https://www.legislation.gov.uk/ssi/2018/219/schedule/26) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 17](https://www.legislation.gov.uk/ssi/2025/165/schedule/17) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-7ab12a365750225822f579fdb9ca74e8]: Textual amendment: [Sch. 26](https://www.legislation.gov.uk/ssi/2018/219/schedule/26) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 17](https://www.legislation.gov.uk/ssi/2025/165/schedule/17) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

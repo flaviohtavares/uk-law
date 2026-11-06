@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 30. Company may occupy temporarily private roads within five hundred yards of the railway.[^c6404111][^key-4c13cb5bf88a771ca428ef6d8d62d10f][^key-3cba2172d28c5aac434c5eabbf833377]
+## 30. Company may occupy temporarily private roads within five hundred yards of the railway.[^c6404111][^c-4c13cb5bf88a771ca428ef6d8d62d10f][^c-3cba2172d28c5aac434c5eabbf833377]
 
 *Extent: E+W+N.I.*
 
@@ -26,6 +26,6 @@ Subject to the provisions herein and in the special Act contained, it shall be l
 
 [^c6404111]: Modification: Ss. 30-44 incorporated (with modifications) (9.10.1997) by [S.I. 1997/2534](https://www.legislation.gov.uk/uksi/1997/2534), [arts. 3(1)(3)](https://www.legislation.gov.uk/uksi/1997/2534/article/3/1/3), [10(5)](https://www.legislation.gov.uk/uksi/1997/2534/article/10/5)
 
-[^key-4c13cb5bf88a771ca428ef6d8d62d10f]: Modification: [S. 30](https://www.legislation.gov.uk/ukpga/Vict/8-9/20/section/30) incorporated (with modifications) (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 29 para. 4](https://www.legislation.gov.uk/ukpga/2017/7/schedule/29/paragraph/4)
+[^c-4c13cb5bf88a771ca428ef6d8d62d10f]: Modification: [S. 30](https://www.legislation.gov.uk/ukpga/Vict/8-9/20/section/30) incorporated (with modifications) (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 29 para. 4](https://www.legislation.gov.uk/ukpga/2017/7/schedule/29/paragraph/4)
 
-[^key-3cba2172d28c5aac434c5eabbf833377]: Modification: [S. 30](https://www.legislation.gov.uk/ukpga/Vict/8-9/20/section/30) incorporated (with modifications) (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 28 para. 4](https://www.legislation.gov.uk/ukpga/2021/2/schedule/28/paragraph/4)
+[^c-3cba2172d28c5aac434c5eabbf833377]: Modification: [S. 30](https://www.legislation.gov.uk/ukpga/Vict/8-9/20/section/30) incorporated (with modifications) (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 28 para. 4](https://www.legislation.gov.uk/ukpga/2021/2/schedule/28/paragraph/4)

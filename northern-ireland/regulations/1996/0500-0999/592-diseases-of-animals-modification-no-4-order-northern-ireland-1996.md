@@ -30,7 +30,7 @@ summary: ''
 
 ANIMALS
 
-Diseases of Animals (Modification No. 4) Order (Northern Ireland) 1996 (revoked)[^key-1220be25426db37a77813a4779c08cc5]
+Diseases of Animals (Modification No. 4) Order (Northern Ireland) 1996 (revoked)[^c-1220be25426db37a77813a4779c08cc5]
 
 Made
 
@@ -40,34 +40,34 @@ Coming into operation
 
 8th January 1997
 
-[^key-1220be25426db37a77813a4779c08cc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1220be25426db37a77813a4779c08cc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-1220be25426db37a77813a4779c08cc5]
+## 1. Citation, commencement and interpretation[^c-1220be25426db37a77813a4779c08cc5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Modification of the Diseases of Animals (Northern Ireland) Order 1981[^key-1220be25426db37a77813a4779c08cc5]
+## 2. Modification of the Diseases of Animals (Northern Ireland) Order 1981[^c-1220be25426db37a77813a4779c08cc5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1220be25426db37a77813a4779c08cc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1220be25426db37a77813a4779c08cc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-1220be25426db37a77813a4779c08cc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1220be25426db37a77813a4779c08cc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-1220be25426db37a77813a4779c08cc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-1220be25426db37a77813a4779c08cc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-1220be25426db37a77813a4779c08cc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-1220be25426db37a77813a4779c08cc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-1220be25426db37a77813a4779c08cc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-1220be25426db37a77813a4779c08cc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1220be25426db37a77813a4779c08cc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1220be25426db37a77813a4779c08cc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1220be25426db37a77813a4779c08cc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1220be25426db37a77813a4779c08cc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1220be25426db37a77813a4779c08cc5]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1996/592) revoked (29.1.1999) by [Diseases of Animals (Modification) (No. 2) Order (Northern Ireland) 1998 (S.R. 1998/442)](https://www.legislation.gov.uk/nisr/1998/442), [arts. 1(1)](https://www.legislation.gov.uk/nisr/1998/442/article/1), [3](https://www.legislation.gov.uk/nisr/1998/442/article/3) (with [art. 4](https://www.legislation.gov.uk/nisr/1998/442/article/4))
+[^c-1220be25426db37a77813a4779c08cc5]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1996/592) revoked (29.1.1999) by [Diseases of Animals (Modification) (No. 2) Order (Northern Ireland) 1998 (S.R. 1998/442)](https://www.legislation.gov.uk/nisr/1998/442), [arts. 1(1)](https://www.legislation.gov.uk/nisr/1998/442/article/1), [3](https://www.legislation.gov.uk/nisr/1998/442/article/3) (with [art. 4](https://www.legislation.gov.uk/nisr/1998/442/article/4))

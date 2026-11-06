@@ -22,7 +22,7 @@ summary: ''
 
 (1) Part 3 of the Road Traffic Offenders Act 1988 (c. 53) (fixed penalties) shall be amended as follows.
 
-(2)[^key-52c4c07808a3594055c32e99470f533a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-52c4c07808a3594055c32e99470f533a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 75(1) (conditional offers in England and Wales), at the end there shall be inserted “or, if the constable is a member of the British Transport Police, by or on behalf of the chief constable of the British Transport Police.”
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-52c4c07808a3594055c32e99470f533a]: Textual amendment: [S. 76(2)](https://www.legislation.gov.uk/ukpga/2002/30/section/76/2) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 28](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/28); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-52c4c07808a3594055c32e99470f533a]: Textual amendment: [S. 76(2)](https://www.legislation.gov.uk/ukpga/2002/30/section/76/2) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 28](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/28); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
 
 [^c20054381]: Textual amendment: S. 76(4) repealed (31.3.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 59](https://www.legislation.gov.uk/ukpga/2006/49/section/59), [61](https://www.legislation.gov.uk/ukpga/2006/49/section/61), [Sch. 7(2)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/2); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(d)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/d)

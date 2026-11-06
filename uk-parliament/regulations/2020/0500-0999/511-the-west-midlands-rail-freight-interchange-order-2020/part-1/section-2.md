@@ -37,7 +37,7 @@ summary: ''
 - “**A5/A449 link road**” means the new road to be constructed as part of the authorised development between the A5 trunk road and the A449 (Stafford Road) being Works No. 4;
 - “**access and rights of way plans**” means the plans of that description referred to in Schedule 15 (certification documents) and certified as the access and rights of way plans by the Secretary of State for the purposes of this Order;
 - “**address**” includes any number or address used for the purposes of electronic transmission;
-- “**apparatus**” for the purposes of article 8 (street works) and article 36[^key-e9398b09b80e51b702c344d8cbe12607] (apparatus and rights of statutory undertakers in stopped up streets) has the same meaning as in Part 3 of the 1991 Act;
+- “**apparatus**” for the purposes of article 8 (street works) and article 36[^c-e9398b09b80e51b702c344d8cbe12607] (apparatus and rights of statutory undertakers in stopped up streets) has the same meaning as in Part 3 of the 1991 Act;
 - “**authorised development**” means the development described in Schedule 1 (authorised development) and any other development authorised by this Order, which is development within the meaning of section 32 (meaning of development) of the 2008 Act and any works carried out under the requirements;
 - “**book of reference**” means the document of that description referred to in Schedule 15 and certified by the Secretary of State as the book of reference for the purposes of this Order;
 - “bridge plans” mean the plans of that description referred to in Schedule 15 and certified as the bridge plans by the Secretary of State for the purposes of this Order;
@@ -59,7 +59,7 @@ summary: ''
 - “**highway**” and “**highway authority**” have the same meaning as in the 1980 Act;
 - “**highway classification plans**” means the plans of that description referred to in Schedule 15 and certified as highway classification plans by the Secretary of State for the purposes of this Order;
 - “**highway general arrangement plans**” means the plans of that description referred to in Schedule 15 and certified as the highway general arrangement plans by the Secretary of State for the purposes of this Order;
-- “**highway works**” means the works comprised in Works Nos. 4, 5, 7, 10a, 10b and 11[^key-5b812fcfcf9af8d460f19ef2e1239bf9];
+- “**highway works**” means the works comprised in Works Nos. 4, 5, 7, 10a, 10b and 11[^c-5b812fcfcf9af8d460f19ef2e1239bf9];
 - “**Highways England**” means Highways England Company Limited (company number 09346363), whose registered office is at Bridge House, Walnut Tree Close, Guildford, GU1 4ZZ, appointed as highway authority for the highways specified in article 2 of the Appointment of a Strategic Highways Company Order 2015 [^c24098821] or any successor in function;
 - “**illustrative arrangement of railway alignment plan**” means the plan of that description referred to in Schedule 15 and certified as the illustrative arrangement of railway alignment plan by the Secretary of State for the purposes of this Order;
 - “**land plans**” means the plans of that description referred to in Schedule 15 and certified as the land plans by the Secretary of State for the purposes of this Order;
@@ -83,7 +83,7 @@ summary: ''
 - “**relevant highway authority**” means in any provision of this Order the highway authority for any area of land to which that provision relates;
 - “**relevant street authority**” means in any provision of this Order the street authority for any area of land to which that provision relates;
 - “**relevant traffic authority**” means in any provision of this Order the traffic authority for any area of land to which that provision relates;
-- “**relocation works**” means works executed, or apparatus provided, under paragraph (2) of article 36[^key-ae6db2d233dff05ad70b811e32e61187] (apparatus and rights of statutory undertakers in stopped up streets);
+- “**relocation works**” means works executed, or apparatus provided, under paragraph (2) of article 36[^c-ae6db2d233dff05ad70b811e32e61187] (apparatus and rights of statutory undertakers in stopped up streets);
 - “**remediation safeguarding report**” means the report of that description contained in technical appendix 11.5 of the environmental statement;
 - “**remediation strategy**” means the strategy to ensure the effective continuation of on-going groundwater remediation works within the SI land set out in the remediation safeguarding report;
 - “**requirements**” means the requirements set out in Part 1 and Part 2 of Schedule 2 (requirements);
@@ -151,7 +151,7 @@ summary: ''
 
 [^c24098771]: Marginal citation: [S.I. 2017/572](https://www.legislation.gov.uk/uksi/2017/572), amended by [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012), [S.I](https://www.legislation.gov.uk/uksi/2017/1012/section/I). 2018/695, [S.I. 2018/834](https://www.legislation.gov.uk/uksi/2018/834) and [S.I. 2018/1232](https://www.legislation.gov.uk/uksi/2018/1232).
 
-[^key-e9398b09b80e51b702c344d8cbe12607]: Textual amendment: Word in art. 2(1) substituted (21.10.2020) by [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/2/a)
+[^c-e9398b09b80e51b702c344d8cbe12607]: Textual amendment: Word in art. 2(1) substituted (21.10.2020) by [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/2/a)
 
 [^c24098781]: Marginal citation: [S.I. 2016/362](https://www.legislation.gov.uk/uksi/2016/362). There are amendments to the Regulations which are not relevant to this Order.
 
@@ -161,13 +161,13 @@ summary: ''
 
 [^c24098811]: Marginal citation: [S.I. 1997/1160](https://www.legislation.gov.uk/uksi/1997/1160). There are amendments to the Regulations which are not relevant to this Order.
 
-[^key-5b812fcfcf9af8d460f19ef2e1239bf9]: Textual amendment: Word in art. 2(1) substituted (21.10.2020) by [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/2/b)
+[^c-5b812fcfcf9af8d460f19ef2e1239bf9]: Textual amendment: Word in art. 2(1) substituted (21.10.2020) by [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/2/b)
 
 [^c24098821]: Marginal citation: [S.I. 2015/376](https://www.legislation.gov.uk/uksi/2015/376).
 
 [^c24098831]: Marginal citation: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67). Section 7 was amended by section 70 of, and paragraph 9 of Schedule 15 to, the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34). There are other amendments to the 1981 Act which are not relevant to this Order.
 
-[^key-ae6db2d233dff05ad70b811e32e61187]: Textual amendment: Word in art. 2(1) substituted (21.10.2020) by [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/2/c)
+[^c-ae6db2d233dff05ad70b811e32e61187]: Textual amendment: Word in art. 2(1) substituted (21.10.2020) by [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/2/c)
 
 [^c24098841]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Amendments of the Industrial and Provident Societies Act 1965[^key-452e994c18d0b429e77d3bf88b78a2b6]
+## SCHEDULE 2 — Amendments of the Industrial and Provident Societies Act 1965[^c-452e994c18d0b429e77d3bf88b78a2b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,44 +24,44 @@ summary: ''
 
 Article 2(b)
 
-**1.**[^key-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-452e994c18d0b429e77d3bf88b78a2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-452e994c18d0b429e77d3bf88b78a2b6]: Textual amendment: [Schs. 2-4](https://www.legislation.gov.uk/uksi/2013/496/schedule/2) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-452e994c18d0b429e77d3bf88b78a2b6]: Textual amendment: [Schs. 2-4](https://www.legislation.gov.uk/uksi/2013/496/schedule/2) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))

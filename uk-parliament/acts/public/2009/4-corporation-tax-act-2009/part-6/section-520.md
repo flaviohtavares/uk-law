@@ -25,7 +25,7 @@ summary: ''
 (2) A company paying relevant return under the arrangements is not entitled to—
 
 - (a) any deduction in calculating profits or gains for corporation tax purposes, or
-- (b) any deduction from[^key-42c9cffaf99a8adc62198ee999eaa9c2] total profits,
+- (b) any deduction from[^c-42c9cffaf99a8adc62198ee999eaa9c2] total profits,
 
 in respect of the relevant return.
 
@@ -33,4 +33,4 @@ in respect of the relevant return.
 
 ## Annotations
 
-[^key-42c9cffaf99a8adc62198ee999eaa9c2]: Textual amendment: Word in s. 520(2)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 633](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/633) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-42c9cffaf99a8adc62198ee999eaa9c2]: Textual amendment: Word in s. 520(2)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 633](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/633) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

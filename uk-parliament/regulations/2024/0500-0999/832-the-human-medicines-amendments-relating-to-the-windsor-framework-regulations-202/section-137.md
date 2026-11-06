@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Amendment to Schedule 8[^key-ee91dfc6da3262df170d492e3f1e7d63]
+## 137. Amendment to Schedule 8[^c-ee91dfc6da3262df170d492e3f1e7d63]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ In Schedule 8 (material to accompany an application for a UK marketing authorisa
 
 ## Annotations
 
-[^key-ee91dfc6da3262df170d492e3f1e7d63]: Commencement: [Reg. 137](https://www.legislation.gov.uk/uksi/2024/832/regulation/137) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-ee91dfc6da3262df170d492e3f1e7d63]: Commencement: [Reg. 137](https://www.legislation.gov.uk/uksi/2024/832/regulation/137) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00144]: Footnote: Paragraphs 18 and 23 were substituted by, and paragraph 25A was inserted by, [S.I. 2019/755](https://www.legislation.gov.uk/uksi/2019/755) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

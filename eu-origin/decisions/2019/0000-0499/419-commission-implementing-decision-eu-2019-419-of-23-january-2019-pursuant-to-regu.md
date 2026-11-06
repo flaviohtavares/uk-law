@@ -37,29 +37,29 @@ pursuant to Regulation (EU) 2016/679 of the European Parliament and of the Counc
 
 (Text with EEA relevance) (revoked)
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-11c7ac3f829f48ecb9542938d9ea3e3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-11c7ac3f829f48ecb9542938d9ea3e3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-11c7ac3f829f48ecb9542938d9ea3e3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-11c7ac3f829f48ecb9542938d9ea3e3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-11c7ac3f829f48ecb9542938d9ea3e3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-11c7ac3f829f48ecb9542938d9ea3e3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-11c7ac3f829f48ecb9542938d9ea3e3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-11c7ac3f829f48ecb9542938d9ea3e3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX 1 — SUPPLEMENTARY RULES UNDER THE ACT ON THE PROTECTION OF PERSONAL INFORMATION FOR THE HANDLING OF PERSONAL DATA TRANSFERRED FROM THE EU BASED ON AN ADEQUACY DECISION[^key-11c7ac3f829f48ecb9542938d9ea3e3d]
+## ANNEX 1 — SUPPLEMENTARY RULES UNDER THE ACT ON THE PROTECTION OF PERSONAL INFORMATION FOR THE HANDLING OF PERSONAL DATA TRANSFERRED FROM THE EU BASED ON AN ADEQUACY DECISION[^c-11c7ac3f829f48ecb9542938d9ea3e3d]
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]
 
 \[Terms\]
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]
 
 ‘Act’
 
@@ -89,85 +89,85 @@ Regulation of the European Parliament and of the Council on the protection of na
 
 The European Commission’s decision that a third country or a territory within that third country, etc. ensures an adequate level of protection of personal data pursuant to Article 45 of the GDPR
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]
 
 The Personal Information Protection Commission, for the purpose of conducting mutual and smooth transfer of personal data between Japan and the EU, designated the EU as a foreign country establishing a personal information protection system recognized to have equivalent standards to that in Japan in regard to the protection of an individual’s rights and interests based on Article 24 of the Act and the European Commission concurrently decided that Japan ensures an adequate level of protection of personal data pursuant to Article 45 of the GDPR.
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]
 
 Hereby, mutual and smooth transfer of personal data will be conducted between Japan and the EU in a way that ensures a high level of protection of an individual’s rights and interests. In order to ensure that high level of protection regarding personal information received from the EU based on an adequacy decision and in light of the fact that, despite a high degree of convergence between the two systems, there are some relevant differences, the Personal Information Protection Commission has adopted these Supplementary Rules, based on the provisions of the Act concerning implementation etc. of cooperation with the governments in other countries and in view of ensuring appropriate handling of personal information received from the EU based on an adequacy decision by a personal information handling business operator and proper and effective implementation of the obligations laid down in such rules.
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]
 
 In particular, Article 6 of the Act provides for the power to take necessary legislative and other action with a view to ensure the enhanced protection of personal information and construct an internationally conformable system concerning personal information through stricter rules that supplement and go beyond those laid down in the Act and the Cabinet Order. Therefore, the Personal Information Protection Commission, as the authority competent for governing the overall administration of the Act, has the power to establish pursuant to Article 6 of the Act stricter regulations by formulating the present Supplementary Rules providing for a higher level of protection of an individual’s rights and interests regarding the handling of personal data received from the EU based on an adequacy decision, including with respect to the definition of special care-required personal information pursuant to Article 2, paragraph 3, of the Act and retained personal data pursuant to Article 2, paragraph 7, of the Act (including as to the relevant retention period).
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]
 
 On this basis, the Supplementary Rules are binding on a personal information handling business operator that receives personal data transferred from the EU based on an adequacy decision which is thus required to comply with them. As legally binding rules, any rights and obligations are enforceable by the Personal Information Protection Commission in the same way as the provisions of the Act that they supplement with stricter and/or more detailed rules. In case of infringement of the rights and obligations resulting from the Supplementary Rules, individuals can also obtain redress from courts in the same way as with respect to the provisions of the Act that they supplement with stricter and/or more detailed rules.
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]
 
 As regards enforcement by the Personal Information Protection Commission, in case a personal information handling business operator does not comply with one or several obligations under the Supplementary Rules, the Personal Information Protection Commission has the power to adopt measures pursuant to Article 42 of the Act. Regarding generally personal information received from the EU based on an adequacy decision, failure by a personal information handling business operator to take action in line with a recommendation received pursuant to Article 42, paragraph 1, of the Act, without legitimate ground, is considered as a serious infringement of an imminent nature of an individual’s rights and interests within the meaning of Article 42, paragraph 2, of the Act.
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d](1)
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d](1)
 
 Special care-required personal information (Article 2, paragraph 3 of the Act)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d](2)
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d](2)
 
 Retained personal data (Article 2, paragraph 7 of the Act)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d](3)
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d](3)
 
 Specifying a utilization purpose, restriction due to a utilization purpose (Article 15, paragraph 1, Article 16, paragraph 1 and Article 26, paragraphs 1 and 3 of the Act)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d](4)
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d](4)
 
 Restriction on provision to a third party in a foreign country (Article 24 of the Act; Article 11-2 of the Rules)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d](5)
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d](5)
 
 Anonymously processed information (Article 2, paragraph 9 and Article 36, paragraphs 1 and 2 of the Act)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX 2[^key-11c7ac3f829f48ecb9542938d9ea3e3d]
+## ANNEX 2[^c-11c7ac3f829f48ecb9542938d9ea3e3d]
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]Her Excellency Ms. Věra Jourová, Commissioner for Justice, Consumers and Gender Equality of the European Commission
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]Her Excellency Ms. Věra Jourová, Commissioner for Justice, Consumers and Gender Equality of the European Commission
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]**Collection and use of personal information by Japanese public authorities for criminal law enforcement and national security purposes**
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]**Collection and use of personal information by Japanese public authorities for criminal law enforcement and national security purposes**
 
 The following document provides an overview of the legal framework for the collection and use of personal (electronic) information by Japanese public authorities for criminal law enforcement and national security purposes (hereinafter referred to as "government access"), in particular as regards the available legal bases, applicable conditions (limitations) and safeguards, including independent oversight and individual redress possibilities. This representation is addressed to the European Commission with a view to express the commitment and provide assurances that government access to personal information transferred from the EU to Japan will be limited to what is necessary and proportionate, subject to independent oversight and that concerned individuals will be able to obtain redress in case of any possible violation of their fundamental right to privacy and data protection. This representation also provides for the creation of a new redress mechanism, administrated by the Personal Information Protection Commission (PPC), to handle complaints by EU individuals concerning government access to their personal data transferred from the EU to Japan.
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]I.
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]I.
 
 **The general legal principles relevant for government access**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]II.
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]II.
 
 **Government access for criminal law enforcement purposes**
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]A)
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]A)
 
 Legal bases and limitations
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]1)
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]1)
 
 Collection of personal information by compulsory means
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]*(a)*
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]*(a)*
 
 *Legal bases*
 
@@ -177,29 +177,29 @@ Article 197(1) of the Code of Criminal Procedure provides that compulsory measur
 
 Regarding the police, the investigate authority lies in all cases with the Prefectural Police, whereas the National Police Agency (NPA) does not conduct any criminal investigations based on the Code of Criminal Procedure.
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]*(b)*
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]*(b)*
 
 *Limitations*
 
 The compulsory collection of electronic information is limited by the Constitution and empowering statutes, as interpreted in case law, which in particular provide for the criteria to be applied by courts when issuing a warrant. In addition, the APPIHAO imposes a number of limitations applicable to both the collection and handling of information (while local ordinances reproduce essentially the same criteria for the Prefectural Police).
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d](1)
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d](1)
 
 Limitations following from the Constitution and the empowering statute
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d](2)
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d](2)
 
 Limitations following from the APPIHAO
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]2)
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]2)
 
 Collection of personal information through requests for voluntary cooperation (Voluntary investigation)
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]*a)*
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]*a)*
 
 *Legal basis*
 
@@ -209,111 +209,111 @@ As regards the latter, Article 197(2) of the Code of Criminal Procedure empowers
 
 Given the growing awareness of individuals as regards their privacy rights, as well as the workload created by such requests, business operators are more and more cautious in answering such requests. In deciding whether to cooperate, business operators in particular take into account the nature of the information requested, their relationship with the person whose information is at stake, risks to their reputation, litigation risks, etc.
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]*b)*
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]*b)*
 
 *Limitations*
 
 As for the compulsory collection of electronic information, voluntary investigation is limited by the Constitution, as interpreted in case law, and the empowering statute. In addition, business operators are not legally allowed to disclose information in certain situations. Finally, the APPIHAO provides for a number of limitations applicable to both the collection and handling of information (while local ordinances reproduce essentially the same criteria for the Prefectural Police).
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d](1)
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d](1)
 
 Limitations following from the Constitution and the empowering statute
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d](2)
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d](2)
 
 Limitations with respect to certain business operators
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d](3)
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d](3)
 
 Limitations based on the APPIHAO
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]B)
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]B)
 
 Oversight
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]1)
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]1)
 
 Judicial oversight
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]2)
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]2)
 
 Oversight based on the APPIHAO
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]3)
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]3)
 
 Oversight by the Public Safety Commissions as regards the police
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]4)
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]4)
 
 Oversight by the Diet
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]C)
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]C)
 
 Individual Redress
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]III.
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]III.
 
 **Government access for national security purposes**
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]A.
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]A.
 
 Legal bases and limitations for the collection of personal information
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]1)
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]1)
 
 Legal bases for information collection by concerned ministry/agency
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]2)
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]2)
 
 Limitations and safeguards
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]*a)*
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]*a)*
 
 *Statutory limitations*
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d](1)
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d](1)
 
 General limitations based on the APPIHAO
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d](2)
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d](2)
 
 Specific limitations applicable to the police (both NPA and Prefectural Police)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d](3)
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d](3)
 
 Specific limitations applicable to the PSIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d](4)
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d](4)
 
 Specific limitations applicable to the MOD
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]*b)*
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]*b)*
 
 *Other limitations*
 
@@ -323,47 +323,47 @@ Although investigations conducted by investigative authorities in the area of na
 
 The combination of the above limitations ensures that the collection and processing of information takes place only to the extent necessary to the performance of specific duties of the competent public authority as well as on the basis of specific threats. This excludes mass and indiscriminate collection or access to personal information for national security reasons.
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]B.
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]B.
 
 Oversight
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]1)
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]1)
 
 Oversight based on the APPIHAO
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]2)
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]2)
 
 Oversight over the police by the Public Safety Commissions
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]3)
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]3)
 
 Oversight of the MOD by the Inspector General’s Office of Legal compliance
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]4)
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]4)
 
 Oversight of the PSIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]5)
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]5)
 
 Oversight by the Diet
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]C.
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]C.
 
 Individual redress
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]IV.
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]IV.
 
 **Periodic review**
 
@@ -371,4 +371,4 @@ Individual redress
 
 ## Annotations
 
-[^key-11c7ac3f829f48ecb9542938d9ea3e3d]: Textual amendment: Decision revoked (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 1(t)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/1/t) (as inserted by [S.I. 2020/1586](https://www.legislation.gov.uk/uksi/2020/1586), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1586/regulation/1/2), [6(2)(d)](https://www.legislation.gov.uk/uksi/2020/1586/regulation/6/2/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-11c7ac3f829f48ecb9542938d9ea3e3d]: Textual amendment: Decision revoked (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 1(t)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/1/t) (as inserted by [S.I. 2020/1586](https://www.legislation.gov.uk/uksi/2020/1586), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1586/regulation/1/2), [6(2)(d)](https://www.legislation.gov.uk/uksi/2020/1586/regulation/6/2/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

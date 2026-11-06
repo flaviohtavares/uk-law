@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Recruitment and training of adult placement carers[^key-2cb1b4bc209c69c652c6aafb767d4d1e]
+## 33. Recruitment and training of adult placement carers[^c-2cb1b4bc209c69c652c6aafb767d4d1e]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2cb1b4bc209c69c652c6aafb767d4d1e]: Commencement: [Reg. 33](https://www.legislation.gov.uk/wsi/2019/163/regulation/33) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)
+[^c-2cb1b4bc209c69c652c6aafb767d4d1e]: Commencement: [Reg. 33](https://www.legislation.gov.uk/wsi/2019/163/regulation/33) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)

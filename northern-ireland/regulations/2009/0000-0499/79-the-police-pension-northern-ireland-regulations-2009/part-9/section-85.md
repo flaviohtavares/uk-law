@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 85. Prevention of duplication[^key-914cae3e991ce8a075d7503aad959d10]
+## 85. Prevention of duplication[^c-914cae3e991ce8a075d7503aad959d10]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Regulation 46 shall apply in relation to a pension in pursuance of regulation 84
 
 ## Annotations
 
-[^key-914cae3e991ce8a075d7503aad959d10]: Commencement: Reg. 85 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-914cae3e991ce8a075d7503aad959d10]: Commencement: Reg. 85 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

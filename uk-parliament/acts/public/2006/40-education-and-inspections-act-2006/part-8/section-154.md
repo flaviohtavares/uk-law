@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Duty to report on contribution of certain schools to community cohesion[^key-b27581026c7cb975247cbf2358ae6a43]
+## 154. Duty to report on contribution of certain schools to community cohesion[^c-b27581026c7cb975247cbf2358ae6a43]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b27581026c7cb975247cbf2358ae6a43]: Textual amendment: S. 154 repealed (15.11.2011) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 41(2)](https://www.legislation.gov.uk/ukpga/2011/21/section/41/2), [82(1)(c)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/1/c)
+[^c-b27581026c7cb975247cbf2358ae6a43]: Textual amendment: S. 154 repealed (15.11.2011) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 41(2)](https://www.legislation.gov.uk/ukpga/2011/21/section/41/2), [82(1)(c)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/1/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1223ZA. Matters to be notified to the competent authority[^key-43bcb910ec21b45705da61c21a1f4fb4]
+## 1223ZA. Matters to be notified to the competent authority[^c-43bcb910ec21b45705da61c21a1f4fb4]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43bcb910ec21b45705da61c21a1f4fb4]: Textual amendment: S. 1223ZA inserted (17.6.2016) by [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [Sch. 3 para. 31](https://www.legislation.gov.uk/uksi/2016/649/schedule/3/paragraph/31)
+[^c-43bcb910ec21b45705da61c21a1f4fb4]: Textual amendment: S. 1223ZA inserted (17.6.2016) by [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [Sch. 3 para. 31](https://www.legislation.gov.uk/uksi/2016/649/schedule/3/paragraph/31)

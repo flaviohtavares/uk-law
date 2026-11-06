@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94A. Offences relating to Commission Regulation 2016/161[^key-632643212c1c076cbd29045bec04beb6]
+## 94A. Offences relating to Commission Regulation 2016/161[^c-632643212c1c076cbd29045bec04beb6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-632643212c1c076cbd29045bec04beb6]: Textual amendment: [Reg. 94A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/94A) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [66](https://www.legislation.gov.uk/uksi/2024/832/regulation/66)
+[^c-632643212c1c076cbd29045bec04beb6]: Textual amendment: [Reg. 94A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/94A) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [66](https://www.legislation.gov.uk/uksi/2024/832/regulation/66)

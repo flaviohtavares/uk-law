@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Purchase by company of its own shares: definition of “off-market” and “market” purchase[^key-21644ae81156b27facdeec783c4cb37d]
+## 46. Purchase by company of its own shares: definition of “off-market” and “market” purchase[^c-21644ae81156b27facdeec783c4cb37d]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-21644ae81156b27facdeec783c4cb37d]: Commencement: Art. 46 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-21644ae81156b27facdeec783c4cb37d]: Commencement: Art. 46 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00049]: Footnote: Amended by the Financial Services Act [1986 (c. 60)](https://www.legislation.gov.uk/ukpga/1986/60), Schedule 16 paragraph 32.
 

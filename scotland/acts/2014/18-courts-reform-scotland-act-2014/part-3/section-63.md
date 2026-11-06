@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Civil jury trials in an all-Scotland sheriff court[^key-3c5f4db59fe77a18cbb381ca0bca4fbe]
+## 63. Civil jury trials in an all-Scotland sheriff court[^c-3c5f4db59fe77a18cbb381ca0bca4fbe]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c5f4db59fe77a18cbb381ca0bca4fbe]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2014/18/section/63) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-3c5f4db59fe77a18cbb381ca0bca4fbe]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2014/18/section/63) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)

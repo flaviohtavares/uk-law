@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Functions of the Regional Board[^key-5cb3ef89cb4dda2603353fbc0a87f429]
+## 8. Functions of the Regional Board[^c-5cb3ef89cb4dda2603353fbc0a87f429]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5cb3ef89cb4dda2603353fbc0a87f429]: Textual amendment: [S. 8](https://www.legislation.gov.uk/nia/2009/1/section/8) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 232](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/232); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-5cb3ef89cb4dda2603353fbc0a87f429]: Textual amendment: [S. 8](https://www.legislation.gov.uk/nia/2009/1/section/8) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 232](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/232); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)

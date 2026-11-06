@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. “Relevant owner”, “new build home” and “developer”[^key-39df187f1b74264b7ab5ed5b9256b4dc]
+## 138. “Relevant owner”, “new build home” and “developer”[^c-39df187f1b74264b7ab5ed5b9256b4dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,4 +85,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39df187f1b74264b7ab5ed5b9256b4dc]: Commencement: S. 138 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
+[^c-39df187f1b74264b7ab5ed5b9256b4dc]: Commencement: S. 138 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)

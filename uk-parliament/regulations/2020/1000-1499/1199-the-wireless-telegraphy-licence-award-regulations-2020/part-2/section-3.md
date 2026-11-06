@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Applications for the grant of a licence[^key-e483197ac6aaf5fb58a2a41eed9dbdf6]
+## 3. Applications for the grant of a licence[^c-e483197ac6aaf5fb58a2a41eed9dbdf6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Applications for the grant of a licence shall only be made in accordance with th
 
 ## Annotations
 
-[^key-e483197ac6aaf5fb58a2a41eed9dbdf6]: Commencement: Reg. 3 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-e483197ac6aaf5fb58a2a41eed9dbdf6]: Commencement: Reg. 3 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

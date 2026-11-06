@@ -48,7 +48,7 @@ In accordance with paragraph 1(3) of Schedule 7 to that Act, a draft of this ins
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement, extent and interpretation[^key-13b8ace69ace39862e8f1ea5257e9d68]
+### 1. Citation, commencement, extent and interpretation[^c-13b8ace69ace39862e8f1ea5257e9d68]
 
 (1) These Regulations may be cited as the Immigration, Nationality and Asylum (EU Exit) Regulations 2019.
 
@@ -66,15 +66,15 @@ In accordance with paragraph 1(3) of Schedule 7 to that Act, a draft of this ins
 
 ### Chapter 1 — Amendment of primary legislation
 
-#### 2. Amendment of the Marriage Act 1949[^key-4eb51e502859ac626f3901b3ddb03d4c]
+#### 2. Amendment of the Marriage Act 1949[^c-4eb51e502859ac626f3901b3ddb03d4c]
 
 In section 78 of the Marriage Act 1949 [^c23688561] (interpretation), in subsection (1), in the definition of “relevant national”, in paragraph (b), omit “other than the United Kingdom”.
 
-#### 3. Amendment of the Aliens' Employment Act 1955[^key-78f5b159f6577089d67539479fe53474]
+#### 3. Amendment of the Aliens' Employment Act 1955[^c-78f5b159f6577089d67539479fe53474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Amendment of the Immigration Act 1971[^key-ea19b8827f82f3ccbec01a6779cca657]
+#### 4. Amendment of the Immigration Act 1971[^c-ea19b8827f82f3ccbec01a6779cca657]
 
 (1) The Immigration Act 1971 [^c23688591] is amended as follows.
 
@@ -83,7 +83,7 @@ In section 78 of the Marriage Act 1949 [^c23688561] (interpretation), in subsect
 (3) In section 25 (assisting unlawful immigration to member State) [^c23688611]—
 
 - (a) in the heading, after “member State” insert “ or the United Kingdom ”;
-- (b)[^key-0e2264f9d87df5f88a2a5cbccc554b91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-0e2264f9d87df5f88a2a5cbccc554b91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in subsection (2)—
   - (i) after “member State” insert “ or the United Kingdom ”;
   - (ii) after “of the State” insert “ or, as the case may be, of the United Kingdom ”;
@@ -103,15 +103,15 @@ In section 78 of the Marriage Act 1949 [^c23688561] (interpretation), in subsect
 
 (4) In section 25C (forfeiture of vehicle, ship or aircraft) [^c23688631], in subsection (9)(a), after “a member State” insert “ or the United Kingdom ”.
 
-#### 5. Amendment of the Marriage (Scotland) Act 1977[^key-5a084525e37430751f28b94faa9194ba]
+#### 5. Amendment of the Marriage (Scotland) Act 1977[^c-5a084525e37430751f28b94faa9194ba]
 
 In section 26 of the Marriage (Scotland) Act 1977 [^c23688641] (interpretation), in subsection (2), in the definition of “relevant national”, in paragraph (b), omit “other than the United Kingdom”.
 
-#### 6. Amendment of the Rent Act 1977[^key-819f1221e9a4605b5c3e9c8b53cde294]
+#### 6. Amendment of the Rent Act 1977[^c-819f1221e9a4605b5c3e9c8b53cde294]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Amendment of the British Nationality Act 1981[^key-6fb7b785fd901fcee76fd883d50b0bf8]
+#### 7. Amendment of the British Nationality Act 1981[^c-6fb7b785fd901fcee76fd883d50b0bf8]
 
 For section 5 of the British Nationality Act 1981 [^c23688661] (acquisition by registration: nationals for purposes of the EU Treaties) substitute—
 
@@ -121,23 +121,23 @@ For section 5 of the British Nationality Act 1981 [^c23688661] (acquisition by r
 
 .
 
-#### 8. Amendment of the Immigration Act 1988[^key-3f59524ea05b5f1027aac635ac1b61cf]
+#### 8. Amendment of the Immigration Act 1988[^c-3f59524ea05b5f1027aac635ac1b61cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. Amendment of the Housing Act 1988[^key-7969ca42342d4ae8ed7e9850f277063c]
+#### 9. Amendment of the Housing Act 1988[^c-7969ca42342d4ae8ed7e9850f277063c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Amendment of the Police Act 1997[^key-15a403659e2af561d60881f9dde25973]
+#### 10. Amendment of the Police Act 1997[^c-15a403659e2af561d60881f9dde25973]
 
 In Schedule 8B to the Police Act 1997 [^c23688701] (offences which are to be disclosed subject to rules), in paragraph 69 (immigration, etc), in sub-paragraph (c), in the words in brackets, after “member State” insert “ or the United Kingdom ”.
 
-#### 11. Amendment of the Immigration and Asylum Act 1999[^key-514551de6e3b03a2ca52e9ea723d2348]
+#### 11. Amendment of the Immigration and Asylum Act 1999[^c-514551de6e3b03a2ca52e9ea723d2348]
 
 (1) The Immigration and Asylum Act 1999 [^c23688711] is amended as follows.
 
-(2)[^key-7e5bd61d10f232339a69c0967af3af6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-7e5bd61d10f232339a69c0967af3af6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 24 (duty to report suspicious marriages) [^c23688731], in subsection (6)—
 
@@ -149,7 +149,7 @@ In Schedule 8B to the Police Act 1997 [^c23688701] (offences which are to be dis
 - (a) in the definition of “relevant national”, in paragraph (b), omit “other than the United Kingdom”;
 - (b) omit the definition of “United Kingdom immigration law”.
 
-(5)[^key-1eda885f9ea8467ee732e7eacc8d6712] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-1eda885f9ea8467ee732e7eacc8d6712] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In section 84 (provision of immigration services) [^c23688761], in subsection (2)—
 
@@ -160,13 +160,13 @@ In Schedule 8B to the Police Act 1997 [^c23688701] (offences which are to be dis
 
 (8) In section 93 (disclosure of information) [^c23688781], in subsection (3)(b), omit “or any EU obligation of the Commissioner”.
 
-#### 12. Amendment of the Nationality, Immigration and Asylum Act 2002[^key-77c3ab0c5c0cca43b868402f94a8c522]
+#### 12. Amendment of the Nationality, Immigration and Asylum Act 2002[^c-77c3ab0c5c0cca43b868402f94a8c522]
 
 (1) The Nationality, Immigration and Asylum Act 2002 [^c23688791] is amended as follows.
 
-(2)[^key-2b214a8f740bce531d74d120babe8691] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2b214a8f740bce531d74d120babe8691] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-e8c6f7c7416845f9888cdc60bcab959a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-e8c6f7c7416845f9888cdc60bcab959a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 141 (EEA ports: juxtaposed controls)—
 
@@ -181,44 +181,44 @@ In Schedule 8B to the Police Act 1997 [^c23688701] (offences which are to be dis
 
 (5) In Schedule 3 (withholding and withdrawal of support)—
 
-- (a)[^key-ca3a9abb79735890d907aacb3adc9036] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-ca3a9abb79735890d907aacb3adc9036] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph 4 (first class of ineligible person: refugee status abroad), in sub-paragraph (2)—
   - (i) in paragraph (a), after “EEA State” insert “ and is not a British citizen ”; and
   - (ii) in paragraph (b), omit “other than the United Kingdom”;
-- (c)[^key-9c5a758933e733111be0b0a876a8cd9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-8286912088646eea3cb8d691fcf18cb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-9c5a758933e733111be0b0a876a8cd9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-8286912088646eea3cb8d691fcf18cb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Amendment of the Marriage (Northern Ireland) Order 2003[^key-92bf1b03e686ac9569f0c84b79e9168e]
+#### 13. Amendment of the Marriage (Northern Ireland) Order 2003[^c-92bf1b03e686ac9569f0c84b79e9168e]
 
 In article 2 of the Marriage (Northern Ireland) Order 2003 [^c23688841] (interpretation), in paragraph (2), in the definition of “relevant national”, in paragraph (b), omit “other than the United Kingdom”.
 
-#### 14. Amendment of the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004[^key-0ec7caf448f4f86c1b5674a402e3dbf1]
+#### 14. Amendment of the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004[^c-0ec7caf448f4f86c1b5674a402e3dbf1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Amendment of the Civil Partnership Act 2004[^key-a48b5a09cf0684a88dbf2e5bf5a1c79a]
+#### 15. Amendment of the Civil Partnership Act 2004[^c-a48b5a09cf0684a88dbf2e5bf5a1c79a]
 
 In section 30A of the Civil Partnership Act 2004 [^c23688861] (relevant nationals), in paragraph (b), omit “other than the United Kingdom”.
 
-#### 16. Amendment of the Serious Crime Act 2007[^key-041f8c0ac41349a898c16d12579e484c]
+#### 16. Amendment of the Serious Crime Act 2007[^c-041f8c0ac41349a898c16d12579e484c]
 
 In Schedule 3 to the Serious Crime Act 2007 [^c23688871] (listed offences), in paragraph 11, in the words in brackets, after “member State” insert “ or the United Kingdom ”.
 
-#### 17. Amendment of the UK Borders Act 2007[^key-acd99d8240b0a41509c1704aa6e0a1f1]
+#### 17. Amendment of the UK Borders Act 2007[^c-acd99d8240b0a41509c1704aa6e0a1f1]
 
 (1) The UK Borders Act 2007 [^c23688881] is amended as follows.
 
 (2) In section 32 (automatic deportation), in subsection (1)(a), after “British citizen” insert “ or an Irish citizen ”.
 
-(3)[^key-74cb4747451664d18e564ea5d8336d50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-74cb4747451664d18e564ea5d8336d50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-c096046df23b6b83ce481a12bae6887f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-c096046df23b6b83ce481a12bae6887f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 18. Amendment of the Criminal Justice and Immigration Act 2008[^key-6b197aea19db18c23ea4896d2857a838]
+#### 18. Amendment of the Criminal Justice and Immigration Act 2008[^c-6b197aea19db18c23ea4896d2857a838]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 19. Amendment of the Borders, Citizenship and Immigration Act 2009[^key-9c4c22b6f57c213c6eca0ad0e0d12492]
+#### 19. Amendment of the Borders, Citizenship and Immigration Act 2009[^c-9c4c22b6f57c213c6eca0ad0e0d12492]
 
 (1) The Borders, Citizenship and Immigration Act 2009 [^c23688931] is amended as follows.
 
@@ -230,7 +230,7 @@ In Schedule 3 to the Serious Crime Act 2007 [^c23688871] (listed offences), in p
 
 (5) In section 38 (interpretation), omit the definition of “EU law”.
 
-#### 20. Amendment of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^key-27abfedec6e67d17d924b1bd3ab82f27]
+#### 20. Amendment of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^c-27abfedec6e67d17d924b1bd3ab82f27]
 
 In Part 1 of Schedule 1 to the Legal Aid, Sentencing and Punishment of Offenders Act 2012 [^c23688941] (services), in paragraph 30 (immigration: rights to enter and remain)—
 
@@ -254,13 +254,13 @@ In Part 1 of Schedule 1 to the Legal Aid, Sentencing and Punishment of Offenders
     ;
   - (ii) omit the definition of “the Temporary Protection Directive”.
 
-#### 21. Amendment of the Immigration Act 2014[^key-cedc7b2454b67c75dd62dd1a620e9834]
+#### 21. Amendment of the Immigration Act 2014[^c-cedc7b2454b67c75dd62dd1a620e9834]
 
 (1) The Immigration Act 2014 [^c23688961] is amended as follows.
 
-(2)[^key-308bb4c8b8b0a3cd3b16dcb023a080c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-308bb4c8b8b0a3cd3b16dcb023a080c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-6a87a85add5fdebd0ede651a831141e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-6a87a85add5fdebd0ede651a831141e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 42 (“**bank**” and “**building society**”)—
 
@@ -288,15 +288,15 @@ In Part 1 of Schedule 1 to the Legal Aid, Sentencing and Punishment of Offenders
 
 (6) In section 62 (interpretation of Part 4), in subsection (1), in the definition of “relevant national”, in paragraph (b), omit “other than the United Kingdom”.
 
-(7)[^key-d4d0733d01291e6a50d47072d365826a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-d4d0733d01291e6a50d47072d365826a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 22. Amendment of the Modern Slavery Act 2015[^key-23de3d6fb4e2d2740fddfbcfb27e418f]
+#### 22. Amendment of the Modern Slavery Act 2015[^c-23de3d6fb4e2d2740fddfbcfb27e418f]
 
 In Schedule 4 to the Modern Slavery Act 2015 [^c23688981] (offences to which defence in section 45 does not apply), in paragraph 16, in the words in brackets, after “member state” insert “ or the United Kingdom ”.
 
 ### Chapter 2 — Amendment of subordinate legislation
 
-#### 23. Amendment of the Special Constables Regulations 1965[^key-98d6497b507a30f54f595bfc2b26846f]
+#### 23. Amendment of the Special Constables Regulations 1965[^c-98d6497b507a30f54f595bfc2b26846f]
 
 The existing provisions of regulation 1 of the Special Constables Regulations 1965 [^c23688991] (qualifications for appointment) become paragraph (1) of that regulation and—
 
@@ -311,15 +311,15 @@ The existing provisions of regulation 1 of the Special Constables Regulations 19
 
   .
 
-#### 24. Amendment of the Immigration (Control of Entry through Republic of Ireland) Order 1972[^key-49249edd76c8cd8923af8cf606d6591f]
+#### 24. Amendment of the Immigration (Control of Entry through Republic of Ireland) Order 1972[^c-49249edd76c8cd8923af8cf606d6591f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 25. Amendment of the Immigration (Leave to Enter and Remain) Order 2000[^key-eb4c9d94af19a5b361893f8d39146cfe]
+#### 25. Amendment of the Immigration (Leave to Enter and Remain) Order 2000[^c-eb4c9d94af19a5b361893f8d39146cfe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 26. Amendment of the Detention Centre Rules 2001[^key-147527cb3d5c4375c65e749337683dbf]
+#### 26. Amendment of the Detention Centre Rules 2001[^c-147527cb3d5c4375c65e749337683dbf]
 
 (1) The Detention Centre Rules 2001 [^c23689021] are amended as follows.
 
@@ -327,7 +327,7 @@ The existing provisions of regulation 1 of the Special Constables Regulations 19
 
 (3) In rule 27 (correspondence), in paragraph (6), omit “the European Court of Justice,”.
 
-#### 27. Amendment of the Police Trainee Regulations (Northern Ireland) 2001[^key-ab8eced214b406a3fc08ece1b4b70a62]
+#### 27. Amendment of the Police Trainee Regulations (Northern Ireland) 2001[^c-ab8eced214b406a3fc08ece1b4b70a62]
 
 The existing provisions of regulation 2A of the Police Trainee Regulations (Northern Ireland) 2001 [^c23689031] (qualifications for appointment as a police trainee) become paragraph (1) of that regulation and—
 
@@ -346,11 +346,11 @@ The existing provisions of regulation 2A of the Police Trainee Regulations (Nort
 
   .
 
-#### 28. Amendment of the Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) Order 2003[^key-137e6d0186cba66bb144daa3c30f4f5f]
+#### 28. Amendment of the Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) Order 2003[^c-137e6d0186cba66bb144daa3c30f4f5f]
 
 In article 12 of the Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) Order 2003 [^c23689041] (application of criminal law to a Control Zone in France), in paragraph (1)(b), after “member State” insert “ or the United Kingdom ”.
 
-#### 29. Amendment of the Police Regulations 2003[^key-75e09a99f7064ad95fb40edfae6b59aa]
+#### 29. Amendment of the Police Regulations 2003[^c-75e09a99f7064ad95fb40edfae6b59aa]
 
 In regulation 10 of the Police Regulations 2003 [^c23689051] (qualifications for appointment to a police force)—
 
@@ -366,25 +366,25 @@ In regulation 10 of the Police Regulations 2003 [^c23689051] (qualifications for
 
     .
 
-#### 30. Amendment of the British Nationality (General) Regulations 2003[^key-223f835065400cd9b3def57b211e6a83]
+#### 30. Amendment of the British Nationality (General) Regulations 2003[^c-223f835065400cd9b3def57b211e6a83]
 
 (1) The British Nationality (General) Regulations 2003 [^c23689061] are amended as follows.
 
-(2)[^key-ca9ee4befd62058d563160e9aa47988b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ca9ee4befd62058d563160e9aa47988b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In regulation 4 (authority to whom application is to be made), in paragraph (3), for “(acquisition by registration: nationals for purposes of the EU Treaties)” substitute “ (acquisition by registration: British overseas territories citizens having connection with Gibraltar) ”.
 
-(4)[^key-bc2726daa144ddda5deacac94ae73a40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-bc2726daa144ddda5deacac94ae73a40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-da5e5ff156666dc95c7961442cc37f87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-da5e5ff156666dc95c7961442cc37f87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In Schedule 2 (particular requirements as respects applications)—
 
-- (a)[^key-97455a6cb139a78ba929a23774110ec3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-97455a6cb139a78ba929a23774110ec3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph 12(a) (application under section 5 of the Act), for “for the purposes of the EU treaties” substitute “ by virtue of a connection with Gibraltar ”;
-- (c)[^key-0e6a1d1ec36aa27af06340e29e700f5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-0e6a1d1ec36aa27af06340e29e700f5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 31. Amendment of the Police Reserve Trainee Regulations (Northern Ireland) 2004[^key-604504ea69f3b928f2785aeb9d3c6524]
+#### 31. Amendment of the Police Reserve Trainee Regulations (Northern Ireland) 2004[^c-604504ea69f3b928f2785aeb9d3c6524]
 
 In regulation 1B of the Police Reserve Trainee Regulations (Northern Ireland) 2004 [^c23689071] (appointment as a police reserve trainee)—
 
@@ -403,7 +403,7 @@ In regulation 1B of the Police Reserve Trainee Regulations (Northern Ireland) 20
 
   .
 
-#### 32. Amendment of the Police Service of Northern Ireland Regulations 2005[^key-e25636d59bb43b631128e795baf4c4d4]
+#### 32. Amendment of the Police Service of Northern Ireland Regulations 2005[^c-e25636d59bb43b631128e795baf4c4d4]
 
 In regulation 10 of the Police Service of Northern Ireland Regulations 2005 [^c23689081] (qualifications for appointment (where no service as a police trainee))—
 
@@ -422,15 +422,15 @@ In regulation 10 of the Police Service of Northern Ireland Regulations 2005 [^c2
 
     .
 
-#### 33. Amendment of the Immigration (Provision of Physical Data) Regulations 2006[^key-57f97516e68edc19653ae9ac4b4c62f7]
+#### 33. Amendment of the Immigration (Provision of Physical Data) Regulations 2006[^c-57f97516e68edc19653ae9ac4b4c62f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 34. Amendment of the Immigration (Biometric Registration) Regulations 2008[^key-a564f1a94d67e23fa8155fd8793e2269]
+#### 34. Amendment of the Immigration (Biometric Registration) Regulations 2008[^c-a564f1a94d67e23fa8155fd8793e2269]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 35. Amendment of the Police Service of Scotland Regulations 2013[^key-812fefc54f2e8aa903ed16300c680551]
+#### 35. Amendment of the Police Service of Scotland Regulations 2013[^c-812fefc54f2e8aa903ed16300c680551]
 
 In regulation 6 of the Police Service of Scotland Regulations 2013 [^c23689111] (qualifications for appointment to the Police Service)—
 
@@ -445,7 +445,7 @@ In regulation 6 of the Police Service of Scotland Regulations 2013 [^c23689111] 
 
   .
 
-#### 36. Amendment of the Police Service of Scotland (Special Constables) Regulations 2013[^key-45e69eb219928003d082fa6c9724f9d3]
+#### 36. Amendment of the Police Service of Scotland (Special Constables) Regulations 2013[^c-45e69eb219928003d082fa6c9724f9d3]
 
 In regulation 5 of the Police Service of Scotland (Special Constables) Regulations 2013 [^c23689121] (qualifications for appointment as a special constable)—
 
@@ -460,11 +460,11 @@ In regulation 5 of the Police Service of Scotland (Special Constables) Regulatio
 
   .
 
-#### 37. Amendment of the Immigration (Passenger Transit Visa) Order 2014[^key-d67909e196bfe93f690b79cd23aa90fc]
+#### 37. Amendment of the Immigration (Passenger Transit Visa) Order 2014[^c-d67909e196bfe93f690b79cd23aa90fc]
 
 In article 2(6) of the Immigration (Passenger Transit Visa) Order 2014 [^c23689131], in the definition of “Schengen Acquis State”, omit “United Kingdom and”.
 
-#### 38. Amendment of the Referral of Proposed Marriages and Civil Partnerships Regulations 2015[^key-584a22eec91b7a9ab74c898388b32038]
+#### 38. Amendment of the Referral of Proposed Marriages and Civil Partnerships Regulations 2015[^c-584a22eec91b7a9ab74c898388b32038]
 
 In Schedule 1 to the Referral of Proposed Marriages and Civil Partnerships Regulations 2015 [^c23689141] (evidence of particular immigration status), in paragraph 1 (permanent residence)—
 
@@ -484,7 +484,7 @@ In Schedule 1 to the Referral of Proposed Marriages and Civil Partnerships Regul
 
     .
 
-#### 39. Amendment of the Proposed Marriages and Civil Partnerships (Conduct of Investigations, etc) Regulations 2015[^key-a9f3c07ce743a145b666d230af618aff]
+#### 39. Amendment of the Proposed Marriages and Civil Partnerships (Conduct of Investigations, etc) Regulations 2015[^c-a9f3c07ce743a145b666d230af618aff]
 
 In regulation 18 of the Proposed Marriages and Civil Partnerships (Conduct of Investigations, etc) Regulations 2015 [^c23689151] (prescribed information about the investigation)—
 
@@ -502,7 +502,7 @@ In regulation 18 of the Proposed Marriages and Civil Partnerships (Conduct of In
 
   .
 
-#### 40. Amendment of the Sham Marriage and Civil Partnership (Scotland and Northern Ireland) (Administrative) Regulations 2015[^key-d03b49e601171978c119b39d8e6eb172]
+#### 40. Amendment of the Sham Marriage and Civil Partnership (Scotland and Northern Ireland) (Administrative) Regulations 2015[^c-d03b49e601171978c119b39d8e6eb172]
 
 In Schedule 1 to the Sham Marriage and Civil Partnership (Scotland and Northern Ireland) (Administrative) Regulations 2015 [^c23689161] (evidence of particular immigration status), in paragraph 1 (permanent residence)—
 
@@ -522,19 +522,19 @@ In Schedule 1 to the Sham Marriage and Civil Partnership (Scotland and Northern 
 
     .
 
-#### 41. Amendment of the Immigration (Health Charge) Order 2015[^key-d9dc5d0dee35b52a085eeb76c5f5af38]
+#### 41. Amendment of the Immigration (Health Charge) Order 2015[^c-d9dc5d0dee35b52a085eeb76c5f5af38]
 
 In Schedule 2 to the Immigration (Health Charge) Order 2015 [^c23689171], in paragraph 1(l), for “an EU obligation (within the meaning of Part 2 of Schedule 1 to the European Communities Act 1972)” substitute “ a retained EU obligation ”.
 
-#### 42. Amendment of the Immigration and Nationality (Fees) Order 2016[^key-7a4567b3bc76590119488d34ede664ee]
+#### 42. Amendment of the Immigration and Nationality (Fees) Order 2016[^c-7a4567b3bc76590119488d34ede664ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 43. Amendment of the Immigration (European Economic Area) Regulations 2016[^key-b450fcccf0172ee50d3f72b0636393a0]
+#### 43. Amendment of the Immigration (European Economic Area) Regulations 2016[^c-b450fcccf0172ee50d3f72b0636393a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 44. Amendment of the Short-term Holding Facility Rules 2018[^key-7ac183a6aabd9ec1d8b582e4c7972107]
+#### 44. Amendment of the Short-term Holding Facility Rules 2018[^c-7ac183a6aabd9ec1d8b582e4c7972107]
 
 (1) The Short-term Holding Facility Rules 2018 [^c23689191] are amended as follows.
 
@@ -544,27 +544,27 @@ In Schedule 2 to the Immigration (Health Charge) Order 2015 [^c23689171], in par
 
 ### Chapter 3 — Revocation of subordinate legislation
 
-#### 45. Revocation of the Immigration (Assisting Unlawful Immigration) (Section 25 List of Schengen Acquis States) Order 2004[^key-afa9c2f64a7745b74b10d0f4470a1fb8]
+#### 45. Revocation of the Immigration (Assisting Unlawful Immigration) (Section 25 List of Schengen Acquis States) Order 2004[^c-afa9c2f64a7745b74b10d0f4470a1fb8]
 
 The Immigration (Assisting Unlawful Immigration) (Section 25 List of Schengen Acquis States) Order 2004 [^c23689201] is revoked.
 
-#### 46. Revocation of the Accession (Immigration and Worker Authorisation) Regulations 2006[^key-db3871b5a50351bbfd1b6e25eff37c7c]
+#### 46. Revocation of the Accession (Immigration and Worker Authorisation) Regulations 2006[^c-db3871b5a50351bbfd1b6e25eff37c7c]
 
 The Accession (Immigration and Worker Authorisation) Regulations 2006 [^c23689211] are revoked.
 
 ### Chapter 4 — Revocation of retained direct EU legislation etc.
 
-#### 47. Revocation of retained direct EU legislation relating to immigration and nationality[^key-5fede3f77c730ef5262886ac55979427]
+#### 47. Revocation of retained direct EU legislation relating to immigration and nationality[^c-5fede3f77c730ef5262886ac55979427]
 
 Part 1 of Schedule 1 has effect.
 
-#### 48. Disapplication of inconsistent retained EU rights etc.[^key-61948aaa9c2f9b5c29238411071a5c77]
+#### 48. Disapplication of inconsistent retained EU rights etc.[^c-61948aaa9c2f9b5c29238411071a5c77]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Chapter 5 — EC Association Agreement with Turkey
 
-#### 49. Disapplication of rights etc.[^key-688d2e3920fa5075daf3a1beb54f8bf1]
+#### 49. Disapplication of rights etc.[^c-688d2e3920fa5075daf3a1beb54f8bf1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -572,7 +572,7 @@ Part 1 of Schedule 1 has effect.
 
 ### Chapter 1 — Amendment of primary legislation
 
-#### 50. Amendment of the Nationality, Immigration and Asylum Act 2002[^key-0e6750cea5077499aec43eb4c2cf477b]
+#### 50. Amendment of the Nationality, Immigration and Asylum Act 2002[^c-0e6750cea5077499aec43eb4c2cf477b]
 
 (1) The Nationality, Immigration and Asylum Act 2002 [^c23689221] is amended as follows.
 
@@ -580,39 +580,39 @@ Part 1 of Schedule 1 has effect.
 
 (3) Omit section 94A (European Common List of Safe Countries of Origin).
 
-#### 51. Amendment of the Immigration Act 2014[^key-a5166d3d05aabb9aafb875de8828d8e4]
+#### 51. Amendment of the Immigration Act 2014[^c-a5166d3d05aabb9aafb875de8828d8e4]
 
 In Schedule 9 to the Immigration Act 2014 (transitional and consequential provision), omit paragraph 39.
 
 ### Chapter 2 — Revocation of subordinate legislation
 
-#### 52. Revocation of the Displaced Persons (Temporary Protection) Regulations 2005[^key-61451bcbbd693961e3eeb0d60a1935e0]
+#### 52. Revocation of the Displaced Persons (Temporary Protection) Regulations 2005[^c-61451bcbbd693961e3eeb0d60a1935e0]
 
 The Displaced Persons (Temporary Protection) Regulations 2005 [^c23689231] are revoked.
 
-#### 53. Revocation of the Transfer for Determination of an Application for International Protection (Detention) (Significant Risk of Absconding Criteria) Regulations 2017[^key-d5cd2297ea761759f4206ccbe67d2a6a]
+#### 53. Revocation of the Transfer for Determination of an Application for International Protection (Detention) (Significant Risk of Absconding Criteria) Regulations 2017[^c-d5cd2297ea761759f4206ccbe67d2a6a]
 
 The Transfer for Determination of an Application for International Protection (Detention) (Significant Risk of Absconding Criteria) Regulations 2017 [^c23689241] are revoked.
 
 ### Chapter 3 — Revocation of retained direct EU legislation
 
-#### 54. Revocation of retained direct EU legislation[^key-a7e99507ef980b229a3309019729b29d]
+#### 54. Revocation of retained direct EU legislation[^c-a7e99507ef980b229a3309019729b29d]
 
 Part 2 of Schedule 1 has effect.
 
-### Chapter 4 — International Agreements[^key-d95437eb4ae991f9864d3e5a75cae27a]
+### Chapter 4 — International Agreements[^c-d95437eb4ae991f9864d3e5a75cae27a]
 
-#### 55. Revocation of rights etc.[^key-d95437eb4ae991f9864d3e5a75cae27a]
+#### 55. Revocation of rights etc.[^c-d95437eb4ae991f9864d3e5a75cae27a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — Supplementary
 
-### 56. Saving and transitional provisions[^key-e2d95867ab388fcbdabd6672b77d3898]
+### 56. Saving and transitional provisions[^c-e2d95867ab388fcbdabd6672b77d3898]
 
-Schedule 2 (saving and transitional provisions) has effect. *(affected by repeal, see note)*[^key-797dc178983aaaaa6156e453150ed1bf]
+Schedule 2 (saving and transitional provisions) has effect. *(affected by repeal, see note)*[^c-797dc178983aaaaa6156e453150ed1bf]
 
-### 57. Amendments consequential on revocation of the Displaced Persons (Temporary Protection) Regulations 2005[^key-97d3a449ae0c588541929363fc579bb4]
+### 57. Amendments consequential on revocation of the Displaced Persons (Temporary Protection) Regulations 2005[^c-97d3a449ae0c588541929363fc579bb4]
 
 Schedule 3 (amendments consequential on revocation of the Displaced Persons (Temporary Protection) Regulations 2005) has effect.
 
@@ -628,7 +628,7 @@ Regulations 47 and 54
 
 ### PART 1 — Revocations related to immigration and nationality
 
-**1.**[^key-576ef212a51cdce88969386c0ec23e89] The provisions of retained direct EU legislation specified in the first column of the table are revoked to the extent stated in the second column.
+**1.**[^c-576ef212a51cdce88969386c0ec23e89] The provisions of retained direct EU legislation specified in the first column of the table are revoked to the extent stated in the second column.
 
 | *Retained direct EU legislation* | *Extent of revocation* |
 | --- | --- |
@@ -648,11 +648,11 @@ Regulations 47 and 54
 | Council Decision of 14 May 2008 establishing a European Migration Network ([2008/381/EC](https://www.legislation.gov.uk/eudn/2008/381)) | The whole decision |
 | Regulation (EU) No 2016/1191 of the European Parliament and of the Council of 6 July 2016 on promoting the free movement of citizens by simplifying the requirements for presenting certain public documents in the European Union and amending Regulation (EU) No 1024/2012 | The whole instrument |
 
-**2.**[^key-dd387094fc64d1f4e8f9a7b69ec3c435] In this Part “**the 1990 Schengen Convention**” means the Convention implementing the Schengen Agreement of 14 June 1985 between the Governments of the States of the Benelux Economic Union, the Federal Republic of Germany and the French Republic on the gradual abolition of checks at their common borders.
+**2.**[^c-dd387094fc64d1f4e8f9a7b69ec3c435] In this Part “**the 1990 Schengen Convention**” means the Convention implementing the Schengen Agreement of 14 June 1985 between the Governments of the States of the Benelux Economic Union, the Federal Republic of Germany and the French Republic on the gradual abolition of checks at their common borders.
 
 ### PART 2 — Revocations related to asylum
 
-**3.**[^key-300eb676e9ff75cdcead462a3a41ded8] The following provisions of retained direct EU legislation are revoked—
+**3.**[^c-300eb676e9ff75cdcead462a3a41ded8] The following provisions of retained direct EU legislation are revoked—
 
 - (a) Council Decision of 4 March 1996 on an alert and emergency procedure for burden-sharing with regard to the admission and residence of displaced persons on a temporary basis (96/198/JHA);
 - (b) Council Decision of 26 June 1997 on monitoring the implementation of instruments adopted concerning asylum (97/420/JHA);
@@ -671,19 +671,19 @@ Regulation 56
 
 ### PART 1 — Interpretation
 
-#### 1. Meaning of “commencement day”[^key-3183059e6a3861886e6cf36a005fbd16]
+#### 1. Meaning of “commencement day”[^c-3183059e6a3861886e6cf36a005fbd16]
 
 In this schedule “**commencement day**” means the time when these Regulations come into force.
 
 ### PART 2 — Saving and transitional provisions in relation to immigration and nationality
 
-#### 2. British Nationality Act 1981[^key-0810f0d68cb4decdc8da0aaef5f1b7a8]
+#### 2. British Nationality Act 1981[^c-0810f0d68cb4decdc8da0aaef5f1b7a8]
 
 (1) The amendment made by regulation 7 does not affect the determination of an application made under section 5 of the British Nationality Act 1981 before commencement day which has not been determined before commencement day.
 
 (2) For the purpose of determining such an application, section 5 applies as if the reference to a person who falls to be treated as a national of the United Kingdom for the purposes of the EU Treaties were a reference to a person who is a British overseas territories citizen by virtue of a connection with Gibraltar.
 
-#### 3. Immigration and Asylum Act 1999[^key-1614dcc56e1af7083c042ae01ec64514]
+#### 3. Immigration and Asylum Act 1999[^c-1614dcc56e1af7083c042ae01ec64514]
 
 (1) Notwithstanding the repeal of section 84(2)(c) of the Immigration and Asylum Act 1999 by regulation 11(6)(a), until the appointed day section 84(2)(c) of that Act (but not sub-paragraph (i) of section 84(2)(c)) continues to have effect in respect of registered European lawyers.
 
@@ -693,29 +693,29 @@ In this schedule “**commencement day**” means the time when these Regulation
 - “**registered European lawyer**” means a person who has registered with a designated professional body before commencement day in reliance on domestic legislation implementing Directive [98/5/EC](https://www.legislation.gov.uk/eudr/1998/5) of the European Parliament and of the Council of 16 February 1998 to facilitate practice of the profession of lawyer on a permanent basis in a Member State other than that in which the qualification was obtained;
 - “**designated professional body**” has the meaning given in section 86 of the Immigration and Asylum Act 1999.
 
-#### 4. Nationality, Immigration and Asylum Act 2002[^key-a134d371306dfef13d432732d58a1207]
+#### 4. Nationality, Immigration and Asylum Act 2002[^c-a134d371306dfef13d432732d58a1207]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. UK Borders Act 2007[^key-760f7c27bb2dfd164cd83a5d2e59004b]
+#### 5. UK Borders Act 2007[^c-760f7c27bb2dfd164cd83a5d2e59004b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Detention Centre Rules 2001[^key-47ae3da1552e80558378f81099739318]
+#### 6. Detention Centre Rules 2001[^c-47ae3da1552e80558378f81099739318]
 
 The amendment made by regulation 26(3) does not apply in respect of any letter to the European Court of Justice relating to proceedings that were the subject of a reference to that Court made before commencement day.
 
-#### 7. Short-term Holding Facility Rules 2018[^key-c3d53fc2b20f3ff0376bebb0058f1c95]
+#### 7. Short-term Holding Facility Rules 2018[^c-c3d53fc2b20f3ff0376bebb0058f1c95]
 
 The amendment made by regulation 44(3) does not apply in respect of any letter to the Court of Justice of the European Union relating to proceedings that were the subject of a reference to that Court made before commencement day.
 
 ### PART 3 — Saving provisions in relation to asylum
 
-#### 8. Regulation (EU) No 439/2010[^key-51356ff5af7ae166a7769c8437c6be4e]
+#### 8. Regulation (EU) No 439/2010[^c-51356ff5af7ae166a7769c8437c6be4e]
 
 Notwithstanding the revocation of Regulation (EU) No 439/2010 by regulation 54 and Part 2 of Schedule 1, Articles 21 (civil liability) and 22 (criminal liability) of that regulation continue to apply in respect of damage caused and criminal offences committed before commencement day.
 
-#### 9. Requests for taking charge and taking back made to the UK before commencement day[^key-1307960503b93b507615c9db29750056]
+#### 9. Requests for taking charge and taking back made to the UK before commencement day[^c-1307960503b93b507615c9db29750056]
 
 (1) This paragraph applies where—
 
@@ -751,7 +751,7 @@ Notwithstanding the revocation of Regulation (EU) No 439/2010 by regulation 54 
 
 (8) For the purposes of this paragraph, “**Dublin Family Provisions**” means Article 8 (minors), 9 (family members who are beneficiaries of international protection), 10 (family members who are applicants for international protection), 11 (family procedure), 16 (dependent persons) or 17(2) (discretionary clauses) of Regulation (EU) No 604/2013.
 
-#### 10. Eurodac[^key-bdafffad7d12e5195924febe95da69cc]
+#### 10. Eurodac[^c-bdafffad7d12e5195924febe95da69cc]
 
 (1) Notwithstanding the revocation of the Eurodac Regulation by regulation 54 and Part 2 of Schedule 1 the provisions of the Eurodac Regulation referred to in sub-paragraph (2) continue to have effect in relation to data obtained before commencement day from Eurodac by a competent authority of the United Kingdom.
 
@@ -770,7 +770,7 @@ Notwithstanding the revocation of Regulation (EU) No 439/2010 by regulation 54 
 - “**Eurodac**” means the system including a central fingerprint database for the European Union as described in Article 3 of the Eurodac Regulation;
 - “**the Eurodac Regulation**” means Regulation (EU) No 603/2013.
 
-#### 11. Data transmitted to the UK before commencement day[^key-837bf878e4aa6336e668c91bcdf5a900]
+#### 11. Data transmitted to the UK before commencement day[^c-837bf878e4aa6336e668c91bcdf5a900]
 
 (1) This paragraph applies in relation to information transmitted to the United Kingdom before commencement day under paragraph (1) of Article 34 of Regulation (EU) No 604/2013 (information sharing).
 
@@ -788,7 +788,7 @@ Notwithstanding the revocation of Regulation (EU) No 439/2010 by regulation 54 
 
 (5) The provisions referred to in sub-paragraph (3) are to be construed as if the United Kingdom continued to be a member State.
 
-#### 12. Data transmitted by the UK before commencement day[^key-38bf03557792f1291b7aea0d483c407f]
+#### 12. Data transmitted by the UK before commencement day[^c-38bf03557792f1291b7aea0d483c407f]
 
 (1) This paragraph applies in relation to information transmitted by the United Kingdom before commencement day under paragraph (1) of Article 34 of Regulation (EU) No 604/2013 (information sharing).
 
@@ -799,7 +799,7 @@ Notwithstanding the revocation of Regulation (EU) No 439/2010 by regulation 54 
 - (a) the last sentence were omitted;
 - (b) the United Kingdom continued to be a member State.
 
-## SCHEDULE 3 — Amendments consequential on revocation of the Displaced Persons (Temporary Protection) Regulations 2005[^key-d44c477badd89480feba137fc1cafaa2]
+## SCHEDULE 3 — Amendments consequential on revocation of the Displaced Persons (Temporary Protection) Regulations 2005[^c-d44c477badd89480feba137fc1cafaa2]
 
 Regulation 57
 
@@ -851,15 +851,15 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23688551]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-13b8ace69ace39862e8f1ea5257e9d68]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-13b8ace69ace39862e8f1ea5257e9d68]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-4eb51e502859ac626f3901b3ddb03d4c]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-4eb51e502859ac626f3901b3ddb03d4c]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23688561]: Marginal citation: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76). The definition of “relevant national” in section 78(1) was inserted by paragraph 17 of Schedule 4 to the [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22). There have been other amendments to this section which are not relevant to these Regulations.
 
-[^key-78f5b159f6577089d67539479fe53474]: Textual amendment: Reg. 3 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-78f5b159f6577089d67539479fe53474]: Textual amendment: Reg. 3 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
-[^key-ea19b8827f82f3ccbec01a6779cca657]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-ea19b8827f82f3ccbec01a6779cca657]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23688591]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
@@ -867,41 +867,41 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23688611]: Marginal citation: Section 25 was substituted by section 143 of the [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41). Subsection (1) was amended by paragraph 2 of Schedule 14 to the [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19). Subsections (7) and (8) were inserted by section 1(1) of the [Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19) and amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043). There have been other amendments to this section which are not relevant to these Regulations.
 
-[^key-0e2264f9d87df5f88a2a5cbccc554b91]: Textual amendment: Reg. 4(3)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-0e2264f9d87df5f88a2a5cbccc554b91]: Textual amendment: Reg. 4(3)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
 [^c23688621]: Marginal citation: [1981 c.61](https://www.legislation.gov.uk/ukpga/1981/61).
 
 [^c23688631]: Marginal citation: Section 25C was substituted by section 143 of the Nationality, Immigration and Asylum Act 2002. Subsection (9)(a) was amended by section 1(2) of the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004. There have been other amendments to this section which are not relevant to these Regulations.
 
-[^key-5a084525e37430751f28b94faa9194ba]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-5a084525e37430751f28b94faa9194ba]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23688641]: Marginal citation: [1977 c. 15](https://www.legislation.gov.uk/ukpga/1977/15). The definition of “relevant national” in section 26(2) was inserted by [S.I. 2015/396](https://www.legislation.gov.uk/uksi/2015/396). There have been other amendments to this section which are not relevant to these Regulations.
 
-[^key-819f1221e9a4605b5c3e9c8b53cde294]: Textual amendment: Reg. 6 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-819f1221e9a4605b5c3e9c8b53cde294]: Textual amendment: Reg. 6 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
-[^key-6fb7b785fd901fcee76fd883d50b0bf8]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-6fb7b785fd901fcee76fd883d50b0bf8]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23688661]: Marginal citation: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61). Section 5 was amended by section 2(2)(b) of the [British Overseas Territories Act 2002 (c. 8)](https://www.legislation.gov.uk/ukpga/2002/8) and by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 
-[^key-3f59524ea05b5f1027aac635ac1b61cf]: Textual amendment: Reg. 8 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-3f59524ea05b5f1027aac635ac1b61cf]: Textual amendment: Reg. 8 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
-[^key-7969ca42342d4ae8ed7e9850f277063c]: Textual amendment: Reg. 9 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-7969ca42342d4ae8ed7e9850f277063c]: Textual amendment: Reg. 9 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
-[^key-15a403659e2af561d60881f9dde25973]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-15a403659e2af561d60881f9dde25973]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23688701]: Marginal citation: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50). Schedule 8B was inserted by [S.S.I. 2015/423](https://www.legislation.gov.uk/ssi/2015/423).
 
-[^key-514551de6e3b03a2ca52e9ea723d2348]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-514551de6e3b03a2ca52e9ea723d2348]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23688711]: Marginal citation: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33).
 
-[^key-7e5bd61d10f232339a69c0967af3af6d]: Textual amendment: Reg. 11(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-7e5bd61d10f232339a69c0967af3af6d]: Textual amendment: Reg. 11(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
 [^c23688731]: Marginal citation: Section 24(6) was substituted by section 55(2) of the Immigration Act 2014. There have been other amendments to this section which are not relevant to these Regulations.
 
 [^c23688741]: Marginal citation: Section 24A was inserted by section 261(1) of, and paragraph 162 of Schedule 27 to, the Civil Partnership Act 2004. Subsection (5A) was inserted by section 55(1) and (3) of the [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22). There have been other amendments to this section which are not relevant to these Regulations.
 
-[^key-1eda885f9ea8467ee732e7eacc8d6712]: Textual amendment: Reg. 11(5) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-1eda885f9ea8467ee732e7eacc8d6712]: Textual amendment: Reg. 11(5) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
 [^c23688761]: Marginal citation: Section 84 was amended by section 37(1) of the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 and by paragraph 12(2)(b) of Schedule 18 to the [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29). There have been other amendments to this section, which are not relevant to these Regulations.
 
@@ -909,229 +909,229 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23688781]: Marginal citation: Section 93 was amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043). There have been other amendments to this section which are not relevant to these Regulations.
 
-[^key-77c3ab0c5c0cca43b868402f94a8c522]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-77c3ab0c5c0cca43b868402f94a8c522]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23688791]: Marginal citation: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41).
 
-[^key-2b214a8f740bce531d74d120babe8691]: Textual amendment: Reg. 12(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-2b214a8f740bce531d74d120babe8691]: Textual amendment: Reg. 12(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
-[^key-e8c6f7c7416845f9888cdc60bcab959a]: Textual amendment: Reg. 12(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-e8c6f7c7416845f9888cdc60bcab959a]: Textual amendment: Reg. 12(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
-[^key-ca3a9abb79735890d907aacb3adc9036]: Textual amendment: Reg. 12(5)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-ca3a9abb79735890d907aacb3adc9036]: Textual amendment: Reg. 12(5)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
-[^key-9c5a758933e733111be0b0a876a8cd9c]: Textual amendment: Reg. 12(5)(c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-9c5a758933e733111be0b0a876a8cd9c]: Textual amendment: Reg. 12(5)(c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
-[^key-8286912088646eea3cb8d691fcf18cb6]: Textual amendment: Reg. 12(5)(d) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-8286912088646eea3cb8d691fcf18cb6]: Textual amendment: Reg. 12(5)(d) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
-[^key-92bf1b03e686ac9569f0c84b79e9168e]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-92bf1b03e686ac9569f0c84b79e9168e]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23688841]: Marginal citation: [S.I. 2003/413 (N.I. 3)](https://www.legislation.gov.uk/nisi/2003/413).
 
-[^key-0ec7caf448f4f86c1b5674a402e3dbf1]: Textual amendment: Reg. 14 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-0ec7caf448f4f86c1b5674a402e3dbf1]: Textual amendment: Reg. 14 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
-[^key-a48b5a09cf0684a88dbf2e5bf5a1c79a]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-a48b5a09cf0684a88dbf2e5bf5a1c79a]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23688861]: Marginal citation: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33). Section 30A was inserted by paragraph 27 of Schedule 4 to the Immigration Act 2014.
 
-[^key-041f8c0ac41349a898c16d12579e484c]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-041f8c0ac41349a898c16d12579e484c]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23688871]: Marginal citation: [2007 c. 27](https://www.legislation.gov.uk/ukpga/2007/27).
 
-[^key-acd99d8240b0a41509c1704aa6e0a1f1]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-acd99d8240b0a41509c1704aa6e0a1f1]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23688881]: Marginal citation: [2007 c. 30](https://www.legislation.gov.uk/ukpga/2007/30).
 
-[^key-74cb4747451664d18e564ea5d8336d50]: Textual amendment: Reg. 17(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-74cb4747451664d18e564ea5d8336d50]: Textual amendment: Reg. 17(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
-[^key-c096046df23b6b83ce481a12bae6887f]: Textual amendment: Reg. 17(4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-c096046df23b6b83ce481a12bae6887f]: Textual amendment: Reg. 17(4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
-[^key-6b197aea19db18c23ea4896d2857a838]: Textual amendment: Reg. 18 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-6b197aea19db18c23ea4896d2857a838]: Textual amendment: Reg. 18 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
-[^key-9c4c22b6f57c213c6eca0ad0e0d12492]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-9c4c22b6f57c213c6eca0ad0e0d12492]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23688931]: Marginal citation: [2009 c. 11](https://www.legislation.gov.uk/ukpga/2009/11). Sections 1, 26 and 38 were amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043). There have been other amendments to these sections which are not relevant to these Regulations.
 
-[^key-27abfedec6e67d17d924b1bd3ab82f27]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-27abfedec6e67d17d924b1bd3ab82f27]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23688941]: Marginal citation: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10). There have been amendments to Schedule 1 which are not relevant to these Regulations.
 
 [^c23688951]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77). There have been amendments to section 33(1) which are not relevant to these Regulations.
 
-[^key-cedc7b2454b67c75dd62dd1a620e9834]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-cedc7b2454b67c75dd62dd1a620e9834]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23688961]: Marginal citation: [2014 c. 22](https://www.legislation.gov.uk/ukpga/2014/22).
 
-[^key-308bb4c8b8b0a3cd3b16dcb023a080c0]: Textual amendment: Reg. 21(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-308bb4c8b8b0a3cd3b16dcb023a080c0]: Textual amendment: Reg. 21(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
-[^key-6a87a85add5fdebd0ede651a831141e0]: Textual amendment: Reg. 21(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-6a87a85add5fdebd0ede651a831141e0]: Textual amendment: Reg. 21(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
-[^key-d4d0733d01291e6a50d47072d365826a]: Textual amendment: Reg. 21(7) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-d4d0733d01291e6a50d47072d365826a]: Textual amendment: Reg. 21(7) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
-[^key-23de3d6fb4e2d2740fddfbcfb27e418f]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-23de3d6fb4e2d2740fddfbcfb27e418f]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23688981]: Marginal citation: [2015 c. 30](https://www.legislation.gov.uk/ukpga/2015/30).
 
-[^key-98d6497b507a30f54f595bfc2b26846f]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-98d6497b507a30f54f595bfc2b26846f]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23688991]: Marginal citation: [S.I. 1965/536](https://www.legislation.gov.uk/uksi/1965/536). Regulation 1 was amended by [S.I. 2002/3180](https://www.legislation.gov.uk/uksi/2002/3180), 2006/2278, 2012/1961. There have been other amendments to this regulation which are not relevant to these Regulations.
 
-[^key-49249edd76c8cd8923af8cf606d6591f]: Textual amendment: Reg. 24 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-49249edd76c8cd8923af8cf606d6591f]: Textual amendment: Reg. 24 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
-[^key-eb4c9d94af19a5b361893f8d39146cfe]: Textual amendment: Reg. 25 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-eb4c9d94af19a5b361893f8d39146cfe]: Textual amendment: Reg. 25 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
-[^key-147527cb3d5c4375c65e749337683dbf]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-147527cb3d5c4375c65e749337683dbf]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23689021]: Marginal citation: [S.I. 2001/238](https://www.legislation.gov.uk/uksi/2001/238); amended by [S.I. 2010/21](https://www.legislation.gov.uk/uksi/2010/21), 2011/1043. There have been other amendments to the Rules which are not relevant to these Regulations
 
-[^key-ab8eced214b406a3fc08ece1b4b70a62]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-ab8eced214b406a3fc08ece1b4b70a62]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23689031]: Marginal citation: S.R. [2001 No. 369](https://www.legislation.gov.uk/ukcm/2001/369). Regulation 2A was inserted by S.R. [2008 No. 314](https://www.legislation.gov.uk/ukcm/2008/314). There have been other amendments to the Regulations which are not relevant to these Regulations.
 
-[^key-137e6d0186cba66bb144daa3c30f4f5f]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-137e6d0186cba66bb144daa3c30f4f5f]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23689041]: Marginal citation: [S.I. 2003/2818](https://www.legislation.gov.uk/uksi/2003/2818). There have been amendments to the Order which are not relevant to these Regulations
 
-[^key-75e09a99f7064ad95fb40edfae6b59aa]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-75e09a99f7064ad95fb40edfae6b59aa]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23689051]: Marginal citation: [S.I. 2003/527](https://www.legislation.gov.uk/uksi/2003/527). Regulation 10(1)(a) was substituted by [S.I. 2005/2834](https://www.legislation.gov.uk/uksi/2005/2834). There have been other amendments to the Regulations which are not relevant to these Regulations.
 
-[^key-223f835065400cd9b3def57b211e6a83]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-223f835065400cd9b3def57b211e6a83]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23689061]: Marginal citation: [S.I. 2003/548](https://www.legislation.gov.uk/uksi/2003/548); amended by [S.I. 2007/3137](https://www.legislation.gov.uk/uksi/2007/3137), 2011/1043, 2015/738, 1806. There have been other amendments to the Regulations which are not relevant to these Regulations.
 
-[^key-ca9ee4befd62058d563160e9aa47988b]: Textual amendment: Reg. 30(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-ca9ee4befd62058d563160e9aa47988b]: Textual amendment: Reg. 30(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
-[^key-bc2726daa144ddda5deacac94ae73a40]: Textual amendment: Reg. 30(4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-bc2726daa144ddda5deacac94ae73a40]: Textual amendment: Reg. 30(4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
-[^key-da5e5ff156666dc95c7961442cc37f87]: Textual amendment: Reg. 30(5) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-da5e5ff156666dc95c7961442cc37f87]: Textual amendment: Reg. 30(5) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
-[^key-97455a6cb139a78ba929a23774110ec3]: Textual amendment: Reg. 30(6)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-97455a6cb139a78ba929a23774110ec3]: Textual amendment: Reg. 30(6)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
-[^key-0e6a1d1ec36aa27af06340e29e700f5c]: Textual amendment: Reg. 30(6)(c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-0e6a1d1ec36aa27af06340e29e700f5c]: Textual amendment: Reg. 30(6)(c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
-[^key-604504ea69f3b928f2785aeb9d3c6524]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-604504ea69f3b928f2785aeb9d3c6524]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23689071]: Marginal citation: S.R. [2004 No. 2](https://www.legislation.gov.uk/ukcm/2004/2). Regulation 1B was inserted by S.R. [2009 No. 391](https://www.legislation.gov.uk/ukcm/2009/391). There have been other amendments to the Regulations which are not relevant to these Regulations.
 
-[^key-e25636d59bb43b631128e795baf4c4d4]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-e25636d59bb43b631128e795baf4c4d4]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23689081]: Marginal citation: S.R. [2005 No. 547](https://www.legislation.gov.uk/ukcm/2005/547); amended by S.R. [2008 No. 325](https://www.legislation.gov.uk/ukcm/2008/325). There have been other amendments to the Regulations which are not relevant to these Regulations.
 
-[^key-57f97516e68edc19653ae9ac4b4c62f7]: Textual amendment: Reg. 33 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-57f97516e68edc19653ae9ac4b4c62f7]: Textual amendment: Reg. 33 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
-[^key-a564f1a94d67e23fa8155fd8793e2269]: Textual amendment: Reg. 34 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-a564f1a94d67e23fa8155fd8793e2269]: Textual amendment: Reg. 34 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
-[^key-812fefc54f2e8aa903ed16300c680551]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-812fefc54f2e8aa903ed16300c680551]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23689111]: Marginal citation: [S.S.I. 2013/35](https://www.legislation.gov.uk/ssi/2013/35); amended by S.S.I 2013/122. There have been other amendments to the Regulations which are not relevant to these Regulations.
 
-[^key-45e69eb219928003d082fa6c9724f9d3]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-45e69eb219928003d082fa6c9724f9d3]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23689121]: Marginal citation: [S.S.I. 2013/43](https://www.legislation.gov.uk/ssi/2013/43); amended by [S.S.I. 2013/122](https://www.legislation.gov.uk/ssi/2013/122). There have been other amendments to the Regulations which are not relevant to these Regulations.
 
-[^key-d67909e196bfe93f690b79cd23aa90fc]: Commencement: Reg. 37 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-d67909e196bfe93f690b79cd23aa90fc]: Commencement: Reg. 37 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23689131]: Marginal citation: [S.I. 2014/2702](https://www.legislation.gov.uk/uksi/2014/2702). There have been amendments to the Order which are not relevant to these Regulations.
 
-[^key-584a22eec91b7a9ab74c898388b32038]: Commencement: Reg. 38 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-584a22eec91b7a9ab74c898388b32038]: Commencement: Reg. 38 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23689141]: Marginal citation: [S.I. 2015/123](https://www.legislation.gov.uk/uksi/2015/123).
 
-[^key-a9f3c07ce743a145b666d230af618aff]: Commencement: Reg. 39 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-a9f3c07ce743a145b666d230af618aff]: Commencement: Reg. 39 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23689151]: Marginal citation: [S.I. 2015/397](https://www.legislation.gov.uk/uksi/2015/397).
 
-[^key-d03b49e601171978c119b39d8e6eb172]: Commencement: Reg. 40 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-d03b49e601171978c119b39d8e6eb172]: Commencement: Reg. 40 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23689161]: Marginal citation: [S.I. 2015/404](https://www.legislation.gov.uk/uksi/2015/404).
 
-[^key-d9dc5d0dee35b52a085eeb76c5f5af38]: Commencement: Reg. 41 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-d9dc5d0dee35b52a085eeb76c5f5af38]: Commencement: Reg. 41 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23689171]: Marginal citation: [S.I. 2015/792](https://www.legislation.gov.uk/uksi/2015/792). There have been amendments to the Order which are not relevant to these Regulations.
 
-[^key-7a4567b3bc76590119488d34ede664ee]: Textual amendment: Reg. 42 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-7a4567b3bc76590119488d34ede664ee]: Textual amendment: Reg. 42 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
-[^key-b450fcccf0172ee50d3f72b0636393a0]: Textual amendment: Reg. 43 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-b450fcccf0172ee50d3f72b0636393a0]: Textual amendment: Reg. 43 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
-[^key-7ac183a6aabd9ec1d8b582e4c7972107]: Commencement: Reg. 44 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-7ac183a6aabd9ec1d8b582e4c7972107]: Commencement: Reg. 44 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23689191]: Marginal citation: [S.I. 2018/409](https://www.legislation.gov.uk/uksi/2018/409).
 
-[^key-afa9c2f64a7745b74b10d0f4470a1fb8]: Commencement: Reg. 45 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-afa9c2f64a7745b74b10d0f4470a1fb8]: Commencement: Reg. 45 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23689201]: Marginal citation: [S.I. 2004/2877](https://www.legislation.gov.uk/uksi/2004/2877).
 
-[^key-db3871b5a50351bbfd1b6e25eff37c7c]: Commencement: Reg. 46 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-db3871b5a50351bbfd1b6e25eff37c7c]: Commencement: Reg. 46 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23689211]: Marginal citation: [S.I. 2006/3317](https://www.legislation.gov.uk/uksi/2006/3317), to which there are amendments not relevant to these Regulations.
 
-[^key-5fede3f77c730ef5262886ac55979427]: Commencement: Reg. 47 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-5fede3f77c730ef5262886ac55979427]: Commencement: Reg. 47 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-61948aaa9c2f9b5c29238411071a5c77]: Textual amendment: [Reg. 48](https://www.legislation.gov.uk/uksi/2019/745/regulation/48) omitted (1.3.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 11(a)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/11/a)
+[^c-61948aaa9c2f9b5c29238411071a5c77]: Textual amendment: [Reg. 48](https://www.legislation.gov.uk/uksi/2019/745/regulation/48) omitted (1.3.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 11(a)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/11/a)
 
-[^key-688d2e3920fa5075daf3a1beb54f8bf1]: Textual amendment: [Reg. 49](https://www.legislation.gov.uk/uksi/2019/745/regulation/49) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-688d2e3920fa5075daf3a1beb54f8bf1]: Textual amendment: [Reg. 49](https://www.legislation.gov.uk/uksi/2019/745/regulation/49) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
-[^key-0e6750cea5077499aec43eb4c2cf477b]: Commencement: Reg. 50 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-0e6750cea5077499aec43eb4c2cf477b]: Commencement: Reg. 50 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23689221]: Marginal citation: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41). Section 94(5D) was inserted by [S.I. 2007/3187](https://www.legislation.gov.uk/uksi/2007/3187). Section 94A was inserted by [S.I. 2007/3187](https://www.legislation.gov.uk/uksi/2007/3187) and amended by paragraph 39 of Schedule 9 to the [Immigration Act 2014 (c.22)](https://www.legislation.gov.uk/ukpga/2014/22) and by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 
-[^key-a5166d3d05aabb9aafb875de8828d8e4]: Commencement: Reg. 51 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-a5166d3d05aabb9aafb875de8828d8e4]: Commencement: Reg. 51 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-61451bcbbd693961e3eeb0d60a1935e0]: Commencement: Reg. 52 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-61451bcbbd693961e3eeb0d60a1935e0]: Commencement: Reg. 52 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23689231]: Marginal citation: [S.I. 2005/1379](https://www.legislation.gov.uk/uksi/2005/1379); amended by [S.I. 2010/671](https://www.legislation.gov.uk/uksi/2010/671), 2012/700, 2013/630.
 
-[^key-d5cd2297ea761759f4206ccbe67d2a6a]: Commencement: Reg. 53 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-d5cd2297ea761759f4206ccbe67d2a6a]: Commencement: Reg. 53 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23689241]: Marginal citation: [S.I. 2017/405](https://www.legislation.gov.uk/uksi/2017/405).
 
-[^key-a7e99507ef980b229a3309019729b29d]: Commencement: Reg. 54 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-a7e99507ef980b229a3309019729b29d]: Commencement: Reg. 54 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-d95437eb4ae991f9864d3e5a75cae27a]: Textual amendment: Pt. 3 Ch. 4 omitted (1.3.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 11(b)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/11/b)
+[^c-d95437eb4ae991f9864d3e5a75cae27a]: Textual amendment: Pt. 3 Ch. 4 omitted (1.3.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 11(b)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/11/b)
 
-[^key-e2d95867ab388fcbdabd6672b77d3898]: Commencement: Reg. 56 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-e2d95867ab388fcbdabd6672b77d3898]: Commencement: Reg. 56 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-797dc178983aaaaa6156e453150ed1bf]: Textual amendment: Reg. 56 omitted in part (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-797dc178983aaaaa6156e453150ed1bf]: Textual amendment: Reg. 56 omitted in part (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
-[^key-97d3a449ae0c588541929363fc579bb4]: Commencement: Reg. 57 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-97d3a449ae0c588541929363fc579bb4]: Commencement: Reg. 57 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-576ef212a51cdce88969386c0ec23e89]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-576ef212a51cdce88969386c0ec23e89]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-dd387094fc64d1f4e8f9a7b69ec3c435]: Commencement: Sch. 1 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-dd387094fc64d1f4e8f9a7b69ec3c435]: Commencement: Sch. 1 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-300eb676e9ff75cdcead462a3a41ded8]: Commencement: Sch. 1 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-300eb676e9ff75cdcead462a3a41ded8]: Commencement: Sch. 1 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-3183059e6a3861886e6cf36a005fbd16]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-3183059e6a3861886e6cf36a005fbd16]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-0810f0d68cb4decdc8da0aaef5f1b7a8]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-0810f0d68cb4decdc8da0aaef5f1b7a8]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-1614dcc56e1af7083c042ae01ec64514]: Commencement: Sch. 2 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-1614dcc56e1af7083c042ae01ec64514]: Commencement: Sch. 2 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23689251]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
-[^key-a134d371306dfef13d432732d58a1207]: Textual amendment: Sch. 2 para. 4 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-a134d371306dfef13d432732d58a1207]: Textual amendment: Sch. 2 para. 4 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
-[^key-760f7c27bb2dfd164cd83a5d2e59004b]: Textual amendment: Sch. 2 para. 5 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
+[^c-760f7c27bb2dfd164cd83a5d2e59004b]: Textual amendment: Sch. 2 para. 5 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [48](https://www.legislation.gov.uk/uksi/2020/1309/regulation/48)
 
-[^key-47ae3da1552e80558378f81099739318]: Commencement: Sch. 2 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-47ae3da1552e80558378f81099739318]: Commencement: Sch. 2 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-c3d53fc2b20f3ff0376bebb0058f1c95]: Commencement: Sch. 2 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-c3d53fc2b20f3ff0376bebb0058f1c95]: Commencement: Sch. 2 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-51356ff5af7ae166a7769c8437c6be4e]: Commencement: Sch. 2 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-51356ff5af7ae166a7769c8437c6be4e]: Commencement: Sch. 2 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-1307960503b93b507615c9db29750056]: Commencement: Sch. 2 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-1307960503b93b507615c9db29750056]: Commencement: Sch. 2 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-bdafffad7d12e5195924febe95da69cc]: Commencement: Sch. 2 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-bdafffad7d12e5195924febe95da69cc]: Commencement: Sch. 2 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23689261]: Marginal citation: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12).
 
-[^key-837bf878e4aa6336e668c91bcdf5a900]: Commencement: Sch. 2 para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-837bf878e4aa6336e668c91bcdf5a900]: Commencement: Sch. 2 para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23689271]: Marginal citation: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12).
 
-[^key-38bf03557792f1291b7aea0d483c407f]: Commencement: Sch. 2 para. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-38bf03557792f1291b7aea0d483c407f]: Commencement: Sch. 2 para. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-d44c477badd89480feba137fc1cafaa2]: Commencement: Sch. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-d44c477badd89480feba137fc1cafaa2]: Commencement: Sch. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23689281]: Marginal citation: [1977 c. 43](https://www.legislation.gov.uk/ukpga/1977/43). Section 3A was inserted by section 31 of the [Housing Act 1988 (c. 50)](https://www.legislation.gov.uk/ukpga/1988/50). Subsection (7C) was inserted by [S.I. 2005/1379](https://www.legislation.gov.uk/uksi/2005/1379).
 

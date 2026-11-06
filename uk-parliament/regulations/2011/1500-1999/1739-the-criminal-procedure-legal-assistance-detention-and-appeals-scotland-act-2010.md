@@ -48,7 +48,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 In accordance with section 115(1) of, and paragraphs 1, 2 and 3 of Schedule 7 to, that Act a draft of this Order has been laid before and approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement and extent[^key-3343de81e4148c740f96d3fb37f5ab99]
+## 1. Citation, commencement and extent[^c-3343de81e4148c740f96d3fb37f5ab99]
 
 (1) This Order may be cited as the Criminal Procedure (Legal Assistance, Detention and Appeals) (Scotland) Act 2010 (Consequential Provisions) Order 2011.
 
@@ -58,13 +58,13 @@ In accordance with section 115(1) of, and paragraphs 1, 2 and 3 of Schedule 7 to
 
 (4) This article and articles 6 and 7 (and Schedule 2) extend to England and Wales, Scotland and Northern Ireland.
 
-## 2. Amendment of provisions relating to the investigation of Revenue and Customs offences in Scotland[^key-c7ca1e845f37b8595ad0fbb4256d48e8]
+## 2. Amendment of provisions relating to the investigation of Revenue and Customs offences in Scotland[^c-c7ca1e845f37b8595ad0fbb4256d48e8]
 
 *Extent: S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Availability of criminal advice and assistance for persons suspected of a Revenue and Customs offence and persons detained for certain drug smuggling offences[^key-cdec574fe87be00a6e132b5f1d7b5818]
+## 3. Availability of criminal advice and assistance for persons suspected of a Revenue and Customs offence and persons detained for certain drug smuggling offences[^c-cdec574fe87be00a6e132b5f1d7b5818]
 
 *Extent: S*
 
@@ -82,7 +82,7 @@ In section 8A of the Legal Aid (Scotland) Act 1986[^f00005] (power to provide fo
 
   .
 
-**4.**[^key-a89d47139881f67327406a2c51ade1a7] (1) In regulation 8 of the Advice and Assistance and Civil Legal Aid (Financial Conditions and Contributions) (Scotland) Regulations 2011[^f00006] (criminal advice and assistance: automatic availability in certain circumstances) —
+**4.**[^c-a89d47139881f67327406a2c51ade1a7] (1) In regulation 8 of the Advice and Assistance and Civil Legal Aid (Financial Conditions and Contributions) (Scotland) Regulations 2011[^f00006] (criminal advice and assistance: automatic availability in certain circumstances) —
 
 - (a) after “the Act” insert—
 
@@ -102,7 +102,7 @@ In section 8A of the Legal Aid (Scotland) Act 1986[^f00005] (power to provide fo
 - (b) a person who attends as mentioned in section 25A(1)(b) of that Act, where the period of attendance began before that time; or
 - (c) a person who is arrested and detained as mentioned in section 25A(1)(c) of that Act, where the arrest occurred before that time.
 
-**5.**[^key-345d58fb70663f44700d60ff69d7debd] (1) In regulation 3(1) of the Criminal Legal Assistance (Duty Solicitors) (Scotland) Regulations 2011[^f00007] (duty solicitors: advice for suspects)—
+**5.**[^c-345d58fb70663f44700d60ff69d7debd] (1) In regulation 3(1) of the Criminal Legal Assistance (Duty Solicitors) (Scotland) Regulations 2011[^f00007] (duty solicitors: advice for suspects)—
 
 - (a) after “assistance to” insert—
 
@@ -122,11 +122,11 @@ In section 8A of the Legal Aid (Scotland) Act 1986[^f00005] (power to provide fo
 - (b) a person who attends as mentioned in section 25A(1)(b) of that Act, where the period of attendance began before that time; or
 - (c) a person who is arrested and detained as mentioned in section 25A(1)(c) of that Act, where the arrest occurred before that time.
 
-## 6. Amendment of provisions relating to cross-border arrest and detention by Scottish police[^key-d5001915f3d35f9910de0aba8acaec78]
+## 6. Amendment of provisions relating to cross-border arrest and detention by Scottish police[^c-d5001915f3d35f9910de0aba8acaec78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of provisions relating to cross-border arrest and detention by officers of Revenue and Customs[^key-2d092bb4fab8b8de59c3eeb6b2e94701]
+## 7. Amendment of provisions relating to cross-border arrest and detention by officers of Revenue and Customs[^c-2d092bb4fab8b8de59c3eeb6b2e94701]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -144,7 +144,7 @@ London
 
 14th July 2011
 
-## SCHEDULE 1 — Amendments of Part 3 of the Criminal Law (Consolidation) (Scotland) Act 1995[^key-8350358b77fdaff3988cf96a5925c22e]
+## SCHEDULE 1 — Amendments of Part 3 of the Criminal Law (Consolidation) (Scotland) Act 1995[^c-8350358b77fdaff3988cf96a5925c22e]
 
 *Extent: S*
 
@@ -152,35 +152,35 @@ London
 
 Article 2(1)
 
-### 1. Introductory provision[^key-8350358b77fdaff3988cf96a5925c22e]
+### 1. Introductory provision[^c-8350358b77fdaff3988cf96a5925c22e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Right of suspects to have access to a solicitor[^key-8350358b77fdaff3988cf96a5925c22e]
+### 2. Right of suspects to have access to a solicitor[^c-8350358b77fdaff3988cf96a5925c22e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-8350358b77fdaff3988cf96a5925c22e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-8350358b77fdaff3988cf96a5925c22e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-8350358b77fdaff3988cf96a5925c22e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-8350358b77fdaff3988cf96a5925c22e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Increase of maximum period of detention under section 24 from 6 to 12 hours[^key-8350358b77fdaff3988cf96a5925c22e]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 6. Extension of period of detention under section 24[^key-8350358b77fdaff3988cf96a5925c22e]
+### 5. Increase of maximum period of detention under section 24 from 6 to 12 hours[^c-8350358b77fdaff3988cf96a5925c22e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Amendments of Part 10 of the Criminal Justice and Public Order Act 1994[^key-86a67935deb11dad4616962b4d78b0e0]
+### 6. Extension of period of detention under section 24[^c-8350358b77fdaff3988cf96a5925c22e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — Amendments of Part 10 of the Criminal Justice and Public Order Act 1994[^c-86a67935deb11dad4616962b4d78b0e0]
 
 **No longer in force.**
 
 Article 6(1)
 
-**1.**[^key-86a67935deb11dad4616962b4d78b0e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-86a67935deb11dad4616962b4d78b0e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-86a67935deb11dad4616962b4d78b0e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-86a67935deb11dad4616962b4d78b0e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 EXPLANATORY NOTE
 
@@ -204,26 +204,26 @@ Article 7 makes amendments to section 87 of the Finance Act 2007 to extend the a
 
 [^f00001]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-3343de81e4148c740f96d3fb37f5ab99]: Commencement: Art. 1 in force at 15.7.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1739/article/1/2)
+[^c-3343de81e4148c740f96d3fb37f5ab99]: Commencement: Art. 1 in force at 15.7.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1739/article/1/2)
 
-[^key-c7ca1e845f37b8595ad0fbb4256d48e8]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2011/1739/article/2) revoked (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(d)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/d), [21(1)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/21/1/a) (with [art. 21(2)](https://www.legislation.gov.uk/uksi/2018/46/article/21/2))
+[^c-c7ca1e845f37b8595ad0fbb4256d48e8]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2011/1739/article/2) revoked (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(d)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/d), [21(1)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/21/1/a) (with [art. 21(2)](https://www.legislation.gov.uk/uksi/2018/46/article/21/2))
 
-[^key-cdec574fe87be00a6e132b5f1d7b5818]: Commencement: Art. 3 in force at 15.7.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1739/article/1/2)
+[^c-cdec574fe87be00a6e132b5f1d7b5818]: Commencement: Art. 3 in force at 15.7.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1739/article/1/2)
 
 [^f00005]: Footnote: [1986 c. 47](https://www.legislation.gov.uk/ukpga/1986/47). Section 8A was inserted by the Criminal Procedure (Legal Assistance, Detention and Appeals) (Scotland) Act [2010 (asp 15)](https://www.legislation.gov.uk/asp/2010/15), section 2(3).
 
-[^key-a89d47139881f67327406a2c51ade1a7]: Commencement: Art. 4 in force at 15.7.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1739/article/1/2)
+[^c-a89d47139881f67327406a2c51ade1a7]: Commencement: Art. 4 in force at 15.7.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1739/article/1/2)
 
 [^f00006]: Footnote: [S.S.I. 2011/217](https://www.legislation.gov.uk/ssi/2011/217).
 
-[^key-345d58fb70663f44700d60ff69d7debd]: Commencement: Art. 5 in force at 15.7.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1739/article/1/2)
+[^c-345d58fb70663f44700d60ff69d7debd]: Commencement: Art. 5 in force at 15.7.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1739/article/1/2)
 
 [^f00007]: Footnote: [S.S.I. 2011/163](https://www.legislation.gov.uk/ssi/2011/163).
 
-[^key-d5001915f3d35f9910de0aba8acaec78]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2011/1739/article/6) revoked (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(d)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/d), [21(1)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/21/1/a) (with [art. 21(2)](https://www.legislation.gov.uk/uksi/2018/46/article/21/2))
+[^c-d5001915f3d35f9910de0aba8acaec78]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2011/1739/article/6) revoked (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(d)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/d), [21(1)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/21/1/a) (with [art. 21(2)](https://www.legislation.gov.uk/uksi/2018/46/article/21/2))
 
-[^key-2d092bb4fab8b8de59c3eeb6b2e94701]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/2011/1739/article/7) revoked (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(d)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/d), [21(1)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/21/1/a) (with [art. 21(2)](https://www.legislation.gov.uk/uksi/2018/46/article/21/2))
+[^c-2d092bb4fab8b8de59c3eeb6b2e94701]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/2011/1739/article/7) revoked (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(d)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/d), [21(1)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/21/1/a) (with [art. 21(2)](https://www.legislation.gov.uk/uksi/2018/46/article/21/2))
 
-[^key-8350358b77fdaff3988cf96a5925c22e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2011/1739/schedule/1) revoked (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(d)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/d), [21(1)(b)](https://www.legislation.gov.uk/uksi/2018/46/article/21/1/b) (with [art. 21(2)](https://www.legislation.gov.uk/uksi/2018/46/article/21/2))
+[^c-8350358b77fdaff3988cf96a5925c22e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2011/1739/schedule/1) revoked (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(d)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/d), [21(1)(b)](https://www.legislation.gov.uk/uksi/2018/46/article/21/1/b) (with [art. 21(2)](https://www.legislation.gov.uk/uksi/2018/46/article/21/2))
 
-[^key-86a67935deb11dad4616962b4d78b0e0]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2011/1739/schedule/2) revoked (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(d)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/d), [21(1)(b)](https://www.legislation.gov.uk/uksi/2018/46/article/21/1/b) (with [art. 21(2)](https://www.legislation.gov.uk/uksi/2018/46/article/21/2))
+[^c-86a67935deb11dad4616962b4d78b0e0]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2011/1739/schedule/2) revoked (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(d)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/d), [21(1)(b)](https://www.legislation.gov.uk/uksi/2018/46/article/21/1/b) (with [art. 21(2)](https://www.legislation.gov.uk/uksi/2018/46/article/21/2))

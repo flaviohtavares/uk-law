@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Sales and consumption of intoxicating liquor in local producer’s premises[^key-52614eb629f0feeb41b64e18769870e2]
+## 11. Sales and consumption of intoxicating liquor in local producer’s premises[^c-52614eb629f0feeb41b64e18769870e2]
 
 *Extent: N.I.*
 
-(1)[^key-34842365eea8e5afbd9abb785579401f] After Article 52D of the Licensing Order (inserted by section 10(3)) insert—
+(1)[^c-34842365eea8e5afbd9abb785579401f] After Article 52D of the Licensing Order (inserted by section 10(3)) insert—
 
 > **52E. Local producer’s premises: suitability for on-sales**
 >
@@ -64,37 +64,37 @@ summary: ''
 
 .
 
-(2)[^key-34842365eea8e5afbd9abb785579401f] In Article 30 of the Licensing Order (occasional licences), after paragraph (1) insert—
+(2)[^c-34842365eea8e5afbd9abb785579401f] In Article 30 of the Licensing Order (occasional licences), after paragraph (1) insert—
 
 > (1A) An occasional licence may not be granted for any part of premises of a kind mentioned in Article 5(1)(m) to which an order under Article 52E applies.
 
 .
 
-(3)[^key-34842365eea8e5afbd9abb785579401f] In Article 42 of the Licensing Order (general permitted hours), in each of paragraphs (1) and (2), after “or (m)” (inserted by section 10(5)) insert “(subject to paragraph (6))”.
+(3)[^c-34842365eea8e5afbd9abb785579401f] In Article 42 of the Licensing Order (general permitted hours), in each of paragraphs (1) and (2), after “or (m)” (inserted by section 10(5)) insert “(subject to paragraph (6))”.
 
-(4)[^key-34842365eea8e5afbd9abb785579401f] In that Article after paragraph (5) (inserted by section 8(2)) insert—
+(4)[^c-34842365eea8e5afbd9abb785579401f] In that Article after paragraph (5) (inserted by section 8(2)) insert—
 
 > (6) In the case of premises of a kind mentioned in Article 5(1)(m) to which an order under Article 52E applies, the permitted hours for a part of the premises specified in the order on a day on which an authorisation under Article 52F has effect are the hours on that day from 4 in the afternoon to 10 in the evening.
 
 .
 
-(5)[^key-34842365eea8e5afbd9abb785579401f] In Article 46 of the Licensing Order (exception for sales outside permitted hours), in paragraph (1)(a)(ii), after “or (m)” (inserted by section 10(6)(a)) insert “(but see paragraph (1A))”.
+(5)[^c-34842365eea8e5afbd9abb785579401f] In Article 46 of the Licensing Order (exception for sales outside permitted hours), in paragraph (1)(a)(ii), after “or (m)” (inserted by section 10(6)(a)) insert “(but see paragraph (1A))”.
 
-(6)[^key-34842365eea8e5afbd9abb785579401f] In that Article, after paragraph (1) insert—
+(6)[^c-34842365eea8e5afbd9abb785579401f] In that Article, after paragraph (1) insert—
 
 > (1A) The reference in paragraph (1)(a)(ii) to premises of a kind mentioned in Article 5(1)(m) does not include a reference to premises of that kind with respect to which an order under Article 52E is in force.
 
 .
 
-(7)[^key-34842365eea8e5afbd9abb785579401f] In Article 56 of the Licensing Order (penalty for permitting consumption of intoxicating liquor in unlicensed part of premises), after paragraph (1) insert—
+(7)[^c-34842365eea8e5afbd9abb785579401f] In Article 56 of the Licensing Order (penalty for permitting consumption of intoxicating liquor in unlicensed part of premises), after paragraph (1) insert—
 
 > (1A) The exception in paragraph (1) for premises of a kind mentioned in Article 5(1)(m) does not apply to premises of that kind to which an order under Article 52E applies during the period for which an authorisation under Article 52F has effect.
 
 .
 
-(8)[^key-34842365eea8e5afbd9abb785579401f] In Article 58 of the Licensing Order (young persons prohibited from certain premises), in paragraph (5), before “if” insert “, or who is in licensed premises of a kind mentioned in Article 5(1)(m) to which an order under Article 52E applies at a time when an authorisation under Article 52F has effect,”.
+(8)[^c-34842365eea8e5afbd9abb785579401f] In Article 58 of the Licensing Order (young persons prohibited from certain premises), in paragraph (5), before “if” insert “, or who is in licensed premises of a kind mentioned in Article 5(1)(m) to which an order under Article 52E applies at a time when an authorisation under Article 52F has effect,”.
 
-(9)[^key-829e71fd7c79d9b9f0d319f8cdcedc53][^key-15ac11c9db2859aae528dc3f76361c5a] In Schedule 9 to the Licensing Order (procedure on certain applications)—
+(9)[^c-829e71fd7c79d9b9f0d319f8cdcedc53][^c-15ac11c9db2859aae528dc3f76361c5a] In Schedule 9 to the Licensing Order (procedure on certain applications)—
 
 - (a) in the title, after “48” insert “, 52E”,
 - (b) in paragraph 1, after “48” insert “, 52E”, and
@@ -104,7 +104,7 @@ summary: ''
 
   .
 
-(10)[^key-829e71fd7c79d9b9f0d319f8cdcedc53][^key-15ac11c9db2859aae528dc3f76361c5a] In Schedule 10 to the Licensing Order (applications for extension licences)—
+(10)[^c-829e71fd7c79d9b9f0d319f8cdcedc53][^c-15ac11c9db2859aae528dc3f76361c5a] In Schedule 10 to the Licensing Order (applications for extension licences)—
 
 - (a) after paragraph 1 insert—
 
@@ -114,13 +114,13 @@ summary: ''
 - (b) in paragraph 2, after “the grant of a licence” insert “or authorisation”, and
 - (c) in paragraph 4, after “the granting of the licence” insert “or authorisation”.
 
-(11)[^key-34842365eea8e5afbd9abb785579401f] In Part 1 of Schedule 10A to the Licensing Order (penalty points for offences punishable with level 3 fine), at the appropriate place insert—
+(11)[^c-34842365eea8e5afbd9abb785579401f] In Part 1 of Schedule 10A to the Licensing Order (penalty points for offences punishable with level 3 fine), at the appropriate place insert—
 
 > |  |  |  |
 > | --- | --- | --- |
 > | 52F(11) | Failure by local producer to display notice on part of premises to which authorisation under Article 52F applies | 3-4 |
 
-(12)[^key-34842365eea8e5afbd9abb785579401f] In Part 2 of Schedule 10A to the Licensing Order (penalty points for offences punishable with level 4 fine), at the appropriate place insert—
+(12)[^c-34842365eea8e5afbd9abb785579401f] In Part 2 of Schedule 10A to the Licensing Order (penalty points for offences punishable with level 4 fine), at the appropriate place insert—
 
 > |  |  |  |
 > | --- | --- | --- |
@@ -128,10 +128,10 @@ summary: ''
 
 ## Annotations
 
-[^key-52614eb629f0feeb41b64e18769870e2]: Commencement: S. 11 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-52614eb629f0feeb41b64e18769870e2]: Commencement: S. 11 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-34842365eea8e5afbd9abb785579401f]: Commencement: [S. 11(1)-(8)](https://www.legislation.gov.uk/nia/2021/7/section/11/1), [(11)](https://www.legislation.gov.uk/nia/2021/7/section/11/11)[(12)](https://www.legislation.gov.uk/nia/2021/7/section/11/12) in operation at 1.6.2022 by [S.R. 2022/133](https://www.legislation.gov.uk/nisr/2022/133), [art. 2](https://www.legislation.gov.uk/nisr/2022/133/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/133/schedule)
+[^c-34842365eea8e5afbd9abb785579401f]: Commencement: [S. 11(1)-(8)](https://www.legislation.gov.uk/nia/2021/7/section/11/1), [(11)](https://www.legislation.gov.uk/nia/2021/7/section/11/11)[(12)](https://www.legislation.gov.uk/nia/2021/7/section/11/12) in operation at 1.6.2022 by [S.R. 2022/133](https://www.legislation.gov.uk/nisr/2022/133), [art. 2](https://www.legislation.gov.uk/nisr/2022/133/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/133/schedule)
 
-[^key-829e71fd7c79d9b9f0d319f8cdcedc53]: Commencement: [S. 11(9)](https://www.legislation.gov.uk/nia/2021/7/section/11/9)[(10)](https://www.legislation.gov.uk/nia/2021/7/section/11/10) in operation at 6.4.2022 for specified purposes by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
+[^c-829e71fd7c79d9b9f0d319f8cdcedc53]: Commencement: [S. 11(9)](https://www.legislation.gov.uk/nia/2021/7/section/11/9)[(10)](https://www.legislation.gov.uk/nia/2021/7/section/11/10) in operation at 6.4.2022 for specified purposes by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
 
-[^key-15ac11c9db2859aae528dc3f76361c5a]: Commencement: [S. 11(9)](https://www.legislation.gov.uk/nia/2021/7/section/11/9)[(10)](https://www.legislation.gov.uk/nia/2021/7/section/11/10) in operation at 1.6.2022 in so far as not already in operation by [S.R. 2022/133](https://www.legislation.gov.uk/nisr/2022/133), [art. 2](https://www.legislation.gov.uk/nisr/2022/133/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/133/schedule)
+[^c-15ac11c9db2859aae528dc3f76361c5a]: Commencement: [S. 11(9)](https://www.legislation.gov.uk/nia/2021/7/section/11/9)[(10)](https://www.legislation.gov.uk/nia/2021/7/section/11/10) in operation at 1.6.2022 in so far as not already in operation by [S.R. 2022/133](https://www.legislation.gov.uk/nisr/2022/133), [art. 2](https://www.legislation.gov.uk/nisr/2022/133/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/133/schedule)

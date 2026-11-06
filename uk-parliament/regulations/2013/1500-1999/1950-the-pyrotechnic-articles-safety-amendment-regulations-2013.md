@@ -34,7 +34,7 @@ Consumer Protection
 
 Health And Safety
 
-The Pyrotechnic Articles (Safety) (Amendment) Regulations 2013 (revoked)[^key-bbfc5d6112b7e4cfe3281cd29494e7b1]
+The Pyrotechnic Articles (Safety) (Amendment) Regulations 2013 (revoked)[^c-bbfc5d6112b7e4cfe3281cd29494e7b1]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 30th August 2013
 
-[^key-bbfc5d6112b7e4cfe3281cd29494e7b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bbfc5d6112b7e4cfe3281cd29494e7b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-bbfc5d6112b7e4cfe3281cd29494e7b1]
+## 1. Citation and commencement[^c-bbfc5d6112b7e4cfe3281cd29494e7b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-bbfc5d6112b7e4cfe3281cd29494e7b1]
+## 2. Amendment[^c-bbfc5d6112b7e4cfe3281cd29494e7b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bbfc5d6112b7e4cfe3281cd29494e7b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bbfc5d6112b7e4cfe3281cd29494e7b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-bbfc5d6112b7e4cfe3281cd29494e7b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bbfc5d6112b7e4cfe3281cd29494e7b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bbfc5d6112b7e4cfe3281cd29494e7b1]: Textual amendment: Regulations revoked (17.8.2015) by [The Pyrotechnic Articles (Safety) Regulations 2015 (S.I. 2015/1553)](https://www.legislation.gov.uk/uksi/2015/1553), [reg. 75(1)](https://www.legislation.gov.uk/uksi/2015/1553/regulation/75/1) (with [reg. 75(2)](https://www.legislation.gov.uk/uksi/2015/1553/regulation/75/2)[(4)](https://www.legislation.gov.uk/uksi/2015/1553/regulation/75/4))
+[^c-bbfc5d6112b7e4cfe3281cd29494e7b1]: Textual amendment: Regulations revoked (17.8.2015) by [The Pyrotechnic Articles (Safety) Regulations 2015 (S.I. 2015/1553)](https://www.legislation.gov.uk/uksi/2015/1553), [reg. 75(1)](https://www.legislation.gov.uk/uksi/2015/1553/regulation/75/1) (with [reg. 75(2)](https://www.legislation.gov.uk/uksi/2015/1553/regulation/75/2)[(4)](https://www.legislation.gov.uk/uksi/2015/1553/regulation/75/4))

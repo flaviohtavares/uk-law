@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32Z7. Guidance[^key-d9e239e079122e71a8984ef526b09fbb]
+## 32Z7. Guidance[^c-d9e239e079122e71a8984ef526b09fbb]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9e239e079122e71a8984ef526b09fbb]: Textual amendment: Ss. 32Z6, 32Z7 inserted (20.11.2014) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 82](https://www.legislation.gov.uk/asp/2014/14/section/82), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-d9e239e079122e71a8984ef526b09fbb]: Textual amendment: Ss. 32Z6, 32Z7 inserted (20.11.2014) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 82](https://www.legislation.gov.uk/asp/2014/14/section/82), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)

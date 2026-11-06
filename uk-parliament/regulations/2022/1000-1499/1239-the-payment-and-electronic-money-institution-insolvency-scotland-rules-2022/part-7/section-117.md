@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 117. False claims or evidence[^key-921d969f5cea6a83d0e56f0a9b39a031]
+## 117. False claims or evidence[^c-921d969f5cea6a83d0e56f0a9b39a031]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ If a creditor produces under rule 116 a statement of claim or documentary eviden
 
 ## Annotations
 
-[^key-921d969f5cea6a83d0e56f0a9b39a031]: Commencement: Rule 117 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-921d969f5cea6a83d0e56f0a9b39a031]: Commencement: Rule 117 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

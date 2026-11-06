@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Damage to certain flood protection work[^key-7f01a30c7490a8791b1be8d50783cf59]
+## 69. Damage to certain flood protection work[^c-7f01a30c7490a8791b1be8d50783cf59]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ commits an offence.
 
 ## Annotations
 
-[^key-7f01a30c7490a8791b1be8d50783cf59]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2009/6/section/69) in force at 24.12.2010 by [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(c)](https://www.legislation.gov.uk/ssi/2010/401/article/3/c)
+[^c-7f01a30c7490a8791b1be8d50783cf59]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2009/6/section/69) in force at 24.12.2010 by [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(c)](https://www.legislation.gov.uk/ssi/2010/401/article/3/c)

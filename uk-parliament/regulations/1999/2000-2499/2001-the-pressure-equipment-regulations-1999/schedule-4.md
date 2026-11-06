@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]
+## SCHEDULE 4[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,21 +28,21 @@ CONFORMITY ASSESSMENT PROCEDURES
 
 Regulation 13
 
-[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]The obligations arising from the provisions on pressure equipment in this Annex also apply to assemblies.
+[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]The obligations arising from the provisions on pressure equipment in this Annex also apply to assemblies.
 
-### 1. Module A (internal production control)[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]
+### 1. Module A (internal production control)[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Module A1 (internal manufacturing checks with monitoring of the final assess ment)[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]
+### Module A1 (internal manufacturing checks with monitoring of the final assess ment)[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]
 
 In addition to the requirements of module A, the following applies.
 
@@ -57,156 +57,156 @@ Should one or more of the items of pressure equipment not conform, the notified 
 
 On the responsibility of the notified body, the manufacturer must affix the former’s identification number on each item of pressure equipment.
 
-### 1. Module B (EC type-examination)[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]
+### 1. Module B (EC type-examination)[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 1. Module B1 (EC design-examination)[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**2.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**4.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**5.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**6.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**7.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**8.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**9.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 1. Module C1 (conformity to type)[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]
+### 1. Module B1 (EC design-examination)[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 1. Module D (production quality assurance)[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]
+**5.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**6.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 1. Module D1 (production quality assurance)[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]
+### 1. Module C1 (conformity to type)[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**6.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**7.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 1. Module E (product quality assurance)[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]
+### 1. Module D (production quality assurance)[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 1. Module E1 (product quality assurance)[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**2.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**4.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**5.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**6.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**7.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 1. Module F (product verification)[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]
+### 1. Module D1 (production quality assurance)[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 1. Module G (EC unit verification)[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]
+**5.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**4.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 1. Module H (full quality assurance)[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]
+### 1. Module E (product quality assurance)[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 1. Module H1 (full quality assurance with design examination and special surveillance of the final assessment)[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]
+### 1. Module E1 (product quality assurance)[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 1. Module F (product verification)[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 1. Module G (EC unit verification)[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 1. Module H (full quality assurance)[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 1. Module H1 (full quality assurance with design examination and special surveillance of the final assessment)[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]: Textual amendment: Regulations revoked (8.12.2016) by [The Pressure Equipment (Safety) Regulations 2016 (S.I. 2016/1105)](https://www.legislation.gov.uk/uksi/2016/1105), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1105/regulation/1), [90(1)](https://www.legislation.gov.uk/uksi/2016/1105/regulation/90/1) (with [regs. 88](https://www.legislation.gov.uk/uksi/2016/1105/regulation/88), [90(2)](https://www.legislation.gov.uk/uksi/2016/1105/regulation/90/2))
+[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]: Textual amendment: Regulations revoked (8.12.2016) by [The Pressure Equipment (Safety) Regulations 2016 (S.I. 2016/1105)](https://www.legislation.gov.uk/uksi/2016/1105), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1105/regulation/1), [90(1)](https://www.legislation.gov.uk/uksi/2016/1105/regulation/90/1) (with [regs. 88](https://www.legislation.gov.uk/uksi/2016/1105/regulation/88), [90(2)](https://www.legislation.gov.uk/uksi/2016/1105/regulation/90/2))

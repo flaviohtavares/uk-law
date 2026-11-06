@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Inspections under this Chapter: power of entry etc[^key-5fab36a137e025c6f11751e9e1bb3720]
+## 110. Inspections under this Chapter: power of entry etc[^c-5fab36a137e025c6f11751e9e1bb3720]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fab36a137e025c6f11751e9e1bb3720]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2008/25/section/110) in force at 5.1.2015 by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(g)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/g)
+[^c-5fab36a137e025c6f11751e9e1bb3720]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2008/25/section/110) in force at 5.1.2015 by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(g)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/g)

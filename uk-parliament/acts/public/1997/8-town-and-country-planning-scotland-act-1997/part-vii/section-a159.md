@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## A159. Forestry and woodland strategy[^key-f24dcbda1fbdc46afe26898e34edc2f1]
+## A159. Forestry and woodland strategy[^c-f24dcbda1fbdc46afe26898e34edc2f1]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f24dcbda1fbdc46afe26898e34edc2f1]: Textual amendment: [S. A159](https://www.legislation.gov.uk/ukpga/1997/8/section/A159) inserted (1.12.2019) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 53(2)](https://www.legislation.gov.uk/asp/2019/13/section/53/2), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2)
+[^c-f24dcbda1fbdc46afe26898e34edc2f1]: Textual amendment: [S. A159](https://www.legislation.gov.uk/ukpga/1997/8/section/A159) inserted (1.12.2019) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 53(2)](https://www.legislation.gov.uk/asp/2019/13/section/53/2), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2)

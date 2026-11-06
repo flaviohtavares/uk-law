@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1.6. Forms[^key-2d1255144ffc6c4582eb73d9a1523b47]
+## 1.6. Forms[^c-2d1255144ffc6c4582eb73d9a1523b47]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d1255144ffc6c4582eb73d9a1523b47]: Commencement: Para. 1.6 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-2d1255144ffc6c4582eb73d9a1523b47]: Commencement: Para. 1.6 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

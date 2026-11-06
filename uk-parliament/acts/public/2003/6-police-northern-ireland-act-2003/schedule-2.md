@@ -49,7 +49,7 @@ Sections 30 and 31
   - (i) as they have effect in relation to anything seized in exercise of the power conferred on a constable by Article 10(2) of that Order or taken away by a constable following the imposition of a requirement by virtue of Article 22 of that Order;
   - (ii) as if the second reference to a constable in paragraph (3) of Article 23 of that Order and the references to a constable in paragraphs (4) and (5) of that Article included references to a person to whom this paragraph applies.
 
-**2A.**[^key-d2616f46fb0185f47965b1083360c57f] Where a designation applies this paragraph to any person—
+**2A.**[^c-d2616f46fb0185f47965b1083360c57f] Where a designation applies this paragraph to any person—
 
 - (a) the persons to whom a warrant may be addressed under section 25 of the Theft Act (Northern Ireland) 1969 (search for stolen goods) shall include that person; and
 - (b) in relation to such a warrant addressed to him, that person shall have the powers under subsection (3) of that section.
@@ -98,7 +98,7 @@ Sections 30 and 31
 
 #### Access and copying in the case of things seized by constables
 
-**6.** Where a designation applies this paragraph to a person, Article 23 of the 1989 Order (access and copying) has effect in relation to anything seized by a constable or by a person authorised to accompany him under Article 18(2) of that Order[^key-0e1d59f8031a610a564f53729195b5b5] as if the second reference to a constable in paragraph (3) of Article 23 and the references to a constable in paragraphs (4) and (5) of that Article (supervision of access and photographing of seized items) included references to the designated person.
+**6.** Where a designation applies this paragraph to a person, Article 23 of the 1989 Order (access and copying) has effect in relation to anything seized by a constable or by a person authorised to accompany him under Article 18(2) of that Order[^c-0e1d59f8031a610a564f53729195b5b5] as if the second reference to a constable in paragraph (3) of Article 23 and the references to a constable in paragraphs (4) and (5) of that Article (supervision of access and photographing of seized items) included references to the designated person.
 
 #### Arrest at a police station for another offence
 
@@ -124,15 +124,15 @@ Sections 30 and 31
 (3) If a person is transferred under sub-paragraph (1) into the custody of the designated person, the designated person—
 
 - (a) must be treated for all purposes as having the person in his lawful custody;
-- (b) is under a duty to keep that person under control and[^key-198528cad7f50d231ac6d2c19c8e375e] to prevent the person’s escape;
-- (c) is entitled to use reasonable force to keep the person in his custody and under his control[^key-4d641d10c26eeb7839bacc9899f83700] .
+- (b) is under a duty to keep that person under control and[^c-198528cad7f50d231ac6d2c19c8e375e] to prevent the person’s escape;
+- (c) is entitled to use reasonable force to keep the person in his custody and under his control[^c-4d641d10c26eeb7839bacc9899f83700] .
 
 (4) If a person is transferred under sub-paragraph (1) into the custody of the designated person, paragraphs (2) and (3) of Article 40 of the 1989 Order have effect as if—
 
 - (a) references to the transfer of a person in police detention into the custody of a police officer investigating an offence for which that person is in police detention were references to that person’s transfer into the custody of the designated person;
 - (b) references to the officer to whom the transfer is made and to the officer investigating the offence were references to the designated person.
 
-#### Powers in respect of detained persons[^key-b93b3a304fc2b6517f62a576af538a48]
+#### Powers in respect of detained persons[^c-b93b3a304fc2b6517f62a576af538a48]
 
 **8A.** Where a designation applies this paragraph to any person, he shall be under a duty, when in the course of his employment he is present at a police station—
 
@@ -157,7 +157,7 @@ and for those purposes shall be entitled to use reasonable force.
 
 (2) A relevant power is a power of a constable that is conferred on the designated person by virtue of the provisions of this Part of this Schedule.
 
-#### Persons accompanying investigating officers[^key-e8f92ce791f84deca6ccb991ebdce99b]
+#### Persons accompanying investigating officers[^c-e8f92ce791f84deca6ccb991ebdce99b]
 
 **10A.** (1) This paragraph applies where a person (“an authorised person”) is authorised by virtue of Article 18(2) of the 1989 Order to accompany an investigating officer designated for the purposes of paragraph 2 (or 3) in the execution of a warrant.
 
@@ -227,7 +227,7 @@ and for those purposes shall be entitled to use reasonable force.
 
 **20.** Where a designation applies this paragraph to a person, he has the power of a constable under Article 64A of the 1989 Order (photographing of suspects etc.) to take a photograph of a person detained at a police station.
 
-#### Taking of impressions of footwear[^key-b34ab3f59cc9a1eac4783c6093d76eec]
+#### Taking of impressions of footwear[^c-b34ab3f59cc9a1eac4783c6093d76eec]
 
 **20A.** Where a designation applies this paragraph to any person—
 
@@ -266,13 +266,13 @@ and for those purposes shall be entitled to use reasonable force.
 
 **22.** (1) Where a designation applies this paragraph to a person—
 
-- (a) the persons who, in the case of a person arrested by a constable, are authorised for the purposes of paragraph (1A) of Article 32[^key-4be170b2239ee54bfc03d739b0e3e373] of the 1989 Order (procedure on arrest of person elsewhere than at a police station) to take the person arrested to a police station include the designated person;
+- (a) the persons who, in the case of a person arrested by a constable, are authorised for the purposes of paragraph (1A) of Article 32[^c-4be170b2239ee54bfc03d739b0e3e373] of the 1989 Order (procedure on arrest of person elsewhere than at a police station) to take the person arrested to a police station include the designated person;
 - (b) that Article has effect in relation to the exercise by the designated person of the power conferred by virtue of paragraph (a) as if the references to a constable in paragraphs (3), (4)(a) and (13) (but not the references in paragraphs (5) to (12)) included references to the designated person;
 - (c) a person who is taking another person to a police station in exercise of the power conferred by virtue of paragraph (a)—
   - (i) must be treated for all purposes as having the other person in his lawful custody;
-  - (ii) is under a duty to keep that person under control and[^key-9732b7b81dfef827ccae47ce48f2d2d2] to prevent the other person’s escape;
-  - (iii) is entitled to use reasonable force to keep the other person in his charge and under his control[^key-26f18e27217cf19471105c8f0897fe22] .
-- (d)[^key-d78dd2ee2fc7562c85d2cb1614488710] a person who has taken another person to a police station in exercise of the power conferred by virtue of paragraph (a)—
+  - (ii) is under a duty to keep that person under control and[^c-9732b7b81dfef827ccae47ce48f2d2d2] to prevent the other person’s escape;
+  - (iii) is entitled to use reasonable force to keep the other person in his charge and under his control[^c-26f18e27217cf19471105c8f0897fe22] .
+- (d)[^c-d78dd2ee2fc7562c85d2cb1614488710] a person who has taken another person to a police station in exercise of the power conferred by virtue of paragraph (a)—
   - (i) shall be under a duty to remain at the police station until he has transferred control of the other person to the custody officer at the police station;
   - (ii) until he has so transferred control of the other person, shall be treated for all purposes as having that person in his lawful custody;
   - (iii) for so long as he is at the police station or in its immediate vicinity in compliance with, or having complied with, his duty under sub-paragraph (i), shall be under a duty to prevent the escape of the other person and to assist in keeping him under control; and
@@ -296,10 +296,10 @@ and for those purposes shall be entitled to use reasonable force.
 (2) A person who is escorting another in accordance with an authorisation under sub-paragraph (1)—
 
 - (a) must be treated for all purposes as having the other person in his lawful custody;
-- (b) is under a duty to keep that person under control and[^key-2060a4a84da51bfcd95da95db030a6fd] to prevent the other person’s escape;
-- (c) is entitled to use reasonable force to keep the other person in his charge and under his control[^key-5f814e20f042d03f1e9986b1a835c57d] .
+- (b) is under a duty to keep that person under control and[^c-2060a4a84da51bfcd95da95db030a6fd] to prevent the other person’s escape;
+- (c) is entitled to use reasonable force to keep the other person in his charge and under his control[^c-5f814e20f042d03f1e9986b1a835c57d] .
 
-(2A)[^key-38b7ca6a23796394048de9ab59725f41] A person who has escorted another person to a police station or other place in accordance with an authorisation under sub-paragraph (1)—
+(2A)[^c-38b7ca6a23796394048de9ab59725f41] A person who has escorted another person to a police station or other place in accordance with an authorisation under sub-paragraph (1)—
 
 - (a) shall be under a duty to remain at the police station or other place until he has transferred control of the other person to a custody officer or other responsible person;
 - (b) until he has so transferred control of the other person, shall be treated for all purposes as having that person in his lawful custody;
@@ -327,30 +327,30 @@ and for those purposes shall be entitled to use reasonable force.
 
 ## Annotations
 
-[^key-d2616f46fb0185f47965b1083360c57f]: Textual amendment: Sch. 2 para. 2A, 2B inserted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [Sch. 1 para. 2](https://www.legislation.gov.uk/nisi/2007/912/schedule/1/paragraph/2)
+[^c-d2616f46fb0185f47965b1083360c57f]: Textual amendment: Sch. 2 para. 2A, 2B inserted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [Sch. 1 para. 2](https://www.legislation.gov.uk/nisi/2007/912/schedule/1/paragraph/2)
 
-[^key-0e1d59f8031a610a564f53729195b5b5]: Textual amendment: Words in Sch. 2 para. 6 inserted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [Sch. 1 para. 3](https://www.legislation.gov.uk/nisi/2007/912/schedule/1/paragraph/3)
+[^c-0e1d59f8031a610a564f53729195b5b5]: Textual amendment: Words in Sch. 2 para. 6 inserted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [Sch. 1 para. 3](https://www.legislation.gov.uk/nisi/2007/912/schedule/1/paragraph/3)
 
-[^key-198528cad7f50d231ac6d2c19c8e375e]: Textual amendment: Words in Sch. 2 para. 8(3)(b) inserted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/nisi/2007/912/schedule/1/paragraph/4/a)
+[^c-198528cad7f50d231ac6d2c19c8e375e]: Textual amendment: Words in Sch. 2 para. 8(3)(b) inserted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/nisi/2007/912/schedule/1/paragraph/4/a)
 
-[^key-4d641d10c26eeb7839bacc9899f83700]: Textual amendment: Words in Sch. 2 para. 8(3)(c) added (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [Sch. 1 para. 4(b)](https://www.legislation.gov.uk/nisi/2007/912/schedule/1/paragraph/4/b)
+[^c-4d641d10c26eeb7839bacc9899f83700]: Textual amendment: Words in Sch. 2 para. 8(3)(c) added (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [Sch. 1 para. 4(b)](https://www.legislation.gov.uk/nisi/2007/912/schedule/1/paragraph/4/b)
 
-[^key-b93b3a304fc2b6517f62a576af538a48]: Textual amendment: Sch. 2 para. 8A and cross-heading inserted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [Sch. 1 para. 5](https://www.legislation.gov.uk/nisi/2007/912/schedule/1/paragraph/5)
+[^c-b93b3a304fc2b6517f62a576af538a48]: Textual amendment: Sch. 2 para. 8A and cross-heading inserted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [Sch. 1 para. 5](https://www.legislation.gov.uk/nisi/2007/912/schedule/1/paragraph/5)
 
-[^key-e8f92ce791f84deca6ccb991ebdce99b]: Textual amendment: Sch. 2 para. 10A and cross-heading inserted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/nisi/2007/912/schedule/1/paragraph/6)
+[^c-e8f92ce791f84deca6ccb991ebdce99b]: Textual amendment: Sch. 2 para. 10A and cross-heading inserted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/nisi/2007/912/schedule/1/paragraph/6)
 
-[^key-b34ab3f59cc9a1eac4783c6093d76eec]: Textual amendment: Sch. 2 paras. 20A-20D and cross-headings inserted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/nisi/2007/912/schedule/2/paragraph/2)
+[^c-b34ab3f59cc9a1eac4783c6093d76eec]: Textual amendment: Sch. 2 paras. 20A-20D and cross-headings inserted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/nisi/2007/912/schedule/2/paragraph/2)
 
-[^key-4be170b2239ee54bfc03d739b0e3e373]: Textual amendment: Words in Sch. 2 para. 22(1)(a) substituted (1.1.2005) by [The Criminal Justice (Northern Ireland) Order 2004 (S.I. 2004/1500)](https://www.legislation.gov.uk/nisi/2004/1500), [art. 1(3)](https://www.legislation.gov.uk/nisi/2004/1500/article/1/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/nisi/2004/1500/schedule/1/paragraph/6); [S.R. 2004/391](https://www.legislation.gov.uk/nisr/2004/391), [art. 3](https://www.legislation.gov.uk/nisr/2004/391/article/3)
+[^c-4be170b2239ee54bfc03d739b0e3e373]: Textual amendment: Words in Sch. 2 para. 22(1)(a) substituted (1.1.2005) by [The Criminal Justice (Northern Ireland) Order 2004 (S.I. 2004/1500)](https://www.legislation.gov.uk/nisi/2004/1500), [art. 1(3)](https://www.legislation.gov.uk/nisi/2004/1500/article/1/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/nisi/2004/1500/schedule/1/paragraph/6); [S.R. 2004/391](https://www.legislation.gov.uk/nisr/2004/391), [art. 3](https://www.legislation.gov.uk/nisr/2004/391/article/3)
 
-[^key-9732b7b81dfef827ccae47ce48f2d2d2]: Textual amendment: Words in Sch. 2 para. 22(1)(c)(ii) inserted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [Sch. 3 para. 2(2)(a)](https://www.legislation.gov.uk/nisi/2007/912/schedule/3/paragraph/2/2/a)
+[^c-9732b7b81dfef827ccae47ce48f2d2d2]: Textual amendment: Words in Sch. 2 para. 22(1)(c)(ii) inserted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [Sch. 3 para. 2(2)(a)](https://www.legislation.gov.uk/nisi/2007/912/schedule/3/paragraph/2/2/a)
 
-[^key-26f18e27217cf19471105c8f0897fe22]: Textual amendment: Words in Sch. 2 para. 22(1)(c)(iii) added (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [Sch. 3 para. 2(2)(b)](https://www.legislation.gov.uk/nisi/2007/912/schedule/3/paragraph/2/2/b)
+[^c-26f18e27217cf19471105c8f0897fe22]: Textual amendment: Words in Sch. 2 para. 22(1)(c)(iii) added (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [Sch. 3 para. 2(2)(b)](https://www.legislation.gov.uk/nisi/2007/912/schedule/3/paragraph/2/2/b)
 
-[^key-d78dd2ee2fc7562c85d2cb1614488710]: Textual amendment: Sch. 2 para. 22(1)(d) added (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [Sch. 3 para. 2(3)](https://www.legislation.gov.uk/nisi/2007/912/schedule/3/paragraph/2/3)
+[^c-d78dd2ee2fc7562c85d2cb1614488710]: Textual amendment: Sch. 2 para. 22(1)(d) added (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [Sch. 3 para. 2(3)](https://www.legislation.gov.uk/nisi/2007/912/schedule/3/paragraph/2/3)
 
-[^key-2060a4a84da51bfcd95da95db030a6fd]: Textual amendment: Words in Sch. 2 para. 23(2)(b) inserted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [Sch. 3 para. 3(2)(a)](https://www.legislation.gov.uk/nisi/2007/912/schedule/3/paragraph/3/2/a)
+[^c-2060a4a84da51bfcd95da95db030a6fd]: Textual amendment: Words in Sch. 2 para. 23(2)(b) inserted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [Sch. 3 para. 3(2)(a)](https://www.legislation.gov.uk/nisi/2007/912/schedule/3/paragraph/3/2/a)
 
-[^key-5f814e20f042d03f1e9986b1a835c57d]: Textual amendment: Words in Sch. 2 para. 23(2)(c) added (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [Sch. 3 para. 3(2)(b)](https://www.legislation.gov.uk/nisi/2007/912/schedule/3/paragraph/3/2/b)
+[^c-5f814e20f042d03f1e9986b1a835c57d]: Textual amendment: Words in Sch. 2 para. 23(2)(c) added (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [Sch. 3 para. 3(2)(b)](https://www.legislation.gov.uk/nisi/2007/912/schedule/3/paragraph/3/2/b)
 
-[^key-38b7ca6a23796394048de9ab59725f41]: Textual amendment: Sch. 2 para. 23(2A) inserted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [Sch. 3 para. 3(3)](https://www.legislation.gov.uk/nisi/2007/912/schedule/3/paragraph/3/3)
+[^c-38b7ca6a23796394048de9ab59725f41]: Textual amendment: Sch. 2 para. 23(2A) inserted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [Sch. 3 para. 3(3)](https://www.legislation.gov.uk/nisi/2007/912/schedule/3/paragraph/3/3)

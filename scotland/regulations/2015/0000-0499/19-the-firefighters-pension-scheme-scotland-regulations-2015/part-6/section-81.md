@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81. Bereavement pension: surviving partner[^key-32821b1a6377494bd8c492dc3744152f]
+## 81. Bereavement pension: surviving partner[^c-32821b1a6377494bd8c492dc3744152f]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32821b1a6377494bd8c492dc3744152f]: Commencement: [Reg. 81](https://www.legislation.gov.uk/ssi/2015/19/regulation/81) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-32821b1a6377494bd8c492dc3744152f]: Commencement: [Reg. 81](https://www.legislation.gov.uk/ssi/2015/19/regulation/81) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

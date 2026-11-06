@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Enforcement of special directions[^key-7e203d67c51a1e2483fbd831b6beac00]
+## 36. Enforcement of special directions[^c-7e203d67c51a1e2483fbd831b6beac00]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e203d67c51a1e2483fbd831b6beac00]: Commencement: Art. 36 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-7e203d67c51a1e2483fbd831b6beac00]: Commencement: Art. 36 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Amendment of regulation 52[^key-1c7d47624b03e77d67ae12150c4d0bad]
+## 32. Amendment of regulation 52[^c-1c7d47624b03e77d67ae12150c4d0bad]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ In regulation 52—
 
 ## Annotations
 
-[^key-1c7d47624b03e77d67ae12150c4d0bad]: Commencement: Reg. 32 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-1c7d47624b03e77d67ae12150c4d0bad]: Commencement: Reg. 32 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

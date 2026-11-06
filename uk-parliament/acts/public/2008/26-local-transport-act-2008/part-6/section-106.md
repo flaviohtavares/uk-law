@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Joint local-ITA charging schemes[^key-dad201ee5cc1ff801684d183996c5255][^key-66721b1f836e80135d4a0a829eb97f81]
+## 106. Joint local-ITA charging schemes[^c-dad201ee5cc1ff801684d183996c5255][^c-66721b1f836e80135d4a0a829eb97f81]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ After section 165 of the TA 2000 (joint local charging schemes) insert—
 
 ## Annotations
 
-[^key-dad201ee5cc1ff801684d183996c5255]: Commencement: S. 106 in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-dad201ee5cc1ff801684d183996c5255]: Commencement: S. 106 in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-66721b1f836e80135d4a0a829eb97f81]: Commencement: S. 106 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(j)](https://www.legislation.gov.uk/uksi/2009/579/article/2/j)
+[^c-66721b1f836e80135d4a0a829eb97f81]: Commencement: S. 106 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(j)](https://www.legislation.gov.uk/uksi/2009/579/article/2/j)

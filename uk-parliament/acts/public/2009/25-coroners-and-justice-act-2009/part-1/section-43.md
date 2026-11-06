@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Coroners regulations[^key-9702430668ca2350ed46fb451942abc1]
+## 43. Coroners regulations[^c-9702430668ca2350ed46fb451942abc1]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ This subsection is not to be read as limiting the power in subsection (1).
 
 ## Annotations
 
-[^key-9702430668ca2350ed46fb451942abc1]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2009/25/section/43) in force at 2.7.2013 by [S.I. 2013/1628](https://www.legislation.gov.uk/uksi/2013/1628), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1628/article/2/a)
+[^c-9702430668ca2350ed46fb451942abc1]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2009/25/section/43) in force at 2.7.2013 by [S.I. 2013/1628](https://www.legislation.gov.uk/uksi/2013/1628), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1628/article/2/a)

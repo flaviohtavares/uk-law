@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The amount of a guarantee payment payable to an employee in respect of any day shall not exceed £41[^key-57942440ee8a37a4535ccd60271ea1ab].
+(1) The amount of a guarantee payment payable to an employee in respect of any day shall not exceed £41[^c-57942440ee8a37a4535ccd60271ea1ab].
 
 (2) An employee is not entitled to guarantee payments in respect of more than the specified number of days in any period of three months.
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-57942440ee8a37a4535ccd60271ea1ab]: Textual amendment: Sum in [art. 63(1)](https://www.legislation.gov.uk/nisi/1996/1919/article/63/1) substituted (6.4.2026) by [The Employment Rights (Increase of Limits) Order (Northern Ireland) 2026 (S.R. 2026/57)](https://www.legislation.gov.uk/nisr/2026/57), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2026/57/article/1/1), [3](https://www.legislation.gov.uk/nisr/2026/57/article/3), [Sch.](https://www.legislation.gov.uk/nisr/2026/57/schedule) (with [art. 4](https://www.legislation.gov.uk/nisr/2026/57/article/4))
+[^c-57942440ee8a37a4535ccd60271ea1ab]: Textual amendment: Sum in [art. 63(1)](https://www.legislation.gov.uk/nisi/1996/1919/article/63/1) substituted (6.4.2026) by [The Employment Rights (Increase of Limits) Order (Northern Ireland) 2026 (S.R. 2026/57)](https://www.legislation.gov.uk/nisr/2026/57), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2026/57/article/1/1), [3](https://www.legislation.gov.uk/nisr/2026/57/article/3), [Sch.](https://www.legislation.gov.uk/nisr/2026/57/schedule) (with [art. 4](https://www.legislation.gov.uk/nisr/2026/57/article/4))
 
 [^c17621481]: Textual amendment: [1999 NI 9](https://www.legislation.gov.uk/nisi/1999)

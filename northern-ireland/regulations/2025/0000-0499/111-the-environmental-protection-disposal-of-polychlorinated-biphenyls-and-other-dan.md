@@ -44,17 +44,17 @@ Coming into operation
 
 The Department of Agriculture, Environment and Rural Affairs[^f00001] makes these Regulations in exercise of the powers conferred upon it by section 11 and paragraph 11M(1) of Part 1C of Schedule 2 to, and paragraph 21(b) of Schedule 7 to, the European Union (Withdrawal) Act 2018[^f00002].
 
-## 1. Citation and commencement[^key-438f805e41284661aa91aae9483f23ad]
+## 1. Citation and commencement[^c-438f805e41284661aa91aae9483f23ad]
 
 (1) These Regulations may be cited as the Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Amendment) Regulations (Northern Ireland) 2025 and come into operation on the day after the day on which it is affirmed by resolution of the Assembly.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) Regulations (Northern Ireland) 2000[^key-74c1a93b19efaa8b45686d66ca1fa8d3]
+## 2. Amendment of the Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) Regulations (Northern Ireland) 2000[^c-74c1a93b19efaa8b45686d66ca1fa8d3]
 
 The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) Regulations (Northern Ireland) 2000[^f00004] are amended in accordance with regulations 3 to 9.
 
-## 3. Amendment of regulation 2[^key-f93951f020d851a44bd024b12c271073]
+## 3. Amendment of regulation 2[^c-f93951f020d851a44bd024b12c271073]
 
 In regulation 2(1)—
 
@@ -62,7 +62,7 @@ In regulation 2(1)—
 
 - (2) in the definition of “PCBs”, for “regulations 4(3) and (4), 5(3), 6(2) and 9(3),” substitute “regulations 4(3), (3B) and (4), 5(3), 9(3) and (3A),”.
 
-## 4. Amendment of regulation 4[^key-fa593ae4efd23afe9648d73707e46bad]
+## 4. Amendment of regulation 4[^c-fa593ae4efd23afe9648d73707e46bad]
 
 In regulation 4—
 
@@ -108,7 +108,7 @@ In regulation 4—
   > - (a) the PCB volume of a power capacitor shall be measured by reference to all of the separate elements of a combined set; and
   > - (b) anything of a type which may contain PCBs shall be treated as containing PCBs unless it is reasonable to assume the contrary.
 
-## 5. Amendment of regulation 5[^key-d9efb850a03c5ea98ba7d6c3a1053d9f]
+## 5. Amendment of regulation 5[^c-d9efb850a03c5ea98ba7d6c3a1053d9f]
 
 In regulation 5, for paragraph (3), substitute—
 
@@ -117,11 +117,11 @@ In regulation 5, for paragraph (3), substitute—
 > - (a) within the equipment the fluids contain 0.005% by weight, or less, of PCBs; or
 > - (b) the equipment contains a total volume of 0.05dm<sup>3</sup>, or less, of fluids containing PCBs, may be labelled as “PCBs contaminated \<0.005% or \<0.05dm<sup>3</sup>”.
 
-## 6. Amendment of regulation 6[^key-097eeabe18778ebf1f5c4befa0d55320]
+## 6. Amendment of regulation 6[^c-097eeabe18778ebf1f5c4befa0d55320]
 
 In regulation 6, omit regulation 6(2)(b).
 
-## 7. Amendment of regulation 9[^key-09f59ccb2fb2a6a588d13ff749b45c4c]
+## 7. Amendment of regulation 9[^c-09f59ccb2fb2a6a588d13ff749b45c4c]
 
 In regulation 9, for paragraph (3), substitute—
 
@@ -134,7 +134,7 @@ In regulation 9, for paragraph (3), substitute—
 
 .
 
-## 8. Amendment of regulation 10[^key-983c57feeb50b74426f3364307321c13]
+## 8. Amendment of regulation 10[^c-983c57feeb50b74426f3364307321c13]
 
 In regulation 10—
 
@@ -142,7 +142,7 @@ In regulation 10—
 
 (2) in paragraph (2), after “regulation 9(3),”, insert “or 9(3A) (as the case may be),”.
 
-## 9. Amendment of regulation 12[^key-8dcfc688a613d55f3b2f4f2a2643c7a1]
+## 9. Amendment of regulation 12[^c-8dcfc688a613d55f3b2f4f2a2643c7a1]
 
 In regulation 12, after paragraph(2)(c)(i), insert—
 
@@ -178,24 +178,24 @@ An impact assessment of the effect that these Regulations would have upon the co
 
 [^f00002]: Footnote: [2018 (c16)](https://www.legislation.gov.uk/ukpga/2018/16); Part 1C of Schedule 2 was inserted by section 22 of the European Union (Withdrawal Agreement) Act [2020 (c.1)](https://www.legislation.gov.uk/ukpga/2020/1) (the 2020 Act). Paragraph 8F(10) of Schedule 7 was amended by paragraph 51 of Schedule 5 to the 2020 Act.
 
-[^key-438f805e41284661aa91aae9483f23ad]: Commencement: Reg. 1 in operation at 17.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/1/1)
+[^c-438f805e41284661aa91aae9483f23ad]: Commencement: Reg. 1 in operation at 17.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/1/1)
 
 [^f00003]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-74c1a93b19efaa8b45686d66ca1fa8d3]: Commencement: Reg. 2 in operation at 17.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/1/1)
+[^c-74c1a93b19efaa8b45686d66ca1fa8d3]: Commencement: Reg. 2 in operation at 17.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 2000 No 232](https://www.legislation.gov.uk/nisr/2000/232), amended by [S.R. 2018/215](https://www.legislation.gov.uk/nisr/2018/215), [S.R. 2020/285](https://www.legislation.gov.uk/nisr/2020/285), [S.R. 2011/127](https://www.legislation.gov.uk/nisr/2011/127), and [S.I. 2019/289](https://www.legislation.gov.uk/uksi/2019/289).
 
-[^key-f93951f020d851a44bd024b12c271073]: Commencement: Reg. 3 in operation at 17.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/1/1)
+[^c-f93951f020d851a44bd024b12c271073]: Commencement: Reg. 3 in operation at 17.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/1/1)
 
-[^key-fa593ae4efd23afe9648d73707e46bad]: Commencement: Reg. 4 in operation at 17.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/1/1)
+[^c-fa593ae4efd23afe9648d73707e46bad]: Commencement: Reg. 4 in operation at 17.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/1/1)
 
-[^key-d9efb850a03c5ea98ba7d6c3a1053d9f]: Commencement: Reg. 5 in operation at 17.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/1/1)
+[^c-d9efb850a03c5ea98ba7d6c3a1053d9f]: Commencement: Reg. 5 in operation at 17.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/1/1)
 
-[^key-097eeabe18778ebf1f5c4befa0d55320]: Commencement: Reg. 6 in operation at 17.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/1/1)
+[^c-097eeabe18778ebf1f5c4befa0d55320]: Commencement: Reg. 6 in operation at 17.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/1/1)
 
-[^key-09f59ccb2fb2a6a588d13ff749b45c4c]: Commencement: Reg. 7 in operation at 17.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/1/1)
+[^c-09f59ccb2fb2a6a588d13ff749b45c4c]: Commencement: Reg. 7 in operation at 17.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/1/1)
 
-[^key-983c57feeb50b74426f3364307321c13]: Commencement: Reg. 8 in operation at 17.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/1/1)
+[^c-983c57feeb50b74426f3364307321c13]: Commencement: Reg. 8 in operation at 17.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/1/1)
 
-[^key-8dcfc688a613d55f3b2f4f2a2643c7a1]: Commencement: Reg. 9 in operation at 17.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/1/1)
+[^c-8dcfc688a613d55f3b2f4f2a2643c7a1]: Commencement: Reg. 9 in operation at 17.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/111/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25A. Trading CRTS allowances with VRTS participants[^key-7d5bb5249412b4fa913dc8752b84a27e]
+## 25A. Trading CRTS allowances with VRTS participants[^c-7d5bb5249412b4fa913dc8752b84a27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d5bb5249412b4fa913dc8752b84a27e]: Textual amendment: [Art. 25A](https://www.legislation.gov.uk/uksi/2023/1394/article/25A) inserted (1.1.2026) by [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [12](https://www.legislation.gov.uk/uksi/2025/1101/article/12)
+[^c-7d5bb5249412b4fa913dc8752b84a27e]: Textual amendment: [Art. 25A](https://www.legislation.gov.uk/uksi/2023/1394/article/25A) inserted (1.1.2026) by [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [12](https://www.legislation.gov.uk/uksi/2025/1101/article/12)

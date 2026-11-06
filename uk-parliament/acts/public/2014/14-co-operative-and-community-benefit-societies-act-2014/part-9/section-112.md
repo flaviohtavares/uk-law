@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Conversion of society into a company, amalgamation with a company etc[^key-f4005eb8b022e74a7f2857ae8b67760d]
+## 112. Conversion of society into a company, amalgamation with a company etc[^c-f4005eb8b022e74a7f2857ae8b67760d]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ In this section “**company**” means a company under the Companies Acts.
 
 ## Annotations
 
-[^key-f4005eb8b022e74a7f2857ae8b67760d]: Modification: Ss. 112-114 excluded by 1979 c. 34, s. 22 (as amended (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/12) (with [Sch. 5)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-f4005eb8b022e74a7f2857ae8b67760d]: Modification: Ss. 112-114 excluded by 1979 c. 34, s. 22 (as amended (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/12) (with [Sch. 5)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))

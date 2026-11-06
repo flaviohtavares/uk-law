@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Powers of relevant officers[^key-1763ea41155a1057576257682ad35384]
+## 74. Powers of relevant officers[^c-1763ea41155a1057576257682ad35384]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1763ea41155a1057576257682ad35384]: Modification: [Regs. 74-74C](https://www.legislation.gov.uk/uksi/2017/692/regulation/74) applied (with modifications) (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [14](https://www.legislation.gov.uk/uksi/2022/860/regulation/14)
+[^c-1763ea41155a1057576257682ad35384]: Modification: [Regs. 74-74C](https://www.legislation.gov.uk/uksi/2017/692/regulation/74) applied (with modifications) (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [14](https://www.legislation.gov.uk/uksi/2022/860/regulation/14)

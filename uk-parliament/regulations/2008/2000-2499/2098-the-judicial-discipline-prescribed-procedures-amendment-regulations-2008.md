@@ -50,25 +50,25 @@ Coming into force
 
 The Lord Chief Justice, in exercise of his powers under sections 115, 120 and 121 of the Constitutional Reform Act 2005[^f00001], and with the agreement of the Lord Chancellor, the Lord President of the Court of Session and the Lord Chief Justice of Northern Ireland, makes the following Regulations:
 
-## 1. Citation, commencement and application[^key-97759b24aca1a8179dbee6182f0276c5]
+## 1. Citation, commencement and application[^c-97759b24aca1a8179dbee6182f0276c5]
 
 (1) These Regulations may be cited as the Judicial Discipline (Prescribed Procedures) (Amendment) Regulations 2008 and come into force on 28th August 2008.
 
 (2) These Regulations apply to any complaint, including a complaint made before 28th August 2008 which has not been withdrawn, dismissed or determined.
 
-## 2. Amendments to the Judicial Discipline (Prescribed Procedures) Regulations 2006[^key-1014fccf8c4d664fb02ba5f2cafe272b]
+## 2. Amendments to the Judicial Discipline (Prescribed Procedures) Regulations 2006[^c-1014fccf8c4d664fb02ba5f2cafe272b]
 
 The Judicial Discipline (Prescribed Procedures) Regulations 2006[^f00002] are amended as follows.
 
-**3.**[^key-55d7e5b5b8286c7811bf27164159de13] In regulation 2(2) (interpretation), after “In these regulations,” insert “unless the contrary intention appears”.
+**3.**[^c-55d7e5b5b8286c7811bf27164159de13] In regulation 2(2) (interpretation), after “In these regulations,” insert “unless the contrary intention appears”.
 
-**4.**[^key-ca671974e4ce7a95a7a3e1910864ba29] For regulation 3(4) (Office for Judicial Complaints), substitute—
+**4.**[^c-ca671974e4ce7a95a7a3e1910864ba29] For regulation 3(4) (Office for Judicial Complaints), substitute—
 
 > (4) Any reply by a complainant or the subject of the disciplinary proceedings to a request made by the Office for Judicial Complaints pursuant to enquiries made under paragraph (3) must be made within twenty business days of that request.
 
 .
 
-**5.**[^key-ea82eb91e796ab7cba9a29446bd84f42] In regulation 9 (complaints made to advisory committees)—
+**5.**[^c-ea82eb91e796ab7cba9a29446bd84f42] In regulation 9 (complaints made to advisory committees)—
 
 - (a) after paragraph (1) insert—
 
@@ -77,7 +77,7 @@ The Judicial Discipline (Prescribed Procedures) Regulations 2006[^f00002] are am
   ; and
 - (b) in paragraph (4) after “where the complaint” insert “concerns misconduct and”.
 
-**6.**[^key-c00edc71b0c9a00ee9da6de7df32f093] In regulation 10 (complaints made in relation to tribunals)—
+**6.**[^c-c00edc71b0c9a00ee9da6de7df32f093] In regulation 10 (complaints made in relation to tribunals)—
 
 - (a) after paragraph 3 insert—
 
@@ -87,9 +87,9 @@ The Judicial Discipline (Prescribed Procedures) Regulations 2006[^f00002] are am
 - (b) in paragraph (5) for “found a case to be substantiated” substitute “upheld a case”; and
 - (c) in paragraph (9) after “where the complaint” insert “concerns misconduct and”.
 
-**7.**[^key-7ef091b5bdf47e01f64f126057266dea] In regulation 13(2) (referral of other information for consideration), for “may” substitute “must”.
+**7.**[^c-7ef091b5bdf47e01f64f126057266dea] In regulation 13(2) (referral of other information for consideration), for “may” substitute “must”.
 
-**8.**[^key-780e7eb31e4878d4a087ae9e3409eb3b] In regulation 14 (consideration of a complaint by the Office for Judicial Complaints)—
+**8.**[^c-780e7eb31e4878d4a087ae9e3409eb3b] In regulation 14 (consideration of a complaint by the Office for Judicial Complaints)—
 
 - (a) in paragraph (1) omit from “Unless” until “investigated,”; and
 - (b) after paragraph (2) insert—
@@ -98,15 +98,15 @@ The Judicial Discipline (Prescribed Procedures) Regulations 2006[^f00002] are am
 
   .
 
-**9.**[^key-a6e5c04b00cfc2d653abb73bde828b6c] In regulation 15 (further consideration of a complaint liable to be dismissed under regulation 14), after “where the complaint” insert “concerns misconduct and”.
+**9.**[^c-a6e5c04b00cfc2d653abb73bde828b6c] In regulation 15 (further consideration of a complaint liable to be dismissed under regulation 14), after “where the complaint” insert “concerns misconduct and”.
 
-**10.**[^key-129faba8a0a1d0075883fced9a61ff14] In regulation 17 (nomination of nominated judge)—
+**10.**[^c-129faba8a0a1d0075883fced9a61ff14] In regulation 17 (nomination of nominated judge)—
 
 - (a) in paragraph (1) for “The nominated judge” substitute “A nominated judge”;
 - (b) in paragraph (2) after “cases” insert “, or to deal with different aspects of the same case”; and
 - (c) in paragraph (3) for “the nominated judge” substitute “a nominated judge”.
 
-**11.**[^key-c470049a131750f86cdd7204e1b35c8d] In regulation 18 (functions of nominated judge)—
+**11.**[^c-c470049a131750f86cdd7204e1b35c8d] In regulation 18 (functions of nominated judge)—
 
 - (a) for “The nominated judge” substitute “A nominated judge”;
 - (b) at the end of paragraph (c) delete “and”;
@@ -117,7 +117,7 @@ The Judicial Discipline (Prescribed Procedures) Regulations 2006[^f00002] are am
 
   .
 
-**12.**[^key-2bf185d35d6183f3aadabb59c6aff6dc] For regulation 22 (functions of investigating judge), substitute—
+**12.**[^c-2bf185d35d6183f3aadabb59c6aff6dc] For regulation 22 (functions of investigating judge), substitute—
 
 > **22. Functions of investigating judge**
 >
@@ -132,7 +132,7 @@ The Judicial Discipline (Prescribed Procedures) Regulations 2006[^f00002] are am
 
 .
 
-**13.**[^key-73a45f8e51f26fcd0e77746d1d925d8d] For regulation 23 (procedure of investigation by investigating judge) and regulation 24 (evidence and representations), substitute—
+**13.**[^c-73a45f8e51f26fcd0e77746d1d925d8d] For regulation 23 (procedure of investigation by investigating judge) and regulation 24 (evidence and representations), substitute—
 
 > **23. Procedure of investigation by investigating judge**
 >
@@ -166,14 +166,14 @@ The Judicial Discipline (Prescribed Procedures) Regulations 2006[^f00002] are am
 
 .
 
-**14.**[^key-4cc9b66ac32df40c5757b39d9763006c] In regulation 25(6) (report of investigating judge)—
+**14.**[^c-4cc9b66ac32df40c5757b39d9763006c] In regulation 25(6) (report of investigating judge)—
 
 - (a) for “Representations” substitute “Any representations”; and
 - (b) for “(3) or (4)” substitute “(2) or (3)”.
 
-**15.**[^key-2943a04093729e726a4ff78642145e4e] In regulation 27(2) (notification of proposed disciplinary action and final decision), for “twenty” substitute “ten”.
+**15.**[^c-2943a04093729e726a4ff78642145e4e] In regulation 27(2) (notification of proposed disciplinary action and final decision), for “twenty” substitute “ten”.
 
-**16.**[^key-ed8cd2c50bdeab4937367589217e9475] In regulation 29 (convening a review body)—
+**16.**[^c-ed8cd2c50bdeab4937367589217e9475] In regulation 29 (convening a review body)—
 
 - (a) for paragraph (1)(d) substitute—
 
@@ -210,13 +210,13 @@ The Judicial Discipline (Prescribed Procedures) Regulations 2006[^f00002] are am
 
   .
 
-**17.**[^key-94ab16226d9d8e65c217d4f9c64e21b2] In regulation 30 (functions of a review body), after paragraph (2) insert—
+**17.**[^c-94ab16226d9d8e65c217d4f9c64e21b2] In regulation 30 (functions of a review body), after paragraph (2) insert—
 
 > (2A) Where a review body reviews any finding of fact under paragraph (1)(a), any question as to whether, upon review, that fact is established must be decided on the balance of probabilities.
 
 .
 
-**18.**[^key-4bc6e21fe704bb275f72c498cf183c6c] For regulations 31 (review of documents), 32 (recommendations without a full review) and 33 (further procedure of review body), substitute—
+**18.**[^c-4bc6e21fe704bb275f72c498cf183c6c] For regulations 31 (review of documents), 32 (recommendations without a full review) and 33 (further procedure of review body), substitute—
 
 > **31. Review of documents and procedure of review body**
 >
@@ -235,7 +235,7 @@ The Judicial Discipline (Prescribed Procedures) Regulations 2006[^f00002] are am
 
 .
 
-**19.**[^key-e011eb7d63f0e4c8802b140d39c2c2ce] In regulation 34 (draft report of review body)—
+**19.**[^c-e011eb7d63f0e4c8802b140d39c2c2ce] In regulation 34 (draft report of review body)—
 
 - (a) in paragraph (2) after “person” insert “who may be adversely affected by its contents”; and
 - (b) for paragraph (4) substitute—
@@ -244,7 +244,7 @@ The Judicial Discipline (Prescribed Procedures) Regulations 2006[^f00002] are am
 
   .
 
-**20.**[^key-202f718da31dca01c11bd0df7af091d0] In regulation 36(1) (deferral of consideration of a case)—
+**20.**[^c-202f718da31dca01c11bd0df7af091d0] In regulation 36(1) (deferral of consideration of a case)—
 
 - (a) for “the Lord Chancellor and the Lord Chief Justice” substitute “the Office for Judicial Complaints”; and
 - (b) where it appears in the original paragraph, for “the Office for Judicial Complaints” substitute “it”.
@@ -303,44 +303,44 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [2005 c.4](https://www.legislation.gov.uk/ukpga/2005/4).
 
-[^key-97759b24aca1a8179dbee6182f0276c5]: Commencement: Reg. 1 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
+[^c-97759b24aca1a8179dbee6182f0276c5]: Commencement: Reg. 1 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
 
-[^key-1014fccf8c4d664fb02ba5f2cafe272b]: Commencement: Reg. 2 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
+[^c-1014fccf8c4d664fb02ba5f2cafe272b]: Commencement: Reg. 2 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2006/676](https://www.legislation.gov.uk/uksi/2006/676).
 
-[^key-55d7e5b5b8286c7811bf27164159de13]: Commencement: Reg. 3 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
+[^c-55d7e5b5b8286c7811bf27164159de13]: Commencement: Reg. 3 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
 
-[^key-ca671974e4ce7a95a7a3e1910864ba29]: Commencement: Reg. 4 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
+[^c-ca671974e4ce7a95a7a3e1910864ba29]: Commencement: Reg. 4 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
 
-[^key-ea82eb91e796ab7cba9a29446bd84f42]: Commencement: Reg. 5 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
+[^c-ea82eb91e796ab7cba9a29446bd84f42]: Commencement: Reg. 5 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
 
-[^key-c00edc71b0c9a00ee9da6de7df32f093]: Commencement: Reg. 6 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
+[^c-c00edc71b0c9a00ee9da6de7df32f093]: Commencement: Reg. 6 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
 
-[^key-7ef091b5bdf47e01f64f126057266dea]: Commencement: Reg. 7 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
+[^c-7ef091b5bdf47e01f64f126057266dea]: Commencement: Reg. 7 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
 
-[^key-780e7eb31e4878d4a087ae9e3409eb3b]: Commencement: Reg. 8 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
+[^c-780e7eb31e4878d4a087ae9e3409eb3b]: Commencement: Reg. 8 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
 
-[^key-a6e5c04b00cfc2d653abb73bde828b6c]: Commencement: Reg. 9 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
+[^c-a6e5c04b00cfc2d653abb73bde828b6c]: Commencement: Reg. 9 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
 
-[^key-129faba8a0a1d0075883fced9a61ff14]: Commencement: Reg. 10 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
+[^c-129faba8a0a1d0075883fced9a61ff14]: Commencement: Reg. 10 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
 
-[^key-c470049a131750f86cdd7204e1b35c8d]: Commencement: Reg. 11 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
+[^c-c470049a131750f86cdd7204e1b35c8d]: Commencement: Reg. 11 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
 
-[^key-2bf185d35d6183f3aadabb59c6aff6dc]: Commencement: Reg. 12 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
+[^c-2bf185d35d6183f3aadabb59c6aff6dc]: Commencement: Reg. 12 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
 
-[^key-73a45f8e51f26fcd0e77746d1d925d8d]: Commencement: Reg. 13 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
+[^c-73a45f8e51f26fcd0e77746d1d925d8d]: Commencement: Reg. 13 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
 
-[^key-4cc9b66ac32df40c5757b39d9763006c]: Commencement: Reg. 14 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
+[^c-4cc9b66ac32df40c5757b39d9763006c]: Commencement: Reg. 14 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
 
-[^key-2943a04093729e726a4ff78642145e4e]: Commencement: Reg. 15 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
+[^c-2943a04093729e726a4ff78642145e4e]: Commencement: Reg. 15 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
 
-[^key-ed8cd2c50bdeab4937367589217e9475]: Commencement: Reg. 16 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
+[^c-ed8cd2c50bdeab4937367589217e9475]: Commencement: Reg. 16 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
 
-[^key-94ab16226d9d8e65c217d4f9c64e21b2]: Commencement: Reg. 17 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
+[^c-94ab16226d9d8e65c217d4f9c64e21b2]: Commencement: Reg. 17 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
 
-[^key-4bc6e21fe704bb275f72c498cf183c6c]: Commencement: Reg. 18 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
+[^c-4bc6e21fe704bb275f72c498cf183c6c]: Commencement: Reg. 18 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
 
-[^key-e011eb7d63f0e4c8802b140d39c2c2ce]: Commencement: Reg. 19 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
+[^c-e011eb7d63f0e4c8802b140d39c2c2ce]: Commencement: Reg. 19 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
 
-[^key-202f718da31dca01c11bd0df7af091d0]: Commencement: Reg. 20 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)
+[^c-202f718da31dca01c11bd0df7af091d0]: Commencement: Reg. 20 in force at 28.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2098/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Controls on free distribution of printed matter[^key-116c7ee769d4c388856c99e30d333951][^key-f782f0778194c22cc671ea8d71704d74]
+## 23. Controls on free distribution of printed matter[^c-116c7ee769d4c388856c99e30d333951][^c-f782f0778194c22cc671ea8d71704d74]
 
 *Extent: E+W*
 
@@ -206,6 +206,6 @@ summary: ''
 
 ## Annotations
 
-[^key-116c7ee769d4c388856c99e30d333951]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2005/16/section/23) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
+[^c-116c7ee769d4c388856c99e30d333951]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2005/16/section/23) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
 
-[^key-f782f0778194c22cc671ea8d71704d74]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2005/16/section/23) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(j)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/j)
+[^c-f782f0778194c22cc671ea8d71704d74]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2005/16/section/23) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(j)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/j)

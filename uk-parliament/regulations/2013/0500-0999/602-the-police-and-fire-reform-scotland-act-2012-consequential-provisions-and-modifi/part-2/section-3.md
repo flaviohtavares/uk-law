@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Agreements to investigate serious incidents[^key-583b2161787f181bd390e3824fb86318]
+## 3. Agreements to investigate serious incidents[^c-583b2161787f181bd390e3824fb86318]
 
 *Extent: S*
 
@@ -54,7 +54,7 @@ summary: ''
 
 (17) A “serious incident involving a customs revenue official” has the same meaning as in section 41B of the 2006 Act except that “a person serving with the police” means a customs revenue official or any other person exercising customs revenue functions under the authority of the Director of Border Revenue, but only when acting in the exercise of such enforcement functions as may be specified in an agreement made under paragraph (16).
 
-(17A)[^key-484fd377daddd9694096b79c5409556e] The Commissioner and the Independent Commission for Reconciliation and Information Recovery (the “ICRIR”) may enter into an agreement for the Commissioner to investigate and report, where requested to do so by the ICRIR, on any serious incident involving the ICRIR.
+(17A)[^c-484fd377daddd9694096b79c5409556e] The Commissioner and the Independent Commission for Reconciliation and Information Recovery (the “ICRIR”) may enter into an agreement for the Commissioner to investigate and report, where requested to do so by the ICRIR, on any serious incident involving the ICRIR.
 
 (17B) A “**serious incident involving the ICRIR**” has the same meaning as a “serious incident involving the police” in section 41B of the 2006 Act except that “**a person serving with the police**” means an ICRIR officer (which has the same meaning as in the Northern Ireland Troubles (Legacy and Reconciliation) Act 2023).
 
@@ -76,12 +76,12 @@ summary: ''
 
 ## Annotations
 
-[^key-583b2161787f181bd390e3824fb86318]: Commencement: Art. 3 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-583b2161787f181bd390e3824fb86318]: Commencement: Art. 3 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00019]: Footnote: Section 41B was inserted by section 64 of the Police and Fire Reform (Scotland) Act [2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) (the “2012 Act”).
 
 [^f00020]: Footnote: [1999 c.33](https://www.legislation.gov.uk/ukpga/1999/33).
 
-[^key-484fd377daddd9694096b79c5409556e]: Textual amendment: [Art. 3(17A)](https://www.legislation.gov.uk/uksi/2013/602/article/3/17A)[(17B)](https://www.legislation.gov.uk/uksi/2013/602/article/3/17B) inserted (1.5.2024) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4), [Sch. 13 para. 8(2)](https://www.legislation.gov.uk/ukpga/2023/41/schedule/13/paragraph/8/2) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61)); [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(bb)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/bb) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-484fd377daddd9694096b79c5409556e]: Textual amendment: [Art. 3(17A)](https://www.legislation.gov.uk/uksi/2013/602/article/3/17A)[(17B)](https://www.legislation.gov.uk/uksi/2013/602/article/3/17B) inserted (1.5.2024) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4), [Sch. 13 para. 8(2)](https://www.legislation.gov.uk/ukpga/2023/41/schedule/13/paragraph/8/2) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61)); [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(bb)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/bb) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
 
 [^f00021]: Footnote: Section 33A was inserted by section 62 of the 2012 Act.

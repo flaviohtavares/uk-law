@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) The supervision level of prisoners, except untried prisoners and[^key-b015c595262fe797bc4ef4bdbae21d72] those mentioned in rule 18(2), must be reviewed in accordance with the provisions of these Rules—
+(1) The supervision level of prisoners, except untried prisoners and[^c-b015c595262fe797bc4ef4bdbae21d72] those mentioned in rule 18(2), must be reviewed in accordance with the provisions of these Rules—
 
 - (a) for all prisoners, within 72 hours of reception;
 - (b) for prisoners assigned medium or high supervision level on a review under sub‑paragraph (a), within 6 months of that review;
@@ -37,12 +37,12 @@ summary: ''
 - (f) the prisoner's trustworthiness and stability; and
 - (g) any other criteria as may be specified in a direction made by the Scottish Ministers for the purposes of this rule.
 
-(3)[^key-ff016272ce34376f89685cc447e6de6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ff016272ce34376f89685cc447e6de6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The entitlement of any prisoner who is assigned low supervision level to participate in supervised or unsupervised activities in the community is subject to the requirements of rule 100 and of Part 15.
 
 ## Annotations
 
-[^key-b015c595262fe797bc4ef4bdbae21d72]: Textual amendment: Words in rule 19(1) inserted (19.3.2012) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2012 (S.S.I. 2012/26)](https://www.legislation.gov.uk/ssi/2012/26), [rules 1](https://www.legislation.gov.uk/ssi/2012/26/article/1), [2(6)(a)](https://www.legislation.gov.uk/ssi/2012/26/article/2/6/a)
+[^c-b015c595262fe797bc4ef4bdbae21d72]: Textual amendment: Words in rule 19(1) inserted (19.3.2012) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2012 (S.S.I. 2012/26)](https://www.legislation.gov.uk/ssi/2012/26), [rules 1](https://www.legislation.gov.uk/ssi/2012/26/article/1), [2(6)(a)](https://www.legislation.gov.uk/ssi/2012/26/article/2/6/a)
 
-[^key-ff016272ce34376f89685cc447e6de6e]: Textual amendment: Rule 19(3) revoked (19.3.2012) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2012 (S.S.I. 2012/26)](https://www.legislation.gov.uk/ssi/2012/26), [rules 1](https://www.legislation.gov.uk/ssi/2012/26/article/1), [2(6)(b)](https://www.legislation.gov.uk/ssi/2012/26/article/2/6/b)
+[^c-ff016272ce34376f89685cc447e6de6e]: Textual amendment: Rule 19(3) revoked (19.3.2012) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2012 (S.S.I. 2012/26)](https://www.legislation.gov.uk/ssi/2012/26), [rules 1](https://www.legislation.gov.uk/ssi/2012/26/article/1), [2(6)(b)](https://www.legislation.gov.uk/ssi/2012/26/article/2/6/b)

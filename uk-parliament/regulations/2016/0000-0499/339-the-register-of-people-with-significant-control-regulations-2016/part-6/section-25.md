@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Application by an individual requiring the registrar to refrain from disclosing that individual's usual residential address information to a credit reference agency[^key-2d6f6003c7ac4d4a472a68274357d019]
+## 25. Application by an individual requiring the registrar to refrain from disclosing that individual's usual residential address information to a credit reference agency[^c-2d6f6003c7ac4d4a472a68274357d019]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,9 +32,9 @@ summary: ''
   - (v) the limited liability partnerships in relation to which the applicant is or proposes to become a member;
   - (vi) the limited liability partnerships in relation to which the applicant used to be a member;
   - (vii) the companies in relation to which the applicant is, or proposes to become, a director [^c23150951];
-  - (viii) the companies in relation to which the applicant used to be a director; [^key-ec48be0005a71581544b3ef7fb6ffdbc]...
+  - (viii) the companies in relation to which the applicant used to be a director; [^c-ec48be0005a71581544b3ef7fb6ffdbc]...
   - (ix) the overseas companies [^c23150961] of which the applicant is or used to be a director, secretary or permanent representative; or
-  - (x)[^key-38e3c7b5f613b40b2f74d9c7cb7c9cab] the eligible Scottish partnerships in relation to which the applicant is, was, or proposes to become a registrable person under the Scottish Partnerships (Register of People with Significant Control) Regulations 2017 ([S.I. 2017/694](https://www.legislation.gov.uk/uksi/2017/694));
+  - (x)[^c-38e3c7b5f613b40b2f74d9c7cb7c9cab] the eligible Scottish partnerships in relation to which the applicant is, was, or proposes to become a registrable person under the Scottish Partnerships (Register of People with Significant Control) Regulations 2017 ([S.I. 2017/694](https://www.legislation.gov.uk/uksi/2017/694));
   - (xi) the limited partnerships in relation to which the applicant is, was, or proposes to become a partner;
   - (xii) the limited partnerships in relation to which the applicant is, was, or proposes to become a registered officer of a general partner; or
   - (xiii) the limited partnerships in relation to which the applicant is, was, or proposes to become the named contact of a corporate managing officer of a general partner; or
@@ -57,7 +57,7 @@ summary: ''
 
 (6) Where the application is unsuccessful, the notice under paragraph (5) must inform the applicant of the applicant's right to apply for permission to appeal against the determination within 28 days beginning with the date of the notice.
 
-(7)[^key-ad63eaa7ef4fb1f5de156c8b24ea0df8] In this regulation—
+(7)[^c-ad63eaa7ef4fb1f5de156c8b24ea0df8] In this regulation—
 
 - “**the 1907 Act**” means the Limited Partnerships Act 1907 (c. 24 (7 Edw 7));
 - “**corporate managing officer**” has the meaning given in section 3(1) of the 1907 Act (interpretation of terms);
@@ -69,14 +69,14 @@ summary: ''
 
 ## Annotations
 
-[^key-2d6f6003c7ac4d4a472a68274357d019]: Modification: [Regs. 7-47](https://www.legislation.gov.uk/uksi/2016/339/regulation/7) applied (with modifications) (E.W.S.) (6.4.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2016/340/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2016/340/schedule/2/paragraph/3) (as amended: (26.6.2017) by [S.I. 2017/693](https://www.legislation.gov.uk/uksi/2017/693), [regs. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2), [30](https://www.legislation.gov.uk/uksi/2017/693/regulation/30) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2017/693/schedule/part/2)); (27.1.2025) by [S.I. 2024/1377](https://www.legislation.gov.uk/uksi/2024/1377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1377/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2024/1377/regulation/11/3); (21.7.2025) by [S.I. 2025/874](https://www.legislation.gov.uk/uksi/2025/874), [reg. 9(5)](https://www.legislation.gov.uk/uksi/2025/874/regulation/9/5); and (18.11.2025) by [S.I. 2025/1033](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(3)(d)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/3/d), [11(3)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/11/3) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i))
+[^c-2d6f6003c7ac4d4a472a68274357d019]: Modification: [Regs. 7-47](https://www.legislation.gov.uk/uksi/2016/339/regulation/7) applied (with modifications) (E.W.S.) (6.4.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2016/340/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2016/340/schedule/2/paragraph/3) (as amended: (26.6.2017) by [S.I. 2017/693](https://www.legislation.gov.uk/uksi/2017/693), [regs. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2), [30](https://www.legislation.gov.uk/uksi/2017/693/regulation/30) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2017/693/schedule/part/2)); (27.1.2025) by [S.I. 2024/1377](https://www.legislation.gov.uk/uksi/2024/1377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1377/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2024/1377/regulation/11/3); (21.7.2025) by [S.I. 2025/874](https://www.legislation.gov.uk/uksi/2025/874), [reg. 9(5)](https://www.legislation.gov.uk/uksi/2025/874/regulation/9/5); and (18.11.2025) by [S.I. 2025/1033](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(3)(d)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/3/d), [11(3)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/11/3) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i))
 
 [^c23150951]: Marginal citation: See section 250 of the Act for the meaning of “director”.
 
-[^key-ec48be0005a71581544b3ef7fb6ffdbc]: Textual amendment: Word in [reg. 25(2)(a)](https://www.legislation.gov.uk/uksi/2016/339/regulation/25/2/a) omitted (21.7.2025) by virtue of [The Protection and Disclosure of Personal Information (Amendment) Regulations 2025 (S.I. 2025/874)](https://www.legislation.gov.uk/uksi/2025/874), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/874/regulation/1/2/a), [8(2)(a)](https://www.legislation.gov.uk/uksi/2025/874/regulation/8/2/a)
+[^c-ec48be0005a71581544b3ef7fb6ffdbc]: Textual amendment: Word in [reg. 25(2)(a)](https://www.legislation.gov.uk/uksi/2016/339/regulation/25/2/a) omitted (21.7.2025) by virtue of [The Protection and Disclosure of Personal Information (Amendment) Regulations 2025 (S.I. 2025/874)](https://www.legislation.gov.uk/uksi/2025/874), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/874/regulation/1/2/a), [8(2)(a)](https://www.legislation.gov.uk/uksi/2025/874/regulation/8/2/a)
 
 [^c23150961]: Marginal citation: See section 1044 of the Act for the meaning of “overseas company”.
 
-[^key-38e3c7b5f613b40b2f74d9c7cb7c9cab]: Textual amendment: [Reg. 25(2)(a)(x)-(xiii)](https://www.legislation.gov.uk/uksi/2016/339/regulation/25/2/a/x) inserted (21.7.2025) by [The Protection and Disclosure of Personal Information (Amendment) Regulations 2025 (S.I. 2025/874)](https://www.legislation.gov.uk/uksi/2025/874), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/874/regulation/1/2/a), [8(2)(b)](https://www.legislation.gov.uk/uksi/2025/874/regulation/8/2/b)
+[^c-38e3c7b5f613b40b2f74d9c7cb7c9cab]: Textual amendment: [Reg. 25(2)(a)(x)-(xiii)](https://www.legislation.gov.uk/uksi/2016/339/regulation/25/2/a/x) inserted (21.7.2025) by [The Protection and Disclosure of Personal Information (Amendment) Regulations 2025 (S.I. 2025/874)](https://www.legislation.gov.uk/uksi/2025/874), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/874/regulation/1/2/a), [8(2)(b)](https://www.legislation.gov.uk/uksi/2025/874/regulation/8/2/b)
 
-[^key-ad63eaa7ef4fb1f5de156c8b24ea0df8]: Textual amendment: [Reg. 25(7)](https://www.legislation.gov.uk/uksi/2016/339/regulation/25/7) inserted (21.7.2025) by [The Protection and Disclosure of Personal Information (Amendment) Regulations 2025 (S.I. 2025/874)](https://www.legislation.gov.uk/uksi/2025/874), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/874/regulation/1/2/a), [8(3)](https://www.legislation.gov.uk/uksi/2025/874/regulation/8/3)
+[^c-ad63eaa7ef4fb1f5de156c8b24ea0df8]: Textual amendment: [Reg. 25(7)](https://www.legislation.gov.uk/uksi/2016/339/regulation/25/7) inserted (21.7.2025) by [The Protection and Disclosure of Personal Information (Amendment) Regulations 2025 (S.I. 2025/874)](https://www.legislation.gov.uk/uksi/2025/874), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/874/regulation/1/2/a), [8(3)](https://www.legislation.gov.uk/uksi/2025/874/regulation/8/3)

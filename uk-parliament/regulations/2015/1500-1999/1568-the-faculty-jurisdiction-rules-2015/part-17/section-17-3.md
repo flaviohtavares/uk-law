@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 17.3. Service through document exchange[^key-827cc06445bb5d808ccef15603f3fbb4]
+## 17.3. Service through document exchange[^c-827cc06445bb5d808ccef15603f3fbb4]
 
 *Extent: E*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-827cc06445bb5d808ccef15603f3fbb4]: Commencement: [Rule 17.3](https://www.legislation.gov.uk/uksi/2015/1568/article/17.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-827cc06445bb5d808ccef15603f3fbb4]: Commencement: [Rule 17.3](https://www.legislation.gov.uk/uksi/2015/1568/article/17.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Information[^key-f6d88fa43f76d46ab7ac4f6c7bcbf593]
+## 25. Information[^c-f6d88fa43f76d46ab7ac4f6c7bcbf593]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ After section 16M of the Children Act 2004 (inserted by section 24 of this Act) 
 
 ## Annotations
 
-[^key-f6d88fa43f76d46ab7ac4f6c7bcbf593]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2017/16/section/25) in force at 29.6.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/n)
+[^c-f6d88fa43f76d46ab7ac4f6c7bcbf593]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2017/16/section/25) in force at 29.6.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/n)

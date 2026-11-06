@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and Commencement[^key-341e48f376305477c9cc8be233d9dec2]
+## 1. Citation and Commencement[^c-341e48f376305477c9cc8be233d9dec2]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Northampton Gateway Rail Freight Interchange Orde
 
 ## Annotations
 
-[^key-341e48f376305477c9cc8be233d9dec2]: Commencement: Art. 1 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-341e48f376305477c9cc8be233d9dec2]: Commencement: Art. 1 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)

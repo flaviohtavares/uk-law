@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Meaning of Secretary of State[^key-1b63c5a96b0959069960d1980f77f4a6]
+## 62. Meaning of Secretary of State[^c-1b63c5a96b0959069960d1980f77f4a6]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ For the purposes of the provisions of this Order the Secretary of State shall me
 
 ## Annotations
 
-[^key-1b63c5a96b0959069960d1980f77f4a6]: Commencement: Art. 62 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-1b63c5a96b0959069960d1980f77f4a6]: Commencement: Art. 62 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

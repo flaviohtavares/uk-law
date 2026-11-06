@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 408. Interpretation[^key-5aaa764828a1ffee10c1558a1288fc91]
+## 408. Interpretation[^c-5aaa764828a1ffee10c1558a1288fc91]
 
 *Extent: E+W*
 
@@ -207,4 +207,4 @@ but for the purpose of determining whether a purchase notice has been served wit
 
 ## Annotations
 
-[^key-5aaa764828a1ffee10c1558a1288fc91]: Commencement: S. 408 in force at 28.4.2026, see [s. 409(1)(c)](https://www.legislation.gov.uk/asc/2026/6/section/409/1/c)
+[^c-5aaa764828a1ffee10c1558a1288fc91]: Commencement: S. 408 in force at 28.4.2026, see [s. 409(1)(c)](https://www.legislation.gov.uk/asc/2026/6/section/409/1/c)

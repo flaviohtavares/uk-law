@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Housing renewal areas: criteria[^key-39794d9f8d9201408ce8c59e52f1b08f]
+## 1. Housing renewal areas: criteria[^c-39794d9f8d9201408ce8c59e52f1b08f]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ A local authority may by order designate any locality in its area as a housing r
 
 ## Annotations
 
-[^key-39794d9f8d9201408ce8c59e52f1b08f]: Commencement: S. 1 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-39794d9f8d9201408ce8c59e52f1b08f]: Commencement: S. 1 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

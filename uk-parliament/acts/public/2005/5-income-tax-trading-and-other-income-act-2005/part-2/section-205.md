@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 205. Deduction for overlap profit in final tax year[^key-4e0be10394ef05ca20116ed56a33fb56]
+## 205. Deduction for overlap profit in final tax year[^c-4e0be10394ef05ca20116ed56a33fb56]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e0be10394ef05ca20116ed56a33fb56]: Textual amendment: [Pt. 2 Ch. 15](https://www.legislation.gov.uk/ukpga/2005/5/part/2/chapter/15) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 8](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/8), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)
+[^c-4e0be10394ef05ca20116ed56a33fb56]: Textual amendment: [Pt. 2 Ch. 15](https://www.legislation.gov.uk/ukpga/2005/5/part/2/chapter/15) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 8](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/8), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)

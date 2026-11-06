@@ -47,7 +47,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ## PART 1 — Title and coming into force
 
-### 1. Title and coming into force[^key-5d5f977d0b8314a0aefa1c52e8b62e8f]
+### 1. Title and coming into force[^c-5d5f977d0b8314a0aefa1c52e8b62e8f]
 
 (1) The title of these Regulations is the Education (Student Finance) (Miscellaneous Amendments) (No. 2) (Wales) Regulations 2023.
 
@@ -57,11 +57,11 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 1 — Introduction
 
-**2.**[^key-c736e1f162501efd2a8232758911a015] The Education (Fees and Awards) (Wales) Regulations 2007[^f00005] are amended in accordance with this Part.
+**2.**[^c-c736e1f162501efd2a8232758911a015] The Education (Fees and Awards) (Wales) Regulations 2007[^f00005] are amended in accordance with this Part.
 
 ### CHAPTER 2 — Amendments to the definitions of “overseas territories” and “specified British overseas territories”
 
-**3.**[^key-3afc0090ac4a76d27e491183cca85fb1] In regulation 2(1)—
+**3.**[^c-3afc0090ac4a76d27e491183cca85fb1] In regulation 2(1)—
 
 - (a) in the definition of “overseas territories”—
   - (i) omit “British Virgin Islands;”;
@@ -74,7 +74,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 3 — Amendments to the definition of “person granted leave to enter or remain as a protected person”
 
-**4.**[^key-e887521e4e7b936ab541840e10118124] In the Schedule, in paragraph 1, in the definition of “person granted leave to enter or remain as a protected person”—
+**4.**[^c-e887521e4e7b936ab541840e10118124] In the Schedule, in paragraph 1, in the definition of “person granted leave to enter or remain as a protected person”—
 
 - (a) for paragraph (e) substitute—
 
@@ -92,11 +92,11 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 1 — Introduction
 
-**5.**[^key-c5af9c6d9d537e355ee0e4ea208a6eb1] The Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015[^f00006] are amended in accordance with this Part.
+**5.**[^c-c5af9c6d9d537e355ee0e4ea208a6eb1] The Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015[^f00006] are amended in accordance with this Part.
 
 ### CHAPTER 2 — Amendments to the definitions of “overseas territories” and “specified British overseas territories”
 
-**6.**[^key-bfa12759f125a054942dacd76c9d0d23] In the Schedule, in paragraph 1(1)—
+**6.**[^c-bfa12759f125a054942dacd76c9d0d23] In the Schedule, in paragraph 1(1)—
 
 - (a) in the definition of “overseas territories”—
   - (i) omit “British Virgin Islands;”;
@@ -109,7 +109,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 3 — Amendments to the definition of “person granted leave to enter or remain as a protected person”
 
-**7.**[^key-daa29ead04565ca4f3fef45ac41da19b] In the Schedule, in paragraph 1(1), in the definition of “person granted leave to enter or remain as a protected person”—
+**7.**[^c-daa29ead04565ca4f3fef45ac41da19b] In the Schedule, in paragraph 1(1), in the definition of “person granted leave to enter or remain as a protected person”—
 
 - (a) for paragraph (e) substitute—
 
@@ -127,11 +127,11 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 1 — Introduction
 
-**8.**[^key-172f111b3fe7310e9bac05a83674fefb] The Education (Student Support) (Wales) Regulations 2017[^f00007] are amended in accordance with this Part.
+**8.**[^c-172f111b3fe7310e9bac05a83674fefb] The Education (Student Support) (Wales) Regulations 2017[^f00007] are amended in accordance with this Part.
 
 ### CHAPTER 2 — Amendments to early termination of eligibility provisions
 
-**9.**[^key-20371c06636f5d5a1e72d770fe55c79e] In regulation 4, after paragraph (11) insert—
+**9.**[^c-20371c06636f5d5a1e72d770fe55c79e] In regulation 4, after paragraph (11) insert—
 
 > (11A) Paragraphs (9), (9A), (9B), (10), (10A), (10B), (10C), (10D), (10E) or (10F) do not apply where, as at the day before the academic year in respect of which A is applying for support starts—
 >
@@ -142,7 +142,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 .
 
-**10.**[^key-d6fc0a2134c1a2cbb1df1a4869c65c3e] In regulation 81, after paragraph (10F) insert—
+**10.**[^c-d6fc0a2134c1a2cbb1df1a4869c65c3e] In regulation 81, after paragraph (10F) insert—
 
 > (10G) Paragraphs (9), (9A), (9B), (10), (10A), (10B), (10C), (10D), (10E) or (10F) do not apply where, as at the day before the academic year in respect of which A is applying for support begins—
 >
@@ -153,7 +153,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 .
 
-**11.**[^key-2243c81963a6d9e49781f9d6fad9017f] In regulation 110, after paragraph (12F) insert—
+**11.**[^c-2243c81963a6d9e49781f9d6fad9017f] In regulation 110, after paragraph (12F) insert—
 
 > (12G) Paragraphs (11), (11A), (11B), (12), (12A), (12B), (12C), (12D), (12E) or (12F) do not apply where, as at the day before the academic year in respect of which A is applying for support begins—
 >
@@ -168,11 +168,11 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 1 — Introduction
 
-**12.**[^key-8094664018e1ccc7c7492b075e5a2580] The Education (Student Support) (Wales) Regulations 2018[^f00008] are amended in accordance with this Part.
+**12.**[^c-8094664018e1ccc7c7492b075e5a2580] The Education (Student Support) (Wales) Regulations 2018[^f00008] are amended in accordance with this Part.
 
 ### CHAPTER 2 — Amendments to the definitions of “overseas territories” and “specified British overseas territories”
 
-**13.**[^key-22baee75c2e0d9c0bcdb33b7fb65fe0b] In Schedule 2, in paragraph 11(1)—
+**13.**[^c-22baee75c2e0d9c0bcdb33b7fb65fe0b] In Schedule 2, in paragraph 11(1)—
 
 - (a) in the definition of “overseas territories”—
   - (i) omit “British Virgin Islands,”;
@@ -185,7 +185,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 3 — Amendments to the definition of “person with leave to enter or remain as a relevant Afghan citizen”
 
-**14.**[^key-797a4524c97dee6ced3bb9074dac82b0] In Schedule 2, in paragraph 2ZA(4), in paragraph (ea)—
+**14.**[^c-797a4524c97dee6ced3bb9074dac82b0] In Schedule 2, in paragraph 2ZA(4), in paragraph (ea)—
 
 - (a) for sub-paragraph (i) substitute—
 
@@ -201,7 +201,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 4 — Amendments to early termination of eligibility provisions
 
-**15.**[^key-1b84813776d1c11a728520e60d1e4600] After regulation 23G insert—
+**15.**[^c-1b84813776d1c11a728520e60d1e4600] After regulation 23G insert—
 
 > **23H.** Regulations 22, 22A, 23, 23A, 23B, 23C, 23D, 23E, 23F or 23G do not apply where as at the end of the day before the first day of the academic year in respect of which P is applying for support—
 >
@@ -212,7 +212,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 .
 
-**16.**[^key-984563fe523600e15101cad3b94ab6d8] In Schedule 4, after paragraph 13G insert—
+**16.**[^c-984563fe523600e15101cad3b94ab6d8] In Schedule 4, after paragraph 13G insert—
 
 > **13H.** Paragraphs 12, 12A, 13, 13A, 13B, 13C, 13D, 13E, 13F or 13G do not apply where, as at the end of the day before the first day of the academic year in respect of which P is applying for support—
 >
@@ -227,11 +227,11 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 1 — Introduction
 
-**17.**[^key-0fc4f2404c2f717f317d325bed908ab9] The Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018[^f00009] are amended in accordance with this Part.
+**17.**[^c-0fc4f2404c2f717f317d325bed908ab9] The Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018[^f00009] are amended in accordance with this Part.
 
 ### CHAPTER 2 — Amendments to the definitions of “overseas territories” and “specified British overseas territories”
 
-**18.**[^key-131a30634378e30ce17beabd01bdcd12] In Schedule 1, in paragraph 1(1)—
+**18.**[^c-131a30634378e30ce17beabd01bdcd12] In Schedule 1, in paragraph 1(1)—
 
 - (a) in the definition of “overseas territories”—
   - (i) omit “British Virgin Islands;”;
@@ -244,7 +244,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 3 — Amendments to the definition of “person with leave to enter or remain as a relevant Afghan citizen”
 
-**19.**[^key-f611c7367a61ca20e8d3b480eaa5d8f1] In regulation 2(1), in the definition of “person with leave to enter or remain as a relevant Afghan citizen”—
+**19.**[^c-f611c7367a61ca20e8d3b480eaa5d8f1] In regulation 2(1), in the definition of “person with leave to enter or remain as a relevant Afghan citizen”—
 
 - (a) for paragraph (a) substitute—
 
@@ -262,11 +262,11 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 1 — Introduction
 
-**20.**[^key-e432472e791be199466e20c3329e4b41] The Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019[^f00010] are amended in accordance with this Part.
+**20.**[^c-e432472e791be199466e20c3329e4b41] The Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019[^f00010] are amended in accordance with this Part.
 
 ### CHAPTER 2 — Amendments to the definitions of “overseas territories” and “specified British overseas territories”
 
-**21.**[^key-f62f7fade30d6d5786430083e0bd1906] In Schedule 2, in paragraph 13(1)—
+**21.**[^c-f62f7fade30d6d5786430083e0bd1906] In Schedule 2, in paragraph 13(1)—
 
 - (a) in the definition of “overseas territories”—
   - (i) omit “British Virgin Islands,”;
@@ -279,7 +279,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 3 — Amendments to the definition of “person with leave to enter or remain as a relevant Afghan citizen”
 
-**22.**[^key-2ebfa73c7857e3eae6e95837592ebe2b] In Schedule 2, in paragraph 2A(4)(da)—
+**22.**[^c-2ebfa73c7857e3eae6e95837592ebe2b] In Schedule 2, in paragraph 2A(4)(da)—
 
 - (a) for sub-paragraph (i) substitute—
 
@@ -324,58 +324,58 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00004]: Footnote: [2015 anaw 1](https://www.legislation.gov.uk/anaw/2015/1). See section 57(1) for the definitions of “prescribed” and “regulations”.
 
-[^key-5d5f977d0b8314a0aefa1c52e8b62e8f]: Commencement: Reg. 1 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
+[^c-5d5f977d0b8314a0aefa1c52e8b62e8f]: Commencement: Reg. 1 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
 
-[^key-c736e1f162501efd2a8232758911a015]: Commencement: Reg. 2 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
+[^c-c736e1f162501efd2a8232758911a015]: Commencement: Reg. 2 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 2007/2310 (W. 181)](https://www.legislation.gov.uk/wsi/2007/2310), relevant amendments are [S.I. 2013/1792 (W. 179)](https://www.legislation.gov.uk/wsi/2013/1792), [S.I. 2020/1302 (W. 287)](https://www.legislation.gov.uk/wsi/2020/1302), [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481) and [S.I. 2022/79 (W. 28)](https://www.legislation.gov.uk/wsi/2022/79). There are other amending instruments but none are relevant.
 
-[^key-3afc0090ac4a76d27e491183cca85fb1]: Commencement: Reg. 3 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
+[^c-3afc0090ac4a76d27e491183cca85fb1]: Commencement: Reg. 3 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
 
-[^key-e887521e4e7b936ab541840e10118124]: Commencement: Reg. 4 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
+[^c-e887521e4e7b936ab541840e10118124]: Commencement: Reg. 4 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
 
-[^key-c5af9c6d9d537e355ee0e4ea208a6eb1]: Commencement: Reg. 5 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
+[^c-c5af9c6d9d537e355ee0e4ea208a6eb1]: Commencement: Reg. 5 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
 
 [^f00006]: Footnote: [S.I. 2015/1484 (W. 163)](https://www.legislation.gov.uk/wsi/2015/1484), relevant amendments are [S.I. 2020/1302 (W. 287)](https://www.legislation.gov.uk/wsi/2020/1302), [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481) and [S.I. 2022/79 (W. 28)](https://www.legislation.gov.uk/wsi/2022/79). There are other amending instruments but none are relevant.
 
-[^key-bfa12759f125a054942dacd76c9d0d23]: Commencement: Reg. 6 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
+[^c-bfa12759f125a054942dacd76c9d0d23]: Commencement: Reg. 6 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
 
-[^key-daa29ead04565ca4f3fef45ac41da19b]: Commencement: Reg. 7 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
+[^c-daa29ead04565ca4f3fef45ac41da19b]: Commencement: Reg. 7 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
 
-[^key-172f111b3fe7310e9bac05a83674fefb]: Commencement: Reg. 8 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
+[^c-172f111b3fe7310e9bac05a83674fefb]: Commencement: Reg. 8 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
 
 [^f00007]: Footnote: [S.I. 2017/47 (W. 21)](https://www.legislation.gov.uk/wsi/2017/47), relevant amendments are [S.I. 2018/814 (W. 165)](https://www.legislation.gov.uk/wsi/2018/814), [S.I. 2019/235 (W. 54)](https://www.legislation.gov.uk/wsi/2019/235), [S.I. 2021/9 (W. 4)](https://www.legislation.gov.uk/wsi/2021/9), [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481), [S.I. 2021/1365 (W. 360)](https://www.legislation.gov.uk/wsi/2021/1365), [S.I. 2022/79 (W. 28)](https://www.legislation.gov.uk/wsi/2022/79) and [S.I. 2022/764 (W. 166)](https://www.legislation.gov.uk/wsi/2022/764). There are other amending instruments but none is relevant.
 
-[^key-20371c06636f5d5a1e72d770fe55c79e]: Commencement: Reg. 9 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
+[^c-20371c06636f5d5a1e72d770fe55c79e]: Commencement: Reg. 9 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
 
-[^key-d6fc0a2134c1a2cbb1df1a4869c65c3e]: Commencement: Reg. 10 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
+[^c-d6fc0a2134c1a2cbb1df1a4869c65c3e]: Commencement: Reg. 10 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
 
-[^key-2243c81963a6d9e49781f9d6fad9017f]: Commencement: Reg. 11 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
+[^c-2243c81963a6d9e49781f9d6fad9017f]: Commencement: Reg. 11 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
 
-[^key-8094664018e1ccc7c7492b075e5a2580]: Commencement: Reg. 12 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
+[^c-8094664018e1ccc7c7492b075e5a2580]: Commencement: Reg. 12 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
 
 [^f00008]: Footnote: [S.I. 2018/191 (W. 42)](https://www.legislation.gov.uk/wsi/2018/191), relevant amendments are [S.I. 2018/814 (W. 165)](https://www.legislation.gov.uk/wsi/2018/814), [S.I. 2019/235 (W. 54)](https://www.legislation.gov.uk/wsi/2019/235), [S.I. 2021/9 (W. 4)](https://www.legislation.gov.uk/wsi/2021/9), [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481), [S.I. 2021/1365 (W. 360)](https://www.legislation.gov.uk/wsi/2021/1365), [S.I. 2022/79 (W. 28)](https://www.legislation.gov.uk/wsi/2022/79), [S.I. 2022/473 (W. 117)](https://www.legislation.gov.uk/wsi/2022/473), [S.I. 2022/764 (W. 166)](https://www.legislation.gov.uk/wsi/2022/764) and [S.I. 2023/87 (W. 17)](https://www.legislation.gov.uk/wsi/2023/87). There are other amending instruments but none are relevant.
 
-[^key-22baee75c2e0d9c0bcdb33b7fb65fe0b]: Commencement: Reg. 13 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
+[^c-22baee75c2e0d9c0bcdb33b7fb65fe0b]: Commencement: Reg. 13 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
 
-[^key-797a4524c97dee6ced3bb9074dac82b0]: Commencement: Reg. 14 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
+[^c-797a4524c97dee6ced3bb9074dac82b0]: Commencement: Reg. 14 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
 
-[^key-1b84813776d1c11a728520e60d1e4600]: Commencement: Reg. 15 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
+[^c-1b84813776d1c11a728520e60d1e4600]: Commencement: Reg. 15 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
 
-[^key-984563fe523600e15101cad3b94ab6d8]: Commencement: Reg. 16 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
+[^c-984563fe523600e15101cad3b94ab6d8]: Commencement: Reg. 16 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
 
-[^key-0fc4f2404c2f717f317d325bed908ab9]: Commencement: Reg. 17 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
+[^c-0fc4f2404c2f717f317d325bed908ab9]: Commencement: Reg. 17 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
 
 [^f00009]: Footnote: [S.I. 2018/656 (W. 124)](https://www.legislation.gov.uk/wsi/2018/656), relevant amendments are [S.I. 2022/403 (W. 100)](https://www.legislation.gov.uk/wsi/2022/403) and [S.I. 2023/87 (W. 17)](https://www.legislation.gov.uk/wsi/2023/87). There are other amending instruments but none are relevant.
 
-[^key-131a30634378e30ce17beabd01bdcd12]: Commencement: Reg. 18 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
+[^c-131a30634378e30ce17beabd01bdcd12]: Commencement: Reg. 18 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
 
-[^key-f611c7367a61ca20e8d3b480eaa5d8f1]: Commencement: Reg. 19 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
+[^c-f611c7367a61ca20e8d3b480eaa5d8f1]: Commencement: Reg. 19 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
 
-[^key-e432472e791be199466e20c3329e4b41]: Commencement: Reg. 20 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
+[^c-e432472e791be199466e20c3329e4b41]: Commencement: Reg. 20 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
 
 [^f00010]: Footnote: [S.I. 2019/895 (W. 161)](https://www.legislation.gov.uk/wsi/2019/895), relevant amendments are [S.I. 2022/403 (W. 100)](https://www.legislation.gov.uk/wsi/2022/403) and [S.I. 2023/87 (W. 17)](https://www.legislation.gov.uk/wsi/2023/87). There are other amending instruments but none are relevant.
 
-[^key-f62f7fade30d6d5786430083e0bd1906]: Commencement: Reg. 21 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
+[^c-f62f7fade30d6d5786430083e0bd1906]: Commencement: Reg. 21 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
 
-[^key-2ebfa73c7857e3eae6e95837592ebe2b]: Commencement: Reg. 22 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)
+[^c-2ebfa73c7857e3eae6e95837592ebe2b]: Commencement: Reg. 22 in force at 6.7.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/633/regulation/1/2)

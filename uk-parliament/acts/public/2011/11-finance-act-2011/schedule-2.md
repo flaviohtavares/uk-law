@@ -2375,7 +2375,7 @@ and the Tax Acts are to apply in relation to the early step as if Chapter 2 of P
 
 **59.** (1) This paragraph applies if—
 
-- (a) a relevant step within section 554C or 554D of ITEPA 2003 or paragraph[^key-832c6b650b0e29ad0ed5d9995aec7050] 1 of Schedule 11 to F(No. 2)A 2017 (“the chargeable step”) is taken,
+- (a) a relevant step within section 554C or 554D of ITEPA 2003 or paragraph[^c-832c6b650b0e29ad0ed5d9995aec7050] 1 of Schedule 11 to F(No. 2)A 2017 (“the chargeable step”) is taken,
 - (b) Chapter 2 of Part 7A of ITEPA 2003 applies by reason of the chargeable step,
 - (c) in a tax year before 6 April 2011 (“the pre-6 April 2011 tax year”) a relevant step (“the pre-6 April 2011 step”) within section 554B of ITEPA 2003 was taken,
 - (d) before the chargeable step is taken—
@@ -2384,16 +2384,16 @@ and the Tax Acts are to apply in relation to the early step as if Chapter 2 of P
 - (e) before the chargeable step is taken, A or B has paid, or otherwise accounted for, any tax which A or B is required to pay or otherwise account for as a consequence of—
   - (i) the agreement mentioned in paragraph (d)(i), or
   - (ii) the tax payable by A for the pre-6 April 2011 tax year having otherwise been decided on the basis mentioned in paragraph (d)(ii), and
-- (f) after any reductions under sections 554Z4 and 554Z6[^key-250c31c02e867b97a2647f4589411ed9] to 554Z8 of ITEPA 2003, it is determined on a just and reasonable basis that the value of the chargeable step represents (or still represents after any such reductions) to any extent—
+- (f) after any reductions under sections 554Z4 and 554Z6[^c-250c31c02e867b97a2647f4589411ed9] to 554Z8 of ITEPA 2003, it is determined on a just and reasonable basis that the value of the chargeable step represents (or still represents after any such reductions) to any extent—
   - (i) the earnings treated as arising from the pre-6 April 2011 step as mentioned in paragraph (d)(i) or (ii), or
   - (ii) any return on those earnings since the taking of the pre-6 April 2011 step (whether income or capital, direct or indirect or realised or unrealised).
 
-(2) After any reductions under sections 554Z4 and 554Z6[^key-74aac1cd21f6eb0c47350f78c4ca87ae] to 554Z8 of ITEPA 2003, the value of the chargeable step is to be reduced (but not below nil) by an amount reflecting the extent to which, as determined under sub-paragraph (1)(f), that value represents (or still represents)
+(2) After any reductions under sections 554Z4 and 554Z6[^c-74aac1cd21f6eb0c47350f78c4ca87ae] to 554Z8 of ITEPA 2003, the value of the chargeable step is to be reduced (but not below nil) by an amount reflecting the extent to which, as determined under sub-paragraph (1)(f), that value represents (or still represents)
 
-- (a)[^key-dc00ff481581c818b4cf10eaa861687a] where sub-paragraph (2A) or (2B) applies, the earnings mentioned in sub-paragraph (1)(f)(i) or any return on those earnings mentioned in sub-paragraph (1)(f)(ii), and
+- (a)[^c-dc00ff481581c818b4cf10eaa861687a] where sub-paragraph (2A) or (2B) applies, the earnings mentioned in sub-paragraph (1)(f)(i) or any return on those earnings mentioned in sub-paragraph (1)(f)(ii), and
 - (b) in any other case, the earnings mentioned in sub-paragraph (1)(f)(i).
 
-(2A)[^key-ee133dea97959dc1be42b2d459f54c42] This sub-paragraph applies where—
+(2A)[^c-ee133dea97959dc1be42b2d459f54c42] This sub-paragraph applies where—
 
 - (a) the agreement mentioned in sub-paragraph (1)(d)(i) is made before 1 April 2017, and
 - (b) A or B pays, or otherwise accounts for, any tax as mentioned in sub-paragraph (1)(e) in accordance with that agreement.
@@ -2407,7 +2407,7 @@ and the Tax Acts are to apply in relation to the early step as if Chapter 2 of P
 
 (4) In sub-paragraph (3) “**relevant connected person**” means a person with a connection (direct or indirect) to an arrangement (within the meaning of Part 7A of ITEPA 2003) by virtue of which the return arises.
 
-(5)[^key-28032571701445c415d643748b335e6d] For the purposes of sub-paragraph (1)(e), a person is not to be regarded as having paid, or otherwise accounted for, any tax by reason only of making—
+(5)[^c-28032571701445c415d643748b335e6d] For the purposes of sub-paragraph (1)(e), a person is not to be regarded as having paid, or otherwise accounted for, any tax by reason only of making—
 
 - (a) a payment on account of income tax,
 - (b) a payment that is treated as a payment on account under section 223(3) of FA 2014 (accelerated payments), or
@@ -2425,20 +2425,20 @@ and the Tax Acts are to apply in relation to the early step as if Chapter 2 of P
 
 ### Power to make provision dealing with interactions etc
 
-**64.**[^key-acaea693ca470cd14e934a14ddde00a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**64.**[^c-acaea693ca470cd14e934a14ddde00a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-832c6b650b0e29ad0ed5d9995aec7050]: Textual amendment: Words in [Sch. 2 para. 59(1)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/59/1/a) inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 11 para. 47](https://www.legislation.gov.uk/ukpga/2017/32/schedule/11/paragraph/47)
+[^c-832c6b650b0e29ad0ed5d9995aec7050]: Textual amendment: Words in [Sch. 2 para. 59(1)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/59/1/a) inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 11 para. 47](https://www.legislation.gov.uk/ukpga/2017/32/schedule/11/paragraph/47)
 
-[^key-250c31c02e867b97a2647f4589411ed9]: Textual amendment: Words in Sch. 2 para. 59(1)(f) inserted (with effect in accordance with Sch. 6 para. 16 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 6 para. 12(2)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/6/paragraph/12/2)
+[^c-250c31c02e867b97a2647f4589411ed9]: Textual amendment: Words in Sch. 2 para. 59(1)(f) inserted (with effect in accordance with Sch. 6 para. 16 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 6 para. 12(2)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/6/paragraph/12/2)
 
-[^key-74aac1cd21f6eb0c47350f78c4ca87ae]: Textual amendment: Words in Sch. 2 para. 59(2) inserted (with effect in accordance with Sch. 6 para. 16 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 6 para. 12(3)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/6/paragraph/12/3)
+[^c-74aac1cd21f6eb0c47350f78c4ca87ae]: Textual amendment: Words in Sch. 2 para. 59(2) inserted (with effect in accordance with Sch. 6 para. 16 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 6 para. 12(3)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/6/paragraph/12/3)
 
-[^key-dc00ff481581c818b4cf10eaa861687a]: Textual amendment: Words in Sch. 2 para. 59(2) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 18(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/18/5)
+[^c-dc00ff481581c818b4cf10eaa861687a]: Textual amendment: Words in Sch. 2 para. 59(2) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 18(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/18/5)
 
-[^key-ee133dea97959dc1be42b2d459f54c42]: Textual amendment: Sch. 2 para. 59(2A)(2B) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 18(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/18/6)
+[^c-ee133dea97959dc1be42b2d459f54c42]: Textual amendment: Sch. 2 para. 59(2A)(2B) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 18(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/18/6)
 
-[^key-28032571701445c415d643748b335e6d]: Textual amendment: Sch. 2 para. 59(5) inserted (with effect in accordance with s. 18(10) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 18(7)](https://www.legislation.gov.uk/ukpga/2016/24/section/18/7)
+[^c-28032571701445c415d643748b335e6d]: Textual amendment: Sch. 2 para. 59(5) inserted (with effect in accordance with s. 18(10) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 18(7)](https://www.legislation.gov.uk/ukpga/2016/24/section/18/7)
 
-[^key-acaea693ca470cd14e934a14ddde00a4]: Textual amendment: Sch. 2 para. 64 omitted (15.9.2016) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 18(8)](https://www.legislation.gov.uk/ukpga/2016/24/section/18/8)
+[^c-acaea693ca470cd14e934a14ddde00a4]: Textual amendment: Sch. 2 para. 64 omitted (15.9.2016) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 18(8)](https://www.legislation.gov.uk/ukpga/2016/24/section/18/8)

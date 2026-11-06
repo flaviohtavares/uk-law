@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4A — Additional pension: accrual rates for purposes of section 45(2)(c)[^key-e1656b4ae6112d3be2ec6879b7fbbd60][^key-c53aa5e86647c8ef5aa16aca04736437]
+## SCHEDULE 4A — Additional pension: accrual rates for purposes of section 45(2)(c)[^c-e1656b4ae6112d3be2ec6879b7fbbd60][^c-c53aa5e86647c8ef5aa16aca04736437]
 
 *Extent: E+W+S*
 
@@ -29,23 +29,23 @@ summary: ''
 - (c) divide the sum of the amounts by the number of relevant years;
 - (d) the resulting amount is the amount referred to in section 45(2)(c) above, except that if the resulting amount is a negative one the amount so referred to is nil.
 
-(2) For the purpose of applying sub-paragraph (1) above in the determination of the rate of any additional pension by virtue of section [^key-5dcf1c3c0b4c37ec95a7f08ba7aae894]... 39C(1) [^key-72a3636713d45f3de0e78cea47bf030f]... or 48B(2) above, in a case where the deceased spouse died under pensionable age or by virtue of section 39C(1)[^key-9a46512c7cdfd144a19cb0089dbbb606] [^key-72a3636713d45f3de0e78cea47bf030f]... or 48B(2) above, in a case where the deceased civil partner died under pensionable age, or by virtue of section 39C(1) above, in a case where the deceased cohabiting partner died under pensionable age,[^key-f0d7af0f9c38f41e648f97c37e98b69d] the divisor used for the purposes of sub-paragraph (1)(c) above shall be whichever is the smaller of the alternative numbers referred to below (instead of the number of relevant years).
+(2) For the purpose of applying sub-paragraph (1) above in the determination of the rate of any additional pension by virtue of section [^c-5dcf1c3c0b4c37ec95a7f08ba7aae894]... 39C(1) [^c-72a3636713d45f3de0e78cea47bf030f]... or 48B(2) above, in a case where the deceased spouse died under pensionable age or by virtue of section 39C(1)[^c-9a46512c7cdfd144a19cb0089dbbb606] [^c-72a3636713d45f3de0e78cea47bf030f]... or 48B(2) above, in a case where the deceased civil partner died under pensionable age, or by virtue of section 39C(1) above, in a case where the deceased cohabiting partner died under pensionable age,[^c-f0d7af0f9c38f41e648f97c37e98b69d] the divisor used for the purposes of sub-paragraph (1)(c) above shall be whichever is the smaller of the alternative numbers referred to below (instead of the number of relevant years).
 
 (3) The first alternative number is the number of tax years which begin after 5th April 1978 and end before the date when the entitlement to the additional pension commences.
 
 (4) The second alternative number is the number of tax years in the period—
 
-- (a) beginning with the tax year in which the deceased spouse, civil partner or cohabiting partner[^key-5ef0ed29136f45358c868de21113ccd3] attained the age of 16 or, if later, 1978-79; and
+- (a) beginning with the tax year in which the deceased spouse, civil partner or cohabiting partner[^c-5ef0ed29136f45358c868de21113ccd3] attained the age of 16 or, if later, 1978-79; and
 - (b) ending immediately before the tax year in which the deceased spouse, civil partner or cohabiting partner would have attained pensionable age if he had not died earlier.
 
-(5) For the purpose of applying sub-paragraph (1) above in the determination of the rate of any additional pension by virtue of section 48BB(5) above, in a case where the deceased spouse or civil partner[^key-5c7876c7b6af7f9d7d8fac563cacb96c] died under pensionable age, the divisor used for the purposes of sub-paragraph (1)(c) above shall be whichever is the smaller of the alternative numbers referred to below (instead of the number of relevant years).
+(5) For the purpose of applying sub-paragraph (1) above in the determination of the rate of any additional pension by virtue of section 48BB(5) above, in a case where the deceased spouse or civil partner[^c-5c7876c7b6af7f9d7d8fac563cacb96c] died under pensionable age, the divisor used for the purposes of sub-paragraph (1)(c) above shall be whichever is the smaller of the alternative numbers referred to below (instead of the number of relevant years).
 
-(6) The first alternative number is the number of tax years which begin after 5th April 1978 and end before the date when the deceased spouse or civil partner[^key-f0678922b71acbaacb839efa00f8440d] dies.
+(6) The first alternative number is the number of tax years which begin after 5th April 1978 and end before the date when the deceased spouse or civil partner[^c-f0678922b71acbaacb839efa00f8440d] dies.
 
 (7) The second alternative number is the number of tax years in the period—
 
-- (a) beginning with the tax year in which the deceased spouse or civil partner[^key-83e867a7cbd28e2088a4e0d034d48eb9] attained the age of 16 or, if later, 1978-79; and
-- (b) ending immediately before the tax year in which the deceased spouse or civil partner[^key-680b4b2e53d7b15d29bcc722739b2b9e] would have attained pensionable age if he had not died earlier.
+- (a) beginning with the tax year in which the deceased spouse or civil partner[^c-83e867a7cbd28e2088a4e0d034d48eb9] attained the age of 16 or, if later, 1978-79; and
+- (b) ending immediately before the tax year in which the deceased spouse or civil partner[^c-680b4b2e53d7b15d29bcc722739b2b9e] would have attained pensionable age if he had not died earlier.
 
 (8) In this paragraph “**relevant year**” has the same meaning as in section 44 above.
 
@@ -73,7 +73,7 @@ Table 1
 </tbody>
 </table>
 
-(4) The appropriate table for persons attaining pensionable age on or after 6th April 2009 where the tax year concerned falls before 2010-11[^key-131d0772dcdb9af00eb238777acd455d] is as follows—
+(4) The appropriate table for persons attaining pensionable age on or after 6th April 2009 where the tax year concerned falls before 2010-11[^c-131d0772dcdb9af00eb238777acd455d] is as follows—
 
 Table 2
 
@@ -86,7 +86,7 @@ Table 2
 </tbody>
 </table>
 
-(4A)[^key-736b23f602506cf02e98868af6d18d4f] The appropriate table for persons attaining pensionable age on or after 6th April 2009 where the tax year concerned is 2010-11 or a subsequent tax year is as follows—
+(4A)[^c-736b23f602506cf02e98868af6d18d4f] The appropriate table for persons attaining pensionable age on or after 6th April 2009 where the tax year concerned is 2010-11 or a subsequent tax year is as follows—
 
 TABLE 2A
 
@@ -98,7 +98,7 @@ TABLE 2A
 </tbody>
 </table>
 
-[^key-5015593b8cc12469c93b14a8e0d043f9]
+[^c-5015593b8cc12469c93b14a8e0d043f9]
 
 (5) Regulations may provide, in relation to persons attaining pensionable age after such date as may be prescribed, that the amount found under this Part of this Schedule for the second appointed year or any subsequent tax year is to be calculated using only so much of the surplus in the pensioner’s earnings factor for that year as falls into Band 1 in the table in sub-paragraph (4) above.
 
@@ -107,7 +107,7 @@ TABLE 2A
 - (a) the value of N is 0.5 for each tax year by which the tax year in which the pensioner attained pensionable age precedes 2009-10;
 - (b) “**LET**” means the low earnings threshold for that year as specified in section 44A above;
 - (c) “**QEF**” means the qualifying earnings factor for the tax year concerned.
-- (d)[^key-dd2af22d412395a151ff3a6ab7a39403] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-dd2af22d412395a151ff3a6ab7a39403] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In the calculation of “2QEF” the amount produced by doubling QEF shall be rounded to the nearest whole £100 (taking any amount of £50 as nearest to the previous whole £100).
 
@@ -154,7 +154,7 @@ Table 3
 </tbody>
 </table>
 
-(4) The appropriate table for persons attaining pensionable age on or after 6th April 2009 where the tax year concerned falls before 2010-11[^key-d933993cfef9ba3ffbb57ec8ce3fd282] is as follows—
+(4) The appropriate table for persons attaining pensionable age on or after 6th April 2009 where the tax year concerned falls before 2010-11[^c-d933993cfef9ba3ffbb57ec8ce3fd282] is as follows—
 
 Table 4
 
@@ -167,7 +167,7 @@ Table 4
 </tbody>
 </table>
 
-(4A)[^key-d56c0124d25a290829489172edafd7fb] The appropriate table for persons attaining pensionable age on or after 6th April 2009 where the tax year concerned is 2010-11 or a subsequent tax year is as follows—
+(4A)[^c-d56c0124d25a290829489172edafd7fb] The appropriate table for persons attaining pensionable age on or after 6th April 2009 where the tax year concerned is 2010-11 or a subsequent tax year is as follows—
 
 Table 4A
 
@@ -179,7 +179,7 @@ Table 4A
 </tbody>
 </table>
 
-[^key-2f5a08f365b639d9ec6f7e405fecb88b]
+[^c-2f5a08f365b639d9ec6f7e405fecb88b]
 
 #### Amount B (first case)
 
@@ -219,7 +219,7 @@ Table 5
 </tbody>
 </table>
 
-(4) The appropriate table for persons attaining pensionable age on or after 6th April 2009 where the tax year concerned falls before 2010-11[^key-68208f7c644ddccd226558677c965451] is as follows—
+(4) The appropriate table for persons attaining pensionable age on or after 6th April 2009 where the tax year concerned falls before 2010-11[^c-68208f7c644ddccd226558677c965451] is as follows—
 
 Table 6
 
@@ -232,7 +232,7 @@ Table 6
 </tbody>
 </table>
 
-(4A)[^key-7e601be2214b0be3d8a92dbac25e89dc] The appropriate table for persons attaining pensionable age on or after 6th April 2009 where the tax year concerned is 2010-11 or a subsequent tax year is as follows—
+(4A)[^c-7e601be2214b0be3d8a92dbac25e89dc] The appropriate table for persons attaining pensionable age on or after 6th April 2009 where the tax year concerned is 2010-11 or a subsequent tax year is as follows—
 
 Table 6A
 
@@ -244,7 +244,7 @@ Table 6A
 </tbody>
 </table>
 
-[^key-a96bb18b13cd7c3ac9f3cc043592f806]
+[^c-a96bb18b13cd7c3ac9f3cc043592f806]
 
 #### Interpretation
 
@@ -259,7 +259,7 @@ Table 6A
 - (a) the value of N is 0.5 for each tax year by which the tax year in which the pensioner attained pensionable age precedes 2009-10;
 - (b) “**LET**” means the low earnings threshold for that year as specified in section 44A above;
 - (c) “QEF” is the qualifying earnings factor for the tax year concerned.
-- (d)[^key-5af3b5c3c861b53a77d643fa56383c70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-5af3b5c3c861b53a77d643fa56383c70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In the calculation of “2QEF” the amount produced by doubling QEF shall be rounded to the nearest whole £100 (taking any amount of £50 as nearest to the previous whole £100).
 
@@ -274,46 +274,46 @@ Table 6A
 
 ## Annotations
 
-[^key-e1656b4ae6112d3be2ec6879b7fbbd60]: Textual amendment: Sch. 4A inserted (8.1.2001 for specified purposes, 25.1.2001 for specified purposes, 6.4.2002 in so far as not already in force) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [s. 86(1)(b)(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/b/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2000/19/schedule/4); [S.I. 2000/2950](https://www.legislation.gov.uk/uksi/2000/2950), [art. 6](https://www.legislation.gov.uk/uksi/2000/2950/article/6); [S.I. 2001/153](https://www.legislation.gov.uk/uksi/2001/153), [art. 2(a)](https://www.legislation.gov.uk/uksi/2001/153/article/2/a)
+[^c-e1656b4ae6112d3be2ec6879b7fbbd60]: Textual amendment: Sch. 4A inserted (8.1.2001 for specified purposes, 25.1.2001 for specified purposes, 6.4.2002 in so far as not already in force) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [s. 86(1)(b)(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/b/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2000/19/schedule/4); [S.I. 2000/2950](https://www.legislation.gov.uk/uksi/2000/2950), [art. 6](https://www.legislation.gov.uk/uksi/2000/2950/article/6); [S.I. 2001/153](https://www.legislation.gov.uk/uksi/2001/153), [art. 2(a)](https://www.legislation.gov.uk/uksi/2001/153/article/2/a)
 
-[^key-c53aa5e86647c8ef5aa16aca04736437]: Textual amendment: Sch. 4A heading substituted (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 10(6)](https://www.legislation.gov.uk/ukpga/2007/22/section/10/6), [30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3)
+[^c-c53aa5e86647c8ef5aa16aca04736437]: Textual amendment: Sch. 4A heading substituted (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 10(6)](https://www.legislation.gov.uk/ukpga/2007/22/section/10/6), [30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3)
 
-[^key-5dcf1c3c0b4c37ec95a7f08ba7aae894]: Textual amendment: Word in Sch. 4A para. 1(2) repealed (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 27(3)(c)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/3/c), [30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3), [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2007/22/schedule/2/paragraph/11), [Sch. 7 Pt. 5](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/5)
+[^c-5dcf1c3c0b4c37ec95a7f08ba7aae894]: Textual amendment: Word in Sch. 4A para. 1(2) repealed (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 27(3)(c)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/3/c), [30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3), [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2007/22/schedule/2/paragraph/11), [Sch. 7 Pt. 5](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/5)
 
-[^key-72a3636713d45f3de0e78cea47bf030f]: Textual amendment: Words in [Sch. 4A para. 1(2)](https://www.legislation.gov.uk/ukpga/1992/4/schedule/4A/paragraph/1/2) omitted (6.4.2016) by virtue of [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 69](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/69)
+[^c-72a3636713d45f3de0e78cea47bf030f]: Textual amendment: Words in [Sch. 4A para. 1(2)](https://www.legislation.gov.uk/ukpga/1992/4/schedule/4A/paragraph/1/2) omitted (6.4.2016) by virtue of [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 69](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/69)
 
-[^key-9a46512c7cdfd144a19cb0089dbbb606]: Textual amendment: Words in Sch. 4A para. 1(2) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 51(2)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/51/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-9a46512c7cdfd144a19cb0089dbbb606]: Textual amendment: Words in Sch. 4A para. 1(2) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 51(2)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/51/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-f0d7af0f9c38f41e648f97c37e98b69d]: Textual amendment: Words in [Sch. 4A para. 1(2)](https://www.legislation.gov.uk/ukpga/1992/4/schedule/4A/paragraph/1/2) inserted (retrospective to 30.8.2018) by [The Bereavement Benefits (Remedial) Order 2023 (S.I. 2023/134)](https://www.legislation.gov.uk/uksi/2023/134), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/134/article/1/3), [5(5)(a)](https://www.legislation.gov.uk/uksi/2023/134/article/5/5/a) (with [art. 2](https://www.legislation.gov.uk/uksi/2023/134/article/2))
+[^c-f0d7af0f9c38f41e648f97c37e98b69d]: Textual amendment: Words in [Sch. 4A para. 1(2)](https://www.legislation.gov.uk/ukpga/1992/4/schedule/4A/paragraph/1/2) inserted (retrospective to 30.8.2018) by [The Bereavement Benefits (Remedial) Order 2023 (S.I. 2023/134)](https://www.legislation.gov.uk/uksi/2023/134), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/134/article/1/3), [5(5)(a)](https://www.legislation.gov.uk/uksi/2023/134/article/5/5/a) (with [art. 2](https://www.legislation.gov.uk/uksi/2023/134/article/2))
 
-[^key-5ef0ed29136f45358c868de21113ccd3]: Textual amendment: Words in [Sch. 4A para. 1(4)](https://www.legislation.gov.uk/ukpga/1992/4/schedule/4A/paragraph/1/4) substituted (retrospective to 30.8.2018) by [The Bereavement Benefits (Remedial) Order 2023 (S.I. 2023/134)](https://www.legislation.gov.uk/uksi/2023/134), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/134/article/1/3), [5(5)(b)](https://www.legislation.gov.uk/uksi/2023/134/article/5/5/b) (with [art. 2](https://www.legislation.gov.uk/uksi/2023/134/article/2))
+[^c-5ef0ed29136f45358c868de21113ccd3]: Textual amendment: Words in [Sch. 4A para. 1(4)](https://www.legislation.gov.uk/ukpga/1992/4/schedule/4A/paragraph/1/4) substituted (retrospective to 30.8.2018) by [The Bereavement Benefits (Remedial) Order 2023 (S.I. 2023/134)](https://www.legislation.gov.uk/uksi/2023/134), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/134/article/1/3), [5(5)(b)](https://www.legislation.gov.uk/uksi/2023/134/article/5/5/b) (with [art. 2](https://www.legislation.gov.uk/uksi/2023/134/article/2))
 
-[^key-5c7876c7b6af7f9d7d8fac563cacb96c]: Textual amendment: Words in Sch. 4A para. 1(5) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 51(3)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/51/3); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-5c7876c7b6af7f9d7d8fac563cacb96c]: Textual amendment: Words in Sch. 4A para. 1(5) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 51(3)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/51/3); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-f0678922b71acbaacb839efa00f8440d]: Textual amendment: Words in Sch. 4A para. 1(6) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 51(3)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/51/3); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-f0678922b71acbaacb839efa00f8440d]: Textual amendment: Words in Sch. 4A para. 1(6) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 51(3)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/51/3); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-83e867a7cbd28e2088a4e0d034d48eb9]: Textual amendment: Words in Sch. 4A para. 1(7)(a) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 51(3)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/51/3); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-83e867a7cbd28e2088a4e0d034d48eb9]: Textual amendment: Words in Sch. 4A para. 1(7)(a) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 51(3)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/51/3); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-680b4b2e53d7b15d29bcc722739b2b9e]: Textual amendment: Words in Sch. 4A para. 1(7)(b) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 51(3)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/51/3); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-680b4b2e53d7b15d29bcc722739b2b9e]: Textual amendment: Words in Sch. 4A para. 1(7)(b) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 51(3)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/51/3); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-131d0772dcdb9af00eb238777acd455d]: Textual amendment: Words in Sch. 4A para. 2(4) inserted (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 10(2)(a)](https://www.legislation.gov.uk/ukpga/2007/22/section/10/2/a), [30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3)
+[^c-131d0772dcdb9af00eb238777acd455d]: Textual amendment: Words in Sch. 4A para. 2(4) inserted (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 10(2)(a)](https://www.legislation.gov.uk/ukpga/2007/22/section/10/2/a), [30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3)
 
-[^key-736b23f602506cf02e98868af6d18d4f]: Textual amendment: Sch. 4A para. 2(4A) inserted (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 10(2)(b)](https://www.legislation.gov.uk/ukpga/2007/22/section/10/2/b), [30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3)
+[^c-736b23f602506cf02e98868af6d18d4f]: Textual amendment: Sch. 4A para. 2(4A) inserted (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 10(2)(b)](https://www.legislation.gov.uk/ukpga/2007/22/section/10/2/b), [30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3)
 
-[^key-5015593b8cc12469c93b14a8e0d043f9]: Textual amendment: Words in Sch. 4A para. 2(4A) repealed (21.9.2008) by [National Insurance Contributions Act 2008 (c. 16)](https://www.legislation.gov.uk/ukpga/2008/16), [s. 6(1)](https://www.legislation.gov.uk/ukpga/2008/16/section/6/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/16/schedule/2)
+[^c-5015593b8cc12469c93b14a8e0d043f9]: Textual amendment: Words in Sch. 4A para. 2(4A) repealed (21.9.2008) by [National Insurance Contributions Act 2008 (c. 16)](https://www.legislation.gov.uk/ukpga/2008/16), [s. 6(1)](https://www.legislation.gov.uk/ukpga/2008/16/section/6/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/16/schedule/2)
 
-[^key-dd2af22d412395a151ff3a6ab7a39403]: Textual amendment: Sch. 4A para. 2(6)(d) repealed (21.9.2008) by [National Insurance Contributions Act 2008 (c. 16)](https://www.legislation.gov.uk/ukpga/2008/16), [s. 6(1)](https://www.legislation.gov.uk/ukpga/2008/16/section/6/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/16/schedule/2)
+[^c-dd2af22d412395a151ff3a6ab7a39403]: Textual amendment: Sch. 4A para. 2(6)(d) repealed (21.9.2008) by [National Insurance Contributions Act 2008 (c. 16)](https://www.legislation.gov.uk/ukpga/2008/16), [s. 6(1)](https://www.legislation.gov.uk/ukpga/2008/16/section/6/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/16/schedule/2)
 
-[^key-d933993cfef9ba3ffbb57ec8ce3fd282]: Textual amendment: Words in Sch. 4A para. 5(4) inserted (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 10(3)(a)](https://www.legislation.gov.uk/ukpga/2007/22/section/10/3/a), [30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3)
+[^c-d933993cfef9ba3ffbb57ec8ce3fd282]: Textual amendment: Words in Sch. 4A para. 5(4) inserted (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 10(3)(a)](https://www.legislation.gov.uk/ukpga/2007/22/section/10/3/a), [30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3)
 
-[^key-d56c0124d25a290829489172edafd7fb]: Textual amendment: Sch. 4A para. 5(4A) inserted (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 10(3)(b)](https://www.legislation.gov.uk/ukpga/2007/22/section/10/3/b), [30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3)
+[^c-d56c0124d25a290829489172edafd7fb]: Textual amendment: Sch. 4A para. 5(4A) inserted (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 10(3)(b)](https://www.legislation.gov.uk/ukpga/2007/22/section/10/3/b), [30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3)
 
-[^key-2f5a08f365b639d9ec6f7e405fecb88b]: Textual amendment: Words in Sch. 4A para. 5(4A) repealed (21.9.2008) by [National Insurance Contributions Act 2008 (c. 16)](https://www.legislation.gov.uk/ukpga/2008/16), [s. 6(1)](https://www.legislation.gov.uk/ukpga/2008/16/section/6/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/16/schedule/2)
+[^c-2f5a08f365b639d9ec6f7e405fecb88b]: Textual amendment: Words in Sch. 4A para. 5(4A) repealed (21.9.2008) by [National Insurance Contributions Act 2008 (c. 16)](https://www.legislation.gov.uk/ukpga/2008/16), [s. 6(1)](https://www.legislation.gov.uk/ukpga/2008/16/section/6/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/16/schedule/2)
 
-[^key-68208f7c644ddccd226558677c965451]: Textual amendment: Words in Sch. 4A para. 7(4) inserted (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 10(4)(a)](https://www.legislation.gov.uk/ukpga/2007/22/section/10/4/a), [30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3)
+[^c-68208f7c644ddccd226558677c965451]: Textual amendment: Words in Sch. 4A para. 7(4) inserted (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 10(4)(a)](https://www.legislation.gov.uk/ukpga/2007/22/section/10/4/a), [30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3)
 
-[^key-7e601be2214b0be3d8a92dbac25e89dc]: Textual amendment: Sch. 4A para. 7(4A) inserted (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 10(4)(b)](https://www.legislation.gov.uk/ukpga/2007/22/section/10/4/b), [30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3)
+[^c-7e601be2214b0be3d8a92dbac25e89dc]: Textual amendment: Sch. 4A para. 7(4A) inserted (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 10(4)(b)](https://www.legislation.gov.uk/ukpga/2007/22/section/10/4/b), [30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3)
 
-[^key-a96bb18b13cd7c3ac9f3cc043592f806]: Textual amendment: Words in Sch. 4A para. 7(4A) repealed (21.9.2008) by [National Insurance Contributions Act 2008 (c. 16)](https://www.legislation.gov.uk/ukpga/2008/16), [s. 6(1)](https://www.legislation.gov.uk/ukpga/2008/16/section/6/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/16/schedule/2)
+[^c-a96bb18b13cd7c3ac9f3cc043592f806]: Textual amendment: Words in Sch. 4A para. 7(4A) repealed (21.9.2008) by [National Insurance Contributions Act 2008 (c. 16)](https://www.legislation.gov.uk/ukpga/2008/16), [s. 6(1)](https://www.legislation.gov.uk/ukpga/2008/16/section/6/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/16/schedule/2)
 
-[^key-5af3b5c3c861b53a77d643fa56383c70]: Textual amendment: Sch. 4A para. 8(4)(d) repealed (21.9.2008) by [National Insurance Contributions Act 2008 (c. 16)](https://www.legislation.gov.uk/ukpga/2008/16), [s. 6(1)](https://www.legislation.gov.uk/ukpga/2008/16/section/6/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/16/schedule/2)
+[^c-5af3b5c3c861b53a77d643fa56383c70]: Textual amendment: Sch. 4A para. 8(4)(d) repealed (21.9.2008) by [National Insurance Contributions Act 2008 (c. 16)](https://www.legislation.gov.uk/ukpga/2008/16), [s. 6(1)](https://www.legislation.gov.uk/ukpga/2008/16/section/6/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/16/schedule/2)

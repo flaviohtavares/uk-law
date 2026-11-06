@@ -46,13 +46,13 @@ In accordance with section 67(3) of that Act, the Scottish Ministers have obtain
 
 In accordance with section 79(2)(d) of that Act, a draft of this instrument has been laid before, and approved by resolution of, the Scottish Parliament.
 
-## 1. Citation and commencement[^key-f8b78dd5a5436d634896fc1d1d94db72]
+## 1. Citation and commencement[^c-f8b78dd5a5436d634896fc1d1d94db72]
 
 (1) These Regulations may be cited as the First-tier Tribunal for Scotland General Regulatory Chamber Parking and Bus Lane Appeals (Rules of Procedure) Regulations 2020 and the Rules set out in the schedule may be cited as the First-tier Tribunal for Scotland General Regulatory Chamber Parking and Bus Lane Appeals Rules of Procedure 2020.
 
 (2) These Regulations come into force on 1 April 2020.
 
-## 2. Application of the Rules set out in the schedule[^key-4bcc496b454f0aa97a6821751921e421]
+## 2. Application of the Rules set out in the schedule[^c-4bcc496b454f0aa97a6821751921e421]
 
 The Rules in the schedule apply to proceedings before the First-tier Tribunal for Scotland General Regulatory Chamber when exercising the functions conferred on it by—
 
@@ -74,18 +74,18 @@ Edinburgh
 
 Regulation 2
 
-### 1. Interpretation[^key-ff53ca95e52eba1401e5e4ec51b3f9db]
+### 1. Interpretation[^c-ff53ca95e52eba1401e5e4ec51b3f9db]
 
 In these Rules—
 
 - “the 1991 Act” means the Road Traffic Act 1991[^f00005],
 - “the 2011 Regulations” means the Bus Lane Contraventions (Charges, Adjudication and Enforcement) (Scotland) Regulations 2011[^f00006],
 - “the 2014 Act” means the Tribunals (Scotland) Act 2014[^f00007],
-- “[^key-017f880106143ca5064fec72fc784b12]**the 2019 Act**” means the Transport (Scotland) Act 2019,
-- “[^key-2315623fc336d843264baa3a4135c87f]**the 2024 Act**” means the United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024;
+- “[^c-017f880106143ca5064fec72fc784b12]**the 2019 Act**” means the Transport (Scotland) Act 2019,
+- “[^c-2315623fc336d843264baa3a4135c87f]**the 2024 Act**” means the United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024;
 - “**the 2021 Regulations**” means the Low Emission Zones (Emission Standards, Exemptions and Enforcement) (Scotland) Regulations 2021,
 - “**the 2022 Workplace Regulations**” means the Workplace Parking Licensing (Scotland) Regulations 2022,
-- “appeal” means an appeal under—[^key-de5e8f895ce9390781bc4488733da58a]
+- “appeal” means an appeal under—[^c-de5e8f895ce9390781bc4488733da58a]
   - (a) section 72 (appeals to parking adjudicator in relation to decisions under section 71) or paragraph 5 of schedule 6 (parking penalties) of the 1991 Act,
   - (b) regulation 12 (appeal against a charge notice) of the 2011 Regulations,
   - (c) regulation 10 (appeal to the First-tier Tribunal) of the 2021 Regulations,
@@ -93,41 +93,41 @@ In these Rules—
   - (e) any regulations made under section 59 (enforcement of parking prohibitions) of the 2019 Act,
 - “appellant” means the person bringing the appeal,
 - “authorised representative” means a person who is entitled to sign documents on behalf of the appellant and to send and receive documents on the appellant’s behalf,
-- “[^key-f57a90eead7c2cfbbb12724e9b4fb592]**bus lane case**” means proceedings before the First-tier Tribunal when exercising functions transferred to it by regulation 3 of the First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020,
+- “[^c-f57a90eead7c2cfbbb12724e9b4fb592]**bus lane case**” means proceedings before the First-tier Tribunal when exercising functions transferred to it by regulation 3 of the First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020,
 - “bus lane charge notice” means a charge notice as defined in regulation 8(1) of the 2011 Regulations,
-- “case management system” means the electronic system used by the First-tier Tribunal in the management of parking cases, bus lane cases and low emission zone cases[^key-bf68673bebb6df1927810d3d79398987] and to which parties may be permitted limited access via a secure, dedicated website to view case-specific information or submit documentation,
+- “case management system” means the electronic system used by the First-tier Tribunal in the management of parking cases, bus lane cases and low emission zone cases[^c-bf68673bebb6df1927810d3d79398987] and to which parties may be permitted limited access via a secure, dedicated website to view case-specific information or submit documentation,
 - “Chamber President” means the Chamber President of the First-tier Tribunal,
-- “[^key-32e053995842664a19109a4f8b194d95]**compatibility question**” has the meaning given by section 31(1) of the 2024 Act;
+- “[^c-32e053995842664a19109a4f8b194d95]**compatibility question**” has the meaning given by section 31(1) of the 2024 Act;
 - “electronic communication” has the meaning given to it by section 15(1) of the Electronic Communications Act 2000[^f00008] and “electronic signature” has the same meaning as in section 7 of that Act[^f00009],
 - “First-tier Tribunal” means the General Regulatory Chamber[^f00010] of the First-tier Tribunal for Scotland as defined by section 1(1) of the 2014 Act,
 - “hearing” means an oral hearing and includes a form of hearing conducted in whole or in part by video link, telephone or other means of instantaneous multi-party electronic communication,
-- “[^key-be2fb8bcb79f6d26435c195b5b83a687]**low emission zone case**” means proceedings before the First-tier Tribunal when exercising functions allocated to it by regulation 2 of the First-tier Tribunal for Scotland (Allocation of Functions to the General Regulatory Chamber) Regulations 2023,
-- “[^key-5f48f11b25b825c39eaba57935b09e8f]**notice of rejection**” means a notice served by the respondent authority under—
+- “[^c-be2fb8bcb79f6d26435c195b5b83a687]**low emission zone case**” means proceedings before the First-tier Tribunal when exercising functions allocated to it by regulation 2 of the First-tier Tribunal for Scotland (Allocation of Functions to the General Regulatory Chamber) Regulations 2023,
+- “[^c-5f48f11b25b825c39eaba57935b09e8f]**notice of rejection**” means a notice served by the respondent authority under—
   - (a) subsection (6)(b) of section 71 (representations in relation to removal or immobilisation of vehicles) of the 1991 Act that they do not accept that a ground on which representations were made under that section has been established,
   - (b) paragraph 2(7) of schedule 6 (parking penalties) of the 1991 Act that they do not accept that a ground under that paragraph has been established,
   - (c) regulation 10(3) (response to representations) of the 2011 Regulations that they do not accept that a ground under that regulation has been established,
   - (d) regulation 9(3) (response to representations) of the 2021 Regulations that they do not accept that a ground on which representations were made under that regulation has been established,
   - (e) regulation 31(3) (response to representations) of the 2022 Workplace Regulations that they do not accept that a ground on which representations were made under that regulation has been established,
   - (f) any regulations made under section 59 of the 2019 Act,
-- “[^key-1591405d21e5d669b4016475e9e1e1ac]**original representations**” means the representations made to the respondent authority under—
+- “[^c-1591405d21e5d669b4016475e9e1e1ac]**original representations**” means the representations made to the respondent authority under—
   - (a) section 71 (representations in relation to removal or immobilisation of vehicles) or paragraph 2 of schedule 6 (parking penalties) of the 1991 Act,
   - (b) regulation 9(1) (representations in respect of charges) of the 2011 Regulations,
   - (c) regulation 8(1) (representations in respect of penalty charges) of the 2021 Regulations,
   - (d) regulation 30(1) (representations in respect of penalty charges) of the 2022 Workplace Regulations,
   - (e) any regulations made under section 59 of the 2019 Act,
-- “[^key-d5ebb6456d6a86ef510829edb0bdfe89]**parking case**” means proceedings before the First-tier Tribunal when exercising functions—
+- “[^c-d5ebb6456d6a86ef510829edb0bdfe89]**parking case**” means proceedings before the First-tier Tribunal when exercising functions—
   - (a) transferred to it by regulation 3 of the First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020,
   - (b) allocated to it by regulation 3 or 4 of the First-tier Tribunal for Scotland (Allocation of Functions to the General Regulatory Chamber) Regulations 2023.
 - “party” means the appellant or the respondent authority,
-- “[^key-b1dff410210dd83b46ebcc35379feb7f]**penalty charge notice**” means—
+- “[^c-b1dff410210dd83b46ebcc35379feb7f]**penalty charge notice**” means—
   - (a) the notice issued under section 66 (parking penalties) of the 1991 Act,
   - (b) the notice issued under sections 7(3) (proving contraventions and issue of a penalty charge notice) or 58(2) (imposition of penalty charges) of the 2019 Act,
   - (c) the notice served under regulation 28(1) (penalty charge notices) of the 2022 Workplace Regulations;
   - (d) the notification (or notice) of a penalty charge issued under regulations made under section 59 of the 2019 Act,
 - “proceedings” means proceedings before the First-tier Tribunal when convened to hear appeals,
 - “register” means the register of appeals and decisions kept in accordance with rule 24 (the register), and
-- “[^key-e48196aac37220dc4561017d3ded7d23]**relevant authorities**” means the Lord Advocate, the Commissioner for Children and Young People in Scotland or the Scottish Commission for Human Rights;
-- “[^key-f03484dc44380317614414bbcb0f56e5]**respondent authority**” means—
+- “[^c-e48196aac37220dc4561017d3ded7d23]**relevant authorities**” means the Lord Advocate, the Commissioner for Children and Young People in Scotland or the Scottish Commission for Human Rights;
+- “[^c-f03484dc44380317614414bbcb0f56e5]**respondent authority**” means—
   - (a) an approved local authority in terms of section 44(2) (civil penalties for bus lane contraventions) of the Transport (Scotland) Act 2001,
   - (b) in relation to a parking place which was provided or authorised under section 32(1) (power of local authorities to provide parking places) of the Road Traffic Regulation Act 1984, the local authority as defined by section 32(4)(a) of that Act in relation to the parking place,
   - (c) the relevant authority in respect of—
@@ -138,7 +138,7 @@ In these Rules—
 - “review” means the internal review provided for by section 43(1) of the 2014 Act, and
 - “Upper Tribunal” means the Upper Tribunal for Scotland as defined by section 1(1) of the 2014 Act.
 
-### 2. Overriding objective[^key-4ae9953caf7d03cfef1b5b7ac56feeab]
+### 2. Overriding objective[^c-4ae9953caf7d03cfef1b5b7ac56feeab]
 
 (1) The overriding objective of the First-tier Tribunal is to deal with the proceedings fairly and justly.
 
@@ -157,13 +157,13 @@ In these Rules—
 
 (4) In particular, the First-tier Tribunal must actively manage proceedings in accordance with the overriding objective.
 
-### 3. Delegation to staff[^key-9321a60b4e54abbbcbe84ec15e9312da]
+### 3. Delegation to staff[^c-9321a60b4e54abbbcbe84ec15e9312da]
 
 (1) Staff of the Scottish Courts and Tribunals Service[^f00014] may, with the approval of the Chamber President, carry out functions of a judicial nature permitted or required to be undertaken by the First-tier Tribunal, provided the functions are of a preliminary or an incidental nature.
 
 (2) The approval referred to in paragraph (1) may apply generally to the carrying out of specified functions by members of staff of a specified description in specified circumstances.
 
-### 4. Case management powers[^key-6a39b6126640a71aa356be8484264a4d]
+### 4. Case management powers[^c-6a39b6126640a71aa356be8484264a4d]
 
 (1) Subject to the provisions of the 2014 Act and these Rules, the First-tier Tribunal may regulate its own procedure.
 
@@ -184,7 +184,7 @@ In these Rules—
 - (k) sist proceedings, and
 - (l) suspend the effect of its own decision pending the determination by the First-tier Tribunal or the Upper Tribunal, as the case may be, of an application for permission to appeal against, and any appeal or review of, that decision.
 
-### 4A. Compatibility question under the 2024 Act - raising, intimation and notice[^key-8f613a388e237eec9d60bdcf43183201]
+### 4A. Compatibility question under the 2024 Act - raising, intimation and notice[^c-8f613a388e237eec9d60bdcf43183201]
 
 (1) This rule applies to—
 
@@ -228,7 +228,7 @@ on the basis of which it is claimed that the compatibility question arises.
 
 (11) Where a relevant authority does not take part as a party to proceedings and that relevant authority requests to be notified of the outcome of proceedings in respect of the compatibility question, including regarding any subsequent appeal which relates to the determination of the compatibility question, the First-tier Tribunal must notify the relevant authority of this as soon as practicable.
 
-### 5. Dismissal of a case[^key-23bb04ed6af099bc25ee76c8997ebbd4]
+### 5. Dismissal of a case[^c-23bb04ed6af099bc25ee76c8997ebbd4]
 
 (1) The First-tier Tribunal must dismiss the whole or a part of the proceedings if—
 
@@ -240,7 +240,7 @@ on the basis of which it is claimed that the compatibility question arises.
 
 (3) The First-tier Tribunal may not dismiss the whole or a part of the proceedings under paragraphs (1) or (2) without first giving the appellant an opportunity to make representations in relation to the proposed dismissal.
 
-### 6. Notice of appeal[^key-4fedebb3f609d762b078ad496d4b7fe0]
+### 6. Notice of appeal[^c-4fedebb3f609d762b078ad496d4b7fe0]
 
 (1) An appeal to the First-tier Tribunal is to be made by giving written notice in accordance with the following paragraphs.
 
@@ -259,7 +259,7 @@ on the basis of which it is claimed that the compatibility question arises.
 
 (4) If the appellant sends the notice of appeal after the end of the 28-day period in paragraph (3), the notice of appeal must include a statement of the reasons on which the appellant relies for justifying the delay, and the First-tier Tribunal must treat any such statement as a request for extending that time limit.
 
-### 7. Confirmation of receipt of appeal by the First-tier Tribunal[^key-15ef2d72313fbacec5a42c79a40ec11f]
+### 7. Confirmation of receipt of appeal by the First-tier Tribunal[^c-15ef2d72313fbacec5a42c79a40ec11f]
 
 (1) Within 14 days of receipt of the notice of appeal, the First-tier Tribunal must—
 
@@ -280,7 +280,7 @@ on the basis of which it is claimed that the compatibility question arises.
 
 (3) Upon receiving a copy of the documents in paragraph (2)(a), the First-tier Tribunal must within 14 days invite the appellant’s views as to the appellant’s preferred form for a hearing.
 
-### 8. Withdrawal of appeal[^key-2e118f1c3109f8e99024b89c392b9c43]
+### 8. Withdrawal of appeal[^c-2e118f1c3109f8e99024b89c392b9c43]
 
 (1) The appellant may withdraw the appeal—
 
@@ -289,7 +289,7 @@ on the basis of which it is claimed that the compatibility question arises.
 
 (2) Where an appeal is withdrawn, no further appeal may be made in relation to the same matter.
 
-### 9. Further representations[^key-16aea1c34328ed43a4c4f56b93d38ec4]
+### 9. Further representations[^c-16aea1c34328ed43a4c4f56b93d38ec4]
 
 (1) Either party to an appeal may send representations to the First-tier Tribunal at any time before that appeal is determined.
 
@@ -303,7 +303,7 @@ on the basis of which it is claimed that the compatibility question arises.
 
 (6) Where the respondent authority sends representations to the First-tier Tribunal under this rule, the respondent authority must at the same time send, or make electronically available, a copy of the representations to the appellant.
 
-### 10. Attendance of witnesses[^key-d2ae9d40f9026d9694ab0262bcfab7bf]
+### 10. Attendance of witnesses[^c-d2ae9d40f9026d9694ab0262bcfab7bf]
 
 (1) The First-tier Tribunal may—
 
@@ -320,7 +320,7 @@ on the basis of which it is claimed that the compatibility question arises.
 
 (6) If any person required under paragraph (1) to attend a hearing by the First-tier Tribunal, or to produce any document to the First-tier Tribunal, fails without reasonable excuse to do so, that person will be guilty of an offence and is liable on summary conviction to a fine not exceeding level 2 on the standard scale.
 
-### 11. Decision of an appeal without a hearing[^key-066742f3b4471e96cd74db2435a966f6]
+### 11. Decision of an appeal without a hearing[^c-066742f3b4471e96cd74db2435a966f6]
 
 (1) Subject to paragraph (2), the First-tier Tribunal may decide an appeal without a hearing.
 
@@ -333,7 +333,7 @@ on the basis of which it is claimed that the compatibility question arises.
 
 (3) Unless both parties consent to the decision taking place on an earlier date, the First-tier Tribunal must not decide an appeal without a hearing until after the expiry of 28 days beginning on the day an acknowledgement is sent in accordance with rule 7(1) (confirmation of receipt of appeal by the First-tier Tribunal).
 
-### 12. Notice of time and place of hearing[^key-ed1edeb62396282e2fa9e14a82b3887b]
+### 12. Notice of time and place of hearing[^c-ed1edeb62396282e2fa9e14a82b3887b]
 
 (1) This rule has effect where a hearing is to be held for the purpose of deciding an appeal.
 
@@ -343,7 +343,7 @@ on the basis of which it is claimed that the compatibility question arises.
 
 (4) This rule applies to an adjourned hearing but where the parties are present, if the time and place of the adjourned hearing are announced before the adjournment, no further notice is required.
 
-### 13. Procedure at hearing[^key-a8fe97bd1255ce765670537ec904540d]
+### 13. Procedure at hearing[^c-a8fe97bd1255ce765670537ec904540d]
 
 (1) At the beginning of the hearing the First-tier Tribunal must explain the procedure which it proposes to adopt.
 
@@ -364,26 +364,26 @@ on the basis of which it is claimed that the compatibility question arises.
 - (a) the parties are entitled to give evidence, to call witnesses, to question any witnesses and to address the First-tier Tribunal both on the evidence and generally on the subject matter of the appeal, and
 - (b) the First-tier Tribunal may receive, and take account of, evidence of any fact which appears to it to be relevant notwithstanding that such evidence would be inadmissible in civil proceedings in Scotland.
 
-### 14. Evidence and submissions[^key-90d29ff4185fea02f201d99faf5c5ad8]
+### 14. Evidence and submissions[^c-90d29ff4185fea02f201d99faf5c5ad8]
 
 (1) Without restriction on the general powers in rule 4(1) and (2) (case management powers), the First-tier Tribunal may give orders as to—
 
 - (a) any issue on which it requires evidence or submission, and
 - (b) the nature of the evidence or submission it requires.
 
-(2) The First-tier Tribunal may permit evidence of a bus lane contravention or low emission zone contravention[^key-4e0254ccf488f562480132ee4ab2e83c] to be given by the production of—
+(2) The First-tier Tribunal may permit evidence of a bus lane contravention or low emission zone contravention[^c-4e0254ccf488f562480132ee4ab2e83c] to be given by the production of—
 
 - (a) a record produced by an approved device, and
-- (b) in the same or another document, a certificate as to the circumstances in which the record was produced, signed by a person authorised to do so by the relevant[^key-52164d936aa8799a9faad6057118ddac] respondent authority.
+- (b) in the same or another document, a certificate as to the circumstances in which the record was produced, signed by a person authorised to do so by the relevant[^c-52164d936aa8799a9faad6057118ddac] respondent authority.
 
-(3)[^key-bed32de9d37fe8ffda66e7ccde84d403] For the purposes of this rule, an “**approved device**” means—
+(3)[^c-bed32de9d37fe8ffda66e7ccde84d403] For the purposes of this rule, an “**approved device**” means—
 
 - (a) in the case of a bus lane contravention, a device certified by the Scottish Ministers under article 2 (approved devices) of the Bus Lanes (Approved Devices) (Scotland) Order 2011,
 - (b) in the case of a low emission zone contravention, a device approved for use in connection with the operation of a low emission zone scheme in accordance with regulation 20 (approved devices) of the Low Emission Zones (Scotland) Regulations 2021.
 
 (4) A document stated in evidence to be such a record as is mentioned in paragraph (2)(b), or such a certificate as is mentioned in paragraph (2)(b), is to be treated as such a record or certificate, unless the contrary is proved.
 
-### 15. Decision of the First-tier Tribunal[^key-82db141aafb6fc30381e3ae9bbef0d80]
+### 15. Decision of the First-tier Tribunal[^c-82db141aafb6fc30381e3ae9bbef0d80]
 
 (1) Where an appeal is decided at a hearing, the decision of the First-tier Tribunal may be given orally at the end of the hearing or reserved until a later date.
 
@@ -402,7 +402,7 @@ on the basis of which it is claimed that the compatibility question arises.
 
 (7) Except where a decision is given orally at the end of the hearing, it is treated as having been made on the date on which a legal member signs the decision referred to in paragraph (4).
 
-### 16. Publication of decisions[^key-d324cb08e9de7f0e5bf8b139d6972dbf]
+### 16. Publication of decisions[^c-d324cb08e9de7f0e5bf8b139d6972dbf]
 
 (1) The First-tier Tribunal must make arrangements for the public pronouncement of its decisions, whether by giving its decisions orally at a public hearing or by publishing its decisions in writing.
 
@@ -412,7 +412,7 @@ on the basis of which it is claimed that the compatibility question arises.
 
 (4) A decision may be published in edited form, or subject to such deletion or redaction of sensitive data and information as the First-tier Tribunal considers appropriate, bearing in mind any representations on the matter which any person has provided in writing to the First-tier Tribunal at any time prior to publication.
 
-### 17. Review of a decision[^key-4662d5114e6228515c596012a1e968b8]
+### 17. Review of a decision[^c-4662d5114e6228515c596012a1e968b8]
 
 (1) The First-tier Tribunal may, at its own instance or at the request of a party, review a decision made by it.
 
@@ -446,7 +446,7 @@ on the basis of which it is claimed that the compatibility question arises.
 
 (8) Where practicable, the review must be undertaken by a different member of the First-tier Tribunal from the member who made the original decision to which the review relates.
 
-### 18. Consideration of application for permission to appeal to the Upper Tribunal[^key-65cfffeec49879eee201bf03b76ac21b]
+### 18. Consideration of application for permission to appeal to the Upper Tribunal[^c-65cfffeec49879eee201bf03b76ac21b]
 
 (1) A party seeking permission to appeal under section 46(3)(a) of the 2014 Act must make a written application to the First-tier Tribunal.
 
@@ -474,7 +474,7 @@ on the basis of which it is claimed that the compatibility question arises.
 - (a) starts on the day the request for review under rule 17 is received by the First-tier Tribunal or, if the review is at the instance of the First-tier Tribunal, the day on which notice is sent to the parties, and
 - (b) ends on the day that the First-tier Tribunal decision on the review is sent to the parties.
 
-### 18A. Reference of compatibility question to the Court of Session[^key-b725ccc16a888a32c7586e4096bad13d]
+### 18A. Reference of compatibility question to the Court of Session[^c-b725ccc16a888a32c7586e4096bad13d]
 
 (1) If the First-tier Tribunal refers a compatibility question which arises in proceedings before it to the Inner House of the Court of Session for determination, it must intimate this in writing to all parties and the relevant authorities.
 
@@ -488,7 +488,7 @@ on the basis of which it is claimed that the compatibility question arises.
 
 (4) Where a relevant authority does not take part as a party to proceedings at first instance, that relevant authority is not precluded from taking part as a party in any subsequent reference to the Inner House of the Court of Session.
 
-### 19. Conjoining of appeals[^key-705fae964c5ca81d06651344f9d22f67]
+### 19. Conjoining of appeals[^c-705fae964c5ca81d06651344f9d22f67]
 
 (1) Where there are pending two or more appeals before the First-tier Tribunal and at any time it appears to the First-tier Tribunal that—
 
@@ -499,7 +499,7 @@ the First-tier Tribunal may order that some or all of the appeals as may be spec
 
 (2) An order is not to be made under this rule unless all parties concerned have been given an opportunity to make representations about the making of such an order.
 
-### 20. Expenses[^key-f5166d706319681747329b8473235162]
+### 20. Expenses[^c-f5166d706319681747329b8473235162]
 
 (1) The First-tier Tribunal may, subject to paragraph (2), make an award of expenses by way of an order but only in the following circumstances—
 
@@ -510,14 +510,14 @@ the First-tier Tribunal may order that some or all of the appeals as may be spec
 
 (3) An order under paragraph (1) is to require the party against whom it is made to pay to the other party a specified sum in respect of the expenses incurred by that other party in connection with the proceedings.
 
-### 21. Correction of clerical mistakes or accidental slips or omissions[^key-a22ccbfde6d0d980c97789f3ef97ec1a]
+### 21. Correction of clerical mistakes or accidental slips or omissions[^c-a22ccbfde6d0d980c97789f3ef97ec1a]
 
 The First-tier Tribunal may at any time correct any clerical mistake or other accidental slip or omission contained in a decision, order or any other document of the First-tier Tribunal, or any document produced by it, by—
 
 - (a) sending notification of the amended decision or order, or a copy of the amended document, to all parties, and
 - (b) making any necessary amendment to any information published in relation to the decision, order or document.
 
-### 22. Signature of documents[^key-1d0fd67008180124b58bdfeeb629204f]
+### 22. Signature of documents[^c-1d0fd67008180124b58bdfeeb629204f]
 
 Where any of these Rules requires a document to be signed, that requirement will be satisfied—
 
@@ -526,7 +526,7 @@ Where any of these Rules requires a document to be signed, that requirement will
   - (i) by the electronic signature of the individual who is required to sign it, or
   - (ii) by authentication through the case management system, including by way of the unique personal identification number issued by the respondent authority in respect of the charge notice.
 
-### 23. Sending and delivery of notices and documents[^key-7782d3aa8064154a626a480ebc2a3d01]
+### 23. Sending and delivery of notices and documents[^c-7782d3aa8064154a626a480ebc2a3d01]
 
 (1) This regulation has effect in relation to any notice or other document required or authorised to be provided under a practice direction, an order or these Rules.
 
@@ -548,7 +548,7 @@ the recipient may request that the sender provide a paper copy of the document t
 
 (6) The First-tier Tribunal and each party may assume that the address provided by a party or its authorised representative is and remains the address to which documents should be sent or delivered until receiving notification to the contrary.
 
-### 24. The register[^key-deb73bc33aa132863e28b8a87bce55d9]
+### 24. The register[^c-deb73bc33aa132863e28b8a87bce55d9]
 
 (1) A register must be kept by the First-tier Tribunal and must be open for inspection during reasonable hours by any person without charge.
 
@@ -574,11 +574,11 @@ These Regulations provide for the rules of procedure which are to apply in the G
 
 [^f00001]: Footnote: [2014 asp 10](https://www.legislation.gov.uk/asp/2014/10).
 
-[^key-f8b78dd5a5436d634896fc1d1d94db72]: Commencement: Reg. 1 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+[^c-f8b78dd5a5436d634896fc1d1d94db72]: Commencement: Reg. 1 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
 
-[^key-4bcc496b454f0aa97a6821751921e421]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/ssi/2020/98/regulation/2) substituted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/2)
+[^c-4bcc496b454f0aa97a6821751921e421]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/ssi/2020/98/regulation/2) substituted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/2)
 
-[^key-ff53ca95e52eba1401e5e4ec51b3f9db]: Commencement: Sch. para. 1 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+[^c-ff53ca95e52eba1401e5e4ec51b3f9db]: Commencement: Sch. para. 1 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
 
 [^f00005]: Footnote: [1991 c.40](https://www.legislation.gov.uk/ukpga/1991/40).
 
@@ -586,17 +586,17 @@ These Regulations provide for the rules of procedure which are to apply in the G
 
 [^f00007]: Footnote: [2014 asp 10](https://www.legislation.gov.uk/asp/2014/10).
 
-[^key-017f880106143ca5064fec72fc784b12]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) inserted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(a)(i)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/a/i)
+[^c-017f880106143ca5064fec72fc784b12]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) inserted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(a)(i)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/a/i)
 
-[^key-2315623fc336d843264baa3a4135c87f]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [7(2)(a)(i)](https://www.legislation.gov.uk/ssi/2026/34/regulation/7/2/a/i)
+[^c-2315623fc336d843264baa3a4135c87f]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [7(2)(a)(i)](https://www.legislation.gov.uk/ssi/2026/34/regulation/7/2/a/i)
 
-[^key-de5e8f895ce9390781bc4488733da58a]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) substituted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/a/ii)
+[^c-de5e8f895ce9390781bc4488733da58a]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) substituted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/a/ii)
 
-[^key-f57a90eead7c2cfbbb12724e9b4fb592]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) inserted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(a)(iii)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/a/iii)
+[^c-f57a90eead7c2cfbbb12724e9b4fb592]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) inserted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(a)(iii)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/a/iii)
 
-[^key-bf68673bebb6df1927810d3d79398987]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) substituted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(a)(iv)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/a/iv)
+[^c-bf68673bebb6df1927810d3d79398987]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) substituted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(a)(iv)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/a/iv)
 
-[^key-32e053995842664a19109a4f8b194d95]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [7(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2026/34/regulation/7/2/a/ii)
+[^c-32e053995842664a19109a4f8b194d95]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [7(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2026/34/regulation/7/2/a/ii)
 
 [^f00008]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by paragraph 158 of schedule 17 of the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
@@ -604,76 +604,76 @@ These Regulations provide for the rules of procedure which are to apply in the G
 
 [^f00010]: Footnote: The First-tier Tribunal for Scotland General Regulatory Chamber was brought into being by [S.S.I. 2016/341](https://www.legislation.gov.uk/ssi/2016/341).
 
-[^key-be2fb8bcb79f6d26435c195b5b83a687]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) inserted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(a)(v)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/a/v)
+[^c-be2fb8bcb79f6d26435c195b5b83a687]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) inserted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(a)(v)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/a/v)
 
-[^key-5f48f11b25b825c39eaba57935b09e8f]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) substituted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(a)(vi)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/a/vi)
+[^c-5f48f11b25b825c39eaba57935b09e8f]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) substituted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(a)(vi)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/a/vi)
 
-[^key-1591405d21e5d669b4016475e9e1e1ac]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) substituted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(a)(vii)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/a/vii)
+[^c-1591405d21e5d669b4016475e9e1e1ac]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) substituted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(a)(vii)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/a/vii)
 
-[^key-d5ebb6456d6a86ef510829edb0bdfe89]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) inserted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(a)(viii)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/a/viii)
+[^c-d5ebb6456d6a86ef510829edb0bdfe89]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) inserted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(a)(viii)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/a/viii)
 
-[^key-b1dff410210dd83b46ebcc35379feb7f]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) substituted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(a)(ix)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/a/ix)
+[^c-b1dff410210dd83b46ebcc35379feb7f]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) substituted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(a)(ix)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/a/ix)
 
-[^key-e48196aac37220dc4561017d3ded7d23]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [7(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2026/34/regulation/7/2/a/iii)
+[^c-e48196aac37220dc4561017d3ded7d23]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [7(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2026/34/regulation/7/2/a/iii)
 
-[^key-f03484dc44380317614414bbcb0f56e5]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) substituted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(a)(x)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/a/x)
+[^c-f03484dc44380317614414bbcb0f56e5]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) substituted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(a)(x)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/a/x)
 
-[^key-4ae9953caf7d03cfef1b5b7ac56feeab]: Commencement: Sch. para. 2 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+[^c-4ae9953caf7d03cfef1b5b7ac56feeab]: Commencement: Sch. para. 2 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
 
-[^key-9321a60b4e54abbbcbe84ec15e9312da]: Commencement: Sch. para. 3 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+[^c-9321a60b4e54abbbcbe84ec15e9312da]: Commencement: Sch. para. 3 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
 
 [^f00014]: Footnote: The Scottish Courts and Tribunals Service was established by section 60 of the Judiciary and Courts (Scotland) Act 2008 ([2008 asp 6](https://www.legislation.gov.uk/asp/2008/6)).
 
-[^key-6a39b6126640a71aa356be8484264a4d]: Commencement: Sch. para. 4 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+[^c-6a39b6126640a71aa356be8484264a4d]: Commencement: Sch. para. 4 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
 
-[^key-8f613a388e237eec9d60bdcf43183201]: Textual amendment: [Sch. rule 4A](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/4A) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/ssi/2026/34/regulation/7/2/b)
+[^c-8f613a388e237eec9d60bdcf43183201]: Textual amendment: [Sch. rule 4A](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/4A) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/ssi/2026/34/regulation/7/2/b)
 
-[^key-23bb04ed6af099bc25ee76c8997ebbd4]: Commencement: Sch. para. 5 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+[^c-23bb04ed6af099bc25ee76c8997ebbd4]: Commencement: Sch. para. 5 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
 
-[^key-4fedebb3f609d762b078ad496d4b7fe0]: Commencement: Sch. para. 6 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+[^c-4fedebb3f609d762b078ad496d4b7fe0]: Commencement: Sch. para. 6 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
 
-[^key-15ef2d72313fbacec5a42c79a40ec11f]: Commencement: Sch. para. 7 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+[^c-15ef2d72313fbacec5a42c79a40ec11f]: Commencement: Sch. para. 7 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
 
-[^key-2e118f1c3109f8e99024b89c392b9c43]: Commencement: Sch. para. 8 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+[^c-2e118f1c3109f8e99024b89c392b9c43]: Commencement: Sch. para. 8 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
 
-[^key-16aea1c34328ed43a4c4f56b93d38ec4]: Commencement: Sch. para. 9 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+[^c-16aea1c34328ed43a4c4f56b93d38ec4]: Commencement: Sch. para. 9 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
 
-[^key-d2ae9d40f9026d9694ab0262bcfab7bf]: Commencement: Sch. para. 10 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+[^c-d2ae9d40f9026d9694ab0262bcfab7bf]: Commencement: Sch. para. 10 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
 
-[^key-066742f3b4471e96cd74db2435a966f6]: Commencement: Sch. para. 11 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+[^c-066742f3b4471e96cd74db2435a966f6]: Commencement: Sch. para. 11 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
 
-[^key-ed1edeb62396282e2fa9e14a82b3887b]: Commencement: Sch. para. 12 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+[^c-ed1edeb62396282e2fa9e14a82b3887b]: Commencement: Sch. para. 12 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
 
-[^key-a8fe97bd1255ce765670537ec904540d]: Commencement: Sch. para. 13 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+[^c-a8fe97bd1255ce765670537ec904540d]: Commencement: Sch. para. 13 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
 
-[^key-90d29ff4185fea02f201d99faf5c5ad8]: Commencement: Sch. para. 14 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+[^c-90d29ff4185fea02f201d99faf5c5ad8]: Commencement: Sch. para. 14 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
 
-[^key-4e0254ccf488f562480132ee4ab2e83c]: Textual amendment: Words in [sch. rule 14(2)](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/14/2) inserted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(b)(i)(aa)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/b/i/aa)
+[^c-4e0254ccf488f562480132ee4ab2e83c]: Textual amendment: Words in [sch. rule 14(2)](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/14/2) inserted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(b)(i)(aa)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/b/i/aa)
 
-[^key-52164d936aa8799a9faad6057118ddac]: Textual amendment: Word in [sch. rule 14(2)(b)](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/14/2/b) inserted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(b)(i)(bb)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/b/i/bb)
+[^c-52164d936aa8799a9faad6057118ddac]: Textual amendment: Word in [sch. rule 14(2)(b)](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/14/2/b) inserted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(b)(i)(bb)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/b/i/bb)
 
-[^key-bed32de9d37fe8ffda66e7ccde84d403]: Textual amendment: [Sch. rule 14(3)](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/14/3) substituted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/b/ii)
+[^c-bed32de9d37fe8ffda66e7ccde84d403]: Textual amendment: [Sch. rule 14(3)](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/14/3) substituted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/b/ii)
 
-[^key-82db141aafb6fc30381e3ae9bbef0d80]: Commencement: Sch. para. 15 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+[^c-82db141aafb6fc30381e3ae9bbef0d80]: Commencement: Sch. para. 15 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
 
-[^key-d324cb08e9de7f0e5bf8b139d6972dbf]: Commencement: Sch. para. 16 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+[^c-d324cb08e9de7f0e5bf8b139d6972dbf]: Commencement: Sch. para. 16 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
 
-[^key-4662d5114e6228515c596012a1e968b8]: Commencement: Sch. para. 17 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+[^c-4662d5114e6228515c596012a1e968b8]: Commencement: Sch. para. 17 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
 
-[^key-65cfffeec49879eee201bf03b76ac21b]: Commencement: Sch. para. 18 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+[^c-65cfffeec49879eee201bf03b76ac21b]: Commencement: Sch. para. 18 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
 
 [^f00016]: Footnote: The time limits for applying for permission to appeal are set out in regulation 2(1) of [S.S.I. 2016/231](https://www.legislation.gov.uk/ssi/2016/231).
 
-[^key-b725ccc16a888a32c7586e4096bad13d]: Textual amendment: [Sch. rule 18A](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/18A) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [7(2)(c)](https://www.legislation.gov.uk/ssi/2026/34/regulation/7/2/c)
+[^c-b725ccc16a888a32c7586e4096bad13d]: Textual amendment: [Sch. rule 18A](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/18A) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [7(2)(c)](https://www.legislation.gov.uk/ssi/2026/34/regulation/7/2/c)
 
-[^key-705fae964c5ca81d06651344f9d22f67]: Commencement: Sch. para. 19 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+[^c-705fae964c5ca81d06651344f9d22f67]: Commencement: Sch. para. 19 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
 
-[^key-f5166d706319681747329b8473235162]: Commencement: Sch. para. 20 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+[^c-f5166d706319681747329b8473235162]: Commencement: Sch. para. 20 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
 
-[^key-a22ccbfde6d0d980c97789f3ef97ec1a]: Commencement: Sch. para. 21 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+[^c-a22ccbfde6d0d980c97789f3ef97ec1a]: Commencement: Sch. para. 21 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
 
-[^key-1d0fd67008180124b58bdfeeb629204f]: Commencement: Sch. para. 22 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+[^c-1d0fd67008180124b58bdfeeb629204f]: Commencement: Sch. para. 22 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
 
-[^key-7782d3aa8064154a626a480ebc2a3d01]: Commencement: Sch. para. 23 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+[^c-7782d3aa8064154a626a480ebc2a3d01]: Commencement: Sch. para. 23 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
 
-[^key-deb73bc33aa132863e28b8a87bce55d9]: Commencement: Sch. para. 24 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+[^c-deb73bc33aa132863e28b8a87bce55d9]: Commencement: Sch. para. 24 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)

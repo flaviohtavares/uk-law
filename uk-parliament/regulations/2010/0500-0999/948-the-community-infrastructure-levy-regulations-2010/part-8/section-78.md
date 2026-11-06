@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78. Requests for information by collecting authority[^key-5c86984c291d30ded0cc051bcdf3a46b]
+## 78. Requests for information by collecting authority[^c-5c86984c291d30ded0cc051bcdf3a46b]
 
 *Extent: E+W*
 
@@ -31,16 +31,16 @@ summary: ''
 (5) In this regulation “relevant person” means—
 
 - (a) a charging authority;
-- (b) a local planning authority (within the meaning of TCPA 1990); or[^key-a11487dc9cbf0b3781d7a17bc77c3ccb]
-- (c) the Secretary of State.[^key-65e32d432036b189ac456424258dfc04]
-- (d)[^key-143c06722c49faa30423903957730eb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) a local planning authority (within the meaning of TCPA 1990); or[^c-a11487dc9cbf0b3781d7a17bc77c3ccb]
+- (c) the Secretary of State.[^c-65e32d432036b189ac456424258dfc04]
+- (d)[^c-143c06722c49faa30423903957730eb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5c86984c291d30ded0cc051bcdf3a46b]: Commencement: Reg. 78 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-5c86984c291d30ded0cc051bcdf3a46b]: Commencement: Reg. 78 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
 
-[^key-a11487dc9cbf0b3781d7a17bc77c3ccb]: Textual amendment: Words in [reg. 78(5)(b)](https://www.legislation.gov.uk/uksi/2010/948/regulation/78/5/b) inserted (1.4.2012) by [The Localism Act 2011(Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [10(3)(a)](https://www.legislation.gov.uk/uksi/2012/635/regulation/10/3/a)
+[^c-a11487dc9cbf0b3781d7a17bc77c3ccb]: Textual amendment: Words in [reg. 78(5)(b)](https://www.legislation.gov.uk/uksi/2010/948/regulation/78/5/b) inserted (1.4.2012) by [The Localism Act 2011(Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [10(3)(a)](https://www.legislation.gov.uk/uksi/2012/635/regulation/10/3/a)
 
-[^key-65e32d432036b189ac456424258dfc04]: Textual amendment: Words in [reg. 78(5)(c)](https://www.legislation.gov.uk/uksi/2010/948/regulation/78/5/c) substituted (1.4.2012) by [The Localism Act 2011(Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [10(3)(b)](https://www.legislation.gov.uk/uksi/2012/635/regulation/10/3/b)
+[^c-65e32d432036b189ac456424258dfc04]: Textual amendment: Words in [reg. 78(5)(c)](https://www.legislation.gov.uk/uksi/2010/948/regulation/78/5/c) substituted (1.4.2012) by [The Localism Act 2011(Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [10(3)(b)](https://www.legislation.gov.uk/uksi/2012/635/regulation/10/3/b)
 
-[^key-143c06722c49faa30423903957730eb2]: Textual amendment: [Reg. 78(5)(d)](https://www.legislation.gov.uk/uksi/2010/948/regulation/78/5/d) omitted (1.4.2012) by virtue of [The Localism Act 2011(Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [10(3)(c)](https://www.legislation.gov.uk/uksi/2012/635/regulation/10/3/c)
+[^c-143c06722c49faa30423903957730eb2]: Textual amendment: [Reg. 78(5)(d)](https://www.legislation.gov.uk/uksi/2010/948/regulation/78/5/d) omitted (1.4.2012) by virtue of [The Localism Act 2011(Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [10(3)(c)](https://www.legislation.gov.uk/uksi/2012/635/regulation/10/3/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 8 — CLASSIFICATION OF HIGHWAYS[^key-8534cfad436e0058b6b483914a9ce835]
+## SCHEDULE 8 — CLASSIFICATION OF HIGHWAYS[^c-8534cfad436e0058b6b483914a9ce835]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ Article 19
 
 ## Annotations
 
-[^key-8534cfad436e0058b6b483914a9ce835]: Commencement: Sch. 8 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-8534cfad436e0058b6b483914a9ce835]: Commencement: Sch. 8 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)

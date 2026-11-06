@@ -46,10 +46,10 @@ summary: ''
 
 .
 
-(4)[^key-82f27eca2272b26648ad414159b96a62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-82f27eca2272b26648ad414159b96a62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The amendments made by this section come into force on 1 April 2025.
 
 ## Annotations
 
-[^key-82f27eca2272b26648ad414159b96a62]: Textual amendment: [S. 72(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/72/4) omitted (2.4.2026) by virtue of [The Heavy Goods Vehicles (Charging for the Use of Certain Infrastructure on the Trans-European Road Network) (Revocation and Consequential Amendments) Regulations 2026 (S.I. 2026/270)](https://www.legislation.gov.uk/uksi/2026/270), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/270/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2026/270/regulation/3/1)
+[^c-82f27eca2272b26648ad414159b96a62]: Textual amendment: [S. 72(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/72/4) omitted (2.4.2026) by virtue of [The Heavy Goods Vehicles (Charging for the Use of Certain Infrastructure on the Trans-European Road Network) (Revocation and Consequential Amendments) Regulations 2026 (S.I. 2026/270)](https://www.legislation.gov.uk/uksi/2026/270), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/270/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2026/270/regulation/3/1)

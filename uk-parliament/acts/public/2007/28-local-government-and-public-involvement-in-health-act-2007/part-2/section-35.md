@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Publicity[^key-b1595ef4b210af572fca2891e406e104]
+## 35. Publicity[^c-b1595ef4b210af572fca2891e406e104]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1595ef4b210af572fca2891e406e104]: Commencement: S. 35 in force at 30.12.2007, see s. 245(2)
+[^c-b1595ef4b210af572fca2891e406e104]: Commencement: S. 35 in force at 30.12.2007, see s. 245(2)

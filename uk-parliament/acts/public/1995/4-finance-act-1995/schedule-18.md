@@ -28,7 +28,7 @@ Section 75.
 
 ### Limited interests in residue
 
-**2.**[^key-2501f2866e91fd670daba09d2582ec0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-2501f2866e91fd670daba09d2582ec0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Absolute interests in residue
 
@@ -59,7 +59,7 @@ Section 75.
 
 (3) Sub-paragraph (1) above has effect, subject to sub-paragraph (4) below, in relation to any payment made on or after 6th April 1995; and sub-paragraph (2) above shall have effect in relation to any estate the administration of which is completed on or after 6th April 1995.
 
-(4) Where any sum is deemed by virtue of subsection (3) of section 696 of the Taxes Act 1988 (as it has effect apart from this Schedule) and sections 652, 660 and 665 of the Income Tax (Trading and Other Income) Act 2005[^key-150bc143b744992b2621beae7c1988b4] to have been paid to any person as income for the year 1994-95 or any previous year of assessment, that sum shall be treated for the purposes of subsections (3A) and (5) of that section (as they have effect by virtue of this Schedule) as a sum actually paid in respect of that person’s absolute interest in that year of assessment.
+(4) Where any sum is deemed by virtue of subsection (3) of section 696 of the Taxes Act 1988 (as it has effect apart from this Schedule) and sections 652, 660 and 665 of the Income Tax (Trading and Other Income) Act 2005[^c-150bc143b744992b2621beae7c1988b4] to have been paid to any person as income for the year 1994-95 or any previous year of assessment, that sum shall be treated for the purposes of subsections (3A) and (5) of that section (as they have effect by virtue of this Schedule) as a sum actually paid in respect of that person’s absolute interest in that year of assessment.
 
 ### Supplemental provisions relating to section 696
 
@@ -103,7 +103,7 @@ Section 75.
 
 ### Adjustments and information
 
-**6.**[^key-133a1f6da0e4c088aedff4c1b7eea96a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-133a1f6da0e4c088aedff4c1b7eea96a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Interpretation
 
@@ -111,8 +111,8 @@ Section 75.
 
 ## Annotations
 
-[^key-2501f2866e91fd670daba09d2582ec0c]: Textual amendment: Sch. 18 para. 2 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-2501f2866e91fd670daba09d2582ec0c]: Textual amendment: Sch. 18 para. 2 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-150bc143b744992b2621beae7c1988b4]: Textual amendment: Words in Sch. 18 para. 3(4) inserted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 483](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/483) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-150bc143b744992b2621beae7c1988b4]: Textual amendment: Words in Sch. 18 para. 3(4) inserted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 483](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/483) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-133a1f6da0e4c088aedff4c1b7eea96a]: Textual amendment: [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/1995/4/schedule/18/paragraph/6) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 12](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/12) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-133a1f6da0e4c088aedff4c1b7eea96a]: Textual amendment: [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/1995/4/schedule/18/paragraph/6) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 12](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/12) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

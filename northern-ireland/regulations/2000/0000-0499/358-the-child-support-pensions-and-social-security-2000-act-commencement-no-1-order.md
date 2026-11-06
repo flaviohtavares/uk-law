@@ -41,13 +41,13 @@ Made
 
 The Department for Social Development, in exercise of the powers conferred on it by section 68(2)(*a*) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation and interpretation[^key-e4e4f36bd620e5a651a83a4149921e0a]
+## 1. Citation and interpretation[^c-e4e4f36bd620e5a651a83a4149921e0a]
 
 (1) This Order may be cited as the Child Support, Pensions and Social Security (2000 Act) (Commencement No. 1) Order (Northern Ireland) 2000.
 
 (2) In this Order “the Act” means the Child Support, Pensions and Social Security Act (Northern Ireland) 2000.
 
-## 2. Appointed days[^key-6aedd60a485bd9a8ed6ecad1ab8fe70e]
+## 2. Appointed days[^c-6aedd60a485bd9a8ed6ecad1ab8fe70e]
 
 The day appointed for the coming into operation of—
 
@@ -55,7 +55,7 @@ The day appointed for the coming into operation of—
 - (b) the provisions of the Act specified in Part II of the Schedule for the purpose only of authorising the making of regulations, is 22nd November 2000;
 - (c) paragraph 25 of Schedule 3 to the Act (amendment of statutory provisions relating to child support) and section 25 of the Act in so far as it relates to it, is 1st January 2001;
 - (d) the provisions of the Act specified in Part III of the Schedule in so far as not already in operation, is 1st January 2001; and
-- (e) the provisions of the Act specified in Part IV of the Schedule for the purpose only of authorising the making of regulations or an order appointing the first or second appointed year[^key-cd7f4595963a4b9528aa6b1d5c2cf1cb] , is 8th January 2001.
+- (e) the provisions of the Act specified in Part IV of the Schedule for the purpose only of authorising the making of regulations or an order appointing the first or second appointed year[^c-cd7f4595963a4b9528aa6b1d5c2cf1cb] , is 8th January 2001.
 
 Sealed with the Official Seal of the Department for Social Development on 21st November 2000.
 
@@ -69,7 +69,7 @@ Department for Social Development
 
 Article 2
 
-### Part I — Provisions coming into operation on 22nd November 2000[^key-5b483ab2251478f1b3b71d4bbb4f4d5d]
+### Part I — Provisions coming into operation on 22nd November 2000[^c-5b483ab2251478f1b3b71d4bbb4f4d5d]
 
 | Provisions of the Act | Subject Matter |
 | --- | --- |
@@ -85,7 +85,7 @@ Article 2
 | paragraph 8 in so far as it inserts section 115CA(1) into the Administration Act for the purposes of construing section 107 of that Act as amended by paragraph 7 | Insertion of section 115CA |
 | Schedule 9, Part III(10) and section 67 in so far as it relates to that repeal | Repeals |
 
-### Part II — Provisions coming into operation on 22nd November 2000 for the purpose only of making regulations[^key-616f8078757654f03e1c36906c248d3d]
+### Part II — Provisions coming into operation on 22nd November 2000 for the purpose only of making regulations[^c-616f8078757654f03e1c36906c248d3d]
 
 | Provisions of the Act | Subject Matter |
 | --- | --- |
@@ -126,14 +126,14 @@ Article 2
 | paragraph 21 | Consequential amendment of the Administration Act |
 | paragraph 23 | Interpretation |
 
-### Part III — Provisions coming into operation on 1st January 2001 in so far as not already in operation[^key-5282a04875e124ab8ca71a33f8db9879]
+### Part III — Provisions coming into operation on 1st January 2001 in so far as not already in operation[^c-5282a04875e124ab8ca71a33f8db9879]
 
 | Provisions of the Act | Subject Matter |
 | --- | --- |
 | Section 7 in so far as it relates to Article 28G(2) of the Child Support Order | Variations: revision and supersession |
 | Section 26 | Temporary compensation payment scheme |
 
-### Part IV — Provisions coming into operation on 8th January 2001 for the purpose only of making regulations or an order appointing the first or second appointed year[^key-268ebbfd64e3e444b5537a410bcd9ee1][^key-cbd3b6e84120bdd7aee9815074cfb8e1]
+### Part IV — Provisions coming into operation on 8th January 2001 for the purpose only of making regulations or an order appointing the first or second appointed year[^c-268ebbfd64e3e444b5537a410bcd9ee1][^c-cbd3b6e84120bdd7aee9815074cfb8e1]
 
 | Provisions of the Act | Subject Matter |
 | --- | --- |
@@ -169,18 +169,18 @@ The impact on business of the commencement of provisions in the Child Support, P
 
 [^f00001]: Footnote: [2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4)
 
-[^key-e4e4f36bd620e5a651a83a4149921e0a]: Commencement: Art. 1 in operation at made date
+[^c-e4e4f36bd620e5a651a83a4149921e0a]: Commencement: Art. 1 in operation at made date
 
-[^key-6aedd60a485bd9a8ed6ecad1ab8fe70e]: Commencement: Art. 2 in operation at made date
+[^c-6aedd60a485bd9a8ed6ecad1ab8fe70e]: Commencement: Art. 2 in operation at made date
 
-[^key-cd7f4595963a4b9528aa6b1d5c2cf1cb]: Textual amendment: Words in [art. 2(e)](https://www.legislation.gov.uk/nisr/2000/358/article/2/e) substituted (30.11.2000) by [The Child Support, Pensions and Social Security (2000 Act) (Commencement No. 2) Order (Northern Ireland) 2000 (S.R. 2000/374)](https://www.legislation.gov.uk/nisr/2000/374), [arts. 1](https://www.legislation.gov.uk/nisr/2000/374/article/1), [3](https://www.legislation.gov.uk/nisr/2000/374/article/3)
+[^c-cd7f4595963a4b9528aa6b1d5c2cf1cb]: Textual amendment: Words in [art. 2(e)](https://www.legislation.gov.uk/nisr/2000/358/article/2/e) substituted (30.11.2000) by [The Child Support, Pensions and Social Security (2000 Act) (Commencement No. 2) Order (Northern Ireland) 2000 (S.R. 2000/374)](https://www.legislation.gov.uk/nisr/2000/374), [arts. 1](https://www.legislation.gov.uk/nisr/2000/374/article/1), [3](https://www.legislation.gov.uk/nisr/2000/374/article/3)
 
-[^key-5b483ab2251478f1b3b71d4bbb4f4d5d]: Commencement: Sch. Pt. I in operation at made date
+[^c-5b483ab2251478f1b3b71d4bbb4f4d5d]: Commencement: Sch. Pt. I in operation at made date
 
-[^key-616f8078757654f03e1c36906c248d3d]: Commencement: Sch. Pt. II in operation at made date
+[^c-616f8078757654f03e1c36906c248d3d]: Commencement: Sch. Pt. II in operation at made date
 
-[^key-5282a04875e124ab8ca71a33f8db9879]: Commencement: Sch. Pt. III in operation at made date
+[^c-5282a04875e124ab8ca71a33f8db9879]: Commencement: Sch. Pt. III in operation at made date
 
-[^key-268ebbfd64e3e444b5537a410bcd9ee1]: Commencement: Sch. Pt. IV in operation at made date
+[^c-268ebbfd64e3e444b5537a410bcd9ee1]: Commencement: Sch. Pt. IV in operation at made date
 
-[^key-cbd3b6e84120bdd7aee9815074cfb8e1]: Textual amendment: Words in [Sch. Pt. IV](https://www.legislation.gov.uk/nisr/2000/358/schedule/part/IV) heading substituted (30.11.2000) by [The Child Support, Pensions and Social Security (2000 Act) (Commencement No. 2) Order (Northern Ireland) 2000 (S.R. 2000/374)](https://www.legislation.gov.uk/nisr/2000/374), [arts. 1](https://www.legislation.gov.uk/nisr/2000/374/article/1), [3](https://www.legislation.gov.uk/nisr/2000/374/article/3)
+[^c-cbd3b6e84120bdd7aee9815074cfb8e1]: Textual amendment: Words in [Sch. Pt. IV](https://www.legislation.gov.uk/nisr/2000/358/schedule/part/IV) heading substituted (30.11.2000) by [The Child Support, Pensions and Social Security (2000 Act) (Commencement No. 2) Order (Northern Ireland) 2000 (S.R. 2000/374)](https://www.legislation.gov.uk/nisr/2000/374), [arts. 1](https://www.legislation.gov.uk/nisr/2000/374/article/1), [3](https://www.legislation.gov.uk/nisr/2000/374/article/3)

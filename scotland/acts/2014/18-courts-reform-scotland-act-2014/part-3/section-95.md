@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 95. Key defined terms[^key-2b9b9755a4ce30f4f1a0ca41c7687557]
+## 95. Key defined terms[^c-2b9b9755a4ce30f4f1a0ca41c7687557]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b9b9755a4ce30f4f1a0ca41c7687557]: Commencement: [S. 95](https://www.legislation.gov.uk/asp/2014/18/section/95) in force at 28.11.2016 by [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule)
+[^c-2b9b9755a4ce30f4f1a0ca41c7687557]: Commencement: [S. 95](https://www.legislation.gov.uk/asp/2014/18/section/95) in force at 28.11.2016 by [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule)

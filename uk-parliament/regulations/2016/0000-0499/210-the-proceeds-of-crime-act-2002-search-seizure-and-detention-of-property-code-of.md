@@ -32,7 +32,7 @@ summary: ''
 
 Proceeds Of Crime, Northern Ireland
 
-The Proceeds of Crime Act 2002 (Search, Seizure and Detention of Property: Code of Practice) (Northern Ireland) Order 2016 (revoked)[^key-864128c316d17981ba6a91a377e314a3]
+The Proceeds of Crime Act 2002 (Search, Seizure and Detention of Property: Code of Practice) (Northern Ireland) Order 2016 (revoked)[^c-864128c316d17981ba6a91a377e314a3]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into force
 
 1st March 2016
 
-[^key-864128c316d17981ba6a91a377e314a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-864128c316d17981ba6a91a377e314a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-864128c316d17981ba6a91a377e314a3]
+## 1. Citation and commencement[^c-864128c316d17981ba6a91a377e314a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Code of Practice[^key-864128c316d17981ba6a91a377e314a3]
+## 2. Code of Practice[^c-864128c316d17981ba6a91a377e314a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-864128c316d17981ba6a91a377e314a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-864128c316d17981ba6a91a377e314a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-864128c316d17981ba6a91a377e314a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-864128c316d17981ba6a91a377e314a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-864128c316d17981ba6a91a377e314a3]: Textual amendment: Order revoked (28.6.2021) by [The Proceeds of Crime Act 2002 (Search, Seizure and Detention of Property: Code of Practice) (Northern Ireland) Order 2021 (S.I. 2021/729)](https://www.legislation.gov.uk/uksi/2021/729), [arts. 1](https://www.legislation.gov.uk/uksi/2021/729/article/1), [3](https://www.legislation.gov.uk/uksi/2021/729/article/3)
+[^c-864128c316d17981ba6a91a377e314a3]: Textual amendment: Order revoked (28.6.2021) by [The Proceeds of Crime Act 2002 (Search, Seizure and Detention of Property: Code of Practice) (Northern Ireland) Order 2021 (S.I. 2021/729)](https://www.legislation.gov.uk/uksi/2021/729), [arts. 1](https://www.legislation.gov.uk/uksi/2021/729/article/1), [3](https://www.legislation.gov.uk/uksi/2021/729/article/3)

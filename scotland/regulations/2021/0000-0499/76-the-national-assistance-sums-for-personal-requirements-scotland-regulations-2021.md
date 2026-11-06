@@ -32,7 +32,7 @@ summary: ''
 
 National Assistance Services
 
-The National Assistance (Sums for Personal Requirements) (Scotland) Regulations 2021 (revoked)[^key-4cea8f14202ac6419ede70b3cc8d1dd3]
+The National Assistance (Sums for Personal Requirements) (Scotland) Regulations 2021 (revoked)[^c-4cea8f14202ac6419ede70b3cc8d1dd3]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 6th April 2021
 
-[^key-4cea8f14202ac6419ede70b3cc8d1dd3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4cea8f14202ac6419ede70b3cc8d1dd3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-4cea8f14202ac6419ede70b3cc8d1dd3]
+## 1. Citation, commencement and extent[^c-4cea8f14202ac6419ede70b3cc8d1dd3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Sum needed for personal requirements[^key-4cea8f14202ac6419ede70b3cc8d1dd3]
+## 2. Sum needed for personal requirements[^c-4cea8f14202ac6419ede70b3cc8d1dd3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-4cea8f14202ac6419ede70b3cc8d1dd3]
+## 3. Revocation[^c-4cea8f14202ac6419ede70b3cc8d1dd3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4cea8f14202ac6419ede70b3cc8d1dd3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4cea8f14202ac6419ede70b3cc8d1dd3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4cea8f14202ac6419ede70b3cc8d1dd3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4cea8f14202ac6419ede70b3cc8d1dd3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4cea8f14202ac6419ede70b3cc8d1dd3]: Textual amendment: Regulations revoked (11.4.2022) by [The National Assistance (Sums for Personal Requirements) (Scotland) Regulations 2022 (S.S.I. 2022/70)](https://www.legislation.gov.uk/ssi/2022/70), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/70/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2022/70/regulation/3)
+[^c-4cea8f14202ac6419ede70b3cc8d1dd3]: Textual amendment: Regulations revoked (11.4.2022) by [The National Assistance (Sums for Personal Requirements) (Scotland) Regulations 2022 (S.S.I. 2022/70)](https://www.legislation.gov.uk/ssi/2022/70), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/70/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2022/70/regulation/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101C. Contact services: regulation[^key-8249d4928e8ec58d04a7a82952776b11]
+## 101C. Contact services: regulation[^c-8249d4928e8ec58d04a7a82952776b11]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8249d4928e8ec58d04a7a82952776b11]: Textual amendment: S. 101C inserted (25.10.2021) by [Children (Scotland) Act 2020 (asp 16)](https://www.legislation.gov.uk/asp/2020/16), [ss. 10(3)](https://www.legislation.gov.uk/asp/2020/16/section/10/3), [34(2)](https://www.legislation.gov.uk/asp/2020/16/section/34/2); [S.S.I. 2021/339](https://www.legislation.gov.uk/ssi/2021/339), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2021/339/regulation/2/c)
+[^c-8249d4928e8ec58d04a7a82952776b11]: Textual amendment: S. 101C inserted (25.10.2021) by [Children (Scotland) Act 2020 (asp 16)](https://www.legislation.gov.uk/asp/2020/16), [ss. 10(3)](https://www.legislation.gov.uk/asp/2020/16/section/10/3), [34(2)](https://www.legislation.gov.uk/asp/2020/16/section/34/2); [S.S.I. 2021/339](https://www.legislation.gov.uk/ssi/2021/339), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2021/339/regulation/2/c)

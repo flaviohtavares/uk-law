@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 216. Power to regulate app stores: supplementary[^key-395a92ad43554e042b0b533e65102885][^key-ebf40208e6159f640299c269c13b6d19]
+## 216. Power to regulate app stores: supplementary[^c-395a92ad43554e042b0b533e65102885][^c-ebf40208e6159f640299c269c13b6d19]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-395a92ad43554e042b0b533e65102885]: Commencement: S. 216 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-395a92ad43554e042b0b533e65102885]: Commencement: S. 216 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-ebf40208e6159f640299c269c13b6d19]: Commencement: [S. 216](https://www.legislation.gov.uk/ukpga/2023/50/section/216) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z31)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z31)
+[^c-ebf40208e6159f640299c269c13b6d19]: Commencement: [S. 216](https://www.legislation.gov.uk/ukpga/2023/50/section/216) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z31)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z31)

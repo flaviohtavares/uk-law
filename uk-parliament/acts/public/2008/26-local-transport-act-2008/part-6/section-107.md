@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Joint local-London charging schemes to implement policies of ITAs[^key-e3b434d73d3144c08b44e0dbc0bebbec][^key-a478265789b07d34d322fe34c26d0323]
+## 107. Joint local-London charging schemes to implement policies of ITAs[^c-e3b434d73d3144c08b44e0dbc0bebbec][^c-a478265789b07d34d322fe34c26d0323]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e3b434d73d3144c08b44e0dbc0bebbec]: Commencement: S. 107 in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-e3b434d73d3144c08b44e0dbc0bebbec]: Commencement: S. 107 in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-a478265789b07d34d322fe34c26d0323]: Commencement: S. 107 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(j)](https://www.legislation.gov.uk/uksi/2009/579/article/2/j)
+[^c-a478265789b07d34d322fe34c26d0323]: Commencement: S. 107 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(j)](https://www.legislation.gov.uk/uksi/2009/579/article/2/j)

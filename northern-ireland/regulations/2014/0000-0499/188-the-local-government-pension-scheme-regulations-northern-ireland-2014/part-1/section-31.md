@@ -26,7 +26,7 @@ summary: ''
 
 (3) A member to whom paragraph (1) applies may elect to defer payment of a retirement pension to a date after that member's normal pension age up to the date when that member attains the age of 75.
 
-(3A)[^key-78e742cd70689cfb364c0cd1711c1111] A member who is an employee in local government employment on the day before attaining age 75 must have their retirement pension paid from age 75 even if the member remains in local government employment beyond that age.
+(3A)[^c-78e742cd70689cfb364c0cd1711c1111] A member who is an employee in local government employment on the day before attaining age 75 must have their retirement pension paid from age 75 even if the member remains in local government employment beyond that age.
 
 (4) A member who starts to receive payment of a retirement pension from a date after that member's normal pension age is entitled to enhancement of the pension by the amount shown as appropriate in actuarial guidance issued by the Department.
 
@@ -37,7 +37,7 @@ summary: ''
 (7) Where an active member who has attained the age of 55 or over is dismissed from an employment by reason of redundancy or business efficiency, or whose employment is terminated by mutual consent on grounds of business efficiency, that member is entitled to, and shall take immediate payment of—
 
 - (a) retirement pension relating to that employment payable under regulation 18 (additional pension contributions), adjusted by the amount shown as appropriate in actuarial guidance issued by the Department; and
-- (b) any other retirement pension relating to that active member's pension account in respect of that employment[^key-5207a8f0fc7a1d7232b773ae61f350fd] payable under these Regulations, without reduction.
+- (b) any other retirement pension relating to that active member's pension account in respect of that employment[^c-5207a8f0fc7a1d7232b773ae61f350fd] payable under these Regulations, without reduction.
 
 (8) An employing authority, former employer which is an employing authority or, where a member's employer or former employer has ceased to be an employing authority, the Committee, may agree to waive in whole or in part any reduction that would, apart from this paragraph, be required by paragraphs (5) or (6).
 
@@ -54,12 +54,12 @@ summary: ''
 - (a) “reduced” at paragraphs (5) and (12) and “adjusted” at paragraph (6), refer to the “early payment reduction”; and
 - (b) “enhancement” at paragraph (4) and “enhanced” at paragraph (11), refer to the “deferred payment enhancement”.
 
-(14)[^key-3c7439a05a00f5e8bc196f3a88c498f6] The references to an enhancement in paragraph (4), a reduction in paragraph (5) and an adjustment in paragraph (6) do not apply to any final guarantee amount that has been added to the pension account under regulation 4B (statutory underpin: retirement, redundancy, ill-health) or 4C (statutory underpin: flexible retirement) of the Transitional Regulations.
+(14)[^c-3c7439a05a00f5e8bc196f3a88c498f6] The references to an enhancement in paragraph (4), a reduction in paragraph (5) and an adjustment in paragraph (6) do not apply to any final guarantee amount that has been added to the pension account under regulation 4B (statutory underpin: retirement, redundancy, ill-health) or 4C (statutory underpin: flexible retirement) of the Transitional Regulations.
 
 ## Annotations
 
-[^key-78e742cd70689cfb364c0cd1711c1111]: Textual amendment: [Reg. 31(3A)](https://www.legislation.gov.uk/nisr/2014/188/regulation/31/3A) inserted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [66(a)](https://www.legislation.gov.uk/nisr/2019/206/regulation/66/a)
+[^c-78e742cd70689cfb364c0cd1711c1111]: Textual amendment: [Reg. 31(3A)](https://www.legislation.gov.uk/nisr/2014/188/regulation/31/3A) inserted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [66(a)](https://www.legislation.gov.uk/nisr/2019/206/regulation/66/a)
 
-[^key-5207a8f0fc7a1d7232b773ae61f350fd]: Textual amendment: Words in [reg. 31(7)(b)](https://www.legislation.gov.uk/nisr/2014/188/regulation/31/7/b) substituted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [66(b)](https://www.legislation.gov.uk/nisr/2019/206/regulation/66/b)
+[^c-5207a8f0fc7a1d7232b773ae61f350fd]: Textual amendment: Words in [reg. 31(7)(b)](https://www.legislation.gov.uk/nisr/2014/188/regulation/31/7/b) substituted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [66(b)](https://www.legislation.gov.uk/nisr/2019/206/regulation/66/b)
 
-[^key-3c7439a05a00f5e8bc196f3a88c498f6]: Textual amendment: [Reg. 31(14)](https://www.legislation.gov.uk/nisr/2014/188/regulation/31/14) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2023/149/regulation/3/2)
+[^c-3c7439a05a00f5e8bc196f3a88c498f6]: Textual amendment: [Reg. 31(14)](https://www.legislation.gov.uk/nisr/2014/188/regulation/31/14) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2023/149/regulation/3/2)

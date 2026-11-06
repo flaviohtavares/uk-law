@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 11 — TRANSITIONAL PROVISIONS AND SAVINGS[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]
+## SCHEDULE 11 — TRANSITIONAL PROVISIONS AND SAVINGS[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,54 +24,54 @@ summary: ''
 
 Regulation 58.
 
-### PART I — RECOGNITION OF INVESTMENT FIRMS[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]
+### PART I — RECOGNITION OF INVESTMENT FIRMS[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]
 
-#### European investment firms[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]
+#### European investment firms[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]
 
-**1.**[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### UK authorised investment firms[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]
+#### UK authorised investment firms[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]
 
-**2.**[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — AMENDMENTS OF FINANCIAL SERVICES ACT[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]
+### PART II — AMENDMENTS OF FINANCIAL SERVICES ACT[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]
 
-#### Preliminary[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]
+#### Preliminary[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]
 
-**3.**[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Statements of principle[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]
+#### Statements of principle[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]
 
-**4.**[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Conduct of business rules[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]
+#### Conduct of business rules[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]
 
-**5.**[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Financial resources rules[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]
+#### Financial resources rules[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]
 
-**6.**[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Cancellation rules[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]
+#### Cancellation rules[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]
 
-**7.**[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Notification regulations[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]
+#### Notification regulations[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]
 
-**8.**[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Compensation fund[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]
+#### Compensation fund[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]
 
-**9.**[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Unsolicited calls[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]
+#### Unsolicited calls[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]
 
-**10.**[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Supplemental[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]
+#### Supplemental[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]
 
-**11.**[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1995/3275) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2001/3649/article/3/2/c) (with savings in [S.I. 2001/3646](https://www.legislation.gov.uk/uksi/2001/3646), [art. 12](https://www.legislation.gov.uk/uksi/2001/3646/article/12))
+[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1995/3275) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2001/3649/article/3/2/c) (with savings in [S.I. 2001/3646](https://www.legislation.gov.uk/uksi/2001/3646), [art. 12](https://www.legislation.gov.uk/uksi/2001/3646/article/12))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21.[^key-91579c0623c0f60a77ee2f859f0afe41]
+## 21.[^c-91579c0623c0f60a77ee2f859f0afe41]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ For regulation 28 substitute—
 
 ## Annotations
 
-[^key-91579c0623c0f60a77ee2f859f0afe41]: Commencement: Reg. 21 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
+[^c-91579c0623c0f60a77ee2f859f0afe41]: Commencement: Reg. 21 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
 
 [^c24364451]: Marginal citation: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22).

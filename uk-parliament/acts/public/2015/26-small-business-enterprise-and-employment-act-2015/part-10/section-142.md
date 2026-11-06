@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Power for Secretary of State to obtain information[^key-93acb6d7a15b9b028b136066b0eff65d]
+## 142. Power for Secretary of State to obtain information[^c-93acb6d7a15b9b028b136066b0eff65d]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ After section 391R of the Insolvency Act 1986 (inserted by section 141) insertâ€
 
 ## Annotations
 
-[^key-93acb6d7a15b9b028b136066b0eff65d]: Commencement: [S. 142](https://www.legislation.gov.uk/ukpga/2015/26/section/142) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/a)
+[^c-93acb6d7a15b9b028b136066b0eff65d]: Commencement: [S. 142](https://www.legislation.gov.uk/ukpga/2015/26/section/142) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/a)

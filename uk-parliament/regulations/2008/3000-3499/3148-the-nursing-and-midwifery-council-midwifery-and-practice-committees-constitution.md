@@ -70,7 +70,7 @@ The Nursing and Midwifery Council makes the following Rules in exercise of the p
 
 #### 1. Citation and commencement
 
-These Rules may be cited as the Nursing and Midwifery Council (Practice Committees) (Constitution) Rules 2008[^key-585a3e801fc49468e6a43564530a7ae6] and shall come into force on 5th January 2009.
+These Rules may be cited as the Nursing and Midwifery Council (Practice Committees) (Constitution) Rules 2008[^c-585a3e801fc49468e6a43564530a7ae6] and shall come into force on 5th January 2009.
 
 #### 2. Interpretation
 
@@ -80,10 +80,10 @@ In these Rules—
 - “**licensing body**” means—
   - (a) any body, other than the Council, anywhere in the world that licenses or regulates any profession;
   - (b) any body that regulated registered nurses or registered midwives before the Council;
-- “member”, unless the context otherwise requires, means a member of [^key-0c6f66b5cc3dcf1d2fa24aac40ab72da]... a Practice Committee and includes the chair, a deputy chair or a panel chair;
-- “**non-registrant**” means a person who is not and never has been a registered nurse, midwife or nursing associate[^key-a43dd914b3c863b7b795ebc504a5fa90] and does not hold a qualification that would entitle them to apply for registration under the Order;
+- “member”, unless the context otherwise requires, means a member of [^c-0c6f66b5cc3dcf1d2fa24aac40ab72da]... a Practice Committee and includes the chair, a deputy chair or a panel chair;
+- “**non-registrant**” means a person who is not and never has been a registered nurse, midwife or nursing associate[^c-a43dd914b3c863b7b795ebc504a5fa90] and does not hold a qualification that would entitle them to apply for registration under the Order;
 - “**the Order**” means the Nursing and Midwifery Order 2001;
-- [^key-ce44a51341abec281cee46d35a1fb02c]... and
+- [^c-ce44a51341abec281cee46d35a1fb02c]... and
 - “**spent conviction**” means—
   - (a) in relation to a conviction in a court in Great Britain, a conviction that is a spent conviction for the purpose of the Rehabilitation of Offenders Act 1974 [^c19509461]; or
   - (b) in relation to a conviction by a court in Northern Ireland, a conviction that is a spent conviction for the purposes of the Rehabilitation of Offenders (Northern Ireland) Order 1978 [^c19509471].
@@ -92,21 +92,21 @@ In these Rules—
 
 The Council may obtain the assistance of the Appointments Board in connection with the exercise of any function relating to the appointment of members, including the appraisal of members.
 
-### PART 2 — The Practice Committees[^key-6891d4fd2e73eff8eb90fa84c3cf8d6c]
+### PART 2 — The Practice Committees[^c-6891d4fd2e73eff8eb90fa84c3cf8d6c]
 
-#### 4. The Midwifery Committee[^key-0647d4cd7cd730de7575ca004a00f4eb]
+#### 4. The Midwifery Committee[^c-0647d4cd7cd730de7575ca004a00f4eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Chair and deputy chair of the Midwifery Committee[^key-a1e5a3266eccfdefc208ea6fed5a91ff]
+#### 5. Chair and deputy chair of the Midwifery Committee[^c-a1e5a3266eccfdefc208ea6fed5a91ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 6. The Practice Committees
 
-(1)[^key-857430020a075af12e3e1e4933572de9] The members of each Practice Committee shall be appointed by the Council.
+(1)[^c-857430020a075af12e3e1e4933572de9] The members of each Practice Committee shall be appointed by the Council.
 
-(2) No person who is a member of the Investigating Committee may serve concurrently as a member of the Fitness to Practise Committee[^key-f1124a315ff0979207118aa4edb6b601].
+(2) No person who is a member of the Investigating Committee may serve concurrently as a member of the Fitness to Practise Committee[^c-f1124a315ff0979207118aa4edb6b601].
 
 (3) No person who is a member of the Council may serve concurrently as a member of a Practice Committee.
 
@@ -120,20 +120,20 @@ The Council may obtain the assistance of the Appointments Board in connection wi
 
 (8) No person may serve more than 2 terms of office as a member of a Practice Committee, including any term of office served prior to the coming into force of these Rules but subject to paragraph (9).
 
-(8A)[^key-1cf41a48d9d9ee440ae573843eb4430a] The Council may extend the term of office of any member of a Practice Committee, who as of 3rd March 2020 was serving a second term, for such a period as it considers appropriate.
+(8A)[^c-1cf41a48d9d9ee440ae573843eb4430a] The Council may extend the term of office of any member of a Practice Committee, who as of 3rd March 2020 was serving a second term, for such a period as it considers appropriate.
 
 (9) In the case of a person who was authorised to participate in proceedings under Part 5 of the Order immediately prior to the coming into force of these Rules—
 
 - (a) that person's term of office that expires as a consequence of the coming into force of these Rules shall be discounted for the purpose of the calculation under paragraph (8); and
 - (b) that person's first term of office under these Rules (if that person is reappointed) shall not exceed the unexpired portion of the term of office that expired as a consequence of the coming into force of these Rules.
 
-(10) Subject to paragraph (11),[^key-01d619362717037be4ef03c4d9f5e822] the quorum for the Practice Committees (that is, for panels of members invited in accordance with paragraph (4)) is 3, of which at least one must be—
+(10) Subject to paragraph (11),[^c-01d619362717037be4ef03c4d9f5e822] the quorum for the Practice Committees (that is, for panels of members invited in accordance with paragraph (4)) is 3, of which at least one must be—
 
 - (a) a registrant;
 - (b) a non-registrant; and
 - (c) the person chairing the meeting (who may also count as the registrant or non-registrant member mentioned in sub-paragraphs (a) and (b)).
 
-(11)[^key-9880106e7d7b16b20f8805bd10c160ba] In cases where it is not reasonably practicable to comply with the requirements of paragraph (10)—
+(11)[^c-9880106e7d7b16b20f8805bd10c160ba] In cases where it is not reasonably practicable to comply with the requirements of paragraph (10)—
 
 - (a) in that paragraph, for “3”, substitute “2”; and
 - (b) paragraph (10)(a) shall not apply.
@@ -187,7 +187,7 @@ A person is disqualified from appointment as a member if that person—
   - (iii) a disqualification order or disqualification undertaking under the Company Directors Disqualification (Northern Ireland) Order 2002 [^c19509541], or
   - (iv) an order made under section 429(2) of the Insolvency Act 1986 [^c19509551] (disabilities on revocation of a county court administration order);
 - (h) has been included by—
-  - (i) the Disclosure and Barring Service[^key-bc11a740e2227036973d4e87246ee705] in a barred list (within the meaning of the Safeguarding Vulnerable Groups Act 2006 [^c19509561] or the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 [^c19509571]), or
+  - (i) the Disclosure and Barring Service[^c-bc11a740e2227036973d4e87246ee705] in a barred list (within the meaning of the Safeguarding Vulnerable Groups Act 2006 [^c19509561] or the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 [^c19509571]), or
   - (ii) the Scottish Ministers in the children's list or the adults' list (within the meaning of the Protection of Vulnerable Groups (Scotland) Act 2007 [^c19509581]);
 - (i) has at any time been subject to any investigation or proceedings concerning the person's fitness to practise by any licensing body, the final outcome of which was—
   - (i) the person's erasure from a register held by the licensing body or a decision that had the effect of preventing the person from practising the profession licensed or regulated by the licensing body,
@@ -203,8 +203,8 @@ A person is disqualified from appointment as a member if that person—
   - (i) any licensing body, or
   - (ii) the Council,
 
-  and the Council is satisfied that the person's membership of the committee would be liable to undermine public confidence in the regulation of nurses, midwives and nursing associates[^key-47247425581eba228f74226e7361a565]; or
-- (m) has at any time been convicted of an offence elsewhere than in the United Kingdom and the Council is satisfied that the person's membership of the committee would be liable to undermine public confidence in the regulation of nurses, midwives and nursing associates[^key-8ad388c02b59dc3ec1d9f5894bce5d1c].
+  and the Council is satisfied that the person's membership of the committee would be liable to undermine public confidence in the regulation of nurses, midwives and nursing associates[^c-47247425581eba228f74226e7361a565]; or
+- (m) has at any time been convicted of an offence elsewhere than in the United Kingdom and the Council is satisfied that the person's membership of the committee would be liable to undermine public confidence in the regulation of nurses, midwives and nursing associates[^c-8ad388c02b59dc3ec1d9f5894bce5d1c].
 
 #### 9. Termination of committee membership
 
@@ -213,7 +213,7 @@ A person is disqualified from appointment as a member if that person—
 - (a) the member resigns, which a member may do at any time by a notice in writing to the Council;
 - (b) in the case of—
   - (i) a member appointed in part because they were a registrant, that member's registration becomes lapsed,
-  - (ii)[^key-dd270170b22113416681a549d600394f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . or
+  - (ii)[^c-dd270170b22113416681a549d600394f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . or
   - (iii) a member appointed in part because they were a non-registrant, that member ceases to be a non-registrant;
 - (c) the member becomes a person of the type mentioned in rule 8(a), (b) or (e) to (h) whether or not they thereafter cease to be such a person;
 - (d) the member becomes a person of the type mentioned in rule 8(c) or (d);
@@ -230,13 +230,13 @@ A person is disqualified from appointment as a member if that person—
   - (ii) whether or not there were reasonable causes for the member's absences;
 - (h) the Council is satisfied the member has failed, without reasonable cause, to undertake satisfactorily the requirements with regard to education and training for members that apply to that member and which the Council has included in its standing orders;
 - (i) the Council is satisfied that the member is no longer able to perform their duties as a member of the committee because of adverse physical or mental health;
-- (j) the Council is satisfied that the member's continued membership of the committee would be liable to undermine public confidence in the regulation of nurses, midwives and nursing associates[^key-a9e8ef3c6c01d6a8c0a55edd4a86ab5a].
+- (j) the Council is satisfied that the member's continued membership of the committee would be liable to undermine public confidence in the regulation of nurses, midwives and nursing associates[^c-a9e8ef3c6c01d6a8c0a55edd4a86ab5a].
 
 (2) A member who becomes, or may become, a person to whom paragraph (1)(b) to (f) applies must notify the Council in writing of that fact as soon as the person becomes aware of it.
 
 (3) Any member or employee of the Council may notify the Council if they are of the view that the Council may need to exercise its functions under paragraph (1).
 
-(4)[^key-c332e8160d7645ff50cc733df0b7160c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-c332e8160d7645ff50cc733df0b7160c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 10. Suspension of committee membership
 
@@ -306,35 +306,35 @@ Part 3 contains common provisions relating to the disqualification from appointm
 
 [^M_F_39a5ad60-8f08-4863-e8a3-0f7582dacc76]: Textual amendment: Words in Sch. title substituted (31.3.2017) by [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2017/321/article/1/2/d), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2017/321/schedule/2/paragraph/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
 
-[^key-585a3e801fc49468e6a43564530a7ae6]: Textual amendment: Words in Sch. rule 1 substituted (31.3.2017) by [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2017/321/article/1/2/d), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2017/321/schedule/2/paragraph/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
+[^c-585a3e801fc49468e6a43564530a7ae6]: Textual amendment: Words in Sch. rule 1 substituted (31.3.2017) by [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2017/321/article/1/2/d), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2017/321/schedule/2/paragraph/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
 
 [^c19509441]: Marginal citation: The Appointments Board was established pursuant to a decision of the Council on 7th December 2006.
 
-[^key-0c6f66b5cc3dcf1d2fa24aac40ab72da]: Textual amendment: Words in Sch. rule 2 omitted (31.3.2017) by virtue of [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2017/321/article/1/2/d), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2017/321/schedule/2/paragraph/4/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
+[^c-0c6f66b5cc3dcf1d2fa24aac40ab72da]: Textual amendment: Words in Sch. rule 2 omitted (31.3.2017) by virtue of [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2017/321/article/1/2/d), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2017/321/schedule/2/paragraph/4/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
 
-[^key-a43dd914b3c863b7b795ebc504a5fa90]: Textual amendment: Words in Sch. rule 2 substituted (28.1.2019) by [The Nursing and Midwifery (Amendment) Order 2018 (S.I. 2018/838)](https://www.legislation.gov.uk/uksi/2018/838), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/838/article/1/3), [Sch. 2 para. 8(a)](https://www.legislation.gov.uk/uksi/2018/838/schedule/2/paragraph/8/a)
+[^c-a43dd914b3c863b7b795ebc504a5fa90]: Textual amendment: Words in Sch. rule 2 substituted (28.1.2019) by [The Nursing and Midwifery (Amendment) Order 2018 (S.I. 2018/838)](https://www.legislation.gov.uk/uksi/2018/838), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/838/article/1/3), [Sch. 2 para. 8(a)](https://www.legislation.gov.uk/uksi/2018/838/schedule/2/paragraph/8/a)
 
-[^key-ce44a51341abec281cee46d35a1fb02c]: Textual amendment: Words in Sch. rule 2 omitted (31.3.2017) by virtue of [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2017/321/article/1/2/d), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/2017/321/schedule/2/paragraph/4/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
+[^c-ce44a51341abec281cee46d35a1fb02c]: Textual amendment: Words in Sch. rule 2 omitted (31.3.2017) by virtue of [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2017/321/article/1/2/d), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/2017/321/schedule/2/paragraph/4/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
 
 [^c19509461]: Marginal citation: [1974 c.53](https://www.legislation.gov.uk/ukpga/1974/53).
 
 [^c19509471]: Marginal citation: [S.I. 1978/1908 (N.I. 27)](https://www.legislation.gov.uk/nisi/1978/1908).
 
-[^key-6891d4fd2e73eff8eb90fa84c3cf8d6c]: Textual amendment: Sch. Pt. 2 heading substituted (31.3.2017) by [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2017/321/article/1/2/d), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2017/321/schedule/2/paragraph/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
+[^c-6891d4fd2e73eff8eb90fa84c3cf8d6c]: Textual amendment: Sch. Pt. 2 heading substituted (31.3.2017) by [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2017/321/article/1/2/d), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2017/321/schedule/2/paragraph/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
 
-[^key-0647d4cd7cd730de7575ca004a00f4eb]: Textual amendment: Sch. rule 4 omitted (31.3.2017) by virtue of [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2017/321/article/1/2/d), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2017/321/schedule/2/paragraph/6) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
+[^c-0647d4cd7cd730de7575ca004a00f4eb]: Textual amendment: Sch. rule 4 omitted (31.3.2017) by virtue of [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2017/321/article/1/2/d), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2017/321/schedule/2/paragraph/6) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
 
-[^key-a1e5a3266eccfdefc208ea6fed5a91ff]: Textual amendment: Sch. rule 5 omitted (31.3.2017) by virtue of [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2017/321/article/1/2/d), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2017/321/schedule/2/paragraph/6) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
+[^c-a1e5a3266eccfdefc208ea6fed5a91ff]: Textual amendment: Sch. rule 5 omitted (31.3.2017) by virtue of [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2017/321/article/1/2/d), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2017/321/schedule/2/paragraph/6) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
 
-[^key-857430020a075af12e3e1e4933572de9]: Textual amendment: Sch. rule 6(1) substituted (31.3.2017) by [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2017/321/article/1/2/d), [Sch. 2 para. 7(a)](https://www.legislation.gov.uk/uksi/2017/321/schedule/2/paragraph/7/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
+[^c-857430020a075af12e3e1e4933572de9]: Textual amendment: Sch. rule 6(1) substituted (31.3.2017) by [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2017/321/article/1/2/d), [Sch. 2 para. 7(a)](https://www.legislation.gov.uk/uksi/2017/321/schedule/2/paragraph/7/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
 
-[^key-f1124a315ff0979207118aa4edb6b601]: Textual amendment: Words in Sch. rule 6(2) substituted (28.7.2017) by [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(4)](https://www.legislation.gov.uk/uksi/2017/321/article/1/4), [Sch. 2 para. 7(b)](https://www.legislation.gov.uk/uksi/2017/321/schedule/2/paragraph/7/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
+[^c-f1124a315ff0979207118aa4edb6b601]: Textual amendment: Words in Sch. rule 6(2) substituted (28.7.2017) by [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(4)](https://www.legislation.gov.uk/uksi/2017/321/article/1/4), [Sch. 2 para. 7(b)](https://www.legislation.gov.uk/uksi/2017/321/schedule/2/paragraph/7/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
 
-[^key-1cf41a48d9d9ee440ae573843eb4430a]: Textual amendment: Sch. rule 6(8A) substituted (31.8.2020) by [The Nursing and Midwifery Council (Coronavirus) (Amendment) (No. 2) Rules Order of Council 2020 (S.I. 2020/821)](https://www.legislation.gov.uk/uksi/2020/821), [Sch. rules 1](https://www.legislation.gov.uk/uksi/2020/821/schedule/paragraph/1), [4(a)](https://www.legislation.gov.uk/uksi/2020/821/schedule/paragraph/4/a)
+[^c-1cf41a48d9d9ee440ae573843eb4430a]: Textual amendment: Sch. rule 6(8A) substituted (31.8.2020) by [The Nursing and Midwifery Council (Coronavirus) (Amendment) (No. 2) Rules Order of Council 2020 (S.I. 2020/821)](https://www.legislation.gov.uk/uksi/2020/821), [Sch. rules 1](https://www.legislation.gov.uk/uksi/2020/821/schedule/paragraph/1), [4(a)](https://www.legislation.gov.uk/uksi/2020/821/schedule/paragraph/4/a)
 
-[^key-01d619362717037be4ef03c4d9f5e822]: Textual amendment: Words in Sch. rule 6(10) substituted (31.8.2020) by [The Nursing and Midwifery Council (Coronavirus) (Amendment) (No. 2) Rules Order of Council 2020 (S.I. 2020/821)](https://www.legislation.gov.uk/uksi/2020/821), [Sch. rules 1](https://www.legislation.gov.uk/uksi/2020/821/schedule/paragraph/1), [4(b)](https://www.legislation.gov.uk/uksi/2020/821/schedule/paragraph/4/b)
+[^c-01d619362717037be4ef03c4d9f5e822]: Textual amendment: Words in Sch. rule 6(10) substituted (31.8.2020) by [The Nursing and Midwifery Council (Coronavirus) (Amendment) (No. 2) Rules Order of Council 2020 (S.I. 2020/821)](https://www.legislation.gov.uk/uksi/2020/821), [Sch. rules 1](https://www.legislation.gov.uk/uksi/2020/821/schedule/paragraph/1), [4(b)](https://www.legislation.gov.uk/uksi/2020/821/schedule/paragraph/4/b)
 
-[^key-9880106e7d7b16b20f8805bd10c160ba]: Textual amendment: Sch. rule 6(11) substituted (31.8.2020) by [The Nursing and Midwifery Council (Coronavirus) (Amendment) (No. 2) Rules Order of Council 2020 (S.I. 2020/821)](https://www.legislation.gov.uk/uksi/2020/821), [Sch. rules 1](https://www.legislation.gov.uk/uksi/2020/821/schedule/paragraph/1), [4(c)](https://www.legislation.gov.uk/uksi/2020/821/schedule/paragraph/4/c)
+[^c-9880106e7d7b16b20f8805bd10c160ba]: Textual amendment: Sch. rule 6(11) substituted (31.8.2020) by [The Nursing and Midwifery Council (Coronavirus) (Amendment) (No. 2) Rules Order of Council 2020 (S.I. 2020/821)](https://www.legislation.gov.uk/uksi/2020/821), [Sch. rules 1](https://www.legislation.gov.uk/uksi/2020/821/schedule/paragraph/1), [4(c)](https://www.legislation.gov.uk/uksi/2020/821/schedule/paragraph/4/c)
 
 [^c19509481]: Marginal citation: [1990 c. 40](https://www.legislation.gov.uk/ukpga/1990/40); section 7 was repealed by the [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), Schedule 4, paragraph 7(b).
 
@@ -352,7 +352,7 @@ Part 3 contains common provisions relating to the disqualification from appointm
 
 [^c19509551]: Marginal citation: Section 429(2) was amended by the [Enterprise Act 2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40), Schedule 23, paragraph 15.
 
-[^key-bc11a740e2227036973d4e87246ee705]: Textual amendment: Words in Sch. rule 8(h)(i) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(l)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/l) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-bc11a740e2227036973d4e87246ee705]: Textual amendment: Words in Sch. rule 8(h)(i) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(l)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/l) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
 [^c19509561]: Marginal citation: [2006 c.47](https://www.legislation.gov.uk/ukpga/2006/47).
 
@@ -360,14 +360,14 @@ Part 3 contains common provisions relating to the disqualification from appointm
 
 [^c19509581]: Marginal citation: [2007 asp 14](https://www.legislation.gov.uk/asp/2007/14).
 
-[^key-47247425581eba228f74226e7361a565]: Textual amendment: Words in Sch. rule 8(l) substituted (28.1.2019) by [The Nursing and Midwifery (Amendment) Order 2018 (S.I. 2018/838)](https://www.legislation.gov.uk/uksi/2018/838), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/838/article/1/3), [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/uksi/2018/838/schedule/2/paragraph/8/b)
+[^c-47247425581eba228f74226e7361a565]: Textual amendment: Words in Sch. rule 8(l) substituted (28.1.2019) by [The Nursing and Midwifery (Amendment) Order 2018 (S.I. 2018/838)](https://www.legislation.gov.uk/uksi/2018/838), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/838/article/1/3), [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/uksi/2018/838/schedule/2/paragraph/8/b)
 
-[^key-8ad388c02b59dc3ec1d9f5894bce5d1c]: Textual amendment: Words in Sch. rule 8(m) substituted (28.1.2019) by [The Nursing and Midwifery (Amendment) Order 2018 (S.I. 2018/838)](https://www.legislation.gov.uk/uksi/2018/838), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/838/article/1/3), [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/uksi/2018/838/schedule/2/paragraph/8/b)
+[^c-8ad388c02b59dc3ec1d9f5894bce5d1c]: Textual amendment: Words in Sch. rule 8(m) substituted (28.1.2019) by [The Nursing and Midwifery (Amendment) Order 2018 (S.I. 2018/838)](https://www.legislation.gov.uk/uksi/2018/838), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/838/article/1/3), [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/uksi/2018/838/schedule/2/paragraph/8/b)
 
-[^key-dd270170b22113416681a549d600394f]: Textual amendment: Sch. rule 9(1)(b)(ii) omitted (31.3.2017) by virtue of [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2017/321/article/1/2/d), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2017/321/schedule/2/paragraph/8) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
+[^c-dd270170b22113416681a549d600394f]: Textual amendment: Sch. rule 9(1)(b)(ii) omitted (31.3.2017) by virtue of [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2017/321/article/1/2/d), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2017/321/schedule/2/paragraph/8) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
 
-[^key-a9e8ef3c6c01d6a8c0a55edd4a86ab5a]: Textual amendment: Words in Sch. rule 9(1)(j) substituted (28.1.2019) by [The Nursing and Midwifery (Amendment) Order 2018 (S.I. 2018/838)](https://www.legislation.gov.uk/uksi/2018/838), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/838/article/1/3), [Sch. 2 para. 8(c)](https://www.legislation.gov.uk/uksi/2018/838/schedule/2/paragraph/8/c)
+[^c-a9e8ef3c6c01d6a8c0a55edd4a86ab5a]: Textual amendment: Words in Sch. rule 9(1)(j) substituted (28.1.2019) by [The Nursing and Midwifery (Amendment) Order 2018 (S.I. 2018/838)](https://www.legislation.gov.uk/uksi/2018/838), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/838/article/1/3), [Sch. 2 para. 8(c)](https://www.legislation.gov.uk/uksi/2018/838/schedule/2/paragraph/8/c)
 
-[^key-c332e8160d7645ff50cc733df0b7160c]: Textual amendment: Sch. rule 9(4) omitted (31.3.2017) by virtue of [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2017/321/article/1/2/d), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2017/321/schedule/2/paragraph/8) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
+[^c-c332e8160d7645ff50cc733df0b7160c]: Textual amendment: Sch. rule 9(4) omitted (31.3.2017) by virtue of [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2017/321/article/1/2/d), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2017/321/schedule/2/paragraph/8) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
 
 [^c19509591]: Marginal citation: Scheduled to [S.I. 2004/1761](https://www.legislation.gov.uk/uksi/2004/1761).

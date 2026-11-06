@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Service of notices[^key-92cee660aa06d4b15196923b342cca15]
+## 57. Service of notices[^c-92cee660aa06d4b15196923b342cca15]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 
 (2) Where the person on whom a notice or other document to be served for the purposes of this Order is a body corporate, the notice or document is duly served if it is served on the secretary or clerk of that body.
 
-(3) For the purposes of section 7 of the Interpretation Act 1978[^f00045] as it applies for the purposes of this article, the proper address of any person in relation to the service on that person of a notice or document under paragraph (1)[^key-3f8b16885e4207b5d40f3f596e3bc062] is, if that person has given an address for service, that address, and otherwise—
+(3) For the purposes of section 7 of the Interpretation Act 1978[^f00045] as it applies for the purposes of this article, the proper address of any person in relation to the service on that person of a notice or document under paragraph (1)[^c-3f8b16885e4207b5d40f3f596e3bc062] is, if that person has given an address for service, that address, and otherwise—
 
 - (a) in the case of the secretary or clerk of a body corporate, the registered or principal office of that body; and
 - (b) in any other case, the last known address of that person at the time of service.
@@ -60,8 +60,8 @@ summary: ''
 
 ## Annotations
 
-[^key-92cee660aa06d4b15196923b342cca15]: Commencement: Art. 57 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-92cee660aa06d4b15196923b342cca15]: Commencement: Art. 57 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
 [^f00045]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-3f8b16885e4207b5d40f3f596e3bc062]: Textual amendment: Word in [art. 57(3)](https://www.legislation.gov.uk/uksi/2024/958/article/57/3) inserted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-3f8b16885e4207b5d40f3f596e3bc062]: Textual amendment: Word in [art. 57(3)](https://www.legislation.gov.uk/uksi/2024/958/article/57/3) inserted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1

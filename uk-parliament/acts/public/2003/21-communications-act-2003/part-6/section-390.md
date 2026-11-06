@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 390. Annual report on the Secretary of State’s functions[^key-715e03c838151cced74f955843c78b2e]
+## 390. Annual report on the Secretary of State’s functions[^c-715e03c838151cced74f955843c78b2e]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 - (c) the enactments relating to the management of the radio spectrum so far as not comprised in this Act;
 - (d) the 1990 Act;
 - (e) the 1996 Act.
-- (f)[^key-b95aeddfa6976c3997c2ecabf889fd91] the Online Safety Act 2023.
+- (f)[^c-b95aeddfa6976c3997c2ecabf889fd91] the Online Safety Act 2023.
 
 (3) The first report under this section must relate to the period which—
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-715e03c838151cced74f955843c78b2e]: Commencement: S. 390 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-715e03c838151cced74f955843c78b2e]: Commencement: S. 390 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-b95aeddfa6976c3997c2ecabf889fd91]: Textual amendment: [S. 390(2)(f)](https://www.legislation.gov.uk/ukpga/2003/21/section/390/2/f) inserted (10.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 177](https://www.legislation.gov.uk/ukpga/2023/50/section/177), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z22)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z22)
+[^c-b95aeddfa6976c3997c2ecabf889fd91]: Textual amendment: [S. 390(2)(f)](https://www.legislation.gov.uk/ukpga/2003/21/section/390/2/f) inserted (10.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 177](https://www.legislation.gov.uk/ukpga/2023/50/section/177), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z22)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z22)

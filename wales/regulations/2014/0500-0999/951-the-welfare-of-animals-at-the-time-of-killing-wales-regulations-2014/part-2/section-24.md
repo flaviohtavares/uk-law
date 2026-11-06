@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Fees[^key-7d11b1d7c96593ec2bbef78125423262]
+## 24. Fees[^c-7d11b1d7c96593ec2bbef78125423262]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ Table
 
 ## Annotations
 
-[^key-7d11b1d7c96593ec2bbef78125423262]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2014/951/regulation/24) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-7d11b1d7c96593ec2bbef78125423262]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2014/951/regulation/24) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Retention of property in custody of constable[^key-7948a256ba7559a4bf6d9d2010cb4b06]
+## 24. Retention of property in custody of constable[^c-7948a256ba7559a4bf6d9d2010cb4b06]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7948a256ba7559a4bf6d9d2010cb4b06]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2017/6/section/24) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)
+[^c-7948a256ba7559a4bf6d9d2010cb4b06]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2017/6/section/24) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)

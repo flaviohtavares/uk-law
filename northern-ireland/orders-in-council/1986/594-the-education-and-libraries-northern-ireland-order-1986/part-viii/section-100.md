@@ -22,7 +22,7 @@ summary: ''
 
 Any dispute arising between—
 
-- (a) the Authority[^key-b411148a1ff6ad3f10e8cd22b37183f6] and the trustees or managers of a voluntary school;
+- (a) the Authority[^c-b411148a1ff6ad3f10e8cd22b37183f6] and the trustees or managers of a voluntary school;
 - (b) the Authority and the Board of Governors of a grant‐maintained integrated school;
 - (bb)[^c17009481][^c17009491] the Authority and the governing body of an institution of further education;
 - (c) the Authority and the Council for Catholic Maintained Schools; or
@@ -34,7 +34,7 @@ with respect to the exercise of any power conferred or the performance of any du
 
 [^c18638191]: Textual amendment: [1989 NI 20](https://www.legislation.gov.uk/nisi/1989)
 
-[^key-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c17009481]: Textual amendment: [1997 NI 15](https://www.legislation.gov.uk/nisi/1997)
 

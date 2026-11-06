@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Urgent enforcement order[^key-4265aa7ab182a255ab8ac9197c8593af]
+## 35. Urgent enforcement order[^c-4265aa7ab182a255ab8ac9197c8593af]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4265aa7ab182a255ab8ac9197c8593af]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2012/19/section/35) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-4265aa7ab182a255ab8ac9197c8593af]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2012/19/section/35) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

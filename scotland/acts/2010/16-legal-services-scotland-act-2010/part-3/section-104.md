@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 104. Regulatory schemes[^key-0f39402d1993679da5a29ce0b4fb8222]
+## 104. Regulatory schemes[^c-0f39402d1993679da5a29ce0b4fb8222]
 
 *Extent: S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f39402d1993679da5a29ce0b4fb8222]: Commencement: [S. 104](https://www.legislation.gov.uk/asp/2010/16/section/104) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-0f39402d1993679da5a29ce0b4fb8222]: Commencement: [S. 104](https://www.legislation.gov.uk/asp/2010/16/section/104) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

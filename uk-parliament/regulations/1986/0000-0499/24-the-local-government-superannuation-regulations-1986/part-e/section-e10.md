@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E10. Children's special short-term pension[^key-33b87d3d29c6e73cf969f5a651793d80]
+## E10. Children's special short-term pension[^c-33b87d3d29c6e73cf969f5a651793d80]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ a children's special short-term pension at an annual rate equal to the deceased'
 
 ## Annotations
 
-[^key-33b87d3d29c6e73cf969f5a651793d80]: Commencement: [Reg. E10](https://www.legislation.gov.uk/uksi/1986/24/regulation/E10) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-33b87d3d29c6e73cf969f5a651793d80]: Commencement: [Reg. E10](https://www.legislation.gov.uk/uksi/1986/24/regulation/E10) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

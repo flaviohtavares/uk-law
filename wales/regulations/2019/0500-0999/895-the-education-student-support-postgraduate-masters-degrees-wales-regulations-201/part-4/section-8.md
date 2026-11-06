@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Designation of other courses[^key-4109269bafa00260fb7b298d4dca03c6]
+## 8. Designation of other courses[^c-4109269bafa00260fb7b298d4dca03c6]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4109269bafa00260fb7b298d4dca03c6]: Commencement: Reg. 8 in force at 27.5.2019, see reg. 1(2)
+[^c-4109269bafa00260fb7b298d4dca03c6]: Commencement: Reg. 8 in force at 27.5.2019, see reg. 1(2)

@@ -25,7 +25,7 @@ summary: ''
 - (a) to protect the benefits under occupational pension schemes of, or in respect of, members of such schemes,
 - (b) to protect the benefits under personal pension schemes of, or in respect of, members of such schemes within paragraph (2),
 - (c) to reduce the risk of situations arising which may lead to compensation being payable from the Pension Protection Fund (see Part III),
-- (cza)[^key-3e3cff18f1ce67b116864972ac20f822] in relation to the exercise of its functions under Part 4 only, to minimise any adverse impact on the sustainable growth of an employer,
+- (cza)[^c-3e3cff18f1ce67b116864972ac20f822] in relation to the exercise of its functions under Part 4 only, to minimise any adverse impact on the sustainable growth of an employer,
 - (ca)[^c21175721] to maximise compliance with the duties under Chapter 1 of Part 1 (and the safeguards in sections 50 and 54) of the Pensions (No. 2) Act (Northern Ireland) 2008, and
 - (d) to promote, and to improve understanding of, the good administration of work-based pension schemes.
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3e3cff18f1ce67b116864972ac20f822]: Textual amendment: [Art. 4(1)(cza)](https://www.legislation.gov.uk/nisi/2005/255/article/4/1/cza) inserted (24.6.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 46](https://www.legislation.gov.uk/nia/2015/5/section/46), [53(2)(e)](https://www.legislation.gov.uk/nia/2015/5/section/53/2/e)
+[^c-3e3cff18f1ce67b116864972ac20f822]: Textual amendment: [Art. 4(1)(cza)](https://www.legislation.gov.uk/nisi/2005/255/article/4/1/cza) inserted (24.6.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 46](https://www.legislation.gov.uk/nia/2015/5/section/46), [53(2)(e)](https://www.legislation.gov.uk/nia/2015/5/section/53/2/e)
 
 [^c21175721]: Textual amendment: Art. 4(1)(ca) inserted (16.3.2011) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 63](https://www.legislation.gov.uk/nia/2008/13/section/63), [118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2011/108](https://www.legislation.gov.uk/nisr/2011/108), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2011/108/article/2/1/a)

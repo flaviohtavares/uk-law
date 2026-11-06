@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Pay reference periods for the purposes of sections 20(1)(b) and (c) and 26(4)(b) and (5)(b)[^key-8b9406a45e2a43353eea386680e8d42f]
+## 5. Pay reference periods for the purposes of sections 20(1)(b) and (c) and 26(4)(b) and (5)(b)[^c-8b9406a45e2a43353eea386680e8d42f]
 
 *Extent: N.I.*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b9406a45e2a43353eea386680e8d42f]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2010/122/regulation/5) substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a), [4(3)](https://www.legislation.gov.uk/nisr/2013/243/regulation/4/3)
+[^c-8b9406a45e2a43353eea386680e8d42f]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2010/122/regulation/5) substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a), [4(3)](https://www.legislation.gov.uk/nisr/2013/243/regulation/4/3)

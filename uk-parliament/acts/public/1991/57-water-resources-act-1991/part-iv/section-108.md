@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 108. Schemes for transfer to the appropriate agency of functions in relation to main river.[^key-1b930f6448cdbf8b10e89a667a3e4323]
+## 108. Schemes for transfer to the appropriate agency of functions in relation to main river.[^c-1b930f6448cdbf8b10e89a667a3e4323]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ and the appropriate agency shall prepare such a scheme and submit it to one of t
 
 ## Annotations
 
-[^key-1b930f6448cdbf8b10e89a667a3e4323]: Textual amendment: Words in s. 108 and heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 274(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/274/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-1b930f6448cdbf8b10e89a667a3e4323]: Textual amendment: Words in s. 108 and heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 274(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/274/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

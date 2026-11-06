@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Ranking[^key-167e0ea9ac668a43d7ccb6f66aea75de][^key-e0e43d38f7fae914e393e848a1b888ea][^key-7b42558dc607329ea231e134b27c67bb]
+## 60. Ranking[^c-167e0ea9ac668a43d7ccb6f66aea75de][^c-e0e43d38f7fae914e393e848a1b888ea][^c-7b42558dc607329ea231e134b27c67bb]
 
 *Extent: S*
 
-[^key-7b42558dc607329ea231e134b27c67bb]
+[^c-7b42558dc607329ea231e134b27c67bb]
 
 (1) Subject to the provisions of this section and of any other enactment, the priority in ranking of—
 
@@ -31,7 +31,7 @@ is determined according to their creation, the earlier created having priority o
 
 (2) Where a provider grants two or more statutory pledges over property which is not the property of the provider at the time the pledges are granted, the priority in ranking of the pledges is determined according to the dates on which and times at which they are registered effectively (see sections 91 and 92), the earlier having priority over the later.
 
-(2A)[^key-243c9a84abf2c94234e779c93e537a96] But see also article 13 (ranking of statutory pledges over financial instruments) of the Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 ([S.I. 2025/275 (S. 1)](https://www.legislation.gov.uk/uksi/2025/275)).
+(2A)[^c-243c9a84abf2c94234e779c93e537a96] But see also article 13 (ranking of statutory pledges over financial instruments) of the Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 ([S.I. 2025/275 (S. 1)](https://www.legislation.gov.uk/uksi/2025/275)).
 
 (3) Where property is subject both to a pledge and to a security arising by operation of law, the security arising by operation of law has priority over the pledge.
 
@@ -49,10 +49,10 @@ is determined according to their creation, the earlier created having priority o
 
 ## Annotations
 
-[^key-167e0ea9ac668a43d7ccb6f66aea75de]: Commencement: S. 60 not in force at Royal Assent, see [s. 121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2)
+[^c-167e0ea9ac668a43d7ccb6f66aea75de]: Commencement: S. 60 not in force at Royal Assent, see [s. 121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2)
 
-[^key-e0e43d38f7fae914e393e848a1b888ea]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2023/3/section/60) in force at 1.4.2025 by [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
+[^c-e0e43d38f7fae914e393e848a1b888ea]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2023/3/section/60) in force at 1.4.2025 by [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
 
-[^key-7b42558dc607329ea231e134b27c67bb]: Modification: Pt. 2 extended (with modifications) (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/275)](https://www.legislation.gov.uk/uksi/2025/275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/275/article/1/2), [5](https://www.legislation.gov.uk/uksi/2025/275/article/5) (with [arts. 6-20](https://www.legislation.gov.uk/uksi/2025/275/article/6))
+[^c-7b42558dc607329ea231e134b27c67bb]: Modification: Pt. 2 extended (with modifications) (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/275)](https://www.legislation.gov.uk/uksi/2025/275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/275/article/1/2), [5](https://www.legislation.gov.uk/uksi/2025/275/article/5) (with [arts. 6-20](https://www.legislation.gov.uk/uksi/2025/275/article/6))
 
-[^key-243c9a84abf2c94234e779c93e537a96]: Textual amendment: S. 60(2A) inserted (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/275)](https://www.legislation.gov.uk/uksi/2025/275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/275/article/1/2), [22(10)](https://www.legislation.gov.uk/uksi/2025/275/article/22/10) (with [art. 20](https://www.legislation.gov.uk/uksi/2025/275/article/20))
+[^c-243c9a84abf2c94234e779c93e537a96]: Textual amendment: S. 60(2A) inserted (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/275)](https://www.legislation.gov.uk/uksi/2025/275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/275/article/1/2), [22(10)](https://www.legislation.gov.uk/uksi/2025/275/article/22/10) (with [art. 20](https://www.legislation.gov.uk/uksi/2025/275/article/20))

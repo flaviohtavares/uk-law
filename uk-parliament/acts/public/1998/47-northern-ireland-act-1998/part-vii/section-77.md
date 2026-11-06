@@ -34,12 +34,12 @@ summary: ''
 - (b) that he is qualified to act, serve or be employed in a capacity; or
 - (c) that he is not disqualified from acting, serving or being employed in a capacity.
 
-(3A)[^key-af8465a97575014024d0f85e0fb4c92b] Subsection (1) is subject to the requirement in section 40A for a member of the Assembly to give the undertaking set out there.
+(3A)[^c-af8465a97575014024d0f85e0fb4c92b] Subsection (1) is subject to the requirement in section 40A for a member of the Assembly to give the undertaking set out there.
 
 (4) This section applies to—
 
 - (a) the Assembly;
-- (b)[^key-680ce747db403b141b1c450f44a8ec64] any authority (other than a Northern Ireland department, the board of governors of a grant-aided school, the Comptroller and Auditor General, a general health care provider or an independent provider of health and social care) listed in Schedule 3 to the Public Services Ombudsman Act (Northern Ireland) 2016 (listed authorities).
+- (b)[^c-680ce747db403b141b1c450f44a8ec64] any authority (other than a Northern Ireland department, the board of governors of a grant-aided school, the Comptroller and Auditor General, a general health care provider or an independent provider of health and social care) listed in Schedule 3 to the Public Services Ombudsman Act (Northern Ireland) 2016 (listed authorities).
 
 (5) Subsections (1) to (3) apply with the necessary modifications to a Minister and a Northern Ireland department.
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-af8465a97575014024d0f85e0fb4c92b]: Textual amendment: S. 77(3A) inserted (4.5.2016) by [Northern Ireland (Stormont Agreement and Implementation Plan) Act 2016 (c. 13)](https://www.legislation.gov.uk/ukpga/2016/13), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2016/13/section/8/2), [11(2)](https://www.legislation.gov.uk/ukpga/2016/13/section/11/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2016/13/schedule/2))
+[^c-af8465a97575014024d0f85e0fb4c92b]: Textual amendment: S. 77(3A) inserted (4.5.2016) by [Northern Ireland (Stormont Agreement and Implementation Plan) Act 2016 (c. 13)](https://www.legislation.gov.uk/ukpga/2016/13), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2016/13/section/8/2), [11(2)](https://www.legislation.gov.uk/ukpga/2016/13/section/11/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2016/13/schedule/2))
 
-[^key-680ce747db403b141b1c450f44a8ec64]: Textual amendment: S. 77(4)(b) substituted for s. 77(4)(b)(c)(d)(e) (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 8 para. 7](https://www.legislation.gov.uk/nia/2016/4/schedule/8/paragraph/7)
+[^c-680ce747db403b141b1c450f44a8ec64]: Textual amendment: S. 77(4)(b) substituted for s. 77(4)(b)(c)(d)(e) (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 8 para. 7](https://www.legislation.gov.uk/nia/2016/4/schedule/8/paragraph/7)

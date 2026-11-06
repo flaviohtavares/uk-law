@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Miscellaneous licensing provisions[^key-4298301eb17599a94f721c4425d2ec3d]
+## 56. Miscellaneous licensing provisions[^c-4298301eb17599a94f721c4425d2ec3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4298301eb17599a94f721c4425d2ec3d]: Commencement: [Art. 56](https://www.legislation.gov.uk/uksi/2013/2870/article/56) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-4298301eb17599a94f721c4425d2ec3d]: Commencement: [Art. 56](https://www.legislation.gov.uk/uksi/2013/2870/article/56) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 935. PEP and ISA managers[^key-bfe279f1537099826a474d8d1e78bac4]
+## 935. PEP and ISA managers[^c-bfe279f1537099826a474d8d1e78bac4]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bfe279f1537099826a474d8d1e78bac4]: Modification: S. 935 applied (with modifications) by S.I. 2004/1450, reg. 24(c) (as amended (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [12(d)](https://www.legislation.gov.uk/uksi/2010/582/regulation/12/d))
+[^c-bfe279f1537099826a474d8d1e78bac4]: Modification: S. 935 applied (with modifications) by S.I. 2004/1450, reg. 24(c) (as amended (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [12(d)](https://www.legislation.gov.uk/uksi/2010/582/regulation/12/d))

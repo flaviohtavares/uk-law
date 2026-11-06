@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Complaints procedure operated by the regulator[^key-2175e1e2fa73651ef079d90b6de1105d][^key-901bc55d096fb9d9525b7f2352b120e1]
+## 94. Complaints procedure operated by the regulator[^c-2175e1e2fa73651ef079d90b6de1105d][^c-901bc55d096fb9d9525b7f2352b120e1]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2175e1e2fa73651ef079d90b6de1105d]: Commencement: S. 94 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-2175e1e2fa73651ef079d90b6de1105d]: Commencement: S. 94 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-901bc55d096fb9d9525b7f2352b120e1]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2022/30/section/94) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/o)
+[^c-901bc55d096fb9d9525b7f2352b120e1]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2022/30/section/94) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/o)

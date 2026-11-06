@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 139. Basis of determination[^key-3955c0aa6b145c0030f115e96a0cec53]
+## 139. Basis of determination[^c-3955c0aa6b145c0030f115e96a0cec53]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3955c0aa6b145c0030f115e96a0cec53]: Commencement: Reg. 139 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-3955c0aa6b145c0030f115e96a0cec53]: Commencement: Reg. 139 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 128. Qualifying institutions for student complaints scheme[^key-7ff4662dc6bb0343ff6aa0f59eeeab0e][^key-8f5bf59fa11c9c81f90ab6fb786d1cd0]
+## 128. Qualifying institutions for student complaints scheme[^c-7ff4662dc6bb0343ff6aa0f59eeeab0e][^c-8f5bf59fa11c9c81f90ab6fb786d1cd0]
 
 *Extent: E+W*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7ff4662dc6bb0343ff6aa0f59eeeab0e]: Commencement: S. 128 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-7ff4662dc6bb0343ff6aa0f59eeeab0e]: Commencement: S. 128 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-8f5bf59fa11c9c81f90ab6fb786d1cd0]: Commencement: [S. 128](https://www.legislation.gov.uk/asc/2022/1/section/128) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(nn)](https://www.legislation.gov.uk/wsi/2026/62/article/2/nn)
+[^c-8f5bf59fa11c9c81f90ab6fb786d1cd0]: Commencement: [S. 128](https://www.legislation.gov.uk/asc/2022/1/section/128) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(nn)](https://www.legislation.gov.uk/wsi/2026/62/article/2/nn)

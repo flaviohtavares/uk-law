@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 57. Public assemblies[^key-47cb1ac0415d91485e399c442c42e565]
+## 57. Public assemblies[^c-47cb1ac0415d91485e399c442c42e565]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In section 16 of the Public Order Act 1986 (c. 64) (which defines “**public as
 
 ## Annotations
 
-[^key-47cb1ac0415d91485e399c442c42e565]: Commencement: S. 57 in force at 20.1.2004 by [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2003/3300/article/2/e/i)
+[^c-47cb1ac0415d91485e399c442c42e565]: Commencement: S. 57 in force at 20.1.2004 by [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2003/3300/article/2/e/i)

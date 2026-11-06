@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Allocation of individual schools budget[^key-6eaf40340a87b2822e297d15a8fa57b7]
+## 8. Allocation of individual schools budget[^c-6eaf40340a87b2822e297d15a8fa57b7]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6eaf40340a87b2822e297d15a8fa57b7]: Commencement: Reg. 8 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-6eaf40340a87b2822e297d15a8fa57b7]: Commencement: Reg. 8 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)

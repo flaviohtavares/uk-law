@@ -22,206 +22,206 @@ summary: ''
 
 Section 52
 
-### PART 1 — General[^key-a7cbab801f2dc9826d97f54c673da532]
+### PART 1 — General[^c-a7cbab801f2dc9826d97f54c673da532]
 
 **No longer in force.**
 
-#### Interpretation[^key-a7cbab801f2dc9826d97f54c673da532]
+#### Interpretation[^c-a7cbab801f2dc9826d97f54c673da532]
 
-**1.**[^key-a7cbab801f2dc9826d97f54c673da532] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a7cbab801f2dc9826d97f54c673da532] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Disapplication to the Parliamentary Estate[^key-a7cbab801f2dc9826d97f54c673da532]
+#### Disapplication to the Parliamentary Estate[^c-a7cbab801f2dc9826d97f54c673da532]
 
-**2.**[^key-a7cbab801f2dc9826d97f54c673da532] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a7cbab801f2dc9826d97f54c673da532] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Powers relating to events, gatherings and premises in England[^key-e1ff4252177d2449c793497cd829e37e]
-
-**No longer in force.**
-
-#### Declaration of threat to public health in England due to coronavirus[^key-e1ff4252177d2449c793497cd829e37e]
-
-**3.**[^key-e1ff4252177d2449c793497cd829e37e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**4.**[^key-e1ff4252177d2449c793497cd829e37e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Power to prohibit or otherwise restrict events or gatherings in England[^key-e1ff4252177d2449c793497cd829e37e]
-
-**5.**[^key-e1ff4252177d2449c793497cd829e37e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Power to close premises in England or impose restrictions on persons entering or remaining in them[^key-e1ff4252177d2449c793497cd829e37e]
-
-**6.**[^key-e1ff4252177d2449c793497cd829e37e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Variations and revocations[^key-e1ff4252177d2449c793497cd829e37e]
-
-**7.**[^key-e1ff4252177d2449c793497cd829e37e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Procedure[^key-e1ff4252177d2449c793497cd829e37e]
-
-**8.**[^key-e1ff4252177d2449c793497cd829e37e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Offences[^key-e1ff4252177d2449c793497cd829e37e]
-
-**9.**[^key-e1ff4252177d2449c793497cd829e37e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**10.**[^key-e1ff4252177d2449c793497cd829e37e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Enforcement and prosecutions[^key-e1ff4252177d2449c793497cd829e37e]
-
-**11.**[^key-e1ff4252177d2449c793497cd829e37e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### End of public health response period[^key-e1ff4252177d2449c793497cd829e37e]
-
-**12.**[^key-e1ff4252177d2449c793497cd829e37e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART 3 — Powers relating to events, gatherings and premises in Scotland[^key-6b59b50977bd27825eb82272c7439ab6]
+### PART 2 — Powers relating to events, gatherings and premises in England[^c-e1ff4252177d2449c793497cd829e37e]
 
 **No longer in force.**
 
-#### Declaration of threat to public health in Scotland due to coronavirus[^key-6b59b50977bd27825eb82272c7439ab6]
+#### Declaration of threat to public health in England due to coronavirus[^c-e1ff4252177d2449c793497cd829e37e]
 
-**13.**[^key-6b59b50977bd27825eb82272c7439ab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e1ff4252177d2449c793497cd829e37e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-6b59b50977bd27825eb82272c7439ab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e1ff4252177d2449c793497cd829e37e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Power to prohibit or otherwise restrict events or gatherings in Scotland[^key-6b59b50977bd27825eb82272c7439ab6]
+#### Power to prohibit or otherwise restrict events or gatherings in England[^c-e1ff4252177d2449c793497cd829e37e]
 
-**15.**[^key-6b59b50977bd27825eb82272c7439ab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e1ff4252177d2449c793497cd829e37e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Power to close premises in Scotland or impose restrictions on persons entering or remaining in them[^key-6b59b50977bd27825eb82272c7439ab6]
+#### Power to close premises in England or impose restrictions on persons entering or remaining in them[^c-e1ff4252177d2449c793497cd829e37e]
 
-**16.**[^key-6b59b50977bd27825eb82272c7439ab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-e1ff4252177d2449c793497cd829e37e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Variations and revocations[^key-6b59b50977bd27825eb82272c7439ab6]
+#### Variations and revocations[^c-e1ff4252177d2449c793497cd829e37e]
 
-**17.**[^key-6b59b50977bd27825eb82272c7439ab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e1ff4252177d2449c793497cd829e37e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Procedure[^key-6b59b50977bd27825eb82272c7439ab6]
+#### Procedure[^c-e1ff4252177d2449c793497cd829e37e]
 
-**18.**[^key-6b59b50977bd27825eb82272c7439ab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-e1ff4252177d2449c793497cd829e37e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Enforcement[^key-6b59b50977bd27825eb82272c7439ab6]
+#### Offences[^c-e1ff4252177d2449c793497cd829e37e]
 
-**19.**[^key-6b59b50977bd27825eb82272c7439ab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-e1ff4252177d2449c793497cd829e37e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Constables[^key-6b59b50977bd27825eb82272c7439ab6]
+**10.**[^c-e1ff4252177d2449c793497cd829e37e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-6b59b50977bd27825eb82272c7439ab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### Enforcement and prosecutions[^c-e1ff4252177d2449c793497cd829e37e]
 
-#### Offences[^key-6b59b50977bd27825eb82272c7439ab6]
+**11.**[^c-e1ff4252177d2449c793497cd829e37e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-6b59b50977bd27825eb82272c7439ab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### End of public health response period[^c-e1ff4252177d2449c793497cd829e37e]
 
-**22.**[^key-6b59b50977bd27825eb82272c7439ab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-e1ff4252177d2449c793497cd829e37e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Compensation[^key-6b59b50977bd27825eb82272c7439ab6]
-
-**23.**[^key-6b59b50977bd27825eb82272c7439ab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### End of public health response period[^key-6b59b50977bd27825eb82272c7439ab6]
-
-**24.**[^key-6b59b50977bd27825eb82272c7439ab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Review[^key-6b59b50977bd27825eb82272c7439ab6]
-
-**25.**[^key-6b59b50977bd27825eb82272c7439ab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART 4 — Powers relating to events, gatherings and premises in Wales[^key-b4bd254b75bebcf72293ecae4c495182]
+### PART 3 — Powers relating to events, gatherings and premises in Scotland[^c-6b59b50977bd27825eb82272c7439ab6]
 
 **No longer in force.**
 
-#### Declaration of threat to public health in Wales due to coronavirus[^key-b4bd254b75bebcf72293ecae4c495182]
+#### Declaration of threat to public health in Scotland due to coronavirus[^c-6b59b50977bd27825eb82272c7439ab6]
 
-**26.**[^key-b4bd254b75bebcf72293ecae4c495182] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-6b59b50977bd27825eb82272c7439ab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.**[^key-b4bd254b75bebcf72293ecae4c495182] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-6b59b50977bd27825eb82272c7439ab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Power to prohibit or otherwise restrict events or gatherings in Wales[^key-b4bd254b75bebcf72293ecae4c495182]
+#### Power to prohibit or otherwise restrict events or gatherings in Scotland[^c-6b59b50977bd27825eb82272c7439ab6]
 
-**28.**[^key-b4bd254b75bebcf72293ecae4c495182] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-6b59b50977bd27825eb82272c7439ab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Power to close premises in Wales or impose restrictions on persons entering or remaining in them[^key-b4bd254b75bebcf72293ecae4c495182]
+#### Power to close premises in Scotland or impose restrictions on persons entering or remaining in them[^c-6b59b50977bd27825eb82272c7439ab6]
 
-**29.**[^key-b4bd254b75bebcf72293ecae4c495182] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-6b59b50977bd27825eb82272c7439ab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Variations and revocations[^key-b4bd254b75bebcf72293ecae4c495182]
+#### Variations and revocations[^c-6b59b50977bd27825eb82272c7439ab6]
 
-**30.**[^key-b4bd254b75bebcf72293ecae4c495182] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-6b59b50977bd27825eb82272c7439ab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Procedure[^key-b4bd254b75bebcf72293ecae4c495182]
+#### Procedure[^c-6b59b50977bd27825eb82272c7439ab6]
 
-**31.**[^key-b4bd254b75bebcf72293ecae4c495182] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-6b59b50977bd27825eb82272c7439ab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Offences[^key-b4bd254b75bebcf72293ecae4c495182]
+#### Enforcement[^c-6b59b50977bd27825eb82272c7439ab6]
 
-**32.**[^key-b4bd254b75bebcf72293ecae4c495182] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-6b59b50977bd27825eb82272c7439ab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**33.**[^key-b4bd254b75bebcf72293ecae4c495182] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### Constables[^c-6b59b50977bd27825eb82272c7439ab6]
 
-#### Enforcement and prosecutions[^key-b4bd254b75bebcf72293ecae4c495182]
+**20.**[^c-6b59b50977bd27825eb82272c7439ab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**34.**[^key-b4bd254b75bebcf72293ecae4c495182] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### Offences[^c-6b59b50977bd27825eb82272c7439ab6]
 
-#### Compensation[^key-b4bd254b75bebcf72293ecae4c495182]
+**21.**[^c-6b59b50977bd27825eb82272c7439ab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**35.**[^key-b4bd254b75bebcf72293ecae4c495182] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-6b59b50977bd27825eb82272c7439ab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### End of public health response period[^key-b4bd254b75bebcf72293ecae4c495182]
+#### Compensation[^c-6b59b50977bd27825eb82272c7439ab6]
 
-**36.**[^key-b4bd254b75bebcf72293ecae4c495182] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-6b59b50977bd27825eb82272c7439ab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 5 — Powers relating to events, gatherings and premises in Northern Ireland[^key-169133325a1f65361158cab83f4deab7]
+#### End of public health response period[^c-6b59b50977bd27825eb82272c7439ab6]
+
+**24.**[^c-6b59b50977bd27825eb82272c7439ab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Review[^c-6b59b50977bd27825eb82272c7439ab6]
+
+**25.**[^c-6b59b50977bd27825eb82272c7439ab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 4 — Powers relating to events, gatherings and premises in Wales[^c-b4bd254b75bebcf72293ecae4c495182]
 
 **No longer in force.**
 
-#### Declaration of threat to public health in Northern Ireland due to coronavirus[^key-169133325a1f65361158cab83f4deab7]
+#### Declaration of threat to public health in Wales due to coronavirus[^c-b4bd254b75bebcf72293ecae4c495182]
 
-**37.**[^key-169133325a1f65361158cab83f4deab7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-b4bd254b75bebcf72293ecae4c495182] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**38.**[^key-169133325a1f65361158cab83f4deab7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-b4bd254b75bebcf72293ecae4c495182] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Power to prohibit or otherwise restrict events or gatherings in Northern Ireland[^key-169133325a1f65361158cab83f4deab7]
+#### Power to prohibit or otherwise restrict events or gatherings in Wales[^c-b4bd254b75bebcf72293ecae4c495182]
 
-**39.**[^key-169133325a1f65361158cab83f4deab7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-b4bd254b75bebcf72293ecae4c495182] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Power to close premises in Northern Ireland or impose restrictions on persons entering or remaining in them[^key-169133325a1f65361158cab83f4deab7]
+#### Power to close premises in Wales or impose restrictions on persons entering or remaining in them[^c-b4bd254b75bebcf72293ecae4c495182]
 
-**40.**[^key-169133325a1f65361158cab83f4deab7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-b4bd254b75bebcf72293ecae4c495182] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Variations and revocations[^key-169133325a1f65361158cab83f4deab7]
+#### Variations and revocations[^c-b4bd254b75bebcf72293ecae4c495182]
 
-**41.**[^key-169133325a1f65361158cab83f4deab7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-b4bd254b75bebcf72293ecae4c495182] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Procedure[^key-169133325a1f65361158cab83f4deab7]
+#### Procedure[^c-b4bd254b75bebcf72293ecae4c495182]
 
-**42.**[^key-169133325a1f65361158cab83f4deab7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-b4bd254b75bebcf72293ecae4c495182] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Enforcement[^key-169133325a1f65361158cab83f4deab7]
+#### Offences[^c-b4bd254b75bebcf72293ecae4c495182]
 
-**43.**[^key-169133325a1f65361158cab83f4deab7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-b4bd254b75bebcf72293ecae4c495182] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Offences[^key-169133325a1f65361158cab83f4deab7]
+**33.**[^c-b4bd254b75bebcf72293ecae4c495182] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**44.**[^key-169133325a1f65361158cab83f4deab7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### Enforcement and prosecutions[^c-b4bd254b75bebcf72293ecae4c495182]
 
-**45.**[^key-169133325a1f65361158cab83f4deab7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-b4bd254b75bebcf72293ecae4c495182] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Compensation[^key-169133325a1f65361158cab83f4deab7]
+#### Compensation[^c-b4bd254b75bebcf72293ecae4c495182]
 
-**46.**[^key-169133325a1f65361158cab83f4deab7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**35.**[^c-b4bd254b75bebcf72293ecae4c495182] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### End of public health response period[^key-169133325a1f65361158cab83f4deab7]
+#### End of public health response period[^c-b4bd254b75bebcf72293ecae4c495182]
 
-**47.**[^key-169133325a1f65361158cab83f4deab7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-b4bd254b75bebcf72293ecae4c495182] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 5 — Powers relating to events, gatherings and premises in Northern Ireland[^c-169133325a1f65361158cab83f4deab7]
+
+**No longer in force.**
+
+#### Declaration of threat to public health in Northern Ireland due to coronavirus[^c-169133325a1f65361158cab83f4deab7]
+
+**37.**[^c-169133325a1f65361158cab83f4deab7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**38.**[^c-169133325a1f65361158cab83f4deab7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Power to prohibit or otherwise restrict events or gatherings in Northern Ireland[^c-169133325a1f65361158cab83f4deab7]
+
+**39.**[^c-169133325a1f65361158cab83f4deab7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Power to close premises in Northern Ireland or impose restrictions on persons entering or remaining in them[^c-169133325a1f65361158cab83f4deab7]
+
+**40.**[^c-169133325a1f65361158cab83f4deab7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Variations and revocations[^c-169133325a1f65361158cab83f4deab7]
+
+**41.**[^c-169133325a1f65361158cab83f4deab7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Procedure[^c-169133325a1f65361158cab83f4deab7]
+
+**42.**[^c-169133325a1f65361158cab83f4deab7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Enforcement[^c-169133325a1f65361158cab83f4deab7]
+
+**43.**[^c-169133325a1f65361158cab83f4deab7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Offences[^c-169133325a1f65361158cab83f4deab7]
+
+**44.**[^c-169133325a1f65361158cab83f4deab7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**45.**[^c-169133325a1f65361158cab83f4deab7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Compensation[^c-169133325a1f65361158cab83f4deab7]
+
+**46.**[^c-169133325a1f65361158cab83f4deab7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### End of public health response period[^c-169133325a1f65361158cab83f4deab7]
+
+**47.**[^c-169133325a1f65361158cab83f4deab7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a7cbab801f2dc9826d97f54c673da532]: Textual amendment: Sch. 22 Pt. 1 expires (25.3.2022(25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-a7cbab801f2dc9826d97f54c673da532]: Textual amendment: Sch. 22 Pt. 1 expires (25.3.2022(25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
 
-[^key-e1ff4252177d2449c793497cd829e37e]: Textual amendment: Sch. 22 Pt. 2 expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-e1ff4252177d2449c793497cd829e37e]: Textual amendment: Sch. 22 Pt. 2 expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
 
-[^key-6b59b50977bd27825eb82272c7439ab6]: Textual amendment: Sch. 22 Pt. 3 expires (S.) (12.12.2021) by [The Coronavirus Act 2020 (Early Expiry of Provisions) (Scotland) Regulations 2021 (S.S.I. 2021/439)](https://www.legislation.gov.uk/ssi/2021/439), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/439/regulation/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2021/439/regulation/2/b)
+[^c-6b59b50977bd27825eb82272c7439ab6]: Textual amendment: Sch. 22 Pt. 3 expires (S.) (12.12.2021) by [The Coronavirus Act 2020 (Early Expiry of Provisions) (Scotland) Regulations 2021 (S.S.I. 2021/439)](https://www.legislation.gov.uk/ssi/2021/439), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/439/regulation/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2021/439/regulation/2/b)
 
-[^key-b4bd254b75bebcf72293ecae4c495182]: Textual amendment: Sch. 22 Pt. 4 expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-b4bd254b75bebcf72293ecae4c495182]: Textual amendment: Sch. 22 Pt. 4 expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
 
-[^key-169133325a1f65361158cab83f4deab7]: Textual amendment: Sch. 22 Pt. 5 expires (N.I.) (9.12.2021) by [The Coronavirus Act 2020 (Early Expiry) (No. 2) Regulations 2021 (S.I. 2021/1399)](https://www.legislation.gov.uk/uksi/2021/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1399/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2021/1399/regulation/6)
+[^c-169133325a1f65361158cab83f4deab7]: Textual amendment: Sch. 22 Pt. 5 expires (N.I.) (9.12.2021) by [The Coronavirus Act 2020 (Early Expiry) (No. 2) Regulations 2021 (S.I. 2021/1399)](https://www.legislation.gov.uk/uksi/2021/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1399/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2021/1399/regulation/6)

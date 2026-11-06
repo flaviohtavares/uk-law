@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**250.**[^key-bda2e45ddd94133ade0756807e7614a9] Omit Schedule 15 (further provision about local social services authorities).
+**250.**[^c-bda2e45ddd94133ade0756807e7614a9] Omit Schedule 15 (further provision about local social services authorities).
 
 ## Annotations
 
-[^key-bda2e45ddd94133ade0756807e7614a9]: Commencement: Reg. 250 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-bda2e45ddd94133ade0756807e7614a9]: Commencement: Reg. 250 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

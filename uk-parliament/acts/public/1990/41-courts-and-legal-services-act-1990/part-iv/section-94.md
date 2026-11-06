@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-60d060119d1dd5e4dff53314066d7339] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-60d060119d1dd5e4dff53314066d7339] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-60d060119d1dd5e4dff53314066d7339] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-60d060119d1dd5e4dff53314066d7339] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After section 13A of that Act there shall be inserted the following section—
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60d060119d1dd5e4dff53314066d7339]: Textual amendment: [S. 94(1)](https://www.legislation.gov.uk/ukpga/1990/41/section/94/1)[(2)](https://www.legislation.gov.uk/ukpga/1990/41/section/94/2) repealed (1.10.2011) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(h)(iv)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/h/iv)
+[^c-60d060119d1dd5e4dff53314066d7339]: Textual amendment: [S. 94(1)](https://www.legislation.gov.uk/ukpga/1990/41/section/94/1)[(2)](https://www.legislation.gov.uk/ukpga/1990/41/section/94/2) repealed (1.10.2011) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(h)(iv)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/h/iv)

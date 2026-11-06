@@ -79,7 +79,7 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 (4) In paragraph 3B (calculation of lump sum)—
 
-- (a) at the end of sub-paragraph (1), there shall be added the words “ or, if greater, the amount equal to the total amount of Category A or Category B retirement pension (excluding any increase under section 83, 84 or 85)[^key-e2d7a59722d13884390888b1e7ff90e4]which would have been payable to the person during the period of 12 months ending with the last day of the period of deferment if his entitlement had not been deferred ”;
+- (a) at the end of sub-paragraph (1), there shall be added the words “ or, if greater, the amount equal to the total amount of Category A or Category B retirement pension (excluding any increase under section 83, 84 or 85)[^c-e2d7a59722d13884390888b1e7ff90e4]which would have been payable to the person during the period of 12 months ending with the last day of the period of deferment if his entitlement had not been deferred ”;
 - (b) in the definition of “accrual period” in sub-paragraph (2), for the words “a prescribed day of the week”, there shall be substituted the words “ the day of the week on which the person's retirement pension would have been payable had his entitlement not been deferred ”;
 
 (5) In paragraph 3C (choice between increase of pension and lump sum where pensioner's deceased spouse has deferred entitlement)—
@@ -93,7 +93,7 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 (6) In paragraph 7B (calculation of lump sum)—
 
-- (a)[^key-0ac7e4de0a8e965bb272fd42ac0c1545] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-0ac7e4de0a8e965bb272fd42ac0c1545] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in the definition of “accrual period” in sub-paragraph (2), for the words “a prescribed day of the week”, there shall be substituted the words “ the day of the week on which S's retirement pension would have been payable had his entitlement not been deferred ”.
 
 ## 3. Modification of Schedule 5A to the Act
@@ -156,6 +156,6 @@ A full Regulatory Impact Assessment has not been produced for this Instrument as
 
 [^c1082898]: Marginal citation: All the provisions of Schedule 5 that are being modified were inserted by Schedule 11 to the Pensions Act 2004.
 
-[^key-e2d7a59722d13884390888b1e7ff90e4]: Textual amendment: Words in reg. 2(4)(a) inserted (6.4.2006) by [Social Security (Deferral of Retirement Pensions etc.) Regulations 2006 (S.I. 2006/516)](https://www.legislation.gov.uk/uksi/2006/516), [regs. 1](https://www.legislation.gov.uk/uksi/2006/516/regulation/1), [3](https://www.legislation.gov.uk/uksi/2006/516/regulation/3)
+[^c-e2d7a59722d13884390888b1e7ff90e4]: Textual amendment: Words in reg. 2(4)(a) inserted (6.4.2006) by [Social Security (Deferral of Retirement Pensions etc.) Regulations 2006 (S.I. 2006/516)](https://www.legislation.gov.uk/uksi/2006/516), [regs. 1](https://www.legislation.gov.uk/uksi/2006/516/regulation/1), [3](https://www.legislation.gov.uk/uksi/2006/516/regulation/3)
 
-[^key-0ac7e4de0a8e965bb272fd42ac0c1545]: Textual amendment: Reg. 2(6)(a) omitted (6.4.2006) by virtue of [Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations 2005 (S.I. 2005/2677)](https://www.legislation.gov.uk/uksi/2005/2677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2005/2677/regulation/6)
+[^c-0ac7e4de0a8e965bb272fd42ac0c1545]: Textual amendment: Reg. 2(6)(a) omitted (6.4.2006) by virtue of [Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations 2005 (S.I. 2005/2677)](https://www.legislation.gov.uk/uksi/2005/2677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2005/2677/regulation/6)

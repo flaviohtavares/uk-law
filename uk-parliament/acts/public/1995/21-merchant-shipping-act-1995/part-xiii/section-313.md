@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 313. Definitions.[^c14529511][^key-919a2dc9a94210189d636f2e947b8ea3][^key-7c7d49222f40671f0e89414cc1c26c47]
+## 313. Definitions.[^c14529511][^c-919a2dc9a94210189d636f2e947b8ea3][^c-7c7d49222f40671f0e89414cc1c26c47]
 
 *Extent: E+W+S+N.I.*
 
@@ -79,9 +79,9 @@ summary: ''
 
     S. 313 extended (with modifications) to Guernsey (11.3.1998) by 1998/260, arts. 2, 3, Sch. 1
 
-[^key-919a2dc9a94210189d636f2e947b8ea3]: Modification: [S. 313](https://www.legislation.gov.uk/ukpga/1995/21/section/313) applied (30.3.2004) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [s. 89(2)](https://www.legislation.gov.uk/ukpga/2003/20/section/89/2); [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(l)](https://www.legislation.gov.uk/uksi/2004/827/article/3/l)
+[^c-919a2dc9a94210189d636f2e947b8ea3]: Modification: [S. 313](https://www.legislation.gov.uk/ukpga/1995/21/section/313) applied (30.3.2004) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [s. 89(2)](https://www.legislation.gov.uk/ukpga/2003/20/section/89/2); [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(l)](https://www.legislation.gov.uk/uksi/2004/827/article/3/l)
 
-[^key-7c7d49222f40671f0e89414cc1c26c47]: Modification: [S. 313](https://www.legislation.gov.uk/ukpga/1995/21/section/313) applied (with modifications) (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2023/35/article/2/4)
+[^c-7c7d49222f40671f0e89414cc1c26c47]: Modification: [S. 313](https://www.legislation.gov.uk/ukpga/1995/21/section/313) applied (with modifications) (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2023/35/article/2/4)
 
 [^c14529521]: Marginal citation: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 121. Ineffective provisions of approved Welsh apprenticeship agreements[^key-b661d26204245cc7520ac0098619f881]
+## 121. Ineffective provisions of approved Welsh apprenticeship agreements[^c-b661d26204245cc7520ac0098619f881]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ the other provision is to be treated as having no effect.
 
 ## Annotations
 
-[^key-b661d26204245cc7520ac0098619f881]: Commencement: S. 121 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-b661d26204245cc7520ac0098619f881]: Commencement: S. 121 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)

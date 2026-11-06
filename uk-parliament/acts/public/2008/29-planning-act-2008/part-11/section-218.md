@@ -66,7 +66,7 @@ summary: ''
 
 (10) The regulations may not authorise entry to a private dwelling without a warrant issued by a justice of the peace.
 
-(11)[^key-50038081ceff5951493c5424bda845ac] Regulations under this section creating a criminal offence may not provide for—
+(11)[^c-50038081ceff5951493c5424bda845ac] Regulations under this section creating a criminal offence may not provide for—
 
 - (a) imprisonment for a term exceeding the maximum term for summary offences, on summary conviction for an offence triable summarily only,
 - (b) imprisonment for a term exceeding the general limit in a magistrates’ court, on summary conviction for an offence triable either way, or
@@ -81,4 +81,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50038081ceff5951493c5424bda845ac]: Textual amendment: [S. 218(11)](https://www.legislation.gov.uk/ukpga/2008/29/section/218/11)[(12)](https://www.legislation.gov.uk/ukpga/2008/29/section/218/12) substituted (31.1.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 140(1)](https://www.legislation.gov.uk/ukpga/2023/55/section/140/1), [255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/h)
+[^c-50038081ceff5951493c5424bda845ac]: Textual amendment: [S. 218(11)](https://www.legislation.gov.uk/ukpga/2008/29/section/218/11)[(12)](https://www.legislation.gov.uk/ukpga/2008/29/section/218/12) substituted (31.1.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 140(1)](https://www.legislation.gov.uk/ukpga/2023/55/section/140/1), [255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/h)

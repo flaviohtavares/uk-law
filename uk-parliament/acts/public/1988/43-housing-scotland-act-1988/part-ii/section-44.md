@@ -29,7 +29,7 @@ summary: ''
 
 (3) Any reference in subsection (2) above to a variation affecting the amount of the rent which, under a contract, is payable for a dwelling does not include a reference to—
 
-- (a) a reduction or increase effected under section 66 of the Rent (Scotland) Act 1984 (power of the First-tier Tribunal[^key-2d5c133890edf6fabc7dabdc2d5f071d]); or
+- (a) a reduction or increase effected under section 66 of the Rent (Scotland) Act 1984 (power of the First-tier Tribunal[^c-2d5c133890edf6fabc7dabdc2d5f071d]); or
 - (b) a variation which is made by the parties and has the effect of making the rent expressed to be payable under the contract the same as the rent for the dwelling which is entered in the register under section 67 of the Rent (Scotland) Act 1984.
 
 (4) Section 70(2) of the Rent (Scotland) Act 1984 (no cancellation of registration of rent until after 3 years) shall cease to have effect.
@@ -40,4 +40,4 @@ summary: ''
 
 [^c10515561]: Marginal citation: [1984 c. 58](https://www.legislation.gov.uk/ukpga/1984/58).
 
-[^key-2d5c133890edf6fabc7dabdc2d5f071d]: Textual amendment: Words in s. 44(3)(a) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337)](https://www.legislation.gov.uk/ssi/2016/337), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2), [Sch. 2 para. 2(12)](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/2/12) (with [Sch. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1))
+[^c-2d5c133890edf6fabc7dabdc2d5f071d]: Textual amendment: Words in s. 44(3)(a) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337)](https://www.legislation.gov.uk/ssi/2016/337), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2), [Sch. 2 para. 2(12)](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/2/12) (with [Sch. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1))

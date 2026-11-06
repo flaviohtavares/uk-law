@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Discriminatory terms in a tenancy relating to children or benefits status[^key-5c26d87bd3d715e0efdc5256e221308f][^key-aba3a2859a8c159a459409eaf748d5de]
+## 35. Discriminatory terms in a tenancy relating to children or benefits status[^c-5c26d87bd3d715e0efdc5256e221308f][^c-aba3a2859a8c159a459409eaf748d5de]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ and the provision in the tenancy is a means of preventing the insured from breac
 
 ## Annotations
 
-[^key-5c26d87bd3d715e0efdc5256e221308f]: Commencement: S. 35 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-5c26d87bd3d715e0efdc5256e221308f]: Commencement: S. 35 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-aba3a2859a8c159a459409eaf748d5de]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2025/26/section/35) in force at 1.5.2026 by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/b)
+[^c-aba3a2859a8c159a459409eaf748d5de]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2025/26/section/35) in force at 1.5.2026 by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/b)

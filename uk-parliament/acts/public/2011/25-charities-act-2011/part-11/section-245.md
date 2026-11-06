@@ -27,7 +27,7 @@ summary: ''
 - (c) their dissolution, and
 - (d) their revival and restoration to the register following dissolution.
 
-(1A)[^key-fd4b0edaa68b0ee248110531a00f7d1a] Regulations under subsection (1)(b) may not apply Part A1 of the Insolvency Act 1986 (moratorium) in relation to a CIO that is registered as a social landlord under Part 1 of the Housing Act 1996 (but see section 247A).
+(1A)[^c-fd4b0edaa68b0ee248110531a00f7d1a] Regulations under subsection (1)(b) may not apply Part A1 of the Insolvency Act 1986 (moratorium) in relation to a CIO that is registered as a social landlord under Part 1 of the Housing Act 1996 (but see section 247A).
 
 (2) The regulations may, in particular, make provision—
 
@@ -43,12 +43,12 @@ summary: ''
 - (a) apply any enactment which would not otherwise apply, either without modification or with modifications specified in the regulations,
 - (b) disapply, or modify (in ways specified in the regulations) the application of, any enactment which would otherwise apply.
 
-(3A)[^key-e74bd213578390fe9c0809d3533c559b] In relation to a CIO that is a private registered provider of social housing, the power under section 347(3)(b) may be used to amend, disapply, or modify (in ways specified in the regulations) any provision made by or under Part 2 of the Housing and Regeneration Act 2008 or Chapter 5 of Part 4 of the Housing and Planning Act 2016.
+(3A)[^c-e74bd213578390fe9c0809d3533c559b] In relation to a CIO that is a private registered provider of social housing, the power under section 347(3)(b) may be used to amend, disapply, or modify (in ways specified in the regulations) any provision made by or under Part 2 of the Housing and Regeneration Act 2008 or Chapter 5 of Part 4 of the Housing and Planning Act 2016.
 
 (4) In subsection (3), “**enactment**” includes a provision of subordinate legislation within the meaning of the Interpretation Act 1978.
 
 ## Annotations
 
-[^key-fd4b0edaa68b0ee248110531a00f7d1a]: Textual amendment: [S. 245(1A)](https://www.legislation.gov.uk/ukpga/2011/25/section/245/1A) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 44(2)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/44/2) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-fd4b0edaa68b0ee248110531a00f7d1a]: Textual amendment: [S. 245(1A)](https://www.legislation.gov.uk/ukpga/2011/25/section/245/1A) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 44(2)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/44/2) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
-[^key-e74bd213578390fe9c0809d3533c559b]: Textual amendment: [S. 245(3A)](https://www.legislation.gov.uk/ukpga/2011/25/section/245/3A) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 44(3)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/44/3) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-e74bd213578390fe9c0809d3533c559b]: Textual amendment: [S. 245(3A)](https://www.legislation.gov.uk/ukpga/2011/25/section/245/3A) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 44(3)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/44/3) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

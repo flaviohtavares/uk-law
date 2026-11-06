@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45A. Duration of Scheme membership[^key-2455e24cd68b990ae3a3ebe12c40ea00][^key-af3b2144461021531ef6496dcd14d4ec]
+## 45A. Duration of Scheme membership[^c-2455e24cd68b990ae3a3ebe12c40ea00][^c-af3b2144461021531ef6496dcd14d4ec]
 
 *Extent: S*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2455e24cd68b990ae3a3ebe12c40ea00]: Textual amendment: [S. 45A](https://www.legislation.gov.uk/asp/2007/14/section/45A) inserted (1.4.2026) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [ss. 71](https://www.legislation.gov.uk/asp/2020/13/section/71), [97](https://www.legislation.gov.uk/asp/2020/13/section/97) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2025/352](https://www.legislation.gov.uk/ssi/2025/352), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2025/352/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2025/352/schedule/1)
+[^c-2455e24cd68b990ae3a3ebe12c40ea00]: Textual amendment: [S. 45A](https://www.legislation.gov.uk/asp/2007/14/section/45A) inserted (1.4.2026) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [ss. 71](https://www.legislation.gov.uk/asp/2020/13/section/71), [97](https://www.legislation.gov.uk/asp/2020/13/section/97) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2025/352](https://www.legislation.gov.uk/ssi/2025/352), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2025/352/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2025/352/schedule/1)
 
-[^key-af3b2144461021531ef6496dcd14d4ec]: Modification: [S. 45A(1)(a)](https://www.legislation.gov.uk/asp/2007/14/section/45A/1/a) modified (1.4.2026) by [The Disclosure (Scotland) Act 2020 (Commencement No. 6, Consequential Amendment, Saving and Transitional Provision) Regulations 2025 (S.S.I. 2025/352)](https://www.legislation.gov.uk/ssi/2025/352), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/352/regulation/1/3), [4](https://www.legislation.gov.uk/ssi/2025/352/regulation/4)
+[^c-af3b2144461021531ef6496dcd14d4ec]: Modification: [S. 45A(1)(a)](https://www.legislation.gov.uk/asp/2007/14/section/45A/1/a) modified (1.4.2026) by [The Disclosure (Scotland) Act 2020 (Commencement No. 6, Consequential Amendment, Saving and Transitional Provision) Regulations 2025 (S.S.I. 2025/352)](https://www.legislation.gov.uk/ssi/2025/352), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/352/regulation/1/3), [4](https://www.legislation.gov.uk/ssi/2025/352/regulation/4)

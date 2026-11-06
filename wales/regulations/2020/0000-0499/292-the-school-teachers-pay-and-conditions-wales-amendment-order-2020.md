@@ -31,7 +31,7 @@ summary: ''
 
 Education, Wales
 
-The School Teachers’ Pay and Conditions (Wales) (Amendment) Order 2020 (revoked)[^key-e09f994537c36df37e811bb38e7afa59]
+The School Teachers’ Pay and Conditions (Wales) (Amendment) Order 2020 (revoked)[^c-e09f994537c36df37e811bb38e7afa59]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 15 April 2020
 
-[^key-e09f994537c36df37e811bb38e7afa59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e09f994537c36df37e811bb38e7afa59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-e09f994537c36df37e811bb38e7afa59]
+## 1. Title and commencement[^c-e09f994537c36df37e811bb38e7afa59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the School Teachers’ Pay and Conditions (Wales) Order 2019[^key-e09f994537c36df37e811bb38e7afa59]
+## 2. Amendment of the School Teachers’ Pay and Conditions (Wales) Order 2019[^c-e09f994537c36df37e811bb38e7afa59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e09f994537c36df37e811bb38e7afa59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e09f994537c36df37e811bb38e7afa59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e09f994537c36df37e811bb38e7afa59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e09f994537c36df37e811bb38e7afa59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e09f994537c36df37e811bb38e7afa59]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2020/292) revoked (6.11.2020) by [The School Teachers’ Pay and Conditions (Wales) Order 2020 (S.I. 2020/1121)](https://www.legislation.gov.uk/wsi/2020/1121), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2020/1121/article/1/1), [3](https://www.legislation.gov.uk/wsi/2020/1121/article/3)
+[^c-e09f994537c36df37e811bb38e7afa59]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2020/292) revoked (6.11.2020) by [The School Teachers’ Pay and Conditions (Wales) Order 2020 (S.I. 2020/1121)](https://www.legislation.gov.uk/wsi/2020/1121), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2020/1121/article/1/1), [3](https://www.legislation.gov.uk/wsi/2020/1121/article/3)

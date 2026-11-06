@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 273ZA. Income and gains from taxable property[^key-805175e9d9d8dcf0659245d96b094533]
+## 273ZA. Income and gains from taxable property[^c-805175e9d9d8dcf0659245d96b094533]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-805175e9d9d8dcf0659245d96b094533]: Textual amendment: S. 273ZA inserted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 158(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/158/2), [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2006/25/schedule/21/paragraph/10)
+[^c-805175e9d9d8dcf0659245d96b094533]: Textual amendment: S. 273ZA inserted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 158(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/158/2), [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2006/25/schedule/21/paragraph/10)

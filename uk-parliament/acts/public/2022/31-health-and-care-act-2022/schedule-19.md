@@ -22,20 +22,20 @@ summary: ''
 
 Section 180
 
-### 1. Introduction[^key-cae3432f54e323be9aa7271f2bf7fdb0][^key-7d1caffd2df6093e2f32fe890df18856]
+### 1. Introduction[^c-cae3432f54e323be9aa7271f2bf7fdb0][^c-7d1caffd2df6093e2f32fe890df18856]
 
 This Schedule is about the provision that may be made by regulations under section 180.
 
-### 2. Grant of licence[^key-38d5f07063b724c2c0ff468cbef015b9][^key-bbfd51d0ebdce8fa6d4d86d9f57bce77]
+### 2. Grant of licence[^c-38d5f07063b724c2c0ff468cbef015b9][^c-bbfd51d0ebdce8fa6d4d86d9f57bce77]
 
 The regulations may—
 
 - (a) require a local authority not to grant a licence unless satisfied as to a matter specified in the regulations;
 - (b) require a local authority to have regard, in deciding whether to grant a licence, to a matter specified in the regulations.
 
-**3.**[^key-b9d97fbc20ed36e05166fb1b5b59e708][^key-b6c363928351e74d9aebd3ab942aa72e] The regulations may make provision requiring a local authority not to grant a premises licence unless the premises have been inspected in accordance with the regulations.
+**3.**[^c-b9d97fbc20ed36e05166fb1b5b59e708][^c-b6c363928351e74d9aebd3ab942aa72e] The regulations may make provision requiring a local authority not to grant a premises licence unless the premises have been inspected in accordance with the regulations.
 
-### 4. Licence conditions[^key-af2abac967b73022558c78a1657632cf][^key-6873049a34e3a9625b5939059b39953f]
+### 4. Licence conditions[^c-af2abac967b73022558c78a1657632cf][^c-6873049a34e3a9625b5939059b39953f]
 
 (1) The regulations may make provision for the grant of a licence subject to conditions.
 
@@ -44,20 +44,20 @@ The regulations may—
 - (a) enable a local authority to attach conditions to a licence;
 - (b) require a local authority to attach to a licence a condition specified in the regulations.
 
-### 5. Duration of licence etc[^key-24f0dbd88ae3203b843fadecb03ea700][^key-f10a08d1f626113d86f981cc38efa42d]
+### 5. Duration of licence etc[^c-24f0dbd88ae3203b843fadecb03ea700][^c-f10a08d1f626113d86f981cc38efa42d]
 
 (1) The regulations may make provision about the duration, renewal, variation, suspension or revocation of licences.
 
 (2) The provision that may be made under sub-paragraph (1) includes provision conferring power on a court by which a person is convicted of an offence under the regulations to vary, suspend or revoke a licence.
 
-### 6. Reviews and appeals[^key-60de72374d26320331c8269accf323c1][^key-2e90ae9337c9b47d2af9dec7ae37fd58]
+### 6. Reviews and appeals[^c-60de72374d26320331c8269accf323c1][^c-2e90ae9337c9b47d2af9dec7ae37fd58]
 
 The regulations may make provision for—
 
 - (a) the review of decisions under the regulations;
 - (b) appeals against decisions under the regulations.
 
-### 7. Offences[^key-07709f56019ebc8d209d93a20495affd][^key-06f65a4cb3a45aff4367d7eb6f33e055]
+### 7. Offences[^c-07709f56019ebc8d209d93a20495affd][^c-06f65a4cb3a45aff4367d7eb6f33e055]
 
 (1) The regulations may create offences in relation to—
 
@@ -67,7 +67,7 @@ The regulations may make provision for—
 
 (2) The regulations must provide for any such offence to be punishable on summary conviction with a fine or a fine not exceeding an amount specified, or determined in accordance with, the regulations.
 
-### 8. Financial penalties[^key-b76b830352be5f82ce0749a489560356][^key-ce43cf88a820567224d1fdc8aa10c30e]
+### 8. Financial penalties[^c-b76b830352be5f82ce0749a489560356][^c-ce43cf88a820567224d1fdc8aa10c30e]
 
 (1) The regulations may confer power on a local authority to impose a financial penalty in relation to—
 
@@ -94,19 +94,19 @@ The regulations may make provision for—
 - (c) for a financial penalty to be increased by an amount specified in or determined in accordance with the regulations in the event of late payment;
 - (d) as to how financial penalties are recoverable.
 
-### 9. Enforcement[^key-9905e886f1a3153506cf9efc1f312184][^key-33e924ac84e696717b4a206a0320565e]
+### 9. Enforcement[^c-9905e886f1a3153506cf9efc1f312184][^c-33e924ac84e696717b4a206a0320565e]
 
 The regulations may confer on a local authority the function of enforcing the regulations in its area.
 
-### 10. Fees[^key-c8b631dbd242dad7e6144fd593cbf7fb][^key-a84bf43f8fbeb69289077547c5f249cc]
+### 10. Fees[^c-c8b631dbd242dad7e6144fd593cbf7fb][^c-a84bf43f8fbeb69289077547c5f249cc]
 
 The regulations may include provision for fees in relation to the carrying out of functions of a local authority under or in connection with the regulations (including the cost of its enforcement functions under the regulations).
 
-### 11. Guidance[^key-156ab5406db407a8c2ad84603b7f5242][^key-b38a35a6900d08b233f251b66644e2de]
+### 11. Guidance[^c-156ab5406db407a8c2ad84603b7f5242][^c-b38a35a6900d08b233f251b66644e2de]
 
 The regulations may require a local authority, in carrying out functions under the regulations, to have regard to guidance published by the Secretary of State.
 
-### 12. Interpretation[^key-8235a940a7ad5bb6fcccc5d07c9d5f48][^key-58c3f283762a99e38348dac64b1a5c49]
+### 12. Interpretation[^c-8235a940a7ad5bb6fcccc5d07c9d5f48][^c-58c3f283762a99e38348dac64b1a5c49]
 
 (1) In this Schedule—
 
@@ -119,50 +119,50 @@ The regulations may require a local authority, in carrying out functions under t
 
 ## Annotations
 
-[^key-cae3432f54e323be9aa7271f2bf7fdb0]: Commencement: Sch. 19 para. 1 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-cae3432f54e323be9aa7271f2bf7fdb0]: Commencement: Sch. 19 para. 1 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-7d1caffd2df6093e2f32fe890df18856]: Commencement: [Sch. 19 para. 1](https://www.legislation.gov.uk/ukpga/2022/31/schedule/19/paragraph/1) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-7d1caffd2df6093e2f32fe890df18856]: Commencement: [Sch. 19 para. 1](https://www.legislation.gov.uk/ukpga/2022/31/schedule/19/paragraph/1) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-38d5f07063b724c2c0ff468cbef015b9]: Commencement: Sch. 19 para. 2 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-38d5f07063b724c2c0ff468cbef015b9]: Commencement: Sch. 19 para. 2 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-bbfd51d0ebdce8fa6d4d86d9f57bce77]: Commencement: [Sch. 19 para. 2](https://www.legislation.gov.uk/ukpga/2022/31/schedule/19/paragraph/2) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-bbfd51d0ebdce8fa6d4d86d9f57bce77]: Commencement: [Sch. 19 para. 2](https://www.legislation.gov.uk/ukpga/2022/31/schedule/19/paragraph/2) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-b9d97fbc20ed36e05166fb1b5b59e708]: Commencement: Sch. 19 para. 3 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-b9d97fbc20ed36e05166fb1b5b59e708]: Commencement: Sch. 19 para. 3 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-b6c363928351e74d9aebd3ab942aa72e]: Commencement: [Sch. 19 para. 3](https://www.legislation.gov.uk/ukpga/2022/31/schedule/19/paragraph/3) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-b6c363928351e74d9aebd3ab942aa72e]: Commencement: [Sch. 19 para. 3](https://www.legislation.gov.uk/ukpga/2022/31/schedule/19/paragraph/3) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-af2abac967b73022558c78a1657632cf]: Commencement: Sch. 19 para. 4 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-af2abac967b73022558c78a1657632cf]: Commencement: Sch. 19 para. 4 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-6873049a34e3a9625b5939059b39953f]: Commencement: [Sch. 19 para. 4](https://www.legislation.gov.uk/ukpga/2022/31/schedule/19/paragraph/4) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-6873049a34e3a9625b5939059b39953f]: Commencement: [Sch. 19 para. 4](https://www.legislation.gov.uk/ukpga/2022/31/schedule/19/paragraph/4) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-24f0dbd88ae3203b843fadecb03ea700]: Commencement: Sch. 19 para. 5 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-24f0dbd88ae3203b843fadecb03ea700]: Commencement: Sch. 19 para. 5 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-f10a08d1f626113d86f981cc38efa42d]: Commencement: [Sch. 19 para. 5](https://www.legislation.gov.uk/ukpga/2022/31/schedule/19/paragraph/5) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-f10a08d1f626113d86f981cc38efa42d]: Commencement: [Sch. 19 para. 5](https://www.legislation.gov.uk/ukpga/2022/31/schedule/19/paragraph/5) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-60de72374d26320331c8269accf323c1]: Commencement: Sch. 19 para. 6 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-60de72374d26320331c8269accf323c1]: Commencement: Sch. 19 para. 6 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-2e90ae9337c9b47d2af9dec7ae37fd58]: Commencement: [Sch. 19 para. 6](https://www.legislation.gov.uk/ukpga/2022/31/schedule/19/paragraph/6) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-2e90ae9337c9b47d2af9dec7ae37fd58]: Commencement: [Sch. 19 para. 6](https://www.legislation.gov.uk/ukpga/2022/31/schedule/19/paragraph/6) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-07709f56019ebc8d209d93a20495affd]: Commencement: Sch. 19 para. 7 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-07709f56019ebc8d209d93a20495affd]: Commencement: Sch. 19 para. 7 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-06f65a4cb3a45aff4367d7eb6f33e055]: Commencement: [Sch. 19 para. 7](https://www.legislation.gov.uk/ukpga/2022/31/schedule/19/paragraph/7) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-06f65a4cb3a45aff4367d7eb6f33e055]: Commencement: [Sch. 19 para. 7](https://www.legislation.gov.uk/ukpga/2022/31/schedule/19/paragraph/7) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-b76b830352be5f82ce0749a489560356]: Commencement: Sch. 19 para. 8 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-b76b830352be5f82ce0749a489560356]: Commencement: Sch. 19 para. 8 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-ce43cf88a820567224d1fdc8aa10c30e]: Commencement: [Sch. 19 para. 8](https://www.legislation.gov.uk/ukpga/2022/31/schedule/19/paragraph/8) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-ce43cf88a820567224d1fdc8aa10c30e]: Commencement: [Sch. 19 para. 8](https://www.legislation.gov.uk/ukpga/2022/31/schedule/19/paragraph/8) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-9905e886f1a3153506cf9efc1f312184]: Commencement: Sch. 19 para. 9 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-9905e886f1a3153506cf9efc1f312184]: Commencement: Sch. 19 para. 9 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-33e924ac84e696717b4a206a0320565e]: Commencement: [Sch. 19 para. 9](https://www.legislation.gov.uk/ukpga/2022/31/schedule/19/paragraph/9) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-33e924ac84e696717b4a206a0320565e]: Commencement: [Sch. 19 para. 9](https://www.legislation.gov.uk/ukpga/2022/31/schedule/19/paragraph/9) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-c8b631dbd242dad7e6144fd593cbf7fb]: Commencement: Sch. 19 para. 10 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-c8b631dbd242dad7e6144fd593cbf7fb]: Commencement: Sch. 19 para. 10 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-a84bf43f8fbeb69289077547c5f249cc]: Commencement: [Sch. 19 para. 10](https://www.legislation.gov.uk/ukpga/2022/31/schedule/19/paragraph/10) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-a84bf43f8fbeb69289077547c5f249cc]: Commencement: [Sch. 19 para. 10](https://www.legislation.gov.uk/ukpga/2022/31/schedule/19/paragraph/10) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-156ab5406db407a8c2ad84603b7f5242]: Commencement: Sch. 19 para. 11 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-156ab5406db407a8c2ad84603b7f5242]: Commencement: Sch. 19 para. 11 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-b38a35a6900d08b233f251b66644e2de]: Commencement: [Sch. 19 para. 11](https://www.legislation.gov.uk/ukpga/2022/31/schedule/19/paragraph/11) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-b38a35a6900d08b233f251b66644e2de]: Commencement: [Sch. 19 para. 11](https://www.legislation.gov.uk/ukpga/2022/31/schedule/19/paragraph/11) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-8235a940a7ad5bb6fcccc5d07c9d5f48]: Commencement: Sch. 19 para. 12 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-8235a940a7ad5bb6fcccc5d07c9d5f48]: Commencement: Sch. 19 para. 12 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-58c3f283762a99e38348dac64b1a5c49]: Commencement: [Sch. 19 para. 12](https://www.legislation.gov.uk/ukpga/2022/31/schedule/19/paragraph/12) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-58c3f283762a99e38348dac64b1a5c49]: Commencement: [Sch. 19 para. 12](https://www.legislation.gov.uk/ukpga/2022/31/schedule/19/paragraph/12) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

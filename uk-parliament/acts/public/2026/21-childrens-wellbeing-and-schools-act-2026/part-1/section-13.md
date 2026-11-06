@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Use of accommodation for deprivation of liberty[^key-18bef87f2609397046e9548e2aab0a9a]
+## 13. Use of accommodation for deprivation of liberty[^c-18bef87f2609397046e9548e2aab0a9a]
 
 *Extent: E+W*
 
@@ -100,4 +100,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18bef87f2609397046e9548e2aab0a9a]: Commencement: S. 13 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-18bef87f2609397046e9548e2aab0a9a]: Commencement: S. 13 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)

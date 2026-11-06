@@ -31,7 +31,7 @@ summary: ''
 
 SEEDS
 
-The Fodder Plant Seeds Amendment (Scotland) Regulations 2004 (revoked)[^key-f521a67641b271f33cc8b86e07acd209]
+The Fodder Plant Seeds Amendment (Scotland) Regulations 2004 (revoked)[^c-f521a67641b271f33cc8b86e07acd209]
 
 Made
 
@@ -45,40 +45,40 @@ Coming into force
 
 30th September 2004
 
-[^key-f521a67641b271f33cc8b86e07acd209]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f521a67641b271f33cc8b86e07acd209]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-f521a67641b271f33cc8b86e07acd209]
+## 1. Citation, commencement and extent[^c-f521a67641b271f33cc8b86e07acd209]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-f521a67641b271f33cc8b86e07acd209]
+## 2. Interpretation[^c-f521a67641b271f33cc8b86e07acd209]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the principal Regulations[^key-f521a67641b271f33cc8b86e07acd209]
+## 3. Amendment of the principal Regulations[^c-f521a67641b271f33cc8b86e07acd209]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of Schedule 1 to the principal Regulations[^key-f521a67641b271f33cc8b86e07acd209]
+## 4. Amendment of Schedule 1 to the principal Regulations[^c-f521a67641b271f33cc8b86e07acd209]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of Schedule 4 to the principal Regulations[^key-f521a67641b271f33cc8b86e07acd209]
+## 5. Amendment of Schedule 4 to the principal Regulations[^c-f521a67641b271f33cc8b86e07acd209]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of Schedule 6 to the principal Regulations[^key-f521a67641b271f33cc8b86e07acd209]
+## 6. Amendment of Schedule 6 to the principal Regulations[^c-f521a67641b271f33cc8b86e07acd209]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f521a67641b271f33cc8b86e07acd209]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f521a67641b271f33cc8b86e07acd209]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f521a67641b271f33cc8b86e07acd209]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f521a67641b271f33cc8b86e07acd209]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f521a67641b271f33cc8b86e07acd209]: Textual amendment: Regulations revoked (1.7.2005) by [The Fodder Plant Seed (Scotland) Regulations 2005 (S.S.I. 2005/329)](https://www.legislation.gov.uk/ssi/2005/329), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/2), [28(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/28/1), [sch. 8](https://www.legislation.gov.uk/ssi/2005/329/schedule/8)
+[^c-f521a67641b271f33cc8b86e07acd209]: Textual amendment: Regulations revoked (1.7.2005) by [The Fodder Plant Seed (Scotland) Regulations 2005 (S.S.I. 2005/329)](https://www.legislation.gov.uk/ssi/2005/329), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/2), [28(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/28/1), [sch. 8](https://www.legislation.gov.uk/ssi/2005/329/schedule/8)

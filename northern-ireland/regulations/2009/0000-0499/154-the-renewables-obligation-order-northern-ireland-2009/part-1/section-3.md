@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Waste as a renewable energy source[^key-1612dd2e68f6351997b17a02619e5d9f]
+## 3. Waste as a renewable energy source[^c-1612dd2e68f6351997b17a02619e5d9f]
 
 *Extent: N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 (2) The proportion of waste which is, or is derived from, fossil fuel—
 
 - (a) is to be determined by the Authority, and
-- (b)[^key-fbdadca2c2ab06b79a6f07750ca95885] is—
+- (b)[^c-fbdadca2c2ab06b79a6f07750ca95885] is—
   - (i) for any waste that is a fossil derived bioliquid, the energy content of the fossil fuel from which the fossil derived bioliquid is directly or indirectly produced expressed as a percentage of the energy content of that fossil derived bioliquid as a whole,
   - (ii) for all other waste, the energy content of the fossil fuel from which the waste is in part composed or derived expressed as a percentage of the energy content of that waste as a whole.
 
@@ -53,8 +53,8 @@ the Authority may require the operator of the generating station to arrange for 
 
 ## Annotations
 
-[^key-1612dd2e68f6351997b17a02619e5d9f]: Commencement: Art. 3 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
+[^c-1612dd2e68f6351997b17a02619e5d9f]: Commencement: Art. 3 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
 
-[^key-fbdadca2c2ab06b79a6f07750ca95885]: Textual amendment: [Art. 3(2)(b)](https://www.legislation.gov.uk/nisr/2009/154/article/3/2/b) substituted (1.4.2011) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/169)](https://www.legislation.gov.uk/nisr/2011/169), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2011/169/article/1/1), [4](https://www.legislation.gov.uk/nisr/2011/169/article/4) (with [art. 18](https://www.legislation.gov.uk/nisr/2011/169/article/18))
+[^c-fbdadca2c2ab06b79a6f07750ca95885]: Textual amendment: [Art. 3(2)(b)](https://www.legislation.gov.uk/nisr/2009/154/article/3/2/b) substituted (1.4.2011) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/169)](https://www.legislation.gov.uk/nisr/2011/169), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2011/169/article/1/1), [4](https://www.legislation.gov.uk/nisr/2011/169/article/4) (with [art. 18](https://www.legislation.gov.uk/nisr/2011/169/article/18))
 
 [^f00018]: Footnote: [2003 c.33](https://www.legislation.gov.uk/ukpga/2003/33). See sections 21 and 24 of that Act.

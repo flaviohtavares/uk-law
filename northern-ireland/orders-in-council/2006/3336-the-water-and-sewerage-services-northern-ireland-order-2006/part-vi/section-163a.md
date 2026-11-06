@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 163A. Communication as of right only where adoption agreement entered into[^key-2938139a3a23c6847e97365fbae199ab]
+## 163A. Communication as of right only where adoption agreement entered into[^c-2938139a3a23c6847e97365fbae199ab]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2938139a3a23c6847e97365fbae199ab]: Textual amendment: [Art. 163A](https://www.legislation.gov.uk/nisi/2006/3336/article/163A) inserted (24.5.2016 with application as mentioned in s. 8(1) of the amending Act) by [Water and Sewerage Services Act (Northern Ireland) 2016 (c. 7)](https://www.legislation.gov.uk/nia/2016/7), [ss. 6(3)](https://www.legislation.gov.uk/nia/2016/7/section/6/3), [8](https://www.legislation.gov.uk/nia/2016/7/section/8)
+[^c-2938139a3a23c6847e97365fbae199ab]: Textual amendment: [Art. 163A](https://www.legislation.gov.uk/nisi/2006/3336/article/163A) inserted (24.5.2016 with application as mentioned in s. 8(1) of the amending Act) by [Water and Sewerage Services Act (Northern Ireland) 2016 (c. 7)](https://www.legislation.gov.uk/nia/2016/7), [ss. 6(3)](https://www.legislation.gov.uk/nia/2016/7/section/6/3), [8](https://www.legislation.gov.uk/nia/2016/7/section/8)

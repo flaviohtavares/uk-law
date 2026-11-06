@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Termination of disqualification under section 34 or 42[^key-1d2eb6d32c6e080a0dd452b961903ad5][^key-5b5b9464e2982b26c28f9a5b92f85177]
+## 43. Termination of disqualification under section 34 or 42[^c-1d2eb6d32c6e080a0dd452b961903ad5][^c-5b5b9464e2982b26c28f9a5b92f85177]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1d2eb6d32c6e080a0dd452b961903ad5]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2006/45/section/43) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/e)
+[^c-1d2eb6d32c6e080a0dd452b961903ad5]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2006/45/section/43) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/e)
 
-[^key-5b5b9464e2982b26c28f9a5b92f85177]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2006/45/section/43) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)
+[^c-5b5b9464e2982b26c28f9a5b92f85177]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2006/45/section/43) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)

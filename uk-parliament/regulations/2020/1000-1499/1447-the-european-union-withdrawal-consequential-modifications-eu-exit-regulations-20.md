@@ -46,7 +46,7 @@ In accordance with paragraph 15(1) of Schedule 7 to the European Union (Withdraw
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement, extent and interpretation[^key-a299d594f72da8b1f3dd1a71d0d42655]
+### 1. Citation, commencement, extent and interpretation[^c-a299d594f72da8b1f3dd1a71d0d42655]
 
 (1) These Regulations may be cited as the European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020.
 
@@ -60,7 +60,7 @@ In accordance with paragraph 15(1) of Schedule 7 to the European Union (Withdraw
 
 ## PART 2 — Amendment of UK primary legislation
 
-### 2. Amendment of Interpretation Act 1978[^key-9ccee42f3080a654479a713764fd4143]
+### 2. Amendment of Interpretation Act 1978[^c-9ccee42f3080a654479a713764fd4143]
 
 (1) The Interpretation Act 1978 [^c24363491] is amended as follows.
 
@@ -102,7 +102,7 @@ In accordance with paragraph 15(1) of Schedule 7 to the European Union (Withdraw
 
 .
 
-### 3. Amendment of European Union (Withdrawal) Act 2018[^key-0530fbae1cbc72695e27723ba243810f]
+### 3. Amendment of European Union (Withdrawal) Act 2018[^c-0530fbae1cbc72695e27723ba243810f]
 
 (1) The European Union (Withdrawal) Act 2018 [^c24363501] is amended as follows.
 
@@ -163,7 +163,7 @@ In accordance with paragraph 15(1) of Schedule 7 to the European Union (Withdraw
   >
   > (6) This paragraph is subject to any provision made by or under this Act or any other enactment.
   >
-  > (6A)[^key-c5997a59c0ec4a2cc7d4a10f60dfe755] This paragraph does not apply to a reference in—
+  > (6A)[^c-c5997a59c0ec4a2cc7d4a10f60dfe755] This paragraph does not apply to a reference in—
   >
   > - (a) the Direct Payments to Farmers (Legislative Continuity) Act 2020 or any subordinate legislation made under that Act, or
   > - (b) any retained direct EU CAP legislation (within the meaning given by section 2(10) of that Act).
@@ -180,13 +180,13 @@ In accordance with paragraph 15(1) of Schedule 7 to the European Union (Withdraw
 
 ## PART 3 — Amendment of the 2019 Regulations
 
-### 4. Replacement of references to “exit day” with “IP completion day”[^key-38f90070c0387db683ba89757a6906fe]
+### 4. Replacement of references to “exit day” with “IP completion day”[^c-38f90070c0387db683ba89757a6906fe]
 
 In regulation 5(2) of the 2019 Regulations, for “exit day”, substitute “ IP completion day ”.
 
 ## PART 4 — Scotland
 
-### 5. Amendment of Interpretation and Legislative Reform (Scotland) Act 2010[^key-b89165d268597834e0178a417c27b294]
+### 5. Amendment of Interpretation and Legislative Reform (Scotland) Act 2010[^c-b89165d268597834e0178a417c27b294]
 
 (1) The Interpretation and Legislative Reform (Scotland) Act 2010 [^c24363511] is amended as follows.
 
@@ -220,7 +220,7 @@ In regulation 5(2) of the 2019 Regulations, for “exit day”, substitute “ I
 
   > (6) In this section, “**treaty**” includes any international agreement (and any protocol or annex to a treaty or international agreement).
 
-### 6. Interpretation of “the Treaties”, “the EU Treaties” and “the Communities”[^key-09dcc7f4d595dae2caaa01e208ef2ceb]
+### 6. Interpretation of “the Treaties”, “the EU Treaties” and “the Communities”[^c-09dcc7f4d595dae2caaa01e208ef2ceb]
 
 (1) The fact that by virtue of regulation 4(5) of the 2019 Regulations—
 
@@ -238,7 +238,7 @@ does not affect the interpretation of those expressions on and after IP completi
 
 ## PART 5 — Northern Ireland
 
-### 7. Amendment of the Interpretation Act (Northern Ireland) 1954[^key-147a60c5ee038a56e15bca33686471fe]
+### 7. Amendment of the Interpretation Act (Northern Ireland) 1954[^c-147a60c5ee038a56e15bca33686471fe]
 
 (1) The Interpretation Act (Northern Ireland) 1954 [^c24363541] is amended as follows.
 
@@ -280,7 +280,7 @@ does not affect the interpretation of those expressions on and after IP completi
 
 ## PART 6 — Wales
 
-### 8. Amendment of Legislation (Wales) Act 2019[^key-32aeda5c99a576ec685b2e05ec7dd74e]
+### 8. Amendment of Legislation (Wales) Act 2019[^c-32aeda5c99a576ec685b2e05ec7dd74e]
 
 (1) The Legislation (Wales) Act 2019 [^c24363551] is amended as follows.
 
@@ -341,7 +341,7 @@ does not affect the interpretation of those expressions on and after IP completi
 
 ## PART 7 — Repeals and revocations
 
-### 9. Repeals[^key-c7567c2c668a3b7edeaa4b8ffbab0b29]
+### 9. Repeals[^c-c7567c2c668a3b7edeaa4b8ffbab0b29]
 
 (1) The enactments mentioned in the Schedule are repealed to the extent specified.
 
@@ -352,7 +352,7 @@ does not affect the interpretation of those expressions on and after IP completi
 
 the repeal of the amending enactment does not affect the operation of that transitional or saving provision.
 
-### 10. Revocations[^key-0964ab521659ef72b4e05ab61226fad5]
+### 10. Revocations[^c-0964ab521659ef72b4e05ab61226fad5]
 
 In the 2019 Regulations, regulation 2 is omitted.
 
@@ -362,7 +362,7 @@ Minister for the Cabinet Office
 
 Cabinet Office
 
-## SCHEDULE — Repeals[^key-3ba6ec1c6dd21ab8f5dd18d2693d04bb]
+## SCHEDULE — Repeals[^c-3ba6ec1c6dd21ab8f5dd18d2693d04bb]
 
 Regulation 9
 
@@ -410,45 +410,45 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24363471]: Marginal citation: [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1).
 
-[^key-a299d594f72da8b1f3dd1a71d0d42655]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)
+[^c-a299d594f72da8b1f3dd1a71d0d42655]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)
 
 [^c24363481]: Marginal citation: [S.I. 2019/628](https://www.legislation.gov.uk/uksi/2019/628).
 
-[^key-9ccee42f3080a654479a713764fd4143]: Commencement: Reg. 2 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3)
+[^c-9ccee42f3080a654479a713764fd4143]: Commencement: Reg. 2 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3)
 
 [^c24363491]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-0530fbae1cbc72695e27723ba243810f]: Commencement: Reg. 3 in force at 31.12.2020, see reg. 1(3)
+[^c-0530fbae1cbc72695e27723ba243810f]: Commencement: Reg. 3 in force at 31.12.2020, see reg. 1(3)
 
 [^c24363501]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-c5997a59c0ec4a2cc7d4a10f60dfe755]: Textual amendment: Words in reg. 3(2)(d) inserted (31.12.2020 immediately before IP completion day) by [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/4/2)
+[^c-c5997a59c0ec4a2cc7d4a10f60dfe755]: Textual amendment: Words in reg. 3(2)(d) inserted (31.12.2020 immediately before IP completion day) by [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/4/2)
 
-[^key-38f90070c0387db683ba89757a6906fe]: Commencement: Reg. 4 in force at 31.12.2020, see reg. 1(3)
+[^c-38f90070c0387db683ba89757a6906fe]: Commencement: Reg. 4 in force at 31.12.2020, see reg. 1(3)
 
-[^key-b89165d268597834e0178a417c27b294]: Commencement: Reg. 5 in force at 31.12.2020, see reg. 1(3)
+[^c-b89165d268597834e0178a417c27b294]: Commencement: Reg. 5 in force at 31.12.2020, see reg. 1(3)
 
 [^c24363511]: Marginal citation: [2010 asp 10](https://www.legislation.gov.uk/asp/2010/10). Section 14 is amended by regulation 4 of [S.I. 2019/628](https://www.legislation.gov.uk/uksi/2019/628) as amended by [S.I. 2020/463](https://www.legislation.gov.uk/uksi/2020/463). Schedule 1 is amended by [S.I. 2019/628](https://www.legislation.gov.uk/uksi/2019/628), [paragraph 37](https://www.legislation.gov.uk/uksi/2019/628/paragraph/37) of Schedule 5 to the [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1) and paragraph 4 of Schedule 1 to the Direct Payments to [Farmers (Legislative Continuity) Act 2020 (c. 2)](https://www.legislation.gov.uk/ukpga/2020/2). There are other amendments not relevant to this instrument.
 
-[^key-09dcc7f4d595dae2caaa01e208ef2ceb]: Commencement: Reg. 6 in force at 31.12.2020, see reg. 1(3)
+[^c-09dcc7f4d595dae2caaa01e208ef2ceb]: Commencement: Reg. 6 in force at 31.12.2020, see reg. 1(3)
 
 [^c24363521]: Marginal citation: The definition of “the Treaties” and “the EU Treaties” in section 1(2) of the [European Communities Act 1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68) was amended by the [European Communities (Greek Accession) Act 1979 (c. 57)](https://www.legislation.gov.uk/ukpga/1979/57), [section 1](https://www.legislation.gov.uk/ukpga/1979/57/section/1); the [European Communities (Spanish and Portuguese Accession) Act 1985 (c. 75)](https://www.legislation.gov.uk/ukpga/1985/75), [section 1](https://www.legislation.gov.uk/ukpga/1985/75/section/1); the [European Communities (Amendment) Act 1986 (c. 58)](https://www.legislation.gov.uk/ukpga/1986/58), [section 1](https://www.legislation.gov.uk/ukpga/1986/58/section/1); the [European Communities (Amendment) Act 1993 (c. 32)](https://www.legislation.gov.uk/ukpga/1993/32), [section 1](https://www.legislation.gov.uk/ukpga/1993/32/section/1); the [European Parliamentary Elections Act 1993 (c. 41)](https://www.legislation.gov.uk/ukpga/1993/41), [section 3](https://www.legislation.gov.uk/ukpga/1993/41/section/3); the [European Economic Area Act 1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51), [section 1](https://www.legislation.gov.uk/ukpga/1993/51/section/1); the [European Union (Accessions) Act 1994 (c. 38)](https://www.legislation.gov.uk/ukpga/1994/38), [section 1](https://www.legislation.gov.uk/ukpga/1994/38/section/1); the [European Communities (Amendment) Act 1998 (c. 21)](https://www.legislation.gov.uk/ukpga/1998/21), [section 1](https://www.legislation.gov.uk/ukpga/1998/21/section/1); the [European Communities (Finance) Act 2001 (c. 22)](https://www.legislation.gov.uk/ukpga/2001/22), [section 1](https://www.legislation.gov.uk/ukpga/2001/22/section/1); the [European Communities (Amendment) Act 2002 (c. 3)](https://www.legislation.gov.uk/ukpga/2002/3), [section 1](https://www.legislation.gov.uk/ukpga/2002/3/section/1); the [European Union (Accessions) Act 2003 (c. 35)](https://www.legislation.gov.uk/ukpga/2003/35), [section 1](https://www.legislation.gov.uk/ukpga/2003/35/section/1); the [European Union (Accessions) Act 2006 (c. 2)](https://www.legislation.gov.uk/ukpga/2006/2), [section 1](https://www.legislation.gov.uk/ukpga/2006/2/section/1); the [European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7), [paragraph 1](https://www.legislation.gov.uk/ukpga/2008/7/paragraph/1), the Schedule; the [European Union Act 2011 (c. 12)](https://www.legislation.gov.uk/ukpga/2011/12), [section 15](https://www.legislation.gov.uk/ukpga/2011/12/section/15); the [European Union (Croatian Accession and Irish Protocol) Act 2013 (c. 5)](https://www.legislation.gov.uk/ukpga/2013/5), [section 3](https://www.legislation.gov.uk/ukpga/2013/5/section/3); the European Union (Finance) 2015 (c. 2015 (c. 32), section 1; [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 
 [^c24363531]: Marginal citation: [S.I. 1999/1379](https://www.legislation.gov.uk/uksi/1999/1379); revoked by article 8 of that Order but subject to savings specified in s. 55(2) of the [Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10).
 
-[^key-147a60c5ee038a56e15bca33686471fe]: Commencement: Reg. 7 in force at 31.12.2020, see reg. 1(3)
+[^c-147a60c5ee038a56e15bca33686471fe]: Commencement: Reg. 7 in force at 31.12.2020, see reg. 1(3)
 
 [^c24363541]: Marginal citation: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
-[^key-32aeda5c99a576ec685b2e05ec7dd74e]: Commencement: Reg. 8 in force at 31.12.2020, see reg. 1(3)
+[^c-32aeda5c99a576ec685b2e05ec7dd74e]: Commencement: Reg. 8 in force at 31.12.2020, see reg. 1(3)
 
 [^c24363551]: Marginal citation: 2019 anaw 4. Section 24 is amended by paragraph 59 of Schedule 5 to the [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1) and [S.I. 2020/463](https://www.legislation.gov.uk/uksi/2020/463). There are other amendments not relevant to this instrument.
 
-[^key-c7567c2c668a3b7edeaa4b8ffbab0b29]: Commencement: Reg. 9 in force at 31.12.2020, see reg. 1(3)
+[^c-c7567c2c668a3b7edeaa4b8ffbab0b29]: Commencement: Reg. 9 in force at 31.12.2020, see reg. 1(3)
 
-[^key-0964ab521659ef72b4e05ab61226fad5]: Commencement: Reg. 10 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)
+[^c-0964ab521659ef72b4e05ab61226fad5]: Commencement: Reg. 10 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)
 
-[^key-3ba6ec1c6dd21ab8f5dd18d2693d04bb]: Commencement: Sch. in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3)
+[^c-3ba6ec1c6dd21ab8f5dd18d2693d04bb]: Commencement: Sch. in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3)
 
 [^c24363561]: Marginal citation: [1977 c. 45](https://www.legislation.gov.uk/ukpga/1977/45).
 

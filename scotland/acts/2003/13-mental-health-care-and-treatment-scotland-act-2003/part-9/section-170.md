@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 170. Limit on power of Tribunal to make interim order[^key-a1897373ed1d82665e6f04f1961d4719]
+## 170. Limit on power of Tribunal to make interim order[^c-a1897373ed1d82665e6f04f1961d4719]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Tribunal may not make an interim order under section 168 or 169 of this Act 
 
 ## Annotations
 
-[^key-a1897373ed1d82665e6f04f1961d4719]: Commencement: S. 170 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-a1897373ed1d82665e6f04f1961d4719]: Commencement: S. 170 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

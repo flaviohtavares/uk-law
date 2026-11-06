@@ -32,7 +32,7 @@ summary: ''
 
 Animals
 
-The Animals (Scientific Procedures) Act 1986 (Fees) (No. 2) Order 2018 (revoked)[^key-3be1b991dc9b86b37271a2b2db615f43]
+The Animals (Scientific Procedures) Act 1986 (Fees) (No. 2) Order 2018 (revoked)[^c-3be1b991dc9b86b37271a2b2db615f43]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 20th August 2018
 
-[^key-3be1b991dc9b86b37271a2b2db615f43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3be1b991dc9b86b37271a2b2db615f43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and extent[^key-3be1b991dc9b86b37271a2b2db615f43]
+## 1. Citation, commencement, interpretation and extent[^c-3be1b991dc9b86b37271a2b2db615f43]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees payable for new licences granted under the Animals (Scientific Procedures) Act 1986 for the period beginning with 20th August 2018 and ending with 5th April 2019[^key-3be1b991dc9b86b37271a2b2db615f43]
+## 2. Fees payable for new licences granted under the Animals (Scientific Procedures) Act 1986 for the period beginning with 20th August 2018 and ending with 5th April 2019[^c-3be1b991dc9b86b37271a2b2db615f43]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-3be1b991dc9b86b37271a2b2db615f43]
+## 3.[^c-3be1b991dc9b86b37271a2b2db615f43]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3be1b991dc9b86b37271a2b2db615f43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3be1b991dc9b86b37271a2b2db615f43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3be1b991dc9b86b37271a2b2db615f43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3be1b991dc9b86b37271a2b2db615f43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3be1b991dc9b86b37271a2b2db615f43]: Textual amendment: Order revoked (6.4.2019) by [The Animals (Scientific Procedures) Act 1986 (Fees) Order 2019 (S.I. 2019/410)](https://www.legislation.gov.uk/uksi/2019/410), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/410/article/1/1), [3](https://www.legislation.gov.uk/uksi/2019/410/article/3)
+[^c-3be1b991dc9b86b37271a2b2db615f43]: Textual amendment: Order revoked (6.4.2019) by [The Animals (Scientific Procedures) Act 1986 (Fees) Order 2019 (S.I. 2019/410)](https://www.legislation.gov.uk/uksi/2019/410), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/410/article/1/1), [3](https://www.legislation.gov.uk/uksi/2019/410/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Application of the 1991 Act[^key-e95226df26e41fa87fb1ffd398056038]
+## 11. Application of the 1991 Act[^c-e95226df26e41fa87fb1ffd398056038]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ whether or not the carrying out of the works or the closure, alteration or diver
 
 ## Annotations
 
-[^key-e95226df26e41fa87fb1ffd398056038]: Commencement: Art. 11 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-e95226df26e41fa87fb1ffd398056038]: Commencement: Art. 11 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
 [^f00037]: Footnote: Sections 55, 57, 60, 68 and 69 were amended by the Traffic Management Act [2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18).

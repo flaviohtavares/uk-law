@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Controlled activities regulations: procedure[^key-b078b85ea368a890a638751c435a99e8]
+## 21. Controlled activities regulations: procedure[^c-b078b85ea368a890a638751c435a99e8]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b078b85ea368a890a638751c435a99e8]: Commencement: S. 21 in force at 15.12.2003 by [S.S.I. 2003/562](https://www.legislation.gov.uk/ssi/2003/562), [art. 2(c)](https://www.legislation.gov.uk/ssi/2003/562/article/2/c)
+[^c-b078b85ea368a890a638751c435a99e8]: Commencement: S. 21 in force at 15.12.2003 by [S.S.I. 2003/562](https://www.legislation.gov.uk/ssi/2003/562), [art. 2(c)](https://www.legislation.gov.uk/ssi/2003/562/article/2/c)

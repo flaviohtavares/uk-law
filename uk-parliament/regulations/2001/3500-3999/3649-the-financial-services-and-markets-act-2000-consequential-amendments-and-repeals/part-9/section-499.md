@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 499. Other provisions[^key-03f7b68cce76f3219c815d3e9949516f]
+## 499. Other provisions[^c-03f7b68cce76f3219c815d3e9949516f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulations 51 and 52 of the Credit Institutions (Protection of Depositors) Regu
 
 ## Annotations
 
-[^key-03f7b68cce76f3219c815d3e9949516f]: Commencement: Art. 499 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-03f7b68cce76f3219c815d3e9949516f]: Commencement: Art. 499 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

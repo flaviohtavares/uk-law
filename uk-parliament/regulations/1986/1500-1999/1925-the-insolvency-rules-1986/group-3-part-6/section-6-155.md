@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.155. Quorum[^key-9c04be2eb5be139476960fbf88ac17cc]
+## 6.155. Quorum[^c-9c04be2eb5be139476960fbf88ac17cc]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A meeting of the committee is duly constituted if due notice of it has been give
 
 ## Annotations
 
-[^key-9c04be2eb5be139476960fbf88ac17cc]: Commencement: [Rule 6.155](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.155) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-9c04be2eb5be139476960fbf88ac17cc]: Commencement: [Rule 6.155](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.155) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

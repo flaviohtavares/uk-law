@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Time limit for prosecution of common assault or battery in domestic abuse cases[^key-5e17d2d00af9db7a73c57759334c40fc][^key-5b7a534f7fd2584b34c5f9f520f86e77]
+## 49. Time limit for prosecution of common assault or battery in domestic abuse cases[^c-5e17d2d00af9db7a73c57759334c40fc][^c-5b7a534f7fd2584b34c5f9f520f86e77]
 
 *Extent: E+W*
 
@@ -61,6 +61,6 @@ After section 39 of the Criminal Justice Act 1988 insert—
 
 ## Annotations
 
-[^key-5e17d2d00af9db7a73c57759334c40fc]: Commencement: S. 49 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-5e17d2d00af9db7a73c57759334c40fc]: Commencement: S. 49 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-5b7a534f7fd2584b34c5f9f520f86e77]: Commencement: S. 49 in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(f)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/f)
+[^c-5b7a534f7fd2584b34c5f9f520f86e77]: Commencement: S. 49 in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(f)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Prohibition of paid canvassers[^key-04d69e8824ae202554c629d125c50d92]
+## 132. Prohibition of paid canvassers[^c-04d69e8824ae202554c629d125c50d92]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ is guilty of illegal employment.
 
 ## Annotations
 
-[^key-04d69e8824ae202554c629d125c50d92]: Commencement: Reg. 132 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-04d69e8824ae202554c629d125c50d92]: Commencement: Reg. 132 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Orders in Council under ss. 85 and 87[^key-f25858c10b9fba63f46421a2e21a2f3e]
+## 88. Orders in Council under ss. 85 and 87[^c-f25858c10b9fba63f46421a2e21a2f3e]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f25858c10b9fba63f46421a2e21a2f3e]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2004/20/section/88) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-f25858c10b9fba63f46421a2e21a2f3e]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2004/20/section/88) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

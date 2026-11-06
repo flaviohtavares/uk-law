@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Meanings of certain expressions used in the Order[^key-dabe72949747b829a1abb3f97416d8b0]
+## 3. Meanings of certain expressions used in the Order[^c-dabe72949747b829a1abb3f97416d8b0]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ For the purposes of the Order and of these Regulations—
 
 ## Annotations
 
-[^key-dabe72949747b829a1abb3f97416d8b0]: Commencement: Reg. 3 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-dabe72949747b829a1abb3f97416d8b0]: Commencement: Reg. 3 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00034]: Footnote: The definition of “pensionable age” was substituted by paragraph 9(a) of Schedule 2 to the Pensions (Northern Ireland) Order 1995 ([S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213))

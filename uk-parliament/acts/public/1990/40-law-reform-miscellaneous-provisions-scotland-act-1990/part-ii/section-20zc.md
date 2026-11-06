@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20ZC. Unsatisfactory professional conduct: Council's powers to monitor compliance with direction under section 20ZB(4)[^key-51f884965e3c193b7525d7db94f45e5f]
+## 20ZC. Unsatisfactory professional conduct: Council's powers to monitor compliance with direction under section 20ZB(4)[^c-51f884965e3c193b7525d7db94f45e5f]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ to give, before the expiry of such period being not less than 21 days as the not
 
 ## Annotations
 
-[^key-51f884965e3c193b7525d7db94f45e5f]: Textual amendment: Ss. 20ZA-20ZC inserted (1.10.2008) by [Legal Profession and Legal Aid (Scotland) Act 2007 (asp 5)](https://www.legislation.gov.uk/asp/2007/5), [ss. 54(2)](https://www.legislation.gov.uk/asp/2007/5/section/54/2), [82(2)](https://www.legislation.gov.uk/asp/2007/5/section/82/2) (with [s. 77](https://www.legislation.gov.uk/asp/2007/5/section/77)); [S.S.I. 2008/311](https://www.legislation.gov.uk/ssi/2008/311), [art. 2(c)](https://www.legislation.gov.uk/ssi/2008/311/article/2/c)
+[^c-51f884965e3c193b7525d7db94f45e5f]: Textual amendment: Ss. 20ZA-20ZC inserted (1.10.2008) by [Legal Profession and Legal Aid (Scotland) Act 2007 (asp 5)](https://www.legislation.gov.uk/asp/2007/5), [ss. 54(2)](https://www.legislation.gov.uk/asp/2007/5/section/54/2), [82(2)](https://www.legislation.gov.uk/asp/2007/5/section/82/2) (with [s. 77](https://www.legislation.gov.uk/asp/2007/5/section/77)); [S.S.I. 2008/311](https://www.legislation.gov.uk/ssi/2008/311), [art. 2(c)](https://www.legislation.gov.uk/ssi/2008/311/article/2/c)

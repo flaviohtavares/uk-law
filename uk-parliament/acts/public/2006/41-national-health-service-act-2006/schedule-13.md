@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 13 — The Family Health Services Appeal Authority[^key-2957c643d500e31f8831f648d2c3ce6b]
+## SCHEDULE 13 — The Family Health Services Appeal Authority[^c-2957c643d500e31f8831f648d2c3ce6b]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 Section 169
 
-### ...[^key-2957c643d500e31f8831f648d2c3ce6b]
+### ...[^c-2957c643d500e31f8831f648d2c3ce6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -38,7 +38,7 @@ Section 169
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2957c643d500e31f8831f648d2c3ce6b]
+[^c-2957c643d500e31f8831f648d2c3ce6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -64,20 +64,20 @@ Section 169
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2957c643d500e31f8831f648d2c3ce6b]
+[^c-2957c643d500e31f8831f648d2c3ce6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2957c643d500e31f8831f648d2c3ce6b]
+[^c-2957c643d500e31f8831f648d2c3ce6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2957c643d500e31f8831f648d2c3ce6b]
+[^c-2957c643d500e31f8831f648d2c3ce6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2957c643d500e31f8831f648d2c3ce6b]: Textual amendment: Sch. 13 omitted (18.1.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 2 para. 128](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/128) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
+[^c-2957c643d500e31f8831f648d2c3ce6b]: Textual amendment: Sch. 13 omitted (18.1.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 2 para. 128](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/128) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))

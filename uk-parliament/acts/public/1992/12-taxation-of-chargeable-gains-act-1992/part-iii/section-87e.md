@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87E. Sections 87 and 87A: disregarded payments to temporary non-resident[^key-2b06b41d071467dc0d80c31111ee0590]
+## 87E. Sections 87 and 87A: disregarded payments to temporary non-resident[^c-2b06b41d071467dc0d80c31111ee0590]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ the payment (or part) is treated for the purposes of sections 87 and 87A as rece
 
 ## Annotations
 
-[^key-2b06b41d071467dc0d80c31111ee0590]: Textual amendment: Ss. 87D-87P inserted (with effect in accordance with Sch. 10 para. 1(12)-(15) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 10 para. 1(1)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/1/1)
+[^c-2b06b41d071467dc0d80c31111ee0590]: Textual amendment: Ss. 87D-87P inserted (with effect in accordance with Sch. 10 para. 1(12)-(15) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 10 para. 1(1)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/1/1)

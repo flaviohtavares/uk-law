@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54.[^key-3ccd4ad647db30f7bbd90ccd18944994]
+## 54.[^c-3ccd4ad647db30f7bbd90ccd18944994]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ In Part 14 (LLP audit: supplementary provisions), in regulation 47 (minor defini
 
 ## Annotations
 
-[^key-3ccd4ad647db30f7bbd90ccd18944994]: Commencement: Reg. 54 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-3ccd4ad647db30f7bbd90ccd18944994]: Commencement: Reg. 54 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)

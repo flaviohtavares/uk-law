@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Applications to the schools forum and the Secretary of State[^key-27f1056bfe9e062d649159ec31feef69]
+## 12. Applications to the schools forum and the Secretary of State[^c-27f1056bfe9e062d649159ec31feef69]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ the local authority may apply to the Secretary of State for such authorisation.
 
 ## Annotations
 
-[^key-27f1056bfe9e062d649159ec31feef69]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2025/42/regulation/12) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-27f1056bfe9e062d649159ec31feef69]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2025/42/regulation/12) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)

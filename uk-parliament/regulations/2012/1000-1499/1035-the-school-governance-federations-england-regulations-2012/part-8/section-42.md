@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**42.**[^key-8885de70006c9978d395aa1e7310b88d] (1) For the purpose of regulation 41(3)(b)—
+**42.**[^c-8885de70006c9978d395aa1e7310b88d] (1) For the purpose of regulation 41(3)(b)—
 
 - (a) the reference in regulation 27 of the Constitution Regulations 2012 to “governing bodies” is treated as a reference to “temporary governing bodies”; and
 - (b) references in regulation 29 of the Constitution Regulations 2012 to—
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8885de70006c9978d395aa1e7310b88d]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2012/1035/regulation/42) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
+[^c-8885de70006c9978d395aa1e7310b88d]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2012/1035/regulation/42) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)

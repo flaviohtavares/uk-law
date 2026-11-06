@@ -26,7 +26,7 @@ summary: ''
 
 Nothing in this subsection shall be taken to authorise any action on the part of a charity which would conflict with the trusts of the charity.
 
-(3) This section has effect subject to section 9 (notification to Welsh Ministers of disposal of land)[^key-e1049d2e0df1567d21ee98f4a3dcaebe].
+(3) This section has effect subject to section 9 (notification to Welsh Ministers of disposal of land)[^c-e1049d2e0df1567d21ee98f4a3dcaebe].
 
 ## Annotations
 
@@ -36,4 +36,4 @@ Nothing in this subsection shall be taken to authorise any action on the part of
 
 [^c13147251]: Marginal citation: [1925 c. 18](https://www.legislation.gov.uk/ukpga/1925/18).
 
-[^key-e1049d2e0df1567d21ee98f4a3dcaebe]: Textual amendment: Words in s. 8(3) substituted (15.8.2018) by [Regulation of Registered Social Landlords (Wales) Act 2018 (anaw 4)](https://www.legislation.gov.uk/anaw/2018/4), [s. 19(2)](https://www.legislation.gov.uk/anaw/2018/4/section/19/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/3); [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
+[^c-e1049d2e0df1567d21ee98f4a3dcaebe]: Textual amendment: Words in s. 8(3) substituted (15.8.2018) by [Regulation of Registered Social Landlords (Wales) Act 2018 (anaw 4)](https://www.legislation.gov.uk/anaw/2018/4), [s. 19(2)](https://www.legislation.gov.uk/anaw/2018/4/section/19/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/3); [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)

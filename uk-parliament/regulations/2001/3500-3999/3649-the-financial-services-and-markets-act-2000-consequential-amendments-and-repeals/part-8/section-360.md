@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 360. Functions of the Accountant in Bankruptcy[^key-f6ff4ded41e28928cf1603793e793b45]
+## 360. Functions of the Accountant in Bankruptcy[^c-f6ff4ded41e28928cf1603793e793b45]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6ff4ded41e28928cf1603793e793b45]: Commencement: Art. 360 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-f6ff4ded41e28928cf1603793e793b45]: Commencement: Art. 360 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

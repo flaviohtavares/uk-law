@@ -38,7 +38,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## National concession: journeys not beginning on London bus network
 
-### 1. The national concession[^key-552fb30d2dd8ed8524e7e06e33ae5c0d][^key-4524f8867b29ad9b1842f180132a860c]
+### 1. The national concession[^c-552fb30d2dd8ed8524e7e06e33ae5c0d][^c-4524f8867b29ad9b1842f180132a860c]
 
 For section 145 of the Transport Act 2000 (c. 38) (mandatory concessions outside Greater London) and the heading before the section substitute—
 
@@ -92,7 +92,7 @@ For section 145 of the Transport Act 2000 (c. 38) (mandatory concessions outside
 > - (b) about the form of agreements, and
 > - (c) as to the period for which a person may agree not to be entitled to the concessions mentioned in subsection (9)(a) and (b).
 
-### 2. The national concession: supplementary[^key-4de4abd95013a239377a74855e171663][^key-c74ad42ff385bb1227ad8e537c56e9a8]
+### 2. The national concession: supplementary[^c-4de4abd95013a239377a74855e171663][^c-c74ad42ff385bb1227ad8e537c56e9a8]
 
 (1) Amend section 146 of the 2000 Act (mandatory concessions: supplementary) as follows.
 
@@ -115,7 +115,7 @@ For section 145 of the Transport Act 2000 (c. 38) (mandatory concessions outside
 
   .
 
-### 3. Reimbursement of operators[^key-c4aab198f9cc085dcbda704ff21a1291][^key-e685f8537c726469c63ff501d9be0986]
+### 3. Reimbursement of operators[^c-c4aab198f9cc085dcbda704ff21a1291][^c-e685f8537c726469c63ff501d9be0986]
 
 (1) Amend section 149 of the 2000 Act (reimbursement of operators) as follows.
 
@@ -148,7 +148,7 @@ For section 145 of the Transport Act 2000 (c. 38) (mandatory concessions outside
 
 ## National concession: journeys beginning on London bus network
 
-### 4. The national concession: journeys beginning on London bus network[^key-5f754462a4c54d6b14416b1477a60f34][^key-18ab426d78dda092dd82e591c17c4083]
+### 4. The national concession: journeys beginning on London bus network[^c-5f754462a4c54d6b14416b1477a60f34][^c-18ab426d78dda092dd82e591c17c4083]
 
 (1) Amend section 240 of the Greater London Authority Act 1999 (c. 29) (travel concessions on journeys in and around Greater London) as follows.
 
@@ -172,7 +172,7 @@ For section 145 of the Transport Act 2000 (c. 38) (mandatory concessions outside
 
 > (5C) The Secretary of State may issue guidance to local authorities to which they must have regard in determining for the purposes of this Chapter whether a person has his sole or principal residence in an authority's area.
 
-### 5. Reserve free travel scheme[^key-1065b1e43072f53b502d1ffb962e7c51][^key-7270fc41979ed6480ae5b3e4cf35a4f3]
+### 5. Reserve free travel scheme[^c-1065b1e43072f53b502d1ffb962e7c51][^c-7270fc41979ed6480ae5b3e4cf35a4f3]
 
 (1) Amend section 241 of the 1999 Act (reserve free travel scheme for London residents) as follows.
 
@@ -198,7 +198,7 @@ For section 145 of the Transport Act 2000 (c. 38) (mandatory concessions outside
 
 (7) Schedule 1 contains amendments of Schedule 16 to the 1999 Act (the London free travel scheme).
 
-### 6. Requirements as to scope[^key-d1bb491ba33a4e2a794e539ecb0b9993][^key-705ab31ab5fca67997ad4e69803d3ef2]
+### 6. Requirements as to scope[^c-d1bb491ba33a4e2a794e539ecb0b9993][^c-705ab31ab5fca67997ad4e69803d3ef2]
 
 (1) Amend section 242 of the 1999 Act (requirements as to scope) as follows.
 
@@ -236,7 +236,7 @@ For section 145 of the Transport Act 2000 (c. 38) (mandatory concessions outside
 
 (6) Omit subsection (10).
 
-### 7. Requirements as to uniformity[^key-c322b5334498934bd23ac12d1dea2b03][^key-d84ff8875ef4ef43f645b7d5abe84e11]
+### 7. Requirements as to uniformity[^c-c322b5334498934bd23ac12d1dea2b03][^c-d84ff8875ef4ef43f645b7d5abe84e11]
 
 (1) Amend section 243 of the 1999 Act (requirements as to uniformity) as follows.
 
@@ -260,7 +260,7 @@ For section 145 of the Transport Act 2000 (c. 38) (mandatory concessions outside
 
 ## Power to alter national concession etc
 
-### 8. Variation of scope of the national concession[^key-0eee805de6f707c6a5f2ed105918eb7a][^key-3aa11cbe16104be2192b50dcb2279347]
+### 8. Variation of scope of the national concession[^c-0eee805de6f707c6a5f2ed105918eb7a][^c-3aa11cbe16104be2192b50dcb2279347]
 
 (1) The Secretary of State may by order amend Part 2 of the 2000 Act and Chapter 8 of Part 4 of the 1999 Act for or in connection with securing that the national concession—
 
@@ -279,7 +279,7 @@ For section 145 of the Transport Act 2000 (c. 38) (mandatory concessions outside
 
 (4) Expressions used in this section and in Part 2 of the 2000 Act have the same meaning in this section as in that Part (see sections 146 and 162 of that Act).
 
-### 9. Variation of reimbursement and other administrative arrangements[^key-1f264689998672d49467cea8ab72869c][^key-52853046e1a4e17c73cd4b7db58b2556]
+### 9. Variation of reimbursement and other administrative arrangements[^c-1f264689998672d49467cea8ab72869c][^c-52853046e1a4e17c73cd4b7db58b2556]
 
 (1) The Secretary of State may by order amend Part 2 of the 2000 Act for or in connection with securing that—
 
@@ -309,16 +309,16 @@ For section 145 of the Transport Act 2000 (c. 38) (mandatory concessions outside
 (6) If the Secretary of State makes an order under subsection (1)(a) or (2)(a), he may also by order amend the Transport Act 1985 (c. 67) for or in connection with securing that—
 
 - (a) non-unitary district councils or metropolitan district councils in England cease to be local authorities for the purposes of section 93 of that Act; or
-- (b) a non-unitary district council or a metropolitan district council in England may not establish a travel concession scheme under that section unless they do so jointly with the county council , Integrated Transport Authority[^key-141da8c6cad4c0dcf1ee24dcf8341bb6] , combined authority or combined county authority[^key-6d78396f0a143a85ba0fa497e3d660ce] for the area in which the district is situated (whether or not the scheme is also established jointly with other local authorities).
+- (b) a non-unitary district council or a metropolitan district council in England may not establish a travel concession scheme under that section unless they do so jointly with the county council , Integrated Transport Authority[^c-141da8c6cad4c0dcf1ee24dcf8341bb6] , combined authority or combined county authority[^c-6d78396f0a143a85ba0fa497e3d660ce] for the area in which the district is situated (whether or not the scheme is also established jointly with other local authorities).
 
 (7) An order under subsection (6)(b) may include provision for or in connection with securing that—
 
 - (a) any specified function that a non-unitary district council establishing such a scheme would, but for this paragraph, have had as an authority responsible for administration of the scheme is instead to be exercised by the county council concerned;
-- (b) any specified function that a metropolitan district council establishing such a scheme would, but for this paragraph, have had as an authority responsible for administration of the scheme is instead to be exercised by the Passenger Transport Executive for the area of the Integrated Transport Authority[^key-6664f173426172aa9c80e83ec6f77fca] concerned.
+- (b) any specified function that a metropolitan district council establishing such a scheme would, but for this paragraph, have had as an authority responsible for administration of the scheme is instead to be exercised by the Passenger Transport Executive for the area of the Integrated Transport Authority[^c-6664f173426172aa9c80e83ec6f77fca] concerned.
 
 (8) In this section “**non-unitary district council**” means a council of a non-metropolitan district in England comprised in an area for which there is a county council.
 
-### 10. Reciprocal arrangements for providing travel concessions[^key-78103348b06bd8eeb617f7602dba4baa][^key-94a98f7fe212b69430588b48a248d0e2]
+### 10. Reciprocal arrangements for providing travel concessions[^c-78103348b06bd8eeb617f7602dba4baa][^c-94a98f7fe212b69430588b48a248d0e2]
 
 (1) The Secretary of State may by order amend Part 2 of the 2000 Act and Chapter 8 of Part 4 of the 1999 Act for or in connection with securing that English travel concessions are also provided, or are to a specified extent also provided, to—
 
@@ -375,7 +375,7 @@ to specify the form of a permit includes power to specify its form for the purpo
 
 ## Miscellaneous and supplemental
 
-### 11. Orders[^key-3e92309c02a3c0bca0ea80995a4d6608][^key-dd6afa50b46f78924f8a645ea1d10b19]
+### 11. Orders[^c-3e92309c02a3c0bca0ea80995a4d6608][^c-dd6afa50b46f78924f8a645ea1d10b19]
 
 (1) Any power of the Secretary of State or the Welsh Ministers to make an order under this Act is exercisable by statutory instrument.
 
@@ -389,14 +389,14 @@ to specify the form of a permit includes power to specify its form for the purpo
 
 (6) An order may not be made by the Welsh Ministers under section 10 (whether alone or concurrently with the Secretary of State) unless a draft of the statutory instrument containing the order has been laid before, and approved by a resolution of, the National Assembly for Wales.
 
-### 12. Interpretation[^key-342db173c7b8593bb322797703a1a64f][^key-7cca2e06c02b1c2ae94dd8d7b4fae471]
+### 12. Interpretation[^c-342db173c7b8593bb322797703a1a64f][^c-7cca2e06c02b1c2ae94dd8d7b4fae471]
 
 In this Act—
 
 - “**the 1999 Act**” means the Greater London Authority Act 1999 (c. 29);
 - “**the 2000 Act**” means the Transport Act 2000 (c. 38).
 
-### 13. Minor and consequential amendments[^key-68d1784b15673967d53bd7ed1359b341][^key-878aef5ba8afd4154d511e6fc608f545]
+### 13. Minor and consequential amendments[^c-68d1784b15673967d53bd7ed1359b341][^c-878aef5ba8afd4154d511e6fc608f545]
 
 (1) Schedule 2 contains minor and consequential amendments.
 
@@ -406,11 +406,11 @@ In this Act—
 
 (4) “**Relevant enactment**” means any other enactment passed or instrument made on or before the last day of the session in which this Act is passed.
 
-### 14. Extent[^key-bebe10568581afbdc5bdcc53a05f1ebd][^key-102b0ea984c8da276de8504ef2dbcb14]
+### 14. Extent[^c-bebe10568581afbdc5bdcc53a05f1ebd][^c-102b0ea984c8da276de8504ef2dbcb14]
 
 This Act extends to England and Wales only.
 
-### 15. Commencement, transitional provision and savings[^key-722de718489dbdbd03ce699a4b11ae94][^key-7e983433b3804b79589a197927b8026e]
+### 15. Commencement, transitional provision and savings[^c-722de718489dbdbd03ce699a4b11ae94][^c-7e983433b3804b79589a197927b8026e]
 
 (1) This Act shall come into force on such day as the Secretary of State may by order appoint, and different days may be appointed for different purposes.
 
@@ -418,7 +418,7 @@ This Act extends to England and Wales only.
 
 (3) The power conferred on the Welsh Ministers by section 147 of the 2000 Act includes power to make any amendment of that Act that could have been made by amending or revoking any provision of the Travel Concessions (Extension of Entitlement) (Wales) Order 2001 (S.I. 2001/3765) revoked by this Act.
 
-### 16. Short title[^key-858cb68d244499ba8d32d05500fed675][^key-5e0656e5643b8846accdfe6d6aba4f84]
+### 16. Short title[^c-858cb68d244499ba8d32d05500fed675][^c-5e0656e5643b8846accdfe6d6aba4f84]
 
 This Act may be cited as the Concessionary Bus Travel Act 2007.
 
@@ -428,11 +428,11 @@ SCHEDULES
 
 Section 5
 
-**1.**[^key-ef6499fef1893920f5b84cc3dece9f9a][^key-6fc01fe3842a29122c664c676e865c9c] Amend Schedule 16 to the 1999 Act as follows.
+**1.**[^c-ef6499fef1893920f5b84cc3dece9f9a][^c-6fc01fe3842a29122c664c676e865c9c] Amend Schedule 16 to the 1999 Act as follows.
 
 ### Concession required for all eligible England residents
 
-**2.**[^key-c353e9f574149f9abaf8cb72e1f7a77e][^key-a845b34a77a477e3453662ba6c5f48ed] At the beginning of the Schedule insert—
+**2.**[^c-c353e9f574149f9abaf8cb72e1f7a77e][^c-a845b34a77a477e3453662ba6c5f48ed] At the beginning of the Schedule insert—
 
 > **Concession required for all eligible England residents**
 >
@@ -445,7 +445,7 @@ Section 5
 
 ### Additional concession required for blind eligible London residents
 
-**3.**[^key-1c117b43b3af57a1f6924cd6cb93fb6b][^key-7f958a767857a92975128023e71a70a8] (1) In paragraph 1—
+**3.**[^c-1c117b43b3af57a1f6924cd6cb93fb6b][^c-7f958a767857a92975128023e71a70a8] (1) In paragraph 1—
 
 - (a) for “the concession required” substitute “ the additional concession required ”;
 - (b) at the end of the paragraph insert “ (so far as not falling within section 242(8) of this Act) ”.
@@ -454,7 +454,7 @@ Section 5
 
 ### Additional concession required for other eligible London residents
 
-**4.**[^key-0f4868f3b63ddc75fe8f0d2c0e75452a][^key-74b3c82beea28724ba50a946b841f91e] (1) Amend paragraph 2 as follows.
+**4.**[^c-0f4868f3b63ddc75fe8f0d2c0e75452a][^c-74b3c82beea28724ba50a946b841f91e] (1) Amend paragraph 2 as follows.
 
 (2) In sub-paragraph (1), for “the concession required” substitute “ the additional concession required ”.
 
@@ -464,7 +464,7 @@ Section 5
 
 ### Issue of permits
 
-**5.**[^key-57340a079bd8c61fe75f94c17d5dd9a2][^key-70913333404660e584887f477ae4dcb4] (1) Amend paragraph 4 as follows.
+**5.**[^c-57340a079bd8c61fe75f94c17d5dd9a2][^c-70913333404660e584887f477ae4dcb4] (1) Amend paragraph 4 as follows.
 
 (2) After sub-paragraph (1) insert—
 
@@ -480,7 +480,7 @@ Section 5
 
 ### Charges made for permits
 
-**6.**[^key-c941f679783bb18501afdcecb6a6fbd1][^key-ebfdb6058c1e1bb7cbe82a315d0f0586] In paragraph 5(7)(a), after “section 242(3) of this Act” insert “ or a service outside Greater London which, but for section 179(2), would be part of the London bus network ”.
+**6.**[^c-c941f679783bb18501afdcecb6a6fbd1][^c-ebfdb6058c1e1bb7cbe82a315d0f0586] In paragraph 5(7)(a), after “section 242(3) of this Act” insert “ or a service outside Greater London which, but for section 179(2), would be part of the London bus network ”.
 
 ## SCHEDULE 2 — Minor and consequential amendments
 
@@ -488,9 +488,9 @@ Section 13(1)
 
 ### Transport Act 1985 (c. 67)
 
-**1.**[^key-b54b499f3fcc20ebdae4eed4956ff8c0][^key-d1f41366404c6139c64f9060fd83d5b1] Amend the Transport Act 1985 as follows.
+**1.**[^c-b54b499f3fcc20ebdae4eed4956ff8c0][^c-d1f41366404c6139c64f9060fd83d5b1] Amend the Transport Act 1985 as follows.
 
-**2.**[^key-50015b4f18d93dbad9cf88cf0cec8dcd][^key-5d2de50cfba771e40d2570046aae5a08] In section 98 (travel concession schemes: further provisions with respect to participation notices), after subsection (4) insert—
+**2.**[^c-50015b4f18d93dbad9cf88cf0cec8dcd][^c-5d2de50cfba771e40d2570046aae5a08] In section 98 (travel concession schemes: further provisions with respect to participation notices), after subsection (4) insert—
 
 > (4A) But if the participation notice was served on the person by one or more authorities in England only—
 >
@@ -501,19 +501,19 @@ Section 13(1)
 >
 >   .
 
-**3.**[^key-cccc58fc050edc0262da1f0619779e2c][^key-2d5dbb2d1bba03021744e5e0a6023fad] In section 103 (no subsidies for concessions available under a scheme), in subsection (3), for “section 145(1)” substitute “ section 145A(1) or 145B(1) ”.
+**3.**[^c-cccc58fc050edc0262da1f0619779e2c][^c-2d5dbb2d1bba03021744e5e0a6023fad] In section 103 (no subsidies for concessions available under a scheme), in subsection (3), for “section 145(1)” substitute “ section 145A(1) or 145B(1) ”.
 
-**4.**[^key-7c4641b975647befb62d75d8feda0e7e][^key-c3f81329ad8dbd108c12c156d8907542] In section 104 (travel concessions on services provided by Passenger Transport Executives), in each of subsections (1) and (2)(aa), for “section 145(1)” substitute “ section 145A(1) ”.
+**4.**[^c-7c4641b975647befb62d75d8feda0e7e][^c-c3f81329ad8dbd108c12c156d8907542] In section 104 (travel concessions on services provided by Passenger Transport Executives), in each of subsections (1) and (2)(aa), for “section 145(1)” substitute “ section 145A(1) ”.
 
-**5.**[^key-9d4cc5500b2a560850d6fea33a9d8236][^key-ca59d221d08facc85e817994f58f51e9] In section 105 (travel concessions on services provided by local authorities), in subsection (1), for “section 145(1)” substitute “ section 145A(1) or 145B(1) ”.
+**5.**[^c-9d4cc5500b2a560850d6fea33a9d8236][^c-ca59d221d08facc85e817994f58f51e9] In section 105 (travel concessions on services provided by local authorities), in subsection (1), for “section 145(1)” substitute “ section 145A(1) or 145B(1) ”.
 
-**6.**[^key-0475c0ff2f70c5ed40b560f02922f391][^key-a9a09895435d118ad9432f4ac430ed01] In section 137 (general interpretation), in subsection (7), for “he proves” substitute “ it is proved ”.
+**6.**[^c-0475c0ff2f70c5ed40b560f02922f391][^c-a9a09895435d118ad9432f4ac430ed01] In section 137 (general interpretation), in subsection (7), for “he proves” substitute “ it is proved ”.
 
 ### Greater London Authority Act 1999 (c. 29)
 
-**7.**[^key-00f7f7f459f49671484838fd62db4e27][^key-105aec126d29a164755a312dc3aff15a] Amend the 1999 Act as follows.
+**7.**[^c-00f7f7f459f49671484838fd62db4e27][^c-105aec126d29a164755a312dc3aff15a] Amend the 1999 Act as follows.
 
-**8.**[^key-13b70c49ab4d13baa1c4b9e2cdb9d448][^key-547685db2b0ac4c9b6cc94d584e15f56] In section 244 (exercise of functions by a joint committee), in subsection (1), at the end of paragraph (b) insert
+**8.**[^c-13b70c49ab4d13baa1c4b9e2cdb9d448][^c-547685db2b0ac4c9b6cc94d584e15f56] In section 244 (exercise of functions by a joint committee), in subsection (1), at the end of paragraph (b) insert
 
 > or
 >
@@ -521,16 +521,16 @@ Section 13(1)
 
 .
 
-**9.**[^key-27debc9216a2692ab6cedbfd1c7007bd][^key-9fd46777a678c956a452de33c6459a9d] In section 420 (regulations and orders), in subsection (7), insert each of the following at the appropriate place—
+**9.**[^c-27debc9216a2692ab6cedbfd1c7007bd][^c-9fd46777a678c956a452de33c6459a9d] In section 420 (regulations and orders), in subsection (7), insert each of the following at the appropriate place—
 
 - (a) “ section 243(7); ”, and
 - (b) “ paragraph 4(1A) of Schedule 16; ”.
 
 ### Transport Act 2000 (c. 38)
 
-**10.**[^key-4305aabe97beeaaa79b567423964adb2][^key-7d62d805017a74dd2ced8feffc6951aa] Amend the 2000 Act as follows.
+**10.**[^c-4305aabe97beeaaa79b567423964adb2][^c-7d62d805017a74dd2ced8feffc6951aa] Amend the 2000 Act as follows.
 
-**11.**[^key-6f29cc52f155308377246fb6be842d3b][^key-0361ff5f6bf6ae6bcbb2561d695fc8fe] After section 145A (England: mandatory concessions for journeys not beginning on the London bus network) insert—
+**11.**[^c-6f29cc52f155308377246fb6be842d3b][^c-0361ff5f6bf6ae6bcbb2561d695fc8fe] After section 145A (England: mandatory concessions for journeys not beginning on the London bus network) insert—
 
 > **145B. Wales: mandatory concessions**
 >
@@ -570,17 +570,17 @@ Section 13(1)
 >
 > (11) In this section “**statutory travel concession permit**” means a permit issued pursuant to subsection (3).
 
-**12.**[^key-5d75a8786961b3d0dfbfe47cdfd7c3ec][^key-0591ca165f134499ca77c350c03b8e36] In section 146 (mandatory concessions: supplementary), the definition of “a half-price travel concession” applies in relation to England as in relation to Wales.
+**12.**[^c-5d75a8786961b3d0dfbfe47cdfd7c3ec][^c-0591ca165f134499ca77c350c03b8e36] In section 146 (mandatory concessions: supplementary), the definition of “a half-price travel concession” applies in relation to England as in relation to Wales.
 
-**13.**[^key-6bce7495209262a4bf56dec5f7f5224f][^key-bd896c3d61d1fe7f07e8d8ba3df5d853] (1) Amend section 147 (variation of mandatory concessions) as follows.
+**13.**[^c-6bce7495209262a4bf56dec5f7f5224f][^c-bd896c3d61d1fe7f07e8d8ba3df5d853] (1) Amend section 147 (variation of mandatory concessions) as follows.
 
 (2) For the words from “The Secretary of State” to “section 145(1)” substitute “ The Welsh Ministers may by order amend either or both of sections 145B and 146 for or in connection with securing that section 145B(1) ”.
 
 (3) For the heading substitute “ Wales: variation of mandatory concessions ”.
 
-**14.**[^key-99fb0d0ebcb2e178d6b1196fda681ed0][^key-d84ce6982419d314793bd8f5a6045adb] In section 148 (enforcement), in subsection (1), for “145(1)” substitute “ 145A(1) or 145B(1) ”.
+**14.**[^c-99fb0d0ebcb2e178d6b1196fda681ed0][^c-d84ce6982419d314793bd8f5a6045adb] In section 148 (enforcement), in subsection (1), for “145(1)” substitute “ 145A(1) or 145B(1) ”.
 
-**15.**[^key-46f08ce766ffb6b1ba7e4305962bc4bc][^key-1a1509986598f3e7c8f71f212b9a1c65] In section 162(1) (interpretation of Part 2)—
+**15.**[^c-46f08ce766ffb6b1ba7e4305962bc4bc][^c-1a1509986598f3e7c8f71f212b9a1c65] In section 162(1) (interpretation of Part 2)—
 
 - (a) the definition of “half-price travel concession” applies in relation to England as in relation to Wales;
 - (b) insert at the appropriate place—
@@ -589,7 +589,7 @@ Section 13(1)
 
   .
 
-## SCHEDULE 3 — Repeals and revocations[^key-ad95c4190fb502e815a01d6572aef1ce][^key-5a5e5c0bdbbddd8360fe6389c3b6556c]
+## SCHEDULE 3 — Repeals and revocations[^c-ad95c4190fb502e815a01d6572aef1ce][^c-5a5e5c0bdbbddd8360fe6389c3b6556c]
 
 Section 13(2)
 
@@ -602,160 +602,160 @@ Section 13(2)
 
 ## Annotations
 
-[^key-552fb30d2dd8ed8524e7e06e33ae5c0d]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2007/13/section/1) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-552fb30d2dd8ed8524e7e06e33ae5c0d]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2007/13/section/1) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-4524f8867b29ad9b1842f180132a860c]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2007/13/section/1) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-4524f8867b29ad9b1842f180132a860c]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2007/13/section/1) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-4de4abd95013a239377a74855e171663]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2007/13/section/2) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-4de4abd95013a239377a74855e171663]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2007/13/section/2) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-c74ad42ff385bb1227ad8e537c56e9a8]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2007/13/section/2) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-c74ad42ff385bb1227ad8e537c56e9a8]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2007/13/section/2) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-c4aab198f9cc085dcbda704ff21a1291]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2007/13/section/3) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-c4aab198f9cc085dcbda704ff21a1291]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2007/13/section/3) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-e685f8537c726469c63ff501d9be0986]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2007/13/section/3) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-e685f8537c726469c63ff501d9be0986]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2007/13/section/3) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-5f754462a4c54d6b14416b1477a60f34]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2007/13/section/4) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-5f754462a4c54d6b14416b1477a60f34]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2007/13/section/4) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-18ab426d78dda092dd82e591c17c4083]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2007/13/section/4) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-18ab426d78dda092dd82e591c17c4083]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2007/13/section/4) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-1065b1e43072f53b502d1ffb962e7c51]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2007/13/section/5) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-1065b1e43072f53b502d1ffb962e7c51]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2007/13/section/5) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-7270fc41979ed6480ae5b3e4cf35a4f3]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2007/13/section/5) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-7270fc41979ed6480ae5b3e4cf35a4f3]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2007/13/section/5) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-d1bb491ba33a4e2a794e539ecb0b9993]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2007/13/section/6) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-d1bb491ba33a4e2a794e539ecb0b9993]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2007/13/section/6) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-705ab31ab5fca67997ad4e69803d3ef2]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2007/13/section/6) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-705ab31ab5fca67997ad4e69803d3ef2]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2007/13/section/6) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-c322b5334498934bd23ac12d1dea2b03]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2007/13/section/7) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-c322b5334498934bd23ac12d1dea2b03]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2007/13/section/7) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-d84ff8875ef4ef43f645b7d5abe84e11]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2007/13/section/7) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-d84ff8875ef4ef43f645b7d5abe84e11]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2007/13/section/7) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-0eee805de6f707c6a5f2ed105918eb7a]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2007/13/section/8) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-0eee805de6f707c6a5f2ed105918eb7a]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2007/13/section/8) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-3aa11cbe16104be2192b50dcb2279347]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2007/13/section/8) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-3aa11cbe16104be2192b50dcb2279347]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2007/13/section/8) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-1f264689998672d49467cea8ab72869c]: Commencement: S. 9 in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-1f264689998672d49467cea8ab72869c]: Commencement: S. 9 in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-52853046e1a4e17c73cd4b7db58b2556]: Commencement: S. 9 in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-52853046e1a4e17c73cd4b7db58b2556]: Commencement: S. 9 in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-141da8c6cad4c0dcf1ee24dcf8341bb6]: Textual amendment: Words in [s. 9(6)(b)](https://www.legislation.gov.uk/ukpga/2007/13/section/9/6/b) substituted (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6), [Sch. 6 para. 120](https://www.legislation.gov.uk/ukpga/2009/20/schedule/6/paragraph/120); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/c)
+[^c-141da8c6cad4c0dcf1ee24dcf8341bb6]: Textual amendment: Words in [s. 9(6)(b)](https://www.legislation.gov.uk/ukpga/2007/13/section/9/6/b) substituted (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6), [Sch. 6 para. 120](https://www.legislation.gov.uk/ukpga/2009/20/schedule/6/paragraph/120); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/c)
 
-[^key-6d78396f0a143a85ba0fa497e3d660ce]: Textual amendment: Words in [s. 9(6)(b)](https://www.legislation.gov.uk/ukpga/2007/13/section/9/6/b) substituted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 171](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/171) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-6d78396f0a143a85ba0fa497e3d660ce]: Textual amendment: Words in [s. 9(6)(b)](https://www.legislation.gov.uk/ukpga/2007/13/section/9/6/b) substituted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 171](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/171) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-6664f173426172aa9c80e83ec6f77fca]: Textual amendment: Words in s. 9(7)(b) substituted (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 67(2)](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/67/2); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-6664f173426172aa9c80e83ec6f77fca]: Textual amendment: Words in s. 9(7)(b) substituted (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 67(2)](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/67/2); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
 
-[^key-78103348b06bd8eeb617f7602dba4baa]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2007/13/section/10) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-78103348b06bd8eeb617f7602dba4baa]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2007/13/section/10) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-94a98f7fe212b69430588b48a248d0e2]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2007/13/section/10) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-94a98f7fe212b69430588b48a248d0e2]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2007/13/section/10) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-3e92309c02a3c0bca0ea80995a4d6608]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2007/13/section/11) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-3e92309c02a3c0bca0ea80995a4d6608]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2007/13/section/11) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-dd6afa50b46f78924f8a645ea1d10b19]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2007/13/section/11) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-dd6afa50b46f78924f8a645ea1d10b19]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2007/13/section/11) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-342db173c7b8593bb322797703a1a64f]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2007/13/section/12) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-342db173c7b8593bb322797703a1a64f]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2007/13/section/12) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-7cca2e06c02b1c2ae94dd8d7b4fae471]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2007/13/section/12) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-7cca2e06c02b1c2ae94dd8d7b4fae471]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2007/13/section/12) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-68d1784b15673967d53bd7ed1359b341]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2007/13/section/13) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-68d1784b15673967d53bd7ed1359b341]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2007/13/section/13) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-878aef5ba8afd4154d511e6fc608f545]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2007/13/section/13) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-878aef5ba8afd4154d511e6fc608f545]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2007/13/section/13) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-bebe10568581afbdc5bdcc53a05f1ebd]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2007/13/section/14) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-bebe10568581afbdc5bdcc53a05f1ebd]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2007/13/section/14) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-102b0ea984c8da276de8504ef2dbcb14]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2007/13/section/14) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-102b0ea984c8da276de8504ef2dbcb14]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2007/13/section/14) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-722de718489dbdbd03ce699a4b11ae94]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2007/13/section/15) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-722de718489dbdbd03ce699a4b11ae94]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2007/13/section/15) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-7e983433b3804b79589a197927b8026e]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2007/13/section/15) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-7e983433b3804b79589a197927b8026e]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2007/13/section/15) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-858cb68d244499ba8d32d05500fed675]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2007/13/section/16) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-858cb68d244499ba8d32d05500fed675]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2007/13/section/16) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-5e0656e5643b8846accdfe6d6aba4f84]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2007/13/section/16) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-5e0656e5643b8846accdfe6d6aba4f84]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2007/13/section/16) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-ef6499fef1893920f5b84cc3dece9f9a]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2007/13/schedule/1/paragraph/1) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-ef6499fef1893920f5b84cc3dece9f9a]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2007/13/schedule/1/paragraph/1) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-6fc01fe3842a29122c664c676e865c9c]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2007/13/schedule/1/paragraph/1) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-6fc01fe3842a29122c664c676e865c9c]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2007/13/schedule/1/paragraph/1) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-c353e9f574149f9abaf8cb72e1f7a77e]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2007/13/schedule/1/paragraph/2) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-c353e9f574149f9abaf8cb72e1f7a77e]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2007/13/schedule/1/paragraph/2) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-a845b34a77a477e3453662ba6c5f48ed]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2007/13/schedule/1/paragraph/2) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-a845b34a77a477e3453662ba6c5f48ed]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2007/13/schedule/1/paragraph/2) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-1c117b43b3af57a1f6924cd6cb93fb6b]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2007/13/schedule/1/paragraph/3) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-1c117b43b3af57a1f6924cd6cb93fb6b]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2007/13/schedule/1/paragraph/3) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-7f958a767857a92975128023e71a70a8]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2007/13/schedule/1/paragraph/3) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-7f958a767857a92975128023e71a70a8]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2007/13/schedule/1/paragraph/3) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-0f4868f3b63ddc75fe8f0d2c0e75452a]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2007/13/schedule/1/paragraph/4) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-0f4868f3b63ddc75fe8f0d2c0e75452a]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2007/13/schedule/1/paragraph/4) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-74b3c82beea28724ba50a946b841f91e]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2007/13/schedule/1/paragraph/4) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-74b3c82beea28724ba50a946b841f91e]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2007/13/schedule/1/paragraph/4) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-57340a079bd8c61fe75f94c17d5dd9a2]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2007/13/schedule/1/paragraph/5) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-57340a079bd8c61fe75f94c17d5dd9a2]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2007/13/schedule/1/paragraph/5) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-70913333404660e584887f477ae4dcb4]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2007/13/schedule/1/paragraph/5) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-70913333404660e584887f477ae4dcb4]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2007/13/schedule/1/paragraph/5) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-c941f679783bb18501afdcecb6a6fbd1]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2007/13/schedule/1/paragraph/6) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-c941f679783bb18501afdcecb6a6fbd1]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2007/13/schedule/1/paragraph/6) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-ebfdb6058c1e1bb7cbe82a315d0f0586]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2007/13/schedule/1/paragraph/6) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-ebfdb6058c1e1bb7cbe82a315d0f0586]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2007/13/schedule/1/paragraph/6) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-b54b499f3fcc20ebdae4eed4956ff8c0]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/1) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-b54b499f3fcc20ebdae4eed4956ff8c0]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/1) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-d1f41366404c6139c64f9060fd83d5b1]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/1) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-d1f41366404c6139c64f9060fd83d5b1]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/1) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-50015b4f18d93dbad9cf88cf0cec8dcd]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/2) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-50015b4f18d93dbad9cf88cf0cec8dcd]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/2) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-5d2de50cfba771e40d2570046aae5a08]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/2) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-5d2de50cfba771e40d2570046aae5a08]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/2) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-cccc58fc050edc0262da1f0619779e2c]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/3) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-cccc58fc050edc0262da1f0619779e2c]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/3) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-2d5dbb2d1bba03021744e5e0a6023fad]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/3) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-2d5dbb2d1bba03021744e5e0a6023fad]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/3) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-7c4641b975647befb62d75d8feda0e7e]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/4) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-7c4641b975647befb62d75d8feda0e7e]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/4) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-c3f81329ad8dbd108c12c156d8907542]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/4) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-c3f81329ad8dbd108c12c156d8907542]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/4) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-9d4cc5500b2a560850d6fea33a9d8236]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/5) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-9d4cc5500b2a560850d6fea33a9d8236]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/5) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-ca59d221d08facc85e817994f58f51e9]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/5) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-ca59d221d08facc85e817994f58f51e9]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/5) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-0475c0ff2f70c5ed40b560f02922f391]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/6) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-0475c0ff2f70c5ed40b560f02922f391]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/6) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-a9a09895435d118ad9432f4ac430ed01]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/6) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-a9a09895435d118ad9432f4ac430ed01]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/6) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-00f7f7f459f49671484838fd62db4e27]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/7) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-00f7f7f459f49671484838fd62db4e27]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/7) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-105aec126d29a164755a312dc3aff15a]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/7) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-105aec126d29a164755a312dc3aff15a]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/7) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-13b70c49ab4d13baa1c4b9e2cdb9d448]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/8) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-13b70c49ab4d13baa1c4b9e2cdb9d448]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/8) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-547685db2b0ac4c9b6cc94d584e15f56]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/8) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-547685db2b0ac4c9b6cc94d584e15f56]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/8) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-27debc9216a2692ab6cedbfd1c7007bd]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/9) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-27debc9216a2692ab6cedbfd1c7007bd]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/9) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-9fd46777a678c956a452de33c6459a9d]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/9) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-9fd46777a678c956a452de33c6459a9d]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/9) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-4305aabe97beeaaa79b567423964adb2]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/10) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-4305aabe97beeaaa79b567423964adb2]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/10) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-7d62d805017a74dd2ced8feffc6951aa]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/10) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-7d62d805017a74dd2ced8feffc6951aa]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/10) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-6f29cc52f155308377246fb6be842d3b]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/11) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-6f29cc52f155308377246fb6be842d3b]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/11) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-0361ff5f6bf6ae6bcbb2561d695fc8fe]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/11) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-0361ff5f6bf6ae6bcbb2561d695fc8fe]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/11) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-5d75a8786961b3d0dfbfe47cdfd7c3ec]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/12) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-5d75a8786961b3d0dfbfe47cdfd7c3ec]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/12) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-0591ca165f134499ca77c350c03b8e36]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/12) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-0591ca165f134499ca77c350c03b8e36]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/12) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-6bce7495209262a4bf56dec5f7f5224f]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/13) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-6bce7495209262a4bf56dec5f7f5224f]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/13) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-bd896c3d61d1fe7f07e8d8ba3df5d853]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/13) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-bd896c3d61d1fe7f07e8d8ba3df5d853]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/13) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-99fb0d0ebcb2e178d6b1196fda681ed0]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/14) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-99fb0d0ebcb2e178d6b1196fda681ed0]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/14) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-d84ce6982419d314793bd8f5a6045adb]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/14) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-d84ce6982419d314793bd8f5a6045adb]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/14) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-46f08ce766ffb6b1ba7e4305962bc4bc]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/15) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-46f08ce766ffb6b1ba7e4305962bc4bc]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/15) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-1a1509986598f3e7c8f71f212b9a1c65]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/15) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-1a1509986598f3e7c8f71f212b9a1c65]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/15) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-ad95c4190fb502e815a01d6572aef1ce]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2007/13/schedule/3) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-ad95c4190fb502e815a01d6572aef1ce]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2007/13/schedule/3) in force at 17.10.2007 for specified purposes by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-5a5e5c0bdbbddd8360fe6389c3b6556c]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2007/13/schedule/3) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-5a5e5c0bdbbddd8360fe6389c3b6556c]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2007/13/schedule/3) in force at 1.4.2008 in so far as not already in force by [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [art. 3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))

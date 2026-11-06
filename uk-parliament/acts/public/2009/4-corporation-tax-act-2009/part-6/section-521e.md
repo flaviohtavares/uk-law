@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 521E. Unallowable purpose[^key-596eba3b2e03b2e5eb5b680e98204f9d]
+## 521E. Unallowable purpose[^c-596eba3b2e03b2e5eb5b680e98204f9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,12 +36,12 @@ summary: ''
 
 at the time when amounts would be brought into account in relation to the return in accordance with section 521B.
 
-(5)[^key-e4589adc84a93f6fea665e6b2bdd9740] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-e4589adc84a93f6fea665e6b2bdd9740] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-e4589adc84a93f6fea665e6b2bdd9740] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-e4589adc84a93f6fea665e6b2bdd9740] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-596eba3b2e03b2e5eb5b680e98204f9d]: Textual amendment: Pt. 6 Ch. 6A inserted (retrospective and with effect in accordance with Sch. 24 paras. 12, 13-16 of the commencing Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 24 para. 4](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/4)[12](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/12)
+[^c-596eba3b2e03b2e5eb5b680e98204f9d]: Textual amendment: Pt. 6 Ch. 6A inserted (retrospective and with effect in accordance with Sch. 24 paras. 12, 13-16 of the commencing Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 24 para. 4](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/4)[12](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/12)
 
-[^key-e4589adc84a93f6fea665e6b2bdd9740]: Textual amendment: S. 521E(5)(6) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 28](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/28) (with [Sch. 20 para. 50(9)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/50/9))
+[^c-e4589adc84a93f6fea665e6b2bdd9740]: Textual amendment: S. 521E(5)(6) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 28](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/28) (with [Sch. 20 para. 50(9)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/50/9))

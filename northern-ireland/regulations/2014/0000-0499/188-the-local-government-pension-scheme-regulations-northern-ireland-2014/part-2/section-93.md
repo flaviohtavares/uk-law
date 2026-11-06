@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: N.I.*
 
-If it appears to the Committee that a person [^key-7049a0875a13b97a4c7447510ff99d66]... is entitled to payment of benefits under the Scheme but is, by reason of mental disorder or otherwise, incapable of managing that person's own affairs—
+If it appears to the Committee that a person [^c-7049a0875a13b97a4c7447510ff99d66]... is entitled to payment of benefits under the Scheme but is, by reason of mental disorder or otherwise, incapable of managing that person's own affairs—
 
 - (a) the Committee may pay the benefits or any part of them to a person having the care of the person entitled, or such other person as the Committee may determine, to be applied for the benefit of the person entitled; and
 - (b) in so far as the Committee does not pay the benefits in that manner, the Committee may apply them in such manner as it may determine, for the benefit of the person entitled, or any beneficiaries of the person entitled.
 
 ## Annotations
 
-[^key-7049a0875a13b97a4c7447510ff99d66]: Textual amendment: Words in [reg. 93](https://www.legislation.gov.uk/nisr/2014/188/regulation/93) deleted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [21](https://www.legislation.gov.uk/nisr/2015/162/regulation/21)
+[^c-7049a0875a13b97a4c7447510ff99d66]: Textual amendment: Words in [reg. 93](https://www.legislation.gov.uk/nisr/2014/188/regulation/93) deleted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [21](https://www.legislation.gov.uk/nisr/2015/162/regulation/21)

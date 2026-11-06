@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — LAND IN WHICH ONLY NEW RIGHTS ETC., MAY BE ACQUIRED[^key-96e2ce433ba47bdc20d22c88d9ec4b2a]
+## SCHEDULE 6 — LAND IN WHICH ONLY NEW RIGHTS ETC., MAY BE ACQUIRED[^c-96e2ce433ba47bdc20d22c88d9ec4b2a]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ Article 10
 
 ## Annotations
 
-[^key-96e2ce433ba47bdc20d22c88d9ec4b2a]: Commencement: Sch. 6 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-96e2ce433ba47bdc20d22c88d9ec4b2a]: Commencement: Sch. 6 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)

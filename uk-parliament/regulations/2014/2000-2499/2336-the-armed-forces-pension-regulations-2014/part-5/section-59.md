@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. General option to exchange part of the pension for lump sum[^key-529d96f2a28aaa485347916c2faa3036]
+## 59. General option to exchange part of the pension for lump sum[^c-529d96f2a28aaa485347916c2faa3036]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-529d96f2a28aaa485347916c2faa3036]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/2014/2336/regulation/59) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-529d96f2a28aaa485347916c2faa3036]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/2014/2336/regulation/59) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

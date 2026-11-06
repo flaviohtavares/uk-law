@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Notification of acquisition of goods subject to excise duty by non-taxable persons and payment of VAT[^key-090de3ce918341e0d52f79cc1203b655][^key-d330ceeec4f024a3db3033a963629c48][^key-8ced83565c553e6653cecaf0abf892ae]
+## 36. Notification of acquisition of goods subject to excise duty by non-taxable persons and payment of VAT[^c-090de3ce918341e0d52f79cc1203b655][^c-d330ceeec4f024a3db3033a963629c48][^c-8ced83565c553e6653cecaf0abf892ae]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,8 +46,8 @@ the person acquiring the goods shall notify the Commissioners of the acquisition
 
 ## Annotations
 
-[^key-090de3ce918341e0d52f79cc1203b655]: Commencement: Reg. 36 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-090de3ce918341e0d52f79cc1203b655]: Commencement: Reg. 36 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
 
-[^key-d330ceeec4f024a3db3033a963629c48]: Modification: [Pt. 5](https://www.legislation.gov.uk/uksi/1995/2518/part/V) applied (31.12.2020) by [The Value Added Tax (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1546)](https://www.legislation.gov.uk/uksi/2020/1546), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1546/regulation/1), [34](https://www.legislation.gov.uk/uksi/2020/1546/regulation/34) (with [reg. 33](https://www.legislation.gov.uk/uksi/2020/1546/regulation/33)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-d330ceeec4f024a3db3033a963629c48]: Modification: [Pt. 5](https://www.legislation.gov.uk/uksi/1995/2518/part/V) applied (31.12.2020) by [The Value Added Tax (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1546)](https://www.legislation.gov.uk/uksi/2020/1546), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1546/regulation/1), [34](https://www.legislation.gov.uk/uksi/2020/1546/regulation/34) (with [reg. 33](https://www.legislation.gov.uk/uksi/2020/1546/regulation/33)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-8ced83565c553e6653cecaf0abf892ae]: Modification: [Pt. 5](https://www.legislation.gov.uk/uksi/1995/2518/part/V) applied (31.12.2020) by [The Value Added Tax (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1546)](https://www.legislation.gov.uk/uksi/2020/1546), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1546/regulation/1), [16](https://www.legislation.gov.uk/uksi/2020/1546/regulation/16) (with [reg. 15](https://www.legislation.gov.uk/uksi/2020/1546/regulation/15)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-8ced83565c553e6653cecaf0abf892ae]: Modification: [Pt. 5](https://www.legislation.gov.uk/uksi/1995/2518/part/V) applied (31.12.2020) by [The Value Added Tax (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1546)](https://www.legislation.gov.uk/uksi/2020/1546), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1546/regulation/1), [16](https://www.legislation.gov.uk/uksi/2020/1546/regulation/16) (with [reg. 15](https://www.legislation.gov.uk/uksi/2020/1546/regulation/15)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

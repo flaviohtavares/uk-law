@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Control of certain operations and works of statutory undertakers[^key-4c25bb48cb7edeec42ca230b50692bde]
+## 22. Control of certain operations and works of statutory undertakers[^c-4c25bb48cb7edeec42ca230b50692bde]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c25bb48cb7edeec42ca230b50692bde]: Commencement: Art. 22 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-4c25bb48cb7edeec42ca230b50692bde]: Commencement: Art. 22 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

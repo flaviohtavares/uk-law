@@ -31,10 +31,10 @@ Commission Regulation (EC) No 1313/2002
 
 of 19 July 2002 implementing Council Regulation (EC) No 577/98 on the organisation of a labour force sample survey in the Community concerning the specification of the 2003 ad hoc module on lifelong learning (revoked)
 
-[^key-be74c40a10223852ed23e3cd151d0703]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-be74c40a10223852ed23e3cd151d0703]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-be74c40a10223852ed23e3cd151d0703] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-be74c40a10223852ed23e3cd151d0703] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-be74c40a10223852ed23e3cd151d0703]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/28); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-be74c40a10223852ed23e3cd151d0703]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/28); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Transitional provision: approved places of inspection[^key-d221174e6b79ac8fe9d0baa5b2c9cbd1]
+## 13. Transitional provision: approved places of inspection[^c-d221174e6b79ac8fe9d0baa5b2c9cbd1]
 
 *Extent: E+W*
 
@@ -58,14 +58,14 @@ summary: ''
 - “**plant health movement document**” means a document in the form set out in the Annex to Commission Directive [2004/103/EC](https://www.legislation.gov.uk/eudr/2004/103) on identity and plant health checks of plants, plant products or other objects, listed in Part B of Annex V to Council Directive [2000/29/EC](https://www.legislation.gov.uk/eudr/2000/29), which may be carried out at a place other than the point of entry into the Community or at a place close by and specifying the conditions related to these checks [^c23956281];
 - “**relevant period**” means the period beginning on the commencement date and ending immediately before 14th December 2020;
 - “**temporary storage facility**” means a temporary storage facility within the meaning of Article 148 of Regulation (EU) No 952/2013 of the European Parliament and of the Council laying down the Union Customs Code [^c23956291];
-- “**working day[^key-05f7973d789c9f5bcaed34584aeb662b]**” has the meaning given in regulation 7(4).
+- “**working day[^c-05f7973d789c9f5bcaed34584aeb662b]**” has the meaning given in regulation 7(4).
 
 ## Annotations
 
-[^key-d221174e6b79ac8fe9d0baa5b2c9cbd1]: Commencement: Reg. 13 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
+[^c-d221174e6b79ac8fe9d0baa5b2c9cbd1]: Commencement: Reg. 13 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
 
 [^c23956281]: Marginal citation: OJ No. L 313, 12.10.2004, p.16.
 
 [^c23956291]: Marginal citation: OJ No. L 269, 10.10.2013, p.1, as last amended by Regulation (EU) 2019/632 of the European Parliament and of the Council (OJ No. L 111, 25.4.2019, p.54).
 
-[^key-05f7973d789c9f5bcaed34584aeb662b]: Textual amendment: Word in reg. 13(10) substituted (15.10.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/1014)](https://www.legislation.gov.uk/uksi/2020/1014), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1014/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/1014/regulation/2/4)
+[^c-05f7973d789c9f5bcaed34584aeb662b]: Textual amendment: Word in reg. 13(10) substituted (15.10.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/1014)](https://www.legislation.gov.uk/uksi/2020/1014), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1014/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/1014/regulation/2/4)

@@ -65,7 +65,7 @@ This Schedule applies in relation to every radioactive substances activity.
   - (b) in relation to any other body of persons (whether corporate or unincorporate), includes any of the activities of that body;
 - “**waste**” should be construed in accordance with paragraph 3(2).
 
-(2) In this Schedule, where any reference is made to a substance or article possessing a concentration or quantity of radioactivity which exceeds the value specified in a column in either of Tables 1 and 2, or any of Tables 4A, 5 or 7[^key-3aabae455c4e55ec38ee2a192f9a1a85] in Part 6 of this Schedule, that value is exceeded if—
+(2) In this Schedule, where any reference is made to a substance or article possessing a concentration or quantity of radioactivity which exceeds the value specified in a column in either of Tables 1 and 2, or any of Tables 4A, 5 or 7[^c-3aabae455c4e55ec38ee2a192f9a1a85] in Part 6 of this Schedule, that value is exceeded if—
 
 - (a) where only one radionuclide which is listed or described in the relevant table is present in the substance or article, the concentration or quantity of that radionuclide exceeds the concentration or quantity specified in the appropriate entry of that column in that table, or
 - (b) where more than one radionuclide which is listed or described in the relevant table is present, the sum of the quotient values of all such radionuclides in the substance or article, as determined by the summation rule following the table (as it applies to that column), is greater than one,
@@ -90,15 +90,15 @@ and any reference to a concentration or quantity of radioactivity not exceeding 
   - (h) the production of tin, copper, aluminium, zinc, lead and iron and steel,
   - (i) any activity related to coal mine de-watering plants,
   - (j) china clay extraction,
-  - (k) water treatment associated with provision of drinking water, [^key-cd9d04f9f8fd83c5970cd409c7d678cb]...
-  - (ka) geothermal energy production, or[^key-1b87bda492ba8a91f6769ce72ed37388]
+  - (k) water treatment associated with provision of drinking water, [^c-cd9d04f9f8fd83c5970cd409c7d678cb]...
+  - (ka) geothermal energy production, or[^c-1b87bda492ba8a91f6769ce72ed37388]
   - (l) the remediation of contamination from any type 1 NORM industrial activity or any of the activities listed above.
 
 (2) An activity which involves the processing of radionuclides of natural terrestrial or cosmic origin for their radioactive, fissile or fertile properties is not a type 1 NORM industrial activity or a type 2 NORM industrial activity.
 
 #### 3. Interpretation: “radioactive material”, “radioactive waste” and “waste”
 
-(1) In this Schedule, except as provided by paragraph 7, 8, 9, 9A[^key-dd8708d735d3bd41b3615cd504efd12e] or 10—
+(1) In this Schedule, except as provided by paragraph 7, 8, 9, 9A[^c-dd8708d735d3bd41b3615cd504efd12e] or 10—
 
 - “**radioactive material**” means a substance or article which is not waste, and which satisfies the requirements of paragraph 4, 5 or 6 as they apply to such a substance or article;
 - “**radioactive waste**” means a substance or article which is waste, and which satisfies the requirements of paragraph 4, 5 or 6.
@@ -143,7 +143,7 @@ A substance or article which contains one or more radionuclides that are not of 
 - (a) the substance or article is a solid or a relevant liquid and it has a concentration of radioactivity which exceeds the value specified in column 2 of Table 2, or
 - (b) the substance is any other liquid or a gas.
 
-#### 6A. Dilution to reduce concentration of radioactivity[^key-de8fb2bff07756aa0deebb1cf62237b0]
+#### 6A. Dilution to reduce concentration of radioactivity[^c-de8fb2bff07756aa0deebb1cf62237b0]
 
 For the purposes of paragraphs 4, 5 and 6, a substance or article is to be treated as having a concentration of radioactivity which exceeds the value referred to in paragraph 4(2), 5(c)(i) or 6(a), if a person has diluted the substance or article with the intention of ensuring that its concentration of radioactivity does not exceed that value.
 
@@ -171,7 +171,7 @@ A substance or article is not radioactive material or radioactive waste where no
 
 (2) Sub-paragraph (1) only applies while the substance or article is kept on the premises on which the contamination occurred.
 
-#### 9A. Historic radium contamination[^key-84c52cfb0d5b910e260d4be03c8def4f]
+#### 9A. Historic radium contamination[^c-84c52cfb0d5b910e260d4be03c8def4f]
 
 A substance or article is not radioactive material or radioactive waste where the substance or article arises from the remediation of land contaminated by radium and—
 
@@ -310,7 +310,7 @@ Concentration of radionuclides: NORM industrial activities
 
 | *Radionuclide* | *Solid or relevant liquid concentration in becquerels per gram (Bq/g)* | *Any other liquid concentration in becquerels per litre (Bq/l)* | *Gaseous concentration in becquerels per cubic metre (Bq/m<sup>3</sup>)* |
 | --- | --- | --- | --- |
-| U-238sec [^c23193741] | 1[^key-1266b7aa4f0d476c881510dd0b20dbfa] | 0.1 | 0.001 |
+| U-238sec [^c23193741] | 1[^c-1266b7aa4f0d476c881510dd0b20dbfa] | 0.1 | 0.001 |
 | U-238+ | 5 | 10 | 0.01 |
 | U-234 | 5 | 10 | 0.01 |
 | Th-230 | 10 | 10 | 0.001 |
@@ -341,7 +341,7 @@ Concentration of radionuclides
 
 | Radionuclide | Concentration in becquerels per gram (Bq/g) |
 | --- | --- |
-| H-3[^key-b23f68abbc3e97f583e94e7f2eb1581f] | 10<sup>2</sup> |
+| H-3[^c-b23f68abbc3e97f583e94e7f2eb1581f] | 10<sup>2</sup> |
 | Be-7 | 10 |
 | C-14 | 10 |
 | F-18 | 10 |
@@ -773,7 +773,7 @@ In respect of a radioactive substances activity that relates to radioactive wast
 - (a) “**owner**” has the same meaning as in section 343 of the Public Health Act 1936 [^c23193761], and
 - (b) the provisions of section 294 of that Act [^c23193771] (which limits the liability of owners who are only agents or trustees) apply but as if reference in that section to a council recovering expenses under that Act were to the regulator recovering expenses under sub-paragraph (2).
 
-#### SECTION 3 — Miscellaneous duties of the regulator[^key-208b032245bf381f751ec63ee8a1c0d0]
+#### SECTION 3 — Miscellaneous duties of the regulator[^c-208b032245bf381f751ec63ee8a1c0d0]
 
 ##### 5. Inspection programmes
 
@@ -817,7 +817,7 @@ In exercising its relevant functions in relation to a radioactive substances act
 
 (3) For the purposes of sub-paragraph (2), where the regulator is exercising relevant functions in relation to a nuclear power station or nuclear reprocessing plant, the environmental permit conditions imposed must require the monitoring of radioactive discharges and reporting to the regulator of such information on radioactive discharges as the appropriate authority directs.
 
-### PART 5 — The control of high-activity and other sources[^key-9371be77f15816ab04cc091f276b1991]
+### PART 5 — The control of high-activity and other sources[^c-9371be77f15816ab04cc091f276b1991]
 
 #### SECTION 1 — Security of sources
 
@@ -894,11 +894,11 @@ In this Part—
 
 #### SECTION 3 — Exercise of relevant functions and matters in relation to ... sources[^M_F_71995d4e-9bd6-455d-ce5a-c3e6b4118902]
 
-##### 5. General[^key-d6acfe2f71553c05db164adb231dfd37]
+##### 5. General[^c-d6acfe2f71553c05db164adb231dfd37]
 
 In exercising relevant functions in relation to a radioactive substances activity, the regulator must comply with Articles 85 to 89 and 91 of the Basic Safety Standards Directive.
 
-##### 6. Records and inspections[^key-41c9b62944cf6641dfee1fb90dfb120b]
+##### 6. Records and inspections[^c-41c9b62944cf6641dfee1fb90dfb120b]
 
 In relation to a high-activity source, the regulator must keep records of those matters—
 
@@ -990,7 +990,7 @@ In this Part—
 - “**week**” means any period of 7 consecutive days;
 - “**year**” means a calendar year.
 
-##### 2. Interpretation: NORM[^key-316675acd15539dc58b86043188e25bf]
+##### 2. Interpretation: NORM[^c-316675acd15539dc58b86043188e25bf]
 
 (1) In this Part “NORM waste” means a substance or article which—
 
@@ -1262,7 +1262,7 @@ A person to whom the condition in this paragraph applies must dispose of the rad
 
 (7)[^M_F_69660efb-201f-498d-9bd2-fafb9023b9ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 18A. Exemption for disposing of gaseous NORM waste from oil and gas production[^key-6405563694594e9794123ac0c1e12244]
+##### 18A. Exemption for disposing of gaseous NORM waste from oil and gas production[^c-6405563694594e9794123ac0c1e12244]
 
 A person is exempt from the requirement for an environmental permit to carry on the radioactive substances activity described in paragraph 11(2)(b) (disposing of waste) of Part 2 of this Schedule where the only radioactive waste disposed of is gaseous NORM waste released in the production of oil and gas.
 
@@ -1432,7 +1432,7 @@ Radioactive material and accumulated radioactive waste: values of maximum quanti
 
 [^M_F_eddb4d5d-6a8b-4f18-f745-842a446749d4]
 
-##### 25A. Table 4A[^key-3333b660782b6d48ab18796291de8d97]
+##### 25A. Table 4A[^c-3333b660782b6d48ab18796291de8d97]
 
 (1) The Table 4A referred to in Sections 2, 5 and 6 of this Part is—
 
@@ -2270,23 +2270,23 @@ Statutory provisions in respect of which radioactivity is to be disregarded
 
 [^c23193731]: Marginal citation: OJ No L 353, 31.12.2008, p 1, as last amended by Commission Regulation (EU) No 1297/2014 (OJ No L 350, 6.12.2014, p 1).
 
-[^key-3aabae455c4e55ec38ee2a192f9a1a85]: Textual amendment: Words in Sch. 23 Pt. 2 para. 1(2) substituted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/2)
+[^c-3aabae455c4e55ec38ee2a192f9a1a85]: Textual amendment: Words in Sch. 23 Pt. 2 para. 1(2) substituted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/2)
 
-[^key-cd9d04f9f8fd83c5970cd409c7d678cb]: Textual amendment: Word in Sch. 23 Pt. 2 para. 2(1) omitted (2.5.2018) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/3)
+[^c-cd9d04f9f8fd83c5970cd409c7d678cb]: Textual amendment: Word in Sch. 23 Pt. 2 para. 2(1) omitted (2.5.2018) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/3)
 
-[^key-1b87bda492ba8a91f6769ce72ed37388]: Textual amendment: Words in Sch. 23 Pt. 2 para. 2(1) inserted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/3)
+[^c-1b87bda492ba8a91f6769ce72ed37388]: Textual amendment: Words in Sch. 23 Pt. 2 para. 2(1) inserted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/3)
 
-[^key-dd8708d735d3bd41b3615cd504efd12e]: Textual amendment: Word in Sch. 23 Pt. 2 para. 3(1) inserted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/4)
+[^c-dd8708d735d3bd41b3615cd504efd12e]: Textual amendment: Word in Sch. 23 Pt. 2 para. 3(1) inserted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/4)
 
-[^key-de8fb2bff07756aa0deebb1cf62237b0]: Textual amendment: Sch. 23 Pt. 2 para. 6A inserted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/5)
+[^c-de8fb2bff07756aa0deebb1cf62237b0]: Textual amendment: Sch. 23 Pt. 2 para. 6A inserted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/5)
 
-[^key-84c52cfb0d5b910e260d4be03c8def4f]: Textual amendment: Sch. 23 Pt. 2 para. 9A inserted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/6)
+[^c-84c52cfb0d5b910e260d4be03c8def4f]: Textual amendment: Sch. 23 Pt. 2 para. 9A inserted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/6)
 
 [^c23193741]: Marginal citation: For the meaning of ‘sec’ and ‘+’ in this Part, see paragraph 3.
 
-[^key-1266b7aa4f0d476c881510dd0b20dbfa]: Textual amendment: Figures in Sch. 23 Pt. 3 para. 1(1) Table 1 substituted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/8)
+[^c-1266b7aa4f0d476c881510dd0b20dbfa]: Textual amendment: Figures in Sch. 23 Pt. 3 para. 1(1) Table 1 substituted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/8)
 
-[^key-b23f68abbc3e97f583e94e7f2eb1581f]: Textual amendment: Sch. 23 Pt. 3 para. 2(1) Table 2 substituted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/9)
+[^c-b23f68abbc3e97f583e94e7f2eb1581f]: Textual amendment: Sch. 23 Pt. 3 para. 2(1) Table 2 substituted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/9)
 
 [^M_F_5c630a32-85ff-4084-959b-8cdecad2ebb3]: Textual amendment: Words in Sch. 23 Pt. 4 para. 1(b) substituted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 11(a)](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/13)
 
@@ -2300,13 +2300,13 @@ Statutory provisions in respect of which radioactivity is to be disregarded
 
 [^c23193771]: Marginal citation: Section 294 was modified, in relation to steps required to be taken by certain notices, by [S.I. 1990/1519](https://www.legislation.gov.uk/uksi/1990/1519), 1992/656 and 1492.
 
-[^key-208b032245bf381f751ec63ee8a1c0d0]: Textual amendment: Sch. 23 Pt. 4 Section 3 inserted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/13)
+[^c-208b032245bf381f751ec63ee8a1c0d0]: Textual amendment: Sch. 23 Pt. 4 Section 3 inserted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/13)
 
 [^M_F_de775462-3740-44f1-f608-d9ce09d23ce9]: Textual amendment: Sch. 23 Pt. 4 para. 7(1A) inserted (7.1.2019) by [The Environmental Protection (Miscellaneous Amendments) (England and Wales) Regulations 2018 (S.I. 2018/1227)](https://www.legislation.gov.uk/uksi/2018/1227), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/2/1), [4(6)(a)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/4/6/a)
 
 [^M_F_17e65182-b137-4449-d498-b34ca1255184]: Textual amendment: Sch. 23 Pt. 4 para. 7(2) substituted (7.1.2019) by [The Environmental Protection (Miscellaneous Amendments) (England and Wales) Regulations 2018 (S.I. 2018/1227)](https://www.legislation.gov.uk/uksi/2018/1227), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2018/1227/regulation/2/1), [4(6)(b)](https://www.legislation.gov.uk/uksi/2018/1227/regulation/4/6/b)
 
-[^key-9371be77f15816ab04cc091f276b1991]: Textual amendment: Sch. 23 Pt. 5 heading substituted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/15)
+[^c-9371be77f15816ab04cc091f276b1991]: Textual amendment: Sch. 23 Pt. 5 heading substituted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/15)
 
 [^M_F_288c64c7-97cb-4fe2-c3c8-756feeb7c752]: Textual amendment: Words in Sch. 23 Pt. 5 para. 1 substituted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 16(a)](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/19)
 
@@ -2314,9 +2314,9 @@ Statutory provisions in respect of which radioactivity is to be disregarded
 
 [^M_F_71995d4e-9bd6-455d-ce5a-c3e6b4118902]: Textual amendment: Word in Sch. 23 Pt. 5 Section 3 heading omitted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/19)
 
-[^key-d6acfe2f71553c05db164adb231dfd37]: Textual amendment: Sch. 23 Pt. 5 para. 5 substituted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/18)
+[^c-d6acfe2f71553c05db164adb231dfd37]: Textual amendment: Sch. 23 Pt. 5 para. 5 substituted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/18)
 
-[^key-41c9b62944cf6641dfee1fb90dfb120b]: Textual amendment: Sch. 23 Pt. 5 para. 6 substituted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/19)
+[^c-41c9b62944cf6641dfee1fb90dfb120b]: Textual amendment: Sch. 23 Pt. 5 para. 6 substituted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/19)
 
 [^M_F_f5e10e0d-3bab-4c80-dfba-0bd19c27f732]: Textual amendment: Sch. 23 Pt. 5 para. 7 omitted (1.1.2018) by [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), reg. 1, Sch. 9 para. 17 (with regs. 2(5), 3, Sch. 8)
 
@@ -2330,7 +2330,7 @@ Statutory provisions in respect of which radioactivity is to be disregarded
 
 [^M_F_fe7436ec-388d-4fde-a343-e60bf4431632]: Textual amendment: Words in Sch. 23 Pt. 6 para. 1 inserted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 22(c)](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/33)
 
-[^key-316675acd15539dc58b86043188e25bf]: Textual amendment: Sch. 23 Pt. 6 para. 2 substituted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/23)
+[^c-316675acd15539dc58b86043188e25bf]: Textual amendment: Sch. 23 Pt. 6 para. 2 substituted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/23)
 
 [^M_F_9f23f009-31c4-436f-99ff-ba2247af27e6]: Textual amendment: Sch. 23 Pt. 6 para. 4(8) inserted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 24](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/33)
 
@@ -2372,13 +2372,13 @@ Statutory provisions in respect of which radioactivity is to be disregarded
 
 [^M_F_69660efb-201f-498d-9bd2-fafb9023b9ee]: Textual amendment: Sch. 23 Pt. 6 para. 18(7) omitted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 29(e)](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/33)
 
-[^key-6405563694594e9794123ac0c1e12244]: Textual amendment: Sch. 23 Pt. 6 para. 18A inserted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 30](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/30)
+[^c-6405563694594e9794123ac0c1e12244]: Textual amendment: Sch. 23 Pt. 6 para. 18A inserted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 30](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/30)
 
 [^M_F_bf0ffa79-1e0d-4875-b924-3ed1b588bdea]: Textual amendment: Words in Sch. 23 Pt. 6 para. 19(2)(b)(i) substituted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 31](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/33)
 
 [^M_F_eddb4d5d-6a8b-4f18-f745-842a446749d4]: Textual amendment: Words in Sch. 23 Pt. 6 para. 25 Table 4 substituted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 32](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/33)
 
-[^key-3333b660782b6d48ab18796291de8d97]: Textual amendment: Sch. 23 Pt. 6 para. 25A inserted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 33](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/33)
+[^c-3333b660782b6d48ab18796291de8d97]: Textual amendment: Sch. 23 Pt. 6 para. 25A inserted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 33](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/33)
 
 [^M_F_5bec4e72-7971-4c4e-f710-1a94cad809b6]: Textual amendment: Words in Sch. 23 Pt. 6 para. 26(1) Table 5 substituted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [reg. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [Sch. para. 34(a)](https://www.legislation.gov.uk/uksi/2018/428/schedule/paragraph/33)
 

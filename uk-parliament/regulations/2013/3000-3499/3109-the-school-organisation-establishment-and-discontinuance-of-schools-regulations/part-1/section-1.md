@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-c5707f20f535e5080ea0dbcacaf486cb]
+## 1. Citation and commencement[^c-c5707f20f535e5080ea0dbcacaf486cb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the School Organisation (Establishment and Dis
 
 ## Annotations
 
-[^key-c5707f20f535e5080ea0dbcacaf486cb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/3109/regulation/1) in force at 28.1.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/3109/regulation/1)
+[^c-c5707f20f535e5080ea0dbcacaf486cb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/3109/regulation/1) in force at 28.1.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/3109/regulation/1)

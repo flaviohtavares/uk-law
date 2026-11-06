@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Refusal to be medically examined (affected by repeal, see note)[^key-eec0b1b141f380bcea560cb178f0ee24][^key-eec0b1b141f380bcea560cb178f0ee24]
+## 39. Refusal to be medically examined (affected by repeal, see note)[^c-eec0b1b141f380bcea560cb178f0ee24][^c-eec0b1b141f380bcea560cb178f0ee24]
 
 *Extent: N.I.*
 
-(1) This regulation applies in relation to a member of the police service who opts under Chapter 2 (automatic enrolment) to become an active member of this scheme. *(affected by repeal, see note)*[^key-eec0b1b141f380bcea560cb178f0ee24]
+(1) This regulation applies in relation to a member of the police service who opts under Chapter 2 (automatic enrolment) to become an active member of this scheme. *(affected by repeal, see note)*[^c-eec0b1b141f380bcea560cb178f0ee24]
 
-(2) The scheme manager may make a determination under this Chapter on such evidence and medical advice as the scheme manager in its discretion thinks necessary if the member wilfully or negligently fails to submit to any medical examination or to attend any interviews that a medical practitioner considers necessary in order to make a decision or give an opinion under this Chapter. *(affected by repeal, see note)*[^key-eec0b1b141f380bcea560cb178f0ee24]
+(2) The scheme manager may make a determination under this Chapter on such evidence and medical advice as the scheme manager in its discretion thinks necessary if the member wilfully or negligently fails to submit to any medical examination or to attend any interviews that a medical practitioner considers necessary in order to make a decision or give an opinion under this Chapter. *(affected by repeal, see note)*[^c-eec0b1b141f380bcea560cb178f0ee24]
 
 ## Annotations
 
-[^key-eec0b1b141f380bcea560cb178f0ee24]: Textual amendment: [Ch. 4](https://www.legislation.gov.uk/nisr/2015/113/chapter/4) repealed (1.4.2024) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [10](https://www.legislation.gov.uk/nisr/2024/38/regulation/10)
+[^c-eec0b1b141f380bcea560cb178f0ee24]: Textual amendment: [Ch. 4](https://www.legislation.gov.uk/nisr/2015/113/chapter/4) repealed (1.4.2024) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [10](https://www.legislation.gov.uk/nisr/2024/38/regulation/10)

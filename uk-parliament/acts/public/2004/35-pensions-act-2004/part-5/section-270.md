@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 270. Winding up[^key-05705a9c211bfa1252c7718bb10e3d2f]
+## 270. Winding up[^c-05705a9c211bfa1252c7718bb10e3d2f]
 
 *Extent: E+W+S*
 
@@ -196,4 +196,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05705a9c211bfa1252c7718bb10e3d2f]: Commencement: S. 270 in force for the purpose only of conferring power to make regulations, orders or rules, as the case may be, 10.2.2005; and for all other purposes at 6.4.2005 in so far as not already in force by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(3)](https://www.legislation.gov.uk/uksi/2005/275/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/3) (with [art. 2(8)](https://www.legislation.gov.uk/uksi/2005/275/article/2/8)[(9)](https://www.legislation.gov.uk/uksi/2005/275/article/2/9))
+[^c-05705a9c211bfa1252c7718bb10e3d2f]: Commencement: S. 270 in force for the purpose only of conferring power to make regulations, orders or rules, as the case may be, 10.2.2005; and for all other purposes at 6.4.2005 in so far as not already in force by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(3)](https://www.legislation.gov.uk/uksi/2005/275/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/3) (with [art. 2(8)](https://www.legislation.gov.uk/uksi/2005/275/article/2/8)[(9)](https://www.legislation.gov.uk/uksi/2005/275/article/2/9))

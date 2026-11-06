@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Right of burial: notification of pending extinguishment[^key-1adaf1a1c99ff77636c7e043011ff87d]
+## 16. Right of burial: notification of pending extinguishment[^c-1adaf1a1c99ff77636c7e043011ff87d]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1adaf1a1c99ff77636c7e043011ff87d]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2016/20/section/16) in force at 1.3.2026 by [S.S.I. 2024/335](https://www.legislation.gov.uk/ssi/2024/335), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2024/335/regulation/2/3) (with [reg. 3(3)](https://www.legislation.gov.uk/ssi/2024/335/regulation/3/3))
+[^c-1adaf1a1c99ff77636c7e043011ff87d]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2016/20/section/16) in force at 1.3.2026 by [S.S.I. 2024/335](https://www.legislation.gov.uk/ssi/2024/335), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2024/335/regulation/2/3) (with [reg. 3(3)](https://www.legislation.gov.uk/ssi/2024/335/regulation/3/3))

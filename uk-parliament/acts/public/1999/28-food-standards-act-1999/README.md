@@ -33,7 +33,7 @@ An Act to establish the Food Standards Agency and make provision as to its funct
 
 \[11th November 1999\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-f2b8f00efa8942919f23d28b4bb1d1ca]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-f2b8f00efa8942919f23d28b4bb1d1ca]
 
 ## Contents
 
@@ -125,4 +125,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-f2b8f00efa8942919f23d28b4bb1d1ca]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1999/28) relevant functions cease to be exercisable (S.) (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [ss. 32](https://www.legislation.gov.uk/asp/2015/1/section/32), [63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-f2b8f00efa8942919f23d28b4bb1d1ca]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1999/28) relevant functions cease to be exercisable (S.) (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [ss. 32](https://www.legislation.gov.uk/asp/2015/1/section/32), [63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)

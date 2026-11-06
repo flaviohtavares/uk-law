@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 64. Transitional provisions[^key-c525ef15984af8ff02cc400cc48bcf5b]
+## 64. Transitional provisions[^c-c525ef15984af8ff02cc400cc48bcf5b]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ The transitional provisions set out in Schedule 6 to this Measure shall have eff
 
 ## Annotations
 
-[^key-c525ef15984af8ff02cc400cc48bcf5b]: Commencement: [S. 64](https://www.legislation.gov.uk/ukcm/2007/1/section/64) in force at 1.2.2008 by [2007 No. 3](https://www.legislation.gov.uk/ukci/2007/3), Instrument made by Archbishops
+[^c-c525ef15984af8ff02cc400cc48bcf5b]: Commencement: [S. 64](https://www.legislation.gov.uk/ukcm/2007/1/section/64) in force at 1.2.2008 by [2007 No. 3](https://www.legislation.gov.uk/ukci/2007/3), Instrument made by Archbishops

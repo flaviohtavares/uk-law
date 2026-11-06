@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 167. Review of remuneration[^key-953df8a5ad7183b27dc45856645f3c79]
+## 167. Review of remuneration[^c-953df8a5ad7183b27dc45856645f3c79]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ and this Chapter applies as appropriate.
 
 ## Annotations
 
-[^key-953df8a5ad7183b27dc45856645f3c79]: Commencement: [Rule 167](https://www.legislation.gov.uk/nisr/2026/11/rule/167) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-953df8a5ad7183b27dc45856645f3c79]: Commencement: [Rule 167](https://www.legislation.gov.uk/nisr/2026/11/rule/167) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

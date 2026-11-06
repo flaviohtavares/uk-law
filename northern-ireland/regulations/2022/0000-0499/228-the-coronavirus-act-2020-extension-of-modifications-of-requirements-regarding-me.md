@@ -42,15 +42,15 @@ Coming into operation in accordance with Article 1
 
 The Department for Communities makes the following Order in exercise of the powers conferred by sections 89(9) and 90(2) of the Coronavirus Act 2020[^f00001].
 
-## 1. Citation and commencement[^key-32cbfc84225f45be6b4a81abed5d9665]
+## 1. Citation and commencement[^c-32cbfc84225f45be6b4a81abed5d9665]
 
 This Order may be cited as the Coronavirus Act 2020 (Extension of Modifications of Requirements Regarding Medical Certificates for Cremations) (No. 3) Order (Northern Ireland) 2022 and comes into operation immediately before the beginning of 25<sup>th</sup> September 2022.
 
-## 2. Extension of expiry date[^key-86de3232f9fe1298f87b1906edddb023]
+## 2. Extension of expiry date[^c-86de3232f9fe1298f87b1906edddb023]
 
 Section 21(1), (2) (3), (4)(a), (4)(b)(ii) and (6)(e) of the Coronavirus Act 2020 do not expire at the time when they would otherwise expire and expire instead on 24th March 2023.
 
-## 3. Transitional Provision[^key-cd7018b001e64637c8d9a204082a8ab5]
+## 3. Transitional Provision[^c-cd7018b001e64637c8d9a204082a8ab5]
 
 Section 21(2) of the Coronavirus Act 2020 has effect as if after “practitioner” there were inserted “who has attended the deceased during his last illness and”.
 
@@ -76,8 +76,8 @@ The Department makes this Order to extend the expiry date of section 21(1), (2),
 
 [^f00001]: Footnote: [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7).
 
-[^key-32cbfc84225f45be6b4a81abed5d9665]: Commencement: Art. 1 in operation at 25.9.2022, see [art. 1](https://www.legislation.gov.uk/nisr/2022/228/article/1)
+[^c-32cbfc84225f45be6b4a81abed5d9665]: Commencement: Art. 1 in operation at 25.9.2022, see [art. 1](https://www.legislation.gov.uk/nisr/2022/228/article/1)
 
-[^key-86de3232f9fe1298f87b1906edddb023]: Commencement: Art. 2 in operation at 25.9.2022, see [art. 1](https://www.legislation.gov.uk/nisr/2022/228/article/1)
+[^c-86de3232f9fe1298f87b1906edddb023]: Commencement: Art. 2 in operation at 25.9.2022, see [art. 1](https://www.legislation.gov.uk/nisr/2022/228/article/1)
 
-[^key-cd7018b001e64637c8d9a204082a8ab5]: Commencement: Art. 3 in operation at 25.9.2022, see [art. 1](https://www.legislation.gov.uk/nisr/2022/228/article/1)
+[^c-cd7018b001e64637c8d9a204082a8ab5]: Commencement: Art. 3 in operation at 25.9.2022, see [art. 1](https://www.legislation.gov.uk/nisr/2022/228/article/1)

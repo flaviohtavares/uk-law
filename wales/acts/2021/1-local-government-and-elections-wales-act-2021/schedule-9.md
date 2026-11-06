@@ -144,7 +144,7 @@ summary: ''
 - (c) paragraph 16(b);
 - (d) paragraphs 17 to 19 and the cross-heading which precedes them;
 - (e) paragraphs 20 to 22 and the cross-heading which precedes them;
-- (f)[^key-9b5d27e048d1e7286d350f8375d47c8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-9b5d27e048d1e7286d350f8375d47c8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) paragraph 32;
 - (h) paragraph 34(3)(b).
 
@@ -287,11 +287,11 @@ summary: ''
 
 **39.** The Planning and Energy Act 2008 is amended as follows.
 
-**40.**[^key-07c27b02e70346bd0856b2d9e56817c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**40.**[^c-07c27b02e70346bd0856b2d9e56817c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **41.** In section 2 (interpretation)—
 
-- (a)[^key-34d0ecb2a19a05bad83e1200a20502ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-34d0ecb2a19a05bad83e1200a20502ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) omit the definition of “strategic planning panel”.
 
 #### Marine and Coastal Access Act 2009 (c. 23)
@@ -357,8 +357,8 @@ summary: ''
 
 ## Annotations
 
-[^key-9b5d27e048d1e7286d350f8375d47c8e]: Textual amendment: [Sch. 9 para. 12(f)](https://www.legislation.gov.uk/asc/2021/1/schedule/9/paragraph/12/f) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 24(2)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/24/2)
+[^c-9b5d27e048d1e7286d350f8375d47c8e]: Textual amendment: [Sch. 9 para. 12(f)](https://www.legislation.gov.uk/asc/2021/1/schedule/9/paragraph/12/f) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 24(2)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/24/2)
 
-[^key-07c27b02e70346bd0856b2d9e56817c9]: Textual amendment: [Sch. 9 para. 40](https://www.legislation.gov.uk/asc/2021/1/schedule/9/paragraph/40) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 24(3)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/24/3)
+[^c-07c27b02e70346bd0856b2d9e56817c9]: Textual amendment: [Sch. 9 para. 40](https://www.legislation.gov.uk/asc/2021/1/schedule/9/paragraph/40) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 24(3)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/24/3)
 
-[^key-34d0ecb2a19a05bad83e1200a20502ca]: Textual amendment: [Sch. 9 para. 41(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/9/paragraph/41/a) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 24(3)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/24/3)
+[^c-34d0ecb2a19a05bad83e1200a20502ca]: Textual amendment: [Sch. 9 para. 41(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/9/paragraph/41/a) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 24(3)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/24/3)

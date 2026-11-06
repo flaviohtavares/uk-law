@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Designation of alarm notification areas[^key-369cb053a759eb828cc3c522cd930fce][^key-df43422e86c6a4b06e301e7452e23768]
+## 69. Designation of alarm notification areas[^c-369cb053a759eb828cc3c522cd930fce][^c-df43422e86c6a4b06e301e7452e23768]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-369cb053a759eb828cc3c522cd930fce]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2005/16/section/69) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
+[^c-369cb053a759eb828cc3c522cd930fce]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2005/16/section/69) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
 
-[^key-df43422e86c6a4b06e301e7452e23768]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2005/16/section/69) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(y)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/y)
+[^c-df43422e86c6a4b06e301e7452e23768]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2005/16/section/69) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(y)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/y)

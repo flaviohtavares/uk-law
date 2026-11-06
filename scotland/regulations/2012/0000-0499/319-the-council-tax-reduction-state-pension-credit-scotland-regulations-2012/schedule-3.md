@@ -67,7 +67,7 @@ Regulation 31(10)
 **10.** Where an applicant receives income under an annuity purchased with a loan which satisfies the following conditions—
 
 - (a) that the loan was made as part of a scheme under which not less than 90 per cent of the proceeds of the loan were applied to the purchase by the person to whom it was made of an annuity ending with the applicant's life or with the life of the survivor of two or more persons (“the annuitants”) who include the person to whom the loan was made;
-- (b) that at the time the loan was made the person to whom it was made or each of the annuitants had attained the qualifying age for state pension credit[^key-49f6d5cf2ab824ac14127abf10968a5e];
+- (b) that at the time the loan was made the person to whom it was made or each of the annuitants had attained the qualifying age for state pension credit[^c-49f6d5cf2ab824ac14127abf10968a5e];
 - (c) that the loan was secured on a dwelling in Great Britain and the person to whom the loan was made or one of the annuitants owns an interest in that dwelling;
 - (d) that the person to whom the loan was made or one of the annuitants occupies the dwelling on which it was secured as a home at the time the interest is paid; and
 - (e) that the interest payable on the loan is paid by the person to whom the loan was made or by one of the annuitants,
@@ -130,7 +130,7 @@ and the applicant makes payments by way of a contribution towards the student's 
 - (a) the weekly amount of the payments; or
 - (b) the amount by way of a personal allowance for a single applicant under 25 less the weekly amount of any award, bursary, scholarship, allowance or payment referred to in sub-paragraph (1)(b).
 
-**18A.**[^key-f3ebae89d3fb87d7ef70ea2045d93325] (1) Any payment made in respect of a person who is a member of the applicant’s family—
+**18A.**[^c-f3ebae89d3fb87d7ef70ea2045d93325] (1) Any payment made in respect of a person who is a member of the applicant’s family—
 
 - (a) in accordance with an adoption allowance scheme made under section 71 of the Adoption and Children (Scotland) Act 2007 (adoption allowances schemes) or pursuant to regulations under section 2(6)(b), 3 or 4 of the Adoption and Children Act 2002;
 - (b) which is a payment made by a local authority in pursuance of section 50 of the Children Act 1975 (payments towards maintenance of children) or section 15(1) of, and paragraph 15 of Schedule 1 to, the Children Act 1989 (local authority contribution to a child’s maintenance where the child is living with a person as a result of a residence order);
@@ -141,11 +141,11 @@ and the applicant makes payments by way of a contribution towards the student's 
 
 **18B.** Any payment made by a local authority in accordance with section 12 of the Social Work (Scotland) Act 1968 (general social welfare services of local authorities), section 22 of the Children (Scotland) Act 1995 (promotion of welfare of children in need) or section 17 of the Children Act 1989 (provision of services for children in need, their families and others).
 
-**19.** (1) Where an applicant's family includes at least one child or young person[^key-93b7be47ad7b9b2f44fcda33d5b1bacc], £15 of any payment of aliment or maintenance, whether under a court order or not, which is made or due to be made by the applicant's spouse, civil partner, former spouse or former civil partner or the applicant's partner's spouse, civil partner, former spouse or former civil partner.
+**19.** (1) Where an applicant's family includes at least one child or young person[^c-93b7be47ad7b9b2f44fcda33d5b1bacc], £15 of any payment of aliment or maintenance, whether under a court order or not, which is made or due to be made by the applicant's spouse, civil partner, former spouse or former civil partner or the applicant's partner's spouse, civil partner, former spouse or former civil partner.
 
 (2) For the purposes of sub-paragraph (1), where more than one aliment or maintenance payment is to be taken into account in any week, all the aliment or maintenance payments must be aggregated and treated as if they were a single payment.
 
-**20.** In a case where the conditions of paragraph 10(2) of Schedule 2 (sums to be disregarded in the calculation of earnings) are met but the applicant's earnings are not disregarded for the purposes of that paragraph, any amount of working tax credit up to £37.10 until and including 4 April 2021 and after that up to £17.10[^key-6a48fbcd517f730ad8dfc5682b6c81be].
+**20.** In a case where the conditions of paragraph 10(2) of Schedule 2 (sums to be disregarded in the calculation of earnings) are met but the applicant's earnings are not disregarded for the purposes of that paragraph, any amount of working tax credit up to £37.10 until and including 4 April 2021 and after that up to £17.10[^c-6a48fbcd517f730ad8dfc5682b6c81be].
 
 **21.** Where the total value of any capital specified in Part 2 of Schedule 4 (capital not to be treated as income under regulation 27(2)) does not exceed £10,000, any income actually derived from such capital.
 
@@ -153,7 +153,7 @@ and the applicant makes payments by way of a contribution towards the student's 
 
 **23.** Where the applicant, or a person who was the partner of the applicant on 31st March 2003, was entitled on that date to income support or an income-based jobseeker's allowance but ceased to be so entitled on or before 5th April 2003 by virtue only of regulation 13 of the Housing Benefit (General) Amendment (No. 3) Regulations 1999 [^c21460251] as in force at that date, the whole of the applicant's income.
 
-**24.**[^key-66d0f7ede8fa03ed35010b6665c381ad] Any payment or interest on a payment made under the Windrush Compensation Scheme (Expenditure) Act 2020.
+**24.**[^c-66d0f7ede8fa03ed35010b6665c381ad] Any payment or interest on a payment made under the Windrush Compensation Scheme (Expenditure) Act 2020.
 
 ## Annotations
 
@@ -165,7 +165,7 @@ and the applicant makes payments by way of a contribution towards the student's 
 
 [^c21460171]: Marginal citation: Section 37 was amended by paragraph 2 of Schedule 1 to the [Child Benefit Act 2005 (c.6)](https://www.legislation.gov.uk/ukpga/2005/6), [paragraph 18](https://www.legislation.gov.uk/ukpga/2005/6/paragraph/18) of Schedule 24, and Schedule 30, to the [Civil Partnership Act 2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33) and section 50 of the [Welfare Reform Act 2007 (c.5)](https://www.legislation.gov.uk/ukpga/2007/5).
 
-[^key-49f6d5cf2ab824ac14127abf10968a5e]: Textual amendment: Words in [sch. 3 para. 10(b)](https://www.legislation.gov.uk/ssi/2012/319/schedule/3/paragraph/10/b) substituted (1.2.2021) by [The Council Tax Reduction (Scotland) Amendment (No. 4) Regulations 2020 (S.S.I. 2020/413)](https://www.legislation.gov.uk/ssi/2020/413), [regs. 1](https://www.legislation.gov.uk/ssi/2020/413/regulation/1), [14](https://www.legislation.gov.uk/ssi/2020/413/regulation/14)
+[^c-49f6d5cf2ab824ac14127abf10968a5e]: Textual amendment: Words in [sch. 3 para. 10(b)](https://www.legislation.gov.uk/ssi/2012/319/schedule/3/paragraph/10/b) substituted (1.2.2021) by [The Council Tax Reduction (Scotland) Amendment (No. 4) Regulations 2020 (S.S.I. 2020/413)](https://www.legislation.gov.uk/ssi/2020/413), [regs. 1](https://www.legislation.gov.uk/ssi/2020/413/regulation/1), [14](https://www.legislation.gov.uk/ssi/2020/413/regulation/14)
 
 [^c21460181]: Marginal citation: [1988 c.1](https://www.legislation.gov.uk/ukpga/1988/1). Section 369 was amended by section 58 of the [Finance Act 1993 (c.34)](https://www.legislation.gov.uk/ukpga/1993/34), [section 81](https://www.legislation.gov.uk/ukpga/1993/34/section/81) of the [Finance Act 1994 (c.9)](https://www.legislation.gov.uk/ukpga/1994/9), [paragraph 6](https://www.legislation.gov.uk/ukpga/1994/9/paragraph/6) of Schedule 18 to the [Finance Act 1996 (c.8)](https://www.legislation.gov.uk/ukpga/1996/8), [paragraph 4](https://www.legislation.gov.uk/ukpga/1996/8/paragraph/4) of Schedule 4 to the [Finance Act 1999 (c.16)](https://www.legislation.gov.uk/ukpga/1999/16), section 83 of the [Finance Act 2000 (c.17)](https://www.legislation.gov.uk/ukpga/2000/17), and paragraph 33 of Schedule 1 to the [Corporation Tax Act 2010 (c.4)](https://www.legislation.gov.uk/ukpga/2010/4).
 
@@ -181,12 +181,12 @@ and the applicant makes payments by way of a contribution towards the student's 
 
 [^c21460241]: Marginal citation: [1998 c.30](https://www.legislation.gov.uk/ukpga/1998/30). Section 22 was amended by section 146 of, and Schedule 11 to, the [Learning and Skills Act 2000 (c.21)](https://www.legislation.gov.uk/ukpga/2000/21), [paragraph 236](https://www.legislation.gov.uk/ukpga/2000/21/paragraph/236) of Schedule 6 to the [Income Tax (Earnings and Pensions) Act 2003 (c.1)](https://www.legislation.gov.uk/ukpga/2003/1), [section 147](https://www.legislation.gov.uk/ukpga/2003/1/section/147) of the [Finance Act 2003 (c.14)](https://www.legislation.gov.uk/ukpga/2003/14), [sections 42](https://www.legislation.gov.uk/ukpga/2003/14/section/42) and 43 of, and Schedule 7 to, the [Higher Education Act 2004 (c.8)](https://www.legislation.gov.uk/ukpga/2004/8), [section 257](https://www.legislation.gov.uk/ukpga/2004/8/section/257) of the [Apprenticeships, Skills, Children and Learning Act 2009 (c.22)](https://www.legislation.gov.uk/ukpga/2009/22) and section 76 of the [Education Act 2011 (c.21)](https://www.legislation.gov.uk/ukpga/2011/21).
 
-[^key-f3ebae89d3fb87d7ef70ea2045d93325]: Textual amendment: Sch. 3 paras. 18A, 18B inserted (1.4.2016) by [The Council Tax Reduction (Scotland) Amendment Regulations 2016 (S.S.I. 2016/81)](https://www.legislation.gov.uk/ssi/2016/81), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2), [25](https://www.legislation.gov.uk/ssi/2016/81/regulation/25)
+[^c-f3ebae89d3fb87d7ef70ea2045d93325]: Textual amendment: Sch. 3 paras. 18A, 18B inserted (1.4.2016) by [The Council Tax Reduction (Scotland) Amendment Regulations 2016 (S.S.I. 2016/81)](https://www.legislation.gov.uk/ssi/2016/81), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2), [25](https://www.legislation.gov.uk/ssi/2016/81/regulation/25)
 
-[^key-93b7be47ad7b9b2f44fcda33d5b1bacc]: Textual amendment: Words in sch. 3 para. 19(1) substituted (1.5.2016) by [The Council Tax Reduction (Scotland) Amendment Regulations 2016 (S.S.I. 2016/81)](https://www.legislation.gov.uk/ssi/2016/81), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/3), [18(4)](https://www.legislation.gov.uk/ssi/2016/81/regulation/18/4) (with [reg. 2](https://www.legislation.gov.uk/ssi/2016/81/regulation/2))
+[^c-93b7be47ad7b9b2f44fcda33d5b1bacc]: Textual amendment: Words in sch. 3 para. 19(1) substituted (1.5.2016) by [The Council Tax Reduction (Scotland) Amendment Regulations 2016 (S.S.I. 2016/81)](https://www.legislation.gov.uk/ssi/2016/81), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/3), [18(4)](https://www.legislation.gov.uk/ssi/2016/81/regulation/18/4) (with [reg. 2](https://www.legislation.gov.uk/ssi/2016/81/regulation/2))
 
-[^key-6a48fbcd517f730ad8dfc5682b6c81be]: Textual amendment: Words in [sch. 3 para. 20](https://www.legislation.gov.uk/ssi/2012/319/schedule/3/paragraph/20) substituted (6.4.2020) by [The Council Tax Reduction (Scotland) Amendment (No. 3) (Coronavirus) Regulations 2020 (S.S.I. 2020/108)](https://www.legislation.gov.uk/ssi/2020/108), [regs. 1](https://www.legislation.gov.uk/ssi/2020/108/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2020/108/regulation/3/b)
+[^c-6a48fbcd517f730ad8dfc5682b6c81be]: Textual amendment: Words in [sch. 3 para. 20](https://www.legislation.gov.uk/ssi/2012/319/schedule/3/paragraph/20) substituted (6.4.2020) by [The Council Tax Reduction (Scotland) Amendment (No. 3) (Coronavirus) Regulations 2020 (S.S.I. 2020/108)](https://www.legislation.gov.uk/ssi/2020/108), [regs. 1](https://www.legislation.gov.uk/ssi/2020/108/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2020/108/regulation/3/b)
 
 [^c21460251]: Marginal citation: [S.I. 1999/2734](https://www.legislation.gov.uk/uksi/1999/2734).
 
-[^key-66d0f7ede8fa03ed35010b6665c381ad]: Textual amendment: [Sch. 3 para. 24](https://www.legislation.gov.uk/ssi/2012/319/schedule/3/paragraph/24) substituted (5.11.2023) by [The Council Tax Reduction (Scotland) Amendment (No. 3) Regulations 2023 (S.S.I. 2023/268)](https://www.legislation.gov.uk/ssi/2023/268), [regs. 1](https://www.legislation.gov.uk/ssi/2023/268/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2023/268/regulation/2/5)
+[^c-66d0f7ede8fa03ed35010b6665c381ad]: Textual amendment: [Sch. 3 para. 24](https://www.legislation.gov.uk/ssi/2012/319/schedule/3/paragraph/24) substituted (5.11.2023) by [The Council Tax Reduction (Scotland) Amendment (No. 3) Regulations 2023 (S.S.I. 2023/268)](https://www.legislation.gov.uk/ssi/2023/268), [regs. 1](https://www.legislation.gov.uk/ssi/2023/268/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2023/268/regulation/2/5)

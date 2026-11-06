@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 192. Use of reports[^key-17c54371182e0f81fa2123aa98b6bc67]
+## 192. Use of reports[^c-17c54371182e0f81fa2123aa98b6bc67]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17c54371182e0f81fa2123aa98b6bc67]: Commencement: Rule 192 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-17c54371182e0f81fa2123aa98b6bc67]: Commencement: Rule 192 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

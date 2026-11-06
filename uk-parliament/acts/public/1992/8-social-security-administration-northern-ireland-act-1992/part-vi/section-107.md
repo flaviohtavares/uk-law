@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Breach of regulations.[^c14898111][^key-cf5518e1e53846b197dd6d4aeea45a75][^key-e60d0f98d24a2649e09bd079e30a24c3][^key-39d529b00f632b4438ef63348510e0f6][^c14898101]
+## 107. Breach of regulations.[^c14898111][^c-cf5518e1e53846b197dd6d4aeea45a75][^c-e60d0f98d24a2649e09bd079e30a24c3][^c-39d529b00f632b4438ef63348510e0f6][^c14898101]
 
 *Extent: N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 (1A)[^c14898131] The legislation to which this section applies is—
 
 - (a) the relevant social security legislation; and
-- (b) the statutory provisions specified in section 115CA(1) so far as relating to contributions[^key-c75c2dec28ff218a50f73f6e394ed90d]....
+- (b) the statutory provisions specified in section 115CA(1) so far as relating to contributions[^c-c75c2dec28ff218a50f73f6e394ed90d]....
 
 (2) Any regulations or scheme making such provision as is mentioned in subsection (1)(a) above shall—
 
@@ -51,11 +51,11 @@ summary: ''
 
 [^c14898111]: Modification: S. 107 restricted (5.10.1999) by [1999 c. 10](https://www.legislation.gov.uk/ukpga/1999/10), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/1999/10/section/2/3), [20(2)](https://www.legislation.gov.uk/ukpga/1999/10/section/20/2), [Sch. 2 Pt. IV para. 14](https://www.legislation.gov.uk/ukpga/1999/10/schedule/2/part/IV/paragraph/14)
 
-[^key-cf5518e1e53846b197dd6d4aeea45a75]: Modification: S. 107 extended (20.11.2006) by [The Housing Benefit Regulations (Northern Ireland) 2006 (S.R. 2006/405)](https://www.legislation.gov.uk/nisr/2006/405), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1), [110](https://www.legislation.gov.uk/nisr/2006/405/regulation/110)
+[^c-cf5518e1e53846b197dd6d4aeea45a75]: Modification: S. 107 extended (20.11.2006) by [The Housing Benefit Regulations (Northern Ireland) 2006 (S.R. 2006/405)](https://www.legislation.gov.uk/nisr/2006/405), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1), [110](https://www.legislation.gov.uk/nisr/2006/405/regulation/110)
 
-[^key-e60d0f98d24a2649e09bd079e30a24c3]: Modification: S. 107 extended (20.11.2006) by [The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006 (S.R. 2006/406)](https://www.legislation.gov.uk/nisr/2006/406), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1), [91](https://www.legislation.gov.uk/nisr/2006/406/regulation/91)
+[^c-e60d0f98d24a2649e09bd079e30a24c3]: Modification: S. 107 extended (20.11.2006) by [The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006 (S.R. 2006/406)](https://www.legislation.gov.uk/nisr/2006/406), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1), [91](https://www.legislation.gov.uk/nisr/2006/406/regulation/91)
 
-[^key-39d529b00f632b4438ef63348510e0f6]: Modification: S. 107 applied (with modifications) (27.11.2006) by [The Healthy Start Scheme and Day Care Food Scheme Regulations (Northern Ireland) 2006 (S.R. 2006/478)](https://www.legislation.gov.uk/nisr/2006/478), [reg. 1](https://www.legislation.gov.uk/nisr/2006/478/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2006/478/schedule/5)
+[^c-39d529b00f632b4438ef63348510e0f6]: Modification: S. 107 applied (with modifications) (27.11.2006) by [The Healthy Start Scheme and Day Care Food Scheme Regulations (Northern Ireland) 2006 (S.R. 2006/478)](https://www.legislation.gov.uk/nisr/2006/478), [reg. 1](https://www.legislation.gov.uk/nisr/2006/478/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2006/478/schedule/5)
 
 [^c14898101]: Textual amendment: S. 107 substituted (10.3.1999 for certain purposes, otherwise 6.4.1999) by 1998/1506 (N.I. 10), art. 56; [S.R. 1999/102](https://www.legislation.gov.uk/nisr/1999/102), [art. 2](https://www.legislation.gov.uk/nisr/1999/102/article/2), [Sch. Pt. II](https://www.legislation.gov.uk/nisr/1999/102/schedule/part/II)
 
@@ -63,6 +63,6 @@ summary: ''
 
 [^c14898131]: Textual amendment: S. 107(1A) inserted (22.11.2000) by [2000 c. 4](https://www.legislation.gov.uk/ukpga/2000/4), [s. 58](https://www.legislation.gov.uk/ukpga/2000/4/section/58), [Sch. 6 para. 7(2)](https://www.legislation.gov.uk/ukpga/2000/4/schedule/6/paragraph/7/2) (with [s. 66(6)](https://www.legislation.gov.uk/ukpga/2000/4/section/66/6)); [S.R. 2000/358](https://www.legislation.gov.uk/nisr/2000/358), [art. 2(a)](https://www.legislation.gov.uk/nisr/2000/358/article/2/a), [Sch. Pt. I](https://www.legislation.gov.uk/nisr/2000/358/schedule/part/I)
 
-[^key-c75c2dec28ff218a50f73f6e394ed90d]: Textual amendment: Words in s. 107(1A)(b) repealed (6.4.2005) by [National Insurance Contributions and Statutory Payments Act 2004 (c. 3)](https://www.legislation.gov.uk/ukpga/2004/3), [ss. 10(4)](https://www.legislation.gov.uk/ukpga/2004/3/section/10/4), [13](https://www.legislation.gov.uk/ukpga/2004/3/section/13), [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/3/schedule/2); [S.I. 2004/1943](https://www.legislation.gov.uk/uksi/2004/1943), [arts. 4(d)](https://www.legislation.gov.uk/uksi/2004/1943/article/4/d), [6(b)(iii)](https://www.legislation.gov.uk/uksi/2004/1943/article/6/b/iii)
+[^c-c75c2dec28ff218a50f73f6e394ed90d]: Textual amendment: Words in s. 107(1A)(b) repealed (6.4.2005) by [National Insurance Contributions and Statutory Payments Act 2004 (c. 3)](https://www.legislation.gov.uk/ukpga/2004/3), [ss. 10(4)](https://www.legislation.gov.uk/ukpga/2004/3/section/10/4), [13](https://www.legislation.gov.uk/ukpga/2004/3/section/13), [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/3/schedule/2); [S.I. 2004/1943](https://www.legislation.gov.uk/uksi/2004/1943), [arts. 4(d)](https://www.legislation.gov.uk/uksi/2004/1943/article/4/d), [6(b)(iii)](https://www.legislation.gov.uk/uksi/2004/1943/article/6/b/iii)
 
 [^c14898141]: Textual amendment: Words in s. 107(2) substituted (6.4.1999) by [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671), [art. 5](https://www.legislation.gov.uk/uksi/1999/671/article/5), [Sch. 4 para. 5(a)](https://www.legislation.gov.uk/uksi/1999/671/schedule/4/paragraph/5/a); [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(d)](https://www.legislation.gov.uk/nisr/1999/149/article/2/d), [Sch. 3](https://www.legislation.gov.uk/nisr/1999/149/schedule/3) (subject to arts. 3-6 of that S.R.)

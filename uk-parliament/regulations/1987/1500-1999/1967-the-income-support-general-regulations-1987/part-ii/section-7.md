@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Meaning of employment[^key-fc674448e238103ed5073cd80b17945b][^key-6581b8eaf683e6b6b3a4a80f3896f4c2]
+## 7. Meaning of employment[^c-fc674448e238103ed5073cd80b17945b][^c-6581b8eaf683e6b6b3a4a80f3896f4c2]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fc674448e238103ed5073cd80b17945b]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/1987/1967/regulation/7) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
+[^c-fc674448e238103ed5073cd80b17945b]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/1987/1967/regulation/7) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
 
-[^key-6581b8eaf683e6b6b3a4a80f3896f4c2]: Commencement: Reg. 7 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)
+[^c-6581b8eaf683e6b6b3a4a80f3896f4c2]: Commencement: Reg. 7 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)

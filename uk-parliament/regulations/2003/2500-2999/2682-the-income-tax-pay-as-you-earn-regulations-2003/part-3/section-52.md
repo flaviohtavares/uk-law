@@ -22,7 +22,7 @@ summary: ''
 
 (1) This regulation applies in the circumstances mentioned in regulation 51(5); and paragraphs (2) and (3) of this regulation also apply in the circumstances mentioned in regulation 51(6).
 
-(1A)[^key-89d819c1b0f37c771f1dec650a53542b] Paragraphs (2) and (3) apply if the employer is either—
+(1A)[^c-89d819c1b0f37c771f1dec650a53542b] Paragraphs (2) and (3) apply if the employer is either—
 
 - (a) a non-Real Time Information employer, or
 - (b) a Real Time Information employer to whom HMRC has given a notice requiring the employer to send to HMRC Form P45 or Form P46 on the commencement of a new employee’s employment.
@@ -36,7 +36,7 @@ summary: ''
 - (e) if Parts 2 and 3 of the Form P45 show that the cumulative basis has been used, the figure (if any) recorded in accordance with paragraph (7)(c) or (8)(c) if different from the total tax to date shown on Parts 2 and 3 of Form P45,
 - (f) the employee’s address,
 - (g) the employee’s date of birth, ...
-- (ga)[^key-1e246e407baf50d17865b8f349465de2] the employee’s sex,
+- (ga)[^c-1e246e407baf50d17865b8f349465de2] the employee’s sex,
 - (h) the employee’s job title or description,
 - (i) the employer’s name, and
 - (j) the employer’s address.
@@ -76,7 +76,7 @@ summary: ''
 
 - (a) paragraph (10), and
 - (b) item 8 of Table 2 in regulation 36(4) (Form P45), and
-- (c) regulation 55(4)(f) (Form P46(Pen))[^key-41a91a3c439276e0e7529b7de0392bc0],
+- (c) regulation 55(4)(f) (Form P46(Pen))[^c-41a91a3c439276e0e7529b7de0392bc0],
 
 the total payments to date recorded in the deductions working sheet in accordance with paragraph (5) and the figure recorded in accordance with paragraph (7)(c) or (8)(c) must be treated as if they were relevant payments made to the employee by, and tax deducted by, the new employer.
 
@@ -86,8 +86,8 @@ the total payments to date recorded in the deductions working sheet in accordanc
 
 ## Annotations
 
-[^key-89d819c1b0f37c771f1dec650a53542b]: Textual amendment: [Reg. 52(1A)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/52/1A) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2012/822/regulation/19)
+[^c-89d819c1b0f37c771f1dec650a53542b]: Textual amendment: [Reg. 52(1A)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/52/1A) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2012/822/regulation/19)
 
-[^key-1e246e407baf50d17865b8f349465de2]: Textual amendment: [Reg. 52(2)(ga)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/52/2/ga) inserted (6.4.2009) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2007 (S.I. 2007/2969)](https://www.legislation.gov.uk/uksi/2007/2969), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2969/regulation/1/3), [9(a)(ii)](https://www.legislation.gov.uk/uksi/2007/2969/regulation/9/a/ii)
+[^c-1e246e407baf50d17865b8f349465de2]: Textual amendment: [Reg. 52(2)(ga)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/52/2/ga) inserted (6.4.2009) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2007 (S.I. 2007/2969)](https://www.legislation.gov.uk/uksi/2007/2969), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2969/regulation/1/3), [9(a)(ii)](https://www.legislation.gov.uk/uksi/2007/2969/regulation/9/a/ii)
 
-[^key-41a91a3c439276e0e7529b7de0392bc0]: Textual amendment: Word in [reg. 52(11)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/52/11) substituted (6.4.2009) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2007 (S.I. 2007/2969)](https://www.legislation.gov.uk/uksi/2007/2969), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2969/regulation/1/3), [9(b)](https://www.legislation.gov.uk/uksi/2007/2969/regulation/9/b)
+[^c-41a91a3c439276e0e7529b7de0392bc0]: Textual amendment: Word in [reg. 52(11)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/52/11) substituted (6.4.2009) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2007 (S.I. 2007/2969)](https://www.legislation.gov.uk/uksi/2007/2969), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2969/regulation/1/3), [9(b)](https://www.legislation.gov.uk/uksi/2007/2969/regulation/9/b)

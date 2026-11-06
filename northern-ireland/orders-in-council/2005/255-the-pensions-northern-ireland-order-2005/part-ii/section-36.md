@@ -28,7 +28,7 @@ summary: ''
 - (b) specify the sum which the person is stated to be under a liability to pay, and
 - (c) identify any other persons to whom contribution notices have been or are issued as a result of the act or failure to act in question and the sums specified in each of those notices.
 
-(2A)[^key-179083a061811049cdf09af6c07125a2] Without prejudice to paragraphs (3) and (7), the contribution notice must also specify a date for the purposes of Articles 38A(2) and 38B(2) (sanctions for failure to comply with a contribution notice).
+(2A)[^c-179083a061811049cdf09af6c07125a2] Without prejudice to paragraphs (3) and (7), the contribution notice must also specify a date for the purposes of Articles 38A(2) and 38B(2) (sanctions for failure to comply with a contribution notice).
 
 (3) Where the contribution notice states that the person is under a liability to pay the sum specified in the notice to the trustees or managers of the scheme, the sum is to be treated as a debt due from the person to the trustees or managers of the scheme.
 
@@ -46,7 +46,7 @@ summary: ''
 
 - (a) is issued as a result of the same act or failure to act falling within paragraph (5) of Article 34 as the act or failure as a result of which P's contribution notice is issued,
 - (b) specifies the same sum as is specified in P's contribution notice,
-- (ba)[^key-13c9fd0bdc7c177e2b0b5896966402ad] specifies the same date for the purposes of Articles 38A(2) and 38B(2) as is specified in P's contribution notice, and
+- (ba)[^c-13c9fd0bdc7c177e2b0b5896966402ad] specifies the same date for the purposes of Articles 38A(2) and 38B(2) as is specified in P's contribution notice, and
 - (c) specifies that the person to whom the contribution notice is issued is jointly and severally liable with P, or with P and other persons, for the debt in respect of that sum.
 
 (10) A debt due by virtue of a contribution notice is not to be taken into account for the purposes of Article 75(2) and (4) of the 1995 Order (deficiencies in the scheme assets) when ascertaining the amount or value of the assets or liabilities of a scheme.
@@ -55,6 +55,6 @@ summary: ''
 
 [^c17103051]: Textual amendment: mod. by SR 2005/378
 
-[^key-179083a061811049cdf09af6c07125a2]: Textual amendment: [Art. 36(2A)](https://www.legislation.gov.uk/nisi/2005/255/article/36/2A) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 5(1)(a)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/5/1/a); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(c)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/c) (with [art. 3(1)-(3)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1))
+[^c-179083a061811049cdf09af6c07125a2]: Textual amendment: [Art. 36(2A)](https://www.legislation.gov.uk/nisi/2005/255/article/36/2A) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 5(1)(a)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/5/1/a); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(c)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/c) (with [art. 3(1)-(3)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1))
 
-[^key-13c9fd0bdc7c177e2b0b5896966402ad]: Textual amendment: [Art. 36(9)(ba)](https://www.legislation.gov.uk/nisi/2005/255/article/36/9/ba) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 5(1)(b)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/5/1/b); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(c)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/c) (with [art. 3(1)-(3)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1))
+[^c-13c9fd0bdc7c177e2b0b5896966402ad]: Textual amendment: [Art. 36(9)(ba)](https://www.legislation.gov.uk/nisi/2005/255/article/36/9/ba) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 5(1)(b)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/5/1/b); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(c)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/c) (with [art. 3(1)-(3)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1))

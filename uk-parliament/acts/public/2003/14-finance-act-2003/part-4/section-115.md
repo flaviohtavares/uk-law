@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. General and Special Commissioners, appeals and other proceedings[^key-47396b75be37c61ff58a08af4fceb21d]
+## 115. General and Special Commissioners, appeals and other proceedings[^c-47396b75be37c61ff58a08af4fceb21d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47396b75be37c61ff58a08af4fceb21d]: Textual amendment: S. 115 omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 370](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/370)
+[^c-47396b75be37c61ff58a08af4fceb21d]: Textual amendment: S. 115 omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 370](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/370)

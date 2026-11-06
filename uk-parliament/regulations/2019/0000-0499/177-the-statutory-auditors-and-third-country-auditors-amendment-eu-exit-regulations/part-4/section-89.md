@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89.[^key-788293e6c4b11b76c8d70fcef322281e]
+## 89.[^c-788293e6c4b11b76c8d70fcef322281e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In the heading for Title III (the appointment of statutory auditors or audit fir
 
 ## Annotations
 
-[^key-788293e6c4b11b76c8d70fcef322281e]: Commencement: Reg. 89 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-788293e6c4b11b76c8d70fcef322281e]: Commencement: Reg. 89 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)

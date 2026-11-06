@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28CA. Business premises: entry to arrest[^c9590891][^key-384f5283199ec8ca022b2db2b256e10b][^key-5a988c4ca2a9354185024e11cc2a88df][^c18682281][^key-d66e253535507db4fe9d2195c8a81d09]
+## 28CA. Business premises: entry to arrest[^c9590891][^c-384f5283199ec8ca022b2db2b256e10b][^c-5a988c4ca2a9354185024e11cc2a88df][^c18682281][^c-d66e253535507db4fe9d2195c8a81d09]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) for an offence under section 24,
 - (b) for an offence under section 24A, or
-- (ba)[^key-0125837ef3722ded71fb8fa97f3b595c] for an offence under section 24B,
+- (ba)[^c-0125837ef3722ded71fb8fa97f3b595c] for an offence under section 24B,
 - (c) under paragraph 17 of Schedule 2.
 
 (2) The power under subsection (1) may be exercised only—
@@ -60,12 +60,12 @@ summary: ''
 
 [^c9590891]: Textual amendment: S. 28CA inserted (8.1.2003) by [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41), [s. 153(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/153/1) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); S.I 2002/2811, art. 2, Sch.
 
-[^key-384f5283199ec8ca022b2db2b256e10b]: Modification: S. 28CA modified (1.7.2013) by [The Accession of Croatia (Immigration and Worker Authorisation) Regulations 2013 (S.I. 2013/1460)](https://www.legislation.gov.uk/uksi/2013/1460), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1460/regulation/1/1), [18(c)](https://www.legislation.gov.uk/uksi/2013/1460/regulation/18/c) (with [reg. 11(8)](https://www.legislation.gov.uk/uksi/2013/1460/regulation/11/8))
+[^c-384f5283199ec8ca022b2db2b256e10b]: Modification: S. 28CA modified (1.7.2013) by [The Accession of Croatia (Immigration and Worker Authorisation) Regulations 2013 (S.I. 2013/1460)](https://www.legislation.gov.uk/uksi/2013/1460), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1460/regulation/1/1), [18(c)](https://www.legislation.gov.uk/uksi/2013/1460/regulation/18/c) (with [reg. 11(8)](https://www.legislation.gov.uk/uksi/2013/1460/regulation/11/8))
 
-[^key-5a988c4ca2a9354185024e11cc2a88df]: Modification: Ss. 24-29: amendment to earlier affecting S.I. 1993/1797, Sch. 1 Pt. 1 (11.10.2017 coming into force in accordance with art. 1) by [The Immigration (Jersey) (Amendment) Order 2017 (S.I. 2017/981)](https://www.legislation.gov.uk/uksi/2017/981), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2017/981/schedule/part/1/paragraph/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2017/981/article/6))
+[^c-5a988c4ca2a9354185024e11cc2a88df]: Modification: Ss. 24-29: amendment to earlier affecting S.I. 1993/1797, Sch. 1 Pt. 1 (11.10.2017 coming into force in accordance with art. 1) by [The Immigration (Jersey) (Amendment) Order 2017 (S.I. 2017/981)](https://www.legislation.gov.uk/uksi/2017/981), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2017/981/schedule/part/1/paragraph/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2017/981/article/6))
 
 [^c18682281]: Modification: Ss. 28A, 28CA, 28FA modified (1.1.2007) by [The Accession (Immigration and Worker Authorisation) Regulations 2006 (S.I. 2006/3317)](https://www.legislation.gov.uk/uksi/2006/3317), [reg. 15(c)](https://www.legislation.gov.uk/uksi/2006/3317/regulation/15/c)
 
-[^key-d66e253535507db4fe9d2195c8a81d09]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/1971/77/part/3) modified by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 33C(6)](https://www.legislation.gov.uk/ukpga/2014/22/section/33C/6) (as inserted (1.11.2016 for specified purposes, 1.12.2016 in so far as not already in force) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2016/19/section/39/2), [94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/a), [5(c)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/c))
+[^c-d66e253535507db4fe9d2195c8a81d09]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/1971/77/part/3) modified by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 33C(6)](https://www.legislation.gov.uk/ukpga/2014/22/section/33C/6) (as inserted (1.11.2016 for specified purposes, 1.12.2016 in so far as not already in force) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2016/19/section/39/2), [94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/a), [5(c)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/c))
 
-[^key-0125837ef3722ded71fb8fa97f3b595c]: Textual amendment: S. 28CA(1)(ba) inserted (12.7.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 34(6)](https://www.legislation.gov.uk/ukpga/2016/19/section/34/6), [94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/e) (with transitional provision in [S.I. 2016/712](https://www.legislation.gov.uk/uksi/2016/712), art. 2)
+[^c-0125837ef3722ded71fb8fa97f3b595c]: Textual amendment: S. 28CA(1)(ba) inserted (12.7.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 34(6)](https://www.legislation.gov.uk/ukpga/2016/19/section/34/6), [94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/e) (with transitional provision in [S.I. 2016/712](https://www.legislation.gov.uk/uksi/2016/712), art. 2)

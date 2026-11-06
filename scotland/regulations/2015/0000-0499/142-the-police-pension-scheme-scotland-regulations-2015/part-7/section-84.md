@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. Full retirement pension payable at member’s state pension age (deferred members)[^key-eeb936a6e3bd98ef6b397f5beec11456]
+## 84. Full retirement pension payable at member’s state pension age (deferred members)[^c-eeb936a6e3bd98ef6b397f5beec11456]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eeb936a6e3bd98ef6b397f5beec11456]: Commencement: Reg. 84 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-eeb936a6e3bd98ef6b397f5beec11456]: Commencement: Reg. 84 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The appropriate tribunal[^key-58a3830f98ad0fa8b21c4ea8104f9cd3] may authorise a local housing authority to make an interim EDMO in respect of a dwelling to which section 133 applies if the tribunal—
+(1) The appropriate tribunal[^c-58a3830f98ad0fa8b21c4ea8104f9cd3] may authorise a local housing authority to make an interim EDMO in respect of a dwelling to which section 133 applies if the tribunal—
 
 - (a) is satisfied as to the matters mentioned in subsection (2), and
 - (b) is not satisfied that the case falls within one of the prescribed exceptions.
@@ -66,4 +66,4 @@ summary: ''
 
 [^c693361]: Commencement: S. 134 wholly in force at 16.6.2006; s. 134 in force for certain purposes at Royal Assent see s. 270(2)(b); s. 134 in force for E. at 6.7.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/2/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); s. 134 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-58a3830f98ad0fa8b21c4ea8104f9cd3]: Textual amendment: Words in [s. 134(1)](https://www.legislation.gov.uk/ukpga/2004/34/section/134/1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 168](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/168) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-58a3830f98ad0fa8b21c4ea8104f9cd3]: Textual amendment: Words in [s. 134(1)](https://www.legislation.gov.uk/ukpga/2004/34/section/134/1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 168](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/168) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 347. Statement of charging principles[^key-72584928dd54fe2dbcf608cf4ccbb0f9]
+## 347. Statement of charging principles[^c-72584928dd54fe2dbcf608cf4ccbb0f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,7 +46,7 @@ summary: ''
 - (a) carried forward; and
 - (b) taken into account in determining what is required to satisfy the requirement imposed by virtue of subsection (2)(a) in relation to the following year.
 
-(7) References in this section to OFCOM’s functions relating to the regulation of broadcasting do not include references to any of their functions in relation to the BBC or S4C[^key-bddc84097e4dc8d095d23966d61ab976].
+(7) References in this section to OFCOM’s functions relating to the regulation of broadcasting do not include references to any of their functions in relation to the BBC or S4C[^c-bddc84097e4dc8d095d23966d61ab976].
 
 (8) In this section—
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-72584928dd54fe2dbcf608cf4ccbb0f9]: Commencement: S. 347 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-72584928dd54fe2dbcf608cf4ccbb0f9]: Commencement: S. 347 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-bddc84097e4dc8d095d23966d61ab976]: Textual amendment: Word in [s. 347(7)](https://www.legislation.gov.uk/ukpga/2003/21/section/347/7) substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 44](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/44); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
+[^c-bddc84097e4dc8d095d23966d61ab976]: Textual amendment: Word in [s. 347(7)](https://www.legislation.gov.uk/ukpga/2003/21/section/347/7) substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 44](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/44); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)

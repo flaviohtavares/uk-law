@@ -31,10 +31,10 @@ summary: ''
 - 7.. The evaluation of the application of HACCP procedures and of good agricultural practices
 - 8.. Management systems such as quality assurance programmes that the operators manage and their assessment in so far as these are relevant for the requirements set out in the rules referred to in Article 1(2)
 - 9.. Official certification systems
-- 10.. Contingency arrangements for emergencies,[^key-087f16ac2c29b52452c6214fbdbabf61]...
+- 10.. Contingency arrangements for emergencies,[^c-087f16ac2c29b52452c6214fbdbabf61]...
 - 11.. Legal proceedings and implications of official controls
 - 12.. Examination of written, documentary material and other records, including those related to inter-laboratory comparative testing, accreditation and risk assessment, which may be relevant to the assessment of compliance with the rules referred to in Article 1(2); this may include financial and commercial aspects
-- 13.. Control procedures and requirements for entry into Great Britain[^key-662aa2dd7140724a26330be23b96d8e1] of animals and goods arriving from third countries
+- 13.. Control procedures and requirements for entry into Great Britain[^c-662aa2dd7140724a26330be23b96d8e1] of animals and goods arriving from third countries
 - 14.. Any other area necessary to ensure that official controls are performed in accordance with this Regulation
 
 ### CHAPTER II — Subject areas for control procedures
@@ -45,7 +45,7 @@ summary: ''
 - 4.. Tasks, responsibilities and duties of staff
 - 5.. Sampling procedures, control methods and techniques, including laboratory analysis, testing and diagnosis, interpretation of results and consequent decisions
 - 6.. Screening and targeted screening programmes
-- 7.. Mutual assistance in the event that official controls require more than one competent authority[^key-db854c975eb3ea7ea406cf47171b2b4a] to take action
+- 7.. Mutual assistance in the event that official controls require more than one competent authority[^c-db854c975eb3ea7ea406cf47171b2b4a] to take action
 - 8.. Action to be taken following official controls
 - 9.. Cooperation with other services and departments that may have relevant responsibilities or with operators
 - 10.. Verification of the appropriateness of methods of sampling and of laboratory analysis, testing and diagnosis
@@ -53,8 +53,8 @@ summary: ''
 
 ## Annotations
 
-[^key-087f16ac2c29b52452c6214fbdbabf61]: Textual amendment: Words in Annex 2 Ch. 1 para. 10 omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [29(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/29/2/a/i) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-087f16ac2c29b52452c6214fbdbabf61]: Textual amendment: Words in Annex 2 Ch. 1 para. 10 omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [29(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/29/2/a/i) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-662aa2dd7140724a26330be23b96d8e1]: Textual amendment: Words in Annex 2 Ch. 1 para. 13 substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [29(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/29/2/a/ii) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-662aa2dd7140724a26330be23b96d8e1]: Textual amendment: Words in Annex 2 Ch. 1 para. 13 substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [29(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/29/2/a/ii) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-db854c975eb3ea7ea406cf47171b2b4a]: Textual amendment: Words in Annex 2 Ch. 2 para. 7 substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [29(2)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/29/2/b) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-db854c975eb3ea7ea406cf47171b2b4a]: Textual amendment: Words in Annex 2 Ch. 2 para. 7 substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [29(2)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/29/2/b) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

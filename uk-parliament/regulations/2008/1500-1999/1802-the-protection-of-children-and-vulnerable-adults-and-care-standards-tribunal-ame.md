@@ -32,7 +32,7 @@ summary: ''
 
 Children And Young Persons, England And Wales
 
-The Protection of Children and Vulnerable Adults and Care Standards Tribunal (Amendment) Regulations 2008 (revoked)[^key-0443fb5c28d22da7fff7911a2fa1fe30]
+The Protection of Children and Vulnerable Adults and Care Standards Tribunal (Amendment) Regulations 2008 (revoked)[^c-0443fb5c28d22da7fff7911a2fa1fe30]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 1st September 2008
 
-[^key-0443fb5c28d22da7fff7911a2fa1fe30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0443fb5c28d22da7fff7911a2fa1fe30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and application[^key-0443fb5c28d22da7fff7911a2fa1fe30]
+## 1. Citation, commencement, interpretation and application[^c-0443fb5c28d22da7fff7911a2fa1fe30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to regulation 1(2) of the Tribunal Regulations[^key-0443fb5c28d22da7fff7911a2fa1fe30]
+## 2. Amendment to regulation 1(2) of the Tribunal Regulations[^c-0443fb5c28d22da7fff7911a2fa1fe30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to regulation 4 of the Tribunal Regulations[^key-0443fb5c28d22da7fff7911a2fa1fe30]
+## 3. Amendment to regulation 4 of the Tribunal Regulations[^c-0443fb5c28d22da7fff7911a2fa1fe30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment to Schedule 2 to the Tribunal Regulations[^key-0443fb5c28d22da7fff7911a2fa1fe30]
+## 4. Amendment to Schedule 2 to the Tribunal Regulations[^c-0443fb5c28d22da7fff7911a2fa1fe30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment to Schedule 7 to the Tribunal Regulations[^key-0443fb5c28d22da7fff7911a2fa1fe30]
+## 5. Amendment to Schedule 7 to the Tribunal Regulations[^c-0443fb5c28d22da7fff7911a2fa1fe30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0443fb5c28d22da7fff7911a2fa1fe30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0443fb5c28d22da7fff7911a2fa1fe30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0443fb5c28d22da7fff7911a2fa1fe30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0443fb5c28d22da7fff7911a2fa1fe30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0443fb5c28d22da7fff7911a2fa1fe30]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1802) revoked (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
+[^c-0443fb5c28d22da7fff7911a2fa1fe30]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1802) revoked (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.4. Register of claims[^key-82d979929b257c4fd6293111be9373a8]
+## 5.4. Register of claims[^c-82d979929b257c4fd6293111be9373a8]
 
 *Extent: E+W*
 
@@ -24,10 +24,10 @@ summary: ''
 
 (2) Any person who pays the prescribed fee may, during office hours, search any available register of claims.
 
-- (Practice Direction 5A[^key-e23f2b8352ee27e84a6af8726898b694] contains details of available registers).
+- (Practice Direction 5A[^c-e23f2b8352ee27e84a6af8726898b694] contains details of available registers).
 
 ## Annotations
 
-[^key-82d979929b257c4fd6293111be9373a8]: Textual amendment: [Rule 5.4](https://www.legislation.gov.uk/uksi/1998/3132/rule/5.4) substituted (2.10.2006) by [The Civil Procedure (Amendment) Rules 2006 (S.I. 2006/1689)](https://www.legislation.gov.uk/uksi/2006/1689), [rules 1](https://www.legislation.gov.uk/uksi/2006/1689/rule/1), [3(a)](https://www.legislation.gov.uk/uksi/2006/1689/rule/3/a)
+[^c-82d979929b257c4fd6293111be9373a8]: Textual amendment: [Rule 5.4](https://www.legislation.gov.uk/uksi/1998/3132/rule/5.4) substituted (2.10.2006) by [The Civil Procedure (Amendment) Rules 2006 (S.I. 2006/1689)](https://www.legislation.gov.uk/uksi/2006/1689), [rules 1](https://www.legislation.gov.uk/uksi/2006/1689/rule/1), [3(a)](https://www.legislation.gov.uk/uksi/2006/1689/rule/3/a)
 
-[^key-e23f2b8352ee27e84a6af8726898b694]: Textual amendment: Words in [rule 5.4](https://www.legislation.gov.uk/uksi/1998/3132/rule/5.4) substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2009/3390/rule/4/a)
+[^c-e23f2b8352ee27e84a6af8726898b694]: Textual amendment: Words in [rule 5.4](https://www.legislation.gov.uk/uksi/1998/3132/rule/5.4) substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2009/3390/rule/4/a)

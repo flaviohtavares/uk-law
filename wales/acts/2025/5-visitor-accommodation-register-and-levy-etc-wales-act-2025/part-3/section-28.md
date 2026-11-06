@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Power of principal council to introduce levy on overnight stays in visitor accommodation[^key-f6d338fe746ad547ebf44018d446b52a]
+## 28. Power of principal council to introduce levy on overnight stays in visitor accommodation[^c-f6d338fe746ad547ebf44018d446b52a]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6d338fe746ad547ebf44018d446b52a]: Commencement: S. 28 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-f6d338fe746ad547ebf44018d446b52a]: Commencement: S. 28 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

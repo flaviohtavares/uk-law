@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67B. Penalty for failure to make payments on time: Class 1A and Class 1B contributions[^key-29972da3235ed47ebf994277456cdb76]
+## 67B. Penalty for failure to make payments on time: Class 1A and Class 1B contributions[^c-29972da3235ed47ebf994277456cdb76]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Schedule 56 to the Finance Act 2009 (“Schedule 56 FA 2009”) shall apply in r
 
 ## Annotations
 
-[^key-29972da3235ed47ebf994277456cdb76]: Textual amendment: Reg. 67A - Reg. 67B inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Social Security (Contributions) (Amendment No. 4) Regulations 2010 (S.I. 2010/721)](https://www.legislation.gov.uk/uksi/2010/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/721/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2010/721/regulation/3)
+[^c-29972da3235ed47ebf994277456cdb76]: Textual amendment: Reg. 67A - Reg. 67B inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Social Security (Contributions) (Amendment No. 4) Regulations 2010 (S.I. 2010/721)](https://www.legislation.gov.uk/uksi/2010/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/721/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2010/721/regulation/3)

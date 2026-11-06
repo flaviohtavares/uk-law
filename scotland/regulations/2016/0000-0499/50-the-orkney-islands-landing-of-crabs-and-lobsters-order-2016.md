@@ -34,7 +34,7 @@ Sea Fisheries
 
 Conservation Of Sea Fish
 
-The Orkney Islands (Landing of Crabs and Lobsters) Order 2016 (revoked)[^key-929836de46c51a72857ff96bc819c5d7]
+The Orkney Islands (Landing of Crabs and Lobsters) Order 2016 (revoked)[^c-929836de46c51a72857ff96bc819c5d7]
 
 Made
 
@@ -48,60 +48,60 @@ Coming into force
 
 7th March 2016
 
-[^key-929836de46c51a72857ff96bc819c5d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-929836de46c51a72857ff96bc819c5d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-929836de46c51a72857ff96bc819c5d7]
+## 1. Citation and commencement[^c-929836de46c51a72857ff96bc819c5d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-929836de46c51a72857ff96bc819c5d7]
+## 2. Interpretation[^c-929836de46c51a72857ff96bc819c5d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prescribed minimum size for landing velvet crabs in the Orkney Islands[^key-929836de46c51a72857ff96bc819c5d7]
+## 3. Prescribed minimum size for landing velvet crabs in the Orkney Islands[^c-929836de46c51a72857ff96bc819c5d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prescribed minimum size for landing lobsters in the Orkney Islands[^key-929836de46c51a72857ff96bc819c5d7]
+## 4. Prescribed minimum size for landing lobsters in the Orkney Islands[^c-929836de46c51a72857ff96bc819c5d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Prescribed minimum size for landing green crabs in the Orkney Islands[^key-929836de46c51a72857ff96bc819c5d7]
+## 5. Prescribed minimum size for landing green crabs in the Orkney Islands[^c-929836de46c51a72857ff96bc819c5d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Prohibition on landing berried velvet crabs caught in specified waters[^key-929836de46c51a72857ff96bc819c5d7]
+## 6. Prohibition on landing berried velvet crabs caught in specified waters[^c-929836de46c51a72857ff96bc819c5d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-929836de46c51a72857ff96bc819c5d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-929836de46c51a72857ff96bc819c5d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — MEASUREMENT OF THE SIZE OF A GREEN CRAB[^key-929836de46c51a72857ff96bc819c5d7]
+## SCHEDULE 1 — MEASUREMENT OF THE SIZE OF A GREEN CRAB[^c-929836de46c51a72857ff96bc819c5d7]
 
 Article 5(3)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2016/50/images/ssi_20160050_en_001)
 
-## SCHEDULE 2 — DESCRIPTION OF THE SPECIFIED WATERS[^key-929836de46c51a72857ff96bc819c5d7]
+## SCHEDULE 2 — DESCRIPTION OF THE SPECIFIED WATERS[^c-929836de46c51a72857ff96bc819c5d7]
 
 Article 6(1)
 
-### 1. Interpretation[^key-929836de46c51a72857ff96bc819c5d7]
+### 1. Interpretation[^c-929836de46c51a72857ff96bc819c5d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Description of the specified waters[^key-929836de46c51a72857ff96bc819c5d7]
+### 2. Description of the specified waters[^c-929836de46c51a72857ff96bc819c5d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-929836de46c51a72857ff96bc819c5d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-929836de46c51a72857ff96bc819c5d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-929836de46c51a72857ff96bc819c5d7]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2016/50) revoked (25.2.2018) by [The Specified Crustaceans (Prohibition on Landing, Sale and Carriage) (Scotland) Order 2017 (S.S.I. 2017/455)](https://www.legislation.gov.uk/ssi/2017/455), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2017/455/article/1/1), [8(1)(e)](https://www.legislation.gov.uk/ssi/2017/455/article/8/1/e)
+[^c-929836de46c51a72857ff96bc819c5d7]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2016/50) revoked (25.2.2018) by [The Specified Crustaceans (Prohibition on Landing, Sale and Carriage) (Scotland) Order 2017 (S.S.I. 2017/455)](https://www.legislation.gov.uk/ssi/2017/455), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2017/455/article/1/1), [8(1)(e)](https://www.legislation.gov.uk/ssi/2017/455/article/8/1/e)

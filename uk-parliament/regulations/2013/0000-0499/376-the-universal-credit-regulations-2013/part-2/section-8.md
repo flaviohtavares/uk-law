@@ -23,7 +23,7 @@ summary: ''
 (1) For the basic condition in section 4(1)(a) of the Act (at least 18 years old), the minimum age is 16 years old where a person—
 
 - (a) has limited capability for work;
-- (b) is awaiting an assessment under Part 5 to determine whether the person has limited capability for work and has a statement given [^key-c5e77963e80aac2287b6747bb74e73a7]... in accordance with the Medical Evidence Regulations which provides that the person is not fit for work;
+- (b) is awaiting an assessment under Part 5 to determine whether the person has limited capability for work and has a statement given [^c-c5e77963e80aac2287b6747bb74e73a7]... in accordance with the Medical Evidence Regulations which provides that the person is not fit for work;
 - (c) has regular and substantial caring responsibilities for a severely disabled person;
 - (d) is responsible for a child;
 - (e) is a member of a couple the other member of which is responsible for a child or a qualifying young person (but only where the other member meets the basic conditions in section 4 of the Act);
@@ -47,8 +47,8 @@ summary: ''
 
 - “**parent**” includes any person acting in the place of a parent;
 - “**care leaver**” means—
-  - (a) in relation to England[^key-23e5d315625d11d4fbff5e76d98ae60a]..., an eligible child for the purposes of paragraph 19B of Schedule 2 to the Children Act 1989 [^c2165922] or a relevant child for the purposes of section 23A of that Act;
-  - (b) in relation to Scotland, a person under the age of 18 who—[^key-4309b5522caffe29e7c54b5fc4dcae61]
+  - (a) in relation to England[^c-23e5d315625d11d4fbff5e76d98ae60a]..., an eligible child for the purposes of paragraph 19B of Schedule 2 to the Children Act 1989 [^c2165922] or a relevant child for the purposes of section 23A of that Act;
+  - (b) in relation to Scotland, a person under the age of 18 who—[^c-4309b5522caffe29e7c54b5fc4dcae61]
     - (i) is looked after by a local authority; or
     - (ii) has ceased to be looked after by a local authority but is a person to whom a local authority in Scotland is obliged to provide advice and assistance in terms of section 29(1) of the Children (Scotland) Act 1995 or a person who is being provided with continuing care under section 26A of that Act,
 
@@ -60,10 +60,10 @@ summary: ''
 
 ## Annotations
 
-[^key-c5e77963e80aac2287b6747bb74e73a7]: Textual amendment: Words in [reg. 8(1)(b)](https://www.legislation.gov.uk/uksi/2013/376/regulation/8/1/b) omitted (1.7.2022) by virtue of [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2022/630/regulation/4/3/a)
+[^c-c5e77963e80aac2287b6747bb74e73a7]: Textual amendment: Words in [reg. 8(1)(b)](https://www.legislation.gov.uk/uksi/2013/376/regulation/8/1/b) omitted (1.7.2022) by virtue of [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2022/630/regulation/4/3/a)
 
-[^key-23e5d315625d11d4fbff5e76d98ae60a]: Textual amendment: Words in reg. 8(4) omitted (26.5.2016) by virtue of [The Universal Credit (Care Leavers and Looked After Children) Amendment Regulations 2016 (S.I. 2016/543)](https://www.legislation.gov.uk/uksi/2016/543), [regs. 1](https://www.legislation.gov.uk/uksi/2016/543/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2016/543/regulation/2/3/a)
+[^c-23e5d315625d11d4fbff5e76d98ae60a]: Textual amendment: Words in reg. 8(4) omitted (26.5.2016) by virtue of [The Universal Credit (Care Leavers and Looked After Children) Amendment Regulations 2016 (S.I. 2016/543)](https://www.legislation.gov.uk/uksi/2016/543), [regs. 1](https://www.legislation.gov.uk/uksi/2016/543/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2016/543/regulation/2/3/a)
 
 [^c2165922]: Marginal citation: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41). Section 19B was inserted by section 1 of the [Children (Leaving Care) Act 2000 (c.35)](https://www.legislation.gov.uk/ukpga/2000/35). Section 23A was inserted by section 2 of that Act.
 
-[^key-4309b5522caffe29e7c54b5fc4dcae61]: Textual amendment: Words in reg. 8(4) substituted (26.5.2016) by [The Universal Credit (Care Leavers and Looked After Children) Amendment Regulations 2016 (S.I. 2016/543)](https://www.legislation.gov.uk/uksi/2016/543), [regs. 1](https://www.legislation.gov.uk/uksi/2016/543/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2016/543/regulation/2/3/b)
+[^c-4309b5522caffe29e7c54b5fc4dcae61]: Textual amendment: Words in reg. 8(4) substituted (26.5.2016) by [The Universal Credit (Care Leavers and Looked After Children) Amendment Regulations 2016 (S.I. 2016/543)](https://www.legislation.gov.uk/uksi/2016/543), [regs. 1](https://www.legislation.gov.uk/uksi/2016/543/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2016/543/regulation/2/3/b)

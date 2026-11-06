@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Claims arising out of water abstraction[^key-a51beee846177628c70cec626ef83982]
+## 24. Claims arising out of water abstraction[^c-a51beee846177628c70cec626ef83982]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a51beee846177628c70cec626ef83982]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2003/37/section/24) in force at 1.4.2005 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 5](https://www.legislation.gov.uk/uksi/2004/641/article/5) (with [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/4)[7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-a51beee846177628c70cec626ef83982]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2003/37/section/24) in force at 1.4.2005 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 5](https://www.legislation.gov.uk/uksi/2004/641/article/5) (with [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/4)[7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Duty to have regard to government policy and other matters[^key-f32f4d9440dc15837248c2dd559cb384]
+## 53. Duty to have regard to government policy and other matters[^c-f32f4d9440dc15837248c2dd559cb384]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f32f4d9440dc15837248c2dd559cb384]: Commencement: [S. 53](https://www.legislation.gov.uk/anaw/2015/5/section/53) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-f32f4d9440dc15837248c2dd559cb384]: Commencement: [S. 53](https://www.legislation.gov.uk/anaw/2015/5/section/53) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

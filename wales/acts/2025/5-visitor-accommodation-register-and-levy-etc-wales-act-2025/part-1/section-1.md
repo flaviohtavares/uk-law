@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Overview of this Act[^key-1f4db09e4f231b725e9b743bd0959bef]
+## 1. Overview of this Act[^c-1f4db09e4f231b725e9b743bd0959bef]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f4db09e4f231b725e9b743bd0959bef]: Commencement: S. 1 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-1f4db09e4f231b725e9b743bd0959bef]: Commencement: S. 1 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

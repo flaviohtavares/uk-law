@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Particular powers[^key-d7cbac58598c08b647a041668e5706c3]
+## 19. Particular powers[^c-d7cbac58598c08b647a041668e5706c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d7cbac58598c08b647a041668e5706c3]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2009/23/section/19) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/2)
+[^c-d7cbac58598c08b647a041668e5706c3]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2009/23/section/19) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/2)

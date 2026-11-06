@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Water abstraction and impounding[^key-7a9093f550ed6025a0fbed35d349d696]
+## 20. Water abstraction and impounding[^c-7a9093f550ed6025a0fbed35d349d696]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7a9093f550ed6025a0fbed35d349d696]: Commencement: Art. 20 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-7a9093f550ed6025a0fbed35d349d696]: Commencement: Art. 20 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
 [^f00038]: Footnote: Section 24(1) was amended by [S.I. 1996/593](https://www.legislation.gov.uk/uksi/1996/593).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Extradition to category 1 territory[^key-f8f3c82da970de46942229e2082ed975]
+## 69. Extradition to category 1 territory[^c-f8f3c82da970de46942229e2082ed975]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ After section 8 of the Extradition Act 2003 insert—
 
 ## Annotations
 
-[^key-f8f3c82da970de46942229e2082ed975]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2009/26/section/69) in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(l)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/l) (with [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2009/3096/article/4/1/c))
+[^c-f8f3c82da970de46942229e2082ed975]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2009/26/section/69) in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(l)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/l) (with [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2009/3096/article/4/1/c))

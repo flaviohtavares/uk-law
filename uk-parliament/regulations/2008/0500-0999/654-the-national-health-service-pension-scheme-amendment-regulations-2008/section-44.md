@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Amendment of regulation P2[^key-eba2f7107561da56809441e3885d13ed]
+## 44. Amendment of regulation P2[^c-eba2f7107561da56809441e3885d13ed]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ In regulation P2 (other leave of absence) for paragraphs (1) and (2), substitute
 
 ## Annotations
 
-[^key-eba2f7107561da56809441e3885d13ed]: Commencement: Reg. 44 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-eba2f7107561da56809441e3885d13ed]: Commencement: Reg. 44 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

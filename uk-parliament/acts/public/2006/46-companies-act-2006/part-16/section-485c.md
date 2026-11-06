@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 485C. Restriction on appointment of auditor of private company which is a public interest entity[^key-d28a24faef0824283e49139749fe381c][^key-8a38926453ae83a510ed44aebe2c09a8]
+## 485C. Restriction on appointment of auditor of private company which is a public interest entity[^c-d28a24faef0824283e49139749fe381c][^c-8a38926453ae83a510ed44aebe2c09a8]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d28a24faef0824283e49139749fe381c]: Modification: S. 485C applied (with modifications) by S.I. 2008/565, reg. 6(1)(1A) (as substituted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/6/a) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7)))
+[^c-d28a24faef0824283e49139749fe381c]: Modification: S. 485C applied (with modifications) by S.I. 2008/565, reg. 6(1)(1A) (as substituted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/6/a) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7)))
 
-[^key-8a38926453ae83a510ed44aebe2c09a8]: Textual amendment: S. 485C inserted (with effect in accordance with reg. 1(6)(8) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [12(4)](https://www.legislation.gov.uk/uksi/2017/516/regulation/12/4)
+[^c-8a38926453ae83a510ed44aebe2c09a8]: Textual amendment: S. 485C inserted (with effect in accordance with reg. 1(6)(8) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [12(4)](https://www.legislation.gov.uk/uksi/2017/516/regulation/12/4)

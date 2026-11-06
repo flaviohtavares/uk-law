@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66. Review of energy efficiency discount schemes[^key-7e670333168012aab6a55ed5b2e56a03]
+## 66. Review of energy efficiency discount schemes[^c-7e670333168012aab6a55ed5b2e56a03]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e670333168012aab6a55ed5b2e56a03]: Commencement: S. 66 in force at 1.4.2010 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/341/article/2/3)
+[^c-7e670333168012aab6a55ed5b2e56a03]: Commencement: S. 66 in force at 1.4.2010 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/341/article/2/3)

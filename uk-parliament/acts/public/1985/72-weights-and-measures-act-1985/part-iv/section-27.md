@@ -35,7 +35,7 @@ summary: ''
 - (g) a sale by means of a vending machine, or
 - (h) goods delivered at premises of the buyer by means of an installation providing a connection of a permanent nature between those premises and premises of the seller.
 
-(3)[^key-f5cf0d7ee5a8f26f0e0532838bcc1a7a] Nothing in section 26 above shall apply to goods that are subject to the FIC Regulation.
+(3)[^c-f5cf0d7ee5a8f26f0e0532838bcc1a7a] Nothing in section 26 above shall apply to goods that are subject to the FIC Regulation.
 
 ## Annotations
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c13369711]: Marginal citation: [S.I. 1984/1316](https://www.legislation.gov.uk/uksi/1984/1316).
 
-[^key-f5cf0d7ee5a8f26f0e0532838bcc1a7a]: Textual amendment: [S. 27(3)](https://www.legislation.gov.uk/ukpga/1985/72/section/27/3) inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [3](https://www.legislation.gov.uk/uksi/2014/2975/regulation/3)
+[^c-f5cf0d7ee5a8f26f0e0532838bcc1a7a]: Textual amendment: [S. 27(3)](https://www.legislation.gov.uk/ukpga/1985/72/section/27/3) inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [3](https://www.legislation.gov.uk/uksi/2014/2975/regulation/3)

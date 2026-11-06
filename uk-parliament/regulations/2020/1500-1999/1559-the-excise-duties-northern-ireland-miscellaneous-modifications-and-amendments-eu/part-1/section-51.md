@@ -18,11 +18,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**51.**[^key-7c0312c571588d9fb1658c003cbadf62] In regulation 54—
+**51.**[^c-7c0312c571588d9fb1658c003cbadf62] In regulation 54—
 
 - (a) in paragraphs (1), (4) and (5) insert “EU” before “computerised system”;
 - (b) in paragraph (5)(c) insert “EU” before “Member State”.
 
 ## Annotations
 
-[^key-7c0312c571588d9fb1658c003cbadf62]: Commencement: Reg. 51 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
+[^c-7c0312c571588d9fb1658c003cbadf62]: Commencement: Reg. 51 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)

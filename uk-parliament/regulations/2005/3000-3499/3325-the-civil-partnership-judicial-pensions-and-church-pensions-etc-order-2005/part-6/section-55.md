@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**55.**[^key-6450ca4f4e8ec16712d444c975f38faa] (1) Section 18A (widowers' pensions) is amended as follows.
+**55.**[^c-6450ca4f4e8ec16712d444c975f38faa] (1) Section 18A (widowers' pensions) is amended as follows.
 
 (2) In the side-note, after “Widowers'” insert “and surviving civil partners'”.
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6450ca4f4e8ec16712d444c975f38faa]: Commencement: Art. 55 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-6450ca4f4e8ec16712d444c975f38faa]: Commencement: Art. 55 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

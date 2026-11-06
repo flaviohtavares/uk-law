@@ -42,35 +42,35 @@ A Measure of the National Assembly for Wales to make provision about the travel 
 
 ### 1. Main terms used in this Measure
 
-(1)[^key-88a9cfc528e443c733b9d687b410f782] This section applies for the purposes of this Measure.
+(1)[^c-88a9cfc528e443c733b9d687b410f782] This section applies for the purposes of this Measure.
 
-(2)[^key-88a9cfc528e443c733b9d687b410f782] “Travel arrangements” are travel arrangements of any description and include—
+(2)[^c-88a9cfc528e443c733b9d687b410f782] “Travel arrangements” are travel arrangements of any description and include—
 
 - (a) the provision of transport;
 - (b) the provision of one or more persons to escort a child when travelling;
 - (c) the payment of the whole or any part of a person's reasonable travelling expenses;
 - (d) the payment of allowances in respect of the use of particular modes of travel.
 
-(3)[^key-88a9cfc528e443c733b9d687b410f782] “**Learners**” means persons who receive education or training.
+(3)[^c-88a9cfc528e443c733b9d687b410f782] “**Learners**” means persons who receive education or training.
 
 (4) The following are “relevant places”—
 
-- (a)[^key-88a9cfc528e443c733b9d687b410f782] maintained schools;
-- (b)[^key-88a9cfc528e443c733b9d687b410f782] institutions in the further education sector;
-- (c)[^key-88a9cfc528e443c733b9d687b410f782] independent schools named in statements maintained under section 324 of the Education Act 1996 (c. 56) *(affected by repeal, see note)*[^key-2bef5f989426dafd72b87662daf6ade6] individual development plans maintained under section 14 or 19 of the Additional Learning Needs and Education Tribunal (Wales) Act 2018 ;
-- (d)[^key-88a9cfc528e443c733b9d687b410f782] non-maintained special schools;
-- (e)[^key-88a9cfc528e443c733b9d687b410f782] pupil referral units;
-- (f)[^key-88a9cfc528e443c733b9d687b410f782] places other than pupil referral units where education is arranged under section 19A(1)[^key-f51c186a9619c51a79b98fe4537cb534] of the Education Act 1996;
-- (g)[^key-88a9cfc528e443c733b9d687b410f782] places where education or training funded by the Commission for Tertiary Education and Research or the Welsh Ministers under section 97[^key-a801577f97d4a5d90e99973a6790f551] or 103[^key-652f2c20dc8b0778861a96e8ebc4bf34] of the Tertiary Education and Research (Wales) Act 2022 is provided;
-- (h)[^key-88a9cfc528e443c733b9d687b410f782] institutions where education and training and boarding accommodation have been secured by the Welsh Ministers under section 41 of the Learning and Skills Act 2000 *(affected by repeal, see note)*[^key-4ae64461631d1b7428c92852bd9c9c59] independent special post-16 institutions within the meaning given by section 56 of the Additional Learning Needs and Education Tribunal (Wales) Act 2018 which are named in individual development plans maintained under section 14 or 19 of that Act;
-- (i)[^key-88a9cfc528e443c733b9d687b410f782] places where nursery education is provided—
+- (a)[^c-88a9cfc528e443c733b9d687b410f782] maintained schools;
+- (b)[^c-88a9cfc528e443c733b9d687b410f782] institutions in the further education sector;
+- (c)[^c-88a9cfc528e443c733b9d687b410f782] independent schools named in statements maintained under section 324 of the Education Act 1996 (c. 56) *(affected by repeal, see note)*[^c-2bef5f989426dafd72b87662daf6ade6] individual development plans maintained under section 14 or 19 of the Additional Learning Needs and Education Tribunal (Wales) Act 2018 ;
+- (d)[^c-88a9cfc528e443c733b9d687b410f782] non-maintained special schools;
+- (e)[^c-88a9cfc528e443c733b9d687b410f782] pupil referral units;
+- (f)[^c-88a9cfc528e443c733b9d687b410f782] places other than pupil referral units where education is arranged under section 19A(1)[^c-f51c186a9619c51a79b98fe4537cb534] of the Education Act 1996;
+- (g)[^c-88a9cfc528e443c733b9d687b410f782] places where education or training funded by the Commission for Tertiary Education and Research or the Welsh Ministers under section 97[^c-a801577f97d4a5d90e99973a6790f551] or 103[^c-652f2c20dc8b0778861a96e8ebc4bf34] of the Tertiary Education and Research (Wales) Act 2022 is provided;
+- (h)[^c-88a9cfc528e443c733b9d687b410f782] institutions where education and training and boarding accommodation have been secured by the Welsh Ministers under section 41 of the Learning and Skills Act 2000 *(affected by repeal, see note)*[^c-4ae64461631d1b7428c92852bd9c9c59] independent special post-16 institutions within the meaning given by section 56 of the Additional Learning Needs and Education Tribunal (Wales) Act 2018 which are named in individual development plans maintained under section 14 or 19 of that Act;
+- (i)[^c-88a9cfc528e443c733b9d687b410f782] places where nursery education is provided—
   - (i) by a local authority, or
   - (ii) by any other person who is in receipt of financial assistance given by a local authority under arrangements made by them in pursuance of the duty imposed by section 118 of the School Standards and Framework Act 1998 (c. 31);
-- (j)[^key-06462aa9f1d84ac0d7e5570b2a51223c][^key-2255fb5dc37a90a1b1b64c6bd2601d56] places where work experience is undertaken.
+- (j)[^c-06462aa9f1d84ac0d7e5570b2a51223c][^c-2255fb5dc37a90a1b1b64c6bd2601d56] places where work experience is undertaken.
 
 ## Learner travel arrangements
 
-### 2. Duty to assess learner travel needs[^key-502e00b832ccae1fe1f812a72b0e7bae]
+### 2. Duty to assess learner travel needs[^c-502e00b832ccae1fe1f812a72b0e7bae]
 
 (1) This section applies in relation to—
 
@@ -90,7 +90,7 @@ A Measure of the National Assembly for Wales to make provision about the travel 
 - (d) the age of learners, and
 - (e) the nature of the routes which learners could reasonably be expected to take to the relevant places where they receive education or training.
 
-### 3. Local authority duty to make transport arrangements[^key-f240994141c39edcd76c9220cd9bf76b]
+### 3. Local authority duty to make transport arrangements[^c-f240994141c39edcd76c9220cd9bf76b]
 
 (1) This section applies in relation to a child of compulsory school age if—
 
@@ -105,12 +105,12 @@ A Measure of the National Assembly for Wales to make provision about the travel 
 | **Column 1** | **Column 2** |
 | --- | --- |
 | **Circumstances** | **Condition(s)** |
-| The child is receiving primary education at—<br>- (a) a maintained school,<br>- (b) a pupil referral unit,<br>- (c) an independent school named in a statement maintained for the child under section 324 of the Education Act 1996 *(affected by repeal, see note)*[^key-2a4fa0666929b90a9022051cabd90568]or other institution named in an individual development plan maintained for the child under section 14 of the Additional Learning Needs and Education Tribunal (Wales) Act 2018, or<br>- (d) a non-maintained special school,<br>at which the child is a registered pupil. | (a) The child is ordinarily resident at a place 2 miles (3.218688 kilometres) or more from the school or unit.<br>(b) No arrangements have been made by the local authority for enabling the child to become a registered pupil at—<br>- (i) a suitable maintained school,<br>- (ii) a suitable pupil referral unit,<br>- (iii) an independent school named in a statement maintained for the child under section 324 of the Education Act 1996 *(affected by repeal, see note)*[^key-b0169b3f0693a45a86a2541a22055091]or other institution named in an individual development plan maintained for the child under section 14 of the Additional Learning Needs and Education Tribunal (Wales) Act 2018 , or<br>- (iv) a suitable non-maintained special school,<br>nearer to the place where the child is ordinarily resident.<br>(c) No arrangements have been made by the local authority for suitable boarding accommodation for the child at or near the school or unit. |
-| The child is receiving secondary education at—<br>- (a) a maintained school,<br>- (b) a pupil referral unit,<br>- (c) an independent school named in a statement maintained for the child under section 324 of the Education Act 1996 *(affected by repeal, see note)*[^key-2a4fa0666929b90a9022051cabd90568]or other institution named in an individual development plan maintained for the child under section 14 of the Additional Learning Needs and Education Tribunal (Wales) Act 2018, or<br>- (d) a non-maintained special school,<br>at which the child is a registered pupil. | (a) The child is ordinarily resident at a place 3 miles (4.828032 kilometres) or more from the school or unit.<br>(b) No arrangements have been made by the local authority for enabling the child to become a registered pupil at—<br>- (i) a suitable maintained school,<br>- (ii) a suitable pupil referral unit,<br>- (iii) an independent school named in a statement maintained for the child under section 324 of the Education Act 1996 *(affected by repeal, see note)*[^key-b0169b3f0693a45a86a2541a22055091]or other institution named in an individual development plan maintained for the child under section 14 of the Additional Learning Needs and Education Tribunal (Wales) Act 2018 , or<br>- (iv) a suitable non-maintained special school,<br>nearer to the place where the child is ordinarily resident.<br>(c) No arrangements have been made by the local authority for suitable boarding accommodation for the child at or near the school or unit. |
+| The child is receiving primary education at—<br>- (a) a maintained school,<br>- (b) a pupil referral unit,<br>- (c) an independent school named in a statement maintained for the child under section 324 of the Education Act 1996 *(affected by repeal, see note)*[^c-2a4fa0666929b90a9022051cabd90568]or other institution named in an individual development plan maintained for the child under section 14 of the Additional Learning Needs and Education Tribunal (Wales) Act 2018, or<br>- (d) a non-maintained special school,<br>at which the child is a registered pupil. | (a) The child is ordinarily resident at a place 2 miles (3.218688 kilometres) or more from the school or unit.<br>(b) No arrangements have been made by the local authority for enabling the child to become a registered pupil at—<br>- (i) a suitable maintained school,<br>- (ii) a suitable pupil referral unit,<br>- (iii) an independent school named in a statement maintained for the child under section 324 of the Education Act 1996 *(affected by repeal, see note)*[^c-b0169b3f0693a45a86a2541a22055091]or other institution named in an individual development plan maintained for the child under section 14 of the Additional Learning Needs and Education Tribunal (Wales) Act 2018 , or<br>- (iv) a suitable non-maintained special school,<br>nearer to the place where the child is ordinarily resident.<br>(c) No arrangements have been made by the local authority for suitable boarding accommodation for the child at or near the school or unit. |
+| The child is receiving secondary education at—<br>- (a) a maintained school,<br>- (b) a pupil referral unit,<br>- (c) an independent school named in a statement maintained for the child under section 324 of the Education Act 1996 *(affected by repeal, see note)*[^c-2a4fa0666929b90a9022051cabd90568]or other institution named in an individual development plan maintained for the child under section 14 of the Additional Learning Needs and Education Tribunal (Wales) Act 2018, or<br>- (d) a non-maintained special school,<br>at which the child is a registered pupil. | (a) The child is ordinarily resident at a place 3 miles (4.828032 kilometres) or more from the school or unit.<br>(b) No arrangements have been made by the local authority for enabling the child to become a registered pupil at—<br>- (i) a suitable maintained school,<br>- (ii) a suitable pupil referral unit,<br>- (iii) an independent school named in a statement maintained for the child under section 324 of the Education Act 1996 *(affected by repeal, see note)*[^c-b0169b3f0693a45a86a2541a22055091]or other institution named in an individual development plan maintained for the child under section 14 of the Additional Learning Needs and Education Tribunal (Wales) Act 2018 , or<br>- (iv) a suitable non-maintained special school,<br>nearer to the place where the child is ordinarily resident.<br>(c) No arrangements have been made by the local authority for suitable boarding accommodation for the child at or near the school or unit. |
 | The child is receiving education or training at an institution in the further education sector at which the child is enrolled as a full-time student. | (a) The child is ordinarily resident at a place 3 miles (4.828032 kilometres) or more from the institution.<br>(b) No arrangements have been made by the local authority for enabling the child to become enrolled at a suitable institution nearer to the place where the child is ordinarily resident. |
 | The child—<br>- (a) is a registered pupil at a maintained school, and<br>- (b) receives secondary education at a relevant place other than that school.<br>The secondary education referred to in paragraph (b) is education arranged—<br>- (i) by the local authority, or<br>- (ii) by, or on behalf of, the governing body of the school at which the child is a registered pupil. | The child is ordinarily resident at a place 3 miles (4.828032 kilometres) or more from the relevant place. |
-| The child is looked after by a local authority and is receiving primary education at—<br>- (a) a maintained school,<br>- (b) a pupil referral unit,<br>- (c) an independent school named in a statement maintained for the child under section 324 of the Education Act 1996 *(affected by repeal, see note)*[^key-adea8809fd80dc07521c1e479f66a75e]or other institution named in an individual development plan maintained for the child under section 19 of the Additional Learning Needs and Education Tribunal (Wales) Act 2018, or<br>- (d) a non-maintained special school,<br>at which the child is a registered pupil. | The child is ordinarily resident at a place 2 miles (3.218688 kilometres) or more from the school or unit. |
-| The child is looked after by a local authority and is receiving secondary education at—<br>- (a) a maintained school,<br>- (b) a pupil referral unit,<br>- (c) an independent school named in a statement maintained for the child under section 324 of the Education Act 1996 *(affected by repeal, see note)*[^key-adea8809fd80dc07521c1e479f66a75e]or other institution named in an individual development plan maintained for the child under section 19 of the Additional Learning Needs and Education Tribunal (Wales) Act 2018, or<br>- (d) a non-maintained special school,<br>at which the child is a registered pupil. | The child is ordinarily resident at a place 3 miles (4.828032 kilometres) or more from the school or unit. |
+| The child is looked after by a local authority and is receiving primary education at—<br>- (a) a maintained school,<br>- (b) a pupil referral unit,<br>- (c) an independent school named in a statement maintained for the child under section 324 of the Education Act 1996 *(affected by repeal, see note)*[^c-adea8809fd80dc07521c1e479f66a75e]or other institution named in an individual development plan maintained for the child under section 19 of the Additional Learning Needs and Education Tribunal (Wales) Act 2018, or<br>- (d) a non-maintained special school,<br>at which the child is a registered pupil. | The child is ordinarily resident at a place 2 miles (3.218688 kilometres) or more from the school or unit. |
+| The child is looked after by a local authority and is receiving secondary education at—<br>- (a) a maintained school,<br>- (b) a pupil referral unit,<br>- (c) an independent school named in a statement maintained for the child under section 324 of the Education Act 1996 *(affected by repeal, see note)*[^c-adea8809fd80dc07521c1e479f66a75e]or other institution named in an individual development plan maintained for the child under section 19 of the Additional Learning Needs and Education Tribunal (Wales) Act 2018, or<br>- (d) a non-maintained special school,<br>at which the child is a registered pupil. | The child is ordinarily resident at a place 3 miles (4.828032 kilometres) or more from the school or unit. |
 
 (3) The local authority must not charge a child or a parent who is an individual for any transport arrangements made in accordance with this section.
 
@@ -136,7 +136,7 @@ A Measure of the National Assembly for Wales to make provision about the travel 
 
 (9) Regulations may prescribe circumstances and conditions for the purposes of paragraphs (b) and (c) of subsection (1); such regulations may amend the table or subsections (6), (7) and (8) (including repealing an entry in the table or those subsections).
 
-### 4. Local authority duty to make other travel arrangements[^key-9fc0306e72f6b1c07b5de163a71b17e4]
+### 4. Local authority duty to make other travel arrangements[^c-9fc0306e72f6b1c07b5de163a71b17e4]
 
 (1) This section applies in relation to a child of compulsory school age if—
 
@@ -176,14 +176,14 @@ A Measure of the National Assembly for Wales to make provision about the travel 
 
 (9) For the purposes of this section, a relevant place is suitable for a child if the education or training provided there is suitable, having regard to the age, ability and aptitudes of the child and any learning difficulties he or she may have.
 
-### 5. Limits of learner travel duties[^key-b25a74015cfb9cc56f6865b6e75f47e6][^key-7a43ae07d2dd8e39f49e133712feba2a]
+### 5. Limits of learner travel duties[^c-b25a74015cfb9cc56f6865b6e75f47e6][^c-7a43ae07d2dd8e39f49e133712feba2a]
 
 Section 2 does not require the assessment of learner travel needs and sections 3 and 4 do not require the making of travel arrangements—
 
 - (a) for learners to travel during the day between relevant places or between different sites of the same institution, or
 - (b) for any purpose other than attendance at a relevant place to receive education or training.
 
-### 6. Power of local authorities to make learner travel arrangements[^key-a1eda9fee020dc13d1c8ca4e81736973]
+### 6. Power of local authorities to make learner travel arrangements[^c-a1eda9fee020dc13d1c8ca4e81736973]
 
 (1) This section applies in relation to a learner if—
 
@@ -196,7 +196,7 @@ Section 2 does not require the assessment of learner travel needs and sections 3
 
 (4) A local authority may charge for travel arrangements made under this section for other learners.
 
-### 7. Travel arrangements for learners in post-16 education or training[^key-0d34627ab5e3fa02f66d7cb0a64f8bc1]
+### 7. Travel arrangements for learners in post-16 education or training[^c-0d34627ab5e3fa02f66d7cb0a64f8bc1]
 
 (1) This section applies in relation to learners ordinarily resident in Wales—
 
@@ -205,14 +205,14 @@ Section 2 does not require the assessment of learner travel needs and sections 3
   - (ii) have attained the age of 19 and have begun a particular course of education or training before attaining that age and continue to attend that course; and
 - (b) who receive education or training—
   - (i) at a place in Wales, or
-  - (ii) which is funded by the Commission for Tertiary Education and Research or[^key-87653fe52d0ad93bb363a3221081296f] the Welsh Ministers at a place outside Wales.
+  - (ii) which is funded by the Commission for Tertiary Education and Research or[^c-87653fe52d0ad93bb363a3221081296f] the Welsh Ministers at a place outside Wales.
 
 (2) Regulations may make provision about travel arrangements for learners to and from the places where they receive education or training.
 
 (3) The regulations may in particular—
 
 - (a) confer powers or impose duties on the following—
-  - (ai)[^key-e8720eee425d349a7e52548eedc7840c] the Commission for Tertiary Education and Research;
+  - (ai)[^c-e8720eee425d349a7e52548eedc7840c] the Commission for Tertiary Education and Research;
   - (i) the Welsh Ministers;
   - (ii) local authorities;
   - (iii) institutions in the further education sector;
@@ -223,7 +223,7 @@ Section 2 does not require the assessment of learner travel needs and sections 3
 - (f) require any person to give any information or other assistance that is reasonably required by any other person in connection with the performance of the other person's functions under the regulations;
 - (g) make provision about the standards of behaviour required of learners while travelling to and from the places where they receive education or training.
 
-### 8. Travel arrangements to and from nursery education[^key-a07f5242b0c31f6b4aaa82467df2666c]
+### 8. Travel arrangements to and from nursery education[^c-a07f5242b0c31f6b4aaa82467df2666c]
 
 (1) Regulations may make provision about travel arrangements for children under compulsory school age to and from the places where they receive nursery education.
 
@@ -237,7 +237,7 @@ Section 2 does not require the assessment of learner travel needs and sections 3
 - (f) make provision about charges;
 - (g) require any person to give any information or other assistance that is reasonably required by the local authority in connection with the performance of the authority's functions under the regulations.
 
-### 9. Learner travel arrangements not to favour certain types of education or training[^key-aa781eb6f119d1d39be4c69f4471374d]
+### 9. Learner travel arrangements not to favour certain types of education or training[^c-aa781eb6f119d1d39be4c69f4471374d]
 
 (1) This section applies if arrangements under section 3, 4, or 6 are made in respect of learners of a description set out in an entry in column 1 of the following table.
 
@@ -257,13 +257,13 @@ Section 2 does not require the assessment of learner travel needs and sections 3
 
 ## Promoting access to Welsh medium education
 
-### 10. Promoting access to education and training through the medium of the Welsh language[^key-81a4f302ba52e3e81e68f84fd040cb55]
+### 10. Promoting access to education and training through the medium of the Welsh language[^c-81a4f302ba52e3e81e68f84fd040cb55]
 
 Each local authority and the Welsh Ministers must promote access to education and training through the medium of the Welsh language when exercising functions under this Measure.
 
 ## Sustainable modes of travel
 
-### 11. Sustainable modes of travel[^key-08cb0f9bcef229b0ea89f33026d0b1bc]
+### 11. Sustainable modes of travel[^c-08cb0f9bcef229b0ea89f33026d0b1bc]
 
 (1) Each local authority and the Welsh Ministers must promote the use of sustainable modes of travel when exercising functions under this Measure.
 
@@ -276,7 +276,7 @@ Each local authority and the Welsh Ministers must promote access to education an
 
 ## Travel behaviour code
 
-### 12. Travel behaviour code[^key-7d8ad9ce94b2f5f916ddc38f7042cce9][^key-afa79424c85739c175d472ecea712518]
+### 12. Travel behaviour code[^c-7d8ad9ce94b2f5f916ddc38f7042cce9][^c-afa79424c85739c175d472ecea712518]
 
 (1) The Welsh Ministers must make a travel behaviour code.
 
@@ -294,7 +294,7 @@ Each local authority and the Welsh Ministers must promote access to education an
 
 (6) Before making or revising a code the Welsh Ministers must consult such persons as they consider appropriate.
 
-### 13. Enforcement of travel behaviour code: pupils at relevant schools[^key-d1135de69d157e5408d743cb5f09fe22]
+### 13. Enforcement of travel behaviour code: pupils at relevant schools[^c-d1135de69d157e5408d743cb5f09fe22]
 
 (1) Section 89 of the Education and Inspections Act 2006 is amended as follows.
 
@@ -323,7 +323,7 @@ Each local authority and the Welsh Ministers must promote access to education an
 
 > (5A) The measures which the head teacher of a relevant school in Wales determines under subsection (1) may, to such extent as is reasonable and not required by subsection (2A)(c), include measures to be taken with a view to regulating the conduct of pupils at a time when they are not on the premises of the school and are not under the lawful control or charge of a member of the staff of the school.
 
-### 14. Enforcement of travel behaviour code: withdrawal of travel arrangements[^key-2ae8fdcad3fc6b7fadeebefe534f84d4]
+### 14. Enforcement of travel behaviour code: withdrawal of travel arrangements[^c-2ae8fdcad3fc6b7fadeebefe534f84d4]
 
 (1) This section applies to learners for whom travel arrangements are made under section 3 or 4.
 
@@ -359,7 +359,7 @@ Each local authority and the Welsh Ministers must promote access to education an
 - (a) whether the period of withdrawal is proportionate in the circumstances of the case,
 - (b) any special circumstances relevant to the withdrawal of travel arrangements which are known to the local authority (or of which the authority ought to be aware) including in particular—
   - (i) the learner's age,
-  - (ii) any learning difficulty[^key-a2b272d75affdc01c82210828fa83ee9] the learner may have,
+  - (ii) any learning difficulty[^c-a2b272d75affdc01c82210828fa83ee9] the learner may have,
   - (iii) any disability the learner may have,
   - (iv) whether the learner would lose an opportunity to take a public examination, and
   - (v) whether suitable alternative travel arrangements can reasonably be made by the learner's parent.
@@ -391,9 +391,9 @@ Each local authority and the Welsh Ministers must promote access to education an
 - (f) provide for the payment of allowances to members of appeals panels;
 - (g) require the provision of information about appeals.
 
-## Safety on learner transport[^key-e5b4a5e6a303231c39ba429c525ac0cd]
+## Safety on learner transport[^c-e5b4a5e6a303231c39ba429c525ac0cd]
 
-### 14A. Requirement for seat belts on buses used for learner transport[^key-e83d2c6a241433e6370fd6e536f9f338]
+### 14A. Requirement for seat belts on buses used for learner transport[^c-e83d2c6a241433e6370fd6e536f9f338]
 
 (1) A relevant body must ensure that every bus used for the learner transport it provides or otherwise secures is one that has a seat belt fitted to every passenger seat.
 
@@ -403,7 +403,7 @@ Each local authority and the Welsh Ministers must promote access to education an
 
 (4) It is a defence to show that the failure to comply with subsection (1) or (2) was justified by exceptional circumstances.
 
-(5) Nothing in this section is to be interpreted as setting technical standards for a vehicle's construction or equipment which differ from the standards that would or might otherwise apply to that vehicle by virtue of any enactment or requirement of[^key-a26d00bc15e50846f4360ca64d75bce9] assimilated direct[^key-3cc1c84374d9a9457da00bdf0059835e] legislation.
+(5) Nothing in this section is to be interpreted as setting technical standards for a vehicle's construction or equipment which differ from the standards that would or might otherwise apply to that vehicle by virtue of any enactment or requirement of[^c-a26d00bc15e50846f4360ca64d75bce9] assimilated direct[^c-3cc1c84374d9a9457da00bdf0059835e] legislation.
 
 (6) In this section—
 
@@ -424,7 +424,7 @@ Each local authority and the Welsh Ministers must promote access to education an
 
 (2) Regulations under paragraphs (a) and (b) of subsection (1) may describe vehicles by reference to a vehicle's construction, equipment or other characteristics.
 
-### 14C. Recording visual images or sound on learner transport[^key-18dd140249a742e1c2a86712aa49f2c6]
+### 14C. Recording visual images or sound on learner transport[^c-18dd140249a742e1c2a86712aa49f2c6]
 
 (1) Regulations may—
 
@@ -439,7 +439,7 @@ Each local authority and the Welsh Ministers must promote access to education an
 
 (3) Regulations under subsection (1) may not authorise or require recording to be carried out in a manner that is calculated to ensure that persons who are subject to it are unaware that it is or may be taking place.
 
-### 14D. Safety risk assessment of learner transport[^key-f530b36b68ac44a417879cb39952bd35]
+### 14D. Safety risk assessment of learner transport[^c-f530b36b68ac44a417879cb39952bd35]
 
 (1) Regulations may require a relevant body to carry out safety risk assessments of the learner transport it provides or otherwise secures.
 
@@ -450,7 +450,7 @@ Each local authority and the Welsh Ministers must promote access to education an
 - (c) prescribe the form and manner of publication;
 - (d) prescribe the frequency of assessments.
 
-### 14E. Driver training[^key-c5498607a8dddf1ea7df83321af471cb]
+### 14E. Driver training[^c-c5498607a8dddf1ea7df83321af471cb]
 
 (1) Regulations may require a relevant body that provides or otherwise secures the provision of learner transport to ensure that drivers of vehicles used for such transport have completed prescribed training to a prescribed standard.
 
@@ -458,7 +458,7 @@ Each local authority and the Welsh Ministers must promote access to education an
 
 (3) In this section “ **training** ” means training about safety on learner transport and working with children.
 
-### 14F. Supervisors on learner transport[^key-2130ce5c3390bf3628dced35de20c296]
+### 14F. Supervisors on learner transport[^c-2130ce5c3390bf3628dced35de20c296]
 
 (1) Regulations may make provision for the supervision of learners using learner transport provided or otherwise secured by a relevant body.
 
@@ -467,11 +467,11 @@ Each local authority and the Welsh Ministers must promote access to education an
 - (a) confer powers or impose duties on a relevant body;
 - (b) make provision about training for persons supervising learners.
 
-### 14G. Civil sanctions[^key-22047727e364dda67feeba632af58f2f]
+### 14G. Civil sanctions[^c-22047727e364dda67feeba632af58f2f]
 
 Schedule A1 has effect.
 
-### 14H. Enforcement authority[^key-0152d4468b8230df4da3b3214dd4cbff]
+### 14H. Enforcement authority[^c-0152d4468b8230df4da3b3214dd4cbff]
 
 (1) Regulations may appoint a person or body (including the Welsh Ministers) to be an enforcement authority.
 
@@ -491,7 +491,7 @@ Schedule A1 has effect.
 - (b) an enactment comprised in a Measure or Act of the National Assembly for Wales, and
 - (c) provision contained in subordinate legislation within the meaning of the Interpretation Act 1978 (including subordinate legislation made under a Measure or Act of the National Assembly for Wales).
 
-### 14I. Power of entry[^key-e23dfc9fdd9fd6b427799c834d4f322e]
+### 14I. Power of entry[^c-e23dfc9fdd9fd6b427799c834d4f322e]
 
 (1) This section applies to—
 
@@ -512,7 +512,7 @@ Schedule A1 has effect.
 
 (5) An inspector exercising any power conferred under subsection (3) or section 14J must, if so required, produce some duly authenticated document showing the inspector's authority to do so.
 
-### 14J. Power of inspection[^key-0ec8cfb59c015bfa5d00c85ddfe806f3]
+### 14J. Power of inspection[^c-0ec8cfb59c015bfa5d00c85ddfe806f3]
 
 (1) An inspector who detains a vehicle or enters a vehicle or premises under section 14I may—
 
@@ -549,7 +549,7 @@ Schedule A1 has effect.
 
 is guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-### 14K. Power to require provision of information[^key-bda43e6359d5ee7bc25602af46479cef]
+### 14K. Power to require provision of information[^c-bda43e6359d5ee7bc25602af46479cef]
 
 (1) An enforcement authority may at any time require any person specified in subsection (2) to provide it with any information, documents, records or other items—
 
@@ -567,17 +567,17 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 (5) Any person who without reasonable excuse fails to comply with any requirement imposed by virtue of this section is guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-### 14L. Offences: liability of officers and partners[^key-298adab193309ba6f857c7270c318645]
+### 14L. Offences: liability of officers and partners[^c-298adab193309ba6f857c7270c318645]
 
 (1) Where an offence under section 14A, 14B or 14C committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, an officer of the body corporate, regulations may provide for the officer to be liable as well as the body corporate itself.
 
 (2) Where an offence under section 14A, 14B or 14C committed by a partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner of the partnership, regulations may provide for the partner to be liable as well as the partnership itself.
 
-### 14M. Regulations: consultation[^key-ffd8c6fc3bc306fe17dbc4ff282dbb9e]
+### 14M. Regulations: consultation[^c-ffd8c6fc3bc306fe17dbc4ff282dbb9e]
 
 The Welsh Ministers must consult each local authority and such other persons as they consider appropriate before making any regulations under sections 14B to 14F, section 14H or 14L or Schedule A1.
 
-### 14N. Interpretation of sections 14A to 14K[^key-fad6dcdb32c9831053795ab098a9a7b7]
+### 14N. Interpretation of sections 14A to 14K[^c-fad6dcdb32c9831053795ab098a9a7b7]
 
 (1) This section applies for the purposes of sections 14A to 14K.
 
@@ -599,7 +599,7 @@ The Welsh Ministers must consult each local authority and such other persons as 
 
 ## Supplementary
 
-### 15. Guidance and directions[^key-f32425eaed468592302c92f90d5c2c42]
+### 15. Guidance and directions[^c-f32425eaed468592302c92f90d5c2c42]
 
 (1) In exercising their functions under this Measure, the following bodies must have regard to guidance given from time to time by the Welsh Ministers —
 
@@ -613,7 +613,7 @@ The Welsh Ministers must consult each local authority and such other persons as 
 
 (4) Directions under this section may be given to one or more local authorities or local authorities generally.
 
-### 16. Information about travel arrangements[^key-6c98dfc8a0ea074a884391574753a968]
+### 16. Information about travel arrangements[^c-6c98dfc8a0ea074a884391574753a968]
 
 Regulations may require a local authority to publish, at such times and in such manner as may be prescribed, information—
 
@@ -624,15 +624,15 @@ Regulations may require a local authority to publish, at such times and in such 
 
 ### 17. Co-operation: information or other assistance
 
-(1)[^key-f53c5c7d0b288bc828e8cdd981c03804] The governing body of a maintained school or an institution in the further education sector in Wales must give a local authority any information or other assistance that is reasonably required by them for the performance of their functions under this Measure.
+(1)[^c-f53c5c7d0b288bc828e8cdd981c03804] The governing body of a maintained school or an institution in the further education sector in Wales must give a local authority any information or other assistance that is reasonably required by them for the performance of their functions under this Measure.
 
-(2)[^key-f53c5c7d0b288bc828e8cdd981c03804] A local authority must give another local authority any information or other assistance that is reasonably required by the other authority for the performance of their functions under sections 2, 3, 4 and 6.
+(2)[^c-f53c5c7d0b288bc828e8cdd981c03804] A local authority must give another local authority any information or other assistance that is reasonably required by the other authority for the performance of their functions under sections 2, 3, 4 and 6.
 
-(3)[^key-c277d0bdbdf1706730f8f65e357fbbab] A local authority must give the head teacher of a relevant school any information or other assistance that is reasonably required by the head teacher about the behaviour of a registered pupil of his or her school while the pupil was taking advantage of travel arrangements made by the local authority under this Measure.
+(3)[^c-c277d0bdbdf1706730f8f65e357fbbab] A local authority must give the head teacher of a relevant school any information or other assistance that is reasonably required by the head teacher about the behaviour of a registered pupil of his or her school while the pupil was taking advantage of travel arrangements made by the local authority under this Measure.
 
-(4)[^key-ecce0272773b0a6acb4575233796f3e5] A head teacher of a relevant school must give a local authority any information or other assistance that is reasonably required by the local authority for the performance of their functions under section 14.
+(4)[^c-ecce0272773b0a6acb4575233796f3e5] A head teacher of a relevant school must give a local authority any information or other assistance that is reasonably required by the local authority for the performance of their functions under section 14.
 
-### 18. Payment of travel costs by a local authority which looks after a child[^key-071b51629446214701d4a7122b1514d0]
+### 18. Payment of travel costs by a local authority which looks after a child[^c-071b51629446214701d4a7122b1514d0]
 
 (1) This section applies where a local authority (“authority A”) makes travel arrangements under sections 3 or 4 for a child who is looked after by a local authority responsible for a different area (“authority B”).
 
@@ -640,7 +640,7 @@ Regulations may require a local authority to publish, at such times and in such 
 
 (3) Authority B must comply with the demand.
 
-### 19. Determination of ordinary residence in particular circumstances[^key-1efd97da7a47be1b1ec812c55978829b]
+### 19. Determination of ordinary residence in particular circumstances[^c-1efd97da7a47be1b1ec812c55978829b]
 
 (1) If a person has no ordinary residence, that person is to be treated for the purposes of this Measure as being ordinarily resident at the place at which he or she is for the time being resident.
 
@@ -668,14 +668,14 @@ Regulations may require a local authority to publish, at such times and in such 
 
 (7) In this section—
 
-- (a)[^key-318731f178dae2cfce5a50dd1ebc9c37] “children’s home” means premises at which—
+- (a)[^c-318731f178dae2cfce5a50dd1ebc9c37] “children’s home” means premises at which—
   - (i) a care home service is provided wholly or mainly to children or young persons; or
   - (ii) a secure accommodation service is provided;
 
   and in this paragraph “care home service” and “secure accommodation service” have the meaning given in Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2);
 - (b) “**parent**” means a parent within the meaning of section 576(1) of the Education Act 1996 who is an individual.
 
-### 20. Amendments to section 444 of the Education Act 1996[^key-a80e81f2f858d580fe002a39982650e7]
+### 20. Amendments to section 444 of the Education Act 1996[^c-a80e81f2f858d580fe002a39982650e7]
 
 (1) Section 444 of the Education Act 1996 (school attendance) is amended as follows.
 
@@ -688,7 +688,7 @@ Regulations may require a local authority to publish, at such times and in such 
 
 (3) In subsection (5) for “subsections (3D) and (4)” substitute “ subsection (3D) ”.
 
-### 21. Amendments to the Education Act 2002[^key-8e03d040d40208a0fb4a39e66029637b]
+### 21. Amendments to the Education Act 2002[^c-8e03d040d40208a0fb4a39e66029637b]
 
 (1) The Education Act 2002 is amended as follows.
 
@@ -740,7 +740,7 @@ Regulations may require a local authority to publish, at such times and in such 
   - (i) for “the National Assembly for Wales” substitute “ the Welsh Ministers ”,
   - (ii) for “the Assembly thinks” in paragraph (c) substitute “ the Welsh Ministers think ”.
 
-### 22. Amendments to sections 455 and 456 of the Education Act 1996[^key-e3ad36c7da24679d971e1bc4dc757044]
+### 22. Amendments to sections 455 and 456 of the Education Act 1996[^c-e3ad36c7da24679d971e1bc4dc757044]
 
 (1) The Education Act 1996 is amended as follows.
 
@@ -762,7 +762,7 @@ Regulations may require a local authority to publish, at such times and in such 
 
 (3) In section 456 (regulation of permitted charges), in subsection (3) after “A regulated charge” insert “ , except any charge permitted by virtue of section 455(1)(ba), ”.
 
-### 23. Amendments to the Education and Inspections Act 2006[^key-2bf6938e17a2a26c676da49c3b75041c]
+### 23. Amendments to the Education and Inspections Act 2006[^c-2bf6938e17a2a26c676da49c3b75041c]
 
 (1) The Education and Inspections Act 2006 is amended as follows.
 
@@ -794,7 +794,7 @@ Regulations may require a local authority to publish, at such times and in such 
 
 ## General
 
-### 24. General interpretation[^key-37bfe08d7e5ac05da58123a78cb7c180]
+### 24. General interpretation[^c-37bfe08d7e5ac05da58123a78cb7c180]
 
 (1) In this Measure—
 
@@ -806,7 +806,7 @@ Regulations may require a local authority to publish, at such times and in such 
   - (b) a disability which either prevents or hinders that person from using facilities of a kind provided at relevant places,
 
   but a person is not to be taken as having a learning difficulty solely because the language (or form of the language) in which the person is taught or will be taught is different from a language (or form of a language) which has at any time been spoken in the person's home;
-- “**local authority**” (“**awdurdod lleol**”) means a local authority[^key-0d4304c948668ec068e8d10e60c0bedc] in Wales; but in any reference to a child looked after by a local authority it means a council of a county or county borough in Wales exercising social services functions within the meaning of the Social Services and Well-being (Wales) Act 2014.[^key-dff28ac9a3f01a2f9e7c0ab283fba11b]
+- “**local authority**” (“**awdurdod lleol**”) means a local authority[^c-0d4304c948668ec068e8d10e60c0bedc] in Wales; but in any reference to a child looked after by a local authority it means a council of a county or county borough in Wales exercising social services functions within the meaning of the Social Services and Well-being (Wales) Act 2014.[^c-dff28ac9a3f01a2f9e7c0ab283fba11b]
 - “**maintained school**” (“**ysgol a gynhelir**”) means a community, foundation or voluntary school, a community or foundation special school or a maintained nursery school;
 - “**non-maintained special school**” (“**ysgol arbennig nas cynhelir**”) means a school approved under section 342 of the Education Act 1996;
 - “**nursery education**” (“**addysg feithrin**”) means education suitable for children who have not attained compulsory school age;
@@ -818,17 +818,17 @@ Regulations may require a local authority to publish, at such times and in such 
 
   by, or on behalf of, the governing body of the relevant educational institution.
 
-(2) References in this Measure to a child who is looked after by a local authority have the same meaning as they have in section 74 of the Social Services and Well-being (Wales) Act 2014[^key-8803284ed19973ac236a7accc651fc45].
+(2) References in this Measure to a child who is looked after by a local authority have the same meaning as they have in section 74 of the Social Services and Well-being (Wales) Act 2014[^c-8803284ed19973ac236a7accc651fc45].
 
 (3) Subject to subsection (4), the Education Act 1996 and the provisions of this Measure are to be read as if those provisions were contained in the Education Act 1996.
 
 (4) Where an expression is given for the purposes of any provision of this Measure a meaning different from that given to it for the purposes of the Education Act 1996, the meaning given for the purposes of that provision is to apply instead of the one given for the purposes of that Act.
 
-### 25. Minor and consequential amendments[^key-dc7e178187f80aacad429e10401655e1][^key-6bb2245521fa21463d8fe7357230477a]
+### 25. Minor and consequential amendments[^c-dc7e178187f80aacad429e10401655e1][^c-6bb2245521fa21463d8fe7357230477a]
 
 Schedule 1 contains minor and consequential amendments relating to the provisions made by this Measure.
 
-### 26. Repeals[^key-b263d87444754f2dff5fe8e8833d54d2][^key-34e460d800c52313bd26a5d1136aebc4][^key-a284bff25131283c194fd190751e9c49][^key-7f0ae24e3a3b79b5d557411e6802256d]
+### 26. Repeals[^c-b263d87444754f2dff5fe8e8833d54d2][^c-34e460d800c52313bd26a5d1136aebc4][^c-a284bff25131283c194fd190751e9c49][^c-7f0ae24e3a3b79b5d557411e6802256d]
 
 The enactments specified in Schedule 2 are repealed to the extent specified.
 
@@ -838,12 +838,12 @@ The enactments specified in Schedule 2 are repealed to the extent specified.
 
 (2) Any power of the Welsh Ministers to make an order or regulations under this Measure includes power—
 
-- (a) to make different provision for different cases or classes of case or different purposes or[^key-85b09fc238fe9376c1c57df0b8b88db7] areas;
-- (aa)[^key-0ad8ff664cee4865a57da3ffc16d07cb] make provision subject to specified exemptions or exceptions;
-- (b) to make provision generally or in relation to specific cases or classes of case[^key-34ec2d50e321ac4edaeece8bccb2d7a8] ;
+- (a) to make different provision for different cases or classes of case or different purposes or[^c-85b09fc238fe9376c1c57df0b8b88db7] areas;
+- (aa)[^c-0ad8ff664cee4865a57da3ffc16d07cb] make provision subject to specified exemptions or exceptions;
+- (b) to make provision generally or in relation to specific cases or classes of case[^c-34ec2d50e321ac4edaeece8bccb2d7a8] ;
 - (c) to make such incidental, supplementary, transitional or saving provision as the Welsh Ministers think fit.
 
-(3) The power of the Welsh Ministers to make regulations under section 3(9), 7 [^key-ad2a30c3e77850c249a6ad527dc1dd1a]..., 8, 14B, 14C, 14D, 14E, 14F, 14H or 14L or Schedule A1[^key-1a190f378045d7f1121652a510e726c8] also includes power to make such consequential provision as the Welsh Ministers think fit.
+(3) The power of the Welsh Ministers to make regulations under section 3(9), 7 [^c-ad2a30c3e77850c249a6ad527dc1dd1a]..., 8, 14B, 14C, 14D, 14E, 14F, 14H or 14L or Schedule A1[^c-1a190f378045d7f1121652a510e726c8] also includes power to make such consequential provision as the Welsh Ministers think fit.
 
 t
 
@@ -853,7 +853,7 @@ t
 - (b) an Act passed before the passing of this Measure;
 - (c) subordinate legislation made before the passing of this Measure.
 
-(4A)[^key-3c50699c7ed4e036ad0e670dc55f1acb] In the application of subsection (4) to regulations made under sections 14B to 14F, section 14H or 14L or Schedule A1 the reference to “this Measure” in subsection (4) is to be interpreted as a reference to the Safety on Learner Transport (Wales) Measure 2011.
+(4A)[^c-3c50699c7ed4e036ad0e670dc55f1acb] In the application of subsection (4) to regulations made under sections 14B to 14F, section 14H or 14L or Schedule A1 the reference to “this Measure” in subsection (4) is to be interpreted as a reference to the Safety on Learner Transport (Wales) Measure 2011.
 
 (5) Any statutory instrument containing regulations made under this Measure is subject to annulment in pursuance of a resolution of the National Assembly for Wales.
 
@@ -864,8 +864,8 @@ t
 - (a) regulations under section 3(9),
 - (b) regulations under section 7,
 - (c) regulations under section 8,
-- (d) regulations under section 14(14)(a), [^key-104ba49ecdfd8e8597a7fad3104edd3a]...
-- (da)[^key-db3e2228b5530aaa2e8b1e72158f24ea] regulations under section 14B, 14C, 14D, 14E, 14F, 14H or 14L or Schedule A1, or
+- (d) regulations under section 14(14)(a), [^c-104ba49ecdfd8e8597a7fad3104edd3a]...
+- (da)[^c-db3e2228b5530aaa2e8b1e72158f24ea] regulations under section 14B, 14C, 14D, 14E, 14F, 14H or 14L or Schedule A1, or
 - (db) an order under section 14N(6).
 - (e) regulations under subsection (4) which amend or repeal any provision of an Act or Assembly Measure,
 
@@ -887,7 +887,7 @@ may not be made unless a draft of the instrument has been laid before, and appro
 
 (2) This Measure is to be included in the list of Education Acts set out in section 578 of the Education Act 1996.
 
-## SCHEDULE A1 — CIVIL SANCTIONS[^key-c59b069e32d3cf23cae7368801f305fd]
+## SCHEDULE A1 — CIVIL SANCTIONS[^c-c59b069e32d3cf23cae7368801f305fd]
 
 *(introduced by section 14G)*
 
@@ -1119,10 +1119,10 @@ may not be made unless a draft of the instrument has been laid before, and appro
 
 **10.** (1) Provision under paragraph 7 conferring power on an enforcement authority to serve a stop notice must provide that, where a person on whom a notice is served does not comply with it, the person is guilty of an offence and liable—
 
-- (a) on summary conviction, to a fine not exceeding level 5 on the standard scale, or imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-7315dddb0d0223f04b971b5440beedcd], or both, or
+- (a) on summary conviction, to a fine not exceeding level 5 on the standard scale, or imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-7315dddb0d0223f04b971b5440beedcd], or both, or
 - (b) on conviction on indictment, to imprisonment for a term not exceeding two years, or a fine, or both.
 
-(2) In the application of this section in relation to an offence committed before 2 May 2022[^key-ea81f6f077fe994b6891eb53da0d27e9], the reference in sub-paragraph (1)(a) to the general limit in a magistrates’ court[^key-3e73714ecebd20ed6911795df08b75f2] is to be read as a reference to six months.
+(2) In the application of this section in relation to an offence committed before 2 May 2022[^c-ea81f6f077fe994b6891eb53da0d27e9], the reference in sub-paragraph (1)(a) to the general limit in a magistrates’ court[^c-3e73714ecebd20ed6911795df08b75f2] is to be read as a reference to six months.
 
 ### Enforcement undertakings
 
@@ -1363,7 +1363,7 @@ the enforcement authority must pay it into the Welsh Consolidated Fund.
 
 ### Public Passenger Vehicles Act 1981 (c. 14)
 
-**1.**[^key-93acdac9e134344ab3389c75c7243f0b] In section 46 of the Public Passenger Vehicles Act 1981 (fare-paying passengers on school buses), in subsection (3), in the definition of “free school transport”—
+**1.**[^c-93acdac9e134344ab3389c75c7243f0b] In section 46 of the Public Passenger Vehicles Act 1981 (fare-paying passengers on school buses), in subsection (3), in the definition of “free school transport”—
 
 - (a) in paragraph (a) omit “section 509(1) or (1A)”;
 - (b) omit “or” at the end of paragraph (aa);
@@ -1375,22 +1375,22 @@ the enforcement authority must pay it into the Welsh Consolidated Fund.
 
 ### Transport Act 1985 (c. 67)
 
-**2.** (1)[^key-a3129f2c767fb78a1c6ff41dc1ab68b8] Section 6 of the Transport Act 1985 (registration of local services) is amended as follows.
+**2.** (1)[^c-a3129f2c767fb78a1c6ff41dc1ab68b8] Section 6 of the Transport Act 1985 (registration of local services) is amended as follows.
 
 (2) In subsection (1B)—
 
-- (a)[^key-a3129f2c767fb78a1c6ff41dc1ab68b8] omit “section 509(1) or (1A),” in paragraph (a);
-- (b)[^key-a3129f2c767fb78a1c6ff41dc1ab68b8] omit “or” at the end of paragraph (b);
-- (c)[^key-cf39bb411fb9fde6e4ad82bf042ac7fd][^key-f808db8a18d58b88795524bbac6fc568] after paragraph (c) insert—
+- (a)[^c-a3129f2c767fb78a1c6ff41dc1ab68b8] omit “section 509(1) or (1A),” in paragraph (a);
+- (b)[^c-a3129f2c767fb78a1c6ff41dc1ab68b8] omit “or” at the end of paragraph (b);
+- (c)[^c-cf39bb411fb9fde6e4ad82bf042ac7fd][^c-f808db8a18d58b88795524bbac6fc568] after paragraph (c) insert—
 
   > - (d) the obligation placed on a local authority by sections 3 or 4 of the Learner Travel (Wales) Measure 2008; or
   > - (e) the exercise of the power of a local authority under section 6 of that Measure.
 
-(3)[^key-cf39bb411fb9fde6e4ad82bf042ac7fd][^key-f808db8a18d58b88795524bbac6fc568] In subsection (1C)(a), for “or (c)” substitute “ , (c), (d) or (e) ”.
+(3)[^c-cf39bb411fb9fde6e4ad82bf042ac7fd][^c-f808db8a18d58b88795524bbac6fc568] In subsection (1C)(a), for “or (c)” substitute “ , (c), (d) or (e) ”.
 
 ### Further and Higher Education Act 1992 (c. 13)
 
-**3.**[^key-daf8d411773564651f668a9e875fe205] (1) Section 57 of the Further and Higher Education Act 1992 is amended as follows.
+**3.**[^c-daf8d411773564651f668a9e875fe205] (1) Section 57 of the Further and Higher Education Act 1992 is amended as follows.
 
 (2) In subsection (2)(b) after “any Act” insert “ or any Measure of the National Assembly for Wales ”.
 
@@ -1398,9 +1398,9 @@ the enforcement authority must pay it into the Welsh Consolidated Fund.
 
 ### Education Act 1996 (c. 56)
 
-**4.** (1)[^key-35db1d034ddaa72f7cf0e36a7ce4f821] The Education Act 1996 is amended as follows.
+**4.** (1)[^c-35db1d034ddaa72f7cf0e36a7ce4f821] The Education Act 1996 is amended as follows.
 
-(2)[^key-35db1d034ddaa72f7cf0e36a7ce4f821] In section 509AA (provision of transport for persons of sixth form age)—
+(2)[^c-35db1d034ddaa72f7cf0e36a7ce4f821] In section 509AA (provision of transport for persons of sixth form age)—
 
 - (a) in subsection (1) after “authority” insert “ in England ”;
 - (b) in subsection (2)(d) omit “or the National Assembly for Wales”;
@@ -1408,7 +1408,7 @@ the enforcement authority must pay it into the Welsh Consolidated Fund.
 - (d) omit subsection (9A);
 - (e) in subsection (10) omit the words “(in relation to local education authorities in England) or the National Assembly for Wales (in relation to local education authorities in Wales)”.
 
-(3)[^key-35db1d034ddaa72f7cf0e36a7ce4f821] In section 509AB (further provision about transport policy statements)—
+(3)[^c-35db1d034ddaa72f7cf0e36a7ce4f821] In section 509AB (further provision about transport policy statements)—
 
 - (a) omit subsection (4);
 - (b) in subsection (5), for the words from “under this section” to the end substitute “ under this section by the Learning and Skills Council for England. ”;
@@ -1416,13 +1416,13 @@ the enforcement authority must pay it into the Welsh Consolidated Fund.
   - (i) in paragraph (c) omit “(in the case of a local education authority in England)”;
   - (ii) in paragraph (d) omit the words after “England” the first time that word appears to the end of that paragraph.
 
-(4)[^key-35db1d034ddaa72f7cf0e36a7ce4f821] In section 509AC (interpretation of sections 509AA and 509AB)—
+(4)[^c-35db1d034ddaa72f7cf0e36a7ce4f821] In section 509AC (interpretation of sections 509AA and 509AB)—
 
 - (a) omit subsection (3);
 - (b) in subsection (6) omit the words after “subsection (5)” to the end of that subsection;
 - (c) omit subsection (7).
 
-(5)[^key-cec574087c7dbcd71a513329a85a9052] In section 509A (travel arrangements for children receiving early years education otherwise than at school)—
+(5)[^c-cec574087c7dbcd71a513329a85a9052] In section 509A (travel arrangements for children receiving early years education otherwise than at school)—
 
 - (a) in subsection (1), after “authority” insert “ in England ”;
 - (b) in subsection (4A), after “Regulations” insert “ made by the Secretary of State ”;
@@ -1430,9 +1430,9 @@ the enforcement authority must pay it into the Welsh Consolidated Fund.
 
 ### Childcare Act 2006 (c. 21)
 
-**5.**[^key-639034346dd5547145c6c8f88f9ac5a8] In section 110(5)(a) of the Childcare Act 2006, for “20 to 24” substitute “ 20 to 22, 24 ”.
+**5.**[^c-639034346dd5547145c6c8f88f9ac5a8] In section 110(5)(a) of the Childcare Act 2006, for “20 to 24” substitute “ 20 to 22, 24 ”.
 
-## SCHEDULE 2 — REPEALS[^key-06349a5faf49f3a4c0107b848ac66894][^key-56bca4639b1aeae855fd121d0ab90209][^key-1a853828cf03e9e685a912396075d08c][^key-f9b90f65e1443217feb10e0359630c62]
+## SCHEDULE 2 — REPEALS[^c-06349a5faf49f3a4c0107b848ac66894][^c-56bca4639b1aeae855fd121d0ab90209][^c-1a853828cf03e9e685a912396075d08c][^c-f9b90f65e1443217feb10e0359630c62]
 
 *(introduced by section 26)*
 
@@ -1448,184 +1448,184 @@ the enforcement authority must pay it into the Welsh Consolidated Fund.
 
 ## Annotations
 
-[^key-88a9cfc528e443c733b9d687b410f782]: Commencement: S. 1(1)-(3)(4)(a)-(i) in force at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)
+[^c-88a9cfc528e443c733b9d687b410f782]: Commencement: S. 1(1)-(3)(4)(a)-(i) in force at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)
 
-[^key-2bef5f989426dafd72b87662daf6ade6]: Textual amendment: Words in [s. 1(4)(c)](https://www.legislation.gov.uk/mwa/2008/2/section/1/4/c) substituted (1.9.2021 for specified purposes, 1.1.2022 for specified purposes, 1.9.2022 for specified purposes, 1.9.2025 for specified purposes) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 14(2)(a)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/14/2/a); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [arts. 3](https://www.legislation.gov.uk/wsi/2021/373/article/3), [4](https://www.legislation.gov.uk/wsi/2021/373/article/4), [6](https://www.legislation.gov.uk/wsi/2021/373/article/6), [7](https://www.legislation.gov.uk/wsi/2021/373/article/7) (as amended by [S.I. 2021/938](https://www.legislation.gov.uk/uksi/2021/938), [art. 2](https://www.legislation.gov.uk/uksi/2021/938/article/2)); [S.I. 2021/1243](https://www.legislation.gov.uk/wsi/2021/1243), [art. 3](https://www.legislation.gov.uk/wsi/2021/1243/article/3) (with [arts. 4-23](https://www.legislation.gov.uk/wsi/2021/1243/article/4)) (as amended by [S.I. 2021/1428](https://www.legislation.gov.uk/uksi/2021/1428), [art. 2](https://www.legislation.gov.uk/uksi/2021/1428/article/2)); [S.I. 2021/1244](https://www.legislation.gov.uk/wsi/2021/1244), [art. 3](https://www.legislation.gov.uk/wsi/2021/1244/article/3) (with [arts. 4-21](https://www.legislation.gov.uk/wsi/2021/1244/article/4)) (as amended by [S.I. 2021/1428](https://www.legislation.gov.uk/uksi/2021/1428), [art. 3](https://www.legislation.gov.uk/uksi/2021/1428/article/3)); [S.I. 2021/1245](https://www.legislation.gov.uk/wsi/2021/1245), [arts. 3](https://www.legislation.gov.uk/wsi/2021/1245/article/3), [4](https://www.legislation.gov.uk/wsi/2021/1245/article/4) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2021/1245/article/1/4)); [S.I. 2022/891](https://www.legislation.gov.uk/wsi/2022/891), [art. 3](https://www.legislation.gov.uk/wsi/2022/891/article/3) (with [arts. 4-25](https://www.legislation.gov.uk/wsi/2022/891/article/4)); [S.I. 2022/892](https://www.legislation.gov.uk/wsi/2022/892), [arts. 2](https://www.legislation.gov.uk/wsi/2022/892/article/2), [3](https://www.legislation.gov.uk/wsi/2022/892/article/3) (with [arts. 4-18](https://www.legislation.gov.uk/wsi/2022/892/article/4)); [S.I. 2022/893](https://www.legislation.gov.uk/wsi/2022/893), [arts. 2](https://www.legislation.gov.uk/wsi/2022/893/article/2), [4](https://www.legislation.gov.uk/wsi/2022/893/article/4); [S.I. 2022/894](https://www.legislation.gov.uk/wsi/2022/894), [art. 3](https://www.legislation.gov.uk/wsi/2022/894/article/3); [S.I. 2022/895](https://www.legislation.gov.uk/wsi/2022/895), [arts. 3](https://www.legislation.gov.uk/wsi/2022/895/article/3), [4](https://www.legislation.gov.uk/wsi/2022/895/article/4); [S.I. 2022/896](https://www.legislation.gov.uk/wsi/2022/896), [art. 3](https://www.legislation.gov.uk/wsi/2022/896/article/3) (with [arts. 1(7)](https://www.legislation.gov.uk/wsi/2022/896/article/1/7), [4-22](https://www.legislation.gov.uk/wsi/2022/896/article/4)); [S.I. 2022/897](https://www.legislation.gov.uk/wsi/2022/897), [art. 3](https://www.legislation.gov.uk/wsi/2022/897/article/3) (with [arts. 1(8)](https://www.legislation.gov.uk/wsi/2022/897/article/1/8), [4-21](https://www.legislation.gov.uk/wsi/2022/897/article/4)); [S.I. 2022/898](https://www.legislation.gov.uk/wsi/2022/898), [arts. 2](https://www.legislation.gov.uk/wsi/2022/898/article/2), [3](https://www.legislation.gov.uk/wsi/2022/898/article/3)
+[^c-2bef5f989426dafd72b87662daf6ade6]: Textual amendment: Words in [s. 1(4)(c)](https://www.legislation.gov.uk/mwa/2008/2/section/1/4/c) substituted (1.9.2021 for specified purposes, 1.1.2022 for specified purposes, 1.9.2022 for specified purposes, 1.9.2025 for specified purposes) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 14(2)(a)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/14/2/a); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [arts. 3](https://www.legislation.gov.uk/wsi/2021/373/article/3), [4](https://www.legislation.gov.uk/wsi/2021/373/article/4), [6](https://www.legislation.gov.uk/wsi/2021/373/article/6), [7](https://www.legislation.gov.uk/wsi/2021/373/article/7) (as amended by [S.I. 2021/938](https://www.legislation.gov.uk/uksi/2021/938), [art. 2](https://www.legislation.gov.uk/uksi/2021/938/article/2)); [S.I. 2021/1243](https://www.legislation.gov.uk/wsi/2021/1243), [art. 3](https://www.legislation.gov.uk/wsi/2021/1243/article/3) (with [arts. 4-23](https://www.legislation.gov.uk/wsi/2021/1243/article/4)) (as amended by [S.I. 2021/1428](https://www.legislation.gov.uk/uksi/2021/1428), [art. 2](https://www.legislation.gov.uk/uksi/2021/1428/article/2)); [S.I. 2021/1244](https://www.legislation.gov.uk/wsi/2021/1244), [art. 3](https://www.legislation.gov.uk/wsi/2021/1244/article/3) (with [arts. 4-21](https://www.legislation.gov.uk/wsi/2021/1244/article/4)) (as amended by [S.I. 2021/1428](https://www.legislation.gov.uk/uksi/2021/1428), [art. 3](https://www.legislation.gov.uk/uksi/2021/1428/article/3)); [S.I. 2021/1245](https://www.legislation.gov.uk/wsi/2021/1245), [arts. 3](https://www.legislation.gov.uk/wsi/2021/1245/article/3), [4](https://www.legislation.gov.uk/wsi/2021/1245/article/4) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2021/1245/article/1/4)); [S.I. 2022/891](https://www.legislation.gov.uk/wsi/2022/891), [art. 3](https://www.legislation.gov.uk/wsi/2022/891/article/3) (with [arts. 4-25](https://www.legislation.gov.uk/wsi/2022/891/article/4)); [S.I. 2022/892](https://www.legislation.gov.uk/wsi/2022/892), [arts. 2](https://www.legislation.gov.uk/wsi/2022/892/article/2), [3](https://www.legislation.gov.uk/wsi/2022/892/article/3) (with [arts. 4-18](https://www.legislation.gov.uk/wsi/2022/892/article/4)); [S.I. 2022/893](https://www.legislation.gov.uk/wsi/2022/893), [arts. 2](https://www.legislation.gov.uk/wsi/2022/893/article/2), [4](https://www.legislation.gov.uk/wsi/2022/893/article/4); [S.I. 2022/894](https://www.legislation.gov.uk/wsi/2022/894), [art. 3](https://www.legislation.gov.uk/wsi/2022/894/article/3); [S.I. 2022/895](https://www.legislation.gov.uk/wsi/2022/895), [arts. 3](https://www.legislation.gov.uk/wsi/2022/895/article/3), [4](https://www.legislation.gov.uk/wsi/2022/895/article/4); [S.I. 2022/896](https://www.legislation.gov.uk/wsi/2022/896), [art. 3](https://www.legislation.gov.uk/wsi/2022/896/article/3) (with [arts. 1(7)](https://www.legislation.gov.uk/wsi/2022/896/article/1/7), [4-22](https://www.legislation.gov.uk/wsi/2022/896/article/4)); [S.I. 2022/897](https://www.legislation.gov.uk/wsi/2022/897), [art. 3](https://www.legislation.gov.uk/wsi/2022/897/article/3) (with [arts. 1(8)](https://www.legislation.gov.uk/wsi/2022/897/article/1/8), [4-21](https://www.legislation.gov.uk/wsi/2022/897/article/4)); [S.I. 2022/898](https://www.legislation.gov.uk/wsi/2022/898), [arts. 2](https://www.legislation.gov.uk/wsi/2022/898/article/2), [3](https://www.legislation.gov.uk/wsi/2022/898/article/3)
 
-[^key-f51c186a9619c51a79b98fe4537cb534]: Textual amendment: Word in [s. 1(4)(f)](https://www.legislation.gov.uk/mwa/2008/2/section/1/4/f) substituted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 in so far as not already in force) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 10](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/10)
+[^c-f51c186a9619c51a79b98fe4537cb534]: Textual amendment: Word in [s. 1(4)(f)](https://www.legislation.gov.uk/mwa/2008/2/section/1/4/f) substituted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 in so far as not already in force) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 10](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/10)
 
-[^key-a801577f97d4a5d90e99973a6790f551]: Textual amendment: Words in [s. 1(4)(g)](https://www.legislation.gov.uk/mwa/2008/2/section/1/4/g) substituted (1.4.2026) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 23(2)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/23/2) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(xli)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww) (with [arts. 13](https://www.legislation.gov.uk/wsi/2026/62/article/13), [15(1)](https://www.legislation.gov.uk/wsi/2026/62/article/15/1), [Sch.](https://www.legislation.gov.uk/wsi/2026/62/schedule))
+[^c-a801577f97d4a5d90e99973a6790f551]: Textual amendment: Words in [s. 1(4)(g)](https://www.legislation.gov.uk/mwa/2008/2/section/1/4/g) substituted (1.4.2026) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 23(2)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/23/2) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(xli)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww) (with [arts. 13](https://www.legislation.gov.uk/wsi/2026/62/article/13), [15(1)](https://www.legislation.gov.uk/wsi/2026/62/article/15/1), [Sch.](https://www.legislation.gov.uk/wsi/2026/62/schedule))
 
-[^key-652f2c20dc8b0778861a96e8ebc4bf34]: Textual amendment: Words in [s. 1(4)(g)](https://www.legislation.gov.uk/mwa/2008/2/section/1/4/g) inserted (1.4.2026) by [The Tertiary Education and Research (Wales) Act 2022 (Consequential Amendments and Transitory Provision) Regulations 2026 (W.S.I. 2026/72)](https://www.legislation.gov.uk/wsi/2026/72), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/72/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2026/72/regulation/6)
+[^c-652f2c20dc8b0778861a96e8ebc4bf34]: Textual amendment: Words in [s. 1(4)(g)](https://www.legislation.gov.uk/mwa/2008/2/section/1/4/g) inserted (1.4.2026) by [The Tertiary Education and Research (Wales) Act 2022 (Consequential Amendments and Transitory Provision) Regulations 2026 (W.S.I. 2026/72)](https://www.legislation.gov.uk/wsi/2026/72), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/72/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2026/72/regulation/6)
 
-[^key-4ae64461631d1b7428c92852bd9c9c59]: Textual amendment: [S. 1(4)(h)](https://www.legislation.gov.uk/mwa/2008/2/section/1/4/h) substituted (1.9.2021 for specified purposes, 1.1.2022 for specified purposes, 1.9.2022 for specified purposes, 1.9.2025 for specified purposes) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 14(2)(b)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/14/2/b); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [arts. 3](https://www.legislation.gov.uk/wsi/2021/373/article/3), [4](https://www.legislation.gov.uk/wsi/2021/373/article/4), [6](https://www.legislation.gov.uk/wsi/2021/373/article/6), [7](https://www.legislation.gov.uk/wsi/2021/373/article/7) (as amended by [S.I. 2021/938](https://www.legislation.gov.uk/uksi/2021/938), [art. 2](https://www.legislation.gov.uk/uksi/2021/938/article/2)); [S.I. 2021/1243](https://www.legislation.gov.uk/wsi/2021/1243), [art. 3](https://www.legislation.gov.uk/wsi/2021/1243/article/3) (with [arts. 4-23](https://www.legislation.gov.uk/wsi/2021/1243/article/4)) (as amended by [S.I. 2021/1428](https://www.legislation.gov.uk/uksi/2021/1428), [art. 2](https://www.legislation.gov.uk/uksi/2021/1428/article/2)); [S.I. 2021/1244](https://www.legislation.gov.uk/wsi/2021/1244), [art. 3](https://www.legislation.gov.uk/wsi/2021/1244/article/3) (with [arts. 4-21](https://www.legislation.gov.uk/wsi/2021/1244/article/4)) (as amended by [S.I. 2021/1428](https://www.legislation.gov.uk/uksi/2021/1428), [art. 3](https://www.legislation.gov.uk/uksi/2021/1428/article/3)); [S.I. 2021/1245](https://www.legislation.gov.uk/wsi/2021/1245), [arts. 3](https://www.legislation.gov.uk/wsi/2021/1245/article/3), [4](https://www.legislation.gov.uk/wsi/2021/1245/article/4) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2021/1245/article/1/4)); [S.I. 2022/891](https://www.legislation.gov.uk/wsi/2022/891), [art. 3](https://www.legislation.gov.uk/wsi/2022/891/article/3) (with [arts. 4-25](https://www.legislation.gov.uk/wsi/2022/891/article/4)); [S.I. 2022/892](https://www.legislation.gov.uk/wsi/2022/892), [arts. 2](https://www.legislation.gov.uk/wsi/2022/892/article/2), [3](https://www.legislation.gov.uk/wsi/2022/892/article/3) (with [arts. 4-18](https://www.legislation.gov.uk/wsi/2022/892/article/4)); [S.I. 2022/893](https://www.legislation.gov.uk/wsi/2022/893), [arts. 2](https://www.legislation.gov.uk/wsi/2022/893/article/2), [4](https://www.legislation.gov.uk/wsi/2022/893/article/4); [S.I. 2022/894](https://www.legislation.gov.uk/wsi/2022/894), [art. 3](https://www.legislation.gov.uk/wsi/2022/894/article/3); [S.I. 2022/895](https://www.legislation.gov.uk/wsi/2022/895), [arts. 3](https://www.legislation.gov.uk/wsi/2022/895/article/3), [4](https://www.legislation.gov.uk/wsi/2022/895/article/4); [S.I. 2022/896](https://www.legislation.gov.uk/wsi/2022/896), [art. 3](https://www.legislation.gov.uk/wsi/2022/896/article/3) (with [arts. 1(7)](https://www.legislation.gov.uk/wsi/2022/896/article/1/7), [4-22](https://www.legislation.gov.uk/wsi/2022/896/article/4)); [S.I. 2022/897](https://www.legislation.gov.uk/wsi/2022/897), [art. 3](https://www.legislation.gov.uk/wsi/2022/897/article/3) (with [arts. 1(8)](https://www.legislation.gov.uk/wsi/2022/897/article/1/8), [4-21](https://www.legislation.gov.uk/wsi/2022/897/article/4)); [S.I. 2022/898](https://www.legislation.gov.uk/wsi/2022/898), [arts. 2](https://www.legislation.gov.uk/wsi/2022/898/article/2), [3](https://www.legislation.gov.uk/wsi/2022/898/article/3)
+[^c-4ae64461631d1b7428c92852bd9c9c59]: Textual amendment: [S. 1(4)(h)](https://www.legislation.gov.uk/mwa/2008/2/section/1/4/h) substituted (1.9.2021 for specified purposes, 1.1.2022 for specified purposes, 1.9.2022 for specified purposes, 1.9.2025 for specified purposes) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 14(2)(b)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/14/2/b); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [arts. 3](https://www.legislation.gov.uk/wsi/2021/373/article/3), [4](https://www.legislation.gov.uk/wsi/2021/373/article/4), [6](https://www.legislation.gov.uk/wsi/2021/373/article/6), [7](https://www.legislation.gov.uk/wsi/2021/373/article/7) (as amended by [S.I. 2021/938](https://www.legislation.gov.uk/uksi/2021/938), [art. 2](https://www.legislation.gov.uk/uksi/2021/938/article/2)); [S.I. 2021/1243](https://www.legislation.gov.uk/wsi/2021/1243), [art. 3](https://www.legislation.gov.uk/wsi/2021/1243/article/3) (with [arts. 4-23](https://www.legislation.gov.uk/wsi/2021/1243/article/4)) (as amended by [S.I. 2021/1428](https://www.legislation.gov.uk/uksi/2021/1428), [art. 2](https://www.legislation.gov.uk/uksi/2021/1428/article/2)); [S.I. 2021/1244](https://www.legislation.gov.uk/wsi/2021/1244), [art. 3](https://www.legislation.gov.uk/wsi/2021/1244/article/3) (with [arts. 4-21](https://www.legislation.gov.uk/wsi/2021/1244/article/4)) (as amended by [S.I. 2021/1428](https://www.legislation.gov.uk/uksi/2021/1428), [art. 3](https://www.legislation.gov.uk/uksi/2021/1428/article/3)); [S.I. 2021/1245](https://www.legislation.gov.uk/wsi/2021/1245), [arts. 3](https://www.legislation.gov.uk/wsi/2021/1245/article/3), [4](https://www.legislation.gov.uk/wsi/2021/1245/article/4) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2021/1245/article/1/4)); [S.I. 2022/891](https://www.legislation.gov.uk/wsi/2022/891), [art. 3](https://www.legislation.gov.uk/wsi/2022/891/article/3) (with [arts. 4-25](https://www.legislation.gov.uk/wsi/2022/891/article/4)); [S.I. 2022/892](https://www.legislation.gov.uk/wsi/2022/892), [arts. 2](https://www.legislation.gov.uk/wsi/2022/892/article/2), [3](https://www.legislation.gov.uk/wsi/2022/892/article/3) (with [arts. 4-18](https://www.legislation.gov.uk/wsi/2022/892/article/4)); [S.I. 2022/893](https://www.legislation.gov.uk/wsi/2022/893), [arts. 2](https://www.legislation.gov.uk/wsi/2022/893/article/2), [4](https://www.legislation.gov.uk/wsi/2022/893/article/4); [S.I. 2022/894](https://www.legislation.gov.uk/wsi/2022/894), [art. 3](https://www.legislation.gov.uk/wsi/2022/894/article/3); [S.I. 2022/895](https://www.legislation.gov.uk/wsi/2022/895), [arts. 3](https://www.legislation.gov.uk/wsi/2022/895/article/3), [4](https://www.legislation.gov.uk/wsi/2022/895/article/4); [S.I. 2022/896](https://www.legislation.gov.uk/wsi/2022/896), [art. 3](https://www.legislation.gov.uk/wsi/2022/896/article/3) (with [arts. 1(7)](https://www.legislation.gov.uk/wsi/2022/896/article/1/7), [4-22](https://www.legislation.gov.uk/wsi/2022/896/article/4)); [S.I. 2022/897](https://www.legislation.gov.uk/wsi/2022/897), [art. 3](https://www.legislation.gov.uk/wsi/2022/897/article/3) (with [arts. 1(8)](https://www.legislation.gov.uk/wsi/2022/897/article/1/8), [4-21](https://www.legislation.gov.uk/wsi/2022/897/article/4)); [S.I. 2022/898](https://www.legislation.gov.uk/wsi/2022/898), [arts. 2](https://www.legislation.gov.uk/wsi/2022/898/article/2), [3](https://www.legislation.gov.uk/wsi/2022/898/article/3)
 
-[^key-06462aa9f1d84ac0d7e5570b2a51223c]: Commencement: S. 1(4)(j) in force for specified purposes at 30.10.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/371/article/2/1/a)
+[^c-06462aa9f1d84ac0d7e5570b2a51223c]: Commencement: S. 1(4)(j) in force for specified purposes at 30.10.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/371/article/2/1/a)
 
-[^key-2255fb5dc37a90a1b1b64c6bd2601d56]: Commencement: S. 1(4)(j) in force for specified purposes at 30.10.2009 by [S.I. 2009/2819](https://www.legislation.gov.uk/uksi/2009/2819), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/2819/article/2/1/a)
+[^c-2255fb5dc37a90a1b1b64c6bd2601d56]: Commencement: S. 1(4)(j) in force for specified purposes at 30.10.2009 by [S.I. 2009/2819](https://www.legislation.gov.uk/uksi/2009/2819), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/2819/article/2/1/a)
 
-[^key-502e00b832ccae1fe1f812a72b0e7bae]: Commencement: S. 2 in force at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)
+[^c-502e00b832ccae1fe1f812a72b0e7bae]: Commencement: S. 2 in force at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)
 
-[^key-f240994141c39edcd76c9220cd9bf76b]: Commencement: S. 3 in force at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
+[^c-f240994141c39edcd76c9220cd9bf76b]: Commencement: S. 3 in force at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
 
-[^key-2a4fa0666929b90a9022051cabd90568]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/mwa/2008/2/section/3) substituted (1.9.2021 for specified purposes, 1.1.2022 for specified purposes, 1.9.2022 for specified purposes, 1.9.2025 for specified purposes) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 14(3)(a)(i)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/14/3/a/i); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [arts. 3](https://www.legislation.gov.uk/wsi/2021/373/article/3), [4](https://www.legislation.gov.uk/wsi/2021/373/article/4), [6](https://www.legislation.gov.uk/wsi/2021/373/article/6), [7](https://www.legislation.gov.uk/wsi/2021/373/article/7) (as amended by [S.I. 2021/938](https://www.legislation.gov.uk/uksi/2021/938), [art. 2](https://www.legislation.gov.uk/uksi/2021/938/article/2)); [S.I. 2021/1243](https://www.legislation.gov.uk/wsi/2021/1243), [art. 3](https://www.legislation.gov.uk/wsi/2021/1243/article/3) (with [arts. 4-23](https://www.legislation.gov.uk/wsi/2021/1243/article/4)) (as amended by [S.I. 2021/1428](https://www.legislation.gov.uk/uksi/2021/1428), [art. 2](https://www.legislation.gov.uk/uksi/2021/1428/article/2)); [S.I. 2021/1244](https://www.legislation.gov.uk/wsi/2021/1244), [art. 3](https://www.legislation.gov.uk/wsi/2021/1244/article/3) (with [arts. 4-21](https://www.legislation.gov.uk/wsi/2021/1244/article/4)) (as amended by [S.I. 2021/1428](https://www.legislation.gov.uk/uksi/2021/1428), [art. 3](https://www.legislation.gov.uk/uksi/2021/1428/article/3)); [S.I. 2021/1245](https://www.legislation.gov.uk/wsi/2021/1245), [arts. 3](https://www.legislation.gov.uk/wsi/2021/1245/article/3), [4](https://www.legislation.gov.uk/wsi/2021/1245/article/4) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2021/1245/article/1/4)); [S.I. 2022/891](https://www.legislation.gov.uk/wsi/2022/891), [art. 3](https://www.legislation.gov.uk/wsi/2022/891/article/3) (with [arts. 4-25](https://www.legislation.gov.uk/wsi/2022/891/article/4)); [S.I. 2022/892](https://www.legislation.gov.uk/wsi/2022/892), [arts. 2](https://www.legislation.gov.uk/wsi/2022/892/article/2), [3](https://www.legislation.gov.uk/wsi/2022/892/article/3) (with [arts. 4-18](https://www.legislation.gov.uk/wsi/2022/892/article/4)); [S.I. 2022/893](https://www.legislation.gov.uk/wsi/2022/893), [arts. 2](https://www.legislation.gov.uk/wsi/2022/893/article/2), [4](https://www.legislation.gov.uk/wsi/2022/893/article/4); [S.I. 2022/894](https://www.legislation.gov.uk/wsi/2022/894), [art. 3](https://www.legislation.gov.uk/wsi/2022/894/article/3); [S.I. 2022/895](https://www.legislation.gov.uk/wsi/2022/895), [arts. 3](https://www.legislation.gov.uk/wsi/2022/895/article/3), [4](https://www.legislation.gov.uk/wsi/2022/895/article/4); [S.I. 2022/896](https://www.legislation.gov.uk/wsi/2022/896), [art. 3](https://www.legislation.gov.uk/wsi/2022/896/article/3) (with [arts. 1(7)](https://www.legislation.gov.uk/wsi/2022/896/article/1/7), [4-22](https://www.legislation.gov.uk/wsi/2022/896/article/4)); [S.I. 2022/897](https://www.legislation.gov.uk/wsi/2022/897), [art. 3](https://www.legislation.gov.uk/wsi/2022/897/article/3) (with [arts. 1(8)](https://www.legislation.gov.uk/wsi/2022/897/article/1/8), [4-21](https://www.legislation.gov.uk/wsi/2022/897/article/4)); [S.I. 2022/898](https://www.legislation.gov.uk/wsi/2022/898), [arts. 2](https://www.legislation.gov.uk/wsi/2022/898/article/2), [3](https://www.legislation.gov.uk/wsi/2022/898/article/3)
+[^c-2a4fa0666929b90a9022051cabd90568]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/mwa/2008/2/section/3) substituted (1.9.2021 for specified purposes, 1.1.2022 for specified purposes, 1.9.2022 for specified purposes, 1.9.2025 for specified purposes) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 14(3)(a)(i)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/14/3/a/i); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [arts. 3](https://www.legislation.gov.uk/wsi/2021/373/article/3), [4](https://www.legislation.gov.uk/wsi/2021/373/article/4), [6](https://www.legislation.gov.uk/wsi/2021/373/article/6), [7](https://www.legislation.gov.uk/wsi/2021/373/article/7) (as amended by [S.I. 2021/938](https://www.legislation.gov.uk/uksi/2021/938), [art. 2](https://www.legislation.gov.uk/uksi/2021/938/article/2)); [S.I. 2021/1243](https://www.legislation.gov.uk/wsi/2021/1243), [art. 3](https://www.legislation.gov.uk/wsi/2021/1243/article/3) (with [arts. 4-23](https://www.legislation.gov.uk/wsi/2021/1243/article/4)) (as amended by [S.I. 2021/1428](https://www.legislation.gov.uk/uksi/2021/1428), [art. 2](https://www.legislation.gov.uk/uksi/2021/1428/article/2)); [S.I. 2021/1244](https://www.legislation.gov.uk/wsi/2021/1244), [art. 3](https://www.legislation.gov.uk/wsi/2021/1244/article/3) (with [arts. 4-21](https://www.legislation.gov.uk/wsi/2021/1244/article/4)) (as amended by [S.I. 2021/1428](https://www.legislation.gov.uk/uksi/2021/1428), [art. 3](https://www.legislation.gov.uk/uksi/2021/1428/article/3)); [S.I. 2021/1245](https://www.legislation.gov.uk/wsi/2021/1245), [arts. 3](https://www.legislation.gov.uk/wsi/2021/1245/article/3), [4](https://www.legislation.gov.uk/wsi/2021/1245/article/4) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2021/1245/article/1/4)); [S.I. 2022/891](https://www.legislation.gov.uk/wsi/2022/891), [art. 3](https://www.legislation.gov.uk/wsi/2022/891/article/3) (with [arts. 4-25](https://www.legislation.gov.uk/wsi/2022/891/article/4)); [S.I. 2022/892](https://www.legislation.gov.uk/wsi/2022/892), [arts. 2](https://www.legislation.gov.uk/wsi/2022/892/article/2), [3](https://www.legislation.gov.uk/wsi/2022/892/article/3) (with [arts. 4-18](https://www.legislation.gov.uk/wsi/2022/892/article/4)); [S.I. 2022/893](https://www.legislation.gov.uk/wsi/2022/893), [arts. 2](https://www.legislation.gov.uk/wsi/2022/893/article/2), [4](https://www.legislation.gov.uk/wsi/2022/893/article/4); [S.I. 2022/894](https://www.legislation.gov.uk/wsi/2022/894), [art. 3](https://www.legislation.gov.uk/wsi/2022/894/article/3); [S.I. 2022/895](https://www.legislation.gov.uk/wsi/2022/895), [arts. 3](https://www.legislation.gov.uk/wsi/2022/895/article/3), [4](https://www.legislation.gov.uk/wsi/2022/895/article/4); [S.I. 2022/896](https://www.legislation.gov.uk/wsi/2022/896), [art. 3](https://www.legislation.gov.uk/wsi/2022/896/article/3) (with [arts. 1(7)](https://www.legislation.gov.uk/wsi/2022/896/article/1/7), [4-22](https://www.legislation.gov.uk/wsi/2022/896/article/4)); [S.I. 2022/897](https://www.legislation.gov.uk/wsi/2022/897), [art. 3](https://www.legislation.gov.uk/wsi/2022/897/article/3) (with [arts. 1(8)](https://www.legislation.gov.uk/wsi/2022/897/article/1/8), [4-21](https://www.legislation.gov.uk/wsi/2022/897/article/4)); [S.I. 2022/898](https://www.legislation.gov.uk/wsi/2022/898), [arts. 2](https://www.legislation.gov.uk/wsi/2022/898/article/2), [3](https://www.legislation.gov.uk/wsi/2022/898/article/3)
 
-[^key-b0169b3f0693a45a86a2541a22055091]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/mwa/2008/2/section/3) substituted (1.9.2021 for specified purposes, 1.1.2022 for specified purposes, 1.9.2022 for specified purposes, 1.9.2025 for specified purposes) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 14(3)(b)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/14/3/b); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [arts. 3](https://www.legislation.gov.uk/wsi/2021/373/article/3), [4](https://www.legislation.gov.uk/wsi/2021/373/article/4), [6](https://www.legislation.gov.uk/wsi/2021/373/article/6), [7](https://www.legislation.gov.uk/wsi/2021/373/article/7) (as amended by [S.I. 2021/938](https://www.legislation.gov.uk/uksi/2021/938), [art. 2](https://www.legislation.gov.uk/uksi/2021/938/article/2)); [S.I. 2021/1243](https://www.legislation.gov.uk/wsi/2021/1243), [art. 3](https://www.legislation.gov.uk/wsi/2021/1243/article/3) (with [arts. 4-23](https://www.legislation.gov.uk/wsi/2021/1243/article/4)) (as amended by [S.I. 2021/1428](https://www.legislation.gov.uk/uksi/2021/1428), [art. 2](https://www.legislation.gov.uk/uksi/2021/1428/article/2)); [S.I. 2021/1244](https://www.legislation.gov.uk/wsi/2021/1244), [art. 3](https://www.legislation.gov.uk/wsi/2021/1244/article/3) (with [arts. 4-21](https://www.legislation.gov.uk/wsi/2021/1244/article/4)) (as amended by [S.I. 2021/1428](https://www.legislation.gov.uk/uksi/2021/1428), [art. 3](https://www.legislation.gov.uk/uksi/2021/1428/article/3)); [S.I. 2021/1245](https://www.legislation.gov.uk/wsi/2021/1245), [arts. 3](https://www.legislation.gov.uk/wsi/2021/1245/article/3), [4](https://www.legislation.gov.uk/wsi/2021/1245/article/4) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2021/1245/article/1/4)); [S.I. 2022/891](https://www.legislation.gov.uk/wsi/2022/891), [art. 3](https://www.legislation.gov.uk/wsi/2022/891/article/3) (with [arts. 4-25](https://www.legislation.gov.uk/wsi/2022/891/article/4)); [S.I. 2022/892](https://www.legislation.gov.uk/wsi/2022/892), [arts. 2](https://www.legislation.gov.uk/wsi/2022/892/article/2), [3](https://www.legislation.gov.uk/wsi/2022/892/article/3) (with [arts. 4-18](https://www.legislation.gov.uk/wsi/2022/892/article/4)); [S.I. 2022/893](https://www.legislation.gov.uk/wsi/2022/893), [arts. 2](https://www.legislation.gov.uk/wsi/2022/893/article/2), [4](https://www.legislation.gov.uk/wsi/2022/893/article/4); [S.I. 2022/894](https://www.legislation.gov.uk/wsi/2022/894), [art. 3](https://www.legislation.gov.uk/wsi/2022/894/article/3); [S.I. 2022/895](https://www.legislation.gov.uk/wsi/2022/895), [arts. 3](https://www.legislation.gov.uk/wsi/2022/895/article/3), [4](https://www.legislation.gov.uk/wsi/2022/895/article/4); [S.I. 2022/896](https://www.legislation.gov.uk/wsi/2022/896), [art. 3](https://www.legislation.gov.uk/wsi/2022/896/article/3) (with [arts. 1(7)](https://www.legislation.gov.uk/wsi/2022/896/article/1/7), [4-22](https://www.legislation.gov.uk/wsi/2022/896/article/4)); [S.I. 2022/897](https://www.legislation.gov.uk/wsi/2022/897), [art. 3](https://www.legislation.gov.uk/wsi/2022/897/article/3) (with [arts. 1(8)](https://www.legislation.gov.uk/wsi/2022/897/article/1/8), [4-21](https://www.legislation.gov.uk/wsi/2022/897/article/4)); [S.I. 2022/898](https://www.legislation.gov.uk/wsi/2022/898), [arts. 2](https://www.legislation.gov.uk/wsi/2022/898/article/2), [3](https://www.legislation.gov.uk/wsi/2022/898/article/3)
+[^c-b0169b3f0693a45a86a2541a22055091]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/mwa/2008/2/section/3) substituted (1.9.2021 for specified purposes, 1.1.2022 for specified purposes, 1.9.2022 for specified purposes, 1.9.2025 for specified purposes) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 14(3)(b)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/14/3/b); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [arts. 3](https://www.legislation.gov.uk/wsi/2021/373/article/3), [4](https://www.legislation.gov.uk/wsi/2021/373/article/4), [6](https://www.legislation.gov.uk/wsi/2021/373/article/6), [7](https://www.legislation.gov.uk/wsi/2021/373/article/7) (as amended by [S.I. 2021/938](https://www.legislation.gov.uk/uksi/2021/938), [art. 2](https://www.legislation.gov.uk/uksi/2021/938/article/2)); [S.I. 2021/1243](https://www.legislation.gov.uk/wsi/2021/1243), [art. 3](https://www.legislation.gov.uk/wsi/2021/1243/article/3) (with [arts. 4-23](https://www.legislation.gov.uk/wsi/2021/1243/article/4)) (as amended by [S.I. 2021/1428](https://www.legislation.gov.uk/uksi/2021/1428), [art. 2](https://www.legislation.gov.uk/uksi/2021/1428/article/2)); [S.I. 2021/1244](https://www.legislation.gov.uk/wsi/2021/1244), [art. 3](https://www.legislation.gov.uk/wsi/2021/1244/article/3) (with [arts. 4-21](https://www.legislation.gov.uk/wsi/2021/1244/article/4)) (as amended by [S.I. 2021/1428](https://www.legislation.gov.uk/uksi/2021/1428), [art. 3](https://www.legislation.gov.uk/uksi/2021/1428/article/3)); [S.I. 2021/1245](https://www.legislation.gov.uk/wsi/2021/1245), [arts. 3](https://www.legislation.gov.uk/wsi/2021/1245/article/3), [4](https://www.legislation.gov.uk/wsi/2021/1245/article/4) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2021/1245/article/1/4)); [S.I. 2022/891](https://www.legislation.gov.uk/wsi/2022/891), [art. 3](https://www.legislation.gov.uk/wsi/2022/891/article/3) (with [arts. 4-25](https://www.legislation.gov.uk/wsi/2022/891/article/4)); [S.I. 2022/892](https://www.legislation.gov.uk/wsi/2022/892), [arts. 2](https://www.legislation.gov.uk/wsi/2022/892/article/2), [3](https://www.legislation.gov.uk/wsi/2022/892/article/3) (with [arts. 4-18](https://www.legislation.gov.uk/wsi/2022/892/article/4)); [S.I. 2022/893](https://www.legislation.gov.uk/wsi/2022/893), [arts. 2](https://www.legislation.gov.uk/wsi/2022/893/article/2), [4](https://www.legislation.gov.uk/wsi/2022/893/article/4); [S.I. 2022/894](https://www.legislation.gov.uk/wsi/2022/894), [art. 3](https://www.legislation.gov.uk/wsi/2022/894/article/3); [S.I. 2022/895](https://www.legislation.gov.uk/wsi/2022/895), [arts. 3](https://www.legislation.gov.uk/wsi/2022/895/article/3), [4](https://www.legislation.gov.uk/wsi/2022/895/article/4); [S.I. 2022/896](https://www.legislation.gov.uk/wsi/2022/896), [art. 3](https://www.legislation.gov.uk/wsi/2022/896/article/3) (with [arts. 1(7)](https://www.legislation.gov.uk/wsi/2022/896/article/1/7), [4-22](https://www.legislation.gov.uk/wsi/2022/896/article/4)); [S.I. 2022/897](https://www.legislation.gov.uk/wsi/2022/897), [art. 3](https://www.legislation.gov.uk/wsi/2022/897/article/3) (with [arts. 1(8)](https://www.legislation.gov.uk/wsi/2022/897/article/1/8), [4-21](https://www.legislation.gov.uk/wsi/2022/897/article/4)); [S.I. 2022/898](https://www.legislation.gov.uk/wsi/2022/898), [arts. 2](https://www.legislation.gov.uk/wsi/2022/898/article/2), [3](https://www.legislation.gov.uk/wsi/2022/898/article/3)
 
-[^key-adea8809fd80dc07521c1e479f66a75e]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/mwa/2008/2/section/3) substituted (1.9.2021 for specified purposes, 1.1.2022 for specified purposes, 1.9.2022 for specified purposes, 1.9.2025 for specified purposes) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 14(3)(a)(ii)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/14/3/a/ii); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [arts. 3](https://www.legislation.gov.uk/wsi/2021/373/article/3), [4](https://www.legislation.gov.uk/wsi/2021/373/article/4), [6](https://www.legislation.gov.uk/wsi/2021/373/article/6), [7](https://www.legislation.gov.uk/wsi/2021/373/article/7) (as amended by [S.I. 2021/938](https://www.legislation.gov.uk/uksi/2021/938), [art. 2](https://www.legislation.gov.uk/uksi/2021/938/article/2)); [S.I. 2021/1243](https://www.legislation.gov.uk/wsi/2021/1243), [art. 3](https://www.legislation.gov.uk/wsi/2021/1243/article/3) (with [arts. 4-23](https://www.legislation.gov.uk/wsi/2021/1243/article/4)) (as amended by [S.I. 2021/1428](https://www.legislation.gov.uk/uksi/2021/1428), [art. 2](https://www.legislation.gov.uk/uksi/2021/1428/article/2)); [S.I. 2021/1244](https://www.legislation.gov.uk/wsi/2021/1244), [art. 3](https://www.legislation.gov.uk/wsi/2021/1244/article/3) (with [arts. 4-21](https://www.legislation.gov.uk/wsi/2021/1244/article/4)) (as amended by [S.I. 2021/1428](https://www.legislation.gov.uk/uksi/2021/1428), [art. 3](https://www.legislation.gov.uk/uksi/2021/1428/article/3)); [S.I. 2021/1245](https://www.legislation.gov.uk/wsi/2021/1245), [arts. 3](https://www.legislation.gov.uk/wsi/2021/1245/article/3), [4](https://www.legislation.gov.uk/wsi/2021/1245/article/4) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2021/1245/article/1/4)); [S.I. 2022/891](https://www.legislation.gov.uk/wsi/2022/891), [art. 3](https://www.legislation.gov.uk/wsi/2022/891/article/3) (with [arts. 4-25](https://www.legislation.gov.uk/wsi/2022/891/article/4)); [S.I. 2022/892](https://www.legislation.gov.uk/wsi/2022/892), [arts. 2](https://www.legislation.gov.uk/wsi/2022/892/article/2), [3](https://www.legislation.gov.uk/wsi/2022/892/article/3) (with [arts. 4-18](https://www.legislation.gov.uk/wsi/2022/892/article/4)); [S.I. 2022/893](https://www.legislation.gov.uk/wsi/2022/893), [arts. 2](https://www.legislation.gov.uk/wsi/2022/893/article/2), [4](https://www.legislation.gov.uk/wsi/2022/893/article/4); [S.I. 2022/894](https://www.legislation.gov.uk/wsi/2022/894), [art. 3](https://www.legislation.gov.uk/wsi/2022/894/article/3); [S.I. 2022/895](https://www.legislation.gov.uk/wsi/2022/895), [arts. 3](https://www.legislation.gov.uk/wsi/2022/895/article/3), [4](https://www.legislation.gov.uk/wsi/2022/895/article/4); [S.I. 2022/896](https://www.legislation.gov.uk/wsi/2022/896), [art. 3](https://www.legislation.gov.uk/wsi/2022/896/article/3) (with [arts. 1(7)](https://www.legislation.gov.uk/wsi/2022/896/article/1/7), [4-22](https://www.legislation.gov.uk/wsi/2022/896/article/4)); [S.I. 2022/897](https://www.legislation.gov.uk/wsi/2022/897), [art. 3](https://www.legislation.gov.uk/wsi/2022/897/article/3) (with [arts. 1(8)](https://www.legislation.gov.uk/wsi/2022/897/article/1/8), [4-21](https://www.legislation.gov.uk/wsi/2022/897/article/4)); [S.I. 2022/898](https://www.legislation.gov.uk/wsi/2022/898), [arts. 2](https://www.legislation.gov.uk/wsi/2022/898/article/2), [3](https://www.legislation.gov.uk/wsi/2022/898/article/3)
+[^c-adea8809fd80dc07521c1e479f66a75e]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/mwa/2008/2/section/3) substituted (1.9.2021 for specified purposes, 1.1.2022 for specified purposes, 1.9.2022 for specified purposes, 1.9.2025 for specified purposes) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 14(3)(a)(ii)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/14/3/a/ii); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [arts. 3](https://www.legislation.gov.uk/wsi/2021/373/article/3), [4](https://www.legislation.gov.uk/wsi/2021/373/article/4), [6](https://www.legislation.gov.uk/wsi/2021/373/article/6), [7](https://www.legislation.gov.uk/wsi/2021/373/article/7) (as amended by [S.I. 2021/938](https://www.legislation.gov.uk/uksi/2021/938), [art. 2](https://www.legislation.gov.uk/uksi/2021/938/article/2)); [S.I. 2021/1243](https://www.legislation.gov.uk/wsi/2021/1243), [art. 3](https://www.legislation.gov.uk/wsi/2021/1243/article/3) (with [arts. 4-23](https://www.legislation.gov.uk/wsi/2021/1243/article/4)) (as amended by [S.I. 2021/1428](https://www.legislation.gov.uk/uksi/2021/1428), [art. 2](https://www.legislation.gov.uk/uksi/2021/1428/article/2)); [S.I. 2021/1244](https://www.legislation.gov.uk/wsi/2021/1244), [art. 3](https://www.legislation.gov.uk/wsi/2021/1244/article/3) (with [arts. 4-21](https://www.legislation.gov.uk/wsi/2021/1244/article/4)) (as amended by [S.I. 2021/1428](https://www.legislation.gov.uk/uksi/2021/1428), [art. 3](https://www.legislation.gov.uk/uksi/2021/1428/article/3)); [S.I. 2021/1245](https://www.legislation.gov.uk/wsi/2021/1245), [arts. 3](https://www.legislation.gov.uk/wsi/2021/1245/article/3), [4](https://www.legislation.gov.uk/wsi/2021/1245/article/4) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2021/1245/article/1/4)); [S.I. 2022/891](https://www.legislation.gov.uk/wsi/2022/891), [art. 3](https://www.legislation.gov.uk/wsi/2022/891/article/3) (with [arts. 4-25](https://www.legislation.gov.uk/wsi/2022/891/article/4)); [S.I. 2022/892](https://www.legislation.gov.uk/wsi/2022/892), [arts. 2](https://www.legislation.gov.uk/wsi/2022/892/article/2), [3](https://www.legislation.gov.uk/wsi/2022/892/article/3) (with [arts. 4-18](https://www.legislation.gov.uk/wsi/2022/892/article/4)); [S.I. 2022/893](https://www.legislation.gov.uk/wsi/2022/893), [arts. 2](https://www.legislation.gov.uk/wsi/2022/893/article/2), [4](https://www.legislation.gov.uk/wsi/2022/893/article/4); [S.I. 2022/894](https://www.legislation.gov.uk/wsi/2022/894), [art. 3](https://www.legislation.gov.uk/wsi/2022/894/article/3); [S.I. 2022/895](https://www.legislation.gov.uk/wsi/2022/895), [arts. 3](https://www.legislation.gov.uk/wsi/2022/895/article/3), [4](https://www.legislation.gov.uk/wsi/2022/895/article/4); [S.I. 2022/896](https://www.legislation.gov.uk/wsi/2022/896), [art. 3](https://www.legislation.gov.uk/wsi/2022/896/article/3) (with [arts. 1(7)](https://www.legislation.gov.uk/wsi/2022/896/article/1/7), [4-22](https://www.legislation.gov.uk/wsi/2022/896/article/4)); [S.I. 2022/897](https://www.legislation.gov.uk/wsi/2022/897), [art. 3](https://www.legislation.gov.uk/wsi/2022/897/article/3) (with [arts. 1(8)](https://www.legislation.gov.uk/wsi/2022/897/article/1/8), [4-21](https://www.legislation.gov.uk/wsi/2022/897/article/4)); [S.I. 2022/898](https://www.legislation.gov.uk/wsi/2022/898), [arts. 2](https://www.legislation.gov.uk/wsi/2022/898/article/2), [3](https://www.legislation.gov.uk/wsi/2022/898/article/3)
 
-[^key-9fc0306e72f6b1c07b5de163a71b17e4]: Commencement: S. 4 in force at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
+[^c-9fc0306e72f6b1c07b5de163a71b17e4]: Commencement: S. 4 in force at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
 
-[^key-b25a74015cfb9cc56f6865b6e75f47e6]: Commencement: S. 5 in force in so far as not already in force at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
+[^c-b25a74015cfb9cc56f6865b6e75f47e6]: Commencement: S. 5 in force in so far as not already in force at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
 
-[^key-7a43ae07d2dd8e39f49e133712feba2a]: Commencement: S. 5 in force for specified purposes at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)
+[^c-7a43ae07d2dd8e39f49e133712feba2a]: Commencement: S. 5 in force for specified purposes at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)
 
-[^key-a1eda9fee020dc13d1c8ca4e81736973]: Commencement: S. 6 in force at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)
+[^c-a1eda9fee020dc13d1c8ca4e81736973]: Commencement: S. 6 in force at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)
 
-[^key-0d34627ab5e3fa02f66d7cb0a64f8bc1]: Commencement: S. 7 in force at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
+[^c-0d34627ab5e3fa02f66d7cb0a64f8bc1]: Commencement: S. 7 in force at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
 
-[^key-87653fe52d0ad93bb363a3221081296f]: Textual amendment: Words in [s. 7(1)(b)(ii)](https://www.legislation.gov.uk/mwa/2008/2/section/7/1/b/ii) inserted (1.4.2026) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 23(3)(a)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/23/3/a) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(xli)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww) (with [arts. 13](https://www.legislation.gov.uk/wsi/2026/62/article/13), [15(1)](https://www.legislation.gov.uk/wsi/2026/62/article/15/1), [Sch.](https://www.legislation.gov.uk/wsi/2026/62/schedule))
+[^c-87653fe52d0ad93bb363a3221081296f]: Textual amendment: Words in [s. 7(1)(b)(ii)](https://www.legislation.gov.uk/mwa/2008/2/section/7/1/b/ii) inserted (1.4.2026) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 23(3)(a)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/23/3/a) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(xli)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww) (with [arts. 13](https://www.legislation.gov.uk/wsi/2026/62/article/13), [15(1)](https://www.legislation.gov.uk/wsi/2026/62/article/15/1), [Sch.](https://www.legislation.gov.uk/wsi/2026/62/schedule))
 
-[^key-e8720eee425d349a7e52548eedc7840c]: Textual amendment: [S. 7(3)(a)](https://www.legislation.gov.uk/mwa/2008/2/section/7/3/a)[(ai)](https://www.legislation.gov.uk/mwa/2008/2/section/7/3/ai) inserted (1.4.2026) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 23(3)(b)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/23/3/b) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(xli)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww) (with [arts. 13](https://www.legislation.gov.uk/wsi/2026/62/article/13), [15(1)](https://www.legislation.gov.uk/wsi/2026/62/article/15/1), [Sch.](https://www.legislation.gov.uk/wsi/2026/62/schedule))
+[^c-e8720eee425d349a7e52548eedc7840c]: Textual amendment: [S. 7(3)(a)](https://www.legislation.gov.uk/mwa/2008/2/section/7/3/a)[(ai)](https://www.legislation.gov.uk/mwa/2008/2/section/7/3/ai) inserted (1.4.2026) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 23(3)(b)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/23/3/b) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(xli)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww) (with [arts. 13](https://www.legislation.gov.uk/wsi/2026/62/article/13), [15(1)](https://www.legislation.gov.uk/wsi/2026/62/article/15/1), [Sch.](https://www.legislation.gov.uk/wsi/2026/62/schedule))
 
-[^key-a07f5242b0c31f6b4aaa82467df2666c]: Commencement: S. 8 in force at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
+[^c-a07f5242b0c31f6b4aaa82467df2666c]: Commencement: S. 8 in force at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
 
-[^key-aa781eb6f119d1d39be4c69f4471374d]: Commencement: S. 9 in force at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
+[^c-aa781eb6f119d1d39be4c69f4471374d]: Commencement: S. 9 in force at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
 
-[^key-81a4f302ba52e3e81e68f84fd040cb55]: Commencement: S. 10 in force at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)
+[^c-81a4f302ba52e3e81e68f84fd040cb55]: Commencement: S. 10 in force at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)
 
-[^key-08cb0f9bcef229b0ea89f33026d0b1bc]: Commencement: S. 11 in force at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)
+[^c-08cb0f9bcef229b0ea89f33026d0b1bc]: Commencement: S. 11 in force at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)
 
-[^key-7d8ad9ce94b2f5f916ddc38f7042cce9]: Commencement: S. 12 in force at 30.10.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2009/371/article/2/1/b)
+[^c-7d8ad9ce94b2f5f916ddc38f7042cce9]: Commencement: S. 12 in force at 30.10.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2009/371/article/2/1/b)
 
-[^key-afa79424c85739c175d472ecea712518]: Commencement: S. 12 in force at 30.10.2009 by [S.I. 2009/2819](https://www.legislation.gov.uk/uksi/2009/2819), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2009/2819/article/2/1/b)
+[^c-afa79424c85739c175d472ecea712518]: Commencement: S. 12 in force at 30.10.2009 by [S.I. 2009/2819](https://www.legislation.gov.uk/uksi/2009/2819), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2009/2819/article/2/1/b)
 
-[^key-d1135de69d157e5408d743cb5f09fe22]: Commencement: [S. 13](https://www.legislation.gov.uk/mwa/2008/2/section/13) in force at 4.1.2010 by [S.I. 2009/2819](https://www.legislation.gov.uk/wsi/2009/2819), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2009/2819/article/2/2/a)
+[^c-d1135de69d157e5408d743cb5f09fe22]: Commencement: [S. 13](https://www.legislation.gov.uk/mwa/2008/2/section/13) in force at 4.1.2010 by [S.I. 2009/2819](https://www.legislation.gov.uk/wsi/2009/2819), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2009/2819/article/2/2/a)
 
-[^key-2ae8fdcad3fc6b7fadeebefe534f84d4]: Commencement: [S. 14](https://www.legislation.gov.uk/mwa/2008/2/section/14) in force at 4.1.2010 by [S.I. 2009/2819](https://www.legislation.gov.uk/wsi/2009/2819), [art. 2(2)(b)](https://www.legislation.gov.uk/wsi/2009/2819/article/2/2/b)
+[^c-2ae8fdcad3fc6b7fadeebefe534f84d4]: Commencement: [S. 14](https://www.legislation.gov.uk/mwa/2008/2/section/14) in force at 4.1.2010 by [S.I. 2009/2819](https://www.legislation.gov.uk/wsi/2009/2819), [art. 2(2)(b)](https://www.legislation.gov.uk/wsi/2009/2819/article/2/2/b)
 
-[^key-a2b272d75affdc01c82210828fa83ee9]: Textual amendment: Words in s. 14(11)(b)(ii) substituted (1.9.2021) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 14(4)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/14/4); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xxvii)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/xxvii)
+[^c-a2b272d75affdc01c82210828fa83ee9]: Textual amendment: Words in s. 14(11)(b)(ii) substituted (1.9.2021) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 14(4)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/14/4); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xxvii)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/xxvii)
 
-[^key-e5b4a5e6a303231c39ba429c525ac0cd]: Textual amendment: S. 14B and cross-heading inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 2](https://www.legislation.gov.uk/mwa/2011/6/section/2), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-e5b4a5e6a303231c39ba429c525ac0cd]: Textual amendment: S. 14B and cross-heading inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 2](https://www.legislation.gov.uk/mwa/2011/6/section/2), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-e83d2c6a241433e6370fd6e536f9f338]: Textual amendment: S. 14A inserted (1.10.2014) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 1](https://www.legislation.gov.uk/mwa/2011/6/section/1), [16(1)](https://www.legislation.gov.uk/mwa/2011/6/section/16/1)
+[^c-e83d2c6a241433e6370fd6e536f9f338]: Textual amendment: S. 14A inserted (1.10.2014) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 1](https://www.legislation.gov.uk/mwa/2011/6/section/1), [16(1)](https://www.legislation.gov.uk/mwa/2011/6/section/16/1)
 
-[^key-a26d00bc15e50846f4360ca64d75bce9]: Textual amendment: Words in s. 14A(5) substituted (31.12.2020) by [The Learner Travel (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/236)](https://www.legislation.gov.uk/wsi/2019/236), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/236/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2019/236/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a26d00bc15e50846f4360ca64d75bce9]: Textual amendment: Words in s. 14A(5) substituted (31.12.2020) by [The Learner Travel (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/236)](https://www.legislation.gov.uk/wsi/2019/236), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/236/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2019/236/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3cc1c84374d9a9457da00bdf0059835e]: Textual amendment: Words in [s. 14A(5)](https://www.legislation.gov.uk/mwa/2008/2/section/14A/5) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2023/1332/regulation/2)
+[^c-3cc1c84374d9a9457da00bdf0059835e]: Textual amendment: Words in [s. 14A(5)](https://www.legislation.gov.uk/mwa/2008/2/section/14A/5) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2023/1332/regulation/2)
 
-[^key-18dd140249a742e1c2a86712aa49f2c6]: Textual amendment: S. 14C inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 3](https://www.legislation.gov.uk/mwa/2011/6/section/3), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-18dd140249a742e1c2a86712aa49f2c6]: Textual amendment: S. 14C inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 3](https://www.legislation.gov.uk/mwa/2011/6/section/3), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-f530b36b68ac44a417879cb39952bd35]: Textual amendment: S. 14D inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 4](https://www.legislation.gov.uk/mwa/2011/6/section/4), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-f530b36b68ac44a417879cb39952bd35]: Textual amendment: S. 14D inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 4](https://www.legislation.gov.uk/mwa/2011/6/section/4), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-c5498607a8dddf1ea7df83321af471cb]: Textual amendment: S. 14E inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 5](https://www.legislation.gov.uk/mwa/2011/6/section/5), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-c5498607a8dddf1ea7df83321af471cb]: Textual amendment: S. 14E inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 5](https://www.legislation.gov.uk/mwa/2011/6/section/5), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-2130ce5c3390bf3628dced35de20c296]: Textual amendment: S. 14F inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 6](https://www.legislation.gov.uk/mwa/2011/6/section/6), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-2130ce5c3390bf3628dced35de20c296]: Textual amendment: S. 14F inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 6](https://www.legislation.gov.uk/mwa/2011/6/section/6), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-22047727e364dda67feeba632af58f2f]: Textual amendment: S. 14G inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 7(1)](https://www.legislation.gov.uk/mwa/2011/6/section/7/1), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-22047727e364dda67feeba632af58f2f]: Textual amendment: S. 14G inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 7(1)](https://www.legislation.gov.uk/mwa/2011/6/section/7/1), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-0152d4468b8230df4da3b3214dd4cbff]: Textual amendment: S. 14H inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 8](https://www.legislation.gov.uk/mwa/2011/6/section/8), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-0152d4468b8230df4da3b3214dd4cbff]: Textual amendment: S. 14H inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 8](https://www.legislation.gov.uk/mwa/2011/6/section/8), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-e23dfc9fdd9fd6b427799c834d4f322e]: Textual amendment: S. 14I inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 9](https://www.legislation.gov.uk/mwa/2011/6/section/9), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-e23dfc9fdd9fd6b427799c834d4f322e]: Textual amendment: S. 14I inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 9](https://www.legislation.gov.uk/mwa/2011/6/section/9), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-0ec8cfb59c015bfa5d00c85ddfe806f3]: Textual amendment: S. 14J inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 10](https://www.legislation.gov.uk/mwa/2011/6/section/10), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-0ec8cfb59c015bfa5d00c85ddfe806f3]: Textual amendment: S. 14J inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 10](https://www.legislation.gov.uk/mwa/2011/6/section/10), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-bda43e6359d5ee7bc25602af46479cef]: Textual amendment: S. 14K inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 11](https://www.legislation.gov.uk/mwa/2011/6/section/11), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-bda43e6359d5ee7bc25602af46479cef]: Textual amendment: S. 14K inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 11](https://www.legislation.gov.uk/mwa/2011/6/section/11), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-298adab193309ba6f857c7270c318645]: Textual amendment: S. 14L inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 12](https://www.legislation.gov.uk/mwa/2011/6/section/12), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-298adab193309ba6f857c7270c318645]: Textual amendment: S. 14L inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 12](https://www.legislation.gov.uk/mwa/2011/6/section/12), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-ffd8c6fc3bc306fe17dbc4ff282dbb9e]: Textual amendment: S. 14M inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 13](https://www.legislation.gov.uk/mwa/2011/6/section/13), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-ffd8c6fc3bc306fe17dbc4ff282dbb9e]: Textual amendment: S. 14M inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 13](https://www.legislation.gov.uk/mwa/2011/6/section/13), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-fad6dcdb32c9831053795ab098a9a7b7]: Textual amendment: S. 14N inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 14](https://www.legislation.gov.uk/mwa/2011/6/section/14), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-fad6dcdb32c9831053795ab098a9a7b7]: Textual amendment: S. 14N inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 14](https://www.legislation.gov.uk/mwa/2011/6/section/14), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-f32425eaed468592302c92f90d5c2c42]: Commencement: S. 15 in force at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)
+[^c-f32425eaed468592302c92f90d5c2c42]: Commencement: S. 15 in force at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)
 
-[^key-6c98dfc8a0ea074a884391574753a968]: Commencement: S. 16 in force at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)
+[^c-6c98dfc8a0ea074a884391574753a968]: Commencement: S. 16 in force at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)
 
-[^key-f53c5c7d0b288bc828e8cdd981c03804]: Commencement: [S. 17(1)](https://www.legislation.gov.uk/mwa/2008/2/section/17/1)[(2)](https://www.legislation.gov.uk/mwa/2008/2/section/17/2) in force at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/wsi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2009/371/schedule/part/1)
+[^c-f53c5c7d0b288bc828e8cdd981c03804]: Commencement: [S. 17(1)](https://www.legislation.gov.uk/mwa/2008/2/section/17/1)[(2)](https://www.legislation.gov.uk/mwa/2008/2/section/17/2) in force at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/wsi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2009/371/schedule/part/1)
 
-[^key-c277d0bdbdf1706730f8f65e357fbbab]: Commencement: [S. 17(3)](https://www.legislation.gov.uk/mwa/2008/2/section/17/3) in force at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/wsi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2009/371/schedule/part/2)
+[^c-c277d0bdbdf1706730f8f65e357fbbab]: Commencement: [S. 17(3)](https://www.legislation.gov.uk/mwa/2008/2/section/17/3) in force at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/wsi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2009/371/schedule/part/2)
 
-[^key-ecce0272773b0a6acb4575233796f3e5]: Commencement: [S. 17(4)](https://www.legislation.gov.uk/mwa/2008/2/section/17/4) in force at 4.1.2010 by [S.I. 2009/2819](https://www.legislation.gov.uk/wsi/2009/2819), [art. 2(2)(c)](https://www.legislation.gov.uk/wsi/2009/2819/article/2/2/c)
+[^c-ecce0272773b0a6acb4575233796f3e5]: Commencement: [S. 17(4)](https://www.legislation.gov.uk/mwa/2008/2/section/17/4) in force at 4.1.2010 by [S.I. 2009/2819](https://www.legislation.gov.uk/wsi/2009/2819), [art. 2(2)(c)](https://www.legislation.gov.uk/wsi/2009/2819/article/2/2/c)
 
-[^key-071b51629446214701d4a7122b1514d0]: Commencement: S. 18 in force at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
+[^c-071b51629446214701d4a7122b1514d0]: Commencement: S. 18 in force at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
 
-[^key-1efd97da7a47be1b1ec812c55978829b]: Commencement: S. 19 in force at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)
+[^c-1efd97da7a47be1b1ec812c55978829b]: Commencement: S. 19 in force at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)
 
-[^key-318731f178dae2cfce5a50dd1ebc9c37]: Textual amendment: [S. 19(7)(a)](https://www.legislation.gov.uk/mwa/2008/2/section/19/7/a) substituted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2018 (S.I. 2018/195)](https://www.legislation.gov.uk/wsi/2018/195), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2018/195/regulation/2/1), [42](https://www.legislation.gov.uk/wsi/2018/195/regulation/42)
+[^c-318731f178dae2cfce5a50dd1ebc9c37]: Textual amendment: [S. 19(7)(a)](https://www.legislation.gov.uk/mwa/2008/2/section/19/7/a) substituted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2018 (S.I. 2018/195)](https://www.legislation.gov.uk/wsi/2018/195), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2018/195/regulation/2/1), [42](https://www.legislation.gov.uk/wsi/2018/195/regulation/42)
 
-[^key-a80e81f2f858d580fe002a39982650e7]: Commencement: S. 20 in force at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
+[^c-a80e81f2f858d580fe002a39982650e7]: Commencement: S. 20 in force at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
 
-[^key-8e03d040d40208a0fb4a39e66029637b]: Commencement: S. 21 in force at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)
+[^c-8e03d040d40208a0fb4a39e66029637b]: Commencement: S. 21 in force at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)
 
-[^key-e3ad36c7da24679d971e1bc4dc757044]: Commencement: S. 22 in force at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
+[^c-e3ad36c7da24679d971e1bc4dc757044]: Commencement: S. 22 in force at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
 
-[^key-2bf6938e17a2a26c676da49c3b75041c]: Commencement: S. 23 in force at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)
+[^c-2bf6938e17a2a26c676da49c3b75041c]: Commencement: S. 23 in force at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)
 
-[^key-37bfe08d7e5ac05da58123a78cb7c180]: Commencement: S. 24 in force at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)
+[^c-37bfe08d7e5ac05da58123a78cb7c180]: Commencement: S. 24 in force at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)
 
-[^key-0d4304c948668ec068e8d10e60c0bedc]: Textual amendment: Words in s. 24(1) substituted (5.5.2010) by [Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Wales) Order 2010 (S.I. 2010/1148)](https://www.legislation.gov.uk/uksi/2010/1148), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1148/article/1), [2](https://www.legislation.gov.uk/uksi/2010/1148/article/2)
+[^c-0d4304c948668ec068e8d10e60c0bedc]: Textual amendment: Words in s. 24(1) substituted (5.5.2010) by [Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Wales) Order 2010 (S.I. 2010/1148)](https://www.legislation.gov.uk/uksi/2010/1148), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1148/article/1), [2](https://www.legislation.gov.uk/uksi/2010/1148/article/2)
 
-[^key-dff28ac9a3f01a2f9e7c0ab283fba11b]: Textual amendment: Words in [s. 24(1)](https://www.legislation.gov.uk/mwa/2008/2/section/24/1) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [268(2)](https://www.legislation.gov.uk/wsi/2016/413/regulation/268/2)
+[^c-dff28ac9a3f01a2f9e7c0ab283fba11b]: Textual amendment: Words in [s. 24(1)](https://www.legislation.gov.uk/mwa/2008/2/section/24/1) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [268(2)](https://www.legislation.gov.uk/wsi/2016/413/regulation/268/2)
 
-[^key-8803284ed19973ac236a7accc651fc45]: Textual amendment: Words in [s. 24(2)](https://www.legislation.gov.uk/mwa/2008/2/section/24/2) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [268(3)](https://www.legislation.gov.uk/wsi/2016/413/regulation/268/3)
+[^c-8803284ed19973ac236a7accc651fc45]: Textual amendment: Words in [s. 24(2)](https://www.legislation.gov.uk/mwa/2008/2/section/24/2) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [268(3)](https://www.legislation.gov.uk/wsi/2016/413/regulation/268/3)
 
-[^key-dc7e178187f80aacad429e10401655e1]: Commencement: S. 25 in force for specified purposes at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
+[^c-dc7e178187f80aacad429e10401655e1]: Commencement: S. 25 in force for specified purposes at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
 
-[^key-6bb2245521fa21463d8fe7357230477a]: Commencement: S. 25 in force for specified purposes at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)
+[^c-6bb2245521fa21463d8fe7357230477a]: Commencement: S. 25 in force for specified purposes at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)
 
-[^key-b263d87444754f2dff5fe8e8833d54d2]: Commencement: S. 26 in force for specified purposes at 30.10.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2009/371/article/2/1/c)
+[^c-b263d87444754f2dff5fe8e8833d54d2]: Commencement: S. 26 in force for specified purposes at 30.10.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2009/371/article/2/1/c)
 
-[^key-34e460d800c52313bd26a5d1136aebc4]: Commencement: S. 26 in force for specified purposes at 30.10.2009 by [S.I. 2009/2819](https://www.legislation.gov.uk/uksi/2009/2819), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2009/2819/article/2/1/c)
+[^c-34e460d800c52313bd26a5d1136aebc4]: Commencement: S. 26 in force for specified purposes at 30.10.2009 by [S.I. 2009/2819](https://www.legislation.gov.uk/uksi/2009/2819), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2009/2819/article/2/1/c)
 
-[^key-a284bff25131283c194fd190751e9c49]: Commencement: S. 26 in force for specified purposes at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
+[^c-a284bff25131283c194fd190751e9c49]: Commencement: S. 26 in force for specified purposes at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
 
-[^key-7f0ae24e3a3b79b5d557411e6802256d]: Commencement: S. 26 in force for specified purposes at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)
+[^c-7f0ae24e3a3b79b5d557411e6802256d]: Commencement: S. 26 in force for specified purposes at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)
 
-[^key-85b09fc238fe9376c1c57df0b8b88db7]: Textual amendment: Words in s. 27(2)(a) inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 15(2)(a)](https://www.legislation.gov.uk/mwa/2011/6/section/15/2/a), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-85b09fc238fe9376c1c57df0b8b88db7]: Textual amendment: Words in s. 27(2)(a) inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 15(2)(a)](https://www.legislation.gov.uk/mwa/2011/6/section/15/2/a), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-0ad8ff664cee4865a57da3ffc16d07cb]: Textual amendment: S. 27(2)(aa) inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 15(2)(b)](https://www.legislation.gov.uk/mwa/2011/6/section/15/2/b), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-0ad8ff664cee4865a57da3ffc16d07cb]: Textual amendment: S. 27(2)(aa) inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 15(2)(b)](https://www.legislation.gov.uk/mwa/2011/6/section/15/2/b), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-34ec2d50e321ac4edaeece8bccb2d7a8]: Textual amendment: Words in s. 27(2)(b) inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 15(2)(c)](https://www.legislation.gov.uk/mwa/2011/6/section/15/2/c), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-34ec2d50e321ac4edaeece8bccb2d7a8]: Textual amendment: Words in s. 27(2)(b) inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 15(2)(c)](https://www.legislation.gov.uk/mwa/2011/6/section/15/2/c), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-ad2a30c3e77850c249a6ad527dc1dd1a]: Textual amendment: Words in s. 27(3) omitted (10.7.2011) by virtue of [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 15(3)](https://www.legislation.gov.uk/mwa/2011/6/section/15/3), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-ad2a30c3e77850c249a6ad527dc1dd1a]: Textual amendment: Words in s. 27(3) omitted (10.7.2011) by virtue of [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 15(3)](https://www.legislation.gov.uk/mwa/2011/6/section/15/3), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-1a190f378045d7f1121652a510e726c8]: Textual amendment: Words in s. 27(3) inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 15(3)](https://www.legislation.gov.uk/mwa/2011/6/section/15/3), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-1a190f378045d7f1121652a510e726c8]: Textual amendment: Words in s. 27(3) inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 15(3)](https://www.legislation.gov.uk/mwa/2011/6/section/15/3), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-3c50699c7ed4e036ad0e670dc55f1acb]: Textual amendment: S. 27(4A) inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 15(4)](https://www.legislation.gov.uk/mwa/2011/6/section/15/4), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-3c50699c7ed4e036ad0e670dc55f1acb]: Textual amendment: S. 27(4A) inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 15(4)](https://www.legislation.gov.uk/mwa/2011/6/section/15/4), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-104ba49ecdfd8e8597a7fad3104edd3a]: Textual amendment: Word in s. 27(7)(d) omitted (10.7.2011) by virtue of [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 15(5)(a)](https://www.legislation.gov.uk/mwa/2011/6/section/15/5/a), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-104ba49ecdfd8e8597a7fad3104edd3a]: Textual amendment: Word in s. 27(7)(d) omitted (10.7.2011) by virtue of [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 15(5)(a)](https://www.legislation.gov.uk/mwa/2011/6/section/15/5/a), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-db3e2228b5530aaa2e8b1e72158f24ea]: Textual amendment: S. 27(7)(da)(db) inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 15(5)(b)](https://www.legislation.gov.uk/mwa/2011/6/section/15/5/b), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-db3e2228b5530aaa2e8b1e72158f24ea]: Textual amendment: S. 27(7)(da)(db) inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [ss. 15(5)(b)](https://www.legislation.gov.uk/mwa/2011/6/section/15/5/b), [16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-c59b069e32d3cf23cae7368801f305fd]: Textual amendment: Sch. A1 inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2), [Sch.](https://www.legislation.gov.uk/mwa/2011/6/schedule)
+[^c-c59b069e32d3cf23cae7368801f305fd]: Textual amendment: Sch. A1 inserted (10.7.2011) by [Safety on Learner Transport (Wales) Measure 2011 (nawm 6)](https://www.legislation.gov.uk/mwa/2011/6), [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2), [Sch.](https://www.legislation.gov.uk/mwa/2011/6/schedule)
 
-[^key-7315dddb0d0223f04b971b5440beedcd]: Textual amendment: Words in [Sch. A1 para. 10(1)(a)](https://www.legislation.gov.uk/mwa/2008/2/schedule/A1/paragraph/10/1/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-7315dddb0d0223f04b971b5440beedcd]: Textual amendment: Words in [Sch. A1 para. 10(1)(a)](https://www.legislation.gov.uk/mwa/2008/2/schedule/A1/paragraph/10/1/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-ea81f6f077fe994b6891eb53da0d27e9]: Textual amendment: Words in [Sch. A1 para. 10(2)](https://www.legislation.gov.uk/mwa/2008/2/schedule/A1/paragraph/10/2) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-ea81f6f077fe994b6891eb53da0d27e9]: Textual amendment: Words in [Sch. A1 para. 10(2)](https://www.legislation.gov.uk/mwa/2008/2/schedule/A1/paragraph/10/2) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-3e73714ecebd20ed6911795df08b75f2]: Textual amendment: Words in [Sch. A1 para. 10(2)](https://www.legislation.gov.uk/mwa/2008/2/schedule/A1/paragraph/10/2) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-3e73714ecebd20ed6911795df08b75f2]: Textual amendment: Words in [Sch. A1 para. 10(2)](https://www.legislation.gov.uk/mwa/2008/2/schedule/A1/paragraph/10/2) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-93acdac9e134344ab3389c75c7243f0b]: Commencement: Sch. 1 para. 1 in force at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
+[^c-93acdac9e134344ab3389c75c7243f0b]: Commencement: Sch. 1 para. 1 in force at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
 
-[^key-a3129f2c767fb78a1c6ff41dc1ab68b8]: Commencement: Sch. 1 para. 2(1)(2)(a)(b) in force at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
+[^c-a3129f2c767fb78a1c6ff41dc1ab68b8]: Commencement: Sch. 1 para. 2(1)(2)(a)(b) in force at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
 
-[^key-cf39bb411fb9fde6e4ad82bf042ac7fd]: Commencement: Sch. 1 para. 2(2)(c)(3) in force in so far as not already in force at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
+[^c-cf39bb411fb9fde6e4ad82bf042ac7fd]: Commencement: Sch. 1 para. 2(2)(c)(3) in force in so far as not already in force at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
 
-[^key-f808db8a18d58b88795524bbac6fc568]: Commencement: Sch. 1 para. 2(2)(c)(3) in force for specified purposes at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)
+[^c-f808db8a18d58b88795524bbac6fc568]: Commencement: Sch. 1 para. 2(2)(c)(3) in force for specified purposes at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)
 
-[^key-daf8d411773564651f668a9e875fe205]: Commencement: Sch. 1 para. 3 in force at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
+[^c-daf8d411773564651f668a9e875fe205]: Commencement: Sch. 1 para. 3 in force at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
 
-[^key-35db1d034ddaa72f7cf0e36a7ce4f821]: Commencement: Sch. 1 para. 4(1)-(4) in force at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)
+[^c-35db1d034ddaa72f7cf0e36a7ce4f821]: Commencement: Sch. 1 para. 4(1)-(4) in force at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)
 
-[^key-cec574087c7dbcd71a513329a85a9052]: Commencement: Sch. 1 para. 4(5) in force at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
+[^c-cec574087c7dbcd71a513329a85a9052]: Commencement: Sch. 1 para. 4(5) in force at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
 
-[^key-639034346dd5547145c6c8f88f9ac5a8]: Commencement: Sch. 1 para. 5 in force at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
+[^c-639034346dd5547145c6c8f88f9ac5a8]: Commencement: Sch. 1 para. 5 in force at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
 
-[^key-06349a5faf49f3a4c0107b848ac66894]: Commencement: Sch. 2 in force for specified purposes at 30.10.2009 by [S.I. 2009/2819](https://www.legislation.gov.uk/uksi/2009/2819), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2009/2819/article/2/1/d)
+[^c-06349a5faf49f3a4c0107b848ac66894]: Commencement: Sch. 2 in force for specified purposes at 30.10.2009 by [S.I. 2009/2819](https://www.legislation.gov.uk/uksi/2009/2819), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2009/2819/article/2/1/d)
 
-[^key-56bca4639b1aeae855fd121d0ab90209]: Commencement: Sch. 2 in force for specified purposes at 30.10.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2009/371/article/2/1/d)
+[^c-56bca4639b1aeae855fd121d0ab90209]: Commencement: Sch. 2 in force for specified purposes at 30.10.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2009/371/article/2/1/d)
 
-[^key-1a853828cf03e9e685a912396075d08c]: Commencement: Sch. 2 in force for specified purposes at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
+[^c-1a853828cf03e9e685a912396075d08c]: Commencement: Sch. 2 in force for specified purposes at 1.9.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
 
-[^key-f9b90f65e1443217feb10e0359630c62]: Commencement: Sch. 2 in force for specified purposes at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)
+[^c-f9b90f65e1443217feb10e0359630c62]: Commencement: Sch. 2 in force for specified purposes at 6.3.2009 by [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/1)

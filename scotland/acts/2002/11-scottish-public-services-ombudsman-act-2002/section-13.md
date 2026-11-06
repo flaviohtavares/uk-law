@@ -49,11 +49,11 @@ who in the Ombudsman’s opinion is able to supply such information or to produc
 
 (9) Subject to subsections (5) and (6), no person is compelled, for the purposes of an investigation by the Ombudsman, to give any evidence or produce any document which that person could not be compelled to give or to produce in civil proceedings before the Court of Session.
 
-(10)[^key-e6b52e4d269f6508dac1f786893b29fe] Any reference in subsections (1) to (3) to the listed authority in question or to the listed authority includes, in relation to an investigation following a complaint, a reference to a listed authority—
+(10)[^c-e6b52e4d269f6508dac1f786893b29fe] Any reference in subsections (1) to (3) to the listed authority in question or to the listed authority includes, in relation to an investigation following a complaint, a reference to a listed authority—
 
 - (a) which is not mentioned in the complaint, but
 - (b) whose action is investigated by the Ombudsman in connection with the investigation.
 
 ## Annotations
 
-[^key-e6b52e4d269f6508dac1f786893b29fe]: Textual amendment: S. 13(10) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 4](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/4) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-e6b52e4d269f6508dac1f786893b29fe]: Textual amendment: S. 13(10) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 4](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/4) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))

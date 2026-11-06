@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Supply and delivery of infrastructure-related goods[^key-3fa8c025210d4ff4c2bd34960b434ccc]
+## 49. Supply and delivery of infrastructure-related goods[^c-3fa8c025210d4ff4c2bd34960b434ccc]
 
 *Extent: E+W+S+N.I.*
 
-(1) A person must not directly or indirectly supply or deliver infrastructure-related goods from a third country to a place in non-government controlled Ukrainian territory[^key-a9c3f0f30ac3e2da339bba68495bf04c].
+(1) A person must not directly or indirectly supply or deliver infrastructure-related goods from a third country to a place in non-government controlled Ukrainian territory[^c-a9c3f0f30ac3e2da339bba68495bf04c].
 
 (2) Paragraph (1) is subject to Part 7 (Exceptions and licences).
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3fa8c025210d4ff4c2bd34960b434ccc]: Commencement: Reg. 49 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-3fa8c025210d4ff4c2bd34960b434ccc]: Commencement: Reg. 49 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
-[^key-a9c3f0f30ac3e2da339bba68495bf04c]: Textual amendment: Words in [reg. 49](https://www.legislation.gov.uk/uksi/2019/855/regulation/49) substituted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [15(b)(iii)](https://www.legislation.gov.uk/uksi/2022/395/regulation/15/b/iii)
+[^c-a9c3f0f30ac3e2da339bba68495bf04c]: Textual amendment: Words in [reg. 49](https://www.legislation.gov.uk/uksi/2019/855/regulation/49) substituted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [15(b)(iii)](https://www.legislation.gov.uk/uksi/2022/395/regulation/15/b/iii)

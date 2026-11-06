@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Discounts[^key-5ea7faea7096b581017fda3c622f3fec]
+## 54. Discounts[^c-5ea7faea7096b581017fda3c622f3fec]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ There shall in every case be deducted from the claim all trade and other discoun
 
 ## Annotations
 
-[^key-5ea7faea7096b581017fda3c622f3fec]: Commencement: [Rule 54](https://www.legislation.gov.uk/uksi/2013/3208/rule/54) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-5ea7faea7096b581017fda3c622f3fec]: Commencement: [Rule 54](https://www.legislation.gov.uk/uksi/2013/3208/rule/54) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

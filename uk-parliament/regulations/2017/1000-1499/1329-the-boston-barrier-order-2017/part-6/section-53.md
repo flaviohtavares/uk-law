@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Statutory undertakers, etc.[^key-5d836f383b5caa6d13ecfc5435b695cc]
+## 53. Statutory undertakers, etc.[^c-5d836f383b5caa6d13ecfc5435b695cc]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 6 (statutory undertakers, etc.) has effect.
 
 ## Annotations
 
-[^key-5d836f383b5caa6d13ecfc5435b695cc]: Commencement: Art. 53 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-5d836f383b5caa6d13ecfc5435b695cc]: Commencement: Art. 53 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

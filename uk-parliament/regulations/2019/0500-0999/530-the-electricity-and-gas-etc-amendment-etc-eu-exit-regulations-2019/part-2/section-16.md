@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16.[^key-aa74d8783ad60a2e4726b38fa22c759a]
+## 16.[^c-aa74d8783ad60a2e4726b38fa22c759a]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ summary: ''
 
 > requirement—
 >
-> - (i) in accordance with Article 36 of the Gas Directive (new infrastructure) before IP completion day[^key-f1655328f4267db95578721c1e43fd54] and remains entitled to the benefit of it, or
+> - (i) in accordance with Article 36 of the Gas Directive (new infrastructure) before IP completion day[^c-f1655328f4267db95578721c1e43fd54] and remains entitled to the benefit of it, or
 > - (ii) on the basis set out in Article 36(1) to (3) and (6) of the Gas Directive and remains entitled to the benefit of it.
 
 .
@@ -55,11 +55,11 @@ summary: ''
 
 (7) After subsection (9) insert—
 
-> (10) For the purposes of subsection (4), Article 9(9) of the Gas Directive is to be treated as if the comparison with the provisions of Chapter 4 of the Gas Directive were a comparison with the provisions of Chapter 4 as they applied in relation to a member State immediately before IP completion day[^key-690b54c489070ace585a7b3b48061d51].
+> (10) For the purposes of subsection (4), Article 9(9) of the Gas Directive is to be treated as if the comparison with the provisions of Chapter 4 of the Gas Directive were a comparison with the provisions of Chapter 4 as they applied in relation to a member State immediately before IP completion day[^c-690b54c489070ace585a7b3b48061d51].
 >
 > (11) The references in subsection (5) to Article 14(1) and (2) of the Gas Directive are to be treated as references to those provisions with the following modifications—
 >
-> - (a)[^key-8e0a84a75ce91527c630e2cf59ab2eb6] Article 14(1) is to be read as if the second and third sentences were omitted;
+> - (a)[^c-8e0a84a75ce91527c630e2cf59ab2eb6] Article 14(1) is to be read as if the second and third sentences were omitted;
 > - (b) Article 14(2)(b) is to be read as if after “Article 13” there were inserted—
 >
 >   > as implemented in relation to Great Britain immediately before IP completion day, disregarding for this purpose—
@@ -77,10 +77,10 @@ summary: ''
 
 ## Annotations
 
-[^key-aa74d8783ad60a2e4726b38fa22c759a]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-aa74d8783ad60a2e4726b38fa22c759a]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-f1655328f4267db95578721c1e43fd54]: Textual amendment: Words in reg. 16(5) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(5)(a)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/5/a)
+[^c-f1655328f4267db95578721c1e43fd54]: Textual amendment: Words in reg. 16(5) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(5)(a)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/5/a)
 
-[^key-690b54c489070ace585a7b3b48061d51]: Textual amendment: Words in reg. 16(7) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(5)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/5/b/i)
+[^c-690b54c489070ace585a7b3b48061d51]: Textual amendment: Words in reg. 16(7) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(5)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/5/b/i)
 
-[^key-8e0a84a75ce91527c630e2cf59ab2eb6]: Textual amendment: Words in reg. 16(7) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/5/b/ii)
+[^c-8e0a84a75ce91527c630e2cf59ab2eb6]: Textual amendment: Words in reg. 16(7) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/5/b/ii)

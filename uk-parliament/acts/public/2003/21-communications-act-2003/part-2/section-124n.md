@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124N. Interpretation[^key-7b5331b33f86112eb6398dc4d1ca1922]
+## 124N. Interpretation[^c-7b5331b33f86112eb6398dc4d1ca1922]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ In sections 124A to 124M and this section—
 
 ## Annotations
 
-[^key-7b5331b33f86112eb6398dc4d1ca1922]: Textual amendment: S. 124N inserted (8.4.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 16(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/16/1), [47(2)(a)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/2/a)
+[^c-7b5331b33f86112eb6398dc4d1ca1922]: Textual amendment: S. 124N inserted (8.4.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 16(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/16/1), [47(2)(a)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/2/a)

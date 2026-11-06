@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 106BA. Modification or discharge of affordable housing requirements[^key-5e6dbd67b21c1b7020b27d5edabe4321]
+## 106BA. Modification or discharge of affordable housing requirements[^c-5e6dbd67b21c1b7020b27d5edabe4321]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e6dbd67b21c1b7020b27d5edabe4321]: Textual amendment: S. 106BA repealed (1.5.2016) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2013/27/section/7/4), [35(2)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/2)
+[^c-5e6dbd67b21c1b7020b27d5edabe4321]: Textual amendment: S. 106BA repealed (1.5.2016) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2013/27/section/7/4), [35(2)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/2)

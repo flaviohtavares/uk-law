@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Shipping sanctions[^key-929a0a392134733624f7321f57e86b96]
+## 7. Shipping sanctions[^c-929a0a392134733624f7321f57e86b96]
 
 *Extent: E+W+S+N.I.*
 
@@ -110,4 +110,4 @@ summary: ''
 
 ## Annotations
 
-[^key-929a0a392134733624f7321f57e86b96]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2018/13/section/7) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/a)
+[^c-929a0a392134733624f7321f57e86b96]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2018/13/section/7) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/a)

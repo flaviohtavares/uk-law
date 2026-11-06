@@ -34,7 +34,7 @@ This Statutory Instrument has been made in consequence of a defect in [SI 2009/3
 
 Agriculture, England
 
-The Agriculture (Cross compliance) (No. 2) Regulations 2009 (revoked)[^key-2359721f07082c0cc56e71ee1c8a6c30]
+The Agriculture (Cross compliance) (No. 2) Regulations 2009 (revoked)[^c-2359721f07082c0cc56e71ee1c8a6c30]
 
 Made
 
@@ -48,101 +48,101 @@ Coming into force
 
 15th January 2010
 
-[^key-2359721f07082c0cc56e71ee1c8a6c30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2359721f07082c0cc56e71ee1c8a6c30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-2359721f07082c0cc56e71ee1c8a6c30]
+## 1. Title, application and commencement[^c-2359721f07082c0cc56e71ee1c8a6c30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation[^key-2359721f07082c0cc56e71ee1c8a6c30]
+## 2. Designation[^c-2359721f07082c0cc56e71ee1c8a6c30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Standards of Good Agricultural and Environmental Condition[^key-2359721f07082c0cc56e71ee1c8a6c30]
+## 3. Standards of Good Agricultural and Environmental Condition[^c-2359721f07082c0cc56e71ee1c8a6c30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Permanent pasture[^key-2359721f07082c0cc56e71ee1c8a6c30]
+## 4. Permanent pasture[^c-2359721f07082c0cc56e71ee1c8a6c30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Competent control authorities[^key-2359721f07082c0cc56e71ee1c8a6c30]
+## 5. Competent control authorities[^c-2359721f07082c0cc56e71ee1c8a6c30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Powers of authorised persons[^key-2359721f07082c0cc56e71ee1c8a6c30]
+## 6. Powers of authorised persons[^c-2359721f07082c0cc56e71ee1c8a6c30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Obstruction[^key-2359721f07082c0cc56e71ee1c8a6c30]
+## 7. Obstruction[^c-2359721f07082c0cc56e71ee1c8a6c30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Revocation[^key-2359721f07082c0cc56e71ee1c8a6c30]
+## 8. Revocation[^c-2359721f07082c0cc56e71ee1c8a6c30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2359721f07082c0cc56e71ee1c8a6c30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2359721f07082c0cc56e71ee1c8a6c30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Standards of Good Agricultural and Environmental Condition[^key-2359721f07082c0cc56e71ee1c8a6c30]
+## SCHEDULE 1 — Standards of Good Agricultural and Environmental Condition[^c-2359721f07082c0cc56e71ee1c8a6c30]
 
 Regulation 3
 
-### 1. Specified provisions[^key-2359721f07082c0cc56e71ee1c8a6c30]
+### 1. Specified provisions[^c-2359721f07082c0cc56e71ee1c8a6c30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Soil Protection Review[^key-2359721f07082c0cc56e71ee1c8a6c30]
+### 2. Soil Protection Review[^c-2359721f07082c0cc56e71ee1c8a6c30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Overgrazing and unsuitable supplementary feeding[^key-2359721f07082c0cc56e71ee1c8a6c30]
+### 3. Overgrazing and unsuitable supplementary feeding[^c-2359721f07082c0cc56e71ee1c8a6c30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Directions by the Secretary of State[^key-2359721f07082c0cc56e71ee1c8a6c30]
+### 4. Directions by the Secretary of State[^c-2359721f07082c0cc56e71ee1c8a6c30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Management of land not in agricultural production[^key-2359721f07082c0cc56e71ee1c8a6c30]
+### 5. Management of land not in agricultural production[^c-2359721f07082c0cc56e71ee1c8a6c30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Control of weeds[^key-2359721f07082c0cc56e71ee1c8a6c30]
+### 6. Control of weeds[^c-2359721f07082c0cc56e71ee1c8a6c30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. “Hedgerows”[^key-2359721f07082c0cc56e71ee1c8a6c30]
+### 7. “Hedgerows”[^c-2359721f07082c0cc56e71ee1c8a6c30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Protection of hedgerows and watercourses[^key-2359721f07082c0cc56e71ee1c8a6c30]
+### 8. Protection of hedgerows and watercourses[^c-2359721f07082c0cc56e71ee1c8a6c30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Cutting or trimming hedgerows[^key-2359721f07082c0cc56e71ee1c8a6c30]
+### 9. Cutting or trimming hedgerows[^c-2359721f07082c0cc56e71ee1c8a6c30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Stone walls[^key-2359721f07082c0cc56e71ee1c8a6c30]
+### 10. Stone walls[^c-2359721f07082c0cc56e71ee1c8a6c30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Circumstances where a breach of Schedule 1 is not non-compliance[^key-2359721f07082c0cc56e71ee1c8a6c30]
+## SCHEDULE 2 — Circumstances where a breach of Schedule 1 is not non-compliance[^c-2359721f07082c0cc56e71ee1c8a6c30]
 
 Regulation 3
 
-**1.**[^key-2359721f07082c0cc56e71ee1c8a6c30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-2359721f07082c0cc56e71ee1c8a6c30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-2359721f07082c0cc56e71ee1c8a6c30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-2359721f07082c0cc56e71ee1c8a6c30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-2359721f07082c0cc56e71ee1c8a6c30]EXPLANATORY NOTE
+[^c-2359721f07082c0cc56e71ee1c8a6c30]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -154,4 +154,4 @@ A full impact assessment has been prepared and placed in the libraries of both H
 
 ## Annotations
 
-[^key-2359721f07082c0cc56e71ee1c8a6c30]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 (S.I. 2014/3263)](https://www.legislation.gov.uk/uksi/2014/3263), reg. 1(1), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/3263/schedule/5) (with [reg. 35](https://www.legislation.gov.uk/uksi/2014/3263/regulation/35))
+[^c-2359721f07082c0cc56e71ee1c8a6c30]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 (S.I. 2014/3263)](https://www.legislation.gov.uk/uksi/2014/3263), reg. 1(1), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/3263/schedule/5) (with [reg. 35](https://www.legislation.gov.uk/uksi/2014/3263/regulation/35))

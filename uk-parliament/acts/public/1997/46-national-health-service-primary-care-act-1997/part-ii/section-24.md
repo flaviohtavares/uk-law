@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-05dc21b2caac84edf62353f18e74228f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-05dc21b2caac84edf62353f18e74228f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In the 1978 Act, after section 17F, insert—
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05dc21b2caac84edf62353f18e74228f]: Textual amendment: S. 24(1) repealed (1.4.2006 for E., 1.4.2006 for W. for specified purposes) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [s. 199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/4) Note; [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925), [art. 11](https://www.legislation.gov.uk/uksi/2005/2925/article/11); [S.I. 2006/345](https://www.legislation.gov.uk/uksi/2006/345), [art. 7(2)(i)](https://www.legislation.gov.uk/uksi/2006/345/article/7/2/i)
+[^c-05dc21b2caac84edf62353f18e74228f]: Textual amendment: S. 24(1) repealed (1.4.2006 for E., 1.4.2006 for W. for specified purposes) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [s. 199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/4) Note; [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925), [art. 11](https://www.legislation.gov.uk/uksi/2005/2925/article/11); [S.I. 2006/345](https://www.legislation.gov.uk/uksi/2006/345), [art. 7(2)(i)](https://www.legislation.gov.uk/uksi/2006/345/article/7/2/i)

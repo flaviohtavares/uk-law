@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Extent[^key-46c9174f5be4eabeae5870f657912a32]
+## 117. Extent[^c-46c9174f5be4eabeae5870f657912a32]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-46c9174f5be4eabeae5870f657912a32]: Commencement: S. 117 in force at Royal Assent, see [s. 118(6)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/6/b)
+[^c-46c9174f5be4eabeae5870f657912a32]: Commencement: S. 117 in force at Royal Assent, see [s. 118(6)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/6/b)

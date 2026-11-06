@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Operating an electronic system for public offers of relevant securities[^key-8074019619fba78ca1d8adf12e0337de]
+## 46. Operating an electronic system for public offers of relevant securities[^c-8074019619fba78ca1d8adf12e0337de]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,7 +70,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8074019619fba78ca1d8adf12e0337de]: Commencement: Reg. 46 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-8074019619fba78ca1d8adf12e0337de]: Commencement: Reg. 46 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
 
 [^f00040]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544).
 

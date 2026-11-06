@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Consultation about regulations: Northern Ireland[^key-f45fa366020f548e2bde7003f72ab066]
+## 134. Consultation about regulations: Northern Ireland[^c-f45fa366020f548e2bde7003f72ab066]
 
 *Extent: N.I.*
 
@@ -91,4 +91,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f45fa366020f548e2bde7003f72ab066]: Commencement: [S. 134](https://www.legislation.gov.uk/ukpga/2014/12/section/134) in force at 1.9.2014 by [S.I. 2014/2125](https://www.legislation.gov.uk/uksi/2014/2125), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/2125/article/2/d)
+[^c-f45fa366020f548e2bde7003f72ab066]: Commencement: [S. 134](https://www.legislation.gov.uk/ukpga/2014/12/section/134) in force at 1.9.2014 by [S.I. 2014/2125](https://www.legislation.gov.uk/uksi/2014/2125), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/2125/article/2/d)

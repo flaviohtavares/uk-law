@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Access to works[^key-56f0525777a71a1662b643d9ae380397]
+## 15. Access to works[^c-56f0525777a71a1662b643d9ae380397]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The undertaker may, for the purposes of the authorised development, form and lay
 
 ## Annotations
 
-[^key-56f0525777a71a1662b643d9ae380397]: Commencement: Art. 15 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-56f0525777a71a1662b643d9ae380397]: Commencement: Art. 15 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)

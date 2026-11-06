@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56A. Finance: reporting obligations for required payments[^key-e9923e15e64551ca2b0f28709600eff6]
+## 56A. Finance: reporting obligations for required payments[^c-e9923e15e64551ca2b0f28709600eff6]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9923e15e64551ca2b0f28709600eff6]: Textual amendment: [Reg. 56A](https://www.legislation.gov.uk/uksi/2020/1665/regulation/56A) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [31(10)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/31/10)
+[^c-e9923e15e64551ca2b0f28709600eff6]: Textual amendment: [Reg. 56A](https://www.legislation.gov.uk/uksi/2020/1665/regulation/56A) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [31(10)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/31/10)

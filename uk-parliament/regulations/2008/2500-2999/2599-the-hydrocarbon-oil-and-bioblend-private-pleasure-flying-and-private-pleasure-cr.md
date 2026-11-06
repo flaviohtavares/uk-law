@@ -48,11 +48,11 @@ The Commissioners for Her Majesty’s Revenue and Customs make the following Reg
 
 ## PART 1 — CITATION, COMMENCEMENT AND INTERPRETATION
 
-### 1. Citation and commencement[^key-cf7b32e567bc37ae0dda32645c739643]
+### 1. Citation and commencement[^c-cf7b32e567bc37ae0dda32645c739643]
 
 These Regulations may be cited as the Hydrocarbon Oil and Bioblend (Private Pleasure-flying and Private Pleasure Craft) (Payment of Rebate etc.) Regulations 2008 and come into force on 1st November 2008.
 
-### 2. Interpretation[^key-60247d0f14f305f6defb95ff7066ef99]
+### 2. Interpretation[^c-60247d0f14f305f6defb95ff7066ef99]
 
 In these Regulations—
 
@@ -62,11 +62,11 @@ In these Regulations—
 
 ## PART 2 — PRIVATE PLEASURE-FLYING
 
-### 3. Declaration of intention to use rebated kerosene for private pleasure-flying[^key-8b150ab1eedafc8ff4207bc6691de110]
+### 3. Declaration of intention to use rebated kerosene for private pleasure-flying[^c-8b150ab1eedafc8ff4207bc6691de110]
 
 A declaration for the purposes of section 13AC(3) of the Act that a quantity of rebated kerosene is to be used for private pleasure–flying[^f00003] must be made in the way and form specified by the Commissioners in a notice published by them and not withdrawn by a further notice.
 
-### 4. Payment of rebate[^key-441180c3ef3c643d4cf2e62856247164]
+### 4. Payment of rebate[^c-441180c3ef3c643d4cf2e62856247164]
 
 (1) For the purposes of section 13AC of the Act (use of rebated kerosene for private pleasure-flying), where a person (“P”) is required to pay the rebate amount, that amount must be paid in accordance with this regulation.
 
@@ -89,11 +89,11 @@ A declaration for the purposes of section 13AC(3) of the Act that a quantity of 
 
 (7) P must sign, date and declare on the notification that the information provided in it is true and complete.
 
-### 5. Mixture of fuel in fuel tank[^key-dcae82d6be4f4d4b1e81c810d69f8534]
+### 5. Mixture of fuel in fuel tank[^c-dcae82d6be4f4d4b1e81c810d69f8534]
 
 Regulation 6 applies for the purposes of section 13AC (use of rebated kerosene for private pleasure-flying) and section 13AD (penalties for contravention of section 13AC) of the Act[^f00004].
 
-**6.**[^key-ee733f17dc1014fbc5e074d960ce9ae1] (1) Paragraphs (2) and (3) apply in cases where—
+**6.**[^c-ee733f17dc1014fbc5e074d960ce9ae1] (1) Paragraphs (2) and (3) apply in cases where—
 
 - (a) kerosene which must not be used as fuel for private pleasure –flying (“fuel A”); and
 - (b) other kerosene (“fuel B”)
@@ -106,11 +106,11 @@ are mixed together by being taken into a fuel tank of an aircraft.
 
 ## PART 3 — PRIVATE PLEASURE CRAFT
 
-### 7. Declaration of intention to use rebated heavy oil or bioblend as fuel for propelling private pleasure craft[^key-4f68810afe807ba4ee5c3e1d6cf1101d]
+### 7. Declaration of intention to use rebated heavy oil or bioblend as fuel for propelling private pleasure craft[^c-4f68810afe807ba4ee5c3e1d6cf1101d]
 
 A declaration for the purposes of section 14E(3) of the Act that a quantity of rebated heavy oil or bioblend is to be used as fuel for propelling a private pleasure craft[^f00005] must be made in the way and form specified by the Commissioners in a notice published by them and not withdrawn by a further notice.
 
-### 8. Payment of rebate[^key-11dea56f3ffe57578c6394574d1848b1]
+### 8. Payment of rebate[^c-11dea56f3ffe57578c6394574d1848b1]
 
 (1) Where a person who supplies a quantity of rebated heavy oil or bioblend that is to be used as fuel for propelling a private pleasure craft is required to pay the amount specified in section 14E(4) of the Act, that amount must be paid to the Commissioners at the address, or into the bank account, provided by them for the purpose.
 
@@ -120,11 +120,11 @@ A declaration for the purposes of section 14E(3) of the Act that a quantity of r
 
 (4) In paragraph (2) “return” means a return that a registered dealer in controlled oil is required to make by regulation 9 of the Hydrocarbon Oil (Registered Dealers in Controlled Oil) Regulations 2002[^f00006] specifically for the purposes of section 14E of the Act.
 
-### 9. Mixture of fuel in fuel tank[^key-468a29720b359e931c947c6804b012f5]
+### 9. Mixture of fuel in fuel tank[^c-468a29720b359e931c947c6804b012f5]
 
 Regulation 10 applies for the purposes of section 14E (rebated heavy oil and bioblend: private pleasure craft) and section 14F (penalties for contravention of section 14E) of the Act[^f00007].
 
-**10.**[^key-374d3047bc9518b8d1e62049ddc49f84] (1) Paragraphs (2) and (3) apply in cases where—
+**10.**[^c-374d3047bc9518b8d1e62049ddc49f84] (1) Paragraphs (2) and (3) apply in cases where—
 
 - (a) heavy oil or bioblend which must not be used as fuel for propelling private pleasure craft (“fuel C”); and
 - (b) other heavy oil or bioblend (“fuel D”)
@@ -135,7 +135,7 @@ are mixed together by being taken into the fuel tank of a craft.
 
 (3) When the craft is being used other than as a private pleasure craft the fuel in the mixture that is fuel C shall be treated as being used before the fuel in the mixture that is fuel D.
 
-### 11. Northern Ireland[^key-906bf28b004806032f64b817c7aa87d4]
+### 11. Northern Ireland[^c-906bf28b004806032f64b817c7aa87d4]
 
 (1) This Part does not apply in relation to fuel supplied for use in private pleasure craft in Northern Ireland on or after 1st October 2021.
 
@@ -165,38 +165,38 @@ A full and final Impact Assessment of the effect that sections 13AC and 14E of t
 
 [^f00001]: Footnote: [1979 c.5](https://www.legislation.gov.uk/ukpga/1979/5); sections 13AC and 14E were inserted respectively by the Finance Act [2008 (c.9)](https://www.legislation.gov.uk/ukpga/2008/9), Schedule 6, paragraphs 11 and 15. Section 24(1) was amended by the Finance Act [1987 (c.16)](https://www.legislation.gov.uk/ukpga/1987/16) section 1(2) and (4), the Finance Act [1996 (c.8)](https://www.legislation.gov.uk/ukpga/1996/8), sections 5(1), (5), 7(2), 205, Schedule 41, the Finance Act [1997 (c.16)](https://www.legislation.gov.uk/ukpga/1997/16), sections 7(7), the Finance Act [2001 (c.9)](https://www.legislation.gov.uk/ukpga/2001/9), section 3(2) and the Finance Act [2008 (c.9)](https://www.legislation.gov.uk/ukpga/2008/9), Schedule 5, paragraph 20 and Schedule 6, paragraphs 5, 16 and 31. Section 27(3) adopts for the purposes of the Act or any instrument made under the Act the definition of “the Commissioners” in section 1(1) of the Customs and Excise Management Act [1979 (c.2)](https://www.legislation.gov.uk/ukpga/1979/2) (as substituted by the Commissioners for Revenue and Customs Act [2005 (c.11)](https://www.legislation.gov.uk/ukpga/2005/11), Schedule 4, paragraph 22), namely “the Commissioners” means “the Commissioners for Her Majesty’s Revenue and Customs”.
 
-[^key-cf7b32e567bc37ae0dda32645c739643]: Commencement: Reg. 1 in force at 1.11.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2599/regulation/1)
+[^c-cf7b32e567bc37ae0dda32645c739643]: Commencement: Reg. 1 in force at 1.11.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2599/regulation/1)
 
-[^key-60247d0f14f305f6defb95ff7066ef99]: Commencement: Reg. 2 in force at 1.11.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2599/regulation/1)
+[^c-60247d0f14f305f6defb95ff7066ef99]: Commencement: Reg. 2 in force at 1.11.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2599/regulation/1)
 
 [^f00002]: Footnote: [1882 (c.61)](https://www.legislation.gov.uk/ukpga/1882/61); section 92 has been amended by the Banking and Financial Dealings Act [1971 (c.80)](https://www.legislation.gov.uk/ukpga/1971/80), sections 3(1), (3) and 4(4).
 
-[^key-8b150ab1eedafc8ff4207bc6691de110]: Commencement: Reg. 3 in force at 1.11.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2599/regulation/1)
+[^c-8b150ab1eedafc8ff4207bc6691de110]: Commencement: Reg. 3 in force at 1.11.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2599/regulation/1)
 
 [^f00003]: Footnote: Section 13AC(7) of the Act provides that “private pleasure-flying” has the same meaning as in Article 14(1)(b) of Council Directive [2003/96/EC](https://www.legislation.gov.uk/european/directive/2003/0096) (taxation of energy products etc.) (OJ:L 283, 31.10.2003, p51). That is to say, the use of an aircraft by its owner or the natural or legal person who enjoys its use either through hire or through any other means, for other than commercial purposes and in particular other than for the carriage of passengers or goods or for the supply of services for consideration or for the purposes of public authorities.
 
-[^key-441180c3ef3c643d4cf2e62856247164]: Commencement: Reg. 4 in force at 1.11.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2599/regulation/1)
+[^c-441180c3ef3c643d4cf2e62856247164]: Commencement: Reg. 4 in force at 1.11.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2599/regulation/1)
 
-[^key-dcae82d6be4f4d4b1e81c810d69f8534]: Commencement: Reg. 5 in force at 1.11.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2599/regulation/1)
+[^c-dcae82d6be4f4d4b1e81c810d69f8534]: Commencement: Reg. 5 in force at 1.11.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2599/regulation/1)
 
 [^f00004]: Footnote: Section 13AD was inserted by the Finance Act [2008 (c.9)](https://www.legislation.gov.uk/ukpga/2008/9), Schedule 6, paragraph 11.
 
-[^key-ee733f17dc1014fbc5e074d960ce9ae1]: Commencement: Reg. 6 in force at 1.11.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2599/regulation/1)
+[^c-ee733f17dc1014fbc5e074d960ce9ae1]: Commencement: Reg. 6 in force at 1.11.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2599/regulation/1)
 
-[^key-4f68810afe807ba4ee5c3e1d6cf1101d]: Commencement: Reg. 7 in force at 1.11.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2599/regulation/1)
+[^c-4f68810afe807ba4ee5c3e1d6cf1101d]: Commencement: Reg. 7 in force at 1.11.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2599/regulation/1)
 
 [^f00005]: Footnote: Section 14E(8) of the Act provides that “private pleasure craft” has the same meaning as in Article 14(1)(c) of Council Directive [2003/96/EC](https://www.legislation.gov.uk/european/directive/2003/0096) (taxation of energy products etc.). That is to say, any craft used by its owner or the natural or legal person who enjoys its use either through hire or through any other means, for other than commercial purposes and in particular other than for the carriage of passengers or goods or for the supply of services for consideration or for the purposes of public authorities.
 
-[^key-11dea56f3ffe57578c6394574d1848b1]: Commencement: Reg. 8 in force at 1.11.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2599/regulation/1)
+[^c-11dea56f3ffe57578c6394574d1848b1]: Commencement: Reg. 8 in force at 1.11.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2599/regulation/1)
 
 [^f00006]: Footnote: [S.I.2002/3057](https://www.legislation.gov.uk/uksi/2002/3057), to which there is an amendment not relevant to these Regulations.
 
-[^key-468a29720b359e931c947c6804b012f5]: Commencement: Reg. 9 in force at 1.11.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2599/regulation/1)
+[^c-468a29720b359e931c947c6804b012f5]: Commencement: Reg. 9 in force at 1.11.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2599/regulation/1)
 
 [^f00007]: Footnote: Section 14F was inserted by the Finance Act [2008 (c.9)](https://www.legislation.gov.uk/ukpga/2008/9), Schedule 6, paragraph 15.
 
-[^key-374d3047bc9518b8d1e62049ddc49f84]: Commencement: Reg. 10 in force at 1.11.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2599/regulation/1)
+[^c-374d3047bc9518b8d1e62049ddc49f84]: Commencement: Reg. 10 in force at 1.11.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2599/regulation/1)
 
-[^key-906bf28b004806032f64b817c7aa87d4]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2008/2599/regulation/11) inserted (1.10.2021) by [The Hydrocarbon Oil and Biofuels (Northern Ireland Private Pleasure Craft) Regulations 2021 (S.I. 2021/780)](https://www.legislation.gov.uk/uksi/2021/780), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/780/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2021/780/regulation/10) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/780/regulation/1/3)[(6)](https://www.legislation.gov.uk/uksi/2021/780/regulation/1/6))
+[^c-906bf28b004806032f64b817c7aa87d4]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2008/2599/regulation/11) inserted (1.10.2021) by [The Hydrocarbon Oil and Biofuels (Northern Ireland Private Pleasure Craft) Regulations 2021 (S.I. 2021/780)](https://www.legislation.gov.uk/uksi/2021/780), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/780/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2021/780/regulation/10) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/780/regulation/1/3)[(6)](https://www.legislation.gov.uk/uksi/2021/780/regulation/1/6))
 
 [^f00008]: Footnote: OJ:L283, 31.10.2003, p.51.

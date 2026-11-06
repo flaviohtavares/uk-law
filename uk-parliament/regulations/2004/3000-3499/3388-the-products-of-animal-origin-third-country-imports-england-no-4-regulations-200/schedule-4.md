@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Provisions Where Due Diligence Defence is Available[^key-272a206e0599176427c8245bcf4904d5]
+## SCHEDULE 4 — Provisions Where Due Diligence Defence is Available[^c-272a206e0599176427c8245bcf4904d5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,62 +24,62 @@ summary: ''
 
 Regulation 61(1)
 
-[^key-272a206e0599176427c8245bcf4904d5]
+[^c-272a206e0599176427c8245bcf4904d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-272a206e0599176427c8245bcf4904d5]
+[^c-272a206e0599176427c8245bcf4904d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-272a206e0599176427c8245bcf4904d5]
+[^c-272a206e0599176427c8245bcf4904d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-272a206e0599176427c8245bcf4904d5]
+[^c-272a206e0599176427c8245bcf4904d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-272a206e0599176427c8245bcf4904d5]
+[^c-272a206e0599176427c8245bcf4904d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-272a206e0599176427c8245bcf4904d5]
+[^c-272a206e0599176427c8245bcf4904d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-272a206e0599176427c8245bcf4904d5]
+[^c-272a206e0599176427c8245bcf4904d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-272a206e0599176427c8245bcf4904d5]
+[^c-272a206e0599176427c8245bcf4904d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-272a206e0599176427c8245bcf4904d5]
+[^c-272a206e0599176427c8245bcf4904d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-272a206e0599176427c8245bcf4904d5]
+[^c-272a206e0599176427c8245bcf4904d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-272a206e0599176427c8245bcf4904d5]
+[^c-272a206e0599176427c8245bcf4904d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-272a206e0599176427c8245bcf4904d5]
+[^c-272a206e0599176427c8245bcf4904d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-272a206e0599176427c8245bcf4904d5]
+[^c-272a206e0599176427c8245bcf4904d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-272a206e0599176427c8245bcf4904d5]
+[^c-272a206e0599176427c8245bcf4904d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-272a206e0599176427c8245bcf4904d5]: Textual amendment: Regulations revoked (24.11.2006) by [The Products of Animal Origin (Third Country Imports) (England) Regulations 2006 (S.I. 2006/2841)](https://www.legislation.gov.uk/uksi/2006/2841), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2841/regulation/1), [71](https://www.legislation.gov.uk/uksi/2006/2841/regulation/71)
+[^c-272a206e0599176427c8245bcf4904d5]: Textual amendment: Regulations revoked (24.11.2006) by [The Products of Animal Origin (Third Country Imports) (England) Regulations 2006 (S.I. 2006/2841)](https://www.legislation.gov.uk/uksi/2006/2841), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2841/regulation/1), [71](https://www.legislation.gov.uk/uksi/2006/2841/regulation/71)

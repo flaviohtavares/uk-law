@@ -54,14 +54,14 @@ Now, therefore, that Department, being a Department designated[^f00004] for the 
 
 ## Part I — Interpretation and General
 
-### 1. Citation and commencement[^key-1c45e2171d5fcb2372c93bb80c2326f6]
+### 1. Citation and commencement[^c-1c45e2171d5fcb2372c93bb80c2326f6]
 
 These Regulations may be cited as the Ionising Radiations Regulations (Northern Ireland) 2000 and shall come into operation—
 
 - (a) as respects all regulations except for regulation 5, on 8th January 2001; and
 - (b) as respects regulation 5, on 13th May 2001.
 
-### 2. Interpretation[^key-030ac968730dd4d368a8863be92c5f43]
+### 2. Interpretation[^c-030ac968730dd4d368a8863be92c5f43]
 
 (1) In these Regulations—
 
@@ -163,7 +163,7 @@ These Regulations may be cited as the Ionising Radiations Regulations (Northern 
 
 (7) The Interpretation Act (Northern Ireland) 1954[^f00014] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-### 3. Application[^key-9fd9557365d1955c89621f630fb31ce8][^key-986b292be01da2f32f6cbbcf1a5f2e01]
+### 3. Application[^c-9fd9557365d1955c89621f630fb31ce8][^c-986b292be01da2f32f6cbbcf1a5f2e01]
 
 (1) Subject to the provisions of this regulation and to regulation 6(1), these Regulations shall apply to—
 
@@ -182,21 +182,21 @@ These Regulations may be cited as the Ionising Radiations Regulations (Northern 
 - (a) where the employer is established in Great Britain, regulations 21 and 24 of the Great Britain Regulations; or
 - (b) where the employer is established in another member State, the legislation in that State implementing Chapters II and III of Title VI of the Directive where such legislation exists.
 
-### 4. Duties under the Regulations[^key-13c50f1a6714188fc32e9fe9042f75c2]
+### 4. Duties under the Regulations[^c-13c50f1a6714188fc32e9fe9042f75c2]
 
 (1) Any duty imposed by these Regulations on an employer in respect of the exposure to ionising radiation of persons other than his employees shall be imposed only in so far as the exposure of those persons to ionising radiation arises from work with ionising radiation undertaken by that employer.
 
-(2)[^key-30296df9a44d35e17aa2b1c99e3baae3] Duties under these Regulations imposed upon the employer shall also be imposed upon the mine operator of a mine (within the meaning of regulation 3 of the Mines Regulations (Northern Ireland) 2016) in so far as those duties relate to the mine of which he is the mine operator and to matters under his control.
+(2)[^c-30296df9a44d35e17aa2b1c99e3baae3] Duties under these Regulations imposed upon the employer shall also be imposed upon the mine operator of a mine (within the meaning of regulation 3 of the Mines Regulations (Northern Ireland) 2016) in so far as those duties relate to the mine of which he is the mine operator and to matters under his control.
 
-(3)[^key-1906476daaa09b93b97468279f80c32d] Duties under these Regulations imposed upon the employer shall also be imposed upon the operator of a quarry (within the meaning of regulation 3 of the Quarries Regulations (Northern Ireland) 2006) in so far as those duties relate to the quarry or part of the quarry of which he is the occupier and to matters under his control.
+(3)[^c-1906476daaa09b93b97468279f80c32d] Duties under these Regulations imposed upon the employer shall also be imposed upon the operator of a quarry (within the meaning of regulation 3 of the Quarries Regulations (Northern Ireland) 2006) in so far as those duties relate to the quarry or part of the quarry of which he is the occupier and to matters under his control.
 
 (4) Subject to regulation 6(1)(*b*), duties under these Regulations imposed upon the employer shall also be imposed on the holder of a nuclear site licence under the Nuclear Installations Act 1965 in so far as those duties relate to the licensed site.
 
-(5)[^key-12570e32c60bd5ae40815163f8330cec] In this regulation, “mine operator” has the meaning given by regulation 2(1) of the Mines Regulations (Northern Ireland) 2016.
+(5)[^c-12570e32c60bd5ae40815163f8330cec] In this regulation, “mine operator” has the meaning given by regulation 2(1) of the Mines Regulations (Northern Ireland) 2016.
 
 ## Part II — General Principles and Procedures
 
-### 5. Authorisation of specified practices[^key-fee991fa77a332245040253dddc2c45c]
+### 5. Authorisation of specified practices[^c-fee991fa77a332245040253dddc2c45c]
 
 (1) Subject to paragraph (2), a radiation employer shall not, except in accordance with a prior authorisation granted by the Executive in writing for the purposes of this paragraph, carry out the following practices—
 
@@ -225,7 +225,7 @@ may appeal to the Department of Enterprise, Trade and Investment.
 
 (6) Chapter I of the Schedule to the Deregulation (Model Appeal Provisions) Order (Northern Ireland) 1997[^f00017] shall apply to any appeal made under paragraph (5).
 
-### 6. Notification of specified work[^key-677573beb006d5e8b74793726d095079]
+### 6. Notification of specified work[^c-677573beb006d5e8b74793726d095079]
 
 (1) This regulation shall apply to work with ionising radiation except—
 
@@ -248,7 +248,7 @@ may appeal to the Department of Enterprise, Trade and Investment.
 
 (9) Where in respect of work with ionising radiation carried out prior to the coming into operation of these Regulations notification has been given to the Executive pursuant to any statutory requirement, the provisions of this regulation shall apply to such notification as if that notification had been given in accordance with paragraph (2).
 
-### 7. Prior risk assessment etc.[^key-619b7426d7c4ffc5e02973c094d12cf2]
+### 7. Prior risk assessment etc.[^c-619b7426d7c4ffc5e02973c094d12cf2]
 
 (1) Before a radiation employer commences a new activity involving work with ionising radiation in respect of which no risk assessment has been made by him, he shall make a suitable and sufficient assessment of the risk to any employee and other person for the purpose of identifying the measures he needs to take to restrict the exposure of that employee or other person to ionising radiation.
 
@@ -265,7 +265,7 @@ may appeal to the Department of Enterprise, Trade and Investment.
 
 (4) The requirements of this regulation are without prejudice to the requirements of regulation 3 (Risk assessment) of the Management of Health and Safety at Work Regulations (Northern Ireland) 1992[^f00019].
 
-### 8. Restriction of exposure[^key-26c4bde4d6fc03762ebafb61d771164b]
+### 8. Restriction of exposure[^c-26c4bde4d6fc03762ebafb61d771164b]
 
 (1) Every radiation employer shall, in relation to any work with ionising radiation that he undertakes, take all necessary steps to restrict so far as reasonably practicable the extent to which his employees and other persons are exposed to ionising radiation.
 
@@ -288,7 +288,7 @@ may appeal to the Department of Enterprise, Trade and Investment.
 
 (7) Every employer shall, for the purpose of determining whether the requirements of paragraph (1) are being met, ensure that an investigation is carried out forthwith when the effective dose of ionising radiation received by any of his employees for the first time in any calendar year exceeds 15m Sv or such other lower effective dose as the employer may specify, which dose shall be specified in writing in local rules made pursuant to regulation 17(1) or, where local rules are not required, by other suitable means.
 
-### 9. Personal protective equipment[^key-50e4641e49feb01a85c1fc51fc0bf430]
+### 9. Personal protective equipment[^c-50e4641e49feb01a85c1fc51fc0bf430]
 
 (1) Any personal protective equipment provided by an employer pursuant to regulation 8 shall comply with any provision in the Personal Protective Equipment (EC Directive) Regulations 1992[^f00020] which is applicable to that item of personal protective equipment.
 
@@ -299,7 +299,7 @@ may appeal to the Department of Enterprise, Trade and Investment.
 
 (3) Every radiation employer shall ensure that appropriate accommodation is provided for personal protective equipment when it is not being worn.
 
-### 10. Maintenance and examination of engineering controls etc. and personal protective equipment[^key-926e66c57ddd605092475fb371763cf5]
+### 10. Maintenance and examination of engineering controls etc. and personal protective equipment[^c-926e66c57ddd605092475fb371763cf5]
 
 (1) A radiation employer who provides any engineering control, design feature, safety feature or warning device to meet the requirements of regulation 8(2)(*a*) shall ensure—
 
@@ -308,13 +308,13 @@ may appeal to the Department of Enterprise, Trade and Investment.
 
 (2) Every radiation employer shall ensure that all personal protective equipment provided pursuant to regulation 8 is, where appropriate, thoroughly examined at suitable intervals and is properly maintained and that, in the case of respiratory protective equipment, a suitable record of that examination is made and kept for at least two years from the date on which the examination was made and that the record includes a statement of the condition of the equipment at the time of the examination.
 
-### 11. Dose limitation[^key-d3c63e344bfe43469ca149ce6fef8fc8][^key-e9cb02fbffe1ccd967eb74251e390aa8]
+### 11. Dose limitation[^c-d3c63e344bfe43469ca149ce6fef8fc8][^c-e9cb02fbffe1ccd967eb74251e390aa8]
 
 (1) Subject to paragraph (2) and to paragraph 5 of Schedule 4, every employer shall ensure that his employees and other persons within a class specified in Schedule 4 are not exposed to ionising radiation to an extent that any dose limit specified in Part I of that Schedule for such class of person is exceeded in any calendar year.
 
 (2) Where an employer is able to demonstrate in respect of any employee that the dose limit specified in paragraph 1 of Part I of Schedule 4 is impracticable having regard to the nature of the work undertaken by that employee, the employer may in respect of that employee apply the dose limits set out in paragraphs 9 to 11 of that Schedule and in such case the provisions of Part II of the Schedule shall have effect.
 
-### 12. Contingency plans[^key-2175ccfe1f533a373a565b37e9274730]
+### 12. Contingency plans[^c-2175ccfe1f533a373a565b37e9274730]
 
 (1) Where the assessment made in accordance with regulation 7 shows that a radiation accident is reasonably foreseeable (having regard to the steps taken by the radiation employer under paragraph (3) of that regulation), the radiation employer shall prepare a contingency plan designed to secure, so far as is reasonably practicable, the restriction of exposure to ionising radiation and the health and safety of persons who may be affected by such accident.
 
@@ -326,7 +326,7 @@ may appeal to the Department of Enterprise, Trade and Investment.
 
 ## Part III — Arrangements for the Management of Radiation Protection
 
-### 13. Radiation protection adviser[^key-cf13604a9fe09863e44ca62eedb44076]
+### 13. Radiation protection adviser[^c-cf13604a9fe09863e44ca62eedb44076]
 
 (1) Subject to paragraph (3), every radiation employer shall consult such suitable radiation protection advisers as are necessary for the purpose of advising the radiation employer as to the observance of these Regulations and shall, in any event, consult one or more radiation protection advisers with regard to those matters which are set out in Schedule 5.
 
@@ -336,9 +336,9 @@ may appeal to the Department of Enterprise, Trade and Investment.
 
 (4) The radiation employer shall provide any radiation protection adviser appointed by him with adequate information and facilities for the performance of his functions.
 
-### 14. Information, instruction and training[^key-8b311d3a6539cf2b169a19f2a59338a2]
+### 14. Information, instruction and training[^c-8b311d3a6539cf2b169a19f2a59338a2]
 
-[^key-a05520f6a61615d9afc2e2402a79c6cd]
+[^c-a05520f6a61615d9afc2e2402a79c6cd]
 
 Every employer shall ensure that—
 
@@ -351,13 +351,13 @@ Every employer shall ensure that—
   - (i) after becoming aware of their pregnancy; or
   - (ii) if they are breast feeding.
 
-### 15. Co-operation between employers[^key-231a2e0c88fafb910f4352c3f8736319]
+### 15. Co-operation between employers[^c-231a2e0c88fafb910f4352c3f8736319]
 
 Where work with ionising radiation undertaken by one employer is likely to give rise to the exposure to ionising radiation of the employee of another employer, the employers concerned shall co-operate by the exchange of information or otherwise to the extent necessary to ensure that each such employer is enabled to comply with the requirements of these Regulations in so far as his ability to comply depends upon such co-operation.
 
 ## Part IV — Designated Areas
 
-### 16. Designation of controlled or supervised areas[^key-2ac1898e8c80208fa47cad97cd0d0902]
+### 16. Designation of controlled or supervised areas[^c-2ac1898e8c80208fa47cad97cd0d0902]
 
 (1) Every employer shall designate as a controlled area any area under his control which has been identified by an assessment made by him (whether pursuant to regulation 7 or otherwise) as an area in which—
 
@@ -371,7 +371,7 @@ Where work with ionising radiation undertaken by one employer is likely to give 
 - (a) where it is necessary to keep the conditions of the area under review to determine whether the area should be designated as a controlled area; or
 - (b) in which any person is likely to receive an effective dose greater than 1mSv a year or an equivalent dose greater than one-tenth of any relevant dose limit referred to in Schedule 4 in respect of an employee aged 18 years or above.
 
-### 17. Local rules and radiation protection supervisors[^key-02a0141841ada6fe7f54de3645a50006]
+### 17. Local rules and radiation protection supervisors[^c-02a0141841ada6fe7f54de3645a50006]
 
 (1) For the purposes of enabling work with ionising radiation to be carried on in accordance with the requirements of these Regulations, every radiation employer shall, in respect of any controlled area or, where appropriate having regard to the nature of the work carried out there, any supervised area, make and set down in writing such local rules as are appropriate to the radiation risk and the nature of the operations undertaken in that area.
 
@@ -384,7 +384,7 @@ Where work with ionising radiation undertaken by one employer is likely to give 
 - (a) appoint one or more suitable radiation protection supervisors for the purpose of securing compliance with these Regulations in respect of work carried out in any area made subject to local rules pursuant to paragraph (1); and
 - (b) set down in the local rules the names of such individuals so appointed.
 
-### 18. Additional requirements for designated areas[^key-699737554c3ba209f00fd1b8e69e4def]
+### 18. Additional requirements for designated areas[^c-699737554c3ba209f00fd1b8e69e4def]
 
 (1) Every employer who designates any area as a controlled or supervised area shall ensure that any such designated area is adequately described in local rules and that—
 
@@ -424,7 +424,7 @@ Where work with ionising radiation undertaken by one employer is likely to give 
 - (c) the prohibition of eating, drinking or smoking or similar activity likely to result in the ingestion of a radioactive substance by any employee in a controlled area; and
 - (d) the means for monitoring for contamination any person, article or goods leaving a controlled area.
 
-### 19. Monitoring of designated areas[^key-adc424bd49748ee019c20273d7293ef5]
+### 19. Monitoring of designated areas[^c-adc424bd49748ee019c20273d7293ef5]
 
 (1) Every employer who designates an area as a controlled or supervised area shall take such steps as are necessary (otherwise than by use of assessed doses of individuals), having regard to the nature and extent of the risks resulting from exposure to ionising radiation, to ensure that levels of ionising radiation are adequately monitored for each such area and that working conditions in those areas are kept under review.
 
@@ -446,7 +446,7 @@ Where work with ionising radiation undertaken by one employer is likely to give 
 
 ## Part V — Classification and Monitoring of Persons
 
-### 20. Designation of classified persons[^key-dbcb36a07d4133375b33343e6ff4a859]
+### 20. Designation of classified persons[^c-dbcb36a07d4133375b33343e6ff4a859]
 
 (1) Subject to paragraph (2), the employer shall designate as classified persons those of his employees who are likely to receive an effective dose in excess of 6mSv per year or an equivalent dose which exceeds three-tenths of any relevant dose limit and shall forthwith inform those employees that they have been so designated.
 
@@ -460,7 +460,7 @@ Where work with ionising radiation undertaken by one employer is likely to give 
 - (a) an appointed doctor or employment medical adviser so requires; or
 - (b) the employee is no longer employed by the same employer in a capacity which is likely to result in significant exposure to ionising radiation during the remainder of the relevant calendar year.
 
-### 21. Dose assessment and recording[^key-7e73b9dc79763251f7161d8e4cb82ffe]
+### 21. Dose assessment and recording[^c-7e73b9dc79763251f7161d8e4cb82ffe]
 
 (1) Every employer shall ensure that—
 
@@ -500,7 +500,7 @@ Where work with ionising radiation undertaken by one employer is likely to give 
 
 (7) The employer shall keep a copy of the summary of the dose record received from the approved dosimetry service for at least 2 years from the end of the calendar year to which the summary relates.
 
-### 22. Estimated doses and special entries[^key-e781e61174542b0e05cb94906ce82b67]
+### 22. Estimated doses and special entries[^c-e781e61174542b0e05cb94906ce82b67]
 
 (1) Where a dosemeter or other device is used to make any individual measurement under regulation 21(2) and that dosemeter or device is lost, damaged or destroyed or it is not practicable to assess the dose received by a classified person over any period, the employer shall make an adequate investigation of the circumstances of the case with a view to estimating the dose received by that person during that period and either—
 
@@ -538,7 +538,7 @@ the employer shall, if so directed by the Executive, re-instate the original ent
 - (b) the cumulative recorded effective dose is 20mSv or more in one calendar year; or
 - (b) the cumulative recorded equivalent dose for the calendar year exceeds a relevant dose limit.
 
-### 23. Dosimetry for accidents etc.[^key-f7ac2c6a029d79a4e8bcc1afa5bf4a52]
+### 23. Dosimetry for accidents etc.[^c-f7ac2c6a029d79a4e8bcc1afa5bf4a52]
 
 (1) Where any accident or other occurrence takes place which is likely to result in a person receiving an effective dose of ionising radiation exceeding 6mSv or an equivalent dose greater than three-tenths of any relevant dose limit, the employer shall—
 
@@ -551,7 +551,7 @@ the employer shall, if so directed by the Executive, re-instate the original ent
 - (a) take all reasonably practicable steps to inform each person for whom a dose assessment has been made of the result of that assessment; and
 - (b) keep a record of the assessment or a copy thereof until the person to whom the record relates has or would have attained the age of 75 years but in any event for at least 50 years from the date of the relevant accident.
 
-### 24. Medical surveillance[^key-c1c25fda1008c654c70e4786e69642a9]
+### 24. Medical surveillance[^c-c1c25fda1008c654c70e4786e69642a9]
 
 (1) This regulation shall apply in relation to—
 
@@ -579,7 +579,7 @@ the employer shall, if so directed by the Executive, re-instate the original ent
 
 (9) Where an employee is aggrieved by a decision recorded in the health record by an appointed doctor or employment medical adviser he may, by an application in writing to the Executive made within 3 months of the date on which he was notified of the decision, apply for that decision to be reviewed in accordance with a procedure approved for the purposes of this paragraph by the Executive, and the result of that review shall be notified to the employee and entered in his health record in accordance with the approved procedure.
 
-### 25. Investigation and notification of overexposure[^key-d1a2150351101428954cf60c92a4ea0d]
+### 25. Investigation and notification of overexposure[^c-d1a2150351101428954cf60c92a4ea0d]
 
 (1) Where a radiation employer suspects or has been informed that any person is likely to have received an overexposure as a result of work carried out by that employer, that employer shall make an immediate investigation to determine whether there are circumstances which show beyond reasonable doubt that no overexposure could have occurred and, unless this is shown, the radiation employer shall—
 
@@ -599,7 +599,7 @@ the employer shall, if so directed by the Executive, re-instate the original ent
 
 (3) Where the person who received the overexposure is an employee who has a dose record, his employer shall arrange for the assessment of the dose received to be entered into that dose record.
 
-### 26. Dose limitation for overexposed employees[^key-7ad5a1f4c8877f19f8d422f995cbd901]
+### 26. Dose limitation for overexposed employees[^c-7ad5a1f4c8877f19f8d422f995cbd901]
 
 (1) Without prejudice to other requirements of these Regulations and in particular regulation 24(6), where an employee has been subjected to an overexposure paragraph (2) shall apply in relation to the employment of that employee on work with ionising radiation during the remainder of the dose limitation period commencing at the end of the personal dose assessment period in which he was subjected to the overexposure.
 
@@ -611,7 +611,7 @@ the employer shall, if so directed by the Executive, re-instate the original ent
 
 ## Part VI — Arrangements for the Control of Radioactive Substances, Articles and Equipment
 
-### 27. Sealed sources and articles containing or embodying radioactive substances[^key-c97c42880cee6c28a5c9daec1c69c879]
+### 27. Sealed sources and articles containing or embodying radioactive substances[^c-c97c42880cee6c28a5c9daec1c69c879]
 
 (1) Where a radioactive substance is used as a source of ionising radiation in work with ionising radiation, the radiation employer shall ensure that, whenever reasonably practicable, the substance is in the form of a sealed source.
 
@@ -622,11 +622,11 @@ the employer shall, if so directed by the Executive, re-instate the original ent
 
 (3) Where appropriate, the radiation employer shall ensure that suitable tests are carried out at suitable intervals to detect leakage of radioactive substances from any article to which paragraph (2) applies and the employer shall make a suitable record of each such test and shall retain that record for at least 2 years after the article is disposed of or until a further record is made following a subsequent test to that article.
 
-### 28. Accounting for radioactive substances[^key-65c2aad9a781bb20678add6abc7581ed]
+### 28. Accounting for radioactive substances[^c-65c2aad9a781bb20678add6abc7581ed]
 
 For the purpose of controlling radioactive substances which are involved in work with ionising radiation which he undertakes, every radiation employer shall take such steps as are appropriate to account for and keep records of the quantity and location of those substances and shall keep those records or a copy thereof for at least 2 years from the date on which they were made and, in addition, for at least 2 years from the date of disposal of that radioactive substance.
 
-### 29. Keeping and moving of radioactive substances[^key-bfd016edc702376c1d274f2e2084c812]
+### 29. Keeping and moving of radioactive substances[^c-bfd016edc702376c1d274f2e2084c812]
 
 (1) Every radiation employer shall ensure, so far as is reasonably practicable, that any radioactive substance under his control which is not for the time being in use or being moved, transported or disposed of—
 
@@ -637,7 +637,7 @@ For the purpose of controlling radioactive substances which are involved in work
 
 (3) Nothing in paragraphs (1) or (2) shall apply in relation to a radioactive substance while it is in or on the live body or corpse of a human being.
 
-### 30. Notification of certain occurrences[^key-2a44eb2341699e3098abfe14ce07ee86]
+### 30. Notification of certain occurrences[^c-2a44eb2341699e3098abfe14ce07ee86]
 
 (1) Every radiation employer shall forthwith notify the Executive in any case where a quantity of a radioactive substance which was under his control and which exceeds the quantity specified for that substance in column 4 of Schedule 8—
 
@@ -655,7 +655,7 @@ For the purpose of controlling radioactive substances which are involved in work
 
 (5) A radiation employer who makes any investigation in accordance with paragraph (4) shall make a report of that investigation and shall, unless the investigation showed that no such occurrence occurred, keep that report or a copy thereof for at least 50 years from the date on which it was made or, in any other case, for at least 2 years from the date on which it was made.
 
-### 31. Duties of manufacturers etc. of articles for use in work with ionising radiation[^key-873a2873dde904ea97643b47c76aea23]
+### 31. Duties of manufacturers etc. of articles for use in work with ionising radiation[^c-873a2873dde904ea97643b47c76aea23]
 
 (1) In the case of articles for use at work, where that work is work with ionising radiation, Article 7(1) of the 1978 Order[^f00022] (which imposes general duties on manufacturers etc. as regards articles and substances for use at work) shall be modified so that any duty imposed on any person by that Article shall include a duty to ensure that any such article is so designed and constructed as to restrict so far as is reasonably practicable the extent to which employees and other persons are or are likely to be exposed to ionising radiation.
 
@@ -667,7 +667,7 @@ For the purpose of controlling radioactive substances which are involved in work
 - (b) consult with the radiation protection adviser appointed by himself or by the radiation employer with regard to the nature and extent of any critical examination and the results of that examination; and
 - (c) provide the radiation employer with adequate information about proper use, testing and maintenance of the article.
 
-### 32. Equipment used for medical exposure[^key-ea49d32f5f814ff5cf520c59a56657cb]
+### 32. Equipment used for medical exposure[^c-ea49d32f5f814ff5cf520c59a56657cb]
 
 (1) Every employer who has to any extent control of any equipment or apparatus which is used in connection with a medical exposure shall, having regard to the extent of his control over the equipment, ensure that such equipment is of such design or construction and is so installed and maintained as to be capable of restricting so far as is reasonably practicable the exposure to ionising radiation of any person who is undergoing a medical exposure to the extent that this is compatible with the intended clinical purpose or research objective.
 
@@ -692,13 +692,13 @@ For the purpose of controlling radioactive substances which are involved in work
 
 (8) In this regulation, “radiation equipment” means equipment which delivers ionising radiation to the person undergoing a medical exposure and equipment which directly controls the extent of the exposure.
 
-### 33. Misuse of or interference with sources of ionising radiation[^key-dc958f3904b51b31f2b0510147b4ff54]
+### 33. Misuse of or interference with sources of ionising radiation[^c-dc958f3904b51b31f2b0510147b4ff54]
 
 A person shall not intentionally or recklessly misuse or without reasonable excuse interfere with any radioactive substance or any electrical equipment to which these Regulations apply.
 
 ## Part VII — Duties of Employees and Miscellaneous
 
-### 34. Duties of employees[^key-19f728c58f06abc2047d38ac05c0c38d]
+### 34. Duties of employees[^c-19f728c58f06abc2047d38ac05c0c38d]
 
 (1) An employee who is engaged in work with ionising radiation shall not knowingly expose himself or any other person to ionising radiation to an extent greater than is reasonably necessary for the purposes of his work, and shall exercise reasonable care while carrying out such work.
 
@@ -722,15 +722,15 @@ A person shall not intentionally or recklessly misuse or without reasonable excu
 
 he shall forthwith notify his employer of that belief.
 
-### 35. Approval of dosimetry services[^key-13eb6e796bbe027275685d1c8ea1d4ae]
+### 35. Approval of dosimetry services[^c-13eb6e796bbe027275685d1c8ea1d4ae]
 
-(1) The Executive may, by a certificate in writing, approve (in accordance with such criteria as may from time to time be specified by the Executive) a suitable dosimetry service for such of the purposes of these Regulations or of the Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2001[^key-793c6ce794563ca01060f8dd5ba613a6] as are specified in the certificate.
+(1) The Executive may, by a certificate in writing, approve (in accordance with such criteria as may from time to time be specified by the Executive) a suitable dosimetry service for such of the purposes of these Regulations or of the Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2001[^c-793c6ce794563ca01060f8dd5ba613a6] as are specified in the certificate.
 
 (2) A certificate made pursuant to paragraph (1) may be made subject to conditions and may be revoked in writing at any time.
 
 (3) The Executive may at such suitable periods as it considers appropriate carry out a re-assessment of any approval granted pursuant to paragraph (1).
 
-### 35A. Enforcement[^key-a0f14f85aa2e7ddf61739e9846ccfd8e]
+### 35A. Enforcement[^c-a0f14f85aa2e7ddf61739e9846ccfd8e]
 
 Insofar as any provision of regulation 21 is made under section 2(2) of the European Communities Act 1972, Articles—
 
@@ -739,7 +739,7 @@ Insofar as any provision of regulation 21 is made under section 2(2) of the Euro
 - (c) 28 (power to indemnify inspectors); and
 - (d) 31 to 39 (provisions as to offences), of the Health and Safety at Work (Northern Ireland) Order 1978 shall apply to that provision as if that provision had been made under Article 17 of that Order.
 
-### 36. Defence on contravention[^key-f5fe0e9f221f8ed20131912ba112ddca]
+### 36. Defence on contravention[^c-f5fe0e9f221f8ed20131912ba112ddca]
 
 (1) In any proceedings against an employer for an offence under regulation 6(2), it shall be a defence for that employer to prove that—
 
@@ -768,9 +768,9 @@ Insofar as any provision of regulation 21 is made under section 2(2) of the Euro
 
 (6) The person charged shall not, without leave of the court be entitled to rely on the defence referred to in paragraph (4) or (5) unless, within a period ending 7 clear days before the hearing, he has served on the prosecutor a notice in writing that he intends to rely on the defence and this notice shall be accompanied by a copy of the contract on which he intends to rely and, if that contract is not in English, an accurate translation of that contract into English.
 
-(7)[^key-51b5b4b8ab56cadffc3ed86d986220d4] Where a contravention of these Regulations by any person is due to the act or default of some other person, that other person shall be guilty of the offence which would, but for any defence under this regulation available to the first-mentioned person, be constituted by the act or default.
+(7)[^c-51b5b4b8ab56cadffc3ed86d986220d4] Where a contravention of these Regulations by any person is due to the act or default of some other person, that other person shall be guilty of the offence which would, but for any defence under this regulation available to the first-mentioned person, be constituted by the act or default.
 
-### 37. Exemption certificates[^key-5111638b3eda07f1ee406950ab4b1245]
+### 37. Exemption certificates[^c-5111638b3eda07f1ee406950ab4b1245]
 
 (1) Subject to paragraph (2), the Executive may, by a certificate in writing, exempt—
 
@@ -790,13 +790,13 @@ it is satisfied that—
 - (c) the health and safety of persons who are likely to be affected by the exemption will not be prejudiced in consequence of it; and
 - (d) compliance with the fundamental radiation protection provisions underlying regulations 8(1) and (2)(*a*), 11, 12(1), 16(1) and (3), 19(1), 20(1), 21(1), 24(2) and 32(1) will be achieved.
 
-### 38. Application within territorial waters[^key-a4fe63de0cf7f5f0c4281a1d6c3f3cca]
+### 38. Application within territorial waters[^c-a4fe63de0cf7f5f0c4281a1d6c3f3cca]
 
 (1) Subject to paragraph (2), within territorial waters these Regulations shall apply only to or in relation to the premises and activities to which any of paragraphs 2 to 6 of Schedule 9 applies.
 
 (2) For the purposes of paragraph (1), in any case where it is not reasonably practicable for an employer to comply with the requirements of these Regulations in so far as they relate to functions being performed by an appointed doctor or employment medical adviser or by an approved dosimetry service, it shall be sufficient compliance with any such requirements if the employer makes arrangements affording an equivalent standard of protection for his employees and those arrangements are set out in local rules.
 
-### 39. Transitional provisions[^key-0a826064d88099497fddf266df61e84d]
+### 39. Transitional provisions[^c-0a826064d88099497fddf266df61e84d]
 
 (1) Where on or before 5th March 2001 an employer commences for the first time work which is required to be notified under regulation 6(2), it shall be sufficient compliance with that regulation if the employer notifies the Executive and notifies the required particulars before 5th February 2001.
 
@@ -816,7 +816,7 @@ it is satisfied that—
 
 (9) Where the Executive has reasonable cause to believe that the dose received by an employee was much greater or much less than that shown in his dose record (such record having been made and maintained in accordance with regulation 13 of the Ionising Radiations Regulations (Northern Ireland) 1985) the Executive may, until 30th April 2001, approve a special entry into the dose record and in such a case the employer shall arrange for the appropriate approved dosimetry service to enter the special entry in that dose record and shall give a copy of the amended dose record to the employee to whom it relates.
 
-### 40. Modifications relating to the Ministry of Defence etc.[^key-b8c6990b565f1216c48adb0ede6b9df7]
+### 40. Modifications relating to the Ministry of Defence etc.[^c-b8c6990b565f1216c48adb0ede6b9df7]
 
 (1) In this regulation, any reference to—
 
@@ -851,7 +851,7 @@ from all or any of the requirements or prohibitions imposed by these Regulations
 - (a) a member of a visiting force; or
 - (b) a member of a visiting force working in or attached to a headquarters or organisation.
 
-### 41. Modification, revocation and saving[^key-416efe316a1f500659df9f85e8caa126]
+### 41. Modification, revocation and saving[^c-416efe316a1f500659df9f85e8caa126]
 
 (1) The statutory provisions referred to in Schedule 10 shall be modified in accordance with the provisions of that Schedule.
 
@@ -861,7 +861,7 @@ from all or any of the requirements or prohibitions imposed by these Regulations
 - (b) the Ionising Radiations (Outside Workers) Regulations (Northern Ireland) 1993;
 - (c) Part III of Schedule 2 to the Personal Protective Equipment at Work Regulations (Northern Ireland) 1993[^f00027].
 
-(3) [^key-a0d802881ab6cd02fa198ab54e38e286]...
+(3) [^c-a0d802881ab6cd02fa198ab54e38e286]...
 
 - (a) paragraphs (1) to (3), (4)(*b*) and (*c*) and (5) of regulation 27 (Contingency plans) with the modification that—
   - (i) in paragraph (1), the reference to regulation 25(1) of the 1985 Regulations shall be treated as a reference to regulation 7(1) or (2) of these Regulations;
@@ -883,7 +883,7 @@ Department of Enterprise, Trade and Investment
 
 Regulations 6(1) and 13(3)
 
-**1.**[^key-26b96e36d78f3f55c816e2e8b1b80cd0] Work with ionising radiation shall not be required to be notified in accordance with regulation 6 when the only such work being carried out is in one or more of the following categories—
+**1.**[^c-26b96e36d78f3f55c816e2e8b1b80cd0] Work with ionising radiation shall not be required to be notified in accordance with regulation 6 when the only such work being carried out is in one or more of the following categories—
 
 - (a) where the concentration of activity per unit mass of a radioactive substance does not exceed the concentration specified in column 2 of Part I of Schedule 8;
 - (b) where the quantity of radioactive substance involved does not exceed the quantity specified in column 3 of Part I of Schedule 8;
@@ -906,13 +906,13 @@ Regulations 6(1) and 13(3)
   provided that the operation of the tube or apparatus does not under normal operating conditions cause a dose rate of more than 1mSvh–1 at a distance of 0.1m from any accessible surface;
 - (f) where the work involves material contaminated with radioactive substances resulting from authorised releases which the chief inspector has declared not to be subject to further control.
 
-**2.**[^key-87644e970c27cf05e0a8d9b5cd504e40] In this Schedule, “the chief inspector” has the meaning assigned to it by section 47(1) of the Radioactive Substances Act 1993[^f00028].
+**2.**[^c-87644e970c27cf05e0a8d9b5cd504e40] In this Schedule, “the chief inspector” has the meaning assigned to it by section 47(1) of the Radioactive Substances Act 1993[^f00028].
 
-## SCHEDULE 2 — Particulars to be provided in a notification under Regulation 6(2)[^key-b0b0e8a9ecf1efad7649b69409818f20]
+## SCHEDULE 2 — Particulars to be provided in a notification under Regulation 6(2)[^c-b0b0e8a9ecf1efad7649b69409818f20]
 
 Regulation 6(2)
 
-[^key-b0b0e8a9ecf1efad7649b69409818f20]
+[^c-b0b0e8a9ecf1efad7649b69409818f20]
 
 The following particulars shall be given in a notification under regulation 6(2)—
 
@@ -927,11 +927,11 @@ The following particulars shall be given in a notification under regulation 6(2)
 - (e) whether or not any source is to be used at premises other than the address given at sub-paragraph (*b*) above; and
 - (f) dates of notification and commencement of the work activity.
 
-## SCHEDULE 3 — Additional particulars that the Executive may require[^key-57b56e5690163a564acde74042d23031]
+## SCHEDULE 3 — Additional particulars that the Executive may require[^c-57b56e5690163a564acde74042d23031]
 
 Regulation 6(3)
 
-[^key-57b56e5690163a564acde74042d23031]
+[^c-57b56e5690163a564acde74042d23031]
 
 The following additional particulars may be required under regulation 6(3)—
 
@@ -950,37 +950,37 @@ Regulation 11
 
 ### Part I — Classes of person to whom dose limits apply
 
-#### 1. Employees of 18 years or above[^key-765e0613e453cf9b734f5045c354b14b]
+#### 1. Employees of 18 years or above[^c-765e0613e453cf9b734f5045c354b14b]
 
 For the purposes of regulation 11(1), the limit on effective dose for any employee of 18 years or above shall be 20 mSv in any calendar year.
 
-**2.**[^key-e9d541f2ef15e43c40520973a8fb0937] Without prejudice to paragraph 1—
+**2.**[^c-e9d541f2ef15e43c40520973a8fb0937] Without prejudice to paragraph 1—
 
 - (a) the limit on equivalent dose for the lens of the eye shall be 150 mSv in a calendar year;
 - (b) the limit on equivalent dose for the skin shall be 500 mSv in a calendar year as applied to the dose averaged over any area of 1cm<sup>2</sup> regardless of the area exposed;
 - (c) the limit on equivalent dose for the hands, forearms, feet and ankles shall be 500 mSv in a calendar year.
 
-#### 3. Trainees aged under 18 years[^key-b0828bbb6cb9d8ff0f3b39ce26fb74c5]
+#### 3. Trainees aged under 18 years[^c-b0828bbb6cb9d8ff0f3b39ce26fb74c5]
 
 For the purposes of regulation 11(1), the limit on effective dose for any trainee under 18 years shall be 6 mSv in any calendar year.
 
-**4.**[^key-6d2ffc8ea6b8a9130e07f75cb26913ab] Without prejudice to paragraph 3—
+**4.**[^c-6d2ffc8ea6b8a9130e07f75cb26913ab] Without prejudice to paragraph 3—
 
 - (a) the limit on equivalent dose for the lens of the eye shall be 50 mSv in a calendar year;
 - (b) the limit on equivalent dose for the skin shall be 150 mSv in a calendar year as applied to the dose averaged over any area of 1cm<sup>2</sup> regardless of the area exposed;
 - (c) the limit on equivalent dose for the hands, forearms, feet and ankles shall be 150 mSv in a calendar year.
 
-#### 5. Women of reproductive capacity[^key-ad1188790321c646be67eed7bfb7bf79]
+#### 5. Women of reproductive capacity[^c-ad1188790321c646be67eed7bfb7bf79]
 
 Without prejudice to paragraphs 1 and 3, the limit on equivalent dose for the abdomen of a woman of reproductive capacity who is at work, being the equivalent dose from external radiation resulting from exposure to ionising radiation averaged throughout the abdomen, shall be 13 mSv in any consecutive period of three months.
 
-#### 6. Other persons[^key-251f5c32bbb6a9c9540173a13b01aa8d]
+#### 6. Other persons[^c-251f5c32bbb6a9c9540173a13b01aa8d]
 
-Subject to paragraph 7, for the purposes of regulation 11(1) the limit on effective dose for any person other than an employee or trainee referred to in paragraphs 1 or 3[^key-7d92f2add07227ecbcc454a246e515f5] , including any person below the age of 16, shall be 1 mSv in any calendar year.
+Subject to paragraph 7, for the purposes of regulation 11(1) the limit on effective dose for any person other than an employee or trainee referred to in paragraphs 1 or 3[^c-7d92f2add07227ecbcc454a246e515f5] , including any person below the age of 16, shall be 1 mSv in any calendar year.
 
-**7.**[^key-f0f89e59de805bf7f205a55a64683840] Paragraph 6 shall not apply in relation to any person (not being a comforter or carer) who may be exposed to ionising radiation resulting from the medical exposure of another and in such a case the limit on effective dose for any such person shall be 5 mSv in any period of 5 consecutive calendar years.
+**7.**[^c-f0f89e59de805bf7f205a55a64683840] Paragraph 6 shall not apply in relation to any person (not being a comforter or carer) who may be exposed to ionising radiation resulting from the medical exposure of another and in such a case the limit on effective dose for any such person shall be 5 mSv in any period of 5 consecutive calendar years.
 
-**8.**[^key-a294f9a7aaf7512552f03cb3e51145e9] Without prejudice to paragraphs 6 and 7—
+**8.**[^c-a294f9a7aaf7512552f03cb3e51145e9] Without prejudice to paragraphs 6 and 7—
 
 - (a) the limit on equivalent dose for the lens of the eye shall be 15 mSv in any calendar year;
 - (b) the limit on equivalent dose for the skin shall be 50 mSv in any calendar year averaged over any 1cm<sup>2</sup> area of skin regardless of the area exposed;
@@ -988,86 +988,86 @@ Subject to paragraph 7, for the purposes of regulation 11(1) the limit on effect
 
 ### Part II
 
-**9.**[^key-0c18422e556a871e3c8b8b11c2002371] For the purposes of regulation 11(2), the limit on effective dose for employees of 18 years or above shall be 100 mSv in any period of five consecutive calendar years subject to a maximum effective dose of 50 mSv in any single calendar year.
+**9.**[^c-0c18422e556a871e3c8b8b11c2002371] For the purposes of regulation 11(2), the limit on effective dose for employees of 18 years or above shall be 100 mSv in any period of five consecutive calendar years subject to a maximum effective dose of 50 mSv in any single calendar year.
 
-**10.**[^key-d1c578c26514b840a28f21fbb2705731] Without prejudice to paragraph 9—
+**10.**[^c-d1c578c26514b840a28f21fbb2705731] Without prejudice to paragraph 9—
 
 - (a) the limit on equivalent dose for the lens of the eye shall be 150 mSv in a calendar year;
 - (b) the limit on equivalent dose for the skin shall be 500 mSv in a calendar year as applied to the dose averaged over any area of 1cm<sup>2</sup> regardless of the area exposed;
 - (c) the limit on equivalent dose for the hands, forearms, feet and ankles shall be 500 mSv in a calendar year.
 
-**11.**[^key-106fbbc4bbeef91c0f17d6590f7654d0] Without prejudice to paragraph 9, the limit on equivalent dose for the abdomen of a woman of reproductive capacity who is at work, being the equivalent dose from external radiation resulting from exposure to ionising radiation averaged throughout the abdomen, shall be 13 mSv in any consecutive period of three months.
+**11.**[^c-106fbbc4bbeef91c0f17d6590f7654d0] Without prejudice to paragraph 9, the limit on equivalent dose for the abdomen of a woman of reproductive capacity who is at work, being the equivalent dose from external radiation resulting from exposure to ionising radiation averaged throughout the abdomen, shall be 13 mSv in any consecutive period of three months.
 
-**12.**[^key-8a0bb0d618566061dcf965fa202e74fb] The employer shall ensure that any employee in respect of whom regulation 11(2) applies is not exposed to ionising radiation to an extent that any dose limit specified in paragraphs 9 to 11 is exceeded.
+**12.**[^c-8a0bb0d618566061dcf965fa202e74fb] The employer shall ensure that any employee in respect of whom regulation 11(2) applies is not exposed to ionising radiation to an extent that any dose limit specified in paragraphs 9 to 11 is exceeded.
 
-**13.**[^key-a44bfeaf4b989879f9ef8f5c31ccc223] An employer shall not put into effect a system of dose limitation in pursuance of regulation 11(2) unless—
+**13.**[^c-a44bfeaf4b989879f9ef8f5c31ccc223] An employer shall not put into effect a system of dose limitation in pursuance of regulation 11(2) unless—
 
 - (a) the radiation protection adviser and any employees who are affected have been consulted;
 - (b) any employees affected and the approved dosimetry service have been informed in writing of the decision and of the reasons for that decision;
 - (c) notice has been given to the Executive at least 28 days (or such shorter period as the Executive may allow) before the decision is put into effect giving the reasons for the decision.
 
-**14.**[^key-56f41b36c9be2a267b896649b459e9ef] Where there is reasonable cause to believe that any employee has been exposed to an effective dose greater than 20 mSv in any calendar year, the employer shall, as soon as is practicable—
+**14.**[^c-56f41b36c9be2a267b896649b459e9ef] Where there is reasonable cause to believe that any employee has been exposed to an effective dose greater than 20 mSv in any calendar year, the employer shall, as soon as is practicable—
 
 - (a) undertake an investigation into the circumstances of the exposure for the purpose of determining whether the dose limit referred to in paragraph 9 is likely to be complied with; and
 - (b) notify the Executive of that suspected exposure.
 
-**15.**[^key-0183630c1dde2b84fd2e89f342e2de47] An employer shall review the decision to put into effect a system of dose limitation pursuant to regulation 11(2) at appropriate intervals and in any event not less than once every five years.
+**15.**[^c-0183630c1dde2b84fd2e89f342e2de47] An employer shall review the decision to put into effect a system of dose limitation pursuant to regulation 11(2) at appropriate intervals and in any event not less than once every five years.
 
-**16.**[^key-a91c6bb473000bd1323ef30d663042fc] Where as a result of a review undertaken pursuant to paragraph 15 an employer proposes to revert to a system of annual dose limitation pursuant to regulation 11(1), the provisions of paragraph 13 shall apply as if the reference in that paragraph to regulation 11(2) was a reference to regulation 11(1).
+**16.**[^c-a91c6bb473000bd1323ef30d663042fc] Where as a result of a review undertaken pursuant to paragraph 15 an employer proposes to revert to a system of annual dose limitation pursuant to regulation 11(1), the provisions of paragraph 13 shall apply as if the reference in that paragraph to regulation 11(2) was a reference to regulation 11(1).
 
-**17.**[^key-aae13c2ff84d78d67226b1fb29f9da21] Where an employer puts into effect a system of dose limitation in pursuance of regulation 11(2), he shall record the reasons for that decision and shall ensure that the record is preserved for a period of 50 years from the date of its making.
+**17.**[^c-aae13c2ff84d78d67226b1fb29f9da21] Where an employer puts into effect a system of dose limitation in pursuance of regulation 11(2), he shall record the reasons for that decision and shall ensure that the record is preserved for a period of 50 years from the date of its making.
 
-**18.**[^key-120dd8258f4d998b486e5e7eeeef473f] In any case where—
+**18.**[^c-120dd8258f4d998b486e5e7eeeef473f] In any case where—
 
 - (a) the dose limits specified in paragraph 9 are being applied by a radiation employer in respect of an employee; and
 - (b) the Executive is not satisfied that it is impracticable for that employee to be subject to the dose limit specified in paragraph 1 of Part I,
 
 the Executive may require the employer to apply the dose limit specified in paragraph 1 of Part I with effect from such time as the Executive may consider appropriate having regard to the interests of the employee concerned.
 
-**19.**[^key-cd4d422cb22e1ff79bc1340d1e2bc1d6] In any case where, as a result of a review undertaken pursuant to paragraph 15 an employer proposes to revert to an annual dose limitation in accordance with regulation 11(1)[^key-86bbc511ed7c26337e800de1d8129de4] , the Executive may require the employer to defer the implementation of that decision to such time as the Executive may consider appropriate having regard to the interests of the employee concerned.
+**19.**[^c-cd4d422cb22e1ff79bc1340d1e2bc1d6] In any case where, as a result of a review undertaken pursuant to paragraph 15 an employer proposes to revert to an annual dose limitation in accordance with regulation 11(1)[^c-86bbc511ed7c26337e800de1d8129de4] , the Executive may require the employer to defer the implementation of that decision to such time as the Executive may consider appropriate having regard to the interests of the employee concerned.
 
-**20.**[^key-4ebe2bd33b93f0a126525b0e3e052992] Any person who is aggrieved by the decision of the Executive taken pursuant to paragraphs 18 or 19 may appeal to the Department of Enterprise, Trade and Investment.
+**20.**[^c-4ebe2bd33b93f0a126525b0e3e052992] Any person who is aggrieved by the decision of the Executive taken pursuant to paragraphs 18 or 19 may appeal to the Department of Enterprise, Trade and Investment.
 
-**21.**[^key-c63777a122c915eabeb7b9dc5533084e] Chapter I of the Schedule to the Deregulation (Model Appeal Provisions) Order (Northern Ireland) 1997[^f00029] shall apply to any appeal made under paragraph 20.
+**21.**[^c-c63777a122c915eabeb7b9dc5533084e] Chapter I of the Schedule to the Deregulation (Model Appeal Provisions) Order (Northern Ireland) 1997[^f00029] shall apply to any appeal made under paragraph 20.
 
 ## SCHEDULE 5 — Matters in respect of which a radiation protection adviser must be consulted by a radiation employer
 
 Regulation 13(1)
 
-**1.**[^key-e99044630a07eeccf6d9fd8136beb453] The implementation of requirements as to controlled and supervised areas.
+**1.**[^c-e99044630a07eeccf6d9fd8136beb453] The implementation of requirements as to controlled and supervised areas.
 
-**2.**[^key-1c70409f137565fa990aff52d29d61ea] The prior examination of plans for installations and the acceptance into service of new or modified sources of ionising radiation in relation to any engineering controls, design features, safety features and warning devices provided to restrict exposure to ionising radiation.
+**2.**[^c-1c70409f137565fa990aff52d29d61ea] The prior examination of plans for installations and the acceptance into service of new or modified sources of ionising radiation in relation to any engineering controls, design features, safety features and warning devices provided to restrict exposure to ionising radiation.
 
-**3.**[^key-aca6713df9b003df947461200db9e07c] The regular calibration of equipment provided for monitoring levels of ionising radiation and the regular checking that such equipment is serviceable and correctly used.
+**3.**[^c-aca6713df9b003df947461200db9e07c] The regular calibration of equipment provided for monitoring levels of ionising radiation and the regular checking that such equipment is serviceable and correctly used.
 
-**4.**[^key-383a769b37cff025ca79f57343bd00ea] The periodic examination and testing of engineering controls, design features, safety features and warning devices and regular checking of systems of work provided to restrict exposure to ionising radiation.
+**4.**[^c-383a769b37cff025ca79f57343bd00ea] The periodic examination and testing of engineering controls, design features, safety features and warning devices and regular checking of systems of work provided to restrict exposure to ionising radiation.
 
 ## SCHEDULE 6 — Particulars to be entered in the radiation passbook
 
 Regulation 21(5)
 
-**1.**[^key-884c5e46a2342ccf2b2ec0456df1837d] Individual serial number of the passbook.
+**1.**[^c-884c5e46a2342ccf2b2ec0456df1837d] Individual serial number of the passbook.
 
-**2.**[^key-3129cba78d8e487f93b634dda6dc35a0] A statement that the passbook has been approved—
+**2.**[^c-3129cba78d8e487f93b634dda6dc35a0] A statement that the passbook has been approved—
 
 - (a) by the Executive for the purpose of these Regulations; or
 - (b) by the Great Britain Executive for the purpose of the Great Britain Regulations.
 
-**3.**[^key-10c115159da6f2d6c28ab3269306ecad] Date of issue of the passbook by the approved dosimetry service.
+**3.**[^c-10c115159da6f2d6c28ab3269306ecad] Date of issue of the passbook by the approved dosimetry service.
 
-**4.**[^key-b98f871155f46b73d3facd6bd345e6d9] The name, telephone number and mark of endorsement of the issuing approved dosimetry service.
+**4.**[^c-b98f871155f46b73d3facd6bd345e6d9] The name, telephone number and mark of endorsement of the issuing approved dosimetry service.
 
-**5.**[^key-1c1647cc4ae5b29d6cd326e50488f2cd] The name, address, telephone and telex/fax number of the employer.
+**5.**[^c-1c1647cc4ae5b29d6cd326e50488f2cd] The name, address, telephone and telex/fax number of the employer.
 
-**6.**[^key-6d804fcf00acca37ff992b421d393beb] Full name (surname, forenames), date of birth, gender and national insurance number of the outside worker to whom the passbook has been issued.
+**6.**[^c-6d804fcf00acca37ff992b421d393beb] Full name (surname, forenames), date of birth, gender and national insurance number of the outside worker to whom the passbook has been issued.
 
-**7.**[^key-f2182f2b215a233db50e7facbbc6bccd] Date of the last medical review of the outside worker and the relevant classification in the health record maintained under regulation 24 as fit, fit subject to conditions (which shall be specified) or unfit.
+**7.**[^c-f2182f2b215a233db50e7facbbc6bccd] Date of the last medical review of the outside worker and the relevant classification in the health record maintained under regulation 24 as fit, fit subject to conditions (which shall be specified) or unfit.
 
-**8.**[^key-ce8f76f4e5f40cc69a2f4c74bb9aebc0] The relevant dose limits applicable to the outside worker to whom the passbook has been issued.
+**8.**[^c-ce8f76f4e5f40cc69a2f4c74bb9aebc0] The relevant dose limits applicable to the outside worker to whom the passbook has been issued.
 
-**9.**[^key-4eacfe66fd49c0ec628660929bf3dae5] The cumulative dose assessment in mSv for the year to date for the outside worker, external (whole body, organ or tissue) and/or internal as appropriate and the date of the end of the last assessment period.
+**9.**[^c-4eacfe66fd49c0ec628660929bf3dae5] The cumulative dose assessment in mSv for the year to date for the outside worker, external (whole body, organ or tissue) and/or internal as appropriate and the date of the end of the last assessment period.
 
-**10.**[^key-6c7d2de599f4da9d638e9ff3feaaf83b] In respect of services performed by the outside worker—
+**10.**[^c-6c7d2de599f4da9d638e9ff3feaaf83b] In respect of services performed by the outside worker—
 
 - (a) the name and address of the employer responsible for the controlled area;
 - (b) the period covered by the performance of the services;
@@ -1076,11 +1076,11 @@ Regulation 21(5)
   - (ii) in the event of non-uniform exposure, an estimate of the equivalent dose in mSv to organs and tissues as appropriate; and
   - (iii) in the event of internal contamination, an estimate of the activity taken in or the committed dose.
 
-## SCHEDULE 7 — Particulars to be contained in a health record[^key-af4e2f804549b9014be2b3026ee4e26b]
+## SCHEDULE 7 — Particulars to be contained in a health record[^c-af4e2f804549b9014be2b3026ee4e26b]
 
 Regulation 24(3)
 
-[^key-af4e2f804549b9014be2b3026ee4e26b]
+[^c-af4e2f804549b9014be2b3026ee4e26b]
 
 The following particulars shall be contained in a health record made for the purposes of regulation 24(3)—
 
@@ -1104,7 +1104,7 @@ The following particulars shall be contained in a health record made for the pur
 
 Regulations 2(4) and 30(1) and (3) and Schedule 1, paragraph 1
 
-### Part I — Table of Radionuclides[^key-2af0e5e7b550742bf0827196e7e40334]
+### Part I — Table of Radionuclides[^c-2af0e5e7b550742bf0827196e7e40334]
 
 <table>
 <thead>
@@ -2009,17 +2009,17 @@ Regulations 2(4) and 30(1) and (3) and Schedule 1, paragraph 1
 
 ### Part II — Quantity Ratios for more than one Radionuclide
 
-**1.**[^key-ebb8838f3912c4df1bd0a96455ee6545] For the purpose of Regulation 2(4), the quantity ratio for more than one radionuclide is the sum of the quotients of the quantity of a radionuclide present Q<sub>p</sub> divided by the quantity of that radionuclide specified in the appropriate column of Part I of this Schedule Q<sub>lim</sub>, namely—
+**1.**[^c-ebb8838f3912c4df1bd0a96455ee6545] For the purpose of Regulation 2(4), the quantity ratio for more than one radionuclide is the sum of the quotients of the quantity of a radionuclide present Q<sub>p</sub> divided by the quantity of that radionuclide specified in the appropriate column of Part I of this Schedule Q<sub>lim</sub>, namely—
 
 [formula: see source](https://www.legislation.gov.uk/nisr/2000/375)
 
-**2.**[^key-997b397239250ee90e5fb6d46987e367] In any case where the isotopic composition of a radioactive substance is not known or is only partially known, the quantity ratio for that substance shall be calculated by using the values specified in the appropriate column in Part I for ‘other radionuclides not listed above’ for any radionuclide that has not been identified or where the quantity of a radionuclide is uncertain, unless the employer can show that the use of some other value is appropriate in the circumstances of a particular case, when he may use that value.
+**2.**[^c-997b397239250ee90e5fb6d46987e367] In any case where the isotopic composition of a radioactive substance is not known or is only partially known, the quantity ratio for that substance shall be calculated by using the values specified in the appropriate column in Part I for ‘other radionuclides not listed above’ for any radionuclide that has not been identified or where the quantity of a radionuclide is uncertain, unless the employer can show that the use of some other value is appropriate in the circumstances of a particular case, when he may use that value.
 
 ## SCHEDULE 9 — Premises and activities within territorial waters
 
 Regulation 38
 
-### 1. Interpretation[^key-44bc646329bfd0ebdb201854e15e3ff9]
+### 1. Interpretation[^c-44bc646329bfd0ebdb201854e15e3ff9]
 
 (1) In this Schedule—
 
@@ -2040,7 +2040,7 @@ and diving operations include the activity of any person in connection with the 
 
 (4) Any reference in this Schedule to premises and activities (howsoever described) includes a reference to any person, article or substance on those premises or engaged in or, as the case may be, used or for use in connection with any such activity but does not include a reference to an aircraft which is airborne.
 
-### 2. Offshore installations[^key-a843e322930cac50318dfb4992868277]
+### 2. Offshore installations[^c-a843e322930cac50318dfb4992868277]
 
 (1) This paragraph applies to—
 
@@ -2065,7 +2065,7 @@ and diving operations include the activity of any person in connection with the 
 - (d) a mobile structure which has been taken out of use and is not for the time being intended to be used for any of the purposes specified in sub-paragraph (2); and
 - (e) any part of a pipeline.
 
-### 3. Wells[^key-33f2e860f4e16f11e87a6ae108b31d8f]
+### 3. Wells[^c-33f2e860f4e16f11e87a6ae108b31d8f]
 
 (1) This paragraph applies to—
 
@@ -2074,7 +2074,7 @@ and diving operations include the activity of any person in connection with the 
 
 (2) Sub-paragraph (1) includes keeping a vessel on station for the purpose of working on a well but otherwise does not include navigation or an activity connected with navigation.
 
-### 4. Pipelines[^key-0dfba6f0f7555ae6c8b2883fad7ffc7e]
+### 4. Pipelines[^c-0dfba6f0f7555ae6c8b2883fad7ffc7e]
 
 (1) This paragraph applies to—
 
@@ -2106,13 +2106,13 @@ and diving operations include the activity of any person in connection with the 
   - (e) any activities incidental to the activities described in heads (a) to (d);
   - (f) diving operations in connection with any of the works mentioned in heads (*a*) to (*e*) or for the purpose of determining whether a place is suitable as part of the site of a proposed pipeline and the carrying out of surveying operations for settling the route of a proposed pipeline.
 
-### 5. Mines[^key-5a641cdd0ebab0fd4f11b8303ba633c3]
+### 5. Mines[^c-5a641cdd0ebab0fd4f11b8303ba633c3]
 
 (1) This paragraph applies to the working of a mine and to work for the purpose of, or in connection with, the working of any part of a mine.
 
 (2) In this paragraph “mine” and “working of a mine” have the same meaning as in the Mines Act (Northern Ireland) 1969[^f00031].
 
-### 6. Other activities[^key-e497c793e8b23e4f02064b2876389a95]
+### 6. Other activities[^c-e497c793e8b23e4f02064b2876389a95]
 
 (1) Subject to sub-paragraph (2), this paragraph applies to—
 
@@ -2128,27 +2128,27 @@ and diving operations include the activity of any person in connection with the 
 
 Regulation 41(1)
 
-### 1. The Employment (Miscellaneous Provisions) (Northern Ireland) Order 1990[^key-2f3e0af747729e3d1594c9c0e6752390]
+### 1. The Employment (Miscellaneous Provisions) (Northern Ireland) Order 1990[^c-2f3e0af747729e3d1594c9c0e6752390]
 
 In Schedule 1 to the Employment (Miscellaneous Provisions) (Northern Ireland) Order 1990[^f00032], for the words “Parts IV and V of Schedule 1 to the Ionising Radiations Regulations (Northern Ireland) 1985” there shall be substituted “Paragraphs 5 and 11 of Schedule 4 to the Ionising Radiations Regulations (Northern Ireland) 2000 \[[S.R. 2000 No. 375](https://www.legislation.gov.uk/nisr/2000/375)\]”.
 
-### 2. The Employment Rights (Northern Ireland) Order 1996[^key-63ec24f4acc05654f6c8d1e844ea1977]
+### 2. The Employment Rights (Northern Ireland) Order 1996[^c-63ec24f4acc05654f6c8d1e844ea1977]
 
 In Article 96(3) of the Employment Rights (Northern Ireland) Order 1996[^f00033], for the words “regulation 16 of the Ionising Radiations Regulations (Northern Ireland) 1985” there shall be substituted “regulation 24 of the Ionising Radiations Regulations (Northern Ireland) 2000 \[[S.R. 2000 No. 375](https://www.legislation.gov.uk/nisr/2000/375)\]”.
 
-### 3. Personal Protective Equipment at Work Regulations (Northern Ireland) 1993[^key-b9920750b9678331a7a9a09a2048bfaf]
+### 3. Personal Protective Equipment at Work Regulations (Northern Ireland) 1993[^c-b9920750b9678331a7a9a09a2048bfaf]
 
 In regulation 3(3) of the Personal Protective Equipment at Work Regulations (Northern Ireland) 1993[^f00034], for the words “the Ionising Radiations Regulations (Northern Ireland) 1985” there shall be substituted “the Ionising Radiations Regulations (Northern Ireland) 2000 \[[S.R. 2000 No. 375](https://www.legislation.gov.uk/nisr/2000/375)\]”.
 
-### 4. Notification of New Substances Regulations (Northern Ireland) 1994[^key-092ec67b7ff7e7891d56824ece139b13]
+### 4. Notification of New Substances Regulations (Northern Ireland) 1994[^c-092ec67b7ff7e7891d56824ece139b13]
 
 In paragraph (2)(*e*) of regulation 3 of the Notification of New Substances Regulations (Northern Ireland) 1994[^f00035], for the words “the Ionising Radiations Regulations (Northern Ireland) 1985” there shall be substituted “the Ionising Radiations Regulations (Northern Ireland) 2000 \[[S.R. 2000 No. 375](https://www.legislation.gov.uk/nisr/2000/375)\]”.
 
-### 5. Chemicals (Hazard information and Packaging for Supply) Regulations (Northern Ireland) 1995[^key-4edf8a178785af210a1d2d696c6a85c7]
+### 5. Chemicals (Hazard information and Packaging for Supply) Regulations (Northern Ireland) 1995[^c-4edf8a178785af210a1d2d696c6a85c7]
 
 In paragraph (l)(*a*) of regulation 3 of the Chemicals (Hazard Information and Packaging for Supply) Regulations (Northern Ireland) 1995[^f00036], for the words “the Ionising Radiations Regulations (Northern Ireland) 1985” there shall be substituted “the Ionising Radiations Regulations (Northern Ireland) 2000 \[[S.R. 2000 No. 375](https://www.legislation.gov.uk/nisr/2000/375)\]”.
 
-### 6. Reporting of Injuries, Diseases and Dangerous Occurrences Regulations (Northern Ireland) 1997[^key-e370de9a788a7c65b8e3ca87597c0086]
+### 6. Reporting of Injuries, Diseases and Dangerous Occurrences Regulations (Northern Ireland) 1997[^c-e370de9a788a7c65b8e3ca87597c0086]
 
 For paragraph 8(2) of Schedule 2 to the Reporting of Injuries, Diseases and Dangerous Occurrences Regulations (Northern Ireland) 1997[^f00037], there shall be substituted—
 
@@ -2156,15 +2156,15 @@ For paragraph 8(2) of Schedule 2 to the Reporting of Injuries, Diseases and Dang
 
 .
 
-### 7. Packaging, Labelling and Carriage of Radioactive Material by Rail Regulations (Northern Ireland) 1998[^key-1021d7d9730aeb915c204e36bda3331d][^key-278f9adfd4ac5c9f1b7a590cf74422fb]
+### 7. Packaging, Labelling and Carriage of Radioactive Material by Rail Regulations (Northern Ireland) 1998[^c-1021d7d9730aeb915c204e36bda3331d][^c-278f9adfd4ac5c9f1b7a590cf74422fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Health and Safety (Fees) Regulations (Northern Ireland) 1998[^key-35a04d6cd1d1104a592a1d605d4cdc2e]
+### 8. Health and Safety (Fees) Regulations (Northern Ireland) 1998[^c-35a04d6cd1d1104a592a1d605d4cdc2e]
 
 In regulation 5(1) of the Health and Safety (Fees) Regulations (Northern Ireland) 1998[^f00039], for the words “the Ionising Radiations Regulations (Northern Ireland) 1985” there shall be substituted “the Ionising Radiations Regulations (Northern Ireland) 2000 \[[S.R. 2000 No. 375](https://www.legislation.gov.uk/nisr/2000/375)\]”.
 
-### 9. Health and Safety (Enforcing Authority) Regulations (Northern Ireland) 1999[^key-d0f3379c27d78e5411fb5609852e093c]
+### 9. Health and Safety (Enforcing Authority) Regulations (Northern Ireland) 1999[^c-d0f3379c27d78e5411fb5609852e093c]
 
 The Health and Safety (Enforcing Authority) Regulations (Northern Ireland) 1999[^f00040] shall be amended as follows—
 
@@ -2270,9 +2270,9 @@ The Regulations make consequential amendments to the statutory provisions specif
 
 [^f00007]: Footnote: Article 46(1) was amended by [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), Article 6(1) and Schedule 1, paragraph 8
 
-[^key-1c45e2171d5fcb2372c93bb80c2326f6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/375/regulation/1) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-1c45e2171d5fcb2372c93bb80c2326f6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/375/regulation/1) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-030ac968730dd4d368a8863be92c5f43]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/375/regulation/2) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-030ac968730dd4d368a8863be92c5f43]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/375/regulation/2) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
 [^f00008]: Footnote: O.J. No. L159, 29.6.96, p .l
 
@@ -2288,268 +2288,268 @@ The Regulations make consequential amendments to the statutory provisions specif
 
 [^f00014]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-9fd9557365d1955c89621f630fb31ce8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/375/regulation/3) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-9fd9557365d1955c89621f630fb31ce8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/375/regulation/3) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-986b292be01da2f32f6cbbcf1a5f2e01]: Modification: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/375/regulation/3) excluded (22.9.2006) by [The Radioactive Contaminated Land Regulations (Northern Ireland) 2006 (S.R. 2006/345)](https://www.legislation.gov.uk/nisr/2006/345), [regs. 1](https://www.legislation.gov.uk/nisr/2006/345/regulation/1), [8](https://www.legislation.gov.uk/nisr/2006/345/regulation/8)
+[^c-986b292be01da2f32f6cbbcf1a5f2e01]: Modification: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/375/regulation/3) excluded (22.9.2006) by [The Radioactive Contaminated Land Regulations (Northern Ireland) 2006 (S.R. 2006/345)](https://www.legislation.gov.uk/nisr/2006/345), [regs. 1](https://www.legislation.gov.uk/nisr/2006/345/regulation/1), [8](https://www.legislation.gov.uk/nisr/2006/345/regulation/8)
 
-[^key-13c50f1a6714188fc32e9fe9042f75c2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2000/375/regulation/4) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-13c50f1a6714188fc32e9fe9042f75c2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2000/375/regulation/4) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-30296df9a44d35e17aa2b1c99e3baae3]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/nisr/2000/375/regulation/4/2) substituted (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 5 para. 8(a)](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/8/a)
+[^c-30296df9a44d35e17aa2b1c99e3baae3]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/nisr/2000/375/regulation/4/2) substituted (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 5 para. 8(a)](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/8/a)
 
-[^key-1906476daaa09b93b97468279f80c32d]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/nisr/2000/375/regulation/4/3) substituted (1.8.2006) by [Quarries Regulations (Northern Ireland) 2006 (S.R. 2006/205)](https://www.legislation.gov.uk/nisr/2006/205), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1), [Sch. 2 Pt. II](https://www.legislation.gov.uk/nisr/2006/205/schedule/2/part/II)
+[^c-1906476daaa09b93b97468279f80c32d]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/nisr/2000/375/regulation/4/3) substituted (1.8.2006) by [Quarries Regulations (Northern Ireland) 2006 (S.R. 2006/205)](https://www.legislation.gov.uk/nisr/2006/205), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1), [Sch. 2 Pt. II](https://www.legislation.gov.uk/nisr/2006/205/schedule/2/part/II)
 
-[^key-12570e32c60bd5ae40815163f8330cec]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/nisr/2000/375/regulation/4/5) inserted (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 5 para. 8(b)](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/8/b)
+[^c-12570e32c60bd5ae40815163f8330cec]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/nisr/2000/375/regulation/4/5) inserted (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 5 para. 8(b)](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/8/b)
 
-[^key-fee991fa77a332245040253dddc2c45c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2000/375/regulation/5) in operation at 13.5.2001, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/b)
+[^c-fee991fa77a332245040253dddc2c45c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2000/375/regulation/5) in operation at 13.5.2001, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/b)
 
 [^f00017]: Footnote: [S.R. 1997 No. 269](https://www.legislation.gov.uk/nisr/1997/269)
 
-[^key-677573beb006d5e8b74793726d095079]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2000/375/regulation/6) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-677573beb006d5e8b74793726d095079]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2000/375/regulation/6) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
 [^f00018]: Footnote: [S.I. 1978/1006](https://www.legislation.gov.uk/uksi/1978/1006)
 
-[^key-619b7426d7c4ffc5e02973c094d12cf2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2000/375/regulation/7) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-619b7426d7c4ffc5e02973c094d12cf2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2000/375/regulation/7) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
 [^f00019]: Footnote: [S.R. 1992 No. 459](https://www.legislation.gov.uk/nisr/1992/459)
 
-[^key-26c4bde4d6fc03762ebafb61d771164b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2000/375/regulation/8) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-26c4bde4d6fc03762ebafb61d771164b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2000/375/regulation/8) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-50e4641e49feb01a85c1fc51fc0bf430]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2000/375/regulation/9) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-50e4641e49feb01a85c1fc51fc0bf430]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2000/375/regulation/9) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
 [^f00020]: Footnote: [S. I. 1992/3139](https://www.legislation.gov.uk/uksi/1992/3139); as amended by [S. I. 1993/3074](https://www.legislation.gov.uk/uksi/1993/3074), [S. I. 1994/2326](https://www.legislation.gov.uk/uksi/1994/2326) and [S. I. 1996/3039](https://www.legislation.gov.uk/uksi/1996/3039)
 
-[^key-926e66c57ddd605092475fb371763cf5]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2000/375/regulation/10) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-926e66c57ddd605092475fb371763cf5]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2000/375/regulation/10) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-d3c63e344bfe43469ca149ce6fef8fc8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2000/375/regulation/11) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-d3c63e344bfe43469ca149ce6fef8fc8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2000/375/regulation/11) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-e9cb02fbffe1ccd967eb74251e390aa8]: Modification: [Reg. 11](https://www.legislation.gov.uk/nisr/2000/375/regulation/11) excluded (4.2.2002) by [Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2001 (revoked) 2001 (S.R. 2001/436)](https://www.legislation.gov.uk/nisr/2001/436), [regs. 1](https://www.legislation.gov.uk/nisr/2001/436/regulation/1), [15](https://www.legislation.gov.uk/nisr/2001/436/regulation/15)
+[^c-e9cb02fbffe1ccd967eb74251e390aa8]: Modification: [Reg. 11](https://www.legislation.gov.uk/nisr/2000/375/regulation/11) excluded (4.2.2002) by [Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2001 (revoked) 2001 (S.R. 2001/436)](https://www.legislation.gov.uk/nisr/2001/436), [regs. 1](https://www.legislation.gov.uk/nisr/2001/436/regulation/1), [15](https://www.legislation.gov.uk/nisr/2001/436/regulation/15)
 
-[^key-2175ccfe1f533a373a565b37e9274730]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2000/375/regulation/12) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-2175ccfe1f533a373a565b37e9274730]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2000/375/regulation/12) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-cf13604a9fe09863e44ca62eedb44076]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2000/375/regulation/13) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-cf13604a9fe09863e44ca62eedb44076]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2000/375/regulation/13) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-8b311d3a6539cf2b169a19f2a59338a2]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2000/375/regulation/14) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-8b311d3a6539cf2b169a19f2a59338a2]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2000/375/regulation/14) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-a05520f6a61615d9afc2e2402a79c6cd]: Modification: [Reg. 14(a)(b)](https://www.legislation.gov.uk/nisr/2000/375/regulation/14/a/b) modified (20.10.2005) by [The High-activity Sealed Radioactive Sources and Orphan Sources Regulations 2005 (S.I. 2005/2686)](https://www.legislation.gov.uk/uksi/2005/2686), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/2686/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2005/2686/regulation/19)
+[^c-a05520f6a61615d9afc2e2402a79c6cd]: Modification: [Reg. 14(a)(b)](https://www.legislation.gov.uk/nisr/2000/375/regulation/14/a/b) modified (20.10.2005) by [The High-activity Sealed Radioactive Sources and Orphan Sources Regulations 2005 (S.I. 2005/2686)](https://www.legislation.gov.uk/uksi/2005/2686), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/2686/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2005/2686/regulation/19)
 
-[^key-231a2e0c88fafb910f4352c3f8736319]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2000/375/regulation/15) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-231a2e0c88fafb910f4352c3f8736319]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2000/375/regulation/15) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-2ac1898e8c80208fa47cad97cd0d0902]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2000/375/regulation/16) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-2ac1898e8c80208fa47cad97cd0d0902]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2000/375/regulation/16) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-02a0141841ada6fe7f54de3645a50006]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2000/375/regulation/17) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-02a0141841ada6fe7f54de3645a50006]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2000/375/regulation/17) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-699737554c3ba209f00fd1b8e69e4def]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2000/375/regulation/18) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-699737554c3ba209f00fd1b8e69e4def]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2000/375/regulation/18) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-adc424bd49748ee019c20273d7293ef5]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2000/375/regulation/19) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-adc424bd49748ee019c20273d7293ef5]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2000/375/regulation/19) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-dbcb36a07d4133375b33343e6ff4a859]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2000/375/regulation/20) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-dbcb36a07d4133375b33343e6ff4a859]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2000/375/regulation/20) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-7e73b9dc79763251f7161d8e4cb82ffe]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2000/375/regulation/21) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-7e73b9dc79763251f7161d8e4cb82ffe]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2000/375/regulation/21) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-e781e61174542b0e05cb94906ce82b67]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2000/375/regulation/22) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-e781e61174542b0e05cb94906ce82b67]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2000/375/regulation/22) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-f7ac2c6a029d79a4e8bcc1afa5bf4a52]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2000/375/regulation/23) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-f7ac2c6a029d79a4e8bcc1afa5bf4a52]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2000/375/regulation/23) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-c1c25fda1008c654c70e4786e69642a9]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2000/375/regulation/24) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-c1c25fda1008c654c70e4786e69642a9]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2000/375/regulation/24) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-d1a2150351101428954cf60c92a4ea0d]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2000/375/regulation/25) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-d1a2150351101428954cf60c92a4ea0d]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2000/375/regulation/25) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-7ad5a1f4c8877f19f8d422f995cbd901]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2000/375/regulation/26) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-7ad5a1f4c8877f19f8d422f995cbd901]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2000/375/regulation/26) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-c97c42880cee6c28a5c9daec1c69c879]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2000/375/regulation/27) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-c97c42880cee6c28a5c9daec1c69c879]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2000/375/regulation/27) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-65c2aad9a781bb20678add6abc7581ed]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2000/375/regulation/28) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-65c2aad9a781bb20678add6abc7581ed]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2000/375/regulation/28) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-bfd016edc702376c1d274f2e2084c812]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2000/375/regulation/29) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-bfd016edc702376c1d274f2e2084c812]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2000/375/regulation/29) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-2a44eb2341699e3098abfe14ce07ee86]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2000/375/regulation/30) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-2a44eb2341699e3098abfe14ce07ee86]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2000/375/regulation/30) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
 [^f00021]: Footnote: [1993 c. 12](https://www.legislation.gov.uk/ukpga/1993/12)
 
-[^key-873a2873dde904ea97643b47c76aea23]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2000/375/regulation/31) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-873a2873dde904ea97643b47c76aea23]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2000/375/regulation/31) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
 [^f00022]: Footnote: [S.I. 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039); Article 7 was amended by the Consumer Protection (Northern Ireland) Order 1987 ([S.I. 1987/2049 (N.I. 20)](https://www.legislation.gov.uk/nisi/1987/2049)), Article 28 and Schedule 2
 
-[^key-ea49d32f5f814ff5cf520c59a56657cb]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2000/375/regulation/32) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-ea49d32f5f814ff5cf520c59a56657cb]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2000/375/regulation/32) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-dc958f3904b51b31f2b0510147b4ff54]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2000/375/regulation/33) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-dc958f3904b51b31f2b0510147b4ff54]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2000/375/regulation/33) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-19f728c58f06abc2047d38ac05c0c38d]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2000/375/regulation/34) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-19f728c58f06abc2047d38ac05c0c38d]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2000/375/regulation/34) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-13eb6e796bbe027275685d1c8ea1d4ae]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2000/375/regulation/35) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-13eb6e796bbe027275685d1c8ea1d4ae]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2000/375/regulation/35) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-793c6ce794563ca01060f8dd5ba613a6]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/nisr/2000/375/regulation/35/1) inserted (4.2.2002) by [Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2001 (S.R. 2001/436)](https://www.legislation.gov.uk/nisr/2001/436), [reg. 1](https://www.legislation.gov.uk/nisr/2001/436/regulation/1), [Sch. 11 para. 3](https://www.legislation.gov.uk/nisr/2001/436/schedule/11/paragraph/3)
+[^c-793c6ce794563ca01060f8dd5ba613a6]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/nisr/2000/375/regulation/35/1) inserted (4.2.2002) by [Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2001 (S.R. 2001/436)](https://www.legislation.gov.uk/nisr/2001/436), [reg. 1](https://www.legislation.gov.uk/nisr/2001/436/regulation/1), [Sch. 11 para. 3](https://www.legislation.gov.uk/nisr/2001/436/schedule/11/paragraph/3)
 
-[^key-a0f14f85aa2e7ddf61739e9846ccfd8e]: Textual amendment: [Reg. 35A](https://www.legislation.gov.uk/nisr/2000/375/regulation/35A) inserted (4.2.2002) by [Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2001 (S.R. 2001/436)](https://www.legislation.gov.uk/nisr/2001/436), [reg. 1](https://www.legislation.gov.uk/nisr/2001/436/regulation/1), [Sch. 11 para. 4](https://www.legislation.gov.uk/nisr/2001/436/schedule/11/paragraph/4)
+[^c-a0f14f85aa2e7ddf61739e9846ccfd8e]: Textual amendment: [Reg. 35A](https://www.legislation.gov.uk/nisr/2000/375/regulation/35A) inserted (4.2.2002) by [Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2001 (S.R. 2001/436)](https://www.legislation.gov.uk/nisr/2001/436), [reg. 1](https://www.legislation.gov.uk/nisr/2001/436/regulation/1), [Sch. 11 para. 4](https://www.legislation.gov.uk/nisr/2001/436/schedule/11/paragraph/4)
 
-[^key-f5fe0e9f221f8ed20131912ba112ddca]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2000/375/regulation/36) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-f5fe0e9f221f8ed20131912ba112ddca]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2000/375/regulation/36) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-51b5b4b8ab56cadffc3ed86d986220d4]: Textual amendment: [Reg. 36(7)](https://www.legislation.gov.uk/nisr/2000/375/regulation/36/7) inserted (4.2.2002) by [Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2001 (S.R. 2001/436)](https://www.legislation.gov.uk/nisr/2001/436), [reg. 1](https://www.legislation.gov.uk/nisr/2001/436/regulation/1), [Sch. 11 para. 5](https://www.legislation.gov.uk/nisr/2001/436/schedule/11/paragraph/5)
+[^c-51b5b4b8ab56cadffc3ed86d986220d4]: Textual amendment: [Reg. 36(7)](https://www.legislation.gov.uk/nisr/2000/375/regulation/36/7) inserted (4.2.2002) by [Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2001 (S.R. 2001/436)](https://www.legislation.gov.uk/nisr/2001/436), [reg. 1](https://www.legislation.gov.uk/nisr/2001/436/regulation/1), [Sch. 11 para. 5](https://www.legislation.gov.uk/nisr/2001/436/schedule/11/paragraph/5)
 
-[^key-5111638b3eda07f1ee406950ab4b1245]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2000/375/regulation/37) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-5111638b3eda07f1ee406950ab4b1245]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2000/375/regulation/37) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-a4fe63de0cf7f5f0c4281a1d6c3f3cca]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2000/375/regulation/38) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-a4fe63de0cf7f5f0c4281a1d6c3f3cca]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2000/375/regulation/38) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-0a826064d88099497fddf266df61e84d]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2000/375/regulation/39) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-0a826064d88099497fddf266df61e84d]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2000/375/regulation/39) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
 [^f00023]: Footnote: [S.R. 1985 No. 273](https://www.legislation.gov.uk/nisr/1985/273)
 
 [^f00024]: Footnote: [S.R. 1993 No. 469](https://www.legislation.gov.uk/nisr/1993/469)
 
-[^key-b8c6990b565f1216c48adb0ede6b9df7]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2000/375/regulation/40) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-b8c6990b565f1216c48adb0ede6b9df7]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2000/375/regulation/40) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
 [^f00025]: Footnote: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67)
 
 [^f00026]: Footnote: [1964 c. 5](https://www.legislation.gov.uk/ukpga/1964/5)
 
-[^key-416efe316a1f500659df9f85e8caa126]: Commencement: [Reg. 41](https://www.legislation.gov.uk/nisr/2000/375/regulation/41) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-416efe316a1f500659df9f85e8caa126]: Commencement: [Reg. 41](https://www.legislation.gov.uk/nisr/2000/375/regulation/41) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
 [^f00027]: Footnote: [S.R. 1993 No. 20](https://www.legislation.gov.uk/nisr/1993/20)
 
-[^key-a0d802881ab6cd02fa198ab54e38e286]: Textual amendment: [Reg. 41(3)](https://www.legislation.gov.uk/nisr/2000/375/regulation/41/3) revoked (4.2.2002) by [Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2001 (S.R. 2001/436)](https://www.legislation.gov.uk/nisr/2001/436), [regs. 1](https://www.legislation.gov.uk/nisr/2001/436/regulation/1), [22(2)](https://www.legislation.gov.uk/nisr/2001/436/regulation/22) (with [reg. 22(3)](https://www.legislation.gov.uk/nisr/2001/436/regulation/22))
+[^c-a0d802881ab6cd02fa198ab54e38e286]: Textual amendment: [Reg. 41(3)](https://www.legislation.gov.uk/nisr/2000/375/regulation/41/3) revoked (4.2.2002) by [Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2001 (S.R. 2001/436)](https://www.legislation.gov.uk/nisr/2001/436), [regs. 1](https://www.legislation.gov.uk/nisr/2001/436/regulation/1), [22(2)](https://www.legislation.gov.uk/nisr/2001/436/regulation/22) (with [reg. 22(3)](https://www.legislation.gov.uk/nisr/2001/436/regulation/22))
 
-[^key-26b96e36d78f3f55c816e2e8b1b80cd0]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2000/375/schedule/1/paragraph/1) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-26b96e36d78f3f55c816e2e8b1b80cd0]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2000/375/schedule/1/paragraph/1) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-87644e970c27cf05e0a8d9b5cd504e40]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2000/375/schedule/1/paragraph/2) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-87644e970c27cf05e0a8d9b5cd504e40]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2000/375/schedule/1/paragraph/2) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
 [^f00028]: Footnote: [1993 c. 12](https://www.legislation.gov.uk/ukpga/1993/12)
 
-[^key-b0b0e8a9ecf1efad7649b69409818f20]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2000/375/schedule/2) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-b0b0e8a9ecf1efad7649b69409818f20]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2000/375/schedule/2) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-57b56e5690163a564acde74042d23031]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2000/375/schedule/3) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-57b56e5690163a564acde74042d23031]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2000/375/schedule/3) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-765e0613e453cf9b734f5045c354b14b]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/1) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-765e0613e453cf9b734f5045c354b14b]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/1) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-e9d541f2ef15e43c40520973a8fb0937]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/2) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-e9d541f2ef15e43c40520973a8fb0937]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/2) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-b0828bbb6cb9d8ff0f3b39ce26fb74c5]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/3) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-b0828bbb6cb9d8ff0f3b39ce26fb74c5]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/3) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-6d2ffc8ea6b8a9130e07f75cb26913ab]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/4) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-6d2ffc8ea6b8a9130e07f75cb26913ab]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/4) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-ad1188790321c646be67eed7bfb7bf79]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/5) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-ad1188790321c646be67eed7bfb7bf79]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/5) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-251f5c32bbb6a9c9540173a13b01aa8d]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/6) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-251f5c32bbb6a9c9540173a13b01aa8d]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/6) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-7d92f2add07227ecbcc454a246e515f5]: Textual amendment: Words in [Sch. 4 para. 6](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/6) inserted (4.2.2002) by [Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2001 (S.R. 2001/436)](https://www.legislation.gov.uk/nisr/2001/436), [reg. 1](https://www.legislation.gov.uk/nisr/2001/436/regulation/1), [Sch. 11 para. 6](https://www.legislation.gov.uk/nisr/2001/436/schedule/11/paragraph/6)
+[^c-7d92f2add07227ecbcc454a246e515f5]: Textual amendment: Words in [Sch. 4 para. 6](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/6) inserted (4.2.2002) by [Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2001 (S.R. 2001/436)](https://www.legislation.gov.uk/nisr/2001/436), [reg. 1](https://www.legislation.gov.uk/nisr/2001/436/regulation/1), [Sch. 11 para. 6](https://www.legislation.gov.uk/nisr/2001/436/schedule/11/paragraph/6)
 
-[^key-f0f89e59de805bf7f205a55a64683840]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/7) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-f0f89e59de805bf7f205a55a64683840]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/7) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-a294f9a7aaf7512552f03cb3e51145e9]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/8) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-a294f9a7aaf7512552f03cb3e51145e9]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/8) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-0c18422e556a871e3c8b8b11c2002371]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/9) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-0c18422e556a871e3c8b8b11c2002371]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/9) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-d1c578c26514b840a28f21fbb2705731]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/10) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-d1c578c26514b840a28f21fbb2705731]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/10) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-106fbbc4bbeef91c0f17d6590f7654d0]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/11) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-106fbbc4bbeef91c0f17d6590f7654d0]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/11) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-8a0bb0d618566061dcf965fa202e74fb]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/12) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-8a0bb0d618566061dcf965fa202e74fb]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/12) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-a44bfeaf4b989879f9ef8f5c31ccc223]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/13) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-a44bfeaf4b989879f9ef8f5c31ccc223]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/13) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-56f41b36c9be2a267b896649b459e9ef]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/14) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-56f41b36c9be2a267b896649b459e9ef]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/14) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-0183630c1dde2b84fd2e89f342e2de47]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/15) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-0183630c1dde2b84fd2e89f342e2de47]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/15) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-a91c6bb473000bd1323ef30d663042fc]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/16) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-a91c6bb473000bd1323ef30d663042fc]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/16) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-aae13c2ff84d78d67226b1fb29f9da21]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/17) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-aae13c2ff84d78d67226b1fb29f9da21]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/17) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-120dd8258f4d998b486e5e7eeeef473f]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/18) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-120dd8258f4d998b486e5e7eeeef473f]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/18) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-cd4d422cb22e1ff79bc1340d1e2bc1d6]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/19) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-cd4d422cb22e1ff79bc1340d1e2bc1d6]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/19) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-86bbc511ed7c26337e800de1d8129de4]: Textual amendment: Words in [Sch. 4 para. 19](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/19) inserted (4.2.2002) by [Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2001 (S.R. 2001/436)](https://www.legislation.gov.uk/nisr/2001/436), [reg. 1](https://www.legislation.gov.uk/nisr/2001/436/regulation/1), [Sch. 11 para. 7](https://www.legislation.gov.uk/nisr/2001/436/schedule/11/paragraph/7)
+[^c-86bbc511ed7c26337e800de1d8129de4]: Textual amendment: Words in [Sch. 4 para. 19](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/19) inserted (4.2.2002) by [Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2001 (S.R. 2001/436)](https://www.legislation.gov.uk/nisr/2001/436), [reg. 1](https://www.legislation.gov.uk/nisr/2001/436/regulation/1), [Sch. 11 para. 7](https://www.legislation.gov.uk/nisr/2001/436/schedule/11/paragraph/7)
 
-[^key-4ebe2bd33b93f0a126525b0e3e052992]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/20) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-4ebe2bd33b93f0a126525b0e3e052992]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/20) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-c63777a122c915eabeb7b9dc5533084e]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/21) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-c63777a122c915eabeb7b9dc5533084e]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/nisr/2000/375/schedule/4/paragraph/21) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
 [^f00029]: Footnote: [S.R. 1997 No. 269](https://www.legislation.gov.uk/nisr/1997/269)
 
-[^key-e99044630a07eeccf6d9fd8136beb453]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/nisr/2000/375/schedule/5/paragraph/1) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-e99044630a07eeccf6d9fd8136beb453]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/nisr/2000/375/schedule/5/paragraph/1) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-1c70409f137565fa990aff52d29d61ea]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/nisr/2000/375/schedule/5/paragraph/2) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-1c70409f137565fa990aff52d29d61ea]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/nisr/2000/375/schedule/5/paragraph/2) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-aca6713df9b003df947461200db9e07c]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/nisr/2000/375/schedule/5/paragraph/3) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-aca6713df9b003df947461200db9e07c]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/nisr/2000/375/schedule/5/paragraph/3) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-383a769b37cff025ca79f57343bd00ea]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/nisr/2000/375/schedule/5/paragraph/4) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-383a769b37cff025ca79f57343bd00ea]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/nisr/2000/375/schedule/5/paragraph/4) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-884c5e46a2342ccf2b2ec0456df1837d]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/nisr/2000/375/schedule/6/paragraph/1) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-884c5e46a2342ccf2b2ec0456df1837d]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/nisr/2000/375/schedule/6/paragraph/1) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-3129cba78d8e487f93b634dda6dc35a0]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/nisr/2000/375/schedule/6/paragraph/2) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-3129cba78d8e487f93b634dda6dc35a0]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/nisr/2000/375/schedule/6/paragraph/2) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-10c115159da6f2d6c28ab3269306ecad]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/nisr/2000/375/schedule/6/paragraph/3) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-10c115159da6f2d6c28ab3269306ecad]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/nisr/2000/375/schedule/6/paragraph/3) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-b98f871155f46b73d3facd6bd345e6d9]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/nisr/2000/375/schedule/6/paragraph/4) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-b98f871155f46b73d3facd6bd345e6d9]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/nisr/2000/375/schedule/6/paragraph/4) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-1c1647cc4ae5b29d6cd326e50488f2cd]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/nisr/2000/375/schedule/6/paragraph/5) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-1c1647cc4ae5b29d6cd326e50488f2cd]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/nisr/2000/375/schedule/6/paragraph/5) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-6d804fcf00acca37ff992b421d393beb]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/nisr/2000/375/schedule/6/paragraph/6) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-6d804fcf00acca37ff992b421d393beb]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/nisr/2000/375/schedule/6/paragraph/6) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-f2182f2b215a233db50e7facbbc6bccd]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/nisr/2000/375/schedule/6/paragraph/7) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-f2182f2b215a233db50e7facbbc6bccd]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/nisr/2000/375/schedule/6/paragraph/7) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-ce8f76f4e5f40cc69a2f4c74bb9aebc0]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/nisr/2000/375/schedule/6/paragraph/8) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-ce8f76f4e5f40cc69a2f4c74bb9aebc0]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/nisr/2000/375/schedule/6/paragraph/8) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-4eacfe66fd49c0ec628660929bf3dae5]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/nisr/2000/375/schedule/6/paragraph/9) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-4eacfe66fd49c0ec628660929bf3dae5]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/nisr/2000/375/schedule/6/paragraph/9) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-6c7d2de599f4da9d638e9ff3feaaf83b]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/nisr/2000/375/schedule/6/paragraph/10) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-6c7d2de599f4da9d638e9ff3feaaf83b]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/nisr/2000/375/schedule/6/paragraph/10) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-af4e2f804549b9014be2b3026ee4e26b]: Commencement: [Sch. 7](https://www.legislation.gov.uk/nisr/2000/375/schedule/7) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-af4e2f804549b9014be2b3026ee4e26b]: Commencement: [Sch. 7](https://www.legislation.gov.uk/nisr/2000/375/schedule/7) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-2af0e5e7b550742bf0827196e7e40334]: Commencement: [Sch. 8 Pt. I](https://www.legislation.gov.uk/nisr/2000/375/schedule/8/part/I) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-2af0e5e7b550742bf0827196e7e40334]: Commencement: [Sch. 8 Pt. I](https://www.legislation.gov.uk/nisr/2000/375/schedule/8/part/I) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-ebb8838f3912c4df1bd0a96455ee6545]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/nisr/2000/375/schedule/8/paragraph/1) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-ebb8838f3912c4df1bd0a96455ee6545]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/nisr/2000/375/schedule/8/paragraph/1) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-997b397239250ee90e5fb6d46987e367]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/nisr/2000/375/schedule/8/paragraph/2) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-997b397239250ee90e5fb6d46987e367]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/nisr/2000/375/schedule/8/paragraph/2) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-44bc646329bfd0ebdb201854e15e3ff9]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/nisr/2000/375/schedule/9/paragraph/1) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-44bc646329bfd0ebdb201854e15e3ff9]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/nisr/2000/375/schedule/9/paragraph/1) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
 [^f00030]: Footnote: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29); section 1(7) was amended by the Oil and Gas (Enterprise) Act [1982 (c. 23)](https://www.legislation.gov.uk/ukpga/1982/23), Schedule 3, paragraph 1
 
-[^key-a843e322930cac50318dfb4992868277]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/nisr/2000/375/schedule/9/paragraph/2) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-a843e322930cac50318dfb4992868277]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/nisr/2000/375/schedule/9/paragraph/2) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-33f2e860f4e16f11e87a6ae108b31d8f]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/nisr/2000/375/schedule/9/paragraph/3) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-33f2e860f4e16f11e87a6ae108b31d8f]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/nisr/2000/375/schedule/9/paragraph/3) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-0dfba6f0f7555ae6c8b2883fad7ffc7e]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/nisr/2000/375/schedule/9/paragraph/4) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-0dfba6f0f7555ae6c8b2883fad7ffc7e]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/nisr/2000/375/schedule/9/paragraph/4) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-5a641cdd0ebab0fd4f11b8303ba633c3]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/nisr/2000/375/schedule/9/paragraph/5) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-5a641cdd0ebab0fd4f11b8303ba633c3]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/nisr/2000/375/schedule/9/paragraph/5) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
 [^f00031]: Footnote: [1969 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1969/6)
 
-[^key-e497c793e8b23e4f02064b2876389a95]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/nisr/2000/375/schedule/9/paragraph/6) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-e497c793e8b23e4f02064b2876389a95]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/nisr/2000/375/schedule/9/paragraph/6) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-2f3e0af747729e3d1594c9c0e6752390]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/nisr/2000/375/schedule/10/paragraph/1) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-2f3e0af747729e3d1594c9c0e6752390]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/nisr/2000/375/schedule/10/paragraph/1) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
 [^f00032]: Footnote: [S.I. 1990/246 (N.I. 2)](https://www.legislation.gov.uk/nisi/1990/246)
 
-[^key-63ec24f4acc05654f6c8d1e844ea1977]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/nisr/2000/375/schedule/10/paragraph/2) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-63ec24f4acc05654f6c8d1e844ea1977]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/nisr/2000/375/schedule/10/paragraph/2) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
 [^f00033]: Footnote: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919)
 
-[^key-b9920750b9678331a7a9a09a2048bfaf]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/nisr/2000/375/schedule/10/paragraph/3) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-b9920750b9678331a7a9a09a2048bfaf]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/nisr/2000/375/schedule/10/paragraph/3) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
 [^f00034]: Footnote: [S.R. 1993 No. 20](https://www.legislation.gov.uk/nisr/1993/20)
 
-[^key-092ec67b7ff7e7891d56824ece139b13]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/nisr/2000/375/schedule/10/paragraph/4) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-092ec67b7ff7e7891d56824ece139b13]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/nisr/2000/375/schedule/10/paragraph/4) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
 [^f00035]: Footnote: [S.R. 1994 No. 6](https://www.legislation.gov.uk/nisr/1994/6)
 
-[^key-4edf8a178785af210a1d2d696c6a85c7]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/nisr/2000/375/schedule/10/paragraph/5) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-4edf8a178785af210a1d2d696c6a85c7]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/nisr/2000/375/schedule/10/paragraph/5) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
 [^f00036]: Footnote: [S.R. 1995 No. 60](https://www.legislation.gov.uk/nisr/1995/60)
 
-[^key-e370de9a788a7c65b8e3ca87597c0086]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/nisr/2000/375/schedule/10/paragraph/6) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-e370de9a788a7c65b8e3ca87597c0086]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/nisr/2000/375/schedule/10/paragraph/6) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
 [^f00037]: Footnote: [S.R. 1997 No. 455](https://www.legislation.gov.uk/nisr/1997/455)
 
-[^key-1021d7d9730aeb915c204e36bda3331d]: Textual amendment: [Sch. 10 para. 7](https://www.legislation.gov.uk/nisr/2000/375/schedule/10/paragraph/7) revoked (27.2.2004) by [Packaging, Labelling and Carriage of Radioactive Material by Rail Regulations (Northern Ireland) 2003 (S.R. 2003/533)](https://www.legislation.gov.uk/nisr/2003/533), [regs. 1](https://www.legislation.gov.uk/nisr/2003/533/regulation/1), [5](https://www.legislation.gov.uk/nisr/2003/533/regulation/5), [Sch. 2](https://www.legislation.gov.uk/nisr/2003/533/schedule/2)
+[^c-1021d7d9730aeb915c204e36bda3331d]: Textual amendment: [Sch. 10 para. 7](https://www.legislation.gov.uk/nisr/2000/375/schedule/10/paragraph/7) revoked (27.2.2004) by [Packaging, Labelling and Carriage of Radioactive Material by Rail Regulations (Northern Ireland) 2003 (S.R. 2003/533)](https://www.legislation.gov.uk/nisr/2003/533), [regs. 1](https://www.legislation.gov.uk/nisr/2003/533/regulation/1), [5](https://www.legislation.gov.uk/nisr/2003/533/regulation/5), [Sch. 2](https://www.legislation.gov.uk/nisr/2003/533/schedule/2)
 
-[^key-278f9adfd4ac5c9f1b7a590cf74422fb]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/nisr/2000/375/schedule/10/paragraph/7) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-278f9adfd4ac5c9f1b7a590cf74422fb]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/nisr/2000/375/schedule/10/paragraph/7) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
-[^key-35a04d6cd1d1104a592a1d605d4cdc2e]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/nisr/2000/375/schedule/10/paragraph/8) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-35a04d6cd1d1104a592a1d605d4cdc2e]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/nisr/2000/375/schedule/10/paragraph/8) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
 [^f00039]: Footnote: [S.R. 1998 No. 125](https://www.legislation.gov.uk/nisr/1998/125)
 
-[^key-d0f3379c27d78e5411fb5609852e093c]: Commencement: [Sch. 10 para. 9](https://www.legislation.gov.uk/nisr/2000/375/schedule/10/paragraph/9) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
+[^c-d0f3379c27d78e5411fb5609852e093c]: Commencement: [Sch. 10 para. 9](https://www.legislation.gov.uk/nisr/2000/375/schedule/10/paragraph/9) in operation at 8.1.2001, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2000/375/regulation/1/a)
 
 [^f00040]: Footnote: [S.R. 1999 No. 90](https://www.legislation.gov.uk/nisr/1999/90)

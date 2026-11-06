@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-75977519e90ff45bdba45d3e508bc5c7] If a person aggrieved by a decision of the project authority[^key-e29520bd65e968732a2c0529068898b0] to proceed with the construction or improvement for which an environmental statement has been made desires to question the validity of the decision on the ground that—
+(1)[^c-75977519e90ff45bdba45d3e508bc5c7] If a person aggrieved by a decision of the project authority[^c-e29520bd65e968732a2c0529068898b0] to proceed with the construction or improvement for which an environmental statement has been made desires to question the validity of the decision on the ground that—
 
 - (a) it is not within the powers of this Act; or
 - (b) any requirement of this Part of this Act has not been complied with in relation to the decision;
@@ -40,6 +40,6 @@ he may, within 6 weeks from the date on which the decision is first published un
 
 [^c13422031]: Textual amendment: Pt. VA substituted (13.3.1999) by [S.I. 1999/369](https://www.legislation.gov.uk/uksi/1999/369), [reg.2](https://www.legislation.gov.uk/uksi/1999/369/regulation/2)
 
-[^key-75977519e90ff45bdba45d3e508bc5c7]: Modification: S. 105D(1) modified (1.4.2018) by [The Sub-national Transport Body (Transport for the North) Regulations 2018 (S.I. 2018/103)](https://www.legislation.gov.uk/uksi/2018/103), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/1/2), [12(e)](https://www.legislation.gov.uk/uksi/2018/103/regulation/12/e)
+[^c-75977519e90ff45bdba45d3e508bc5c7]: Modification: S. 105D(1) modified (1.4.2018) by [The Sub-national Transport Body (Transport for the North) Regulations 2018 (S.I. 2018/103)](https://www.legislation.gov.uk/uksi/2018/103), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/1/2), [12(e)](https://www.legislation.gov.uk/uksi/2018/103/regulation/12/e)
 
-[^key-e29520bd65e968732a2c0529068898b0]: Textual amendment: Words in s. 105D(1) substituted (5.12.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2017/1070/schedule/2/paragraph/7) (with [Sch. 6 para. 6](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/6))
+[^c-e29520bd65e968732a2c0529068898b0]: Textual amendment: Words in s. 105D(1) substituted (5.12.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2017/1070/schedule/2/paragraph/7) (with [Sch. 6 para. 6](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/6))

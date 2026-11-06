@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62. Approvals of out of hours arrangements under general medical services and default contracts[^key-c7fe28e4f0ed8276daad96e3809510cb]
+## 62. Approvals of out of hours arrangements under general medical services and default contracts[^c-c7fe28e4f0ed8276daad96e3809510cb]
 
 *Extent: N.I.*
 
@@ -51,4 +51,4 @@ that approval shall, if the medical practitioner meets the requirements in Artic
 
 ## Annotations
 
-[^key-c7fe28e4f0ed8276daad96e3809510cb]: Commencement: Art. 62 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-c7fe28e4f0ed8276daad96e3809510cb]: Commencement: Art. 62 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

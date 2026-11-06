@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Fee for regulatory advice[^key-88c0216c57df2173b3f3df8fe88386f9]
+## 9. Fee for regulatory advice[^c-88c0216c57df2173b3f3df8fe88386f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88c0216c57df2173b3f3df8fe88386f9]: Textual amendment: Reg. 9 omitted (1.4.2025) by virtue of [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2025/317/regulation/9)
+[^c-88c0216c57df2173b3f3df8fe88386f9]: Textual amendment: Reg. 9 omitted (1.4.2025) by virtue of [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2025/317/regulation/9)

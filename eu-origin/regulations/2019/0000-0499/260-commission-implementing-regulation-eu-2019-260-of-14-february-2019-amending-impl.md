@@ -33,22 +33,22 @@ of 14 February 2019
 
 amending Implementing Regulation (EU) No 180/2014 as regards the volumes of traditional trade flows between certain outermost regions of the Union and the United Kingdom (revoked)
 
-[^key-60dcdebc565eb21d9634cfd1d9161480]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-60dcdebc565eb21d9634cfd1d9161480]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-60dcdebc565eb21d9634cfd1d9161480] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-60dcdebc565eb21d9634cfd1d9161480] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-60dcdebc565eb21d9634cfd1d9161480] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-60dcdebc565eb21d9634cfd1d9161480] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-60dcdebc565eb21d9634cfd1d9161480]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-60dcdebc565eb21d9634cfd1d9161480]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-60dcdebc565eb21d9634cfd1d9161480]
+## ANNEX[^c-60dcdebc565eb21d9634cfd1d9161480]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-60dcdebc565eb21d9634cfd1d9161480]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 104](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/104)
+[^c-60dcdebc565eb21d9634cfd1d9161480]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 104](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/104)

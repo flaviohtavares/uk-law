@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17A. Biodiesel used otherwise than as road fuel[^key-a3700407b8a643c9b6c43b92befd023f]
+## 17A. Biodiesel used otherwise than as road fuel[^c-a3700407b8a643c9b6c43b92befd023f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3700407b8a643c9b6c43b92befd023f]: Textual amendment: S. 17A omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 5 paras. 14](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/14), [26(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/26/b)
+[^c-a3700407b8a643c9b6c43b92befd023f]: Textual amendment: S. 17A omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 5 paras. 14](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/14), [26(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/26/b)

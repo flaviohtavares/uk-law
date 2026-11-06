@@ -45,11 +45,11 @@ Coming into force
 
 The Secretary of State for Defence in exercise of the powers conferred by section 3(6) of the Ministry of Defence Police Act 1987[^f00001] and of all other powers enabling him in that behalf and after consultation with the management committee of the Defence Police Federation in accordance with the provisions of section 3(6) of that Act, hereby makes the following Regulations:—
 
-## 1. Citation and Commencement[^key-46a51da6441147a67dea9c35dee9ac0c]
+## 1. Citation and Commencement[^c-46a51da6441147a67dea9c35dee9ac0c]
 
 These Regulations may be cited as the Ministry of Defence Police (Defence Police Federation) Regulations 1988 and shall come into force on 23rd January 1989.
 
-## 2. Interpretation[^key-097874ca7e6529d7329b017cbd966e83]
+## 2. Interpretation[^c-097874ca7e6529d7329b017cbd966e83]
 
 In these Regulations:—
 
@@ -61,7 +61,7 @@ In these Regulations:—
 - “the Rules” means the Rules and Constitution of the Defence Police Federation in force at the date hereof or from time to time in force;
 - “subscriptions” means subscriptions to the Defence Police Federation from the members thereof.
 
-## 3. Membership of the Defence Police Federation and branches thereof[^key-f77660086d2163516e4bf1e22dfee312]
+## 3. Membership of the Defence Police Federation and branches thereof[^c-f77660086d2163516e4bf1e22dfee312]
 
 (1) Membership of the Federation shall be open to every member of the Defence Police Force below the rank of Assistant Chief Constable, subject to the Rules.
 
@@ -69,7 +69,7 @@ In these Regulations:—
 
 (3) The Management Committee shall have the power at its discretion and subject to the Rules to expel any member from the Federation subject to such member having the right to appeal to the next Annual Conference of the Federation following such expulsion.
 
-## 4. The Organisation of the Federation[^key-0a4a3da77d47a8101c4b8cb5adf15044]
+## 4. The Organisation of the Federation[^c-0a4a3da77d47a8101c4b8cb5adf15044]
 
 (1) The management of the Federation shall be vested in the Management Committee and the Officers who shall act in accordance with the Rules.
 
@@ -81,7 +81,7 @@ In these Regulations:—
 
 (5) The Federation shall hold a conference of its members each year for the purpose of conducting such business as may be prescribed in these Regulations or in the Rules.
 
-## 5. The Raising of Funds[^key-89dd6cd2c783bc791ca19d00b8ae8f82]
+## 5. The Raising of Funds[^c-89dd6cd2c783bc791ca19d00b8ae8f82]
 
 (1) The Federation may raise funds by:—
 
@@ -94,22 +94,22 @@ In these Regulations:—
 
 (3) The Federation shall determine the amount of the subscriptions each year at the Annual Conference of the Federation.
 
-## 6. Accounts[^key-d469dc7fa196dfc4dddc6a2bfb544bca]
+## 6. Accounts[^c-d469dc7fa196dfc4dddc6a2bfb544bca]
 
 (1) The Management Committee and all regional committees shall, in relation to the Federation funds held by the committee in question, keep accounts showing all monies received or paid out and shall cause the accounts for each year to be audited by an independent auditor.
 
 (2) The independent auditor shall be a person who is qualified for appointment as an auditor of a company within the meaning of section 389 of the Companies Act 1985[^f00002].
 
-## 7. Use of Federation Funds[^key-29304233399fb3ef344c287ac0beacf0]
+## 7. Use of Federation Funds[^c-29304233399fb3ef344c287ac0beacf0]
 
 (1) Notwithstanding anything contained in this Regulation 7, the funds of the Federation shall not be used:
 
-- (a) to support a political party or to promote directly or indirectly a person’s candidature in a Parliamentary [^key-9871cc292e8449ef7838bb41a59f2f07]... or local government election; or
+- (a) to support a political party or to promote directly or indirectly a person’s candidature in a Parliamentary [^c-9871cc292e8449ef7838bb41a59f2f07]... or local government election; or
 - (b) to contribute to the funds of a political party or trade union or of any body or organisation not connected with the police service or its welfare or with the carrying out of charitable work for the welfare of others.
 
 (2) Subject as aforesaid and to any provisions contained in the Rules, the funds of the Federation may be used for any purposes which the Management Committee may determine to be necessary or expedient in the interests of the Federation, its members or its former members.
 
-## 8. Consultation[^key-cf8cb10ac2ba473df983b7c4441944cd]
+## 8. Consultation[^c-cf8cb10ac2ba473df983b7c4441944cd]
 
 (1) Representatives of the Federation shall continue to have access to Ministers of the Ministry of Defence in accordance with such consultation machinery as may be agreed from time to time between the Secretary of State and the Federation.
 
@@ -139,22 +139,22 @@ Regulation 8 makes provision for representatives of the Federation to have acces
 
 [^f00001]: Footnote: [1987 c. 4](https://www.legislation.gov.uk/ukpga/1987/4).
 
-[^key-46a51da6441147a67dea9c35dee9ac0c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1988/2208/regulation/1) in force at 23.1.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/2208/regulation/1)
+[^c-46a51da6441147a67dea9c35dee9ac0c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1988/2208/regulation/1) in force at 23.1.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/2208/regulation/1)
 
-[^key-097874ca7e6529d7329b017cbd966e83]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1988/2208/regulation/2) in force at 23.1.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/2208/regulation/1)
+[^c-097874ca7e6529d7329b017cbd966e83]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1988/2208/regulation/2) in force at 23.1.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/2208/regulation/1)
 
-[^key-f77660086d2163516e4bf1e22dfee312]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1988/2208/regulation/3) in force at 23.1.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/2208/regulation/1)
+[^c-f77660086d2163516e4bf1e22dfee312]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1988/2208/regulation/3) in force at 23.1.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/2208/regulation/1)
 
-[^key-0a4a3da77d47a8101c4b8cb5adf15044]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1988/2208/regulation/4) in force at 23.1.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/2208/regulation/1)
+[^c-0a4a3da77d47a8101c4b8cb5adf15044]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1988/2208/regulation/4) in force at 23.1.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/2208/regulation/1)
 
-[^key-89dd6cd2c783bc791ca19d00b8ae8f82]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1988/2208/regulation/5) in force at 23.1.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/2208/regulation/1)
+[^c-89dd6cd2c783bc791ca19d00b8ae8f82]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1988/2208/regulation/5) in force at 23.1.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/2208/regulation/1)
 
-[^key-d469dc7fa196dfc4dddc6a2bfb544bca]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1988/2208/regulation/6) in force at 23.1.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/2208/regulation/1)
+[^c-d469dc7fa196dfc4dddc6a2bfb544bca]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1988/2208/regulation/6) in force at 23.1.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/2208/regulation/1)
 
 [^f00002]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
 
-[^key-29304233399fb3ef344c287ac0beacf0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1988/2208/regulation/7) in force at 23.1.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/2208/regulation/1)
+[^c-29304233399fb3ef344c287ac0beacf0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1988/2208/regulation/7) in force at 23.1.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/2208/regulation/1)
 
-[^key-9871cc292e8449ef7838bb41a59f2f07]: Textual amendment: Words in [reg. 7(1)(a)](https://www.legislation.gov.uk/uksi/1988/2208/regulation/7/1/a) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-9871cc292e8449ef7838bb41a59f2f07]: Textual amendment: Words in [reg. 7(1)(a)](https://www.legislation.gov.uk/uksi/1988/2208/regulation/7/1/a) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
-[^key-cf8cb10ac2ba473df983b7c4441944cd]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1988/2208/regulation/8) in force at 23.1.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/2208/regulation/1)
+[^c-cf8cb10ac2ba473df983b7c4441944cd]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1988/2208/regulation/8) in force at 23.1.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/2208/regulation/1)

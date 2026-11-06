@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Vulnerable witnesses[^key-3f3cfcbf11d26458f66dce8756f5c5cb]
+## 58. Vulnerable witnesses[^c-3f3cfcbf11d26458f66dce8756f5c5cb]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f3cfcbf11d26458f66dce8756f5c5cb]: Commencement: S. 58 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-3f3cfcbf11d26458f66dce8756f5c5cb]: Commencement: S. 58 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

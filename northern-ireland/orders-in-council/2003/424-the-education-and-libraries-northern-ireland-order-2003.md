@@ -85,7 +85,7 @@ by the Department in accordance with the following provisions of this Article.
 
 (4) The Department shall prepare a draft scheme after consultation with—
 
-- (a) the Authority[^key-8310fd889699fedcaf94e0dff1ca9a76] ;
+- (a) the Authority[^c-8310fd889699fedcaf94e0dff1ca9a76] ;
 - (b) the Council for Catholic Maintained Schools; and
 - (c) such other bodies and persons as it thinks fit.
 
@@ -97,7 +97,7 @@ by the Department in accordance with the following provisions of this Article.
 
 (6) The Authority shall, in such manner as the Department may direct—
 
-- (a) consult the Board of Governors of every relevant[^c17055611]. . . school [^key-b207ed3f9bce638a437ef2a5a0f855fd]... about the draft scheme; and
+- (a) consult the Board of Governors of every relevant[^c17055611]. . . school [^c-b207ed3f9bce638a437ef2a5a0f855fd]... about the draft scheme; and
 - (b) inform the Department of the outcome of those consultations.
 
 *Para. (7) rep. by 2003 NI 12*
@@ -198,7 +198,7 @@ and shall then—
 
 (1) The common funding scheme shall require the Authority —
 
-- (a) before the beginning of each financial year to prepare and publish a statement of the financial provision it plans to make in that year for relevant[^c17055621]. . . schools [^key-ce932ff04c16a9408619be9d719267bb]...;
+- (a) before the beginning of each financial year to prepare and publish a statement of the financial provision it plans to make in that year for relevant[^c17055621]. . . schools [^c-ce932ff04c16a9408619be9d719267bb]...;
 - (b) after the end of each financial year to prepare and publish a statement of—
   - (i) resources actually used in that year for the purposes of all relevant[^c17055621]. . . schools; and
   - (ii) resources so used which were used, or are treated by the Authority as having been used, for the purposes of each such school.
@@ -233,7 +233,7 @@ with a copy of each statement prepared by the Authority under this Article.
 (2) In this Part—
 
 - “the scheme” means the common funding scheme under Article 3;
-- [^key-51dceb62c29c3fa370e118f86bc835ba]...
+- [^c-51dceb62c29c3fa370e118f86bc835ba]...
 
 (3) References in this Part—
 
@@ -249,39 +249,39 @@ with a copy of each statement prepared by the Authority under this Article.
 
 *Article 9—Amendments*
 
-## PART III — BOARDS: FINANCE AND THE DUTY OF BEST VALUE[^key-a5a714cea8cc35ab63a40099f99e7c81]
+## PART III — BOARDS: FINANCE AND THE DUTY OF BEST VALUE[^c-a5a714cea8cc35ab63a40099f99e7c81]
 
 **No longer in force.**
 
-### Financing of boards[^key-a5a714cea8cc35ab63a40099f99e7c81]
+### Financing of boards[^c-a5a714cea8cc35ab63a40099f99e7c81]
 
-#### 10. Resource allocation plans[^key-a5a714cea8cc35ab63a40099f99e7c81]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 11. Funding of boards[^key-a5a714cea8cc35ab63a40099f99e7c81]
+#### 10. Resource allocation plans[^c-a5a714cea8cc35ab63a40099f99e7c81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Accounts of boards[^key-a5a714cea8cc35ab63a40099f99e7c81]
+#### 11. Funding of boards[^c-a5a714cea8cc35ab63a40099f99e7c81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### The duty of best value[^key-a5a714cea8cc35ab63a40099f99e7c81]
-
-#### 13. The duty of best value[^key-a5a714cea8cc35ab63a40099f99e7c81]
+#### 12. Accounts of boards[^c-a5a714cea8cc35ab63a40099f99e7c81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Contracts: exclusion of non-commercial considerations[^key-a5a714cea8cc35ab63a40099f99e7c81]
+### The duty of best value[^c-a5a714cea8cc35ab63a40099f99e7c81]
+
+#### 13. The duty of best value[^c-a5a714cea8cc35ab63a40099f99e7c81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Power to modify statutory provisions and confer new powers[^key-a5a714cea8cc35ab63a40099f99e7c81]
+#### 14. Contracts: exclusion of non-commercial considerations[^c-a5a714cea8cc35ab63a40099f99e7c81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Repeal of competition provisions[^key-a5a714cea8cc35ab63a40099f99e7c81]
+#### 15. Power to modify statutory provisions and confer new powers[^c-a5a714cea8cc35ab63a40099f99e7c81]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 16. Repeal of competition provisions[^c-a5a714cea8cc35ab63a40099f99e7c81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -308,7 +308,7 @@ with a copy of each statement prepared by the Authority under this Article.
 - (b) to review those measures—
   - (i) from time to time; and
   - (ii) (without prejudice to head (i)) at such times as the Department may direct;
-- (c) in determining or reviewing those measures to have regard to any guidance given by the Department, the Authority [^key-51cba9ebed5b94babbb2b043ee98dfcd]... and (in the case of a Catholic maintained school) the Council for Catholic Maintained Schools;
+- (c) in determining or reviewing those measures to have regard to any guidance given by the Department, the Authority [^c-51cba9ebed5b94babbb2b043ee98dfcd]... and (in the case of a Catholic maintained school) the Council for Catholic Maintained Schools;
 - (d) to prepare a written statement of such measures and to secure that—
   - (i) a copy of that statement is given (free of charge) to the parents of all registered pupils at the school and to the staff of the school; and
   - (ii) copies of the statement are available for inspection (at all reasonable times and free of charge) at the school; and
@@ -387,7 +387,7 @@ with a copy of each statement prepared by the Authority under this Article.
 
 #### 22. Admission to special schools of children resident outside Northern Ireland
 
-(1) The Authority may make arrangements for the admission to a special school [^key-651df6924a082ed69c960783852ae1ac]... of a child who is resident outside Northern Ireland and has special educational needs.
+(1) The Authority may make arrangements for the admission to a special school [^c-651df6924a082ed69c960783852ae1ac]... of a child who is resident outside Northern Ireland and has special educational needs.
 
 (2) Arrangements made in respect of a child under this Article shall not be for a period of more than one school year at a time; but further arrangements may be made under this Article for a subsequent school year in respect of the same child and the same special school.
 
@@ -523,19 +523,19 @@ In Article 25(4) of the 1997 Order (definition of costs of relevant authority on
 
 .
 
-(3)[^key-2986d3d6d53bb9f9bd9f174e7de2799a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2986d3d6d53bb9f9bd9f174e7de2799a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-2986d3d6d53bb9f9bd9f174e7de2799a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-2986d3d6d53bb9f9bd9f174e7de2799a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-2986d3d6d53bb9f9bd9f174e7de2799a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-2986d3d6d53bb9f9bd9f174e7de2799a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-2986d3d6d53bb9f9bd9f174e7de2799a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-2986d3d6d53bb9f9bd9f174e7de2799a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 30. Officers of boards[^key-75df35dab6eb620cd47dc20cdc7b665a]
+#### 30. Officers of boards[^c-75df35dab6eb620cd47dc20cdc7b665a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 31. Principals on teaching appointments committee[^key-75df35dab6eb620cd47dc20cdc7b665a]
+#### 31. Principals on teaching appointments committee[^c-75df35dab6eb620cd47dc20cdc7b665a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -652,7 +652,7 @@ to the Department as the Department may reasonably require for the purposes of i
 - (c) the Board of Governors of a grant-aided school;
 - (d) the proprietor of an independent school;
 - (e) the Council for Catholic Maintained Schools;
-- (f)[^key-fb1d2be720b844c567b6ad3b3409d098] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-fb1d2be720b844c567b6ad3b3409d098] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) the Northern Ireland Council for the Curriculum, Examinations and Assessment.
 
 (3) A body to which this paragraph applies shall—
@@ -668,14 +668,14 @@ to the Authority as the Authority may reasonably require for the purposes of its
 - (b) the Board of Governors of a grant-aided school; and
 - (c) the proprietor of an independent school.
 
-(5) The Authority[^key-ce7b1f205ecbe8709d441f145ec84fa6] shall—
+(5) The Authority[^c-ce7b1f205ecbe8709d441f145ec84fa6] shall—
 
 - (a) make such reports and returns; and
 - (b) give such information,
 
 to the Department of Culture, Arts and Leisure as that Department may reasonably require for the purposes of its functions under any statutory provision.
 
-(6)[^key-d526290fabef97ab11ae8a3d6e240080] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-d526290fabef97ab11ae8a3d6e240080] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) A body to which this paragraph applies shall—
 
@@ -686,14 +686,14 @@ to the Department for Employment and Learning as that Department may reasonably 
 
 (8) Paragraph (7) applies to—
 
-- (a)[^key-88a04338065df5965626893494528b23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-88a04338065df5965626893494528b23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the managers of a college of education;
 - (c) the governing body of a university; and
 - (d) the Northern Ireland Council for the Curriculum, Examinations and Assessment.
 
 (9) In Article 21 of the Further Education (Northern Ireland) Order 1997 (NI 15) in paragraph (1)(b) (duty of governing body of institution of further education to provide information to the Authority for the purposes of its functions under the Education Orders) for the words “the Education Orders” there shall be substituted “ any statutory provision ”.
 
-#### 38. Annual report of boards[^key-11e8ea0f059d8a4ddcfe13d316050332]
+#### 38. Annual report of boards[^c-11e8ea0f059d8a4ddcfe13d316050332]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -719,25 +719,25 @@ to the Department for Employment and Learning as that Department may reasonably 
 
 [^c19424151]: Textual amendment: Art. 2(4) repealed (1.8.2006) by [Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11))](https://www.legislation.gov.uk/nisi/2006/1915), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2006/1915/article/1/2), [44(2)](https://www.legislation.gov.uk/nisi/2006/1915/article/44/2), [Sch. 3 Pt. I](https://www.legislation.gov.uk/nisi/2006/1915/schedule/3/part/I)
 
-[^key-8310fd889699fedcaf94e0dff1ca9a76]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisi/2003/424) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-8310fd889699fedcaf94e0dff1ca9a76]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisi/2003/424) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c17055611]: Textual amendment: [2003 NI 12](https://www.legislation.gov.uk/nisi/2003)
 
-[^key-b207ed3f9bce638a437ef2a5a0f855fd]: Textual amendment: Words in art. 3(6)(a) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-b207ed3f9bce638a437ef2a5a0f855fd]: Textual amendment: Words in art. 3(6)(a) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c17055621]: Textual amendment: [2003 NI 12](https://www.legislation.gov.uk/nisi/2003)
 
-[^key-ce932ff04c16a9408619be9d719267bb]: Textual amendment: Words in art. 7(1)(a) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-ce932ff04c16a9408619be9d719267bb]: Textual amendment: Words in art. 7(1)(a) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-51dceb62c29c3fa370e118f86bc835ba]: Textual amendment: Words in art. 8(2) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-51dceb62c29c3fa370e118f86bc835ba]: Textual amendment: Words in art. 8(2) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-a5a714cea8cc35ab63a40099f99e7c81]: Textual amendment: Pt. III repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-a5a714cea8cc35ab63a40099f99e7c81]: Textual amendment: Pt. III repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c19425501]: Textual amendment: Words in art. 17(1) substituted (23.3.2007) by [Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11))](https://www.legislation.gov.uk/nisi/2006/1915), [arts. 1(4)(c)](https://www.legislation.gov.uk/nisi/2006/1915/article/1/4/c), [44(1)](https://www.legislation.gov.uk/nisi/2006/1915/article/44/1), [Sch. 2 para. 45](https://www.legislation.gov.uk/nisi/2006/1915/schedule/2/paragraph/45); [S.R. 2007/197](https://www.legislation.gov.uk/nisr/2007/197), [art. 2(a)](https://www.legislation.gov.uk/nisr/2007/197/article/2/a)
 
-[^key-51cba9ebed5b94babbb2b043ee98dfcd]: Textual amendment: Words in art. 18(1)(c) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-51cba9ebed5b94babbb2b043ee98dfcd]: Textual amendment: Words in art. 18(1)(c) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-651df6924a082ed69c960783852ae1ac]: Textual amendment: Words in art. 22(1) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-651df6924a082ed69c960783852ae1ac]: Textual amendment: Words in art. 22(1) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c19424711]: Textual amendment: Art. 26 repealed (1.8.2006) by [Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11))](https://www.legislation.gov.uk/nisi/2006/1915), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2006/1915/article/1/2), [44(2)](https://www.legislation.gov.uk/nisi/2006/1915/article/44/2), [Sch. 3 Pt. I](https://www.legislation.gov.uk/nisi/2006/1915/schedule/3/part/I)
 
@@ -745,18 +745,18 @@ to the Department for Employment and Learning as that Department may reasonably 
 
 [^c19424941]: Textual amendment: Art. 27(2) repealed (1.8.2006) by [Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11))](https://www.legislation.gov.uk/nisi/2006/1915), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2006/1915/article/1/2), [44(2)](https://www.legislation.gov.uk/nisi/2006/1915/article/44/2), [Sch. 3 Pt. I](https://www.legislation.gov.uk/nisi/2006/1915/schedule/3/part/I)
 
-[^key-2986d3d6d53bb9f9bd9f174e7de2799a]: Textual amendment: Art. 29(3)-(6) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-2986d3d6d53bb9f9bd9f174e7de2799a]: Textual amendment: Art. 29(3)-(6) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-75df35dab6eb620cd47dc20cdc7b665a]: Textual amendment: Art. 31 repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-75df35dab6eb620cd47dc20cdc7b665a]: Textual amendment: Art. 31 repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c19425101]: Textual amendment: Art. 36(1)(c) inserted (23.3.2007) by [Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11))](https://www.legislation.gov.uk/nisi/2006/1915), [arts. 1(4)(c)](https://www.legislation.gov.uk/nisi/2006/1915/article/1/4/c), [44(1)](https://www.legislation.gov.uk/nisi/2006/1915/article/44/1), [Sch. 2 para. 46](https://www.legislation.gov.uk/nisi/2006/1915/schedule/2/paragraph/46); [S.R. 2007/197](https://www.legislation.gov.uk/nisr/2007/197), [art. 2(a)](https://www.legislation.gov.uk/nisr/2007/197/article/2/a)
 
-[^key-fb1d2be720b844c567b6ad3b3409d098]: Textual amendment: Art. 37(2)(f) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-fb1d2be720b844c567b6ad3b3409d098]: Textual amendment: Art. 37(2)(f) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-ce7b1f205ecbe8709d441f145ec84fa6]: Textual amendment: Words in art. 37(5) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 3 para. 22](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/22) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-ce7b1f205ecbe8709d441f145ec84fa6]: Textual amendment: Words in art. 37(5) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 3 para. 22](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/22) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-d526290fabef97ab11ae8a3d6e240080]: Textual amendment: Art. 37(6) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-d526290fabef97ab11ae8a3d6e240080]: Textual amendment: Art. 37(6) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-88a04338065df5965626893494528b23]: Textual amendment: Art. 37(8)(a) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-88a04338065df5965626893494528b23]: Textual amendment: Art. 37(8)(a) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-11e8ea0f059d8a4ddcfe13d316050332]: Textual amendment: Art. 38 repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-11e8ea0f059d8a4ddcfe13d316050332]: Textual amendment: Art. 38 repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)

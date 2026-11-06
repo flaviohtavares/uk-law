@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 60. For the protection of Network Rail[^key-831d774422891c873195c174e807bb93]
+## 60. For the protection of Network Rail[^c-831d774422891c873195c174e807bb93]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 7 shall have effect.
 
 ## Annotations
 
-[^key-831d774422891c873195c174e807bb93]: Commencement: Art. 60 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-831d774422891c873195c174e807bb93]: Commencement: Art. 60 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74. Land used for the purposes of education[^key-0289ed85fb27846d66961473f0d48db5]
+## 74. Land used for the purposes of education[^c-0289ed85fb27846d66961473f0d48db5]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ The reserved part shall be 25 per cent. in the case of a capital receipt, other 
 
 ## Annotations
 
-[^key-0289ed85fb27846d66961473f0d48db5]: Commencement: Reg. 74 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-0289ed85fb27846d66961473f0d48db5]: Commencement: Reg. 74 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00072]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Trade licences[^key-59030afb40e38e267378c569b4d33934][^key-c38b33055b6e968d9547a187999bc5c5]
+## 41. Trade licences[^c-59030afb40e38e267378c569b4d33934][^c-c38b33055b6e968d9547a187999bc5c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The prohibitions in Chapters 1 to 3 of Part 5 (Trade) do not apply to anything d
 
 ## Annotations
 
-[^key-59030afb40e38e267378c569b4d33934]: Commencement: Reg. 41 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
+[^c-59030afb40e38e267378c569b4d33934]: Commencement: Reg. 41 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
 
-[^key-c38b33055b6e968d9547a187999bc5c5]: Commencement: Reg. 41 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c38b33055b6e968d9547a187999bc5c5]: Commencement: Reg. 41 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81. Offences by bodies corporate etc. under Part 1A of the 1960 Act[^key-2dc6910df702a2d7d41bbd3c5a17cd0d]
+## 81. Offences by bodies corporate etc. under Part 1A of the 1960 Act[^c-2dc6910df702a2d7d41bbd3c5a17cd0d]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ After section 32Z4 of the 1960 Act (inserted by section 80), insert—
 
 ## Annotations
 
-[^key-2dc6910df702a2d7d41bbd3c5a17cd0d]: Commencement: [S. 81](https://www.legislation.gov.uk/asp/2014/14/section/81) in force at 1.5.2017 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-2dc6910df702a2d7d41bbd3c5a17cd0d]: Commencement: [S. 81](https://www.legislation.gov.uk/asp/2014/14/section/81) in force at 1.5.2017 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

@@ -27,8 +27,8 @@ summary: ''
 
 (2) Section 919(2) does not require any deduction of a sum representing income tax to be made on the payment of the manufactured interest.
 
-(3) In this section “[^key-76f64194ba9ee22e47d9edfcf5d559f5]**manufactured interest**” has the same meaning as in section 919.
+(3) In this section “[^c-76f64194ba9ee22e47d9edfcf5d559f5]**manufactured interest**” has the same meaning as in section 919.
 
 ## Annotations
 
-[^key-76f64194ba9ee22e47d9edfcf5d559f5]: Textual amendment: Words in s. 921(3) substituted (1.1.2014) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/52), [Sch. 29 para. 24](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/24)
+[^c-76f64194ba9ee22e47d9edfcf5d559f5]: Textual amendment: Words in s. 921(3) substituted (1.1.2014) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/52), [Sch. 29 para. 24](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/24)

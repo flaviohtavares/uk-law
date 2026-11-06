@@ -41,13 +41,13 @@ The Welsh Ministers, in exercise of the powers conferred by section 203(1), (6) 
 
 In accordance with section 203(9) of that Act a draft of this Order was laid before and approved by a resolution of the National Assembly for Wales.
 
-## 1. Title and commencement[^key-7217e9f166a43130e67975ee3b3da9ec]
+## 1. Title and commencement[^c-7217e9f166a43130e67975ee3b3da9ec]
 
 (1) The title of this Order is The Town and Country Planning (Determination of Procedure) (Wales) Order 2014.
 
 (2) This Order comes into force 28 days after the day on which it is made.
 
-## 2. Determination of procedure[^key-ddf4b66ca31e400d59c16eeb64686008]
+## 2. Determination of procedure[^c-ddf4b66ca31e400d59c16eeb64686008]
 
 (1) After section 319A of the Town and Country Planning 1990 Act[^f00002] (the title of which becomes “Determination of procedure for certain proceedings: England”) insert—
 
@@ -91,7 +91,7 @@ In accordance with section 203(9) of that Act a draft of this Order was laid bef
 >
 > (11) No order may be made under subsection (9) unless a draft of the instrument containing the order has been laid before and approved by resolution of the National Assembly for Wales.
 
-(2)[^key-2c5a07dededda5a52098022b247f52d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2c5a07dededda5a52098022b247f52d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After section 21A of the Planning (Hazardous Substances) Act 1990[^f00004] insert—
 
@@ -130,7 +130,7 @@ In accordance with section 203(9) of that Act a draft of this Order was laid bef
 >
 > (10) No order may be made by the Welsh Ministers under subsection (8) unless a draft of the instrument containing the order has been laid before, and approved by resolution of the National Assembly for Wales.
 
-## 3. Consequential Amendments[^key-4db4473d2802b85e3ca4a9bbd401c4aa]
+## 3. Consequential Amendments[^c-4db4473d2802b85e3ca4a9bbd401c4aa]
 
 The Schedule (further provisions as to the procedure for certain proceedings) has effect.
 
@@ -144,29 +144,29 @@ Minister for Natural Resources, one of the Welsh Ministers
 
 Article 3
 
-### 1. Town and Country Planning Act 1990[^key-98bec2739c9362393f9e21ba9716e66a]
+### 1. Town and Country Planning Act 1990[^c-98bec2739c9362393f9e21ba9716e66a]
 
 The Town and Country Planning Act 1990 is amended as follows.
 
-**2.**[^key-f6e2a9534792b5aa30462b9bb19017fc] In section 77 (reference of applications to Secretary of State) before subsection (7) insert—
+**2.**[^c-f6e2a9534792b5aa30462b9bb19017fc] In section 77 (reference of applications to Secretary of State) before subsection (7) insert—
 
 > (6A) Subsection (5) does not apply to an application referred to the Welsh Ministers under this section instead of being dealt with by a local planning authority in Wales.
 
-**3.**[^key-48240a1907629a4061d486361e8802a1] In section 78 (right to appeal against planning decisions and failure to take such decisions) in subsection (5)[^f00005] for “and 319A(7)(b)” substitute “, 319A(7)(b) and 319B(7)(b)”.
+**3.**[^c-48240a1907629a4061d486361e8802a1] In section 78 (right to appeal against planning decisions and failure to take such decisions) in subsection (5)[^f00005] for “and 319A(7)(b)” substitute “, 319A(7)(b) and 319B(7)(b)”.
 
-**4.**[^key-de2b4b42afc86df58140b6127aafd85e] In section 79 (determination of appeals) before subsection (4) insert—
+**4.**[^c-de2b4b42afc86df58140b6127aafd85e] In section 79 (determination of appeals) before subsection (4) insert—
 
 > (3A) Subsection (2) does not apply to an appeal to the Welsh Ministers.
 
-**5.**[^key-10d16b73b67ac2c6609383b830a2238a] In section 175 (supplementary provisions about appeals against enforcement notices) before subsection (4) insert—
+**5.**[^c-10d16b73b67ac2c6609383b830a2238a] In section 175 (supplementary provisions about appeals against enforcement notices) before subsection (4) insert—
 
 > (3B) Subsection (3) does not apply to an appeal against an enforcement notice issued by a local planning authority in Wales.
 
-**6.**[^key-cea6b523044f90d518986abff558c1e4] In section 195 (appeals against refusal or failure to give decision on application) in subsection (5)[^f00006] after “For the purposes of the application” insert “in relation to England” and after that subsection insert—
+**6.**[^c-cea6b523044f90d518986abff558c1e4] In section 195 (appeals against refusal or failure to give decision on application) in subsection (5)[^f00006] after “For the purposes of the application” insert “in relation to England” and after that subsection insert—
 
 > (5A) For the purposes of the application in relation to Wales of sections 288(10)(b) and 319B(7)(d) in relation to an appeal in a case within subsection (1)(b) it shall be assumed that the authority decided to refuse the application in question.
 
-**7.**[^key-41374b64c5db32b7867a334300902cc5] (1) Section 196 (further provisions as to references and appeals to the Secretary of State) is amended as follows.
+**7.**[^c-41374b64c5db32b7867a334300902cc5] (1) Section 196 (further provisions as to references and appeals to the Secretary of State) is amended as follows.
 
 (2) Before subsection (2) insert—
 
@@ -174,7 +174,7 @@ The Town and Country Planning Act 1990 is amended as follows.
 
 (3) In subsection (2) for “such an appeal” substitute “an appeal under section 195(1)”.
 
-**8.**[^key-a81e4a35c745e85c8d188972c2276eb3] (1) Section 208 (appeals against notices under section 207) is amended as follows.
+**8.**[^c-a81e4a35c745e85c8d188972c2276eb3] (1) Section 208 (appeals against notices under section 207) is amended as follows.
 
 (2) Before subsection (6) insert—
 
@@ -182,11 +182,11 @@ The Town and Country Planning Act 1990 is amended as follows.
 
 (3) In subsection (6) for “such an appeal is brought” substitute “an appeal is brought under subsection (1)”.
 
-**9.**[^key-cbf4e4f15ed43d3775b917cdcd427991] In section 322 (orders as to costs of parties where no local inquiry held) before subsection (1B)[^f00007] insert—
+**9.**[^c-cbf4e4f15ed43d3775b917cdcd427991] In section 322 (orders as to costs of parties where no local inquiry held) before subsection (1B)[^f00007] insert—
 
 > (1AA) This section also applies to proceedings under this Act to which section 319B applies.
 
-**10.**[^key-a02768f0fc68cf8d61294102e3054831] In section 322A[^f00008] before subsection (2) insert—
+**10.**[^c-a02768f0fc68cf8d61294102e3054831] In section 322A[^f00008] before subsection (2) insert—
 
 > (1B) This section also applies where—
 >
@@ -194,7 +194,7 @@ The Town and Country Planning Act 1990 is amended as follows.
 > - (b) the inquiry or hearing does not take place; and
 > - (c) if it had taken place, the Welsh Ministers or a person appointed by the Welsh Ministers would have had power to make an order under section 250(5) of the Local Government Act 1972 requiring any party to pay any costs of any other party.
 
-**11.**[^key-f510d8ca135e38dadc22842b516683c6] (1) Section 323 is amended as follows.
+**11.**[^c-f510d8ca135e38dadc22842b516683c6] (1) Section 323 is amended as follows.
 
 (2) Before subsection (2) insert—
 
@@ -202,11 +202,11 @@ The Town and Country Planning Act 1990 is amended as follows.
 
 (3) In subsections (2) and (3) for “The regulations may” (in so far as those words continue to form part of those subsections[^f00009]) substitute “Regulations under this section may”.
 
-**12.**[^key-f718845f22728895dd4a6e335a9c742b] In section 333 (regulations and orders) before subsection (5) insert—
+**12.**[^c-f718845f22728895dd4a6e335a9c742b] In section 333 (regulations and orders) before subsection (5) insert—
 
 > (4A) The power to make orders under section 319B(9) shall be exercisable by statutory instrument.
 
-**13.**[^key-8b483e8d81e719b56867ffb24f35549d] (1) Schedule 6 is amended as follows.
+**13.**[^c-8b483e8d81e719b56867ffb24f35549d] (1) Schedule 6 is amended as follows.
 
 (2) In paragraph 2—
 
@@ -242,50 +242,50 @@ The Town and Country Planning Act 1990 is amended as follows.
   ;
 - (b) in sub–paragraph (2)(a) after “2(4)” insert “or this paragraph” (in so far as that sub-paragraph does not already include those words[^f00013]).
 
-### 14. Planning (Listed Buildings and Conservation Areas) Act 1990[^key-063587a029672fcdd6af68a1e4507ca7]
+### 14. Planning (Listed Buildings and Conservation Areas) Act 1990[^c-063587a029672fcdd6af68a1e4507ca7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-063587a029672fcdd6af68a1e4507ca7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-063587a029672fcdd6af68a1e4507ca7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-063587a029672fcdd6af68a1e4507ca7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-063587a029672fcdd6af68a1e4507ca7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-063587a029672fcdd6af68a1e4507ca7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-063587a029672fcdd6af68a1e4507ca7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-063587a029672fcdd6af68a1e4507ca7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-063587a029672fcdd6af68a1e4507ca7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-063587a029672fcdd6af68a1e4507ca7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-063587a029672fcdd6af68a1e4507ca7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-063587a029672fcdd6af68a1e4507ca7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-063587a029672fcdd6af68a1e4507ca7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-063587a029672fcdd6af68a1e4507ca7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-063587a029672fcdd6af68a1e4507ca7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-063587a029672fcdd6af68a1e4507ca7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-063587a029672fcdd6af68a1e4507ca7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-063587a029672fcdd6af68a1e4507ca7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-063587a029672fcdd6af68a1e4507ca7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Planning (Hazardous Substances) Act 1990[^key-063587a029672fcdd6af68a1e4507ca7]
+### 24. Planning (Hazardous Substances) Act 1990[^c-063587a029672fcdd6af68a1e4507ca7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-db25d8b920df238d4f4687a79695ef18] In section 20 (reference of applications to the Secretary of State) before subsection (5) insert—
+**25.**[^c-db25d8b920df238d4f4687a79695ef18] In section 20 (reference of applications to the Secretary of State) before subsection (5) insert—
 
 > (4B) Subsection (4) does not apply to an application referred to the Welsh Ministers under this section instead of being dealt with by a hazardous substances authority in Wales.
 
-**26.**[^key-a4a85dc58215100e25095922247bd9a8] In section 21 (appeals against decisions or failure to take decisions relating to hazardous substances) before subsection (6) insert—
+**26.**[^c-a4a85dc58215100e25095922247bd9a8] In section 21 (appeals against decisions or failure to take decisions relating to hazardous substances) before subsection (6) insert—
 
 > (5B) Subsection (5) does not apply to an appeal against a decision of a hazardous substances authority in Wales.
 
-**27.**[^key-85fa12b3f9ddc4d7c2c520c9fb556d92] In section 25(1) (appeals against hazardous substances contravention notices: supplementary provisions)—
+**27.**[^c-85fa12b3f9ddc4d7c2c520c9fb556d92] In section 25(1) (appeals against hazardous substances contravention notices: supplementary provisions)—
 
 - (a) in paragraph (b)(v)[^f00019] before “of this Act” insert “and section 21B”; and
 - (b) in paragraph (c) for “that Act” substitute “the principal Act”.
 
-**28.**[^key-a30564ee57d521f91f445ca2a413a6e4] After section 37 at the end insert—
+**28.**[^c-a30564ee57d521f91f445ca2a413a6e4] After section 37 at the end insert—
 
 > (4) In the application of sections 322, 322A and 323 of that Act by virtue of this section in relation to proceedings in Wales, references to section 319B of that Act shall have effect as references to section 21B of this Act.
 
-**29.**[^key-7e9135f19de437a8fbdb744e8a1bb348] (1) The Schedule is amended as follows.
+**29.**[^c-7e9135f19de437a8fbdb744e8a1bb348] (1) The Schedule is amended as follows.
 
 (2) In paragraph 2 before sub-paragraph (5) insert—
 
@@ -330,53 +330,53 @@ An impact assessment has been prepared in relation to this instrument. Copies ma
 
 [^f00001]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29).
 
-[^key-7217e9f166a43130e67975ee3b3da9ec]: Commencement: Art. 1 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
+[^c-7217e9f166a43130e67975ee3b3da9ec]: Commencement: Art. 1 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
 
-[^key-ddf4b66ca31e400d59c16eeb64686008]: Commencement: Art. 2 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
+[^c-ddf4b66ca31e400d59c16eeb64686008]: Commencement: Art. 2 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
 
 [^f00002]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Section 319A was inserted by section 196(1) of the 2008 Act. It was amended by the Growth and Infrastructure Act [2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27). Section 196(1) has not been fully commenced.
 
-[^key-2c5a07dededda5a52098022b247f52d4]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/2/2) omitted (4.11.2024) by virtue of [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [62(a)](https://www.legislation.gov.uk/wsi/2024/924/regulation/62/a)
+[^c-2c5a07dededda5a52098022b247f52d4]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/2/2) omitted (4.11.2024) by virtue of [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [62(a)](https://www.legislation.gov.uk/wsi/2024/924/regulation/62/a)
 
 [^f00004]: Footnote: [1990 c. 10](https://www.legislation.gov.uk/ukpga/1990/10). Section 21A was inserted by section 196(3) of the 2008 Act. Section 196(3) has not been fully commenced.
 
-[^key-4db4473d2802b85e3ca4a9bbd401c4aa]: Commencement: Art. 3 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
+[^c-4db4473d2802b85e3ca4a9bbd401c4aa]: Commencement: Art. 3 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
 
-[^key-98bec2739c9362393f9e21ba9716e66a]: Commencement: Sch. para. 1 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
+[^c-98bec2739c9362393f9e21ba9716e66a]: Commencement: Sch. para. 1 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
 
-[^key-f6e2a9534792b5aa30462b9bb19017fc]: Commencement: Sch. para. 2 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
+[^c-f6e2a9534792b5aa30462b9bb19017fc]: Commencement: Sch. para. 2 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
 
-[^key-48240a1907629a4061d486361e8802a1]: Commencement: Sch. para. 3 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
+[^c-48240a1907629a4061d486361e8802a1]: Commencement: Sch. para. 3 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
 
 [^f00005]: Footnote: Subsection (5) was amended by section 196(4) of, and paragraphs 1 and 3 of Schedule 10 to, the 2008 Act. Paragraphs 1 and 3 have not been fully commenced. There are other amendments to section 78 which are not relevant to this Order.
 
-[^key-de2b4b42afc86df58140b6127aafd85e]: Commencement: Sch. para. 4 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
+[^c-de2b4b42afc86df58140b6127aafd85e]: Commencement: Sch. para. 4 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
 
-[^key-10d16b73b67ac2c6609383b830a2238a]: Commencement: Sch. para. 5 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
+[^c-10d16b73b67ac2c6609383b830a2238a]: Commencement: Sch. para. 5 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
 
-[^key-cea6b523044f90d518986abff558c1e4]: Commencement: Sch. para. 6 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
+[^c-cea6b523044f90d518986abff558c1e4]: Commencement: Sch. para. 6 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
 
 [^f00006]: Footnote: Section 195(5) was amended by section 196(4) of, and paragraphs 1 and 7 of Schedule 10 to, the 2008 Act. Paragraph 7 has not been commenced. There are other amendments to section 195 not relevant to this Order.
 
-[^key-41374b64c5db32b7867a334300902cc5]: Commencement: Sch. para. 7 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
+[^c-41374b64c5db32b7867a334300902cc5]: Commencement: Sch. para. 7 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
 
-[^key-a81e4a35c745e85c8d188972c2276eb3]: Commencement: Sch. para. 8 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
+[^c-a81e4a35c745e85c8d188972c2276eb3]: Commencement: Sch. para. 8 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
 
-[^key-cbf4e4f15ed43d3775b917cdcd427991]: Commencement: Sch. para. 9 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
+[^c-cbf4e4f15ed43d3775b917cdcd427991]: Commencement: Sch. para. 9 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
 
 [^f00007]: Footnote: Subsection (1B) was inserted by section 2(2) of the Growth and Infrastructure Act 2013. There are other amendments to this section not relevant to this Order.
 
-[^key-a02768f0fc68cf8d61294102e3054831]: Commencement: Sch. para. 10 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
+[^c-a02768f0fc68cf8d61294102e3054831]: Commencement: Sch. para. 10 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
 
 [^f00008]: Footnote: Section 322A was inserted by section 30 of the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34). There are other amendments to the section not relevant to this Order.
 
-[^key-f510d8ca135e38dadc22842b516683c6]: Commencement: Sch. para. 11 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
+[^c-f510d8ca135e38dadc22842b516683c6]: Commencement: Sch. para. 11 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
 
 [^f00009]: Footnote: Section 323(2) and (3) was amended by paragraph 12(3) of Schedule 10 to the 2008 Act. Paragraph 12 has been commenced for certain purposes, see article 3(j) of the Planning Act 2008 (Commencement No 1 and Savings) Order 2009 ([S.I. 2008/400](https://www.legislation.gov.uk/uksi/2008/400)).
 
-[^key-f718845f22728895dd4a6e335a9c742b]: Commencement: Sch. para. 12 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
+[^c-f718845f22728895dd4a6e335a9c742b]: Commencement: Sch. para. 12 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
 
-[^key-8b483e8d81e719b56867ffb24f35549d]: Commencement: Sch. para. 13 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
+[^c-8b483e8d81e719b56867ffb24f35549d]: Commencement: Sch. para. 13 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
 
 [^f00010]: Footnote: Paragraph 2(11) was inserted by section 2(7) of the Growth and Infrastructure Act 2013.
 
@@ -386,19 +386,19 @@ An impact assessment has been prepared in relation to this instrument. Copies ma
 
 [^f00013]: Footnote: Paragraph 6(2)(a) was amended by paragraph 14(7) of Schedule 10 to the 2008 Act. Paragraph 14(7) has been commenced for certain purposes, see article 3(j) of the Planning Act 2008 (Commencement No 1 and Savings) Order 2009.
 
-[^key-063587a029672fcdd6af68a1e4507ca7]: Textual amendment: [Sch. paras. 14-23](https://www.legislation.gov.uk/wsi/2014/2773/schedule/1/paragraph/14) omitted (4.11.2024) by virtue of [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [62(b)](https://www.legislation.gov.uk/wsi/2024/924/regulation/62/b)
+[^c-063587a029672fcdd6af68a1e4507ca7]: Textual amendment: [Sch. paras. 14-23](https://www.legislation.gov.uk/wsi/2014/2773/schedule/1/paragraph/14) omitted (4.11.2024) by virtue of [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [62(b)](https://www.legislation.gov.uk/wsi/2024/924/regulation/62/b)
 
-[^key-db25d8b920df238d4f4687a79695ef18]: Commencement: Sch. para. 25 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
+[^c-db25d8b920df238d4f4687a79695ef18]: Commencement: Sch. para. 25 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
 
-[^key-a4a85dc58215100e25095922247bd9a8]: Commencement: Sch. para. 26 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
+[^c-a4a85dc58215100e25095922247bd9a8]: Commencement: Sch. para. 26 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
 
-[^key-85fa12b3f9ddc4d7c2c520c9fb556d92]: Commencement: Sch. para. 27 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
+[^c-85fa12b3f9ddc4d7c2c520c9fb556d92]: Commencement: Sch. para. 27 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
 
 [^f00019]: Footnote: Paragraph (b)(v) was amended by section 196(4) of, and paragraphs 25 and 28 of Schedule 10 to, the 2008 Act. Paragraph 28 has not been commenced.
 
-[^key-a30564ee57d521f91f445ca2a413a6e4]: Commencement: Sch. para. 28 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
+[^c-a30564ee57d521f91f445ca2a413a6e4]: Commencement: Sch. para. 28 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
 
-[^key-7e9135f19de437a8fbdb744e8a1bb348]: Commencement: Sch. para. 29 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
+[^c-7e9135f19de437a8fbdb744e8a1bb348]: Commencement: Sch. para. 29 in force at 11.11.2014, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2)
 
 [^f00020]: Footnote: Sub-paragraph (9) was inserted by section 196(4) of, and paragraphs 25 and 30(1) and (3) of Schedule 10 to, the 2008 Act.
 

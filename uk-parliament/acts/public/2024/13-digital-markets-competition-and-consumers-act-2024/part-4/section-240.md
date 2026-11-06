@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 240. Penalty for offences[^key-0885ad6ff928277a1d1cba8b07973747][^key-8a18ce2b91ac1525030477f14c9e20c8]
+## 240. Penalty for offences[^c-0885ad6ff928277a1d1cba8b07973747][^c-8a18ce2b91ac1525030477f14c9e20c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ A person guilty of an offence under section 237 is liable—
 
 ## Annotations
 
-[^key-0885ad6ff928277a1d1cba8b07973747]: Commencement: S. 240 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-0885ad6ff928277a1d1cba8b07973747]: Commencement: S. 240 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-8a18ce2b91ac1525030477f14c9e20c8]: Commencement: [S. 240](https://www.legislation.gov.uk/ukpga/2024/13/section/240) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)
+[^c-8a18ce2b91ac1525030477f14c9e20c8]: Commencement: [S. 240](https://www.legislation.gov.uk/ukpga/2024/13/section/240) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)

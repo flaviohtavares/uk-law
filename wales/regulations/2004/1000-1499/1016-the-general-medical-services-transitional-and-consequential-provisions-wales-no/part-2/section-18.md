@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Patient records[^key-b3900d439c37248a1a004a61d87d7f30]
+## 18. Patient records[^c-b3900d439c37248a1a004a61d87d7f30]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ the records requested shall be sent by the succeeding contractor to the Local He
 
 ## Annotations
 
-[^key-b3900d439c37248a1a004a61d87d7f30]: Commencement: Art. 18 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-b3900d439c37248a1a004a61d87d7f30]: Commencement: Art. 18 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

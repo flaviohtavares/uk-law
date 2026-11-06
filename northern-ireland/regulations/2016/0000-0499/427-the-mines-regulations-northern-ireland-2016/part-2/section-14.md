@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Inspection of the mine[^key-cff62634f3bc9794f3e5be79ad1bc009]
+## 14. Inspection of the mine[^c-cff62634f3bc9794f3e5be79ad1bc009]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cff62634f3bc9794f3e5be79ad1bc009]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2016/427/regulation/14) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-cff62634f3bc9794f3e5be79ad1bc009]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2016/427/regulation/14) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

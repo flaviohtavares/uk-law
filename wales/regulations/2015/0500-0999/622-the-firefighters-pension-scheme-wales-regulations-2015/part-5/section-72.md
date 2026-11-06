@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72. Exercise of partial retirement option[^key-9425bfe5fec326fe168ea83da36c40f7]
+## 72. Exercise of partial retirement option[^c-9425bfe5fec326fe168ea83da36c40f7]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9425bfe5fec326fe168ea83da36c40f7]: Commencement: Reg. 72 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-9425bfe5fec326fe168ea83da36c40f7]: Commencement: Reg. 72 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

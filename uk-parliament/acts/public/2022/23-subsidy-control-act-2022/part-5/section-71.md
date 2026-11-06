@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Time limits for applications under section 70[^key-0d0587a588be94b4c5c79520721c1d33][^key-ec508d68f4911c30c4a1935e29144631]
+## 71. Time limits for applications under section 70[^c-0d0587a588be94b4c5c79520721c1d33][^c-ec508d68f4911c30c4a1935e29144631]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,6 +72,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0d0587a588be94b4c5c79520721c1d33]: Commencement: S. 71 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-0d0587a588be94b4c5c79520721c1d33]: Commencement: S. 71 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-ec508d68f4911c30c4a1935e29144631]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2022/23/section/71) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-ec508d68f4911c30c4a1935e29144631]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2022/23/section/71) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

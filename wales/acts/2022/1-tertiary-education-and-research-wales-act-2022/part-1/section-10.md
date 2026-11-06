@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Promoting a civic mission[^key-28c78cc27db52d432548cbc7b7d5f35e][^key-7569bd3c5af0dff72cb9b08a84b47798][^key-25f397ea3d75b3c38ade4d973938024b]
+## 10. Promoting a civic mission[^c-28c78cc27db52d432548cbc7b7d5f35e][^c-7569bd3c5af0dff72cb9b08a84b47798][^c-25f397ea3d75b3c38ade4d973938024b]
 
 *Extent: E+W*
 
@@ -33,8 +33,8 @@ summary: ''
 
 ## Annotations
 
-[^key-28c78cc27db52d432548cbc7b7d5f35e]: Commencement: S. 10 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-28c78cc27db52d432548cbc7b7d5f35e]: Commencement: S. 10 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-7569bd3c5af0dff72cb9b08a84b47798]: Commencement: [S. 10](https://www.legislation.gov.uk/asc/2022/1/section/10) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(i)](https://www.legislation.gov.uk/wsi/2023/919/article/3/i)
+[^c-7569bd3c5af0dff72cb9b08a84b47798]: Commencement: [S. 10](https://www.legislation.gov.uk/asc/2022/1/section/10) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(i)](https://www.legislation.gov.uk/wsi/2023/919/article/3/i)
 
-[^key-25f397ea3d75b3c38ade4d973938024b]: Commencement: [S. 10](https://www.legislation.gov.uk/asc/2022/1/section/10) in force at 1.4.2024 in so far as not already in force by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 4(a)](https://www.legislation.gov.uk/wsi/2023/919/article/4/a)
+[^c-25f397ea3d75b3c38ade4d973938024b]: Commencement: [S. 10](https://www.legislation.gov.uk/asc/2022/1/section/10) in force at 1.4.2024 in so far as not already in force by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 4(a)](https://www.legislation.gov.uk/wsi/2023/919/article/4/a)

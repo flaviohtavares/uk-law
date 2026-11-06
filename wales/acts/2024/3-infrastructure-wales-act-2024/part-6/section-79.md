@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. Diversion of watercourses[^key-80cd923d2aef8101c54001402d6111c3][^key-af885d785f04570cc3473f6c862ed8d1]
+## 79. Diversion of watercourses[^c-80cd923d2aef8101c54001402d6111c3][^c-af885d785f04570cc3473f6c862ed8d1]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-80cd923d2aef8101c54001402d6111c3]: Commencement: S. 79 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-80cd923d2aef8101c54001402d6111c3]: Commencement: S. 79 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-af885d785f04570cc3473f6c862ed8d1]: Commencement: [S. 79](https://www.legislation.gov.uk/asc/2024/3/section/79) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)
+[^c-af885d785f04570cc3473f6c862ed8d1]: Commencement: [S. 79](https://www.legislation.gov.uk/asc/2024/3/section/79) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)

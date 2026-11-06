@@ -20,16 +20,16 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-5783fff288f7186dee1442951979ec5d] The WAO must, in such manner as it considers appropriate, monitor the exercise of the Auditor General's functions.
+(1)[^c-5783fff288f7186dee1442951979ec5d] The WAO must, in such manner as it considers appropriate, monitor the exercise of the Auditor General's functions.
 
-(2)[^key-f7d87c640391d03aaaac0d47761b23f5][^key-826a1b9c6e2e453fd8dd5c3f4a74ff30] The WAO may provide advice to the Auditor General about the Auditor General's functions.
+(2)[^c-f7d87c640391d03aaaac0d47761b23f5][^c-826a1b9c6e2e453fd8dd5c3f4a74ff30] The WAO may provide advice to the Auditor General about the Auditor General's functions.
 
-(3)[^key-f7d87c640391d03aaaac0d47761b23f5][^key-826a1b9c6e2e453fd8dd5c3f4a74ff30] The Auditor General must have regard to any advice given.
+(3)[^c-f7d87c640391d03aaaac0d47761b23f5][^c-826a1b9c6e2e453fd8dd5c3f4a74ff30] The Auditor General must have regard to any advice given.
 
 ## Annotations
 
-[^key-5783fff288f7186dee1442951979ec5d]: Commencement: [S. 17(1)](https://www.legislation.gov.uk/anaw/2013/3/section/17/1) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-5783fff288f7186dee1442951979ec5d]: Commencement: [S. 17(1)](https://www.legislation.gov.uk/anaw/2013/3/section/17/1) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-f7d87c640391d03aaaac0d47761b23f5]: Commencement: [S. 17(2)](https://www.legislation.gov.uk/anaw/2013/3/section/17/2)[(3)](https://www.legislation.gov.uk/anaw/2013/3/section/17/3) in force at 4.7.2013 for specified purposes by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(i)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/i)
+[^c-f7d87c640391d03aaaac0d47761b23f5]: Commencement: [S. 17(2)](https://www.legislation.gov.uk/anaw/2013/3/section/17/2)[(3)](https://www.legislation.gov.uk/anaw/2013/3/section/17/3) in force at 4.7.2013 for specified purposes by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(i)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/i)
 
-[^key-826a1b9c6e2e453fd8dd5c3f4a74ff30]: Commencement: [S. 17(2)](https://www.legislation.gov.uk/anaw/2013/3/section/17/2)[(3)](https://www.legislation.gov.uk/anaw/2013/3/section/17/3) in force at 1.4.2014 in so far as not already in force by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-826a1b9c6e2e453fd8dd5c3f4a74ff30]: Commencement: [S. 17(2)](https://www.legislation.gov.uk/anaw/2013/3/section/17/2)[(3)](https://www.legislation.gov.uk/anaw/2013/3/section/17/3) in force at 1.4.2014 in so far as not already in force by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)

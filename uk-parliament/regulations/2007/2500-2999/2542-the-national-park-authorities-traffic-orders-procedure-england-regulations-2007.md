@@ -52,7 +52,7 @@ He makes the following Regulations in exercise of the powers conferred on him by
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and application[^key-9853c3f23a86cf731891ad7400fe0775]
+### 1. Citation, commencement and application[^c-9853c3f23a86cf731891ad7400fe0775]
 
 (1) These Regulations may be cited as the National Park Authorities’ Traffic Orders (Procedure) (England) Regulations 2007 and come into force on 1st October 2007.
 
@@ -64,7 +64,7 @@ He makes the following Regulations in exercise of the powers conferred on him by
 
 made or proposed to be made by a National Park authority in England in relation to a road of a kind referred to in section 22BB(1) of the 1984 Act.
 
-### 2. Interpretation[^key-ae3926a3d3ea0e77613689c1ab85abc7]
+### 2. Interpretation[^c-ae3926a3d3ea0e77613689c1ab85abc7]
 
 In these Regulations—
 
@@ -81,15 +81,15 @@ In these Regulations—
 
 ## PART 2 — Traffic Regulation Orders
 
-### 3. Scope of this Part[^key-f9b25b98499a872164724ff9ed638a37]
+### 3. Scope of this Part[^c-f9b25b98499a872164724ff9ed638a37]
 
 This Part applies in relation to traffic regulation orders.
 
-### 4. Consultation before publication of proposals[^key-3163066a3958ba899381c2efa1dd211e]
+### 4. Consultation before publication of proposals[^c-3163066a3958ba899381c2efa1dd211e]
 
 Where a National Park authority proposes to make a traffic regulation order it must, before publishing a notice of proposals pursuant to regulation 5(1)(a), consult the persons specified in the second column of the table in Schedule 1 in the cases specified in the third column of that table.
 
-### 5. Publication of proposals[^key-514086f83b934c487f420effe8d43c09]
+### 5. Publication of proposals[^c-514086f83b934c487f420effe8d43c09]
 
 (1) A National Park authority must, not less than one month before it proposes to make a traffic regulation order—
 
@@ -104,7 +104,7 @@ Where a National Park authority proposes to make a traffic regulation order it m
 
 (3) A notice of proposals published, displayed or delivered pursuant to paragraph (1) must contain the details specified in Part 1 of Schedule 2.
 
-### 6. Inspection of documents[^key-968c836418267d207dc0a9fd98090e6f]
+### 6. Inspection of documents[^c-968c836418267d207dc0a9fd98090e6f]
 
 (1) The National Park authority must make the documents specified in paragraph (2) available for public inspection—
 
@@ -121,7 +121,7 @@ from the date on which the notice of proposals is published until six weeks afte
 - (d) a statement setting out the reasons why the authority proposes to make the order; and
 - (e) if the proposed order revokes or amends another traffic regulation order, a copy of that other order.
 
-### 7. Representations[^key-2a454e906d646c5e1b4f5b90022a9912]
+### 7. Representations[^c-2a454e906d646c5e1b4f5b90022a9912]
 
 (1) Any person may make representations to the National Park authority about the making of a proposed order by the later of—
 
@@ -134,7 +134,7 @@ from the date on which the notice of proposals is published until six weeks afte
 - (b) state the grounds on which they are made; and
 - (c) be sent to the address specified in the notice of proposals.
 
-### 8. Holding a public inquiry[^key-11e632dca7ec981dcf667d3086615364]
+### 8. Holding a public inquiry[^c-11e632dca7ec981dcf667d3086615364]
 
 (1) The National Park authority may cause a public inquiry to be held before making an order.
 
@@ -142,7 +142,7 @@ from the date on which the notice of proposals is published until six weeks afte
 
 (3) Following an inquiry the inspector must provide a report and a recommendation to the National Park authority*.*
 
-### 9. Notice of public inquiry[^key-bddf21639cc7e5ed792db37dac326ba4]
+### 9. Notice of public inquiry[^c-bddf21639cc7e5ed792db37dac326ba4]
 
 (1) If the National Park authority decides, before publishing a notice of proposals, that a public inquiry is to be held in connection with a proposed order, it must include in that notice, in addition to the details specified in Part 1 of Schedule 2—
 
@@ -165,7 +165,7 @@ from the date on which the notice of proposals is published until six weeks afte
 - (a) the expiry of the period for making representations in accordance with regulation 7; or
 - (b) if later, the date on which paragraph (3) is complied with.
 
-### 10. Procedure at a public inquiry[^key-47b0092a463d89cc2fceff46999f6a1f]
+### 10. Procedure at a public inquiry[^c-47b0092a463d89cc2fceff46999f6a1f]
 
 (1) Subject to paragraphs (2) to (4), the procedure at a public inquiry shall be determined by the inspector.
 
@@ -175,7 +175,7 @@ from the date on which the notice of proposals is published until six weeks afte
 
 (4) The inspector may refuse to hear any person, or to consider written representations from any person, if he considers that the views of that person are irrelevant or have already been adequately stated at the inquiry.
 
-### 11. Making the order[^key-6d695b9f92cd2ecd9d2c200c8dd62189]
+### 11. Making the order[^c-6d695b9f92cd2ecd9d2c200c8dd62189]
 
 (1) Before deciding whether to make an order, the National Park authority must consider—
 
@@ -192,7 +192,7 @@ from the date on which the notice of proposals is published until six weeks afte
 - (a) must specify the date on which it comes into force; and
 - (b) must not come into force before the National Park authority publishes a notice in accordance with regulation 14(1)(a).
 
-### 12. Orders containing modifications to the proposed order[^key-9db4c2e7aef3f2cdb33af525e821cd41]
+### 12. Orders containing modifications to the proposed order[^c-9db4c2e7aef3f2cdb33af525e821cd41]
 
 (1) Subject to paragraph (2), a National Park authority may, whether in consequence of any representations or otherwise, make an order in different terms to the proposed order which it made available for inspection under regulation 6(1).
 
@@ -203,7 +203,7 @@ from the date on which the notice of proposals is published until six weeks afte
 
 and must duly consider any such representations.
 
-### 13. Orders implementing the proposed order in part[^key-3f857d4718064045d7b5a9f7ff8c389e]
+### 13. Orders implementing the proposed order in part[^c-3f857d4718064045d7b5a9f7ff8c389e]
 
 (1) A National Park authority may make an order giving effect to some of the provisions contained in a proposed order whilst deferring a decision on the remainder.
 
@@ -220,7 +220,7 @@ and must duly consider any such representations.
 - (a) indicate the provisions (if any) in the originally proposed order which have been abandoned or in relation to which a decision has been deferred; and
 - (b) state the title and date of any order which has been previously made to give effect to other provisions in the originally proposed order.
 
-### 14. Action after making[^key-d73932726159792072ac7e6a16f7e73a]
+### 14. Action after making[^c-d73932726159792072ac7e6a16f7e73a]
 
 (1) The National Park authority must, within 14 days after making an order—
 
@@ -245,7 +245,7 @@ the National Park authority must give its reasons for not so acceding in the not
 
 (5) The National Park authority must, as soon as practicable after publishing a notice in accordance with paragraph (1)(a), add a copy of that notice to the documents made available for inspection pursuant to regulation 6.
 
-### 15. Traffic signs[^key-a8e56d95b0da3c8a052ae4449c3749df]
+### 15. Traffic signs[^c-a8e56d95b0da3c8a052ae4449c3749df]
 
 (1) Where a National Park authority has made an order relating to any road, the authority must take such steps as are necessary to secure—
 
@@ -255,7 +255,7 @@ the National Park authority must give its reasons for not so acceding in the not
 
 (2) The National Park authority must consult the appropriate Crown authority before carrying out the requirements of sub-paragraphs (a) and (c) of paragraph (1) in relation to a Crown road.
 
-### 16. Orders continuing the effect of experimental traffic orders[^key-e632ca57adcfe08d64c64e58e47e4bf0]
+### 16. Orders continuing the effect of experimental traffic orders[^c-e632ca57adcfe08d64c64e58e47e4bf0]
 
 (1) This regulation applies in relation to a proposed traffic regulation order (a “continuation order”), the sole effect of which is to reproduce and continue in force indefinitely the provisions of any experimental traffic order that is in force.
 
@@ -278,11 +278,11 @@ the National Park authority must give its reasons for not so acceding in the not
 
 ## PART 3 — Experimental Traffic Orders
 
-### 17. Scope of this Part[^key-43164fd91468444b5e094ce7373ae0bc]
+### 17. Scope of this Part[^c-43164fd91468444b5e094ce7373ae0bc]
 
 This Part applies in relation to experimental traffic orders.
 
-### 18. Experimental traffic orders[^key-f2bca6962a576eb83cc6dd54a8fe4bb1]
+### 18. Experimental traffic orders[^c-f2bca6962a576eb83cc6dd54a8fe4bb1]
 
 (1) Where a National Park authority proposes to make an experimental traffic order it must, not less than one month before it proposes to make the order, consult the persons specified in the second column of the table in Schedule 1 in the cases specified in third column of that table.
 
@@ -316,11 +316,11 @@ from the date on which the National Park authority begins consultation under par
 
 ## PART 4 — Temporary Orders
 
-### 19. Scope of this Part[^key-72467763457f373cd0fd9f89b486cca4]
+### 19. Scope of this Part[^c-72467763457f373cd0fd9f89b486cca4]
 
 This Part applies in relation to temporary orders.
 
-### 20. Consultation[^key-889be04804d1eeb49eb2a9de8069a6e8]
+### 20. Consultation[^c-889be04804d1eeb49eb2a9de8069a6e8]
 
 A National Park authority must, before making a temporary order in relation to a road, consult—
 
@@ -330,7 +330,7 @@ A National Park authority must, before making a temporary order in relation to a
 - (d) Natural England, if the road is within or partly within an SSSI; and
 - (e) such other organisations (if any) representing persons likely to be affected by any provision in the order as the National Park authority thinks it appropriate to consult.
 
-### 21. Notice of making temporary order[^key-d5e4fd61428e544308eea709b6894f3e]
+### 21. Notice of making temporary order[^c-d5e4fd61428e544308eea709b6894f3e]
 
 (1) Not less than 7 days before making a temporary order the National Park authority must publish notice of its intention to make the order—
 
@@ -360,7 +360,7 @@ A National Park authority must, before making a temporary order in relation to a
 
 (6) No provision of a temporary order may come into force before the date on which the National Park authority publishes a notice in accordance with paragraphs (4) and (5).
 
-### 22. Notices to be displayed on road[^key-57606e8016eabbcc9471a904153b8da7]
+### 22. Notices to be displayed on road[^c-57606e8016eabbcc9471a904153b8da7]
 
 (1) This regulation applies where a National Park authority has made a temporary order.
 
@@ -375,7 +375,7 @@ A National Park authority must, before making a temporary order in relation to a
 
 (5) The National Park authority must take all reasonable steps during that period to ensure that the notices remain displayed and in a legible condition, or are promptly replaced as often as necessary.
 
-### 23. Continuation of order by direction of the Secretary of State[^key-83a0f52f400218a488e7337dca780f2f]
+### 23. Continuation of order by direction of the Secretary of State[^c-83a0f52f400218a488e7337dca780f2f]
 
 (1) This regulation has effect where the Secretary of State gives a direction under section 15(3) or (5) of the 1984 Act[^f00008] in relation to a temporary order.
 
@@ -400,7 +400,7 @@ Department for Environment, Food and Rural Affairs
 
 27th August 2007
 
-## SCHEDULE 1 — Persons to be consulted before publishing a notice of proposals in relation to a traffic regulation order, or before making an experimental traffic order[^key-7bfcdb14bdfbef2922c026db9162dfb3]
+## SCHEDULE 1 — Persons to be consulted before publishing a notice of proposals in relation to a traffic regulation order, or before making an experimental traffic order[^c-7bfcdb14bdfbef2922c026db9162dfb3]
 
 Regulations 4 and 18
 
@@ -444,53 +444,53 @@ Regulations 5, 9, 14 and 21
 
 ### PART 1 — Details to be included in a notice of proposals
 
-**1.**[^key-462d454f328ac940f25c73e1ba22b671] The name of the National Park authority.
+**1.**[^c-462d454f328ac940f25c73e1ba22b671] The name of the National Park authority.
 
-**2.**[^key-a4f06f6b85a618ee33ee289f746c83a3] The title of the proposed order.
+**2.**[^c-a4f06f6b85a618ee33ee289f746c83a3] The title of the proposed order.
 
-**3.**[^key-4bb2843b4bf12261bc43de1b5e92b9b8] A brief statement of the general nature and effect of the order.
+**3.**[^c-4bb2843b4bf12261bc43de1b5e92b9b8] A brief statement of the general nature and effect of the order.
 
-**4.**[^key-def5d1c47b6b615f06604afc5beaf6aa] The name or a brief description of the road to which the order relates and, where appropriate, identification of the length of the road to which the order relates.
+**4.**[^c-def5d1c47b6b615f06604afc5beaf6aa] The name or a brief description of the road to which the order relates and, where appropriate, identification of the length of the road to which the order relates.
 
-**5.**[^key-aedceac15bf28d1c257c0a8787a69e4b] A statement that documents giving further details of the proposed order are available for inspection and a statement of the places at which they are so available and of the times when they may be inspected at each place.
+**5.**[^c-aedceac15bf28d1c257c0a8787a69e4b] A statement that documents giving further details of the proposed order are available for inspection and a statement of the places at which they are so available and of the times when they may be inspected at each place.
 
-**6.**[^key-d3a60409b984423105e6090a9a716f46] A statement that all representations relating to the order must be made in writing and that all representations objecting to the making of the order must specify the grounds on which they are made.
+**6.**[^c-d3a60409b984423105e6090a9a716f46] A statement that all representations relating to the order must be made in writing and that all representations objecting to the making of the order must specify the grounds on which they are made.
 
-**7.**[^key-3ee108552c0a6aeeab46e1f13e218d1d] The date by which representations must be made and the address to which they must be sent.
+**7.**[^c-3ee108552c0a6aeeab46e1f13e218d1d] The date by which representations must be made and the address to which they must be sent.
 
 ### PART 2 — Details to be included in a notice of a public inquiry
 
-**1.**[^key-c70d0d1187a8ca8b3c80268974447ae0] The name of the National Park authority.
+**1.**[^c-c70d0d1187a8ca8b3c80268974447ae0] The name of the National Park authority.
 
-**2.**[^key-016bc340f3736ab77db2c653a8edc49a] The title of the proposed order.
+**2.**[^c-016bc340f3736ab77db2c653a8edc49a] The title of the proposed order.
 
-**3.**[^key-54315f511ed77dac23502b7154f29608] A brief statement of the general nature and effect of the order.
+**3.**[^c-54315f511ed77dac23502b7154f29608] A brief statement of the general nature and effect of the order.
 
-**4.**[^key-5023ece3a53170fbbae40ec3d87b67b9] The name or a brief description of the road to which the order relates and, where appropriate, identification of the length of the road to which the order relates.
+**4.**[^c-5023ece3a53170fbbae40ec3d87b67b9] The name or a brief description of the road to which the order relates and, where appropriate, identification of the length of the road to which the order relates.
 
-**5.**[^key-9acbe685bd3f709e47f08d2cbad08220] A statement which refers to the notice of proposals for the order and which indicates that a public inquiry will be held in connection with the order.
+**5.**[^c-9acbe685bd3f709e47f08d2cbad08220] A statement which refers to the notice of proposals for the order and which indicates that a public inquiry will be held in connection with the order.
 
-**6.**[^key-80a39ebedffe1e2448e39a4aebde3551] The date, time and place of the inquiry and the name of the inspector.
+**6.**[^c-80a39ebedffe1e2448e39a4aebde3551] The date, time and place of the inquiry and the name of the inspector.
 
-**7.**[^key-1ce31606b4754751711b5a3bc1054ae2] A statement that documents giving further details of the proposed order are available for inspection and a statement of the places at which they are so available and of the times when they may be inspected at each place.
+**7.**[^c-1ce31606b4754751711b5a3bc1054ae2] A statement that documents giving further details of the proposed order are available for inspection and a statement of the places at which they are so available and of the times when they may be inspected at each place.
 
-**8.**[^key-578a3ad9e729aee36f679345f939981a] The address to which any written representations for consideration by the inspector must be sent.
+**8.**[^c-578a3ad9e729aee36f679345f939981a] The address to which any written representations for consideration by the inspector must be sent.
 
 ### PART 3 — Details to be included in a notice of making
 
-**1.**[^key-7218cb30a30533a738450923d9435fe2] The name of the National Park authority.
+**1.**[^c-7218cb30a30533a738450923d9435fe2] The name of the National Park authority.
 
-**2.**[^key-c7809897b392251632e105caad0ee1dd] The title of the order.
+**2.**[^c-c7809897b392251632e105caad0ee1dd] The title of the order.
 
-**3.**[^key-13e77e6b1068270650e554cbf09df993] A brief statement of the general nature and effect of the order.
+**3.**[^c-13e77e6b1068270650e554cbf09df993] A brief statement of the general nature and effect of the order.
 
-**4.**[^key-f1144b34d1fdffcc2bfeb913a59afc4e] The name or a brief description of the road and, where appropriate, identification of the length of the road to which the order relates.
+**4.**[^c-f1144b34d1fdffcc2bfeb913a59afc4e] The name or a brief description of the road and, where appropriate, identification of the length of the road to which the order relates.
 
-**5.**[^key-5315ebd2a6847accea259d69f2bd6d5a] A statement that documents giving further details of the order are available for inspection and a statement of the places at which they are so available and of the times when they may be inspected at each place.
+**5.**[^c-5315ebd2a6847accea259d69f2bd6d5a] A statement that documents giving further details of the order are available for inspection and a statement of the places at which they are so available and of the times when they may be inspected at each place.
 
-**6.**[^key-06302cebf91a2420082cbf1aa045b079] The date on which the order is to come into force.
+**6.**[^c-06302cebf91a2420082cbf1aa045b079] The date on which the order is to come into force.
 
-**7.**[^key-e4022b527ef5efd64e9636cdb4334bd5] Where the notice relates to an experimental traffic order, statements—
+**7.**[^c-e4022b527ef5efd64e9636cdb4334bd5] Where the notice relates to an experimental traffic order, statements—
 
 - (a) that the National Park authority will be considering in due course whether to make a further order continuing in force indefinitely the provisions of the experimental traffic order;
 - (b) that within a period of six months—
@@ -519,9 +519,9 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00002]: Footnote: Subsections (2) and (2A) of section 16 were substituted by section 1(2) of the Road Traffic (Temporary Restrictions) Act [1991 (c.26)](https://www.legislation.gov.uk/ukpga/1991/26), and paragraphs 21 and 25 of Schedule 9 were amended by section 168(1) of and Schedule 8 to the New Roads and Street Works Act [1991 (c.22)](https://www.legislation.gov.uk/ukpga/1991/22). By virtue of section 22BB(3) of the 1984 Act, as inserted by section 72 of the National Environment and Rural Communities Act [2006 (c.16)](https://www.legislation.gov.uk/ukpga/2006/16), provisions of the 1984 Act have effect in relation to an order by a National Park authority under subsection (2)(a), (b) or (c) of 22BB as they have effect in relation to an order by a local traffic authority under section 1, 9 or 14(1).
 
-[^key-9853c3f23a86cf731891ad7400fe0775]: Commencement: Reg. 1 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-9853c3f23a86cf731891ad7400fe0775]: Commencement: Reg. 1 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-ae3926a3d3ea0e77613689c1ab85abc7]: Commencement: Reg. 2 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-ae3926a3d3ea0e77613689c1ab85abc7]: Commencement: Reg. 2 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
 [^f00003]: Footnote: [1980 c.66](https://www.legislation.gov.uk/ukpga/1980/66).
 
@@ -531,98 +531,98 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00006]: Footnote: [1981 c.69](https://www.legislation.gov.uk/ukpga/1981/69). Section 28 was substituted by the Countryside and Rights of Way Act [2000 (c.37)](https://www.legislation.gov.uk/ukpga/2000/37), section 75(1) and Schedule 9, and amended by the Natural Environment and Rural Communities Act [2006 (c.16)](https://www.legislation.gov.uk/ukpga/2006/16), section 105(1) and Schedule 11.
 
-[^key-f9b25b98499a872164724ff9ed638a37]: Commencement: Reg. 3 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-f9b25b98499a872164724ff9ed638a37]: Commencement: Reg. 3 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-3163066a3958ba899381c2efa1dd211e]: Commencement: Reg. 4 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-3163066a3958ba899381c2efa1dd211e]: Commencement: Reg. 4 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-514086f83b934c487f420effe8d43c09]: Commencement: Reg. 5 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-514086f83b934c487f420effe8d43c09]: Commencement: Reg. 5 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-968c836418267d207dc0a9fd98090e6f]: Commencement: Reg. 6 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-968c836418267d207dc0a9fd98090e6f]: Commencement: Reg. 6 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-2a454e906d646c5e1b4f5b90022a9912]: Commencement: Reg. 7 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-2a454e906d646c5e1b4f5b90022a9912]: Commencement: Reg. 7 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-11e632dca7ec981dcf667d3086615364]: Commencement: Reg. 8 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-11e632dca7ec981dcf667d3086615364]: Commencement: Reg. 8 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-bddf21639cc7e5ed792db37dac326ba4]: Commencement: Reg. 9 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-bddf21639cc7e5ed792db37dac326ba4]: Commencement: Reg. 9 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-47b0092a463d89cc2fceff46999f6a1f]: Commencement: Reg. 10 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-47b0092a463d89cc2fceff46999f6a1f]: Commencement: Reg. 10 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-6d695b9f92cd2ecd9d2c200c8dd62189]: Commencement: Reg. 11 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-6d695b9f92cd2ecd9d2c200c8dd62189]: Commencement: Reg. 11 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-9db4c2e7aef3f2cdb33af525e821cd41]: Commencement: Reg. 12 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-9db4c2e7aef3f2cdb33af525e821cd41]: Commencement: Reg. 12 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-3f857d4718064045d7b5a9f7ff8c389e]: Commencement: Reg. 13 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-3f857d4718064045d7b5a9f7ff8c389e]: Commencement: Reg. 13 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-d73932726159792072ac7e6a16f7e73a]: Commencement: Reg. 14 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-d73932726159792072ac7e6a16f7e73a]: Commencement: Reg. 14 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-a8e56d95b0da3c8a052ae4449c3749df]: Commencement: Reg. 15 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-a8e56d95b0da3c8a052ae4449c3749df]: Commencement: Reg. 15 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-e632ca57adcfe08d64c64e58e47e4bf0]: Commencement: Reg. 16 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-e632ca57adcfe08d64c64e58e47e4bf0]: Commencement: Reg. 16 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
 [^f00007]: Footnote: Section 10(2) of the 1984 Act was substituted by section 168(1) of and Schedule 8 to the New Roads and Street Works Act [1991 (c.22)](https://www.legislation.gov.uk/ukpga/1991/22). It has effect in relation to an experimental traffic order made by a National Park authority by virtue of section 22BB(3) of the 1984 Act, as inserted by section 72 of the Natural Environment and Rural Communities Act [2006 (c.16)](https://www.legislation.gov.uk/ukpga/2006/16).
 
-[^key-43164fd91468444b5e094ce7373ae0bc]: Commencement: Reg. 17 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-43164fd91468444b5e094ce7373ae0bc]: Commencement: Reg. 17 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-f2bca6962a576eb83cc6dd54a8fe4bb1]: Commencement: Reg. 18 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-f2bca6962a576eb83cc6dd54a8fe4bb1]: Commencement: Reg. 18 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-72467763457f373cd0fd9f89b486cca4]: Commencement: Reg. 19 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-72467763457f373cd0fd9f89b486cca4]: Commencement: Reg. 19 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-889be04804d1eeb49eb2a9de8069a6e8]: Commencement: Reg. 20 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-889be04804d1eeb49eb2a9de8069a6e8]: Commencement: Reg. 20 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-d5e4fd61428e544308eea709b6894f3e]: Commencement: Reg. 21 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-d5e4fd61428e544308eea709b6894f3e]: Commencement: Reg. 21 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-57606e8016eabbcc9471a904153b8da7]: Commencement: Reg. 22 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-57606e8016eabbcc9471a904153b8da7]: Commencement: Reg. 22 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-83a0f52f400218a488e7337dca780f2f]: Commencement: Reg. 23 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-83a0f52f400218a488e7337dca780f2f]: Commencement: Reg. 23 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
 [^f00008]: Footnote: Paragraphs (3) and (5) of section 15 of the 1984 Act have effect in relation to a temporary order made by a National Park authority by virtue of section 22BB(3) of the 1984 Act, as inserted by section 72 of the Natural Environment and Rural Communities Act [2006 (c.16)](https://www.legislation.gov.uk/ukpga/2006/16).
 
-[^key-7bfcdb14bdfbef2922c026db9162dfb3]: Commencement: Sch. 1 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-7bfcdb14bdfbef2922c026db9162dfb3]: Commencement: Sch. 1 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
 [^f00009]: Footnote: [2004 c.21](https://www.legislation.gov.uk/ukpga/2004/21).
 
 [^f00010]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41).
 
-[^key-462d454f328ac940f25c73e1ba22b671]: Commencement: Sch. 2 Pt. 1 para. 1 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-462d454f328ac940f25c73e1ba22b671]: Commencement: Sch. 2 Pt. 1 para. 1 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-a4f06f6b85a618ee33ee289f746c83a3]: Commencement: Sch. 2 Pt. 1 para. 2 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-a4f06f6b85a618ee33ee289f746c83a3]: Commencement: Sch. 2 Pt. 1 para. 2 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-4bb2843b4bf12261bc43de1b5e92b9b8]: Commencement: Sch. 2 Pt. 1 para. 3 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-4bb2843b4bf12261bc43de1b5e92b9b8]: Commencement: Sch. 2 Pt. 1 para. 3 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-def5d1c47b6b615f06604afc5beaf6aa]: Commencement: Sch. 2 Pt. 1 para. 4 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-def5d1c47b6b615f06604afc5beaf6aa]: Commencement: Sch. 2 Pt. 1 para. 4 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-aedceac15bf28d1c257c0a8787a69e4b]: Commencement: Sch. 2 Pt. 1 para. 5 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-aedceac15bf28d1c257c0a8787a69e4b]: Commencement: Sch. 2 Pt. 1 para. 5 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-d3a60409b984423105e6090a9a716f46]: Commencement: Sch. 2 Pt. 1 para. 6 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-d3a60409b984423105e6090a9a716f46]: Commencement: Sch. 2 Pt. 1 para. 6 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-3ee108552c0a6aeeab46e1f13e218d1d]: Commencement: Sch. 2 Pt. 1 para. 7 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-3ee108552c0a6aeeab46e1f13e218d1d]: Commencement: Sch. 2 Pt. 1 para. 7 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-c70d0d1187a8ca8b3c80268974447ae0]: Commencement: Sch. 2 Pt. 2 para. 1 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-c70d0d1187a8ca8b3c80268974447ae0]: Commencement: Sch. 2 Pt. 2 para. 1 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-016bc340f3736ab77db2c653a8edc49a]: Commencement: Sch. 2 Pt. 2 para. 2 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-016bc340f3736ab77db2c653a8edc49a]: Commencement: Sch. 2 Pt. 2 para. 2 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-54315f511ed77dac23502b7154f29608]: Commencement: Sch. 2 Pt. 2 para. 3 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-54315f511ed77dac23502b7154f29608]: Commencement: Sch. 2 Pt. 2 para. 3 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-5023ece3a53170fbbae40ec3d87b67b9]: Commencement: Sch. 2 Pt. 2 para. 4 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-5023ece3a53170fbbae40ec3d87b67b9]: Commencement: Sch. 2 Pt. 2 para. 4 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-9acbe685bd3f709e47f08d2cbad08220]: Commencement: Sch. 2 Pt. 2 para. 5 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-9acbe685bd3f709e47f08d2cbad08220]: Commencement: Sch. 2 Pt. 2 para. 5 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-80a39ebedffe1e2448e39a4aebde3551]: Commencement: Sch. 2 Pt. 2 para. 6 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-80a39ebedffe1e2448e39a4aebde3551]: Commencement: Sch. 2 Pt. 2 para. 6 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-1ce31606b4754751711b5a3bc1054ae2]: Commencement: Sch. 2 Pt. 2 para. 7 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-1ce31606b4754751711b5a3bc1054ae2]: Commencement: Sch. 2 Pt. 2 para. 7 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-578a3ad9e729aee36f679345f939981a]: Commencement: Sch. 2 para. 8 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-578a3ad9e729aee36f679345f939981a]: Commencement: Sch. 2 para. 8 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-7218cb30a30533a738450923d9435fe2]: Commencement: Sch. 2 Pt. 3 para. 1 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-7218cb30a30533a738450923d9435fe2]: Commencement: Sch. 2 Pt. 3 para. 1 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-c7809897b392251632e105caad0ee1dd]: Commencement: Sch. 2 Pt. 3 para. 2 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-c7809897b392251632e105caad0ee1dd]: Commencement: Sch. 2 Pt. 3 para. 2 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-13e77e6b1068270650e554cbf09df993]: Commencement: Sch. 2 Pt. 3 para. 3 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-13e77e6b1068270650e554cbf09df993]: Commencement: Sch. 2 Pt. 3 para. 3 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-f1144b34d1fdffcc2bfeb913a59afc4e]: Commencement: Sch. 2 Pt. 3 para. 4 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-f1144b34d1fdffcc2bfeb913a59afc4e]: Commencement: Sch. 2 Pt. 3 para. 4 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-5315ebd2a6847accea259d69f2bd6d5a]: Commencement: Sch. 2 Pt. 3 para. 5 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-5315ebd2a6847accea259d69f2bd6d5a]: Commencement: Sch. 2 Pt. 3 para. 5 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-06302cebf91a2420082cbf1aa045b079]: Commencement: Sch. 2 Pt. 3 para. 6 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-06302cebf91a2420082cbf1aa045b079]: Commencement: Sch. 2 Pt. 3 para. 6 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
 
-[^key-e4022b527ef5efd64e9636cdb4334bd5]: Commencement: Sch. 2 Pt. 3 para. 7 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)
+[^c-e4022b527ef5efd64e9636cdb4334bd5]: Commencement: Sch. 2 Pt. 3 para. 7 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2542/regulation/1/1)

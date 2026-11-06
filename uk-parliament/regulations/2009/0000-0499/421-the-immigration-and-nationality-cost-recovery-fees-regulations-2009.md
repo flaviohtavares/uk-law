@@ -46,13 +46,13 @@ Coming into force in accordance with regulation 1
 
 The Secretary of State makes the following Regulations with the consent of the Treasury [^f00001] in exercise of the powers conferred on her by sections 51(3) and 52(3) of the Immigration, Asylum and Nationality Act 2006[^f00002].
 
-## 1. Citation, commencement and interpretation[^key-324b51175aa53eb52c8bb893fdac9ff7]
+## 1. Citation, commencement and interpretation[^c-324b51175aa53eb52c8bb893fdac9ff7]
 
 (1) These Regulations may be cited as the Immigration and Nationality (Cost Recovery Fees) Regulations 2009 and, subject to paragraph (2), shall come into force on 6<sup>th</sup> April 2009.
 
 (2) Regulations 4, 12(h), 12(i), 12(n), 21(4) and 21(5) shall come into force on 31<sup>st</sup> March 2009.
 
-**2.**[^key-82df931515f4f44f27ffc046f75920ec] In these Regulations—
+**2.**[^c-82df931515f4f44f27ffc046f75920ec] In these Regulations—
 
 - “the 1981 Act” means the [British Nationality Act 1981](https://www.legislation.gov.uk/ukpga/1981/61)[^f00003];
 - “the 1997 Act” means the [British Nationality (Hong Kong) Act 1997](https://www.legislation.gov.uk/ukpga/1997/20)[^f00004];
@@ -110,7 +110,7 @@ The Secretary of State makes the following Regulations with the consent of the T
 - “Tier 5 (Temporary Worker) migrant” means a migrant who makes an application of a kind identified in the immigration rules as requiring to be considered under the category “Tier 5 (Temporary Worker)” of the immigration rules’ “Points-Based System”;
 - “unmarried or same-sex partner” of a person means a person who is living with that other person in a relationship akin to marriage which has subsisted for two years or more.
 
-## 3. Fees for applications for leave to remain in the United Kingdom[^key-1bdf8ad76474afa5e4708b1c0fe3fbd9]
+## 3. Fees for applications for leave to remain in the United Kingdom[^c-1bdf8ad76474afa5e4708b1c0fe3fbd9]
 
 (1) In the case of an application to which article 3(2)(a) or (b) of the 2007 Order applies—
 
@@ -119,11 +119,11 @@ The Secretary of State makes the following Regulations with the consent of the T
 
 (2) This regulation is subject to regulations 6, 7, 8, 9, 10.
 
-**4.**[^key-54ae16b867b0057c375e12309e500e1d] (1) In the case of an application to which article 3(2)(a) or (b) of the 2007 Order applies, where the application is for limited leave to remain as a Tier 4 migrant, the fee is £357 for an application made by post.
+**4.**[^c-54ae16b867b0057c375e12309e500e1d] (1) In the case of an application to which article 3(2)(a) or (b) of the 2007 Order applies, where the application is for limited leave to remain as a Tier 4 migrant, the fee is £357 for an application made by post.
 
 (2) This regulation is subject to regulations 6, 7, 8, 9, 10, and 11.
 
-## 5. Exceptions in respect of leave to remain applications[^key-8e9aa1dc7b3c10328321ad9d87d19e12]
+## 5. Exceptions in respect of leave to remain applications[^c-8e9aa1dc7b3c10328321ad9d87d19e12]
 
 No fee is payable in connection with an application for limited leave to remain in the United Kingdom, which is made on the basis that the applicant is—
 
@@ -132,15 +132,15 @@ No fee is payable in connection with an application for limited leave to remain 
 - (c) a person who has been granted limited leave to enter or remain in the United Kingdom outside the provisions of the immigration rules on the rejection of their claim for asylum; or
 - (d) a dependant of a person referred to in sub-paragraphs (a), (b) or (c).
 
-**6.**[^key-72c2688df2d5576835e7d085ee833c19] No fee is payable in respect of an application referred to in regulation 3 or 4 if the application is made in respect of a person who, at the time of making the application, is a child who is being provided with assistance by a local authority (or, in Northern Ireland, an authority, which has the same meaning given in article 2(2) of the Children (Northern Ireland) Order 1995).
+**6.**[^c-72c2688df2d5576835e7d085ee833c19] No fee is payable in respect of an application referred to in regulation 3 or 4 if the application is made in respect of a person who, at the time of making the application, is a child who is being provided with assistance by a local authority (or, in Northern Ireland, an authority, which has the same meaning given in article 2(2) of the Children (Northern Ireland) Order 1995).
 
-**7.**[^key-6ee0bc56849085165ff5cb9b082fd5c0] No fee is payable in respect of an application referred to in regulation 3 or 4 if the application is made in respect of a person seeking variation of leave to enter or remain in the United Kingdom for a period of up to 6 months where the application is made to an immigration officer on arrival at a port of entry in the United Kingdom.
+**7.**[^c-6ee0bc56849085165ff5cb9b082fd5c0] No fee is payable in respect of an application referred to in regulation 3 or 4 if the application is made in respect of a person seeking variation of leave to enter or remain in the United Kingdom for a period of up to 6 months where the application is made to an immigration officer on arrival at a port of entry in the United Kingdom.
 
-**8.**[^key-2ac0a4fe54898f277021fa24c0ca9270] No fee is payable in respect of an application referred to in regulations 3 or 4 if it is made under the terms of a European Community Association Agreement.
+**8.**[^c-2ac0a4fe54898f277021fa24c0ca9270] No fee is payable in respect of an application referred to in regulations 3 or 4 if it is made under the terms of a European Community Association Agreement.
 
-**9.**[^key-16f38c4b05d5d34fcdd4a9f283bf47f2] Where two or more applications for leave to remain in the United Kingdom are made at the same time, or are being considered by the Secretary of State, in respect of the same person and fees are specified in respect of those applications, a single fee shall be payable that being the higher, or as the case may be, the highest of the fees specified in respect of those applications where those fees are different.
+**9.**[^c-16f38c4b05d5d34fcdd4a9f283bf47f2] Where two or more applications for leave to remain in the United Kingdom are made at the same time, or are being considered by the Secretary of State, in respect of the same person and fees are specified in respect of those applications, a single fee shall be payable that being the higher, or as the case may be, the highest of the fees specified in respect of those applications where those fees are different.
 
-**10.**[^key-9fb89143abd8f46260d6bef58f157586] (1) If the conditions specified in paragraph (2) are met, a single fee is payable in connection with the applications made.
+**10.**[^c-9fb89143abd8f46260d6bef58f157586] (1) If the conditions specified in paragraph (2) are met, a single fee is payable in connection with the applications made.
 
 (2) The conditions are—
 
@@ -149,14 +149,14 @@ No fee is payable in connection with an application for limited leave to remain 
 
 (3) The fee payable shall be the fee specified for the application in respect of A.
 
-## 11. Additional fee for dependants applying for leave to remain[^key-7d20f07959557c8a7b4e981ca7f4f859]
+## 11. Additional fee for dependants applying for leave to remain[^c-7d20f07959557c8a7b4e981ca7f4f859]
 
 The applicant incurs an increase of £50 to the application fee for each person submitted as a dependant to that application whether—
 
 - (a) the dependant is included on the application form; or
 - (b) a separate application as a dependant is submitted at the same time.
 
-## 12. Fees for entry clearance[^key-b1bdbfd5bea58a08b7c3926330b808fd][^key-2f02b55f9ba784b9dde7541f10788a2a]
+## 12. Fees for entry clearance[^c-b1bdbfd5bea58a08b7c3926330b808fd][^c-2f02b55f9ba784b9dde7541f10788a2a]
 
 (1) In the case of an application to which article 3(2)(aa) of the 2007 Order applies—
 
@@ -186,7 +186,7 @@ The applicant incurs an increase of £50 to the application fee for each person 
 
 (2) This regulation is subject to regulations 13 and 14.
 
-## 13. Exceptions and waivers in respect of fees for entry clearance applications[^key-442dec109e8d961f00b6e0cc7ca7c77a]
+## 13. Exceptions and waivers in respect of fees for entry clearance applications[^c-442dec109e8d961f00b6e0cc7ca7c77a]
 
 No fee is payable in relation to an application referred to in regulation 12 where—
 
@@ -194,12 +194,12 @@ No fee is payable in relation to an application referred to in regulation 12 whe
 - (b) it is for the purpose of family reunion under Part 11 of the immigration rules; or
 - (c) the Secretary of State determines that the fee should be waived.
 
-**14.**[^key-d0a07b6ea8dbf8ace03b61bcaf7f63b1] The official determining the application may waive the payment of a fee or reduce the fee required under regulation 12 where—
+**14.**[^c-d0a07b6ea8dbf8ace03b61bcaf7f63b1] The official determining the application may waive the payment of a fee or reduce the fee required under regulation 12 where—
 
 - (a) it is made by a candidate for or holder of a scholarship funded by Her Majesty’s Government and is in connection with such scholarship; or
 - (b) where the official so decides as a matter of international courtesy.
 
-## 15. Fees for transfer of conditions[^key-a8389ace555873bcbf06518830303e99]
+## 15. Fees for transfer of conditions[^c-a8389ace555873bcbf06518830303e99]
 
 (1) In the case of an application to which article 3(2)(c) of the 2007 Order applies, the fee is—
 
@@ -208,13 +208,13 @@ No fee is payable in relation to an application referred to in regulation 12 whe
 
 (2) Where an application referred to in paragraph (1)(b) is made by an applicant and at the same time he makes a similar application on behalf of one or more of his dependants, a single fee is payable in connection with that application.
 
-## 16. Fee for a work card in respect of a seasonal agricultural worker[^key-b31b7e0642ceee8e935aaf30dbeb5e5b]
+## 16. Fee for a work card in respect of a seasonal agricultural worker[^c-b31b7e0642ceee8e935aaf30dbeb5e5b]
 
 (1) Subject to paragraph (2), in the case of an application to which article 3(2)(d) of the 2007 Order applies, namely an application for an immigration employment document, which is made in respect of a person who is seeking to enter, or remain in, the United Kingdom as a seasonal agricultural worker under the immigration rules, the fee is £12.
 
 (2) No fee is payable in connection with an application referred to in paragraph (1) if it is made in respect of a person who is a national of a state which has ratified the Council of Europe Social Charter or the Council of Europe Revised Social Charter.
 
-## 17. Fees for travel documents (not including passports)[^key-feef73f6b271dcdf393c17b68d3fe024]
+## 17. Fees for travel documents (not including passports)[^c-feef73f6b271dcdf393c17b68d3fe024]
 
 (1) Subject to paragraph (2), in the case of an application to which article 3(2)(e) of the 2007 Order applies, other than an application referred to in paragraph (3), the fee to be paid is—
 
@@ -228,19 +228,19 @@ No fee is payable in relation to an application referred to in regulation 12 whe
 - (a) £46 in a case where the person in respect of whom the application is made has not, at the date of the application, attained the age of sixteen; or
 - (b) £72 in any other case.
 
-## 18. Fee for a direct airside transit visa[^key-f8ac7ebddd4836b78ac472dc5e7d3687]
+## 18. Fee for a direct airside transit visa[^c-f8ac7ebddd4836b78ac472dc5e7d3687]
 
 In the case of an application to which article 3(2)(la) of the 2007 Order applies, the fee is £46.
 
-## 19. Fee for a certificate of entitlement to the right to abode[^key-4a51c2b343a588424dc991a8987390b4]
+## 19. Fee for a certificate of entitlement to the right to abode[^c-4a51c2b343a588424dc991a8987390b4]
 
 In the case of an application to which article 3(2)(lb) of the 2007 Order applies, and where the application is made in respect of an applicant who is in the United Kingdom, the fee is £140.
 
-## 20. Fee for permission to marry or form a civil partnership[^key-0be2b6c56d6c50f65bb8de6e8c859312]
+## 20. Fee for permission to marry or form a civil partnership[^c-0be2b6c56d6c50f65bb8de6e8c859312]
 
 In the case of an application to which article 3(2)(m) or (n) of the 2007 Order applies, namely an application for permission to marry under section 19(3)(b), 21(3)(b) or 23(3)(b) of the Asylum and Immigration (Treatment of Claimants, etc) Act 2004[^f00026] or to form a civil partnership under paragraph 2(1)(b) of Schedule 23 to the Civil Partnership Act 2004[^f00027], the fee to be paid is £295.
 
-## 21. Fee for an application for a document recording biometric information[^key-a6377428b984a3ac38a88721c17303be][^key-04b2e8417345ba78647a9275f0c367d4]
+## 21. Fee for an application for a document recording biometric information[^c-a6377428b984a3ac38a88721c17303be][^c-04b2e8417345ba78647a9275f0c367d4]
 
 (1) Subject to paragraphs (2) and (3), in the case of an application to which article 3(2)(o) of the 2007 Order applies, namely an application for a document recording biometric information within the meaning of section 5 of the UK Borders Act 2007[^f00028], where the application is required by regulations made under section 5 of the UK Borders Act 2007, the fee is £30.
 
@@ -252,11 +252,11 @@ In the case of an application to which article 3(2)(m) or (n) of the 2007 Order 
 
 (5) Where an application referred to in paragraph (4) is made by an applicant and at the same time he makes a similar application on behalf of one or more of his dependants, a single fee is payable in connection with that application.
 
-## 22. Fees for sponsorship licences[^key-e039724955a6c9733db2681354b428c4]
+## 22. Fees for sponsorship licences[^c-e039724955a6c9733db2681354b428c4]
 
 In the case of an application to which article 3(2)(p) of the 2007 Order applies, where such application is in respect of a person who, if granted a sponsorship licence, would be a small sponsor and the application is for a sponsorship licence in respect of Tier 2 migrants, the fee is £300.
 
-**23.**[^key-1dc4bf36577ddac41fd437b3c9df2210] Subject to regulation 24, in the case of an application to which article 3(2)(p) of the 2007 Order applies, where the application is—
+**23.**[^c-1dc4bf36577ddac41fd437b3c9df2210] Subject to regulation 24, in the case of an application to which article 3(2)(p) of the 2007 Order applies, where the application is—
 
 - (a) for a sponsorship licence in respect of Tier 4 migrants;
 - (b) for a sponsorship licence in respect of Tier 5 migrants;
@@ -268,14 +268,14 @@ In the case of an application to which article 3(2)(p) of the 2007 Order applies
 
   the fee is £400.
 
-**24.**[^key-95f8d134aa35c3b5b516c103b3032b36] In the case of an application to which article 3(2)(p) of the 2007 Order applies, where the application is for a licence referred to in sub-paragraphs (a) to (c) of regulation 23 and is in respect of a person who—
+**24.**[^c-95f8d134aa35c3b5b516c103b3032b36] In the case of an application to which article 3(2)(p) of the 2007 Order applies, where the application is for a licence referred to in sub-paragraphs (a) to (c) of regulation 23 and is in respect of a person who—
 
 - (a) holds a valid sponsorship licence in respect of Tier 2 migrants; and
 - (b) is a small sponsor
 
 the fee is £100.
 
-## 25. Fee for the process of issuing a certificate of sponsorship[^key-fd1e3134d0a1d49a43e556c2694a404a]
+## 25. Fee for the process of issuing a certificate of sponsorship[^c-fd1e3134d0a1d49a43e556c2694a404a]
 
 (1) Subject to paragraph (2), in the case of a process to which article 5 of the 2007 Order applies, where the process is the issuing of a certificate of sponsorship in respect of an application or applications or a potential application or applications for leave to remain or enter the United Kingdom as—
 
@@ -286,7 +286,7 @@ the fee is £10.
 
 (2) No fee is payable in respect of the process for which a fee is specified in paragraph (1) where the certificate is issued in respect of an application or applications or a potential application or applications for leave to remain or enter the United Kingdom as a Tier 5 (Temporary Worker) made by a person who is a national of a state which has ratified the Council of Europe Social Charter or the Council of Europe Revised Social Charter.
 
-## 26. Fee for arranging a citizenship ceremony[^key-5d4a42ec9f5535b44ff300369bf7a81b]
+## 26. Fee for arranging a citizenship ceremony[^c-5d4a42ec9f5535b44ff300369bf7a81b]
 
 (1) In respect of a service to which article 4(2)(e) of the 2007 Order applies, namely the arrangement of a citizenship ceremony (including the administration of a citizenship oath and pledge at the ceremony), the fee to be paid for the provision of this service is £80.
 
@@ -301,21 +301,21 @@ the fee paid in respect of the arrangement of a citizenship ceremony shall be re
 
 (4) Where the fee referred to in paragraph (1) is to be paid in accordance with paragraph (2), and the fee is not paid in accordance with that paragraph, the Secretary of State will not consider the application for registration or naturalisation.
 
-## 27. Fee for the administration of a citizenship oath, or oath and pledge[^key-5b29f9cfaaa6b8486a4dcdf33d66d972]
+## 27. Fee for the administration of a citizenship oath, or oath and pledge[^c-5b29f9cfaaa6b8486a4dcdf33d66d972]
 
 (1) In respect of a service to which article 4(2)(f) of the 2007 Order applies, namely the administration of a citizenship oath, or oath and pledge (where not administered at a citizenship ceremony), the fee to be paid for the provision of this service is £5.
 
 (2) No fee is payable under these Regulations where the oath, or oath and pledge, is administered by a justice of the peace.
 
-## 28. Fee for the supply of certified copy[^key-9f54acc572937016595391b32be4b1fd]
+## 28. Fee for the supply of certified copy[^c-9f54acc572937016595391b32be4b1fd]
 
 In respect of a service to which article 4(2)(g) of the 2007 Order applies, namely the supply of a certified copy of a notice, certificate, order, declaration or entry given, granted or made under the 1981 Act, any of the former Nationality Acts or the 1997 Act, the fee to be paid for the provision of this service is £75.
 
-## 29. Fee for technical changes to a work permit document[^key-b56fbefcf998a2357f663c03ca1f40f7]
+## 29. Fee for technical changes to a work permit document[^c-b56fbefcf998a2357f663c03ca1f40f7]
 
 In the case of an application to which article 3(2)(d) of the 2007 Order applies, for a letter to confirm the amendment to information held by the UK Border Agency relating to employment within the terms of the work permit arrangements, which does not constitute a change requiring a new application for permission to work, the fee is £20.
 
-## 30. Fee for letter or other document confirming immigration or nationality status[^key-e14c4afa3a8e4a7aa76b943e611c7ecc]
+## 30. Fee for letter or other document confirming immigration or nationality status[^c-e14c4afa3a8e4a7aa76b943e611c7ecc]
 
 In the case of an application to which article 3(2)(q) of the 2007 Order applies, namely an application for a letter or other document confirming—
 
@@ -324,7 +324,7 @@ In the case of an application to which article 3(2)(q) of the 2007 Order applies
 
 the fee is £75.
 
-## 31. Fee for services in connection with immigration or nationality applications[^key-39778983aec66b8fe117fccbf0b96cda]
+## 31. Fee for services in connection with immigration or nationality applications[^c-39778983aec66b8fe117fccbf0b96cda]
 
 (1) Subject to paragraph (2), in respect of a service to which article 6(2) of the 2007 Order applies, namely the provision of services in connection with any immigration or nationality application requiring a representative of the Secretary of State to—
 
@@ -335,11 +335,11 @@ the fee is £128 per hour up to a maximum of £922 a day.
 
 (2) The official determining provision of these services may waive the payment of the fee in paragraph (1) where the official considers it is appropriate in the particular circumstances of the case.
 
-## 32. Consequences of failing to pay the fee[^key-f9ef704b0192307d4983494e9d22f6e7]
+## 32. Consequences of failing to pay the fee[^c-f9ef704b0192307d4983494e9d22f6e7]
 
 Where an application to which these Regulations refer is to be accompanied by a specified fee, the application is not validly made unless it has been accompanied by that fee.
 
-## 33. Revocation[^key-fba55ff62b0be10814cdb5e6dfb75a31]
+## 33. Revocation[^c-fba55ff62b0be10814cdb5e6dfb75a31]
 
 The following Regulations are revoked —
 
@@ -428,9 +428,9 @@ A regulatory impact assessment of the effect that this instrument will have on t
 
 [^f00002]: Footnote: [2006 c. 13](https://www.legislation.gov.uk/ukpga/2006/13).
 
-[^key-324b51175aa53eb52c8bb893fdac9ff7]: Commencement: Reg. 1 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
+[^c-324b51175aa53eb52c8bb893fdac9ff7]: Commencement: Reg. 1 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
 
-[^key-82df931515f4f44f27ffc046f75920ec]: Commencement: Reg. 2 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
+[^c-82df931515f4f44f27ffc046f75920ec]: Commencement: Reg. 2 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
 
 [^f00003]: Footnote: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
 
@@ -478,79 +478,79 @@ A regulatory impact assessment of the effect that this instrument will have on t
 
 [^f00025]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-1bdf8ad76474afa5e4708b1c0fe3fbd9]: Commencement: Reg. 3 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
+[^c-1bdf8ad76474afa5e4708b1c0fe3fbd9]: Commencement: Reg. 3 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
 
-[^key-54ae16b867b0057c375e12309e500e1d]: Commencement: Reg. 4 in force at 6.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/2)
+[^c-54ae16b867b0057c375e12309e500e1d]: Commencement: Reg. 4 in force at 6.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/2)
 
-[^key-8e9aa1dc7b3c10328321ad9d87d19e12]: Commencement: Reg. 5 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
+[^c-8e9aa1dc7b3c10328321ad9d87d19e12]: Commencement: Reg. 5 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
 
-[^key-72c2688df2d5576835e7d085ee833c19]: Commencement: Reg. 6 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
+[^c-72c2688df2d5576835e7d085ee833c19]: Commencement: Reg. 6 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
 
-[^key-6ee0bc56849085165ff5cb9b082fd5c0]: Commencement: Reg. 7 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
+[^c-6ee0bc56849085165ff5cb9b082fd5c0]: Commencement: Reg. 7 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
 
-[^key-2ac0a4fe54898f277021fa24c0ca9270]: Commencement: Reg. 8 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
+[^c-2ac0a4fe54898f277021fa24c0ca9270]: Commencement: Reg. 8 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
 
-[^key-16f38c4b05d5d34fcdd4a9f283bf47f2]: Commencement: Reg. 9 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
+[^c-16f38c4b05d5d34fcdd4a9f283bf47f2]: Commencement: Reg. 9 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
 
-[^key-9fb89143abd8f46260d6bef58f157586]: Commencement: Reg. 10 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
+[^c-9fb89143abd8f46260d6bef58f157586]: Commencement: Reg. 10 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
 
-[^key-7d20f07959557c8a7b4e981ca7f4f859]: Commencement: Reg. 11 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
+[^c-7d20f07959557c8a7b4e981ca7f4f859]: Commencement: Reg. 11 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
 
-[^key-b1bdbfd5bea58a08b7c3926330b808fd]: Commencement: Reg. 12(1)(a)-(g)(j)-(m)(2) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
+[^c-b1bdbfd5bea58a08b7c3926330b808fd]: Commencement: Reg. 12(1)(a)-(g)(j)-(m)(2) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
 
-[^key-2f02b55f9ba784b9dde7541f10788a2a]: Commencement: Reg. 12(1)(h)(i)(n) in force at 31.3.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/2)
+[^c-2f02b55f9ba784b9dde7541f10788a2a]: Commencement: Reg. 12(1)(h)(i)(n) in force at 31.3.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/2)
 
-[^key-442dec109e8d961f00b6e0cc7ca7c77a]: Commencement: Reg. 13 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
+[^c-442dec109e8d961f00b6e0cc7ca7c77a]: Commencement: Reg. 13 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
 
-[^key-d0a07b6ea8dbf8ace03b61bcaf7f63b1]: Commencement: Reg. 14 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
+[^c-d0a07b6ea8dbf8ace03b61bcaf7f63b1]: Commencement: Reg. 14 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
 
-[^key-a8389ace555873bcbf06518830303e99]: Commencement: Reg. 15 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
+[^c-a8389ace555873bcbf06518830303e99]: Commencement: Reg. 15 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
 
-[^key-b31b7e0642ceee8e935aaf30dbeb5e5b]: Commencement: Reg. 16 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
+[^c-b31b7e0642ceee8e935aaf30dbeb5e5b]: Commencement: Reg. 16 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
 
-[^key-feef73f6b271dcdf393c17b68d3fe024]: Commencement: Reg. 17 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
+[^c-feef73f6b271dcdf393c17b68d3fe024]: Commencement: Reg. 17 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
 
-[^key-f8ac7ebddd4836b78ac472dc5e7d3687]: Commencement: Reg. 18 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
+[^c-f8ac7ebddd4836b78ac472dc5e7d3687]: Commencement: Reg. 18 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
 
-[^key-4a51c2b343a588424dc991a8987390b4]: Commencement: Reg. 19 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
+[^c-4a51c2b343a588424dc991a8987390b4]: Commencement: Reg. 19 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
 
-[^key-0be2b6c56d6c50f65bb8de6e8c859312]: Commencement: Reg. 20 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
+[^c-0be2b6c56d6c50f65bb8de6e8c859312]: Commencement: Reg. 20 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
 
 [^f00026]: Footnote: [2004 c. 19](https://www.legislation.gov.uk/ukpga/2004/19).
 
 [^f00027]: Footnote: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).
 
-[^key-a6377428b984a3ac38a88721c17303be]: Commencement: Reg. 21(1)-(3) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
+[^c-a6377428b984a3ac38a88721c17303be]: Commencement: Reg. 21(1)-(3) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
 
-[^key-04b2e8417345ba78647a9275f0c367d4]: Commencement: Reg. 21(4)(5) in force at 31.3.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/2)
+[^c-04b2e8417345ba78647a9275f0c367d4]: Commencement: Reg. 21(4)(5) in force at 31.3.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/2)
 
 [^f00028]: Footnote: [2007 c. 30](https://www.legislation.gov.uk/ukpga/2007/30).
 
 [^f00029]: Footnote: [S.I. 2008/1183](https://www.legislation.gov.uk/uksi/2008/1183) now revoked. Transitional provisions in paragraph 24 of [S.I. 2008/3048](https://www.legislation.gov.uk/uksi/2008/3048).
 
-[^key-e039724955a6c9733db2681354b428c4]: Commencement: Reg. 22 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
+[^c-e039724955a6c9733db2681354b428c4]: Commencement: Reg. 22 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
 
-[^key-1dc4bf36577ddac41fd437b3c9df2210]: Commencement: Reg. 23 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
+[^c-1dc4bf36577ddac41fd437b3c9df2210]: Commencement: Reg. 23 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
 
-[^key-95f8d134aa35c3b5b516c103b3032b36]: Commencement: Reg. 24 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
+[^c-95f8d134aa35c3b5b516c103b3032b36]: Commencement: Reg. 24 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
 
-[^key-fd1e3134d0a1d49a43e556c2694a404a]: Commencement: Reg. 25 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
+[^c-fd1e3134d0a1d49a43e556c2694a404a]: Commencement: Reg. 25 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
 
-[^key-5d4a42ec9f5535b44ff300369bf7a81b]: Commencement: Reg. 26 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
+[^c-5d4a42ec9f5535b44ff300369bf7a81b]: Commencement: Reg. 26 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
 
-[^key-5b29f9cfaaa6b8486a4dcdf33d66d972]: Commencement: Reg. 27 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
+[^c-5b29f9cfaaa6b8486a4dcdf33d66d972]: Commencement: Reg. 27 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
 
-[^key-9f54acc572937016595391b32be4b1fd]: Commencement: Reg. 28 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
+[^c-9f54acc572937016595391b32be4b1fd]: Commencement: Reg. 28 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
 
-[^key-b56fbefcf998a2357f663c03ca1f40f7]: Commencement: Reg. 29 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
+[^c-b56fbefcf998a2357f663c03ca1f40f7]: Commencement: Reg. 29 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
 
-[^key-e14c4afa3a8e4a7aa76b943e611c7ecc]: Commencement: Reg. 30 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
+[^c-e14c4afa3a8e4a7aa76b943e611c7ecc]: Commencement: Reg. 30 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
 
-[^key-39778983aec66b8fe117fccbf0b96cda]: Commencement: Reg. 31 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
+[^c-39778983aec66b8fe117fccbf0b96cda]: Commencement: Reg. 31 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
 
-[^key-f9ef704b0192307d4983494e9d22f6e7]: Commencement: Reg. 32 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
+[^c-f9ef704b0192307d4983494e9d22f6e7]: Commencement: Reg. 32 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
 
-[^key-fba55ff62b0be10814cdb5e6dfb75a31]: Commencement: Reg. 33 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
+[^c-fba55ff62b0be10814cdb5e6dfb75a31]: Commencement: Reg. 33 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/421/regulation/1/1)
 
 [^f00030]: Footnote: [S.I. 2007/936](https://www.legislation.gov.uk/uksi/2007/936)
 

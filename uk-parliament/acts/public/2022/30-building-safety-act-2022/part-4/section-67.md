@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Regulations under section 65: additional procedure in certain cases[^key-b88882f9dc856911638eaed47bd816b5]
+## 67. Regulations under section 65: additional procedure in certain cases[^c-b88882f9dc856911638eaed47bd816b5]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ the cost-benefit analysis need not estimate them, but must include a statement o
 
 ## Annotations
 
-[^key-b88882f9dc856911638eaed47bd816b5]: Commencement: S. 67 in force at Royal Assent, see [s. 170(1)(f)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/f)
+[^c-b88882f9dc856911638eaed47bd816b5]: Commencement: S. 67 in force at Royal Assent, see [s. 170(1)(f)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/f)

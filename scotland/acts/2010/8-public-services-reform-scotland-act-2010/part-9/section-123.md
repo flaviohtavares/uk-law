@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 123. Delegation of functions[^key-f23bbdf949d1912bbacc28b4b583a0d5]
+## 123. Delegation of functions[^c-f23bbdf949d1912bbacc28b4b583a0d5]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In section 38(1) of the 2005 Act (exercise of OSCR functions by Scottish Ministe
 
 ## Annotations
 
-[^key-f23bbdf949d1912bbacc28b4b583a0d5]: Commencement: [S. 123](https://www.legislation.gov.uk/asp/2010/8/section/123) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-f23bbdf949d1912bbacc28b4b583a0d5]: Commencement: [S. 123](https://www.legislation.gov.uk/asp/2010/8/section/123) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)

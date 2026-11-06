@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161. Power of Bank of England to require undertakings to provide information[^key-64265cb47190a62a94b6904ccbe178f2]
+## 161. Power of Bank of England to require undertakings to provide information[^c-64265cb47190a62a94b6904ccbe178f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,6 +69,6 @@ summary: ''
 
 ## Annotations
 
-[^key-64265cb47190a62a94b6904ccbe178f2]: Commencement: Art. 161 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-64265cb47190a62a94b6904ccbe178f2]: Commencement: Art. 161 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00122]: Footnote: Section 17(3) was amended by [S.I. 2000/2952](https://www.legislation.gov.uk/uksi/2000/2952), regulation 7.

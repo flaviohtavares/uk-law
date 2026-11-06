@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154A. Purported intimate images to be treated as used for purpose of certain offences[^key-406d27b53320aec632c545ccab3dd748]
+## 154A. Purported intimate images to be treated as used for purpose of certain offences[^c-406d27b53320aec632c545ccab3dd748]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-406d27b53320aec632c545ccab3dd748]: Textual amendment: S. 154A inserted (6.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 138(6)](https://www.legislation.gov.uk/ukpga/2025/18/section/138/6), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/31](https://www.legislation.gov.uk/uksi/2026/31), [reg. 2](https://www.legislation.gov.uk/uksi/2026/31/regulation/2)
+[^c-406d27b53320aec632c545ccab3dd748]: Textual amendment: S. 154A inserted (6.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 138(6)](https://www.legislation.gov.uk/ukpga/2025/18/section/138/6), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/31](https://www.legislation.gov.uk/uksi/2026/31), [reg. 2](https://www.legislation.gov.uk/uksi/2026/31/regulation/2)

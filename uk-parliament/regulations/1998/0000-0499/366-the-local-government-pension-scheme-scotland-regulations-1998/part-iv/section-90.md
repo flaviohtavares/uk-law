@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 90. Pension increases under the Pensions (Increase) Acts[^key-520e3adf150f3fc838d00d0f07aefa11]
+## 90. Pension increases under the Pensions (Increase) Acts[^c-520e3adf150f3fc838d00d0f07aefa11]
 
 *Extent: E+W+S*
 
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-520e3adf150f3fc838d00d0f07aefa11]: Commencement: Reg. 90 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-520e3adf150f3fc838d00d0f07aefa11]: Commencement: Reg. 90 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00034]: Footnote: [1971 c. 56](https://www.legislation.gov.uk/ukpga/1971/56).
 

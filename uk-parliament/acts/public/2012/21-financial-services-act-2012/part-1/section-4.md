@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Financial stability strategy and Financial Policy Committee[^key-d88b9a668dddf70fb6f7d9002a85ac9a][^key-39aceeb3728504a69b0628440721c37e][^key-ae2013b01fdac94b994b92919bde4cde]
+## 4. Financial stability strategy and Financial Policy Committee[^c-d88b9a668dddf70fb6f7d9002a85ac9a][^c-39aceeb3728504a69b0628440721c37e][^c-ae2013b01fdac94b994b92919bde4cde]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-a12bb76e7546a2f9ca75b81e9ec0166e] After Part 1 of the Bank of England Act 1998 insert—
+(1)[^c-a12bb76e7546a2f9ca75b81e9ec0166e] After Part 1 of the Bank of England Act 1998 insert—
 
 > **PART 1A — Financial Stability**
 >
@@ -536,20 +536,20 @@ summary: ''
 > - “**the UK economy**” means the economy of the United Kingdom;
 > - “**the UK financial system**” means the financial system of the United Kingdom.
 
-(2)[^key-a12bb76e7546a2f9ca75b81e9ec0166e] After Schedule 2 to the Bank of England Act 1998 insert as Schedule 2A the Schedule set out in Part 1 of Schedule 1 to this Act.
+(2)[^c-a12bb76e7546a2f9ca75b81e9ec0166e] After Schedule 2 to the Bank of England Act 1998 insert as Schedule 2A the Schedule set out in Part 1 of Schedule 1 to this Act.
 
-(3)[^key-260418d484ea6fb26682689e6d4d756c] The further amendments relating to the Financial Policy Committee in Part 2 of Schedule 1 have effect.
+(3)[^c-260418d484ea6fb26682689e6d4d756c] The further amendments relating to the Financial Policy Committee in Part 2 of Schedule 1 have effect.
 
-(4)[^key-260418d484ea6fb26682689e6d4d756c] Sections 2B and 2C of the Bank of England Act 1998 (which relate to the establishment and procedure of the Financial Stability Committee) are repealed.
+(4)[^c-260418d484ea6fb26682689e6d4d756c] Sections 2B and 2C of the Bank of England Act 1998 (which relate to the establishment and procedure of the Financial Stability Committee) are repealed.
 
 ## Annotations
 
-[^key-d88b9a668dddf70fb6f7d9002a85ac9a]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2012/21/section/4) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2)
+[^c-d88b9a668dddf70fb6f7d9002a85ac9a]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2012/21/section/4) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2)
 
-[^key-39aceeb3728504a69b0628440721c37e]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2012/21/section/4) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
+[^c-39aceeb3728504a69b0628440721c37e]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2012/21/section/4) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
 
-[^key-ae2013b01fdac94b994b92919bde4cde]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2012/21/section/4) in force at 19.2.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/2), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/4)
+[^c-ae2013b01fdac94b994b92919bde4cde]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2012/21/section/4) in force at 19.2.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/2), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/4)
 
-[^key-a12bb76e7546a2f9ca75b81e9ec0166e]: Commencement: [S. 4(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/4/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/21/section/4/2) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-a12bb76e7546a2f9ca75b81e9ec0166e]: Commencement: [S. 4(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/4/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/21/section/4/2) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-260418d484ea6fb26682689e6d4d756c]: Commencement: [S. 4(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/4/3)[(4)](https://www.legislation.gov.uk/ukpga/2012/21/section/4/4) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-260418d484ea6fb26682689e6d4d756c]: Commencement: [S. 4(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/4/3)[(4)](https://www.legislation.gov.uk/ukpga/2012/21/section/4/4) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

@@ -20,7 +20,7 @@ summary: ''
 
 **Not yet in force.**
 
-**61.**[^key-fc88f99b40e8973deda1c82d04d323f9] A person shall not have on board any boat used for fishing for salmon in the sea—
+**61.**[^c-fc88f99b40e8973deda1c82d04d323f9] A person shall not have on board any boat used for fishing for salmon in the sea—
 
 - (a) any drift net of greater length than 1,375 metres;
 - (b) any number of drift nets joined together in such a way that their total length is greater than 1,375 metres;
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc88f99b40e8973deda1c82d04d323f9]: Commencement: S. 61 in operation at 1.11.1997, see byelaw 1
+[^c-fc88f99b40e8973deda1c82d04d323f9]: Commencement: S. 61 in operation at 1.11.1997, see byelaw 1

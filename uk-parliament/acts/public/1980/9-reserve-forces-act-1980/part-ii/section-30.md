@@ -34,7 +34,7 @@ and those so ordered shall serve while the recall order remains in force (unless
 
 and are in receipt of pensions in respect of such service.
 
-(2) Provision made under section 331 of the Armed Forces Act 2006 that applies in relation to[^key-74e776e475e5dc4ce8dc17964e72d609] the discharge of seamen serving in the Royal Navy and becoming entitled to be discharged shall be applicable to and for the discharge of any of those serving under subsection (1) above, and becoming entitled to be discharged.
+(2) Provision made under section 331 of the Armed Forces Act 2006 that applies in relation to[^c-74e776e475e5dc4ce8dc17964e72d609] the discharge of seamen serving in the Royal Navy and becoming entitled to be discharged shall be applicable to and for the discharge of any of those serving under subsection (1) above, and becoming entitled to be discharged.
 
 (3)[^c11525401] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -48,4 +48,4 @@ and are in receipt of pensions in respect of such service.
 
 [^c11525421]: Textual amendment: S. 30(1A) inserted (1.4.1997) by [S.I. 1997/306](https://www.legislation.gov.uk/uksi/1997/306), [art. 15(3)](https://www.legislation.gov.uk/uksi/1997/306/article/15/3)
 
-[^key-74e776e475e5dc4ce8dc17964e72d609]: Textual amendment: Words in s. 30(2) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 11](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/11); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-74e776e475e5dc4ce8dc17964e72d609]: Textual amendment: Words in s. 30(2) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 11](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/11); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

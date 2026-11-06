@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Bunkering[^key-a361c034cdd4710faa9e25820d5ebda2]
+## 59. Bunkering[^c-a361c034cdd4710faa9e25820d5ebda2]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a361c034cdd4710faa9e25820d5ebda2]: Commencement: Art. 59 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-a361c034cdd4710faa9e25820d5ebda2]: Commencement: Art. 59 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

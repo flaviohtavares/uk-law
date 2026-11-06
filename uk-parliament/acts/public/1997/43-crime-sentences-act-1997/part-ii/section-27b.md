@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27B. Power of High Court to reduce minimum term[^key-6e92c05e1902e9a7e9c3ca7b4cd0269e]
+## 27B. Power of High Court to reduce minimum term[^c-6e92c05e1902e9a7e9c3ca7b4cd0269e]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ and a decision of the court under this subsection is final.
 
 ## Annotations
 
-[^key-6e92c05e1902e9a7e9c3ca7b4cd0269e]: Textual amendment: [Ss. 27A](https://www.legislation.gov.uk/ukpga/1997/43/section/27A), [27B](https://www.legislation.gov.uk/ukpga/1997/43/section/27B) and cross-heading inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 128(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/128/1), [208(5)(l)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/l)
+[^c-6e92c05e1902e9a7e9c3ca7b4cd0269e]: Textual amendment: [Ss. 27A](https://www.legislation.gov.uk/ukpga/1997/43/section/27A), [27B](https://www.legislation.gov.uk/ukpga/1997/43/section/27B) and cross-heading inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 128(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/128/1), [208(5)(l)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/l)

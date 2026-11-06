@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Arbitration[^key-7725dbaa2242695ebc6ffd40431c4976]
+## 29. Arbitration[^c-7725dbaa2242695ebc6ffd40431c4976]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7725dbaa2242695ebc6ffd40431c4976]: Commencement: Art. 29 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)
+[^c-7725dbaa2242695ebc6ffd40431c4976]: Commencement: Art. 29 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)

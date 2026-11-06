@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 37. Sequestrations[^key-960004976c68c79291d295e64cf1c240]
+## 37. Sequestrations[^c-960004976c68c79291d295e64cf1c240]
 
 *Extent: E*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-960004976c68c79291d295e64cf1c240]: Commencement: [S. 37](https://www.legislation.gov.uk/ukcm/2018/8/section/37) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-960004976c68c79291d295e64cf1c240]: Commencement: [S. 37](https://www.legislation.gov.uk/ukcm/2018/8/section/37) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

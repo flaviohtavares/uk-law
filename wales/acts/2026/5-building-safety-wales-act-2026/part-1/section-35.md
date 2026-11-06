@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Management of structural safety risks by accountable persons[^key-16eb6df19317309191b78f9b9d332b91]
+## 35. Management of structural safety risks by accountable persons[^c-16eb6df19317309191b78f9b9d332b91]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16eb6df19317309191b78f9b9d332b91]: Commencement: S. 35 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-16eb6df19317309191b78f9b9d332b91]: Commencement: S. 35 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

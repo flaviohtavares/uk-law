@@ -110,10 +110,10 @@ Deduct from the profits of the trade for the tax year 2006-07 so much of the ded
 (11) The provision made by the preceding provisions means that the following sections of ITA 2007 apply in relation to relief under this paragraph as in relation to relief under section 64 of that Act—
 
 - (a) section 66 to 70 (restrictions on relief under section 64),
-- (b) sections 74ZA[^key-c63c05ab9ea569f825b6633978e321af] to 74D (general restrictions on relief),
-- (c) sections 75 to 79 (restrictions on relief under section 64 and early trade losses relief in relation to capital allowances),and[^key-99f96a6bc74f977e00e2f4c07329edda]
-- (d) section 80 (restrictions on those reliefs in relation to ring fence income), [^key-3248e6351b3c4faef64041a1ffb3b36a]...
-- (e)[^key-3248e6351b3c4faef64041a1ffb3b36a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) sections 74ZA[^c-c63c05ab9ea569f825b6633978e321af] to 74D (general restrictions on relief),
+- (c) sections 75 to 79 (restrictions on relief under section 64 and early trade losses relief in relation to capital allowances),and[^c-99f96a6bc74f977e00e2f4c07329edda]
+- (d) section 80 (restrictions on those reliefs in relation to ring fence income), [^c-3248e6351b3c4faef64041a1ffb3b36a]...
+- (e)[^c-3248e6351b3c4faef64041a1ffb3b36a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (12) The total amount that may be deducted in accordance with sub-paragraph (7), or in accordance with Steps 2 and 3 in sub-paragraph (8), is limited to £50,000; and the total amount that may be deducted in accordance with sub-paragraph (9), or in accordance with Steps 2 and 3 in sub-paragraph (10), is also limited to £50,000.
 
@@ -134,7 +134,7 @@ Deduct from the profits of the trade for the tax year 2006-07 so much of the ded
 
 ### Corporation tax
 
-**3.** (1)[^key-32390e88db098c941ac179c033da3e51] Sections 37(3)(b) and 38(1) and (3) of CTA 2010 (trade loss relief against profits of same or earlier accounting period) have effect in relation to any loss to which this paragraph applies as if the references to 12 months were references to 3 years (but subject as follows).
+**3.** (1)[^c-32390e88db098c941ac179c033da3e51] Sections 37(3)(b) and 38(1) and (3) of CTA 2010 (trade loss relief against profits of same or earlier accounting period) have effect in relation to any loss to which this paragraph applies as if the references to 12 months were references to 3 years (but subject as follows).
 
 (2) This paragraph applies to any loss incurred by a company in a trade in a relevant accounting period (but subject to sub-paragraph (3)); and a relevant accounting period is one ending after 23 November 2008 and before 24 November 2010.
 
@@ -145,7 +145,7 @@ Deduct from the profits of the trade for the tax year 2006-07 so much of the ded
 
 and the overall limit or limits apply whether a loss is incurred by the company in only one relevant accounting period or losses are so incurred in more than one such period.
 
-(4) Subject to that, if in the case of the company the length of a relevant accounting period is less than one year, the maximum amount of the loss incurred in that period that may be relieved under section 37 of CTA 2010[^key-53d9d203b7d0cf496cc1fa0ac326bd51] by virtue of this paragraph is the relevant proportion of £50,000.
+(4) Subject to that, if in the case of the company the length of a relevant accounting period is less than one year, the maximum amount of the loss incurred in that period that may be relieved under section 37 of CTA 2010[^c-53d9d203b7d0cf496cc1fa0ac326bd51] by virtue of this paragraph is the relevant proportion of £50,000.
 
 (5) “The relevant proportion” is—
 
@@ -157,18 +157,18 @@ RAP is the number of days in the relevant accounting period, and
 
 Y is 365.
 
-(6)[^key-0df1b46594e78793aa268e76fc44cd07] The reference in subsection (2) of section 40 of CTA 2010 to the loss mentioned in subsection (1)(a) of that section (so far as not a terminal loss and so far as not exceeding the allowance mentioned in subsection (1)(b) of that section) (“the section 40 loss”) has effect in relation to a relevant accounting period as a reference to so much of the section 40 loss as exceeds that which can be set off under section 37 by virtue of this paragraph.
+(6)[^c-0df1b46594e78793aa268e76fc44cd07] The reference in subsection (2) of section 40 of CTA 2010 to the loss mentioned in subsection (1)(a) of that section (so far as not a terminal loss and so far as not exceeding the allowance mentioned in subsection (1)(b) of that section) (“the section 40 loss”) has effect in relation to a relevant accounting period as a reference to so much of the section 40 loss as exceeds that which can be set off under section 37 by virtue of this paragraph.
 
 ## Annotations
 
-[^key-c63c05ab9ea569f825b6633978e321af]: Textual amendment: Word in [Sch. 6 para. 1(11)(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/6/paragraph/1/11/b) substituted (with effect in accordance with Sch. 3 para. 11 of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 3 para. 10(a)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/3/paragraph/10/a)
+[^c-c63c05ab9ea569f825b6633978e321af]: Textual amendment: Word in [Sch. 6 para. 1(11)(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/6/paragraph/1/11/b) substituted (with effect in accordance with Sch. 3 para. 11 of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 3 para. 10(a)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/3/paragraph/10/a)
 
-[^key-99f96a6bc74f977e00e2f4c07329edda]: Textual amendment: Word in [Sch. 6 para. 1(11)(c)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/6/paragraph/1/11/c) inserted (with effect in accordance with Sch. 3 para. 11 of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 3 para. 10(b)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/3/paragraph/10/b)
+[^c-99f96a6bc74f977e00e2f4c07329edda]: Textual amendment: Word in [Sch. 6 para. 1(11)(c)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/6/paragraph/1/11/c) inserted (with effect in accordance with Sch. 3 para. 11 of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 3 para. 10(b)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/3/paragraph/10/b)
 
-[^key-3248e6351b3c4faef64041a1ffb3b36a]: Textual amendment: [Sch. 6 para. 1(11)(e) and word](https://www.legislation.gov.uk/ukpga/2009/10/schedule/6/paragraph/1/11/e) omitted (with effect in accordance with Sch. 3 para. 11 of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 3 para. 10(c)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/3/paragraph/10/c)
+[^c-3248e6351b3c4faef64041a1ffb3b36a]: Textual amendment: [Sch. 6 para. 1(11)(e) and word](https://www.legislation.gov.uk/ukpga/2009/10/schedule/6/paragraph/1/11/e) omitted (with effect in accordance with Sch. 3 para. 11 of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 3 para. 10(c)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/3/paragraph/10/c)
 
-[^key-32390e88db098c941ac179c033da3e51]: Textual amendment: Sch. 6 para. 3(1) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 714(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/714/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-32390e88db098c941ac179c033da3e51]: Textual amendment: Sch. 6 para. 3(1) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 714(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/714/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-53d9d203b7d0cf496cc1fa0ac326bd51]: Textual amendment: Words in Sch. 6 para. 3(4) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 714(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/714/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-53d9d203b7d0cf496cc1fa0ac326bd51]: Textual amendment: Words in Sch. 6 para. 3(4) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 714(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/714/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-0df1b46594e78793aa268e76fc44cd07]: Textual amendment: Sch. 6 para. 3(6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 714(4)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/714/4) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-0df1b46594e78793aa268e76fc44cd07]: Textual amendment: Sch. 6 para. 3(6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 714(4)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/714/4) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

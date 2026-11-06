@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 158. Benefits payable by the scheme manager[^key-0a9e0f770078386015f1ac5dcb713b90]
+## 158. Benefits payable by the scheme manager[^c-0a9e0f770078386015f1ac5dcb713b90]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a9e0f770078386015f1ac5dcb713b90]: Commencement: [Reg. 158](https://www.legislation.gov.uk/ssi/2014/292/regulation/158) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-0a9e0f770078386015f1ac5dcb713b90]: Commencement: [Reg. 158](https://www.legislation.gov.uk/ssi/2014/292/regulation/158) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

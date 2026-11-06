@@ -53,19 +53,19 @@ In accordance with section 16(6) of the Government of Wales Act 2006[^f00001] a 
 
 Accordingly, His Majesty, in pursuance of sections 16(1)(b) and (5), and 157(1) and (2) of that Act, is pleased, by and with the advice of His Privy Council, to order as follows:
 
-## 1. Title and coming into force[^key-cf3f77ccb198e8073571d7c099cd262e]
+## 1. Title and coming into force[^c-cf3f77ccb198e8073571d7c099cd262e]
 
 (1) The title of this Order is the Senedd Cymru (Disqualification) Order 2025.
 
 (2) It comes into force on 13th November 2025 but articles 2 and 3 only have effect for the purposes of a Senedd Cymru election at which the poll is held on or after 6th April 2026.
 
-## 2. Designation of disqualifying offices[^key-e89a17885464c3ef9352031c37ec1b02]
+## 2. Designation of disqualifying offices[^c-e89a17885464c3ef9352031c37ec1b02]
 
 (1) The offices described in the Schedule are designated as offices held by a person, or persons, that disqualifies that person, or those persons, from being a Member of the Senedd.
 
 (2) In this Article, “**offices**” has the same meaning as in section 16(5) of the Government of Wales Act 2006.
 
-## 3. Revocation[^key-6ee0c65bbe136b6f3028335960d08ea6]
+## 3. Revocation[^c-6ee0c65bbe136b6f3028335960d08ea6]
 
 The Senedd Cymru (Disqualification) Order 2020[^f00002] is revoked.
 
@@ -73,7 +73,7 @@ Richard Tilbrook
 
 Clerk of the Privy Council
 
-## SCHEDULE — Offices disqualifying persons from being a Member of the Senedd[^key-7993425f4bbf56e2fabf1f80c8443514]
+## SCHEDULE — Offices disqualifying persons from being a Member of the Senedd[^c-7993425f4bbf56e2fabf1f80c8443514]
 
 Article 2
 
@@ -129,8 +129,8 @@ Table 1
 | Independent Groundwater Complaints Administrator | The Independent Groundwater Complaints Administrator appointed under section 21, and paragraph 27 of Schedule 7, to the Cardiff Bay Barrage Act 1993 [^f00045] |
 | Independent Monitoring Authority for the Citizens’ Rights Agreements | All members appointed under section 15(3), and paragraph 1 of Schedule 2, to the European Union (Withdrawal Agreement) Act 2020[^f00046] |
 | Independent Office for Police Conduct | All members appointed under section 9(2) of the Police Reform Act 2002[^f00047] |
-| Information Commission[^key-0f937d15d50b5a820a88fdeac8d13cfa] | All members |
-| [^key-e924140f6c2d9e0aa251c9cd30d7c4ad]. . . | [^key-e924140f6c2d9e0aa251c9cd30d7c4ad]. . . |
+| Information Commission[^c-0f937d15d50b5a820a88fdeac8d13cfa] | All members |
+| [^c-e924140f6c2d9e0aa251c9cd30d7c4ad]. . . | [^c-e924140f6c2d9e0aa251c9cd30d7c4ad]. . . |
 | Joint Nature Conservation Committee | All members appointed under section 31(b), and paragraph 1 of Schedule 4, to the Natural Environment and Rural Communities Act 2006[^f00049] |
 | Judicial Appointments Commission | Commissioners appointed under section 61(2), and paragraph 1 of Schedule 12, to the Constitutional Reform Act 2005[^f00050] |
 | Judicial Appointments and Conduct Ombudsman | The Judicial Appointments and Conduct Ombudsman appointed under section 62(2), and paragraph 1 of Schedule 14, to the Constitutional Reform Act 2005 |
@@ -188,15 +188,15 @@ This Order revokes the Senedd Cymru (Disqualification) Order 2020 ([S.I. 2020/12
 
 [^f00001]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32). Relevant amendments were made to section 16 by sections 29 and 42 and paragraph 2 of Schedule 1 to the Senedd and Elections (Wales) Act [2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), and section 61 of the Elections and Elected Bodies (Wales) Act [2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5).
 
-[^key-cf3f77ccb198e8073571d7c099cd262e]: Commencement: Art. 1 in force at 13.11.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1183/article/1/2)
+[^c-cf3f77ccb198e8073571d7c099cd262e]: Commencement: Art. 1 in force at 13.11.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1183/article/1/2)
 
-[^key-e89a17885464c3ef9352031c37ec1b02]: Commencement: Art. 2 in force at 13.11.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1183/article/1/2)
+[^c-e89a17885464c3ef9352031c37ec1b02]: Commencement: Art. 2 in force at 13.11.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1183/article/1/2)
 
-[^key-6ee0c65bbe136b6f3028335960d08ea6]: Commencement: Art. 3 in force at 13.11.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1183/article/1/2)
+[^c-6ee0c65bbe136b6f3028335960d08ea6]: Commencement: Art. 3 in force at 13.11.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1183/article/1/2)
 
 [^f00002]: Footnote: [S.I. 2020/1255](https://www.legislation.gov.uk/uksi/2020/1255).
 
-[^key-7993425f4bbf56e2fabf1f80c8443514]: Commencement: Sch. in force at 13.11.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1183/article/1/2)
+[^c-7993425f4bbf56e2fabf1f80c8443514]: Commencement: Sch. in force at 13.11.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1183/article/1/2)
 
 [^f00003]: Footnote: [S.I. 1995/2803](https://www.legislation.gov.uk/uksi/1995/2803).
 
@@ -288,9 +288,9 @@ This Order revokes the Senedd Cymru (Disqualification) Order 2020 ([S.I. 2020/12
 
 [^f00047]: Footnote: [2002 c. 30](https://www.legislation.gov.uk/ukpga/2002/30). Section 9(2) to this Act has been amended by section 33(5) of the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3).
 
-[^key-0f937d15d50b5a820a88fdeac8d13cfa]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2025/1183/schedule) inserted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 34(2)(a)(i)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/34/2/a/i); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-0f937d15d50b5a820a88fdeac8d13cfa]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2025/1183/schedule) inserted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 34(2)(a)(i)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/34/2/a/i); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-e924140f6c2d9e0aa251c9cd30d7c4ad]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2025/1183/schedule) omitted (30.9.2026) by virtue of [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 34(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/34/2/a/ii); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-e924140f6c2d9e0aa251c9cd30d7c4ad]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2025/1183/schedule) omitted (30.9.2026) by virtue of [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 34(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/34/2/a/ii); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
 [^f00049]: Footnote: [2006 c. 16](https://www.legislation.gov.uk/ukpga/2006/16).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 64. Acts that are “part of” serious interventions[^key-8ad1c713a6244ff5a2d65367b68fbfc5]
+## 64. Acts that are “part of” serious interventions[^c-8ad1c713a6244ff5a2d65367b68fbfc5]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ the act mentioned in paragraph (a) is to be taken to be part of the same interve
 
 ## Annotations
 
-[^key-8ad1c713a6244ff5a2d65367b68fbfc5]: Commencement: [S. 64](https://www.legislation.gov.uk/nia/2016/18/section/64) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-8ad1c713a6244ff5a2d65367b68fbfc5]: Commencement: [S. 64](https://www.legislation.gov.uk/nia/2016/18/section/64) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)

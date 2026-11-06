@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Individual and party list candidates: expenses which may be paid otherwise than by an election agent[^key-01ef9d034db6c4dccb48fbe226de62cb]
+## 45. Individual and party list candidates: expenses which may be paid otherwise than by an election agent[^c-01ef9d034db6c4dccb48fbe226de62cb]
 
 *Extent: E+W*
 
-(1) During the regulated period,[^key-026c4f69e14900a2a4eaec61926dc827] a party list candidate at a Senedd election (“**P**”) may pay any personal expenses incurred by P on account of or in connection with or incidental to the election, but the amount which P may pay must not exceed £900, and any further personal expenses incurred by P must be paid by the treasurer of the registered political party on whose party list P is included as a party list candidate.
+(1) During the regulated period,[^c-026c4f69e14900a2a4eaec61926dc827] a party list candidate at a Senedd election (“**P**”) may pay any personal expenses incurred by P on account of or in connection with or incidental to the election, but the amount which P may pay must not exceed £900, and any further personal expenses incurred by P must be paid by the treasurer of the registered political party on whose party list P is included as a party list candidate.
 
-(2) During the regulated period,[^key-e22bb49e12c9109ea94038ef04e87f2f] an individual candidate at a Senedd election (“**C**”) may pay any personal expenses incurred by C on account of or in connection with or incidental to the election, but the amount which C may pay must not exceed £900, and any further personal expenses incurred by C must be paid by C’s election agent.
+(2) During the regulated period,[^c-e22bb49e12c9109ea94038ef04e87f2f] an individual candidate at a Senedd election (“**C**”) may pay any personal expenses incurred by C on account of or in connection with or incidental to the election, but the amount which C may pay must not exceed £900, and any further personal expenses incurred by C must be paid by C’s election agent.
 
-(3) C may also pay any election expenses, other than personal expenses falling within paragraph (2)[^key-bdd44607df5ce83d4379969258f437cd], which were incurred by C or on C’s behalf and in respect of which payment falls to be made before the date on which C appoints, or is deemed to have appointed, an election agent.
+(3) C may also pay any election expenses, other than personal expenses falling within paragraph (2)[^c-bdd44607df5ce83d4379969258f437cd], which were incurred by C or on C’s behalf and in respect of which payment falls to be made before the date on which C appoints, or is deemed to have appointed, an election agent.
 
 (4) C must send to the election agent within the time permitted by this Order for sending in claims (see article 51), a written statement of the amount of expenses paid as mentioned in paragraph (2) or (3) by C.
 
@@ -38,10 +38,10 @@ summary: ''
 
 ## Annotations
 
-[^key-01ef9d034db6c4dccb48fbe226de62cb]: Commencement: Art. 45 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-01ef9d034db6c4dccb48fbe226de62cb]: Commencement: Art. 45 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-026c4f69e14900a2a4eaec61926dc827]: Textual amendment: Words in [art. 45(1)](https://www.legislation.gov.uk/wsi/2025/864/article/45/1) inserted (24.3.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/2), [41(1)(a)](https://www.legislation.gov.uk/wsi/2026/91/regulation/41/1/a)
+[^c-026c4f69e14900a2a4eaec61926dc827]: Textual amendment: Words in [art. 45(1)](https://www.legislation.gov.uk/wsi/2025/864/article/45/1) inserted (24.3.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/2), [41(1)(a)](https://www.legislation.gov.uk/wsi/2026/91/regulation/41/1/a)
 
-[^key-e22bb49e12c9109ea94038ef04e87f2f]: Textual amendment: Words in [art. 45(2)](https://www.legislation.gov.uk/wsi/2025/864/article/45/2) inserted (24.3.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/2), [41(1)(b)](https://www.legislation.gov.uk/wsi/2026/91/regulation/41/1/b)
+[^c-e22bb49e12c9109ea94038ef04e87f2f]: Textual amendment: Words in [art. 45(2)](https://www.legislation.gov.uk/wsi/2025/864/article/45/2) inserted (24.3.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/2), [41(1)(b)](https://www.legislation.gov.uk/wsi/2026/91/regulation/41/1/b)
 
-[^key-bdd44607df5ce83d4379969258f437cd]: Textual amendment: Words in [art. 45(3)](https://www.legislation.gov.uk/wsi/2025/864/article/45/3) substituted (24.3.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/2), [41(1)(c)](https://www.legislation.gov.uk/wsi/2026/91/regulation/41/1/c)
+[^c-bdd44607df5ce83d4379969258f437cd]: Textual amendment: Words in [art. 45(3)](https://www.legislation.gov.uk/wsi/2025/864/article/45/3) substituted (24.3.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/2), [41(1)(c)](https://www.legislation.gov.uk/wsi/2026/91/regulation/41/1/c)

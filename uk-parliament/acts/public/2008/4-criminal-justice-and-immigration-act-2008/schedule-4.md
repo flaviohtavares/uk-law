@@ -26,9 +26,9 @@ Section 6
 
 #### Children and Young Persons Act 1933 (c. 12)
 
-**1.**[^key-3aa2e2fdff4ca25fdd93855408bbebef] The Children and Young Persons Act 1933 has effect subject to the following amendments.
+**1.**[^c-3aa2e2fdff4ca25fdd93855408bbebef] The Children and Young Persons Act 1933 has effect subject to the following amendments.
 
-**2.**[^key-f3c24f455996d0fdc895ae571c2d01dd] (1) Section 34 (attendance at court of parent of child or young person charged with an offence, etc.) is amended as follows.
+**2.**[^c-f3c24f455996d0fdc895ae571c2d01dd] (1) Section 34 (attendance at court of parent of child or young person charged with an offence, etc.) is amended as follows.
 
 (2) In subsection (7), omit “section 163 of the Powers of Criminal Courts (Sentencing) Act 2000 or”.
 
@@ -36,22 +36,22 @@ Section 6
 
 > (7B) If it appears that at the time of his arrest a youth rehabilitation order, as defined in Part 1 of the Criminal Justice and Immigration Act 2008, is in force in respect of him, the responsible officer, as defined in section 4 of that Act, shall also be informed as described in subsection (3) above as soon as it is reasonably practicable to do so.
 
-**3.** (1)[^key-8b105e0729c832a2c92ceb7327db89bc] Section 49 (restrictions on reports of proceedings in which children or young persons are concerned) is amended as follows.
+**3.** (1)[^c-8b105e0729c832a2c92ceb7327db89bc] Section 49 (restrictions on reports of proceedings in which children or young persons are concerned) is amended as follows.
 
-(2)[^key-8b105e0729c832a2c92ceb7327db89bc] In subsection (2), for paragraphs (c) and (d) substitute—
+(2)[^c-8b105e0729c832a2c92ceb7327db89bc] In subsection (2), for paragraphs (c) and (d) substitute—
 
 > - (c) proceedings in a magistrates' court under Schedule 2 to the Criminal Justice and Immigration Act 2008 (proceedings for breach, revocation or amendment of youth rehabilitation orders);
 > - (d) proceedings on appeal from a magistrates' court arising out of any proceedings mentioned in paragraph (c) (including proceedings by way of case stated).
 
 (3) In subsection (4A), omit paragraph (d) (but not the word “or” immediately following it).
 
-(4)[^key-8b105e0729c832a2c92ceb7327db89bc] In subsection (10), for the words from “Schedule 7” to “supervision orders)” substitute the words “ Schedule 2 to the Criminal Justice and Immigration Act 2008 (proceedings for breach, revocation or amendment of youth rehabilitation orders) ”.
+(4)[^c-8b105e0729c832a2c92ceb7327db89bc] In subsection (10), for the words from “Schedule 7” to “supervision orders)” substitute the words “ Schedule 2 to the Criminal Justice and Immigration Act 2008 (proceedings for breach, revocation or amendment of youth rehabilitation orders) ”.
 
 (5) In subsection (13), omit paragraph (c)(i).
 
 #### Criminal Appeal Act 1968 (c. 19)
 
-**4.**[^key-3504fac1d0c598dc353ba0e072ee399e] In section 10(2) of the Criminal Appeal Act 1968 (appeal against sentence in other cases dealt with at assizes or quarter sessions), for paragraph (b) substitute—
+**4.**[^c-3504fac1d0c598dc353ba0e072ee399e] In section 10(2) of the Criminal Appeal Act 1968 (appeal against sentence in other cases dealt with at assizes or quarter sessions), for paragraph (b) substitute—
 
 > - (b) having been given a suspended sentence or made the subject of—
 >   - (i) an order for conditional discharge,
@@ -62,17 +62,17 @@ Section 6
 
 #### Firearms Act 1968 (c. 27)
 
-**5.**[^key-7a3b2eb56aaa764445153263677646d0] The Firearms Act 1968 has effect subject to the following amendments.
+**5.**[^c-7a3b2eb56aaa764445153263677646d0] The Firearms Act 1968 has effect subject to the following amendments.
 
-**6.**[^key-e70ef1d182bf20dccdb69da3d3e9d164] In section 21(3ZA)(a) (possession of firearms by persons previously convicted of crime), after “2003”, insert “ , or a youth rehabilitation order within the meaning of Part 1 of the Criminal Justice and Immigration Act 2008, ”.
+**6.**[^c-e70ef1d182bf20dccdb69da3d3e9d164] In section 21(3ZA)(a) (possession of firearms by persons previously convicted of crime), after “2003”, insert “ , or a youth rehabilitation order within the meaning of Part 1 of the Criminal Justice and Immigration Act 2008, ”.
 
-**7.**[^key-d42943af11c9da03ce7a926f6d8b2807] In section 52(1A)(a) (forfeiture and disposal of firearms; cancellation of certificate by convicting court), after “2003”, insert “ , or a youth rehabilitation order within the meaning of Part 1 of the Criminal Justice and Immigration Act 2008, ”.
+**7.**[^c-d42943af11c9da03ce7a926f6d8b2807] In section 52(1A)(a) (forfeiture and disposal of firearms; cancellation of certificate by convicting court), after “2003”, insert “ , or a youth rehabilitation order within the meaning of Part 1 of the Criminal Justice and Immigration Act 2008, ”.
 
 #### Health Services and Public Health Act 1968 (c. 46)
 
-**8.**[^key-db5623a1fe8bbce7222deaf01d005793] The Health Services and Public Health Act 1968 has effect subject to the following amendments.
+**8.**[^c-db5623a1fe8bbce7222deaf01d005793] The Health Services and Public Health Act 1968 has effect subject to the following amendments.
 
-**9.**[^key-2a1a41a85b71922474122b43c2b30109] In section 64(3)(a) (financial assistance by the Secretary of State to certain voluntary organisations)—
+**9.**[^c-2a1a41a85b71922474122b43c2b30109] In section 64(3)(a) (financial assistance by the Secretary of State to certain voluntary organisations)—
 
 - (a) in paragraph (xxi) of the definition of “the relevant enactments”, for “sections 63 to 66 and 92 of, and Schedules 6 and 7 to,” substitute “ section 92 of ”, and
 - (b) after that paragraph, insert—
@@ -81,7 +81,7 @@ Section 6
 
   .
 
-**10.**[^key-ab860d3f5d5dd84f5c93b0558edc7b75] In section 65(3)(b) (financial and other assistance by local authorities to certain voluntary organisations), for paragraph (xxii) of the definition of “relevant enactments” substitute—
+**10.**[^c-ab860d3f5d5dd84f5c93b0558edc7b75] In section 65(3)(b) (financial and other assistance by local authorities to certain voluntary organisations), for paragraph (xxii) of the definition of “relevant enactments” substitute—
 
 > - (xxii) Part 1 of the Criminal Justice and Immigration Act 2008;
 
@@ -89,11 +89,11 @@ Section 6
 
 #### Social Work (Scotland) Act 1968 (c. 49)
 
-**11.**[^key-dfe8afe8e3da87589e727175139748c0] The Social Work (Scotland) Act 1968 has effect subject to the following amendments.
+**11.**[^c-dfe8afe8e3da87589e727175139748c0] The Social Work (Scotland) Act 1968 has effect subject to the following amendments.
 
-**12.**[^key-3216d444abd3b215713a4081cbffa597] In section 86(3) (adjustments between authority providing accommodation etc, and authority of area of residence) after “supervision order” insert “ , youth rehabilitation order ”.
+**12.**[^c-3216d444abd3b215713a4081cbffa597] In section 86(3) (adjustments between authority providing accommodation etc, and authority of area of residence) after “supervision order” insert “ , youth rehabilitation order ”.
 
-**13.**[^key-3f5f543e1b75cf61334e38db6e7aa92a] In section 94(1) (interpretation)—
+**13.**[^c-3f5f543e1b75cf61334e38db6e7aa92a] In section 94(1) (interpretation)—
 
 - (a) for the definition of “probation order” substitute—
 
@@ -107,17 +107,17 @@ Section 6
 
 #### Children and Young Persons Act 1969 (c. 54)
 
-**14.**[^key-a2f98b22827dc883cf020f1f78fc527b] The Children and Young Persons Act 1969 has effect subject to the following amendments.
+**14.**[^c-a2f98b22827dc883cf020f1f78fc527b] The Children and Young Persons Act 1969 has effect subject to the following amendments.
 
-**15.**[^key-dec91af775540e81e3e1287d75b0b852] Omit section 25 (transfers between England or Wales and Northern Ireland).
+**15.**[^c-dec91af775540e81e3e1287d75b0b852] Omit section 25 (transfers between England or Wales and Northern Ireland).
 
-**16.**[^key-440391e6b058765c3674a0dc506acb8a] (1) Section 26 (transfers between England or Wales and the Channel Islands or Isle of Man) is amended as follows.
+**16.**[^c-440391e6b058765c3674a0dc506acb8a] (1) Section 26 (transfers between England or Wales and the Channel Islands or Isle of Man) is amended as follows.
 
 (2) In subsection (1)(c), for the words from “supervision order” to “2000” substitute “ youth rehabilitation order imposing a local authority residence requirement ”.
 
 (3) In subsection (2), for the words from “supervision order” to “2000” substitute “ youth rehabilitation order imposing a local authority residence requirement ”.
 
-**17.**[^key-66593bd7202d95cb838c31b275beca80] (1) Section 32 (detention of absentees) is amended as follows.
+**17.**[^c-66593bd7202d95cb838c31b275beca80] (1) Section 32 (detention of absentees) is amended as follows.
 
 (2) In subsection (1A)—
 
@@ -169,7 +169,7 @@ Section 6
 
 (9) In subsection (4), after “(1A)” insert “ , (1D) ”.
 
-**18.**[^key-290fda4bbde826112087631cee291223] In section 70(1) (interpretation)—
+**18.**[^c-290fda4bbde826112087631cee291223] In section 70(1) (interpretation)—
 
 - (a) omit the definition of “supervision order”,
 - (b) after the definition of “local authority accommodation” insert—
@@ -183,15 +183,15 @@ Section 6
 
   .
 
-**19.**[^key-4bc8660820c3d2f44056aa5401a3eea7] In section 73(4)(a) (provisions of section 32 extending to Scotland) for “to (1C)” substitute “ to (1E) ”.
+**19.**[^c-4bc8660820c3d2f44056aa5401a3eea7] In section 73(4)(a) (provisions of section 32 extending to Scotland) for “to (1C)” substitute “ to (1E) ”.
 
 #### Rehabilitation of Offenders Act 1974 (c. 53)
 
-**20.**[^key-1c3443e8c6d159bf0e3ac20069a290bf] The Rehabilitation of Offenders Act 1974 has effect subject to the following amendments.
+**20.**[^c-1c3443e8c6d159bf0e3ac20069a290bf] The Rehabilitation of Offenders Act 1974 has effect subject to the following amendments.
 
-**21.**[^key-bebd6c824db831d06e675d5d70ee75c8][^key-4fdef61fa57000249bdc9aba18e169d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-bebd6c824db831d06e675d5d70ee75c8][^c-4fdef61fa57000249bdc9aba18e169d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-6d696e53051500fcb908890e9c09e1b4] In section 7(2) (limitations on rehabilitation under Act, etc.) for paragraph (d) substitute—
+**22.**[^c-6d696e53051500fcb908890e9c09e1b4] In section 7(2) (limitations on rehabilitation under Act, etc.) for paragraph (d) substitute—
 
 > - (d) in any proceedings relating to the variation or discharge of a youth rehabilitation order under Part 1 of the Criminal Justice and Immigration Act 2008, or on appeal from any such proceedings;
 
@@ -199,7 +199,7 @@ Section 6
 
 #### Bail Act 1976 (c. 63)
 
-**23.**[^key-89cbdfbf2a45ee89cc92ad5b5d4c8678] In section 4(3) of the Bail Act 1976 (general right to bail of accused persons and others)—
+**23.**[^c-89cbdfbf2a45ee89cc92ad5b5d4c8678] In section 4(3) of the Bail Act 1976 (general right to bail of accused persons and others)—
 
 - (a) omit the words “to be dealt with”, and
 - (b) for paragraph (a), substitute—
@@ -210,7 +210,7 @@ Section 6
 
 #### Magistrates' Courts Act 1980 (c. 43)
 
-**24.**[^key-b050439d48c6bbcf87911d9481355628] In Schedule 6A to the Magistrates' Courts Act 1980 (fines that may be altered under section 143), omit the entries relating to Schedules 3, 5 and 7 to the Powers of Criminal Courts (Sentencing) Act 2000 (c. 6).
+**24.**[^c-b050439d48c6bbcf87911d9481355628] In Schedule 6A to the Magistrates' Courts Act 1980 (fines that may be altered under section 143), omit the entries relating to Schedules 3, 5 and 7 to the Powers of Criminal Courts (Sentencing) Act 2000 (c. 6).
 
 #### Contempt of Court Act 1981 (c. 49)
 
@@ -220,9 +220,9 @@ Section 6
 
 #### Criminal Justice Act 1982
 
-**26.**[^key-dfe180a70f6bc2e9745444870c3ca631] Part 3 of Schedule 13 to the Criminal Justice Act 1982 (reciprocal arrangements for transfer of community service orders from Northern Ireland) has effect subject to the following amendments.
+**26.**[^c-dfe180a70f6bc2e9745444870c3ca631] Part 3 of Schedule 13 to the Criminal Justice Act 1982 (reciprocal arrangements for transfer of community service orders from Northern Ireland) has effect subject to the following amendments.
 
-**27.**[^key-20f70a1d65c7df169211409aa47262e5] (1) Paragraph 7 (transfer to England and Wales) is amended as follows.
+**27.**[^c-20f70a1d65c7df169211409aa47262e5] (1) Paragraph 7 (transfer to England and Wales) is amended as follows.
 
 (2) In sub-paragraph (1), in Article 13(4)(b) inserted by that provision, for “such orders” substitute “ an unpaid work requirement of a community order under section 177 of the Criminal Justice Act 2003 or youth rehabilitation order under section 1 of the Criminal Justice and Immigration Act 2008 ”.
 
@@ -255,7 +255,7 @@ Section 6
 > - (b) where the appointment is made by a provider of probation services, an officer of that provider;
 > - (c) where the appointment is made by a youth offending team, a member of that team.
 
-**28.**[^key-05cb5e3a17f4ceca8035efc88a24a9bc] (1) Paragraph 9 (general provision) is amended as follows.
+**28.**[^c-05cb5e3a17f4ceca8035efc88a24a9bc] (1) Paragraph 9 (general provision) is amended as follows.
 
 (2) In sub-paragraph (3)—
 
@@ -285,7 +285,7 @@ Section 6
 - (b) omit “(within the meaning of Part 12 of the Criminal Justice Act 2003)”, and
 - (c) in paragraph (b)(i), after “2003” insert “ or, as the case may be, Part 1 of the Criminal Justice and Immigration Act 2008 ”.
 
-**29.**[^key-110fc12afe8233c503ea4a6f6d032ff9] After that paragraph insert—
+**29.**[^c-110fc12afe8233c503ea4a6f6d032ff9] After that paragraph insert—
 
 > **Community service orders relating to persons residing in England and Wales: interpretation**
 >
@@ -298,21 +298,21 @@ Section 6
 
 #### Mental Health Act 1983 (c. 20)
 
-**30.**[^key-12fe6f2e789f001452bd70b108203ad2] In section 37(8) of the Mental Health Act 1983 (powers of courts to order hospital admission or guardianship)—
+**30.**[^c-12fe6f2e789f001452bd70b108203ad2] In section 37(8) of the Mental Health Act 1983 (powers of courts to order hospital admission or guardianship)—
 
 - (a) in paragraph (a), after “Criminal Justice Act 2003)” insert “ or a youth rehabilitation order (within the meaning of Part 1 of the Criminal Justice and Immigration Act 2008) ”, and
 - (b) in paragraph (c), omit the words “a supervision order (within the meaning of that Act) or”.
 
 #### Child Abduction Act 1984 (c. 37)
 
-**31.**[^key-771acf7e4d01fc9fd1179a069aacec33] In paragraph 2(1) of the Schedule to the Child Abduction Act 1984 (modifications of section 1 for children in certain cases)—
+**31.**[^c-771acf7e4d01fc9fd1179a069aacec33] In paragraph 2(1) of the Schedule to the Child Abduction Act 1984 (modifications of section 1 for children in certain cases)—
 
 - (a) in paragraph (a), for “paragraph 7(4) of Schedule 7 to the Powers of Criminal Courts (Sentencing) Act 2000” substitute “ paragraph 21(2) of Schedule 2 to the Criminal Justice and Immigration Act 2008 ”, and
 - (b) in paragraph (b), after “1969” insert “ or paragraph 21 of Schedule 2 to the Criminal Justice and Immigration Act 2008 ”.
 
 #### Prosecution of Offences Act 1985 (c. 23)
 
-**32.**[^key-feaefcf4c4d1f572806cce0d1b6c6649] (1) Section 19 of the Prosecution of Offences Act 1985 (provision for orders as to costs in other circumstances) is amended as follows.
+**32.**[^c-feaefcf4c4d1f572806cce0d1b6c6649] (1) Section 19 of the Prosecution of Offences Act 1985 (provision for orders as to costs in other circumstances) is amended as follows.
 
 (2) In subsection (3B)(b)(i), for the words from “in a community order” to “that Act” substitute “ a mental health treatment requirement in a community order or youth rehabilitation order ”.
 
@@ -328,9 +328,9 @@ Section 6
 
 #### Children Act 1989 (c. 41)
 
-**33.**[^key-18d13b527c614aad07e0252c83a79ebb] The Children Act 1989 has effect subject to the following amendments.
+**33.**[^c-18d13b527c614aad07e0252c83a79ebb] The Children Act 1989 has effect subject to the following amendments.
 
-**34.**[^key-3cf5267296158e0e22c7cfc2a2bff8ed] (1) Section 21 (provision of accommodation for children in police protection or detention or on remand, etc.) is amended as follows.
+**34.**[^c-3cf5267296158e0e22c7cfc2a2bff8ed] (1) Section 21 (provision of accommodation for children in police protection or detention or on remand, etc.) is amended as follows.
 
 (2) In subsection (2)(c)—
 
@@ -350,13 +350,13 @@ Section 6
 > - “youth rehabilitation order”;
 > - “youth rehabilitation order with fostering”.
 
-**35.**[^key-39a7f7f8628cea15e93bd2372c572348] In section 31(7)(b) (care and supervision orders), for sub-paragraph (ii) substitute—
+**35.**[^c-39a7f7f8628cea15e93bd2372c572348] In section 31(7)(b) (care and supervision orders), for sub-paragraph (ii) substitute—
 
 > - (ii) a youth rehabilitation order within the meaning of Part 1 of the Criminal Justice and Immigration Act 2008; or
 
 .
 
-**36.**[^key-241ce036171be4cf73b2368fcdf34bd3] In section 105(6) (interpretation)—
+**36.**[^c-241ce036171be4cf73b2368fcdf34bd3] In section 105(6) (interpretation)—
 
 - (a) in paragraph (b), omit from the words “or an” to the end of the paragraph, and
 - (b) after that paragraph insert—
@@ -365,7 +365,7 @@ Section 6
 
   .
 
-**37.**[^key-6ee69f1eac879f3b2c360b210189270d] (1) Part 3 of Schedule 3 (education supervision orders) is amended as follows.
+**37.**[^c-6ee69f1eac879f3b2c360b210189270d] (1) Part 3 of Schedule 3 (education supervision orders) is amended as follows.
 
 (2) In paragraph 13(2), for paragraph (c) substitute—
 
@@ -378,7 +378,7 @@ Section 6
 - (a) in sub-paragraph (1), for “order under section 63(1) of the Powers of Criminal Courts (Sentencing) Act 2000” substitute “ youth rehabilitation order (within the meaning of Part 1 of the Criminal Justice and Immigration Act 2008) ”, and
 - (b) in sub-paragraph (2), after “direction” (in the second place it occurs) insert “ or instruction ”.
 
-**38.**[^key-0bf8fcc724505bac7664aafed975019b] In paragraph 3 of Schedule 8 (privately fostered children) for paragraph (a) substitute—
+**38.**[^c-0bf8fcc724505bac7664aafed975019b] In paragraph 3 of Schedule 8 (privately fostered children) for paragraph (a) substitute—
 
 > - (a) a youth rehabilitation order made under section 1 of the Criminal Justice and Immigration Act 2008;
 
@@ -386,9 +386,9 @@ Section 6
 
 #### Criminal Justice Act 1991 (c. 53)
 
-**39.**[^key-3f2a0d2aa86d5ae13018b3fdede2d29d] Part 3 of Schedule 3 to the Criminal Justice Act 1991 (transfer of probation orders from Northern Ireland to England and Wales) has effect subject to the following amendments.
+**39.**[^c-3f2a0d2aa86d5ae13018b3fdede2d29d] Part 3 of Schedule 3 to the Criminal Justice Act 1991 (transfer of probation orders from Northern Ireland to England and Wales) has effect subject to the following amendments.
 
-**40.**[^key-9414cfc997c6d45cb64f248d3bb87b7f] (1) Paragraph 10 is amended as follows.
+**40.**[^c-9414cfc997c6d45cb64f248d3bb87b7f] (1) Paragraph 10 is amended as follows.
 
 (2) In sub-paragraph (2)(b), for the words from “the local probation board” to the end substitute
 
@@ -408,7 +408,7 @@ Section 6
 
 .
 
-**41.**[^key-fc00a94c079291abaa47a20268b11c9c] (1) Paragraph 11 is amended as follows.
+**41.**[^c-fc00a94c079291abaa47a20268b11c9c] (1) Paragraph 11 is amended as follows.
 
 (2) In sub-paragraph (2)—
 
@@ -468,27 +468,27 @@ Section 6
 
 #### Criminal Justice and Public Order Act 1994 (c. 33)
 
-**42.**[^key-1dcec457a36ee302dfbf4595a22ab6b9] In section 136 of the Criminal Justice and Public Order Act 1994 (cross-border enforcement: execution of warrants), in subsection (7A), after “youth offender panel)” insert “ or under Schedule 2 to the Criminal Justice and Immigration Act 2008 (youth rehabilitation orders: breach etc.) ”.
+**42.**[^c-1dcec457a36ee302dfbf4595a22ab6b9] In section 136 of the Criminal Justice and Public Order Act 1994 (cross-border enforcement: execution of warrants), in subsection (7A), after “youth offender panel)” insert “ or under Schedule 2 to the Criminal Justice and Immigration Act 2008 (youth rehabilitation orders: breach etc.) ”.
 
 #### Criminal Procedure (Scotland) Act 1995 (c. 46)
 
-**43.**[^key-74a51210c6d612156785ae05cb8866c6][^key-bc867c7f2d8c3792dd9577accbfa21b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**43.**[^c-74a51210c6d612156785ae05cb8866c6][^c-bc867c7f2d8c3792dd9577accbfa21b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**44.**[^key-74a51210c6d612156785ae05cb8866c6][^key-26e4d4dae98889bbc24316ceee3d5e13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-74a51210c6d612156785ae05cb8866c6][^c-26e4d4dae98889bbc24316ceee3d5e13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**45.**[^key-74a51210c6d612156785ae05cb8866c6][^key-5225b97f39044d167a36dc307b957c13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**45.**[^c-74a51210c6d612156785ae05cb8866c6][^c-5225b97f39044d167a36dc307b957c13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**46.**[^key-74a51210c6d612156785ae05cb8866c6][^key-448cc95a211cc71b2d6ff29c72369176] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**46.**[^c-74a51210c6d612156785ae05cb8866c6][^c-448cc95a211cc71b2d6ff29c72369176] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Education Act 1996 (c. 56)
 
-**47.**[^key-f854bb3bba19ee9d0058c397a38bf077] In section 562(2)(b) of the Education Act 1996 (Act not to apply to persons detained under order of a court), for “community order under section 177 of the Criminal Justice Act 2003” substitute “ youth rehabilitation order under section 1 of the Criminal Justice and Immigration Act 2008 ”.
+**47.**[^c-f854bb3bba19ee9d0058c397a38bf077] In section 562(2)(b) of the Education Act 1996 (Act not to apply to persons detained under order of a court), for “community order under section 177 of the Criminal Justice Act 2003” substitute “ youth rehabilitation order under section 1 of the Criminal Justice and Immigration Act 2008 ”.
 
 #### Crime and Disorder Act 1998 (c. 37)
 
-**48.**[^key-1eba8bfd9ae86fc7e9b1f6fd9df57a83] The Crime and Disorder Act 1998 has effect subject to the following amendments.
+**48.**[^c-1eba8bfd9ae86fc7e9b1f6fd9df57a83] The Crime and Disorder Act 1998 has effect subject to the following amendments.
 
-**49.**[^key-3e3b7e171f511df8ffd86a1580a869e4] In section 38(4) (local provision of youth justice services)—
+**49.**[^c-3e3b7e171f511df8ffd86a1580a869e4] In section 38(4) (local provision of youth justice services)—
 
 - (a) in paragraph (f), for “, reparation orders and action plan orders” substitute “ and reparation orders ”,
 - (b) after paragraph (f) insert—
@@ -500,132 +500,132 @@ Section 6
 - (c) omit paragraph (g), and
 - (d) in paragraph (h), omit “or a supervision order”.
 
-**50.**[^key-6f6538c3a12b00acb93f9d2af80fc7ab] In Schedule 8 (minor and consequential amendments), in paragraph 13(2), for “that section” substitute “ section 10 of that Act ”.
+**50.**[^c-6f6538c3a12b00acb93f9d2af80fc7ab] In Schedule 8 (minor and consequential amendments), in paragraph 13(2), for “that section” substitute “ section 10 of that Act ”.
 
 #### Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
 
-**51.**[^key-bc14fb113bc0cdc3072c7042cb7dd7cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**51.**[^c-bc14fb113bc0cdc3072c7042cb7dd7cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**52.**[^key-bc14fb113bc0cdc3072c7042cb7dd7cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**52.**[^c-bc14fb113bc0cdc3072c7042cb7dd7cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**53.**[^key-bc14fb113bc0cdc3072c7042cb7dd7cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**53.**[^c-bc14fb113bc0cdc3072c7042cb7dd7cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**54.**[^key-bc14fb113bc0cdc3072c7042cb7dd7cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**54.**[^c-bc14fb113bc0cdc3072c7042cb7dd7cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**55.**[^key-bc14fb113bc0cdc3072c7042cb7dd7cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**55.**[^c-bc14fb113bc0cdc3072c7042cb7dd7cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**56.**[^key-bc14fb113bc0cdc3072c7042cb7dd7cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**56.**[^c-bc14fb113bc0cdc3072c7042cb7dd7cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**57.**[^key-bc14fb113bc0cdc3072c7042cb7dd7cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**57.**[^c-bc14fb113bc0cdc3072c7042cb7dd7cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**58.**[^key-bc14fb113bc0cdc3072c7042cb7dd7cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**58.**[^c-bc14fb113bc0cdc3072c7042cb7dd7cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **59.** In section 159 (execution of process between England and Wales and Scotland)—
 
-- (a)[^key-8b85c8de02b4fbbb6db70c40ed16f7e6] after “Schedule 1 to this Act,” insert “ or ”,
-- (b)[^key-8b85c8de02b4fbbb6db70c40ed16f7e6] omit “paragraph 3(1), 10(6) or 18(1) of Schedule 3 to this Act,”,
+- (a)[^c-8b85c8de02b4fbbb6db70c40ed16f7e6] after “Schedule 1 to this Act,” insert “ or ”,
+- (b)[^c-8b85c8de02b4fbbb6db70c40ed16f7e6] omit “paragraph 3(1), 10(6) or 18(1) of Schedule 3 to this Act,”,
 - (c) omit “paragraph 1(1) of Schedule 5 to this Act”, and
-- (d)[^key-8b85c8de02b4fbbb6db70c40ed16f7e6] omit “paragraph 7(2) of Schedule 7 to this Act, or”.
+- (d)[^c-8b85c8de02b4fbbb6db70c40ed16f7e6] omit “paragraph 7(2) of Schedule 7 to this Act, or”.
 
-**60.**[^key-62b4368384fcfded446cdbe86f4bcceb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**60.**[^c-62b4368384fcfded446cdbe86f4bcceb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **61.** In section 163 (general definitions)—
 
-- (a)[^key-4b25f09ee649208dcaed85f328caf03a] omit the definitions of “action plan order”, “affected person”, “attendance centre”, “attendance centre order”, “community sentence”, “curfew order”, “exclusion order”, “supervision order”, “supervisor” and “youth community order”,
-- (b)[^key-c326bf337594308738fd4ab8b06de530] in the definition of “responsible officer”, omit paragraphs (a), (aa) and (f), and
-- (c)[^key-c326bf337594308738fd4ab8b06de530] at the end add—
+- (a)[^c-4b25f09ee649208dcaed85f328caf03a] omit the definitions of “action plan order”, “affected person”, “attendance centre”, “attendance centre order”, “community sentence”, “curfew order”, “exclusion order”, “supervision order”, “supervisor” and “youth community order”,
+- (b)[^c-c326bf337594308738fd4ab8b06de530] in the definition of “responsible officer”, omit paragraphs (a), (aa) and (f), and
+- (c)[^c-c326bf337594308738fd4ab8b06de530] at the end add—
 
   > “**youth rehabilitation order**” has the meaning given by section 1(1) of the Criminal Justice and Immigration Act 2008.
 
-**62.**[^key-0800b3e6929ac386ed7f14a623546230] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**62.**[^c-0800b3e6929ac386ed7f14a623546230] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**63.**[^key-0800b3e6929ac386ed7f14a623546230] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**63.**[^c-0800b3e6929ac386ed7f14a623546230] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**64.**[^key-0800b3e6929ac386ed7f14a623546230] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**64.**[^c-0800b3e6929ac386ed7f14a623546230] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Child Support, Pensions and Social Security Act 2000 (c. 19)
 
-**65.**[^key-4c07f94455f6b629e07addc116de7b85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**65.**[^c-4c07f94455f6b629e07addc116de7b85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**66.**[^key-4c07f94455f6b629e07addc116de7b85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**66.**[^c-4c07f94455f6b629e07addc116de7b85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**67.**[^key-4c07f94455f6b629e07addc116de7b85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**67.**[^c-4c07f94455f6b629e07addc116de7b85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Criminal Justice and Court Services Act 2000 (c. 43)
 
-**68.**[^key-dc7bd658f44c8735ffbb272bcbb44055] The Criminal Justice and Court Services Act 2000 has effect subject to the following amendments.
+**68.**[^c-dc7bd658f44c8735ffbb272bcbb44055] The Criminal Justice and Court Services Act 2000 has effect subject to the following amendments.
 
-**69.**[^key-df3ec64a233d406ed45d5508b03930ff] In section 1(2)(a) (purposes of Chapter), after “2003)” insert “ , youth rehabilitation orders (as defined by section 1 of the Criminal Justice and Immigration Act 2008) ”.
+**69.**[^c-df3ec64a233d406ed45d5508b03930ff] In section 1(2)(a) (purposes of Chapter), after “2003)” insert “ , youth rehabilitation orders (as defined by section 1 of the Criminal Justice and Immigration Act 2008) ”.
 
-**70.**[^key-f567c4fe4c9662078b2ecd6ab62e18a6] In section 70 (interpretation, etc.) omit subsection (5).
+**70.**[^c-f567c4fe4c9662078b2ecd6ab62e18a6] In section 70 (interpretation, etc.) omit subsection (5).
 
 #### Criminal Justice Act 2003 (c. 44)
 
-**71.**[^key-dd3b70d9f93bce3ddaa8d361781984a6] Part 12 of the Criminal Justice Act 2003 (sentencing) has effect subject to the following amendments.
+**71.**[^c-dd3b70d9f93bce3ddaa8d361781984a6] Part 12 of the Criminal Justice Act 2003 (sentencing) has effect subject to the following amendments.
 
-**72.**[^key-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**72.**[^c-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**73.**[^key-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**73.**[^c-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**74.**[^key-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**74.**[^c-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**75.**[^key-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**75.**[^c-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**76.**[^key-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**76.**[^c-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**77.**[^key-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**77.**[^c-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**78.**[^key-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**78.**[^c-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**79.**[^key-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**79.**[^c-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**80.**[^key-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**80.**[^c-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**81.**[^key-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**81.**[^c-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**82.**[^key-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**82.**[^c-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**83.**[^key-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**83.**[^c-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**84.**[^key-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**84.**[^c-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**85.**[^key-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**85.**[^c-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**86.**[^key-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**86.**[^c-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**87.**[^key-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**87.**[^c-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**88.**[^key-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**88.**[^c-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**89.**[^key-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**89.**[^c-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**90.**[^key-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**90.**[^c-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**91.**[^key-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**91.**[^c-8d95d8480ee1f7ff1cccbc3470d66201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **92.** In section 221(2) (provision of attendance centres)—
 
 - (a) omit “or” at the end of paragraph (a),
-- (b)[^key-1e53cf1c58ef470d30dcd9d74422b976] after that paragraph insert—
+- (b)[^c-1e53cf1c58ef470d30dcd9d74422b976] after that paragraph insert—
 
   > - (aa) attendance centre requirements of youth rehabilitation orders, within the meaning of Part 1 of the Criminal Justice and Immigration Act 2008,
 
   , and
 - (c) omit paragraph (b).
 
-**93.**[^key-3a26aa061da9a0af1ee53462abce0d40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**93.**[^c-3a26aa061da9a0af1ee53462abce0d40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**94.**[^key-dc50cff88e7f1db33183cfb1d26bb056] Omit section 279 (drug treatment and testing requirement in action plan order or supervision order).
+**94.**[^c-dc50cff88e7f1db33183cfb1d26bb056] Omit section 279 (drug treatment and testing requirement in action plan order or supervision order).
 
-**95.**[^key-45b3ffacd05374e7600e3837ce7fb2b9] In section 330(5)(a) (orders subject to the affirmative resolution procedure), omit the entry relating to section 161(7).
+**95.**[^c-45b3ffacd05374e7600e3837ce7fb2b9] In section 330(5)(a) (orders subject to the affirmative resolution procedure), omit the entry relating to section 161(7).
 
-**96.**[^key-6a70828c69d32e65fb6e569025f49ecf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**96.**[^c-6a70828c69d32e65fb6e569025f49ecf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**97.**[^key-3fbe24ac5ce13d93a1a1cf5a127fc5af] Omit Schedule 24 (drug treatment and testing requirement in action plan order or supervision order).
+**97.**[^c-3fbe24ac5ce13d93a1a1cf5a127fc5af] Omit Schedule 24 (drug treatment and testing requirement in action plan order or supervision order).
 
 #### Violent Crime Reduction Act 2006 (c. 38)
 
-**98.**[^key-47f2350145d779ec7072d423d3095037] In section 47 of the Violent Crime Reduction Act 2006 (power to search persons in attendance centres for weapons), in the definition of “relevant person” in subsection (11), for paragraph (b) substitute—
+**98.**[^c-47f2350145d779ec7072d423d3095037] In section 47 of the Violent Crime Reduction Act 2006 (power to search persons in attendance centres for weapons), in the definition of “relevant person” in subsection (11), for paragraph (b) substitute—
 
 > - (b) a youth rehabilitation order under Part 1 of the Criminal Justice and Immigration Act 2008;
 
@@ -633,7 +633,7 @@ Section 6
 
 #### Offender Management Act 2007 (c. 21)
 
-**99.**[^key-48f1d926a667b9c947bd13b5d15e9b06] In section 1(4) of the Offender Management Act 2007 (meaning of “the probation purposes”), in the definition of “community order”—
+**99.**[^c-48f1d926a667b9c947bd13b5d15e9b06] In section 1(4) of the Offender Management Act 2007 (meaning of “the probation purposes”), in the definition of “community order”—
 
 - (a) after paragraph (a) insert—
 
@@ -650,11 +650,11 @@ Section 6
 
 #### Children and Young Persons Act 1933 (c. 12)
 
-**100.**[^key-15c1015e1507744bb21bdadda925e918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**100.**[^c-15c1015e1507744bb21bdadda925e918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Children and Young Persons Act 1969 (c. 54)
 
-**101.**[^key-ed3cbd628c10af2ecf9db7b83c004c14] (1) Section 32 of the Children and Young Persons Act 1969 (detention of absentees) is amended as follows.
+**101.**[^c-ed3cbd628c10af2ecf9db7b83c004c14] (1) Section 32 of the Children and Young Persons Act 1969 (detention of absentees) is amended as follows.
 
 (2) In subsection (1A)—
 
@@ -668,7 +668,7 @@ Section 6
 
 #### Bail Act 1976 (c. 63)
 
-**102.**[^key-de68a5f8813728e2be0e33d64b699e5e] In section 4(3) of the Bail Act 1976 (general right to bail of accused persons and others), before paragraph (a) (as substituted by paragraph 23(b) of this Schedule) insert—
+**102.**[^c-de68a5f8813728e2be0e33d64b699e5e] In section 4(3) of the Bail Act 1976 (general right to bail of accused persons and others), before paragraph (a) (as substituted by paragraph 23(b) of this Schedule) insert—
 
 > - (za) Schedule 1 to the Powers of Criminal Courts (Sentencing) Act 2000 (referral orders: referral back to appropriate court),
 > - (zb) Schedule 8 to that Act (breach of reparation order),
@@ -677,18 +677,18 @@ Section 6
 
 #### Magistrates' Courts Act 1980 (c. 43)
 
-**103.**[^key-67dd640d6803b0c5b9c261b2fee5b6f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**103.**[^c-67dd640d6803b0c5b9c261b2fee5b6f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Child Abduction Act 1984 (c. 37)
 
-**104.**[^key-4614ac6c571bb02c6e6544671782cc60] In paragraph 2(1) of the Schedule to the Child Abduction Act 1984 (modifications of section 1 for children in certain cases)—
+**104.**[^c-4614ac6c571bb02c6e6544671782cc60] In paragraph 2(1) of the Schedule to the Child Abduction Act 1984 (modifications of section 1 for children in certain cases)—
 
 - (a) in paragraph (a), after “under” insert “ paragraph 4(1)(a) of Schedule 1 or paragraph 6(4)(a) of Schedule 8 to the Powers of Criminal Courts (Sentencing) Act 2000 or ”, and
 - (b) in paragraph (b), before “or” (as inserted by paragraph 31(b) of this Schedule) insert “ , paragraph 4 of Schedule 1 or paragraph 6 of Schedule 8 to the Powers of Criminal Courts (Sentencing) Act 2000 ”.
 
 #### Children Act 1989 (c. 41)
 
-**105.**[^key-4f8216fa3556991ac17fc711e68bd566] In section 21(2)(c) of the Children Act 1989 (provision of accommodation for children in police protection or detention or on remand, etc.), after sub-paragraph (i) insert—
+**105.**[^c-4f8216fa3556991ac17fc711e68bd566] In section 21(2)(c) of the Children Act 1989 (provision of accommodation for children in police protection or detention or on remand, etc.), after sub-paragraph (i) insert—
 
 > - (ia) remanded to accommodation provided by or on behalf of a local authority by virtue of paragraph 4 of Schedule 1 or paragraph 6 of Schedule 8 to the Powers of Criminal Courts (Sentencing) Act 2000 (breach etc. of referral orders and reparation orders);
 
@@ -696,170 +696,170 @@ Section 6
 
 #### Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
 
-**106.**[^key-28872a0736b0ccc3590956791577a21f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**106.**[^c-28872a0736b0ccc3590956791577a21f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**107.**[^key-28872a0736b0ccc3590956791577a21f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**107.**[^c-28872a0736b0ccc3590956791577a21f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**108.**[^key-28872a0736b0ccc3590956791577a21f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**108.**[^c-28872a0736b0ccc3590956791577a21f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Criminal Justice Act 2003 (c. 44)
 
-**109.**[^key-28872a0736b0ccc3590956791577a21f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**109.**[^c-28872a0736b0ccc3590956791577a21f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3aa2e2fdff4ca25fdd93855408bbebef]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/1) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(i)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/i)
+[^c-3aa2e2fdff4ca25fdd93855408bbebef]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/1) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(i)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/i)
 
-[^key-f3c24f455996d0fdc895ae571c2d01dd]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/2) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(i)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/i)
+[^c-f3c24f455996d0fdc895ae571c2d01dd]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/2) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(i)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/i)
 
-[^key-8b105e0729c832a2c92ceb7327db89bc]: Commencement: [Sch. 4 para. 3(1)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/3/1) [(2)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/3/2) [(4)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/3/4) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(ii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/ii)
+[^c-8b105e0729c832a2c92ceb7327db89bc]: Commencement: [Sch. 4 para. 3(1)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/3/1) [(2)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/3/2) [(4)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/3/4) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(ii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/ii)
 
-[^key-3504fac1d0c598dc353ba0e072ee399e]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/4) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
+[^c-3504fac1d0c598dc353ba0e072ee399e]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/4) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
 
-[^key-7a3b2eb56aaa764445153263677646d0]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/5) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
+[^c-7a3b2eb56aaa764445153263677646d0]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/5) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
 
-[^key-e70ef1d182bf20dccdb69da3d3e9d164]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/6) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
+[^c-e70ef1d182bf20dccdb69da3d3e9d164]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/6) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
 
-[^key-d42943af11c9da03ce7a926f6d8b2807]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/7) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
+[^c-d42943af11c9da03ce7a926f6d8b2807]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/7) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
 
-[^key-db5623a1fe8bbce7222deaf01d005793]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/8) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
+[^c-db5623a1fe8bbce7222deaf01d005793]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/8) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
 
-[^key-2a1a41a85b71922474122b43c2b30109]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/9) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
+[^c-2a1a41a85b71922474122b43c2b30109]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/9) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
 
-[^key-ab860d3f5d5dd84f5c93b0558edc7b75]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/10) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
+[^c-ab860d3f5d5dd84f5c93b0558edc7b75]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/10) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
 
-[^key-dfe8afe8e3da87589e727175139748c0]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/11) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
+[^c-dfe8afe8e3da87589e727175139748c0]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/11) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
 
-[^key-3216d444abd3b215713a4081cbffa597]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/12) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
+[^c-3216d444abd3b215713a4081cbffa597]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/12) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
 
-[^key-3f5f543e1b75cf61334e38db6e7aa92a]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/13) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
+[^c-3f5f543e1b75cf61334e38db6e7aa92a]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/13) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
 
-[^key-a2f98b22827dc883cf020f1f78fc527b]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/14) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
+[^c-a2f98b22827dc883cf020f1f78fc527b]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/14) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
 
-[^key-dec91af775540e81e3e1287d75b0b852]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/15) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
+[^c-dec91af775540e81e3e1287d75b0b852]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/15) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
 
-[^key-440391e6b058765c3674a0dc506acb8a]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/16) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
+[^c-440391e6b058765c3674a0dc506acb8a]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/16) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
 
-[^key-66593bd7202d95cb838c31b275beca80]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/17) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
+[^c-66593bd7202d95cb838c31b275beca80]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/17) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
 
-[^key-290fda4bbde826112087631cee291223]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/18) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
+[^c-290fda4bbde826112087631cee291223]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/18) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
 
-[^key-4bc8660820c3d2f44056aa5401a3eea7]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/19) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
+[^c-4bc8660820c3d2f44056aa5401a3eea7]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/19) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
 
-[^key-1c3443e8c6d159bf0e3ac20069a290bf]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/20) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
+[^c-1c3443e8c6d159bf0e3ac20069a290bf]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/20) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
 
-[^key-bebd6c824db831d06e675d5d70ee75c8]: Textual amendment: [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/21) repealed (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-bebd6c824db831d06e675d5d70ee75c8]: Textual amendment: [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/21) repealed (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
-[^key-4fdef61fa57000249bdc9aba18e169d8]: Commencement: Sch. 4 para. 21 in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
+[^c-4fdef61fa57000249bdc9aba18e169d8]: Commencement: Sch. 4 para. 21 in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
 
-[^key-6d696e53051500fcb908890e9c09e1b4]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/22) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
+[^c-6d696e53051500fcb908890e9c09e1b4]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/22) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
 
-[^key-89cbdfbf2a45ee89cc92ad5b5d4c8678]: Commencement: [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/23) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
+[^c-89cbdfbf2a45ee89cc92ad5b5d4c8678]: Commencement: [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/23) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iii)
 
-[^key-b050439d48c6bbcf87911d9481355628]: Commencement: [Sch. 4 para. 24](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/24) in force at 30.11.2009 for specified purposes by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iv)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iv)
+[^c-b050439d48c6bbcf87911d9481355628]: Commencement: [Sch. 4 para. 24](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/24) in force at 30.11.2009 for specified purposes by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(iv)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/iv)
 
-[^key-dfe180a70f6bc2e9745444870c3ca631]: Commencement: [Sch. 4 para. 26](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/26) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
+[^c-dfe180a70f6bc2e9745444870c3ca631]: Commencement: [Sch. 4 para. 26](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/26) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
 
-[^key-20f70a1d65c7df169211409aa47262e5]: Commencement: [Sch. 4 para. 27](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/27) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
+[^c-20f70a1d65c7df169211409aa47262e5]: Commencement: [Sch. 4 para. 27](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/27) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
 
-[^key-05cb5e3a17f4ceca8035efc88a24a9bc]: Commencement: [Sch. 4 para. 28](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/28) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
+[^c-05cb5e3a17f4ceca8035efc88a24a9bc]: Commencement: [Sch. 4 para. 28](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/28) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
 
-[^key-110fc12afe8233c503ea4a6f6d032ff9]: Commencement: [Sch. 4 para. 29](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/29) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
+[^c-110fc12afe8233c503ea4a6f6d032ff9]: Commencement: [Sch. 4 para. 29](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/29) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
 
-[^key-12fe6f2e789f001452bd70b108203ad2]: Commencement: [Sch. 4 para. 30](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/30) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
+[^c-12fe6f2e789f001452bd70b108203ad2]: Commencement: [Sch. 4 para. 30](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/30) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
 
-[^key-771acf7e4d01fc9fd1179a069aacec33]: Commencement: [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/31) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
+[^c-771acf7e4d01fc9fd1179a069aacec33]: Commencement: [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/31) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
 
-[^key-feaefcf4c4d1f572806cce0d1b6c6649]: Commencement: [Sch. 4 para. 32](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/32) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
+[^c-feaefcf4c4d1f572806cce0d1b6c6649]: Commencement: [Sch. 4 para. 32](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/32) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
 
-[^key-18d13b527c614aad07e0252c83a79ebb]: Commencement: [Sch. 4 para. 33](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/33) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
+[^c-18d13b527c614aad07e0252c83a79ebb]: Commencement: [Sch. 4 para. 33](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/33) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
 
-[^key-3cf5267296158e0e22c7cfc2a2bff8ed]: Commencement: [Sch. 4 para. 34](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/34) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
+[^c-3cf5267296158e0e22c7cfc2a2bff8ed]: Commencement: [Sch. 4 para. 34](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/34) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
 
-[^key-39a7f7f8628cea15e93bd2372c572348]: Commencement: [Sch. 4 para. 35](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/35) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
+[^c-39a7f7f8628cea15e93bd2372c572348]: Commencement: [Sch. 4 para. 35](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/35) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
 
-[^key-241ce036171be4cf73b2368fcdf34bd3]: Commencement: [Sch. 4 para. 36](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/36) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
+[^c-241ce036171be4cf73b2368fcdf34bd3]: Commencement: [Sch. 4 para. 36](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/36) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
 
-[^key-6ee69f1eac879f3b2c360b210189270d]: Commencement: [Sch. 4 para. 37](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/37) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
+[^c-6ee69f1eac879f3b2c360b210189270d]: Commencement: [Sch. 4 para. 37](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/37) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
 
-[^key-0bf8fcc724505bac7664aafed975019b]: Commencement: [Sch. 4 para. 38](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/38) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
+[^c-0bf8fcc724505bac7664aafed975019b]: Commencement: [Sch. 4 para. 38](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/38) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
 
-[^key-3f2a0d2aa86d5ae13018b3fdede2d29d]: Commencement: [Sch. 4 para. 39](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/39) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
+[^c-3f2a0d2aa86d5ae13018b3fdede2d29d]: Commencement: [Sch. 4 para. 39](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/39) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
 
-[^key-9414cfc997c6d45cb64f248d3bb87b7f]: Commencement: [Sch. 4 para. 40](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/40) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
+[^c-9414cfc997c6d45cb64f248d3bb87b7f]: Commencement: [Sch. 4 para. 40](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/40) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
 
-[^key-fc00a94c079291abaa47a20268b11c9c]: Commencement: [Sch. 4 para. 41](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/41) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
+[^c-fc00a94c079291abaa47a20268b11c9c]: Commencement: [Sch. 4 para. 41](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/41) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
 
-[^key-1dcec457a36ee302dfbf4595a22ab6b9]: Commencement: [Sch. 4 para. 42](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/42) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
+[^c-1dcec457a36ee302dfbf4595a22ab6b9]: Commencement: [Sch. 4 para. 42](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/42) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
 
-[^key-74a51210c6d612156785ae05cb8866c6]: Textual amendment: Sch. 4 paras. 43-46 repealed (1.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 2 para. 53](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/53); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))
+[^c-74a51210c6d612156785ae05cb8866c6]: Textual amendment: Sch. 4 paras. 43-46 repealed (1.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 2 para. 53](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/53); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))
 
-[^key-bc867c7f2d8c3792dd9577accbfa21b3]: Commencement: Sch. 4 para. 43 in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
+[^c-bc867c7f2d8c3792dd9577accbfa21b3]: Commencement: Sch. 4 para. 43 in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
 
-[^key-26e4d4dae98889bbc24316ceee3d5e13]: Commencement: Sch. 4 para. 44 in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
+[^c-26e4d4dae98889bbc24316ceee3d5e13]: Commencement: Sch. 4 para. 44 in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
 
-[^key-5225b97f39044d167a36dc307b957c13]: Commencement: Sch. 4 para. 45 in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
+[^c-5225b97f39044d167a36dc307b957c13]: Commencement: Sch. 4 para. 45 in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
 
-[^key-448cc95a211cc71b2d6ff29c72369176]: Commencement: Sch. 4 para. 46 in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
+[^c-448cc95a211cc71b2d6ff29c72369176]: Commencement: Sch. 4 para. 46 in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
 
-[^key-f854bb3bba19ee9d0058c397a38bf077]: Commencement: [Sch. 4 para. 47](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/47) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
+[^c-f854bb3bba19ee9d0058c397a38bf077]: Commencement: [Sch. 4 para. 47](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/47) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
 
-[^key-1eba8bfd9ae86fc7e9b1f6fd9df57a83]: Commencement: [Sch. 4 para. 48](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/48) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
+[^c-1eba8bfd9ae86fc7e9b1f6fd9df57a83]: Commencement: [Sch. 4 para. 48](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/48) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
 
-[^key-3e3b7e171f511df8ffd86a1580a869e4]: Commencement: [Sch. 4 para. 49](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/49) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
+[^c-3e3b7e171f511df8ffd86a1580a869e4]: Commencement: [Sch. 4 para. 49](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/49) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
 
-[^key-6f6538c3a12b00acb93f9d2af80fc7ab]: Commencement: [Sch. 4 para. 50](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/50) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
+[^c-6f6538c3a12b00acb93f9d2af80fc7ab]: Commencement: [Sch. 4 para. 50](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/50) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
 
-[^key-bc14fb113bc0cdc3072c7042cb7dd7cf]: Textual amendment: Sch. 4 paras. 51-58 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-bc14fb113bc0cdc3072c7042cb7dd7cf]: Textual amendment: Sch. 4 paras. 51-58 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-8b85c8de02b4fbbb6db70c40ed16f7e6]: Commencement: Sch. 4 para. 59(a)(b)(d) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(x)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/x)
+[^c-8b85c8de02b4fbbb6db70c40ed16f7e6]: Commencement: Sch. 4 para. 59(a)(b)(d) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(x)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/x)
 
-[^key-62b4368384fcfded446cdbe86f4bcceb]: Textual amendment: Sch. 4 para. 60 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-62b4368384fcfded446cdbe86f4bcceb]: Textual amendment: Sch. 4 para. 60 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-4b25f09ee649208dcaed85f328caf03a]: Commencement: Sch. 4 para. 61(a) in force at 30.11.2009 for specified purposes by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xii)
+[^c-4b25f09ee649208dcaed85f328caf03a]: Commencement: Sch. 4 para. 61(a) in force at 30.11.2009 for specified purposes by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xii)
 
-[^key-c326bf337594308738fd4ab8b06de530]: Commencement: Sch. 4 para. 61(b)(c) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xii)
+[^c-c326bf337594308738fd4ab8b06de530]: Commencement: Sch. 4 para. 61(b)(c) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xii)
 
-[^key-0800b3e6929ac386ed7f14a623546230]: Textual amendment: Sch. 4 paras. 62-64 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-0800b3e6929ac386ed7f14a623546230]: Textual amendment: Sch. 4 paras. 62-64 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-4c07f94455f6b629e07addc116de7b85]: Textual amendment: Sch. 4 paras. 65-67 repealed (22.3.2010) by [Welfare Reform Act 2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2009/24/section/61/3), [Sch. 7 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/24/schedule/7/part/3); [S.I. 2010/293](https://www.legislation.gov.uk/uksi/2010/293), [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2010/293/article/2/3/b) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2010/293/article/2/4))
+[^c-4c07f94455f6b629e07addc116de7b85]: Textual amendment: Sch. 4 paras. 65-67 repealed (22.3.2010) by [Welfare Reform Act 2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2009/24/section/61/3), [Sch. 7 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/24/schedule/7/part/3); [S.I. 2010/293](https://www.legislation.gov.uk/uksi/2010/293), [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2010/293/article/2/3/b) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2010/293/article/2/4))
 
-[^key-dc7bd658f44c8735ffbb272bcbb44055]: Commencement: [Sch. 4 para. 68](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/68) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xiii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xiii)
+[^c-dc7bd658f44c8735ffbb272bcbb44055]: Commencement: [Sch. 4 para. 68](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/68) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xiii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xiii)
 
-[^key-df3ec64a233d406ed45d5508b03930ff]: Commencement: [Sch. 4 para. 69](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/69) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xiii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xiii)
+[^c-df3ec64a233d406ed45d5508b03930ff]: Commencement: [Sch. 4 para. 69](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/69) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xiii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xiii)
 
-[^key-f567c4fe4c9662078b2ecd6ab62e18a6]: Commencement: [Sch. 4 para. 70](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/70) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xiii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xiii)
+[^c-f567c4fe4c9662078b2ecd6ab62e18a6]: Commencement: [Sch. 4 para. 70](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/70) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xiii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xiii)
 
-[^key-dd3b70d9f93bce3ddaa8d361781984a6]: Commencement: Sch. 4 para. 71 in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xiii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xiii)
+[^c-dd3b70d9f93bce3ddaa8d361781984a6]: Commencement: Sch. 4 para. 71 in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xiii)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xiii)
 
-[^key-8d95d8480ee1f7ff1cccbc3470d66201]: Textual amendment: Sch. 4 paras. 72-91 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-8d95d8480ee1f7ff1cccbc3470d66201]: Textual amendment: Sch. 4 paras. 72-91 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-1e53cf1c58ef470d30dcd9d74422b976]: Commencement: Sch. 4 para. 92(b) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xiv)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xiv)
+[^c-1e53cf1c58ef470d30dcd9d74422b976]: Commencement: Sch. 4 para. 92(b) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xiv)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xiv)
 
-[^key-3a26aa061da9a0af1ee53462abce0d40]: Textual amendment: Sch. 4 para. 93 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-3a26aa061da9a0af1ee53462abce0d40]: Textual amendment: Sch. 4 para. 93 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-dc50cff88e7f1db33183cfb1d26bb056]: Commencement: Sch. 4 para. 94 in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xv)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xv)
+[^c-dc50cff88e7f1db33183cfb1d26bb056]: Commencement: Sch. 4 para. 94 in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xv)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xv)
 
-[^key-45b3ffacd05374e7600e3837ce7fb2b9]: Commencement: Sch. 4 para. 95 in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xv)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xv)
+[^c-45b3ffacd05374e7600e3837ce7fb2b9]: Commencement: Sch. 4 para. 95 in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xv)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xv)
 
-[^key-6a70828c69d32e65fb6e569025f49ecf]: Textual amendment: Sch. 4 para. 96 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-6a70828c69d32e65fb6e569025f49ecf]: Textual amendment: Sch. 4 para. 96 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-3fbe24ac5ce13d93a1a1cf5a127fc5af]: Commencement: Sch. 4 para. 97 in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xv)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xv)
+[^c-3fbe24ac5ce13d93a1a1cf5a127fc5af]: Commencement: Sch. 4 para. 97 in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xv)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xv)
 
-[^key-47f2350145d779ec7072d423d3095037]: Commencement: [Sch. 4 para. 98](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/98) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xv)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xv) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/3074/article/4))
+[^c-47f2350145d779ec7072d423d3095037]: Commencement: [Sch. 4 para. 98](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/98) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xv)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xv) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/3074/article/4))
 
-[^key-48f1d926a667b9c947bd13b5d15e9b06]: Commencement: [Sch. 4 para. 99](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/99) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xv)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xv)
+[^c-48f1d926a667b9c947bd13b5d15e9b06]: Commencement: [Sch. 4 para. 99](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/99) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xv)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xv)
 
-[^key-15c1015e1507744bb21bdadda925e918]: Textual amendment: Sch. 4 para. 100 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [s. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-15c1015e1507744bb21bdadda925e918]: Textual amendment: Sch. 4 para. 100 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [s. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-ed3cbd628c10af2ecf9db7b83c004c14]: Commencement: Sch. 4 para. 101 in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xv)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xv)
+[^c-ed3cbd628c10af2ecf9db7b83c004c14]: Commencement: Sch. 4 para. 101 in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xv)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xv)
 
-[^key-de68a5f8813728e2be0e33d64b699e5e]: Commencement: Sch. 4 para. 102 in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xv)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xv)
+[^c-de68a5f8813728e2be0e33d64b699e5e]: Commencement: Sch. 4 para. 102 in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xv)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xv)
 
-[^key-67dd640d6803b0c5b9c261b2fee5b6f0]: Textual amendment: Sch. 4 para. 103 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-67dd640d6803b0c5b9c261b2fee5b6f0]: Textual amendment: Sch. 4 para. 103 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-4614ac6c571bb02c6e6544671782cc60]: Commencement: Sch. 4 para. 104 in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xv)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xv)
+[^c-4614ac6c571bb02c6e6544671782cc60]: Commencement: Sch. 4 para. 104 in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xv)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xv)
 
-[^key-4f8216fa3556991ac17fc711e68bd566]: Commencement: Sch. 4 para. 105 in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xv)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xv)
+[^c-4f8216fa3556991ac17fc711e68bd566]: Commencement: Sch. 4 para. 105 in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xv)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xv)
 
-[^key-28872a0736b0ccc3590956791577a21f]: Textual amendment: Sch. 4 paras. 106-109 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-28872a0736b0ccc3590956791577a21f]: Textual amendment: Sch. 4 paras. 106-109 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

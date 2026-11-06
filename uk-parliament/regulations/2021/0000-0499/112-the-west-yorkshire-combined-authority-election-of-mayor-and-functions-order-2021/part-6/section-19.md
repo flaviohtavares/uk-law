@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Agreements between authorities and strategic highways companies[^key-badbe730db71fbb17fd7041e199eae9a]
+## 19. Agreements between authorities and strategic highways companies[^c-badbe730db71fbb17fd7041e199eae9a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-badbe730db71fbb17fd7041e199eae9a]: Textual amendment: [Art. 19](https://www.legislation.gov.uk/uksi/2021/112/article/19) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [32(6)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/32/6/b)
+[^c-badbe730db71fbb17fd7041e199eae9a]: Textual amendment: [Art. 19](https://www.legislation.gov.uk/uksi/2021/112/article/19) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [32(6)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/32/6/b)

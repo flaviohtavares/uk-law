@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Control of demolition[^key-10a4dc32aed15037adb9c883bd030286]
+## 24. Control of demolition[^c-10a4dc32aed15037adb9c883bd030286]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10a4dc32aed15037adb9c883bd030286]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2014/19/section/24) in force at 1.10.2015 by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-10a4dc32aed15037adb9c883bd030286]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2014/19/section/24) in force at 1.10.2015 by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Pension accounts for active or deferred members who become pensioner members[^key-89e9ddf22d066e16d65a9b86ae092e20]
+## 73. Pension accounts for active or deferred members who become pensioner members[^c-89e9ddf22d066e16d65a9b86ae092e20]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89e9ddf22d066e16d65a9b86ae092e20]: Commencement: [Reg. 73](https://www.legislation.gov.uk/ssi/2014/292/regulation/73) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-89e9ddf22d066e16d65a9b86ae092e20]: Commencement: [Reg. 73](https://www.legislation.gov.uk/ssi/2014/292/regulation/73) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

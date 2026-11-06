@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Crediting of added pension: death in service or medical discharge[^key-a6062a93337da4eed10f4bb348ca9cf0]
+## 95. Crediting of added pension: death in service or medical discharge[^c-a6062a93337da4eed10f4bb348ca9cf0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where a member who is making periodical contributions in respect of added pensio
 
 ## Annotations
 
-[^key-a6062a93337da4eed10f4bb348ca9cf0]: Commencement: [Reg. 95](https://www.legislation.gov.uk/uksi/2014/2336/regulation/95) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-a6062a93337da4eed10f4bb348ca9cf0]: Commencement: [Reg. 95](https://www.legislation.gov.uk/uksi/2014/2336/regulation/95) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

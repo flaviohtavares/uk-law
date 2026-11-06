@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Acquisition of part of certain properties[^key-d3d6c7241254c26da5afaa497f97caef]
+## 40. Acquisition of part of certain properties[^c-d3d6c7241254c26da5afaa497f97caef]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ the notice to treat shall be deemed to be a notice to treat for the land subject
 
 ## Annotations
 
-[^key-d3d6c7241254c26da5afaa497f97caef]: Commencement: Art. 40 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-d3d6c7241254c26da5afaa497f97caef]: Commencement: Art. 40 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

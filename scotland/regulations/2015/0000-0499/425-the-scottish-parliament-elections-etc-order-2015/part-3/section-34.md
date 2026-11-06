@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Office of election agent[^key-2c514c7066c1420ee170a3296e12a645]
+## 34. Office of election agent[^c-2c514c7066c1420ee170a3296e12a645]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c514c7066c1420ee170a3296e12a645]: Commencement: Art. 34 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-2c514c7066c1420ee170a3296e12a645]: Commencement: Art. 34 in force at 16.12.2015 in accordance with art. 1(1)

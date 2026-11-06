@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-ba6e15daa2497dbe47e8b5d2b98cf3a9] This regulation applies to—
+(1)[^c-ba6e15daa2497dbe47e8b5d2b98cf3a9] This regulation applies to—
 
 - (a) the Chief Electoral Officer;
 - (b) any temporary deputy of his; and
@@ -44,4 +44,4 @@ otherwise than in accordance with any enactment including these Regulations.
 
 ## Annotations
 
-[^key-ba6e15daa2497dbe47e8b5d2b98cf3a9]: Modification: [Reg. 94(1)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/94/1) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 103](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/103)
+[^c-ba6e15daa2497dbe47e8b5d2b98cf3a9]: Modification: [Reg. 94(1)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/94/1) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 103](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/103)

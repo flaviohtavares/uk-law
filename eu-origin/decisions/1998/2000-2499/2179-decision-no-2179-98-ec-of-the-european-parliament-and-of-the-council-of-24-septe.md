@@ -31,10 +31,10 @@ Decision No 2179/98/EC of the European Parliament and of the Council
 
 of 24 September 1998 on the review of the European Community programme of policy and action in relation to the environment and sustainable development 'Towards sustainability" (revoked)
 
-[^key-001bff345c9c774b997c56b2e31ff357]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-001bff345c9c774b997c56b2e31ff357]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-001bff345c9c774b997c56b2e31ff357] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-001bff345c9c774b997c56b2e31ff357] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-001bff345c9c774b997c56b2e31ff357]: Textual amendment: Decision revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-001bff345c9c774b997c56b2e31ff357]: Textual amendment: Decision revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

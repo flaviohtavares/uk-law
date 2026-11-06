@@ -37,7 +37,7 @@ Most Gracious Sovereign, We, Your Majesty’s most dutiful and loyal subjects, t
 
 ## Contents
 
-### Part I — Excise duties[^key-ec8ab6a7ea52e2739ba3f1a278e00b98]
+### Part I — Excise duties[^c-ec8ab6a7ea52e2739ba3f1a278e00b98]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,7 +74,7 @@ Most Gracious Sovereign, We, Your Majesty’s most dutiful and loyal subjects, t
 - [Section 10 — Goods for sale on board ships or aircraft.](part-i/section-10.md)
 - [Section 11 — Drawback of duty on shipment.](part-i/section-11.md)
 
-### Part II — Value added tax[^key-6ea809493cec75d643c43d496440fb25]
+### Part II — Value added tax[^c-6ea809493cec75d643c43d496440fb25]
 
 *Extent: E+W+S+N.I.*
 
@@ -346,6 +346,6 @@ SCHEDULES
 
 ## Annotations
 
-[^key-ec8ab6a7ea52e2739ba3f1a278e00b98]: Modification: Pt. 1 excluded by 1990 c. 19, s. 61(3) (as substituted (11.2.2005) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2005 (S.I. 2005/82)](https://www.legislation.gov.uk/uksi/2005/82), [regs. 1](https://www.legislation.gov.uk/uksi/2005/82/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/82/regulation/2/2))
+[^c-ec8ab6a7ea52e2739ba3f1a278e00b98]: Modification: Pt. 1 excluded by 1990 c. 19, s. 61(3) (as substituted (11.2.2005) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2005 (S.I. 2005/82)](https://www.legislation.gov.uk/uksi/2005/82), [regs. 1](https://www.legislation.gov.uk/uksi/2005/82/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/82/regulation/2/2))
 
-[^key-6ea809493cec75d643c43d496440fb25]: Modification: Pt. 2 excluded by 1990 c. 19, s. 61(3) (as substituted (11.2.2005) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2005 (S.I. 2005/82)](https://www.legislation.gov.uk/uksi/2005/82), [regs. 1](https://www.legislation.gov.uk/uksi/2005/82/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/82/regulation/2/2))
+[^c-6ea809493cec75d643c43d496440fb25]: Modification: Pt. 2 excluded by 1990 c. 19, s. 61(3) (as substituted (11.2.2005) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2005 (S.I. 2005/82)](https://www.legislation.gov.uk/uksi/2005/82), [regs. 1](https://www.legislation.gov.uk/uksi/2005/82/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/82/regulation/2/2))

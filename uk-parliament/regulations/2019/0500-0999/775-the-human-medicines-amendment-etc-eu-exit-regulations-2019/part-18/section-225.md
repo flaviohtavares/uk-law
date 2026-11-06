@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 225. Insertion of regulation 344A (modifications to deal with serious shortages) and 344B (regulation making powers)[^key-24188d84d4c54492019844d3174e00bf]
+## 225. Insertion of regulation 344A (modifications to deal with serious shortages) and 344B (regulation making powers)[^c-24188d84d4c54492019844d3174e00bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ After regulation 344 insert—
 >
 > (4) The reference in paragraph (1) to a serious shortage arising from the withdrawal of the United Kingdom from the European Union includes reference to a serious shortage where the withdrawal of the United Kingdom from the European Union is one but not the only significant factor contributing to the shortage.
 >
-> (5) No regulations under paragraph (1) may be made, or have effect, after the end of the period of two years beginning with IP completion day[^key-5e78e9305f85c76ecee7aea827113116].
+> (5) No regulations under paragraph (1) may be made, or have effect, after the end of the period of two years beginning with IP completion day[^c-5e78e9305f85c76ecee7aea827113116].
 >
 > **344B. Regulation making powers**
 >
@@ -60,6 +60,6 @@ After regulation 344 insert—
 
 ## Annotations
 
-[^key-24188d84d4c54492019844d3174e00bf]: Commencement: Reg. 225 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-24188d84d4c54492019844d3174e00bf]: Commencement: Reg. 225 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-5e78e9305f85c76ecee7aea827113116]: Textual amendment: Words in reg. 225 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 185](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/185)
+[^c-5e78e9305f85c76ecee7aea827113116]: Textual amendment: Words in reg. 225 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 185](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/185)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14A. Moratorium[^key-a232cda9e8b7a1259470383ad9836c1d]
+## 14A. Moratorium[^c-a232cda9e8b7a1259470383ad9836c1d]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a232cda9e8b7a1259470383ad9836c1d]: Textual amendment: [Art. 14A](https://www.legislation.gov.uk/nisi/1989/2405/article/14A) omitted (26.6.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/6) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-a232cda9e8b7a1259470383ad9836c1d]: Textual amendment: [Art. 14A](https://www.legislation.gov.uk/nisi/1989/2405/article/14A) omitted (26.6.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/6) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

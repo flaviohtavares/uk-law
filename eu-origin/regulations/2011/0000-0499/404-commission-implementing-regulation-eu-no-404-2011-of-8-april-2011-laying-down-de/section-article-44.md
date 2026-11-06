@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 44. Access to data[^key-7e2e373be4373e6c7ee9f273c604b0d1]
+## Article 44. Access to data[^c-7e2e373be4373e6c7ee9f273c604b0d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e2e373be4373e6c7ee9f273c604b0d1]: Textual amendment: [Art. 44](https://www.legislation.gov.uk/eur/2011/404/article/44) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(40)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/40); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7e2e373be4373e6c7ee9f273c604b0d1]: Textual amendment: [Art. 44](https://www.legislation.gov.uk/eur/2011/404/article/44) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(40)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/40); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

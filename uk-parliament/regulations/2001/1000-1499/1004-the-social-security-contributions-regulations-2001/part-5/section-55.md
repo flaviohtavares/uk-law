@@ -25,9 +25,9 @@ summary: ''
 (2) The cases to which paragraph (1) applies are those in which a person has paid a Class 1A contribution and—
 
 - (a) in calculating the amount of that contribution the person used information which later proves to have been inaccurate or incomplete; or
-- (b) the employee who received the general earnings[^key-455a7b406d76fa5ddd666cff0e8ed448] in respect of which the contribution was payable is later found to have been a person not residing in the United Kingdom for the purposes of income tax at the time of receipt.
+- (b) the employee who received the general earnings[^c-455a7b406d76fa5ddd666cff0e8ed448] in respect of which the contribution was payable is later found to have been a person not residing in the United Kingdom for the purposes of income tax at the time of receipt.
 
-(3) The repayment of part of a Class 1A contribution under paragraph (1) is subject to the condition that the person referred to in that paragraph the applicant[^key-150e4f90751b19dd13e46374ca65afbe] shall make an application to that effect in writing to the Board and within the period of 6 years from the end of the year in which the Class 1A contribution was due to be paid.[^key-178b045ea054d99c71f62a466e0643d4]
+(3) The repayment of part of a Class 1A contribution under paragraph (1) is subject to the condition that the person referred to in that paragraph the applicant[^c-150e4f90751b19dd13e46374ca65afbe] shall make an application to that effect in writing to the Board and within the period of 6 years from the end of the year in which the Class 1A contribution was due to be paid.[^c-178b045ea054d99c71f62a466e0643d4]
 
 This is subject to the following qualification.
 
@@ -38,8 +38,8 @@ If the application is made after the end of that period, an officer of the Board
 
 ## Annotations
 
-[^key-455a7b406d76fa5ddd666cff0e8ed448]: Textual amendment: Words in reg. 55(2)(b) substituted (6.4.2004) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2004/770/regulation/13)
+[^c-455a7b406d76fa5ddd666cff0e8ed448]: Textual amendment: Words in reg. 55(2)(b) substituted (6.4.2004) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2004/770/regulation/13)
 
-[^key-150e4f90751b19dd13e46374ca65afbe]: Textual amendment: Words in reg. 55(3) inserted (8.10.2002) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2002 (S.I. 2002/2366)](https://www.legislation.gov.uk/uksi/2002/2366), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2366/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2002/2366/regulation/10/a)
+[^c-150e4f90751b19dd13e46374ca65afbe]: Textual amendment: Words in reg. 55(3) inserted (8.10.2002) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2002 (S.I. 2002/2366)](https://www.legislation.gov.uk/uksi/2002/2366), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2366/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2002/2366/regulation/10/a)
 
-[^key-178b045ea054d99c71f62a466e0643d4]: Textual amendment: Words in reg. 55(3) substituted (8.10.2002) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2002 (S.I. 2002/2366)](https://www.legislation.gov.uk/uksi/2002/2366), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2366/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2002/2366/regulation/10/b)
+[^c-178b045ea054d99c71f62a466e0643d4]: Textual amendment: Words in reg. 55(3) substituted (8.10.2002) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2002 (S.I. 2002/2366)](https://www.legislation.gov.uk/uksi/2002/2366), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2366/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2002/2366/regulation/10/b)

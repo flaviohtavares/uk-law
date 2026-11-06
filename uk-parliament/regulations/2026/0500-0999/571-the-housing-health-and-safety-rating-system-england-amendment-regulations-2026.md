@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by sections 2 and 250(2) of the Housing Act 2004[^f00001].
 
-## 1. Citation, commencement and extent[^key-f2d5a7843e0848796b9fd1dd624aa0fa]
+## 1. Citation, commencement and extent[^c-f2d5a7843e0848796b9fd1dd624aa0fa]
 
 (1) These Regulations may be cited as the Housing Health and Safety Rating System (England) (Amendment) Regulations 2026.
 
@@ -54,15 +54,15 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (3) These Regulations extend to England and Wales.
 
-## 2. Amendment of the Housing Health and Safety Rating System (England) Regulations 2005[^key-18c6cb5bf540a8e3af4f2f498d7a309e]
+## 2. Amendment of the Housing Health and Safety Rating System (England) Regulations 2005[^c-18c6cb5bf540a8e3af4f2f498d7a309e]
 
 The Housing Health and Safety Rating System (England) Regulations 2005[^f00002] are amended in accordance with regulations 3 to 9.
 
-## 3. Amendment of regulation 2[^key-8e7b1b078bc215f1027f3af51108808b]
+## 3. Amendment of regulation 2[^c-8e7b1b078bc215f1027f3af51108808b]
 
 In regulation 2 (interpretation), in the definition of “harm”, for “Classes I to IV as” substitute “the four classes of harm”.
 
-## 4. Amendment of regulation 4[^key-816a7da7ca99b47d5722203a366fdc3c]
+## 4. Amendment of regulation 4[^c-816a7da7ca99b47d5722203a366fdc3c]
 
 In regulation 4 (prescribed fire hazard), for the words from “exposure to” to the end substitute—
 
@@ -74,7 +74,7 @@ In regulation 4 (prescribed fire hazard), for the words from “exposure to” t
 
 .
 
-## 5. Amendment of regulation 6[^key-f6aa2b50ede5bd5d5a663d80c575dd93]
+## 5. Amendment of regulation 6[^c-f6aa2b50ede5bd5d5a663d80c575dd93]
 
 In regulation 6 (seriousness of hazards)—
 
@@ -139,7 +139,7 @@ In regulation 6 (seriousness of hazards)—
     - (cc) for “28” substitute “25A(2)”;
   - (iv) in sub-paragraph (h), for “26” substitute “25A(1).
 
-## 6. Amendment of regulation 7[^key-5ea9d017c40857fce0e3aa53aa265ede]
+## 6. Amendment of regulation 7[^c-5ea9d017c40857fce0e3aa53aa265ede]
 
 In regulation 7 (prescribed bands)—
 
@@ -157,14 +157,14 @@ In regulation 7 (prescribed bands)—
 
   .
 
-## 7. Amendment of regulation 8[^key-025882d30fffd27512459eb4349d9091]
+## 7. Amendment of regulation 8[^c-025882d30fffd27512459eb4349d9091]
 
 In regulation 8 (category of hazard)—
 
 - (a) in paragraph (a), for “band A, B or C of” substitute “the High band in”;
 - (b) in paragraph (b), for “any other band” substitute “the Medium or Low bands”.
 
-## 8. Amendment of Schedule 1[^key-b795ba7d83803d4b68606948f13f14ba]
+## 8. Amendment of Schedule 1[^c-b795ba7d83803d4b68606948f13f14ba]
 
 In Schedule 1 (matters and circumstances)—
 
@@ -235,7 +235,7 @@ In Schedule 1 (matters and circumstances)—
 - (j) omit paragraphs 26 to 28;
 - (k) in paragraph 29, for “the dwelling or HMO” substitute “a building”.
 
-## 9. Amendment of Schedule 2[^key-79bbb7108199fd3401e2818f34ce6f7e]
+## 9. Amendment of Schedule 2[^c-79bbb7108199fd3401e2818f34ce6f7e]
 
 In Schedule 2 (classes of harm)—
 
@@ -276,9 +276,9 @@ In Schedule 2 (classes of harm)—
 
   .
 
-## 10. Transitional provision: inspections under section 4 of the Housing Act 2004[^key-073b45f69705c77130419a2d71d5b6d9]
+## 10. Transitional provision: inspections under section 4 of the Housing Act 2004[^c-073b45f69705c77130419a2d71d5b6d9]
 
-In relation to inspections under section 4 of the Housing Act 2004 (inspections by local housing authorities to see whether category 1 or 2 hazards exist), the amendments made by these Regulations only apply to an inspection commenced on or after 23rd June[^key-cf2c6ebf3a65324f913c4f37d477b24a] 2026.
+In relation to inspections under section 4 of the Housing Act 2004 (inspections by local housing authorities to see whether category 1 or 2 hazards exist), the amendments made by these Regulations only apply to an inspection commenced on or after 23rd June[^c-cf2c6ebf3a65324f913c4f37d477b24a] 2026.
 
 Taylor of Stevenage
 
@@ -314,26 +314,26 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2004 c. 34](https://www.legislation.gov.uk/ukpga/2004/34). See the definitions of “prescribed” in section 2(2), “prescribed fire hazard” in section 10(4) and “appropriate national authority” in section 261(1).
 
-[^key-f2d5a7843e0848796b9fd1dd624aa0fa]: Commencement: Reg. 1 in force at 23.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/571/regulation/1/2)
+[^c-f2d5a7843e0848796b9fd1dd624aa0fa]: Commencement: Reg. 1 in force at 23.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/571/regulation/1/2)
 
-[^key-18c6cb5bf540a8e3af4f2f498d7a309e]: Commencement: Reg. 2 in force at 23.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/571/regulation/1/2)
+[^c-18c6cb5bf540a8e3af4f2f498d7a309e]: Commencement: Reg. 2 in force at 23.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/571/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2005/3208](https://www.legislation.gov.uk/uksi/2005/3208).
 
-[^key-8e7b1b078bc215f1027f3af51108808b]: Commencement: Reg. 3 in force at 23.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/571/regulation/1/2)
+[^c-8e7b1b078bc215f1027f3af51108808b]: Commencement: Reg. 3 in force at 23.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/571/regulation/1/2)
 
-[^key-816a7da7ca99b47d5722203a366fdc3c]: Commencement: Reg. 4 in force at 23.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/571/regulation/1/2)
+[^c-816a7da7ca99b47d5722203a366fdc3c]: Commencement: Reg. 4 in force at 23.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/571/regulation/1/2)
 
-[^key-f6aa2b50ede5bd5d5a663d80c575dd93]: Commencement: Reg. 5 in force at 23.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/571/regulation/1/2)
+[^c-f6aa2b50ede5bd5d5a663d80c575dd93]: Commencement: Reg. 5 in force at 23.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/571/regulation/1/2)
 
-[^key-5ea9d017c40857fce0e3aa53aa265ede]: Commencement: Reg. 6 in force at 23.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/571/regulation/1/2)
+[^c-5ea9d017c40857fce0e3aa53aa265ede]: Commencement: Reg. 6 in force at 23.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/571/regulation/1/2)
 
-[^key-025882d30fffd27512459eb4349d9091]: Commencement: Reg. 7 in force at 23.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/571/regulation/1/2)
+[^c-025882d30fffd27512459eb4349d9091]: Commencement: Reg. 7 in force at 23.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/571/regulation/1/2)
 
-[^key-b795ba7d83803d4b68606948f13f14ba]: Commencement: Reg. 8 in force at 23.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/571/regulation/1/2)
+[^c-b795ba7d83803d4b68606948f13f14ba]: Commencement: Reg. 8 in force at 23.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/571/regulation/1/2)
 
-[^key-79bbb7108199fd3401e2818f34ce6f7e]: Commencement: Reg. 9 in force at 23.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/571/regulation/1/2)
+[^c-79bbb7108199fd3401e2818f34ce6f7e]: Commencement: Reg. 9 in force at 23.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/571/regulation/1/2)
 
-[^key-073b45f69705c77130419a2d71d5b6d9]: Commencement: Reg. 10 in force at 23.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/571/regulation/1/2)
+[^c-073b45f69705c77130419a2d71d5b6d9]: Commencement: Reg. 10 in force at 23.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/571/regulation/1/2)
 
-[^key-cf2c6ebf3a65324f913c4f37d477b24a]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2026/571/regulation/10) substituted (21.6.2026) by [The Housing Health and Safety Rating System (England) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/629)](https://www.legislation.gov.uk/uksi/2026/629), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/629/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/629/regulation/2)
+[^c-cf2c6ebf3a65324f913c4f37d477b24a]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2026/571/regulation/10) substituted (21.6.2026) by [The Housing Health and Safety Rating System (England) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/629)](https://www.legislation.gov.uk/uksi/2026/629), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/629/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/629/regulation/2)

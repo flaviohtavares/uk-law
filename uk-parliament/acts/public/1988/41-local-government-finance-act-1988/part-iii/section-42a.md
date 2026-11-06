@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Each billing authority in England[^key-40e7446324bda6db6e6ff160a75d2fe5] shall compile and maintain, in accordance with section 42B below, a list (to be called its rural settlement list).
+(1) Each billing authority in England[^c-40e7446324bda6db6e6ff160a75d2fe5] shall compile and maintain, in accordance with section 42B below, a list (to be called its rural settlement list).
 
 (2) A rural settlement list shall have effect for each chargeable financial year and shall identify for each such year any settlements mentioned in subsection (3) below.
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^c13066811]: Textual amendment: S. 42A inserted (19.11.1997) by [1997 c. 29](https://www.legislation.gov.uk/ukpga/1997/29), [s. 1](https://www.legislation.gov.uk/ukpga/1997/29/section/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/1997/29/schedule/1/paragraph/1); [S.I. 1997/2752](https://www.legislation.gov.uk/uksi/1997/2752), [art. 2(1)](https://www.legislation.gov.uk/uksi/1997/2752/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/2752/article/2/2))
 
-[^key-40e7446324bda6db6e6ff160a75d2fe5]: Textual amendment: Words in s. 42A(1) inserted (1.4.2007) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [ss. 63(1)](https://www.legislation.gov.uk/ukpga/2003/26/section/63/1), [128(4)(b)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/4/b); [S.I. 2006/3339](https://www.legislation.gov.uk/uksi/2006/3339), [art. 2](https://www.legislation.gov.uk/uksi/2006/3339/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/3339/article/3))
+[^c-40e7446324bda6db6e6ff160a75d2fe5]: Textual amendment: Words in s. 42A(1) inserted (1.4.2007) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [ss. 63(1)](https://www.legislation.gov.uk/ukpga/2003/26/section/63/1), [128(4)(b)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/4/b); [S.I. 2006/3339](https://www.legislation.gov.uk/uksi/2006/3339), [art. 2](https://www.legislation.gov.uk/uksi/2006/3339/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/3339/article/3))

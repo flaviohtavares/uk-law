@@ -31,7 +31,7 @@ summary: ''
 
 Representation Of The People, Northern Ireland
 
-The Northern Ireland Assembly Elections (Returning Officer’s Charges) Order 2016 (revoked)[^key-500b9f6d13ac028626793b432af13167]
+The Northern Ireland Assembly Elections (Returning Officer’s Charges) Order 2016 (revoked)[^c-500b9f6d13ac028626793b432af13167]
 
 Made
 
@@ -39,27 +39,27 @@ Made
 
 Coming into force in accordance with article 1(2)
 
-[^key-500b9f6d13ac028626793b432af13167]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-500b9f6d13ac028626793b432af13167]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-500b9f6d13ac028626793b432af13167]
+## 1. Citation and commencement[^c-500b9f6d13ac028626793b432af13167]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Overall maximum recoverable amount[^key-500b9f6d13ac028626793b432af13167]
+## 2. Overall maximum recoverable amount[^c-500b9f6d13ac028626793b432af13167]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-500b9f6d13ac028626793b432af13167]
+## 3. Revocation[^c-500b9f6d13ac028626793b432af13167]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-500b9f6d13ac028626793b432af13167]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-500b9f6d13ac028626793b432af13167]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Overall maximum recoverable amount for each constituency[^key-500b9f6d13ac028626793b432af13167]
+## SCHEDULE — Overall maximum recoverable amount for each constituency[^c-500b9f6d13ac028626793b432af13167]
 
 Article 2(b)
 
@@ -67,8 +67,8 @@ Article 2(b)
 
 **May not be in force at this date. Check the source.**
 
-[^key-500b9f6d13ac028626793b432af13167]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-500b9f6d13ac028626793b432af13167]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-500b9f6d13ac028626793b432af13167]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/473) revoked (23.3.2022) by [The Northern Ireland Assembly Elections (Returning Officer’s Charges) Order 2022 (S.I. 2022/373)](https://www.legislation.gov.uk/uksi/2022/373), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/373/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/373/article/3)
+[^c-500b9f6d13ac028626793b432af13167]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/473) revoked (23.3.2022) by [The Northern Ireland Assembly Elections (Returning Officer’s Charges) Order 2022 (S.I. 2022/373)](https://www.legislation.gov.uk/uksi/2022/373), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/373/article/1/2), [3](https://www.legislation.gov.uk/uksi/2022/373/article/3)

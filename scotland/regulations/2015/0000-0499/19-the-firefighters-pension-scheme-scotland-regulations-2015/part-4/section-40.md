@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Account to specify opening balance and PIA index adjustment[^key-ec76b0b56ef19d473592e7c1e71c05d9]
+## 40. Account to specify opening balance and PIA index adjustment[^c-ec76b0b56ef19d473592e7c1e71c05d9]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec76b0b56ef19d473592e7c1e71c05d9]: Commencement: [Reg. 40](https://www.legislation.gov.uk/ssi/2015/19/regulation/40) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-ec76b0b56ef19d473592e7c1e71c05d9]: Commencement: [Reg. 40](https://www.legislation.gov.uk/ssi/2015/19/regulation/40) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

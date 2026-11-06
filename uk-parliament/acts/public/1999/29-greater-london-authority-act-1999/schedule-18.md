@@ -89,8 +89,8 @@ Section 247.
 
 (5) A person shall not be qualified to be appointed as auditor unless—
 
-- (a) he is eligible for appointment as a statutory auditor under Part 42 of the Companies Act 2006[^key-36a92fba7ead104e39a09f4d65dc8445] (eligibility for appointment as company auditor), and
-- (b)[^key-68d4c28d20524d08bac4b8408d59c447] if the appointment were an appointment as a statutory auditor, he would not be prohibited from acting by section 1214 of that Act (independence requirement).
+- (a) he is eligible for appointment as a statutory auditor under Part 42 of the Companies Act 2006[^c-36a92fba7ead104e39a09f4d65dc8445] (eligibility for appointment as company auditor), and
+- (b)[^c-68d4c28d20524d08bac4b8408d59c447] if the appointment were an appointment as a statutory auditor, he would not be prohibited from acting by section 1214 of that Act (independence requirement).
 
 (6) As soon as reasonably practicable after a statement of accounts has been audited, the auditor shall send a copy to the Assembly.
 
@@ -100,7 +100,7 @@ Section 247.
 
 *Extent: E+W+S*
 
-**9.** The Assembly may after consultation with the Secretary of State[^key-80253edb3ca7eadc5e4223e42bcdf0a4] make arrangements for the Committee to be provided with office accommodation.
+**9.** The Assembly may after consultation with the Secretary of State[^c-80253edb3ca7eadc5e4223e42bcdf0a4] make arrangements for the Committee to be provided with office accommodation.
 
 ### Constitution and procedure
 
@@ -117,7 +117,7 @@ Section 247.
 
 (2) Without prejudice to the discretion of the chairman to call a meeting whenever he thinks fit, he shall call a meeting when required to do so by any three members of the Committee.
 
-(3) Minutes shall be kept of the proceedings of every meeting of the Committee; and copies of those minutes shall be sent to the Assembly, the Secretary of State[^key-6f2800e45bc055dceba857cdd9cd519e] and the Passengers’ Council[^key-f9e9f3ac6fd30978ad4329aee28f1ca9].
+(3) Minutes shall be kept of the proceedings of every meeting of the Committee; and copies of those minutes shall be sent to the Assembly, the Secretary of State[^c-6f2800e45bc055dceba857cdd9cd519e] and the Passengers’ Council[^c-f9e9f3ac6fd30978ad4329aee28f1ca9].
 
 (4) Subject to the provisions of this Schedule the Committee shall determine their own procedure (including the quorum at meetings of the Committee).
 
@@ -137,7 +137,7 @@ Section 247.
 
 (2) The public shall be excluded during any item of business where—
 
-- (a) it is likely, were members of the public to be present during that item, that information furnished in confidence to the Committee by the Office of Rail and Road[^key-8b9d32c6e35e039ec39373e264b7ccea] or the Secretary of State[^key-8074a180b4d73fa3510666705993cac5] would be disclosed in breach of the obligation of confidence;
+- (a) it is likely, were members of the public to be present during that item, that information furnished in confidence to the Committee by the Office of Rail and Road[^c-8b9d32c6e35e039ec39373e264b7ccea] or the Secretary of State[^c-8074a180b4d73fa3510666705993cac5] would be disclosed in breach of the obligation of confidence;
 - (b) the Committee have resolved that, by reason of the confidential nature of the item or for other special reasons stated in the resolution, it is desirable in the public interest that the public be excluded; or
 - (c) it is likely, were members of the public to be present during that item, that there would be disclosed to them—
   - (i) any matter which relates to the affairs of an individual, or
@@ -165,7 +165,7 @@ as they consider appropriate for the purpose of bringing the meeting to the atte
   >
   > - (e) the London Transport Users’ Committee.
 
-(3)[^key-ba58f1734574c32489ffd6278a56490d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ba58f1734574c32489ffd6278a56490d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Interpretation
 
@@ -183,22 +183,22 @@ as they consider appropriate for the purpose of bringing the meeting to the atte
 
 [^c12810431]: Textual amendment: Words in Sch. 18 para. 3 inserted (1.2.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 252](https://www.legislation.gov.uk/ukpga/2000/38/section/252), [Sch. 27 para. 62(1)(4)](https://www.legislation.gov.uk/ukpga/2000/38/schedule/27/paragraph/62/1/4); [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to transitional provisions and savings in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-36a92fba7ead104e39a09f4d65dc8445]: Textual amendment: Words in Sch. 18 para. 8(5)(a) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 24(2)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/24/2) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-36a92fba7ead104e39a09f4d65dc8445]: Textual amendment: Words in Sch. 18 para. 8(5)(a) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 24(2)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/24/2) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-68d4c28d20524d08bac4b8408d59c447]: Textual amendment: Sch. 18 para. 8(5)(b) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 24(3)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/24/3) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-68d4c28d20524d08bac4b8408d59c447]: Textual amendment: Sch. 18 para. 8(5)(b) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 24(3)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/24/3) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-80253edb3ca7eadc5e4223e42bcdf0a4]: Textual amendment: Words in Sch. 18 para. 9 substituted (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 12 para. 14(9)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/12/paragraph/14/9); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-80253edb3ca7eadc5e4223e42bcdf0a4]: Textual amendment: Words in Sch. 18 para. 9 substituted (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 12 para. 14(9)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/12/paragraph/14/9); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-6f2800e45bc055dceba857cdd9cd519e]: Textual amendment: Words in Sch. 18 para. 11 substituted (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 12 para. 14(9)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/12/paragraph/14/9); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-6f2800e45bc055dceba857cdd9cd519e]: Textual amendment: Words in Sch. 18 para. 11 substituted (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 12 para. 14(9)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/12/paragraph/14/9); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-f9e9f3ac6fd30978ad4329aee28f1ca9]: Textual amendment: Words in Sch. 18 para. 11(3) substituted (E.W.S.) (25.2.2010) by [The Passengers’ Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [art. 1](https://www.legislation.gov.uk/uksi/2010/439/article/1), [Sch. para. 7(5)](https://www.legislation.gov.uk/uksi/2010/439/schedule/paragraph/7/5)
+[^c-f9e9f3ac6fd30978ad4329aee28f1ca9]: Textual amendment: Words in Sch. 18 para. 11(3) substituted (E.W.S.) (25.2.2010) by [The Passengers’ Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [art. 1](https://www.legislation.gov.uk/uksi/2010/439/article/1), [Sch. para. 7(5)](https://www.legislation.gov.uk/uksi/2010/439/schedule/paragraph/7/5)
 
-[^key-8b9d32c6e35e039ec39373e264b7ccea]: Textual amendment: Words in Sch. 18 para. 15(2)(a) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 4(n)(vii)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/4/n/vii)
+[^c-8b9d32c6e35e039ec39373e264b7ccea]: Textual amendment: Words in Sch. 18 para. 15(2)(a) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 4(n)(vii)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/4/n/vii)
 
-[^key-8074a180b4d73fa3510666705993cac5]: Textual amendment: Words in Sch. 18 para. 15 substituted (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 12 para. 14(9)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/12/paragraph/14/9); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-8074a180b4d73fa3510666705993cac5]: Textual amendment: Words in Sch. 18 para. 15 substituted (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 12 para. 14(9)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/12/paragraph/14/9); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
 [^c12810511]: Marginal citation: [1974 c. 7](https://www.legislation.gov.uk/ukpga/1974/7).
 
-[^key-ba58f1734574c32489ffd6278a56490d]: Textual amendment: Sch. 18 para. 16(3) repealed (1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 18 Pt. 14](https://www.legislation.gov.uk/ukpga/2007/28/schedule/18/part/14); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(v)(ii)](https://www.legislation.gov.uk/uksi/2008/917/article/2/v/ii)
+[^c-ba58f1734574c32489ffd6278a56490d]: Textual amendment: Sch. 18 para. 16(3) repealed (1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 18 Pt. 14](https://www.legislation.gov.uk/ukpga/2007/28/schedule/18/part/14); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(v)(ii)](https://www.legislation.gov.uk/uksi/2008/917/article/2/v/ii)
 
 [^c12810531]: Textual amendment: Sch. 18 para. 17 repealed (1.2.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [ss. 252](https://www.legislation.gov.uk/ukpga/2000/38/section/252), [274](https://www.legislation.gov.uk/ukpga/2000/38/section/274), [Sch. 27 para. 62(7)](https://www.legislation.gov.uk/ukpga/2000/38/schedule/27/paragraph/62/7), [Sch. 31 Pt. IV](https://www.legislation.gov.uk/ukpga/2000/38/schedule/31/part/IV); [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to transitional provisions and savings in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))

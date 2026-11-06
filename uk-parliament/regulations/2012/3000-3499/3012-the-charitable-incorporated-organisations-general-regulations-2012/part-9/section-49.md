@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. The CIO communications provisions[^key-a6208b800f40611dda677974069667cb]
+## 49. The CIO communications provisions[^c-a6208b800f40611dda677974069667cb]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6208b800f40611dda677974069667cb]: Commencement: Reg. 49 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-a6208b800f40611dda677974069667cb]: Commencement: Reg. 49 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

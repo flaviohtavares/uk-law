@@ -18,12 +18,12 @@ summary: ''
 
 (1) Subject to paragraph (2), a person who makes a claim for, and is otherwise entitled to, housing benefit shall be entitled to that benefit from the benefit week following the first day in respect of which that claim is made.
 
-(2)[^key-966e4cfb9078c3ec6cee14e6053abce3] A claimant shall become entitled to housing benefit from the benefit week in which the first day in respect of which his claim is made falls, where he is otherwise entitled to housing benefit and—
+(2)[^c-966e4cfb9078c3ec6cee14e6053abce3] A claimant shall become entitled to housing benefit from the benefit week in which the first day in respect of which his claim is made falls, where he is otherwise entitled to housing benefit and—
 
 - (a) he becomes liable in that benefit week, for the first time, to make payments in respect of a dwelling which he occupies as his home; or,
-- (b) he becomes liable in that benefit week to make payments, which fall due on a daily basis, in respect of the accommodation listed in paragraph (3) which he occupies as his home.[^key-f3fa8047aaf8b3e9bfa86c4f6c0cc045]
+- (b) he becomes liable in that benefit week to make payments, which fall due on a daily basis, in respect of the accommodation listed in paragraph (3) which he occupies as his home.[^c-f3fa8047aaf8b3e9bfa86c4f6c0cc045]
 
-(3)[^key-628803552df0b80121ba306103f20c0a] The accommodation referred to in paragraph (2)(b) is—
+(3)[^c-628803552df0b80121ba306103f20c0a] The accommodation referred to in paragraph (2)(b) is—
 
 - (a) a hostel;
 - (b) board and lodging accommodation where the payments are to an authority under section 206(2) of the Housing Act 1996 or section 35(2)(b) of the Housing (Scotland) Act 1987;
@@ -41,8 +41,8 @@ summary: ''
 
 ## Annotations
 
-[^key-966e4cfb9078c3ec6cee14e6053abce3]: Textual amendment: Reg. 57(2) substituted by SI 2005/2502 reg. 2(9)(b) (as amended) (3.4.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 2 para. 27(9)(c)](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/27/9/c) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-966e4cfb9078c3ec6cee14e6053abce3]: Textual amendment: Reg. 57(2) substituted by SI 2005/2502 reg. 2(9)(b) (as amended) (3.4.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 2 para. 27(9)(c)](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/27/9/c) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
-[^key-f3fa8047aaf8b3e9bfa86c4f6c0cc045]: Textual amendment: Reg. 57(2)(b) substituted (1.4.2007) by [Housing Benefit (Daily Liability Entitlement) Amendment Regulations 2007 (S.I. 2007/294)](https://www.legislation.gov.uk/uksi/2007/294), [regs. 1](https://www.legislation.gov.uk/uksi/2007/294/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2007/294/regulation/3/2/a)
+[^c-f3fa8047aaf8b3e9bfa86c4f6c0cc045]: Textual amendment: Reg. 57(2)(b) substituted (1.4.2007) by [Housing Benefit (Daily Liability Entitlement) Amendment Regulations 2007 (S.I. 2007/294)](https://www.legislation.gov.uk/uksi/2007/294), [regs. 1](https://www.legislation.gov.uk/uksi/2007/294/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2007/294/regulation/3/2/a)
 
-[^key-628803552df0b80121ba306103f20c0a]: Textual amendment: Reg. 57(3)(4) inserted (1.4.2007) by [Housing Benefit (Daily Liability Entitlement) Amendment Regulations 2007 (S.I. 2007/294)](https://www.legislation.gov.uk/uksi/2007/294), [regs. 1](https://www.legislation.gov.uk/uksi/2007/294/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2007/294/regulation/3/2/b)
+[^c-628803552df0b80121ba306103f20c0a]: Textual amendment: Reg. 57(3)(4) inserted (1.4.2007) by [Housing Benefit (Daily Liability Entitlement) Amendment Regulations 2007 (S.I. 2007/294)](https://www.legislation.gov.uk/uksi/2007/294), [regs. 1](https://www.legislation.gov.uk/uksi/2007/294/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2007/294/regulation/3/2/b)

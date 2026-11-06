@@ -45,7 +45,7 @@ Coming into force
 
 The Welsh Ministers make the following Order in exercise of the power conferred on the Secretary of State by section 4 of the Local Government Finance Act 1992[^f00001] and now vested in them[^f00002].
 
-## 1. Title, commencement and application[^key-2b2ec8d0d53f0d35aa8655abfb1d4c20]
+## 1. Title, commencement and application[^c-2b2ec8d0d53f0d35aa8655abfb1d4c20]
 
 (1) The title of this Order is the Council Tax (Exempt Dwellings) (Amendment) (Wales) Order 2019.
 
@@ -53,7 +53,7 @@ The Welsh Ministers make the following Order in exercise of the power conferred 
 
 (3) This Order applies in relation to Wales.
 
-## 2. Amendments to the Council Tax (Exempt Dwellings) Order 1992[^key-0d51f7a11f6f6e5193cfe678065f65c7]
+## 2. Amendments to the Council Tax (Exempt Dwellings) Order 1992[^c-0d51f7a11f6f6e5193cfe678065f65c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -86,6 +86,6 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: Functions of the Secretary of State, so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales by article 2 of and Schedule 1 to the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). Those functions were subsequently transferred to the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-2b2ec8d0d53f0d35aa8655abfb1d4c20]: Commencement: Art. 1 in force at 1.4.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/432/article/1/2)
+[^c-2b2ec8d0d53f0d35aa8655abfb1d4c20]: Commencement: Art. 1 in force at 1.4.2019, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2019/432/article/1/2)
 
-[^key-0d51f7a11f6f6e5193cfe678065f65c7]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/wsi/2019/432/article/2) omitted (1.4.2026) by virtue of [The Council Tax (Discounts, Disregards and Exemptions) (Wales) Regulations 2026 (W.S.I. 2026/8)](https://www.legislation.gov.uk/wsi/2026/8), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2), [Sch. 4 para. 14](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/14)
+[^c-0d51f7a11f6f6e5193cfe678065f65c7]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/wsi/2019/432/article/2) omitted (1.4.2026) by virtue of [The Council Tax (Discounts, Disregards and Exemptions) (Wales) Regulations 2026 (W.S.I. 2026/8)](https://www.legislation.gov.uk/wsi/2026/8), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2), [Sch. 4 para. 14](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/14)

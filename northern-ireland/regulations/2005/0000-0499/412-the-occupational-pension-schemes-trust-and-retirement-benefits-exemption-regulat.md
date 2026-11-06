@@ -41,7 +41,7 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred on it by Articles 229(4), 232(2) and 287(3) of the Pensions (Northern Ireland) Order 2005[^f00001], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-dd6868d59ee1a317b228bb8e82386098]
+## 1. Citation, commencement and interpretation[^c-dd6868d59ee1a317b228bb8e82386098]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Trust and Retirement Benefits Exemption) Regulations (Northern Ireland) 2005 and shall come into operation on 22nd September 2005.
 
@@ -56,13 +56,13 @@ The Department for Social Development, in exercise of the powers conferred on it
 - “registered scheme” means a scheme which is registered in accordance with section 153 of the Finance Act 2004[^f00005] (registration of pension schemes);
 - “relevant benefits”, before 6th April 2006, has the meaning given by section 612(1) of the Taxes Act[^f00006] (other interpretive provisions, and regulations for the purposes of Chapter 1 of Part 14) and, from that date onwards, has the meaning given by section 393B of the Income Tax (Earnings and Pensions) Act 2003[^f00007] (relevant benefits);
 - “relevant statutory scheme” has the meaning given by section 611A of the Taxes Act[^f00008] (definition of relevant statutory scheme).
-- [^key-396d3074ee0d84175c7c2a3f9b56a685]...
+- [^c-396d3074ee0d84175c7c2a3f9b56a685]...
 
-## 1A. Application[^key-d64c9ff01544172a4194079b493b2d07]
+## 1A. Application[^c-d64c9ff01544172a4194079b493b2d07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Exemption from trust requirement[^key-4e733333ce9a79bb70c343ae6954411d]
+## 2. Exemption from trust requirement[^c-4e733333ce9a79bb70c343ae6954411d]
 
 An occupational pension scheme which is—
 
@@ -78,7 +78,7 @@ An occupational pension scheme which is—
 
   is a scheme of a prescribed description for the purposes of Article 229(4) of the Order (UK-based scheme to be trust with effective rules).
 
-## 3. Exemption from retirement-benefit activities limitation[^key-eaaa3a4032b558077a18be8c8460d4fe]
+## 3. Exemption from retirement-benefit activities limitation[^c-eaaa3a4032b558077a18be8c8460d4fe]
 
 An occupational pension scheme which—
 
@@ -117,7 +117,7 @@ Article 229(2) of the Order transposes Article 8 of Directive [2003/41/EC](https
 
 [^f00001]: Footnote: S.I. [2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
 
-[^key-dd6868d59ee1a317b228bb8e82386098]: Commencement: Reg. 1 in operation at 22.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/412/regulation/1/1)
+[^c-dd6868d59ee1a317b228bb8e82386098]: Commencement: Reg. 1 in operation at 22.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/412/regulation/1/1)
 
 [^f00002]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
 
@@ -133,10 +133,10 @@ Article 229(2) of the Order transposes Article 8 of Directive [2003/41/EC](https
 
 [^f00008]: Footnote: Section 611A was inserted by paragraph 15 of Schedule 6 to the Finance Act 1989 and amended by paragraph 5 of Schedule 5 to the Finance Act 1999 and is repealed by Part 3 of Schedule 42 to the Finance Act 2004 with effect from 6th April 2006
 
-[^key-396d3074ee0d84175c7c2a3f9b56a685]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/412/regulation/1/2) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [22(2)](https://www.legislation.gov.uk/uksi/2019/193/regulation/22/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-396d3074ee0d84175c7c2a3f9b56a685]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/412/regulation/1/2) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [22(2)](https://www.legislation.gov.uk/uksi/2019/193/regulation/22/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d64c9ff01544172a4194079b493b2d07]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/nisr/2005/412/regulation/1A) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [22(3)](https://www.legislation.gov.uk/uksi/2019/193/regulation/22/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d64c9ff01544172a4194079b493b2d07]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/nisr/2005/412/regulation/1A) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [22(3)](https://www.legislation.gov.uk/uksi/2019/193/regulation/22/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4e733333ce9a79bb70c343ae6954411d]: Commencement: Reg. 2 in operation at 22.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/412/regulation/1/1)
+[^c-4e733333ce9a79bb70c343ae6954411d]: Commencement: Reg. 2 in operation at 22.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/412/regulation/1/1)
 
-[^key-eaaa3a4032b558077a18be8c8460d4fe]: Commencement: Reg. 3 in operation at 22.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/412/regulation/1/1)
+[^c-eaaa3a4032b558077a18be8c8460d4fe]: Commencement: Reg. 3 in operation at 22.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/412/regulation/1/1)

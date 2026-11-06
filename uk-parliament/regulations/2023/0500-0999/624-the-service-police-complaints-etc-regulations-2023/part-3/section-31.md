@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Duties of the Commissioner on references under regulation 29[^key-9a86d5cc6bcb6eaa5474d35885a92589]
+## 31. Duties of the Commissioner on references under regulation 29[^c-9a86d5cc6bcb6eaa5474d35885a92589]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a86d5cc6bcb6eaa5474d35885a92589]: Commencement: Reg. 31 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-9a86d5cc6bcb6eaa5474d35885a92589]: Commencement: Reg. 31 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

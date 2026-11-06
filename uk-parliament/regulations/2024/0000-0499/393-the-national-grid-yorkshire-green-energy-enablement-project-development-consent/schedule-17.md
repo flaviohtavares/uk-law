@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 17 — HEDGEROWS WHICH MAY BE REMOVED[^key-a58e747dff3894226b138e96f2155de9]
+## SCHEDULE 17 — HEDGEROWS WHICH MAY BE REMOVED[^c-a58e747dff3894226b138e96f2155de9]
 
 *Extent: E+W+S*
 
@@ -131,4 +131,4 @@ Article 46
 
 ## Annotations
 
-[^key-a58e747dff3894226b138e96f2155de9]: Commencement: Sch. 17 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-a58e747dff3894226b138e96f2155de9]: Commencement: Sch. 17 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)

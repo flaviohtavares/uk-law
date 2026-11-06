@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Increase of maximum sentence for possessing an imitation firearm[^key-6236d47e7b445755e04d8d361ceb4502]
+## 41. Increase of maximum sentence for possessing an imitation firearm[^c-6236d47e7b445755e04d8d361ceb4502]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6236d47e7b445755e04d8d361ceb4502]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2006/38/section/41) in force at 1.10.2007 by [S.I. 2007/2518](https://www.legislation.gov.uk/uksi/2007/2518), [art. 2](https://www.legislation.gov.uk/uksi/2007/2518/article/2)
+[^c-6236d47e7b445755e04d8d361ceb4502]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2006/38/section/41) in force at 1.10.2007 by [S.I. 2007/2518](https://www.legislation.gov.uk/uksi/2007/2518), [art. 2](https://www.legislation.gov.uk/uksi/2007/2518/article/2)

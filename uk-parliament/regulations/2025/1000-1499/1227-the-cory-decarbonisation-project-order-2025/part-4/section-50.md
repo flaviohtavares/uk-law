@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Crossness Local Nature Reserve[^key-6a08e4845fedc082969e94aa8eb31090]
+## 50. Crossness Local Nature Reserve[^c-6a08e4845fedc082969e94aa8eb31090]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6a08e4845fedc082969e94aa8eb31090]: Commencement: Art. 50 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-6a08e4845fedc082969e94aa8eb31090]: Commencement: Art. 50 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
 [^f00062]: Footnote: [1949 c. 97](https://www.legislation.gov.uk/ukpga/1949/97).

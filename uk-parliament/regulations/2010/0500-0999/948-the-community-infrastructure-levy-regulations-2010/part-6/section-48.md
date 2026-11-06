@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Withdrawal of charitable relief[^key-9e450965ef8b823b8d2e5ede5b7e0d19]
+## 48. Withdrawal of charitable relief[^c-9e450965ef8b823b8d2e5ede5b7e0d19]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e450965ef8b823b8d2e5ede5b7e0d19]: Commencement: Reg. 48 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-9e450965ef8b823b8d2e5ede5b7e0d19]: Commencement: Reg. 48 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

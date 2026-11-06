@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Grounds for prohibition orders[^key-14a9c8e46a9286fc53d0bd246ffcc7e7]
+## 55. Grounds for prohibition orders[^c-14a9c8e46a9286fc53d0bd246ffcc7e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14a9c8e46a9286fc53d0bd246ffcc7e7]: Commencement: S. 55 in force at 1.10.2008 by [S.I. 2008/905](https://www.legislation.gov.uk/uksi/2008/905), [art. 3(2)](https://www.legislation.gov.uk/uksi/2008/905/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/905/schedule/2)
+[^c-14a9c8e46a9286fc53d0bd246ffcc7e7]: Commencement: S. 55 in force at 1.10.2008 by [S.I. 2008/905](https://www.legislation.gov.uk/uksi/2008/905), [art. 3(2)](https://www.legislation.gov.uk/uksi/2008/905/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/905/schedule/2)

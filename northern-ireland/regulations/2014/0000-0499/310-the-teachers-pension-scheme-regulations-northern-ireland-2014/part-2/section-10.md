@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Northern Ireland Teachers’ Pension Scheme Pension Board–Conflict of interest[^key-6649ff26b78945b85c90cbc92d703488]
+## 10. Northern Ireland Teachers’ Pension Scheme Pension Board–Conflict of interest[^c-6649ff26b78945b85c90cbc92d703488]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6649ff26b78945b85c90cbc92d703488]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/nisr/2014/310/regulation/10) heading substituted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [9](https://www.legislation.gov.uk/nisr/2015/126/regulation/9)
+[^c-6649ff26b78945b85c90cbc92d703488]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/nisr/2014/310/regulation/10) heading substituted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [9](https://www.legislation.gov.uk/nisr/2015/126/regulation/9)
 
 [^c22298691]: Marginal citation: See sections 5(6) and 7(5) of the Act for the meaning of “conflict of interest”.

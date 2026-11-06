@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82D. Records of designation notices[^key-3be04071b6e982862efa5dedc98b91c5]
+## 82D. Records of designation notices[^c-3be04071b6e982862efa5dedc98b91c5]
 
 *Extent: E+W+S+N.I.*
 
 (1) Where the Secretary of State gives a designation notice—
 
-- (a) the Secretary of State must send a copy of the notice to the Commission[^key-632e82048d9275efe927baa53caea0ed], and
+- (a) the Secretary of State must send a copy of the notice to the Commission[^c-632e82048d9275efe927baa53caea0ed], and
 - (b) the Commission must publish a record of the notice.
 
 (2) The record must contain—
@@ -32,7 +32,7 @@ summary: ''
 - (c) the date on which the notice ceases to have effect (if not previously withdrawn), and
 - (d) subject to subsection (3), the rest of the text of the notice.
 
-(3) The Commission[^key-e9cc39c9d6f28fb6d9bf484d9964b66e] must not publish the text, or a part of the text, of the notice if—
+(3) The Commission[^c-e9cc39c9d6f28fb6d9bf484d9964b66e] must not publish the text, or a part of the text, of the notice if—
 
 - (a) the Secretary of State has determined that publishing the text or that part of the text—
   - (i) would be against the interests of national security,
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3be04071b6e982862efa5dedc98b91c5]: Textual amendment: Ss. 82A-82E inserted (17.11.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 89(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/89/3), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/996](https://www.legislation.gov.uk/uksi/2025/996), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2025/996/regulation/2/2/a)
+[^c-3be04071b6e982862efa5dedc98b91c5]: Textual amendment: Ss. 82A-82E inserted (17.11.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 89(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/89/3), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/996](https://www.legislation.gov.uk/uksi/2025/996), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2025/996/regulation/2/2/a)
 
-[^key-632e82048d9275efe927baa53caea0ed]: Textual amendment: Word in s. 82D(1) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-632e82048d9275efe927baa53caea0ed]: Textual amendment: Word in s. 82D(1) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-e9cc39c9d6f28fb6d9bf484d9964b66e]: Textual amendment: Word in s. 82D(3)-(5) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-e9cc39c9d6f28fb6d9bf484d9964b66e]: Textual amendment: Word in s. 82D(3)-(5) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

@@ -116,7 +116,7 @@ Section 64.
 
 **11.** (1) A return made by a participator for a chargeable period under paragraph 2 of Schedule 2 to the principal Act shall give details of any qualifying receipt (whether received by him or by a person connected with him) of which details have not been given in a return made by him for an earlier chargeable period.
 
-(2) Section 1122 of the Corporation Tax Act 2010[^key-e5775adbbed42a18ea7eb57a3bacf605] (connected persons) applies for the purposes of this paragraph.
+(2) Section 1122 of the Corporation Tax Act 2010[^c-e5775adbbed42a18ea7eb57a3bacf605] (connected persons) applies for the purposes of this paragraph.
 
 **12.** (1) This paragraph applies where—
 
@@ -143,4 +143,4 @@ Section 64.
 
 [^c11288261]: Marginal citation: [1984 c. 43](https://www.legislation.gov.uk/ukpga/1984/43).
 
-[^key-e5775adbbed42a18ea7eb57a3bacf605]: Textual amendment: Words in [Sch. 13 para. 11(2)](https://www.legislation.gov.uk/ukpga/1987/16/schedule/13/paragraph/11/2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 204](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/204) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-e5775adbbed42a18ea7eb57a3bacf605]: Textual amendment: Words in [Sch. 13 para. 11(2)](https://www.legislation.gov.uk/ukpga/1987/16/schedule/13/paragraph/11/2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 204](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/204) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

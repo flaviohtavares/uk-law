@@ -70,9 +70,9 @@ Regulation 3
 
 **23.** A conservation board established under section 86 of the Countryside and Rights of Way Act 2000 [^c21900991].
 
-**24.**[^key-358a95db2d10dba8a67cb8b015031991] A combined authority established by an order under section 103(1) of the Local Democracy, Economic Development and Construction Act 2009
+**24.**[^c-358a95db2d10dba8a67cb8b015031991] A combined authority established by an order under section 103(1) of the Local Democracy, Economic Development and Construction Act 2009
 
-**25.**[^key-13c23c3106187d0192bf60b943d670c7] The North Wales Corporate Joint Committee (established by the North Wales Corporate Joint Committee Regulations 2021 ([S.I. 2021/339 (W. 93)](https://www.legislation.gov.uk/wsi/2021/339))).
+**25.**[^c-13c23c3106187d0192bf60b943d670c7] The North Wales Corporate Joint Committee (established by the North Wales Corporate Joint Committee Regulations 2021 ([S.I. 2021/339 (W. 93)](https://www.legislation.gov.uk/wsi/2021/339))).
 
 **26.** The Mid Wales Corporate Joint Committee (established by the Mid Wales Corporate Joint Committee Regulations 2021 ([S.I. 2021/342 (W. 96)](https://www.legislation.gov.uk/wsi/2021/342))).
 
@@ -80,9 +80,9 @@ Regulation 3
 
 **28.** The South West Wales Corporate Joint Committee (established by the South West Wales Corporate Joint Committee Regulations 2021 ([S.I. 2021/352 (W. 104)](https://www.legislation.gov.uk/wsi/2021/352))).
 
-**29.**[^key-a092fdec5ede19075388ae8c58fc5094] A combined county authority established by regulations under section 9(1) of the Levelling Up and Regeneration Act 2023.
+**29.**[^c-a092fdec5ede19075388ae8c58fc5094] A combined county authority established by regulations under section 9(1) of the Levelling Up and Regeneration Act 2023.
 
-**30.**[^key-d65d5da8f6da1885eadb34e16dc09b86] The Surrey Pensions Authority.
+**30.**[^c-d65d5da8f6da1885eadb34e16dc09b86] The Surrey Pensions Authority.
 
 ### PART 2
 
@@ -98,9 +98,9 @@ Regulation 3
 
 **4.** An institution designated by an order under section 129 of the Education Reform Act 1988 [^c21901021].
 
-**5.** An entity connected with a body[^key-f8df096f40e01cc1bd2aced61126b955] listed in paragraphs 1 to 5 of Part 1 of this Schedule where “**connected with**” has the same meaning as in section 212(6) of the Local Government and Public Involvement in Health Act 2007 [^c21901031].
+**5.** An entity connected with a body[^c-f8df096f40e01cc1bd2aced61126b955] listed in paragraphs 1 to 5 of Part 1 of this Schedule where “**connected with**” has the same meaning as in section 212(6) of the Local Government and Public Involvement in Health Act 2007 [^c21901031].
 
-**6.** A company under the control of a body listed in paragraphs 6 to[^key-21b98f84d9a8b47aca5b66c5494cf396] 29[^key-7c42080d9e4e0f8251fea37667f3e028] of Part 1 of this Schedule where “**under the control**” has the same meaning as in section 68 or, as the case may be, 73 of the Local Government and Housing Act 1989 [^c21901041] (except that any direction given by the Secretary of State must be disregarded, and any references to a local authority treated as references to such a body).
+**6.** A company under the control of a body listed in paragraphs 6 to[^c-21b98f84d9a8b47aca5b66c5494cf396] 29[^c-7c42080d9e4e0f8251fea37667f3e028] of Part 1 of this Schedule where “**under the control**” has the same meaning as in section 68 or, as the case may be, 73 of the Local Government and Housing Act 1989 [^c21901041] (except that any direction given by the Secretary of State must be disregarded, and any references to a local authority treated as references to such a body).
 
 **7.** The Public Services Ombudsman for Wales.
 
@@ -118,11 +118,11 @@ Regulation 3
 
 *Extent: E*
 
-**13A.**[^key-7fd553a91a666cd5aa9cf867daa131c5] A development corporation established under the New Towns Act 1981 in relation to which the Secretary of State has appointed one or more local authorities to oversee the development of the new town under section 1A of that Act.
+**13A.**[^c-7fd553a91a666cd5aa9cf867daa131c5] A development corporation established under the New Towns Act 1981 in relation to which the Secretary of State has appointed one or more local authorities to oversee the development of the new town under section 1A of that Act.
 
-**14.**[^key-6b1af8d75903e6c8b714531b6be4029a] The Secretary of State, in respect of persons specified in regulation 3A(1) (civil servants engaged in probation provision).
+**14.**[^c-6b1af8d75903e6c8b714531b6be4029a] The Secretary of State, in respect of persons specified in regulation 3A(1) (civil servants engaged in probation provision).
 
-**15.**[^key-96642108bf56714d57a3e46e9991ef25] Transport for the North.
+**15.**[^c-96642108bf56714d57a3e46e9991ef25] Transport for the North.
 
 ### PART 3
 
@@ -152,7 +152,7 @@ Regulation 3
 **7.** Notwithstanding paragraph 6, and subject to paragraph 8, the admission agreement must further provide that where the level of risk identified by the assessment is such as to require it, the admission body shall enter into an indemnity or bond in a form approved by the administering authority with—
 
 - (a) a person who has permission under Part 4 of the Financial Services and Markets Act 2000 [^c21901071] to accept deposits or to effect and carry out contracts of general insurance;
-- (b) [^key-f78a1bb704fde806e3926cfba790d13b]...or[^c21901091]
+- (b) [^c-f78a1bb704fde806e3926cfba790d13b]...or[^c21901091]
 - (c) a person who does not require permission under that Act to accept deposits, by way of business, in the United Kingdom.
 
 **8.** Where, for any reason, it is not desirable for an admission body to enter into an indemnity or bond, the admission agreement must provide that the admission body secures a guarantee in a form satisfactory to the administering authority from—
@@ -166,7 +166,7 @@ Regulation 3
   the admission body; or
 - (d) the Secretary of State in the case of an admission body—
   - (i) which is established by or under any enactment, and
-  - (ii) where that enactment enables the Secretary of State to make financial provision for that admission body; or[^key-e0ba8bfcfd84a9e9dcdf0e9d11025e94]
+  - (ii) where that enactment enables the Secretary of State to make financial provision for that admission body; or[^c-e0ba8bfcfd84a9e9dcdf0e9d11025e94]
   - (iii) which is a provider of probation services under section 3 of the Offender Management Act 2007 (power to make arrangements for the provision of probation services) or a person with whom such a provider has made arrangements under subsection (3)(c) of that section.
 
 **9.** An admission agreement must include—
@@ -181,7 +181,7 @@ Regulation 3
 
 **10.** An admission agreement must include a requirement that the admission body will not do anything to prejudice the status of the Scheme as a registered scheme.
 
-**11.**[^key-3d06dc2703bbc5cc9a1cd99b090a7dfb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-3d06dc2703bbc5cc9a1cd99b090a7dfb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **12.** Where an admission body is such a body by virtue of paragraph 1(d), an admission agreement must include—
 
@@ -194,9 +194,9 @@ Regulation 3
 
 **13.** Where an admission body of the description in paragraph 1(d) undertakes to meet the requirements of these Regulations, the appropriate administering authority must admit to the Scheme the eligible employees of that body.
 
-**14.**[^key-f4ccb344a9c4aeeac5152b971a9def1e] An admission agreement may take effect on a date before the date on which it is executed.
+**14.**[^c-f4ccb344a9c4aeeac5152b971a9def1e] An admission agreement may take effect on a date before the date on which it is executed.
 
-### PART 4[^key-b6842a970332a63ea5781cc69b39c97d]
+### PART 4[^c-b6842a970332a63ea5781cc69b39c97d]
 
 | *Column 1: Person eligible for membership* | *Column 2: Body deemed to be Scheme employer* |
 | --- | --- |
@@ -211,8 +211,8 @@ Regulation 3
 | A police and crime commissioner | That police and crime commissioner |
 | A Local Commissioner within the meaning of Part 3 of the Local Government Act 1974 [^c21901121] | The Commission for Local Administration in England |
 | A member of a passenger transport executive or a director of a subsidiary of a passenger transport executive, where the integrated transport authority for which the executive exercises its functions consents to the designation of that member or director as being eligible for membership | The passenger transport executive |
-| The Housing Ombudsman[^key-c121c3e5ed6ad4ee078d0f5566e74424] | The Housing Ombudsman but, where any decision by the Ombudsman in the capacity of Scheme employer affects the benefits to which the Ombudsman is or may be entitled, only if that decision has been confirmed in writing by the person who is chair of the Housing Ombudsman’s Audit and Risk Committee[^key-933999c81117071480dea1b8c6347bf8] |
-| An eligible councillor falling within paragraph (a) of the definition of “eligible councillor” in Schedule 1[^key-ec2dda9b4d2a246e5fe9b233d2f62774] | The local authority to which the eligible councillor is elected |
+| The Housing Ombudsman[^c-c121c3e5ed6ad4ee078d0f5566e74424] | The Housing Ombudsman but, where any decision by the Ombudsman in the capacity of Scheme employer affects the benefits to which the Ombudsman is or may be entitled, only if that decision has been confirmed in writing by the person who is chair of the Housing Ombudsman’s Audit and Risk Committee[^c-933999c81117071480dea1b8c6347bf8] |
+| An eligible councillor falling within paragraph (a) of the definition of “eligible councillor” in Schedule 1[^c-ec2dda9b4d2a246e5fe9b233d2f62774] | The local authority to which the eligible councillor is elected |
 | An eligible councillor falling within paragraph (b) or (f) of the definition of “eligible councillor” in Schedule 1 | The Combined Authority of which the eligible councillor is a member or committee member |
 | An eligible councillor falling within paragraph (c) or (g) of the definition of “eligible councillor” in Schedule 1 | The Combined County Authority of which the eligible councillor is a member or committee member |
 | An eligible councillor falling within paragraph (d) of the definition of “eligible councillor” in Schedule 1 | The Greater London Authority |
@@ -253,13 +253,13 @@ Regulation 3
 
 [^c21900991]: Marginal citation: [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37). There are amendments to section 86 which are not relevant.
 
-[^key-358a95db2d10dba8a67cb8b015031991]: Textual amendment: Sch. 2 Pt. 1 para. 24 substituted for Sch. 2 Pt. 1 paras. 24, 25 (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/regulation/1/2), [29](https://www.legislation.gov.uk/uksi/2015/755/regulation/29)
+[^c-358a95db2d10dba8a67cb8b015031991]: Textual amendment: Sch. 2 Pt. 1 para. 24 substituted for Sch. 2 Pt. 1 paras. 24, 25 (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/regulation/1/2), [29](https://www.legislation.gov.uk/uksi/2015/755/regulation/29)
 
-[^key-13c23c3106187d0192bf60b943d670c7]: Textual amendment: [Sch. 2 Pt. 1 paras. 25-28](https://www.legislation.gov.uk/uksi/2013/2356/schedule/2/part/1/paragraph/25) inserted (1.4.2023) by [The Local Government and Elections (Wales) Act 2021 (Corporate Joint Committees) (Consequential Amendments) Order 2023 (S.I. 2023/402)](https://www.legislation.gov.uk/uksi/2023/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/402/article/1/3), [7(2)](https://www.legislation.gov.uk/uksi/2023/402/article/7/2)
+[^c-13c23c3106187d0192bf60b943d670c7]: Textual amendment: [Sch. 2 Pt. 1 paras. 25-28](https://www.legislation.gov.uk/uksi/2013/2356/schedule/2/part/1/paragraph/25) inserted (1.4.2023) by [The Local Government and Elections (Wales) Act 2021 (Corporate Joint Committees) (Consequential Amendments) Order 2023 (S.I. 2023/402)](https://www.legislation.gov.uk/uksi/2023/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/402/article/1/3), [7(2)](https://www.legislation.gov.uk/uksi/2023/402/article/7/2)
 
-[^key-a092fdec5ede19075388ae8c58fc5094]: Textual amendment: [Sch. 2 Pt. 1 para. 29](https://www.legislation.gov.uk/uksi/2013/2356/schedule/2/part/1/paragraph/29) inserted (with effect from 28.2.2024) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/c), [33(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/33/a)
+[^c-a092fdec5ede19075388ae8c58fc5094]: Textual amendment: [Sch. 2 Pt. 1 para. 29](https://www.legislation.gov.uk/uksi/2013/2356/schedule/2/part/1/paragraph/29) inserted (with effect from 28.2.2024) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/c), [33(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/33/a)
 
-[^key-d65d5da8f6da1885eadb34e16dc09b86]: Textual amendment: [Sch. 2 Pt. 1 para. 30](https://www.legislation.gov.uk/uksi/2013/2356/schedule/2/part/1/paragraph/30) inserted (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2026/1011/article/8/4)
+[^c-d65d5da8f6da1885eadb34e16dc09b86]: Textual amendment: [Sch. 2 Pt. 1 para. 30](https://www.legislation.gov.uk/uksi/2013/2356/schedule/2/part/1/paragraph/30) inserted (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2026/1011/article/8/4)
 
 [^c21901001]: Marginal citation: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14).
 
@@ -267,21 +267,21 @@ Regulation 3
 
 [^c21901021]: Marginal citation: [1988 c. 40](https://www.legislation.gov.uk/ukpga/1988/40). Section 129 has been amended by the [Further and Higher Education Act 1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13); [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941); and the [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21).
 
-[^key-f8df096f40e01cc1bd2aced61126b955]: Textual amendment: Word in Sch. 2 Pt. 2 para. 5 substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [21(a)](https://www.legislation.gov.uk/uksi/2018/493/regulation/21/a)
+[^c-f8df096f40e01cc1bd2aced61126b955]: Textual amendment: Word in Sch. 2 Pt. 2 para. 5 substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [21(a)](https://www.legislation.gov.uk/uksi/2018/493/regulation/21/a)
 
 [^c21901031]: Marginal citation: [2007 c. 28](https://www.legislation.gov.uk/ukpga/2007/28). Section 212 was amended by the Police Reform and Social Responsibility Act 2011
 
-[^key-21b98f84d9a8b47aca5b66c5494cf396]: Textual amendment: Words in Sch. 2 Pt. 2 para. 6 substituted (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2015/755/regulation/30)
+[^c-21b98f84d9a8b47aca5b66c5494cf396]: Textual amendment: Words in Sch. 2 Pt. 2 para. 6 substituted (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2015/755/regulation/30)
 
-[^key-7c42080d9e4e0f8251fea37667f3e028]: Textual amendment: Word in [Sch. 2 Pt. 2 para. 6](https://www.legislation.gov.uk/uksi/2013/2356/schedule/2/part/2/paragraph/6) substituted (with effect from 28.2.2024) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/c), [33(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/33/b)
+[^c-7c42080d9e4e0f8251fea37667f3e028]: Textual amendment: Word in [Sch. 2 Pt. 2 para. 6](https://www.legislation.gov.uk/uksi/2013/2356/schedule/2/part/2/paragraph/6) substituted (with effect from 28.2.2024) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/c), [33(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/33/b)
 
 [^c21901041]: Marginal citation: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
 
-[^key-7fd553a91a666cd5aa9cf867daa131c5]: Textual amendment: Sch. 2 Pt. 2 para. 13A inserted (E.) (24.7.2018) by [The New Towns Act 1981 (Local Authority Oversight) Regulations 2018 (S.I. 2018/891)](https://www.legislation.gov.uk/uksi/2018/891), [reg. 1](https://www.legislation.gov.uk/uksi/2018/891/regulation/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2018/891/schedule/2/paragraph/2)
+[^c-7fd553a91a666cd5aa9cf867daa131c5]: Textual amendment: Sch. 2 Pt. 2 para. 13A inserted (E.) (24.7.2018) by [The New Towns Act 1981 (Local Authority Oversight) Regulations 2018 (S.I. 2018/891)](https://www.legislation.gov.uk/uksi/2018/891), [reg. 1](https://www.legislation.gov.uk/uksi/2018/891/regulation/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2018/891/schedule/2/paragraph/2)
 
-[^key-6b1af8d75903e6c8b714531b6be4029a]: Textual amendment: Sch. 2 Pt. 2 para. 14 inserted (1.6.2014) by [The Local Government Pension Scheme (Offender Management) (Amendment) Regulations 2014 (S.I. 2014/1146)](https://www.legislation.gov.uk/uksi/2014/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1146/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2014/1146/regulation/8)
+[^c-6b1af8d75903e6c8b714531b6be4029a]: Textual amendment: Sch. 2 Pt. 2 para. 14 inserted (1.6.2014) by [The Local Government Pension Scheme (Offender Management) (Amendment) Regulations 2014 (S.I. 2014/1146)](https://www.legislation.gov.uk/uksi/2014/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1146/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2014/1146/regulation/8)
 
-[^key-96642108bf56714d57a3e46e9991ef25]: Textual amendment: Sch. 2 Pt. 2 para. 15 inserted (1.4.2018) by [The Sub-national Transport Body (Transport for the North) Regulations 2018 (S.I. 2018/103)](https://www.legislation.gov.uk/uksi/2018/103), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/1/2), [19(6)(a)](https://www.legislation.gov.uk/uksi/2018/103/regulation/19/6/a)
+[^c-96642108bf56714d57a3e46e9991ef25]: Textual amendment: Sch. 2 Pt. 2 para. 15 inserted (1.4.2018) by [The Sub-national Transport Body (Transport for the North) Regulations 2018 (S.I. 2018/103)](https://www.legislation.gov.uk/uksi/2018/103), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/1/2), [19(6)(a)](https://www.legislation.gov.uk/uksi/2018/103/regulation/19/6/a)
 
 [^c21901051]: Marginal citation: [1999 c. 27](https://www.legislation.gov.uk/ukpga/1999/27); section 15 has been amended by the Local Government and Public Involvement in [Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28) and the Local Government (Wales) Measure 2009.
 
@@ -289,17 +289,17 @@ Regulation 3
 
 [^c21901071]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-f78a1bb704fde806e3926cfba790d13b]: Textual amendment: [Sch. 2 Pt. 3 para. 7(b)](https://www.legislation.gov.uk/uksi/2013/2356/schedule/2/part/3/paragraph/7/b) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 76](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/76) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f78a1bb704fde806e3926cfba790d13b]: Textual amendment: [Sch. 2 Pt. 3 para. 7(b)](https://www.legislation.gov.uk/uksi/2013/2356/schedule/2/part/3/paragraph/7/b) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 76](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/76) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21901091]: Marginal citation: There are amendments to paragraphs 12 and 15 of the Schedule which are not relevant to these Regulations.
 
-[^key-e0ba8bfcfd84a9e9dcdf0e9d11025e94]: Textual amendment: Sch. 2 Pt. 3 para. 8(d)(iii) and word inserted (1.6.2014) by [The Local Government Pension Scheme (Offender Management) (Amendment) Regulations 2014 (S.I. 2014/1146)](https://www.legislation.gov.uk/uksi/2014/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1146/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2014/1146/regulation/9)
+[^c-e0ba8bfcfd84a9e9dcdf0e9d11025e94]: Textual amendment: Sch. 2 Pt. 3 para. 8(d)(iii) and word inserted (1.6.2014) by [The Local Government Pension Scheme (Offender Management) (Amendment) Regulations 2014 (S.I. 2014/1146)](https://www.legislation.gov.uk/uksi/2014/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1146/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2014/1146/regulation/9)
 
-[^key-3d06dc2703bbc5cc9a1cd99b090a7dfb]: Textual amendment: [Sch. 2 Pt. 3 para. 11](https://www.legislation.gov.uk/uksi/2013/2356/schedule/2/part/3/paragraph/11) omitted (14.5.2018) by virtue of [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [21(b)(i)](https://www.legislation.gov.uk/uksi/2018/493/regulation/21/b/i)
+[^c-3d06dc2703bbc5cc9a1cd99b090a7dfb]: Textual amendment: [Sch. 2 Pt. 3 para. 11](https://www.legislation.gov.uk/uksi/2013/2356/schedule/2/part/3/paragraph/11) omitted (14.5.2018) by virtue of [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [21(b)(i)](https://www.legislation.gov.uk/uksi/2018/493/regulation/21/b/i)
 
-[^key-f4ccb344a9c4aeeac5152b971a9def1e]: Textual amendment: Sch. 2 Pt. 3 para. 14 added (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [21(b)(ii)](https://www.legislation.gov.uk/uksi/2018/493/regulation/21/b/ii)
+[^c-f4ccb344a9c4aeeac5152b971a9def1e]: Textual amendment: Sch. 2 Pt. 3 para. 14 added (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [21(b)(ii)](https://www.legislation.gov.uk/uksi/2018/493/regulation/21/b/ii)
 
-[^key-b6842a970332a63ea5781cc69b39c97d]: Modification: Sch. 2 Pt. 4 excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 2 para. 28(b)](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/28/b)
+[^c-b6842a970332a63ea5781cc69b39c97d]: Modification: Sch. 2 Pt. 4 excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 2 para. 28(b)](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/28/b)
 
 [^c21901101]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
@@ -309,8 +309,8 @@ Regulation 3
 
 [^c21901121]: Marginal citation: [1974 c. 7](https://www.legislation.gov.uk/ukpga/1974/7).
 
-[^key-c121c3e5ed6ad4ee078d0f5566e74424]: Textual amendment: Words in Sch. 2 Pt. 4 Table inserted (10.2.2014) by [The Local Government Pension Scheme (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/44)](https://www.legislation.gov.uk/uksi/2014/44), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/44/regulation/1/3), [10(a)](https://www.legislation.gov.uk/uksi/2014/44/regulation/10/a)
+[^c-c121c3e5ed6ad4ee078d0f5566e74424]: Textual amendment: Words in Sch. 2 Pt. 4 Table inserted (10.2.2014) by [The Local Government Pension Scheme (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/44)](https://www.legislation.gov.uk/uksi/2014/44), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/44/regulation/1/3), [10(a)](https://www.legislation.gov.uk/uksi/2014/44/regulation/10/a)
 
-[^key-933999c81117071480dea1b8c6347bf8]: Textual amendment: Words in Sch. 2 Pt. 4 Table inserted (10.2.2014) by [The Local Government Pension Scheme (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/44)](https://www.legislation.gov.uk/uksi/2014/44), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/44/regulation/1/3), [10(b)](https://www.legislation.gov.uk/uksi/2014/44/regulation/10/b)
+[^c-933999c81117071480dea1b8c6347bf8]: Textual amendment: Words in Sch. 2 Pt. 4 Table inserted (10.2.2014) by [The Local Government Pension Scheme (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/44)](https://www.legislation.gov.uk/uksi/2014/44), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/44/regulation/1/3), [10(b)](https://www.legislation.gov.uk/uksi/2014/44/regulation/10/b)
 
-[^key-ec2dda9b4d2a246e5fe9b233d2f62774]: Textual amendment: Words in [Sch. 2 Pt. 4](https://www.legislation.gov.uk/uksi/2013/2356/schedule/2/part/4) Table inserted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2026/346/regulation/5)
+[^c-ec2dda9b4d2a246e5fe9b233d2f62774]: Textual amendment: Words in [Sch. 2 Pt. 4](https://www.legislation.gov.uk/uksi/2013/2356/schedule/2/part/4) Table inserted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2026/346/regulation/5)

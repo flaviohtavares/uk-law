@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Pre-consolidation amendments relating to sentencing[^c24230951][^key-d62a7172a5d2f757fb049c784470428e]
+## 2. Pre-consolidation amendments relating to sentencing[^c24230951][^c-d62a7172a5d2f757fb049c784470428e]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ A “relevant restriction” is one by virtue of which legislation made in exerc
 
 [^c24230951]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2020/9/section/2) in force for specified purposes at Royal Assent, see. [s. 5(1)-(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/1)
 
-[^key-d62a7172a5d2f757fb049c784470428e]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2020/9/section/2) in force at 1.12.2020 in so far as not already in force immediately before "the consolidation date" by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-d62a7172a5d2f757fb049c784470428e]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2020/9/section/2) in force at 1.12.2020 in so far as not already in force immediately before "the consolidation date" by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

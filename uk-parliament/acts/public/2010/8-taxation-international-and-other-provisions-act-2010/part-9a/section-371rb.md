@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 371RB. Legal and economic control[^key-c192c3654c82f90868a79baeebadd82d][^key-629ada2c8a18d82affe2c0e203fa8e18]
+## 371RB. Legal and economic control[^c-c192c3654c82f90868a79baeebadd82d][^c-629ada2c8a18d82affe2c0e203fa8e18]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ P has the power to secure that the affairs of C are conducted in accordance with
 
 ## Annotations
 
-[^key-c192c3654c82f90868a79baeebadd82d]: Modification: S. 371RB applied by 2009 c. 4, s. 931E(4)(6) (as substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 31](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/31) (with [Sch. 20 para. 53](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/53)))
+[^c-c192c3654c82f90868a79baeebadd82d]: Modification: S. 371RB applied by 2009 c. 4, s. 931E(4)(6) (as substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 31](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/31) (with [Sch. 20 para. 53](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/53)))
 
-[^key-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))
+[^c-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))

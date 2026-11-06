@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Failure to comply with a notice[^key-a1fc1fa52fc91e2197c26987a0414f11]
+## 32. Failure to comply with a notice[^c-a1fc1fa52fc91e2197c26987a0414f11]
 
 *Extent: S*
 
@@ -28,7 +28,7 @@ summary: ''
 
 (4) Paragraph (1) does not affect any right of entry conferred by a warrant issued by a sheriff, a summary sheriff or a justice of the peace.
 
-(5) A plant health inspector may be accompanied by such [^key-2e6f72d1b5f393653ff9bd3cc91a6cde]... persons [^key-bd1e9fe04fcd46d7499f7289896dd31c]... and bring onto the premises such equipment and vehicles as the inspector considers necessary.
+(5) A plant health inspector may be accompanied by such [^c-2e6f72d1b5f393653ff9bd3cc91a6cde]... persons [^c-bd1e9fe04fcd46d7499f7289896dd31c]... and bring onto the premises such equipment and vehicles as the inspector considers necessary.
 
 (6) A person accompanying a plant health inspector under paragraph (5) may—
 
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a1fc1fa52fc91e2197c26987a0414f11]: Commencement: Reg. 32 in force at 14.12.2019, see reg. 1(1)
+[^c-a1fc1fa52fc91e2197c26987a0414f11]: Commencement: Reg. 32 in force at 14.12.2019, see reg. 1(1)
 
-[^key-2e6f72d1b5f393653ff9bd3cc91a6cde]: Textual amendment: Word in [reg. 32(5)](https://www.legislation.gov.uk/ssi/2019/421/regulation/32/5) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [19(3)(a)](https://www.legislation.gov.uk/ssi/2020/466/regulation/19/3/a) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-2e6f72d1b5f393653ff9bd3cc91a6cde]: Textual amendment: Word in [reg. 32(5)](https://www.legislation.gov.uk/ssi/2019/421/regulation/32/5) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [19(3)(a)](https://www.legislation.gov.uk/ssi/2020/466/regulation/19/3/a) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
 
-[^key-bd1e9fe04fcd46d7499f7289896dd31c]: Textual amendment: Words in [reg. 32(5)](https://www.legislation.gov.uk/ssi/2019/421/regulation/32/5) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [19(3)(b)](https://www.legislation.gov.uk/ssi/2020/466/regulation/19/3/b) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-bd1e9fe04fcd46d7499f7289896dd31c]: Textual amendment: Words in [reg. 32(5)](https://www.legislation.gov.uk/ssi/2019/421/regulation/32/5) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [19(3)(b)](https://www.legislation.gov.uk/ssi/2020/466/regulation/19/3/b) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))

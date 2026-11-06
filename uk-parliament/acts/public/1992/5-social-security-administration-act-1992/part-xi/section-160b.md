@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160B. Implementation of increases in employment and support allowance due to attainment of particular ages[^key-ab551882afa986686746978981ff21b5]
+## 160B. Implementation of increases in employment and support allowance due to attainment of particular ages[^c-ab551882afa986686746978981ff21b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) If, as a result of the recipient or other person reaching the qualifying age, the recipient becomes entitled to an employment and support allowance of an increased amount, the amount payable to or for him under the award shall, as from the day on which he becomes so entitled, be that increased amount, without any further decision of the Secretary of State; and the award shall have effect accordingly.
 
-(3) Subsection (2) does not apply where, in consequence of the recipient or other person reaching the qualifying age, a question arises in relation to the recipient's entitlement to—[^key-5bcf5dbd510621616eecd538b88e1a5c]
+(3) Subsection (2) does not apply where, in consequence of the recipient or other person reaching the qualifying age, a question arises in relation to the recipient's entitlement to—[^c-5bcf5dbd510621616eecd538b88e1a5c]
 
 - (a) a benefit under the Contributions and Benefits Act; or
 - (b) personal independence payment.
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ab551882afa986686746978981ff21b5]: Textual amendment: S. 160B inserted (27.10.2008) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/2), [Sch. 3 para. 10(24)](https://www.legislation.gov.uk/ukpga/2007/5/schedule/3/paragraph/10/24); [S.I. 2008/787](https://www.legislation.gov.uk/uksi/2008/787), [art. 2(4)(f)](https://www.legislation.gov.uk/uksi/2008/787/article/2/4/f)
+[^c-ab551882afa986686746978981ff21b5]: Textual amendment: S. 160B inserted (27.10.2008) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/2), [Sch. 3 para. 10(24)](https://www.legislation.gov.uk/ukpga/2007/5/schedule/3/paragraph/10/24); [S.I. 2008/787](https://www.legislation.gov.uk/uksi/2008/787), [art. 2(4)(f)](https://www.legislation.gov.uk/uksi/2008/787/article/2/4/f)
 
-[^key-5bcf5dbd510621616eecd538b88e1a5c]: Textual amendment: Words in [s. 160B(3)](https://www.legislation.gov.uk/ukpga/1992/5/section/160B/3/a) substituted (8.4.2013 for specified purposes, 10.6.2013 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 9 para. 24](https://www.legislation.gov.uk/ukpga/2012/5/schedule/9/paragraph/24); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 7(1)](https://www.legislation.gov.uk/uksi/2013/358/article/7/1)[(2)(k)](https://www.legislation.gov.uk/uksi/2013/358/article/7/2/k), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/358/schedule/3); [S.I. 2013/1250](https://www.legislation.gov.uk/uksi/2013/1250), [art. 2](https://www.legislation.gov.uk/uksi/2013/1250/article/2)
+[^c-5bcf5dbd510621616eecd538b88e1a5c]: Textual amendment: Words in [s. 160B(3)](https://www.legislation.gov.uk/ukpga/1992/5/section/160B/3/a) substituted (8.4.2013 for specified purposes, 10.6.2013 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 9 para. 24](https://www.legislation.gov.uk/ukpga/2012/5/schedule/9/paragraph/24); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 7(1)](https://www.legislation.gov.uk/uksi/2013/358/article/7/1)[(2)(k)](https://www.legislation.gov.uk/uksi/2013/358/article/7/2/k), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/358/schedule/3); [S.I. 2013/1250](https://www.legislation.gov.uk/uksi/2013/1250), [art. 2](https://www.legislation.gov.uk/uksi/2013/1250/article/2)

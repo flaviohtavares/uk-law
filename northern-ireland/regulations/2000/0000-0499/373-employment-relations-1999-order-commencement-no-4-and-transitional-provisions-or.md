@@ -37,7 +37,7 @@ Made
 
 The Department of Higher and Further Education, Training and Employment, in exercise of the powers conferred by Articles 1(2) and 39(3) of the Employment Relations (Northern Ireland) Order 1999[^f00001] and now vested in it[^f00002], and of every other power enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation and interpretation[^key-4d7e71ae3c37e59103f4b05b0cc80a1b]
+## 1. Citation and interpretation[^c-4d7e71ae3c37e59103f4b05b0cc80a1b]
 
 (1) This Order may be cited as the Employment Relations (1999 Order) (Commencement No. 4 and Transitional Provisions) Order (Northern Ireland) 2000.
 
@@ -47,7 +47,7 @@ The Department of Higher and Further Education, Training and Employment, in exer
 - “the 1996 Order” means the Employment Rights (Northern Ireland) Order 1996[^f00004];
 - “the 1999 Order” means the Employment Relations (Northern Ireland) Order 1999.
 
-## 2. Commencement[^key-eafe3811d36fb1a6e340bfa70eb15558]
+## 2. Commencement[^c-eafe3811d36fb1a6e340bfa70eb15558]
 
 The following provisions of the 1999 Order shall come into operation on 8th March 2001—
 
@@ -56,7 +56,7 @@ The following provisions of the 1999 Order shall come into operation on 8th Marc
 - (c) Article 8 (unfair dismissal connected with recognition: interim relief);
 - (d) Article 25 (proceedings of the Industrial Court).
 
-## 3. Transitional provisions[^key-6c4c47f9c24b76694c88bc12e5b355f2]
+## 3. Transitional provisions[^c-6c4c47f9c24b76694c88bc12e5b355f2]
 
 (1) In Schedule 1A to the 1995 Order, which is inserted by Schedule 1 to the 1999 Order—
 
@@ -73,7 +73,7 @@ The following provisions of the 1999 Order shall come into operation on 8th Marc
 - (a) when he does an act inconsistent with doing the failed act, or
 - (b) if he has done no such inconsistent act, when the period expires within which he might reasonably have been expected to do the failed act if it was to be done.
 
-**4.**[^key-28cf60a6bb0986d0186c61032a87229e] The amendments to Part XI of the 1996 Order made by Article 8 of the 1999 Order have effect in relation to an employee’s dismissal only where the effective date of termination (within the meaning of Article 129 of the 1996 Order) falls on or after 8th March 2001.
+**4.**[^c-28cf60a6bb0986d0186c61032a87229e] The amendments to Part XI of the 1996 Order made by Article 8 of the 1999 Order have effect in relation to an employee’s dismissal only where the effective date of termination (within the meaning of Article 129 of the 1996 Order) falls on or after 8th March 2001.
 
 Sealed with the Official Seal of the Department of Higher and Further Education, Training and Employment on 24th November 2000.
 
@@ -129,14 +129,14 @@ The following provisions of the Employment Relations (Northern Ireland) Order 19
 
 [^f00002]: Footnote: The Departments (Transfer and Assignment of Functions) Order (Northern Ireland) 1999 ([S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)) transferred functions under the Employment Relations (Northern Ireland) Order 1999 to the Department of Higher and Further Education, Training and Employment
 
-[^key-4d7e71ae3c37e59103f4b05b0cc80a1b]: Commencement: Art. 1 in operation at made date
+[^c-4d7e71ae3c37e59103f4b05b0cc80a1b]: Commencement: Art. 1 in operation at made date
 
 [^f00003]: Footnote: [S.I. 1995/1980 (N.I. 12)](https://www.legislation.gov.uk/nisi/1995/1980)
 
 [^f00004]: Footnote: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919)
 
-[^key-eafe3811d36fb1a6e340bfa70eb15558]: Commencement: Art. 2 in operation at made date
+[^c-eafe3811d36fb1a6e340bfa70eb15558]: Commencement: Art. 2 in operation at made date
 
-[^key-6c4c47f9c24b76694c88bc12e5b355f2]: Commencement: Art. 3 in operation at made date
+[^c-6c4c47f9c24b76694c88bc12e5b355f2]: Commencement: Art. 3 in operation at made date
 
-[^key-28cf60a6bb0986d0186c61032a87229e]: Commencement: Art. 4 in operation at made date
+[^c-28cf60a6bb0986d0186c61032a87229e]: Commencement: Art. 4 in operation at made date

@@ -56,12 +56,12 @@ The Interpretation Act (Northern Ireland) 1954[^c17014721] shall apply to Articl
   - (i) would be suﬃcient for the person charged to be committed for trial; and
   - (ii) reveals a case of fraud of such seriousness or complexity[^c21381191] that it is appropriate that the management of the case should without delay be taken over by the Crown Court; and
 - (c) before the magistrates' court in whose jurisdiction the oﬀence has been committed—
-  - (i)[^key-e8f895436f86cf535679ec458c3ae74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-e8f895436f86cf535679ec458c3ae74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) has begun to conduct a preliminary inquiry,
 
   the authority or one of the authority's oﬃcers acting on the authority's behalf gives the court a notice (in this Order referred to as a notice of transfer ) certifying that opinion,
 
-the functions of the magistrates' court shall cease in relation to the case, except as provided by Article 4(3) and (6) of this Order and by any regulations under Article 26(3) of the Access to Justice (Northern Ireland) Order 2003[^key-9d09cf6f7a4ee2693985475f7998c322] .
+the functions of the magistrates' court shall cease in relation to the case, except as provided by Article 4(3) and (6) of this Order and by any regulations under Article 26(3) of the Access to Justice (Northern Ireland) Order 2003[^c-9d09cf6f7a4ee2693985475f7998c322] .
 
 (2) The authorities mentioned in paragraph (1) (in this Order referred to as designated authorities ) are—
 
@@ -324,7 +324,7 @@ at the conclusion of the trial of the accused or of the last of the accused to b
 - (e) the names of counsel and solicitors in the proceedings;
 - (f) where the proceedings are adjourned, the date and place to which they are adjourned;
 - (g) any arrangements as to bail;
-- (h)[^key-7fb3560003b2ae2daf9741460779bc79] whether a right to representation funded by the Department of Justice was granted to the accused or any of the accused under the Access to Justice (Northern Ireland) Order 2003.
+- (h)[^c-7fb3560003b2ae2daf9741460779bc79] whether a right to representation funded by the Department of Justice was granted to the accused or any of the accused under the Access to Justice (Northern Ireland) Order 2003.
 
 (13) The addresses that may be published or included in a relevant programme under paragraph (12) are addresses—
 
@@ -398,9 +398,9 @@ the fact that it will do so shall not preclude a charge of conspiracy to defraud
 
 [^c21381191]: Textual amendment: Words in art. 3(1)(b)(ii) substituted (4.7.1996 with application as mentioned in [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/1996/25/schedule/3/paragraph/8) of the amending Act) by [Criminal Procedure and Investigations Act 1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), [s. 72](https://www.legislation.gov.uk/ukpga/1996/25/section/72), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/1996/25/schedule/3/paragraph/2) (as modified in its application to Northern Ireland by Sch. 4 para. 35)
 
-[^key-e8f895436f86cf535679ec458c3ae74f]: Textual amendment: [Art. 3(1)(c)(i)](https://www.legislation.gov.uk/nisi/1988/1846/article/3/1/c/i) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 10](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/10); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-e8f895436f86cf535679ec458c3ae74f]: Textual amendment: [Art. 3(1)(c)(i)](https://www.legislation.gov.uk/nisi/1988/1846/article/3/1/c/i) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 10](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/10); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
-[^key-9d09cf6f7a4ee2693985475f7998c322]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/nisi/1988/1846/article/3/1) substituted (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/nisi/2003/435), [art. 49(1)](https://www.legislation.gov.uk/nisi/2003/435/article/49/1), [Sch. 4 para. 9(2)](https://www.legislation.gov.uk/nisi/2003/435/schedule/4/paragraph/9/2); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
+[^c-9d09cf6f7a4ee2693985475f7998c322]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/nisi/1988/1846/article/3/1) substituted (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/nisi/2003/435), [art. 49(1)](https://www.legislation.gov.uk/nisi/2003/435/article/49/1), [Sch. 4 para. 9(2)](https://www.legislation.gov.uk/nisi/2003/435/schedule/4/paragraph/9/2); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
 
 [^c17014761]: Textual amendment: [1978 c. 23](https://www.legislation.gov.uk/ukpga/1978/23)
 
@@ -464,7 +464,7 @@ the fact that it will do so shall not preclude a charge of conspiracy to defraud
 
 [^c21385821]: Textual amendment: Words in art. 10(8) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 40(4)](https://www.legislation.gov.uk/ukpga/2005/4/section/40/4), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 51(c)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/51/c); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(a)(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/a/d)
 
-[^key-7fb3560003b2ae2daf9741460779bc79]: Textual amendment: By [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/nisi/2003/435), [art. 49(1)](https://www.legislation.gov.uk/nisi/2003/435/article/49/1), [Sch. 4 para. 9(3)](https://www.legislation.gov.uk/nisi/2003/435/schedule/4/paragraph/9/3) (as amended (18.11.2014) by Legal Aid and Coroners’ Courts Act (Northern Ireland) 2014 (c. 11), Sch. 2 para 6(43)(a)(vi)); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3)) it is provided that "In Article 10(9) (restrictions on reporting), substitute sub-paragraph (h)" (1.4.2015)
+[^c-7fb3560003b2ae2daf9741460779bc79]: Textual amendment: By [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/nisi/2003/435), [art. 49(1)](https://www.legislation.gov.uk/nisi/2003/435/article/49/1), [Sch. 4 para. 9(3)](https://www.legislation.gov.uk/nisi/2003/435/schedule/4/paragraph/9/3) (as amended (18.11.2014) by Legal Aid and Coroners’ Courts Act (Northern Ireland) 2014 (c. 11), Sch. 2 para 6(43)(a)(vi)); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3)) it is provided that "In Article 10(9) (restrictions on reporting), substitute sub-paragraph (h)" (1.4.2015)
 
 [^c21385671]: Textual amendment: [Arts. 10](https://www.legislation.gov.uk/nisi/1988/1846/article/10), [10A](https://www.legislation.gov.uk/nisi/1988/1846/article/10A) substituted (4.7.1996 with application as mentioned in [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/1996/25/schedule/3/paragraph/8) of the amending Act) for art. 10 by [Criminal Procedure and Investigations Act 1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), [s. 72](https://www.legislation.gov.uk/ukpga/1996/25/section/72), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/1996/25/schedule/3/paragraph/7) (as modified in its application to Northern Ireland by Sch. 4 para. 35)
 

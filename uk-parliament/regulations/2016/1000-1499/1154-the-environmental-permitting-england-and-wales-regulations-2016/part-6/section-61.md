@@ -29,7 +29,7 @@ summary: ''
 
 (3) For the purposes of this regulation the discharge by the appropriate authority of—
 
-- (a) an obligation under[^key-1f7b4ba188642d532b1c727542505373] assimilated[^key-2bc8bc868fe45bf2cc4ceb37c0933d7f] law, or
+- (a) an obligation under[^c-1f7b4ba188642d532b1c727542505373] assimilated[^c-2bc8bc868fe45bf2cc4ceb37c0933d7f] law, or
 - (b) an international obligation of the United Kingdom,
 
 must be treated as a function of the authority under these Regulations.
@@ -38,6 +38,6 @@ must be treated as a function of the authority under these Regulations.
 
 ## Annotations
 
-[^key-1f7b4ba188642d532b1c727542505373]: Textual amendment: Words in [reg. 61(3)(a)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/61/3/a) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1f7b4ba188642d532b1c727542505373]: Textual amendment: Words in [reg. 61(3)(a)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/61/3/a) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2bc8bc868fe45bf2cc4ceb37c0933d7f]: Textual amendment: Word in [reg. 61(3)(a)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/61/3/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 38(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/38/b)
+[^c-2bc8bc868fe45bf2cc4ceb37c0933d7f]: Textual amendment: Word in [reg. 61(3)(a)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/61/3/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 38(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/38/b)

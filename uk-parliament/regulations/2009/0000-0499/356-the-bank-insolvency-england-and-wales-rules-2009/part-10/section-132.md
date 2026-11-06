@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 132. Dealings by committee–members and others[^key-0be2748cdc87a7ebc70977398db8c4f3]
+## 132. Dealings by committee–members and others[^c-0be2748cdc87a7ebc70977398db8c4f3]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.170 of the 1986 Rules[^f00055].
 
 ## Annotations
 
-[^key-0be2748cdc87a7ebc70977398db8c4f3]: Commencement: Rule 132 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-0be2748cdc87a7ebc70977398db8c4f3]: Commencement: Rule 132 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00055]: Footnote: Paragraphs (2) and (7) were amended by [S.I. 2008/737](https://www.legislation.gov.uk/uksi/2008/737).

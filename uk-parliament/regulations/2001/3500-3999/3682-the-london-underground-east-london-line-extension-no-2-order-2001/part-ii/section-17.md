@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Planning permission: supplementary matters[^key-a6e9fd86dc2544fa3bf3b5d1bf2ac774]
+## 17. Planning permission: supplementary matters[^c-a6e9fd86dc2544fa3bf3b5d1bf2ac774]
 
 *Extent: E+W+S*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a6e9fd86dc2544fa3bf3b5d1bf2ac774]: Commencement: Art. 17 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-a6e9fd86dc2544fa3bf3b5d1bf2ac774]: Commencement: Art. 17 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
 
 [^f00016]: Footnote: S.I. [1969/17](https://www.legislation.gov.uk/uksi/1969/17).
 

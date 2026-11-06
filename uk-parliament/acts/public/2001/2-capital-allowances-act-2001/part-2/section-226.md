@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 226. Qualifying expenditure limited in subsequent transactions[^key-001f6e7462526347c4c0e012848246e7]
+## 226. Qualifying expenditure limited in subsequent transactions[^c-001f6e7462526347c4c0e012848246e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-001f6e7462526347c4c0e012848246e7]: Textual amendment: S. 226 omitted (with effect in accordance with Sch. 20 para. 6(19) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 20 para. 6(12)(d)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/6/12/d)
+[^c-001f6e7462526347c4c0e012848246e7]: Textual amendment: S. 226 omitted (with effect in accordance with Sch. 20 para. 6(19) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 20 para. 6(12)(d)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/6/12/d)

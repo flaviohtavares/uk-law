@@ -31,7 +31,7 @@ summary: ''
 
 CIVIL AVIATION
 
-The Rules of the Air (Amendment) Regulations 2007 (revoked)[^key-78f6b2efb98561bfb0aa276373578013]
+The Rules of the Air (Amendment) Regulations 2007 (revoked)[^c-78f6b2efb98561bfb0aa276373578013]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into force
 
 31st May 2007
 
-[^key-78f6b2efb98561bfb0aa276373578013]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-78f6b2efb98561bfb0aa276373578013]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-78f6b2efb98561bfb0aa276373578013] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-78f6b2efb98561bfb0aa276373578013] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-78f6b2efb98561bfb0aa276373578013] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-78f6b2efb98561bfb0aa276373578013] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-78f6b2efb98561bfb0aa276373578013] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-78f6b2efb98561bfb0aa276373578013] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-78f6b2efb98561bfb0aa276373578013]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-78f6b2efb98561bfb0aa276373578013]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-78f6b2efb98561bfb0aa276373578013]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-78f6b2efb98561bfb0aa276373578013]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-78f6b2efb98561bfb0aa276373578013]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2007/1371) revoked (30.4.2015) by [The Rules of the Air Regulations 2015 (S.I. 2015/840)](https://www.legislation.gov.uk/uksi/2015/840), [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/840/schedule/2)
+[^c-78f6b2efb98561bfb0aa276373578013]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2007/1371) revoked (30.4.2015) by [The Rules of the Air Regulations 2015 (S.I. 2015/840)](https://www.legislation.gov.uk/uksi/2015/840), [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/840/schedule/2)

@@ -34,7 +34,7 @@ TRANSPORT
 
 RAILWAYS
 
-The Railways (Interoperability) Regulations 2006 (revoked)[^key-adbae295fdffc67d2bec56f123f909be]
+The Railways (Interoperability) Regulations 2006 (revoked)[^c-adbae295fdffc67d2bec56f123f909be]
 
 Made
 
@@ -46,11 +46,11 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1
 
-[^key-adbae295fdffc67d2bec56f123f909be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-adbae295fdffc67d2bec56f123f909be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Interpretation and Application[^key-adbae295fdffc67d2bec56f123f909be]
+### PART 1 — Interpretation and Application[^c-adbae295fdffc67d2bec56f123f909be]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,7 +60,7 @@ Coming into force in accordance with regulation 1
 - [Section 2 — Interpretation](part-1/section-2.md)
 - [Section 3 — Application](part-1/section-3.md)
 
-### PART 2 — Subsystems[^key-adbae295fdffc67d2bec56f123f909be]
+### PART 2 — Subsystems[^c-adbae295fdffc67d2bec56f123f909be]
 
 *Extent: E+W+S+N.I.*
 
@@ -81,7 +81,7 @@ Coming into force in accordance with regulation 1
 - [Section 14 — Fees payable to the Competent Authority](part-2/section-14.md)
 - [Section 15 — Transitional conventional TEN projects and renewal projects on the high-speed rail system](part-2/section-15.md)
 
-### PART 3 — Interoperability Constituents[^key-adbae295fdffc67d2bec56f123f909be]
+### PART 3 — Interoperability Constituents[^c-adbae295fdffc67d2bec56f123f909be]
 
 *Extent: E+W+S+N.I.*
 
@@ -96,7 +96,7 @@ Coming into force in accordance with regulation 1
 - [Section 22 — Recognition of assessments of other Member States](part-3/section-22.md)
 - [Section 23 — Notification to the Commission of incorrect declaration](part-3/section-23.md)
 
-### PART 4 — Notified Bodies[^key-adbae295fdffc67d2bec56f123f909be]
+### PART 4 — Notified Bodies[^c-adbae295fdffc67d2bec56f123f909be]
 
 *Extent: E+W+S+N.I.*
 
@@ -110,7 +110,7 @@ Coming into force in accordance with regulation 1
 - [Section 29 — Fees of notified bodies](part-4/section-29.md)
 - [Section 30 — Fees of the Secretary of State](part-4/section-30.md)
 
-### PART 5 — Registers[^key-adbae295fdffc67d2bec56f123f909be]
+### PART 5 — Registers[^c-adbae295fdffc67d2bec56f123f909be]
 
 *Extent: E+W+S+N.I.*
 
@@ -120,7 +120,7 @@ Coming into force in accordance with regulation 1
 - [Section 32 — Publication and notification of registers](part-5/section-32.md)
 - [Section 33 — National vehicle register](part-5/section-33.md)
 
-### PART 6 — Enforcement[^key-adbae295fdffc67d2bec56f123f909be]
+### PART 6 — Enforcement[^c-adbae295fdffc67d2bec56f123f909be]
 
 *Extent: E+W+S+N.I.*
 
@@ -133,7 +133,7 @@ Coming into force in accordance with regulation 1
 - [Section 38 — Defence of due diligence](part-6/section-38.md)
 - [Section 39 — Liability of persons other than the principal offender](part-6/section-39.md)
 
-### PART 7 — Supplementary[^key-adbae295fdffc67d2bec56f123f909be]
+### PART 7 — Supplementary[^c-adbae295fdffc67d2bec56f123f909be]
 
 *Extent: E+W+S+N.I.*
 
@@ -157,14 +157,14 @@ Coming into force in accordance with regulation 1
 
 **No longer in force.**
 
-[^key-adbae295fdffc67d2bec56f123f909be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-adbae295fdffc67d2bec56f123f909be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-adbae295fdffc67d2bec56f123f909be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-adbae295fdffc67d2bec56f123f909be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-adbae295fdffc67d2bec56f123f909be]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2006/397) revoked (16.1.2012) by [The Railways (Interoperability) Regulations 2011 (S.I. 2011/3066)](https://www.legislation.gov.uk/uksi/2011/3066), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/1/2), [47(1)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/47/1) (with [regs. 3](https://www.legislation.gov.uk/uksi/2011/3066/regulation/3), [47(2)-(6)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/47/2))
+[^c-adbae295fdffc67d2bec56f123f909be]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2006/397) revoked (16.1.2012) by [The Railways (Interoperability) Regulations 2011 (S.I. 2011/3066)](https://www.legislation.gov.uk/uksi/2011/3066), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/1/2), [47(1)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/47/1) (with [regs. 3](https://www.legislation.gov.uk/uksi/2011/3066/regulation/3), [47(2)-(6)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/47/2))

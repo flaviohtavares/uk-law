@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Definitions of protected relationships[^key-0a6c811259c0f2697e9b3181be9604ba]
+## 47. Definitions of protected relationships[^c-0a6c811259c0f2697e9b3181be9604ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0a6c811259c0f2697e9b3181be9604ba]: Commencement: Reg. 47 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-0a6c811259c0f2697e9b3181be9604ba]: Commencement: Reg. 47 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00066]: Footnote: The definitions of “protected civil partnership” and “protected marriage” were inserted (with UK extent and with effect from 10.12.2014) by Part 1 of Schedule 5 to the Marriage (Same Sex Couples) Act 2013. Section 25, as it extends to Scotland, was renumbered (with effect from 16.12.2014) as section 25(1) by the Marriage and Civil Partnership (Scotland) Act [2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5). The definition of “protected civil partnership”, as it extends to England & Wales, is amended by [S.I. 2019/1458](https://www.legislation.gov.uk/uksi/2019/1458).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 13 — LAND OF WHICH ONLY TEMPORARY POSSESSION MAY BE TAKEN[^key-9dfc312c2e703dd051b1ba55ec4c2d11]
+## SCHEDULE 13 — LAND OF WHICH ONLY TEMPORARY POSSESSION MAY BE TAKEN[^c-9dfc312c2e703dd051b1ba55ec4c2d11]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ Article 31
 
 ## Annotations
 
-[^key-9dfc312c2e703dd051b1ba55ec4c2d11]: Commencement: Sch. 13 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-9dfc312c2e703dd051b1ba55ec4c2d11]: Commencement: Sch. 13 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)

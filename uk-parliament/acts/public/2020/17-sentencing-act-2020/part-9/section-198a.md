@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198A. Electronic monitoring requirement previously imposed[^key-17d902c013bd265901773cba930b8245]
+## 198A. Electronic monitoring requirement previously imposed[^c-17d902c013bd265901773cba930b8245]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17d902c013bd265901773cba930b8245]: Textual amendment: [S. 198A](https://www.legislation.gov.uk/ukpga/2020/17/section/198A) inserted (28.4.2022 for specified purposes, 3.7.2023 in relation to specified areas until 3.1.2025) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 161](https://www.legislation.gov.uk/ukpga/2022/32/section/161), [208(4)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/r), [Sch. 17 para. 8](https://www.legislation.gov.uk/ukpga/2022/32/schedule/17/paragraph/8); [S.I. 2023/705](https://www.legislation.gov.uk/uksi/2023/705), [regs. 2](https://www.legislation.gov.uk/uksi/2023/705/regulation/2), [3](https://www.legislation.gov.uk/uksi/2023/705/regulation/3), [4(1)](https://www.legislation.gov.uk/uksi/2023/705/regulation/4/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/705/schedule) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2023/705/regulation/4/2))
+[^c-17d902c013bd265901773cba930b8245]: Textual amendment: [S. 198A](https://www.legislation.gov.uk/ukpga/2020/17/section/198A) inserted (28.4.2022 for specified purposes, 3.7.2023 in relation to specified areas until 3.1.2025) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 161](https://www.legislation.gov.uk/ukpga/2022/32/section/161), [208(4)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/r), [Sch. 17 para. 8](https://www.legislation.gov.uk/ukpga/2022/32/schedule/17/paragraph/8); [S.I. 2023/705](https://www.legislation.gov.uk/uksi/2023/705), [regs. 2](https://www.legislation.gov.uk/uksi/2023/705/regulation/2), [3](https://www.legislation.gov.uk/uksi/2023/705/regulation/3), [4(1)](https://www.legislation.gov.uk/uksi/2023/705/regulation/4/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/705/schedule) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2023/705/regulation/4/2))

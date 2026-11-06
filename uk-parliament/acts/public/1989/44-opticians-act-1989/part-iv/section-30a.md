@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30A. Legal proceedings[^key-066d6c5a9f2c4d4539256402487f10d1]
+## 30A. Legal proceedings[^c-066d6c5a9f2c4d4539256402487f10d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-066d6c5a9f2c4d4539256402487f10d1]: Textual amendment: S. 30A inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 21(3)](https://www.legislation.gov.uk/uksi/2005/848/article/21/3) (with [art. 21(4)](https://www.legislation.gov.uk/uksi/2005/848/article/21/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-066d6c5a9f2c4d4539256402487f10d1]: Textual amendment: S. 30A inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 21(3)](https://www.legislation.gov.uk/uksi/2005/848/article/21/3) (with [art. 21(4)](https://www.legislation.gov.uk/uksi/2005/848/article/21/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))

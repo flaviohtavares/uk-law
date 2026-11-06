@@ -46,35 +46,35 @@ The Commissioners of Customs and Excise, in exercise of the powers conferred upo
 
 ## PART I — PRELIMINARY
 
-### 1. Citation and commencement[^key-f6000171df6deb7349ffd2da7befaabf]
+### 1. Citation and commencement[^c-f6000171df6deb7349ffd2da7befaabf]
 
 These Regulations may be cited as the Gaming Duty Regulations 1997 and shall come into force on 1st October 1997.
 
-### 2. Interpretation[^key-35c18cdf6914e0e66275977c180ec443]
+### 2. Interpretation[^c-35c18cdf6914e0e66275977c180ec443]
 
 In these Regulations—
 
 - “the Act” means the Finance Act 1997;
 - “duty” means gaming duty;
 - “gross gaming yield” has the meaning given in section 11(8) of the Act;
-- [^key-5862658ed4f483ee42045ce27e159c52]...
+- [^c-5862658ed4f483ee42045ce27e159c52]...
 - “registered provider” means a person who is, in accordance with section 12(2) of the Act, presumed to be the provider of premises.
 
 ## PART II — PAYMENTS ON ACCOUNT
 
-### 3. Application of Part II[^key-2565c34d5eae2a3d9dbe2e669e06f826]
+### 3. Application of Part II[^c-2565c34d5eae2a3d9dbe2e669e06f826]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. The obligation to make payments on account[^key-2565c34d5eae2a3d9dbe2e669e06f826]
+### 4. The obligation to make payments on account[^c-2565c34d5eae2a3d9dbe2e669e06f826]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. The amount[^key-2565c34d5eae2a3d9dbe2e669e06f826]
+### 5. The amount[^c-2565c34d5eae2a3d9dbe2e669e06f826]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Gaming that does not take place throughout a quarter[^key-2565c34d5eae2a3d9dbe2e669e06f826]
+### 6. Gaming that does not take place throughout a quarter[^c-2565c34d5eae2a3d9dbe2e669e06f826]
 
 **No longer in force.**
 
@@ -82,13 +82,13 @@ In these Regulations—
 
 ## PART III — GAMING THAT DOES NOT TAKE PLACE THROUGHOUT ANACCOUNTING PERIOD
 
-### 7. Application of Part III[^key-b22531972bf20e1ffee8b917e52bc1a2]
+### 7. Application of Part III[^c-b22531972bf20e1ffee8b917e52bc1a2]
 
 (1) This Part of these Regulations applies where dutiable gaming takes place on any premises during an accounting period but that gaming does not take place throughout that period.
 
 (2) This Part of these Regulations does not apply to any case where section 11(3) of the Act applies.
 
-### 8. The duration of the dutiable gaming[^key-9e49786da21c949d8ad5a632dbf1bc9e]
+### 8. The duration of the dutiable gaming[^c-9e49786da21c949d8ad5a632dbf1bc9e]
 
 (1) In any accounting period the duration of the dutiable gaming shall be treated as being the number of days from the first day on which dutiable-gaming took place in that period until the last day on which it took place, including both the first day and last day.
 
@@ -100,17 +100,17 @@ In these Regulations—
 
 (5) If the dutiable gaming ceased at any time between midnight and four o'clock in the morning of the last day on which it actually took place it shall be treated as having ceased on the day before that day.
 
-### 9. The amount[^key-d3aeecf78f3ddb1f55ccdc254d3f46e7]
+### 9. The amount[^c-d3aeecf78f3ddb1f55ccdc254d3f46e7]
 
 For the purpose of determining the amount of duty which is to be charged on the premises each of the parts of the gross gaming yield specified in the first column of the Table in section 11 of the Act, other than the last, shall be reduced by multiplying that part by the duration of the dutiable gaming (determined in accordance with regulation 8 above) and dividing the result by the number of days in the accounting period.
 
 ## PART IV — APPORTIONING THE LIABILITY FOR DUTY
 
-### 10. Application of Part IV[^key-6f487ee0ed1c04f120188164aea173b0]
+### 10. Application of Part IV[^c-6f487ee0ed1c04f120188164aea173b0]
 
 This Part of these Regulations applies where during an accounting period the registered provider of any premises changes.
 
-### 11. The apportionment[^key-470fbb7c3fd2ee3a6c76acca73a74209]
+### 11. The apportionment[^c-470fbb7c3fd2ee3a6c76acca73a74209]
 
 (1) For any accounting period each registered provider—
 
@@ -121,11 +121,11 @@ This Part of these Regulations applies where during an accounting period the reg
 
 ## PART V — DIRECTIONS
 
-### 12. Directions as to the making of returns[^key-e1241be6e28fee712cff3c70914ab5a8]
+### 12. Directions as to the making of returns[^c-e1241be6e28fee712cff3c70914ab5a8]
 
 The Commissioners shall give directions under paragraph 10 of Schedule 1 to the Act in a notice published by them and not withdrawn by a further notice.
 
-### 13. Directions concerning premises[^key-409040909e015987b0c596d441e44640]
+### 13. Directions concerning premises[^c-409040909e015987b0c596d441e44640]
 
 (1) This regulation applies to any direction given under section 11(6) of the Act.
 
@@ -159,24 +159,24 @@ These Regulations, which come into force on 1st October 1997, provide the detail
 
 [^f00001]: Footnote: [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16); section 10 defines “gaming duty”; section 15(2) provides for sections 10 to 14 and Schedule 1 to be construed as one with the Customs and Excise Management Act [1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2) and section 1(1) of that Act defines “the Commissioners”; section 15(3) defines “accounting period”, “dutiable gaming”, “gaming duty register”, “premises” and “provider”.
 
-[^key-f6000171df6deb7349ffd2da7befaabf]: Commencement: Reg. 1 in force at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2196/regulation/1)
+[^c-f6000171df6deb7349ffd2da7befaabf]: Commencement: Reg. 1 in force at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2196/regulation/1)
 
-[^key-35c18cdf6914e0e66275977c180ec443]: Commencement: Reg. 2 in force at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2196/regulation/1)
+[^c-35c18cdf6914e0e66275977c180ec443]: Commencement: Reg. 2 in force at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2196/regulation/1)
 
-[^key-5862658ed4f483ee42045ce27e159c52]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1997/2196/regulation/2) omitted (1.10.2019) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 19 paras. 6(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/6/2), [7](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/7)
+[^c-5862658ed4f483ee42045ce27e159c52]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1997/2196/regulation/2) omitted (1.10.2019) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 19 paras. 6(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/6/2), [7](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/7)
 
-[^key-2565c34d5eae2a3d9dbe2e669e06f826]: Textual amendment: [Regs. 3-6](https://www.legislation.gov.uk/uksi/1997/2196/regulation/3) omitted (1.10.2019) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 19 paras. 6(3)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/6/3), [7](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/7)
+[^c-2565c34d5eae2a3d9dbe2e669e06f826]: Textual amendment: [Regs. 3-6](https://www.legislation.gov.uk/uksi/1997/2196/regulation/3) omitted (1.10.2019) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 19 paras. 6(3)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/6/3), [7](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/7)
 
-[^key-b22531972bf20e1ffee8b917e52bc1a2]: Commencement: Reg. 7 in force at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2196/regulation/1)
+[^c-b22531972bf20e1ffee8b917e52bc1a2]: Commencement: Reg. 7 in force at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2196/regulation/1)
 
-[^key-9e49786da21c949d8ad5a632dbf1bc9e]: Commencement: Reg. 8 in force at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2196/regulation/1)
+[^c-9e49786da21c949d8ad5a632dbf1bc9e]: Commencement: Reg. 8 in force at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2196/regulation/1)
 
-[^key-d3aeecf78f3ddb1f55ccdc254d3f46e7]: Commencement: Reg. 9 in force at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2196/regulation/1)
+[^c-d3aeecf78f3ddb1f55ccdc254d3f46e7]: Commencement: Reg. 9 in force at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2196/regulation/1)
 
-[^key-6f487ee0ed1c04f120188164aea173b0]: Commencement: Reg. 10 in force at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2196/regulation/1)
+[^c-6f487ee0ed1c04f120188164aea173b0]: Commencement: Reg. 10 in force at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2196/regulation/1)
 
-[^key-470fbb7c3fd2ee3a6c76acca73a74209]: Commencement: Reg. 11 in force at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2196/regulation/1)
+[^c-470fbb7c3fd2ee3a6c76acca73a74209]: Commencement: Reg. 11 in force at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2196/regulation/1)
 
-[^key-e1241be6e28fee712cff3c70914ab5a8]: Commencement: Reg. 12 in force at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2196/regulation/1)
+[^c-e1241be6e28fee712cff3c70914ab5a8]: Commencement: Reg. 12 in force at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2196/regulation/1)
 
-[^key-409040909e015987b0c596d441e44640]: Commencement: Reg. 13 in force at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2196/regulation/1)
+[^c-409040909e015987b0c596d441e44640]: Commencement: Reg. 13 in force at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2196/regulation/1)

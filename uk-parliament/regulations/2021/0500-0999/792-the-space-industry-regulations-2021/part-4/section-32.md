@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Prescribed requirements for risk assessment[^key-8e725bb87d77119120251e038500e4b7]
+## 32. Prescribed requirements for risk assessment[^c-8e725bb87d77119120251e038500e4b7]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e725bb87d77119120251e038500e4b7]: Commencement: Reg. 32 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-8e725bb87d77119120251e038500e4b7]: Commencement: Reg. 32 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

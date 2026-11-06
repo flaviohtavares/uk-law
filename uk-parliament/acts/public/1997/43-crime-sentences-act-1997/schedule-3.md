@@ -130,30 +130,30 @@ Section 48.
 
 *Extent: E+W+S*
 
-**6.**[^key-f3e8a296c86e913974a79ff5cd9bc678] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-f3e8a296c86e913974a79ff5cd9bc678] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Transfers from Scotland to Northern Ireland
 
-**7.**[^key-f3e8a296c86e913974a79ff5cd9bc678] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-f3e8a296c86e913974a79ff5cd9bc678] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Transfers from Northern Ireland to Scotland
 
-**8.**[^key-f3e8a296c86e913974a79ff5cd9bc678] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-f3e8a296c86e913974a79ff5cd9bc678] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Transfers from the Islands to Scotland
 
 *Extent: E+W+S*
 
-**9.**[^key-f3e8a296c86e913974a79ff5cd9bc678] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-f3e8a296c86e913974a79ff5cd9bc678] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Transfers from Scotland to the Islands
 
 *Extent: E+W+S*
 
-**10.**[^key-f3e8a296c86e913974a79ff5cd9bc678] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-f3e8a296c86e913974a79ff5cd9bc678] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c11470251]: Marginal citation: [S.I. 1986/596 (N.I.4)](https://www.legislation.gov.uk/nisi/1986/596).
 
-[^key-f3e8a296c86e913974a79ff5cd9bc678]: Textual amendment: Sch. 3 paras. 6-10 repealed (S.) (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [s. 333(2)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [sch. 5 Pt. 1](https://www.legislation.gov.uk/asp/2003/13/schedule/5/part/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-f3e8a296c86e913974a79ff5cd9bc678]: Textual amendment: Sch. 3 paras. 6-10 repealed (S.) (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [s. 333(2)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [sch. 5 Pt. 1](https://www.legislation.gov.uk/asp/2003/13/schedule/5/part/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

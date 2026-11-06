@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 188DC. Unused part of the surrenderable amounts[^key-6d828abb36a8900141e4aabfad343f1c][^key-5f4b4ffe3f8c46c0f1df33d946de3a27]
+## 188DC. Unused part of the surrenderable amounts[^c-6d828abb36a8900141e4aabfad343f1c][^c-5f4b4ffe3f8c46c0f1df33d946de3a27]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ The amount of prior surrenders for the overlapping period is the total of the pr
 
 - (a) it is either—
   - (i) a claim under section 188CB by any company which relates to the same amounts as the current claim, or
-  - (ii)[^key-ad931ca9136775d9747e8724f99bcbf2] a claim under section 188CC by any company which relates to amounts included in the amounts to which the current claim relates,
+  - (ii)[^c-ad931ca9136775d9747e8724f99bcbf2] a claim under section 188CC by any company which relates to amounts included in the amounts to which the current claim relates,
 - (b) it is made before the current claim, and
 - (c) it has not been withdrawn.
 
@@ -64,8 +64,8 @@ The previously used amount of group relief for carried-forward losses in relatio
 
 ## Annotations
 
-[^key-6d828abb36a8900141e4aabfad343f1c]: Modification: [Ss. 188DB-188DG](https://www.legislation.gov.uk/ukpga/2010/4/section/188DB) applied (1.4.2022 in relation to accounting periods beginning on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 51(1)](https://www.legislation.gov.uk/ukpga/2022/3/section/51/1), [Sch. 7 para. 18(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/7/paragraph/18/1)
+[^c-6d828abb36a8900141e4aabfad343f1c]: Modification: [Ss. 188DB-188DG](https://www.legislation.gov.uk/ukpga/2010/4/section/188DB) applied (1.4.2022 in relation to accounting periods beginning on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 51(1)](https://www.legislation.gov.uk/ukpga/2022/3/section/51/1), [Sch. 7 para. 18(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/7/paragraph/18/1)
 
-[^key-5f4b4ffe3f8c46c0f1df33d946de3a27]: Textual amendment: Pt. 5A inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/23)
+[^c-5f4b4ffe3f8c46c0f1df33d946de3a27]: Textual amendment: Pt. 5A inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/23)
 
-[^key-ad931ca9136775d9747e8724f99bcbf2]: Modification: [S. 188DC(4)(a)(ii)](https://www.legislation.gov.uk/ukpga/2010/4/section/188DC/4/a/ii) modified (1.4.2022 in relation to accounting periods beginning on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 51(1)](https://www.legislation.gov.uk/ukpga/2022/3/section/51/1), [Sch. 7 para. 18(2)(a)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/7/paragraph/18/2/a)
+[^c-ad931ca9136775d9747e8724f99bcbf2]: Modification: [S. 188DC(4)(a)(ii)](https://www.legislation.gov.uk/ukpga/2010/4/section/188DC/4/a/ii) modified (1.4.2022 in relation to accounting periods beginning on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 51(1)](https://www.legislation.gov.uk/ukpga/2022/3/section/51/1), [Sch. 7 para. 18(2)(a)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/7/paragraph/18/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Jurisdiction of sheriff[^key-d46d61a66941504d6e508523de791869]
+## 68. Jurisdiction of sheriff[^c-d46d61a66941504d6e508523de791869]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d46d61a66941504d6e508523de791869]: Commencement: [Art. 68](https://www.legislation.gov.uk/uksi/2013/2605/article/68) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-d46d61a66941504d6e508523de791869]: Commencement: [Art. 68](https://www.legislation.gov.uk/uksi/2013/2605/article/68) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)

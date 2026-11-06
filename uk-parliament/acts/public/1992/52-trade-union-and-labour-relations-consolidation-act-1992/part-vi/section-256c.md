@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 256C. Investigatory powers[^key-69ec12c5e22e71978c26f9f2f0167718]
+## 256C. Investigatory powers[^c-69ec12c5e22e71978c26f9f2f0167718]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69ec12c5e22e71978c26f9f2f0167718]: Textual amendment: S. 256C omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 82(5)](https://www.legislation.gov.uk/ukpga/2025/36/section/82/5), [159(2)(n)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/n) (with transitional provisions and savings in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/15))
+[^c-69ec12c5e22e71978c26f9f2f0167718]: Textual amendment: S. 256C omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 82(5)](https://www.legislation.gov.uk/ukpga/2025/36/section/82/5), [159(2)(n)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/n) (with transitional provisions and savings in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/15))

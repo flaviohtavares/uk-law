@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 4 and 5
 
-### PART I — BALANCE SHEET FORMAT[^key-8b270d46d1a049b69b096564fc985141]
+### PART I — BALANCE SHEET FORMAT[^c-8b270d46d1a049b69b096564fc985141]
 
 #### ASSETS
 
@@ -163,7 +163,7 @@ III. Other reserves
 - (a) gross amount
 - (b) reinsurance amount (12)
 
-##### E. Provisions for liabilities[^key-8cd0ae49daa73a5346abee2c2a5f6120]
+##### E. Provisions for liabilities[^c-8cd0ae49daa73a5346abee2c2a5f6120]
 
 1. Provisions for pensions and similar obligations
 
@@ -187,7 +187,7 @@ V. Other creditors including taxation and social security
 
 ##### H. Accruals and deferred income
 
-### PART II — FORMAT OF CONSOLIDATED BALANCE SHEET[^key-b57e75d697b508d1e8df71b633ab3340]
+### PART II — FORMAT OF CONSOLIDATED BALANCE SHEET[^c-b57e75d697b508d1e8df71b633ab3340]
 
 The modifications to Part I of this Schedule for the format of a consolidated balance sheet are as follows:
 
@@ -197,7 +197,7 @@ The modifications to Part I of this Schedule for the format of a consolidated ba
 
 (3) The information required by paragraph 1 of Part IV of this Schedule need not be given.
 
-### PART III — NOTES ON THE BALANCE SHEET FORMAT[^key-44adfc0877ce34c55ebc64018917ceb8]
+### PART III — NOTES ON THE BALANCE SHEET FORMAT[^c-44adfc0877ce34c55ebc64018917ceb8]
 
 (1) *Concessions, patents, licences, trade marks and similar rights and assets*
 
@@ -219,7 +219,7 @@ The modifications to Part I of this Schedule for the format of a consolidated ba
 (4) *Significant investments in other associated bodies*
 
 - (Asset item B.II.3)
-- An investment is significant if it falls within the description in paragraph 5(2) of Schedule 13E to the Act[^key-98565536d2f713ee2e16108dd1ea3d9d].
+- An investment is significant if it falls within the description in paragraph 5(2) of Schedule 13E to the Act[^c-98565536d2f713ee2e16108dd1ea3d9d].
 
 (5) *Debt securities and other fixed income securities*
 
@@ -357,7 +357,7 @@ The modifications to Part I of this Schedule for the format of a consolidated ba
 - (Liabilities item G.III)
 - The amount of any convertible loans must be shown separately.
 
-### PART IV — SPECIAL RULES FOR BALANCE SHEET FORMAT[^key-21bdccf94a56f18e31b50bbf36848fee]
+### PART IV — SPECIAL RULES FOR BALANCE SHEET FORMAT[^c-21bdccf94a56f18e31b50bbf36848fee]
 
 #### 1. Additional items
 
@@ -379,14 +379,14 @@ The costs of acquiring insurance policies which are incurred during a financial 
 
 ## Annotations
 
-[^key-8b270d46d1a049b69b096564fc985141]: Commencement: [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/1994/1983/schedule/2/part/I) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
+[^c-8b270d46d1a049b69b096564fc985141]: Commencement: [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/1994/1983/schedule/2/part/I) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
 
-[^key-8cd0ae49daa73a5346abee2c2a5f6120]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/1994/1983/schedule/2/part/1) substituted (1.10.2005 with effect as respects financial years which begin on or after 1.1.2005 and end on or after October 2005) by [The Friendly Societies (Accounts and Related Provisions) (Amendment) Regulations 2005 (S.I. 2005/2210)](https://www.legislation.gov.uk/uksi/2005/2210), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/2210/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2005/2210/regulation/2/5)
+[^c-8cd0ae49daa73a5346abee2c2a5f6120]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/1994/1983/schedule/2/part/1) substituted (1.10.2005 with effect as respects financial years which begin on or after 1.1.2005 and end on or after October 2005) by [The Friendly Societies (Accounts and Related Provisions) (Amendment) Regulations 2005 (S.I. 2005/2210)](https://www.legislation.gov.uk/uksi/2005/2210), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/2210/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2005/2210/regulation/2/5)
 
-[^key-b57e75d697b508d1e8df71b633ab3340]: Commencement: [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/1994/1983/schedule/2/part/II) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
+[^c-b57e75d697b508d1e8df71b633ab3340]: Commencement: [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/1994/1983/schedule/2/part/II) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
 
-[^key-44adfc0877ce34c55ebc64018917ceb8]: Commencement: [Sch. 2 Pt. III](https://www.legislation.gov.uk/uksi/1994/1983/schedule/2/part/III) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
+[^c-44adfc0877ce34c55ebc64018917ceb8]: Commencement: [Sch. 2 Pt. III](https://www.legislation.gov.uk/uksi/1994/1983/schedule/2/part/III) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
 
-[^key-98565536d2f713ee2e16108dd1ea3d9d]: Textual amendment: Words in Sch. 2 Pt. 3 substituted (29.6.2008 with effect in relation to financial years beginning on or after that date) by [The Friendly Societies (Accounts and Related Provisions) (Amendment) Regulations 2008 (S.I. 2008/1144)](https://www.legislation.gov.uk/uksi/2008/1144), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1144/regulation/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2008/1144/schedule/paragraph/2)
+[^c-98565536d2f713ee2e16108dd1ea3d9d]: Textual amendment: Words in Sch. 2 Pt. 3 substituted (29.6.2008 with effect in relation to financial years beginning on or after that date) by [The Friendly Societies (Accounts and Related Provisions) (Amendment) Regulations 2008 (S.I. 2008/1144)](https://www.legislation.gov.uk/uksi/2008/1144), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1144/regulation/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2008/1144/schedule/paragraph/2)
 
-[^key-21bdccf94a56f18e31b50bbf36848fee]: Commencement: [Sch. 2 Pt. IV](https://www.legislation.gov.uk/uksi/1994/1983/schedule/2/part/IV) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
+[^c-21bdccf94a56f18e31b50bbf36848fee]: Commencement: [Sch. 2 Pt. IV](https://www.legislation.gov.uk/uksi/1994/1983/schedule/2/part/IV) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)

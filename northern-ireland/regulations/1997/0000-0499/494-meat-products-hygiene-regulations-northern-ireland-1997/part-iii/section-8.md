@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. General conditions[^key-071bf1ff9f6ccef215052698ef0eb563]
+## 8. General conditions[^c-071bf1ff9f6ccef215052698ef0eb563]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ A person shall not sell for human consumption from meat products premises approv
 
 ## Annotations
 
-[^key-071bf1ff9f6ccef215052698ef0eb563]: Commencement: Reg. 8 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-071bf1ff9f6ccef215052698ef0eb563]: Commencement: Reg. 8 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)

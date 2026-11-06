@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Information: restrictions on disclosure etc[^key-f2a515fca5e56a72a2455772e17a96d3]
+## 12. Information: restrictions on disclosure etc[^c-f2a515fca5e56a72a2455772e17a96d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2a515fca5e56a72a2455772e17a96d3]: Commencement: S. 12 in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/r)
+[^c-f2a515fca5e56a72a2455772e17a96d3]: Commencement: S. 12 in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/r)

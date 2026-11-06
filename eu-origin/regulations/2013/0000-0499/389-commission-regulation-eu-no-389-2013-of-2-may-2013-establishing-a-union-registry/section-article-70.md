@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 70. Reversal of finalised processes initiated in error[^key-f1c51fd94e8004f04c20ad69dd8033dd]
+## Article 70. Reversal of finalised processes initiated in error[^c-f1c51fd94e8004f04c20ad69dd8033dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1c51fd94e8004f04c20ad69dd8033dd]: Textual amendment: [Art. 70](https://www.legislation.gov.uk/eur/2013/389/article/70) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [5(9)](https://www.legislation.gov.uk/uksi/2021/511/regulation/5/9)
+[^c-f1c51fd94e8004f04c20ad69dd8033dd]: Textual amendment: [Art. 70](https://www.legislation.gov.uk/eur/2013/389/article/70) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [5(9)](https://www.legislation.gov.uk/uksi/2021/511/regulation/5/9)

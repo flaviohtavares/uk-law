@@ -26,11 +26,11 @@ Section 38
 
 #### “Right to buy regulations”
 
-**1.**[^key-70cf13cfd96eefde82d5c5932d597cc5] In this Schedule “**right to buy regulations**” means regulations under subsection (1) of section 38.
+**1.**[^c-70cf13cfd96eefde82d5c5932d597cc5] In this Schedule “**right to buy regulations**” means regulations under subsection (1) of section 38.
 
 #### Kinds of facilities in relation to which right to buy exercisable
 
-**2.**[^key-aca1efde310bf26b21bb106ded33ce36] (1) Right to buy regulations must specify the kind, or kinds, of renewable electricity generation facilities in relation to which the right to buy is to be exercisable.
+**2.**[^c-aca1efde310bf26b21bb106ded33ce36] (1) Right to buy regulations must specify the kind, or kinds, of renewable electricity generation facilities in relation to which the right to buy is to be exercisable.
 
 (2) The regulations must secure that the right to buy is not to be exercisable in relation to a renewable electricity generation facility if the total installed capacity of the facility is expected to be less than 5 megawatts.
 
@@ -43,7 +43,7 @@ Section 38
 
 #### Identification of qualifying facilities
 
-**3.**[^key-204fdafbb7e7ff6357cfb51cba437315] (1) Right to buy regulations must make provision enabling those renewable electricity generation facilities which are qualifying facilities to be identified.
+**3.**[^c-204fdafbb7e7ff6357cfb51cba437315] (1) Right to buy regulations must make provision enabling those renewable electricity generation facilities which are qualifying facilities to be identified.
 
 (2) The regulations may make provision enabling the following to be identified—
 
@@ -70,13 +70,13 @@ Section 38
 
 #### The promoter
 
-**4.**[^key-6083af1e99423a55c61657fb280b6714] (1) Right to buy regulations must make provision enabling the promoter of a qualifying facility to be identified in a case where the promoter is not, or is not expected to become, the facility operator.
+**4.**[^c-6083af1e99423a55c61657fb280b6714] (1) Right to buy regulations must make provision enabling the promoter of a qualifying facility to be identified in a case where the promoter is not, or is not expected to become, the facility operator.
 
 (2) In this paragraph “**promoter**” means a person developing a qualifying facility.
 
 #### The community
 
-**5.**[^key-856dbbdb08351d260f6691d02c26061a] (1) Right to buy regulations must make provision enabling the following to be identified—
+**5.**[^c-856dbbdb08351d260f6691d02c26061a] (1) Right to buy regulations must make provision enabling the following to be identified—
 
 - (a) the community in which a land-based facility is located;
 - (b) the community adjacent to which an offshore facility is located.
@@ -95,7 +95,7 @@ Section 38
 
 #### The members of the community
 
-**6.**[^key-b29648406b36d20e7aa7d8f4ba436cc4] (1) Right to buy regulations must make provision enabling the following to be identified—
+**6.**[^c-b29648406b36d20e7aa7d8f4ba436cc4] (1) Right to buy regulations must make provision enabling the following to be identified—
 
 - (a) individuals who may exercise the right to buy;
 - (b) groups who may exercise the right to buy.
@@ -146,7 +146,7 @@ Section 38
 
 #### Kinds of stake which may be bought through the right to buy
 
-**7.**[^key-7709596a8ea6a7686e1b72a79a5f3e0c] (1) Right to buy regulations must specify the kinds of stakes in qualifying facilities which may be bought through the right to buy.
+**7.**[^c-7709596a8ea6a7686e1b72a79a5f3e0c] (1) Right to buy regulations must specify the kinds of stakes in qualifying facilities which may be bought through the right to buy.
 
 (2) A stake may take any of the following forms—
 
@@ -160,7 +160,7 @@ Section 38
 
 #### Particular kind of stake which may be bought in particular facility
 
-**8.**[^key-b778334d086d9a0356a87583d47fb850] (1) Right to buy regulations must require the designated promoter or facility operator to choose the kind, or kinds, of stake in a qualifying facility that are to be available through the right to buy.
+**8.**[^c-b778334d086d9a0356a87583d47fb850] (1) Right to buy regulations must require the designated promoter or facility operator to choose the kind, or kinds, of stake in a qualifying facility that are to be available through the right to buy.
 
 (2) The regulations must give the designated promoter or facility operator a choice of at least two different kinds of stake in relation to a qualifying facility.
 
@@ -171,7 +171,7 @@ Section 38
 
 #### The price of the stakes
 
-**9.**[^key-81245976e8464df61aba07965dc2021b] (1) Right to buy regulations must make provision about setting the price of the available stakes in a qualifying facility.
+**9.**[^c-81245976e8464df61aba07965dc2021b] (1) Right to buy regulations must make provision about setting the price of the available stakes in a qualifying facility.
 
 (2) In making the regulations, the Secretary of State must have regard to the desirability of the prices of available stakes reflecting a measure of fair value.
 
@@ -179,7 +179,7 @@ Section 38
 
 #### Total value of the offer
 
-**10.**[^key-1cdbb5abc6ea1d00511389d9ba073e07] (1) Right to buy regulations must require the offer to consist of stakes whose combined price is—
+**10.**[^c-1cdbb5abc6ea1d00511389d9ba073e07] (1) Right to buy regulations must require the offer to consist of stakes whose combined price is—
 
 - (a) equal to, or
 - (b) greater than,
@@ -208,7 +208,7 @@ the minimum amount described in the regulations.
 
 #### Buying a stake
 
-**11.**[^key-2bdd351aeb358b074e8ead3f33c49b67] (1) Right to buy regulations must make provision about the procedure for exercising the right to buy in relation to a qualifying facility (the “purchase procedure”).
+**11.**[^c-2bdd351aeb358b074e8ead3f33c49b67] (1) Right to buy regulations must make provision about the procedure for exercising the right to buy in relation to a qualifying facility (the “purchase procedure”).
 
 (2) The purchase procedure must identify what stake or stakes—
 
@@ -226,7 +226,7 @@ may buy through the right to buy.
 (6) Here “**planning consent**” means whichever of the following is, or are, needed for that facility to be developed—
 
 - (a) development consent under the Planning Act 2008;
-- (aa)[^key-91ce1eea5de171459b867abd2fa40fa4] infrastructure consent under the Infrastructure (Wales) Act 2024;
+- (aa)[^c-91ce1eea5de171459b867abd2fa40fa4] infrastructure consent under the Infrastructure (Wales) Act 2024;
 - (b) planning permission under Part 3 of the Town and Country Planning Act 1990;
 - (c) a marine licence under the Marine and Coastal Access Act 2009;
 - (d) consent of the Scottish Ministers under section 36 of the Electricity Act 1989;
@@ -235,7 +235,7 @@ may buy through the right to buy.
 
 #### Excessive or insufficient take-up
 
-**12.**[^key-63ae5bd94b84559a1ef0ce828155def6] (1) Right to buy regulations may make provision (including provision relating to the allocation of stakes)—
+**12.**[^c-63ae5bd94b84559a1ef0ce828155def6] (1) Right to buy regulations may make provision (including provision relating to the allocation of stakes)—
 
 - (a) about cases where applications made in the application period exceed the available stakes, and
 - (b) about cases where applications made in the application period do not exceed the available stakes.
@@ -262,7 +262,7 @@ may buy through the right to buy.
 
 #### Subsequent disposal of a stake
 
-**13.**[^key-3087fb4454aa0ce6fb937beb5f401e6a] (1) Right to buy regulations may make provision about the disposal of a stake in a qualifying facility after it has been bought through the right to buy (whether the disposal is by a person who bought the stake through the right to buy or by a person who has subsequently acquired it).
+**13.**[^c-3087fb4454aa0ce6fb937beb5f401e6a] (1) Right to buy regulations may make provision about the disposal of a stake in a qualifying facility after it has been bought through the right to buy (whether the disposal is by a person who bought the stake through the right to buy or by a person who has subsequently acquired it).
 
 (2) The regulations may impose restrictions or prohibitions on the disposal of a stake.
 
@@ -280,15 +280,15 @@ may buy through the right to buy.
 
 #### “Operator and ownership regulations”
 
-**14.**[^key-d84076ab73fb088eacca7ac76bb58754] In this Schedule “**operator and ownership regulations**” means regulations under subsection (2) of section 38.
+**14.**[^c-d84076ab73fb088eacca7ac76bb58754] In this Schedule “**operator and ownership regulations**” means regulations under subsection (2) of section 38.
 
 #### Bodies that may be facility operators
 
-**15.**[^key-22fb1d280de9f4783c69b2f2d85ac1dd] If operator and ownership regulations specify two or more kinds of bodies which may be a facility operator, the regulations may make provision about which kind of body may own which kind of facility in which circumstances.
+**15.**[^c-22fb1d280de9f4783c69b2f2d85ac1dd] If operator and ownership regulations specify two or more kinds of bodies which may be a facility operator, the regulations may make provision about which kind of body may own which kind of facility in which circumstances.
 
 #### Constitutions of facility operators
 
-**16.**[^key-e66804080c00ae22664ab1e2078ba3ed] (1) Operator and ownership regulations may require the constitution of a facility operator to be in accordance with provision specified in the regulations.
+**16.**[^c-e66804080c00ae22664ab1e2078ba3ed] (1) Operator and ownership regulations may require the constitution of a facility operator to be in accordance with provision specified in the regulations.
 
 (2) In the case of a facility operator that is a company, the regulations may require the constitution of the company to be in accordance with provision about—
 
@@ -297,7 +297,7 @@ may buy through the right to buy.
 
 #### Ownership of facility operators
 
-**17.**[^key-ec846ecd8aaa9640256044452aa8f996] (1) Operator and ownership regulations may make provision about the ownership of facility operators.
+**17.**[^c-ec846ecd8aaa9640256044452aa8f996] (1) Operator and ownership regulations may make provision about the ownership of facility operators.
 
 (2) The regulations may—
 
@@ -306,13 +306,13 @@ may buy through the right to buy.
 
 #### Conduct of owners of facility operators
 
-**18.**[^key-365251e5df8ac9c8c879e788c95474a8] (1) Operator and ownership regulations may make provision about the conduct of the owners of facility operators.
+**18.**[^c-365251e5df8ac9c8c879e788c95474a8] (1) Operator and ownership regulations may make provision about the conduct of the owners of facility operators.
 
 (2) The regulations may impose duties, restrictions or prohibitions in relation to the exercise of rights or powers of owners (including a right or power to exercise a vote attached to a share).
 
 #### Revenues
 
-**19.**[^key-a6aef71253c7369725e5d123331d9af1] (1) Operator and ownership regulations may make provision about the treatment of the revenues earned by a qualifying facility.
+**19.**[^c-a6aef71253c7369725e5d123331d9af1] (1) Operator and ownership regulations may make provision about the treatment of the revenues earned by a qualifying facility.
 
 (2) The regulations may restrict or prohibit the making of arrangements affecting the destination of the revenues.
 
@@ -320,30 +320,30 @@ may buy through the right to buy.
 
 #### “Information regulations”
 
-**20.**[^key-90f76b8f07641cffb00e8a3c14c992eb] In this Schedule “**information regulations**” means regulations under subsection (3) of section 38.
+**20.**[^c-90f76b8f07641cffb00e8a3c14c992eb] In this Schedule “**information regulations**” means regulations under subsection (3) of section 38.
 
 #### Particular kinds of information
 
-**21.**[^key-1b539209dca920c5c5571839942a1b3b] Information regulations may make provision about the supply of—
+**21.**[^c-1b539209dca920c5c5571839942a1b3b] Information regulations may make provision about the supply of—
 
 - (a) financial information relating to a renewable electricity generation facility;
 - (b) information relating to electricity generation at a renewable electricity generation facility.
 
 #### Possible buyers of stakes
 
-**22.**[^key-7cf44bbd5ae01143d5404e48c1fa47f1] Information regulations may make provision about the supply of information by, or to, individuals and groups who are, or may be, interested in exercising the right to buy (were it available to them).
+**22.**[^c-7cf44bbd5ae01143d5404e48c1fa47f1] Information regulations may make provision about the supply of information by, or to, individuals and groups who are, or may be, interested in exercising the right to buy (were it available to them).
 
 #### Prospective buyers of stakes
 
-**23.**[^key-e0f1491772764380e590f4eba0300837] Information regulations may make provision about the supply of information by, or to, individuals and groups who are entitled to exercise the right to buy.
+**23.**[^c-e0f1491772764380e590f4eba0300837] Information regulations may make provision about the supply of information by, or to, individuals and groups who are entitled to exercise the right to buy.
 
 #### Applicants for stakes
 
-**24.**[^key-36e2658787e6be9d0de25c07a8c71e8a] Information regulations may make provision about the supply of information by, or to, individuals and groups who are exercising the right to buy.
+**24.**[^c-36e2658787e6be9d0de25c07a8c71e8a] Information regulations may make provision about the supply of information by, or to, individuals and groups who are exercising the right to buy.
 
 #### Owners of stakes
 
-**25.**[^key-143b140639d3cf5645bad1a6fdd3e75e] Information regulations may make provision about the supply of information by, or to, individuals and groups who hold—
+**25.**[^c-143b140639d3cf5645bad1a6fdd3e75e] Information regulations may make provision about the supply of information by, or to, individuals and groups who hold—
 
 - (a) stakes which they have bought through the right to buy, or
 - (b) stakes which they have acquired after their sale through the right to buy.
@@ -352,7 +352,7 @@ may buy through the right to buy.
 
 #### Interpretation
 
-**26.**[^key-fec4621e511136978b17182c8538bd40] In this Schedule—
+**26.**[^c-fec4621e511136978b17182c8538bd40] In this Schedule—
 
 - “**body**” means an incorporated or unincorporated body of persons;
 - “**company**” includes any other kind of incorporated body;
@@ -362,56 +362,56 @@ may buy through the right to buy.
 
 ## Annotations
 
-[^key-70cf13cfd96eefde82d5c5932d597cc5]: Commencement: Sch. 6 para. 1 in force at 1.6.2016, see s. 57(7)(a)
+[^c-70cf13cfd96eefde82d5c5932d597cc5]: Commencement: Sch. 6 para. 1 in force at 1.6.2016, see s. 57(7)(a)
 
-[^key-aca1efde310bf26b21bb106ded33ce36]: Commencement: Sch. 6 para. 2 in force at 1.6.2016, see s. 57(7)(a)
+[^c-aca1efde310bf26b21bb106ded33ce36]: Commencement: Sch. 6 para. 2 in force at 1.6.2016, see s. 57(7)(a)
 
-[^key-204fdafbb7e7ff6357cfb51cba437315]: Commencement: Sch. 6 para. 3 in force at 1.6.2016, see s. 57(7)(a)
+[^c-204fdafbb7e7ff6357cfb51cba437315]: Commencement: Sch. 6 para. 3 in force at 1.6.2016, see s. 57(7)(a)
 
-[^key-6083af1e99423a55c61657fb280b6714]: Commencement: Sch. 6 para. 4 in force at 1.6.2016, see s. 57(7)(a)
+[^c-6083af1e99423a55c61657fb280b6714]: Commencement: Sch. 6 para. 4 in force at 1.6.2016, see s. 57(7)(a)
 
-[^key-856dbbdb08351d260f6691d02c26061a]: Commencement: Sch. 6 para. 5 in force at 1.6.2016, see s. 57(7)(a)
+[^c-856dbbdb08351d260f6691d02c26061a]: Commencement: Sch. 6 para. 5 in force at 1.6.2016, see s. 57(7)(a)
 
-[^key-b29648406b36d20e7aa7d8f4ba436cc4]: Commencement: Sch. 6 para. 6 in force at 1.6.2016, see s. 57(7)(a)
+[^c-b29648406b36d20e7aa7d8f4ba436cc4]: Commencement: Sch. 6 para. 6 in force at 1.6.2016, see s. 57(7)(a)
 
-[^key-7709596a8ea6a7686e1b72a79a5f3e0c]: Commencement: Sch. 6 para. 7 in force at 1.6.2016, see s. 57(7)(a)
+[^c-7709596a8ea6a7686e1b72a79a5f3e0c]: Commencement: Sch. 6 para. 7 in force at 1.6.2016, see s. 57(7)(a)
 
-[^key-b778334d086d9a0356a87583d47fb850]: Commencement: Sch. 6 para. 8 in force at 1.6.2016, see s. 57(7)(a)
+[^c-b778334d086d9a0356a87583d47fb850]: Commencement: Sch. 6 para. 8 in force at 1.6.2016, see s. 57(7)(a)
 
-[^key-81245976e8464df61aba07965dc2021b]: Commencement: Sch. 6 para. 9 in force at 1.6.2016, see s. 57(7)(a)
+[^c-81245976e8464df61aba07965dc2021b]: Commencement: Sch. 6 para. 9 in force at 1.6.2016, see s. 57(7)(a)
 
-[^key-1cdbb5abc6ea1d00511389d9ba073e07]: Commencement: Sch. 6 para. 10 in force at 1.6.2016, see s. 57(7)(a)
+[^c-1cdbb5abc6ea1d00511389d9ba073e07]: Commencement: Sch. 6 para. 10 in force at 1.6.2016, see s. 57(7)(a)
 
-[^key-2bdd351aeb358b074e8ead3f33c49b67]: Commencement: Sch. 6 para. 11 in force at 1.6.2016, see [s. 57(7)(a)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/7/a)
+[^c-2bdd351aeb358b074e8ead3f33c49b67]: Commencement: Sch. 6 para. 11 in force at 1.6.2016, see [s. 57(7)(a)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/7/a)
 
-[^key-91ce1eea5de171459b867abd2fa40fa4]: Textual amendment: [Sch. 6 para. 11(6)(aa)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/6/paragraph/11/6/aa) inserted (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 13(2)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/13/2) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/uksi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/uksi/2025/698/article/3/l)
+[^c-91ce1eea5de171459b867abd2fa40fa4]: Textual amendment: [Sch. 6 para. 11(6)(aa)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/6/paragraph/11/6/aa) inserted (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 13(2)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/13/2) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/uksi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/uksi/2025/698/article/3/l)
 
-[^key-63ae5bd94b84559a1ef0ce828155def6]: Commencement: Sch. 6 para. 12 in force at 1.6.2016, see s. 57(7)(a)
+[^c-63ae5bd94b84559a1ef0ce828155def6]: Commencement: Sch. 6 para. 12 in force at 1.6.2016, see s. 57(7)(a)
 
-[^key-3087fb4454aa0ce6fb937beb5f401e6a]: Commencement: Sch. 6 para. 13 in force at 1.6.2016, see s. 57(7)(a)
+[^c-3087fb4454aa0ce6fb937beb5f401e6a]: Commencement: Sch. 6 para. 13 in force at 1.6.2016, see s. 57(7)(a)
 
-[^key-d84076ab73fb088eacca7ac76bb58754]: Commencement: Sch. 6 para. 14 in force at 1.6.2016, see s. 57(7)(a)
+[^c-d84076ab73fb088eacca7ac76bb58754]: Commencement: Sch. 6 para. 14 in force at 1.6.2016, see s. 57(7)(a)
 
-[^key-22fb1d280de9f4783c69b2f2d85ac1dd]: Commencement: Sch. 6 para. 15 in force at 1.6.2016, see s. 57(7)(a)
+[^c-22fb1d280de9f4783c69b2f2d85ac1dd]: Commencement: Sch. 6 para. 15 in force at 1.6.2016, see s. 57(7)(a)
 
-[^key-e66804080c00ae22664ab1e2078ba3ed]: Commencement: Sch. 6 para. 16 in force at 1.6.2016, see s. 57(7)(a)
+[^c-e66804080c00ae22664ab1e2078ba3ed]: Commencement: Sch. 6 para. 16 in force at 1.6.2016, see s. 57(7)(a)
 
-[^key-ec846ecd8aaa9640256044452aa8f996]: Commencement: Sch. 6 para. 17 in force at 1.6.2016, see s. 57(7)(a)
+[^c-ec846ecd8aaa9640256044452aa8f996]: Commencement: Sch. 6 para. 17 in force at 1.6.2016, see s. 57(7)(a)
 
-[^key-365251e5df8ac9c8c879e788c95474a8]: Commencement: Sch. 6 para. 18 in force at 1.6.2016, see s. 57(7)(a)
+[^c-365251e5df8ac9c8c879e788c95474a8]: Commencement: Sch. 6 para. 18 in force at 1.6.2016, see s. 57(7)(a)
 
-[^key-a6aef71253c7369725e5d123331d9af1]: Commencement: Sch. 6 para. 19 in force at 1.6.2016, see s. 57(7)(a)
+[^c-a6aef71253c7369725e5d123331d9af1]: Commencement: Sch. 6 para. 19 in force at 1.6.2016, see s. 57(7)(a)
 
-[^key-90f76b8f07641cffb00e8a3c14c992eb]: Commencement: Sch. 6 para. 20 in force at 1.6.2016, see s. 57(7)(a)
+[^c-90f76b8f07641cffb00e8a3c14c992eb]: Commencement: Sch. 6 para. 20 in force at 1.6.2016, see s. 57(7)(a)
 
-[^key-1b539209dca920c5c5571839942a1b3b]: Commencement: Sch. 6 para. 21 in force at 1.6.2016, see s. 57(7)(a)
+[^c-1b539209dca920c5c5571839942a1b3b]: Commencement: Sch. 6 para. 21 in force at 1.6.2016, see s. 57(7)(a)
 
-[^key-7cf44bbd5ae01143d5404e48c1fa47f1]: Commencement: Sch. 6 para. 22 in force at 1.6.2016, see s. 57(7)(a)
+[^c-7cf44bbd5ae01143d5404e48c1fa47f1]: Commencement: Sch. 6 para. 22 in force at 1.6.2016, see s. 57(7)(a)
 
-[^key-e0f1491772764380e590f4eba0300837]: Commencement: Sch. 6 para. 23 in force at 1.6.2016, see s. 57(7)(a)
+[^c-e0f1491772764380e590f4eba0300837]: Commencement: Sch. 6 para. 23 in force at 1.6.2016, see s. 57(7)(a)
 
-[^key-36e2658787e6be9d0de25c07a8c71e8a]: Commencement: Sch. 6 para. 24 in force at 1.6.2016, see s. 57(7)(a)
+[^c-36e2658787e6be9d0de25c07a8c71e8a]: Commencement: Sch. 6 para. 24 in force at 1.6.2016, see s. 57(7)(a)
 
-[^key-143b140639d3cf5645bad1a6fdd3e75e]: Commencement: Sch. 6 para. 25 in force at 1.6.2016, see s. 57(7)(a)
+[^c-143b140639d3cf5645bad1a6fdd3e75e]: Commencement: Sch. 6 para. 25 in force at 1.6.2016, see s. 57(7)(a)
 
-[^key-fec4621e511136978b17182c8538bd40]: Commencement: Sch. 6 para. 26 in force at 1.6.2016, see s. 57(7)(a)
+[^c-fec4621e511136978b17182c8538bd40]: Commencement: Sch. 6 para. 26 in force at 1.6.2016, see s. 57(7)(a)

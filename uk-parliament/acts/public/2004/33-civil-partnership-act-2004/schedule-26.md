@@ -57,7 +57,7 @@ Section 257
 
 *Extent: E+W+S+N.I.*
 
-**8.**[^key-fe02ae2d0f621091110a7c0e6360884d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-fe02ae2d0f621091110a7c0e6360884d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Naval and Military War Pensions, &c., (Administrative Expenses) Act 1917 (c. 14)
 
@@ -215,6 +215,6 @@ Section 257
 
 [^c20876301]: Commencement: Sch. 26 para. 5 wholly in force at 5.12.2005; Sch. 26 para. 5 not in force at Royal Assent see s. 263; Sch. 26 para. 5 in force for certain purposes at 15.4.2005 by [S.I. 2005/1112](https://www.legislation.gov.uk/uksi/2005/1112), [art. 2](https://www.legislation.gov.uk/uksi/2005/1112/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1112/schedule/1) and Sch. 26 para. 5 in force otherwise at 5.12.2005 by [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-fe02ae2d0f621091110a7c0e6360884d]: Textual amendment: Sch. 26 para. 8 repealed (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(f)(i)](https://www.legislation.gov.uk/uksi/2012/669/article/4/f/i)
+[^c-fe02ae2d0f621091110a7c0e6360884d]: Textual amendment: Sch. 26 para. 8 repealed (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(f)(i)](https://www.legislation.gov.uk/uksi/2012/669/article/4/f/i)
 
 [^c20876361]: Commencement: Sch. 26 para. 17 wholly in force at 5.12.2005; Sch. 26 para. 17 not in force at Royal Assent see s. 263; Sch. 26 para. 17 in force for certain purposes at 15.4.2005 by [S.I. 2005/1112](https://www.legislation.gov.uk/uksi/2005/1112), [art. 2](https://www.legislation.gov.uk/uksi/2005/1112/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1112/schedule/1) and Sch. 26 para. 17 in force otherwise at 5.12.2005 by [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)

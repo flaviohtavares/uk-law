@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Voluntary standstill period on the modification of contracts[^key-4bc318639b2c2f34f66166275fb8442b][^key-3008487666ed55b09a7993ffc89cbe9f]
+## 76. Voluntary standstill period on the modification of contracts[^c-4bc318639b2c2f34f66166275fb8442b][^c-3008487666ed55b09a7993ffc89cbe9f]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4bc318639b2c2f34f66166275fb8442b]: Commencement: S. 76 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-4bc318639b2c2f34f66166275fb8442b]: Commencement: S. 76 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-3008487666ed55b09a7993ffc89cbe9f]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2023/54/section/76) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-3008487666ed55b09a7993ffc89cbe9f]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2023/54/section/76) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

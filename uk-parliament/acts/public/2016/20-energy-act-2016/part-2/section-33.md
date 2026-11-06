@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Information and samples plans: supplementary[^key-55011593b344048ebc0d9a199f6b562e]
+## 33. Information and samples plans: supplementary[^c-55011593b344048ebc0d9a199f6b562e]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55011593b344048ebc0d9a199f6b562e]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2016/20/section/33) in force at 21.10.2017 by [S.I. 2017/942](https://www.legislation.gov.uk/uksi/2017/942), [reg. 2](https://www.legislation.gov.uk/uksi/2017/942/regulation/2)
+[^c-55011593b344048ebc0d9a199f6b562e]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2016/20/section/33) in force at 21.10.2017 by [S.I. 2017/942](https://www.legislation.gov.uk/uksi/2017/942), [reg. 2](https://www.legislation.gov.uk/uksi/2017/942/regulation/2)

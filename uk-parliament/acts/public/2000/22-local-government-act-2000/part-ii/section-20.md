@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The Welsh Ministers[^key-a2e423a51c6f5ed2a3309d6ea7949e4f] may by regulations make provision for or in connection with permitting arrangements under section 101(5) of the [^c1427829]Local Government Act 1972 where any of the functions which are the subject of the arrangements are the responsibility of an executive of a local authority under executive arrangements.
+(1) The Welsh Ministers[^c-a2e423a51c6f5ed2a3309d6ea7949e4f] may by regulations make provision for or in connection with permitting arrangements under section 101(5) of the [^c1427829]Local Government Act 1972 where any of the functions which are the subject of the arrangements are the responsibility of an executive of a local authority under executive arrangements.
 
 (2) The provision which may be made under subsection (1) includes provision—
 
@@ -43,7 +43,7 @@ summary: ''
 
 [^c1427828]: Commencement: S. 20 wholly in force at 1.11.2000; s. 20 not in force at Royal Assent see s. 108; s. 20 in force at 7.8.2000 in relation to England only by [S.I. 2000/2187](https://www.legislation.gov.uk/uksi/2000/2187), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2000/2187/article/1/3), [2(a)](https://www.legislation.gov.uk/uksi/2000/2187/article/2/a); s. 20 in force at 1.11.2000 in relation to Wales by [S.I. 2000/2948](https://www.legislation.gov.uk/uksi/2000/2948), [art. 2](https://www.legislation.gov.uk/uksi/2000/2948/article/2)
 
-[^key-a2e423a51c6f5ed2a3309d6ea7949e4f]: Textual amendment: Words in s. 20(1) substituted (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/18); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b)
+[^c-a2e423a51c6f5ed2a3309d6ea7949e4f]: Textual amendment: Words in s. 20(1) substituted (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/18); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b)
 
 [^c1427829]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 

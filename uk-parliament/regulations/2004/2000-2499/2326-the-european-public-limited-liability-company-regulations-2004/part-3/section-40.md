@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Right to remuneration for time off under regulation 39[^key-4531df50e81de768085901e11a478731]
+## 40. Right to remuneration for time off under regulation 39[^c-4531df50e81de768085901e11a478731]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4531df50e81de768085901e11a478731]: Textual amendment: Pt. 3 omitted (1.10.2009) by virtue of [The European Public Limited-Liability Company (Amendment) Regulations 2009 (S.I. 2009/2400)](https://www.legislation.gov.uk/uksi/2009/2400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2400/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2009/2400/regulation/17) (with [reg. 2](https://www.legislation.gov.uk/uksi/2009/2400/regulation/2))
+[^c-4531df50e81de768085901e11a478731]: Textual amendment: Pt. 3 omitted (1.10.2009) by virtue of [The European Public Limited-Liability Company (Amendment) Regulations 2009 (S.I. 2009/2400)](https://www.legislation.gov.uk/uksi/2009/2400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2400/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2009/2400/regulation/17) (with [reg. 2](https://www.legislation.gov.uk/uksi/2009/2400/regulation/2))

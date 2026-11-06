@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Modification of Part 1 of the 1965 Act[^key-45f4a2ada8e1df799008a84fba39bf56]
+## 30. Modification of Part 1 of the 1965 Act[^c-45f4a2ada8e1df799008a84fba39bf56]
 
 *Extent: E+W*
 
@@ -44,7 +44,7 @@ summary: ''
   >
   > **30.** In this Schedule, references to entering on and taking possession of land do not include exercising the powers under articles 13 (use of private roads), 20 (protective work to land and buildings), 21 (authority to survey and investigate the land), 35 (temporary use of land for carrying out the authorised development) or 36 (temporary use of land for maintaining the authorised development) of the A122 (Lower Thames Crossing) Development Consent Order 2025.
 
-(6) In respect of Plots 28-08, 29-253, 29-254, 29-258, 29-259, 29-260 and 29-261[^key-12e016bd2858989ee0a77526b710bd64] shown in the land plans, and without limitation to the powers under article 35 (temporary use of land for carrying out the authorised development), section 8 (other provisions as to divided land) of, and Schedule 2A to, the 1965 Act, must be construed to ensure—
+(6) In respect of Plots 28-08, 29-253, 29-254, 29-258, 29-259, 29-260 and 29-261[^c-12e016bd2858989ee0a77526b710bd64] shown in the land plans, and without limitation to the powers under article 35 (temporary use of land for carrying out the authorised development), section 8 (other provisions as to divided land) of, and Schedule 2A to, the 1965 Act, must be construed to ensure—
 
 - (a) the freehold owner of those plots may serve a notice to require the undertaker to acquire the landowner’s interest in respect of the Whitecroft Care Home where any part of the authorised development has begun; and
 - (b) the undertaker must accept a notice served under sub-paragraph (a) and thereafter serve—
@@ -55,7 +55,7 @@ summary: ''
 
 ## Annotations
 
-[^key-45f4a2ada8e1df799008a84fba39bf56]: Commencement: Art. 30 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-45f4a2ada8e1df799008a84fba39bf56]: Commencement: Art. 30 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
 [^f00086]: Footnote: Section 125 was amended by section 190 of, and paragraph 17 of Schedule 16 to, the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).
 
@@ -65,4 +65,4 @@ summary: ''
 
 [^f00089]: Footnote: Schedule 2A was inserted by section 199(1) of, and paragraphs 1 and 3 of Schedule 17 to, the Housing and Planning Act 2016.
 
-[^key-12e016bd2858989ee0a77526b710bd64]: Textual amendment: Words in [art. 30(6)](https://www.legislation.gov.uk/uksi/2025/462/article/30/6) substituted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
+[^c-12e016bd2858989ee0a77526b710bd64]: Textual amendment: Words in [art. 30(6)](https://www.legislation.gov.uk/uksi/2025/462/article/30/6) substituted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)

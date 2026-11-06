@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 43. Cleansing and disinfection of a regulated place and vehicle[^key-2a5ad68288b9f96924e86a56e848c90e]
+## 43. Cleansing and disinfection of a regulated place and vehicle[^c-2a5ad68288b9f96924e86a56e848c90e]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a5ad68288b9f96924e86a56e848c90e]: Commencement: Reg. 43 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-2a5ad68288b9f96924e86a56e848c90e]: Commencement: Reg. 43 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

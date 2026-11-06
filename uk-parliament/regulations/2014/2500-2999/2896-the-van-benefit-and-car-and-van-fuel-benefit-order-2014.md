@@ -46,21 +46,21 @@ Coming into force
 
 The Treasury, in exercise of the powers conferred by section 170(1A), (2), (5) and (6) of the Income Tax (Earnings and Pensions) Act 2003[^f00001], makes the following Order:
 
-## 1. Citation, commencement and effect[^key-10fb55482d35e42a62ed4c5a0fcabe47]
+## 1. Citation, commencement and effect[^c-10fb55482d35e42a62ed4c5a0fcabe47]
 
 (1) This Order may be cited as the Van Benefit and Car and Van Fuel Benefit Order 2014.
 
 (2) This Order shall come into force on 31st December 2014 and has effect for the tax year 2015-16 and subsequent tax years.
 
-## 2. Amendment to section 150 of the Income Tax (Earnings and Pensions) Act 2003[^key-75be420efceebc7acf80f2cee3c5d3b6]
+## 2. Amendment to section 150 of the Income Tax (Earnings and Pensions) Act 2003[^c-75be420efceebc7acf80f2cee3c5d3b6]
 
 In section 150(1) of the Income Tax (Earnings and Pensions) Act 2003 (car fuel: calculating the cash equivalent)[^f00002] for “£21,700” substitute “£22,100”.
 
-## 3. Amendment to section 155 of the Income Tax (Earnings and Pensions) Act 2003[^key-b4c6025025cbc3e2071224bf1e35386c]
+## 3. Amendment to section 155 of the Income Tax (Earnings and Pensions) Act 2003[^c-b4c6025025cbc3e2071224bf1e35386c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment to section 161 of the Income Tax (Earnings and Pensions) Act 2003[^key-783f012ebe0b293a80a2e6a19c42feac]
+## 4. Amendment to section 161 of the Income Tax (Earnings and Pensions) Act 2003[^c-783f012ebe0b293a80a2e6a19c42feac]
 
 In section 161(b) of the Income Tax (Earnings and Pensions) Act 2003 (van fuel: the cash equivalent)[^f00004] for “£581” substitute “£594”.
 
@@ -92,14 +92,14 @@ A Tax Information and Impact Note has not been prepared for this Instrument as i
 
 [^f00001]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1); section 170(1A) was inserted by paragraphs 1 and 7 of Schedule 14 to the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12) and amended by section 58(1) and (15) of the Finance Act [2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13). Section 170(2) and (5) was amended by paragraphs 1 and 7 of Schedule 14 to the Finance Act 2004.
 
-[^key-10fb55482d35e42a62ed4c5a0fcabe47]: Commencement: Art. 1 in force at 31.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/2896/article/1/2)
+[^c-10fb55482d35e42a62ed4c5a0fcabe47]: Commencement: Art. 1 in force at 31.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/2896/article/1/2)
 
-[^key-75be420efceebc7acf80f2cee3c5d3b6]: Commencement: Art. 2 in force at 31.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/2896/article/1/2)
+[^c-75be420efceebc7acf80f2cee3c5d3b6]: Commencement: Art. 2 in force at 31.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/2896/article/1/2)
 
 [^f00002]: Footnote: The amount specified in section 150(1) was last substituted by [S.I. 2013/3033](https://www.legislation.gov.uk/uksi/2013/3033).
 
-[^key-b4c6025025cbc3e2071224bf1e35386c]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2014/2896/article/3) revoked (with effect in accordance with s. 10(8) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 10(7)](https://www.legislation.gov.uk/ukpga/2015/11/section/10/7)
+[^c-b4c6025025cbc3e2071224bf1e35386c]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2014/2896/article/3) revoked (with effect in accordance with s. 10(8) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 10(7)](https://www.legislation.gov.uk/ukpga/2015/11/section/10/7)
 
-[^key-783f012ebe0b293a80a2e6a19c42feac]: Commencement: Art. 4 in force at 31.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/2896/article/1/2)
+[^c-783f012ebe0b293a80a2e6a19c42feac]: Commencement: Art. 4 in force at 31.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/2896/article/1/2)
 
 [^f00004]: Footnote: Section 161 was substituted by paragraphs 1 and 5 of Schedule 14 to the Finance Act 2004. The amount specified in section 161(b) was last substituted by [S.I. 2013/3033](https://www.legislation.gov.uk/uksi/2013/3033).

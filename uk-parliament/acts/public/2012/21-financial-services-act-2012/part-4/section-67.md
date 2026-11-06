@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Interpretation of Part 4[^key-d3ea0b0e7cfcaab64087ab861be1d53d]
+## 67. Interpretation of Part 4[^c-d3ea0b0e7cfcaab64087ab861be1d53d]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (5) “**Qualifying financial assistance**” is to be read in accordance with section 60(5).
 
-(6)[^key-f5c30d9467f45cee5e1f5ce6ff574b0e] Group entity” has the same meaning as in the Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348).
+(6)[^c-f5c30d9467f45cee5e1f5ce6ff574b0e] Group entity” has the same meaning as in the Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348).
 
 (7) “**Group resolution plan**” means a group resolution plan drawn up by the Bank under Part 5 of that Order.
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d3ea0b0e7cfcaab64087ab861be1d53d]: Commencement: S. 67 in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
+[^c-d3ea0b0e7cfcaab64087ab861be1d53d]: Commencement: S. 67 in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
 
-[^key-f5c30d9467f45cee5e1f5ce6ff574b0e]: Textual amendment: [S. 67(6)-(9)](https://www.legislation.gov.uk/ukpga/2012/21/section/67/6) inserted (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 36(4)](https://www.legislation.gov.uk/ukpga/2016/14/section/36/4), [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(aa)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/aa)
+[^c-f5c30d9467f45cee5e1f5ce6ff574b0e]: Textual amendment: [S. 67(6)-(9)](https://www.legislation.gov.uk/ukpga/2012/21/section/67/6) inserted (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 36(4)](https://www.legislation.gov.uk/ukpga/2016/14/section/36/4), [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(aa)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/aa)

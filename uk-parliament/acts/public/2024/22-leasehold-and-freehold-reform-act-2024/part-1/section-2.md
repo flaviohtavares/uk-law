@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Long residential leases of houses[^key-63a81f3ba24a28b2c1ab4abe9b7f51e8]
+## 2. Long residential leases of houses[^c-63a81f3ba24a28b2c1ab4abe9b7f51e8]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63a81f3ba24a28b2c1ab4abe9b7f51e8]: Commencement: S. 2 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-63a81f3ba24a28b2c1ab4abe9b7f51e8]: Commencement: S. 2 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

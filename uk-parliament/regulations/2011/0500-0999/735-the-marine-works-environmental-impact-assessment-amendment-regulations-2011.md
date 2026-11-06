@@ -48,11 +48,11 @@ Coming into force
 
 6th April 2011
 
-The Secretary of State is designated *(Extent: S)* *(affected by repeal, see note)*[^key-91549aeeafd76efe877345d5697ac043][^f00001] for the purpose of making Regulations under section 2(2) of the European Communities Act 1972 *(Extent: S)* *(affected by repeal, see note)*[^key-91549aeeafd76efe877345d5697ac043][^f00002] (“ *(Extent: S)* *(affected by repeal, see note)*[^key-91549aeeafd76efe877345d5697ac043]the Act *(Extent: S)* *(affected by repeal, see note)*[^key-91549aeeafd76efe877345d5697ac043]”) in relation to the environment. *(Extent: S)* *(affected by repeal, see note)*[^key-91549aeeafd76efe877345d5697ac043]
+The Secretary of State is designated *(Extent: S)* *(affected by repeal, see note)*[^c-91549aeeafd76efe877345d5697ac043][^f00001] for the purpose of making Regulations under section 2(2) of the European Communities Act 1972 *(Extent: S)* *(affected by repeal, see note)*[^c-91549aeeafd76efe877345d5697ac043][^f00002] (“ *(Extent: S)* *(affected by repeal, see note)*[^c-91549aeeafd76efe877345d5697ac043]the Act *(Extent: S)* *(affected by repeal, see note)*[^c-91549aeeafd76efe877345d5697ac043]”) in relation to the environment. *(Extent: S)* *(affected by repeal, see note)*[^c-91549aeeafd76efe877345d5697ac043]
 
-In accordance with section 56(1) of the Finance Act 1973 *(Extent: S)* *(affected by repeal, see note)*[^key-91549aeeafd76efe877345d5697ac043][^f00003], the Treasury consents to the making of these Regulations. *(Extent: S)* *(affected by repeal, see note)*[^key-91549aeeafd76efe877345d5697ac043]
+In accordance with section 56(1) of the Finance Act 1973 *(Extent: S)* *(affected by repeal, see note)*[^c-91549aeeafd76efe877345d5697ac043][^f00003], the Treasury consents to the making of these Regulations. *(Extent: S)* *(affected by repeal, see note)*[^c-91549aeeafd76efe877345d5697ac043]
 
-The Secretary of State makes these Regulations in exercise of the powers conferred by section 2(2) of *(Extent: S)* *(affected by repeal, see note)*[^key-91549aeeafd76efe877345d5697ac043] the Act *(Extent: S)* *(affected by repeal, see note)*[^key-91549aeeafd76efe877345d5697ac043] and section 56 of the Finance Act 1973. *(Extent: S)* *(affected by repeal, see note)*[^key-91549aeeafd76efe877345d5697ac043]
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 2(2) of *(Extent: S)* *(affected by repeal, see note)*[^c-91549aeeafd76efe877345d5697ac043] the Act *(Extent: S)* *(affected by repeal, see note)*[^c-91549aeeafd76efe877345d5697ac043] and section 56 of the Finance Act 1973. *(Extent: S)* *(affected by repeal, see note)*[^c-91549aeeafd76efe877345d5697ac043]
 
 ## PART 1 — Introductory provision
 
@@ -689,7 +689,7 @@ Copies of the Government View documents referred to in sub-paragraph (b) of the 
 
 ## Annotations
 
-[^key-91549aeeafd76efe877345d5697ac043]: Textual amendment: Regulations revoked (S.) (16.5.2017) by [The Marine Works (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/115)](https://www.legislation.gov.uk/ssi/2017/115), regs. 1(1), [42(b)](https://www.legislation.gov.uk/ssi/2017/115/regulation/42/b) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/115/regulation/1/2), [40](https://www.legislation.gov.uk/ssi/2017/115/regulation/40), [41](https://www.legislation.gov.uk/ssi/2017/115/regulation/41))
+[^c-91549aeeafd76efe877345d5697ac043]: Textual amendment: Regulations revoked (S.) (16.5.2017) by [The Marine Works (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/115)](https://www.legislation.gov.uk/ssi/2017/115), regs. 1(1), [42(b)](https://www.legislation.gov.uk/ssi/2017/115/regulation/42/b) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/115/regulation/1/2), [40](https://www.legislation.gov.uk/ssi/2017/115/regulation/40), [41](https://www.legislation.gov.uk/ssi/2017/115/regulation/41))
 
 [^f00001]: Footnote: [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301). As regards functions transferred to the Scottish Ministers by the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), these Regulations extend to Scotland by virtue of section 57(1) of that Act.
 

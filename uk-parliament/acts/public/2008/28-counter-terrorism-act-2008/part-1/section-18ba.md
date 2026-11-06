@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18BA. Retention of further fingerprints[^key-1ffd9acb08bbd9f04c9ae5ca4cfd5be1][^key-71f3b462a93540ab1a3652a57cdef4b8]
+## 18BA. Retention of further fingerprints[^c-1ffd9acb08bbd9f04c9ae5ca4cfd5be1][^c-71f3b462a93540ab1a3652a57cdef4b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 
 (5) Where a determination under this section is made in respect of the further fingerprints—
 
-- (a) the further fingerprints may be retained for as long as the original fingerprints are retained under a power conferred by section 18A , 18AA[^key-3b4f53491767986c7ba62fb4677aa168] or 18B, and
+- (a) the further fingerprints may be retained for as long as the original fingerprints are retained under a power conferred by section 18A , 18AA[^c-3b4f53491767986c7ba62fb4677aa168] or 18B, and
 - (b) a requirement under any enactment to destroy the further fingerprints does not apply for as long as their retention is authorised by paragraph (a).
 
 (6) Subsection (5)(a) does not prevent the further fingerprints being retained after the original fingerprints fall to be destroyed if the continued retention of the further fingerprints is authorised under any enactment.
@@ -57,8 +57,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1ffd9acb08bbd9f04c9ae5ca4cfd5be1]: Textual amendment: S. 18BA inserted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/b), [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/14); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
+[^c-1ffd9acb08bbd9f04c9ae5ca4cfd5be1]: Textual amendment: S. 18BA inserted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/b), [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/14); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
 
-[^key-71f3b462a93540ab1a3652a57cdef4b8]: Textual amendment: Ss. 18-18E substituted for s. 18 (31.10.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2012/9/schedule/1/paragraph/4) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(k)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/k)
+[^c-71f3b462a93540ab1a3652a57cdef4b8]: Textual amendment: Ss. 18-18E substituted for s. 18 (31.10.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2012/9/schedule/1/paragraph/4) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(k)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/k)
 
-[^key-3b4f53491767986c7ba62fb4677aa168]: Textual amendment: Word in [s. 18BA(5)(a)](https://www.legislation.gov.uk/ukpga/2008/28/section/18BA/5/a) inserted (19.6.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 128(4)](https://www.legislation.gov.uk/ukpga/2025/18/section/128/4), [142(2)(f)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/f)
+[^c-3b4f53491767986c7ba62fb4677aa168]: Textual amendment: Word in [s. 18BA(5)(a)](https://www.legislation.gov.uk/ukpga/2008/28/section/18BA/5/a) inserted (19.6.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 128(4)](https://www.legislation.gov.uk/ukpga/2025/18/section/128/4), [142(2)(f)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/f)

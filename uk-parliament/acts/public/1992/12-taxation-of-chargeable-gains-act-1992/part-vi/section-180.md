@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 180. Transitional provisions.[^key-92e698b5676c0615a154731d1c973ebd]
+## 180. Transitional provisions.[^c-92e698b5676c0615a154731d1c973ebd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92e698b5676c0615a154731d1c973ebd]: Textual amendment: S. 180 repealed (28.7.2000) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 29 para. 27](https://www.legislation.gov.uk/ukpga/2000/17/schedule/29/paragraph/27), [Sch. 40 Pt. II(12)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/40/part/II/12) (with [Sch. 29 para. 46(5)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/29/paragraph/46/5))
+[^c-92e698b5676c0615a154731d1c973ebd]: Textual amendment: S. 180 repealed (28.7.2000) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 29 para. 27](https://www.legislation.gov.uk/ukpga/2000/17/schedule/29/paragraph/27), [Sch. 40 Pt. II(12)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/40/part/II/12) (with [Sch. 29 para. 46(5)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/29/paragraph/46/5))

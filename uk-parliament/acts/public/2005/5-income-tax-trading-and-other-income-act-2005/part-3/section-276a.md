@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 276A. Application of Chapter to property businesses using cash basis[^key-69d06e459c2cc5e45d813d7968fbc2f0]
+## 276A. Application of Chapter to property businesses using cash basis[^c-69d06e459c2cc5e45d813d7968fbc2f0]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The following provisions of this Chapter do not apply in calculating the profits
 
 ## Annotations
 
-[^key-69d06e459c2cc5e45d813d7968fbc2f0]: Textual amendment: S. 276A inserted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/22)
+[^c-69d06e459c2cc5e45d813d7968fbc2f0]: Textual amendment: S. 276A inserted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/22)

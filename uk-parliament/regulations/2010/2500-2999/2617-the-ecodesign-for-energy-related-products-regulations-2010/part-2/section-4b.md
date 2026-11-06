@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4B. Register of UK notified bodies[^key-841d81d4f733811d212ee1d3eaffe088]
+## 4B. Register of UK notified bodies[^c-841d81d4f733811d212ee1d3eaffe088]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-841d81d4f733811d212ee1d3eaffe088]: Textual amendment: Regs. 4A, 4B inserted (N.I.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [13](https://www.legislation.gov.uk/uksi/2020/1528/regulation/13)
+[^c-841d81d4f733811d212ee1d3eaffe088]: Textual amendment: Regs. 4A, 4B inserted (N.I.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [13](https://www.legislation.gov.uk/uksi/2020/1528/regulation/13)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Charitable companies and charitable trusts[^key-aaa0d472c9d7ea6eb5e7b7bf2c984462]
+## 31. Charitable companies and charitable trusts[^c-aaa0d472c9d7ea6eb5e7b7bf2c984462]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aaa0d472c9d7ea6eb5e7b7bf2c984462]: Modification: Reg. 31 excluded (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 492(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/492/2)[(3)(b)](https://www.legislation.gov.uk/ukpga/2010/4/section/492/3/b), [1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-aaa0d472c9d7ea6eb5e7b7bf2c984462]: Modification: Reg. 31 excluded (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 492(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/492/2)[(3)(b)](https://www.legislation.gov.uk/ukpga/2010/4/section/492/3/b), [1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c19952151]: Marginal citation: Section 506 was amended by section 55(2) of the [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25) and paragraph 95 of Schedule 1 to the [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3).

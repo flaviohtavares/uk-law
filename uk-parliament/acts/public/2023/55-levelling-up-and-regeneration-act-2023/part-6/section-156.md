@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Safeguards: non-regression, international obligations and public engagement[^key-93f85b03fbaf7134df0a4221a7845dc0]
+## 156. Safeguards: non-regression, international obligations and public engagement[^c-93f85b03fbaf7134df0a4221a7845dc0]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93f85b03fbaf7134df0a4221a7845dc0]: Commencement: [S. 156](https://www.legislation.gov.uk/ukpga/2023/55/section/156) in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)
+[^c-93f85b03fbaf7134df0a4221a7845dc0]: Commencement: [S. 156](https://www.legislation.gov.uk/ukpga/2023/55/section/156) in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)

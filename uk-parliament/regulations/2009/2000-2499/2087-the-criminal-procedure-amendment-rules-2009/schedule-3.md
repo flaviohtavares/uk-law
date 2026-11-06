@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3[^key-950ddb60f609313258e63f354d43c0c2]
+## SCHEDULE 3[^c-950ddb60f609313258e63f354d43c0c2]
 
 *Extent: E+W*
 
@@ -363,7 +363,7 @@ Rule 14
 
 ## Annotations
 
-[^key-950ddb60f609313258e63f354d43c0c2]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2009/2087/schedule/3) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
+[^c-950ddb60f609313258e63f354d43c0c2]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2009/2087/schedule/3) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
 
 [^f00046]: Footnote: [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25).
 

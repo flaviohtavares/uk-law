@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Transfer of other powers relating to the Museum[^key-25d3baf42baed1e8b966cedddb104eec]
+## 48. Transfer of other powers relating to the Museum[^c-25d3baf42baed1e8b966cedddb104eec]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25d3baf42baed1e8b966cedddb104eec]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2007/24/section/48) in force at 6.4.2008 by [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/582/article/2/c)
+[^c-25d3baf42baed1e8b966cedddb104eec]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2007/24/section/48) in force at 6.4.2008 by [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/582/article/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14B. Wales: consultation[^key-5bb773df52b777a92ff474ef49b28e96]
+## 14B. Wales: consultation[^c-5bb773df52b777a92ff474ef49b28e96]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5bb773df52b777a92ff474ef49b28e96]: Textual amendment: [S. 14B](https://www.legislation.gov.uk/ukpga/2004/36/section/14B) inserted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [41(12)](https://www.legislation.gov.uk/uksi/2018/644/article/41/12)
+[^c-5bb773df52b777a92ff474ef49b28e96]: Textual amendment: [S. 14B](https://www.legislation.gov.uk/ukpga/2004/36/section/14B) inserted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [41(12)](https://www.legislation.gov.uk/uksi/2018/644/article/41/12)

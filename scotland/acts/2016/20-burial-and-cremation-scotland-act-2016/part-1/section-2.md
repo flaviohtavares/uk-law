@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Meaning of “burial authority”[^key-2d092a6e6e9730f132802bfc625ba359]
+## 2. Meaning of “burial authority”[^c-2d092a6e6e9730f132802bfc625ba359]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In this Act, “**burial authority**”, in relation to a burial ground, means t
 
 ## Annotations
 
-[^key-2d092a6e6e9730f132802bfc625ba359]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2016/20/section/2) in force at 28.12.2016 by [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417), [reg. 2](https://www.legislation.gov.uk/ssi/2016/417/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/417/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2016/417/regulation/4))
+[^c-2d092a6e6e9730f132802bfc625ba359]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2016/20/section/2) in force at 28.12.2016 by [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417), [reg. 2](https://www.legislation.gov.uk/ssi/2016/417/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/417/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2016/417/regulation/4))

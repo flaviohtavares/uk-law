@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 244. Saving of transfer of certain powers under local Acts from Treasury to Secretary of State.[^key-d079bb456d694163b89fefe1fff8aede]
+## 244. Saving of transfer of certain powers under local Acts from Treasury to Secretary of State.[^c-d079bb456d694163b89fefe1fff8aede]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d079bb456d694163b89fefe1fff8aede]: Modification: [S. 244](https://www.legislation.gov.uk/ukpga/1972/70/section/244) applied (with modifications) (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [14](https://www.legislation.gov.uk/uksi/2018/644/article/14)
+[^c-d079bb456d694163b89fefe1fff8aede]: Modification: [S. 244](https://www.legislation.gov.uk/ukpga/1972/70/section/244) applied (with modifications) (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [14](https://www.legislation.gov.uk/uksi/2018/644/article/14)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 210. Duty to keep records[^key-2e75009d23f863f0863262428ba8b726]
+## 210. Duty to keep records[^c-2e75009d23f863f0863262428ba8b726]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e75009d23f863f0863262428ba8b726]: Commencement: Reg. 210 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-2e75009d23f863f0863262428ba8b726]: Commencement: Reg. 210 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Using vehicle in dangerous condition etc.[^key-d2aa9645cfa41b77f3a72e2ce485e353]
+## 25. Using vehicle in dangerous condition etc.[^c-d2aa9645cfa41b77f3a72e2ce485e353]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2aa9645cfa41b77f3a72e2ce485e353]: Commencement: S. 25 in force at 24.9.2007 by [S.I. 2007/2472](https://www.legislation.gov.uk/uksi/2007/2472), [art. 2(d)](https://www.legislation.gov.uk/uksi/2007/2472/article/2/d)
+[^c-d2aa9645cfa41b77f3a72e2ce485e353]: Commencement: S. 25 in force at 24.9.2007 by [S.I. 2007/2472](https://www.legislation.gov.uk/uksi/2007/2472), [art. 2(d)](https://www.legislation.gov.uk/uksi/2007/2472/article/2/d)

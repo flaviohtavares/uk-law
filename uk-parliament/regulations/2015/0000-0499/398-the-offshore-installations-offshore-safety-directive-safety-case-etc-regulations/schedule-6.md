@@ -116,7 +116,7 @@ together with a summary of the document prepared under regulation 23 of the Pipe
 
 **21.** The description of the internal emergency response arrangements.
 
-**22.** In the case of offshore oil and gas operations,[^key-91ab4bf46e986d0ce13b025d8d6f6bcf] the assessment produced pursuant to paragraph 2(j) of Schedule 2 to the Merchant Shipping (Oil Pollution Preparedness, Response and Co-operation Convention) Regulations 1998 [^c22462481].
+**22.** In the case of offshore oil and gas operations,[^c-91ab4bf46e986d0ce13b025d8d6f6bcf] the assessment produced pursuant to paragraph 2(j) of Schedule 2 to the Merchant Shipping (Oil Pollution Preparedness, Response and Co-operation Convention) Regulations 1998 [^c22462481].
 
 **23.** Particulars of any combined operations which may involve the installation, including—
 
@@ -135,6 +135,6 @@ together with a summary of the document prepared under regulation 23 of the Pipe
 
 [^c22462471]: Marginal citation: OJ L 26, 28.1.2012, p1.
 
-[^key-91ab4bf46e986d0ce13b025d8d6f6bcf]: Textual amendment: Words in Sch. 6 para. 22 inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(12)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/12)
+[^c-91ab4bf46e986d0ce13b025d8d6f6bcf]: Textual amendment: Words in Sch. 6 para. 22 inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(12)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/12)
 
 [^c22462481]: Marginal citation: [S.I. 1998/1056](https://www.legislation.gov.uk/uksi/1998/1056). Schedule 2 was inserted by the [Merchant Shipping (Oil Pollution Preparedness, Response and Co-operation Convention) (Amendment) Regulations 2015 (S.I. 2015/386)](https://www.legislation.gov.uk/uksi/2015/386).

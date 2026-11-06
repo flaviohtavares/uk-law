@@ -48,13 +48,13 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with section 11(5) of that Act he has consulted such organisations as appear to him to be representative of interests substantially affected by the following Regulations, such other persons as he considers appropriate and the Health and Safety Commission.
 
-## 1. Citation, commencement and interpretation[^key-4360934e2cd734214b4ecd0235da8a90]
+## 1. Citation, commencement and interpretation[^c-4360934e2cd734214b4ecd0235da8a90]
 
 (1) These Regulations may be cited as the Cosmetic Products (Safety) (Amendment) (No.2) Regulations 2005 and shall come into force on 31st December 2005.
 
 (2) In these Regulations “the Principal Regulations” means the Cosmetic Products (Safety) Regulations 2004[^f00002].
 
-## 2. Amendment to the Principal Regulations[^key-e2c521f32c01ec30e75dcafed2bbba68]
+## 2. Amendment to the Principal Regulations[^c-e2c521f32c01ec30e75dcafed2bbba68]
 
 (1) The Principal Regulations are amended as follows.
 
@@ -110,7 +110,7 @@ Department of Trade and Industry
 
 Regulation 2
 
-### PART 1[^key-f7c544f184e0ef95e6f743d1608e2b1c]
+### PART 1[^c-f7c544f184e0ef95e6f743d1608e2b1c]
 
 Entry inserted at the end of Part 1 of Schedule 3 to the Principal Regulations
 
@@ -118,7 +118,7 @@ Entry inserted at the end of Part 1 of Schedule 3 to the Principal Regulations
 | --- | --- | --- | --- |
 | 770 | Methyleugenol (except for normal content in the natural essences used, and provided that the concentration does not exceed:<br>- (a) 0.01 per cent in fine fragrance;<br>- (b) 0.004 per cent in eau de toilette;<br>- (c) 0.002 per cent in fragrance cream;<br>- (d) 0.001 per cent in rinse-off products; and<br>- (e) 0.0002 per cent in other leave-on products and oral hygiene products) | \- | 451 |
 
-### PART 2[^key-41ccd05b1b0cf447cf2a07ee6589179d]
+### PART 2[^c-41ccd05b1b0cf447cf2a07ee6589179d]
 
 Entries inserted into Part 1 of Schedule 6 to the Principal Regulations
 
@@ -146,12 +146,12 @@ A regulatory impact assessment of the effect that these Regulations will have on
 
 [^f00001]: Footnote: [1987 c. 43](https://www.legislation.gov.uk/ukpga/1987/43).
 
-[^key-4360934e2cd734214b4ecd0235da8a90]: Commencement: Reg. 1 in force at 31.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3346/regulation/1/1)
+[^c-4360934e2cd734214b4ecd0235da8a90]: Commencement: Reg. 1 in force at 31.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3346/regulation/1/1)
 
 [^f00002]: Footnote: S.I. [2004/2152](https://www.legislation.gov.uk/uksi/2004/2152) as amended by [2004/2361](https://www.legislation.gov.uk/uksi/2004/2361), [2004/2988](https://www.legislation.gov.uk/uksi/2004/2988) and [2005/1815](https://www.legislation.gov.uk/uksi/2005/1815).
 
-[^key-e2c521f32c01ec30e75dcafed2bbba68]: Commencement: Reg. 2 in force at 31.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3346/regulation/1/1)
+[^c-e2c521f32c01ec30e75dcafed2bbba68]: Commencement: Reg. 2 in force at 31.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3346/regulation/1/1)
 
-[^key-f7c544f184e0ef95e6f743d1608e2b1c]: Commencement: Sch. Pt. 1 in force at 31.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3346/regulation/1/1)
+[^c-f7c544f184e0ef95e6f743d1608e2b1c]: Commencement: Sch. Pt. 1 in force at 31.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3346/regulation/1/1)
 
-[^key-41ccd05b1b0cf447cf2a07ee6589179d]: Commencement: Sch. Pt. 2 in force at 31.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3346/regulation/1/1)
+[^c-41ccd05b1b0cf447cf2a07ee6589179d]: Commencement: Sch. Pt. 2 in force at 31.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3346/regulation/1/1)

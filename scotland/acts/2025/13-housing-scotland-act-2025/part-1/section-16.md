@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Information holder’s failure to provide information sought[^key-76a38382cf31031bb7976e54439546f9]
+## 16. Information holder’s failure to provide information sought[^c-76a38382cf31031bb7976e54439546f9]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76a38382cf31031bb7976e54439546f9]: Commencement: S. 16 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-76a38382cf31031bb7976e54439546f9]: Commencement: S. 16 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)

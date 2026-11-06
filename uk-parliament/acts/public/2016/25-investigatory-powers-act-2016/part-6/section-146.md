@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Approval of major modifications by Judicial Commissioners[^key-c9a934f967698923b04e333e9d5c3793]
+## 146. Approval of major modifications by Judicial Commissioners[^c-c9a934f967698923b04e333e9d5c3793]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9a934f967698923b04e333e9d5c3793]: Commencement: [S. 146](https://www.legislation.gov.uk/ukpga/2016/25/section/146) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 10(a)](https://www.legislation.gov.uk/uksi/2018/652/regulation/10/a)
+[^c-c9a934f967698923b04e333e9d5c3793]: Commencement: [S. 146](https://www.legislation.gov.uk/ukpga/2016/25/section/146) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 10(a)](https://www.legislation.gov.uk/uksi/2018/652/regulation/10/a)

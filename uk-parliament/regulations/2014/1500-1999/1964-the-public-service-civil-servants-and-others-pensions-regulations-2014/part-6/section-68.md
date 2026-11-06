@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Annual rate of partial retirement pension[^key-b2274f9703b9dc401b37e4079d2e9056]
+## 68. Annual rate of partial retirement pension[^c-b2274f9703b9dc401b37e4079d2e9056]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2274f9703b9dc401b37e4079d2e9056]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/2014/1964/regulation/68) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-b2274f9703b9dc401b37e4079d2e9056]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/2014/1964/regulation/68) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 141. Application for removal of direction for minimum compensation[^key-db8c38f25410394b9c6d02b63810a8ef][^key-88f1a570758ddd5e149298b76261ef9f]
+## 141. Application for removal of direction for minimum compensation[^c-db8c38f25410394b9c6d02b63810a8ef][^c-88f1a570758ddd5e149298b76261ef9f]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-db8c38f25410394b9c6d02b63810a8ef]: Commencement: S. 141 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-db8c38f25410394b9c6d02b63810a8ef]: Commencement: S. 141 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-88f1a570758ddd5e149298b76261ef9f]: Commencement: [S. 141](https://www.legislation.gov.uk/asc/2023/3/section/141) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-88f1a570758ddd5e149298b76261ef9f]: Commencement: [S. 141](https://www.legislation.gov.uk/asc/2023/3/section/141) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

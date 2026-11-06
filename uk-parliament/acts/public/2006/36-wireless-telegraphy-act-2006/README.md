@@ -33,7 +33,7 @@ An Act to consolidate enactments about wireless telegraphy.
 
 \[8th November 2006\]
 
-[^c1910533]Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-df51a114f064d15a11cb53b3a7eef155]
+[^c1910533]Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-df51a114f064d15a11cb53b3a7eef155]
 
 ## Contents
 
@@ -161,19 +161,19 @@ An Act to consolidate enactments about wireless telegraphy.
 - [Section 52 — Wireless personnel](part-2/section-52.md)
 - [Section 53 — Surrender of authority](part-2/section-53.md)
 
-### PART 2A — Regulation of dynamic spectrum access services[^key-0652a6403bec100ac50398c3cd5f3b69]
+### PART 2A — Regulation of dynamic spectrum access services[^c-0652a6403bec100ac50398c3cd5f3b69]
 
-#### Registration[^key-0652a6403bec100ac50398c3cd5f3b69]
+#### Registration[^c-0652a6403bec100ac50398c3cd5f3b69]
 
 - [Section 53A — Registration of providers of dynamic spectrum access services](part-2a/section-53a.md)
 - [Section 53B — Revocation and variation of registration](part-2a/section-53b.md)
 - [Section 53C — Register of providers of dynamic spectrum access services](part-2a/section-53c.md)
 
-#### Fees[^key-0652a6403bec100ac50398c3cd5f3b69]
+#### Fees[^c-0652a6403bec100ac50398c3cd5f3b69]
 
 - [Section 53D — Fees for registration etc](part-2a/section-53d.md)
 
-#### Enforcement[^key-0652a6403bec100ac50398c3cd5f3b69]
+#### Enforcement[^c-0652a6403bec100ac50398c3cd5f3b69]
 
 - [Section 53E — Notification of contravention of registration restrictions or conditions](part-2a/section-53e.md)
 - [Section 53F — Penalties under section 53E](part-2a/section-53f.md)
@@ -181,7 +181,7 @@ An Act to consolidate enactments about wireless telegraphy.
 - [Section 53H — Meaning of “relevant amount of gross revenue”](part-2a/section-53h.md)
 - [Section 53I — Requirement to provide information about gross revenue](part-2a/section-53i.md)
 
-#### Information[^key-0652a6403bec100ac50398c3cd5f3b69]
+#### Information[^c-0652a6403bec100ac50398c3cd5f3b69]
 
 - [Section 53J — Provision of information to persons registered under section 53A](part-2a/section-53j.md)
 - [Section 53K — Notification of contravention of information requirements](part-2a/section-53k.md)
@@ -349,6 +349,6 @@ SCHEDULES
 
     Act: specified provisions extended (Isle of Man) (with modifications) (8.2.2007) by [The Wireless Telegraphy (Isle of Man) Order 2007 (S.I. 2007/278)](https://www.legislation.gov.uk/uksi/2007/278), [art. 2](https://www.legislation.gov.uk/uksi/2007/278/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/278/schedule/1)
 
-[^key-df51a114f064d15a11cb53b3a7eef155]: Modification: Act: power to extend conferred (27.4.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 118(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/1), [119(7)](https://www.legislation.gov.uk/ukpga/2017/30/section/119/7)[(8)(e)](https://www.legislation.gov.uk/ukpga/2017/30/section/119/8/e)
+[^c-df51a114f064d15a11cb53b3a7eef155]: Modification: Act: power to extend conferred (27.4.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 118(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/1), [119(7)](https://www.legislation.gov.uk/ukpga/2017/30/section/119/7)[(8)(e)](https://www.legislation.gov.uk/ukpga/2017/30/section/119/8/e)
 
-[^key-0652a6403bec100ac50398c3cd5f3b69]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/ukpga/2006/36/part/2A) inserted (31.7.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/8/1), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/c)
+[^c-0652a6403bec100ac50398c3cd5f3b69]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/ukpga/2006/36/part/2A) inserted (31.7.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/8/1), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/c)

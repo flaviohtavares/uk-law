@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101Q. Power to modify Chapter II in relation to hybrid schemes.[^key-b2672426feac1e5c2d2895f6dabfb79d]
+## 101Q. Power to modify Chapter II in relation to hybrid schemes.[^c-b2672426feac1e5c2d2895f6dabfb79d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2672426feac1e5c2d2895f6dabfb79d]: Textual amendment: [S. 101Q](https://www.legislation.gov.uk/ukpga/1993/48/section/101Q) omitted (6.4.2015) by virtue of [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/22) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-b2672426feac1e5c2d2895f6dabfb79d]: Textual amendment: [S. 101Q](https://www.legislation.gov.uk/ukpga/1993/48/section/101Q) omitted (6.4.2015) by virtue of [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/22) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))

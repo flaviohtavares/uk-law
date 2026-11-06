@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Planning control : proposals given effect by development order.[^key-6f0bc4d2881640af6615dc2c02a941f0]
+## 7. Planning control : proposals given effect by development order.[^c-6f0bc4d2881640af6615dc2c02a941f0]
 
 *Extent: E+W*
 
-(1)[^key-2e5e1645d90c012984c3454cf9ed18ee] In relation to a new town—
+(1)[^c-2e5e1645d90c012984c3454cf9ed18ee] In relation to a new town—
 
 - (a) the development corporation shall from time to time submit to the Secretary of State, in accordance with any directions given by him in that behalf, their proposals for the development of land within the area of the new town; and
 - (b) the Secretary of State, after consultation with the district planning authority within whose area the land is situated, and with any other local authority who appear to him to be concerned, may approve any such proposals either with or without modification.
@@ -36,9 +36,9 @@ This subsection is without prejudice to the generality of the powers conferred b
 
 ## Annotations
 
-[^key-6f0bc4d2881640af6615dc2c02a941f0]: Textual amendment: Words in s. 7 heading inserted (14.4.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7), [Sch. 17 para. 1(2)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/17/paragraph/1/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/g)
+[^c-6f0bc4d2881640af6615dc2c02a941f0]: Textual amendment: Words in s. 7 heading inserted (14.4.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7), [Sch. 17 para. 1(2)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/17/paragraph/1/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/g)
 
-[^key-2e5e1645d90c012984c3454cf9ed18ee]: Modification: S. 7(1) functions made exercisable (E.) (24.7.2018) by [The New Towns Act 1981 (Local Authority Oversight) Regulations 2018 (S.I. 2018/891)](https://www.legislation.gov.uk/uksi/2018/891), [regs. 1](https://www.legislation.gov.uk/uksi/2018/891/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2018/891/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2018/891/regulation/3/2))
+[^c-2e5e1645d90c012984c3454cf9ed18ee]: Modification: S. 7(1) functions made exercisable (E.) (24.7.2018) by [The New Towns Act 1981 (Local Authority Oversight) Regulations 2018 (S.I. 2018/891)](https://www.legislation.gov.uk/uksi/2018/891), [regs. 1](https://www.legislation.gov.uk/uksi/2018/891/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2018/891/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2018/891/regulation/3/2))
 
 [^c253141]: Textual amendment: Words substituted by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123: 1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 4](https://www.legislation.gov.uk/ukpga/1990/11/section/4), [Sch. 2 para. 51(1)(a)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/51/1/a)
 

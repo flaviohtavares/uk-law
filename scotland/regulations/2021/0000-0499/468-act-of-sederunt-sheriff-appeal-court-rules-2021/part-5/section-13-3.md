@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13.3. Oral motions[^key-cbbf3bd70782596948984ee99da44c56]
+## 13.3. Oral motions[^c-cbbf3bd70782596948984ee99da44c56]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cbbf3bd70782596948984ee99da44c56]: Commencement: Para. 13.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-cbbf3bd70782596948984ee99da44c56]: Commencement: Para. 13.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

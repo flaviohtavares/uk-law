@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Building works[^key-518df1701d6fdf1201013f81df6b4a4a]
+## 3. Building works[^c-518df1701d6fdf1201013f81df6b4a4a]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ in so far as it is not expenditure for capital purposes by virtue of section 40(
 
 ## Annotations
 
-[^key-518df1701d6fdf1201013f81df6b4a4a]: Commencement: Reg. 3 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-518df1701d6fdf1201013f81df6b4a4a]: Commencement: Reg. 3 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

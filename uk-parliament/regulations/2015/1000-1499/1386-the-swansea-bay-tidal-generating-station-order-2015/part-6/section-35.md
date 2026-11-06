@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Protection of Coal Authority[^key-b5c802363d32d18e1bc1e8527a3f88be]
+## 35. Protection of Coal Authority[^c-b5c802363d32d18e1bc1e8527a3f88be]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order does not confer any powers to acquire any coal measures or land in wh
 
 ## Annotations
 
-[^key-b5c802363d32d18e1bc1e8527a3f88be]: Commencement: Art. 35 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-b5c802363d32d18e1bc1e8527a3f88be]: Commencement: Art. 35 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)

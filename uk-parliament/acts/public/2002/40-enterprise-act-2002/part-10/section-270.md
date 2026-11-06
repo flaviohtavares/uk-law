@@ -49,7 +49,7 @@ summary: ''
 
 (2) An order made by virtue of subsection (1) may relate to the maintenance of recognition or authorisation granted before this section comes into force.
 
-(3)[^key-093fa2e655d6042c05b4bc0a28873e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-093fa2e655d6042c05b4bc0a28873e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 440(2)(c) of that Act (provisions not extending to Scotland) after “415,” there shall be inserted “ 415A(3), ”.
 
@@ -57,4 +57,4 @@ summary: ''
 
 [^c18976601]: Commencement: S. 270 wholly in force at 1.4.2004; s. 270 not in force at Royal Assent see s. 279; s. 270(1)(2)(4) in force at 18.12.2003 by [S.I. 2003/3340](https://www.legislation.gov.uk/uksi/2003/3340), [art. 3](https://www.legislation.gov.uk/uksi/2003/3340/article/3), [s. 270(3)](https://www.legislation.gov.uk/uksi/2003/3340/section/270/3) in force at 1.4.2004 by [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2093/schedule/2) (as amended by [S.I. 2003/3340](https://www.legislation.gov.uk/uksi/2003/3340), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/3340/article/2/2))
 
-[^key-093fa2e655d6042c05b4bc0a28873e82]: Textual amendment: [S. 270(3)](https://www.legislation.gov.uk/ukpga/2002/40/section/270/3) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 22(13)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/22/13); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(vi)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/vi) (with [art. 7](https://www.legislation.gov.uk/uksi/2015/1732/article/7))
+[^c-093fa2e655d6042c05b4bc0a28873e82]: Textual amendment: [S. 270(3)](https://www.legislation.gov.uk/ukpga/2002/40/section/270/3) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 22(13)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/22/13); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(vi)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/vi) (with [art. 7](https://www.legislation.gov.uk/uksi/2015/1732/article/7))

@@ -23,7 +23,7 @@ summary: ''
 (1) If a person, with intent to induce a local authority to believe, in connection with the exercise of their functions under this Part, that he or another person—
 
 - (a) is homeless or threatened with homelessness, or
-- (b)[^key-f43d791bb1e5a2d1f8b627e9d98d9010] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-f43d791bb1e5a2d1f8b627e9d98d9010] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) did not become homeless or threatened with homelessness intentionally,
 
 knowingly or recklessly makes a statement which is false in a material particular, or knowingly withholds information which the authority have reasonably required him to give in connection with the exercise of those functions, he shall be guilty of an offence.
@@ -38,4 +38,4 @@ knowingly or recklessly makes a statement which is false in a material particula
 
 [^c12770911]: Modification: S. 40 applied (26.7.1993) by [1993 c. 23](https://www.legislation.gov.uk/ukpga/1993/23), [s. 4(5)](https://www.legislation.gov.uk/ukpga/1993/23/section/4/5), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/1993/23/schedule/1/paragraph/5) (with [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/1993/23/schedule/1/paragraph/8)); [S.I. 1993/1655](https://www.legislation.gov.uk/uksi/1993/1655), [art. 2](https://www.legislation.gov.uk/uksi/1993/1655/article/2).
 
-[^key-f43d791bb1e5a2d1f8b627e9d98d9010]: Textual amendment: S. 40(1)(b) omitted (31.12.2012) by virtue of [The Homelessness (Abolition of Priority Need Test) (Scotland) Order 2012 (S.S.I. 2012/330)](https://www.legislation.gov.uk/ssi/2012/330), [arts. 2](https://www.legislation.gov.uk/ssi/2012/330/article/2), [11](https://www.legislation.gov.uk/ssi/2012/330/article/11)
+[^c-f43d791bb1e5a2d1f8b627e9d98d9010]: Textual amendment: S. 40(1)(b) omitted (31.12.2012) by virtue of [The Homelessness (Abolition of Priority Need Test) (Scotland) Order 2012 (S.S.I. 2012/330)](https://www.legislation.gov.uk/ssi/2012/330), [arts. 2](https://www.legislation.gov.uk/ssi/2012/330/article/2), [11](https://www.legislation.gov.uk/ssi/2012/330/article/11)

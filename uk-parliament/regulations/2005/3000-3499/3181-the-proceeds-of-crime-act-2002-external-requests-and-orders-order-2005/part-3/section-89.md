@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Value: the basic rule[^key-9c8a105982fa7d5e117440bbbaacaa37]
+## 89. Value: the basic rule[^c-9c8a105982fa7d5e117440bbbaacaa37]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9c8a105982fa7d5e117440bbbaacaa37]: Commencement: [Art. 89](https://www.legislation.gov.uk/uksi/2005/3181/article/89) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-9c8a105982fa7d5e117440bbbaacaa37]: Commencement: [Art. 89](https://www.legislation.gov.uk/uksi/2005/3181/article/89) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
 [^f00055]: Footnote: [1986 c. 32](https://www.legislation.gov.uk/ukpga/1986/32).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Receipt of transfers of engagements from a registered society[^key-4a066cd6d5426f49250c65cdaa126c50][^key-8114b7f2c72b0113dbb649b05f46f50c]
+## 18. Receipt of transfers of engagements from a registered society[^c-4a066cd6d5426f49250c65cdaa126c50][^c-8114b7f2c72b0113dbb649b05f46f50c]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4a066cd6d5426f49250c65cdaa126c50]: Commencement: S. 18 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
+[^c-4a066cd6d5426f49250c65cdaa126c50]: Commencement: S. 18 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
 
-[^key-8114b7f2c72b0113dbb649b05f46f50c]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2023/36/section/18) in force at 1.4.2024 by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/k)
+[^c-8114b7f2c72b0113dbb649b05f46f50c]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2023/36/section/18) in force at 1.4.2024 by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/k)

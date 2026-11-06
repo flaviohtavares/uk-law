@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 249. Taxation of non-pension benefits[^key-bdb4977b16b1299177ed108e86aa0fed][^key-82faf91a8e0d278a23fafc96e1ffb2ca][^key-82faf91a8e0d278a23fafc96e1ffb2ca]
+## 249. Taxation of non-pension benefits[^c-bdb4977b16b1299177ed108e86aa0fed][^c-82faf91a8e0d278a23fafc96e1ffb2ca][^c-82faf91a8e0d278a23fafc96e1ffb2ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,8 +74,8 @@ summary: ''
 >
 > (4) In subsection (3)(c) “**relevant life policy**” means—
 >
-> - (a)[^key-15385540472ee92f3c7fb572e17dcfcb] an excepted group life policy as defined in section 480 of ITTOIA 2005,
-> - (b) a policy of life insurance the terms of which provide for the payment of benefits on the death of a single individual and with respect to which—[^key-aa243de1c02b63bf4eafdb7cce7ce6f9]
+> - (a)[^c-15385540472ee92f3c7fb572e17dcfcb] an excepted group life policy as defined in section 480 of ITTOIA 2005,
+> - (b) a policy of life insurance the terms of which provide for the payment of benefits on the death of a single individual and with respect to which—[^c-aa243de1c02b63bf4eafdb7cce7ce6f9]
 >   - (i) condition A in section 481 of that Act would be met if paragraph (a) in that condition referred to the death, in any circumstances or except in specified circumstances, of that individual (rather than the death in any circumstances of each of the individuals insured under the policy) and if the condition did not include paragraph (b), and
 >   - (ii) conditions C and D in that section and conditions A and C in section 482 of that Act are met, or
 > - (c) a policy of life insurance that would be within paragraph (a) or (b) but for the fact that it provides for a benefit which is an excluded benefit under or by virtue of paragraph (a), (b) or (d) of subsection (3).
@@ -98,7 +98,7 @@ summary: ''
 >
 > (1) This section applies in relation to a relevant benefit under an employer-financed retirement benefits scheme in the form of a lump sum where, under the scheme, an employee has paid any sum or sums by way of contribution to the provision of the lump sum.
 >
-> (2) The amount which, by virtue of section 394, counts as employment income, or is chargeable to tax under subsection (2) of that section[^key-0cc9bb9429b59ef67a354eafee4eae1f], is the amount of the lump sum reduced by the sum, or the aggregate of the sums, paid by the employee by way of contribution to the provision of the lump sum.
+> (2) The amount which, by virtue of section 394, counts as employment income, or is chargeable to tax under subsection (2) of that section[^c-0cc9bb9429b59ef67a354eafee4eae1f], is the amount of the lump sum reduced by the sum, or the aggregate of the sums, paid by the employee by way of contribution to the provision of the lump sum.
 >
 > (3) A reduction under this section may not be claimed in respect of the same contribution in relation to more than one lump sum.
 >
@@ -162,12 +162,12 @@ summary: ''
 
 ## Annotations
 
-[^key-bdb4977b16b1299177ed108e86aa0fed]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see [s. 284](https://www.legislation.gov.uk/ukpga/2004/12/section/284)
+[^c-bdb4977b16b1299177ed108e86aa0fed]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see [s. 284](https://www.legislation.gov.uk/ukpga/2004/12/section/284)
 
-[^key-82faf91a8e0d278a23fafc96e1ffb2ca]: Modification: Pt. 4 Ch. 6 excluded (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [25](https://www.legislation.gov.uk/uksi/2006/575/regulation/25)
+[^c-82faf91a8e0d278a23fafc96e1ffb2ca]: Modification: Pt. 4 Ch. 6 excluded (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [25](https://www.legislation.gov.uk/uksi/2006/575/regulation/25)
 
-[^key-15385540472ee92f3c7fb572e17dcfcb]: Textual amendment: Words in s. 249(3) substituted (6.4.2006) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [Sch. 1 para. 651(2)(a)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/651/2/a), [Sch. 2 para. 161](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2/paragraph/161) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-15385540472ee92f3c7fb572e17dcfcb]: Textual amendment: Words in s. 249(3) substituted (6.4.2006) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [Sch. 1 para. 651(2)(a)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/651/2/a), [Sch. 2 para. 161](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2/paragraph/161) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-aa243de1c02b63bf4eafdb7cce7ce6f9]: Textual amendment: Words in s. 249(3) substituted (6.4.2006) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [Sch. 1 para. 651(2)(b)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/651/2/b), [Sch. 2 para. 161](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2/paragraph/161) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-aa243de1c02b63bf4eafdb7cce7ce6f9]: Textual amendment: Words in s. 249(3) substituted (6.4.2006) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [Sch. 1 para. 651(2)(b)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/651/2/b), [Sch. 2 para. 161](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2/paragraph/161) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-0cc9bb9429b59ef67a354eafee4eae1f]: Textual amendment: Words in s. 249(8) substituted (6.4.2006) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [Sch. 1 para. 651(3)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/651/3), [Sch. 2 para. 161](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2/paragraph/161) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-0cc9bb9429b59ef67a354eafee4eae1f]: Textual amendment: Words in s. 249(8) substituted (6.4.2006) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [Sch. 1 para. 651(3)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/651/3), [Sch. 2 para. 161](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2/paragraph/161) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))

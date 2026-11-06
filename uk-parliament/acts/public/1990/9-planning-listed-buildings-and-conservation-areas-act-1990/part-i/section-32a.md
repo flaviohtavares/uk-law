@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32A. Purchase notices: Crown land[^key-dde3aed7029662b394e9a109516b24f8][^key-b717f0e4d68c249f15048c0eb92cb76c][^c21495361]
+## 32A. Purchase notices: Crown land[^c-dde3aed7029662b394e9a109516b24f8][^c-b717f0e4d68c249f15048c0eb92cb76c][^c21495361]
 
 *Extent: E+W*
 
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-dde3aed7029662b394e9a109516b24f8]: Modification: Ss. 32-33 modified (W.) (30.4.2012) by [The Planning (Listed Buildings and Conservation Areas) (Wales) Regulations 2012 (No. 793)](https://www.legislation.gov.uk/wsi/2012/793), [regs. 1](https://www.legislation.gov.uk/wsi/2012/793/regulation/1), [16](https://www.legislation.gov.uk/wsi/2012/793/regulation/16), [Sch. 3](https://www.legislation.gov.uk/wsi/2012/793/schedule/3)
+[^c-dde3aed7029662b394e9a109516b24f8]: Modification: Ss. 32-33 modified (W.) (30.4.2012) by [The Planning (Listed Buildings and Conservation Areas) (Wales) Regulations 2012 (No. 793)](https://www.legislation.gov.uk/wsi/2012/793), [regs. 1](https://www.legislation.gov.uk/wsi/2012/793/regulation/1), [16](https://www.legislation.gov.uk/wsi/2012/793/regulation/16), [Sch. 3](https://www.legislation.gov.uk/wsi/2012/793/schedule/3)
 
-[^key-b717f0e4d68c249f15048c0eb92cb76c]: Modification: Ss. 32-50 applied in part (Isles of Scilly) (with modifications) (2.10.2013) by [The Town and Country Planning (Isles of Scilly) Order 2013 (S.I. 2013/2148)](https://www.legislation.gov.uk/uksi/2013/2148), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2148/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2148/schedule/1) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/2))
+[^c-b717f0e4d68c249f15048c0eb92cb76c]: Modification: Ss. 32-50 applied in part (Isles of Scilly) (with modifications) (2.10.2013) by [The Town and Country Planning (Isles of Scilly) Order 2013 (S.I. 2013/2148)](https://www.legislation.gov.uk/uksi/2013/2148), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2148/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2148/schedule/1) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/2))
 
 [^c21495361]: Textual amendment: S. 32A inserted (7.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [ss. 79(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/79/4), [121(1)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2004/5/schedule/3/paragraph/2) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/c)

@@ -31,28 +31,28 @@ summary: ''
 
 Pensions
 
-The Pensions (2005 Order) (Code of Practice) (Dispute Resolution) (Appointed Day) Order (Northern Ireland) 2008 (revoked)[^key-6cfa1d4ca09eb827b16061de75523063]
+The Pensions (2005 Order) (Code of Practice) (Dispute Resolution) (Appointed Day) Order (Northern Ireland) 2008 (revoked)[^c-6cfa1d4ca09eb827b16061de75523063]
 
 Made
 
 16th July 2008
 
-[^key-6cfa1d4ca09eb827b16061de75523063]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6cfa1d4ca09eb827b16061de75523063]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation[^key-6cfa1d4ca09eb827b16061de75523063]
+## 1. Citation[^c-6cfa1d4ca09eb827b16061de75523063]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appointed day[^key-6cfa1d4ca09eb827b16061de75523063]
+## 2. Appointed day[^c-6cfa1d4ca09eb827b16061de75523063]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6cfa1d4ca09eb827b16061de75523063]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6cfa1d4ca09eb827b16061de75523063]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6cfa1d4ca09eb827b16061de75523063]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6cfa1d4ca09eb827b16061de75523063]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6cfa1d4ca09eb827b16061de75523063]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2008/305) revoked (5.7.2024) by [The Pensions (2005 Order) (Code of Practice) (General) (Appointed Day, Amendment and Revocations) Order (Northern Ireland) 2024 (S.R. 2024/132)](https://www.legislation.gov.uk/nisr/2024/132), [art. 4(c)](https://www.legislation.gov.uk/nisr/2024/132/article/4/c)
+[^c-6cfa1d4ca09eb827b16061de75523063]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2008/305) revoked (5.7.2024) by [The Pensions (2005 Order) (Code of Practice) (General) (Appointed Day, Amendment and Revocations) Order (Northern Ireland) 2024 (S.R. 2024/132)](https://www.legislation.gov.uk/nisr/2024/132), [art. 4(c)](https://www.legislation.gov.uk/nisr/2024/132/article/4/c)

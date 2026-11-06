@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Adjustment of eligible child’s awards consequent on re-instatement of pension benefits[^key-4b0dd9b618b1bd13e5482195a4a02b44]
+## 103. Adjustment of eligible child’s awards consequent on re-instatement of pension benefits[^c-4b0dd9b618b1bd13e5482195a4a02b44]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b0dd9b618b1bd13e5482195a4a02b44]: Commencement: [Reg. 103](https://www.legislation.gov.uk/uksi/2014/2848/regulation/103) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-4b0dd9b618b1bd13e5482195a4a02b44]: Commencement: [Reg. 103](https://www.legislation.gov.uk/uksi/2014/2848/regulation/103) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

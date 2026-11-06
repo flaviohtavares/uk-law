@@ -31,7 +31,7 @@ summary: ''
 
 Plant Health, Wales
 
-The Plant Health (Wales) (Amendment) (No. 3) Order 2019 (revoked)[^key-ae5c529f763a56a9c3aea2609c1f671b]
+The Plant Health (Wales) (Amendment) (No. 3) Order 2019 (revoked)[^c-ae5c529f763a56a9c3aea2609c1f671b]
 
 Made
 
@@ -43,56 +43,56 @@ Laid before the National Assembly for Wales
 
 Coming into force in accordance with article 1(2)
 
-[^key-ae5c529f763a56a9c3aea2609c1f671b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ae5c529f763a56a9c3aea2609c1f671b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-ae5c529f763a56a9c3aea2609c1f671b]
+## 1. Title and commencement[^c-ae5c529f763a56a9c3aea2609c1f671b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Health (Wales) Order 2018[^key-ae5c529f763a56a9c3aea2609c1f671b]
+## 2. Amendment of the Plant Health (Wales) Order 2018[^c-ae5c529f763a56a9c3aea2609c1f671b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Article 2[^key-ae5c529f763a56a9c3aea2609c1f671b]
+## 3. Article 2[^c-ae5c529f763a56a9c3aea2609c1f671b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Schedule 1[^key-ae5c529f763a56a9c3aea2609c1f671b]
+## 4. Schedule 1[^c-ae5c529f763a56a9c3aea2609c1f671b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Schedule 2[^key-ae5c529f763a56a9c3aea2609c1f671b]
+## 5. Schedule 2[^c-ae5c529f763a56a9c3aea2609c1f671b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Schedule 3[^key-ae5c529f763a56a9c3aea2609c1f671b]
+## 6. Schedule 3[^c-ae5c529f763a56a9c3aea2609c1f671b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Schedule 4[^key-ae5c529f763a56a9c3aea2609c1f671b]
+## 7. Schedule 4[^c-ae5c529f763a56a9c3aea2609c1f671b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Schedule 5[^key-ae5c529f763a56a9c3aea2609c1f671b]
+## 8. Schedule 5[^c-ae5c529f763a56a9c3aea2609c1f671b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Schedule 6[^key-ae5c529f763a56a9c3aea2609c1f671b]
+## 9. Schedule 6[^c-ae5c529f763a56a9c3aea2609c1f671b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Schedule 7[^key-ae5c529f763a56a9c3aea2609c1f671b]
+## 10. Schedule 7[^c-ae5c529f763a56a9c3aea2609c1f671b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ae5c529f763a56a9c3aea2609c1f671b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ae5c529f763a56a9c3aea2609c1f671b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ae5c529f763a56a9c3aea2609c1f671b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ae5c529f763a56a9c3aea2609c1f671b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ae5c529f763a56a9c3aea2609c1f671b]: Textual amendment: Order revoked (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2020/206/schedule/6)
+[^c-ae5c529f763a56a9c3aea2609c1f671b]: Textual amendment: Order revoked (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2020/206/schedule/6)

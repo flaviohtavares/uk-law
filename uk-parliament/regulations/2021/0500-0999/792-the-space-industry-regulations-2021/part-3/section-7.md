@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Prescribed roles: spaceport licensees[^key-802670b3b0da6473a944c336543b037e]
+## 7. Prescribed roles: spaceport licensees[^c-802670b3b0da6473a944c336543b037e]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-802670b3b0da6473a944c336543b037e]: Commencement: Reg. 7 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-802670b3b0da6473a944c336543b037e]: Commencement: Reg. 7 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
 [^f00026]: Footnote: See regulation 169 for the responsibilities of a licensee’s security manager.

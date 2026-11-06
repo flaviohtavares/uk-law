@@ -324,7 +324,7 @@ In this Act “**conduct forming part of the Troubles**” has the same meaning 
 - (a) proceedings for an offence under section 2(1), 3, 9, 10, 11 or 18 of the [^c878146]Prevention of Terrorism (Temporary Provisions) Act 1989;
 - (b) proceedings for an offence under section 29, 30(1), 31 or 35 of the [^c878147]Northern Ireland (Emergency Provisions) Act 1996;
 - (c) proceedings for an offence under section 5 of the [^c878148]Criminal Law Act 1967 or of the [^c878149]Criminal Law Act Northern Ireland) 1967 which relates to an offence mentioned in paragraph (a) or (b);
-- (d)[^key-8f4e0d5d1fbd8d62fc30511c030c6bc2] proceedings for an offence of aiding, abetting, counselling, procuring or inciting the commission of an offence mentioned in any of paragraphs (a) to (c), or of attempting or conspiring to commit an offence so mentioned.
+- (d)[^c-8f4e0d5d1fbd8d62fc30511c030c6bc2] proceedings for an offence of aiding, abetting, counselling, procuring or inciting the commission of an offence mentioned in any of paragraphs (a) to (c), or of attempting or conspiring to commit an offence so mentioned.
 
 (3) The evidence or information shall not—
 
@@ -558,7 +558,7 @@ Section 2.
 
 **7.** (1) The rules may permit Commissioners to hold proceedings in specified circumstances in the absence of any person, including the prisoner concerned and any representative appointed by him.
 
-(2) Where a prisoner and any representative appointed by him are excluded from proceedings by virtue of sub-paragraph (1), the Advocate General for Northern Ireland[^key-7849d223b1559bee1ac8e188b3ecb8cd] may appoint a person to represent the prisoner’s interests in those proceedings.
+(2) Where a prisoner and any representative appointed by him are excluded from proceedings by virtue of sub-paragraph (1), the Advocate General for Northern Ireland[^c-7849d223b1559bee1ac8e188b3ecb8cd] may appoint a person to represent the prisoner’s interests in those proceedings.
 
 ### Successive applications
 
@@ -749,7 +749,7 @@ Section 17.
 
 [^c878149]: Marginal citation: [1967 c. 18 (N.I.)](https://www.legislation.gov.uk/apni/1967/18).
 
-[^key-8f4e0d5d1fbd8d62fc30511c030c6bc2]: Modification: S. 14(2)(d) modified (E.W. N. I.) (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 35](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/35) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
+[^c-8f4e0d5d1fbd8d62fc30511c030c6bc2]: Modification: S. 14(2)(d) modified (E.W. N. I.) (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 35](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/35) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
 
 [^c878150]: Textual amendment: S. 14(3)(a) substituted (19.2.2001) by [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11), [s. 125](https://www.legislation.gov.uk/ukpga/2000/11/section/125), [Sch. 15 para. 16(3)(a)](https://www.legislation.gov.uk/ukpga/2000/11/schedule/15/paragraph/16/3/a); [S.I. 2001/421](https://www.legislation.gov.uk/uksi/2001/421), [art. 2](https://www.legislation.gov.uk/uksi/2001/421/article/2)
 
@@ -781,7 +781,7 @@ Section 17.
 
 [^c878164]: Marginal citation: [1976 c. 25](https://www.legislation.gov.uk/ukpga/1976/25).
 
-[^key-7849d223b1559bee1ac8e188b3ecb8cd]: Textual amendment: Words in [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/ukpga/1998/35/schedule/2/paragraph/7/2) substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 20](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/20); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(d)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/d)
+[^c-7849d223b1559bee1ac8e188b3ecb8cd]: Textual amendment: Words in [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/ukpga/1998/35/schedule/2/paragraph/7/2) substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 20](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/20); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(d)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/d)
 
 [^M_F_e81793fb-79ca-40e5-aaaa-ace67501aaf4]: Textual amendment: Sch. 3 para. 2(A1)(A2) inserted (1.5.2024) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3), [Sch. 12 para. 3(2)](https://www.legislation.gov.uk/ukpga/2023/41/schedule/12/paragraph/3/2) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61), [Sch. 12 para. 1(2)](https://www.legislation.gov.uk/ukpga/2023/41/schedule/12/paragraph/1/2))
 

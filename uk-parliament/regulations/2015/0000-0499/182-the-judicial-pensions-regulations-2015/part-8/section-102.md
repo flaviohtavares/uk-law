@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Meaning of “eligible child’s pension”[^key-d06a72fb641e015c8d7f4bb8ccd010e9]
+## 102. Meaning of “eligible child’s pension”[^c-d06a72fb641e015c8d7f4bb8ccd010e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In these Regulations, “eligible child’s pension” means any of the followin
 
 ## Annotations
 
-[^key-d06a72fb641e015c8d7f4bb8ccd010e9]: Commencement: [Reg. 102](https://www.legislation.gov.uk/uksi/2015/182/regulation/102) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-d06a72fb641e015c8d7f4bb8ccd010e9]: Commencement: [Reg. 102](https://www.legislation.gov.uk/uksi/2015/182/regulation/102) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111.[^key-0c6570903289f0556de78ef05b3ae32a]
+## 111.[^c-0c6570903289f0556de78ef05b3ae32a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation 61 (hearing) has effect as if, in paragraph (1)(b), for “its” the
 
 ## Annotations
 
-[^key-0c6570903289f0556de78ef05b3ae32a]: Commencement: Reg. 111 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-0c6570903289f0556de78ef05b3ae32a]: Commencement: Reg. 111 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

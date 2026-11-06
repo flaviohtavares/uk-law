@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 379. Power to make further amendments and repeals[^key-4f024cb2974a7fb23d792d53f502d3d4]
+## 379. Power to make further amendments and repeals[^c-4f024cb2974a7fb23d792d53f502d3d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f024cb2974a7fb23d792d53f502d3d4]: Commencement: S. 379 in force at 4.6.2007 by [S.I. 2007/1442](https://www.legislation.gov.uk/uksi/2007/1442), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/1442/article/2/2)
+[^c-4f024cb2974a7fb23d792d53f502d3d4]: Commencement: S. 379 in force at 4.6.2007 by [S.I. 2007/1442](https://www.legislation.gov.uk/uksi/2007/1442), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/1442/article/2/2)

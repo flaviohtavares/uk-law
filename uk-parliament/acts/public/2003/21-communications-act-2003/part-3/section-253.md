@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 253. Extension and modification of existing licences[^key-614551a3168120c302e5be3e93de0c0c]
+## 253. Extension and modification of existing licences[^c-614551a3168120c302e5be3e93de0c0c]
 
 *Extent: E+W+S+N.I.*
 
@@ -86,4 +86,4 @@ as OFCOM may determine.
 
 ## Annotations
 
-[^key-614551a3168120c302e5be3e93de0c0c]: Commencement: S. 253 in force at 2.1.2004 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 4(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/4/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-614551a3168120c302e5be3e93de0c0c]: Commencement: S. 253 in force at 2.1.2004 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 4(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/4/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Local government elections[^key-ea177e02e8dba5a11565d3b1dfc845d7][^key-a6a11c8f6b56526ace3cf49882fc4574]
+## 2. Local government elections[^c-ea177e02e8dba5a11565d3b1dfc845d7][^c-a6a11c8f6b56526ace3cf49882fc4574]
 
 *Extent: S*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ea177e02e8dba5a11565d3b1dfc845d7]: Commencement: S. 2 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-ea177e02e8dba5a11565d3b1dfc845d7]: Commencement: S. 2 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-a6a11c8f6b56526ace3cf49882fc4574]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2025/4/section/2) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)
+[^c-a6a11c8f6b56526ace3cf49882fc4574]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2025/4/section/2) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)

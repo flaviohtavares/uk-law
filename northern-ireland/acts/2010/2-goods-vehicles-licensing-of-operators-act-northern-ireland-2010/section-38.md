@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Powers of entry[^key-d58908f1e95c1f356c5f26e9695c3bd6]
+## 38. Powers of entry[^c-d58908f1e95c1f356c5f26e9695c3bd6]
 
 *Extent: N.I.*
 
@@ -55,4 +55,4 @@ the lay magistrate may issue a warrant authorising the authorised person to ente
 
 ## Annotations
 
-[^key-d58908f1e95c1f356c5f26e9695c3bd6]: Commencement: S. 38 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
+[^c-d58908f1e95c1f356c5f26e9695c3bd6]: Commencement: S. 38 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))

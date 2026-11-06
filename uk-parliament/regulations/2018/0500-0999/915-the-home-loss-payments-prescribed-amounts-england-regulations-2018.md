@@ -34,7 +34,7 @@ Acquisition Of Land, England
 
 Compensation
 
-The Home Loss Payments (Prescribed Amounts) (England) Regulations 2018 (revoked)[^key-e4cf6cf8a55154279c7c2b9bf0aed4b6]
+The Home Loss Payments (Prescribed Amounts) (England) Regulations 2018 (revoked)[^c-e4cf6cf8a55154279c7c2b9bf0aed4b6]
 
 Made
 
@@ -48,28 +48,28 @@ Coming into force
 
 1st October 2018
 
-[^key-e4cf6cf8a55154279c7c2b9bf0aed4b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e4cf6cf8a55154279c7c2b9bf0aed4b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-e4cf6cf8a55154279c7c2b9bf0aed4b6]
+## 1. Citation, commencement and application[^c-e4cf6cf8a55154279c7c2b9bf0aed4b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revision of prescribed amounts for home loss payment[^key-e4cf6cf8a55154279c7c2b9bf0aed4b6]
+## 2. Revision of prescribed amounts for home loss payment[^c-e4cf6cf8a55154279c7c2b9bf0aed4b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation and savings[^key-e4cf6cf8a55154279c7c2b9bf0aed4b6]
+## 3. Revocation and savings[^c-e4cf6cf8a55154279c7c2b9bf0aed4b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e4cf6cf8a55154279c7c2b9bf0aed4b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e4cf6cf8a55154279c7c2b9bf0aed4b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e4cf6cf8a55154279c7c2b9bf0aed4b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e4cf6cf8a55154279c7c2b9bf0aed4b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e4cf6cf8a55154279c7c2b9bf0aed4b6]: Textual amendment: Regulations revoked (1.10.2019) by [The Home Loss Payments (Prescribed Amounts) (England) Regulations 2019 (S.I. 2019/1117)](https://www.legislation.gov.uk/uksi/2019/1117), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1117/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2019/1117/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2019/1117/regulation/3/2))
+[^c-e4cf6cf8a55154279c7c2b9bf0aed4b6]: Textual amendment: Regulations revoked (1.10.2019) by [The Home Loss Payments (Prescribed Amounts) (England) Regulations 2019 (S.I. 2019/1117)](https://www.legislation.gov.uk/uksi/2019/1117), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1117/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2019/1117/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2019/1117/regulation/3/2))

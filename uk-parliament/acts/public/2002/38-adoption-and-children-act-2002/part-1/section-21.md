@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Placement orders[^key-f27575c797decc44d6211b92f8a3836b][^key-1da17170727d0b863c60c8ef01debfcc]
+## 21. Placement orders[^c-f27575c797decc44d6211b92f8a3836b][^c-1da17170727d0b863c60c8ef01debfcc]
 
 *Extent: E+W*
 
@@ -38,17 +38,17 @@ summary: ''
 (4) A placement order continues in force until—
 
 - (a) it is revoked under section 24,
-- (b)[^key-7d230c8311852ec78fc73c35e878515d] an adoption order is made in respect of the child, or
-- (c) the child marries , forms a civil partnership[^key-3ebee6cb49f71abedd5f53d620b3e7a8] or attains the age of 18 years.
+- (b)[^c-7d230c8311852ec78fc73c35e878515d] an adoption order is made in respect of the child, or
+- (c) the child marries , forms a civil partnership[^c-3ebee6cb49f71abedd5f53d620b3e7a8] or attains the age of 18 years.
 
 “**Adoption order**” includes a Scottish or Northern Irish adoption order.
 
 ## Annotations
 
-[^key-f27575c797decc44d6211b92f8a3836b]: Commencement: S. 21 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/c) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-f27575c797decc44d6211b92f8a3836b]: Commencement: S. 21 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/c) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
 
-[^key-1da17170727d0b863c60c8ef01debfcc]: Modification: S. 21 restricted by 1978 c. 28, s. 16(3D) (as inserted (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 23](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/23) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.S.I. 2005/643](https://www.legislation.gov.uk/ssi/2005/643), [art. 2(c)](https://www.legislation.gov.uk/ssi/2005/643/article/2/c))
+[^c-1da17170727d0b863c60c8ef01debfcc]: Modification: S. 21 restricted by 1978 c. 28, s. 16(3D) (as inserted (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 23](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/23) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.S.I. 2005/643](https://www.legislation.gov.uk/ssi/2005/643), [art. 2(c)](https://www.legislation.gov.uk/ssi/2005/643/article/2/c))
 
-[^key-7d230c8311852ec78fc73c35e878515d]: Modification: S. 21(4)(b) applied (with modifications) (30.12.2005) by [The Adoptions with a Foreign Element Regulations 2005 (S.I. 2005/392)](https://www.legislation.gov.uk/uksi/2005/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/392/regulation/1/1), [11(1)(c)](https://www.legislation.gov.uk/uksi/2005/392/regulation/11/1/c), [52](https://www.legislation.gov.uk/uksi/2005/392/regulation/52), [55](https://www.legislation.gov.uk/uksi/2005/392/regulation/55)
+[^c-7d230c8311852ec78fc73c35e878515d]: Modification: S. 21(4)(b) applied (with modifications) (30.12.2005) by [The Adoptions with a Foreign Element Regulations 2005 (S.I. 2005/392)](https://www.legislation.gov.uk/uksi/2005/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/392/regulation/1/1), [11(1)(c)](https://www.legislation.gov.uk/uksi/2005/392/regulation/11/1/c), [52](https://www.legislation.gov.uk/uksi/2005/392/regulation/52), [55](https://www.legislation.gov.uk/uksi/2005/392/regulation/55)
 
-[^key-3ebee6cb49f71abedd5f53d620b3e7a8]: Textual amendment: Words in s. 21(4)(c) inserted (30.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 79(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/79/2), [263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(9)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/9)
+[^c-3ebee6cb49f71abedd5f53d620b3e7a8]: Textual amendment: Words in s. 21(4)(c) inserted (30.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 79(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/79/2), [263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(9)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 107. Bequest of 1991 Act tenancies[^key-a06720add484ce885d27acd0a5d8df59]
+## 107. Bequest of 1991 Act tenancies[^c-a06720add484ce885d27acd0a5d8df59]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ In section 11 of the 1991 Act (bequest of lease)—
 
 ## Annotations
 
-[^key-a06720add484ce885d27acd0a5d8df59]: Commencement: [S. 107](https://www.legislation.gov.uk/asp/2016/18/section/107) in force at 23.12.2016 by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))
+[^c-a06720add484ce885d27acd0a5d8df59]: Commencement: [S. 107](https://www.legislation.gov.uk/asp/2016/18/section/107) in force at 23.12.2016 by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))

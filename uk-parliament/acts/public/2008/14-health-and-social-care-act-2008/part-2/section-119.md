@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Responsible officers and their duties relating to medical profession[^c1942211][^key-9062a6064709ba2067d080fa102dfcd5]
+## 119. Responsible officers and their duties relating to medical profession[^c1942211][^c-9062a6064709ba2067d080fa102dfcd5]
 
 *Extent: E+W+S+N.I.*
 
@@ -159,4 +159,4 @@ After Part 5 of the Medical Act 1983 (c. 54) insert—
 
 [^c1942211]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2008/14/section/119) partly in force; [S. 119](https://www.legislation.gov.uk/ukpga/2008/14/section/119) in force for specified purposes at Royal Assent, see [s. 170](https://www.legislation.gov.uk/ukpga/2008/14/section/170)
 
-[^key-9062a6064709ba2067d080fa102dfcd5]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2008/14/section/119) in force at 1.4.2010 for E.W.S. by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/708/article/3/a)
+[^c-9062a6064709ba2067d080fa102dfcd5]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2008/14/section/119) in force at 1.4.2010 for E.W.S. by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/708/article/3/a)

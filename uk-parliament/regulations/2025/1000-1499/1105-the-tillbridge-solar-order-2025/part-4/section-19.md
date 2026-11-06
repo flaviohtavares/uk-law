@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Protective works to buildings[^key-bc317d17b9197abb152428314284b5ec]
+## 19. Protective works to buildings[^c-bc317d17b9197abb152428314284b5ec]
 
 *Extent: E+W+S*
 
@@ -44,7 +44,7 @@ summary: ''
 
 the undertaker must, except in the case of emergency, serve on the owners and occupiers of the building or land not less than 14 days’ notice of its intention to exercise that right and, in a case falling within sub-paragraph (a), (c) or (d), specifying the protective works proposed to be carried out.
 
-(6) Where a notice is served under paragraph (5)(a), (5)(c) or (5)(d), the owner or occupier of the building or land concerned may, by serving a counter-notice within the period of 10 days beginning with the day on which the notice was served, require the question of[^key-c70e829d9d46033859520b95dc51da85] whether it is necessary or expedient to carry out the protective works or to enter the building or land to be referred to arbitration under article 43 (arbitration).
+(6) Where a notice is served under paragraph (5)(a), (5)(c) or (5)(d), the owner or occupier of the building or land concerned may, by serving a counter-notice within the period of 10 days beginning with the day on which the notice was served, require the question of[^c-c70e829d9d46033859520b95dc51da85] whether it is necessary or expedient to carry out the protective works or to enter the building or land to be referred to arbitration under article 43 (arbitration).
 
 (7) The undertaker must compensate the owners and occupiers of any building or land in relation to which rights under this article have been exercised for any loss or damage arising to them by reason of the exercise of those rights.
 
@@ -68,6 +68,6 @@ the undertaker must compensate the owners and occupiers of the building for any 
 
 ## Annotations
 
-[^key-bc317d17b9197abb152428314284b5ec]: Commencement: Art. 19 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
+[^c-bc317d17b9197abb152428314284b5ec]: Commencement: Art. 19 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
 
-[^key-c70e829d9d46033859520b95dc51da85]: Textual amendment: Word in art. 19(6) inserted (30.4.2026) by [The Tillbridge Solar (Correction) Order 2026 (S.I. 2026/487)](https://www.legislation.gov.uk/uksi/2026/487), [art. 1](https://www.legislation.gov.uk/uksi/2026/487/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/487/schedule)
+[^c-c70e829d9d46033859520b95dc51da85]: Textual amendment: Word in art. 19(6) inserted (30.4.2026) by [The Tillbridge Solar (Correction) Order 2026 (S.I. 2026/487)](https://www.legislation.gov.uk/uksi/2026/487), [art. 1](https://www.legislation.gov.uk/uksi/2026/487/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/487/schedule)

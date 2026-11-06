@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Lawfulness of processing[^key-ee6cafeb1e729c25382602f5c259aad2][^key-d4acd92aa6c0352c8109a5fddfa3945a]
+## 70. Lawfulness of processing[^c-ee6cafeb1e729c25382602f5c259aad2][^c-d4acd92aa6c0352c8109a5fddfa3945a]
 
 *Extent: E+W+S+N.I.*
 
@@ -97,6 +97,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ee6cafeb1e729c25382602f5c259aad2]: Commencement: S. 70 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-ee6cafeb1e729c25382602f5c259aad2]: Commencement: S. 70 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-d4acd92aa6c0352c8109a5fddfa3945a]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2025/18/section/70) in force at 5.2.2026 in so far as not already in force by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/c)
+[^c-d4acd92aa6c0352c8109a5fddfa3945a]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2025/18/section/70) in force at 5.2.2026 in so far as not already in force by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/c)

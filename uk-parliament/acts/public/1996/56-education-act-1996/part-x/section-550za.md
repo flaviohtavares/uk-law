@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 550ZA. Power of members of staff to search pupils for prohibited items: England[^key-5ba8cc289df00fe228800e9937d24135]
+## 550ZA. Power of members of staff to search pupils for prohibited items: England[^c-5ba8cc289df00fe228800e9937d24135]
 
 *Extent: E+W*
 
@@ -34,15 +34,15 @@ summary: ''
 - (c) alcohol, within the meaning of section 191 of the Licensing Act 2003;
 - (d) a controlled drug, within the meaning of section 2 of the Misuse of Drugs Act 1971, which section 5(1) of that Act makes it unlawful for P to have in P's possession;
 - (e) a stolen article;
-- (ea)[^key-37f55157498fbcd6213d472589d31333] an article that the member of staff reasonably suspects has been, or is likely to be, used—
+- (ea)[^c-37f55157498fbcd6213d472589d31333] an article that the member of staff reasonably suspects has been, or is likely to be, used—
   - (i) to commit an offence, or
   - (ii) to cause personal injury to, or damage to the property of, any person (including P);
 - (f) an article of a kind specified in regulations.
-- (g)[^key-f81ab13865e134d99bfaaef7fa9eac46] any other item which the school rules identify as an item for which a search may be made.
+- (g)[^c-f81ab13865e134d99bfaaef7fa9eac46] any other item which the school rules identify as an item for which a search may be made.
 
 (4) In subsection (3)(e) “**stolen**”, in relation to an article, has the same meaning as it has by virtue of section 24 of the Theft Act 1968 in the provisions of that Act relating to goods which have been stolen.
 
-(4A)[^key-38d1d0ab9faf36e0016566ee59df56d9] In subsection (3)(ea)(i), “**offence**” includes anything that would be an offence but for the operation of any presumption that a person under a particular age is incapable of committing an offence.
+(4A)[^c-38d1d0ab9faf36e0016566ee59df56d9] In subsection (3)(ea)(i), “**offence**” includes anything that would be an offence but for the operation of any presumption that a person under a particular age is incapable of committing an offence.
 
 (4B) In subsection (3)(g), the “**school rules**” means—
 
@@ -69,10 +69,10 @@ summary: ''
 
 ## Annotations
 
-[^key-5ba8cc289df00fe228800e9937d24135]: Textual amendment: Ss. 550ZA-550ZD inserted (1.9.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 242(1)](https://www.legislation.gov.uk/ukpga/2009/22/section/242/1), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 6](https://www.legislation.gov.uk/uksi/2010/303/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/303/schedule/5) (as amended (26.7.2010) by [S.I. 2010/1891](https://www.legislation.gov.uk/uksi/2010/1891), art. 2(2) (with art. 3))
+[^c-5ba8cc289df00fe228800e9937d24135]: Textual amendment: Ss. 550ZA-550ZD inserted (1.9.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 242(1)](https://www.legislation.gov.uk/ukpga/2009/22/section/242/1), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 6](https://www.legislation.gov.uk/uksi/2010/303/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/303/schedule/5) (as amended (26.7.2010) by [S.I. 2010/1891](https://www.legislation.gov.uk/uksi/2010/1891), art. 2(2) (with art. 3))
 
-[^key-37f55157498fbcd6213d472589d31333]: Textual amendment: [S. 550ZA(3)(ea)](https://www.legislation.gov.uk/ukpga/1996/56/section/550ZA/3/ea) inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2011/21/section/2/2/a), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-37f55157498fbcd6213d472589d31333]: Textual amendment: [S. 550ZA(3)(ea)](https://www.legislation.gov.uk/ukpga/1996/56/section/550ZA/3/ea) inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2011/21/section/2/2/a), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-f81ab13865e134d99bfaaef7fa9eac46]: Textual amendment: [S. 550ZA(3)(g)](https://www.legislation.gov.uk/ukpga/1996/56/section/550ZA/3/g) inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2011/21/section/2/2/b), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-f81ab13865e134d99bfaaef7fa9eac46]: Textual amendment: [S. 550ZA(3)(g)](https://www.legislation.gov.uk/ukpga/1996/56/section/550ZA/3/g) inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2011/21/section/2/2/b), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-38d1d0ab9faf36e0016566ee59df56d9]: Textual amendment: [Ss. 550ZA(4A)-(4C)](https://www.legislation.gov.uk/ukpga/1996/56/section/550ZA/4A) inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 2(2)(c)](https://www.legislation.gov.uk/ukpga/2011/21/section/2/2/c), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-38d1d0ab9faf36e0016566ee59df56d9]: Textual amendment: [Ss. 550ZA(4A)-(4C)](https://www.legislation.gov.uk/ukpga/1996/56/section/550ZA/4A) inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 2(2)(c)](https://www.legislation.gov.uk/ukpga/2011/21/section/2/2/c), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21A. Entitlement of recipients of diffuse mesothelioma lump sums to other awards[^key-533a392f85c94a8bdd2d5a0e074a99a5]
+## 21A. Entitlement of recipients of diffuse mesothelioma lump sums to other awards[^c-533a392f85c94a8bdd2d5a0e074a99a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-533a392f85c94a8bdd2d5a0e074a99a5]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/uksi/2006/606/part/2A) inserted (11.4.2016) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2016 (S.I. 2016/374)](https://www.legislation.gov.uk/uksi/2016/374), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/374/article/1/1), [4](https://www.legislation.gov.uk/uksi/2016/374/article/4)
+[^c-533a392f85c94a8bdd2d5a0e074a99a5]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/uksi/2006/606/part/2A) inserted (11.4.2016) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2016 (S.I. 2016/374)](https://www.legislation.gov.uk/uksi/2016/374), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/374/article/1/1), [4](https://www.legislation.gov.uk/uksi/2016/374/article/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Regulations about coverage of listed events[^key-5db77c6dcd07aaebef27aebb69e5eba9][^key-2325c3ca7086b5ee37dc95bc1f1caa3d]
+## 23. Regulations about coverage of listed events[^c-5db77c6dcd07aaebef27aebb69e5eba9][^c-2325c3ca7086b5ee37dc95bc1f1caa3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5db77c6dcd07aaebef27aebb69e5eba9]: Commencement: S. 23 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
+[^c-5db77c6dcd07aaebef27aebb69e5eba9]: Commencement: S. 23 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
 
-[^key-2325c3ca7086b5ee37dc95bc1f1caa3d]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2024/15/section/23) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/c)
+[^c-2325c3ca7086b5ee37dc95bc1f1caa3d]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2024/15/section/23) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/c)

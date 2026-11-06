@@ -23,7 +23,7 @@ summary: ''
 (1) Subject to paragraph (2), where a person—
 
 - (a) makes, or is treated as making, an application; and
-- (b) fulfils the conditions of entitlement to council tax reduction in regulation 14 or 14A[^key-4473768c6b7419f9d435227bf836d58f],
+- (b) fulfils the conditions of entitlement to council tax reduction in regulation 14 or 14A[^c-4473768c6b7419f9d435227bf836d58f],
 
 that person is entitled to council tax reduction from the first Monday after the date on which the application is made or treated as made.
 
@@ -31,12 +31,12 @@ that person is entitled to council tax reduction from the first Monday after the
 
 - (a) becomes liable for the first time for council tax in respect of a dwelling in which the person resides;
 - (b) makes, or is treated as making, an application in the reduction week in which the person first becomes liable for council tax in respect of that dwelling; and
-- (c) fulfils the conditions of entitlement to council tax reduction in regulation 14 or 14A[^key-ff147baa546bcaa133c1aa122a3b6faa],
+- (c) fulfils the conditions of entitlement to council tax reduction in regulation 14 or 14A[^c-ff147baa546bcaa133c1aa122a3b6faa],
 
 that person is entitled to council tax reduction from the day on which the person first becomes liable for council tax.
 
 ## Annotations
 
-[^key-4473768c6b7419f9d435227bf836d58f]: Textual amendment: Words in [reg. 58(1)(b)](https://www.legislation.gov.uk/ssi/2012/319/regulation/58/1/b) inserted (1.4.2017) by [The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2016 (S.S.I. 2016/253)](https://www.legislation.gov.uk/ssi/2016/253), [regs. 1](https://www.legislation.gov.uk/ssi/2016/253/regulation/1), [14(a)](https://www.legislation.gov.uk/ssi/2016/253/regulation/14/a)
+[^c-4473768c6b7419f9d435227bf836d58f]: Textual amendment: Words in [reg. 58(1)(b)](https://www.legislation.gov.uk/ssi/2012/319/regulation/58/1/b) inserted (1.4.2017) by [The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2016 (S.S.I. 2016/253)](https://www.legislation.gov.uk/ssi/2016/253), [regs. 1](https://www.legislation.gov.uk/ssi/2016/253/regulation/1), [14(a)](https://www.legislation.gov.uk/ssi/2016/253/regulation/14/a)
 
-[^key-ff147baa546bcaa133c1aa122a3b6faa]: Textual amendment: Words in [reg. 58(2)(c)](https://www.legislation.gov.uk/ssi/2012/319/regulation/58/2/c) inserted (1.4.2017) by [The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2016 (S.S.I. 2016/253)](https://www.legislation.gov.uk/ssi/2016/253), [regs. 1](https://www.legislation.gov.uk/ssi/2016/253/regulation/1), [14(b)](https://www.legislation.gov.uk/ssi/2016/253/regulation/14/b)
+[^c-ff147baa546bcaa133c1aa122a3b6faa]: Textual amendment: Words in [reg. 58(2)(c)](https://www.legislation.gov.uk/ssi/2012/319/regulation/58/2/c) inserted (1.4.2017) by [The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2016 (S.S.I. 2016/253)](https://www.legislation.gov.uk/ssi/2016/253), [regs. 1](https://www.legislation.gov.uk/ssi/2016/253/regulation/1), [14(b)](https://www.legislation.gov.uk/ssi/2016/253/regulation/14/b)

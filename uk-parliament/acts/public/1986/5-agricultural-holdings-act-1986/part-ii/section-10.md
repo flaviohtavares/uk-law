@@ -45,7 +45,7 @@ shall be removable by the tenant at any time during the continuance of the tenan
 
 (6) Any dispute between the landlord and the tenant with respect to the amount payable by the landlord under subsection (4) above in respect of any fixture or building shall be determined by arbitration under this Act.
 
-(6A)[^key-461b036c9223aa3eb3dfe85e5db7d17f] Notwithstanding subsection (6) above, the landlord and tenant may instead refer for third party determination under this Act the dispute that has arisen with respect to the amount payable by the landlord under subsection (4).
+(6A)[^c-461b036c9223aa3eb3dfe85e5db7d17f] Notwithstanding subsection (6) above, the landlord and tenant may instead refer for third party determination under this Act the dispute that has arisen with respect to the amount payable by the landlord under subsection (4).
 
 (7) This section shall apply to a fixture or building acquired by a tenant as it applies to a fixture or building affixed or erected by him.
 
@@ -53,4 +53,4 @@ shall be removable by the tenant at any time during the continuance of the tenan
 
 ## Annotations
 
-[^key-461b036c9223aa3eb3dfe85e5db7d17f]: Textual amendment: S. 10(6A) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e)[(3)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/a), [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2015/20/schedule/4/paragraph/7)
+[^c-461b036c9223aa3eb3dfe85e5db7d17f]: Textual amendment: S. 10(6A) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e)[(3)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/a), [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2015/20/schedule/4/paragraph/7)

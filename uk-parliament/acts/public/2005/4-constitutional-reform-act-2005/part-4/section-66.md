@@ -22,7 +22,7 @@ summary: ''
 
 (1) Before issuing any guidance the Lord Chancellor must—
 
-- (a) obtain the agreement of[^key-964f3cd3c0609f41a7b19ca8a4bdba94] the Lord Chief Justice;
+- (a) obtain the agreement of[^c-964f3cd3c0609f41a7b19ca8a4bdba94] the Lord Chief Justice;
 - (b) after doing so, lay a draft of the proposed guidance before each House of Parliament.
 
 (2) If the draft is approved by a resolution of each House of Parliament within the 40-day period the Lord Chancellor must issue the guidance in the form of the draft.
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-964f3cd3c0609f41a7b19ca8a4bdba94]: Textual amendment: Words in [s. 66(1)(a)](https://www.legislation.gov.uk/ukpga/2005/4/section/66/1/a) substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 55](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/55); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-964f3cd3c0609f41a7b19ca8a4bdba94]: Textual amendment: Words in [s. 66(1)(a)](https://www.legislation.gov.uk/ukpga/2005/4/section/66/1/a) substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 55](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/55); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)

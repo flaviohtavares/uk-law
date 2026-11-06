@@ -24,7 +24,7 @@ summary: ''
 
 (2) Where the whole or part of the value mentioned in section 64 above is attributable to property which was not relevant property, or was not comprised in the settlement, throughout the period of ten years ending immediately before the ten-year anniversary concerned, the rate at which tax is charged on that value or part shall be reduced by one-fortieth for each of the successive quarters in that period which expired before the property became, or last became, relevant property comprised in the settlement.
 
-(2A)[^key-7921d7a6aae9222b3308532b931153dc] Subsection (2) above does not apply to property which is regarded as relevant property as a result of section 64(1A) (and accordingly that property is charged to tax at the rate given by subsection (1) above).
+(2A)[^c-7921d7a6aae9222b3308532b931153dc] Subsection (2) above does not apply to property which is regarded as relevant property as a result of section 64(1A) (and accordingly that property is charged to tax at the rate given by subsection (1) above).
 
 (3) The chargeable transfer postulated in subsection (1) above is one—
 
@@ -35,9 +35,9 @@ summary: ''
 (4) The amount referred to in subsection (3)(a) above is equal to the aggregate of—
 
 - (a) the value on which is charged under section 64 above;
-- (b)[^key-feb81b1ed318559d6ce6358058eb168b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) the value, immediately after a related settlement commenced, of the relevant[^key-a0055143a074959af6a261f0c571f9ab] property then comprised in it;
-- (d)[^key-5ff81ec3626ae5a2bdd8526f11b22dc6] the value of any same-day addition; and
+- (b)[^c-feb81b1ed318559d6ce6358058eb168b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) the value, immediately after a related settlement commenced, of the relevant[^c-a0055143a074959af6a261f0c571f9ab] property then comprised in it;
+- (d)[^c-5ff81ec3626ae5a2bdd8526f11b22dc6] the value of any same-day addition; and
 - (e) where—
   - (i) an increase in the value of the property comprised in another settlement is represented by the value of a same-day addition aggregated under paragraph (d) above, and
   - (ii) that other settlement is not a related settlement,
@@ -55,28 +55,28 @@ but subject to subsection (6) and section 67 below.
 
 (6) In relation to a settlement which commenced before 27th March 1974—
 
-- (a) subsection (4) above shall have effect with the omission of paragraphs (c) to (e)[^key-0648f59eb6c0b5ec286fe70558bb05d9] ; and
+- (a) subsection (4) above shall have effect with the omission of paragraphs (c) to (e)[^c-0648f59eb6c0b5ec286fe70558bb05d9] ; and
 - (b) subsection (5) above shall have effect with the omission of paragraph (a);
 
 and where tax is chargeable under section 64 above by reference to the first ten-year anniversary of a settlement which commenced before 9th March 1982, the aggregate mentioned in subsection (5) above shall be increased by the amounts of any distribution payments (determined in accordance with the rules applicable under paragraph 11 of Schedule 5 to the [^c13608851]Finance Act 1975) made out of settled property before 9th March 1982 (or, where paragraph 6, 7 or 8 of Schedule 15 to the [^c13608861]Finance Act 1982 applied, 1st April 1983, or, as the case may be, 1st April 1984) and within the period of ten years before the anniversary concerned.
 
 ## Annotations
 
-[^key-7921d7a6aae9222b3308532b931153dc]: Textual amendment: S. 66(2A) inserted (with effect in accordance with Sch. 25 para. 4(3) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 25 para. 4(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/25/paragraph/4/2)
+[^c-7921d7a6aae9222b3308532b931153dc]: Textual amendment: S. 66(2A) inserted (with effect in accordance with Sch. 25 para. 4(3) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 25 para. 4(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/25/paragraph/4/2)
 
 [^c13608821]: Textual amendment: Finance Act 1986 Sch. 19 para. 16(1), *with effect from* 18 *March* 1986 *originally* “preceding ten years”.
 
 [^c13608831]: Textual amendment: Finance Act 1986 Sch. 19 para. 16(2), *with effect from* 18 *March* 1986. *Originally* “(c) for which the appropriate Table of rates is the second Table in Schedule 1 to this Act.”
 
-[^key-feb81b1ed318559d6ce6358058eb168b]: Textual amendment: S. 66(4)(b) and word omitted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 1 para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/1/paragraph/3/2/a)
+[^c-feb81b1ed318559d6ce6358058eb168b]: Textual amendment: S. 66(4)(b) and word omitted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 1 para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/1/paragraph/3/2/a)
 
-[^key-a0055143a074959af6a261f0c571f9ab]: Textual amendment: Word in [s. 66(4)(c)](https://www.legislation.gov.uk/ukpga/1984/51/section/66/4/c) inserted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 1 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/1/paragraph/3/2/b)
+[^c-a0055143a074959af6a261f0c571f9ab]: Textual amendment: Word in [s. 66(4)(c)](https://www.legislation.gov.uk/ukpga/1984/51/section/66/4/c) inserted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 1 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/1/paragraph/3/2/b)
 
-[^key-5ff81ec3626ae5a2bdd8526f11b22dc6]: Textual amendment: [S. 66(4)(d)](https://www.legislation.gov.uk/ukpga/1984/51/section/66/4/d)[(e)](https://www.legislation.gov.uk/ukpga/1984/51/section/66/4/e) inserted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 1 para. 3(2)(c)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/1/paragraph/3/2/c)
+[^c-5ff81ec3626ae5a2bdd8526f11b22dc6]: Textual amendment: [S. 66(4)(d)](https://www.legislation.gov.uk/ukpga/1984/51/section/66/4/d)[(e)](https://www.legislation.gov.uk/ukpga/1984/51/section/66/4/e) inserted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 1 para. 3(2)(c)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/1/paragraph/3/2/c)
 
 [^c13608841]: Textual amendment: Finance Act 1986 Sch. 19 para. 16(3), *with effect from* 18 *March* 1986. *Originally* “ten”.
 
-[^key-0648f59eb6c0b5ec286fe70558bb05d9]: Textual amendment: Words in s. 66(6)(a) substituted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/1/paragraph/3/3)
+[^c-0648f59eb6c0b5ec286fe70558bb05d9]: Textual amendment: Words in s. 66(6)(a) substituted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/1/paragraph/3/3)
 
 [^c13608851]: Marginal citation: [1975 c.7](https://www.legislation.gov.uk/ukpga/1975/7).
 

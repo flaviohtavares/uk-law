@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. The Infrastructure Planning (Interested Parties and Miscellaneous Prescribed Provisions) Regulations 2015[^key-8ad0adf1bf374c473dc0deee97287e67]
+## 64. The Infrastructure Planning (Interested Parties and Miscellaneous Prescribed Provisions) Regulations 2015[^c-8ad0adf1bf374c473dc0deee97287e67]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ In Part 2 of Schedule 2 to the Infrastructure Planning (Interested Parties and M
 
 ## Annotations
 
-[^key-8ad0adf1bf374c473dc0deee97287e67]: Commencement: [Reg. 64](https://www.legislation.gov.uk/wsi/2024/924/regulation/64) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-8ad0adf1bf374c473dc0deee97287e67]: Commencement: [Reg. 64](https://www.legislation.gov.uk/wsi/2024/924/regulation/64) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00039]: Footnote: [S.I. 2015/462](https://www.legislation.gov.uk/uksi/2015/462), to which there are amendments not relevant to these Regulations.

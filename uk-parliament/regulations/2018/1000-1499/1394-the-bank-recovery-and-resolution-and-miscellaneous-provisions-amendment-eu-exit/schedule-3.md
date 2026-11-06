@@ -44,7 +44,7 @@ Regulation 4
 >
 > - (a) an institution infringes the requirements of—
 >   - (i) the capital requirements regulation;
->   - (ii) legislation upon which the United Kingdom relied immediately before IP completion day[^key-eb59309879cc39c51fc550f6393565b4] to meet its obligations with respect to the capital requirements directive;
+>   - (ii) legislation upon which the United Kingdom relied immediately before IP completion day[^c-eb59309879cc39c51fc550f6393565b4] to meet its obligations with respect to the capital requirements directive;
 >   - (iii) legislation upon which the United Kingdom so relied to meet its obligations with respect to Title II of Directive 2014/65/EU of the European Parliament and of the Council on markets in financial instruments; or
 >   - (iv) any of Articles 3 to 7, 14 to 17 and 24 to 26 of Regulation (EU) No. 600/2014 of 15th May 2014 of the European Parliament and of the Council on Markets in Financial Instruments; or
 > - (b) an institution is likely in the near future to infringe those requirements due, amongst other things, to—
@@ -184,7 +184,7 @@ Regulation 4
 
 (29) After article 2(3) insert—
 
-> (4) In this Order any reference to an EU regulation within the meaning of the European Union (Withdrawal) Act 2018 is to be read as a reference to the instrument as it forms part of retained EU law[^key-3203652399cb603ffd924bdca743d318].
+> (4) In this Order any reference to an EU regulation within the meaning of the European Union (Withdrawal) Act 2018 is to be read as a reference to the instrument as it forms part of retained EU law[^c-3203652399cb603ffd924bdca743d318].
 
 .
 
@@ -573,7 +573,7 @@ In article 59 (application and interpretation of Chapter 1 of Part 6), in paragr
 
 (3) In paragraph (2)—
 
-- (a)[^key-b174670555e80653309a5868f9ed3294] for “take resolution action in respect of resolution entities or”, substitute “apply the resolution tools or exercise resolution powers in respect of resolution entities, or take”;
+- (a)[^c-b174670555e80653309a5868f9ed3294] for “take resolution action in respect of resolution entities or”, substitute “apply the resolution tools or exercise resolution powers in respect of resolution entities, or take”;
 - (b) for “any EEA State” substitute “ the United Kingdom ”.
 
 **37.**[^c23531651] (1) Article 62 (assessment of group resolvability where the PRA or FCA is the consolidating supervisor) is amended as follows.
@@ -596,7 +596,7 @@ In article 59 (application and interpretation of Chapter 1 of Part 6), in paragr
 
 (4) In paragraph (5)—
 
-- (a)[^key-8cc4ea1590cc315b42f26f646ffe8ab7] for “take resolution action in respect of resolution entities or”, substitute “apply the resolution tools or exercise resolution powers in respect of resolution entities, or take”;
+- (a)[^c-8cc4ea1590cc315b42f26f646ffe8ab7] for “take resolution action in respect of resolution entities or”, substitute “apply the resolution tools or exercise resolution powers in respect of resolution entities, or take”;
 - (b) for “any EEA State” substitute “ the United Kingdom ”.
 
 (5) Omit paragraphs (6) to (8).
@@ -693,7 +693,7 @@ Omit Chapter 5 of Part 6.
   > - (f) the provision of the financial support would not jeopardise the liquidity or solvency of the group entity providing the financial support;
   > - (g) the provision of the financial support would not create a threat to financial stability in the United Kingdom;
   > - (h) the group entity providing the financial support complies, at the time the financial support is provided, with—
-  >   - (i) the requirements relating to capital or liquidity imposed by or under legislation upon which the United Kingdom relied immediately before IP completion day[^key-9f8ac36d12c6facc5118f779a498c0f2] to meet its obligations with respect to the capital requirements directive; and
+  >   - (i) the requirements relating to capital or liquidity imposed by or under legislation upon which the United Kingdom relied immediately before IP completion day[^c-9f8ac36d12c6facc5118f779a498c0f2] to meet its obligations with respect to the capital requirements directive; and
   >   - (ii) the requirements imposed by or under legislation upon which the United Kingdom relied immediately before IP completion day to meet its obligations with respect to Article 104.2 of the capital requirements directive,
   >
   >   and the provision of the financial support shall not cause the group entity to infringe those requirements, unless the group entity is authorised by the appropriate regulator on an individual basis;
@@ -869,7 +869,7 @@ In article 121 (interpretation of Chapter 1 of Part 9), in paragraph (1)—
 
 **68.**[^c23533121] (1) Article 123 (determination of minimum requirement) is amended as follows.
 
-(2)[^key-db2f7ec35addf93809d05bd9da392cca] In paragraph (6)—
+(2)[^c-db2f7ec35addf93809d05bd9da392cca] In paragraph (6)—
 
 - (a) in sub-paragraph (d), omit the final “and”;
 - (b) at the end of sub-paragraph (e) insert—
@@ -908,7 +908,7 @@ In article 121 (interpretation of Chapter 1 of Part 9), in paragraph (1)—
 
 (3) Omit paragraph (3).
 
-(4)[^key-2e5d4e2f5ff2dc13ade443d556d7d30d] In paragraph (8)(a)—
+(4)[^c-2e5d4e2f5ff2dc13ade443d556d7d30d] In paragraph (8)(a)—
 
 - (a) in sub-paragraph (iv) omit the final “and”;
 - (b) at the end of sub-paragraph (v) insert—
@@ -953,7 +953,7 @@ Omit Chapter 3 of Part 9.
 
 **76.**[^c23533211] (1) Article 135 (determination of minimum requirement) is amended as follows.
 
-(2)[^key-a08b63434b9793c8189204aaec4ccc9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a08b63434b9793c8189204aaec4ccc9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In paragraph (7) omit “Where the determination is for a UK institution, ”.
 
@@ -1016,7 +1016,7 @@ Omit Chapter 5 of Part 9.
 
 (2) In paragraph (2)—
 
-- (a) in the definition of “alternative measure”, in paragraph (b), for “a measure referred to in” substitute “ a power of the FCA or PRA by or under legislation upon which the United Kingdom relied immediately before IP completion day[^key-0489397f8b7b7e35c232f2eae247c4e5] to meet its obligations with respect to ”;
+- (a) in the definition of “alternative measure”, in paragraph (b), for “a measure referred to in” substitute “ a power of the FCA or PRA by or under legislation upon which the United Kingdom relied immediately before IP completion day[^c-0489397f8b7b7e35c232f2eae247c4e5] to meet its obligations with respect to ”;
 - (b) omit the definitions of “appropriate authority” and “non-UK group entity”.
 
 (3) In paragraph (3) in the definition of “group entity” omit paragraph (a).
@@ -1234,7 +1234,7 @@ Omit Chapter 4 of Part 13.
 
 (3) After the definition of “the regulator” insert—
 
-> “**supervisory measure**” means a power of the FCA or PRA by or under legislation upon which the United Kingdom relied immediately before IP completion day[^key-78e92d84d145b95f5d111960fd799dfb] to meet its obligations with respect to Article 104.1 of the capital requirements directive;
+> “**supervisory measure**” means a power of the FCA or PRA by or under legislation upon which the United Kingdom relied immediately before IP completion day[^c-78e92d84d145b95f5d111960fd799dfb] to meet its obligations with respect to Article 104.1 of the capital requirements directive;
 
 .
 
@@ -1450,7 +1450,7 @@ Before Schedule 1 insert—
 >   - (ii) an institution,
 >
 >   which forms part of a group that is subject to consolidated supervision in accordance with Part 6 of the Capital Requirements Regulations 2013; or
-> - (b) the co-ordination of the application of resolution tools and the exercise of resolution powers by the Bank in relation to resolution entities[^key-8a8106b6053edca5778c49dbb87c8dfb] that meet the conditions for resolution.
+> - (b) the co-ordination of the application of resolution tools and the exercise of resolution powers by the Bank in relation to resolution entities[^c-8a8106b6053edca5778c49dbb87c8dfb] that meet the conditions for resolution.
 
 .
 
@@ -1547,9 +1547,9 @@ After Schedule 2 insert—
 
 [^c23491071]: Marginal citation: [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115).
 
-[^key-eb59309879cc39c51fc550f6393565b4]: Textual amendment: Words in Sch. 3 para. 1(6) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 10(c)(i)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/10/c/i)
+[^c-eb59309879cc39c51fc550f6393565b4]: Textual amendment: Words in Sch. 3 para. 1(6) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 10(c)(i)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/10/c/i)
 
-[^key-3203652399cb603ffd924bdca743d318]: Textual amendment: Words in Sch. 3 para. 1(29) substituted (31.12.2020 immediately before IP completiton day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/1), [(2)(k)(iii)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/2/k/iii)
+[^c-3203652399cb603ffd924bdca743d318]: Textual amendment: Words in Sch. 3 para. 1(29) substituted (31.12.2020 immediately before IP completiton day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/1), [(2)(k)(iii)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/2/k/iii)
 
 [^c23529971]: Commencement: Sch. 3 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
@@ -1621,11 +1621,11 @@ After Schedule 2 insert—
 
 [^c23531641]: Commencement: Sch. 3 para. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-b174670555e80653309a5868f9ed3294]: Textual amendment: Sch. 3 para. 36(3)(a) substituted (28.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [77(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/77/2)
+[^c-b174670555e80653309a5868f9ed3294]: Textual amendment: Sch. 3 para. 36(3)(a) substituted (28.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [77(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/77/2)
 
 [^c23531651]: Commencement: Sch. 3 para. 37 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-8cc4ea1590cc315b42f26f646ffe8ab7]: Textual amendment: Sch. 3 para. 37(4)(a) substituted (28.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [77(3)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/77/3)
+[^c-8cc4ea1590cc315b42f26f646ffe8ab7]: Textual amendment: Sch. 3 para. 37(4)(a) substituted (28.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [77(3)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/77/3)
 
 [^c23531661]: Commencement: Sch. 3 para. 38 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
@@ -1647,7 +1647,7 @@ After Schedule 2 insert—
 
 [^c23531751]: Commencement: Sch. 3 para. 47 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-9f8ac36d12c6facc5118f779a498c0f2]: Textual amendment: Words in Sch. 3 para. 47(3)(b) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 10(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/10/c/ii)
+[^c-9f8ac36d12c6facc5118f779a498c0f2]: Textual amendment: Words in Sch. 3 para. 47(3)(b) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 10(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/10/c/ii)
 
 [^c23531761]: Commencement: Sch. 3 para. 48 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
@@ -1697,13 +1697,13 @@ After Schedule 2 insert—
 
 [^c23533121]: Commencement: Sch. 3 para. 68 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-db2f7ec35addf93809d05bd9da392cca]: Textual amendment: Sch. 3 para. 68(2) substituted (28.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [77(4)(a)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/77/4/a)
+[^c-db2f7ec35addf93809d05bd9da392cca]: Textual amendment: Sch. 3 para. 68(2) substituted (28.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [77(4)(a)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/77/4/a)
 
 [^c23533131]: Commencement: Sch. 3 para. 69 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23533141]: Commencement: Sch. 3 para. 70 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-2e5d4e2f5ff2dc13ade443d556d7d30d]: Textual amendment: Sch. 3 para. 70(4) substituted (28.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [77(5)(a)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/77/5/a)
+[^c-2e5d4e2f5ff2dc13ade443d556d7d30d]: Textual amendment: Sch. 3 para. 70(4) substituted (28.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [77(5)(a)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/77/5/a)
 
 [^c23533161]: Commencement: Sch. 3 para. 71 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
@@ -1717,7 +1717,7 @@ After Schedule 2 insert—
 
 [^c23533211]: Commencement: Sch. 3 para. 76 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-a08b63434b9793c8189204aaec4ccc9e]: Textual amendment: Sch. 3 para. 76(2) omitted (28.12.2020) by virtue of [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [77(6)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/77/6)
+[^c-a08b63434b9793c8189204aaec4ccc9e]: Textual amendment: Sch. 3 para. 76(2) omitted (28.12.2020) by virtue of [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [77(6)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/77/6)
 
 [^c23533221]: Modification: Sch. 3 para. 77 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
@@ -1733,7 +1733,7 @@ After Schedule 2 insert—
 
 [^c23533281]: Commencement: Sch. 3 para. 83 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-0489397f8b7b7e35c232f2eae247c4e5]: Textual amendment: Words in Sch. 3 para. 83(2)(a) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 10(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/10/c/iii)
+[^c-0489397f8b7b7e35c232f2eae247c4e5]: Textual amendment: Words in Sch. 3 para. 83(2)(a) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 10(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/10/c/iii)
 
 [^c23533291]: Commencement: Sch. 3 para. 84 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
@@ -1775,7 +1775,7 @@ After Schedule 2 insert—
 
 [^c23534821]: Commencement: Sch. 3 para. 103 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-78e92d84d145b95f5d111960fd799dfb]: Textual amendment: Words in Sch. 3 para. 103(3) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 10(c)(vi)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/10/c/vi)
+[^c-78e92d84d145b95f5d111960fd799dfb]: Textual amendment: Words in Sch. 3 para. 103(3) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 10(c)(vi)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/10/c/vi)
 
 [^c23534831]: Commencement: Sch. 3 para. 104 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
@@ -1807,6 +1807,6 @@ After Schedule 2 insert—
 
 [^c23534971]: Commencement: Sch. 3 para. 118 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-8a8106b6053edca5778c49dbb87c8dfb]: Textual amendment: Words in Sch. 3 para. 118(5) substituted (28.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [77(7)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/77/7)
+[^c-8a8106b6053edca5778c49dbb87c8dfb]: Textual amendment: Words in Sch. 3 para. 118(5) substituted (28.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [77(7)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/77/7)
 
 [^c23534981]: Commencement: Sch. 3 para. 119 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

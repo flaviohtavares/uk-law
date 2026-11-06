@@ -30,8 +30,8 @@ summary: ''
 - (a) “**pension**” means any retired pay, pension, allowance or other continuing benefit under this Order; and
 - (b) “**gratuity**” means any gratuity under this Order.
 
-(3)[^key-4523d121143647ee47693838f8b37b44] In articles 52, 57 and 59, “pension” includes a lump sum payment under this Order.
+(3)[^c-4523d121143647ee47693838f8b37b44] In articles 52, 57 and 59, “pension” includes a lump sum payment under this Order.
 
 ## Annotations
 
-[^key-4523d121143647ee47693838f8b37b44]: Textual amendment: [Art. 51(3)](https://www.legislation.gov.uk/uksi/2006/606/article/51/3) inserted (11.4.2016) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2016 (S.I. 2016/374)](https://www.legislation.gov.uk/uksi/2016/374), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/374/article/1/1), [8](https://www.legislation.gov.uk/uksi/2016/374/article/8)
+[^c-4523d121143647ee47693838f8b37b44]: Textual amendment: [Art. 51(3)](https://www.legislation.gov.uk/uksi/2006/606/article/51/3) inserted (11.4.2016) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2016 (S.I. 2016/374)](https://www.legislation.gov.uk/uksi/2016/374), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/374/article/1/1), [8](https://www.legislation.gov.uk/uksi/2016/374/article/8)

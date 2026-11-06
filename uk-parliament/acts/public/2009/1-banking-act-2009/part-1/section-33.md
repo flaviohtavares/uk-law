@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Property transfer instrument[^key-a83c663bf6530db2739932d8cd3c987f]
+## 33. Property transfer instrument[^c-a83c663bf6530db2739932d8cd3c987f]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,10 +32,10 @@ summary: ''
 - (c) specified property, rights or liabilities, or
 - (d) property, rights or liabilities of a specified description.
 
-(3)[^key-2510f3d7c0159c26e52e04eb41325b00] In this section references to a bank include a resolution company (whether or not it is a bank).
+(3)[^c-2510f3d7c0159c26e52e04eb41325b00] In this section references to a bank include a resolution company (whether or not it is a bank).
 
 ## Annotations
 
-[^key-a83c663bf6530db2739932d8cd3c987f]: Commencement: S. 33 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
+[^c-a83c663bf6530db2739932d8cd3c987f]: Commencement: S. 33 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
 
-[^key-2510f3d7c0159c26e52e04eb41325b00]: Textual amendment: S. 33(3) inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [35](https://www.legislation.gov.uk/uksi/2014/3329/article/35)
+[^c-2510f3d7c0159c26e52e04eb41325b00]: Textual amendment: S. 33(3) inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [35](https://www.legislation.gov.uk/uksi/2014/3329/article/35)

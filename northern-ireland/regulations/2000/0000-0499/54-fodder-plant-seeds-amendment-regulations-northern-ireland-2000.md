@@ -31,7 +31,7 @@ summary: ''
 
 SEEDS
 
-Fodder Plant Seeds (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^key-b94e6a67addfd76c08e67a5f8e1c4062]
+Fodder Plant Seeds (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^c-b94e6a67addfd76c08e67a5f8e1c4062]
 
 Made
 
@@ -41,32 +41,32 @@ Coming into operation
 
 10th April 2000
 
-[^key-b94e6a67addfd76c08e67a5f8e1c4062]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b94e6a67addfd76c08e67a5f8e1c4062]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b94e6a67addfd76c08e67a5f8e1c4062]
+## 1. Citation and commencement[^c-b94e6a67addfd76c08e67a5f8e1c4062]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-b94e6a67addfd76c08e67a5f8e1c4062]
+## 2. Interpretation[^c-b94e6a67addfd76c08e67a5f8e1c4062]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Fodder Plant Seeds Regulations (Northern Ireland) 1994[^key-b94e6a67addfd76c08e67a5f8e1c4062]
+## 3. Amendment of the Fodder Plant Seeds Regulations (Northern Ireland) 1994[^c-b94e6a67addfd76c08e67a5f8e1c4062]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provisions[^key-b94e6a67addfd76c08e67a5f8e1c4062]
+## 4. Transitional provisions[^c-b94e6a67addfd76c08e67a5f8e1c4062]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b94e6a67addfd76c08e67a5f8e1c4062]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b94e6a67addfd76c08e67a5f8e1c4062]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b94e6a67addfd76c08e67a5f8e1c4062]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b94e6a67addfd76c08e67a5f8e1c4062]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b94e6a67addfd76c08e67a5f8e1c4062]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/54) revoked (31.12.2009) by [The Fodder Plant Seeds Regulations (Northern Ireland) 2009 (revoked) 2009 (S.R. 2009/385)](https://www.legislation.gov.uk/nisr/2009/385), [regs. 1](https://www.legislation.gov.uk/nisr/2009/385/regulation/1), [33(1)(c)](https://www.legislation.gov.uk/nisr/2009/385/regulation/33/1/c)
+[^c-b94e6a67addfd76c08e67a5f8e1c4062]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/54) revoked (31.12.2009) by [The Fodder Plant Seeds Regulations (Northern Ireland) 2009 (revoked) 2009 (S.R. 2009/385)](https://www.legislation.gov.uk/nisr/2009/385), [regs. 1](https://www.legislation.gov.uk/nisr/2009/385/regulation/1), [33(1)(c)](https://www.legislation.gov.uk/nisr/2009/385/regulation/33/1/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Discharge of water[^key-0da00d69ac6009f7b74a7782bfd640ba]
+## 20. Discharge of water[^c-0da00d69ac6009f7b74a7782bfd640ba]
 
 *Extent: E+W+S*
 
@@ -35,7 +35,7 @@ summary: ''
 
 (6) The undertaker must take such steps as are reasonably practicable to secure that any water discharged into a watercourse or public sewer or drain under the powers conferred by this article is as free as may be practicable from gravel, soil or other solid substance, oil or matter in suspension.
 
-(7) Nothing in this article overrides the requirement for an environmental permit under regulation 12(1)(b) of the Environmental Permitting (England and Wales) Regulations 2016[^key-ab2f39ef5ad0af03bf05417d2955dd3f] (requirement for an environmental permit).
+(7) Nothing in this article overrides the requirement for an environmental permit under regulation 12(1)(b) of the Environmental Permitting (England and Wales) Regulations 2016[^c-ab2f39ef5ad0af03bf05417d2955dd3f] (requirement for an environmental permit).
 
 (8) In this article—
 
@@ -44,11 +44,11 @@ summary: ''
 
 ## Annotations
 
-[^key-0da00d69ac6009f7b74a7782bfd640ba]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2014/2935/article/20) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-0da00d69ac6009f7b74a7782bfd640ba]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2014/2935/article/20) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
 
 [^f00020]: Footnote: [1991 c.56](https://www.legislation.gov.uk/ukpga/1991/56). Section 106 was amended by sections 36(2) and 99 of the Water Act [2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37). There are other amendments to this section which are not relevant to this Order.
 
-[^key-ab2f39ef5ad0af03bf05417d2955dd3f]: Textual amendment: Words in [art. 20(7)](https://www.legislation.gov.uk/uksi/2014/2935/article/20/7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 72(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/72/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-ab2f39ef5ad0af03bf05417d2955dd3f]: Textual amendment: Words in [art. 20(7)](https://www.legislation.gov.uk/uksi/2014/2935/article/20/7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 72(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/72/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
 [^f00022]: Footnote: [1964 c.40](https://www.legislation.gov.uk/ukpga/1964/40). Paragraph 9B was inserted into Schedule 2 by the Transport and Works Act [1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42), section 63(1) and Schedule 3, paragraph 9(1) and (5). There are other amendments to the 1964 Act which are not relevant to this Order.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Provision in standing orders about appointment of persons to chair committees[^key-f1892aa153470d3da50763b2c1c3282e]
+## 66. Provision in standing orders about appointment of persons to chair committees[^c-f1892aa153470d3da50763b2c1c3282e]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1892aa153470d3da50763b2c1c3282e]: Commencement: [S. 66](https://www.legislation.gov.uk/mwa/2011/4/section/66) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(h)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/h)
+[^c-f1892aa153470d3da50763b2c1c3282e]: Commencement: [S. 66](https://www.legislation.gov.uk/mwa/2011/4/section/66) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(h)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/h)

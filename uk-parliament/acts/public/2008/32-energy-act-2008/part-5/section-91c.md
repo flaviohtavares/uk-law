@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91C. Power of Gas and Electricity Markets Authority to amend licence conditions etc[^key-32dbce6b1239a828f41b8468692938df]
+## 91C. Power of Gas and Electricity Markets Authority to amend licence conditions etc[^c-32dbce6b1239a828f41b8468692938df]
 
 *Extent: E+W+S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32dbce6b1239a828f41b8468692938df]: Textual amendment: [Ss. 91A-91D](https://www.legislation.gov.uk/ukpga/2008/32/section/91A) and cross-heading inserted (E.W.S.) (19.6.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(2)(c)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/c), [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2025/18/schedule/16/paragraph/3)
+[^c-32dbce6b1239a828f41b8468692938df]: Textual amendment: [Ss. 91A-91D](https://www.legislation.gov.uk/ukpga/2008/32/section/91A) and cross-heading inserted (E.W.S.) (19.6.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(2)(c)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/c), [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2025/18/schedule/16/paragraph/3)

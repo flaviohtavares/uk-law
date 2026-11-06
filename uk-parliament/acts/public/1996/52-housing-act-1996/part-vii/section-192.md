@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 192. Duty to persons not in priority need who are not homeless intentionally.[^key-ed7872333d0cbf2404127bd8c2d564ee]
+## 192. Duty to persons not in priority need who are not homeless intentionally.[^c-ed7872333d0cbf2404127bd8c2d564ee]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed7872333d0cbf2404127bd8c2d564ee]: Textual amendment: S. 192 omitted (3.4.2018) by virtue of [Homelessness Reduction Act 2017 (c. 13)](https://www.legislation.gov.uk/ukpga/2017/13), [ss. 5(6)](https://www.legislation.gov.uk/ukpga/2017/13/section/5/6), [13(3)](https://www.legislation.gov.uk/ukpga/2017/13/section/13/3); [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/e) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2018/167/regulation/4/1))
+[^c-ed7872333d0cbf2404127bd8c2d564ee]: Textual amendment: S. 192 omitted (3.4.2018) by virtue of [Homelessness Reduction Act 2017 (c. 13)](https://www.legislation.gov.uk/ukpga/2017/13), [ss. 5(6)](https://www.legislation.gov.uk/ukpga/2017/13/section/5/6), [13(3)](https://www.legislation.gov.uk/ukpga/2017/13/section/13/3); [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/e) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2018/167/regulation/4/1))

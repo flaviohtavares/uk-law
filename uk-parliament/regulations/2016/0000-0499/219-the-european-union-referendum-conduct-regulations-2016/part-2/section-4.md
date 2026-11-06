@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Part to apply in United Kingdom and not Gibraltar[^key-50c4b7f13c6774a7a36c0ae2a14f434f]
+## 4. Part to apply in United Kingdom and not Gibraltar[^c-50c4b7f13c6774a7a36c0ae2a14f434f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Part applies in England and Wales, Scotland and Northern Ireland (and not i
 
 ## Annotations
 
-[^key-50c4b7f13c6774a7a36c0ae2a14f434f]: Commencement: Reg. 4 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-50c4b7f13c6774a7a36c0ae2a14f434f]: Commencement: Reg. 4 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

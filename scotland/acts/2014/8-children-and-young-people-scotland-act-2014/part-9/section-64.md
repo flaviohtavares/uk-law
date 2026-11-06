@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. Directions to corporate parents[^key-6b2fa803e97546a80657ff10b714e176]
+## 64. Directions to corporate parents[^c-6b2fa803e97546a80657ff10b714e176]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b2fa803e97546a80657ff10b714e176]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2014/8/section/64) in force at 1.4.2015 by [S.S.I. 2015/61](https://www.legislation.gov.uk/ssi/2015/61), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/61/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2015/61/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/61/schedule)
+[^c-6b2fa803e97546a80657ff10b714e176]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2014/8/section/64) in force at 1.4.2015 by [S.S.I. 2015/61](https://www.legislation.gov.uk/ssi/2015/61), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/61/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2015/61/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/61/schedule)

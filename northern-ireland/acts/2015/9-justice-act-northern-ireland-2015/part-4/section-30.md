@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. The Witness Charter[^key-44d7a7b37cc940b66a374a4d5e151240]
+## 30. The Witness Charter[^c-44d7a7b37cc940b66a374a4d5e151240]
 
 *Extent: N.I.*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44d7a7b37cc940b66a374a4d5e151240]: Commencement: [S. 30](https://www.legislation.gov.uk/nia/2015/9/section/30) in operation at 30.12.2016 by [S.R. 2016/436](https://www.legislation.gov.uk/nisr/2016/436), [art. 2](https://www.legislation.gov.uk/nisr/2016/436/article/2)
+[^c-44d7a7b37cc940b66a374a4d5e151240]: Commencement: [S. 30](https://www.legislation.gov.uk/nia/2015/9/section/30) in operation at 30.12.2016 by [S.R. 2016/436](https://www.legislation.gov.uk/nisr/2016/436), [art. 2](https://www.legislation.gov.uk/nisr/2016/436/article/2)

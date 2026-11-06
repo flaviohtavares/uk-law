@@ -25,7 +25,7 @@ The following Table shows provisions defining or explaining expressions used in 
 |  |  |
 | --- | --- |
 | building society | section 101 |
-| [^key-e85013f0f4186899969baaf1afb111f1]. . . | [^key-e85013f0f4186899969baaf1afb111f1]. . . |
+| [^c-e85013f0f4186899969baaf1afb111f1]. . . | [^c-e85013f0f4186899969baaf1afb111f1]. . . |
 | co-operative housing association[^c11844371] | section 1 |
 | dwelling | section 106 |
 | financial year | section 101 |
@@ -53,7 +53,7 @@ The following Table shows provisions defining or explaining expressions used in 
 |  |  |
 | --- | --- |
 | building society | section 101 |
-| [^key-e85013f0f4186899969baaf1afb111f1]. . . | [^key-e85013f0f4186899969baaf1afb111f1]. . . |
+| [^c-e85013f0f4186899969baaf1afb111f1]. . . | [^c-e85013f0f4186899969baaf1afb111f1]. . . |
 | dwelling | section 106 |
 | financial year | section 101 |
 | heritable security | section 106 |
@@ -75,7 +75,7 @@ The following Table shows provisions defining or explaining expressions used in 
 
 [^c11844361]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only
 
-[^key-e85013f0f4186899969baaf1afb111f1]: Textual amendment: S. 102 entry omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 63(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/63/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-e85013f0f4186899969baaf1afb111f1]: Textual amendment: S. 102 entry omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 63(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/63/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c11844371]: Textual amendment: S. 102: definition inserted (1.10.1996) by [S.I. 1996/2325](https://www.legislation.gov.uk/uksi/1996/2325), [art. 5(1)](https://www.legislation.gov.uk/uksi/1996/2325/article/5/1), [Sch. 2 para. 34(a)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/34/a)
 

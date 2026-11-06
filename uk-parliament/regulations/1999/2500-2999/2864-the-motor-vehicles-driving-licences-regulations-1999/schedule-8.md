@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 40
 
-### PART 1 — Practical Test: Categories A and P[^key-2316ee406f20a644a58e96c97e9b2dc2]
+### PART 1 — Practical Test: Categories A and P[^c-2316ee406f20a644a58e96c97e9b2dc2]
 
 Each test candidate must satisfy the person conducting the test as to—
 
@@ -44,7 +44,7 @@ Either—
 
  
 
-- (a) Describe how to perform a check on the condition and safety of one component of the vehicle, chosen at the discretion of the person conducting the test[^key-bf140f52116cdb9186b6f37b2ca17aa3], from the list of components specified in paragraph (b) below, and demonstrate an actual check on the condition and safety of a second part, similarly chosen from the list.
+- (a) Describe how to perform a check on the condition and safety of one component of the vehicle, chosen at the discretion of the person conducting the test[^c-bf140f52116cdb9186b6f37b2ca17aa3], from the list of components specified in paragraph (b) below, and demonstrate an actual check on the condition and safety of a second part, similarly chosen from the list.
 - (b) The components are: tyres, brakes, steering, emergency stop switch (if fitted to the vehicle), chain, oil levels, lights, reflectors, direction indicators and audible warning device.
 
 #### 1. C. Preparation to drive
@@ -67,25 +67,25 @@ Start the engine and move off smoothly (uphill and downhill as well as on the fl
 
 **5.** Keep balance at various speeds.
 
-**6.**[^key-7cdee7efbc3cb9edd143e93511e5125b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-7cdee7efbc3cb9edd143e93511e5125b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-56a1cdb98f9488d7aee1f46d89242f2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-56a1cdb98f9488d7aee1f46d89242f2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-56a1cdb98f9488d7aee1f46d89242f2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-56a1cdb98f9488d7aee1f46d89242f2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-56a1cdb98f9488d7aee1f46d89242f2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-56a1cdb98f9488d7aee1f46d89242f2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-56a1cdb98f9488d7aee1f46d89242f2b][^key-869ac525e2c463496e0a0a62a4770498] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-56a1cdb98f9488d7aee1f46d89242f2b][^c-869ac525e2c463496e0a0a62a4770498] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-56a1cdb98f9488d7aee1f46d89242f2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-56a1cdb98f9488d7aee1f46d89242f2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-56a1cdb98f9488d7aee1f46d89242f2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-56a1cdb98f9488d7aee1f46d89242f2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-56a1cdb98f9488d7aee1f46d89242f2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-56a1cdb98f9488d7aee1f46d89242f2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-56a1cdb98f9488d7aee1f46d89242f2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-56a1cdb98f9488d7aee1f46d89242f2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-56a1cdb98f9488d7aee1f46d89242f2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-56a1cdb98f9488d7aee1f46d89242f2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 1. E. Behaviour in traffic
 
@@ -117,7 +117,7 @@ Observe (including the use of the rear view mirrors) road alignment, markings, s
 - (b) Overtake in various situations.
 - (c) Approach and cross level-crossings.
 - (d) Drive in road tunnels.
-- (e)[^key-3857d93cbf0a62813493151abddabc73] Negotiate roundabouts.
+- (e)[^c-3857d93cbf0a62813493151abddabc73] Negotiate roundabouts.
 - (f) Pass bus or tram stops.
 - (g) Approach and cross pedestrian crossings.
 - (h) Drive up or down long inclines on roads.
@@ -137,7 +137,7 @@ Take all precautions necessary when alighting.
 
 specified in sections A to F below in all respects in accordance with those sections.
 
-(2)[^key-8acb7ce977be3a0690ff909a7dbca257] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8acb7ce977be3a0690ff909a7dbca257] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) A test candidate undertaking a test for a licence authorising the driving of a vehicle included in category B+E must in addition satisfy the person conducting the test as to his ability to carry out properly the activities specified in section G but in the case of a disabled driver, the requirements to uncouple and re-couple the tractor vehicle and trailer are met by the driver describing under oral questioning how these activities should be performed.
 
@@ -180,7 +180,7 @@ Start the engine and move off smoothly (uphill and downhill as well as on the fl
 
 **5.** Either—
 
-- (a) perform one or more[^key-1fe51d7e19ba0f568271b13d5aab317f] of the following manoeuvres—
+- (a) perform one or more[^c-1fe51d7e19ba0f568271b13d5aab317f] of the following manoeuvres—
   - (i) reverse in a straight line and reverse right or left round a corner while keeping within the correct traffic lane;
   - (ii) turn the vehicle to face the opposite way, using forward and reverse gears;
   - (iii) park the vehicle and leave a parking space (parallel, oblique or right-angle) both forwards and in reverse, on the flat, uphill and downhill; or
@@ -216,7 +216,7 @@ Observe (including the use of the rear view mirrors) road alignment, markings, s
 - (b) Overtake in various situations.
 - (c) Approach and cross level-crossings.
 - (d) Drive in road tunnels.
-- (e)[^key-e56989aae4cc7a5569c471ded6f53e6c] Negotiate roundabouts.
+- (e)[^c-e56989aae4cc7a5569c471ded6f53e6c] Negotiate roundabouts.
 - (f) Pass bus or tram stops.
 - (g) Approach and cross pedestrian crossings.
 - (h) Drive up or down long inclines on roads.
@@ -238,11 +238,11 @@ Uncouple the trailer from the tractor vehicle, then park the tractor vehicle par
 
 prescribed in paragraph (2), (3) or (4), as the case may be, in all respects in accordance with this Part of this Schedule.
 
-**2.** In the case of candidates taking a test for a licence authorising the driving of vehicles included in category C or C+E, the manoeuvres and activities mentioned in sections A to D, G and H[^key-6947f666355a1530e4bd4af453739778] below are prescribed.
+**2.** In the case of candidates taking a test for a licence authorising the driving of vehicles included in category C or C+E, the manoeuvres and activities mentioned in sections A to D, G and H[^c-6947f666355a1530e4bd4af453739778] below are prescribed.
 
 **3.** In the case of candidates taking a test for a licence authorising the driving of vehicles included in category C or C+E (other than a test for a licence authorising the driving of vehicles in sub-category C1 but not outside that sub-category), the manoeuvres and activities mentioned in section E are also prescribed.
 
-**4.**[^key-9ca238cdf1be8340b8d6c53f2702d676] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-9ca238cdf1be8340b8d6c53f2702d676] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### A. Vehicle Safety Checks
 
@@ -250,11 +250,11 @@ prescribed in paragraph (2), (3) or (4), as the case may be, in all respects in 
   - the condition and safety of a component of the vehicle specified in paragraph 3;
   - the condition and safety of one of the following; the body of the vehicle, any sheeting used in respect of a load on the vehicle, a load itself, anything intended to secure such a load, the vehicle’s cabin locking (if any), or its cargo doors (if any); or
   - the vehicle’s tachograph or any other part of the dashboard instrument panel.
-- 2. In the case of a test for a licence authorising the driving of vehicles in category C+E only, where the test candidate has passed a test for a licence authorising the driving of vehicles in category C,[^key-2dd4e3b1fcb86d1510a1f93ab0d2ca5c] demonstrate on one occasion, and describe on a second occasion how to perform, a check (chosen at the discretion of the person conducting the test) on the condition and safety of either—
+- 2. In the case of a test for a licence authorising the driving of vehicles in category C+E only, where the test candidate has passed a test for a licence authorising the driving of vehicles in category C,[^c-2dd4e3b1fcb86d1510a1f93ab0d2ca5c] demonstrate on one occasion, and describe on a second occasion how to perform, a check (chosen at the discretion of the person conducting the test) on the condition and safety of either—
   - a component of the vehicle or trailer (as relevant) specified in paragraph 3;
   - one of the following: the body of the trailer, any sheeting used in respect of a load on the trailer, a load itself, anything intended to secure such load, or the trailer’s cargo doors (if any); or
   - the coupling mechanism or the brake and electrical connection between the tractor vehicle and the trailer.
-- 2A. In the case of a test for a licence authorising the driving of vehicles in category C + E only, where the test candidate has not passed a test for a licence authorising the driving of vehicles in category C—[^key-143ce1aae50c1b7d4d2ff447d2acced7]
+- 2A. In the case of a test for a licence authorising the driving of vehicles in category C + E only, where the test candidate has not passed a test for a licence authorising the driving of vehicles in category C—[^c-143ce1aae50c1b7d4d2ff447d2acced7]
   - on three occasions demonstrate (or at the discretion of the person conducting the test describe how to perform) a check on, at the discretion of the person conducting the test, either—
     - the condition and safety of a component of the vehicle specified in paragraph 3,
     - the condition and safety of one of the following: the body of the vehicle, any sheeting used in respect of a load on the vehicle, a load itself, anything intended to secure such a load, the vehicle’s cabin locking (if any), or its cargo doors (if any), or
@@ -283,7 +283,7 @@ prescribed in paragraph (2), (3) or (4), as the case may be, in all respects in 
     - (ii) turn the vehicle to face the opposite way, using forward and reverse gears;
     - (iii) park the vehicle and leave a parking space (parallel, oblique or right-angle) both forwards and in reverse, on the flat, uphill and downhill; or
   - (b) reverse in an S-shaped curve.
-- 6. [^key-8645e77fcd869d2d370bcc52c7394d7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- 6. [^c-8645e77fcd869d2d370bcc52c7394d7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### D. Behaviour in traffic
 
@@ -303,7 +303,7 @@ prescribed in paragraph (2), (3) or (4), as the case may be, in all respects in 
   - (b) Overtake in various situations.
   - (c) Approach and cross level-crossings.
   - (d) Drive in road tunnels.
-  - (e) Negotiate roundabouts.[^key-ebda2636a205b99c26cce791143a02d3]
+  - (e) Negotiate roundabouts.[^c-ebda2636a205b99c26cce791143a02d3]
   - (f) Pass bus or tram stops.
   - (g) Approach and cross pedestrian crossings.
   - (h) Drive up or down long inclines on roads.
@@ -317,13 +317,13 @@ prescribed in paragraph (2), (3) or (4), as the case may be, in all respects in 
 
 #### F. Trailers
 
-[^key-71505ea9e301eb5ac5f4005fecdd4155]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-71505ea9e301eb5ac5f4005fecdd4155]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### G. Vehicle safety
 
 Show awareness of vehicle safety measures and be able to operate vehicle safety systems.
 
-#### H Safe and energy-efficient driving[^key-a2cf4a14cdaedf29dc4b280add1e665e]
+#### H Safe and energy-efficient driving[^c-a2cf4a14cdaedf29dc4b280add1e665e]
 
 Drive in such a way so as to ensure safety and reduce fuel consumption and emissions during acceleration, deceleration, uphill and downhill driving, when necessary by selecting gears manually.
 
@@ -336,22 +336,22 @@ Drive in such a way so as to ensure safety and reduce fuel consumption and emiss
 
 prescribed in paragraph (2), (3) or (4), as the case may be, in all respects in accordance with this Part of this Schedule.
 
-**2.** In the case of candidates taking a test for a licence authorising the driving of vehicles included in category D or D+E, the manoeuvres and activities mentioned in sections A to D, G and H[^key-8f01c8dd5173263a2836589faa9dcec5] below are prescribed.
+**2.** In the case of candidates taking a test for a licence authorising the driving of vehicles included in category D or D+E, the manoeuvres and activities mentioned in sections A to D, G and H[^c-8f01c8dd5173263a2836589faa9dcec5] below are prescribed.
 
 **3.** In the case of candidates taking a test for a licence authorising the driving of vehicles included in category D or D+E (other than a test for a licence authorising the driving of vehicles in sub-category D1 but not outside that sub-category), the manoeuvres and activities mentioned in section E are also prescribed.
 
-**4.**[^key-257aab6fa6ef23b4331340ed68fa3905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-257aab6fa6ef23b4331340ed68fa3905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### A. Vehicle safety checks
 
 - 1. In the case of a test for a licence authorising the driving of vehicles in category D only, on 5 occasions demonstrate (or at the discretion of the person conducting the test describe how to perform) a check (chosen at the discretion of the person conducting the test) on the condition and safety of either—
   - (a) a component of the vehicle (chosen at the discretion of the person conducting the test) listed in paragraph 3; or
   - (b) a feature (chosen at the discretion of the person conducting the test) of the vehicle listed in paragraph 4.
-- 2. In the case of a test for a licence authorising the driving of vehicles in category D+E only, where the test candidate has passed a test for a licence authorising the driving of vehicles in category D,[^key-524f9dbc8314d2032ca7aa0a8f4bd9b9] demonstrate on one occasion, and on a second occasion describe how to perform, a check (chosen at the discretion of the person conducting the test) on the condition and safety of either—
+- 2. In the case of a test for a licence authorising the driving of vehicles in category D+E only, where the test candidate has passed a test for a licence authorising the driving of vehicles in category D,[^c-524f9dbc8314d2032ca7aa0a8f4bd9b9] demonstrate on one occasion, and on a second occasion describe how to perform, a check (chosen at the discretion of the person conducting the test) on the condition and safety of either—
   - (a) a component (chosen at the discretion of the person conducting the test) of the vehicle or trailer (as relevant) listed in paragraph 3;
   - (b) a feature (chosen at the discretion of the person conducting the test) of the vehicle or trailer (as relevant) listed in paragraph 4; or
   - (c) the coupling mechanism or the brake and electrical connection between the tractor vehicle and the trailer.
-- 2A. In the case of a test for a licence authorising the driving of vehicles in category D + E only, where the test candidate has not passed a test for a licence authorising the driving of vehicles in category D—[^key-e202c4f8b81adadaa61b39104e00fa53]
+- 2A. In the case of a test for a licence authorising the driving of vehicles in category D + E only, where the test candidate has not passed a test for a licence authorising the driving of vehicles in category D—[^c-e202c4f8b81adadaa61b39104e00fa53]
   - (a) on three occasions demonstrate (or at the discretion of the person conducting the test describe how to perform) a check (chosen at the discretion of the person conducting the test) on the condition and safety of either—
     - (i) a component of the vehicle (chosen at the discretion of the person conducting the test) listed in paragraph 3, or
     - (ii) a feature (chosen at the discretion of the person conducting the test) of the vehicle listed in paragraph 4, and
@@ -380,7 +380,7 @@ prescribed in paragraph (2), (3) or (4), as the case may be, in all respects in 
     - (ii) turn the vehicle to face the opposite way, using forward and reverse gears;
     - (iii) park the vehicle and leave a parking space (parallel, oblique or right-angle) both forwards and in reverse, on the flat, uphill and downhill; or
   - (b) reverse in an S-shaped curve.
-- 6. [^key-45d95eaeb760b5e89eea1052c33e7d0b]...
+- 6. [^c-45d95eaeb760b5e89eea1052c33e7d0b]...
 
 #### D. Behaviour in traffic
 
@@ -400,7 +400,7 @@ prescribed in paragraph (2), (3) or (4), as the case may be, in all respects in 
   - (b) Overtake in various situations.
   - (c) Approach and cross level-crossings.
   - (d) Drive in road tunnels.
-  - (e) Negotiate roundabouts.[^key-f663693e17ac9073e20521efe8dea25f]
+  - (e) Negotiate roundabouts.[^c-f663693e17ac9073e20521efe8dea25f]
   - (f) Pass bus or tram stops.
   - (g) Approach and cross pedestrian crossings.
   - (h) Drive up or down long inclines on roads.
@@ -414,17 +414,17 @@ prescribed in paragraph (2), (3) or (4), as the case may be, in all respects in 
 
 #### F. Trailers
 
-[^key-4a17c4e9aa024755650c27aad316ce83]...
+[^c-4a17c4e9aa024755650c27aad316ce83]...
 
 #### G. Vehicle safety
 
 Show awareness of vehicle safety measures and be able to operate vehicle safety systems.
 
-#### H Safe and energy-efficient driving[^key-8aa70286abe79169005ebe6dd0ff76cb]
+#### H Safe and energy-efficient driving[^c-8aa70286abe79169005ebe6dd0ff76cb]
 
 Drive in such as way so as to ensure safety and reduce fuel consumption and emissions during acceleration, deceleration, uphill and downhill driving, when necessary by selecting gears manually.
 
-### PART 5 — Unitary Test: Categories F, G, H, and K[^key-83c47fade163a185117c015d57f23f63]
+### PART 5 — Unitary Test: Categories F, G, H, and K[^c-83c47fade163a185117c015d57f23f63]
 
 #### A. Eyesight
 
@@ -477,54 +477,54 @@ In the case of a test taken on a vehicle with a left-hand drive or by a disabled
 
 ## Annotations
 
-[^key-2316ee406f20a644a58e96c97e9b2dc2]: Textual amendment: Sch. 8 substituted (1.9.2003) by [The Motor Vehicles (Driving Licences) (Amendment)(No. 4) Regulations 2003 (S.I. 2003/2003)](https://www.legislation.gov.uk/uksi/2003/2003), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2003/2003/regulation/1/1/a), [7](https://www.legislation.gov.uk/uksi/2003/2003/regulation/7), [Sch.](https://www.legislation.gov.uk/uksi/2003/2003/schedule)
+[^c-2316ee406f20a644a58e96c97e9b2dc2]: Textual amendment: Sch. 8 substituted (1.9.2003) by [The Motor Vehicles (Driving Licences) (Amendment)(No. 4) Regulations 2003 (S.I. 2003/2003)](https://www.legislation.gov.uk/uksi/2003/2003), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2003/2003/regulation/1/1/a), [7](https://www.legislation.gov.uk/uksi/2003/2003/regulation/7), [Sch.](https://www.legislation.gov.uk/uksi/2003/2003/schedule)
 
-[^key-bf140f52116cdb9186b6f37b2ca17aa3]: Textual amendment: Words in Sch. 8 substituted (12.1.2004) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 5) Regulations 2003 (S.I. 2003/3313)](https://www.legislation.gov.uk/uksi/2003/3313), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/3313/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2003/3313/regulation/2)
+[^c-bf140f52116cdb9186b6f37b2ca17aa3]: Textual amendment: Words in Sch. 8 substituted (12.1.2004) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 5) Regulations 2003 (S.I. 2003/3313)](https://www.legislation.gov.uk/uksi/2003/3313), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/3313/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2003/3313/regulation/2)
 
-[^key-7cdee7efbc3cb9edd143e93511e5125b]: Textual amendment: Sch. 8 Pt. I section D para. 6 omitted (29.9.2008) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2008 (S.I. 2008/508)](https://www.legislation.gov.uk/uksi/2008/508), [regs. 1](https://www.legislation.gov.uk/uksi/2008/508/regulation/1), [12(a)](https://www.legislation.gov.uk/uksi/2008/508/regulation/12/a)
+[^c-7cdee7efbc3cb9edd143e93511e5125b]: Textual amendment: Sch. 8 Pt. I section D para. 6 omitted (29.9.2008) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2008 (S.I. 2008/508)](https://www.legislation.gov.uk/uksi/2008/508), [regs. 1](https://www.legislation.gov.uk/uksi/2008/508/regulation/1), [12(a)](https://www.legislation.gov.uk/uksi/2008/508/regulation/12/a)
 
-[^key-56a1cdb98f9488d7aee1f46d89242f2b]: Textual amendment: Sch. 8 Pt. I Section D paras. 7-15 omitted (30.3.2009) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2009 (S.I. 2009/788)](https://www.legislation.gov.uk/uksi/2009/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/788/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2009/788/regulation/30) (with [reg. 33](https://www.legislation.gov.uk/uksi/2009/788/regulation/33))
+[^c-56a1cdb98f9488d7aee1f46d89242f2b]: Textual amendment: Sch. 8 Pt. I Section D paras. 7-15 omitted (30.3.2009) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2009 (S.I. 2009/788)](https://www.legislation.gov.uk/uksi/2009/788), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/788/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2009/788/regulation/30) (with [reg. 33](https://www.legislation.gov.uk/uksi/2009/788/regulation/33))
 
-[^key-869ac525e2c463496e0a0a62a4770498]: Textual amendment: Sch. 8 Pt. 1 section D paras. 10-15 inserted (29.9.2008) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2008 (S.I. 2008/508)](https://www.legislation.gov.uk/uksi/2008/508), [regs. 1](https://www.legislation.gov.uk/uksi/2008/508/regulation/1), [12(b)](https://www.legislation.gov.uk/uksi/2008/508/regulation/12/b)
+[^c-869ac525e2c463496e0a0a62a4770498]: Textual amendment: Sch. 8 Pt. 1 section D paras. 10-15 inserted (29.9.2008) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2008 (S.I. 2008/508)](https://www.legislation.gov.uk/uksi/2008/508), [regs. 1](https://www.legislation.gov.uk/uksi/2008/508/regulation/1), [12(b)](https://www.legislation.gov.uk/uksi/2008/508/regulation/12/b)
 
-[^key-3857d93cbf0a62813493151abddabc73]: Textual amendment: Sch. 8 Pt. I section E para. 12(e)-(h) inserted (31.12.2015) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2015 (S.I. 2015/1797)](https://www.legislation.gov.uk/uksi/2015/1797), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1797/regulation/1), [10](https://www.legislation.gov.uk/uksi/2015/1797/regulation/10)
+[^c-3857d93cbf0a62813493151abddabc73]: Textual amendment: Sch. 8 Pt. I section E para. 12(e)-(h) inserted (31.12.2015) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2015 (S.I. 2015/1797)](https://www.legislation.gov.uk/uksi/2015/1797), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1797/regulation/1), [10](https://www.legislation.gov.uk/uksi/2015/1797/regulation/10)
 
-[^key-8acb7ce977be3a0690ff909a7dbca257]: Textual amendment: Sch. 8 Pt. 2 para. (2) omitted (19.1.2013) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 51](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/51)
+[^c-8acb7ce977be3a0690ff909a7dbca257]: Textual amendment: Sch. 8 Pt. 2 para. (2) omitted (19.1.2013) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 51](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/51)
 
-[^key-1fe51d7e19ba0f568271b13d5aab317f]: Textual amendment: Words in Sch. 8 Pt. 2 Section D para. 5(a) substituted (4.10.2010) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2010 (S.I. 2010/1203)](https://www.legislation.gov.uk/uksi/2010/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1203/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2010/1203/regulation/24)
+[^c-1fe51d7e19ba0f568271b13d5aab317f]: Textual amendment: Words in Sch. 8 Pt. 2 Section D para. 5(a) substituted (4.10.2010) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2010 (S.I. 2010/1203)](https://www.legislation.gov.uk/uksi/2010/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1203/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2010/1203/regulation/24)
 
-[^key-e56989aae4cc7a5569c471ded6f53e6c]: Textual amendment: Sch. 8 Pt. 2 section E para. 12(e)-(h) inserted (31.12.2015) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2015 (S.I. 2015/1797)](https://www.legislation.gov.uk/uksi/2015/1797), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1797/regulation/1), [10](https://www.legislation.gov.uk/uksi/2015/1797/regulation/10)
+[^c-e56989aae4cc7a5569c471ded6f53e6c]: Textual amendment: Sch. 8 Pt. 2 section E para. 12(e)-(h) inserted (31.12.2015) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2015 (S.I. 2015/1797)](https://www.legislation.gov.uk/uksi/2015/1797), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1797/regulation/1), [10](https://www.legislation.gov.uk/uksi/2015/1797/regulation/10)
 
-[^key-6947f666355a1530e4bd4af453739778]: Textual amendment: Words in [Sch. 8 Pt. 3 para. 2](https://www.legislation.gov.uk/uksi/1999/2864/schedule/8/part/3/paragraph/2) substituted (10.4.2014) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2014 (S.I. 2014/613)](https://www.legislation.gov.uk/uksi/2014/613), [regs. 1](https://www.legislation.gov.uk/uksi/2014/613/regulation/1), [10(a)(i)](https://www.legislation.gov.uk/uksi/2014/613/regulation/10/a/i)
+[^c-6947f666355a1530e4bd4af453739778]: Textual amendment: Words in [Sch. 8 Pt. 3 para. 2](https://www.legislation.gov.uk/uksi/1999/2864/schedule/8/part/3/paragraph/2) substituted (10.4.2014) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2014 (S.I. 2014/613)](https://www.legislation.gov.uk/uksi/2014/613), [regs. 1](https://www.legislation.gov.uk/uksi/2014/613/regulation/1), [10(a)(i)](https://www.legislation.gov.uk/uksi/2014/613/regulation/10/a/i)
 
-[^key-9ca238cdf1be8340b8d6c53f2702d676]: Textual amendment: [Sch. 8 Pt. 3 para. 4](https://www.legislation.gov.uk/uksi/1999/2864/schedule/8/part/3/paragraph/4) omitted (15.11.2021 at 1.00 a.m.) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1154)](https://www.legislation.gov.uk/uksi/2021/1154), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1154/regulation/1/2), [22(a)(i)](https://www.legislation.gov.uk/uksi/2021/1154/regulation/22/a/i)
+[^c-9ca238cdf1be8340b8d6c53f2702d676]: Textual amendment: [Sch. 8 Pt. 3 para. 4](https://www.legislation.gov.uk/uksi/1999/2864/schedule/8/part/3/paragraph/4) omitted (15.11.2021 at 1.00 a.m.) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1154)](https://www.legislation.gov.uk/uksi/2021/1154), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1154/regulation/1/2), [22(a)(i)](https://www.legislation.gov.uk/uksi/2021/1154/regulation/22/a/i)
 
-[^key-2dd4e3b1fcb86d1510a1f93ab0d2ca5c]: Textual amendment: Words in [Sch. 8 Pt. 3](https://www.legislation.gov.uk/uksi/1999/2864/schedule/8/part/3) Section A(2) inserted (15.11.2021) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1251)](https://www.legislation.gov.uk/uksi/2021/1251), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1251/regulation/1/2), [8(a)(i)](https://www.legislation.gov.uk/uksi/2021/1251/regulation/8/a/i) (with [reg. 9](https://www.legislation.gov.uk/uksi/2021/1251/regulation/9))
+[^c-2dd4e3b1fcb86d1510a1f93ab0d2ca5c]: Textual amendment: Words in [Sch. 8 Pt. 3](https://www.legislation.gov.uk/uksi/1999/2864/schedule/8/part/3) Section A(2) inserted (15.11.2021) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1251)](https://www.legislation.gov.uk/uksi/2021/1251), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1251/regulation/1/2), [8(a)(i)](https://www.legislation.gov.uk/uksi/2021/1251/regulation/8/a/i) (with [reg. 9](https://www.legislation.gov.uk/uksi/2021/1251/regulation/9))
 
-[^key-143ce1aae50c1b7d4d2ff447d2acced7]: Textual amendment: [Sch. 8 Pt. 3](https://www.legislation.gov.uk/uksi/1999/2864/schedule/8/part/3) Section A(2A) inserted (15.11.2021) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1251)](https://www.legislation.gov.uk/uksi/2021/1251), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1251/regulation/1/2), [8(a)(ii)](https://www.legislation.gov.uk/uksi/2021/1251/regulation/8/a/ii) (with [reg. 9](https://www.legislation.gov.uk/uksi/2021/1251/regulation/9))
+[^c-143ce1aae50c1b7d4d2ff447d2acced7]: Textual amendment: [Sch. 8 Pt. 3](https://www.legislation.gov.uk/uksi/1999/2864/schedule/8/part/3) Section A(2A) inserted (15.11.2021) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1251)](https://www.legislation.gov.uk/uksi/2021/1251), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1251/regulation/1/2), [8(a)(ii)](https://www.legislation.gov.uk/uksi/2021/1251/regulation/8/a/ii) (with [reg. 9](https://www.legislation.gov.uk/uksi/2021/1251/regulation/9))
 
-[^key-8645e77fcd869d2d370bcc52c7394d7e]: Textual amendment: [Sch. 8 Pt. 3](https://www.legislation.gov.uk/uksi/1999/2864/schedule/8/part/3) Section C(6) omitted (15.11.2021 at 1.00 a.m.) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1154)](https://www.legislation.gov.uk/uksi/2021/1154), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1154/regulation/1/2), [22(a)(ii)](https://www.legislation.gov.uk/uksi/2021/1154/regulation/22/a/ii)
+[^c-8645e77fcd869d2d370bcc52c7394d7e]: Textual amendment: [Sch. 8 Pt. 3](https://www.legislation.gov.uk/uksi/1999/2864/schedule/8/part/3) Section C(6) omitted (15.11.2021 at 1.00 a.m.) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1154)](https://www.legislation.gov.uk/uksi/2021/1154), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1154/regulation/1/2), [22(a)(ii)](https://www.legislation.gov.uk/uksi/2021/1154/regulation/22/a/ii)
 
-[^key-ebda2636a205b99c26cce791143a02d3]: Textual amendment: [Sch. 8 Pt. 3](https://www.legislation.gov.uk/uksi/1999/2864/schedule/8/part/3) Section D(12)(e)-(h) inserted (31.12.2015) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2015 (S.I. 2015/1797)](https://www.legislation.gov.uk/uksi/2015/1797), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1797/regulation/1), [10](https://www.legislation.gov.uk/uksi/2015/1797/regulation/10)
+[^c-ebda2636a205b99c26cce791143a02d3]: Textual amendment: [Sch. 8 Pt. 3](https://www.legislation.gov.uk/uksi/1999/2864/schedule/8/part/3) Section D(12)(e)-(h) inserted (31.12.2015) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2015 (S.I. 2015/1797)](https://www.legislation.gov.uk/uksi/2015/1797), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1797/regulation/1), [10](https://www.legislation.gov.uk/uksi/2015/1797/regulation/10)
 
-[^key-71505ea9e301eb5ac5f4005fecdd4155]: Textual amendment: [Sch. 8 Pt. 3](https://www.legislation.gov.uk/uksi/1999/2864/schedule/8/part/3) Section F omitted (15.11.2021 at 1.00 a.m.) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1154)](https://www.legislation.gov.uk/uksi/2021/1154), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1154/regulation/1/2), [22(a)(iii)](https://www.legislation.gov.uk/uksi/2021/1154/regulation/22/a/iii)
+[^c-71505ea9e301eb5ac5f4005fecdd4155]: Textual amendment: [Sch. 8 Pt. 3](https://www.legislation.gov.uk/uksi/1999/2864/schedule/8/part/3) Section F omitted (15.11.2021 at 1.00 a.m.) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1154)](https://www.legislation.gov.uk/uksi/2021/1154), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1154/regulation/1/2), [22(a)(iii)](https://www.legislation.gov.uk/uksi/2021/1154/regulation/22/a/iii)
 
-[^key-a2cf4a14cdaedf29dc4b280add1e665e]: Textual amendment: [Sch. 8 Pt. 3](https://www.legislation.gov.uk/uksi/1999/2864/schedule/8/part/3) Section H inserted (10.4.2014) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2014 (S.I. 2014/613)](https://www.legislation.gov.uk/uksi/2014/613), [regs. 1](https://www.legislation.gov.uk/uksi/2014/613/regulation/1), [10(a)(ii)](https://www.legislation.gov.uk/uksi/2014/613/regulation/10/a/ii)
+[^c-a2cf4a14cdaedf29dc4b280add1e665e]: Textual amendment: [Sch. 8 Pt. 3](https://www.legislation.gov.uk/uksi/1999/2864/schedule/8/part/3) Section H inserted (10.4.2014) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2014 (S.I. 2014/613)](https://www.legislation.gov.uk/uksi/2014/613), [regs. 1](https://www.legislation.gov.uk/uksi/2014/613/regulation/1), [10(a)(ii)](https://www.legislation.gov.uk/uksi/2014/613/regulation/10/a/ii)
 
-[^key-8f01c8dd5173263a2836589faa9dcec5]: Textual amendment: Words in [Sch. 8 Pt. 4 para. 2](https://www.legislation.gov.uk/uksi/1999/2864/schedule/8/part/4/paragraph/2) substituted (10.4.2014) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2014 (S.I. 2014/613)](https://www.legislation.gov.uk/uksi/2014/613), [regs. 1](https://www.legislation.gov.uk/uksi/2014/613/regulation/1), [10(b)(i)](https://www.legislation.gov.uk/uksi/2014/613/regulation/10/b/i)
+[^c-8f01c8dd5173263a2836589faa9dcec5]: Textual amendment: Words in [Sch. 8 Pt. 4 para. 2](https://www.legislation.gov.uk/uksi/1999/2864/schedule/8/part/4/paragraph/2) substituted (10.4.2014) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2014 (S.I. 2014/613)](https://www.legislation.gov.uk/uksi/2014/613), [regs. 1](https://www.legislation.gov.uk/uksi/2014/613/regulation/1), [10(b)(i)](https://www.legislation.gov.uk/uksi/2014/613/regulation/10/b/i)
 
-[^key-257aab6fa6ef23b4331340ed68fa3905]: Textual amendment: [Sch. 8 Pt. 4 para. 4](https://www.legislation.gov.uk/uksi/1999/2864/schedule/8/part/4/paragraph/4) omitted (15.11.2021 at 1.00 a.m.) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1154)](https://www.legislation.gov.uk/uksi/2021/1154), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1154/regulation/1/2), [22(b)(i)](https://www.legislation.gov.uk/uksi/2021/1154/regulation/22/b/i)
+[^c-257aab6fa6ef23b4331340ed68fa3905]: Textual amendment: [Sch. 8 Pt. 4 para. 4](https://www.legislation.gov.uk/uksi/1999/2864/schedule/8/part/4/paragraph/4) omitted (15.11.2021 at 1.00 a.m.) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1154)](https://www.legislation.gov.uk/uksi/2021/1154), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1154/regulation/1/2), [22(b)(i)](https://www.legislation.gov.uk/uksi/2021/1154/regulation/22/b/i)
 
-[^key-524f9dbc8314d2032ca7aa0a8f4bd9b9]: Textual amendment: Words in [Sch. 8 Pt. 4 Section A(2)](https://www.legislation.gov.uk/uksi/1999/2864/schedule/8/part/4) inserted (15.11.2021) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1251)](https://www.legislation.gov.uk/uksi/2021/1251), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1251/regulation/1/2), [8(b)(i)](https://www.legislation.gov.uk/uksi/2021/1251/regulation/8/b/i) (with [reg. 9](https://www.legislation.gov.uk/uksi/2021/1251/regulation/9))
+[^c-524f9dbc8314d2032ca7aa0a8f4bd9b9]: Textual amendment: Words in [Sch. 8 Pt. 4 Section A(2)](https://www.legislation.gov.uk/uksi/1999/2864/schedule/8/part/4) inserted (15.11.2021) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1251)](https://www.legislation.gov.uk/uksi/2021/1251), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1251/regulation/1/2), [8(b)(i)](https://www.legislation.gov.uk/uksi/2021/1251/regulation/8/b/i) (with [reg. 9](https://www.legislation.gov.uk/uksi/2021/1251/regulation/9))
 
-[^key-e202c4f8b81adadaa61b39104e00fa53]: Textual amendment: [Sch. 8 Pt. 4 Section A(2A)](https://www.legislation.gov.uk/uksi/1999/2864/schedule/8/part/4) inserted (15.11.2021) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1251)](https://www.legislation.gov.uk/uksi/2021/1251), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1251/regulation/1/2), [8(b)(ii)](https://www.legislation.gov.uk/uksi/2021/1251/regulation/8/b/ii) (with [reg. 9](https://www.legislation.gov.uk/uksi/2021/1251/regulation/9))
+[^c-e202c4f8b81adadaa61b39104e00fa53]: Textual amendment: [Sch. 8 Pt. 4 Section A(2A)](https://www.legislation.gov.uk/uksi/1999/2864/schedule/8/part/4) inserted (15.11.2021) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1251)](https://www.legislation.gov.uk/uksi/2021/1251), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1251/regulation/1/2), [8(b)(ii)](https://www.legislation.gov.uk/uksi/2021/1251/regulation/8/b/ii) (with [reg. 9](https://www.legislation.gov.uk/uksi/2021/1251/regulation/9))
 
-[^key-45d95eaeb760b5e89eea1052c33e7d0b]: Textual amendment: Sch. 8 Pt. 4 Section C(6) omitted (15.11.2021 at 1.00 a.m.) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1154)](https://www.legislation.gov.uk/uksi/2021/1154), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1154/regulation/1/2), [22(b)(ii)](https://www.legislation.gov.uk/uksi/2021/1154/regulation/22/b/ii)
+[^c-45d95eaeb760b5e89eea1052c33e7d0b]: Textual amendment: Sch. 8 Pt. 4 Section C(6) omitted (15.11.2021 at 1.00 a.m.) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1154)](https://www.legislation.gov.uk/uksi/2021/1154), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1154/regulation/1/2), [22(b)(ii)](https://www.legislation.gov.uk/uksi/2021/1154/regulation/22/b/ii)
 
-[^key-f663693e17ac9073e20521efe8dea25f]: Textual amendment: Sch. 8 Pt. 4 section D para. 12(e)-(h) inserted (31.12.2015) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2015 (S.I. 2015/1797)](https://www.legislation.gov.uk/uksi/2015/1797), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1797/regulation/1), [10](https://www.legislation.gov.uk/uksi/2015/1797/regulation/10)
+[^c-f663693e17ac9073e20521efe8dea25f]: Textual amendment: Sch. 8 Pt. 4 section D para. 12(e)-(h) inserted (31.12.2015) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2015 (S.I. 2015/1797)](https://www.legislation.gov.uk/uksi/2015/1797), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1797/regulation/1), [10](https://www.legislation.gov.uk/uksi/2015/1797/regulation/10)
 
-[^key-4a17c4e9aa024755650c27aad316ce83]: Textual amendment: Sch. 8 Pt. 4 Section F omitted (15.11.2021 at 1.00 a.m.) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1154)](https://www.legislation.gov.uk/uksi/2021/1154), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1154/regulation/1/2), [22(b)(iii)](https://www.legislation.gov.uk/uksi/2021/1154/regulation/22/b/iii)
+[^c-4a17c4e9aa024755650c27aad316ce83]: Textual amendment: Sch. 8 Pt. 4 Section F omitted (15.11.2021 at 1.00 a.m.) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1154)](https://www.legislation.gov.uk/uksi/2021/1154), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1154/regulation/1/2), [22(b)(iii)](https://www.legislation.gov.uk/uksi/2021/1154/regulation/22/b/iii)
 
-[^key-8aa70286abe79169005ebe6dd0ff76cb]: Textual amendment: [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/1999/2864/schedule/8/part/4) Section H inserted (10.4.2014) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2014 (S.I. 2014/613)](https://www.legislation.gov.uk/uksi/2014/613), [regs. 1](https://www.legislation.gov.uk/uksi/2014/613/regulation/1), [10(b)(ii)](https://www.legislation.gov.uk/uksi/2014/613/regulation/10/b/ii)
+[^c-8aa70286abe79169005ebe6dd0ff76cb]: Textual amendment: [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/1999/2864/schedule/8/part/4) Section H inserted (10.4.2014) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2014 (S.I. 2014/613)](https://www.legislation.gov.uk/uksi/2014/613), [regs. 1](https://www.legislation.gov.uk/uksi/2014/613/regulation/1), [10(b)(ii)](https://www.legislation.gov.uk/uksi/2014/613/regulation/10/b/ii)
 
-[^key-83c47fade163a185117c015d57f23f63]: Textual amendment: Sch. 8 Pt. 5 substituted (12.1.2004) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 5) Regulations 2003 (S.I. 2003/3313)](https://www.legislation.gov.uk/uksi/2003/3313), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/3313/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2003/3313/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2003/3313/schedule)
+[^c-83c47fade163a185117c015d57f23f63]: Textual amendment: Sch. 8 Pt. 5 substituted (12.1.2004) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 5) Regulations 2003 (S.I. 2003/3313)](https://www.legislation.gov.uk/uksi/2003/3313), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/3313/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2003/3313/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2003/3313/schedule)

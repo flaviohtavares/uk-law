@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9B. Zero-rate secondary Class 1 contributions for certain apprentices[^key-e4c28b015420733fc98ce2ace92ade63]
+## 9B. Zero-rate secondary Class 1 contributions for certain apprentices[^c-e4c28b015420733fc98ce2ace92ade63]
 
 *Extent: E+W+S*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) is aged under 25, and
 - (b) is employed, in the employment, as an apprentice.
 
-(3)[^key-45251290abe4b4c5956c6e061ba00808] For the purposes of this Act a person is still to be regarded as being liable to pay a secondary Class 1 contribution even if the amount of the contribution is £0 because this section applies to the earnings in question.
+(3)[^c-45251290abe4b4c5956c6e061ba00808] For the purposes of this Act a person is still to be regarded as being liable to pay a secondary Class 1 contribution even if the amount of the contribution is £0 because this section applies to the earnings in question.
 
 (4) The Treasury may by regulations provide that, in relation to relevant apprentices, there is to be for every tax year an upper secondary threshold for secondary Class 1 contributions.
 
@@ -51,6 +51,6 @@ That threshold is to be the amount specified for that year by regulations made b
 
 ## Annotations
 
-[^key-e4c28b015420733fc98ce2ace92ade63]: Textual amendment: [S. 9B](https://www.legislation.gov.uk/ukpga/1992/4/section/9B) inserted (12.4.2015 for specified purposes, 6.4.2016 in so far as not already in force) by [National Insurance Contributions Act 2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5), [s. 1(4)](https://www.legislation.gov.uk/ukpga/2015/5/section/1/4)[(11)](https://www.legislation.gov.uk/ukpga/2015/5/section/1/11/a)
+[^c-e4c28b015420733fc98ce2ace92ade63]: Textual amendment: [S. 9B](https://www.legislation.gov.uk/ukpga/1992/4/section/9B) inserted (12.4.2015 for specified purposes, 6.4.2016 in so far as not already in force) by [National Insurance Contributions Act 2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5), [s. 1(4)](https://www.legislation.gov.uk/ukpga/2015/5/section/1/4)[(11)](https://www.legislation.gov.uk/ukpga/2015/5/section/1/11/a)
 
-[^key-45251290abe4b4c5956c6e061ba00808]: Modification: [S. 9B(3)](https://www.legislation.gov.uk/ukpga/1992/4/section/9B/3) applied (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 100(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/100/6)
+[^c-45251290abe4b4c5956c6e061ba00808]: Modification: [S. 9B(3)](https://www.legislation.gov.uk/ukpga/1992/4/section/9B/3) applied (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 100(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/100/6)

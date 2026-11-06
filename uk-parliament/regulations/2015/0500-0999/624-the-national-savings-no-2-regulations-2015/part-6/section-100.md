@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Application to the Channel Islands[^key-4ba0d6df6366432c6e5fbd628c343215]
+## 100. Application to the Channel Islands[^c-4ba0d6df6366432c6e5fbd628c343215]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,7 +66,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4ba0d6df6366432c6e5fbd628c343215]: Commencement: Reg. 100 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-4ba0d6df6366432c6e5fbd628c343215]: Commencement: Reg. 100 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
 
 [^f00047]: Footnote: Law 18 of 1969.
 

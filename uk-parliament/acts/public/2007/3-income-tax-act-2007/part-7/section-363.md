@@ -36,7 +36,7 @@ as having received a repayment of the loan of an amount equal to the amount of t
 
 (4) For the purposes of section 362 the repayment is treated as a repayment other than a non-standard repayment (within the meaning of that section).
 
-(5) For the purposes of this section “**an amount of insignificant value**” means an amount of value[^key-1c50c819acee9e650e0e612e58c332d0] which—
+(5) For the purposes of this section “**an amount of insignificant value**” means an amount of value[^c-1c50c819acee9e650e0e612e58c332d0] which—
 
 - (a) is not more than £1,000, or
 - (b) if it is more than £1,000, is insignificant in relation to the average capital balance of the loan for the year of the 6 year period in which the value is received.
@@ -52,4 +52,4 @@ as having received a repayment of the loan of an amount equal to the amount of t
 
 ## Annotations
 
-[^key-1c50c819acee9e650e0e612e58c332d0]: Textual amendment: Words in s. 363(5) inserted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 515](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/515) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-1c50c819acee9e650e0e612e58c332d0]: Textual amendment: Words in s. 363(5) inserted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 515](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/515) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

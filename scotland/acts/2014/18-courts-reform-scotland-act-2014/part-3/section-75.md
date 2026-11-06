@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Rule-making: matters to be taken into consideration[^key-bfe27e02910c5c69a81d0601d21216f0]
+## 75. Rule-making: matters to be taken into consideration[^c-bfe27e02910c5c69a81d0601d21216f0]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ The power to make provision relating to simple procedure by act of sederunt unde
 
 ## Annotations
 
-[^key-bfe27e02910c5c69a81d0601d21216f0]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2014/18/section/75) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-bfe27e02910c5c69a81d0601d21216f0]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2014/18/section/75) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

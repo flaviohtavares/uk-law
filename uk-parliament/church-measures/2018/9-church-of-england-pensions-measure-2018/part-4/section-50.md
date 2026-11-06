@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 50. Audit and annual report[^key-346cd5766de82977b796f951ad5c1b25][^key-e30ba68fd63cd3be5dfd68736e9e6a42]
+## 50. Audit and annual report[^c-346cd5766de82977b796f951ad5c1b25][^c-e30ba68fd63cd3be5dfd68736e9e6a42]
 
 *Extent: E*
 
@@ -28,17 +28,17 @@ summary: ''
 
 (2) An auditor appointed under subsection (1)—
 
-- (a) must audit the accounts in question annually, [^key-cd0b6d6ba4a5f900b54035c3ef90630f]...
-- (b)[^key-cd0b6d6ba4a5f900b54035c3ef90630f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) must audit the accounts in question annually, [^c-cd0b6d6ba4a5f900b54035c3ef90630f]...
+- (b)[^c-cd0b6d6ba4a5f900b54035c3ef90630f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-d378b1b78e0822715374386facc3a15c] The Board must each year lay before the General Synod a copy of the annual report prepared for it under section 162 of the Charities Act 2011 for the preceding financial year (within the meaning of that Act).
+(3)[^c-d378b1b78e0822715374386facc3a15c] The Board must each year lay before the General Synod a copy of the annual report prepared for it under section 162 of the Charities Act 2011 for the preceding financial year (within the meaning of that Act).
 
 ## Annotations
 
-[^key-346cd5766de82977b796f951ad5c1b25]: Commencement: S. 50 in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-346cd5766de82977b796f951ad5c1b25]: Commencement: S. 50 in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
 
-[^key-e30ba68fd63cd3be5dfd68736e9e6a42]: Textual amendment: Words in s. 50 heading inserted (14.5.2021) by [The Legislative Reform (Church of England Pensions) Order 2021 (S.I. 2021/554)](https://www.legislation.gov.uk/uksi/2021/554), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/554/article/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2021/554/article/5/3)
+[^c-e30ba68fd63cd3be5dfd68736e9e6a42]: Textual amendment: Words in s. 50 heading inserted (14.5.2021) by [The Legislative Reform (Church of England Pensions) Order 2021 (S.I. 2021/554)](https://www.legislation.gov.uk/uksi/2021/554), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/554/article/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2021/554/article/5/3)
 
-[^key-cd0b6d6ba4a5f900b54035c3ef90630f]: Textual amendment: S. 50(2)(b) and word omitted (14.5.2021) by virtue of [The Legislative Reform (Church of England Pensions) Order 2021 (S.I. 2021/554)](https://www.legislation.gov.uk/uksi/2021/554), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/554/article/1/3), [5(1)](https://www.legislation.gov.uk/uksi/2021/554/article/5/1)
+[^c-cd0b6d6ba4a5f900b54035c3ef90630f]: Textual amendment: S. 50(2)(b) and word omitted (14.5.2021) by virtue of [The Legislative Reform (Church of England Pensions) Order 2021 (S.I. 2021/554)](https://www.legislation.gov.uk/uksi/2021/554), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/554/article/1/3), [5(1)](https://www.legislation.gov.uk/uksi/2021/554/article/5/1)
 
-[^key-d378b1b78e0822715374386facc3a15c]: Textual amendment: S. 50(3) substituted (14.5.2021) by [The Legislative Reform (Church of England Pensions) Order 2021 (S.I. 2021/554)](https://www.legislation.gov.uk/uksi/2021/554), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/554/article/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2021/554/article/5/2)
+[^c-d378b1b78e0822715374386facc3a15c]: Textual amendment: S. 50(3) substituted (14.5.2021) by [The Legislative Reform (Church of England Pensions) Order 2021 (S.I. 2021/554)](https://www.legislation.gov.uk/uksi/2021/554), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/554/article/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2021/554/article/5/2)

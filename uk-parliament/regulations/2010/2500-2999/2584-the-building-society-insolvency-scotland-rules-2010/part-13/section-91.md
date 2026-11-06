@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 91. Summoning of meetings[^key-506173d1a778524c985d8fc7252b2420]
+## 91. Summoning of meetings[^c-506173d1a778524c985d8fc7252b2420]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Apply rule 7.2 of the 1986 Rules.
 
 ## Annotations
 
-[^key-506173d1a778524c985d8fc7252b2420]: Commencement: Rule 91 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-506173d1a778524c985d8fc7252b2420]: Commencement: Rule 91 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

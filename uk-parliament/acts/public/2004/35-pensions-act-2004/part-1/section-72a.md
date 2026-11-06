@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72A. Interviews[^key-6633f4047e6eac336b8e63f3b008c11f]
+## 72A. Interviews[^c-6633f4047e6eac336b8e63f3b008c11f]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6633f4047e6eac336b8e63f3b008c11f]: Textual amendment: [S. 72A](https://www.legislation.gov.uk/ukpga/2004/35/section/72A) inserted (31.5.2021 for specified purposes, 1.10.2021 in so far as not already in force) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 110(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/110/2), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/620](https://www.legislation.gov.uk/uksi/2021/620), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2021/620/regulation/2/1/c); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(5)(b)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/5/b) (with [reg. 9](https://www.legislation.gov.uk/uksi/2021/950/regulation/9))
+[^c-6633f4047e6eac336b8e63f3b008c11f]: Textual amendment: [S. 72A](https://www.legislation.gov.uk/ukpga/2004/35/section/72A) inserted (31.5.2021 for specified purposes, 1.10.2021 in so far as not already in force) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 110(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/110/2), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/620](https://www.legislation.gov.uk/uksi/2021/620), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2021/620/regulation/2/1/c); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(5)(b)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/5/b) (with [reg. 9](https://www.legislation.gov.uk/uksi/2021/950/regulation/9))

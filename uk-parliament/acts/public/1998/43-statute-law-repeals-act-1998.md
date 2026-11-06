@@ -753,11 +753,11 @@ Section 1(2).
 
 ### Fisheries Act 1891 (c.37)
 
-**9.** In section 6 of the Fisheries Act 1891 (construction, title and commencement of Part I of that Act), for subsection (3) substitute— *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^key-42f09d21b0aa3ac1ed8e3e5e6dc2159c]
+**9.** In section 6 of the Fisheries Act 1891 (construction, title and commencement of Part I of that Act), for subsection (3) substitute— *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^c-42f09d21b0aa3ac1ed8e3e5e6dc2159c]
 
-> (3 (Extent: E+W+N.I.) (affected by repeal, see note))[^key-42f09d21b0aa3ac1ed8e3e5e6dc2159c] The Sea Fisheries (Scotland) Amendment Act 1885 and this Part of this Act may be cited collectively as the Sea Fisheries Acts 1885 to 1891. *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^key-42f09d21b0aa3ac1ed8e3e5e6dc2159c]
+> (3 (Extent: E+W+N.I.) (affected by repeal, see note))[^c-42f09d21b0aa3ac1ed8e3e5e6dc2159c] The Sea Fisheries (Scotland) Amendment Act 1885 and this Part of this Act may be cited collectively as the Sea Fisheries Acts 1885 to 1891. *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^c-42f09d21b0aa3ac1ed8e3e5e6dc2159c]
 
-. *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^key-42f09d21b0aa3ac1ed8e3e5e6dc2159c]
+. *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^c-42f09d21b0aa3ac1ed8e3e5e6dc2159c]
 
 ### Finance Act 1931 (c.28)
 
@@ -812,4 +812,4 @@ Section 1(2).
 
 [^c2035379]: Textual amendment: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/1998/43/schedule/2/paragraph/3) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109](https://www.legislation.gov.uk/ukpga/2003/39/section/109), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
 
-[^key-42f09d21b0aa3ac1ed8e3e5e6dc2159c]: Textual amendment: Sch. 2 para. 9 omitted (E.W.N.I.) (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 32(4)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/32/4)
+[^c-42f09d21b0aa3ac1ed8e3e5e6dc2159c]: Textual amendment: Sch. 2 para. 9 omitted (E.W.N.I.) (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 32(4)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/32/4)

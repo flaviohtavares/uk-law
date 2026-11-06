@@ -60,137 +60,137 @@ The Secretary of State, in exercise of the powers conferred by sections 3A(1) to
 
 ## PART 2 — Amendment of the Conduct Regulations
 
-### 2. Amendment of the Conduct Regulations[^key-0552fed8d6e3471ddb6b5fe692aa3ea2]
+### 2. Amendment of the Conduct Regulations[^c-0552fed8d6e3471ddb6b5fe692aa3ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendment of regulation 3 (interpretation)[^key-0552fed8d6e3471ddb6b5fe692aa3ea2]
+### 3. Amendment of regulation 3 (interpretation)[^c-0552fed8d6e3471ddb6b5fe692aa3ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Amendment of regulation 4 (the harm test)[^key-0552fed8d6e3471ddb6b5fe692aa3ea2]
+### 4. Amendment of regulation 4 (the harm test)[^c-0552fed8d6e3471ddb6b5fe692aa3ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Amendment of regulation 9 (application)[^key-0552fed8d6e3471ddb6b5fe692aa3ea2]
+### 5. Amendment of regulation 9 (application)[^c-0552fed8d6e3471ddb6b5fe692aa3ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Amendment of regulation 11 (legal and other representation for the relevant authority)[^key-0552fed8d6e3471ddb6b5fe692aa3ea2]
+### 6. Amendment of regulation 11 (legal and other representation for the relevant authority)[^c-0552fed8d6e3471ddb6b5fe692aa3ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Amendment of regulation 15 (application of Part 3)[^key-0552fed8d6e3471ddb6b5fe692aa3ea2]
+### 7. Amendment of regulation 15 (application of Part 3)[^c-0552fed8d6e3471ddb6b5fe692aa3ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Amendment of regulation 24A (national security: power to give directions in relation to misconduct hearings)[^key-0552fed8d6e3471ddb6b5fe692aa3ea2]
+### 8. Amendment of regulation 24A (national security: power to give directions in relation to misconduct hearings)[^c-0552fed8d6e3471ddb6b5fe692aa3ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Amendment of regulation 33 (participation of Director General or Ombudsman and investigator at misconduct proceedings)[^key-0552fed8d6e3471ddb6b5fe692aa3ea2]
+### 9. Amendment of regulation 33 (participation of Director General or Ombudsman and investigator at misconduct proceedings)[^c-0552fed8d6e3471ddb6b5fe692aa3ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Amendment of regulation 35 (attendance of others at misconduct proceedings)[^key-0552fed8d6e3471ddb6b5fe692aa3ea2]
+### 10. Amendment of regulation 35 (attendance of others at misconduct proceedings)[^c-0552fed8d6e3471ddb6b5fe692aa3ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Amendment of regulation 38 (senior officers: further meeting or further hearing of MOD Police Committee to consider disciplinary action)[^key-0552fed8d6e3471ddb6b5fe692aa3ea2]
+### 11. Amendment of regulation 38 (senior officers: further meeting or further hearing of MOD Police Committee to consider disciplinary action)[^c-0552fed8d6e3471ddb6b5fe692aa3ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Amendment of regulation 39 (outcome of misconduct proceedings)[^key-0552fed8d6e3471ddb6b5fe692aa3ea2]
+### 12. Amendment of regulation 39 (outcome of misconduct proceedings)[^c-0552fed8d6e3471ddb6b5fe692aa3ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Amendment of regulation 45A (national security: power to give directions in relation to special case hearings)[^key-0552fed8d6e3471ddb6b5fe692aa3ea2]
+### 13. Amendment of regulation 45A (national security: power to give directions in relation to special case hearings)[^c-0552fed8d6e3471ddb6b5fe692aa3ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Substitution of regulation 46 (notice of referral to special case hearing)[^key-0552fed8d6e3471ddb6b5fe692aa3ea2]
+### 14. Substitution of regulation 46 (notice of referral to special case hearing)[^c-0552fed8d6e3471ddb6b5fe692aa3ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Amendment of regulation 48 (notice of special case hearing)[^key-0552fed8d6e3471ddb6b5fe692aa3ea2]
+### 15. Amendment of regulation 48 (notice of special case hearing)[^c-0552fed8d6e3471ddb6b5fe692aa3ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Amendment of regulation 49 (procedure on receipt of notice of special case hearing)[^key-0552fed8d6e3471ddb6b5fe692aa3ea2]
+### 16. Amendment of regulation 49 (procedure on receipt of notice of special case hearing)[^c-0552fed8d6e3471ddb6b5fe692aa3ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Amendment of regulation 52 (documents to be supplied)[^key-0552fed8d6e3471ddb6b5fe692aa3ea2]
+### 17. Amendment of regulation 52 (documents to be supplied)[^c-0552fed8d6e3471ddb6b5fe692aa3ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Amendment of regulation 54 (participation of Director General or the Ombudsman and investigator at special case hearing[^key-0552fed8d6e3471ddb6b5fe692aa3ea2]
+### 18. Amendment of regulation 54 (participation of Director General or the Ombudsman and investigator at special case hearing[^c-0552fed8d6e3471ddb6b5fe692aa3ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Amendment of regulation 56 (attendance of others at special case hearing)[^key-0552fed8d6e3471ddb6b5fe692aa3ea2]
+### 19. Amendment of regulation 56 (attendance of others at special case hearing)[^c-0552fed8d6e3471ddb6b5fe692aa3ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Amendment of regulation 57 (procedure at special case hearing)[^key-0552fed8d6e3471ddb6b5fe692aa3ea2]
+### 20. Amendment of regulation 57 (procedure at special case hearing)[^c-0552fed8d6e3471ddb6b5fe692aa3ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Amendment of regulation 58 (senior officers: further hearing of MOD Police Committee to consider disciplinary action)[^key-0552fed8d6e3471ddb6b5fe692aa3ea2]
+### 21. Amendment of regulation 58 (senior officers: further hearing of MOD Police Committee to consider disciplinary action)[^c-0552fed8d6e3471ddb6b5fe692aa3ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. New Schedule[^key-0552fed8d6e3471ddb6b5fe692aa3ea2]
+### 22. New Schedule[^c-0552fed8d6e3471ddb6b5fe692aa3ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Amendment of the 2009 Regulations
 
-### 23. Amendment of the 2009 Regulations[^key-68dd9cdd866845fe9b28d5040c4e295e]
+### 23. Amendment of the 2009 Regulations[^c-68dd9cdd866845fe9b28d5040c4e295e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Amendment of regulation 3 (interpretation)[^key-68dd9cdd866845fe9b28d5040c4e295e]
+### 24. Amendment of regulation 3 (interpretation)[^c-68dd9cdd866845fe9b28d5040c4e295e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. New regulation 4B[^key-68dd9cdd866845fe9b28d5040c4e295e]
+### 25. New regulation 4B[^c-68dd9cdd866845fe9b28d5040c4e295e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Amendment of regulation 5 (appointment and composition of police appeals tribunal)[^key-68dd9cdd866845fe9b28d5040c4e295e]
+### 26. Amendment of regulation 5 (appointment and composition of police appeals tribunal)[^c-68dd9cdd866845fe9b28d5040c4e295e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Amendment of regulation 6 (notice of appeal)[^key-68dd9cdd866845fe9b28d5040c4e295e]
+### 27. Amendment of regulation 6 (notice of appeal)[^c-68dd9cdd866845fe9b28d5040c4e295e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Amendment of regulation 7[^key-68dd9cdd866845fe9b28d5040c4e295e]
+### 28. Amendment of regulation 7[^c-68dd9cdd866845fe9b28d5040c4e295e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Amendment of regulation 8 (the respondent)[^key-68dd9cdd866845fe9b28d5040c4e295e]
+### 29. Amendment of regulation 8 (the respondent)[^c-68dd9cdd866845fe9b28d5040c4e295e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. Amendment of regulation 9 (procedure on notice of appeal)[^key-68dd9cdd866845fe9b28d5040c4e295e]
+### 30. Amendment of regulation 9 (procedure on notice of appeal)[^c-68dd9cdd866845fe9b28d5040c4e295e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 31. Amendment of regulation 14 (notice of the hearing)[^key-68dd9cdd866845fe9b28d5040c4e295e]
+### 31. Amendment of regulation 14 (notice of the hearing)[^c-68dd9cdd866845fe9b28d5040c4e295e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 32. Amendment of regulation 15 (legal and other representation)[^key-68dd9cdd866845fe9b28d5040c4e295e]
+### 32. Amendment of regulation 15 (legal and other representation)[^c-68dd9cdd866845fe9b28d5040c4e295e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 33. Amendment of regulation 18 (attendance at hearing)[^key-68dd9cdd866845fe9b28d5040c4e295e]
+### 33. Amendment of regulation 18 (attendance at hearing)[^c-68dd9cdd866845fe9b28d5040c4e295e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 34. Amendment of regulation 22 (tribunal's determination)[^key-68dd9cdd866845fe9b28d5040c4e295e]
+### 34. Amendment of regulation 22 (tribunal's determination)[^c-68dd9cdd866845fe9b28d5040c4e295e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -200,201 +200,201 @@ Parliamentary Under Secretary of State
 
 Ministry of Defence
 
-## SCHEDULE — Modifications to the Conduct Regulations[^key-c9c020eb526fa0b1fe5148d867459e10]
+## SCHEDULE — Modifications to the Conduct Regulations[^c-c9c020eb526fa0b1fe5148d867459e10]
 
 **No longer in force.**
 
 Regulation 22
 
-> **SCHEDULE 1A — Modifications to these Regulations in their application to former MDP officers[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **SCHEDULE 1A — Modifications to these Regulations in their application to former MDP officers[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > Regulation 9(2)
 >
-> **1. Modification to regulation 3 (interpretation)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **1. Modification to regulation 3 (interpretation)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2. Modification to regulation 4 (harm test)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **2. Modification to regulation 4 (harm test)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3. Modifications: omission of regulations 6 (disciplinary action) and 7 (written warnings)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **3. Modifications: omission of regulations 6 (disciplinary action) and 7 (written warnings)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4. Modification to regulation 10 (police friend and legal representation)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **4. Modification to regulation 10 (police friend and legal representation)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5. Modification to regulation 11 (legal and other representation for the relevant authority)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **5. Modification to regulation 11 (legal and other representation for the relevant authority)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **6. Modification to regulation 12 (provision of notices or documents)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **6. Modification to regulation 12 (provision of notices or documents)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **7. Modification: omission of regulation 14 (suspension)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **7. Modification: omission of regulation 14 (suspension)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **8. Modification to regulation 15 (application of Part 3)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **8. Modification to regulation 15 (application of Part 3)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **9. Modification to regulation 16 (assessment of conduct)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **9. Modification to regulation 16 (assessment of conduct)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **10. Modification to regulation 17 (appointment of investigator)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **10. Modification to regulation 17 (appointment of investigator)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **11. Modification to regulation 18 (investigation)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **11. Modification to regulation 18 (investigation)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **12. Modification to regulation 19 (written notice of investigation)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **12. Modification to regulation 19 (written notice of investigation)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **13. Modification to regulation 21 (interviews during investigations)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **13. Modification to regulation 21 (interviews during investigations)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **14. Modification: insertion of regulation 21A[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **14. Modification: insertion of regulation 21A[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **15. Modification to regulation 22 (report of investigation)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **15. Modification to regulation 22 (report of investigation)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **16. Modification: insertion of Part 3A[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **16. Modification: insertion of Part 3A[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **17. Modification to regulation 23 (referral of case to misconduct proceedings)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **17. Modification to regulation 23 (referral of case to misconduct proceedings)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **18. Modification to regulation 24 (withdrawal of case)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **18. Modification to regulation 24 (withdrawal of case)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **19. Modification to regulation 25 (notice of referral to misconduct proceedings and panel membership)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **19. Modification to regulation 25 (notice of referral to misconduct proceedings and panel membership)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **20. Modification to regulation 26 (procedure on receipt of notice)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **20. Modification to regulation 26 (procedure on receipt of notice)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **21. Modification to regulation 27 (witnesses)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **21. Modification to regulation 27 (witnesses)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **22. Modification to regulation 28 (timing and notice of misconduct proceedings)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **22. Modification to regulation 28 (timing and notice of misconduct proceedings)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **23. Modification to regulation 29 (persons conducting misconduct proceedings: officers other than senior officers)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **23. Modification to regulation 29 (persons conducting misconduct proceedings: officers other than senior officers)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **24. Modification to regulation 30 (persons conducting misconduct proceedings: senior officers)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **24. Modification to regulation 30 (persons conducting misconduct proceedings: senior officers)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **25. Modification to regulation 30A (notification of misconduct hearings)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **25. Modification to regulation 30A (notification of misconduct hearings)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **26. Modification to regulation 31 (documents to be supplied)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **26. Modification to regulation 31 (documents to be supplied)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **27. Modification to regulation 32 (attendance of officer concerned at misconduct proceedings)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **27. Modification to regulation 32 (attendance of officer concerned at misconduct proceedings)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **28. Modification to regulation 33 (participation of Director General or Ombudsman and investigator at misconduct proceedings)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **28. Modification to regulation 33 (participation of Director General or Ombudsman and investigator at misconduct proceedings)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **29. Modification to regulation 34 (attendance of complainant or interested person at misconduct proceedings)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **29. Modification to regulation 34 (attendance of complainant or interested person at misconduct proceedings)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **30. Modification to regulation 35 (attendance of others at misconduct proceedings)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **30. Modification to regulation 35 (attendance of others at misconduct proceedings)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **31. Modification to regulation 36 (exclusion from misconduct proceedings)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **31. Modification to regulation 36 (exclusion from misconduct proceedings)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **32. Modification to regulation 37 (procedure at misconduct proceedings)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **32. Modification to regulation 37 (procedure at misconduct proceedings)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **33. Modification to regulation 38 (senior officers: further meeting or further hearing of MOD Police Committee to consider disciplinary action)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **33. Modification to regulation 38 (senior officers: further meeting or further hearing of MOD Police Committee to consider disciplinary action)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **34. Modification to regulation 39 (outcome of misconduct proceedings)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **34. Modification to regulation 39 (outcome of misconduct proceedings)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **35. Modification to regulation 40 (notification of outcome)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **35. Modification to regulation 40 (notification of outcome)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **36. Modification to regulation 40A (publication of information in relation to outcome)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **36. Modification to regulation 40A (publication of information in relation to outcome)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **37. Modification to regulation 41 (record of misconduct proceedings)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **37. Modification to regulation 41 (record of misconduct proceedings)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **38. Modifications: omission of regulations 42 (appeal from misconduct meeting: officers other than senior officers), 43 (appeal meeting) and 44 (procedure and finding of the appeal)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **38. Modifications: omission of regulations 42 (appeal from misconduct meeting: officers other than senior officers), 43 (appeal meeting) and 44 (procedure and finding of the appeal)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **39. Modification to regulation 45 (referral of case to special case hearing)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **39. Modification to regulation 45 (referral of case to special case hearing)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **40. Modification to regulation 46 (notice of referral to special case hearing)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **40. Modification to regulation 46 (notice of referral to special case hearing)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **41. Modification to regulation 47 (remission of case)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **41. Modification to regulation 47 (remission of case)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **42. Modification to regulation 50 (person conducting special case hearing: officers other than senior officers)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **42. Modification to regulation 50 (person conducting special case hearing: officers other than senior officers)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **43. Modification to regulation 51 (persons conducting special case hearing: senior officers)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **43. Modification to regulation 51 (persons conducting special case hearing: senior officers)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **44. Modification to regulation 57 (procedure at special case hearing)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **44. Modification to regulation 57 (procedure at special case hearing)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **45. Modification to regulation 58 (senior officers: further hearing of MOD Police Committee to consider disciplinary action)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **45. Modification to regulation 58 (senior officers: further hearing of MOD Police Committee to consider disciplinary action)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **46. Modification to regulation 59 (outcome of special case hearing)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **46. Modification to regulation 59 (outcome of special case hearing)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **47. Modification to regulation 60 (notification of outcome)[^key-c9c020eb526fa0b1fe5148d867459e10]**
+> **47. Modification to regulation 60 (notification of outcome)[^c-c9c020eb526fa0b1fe5148d867459e10]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -422,8 +422,8 @@ A full Impact Assessment has not been prepared for this instrument as no, or no 
 
 [^c24449501]: Marginal citation: [S.I. 2015/25](https://www.legislation.gov.uk/uksi/2015/25), amended by [S.I. 2017/84](https://www.legislation.gov.uk/uksi/2017/84).
 
-[^key-0552fed8d6e3471ddb6b5fe692aa3ea2]: Textual amendment: Regs. 2-22 revoked (2.11.2020) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) Regulations 2020 (S.I. 2020/1087)](https://www.legislation.gov.uk/uksi/2020/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1), [6(1)(c)](https://www.legislation.gov.uk/uksi/2020/1087/regulation/6/1/c) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2020/1087/regulation/6/2))
+[^c-0552fed8d6e3471ddb6b5fe692aa3ea2]: Textual amendment: Regs. 2-22 revoked (2.11.2020) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) Regulations 2020 (S.I. 2020/1087)](https://www.legislation.gov.uk/uksi/2020/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1), [6(1)(c)](https://www.legislation.gov.uk/uksi/2020/1087/regulation/6/1/c) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2020/1087/regulation/6/2))
 
-[^key-68dd9cdd866845fe9b28d5040c4e295e]: Textual amendment: Regs. 23-34 revoked (2.11.2020) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) Regulations 2020 (S.I. 2020/1087)](https://www.legislation.gov.uk/uksi/2020/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1), [6(5)(c)](https://www.legislation.gov.uk/uksi/2020/1087/regulation/6/5/c) (with [reg. 6(6)](https://www.legislation.gov.uk/uksi/2020/1087/regulation/6/6))
+[^c-68dd9cdd866845fe9b28d5040c4e295e]: Textual amendment: Regs. 23-34 revoked (2.11.2020) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) Regulations 2020 (S.I. 2020/1087)](https://www.legislation.gov.uk/uksi/2020/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1), [6(5)(c)](https://www.legislation.gov.uk/uksi/2020/1087/regulation/6/5/c) (with [reg. 6(6)](https://www.legislation.gov.uk/uksi/2020/1087/regulation/6/6))
 
-[^key-c9c020eb526fa0b1fe5148d867459e10]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2018/1119/schedule) revoked (2.11.2020) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) Regulations 2020 (S.I. 2020/1087)](https://www.legislation.gov.uk/uksi/2020/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1), [6(1)(c)](https://www.legislation.gov.uk/uksi/2020/1087/regulation/6/1/c) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2020/1087/regulation/6/2))
+[^c-c9c020eb526fa0b1fe5148d867459e10]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2018/1119/schedule) revoked (2.11.2020) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) Regulations 2020 (S.I. 2020/1087)](https://www.legislation.gov.uk/uksi/2020/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1), [6(1)(c)](https://www.legislation.gov.uk/uksi/2020/1087/regulation/6/1/c) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2020/1087/regulation/6/2))

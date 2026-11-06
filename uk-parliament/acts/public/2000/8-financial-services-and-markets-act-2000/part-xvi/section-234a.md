@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 234A. Funding by consumer credit licensees etc.[^key-e286e95c21d699fe3ec2cf67f98e5716]
+## 234A. Funding by consumer credit licensees etc.[^c-e286e95c21d699fe3ec2cf67f98e5716]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e286e95c21d699fe3ec2cf67f98e5716]: Textual amendment: S. 234A omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [10(10)](https://www.legislation.gov.uk/uksi/2013/1881/article/10/10) (with [art. 11(9)](https://www.legislation.gov.uk/uksi/2013/1881/article/11/9))
+[^c-e286e95c21d699fe3ec2cf67f98e5716]: Textual amendment: S. 234A omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [10(10)](https://www.legislation.gov.uk/uksi/2013/1881/article/10/10) (with [art. 11(9)](https://www.legislation.gov.uk/uksi/2013/1881/article/11/9))

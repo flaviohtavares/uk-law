@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. No-smoking signs in Scotland[^key-195a2b1a6070079b95aefff2b94c19c7]
+## 149. No-smoking signs in Scotland[^c-195a2b1a6070079b95aefff2b94c19c7]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-195a2b1a6070079b95aefff2b94c19c7]: Commencement: S. 149 not in force at Royal Assent, see [s. 176(3)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/b)
+[^c-195a2b1a6070079b95aefff2b94c19c7]: Commencement: S. 149 not in force at Royal Assent, see [s. 176(3)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/b)

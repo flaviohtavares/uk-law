@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13B. Revising the number of UK ROCs to be produced by a designated electricity supplier for the 2017/18 and 2018/19 obligation periods[^key-b6f7e86c2ff53d9ba0f5ed9ebf46d3d2]
+## 13B. Revising the number of UK ROCs to be produced by a designated electricity supplier for the 2017/18 and 2018/19 obligation periods[^c-b6f7e86c2ff53d9ba0f5ed9ebf46d3d2]
 
 *Extent: E+W*
 
@@ -70,4 +70,4 @@ save that the references to “D” in the formulae set out in paragraphs (3) an
 
 ## Annotations
 
-[^key-b6f7e86c2ff53d9ba0f5ed9ebf46d3d2]: Textual amendment: Arts. 13A, 13B inserted (15.12.2017) by [The Renewables Obligation (Amendment) (Energy Intensive Industries) Order 2017 (S.I. 2017/1289)](https://www.legislation.gov.uk/uksi/2017/1289), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/1289/article/1/1), [8](https://www.legislation.gov.uk/uksi/2017/1289/article/8)
+[^c-b6f7e86c2ff53d9ba0f5ed9ebf46d3d2]: Textual amendment: Arts. 13A, 13B inserted (15.12.2017) by [The Renewables Obligation (Amendment) (Energy Intensive Industries) Order 2017 (S.I. 2017/1289)](https://www.legislation.gov.uk/uksi/2017/1289), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/1289/article/1/1), [8](https://www.legislation.gov.uk/uksi/2017/1289/article/8)

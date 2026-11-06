@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Amendments to Schedule 5 (general interpretation)[^key-50170184d737e76382312fd9c31f6e8f]
+## 45. Amendments to Schedule 5 (general interpretation)[^c-50170184d737e76382312fd9c31f6e8f]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ In Schedule 5 (general interpretation)—
 
 ## Annotations
 
-[^key-50170184d737e76382312fd9c31f6e8f]: Commencement: Reg. 45 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-50170184d737e76382312fd9c31f6e8f]: Commencement: Reg. 45 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
 
 [^f00043]: Footnote: OJ No L 182, 29.06.13, p. 19, as last amended by Council [Directive 2014/102/EU](https://www.legislation.gov.uk/european/directive/2014/0102).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 177. Power of person holding inquiry to require evidence[^key-163f4999892d95ba93359fc071a910a6][^key-f26e490a7d527127cbfd686b3065a04c]
+## 177. Power of person holding inquiry to require evidence[^c-163f4999892d95ba93359fc071a910a6][^c-f26e490a7d527127cbfd686b3065a04c]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-163f4999892d95ba93359fc071a910a6]: Commencement: S. 177 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-163f4999892d95ba93359fc071a910a6]: Commencement: S. 177 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-f26e490a7d527127cbfd686b3065a04c]: Commencement: [S. 177](https://www.legislation.gov.uk/asc/2023/3/section/177) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-f26e490a7d527127cbfd686b3065a04c]: Commencement: [S. 177](https://www.legislation.gov.uk/asc/2023/3/section/177) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

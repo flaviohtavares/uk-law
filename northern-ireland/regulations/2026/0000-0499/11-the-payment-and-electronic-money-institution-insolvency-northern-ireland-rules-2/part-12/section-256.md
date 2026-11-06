@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 256. Electronic delivery by administrator[^key-21ab00fc9494b098609d2b64b7244d94]
+## 256. Electronic delivery by administrator[^c-21ab00fc9494b098609d2b64b7244d94]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21ab00fc9494b098609d2b64b7244d94]: Commencement: [Rule 256](https://www.legislation.gov.uk/nisr/2026/11/rule/256) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-21ab00fc9494b098609d2b64b7244d94]: Commencement: [Rule 256](https://www.legislation.gov.uk/nisr/2026/11/rule/256) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

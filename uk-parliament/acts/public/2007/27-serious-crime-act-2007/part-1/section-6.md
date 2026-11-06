@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Any individual must be 18 or over[^key-eb948883d26d88b38e40377be9c3af06]
+## 6. Any individual must be 18 or over[^c-eb948883d26d88b38e40377be9c3af06]
 
 *Extent: E+W+N.I.*
 
@@ -24,4 +24,4 @@ An individual under the age of 18 may not be the subject of a serious crime prev
 
 ## Annotations
 
-[^key-eb948883d26d88b38e40377be9c3af06]: Commencement: S. 6 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(d)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/d)
+[^c-eb948883d26d88b38e40377be9c3af06]: Commencement: S. 6 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(d)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/d)

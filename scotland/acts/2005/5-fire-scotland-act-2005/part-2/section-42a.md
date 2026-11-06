@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42A. Directions[^key-8a2476ced03c5a047d6567de2f459580]
+## 42A. Directions[^c-8a2476ced03c5a047d6567de2f459580]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a2476ced03c5a047d6567de2f459580]: Textual amendment: S. 42A and cross-heading inserted (1.10.2012) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 118](https://www.legislation.gov.uk/asp/2012/8/section/118), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2); [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+[^c-8a2476ced03c5a047d6567de2f459580]: Textual amendment: S. 42A and cross-heading inserted (1.10.2012) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 118](https://www.legislation.gov.uk/asp/2012/8/section/118), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2); [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)

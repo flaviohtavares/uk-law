@@ -32,9 +32,9 @@ Section 17
 
 **2.** Chapter 3 (trade profits: basic rules) is amended as follows.
 
-**3.**[^key-a0edfacf02ca301d443037242f970388] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a0edfacf02ca301d443037242f970388] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-9180f303aa96ab214d000ac5834aedf7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-9180f303aa96ab214d000ac5834aedf7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **5.** After Chapter 3 insert—
 
@@ -232,7 +232,7 @@ Section 17
 > - (a) in subsection (1), the words “or to be made” were omitted, and
 > - (b) in subsection (2), the words “or within 9 months from the end of it” were omitted (in both places).
 
-**10.**[^key-2b66e6036db6b8ebbc233ecebac9a447] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-2b66e6036db6b8ebbc233ecebac9a447] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **11.** (1) Section 55A (expenditure on integral features) is amended as follows.
 
@@ -263,9 +263,9 @@ Section 17
 >
 > (3) In calculating the profits of a trade on the cash basis, any reference in this Chapter to the incurring of expenses is to be read as a reference to the paying of expenses.
 
-**14.**[^key-286ca141cf184be98004ac7ce6c33340] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-286ca141cf184be98004ac7ce6c33340] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-9ca5eecc8f27efe8fe0696090e90209a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-9ca5eecc8f27efe8fe0696090e90209a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **16.** In section 72 (payroll deduction schemes: contributions to agents' expenses), after subsection (2) insert—
 
@@ -646,7 +646,7 @@ Section 17
 
 > (2A) If, immediately before a person permanently ceases to carry on a trade, an election under section 25A (cash basis for small businesses) has effect in relation to the trade, a sum is to be treated as a post-cessation receipt only if it would have been brought into account in calculating the profits of the trade on the cash basis had it been received at that time.
 
-(3)[^key-c1b95273a6665f1362a4c56e61102e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c1b95273a6665f1362a4c56e61102e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Rent-a-room relief
 
@@ -687,7 +687,7 @@ Section 17
 
 #### TMA 1970
 
-**44.**[^key-70f9fc9822309ee26717471d77f11047] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-70f9fc9822309ee26717471d77f11047] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### TCGA 1992
 
@@ -830,7 +830,7 @@ Section 17
 
 #### ITA 2007
 
-**54.**[^key-0f8509165a13a2396d3d402c7de9d18d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**54.**[^c-0f8509165a13a2396d3d402c7de9d18d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **55.** (1) Chapter 1 of Part 8 of ITA 2007 (relief for interest payments) is amended as follows.
 
@@ -866,18 +866,18 @@ the profits of the barrister or advocate for that subsequent period of account m
 
 ## Annotations
 
-[^key-a0edfacf02ca301d443037242f970388]: Textual amendment: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/3) omitted (with effect for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 46(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/46/a), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
+[^c-a0edfacf02ca301d443037242f970388]: Textual amendment: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/3) omitted (with effect for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 46(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/46/a), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
 
-[^key-9180f303aa96ab214d000ac5834aedf7]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/4) omitted (with effect for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 46(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/46/a), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
+[^c-9180f303aa96ab214d000ac5834aedf7]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/4) omitted (with effect for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 46(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/46/a), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
 
-[^key-2b66e6036db6b8ebbc233ecebac9a447]: Textual amendment: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/10) omitted (with effect for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 46(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/46/a), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
+[^c-2b66e6036db6b8ebbc233ecebac9a447]: Textual amendment: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/10) omitted (with effect for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 46(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/46/a), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
 
-[^key-286ca141cf184be98004ac7ce6c33340]: Textual amendment: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/14) omitted (with effect for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 46(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/46/a), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
+[^c-286ca141cf184be98004ac7ce6c33340]: Textual amendment: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/14) omitted (with effect for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 46(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/46/a), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
 
-[^key-9ca5eecc8f27efe8fe0696090e90209a]: Textual amendment: [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/15) omitted (with effect for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 46(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/46/a), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
+[^c-9ca5eecc8f27efe8fe0696090e90209a]: Textual amendment: [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/15) omitted (with effect for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 46(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/46/a), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
 
-[^key-c1b95273a6665f1362a4c56e61102e5c]: Textual amendment: [Sch. 4 para. 39(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/39/3) omitted (with effect for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 46(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/46/a), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
+[^c-c1b95273a6665f1362a4c56e61102e5c]: Textual amendment: [Sch. 4 para. 39(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/39/3) omitted (with effect for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 46(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/46/a), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
 
-[^key-70f9fc9822309ee26717471d77f11047]: Textual amendment: [Sch. 4 para. 44](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/44) omitted (with effect for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 46(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/46/b), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
+[^c-70f9fc9822309ee26717471d77f11047]: Textual amendment: [Sch. 4 para. 44](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/44) omitted (with effect for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 46(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/46/b), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
 
-[^key-0f8509165a13a2396d3d402c7de9d18d]: Textual amendment: [Sch. 4 para. 54](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/54) omitted (with effect for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 46(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/46/b), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
+[^c-0f8509165a13a2396d3d402c7de9d18d]: Textual amendment: [Sch. 4 para. 54](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/54) omitted (with effect for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 46(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/46/b), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))

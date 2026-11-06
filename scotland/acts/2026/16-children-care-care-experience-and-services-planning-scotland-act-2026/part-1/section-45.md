@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Powers to exclude persons from children’s hearing[^key-b521ac761a4706f97f4d7e6b37a9f719]
+## 45. Powers to exclude persons from children’s hearing[^c-b521ac761a4706f97f4d7e6b37a9f719]
 
 *Extent: S*
 
@@ -78,4 +78,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b521ac761a4706f97f4d7e6b37a9f719]: Commencement: S. 45 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-b521ac761a4706f97f4d7e6b37a9f719]: Commencement: S. 45 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

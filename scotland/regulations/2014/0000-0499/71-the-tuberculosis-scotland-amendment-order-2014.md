@@ -34,7 +34,7 @@ Animals
 
 Animal Health
 
-The Tuberculosis (Scotland) Amendment Order 2014 (revoked)[^key-9c66114e48a87369d4a7872e14e2584e]
+The Tuberculosis (Scotland) Amendment Order 2014 (revoked)[^c-9c66114e48a87369d4a7872e14e2584e]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 6th April 2014
 
-[^key-9c66114e48a87369d4a7872e14e2584e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9c66114e48a87369d4a7872e14e2584e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9c66114e48a87369d4a7872e14e2584e]
+## 1. Citation and commencement[^c-9c66114e48a87369d4a7872e14e2584e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Tuberculosis (Scotland) Order 2007[^key-9c66114e48a87369d4a7872e14e2584e]
+## 2. Amendments to the Tuberculosis (Scotland) Order 2007[^c-9c66114e48a87369d4a7872e14e2584e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c66114e48a87369d4a7872e14e2584e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9c66114e48a87369d4a7872e14e2584e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9c66114e48a87369d4a7872e14e2584e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9c66114e48a87369d4a7872e14e2584e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9c66114e48a87369d4a7872e14e2584e]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2014/71) revoked (18.5.2023) by [The Tuberculosis (Scotland) Order 2023 (S.S.I. 2023/93)](https://www.legislation.gov.uk/ssi/2023/93), [art. 1(1)](https://www.legislation.gov.uk/ssi/2023/93/article/1/1), [sch.](https://www.legislation.gov.uk/ssi/2023/93/schedule)
+[^c-9c66114e48a87369d4a7872e14e2584e]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2014/71) revoked (18.5.2023) by [The Tuberculosis (Scotland) Order 2023 (S.S.I. 2023/93)](https://www.legislation.gov.uk/ssi/2023/93), [art. 1(1)](https://www.legislation.gov.uk/ssi/2023/93/article/1/1), [sch.](https://www.legislation.gov.uk/ssi/2023/93/schedule)

@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-The Feeding Stuffs (Scotland) Amendment (No. 3) Regulations 2003 (revoked)[^key-74f7cc2dabbbfa6811961ce0f06a8b46]
+The Feeding Stuffs (Scotland) Amendment (No. 3) Regulations 2003 (revoked)[^c-74f7cc2dabbbfa6811961ce0f06a8b46]
 
 Made
 
@@ -45,108 +45,108 @@ Coming into force
 
 1st December 2003
 
-[^key-74f7cc2dabbbfa6811961ce0f06a8b46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-74f7cc2dabbbfa6811961ce0f06a8b46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-74f7cc2dabbbfa6811961ce0f06a8b46]
+## 1. Citation, commencement and extent[^c-74f7cc2dabbbfa6811961ce0f06a8b46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Feeding Stuffs (Scotland) Regulations 2000[^key-74f7cc2dabbbfa6811961ce0f06a8b46]
+## 2. Amendment of the Feeding Stuffs (Scotland) Regulations 2000[^c-74f7cc2dabbbfa6811961ce0f06a8b46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-74f7cc2dabbbfa6811961ce0f06a8b46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-74f7cc2dabbbfa6811961ce0f06a8b46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — PROVISIONS SUBSTITUTED FOR PART II OF THE TABLE SET OUT IN SCHEDULE 3 TO THE FEEDING STUFFS (SCOTLAND) REGULATIONS 2000[^key-74f7cc2dabbbfa6811961ce0f06a8b46]
+## SCHEDULE 1 — PROVISIONS SUBSTITUTED FOR PART II OF THE TABLE SET OUT IN SCHEDULE 3 TO THE FEEDING STUFFS (SCOTLAND) REGULATIONS 2000[^c-74f7cc2dabbbfa6811961ce0f06a8b46]
 
 Regulation 2(a)
 
-> **PART II — PERMITTED COLOURANTS[^key-74f7cc2dabbbfa6811961ce0f06a8b46]**
+> **PART II — PERMITTED COLOURANTS[^c-74f7cc2dabbbfa6811961ce0f06a8b46]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — PROVISIONS SUBSTITUTED FOR PART IX OF THE TABLE TO SCHEDULE 3 TO THE FEEDING STUFFS (SCOTLAND) REGULATIONS 2000[^key-74f7cc2dabbbfa6811961ce0f06a8b46]
+## SCHEDULE 2 — PROVISIONS SUBSTITUTED FOR PART IX OF THE TABLE TO SCHEDULE 3 TO THE FEEDING STUFFS (SCOTLAND) REGULATIONS 2000[^c-74f7cc2dabbbfa6811961ce0f06a8b46]
 
 Regulation 2(b)
 
-> **PART IX — EUROPEAN COMMUNITY REGULATIONS BY WHICH ADDITIVES ARE CONTROLLED[^key-74f7cc2dabbbfa6811961ce0f06a8b46]**
+> **PART IX — EUROPEAN COMMUNITY REGULATIONS BY WHICH ADDITIVES ARE CONTROLLED[^c-74f7cc2dabbbfa6811961ce0f06a8b46]**
 >
-> [^key-74f7cc2dabbbfa6811961ce0f06a8b46]
->
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> [^key-74f7cc2dabbbfa6811961ce0f06a8b46]
+> [^c-74f7cc2dabbbfa6811961ce0f06a8b46]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-74f7cc2dabbbfa6811961ce0f06a8b46]
+> [^c-74f7cc2dabbbfa6811961ce0f06a8b46]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-74f7cc2dabbbfa6811961ce0f06a8b46]
+> [^c-74f7cc2dabbbfa6811961ce0f06a8b46]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-74f7cc2dabbbfa6811961ce0f06a8b46]
+> [^c-74f7cc2dabbbfa6811961ce0f06a8b46]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-74f7cc2dabbbfa6811961ce0f06a8b46]
+> [^c-74f7cc2dabbbfa6811961ce0f06a8b46]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-74f7cc2dabbbfa6811961ce0f06a8b46]
+> [^c-74f7cc2dabbbfa6811961ce0f06a8b46]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-74f7cc2dabbbfa6811961ce0f06a8b46]
+> [^c-74f7cc2dabbbfa6811961ce0f06a8b46]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-74f7cc2dabbbfa6811961ce0f06a8b46]
+> [^c-74f7cc2dabbbfa6811961ce0f06a8b46]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-74f7cc2dabbbfa6811961ce0f06a8b46]
+> [^c-74f7cc2dabbbfa6811961ce0f06a8b46]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-74f7cc2dabbbfa6811961ce0f06a8b46]
+> [^c-74f7cc2dabbbfa6811961ce0f06a8b46]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-74f7cc2dabbbfa6811961ce0f06a8b46]
+> [^c-74f7cc2dabbbfa6811961ce0f06a8b46]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-74f7cc2dabbbfa6811961ce0f06a8b46]
+> [^c-74f7cc2dabbbfa6811961ce0f06a8b46]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-74f7cc2dabbbfa6811961ce0f06a8b46]
+> [^c-74f7cc2dabbbfa6811961ce0f06a8b46]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-74f7cc2dabbbfa6811961ce0f06a8b46]
+> [^c-74f7cc2dabbbfa6811961ce0f06a8b46]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-74f7cc2dabbbfa6811961ce0f06a8b46]
+> [^c-74f7cc2dabbbfa6811961ce0f06a8b46]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-74f7cc2dabbbfa6811961ce0f06a8b46]
+> [^c-74f7cc2dabbbfa6811961ce0f06a8b46]
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> [^c-74f7cc2dabbbfa6811961ce0f06a8b46]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-74f7cc2dabbbfa6811961ce0f06a8b46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-74f7cc2dabbbfa6811961ce0f06a8b46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-74f7cc2dabbbfa6811961ce0f06a8b46]: Textual amendment: Regulations revoked (1.1.2006) by [The Feeding Stuffs (Scotland) Regulations 2005 (S.S.I. 2005/605)](https://www.legislation.gov.uk/ssi/2005/605), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/605/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2005/605/schedule/9)
+[^c-74f7cc2dabbbfa6811961ce0f06a8b46]: Textual amendment: Regulations revoked (1.1.2006) by [The Feeding Stuffs (Scotland) Regulations 2005 (S.S.I. 2005/605)](https://www.legislation.gov.uk/ssi/2005/605), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/605/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2005/605/schedule/9)

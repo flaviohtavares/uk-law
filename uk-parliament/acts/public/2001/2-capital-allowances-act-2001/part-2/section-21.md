@@ -43,8 +43,8 @@ summary: ''
   | 5\. | Shafts or other structures in which lifts, hoists, escalators and moving walkways are installed. |
   | 6\. | Fire safety systems. |
 
-(4) This section is subject to section 23 (but any reference in list C in subsection (4) of that section to “[^key-0458749a6e704abfa289b786f0a35c49]**plant**” does not include anything where expenditure on its provision is excluded by this section).
+(4) This section is subject to section 23 (but any reference in list C in subsection (4) of that section to “[^c-0458749a6e704abfa289b786f0a35c49]**plant**” does not include anything where expenditure on its provision is excluded by this section).
 
 ## Annotations
 
-[^key-0458749a6e704abfa289b786f0a35c49]: Textual amendment: Words in s. 21(4) inserted (with effect in accordance with s. 35(3) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 35(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/35/2)
+[^c-0458749a6e704abfa289b786f0a35c49]: Textual amendment: Words in s. 21(4) inserted (with effect in accordance with s. 35(3) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 35(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/35/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. The Residuary Body for Wales or Corff Gweddilliol Cymru.[^key-b573d20050686cfc635ac418989044d0]
+## 39. The Residuary Body for Wales or Corff Gweddilliol Cymru.[^c-b573d20050686cfc635ac418989044d0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b573d20050686cfc635ac418989044d0]: Textual amendment: [S. 39](https://www.legislation.gov.uk/ukpga/1994/19/section/39) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 29(3)(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/29/3/a)
+[^c-b573d20050686cfc635ac418989044d0]: Textual amendment: [S. 39](https://www.legislation.gov.uk/ukpga/1994/19/section/39) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 29(3)(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/29/3/a)

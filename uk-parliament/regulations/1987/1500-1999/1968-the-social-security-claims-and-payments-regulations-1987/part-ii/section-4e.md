@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4E. Making a claim before attaining the qualifying age[^key-9841060c5e9cd1927f905711aeba28ab]
+## 4E. Making a claim before attaining the qualifying age[^c-9841060c5e9cd1927f905711aeba28ab]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9841060c5e9cd1927f905711aeba28ab]: Textual amendment: Reg. 4D–4F inserted (7.4.2003) by [The State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations 2002 (S.I. 2002/3019)](https://www.legislation.gov.uk/uksi/2002/3019), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/1/2/a), [4(3)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/4/3)
+[^c-9841060c5e9cd1927f905711aeba28ab]: Textual amendment: Reg. 4D–4F inserted (7.4.2003) by [The State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations 2002 (S.I. 2002/3019)](https://www.legislation.gov.uk/uksi/2002/3019), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/1/2/a), [4(3)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/4/3)

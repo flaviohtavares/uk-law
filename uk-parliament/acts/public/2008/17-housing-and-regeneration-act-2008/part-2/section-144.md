@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Preparatory steps: notice[^key-b99ab311d1c1def4d2f0c028c972a494]
+## 144. Preparatory steps: notice[^c-b99ab311d1c1def4d2f0c028c972a494]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b99ab311d1c1def4d2f0c028c972a494]: Textual amendment: S. 144 omitted (5.7.2018) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2016/22/schedule/6/paragraph/2); [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/c)
+[^c-b99ab311d1c1def4d2f0c028c972a494]: Textual amendment: S. 144 omitted (5.7.2018) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2016/22/schedule/6/paragraph/2); [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/c)

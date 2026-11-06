@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69E. Publication of details of persons liable to penalties under section 69C[^key-75148ff020c4ea81a8e32e5b00aac9be]
+## 69E. Publication of details of persons liable to penalties under section 69C[^c-75148ff020c4ea81a8e32e5b00aac9be]
 
 *Extent: E+W+S+N.I.*
 
@@ -83,4 +83,4 @@ the Commissioners may publish information about the officer.
 
 ## Annotations
 
-[^key-75148ff020c4ea81a8e32e5b00aac9be]: Textual amendment: Ss. 69C-69E inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/68/2) (with [s. 68(7)](https://www.legislation.gov.uk/ukpga/2017/32/section/68/7))
+[^c-75148ff020c4ea81a8e32e5b00aac9be]: Textual amendment: Ss. 69C-69E inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/68/2) (with [s. 68(7)](https://www.legislation.gov.uk/ukpga/2017/32/section/68/7))

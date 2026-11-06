@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Framework for inspections[^key-29be3e6bc943a25fc10728df0d1cb371]
+## 133. Framework for inspections[^c-29be3e6bc943a25fc10728df0d1cb371]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29be3e6bc943a25fc10728df0d1cb371]: Commencement: S. 133 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)
+[^c-29be3e6bc943a25fc10728df0d1cb371]: Commencement: S. 133 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)

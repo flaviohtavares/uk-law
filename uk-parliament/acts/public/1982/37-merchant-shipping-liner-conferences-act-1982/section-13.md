@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Regulations and orders: consultation and Parliamentary control.[^key-ea16513ab807ebc4150a37839cfd6c17]
+## 13. Regulations and orders: consultation and Parliamentary control.[^c-ea16513ab807ebc4150a37839cfd6c17]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea16513ab807ebc4150a37839cfd6c17]: Textual amendment: S. 13 repealed (18.10.2008) by [Merchant Shipping (Liner Conferences) Act 1982 (Repeal) Regulations 2008 (S.I. 2008/163)](https://www.legislation.gov.uk/uksi/2008/163), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2008/163/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2008/163/regulation/3/2) (with [reg. 3(4)](https://www.legislation.gov.uk/uksi/2008/163/regulation/3/4))
+[^c-ea16513ab807ebc4150a37839cfd6c17]: Textual amendment: S. 13 repealed (18.10.2008) by [Merchant Shipping (Liner Conferences) Act 1982 (Repeal) Regulations 2008 (S.I. 2008/163)](https://www.legislation.gov.uk/uksi/2008/163), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2008/163/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2008/163/regulation/3/2) (with [reg. 3(4)](https://www.legislation.gov.uk/uksi/2008/163/regulation/3/4))

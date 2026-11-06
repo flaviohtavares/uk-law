@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Reviewing and revising plans: other requirements[^key-8747a57788736157cc1c8c3aaacb2607][^key-2b5cc523850bec2f18e5b62a6c518828]
+## 12. Reviewing and revising plans: other requirements[^c-8747a57788736157cc1c8c3aaacb2607][^c-2b5cc523850bec2f18e5b62a6c518828]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8747a57788736157cc1c8c3aaacb2607]: Commencement: S. 12 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-8747a57788736157cc1c8c3aaacb2607]: Commencement: S. 12 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-2b5cc523850bec2f18e5b62a6c518828]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2021/30/section/12) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/b)
+[^c-2b5cc523850bec2f18e5b62a6c518828]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2021/30/section/12) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/b)

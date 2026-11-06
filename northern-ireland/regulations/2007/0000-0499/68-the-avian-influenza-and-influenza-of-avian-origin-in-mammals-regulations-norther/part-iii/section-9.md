@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Notification procedures and precautions to be taken where avian influenza is suspected[^key-22b8c60dfd5e76749a265414c76e647c]
+## 9. Notification procedures and precautions to be taken where avian influenza is suspected[^c-22b8c60dfd5e76749a265414c76e647c]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22b8c60dfd5e76749a265414c76e647c]: Commencement: Reg. 9 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-22b8c60dfd5e76749a265414c76e647c]: Commencement: Reg. 9 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

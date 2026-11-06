@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Bank accounts[^key-e67e1116714f4d033a11c24c90a1b135][^key-2e850eada5eb8af5f85746a1ef899aaa]
+## 45. Bank accounts[^c-e67e1116714f4d033a11c24c90a1b135][^c-2e850eada5eb8af5f85746a1ef899aaa]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e67e1116714f4d033a11c24c90a1b135]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2016/19/section/45) in force at 1.11.2016 for specified purposes by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/c)
+[^c-e67e1116714f4d033a11c24c90a1b135]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2016/19/section/45) in force at 1.11.2016 for specified purposes by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/c)
 
-[^key-2e850eada5eb8af5f85746a1ef899aaa]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2016/19/section/45) in force at 30.10.2017 in so far as not already in force by [S.I. 2017/929](https://www.legislation.gov.uk/uksi/2017/929), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/929/regulation/2/a)
+[^c-2e850eada5eb8af5f85746a1ef899aaa]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2016/19/section/45) in force at 30.10.2017 in so far as not already in force by [S.I. 2017/929](https://www.legislation.gov.uk/uksi/2017/929), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/929/regulation/2/a)

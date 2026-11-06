@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Record keeping: transitional period[^key-4fe650cdfda2f88373c6d8bcb049966f]
+## 40. Record keeping: transitional period[^c-4fe650cdfda2f88373c6d8bcb049966f]
 
 *Extent: E+W+S+N.I.*
 
-(1) Each operator of a scheme who has obligations under regulation 28, 29, 31 or 32 in relation to any compliance period, or any part of a compliance period must[^key-9238198ecd768bf980894f9b618b7874], during the transitional period, keep records of the following information—
+(1) Each operator of a scheme who has obligations under regulation 28, 29, 31 or 32 in relation to any compliance period, or any part of a compliance period must[^c-9238198ecd768bf980894f9b618b7874], during the transitional period, keep records of the following information—
 
 - (a) the amount in tonnes of all WEEE which that operator of a scheme has delivered to or collected from or caused to be deposited at or collected from—
   - (i) a designated collection facility,
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4fe650cdfda2f88373c6d8bcb049966f]: Commencement: Reg. 40 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-4fe650cdfda2f88373c6d8bcb049966f]: Commencement: Reg. 40 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
 
-[^key-9238198ecd768bf980894f9b618b7874]: Textual amendment: Word in [reg. 40](https://www.legislation.gov.uk/uksi/2013/3113/regulation/40) substituted (25.7.2014) by [The Waste Electrical and Electronic Equipment and Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2014 (S.I. 2014/1771)](https://www.legislation.gov.uk/uksi/2014/1771), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/1/b), [3(2)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/3/2), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2014/1771/schedule/1/paragraph/16)
+[^c-9238198ecd768bf980894f9b618b7874]: Textual amendment: Word in [reg. 40](https://www.legislation.gov.uk/uksi/2013/3113/regulation/40) substituted (25.7.2014) by [The Waste Electrical and Electronic Equipment and Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2014 (S.I. 2014/1771)](https://www.legislation.gov.uk/uksi/2014/1771), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/1/b), [3(2)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/3/2), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2014/1771/schedule/1/paragraph/16)

@@ -52,7 +52,7 @@ The Secretary of State is a Minister designated [^c23973831] for the purposes of
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and application[^key-3f0d6bf041fa9df6710a1e627fdea456]
+### 1. Citation, commencement and application[^c-3f0d6bf041fa9df6710a1e627fdea456]
 
 (1) These Regulations may be cited as the Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2020.
 
@@ -65,11 +65,11 @@ The Secretary of State is a Minister designated [^c23973831] for the purposes of
 
 ## PART 2 — Amendments to the Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019
 
-### 2.[^key-12efb967e31af02c7c1f6ba8839dd0de]
+### 2.[^c-12efb967e31af02c7c1f6ba8839dd0de]
 
 The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 [^c23973841] are amended by this Part.
 
-### 3.[^key-3263d9dcf62f862708ee1f2ea0e22274]
+### 3.[^c-3263d9dcf62f862708ee1f2ea0e22274]
 
 In Schedule 2 (approval of third country competent authorities), in Table 3—
 
@@ -82,9 +82,9 @@ In Schedule 2 (approval of third country competent authorities), in Table 3—
 
   ;
 - (b) omit the entry for “The Finance Professions Supervisory Centre of Indonesia”;
-- (c) in the entry for “The Independent Regulatory Board for Auditors of South Africa”, in column 2 for “31 July 2019” substitute “30 April 2026[^key-16fd7ca066544ed312088f88a4810c76]”.
+- (c) in the entry for “The Independent Regulatory Board for Auditors of South Africa”, in column 2 for “31 July 2019” substitute “30 April 2026[^c-16fd7ca066544ed312088f88a4810c76]”.
 
-### 4.[^key-35ed4a4be713743a249e2be2505fcdfc]
+### 4.[^c-35ed4a4be713743a249e2be2505fcdfc]
 
 In Schedule 4 (transitional provision)—
 
@@ -105,7 +105,7 @@ In Schedule 4 (transitional provision)—
 
 ### CHAPTER 1 — Procedures relating to approvals for equivalent third countries and transitional third countries
 
-#### 5. Application and interpretation[^key-d7fff37ff14b8db1da7780ae4479e1fe]
+#### 5. Application and interpretation[^c-d7fff37ff14b8db1da7780ae4479e1fe]
 
 (1) This Chapter applies in relation to the grant of—
 
@@ -117,17 +117,17 @@ by relevant regulations.
 
 (2) In this Chapter, “**relevant regulations**” means regulations under section 1240A(1) of the Companies Act 2006 made by the Secretary of State.
 
-#### 6. Definition of a comparable audit regulatory regime[^key-d8bcbc70bc4ab1e24d47b271f56983b8]
+#### 6. Definition of a comparable audit regulatory regime[^c-d8bcbc70bc4ab1e24d47b271f56983b8]
 
 For the purposes of these Regulations, the audit regulatory regime of a third country is comparable to that of the United Kingdom if there are comparable requirements to those in regulations 3, 5, 6 and 9 of the Statutory Auditors and Third Country Auditors Regulations 2016 [^c23973881] in that country's audit regulatory regime.
 
-#### 7. Power of Secretary of State to take into account a report from the competent authority[^key-20ea899a43b74d39d3bf124763d32cbd]
+#### 7. Power of Secretary of State to take into account a report from the competent authority[^c-20ea899a43b74d39d3bf124763d32cbd]
 
 (1) Before granting approval, provisional approval or transitional approval to a third country by relevant regulations, the Secretary of State may take into account a report prepared by the competent authority [^c23973891] that assesses the extent to which the third country's audit regulatory regime is comparable to that of the United Kingdom.
 
 (2) The report of the competent authority may take account of any assessments of the third country's audit regulatory regime carried out by or on behalf of an equivalent third country or a transitional third country.
 
-#### 8. Conditions for grant of approval[^key-7e3debc360b2871be3e4264eee3aae46]
+#### 8. Conditions for grant of approval[^c-7e3debc360b2871be3e4264eee3aae46]
 
 (1) The Secretary of State may not grant to a third country—
 
@@ -147,7 +147,7 @@ For the purposes of these Regulations, the audit regulatory regime of a third co
 - (a) the third country's audit regulatory regime will be comparable to that of the United Kingdom before the end of the period of transitional approval; or
 - (b) the third country will make acceptable progress towards its audit regulatory regime being so comparable before the end of the period of transitional approval.
 
-#### 9. Suspension of approval[^key-b430caf2b2dc47468d4bdeef33c1da2c]
+#### 9. Suspension of approval[^c-b430caf2b2dc47468d4bdeef33c1da2c]
 
 (1) If, in relation to a third country which has been granted approval, provisional approval or transitional approval by relevant regulations, the Secretary of State is no longer satisfied that condition A, B or C is met, the Secretary of State may direct that the approval, provisional approval or transitional approval is suspended with effect—
 
@@ -185,7 +185,7 @@ for a period of no longer than two years beginning on the date of the direction.
 
 ### CHAPTER 2 — Procedures relating to approvals for third country competent authorities
 
-#### 10. Application and interpretation[^key-bec749903186c3a14f59424e1dfd2265]
+#### 10. Application and interpretation[^c-bec749903186c3a14f59424e1dfd2265]
 
 (1) This Chapter applies in relation to the grant of—
 
@@ -196,17 +196,17 @@ by relevant regulations.
 
 (2) In this Chapter, “**relevant regulations**” means regulations under section 1240B(1) of the Companies Act 2006 made by the Secretary of State.
 
-#### 11. Definition of when a third country competent authority is adequate in relation to exchange of papers and reports[^key-0e9761a372033a0e10cc82910aa45769]
+#### 11. Definition of when a third country competent authority is adequate in relation to exchange of papers and reports[^c-0e9761a372033a0e10cc82910aa45769]
 
 For the purposes of these Regulations, a third country competent authority is adequate, in relation to the authority's ability to co-operate with the competent authority on the exchange of audit working papers and investigation reports, if provisions with content comparable to that of sections 1224A [^c23973901], 1224B [^c23973911] and 1253A to 1253C [^c23973921] of, and Schedule 11A [^c23973931] to, the Companies Act 2006, or provisions which are expected to achieve comparable outcomes, apply in the country of that competent authority.
 
-#### 12. Power of Secretary of State to take into account a report from the competent authority[^key-73d61b1914b3b71b92f1908f3344c462]
+#### 12. Power of Secretary of State to take into account a report from the competent authority[^c-73d61b1914b3b71b92f1908f3344c462]
 
 (1) Before granting approval or provisional approval to a third country competent authority by relevant regulations, the Secretary of State may take into account a report prepared by the competent authority that assesses the extent to which the third country competent authority is adequate in relation to that authority's ability to co-operate with the competent authority on the exchange of audit working papers and investigation reports.
 
 (2) The report of the competent authority may take account of any assessments of the third country competent authority carried out by or on behalf of an equivalent third country or a transitional third country.
 
-#### 13. Conditions for grant of approval[^key-49447cbdffc52f65f3b72aae40c5c71c]
+#### 13. Conditions for grant of approval[^c-49447cbdffc52f65f3b72aae40c5c71c]
 
 (1) The Secretary of State may not grant to a third country competent authority—
 
@@ -220,7 +220,7 @@ For the purposes of these Regulations, a third country competent authority is ad
 - (a) the third country competent authority is adequate in relation to its ability to co-operate with the competent authority on the exchange of audit working papers and investigation reports; and
 - (b) that adequacy can reasonably be expected to have been established before the end of the period of provisional approval.
 
-#### 14. Suspension of approval[^key-0575396d2080b41bcfb39170ffb6a676]
+#### 14. Suspension of approval[^c-0575396d2080b41bcfb39170ffb6a676]
 
 (1) If, in relation to a third country competent authority which has been granted approval or provisional approval by relevant regulations, the Secretary of State is no longer satisfied that condition A or B is met, the Secretary of State may direct that the approval or provisional approval is suspended with effect—
 
@@ -257,7 +257,7 @@ for a period of no longer than two years beginning on the date of the direction.
 
 ## PART 4 — Amendments made under section 2(2) of the European Communities Act 1972
 
-### 15. Amendments to the Companies Act 2006[^key-5e2c6336d723143eb223a8a72b0213b0]
+### 15. Amendments to the Companies Act 2006[^c-5e2c6336d723143eb223a8a72b0213b0]
 
 (1) The Companies Act 2006 is amended as follows.
 
@@ -284,7 +284,7 @@ for a period of no longer than two years beginning on the date of the direction.
 
 .
 
-### 16. Amendments to the Insurance Accounts Directive (Lloyd's Syndicate and Aggregate Accounts) Regulations 2008[^key-72d775c90c87176e257cbfcd36abf885]
+### 16. Amendments to the Insurance Accounts Directive (Lloyd's Syndicate and Aggregate Accounts) Regulations 2008[^c-72d775c90c87176e257cbfcd36abf885]
 
 Schedule 2 to the Insurance Accounts Directive (Lloyd's Syndicate and Aggregate Accounts) Regulations 2008 [^c23973961] is amended as follows—
 
@@ -306,7 +306,7 @@ Schedule 2 to the Insurance Accounts Directive (Lloyd's Syndicate and Aggregate 
 
   .
 
-### 17. Amendments to the Statutory Auditors and Third Country Auditors Regulations 2016[^key-c1a627cc21d11a65bdbf3cd25f7d786b]
+### 17. Amendments to the Statutory Auditors and Third Country Auditors Regulations 2016[^c-c1a627cc21d11a65bdbf3cd25f7d786b]
 
 (1) Schedule 1 to the Statutory Auditors and Third Country Auditors Regulations 2016 is amended as follows.
 
@@ -366,17 +366,17 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23973831]: Marginal citation: [S.I. 2007/1679](https://www.legislation.gov.uk/uksi/2007/1679). See [S.I. 2018/1011](https://www.legislation.gov.uk/uksi/2018/1011) for relevant amendments.
 
-[^key-3f0d6bf041fa9df6710a1e627fdea456]: Commencement: Reg. 1 in force at 21.2.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)
+[^c-3f0d6bf041fa9df6710a1e627fdea456]: Commencement: Reg. 1 in force at 21.2.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)
 
-[^key-12efb967e31af02c7c1f6ba8839dd0de]: Commencement: Reg. 2 in force at 31.21.2020 immediately before IP completion day, see reg. 1(2)(a)
+[^c-12efb967e31af02c7c1f6ba8839dd0de]: Commencement: Reg. 2 in force at 31.21.2020 immediately before IP completion day, see reg. 1(2)(a)
 
 [^c23973841]: Marginal citation: [S.I. 2019/177](https://www.legislation.gov.uk/uksi/2019/177); this S.I. is amended by [S.I. 2019/1392](https://www.legislation.gov.uk/uksi/2019/1392).
 
-[^key-3263d9dcf62f862708ee1f2ea0e22274]: Commencement: Reg. 3 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)(a)
+[^c-3263d9dcf62f862708ee1f2ea0e22274]: Commencement: Reg. 3 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)(a)
 
-[^key-16fd7ca066544ed312088f88a4810c76]: Textual amendment: Words in reg. 3(c) substituted (31.12.2020 immediately before reg. 3 comes into force) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1247)](https://www.legislation.gov.uk/uksi/2020/1247), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1247/regulation/1/2/a), [3(2)](https://www.legislation.gov.uk/uksi/2020/1247/regulation/3/2)
+[^c-16fd7ca066544ed312088f88a4810c76]: Textual amendment: Words in reg. 3(c) substituted (31.12.2020 immediately before reg. 3 comes into force) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1247)](https://www.legislation.gov.uk/uksi/2020/1247), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1247/regulation/1/2/a), [3(2)](https://www.legislation.gov.uk/uksi/2020/1247/regulation/3/2)
 
-[^key-35ed4a4be713743a249e2be2505fcdfc]: Commencement: Reg. 4 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)(a)
+[^c-35ed4a4be713743a249e2be2505fcdfc]: Commencement: Reg. 4 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)(a)
 
 [^c23973851]: Marginal citation: These transitional provisions relate to amendments made to the Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019, [S.I. 2019/177](https://www.legislation.gov.uk/uksi/2019/177), by regulations 4 and 7 of the Statutory Auditors, Third Country Auditors and International Accounting Standards (Amendment) (EU Exit) Regulations 2019, [S.I. 2019/1392](https://www.legislation.gov.uk/uksi/2019/1392), which were made under section 484(1) of the Companies Act 2006 and section 15 of the Limited Liability Partnerships Act 2000 respectively.
 
@@ -384,23 +384,23 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23973871]: Marginal citation: [S.I. 2008/1911](https://www.legislation.gov.uk/uksi/2008/1911); regulation 34A was inserted by regulation 20(4) of [S.I. 2012/2301](https://www.legislation.gov.uk/uksi/2012/2301), and relevantly amended by [S.I. 2019/177](https://www.legislation.gov.uk/uksi/2019/177).
 
-[^key-d7fff37ff14b8db1da7780ae4479e1fe]: Commencement: Reg. 5 in force at 21.2.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)
+[^c-d7fff37ff14b8db1da7780ae4479e1fe]: Commencement: Reg. 5 in force at 21.2.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)
 
-[^key-d8bcbc70bc4ab1e24d47b271f56983b8]: Commencement: Reg. 6 in force at 21.2.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)
+[^c-d8bcbc70bc4ab1e24d47b271f56983b8]: Commencement: Reg. 6 in force at 21.2.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)
 
 [^c23973881]: Marginal citation: [S.I. 2016/649](https://www.legislation.gov.uk/uksi/2016/649), amended by [S.I. 2017/516](https://www.legislation.gov.uk/uksi/2017/516), 2017/1164 and 2019/177.
 
-[^key-20ea899a43b74d39d3bf124763d32cbd]: Commencement: Reg. 7 in force at 21.2.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)
+[^c-20ea899a43b74d39d3bf124763d32cbd]: Commencement: Reg. 7 in force at 21.2.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)
 
 [^c23973891]: Marginal citation: “Competent authority” is defined in section 1261(1) of the Companies Act 2006.
 
-[^key-7e3debc360b2871be3e4264eee3aae46]: Commencement: Reg. 8 in force at 21.2.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)
+[^c-7e3debc360b2871be3e4264eee3aae46]: Commencement: Reg. 8 in force at 21.2.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)
 
-[^key-b430caf2b2dc47468d4bdeef33c1da2c]: Commencement: Reg. 9 in force at 21.2.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)
+[^c-b430caf2b2dc47468d4bdeef33c1da2c]: Commencement: Reg. 9 in force at 21.2.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)
 
-[^key-bec749903186c3a14f59424e1dfd2265]: Commencement: Reg. 10 in force at 21.2.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)
+[^c-bec749903186c3a14f59424e1dfd2265]: Commencement: Reg. 10 in force at 21.2.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)
 
-[^key-0e9761a372033a0e10cc82910aa45769]: Commencement: Reg. 11 in force at 21.2.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)
+[^c-0e9761a372033a0e10cc82910aa45769]: Commencement: Reg. 11 in force at 21.2.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)
 
 [^c23973901]: Marginal citation: [Section 1224A](https://www.legislation.gov.uk/uksi/2020/108/section/1224A) was inserted by [S.I. 2007/3494](https://www.legislation.gov.uk/uksi/2007/3494) and amended by [S.I. 2016/649](https://www.legislation.gov.uk/uksi/2016/649), 2019/177 and paragraph 125 of Schedule 19 to the [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12).
 
@@ -410,20 +410,20 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23973931]: Marginal citation: [Schedule 11A](https://www.legislation.gov.uk/uksi/2020/108/schedule/11A) was inserted by [S.I. 2007/3494](https://www.legislation.gov.uk/uksi/2007/3494) and amended by [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22), 2011/1043, 2013/1881, 2013/1882, 2013/2329, 2013/3134, 2014/631, 2014/892, 2016/649, 2016/679, 2017/516, 2017/1064, 2019/177 and paragraph 27 of Schedule 1 to the [Pensions Regulator Tribunal (Transfer of Functions) Act (Northern Ireland) 2010 (c. 4)](https://www.legislation.gov.uk/nia/2010/4) (N.I.), paragraph 31 of Schedule 5 to the [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [paragraph 124](https://www.legislation.gov.uk/ukpga/2011/4/paragraph/124) of Schedule 18, and Schedule 19 to the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [paragraph 78](https://www.legislation.gov.uk/ukpga/2012/21/paragraph/78) of Schedule 12 to the [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [paragraph 103](https://www.legislation.gov.uk/ukpga/2014/2/paragraph/103) of Schedule 4 to the Co-operative and [Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [paragraph 38](https://www.legislation.gov.uk/ukpga/2014/14/paragraph/38) of Schedule 4 to the [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15) and paragraph 22 of Schedule 6 to the [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20).
 
-[^key-73d61b1914b3b71b92f1908f3344c462]: Commencement: Reg. 12 in force at 21.2.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)
+[^c-73d61b1914b3b71b92f1908f3344c462]: Commencement: Reg. 12 in force at 21.2.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)
 
-[^key-49447cbdffc52f65f3b72aae40c5c71c]: Commencement: Reg. 13 in force at 21.2.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)
+[^c-49447cbdffc52f65f3b72aae40c5c71c]: Commencement: Reg. 13 in force at 21.2.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)
 
-[^key-0575396d2080b41bcfb39170ffb6a676]: Commencement: Reg. 14 in force at 21.2.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)
+[^c-0575396d2080b41bcfb39170ffb6a676]: Commencement: Reg. 14 in force at 21.2.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)
 
-[^key-5e2c6336d723143eb223a8a72b0213b0]: Commencement: Reg. 15 in force at 21.2.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)
+[^c-5e2c6336d723143eb223a8a72b0213b0]: Commencement: Reg. 15 in force at 21.2.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)
 
 [^c23973941]: Marginal citation: [Section 1253D](https://www.legislation.gov.uk/uksi/2020/108/section/1253D) was inserted by [S.I. 2007/3494](https://www.legislation.gov.uk/uksi/2007/3494), substituted by [S.I. 2010/2537](https://www.legislation.gov.uk/uksi/2010/2537) and amended by [S.I. 2016/649](https://www.legislation.gov.uk/uksi/2016/649), 2017/516 and paragraph 126 of Schedule 19 to the [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12). Subsection (2) of section 1253D is to be repealed by [S.I. 2019/177](https://www.legislation.gov.uk/uksi/2019/177).
 
 [^c23973951]: Marginal citation: [Paragraph 20A](https://www.legislation.gov.uk/uksi/2020/108/paragraph/20A) was inserted by [S.I. 2007/3494](https://www.legislation.gov.uk/uksi/2007/3494), substituted by [S.I. 2016/649](https://www.legislation.gov.uk/uksi/2016/649), amended by [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701), and is to be amended by [S.I. 2019/177](https://www.legislation.gov.uk/uksi/2019/177).
 
-[^key-72d775c90c87176e257cbfcd36abf885]: Commencement: Reg. 16 in force at 21.2.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)
+[^c-72d775c90c87176e257cbfcd36abf885]: Commencement: Reg. 16 in force at 21.2.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)
 
 [^c23973961]: Marginal citation: [S.I. 2008/1950](https://www.legislation.gov.uk/uksi/2008/1950).
 
-[^key-c1a627cc21d11a65bdbf3cd25f7d786b]: Commencement: Reg. 17 in force at 21.2.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)
+[^c-c1a627cc21d11a65bdbf3cd25f7d786b]: Commencement: Reg. 17 in force at 21.2.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Age of sale notice at point of sale[^key-ab02b319465b51e37251f83d1a8104c1][^key-2e7015f803f3d0cc27276ce9ee2a9e0b]
+## 76. Age of sale notice at point of sale[^c-ab02b319465b51e37251f83d1a8104c1][^c-2e7015f803f3d0cc27276ce9ee2a9e0b]
 
 *Extent: N.I.*
 
@@ -49,6 +49,6 @@ After Article 4C of the Health and Personal Social Services (Northern Ireland) O
 
 ## Annotations
 
-[^key-ab02b319465b51e37251f83d1a8104c1]: Commencement: S. 76 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
+[^c-ab02b319465b51e37251f83d1a8104c1]: Commencement: S. 76 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
 
-[^key-2e7015f803f3d0cc27276ce9ee2a9e0b]: Commencement: S. 76 in force at 1.1.2027 in so far as not already in force, see [s. 175(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/3)
+[^c-2e7015f803f3d0cc27276ce9ee2a9e0b]: Commencement: S. 76 in force at 1.1.2027 in so far as not already in force, see [s. 175(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/3)

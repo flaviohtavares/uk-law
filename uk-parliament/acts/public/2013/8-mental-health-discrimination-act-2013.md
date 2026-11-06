@@ -43,7 +43,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (3) The Schedule (which includes amendments and repeals consequential on subsection (1)) has effect.
 
-## 2. Jurors[^key-c41973025799a20daf52a6313c503794]
+## 2. Jurors[^c-c41973025799a20daf52a6313c503794]
 
 (1) In section 1 of the Juries Act 1974 (qualification for jury service)—
 
@@ -139,4 +139,4 @@ Section 1
 
 ## Annotations
 
-[^key-c41973025799a20daf52a6313c503794]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2013/8/section/2) in force at 15.7.2013 by [S.I. 2013/1694](https://www.legislation.gov.uk/uksi/2013/1694), [art. 2](https://www.legislation.gov.uk/uksi/2013/1694/article/2)
+[^c-c41973025799a20daf52a6313c503794]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2013/8/section/2) in force at 15.7.2013 by [S.I. 2013/1694](https://www.legislation.gov.uk/uksi/2013/1694), [art. 2](https://www.legislation.gov.uk/uksi/2013/1694/article/2)

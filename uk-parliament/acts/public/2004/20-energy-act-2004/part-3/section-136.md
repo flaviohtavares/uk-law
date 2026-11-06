@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Transmission licences[^key-6883a04a5363f146e00b5db652450890]
+## 136. Transmission licences[^c-6883a04a5363f146e00b5db652450890]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6883a04a5363f146e00b5db652450890]: Commencement: [S. 136](https://www.legislation.gov.uk/ukpga/2004/20/section/136) in force at 1.9.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2184/schedule/2)
+[^c-6883a04a5363f146e00b5db652450890]: Commencement: [S. 136](https://www.legislation.gov.uk/ukpga/2004/20/section/136) in force at 1.9.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2184/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Offences: extension for other police forces[^key-c7b87c91ee46c7b8f008807babc488b7]
+## 10. Offences: extension for other police forces[^c-c7b87c91ee46c7b8f008807babc488b7]
 
 *Extent: S*
 
@@ -38,7 +38,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c7b87c91ee46c7b8f008807babc488b7]: Commencement: Art. 10 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-c7b87c91ee46c7b8f008807babc488b7]: Commencement: Art. 10 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00023]: Footnote: [2004 c.20](https://www.legislation.gov.uk/ukpga/2004/20).
 

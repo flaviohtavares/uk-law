@@ -48,32 +48,32 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 ## PART I — GENERAL
 
-### 1. Citation, commencement and interpretation[^key-7126867f1936489f36330feb2ba29106]
+### 1. Citation, commencement and interpretation[^c-7126867f1936489f36330feb2ba29106]
 
 (1) These Regulations may be cited as the Health Services (Pilot Schemes: Miscellaneous Provisions and Consequential Amendments) Regulations (Northern Ireland) 1999 and shall come into operation on 1st April 1999.
 
 (2) In Part II of these Regulations—
 
 - “the 1997 Order” means the Health Services (Primary Care) (Northern Ireland) Order 1997;
-- [^key-419b75ad1712f409c7455d9172e2db6f]...
+- [^c-419b75ad1712f409c7455d9172e2db6f]...
 
 ## PART II — MISCELLANEOUS PROVISIONS
 
-### 2. Pilot patients for whom boards must make arrangements for the provision of general medical services[^key-9708089a74d63826d6aa10675a790035]
+### 2. Pilot patients for whom boards must make arrangements for the provision of general medical services[^c-9708089a74d63826d6aa10675a790035]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Persons who may perform personal medical services[^key-9708089a74d63826d6aa10675a790035]
+### 3. Persons who may perform personal medical services[^c-9708089a74d63826d6aa10675a790035]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART III — CONSEQUENTIAL AMENDMENTS
 
-### 4. Amendment of the General Medical Services Regulations (Northern Ireland) 1997[^key-9708089a74d63826d6aa10675a790035]
+### 4. Amendment of the General Medical Services Regulations (Northern Ireland) 1997[^c-9708089a74d63826d6aa10675a790035]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Amendment of the Health and Personal Social Services General Dental Services Regulations (Northern Ireland) 1993[^key-764eb42dfbfb1bbb994592dd9a63b416]
+### 5. Amendment of the Health and Personal Social Services General Dental Services Regulations (Northern Ireland) 1993[^c-764eb42dfbfb1bbb994592dd9a63b416]
 
 (1) The Health and Personal Social Services General Dental Services Regulations (Northern Ireland) 1993[^f00010] shall be amended in accordance with the following provisions of this regulation.
 
@@ -137,11 +137,11 @@ The Department of Health and Social Services, in exercise of the powers conferre
 - (c) in each of paragraph 12 (referral to another dentist or to a hospital or other service) and paragraph 18 (referral for occasional treatment), in sub-paragraph (1), after “general dental services” insert “or personal dental services”; and
 - (d) in paragraph 14 (inability of dentist to complete care and treatment), after “control,” insert “or to his taking up the performance of personal dental services in connection with a pilot scheme”.
 
-### 6. Amendment of the Charges for Drugs and Appliances Regulations (Northern Ireland) 1997[^key-7c177d4c0234744fba9c54985884c04e]
+### 6. Amendment of the Charges for Drugs and Appliances Regulations (Northern Ireland) 1997[^c-7c177d4c0234744fba9c54985884c04e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Amendment of the Pharmaceutical Services Regulations (Northern Ireland) 1997[^key-e6a343db6f941dc2243c297b4afedd26]
+### 7. Amendment of the Pharmaceutical Services Regulations (Northern Ireland) 1997[^c-e6a343db6f941dc2243c297b4afedd26]
 
 In the Pharmaceutical Services Regulations (Northern Ireland) 1997[^f00015], after regulation 2(1) (interpretation), insert—
 
@@ -149,27 +149,27 @@ In the Pharmaceutical Services Regulations (Northern Ireland) 1997[^f00015], aft
 
 .
 
-### 8. Amendment of the General Ophthalmic Services Regulations (Northern Ireland) 1986[^key-2150537b8450b54e29c1527eca8cf080]
+### 8. Amendment of the General Ophthalmic Services Regulations (Northern Ireland) 1986[^c-2150537b8450b54e29c1527eca8cf080]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Amendment of the Social Security (Medical Evidence) Regulations (Northern Ireland) 1976[^key-5e6c2e52b95e98f27c8413d378aa56a3]
+### 9. Amendment of the Social Security (Medical Evidence) Regulations (Northern Ireland) 1976[^c-5e6c2e52b95e98f27c8413d378aa56a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Amendment of the Statutory Sick Pay (Medical Evidence) Regulations (Northern Ireland) 1985[^key-5e6c2e52b95e98f27c8413d378aa56a3]
+### 10. Amendment of the Statutory Sick Pay (Medical Evidence) Regulations (Northern Ireland) 1985[^c-5e6c2e52b95e98f27c8413d378aa56a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Amendment of the Children’s Homes Regulations (Northern Ireland) 1996[^key-64f235a3ddbf836460f6c91199797767]
+### 11. Amendment of the Children’s Homes Regulations (Northern Ireland) 1996[^c-64f235a3ddbf836460f6c91199797767]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Amendment of the Children (Private Arrangements for Fostering) Regulations (Northern Ireland) 1996[^key-95503854301f72b078404fbce8dbf79c]
+### 12. Amendment of the Children (Private Arrangements for Fostering) Regulations (Northern Ireland) 1996[^c-95503854301f72b078404fbce8dbf79c]
 
 In the Children (Private Arrangements for Fostering) Regulations (Northern Ireland) 1996[^f00022], in regulation 2(2)(f) (general welfare of children), at the end, insert “, or the list of a doctor performing personal medical services in connection with a pilot scheme under the Health Services (Primary Care) (Northern Ireland) Order 1997 (or a list held jointly by two or more such doctors in connection with a pilot scheme under that Order)”.
 
-### 13. Amendment of the Health and Social Services Trusts (Membership and Procedure) Regulations (Northern Ireland) 1994[^key-9619d1d0209026f37fedf117e290fecf]
+### 13. Amendment of the Health and Social Services Trusts (Membership and Procedure) Regulations (Northern Ireland) 1994[^c-9619d1d0209026f37fedf117e290fecf]
 
 The Health and Social Services Trusts (Membership and Procedure) Regulations (Northern Ireland) 1994[^f00023], shall be amended as follows—
 
@@ -212,7 +212,7 @@ The Health and Social Services Trusts (Membership and Procedure) Regulations (No
 
     .
 
-### 14. Amendment of the Health and Social Services Councils Regulations (Northern Ireland) 1991[^key-79097f00b9ea2f6e98e1c8e8d536e0b7]
+### 14. Amendment of the Health and Social Services Councils Regulations (Northern Ireland) 1991[^c-79097f00b9ea2f6e98e1c8e8d536e0b7]
 
 The Health and Social Services Councils Regulations (Northern Ireland) 1991[^f00025] shall be amended as follows—
 
@@ -239,7 +239,7 @@ The Health and Social Services Councils Regulations (Northern Ireland) 1991[^f00
 
   .
 
-### 15. Amendment of the Health Services (Choice of Medical Practitioner) Regulations (Northern Ireland) 1998[^key-c863516f9e70613367b826a160a27967]
+### 15. Amendment of the Health Services (Choice of Medical Practitioner) Regulations (Northern Ireland) 1998[^c-c863516f9e70613367b826a160a27967]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -267,11 +267,11 @@ Assistant Secretary
 
 8th March 1999.
 
-## SCHEDULE — Provisions conferring powers used in the making of these Regulations[^key-a219c00341736eafa72da04ccc8c0500]
+## SCHEDULE — Provisions conferring powers used in the making of these Regulations[^c-a219c00341736eafa72da04ccc8c0500]
 
 ### The Health and Personal Social Services (Northern Ireland) Order 1972[^f00027]
 
-[^key-a219c00341736eafa72da04ccc8c0500]
+[^c-a219c00341736eafa72da04ccc8c0500]
 
 - Article 15E(1) and (2)
 - Article 55(3)
@@ -287,14 +287,14 @@ Assistant Secretary
 
 ### The Health and Personal Social Services (Northern Ireland) Order 1991[^f00028]
 
-[^key-a219c00341736eafa72da04ccc8c0500]
+[^c-a219c00341736eafa72da04ccc8c0500]
 
 - Article 10(6)
 - Schedule 1, paragraphs 2 and 3
 
 ### The Social Security Administration Act (Northern Ireland) 1992[^f00029]
 
-[^key-a219c00341736eafa72da04ccc8c0500]
+[^c-a219c00341736eafa72da04ccc8c0500]
 
 - Section 12(2)
 - Section 57
@@ -302,7 +302,7 @@ Assistant Secretary
 
 ### The Children (Northern Ireland) Order 1995[^f00030]
 
-[^key-a219c00341736eafa72da04ccc8c0500]
+[^c-a219c00341736eafa72da04ccc8c0500]
 
 - Article 73(2)(d)
 - Article 89(2)(g)
@@ -311,7 +311,7 @@ Assistant Secretary
 
 ### The Health Services (Primary Care) (Northern Ireland) Order 1997[^f00031]
 
-[^key-a219c00341736eafa72da04ccc8c0500]
+[^c-a219c00341736eafa72da04ccc8c0500]
 
 - Article 3(5)(a)
 - Article 12(2)(a)
@@ -349,13 +349,13 @@ Belfast BT4 3SF.
 
 [^f00002]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265); the relevant amendments are [S.I. 1984/1158 (N.I. 8)](https://www.legislation.gov.uk/nisi/1984/1158), [S.I. 1986/2229 (N.I. 24)](https://www.legislation.gov.uk/nisi/1986/2229), [S.I. 1988/594 (N.I. 2)](https://www.legislation.gov.uk/nisi/1988/594), [S.I. 1988/2249 (N.I. 24)](https://www.legislation.gov.uk/nisi/1988/2249), [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194) and [S.I. 1997/1177 (N.I. 7)](https://www.legislation.gov.uk/nisi/1997/1177)
 
-[^key-7126867f1936489f36330feb2ba29106]: Commencement: Reg. 1 in operation at 1.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/100/regulation/1/1)
+[^c-7126867f1936489f36330feb2ba29106]: Commencement: Reg. 1 in operation at 1.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/100/regulation/1/1)
 
-[^key-419b75ad1712f409c7455d9172e2db6f]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/100/regulation/1/2) omitted (1.4.2004) by virtue of [The General Medical Services Transitional and Consequential Provisions (No. 2) (Northern Ireland) Order 2004 (S.R. 2004/156)](https://www.legislation.gov.uk/nisr/2004/156), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/regulation/1/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/nisr/2004/156/schedule/1/paragraph/13)
+[^c-419b75ad1712f409c7455d9172e2db6f]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/100/regulation/1/2) omitted (1.4.2004) by virtue of [The General Medical Services Transitional and Consequential Provisions (No. 2) (Northern Ireland) Order 2004 (S.R. 2004/156)](https://www.legislation.gov.uk/nisr/2004/156), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/regulation/1/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/nisr/2004/156/schedule/1/paragraph/13)
 
-[^key-9708089a74d63826d6aa10675a790035]: Textual amendment: [Regs. 2-4](https://www.legislation.gov.uk/nisr/1999/100/regulation/2) revoked (1.4.2004) by [The General Medical Services Transitional and Consequential Provisions (No. 2) (Northern Ireland) Order 2004 (S.R. 2004/156)](https://www.legislation.gov.uk/nisr/2004/156), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2004/156/schedule/2)
+[^c-9708089a74d63826d6aa10675a790035]: Textual amendment: [Regs. 2-4](https://www.legislation.gov.uk/nisr/1999/100/regulation/2) revoked (1.4.2004) by [The General Medical Services Transitional and Consequential Provisions (No. 2) (Northern Ireland) Order 2004 (S.R. 2004/156)](https://www.legislation.gov.uk/nisr/2004/156), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2004/156/schedule/2)
 
-[^key-764eb42dfbfb1bbb994592dd9a63b416]: Commencement: Reg. 5 in operation at 1.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/100/regulation/1/1)
+[^c-764eb42dfbfb1bbb994592dd9a63b416]: Commencement: Reg. 5 in operation at 1.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/100/regulation/1/1)
 
 [^f00010]: Footnote: [S.R. 1993 No. 326](https://www.legislation.gov.uk/nisr/1993/326); as amended by [S.R. 1993 No. 401](https://www.legislation.gov.uk/nisr/1993/401), [S.R. 1995 No. 488](https://www.legislation.gov.uk/nisr/1995/488), [S.Rs. 1996 Nos. 114](https://www.legislation.gov.uk/nisr/1996/114) and [382](https://www.legislation.gov.uk/nisr/1996/382) and [S.R. 1998 No. 245](https://www.legislation.gov.uk/nisr/1998/245)
 
@@ -365,35 +365,35 @@ Belfast BT4 3SF.
 
 [^f00013]: Footnote: *See* the directions to Health and Social Services Boards concerning variations to pilot schemes (personal dental services), given by the Department of Health and Social Services on 21st August 1998
 
-[^key-7c177d4c0234744fba9c54985884c04e]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/1999/100/regulation/6) revoked (1.4.2010) by [The Charges for Drugs and Appliances (Abolition) and Supply of Appliances Regulations (Northern Ireland) 2010 (S.R. 2010/71)](https://www.legislation.gov.uk/nisr/2010/71), [regs. 1](https://www.legislation.gov.uk/nisr/2010/71/regulation/1), [4(1)](https://www.legislation.gov.uk/nisr/2010/71/regulation/4/1), [Sch.](https://www.legislation.gov.uk/nisr/2010/71/schedule)
+[^c-7c177d4c0234744fba9c54985884c04e]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/1999/100/regulation/6) revoked (1.4.2010) by [The Charges for Drugs and Appliances (Abolition) and Supply of Appliances Regulations (Northern Ireland) 2010 (S.R. 2010/71)](https://www.legislation.gov.uk/nisr/2010/71), [regs. 1](https://www.legislation.gov.uk/nisr/2010/71/regulation/1), [4(1)](https://www.legislation.gov.uk/nisr/2010/71/regulation/4/1), [Sch.](https://www.legislation.gov.uk/nisr/2010/71/schedule)
 
-[^key-e6a343db6f941dc2243c297b4afedd26]: Commencement: Reg. 7 in operation at 1.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/100/regulation/1/1)
+[^c-e6a343db6f941dc2243c297b4afedd26]: Commencement: Reg. 7 in operation at 1.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/100/regulation/1/1)
 
 [^f00015]: Footnote: [S.R. 1997 No. 381](https://www.legislation.gov.uk/nisr/1997/381); as amended by [S.R. 1997 No. 547](https://www.legislation.gov.uk/nisr/1997/547) and [S.R. 1998 No. 95](https://www.legislation.gov.uk/nisr/1998/95)
 
-[^key-2150537b8450b54e29c1527eca8cf080]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/1999/100/regulation/8) revoked (9.11.2007) by [General Ophthalmic Services Regulations (Northern Ireland) 2007 (S.R. 2007/436)](https://www.legislation.gov.uk/nisr/2007/436), [regs. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1), [23(1)](https://www.legislation.gov.uk/nisr/2007/436/regulation/23/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2007/436/schedule/3) (with [reg. 23(2)](https://www.legislation.gov.uk/nisr/2007/436/regulation/23/2))
+[^c-2150537b8450b54e29c1527eca8cf080]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/1999/100/regulation/8) revoked (9.11.2007) by [General Ophthalmic Services Regulations (Northern Ireland) 2007 (S.R. 2007/436)](https://www.legislation.gov.uk/nisr/2007/436), [regs. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1), [23(1)](https://www.legislation.gov.uk/nisr/2007/436/regulation/23/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2007/436/schedule/3) (with [reg. 23(2)](https://www.legislation.gov.uk/nisr/2007/436/regulation/23/2))
 
-[^key-5e6c2e52b95e98f27c8413d378aa56a3]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/nisr/1999/100/regulation/10) revoked (6.4.2010) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/55)](https://www.legislation.gov.uk/nisr/2010/55), [reg. 1](https://www.legislation.gov.uk/nisr/2010/55/regulation/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2010/55/schedule/3)
+[^c-5e6c2e52b95e98f27c8413d378aa56a3]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/nisr/1999/100/regulation/10) revoked (6.4.2010) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/55)](https://www.legislation.gov.uk/nisr/2010/55), [reg. 1](https://www.legislation.gov.uk/nisr/2010/55/regulation/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2010/55/schedule/3)
 
-[^key-64f235a3ddbf836460f6c91199797767]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/nisr/1999/100/regulation/11) revoked (1.4.2005) by [The Children’s Homes Regulations (Northern Ireland) 2005 (S.R. 2005/176)](https://www.legislation.gov.uk/nisr/2005/176), [regs. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1), [42](https://www.legislation.gov.uk/nisr/2005/176/regulation/42)
+[^c-64f235a3ddbf836460f6c91199797767]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/nisr/1999/100/regulation/11) revoked (1.4.2005) by [The Children’s Homes Regulations (Northern Ireland) 2005 (S.R. 2005/176)](https://www.legislation.gov.uk/nisr/2005/176), [regs. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1), [42](https://www.legislation.gov.uk/nisr/2005/176/regulation/42)
 
-[^key-95503854301f72b078404fbce8dbf79c]: Commencement: Reg. 12 in operation at 1.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/100/regulation/1/1)
+[^c-95503854301f72b078404fbce8dbf79c]: Commencement: Reg. 12 in operation at 1.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/100/regulation/1/1)
 
 [^f00022]: Footnote: [S.R. 1996 No. 452](https://www.legislation.gov.uk/nisr/1996/452)
 
-[^key-9619d1d0209026f37fedf117e290fecf]: Commencement: Reg. 13 in operation at 1.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/100/regulation/1/1)
+[^c-9619d1d0209026f37fedf117e290fecf]: Commencement: Reg. 13 in operation at 1.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/100/regulation/1/1)
 
 [^f00023]: Footnote: [S.R. 1994 No. 63](https://www.legislation.gov.uk/nisr/1994/63)
 
 [^f00024]: Footnote: [S.R. 1995 No. 493](https://www.legislation.gov.uk/nisr/1995/493); as amended by [S.R. 1997 No. 71](https://www.legislation.gov.uk/nisr/1997/71) and [S.R. 1999 No. 15](https://www.legislation.gov.uk/nisr/1999/15)
 
-[^key-79097f00b9ea2f6e98e1c8e8d536e0b7]: Commencement: Reg. 14 in operation at 1.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/100/regulation/1/1)
+[^c-79097f00b9ea2f6e98e1c8e8d536e0b7]: Commencement: Reg. 14 in operation at 1.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/100/regulation/1/1)
 
 [^f00025]: Footnote: [S.R. 1998 No. 412](https://www.legislation.gov.uk/nisr/1998/412)
 
-[^key-c863516f9e70613367b826a160a27967]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/nisr/1999/100/regulation/15) revoked (1.4.2004) by [The General Medical Services Transitional and Consequential Provisions (No. 2) (Northern Ireland) Order 2004 (S.R. 2004/156)](https://www.legislation.gov.uk/nisr/2004/156), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2004/156/schedule/2)
+[^c-c863516f9e70613367b826a160a27967]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/nisr/1999/100/regulation/15) revoked (1.4.2004) by [The General Medical Services Transitional and Consequential Provisions (No. 2) (Northern Ireland) Order 2004 (S.R. 2004/156)](https://www.legislation.gov.uk/nisr/2004/156), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2004/156/schedule/2)
 
-[^key-a219c00341736eafa72da04ccc8c0500]: Commencement: Sch. in operation at 1.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/100/regulation/1/1)
+[^c-a219c00341736eafa72da04ccc8c0500]: Commencement: Sch. in operation at 1.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/100/regulation/1/1)
 
 [^f00027]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265); as amended by Article 12 of the Health and Personal Social Services (Northern Ireland) Order 1978 ([S.I. 1978/1907 (N.I. 26)](https://www.legislation.gov.uk/nisi/1978/1907)); Article 7 of the Health and Personal Social Services and Public Health (Northern Ireland) Order 1986 ([S.I. 1986/2229 (N.I. 24)](https://www.legislation.gov.uk/nisi/1986/2229)); Article 5(2) of the Health and Personal Social Services (Amendment) (Northern Ireland) Order 1986 ([S.I. 1986/2023 (N.I. 20)](https://www.legislation.gov.uk/nisi/1986/2023)); Article 4(5) of the Health and Medicines (Northern Ireland) Order 1988 ([S.I 1988/2249 (N.I. 24)](https://www.legislation.gov.uk/nisi/1988/2249)); Article 31(2) of the Health and Personal Social Services (Northern Ireland) Order 1991 ([S.I. 1991/194 (N.I.1)](https://www.legislation.gov.uk/nisi/1991/194)); section 4 of, and paragraph 30(a) and (b) of the Schedule to, the Medical (Professional Performance) Act 1995 ([1995 c. 51)](https://www.legislation.gov.uk/ukpga/1995/51); Article 23 of, and Schedule 2 to, the Health Services (Primary Care) (Northern Ireland) Order 1997 ([S.I. 1997/1177 (N.I. 7)](https://www.legislation.gov.uk/nisi/1997/1177))
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Movement of aircraft[^key-d459a74bded1d101c9e3cf5b325870ab][^key-73dda2d0e22d24751788393719bdedfe]
+## 65. Movement of aircraft[^c-d459a74bded1d101c9e3cf5b325870ab][^c-73dda2d0e22d24751788393719bdedfe]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d459a74bded1d101c9e3cf5b325870ab]: Commencement: Reg. 65 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-d459a74bded1d101c9e3cf5b325870ab]: Commencement: Reg. 65 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-73dda2d0e22d24751788393719bdedfe]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/2019/411/regulation/65) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-73dda2d0e22d24751788393719bdedfe]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/2019/411/regulation/65) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

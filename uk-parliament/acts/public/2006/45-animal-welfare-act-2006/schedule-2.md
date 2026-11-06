@@ -24,7 +24,7 @@ Section 53
 
 ### Safeguards etc. in connection with powers of entry conferred by warrant
 
-**1.**[^key-304a6646fb69e40ace5f1bc5be6975fa][^key-868ae18fa6b61372a04fee337282a093] (1) Sections 15 and 16 of the Police and Criminal Evidence Act 1984 (c. 60) shall have effect in relation to the issue of a warrant under section 19(4) or 23(1) to an inspector as they have effect in relation to the issue of a warrant under that provision to a constable.
+**1.**[^c-304a6646fb69e40ace5f1bc5be6975fa][^c-868ae18fa6b61372a04fee337282a093] (1) Sections 15 and 16 of the Police and Criminal Evidence Act 1984 (c. 60) shall have effect in relation to the issue of a warrant under section 19(4) or 23(1) to an inspector as they have effect in relation to the issue of a warrant under that provision to a constable.
 
 (2) In their application in relation to the issue of a warrant under section 19(4) or 23(1), sections 15 and 16 of that Act shall have effect with the following modifications.
 
@@ -41,7 +41,7 @@ Section 53
 - (a) omit subsections (3A) and (3B);
 - (b) in subsection (9), omit the words after paragraph (b).
 
-**2.**[^key-a43c610f5ce2527c14d151408b253349][^key-bf9fa1649c139b72f44604bbfc73b8fd] (1) This paragraph and paragraph 3 have effect in relation to the issue to inspectors of warrants under section 28(4); and an entry on premises under such a warrant is unlawful unless it complies with this paragraph and paragraph 3.
+**2.**[^c-a43c610f5ce2527c14d151408b253349][^c-bf9fa1649c139b72f44604bbfc73b8fd] (1) This paragraph and paragraph 3 have effect in relation to the issue to inspectors of warrants under section 28(4); and an entry on premises under such a warrant is unlawful unless it complies with this paragraph and paragraph 3.
 
 (2) Where an inspector applies for a warrant, he shall—
 
@@ -65,7 +65,7 @@ Section 53
 
 (8) The copies shall be clearly certified as copies.
 
-**3.**[^key-6e192180faffecaa5b4d1bdbe78697be][^key-15fc5d0debabe1d3780d089521375c53] (1) A warrant may be executed by any inspector.
+**3.**[^c-6e192180faffecaa5b4d1bdbe78697be][^c-15fc5d0debabe1d3780d089521375c53] (1) A warrant may be executed by any inspector.
 
 (2) A warrant may authorise persons to accompany any inspector who is executing it.
 
@@ -103,7 +103,7 @@ shall be returned to the designated officer for the local justice area in which 
 
 ### Duty to produce evidence of identity
 
-**4.**[^key-d8fb6fb5f8946bf173f848a50c9337bd][^key-8bbe5cd014fa4f95fd4e0573451e3527] (1) This paragraph applies to a power of entry conferred by section 19(1), 22(2), 26(2), 27(2), 28(2) or 29(2).
+**4.**[^c-d8fb6fb5f8946bf173f848a50c9337bd][^c-8bbe5cd014fa4f95fd4e0573451e3527] (1) This paragraph applies to a power of entry conferred by section 19(1), 22(2), 26(2), 27(2), 28(2) or 29(2).
 
 (2) A person may only exercise a power of entry to which this paragraph applies if on request—
 
@@ -112,15 +112,15 @@ shall be returned to the designated officer for the local justice area in which 
 
 ### Power to take persons onto premises
 
-**5.**[^key-be70fdf805c6d4992d8508787e5d1e66][^key-643c72ef7008a88ef003eb5d32c22003] In exercising a power to which paragraph 4 applies, a person may take with him onto the premises such persons as he thinks appropriate.
+**5.**[^c-be70fdf805c6d4992d8508787e5d1e66][^c-643c72ef7008a88ef003eb5d32c22003] In exercising a power to which paragraph 4 applies, a person may take with him onto the premises such persons as he thinks appropriate.
 
 ### Duty to exercise power of entry at reasonable time
 
-**6.**[^key-6a193df28537f490828fb515eadffa96][^key-03b745841d3558712dcde8df3d30342e] Entry under a power to which paragraph 4 applies shall be at a reasonable time, unless it appears to the person exercising the power that the purpose for which he is exercising the power would be frustrated on entry at a reasonable time.
+**6.**[^c-6a193df28537f490828fb515eadffa96][^c-03b745841d3558712dcde8df3d30342e] Entry under a power to which paragraph 4 applies shall be at a reasonable time, unless it appears to the person exercising the power that the purpose for which he is exercising the power would be frustrated on entry at a reasonable time.
 
 ### Power to require assistance
 
-**7.**[^key-58f8bb9a3cb67c0b6073fafa3ad478e0][^key-4f8c49bed9c0f462c6a7ce239c8e5287] (1) This paragraph applies to a power of entry conferred by—
+**7.**[^c-58f8bb9a3cb67c0b6073fafa3ad478e0][^c-4f8c49bed9c0f462c6a7ce239c8e5287] (1) This paragraph applies to a power of entry conferred by—
 
 - (a) section 19(1), 22(2), 26(2), 27(2), 28(2) or 29(2), or
 - (b) a warrant under section 19(4), 22(4), 23(1) or 28(4).
@@ -140,15 +140,15 @@ shall be returned to the designated officer for the local justice area in which 
 
 ### Power to take equipment onto premises
 
-**8.**[^key-3c5583b0d4fb4eef3a11fc18dbc1ada3][^key-a1e323004e6385747dfe6dc42a7f43d8] In exercising a power to which paragraph 7 applies, a person may take with him such equipment and materials as he thinks appropriate.
+**8.**[^c-3c5583b0d4fb4eef3a11fc18dbc1ada3][^c-a1e323004e6385747dfe6dc42a7f43d8] In exercising a power to which paragraph 7 applies, a person may take with him such equipment and materials as he thinks appropriate.
 
 ### Duty to leave premises secured
 
-**9.**[^key-2bebec57ae8b44e66ce31cd2ee825fb2][^key-c079b67c530d19f914aca593ddb70435] If, in the exercise of a power of entry to which paragraph 7 applies, a person enters premises which are unoccupied, he shall leave them as effectively secured against entry as he found them.
+**9.**[^c-2bebec57ae8b44e66ce31cd2ee825fb2][^c-c079b67c530d19f914aca593ddb70435] If, in the exercise of a power of entry to which paragraph 7 applies, a person enters premises which are unoccupied, he shall leave them as effectively secured against entry as he found them.
 
 ### Functions in connection with inspection and search
 
-**10.**[^key-c1c59dd9e385492cb540b7d7a0f70953][^key-6933388ef47a6f5a0270a450452e66d7] (1) This paragraph applies to—
+**10.**[^c-c1c59dd9e385492cb540b7d7a0f70953][^c-6933388ef47a6f5a0270a450452e66d7] (1) This paragraph applies to—
 
 - (a) a power of inspection conferred by section 26(1), 27(1), 28(1) or 29(1), and
 - (b) a power of search conferred by a warrant under section 23(1).
@@ -168,9 +168,9 @@ shall be returned to the designated officer for the local justice area in which 
 
 (3) A person taken onto premises under paragraph 5 may exercise any power conferred by sub-paragraph (2) if he is in the company, and under the supervision, of a person exercising a power to which this paragraph applies.
 
-**11.**[^key-30bb3958e55b6948e894231caa943e78][^key-ba3f7a75c6f3d43aaf89f180d04335f7] A person who takes a sample from an animal pursuant to paragraph 10(2)(d) shall give a part of the sample, or a similar sample, to any person appearing to be responsible for the animal, if, before the sample is taken, he is requested to do so by that person.
+**11.**[^c-30bb3958e55b6948e894231caa943e78][^c-ba3f7a75c6f3d43aaf89f180d04335f7] A person who takes a sample from an animal pursuant to paragraph 10(2)(d) shall give a part of the sample, or a similar sample, to any person appearing to be responsible for the animal, if, before the sample is taken, he is requested to do so by that person.
 
-**12.**[^key-a9eb08612238346e0c87422aa1462893][^key-aa23e2503964b1634a6b3a922538d2c6] (1) Paragraph 10(2)(j) does not include power to seize an item which the person exercising the power has reasonable grounds for believing to be subject to legal privilege (within the meaning of section 10 of the Police and Criminal Evidence Act 1984 (c. 60)).
+**12.**[^c-a9eb08612238346e0c87422aa1462893][^c-aa23e2503964b1634a6b3a922538d2c6] (1) Paragraph 10(2)(j) does not include power to seize an item which the person exercising the power has reasonable grounds for believing to be subject to legal privilege (within the meaning of section 10 of the Police and Criminal Evidence Act 1984 (c. 60)).
 
 (2) A person who seizes anything in exercise of the power under paragraph 10(2)(j) shall on request provide a record of the thing seized to a person showing himself—
 
@@ -184,18 +184,18 @@ shall be returned to the designated officer for the local justice area in which 
 
 (4) Nothing may be retained for either of the purposes mentioned in sub-paragraph (3) if a photograph or a copy would be sufficient for that purpose.
 
-**13.**[^key-afad2a03b488cacfa3572c82fb9de6e7][^key-9b09457e506fd6b1c2ab5d28a6a0b6cc] As soon as reasonably practicable after having exercised a power to which paragraph 10 applies, the person who exercised the power shall—
+**13.**[^c-afad2a03b488cacfa3572c82fb9de6e7][^c-9b09457e506fd6b1c2ab5d28a6a0b6cc] As soon as reasonably practicable after having exercised a power to which paragraph 10 applies, the person who exercised the power shall—
 
 - (a) prepare a written report of the inspection or search, and
 - (b) if requested to do so by the occupier of the premises, give him a copy of the report.
 
-**14.**[^key-29cbffa7ac2f1b9ab3f0d2c7fa268738][^key-f59f3a8aab4ddd7c75c4396eb6ae7d5e] (1) A person exercising a power of search conferred by a warrant under section 23(1) may (if necessary) use reasonable force in the exercise of powers under paragraph 10 in connection with the execution of the warrant.
+**14.**[^c-29cbffa7ac2f1b9ab3f0d2c7fa268738][^c-f59f3a8aab4ddd7c75c4396eb6ae7d5e] (1) A person exercising a power of search conferred by a warrant under section 23(1) may (if necessary) use reasonable force in the exercise of powers under paragraph 10 in connection with the execution of the warrant.
 
 (2) A person carrying out an inspection under section 28(1) on premises which he is authorised to enter by a warrant under section 28(4) may (if necessary) use reasonable force in the exercise of powers under paragraph 10 in connection with the inspection.
 
 ### Functions in connection with entry under section 19
 
-**15.**[^key-9a542b871181da2338c20f124856b278][^key-3a1f7feef1bed1e4a35624c72dd94603] (1) Where a person enters premises in exercise of a power of entry conferred by section 19(1), or by a warrant under section 19(4), he may—
+**15.**[^c-9a542b871181da2338c20f124856b278][^c-3a1f7feef1bed1e4a35624c72dd94603] (1) Where a person enters premises in exercise of a power of entry conferred by section 19(1), or by a warrant under section 19(4), he may—
 
 - (a) inspect an animal found on the premises;
 - (b) remove a carcass found on the premises for the purposes of carrying out a post-mortem examination on it;
@@ -206,7 +206,7 @@ shall be returned to the designated officer for the local justice area in which 
 
 ### Offences
 
-**16.**[^key-36aad5dec097dd823fd16e57fc5ac5ac][^key-d75fad1b01ea3538a3637d34bf6f4430] A person commits an offence if he—
+**16.**[^c-36aad5dec097dd823fd16e57fc5ac5ac][^c-d75fad1b01ea3538a3637d34bf6f4430] A person commits an offence if he—
 
 - (a) intentionally obstructs a person in the lawful exercise of a power to which paragraph 7 or 10 applies;
 - (b) intentionally obstructs a person in the lawful exercise of a power conferred by this Schedule;
@@ -214,66 +214,66 @@ shall be returned to the designated officer for the local justice area in which 
 
 ## Annotations
 
-[^key-304a6646fb69e40ace5f1bc5be6975fa]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/1) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/g)
+[^c-304a6646fb69e40ace5f1bc5be6975fa]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/1) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/g)
 
-[^key-868ae18fa6b61372a04fee337282a093]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/1) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/i)
+[^c-868ae18fa6b61372a04fee337282a093]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/1) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/i)
 
-[^key-a43c610f5ce2527c14d151408b253349]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/2) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/g)
+[^c-a43c610f5ce2527c14d151408b253349]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/2) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/g)
 
-[^key-bf9fa1649c139b72f44604bbfc73b8fd]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/2) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/i)
+[^c-bf9fa1649c139b72f44604bbfc73b8fd]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/2) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/i)
 
-[^key-6e192180faffecaa5b4d1bdbe78697be]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/3) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/g)
+[^c-6e192180faffecaa5b4d1bdbe78697be]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/3) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/g)
 
-[^key-15fc5d0debabe1d3780d089521375c53]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/3) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/i)
+[^c-15fc5d0debabe1d3780d089521375c53]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/3) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/i)
 
-[^key-d8fb6fb5f8946bf173f848a50c9337bd]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/4) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/g)
+[^c-d8fb6fb5f8946bf173f848a50c9337bd]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/4) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/g)
 
-[^key-8bbe5cd014fa4f95fd4e0573451e3527]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/4) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/i)
+[^c-8bbe5cd014fa4f95fd4e0573451e3527]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/4) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/i)
 
-[^key-be70fdf805c6d4992d8508787e5d1e66]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/5) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/g)
+[^c-be70fdf805c6d4992d8508787e5d1e66]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/5) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/g)
 
-[^key-643c72ef7008a88ef003eb5d32c22003]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/5) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/i)
+[^c-643c72ef7008a88ef003eb5d32c22003]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/5) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/i)
 
-[^key-6a193df28537f490828fb515eadffa96]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/6) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/g)
+[^c-6a193df28537f490828fb515eadffa96]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/6) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/g)
 
-[^key-03b745841d3558712dcde8df3d30342e]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/6) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/i)
+[^c-03b745841d3558712dcde8df3d30342e]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/6) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/i)
 
-[^key-58f8bb9a3cb67c0b6073fafa3ad478e0]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/7) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/g)
+[^c-58f8bb9a3cb67c0b6073fafa3ad478e0]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/7) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/g)
 
-[^key-4f8c49bed9c0f462c6a7ce239c8e5287]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/7) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/i)
+[^c-4f8c49bed9c0f462c6a7ce239c8e5287]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/7) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/i)
 
-[^key-3c5583b0d4fb4eef3a11fc18dbc1ada3]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/8) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/g)
+[^c-3c5583b0d4fb4eef3a11fc18dbc1ada3]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/8) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/g)
 
-[^key-a1e323004e6385747dfe6dc42a7f43d8]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/8) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/i)
+[^c-a1e323004e6385747dfe6dc42a7f43d8]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/8) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/i)
 
-[^key-2bebec57ae8b44e66ce31cd2ee825fb2]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/9) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/g)
+[^c-2bebec57ae8b44e66ce31cd2ee825fb2]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/9) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/g)
 
-[^key-c079b67c530d19f914aca593ddb70435]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/9) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/i)
+[^c-c079b67c530d19f914aca593ddb70435]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/9) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/i)
 
-[^key-c1c59dd9e385492cb540b7d7a0f70953]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/10) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/g)
+[^c-c1c59dd9e385492cb540b7d7a0f70953]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/10) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/g)
 
-[^key-6933388ef47a6f5a0270a450452e66d7]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/10) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/i)
+[^c-6933388ef47a6f5a0270a450452e66d7]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/10) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/i)
 
-[^key-30bb3958e55b6948e894231caa943e78]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/11) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/g)
+[^c-30bb3958e55b6948e894231caa943e78]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/11) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/g)
 
-[^key-ba3f7a75c6f3d43aaf89f180d04335f7]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/11) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/i)
+[^c-ba3f7a75c6f3d43aaf89f180d04335f7]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/11) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/i)
 
-[^key-a9eb08612238346e0c87422aa1462893]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/12) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/g)
+[^c-a9eb08612238346e0c87422aa1462893]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/12) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/g)
 
-[^key-aa23e2503964b1634a6b3a922538d2c6]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/12) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/i)
+[^c-aa23e2503964b1634a6b3a922538d2c6]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/12) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/i)
 
-[^key-afad2a03b488cacfa3572c82fb9de6e7]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/13) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/g)
+[^c-afad2a03b488cacfa3572c82fb9de6e7]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/13) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/g)
 
-[^key-9b09457e506fd6b1c2ab5d28a6a0b6cc]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/13) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/i)
+[^c-9b09457e506fd6b1c2ab5d28a6a0b6cc]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/13) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/i)
 
-[^key-29cbffa7ac2f1b9ab3f0d2c7fa268738]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/14) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/g)
+[^c-29cbffa7ac2f1b9ab3f0d2c7fa268738]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/14) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/g)
 
-[^key-f59f3a8aab4ddd7c75c4396eb6ae7d5e]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/14) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/i)
+[^c-f59f3a8aab4ddd7c75c4396eb6ae7d5e]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/14) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/i)
 
-[^key-9a542b871181da2338c20f124856b278]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/15) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/g)
+[^c-9a542b871181da2338c20f124856b278]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/15) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/g)
 
-[^key-3a1f7feef1bed1e4a35624c72dd94603]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/15) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/i)
+[^c-3a1f7feef1bed1e4a35624c72dd94603]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/15) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/i)
 
-[^key-36aad5dec097dd823fd16e57fc5ac5ac]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/16) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/g)
+[^c-36aad5dec097dd823fd16e57fc5ac5ac]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/16) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/g)
 
-[^key-d75fad1b01ea3538a3637d34bf6f4430]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/16) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/i)
+[^c-d75fad1b01ea3538a3637d34bf6f4430]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2006/45/schedule/2/paragraph/16) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/i)

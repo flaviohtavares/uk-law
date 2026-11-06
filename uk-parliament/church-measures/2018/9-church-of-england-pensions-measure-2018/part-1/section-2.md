@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 2. The Church of England Pensions Board[^key-ef8129ede62937a45f302ec062ccc889]
+## 2. The Church of England Pensions Board[^c-ef8129ede62937a45f302ec062ccc889]
 
 *Extent: E*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef8129ede62937a45f302ec062ccc889]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2018/9/section/2) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-ef8129ede62937a45f302ec062ccc889]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2018/9/section/2) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

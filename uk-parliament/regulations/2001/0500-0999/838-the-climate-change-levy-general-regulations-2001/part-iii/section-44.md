@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Facilities covered by climate change agreements[^key-54bf56ead9128ad0ad5fb05614745f3c]
+## 44. Facilities covered by climate change agreements[^c-54bf56ead9128ad0ad5fb05614745f3c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Paragraph (1) does not apply in a case where the taxable commodity in question is electricity or gas.
 
-**45.**[^key-a4cca363e778ecda55f1c212337dbcf6] (1) This regulation applies where a taxable commodity is supplied to a non-registrable electricity producer otherwise than at a facility that is certified as being covered by a climate change agreement in accordance with paragraph 44(1) of the Act.
+**45.**[^c-a4cca363e778ecda55f1c212337dbcf6] (1) This regulation applies where a taxable commodity is supplied to a non-registrable electricity producer otherwise than at a facility that is certified as being covered by a climate change agreement in accordance with paragraph 44(1) of the Act.
 
 (2) That taxable commodity shall be regarded as supplied to a facility certified as being covered by a climate change agreement to the extent that it is used to produce electricity that is in fact supplied to such a facility by that non-registrable electricity producer.
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-54bf56ead9128ad0ad5fb05614745f3c]: Commencement: Reg. 44 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-54bf56ead9128ad0ad5fb05614745f3c]: Commencement: Reg. 44 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
 
-[^key-a4cca363e778ecda55f1c212337dbcf6]: Commencement: Reg. 45 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-a4cca363e778ecda55f1c212337dbcf6]: Commencement: Reg. 45 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)

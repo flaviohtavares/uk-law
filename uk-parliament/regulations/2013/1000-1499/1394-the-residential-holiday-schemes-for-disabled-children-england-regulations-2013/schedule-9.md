@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 38
 
-**1.**[^key-befd40a9b864e1388ae0860d58df6303] Except in the following provisions—
+**1.**[^c-befd40a9b864e1388ae0860d58df6303] Except in the following provisions—
 
 - (a) regulation 8(e);
 - (b) paragraphs 5 to 7, 9 and 16 of Schedule 1;
@@ -31,7 +31,7 @@ Regulation 38
 
 for “establishment or agency”, wherever the words occur, substitute “establishment, agency or holiday scheme for disabled children”.
 
-**2.**[^key-edec83353b46780f00867b70e19cd39c] In regulation 2(1) (interpretation)—
+**2.**[^c-edec83353b46780f00867b70e19cd39c] In regulation 2(1) (interpretation)—
 
 - (a) in the definition of “the Act”, after “2000” insert “and, with respect to holiday schemes for disabled children, means that Act as applied by the Care Standards Act 2000 (Extension of the Application of Part 2 to Holiday Schemes for Disabled Children) (England) Regulations 2013 and the Residential Holiday Schemes for Disabled Children (England) Regulations 2013”;
 - (b) in the definition of “behaviour management policy”, after “Children’s Homes Regulations 2001” insert “or, in the case of a holiday scheme for disabled children, by the Residential Holiday Schemes for Disabled Children (England) Regulations 2013”;
@@ -45,13 +45,13 @@ for “establishment or agency”, wherever the words occur, substitute “estab
 
   > - (f) in relation to a holiday scheme for disabled children, the written statement required in relation to the scheme in accordance with regulation 3 of the Residential Holiday Schemes for Disabled Children (England) Regulations 2013;
 
-**3.**[^key-77a9757349237d79836ab47cec7f1c8d] Except in regulation 7(5), after “in respect of a children’s home”, wherever the words occur, insert “or holiday scheme for disabled children”.
+**3.**[^c-77a9757349237d79836ab47cec7f1c8d] Except in regulation 7(5), after “in respect of a children’s home”, wherever the words occur, insert “or holiday scheme for disabled children”.
 
-**4.**[^key-8c45ba17fc90b5cfca0d6e6fd55eeea9] After “premises to be used by an establishment”, in both places where the words occur, insert “or for the purposes of providing accommodation by a holiday scheme for disabled children”.
+**4.**[^c-8c45ba17fc90b5cfca0d6e6fd55eeea9] After “premises to be used by an establishment”, in both places where the words occur, insert “or for the purposes of providing accommodation by a holiday scheme for disabled children”.
 
-**5.**[^key-c5199548c11fd0a08c9cc4bffb4324ad] Except in regulation 13(4)(b) and (d)(iii), after “by the agency”, wherever the words occur, insert “or holiday scheme for disabled children”.
+**5.**[^c-c5199548c11fd0a08c9cc4bffb4324ad] Except in regulation 13(4)(b) and (d)(iii), after “by the agency”, wherever the words occur, insert “or holiday scheme for disabled children”.
 
-**6.**[^key-1dcf56cdd19ca2712af81352e9d0da1a] In regulation 3 (information and documents to be provided by an applicant)—
+**6.**[^c-1dcf56cdd19ca2712af81352e9d0da1a] In regulation 3 (information and documents to be provided by an applicant)—
 
 - (a) in paragraphs (2) and (4), for “paragraph (5)” substitute “paragraphs (2A) and (5)”;
 - (b) after paragraph (2) insert—
@@ -65,9 +65,9 @@ for “establishment or agency”, wherever the words occur, substitute “estab
 
   .
 
-**7.**[^key-51cff12223b657d308ac189479aabecf] In regulation 6 (information as to staff engaged after application made) and after the first occurrence of the words in paragraph 19 of Schedule 1, after “for the purposes of the agency” insert “or holiday scheme for disabled children”.
+**7.**[^c-51cff12223b657d308ac189479aabecf] In regulation 6 (information as to staff engaged after application made) and after the first occurrence of the words in paragraph 19 of Schedule 1, after “for the purposes of the agency” insert “or holiday scheme for disabled children”.
 
-**8.**[^key-233242d95d316964ed44ab172769a496] In regulation 7(1) (registers)—
+**8.**[^c-233242d95d316964ed44ab172769a496] In regulation 7(1) (registers)—
 
 - (a) omit—
   - (i) “establishments and agencies”;
@@ -78,7 +78,7 @@ for “establishment or agency”, wherever the words occur, substitute “estab
 
   .
 
-**9.**[^key-e08e7e8bb6e5e64e6643d2b1ca82ffe7] In regulation 8 (contents of certificate)—
+**9.**[^c-e08e7e8bb6e5e64e6643d2b1ca82ffe7] In regulation 8 (contents of certificate)—
 
 - (a) in paragraph (e), after “Act” insert “or the description of the holiday scheme for disabled children”;
 - (b) after “the agency” in paragraph (k) insert—
@@ -87,16 +87,16 @@ for “establishment or agency”, wherever the words occur, substitute “estab
 
   .
 
-**10.**[^key-aa611f411c1b6a8c78f0fa5d5fe53843] In regulation 10(3)(c)(i) (application for variation or removal of a condition) after “for the purposes of an agency” insert “or for the purposes of the provision of accommodation by a holiday scheme for disabled children”.
+**10.**[^c-aa611f411c1b6a8c78f0fa5d5fe53843] In regulation 10(3)(c)(i) (application for variation or removal of a condition) after “for the purposes of an agency” insert “or for the purposes of the provision of accommodation by a holiday scheme for disabled children”.
 
-**11.**[^key-d4f7ec018d764460a6e3d85a13b17ee1] In regulation 13(4) (application for cancellation of registration)—
+**11.**[^c-d4f7ec018d764460a6e3d85a13b17ee1] In regulation 13(4) (application for cancellation of registration)—
 
 - (a) in sub-paragraph (d)(iii), after “situated”; and
 - (b) in sub-paragraph (e)(iii), after “local authority”,
 
 insert “or, in the case of a holiday scheme for disabled children, the local authority where the principal office used to carry out the administration of the scheme is located”.
 
-**12.**[^key-2e714bce0a48709b2a3920edb34cbf72] In Schedule 1 (information to be supplied on an application for registration as a person who carries on an establishment or agency)—
+**12.**[^c-2e714bce0a48709b2a3920edb34cbf72] In Schedule 1 (information to be supplied on an application for registration as a person who carries on an establishment or agency)—
 
 - (a) in paragraph 5, after “agency” insert “or of the principal office used to carry out the administration of the holiday scheme for disabled children”;
 - (b) in paragraph 6, after “more than one site” insert “, or where the holiday scheme for disabled children provides accommodation at more than one site,”;
@@ -119,9 +119,9 @@ insert “or, in the case of a holiday scheme for disabled children, the local a
 - (i) in paragraph 18, after “establishment” insert “or in premises used to provide accommodation by the holiday scheme for disabled children”;
 - (j) in paragraphs 19(a) and 20, after “resident in the premises used” insert “to provide accommodation by the holiday scheme for disabled children or used”.
 
-**13.**[^key-c139d451552c1b72084d0b697a7e5873] In paragraph 8 of Schedule 3 (information and documents to be supplied on an application for registration as the manager of an establishment or agency) after “agency” insert “or, in relation to a holiday scheme for disabled children, of the principal office used to carry out the administration of the scheme”.
+**13.**[^c-c139d451552c1b72084d0b697a7e5873] In paragraph 8 of Schedule 3 (information and documents to be supplied on an application for registration as the manager of an establishment or agency) after “agency” insert “or, in relation to a holiday scheme for disabled children, of the principal office used to carry out the administration of the scheme”.
 
-**14.**[^key-0e97072574acf7764747d01de60e8e39] In Schedule 4 (information to be supplied on an application for registration in respect of a children’s home)—
+**14.**[^c-0e97072574acf7764747d01de60e8e39] In Schedule 4 (information to be supplied on an application for registration in respect of a children’s home)—
 
 - (a) in paragraph 1, after “children’s home” insert “or holiday scheme for disabled children”;
 - (b) in paragraph 3, after “children’s home” insert “or by the holiday scheme for disabled children”;
@@ -131,36 +131,36 @@ insert “or, in the case of a holiday scheme for disabled children, the local a
 - (f) in paragraphs 10 and 11, after “accommodated” insert “in the children’s home”;
 - (g) in paragraph 13, after “guide” insert “of the children’s home”.
 
-**15.**[^key-9f60fe3c0806f316521892a3bc7b99fc] In paragraph 3 of Schedule 5 (particulars to be recorded in the registers kept by the CI), after “establishment or agency” insert “or of the principal office used to carry out the administration of the holiday scheme for disabled children”.
+**15.**[^c-9f60fe3c0806f316521892a3bc7b99fc] In paragraph 3 of Schedule 5 (particulars to be recorded in the registers kept by the CI), after “establishment or agency” insert “or of the principal office used to carry out the administration of the holiday scheme for disabled children”.
 
 ## Annotations
 
-[^key-befd40a9b864e1388ae0860d58df6303]: Commencement: Sch. 9 para. 1 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-befd40a9b864e1388ae0860d58df6303]: Commencement: Sch. 9 para. 1 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
 
-[^key-edec83353b46780f00867b70e19cd39c]: Commencement: Sch. 9 para. 2 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-edec83353b46780f00867b70e19cd39c]: Commencement: Sch. 9 para. 2 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
 
-[^key-77a9757349237d79836ab47cec7f1c8d]: Commencement: Sch. 9 para. 3 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-77a9757349237d79836ab47cec7f1c8d]: Commencement: Sch. 9 para. 3 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
 
-[^key-8c45ba17fc90b5cfca0d6e6fd55eeea9]: Commencement: Sch. 9 para. 4 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-8c45ba17fc90b5cfca0d6e6fd55eeea9]: Commencement: Sch. 9 para. 4 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
 
-[^key-c5199548c11fd0a08c9cc4bffb4324ad]: Commencement: Sch. 9 para. 5 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-c5199548c11fd0a08c9cc4bffb4324ad]: Commencement: Sch. 9 para. 5 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
 
-[^key-1dcf56cdd19ca2712af81352e9d0da1a]: Commencement: Sch. 9 para. 6 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-1dcf56cdd19ca2712af81352e9d0da1a]: Commencement: Sch. 9 para. 6 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
 
-[^key-51cff12223b657d308ac189479aabecf]: Commencement: Sch. 9 para. 7 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-51cff12223b657d308ac189479aabecf]: Commencement: Sch. 9 para. 7 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
 
-[^key-233242d95d316964ed44ab172769a496]: Commencement: Sch. 9 para. 8 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-233242d95d316964ed44ab172769a496]: Commencement: Sch. 9 para. 8 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
 
-[^key-e08e7e8bb6e5e64e6643d2b1ca82ffe7]: Commencement: Sch. 9 para. 9 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-e08e7e8bb6e5e64e6643d2b1ca82ffe7]: Commencement: Sch. 9 para. 9 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
 
-[^key-aa611f411c1b6a8c78f0fa5d5fe53843]: Commencement: Sch. 9 para. 10 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-aa611f411c1b6a8c78f0fa5d5fe53843]: Commencement: Sch. 9 para. 10 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
 
-[^key-d4f7ec018d764460a6e3d85a13b17ee1]: Commencement: Sch. 9 para. 11 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-d4f7ec018d764460a6e3d85a13b17ee1]: Commencement: Sch. 9 para. 11 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
 
-[^key-2e714bce0a48709b2a3920edb34cbf72]: Commencement: Sch. 9 para. 12 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-2e714bce0a48709b2a3920edb34cbf72]: Commencement: Sch. 9 para. 12 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
 
-[^key-c139d451552c1b72084d0b697a7e5873]: Commencement: Sch. 9 para. 13 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-c139d451552c1b72084d0b697a7e5873]: Commencement: Sch. 9 para. 13 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
 
-[^key-0e97072574acf7764747d01de60e8e39]: Commencement: Sch. 9 para. 14 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-0e97072574acf7764747d01de60e8e39]: Commencement: Sch. 9 para. 14 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
 
-[^key-9f60fe3c0806f316521892a3bc7b99fc]: Commencement: Sch. 9 para. 15 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-9f60fe3c0806f316521892a3bc7b99fc]: Commencement: Sch. 9 para. 15 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)

@@ -32,7 +32,7 @@ summary: ''
 
 Pensions
 
-The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2012 (revoked)[^key-49905ca3822ceb8ba3cad29de281944a]
+The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2012 (revoked)[^c-49905ca3822ceb8ba3cad29de281944a]
 
 Made
 
@@ -44,35 +44,35 @@ Laid before Parliament
 
 Coming into force in accordance with article 1(2)
 
-[^key-49905ca3822ceb8ba3cad29de281944a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-49905ca3822ceb8ba3cad29de281944a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-49905ca3822ceb8ba3cad29de281944a]
+## 1. Citation, commencement and interpretation[^c-49905ca3822ceb8ba3cad29de281944a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The earnings percentage[^key-49905ca3822ceb8ba3cad29de281944a]
+## 2. The earnings percentage[^c-49905ca3822ceb8ba3cad29de281944a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The levy ceiling[^key-49905ca3822ceb8ba3cad29de281944a]
+## 3. The levy ceiling[^c-49905ca3822ceb8ba3cad29de281944a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. The compensation cap[^key-49905ca3822ceb8ba3cad29de281944a]
+## 4. The compensation cap[^c-49905ca3822ceb8ba3cad29de281944a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocations[^key-49905ca3822ceb8ba3cad29de281944a]
+## 5. Revocations[^c-49905ca3822ceb8ba3cad29de281944a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-49905ca3822ceb8ba3cad29de281944a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-49905ca3822ceb8ba3cad29de281944a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Revocation Schedule[^key-49905ca3822ceb8ba3cad29de281944a]
+## SCHEDULE — Revocation Schedule[^c-49905ca3822ceb8ba3cad29de281944a]
 
 Article 5
 
@@ -80,8 +80,8 @@ Article 5
 
 **May not be in force at this date. Check the source.**
 
-[^key-49905ca3822ceb8ba3cad29de281944a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-49905ca3822ceb8ba3cad29de281944a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-49905ca3822ceb8ba3cad29de281944a]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/528) revoked (1.4.2013) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2013 (S.I. 2013/105)](https://www.legislation.gov.uk/uksi/2013/105), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/105/article/1), [5](https://www.legislation.gov.uk/uksi/2013/105/article/5)
+[^c-49905ca3822ceb8ba3cad29de281944a]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/528) revoked (1.4.2013) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2013 (S.I. 2013/105)](https://www.legislation.gov.uk/uksi/2013/105), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/105/article/1), [5](https://www.legislation.gov.uk/uksi/2013/105/article/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Equipment[^key-accf644ad8cdbd3e778c6dccecf599c3]
+## 24. Equipment[^c-accf644ad8cdbd3e778c6dccecf599c3]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-accf644ad8cdbd3e778c6dccecf599c3]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/1997/474/regulation/24) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-accf644ad8cdbd3e778c6dccecf599c3]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/1997/474/regulation/24) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5A — Additional conditions that apply in relation to conventionally reared meat chickens[^key-cc7057fdf2c5cb21594c3fd4b4790093]
+## SCHEDULE 5A — Additional conditions that apply in relation to conventionally reared meat chickens[^c-cc7057fdf2c5cb21594c3fd4b4790093]
 
 *Extent: E+W*
 
@@ -30,10 +30,10 @@ In this Schedule—
 
 - “chicken” means a conventionally reared meat chicken;
 - “keeper” means any person responsible for or in charge of chickens in terms of contract or by law whether on a permanent or temporary basis;
-- “official veterinarian” has the same meaning as it has in Regulation (EU) 2017/625[^key-90bcd09758b0d7d17f869502afe042de];
+- “official veterinarian” has the same meaning as it has in Regulation (EU) 2017/625[^c-90bcd09758b0d7d17f869502afe042de];
 - “Regulation 853/2004” means Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/eur/2004/0853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin.
-- [^key-13c2f20549713811106a0f406ff4b956]...
-- “Regulation (EU) 2017/625” means Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products.[^key-a950294bef940562c82dfe0dd48c4970]
+- [^c-13c2f20549713811106a0f406ff4b956]...
+- “Regulation (EU) 2017/625” means Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products.[^c-a950294bef940562c82dfe0dd48c4970]
 
 ### PART 2 — General additional conditions
 
@@ -154,20 +154,20 @@ After the final depopulation of a house and before a new flock is introduced—
 
 #### 15. Identification of poor welfare conditions and follow-up
 
-(1) An official veterinarian conducting controls under Regulation (EU) 2017/625[^key-44e7e796c83f56bbc08e221c6713e2d3] in relation to chickens must evaluate the results of the post-mortem inspection to identify possible indications of poor welfare conditions in their holding or house of origin.
+(1) An official veterinarian conducting controls under Regulation (EU) 2017/625[^c-44e7e796c83f56bbc08e221c6713e2d3] in relation to chickens must evaluate the results of the post-mortem inspection to identify possible indications of poor welfare conditions in their holding or house of origin.
 
 (2) If the mortality rate of the chickens or the results of the post-mortem inspection are consistent with poor animal welfare conditions, the official veterinarian must communicate the data to the keeper of those chickens and to the Secretary of State without delay.
 
 ## Annotations
 
-[^key-cc7057fdf2c5cb21594c3fd4b4790093]: Textual amendment: Sch. 5A inserted (23.12.2010) by [The Welfare of Farmed Animals (England) (Amendment) Regulations 2010 (S.I. 2010/3033)](https://www.legislation.gov.uk/uksi/2010/3033), [regs. 1](https://www.legislation.gov.uk/uksi/2010/3033/regulation/1), [8](https://www.legislation.gov.uk/uksi/2010/3033/regulation/8), [Sch.](https://www.legislation.gov.uk/uksi/2010/3033/schedule)
+[^c-cc7057fdf2c5cb21594c3fd4b4790093]: Textual amendment: Sch. 5A inserted (23.12.2010) by [The Welfare of Farmed Animals (England) (Amendment) Regulations 2010 (S.I. 2010/3033)](https://www.legislation.gov.uk/uksi/2010/3033), [regs. 1](https://www.legislation.gov.uk/uksi/2010/3033/regulation/1), [8](https://www.legislation.gov.uk/uksi/2010/3033/regulation/8), [Sch.](https://www.legislation.gov.uk/uksi/2010/3033/schedule)
 
-[^key-90bcd09758b0d7d17f869502afe042de]: Textual amendment: Words in Sch. 5A para. 1 substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [23(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/23/2/a/i)
+[^c-90bcd09758b0d7d17f869502afe042de]: Textual amendment: Words in Sch. 5A para. 1 substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [23(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/23/2/a/i)
 
-[^key-13c2f20549713811106a0f406ff4b956]: Textual amendment: Words in Sch. 5A para. 1 omitted (14.12.2019) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [23(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/23/2/a/ii)
+[^c-13c2f20549713811106a0f406ff4b956]: Textual amendment: Words in Sch. 5A para. 1 omitted (14.12.2019) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [23(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/23/2/a/ii)
 
-[^key-a950294bef940562c82dfe0dd48c4970]: Textual amendment: Words in Sch. 5A para. 1 inserted (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [23(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/23/2/a/iii)
+[^c-a950294bef940562c82dfe0dd48c4970]: Textual amendment: Words in Sch. 5A para. 1 inserted (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [23(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/23/2/a/iii)
 
 [^f00012]: Footnote: OJ No L125, 23.5.96, p 3
 
-[^key-44e7e796c83f56bbc08e221c6713e2d3]: Textual amendment: Words in Sch. 5A para. 15(1) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [23(2)(b)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/23/2/b)
+[^c-44e7e796c83f56bbc08e221c6713e2d3]: Textual amendment: Words in Sch. 5A para. 15(1) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [23(2)(b)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/23/2/b)

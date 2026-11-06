@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Biodiversity gain site register[^key-b7e2ff67d244bfa194eb67bc915cb3e3][^key-35d55983c0848b7ef94632d8cb70df54][^key-a3ed8504d2ea7da04f1a21b3e261546a]
+## 100. Biodiversity gain site register[^c-b7e2ff67d244bfa194eb67bc915cb3e3][^c-35d55983c0848b7ef94632d8cb70df54][^c-a3ed8504d2ea7da04f1a21b3e261546a]
 
 *Extent: E+W*
 
@@ -73,8 +73,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b7e2ff67d244bfa194eb67bc915cb3e3]: Commencement: S. 100 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-b7e2ff67d244bfa194eb67bc915cb3e3]: Commencement: S. 100 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-35d55983c0848b7ef94632d8cb70df54]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2021/30/section/100) in force at 3.11.2023 for specified purposes by [S.I. 2023/1170](https://www.legislation.gov.uk/uksi/2023/1170), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/1170/regulation/2/c)
+[^c-35d55983c0848b7ef94632d8cb70df54]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2021/30/section/100) in force at 3.11.2023 for specified purposes by [S.I. 2023/1170](https://www.legislation.gov.uk/uksi/2023/1170), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/1170/regulation/2/c)
 
-[^key-a3ed8504d2ea7da04f1a21b3e261546a]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2021/30/section/100) in force at 12.2.2024 in so far as not already in force by [S.I. 2024/44](https://www.legislation.gov.uk/uksi/2024/44), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2024/44/regulation/2/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/44/regulation/4))
+[^c-a3ed8504d2ea7da04f1a21b3e261546a]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2021/30/section/100) in force at 12.2.2024 in so far as not already in force by [S.I. 2024/44](https://www.legislation.gov.uk/uksi/2024/44), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2024/44/regulation/2/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/44/regulation/4))

@@ -26,7 +26,7 @@ summary: ''
 - “**aggregate**” shall be construed in accordance with sections 17(1) and 18 above;
 - “**agreement**” includes any arrangement or understanding (whether or not legally enforceable), and cognate expressions shall be construed accordingly;
 - “**agricultural**” means agricultural within the meaning of the Agriculture Act 1967 (c. 22) or the Agriculture Act (Northern Ireland) 1949 (c. 2 (N.I.));
-- “**appeal tribunal**” means the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal;[^key-9a2c454d19faa661e8ae6b6976b1d367]
+- “**appeal tribunal**” means the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal;[^c-9a2c454d19faa661e8ae6b6976b1d367]
 - “**the commencement date**” has the meaning given by section 16(6) above;
 - “**commercial exploitation**” shall be construed in accordance with section 19 above;
 - “**the Commissioners**” means the Commissioners of Customs and Excise;
@@ -35,7 +35,7 @@ summary: ''
 - “**exempt process**” shall be construed in accordance with section 18(2) above;
 - “**forestry**” includes the cultivation, maintenance and care of trees or woodland of any description;
 - “**gravel**” includes gravel comprising or containing pebbles or stones or both;
-- “[^key-1a1f08cfb1e5ae74306ed11ae687fa13]HMRC” means Her Majesty’s Revenue and Customs;
+- “[^c-1a1f08cfb1e5ae74306ed11ae687fa13]HMRC” means Her Majesty’s Revenue and Customs;
 - “**limestone**” includes chalk and dolomite;
 - “**member**”, in relation to a group, shall be construed in accordance with section 35(6) above;
 - “**mixed**” includes blended, and cognate expressions shall be construed accordingly;
@@ -46,7 +46,7 @@ summary: ''
 - “**originating site**” shall be construed in accordance with section 20 above;
 - “**prescribed**” means prescribed by regulations made by the Commissioners under this Part;
 - “**registered**” means registered in the register maintained under section 24 above;
-- “[^key-7cfc637dc31966004022e6ed94715174]**relevant waters**” means—
+- “[^c-7cfc637dc31966004022e6ed94715174]**relevant waters**” means—
   - (a) the territorial sea adjacent to the United Kingdom, other than Scottish waters, or
   - (b) any area designated by Order in Council under section 1(7) of the Continental Shelf Act 1964;
 - “**representative member**”, in relation to a group, shall be construed in accordance with section 35(6) above;
@@ -55,11 +55,11 @@ summary: ''
 - “**structure**” includes roads and paths, the way on which any railway track is or is to be laid and embankments;
 - “**subordinate legislation**” has the same meaning as in the Interpretation Act 1978 (c. 30);
 - “**tax credit**” means a tax credit for which provision is made by tax credit regulations;
-- “**tax credit regulations**” means regulations under section 30 , 30A or 30B[^key-8865b44191f364f93eeda67508389d79] above;
+- “**tax credit regulations**” means regulations under section 30 , 30A or 30B[^c-8865b44191f364f93eeda67508389d79] above;
 - “**tax representative**”, in relation to any person, means the person who, in accordance with any regulations under section 33 above, is for the time being that person’s tax representative for the purposes of aggregates levy;
 - “**taxable aggregate**” shall be construed in accordance with section 17(2) to (4) above;
 - “**United Kingdom waters**” means—
-  - (a) the territorial sea adjacent to the United Kingdom , except so much of that territorial sea as is to be treated as adjacent to Scotland for the purposes of the Scotland Act 1998 (see section 126(2) of that Act)[^key-50767b3efb2983f01326a877bd04494b]; or
+  - (a) the territorial sea adjacent to the United Kingdom , except so much of that territorial sea as is to be treated as adjacent to Scotland for the purposes of the Scotland Act 1998 (see section 126(2) of that Act)[^c-50767b3efb2983f01326a877bd04494b]; or
   - (b) any area designated by Order in Council under section 1(7) of the Continental Shelf Act 1964 (c. 29).
 
 (2) References in this Part to the use of anything for construction purposes are references to either of the following, except in so far as it consists in the application to it of an exempt process, that is to say—
@@ -89,12 +89,12 @@ summary: ''
 
 ## Annotations
 
-[^key-9a2c454d19faa661e8ae6b6976b1d367]: Textual amendment: Words in s. 48 substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 307(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/307/2)
+[^c-9a2c454d19faa661e8ae6b6976b1d367]: Textual amendment: Words in s. 48 substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 307(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/307/2)
 
-[^key-1a1f08cfb1e5ae74306ed11ae687fa13]: Textual amendment: Words in s. 48 inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 307(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/307/3)
+[^c-1a1f08cfb1e5ae74306ed11ae687fa13]: Textual amendment: Words in s. 48 inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 307(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/307/3)
 
-[^key-7cfc637dc31966004022e6ed94715174]: Textual amendment: Words in s. 48(1) inserted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 14 paras. 12](https://www.legislation.gov.uk/ukpga/2026/11/schedule/14/paragraph/12), [18](https://www.legislation.gov.uk/ukpga/2026/11/schedule/14/paragraph/18); [S.I. 2026/355](https://www.legislation.gov.uk/uksi/2026/355), [reg. 2](https://www.legislation.gov.uk/uksi/2026/355/regulation/2)
+[^c-7cfc637dc31966004022e6ed94715174]: Textual amendment: Words in s. 48(1) inserted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 14 paras. 12](https://www.legislation.gov.uk/ukpga/2026/11/schedule/14/paragraph/12), [18](https://www.legislation.gov.uk/ukpga/2026/11/schedule/14/paragraph/18); [S.I. 2026/355](https://www.legislation.gov.uk/uksi/2026/355), [reg. 2](https://www.legislation.gov.uk/uksi/2026/355/regulation/2)
 
-[^key-8865b44191f364f93eeda67508389d79]: Textual amendment: Words in s. 48(1) substituted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 61(4)](https://www.legislation.gov.uk/ukpga/2015/11/section/61/4)
+[^c-8865b44191f364f93eeda67508389d79]: Textual amendment: Words in s. 48(1) substituted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 61(4)](https://www.legislation.gov.uk/ukpga/2015/11/section/61/4)
 
-[^key-50767b3efb2983f01326a877bd04494b]: Textual amendment: Words in s. 48(1) inserted (with effect in accordance with s. 18(4) of the amending Act) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [s. 72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2016/11/schedule/1/paragraph/9); [S.I. 2026/355](https://www.legislation.gov.uk/uksi/2026/355), [reg. 2](https://www.legislation.gov.uk/uksi/2026/355/regulation/2)
+[^c-50767b3efb2983f01326a877bd04494b]: Textual amendment: Words in s. 48(1) inserted (with effect in accordance with s. 18(4) of the amending Act) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [s. 72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2016/11/schedule/1/paragraph/9); [S.I. 2026/355](https://www.legislation.gov.uk/uksi/2026/355), [reg. 2](https://www.legislation.gov.uk/uksi/2026/355/regulation/2)

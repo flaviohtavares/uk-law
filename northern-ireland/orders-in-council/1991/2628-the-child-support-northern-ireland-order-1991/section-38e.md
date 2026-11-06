@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38E. Power to write off arrears[^key-f6f1b633fde8f316a11eb4da5ef39514]
+## 38E. Power to write off arrears[^c-f6f1b633fde8f316a11eb4da5ef39514]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6f1b633fde8f316a11eb4da5ef39514]: Textual amendment: [Art. 38E](https://www.legislation.gov.uk/nisi/1991/2628/article/38E) inserted (3.12.2012 for specified purposes, 10.12.2012 in so far as not already in operation) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [ss. 24](https://www.legislation.gov.uk/nia/2008/10/section/24), [41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1) (with [s. 40(2)](https://www.legislation.gov.uk/nia/2008/10/section/40/2)); [S.R. 2012/423](https://www.legislation.gov.uk/nisr/2012/423), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2012/423/article/2/2/b); [S.R. 2012/440](https://www.legislation.gov.uk/nisr/2012/440), [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2012/440/article/2/2/a) (with [art. 4](https://www.legislation.gov.uk/nisr/2012/440/article/4))
+[^c-f6f1b633fde8f316a11eb4da5ef39514]: Textual amendment: [Art. 38E](https://www.legislation.gov.uk/nisi/1991/2628/article/38E) inserted (3.12.2012 for specified purposes, 10.12.2012 in so far as not already in operation) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [ss. 24](https://www.legislation.gov.uk/nia/2008/10/section/24), [41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1) (with [s. 40(2)](https://www.legislation.gov.uk/nia/2008/10/section/40/2)); [S.R. 2012/423](https://www.legislation.gov.uk/nisr/2012/423), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2012/423/article/2/2/b); [S.R. 2012/440](https://www.legislation.gov.uk/nisr/2012/440), [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2012/440/article/2/2/a) (with [art. 4](https://www.legislation.gov.uk/nisr/2012/440/article/4))

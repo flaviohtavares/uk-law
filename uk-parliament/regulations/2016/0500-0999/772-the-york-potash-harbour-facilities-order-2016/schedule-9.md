@@ -22,13 +22,13 @@ summary: ''
 
 Article 34
 
-### 1. Benefit of protective provisions[^key-d1a4ab0b4c82d71fc3cff60801fc09a0]
+### 1. Benefit of protective provisions[^c-d1a4ab0b4c82d71fc3cff60801fc09a0]
 
 (1) The following provisions of this Schedule have effect for the benefit of any owner of the protected land and any owner or operator of a pipeline within the pipeline corridor, unless otherwise agreed between the undertaker and the said owner or operator.
 
 (2) The provisions contained in paragraph 25 do not apply to the interests of Northumbrian Water Limited unless otherwise agreed between the undertaker and Northumbrian Water Limited.
 
-### 2. Interpretation[^key-437d4141bbdb21495d5e77f9fa58250d]
+### 2. Interpretation[^c-437d4141bbdb21495d5e77f9fa58250d]
 
 In this Schedule—
 
@@ -129,7 +129,7 @@ In this Schedule—
   - (p) details of the assessment and monitoring work to be undertaken both prior to the construction of the authorised development and during the operation of the authorised development to ascertain any change or damage to the cats pipeline cathodic protection system and the proposed remedial works; and
   - (q) any further particulars provided in accordance with paragraph 4(2).
 
-### 3. Pipeline survey[^key-608089b431c31c090a59957a08843b4b]
+### 3. Pipeline survey[^c-608089b431c31c090a59957a08843b4b]
 
 (1) Before commencing any part of the authorised development in the pipeline corridor or which may affect a protected crossing the undertaker must—
 
@@ -140,19 +140,19 @@ In this Schedule—
 
 (3) When the pipeline survey has been completed the undertaker must serve a copy of the pipeline survey on the owners and operators of the pipelines and protected crossings and invite them to advise the undertaker within 28 days of receipt of the survey if they consider that the pipeline survey is incomplete or inaccurate and if so in what respect following which the undertaker must finalise its pipeline survey.
 
-### 4. Authorisation of works details affecting pipelines or protected crossings[^key-5a2baa4e4ba69df85563983bbe5d2385]
+### 4. Authorisation of works details affecting pipelines or protected crossings[^c-5a2baa4e4ba69df85563983bbe5d2385]
 
 (1) Before commencing any part of a relevant work the undertaker must submit to the owners and any operators of any affected asset the works details and obtain a written acknowledgement of receipt of those works details from the specified persons in relation to the affected asset concerned.
 
 (2) The undertaker must as soon as reasonably practicable provide such further particulars as the owner or operator of any affected asset may, within 45 days from the receipt of the works details under sub-paragraph (1), reasonably require.
 
-**5.**[^key-5fd34f177124a7236a2aae24d84a76a9] No part of a relevant work is to be commenced until one of the following conditions has been satisfied—
+**5.**[^c-5fd34f177124a7236a2aae24d84a76a9] No part of a relevant work is to be commenced until one of the following conditions has been satisfied—
 
 - (a) the works details supplied in respect of that relevant work under paragraph 4 have been authorised by the owner and operator of all the affected assets; or
 - (b) the works details supplied in respect of that relevant work under paragraph 4 have been authorised by an expert under paragraph 7(3); or
 - (c) authorisation is deemed to have been given in accordance with paragraph 7(1).
 
-**6.**[^key-a0f4c5f0e26b1896bf94edf40bcbeac0] (1) Any authorisation by the owner or operator of an affected asset required under paragraph 5(a) must not be unreasonably withheld but may be given subject to such reasonable conditions as the owner or operator of the affected asset may require to be made for—
+**6.**[^c-a0f4c5f0e26b1896bf94edf40bcbeac0] (1) Any authorisation by the owner or operator of an affected asset required under paragraph 5(a) must not be unreasonably withheld but may be given subject to such reasonable conditions as the owner or operator of the affected asset may require to be made for—
 
 - (a) the continuing safety and operation or viability of the affected asset; and
 - (b) the requirement for the owner and operator of the affected asset to have—
@@ -165,7 +165,7 @@ In this Schedule—
 
 (4) Where there has been a reference to an expert in accordance with paragraph 7(2) and the expert gives authorisation, the authorised development must be carried out in accordance with the authorisation and conditions contained in the award of the expert under paragraph 7(3).
 
-**7.**[^key-244d062b6186a1048c6c493eea747b4d] (1) In the event that—
+**7.**[^c-244d062b6186a1048c6c493eea747b4d] (1) In the event that—
 
 - (a) no response has been received to the submission of the works details under paragraph 4 within 45 days of the undertaker obtaining a written acknowledgment of receipt from a specified person under paragraph 4(1) and no further particulars have been requested under paragraph 4(2); or
 - (b) authorisation has not been given within 30 days of the undertaker obtaining a written acknowledgment of receipt from a specified person of the further particulars supplied under paragraph 4(2),
@@ -183,11 +183,11 @@ the undertaker may refer the matter to an expert for determination under paragra
 
 (4) Where the undertaker considers that the owner or operator of the cats pipeline has unreasonably withheld its authorisation under paragraph 6(2) then the matter may be referred to an expert on the application of either party (after giving notice in writing to each other) appointed by the secretary of the United Kingdom Onshore Pipeline Association for determination under paragraph 34.
 
-### 8. Notice of works[^key-7e2610eb7abc1619af45b4edaad07dc9]
+### 8. Notice of works[^c-7e2610eb7abc1619af45b4edaad07dc9]
 
 The undertaker must provide to the owner and operator of an affected asset a minimum of 28 days’ notice prior to commencing any relevant work in order that an engineer can be made available to observe the relevant works and, when required, advise on the necessary safety precautions.
 
-### 9. Further provisions about works[^key-bf79c19d5915bf6d8f206a426f61c1bf]
+### 9. Further provisions about works[^c-bf79c19d5915bf6d8f206a426f61c1bf]
 
 (1) Before carrying out a relevant work the undertaker must—
 
@@ -198,21 +198,21 @@ The undertaker must provide to the owner and operator of an affected asset a min
 
 (3) The undertaker must engage an independent construction Quality Assurance Inspector to oversee cats pipeline critical construction activities during the construction phase.
 
-**10.**[^key-5d66a21c4ddde383a797680fff7ed2f2] (1) Where temporary crossings for construction traffic are to be used, other than where the pipelines are under a carriageway of adequate standard of construction, then the crossing points must be suitably reinforced with sleepers or road plates or a specially constructed reinforced concrete raft or by installing a temporary bridge over the pipeline as necessary.
+**10.**[^c-5d66a21c4ddde383a797680fff7ed2f2] (1) Where temporary crossings for construction traffic are to be used, other than where the pipelines are under a carriageway of adequate standard of construction, then the crossing points must be suitably reinforced with sleepers or road plates or a specially constructed reinforced concrete raft or by installing a temporary bridge over the pipeline as necessary.
 
 (2) Details of proposed temporary crossing points referred to in sub-paragraph (1) must be notified to the owner and operator of the pipeline in accordance with paragraph 4.
 
-**11.**[^key-0811895d838010225bb7c7cd0bcbcb56] During construction, an area equivalent to the easement widths of the pipelines (taken from the actual location of the pipelines shown on the pipeline survey) must be fenced off using some form of visual indication such as netlon fencing or “heras” type fence panels. Suitable signage warning of the danger of live pipelines must be erected at a minimum distance of every 50 metres.
+**11.**[^c-0811895d838010225bb7c7cd0bcbcb56] During construction, an area equivalent to the easement widths of the pipelines (taken from the actual location of the pipelines shown on the pipeline survey) must be fenced off using some form of visual indication such as netlon fencing or “heras” type fence panels. Suitable signage warning of the danger of live pipelines must be erected at a minimum distance of every 50 metres.
 
-**12.**[^key-fd5e1a43f31d92e90c022bfbcd0a30f9] No explosives are to be used within the protected land.
+**12.**[^c-fd5e1a43f31d92e90c022bfbcd0a30f9] No explosives are to be used within the protected land.
 
-**13.**[^key-81ff9edc424142e01be1b7f3ab768037] (1) There must be no lifting over any exposed sections of the cats pipeline or live or vulnerable plant containing hazardous substances or pressure energy.
+**13.**[^c-81ff9edc424142e01be1b7f3ab768037] (1) There must be no lifting over any exposed sections of the cats pipeline or live or vulnerable plant containing hazardous substances or pressure energy.
 
 (2) Any construction works above the buried sections of the cats pipeline require the protection of the cats pipeline.
 
 (3) All piling within 1.5 metres of the centreline of a pipeline must be non-percussive, except that in the case of the cats pipeline all piling within 10 metres of the centreline of the cats pipeline must be non-percussive.
 
-**14.**[^key-de50a2d749151b6fb77fd182a2aee15c] (1) Where piling is required within 50 metres of the centreline of a pipeline or which could have an effect on the operation or maintenance of a pipeline or access to a pipeline, details of the proposed method for and location of the piling must be provided to the owner and operator of the relevant pipeline for approval in accordance with paragraph 4.
+**14.**[^c-de50a2d749151b6fb77fd182a2aee15c] (1) Where piling is required within 50 metres of the centreline of a pipeline or which could have an effect on the operation or maintenance of a pipeline or access to a pipeline, details of the proposed method for and location of the piling must be provided to the owner and operator of the relevant pipeline for approval in accordance with paragraph 4.
 
 (2) Any proposed piling operations within—
 
@@ -221,11 +221,11 @@ The undertaker must provide to the owner and operator of an affected asset a min
 
 (3) All excavations within 2 metres of the centreline of the cats pipeline must be hand dug.
 
-**15.**[^key-dbc149420eb6b7cb852f946e4186393c] (1) Where excavation of trenches (including excavation by dredging) adjacent to a pipeline affects its support, the pipeline must be supported in a manner approved by the owner and operator of the relevant pipeline.
+**15.**[^c-dbc149420eb6b7cb852f946e4186393c] (1) Where excavation of trenches (including excavation by dredging) adjacent to a pipeline affects its support, the pipeline must be supported in a manner approved by the owner and operator of the relevant pipeline.
 
 (2) Where the undertaker proposes to carry out excavations which might affect above ground structures such as pipeline supports in the pipeline corridor, the undertaker must calculate the zone of influence of those excavations and provide those calculations to the owner and operator of the pipeline under paragraph 4.
 
-**16.**[^key-caa72d3bd17f187e25bb0331bf760a77] (1) Where a trench is excavated across or parallel to the line of a pipeline, the backfill must be adequately compacted to prevent any settlement which could subsequently cause damage to the pipeline.
+**16.**[^c-caa72d3bd17f187e25bb0331bf760a77] (1) Where a trench is excavated across or parallel to the line of a pipeline, the backfill must be adequately compacted to prevent any settlement which could subsequently cause damage to the pipeline.
 
 (2) Proposed methods and locations of compacting must be notified to the owner and operator of the pipeline in accordance with paragraph 4.
 
@@ -242,11 +242,11 @@ The undertaker must provide to the owner and operator of an affected asset a min
 
 the undertaker or the owner or operator of the relevant pipeline may refer the matter to an expert for determination under paragraph 34.
 
-**17.**[^key-75b73c97a7e7dcd5add600de40399320] (1) A minimum clearance of 1500 millimetres must be maintained between any part of the authorised development and any affected asset (whether that part of the authorised development is parallel to or crosses the pipeline) unless otherwise agreed with the owner and operator of the affected asset.
+**17.**[^c-75b73c97a7e7dcd5add600de40399320] (1) A minimum clearance of 1500 millimetres must be maintained between any part of the authorised development and any affected asset (whether that part of the authorised development is parallel to or crosses the pipeline) unless otherwise agreed with the owner and operator of the affected asset.
 
 (2) No manholes or chambers are to be built over or round the pipelines.
 
-### 18. Monitoring for damage to pipelines[^key-88352845e76d7d6e8703717f41410a3d]
+### 18. Monitoring for damage to pipelines[^c-88352845e76d7d6e8703717f41410a3d]
 
 (1) When carrying out the relevant work the undertaker must monitor the relevant affected assets to establish whether damage has occurred.
 
@@ -265,7 +265,7 @@ the undertaker or the owner or operator of the relevant pipeline may refer the m
 
 (7) In the event that the undertaker does not carry out necessary remedial work in a timely manner then the affected owner is entitled, but not obliged, to undertake the necessary remedial work and recover the cost of doing so from the undertaker.
 
-**19.**[^key-fc2d3a8f49984713aab7765c68d31a2a] (1) If any damage occurs to a pipeline causing a leakage or escape from a pipeline, all work in the vicinity must cease and the owner and operator of the pipeline must be notified immediately.
+**19.**[^c-fc2d3a8f49984713aab7765c68d31a2a] (1) If any damage occurs to a pipeline causing a leakage or escape from a pipeline, all work in the vicinity must cease and the owner and operator of the pipeline must be notified immediately.
 
 (2) Where there is leakage or escape of gas, the undertaker must immediately—
 
@@ -274,7 +274,7 @@ the undertaker or the owner or operator of the relevant pipeline may refer the m
 - (c) prevent any approach by the public, extinguish all naked flames and other sources of ignition for at least 350 metres from the leakage; and
 - (d) assist emergency services as may be requested.
 
-### 20. Compliance with requirements, etc. applying to the protected land[^key-da21ca1daa233bfb3ea12a79926c3e46]
+### 20. Compliance with requirements, etc. applying to the protected land[^c-da21ca1daa233bfb3ea12a79926c3e46]
 
 (1) Subject to sub-paragraph (2), in undertaking any works in relation to the protected land or exercising any rights relating to or affecting owners of the protected land, the undertaker must comply with such conditions, requirements or regulations relating to health, safety, security and welfare as are operated in relation to access to or activities in the protected land.
 
@@ -287,13 +287,13 @@ the undertaker or the owner or operator of the relevant pipeline may refer the m
 
 (3) Sub-paragraph (2) does not apply if the condition, requirement or regulation was introduced by way of legislation, direction or policy of the government, a relevant government agency, a local authority (exercising its public functions) or the police.
 
-### 21. Access for construction and maintenance[^key-aa4d4f3a5665b1e578437f490679a5f1]
+### 21. Access for construction and maintenance[^c-aa4d4f3a5665b1e578437f490679a5f1]
 
 (1) Before carrying out any construction or maintenance works affecting access rights over the access roads, the undertaker must prepare a draft construction access plan and publicise and consult on the draft construction access plan with owners of the protected land operators of the pipelines and any owners and occupiers of any properties within the Wilton Complex whose access to their property is likely to be affected by those works.
 
 (2) The undertaker must take account of the responses to any consultation referred to in sub-paragraph (1) before approving the construction access plan.
 
-**22.**[^key-aca4425ede437140fb2ccc9cccf66375] (1) In preparing a construction access plan under paragraph 21 the undertaker must—
+**22.**[^c-aca4425ede437140fb2ccc9cccf66375] (1) In preparing a construction access plan under paragraph 21 the undertaker must—
 
 - (a) establish the programme for major works in the pipeline corridor and the Wilton Complex and plan the construction or maintenance works to prevent or (if such conflict cannot be reasonably prevented) to minimise any conflict between the construction or maintenance works and the programmed major works; and
 - (b) establish where an owner of the protected land or operator of a pipeline or any owners and occupiers of any properties within the Wilton Complex whose access to their property is likely to be affected by those works has a reasonable expectation to exercise access rights over particular access roads in respect of which rights are proposed to be restricted or extinguished, establish the purpose of that expectation and provide an alternative or replacement means of access whereby that expectation can be met.
@@ -310,19 +310,19 @@ the undertaker or the owner or operator of the relevant pipeline may refer the m
 
 (3) In this paragraph, “programmed”, in relation to works, means works in respect of which the owner of the access roads has been notified of the specific dates between which the works are programmed to be carried out provided that the period covered by such dates must be length of time the works are programmed to be carried out and not a period within part of which the works are to be carried out.
 
-**23.**[^key-d84136dc5a555fa120b16adfa0f95182] (1) No works affecting access rights over the access roads are to commence until 30 days after a copy of the approved construction access plan is served on the owners of the protected land and operators of pipelines.
+**23.**[^c-d84136dc5a555fa120b16adfa0f95182] (1) No works affecting access rights over the access roads are to commence until 30 days after a copy of the approved construction access plan is served on the owners of the protected land and operators of pipelines.
 
 (2) Where an owner of the protected land or an operator of a pipeline refers the construction access plan to an expert for determination under paragraph 34, no works affecting access rights over the access roads may commence until that determination has been provided.
 
 (3) In carrying out construction or maintenance works the undertaker must at all times comply with the construction access plan.
 
-### 24. Restriction on exercising powers[^key-d49d074667bcf13f27801450a0743a60]
+### 24. Restriction on exercising powers[^c-d49d074667bcf13f27801450a0743a60]
 
 (1) The undertaker must not in the exercise of the powers conferred by this Order acquire, appropriate, extinguish, suspend or override any rights in the protected land if the authorised development can reasonably and practicably be carried out without such acquisition, appropriation, extinguishment, suspension or override.
 
 (2) The undertaker must in the exercise of the powers conferred by this Order at all times act so as to minimise, as far as reasonably practicable, any detrimental effects on owners of the protected land and operators of the pipelines, including any disruption to access and supplies of utilities and other services that are required by them in order to carry out their operations.
 
-**25.**[^key-4b89e2350bea52d8eeb7a1f26fb07581] (1) The undertaker must not exercise the powers conferred by articles 24 (compulsory and other acquisition of rights) and 25 (power to override easements and other rights) to acquire, appropriate, extinguish, suspend or override any rights in the protected land relating to the pipelines or access to pipelines except in relation to unknown rights.
+**25.**[^c-4b89e2350bea52d8eeb7a1f26fb07581] (1) The undertaker must not exercise the powers conferred by articles 24 (compulsory and other acquisition of rights) and 25 (power to override easements and other rights) to acquire, appropriate, extinguish, suspend or override any rights in the protected land relating to the pipelines or access to pipelines except in relation to unknown rights.
 
 (2) Regardless of sub-paragraph (1) the undertaker must not exercise the identified powers unless one of the following consents has been given—
 
@@ -352,7 +352,7 @@ the undertaker or the owner or operator of the relevant pipeline may refer the m
 - (h) article 29 (rights under or over streets); and
 - (i) article 30 (temporary use of land for carrying out the authorised development).
 
-### 26. Insurance[^key-48bfd377441ba8381ce1e35c368b5758]
+### 26. Insurance[^c-48bfd377441ba8381ce1e35c368b5758]
 
 (1) Before carrying out any part of the authorised development on the protected land, the undertaker must put in place a policy of insurance with a reputable insurer against its liabilities under paragraph 28 in accordance with the terms and level of cover notified under sub-paragraph (2) or, in the case of dispute, in accordance with the terms and level of cover determined by an expert under paragraph 34, and evidence of that insurance must be provided on request to owners of the protected land and operators of pipelines.
 
@@ -360,12 +360,12 @@ the undertaker or the owner or operator of the relevant pipeline may refer the m
 
 (3) The undertaker must maintain insurance in relation to the authorised development affecting owners of the protected land and operators of pipelines during the construction, operation, maintenance, repair and decommissioning of the authorised development in the terms and at the level of cover specified in sub-paragraph (2) or at such level as may otherwise be determined by an expert under paragraph 34.
 
-**27.**[^key-71ecac0909be765a63628c6ff53c5db7] (1) If an owner of the protected land or operator of a pipeline has a dispute about the proposed insurance (including the terms or level of cover) to be provided under paragraph 26—
+**27.**[^c-71ecac0909be765a63628c6ff53c5db7] (1) If an owner of the protected land or operator of a pipeline has a dispute about the proposed insurance (including the terms or level of cover) to be provided under paragraph 26—
 
 - (a) the owner of the protected land or operator of a pipeline may refer the matter to an expert for determination under paragraph 34; and
 - (b) the undertaker may put in place an insurance policy it considers to be appropriate and continue with the authorised development at its own risk whilst the determination under paragraph 34 is complete, following which the undertaker must adjust the insurance policy if necessary to accord with the determination.
 
-### 28. Costs[^key-c5f2995d8c0e8f97e612a51335efe023]
+### 28. Costs[^c-c5f2995d8c0e8f97e612a51335efe023]
 
 (1) The undertaker must repay to owners of the protected land and operators of the pipelines all reasonable fees, costs, charges and expenses reasonably incurred by them in relation to these protective provisions in respect of—
 
@@ -393,23 +393,23 @@ and the fact that any act or thing may have been done by the owner of protected 
 
 (5) In the assessment of any sums payable to an owner or operator under this Schedule there must not be taken into account any increase in the sums claimed that is attributable to any action taken by, or any agreement entered into by, the owner or operator if that action or agreement was not reasonably necessary and was taken or entered into with a view to obtaining the payment of those sums by the undertaker under this Schedule or increasing the sums so payable.
 
-### 29. Further protection in relation to the exercise of powers under the Order[^key-68457c0f05af319edee17dcc14d4f613]
+### 29. Further protection in relation to the exercise of powers under the Order[^c-68457c0f05af319edee17dcc14d4f613]
 
 The undertaker must give written notice to the owners of the protected land and the operators of pipelines of the terms and level of cover of any guarantee or alternative form of security put in place under article 23 (guarantees in respect of payment of compensation) and any such notice must be given no later than 28 days before any such guarantee or alternative form of security is put in place specifying the date when the guarantee or alternative form of security comes into force.
 
-**30.**[^key-bea96c0588b6b99bc8310f546d538e7f] The undertaker must give written notice to the owners of the protected land and the operators of pipelines if any application is proposed to be made by the undertaker for the Secretary of State’s consent under article 8 (consent to transfer benefit of Order), and any such notice must be given no later than 28 days before any such application is made and must describe or give (as appropriate)—
+**30.**[^c-bea96c0588b6b99bc8310f546d538e7f] The undertaker must give written notice to the owners of the protected land and the operators of pipelines if any application is proposed to be made by the undertaker for the Secretary of State’s consent under article 8 (consent to transfer benefit of Order), and any such notice must be given no later than 28 days before any such application is made and must describe or give (as appropriate)—
 
 - (a) the nature of the application to be made;
 - (b) the extent of the geographical area to which the application relates; and
 - (c) the name and address of the person acting for the Secretary of State to whom the application is to be made.
 
-**31.**[^key-ebac8fed27cf326688ac7cef35ad37a3] The undertaker must, when requested to do so by an owner of the protected land or an operator of a pipeline, provide it with a complete set of the documents submitted to and certified by the Secretary of State in accordance with article 38 (certification of plans etc.) in the form of a computer disc with read only memory.
+**31.**[^c-ebac8fed27cf326688ac7cef35ad37a3] The undertaker must, when requested to do so by an owner of the protected land or an operator of a pipeline, provide it with a complete set of the documents submitted to and certified by the Secretary of State in accordance with article 38 (certification of plans etc.) in the form of a computer disc with read only memory.
 
-**32.**[^key-840d6e5d933ee81a92f6bf68c9bfc54b] The authorised development must be carried out in accordance with the methods and measures set out in the relevant constructability notes.
+**32.**[^c-840d6e5d933ee81a92f6bf68c9bfc54b] The authorised development must be carried out in accordance with the methods and measures set out in the relevant constructability notes.
 
-**33.**[^key-6faf7047dc1153c213fdd353286bda43] Prior to the commencement of the authorised development the undertaker must prepare an emergency response plan following consultation with the local emergency services and provide a copy of that plan to the owners of the protected land and the operators of the pipelines.
+**33.**[^c-6faf7047dc1153c213fdd353286bda43] Prior to the commencement of the authorised development the undertaker must prepare an emergency response plan following consultation with the local emergency services and provide a copy of that plan to the owners of the protected land and the operators of the pipelines.
 
-### 34. Expert determination[^key-c9c325773e853c706be660ed3e2249eb]
+### 34. Expert determination[^c-c9c325773e853c706be660ed3e2249eb]
 
 (1) Except as provided in sub-paragraph (7), article 40 (arbitration) does not apply to this Schedule.
 
@@ -443,72 +443,72 @@ The undertaker must give written notice to the owners of the protected land and 
 
 ## Annotations
 
-[^key-d1a4ab0b4c82d71fc3cff60801fc09a0]: Commencement: Sch. 9 para. 1 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-d1a4ab0b4c82d71fc3cff60801fc09a0]: Commencement: Sch. 9 para. 1 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-437d4141bbdb21495d5e77f9fa58250d]: Commencement: Sch. 9 para. 2 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-437d4141bbdb21495d5e77f9fa58250d]: Commencement: Sch. 9 para. 2 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
 [^f00040]: Footnote: [1962 c. 58](https://www.legislation.gov.uk/ukpga/1962/58). Section 65 was amended by section 89(1) of, and paragraphs 1 and 2 of Schedule 2 to, the Energy Act [2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [S.I. 2000/1937](https://www.legislation.gov.uk/uksi/2000/1937) and [S.I. 2011/2305](https://www.legislation.gov.uk/uksi/2011/2305).
 
-[^key-608089b431c31c090a59957a08843b4b]: Commencement: Sch. 9 para. 3 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-608089b431c31c090a59957a08843b4b]: Commencement: Sch. 9 para. 3 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-5a2baa4e4ba69df85563983bbe5d2385]: Commencement: Sch. 9 para. 4 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-5a2baa4e4ba69df85563983bbe5d2385]: Commencement: Sch. 9 para. 4 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-5fd34f177124a7236a2aae24d84a76a9]: Commencement: Sch. 9 para. 5 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-5fd34f177124a7236a2aae24d84a76a9]: Commencement: Sch. 9 para. 5 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-a0f4c5f0e26b1896bf94edf40bcbeac0]: Commencement: Sch. 9 para. 6 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-a0f4c5f0e26b1896bf94edf40bcbeac0]: Commencement: Sch. 9 para. 6 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-244d062b6186a1048c6c493eea747b4d]: Commencement: Sch. 9 para. 7 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-244d062b6186a1048c6c493eea747b4d]: Commencement: Sch. 9 para. 7 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-7e2610eb7abc1619af45b4edaad07dc9]: Commencement: Sch. 9 para. 8 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-7e2610eb7abc1619af45b4edaad07dc9]: Commencement: Sch. 9 para. 8 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-bf79c19d5915bf6d8f206a426f61c1bf]: Commencement: Sch. 9 para. 9 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-bf79c19d5915bf6d8f206a426f61c1bf]: Commencement: Sch. 9 para. 9 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-5d66a21c4ddde383a797680fff7ed2f2]: Commencement: Sch. 9 para. 10 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-5d66a21c4ddde383a797680fff7ed2f2]: Commencement: Sch. 9 para. 10 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-0811895d838010225bb7c7cd0bcbcb56]: Commencement: Sch. 9 para. 11 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-0811895d838010225bb7c7cd0bcbcb56]: Commencement: Sch. 9 para. 11 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-fd5e1a43f31d92e90c022bfbcd0a30f9]: Commencement: Sch. 9 para. 12 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-fd5e1a43f31d92e90c022bfbcd0a30f9]: Commencement: Sch. 9 para. 12 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-81ff9edc424142e01be1b7f3ab768037]: Commencement: Sch. 9 para. 13 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-81ff9edc424142e01be1b7f3ab768037]: Commencement: Sch. 9 para. 13 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-de50a2d749151b6fb77fd182a2aee15c]: Commencement: Sch. 9 para. 14 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-de50a2d749151b6fb77fd182a2aee15c]: Commencement: Sch. 9 para. 14 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-dbc149420eb6b7cb852f946e4186393c]: Commencement: Sch. 9 para. 15 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-dbc149420eb6b7cb852f946e4186393c]: Commencement: Sch. 9 para. 15 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-caa72d3bd17f187e25bb0331bf760a77]: Commencement: Sch. 9 para. 16 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-caa72d3bd17f187e25bb0331bf760a77]: Commencement: Sch. 9 para. 16 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-75b73c97a7e7dcd5add600de40399320]: Commencement: Sch. 9 para. 17 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-75b73c97a7e7dcd5add600de40399320]: Commencement: Sch. 9 para. 17 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-88352845e76d7d6e8703717f41410a3d]: Commencement: Sch. 9 para. 18 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-88352845e76d7d6e8703717f41410a3d]: Commencement: Sch. 9 para. 18 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-fc2d3a8f49984713aab7765c68d31a2a]: Commencement: Sch. 9 para. 19 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-fc2d3a8f49984713aab7765c68d31a2a]: Commencement: Sch. 9 para. 19 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-da21ca1daa233bfb3ea12a79926c3e46]: Commencement: Sch. 9 para. 20 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-da21ca1daa233bfb3ea12a79926c3e46]: Commencement: Sch. 9 para. 20 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-aa4d4f3a5665b1e578437f490679a5f1]: Commencement: Sch. 9 para. 21 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-aa4d4f3a5665b1e578437f490679a5f1]: Commencement: Sch. 9 para. 21 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-aca4425ede437140fb2ccc9cccf66375]: Commencement: Sch. 9 para. 22 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-aca4425ede437140fb2ccc9cccf66375]: Commencement: Sch. 9 para. 22 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-d84136dc5a555fa120b16adfa0f95182]: Commencement: Sch. 9 para. 23 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-d84136dc5a555fa120b16adfa0f95182]: Commencement: Sch. 9 para. 23 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-d49d074667bcf13f27801450a0743a60]: Commencement: Sch. 9 para. 24 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-d49d074667bcf13f27801450a0743a60]: Commencement: Sch. 9 para. 24 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-4b89e2350bea52d8eeb7a1f26fb07581]: Commencement: Sch. 9 para. 25 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-4b89e2350bea52d8eeb7a1f26fb07581]: Commencement: Sch. 9 para. 25 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-48bfd377441ba8381ce1e35c368b5758]: Commencement: Sch. 9 para. 26 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-48bfd377441ba8381ce1e35c368b5758]: Commencement: Sch. 9 para. 26 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-71ecac0909be765a63628c6ff53c5db7]: Commencement: Sch. 9 para. 27 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-71ecac0909be765a63628c6ff53c5db7]: Commencement: Sch. 9 para. 27 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-c5f2995d8c0e8f97e612a51335efe023]: Commencement: Sch. 9 para. 28 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-c5f2995d8c0e8f97e612a51335efe023]: Commencement: Sch. 9 para. 28 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-68457c0f05af319edee17dcc14d4f613]: Commencement: Sch. 9 para. 29 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-68457c0f05af319edee17dcc14d4f613]: Commencement: Sch. 9 para. 29 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-bea96c0588b6b99bc8310f546d538e7f]: Commencement: Sch. 9 para. 30 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-bea96c0588b6b99bc8310f546d538e7f]: Commencement: Sch. 9 para. 30 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-ebac8fed27cf326688ac7cef35ad37a3]: Commencement: Sch. 9 para. 31 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-ebac8fed27cf326688ac7cef35ad37a3]: Commencement: Sch. 9 para. 31 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-840d6e5d933ee81a92f6bf68c9bfc54b]: Commencement: Sch. 9 para. 32 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-840d6e5d933ee81a92f6bf68c9bfc54b]: Commencement: Sch. 9 para. 32 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-6faf7047dc1153c213fdd353286bda43]: Commencement: Sch. 9 para. 33 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-6faf7047dc1153c213fdd353286bda43]: Commencement: Sch. 9 para. 33 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-c9c325773e853c706be660ed3e2249eb]: Commencement: Sch. 9 para. 34 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-c9c325773e853c706be660ed3e2249eb]: Commencement: Sch. 9 para. 34 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)

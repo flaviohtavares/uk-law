@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Giving notification etc. under this Part[^key-a03b12f44c140ea7bec5e7c4879d2bd8]
+## 48. Giving notification etc. under this Part[^c-a03b12f44c140ea7bec5e7c4879d2bd8]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a03b12f44c140ea7bec5e7c4879d2bd8]: Commencement: [S. 48](https://www.legislation.gov.uk/anaw/2014/7/section/48) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(x)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/x)
+[^c-a03b12f44c140ea7bec5e7c4879d2bd8]: Commencement: [S. 48](https://www.legislation.gov.uk/anaw/2014/7/section/48) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(x)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/x)

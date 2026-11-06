@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Amendment and saving of the Tribunal Procedure (Upper Tribunal) Rules 2008[^key-f4d58a92f987ae1f99806bf0fe1067b6][^M_I_e808e1d8-8833-480f-c047-7d3ee000d24d]
+## 33. Amendment and saving of the Tribunal Procedure (Upper Tribunal) Rules 2008[^c-f4d58a92f987ae1f99806bf0fe1067b6][^M_I_e808e1d8-8833-480f-c047-7d3ee000d24d]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f4d58a92f987ae1f99806bf0fe1067b6]: Commencement: Reg. 33 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-f4d58a92f987ae1f99806bf0fe1067b6]: Commencement: Reg. 33 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_e808e1d8-8833-480f-c047-7d3ee000d24d]: Commencement: Reg. 33 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

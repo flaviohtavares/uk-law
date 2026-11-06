@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Administrators: further provision[^key-17e869e0c354746531fde69b85d80bc9]
+## 85. Administrators: further provision[^c-17e869e0c354746531fde69b85d80bc9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 1 which makes further provision about administrators appointed under ar
 
 ## Annotations
 
-[^key-17e869e0c354746531fde69b85d80bc9]: Commencement: [Art. 85](https://www.legislation.gov.uk/uksi/2005/3181/article/85) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-17e869e0c354746531fde69b85d80bc9]: Commencement: [Art. 85](https://www.legislation.gov.uk/uksi/2005/3181/article/85) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

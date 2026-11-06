@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Power to direct transfer of building society's business[^key-2e706f4574f815abb80ceeb374145b23]
+## 56. Power to direct transfer of building society's business[^c-2e706f4574f815abb80ceeb374145b23]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e706f4574f815abb80ceeb374145b23]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2012/21/section/56) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-2e706f4574f815abb80ceeb374145b23]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2012/21/section/56) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

@@ -47,24 +47,24 @@ Coming into force
 
 In exercise of powers conferred by section 20B(1), (3) and (8) of the Opticians Act 1958[^f00001] and of all other powers enabling me in that behalf, I hereby make the following Regulations:–
 
-## 1. Citation and commencement[^key-1ce2a2fe4053b9737c85cc71264a0b40]
+## 1. Citation and commencement[^c-1ce2a2fe4053b9737c85cc71264a0b40]
 
 These Regulations may be cited as the Sight Testing (Examination and Prescription) (No. 2) Regulations 1989 and shall come into force on 31st July 1989.
 
-## 2. Interpretation[^key-26b84a2945da90e0bab66fbfb763042a]
+## 2. Interpretation[^c-26b84a2945da90e0bab66fbfb763042a]
 
 (1) In these Regulations, unless the context otherwise requires–
 
 - “the Act” means the Opticians Act 1958;
-- “doctor” means a fully registered person within the meaning of the Medical Act 1983[^f00002] who holds a licence to practise[^key-9cbcf345a9b22edef814ca673ec1fc88];
-- “optometrist” means a registered optometrist;[^key-b2dd77461c770d77a54f9b19f16403d1]
+- “doctor” means a fully registered person within the meaning of the Medical Act 1983[^f00002] who holds a licence to practise[^c-9cbcf345a9b22edef814ca673ec1fc88];
+- “optometrist” means a registered optometrist;[^c-b2dd77461c770d77a54f9b19f16403d1]
 - “patient” means a person whose sight has been tested.
 
 (2) Unless the context otherwise requires, any reference in these Regulations to a numbered regulation is a reference to the regulation bearing that number in these Regulations, and any reference in a regulation to a numbered paragraph is a reference to the paragraph bearing that number in that regulation.
 
-## 3. Examination[^key-194393e28e6d4bceab87e49eff3c8830]
+## 3. Examination[^c-194393e28e6d4bceab87e49eff3c8830]
 
-(1) Subject to the exceptions specified in [^key-6c00dd60641fe9a80cdb7e164759c750]paragraphs (2) and (3)[^key-b1a5d4ca8ccc175ec31c392a64315df1], when a doctor or optometrist[^key-2dd36876cd774d90684dec3f432cb91d] tests the sight of another person, it shall be his duty–
+(1) Subject to the exceptions specified in [^c-6c00dd60641fe9a80cdb7e164759c750]paragraphs (2) and (3)[^c-b1a5d4ca8ccc175ec31c392a64315df1], when a doctor or optometrist[^c-2dd36876cd774d90684dec3f432cb91d] tests the sight of another person, it shall be his duty–
 
 - (a) to perform, for the purpose of detecting signs of injury, disease or abnormality in the eye or elsewhere–
   - (i) an examination of the external surface of the eye and its immediate vicinity,
@@ -72,29 +72,29 @@ These Regulations may be cited as the Sight Testing (Examination and Prescriptio
   - (iii) such additional examinations as appear to the doctor or optometrist to be clinically necessary; and
 - (b) immediately following the test to give to the patient a written statement–
   - (i) that he has carried out the examinations required by sub-paragraph (a) of this paragraph, and
-  - (ii) that he is or (as the case may be) is not referring the patient to a doctor, and[^key-e4f4b47b14b6479d0e63fc5426d0cde7]
+  - (ii) that he is or (as the case may be) is not referring the patient to a doctor, and[^c-e4f4b47b14b6479d0e63fc5426d0cde7]
   - (iii) if he is referring the patient to a doctor, setting out the reason for the referral..
 
 (2) The provisions of paragraph (1) do not apply where the testing of sight is carried out by a doctor at a hospital or clinic in the course of diagnosing or treating injury or disease of the eye.
 
-(3)[^key-527041a0e98a0576eca27738a546ae88] In England, the provisions of paragraph (1)(b)(ii) do not apply where the doctor or optometrist refers the patient to an ophthalmic hospital, in accordance with regulation 13(3) of the General Ophthalmic Contracts Regulations 2008.[^key-b15d1757e1c9a7ffeb56df21eb648d2c]
+(3)[^c-527041a0e98a0576eca27738a546ae88] In England, the provisions of paragraph (1)(b)(ii) do not apply where the doctor or optometrist refers the patient to an ophthalmic hospital, in accordance with regulation 13(3) of the General Ophthalmic Contracts Regulations 2008.[^c-b15d1757e1c9a7ffeb56df21eb648d2c]
 
-(3)[^key-3cf3091c26e390fc5424e15f497bd34b] In Scotland, the provisions of paragraphs (1)(b)(ii) do not apply where the doctor or optometrist refers the patient to an ophthalmic hospital, in accordance with paragraph 14(4) of Schedule 1 to the National Health Service (General Ophthalmic Services) (Scotland) Regulations 2006.
+(3)[^c-3cf3091c26e390fc5424e15f497bd34b] In Scotland, the provisions of paragraphs (1)(b)(ii) do not apply where the doctor or optometrist refers the patient to an ophthalmic hospital, in accordance with paragraph 14(4) of Schedule 1 to the National Health Service (General Ophthalmic Services) (Scotland) Regulations 2006.
 
-## 4. Exceptions to the duty to issue a prescription or statement[^key-7d62cb9c96b24ef7b89323a45c1bdb7b]
+## 4. Exceptions to the duty to issue a prescription or statement[^c-7d62cb9c96b24ef7b89323a45c1bdb7b]
 
-The duty which section 20B(2) of the Act imposes on doctors and optometrists[^key-d79cbf0c9bfdfaaaad6a3a66a3c268b0] (to issue a prescription or a statement after testing a patient’s sight) shall not arise where–
+The duty which section 20B(2) of the Act imposes on doctors and optometrists[^c-d79cbf0c9bfdfaaaad6a3a66a3c268b0] (to issue a prescription or a statement after testing a patient’s sight) shall not arise where–
 
 - (a) the doctor or optometrist who has tested the patient’s sight refers the patient to his doctor for further investigation or treatment;
-- (b) the sight test was carried out as part of a general medical examination including such an examination for insurance purposes, within the meaning of section 2(1) of the Access to Medical Reports Act 1988[^f00003], or for employment purposes, within the meaning of section 2(1) of that Act; [^key-9374049712464ae0661fe56fe94f01c3]...
-- (c) the patient was resident in a hospital or a clinic, for the purposes of treatment, when his sight was tested ; or[^key-a011ebfaac590a2e5d998fa5ae571b75]
+- (b) the sight test was carried out as part of a general medical examination including such an examination for insurance purposes, within the meaning of section 2(1) of the Access to Medical Reports Act 1988[^f00003], or for employment purposes, within the meaning of section 2(1) of that Act; [^c-9374049712464ae0661fe56fe94f01c3]...
+- (c) the patient was resident in a hospital or a clinic, for the purposes of treatment, when his sight was tested ; or[^c-a011ebfaac590a2e5d998fa5ae571b75]
 - (d) the patient is being fitted with contact lenses as part of the medical or clinical treatment provided for an eye condition..
 
-## 5. Particulars to be included in a prescription or statement[^key-4152fff590139c02df54292ea38eb6fc]
+## 5. Particulars to be included in a prescription or statement[^c-4152fff590139c02df54292ea38eb6fc]
 
 (1) A prescription provided in fulfilment of the duty imposed by section 20B(2) of the Act shall include–
 
-- (a) particulars of any spherical power of each lens to be included in the appliance prescribed and, where appropriate, particulars of the cylindrical power (including particulars of its axis), prismatic power (including particulars of the orientation of the prism) and near addition of each such lens and such other particulars as may be necessary to enable each lens to be replicated[^key-681c0552146fca61ad7baf01cd02e144];
+- (a) particulars of any spherical power of each lens to be included in the appliance prescribed and, where appropriate, particulars of the cylindrical power (including particulars of its axis), prismatic power (including particulars of the orientation of the prism) and near addition of each such lens and such other particulars as may be necessary to enable each lens to be replicated[^c-681c0552146fca61ad7baf01cd02e144];
 - (b) the date of the testing of sight;
 - (c) the name and address of the patient and, if he is under the age of 16, his date of birth;
 - (d) the name and practice address of the doctor or optometrist who carried out the testing of sight;
@@ -105,7 +105,7 @@ The duty which section 20B(2) of the Act imposes on doctors and optometrists[^ke
 
 (2) The statement provided in fulfilment of the duty imposed by section 20B(2) of the Act shall (in addition to stating that the patient does not need to wear or use an optical appliance) include the particulars specified in paragraph (1)(b), (c), (d) and (e).
 
-## 6. Revocation[^key-3b0ac02643f24107338edc019212d6bf]
+## 6. Revocation[^c-3b0ac02643f24107338edc019212d6bf]
 
 The Sight Testing (Examination and Prescription) Regulations 1989[^f00004] are hereby revoked.
 
@@ -125,46 +125,46 @@ Regulation 6 revokes the Sight Testing (Examination and Prescription) Regulation
 
 [^f00001]: Footnote: [1958 c. 32](https://www.legislation.gov.uk/ukpga/1958/32); section 20B was inserted by section 14 of the Health and Medicines Act [1988 (c. 49)](https://www.legislation.gov.uk/ukpga/1988/49).
 
-[^key-1ce2a2fe4053b9737c85cc71264a0b40]: Commencement: Reg. 1 in force at 31.7.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1230/regulation/1)
+[^c-1ce2a2fe4053b9737c85cc71264a0b40]: Commencement: Reg. 1 in force at 31.7.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1230/regulation/1)
 
-[^key-26b84a2945da90e0bab66fbfb763042a]: Commencement: Reg. 2 in force at 31.7.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1230/regulation/1)
+[^c-26b84a2945da90e0bab66fbfb763042a]: Commencement: Reg. 2 in force at 31.7.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1230/regulation/1)
 
 [^f00002]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54).
 
-[^key-9cbcf345a9b22edef814ca673ec1fc88]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1989/1230/regulation/2/1) inserted (16.11.2009 as notified in the London Gazette dated 21.8.2009) by [The Medical Act 1983 (Amendment) Order 2002 (S.I. 2002/3135)](https://www.legislation.gov.uk/uksi/2002/3135), [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/3135/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/3135/article/1/3), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2002/3135/schedule/1/paragraph/26) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2002/3135/schedule/2))
+[^c-9cbcf345a9b22edef814ca673ec1fc88]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1989/1230/regulation/2/1) inserted (16.11.2009 as notified in the London Gazette dated 21.8.2009) by [The Medical Act 1983 (Amendment) Order 2002 (S.I. 2002/3135)](https://www.legislation.gov.uk/uksi/2002/3135), [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/3135/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/3135/article/1/3), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2002/3135/schedule/1/paragraph/26) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2002/3135/schedule/2))
 
-[^key-b2dd77461c770d77a54f9b19f16403d1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1989/1230/regulation/2/1) substituted (30.6.2005 as notified in the London Gazette dated 3.6.2005) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 22(a)](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/22/a)
+[^c-b2dd77461c770d77a54f9b19f16403d1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1989/1230/regulation/2/1) substituted (30.6.2005 as notified in the London Gazette dated 3.6.2005) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 22(a)](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/22/a)
 
-[^key-194393e28e6d4bceab87e49eff3c8830]: Commencement: Reg. 3 in force at 31.7.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1230/regulation/1)
+[^c-194393e28e6d4bceab87e49eff3c8830]: Commencement: Reg. 3 in force at 31.7.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1230/regulation/1)
 
-[^key-6c00dd60641fe9a80cdb7e164759c750]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1989/1230/regulation/3/1) substituted (S.) (1.4.2006) by [The Sight Testing (Examination and Prescription) Amendment (Scotland) Regulations 2006 (S.S.I. 2006/134)](https://www.legislation.gov.uk/ssi/2006/134), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2006/134/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2006/134/regulation/2/2)
+[^c-6c00dd60641fe9a80cdb7e164759c750]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1989/1230/regulation/3/1) substituted (S.) (1.4.2006) by [The Sight Testing (Examination and Prescription) Amendment (Scotland) Regulations 2006 (S.S.I. 2006/134)](https://www.legislation.gov.uk/ssi/2006/134), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2006/134/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2006/134/regulation/2/2)
 
-[^key-b1a5d4ca8ccc175ec31c392a64315df1]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1989/1230/regulation/3/1) substituted (E.) (1.4.2005) by [The National Health Service (General Ophthalmic Services Supplementary List) and (General Ophthalmic Services Amendment and Consequential Amendment) Regulations 2005 (S.I. 2005/480)](https://www.legislation.gov.uk/uksi/2005/480), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/480/regulation/1/1), [42(a)](https://www.legislation.gov.uk/uksi/2005/480/regulation/42/a)
+[^c-b1a5d4ca8ccc175ec31c392a64315df1]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1989/1230/regulation/3/1) substituted (E.) (1.4.2005) by [The National Health Service (General Ophthalmic Services Supplementary List) and (General Ophthalmic Services Amendment and Consequential Amendment) Regulations 2005 (S.I. 2005/480)](https://www.legislation.gov.uk/uksi/2005/480), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/480/regulation/1/1), [42(a)](https://www.legislation.gov.uk/uksi/2005/480/regulation/42/a)
 
-[^key-2dd36876cd774d90684dec3f432cb91d]: Textual amendment: Word in [Regulation](https://www.legislation.gov.uk/uksi/1989/1230) substituted (30.6.2005 as notified in the London Gazette dated 3.6.2005) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 22(b)](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/22/b)
+[^c-2dd36876cd774d90684dec3f432cb91d]: Textual amendment: Word in [Regulation](https://www.legislation.gov.uk/uksi/1989/1230) substituted (30.6.2005 as notified in the London Gazette dated 3.6.2005) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 22(b)](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/22/b)
 
-[^key-e4f4b47b14b6479d0e63fc5426d0cde7]: Textual amendment: [Reg. 3(1)(b)(iii)](https://www.legislation.gov.uk/uksi/1989/1230/regulation/3/1/b/iii) and word added (30.6.2005 as notified in the London Gazette dated 3.6.2005) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 22(c)](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/22/c)
+[^c-e4f4b47b14b6479d0e63fc5426d0cde7]: Textual amendment: [Reg. 3(1)(b)(iii)](https://www.legislation.gov.uk/uksi/1989/1230/regulation/3/1/b/iii) and word added (30.6.2005 as notified in the London Gazette dated 3.6.2005) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 22(c)](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/22/c)
 
-[^key-527041a0e98a0576eca27738a546ae88]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/1989/1230/regulation/3/3) added (E.) (1.4.2005) by [The National Health Service (General Ophthalmic Services Supplementary List) and (General Ophthalmic Services Amendment and Consequential Amendment) Regulations 2005 (S.I. 2005/480)](https://www.legislation.gov.uk/uksi/2005/480), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/480/regulation/1/1), [42(b)](https://www.legislation.gov.uk/uksi/2005/480/regulation/42/b)
+[^c-527041a0e98a0576eca27738a546ae88]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/1989/1230/regulation/3/3) added (E.) (1.4.2005) by [The National Health Service (General Ophthalmic Services Supplementary List) and (General Ophthalmic Services Amendment and Consequential Amendment) Regulations 2005 (S.I. 2005/480)](https://www.legislation.gov.uk/uksi/2005/480), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/480/regulation/1/1), [42(b)](https://www.legislation.gov.uk/uksi/2005/480/regulation/42/b)
 
-[^key-b15d1757e1c9a7ffeb56df21eb648d2c]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/1989/1230/regulation/3/3) substituted (E.) (1.8.2008) by [The Primary Ophthalmic Services Amendment, Transitional and Consequential Provisions Regulations 2008 (S.I. 2008/1700)](https://www.legislation.gov.uk/uksi/2008/1700), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2008/1700/schedule/1/paragraph/1)
+[^c-b15d1757e1c9a7ffeb56df21eb648d2c]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/1989/1230/regulation/3/3) substituted (E.) (1.8.2008) by [The Primary Ophthalmic Services Amendment, Transitional and Consequential Provisions Regulations 2008 (S.I. 2008/1700)](https://www.legislation.gov.uk/uksi/2008/1700), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1700/regulation/1/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2008/1700/schedule/1/paragraph/1)
 
-[^key-3cf3091c26e390fc5424e15f497bd34b]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/1989/1230/regulation/3/3) inserted (S.) (1.4.2006) by [The Sight Testing (Examination and Prescription) Amendment (Scotland) Regulations 2006 (S.S.I. 2006/134)](https://www.legislation.gov.uk/ssi/2006/134), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2006/134/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2006/134/regulation/2/3)
+[^c-3cf3091c26e390fc5424e15f497bd34b]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/1989/1230/regulation/3/3) inserted (S.) (1.4.2006) by [The Sight Testing (Examination and Prescription) Amendment (Scotland) Regulations 2006 (S.S.I. 2006/134)](https://www.legislation.gov.uk/ssi/2006/134), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2006/134/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2006/134/regulation/2/3)
 
-[^key-7d62cb9c96b24ef7b89323a45c1bdb7b]: Commencement: Reg. 4 in force at 31.7.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1230/regulation/1)
+[^c-7d62cb9c96b24ef7b89323a45c1bdb7b]: Commencement: Reg. 4 in force at 31.7.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1230/regulation/1)
 
-[^key-d79cbf0c9bfdfaaaad6a3a66a3c268b0]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/uksi/1989/1230/regulation/4) substituted (30.6.2005 as notified in the London Gazette dated 3.6.2005) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 22(d)](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/22/d)
+[^c-d79cbf0c9bfdfaaaad6a3a66a3c268b0]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/uksi/1989/1230/regulation/4) substituted (30.6.2005 as notified in the London Gazette dated 3.6.2005) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 22(d)](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/22/d)
 
 [^f00003]: Footnote: [1988 c. 28](https://www.legislation.gov.uk/ukpga/1988/28).
 
-[^key-9374049712464ae0661fe56fe94f01c3]: Textual amendment: Word in [reg. 4(b)](https://www.legislation.gov.uk/uksi/1989/1230/regulation/4/b) omitted (30.6.2005) by virtue of [The Contact Lens (Specification) and Miscellaneous Amendments Regulations 2005 (S.I. 2005/1481)](https://www.legislation.gov.uk/uksi/2005/1481), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1481/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2005/1481/regulation/5/a)
+[^c-9374049712464ae0661fe56fe94f01c3]: Textual amendment: Word in [reg. 4(b)](https://www.legislation.gov.uk/uksi/1989/1230/regulation/4/b) omitted (30.6.2005) by virtue of [The Contact Lens (Specification) and Miscellaneous Amendments Regulations 2005 (S.I. 2005/1481)](https://www.legislation.gov.uk/uksi/2005/1481), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1481/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2005/1481/regulation/5/a)
 
-[^key-a011ebfaac590a2e5d998fa5ae571b75]: Textual amendment: [Reg. 4(d)](https://www.legislation.gov.uk/uksi/1989/1230/regulation/4/d) and word inserted (30.6.2005) by [The Contact Lens (Specification) and Miscellaneous Amendments Regulations 2005 (S.I. 2005/1481)](https://www.legislation.gov.uk/uksi/2005/1481), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1481/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2005/1481/regulation/5/b)
+[^c-a011ebfaac590a2e5d998fa5ae571b75]: Textual amendment: [Reg. 4(d)](https://www.legislation.gov.uk/uksi/1989/1230/regulation/4/d) and word inserted (30.6.2005) by [The Contact Lens (Specification) and Miscellaneous Amendments Regulations 2005 (S.I. 2005/1481)](https://www.legislation.gov.uk/uksi/2005/1481), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1481/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2005/1481/regulation/5/b)
 
-[^key-4152fff590139c02df54292ea38eb6fc]: Commencement: Reg. 5 in force at 31.7.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1230/regulation/1)
+[^c-4152fff590139c02df54292ea38eb6fc]: Commencement: Reg. 5 in force at 31.7.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1230/regulation/1)
 
-[^key-681c0552146fca61ad7baf01cd02e144]: Textual amendment: Words in [reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/1989/1230/regulation/5/1/a) added (30.6.2005 as notified in the London Gazette dated 3.6.2005) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 22(e)](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/22/e)
+[^c-681c0552146fca61ad7baf01cd02e144]: Textual amendment: Words in [reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/1989/1230/regulation/5/1/a) added (30.6.2005 as notified in the London Gazette dated 3.6.2005) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 22(e)](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/22/e)
 
-[^key-3b0ac02643f24107338edc019212d6bf]: Commencement: Reg. 6 in force at 31.7.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1230/regulation/1)
+[^c-3b0ac02643f24107338edc019212d6bf]: Commencement: Reg. 6 in force at 31.7.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1230/regulation/1)
 
 [^f00004]: Footnote: S.I. [1989/1176](https://www.legislation.gov.uk/uksi/1989/1176).

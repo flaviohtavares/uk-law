@@ -47,13 +47,13 @@ may jointly elect for this section not to apply (but see section 195).
 
 (7) If—
 
-- (a) an election is made under section 178 of CTA 2009[^key-47b9bd761d9d017aa25b16d30e167378] (corresponding corporation tax provision), and
-- (b) the person making the acquisition mentioned in that section[^key-9d61bdbea0383ec85df22113fc49c7de] is within the charge to income tax,
+- (a) an election is made under section 178 of CTA 2009[^c-47b9bd761d9d017aa25b16d30e167378] (corresponding corporation tax provision), and
+- (b) the person making the acquisition mentioned in that section[^c-9d61bdbea0383ec85df22113fc49c7de] is within the charge to income tax,
 
 the persons making the election under that section are treated as also making an election under this section (even though the person disposing of the know-how is not within the charge to income tax).
 
 ## Annotations
 
-[^key-47b9bd761d9d017aa25b16d30e167378]: Textual amendment: Words in s. 194(7)(a) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 611(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/611/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-47b9bd761d9d017aa25b16d30e167378]: Textual amendment: Words in s. 194(7)(a) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 611(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/611/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-9d61bdbea0383ec85df22113fc49c7de]: Textual amendment: Words in s. 194(7) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 611(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/611/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-9d61bdbea0383ec85df22113fc49c7de]: Textual amendment: Words in s. 194(7) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 611(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/611/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

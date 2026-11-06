@@ -70,25 +70,25 @@ The measures provided for in this Regulation are in accordance with the opinion 
 
 HAS ADOPTED THIS REGULATION:
 
-**Article 1.**[^key-bf4357d5e9f93463838dc8951e2dbc09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-bf4357d5e9f93463838dc8951e2dbc09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.** 1. The notifications of the volumes of raw milk covered by contractual negotiations referred to in Article 149(2)(f) of Regulation (EU) No 1308/2013[^key-89373f5d1a6ea5c6f30d26186645d805] shall be made to the Competition and Markets Authority[^key-cd680f4d85241e5a86db76613acc789e].
+**Article 2.** 1. The notifications of the volumes of raw milk covered by contractual negotiations referred to in Article 149(2)(f) of Regulation (EU) No 1308/2013[^c-89373f5d1a6ea5c6f30d26186645d805] shall be made to the Competition and Markets Authority[^c-cd680f4d85241e5a86db76613acc789e].
 
 2. A notification referred to in paragraph 1 shall be made before the start of negotiations and shall indicate the producer organisation's or the association's estimate of production volume to be covered by the negotiation and the expected time period of delivery of the raw milk volume.
 
-3. By 31 January each year, each producer organisation or association shall, in addition to the notification referred to in paragraph 1, notify the volume of raw milk [^key-99ba05d87dc296acc9aba944a8c94b48]... that was actually delivered under the contracts negotiated by the producer organisation in the previous calendar year.
+3. By 31 January each year, each producer organisation or association shall, in addition to the notification referred to in paragraph 1, notify the volume of raw milk [^c-99ba05d87dc296acc9aba944a8c94b48]... that was actually delivered under the contracts negotiated by the producer organisation in the previous calendar year.
 
-**Article 3.**[^key-cfd5f399c01a721485b338be856cc5a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-cfd5f399c01a721485b338be856cc5a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-cfd5f399c01a721485b338be856cc5a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-cfd5f399c01a721485b338be856cc5a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-cfd5f399c01a721485b338be856cc5a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-cfd5f399c01a721485b338be856cc5a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5a.**[^key-cfd5f399c01a721485b338be856cc5a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5a.**[^c-cfd5f399c01a721485b338be856cc5a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Article 6.** This Regulation shall enter into force on the third day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-3e9fc0a37656612630aec1be01e6bebd]...
+[^c-3e9fc0a37656612630aec1be01e6bebd]...
 
 ## Annotations
 
@@ -96,14 +96,14 @@ HAS ADOPTED THIS REGULATION:
 
 [^f00002]: Footnote: [OJ L 94, 30.3.2012, p. 38](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2012.094.01.0038.01.ENG).
 
-[^key-bf4357d5e9f93463838dc8951e2dbc09]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eur/2012/511/article/1) omitted (31.12.2020) by virtue of [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bf4357d5e9f93463838dc8951e2dbc09]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eur/2012/511/article/1) omitted (31.12.2020) by virtue of [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-89373f5d1a6ea5c6f30d26186645d805]: Textual amendment: Words in Art. 2(1) substituted (31.12.2020) by [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [4(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/4/3/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-89373f5d1a6ea5c6f30d26186645d805]: Textual amendment: Words in Art. 2(1) substituted (31.12.2020) by [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [4(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/4/3/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cd680f4d85241e5a86db76613acc789e]: Textual amendment: Words in Art. 2(1) substituted (31.12.2020) by [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [4(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/4/3/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cd680f4d85241e5a86db76613acc789e]: Textual amendment: Words in Art. 2(1) substituted (31.12.2020) by [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [4(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/4/3/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-99ba05d87dc296acc9aba944a8c94b48]: Textual amendment: Words in Art. 2(3) omitted (31.12.2020) by virtue of [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [4(3)(b)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/4/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-99ba05d87dc296acc9aba944a8c94b48]: Textual amendment: Words in Art. 2(3) omitted (31.12.2020) by virtue of [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [4(3)(b)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/4/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cfd5f399c01a721485b338be856cc5a2]: Textual amendment: [Arts. 3-5a](https://www.legislation.gov.uk/eur/2012/511/article/3) omitted (31.12.2020) by virtue of [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [4(4)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cfd5f399c01a721485b338be856cc5a2]: Textual amendment: [Arts. 3-5a](https://www.legislation.gov.uk/eur/2012/511/article/3) omitted (31.12.2020) by virtue of [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [4(4)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3e9fc0a37656612630aec1be01e6bebd]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2012/511/signature) omitted (31.12.2020) by virtue of [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [4(5)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/4/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3e9fc0a37656612630aec1be01e6bebd]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2012/511/signature) omitted (31.12.2020) by virtue of [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [4(5)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/4/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

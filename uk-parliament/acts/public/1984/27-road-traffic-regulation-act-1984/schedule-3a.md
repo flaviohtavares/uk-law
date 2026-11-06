@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## Schedule 3A — Licensing of provision of micromobility vehicles[^key-095a9991e0bea6659e5469f8a4178495]
+## Schedule 3A — Licensing of provision of micromobility vehicles[^c-095a9991e0bea6659e5469f8a4178495]
 
 *Extent: E+W*
 
@@ -151,4 +151,4 @@ The regulations may provide that a person is guilty of an offence if they—
 
 ## Annotations
 
-[^key-095a9991e0bea6659e5469f8a4178495]: Textual amendment: Sch. 3A inserted (E.W.) (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 7 para. 1(3)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/7/paragraph/1/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-095a9991e0bea6659e5469f8a4178495]: Textual amendment: Sch. 3A inserted (E.W.) (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 7 para. 1(3)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/7/paragraph/1/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

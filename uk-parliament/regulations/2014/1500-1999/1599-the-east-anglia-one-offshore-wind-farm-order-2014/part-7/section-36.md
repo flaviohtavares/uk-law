@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Abatement of works abandoned or decayed[^key-4c1927da1ce14734722635c3cbc858fe]
+## 36. Abatement of works abandoned or decayed[^c-4c1927da1ce14734722635c3cbc858fe]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Where Work No. 1(a) to (c) and Work No. 2 or any part of it is abandoned or allo
 
 ## Annotations
 
-[^key-4c1927da1ce14734722635c3cbc858fe]: Commencement: Art. 36 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-4c1927da1ce14734722635c3cbc858fe]: Commencement: Art. 36 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)

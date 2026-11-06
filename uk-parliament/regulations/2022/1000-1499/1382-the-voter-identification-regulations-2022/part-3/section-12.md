@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Notification following determination[^key-5d98f0866c1447fe1504a48e19fd58e9]
+## 12. Notification following determination[^c-5d98f0866c1447fe1504a48e19fd58e9]
 
 *Extent: E+W+S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5d98f0866c1447fe1504a48e19fd58e9]: Commencement: Reg. 12 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-5d98f0866c1447fe1504a48e19fd58e9]: Commencement: Reg. 12 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
 
 [^f00049]: Footnote: Section 56(1) was amended by paragraph 1 of Schedule 2, and paragraph 16 of Schedule 4, to the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50); by paragraph 14 of Schedule 1 to the Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2); by paragraph 8 of Schedule 1 to the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22); by paragraph 18 of Schedule 4 to the Electoral Registration and Administration Act [2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6); and by paragraph 5 of Schedule 1 to the Elections Act [2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37). It is prospectively amended by section 18(9) of the Local Government and Elections (Wales) Act 2021 (asc 1) from a date and time to be appointed.

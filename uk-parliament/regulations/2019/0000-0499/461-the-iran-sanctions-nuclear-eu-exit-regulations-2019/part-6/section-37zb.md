@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37ZB. Finance: exceptions relating to insurance and reinsurance services[^key-8b22d308f43c4b951915fc6f476ab9c9]
+## 37ZB. Finance: exceptions relating to insurance and reinsurance services[^c-8b22d308f43c4b951915fc6f476ab9c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b22d308f43c4b951915fc6f476ab9c9]: Textual amendment: [Reg. 37ZB](https://www.legislation.gov.uk/uksi/2019/461/regulation/37ZB) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2026/983/regulation/9/a)
+[^c-8b22d308f43c4b951915fc6f476ab9c9]: Textual amendment: [Reg. 37ZB](https://www.legislation.gov.uk/uksi/2019/461/regulation/37ZB) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2026/983/regulation/9/a)

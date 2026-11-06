@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Power to appoint allocation bodies[^key-bf7b2852c3f389cb528409b24fd7b5f5]
+## 73. Power to appoint allocation bodies[^c-bf7b2852c3f389cb528409b24fd7b5f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf7b2852c3f389cb528409b24fd7b5f5]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2023/52/section/73) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-bf7b2852c3f389cb528409b24fd7b5f5]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2023/52/section/73) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

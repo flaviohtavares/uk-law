@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Handling complaints[^key-cb0f3e011193378bb611d4f4b0cbe342]
+## 62. Handling complaints[^c-cb0f3e011193378bb611d4f4b0cbe342]
 
 *Extent: S*
 
@@ -91,4 +91,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb0f3e011193378bb611d4f4b0cbe342]: Commencement: S. 62 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-cb0f3e011193378bb611d4f4b0cbe342]: Commencement: S. 62 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

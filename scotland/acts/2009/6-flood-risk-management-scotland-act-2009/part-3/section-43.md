@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Power of SEPA to obtain information, documents and assistance[^key-b9c838317caaff903743e8892d1a2eeb]
+## 43. Power of SEPA to obtain information, documents and assistance[^c-b9c838317caaff903743e8892d1a2eeb]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ as it may reasonably require in connection with the exercise of any of the funct
 
 ## Annotations
 
-[^key-b9c838317caaff903743e8892d1a2eeb]: Commencement: S. 43 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-b9c838317caaff903743e8892d1a2eeb]: Commencement: S. 43 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

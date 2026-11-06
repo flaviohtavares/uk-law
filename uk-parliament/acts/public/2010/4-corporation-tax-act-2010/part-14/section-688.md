@@ -24,7 +24,7 @@ summary: ''
 
 (2) There is a significant increase in the amount of a company's capital if amount B—
 
-- (a) exceeds amount A by at least £1 million, , and[^key-5f2a803572c8a8bbbc88264be0a59c29]
+- (a) exceeds amount A by at least £1 million, , and[^c-5f2a803572c8a8bbbc88264be0a59c29]
 - (b) is at least 125% of amount A.
 
 (3) For the meaning of—
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f2a803572c8a8bbbc88264be0a59c29]: Textual amendment: S. 688(2)(b) and word substituted (with effect in accordance with s. 37(6) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 37(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/37/2)
+[^c-5f2a803572c8a8bbbc88264be0a59c29]: Textual amendment: S. 688(2)(b) and word substituted (with effect in accordance with s. 37(6) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 37(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/37/2)

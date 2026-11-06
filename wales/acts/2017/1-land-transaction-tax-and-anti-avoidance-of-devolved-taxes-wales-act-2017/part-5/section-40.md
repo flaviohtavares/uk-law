@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Joint buyers: appeals and reviews[^key-f5db12890256fc42a1c8fce15544ea21]
+## 40. Joint buyers: appeals and reviews[^c-f5db12890256fc42a1c8fce15544ea21]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5db12890256fc42a1c8fce15544ea21]: Commencement: [S. 40](https://www.legislation.gov.uk/anaw/2017/1/section/40) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-f5db12890256fc42a1c8fce15544ea21]: Commencement: [S. 40](https://www.legislation.gov.uk/anaw/2017/1/section/40) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

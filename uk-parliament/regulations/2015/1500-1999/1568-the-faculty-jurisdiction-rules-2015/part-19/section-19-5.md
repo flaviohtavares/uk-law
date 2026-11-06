@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 19.5. Security for costs[^key-e539710750bad04618753ad7011bbb74]
+## 19.5. Security for costs[^c-e539710750bad04618753ad7011bbb74]
 
 *Extent: E*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e539710750bad04618753ad7011bbb74]: Commencement: [Rule 19.5](https://www.legislation.gov.uk/uksi/2015/1568/article/19.5) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-e539710750bad04618753ad7011bbb74]: Commencement: [Rule 19.5](https://www.legislation.gov.uk/uksi/2015/1568/article/19.5) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

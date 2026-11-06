@@ -28,7 +28,7 @@ summary: ''
 - (b) have attained the age of 18 years; and
 - (c) are elected by the members of the club.
 
-This subsection is subject to section 65 (which makes special provision for registered societies[^key-c7ef4dc34953bb08101a20a376258073], friendly societies etc.).
+This subsection is subject to section 65 (which makes special provision for registered societies[^c-c7ef4dc34953bb08101a20a376258073], friendly societies etc.).
 
 (3) Additional condition 2 is that no arrangements are, or are intended to be, made for any person to receive at the expense of the club any commission, percentage or similar payment on, or with reference to, purchases of alcohol by the club.
 
@@ -39,4 +39,4 @@ This subsection is subject to section 65 (which makes special provision for regi
 
 ## Annotations
 
-[^key-c7ef4dc34953bb08101a20a376258073]: Textual amendment: Words in s. 64(2) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 84](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/84) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-c7ef4dc34953bb08101a20a376258073]: Textual amendment: Words in s. 64(2) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 84](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/84) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))

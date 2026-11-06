@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80E. Code of practice[^key-5dec367c55daf01b72a55109370c8c99]
+## 80E. Code of practice[^c-5dec367c55daf01b72a55109370c8c99]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5dec367c55daf01b72a55109370c8c99]: Textual amendment: S. 80E inserted (24.6.2026) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 97](https://www.legislation.gov.uk/ukpga/2025/28/section/97), [109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/1/d)
+[^c-5dec367c55daf01b72a55109370c8c99]: Textual amendment: S. 80E inserted (24.6.2026) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 97](https://www.legislation.gov.uk/ukpga/2025/28/section/97), [109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/1/d)

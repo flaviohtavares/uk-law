@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174. Disapplication and modification of earlier transitional provision[^key-b74578f802086802ba7a2fa74d7f4a2d]
+## 174. Disapplication and modification of earlier transitional provision[^c-b74578f802086802ba7a2fa74d7f4a2d]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b74578f802086802ba7a2fa74d7f4a2d]: Commencement: Reg. 174 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-b74578f802086802ba7a2fa74d7f4a2d]: Commencement: Reg. 174 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00289]: Footnote: [S.R. (N.I.) 2005/531](https://www.legislation.gov.uk/nisr/2005/531).

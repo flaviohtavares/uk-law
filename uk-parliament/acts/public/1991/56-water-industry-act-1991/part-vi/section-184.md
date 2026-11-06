@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The Environment Agency[^c13221621] or the[^key-bc774233ae28cb97e922612591dcd741] NRBW or the Civil Aviation Authority or any internal drainage board, dock undertakers, railway undertakers , airport operator or licence holder[^c13221631] may, after giving reasonable notice to the sewerage undertaker concerned, at their own expense and on substituting an equivalent, take up, divert or alter the level of any sewers, drains, culverts or other pipes which—
+(1) The Environment Agency[^c13221621] or the[^c-bc774233ae28cb97e922612591dcd741] NRBW or the Civil Aviation Authority or any internal drainage board, dock undertakers, railway undertakers , airport operator or licence holder[^c13221631] may, after giving reasonable notice to the sewerage undertaker concerned, at their own expense and on substituting an equivalent, take up, divert or alter the level of any sewers, drains, culverts or other pipes which—
 
 - (a) are vested in the undertaker; and
 - (b) pass under or interfere with, or interfere with the alteration or improvement of, as the case may be—
@@ -51,7 +51,7 @@ may, at the option of the party complaining, be referred to a single arbitrator 
 
 [^c13221621]: Textual amendment: Words in s. 184(1) substituted (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22 para. 119](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/119) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
-[^key-bc774233ae28cb97e922612591dcd741]: Textual amendment: Words in [s. 184(1)](https://www.legislation.gov.uk/ukpga/1991/56/section/184/1) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 252](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/252) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-bc774233ae28cb97e922612591dcd741]: Textual amendment: Words in [s. 184(1)](https://www.legislation.gov.uk/ukpga/1991/56/section/184/1) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 252](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/252) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c13221631]: Textual amendment: Words in s. 184(1) substituted (21.12.2001) by [S.I. 2001/4050](https://www.legislation.gov.uk/uksi/2001/4050), [art. 2](https://www.legislation.gov.uk/uksi/2001/4050/article/2), [Sch. Pt. II para. 8(a)](https://www.legislation.gov.uk/uksi/2001/4050/schedule/part/II/paragraph/8/a)
 

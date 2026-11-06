@@ -37,145 +37,145 @@ defining the circumstances, formats and procedures of notification pursuant to A
 
 (Text with EEA relevance) (revoked)
 
-[^key-b3a2eb422aaead57aacdb8aa580fe2c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b3a2eb422aaead57aacdb8aa580fe2c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Objective[^key-b3a2eb422aaead57aacdb8aa580fe2c8]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Language of notification[^key-b3a2eb422aaead57aacdb8aa580fe2c8]
+## Article 1. Objective[^c-b3a2eb422aaead57aacdb8aa580fe2c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Notification procedure and formats[^key-b3a2eb422aaead57aacdb8aa580fe2c8]
+## Article 2. Language of notification[^c-b3a2eb422aaead57aacdb8aa580fe2c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Addressees[^key-b3a2eb422aaead57aacdb8aa580fe2c8]
+## Article 3. Notification procedure and formats[^c-b3a2eb422aaead57aacdb8aa580fe2c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b3a2eb422aaead57aacdb8aa580fe2c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX — NOTIFICATION FORM FOR ELECTRONIC IDENTITY SCHEME UNDER ARTICLE 9(5) OF REGULATION (EU) No 910/2014[^key-b3a2eb422aaead57aacdb8aa580fe2c8]
+## Article 4. Addressees[^c-b3a2eb422aaead57aacdb8aa580fe2c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b3a2eb422aaead57aacdb8aa580fe2c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX — NOTIFICATION FORM FOR ELECTRONIC IDENTITY SCHEME UNDER ARTICLE 9(5) OF REGULATION (EU) No 910/2014[^c-b3a2eb422aaead57aacdb8aa580fe2c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b3a2eb422aaead57aacdb8aa580fe2c8]1.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-b3a2eb422aaead57aacdb8aa580fe2c8]1.
 
 **General information**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b3a2eb422aaead57aacdb8aa580fe2c8]2.
+[^c-b3a2eb422aaead57aacdb8aa580fe2c8]2.
 
 **Authority(ies) responsible for the scheme**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b3a2eb422aaead57aacdb8aa580fe2c8]3.
+[^c-b3a2eb422aaead57aacdb8aa580fe2c8]3.
 
 **Information on relevant parties, entities and bodies (where there are multiple parties, entities or bodies, please list them all, in accordance with Article 3(2) and (3)**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b3a2eb422aaead57aacdb8aa580fe2c8]3.1.
+[^c-b3a2eb422aaead57aacdb8aa580fe2c8]3.1.
 
 **Entity which manages the registration process of the unique person identification data**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b3a2eb422aaead57aacdb8aa580fe2c8]3.2.
+[^c-b3a2eb422aaead57aacdb8aa580fe2c8]3.2.
 
 **Party issuing the electronic identification means**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b3a2eb422aaead57aacdb8aa580fe2c8]3.3.
+[^c-b3a2eb422aaead57aacdb8aa580fe2c8]3.3.
 
 **Party operating the authentication procedure**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b3a2eb422aaead57aacdb8aa580fe2c8]3.4.
+[^c-b3a2eb422aaead57aacdb8aa580fe2c8]3.4.
 
 **Supervisory body**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b3a2eb422aaead57aacdb8aa580fe2c8]4.
+[^c-b3a2eb422aaead57aacdb8aa580fe2c8]4.
 
 **Description of the electronic identification scheme**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b3a2eb422aaead57aacdb8aa580fe2c8]4.1.
+[^c-b3a2eb422aaead57aacdb8aa580fe2c8]4.1.
 
 **Applicable supervisory, liability and management regime**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b3a2eb422aaead57aacdb8aa580fe2c8]4.1.1.
+[^c-b3a2eb422aaead57aacdb8aa580fe2c8]4.1.1.
 
 **Applicable supervisory regime**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b3a2eb422aaead57aacdb8aa580fe2c8]4.1.2.
+[^c-b3a2eb422aaead57aacdb8aa580fe2c8]4.1.2.
 
 **Applicable liability regime**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b3a2eb422aaead57aacdb8aa580fe2c8]4.1.3.
+[^c-b3a2eb422aaead57aacdb8aa580fe2c8]4.1.3.
 
 **Applicable management arrangements**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b3a2eb422aaead57aacdb8aa580fe2c8]4.2.
+[^c-b3a2eb422aaead57aacdb8aa580fe2c8]4.2.
 
 **Description of the scheme components**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b3a2eb422aaead57aacdb8aa580fe2c8]4.2.1.
+[^c-b3a2eb422aaead57aacdb8aa580fe2c8]4.2.1.
 
 **Enrolment**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b3a2eb422aaead57aacdb8aa580fe2c8]4.2.2.
+[^c-b3a2eb422aaead57aacdb8aa580fe2c8]4.2.2.
 
 **Electronic identification means management**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b3a2eb422aaead57aacdb8aa580fe2c8]4.2.3.
+[^c-b3a2eb422aaead57aacdb8aa580fe2c8]4.2.3.
 
 **Authentication**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b3a2eb422aaead57aacdb8aa580fe2c8]4.2.4.
+[^c-b3a2eb422aaead57aacdb8aa580fe2c8]4.2.4.
 
 **Management and organisation**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b3a2eb422aaead57aacdb8aa580fe2c8]4.3.
+[^c-b3a2eb422aaead57aacdb8aa580fe2c8]4.3.
 
 **Interoperability requirements**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b3a2eb422aaead57aacdb8aa580fe2c8]4.4.
+[^c-b3a2eb422aaead57aacdb8aa580fe2c8]4.4.
 
 **Supporting documents**
 
@@ -183,4 +183,4 @@ defining the circumstances, formats and procedures of notification pursuant to A
 
 ## Annotations
 
-[^key-b3a2eb422aaead57aacdb8aa580fe2c8]: Textual amendment: Decision revoked (31.12.2020) by [The Electronic Identification and Trust Services for Electronic Transactions (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/89)](https://www.legislation.gov.uk/uksi/2019/89), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/89/regulation/1/2), [Sch. para. 56](https://www.legislation.gov.uk/uksi/2019/89/schedule/paragraph/56); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b3a2eb422aaead57aacdb8aa580fe2c8]: Textual amendment: Decision revoked (31.12.2020) by [The Electronic Identification and Trust Services for Electronic Transactions (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/89)](https://www.legislation.gov.uk/uksi/2019/89), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/89/regulation/1/2), [Sch. para. 56](https://www.legislation.gov.uk/uksi/2019/89/schedule/paragraph/56); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

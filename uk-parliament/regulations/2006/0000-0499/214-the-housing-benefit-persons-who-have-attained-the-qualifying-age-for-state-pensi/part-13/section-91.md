@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2006/214
 
-## 91. Recording and holding information[^key-3840496ff6d979ebd1251f0da447e723]
+## 91. Recording and holding information[^c-3840496ff6d979ebd1251f0da447e723]
 
 A relevant authority which obtains relevant information or to whom such information is supplied—
 
@@ -23,4 +23,4 @@ A relevant authority which obtains relevant information or to whom such informat
 
 ## Annotations
 
-[^key-3840496ff6d979ebd1251f0da447e723]: Textual amendment: Reg. 91 substituted (31.10.2007) by [Social Security (Claims and Information) Regulations 2007 (S.I. 2007/2911)](https://www.legislation.gov.uk/uksi/2007/2911), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/1/1), [8(6)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/8/6)
+[^c-3840496ff6d979ebd1251f0da447e723]: Textual amendment: Reg. 91 substituted (31.10.2007) by [Social Security (Claims and Information) Regulations 2007 (S.I. 2007/2911)](https://www.legislation.gov.uk/uksi/2007/2911), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/1/1), [8(6)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/8/6)

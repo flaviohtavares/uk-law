@@ -24,7 +24,7 @@ summary: ''
 
 (2) In calculating the amount of any return of a special Class 4 contribution to be made under paragraph (1) there shall be deducted the amount (if any) treated under regulation 109 as paid on account of other contributions.
 
-(3) Any person desiring to apply for the return of a special Class 4 contribution the applicant[^key-005a013e81b5c2183b4a4702b9e80d41] shall make the application within the period of six years from the end of the year in which the contribution was due to be paid.[^key-37b82876b00681e2de22c66cd486301c]
+(3) Any person desiring to apply for the return of a special Class 4 contribution the applicant[^c-005a013e81b5c2183b4a4702b9e80d41] shall make the application within the period of six years from the end of the year in which the contribution was due to be paid.[^c-37b82876b00681e2de22c66cd486301c]
 
 This is subject to the following qualification.
 
@@ -35,6 +35,6 @@ If the application is made after the end of that period, an officer of the Board
 
 ## Annotations
 
-[^key-005a013e81b5c2183b4a4702b9e80d41]: Textual amendment: Words in reg. 110(3) inserted (8.10.2002) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2002 (S.I. 2002/2366)](https://www.legislation.gov.uk/uksi/2002/2366), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2366/regulation/1), [16(a)](https://www.legislation.gov.uk/uksi/2002/2366/regulation/16/a)
+[^c-005a013e81b5c2183b4a4702b9e80d41]: Textual amendment: Words in reg. 110(3) inserted (8.10.2002) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2002 (S.I. 2002/2366)](https://www.legislation.gov.uk/uksi/2002/2366), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2366/regulation/1), [16(a)](https://www.legislation.gov.uk/uksi/2002/2366/regulation/16/a)
 
-[^key-37b82876b00681e2de22c66cd486301c]: Textual amendment: Words in reg. 110(3) substituted (8.10.2002) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2002 (S.I. 2002/2366)](https://www.legislation.gov.uk/uksi/2002/2366), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2366/regulation/1), [16(b)](https://www.legislation.gov.uk/uksi/2002/2366/regulation/16/b)
+[^c-37b82876b00681e2de22c66cd486301c]: Textual amendment: Words in reg. 110(3) substituted (8.10.2002) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2002 (S.I. 2002/2366)](https://www.legislation.gov.uk/uksi/2002/2366), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2366/regulation/1), [16(b)](https://www.legislation.gov.uk/uksi/2002/2366/regulation/16/b)

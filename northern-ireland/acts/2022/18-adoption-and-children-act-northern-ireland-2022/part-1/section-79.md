@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 79. Adoption Contact Register[^key-1a8416d8732cf7581eb3c87dcc3a250d]
+## 79. Adoption Contact Register[^c-1a8416d8732cf7581eb3c87dcc3a250d]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a8416d8732cf7581eb3c87dcc3a250d]: Commencement: S. 79 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-1a8416d8732cf7581eb3c87dcc3a250d]: Commencement: S. 79 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

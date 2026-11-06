@@ -32,7 +32,7 @@ summary: ''
 
 Social Security
 
-The Social Security Benefits Up-rating Regulations 2023 (revoked)[^key-75e1e10ca6159238a27df3d4909246c2]
+The Social Security Benefits Up-rating Regulations 2023 (revoked)[^c-75e1e10ca6159238a27df3d4909246c2]
 
 Made
 
@@ -46,52 +46,52 @@ Coming into force
 
 10th April 2023
 
-[^key-75e1e10ca6159238a27df3d4909246c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-75e1e10ca6159238a27df3d4909246c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and interpretation[^key-75e1e10ca6159238a27df3d4909246c2]
+## 1. Citation, commencement, extent and interpretation[^c-75e1e10ca6159238a27df3d4909246c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order[^key-75e1e10ca6159238a27df3d4909246c2]
+## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order[^c-75e1e10ca6159238a27df3d4909246c2]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Persons not ordinarily resident in Great Britain[^key-75e1e10ca6159238a27df3d4909246c2]
+## 3. Persons not ordinarily resident in Great Britain[^c-75e1e10ca6159238a27df3d4909246c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Social Security (Invalid Care Allowance) Regulations 1976[^key-75e1e10ca6159238a27df3d4909246c2]
+## 4. Amendment of the Social Security (Invalid Care Allowance) Regulations 1976[^c-75e1e10ca6159238a27df3d4909246c2]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Social Security Benefit (Dependency) Regulations 1977[^key-75e1e10ca6159238a27df3d4909246c2]
+## 5. Amendment of the Social Security Benefit (Dependency) Regulations 1977[^c-75e1e10ca6159238a27df3d4909246c2]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of the Social Security (Claims and Payments) Regulations 1987[^key-75e1e10ca6159238a27df3d4909246c2]
+## 6. Amendment of the Social Security (Claims and Payments) Regulations 1987[^c-75e1e10ca6159238a27df3d4909246c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of the Universal Credit (Transitional Provisions) Regulations 2014[^key-75e1e10ca6159238a27df3d4909246c2]
+## 7. Amendment of the Universal Credit (Transitional Provisions) Regulations 2014[^c-75e1e10ca6159238a27df3d4909246c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Revocation[^key-75e1e10ca6159238a27df3d4909246c2]
+## 8. Revocation[^c-75e1e10ca6159238a27df3d4909246c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-75e1e10ca6159238a27df3d4909246c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-75e1e10ca6159238a27df3d4909246c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-75e1e10ca6159238a27df3d4909246c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-75e1e10ca6159238a27df3d4909246c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-75e1e10ca6159238a27df3d4909246c2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2023/340) revoked (8.4.2024) by [The Social Security Benefits Up-rating Regulations 2024 (S.I. 2024/386)](https://www.legislation.gov.uk/uksi/2024/386), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/386/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2024/386/regulation/6)
+[^c-75e1e10ca6159238a27df3d4909246c2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2023/340) revoked (8.4.2024) by [The Social Security Benefits Up-rating Regulations 2024 (S.I. 2024/386)](https://www.legislation.gov.uk/uksi/2024/386), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/386/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2024/386/regulation/6)

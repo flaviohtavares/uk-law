@@ -28,7 +28,7 @@ summary: ''
 
 (2) Any payment under paragraph (1) shall be calculated in accordance with actuarial guidance issued by the Scottish Ministers.
 
-(2A)[^key-988669b1538b2e78f085c86506887267] In the case of an eligible member, the pension used to calculate a payment under paragraph (1) is to include—
+(2A)[^c-988669b1538b2e78f085c86506887267] In the case of an eligible member, the pension used to calculate a payment under paragraph (1) is to include—
 
 - (a) where the pension is in payment—
   - (i) any final guarantee amount calculated in respect of the eligible member’s pension account under regulation 4B or 4C of the Transitional Provisions and Savings Regulations 2014; and
@@ -38,9 +38,9 @@ summary: ''
   - (i) any survivor guarantee amount payable to the survivor member in respect of the eligible member; and
   - (ii) any revaluation adjustment or index rate adjustment that has been applied to a survivor member’s pension account as a consequence of the survivor guarantee amount.
 
-(3)[^key-50a84eeb17bf82a32b97ec96e381bf3f] If a member receives a payment under this regulation, any pension account relating to that payment must be closed, the member is entitled to no further benefits in relation to that account and no survivor benefits are subsequently payable upon the death of the member.
+(3)[^c-50a84eeb17bf82a32b97ec96e381bf3f] If a member receives a payment under this regulation, any pension account relating to that payment must be closed, the member is entitled to no further benefits in relation to that account and no survivor benefits are subsequently payable upon the death of the member.
 
-(4)[^key-2556813ca19fc0207492b93a90035f80] In this regulation—
+(4)[^c-2556813ca19fc0207492b93a90035f80] In this regulation—
 
 - “**eligible member**” has the same meaning as in regulation 1(4) of the Transitional Provisions and Savings Regulations 2014;
 - “**survivor guarantee amount**” has the meaning given in regulation 4M(3) of the Transitional Provisions and Savings Regulations 2014.
@@ -51,8 +51,8 @@ summary: ''
 
 [^c22970791]: Marginal citation: [S.I. 2009/1171](https://www.legislation.gov.uk/uksi/2009/1171); regulations 11 and 12 were amended by [S.I. 2011/1751](https://www.legislation.gov.uk/uksi/2011/1751), the [Finance Act 2014 (c.26)](https://www.legislation.gov.uk/ukpga/2014/26), [section 42](https://www.legislation.gov.uk/ukpga/2014/26/section/42) and the [Taxation of Pensions Act 2014 (c.30)](https://www.legislation.gov.uk/ukpga/2014/30), [schedule 1(5)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/5), [paragraph 73(3)](https://www.legislation.gov.uk/ukpga/2014/30/paragraph/73/3)..
 
-[^key-988669b1538b2e78f085c86506887267]: Textual amendment: [Reg. 33(2A)](https://www.legislation.gov.uk/ssi/2018/141/regulation/33/2A) inserted (1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/240)](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/ssi/2023/240/regulation/3/3/a)
+[^c-988669b1538b2e78f085c86506887267]: Textual amendment: [Reg. 33(2A)](https://www.legislation.gov.uk/ssi/2018/141/regulation/33/2A) inserted (1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/240)](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/ssi/2023/240/regulation/3/3/a)
 
-[^key-50a84eeb17bf82a32b97ec96e381bf3f]: Modification: [Reg. 33(3)](https://www.legislation.gov.uk/ssi/2018/141/regulation/33/3) excluded (1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/240)](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [11(4)](https://www.legislation.gov.uk/ssi/2023/240/regulation/11/4)
+[^c-50a84eeb17bf82a32b97ec96e381bf3f]: Modification: [Reg. 33(3)](https://www.legislation.gov.uk/ssi/2018/141/regulation/33/3) excluded (1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/240)](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [11(4)](https://www.legislation.gov.uk/ssi/2023/240/regulation/11/4)
 
-[^key-2556813ca19fc0207492b93a90035f80]: Textual amendment: [Reg. 33(4)](https://www.legislation.gov.uk/ssi/2018/141/regulation/33/4) inserted (1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/240)](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/ssi/2023/240/regulation/3/3/b)
+[^c-2556813ca19fc0207492b93a90035f80]: Textual amendment: [Reg. 33(4)](https://www.legislation.gov.uk/ssi/2018/141/regulation/33/4) inserted (1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/240)](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/ssi/2023/240/regulation/3/3/b)

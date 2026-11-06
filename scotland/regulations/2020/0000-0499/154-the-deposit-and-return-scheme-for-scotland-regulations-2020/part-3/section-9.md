@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Cancellation of registration of producers[^key-906fd6e531f8ce20406bc944a0d8aaa7]
+## 9. Cancellation of registration of producers[^c-906fd6e531f8ce20406bc944a0d8aaa7]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-906fd6e531f8ce20406bc944a0d8aaa7]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/ssi/2020/154/regulation/9) omitted (20.6.2025) by virtue of [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [10](https://www.legislation.gov.uk/ssi/2025/188/regulation/10)
+[^c-906fd6e531f8ce20406bc944a0d8aaa7]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/ssi/2020/154/regulation/9) omitted (20.6.2025) by virtue of [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [10](https://www.legislation.gov.uk/ssi/2025/188/regulation/10)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39.5. Reference by Criminal Cases Review Commission[^key-85e5cc9d8ff2a374b6f1601cf0a1c996]
+## 39.5. Reference by Criminal Cases Review Commission[^c-85e5cc9d8ff2a374b6f1601cf0a1c996]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85e5cc9d8ff2a374b6f1601cf0a1c996]: Commencement: [Rule 39.5](https://www.legislation.gov.uk/uksi/2025/909/rule/39.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-85e5cc9d8ff2a374b6f1601cf0a1c996]: Commencement: [Rule 39.5](https://www.legislation.gov.uk/uksi/2025/909/rule/39.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

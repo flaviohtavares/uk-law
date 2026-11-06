@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Fixed monetary penalties: procedure[^c2007844][^key-154eeacc15b0749c32ba77bb57b272af]
+## 94. Fixed monetary penalties: procedure[^c2007844][^c-154eeacc15b0749c32ba77bb57b272af]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 [^c2007844]: Commencement: S. 94 partly in force; s. 94 in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-154eeacc15b0749c32ba77bb57b272af]: Commencement: S. 94 in force at 6.4.2011 in so far as not already in force by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-154eeacc15b0749c32ba77bb57b272af]: Commencement: S. 94 in force at 6.4.2011 in so far as not already in force by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)

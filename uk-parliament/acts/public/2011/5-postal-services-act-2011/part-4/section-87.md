@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Northern Ireland[^key-32eaf57a8aa93f7d83ff6673b0ce4e65]
+## 87. Northern Ireland[^c-32eaf57a8aa93f7d83ff6673b0ce4e65]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32eaf57a8aa93f7d83ff6673b0ce4e65]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2011/5/section/87) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-32eaf57a8aa93f7d83ff6673b0ce4e65]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2011/5/section/87) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

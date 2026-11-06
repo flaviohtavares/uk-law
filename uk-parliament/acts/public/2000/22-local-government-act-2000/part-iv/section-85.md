@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Options for elections England.[^key-5a6d4f36cd9dcb351dc23e14f9a0f785]
+## 85. Options for elections England.[^c-5a6d4f36cd9dcb351dc23e14f9a0f785]
 
 *Extent: E+W*
 
-(1) For the purposes of this Part as it applies in relation to a principal council for an area in England,[^key-bc07257795ac6f7c7c62a38f742ab7c2] the three options for the scheme for the ordinary elections of councillors of such[^key-624e25cfe9e02a88991431530e796f9b] a principal council are those set out in this section.
+(1) For the purposes of this Part as it applies in relation to a principal council for an area in England,[^c-bc07257795ac6f7c7c62a38f742ab7c2] the three options for the scheme for the ordinary elections of councillors of such[^c-624e25cfe9e02a88991431530e796f9b] a principal council are those set out in this section.
 
 (2) The first option is for a scheme under which—
 
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-5a6d4f36cd9dcb351dc23e14f9a0f785]: Textual amendment: Word in [s. 85](https://www.legislation.gov.uk/ukpga/2000/22/section/85) heading inserted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 9(2)(c)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/9/2/c)
+[^c-5a6d4f36cd9dcb351dc23e14f9a0f785]: Textual amendment: Word in [s. 85](https://www.legislation.gov.uk/ukpga/2000/22/section/85) heading inserted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 9(2)(c)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/9/2/c)
 
-[^key-bc07257795ac6f7c7c62a38f742ab7c2]: Textual amendment: Words in [s. 85(1)](https://www.legislation.gov.uk/ukpga/2000/22/section/85/1) inserted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 9(2)(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/9/2/a)
+[^c-bc07257795ac6f7c7c62a38f742ab7c2]: Textual amendment: Words in [s. 85(1)](https://www.legislation.gov.uk/ukpga/2000/22/section/85/1) inserted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 9(2)(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/9/2/a)
 
-[^key-624e25cfe9e02a88991431530e796f9b]: Textual amendment: Word in [s. 85(1)](https://www.legislation.gov.uk/ukpga/2000/22/section/85/1) inserted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 9(2)(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/9/2/b)
+[^c-624e25cfe9e02a88991431530e796f9b]: Textual amendment: Word in [s. 85(1)](https://www.legislation.gov.uk/ukpga/2000/22/section/85/1) inserted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 9(2)(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/9/2/b)

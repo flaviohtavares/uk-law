@@ -51,7 +51,7 @@ And Whereas neither of the Parties has given such contrary notification and acco
 
 And Whereas by section 143 of the Social Security Act 1975[^f00001] and section 15(1) of the Child Benefit Act 1975 it is provided that Her Majesty may by Order in Council make provision for modifying or adapting the said Social Security Act and for modifying the provisions of Part I of the said Child Benefit Act and regulations made under it in their application to cases affected by agreements with other governments providing for reciprocity in matters specified in those sections:
 
-Now, therefore, Her Majesty, in pursuance of the said section 143 and the said section 15(1), and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—[^M_C_83e8dbc8-940b-496c-b1e2-7d18403b4ac1][^key-05f9d0eddd1e3d8add08289613b7eb38][^M_C_4522b0ed-a189-43bc-aaa4-11d4ffac0e49][^M_C_8a68f12f-16b6-4aa5-9243-efc6da98dba3]
+Now, therefore, Her Majesty, in pursuance of the said section 143 and the said section 15(1), and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—[^M_C_83e8dbc8-940b-496c-b1e2-7d18403b4ac1][^c-05f9d0eddd1e3d8add08289613b7eb38][^M_C_4522b0ed-a189-43bc-aaa4-11d4ffac0e49][^M_C_8a68f12f-16b6-4aa5-9243-efc6da98dba3]
 
 ## 1. Citation and commencement
 
@@ -75,9 +75,9 @@ N.E. Leigh
 
 Clerk of the Privy Council
 
-## SCHEDULE[^key-89dfb2ff944197112c413828ae0a4b81][^M_C_eef607ee-dc18-4b9b-891c-d6da6d0ca23d]
+## SCHEDULE[^c-89dfb2ff944197112c413828ae0a4b81][^M_C_eef607ee-dc18-4b9b-891c-d6da6d0ca23d]
 
-[^key-89dfb2ff944197112c413828ae0a4b81]
+[^c-89dfb2ff944197112c413828ae0a4b81]
 
 > CONVENTION ON SOCIAL SECURITY BETWEEN THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND AND THE GOVERNMENT OF NEW ZEALAND
 >
@@ -197,13 +197,13 @@ Clerk of the Privy Council
 >
 > (1) The provisions of this Article shall apply to persons in the United Kingdom who have been resident in New Zealand.
 >
-> (2)[^key-f70ea8970bbe3b28e30affb29d085c3d] Where a person is in, or resident in, the United Kingdom and at the time when he was last in New Zealand he was receiving national superannuation under the legislation of New Zealand, otherwise than by virtue of this Convention or the former Agreements, provided that he is over pensionable age as defined under the legislation of the United Kingdom he shall be entitled, subject to the provisions of paragraph (6) of this Article, to receive a basic retirement pension at the full standard rate under the legislation of the United Kingdom as if he satisfied the contribution conditions for such a pension.
+> (2)[^c-f70ea8970bbe3b28e30affb29d085c3d] Where a person is in, or resident in, the United Kingdom and at the time when he was last in New Zealand he was receiving national superannuation under the legislation of New Zealand, otherwise than by virtue of this Convention or the former Agreements, provided that he is over pensionable age as defined under the legislation of the United Kingdom he shall be entitled, subject to the provisions of paragraph (6) of this Article, to receive a basic retirement pension at the full standard rate under the legislation of the United Kingdom as if he satisfied the contribution conditions for such a pension.
 >
 > Provided that, if the claimant is a married woman who does not satisfy either of the conditions specified in paragraph (4) of this Article, she shall be treated as if her husband and not she satisfied the said contribution conditions.
 >
-> (3)[^key-a7544f33a29110a117af3ad5b907275d] Subject to the provisions of paragraphs (4) and (6) of this Article, for the purpose of a claim for basic retirement pension under the legislation of the United Kingdom by a person to whom the provisions of paragraph (2) of this Article do not apply, a person in, or resident in, the United Kingdom shall be treated as if he, or in the case of a claim made by a married woman or widow by virtue of her husband's insurance, her husband, had paid a Class 3 contribution under the legislation of the United Kingdom for each week during which he was resident in New Zealand.
+> (3)[^c-a7544f33a29110a117af3ad5b907275d] Subject to the provisions of paragraphs (4) and (6) of this Article, for the purpose of a claim for basic retirement pension under the legislation of the United Kingdom by a person to whom the provisions of paragraph (2) of this Article do not apply, a person in, or resident in, the United Kingdom shall be treated as if he, or in the case of a claim made by a married woman or widow by virtue of her husband's insurance, her husband, had paid a Class 3 contribution under the legislation of the United Kingdom for each week during which he was resident in New Zealand.
 >
-> (4)[^key-a7544f33a29110a117af3ad5b907275d] Where the person claiming a basic retirement pension under the legislation of the United Kingdom is a married woman and she is claiming by virtue of her own insurance, the provisions of paragraph (3) of this Article shall not apply to her in respect of any period during which she was a married woman unless—
+> (4)[^c-a7544f33a29110a117af3ad5b907275d] Where the person claiming a basic retirement pension under the legislation of the United Kingdom is a married woman and she is claiming by virtue of her own insurance, the provisions of paragraph (3) of this Article shall not apply to her in respect of any period during which she was a married woman unless—
 >
 > - (a) at the time she was last in New Zealand she was qualified to receive national superannuation otherwise than by virtue of the provisions of this Convention or the former Agreements and was, or could have been, treated as an unmarried woman for the purpose of that benefit; or
 > - (b) prior to 6 April 1975 she had paid one hundred and fifty-six contributions under the legislation of the United Kingdom for any period after the date of her marriage and before the date when she reaches pensionable age under that legislation; or
@@ -214,9 +214,9 @@ Clerk of the Privy Council
 >
 > For the purposes of this paragraph, “**contributions of the appropriate amount**” means contributions the earnings factor derived from which is not less than fifty-two times the lower earnings limit for the year to which the contributions relate, and “**contributions**” means contributions other than contributions which would not be taken into account for the purpose of any claim for benefit under the legislation of the United Kingdom.
 >
-> (5)[^key-a7544f33a29110a117af3ad5b907275d] Where the person claiming a basic retirement pension under the legislation of the United Kingdom is a woman claiming by virtue of her own insurance, her marriage having been terminated by the death of her husband or otherwise, and her husband's contributions are taken into account for the purpose of her claim, she shall be treated as if he had paid a Class 3 contribution under the legislation of the United Kingdom for each week during which he was resident in New Zealand.
+> (5)[^c-a7544f33a29110a117af3ad5b907275d] Where the person claiming a basic retirement pension under the legislation of the United Kingdom is a woman claiming by virtue of her own insurance, her marriage having been terminated by the death of her husband or otherwise, and her husband's contributions are taken into account for the purpose of her claim, she shall be treated as if he had paid a Class 3 contribution under the legislation of the United Kingdom for each week during which he was resident in New Zealand.
 >
-> (6)[^key-a7544f33a29110a117af3ad5b907275d] Any basic retirement pension which has become payable under the legislation of the United Kingdom by virtue of the provisions of this Convention or the former Agreements shall cease to be payable if and when the person to whom, or in respect of whom, the pension is payable leaves the United Kingdom, unless that person is usually resident in the United Kingdom and his absence from the United Kingdom is only temporary.
+> (6)[^c-a7544f33a29110a117af3ad5b907275d] Any basic retirement pension which has become payable under the legislation of the United Kingdom by virtue of the provisions of this Convention or the former Agreements shall cease to be payable if and when the person to whom, or in respect of whom, the pension is payable leaves the United Kingdom, unless that person is usually resident in the United Kingdom and his absence from the United Kingdom is only temporary.
 >
 > **ARTICLE 10. NEW ZEALAND NATIONAL SUPERANNUATION BY VIRTUE OF RESIDENCE IN THE UNITED KINGDOM**
 >
@@ -231,7 +231,7 @@ Clerk of the Privy Council
 >
 > **SECTION 7 — WIDOW'S BENEFIT**
 >
-> **ARTICLE 11. UNITED KINGDOM WIDOW'S BENEFIT BY VIRTUE OF RESIDENCE IN NEW ZEALAND[^key-71d3fec281ffa83bb5d6a2d96ed03a3e]**
+> **ARTICLE 11. UNITED KINGDOM WIDOW'S BENEFIT BY VIRTUE OF RESIDENCE IN NEW ZEALAND[^c-71d3fec281ffa83bb5d6a2d96ed03a3e]**
 >
 > (1) The provisions of this Article shall apply to persons in the United Kingdom who have been resident in New Zealand.
 >
@@ -402,18 +402,18 @@ The Convention relates to reciprocity for purposes of benefit for dependants, si
 
 [^M_C_83e8dbc8-940b-496c-b1e2-7d18403b4ac1]: Modification: Instrument modified (11.4.1988) by The Social Security (Reciprocal Agreements) Order 1988 (1988/591), arts. 1, 2, Sch.
 
-[^key-05f9d0eddd1e3d8add08289613b7eb38]: Modification: Instrument modified (9.4.2001) by [The Social Security (Reciprocal Agreements) Order 2001 (S.I. 2001/407)](https://www.legislation.gov.uk/uksi/2001/407), [art. 2](https://www.legislation.gov.uk/uksi/2001/407/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/407/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/407/schedule/2)
+[^c-05f9d0eddd1e3d8add08289613b7eb38]: Modification: Instrument modified (9.4.2001) by [The Social Security (Reciprocal Agreements) Order 2001 (S.I. 2001/407)](https://www.legislation.gov.uk/uksi/2001/407), [art. 2](https://www.legislation.gov.uk/uksi/2001/407/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/407/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/407/schedule/2)
 
 [^M_C_4522b0ed-a189-43bc-aaa4-11d4ffac0e49]: Modification: Instrument modified (13.4.1995) by The Social Security (Reciprocal Agreements) Order 1995 (1995/767), arts. 1, 2, Schs. 1, 2
 
 [^M_C_8a68f12f-16b6-4aa5-9243-efc6da98dba3]: Modification: Instrument modified (7.10.1996) by The Social Security (Reciprocal Agreements) Order 1996 (1996/1928), arts. 1, 2, Schs. 1, 2
 
-[^key-89dfb2ff944197112c413828ae0a4b81]: Modification: Sch. modified (5.12.2005) by [The Social Security (Reciprocal Agreements) Order 2005 (S.I. 2005/2765)](https://www.legislation.gov.uk/uksi/2005/2765), [art. 1](https://www.legislation.gov.uk/uksi/2005/2765/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2765/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2765/schedule/2)
+[^c-89dfb2ff944197112c413828ae0a4b81]: Modification: Sch. modified (5.12.2005) by [The Social Security (Reciprocal Agreements) Order 2005 (S.I. 2005/2765)](https://www.legislation.gov.uk/uksi/2005/2765), [art. 1](https://www.legislation.gov.uk/uksi/2005/2765/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2765/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2765/schedule/2)
 
 [^M_C_eef607ee-dc18-4b9b-891c-d6da6d0ca23d]: Modification: [Sch.](https://www.legislation.gov.uk/uksi/1983/1894/schedule) modified (6.4.2017) by [The Social Security (Reciprocal Agreements) Order 2017 (S.I. 2017/159)](https://www.legislation.gov.uk/uksi/2017/159), [arts. 1](https://www.legislation.gov.uk/uksi/2017/159/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2017/159/article/2), [Sch. 3 para. 1(a)](https://www.legislation.gov.uk/uksi/2017/159/schedule/3/paragraph/1)
 
-[^key-f70ea8970bbe3b28e30affb29d085c3d]: Modification: [Sch. art. 9(2)](https://www.legislation.gov.uk/uksi/1983/1894/schedule/article/9/2) modified (6.4.2016) by [The Social Security (Reciprocal Agreements) Order 2016 (S.I. 2016/158)](https://www.legislation.gov.uk/uksi/2016/158), [art. 1](https://www.legislation.gov.uk/uksi/2016/158/article/1), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2016/158/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2016/158/schedule/3/paragraph/3)
+[^c-f70ea8970bbe3b28e30affb29d085c3d]: Modification: [Sch. art. 9(2)](https://www.legislation.gov.uk/uksi/1983/1894/schedule/article/9/2) modified (6.4.2016) by [The Social Security (Reciprocal Agreements) Order 2016 (S.I. 2016/158)](https://www.legislation.gov.uk/uksi/2016/158), [art. 1](https://www.legislation.gov.uk/uksi/2016/158/article/1), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2016/158/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2016/158/schedule/3/paragraph/3)
 
-[^key-a7544f33a29110a117af3ad5b907275d]: Modification: [Sch. art. 9(3)-(6)](https://www.legislation.gov.uk/uksi/1983/1894/schedule/article/9/3) modified (6.4.2016) by [The Social Security (Reciprocal Agreements) Order 2016 (S.I. 2016/158)](https://www.legislation.gov.uk/uksi/2016/158), [art. 1](https://www.legislation.gov.uk/uksi/2016/158/article/1), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2016/158/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2016/158/schedule/3/paragraph/3)
+[^c-a7544f33a29110a117af3ad5b907275d]: Modification: [Sch. art. 9(3)-(6)](https://www.legislation.gov.uk/uksi/1983/1894/schedule/article/9/3) modified (6.4.2016) by [The Social Security (Reciprocal Agreements) Order 2016 (S.I. 2016/158)](https://www.legislation.gov.uk/uksi/2016/158), [art. 1](https://www.legislation.gov.uk/uksi/2016/158/article/1), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2016/158/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2016/158/schedule/3/paragraph/3)
 
-[^key-71d3fec281ffa83bb5d6a2d96ed03a3e]: Modification: [Sch. art. 11](https://www.legislation.gov.uk/uksi/1983/1894/schedule/article/11) modified (6.4.2017) by [The Social Security (Reciprocal Agreements) Order 2017 (S.I. 2017/159)](https://www.legislation.gov.uk/uksi/2017/159), [arts. 1](https://www.legislation.gov.uk/uksi/2017/159/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2017/159/article/2), [Sch. 3 para. 1(b)](https://www.legislation.gov.uk/uksi/2017/159/schedule/3/paragraph/1)
+[^c-71d3fec281ffa83bb5d6a2d96ed03a3e]: Modification: [Sch. art. 11](https://www.legislation.gov.uk/uksi/1983/1894/schedule/article/11) modified (6.4.2017) by [The Social Security (Reciprocal Agreements) Order 2017 (S.I. 2017/159)](https://www.legislation.gov.uk/uksi/2017/159), [arts. 1](https://www.legislation.gov.uk/uksi/2017/159/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2017/159/article/2), [Sch. 3 para. 1(b)](https://www.legislation.gov.uk/uksi/2017/159/schedule/3/paragraph/1)

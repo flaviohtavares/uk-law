@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44C. Power to charge for costs of investigations.[^key-a9f15bacf471aef17a31109606227382][^c13349781][^c13349791][^c19663141][^c13349771]
+## 44C. Power to charge for costs of investigations.[^c-a9f15bacf471aef17a31109606227382][^c13349781][^c13349791][^c19663141][^c13349771]
 
 *Extent: E+W*
 
@@ -38,7 +38,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a9f15bacf471aef17a31109606227382]: Modification: [S. 44C](https://www.legislation.gov.uk/ukpga/1974/47/section/44C) applied (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [25](https://www.legislation.gov.uk/uksi/2024/1379/regulation/25)
+[^c-a9f15bacf471aef17a31109606227382]: Modification: [S. 44C](https://www.legislation.gov.uk/ukpga/1974/47/section/44C) applied (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [25](https://www.legislation.gov.uk/uksi/2024/1379/regulation/25)
 
 [^c13349781]: Textual amendment: [S. 44C](https://www.legislation.gov.uk/ukpga/1974/47/section/44C) and cross-heading inserted (27.9.1999) by [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22), [s. 48](https://www.legislation.gov.uk/ukpga/1999/22/section/48), [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/1999/22/schedule/7/paragraph/13) (with [Sch. 14 para. 7(2)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/7/2)); [S.I. 1999/2657](https://www.legislation.gov.uk/uksi/1999/2657), [art. 2(a)](https://www.legislation.gov.uk/uksi/1999/2657/article/2/a)
 

@@ -34,7 +34,7 @@ summary: ''
 
 (5) This Act extends to Northern Ireland.
 
-(6)[^key-160259ca08dbfdae73084d47659fa376][^key-0465ab5590721ffc85a0fc17d1695e5c] Subject to subsection (7), Her Majesty may by Order in Council extend the provisions of this Act, with such modifications as appear to Her Majesty in Council to be appropriate, to any of the Channel Islands or to the Isle of Man.
+(6)[^c-160259ca08dbfdae73084d47659fa376][^c-0465ab5590721ffc85a0fc17d1695e5c] Subject to subsection (7), Her Majesty may by Order in Council extend the provisions of this Act, with such modifications as appear to Her Majesty in Council to be appropriate, to any of the Channel Islands or to the Isle of Man.
 
 (7) Subsection (6) does not authorise the extension to any place of a provision of this Act so far as it gives effect to an amendment of an enactment that is not itself capable of being extended there in exercise of a power conferred on Her Majesty in Council.
 
@@ -44,6 +44,6 @@ summary: ''
 
 [^c19918291]: Subordinate legislation: S. 411(2)(4) power partly exercised: 25.7.2003 and 18.9.2003 appointed for specified provisions and purposes by {[S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900)}, art. 2; different dates appointed for further specified provisions and purposes by {[S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142)}, arts. 2, 3, 4
 
-[^key-160259ca08dbfdae73084d47659fa376]: Modification: [S. 411(6)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/6): power to extend conferred (27.4.2017) by [Broadcasting (Radio Multiplex Services) Act 2017 (c. 12)](https://www.legislation.gov.uk/ukpga/2017/12), [s. 2(2)](https://www.legislation.gov.uk/ukpga/2017/12/section/2/2)[(4)](https://www.legislation.gov.uk/ukpga/2017/12/section/2/4)
+[^c-160259ca08dbfdae73084d47659fa376]: Modification: [S. 411(6)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/6): power to extend conferred (27.4.2017) by [Broadcasting (Radio Multiplex Services) Act 2017 (c. 12)](https://www.legislation.gov.uk/ukpga/2017/12), [s. 2(2)](https://www.legislation.gov.uk/ukpga/2017/12/section/2/2)[(4)](https://www.legislation.gov.uk/ukpga/2017/12/section/2/4)
 
-[^key-0465ab5590721ffc85a0fc17d1695e5c]: Modification: [S. 411(6)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/6): power extended (24.5.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 54(3)](https://www.legislation.gov.uk/ukpga/2024/15/section/54/3), [55(1)(b)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/1/b)
+[^c-0465ab5590721ffc85a0fc17d1695e5c]: Modification: [S. 411(6)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/6): power extended (24.5.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 54(3)](https://www.legislation.gov.uk/ukpga/2024/15/section/54/3), [55(1)(b)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/1/b)

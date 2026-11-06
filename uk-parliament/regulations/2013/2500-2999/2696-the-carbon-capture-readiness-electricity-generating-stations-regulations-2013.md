@@ -50,21 +50,21 @@ The Secretary of State is designated[^f00001] for the purposes of section 2(2) o
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by section 2(2) of that Act.
 
-## 1. Citation, commencement and extent[^key-a64340b4764b2f30c63b00a71c76b1a8]
+## 1. Citation, commencement and extent[^c-a64340b4764b2f30c63b00a71c76b1a8]
 
 (1) These Regulations may be cited as the Carbon Capture Readiness (Electricity Generating Stations) Regulations 2013 and come into force on 25th November 2013.
 
 (2) These Regulations extend to Great Britain.
 
-(3)[^key-f925ff46d6670629f4b60b49276f6e18] Subject to regulation 8, these Regulations do not apply in England.
+(3)[^c-f925ff46d6670629f4b60b49276f6e18] Subject to regulation 8, these Regulations do not apply in England.
 
-## 2. Interpretation[^key-d1d9f080f00e34afe0bf831a6f29df90]
+## 2. Interpretation[^c-d1d9f080f00e34afe0bf831a6f29df90]
 
 (1) In these Regulations—
 
-- “the 1990 Act” means the Town and Country Planning Act 1990; *(Extent: E+W)*[^key-aea4235838822a2178b94e70892a3305]
+- “the 1990 Act” means the Town and Country Planning Act 1990; *(Extent: E+W)*[^c-aea4235838822a2178b94e70892a3305]
 - “the 2008 Act” means the Planning Act 2008[^f00003];
-- “ *(Extent: E+W)*[^key-c1f7d02f64ddf351ea6149c9503bc89f]**the 2024 Act *(Extent: E+W)***” means the Infrastructure (Wales) Act 2024; *(Extent: E+W)*
+- “ *(Extent: E+W)*[^c-c1f7d02f64ddf351ea6149c9503bc89f]**the 2024 Act *(Extent: E+W)***” means the Infrastructure (Wales) Act 2024; *(Extent: E+W)*
 - “appropriate authority” means—
   - (a) in relation to a combustion plant in England and Wales, the Secretary of State; and
   - (b) in relation to a combustion plant in Scotland, the Scottish Ministers;
@@ -73,20 +73,20 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - “combustion plant” means any technical apparatus in which fuels are oxidised in order to use the heat thus generated, but does not include the types of plant listed in points (a) to (j) of Article 28 of Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions (integrated pollution prevention and control) (Recast)[^f00004];
 - “consent order” means an order granting development consent within the meaning of section 31 of the 2008 Act;
 - “devolved combustion plant” means a combustion plant in Wales with a related electrical output of between 300 and 350 megawatts; *(Extent: E+W)*
-- “ *(Extent: E+W)*[^key-7f372a41d64f6efb85585fefad559fa9]**infrastructure consent *(Extent: E+W)***” means a consent required by section 19 of the 2024 Act; *(Extent: E+W)*
+- “ *(Extent: E+W)*[^c-7f372a41d64f6efb85585fefad559fa9]**infrastructure consent *(Extent: E+W)***” means a consent required by section 19 of the 2024 Act; *(Extent: E+W)*
 - “ *(Extent: E+W)***infrastructure consent order *(Extent: E+W)***” means an order under the 2024 Act granting infrastructure consent; *(Extent: E+W)*
 - “local planning authority” and “planning permission” have the meanings given in section 336 of the 1990 Act; *(Extent: E+W)*
 - “relevant consent order” means a consent order—
   - (a) for the construction of a combustion plant with a rated electrical output of 300 megawatts or more; or
   - (b) for a relevant extension;
-- “ *(Extent: E+W)*[^key-0972b3bcf4b170596b8200b483f98b3b]**relevant infrastructure consent order *(Extent: E+W)***” means an infrastructure consent order— *(Extent: E+W)*
+- “ *(Extent: E+W)*[^c-0972b3bcf4b170596b8200b483f98b3b]**relevant infrastructure consent order *(Extent: E+W)***” means an infrastructure consent order— *(Extent: E+W)*
   - (a) for the construction of a devolved combustion plant; or *(Extent: E+W)*
   - (b) for a relevant extension; *(Extent: E+W)*
 - “relevant extension” means an extension to a combustion plant which will have the effect of increasing the rated electrical output of the plant to 300 megawatts or more;
-- “[^key-c71f70baf9dc9a3d619a7e5f03a79f7f]**relevant planning authority**” means in relation to—
+- “[^c-c71f70baf9dc9a3d619a7e5f03a79f7f]**relevant planning authority**” means in relation to—
   - (a) consent required by section 19 of the 2024 Act, the Welsh Ministers;
   - (b) planning permission required under the 1990 Act, the local planning authority;
-- “relevant planning permission” means a planning permission *(Extent: E+W)* or infrastructure consent[^key-3fa4057c57da540fe554a4f9d9037c71] *(Extent: E+W)*— *(Extent: E+W)*
+- “relevant planning permission” means a planning permission *(Extent: E+W)* or infrastructure consent[^c-3fa4057c57da540fe554a4f9d9037c71] *(Extent: E+W)*— *(Extent: E+W)*
   - (a) for the construction of a devolved combustion plant; or *(Extent: E+W)*
   - (b) for an extension or alteration to a combustion plant in Wales which will have the effect of increasing the rated electrical output of the plant to between 300 and 350 megawatts; *(Extent: E+W)*
 - “relevant section 36 consent” means a section 36 consent—
@@ -101,7 +101,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - (b) it is technically and economically feasible to retrofit the plant with the equipment necessary to capture that CO<sub>2</sub>; and
 - (c) it is technically and economically feasible to transport such captured CO<sub>2</sub> to the storage sites referred to in sub-paragraph (a).
 
-## 3. Development consent: determination of carbon capture readiness and requirements to be imposed where CCR conditions are met[^key-c7cc8a2823240c6a9aec806fa68b4c1c]
+## 3. Development consent: determination of carbon capture readiness and requirements to be imposed where CCR conditions are met[^c-c7cc8a2823240c6a9aec806fa68b4c1c]
 
 (1) The Secretary of State must not make a relevant consent order unless the Secretary of State has determined whether the CCR conditions are met in relation to the combustion plant to which the consent order relates.
 
@@ -119,25 +119,25 @@ the Secretary of State must include a requirement in the relevant consent order 
 
 (4) In this regulation, in the case of a consent order for a relevant extension, references to a “combustion plant” are references to that plant as extended.
 
-## 4. Changes to development consent orders and infrastructure consent orders: determination of carbon capture readiness and requirements to be imposed where CCR conditions are met[^key-27b23c379d55cb49984d39b1f92e3e76][^key-52b28f64c0ffa37d92580c8d575eb324]
+## 4. Changes to development consent orders and infrastructure consent orders: determination of carbon capture readiness and requirements to be imposed where CCR conditions are met[^c-27b23c379d55cb49984d39b1f92e3e76][^c-52b28f64c0ffa37d92580c8d575eb324]
 
 (1) The Secretary of State must not—
 
 - (a) change a consent order in respect of a combustion plant with a rated electrical output of less than 300 megawatts in such a way as to enable the plant to have a rated electrical output of 300 megawatts or more; or
 - (b) change a relevant consent order in such a way as to enable a combustion plant to increase its rated electrical output,
 
-unless the Secretary of State has determined whether the CCR conditions are met in relation to the combustion plant, as constructed or extended in accordance with the consent order as so changed (“the modified plant”) (but see paragraph (1A)) *(Extent: E+W)*[^key-2a797f10e9344eb039c21914a7bcf53b].
+unless the Secretary of State has determined whether the CCR conditions are met in relation to the combustion plant, as constructed or extended in accordance with the consent order as so changed (“the modified plant”) (but see paragraph (1A)) *(Extent: E+W)*[^c-2a797f10e9344eb039c21914a7bcf53b].
 
 *Extent: E+W*
 
-(1A)[^key-b2c6dae88aed1fcbecc2a6233fdb3ae7] The Welsh Ministers must not—
+(1A)[^c-b2c6dae88aed1fcbecc2a6233fdb3ae7] The Welsh Ministers must not—
 
-- (a) change a consent order or an infrastructure consent order[^key-2b16132cd52696e422911337b8797286] in respect of a combustion plant in Wales with a rated electrical output of less than 300 megawatts in such a way as to enable the plant to have a rated electrical output of between 300 and 350 megawatts; or
-- (b) change a relevant consent order or a relevant infrastructure consent order[^key-2cc0842ff9d00634bb35c87bb33a102c] in respect of a devolved combustion plant in such a way as to enable a combustion plant to increase its rated electrical output to a maximum of 350 megawatts,
+- (a) change a consent order or an infrastructure consent order[^c-2b16132cd52696e422911337b8797286] in respect of a combustion plant in Wales with a rated electrical output of less than 300 megawatts in such a way as to enable the plant to have a rated electrical output of between 300 and 350 megawatts; or
+- (b) change a relevant consent order or a relevant infrastructure consent order[^c-2cc0842ff9d00634bb35c87bb33a102c] in respect of a devolved combustion plant in such a way as to enable a combustion plant to increase its rated electrical output to a maximum of 350 megawatts,
 
 unless the Welsh Ministers have determined whether the CCR conditions are met in relation to the combustion plant, as constructed or extended in accordance with the consent order as so changed, the infrastructure consent order as so changed or the relevant infrastructure consent order as so changed (“the modified plant”).
 
-(2) The Secretary of State’s determination under paragraph (1) and the Welsh Ministers’ determination under paragraph (1A) *(Extent: E+W)*[^key-cf65497ecc7843768e591c4a9b45f99a] must be made on the basis of—
+(2) The Secretary of State’s determination under paragraph (1) and the Welsh Ministers’ determination under paragraph (1A) *(Extent: E+W)*[^c-cf65497ecc7843768e591c4a9b45f99a] must be made on the basis of—
 
 - (a) a CCR assessment of the modified plant prepared by—
   - (i) where an application was made for the consent order to be changed, the person who made the application;
@@ -147,7 +147,7 @@ unless the Welsh Ministers have determined whether the CCR conditions are met in
 
 (3) If the Secretary of State—
 
-- (a) determines under paragraph (1) *(Extent: E+W)*[^key-58bb2f14da573f13649d36c998c5debc] that the CCR conditions are met in relation to a combustion plant; and
+- (a) determines under paragraph (1) *(Extent: E+W)*[^c-58bb2f14da573f13649d36c998c5debc] that the CCR conditions are met in relation to a combustion plant; and
 - (b) decides to—
   - (i) change a consent order in respect of that plant in the way described in paragraph (1)(a); or
   - (ii) change a relevant consent order in respect of that plant in the way described in paragraph (1)(b),
@@ -156,18 +156,18 @@ the Secretary of State must ensure that the consent order (as changed) includes 
 
 *Extent: E+W*
 
-(3A)[^key-28f7305a6c2d74b174a1ce3ccba719c1] If the Welsh Ministers—
+(3A)[^c-28f7305a6c2d74b174a1ce3ccba719c1] If the Welsh Ministers—
 
 - (a) determine under paragraph (1A) that the CCR conditions are met in relation to a combustion plant; and
 - (b) decide to—
-  - (i) change a consent order or[^key-f57d40e8d3c2b01af420660133838f18] an infrastructure consent order[^key-d3deb5df7d21ba4a27289105ea1cbe45] in respect of that plant in the way described in paragraph (1A)(a); or
+  - (i) change a consent order or[^c-f57d40e8d3c2b01af420660133838f18] an infrastructure consent order[^c-d3deb5df7d21ba4a27289105ea1cbe45] in respect of that plant in the way described in paragraph (1A)(a); or
   - (ii) change a relevant consent order or a relevant infrastructure consent order in respect of that plant in the way described in paragraph (1A)(b),
 
-the Welsh Ministers must ensure that the consent order (as changed) , infrastructure[^key-25f8e578791e8af7ac6d25131ff1614d][^key-a8918d11c7752b528e0bbf845f1bab5e] consent order (as changed) or the relevant infrastructure consent order (as changed)[^key-185d1b26be1cc91673917920ec3da690] includes a requirement that suitable space is set aside for the equipment necessary to capture and compress all of the CO<sub>2</sub> that would otherwise be emitted from the plant.
+the Welsh Ministers must ensure that the consent order (as changed) , infrastructure[^c-25f8e578791e8af7ac6d25131ff1614d][^c-a8918d11c7752b528e0bbf845f1bab5e] consent order (as changed) or the relevant infrastructure consent order (as changed)[^c-185d1b26be1cc91673917920ec3da690] includes a requirement that suitable space is set aside for the equipment necessary to capture and compress all of the CO<sub>2</sub> that would otherwise be emitted from the plant.
 
 (4) In this regulation, “change” means to make a change using the powers conferred by Schedule 6 to the 2008 Act[^f00007].
 
-## 5. Section 36 consent: determination of carbon capture readiness and conditions to be imposed where CCR conditions are met[^key-775e11c7614afb703f24361a34632e98]
+## 5. Section 36 consent: determination of carbon capture readiness and conditions to be imposed where CCR conditions are met[^c-775e11c7614afb703f24361a34632e98]
 
 (1) The appropriate authority must not grant a relevant section 36 consent unless the appropriate authority has determined whether the CCR conditions are met in relation to the combustion plant to which the section 36 consent relates.
 
@@ -185,7 +185,7 @@ it must include in the relevant section 36 consent a condition that suitable spa
 
 (4) In this regulation, in the case of a section 36 consent for a relevant extension, references to a “combustion plant” are references to that plant as extended.
 
-## 6. Variations of section 36 consents: determination of carbon capture readiness and conditions to be imposed where CCR conditions are met[^key-5e555b39569838bbebac65b7869e5c78]
+## 6. Variations of section 36 consents: determination of carbon capture readiness and conditions to be imposed where CCR conditions are met[^c-5e555b39569838bbebac65b7869e5c78]
 
 (1) The appropriate authority must not—
 
@@ -210,11 +210,11 @@ it must ensure that the section 36 consent (as varied) includes a condition that
 
 (4) In this regulation, “vary” means to make a variation under section 36C of the Electricity Act 1989[^f00008].
 
-## 6A. Applications for planning permission and infrastructure consent: determination of carbon capture readiness and requirements to be imposed where CCR conditions are met[^key-eedfb53802b735e48c66d3b6dd10f205][^key-34b623077f1200539be0c3e7cabb98f8]
+## 6A. Applications for planning permission and infrastructure consent: determination of carbon capture readiness and requirements to be imposed where CCR conditions are met[^c-eedfb53802b735e48c66d3b6dd10f205][^c-34b623077f1200539be0c3e7cabb98f8]
 
 *Extent: E+W*
 
-(1) The relevant planning authority must not grant a relevant planning permission unless the relevant planning authority has determined whether the CCR conditions are met in relation to the combustion plant to which the planning permission or infrastructure consent[^key-f6f930bc55f99452d166516f9cd1e2b9] relates.
+(1) The relevant planning authority must not grant a relevant planning permission unless the relevant planning authority has determined whether the CCR conditions are met in relation to the combustion plant to which the planning permission or infrastructure consent[^c-f6f930bc55f99452d166516f9cd1e2b9] relates.
 
 (2) The relevant planning authority’s determination under paragraph (1) must be made on the basis of—
 
@@ -228,9 +228,9 @@ it must ensure that the section 36 consent (as varied) includes a condition that
 
 the relevant planning authority must include a requirement in the relevant planning permission that suitable space is set aside for the equipment necessary to capture and compress all of the CO<sub>2</sub> that would otherwise be emitted from the plant.
 
-(4) In this regulation, in the case of a planning permission or infrastructure consent[^key-5c0d6e9facde2bb9670cd051344faf56] for an extension to a combustion plant which will have the effect of increasing the rated electrical output of the plant to between 300 and 350 megawatts, references to a “combustion plant” are references to that plant as extended.
+(4) In this regulation, in the case of a planning permission or infrastructure consent[^c-5c0d6e9facde2bb9670cd051344faf56] for an extension to a combustion plant which will have the effect of increasing the rated electrical output of the plant to between 300 and 350 megawatts, references to a “combustion plant” are references to that plant as extended.
 
-## 7. Review[^key-d071690d75b6aaa9efcf72e797dd07aa]
+## 7. Review[^c-d071690d75b6aaa9efcf72e797dd07aa]
 
 Before 30th November 2018, the Secretary of State must—
 
@@ -238,7 +238,7 @@ Before 30th November 2018, the Secretary of State must—
 - (b) set out the conclusions of the review in a report; and
 - (c) publish the report.
 
-## 8. Savings[^key-d3885a1e5de8c6e8a62df9b49ff8218a]
+## 8. Savings[^c-d3885a1e5de8c6e8a62df9b49ff8218a]
 
 (1) Regulation 1(3) does not affect the continued operation on and after the relevant day of any of the following requirements or conditions imposed in relation to a combustion plant in England—
 
@@ -289,80 +289,80 @@ A transposition note setting out how the 2010 Directive is transposed into the l
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1) of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and Part 1 of the Schedule to the European Union (Amendment) Act [2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7).
 
-[^key-a64340b4764b2f30c63b00a71c76b1a8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/2696/regulation/1) in force at 25.11.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2696/regulation/1/1)
+[^c-a64340b4764b2f30c63b00a71c76b1a8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/2696/regulation/1) in force at 25.11.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2696/regulation/1/1)
 
-[^key-f925ff46d6670629f4b60b49276f6e18]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/2696/regulation/1/3) inserted (28.2.2026) by [The Environmental Permitting (Electricity Generating Stations) (Amendment) Regulations 2025 (S.I. 2025/154)](https://www.legislation.gov.uk/uksi/2025/154), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/154/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2025/154/regulation/7/2)
+[^c-f925ff46d6670629f4b60b49276f6e18]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/2696/regulation/1/3) inserted (28.2.2026) by [The Environmental Permitting (Electricity Generating Stations) (Amendment) Regulations 2025 (S.I. 2025/154)](https://www.legislation.gov.uk/uksi/2025/154), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/154/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2025/154/regulation/7/2)
 
-[^key-d1d9f080f00e34afe0bf831a6f29df90]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/2696/regulation/2) in force at 25.11.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2696/regulation/1/1)
+[^c-d1d9f080f00e34afe0bf831a6f29df90]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/2696/regulation/2) in force at 25.11.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2696/regulation/1/1)
 
-[^key-aea4235838822a2178b94e70892a3305]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/2696/regulation/2/1) inserted (W.) (1.4.2019) by [The Carbon Capture Readiness (Electricity Generating Stations) (Amendment) (Wales) Regulations 2019 (S.I. 2019/294)](https://www.legislation.gov.uk/wsi/2019/294), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/294/regulation/1/1), [3](https://www.legislation.gov.uk/wsi/2019/294/regulation/3)
+[^c-aea4235838822a2178b94e70892a3305]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/2696/regulation/2/1) inserted (W.) (1.4.2019) by [The Carbon Capture Readiness (Electricity Generating Stations) (Amendment) (Wales) Regulations 2019 (S.I. 2019/294)](https://www.legislation.gov.uk/wsi/2019/294), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/294/regulation/1/1), [3](https://www.legislation.gov.uk/wsi/2019/294/regulation/3)
 
 [^f00003]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29). Relevant amendments have been made by Chapter 6 of Part 6 of, and Part 20 of Schedule 25 to, the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20). Modifications to the application of relevant provisions of the 2008 Act in Scotland are made under Schedule 12 to the 2008 Act.
 
-[^key-c1f7d02f64ddf351ea6149c9503bc89f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/2696/regulation/2/1) inserted (W.) (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [8(2)(a)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/8/2/a)
+[^c-c1f7d02f64ddf351ea6149c9503bc89f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/2696/regulation/2/1) inserted (W.) (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [8(2)(a)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/8/2/a)
 
 [^f00004]: Footnote: OJ No. L334, 17.12.2010, p.17.
 
-[^key-7f372a41d64f6efb85585fefad559fa9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/2696/regulation/2/1) inserted (W.) (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [8(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/8/2/b)
+[^c-7f372a41d64f6efb85585fefad559fa9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/2696/regulation/2/1) inserted (W.) (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [8(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/8/2/b)
 
-[^key-0972b3bcf4b170596b8200b483f98b3b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/2696/regulation/2/1) inserted (W.) (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [8(2)(c)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/8/2/c)
+[^c-0972b3bcf4b170596b8200b483f98b3b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/2696/regulation/2/1) inserted (W.) (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [8(2)(c)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/8/2/c)
 
-[^key-c71f70baf9dc9a3d619a7e5f03a79f7f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/2696/regulation/2/1) substituted (W.) (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [8(2)(d)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/8/2/d)
+[^c-c71f70baf9dc9a3d619a7e5f03a79f7f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/2696/regulation/2/1) substituted (W.) (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [8(2)(d)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/8/2/d)
 
-[^key-3fa4057c57da540fe554a4f9d9037c71]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/2696/regulation/2/1) inserted (W.) (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [8(2)(e)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/8/2/e)
+[^c-3fa4057c57da540fe554a4f9d9037c71]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/2696/regulation/2/1) inserted (W.) (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [8(2)(e)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/8/2/e)
 
 [^f00005]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 36 was amended by section 93(1) and (3) of the Energy Act [2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20); paragraph 32 of Schedule 2 to the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29); and section 12(7)(a) and (8) of the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23). Relevant amendments were also made in relation to Scotland by [S.I. 2006/1054](https://www.legislation.gov.uk/uksi/2006/1054). Functions of the Secretary of State under section 36(1), (5) and (7) have been transferred to the Marine Management Organisation by section 12(1) to (4) of the Marine and Coastal Access Act 2009 as regards certain offshore generating stations. Functions of the Secretary of State under section 36 have been transferred to the Scottish Ministers by [S.I. 2006/1040](https://www.legislation.gov.uk/uksi/2006/1040), in so far as exercisable in or as regards Scotland (see also [S.I. 2005/3153](https://www.legislation.gov.uk/uksi/2005/3153)).
 
 [^f00006]: Footnote: OJ No. L140, 5.6.2009, p.114.
 
-[^key-c7cc8a2823240c6a9aec806fa68b4c1c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/2696/regulation/3) in force at 25.11.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2696/regulation/1/1)
+[^c-c7cc8a2823240c6a9aec806fa68b4c1c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/2696/regulation/3) in force at 25.11.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2696/regulation/1/1)
 
-[^key-27b23c379d55cb49984d39b1f92e3e76]: Commencement: Reg. 4 in force at 25.11.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2696/regulation/1/1)
+[^c-27b23c379d55cb49984d39b1f92e3e76]: Commencement: Reg. 4 in force at 25.11.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2696/regulation/1/1)
 
-[^key-52b28f64c0ffa37d92580c8d575eb324]: Textual amendment: Words in reg. 4 heading inserted (W.) (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [8(3)(a)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/8/3/a)
+[^c-52b28f64c0ffa37d92580c8d575eb324]: Textual amendment: Words in reg. 4 heading inserted (W.) (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [8(3)(a)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/8/3/a)
 
-[^key-2a797f10e9344eb039c21914a7bcf53b]: Textual amendment: Words in reg. 4(1) inserted (W.) (1.4.2019) by [The Carbon Capture Readiness (Electricity Generating Stations) (Amendment) (Wales) Regulations 2019 (S.I. 2019/294)](https://www.legislation.gov.uk/wsi/2019/294), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/294/regulation/1/1), [4(a)](https://www.legislation.gov.uk/wsi/2019/294/regulation/4/a)
+[^c-2a797f10e9344eb039c21914a7bcf53b]: Textual amendment: Words in reg. 4(1) inserted (W.) (1.4.2019) by [The Carbon Capture Readiness (Electricity Generating Stations) (Amendment) (Wales) Regulations 2019 (S.I. 2019/294)](https://www.legislation.gov.uk/wsi/2019/294), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/294/regulation/1/1), [4(a)](https://www.legislation.gov.uk/wsi/2019/294/regulation/4/a)
 
-[^key-b2c6dae88aed1fcbecc2a6233fdb3ae7]: Textual amendment: Reg. 4(1A) inserted (W.) (1.4.2019) by [The Carbon Capture Readiness (Electricity Generating Stations) (Amendment) (Wales) Regulations 2019 (S.I. 2019/294)](https://www.legislation.gov.uk/wsi/2019/294), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/294/regulation/1/1), [4(b)](https://www.legislation.gov.uk/wsi/2019/294/regulation/4/b)
+[^c-b2c6dae88aed1fcbecc2a6233fdb3ae7]: Textual amendment: Reg. 4(1A) inserted (W.) (1.4.2019) by [The Carbon Capture Readiness (Electricity Generating Stations) (Amendment) (Wales) Regulations 2019 (S.I. 2019/294)](https://www.legislation.gov.uk/wsi/2019/294), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/294/regulation/1/1), [4(b)](https://www.legislation.gov.uk/wsi/2019/294/regulation/4/b)
 
-[^key-2b16132cd52696e422911337b8797286]: Textual amendment: Words in reg. 4(1A) inserted (W.) (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [8(3)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/8/3/b)
+[^c-2b16132cd52696e422911337b8797286]: Textual amendment: Words in reg. 4(1A) inserted (W.) (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [8(3)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/8/3/b)
 
-[^key-2cc0842ff9d00634bb35c87bb33a102c]: Textual amendment: Words in reg. 4(1A) substituted (W.) (2.6.2026) by [The Infrastructure Consent (Consequential and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/85)](https://www.legislation.gov.uk/wsi/2026/85), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/85/regulation/1/2), [2(a)(ii)](https://www.legislation.gov.uk/wsi/2026/85/regulation/2/a/ii)
+[^c-2cc0842ff9d00634bb35c87bb33a102c]: Textual amendment: Words in reg. 4(1A) substituted (W.) (2.6.2026) by [The Infrastructure Consent (Consequential and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/85)](https://www.legislation.gov.uk/wsi/2026/85), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/85/regulation/1/2), [2(a)(ii)](https://www.legislation.gov.uk/wsi/2026/85/regulation/2/a/ii)
 
-[^key-cf65497ecc7843768e591c4a9b45f99a]: Textual amendment: Words in reg. 4(2) inserted (W.) (1.4.2019) by [The Carbon Capture Readiness (Electricity Generating Stations) (Amendment) (Wales) Regulations 2019 (S.I. 2019/294)](https://www.legislation.gov.uk/wsi/2019/294), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/294/regulation/1/1), [4(c)](https://www.legislation.gov.uk/wsi/2019/294/regulation/4/c)
+[^c-cf65497ecc7843768e591c4a9b45f99a]: Textual amendment: Words in reg. 4(2) inserted (W.) (1.4.2019) by [The Carbon Capture Readiness (Electricity Generating Stations) (Amendment) (Wales) Regulations 2019 (S.I. 2019/294)](https://www.legislation.gov.uk/wsi/2019/294), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/294/regulation/1/1), [4(c)](https://www.legislation.gov.uk/wsi/2019/294/regulation/4/c)
 
-[^key-58bb2f14da573f13649d36c998c5debc]: Textual amendment: Words in reg. 4(3)(a) inserted (W.) (1.4.2019) by [The Carbon Capture Readiness (Electricity Generating Stations) (Amendment) (Wales) Regulations 2019 (S.I. 2019/294)](https://www.legislation.gov.uk/wsi/2019/294), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/294/regulation/1/1), [4(d)](https://www.legislation.gov.uk/wsi/2019/294/regulation/4/d)
+[^c-58bb2f14da573f13649d36c998c5debc]: Textual amendment: Words in reg. 4(3)(a) inserted (W.) (1.4.2019) by [The Carbon Capture Readiness (Electricity Generating Stations) (Amendment) (Wales) Regulations 2019 (S.I. 2019/294)](https://www.legislation.gov.uk/wsi/2019/294), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/294/regulation/1/1), [4(d)](https://www.legislation.gov.uk/wsi/2019/294/regulation/4/d)
 
-[^key-28f7305a6c2d74b174a1ce3ccba719c1]: Textual amendment: Reg. 4(3A) inserted (W.) (1.4.2019) by [The Carbon Capture Readiness (Electricity Generating Stations) (Amendment) (Wales) Regulations 2019 (S.I. 2019/294)](https://www.legislation.gov.uk/wsi/2019/294), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/294/regulation/1/1), [4(e)](https://www.legislation.gov.uk/wsi/2019/294/regulation/4/e)
+[^c-28f7305a6c2d74b174a1ce3ccba719c1]: Textual amendment: Reg. 4(3A) inserted (W.) (1.4.2019) by [The Carbon Capture Readiness (Electricity Generating Stations) (Amendment) (Wales) Regulations 2019 (S.I. 2019/294)](https://www.legislation.gov.uk/wsi/2019/294), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/294/regulation/1/1), [4(e)](https://www.legislation.gov.uk/wsi/2019/294/regulation/4/e)
 
-[^key-f57d40e8d3c2b01af420660133838f18]: Textual amendment: Words in reg. 4(3A)(b) inserted (W.) (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [8(3)(c)(i)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/8/3/c/i)
+[^c-f57d40e8d3c2b01af420660133838f18]: Textual amendment: Words in reg. 4(3A)(b) inserted (W.) (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [8(3)(c)(i)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/8/3/c/i)
 
-[^key-d3deb5df7d21ba4a27289105ea1cbe45]: Textual amendment: Words in reg. 4(3A)(b)(i) substituted (W.) (2.6.2026) by The Infrastructure Consent (Consequential and Miscellaneous Amendments) (Wales) Regulations 2026 (W.[S.I. 2026/85](https://www.legislation.gov.uk/uksi/2026/85)), regs. 1(2), 2(b)(i)
+[^c-d3deb5df7d21ba4a27289105ea1cbe45]: Textual amendment: Words in reg. 4(3A)(b)(i) substituted (W.) (2.6.2026) by The Infrastructure Consent (Consequential and Miscellaneous Amendments) (Wales) Regulations 2026 (W.[S.I. 2026/85](https://www.legislation.gov.uk/uksi/2026/85)), regs. 1(2), 2(b)(i)
 
-[^key-25f8e578791e8af7ac6d25131ff1614d]: Textual amendment: Words in reg. 4(3A) substituted (W.) (2.6.2026) by [The Infrastructure Consent (Consequential and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/85)](https://www.legislation.gov.uk/wsi/2026/85), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/85/regulation/1/2), [2(b)(ii)(aa)](https://www.legislation.gov.uk/wsi/2026/85/regulation/2/b/ii/aa)
+[^c-25f8e578791e8af7ac6d25131ff1614d]: Textual amendment: Words in reg. 4(3A) substituted (W.) (2.6.2026) by [The Infrastructure Consent (Consequential and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/85)](https://www.legislation.gov.uk/wsi/2026/85), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/85/regulation/1/2), [2(b)(ii)(aa)](https://www.legislation.gov.uk/wsi/2026/85/regulation/2/b/ii/aa)
 
-[^key-a8918d11c7752b528e0bbf845f1bab5e]: Textual amendment: Words in reg. 4(3A) inserted (W.) (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [8(3)(c)(ii)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/8/3/c/ii)
+[^c-a8918d11c7752b528e0bbf845f1bab5e]: Textual amendment: Words in reg. 4(3A) inserted (W.) (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [8(3)(c)(ii)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/8/3/c/ii)
 
-[^key-185d1b26be1cc91673917920ec3da690]: Textual amendment: Words in reg. 4(3A) inserted (W.) (2.6.2026) by [The Infrastructure Consent (Consequential and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/85)](https://www.legislation.gov.uk/wsi/2026/85), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/85/regulation/1/2), [2(b)(ii)(bb)](https://www.legislation.gov.uk/wsi/2026/85/regulation/2/b/ii/bb)
+[^c-185d1b26be1cc91673917920ec3da690]: Textual amendment: Words in reg. 4(3A) inserted (W.) (2.6.2026) by [The Infrastructure Consent (Consequential and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/85)](https://www.legislation.gov.uk/wsi/2026/85), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/85/regulation/1/2), [2(b)(ii)(bb)](https://www.legislation.gov.uk/wsi/2026/85/regulation/2/b/ii/bb)
 
 [^f00007]: Footnote: Relevant amendments to Schedule 6 to the 2008 Act have been made by Chapter 6 of Part 6 of, and Part 20 of Schedule 25 to, the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20).
 
-[^key-775e11c7614afb703f24361a34632e98]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/2696/regulation/5) in force at 25.11.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2696/regulation/1/1)
+[^c-775e11c7614afb703f24361a34632e98]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/2696/regulation/5) in force at 25.11.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2696/regulation/1/1)
 
-[^key-5e555b39569838bbebac65b7869e5c78]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/2696/regulation/6) in force at 25.11.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2696/regulation/1/1)
+[^c-5e555b39569838bbebac65b7869e5c78]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/2696/regulation/6) in force at 25.11.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2696/regulation/1/1)
 
 [^f00008]: Footnote: Section 36C was inserted by section 20(2) of the Growth and Infrastructure Act [2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27).
 
-[^key-eedfb53802b735e48c66d3b6dd10f205]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2013/2696/regulation/6A) inserted (W.) (1.4.2019) by [The Carbon Capture Readiness (Electricity Generating Stations) (Amendment) (Wales) Regulations 2019 (S.I. 2019/294)](https://www.legislation.gov.uk/wsi/2019/294), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/294/regulation/1/1), [5](https://www.legislation.gov.uk/wsi/2019/294/regulation/5)
+[^c-eedfb53802b735e48c66d3b6dd10f205]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2013/2696/regulation/6A) inserted (W.) (1.4.2019) by [The Carbon Capture Readiness (Electricity Generating Stations) (Amendment) (Wales) Regulations 2019 (S.I. 2019/294)](https://www.legislation.gov.uk/wsi/2019/294), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/294/regulation/1/1), [5](https://www.legislation.gov.uk/wsi/2019/294/regulation/5)
 
-[^key-34b623077f1200539be0c3e7cabb98f8]: Textual amendment: Words in [reg. 6A](https://www.legislation.gov.uk/uksi/2013/2696/regulation/6A) heading inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [8(4)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/8/4)
+[^c-34b623077f1200539be0c3e7cabb98f8]: Textual amendment: Words in [reg. 6A](https://www.legislation.gov.uk/uksi/2013/2696/regulation/6A) heading inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [8(4)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/8/4)
 
-[^key-f6f930bc55f99452d166516f9cd1e2b9]: Textual amendment: Words in [reg. 6A(1)](https://www.legislation.gov.uk/uksi/2013/2696/regulation/6A/1) inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [8(5)(a)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/8/5/a)
+[^c-f6f930bc55f99452d166516f9cd1e2b9]: Textual amendment: Words in [reg. 6A(1)](https://www.legislation.gov.uk/uksi/2013/2696/regulation/6A/1) inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [8(5)(a)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/8/5/a)
 
-[^key-5c0d6e9facde2bb9670cd051344faf56]: Textual amendment: Words in [reg. 6A(4)](https://www.legislation.gov.uk/uksi/2013/2696/regulation/6A/4) inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [8(5)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/8/5/b)
+[^c-5c0d6e9facde2bb9670cd051344faf56]: Textual amendment: Words in [reg. 6A(4)](https://www.legislation.gov.uk/uksi/2013/2696/regulation/6A/4) inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [8(5)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/8/5/b)
 
-[^key-d071690d75b6aaa9efcf72e797dd07aa]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2013/2696/regulation/7) in force at 25.11.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2696/regulation/1/1)
+[^c-d071690d75b6aaa9efcf72e797dd07aa]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2013/2696/regulation/7) in force at 25.11.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2696/regulation/1/1)
 
-[^key-d3885a1e5de8c6e8a62df9b49ff8218a]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2013/2696/regulation/8) inserted (28.2.2026) by [The Environmental Permitting (Electricity Generating Stations) (Amendment) Regulations 2025 (S.I. 2025/154)](https://www.legislation.gov.uk/uksi/2025/154), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/154/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2025/154/regulation/7/3)
+[^c-d3885a1e5de8c6e8a62df9b49ff8218a]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2013/2696/regulation/8) inserted (28.2.2026) by [The Environmental Permitting (Electricity Generating Stations) (Amendment) Regulations 2025 (S.I. 2025/154)](https://www.legislation.gov.uk/uksi/2025/154), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/154/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2025/154/regulation/7/3)
 
 [^f00009]: Footnote: Article 9a was inserted by Article 33 of [Directive 2009/31/EC](https://www.legislation.gov.uk/european/directive/2009/0031) of the European Parliament and of the Council on the geological storage of carbon dioxide (OJ No. L140, 5.6.2009, p.114).

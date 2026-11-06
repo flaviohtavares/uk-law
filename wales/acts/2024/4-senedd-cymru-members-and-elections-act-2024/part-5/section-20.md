@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Power to make consequential, transitional etc. provision[^key-f56e0454c09b951c45afaa2d810694b6]
+## 20. Power to make consequential, transitional etc. provision[^c-f56e0454c09b951c45afaa2d810694b6]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f56e0454c09b951c45afaa2d810694b6]: Commencement: S. 20 in force at 25.6.2024, see [s. 25(1)(c)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/c)
+[^c-f56e0454c09b951c45afaa2d810694b6]: Commencement: S. 20 in force at 25.6.2024, see [s. 25(1)(c)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/c)

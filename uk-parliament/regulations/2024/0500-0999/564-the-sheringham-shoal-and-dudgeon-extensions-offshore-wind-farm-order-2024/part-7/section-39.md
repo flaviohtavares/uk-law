@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Funding[^key-b5da3ea1e137d4e5e0eae9345a27e5e6]
+## 39. Funding[^c-b5da3ea1e137d4e5e0eae9345a27e5e6]
 
 *Extent: E+W*
 
@@ -26,14 +26,14 @@ summary: ''
 
 (3) The provisions are—
 
-- (a) article 17[^key-83958b0d1234e8c8fe4f520b6b49589a] (compulsory acquisition of land);
-- (b) article 19[^key-b987ae9628319dd4ce223b8e351bd341] (compulsory acquisition of rights);
-- (c) article 20[^key-e2301cd7c6438a53e5c791d51a9277e6] (private rights over land);
-- (d) article 22[^key-75c51d538b2e005ded23257c61b82836] (acquisition of subsoil or airspace only);
-- (e) article 24[^key-f7cec73e13089a29a4fb0eced4d4fe56] (rights under or over streets);
-- (f) article 25[^key-66920e9b5c5d84b0161eea66aa5d41c6] (temporary use of land for carrying out the authorised project);
-- (g) article 26[^key-11fd2f517932ccf3ab94fd22227abd22] (temporary use of land for maintaining the authorised project); and
-- (h) article 27[^key-23c80ea159cc8b4dbd8d051cdcdee589] (statutory undertakers).
+- (a) article 17[^c-83958b0d1234e8c8fe4f520b6b49589a] (compulsory acquisition of land);
+- (b) article 19[^c-b987ae9628319dd4ce223b8e351bd341] (compulsory acquisition of rights);
+- (c) article 20[^c-e2301cd7c6438a53e5c791d51a9277e6] (private rights over land);
+- (d) article 22[^c-75c51d538b2e005ded23257c61b82836] (acquisition of subsoil or airspace only);
+- (e) article 24[^c-f7cec73e13089a29a4fb0eced4d4fe56] (rights under or over streets);
+- (f) article 25[^c-66920e9b5c5d84b0161eea66aa5d41c6] (temporary use of land for carrying out the authorised project);
+- (g) article 26[^c-11fd2f517932ccf3ab94fd22227abd22] (temporary use of land for maintaining the authorised project); and
+- (h) article 27[^c-23c80ea159cc8b4dbd8d051cdcdee589] (statutory undertakers).
 
 (4) The form of guarantee or security referred to in paragraphs ‎(1) and ‎(2), and the amount guaranteed or secured, must be approved by the Secretary of State, but such approval must not be unreasonably withheld.
 
@@ -58,20 +58,20 @@ summary: ''
 
 ## Annotations
 
-[^key-b5da3ea1e137d4e5e0eae9345a27e5e6]: Commencement: Art. 39 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-b5da3ea1e137d4e5e0eae9345a27e5e6]: Commencement: Art. 39 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
 
-[^key-83958b0d1234e8c8fe4f520b6b49589a]: Textual amendment: Words in [art. 39(3)(a)](https://www.legislation.gov.uk/uksi/2024/564/article/39/3/a) substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table
+[^c-83958b0d1234e8c8fe4f520b6b49589a]: Textual amendment: Words in [art. 39(3)(a)](https://www.legislation.gov.uk/uksi/2024/564/article/39/3/a) substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table
 
-[^key-b987ae9628319dd4ce223b8e351bd341]: Textual amendment: Words in [art. 39(3)(b)](https://www.legislation.gov.uk/uksi/2024/564/article/39/3/b) substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table
+[^c-b987ae9628319dd4ce223b8e351bd341]: Textual amendment: Words in [art. 39(3)(b)](https://www.legislation.gov.uk/uksi/2024/564/article/39/3/b) substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table
 
-[^key-e2301cd7c6438a53e5c791d51a9277e6]: Textual amendment: Words in [art. 39(3)(c)](https://www.legislation.gov.uk/uksi/2024/564/article/39/3/c) substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table
+[^c-e2301cd7c6438a53e5c791d51a9277e6]: Textual amendment: Words in [art. 39(3)(c)](https://www.legislation.gov.uk/uksi/2024/564/article/39/3/c) substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table
 
-[^key-75c51d538b2e005ded23257c61b82836]: Textual amendment: Words in [art. 39(3)(d)](https://www.legislation.gov.uk/uksi/2024/564/article/39/3/d) substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table
+[^c-75c51d538b2e005ded23257c61b82836]: Textual amendment: Words in [art. 39(3)(d)](https://www.legislation.gov.uk/uksi/2024/564/article/39/3/d) substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table
 
-[^key-f7cec73e13089a29a4fb0eced4d4fe56]: Textual amendment: Words in [art. 39(3)(e)](https://www.legislation.gov.uk/uksi/2024/564/article/39/3/e) substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table
+[^c-f7cec73e13089a29a4fb0eced4d4fe56]: Textual amendment: Words in [art. 39(3)(e)](https://www.legislation.gov.uk/uksi/2024/564/article/39/3/e) substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table
 
-[^key-66920e9b5c5d84b0161eea66aa5d41c6]: Textual amendment: Words in [art. 39(3)(f)](https://www.legislation.gov.uk/uksi/2024/564/article/39/3/f) substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table
+[^c-66920e9b5c5d84b0161eea66aa5d41c6]: Textual amendment: Words in [art. 39(3)(f)](https://www.legislation.gov.uk/uksi/2024/564/article/39/3/f) substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table
 
-[^key-11fd2f517932ccf3ab94fd22227abd22]: Textual amendment: Words in [art. 39(3)(g)](https://www.legislation.gov.uk/uksi/2024/564/article/39/3/g) substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table
+[^c-11fd2f517932ccf3ab94fd22227abd22]: Textual amendment: Words in [art. 39(3)(g)](https://www.legislation.gov.uk/uksi/2024/564/article/39/3/g) substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table
 
-[^key-23c80ea159cc8b4dbd8d051cdcdee589]: Textual amendment: Words in [art. 39(3)(h)](https://www.legislation.gov.uk/uksi/2024/564/article/39/3/h) substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table
+[^c-23c80ea159cc8b4dbd8d051cdcdee589]: Textual amendment: Words in [art. 39(3)(h)](https://www.legislation.gov.uk/uksi/2024/564/article/39/3/h) substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table

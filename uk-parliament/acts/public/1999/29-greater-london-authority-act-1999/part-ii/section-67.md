@@ -23,9 +23,9 @@ summary: ''
 (1) The Mayor may appoint—
 
 - (a) not more than two persons as his political advisers; and
-- (b) not more than eleven[^key-e9fb0e79af12c9a7dcdec0ffcb4822c8] other members of staff.
+- (b) not more than eleven[^c-e9fb0e79af12c9a7dcdec0ffcb4822c8] other members of staff.
 
-(2)[^key-75cf551484885ac59c49c4fdbc91d9c1] The head of the Authority's paid service, after consultation with the Mayor and the Assembly, and having regard, in particular, to—
+(2)[^c-75cf551484885ac59c49c4fdbc91d9c1] The head of the Authority's paid service, after consultation with the Mayor and the Assembly, and having regard, in particular, to—
 
 - (a) the resources available, and
 - (b) the priorities of the Authority,
@@ -53,8 +53,8 @@ may appoint such staff as he considers necessary for the proper discharge of the
 
 ## Annotations
 
-[^key-e9fb0e79af12c9a7dcdec0ffcb4822c8]: Textual amendment: Word in s. 67(1)(b) substituted (E.W.) (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/7); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2018/227/article/2/b/i)
+[^c-e9fb0e79af12c9a7dcdec0ffcb4822c8]: Textual amendment: Word in s. 67(1)(b) substituted (E.W.) (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/7); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2018/227/article/2/b/i)
 
-[^key-75cf551484885ac59c49c4fdbc91d9c1]: Textual amendment: S. 67(2) substituted (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 7(1)](https://www.legislation.gov.uk/ukpga/2007/24/section/7/1), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7) (with [s. 7(5)-(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/7/5)); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/113/article/2/a)
+[^c-75cf551484885ac59c49c4fdbc91d9c1]: Textual amendment: S. 67(2) substituted (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 7(1)](https://www.legislation.gov.uk/ukpga/2007/24/section/7/1), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7) (with [s. 7(5)-(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/7/5)); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/113/article/2/a)
 
 [^c12800741]: Marginal citation: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).

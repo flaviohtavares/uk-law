@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Private rights[^key-ef0d967166504e65f7088f080388a00a]
+## 21. Private rights[^c-ef0d967166504e65f7088f080388a00a]
 
 *Extent: E+W+S*
 
@@ -34,7 +34,7 @@ whichever is the earliest.
 
 whichever is the earliest.
 
-(3) Subject to the provisions of this article, all private rights or restrictive covenants over land of which the undertaker takes temporary possession under this Order are suspended and unenforceable, in so far as their continuance would be inconsistent with the purpose for which temporary possession is taken, for as long as[^key-bc0938c17eed32e64e68ed875cd0a589] the undertaker remains in lawful possession of the land.
+(3) Subject to the provisions of this article, all private rights or restrictive covenants over land of which the undertaker takes temporary possession under this Order are suspended and unenforceable, in so far as their continuance would be inconsistent with the purpose for which temporary possession is taken, for as long as[^c-bc0938c17eed32e64e68ed875cd0a589] the undertaker remains in lawful possession of the land.
 
 (4) Any person who suffers loss by the extinguishment or suspension of any private right or restrictive covenant under this article is entitled to compensation in accordance with the terms of section 152 (compensation in case where no right to claim in nuisance) of the 2008 Act to be determined, in case of dispute, under Part 1 of the 1961 Act.
 
@@ -62,6 +62,6 @@ the agreement is effective in respect of the persons so deriving title, whether 
 
 ## Annotations
 
-[^key-ef0d967166504e65f7088f080388a00a]: Commencement: Art. 21 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-ef0d967166504e65f7088f080388a00a]: Commencement: Art. 21 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
 
-[^key-bc0938c17eed32e64e68ed875cd0a589]: Textual amendment: Word in [art. 21(3)](https://www.legislation.gov.uk/uksi/2023/734/article/21/3) substituted (21.11.2023) by [The Longfield Solar Farm (Correction) Order 2023 (S.I. 2023/1241)](https://www.legislation.gov.uk/uksi/2023/1241), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1241/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2023/1241/schedule)
+[^c-bc0938c17eed32e64e68ed875cd0a589]: Textual amendment: Word in [art. 21(3)](https://www.legislation.gov.uk/uksi/2023/734/article/21/3) substituted (21.11.2023) by [The Longfield Solar Farm (Correction) Order 2023 (S.I. 2023/1241)](https://www.legislation.gov.uk/uksi/2023/1241), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1241/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2023/1241/schedule)

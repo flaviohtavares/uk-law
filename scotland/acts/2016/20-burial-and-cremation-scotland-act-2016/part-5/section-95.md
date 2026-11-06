@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 95. Licensing scheme: regulations[^key-4b1aad5dd0283a1c3774b3d1e187b2a1]
+## 95. Licensing scheme: regulations[^c-4b1aad5dd0283a1c3774b3d1e187b2a1]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b1aad5dd0283a1c3774b3d1e187b2a1]: Commencement: [S. 95](https://www.legislation.gov.uk/asp/2016/20/section/95) in force at 2.6.2023 by [S.S.I. 2023/145](https://www.legislation.gov.uk/ssi/2023/145), [reg. 2](https://www.legislation.gov.uk/ssi/2023/145/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/145/schedule)
+[^c-4b1aad5dd0283a1c3774b3d1e187b2a1]: Commencement: [S. 95](https://www.legislation.gov.uk/asp/2016/20/section/95) in force at 2.6.2023 by [S.S.I. 2023/145](https://www.legislation.gov.uk/ssi/2023/145), [reg. 2](https://www.legislation.gov.uk/ssi/2023/145/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/145/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Committal for sentence on summary trial of offence triable either way: adults and corporations[^key-3d5dce41fe0899e57f21c924692d18d9]
+## 14. Committal for sentence on summary trial of offence triable either way: adults and corporations[^c-3d5dce41fe0899e57f21c924692d18d9]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ This is subject to the provisions mentioned in subsection (4).
 
 ## Annotations
 
-[^key-3d5dce41fe0899e57f21c924692d18d9]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2020/17/section/14) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-3d5dce41fe0899e57f21c924692d18d9]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2020/17/section/14) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

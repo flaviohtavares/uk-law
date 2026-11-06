@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61A. Director disqualification licences[^key-d41651a310b52cdea83cdae75a24502e]
+## 61A. Director disqualification licences[^c-d41651a310b52cdea83cdae75a24502e]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ do not apply to anything done under the authority of that licence.
 
 ## Annotations
 
-[^key-d41651a310b52cdea83cdae75a24502e]: Textual amendment: Reg. 61A inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [7(5)](https://www.legislation.gov.uk/uksi/2024/643/regulation/7/5)
+[^c-d41651a310b52cdea83cdae75a24502e]: Textual amendment: Reg. 61A inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [7(5)](https://www.legislation.gov.uk/uksi/2024/643/regulation/7/5)

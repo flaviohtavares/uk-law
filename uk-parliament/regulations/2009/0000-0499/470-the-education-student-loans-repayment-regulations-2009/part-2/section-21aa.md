@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21AA. Higher interest threshold for plan 2 loans[^key-3cc5e072360b75f31d3d40d109536392]
+## 21AA. Higher interest threshold for plan 2 loans[^c-3cc5e072360b75f31d3d40d109536392]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3cc5e072360b75f31d3d40d109536392]: Textual amendment: [Regs. 21AA](https://www.legislation.gov.uk/uksi/2009/470/regulation/21AA), [21AB](https://www.legislation.gov.uk/uksi/2009/470/regulation/21AB) inserted (6.4.2023) by [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [26](https://www.legislation.gov.uk/uksi/2022/1335/regulation/26)
+[^c-3cc5e072360b75f31d3d40d109536392]: Textual amendment: [Regs. 21AA](https://www.legislation.gov.uk/uksi/2009/470/regulation/21AA), [21AB](https://www.legislation.gov.uk/uksi/2009/470/regulation/21AB) inserted (6.4.2023) by [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [26](https://www.legislation.gov.uk/uksi/2022/1335/regulation/26)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Attendance at counting of signatures[^key-b86086e418efcf052b23bdc8ac1b87d6]
+## 38. Attendance at counting of signatures[^c-b86086e418efcf052b23bdc8ac1b87d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ may be present at the counting of the signing sheets, unless permitted by the pe
 
 ## Annotations
 
-[^key-b86086e418efcf052b23bdc8ac1b87d6]: Commencement: Reg. 38 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-b86086e418efcf052b23bdc8ac1b87d6]: Commencement: Reg. 38 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

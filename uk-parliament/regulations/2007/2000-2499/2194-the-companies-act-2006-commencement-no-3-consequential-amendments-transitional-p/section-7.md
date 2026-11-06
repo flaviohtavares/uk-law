@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Interpretation of provisions brought into force[^key-f8f1fe0b64b728e224fa1b4ee59e9665]
+## 7. Interpretation of provisions brought into force[^c-f8f1fe0b64b728e224fa1b4ee59e9665]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ the expression has, for the purposes of the provision brought into force (or the
 
 ## Annotations
 
-[^key-f8f1fe0b64b728e224fa1b4ee59e9665]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2007/2194/article/7) in force at 1.10.2007, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a)
+[^c-f8f1fe0b64b728e224fa1b4ee59e9665]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2007/2194/article/7) in force at 1.10.2007, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a)

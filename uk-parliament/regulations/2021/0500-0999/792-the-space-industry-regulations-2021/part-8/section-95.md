@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. The spaceport (or other place of launch or landing) and the range[^key-94d73aeccf3899e5daae8b9640928595]
+## 95. The spaceport (or other place of launch or landing) and the range[^c-94d73aeccf3899e5daae8b9640928595]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94d73aeccf3899e5daae8b9640928595]: Commencement: Reg. 95 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-94d73aeccf3899e5daae8b9640928595]: Commencement: Reg. 95 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

@@ -25,7 +25,7 @@ Any property whatsoever held in his official capacity by any of the following, t
 - (a) a statutory officer;
 - (b) the Accountant General of the Court of Judicature[^c20732601];
 - (c) the Official Solicitor;[^c20720861]
-- (d) any person designated as a chief clerk under Article 2(2) of the County Courts (Northern Ireland) Order 1980 or appointed as a clerk of petty sessions under Article 2(4) of the Magistrates’ Courts (Northern Ireland) Order 1981[^key-56201e498d7b6a36f95a6391414ac7ad];
+- (d) any person designated as a chief clerk under Article 2(2) of the County Courts (Northern Ireland) Order 1980 or appointed as a clerk of petty sessions under Article 2(4) of the Magistrates’ Courts (Northern Ireland) Order 1981[^c-56201e498d7b6a36f95a6391414ac7ad];
 - (e) any person appointed by the High Court to hold the property for the purposes of or in connection with any proceedings,
 
 shall, on his dying, becoming bankrupt, ceasing to hold office or ceasing to act for the purposes of or in connection with any such proceedings, vest in the person appointed to succeed him without any conveyance, assignment or transfer.
@@ -36,4 +36,4 @@ shall, on his dying, becoming bankrupt, ceasing to hold office or ceasing to act
 
 [^c20720861]: Textual amendment: S. 76(c) revived (1.5.2004) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 103(7)](https://www.legislation.gov.uk/ukpga/2003/39/section/103/7), [110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1) (with [s. 103(8)](https://www.legislation.gov.uk/ukpga/2003/39/section/103/8)); [S.I. 2004/1104](https://www.legislation.gov.uk/uksi/2004/1104), [art. 3(e)](https://www.legislation.gov.uk/uksi/2004/1104/article/3/e)
 
-[^key-56201e498d7b6a36f95a6391414ac7ad]: Textual amendment: Words in [s. 76(d)](https://www.legislation.gov.uk/ukpga/1978/23/section/76/d) substituted (12.4.2010) by [The Northern Ireland Court Service (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.R. 2010/133)](https://www.legislation.gov.uk/nisr/2010/133), [art. 1](https://www.legislation.gov.uk/nisr/2010/133/article/1), [Sch. para. 5(3)](https://www.legislation.gov.uk/nisr/2010/133/schedule/paragraph/5/3) (with [arts. 5-7](https://www.legislation.gov.uk/nisr/2010/133/article/5))
+[^c-56201e498d7b6a36f95a6391414ac7ad]: Textual amendment: Words in [s. 76(d)](https://www.legislation.gov.uk/ukpga/1978/23/section/76/d) substituted (12.4.2010) by [The Northern Ireland Court Service (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.R. 2010/133)](https://www.legislation.gov.uk/nisr/2010/133), [art. 1](https://www.legislation.gov.uk/nisr/2010/133/article/1), [Sch. para. 5(3)](https://www.legislation.gov.uk/nisr/2010/133/schedule/paragraph/5/3) (with [arts. 5-7](https://www.legislation.gov.uk/nisr/2010/133/article/5))

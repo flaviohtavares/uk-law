@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Exercise of functions[^c22718671][^key-28867c3d87679f185a4efb93dbabcde5]
+## 34. Exercise of functions[^c22718671][^c-28867c3d87679f185a4efb93dbabcde5]
 
 *Extent: E+W*
 
@@ -102,4 +102,4 @@ summary: ''
 
 [^c22718671]: Commencement: S. 34 in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-28867c3d87679f185a4efb93dbabcde5]: Commencement: S. 34(1)(2)(4)-(6) in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-28867c3d87679f185a4efb93dbabcde5]: Commencement: S. 34(1)(2)(4)-(6) in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))

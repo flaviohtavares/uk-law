@@ -50,7 +50,7 @@ This Order is made in exercise of the powers conferred by sections 17(2), (3) an
 
 The Secretary of State, in exercise of those powers, makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-bdb650953caaeb3a64794d411483f38c]
+## 1. Citation, commencement and interpretation[^c-bdb650953caaeb3a64794d411483f38c]
 
 (1) This Order may be cited as the Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014.
 
@@ -63,29 +63,29 @@ The Secretary of State, in exercise of those powers, makes the following Order:
 - “the Act” means the Marriage (Same Sex Couples) Act 2013; and
 - “the 2004 Act” means the Civil Partnership Act 2004.
 
-## 2. Consequential amendments to Acts of Parliament[^key-f3d33c9dae51eb3e3d236ce24704c5b9]
+## 2. Consequential amendments to Acts of Parliament[^c-f3d33c9dae51eb3e3d236ce24704c5b9]
 
 Schedule 1 to this Order (which amends primary legislation in consequence of the Act, the 2004 Act and the Human Fertilisation and Embryology Act 2008) has effect.
 
-## 3. Contrary provision to section 11(1) and (2) of, and paragraphs 1 to 3 of Schedule 3 to, the Act[^key-6664be9ee403418b52867ea9966525fb]
+## 3. Contrary provision to section 11(1) and (2) of, and paragraphs 1 to 3 of Schedule 3 to, the Act[^c-6664be9ee403418b52867ea9966525fb]
 
 *Extent: E+W*
 
 Schedule 2 to this Order (which makes provision to which section 11(1) and (2) of, and paragraphs 1 to 3 of Schedule 3 to, the Act are subject and which disapplies that section and those paragraphs in specified cases) has effect.
 
-## 4. Consequential amendments to enactments etc. as a result of contrary provision made by Schedule 2[^key-9c1768f8d1b28000ed9c818b8df09f4b]
+## 4. Consequential amendments to enactments etc. as a result of contrary provision made by Schedule 2[^c-9c1768f8d1b28000ed9c818b8df09f4b]
 
 *Extent: E+W*
 
 Schedule 3 to this Order (which makes amendments to enactments etc. in consequence of the provision made by Schedule 2 to this Order) has effect.
 
-## 5. Scotland[^key-f1bd4fe86d7cf9304838cb564a31aacb]
+## 5. Scotland[^c-f1bd4fe86d7cf9304838cb564a31aacb]
 
 *Extent: E+W+S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Extent[^key-71017801f8ca2910a5d2bc7d3c70101d]
+## 6. Extent[^c-71017801f8ca2910a5d2bc7d3c70101d]
 
 (1) Subject to paragraphs (2) to (4), this Order extends to England and Wales only.
 
@@ -116,7 +116,7 @@ Minister for Women and Equalities
 
 Article 2
 
-### 1. Metropolitan Public Carriage Act 1869[^key-6de1b1e6e49d603f47bcb1b85cd676a3]
+### 1. Metropolitan Public Carriage Act 1869[^c-6de1b1e6e49d603f47bcb1b85cd676a3]
 
 *Extent: E+W*
 
@@ -127,7 +127,7 @@ In section 6 of the Metropolitan Public Carriage Act 1869[^f00005] (grant of hac
   - (ii) omit “and”, and
 - (b) omit subsection (9)(b).
 
-### 2. Pensions Commutation Act 1871[^key-0978059840d8a889e4664c3a78e58e9d][^key-59de82bc6a03d75005522183fcfb9d3d]
+### 2. Pensions Commutation Act 1871[^c-0978059840d8a889e4664c3a78e58e9d][^c-59de82bc6a03d75005522183fcfb9d3d]
 
 *Extent: E+W+N.I.*
 
@@ -137,7 +137,7 @@ In section 4 of the Pensions Commutation Act 1871[^f00006] (power to Treasury to
 
 .
 
-### 3. Local Government (Emergency Provisions) Act 1916[^key-617f63343d2ddad23cefae3a4b91718e][^key-b2257fb48d6a43bfcff717e53e0a3d50]
+### 3. Local Government (Emergency Provisions) Act 1916[^c-617f63343d2ddad23cefae3a4b91718e][^c-b2257fb48d6a43bfcff717e53e0a3d50]
 
 *Extent: E+W+N.I.*
 
@@ -147,7 +147,7 @@ For section 2 of the Local Government (Emergency Provisions) Act 1916[^f00007] (
 
 .
 
-### 4. Population (Statistics) Act 1938[^key-78edf09d0960d65f0f739baa13e9a72a]
+### 4. Population (Statistics) Act 1938[^c-78edf09d0960d65f0f739baa13e9a72a]
 
 *Extent: E+W*
 
@@ -159,7 +159,7 @@ For paragraph 1(d) of the Schedule to the Population (Statistics) Act 1938[^f000
 
 .
 
-### 5. Marriage Act 1949[^key-069bb1636e6c24932cce454f89a09103]
+### 5. Marriage Act 1949[^c-069bb1636e6c24932cce454f89a09103]
 
 *Extent: E+W*
 
@@ -184,37 +184,37 @@ For paragraph 1(d) of the Schedule to the Population (Statistics) Act 1938[^f000
 
 .
 
-### 6. Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951[^key-f651f53ff773a2d92f918b73edacf882]
+### 6. Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951[^c-f651f53ff773a2d92f918b73edacf882]
 
 *Extent: E+W*
 
 In the closing words of section 46(3) of the Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951[^f00013] (payments to make up civil remuneration), for “his widow” substitute “that person’s surviving spouse, surviving civil partner”.
 
-### 7. Births and Deaths Registration Act 1953[^key-be2e6d33e1571c0e4b6b822c8a7d200d]
+### 7. Births and Deaths Registration Act 1953[^c-be2e6d33e1571c0e4b6b822c8a7d200d]
 
 *Extent: E+W*
 
 In the heading to section 10 of the Births and Deaths Registration Act 1953[^f00014] (registration of father or of second female parent where parents neither married nor civil partners), before “civil partners” insert “married or”.
 
-### 8. Registration of Births, Deaths and Marriages (Special Provisions) Act 1957[^key-ecd26a97eea38196c5e61914cb561abd]
+### 8. Registration of Births, Deaths and Marriages (Special Provisions) Act 1957[^c-ecd26a97eea38196c5e61914cb561abd]
 
 *Extent: E+W*
 
 In section 5(3) of the Registration of Births, Deaths and Marriages (Special Provisions) Act 1957[^f00015] (registration of births of legitimated persons in the service departments registers), in paragraph (b), for “is” substitute “includes”.
 
-### 9. Transport Act 1962[^key-12e6da6624bad4b0ef03f8df8d3aac28]
+### 9. Transport Act 1962[^c-12e6da6624bad4b0ef03f8df8d3aac28]
 
 *Extent: E+W*
 
 In section 65(5) of the Transport Act 1962[^f00016] (railway savings banks), for the words “is a man” to the end substitute “is a person who dies leaving a surviving spouse or surviving civil partner, that survivor for so long as that survivor does not subsequently marry, enter into a civil partnership or die.”.
 
-### 10. Harbours Act 1964[^key-86b75228cbef15cf837c73ffdb0efd67]
+### 10. Harbours Act 1964[^c-86b75228cbef15cf837c73ffdb0efd67]
 
 *Extent: E+W*
 
 In section 18(2) of the Harbours Act 1964[^f00017] (harbour reorganisation schemes), in paragraph (h), after “spouses” in both places it occurs, insert “, civil partners”.
 
-### 11. Sharing of Church Buildings Act 1969[^key-4b7bf438c4d3eff1cb4268a4568da2c7]
+### 11. Sharing of Church Buildings Act 1969[^c-4b7bf438c4d3eff1cb4268a4568da2c7]
 
 *Extent: E+W*
 
@@ -236,7 +236,7 @@ In section 18(2) of the Harbours Act 1964[^f00017] (harbour reorganisation schem
 - (b) after “paragraph 3” insert “or 3A”, and
 - (c) for the “said proviso” substitute “section 43(1A) or 43B(3)”.
 
-### 12. Consumer Credit Act 1974[^key-faaaffbb1f43096c7d32b3a8d2102da3]
+### 12. Consumer Credit Act 1974[^c-faaaffbb1f43096c7d32b3a8d2102da3]
 
 *Extent: E+W*
 
@@ -246,7 +246,7 @@ In section 16C(4) of the Consumer Credit Act 1974[^f00019] (exemption relating t
 
 .
 
-### 13. Social Security Pensions Act 1975[^key-36b2f64ec714d64a6e46ab37a0488539]
+### 13. Social Security Pensions Act 1975[^c-36b2f64ec714d64a6e46ab37a0488539]
 
 *Extent: E+W*
 
@@ -255,7 +255,7 @@ In section 59(5ZA)[^f00020] of the Social Security Pensions Act 1975[^f00021] (i
 - (a) in the opening words, for the words “widow’s, widower’s” substitute “surviving spouse’s”, and
 - (b) in paragraph (c), for the words “widow’s, widower’s” substitute “surviving spouse’s”.
 
-### 14. Fatal Accidents Act 1976[^key-36dfff887d2b5dfbd3e6a520867bab7e]
+### 14. Fatal Accidents Act 1976[^c-36dfff887d2b5dfbd3e6a520867bab7e]
 
 *Extent: E+W*
 
@@ -267,7 +267,7 @@ In section 1(5) of the Fatal Accidents Act 1976[^f00022] (right of action for wr
 
 .
 
-### 15. Legitimacy Act 1976[^key-8ddcfbf109c3ef0372cd836bfc2e1923]
+### 15. Legitimacy Act 1976[^c-8ddcfbf109c3ef0372cd836bfc2e1923]
 
 *Extent: E+W*
 
@@ -307,19 +307,19 @@ In section 1(5) of the Fatal Accidents Act 1976[^f00022] (right of action for wr
     - (aa) after “date of the” insert “marriage or”, and
     - (bb) after “subsequent” insert “marriage or”.
 
-### 16. Rent Act 1977[^key-6ecadf139bac51ad96bd804fdf7d1a37]
+### 16. Rent Act 1977[^c-6ecadf139bac51ad96bd804fdf7d1a37]
 
 *Extent: E+W*
 
 In paragraph 2(3) of Schedule 1 to the Rent Act 1977[^f00026] (statutory tenants by succession), for the word “treated” to the end substitute “treated as the tenant’s spouse, or if that person is the same sex as the tenant, and falls within paragraph 2(2)(b) of this Schedule, as the tenant’s civil partner.”.
 
-### 17. Transport Act 1978[^key-82140efd211e8496160ca3b15788c57f][^key-c012d1246bc9b0ef4673d3d900daccac]
+### 17. Transport Act 1978[^c-82140efd211e8496160ca3b15788c57f][^c-c012d1246bc9b0ef4673d3d900daccac]
 
 *Extent: E+W+N.I.*
 
 In section 21 of the Transport Act 1978[^f00027] (travel concessions for transferred employees), for “widows” substitute “surviving spouses, surviving civil partners”.
 
-### 18. Pneumoconiosis etc. (Workers’ Compensation) Act 1979[^key-5e989a106aea0bb22aad90eddd0ad4e5]
+### 18. Pneumoconiosis etc. (Workers’ Compensation) Act 1979[^c-5e989a106aea0bb22aad90eddd0ad4e5]
 
 *Extent: E+W*
 
@@ -332,7 +332,7 @@ In section 3 of the Pneumoconiosis etc. (Workers’ Compensation) Act 1979[^f000
   , and
 - (b) omit subsection (2B).
 
-### 19. Family Law Reform Act 1987[^key-21ca2c02ca1a8dba0d5935bcd83c33f5]
+### 19. Family Law Reform Act 1987[^c-21ca2c02ca1a8dba0d5935bcd83c33f5]
 
 *Extent: E+W*
 
@@ -344,13 +344,13 @@ In section 1(3) of the Family Law Reform Act 1987[^f00029] (general principle of
 - (b) in paragraph (bb)(i), after “is” insert “married to or”, and
 - (c) in paragraph (bb)(ii), after “was” insert “married to or”.
 
-### 20. Housing Act 1988[^key-a00c30c547b7dfccfedde08062232e7f]
+### 20. Housing Act 1988[^c-a00c30c547b7dfccfedde08062232e7f]
 
 *Extent: E+W*
 
 In section 17(5) of the Housing Act 1988[^f00030] (succession to assured tenancy), for the word “treated” to the end substitute “treated as the tenant’s spouse, or if that person is the same sex as the tenant, and falls within subsection (4)(b), as the tenant’s civil partner.”.
 
-### 21. Child Support Act 1991[^key-f015f2b36744c712039fb5b2c8213870]
+### 21. Child Support Act 1991[^c-f015f2b36744c712039fb5b2c8213870]
 
 *Extent: E+W*
 
@@ -378,7 +378,7 @@ In section 17(5) of the Housing Act 1988[^f00030] (succession to assured tenancy
   , and
 - (b) omit sub-paragraph (6).
 
-### 22. Social Security Contributions and Benefits Act 1992[^key-7425674ac83ef90554dd6fe43a7e341b]
+### 22. Social Security Contributions and Benefits Act 1992[^c-7425674ac83ef90554dd6fe43a7e341b]
 
 *Extent: E+W*
 
@@ -436,7 +436,7 @@ In section 17(5) of the Housing Act 1988[^f00030] (succession to assured tenancy
   , and
 - (b) in paragraph 15(3)[^f00046] (widow’s benefit (entitlement)), for the words from “husband and wife” to the end substitute “a married couple with a person whom she is not married to or in a civil partnership with.”.
 
-### 23. Social Security Administration Act 1992[^key-65576f9d86ce1dcf51886c38383c24a8]
+### 23. Social Security Administration Act 1992[^c-65576f9d86ce1dcf51886c38383c24a8]
 
 *Extent: E+W*
 
@@ -445,13 +445,13 @@ In section 15A of the Social Security Administration Act 1992[^f00047] (payment 
 - (a) in subsection (4)[^f00048], in paragraph (b) of the definition of “partner”, for “husband and wife or as if they were civil partners” substitute “if they were a married couple”, and
 - (b) omit subsection (4B)[^f00049].
 
-### 24. Trade Union and Labour Relations (Consolidation) Act 1992[^key-c27cb6c745549e6fc25a5fded7fa3b9e]
+### 24. Trade Union and Labour Relations (Consolidation) Act 1992[^c-c27cb6c745549e6fc25a5fded7fa3b9e]
 
 *Extent: E+W*
 
 In section 38(1) of the Trade Union and Labour Relations (Consolidation) Act 1992[^f00050] (members’ superannuation schemes: separate fund to be maintained), in paragraph (a), after “widows’” insert “, widowers’, surviving civil partners’’”.
 
-### 25. Pension Schemes Act 1993[^key-f2ce1dc2b91f61f88bf29dc5baa3fc1e]
+### 25. Pension Schemes Act 1993[^c-f2ce1dc2b91f61f88bf29dc5baa3fc1e]
 
 *Extent: E+W*
 
@@ -460,7 +460,7 @@ In section 17 of the Pension Schemes Act 1993[^f00051] (minimum pension for wido
 - (a) in subsection (4A)(c)(i)[^f00052], for paragraphs (a) and (b) (but not the “nor” following paragraph (b)) substitute “another person are living together as a married couple;”, and
 - (b) omit subsection (9)[^f00053].
 
-### 26. Jobseekers Act 1995[^key-9596ff40a711cfa78dc6df793551c14f]
+### 26. Jobseekers Act 1995[^c-9596ff40a711cfa78dc6df793551c14f]
 
 *Extent: E+W*
 
@@ -476,13 +476,13 @@ In section 17 of the Pension Schemes Act 1993[^f00051] (minimum pension for wido
 
 (3) Omit subsection (1A).
 
-### 27. Pensions Act 1995[^key-5e60b9867d284ca0c6fd15cb5045104d]
+### 27. Pensions Act 1995[^c-5e60b9867d284ca0c6fd15cb5045104d]
 
 *Extent: E+W*
 
 In section 124(1) of the Pensions Act 1995[^f00055] (interpretation of Part 1), omit the definition of “civil partnership status”.
 
-### 28. State Pension Credit Act 2002[^key-7f7c1b007374ae3c282796079cb87eb7]
+### 28. State Pension Credit Act 2002[^c-7f7c1b007374ae3c282796079cb87eb7]
 
 *Extent: E+W*
 
@@ -498,7 +498,7 @@ In section 124(1) of the Pensions Act 1995[^f00055] (interpretation of Part 1), 
 
 (3) Omit subsection (1A).
 
-### 29. Civil Partnership Act 2004[^key-78f27834169ddf409d28c2fa9bc77b19]
+### 29. Civil Partnership Act 2004[^c-78f27834169ddf409d28c2fa9bc77b19]
 
 (1) The 2004 Act[^f00057] is amended as follows.
 
@@ -510,7 +510,7 @@ In section 124(1) of the Pensions Act 1995[^f00055] (interpretation of Part 1), 
 
 (3) In each of paragraphs 5 (declaration) and 11 (declaration) of Schedule 2 (civil partnerships of persons under 18: England and Wales), after “civil partner” insert “, widow or widower”.
 
-### 30. Mental Capacity Act 2005[^key-ad075bdef62c2b1f8e49a82a47471d80]
+### 30. Mental Capacity Act 2005[^c-ad075bdef62c2b1f8e49a82a47471d80]
 
 *Extent: E+W*
 
@@ -520,13 +520,13 @@ In paragraph 185 of Schedule A1 to the Mental Capacity Act 2005[^f00058] (interp
 
 .
 
-### 31. Family Law (Scotland) Act 2006[^key-c5ba7d472359ec9e3ebbfe5bcbcf4276]
+### 31. Family Law (Scotland) Act 2006[^c-c5ba7d472359ec9e3ebbfe5bcbcf4276]
 
 *Extent: E+W+S*
 
 In section 38(1) of the Family Law (Scotland) Act 2006[^f00059] (validity of marriages), for “the Foreign Marriage Act [1892 (c. 23)](https://www.legislation.gov.uk/ukpga/1892/23)” substitute “section 13(1) of, and Schedule 6 to, the Marriage (Same Sex Couples) Act 2013 and any Orders in Council made under that Schedule”.
 
-### 32. Welfare Reform Act 2007[^key-5c74a1b078900ab0655b16a778eeaaf1]
+### 32. Welfare Reform Act 2007[^c-5c74a1b078900ab0655b16a778eeaaf1]
 
 *Extent: E+W*
 
@@ -542,7 +542,7 @@ In section 38(1) of the Family Law (Scotland) Act 2006[^f00059] (validity of mar
 
 (3) Omit sub-paragraph (6).
 
-### 33. Statistics and Registration Service Act 2007[^key-6152069a9b3ef45edd9a48bffdc88f11]
+### 33. Statistics and Registration Service Act 2007[^c-6152069a9b3ef45edd9a48bffdc88f11]
 
 *Extent: E+W*
 
@@ -552,13 +552,13 @@ In section 42(2) of the Statistics and Registration Service Act 2007[^f00061] (i
 
 .
 
-### 34. Welfare Reform Act 2009[^key-317e19d6fc1ceed3fc050a9c7f8616d0]
+### 34. Welfare Reform Act 2009[^c-317e19d6fc1ceed3fc050a9c7f8616d0]
 
 *Extent: E+W*
 
 In paragraph 2(2) of Schedule 6 to the Welfare Reform Act 2009[^f00062], before “civil partners” insert “married or”.
 
-### 35. Equality Act 2010[^key-d2365bc9daf2d1cebf2a64906dad71a4]
+### 35. Equality Act 2010[^c-d2365bc9daf2d1cebf2a64906dad71a4]
 
 *Extent: E+W*
 
@@ -575,7 +575,7 @@ In paragraph 2(2) of Schedule 6 to the Welfare Reform Act 2009[^f00062], before 
 
 (3) Omit section 80(7) (interpretation and exceptions).
 
-### 36. Welfare Reform Act 2012[^key-c0c7ecebe3e5ba5c089787f93cdcca1f]
+### 36. Welfare Reform Act 2012[^c-c0c7ecebe3e5ba5c089787f93cdcca1f]
 
 *Extent: E+W*
 
@@ -605,30 +605,30 @@ Article 3
 
 ### PART 1 — Common law
 
-#### 1. Provision disapplying the effect of section 11(1) and (2) of the Act in respect of the common law[^key-4b2110f62d1db7de3c0b2f03d92bdbf2]
+#### 1. Provision disapplying the effect of section 11(1) and (2) of the Act in respect of the common law[^c-4b2110f62d1db7de3c0b2f03d92bdbf2]
 
 Section 11(1) and (2) of the Act does not apply to the common law concerning the right of a person—
 
 - (a) who marries, or who is married to, the King Regnant, to the title of Queen, or
 - (b) who marries, or who is married to, the Prince of Wales, to the title of Princess of Wales.
 
-**2.**[^key-7eaa9fc1c47335aab2085e5188ea0414] Section 11(1) and (2) of the Act does not apply to the common law concerning the acquisition of a right to, or interest in, a peerage, and all titles, rights, offices, privileges and precedence attaching to it, by a person who marries or who is married to a peer holding that peerage.
+**2.**[^c-7eaa9fc1c47335aab2085e5188ea0414] Section 11(1) and (2) of the Act does not apply to the common law concerning the acquisition of a right to, or interest in, a peerage, and all titles, rights, offices, privileges and precedence attaching to it, by a person who marries or who is married to a peer holding that peerage.
 
 ### PART 2 — EU instruments
 
-#### 3. Provision disapplying the effect of section 11(1) and (2) of the Act in respect of EU instruments[^key-536069002d812aec8b307e13c994da86]
+#### 3. Provision disapplying the effect of section 11(1) and (2) of the Act in respect of EU instruments[^c-536069002d812aec8b307e13c994da86]
 
 Section 11(1) and (2) of the Act does not apply to EU instruments.
 
 ### PART 3 — Enactments etc. (general)
 
-#### 4. Provision to which section 11(1) and (2) of, and paragraphs 1 to 3 of Schedule 3 to, the Act are subject[^key-d7e0739d049fb2dd1d3c20bf69ef8559]
+#### 4. Provision to which section 11(1) and (2) of, and paragraphs 1 to 3 of Schedule 3 to, the Act are subject[^c-d7e0739d049fb2dd1d3c20bf69ef8559]
 
 (1) Section 11(1) and (2) of, and paragraphs 1 to 3 of Schedule 3 to, the Act have effect subject to sub-paragraph (2).
 
 (2) In the calculation of the amount of death benefits payable under rules E.3(6)(a), E.4(3)(a) and E.5(3)(a) in Part E of Schedule 1 to the Armed Forces Pension Scheme Order 2005[^f00065], a surviving spouse who was married to someone of the same sex is to be treated in the same way as the surviving civil partner of a civil partnership.
 
-#### 5. Provision disapplying the effect of section 11(1) and (2) of, and paragraphs 1 to 3 of Schedule 3 to, the Act in respect of enactments[^key-861e9b432b1aa893046dc01fbd466147]
+#### 5. Provision disapplying the effect of section 11(1) and (2) of, and paragraphs 1 to 3 of Schedule 3 to, the Act in respect of enactments[^c-861e9b432b1aa893046dc01fbd466147]
 
 Section 11(1) and (2) of, and paragraphs 1 to 3 of Schedule 3 to, the Act do not apply to—
 
@@ -708,7 +708,7 @@ Article 4
 
 ### PART 1 — Enactments (general)
 
-#### 1. Pensions (Increase) Act 1971[^key-985e7aad8f43ecd204372a6ade33ad1b][^key-144b2c8e165333b300d18f181147298c]
+#### 1. Pensions (Increase) Act 1971[^c-985e7aad8f43ecd204372a6ade33ad1b][^c-144b2c8e165333b300d18f181147298c]
 
 *Extent: E+W+N.I.*
 
@@ -721,7 +721,7 @@ Article 4
 - (a) in the opening words after “payable” insert “to a woman”, and
 - (b) for “husband” in both places it occurs, substitute “male spouse”.
 
-#### 2. Social Security Pensions Act 1975[^key-eeb32984c79ba855e3132a62980d2d44]
+#### 2. Social Security Pensions Act 1975[^c-eeb32984c79ba855e3132a62980d2d44]
 
 (1) Section 59 of the Social Security Pensions Act 1975 (increase of official pensions) is amended as follows.
 
@@ -734,12 +734,12 @@ Article 4
 
 (3) In subsection (5ZC)—
 
-- (a)[^key-e999eb365f00a626bf13dbb5cd5cc645] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-e999eb365f00a626bf13dbb5cd5cc645] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (b), before “surviving civil partner’s” insert “pension due to a surviving spouse who was married to someone of the same sex and a”.
 
 (4) In subsection (7)[^f00136], omit the definition of “widower’s pension”.
 
-#### 3. Pensions Increase (Review) Orders 1979 to 1990[^key-7f8bda911e04cc8d751c2d8eefd9e784]
+#### 3. Pensions Increase (Review) Orders 1979 to 1990[^c-7f8bda911e04cc8d751c2d8eefd9e784]
 
 In article 2 (interpretation) of each of—
 
@@ -758,7 +758,7 @@ In article 2 (interpretation) of each of—
 
 in the definition of “widow’s pension”, for “in respect” to the end substitute “to a woman in respect of the services of her deceased male spouse.”.
 
-#### 4. Social Security Contributions and Benefits Act 1992[^key-1f80f6cb99bb8d49cdee418554f48b8a]
+#### 4. Social Security Contributions and Benefits Act 1992[^c-1f80f6cb99bb8d49cdee418554f48b8a]
 
 (1) Schedule 5 to the Social Security Contributions and Benefits Act 1992 (pension increase or lump sum where entitlement to retirement pension is deferred) is amended as follows.
 
@@ -794,7 +794,7 @@ in the definition of “widow’s pension”, for “in respect” to the end su
   , and
 - (b) in sub-paragraph (2)(c), before “civil partner” insert “spouse or”.
 
-#### 5. Occupational Pension Schemes (Contracting-out) Regulations 1996[^key-d27a510e402d2c9235722079c1d15322]
+#### 5. Occupational Pension Schemes (Contracting-out) Regulations 1996[^c-d27a510e402d2c9235722079c1d15322]
 
 (1) The Occupational Pension Schemes (Contracting-out) Regulations 1996 are amended as follows.
 
@@ -808,7 +808,7 @@ in the definition of “widow’s pension”, for “in respect” to the end su
 - (a) in sub-paragraph (c), for “widows” substitute “widows whose spouse was a man”, and
 - (b) in sub-paragraph (d), for “widowers” substitute “widowers, widows whose spouse was a woman”.
 
-#### 6. Occupational Pension Schemes (Modification of Schemes) Regulations 2006[^key-e8e602971f65de0fac65ee3545a1a16f]
+#### 6. Occupational Pension Schemes (Modification of Schemes) Regulations 2006[^c-e8e602971f65de0fac65ee3545a1a16f]
 
 (1) The Occupational Pension Schemes (Modification of Schemes) Regulations 2006 are amended as follows.
 
@@ -818,11 +818,11 @@ in the definition of “widow’s pension”, for “in respect” to the end su
 
 ### PART 2 — Enactments etc. (public service pension schemes)
 
-#### 7. Armed Forces Pension Scheme Order 2005[^key-4586b4d9dd3cad2d5f1b7f6bac499bd9]
+#### 7. Armed Forces Pension Scheme Order 2005[^c-4586b4d9dd3cad2d5f1b7f6bac499bd9]
 
 In each of rules E.3(6)(a), E.4(3)(a) and E.5(3)(a) in Part E of Schedule 1 to the Armed Forces Pension Scheme Order 2005[^f00138], before “civil partner” insert “person who was married to someone of the same sex or a”.
 
-#### 8. Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010[^key-2dc2a4805a552a7fa421776e3a146fb8]
+#### 8. Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010[^c-2dc2a4805a552a7fa421776e3a146fb8]
 
 (1) Part E of Schedule 1 to the Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010 (death benefits) is amended as follows.
 
@@ -848,14 +848,14 @@ In each of rules E.3(6)(a), E.4(3)(a) and E.5(3)(a) in Part E of Schedule 1 to t
 
 .
 
-**9.**[^key-5a0123ae765e70a3a1cfc016dee45f36] In Part C of Schedule 2 to the Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010 (benefits payable to surviving adult dependants), in rule C.2 (conditions relating to the deceased), for paragraphs (a) and (b) substitute—
+**9.**[^c-5a0123ae765e70a3a1cfc016dee45f36] In Part C of Schedule 2 to the Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010 (benefits payable to surviving adult dependants), in rule C.2 (conditions relating to the deceased), for paragraphs (a) and (b) substitute—
 
 > - (a) the deceased person was in service on or after 31st March 1973 and at the time of his death was a man married to a woman;
 > - (b) the deceased person was in service on or after 6th April 1978, married after discharge, and at the time of his death was a man married to a woman;
 
 .
 
-**10.**[^key-d54eb6ffd3e612829bee468bb5b820ea] In Part D of Schedule 2 to the Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010 (benefits payable in respect of eligible children), for rule D.1(3) (entitlement to a child’s compensation) substitute—
+**10.**[^c-d54eb6ffd3e612829bee468bb5b820ea] In Part D of Schedule 2 to the Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010 (benefits payable in respect of eligible children), for rule D.1(3) (entitlement to a child’s compensation) substitute—
 
 > (3) This Part will only apply when—
 >
@@ -866,7 +866,7 @@ In each of rules E.3(6)(a), E.4(3)(a) and E.5(3)(a) in Part E of Schedule 1 to t
 
 .
 
-#### 11. Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Warrant 2010[^key-89587a9f62ae5a6b6c8ec4d293ade80a]
+#### 11. Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Warrant 2010[^c-89587a9f62ae5a6b6c8ec4d293ade80a]
 
 (1) Part E of Schedule 1 to the Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Warrant 2010 (death benefits) is amended as follows.
 
@@ -892,14 +892,14 @@ In each of rules E.3(6)(a), E.4(3)(a) and E.5(3)(a) in Part E of Schedule 1 to t
 
 .
 
-**12.**[^key-640c85501d0148d8e1f0137a52b29253] In Part C of Schedule 2 to the Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Warrant 2010 (benefits payable to surviving adult dependants), in rule C.2 (conditions relating to the deceased), for paragraphs (a) and (b) substitute—
+**12.**[^c-640c85501d0148d8e1f0137a52b29253] In Part C of Schedule 2 to the Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Warrant 2010 (benefits payable to surviving adult dependants), in rule C.2 (conditions relating to the deceased), for paragraphs (a) and (b) substitute—
 
 > - (a) the deceased person was in service on or after 31st March 1973 and at the time of his death was a man married to a woman;
 > - (b) the deceased person was in service on or after 6th April 1978, married after discharge, and at the time of his death was a man married to a woman;
 
 .
 
-**13.**[^key-26ddd4c0cac74bd2434956fc67f8e4d5] In Part D of Schedule 2 to the Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Warrant 2010 (benefits payable in respect of eligible children), for rule D.1(3) (entitlement to a child’s compensation) substitute—
+**13.**[^c-26ddd4c0cac74bd2434956fc67f8e4d5] In Part D of Schedule 2 to the Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Warrant 2010 (benefits payable in respect of eligible children), for rule D.1(3) (entitlement to a child’s compensation) substitute—
 
 > (3) This Part will only apply when—
 >
@@ -910,7 +910,7 @@ In each of rules E.3(6)(a), E.4(3)(a) and E.5(3)(a) in Part E of Schedule 1 to t
 
 .
 
-#### 14. Air Force (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010[^key-9e9e70b01514f6b6d899577d4becc358]
+#### 14. Air Force (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010[^c-9e9e70b01514f6b6d899577d4becc358]
 
 (1) Part E of Schedule 1 to the Air Force (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010 (death benefits) is amended as follows.
 
@@ -936,14 +936,14 @@ In each of rules E.3(6)(a), E.4(3)(a) and E.5(3)(a) in Part E of Schedule 1 to t
 
 .
 
-**15.**[^key-19e36c82c8573ae5efb78dd84d2b6cea] In Part C of Schedule 2 to the Air Force (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010 (benefits payable to surviving adult dependants), in rule C.2 (conditions relating to the deceased), for paragraphs (a) and (b) substitute—
+**15.**[^c-19e36c82c8573ae5efb78dd84d2b6cea] In Part C of Schedule 2 to the Air Force (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010 (benefits payable to surviving adult dependants), in rule C.2 (conditions relating to the deceased), for paragraphs (a) and (b) substitute—
 
 > - (a) the deceased person was in service on or after 31st March 1973 and at the time of his death was a man married to a woman;
 > - (b) the deceased person was in service on or after 6th April 1978, married after discharge, and at the time of his death was a man married to a woman;
 
 .
 
-**16.**[^key-36c1760a92b7b5042e7dad32e86e99a7] In Part D of Schedule 2 to the Air Force (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010 (benefits payable in respect of eligible children), for rule D.1(3) (entitlement to a child’s compensation) substitute—
+**16.**[^c-36c1760a92b7b5042e7dad32e86e99a7] In Part D of Schedule 2 to the Air Force (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010 (benefits payable in respect of eligible children), for rule D.1(3) (entitlement to a child’s compensation) substitute—
 
 > (3) This Part will only apply when—
 >
@@ -954,7 +954,7 @@ In each of rules E.3(6)(a), E.4(3)(a) and E.5(3)(a) in Part E of Schedule 1 to t
 
 .
 
-**17.**[^key-ac3a6d10174fc98e90f661b7f4123b46] (1) Pension schemes referred to in the first column of the table at sub-paragraph (2) are amended in the appropriate place as specified in the second column by the insertion of—
+**17.**[^c-ac3a6d10174fc98e90f661b7f4123b46] (1) Pension schemes referred to in the first column of the table at sub-paragraph (2) are amended in the appropriate place as specified in the second column by the insertion of—
 
 - (a) the following provision, with the number 1 substituted by the appropriate number specified in the third column—
 
@@ -1070,41 +1070,41 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00003]: Footnote: [2008 c. 22](https://www.legislation.gov.uk/ukpga/2008/22).
 
-[^key-bdb650953caaeb3a64794d411483f38c]: Commencement: Art. 1 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-bdb650953caaeb3a64794d411483f38c]: Commencement: Art. 1 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00004]: Footnote: [2006 asp. 2](https://www.legislation.gov.uk/asp/2006/2).
 
-[^key-f3d33c9dae51eb3e3d236ce24704c5b9]: Commencement: Art. 2 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-f3d33c9dae51eb3e3d236ce24704c5b9]: Commencement: Art. 2 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
-[^key-6664be9ee403418b52867ea9966525fb]: Commencement: Art. 3 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-6664be9ee403418b52867ea9966525fb]: Commencement: Art. 3 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
-[^key-9c1768f8d1b28000ed9c818b8df09f4b]: Commencement: Art. 4 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-9c1768f8d1b28000ed9c818b8df09f4b]: Commencement: Art. 4 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
-[^key-f1bd4fe86d7cf9304838cb564a31aacb]: Textual amendment: Art. 5 revoked (16.12.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Provisions) Order 2014 (S.I. 2014/3168)](https://www.legislation.gov.uk/uksi/2014/3168), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/3), [4](https://www.legislation.gov.uk/uksi/2014/3168/article/4) (with [art. 5](https://www.legislation.gov.uk/uksi/2014/3168/article/5))
+[^c-f1bd4fe86d7cf9304838cb564a31aacb]: Textual amendment: Art. 5 revoked (16.12.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Provisions) Order 2014 (S.I. 2014/3168)](https://www.legislation.gov.uk/uksi/2014/3168), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/3), [4](https://www.legislation.gov.uk/uksi/2014/3168/article/4) (with [art. 5](https://www.legislation.gov.uk/uksi/2014/3168/article/5))
 
-[^key-71017801f8ca2910a5d2bc7d3c70101d]: Commencement: Art. 6 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-71017801f8ca2910a5d2bc7d3c70101d]: Commencement: Art. 6 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
-[^key-6de1b1e6e49d603f47bcb1b85cd676a3]: Commencement: Sch. 1 para. 1 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-6de1b1e6e49d603f47bcb1b85cd676a3]: Commencement: Sch. 1 para. 1 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00005]: Footnote: [1869 c. 115](https://www.legislation.gov.uk/ukpga/1869/115); section 6 was substituted by the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), Schedule 20, paragraph 5(1) and (3).
 
-[^key-0978059840d8a889e4664c3a78e58e9d]: Commencement: Sch. 1 para. 2 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-0978059840d8a889e4664c3a78e58e9d]: Commencement: Sch. 1 para. 2 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
-[^key-59de82bc6a03d75005522183fcfb9d3d]: Modification: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2014/560/schedule/1/paragraph/2): amendment extended to N.I. (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [149(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/149/b/i/aa) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-59de82bc6a03d75005522183fcfb9d3d]: Modification: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2014/560/schedule/1/paragraph/2): amendment extended to N.I. (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [149(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/149/b/i/aa) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^f00006]: Footnote: [1871 c. 36](https://www.legislation.gov.uk/ukpga/1871/36); section 4(2) was amended by the 2004 Act, Schedule 26, paragraph 3(1); it was repealed in relation to certain persons by the Superannuation Act [1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11), Schedule 8. There are other amendments to section 4 not relevant to this Order.
 
-[^key-617f63343d2ddad23cefae3a4b91718e]: Commencement: Sch. 1 para. 3 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-617f63343d2ddad23cefae3a4b91718e]: Commencement: Sch. 1 para. 3 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
-[^key-b2257fb48d6a43bfcff717e53e0a3d50]: Modification: Sch. 1 para. 3: amendment extended to N.I. (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [149(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/149/b/i/bb) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-b2257fb48d6a43bfcff717e53e0a3d50]: Modification: Sch. 1 para. 3: amendment extended to N.I. (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [149(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/149/b/i/bb) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^f00007]: Footnote: [1916 c. 12](https://www.legislation.gov.uk/ukpga/1916/12).
 
-[^key-78edf09d0960d65f0f739baa13e9a72a]: Commencement: Sch. 1 para. 4 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-78edf09d0960d65f0f739baa13e9a72a]: Commencement: Sch. 1 para. 4 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00008]: Footnote: [1938 c. 12](https://www.legislation.gov.uk/ukpga/1938/12); the Schedule was substituted by the Schedule to the Population (Statistics) Act [1960 (c. 32)](https://www.legislation.gov.uk/ukpga/1960/32), section 1(2); paragraph 1(c) to (e) was inserted in relation to England and Wales by the Welfare Reform Act [2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), Schedule 6, paragraph 20(1)(b) and (2). There are other amendments to the Schedule not relevant to this Order.
 
-[^key-069bb1636e6c24932cce454f89a09103]: Commencement: Sch. 1 para. 5 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-069bb1636e6c24932cce454f89a09103]: Commencement: Sch. 1 para. 5 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00009]: Footnote: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76).
 
@@ -1114,45 +1114,45 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00012]: Footnote: Section 49A was inserted by the Act, Schedule 7, paragraphs 2 and 15.
 
-[^key-f651f53ff773a2d92f918b73edacf882]: Commencement: Sch. 1 para. 6 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-f651f53ff773a2d92f918b73edacf882]: Commencement: Sch. 1 para. 6 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00013]: Footnote: [1951 c. 65](https://www.legislation.gov.uk/ukpga/1951/65); paragraph (a)(i) and (ii) of section 46(3) was substituted by the Superannuation Act 1972, Schedule 6, paragraph 30; paragraph (a)(iii) was amended by the Fire and Rescue Services Act [2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), Schedule 1, paragraph 12(1) and (2); paragraph (a) was amended, and paragraph (b) inserted, by the 2004 Act, Schedule 26, paragraph 25(1) and (3). There are other amendments to section 46 not relevant to this Order.
 
-[^key-be2e6d33e1571c0e4b6b822c8a7d200d]: Commencement: Sch. 1 para. 7 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-be2e6d33e1571c0e4b6b822c8a7d200d]: Commencement: Sch. 1 para. 7 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00014]: Footnote: [1953 c. 20](https://www.legislation.gov.uk/ukpga/1953/20); the heading to section 10 was substituted by the Family Law Reform Act 1987, section 24 and subsequently substituted by the Human Fertilisation and Embryology Act 2008, Schedule 6, paragraph 5(1) and (2). There are other amendments to section 10 not relevant to this Order.
 
-[^key-ecd26a97eea38196c5e61914cb561abd]: Commencement: Sch. 1 para. 8 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-ecd26a97eea38196c5e61914cb561abd]: Commencement: Sch. 1 para. 8 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00015]: Footnote: [1957 c. 58](https://www.legislation.gov.uk/ukpga/1957/58); section 5(3) was inserted by the Human Fertilisation and Embryology Act 2008, Schedule 6, paragraph 12. There are other amendments to section 5 not relevant to this Order.
 
-[^key-12e6da6624bad4b0ef03f8df8d3aac28]: Commencement: Sch. 1 para. 9 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-12e6da6624bad4b0ef03f8df8d3aac28]: Commencement: Sch. 1 para. 9 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00016]: Footnote: [1962 c. 46](https://www.legislation.gov.uk/ukpga/1962/46); there are amendments to section 65 not relevant to this Order.
 
-[^key-86b75228cbef15cf837c73ffdb0efd67]: Commencement: Sch. 1 para. 10 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-86b75228cbef15cf837c73ffdb0efd67]: Commencement: Sch. 1 para. 10 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00017]: Footnote: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40); section 18(2) was amended by the Transport Act [1981 (c. 56)](https://www.legislation.gov.uk/ukpga/1981/56), Schedule 6. There are other amendments to section 18 not relevant to this Order.
 
-[^key-4b7bf438c4d3eff1cb4268a4568da2c7]: Commencement: Sch. 1 para. 11 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-4b7bf438c4d3eff1cb4268a4568da2c7]: Commencement: Sch. 1 para. 11 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00018]: Footnote: [1969 c. 38](https://www.legislation.gov.uk/ukpga/1969/38). There are amendments to Schedule 1 not relevant to this Order.
 
-[^key-faaaffbb1f43096c7d32b3a8d2102da3]: Commencement: Sch. 1 para. 12 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-faaaffbb1f43096c7d32b3a8d2102da3]: Commencement: Sch. 1 para. 12 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00019]: Footnote: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39); section 16C was inserted by [S.I. 2008/2826](https://www.legislation.gov.uk/uksi/2008/2826); it has been repealed for specified purposes by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881) but will be repealed for all purposes on 1st April 2014.
 
-[^key-36b2f64ec714d64a6e46ab37a0488539]: Commencement: Sch. 1 para. 13 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-36b2f64ec714d64a6e46ab37a0488539]: Commencement: Sch. 1 para. 13 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00020]: Footnote: Subsection (5ZA) was inserted by the Pensions (Miscellaneous Provisions) Act [1990 (c. 7)](https://www.legislation.gov.uk/ukpga/1990/7), section 5(1); it was subsequently amended by the Pensions Act [2008 (c.30)](https://www.legislation.gov.uk/ukpga/2008/30), section 137(1) to (7), and Schedule 11, Part 6.
 
 [^f00021]: Footnote: [1975 c. 60](https://www.legislation.gov.uk/ukpga/1975/60).
 
-[^key-36dfff887d2b5dfbd3e6a520867bab7e]: Commencement: Sch. 1 para. 14 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-36dfff887d2b5dfbd3e6a520867bab7e]: Commencement: Sch. 1 para. 14 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00022]: Footnote: [1976 c. 30](https://www.legislation.gov.uk/ukpga/1976/30); section 1 was substituted by the Administration of Justice Act [1982 (c. 53)](https://www.legislation.gov.uk/ukpga/1982/53), section 3; subsection (5) was subsequently amended by the 2004 Act (c. 33), section 83(1) and (6). There are other amendments to section 1 not relevant to this Order.
 
-[^key-8ddcfbf109c3ef0372cd836bfc2e1923]: Commencement: Sch. 1 para. 15 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-8ddcfbf109c3ef0372cd836bfc2e1923]: Commencement: Sch. 1 para. 15 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00023]: Footnote: [1976 c. 31](https://www.legislation.gov.uk/ukpga/1976/31).
 
@@ -1160,29 +1160,29 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00025]: Footnote: Section 3(1) was numbered as such and subsection (2) was inserted by the Human Fertilisation and Embryology Act 2008, Schedule 6, paragraph 17.
 
-[^key-6ecadf139bac51ad96bd804fdf7d1a37]: Commencement: Sch. 1 para. 16 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-6ecadf139bac51ad96bd804fdf7d1a37]: Commencement: Sch. 1 para. 16 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00026]: Footnote: [1977 c. 42](https://www.legislation.gov.uk/ukpga/1977/42); paragraph 2 was substituted in relation to deaths occurring on or after 28th November 1980 by the Housing Act [1980 (c. 51)](https://www.legislation.gov.uk/ukpga/1980/51), section 76; sub-paragraphs (2) and (3) were inserted by the Housing Act [1988 (c. 50)](https://www.legislation.gov.uk/ukpga/1988/50), Schedule 4, paragraph 2 in cases where the original tenant died on or after 15th January 1989; sub-paragraph (2) was substituted and sub-paragraph (3) was amended by the 2004 Act, Schedule 8, paragraph 13. There are other amendments to Schedule 1 not relevant to this Order.
 
-[^key-82140efd211e8496160ca3b15788c57f]: Commencement: Sch. 1 para. 17 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-82140efd211e8496160ca3b15788c57f]: Commencement: Sch. 1 para. 17 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
-[^key-c012d1246bc9b0ef4673d3d900daccac]: Modification: Sch. 1 para. 17: amendment extended to N.I. (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [149(b)(i)(cc)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/149/b/i/cc) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-c012d1246bc9b0ef4673d3d900daccac]: Modification: Sch. 1 para. 17: amendment extended to N.I. (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [149(b)(i)(cc)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/149/b/i/cc) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^f00027]: Footnote: [1978 c. 55](https://www.legislation.gov.uk/ukpga/1978/55); section 21 was amended by the London Regional Transport Act [1984 (c. 32)](https://www.legislation.gov.uk/ukpga/1984/32), Schedule 6, paragraph 14 and by the Transport Act [2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38), Schedule 31, Part 4 (not yet in force).
 
-[^key-5e989a106aea0bb22aad90eddd0ad4e5]: Commencement: Sch. 1 para. 18 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-5e989a106aea0bb22aad90eddd0ad4e5]: Commencement: Sch. 1 para. 18 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00028]: Footnote: [1979 c. 41](https://www.legislation.gov.uk/ukpga/1979/41); subsections (2A) and (2B) of section 3 were inserted by the Welfare Reform Act [2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), section 59(2). There are other amendments to section 3 not relevant to this Order.
 
-[^key-21ca2c02ca1a8dba0d5935bcd83c33f5]: Commencement: Sch. 1 para. 19 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-21ca2c02ca1a8dba0d5935bcd83c33f5]: Commencement: Sch. 1 para. 19 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00029]: Footnote: [1987 c. 42](https://www.legislation.gov.uk/ukpga/1987/42); paragraphs (ba) and (bb) of section 1(3) were inserted by the Human Fertilisation and Embryology Act 2008, Schedule 6, paragraph 24(1) and (2). There are other amendments to section 1 not relevant to this Order.
 
-[^key-a00c30c547b7dfccfedde08062232e7f]: Commencement: Sch. 1 para. 20 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-a00c30c547b7dfccfedde08062232e7f]: Commencement: Sch. 1 para. 20 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00030]: Footnote: [1988 c. 50](https://www.legislation.gov.uk/ukpga/1988/50); section 17(5) was amended by the 2004 Act, Schedule 8, paragraph 41(1) and (4) and by the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), section 161(1) and (5). There are other amendments to section 17 not relevant to this Order.
 
-[^key-f015f2b36744c712039fb5b2c8213870]: Commencement: Sch. 1 para. 21 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-f015f2b36744c712039fb5b2c8213870]: Commencement: Sch. 1 para. 21 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00031]: Footnote: [1991 c. 48](https://www.legislation.gov.uk/ukpga/1991/48).
 
@@ -1196,7 +1196,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00036]: Footnote: Sub-paragraphs (5) and (6) of paragraph 10C were substituted by the 2004 Act, Schedule 24, paragraph 6.
 
-[^key-7425674ac83ef90554dd6fe43a7e341b]: Commencement: Sch. 1 para. 22 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-7425674ac83ef90554dd6fe43a7e341b]: Commencement: Sch. 1 para. 22 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00037]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
@@ -1218,7 +1218,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00046]: Footnote: Paragraph 15(3) of Schedule 7 was amended by the 2004 Act, Schedule 24, paragraph 52(1) and (5)(b).
 
-[^key-65576f9d86ce1dcf51886c38383c24a8]: Commencement: Sch. 1 para. 23 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-65576f9d86ce1dcf51886c38383c24a8]: Commencement: Sch. 1 para. 23 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00047]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5); section 15A was inserted by the Social Security (Mortgage Interest Payments) Act [1992 (c. 33)](https://www.legislation.gov.uk/ukpga/1992/33), the Schedule, paragraph 1.
 
@@ -1226,11 +1226,11 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00049]: Footnote: Subsection (4B) was inserted by the 2004 Act, Schedule 24, paragraph 57(1) and (3). There are other amendments to section 15A not relevant to this Order.
 
-[^key-c27cb6c745549e6fc25a5fded7fa3b9e]: Commencement: Sch. 1 para. 24 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-c27cb6c745549e6fc25a5fded7fa3b9e]: Commencement: Sch. 1 para. 24 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00050]: Footnote: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
 
-[^key-f2ce1dc2b91f61f88bf29dc5baa3fc1e]: Commencement: Sch. 1 para. 25 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-f2ce1dc2b91f61f88bf29dc5baa3fc1e]: Commencement: Sch. 1 para. 25 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00051]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48); section 17(2) was amended by the Act, Schedule 4, paragraphs 18 and 20.
 
@@ -1238,61 +1238,61 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00053]: Footnote: Subsection (9) was inserted by [S.I. 2005/2050](https://www.legislation.gov.uk/uksi/2005/2050).
 
-[^key-9596ff40a711cfa78dc6df793551c14f]: Commencement: Sch. 1 para. 26 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-9596ff40a711cfa78dc6df793551c14f]: Commencement: Sch. 1 para. 26 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00054]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18); the definition of “couple” in section 35(1) and subsection (1A) was inserted by the 2004 Act, Schedule 24, paragraph 124(1), (2) and (5). There are other amendments to section 35 not relevant to this Order.
 
-[^key-5e60b9867d284ca0c6fd15cb5045104d]: Commencement: Sch. 1 para. 27 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-5e60b9867d284ca0c6fd15cb5045104d]: Commencement: Sch. 1 para. 27 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00055]: Footnote: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26); the definition of “civil partnership status” was inserted by [S.I. 2005/2053](https://www.legislation.gov.uk/uksi/2005/2053). There are other amendments to section 124(1) not relevant to this Order.
 
-[^key-7f7c1b007374ae3c282796079cb87eb7]: Commencement: Sch. 1 para. 28 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-7f7c1b007374ae3c282796079cb87eb7]: Commencement: Sch. 1 para. 28 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00056]: Footnote: [2002 c. 16](https://www.legislation.gov.uk/ukpga/2002/16); the definition of “couple” in section 17(1) and (1A) was inserted by the 2004 Act (c. 33), Schedule 24, paragraphs 142(1) and (2) and 143. There are other amendments to section 17 not relevant to this Order.
 
-[^key-78f27834169ddf409d28c2fa9bc77b19]: Commencement: Sch. 1 para. 29 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-78f27834169ddf409d28c2fa9bc77b19]: Commencement: Sch. 1 para. 29 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00057]: Footnote: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).
 
-[^key-ad075bdef62c2b1f8e49a82a47471d80]: Commencement: Sch. 1 para. 30 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-ad075bdef62c2b1f8e49a82a47471d80]: Commencement: Sch. 1 para. 30 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00058]: Footnote: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9); Schedule A1 was inserted by the Mental Health Act [2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), Schedule 7. There are amendments to Schedule A1 not relevant to this Order.
 
-[^key-c5ba7d472359ec9e3ebbfe5bcbcf4276]: Commencement: Sch. 1 para. 31 in force at 3.6.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/560/article/1/3)
+[^c-c5ba7d472359ec9e3ebbfe5bcbcf4276]: Commencement: Sch. 1 para. 31 in force at 3.6.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/560/article/1/3)
 
 [^f00059]: Footnote: [2006 asp. 2](https://www.legislation.gov.uk/asp/2006/2).
 
-[^key-5c74a1b078900ab0655b16a778eeaaf1]: Commencement: Sch. 1 para. 32 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-5c74a1b078900ab0655b16a778eeaaf1]: Commencement: Sch. 1 para. 32 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00060]: Footnote: [2007 c. 5](https://www.legislation.gov.uk/ukpga/2007/5); paragraph 6 of Schedule 1 was amended by the Welfare Reform Act [2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), sections 5(2), 9(3)(b) and 58(1) and Schedule 7, and repealed by Part 1 of Schedule 14 to the Welfare Reform Act 2012. That repeal has been brought into force for certain purposes, but has yet to be brought into force for the remaining purposes.
 
-[^key-6152069a9b3ef45edd9a48bffdc88f11]: Commencement: Sch. 1 para. 33 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-6152069a9b3ef45edd9a48bffdc88f11]: Commencement: Sch. 1 para. 33 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00061]: Footnote: [2007 c. 18](https://www.legislation.gov.uk/ukpga/2007/18). There are amendments to section 42 not relevant to this Order.
 
-[^key-317e19d6fc1ceed3fc050a9c7f8616d0]: Commencement: Sch. 1 para. 34 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-317e19d6fc1ceed3fc050a9c7f8616d0]: Commencement: Sch. 1 para. 34 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00062]: Footnote: [2009 c. 24](https://www.legislation.gov.uk/ukpga/2009/24).
 
-[^key-d2365bc9daf2d1cebf2a64906dad71a4]: Commencement: Sch. 1 para. 35 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-d2365bc9daf2d1cebf2a64906dad71a4]: Commencement: Sch. 1 para. 35 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00063]: Footnote: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15).
 
-[^key-c0c7ecebe3e5ba5c089787f93cdcca1f]: Commencement: Sch. 1 para. 36 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-c0c7ecebe3e5ba5c089787f93cdcca1f]: Commencement: Sch. 1 para. 36 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00064]: Footnote: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5).
 
-[^key-4b2110f62d1db7de3c0b2f03d92bdbf2]: Commencement: Sch. 2 para. 1 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-4b2110f62d1db7de3c0b2f03d92bdbf2]: Commencement: Sch. 2 para. 1 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
-[^key-7eaa9fc1c47335aab2085e5188ea0414]: Commencement: Sch. 2 para. 2 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-7eaa9fc1c47335aab2085e5188ea0414]: Commencement: Sch. 2 para. 2 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
-[^key-536069002d812aec8b307e13c994da86]: Commencement: Sch. 2 para. 3 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-536069002d812aec8b307e13c994da86]: Commencement: Sch. 2 para. 3 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
-[^key-d7e0739d049fb2dd1d3c20bf69ef8559]: Commencement: Sch. 2 para. 4 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-d7e0739d049fb2dd1d3c20bf69ef8559]: Commencement: Sch. 2 para. 4 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00065]: Footnote: [S.I. 2005/438](https://www.legislation.gov.uk/uksi/2005/438), to which there are amendments not relevant to this Order.
 
-[^key-861e9b432b1aa893046dc01fbd466147]: Commencement: Sch. 2 para. 5 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-861e9b432b1aa893046dc01fbd466147]: Commencement: Sch. 2 para. 5 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00066]: Footnote: [1285 c. 1](https://www.legislation.gov.uk/ukpga/1285/1).
 
@@ -1434,49 +1434,49 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00135]: Footnote: The Scheme Rules are in Schedule 1 to [S.I. 2012/687](https://www.legislation.gov.uk/uksi/2012/687).
 
-[^key-985e7aad8f43ecd204372a6ade33ad1b]: Commencement: Sch. 3 para. 1 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-985e7aad8f43ecd204372a6ade33ad1b]: Commencement: Sch. 3 para. 1 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
-[^key-144b2c8e165333b300d18f181147298c]: Modification: Sch. 3 para. 1: amendment extended to N.I. (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [149(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/149/b/ii) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-144b2c8e165333b300d18f181147298c]: Modification: Sch. 3 para. 1: amendment extended to N.I. (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [149(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/149/b/ii) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-eeb32984c79ba855e3132a62980d2d44]: Commencement: Sch. 3 para. 2 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-eeb32984c79ba855e3132a62980d2d44]: Commencement: Sch. 3 para. 2 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
-[^key-e999eb365f00a626bf13dbb5cd5cc645]: Textual amendment: Sch. 3 para. 2(3)(a) omitted (7.12.2020) by virtue of [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [36(5)(a)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/36/5/a)
+[^c-e999eb365f00a626bf13dbb5cd5cc645]: Textual amendment: Sch. 3 para. 2(3)(a) omitted (7.12.2020) by virtue of [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [36(5)(a)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/36/5/a)
 
 [^f00136]: Footnote: The definition of “widower’s pension” in subsection (7) was inserted by the Pensions (Miscellaneous Provisions) Act 1990, section 5(2).
 
-[^key-7f8bda911e04cc8d751c2d8eefd9e784]: Commencement: Sch. 3 para. 3 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-7f8bda911e04cc8d751c2d8eefd9e784]: Commencement: Sch. 3 para. 3 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
-[^key-1f80f6cb99bb8d49cdee418554f48b8a]: Commencement: Sch. 3 para. 4 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-1f80f6cb99bb8d49cdee418554f48b8a]: Commencement: Sch. 3 para. 4 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00137]: Footnote: Paragraph 6A was inserted by [S.I. 2005/2053](https://www.legislation.gov.uk/uksi/2005/2053) and was amended by the Pensions Act 2007, Schedule 1, paragraph 20 and Schedule 7, Part 3. It was repealed by the Pensions Act [2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19) but that repeal is not fully in force.
 
-[^key-d27a510e402d2c9235722079c1d15322]: Commencement: Sch. 3 para. 5 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-d27a510e402d2c9235722079c1d15322]: Commencement: Sch. 3 para. 5 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
-[^key-e8e602971f65de0fac65ee3545a1a16f]: Commencement: Sch. 3 para. 6 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-e8e602971f65de0fac65ee3545a1a16f]: Commencement: Sch. 3 para. 6 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
-[^key-4586b4d9dd3cad2d5f1b7f6bac499bd9]: Commencement: Sch. 3 para. 7 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-4586b4d9dd3cad2d5f1b7f6bac499bd9]: Commencement: Sch. 3 para. 7 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00138]: Footnote: [S.I. 2005/438](https://www.legislation.gov.uk/uksi/2005/438); to which there are amendments not relevant to this Order.
 
-[^key-2dc2a4805a552a7fa421776e3a146fb8]: Commencement: Sch. 3 para. 8 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-2dc2a4805a552a7fa421776e3a146fb8]: Commencement: Sch. 3 para. 8 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
-[^key-5a0123ae765e70a3a1cfc016dee45f36]: Commencement: Sch. 3 para. 9 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-5a0123ae765e70a3a1cfc016dee45f36]: Commencement: Sch. 3 para. 9 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
-[^key-d54eb6ffd3e612829bee468bb5b820ea]: Commencement: Sch. 3 para. 10 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-d54eb6ffd3e612829bee468bb5b820ea]: Commencement: Sch. 3 para. 10 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
-[^key-89587a9f62ae5a6b6c8ec4d293ade80a]: Commencement: Sch. 3 para. 11 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-89587a9f62ae5a6b6c8ec4d293ade80a]: Commencement: Sch. 3 para. 11 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
-[^key-640c85501d0148d8e1f0137a52b29253]: Commencement: Sch. 3 para. 12 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-640c85501d0148d8e1f0137a52b29253]: Commencement: Sch. 3 para. 12 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
-[^key-26ddd4c0cac74bd2434956fc67f8e4d5]: Commencement: Sch. 3 para. 13 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-26ddd4c0cac74bd2434956fc67f8e4d5]: Commencement: Sch. 3 para. 13 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
-[^key-9e9e70b01514f6b6d899577d4becc358]: Commencement: Sch. 3 para. 14 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-9e9e70b01514f6b6d899577d4becc358]: Commencement: Sch. 3 para. 14 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
-[^key-19e36c82c8573ae5efb78dd84d2b6cea]: Commencement: Sch. 3 para. 15 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-19e36c82c8573ae5efb78dd84d2b6cea]: Commencement: Sch. 3 para. 15 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
-[^key-36c1760a92b7b5042e7dad32e86e99a7]: Commencement: Sch. 3 para. 16 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-36c1760a92b7b5042e7dad32e86e99a7]: Commencement: Sch. 3 para. 16 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
-[^key-ac3a6d10174fc98e90f661b7f4123b46]: Commencement: Sch. 3 para. 17 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
+[^c-ac3a6d10174fc98e90f661b7f4123b46]: Commencement: Sch. 3 para. 17 in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2)
 
 [^f00139]: Footnote: The scheme is in Schedule 2 to [S.I. 1992/129](https://www.legislation.gov.uk/uksi/1992/129); Schedule 2 is the subject of amendments not relevant to this Order. The name of the scheme was changed to the Firefighters’ Pension Scheme by [S.I. 2004/2306](https://www.legislation.gov.uk/uksi/2004/2306). By virtue of [S.I. 2006/3432](https://www.legislation.gov.uk/uksi/2006/3432), subject to certain savings, the scheme has no effect in relation to any person who takes up employment with an English fire and rescue authority on or after 6th April 2006.
 

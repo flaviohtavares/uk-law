@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Use of land for non-agricultural purposes[^key-efe8e1e2891288f0e421aa2478e085be]
+## 31. Use of land for non-agricultural purposes[^c-efe8e1e2891288f0e421aa2478e085be]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-efe8e1e2891288f0e421aa2478e085be]: Commencement: S. 31 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-efe8e1e2891288f0e421aa2478e085be]: Commencement: S. 31 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

@@ -32,7 +32,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION, ENGLAND AND WALES
 
-The Environmental Protection Act 1990 (Amendment of Section 57) (England and Wales) Regulations 2005 (revoked)[^key-deef441fe6239a21fe2765e727f5fddd]
+The Environmental Protection Act 1990 (Amendment of Section 57) (England and Wales) Regulations 2005 (revoked)[^c-deef441fe6239a21fe2765e727f5fddd]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 22nd November 2005
 
-[^key-deef441fe6239a21fe2765e727f5fddd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-deef441fe6239a21fe2765e727f5fddd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-deef441fe6239a21fe2765e727f5fddd]
+## 1. Citation, commencement and extent[^c-deef441fe6239a21fe2765e727f5fddd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of section 57 of the Environmental Protection Act 1990[^key-deef441fe6239a21fe2765e727f5fddd]
+## 2. Amendment of section 57 of the Environmental Protection Act 1990[^c-deef441fe6239a21fe2765e727f5fddd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-deef441fe6239a21fe2765e727f5fddd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-deef441fe6239a21fe2765e727f5fddd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-deef441fe6239a21fe2765e727f5fddd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-deef441fe6239a21fe2765e727f5fddd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-deef441fe6239a21fe2765e727f5fddd]: Textual amendment: Regulations revoked (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), reg. 1(2), [Sch. 5](https://www.legislation.gov.uk/uksi/2011/988/schedule/5) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+[^c-deef441fe6239a21fe2765e727f5fddd]: Textual amendment: Regulations revoked (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), reg. 1(2), [Sch. 5](https://www.legislation.gov.uk/uksi/2011/988/schedule/5) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))

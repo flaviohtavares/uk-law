@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 187. Selection of code manager[^key-1cb2c118fd34fae0f0d666f218b9eea8][^key-490dcd280cb9c4f64958b0cf72be02c3]
+## 187. Selection of code manager[^c-1cb2c118fd34fae0f0d666f218b9eea8][^c-490dcd280cb9c4f64958b0cf72be02c3]
 
 *Extent: E+W+S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1cb2c118fd34fae0f0d666f218b9eea8]: Commencement: S. 187 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-1cb2c118fd34fae0f0d666f218b9eea8]: Commencement: S. 187 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-490dcd280cb9c4f64958b0cf72be02c3]: Commencement: [S. 187](https://www.legislation.gov.uk/ukpga/2023/52/section/187) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/iv)
+[^c-490dcd280cb9c4f64958b0cf72be02c3]: Commencement: [S. 187](https://www.legislation.gov.uk/ukpga/2023/52/section/187) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/iv)

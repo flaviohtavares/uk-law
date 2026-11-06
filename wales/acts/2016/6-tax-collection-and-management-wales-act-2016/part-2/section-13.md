@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Internal authorisation to carry out functions[^key-c7ace98ce8fbd977ea29acbd05f14a6d]
+## 13. Internal authorisation to carry out functions[^c-c7ace98ce8fbd977ea29acbd05f14a6d]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7ace98ce8fbd977ea29acbd05f14a6d]: Commencement: S. 13 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)
+[^c-c7ace98ce8fbd977ea29acbd05f14a6d]: Commencement: S. 13 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)

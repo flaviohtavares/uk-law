@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Issue of warrant of arrest[^key-6ff5b2867522c5a1e70f8bf6daf2bc7f]
+## 44. Issue of warrant of arrest[^c-6ff5b2867522c5a1e70f8bf6daf2bc7f]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ff5b2867522c5a1e70f8bf6daf2bc7f]: Commencement: S. 44 in force at 31.1.2011 by [S.I. 2010/2988](https://www.legislation.gov.uk/uksi/2010/2988), [art. 2](https://www.legislation.gov.uk/uksi/2010/2988/article/2)
+[^c-6ff5b2867522c5a1e70f8bf6daf2bc7f]: Commencement: S. 44 in force at 31.1.2011 by [S.I. 2010/2988](https://www.legislation.gov.uk/uksi/2010/2988), [art. 2](https://www.legislation.gov.uk/uksi/2010/2988/article/2)

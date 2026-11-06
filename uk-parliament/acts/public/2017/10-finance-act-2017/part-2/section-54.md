@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Power to make further provision about enforcement[^key-317993a456271abf20c702e3a55312a8][^key-787bf1cf3ca4704e08687ca66ab27278]
+## 54. Power to make further provision about enforcement[^c-317993a456271abf20c702e3a55312a8][^c-787bf1cf3ca4704e08687ca66ab27278]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-317993a456271abf20c702e3a55312a8]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2017/10/section/54) in force at 13.1.2018 for specified purposes by [S.I. 2018/32](https://www.legislation.gov.uk/uksi/2018/32), [reg. 2](https://www.legislation.gov.uk/uksi/2018/32/regulation/2)
+[^c-317993a456271abf20c702e3a55312a8]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2017/10/section/54) in force at 13.1.2018 for specified purposes by [S.I. 2018/32](https://www.legislation.gov.uk/uksi/2018/32), [reg. 2](https://www.legislation.gov.uk/uksi/2018/32/regulation/2)
 
-[^key-787bf1cf3ca4704e08687ca66ab27278]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2017/10/section/54) in force at 6.4.2018 in so far as not already in force by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)
+[^c-787bf1cf3ca4704e08687ca66ab27278]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2017/10/section/54) in force at 6.4.2018 in so far as not already in force by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)

@@ -38,7 +38,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### CHAPTER 1 — Scottish Ministers' duty to establish the Bank
 
-#### 1. Duty to establish the Bank[^key-f3038c8d7ec1d3c78c74b08b6e893437]
+#### 1. Duty to establish the Bank[^c-f3038c8d7ec1d3c78c74b08b6e893437]
 
 The Scottish Ministers must establish a public company limited by shares that—
 
@@ -49,11 +49,11 @@ The Scottish Ministers must establish a public company limited by shares that—
 
 ### CHAPTER 2 — The Bank's articles of association on establishment
 
-#### 2. The Bank's vision[^key-29584ce7667bfa3e55ca1ffdaf7c96ed]
+#### 2. The Bank's vision[^c-29584ce7667bfa3e55ca1ffdaf7c96ed]
 
 The articles of association must state that the Bank's vision is to provide finance and act to catalyse private investment to achieve a step change in growth for the Scottish economy by powering innovation and accelerating the move to a net-zero emissions, high-tech, connected, globally-competitive and inclusive economy.
 
-#### 3. The Bank's objects[^key-3f07e3619b5373fcfb57ac34926f2ab9]
+#### 3. The Bank's objects[^c-3f07e3619b5373fcfb57ac34926f2ab9]
 
 (1) The articles of association must state that the Bank's main object is giving financial assistance to commercial activities for the purpose of promoting or sustaining economic development or employment in Scotland.
 
@@ -75,14 +75,14 @@ The articles of association must state that the Bank's vision is to provide fina
 - (i) contributing to the achievement of the Scottish Government's economic, social and environmental policy objectives,
 - (j) advancing equality and non-discrimination.
 
-#### 4. Ethical investment standards[^key-32291baa65d53f060b8f16047d257c7c]
+#### 4. Ethical investment standards[^c-32291baa65d53f060b8f16047d257c7c]
 
 The articles of association must provide that the Bank's board is responsible for the Bank—
 
 - (a) having ethical investment standards which align with the Bank's main object and ancillary objects as set out in its articles of association and its strategic missions, and
 - (b) having in place processes to ensure that the Bank's investment decisions are taken in accordance with those standards.
 
-#### 5. Balanced scorecard[^key-ffde017ac54707c984a5a8794eeb03c1]
+#### 5. Balanced scorecard[^c-ffde017ac54707c984a5a8794eeb03c1]
 
 (1) The articles of association must provide that the Bank must prepare and update a document (“the balanced scorecard”) to assist its preparation of reports under this Act.
 
@@ -93,7 +93,7 @@ The articles of association must provide that the Bank's board is responsible fo
 - (c) the environmental impact of the performance of its investments over time,
 - (d) any other impact (financial or non-financial) of the performance of its investments over time as the articles may provide.
 
-#### 6. General powers[^key-4584aca22cc26c7ee09d021ef9a8aa7e]
+#### 6. General powers[^c-4584aca22cc26c7ee09d021ef9a8aa7e]
 
 (1) The articles of association must provide that the Bank may do anything for the purpose of its objects and specifically mention—
 
@@ -113,18 +113,18 @@ The articles of association must provide that the Bank's board is responsible fo
 
 (3) For the avoidance of doubt, the articles of association may provide that the Bank may give financial assistance to a third sector body (as defined in section 37 of the Community Justice (Scotland) Act 2016).
 
-#### 7. Borrowing powers[^key-f61cf89519c3b362a6de5e2b3dff0789]
+#### 7. Borrowing powers[^c-f61cf89519c3b362a6de5e2b3dff0789]
 
 The articles of association must include a prohibition on the Bank borrowing from anyone other than the Scottish Ministers.
 
-#### 8. Ownership[^key-68e5c65cd34ddd4c8857375b7e21e5e4]
+#### 8. Ownership[^c-68e5c65cd34ddd4c8857375b7e21e5e4]
 
 The articles of association must preclude—
 
 - (a) shares in the Bank from being allotted to anyone other than the Scottish Ministers,
 - (b) the Scottish Ministers from transferring their shares in the Bank.
 
-#### 9. Directors: appointment[^key-9f65501ab824ba05b390c6ec255b4531]
+#### 9. Directors: appointment[^c-9f65501ab824ba05b390c6ec255b4531]
 
 (1) The articles of association must provide that—
 
@@ -137,7 +137,7 @@ The articles of association must preclude—
 
 (3) The articles of association must provide that the chair of the Bank's board is to be one of the non-executive directors appointed to the office of chair by the Scottish Ministers.
 
-#### 10. Directors: tenure[^key-5ea6115982a65aa53a8289ce77353bd7]
+#### 10. Directors: tenure[^c-5ea6115982a65aa53a8289ce77353bd7]
 
 (1) The articles of association must provide that—
 
@@ -158,11 +158,11 @@ The articles of association must preclude—
 - (c) a registered medical practitioner who is treating the person gives a written opinion to the Bank stating that the person has become physically or mentally incapable of acting as a director and may remain so for more than 3 months,
 - (d) notification is received by the Bank from the person that the person is resigning from office, and such resignation has taken effect in accordance with its terms.
 
-#### 11. Remuneration[^key-c8b5951baa4f6cfa60ed46cc65ba2cdd]
+#### 11. Remuneration[^c-c8b5951baa4f6cfa60ed46cc65ba2cdd]
 
 The articles of association must provide that the remuneration of the Bank's directors and staff is to be determined by the directors, subject to any direction from the Scottish Ministers.
 
-#### 12. Committees[^key-1a6295879ad5cf7d361f6f1ceff26d8a]
+#### 12. Committees[^c-1a6295879ad5cf7d361f6f1ceff26d8a]
 
 (1) The articles of association must enable the Bank's directors to set up, and delegate functions to, committees and sub-committees.
 
@@ -178,7 +178,7 @@ The articles of association must provide that the remuneration of the Bank's dir
 - (a) the audit committee has the function of providing independent review and oversight of the company's financial reporting processes, internal controls and independent auditors,
 - (b) the risk committee has the function of reviewing the Bank's risk-management systems.
 
-#### 13. Gender equality strategy[^key-ace57f3545f2d5d58ea2324aa0346584]
+#### 13. Gender equality strategy[^c-ace57f3545f2d5d58ea2324aa0346584]
 
 (1) The articles of association must provide that—
 
@@ -192,7 +192,7 @@ The articles of association must provide that the remuneration of the Bank's dir
 - (a) what the Bank is committed to doing to advance gender equality in Scotland (in particular through its investing and staffing practices),
 - (b) what information the Bank intends to collect for the purpose of carrying out the evaluations required by section 20(1).
 
-#### 14. Entrenched provisions[^key-564a734e15a1c4000587b11f0fd54a14]
+#### 14. Entrenched provisions[^c-564a734e15a1c4000587b11f0fd54a14]
 
 The articles of association must provide that those provisions of the articles which are framed in accordance with this Chapter may be amended or repealed only in accordance with section 31.
 
@@ -200,7 +200,7 @@ The articles of association must provide that those provisions of the articles w
 
 ### Strategic missions
 
-#### 15. Setting missions[^key-4c314071674d5f9cb83287f016ac1f6b]
+#### 15. Setting missions[^c-4c314071674d5f9cb83287f016ac1f6b]
 
 (1) The Scottish Ministers are to set strategic missions for the Bank.
 
@@ -222,7 +222,7 @@ The articles of association must provide that those provisions of the articles w
   - (ii) a statement setting out how the terms of the document sent to the Bank were affected by the responses to the public consultation carried out in accordance with section 16, and
 - (b) make a copy of both the document and the statement publicly available.
 
-#### 16. Requirement to consult in relation to missions[^key-4ae03b905838e0cf1e91db0170c7c021]
+#### 16. Requirement to consult in relation to missions[^c-4ae03b905838e0cf1e91db0170c7c021]
 
 (1) Before sending the Bank a document under section 15 which would set, modify or bring to an end a strategic mission, the Scottish Ministers must—
 
@@ -243,7 +243,7 @@ The articles of association must provide that those provisions of the articles w
 
 (5) For the purpose of this section, it is immaterial that anything done by way of public consultation was done before the Bill for this Act was passed or after that but before this section comes into force.
 
-#### 17. Proposals from the Bank about its missions[^key-a0c0eb22337b5794924f2024be53bfd3]
+#### 17. Proposals from the Bank about its missions[^c-a0c0eb22337b5794924f2024be53bfd3]
 
 (1) Subsection (2) applies when the Scottish Ministers receive from the Bank a valid proposal that they should change the Bank's strategic missions.
 
@@ -261,7 +261,7 @@ The articles of association must provide that those provisions of the articles w
 
 ### Accountability
 
-#### 18. Report on strategic missions[^key-3c6caed253d165dd9e4596d6d7193f4e]
+#### 18. Report on strategic missions[^c-3c6caed253d165dd9e4596d6d7193f4e]
 
 (1) The Bank must send a mission report to the Scottish Ministers—
 
@@ -279,7 +279,7 @@ The articles of association must provide that those provisions of the articles w
 
 (5) A mission report may be in any form that the Bank considers appropriate and (in particular) may be part of another document.
 
-#### 19. Report on investment performance[^key-58e0c3d805182d0281c7f3b38ce285e7]
+#### 19. Report on investment performance[^c-58e0c3d805182d0281c7f3b38ce285e7]
 
 (1) The Bank must, at the end of each financial year, report to the Scottish Ministers on the performance of its investments.
 
@@ -296,7 +296,7 @@ The articles of association must provide that those provisions of the articles w
 
 (6) In this section, “**performance**” includes non-financial performance.
 
-#### 20. Report on gender equality strategy[^key-14aa2c80fd3d2ae73fa61fd3d17cf0d3]
+#### 20. Report on gender equality strategy[^c-14aa2c80fd3d2ae73fa61fd3d17cf0d3]
 
 (1) At least every 2 years, the Bank must prepare and lay before the Scottish Parliament a report evaluating, in relation to the period since the last report was prepared—
 
@@ -313,7 +313,7 @@ The articles of association must provide that those provisions of the articles w
 - (a) is to be laid before the Parliament within 2 years of the day on which the Bank's gender equality strategy is first made publicly available, and
 - (b) is to relate to the period beginning on that day.
 
-#### 21. Review of performance[^key-0d8163cbb8890e4cf8e2a45b6a89d1da]
+#### 21. Review of performance[^c-0d8163cbb8890e4cf8e2a45b6a89d1da]
 
 (1) The Scottish Ministers must, at least once every 5 years, appoint a person to carry out a review of the performance of the Bank and (if it has any) its subsidiaries during the review period.
 
@@ -339,7 +339,7 @@ The articles of association must provide that those provisions of the articles w
   - (i) in relation to the first review, the period beginning with the day on which the Bank is established and ending with the day on which a person is appointed under subsection (1) to carry out the review,
   - (ii) in relation to each subsequent review, the period beginning with the day after the day of expiry of the previous review period and ending with the day on which a person is appointed under subsection (1) to carry out the review.
 
-#### 22. Equal pay review[^key-b083d8ab4a0891f61e0e8adf7f918d1f]
+#### 22. Equal pay review[^c-b083d8ab4a0891f61e0e8adf7f918d1f]
 
 (1) The Bank must, from time to time, conduct a review to ensure that it is providing equal pay for equal work (an “equal pay review”).
 
@@ -355,7 +355,7 @@ The articles of association must provide that those provisions of the articles w
 
 ### Fair work
 
-#### 23. Fair work direction[^key-7d6770db7351bfd95558add9ed72f632]
+#### 23. Fair work direction[^c-7d6770db7351bfd95558add9ed72f632]
 
 (1) The Bank must comply with the direction issued to it under this section.
 
@@ -378,7 +378,7 @@ The articles of association must provide that those provisions of the articles w
 
 ### Scottish Government financing of the Bank
 
-#### 24. Power to capitalise[^key-fa04b4f8169531b084b43b3a11ee43a8]
+#### 24. Power to capitalise[^c-fa04b4f8169531b084b43b3a11ee43a8]
 
 (1) The Scottish Ministers may capitalise the Bank in such manner, and to such extent, as they consider appropriate.
 
@@ -389,7 +389,7 @@ The articles of association must provide that those provisions of the articles w
 
 (3) The Scottish Ministers may attach conditions (including conditions as to repayment or the payment of interest) in respect of any finance provided under this section.
 
-#### 25. Requirement to get State aid approval before significant capitalisation[^key-cf81bf8b770a48904a7001e62677fc76]
+#### 25. Requirement to get State aid approval before significant capitalisation[^c-cf81bf8b770a48904a7001e62677fc76]
 
 (1) The Scottish Ministers may not spend more than the sterling amount of the authorised minimum on capitalising the Bank unless they have obtained any approval which, under State aid rules, they are required to obtain before doing so.
 
@@ -400,7 +400,7 @@ The articles of association must provide that those provisions of the articles w
 - “**authorised minimum**” has the meaning given in section 763 of the Companies Act 2006,
 - “**capitalising the Bank**” has the meaning given in section 24(2).
 
-#### 26. Power to finance[^key-04d0180d3541fbaa7316438a0b2f248b]
+#### 26. Power to finance[^c-04d0180d3541fbaa7316438a0b2f248b]
 
 (1) The Scottish Ministers may provide such finance as they consider appropriate to—
 
@@ -419,11 +419,11 @@ The articles of association must provide that those provisions of the articles w
 - (a) is a subsidiary of the Bank, and
 - (b) provides services on a commercial basis only.
 
-#### 27. Requirement to get State aid approval for financing[^key-162b2ed80cf1b2cabe72739701a432d0]
+#### 27. Requirement to get State aid approval for financing[^c-162b2ed80cf1b2cabe72739701a432d0]
 
 The Scottish Ministers may not provide finance to the Bank unless they have obtained any approval which, under State aid rules, they are required to obtain before doing so.
 
-#### 28. Meaning of State aid rules[^key-51df5b5a51a9c8cd5d7e2059cd6a87d4]
+#### 28. Meaning of State aid rules[^c-51df5b5a51a9c8cd5d7e2059cd6a87d4]
 
 In sections 25 and 27, State aid rules means—
 
@@ -434,7 +434,7 @@ as they form part of the law of Scotland and as modified by the law of Scotland 
 
 ### Miscellaneous provisions
 
-#### 29. Advisory group[^key-ba68202ab684b7e287437e2eb00a8fa3]
+#### 29. Advisory group[^c-ba68202ab684b7e287437e2eb00a8fa3]
 
 (1) The Scottish Ministers must establish and maintain an advisory group to provide them with advice on the Bank's objects, conduct and performance.
 
@@ -443,7 +443,7 @@ as they form part of the law of Scotland and as modified by the law of Scotland 
 - (a) be provided with sufficient resources by the Scottish Ministers to carry out its functions under this section,
 - (b) include at least 1 member appointed to represent the interests of trade unions.
 
-#### 30. Exercise of power to appoint non-executive directors[^key-a2d2b5d11ca7cad2b392d7f385e7877a]
+#### 30. Exercise of power to appoint non-executive directors[^c-a2d2b5d11ca7cad2b392d7f385e7877a]
 
 (1) In appointing the Bank's non-executive directors, the Scottish Ministers must have regard to the desirability of ensuring that the non-executive directors (as a whole) have experience or knowledge of the issues facing workers and businesses in Scotland.
 
@@ -452,7 +452,7 @@ as they form part of the law of Scotland and as modified by the law of Scotland 
 - (a) persons appearing to them to represent trade unions operating in Scotland, and
 - (b) persons appearing to them to represent businesses operating in Scotland.
 
-#### 31. Procedure for modifying entrenched provisions[^key-db554e91cee463616114cb39bf86e7bd]
+#### 31. Procedure for modifying entrenched provisions[^c-db554e91cee463616114cb39bf86e7bd]
 
 If the Bank's articles of association provide that a provision of the articles may be amended or repealed only in accordance with this section, the provision may be amended or repealed—
 
@@ -461,11 +461,11 @@ If the Bank's articles of association provide that a provision of the articles m
 
 ## PART 3 — Final provisions
 
-### 32. Application of public bodies legislation[^key-c609ddd15b143b7ae5d50fdc77e589d9]
+### 32. Application of public bodies legislation[^c-c609ddd15b143b7ae5d50fdc77e589d9]
 
 The schedule amends other Acts so that their provisions apply to the Bank.
 
-### 33. Meaning of references to the Bank and subsidiaries[^key-db0977d2c226fb488c25b6a7faeb1934]
+### 33. Meaning of references to the Bank and subsidiaries[^c-db0977d2c226fb488c25b6a7faeb1934]
 
 In this Act—
 
@@ -501,7 +501,7 @@ The short title of this Act is the Scottish National Investment Bank Act 2020.
 
 ### Ethical Standards in Public Life etc. (Scotland) Act 2000
 
-**1.**[^key-34f59e0c05961b1abccb7fea266ebc59] (1) The Ethical Standards in Public Life etc. (Scotland) Act 2000 is amended as follows.
+**1.**[^c-34f59e0c05961b1abccb7fea266ebc59] (1) The Ethical Standards in Public Life etc. (Scotland) Act 2000 is amended as follows.
 
 (2) In section 28(1), before the definition of members' code insert—
 
@@ -513,7 +513,7 @@ The short title of this Act is the Scottish National Investment Bank Act 2020.
 
 ### Freedom of Information (Scotland) Act 2002
 
-**2.**[^key-6d16e58932764a418827513dba8f47dd] In schedule 1 of the Freedom of Information (Scotland) Act 2002, after paragraph 92B insert—
+**2.**[^c-6d16e58932764a418827513dba8f47dd] In schedule 1 of the Freedom of Information (Scotland) Act 2002, after paragraph 92B insert—
 
 > **92C.** The Scottish National Investment Bank p.l.c.
 
@@ -521,11 +521,11 @@ The short title of this Act is the Scottish National Investment Bank Act 2020.
 
 ### Public Appointments and Public Bodies (Scotland) Act 2003
 
-**3.**[^key-50de5f5c1c281375fa4c3ef7b5a30e87] In schedule 2 of the Public Appointments and Public Bodies etc. (Scotland) Act 2003, after the entry relating to the Convener of the School Closure Review Panels insert— “ a non-executive director of the Scottish National Investment Bank p.l.c. ”.
+**3.**[^c-50de5f5c1c281375fa4c3ef7b5a30e87] In schedule 2 of the Public Appointments and Public Bodies etc. (Scotland) Act 2003, after the entry relating to the Convener of the School Closure Review Panels insert— “ a non-executive director of the Scottish National Investment Bank p.l.c. ”.
 
 ### Public Services Reform (Scotland) Act 2010
 
-**4.**[^key-080021cf97be33c1965a79b53d848db3] (1) The Public Services Reform (Scotland) Act 2010 is amended as follows.
+**4.**[^c-080021cf97be33c1965a79b53d848db3] (1) The Public Services Reform (Scotland) Act 2010 is amended as follows.
 
 (2) In schedule 5, after the entry relating to Scottish Local Authorities Remuneration Committee insert— “ Scottish National Investment Bank p.l.c. ”.
 
@@ -533,7 +533,7 @@ The short title of this Act is the Scottish National Investment Bank Act 2020.
 
 ### Gender Representation on Public Boards (Scotland) Act 2018
 
-**5.**[^key-68ae344215d0bf21ddbfd4c3d55fa880] In schedule 1 of the Gender Representation on Public Boards (Scotland) Act 2018, after the entry relating to Scottish Legal Complaints Commission insert—
+**5.**[^c-68ae344215d0bf21ddbfd4c3d55fa880] In schedule 1 of the Gender Representation on Public Boards (Scotland) Act 2018, after the entry relating to Scottish Legal Complaints Commission insert—
 
 > |  |
 > | --- |
@@ -543,78 +543,78 @@ The short title of this Act is the Scottish National Investment Bank Act 2020.
 
 ## Annotations
 
-[^key-f3038c8d7ec1d3c78c74b08b6e893437]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2020/3/section/1) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-f3038c8d7ec1d3c78c74b08b6e893437]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2020/3/section/1) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-29584ce7667bfa3e55ca1ffdaf7c96ed]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2020/3/section/2) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-29584ce7667bfa3e55ca1ffdaf7c96ed]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2020/3/section/2) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-3f07e3619b5373fcfb57ac34926f2ab9]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2020/3/section/3) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-3f07e3619b5373fcfb57ac34926f2ab9]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2020/3/section/3) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-32291baa65d53f060b8f16047d257c7c]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2020/3/section/4) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-32291baa65d53f060b8f16047d257c7c]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2020/3/section/4) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-ffde017ac54707c984a5a8794eeb03c1]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2020/3/section/5) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-ffde017ac54707c984a5a8794eeb03c1]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2020/3/section/5) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-4584aca22cc26c7ee09d021ef9a8aa7e]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2020/3/section/6) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-4584aca22cc26c7ee09d021ef9a8aa7e]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2020/3/section/6) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-f61cf89519c3b362a6de5e2b3dff0789]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2020/3/section/7) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-f61cf89519c3b362a6de5e2b3dff0789]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2020/3/section/7) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-68e5c65cd34ddd4c8857375b7e21e5e4]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2020/3/section/8) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-68e5c65cd34ddd4c8857375b7e21e5e4]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2020/3/section/8) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-9f65501ab824ba05b390c6ec255b4531]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2020/3/section/9) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-9f65501ab824ba05b390c6ec255b4531]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2020/3/section/9) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-5ea6115982a65aa53a8289ce77353bd7]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2020/3/section/10) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-5ea6115982a65aa53a8289ce77353bd7]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2020/3/section/10) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-c8b5951baa4f6cfa60ed46cc65ba2cdd]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2020/3/section/11) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-c8b5951baa4f6cfa60ed46cc65ba2cdd]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2020/3/section/11) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-1a6295879ad5cf7d361f6f1ceff26d8a]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2020/3/section/12) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-1a6295879ad5cf7d361f6f1ceff26d8a]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2020/3/section/12) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-ace57f3545f2d5d58ea2324aa0346584]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2020/3/section/13) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-ace57f3545f2d5d58ea2324aa0346584]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2020/3/section/13) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-564a734e15a1c4000587b11f0fd54a14]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2020/3/section/14) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-564a734e15a1c4000587b11f0fd54a14]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2020/3/section/14) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-4c314071674d5f9cb83287f016ac1f6b]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2020/3/section/15) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-4c314071674d5f9cb83287f016ac1f6b]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2020/3/section/15) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-4ae03b905838e0cf1e91db0170c7c021]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2020/3/section/16) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-4ae03b905838e0cf1e91db0170c7c021]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2020/3/section/16) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-a0c0eb22337b5794924f2024be53bfd3]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2020/3/section/17) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-a0c0eb22337b5794924f2024be53bfd3]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2020/3/section/17) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-3c6caed253d165dd9e4596d6d7193f4e]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2020/3/section/18) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-3c6caed253d165dd9e4596d6d7193f4e]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2020/3/section/18) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-58e0c3d805182d0281c7f3b38ce285e7]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2020/3/section/19) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-58e0c3d805182d0281c7f3b38ce285e7]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2020/3/section/19) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-14aa2c80fd3d2ae73fa61fd3d17cf0d3]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2020/3/section/20) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-14aa2c80fd3d2ae73fa61fd3d17cf0d3]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2020/3/section/20) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-0d8163cbb8890e4cf8e2a45b6a89d1da]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2020/3/section/21) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-0d8163cbb8890e4cf8e2a45b6a89d1da]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2020/3/section/21) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-b083d8ab4a0891f61e0e8adf7f918d1f]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2020/3/section/22) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-b083d8ab4a0891f61e0e8adf7f918d1f]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2020/3/section/22) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-7d6770db7351bfd95558add9ed72f632]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2020/3/section/23) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-7d6770db7351bfd95558add9ed72f632]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2020/3/section/23) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-fa04b4f8169531b084b43b3a11ee43a8]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2020/3/section/24) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-fa04b4f8169531b084b43b3a11ee43a8]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2020/3/section/24) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-cf81bf8b770a48904a7001e62677fc76]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2020/3/section/25) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-cf81bf8b770a48904a7001e62677fc76]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2020/3/section/25) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-04d0180d3541fbaa7316438a0b2f248b]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2020/3/section/26) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-04d0180d3541fbaa7316438a0b2f248b]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2020/3/section/26) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-162b2ed80cf1b2cabe72739701a432d0]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2020/3/section/27) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-162b2ed80cf1b2cabe72739701a432d0]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2020/3/section/27) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-51df5b5a51a9c8cd5d7e2059cd6a87d4]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2020/3/section/28) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-51df5b5a51a9c8cd5d7e2059cd6a87d4]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2020/3/section/28) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-ba68202ab684b7e287437e2eb00a8fa3]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2020/3/section/29) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-ba68202ab684b7e287437e2eb00a8fa3]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2020/3/section/29) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-a2d2b5d11ca7cad2b392d7f385e7877a]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2020/3/section/30) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-a2d2b5d11ca7cad2b392d7f385e7877a]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2020/3/section/30) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-db554e91cee463616114cb39bf86e7bd]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2020/3/section/31) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-db554e91cee463616114cb39bf86e7bd]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2020/3/section/31) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-c609ddd15b143b7ae5d50fdc77e589d9]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2020/3/section/32) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-c609ddd15b143b7ae5d50fdc77e589d9]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2020/3/section/32) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-db0977d2c226fb488c25b6a7faeb1934]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2020/3/section/33) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-db0977d2c226fb488c25b6a7faeb1934]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2020/3/section/33) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-34f59e0c05961b1abccb7fea266ebc59]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2020/3/schedule/paragraph/1) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-34f59e0c05961b1abccb7fea266ebc59]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2020/3/schedule/paragraph/1) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-6d16e58932764a418827513dba8f47dd]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2020/3/schedule/paragraph/2) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-6d16e58932764a418827513dba8f47dd]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2020/3/schedule/paragraph/2) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-50de5f5c1c281375fa4c3ef7b5a30e87]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2020/3/schedule/paragraph/3) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-50de5f5c1c281375fa4c3ef7b5a30e87]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2020/3/schedule/paragraph/3) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-080021cf97be33c1965a79b53d848db3]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2020/3/schedule/paragraph/4) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-080021cf97be33c1965a79b53d848db3]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2020/3/schedule/paragraph/4) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-68ae344215d0bf21ddbfd4c3d55fa880]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2020/3/schedule/paragraph/5) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-68ae344215d0bf21ddbfd4c3d55fa880]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2020/3/schedule/paragraph/5) in force at 16.9.2020 by [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)

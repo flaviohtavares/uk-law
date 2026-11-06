@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 83A. Recovery by deduction from earnings[^key-3979cfc5ccd901a7b95e4540d99d3fe0]
+## 83A. Recovery by deduction from earnings[^c-3979cfc5ccd901a7b95e4540d99d3fe0]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3979cfc5ccd901a7b95e4540d99d3fe0]: Textual amendment: [Reg. 83A](https://www.legislation.gov.uk/nisr/2006/406/regulation/83A) inserted (20.6.2016) by [The Social Security (Overpayments and Recovery) Regulations (Northern Ireland) 2016 (S.R. 2016/224)](https://www.legislation.gov.uk/nisr/2016/224), [regs. 1(2)(e)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/e), [33(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/33/3)
+[^c-3979cfc5ccd901a7b95e4540d99d3fe0]: Textual amendment: [Reg. 83A](https://www.legislation.gov.uk/nisr/2006/406/regulation/83A) inserted (20.6.2016) by [The Social Security (Overpayments and Recovery) Regulations (Northern Ireland) 2016 (S.R. 2016/224)](https://www.legislation.gov.uk/nisr/2016/224), [regs. 1(2)(e)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/e), [33(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/33/3)

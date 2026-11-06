@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. The Health Committee[^key-f2986c685b028eebc136b977da6aa0a2]
+## 28. The Health Committee[^c-f2986c685b028eebc136b977da6aa0a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2986c685b028eebc136b977da6aa0a2]: Textual amendment: [Art. 28](https://www.legislation.gov.uk/uksi/2002/253/article/28) omitted (28.7.2017) by virtue of [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(4)](https://www.legislation.gov.uk/uksi/2017/321/article/1/4), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2017/321/schedule/1/paragraph/9) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
+[^c-f2986c685b028eebc136b977da6aa0a2]: Textual amendment: [Art. 28](https://www.legislation.gov.uk/uksi/2002/253/article/28) omitted (28.7.2017) by virtue of [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(4)](https://www.legislation.gov.uk/uksi/2017/321/article/1/4), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2017/321/schedule/1/paragraph/9) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Procedure before and after the drawing up of regional transport strategies[^key-1286de6502dc5098c7f9367f5fd72c14]
+## 6. Procedure before and after the drawing up of regional transport strategies[^c-1286de6502dc5098c7f9367f5fd72c14]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ authorise the Partnership to submit its transport strategy to them later than th
 
 ## Annotations
 
-[^key-1286de6502dc5098c7f9367f5fd72c14]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2005/12/section/6) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
+[^c-1286de6502dc5098c7f9367f5fd72c14]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2005/12/section/6) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)

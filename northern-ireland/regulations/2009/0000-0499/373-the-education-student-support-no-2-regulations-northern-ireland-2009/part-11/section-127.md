@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 127. Amount of grant under regulation 126(1)(a) and (b)[^key-5ebbc29891656948a537e4ff84888032][^key-14692a4ec3a4e05dd82174fc610a6896]
+## 127. Amount of grant under regulation 126(1)(a) and (b)[^c-5ebbc29891656948a537e4ff84888032][^c-14692a4ec3a4e05dd82174fc610a6896]
 
 *Extent: N.I.*
 
@@ -48,8 +48,8 @@ where
 
 - (a) if at the date of the application the eligible part-time student or the student’s partner is entitled—
   - (i) under Part VII of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 to income support or housing benefit;
-  - (ii) under Part II of the Jobseekers (Northern Ireland) Order 1995 to income–based jobseeker’s allowance or under section 1 of the Employment and Training (Northern Ireland) Act 1950 to training allowance or training premium; [^key-ab7ad26f2bb2b3bd01c63f806270e838]...
-  - (iii) under Part 1 of the Welfare Reform Act (Northern Ireland) 2007 to an income-related employment and support allowance; or[^key-2b69051d934b5f6b07c236d390810a73]
+  - (ii) under Part II of the Jobseekers (Northern Ireland) Order 1995 to income–based jobseeker’s allowance or under section 1 of the Employment and Training (Northern Ireland) Act 1950 to training allowance or training premium; [^c-ab7ad26f2bb2b3bd01c63f806270e838]...
+  - (iii) under Part 1 of the Welfare Reform Act (Northern Ireland) 2007 to an income-related employment and support allowance; or[^c-2b69051d934b5f6b07c236d390810a73]
   - (iv) to universal credit;
 
   the maximum amount of assistance available under regulation 126(1) is payable.
@@ -69,10 +69,10 @@ where
 
 ## Annotations
 
-[^key-5ebbc29891656948a537e4ff84888032]: Commencement: Reg. 127 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-5ebbc29891656948a537e4ff84888032]: Commencement: Reg. 127 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
 
-[^key-14692a4ec3a4e05dd82174fc610a6896]: Textual amendment: [Reg. 127](https://www.legislation.gov.uk/nisr/2009/373/regulation/127) heading substituted (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [28](https://www.legislation.gov.uk/nisr/2017/7/regulation/28)
+[^c-14692a4ec3a4e05dd82174fc610a6896]: Textual amendment: [Reg. 127](https://www.legislation.gov.uk/nisr/2009/373/regulation/127) heading substituted (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [28](https://www.legislation.gov.uk/nisr/2017/7/regulation/28)
 
-[^key-ab7ad26f2bb2b3bd01c63f806270e838]: Textual amendment: Word in [reg. 127(5)(a)(ii)](https://www.legislation.gov.uk/nisr/2009/373/regulation/127/5/a/ii) omitted (coming into operation in accordance with reg. 1(1) of the amending Rule) by virtue of [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [45(7)(a)](https://www.legislation.gov.uk/nisr/2016/236/regulation/45/7/a)
+[^c-ab7ad26f2bb2b3bd01c63f806270e838]: Textual amendment: Word in [reg. 127(5)(a)(ii)](https://www.legislation.gov.uk/nisr/2009/373/regulation/127/5/a/ii) omitted (coming into operation in accordance with reg. 1(1) of the amending Rule) by virtue of [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [45(7)(a)](https://www.legislation.gov.uk/nisr/2016/236/regulation/45/7/a)
 
-[^key-2b69051d934b5f6b07c236d390810a73]: Textual amendment: [Reg. 127(5)(a)(iv)](https://www.legislation.gov.uk/nisr/2009/373/regulation/127/5/a/iv) and word inserted (coming into operation in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [45(7)(b)](https://www.legislation.gov.uk/nisr/2016/236/regulation/45/7/b)
+[^c-2b69051d934b5f6b07c236d390810a73]: Textual amendment: [Reg. 127(5)(a)(iv)](https://www.legislation.gov.uk/nisr/2009/373/regulation/127/5/a/iv) and word inserted (coming into operation in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [45(7)(b)](https://www.legislation.gov.uk/nisr/2016/236/regulation/45/7/b)

@@ -28,47 +28,47 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION
 
-The Waste Management Licensing (Amendment etc.) Regulations 1995 *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+The Waste Management Licensing (Amendment etc.) Regulations 1995 *(Extent: E+W)* *(affected by repeal, see note)*[^c-d4dab315047a79b67f0a700787bd055a]
 
-Made *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+Made *(Extent: E+W)* *(affected by repeal, see note)*[^c-d4dab315047a79b67f0a700787bd055a]
 
-8th February 1995 *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+8th February 1995 *(Extent: E+W)* *(affected by repeal, see note)*[^c-d4dab315047a79b67f0a700787bd055a]
 
-Laid before Parliament *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+Laid before Parliament *(Extent: E+W)* *(affected by repeal, see note)*[^c-d4dab315047a79b67f0a700787bd055a]
 
-9th February 1995 *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+9th February 1995 *(Extent: E+W)* *(affected by repeal, see note)*[^c-d4dab315047a79b67f0a700787bd055a]
 
-Coming into force *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+Coming into force *(Extent: E+W)* *(affected by repeal, see note)*[^c-d4dab315047a79b67f0a700787bd055a]
 
-1st April 1995 *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+1st April 1995 *(Extent: E+W)* *(affected by repeal, see note)*[^c-d4dab315047a79b67f0a700787bd055a]
 
-The Secretary of State for the Environment as respects England, the Secretary of State for Wales as respects Wales and the Secretary of State for Scotland as respects Scotland, being Ministers designated *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a][^f00001] for the purposes of section 2(2) of the European Communities Act 1972 *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a][^f00002] in relation to measures relating to the prevention, reduction and elimination of pollution caused by waste, in exercise of the powers conferred on them by section 2(2) of that Act, sections 29(10), 33(3), 74(6) and 75(8) of the Environmental Protection Act 1990 *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a][^f00003] (having in particular had regard in exercising their powers under section 33(3) of that Act to the matters specified in section 33(4) of that Act), and of all other powers enabling them in that behalf, hereby make the following Regulations: *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+The Secretary of State for the Environment as respects England, the Secretary of State for Wales as respects Wales and the Secretary of State for Scotland as respects Scotland, being Ministers designated *(Extent: E+W)* *(affected by repeal, see note)*[^c-d4dab315047a79b67f0a700787bd055a][^f00001] for the purposes of section 2(2) of the European Communities Act 1972 *(Extent: E+W)* *(affected by repeal, see note)*[^c-d4dab315047a79b67f0a700787bd055a][^f00002] in relation to measures relating to the prevention, reduction and elimination of pollution caused by waste, in exercise of the powers conferred on them by section 2(2) of that Act, sections 29(10), 33(3), 74(6) and 75(8) of the Environmental Protection Act 1990 *(Extent: E+W)* *(affected by repeal, see note)*[^c-d4dab315047a79b67f0a700787bd055a][^f00003] (having in particular had regard in exercising their powers under section 33(3) of that Act to the matters specified in section 33(4) of that Act), and of all other powers enabling them in that behalf, hereby make the following Regulations: *(Extent: E+W)* *(affected by repeal, see note)*[^c-d4dab315047a79b67f0a700787bd055a]
 
-## 1 (Extent: E+W) (affected by repeal, see note). Citation, commencement and interpretation (Extent: E+W) (affected by repeal, see note)[^key-83694e0eb836146651562039bd61e261][^key-d4dab315047a79b67f0a700787bd055a][^key-d4dab315047a79b67f0a700787bd055a]
+## 1 (Extent: E+W) (affected by repeal, see note). Citation, commencement and interpretation (Extent: E+W) (affected by repeal, see note)[^c-83694e0eb836146651562039bd61e261][^c-d4dab315047a79b67f0a700787bd055a][^c-d4dab315047a79b67f0a700787bd055a]
 
-(1 (Extent: E+W) (affected by repeal, see note))[^key-d4dab315047a79b67f0a700787bd055a] These Regulations may be cited as the Waste Management Licensing (Amendment etc.) Regulations 1995 and shall come into force on 1st April 1995. *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+(1 (Extent: E+W) (affected by repeal, see note))[^c-d4dab315047a79b67f0a700787bd055a] These Regulations may be cited as the Waste Management Licensing (Amendment etc.) Regulations 1995 and shall come into force on 1st April 1995. *(Extent: E+W)* *(affected by repeal, see note)*[^c-d4dab315047a79b67f0a700787bd055a]
 
-(2 (Extent: E+W) (affected by repeal, see note))[^key-d4dab315047a79b67f0a700787bd055a] In these Regulations, unless the context otherwise requires— *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+(2 (Extent: E+W) (affected by repeal, see note))[^c-d4dab315047a79b67f0a700787bd055a] In these Regulations, unless the context otherwise requires— *(Extent: E+W)* *(affected by repeal, see note)*[^c-d4dab315047a79b67f0a700787bd055a]
 
-- “the 1990 Act” means the Environmental Protection Act 1990; *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
-- “the 1991 Regulations” means the Environmental Protection (Prescribed Processes and Substances) Regulations 1991 *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a][^f00004]; and *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
-- “the Principal Regulations” means the Waste Management Licensing Regulations 1994 *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a][^f00005]. *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+- “the 1990 Act” means the Environmental Protection Act 1990; *(Extent: E+W)* *(affected by repeal, see note)*[^c-d4dab315047a79b67f0a700787bd055a]
+- “the 1991 Regulations” means the Environmental Protection (Prescribed Processes and Substances) Regulations 1991 *(Extent: E+W)* *(affected by repeal, see note)*[^c-d4dab315047a79b67f0a700787bd055a][^f00004]; and *(Extent: E+W)* *(affected by repeal, see note)*[^c-d4dab315047a79b67f0a700787bd055a]
+- “the Principal Regulations” means the Waste Management Licensing Regulations 1994 *(Extent: E+W)* *(affected by repeal, see note)*[^c-d4dab315047a79b67f0a700787bd055a][^f00005]. *(Extent: E+W)* *(affected by repeal, see note)*[^c-d4dab315047a79b67f0a700787bd055a]
 
-## 2 (Extent: E+W) (affected by repeal, see note). Amendment of the Controlled Waste Regulations 1992 (Extent: E+W) (affected by repeal, see note)[^key-0cf09a1f61467f059ebbc8ec488a78f6][^key-d4dab315047a79b67f0a700787bd055a][^key-d4dab315047a79b67f0a700787bd055a]
+## 2 (Extent: E+W) (affected by repeal, see note). Amendment of the Controlled Waste Regulations 1992 (Extent: E+W) (affected by repeal, see note)[^c-0cf09a1f61467f059ebbc8ec488a78f6][^c-d4dab315047a79b67f0a700787bd055a][^c-d4dab315047a79b67f0a700787bd055a]
 
-(1 (Extent: E+W) (affected by repeal, see note))[^key-d4dab315047a79b67f0a700787bd055a] In paragraph (2) of each of regulations 3 and 7 of the Controlled Waste Regulations 1992 *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a][^f00006] (scrap metal not to be treated as household or, as the case may be, industrial or commercial waste for the purposes of section 34 of the 1990 Act), for the words from “the day appointed” to the end of the paragraph there shall be substituted “1st October 1995”. *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+(1 (Extent: E+W) (affected by repeal, see note))[^c-d4dab315047a79b67f0a700787bd055a] In paragraph (2) of each of regulations 3 and 7 of the Controlled Waste Regulations 1992 *(Extent: E+W)* *(affected by repeal, see note)*[^c-d4dab315047a79b67f0a700787bd055a][^f00006] (scrap metal not to be treated as household or, as the case may be, industrial or commercial waste for the purposes of section 34 of the 1990 Act), for the words from “the day appointed” to the end of the paragraph there shall be substituted “1st October 1995”. *(Extent: E+W)* *(affected by repeal, see note)*[^c-d4dab315047a79b67f0a700787bd055a]
 
-(2 (Extent: E+W) (affected by repeal, see note))[^key-d4dab315047a79b67f0a700787bd055a] In regulation 7(1)(c) of the Controlled Waste Regulations 1992 (septic tank sludge in certain circumstances not to be treated as industrial or commercial waste), for “in accordance with” there shall be substituted “on agricultural land within the meaning of”. *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+(2 (Extent: E+W) (affected by repeal, see note))[^c-d4dab315047a79b67f0a700787bd055a] In regulation 7(1)(c) of the Controlled Waste Regulations 1992 (septic tank sludge in certain circumstances not to be treated as industrial or commercial waste), for “in accordance with” there shall be substituted “on agricultural land within the meaning of”. *(Extent: E+W)* *(affected by repeal, see note)*[^c-d4dab315047a79b67f0a700787bd055a]
 
-(3 (Extent: E+W) (affected by repeal, see note))[^key-d4dab315047a79b67f0a700787bd055a] Regulation 9(1)(a) of the Controlled Waste Regulations 1992 (exceptions in certain cases from section 33(1) of the 1990 Act) is hereby revoked. *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+(3 (Extent: E+W) (affected by repeal, see note))[^c-d4dab315047a79b67f0a700787bd055a] Regulation 9(1)(a) of the Controlled Waste Regulations 1992 (exceptions in certain cases from section 33(1) of the 1990 Act) is hereby revoked. *(Extent: E+W)* *(affected by repeal, see note)*[^c-d4dab315047a79b67f0a700787bd055a]
 
-## 3 (Extent: E+W) (affected by repeal, see note). Amendment of the Waste Management Licensing Regulations 1994 (Extent: E+W) (affected by repeal, see note)[^key-a97f3208c0faf675ae16a15953fe0792][^key-d4dab315047a79b67f0a700787bd055a][^key-d4dab315047a79b67f0a700787bd055a]
+## 3 (Extent: E+W) (affected by repeal, see note). Amendment of the Waste Management Licensing Regulations 1994 (Extent: E+W) (affected by repeal, see note)[^c-a97f3208c0faf675ae16a15953fe0792][^c-d4dab315047a79b67f0a700787bd055a][^c-d4dab315047a79b67f0a700787bd055a]
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: E+W)* *(affected by repeal, see note)*[^c-d4dab315047a79b67f0a700787bd055a]
 
-## 4 (Extent: E+W) (affected by repeal, see note). Technical competence—transitional provisions (Extent: E+W) (affected by repeal, see note)[^key-a97f3208c0faf675ae16a15953fe0792][^key-d4dab315047a79b67f0a700787bd055a][^key-d4dab315047a79b67f0a700787bd055a]
+## 4 (Extent: E+W) (affected by repeal, see note). Technical competence—transitional provisions (Extent: E+W) (affected by repeal, see note)[^c-a97f3208c0faf675ae16a15953fe0792][^c-d4dab315047a79b67f0a700787bd055a][^c-d4dab315047a79b67f0a700787bd055a]
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: E+W)* *(affected by repeal, see note)*[^key-d4dab315047a79b67f0a700787bd055a]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: E+W)* *(affected by repeal, see note)*[^c-d4dab315047a79b67f0a700787bd055a]
 
 John Selwyn Gummer
 
@@ -115,7 +115,7 @@ Regulation 4 of these Regulations provides that regulation 4 of the Principal Re
 
 ## Annotations
 
-[^key-d4dab315047a79b67f0a700787bd055a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1995/288) revoked (E.W.) (6.4.2012) by [The Controlled Waste (England and Wales) Regulations 2012 (S.I. 2012/811)](https://www.legislation.gov.uk/uksi/2012/811), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/811/regulation/1/3), [7(a)](https://www.legislation.gov.uk/uksi/2012/811/regulation/7/a)
+[^c-d4dab315047a79b67f0a700787bd055a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1995/288) revoked (E.W.) (6.4.2012) by [The Controlled Waste (England and Wales) Regulations 2012 (S.I. 2012/811)](https://www.legislation.gov.uk/uksi/2012/811), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/811/regulation/1/3), [7(a)](https://www.legislation.gov.uk/uksi/2012/811/regulation/7/a)
 
 [^f00001]: Footnote: S.I. [1992/2870](https://www.legislation.gov.uk/uksi/1992/2870).
 
@@ -123,14 +123,14 @@ Regulation 4 of these Regulations provides that regulation 4 of the Principal Re
 
 [^f00003]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 
-[^key-83694e0eb836146651562039bd61e261]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1995/288/regulation/1) in force at 1.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/288/regulation/1/1)
+[^c-83694e0eb836146651562039bd61e261]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1995/288/regulation/1) in force at 1.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/288/regulation/1/1)
 
 [^f00004]: Footnote: S.I. [1991/472](https://www.legislation.gov.uk/uksi/1991/472), amended by S.I. [1991/836](https://www.legislation.gov.uk/uksi/1991/836), [1992/614](https://www.legislation.gov.uk/uksi/1992/614), [1993/1749](https://www.legislation.gov.uk/uksi/1993/1749), [1993/2405](https://www.legislation.gov.uk/uksi/1993/2405), [1994/1271](https://www.legislation.gov.uk/uksi/1994/1271), [1994/1329](https://www.legislation.gov.uk/uksi/1994/1329).
 
 [^f00005]: Footnote: S.I. [1994/1056](https://www.legislation.gov.uk/uksi/1994/1056).
 
-[^key-0cf09a1f61467f059ebbc8ec488a78f6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1995/288/regulation/2) in force at 1.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/288/regulation/1/1)
+[^c-0cf09a1f61467f059ebbc8ec488a78f6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1995/288/regulation/2) in force at 1.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/288/regulation/1/1)
 
 [^f00006]: Footnote: S.I. [1992/588](https://www.legislation.gov.uk/uksi/1992/588); regulations 3(2) and 7(2) are amended by S.I. [1993/566](https://www.legislation.gov.uk/uksi/1993/566).
 
-[^key-a97f3208c0faf675ae16a15953fe0792]: Textual amendment: Regs. 3, 4 omitted (E.W.) (6.4.2008) by virtue of [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 21 para. 36](https://www.legislation.gov.uk/uksi/2007/3538/schedule/21/paragraph/36) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69)); and revoked (S.) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-a97f3208c0faf675ae16a15953fe0792]: Textual amendment: Regs. 3, 4 omitted (E.W.) (6.4.2008) by virtue of [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 21 para. 36](https://www.legislation.gov.uk/uksi/2007/3538/schedule/21/paragraph/36) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69)); and revoked (S.) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

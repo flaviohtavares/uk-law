@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 201. Power to quash decision to confirm compulsory purchase order[^key-a9cb2be7d82742cfa4cdd58f1b8e4e24]
+## 201. Power to quash decision to confirm compulsory purchase order[^c-a9cb2be7d82742cfa4cdd58f1b8e4e24]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In section 24 of the Acquisition of Land Act 1981 (powers of the court), after s
 
 ## Annotations
 
-[^key-a9cb2be7d82742cfa4cdd58f1b8e4e24]: Commencement: [S. 201](https://www.legislation.gov.uk/ukpga/2016/22/section/201) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/k) (with [reg. 8](https://www.legislation.gov.uk/uksi/2016/733/regulation/8))
+[^c-a9cb2be7d82742cfa4cdd58f1b8e4e24]: Commencement: [S. 201](https://www.legislation.gov.uk/ukpga/2016/22/section/201) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/k) (with [reg. 8](https://www.legislation.gov.uk/uksi/2016/733/regulation/8))

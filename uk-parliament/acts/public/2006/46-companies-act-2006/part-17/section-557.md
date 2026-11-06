@@ -30,7 +30,7 @@ an offence is committed by every officer of the company who is in default.
 (2) A person guilty of an offence under this section is liable—
 
 - (a) on conviction on indictment, to a fine;
-- (b) on summary conviction, to a fine not exceeding the statutory maximum and, for continued contravention, a daily default fine not exceeding one-tenth of the statutory maximum *(Extent: E+W)* *(affected by repeal, see note)*[^key-cd4c90a9aa1381d11037a84e1e3648b5]one-tenth of the greater of £5,000 or the amount corresponding to level 4 on the standard scale for summary offences *(Extent: E+W)*.
+- (b) on summary conviction, to a fine not exceeding the statutory maximum and, for continued contravention, a daily default fine not exceeding one-tenth of the statutory maximum *(Extent: E+W)* *(affected by repeal, see note)*[^c-cd4c90a9aa1381d11037a84e1e3648b5]one-tenth of the greater of £5,000 or the amount corresponding to level 4 on the standard scale for summary offences *(Extent: E+W)*.
 
 (3) In the case of default in delivering to the registrar within one month after the allotment the return required by section 555 or 556—
 
@@ -43,4 +43,4 @@ an offence is committed by every officer of the company who is in default.
 
 ## Annotations
 
-[^key-cd4c90a9aa1381d11037a84e1e3648b5]: Textual amendment: Words in s. 557(2)(b) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 9(15)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/9/15) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-cd4c90a9aa1381d11037a84e1e3648b5]: Textual amendment: Words in s. 557(2)(b) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 9(15)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/9/15) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

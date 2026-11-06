@@ -1199,11 +1199,11 @@ Section 81
 
 #### Introductory
 
-**10.**[^key-83a8d4cae6ae19998ce978e7c746982d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-83a8d4cae6ae19998ce978e7c746982d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Special rules for long funding leases
 
-**11.**[^key-83a8d4cae6ae19998ce978e7c746982d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-83a8d4cae6ae19998ce978e7c746982d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 3 — Income tax
 
@@ -1830,6 +1830,6 @@ the amount is to be treated as incurred on the date on which it would have been 
 
 ## Annotations
 
-[^key-83a8d4cae6ae19998ce978e7c746982d]: Textual amendment: Sch. 8 paras. 10, 11 repealed (1.4.2010) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-83a8d4cae6ae19998ce978e7c746982d]: Textual amendment: Sch. 8 paras. 10, 11 repealed (1.4.2010) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c19554271]: Textual amendment: Words in Sch. 8 para. 27(1) substituted (6.4.2007 with effect as mentioned in [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1027](https://www.legislation.gov.uk/ukpga/2007/3/section/1027), [Sch. 1 para. 624](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/624) (with transitional provisions and savings in [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

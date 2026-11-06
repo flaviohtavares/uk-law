@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-It is the duty of the Council to exercise its functions for the purposes of securing—[^key-635c6329a38b6a833b59a52692cb2758]
+It is the duty of the Council to exercise its functions for the purposes of securing—[^c-635c6329a38b6a833b59a52692cb2758]
 
 - (a) the coherent provision (as a whole) of—
   - (i) a high quality of fundable further education and fundable higher education by the post-16 education bodies, and
@@ -29,4 +29,4 @@ It is the duty of the Council to exercise its functions for the purposes of secu
 
 ## Annotations
 
-[^key-635c6329a38b6a833b59a52692cb2758]: Textual amendment: [S. 3(a)(b)](https://www.legislation.gov.uk/asp/2005/6/section/3/a/b) and word substituted (1.10.2026) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 2(2)](https://www.legislation.gov.uk/asp/2026/5/section/2/2), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-635c6329a38b6a833b59a52692cb2758]: Textual amendment: [S. 3(a)(b)](https://www.legislation.gov.uk/asp/2005/6/section/3/a/b) and word substituted (1.10.2026) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 2(2)](https://www.legislation.gov.uk/asp/2026/5/section/2/2), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)

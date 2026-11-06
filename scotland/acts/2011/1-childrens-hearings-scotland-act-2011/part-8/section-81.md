@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81. Determination of claim that person be deemed a relevant person[^key-1d10d096df32da8e7676beae95a15c58]
+## 81. Determination of claim that person be deemed a relevant person[^c-1d10d096df32da8e7676beae95a15c58]
 
 *Extent: S*
 
 (1) This section applies where a matter mentioned in section 79(2)(a) (a “relevant person claim”) is referred to a meeting of a pre-hearing panel.
 
-(2) Where the relevant person claim is referred along with any other matter, the pre-hearing panel must , unless that other matter is a matter mentioned in section 79(5A)(a)[^key-da0ae0dc435d78232f914bd8888fe69f] determine the relevant person claim before determining the other matter.
+(2) Where the relevant person claim is referred along with any other matter, the pre-hearing panel must , unless that other matter is a matter mentioned in section 79(5A)(a)[^c-da0ae0dc435d78232f914bd8888fe69f] determine the relevant person claim before determining the other matter.
 
 (3) The pre-hearing panel must deem the individual to be a relevant person if it considers that the individual has (or has recently had) a significant involvement in the upbringing of the child.
 
@@ -47,7 +47,7 @@ summary: ''
   - (ii) section 48,
   - (iii) section 51,
   - (iv) this section,
-  - (iva)[^key-5ae7a24b2393ca84167399cc47a55443] section 81A,
+  - (iva)[^c-5ae7a24b2393ca84167399cc47a55443] section 81A,
   - (v) section 142.
 
 (6) An order under subsection (5) is subject to the affirmative procedure.
@@ -56,8 +56,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1d10d096df32da8e7676beae95a15c58]: Commencement: S. 81 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-1d10d096df32da8e7676beae95a15c58]: Commencement: S. 81 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-da0ae0dc435d78232f914bd8888fe69f]: Textual amendment: Words in s. 81(2) inserted (26.1.2015) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [s. 102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3), [Sch. 5 para. 12(3)(a)](https://www.legislation.gov.uk/asp/2014/8/schedule/5/paragraph/12/3/a); [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/353/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/353/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/353/schedule)
+[^c-da0ae0dc435d78232f914bd8888fe69f]: Textual amendment: Words in s. 81(2) inserted (26.1.2015) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [s. 102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3), [Sch. 5 para. 12(3)(a)](https://www.legislation.gov.uk/asp/2014/8/schedule/5/paragraph/12/3/a); [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/353/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/353/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/353/schedule)
 
-[^key-5ae7a24b2393ca84167399cc47a55443]: Textual amendment: S. 81(5)(b)(iva) inserted (26.1.2015) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [s. 102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3), [Sch. 5 para. 12(3)(b)](https://www.legislation.gov.uk/asp/2014/8/schedule/5/paragraph/12/3/b); [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/353/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/353/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/353/schedule)
+[^c-5ae7a24b2393ca84167399cc47a55443]: Textual amendment: S. 81(5)(b)(iva) inserted (26.1.2015) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [s. 102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3), [Sch. 5 para. 12(3)(b)](https://www.legislation.gov.uk/asp/2014/8/schedule/5/paragraph/12/3/b); [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/353/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/353/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/353/schedule)

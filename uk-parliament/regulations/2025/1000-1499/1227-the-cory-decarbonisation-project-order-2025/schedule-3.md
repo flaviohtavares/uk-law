@@ -22,7 +22,7 @@ summary: ''
 
 Article 7
 
-**1.**[^key-ad0cf181be8be9fa7025e2fbee50062b] The following provisions do not apply in so far as they relate to the construction of any numbered work or the carrying out of any operation required for the purpose of, or in connection with, the construction, operation, maintenance or decommissioning of the authorised development—
+**1.**[^c-ad0cf181be8be9fa7025e2fbee50062b] The following provisions do not apply in so far as they relate to the construction of any numbered work or the carrying out of any operation required for the purpose of, or in connection with, the construction, operation, maintenance or decommissioning of the authorised development—
 
 - (a) Dagenham (Thames) Dock Act 1855[^f00065];
 - (b) Dagenham (Thames) Dock Act 1866[^f00066];
@@ -41,7 +41,7 @@ Article 7
 
 ## Annotations
 
-[^key-ad0cf181be8be9fa7025e2fbee50062b]: Commencement: Sch. 3 para. 1 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-ad0cf181be8be9fa7025e2fbee50062b]: Commencement: Sch. 3 para. 1 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
 [^f00065]: Footnote: [1855 c. clxii](https://www.legislation.gov.uk/ukla/1855/162).
 

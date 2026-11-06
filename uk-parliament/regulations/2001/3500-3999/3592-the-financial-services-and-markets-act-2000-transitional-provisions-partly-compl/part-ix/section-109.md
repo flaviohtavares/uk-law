@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Test to be applied by the Financial Services Tribunal[^key-d40cca781ae2787106cf82da8b0f9bef]
+## 109. Test to be applied by the Financial Services Tribunal[^c-d40cca781ae2787106cf82da8b0f9bef]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d40cca781ae2787106cf82da8b0f9bef]: Commencement: Art. 109 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-d40cca781ae2787106cf82da8b0f9bef]: Commencement: Art. 109 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

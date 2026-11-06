@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85A. Notification requirements: absence from notified residence[^key-96bb64dcbff7605dad24fb328687a2fc]
+## 85A. Notification requirements: absence from notified residence[^c-96bb64dcbff7605dad24fb328687a2fc]
 
 *Extent: N.I.*
 
@@ -62,4 +62,4 @@ the relevant offender must notify the date of his actual return to the police wi
 
 ## Annotations
 
-[^key-96bb64dcbff7605dad24fb328687a2fc]: Textual amendment: S. 85A inserted (N.I.) (24.6.2014) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 2(2)](https://www.legislation.gov.uk/nia/2013/7/section/2/2), [15(2)(b)](https://www.legislation.gov.uk/nia/2013/7/section/15/2/b); [S.R. 2014/179](https://www.legislation.gov.uk/nisr/2014/179), [art. 2(a)](https://www.legislation.gov.uk/nisr/2014/179/article/2/a)
+[^c-96bb64dcbff7605dad24fb328687a2fc]: Textual amendment: S. 85A inserted (N.I.) (24.6.2014) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 2(2)](https://www.legislation.gov.uk/nia/2013/7/section/2/2), [15(2)(b)](https://www.legislation.gov.uk/nia/2013/7/section/15/2/b); [S.R. 2014/179](https://www.legislation.gov.uk/nisr/2014/179), [art. 2(a)](https://www.legislation.gov.uk/nisr/2014/179/article/2/a)

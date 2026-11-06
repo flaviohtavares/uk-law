@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121D. Modifications and exceptions for the application of returned goods relief[^key-131ea3a4dcf5c8be6db7dd8548ea4681]
+## 121D. Modifications and exceptions for the application of returned goods relief[^c-131ea3a4dcf5c8be6db7dd8548ea4681]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ and for these purposes “re-importer” and “recipient” include someone con
 
 ## Annotations
 
-[^key-131ea3a4dcf5c8be6db7dd8548ea4681]: Textual amendment: [Reg. 121D](https://www.legislation.gov.uk/uksi/1995/2518/regulation/121D) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [67](https://www.legislation.gov.uk/uksi/2020/1545/regulation/67) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-131ea3a4dcf5c8be6db7dd8548ea4681]: Textual amendment: [Reg. 121D](https://www.legislation.gov.uk/uksi/1995/2518/regulation/121D) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [67](https://www.legislation.gov.uk/uksi/2020/1545/regulation/67) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

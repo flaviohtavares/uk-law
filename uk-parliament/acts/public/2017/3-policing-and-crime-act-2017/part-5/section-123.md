@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Deputy Mayor for Policing and Crime as member of local authority[^c22719621][^key-6818ae7c3ba9a22191ea8c4a85db4ad4]
+## 123. Deputy Mayor for Policing and Crime as member of local authority[^c22719621][^c-6818ae7c3ba9a22191ea8c4a85db4ad4]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c22719621]: Commencement: S. 123 in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-6818ae7c3ba9a22191ea8c4a85db4ad4]: Commencement: S. 123 in force at 1.4.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2018/227/article/4/d)
+[^c-6818ae7c3ba9a22191ea8c4a85db4ad4]: Commencement: S. 123 in force at 1.4.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2018/227/article/4/d)

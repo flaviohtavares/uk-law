@@ -45,13 +45,13 @@ Coming into force
 
 The Scottish Ministers in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Citation, commencement and extent[^key-fb088e04f29b1011b2b2358bd0ac3c31]
+## 1. Citation, commencement and extent[^c-fb088e04f29b1011b2b2358bd0ac3c31]
 
 (1) These Regulations may be cited as the Land Management Contracts (Menu Scheme) (Scotland) Regulations 2005 and shall come into force on 15th May 2005.
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Interpretation[^key-efb76727727cd6b8585058968f5b3347]
+## 2. Interpretation[^c-efb76727727cd6b8585058968f5b3347]
 
 (1) In these Regulations–
 
@@ -111,7 +111,7 @@ The Scottish Ministers in exercise of the powers conferred by section 2(2) of th
 
 (5) Words and phrases used in Schedules 1 and 2 and not defined in paragraph (1) shall be construed in accordance with Schedule 3.
 
-## 3. Applications for aid[^key-2028ea975b39618030c2b61a8a645bb0]
+## 3. Applications for aid[^c-2028ea975b39618030c2b61a8a645bb0]
 
 (1) Subject to paragraph (4), an application for aid shall be made in writing to such authority, at such time, in such form and shall contain such information as the Scottish Ministers may reasonably require.
 
@@ -119,7 +119,7 @@ The Scottish Ministers in exercise of the powers conferred by section 2(2) of th
 
 (3) Where an application for aid is made in respect of a scheme year, applicants must also submit a single application to a relevant competent authority in accordance with the IACS Regulations for the IACS year which begins in the calendar year in which that scheme year begins.
 
-## 4. Payment of aid[^key-67e664aa304815e4bd6c2fc546d12d72]
+## 4. Payment of aid[^c-67e664aa304815e4bd6c2fc546d12d72]
 
 (1) Subject to the provisions of these Regulations, the Scottish Ministers may make payment of aid in respect of an undertaking to which these Regulations apply, to an applicant–
 
@@ -128,7 +128,7 @@ The Scottish Ministers in exercise of the powers conferred by section 2(2) of th
 
 (2) These Regulations apply to an undertaking in writing by the applicant to carry out, or as the case may be, to carry out and maintain, at least one of the activities referred to in Schedule 1.
 
-## 5. Maximum amount of aid payable[^key-e3da5b54f88bdac6c6475e04545d7b55]
+## 5. Maximum amount of aid payable[^c-e3da5b54f88bdac6c6475e04545d7b55]
 
 The maximum amount of aid payable to an applicant under these Regulations in respect of a scheme year shall be calculable as the sum of the allowance allocated to each individual whole hectare of land in Scotland comprised in the agricultural parcels declared in the single application submitted to the relevant competent authority by the applicant in accordance with Article 22 of Council Regulation 1782/2003 and Article 12(1)(d) of Commission Regulation 796/2004 as set out in the following table:
 
@@ -139,7 +139,7 @@ The maximum amount of aid payable to an applicant under these Regulations in res
 | Hectares over 100 to hectare 1000 | 1 |
 | Hectares over 1000 | 0.1 |
 
-## 6. Restrictions on acceptance of applications for aid[^key-593f2a4625d55c0ff19ce46746c69a18]
+## 6. Restrictions on acceptance of applications for aid[^c-593f2a4625d55c0ff19ce46746c69a18]
 
 (1) The Scottish Ministers shall not accept an application for aid–
 
@@ -152,7 +152,7 @@ The maximum amount of aid payable to an applicant under these Regulations in res
 
 (2) The Scottish Ministers shall not accept an application for aid without first having agreed with the applicant the date of commencement of the undertaking, which shall in no circumstances be earlier than the date on which the application was accepted.
 
-## 7. Eligible land[^key-383521e4a0521ee5972f8c93b2475370]
+## 7. Eligible land[^c-383521e4a0521ee5972f8c93b2475370]
 
 (1) Land shall be eligible to have activities carried out on it if it is land in Scotland declared in the application for aid and the land is–
 
@@ -161,13 +161,13 @@ The maximum amount of aid payable to an applicant under these Regulations in res
 
 (2) In declaring the land in the application for aid under paragraph (1), the applicant must use the unique identification number for each reference parcel of land under or compatible with the identification system for agricultural parcels referred to in Article 20 of Council Regulation 1782/2003 and Article 6 of Commission Regulation 796/2004 where that number exists at the date of the application.
 
-## 8. Transfer of a holding[^key-a55dc9714dbce74feb135273493a51be]
+## 8. Transfer of a holding[^c-a55dc9714dbce74feb135273493a51be]
 
 (1) In determining eligible land under regulation 7 the decision of the Scottish Ministers shall be in accordance with Article 74 of Commission Regulation 796/2004 as appropriate.
 
 (2) For the purpose of paragraph 6 of Article 74 of Commission Regulation 796/2004, the Scottish Ministers shall grant aid to the transferor of a holding of eligible land, if the transferor fulfils the conditions laid down by paragraphs 2 to 5 of Article 74 of Commission Regulation 796/2004.
 
-## 9. Determination of applications for aid[^key-f748c66bf6b8881bc75d4440bd8b85a8]
+## 9. Determination of applications for aid[^c-f748c66bf6b8881bc75d4440bd8b85a8]
 
 (1) The Scottish Ministers may approve (in whole or in part) or may reject an application for aid made under regulation 3, and in determining whether an application should be so approved or rejected, they shall have regard to–
 
@@ -185,11 +185,11 @@ The maximum amount of aid payable to an applicant under these Regulations in res
 - (b) give that person an opportunity to make representations about the action proposed to be taken within such time and in such form as the Scottish Ministers may require; and
 - (c) consider any such representations.
 
-## 10. Rates of payment for activities undertaken[^key-4b12182bc3d7da1d937207220f8a8bb5]
+## 10. Rates of payment for activities undertaken[^c-4b12182bc3d7da1d937207220f8a8bb5]
 
 The amount of aid payable under regulation 4 shall, subject to the maximum amount of aid per hectare calculated under regulation 5, any maximum limit per hectare provided for in Annex I of Council Regulation 1257/1999 and the provisions of these Regulations, be calculated with reference to the activity or activities undertaken, and the rate of payment in respect of each activity described in column 2 of Schedule 1 shall be the rate shown opposite the entry for that activity in column 3 of that Schedule.
 
-## 11. Claims and payment[^key-0130eea05715e5e215f2d3c0081740fa]
+## 11. Claims and payment[^c-0130eea05715e5e215f2d3c0081740fa]
 
 (1) A claim for payment of aid under regulation 4–
 
@@ -207,7 +207,7 @@ The amount of aid payable under regulation 4 shall, subject to the maximum amoun
 
 (5) The provisions of these Regulations are insofar as the aid claimed includes aid under Council Regulation 1257/1999, subject to Article 37(3) of Council Regulation 1257/1999 and Articles 40, 41, 42 and 43 of Commission Regulation 817/2004 (combination of aids).
 
-## 12. Change of occupation of land[^key-19e59505fbc5335d1e8fbd3a6c929bab]
+## 12. Change of occupation of land[^c-19e59505fbc5335d1e8fbd3a6c929bab]
 
 (1) Where during the period of an undertaking, there is a change of occupation of all or any part of the land to which that undertaking relates, subject to the provisions of this regulation, the Scottish Ministers shall accept an undertaking from the new occupier.
 
@@ -243,7 +243,7 @@ The amount of aid payable under regulation 4 shall, subject to the maximum amoun
 
 (11) The provisions of this regulation are, insofar as the aid paid under these Regulations includes aid under Council Regulation 1257/1999, subject to Articles 36 to 38 (transfer of holding) and Article 39 (force majeure) of Commission Regulation 817/2004, and where by virtue of Article 11 of Council Regulation 1257/1999 an applicant for aid is required to reimburse the aid paid, in accordance with Articles 70, 71, 72 and 73 of Commission Regulation 817/2004 interest shall be payable thereon at the rate calculated in accordance with that provided in regulation 19.
 
-## 13. Powers of authorised persons[^key-f68f1d5202645314735b856d47bb4d61]
+## 13. Powers of authorised persons[^c-f68f1d5202645314735b856d47bb4d61]
 
 (1) The Scottish Ministers may authorise a person, either generally or specifically, to act in relation to matters arising under these Regulations, and an authorised person may at all reasonable hours, on producing, if so required, some duly authenticated document showing the authorised person’s authority, enter on any land–
 
@@ -277,7 +277,7 @@ and paragraphs (3) and (4) shall apply to that person when acting under the inst
 
 (6) Paragraph (1) above shall apply to any land used for the purposes of a dwellinghouse only where reasonable notice of its intended exercise has been given to all residents of that dwellinghouse.
 
-## 14. Breaches of undertakings etc.[^key-c9bdec59cab0b40b9b06a782a6026841]
+## 14. Breaches of undertakings etc.[^c-c9bdec59cab0b40b9b06a782a6026841]
 
 (1) Subject to paragraph (2), where–
 
@@ -300,7 +300,7 @@ and paragraphs (3) and (4) shall apply to that person when acting under the inst
 
 the applicant shall be released from their undertaking with effect from the date of the acceptance by the Scottish Ministers of the successor’s undertaking other than in respect of any breach or other matter occurring before the date last mentioned.
 
-## 15. Other cases in which recovery etc. powers apply[^key-c764729f49f2a5958ae1c3932fc7162a]
+## 15. Other cases in which recovery etc. powers apply[^c-c764729f49f2a5958ae1c3932fc7162a]
 
 The Scottish Ministers may exercise the powers specified in paragraph (1)(a) and (b) of regulation 16 where they are satisfied that–
 
@@ -310,7 +310,7 @@ The Scottish Ministers may exercise the powers specified in paragraph (1)(a) and
 - (d) sums paid have exceeded the maximum limit per hectare under regulation 5 or are otherwise not due under these Regulations; or
 - (e) sums paid have exceeded any maximum limit per hectare provided for in Annex I of Council Regulation 1257/1999.
 
-## 16. Powers of recovery etc. of the Scottish Ministers[^key-57b560c8049f810fbcea39ad27d2a11c]
+## 16. Powers of recovery etc. of the Scottish Ministers[^c-57b560c8049f810fbcea39ad27d2a11c]
 
 (1) The powers conferred by regulations 14 and 15 are–
 
@@ -325,13 +325,13 @@ The Scottish Ministers may exercise the powers specified in paragraph (1)(a) and
 
 (5) The powers conferred on the Scottish Ministers by paragraphs (2), (3) and (4) shall be exercisable by a notice served on the applicant by post at his last known address, and in paragraph (4) “specify” means specify in such notice.
 
-## 17. Information[^key-34d5b982acb77106d5c8141bc015ee71]
+## 17. Information[^c-34d5b982acb77106d5c8141bc015ee71]
 
 (1) An applicant must supply the Scottish Ministers with such information about an application for aid or undertaking as they reasonably may require.
 
 (2) When the Scottish Ministers require such information the applicant must supply them with it within such period as they reasonably may require.
 
-## 18. Record keeping[^key-6b764ff3dc3debb17793cadb83e1ce80]
+## 18. Record keeping[^c-6b764ff3dc3debb17793cadb83e1ce80]
 
 (1) An applicant must keep any invoice, account or other document relating to an application for aid or undertaking, for the period of four years after payment of aid is made.
 
@@ -339,17 +339,17 @@ The Scottish Ministers may exercise the powers specified in paragraph (1)(a) and
 
 (3) Paragraph (1) shall not apply where the document has been removed by any person lawfully authorised to remove it.
 
-## 19. Recovery of interest[^key-459d03a45e2faafe3a5cfc1c4ea1bc76]
+## 19. Recovery of interest[^c-459d03a45e2faafe3a5cfc1c4ea1bc76]
 
 (1) Where the Scottish Ministers exercise the power conferred by regulation 16(1)(b) they may also recover on demand interest on the sum to be recovered at a rate of interest one per cent above the sterling three month London interbank offered rate on a day to day basis from the date of payment until the date of recovery.
 
 (2) In any proceedings for recovery under these Regulations, a certificate issued by the Scottish Ministers stating the rate or rates of interest, the amount of such interest recoverable and the period for which such interest is calculated, shall unless the contrary is shown, be conclusive of those matters.
 
-## 20. Sums payable to the Scottish Ministers to be recoverable as a debt[^key-70b51d9d6a74a8b798df1f23144efc14]
+## 20. Sums payable to the Scottish Ministers to be recoverable as a debt[^c-70b51d9d6a74a8b798df1f23144efc14]
 
 Where an amount falls to be paid to the Scottish Ministers by virtue of (or by virtue of an action taken under) these Regulations, such amount shall be recoverable as a debt.
 
-## 21. Offences and penalties[^key-f3cb091cb1f877a28c33c0dc88ab83a5]
+## 21. Offences and penalties[^c-f3cb091cb1f877a28c33c0dc88ab83a5]
 
 (1) A person is guilty of an offence if–
 
@@ -366,7 +366,7 @@ Where an amount falls to be paid to the Scottish Ministers by virtue of (or by v
 
 (6) Where the affairs of a body corporate are managed by its members, paragraph (5) above shall apply in relation to the acts and defaults of a member in connection with the member’s management functions as if the member were a director of the body corporate.
 
-## 22. Right of appeal[^key-edf29ceae5e94b883db8c04a52adb60f]
+## 22. Right of appeal[^c-edf29ceae5e94b883db8c04a52adb60f]
 
 The Agricultural Subsidies (Appeals) (Scotland) Regulations 2004[^f00024] shall be amended by inserting after regulation 4(r)–
 
@@ -382,7 +382,7 @@ St Andrew’s House, Edinburgh
 
 21st April 2005
 
-## SCHEDULE 1 — MENU OPTION ACTIVITIES, ELIGIBILITY CONDITIONS AND RATES OF PAYMENT[^key-a5d340a681b0bcce156c12a9f7862931]
+## SCHEDULE 1 — MENU OPTION ACTIVITIES, ELIGIBILITY CONDITIONS AND RATES OF PAYMENT[^c-a5d340a681b0bcce156c12a9f7862931]
 
 Regulations 2(1), 4(2), 10, 11
 
@@ -444,83 +444,83 @@ Regulation 11(3)(b)
 
 ### PART I — THE STANDARDS OF GOOD FARMING PRACTICE INCLUDING GOOD ANIMAL HUSBANDRY
 
-**1.**[^key-b7d0b53d39eb7ab9a42fccdbd4bc11f5] On rough grazings, unimproved grassland, reverted improved grassland, machair and dune grassland, wetlands and native, amenity or semi natural woodlands, livestock must be managed to avoid either overgrazing or undergrazing. Where the Scottish Ministers form the opinion that land was being overgrazed, a management regime including a maximum (and, where appropriate, a minimum) stocking rate to be observed on that site will be prescribed. The removal or clearance of drystone or flagstone dykes or walls, hedges and hedgerow trees will not be permitted except with the prior written approval of the Scottish Ministers. Records shall be maintained by the applicant showing that this approval has been obtained.
+**1.**[^c-b7d0b53d39eb7ab9a42fccdbd4bc11f5] On rough grazings, unimproved grassland, reverted improved grassland, machair and dune grassland, wetlands and native, amenity or semi natural woodlands, livestock must be managed to avoid either overgrazing or undergrazing. Where the Scottish Ministers form the opinion that land was being overgrazed, a management regime including a maximum (and, where appropriate, a minimum) stocking rate to be observed on that site will be prescribed. The removal or clearance of drystone or flagstone dykes or walls, hedges and hedgerow trees will not be permitted except with the prior written approval of the Scottish Ministers. Records shall be maintained by the applicant showing that this approval has been obtained.
 
-**2.**[^key-83d256a45556e1fa27ec3e455fd350aa] Trimming of hedges and hedgerows must not be carried out between 1st March and 31st July.
+**2.**[^c-83d256a45556e1fa27ec3e455fd350aa] Trimming of hedges and hedgerows must not be carried out between 1st March and 31st July.
 
-**3.**[^key-640a25e62b0149accf60fe6c0f548ee0] Where it is intended to undertake any operation on the land that is likely to damage any Site of Special Scientific Interest, designated pursuant to section 28 of the Wildlife and Countryside Act 1981[^f00033], the prior approval of Scottish Natural Heritage must be obtained. Records shall be maintained by the applicant showing that this approval has been obtained.
+**3.**[^c-640a25e62b0149accf60fe6c0f548ee0] Where it is intended to undertake any operation on the land that is likely to damage any Site of Special Scientific Interest, designated pursuant to section 28 of the Wildlife and Countryside Act 1981[^f00033], the prior approval of Scottish Natural Heritage must be obtained. Records shall be maintained by the applicant showing that this approval has been obtained.
 
-**4.**[^key-3ce6bc449591b22a559fd196d77e1203] If a new silage or slurry storage facility is constructed on the land, the Scottish Environment Protection Agency must be notified before it is used. Records showing that this notification has been given must be maintained by the applicant.
+**4.**[^c-3ce6bc449591b22a559fd196d77e1203] If a new silage or slurry storage facility is constructed on the land, the Scottish Environment Protection Agency must be notified before it is used. Records showing that this notification has been given must be maintained by the applicant.
 
-**5.**[^key-e774a0ecfa35049a6a46ee94c0bb22d8] Prior authorisation must be obtained from the Scottish Environment Protection Agency before any sheep dip is disposed of on the land. Records showing that this authorisation has been obtained, and records detailing the manner of disposal of the sheep dip, shall be maintained by the applicant.
+**5.**[^c-e774a0ecfa35049a6a46ee94c0bb22d8] Prior authorisation must be obtained from the Scottish Environment Protection Agency before any sheep dip is disposed of on the land. Records showing that this authorisation has been obtained, and records detailing the manner of disposal of the sheep dip, shall be maintained by the applicant.
 
-**6.**[^key-c275c0f149d49b2691a3a610ca914879] Prior authorisation must be obtained from the Forestry Commission before the felling of any trees on the land. Records shall be maintained by the applicant showing that this approval has been obtained.
+**6.**[^c-c275c0f149d49b2691a3a610ca914879] Prior authorisation must be obtained from the Forestry Commission before the felling of any trees on the land. Records shall be maintained by the applicant showing that this approval has been obtained.
 
-**7.**[^key-6a5c1a0dbf7291e66f6afce35f052a77] Animals must not be caused any unnecessary pain or suffering and must be inspected at regular intervals. Animals kept in buildings must have access to a well maintained drying area. Animal buildings must be constructed in such a way that will not be harmful to animals. Where necessary artificial light must be provided and animals must not be kept without an appropriate rest from artificial light. Animals must be fed a diet of sufficient quality and quantity to maintain them in good health and to satisfy their nutritional needs. All animals must have access to feed at appropriate intervals (at least once a day) and a suitable water supply or be able to satisfy their fluid intake needs by other means. Animals must not have their movement restricted in such a way as to cause them unnecessary suffering or injury.
+**7.**[^c-6a5c1a0dbf7291e66f6afce35f052a77] Animals must not be caused any unnecessary pain or suffering and must be inspected at regular intervals. Animals kept in buildings must have access to a well maintained drying area. Animal buildings must be constructed in such a way that will not be harmful to animals. Where necessary artificial light must be provided and animals must not be kept without an appropriate rest from artificial light. Animals must be fed a diet of sufficient quality and quantity to maintain them in good health and to satisfy their nutritional needs. All animals must have access to feed at appropriate intervals (at least once a day) and a suitable water supply or be able to satisfy their fluid intake needs by other means. Animals must not have their movement restricted in such a way as to cause them unnecessary suffering or injury.
 
-**8.**[^key-005b07c7977ae1fd0a48cb59eebb207c] Only those persons who have the appropriate ability, knowledge and professional competence may attend to animals.
+**8.**[^c-005b07c7977ae1fd0a48cb59eebb207c] Only those persons who have the appropriate ability, knowledge and professional competence may attend to animals.
 
-**9.**[^key-d737660658c9d59a94391548caa126ea] Ill or injured animals must be cared for appropriately and without delay and, where necessary, veterinary advice must be obtained as soon as possible. Records must be maintained and retained by the applicant for 3 years of all medicinal treatment given to animals and of all mortalities.
+**9.**[^c-d737660658c9d59a94391548caa126ea] Ill or injured animals must be cared for appropriately and without delay and, where necessary, veterinary advice must be obtained as soon as possible. Records must be maintained and retained by the applicant for 3 years of all medicinal treatment given to animals and of all mortalities.
 
 ### PART II — ENVIRONMENTAL LEGISLATION
 
-#### 1. Water pollution[^key-f66fa672e08ed6071994c277361416ed]
+#### 1. Water pollution[^c-f66fa672e08ed6071994c277361416ed]
 
 The Control of Pollution Act 1974[^f00034].
 
-**2.**[^key-e8955d1a0510f224306624b92fa5ad31] The Water (Prevention of Pollution) (Code of Practice) (Scotland) Order 2005[^f00035].
+**2.**[^c-e8955d1a0510f224306624b92fa5ad31] The Water (Prevention of Pollution) (Code of Practice) (Scotland) Order 2005[^f00035].
 
-**3.**[^key-103e7cee311d64665446e7ad5df89572] The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Scotland) Regulations 2003[^f00036].
+**3.**[^c-103e7cee311d64665446e7ad5df89572] The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Scotland) Regulations 2003[^f00036].
 
-**4.**[^key-dfa6305e6f5475d0ed7bcc7d8ddb6385] The Groundwater Regulations 1998[^f00037].
+**4.**[^c-dfa6305e6f5475d0ed7bcc7d8ddb6385] The Groundwater Regulations 1998[^f00037].
 
-#### 5. Air pollution[^key-e67cbee79f03afa57bd1d54a2be38c87]
+#### 5. Air pollution[^c-e67cbee79f03afa57bd1d54a2be38c87]
 
 The Clean Air Act 1993[^f00038].
 
-**6.**[^key-3901b7ebd1c52f308b982232a9beb7a6] The Hill Farming Act 1946[^f00039].
+**6.**[^c-3901b7ebd1c52f308b982232a9beb7a6] The Hill Farming Act 1946[^f00039].
 
-#### 7. Fertilisers and pesticides[^key-29455d7e3d7988cba83b2197c0ac933f]
+#### 7. Fertilisers and pesticides[^c-29455d7e3d7988cba83b2197c0ac933f]
 
 The Action Programme for Nitrate Vulnerable Zones (Scotland) Regulations 2003[^f00040].
 
-**8.**[^key-c6a06752680b546e50b629375cf26822] Part III of the Food and Environment Protection Act 1985[^f00041] and the Control of Pesticides Regulations 1986[^f00042].
+**8.**[^c-c6a06752680b546e50b629375cf26822] Part III of the Food and Environment Protection Act 1985[^f00041] and the Control of Pesticides Regulations 1986[^f00042].
 
-**9.**[^key-be97729a3d53c5e190d34b819f007eb6] The Plant Protection Products Regulations 1995[^f00043].
+**9.**[^c-be97729a3d53c5e190d34b819f007eb6] The Plant Protection Products Regulations 1995[^f00043].
 
-#### 10. Designated sites[^key-3b00f776ebca71c97569abd57b891688]
+#### 10. Designated sites[^c-3b00f776ebca71c97569abd57b891688]
 
 The Ancient Monuments and Archaeological Areas Act 1979[^f00044].
 
-**11.**[^key-daa06abfb8de281924bd70502559c095] The Wildlife and Countryside Act 1981[^f00045].
+**11.**[^c-daa06abfb8de281924bd70502559c095] The Wildlife and Countryside Act 1981[^f00045].
 
-**12.**[^key-982f174940b13cb3d5e54fd6b79d8cfe] The Conservation (Natural Habitats etc.) Regulations 1994[^f00046].
+**12.**[^c-982f174940b13cb3d5e54fd6b79d8cfe] The Conservation (Natural Habitats etc.) Regulations 1994[^f00046].
 
-**13.**[^key-ba4d603f986f542acb55d77a856d88dc] The Ancient Monuments (Class Consents) (Scotland) Order 1996[^f00047].
+**13.**[^c-ba4d603f986f542acb55d77a856d88dc] The Ancient Monuments (Class Consents) (Scotland) Order 1996[^f00047].
 
-#### 14. Forestry Management[^key-16900632289370ebf25cc383b1ca8753]
+#### 14. Forestry Management[^c-16900632289370ebf25cc383b1ca8753]
 
 The Forestry Act 1967[^f00048].
 
-#### 15. Animal Welfare[^key-aa03ec4f6569b1cb539fd80974dc0c1d]
+#### 15. Animal Welfare[^c-aa03ec4f6569b1cb539fd80974dc0c1d]
 
 The Welfare of Farmed Animals (Scotland) Regulations 2000[^f00049].
 
 ### PART III — GENERAL ENVIRONMENTAL CONDITIONS
 
-**1.**[^key-23150d6bbd88efde03b475520b97184f] To avoid damage to the conservation interest of rough grazings, unimproved grassland, reverted improved grassland, machair and dune grassland, wetlands, water margins, and native, amenity or semi natural woodlands, new drainage works, ploughing, clearing, levelling, re seeding or cultivating may not be undertaken. Livestock must be managed to avoid poaching.
+**1.**[^c-23150d6bbd88efde03b475520b97184f] To avoid damage to the conservation interest of rough grazings, unimproved grassland, reverted improved grassland, machair and dune grassland, wetlands, water margins, and native, amenity or semi natural woodlands, new drainage works, ploughing, clearing, levelling, re seeding or cultivating may not be undertaken. Livestock must be managed to avoid poaching.
 
-**2.**[^key-11961b055b69885f49245bc95eb3e908] Pesticides, lime or fertiliser (including farmyard manure and slurry) must not be applied to rough grazings, unimproved pasture, reverted improved grassland, machair and dune grassland, wetlands, water margins, native, amenity or semi natural woodlands and scrub, except in exceptional circumstances and only with the prior written approval of the Scottish Ministers. Records shall be maintained by the applicant showing that this approval has been obtained.
+**2.**[^c-11961b055b69885f49245bc95eb3e908] Pesticides, lime or fertiliser (including farmyard manure and slurry) must not be applied to rough grazings, unimproved pasture, reverted improved grassland, machair and dune grassland, wetlands, water margins, native, amenity or semi natural woodlands and scrub, except in exceptional circumstances and only with the prior written approval of the Scottish Ministers. Records shall be maintained by the applicant showing that this approval has been obtained.
 
-**3.**[^key-2d0047eae9f87374c1f1cb515c6c22cc] Injurious weeds to which the Weeds Act 1959[^f00050] applies must be controlled to prevent their spread and to avoid the risk of damage to the conservation interest of any habitat or feature on the land.
+**3.**[^c-2d0047eae9f87374c1f1cb515c6c22cc] Injurious weeds to which the Weeds Act 1959[^f00050] applies must be controlled to prevent their spread and to avoid the risk of damage to the conservation interest of any habitat or feature on the land.
 
-**4.**[^key-cfa71f905952a5ec239cce6e3ccf0b67] Muirburn may only be carried out in accordance with guidance approved by the Scottish Ministers.
+**4.**[^c-cfa71f905952a5ec239cce6e3ccf0b67] Muirburn may only be carried out in accordance with guidance approved by the Scottish Ministers.
 
-**5.**[^key-5eebe2cc16901a7c6636ec27b6df1bc6] The damage or destruction of any historic or archaeological features or areas must be avoided and guidance approved by the Scottish Ministers must be followed for the protection of such features or areas.
+**5.**[^c-5eebe2cc16901a7c6636ec27b6df1bc6] The damage or destruction of any historic or archaeological features or areas must be avoided and guidance approved by the Scottish Ministers must be followed for the protection of such features or areas.
 
-**6.**[^key-9970d5a6792b4179c308ef445c7120db] Guidance, approved by the Scottish Ministers, on the prevention of environmental pollution from agricultural activity must be followed for the avoidance of pollution or to minimise the risk of pollution.
+**6.**[^c-9970d5a6792b4179c308ef445c7120db] Guidance, approved by the Scottish Ministers, on the prevention of environmental pollution from agricultural activity must be followed for the avoidance of pollution or to minimise the risk of pollution.
 
-## SCHEDULE 3 — INTERPRETATION OF SCHEDULES[^key-0b57edf93ee3c4da96054706bd895cde]
+## SCHEDULE 3 — INTERPRETATION OF SCHEDULES[^c-0b57edf93ee3c4da96054706bd895cde]
 
 Regulation 2(5)
 
@@ -606,9 +606,9 @@ No Regulatory Impact Assessment has been prepared in respect of these Regulation
 
 [^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), Schedule 8, paragraph 15(3). The functions conferred upon the Minister of the Crown under section 2(2) of the European Communities Act 1972, insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
 
-[^key-fb088e04f29b1011b2b2358bd0ac3c31]: Commencement: Reg. 1 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-fb088e04f29b1011b2b2358bd0ac3c31]: Commencement: Reg. 1 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
-[^key-efb76727727cd6b8585058968f5b3347]: Commencement: Reg. 2 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-efb76727727cd6b8585058968f5b3347]: Commencement: Reg. 2 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
 [^f00002]: Footnote: [1911 c. 49](https://www.legislation.gov.uk/ukpga/1911/49).
 
@@ -652,53 +652,53 @@ No Regulatory Impact Assessment has been prepared in respect of these Regulation
 
 [^f00022]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
 
-[^key-2028ea975b39618030c2b61a8a645bb0]: Commencement: Reg. 3 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-2028ea975b39618030c2b61a8a645bb0]: Commencement: Reg. 3 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
-[^key-67e664aa304815e4bd6c2fc546d12d72]: Commencement: Reg. 4 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-67e664aa304815e4bd6c2fc546d12d72]: Commencement: Reg. 4 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
-[^key-e3da5b54f88bdac6c6475e04545d7b55]: Commencement: Reg. 5 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-e3da5b54f88bdac6c6475e04545d7b55]: Commencement: Reg. 5 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
-[^key-593f2a4625d55c0ff19ce46746c69a18]: Commencement: Reg. 6 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-593f2a4625d55c0ff19ce46746c69a18]: Commencement: Reg. 6 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
-[^key-383521e4a0521ee5972f8c93b2475370]: Commencement: Reg. 7 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-383521e4a0521ee5972f8c93b2475370]: Commencement: Reg. 7 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
-[^key-a55dc9714dbce74feb135273493a51be]: Commencement: Reg. 8 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-a55dc9714dbce74feb135273493a51be]: Commencement: Reg. 8 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
-[^key-f748c66bf6b8881bc75d4440bd8b85a8]: Commencement: Reg. 9 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-f748c66bf6b8881bc75d4440bd8b85a8]: Commencement: Reg. 9 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
-[^key-4b12182bc3d7da1d937207220f8a8bb5]: Commencement: Reg. 10 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-4b12182bc3d7da1d937207220f8a8bb5]: Commencement: Reg. 10 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
-[^key-0130eea05715e5e215f2d3c0081740fa]: Commencement: Reg. 11 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-0130eea05715e5e215f2d3c0081740fa]: Commencement: Reg. 11 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
-[^key-19e59505fbc5335d1e8fbd3a6c929bab]: Commencement: Reg. 12 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-19e59505fbc5335d1e8fbd3a6c929bab]: Commencement: Reg. 12 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
-[^key-f68f1d5202645314735b856d47bb4d61]: Commencement: Reg. 13 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-f68f1d5202645314735b856d47bb4d61]: Commencement: Reg. 13 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
-[^key-c9bdec59cab0b40b9b06a782a6026841]: Commencement: Reg. 14 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-c9bdec59cab0b40b9b06a782a6026841]: Commencement: Reg. 14 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
-[^key-c764729f49f2a5958ae1c3932fc7162a]: Commencement: Reg. 15 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-c764729f49f2a5958ae1c3932fc7162a]: Commencement: Reg. 15 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
-[^key-57b560c8049f810fbcea39ad27d2a11c]: Commencement: Reg. 16 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-57b560c8049f810fbcea39ad27d2a11c]: Commencement: Reg. 16 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
-[^key-34d5b982acb77106d5c8141bc015ee71]: Commencement: Reg. 17 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-34d5b982acb77106d5c8141bc015ee71]: Commencement: Reg. 17 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
-[^key-6b764ff3dc3debb17793cadb83e1ce80]: Commencement: Reg. 18 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-6b764ff3dc3debb17793cadb83e1ce80]: Commencement: Reg. 18 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
-[^key-459d03a45e2faafe3a5cfc1c4ea1bc76]: Commencement: Reg. 19 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-459d03a45e2faafe3a5cfc1c4ea1bc76]: Commencement: Reg. 19 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
-[^key-70b51d9d6a74a8b798df1f23144efc14]: Commencement: Reg. 20 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-70b51d9d6a74a8b798df1f23144efc14]: Commencement: Reg. 20 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
-[^key-f3cb091cb1f877a28c33c0dc88ab83a5]: Commencement: Reg. 21 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-f3cb091cb1f877a28c33c0dc88ab83a5]: Commencement: Reg. 21 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
 [^f00023]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
 
-[^key-edf29ceae5e94b883db8c04a52adb60f]: Commencement: Reg. 22 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-edf29ceae5e94b883db8c04a52adb60f]: Commencement: Reg. 22 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
 [^f00024]: Footnote: [S.S.I. 2004/381](https://www.legislation.gov.uk/ssi/2004/381), amended by [S.S.I. 2005/117](https://www.legislation.gov.uk/ssi/2005/117).
 
 [^f00025]: Footnote: [S.S.I. 2005/225](https://www.legislation.gov.uk/ssi/2005/225).
 
-[^key-a5d340a681b0bcce156c12a9f7862931]: Commencement: Sch. 1 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-a5d340a681b0bcce156c12a9f7862931]: Commencement: Sch. 1 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
 [^f00026]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37).
 
@@ -714,103 +714,103 @@ No Regulatory Impact Assessment has been prepared in respect of these Regulation
 
 [^f00032]: Footnote: [S.S.I. 2003/209](https://www.legislation.gov.uk/ssi/2003/209).
 
-[^key-b7d0b53d39eb7ab9a42fccdbd4bc11f5]: Commencement: Sch. 2 Pt. I para. 1 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-b7d0b53d39eb7ab9a42fccdbd4bc11f5]: Commencement: Sch. 2 Pt. I para. 1 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
-[^key-83d256a45556e1fa27ec3e455fd350aa]: Commencement: Sch. 2 Pt. I para. 2 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-83d256a45556e1fa27ec3e455fd350aa]: Commencement: Sch. 2 Pt. I para. 2 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
-[^key-640a25e62b0149accf60fe6c0f548ee0]: Commencement: Sch. 2 Pt. I para. 3 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-640a25e62b0149accf60fe6c0f548ee0]: Commencement: Sch. 2 Pt. I para. 3 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
 [^f00033]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 
-[^key-3ce6bc449591b22a559fd196d77e1203]: Commencement: Sch. 2 Pt. I para. 4 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-3ce6bc449591b22a559fd196d77e1203]: Commencement: Sch. 2 Pt. I para. 4 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
-[^key-e774a0ecfa35049a6a46ee94c0bb22d8]: Commencement: Sch. 2 Pt. I para. 5 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-e774a0ecfa35049a6a46ee94c0bb22d8]: Commencement: Sch. 2 Pt. I para. 5 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
-[^key-c275c0f149d49b2691a3a610ca914879]: Commencement: Sch. 2 Pt. I para. 6 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-c275c0f149d49b2691a3a610ca914879]: Commencement: Sch. 2 Pt. I para. 6 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
-[^key-6a5c1a0dbf7291e66f6afce35f052a77]: Commencement: Sch. 2 Pt. I para. 7 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-6a5c1a0dbf7291e66f6afce35f052a77]: Commencement: Sch. 2 Pt. I para. 7 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
-[^key-005b07c7977ae1fd0a48cb59eebb207c]: Commencement: Sch. 2 Pt. I para. 8 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-005b07c7977ae1fd0a48cb59eebb207c]: Commencement: Sch. 2 Pt. I para. 8 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
-[^key-d737660658c9d59a94391548caa126ea]: Commencement: Sch. 2 Pt. I para. 9 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-d737660658c9d59a94391548caa126ea]: Commencement: Sch. 2 Pt. I para. 9 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
-[^key-f66fa672e08ed6071994c277361416ed]: Commencement: Sch. 2 Pt. II para. 1 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-f66fa672e08ed6071994c277361416ed]: Commencement: Sch. 2 Pt. II para. 1 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
 [^f00034]: Footnote: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40).
 
-[^key-e8955d1a0510f224306624b92fa5ad31]: Commencement: Sch. 2 Pt. II para. 2 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-e8955d1a0510f224306624b92fa5ad31]: Commencement: Sch. 2 Pt. II para. 2 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
 [^f00035]: Footnote: [S.S.I. 2005/63](https://www.legislation.gov.uk/ssi/2005/63).
 
-[^key-103e7cee311d64665446e7ad5df89572]: Commencement: Sch. 2 Pt. II para. 3 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-103e7cee311d64665446e7ad5df89572]: Commencement: Sch. 2 Pt. II para. 3 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
 [^f00036]: Footnote: [S.S.I. 2003/531](https://www.legislation.gov.uk/ssi/2003/531).
 
-[^key-dfa6305e6f5475d0ed7bcc7d8ddb6385]: Commencement: Sch. 2 Pt. II para. 4 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-dfa6305e6f5475d0ed7bcc7d8ddb6385]: Commencement: Sch. 2 Pt. II para. 4 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
 [^f00037]: Footnote: S.I. [1998/2746](https://www.legislation.gov.uk/uksi/1998/2746), amended by [S.S.I. 2000/323](https://www.legislation.gov.uk/ssi/2000/323)
 
-[^key-e67cbee79f03afa57bd1d54a2be38c87]: Commencement: Sch. 2 Pt. II para. 5 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-e67cbee79f03afa57bd1d54a2be38c87]: Commencement: Sch. 2 Pt. II para. 5 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
 [^f00038]: Footnote: [1993 c. 11](https://www.legislation.gov.uk/ukpga/1993/11).
 
-[^key-3901b7ebd1c52f308b982232a9beb7a6]: Commencement: Sch. 2 Pt. II para. 6 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-3901b7ebd1c52f308b982232a9beb7a6]: Commencement: Sch. 2 Pt. II para. 6 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
 [^f00039]: Footnote: [1946 c. 73](https://www.legislation.gov.uk/ukpga/1946/73).
 
-[^key-29455d7e3d7988cba83b2197c0ac933f]: Commencement: Sch. 2 Pt. II para. 7 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-29455d7e3d7988cba83b2197c0ac933f]: Commencement: Sch. 2 Pt. II para. 7 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
 [^f00040]: Footnote: [S.S.I. 2003/51](https://www.legislation.gov.uk/ssi/2003/51)
 
-[^key-c6a06752680b546e50b629375cf26822]: Commencement: Sch. 2 Pt. II para. 8 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-c6a06752680b546e50b629375cf26822]: Commencement: Sch. 2 Pt. II para. 8 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
 [^f00041]: Footnote: [1985 c. 48](https://www.legislation.gov.uk/ukpga/1985/48).
 
 [^f00042]: Footnote: S.I. [1986/1510](https://www.legislation.gov.uk/uksi/1986/1510), amended by S.I. [1990/2487](https://www.legislation.gov.uk/uksi/1990/2487), [1994/3142](https://www.legislation.gov.uk/uksi/1994/3142) and [1997/188](https://www.legislation.gov.uk/uksi/1997/188).
 
-[^key-be97729a3d53c5e190d34b819f007eb6]: Commencement: Sch. 2 Pt. II para. 9 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-be97729a3d53c5e190d34b819f007eb6]: Commencement: Sch. 2 Pt. II para. 9 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
 [^f00043]: Footnote: S.I. [1995/887](https://www.legislation.gov.uk/uksi/1995/887), amended by S.I. [1996/1940](https://www.legislation.gov.uk/uksi/1996/1940), [1997/7](https://www.legislation.gov.uk/uksi/1997/7) and [2499](https://www.legislation.gov.uk/uksi/1997/2499), [1998/2760](https://www.legislation.gov.uk/uksi/1998/2760), [1999/1228](https://www.legislation.gov.uk/uksi/1999/1228), [S.S.I. 2001/161](https://www.legislation.gov.uk/ssi/2001/161), [202](https://www.legislation.gov.uk/ssi/2001/202) and [454](https://www.legislation.gov.uk/ssi/2001/454) and [2002/279](https://www.legislation.gov.uk/ssi/2002/279)
 
-[^key-3b00f776ebca71c97569abd57b891688]: Commencement: Sch. 2 para. 10 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-3b00f776ebca71c97569abd57b891688]: Commencement: Sch. 2 para. 10 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
 [^f00044]: Footnote: [1979 c. 46](https://www.legislation.gov.uk/ukpga/1979/46).
 
-[^key-daa06abfb8de281924bd70502559c095]: Commencement: Sch. 2 para. 11 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-daa06abfb8de281924bd70502559c095]: Commencement: Sch. 2 para. 11 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
 [^f00045]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 
-[^key-982f174940b13cb3d5e54fd6b79d8cfe]: Commencement: Sch. 2 para. 12 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-982f174940b13cb3d5e54fd6b79d8cfe]: Commencement: Sch. 2 para. 12 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
 [^f00046]: Footnote: S.I. [1994/2716](https://www.legislation.gov.uk/uksi/1994/2716), amended by S.I. [1997/3055](https://www.legislation.gov.uk/uksi/1997/3055) and [S.S.I. 2000/323](https://www.legislation.gov.uk/ssi/2000/323).
 
-[^key-ba4d603f986f542acb55d77a856d88dc]: Commencement: Sch. 2 para. 13 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-ba4d603f986f542acb55d77a856d88dc]: Commencement: Sch. 2 para. 13 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
 [^f00047]: Footnote: S.I. [1996/1507](https://www.legislation.gov.uk/uksi/1996/1507).
 
-[^key-16900632289370ebf25cc383b1ca8753]: Commencement: Sch. 2 para. 14 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-16900632289370ebf25cc383b1ca8753]: Commencement: Sch. 2 para. 14 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
 [^f00048]: Footnote: [1967 c. 10](https://www.legislation.gov.uk/ukpga/1967/10).
 
-[^key-aa03ec4f6569b1cb539fd80974dc0c1d]: Commencement: Sch. 2 para. 15 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-aa03ec4f6569b1cb539fd80974dc0c1d]: Commencement: Sch. 2 para. 15 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
 [^f00049]: Footnote: [S.S.I. 2000/442](https://www.legislation.gov.uk/ssi/2000/442) amended by [S.S.I. 2002/334](https://www.legislation.gov.uk/ssi/2002/334) and [2003/488](https://www.legislation.gov.uk/ssi/2003/488).
 
-[^key-23150d6bbd88efde03b475520b97184f]: Commencement: Sch. 2 Pt. III para. 1 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-23150d6bbd88efde03b475520b97184f]: Commencement: Sch. 2 Pt. III para. 1 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
-[^key-11961b055b69885f49245bc95eb3e908]: Commencement: Sch. 2 Pt. III para. 2 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-11961b055b69885f49245bc95eb3e908]: Commencement: Sch. 2 Pt. III para. 2 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
-[^key-2d0047eae9f87374c1f1cb515c6c22cc]: Commencement: Sch. 2 Pt. III para. 3 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-2d0047eae9f87374c1f1cb515c6c22cc]: Commencement: Sch. 2 Pt. III para. 3 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
 [^f00050]: Footnote: [1959 c. 54](https://www.legislation.gov.uk/ukpga/1959/54).
 
-[^key-cfa71f905952a5ec239cce6e3ccf0b67]: Commencement: Sch. 2 Pt. III para. 4 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-cfa71f905952a5ec239cce6e3ccf0b67]: Commencement: Sch. 2 Pt. III para. 4 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
-[^key-5eebe2cc16901a7c6636ec27b6df1bc6]: Commencement: Sch. 2 Pt. III para. 5 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-5eebe2cc16901a7c6636ec27b6df1bc6]: Commencement: Sch. 2 Pt. III para. 5 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
-[^key-9970d5a6792b4179c308ef445c7120db]: Commencement: Sch. 2 Pt. III para. 6 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-9970d5a6792b4179c308ef445c7120db]: Commencement: Sch. 2 Pt. III para. 6 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
-[^key-0b57edf93ee3c4da96054706bd895cde]: Commencement: Sch. 3 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
+[^c-0b57edf93ee3c4da96054706bd895cde]: Commencement: Sch. 3 in force at 15.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/225/regulation/1/1)
 
 [^f00051]: Footnote: [S.S.I. 2004/70](https://www.legislation.gov.uk/ssi/2004/70), amended by [S.S.I. 2004/128](https://www.legislation.gov.uk/ssi/2004/128) and [2005/64](https://www.legislation.gov.uk/ssi/2005/64).
 

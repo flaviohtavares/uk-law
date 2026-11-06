@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Streamlining process of making sanctions regulations[^key-e89c4b4bfa8179c13d46848cdad5a501]
+## 57. Streamlining process of making sanctions regulations[^c-e89c4b4bfa8179c13d46848cdad5a501]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e89c4b4bfa8179c13d46848cdad5a501]: Commencement: S. 57 in force at Royal Assent, see [s. 69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
+[^c-e89c4b4bfa8179c13d46848cdad5a501]: Commencement: S. 57 in force at Royal Assent, see [s. 69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)

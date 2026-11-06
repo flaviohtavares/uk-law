@@ -26,7 +26,7 @@ Regulations C7(6), C8(1) and (2), C11 (1) and (7), E26 (3), E27 (1) and (2) and 
 
 ### Part I — Contributions: Men and Unmarried Women
 
-**1.**[^key-5eb90e24923a0e367473656d28f07640] (1) In this Part—
+**1.**[^c-5eb90e24923a0e367473656d28f07640] (1) In this Part—
 
 - “the Fund” means the Teachers' Family Benefits Fund established by regulation 15 of the 1967 Regulations and continued by regulation 15 of the 1972 Family Benefits Rules;
 - “member” means a man who—
@@ -105,9 +105,9 @@ TABLE 1
 
 (7) References in this Part to “Method I”, “Method II” and “Method III” are references to the Methods so designated in the 1967 Regulations and the 1972 Family Benefits Rules.
 
-**2.**[^key-b632b783722015fb06ba9b435afb0ca7] Paragraphs 3 and 4 have effect subject to paragraph 5.
+**2.**[^c-b632b783722015fb06ba9b435afb0ca7] Paragraphs 3 and 4 have effect subject to paragraph 5.
 
-**3.**[^key-471604dd3407d05912386c0044d40750] (1) Subject to sub-paragraph (3), a member who elected to pay additional contributions by Method I or Method II may elect to pay family benefit contributions in respect of all or part of a period not exceeding in length the difference between his credited service and the total of the additional period and his normal service.
+**3.**[^c-471604dd3407d05912386c0044d40750] (1) Subject to sub-paragraph (3), a member who elected to pay additional contributions by Method I or Method II may elect to pay family benefit contributions in respect of all or part of a period not exceeding in length the difference between his credited service and the total of the additional period and his normal service.
 
 (2) Subject to sub-paragraph (3), a member who elected to pay additional contributions by Method III may by an election under this paragraph—
 
@@ -127,9 +127,9 @@ where—
 
 (4) A member may elect to pay family benefit contributions in respect of all or part of any period in respect of which he could have elected, but did not elect, to pay additional contributions.
 
-**4.**[^key-09b1ec6cfa478d65150031147ddf17e6] A non-member or an unmarried woman may elect to pay family benefit contributions in respect of the whole or a part of any reckonable service attributable to a period that ended before 1st April 1972.
+**4.**[^c-09b1ec6cfa478d65150031147ddf17e6] A non-member or an unmarried woman may elect to pay family benefit contributions in respect of the whole or a part of any reckonable service attributable to a period that ended before 1st April 1972.
 
-**5.**[^key-efdf7675e2da24b35dd1e3d52352b892] (1) A man who has become entitled to payment of retirement benefits may not make an election under paragraph 3 or 4.
+**5.**[^c-efdf7675e2da24b35dd1e3d52352b892] (1) A man who has become entitled to payment of retirement benefits may not make an election under paragraph 3 or 4.
 
 (2) An election under paragraph 3 or 4 shall—
 
@@ -157,7 +157,7 @@ an election under paragraph 3 or 4 may only be made within 6 months after return
 
 (5) A woman may only make an election under paragraph 4 within 6 months after nominating a beneficiary under regulation E23.
 
-**6.**[^key-6c5cd90d5b4b31dfd27f648e7732c47b] (1) Where a person has made an election under paragraph 3(2) or (4) or paragraph 4 the period during which, subject to paragraph 14(7) to (10), the family benefit contributions are to be paid (“the payment period”) shall be ascertained from, or where the period in respect of which the election was made is not an exact number of years, by extrapolation from, Table 2.
+**6.**[^c-6c5cd90d5b4b31dfd27f648e7732c47b] (1) Where a person has made an election under paragraph 3(2) or (4) or paragraph 4 the period during which, subject to paragraph 14(7) to (10), the family benefit contributions are to be paid (“the payment period”) shall be ascertained from, or where the period in respect of which the election was made is not an exact number of years, by extrapolation from, Table 2.
 
 TABLE 2
 
@@ -177,7 +177,7 @@ TABLE 2
 
 (2) Where a man has made an election under paragraph 3(1) the payment period is, subject to paragraph 14(7) to (10), five-sixths of the period ascertained in accordance with sub-paragraph (1).
 
-**7.**[^key-ca67d539d86dba86f6b1ad208d8490f1] (1) This paragraph applies where a member who elected to pay additional contributions by Method III has not revoked that election, and he—
+**7.**[^c-ca67d539d86dba86f6b1ad208d8490f1] (1) This paragraph applies where a member who elected to pay additional contributions by Method III has not revoked that election, and he—
 
 - (a) dies in pensionable employment leaving a widow or having nominated a beneficiary under regulation E23; or
 - (b) becomes qualified for retirement benefits while married or after nominating a beneficiary.
@@ -225,7 +225,7 @@ where—
 - G is any period or periods for which he has elected to pay family benefit contributions under paragraph 3; and
 - H is any additional period in respect of which he elected to pay contributions by Method I or II, less his credited service in respect of deemed additional service attributable to contributions so paid, and less any period for which he has elected under paragraph 3(1) to pay family benefit contributions.
 
-**8.**[^key-883603ee098e39aed6b05735c000df02] (1) Subject to sub-paragraphs (2) and (3), a member or non-member who—
+**8.**[^c-883603ee098e39aed6b05735c000df02] (1) Subject to sub-paragraphs (2) and (3), a member or non-member who—
 
 - (a) is not in pensionable employment and has become entitled to payment of retirement benefits; and
 - (b) would otherwise have been able to make an election under paragraph 3 or 4,
@@ -260,7 +260,7 @@ TABLE 4
 | 43-47 | 3.05 |
 | 48 and over | 3.10 |
 
-**9.**[^key-28a32d93e0305f185bb69f4dd115e82a] (1) This paragraph applies where—
+**9.**[^c-28a32d93e0305f185bb69f4dd115e82a] (1) This paragraph applies where—
 
 - (a) a member or non-member dies before becoming entitled to payment of retirement benefits; and
 - (b) he has not made an election under paragraph 3 or 4, but could still have done so if he had not died; and
@@ -282,7 +282,7 @@ TABLE 4
 
 ### Part II — Contributions: Married Women
 
-**10.**[^key-c215558548c6d5b26592ea8b1191090a] (1) Subject to sub-paragraph (3) and paragraph 11, a woman in relation to whom the election conditions specified in sub-paragraph (4) are satisfied may elect to pay family benefit contributions in respect of the whole or a part of any reckonable service attributable to a period—
+**10.**[^c-c215558548c6d5b26592ea8b1191090a] (1) Subject to sub-paragraph (3) and paragraph 11, a woman in relation to whom the election conditions specified in sub-paragraph (4) are satisfied may elect to pay family benefit contributions in respect of the whole or a part of any reckonable service attributable to a period—
 
 - (a) that ended before 1st April 1972; or
 - (b) for which contributions have been paid under regulation C3, C5, C6, or C7
@@ -301,7 +301,7 @@ or attributable to the receipt before 6th April 1988 of a transfer value.
 - (a) is in pensionable employment; or
 - (b) ceased after 5th April 1988 and before 1st September 1989 to be in such employment and immediately became entitled to payment of retirement benefits.
 
-**11.**[^key-a314f6791148daa4b1b6c992972f33d7] (1) An election under paragraph 10(1) or (2)—
+**11.**[^c-a314f6791148daa4b1b6c992972f33d7] (1) An election under paragraph 10(1) or (2)—
 
 - (a) shall be made by written notice given to the Department within the period specified in sub-paragraphs (3) to (5);
 - (b) shall specify the period in respect of which it is made;
@@ -327,7 +327,7 @@ or attributable to the receipt before 6th April 1988 of a transfer value.
 - (a) the payment period would be less than one year; or
 - (b) the woman is not in pensionable employment.
 
-**12.**[^key-6dec82a480a189f613e65d62ad71144b] (1) Subject to sub-paragraph (2), where payment is to be made by Method A the payment period shall be ascertained from, or where the period in respect of which the election was made is not an exact number of years, by extrapolation from, Table 5.
+**12.**[^c-6dec82a480a189f613e65d62ad71144b] (1) Subject to sub-paragraph (2), where payment is to be made by Method A the payment period shall be ascertained from, or where the period in respect of which the election was made is not an exact number of years, by extrapolation from, Table 5.
 
 TABLE 5
 
@@ -363,7 +363,7 @@ of the appropriate amount, and pro rata for any period of less than a year.
 - (a) where the woman was in pensionable employment when the election took effect, the annual rate of her contributable salary at that time; and
 - (b) in any other case, her average salary.
 
-**13.**[^key-1930997c0863ce4fb4c258c2bdf7fe3f] (1) The widower of a woman who—
+**13.**[^c-1930997c0863ce4fb4c258c2bdf7fe3f] (1) The widower of a woman who—
 
 - (a) died during the period beginning with and including 6th April 1988 and ending with 31st August 1989 without having made an election under paragraph 10; and
 - (b) either was in pensionable employment when she died or had ceased during that period to be in such employment,
@@ -398,7 +398,7 @@ may make a corresponding election under this paragraph if the conditions in sub-
 
 ### Part III — Contributions: Common Provisions
 
-**14.**[^key-2ca90cc178af65dd297ab083ea08d4f5] (1) This paragraph applies where—
+**14.**[^c-2ca90cc178af65dd297ab083ea08d4f5] (1) This paragraph applies where—
 
 - (a) an election is made under paragraph 3 or 4; or
 - (b) an election is made under paragraph 10 to pay family benefit contributions by Method A.
@@ -437,7 +437,7 @@ where—
 - (b) continue to be payable while the person is in pensionable employment or paying additional contributions under regulation C6 or C7; and
 - (c) cease to be payable if he dies or becomes entitled to retirement benefits before the end of the payment period.
 
-**15.**[^key-31941df26c6e2263eca8fcd7d98fc222] (1) The paragraph—
+**15.**[^c-31941df26c6e2263eca8fcd7d98fc222] (1) The paragraph—
 
 - (a) applies where family benefit contributions to which paragraph 14 applies cease to be payable before the end of the payment period; and
 - (b) has effect subject to paragraph 16.
@@ -499,7 +499,7 @@ where—
   - E is the period during which contributions were paid; and
   - F is the payment period.
 
-**16.**[^key-afd95cbb4c2b82724667ba3c6eb7ff43] Where—
+**16.**[^c-afd95cbb4c2b82724667ba3c6eb7ff43] Where—
 
 - (a) a deduction has fallen to be made under paragraph 15(2) or (3) or an election has been made under paragraph 15(4); and
 - (b) there is then a retrospective increase in the person’s contributable salary; and
@@ -509,34 +509,34 @@ the person, or as the case may be his widow or widower or a beneficiary nominate
 
 ## Annotations
 
-[^key-5eb90e24923a0e367473656d28f07640]: Commencement: Sch. 6 para. 1 in operation at 2.11.1998, see reg. A1
+[^c-5eb90e24923a0e367473656d28f07640]: Commencement: Sch. 6 para. 1 in operation at 2.11.1998, see reg. A1
 
-[^key-b632b783722015fb06ba9b435afb0ca7]: Commencement: Sch. 6 para. 2 in operation at 2.11.1998, see reg. A1
+[^c-b632b783722015fb06ba9b435afb0ca7]: Commencement: Sch. 6 para. 2 in operation at 2.11.1998, see reg. A1
 
-[^key-471604dd3407d05912386c0044d40750]: Commencement: Sch. 6 para. 3 in operation at 2.11.1998, see reg. A1
+[^c-471604dd3407d05912386c0044d40750]: Commencement: Sch. 6 para. 3 in operation at 2.11.1998, see reg. A1
 
-[^key-09b1ec6cfa478d65150031147ddf17e6]: Commencement: Sch. 6 para. 4 in operation at 2.11.1998, see reg. A1
+[^c-09b1ec6cfa478d65150031147ddf17e6]: Commencement: Sch. 6 para. 4 in operation at 2.11.1998, see reg. A1
 
-[^key-efdf7675e2da24b35dd1e3d52352b892]: Commencement: Sch. 6 para. 5 in operation at 2.11.1998, see reg. A1
+[^c-efdf7675e2da24b35dd1e3d52352b892]: Commencement: Sch. 6 para. 5 in operation at 2.11.1998, see reg. A1
 
-[^key-6c5cd90d5b4b31dfd27f648e7732c47b]: Commencement: Sch. 6 para. 6 in operation at 2.11.1998, see reg. A1
+[^c-6c5cd90d5b4b31dfd27f648e7732c47b]: Commencement: Sch. 6 para. 6 in operation at 2.11.1998, see reg. A1
 
-[^key-ca67d539d86dba86f6b1ad208d8490f1]: Commencement: Sch. 6 para. 7 in operation at 2.11.1998, see reg. A1
+[^c-ca67d539d86dba86f6b1ad208d8490f1]: Commencement: Sch. 6 para. 7 in operation at 2.11.1998, see reg. A1
 
-[^key-883603ee098e39aed6b05735c000df02]: Commencement: Sch. 6 para. 8 in operation at 2.11.1998, see reg. A1
+[^c-883603ee098e39aed6b05735c000df02]: Commencement: Sch. 6 para. 8 in operation at 2.11.1998, see reg. A1
 
-[^key-28a32d93e0305f185bb69f4dd115e82a]: Commencement: Sch. 6 para. 9 in operation at 2.11.1998, see reg. A1
+[^c-28a32d93e0305f185bb69f4dd115e82a]: Commencement: Sch. 6 para. 9 in operation at 2.11.1998, see reg. A1
 
-[^key-c215558548c6d5b26592ea8b1191090a]: Commencement: Sch. 6 para. 10 in operation at 2.11.1998, see reg. A1
+[^c-c215558548c6d5b26592ea8b1191090a]: Commencement: Sch. 6 para. 10 in operation at 2.11.1998, see reg. A1
 
-[^key-a314f6791148daa4b1b6c992972f33d7]: Commencement: Sch. 6 para. 11 in operation at 2.11.1998, see reg. A1
+[^c-a314f6791148daa4b1b6c992972f33d7]: Commencement: Sch. 6 para. 11 in operation at 2.11.1998, see reg. A1
 
-[^key-6dec82a480a189f613e65d62ad71144b]: Commencement: Sch. 6 para. 12 in operation at 2.11.1998, see reg. A1
+[^c-6dec82a480a189f613e65d62ad71144b]: Commencement: Sch. 6 para. 12 in operation at 2.11.1998, see reg. A1
 
-[^key-1930997c0863ce4fb4c258c2bdf7fe3f]: Commencement: Sch. 6 para. 13 in operation at 2.11.1998, see reg. A1
+[^c-1930997c0863ce4fb4c258c2bdf7fe3f]: Commencement: Sch. 6 para. 13 in operation at 2.11.1998, see reg. A1
 
-[^key-2ca90cc178af65dd297ab083ea08d4f5]: Commencement: Sch. 6 para. 14 in operation at 2.11.1998, see reg. A1
+[^c-2ca90cc178af65dd297ab083ea08d4f5]: Commencement: Sch. 6 para. 14 in operation at 2.11.1998, see reg. A1
 
-[^key-31941df26c6e2263eca8fcd7d98fc222]: Commencement: Sch. 6 para. 15 in operation at 2.11.1998, see reg. A1
+[^c-31941df26c6e2263eca8fcd7d98fc222]: Commencement: Sch. 6 para. 15 in operation at 2.11.1998, see reg. A1
 
-[^key-afd95cbb4c2b82724667ba3c6eb7ff43]: Commencement: Sch. 6 para. 16 in operation at 2.11.1998, see reg. A1
+[^c-afd95cbb4c2b82724667ba3c6eb7ff43]: Commencement: Sch. 6 para. 16 in operation at 2.11.1998, see reg. A1

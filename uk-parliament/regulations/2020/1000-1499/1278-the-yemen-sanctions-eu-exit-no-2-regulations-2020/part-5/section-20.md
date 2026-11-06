@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Export of military goods[^key-76baf8732d5a457e8adedb97954dcdca][^key-8c83b9d17c322cc640452be99f1f036a]
+## 20. Export of military goods[^c-76baf8732d5a457e8adedb97954dcdca][^c-8c83b9d17c322cc640452be99f1f036a]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-76baf8732d5a457e8adedb97954dcdca]: Commencement: Reg. 20 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
+[^c-76baf8732d5a457e8adedb97954dcdca]: Commencement: Reg. 20 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
 
-[^key-8c83b9d17c322cc640452be99f1f036a]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2020/1278/regulation/20) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
+[^c-8c83b9d17c322cc640452be99f1f036a]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2020/1278/regulation/20) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2B. Functions of local authorities and Secretary of State as to improvement of public health[^key-acc5b725e5f21cacd010430ba68b7631]
+## 2B. Functions of local authorities and Secretary of State as to improvement of public health[^c-acc5b725e5f21cacd010430ba68b7631]
 
 *Extent: E+W*
 
-(1)[^key-f67d530120d37dd57e434a1f502160ef][^key-58e05ead0159a5c36aa863e0ec4161a7] Each local authority must take such steps as it considers appropriate for improving the health of the people in its area.
+(1)[^c-f67d530120d37dd57e434a1f502160ef][^c-58e05ead0159a5c36aa863e0ec4161a7] Each local authority must take such steps as it considers appropriate for improving the health of the people in its area.
 
 (2) The Secretary of State may take such steps as the Secretary of State considers appropriate for improving the health of the people of England.
 
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-acc5b725e5f21cacd010430ba68b7631]: Textual amendment: S. 2B inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 12](https://www.legislation.gov.uk/ukpga/2012/7/section/12), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-acc5b725e5f21cacd010430ba68b7631]: Textual amendment: S. 2B inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 12](https://www.legislation.gov.uk/ukpga/2012/7/section/12), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-f67d530120d37dd57e434a1f502160ef]: Modification: [S. 2B(1)](https://www.legislation.gov.uk/ukpga/2006/41/section/2B/1) functions made exercisable concurrently (30.11.2017) by [The Greater Manchester Combined Authority (Public Health Functions) Order 2017 (S.I. 2017/1180)](https://www.legislation.gov.uk/uksi/2017/1180), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1180/article/1), [3](https://www.legislation.gov.uk/uksi/2017/1180/article/3)
+[^c-f67d530120d37dd57e434a1f502160ef]: Modification: [S. 2B(1)](https://www.legislation.gov.uk/ukpga/2006/41/section/2B/1) functions made exercisable concurrently (30.11.2017) by [The Greater Manchester Combined Authority (Public Health Functions) Order 2017 (S.I. 2017/1180)](https://www.legislation.gov.uk/uksi/2017/1180), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1180/article/1), [3](https://www.legislation.gov.uk/uksi/2017/1180/article/3)
 
-[^key-58e05ead0159a5c36aa863e0ec4161a7]: Modification: [S. 2B(1)](https://www.legislation.gov.uk/ukpga/2006/41/section/2B/1): functions made exercisable concurrently (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2024/232/regulation/22)
+[^c-58e05ead0159a5c36aa863e0ec4161a7]: Modification: [S. 2B(1)](https://www.legislation.gov.uk/ukpga/2006/41/section/2B/1): functions made exercisable concurrently (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2024/232/regulation/22)

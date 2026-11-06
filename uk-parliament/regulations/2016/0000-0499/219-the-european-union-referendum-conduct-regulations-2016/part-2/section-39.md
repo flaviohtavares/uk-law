@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Tendered postal ballot papers: anonymous entries in Northern Ireland[^key-c7bee94d7546b83cdb76376fd09c589d]
+## 39. Tendered postal ballot papers: anonymous entries in Northern Ireland[^c-c7bee94d7546b83cdb76376fd09c589d]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ the counting officer must issue a tendered postal ballot paper to P in accordanc
 
 ## Annotations
 
-[^key-c7bee94d7546b83cdb76376fd09c589d]: Commencement: Reg. 39 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-c7bee94d7546b83cdb76376fd09c589d]: Commencement: Reg. 39 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Prohibitions within the tunnel area[^key-e2aa53f87f649f3d686a117469a0e7e8]
+## 18. Prohibitions within the tunnel area[^c-e2aa53f87f649f3d686a117469a0e7e8]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ unless he does so in compliance with any direction which the Port Authority has 
 
 ## Annotations
 
-[^key-e2aa53f87f649f3d686a117469a0e7e8]: Commencement: Art. 18 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-e2aa53f87f649f3d686a117469a0e7e8]: Commencement: Art. 18 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)

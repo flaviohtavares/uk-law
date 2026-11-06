@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Application for a licence[^key-2e752eb7dd553a447b32483b67da3e7f]
+## 4. Application for a licence[^c-2e752eb7dd553a447b32483b67da3e7f]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e752eb7dd553a447b32483b67da3e7f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2021/84/regulation/4) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-2e752eb7dd553a447b32483b67da3e7f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2021/84/regulation/4) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)

@@ -33,7 +33,7 @@ Industrial Training Act 1982
 
 An Act to consolidate the law relating to industrial training boards.
 
-\[29th March 1982\] [^c742762][^key-62b3fc93e1d10f7e5c7a7a422e2bdbe4]
+\[29th March 1982\] [^c742762][^c-62b3fc93e1d10f7e5c7a7a422e2bdbe4]
 
 ## Establishment and winding up of industrial training boards
 
@@ -46,15 +46,15 @@ An Act to consolidate the law relating to industrial training boards.
 (2) In this Act—
 
 - . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c742763]
-- “[^key-813350a74fb6b3b2a5a1c7a553a9822c] **base period** ” has the meaning assigned to it by section 11(2E) below;
+- “[^c-813350a74fb6b3b2a5a1c7a553a9822c] **base period** ” has the meaning assigned to it by section 11(2E) below;
 - “ **employee** ” includes a person engaged under a contract for services, and “ **employer** ” shall be construed accordingly;
 - “ **employment** ” means employment under a contract of service or apprenticeship or a contract for services or otherwise than under a contract, and “ **employed** ” shall be construed accordingly;
 - “ **exemption certificate** ” has the meaning assigned to it by section 13(1) below;
 - “ **industrial training board** ” means (subject to section 20(2) below) a board established under this section or section 1 of the [^c742764] Industrial Training Act 1964;
 - “ **industrial training order** ” means an order under this section;
 - “ **the industry** ”, in relation to an industrial training board, means the activities in relation to which it exercises functions;
-- “ **levy order** ” has the meaning assigned to it by section 11(2) below; [^key-5ae3dd8b499dfe418251e5dc8defb260] ...
-- “[^key-0ae93bb905330ca77da191c67aa7bcaf] **levy period** ” has the meaning assigned to it by section 11(2A) below; and
+- “ **levy order** ” has the meaning assigned to it by section 11(2) below; [^c-5ae3dd8b499dfe418251e5dc8defb260] ...
+- “[^c-0ae93bb905330ca77da191c67aa7bcaf] **levy period** ” has the meaning assigned to it by section 11(2A) below; and
 - “ **levy proposals** ” has the meaning assigned to it by section 11(1) below.
 
 (3) The provisions of Schedule 1 to this Act shall have effect with respect to industrial training boards.
@@ -134,11 +134,11 @@ transfer all or any of its assets to any person on trust to be used for charitab
 
 (1) If arrangements are made (whether in connection with a transfer of assets under section 3A(1) above or otherwise) for any activities of an industrial training board to be carried on by some other person (“**the transferee**”) as from a particular date, this section shall have effect in relation to any employee of the board who, immediately before that date, was employed wholly or mainly in connection with those activities.
 
-(2) Transfer of Undertakings (Protection of Employment) Regulations 2006[^key-2f8184d6f4ce2655f092a9ee5d6ea1ed] shall apply in relation to any such employee of the board in accordance with subsection (3) below.
+(2) Transfer of Undertakings (Protection of Employment) Regulations 2006[^c-2f8184d6f4ce2655f092a9ee5d6ea1ed] shall apply in relation to any such employee of the board in accordance with subsection (3) below.
 
 (3) For the purposes of the application of those Regulations in relation to any such employee, the activities referred to in subsection (1) above shall (whether or not they would otherwise be so regarded) be regarded—
 
-- (a) as constituting an undertaking to which those Regulations apply[^key-15d04ee052cd164485d354e993677ca6] which is transferred from the board to the transferee on the date referred to in that subsection, and
+- (a) as constituting an undertaking to which those Regulations apply[^c-15d04ee052cd164485d354e993677ca6] which is transferred from the board to the transferee on the date referred to in that subsection, and
 - (b) as being so transferred by a transfer to which those Regulations apply and which is completed on that date.
 
 (4) A certificate issued by an industrial training board, in connection with any such arrangements as are referred to in subsection (1) above, to the effect that a person was, immediately before the date referred to in that subsection, employed by the board wholly or mainly in connection with the activities to which the arrangements relate shall be conclusive evidence of the facts stated in the certificate.
@@ -273,9 +273,9 @@ and any application by a board for approval in pursuance of paragraph (b) above 
 
 (1) An industrial training board shall keep proper accounts and other records in relation to the accounts and prepare in respect of each of its financial years a statement of account in such form as the Secretary of State may, with the approval of[^c742866] the Treasury, determine.
 
-(2) The accounts of an industrial training board shall be audited by auditors appointed by the board and no person shall be so appointed unless he is eligible for appointment as a[^c742867] statutory auditor under Part 42 of the Companies Act 2006[^key-d4340eea10afcdc5a3e4420ba7c0ac59].
+(2) The accounts of an industrial training board shall be audited by auditors appointed by the board and no person shall be so appointed unless he is eligible for appointment as a[^c742867] statutory auditor under Part 42 of the Companies Act 2006[^c-d4340eea10afcdc5a3e4420ba7c0ac59].
 
-(2A)[^key-5bc0bc4c96102ff061147e3322b3b6a1] Subsection (2) shall not apply to the accounts of—
+(2A)[^c-5bc0bc4c96102ff061147e3322b3b6a1] Subsection (2) shall not apply to the accounts of—
 
 - (a) the Construction Industry Training Board, or
 - (b) the Engineering Construction Industry Training Board,
@@ -286,7 +286,7 @@ in respect of financial years ending on or after 31st December 2003.
 
 (2C) The Comptroller and Auditor General shall examine, certify and report on each statement of account sent to him under subsection (2B).
 
-(3) An industrial training board shall for each of its financial years make a report of its activities to the Secretary of State[^c742868] and that report shall include a statement of the accounts of the board for that year together with a copy of any report made by the auditors on the accounts or, as the case may be, by the Comptroller and Auditor General on the statement[^key-80a59089d981ed5191f09789057ac01b].
+(3) An industrial training board shall for each of its financial years make a report of its activities to the Secretary of State[^c742868] and that report shall include a statement of the accounts of the board for that year together with a copy of any report made by the auditors on the accounts or, as the case may be, by the Comptroller and Auditor General on the statement[^c-80a59089d981ed5191f09789057ac01b].
 
 (4) The Secretary of State[^c742869] shall lay a copy of every such report before Parliament.
 
@@ -324,7 +324,7 @@ and no money raised by a levy imposed under this Act shall be carried to an acco
 
 (2)[^c742886] The levy shall be imposed in accordance with an order made by the Secretary of State (in this Act referred to as “**a levy order**”) which shall give effect to levy proposals submitted to him[^c742887] under subsection (1) above and shall provide for the levy to be imposed on employers in the industry, except in so far as they are exempted from it by the industrial training order, the levy order or an exemption certificate; but nothing in this Act shall be construed as requiring the Secretary of State to make a levy order in a case in which he considers it inexpedient to make one.
 
-(2A)[^key-98d1645a0b9a4539e1bdbba39cf152f2] Levy proposals must provide for one or more periods (in this Act referred to as “ **levy periods** ”) by reference to which a person's liability to levy is to be established and the levy period or periods must fall within the period of three years beginning with the day on which the levy order giving effect to the proposals is made.
+(2A)[^c-98d1645a0b9a4539e1bdbba39cf152f2] Levy proposals must provide for one or more periods (in this Act referred to as “ **levy periods** ”) by reference to which a person's liability to levy is to be established and the levy period or periods must fall within the period of three years beginning with the day on which the levy order giving effect to the proposals is made.
 
 Levy proposals may not provide for more than three levy periods.
 
@@ -336,40 +336,40 @@ Levy proposals may not provide for more than three levy periods.
 
 (2E) Levy proposals must specify, for each levy period, a period (in this Act referred to as a “ **base period** ”) by reference to which the relevant emoluments are to be calculated.
 
-(3) Levy proposals must include , in relation to each levy period,[^key-0a1e940b623ac2d094794542c0999869]proposals for exempting from the levy payable in respect of that levy period[^key-933c3411897eb13109b18a595460085c] any employer who, in view of the small number of his employees, ought in the opinion of the board to be exempted and the Secretary of State shall not make a levy order in pursuance of levy proposals unless they provide, in relation to each levy period,[^key-5ba82d6d32669e2a54186a2b8ae0ab4f] for the exemption of employers who, in view of the small number of their employees, ought in his opinion to be exempted.
+(3) Levy proposals must include , in relation to each levy period,[^c-0a1e940b623ac2d094794542c0999869]proposals for exempting from the levy payable in respect of that levy period[^c-933c3411897eb13109b18a595460085c] any employer who, in view of the small number of his employees, ought in the opinion of the board to be exempted and the Secretary of State shall not make a levy order in pursuance of levy proposals unless they provide, in relation to each levy period,[^c-5ba82d6d32669e2a54186a2b8ae0ab4f] for the exemption of employers who, in view of the small number of their employees, ought in his opinion to be exempted.
 
-(4) Subject to subsection (5) below, levy proposals may include, in relation to any levy period,[^key-d0eecd4cb5c8e009e82e7ce915425ad9] proposals for securing—
+(4) Subject to subsection (5) below, levy proposals may include, in relation to any levy period,[^c-d0eecd4cb5c8e009e82e7ce915425ad9] proposals for securing—
 
-- (a) that any exemption certificates issued by the board shall not exempt from the whole or a portion of the levy payable in respect of that levy period[^key-07f0e85a5f76bff7fed723b8a5a07a90] the employers or some of the employers in the industry, or
+- (a) that any exemption certificates issued by the board shall not exempt from the whole or a portion of the levy payable in respect of that levy period[^c-07f0e85a5f76bff7fed723b8a5a07a90] the employers or some of the employers in the industry, or
 - (b) that no exemption certificates shall be issued by the board;
 
-and the Secretary of State shall not make a levy order in pursuance of any levy proposals unless he is satisfied that proposals published by the board[^key-d1f61cea4c4b03f2d543c47ad10f20c8] under section 13(5) below provide for exemption certificates relating to levy (other than that payable by virtue of this subsection) in such cases as he considers appropriate.
+and the Secretary of State shall not make a levy order in pursuance of any levy proposals unless he is satisfied that proposals published by the board[^c-d1f61cea4c4b03f2d543c47ad10f20c8] under section 13(5) below provide for exemption certificates relating to levy (other than that payable by virtue of this subsection) in such cases as he considers appropriate.
 
 (5) If, as a result of such levy proposals as are mentioned in subsection (4) above—
 
-- (a) in a case within paragraph (a) of that subsection, the amount of the levy payable in respect of a levy period[^key-607191a82795642bd57f28979fe61b43] from which an exemption certificate will not exempt any person will exceed 0·2 per cent. of the relevant emoluments in respect of the base period for that levy period[^key-c5c7e14843cdb0e4c45d9c6e73c6d5fb] ; or
-- (b) in a case within paragraph (b) of that subsection, the amount of the levy payable by any person in respect of a levy period[^key-4f4f003ea0b4cbb114467117ce048f57] will exceed that percentage of the relevant emoluments,in respect of the base period for that levy period[^key-d16cd61cf4a181074072b02c6af96403]
+- (a) in a case within paragraph (a) of that subsection, the amount of the levy payable in respect of a levy period[^c-607191a82795642bd57f28979fe61b43] from which an exemption certificate will not exempt any person will exceed 0·2 per cent. of the relevant emoluments in respect of the base period for that levy period[^c-c5c7e14843cdb0e4c45d9c6e73c6d5fb] ; or
+- (b) in a case within paragraph (b) of that subsection, the amount of the levy payable by any person in respect of a levy period[^c-4f4f003ea0b4cbb114467117ce048f57] will exceed that percentage of the relevant emoluments,in respect of the base period for that levy period[^c-d16cd61cf4a181074072b02c6af96403]
 
 then the Secretary of State shall not make a levy order in pursuance of the levy proposals unless he is satisfied that they are necessary to encourage adequate training in the industry[^c742888] and one of the conditions mentioned in subsection (6) below is satisfied.
 
 (6) The conditions referred to in subsection (5) above are—
 
-- (a)[^key-bd93011791ca2e0674929ccb28f38af5] that the Secretary of State is satisfied that—
+- (a)[^c-bd93011791ca2e0674929ccb28f38af5] that the Secretary of State is satisfied that—
   - (i) the board has taken reasonable steps to ascertain the views of persons who the Secretary of State considers are likely to be liable to make payments by way of levy in consequence of the levy proposals, and
   - (ii) a class of persons, who together satisfy the requirements in subsection (6A) below, considers that the proposals are necessary to encourage adequate training in the industry;
-- (b)[^key-5177e7b7bebd4463aeb361bf54bc7856] that the order will be made—
+- (b)[^c-5177e7b7bebd4463aeb361bf54bc7856] that the order will be made—
   - (i) after the making of a levy order (“ **the earlier levy order** ”) in respect of which the Secretary of State was satisfied that the condition in paragraph (a) above applied, and
   - (ii) within the period described in subsection (6E) below,
 
   and the condition in subsection (6F) or (6G) below is satisfied;
 - (c) that neither of the conditions mentioned in paragraphs (a) and (b) above applies but the proposals are considered by the Secretary of State to be appropriate in the circumstances.
 
-(6A)[^key-0c365d911edbe9703899085d5cabb554] The requirements referred to in subsection (6)(a) above are that—
+(6A)[^c-0c365d911edbe9703899085d5cabb554] The requirements referred to in subsection (6)(a) above are that—
 
 - (a) the class must consist of more than half of those persons who the Secretary of State considers are likely to be liable to make payments by way of levy in consequence of the levy proposals; and
 - (b) the class must include such persons as the Secretary of State considers are together likely to be liable to make payments by way of levy in consequence of the levy proposals which amount to more than half the aggregate amount of those payments.
 
-(6B)[^key-341436482cdc0c4fe614414799170d4b] The Secretary of State may by regulations make provision as to what constitutes “ **reasonable steps** ” for the purposes of subsection (6)(a) above.
+(6B)[^c-341436482cdc0c4fe614414799170d4b] The Secretary of State may by regulations make provision as to what constitutes “ **reasonable steps** ” for the purposes of subsection (6)(a) above.
 
 (6C) Regulations under subsection (6B) above may include—
 
@@ -378,7 +378,7 @@ then the Secretary of State shall not make a levy order in pursuance of the levy
 
 (6D) Regulations under subsection (6B) above shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(6E)[^key-ee71eedbcec554ffb516825ab10e6c25] The period mentioned in subsection (6)(b)(ii) above is—
+(6E)[^c-ee71eedbcec554ffb516825ab10e6c25] The period mentioned in subsection (6)(b)(ii) above is—
 
 - (a) if the earlier levy order provides for such levy periods as are referred to in subsection (2A) above, the period beginning with the third anniversary and ending with the fourth anniversary of the making of the earlier levy order;
 - (b) if the earlier levy order provides for such levy period as is referred to in subsection (2C) above, the period beginning with the first anniversary and ending with the second anniversary of the making of the earlier levy order.
@@ -393,15 +393,15 @@ then the Secretary of State shall not make a levy order in pursuance of the levy
 - (a) the proposals in pursuance of which the earlier levy order was made included proposals for securing that exemption certificates should not exempt employers from a portion of the levy payable in respect of a levy period; and
 - (b) the percentage of the relevant emoluments from which under the current proposals the exemption certificates will not exempt any person will not exceed the percentage of the relevant emoluments in respect of any of the base periods specified in the earlier levy order from which that person was not exempted under that order.
 
-(7) The Secretary of State shall not make a levy order in pursuance of any levy proposals unless the amount of levy payable in respect of each levy period[^key-0eb78491cd5c8dadd42b77e98b83205d] which, disregarding any exemption, he estimates would, if the order were made, be payable by virtue of it by any employer in the industry either—
+(7) The Secretary of State shall not make a levy order in pursuance of any levy proposals unless the amount of levy payable in respect of each levy period[^c-0eb78491cd5c8dadd42b77e98b83205d] which, disregarding any exemption, he estimates would, if the order were made, be payable by virtue of it by any employer in the industry either—
 
-- (a) does not exceed an amount which the Secretary of State estimates is equal to one per cent. of the relevant emoluments in respect of the base period for that levy period[^key-e9aba64efbb73f72f1329248e8367eee], or
+- (a) does not exceed an amount which the Secretary of State estimates is equal to one per cent. of the relevant emoluments in respect of the base period for that levy period[^c-e9aba64efbb73f72f1329248e8367eee], or
 - (b) does exceed the amount mentioned in paragraph (a) above but is considered by him to be appropriate in the circumstances.
 
 (8) In this section—
 
-- “**the relevant emoluments**” in relation to any person means the aggregate of the emoluments and payments intended to be disbursed as emoluments which are paid and payable by him to or in respect of persons employed in the industry in respect of a period specified in levy proposals as a base period.[^key-87eeb344b761c336b67d6a5d43bbf309]
-- [^key-402a3b5ab7b46f0333363614142ef525]...
+- “**the relevant emoluments**” in relation to any person means the aggregate of the emoluments and payments intended to be disbursed as emoluments which are paid and payable by him to or in respect of persons employed in the industry in respect of a period specified in levy proposals as a base period.[^c-87eeb344b761c336b67d6a5d43bbf309]
+- [^c-402a3b5ab7b46f0333363614142ef525]...
 
 ### 12. Provisions supplementary to s. 11.[^c742901]
 
@@ -412,7 +412,7 @@ then the Secretary of State shall not make a levy order in pursuance of the levy
 
 and a levy order which falls within section 11(5) above in a case where the condition mentioned in section 11(6)(c) above is satisfied or which falls within section 11(7)(b) above shall state that fact.
 
-(1A)[^key-3dd596f18fbaa0bbd3cac2fb2ec2b3cc] Subsection (1B) below applies where a levy order (“ **the new levy order** ”) giving effect to levy proposals submitted by an industrial training board will be made—
+(1A)[^c-3dd596f18fbaa0bbd3cac2fb2ec2b3cc] Subsection (1B) below applies where a levy order (“ **the new levy order** ”) giving effect to levy proposals submitted by an industrial training board will be made—
 
 - (a) after the making of a levy order (“ **the earlier levy order** ”) that gives effect to earlier proposals submitted by the board, and
 - (b) within three years or, where the earlier levy order provides for a single levy period in accordance with section 11(2C) or (2D) above, within one year after the making of the earlier levy order.
@@ -426,7 +426,7 @@ and a levy order which falls within section 11(5) above in a case where the cond
 
 (3)[^c742904] A levy order—
 
-- (a) may provide for payments by way of levy to accrue due from day to day over a levy period[^key-3adf76400b4f7b852955183d0ea0ed81];
+- (a) may provide for payments by way of levy to accrue due from day to day over a levy period[^c-3adf76400b4f7b852955183d0ea0ed81];
 - (b) may contain provisions as to the evidence by which a person’s liability to the levy or his discharge of that liability may be established and as to the time at which any amount payable by any person by way of the levy shall (whether or not any period over which that amount accrues due has expired) become due and recoverable by the industrial training board.
 
 (4)[^c742904] A person assessed to levy imposed under a levy order may appeal to an employment tribunal[^c742906] and the levy order shall make provision as to the time within which such an appeal may be made.
@@ -450,10 +450,10 @@ and in this subsection “[^c742909]**post-school education**” has the same me
 (2) An industrial training board shall not be obliged to submit proposals under subsection (1) above for the issue of exemption certificates to any category of employer at or before the time when it submits levy proposals in respect of a levy on those employers which include—
 
 - (a) proposals that no exemption certificates will be issued by the board to employers in that category; or
-- (b) proposals by virtue of which the levy payable in respect of each levy period[^key-ed646a6acdcf87c2b9612aa17df625db] by any employer in that category (disregarding any exemptions) will not exceed 0·2 per cent. of the relevant emoluments in respect of the base period for that levy period[^key-461802b1b2b5bbe2f8b2f9b47d523100] within the meaning of section 11(8) above; or
-- (c) proposals within section 11(4)(a) above by virtue of which any exemption certificates issued to those employers will not exempt them from any of the levy payable by virtue of the resulting levy order[^key-0a05a0c4dfcb1c0f19506d60b27c9b32] .
+- (b) proposals by virtue of which the levy payable in respect of each levy period[^c-ed646a6acdcf87c2b9612aa17df625db] by any employer in that category (disregarding any exemptions) will not exceed 0·2 per cent. of the relevant emoluments in respect of the base period for that levy period[^c-461802b1b2b5bbe2f8b2f9b47d523100] within the meaning of section 11(8) above; or
+- (c) proposals within section 11(4)(a) above by virtue of which any exemption certificates issued to those employers will not exempt them from any of the levy payable by virtue of the resulting levy order[^c-0a05a0c4dfcb1c0f19506d60b27c9b32] .
 
-In this subsection “[^key-ba399983253b542079191c74f3bd6c25]**the relevant emoluments**” has the meaning given by section 11(8) above.
+In this subsection “[^c-ba399983253b542079191c74f3bd6c25]**the relevant emoluments**” has the meaning given by section 11(8) above.
 
 (3) The criteria for arrangements made by employers which by virtue of paragraph (b) of subsection (1) above are to be specified in proposals submitted under that subsection must relate to the quality or amount of training, or training and education, provided for by the arrangements, but need not relate solely to the needs of establishments of the employers and the proposals may specify different criteria as respects arrangements made by different categories of employers.
 
@@ -582,7 +582,7 @@ The trustees of the Industrial Training Boards’ Combined Pension Fund may, wit
 
 (1) Schedule 2 (transitional and saving provisions) and Schedule 3 (consequential amendments) to this Act shall have effect, but without prejudice to the operation of sections 15 to 17 of the Interpretation Act 1978 (which relate to the effect of repeals).
 
-(2)[^key-9ebf523c8e1cf72ee2d8e17f27e2e35b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9ebf523c8e1cf72ee2d8e17f27e2e35b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3)[^c742936] The enactments specified in Schedule 4 to this Act are hereby repealed to the extent mentioned in the third column of that Schedule.
 
@@ -654,15 +654,15 @@ and any provision made by virtue of sub-paragraph (b) above may enable votes to 
 
 Section 20(1).
 
-**1.**[^key-b1e4d5c9bd66f1b00cd45b17ef10aebd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b1e4d5c9bd66f1b00cd45b17ef10aebd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b1e4d5c9bd66f1b00cd45b17ef10aebd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b1e4d5c9bd66f1b00cd45b17ef10aebd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b1e4d5c9bd66f1b00cd45b17ef10aebd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b1e4d5c9bd66f1b00cd45b17ef10aebd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b1e4d5c9bd66f1b00cd45b17ef10aebd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b1e4d5c9bd66f1b00cd45b17ef10aebd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-b1e4d5c9bd66f1b00cd45b17ef10aebd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b1e4d5c9bd66f1b00cd45b17ef10aebd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.** Nothing in this Act shall affect the enactments repealed by this Act in their operation in relation to offences committed before the commencement of this Act.
 
@@ -727,17 +727,17 @@ Section 20(3).
 
 [^c742762]: Commencement: Act wholly in force at 29.6.1982. see [s. 21(3)](https://www.legislation.gov.uk/ukpga/1982/10/section/21/3).
 
-[^key-62b3fc93e1d10f7e5c7a7a422e2bdbe4]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1982/10) certain functions transferred (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [art. 19](https://www.legislation.gov.uk/uksi/2018/644/article/19)
+[^c-62b3fc93e1d10f7e5c7a7a422e2bdbe4]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1982/10) certain functions transferred (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [art. 19](https://www.legislation.gov.uk/uksi/2018/644/article/19)
 
 [^c742763]: Textual amendment: Definition repealed by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38) , [ss. 22(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/22/4) , [29(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/4) , [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/4/paragraph/1/2) , [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/I)
 
-[^key-813350a74fb6b3b2a5a1c7a553a9822c]: Textual amendment: Words in s. 1(2) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25) , [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5) , [Sch. 1 para. 2(a)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/2/a) ; [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505) , [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7) )
+[^c-813350a74fb6b3b2a5a1c7a553a9822c]: Textual amendment: Words in s. 1(2) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25) , [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5) , [Sch. 1 para. 2(a)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/2/a) ; [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505) , [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7) )
 
 [^c742764]: Marginal citation: [1964 c. 16](https://www.legislation.gov.uk/ukpga/1964/16) .
 
-[^key-5ae3dd8b499dfe418251e5dc8defb260]: Textual amendment: Word in s. 1(2) repealed (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25) , [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5) , [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/2/b) , [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/25/schedule/2) ; [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505) , [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7) )
+[^c-5ae3dd8b499dfe418251e5dc8defb260]: Textual amendment: Word in s. 1(2) repealed (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25) , [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5) , [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/2/b) , [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/25/schedule/2) ; [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505) , [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7) )
 
-[^key-0ae93bb905330ca77da191c67aa7bcaf]: Textual amendment: Words in s. 1(2) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25) , [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5) , [Sch. 1 para. 2(c)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/2/c) ; [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505) , [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7) )
+[^c-0ae93bb905330ca77da191c67aa7bcaf]: Textual amendment: Words in s. 1(2) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25) , [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5) , [Sch. 1 para. 2(c)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/2/c) ; [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505) , [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7) )
 
 [^c742766]: Modification: S. 1(4) amended by [Employment Act 1988 (c. 19, SIF 43:5)](https://www.legislation.gov.uk/ukpga/1988/19) , [s.29(3)](https://www.legislation.gov.uk/ukpga/1988/19/section/29/3) and [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38) , [s. 22(5)](https://www.legislation.gov.uk/ukpga/1989/38/section/22/5) , [Sch. 5 para. 9(1)(4)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/5/paragraph/9/1/4)
 
@@ -755,9 +755,9 @@ Section 20(3).
 
 [^c742772]: Textual amendment: Ss. 3A, 3B inserted by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 24(1)](https://www.legislation.gov.uk/ukpga/1989/38/section/24/1)
 
-[^key-2f8184d6f4ce2655f092a9ee5d6ea1ed]: Textual amendment: Words in s. 3B(2) substituted (6.4.2006 with application in accordance with reg. 21(1)) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/2/2)
+[^c-2f8184d6f4ce2655f092a9ee5d6ea1ed]: Textual amendment: Words in s. 3B(2) substituted (6.4.2006 with application in accordance with reg. 21(1)) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/2/2)
 
-[^key-15d04ee052cd164485d354e993677ca6]: Textual amendment: Words in s. 3B(3)(a) substituted (6.4.2006 with application in accordance with reg. 21(1)) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/2/3)
+[^c-15d04ee052cd164485d354e993677ca6]: Textual amendment: Words in s. 3B(3)(a) substituted (6.4.2006 with application in accordance with reg. 21(1)) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/2/3)
 
 [^c742777]: Subordinate legislation: S. 4: s. 1(1) (with ss. 1(7) and 4(1)(2)(b)) power exercised by [S.I. 1991/263](https://www.legislation.gov.uk/uksi/1991/263)
 
@@ -813,13 +813,13 @@ Section 20(3).
 
 [^c742867]: Textual amendment: Words in s. 8(2) substituted by [S.I. 1991/1997](https://www.legislation.gov.uk/uksi/1991/1997), [reg. 2](https://www.legislation.gov.uk/uksi/1991/1997/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/1991/1997/schedule), [para. 44](https://www.legislation.gov.uk/uksi/1991/1997/paragraph/44) (with [reg. 4](https://www.legislation.gov.uk/uksi/1991/1997/regulation/4)).
 
-[^key-d4340eea10afcdc5a3e4420ba7c0ac59]: Textual amendment: Words in [s. 8(2)](https://www.legislation.gov.uk/ukpga/1982/10/section/8/2) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 1(y)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/1/y) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-d4340eea10afcdc5a3e4420ba7c0ac59]: Textual amendment: Words in [s. 8(2)](https://www.legislation.gov.uk/ukpga/1982/10/section/8/2) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 1(y)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/1/y) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-5bc0bc4c96102ff061147e3322b3b6a1]: Textual amendment: S. 8(2A)-(2C) inserted (23.5.2003) by [Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2003 (S.I. 2003/1326)](https://www.legislation.gov.uk/uksi/2003/1326), [arts. 1](https://www.legislation.gov.uk/uksi/2003/1326/article/1), [12(2)](https://www.legislation.gov.uk/uksi/2003/1326/article/12/2)
+[^c-5bc0bc4c96102ff061147e3322b3b6a1]: Textual amendment: S. 8(2A)-(2C) inserted (23.5.2003) by [Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2003 (S.I. 2003/1326)](https://www.legislation.gov.uk/uksi/2003/1326), [arts. 1](https://www.legislation.gov.uk/uksi/2003/1326/article/1), [12(2)](https://www.legislation.gov.uk/uksi/2003/1326/article/12/2)
 
 [^c742868]: Textual amendment: Words substituted by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 22(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/22/4), [Sch. 4 para. 7(3)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/4/paragraph/7/3)
 
-[^key-80a59089d981ed5191f09789057ac01b]: Textual amendment: Words in s. 8(3) inserted (23.5.2003) by [Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2003 (S.I. 2003/1326)](https://www.legislation.gov.uk/uksi/2003/1326), [arts. 1](https://www.legislation.gov.uk/uksi/2003/1326/article/1), [12(3)](https://www.legislation.gov.uk/uksi/2003/1326/article/12/3)
+[^c-80a59089d981ed5191f09789057ac01b]: Textual amendment: Words in s. 8(3) inserted (23.5.2003) by [Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2003 (S.I. 2003/1326)](https://www.legislation.gov.uk/uksi/2003/1326), [arts. 1](https://www.legislation.gov.uk/uksi/2003/1326/article/1), [12(3)](https://www.legislation.gov.uk/uksi/2003/1326/article/12/3)
 
 [^c742869]: Textual amendment: Words substituted by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 22(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/22/4), [Sch. 4 para. 7(4)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/4/paragraph/7/4)
 
@@ -841,47 +841,47 @@ Section 20(3).
 
 [^c742887]: Textual amendment: Words substituted by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 22(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/22/4), [Sch. 4 para. 10(3)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/4/paragraph/10/3)
 
-[^key-98d1645a0b9a4539e1bdbba39cf152f2]: Textual amendment: S. 11(2A)-(2E) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [ss. 25(2)](https://www.legislation.gov.uk/ukpga/2007/25/section/25/2), [32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-98d1645a0b9a4539e1bdbba39cf152f2]: Textual amendment: S. 11(2A)-(2E) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [ss. 25(2)](https://www.legislation.gov.uk/ukpga/2007/25/section/25/2), [32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
-[^key-0a1e940b623ac2d094794542c0999869]: Textual amendment: Words in s. 11(3) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/3/2/a); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-0a1e940b623ac2d094794542c0999869]: Textual amendment: Words in s. 11(3) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/3/2/a); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
-[^key-933c3411897eb13109b18a595460085c]: Textual amendment: Words in s. 11(3) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/3/2/b); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-933c3411897eb13109b18a595460085c]: Textual amendment: Words in s. 11(3) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/3/2/b); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
-[^key-5ba82d6d32669e2a54186a2b8ae0ab4f]: Textual amendment: Words in s. 11(3) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 3(2)(c)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/3/2/c); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-5ba82d6d32669e2a54186a2b8ae0ab4f]: Textual amendment: Words in s. 11(3) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 3(2)(c)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/3/2/c); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
-[^key-d0eecd4cb5c8e009e82e7ce915425ad9]: Textual amendment: Words in s. 11(4) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/3/3/a); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-d0eecd4cb5c8e009e82e7ce915425ad9]: Textual amendment: Words in s. 11(4) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/3/3/a); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
-[^key-07f0e85a5f76bff7fed723b8a5a07a90]: Textual amendment: Words in s. 11(4)(a) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/3/3/b); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-07f0e85a5f76bff7fed723b8a5a07a90]: Textual amendment: Words in s. 11(4)(a) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/3/3/b); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
-[^key-d1f61cea4c4b03f2d543c47ad10f20c8]: Textual amendment: Words in s. 11(4) substituted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 3(3)(c)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/3/3/c); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-d1f61cea4c4b03f2d543c47ad10f20c8]: Textual amendment: Words in s. 11(4) substituted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 3(3)(c)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/3/3/c); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
-[^key-607191a82795642bd57f28979fe61b43]: Textual amendment: Words in s. 11(5)(a) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 3(4)(a)(i)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/3/4/a/i); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-607191a82795642bd57f28979fe61b43]: Textual amendment: Words in s. 11(5)(a) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 3(4)(a)(i)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/3/4/a/i); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
-[^key-c5c7e14843cdb0e4c45d9c6e73c6d5fb]: Textual amendment: Words in s. 11(5)(a) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 3(4)(a)(ii)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/3/4/a/ii); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-c5c7e14843cdb0e4c45d9c6e73c6d5fb]: Textual amendment: Words in s. 11(5)(a) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 3(4)(a)(ii)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/3/4/a/ii); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
-[^key-4f4f003ea0b4cbb114467117ce048f57]: Textual amendment: Words in s. 11(5)(b) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 3(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/3/4/b/i); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-4f4f003ea0b4cbb114467117ce048f57]: Textual amendment: Words in s. 11(5)(b) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 3(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/3/4/b/i); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
-[^key-d16cd61cf4a181074072b02c6af96403]: Textual amendment: Words in s. 11(5)(b) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 3(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/3/4/b/ii); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-d16cd61cf4a181074072b02c6af96403]: Textual amendment: Words in s. 11(5)(b) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 3(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/3/4/b/ii); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
 [^c742888]: Textual amendment: Words substituted by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 22(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/22/4), [Sch. 4 para. 10(4)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/4/paragraph/10/4)
 
-[^key-bd93011791ca2e0674929ccb28f38af5]: Textual amendment: S. 11(6)(a) substituted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [ss. 24(2)](https://www.legislation.gov.uk/ukpga/2007/25/section/24/2), [32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-bd93011791ca2e0674929ccb28f38af5]: Textual amendment: S. 11(6)(a) substituted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [ss. 24(2)](https://www.legislation.gov.uk/ukpga/2007/25/section/24/2), [32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
-[^key-5177e7b7bebd4463aeb361bf54bc7856]: Textual amendment: S. 11(6)(b) substituted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [ss. 25(3)](https://www.legislation.gov.uk/ukpga/2007/25/section/25/3), [32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-5177e7b7bebd4463aeb361bf54bc7856]: Textual amendment: S. 11(6)(b) substituted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [ss. 25(3)](https://www.legislation.gov.uk/ukpga/2007/25/section/25/3), [32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
-[^key-0c365d911edbe9703899085d5cabb554]: Textual amendment: S. 11(6A) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [ss. 24(3)](https://www.legislation.gov.uk/ukpga/2007/25/section/24/3), [32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-0c365d911edbe9703899085d5cabb554]: Textual amendment: S. 11(6A) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [ss. 24(3)](https://www.legislation.gov.uk/ukpga/2007/25/section/24/3), [32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
-[^key-341436482cdc0c4fe614414799170d4b]: Textual amendment: S. 11(6B)-(6D) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [ss. 24(4)](https://www.legislation.gov.uk/ukpga/2007/25/section/24/4), [32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-341436482cdc0c4fe614414799170d4b]: Textual amendment: S. 11(6B)-(6D) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [ss. 24(4)](https://www.legislation.gov.uk/ukpga/2007/25/section/24/4), [32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
-[^key-ee71eedbcec554ffb516825ab10e6c25]: Textual amendment: S. 11(6E)-(6G) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [ss. 25(4)](https://www.legislation.gov.uk/ukpga/2007/25/section/25/4), [32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-ee71eedbcec554ffb516825ab10e6c25]: Textual amendment: S. 11(6E)-(6G) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [ss. 25(4)](https://www.legislation.gov.uk/ukpga/2007/25/section/25/4), [32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
-[^key-0eb78491cd5c8dadd42b77e98b83205d]: Textual amendment: Words in s. 11(7) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 3(5)(a)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/3/5/a); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-0eb78491cd5c8dadd42b77e98b83205d]: Textual amendment: Words in s. 11(7) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 3(5)(a)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/3/5/a); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
-[^key-e9aba64efbb73f72f1329248e8367eee]: Textual amendment: Words in s. 11(7)(a) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 3(5)(b)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/3/5/b); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-e9aba64efbb73f72f1329248e8367eee]: Textual amendment: Words in s. 11(7)(a) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 3(5)(b)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/3/5/b); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
-[^key-87eeb344b761c336b67d6a5d43bbf309]: Textual amendment: Words in s. 11(8) substituted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [ss. 25(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/25/5), [32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-87eeb344b761c336b67d6a5d43bbf309]: Textual amendment: Words in s. 11(8) substituted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [ss. 25(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/25/5), [32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
-[^key-402a3b5ab7b46f0333363614142ef525]: Textual amendment: Words in s. 11(8) repealed (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [ss. 24(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/24/5), [32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Schs. 2](https://www.legislation.gov.uk/ukpga/2007/25/schedule/2); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(a)(e)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/a/e) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-402a3b5ab7b46f0333363614142ef525]: Textual amendment: Words in s. 11(8) repealed (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [ss. 24(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/24/5), [32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Schs. 2](https://www.legislation.gov.uk/ukpga/2007/25/schedule/2); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(a)(e)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/a/e) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
 [^c742901]: Subordinate legislation: S. 12: for previous exercises of this power see Index to Government Orders.
 
@@ -889,13 +889,13 @@ Section 20(3).
 
 [^c742903]: Textual amendment: Word substituted by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 22(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/22/4), [Sch. 4 para. 11(b)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/4/paragraph/11/b)
 
-[^key-3dd596f18fbaa0bbd3cac2fb2ec2b3cc]: Textual amendment: S. 12(1A)(1B) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [ss. 25(6)](https://www.legislation.gov.uk/ukpga/2007/25/section/25/6), [32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-3dd596f18fbaa0bbd3cac2fb2ec2b3cc]: Textual amendment: S. 12(1A)(1B) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [ss. 25(6)](https://www.legislation.gov.uk/ukpga/2007/25/section/25/6), [32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
 [^c742904]: Subordinate legislation: S. 12: s. 11(2) (with s. 12(3)(4)) power exercised by [S.I. 1991/465](https://www.legislation.gov.uk/uksi/1991/465)
 
     S. 12: s. 11(2) (with s. 12(3)(4)) power exercised by [S.I. 1991/1164](https://www.legislation.gov.uk/uksi/1991/1164).
 
-[^key-3adf76400b4f7b852955183d0ea0ed81]: Textual amendment: Words in s. 12(3)(a) substituted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/4); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-3adf76400b4f7b852955183d0ea0ed81]: Textual amendment: Words in s. 12(3)(a) substituted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/4); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
 [^c742906]: Textual amendment: Words in s. 12(4) substituted (1.8.1998) by [1998 c. 8](https://www.legislation.gov.uk/ukpga/1998/8), [s. 1(2)(a)](https://www.legislation.gov.uk/ukpga/1998/8/section/1/2/a) (with s. 16(2); [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/1658/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1)
 
@@ -905,13 +905,13 @@ Section 20(3).
 
 [^c742909]: Textual amendment: Definition inserted by [Education Reform Act 1988 (c. 40, SIF 41:1)](https://www.legislation.gov.uk/ukpga/1988/40), [ss. 231(7)](https://www.legislation.gov.uk/ukpga/1988/40/section/231/7), [235(6)](https://www.legislation.gov.uk/ukpga/1988/40/section/235/6), [237(1)](https://www.legislation.gov.uk/ukpga/1988/40/section/237/1), [Sch. 12 para. 88(b)](https://www.legislation.gov.uk/ukpga/1988/40/schedule/12/paragraph/88/b)
 
-[^key-ed646a6acdcf87c2b9612aa17df625db]: Textual amendment: Words in [s. 13(2)(b)](https://www.legislation.gov.uk/ukpga/1982/10/section/13/2/b) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/5/2/a); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-ed646a6acdcf87c2b9612aa17df625db]: Textual amendment: Words in [s. 13(2)(b)](https://www.legislation.gov.uk/ukpga/1982/10/section/13/2/b) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/5/2/a); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
-[^key-461802b1b2b5bbe2f8b2f9b47d523100]: Textual amendment: Words in [s. 13(2)(b)](https://www.legislation.gov.uk/ukpga/1982/10/section/13/2/b) substituted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/5/2/b); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-461802b1b2b5bbe2f8b2f9b47d523100]: Textual amendment: Words in [s. 13(2)(b)](https://www.legislation.gov.uk/ukpga/1982/10/section/13/2/b) substituted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/5/2/b); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
-[^key-0a05a0c4dfcb1c0f19506d60b27c9b32]: Textual amendment: Words in [s. 13(2)(c)](https://www.legislation.gov.uk/ukpga/1982/10/section/13/2/c) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 5(3)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/5/3); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-0a05a0c4dfcb1c0f19506d60b27c9b32]: Textual amendment: Words in [s. 13(2)(c)](https://www.legislation.gov.uk/ukpga/1982/10/section/13/2/c) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 5(3)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/5/3); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
-[^key-ba399983253b542079191c74f3bd6c25]: Textual amendment: Words in [s. 13(2)](https://www.legislation.gov.uk/ukpga/1982/10/section/13/2) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 5(4)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/5/4); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-ba399983253b542079191c74f3bd6c25]: Textual amendment: Words in [s. 13(2)](https://www.legislation.gov.uk/ukpga/1982/10/section/13/2) inserted (2.3.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [s. 32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5), [Sch. 1 para. 5(4)](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/5/4); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
 [^c742910]: Textual amendment: Words repealed by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [ss. 22(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/22/4), [29(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/4), [Sch. 4 para. 12(3)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/4/paragraph/12/3), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/I)
 
@@ -953,7 +953,7 @@ Section 20(3).
 
 [^c742932]: Textual amendment: Words inserted by [Social Security and Housing Benefits Act 1982 (c. 24, SIF 113:1)](https://www.legislation.gov.uk/ukpga/1982/24), [s. 48(5)](https://www.legislation.gov.uk/ukpga/1982/24/section/48/5), [Sch. 4 para. 37](https://www.legislation.gov.uk/ukpga/1982/24/schedule/4/paragraph/37)
 
-[^key-9ebf523c8e1cf72ee2d8e17f27e2e35b]: Textual amendment: S. 20(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-9ebf523c8e1cf72ee2d8e17f27e2e35b]: Textual amendment: S. 20(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
 [^c742936]: Modification: The text of s. 20(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
 
@@ -971,7 +971,7 @@ Section 20(3).
 
 [^c742943]: Textual amendment: Words substituted by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 22(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/22/4), [Sch. 4 para. 16(3)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/4/paragraph/16/3)
 
-[^key-b1e4d5c9bd66f1b00cd45b17ef10aebd]: Textual amendment: [Sch. 2 paras. 1-5](https://www.legislation.gov.uk/ukpga/1982/10/schedule/2/paragraph/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-b1e4d5c9bd66f1b00cd45b17ef10aebd]: Textual amendment: [Sch. 2 paras. 1-5](https://www.legislation.gov.uk/ukpga/1982/10/schedule/2/paragraph/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
 [^c742946]: Modification: The text of Sch. 3 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and, except as specified, does not reflect any amendments or repeals which may have been made prior to 1.2.1991
 

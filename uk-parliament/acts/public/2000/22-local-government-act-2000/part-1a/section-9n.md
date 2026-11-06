@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9N. Requiring referendum on change to mayor and cabinet executive[^key-9a86f7a7b1b106f8bdcfca147f63386d]
+## 9N. Requiring referendum on change to mayor and cabinet executive[^c-9a86f7a7b1b106f8bdcfca147f63386d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a86f7a7b1b106f8bdcfca147f63386d]: Textual amendment: [S. 9N](https://www.legislation.gov.uk/ukpga/2000/22/section/9N) omitted (29.6.2026) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 29 para. 4(9)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/29/paragraph/4/9)
+[^c-9a86f7a7b1b106f8bdcfca147f63386d]: Textual amendment: [S. 9N](https://www.legislation.gov.uk/ukpga/2000/22/section/9N) omitted (29.6.2026) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 29 para. 4(9)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/29/paragraph/4/9)

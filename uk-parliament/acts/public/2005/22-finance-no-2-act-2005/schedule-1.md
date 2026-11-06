@@ -24,17 +24,17 @@ Section 6
 
 ### Introduction
 
-**1.**[^key-5d0262cebf9e7abc73c02994b0b43c74] Schedule 11A to VATA 1994 (disclosure of avoidance schemes) is amended in accordance with this Schedule.
+**1.**[^c-5d0262cebf9e7abc73c02994b0b43c74] Schedule 11A to VATA 1994 (disclosure of avoidance schemes) is amended in accordance with this Schedule.
 
 ### Interpretative provisions
 
-**2.**[^key-4cb11a09cad7ee7192885cc5b693b6ca] In paragraph 1 (interpretation), after the definition of “designated scheme” insert—
+**2.**[^c-4cb11a09cad7ee7192885cc5b693b6ca] In paragraph 1 (interpretation), after the definition of “designated scheme” insert—
 
 > “**non-deductible tax**”, in relation to a taxable person, has the meaning given by paragraph 2A;
 
 .
 
-**3.**[^key-3163d6d816730aa16c1c1892e0ad961f] For paragraph 2 substitute—
+**3.**[^c-3163d6d816730aa16c1c1892e0ad961f] For paragraph 2 substitute—
 
 > **2.** (1) For the purposes of this Schedule, a taxable person obtains a tax advantage if—
 >
@@ -53,7 +53,7 @@ Section 6
 >
 > but excluding (in each case) any VAT in respect of which he is entitled to a refund from the Commissioners by virtue of any provision of this Act.
 
-**4.**[^key-d4f5ed3cf8ce1858f5ff0fcb7e91b714] After paragraph 2 insert—
+**4.**[^c-d4f5ed3cf8ce1858f5ff0fcb7e91b714] After paragraph 2 insert—
 
 > **Meaning of “non-deductible tax”**
 >
@@ -70,7 +70,7 @@ Section 6
 
 ### Duty to notify Commissioners
 
-**5.**[^key-2ad67a5009b639346c44331b1d95b895] (1) Paragraph 6 (duty to notify Commissioners) is amended as follows.
+**5.**[^c-2ad67a5009b639346c44331b1d95b895] (1) Paragraph 6 (duty to notify Commissioners) is amended as follows.
 
 (2) In sub-paragraph (1)—
 
@@ -92,11 +92,11 @@ Section 6
 
 > (5) Sub-paragraph (3) also does not apply where the scheme is one in respect of which the taxable person has on a previous occasion provided the Commissioners with prescribed information under that sub-paragraph.
 
-**6.**[^key-289d5859a47ca5b6d0005714e2a34714] In paragraph 7 (exemptions from duty to notify) in the definition of “relevant period” in sub-paragraph (9) for “6(1)(a) or (b)” substitute “ 6(1)(a), (b) or (c) ”.
+**6.**[^c-289d5859a47ca5b6d0005714e2a34714] In paragraph 7 (exemptions from duty to notify) in the definition of “relevant period” in sub-paragraph (9) for “6(1)(a) or (b)” substitute “ 6(1)(a), (b) or (c) ”.
 
 ### Amount of penalty
 
-**7.**[^key-da18485035210720df462faaf35b9bdc] (1) Paragraph 11 (amount of penalty) is amended as follows.
+**7.**[^c-da18485035210720df462faaf35b9bdc] (1) Paragraph 11 (amount of penalty) is amended as follows.
 
 (2) In sub-paragraph (3)—
 
@@ -119,7 +119,7 @@ Section 6
 
 ### Penalty assessments
 
-**8.**[^key-0e670f0516377c4b448022ba17826d28] In paragraph 12 (penalty assessments) for sub-paragraph (3) substitute—
+**8.**[^c-0e670f0516377c4b448022ba17826d28] In paragraph 12 (penalty assessments) for sub-paragraph (3) substitute—
 
 > (3) In a case where—
 >
@@ -135,18 +135,18 @@ Section 6
 
 ## Annotations
 
-[^key-5d0262cebf9e7abc73c02994b0b43c74]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/1) in force at 1.8.2005 by [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
+[^c-5d0262cebf9e7abc73c02994b0b43c74]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/1) in force at 1.8.2005 by [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
 
-[^key-4cb11a09cad7ee7192885cc5b693b6ca]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/2) in force at 1.8.2005 by [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
+[^c-4cb11a09cad7ee7192885cc5b693b6ca]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/2) in force at 1.8.2005 by [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
 
-[^key-3163d6d816730aa16c1c1892e0ad961f]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/3) in force at 1.8.2005 by [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
+[^c-3163d6d816730aa16c1c1892e0ad961f]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/3) in force at 1.8.2005 by [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
 
-[^key-d4f5ed3cf8ce1858f5ff0fcb7e91b714]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/4) in force at 1.8.2005 by [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
+[^c-d4f5ed3cf8ce1858f5ff0fcb7e91b714]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/4) in force at 1.8.2005 by [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
 
-[^key-2ad67a5009b639346c44331b1d95b895]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/5) in force at 1.8.2005 by [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2005/2010/article/3), [4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
+[^c-2ad67a5009b639346c44331b1d95b895]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/5) in force at 1.8.2005 by [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2005/2010/article/3), [4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
 
-[^key-289d5859a47ca5b6d0005714e2a34714]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/6) in force at 1.8.2005 by [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
+[^c-289d5859a47ca5b6d0005714e2a34714]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/6) in force at 1.8.2005 by [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
 
-[^key-da18485035210720df462faaf35b9bdc]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/7) in force at 1.8.2005 by [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
+[^c-da18485035210720df462faaf35b9bdc]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/7) in force at 1.8.2005 by [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
 
-[^key-0e670f0516377c4b448022ba17826d28]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/8) in force at 1.8.2005 by [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
+[^c-0e670f0516377c4b448022ba17826d28]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/8) in force at 1.8.2005 by [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))

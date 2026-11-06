@@ -37,16 +37,16 @@ on the conclusion of a Cooperation Agreement between the European Atomic Energy 
 
 (2005/419/Euratom) (revoked)
 
-[^key-088e34d6fbccc3815fe012927b8e03e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-088e34d6fbccc3815fe012927b8e03e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-088e34d6fbccc3815fe012927b8e03e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-088e34d6fbccc3815fe012927b8e03e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-088e34d6fbccc3815fe012927b8e03e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-088e34d6fbccc3815fe012927b8e03e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-088e34d6fbccc3815fe012927b8e03e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-088e34d6fbccc3815fe012927b8e03e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-088e34d6fbccc3815fe012927b8e03e6]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)
+[^c-088e34d6fbccc3815fe012927b8e03e6]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)

@@ -52,13 +52,13 @@ As required by Article 9 of [Regulation 178/2002](https://www.legislation.gov.uk
 
 As required by Article 144(7) of the Official Controls Regulation, the Secretary of State has consulted with such bodies or persons as appear appropriate.
 
-## 1. Citation, commencement, extent and application[^key-2d74b7181ab83833c9d9a051f39f7d42]
+## 1. Citation, commencement, extent and application[^c-2d74b7181ab83833c9d9a051f39f7d42]
 
 (1) These Regulations may be cited as the Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing [Regulation (EU) 2019/1793](https://www.legislation.gov.uk/european/regulation/2019/1793)) (England) Regulations 2025 and come into force on 1st January 2026.
 
 (2) These Regulations extend to England and Wales but apply in relation to England only.
 
-## 2. Amendment of Commission Implementing [Regulation (EU) 2019/1793](https://www.legislation.gov.uk/european/regulation/2019/1793) on the temporary increase of official controls and emergency measures, etc.[^key-cbd1fd30cd5f035204a69d9ba6f17ed2]
+## 2. Amendment of Commission Implementing [Regulation (EU) 2019/1793](https://www.legislation.gov.uk/european/regulation/2019/1793) on the temporary increase of official controls and emergency measures, etc.[^c-cbd1fd30cd5f035204a69d9ba6f17ed2]
 
 (1) Commission Implementing [Regulation (EU) 2019/1793](https://www.legislation.gov.uk/european/regulation/2019/1793) on the temporary increase of official controls and emergency measures governing the entry into the Union of certain goods from certain third countries implementing [Regulations (EU) 2017/625](https://www.legislation.gov.uk/european/regulation/2017/0625) and [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council and repealing Commission Regulations [(EC) No 669/2009](https://www.legislation.gov.uk/european/regulation/2009/0669), [(EU) No 884/2014](https://www.legislation.gov.uk/european/regulation/2014/0884), [(EU) 2015/175](https://www.legislation.gov.uk/european/regulation/2015/0175), [(EU) 2017/186](https://www.legislation.gov.uk/european/regulation/2017/0186) and [(EU) 2018/1660](https://www.legislation.gov.uk/european/regulation/2018/1660)[^f00003] is amended as follows.
 
@@ -97,11 +97,11 @@ Parliamentary Under Secretary of State
 
 Department of Health and Social Care
 
-## Schedule 1 — Annex to be substituted for Annex I to Commission Implementing Regulation (EU) 2019/1793[^key-20488a9f3ad58ff43b914798e8278dde]
+## Schedule 1 — Annex to be substituted for Annex I to Commission Implementing Regulation (EU) 2019/1793[^c-20488a9f3ad58ff43b914798e8278dde]
 
 Regulation 2(6)
 
-[^key-20488a9f3ad58ff43b914798e8278dde]
+[^c-20488a9f3ad58ff43b914798e8278dde]
 
 > **Annex I — Food and feed of non-animal origin from certain third countries subject to a temporary increase of official controls at border control posts and control points**
 >
@@ -247,11 +247,11 @@ Regulation 2(6)
 >
 > [^f01001][^f00005][^f00006][^f01002][^f01004][^f01005][^f01004][^f01004][^f01004][^f01004][^f01004][^f01004][^f01004][^f01004][^f01004][^f01006][^f01004][^f01004][^f01007][^f01004][^f01008][^f01004][^f01004][^f01008][^f01009][^f01010][^f01004][^f01008][^f01009][^f01010][^f01004][^f01004][^f01004][^f01011][^f01004][^f01008][^f01004][^f01004][^f01004][^f01004][^f01004][^f01004][^f01004][^f01008][^f01004][^f01002][^f01004][^f01002][^f01002][^f01003][^f01004][^f01004][^f01004][^f01004][^f01004][^f01004][^f01004][^f01004][^f01008][^f01002][^f01004][^f01002][^f01012][^f01013][^f01014][^f01014][^f01004][^f01004][^f01004][^f01004][^f01004][^f01004][^f01004]
 
-## Schedule 2 — Annex to be substituted for Annex II to Commission Implementing Regulation (EU) 2019/1793[^key-f6f8f71cedcee298ae161119754fb5d1]
+## Schedule 2 — Annex to be substituted for Annex II to Commission Implementing Regulation (EU) 2019/1793[^c-f6f8f71cedcee298ae161119754fb5d1]
 
 Regulation 2(7)
 
-[^key-f6f8f71cedcee298ae161119754fb5d1]
+[^c-f6f8f71cedcee298ae161119754fb5d1]
 
 > **Annex II — Food and feed from certain third countries subject to special conditions for entry into Great Britain due to contamination risk by mycotoxins, including aflatoxins, pesticide residues and microbiological contamination**
 >
@@ -420,15 +420,15 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00002]: Footnote: [EUR 2017/625](https://www.legislation.gov.uk/european/regulation/2017/0625), amended by [S.I. 2020/1481](https://www.legislation.gov.uk/uksi/2020/1481) and [S.I. 2025/102](https://www.legislation.gov.uk/uksi/2025/102); there are other amending instruments but none is relevant. See Article 3(2A) of [EUR 2017/625](https://www.legislation.gov.uk/european/regulation/2017/0625) for the definition of “the appropriate authority”.
 
-[^key-2d74b7181ab83833c9d9a051f39f7d42]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/1162/regulation/1) in force at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1162/regulation/1/1)
+[^c-2d74b7181ab83833c9d9a051f39f7d42]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/1162/regulation/1) in force at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1162/regulation/1/1)
 
-[^key-cbd1fd30cd5f035204a69d9ba6f17ed2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/1162/regulation/2) in force at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1162/regulation/1/1)
+[^c-cbd1fd30cd5f035204a69d9ba6f17ed2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/1162/regulation/2) in force at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1162/regulation/1/1)
 
 [^f00003]: Footnote: [EUR 2019/1793](https://www.legislation.gov.uk/european/regulation/2019/1793), amended by [S.I. 2020/1631](https://www.legislation.gov.uk/uksi/2020/1631), [S.I. 2022/1193](https://www.legislation.gov.uk/uksi/2022/1193), [S.S.I. 2022/341](https://www.legislation.gov.uk/ssi/2022/341), [S.I. 2024/120](https://www.legislation.gov.uk/uksi/2024/120), [S.S.I. 2024/12](https://www.legislation.gov.uk/ssi/2024/12), [S.I. 2024/1169](https://www.legislation.gov.uk/uksi/2024/1169), [S.I. 2022/1330 (W. 269)](https://www.legislation.gov.uk/wsi/2022/1330), [S.I. 2024/119 (W. 27)](https://www.legislation.gov.uk/wsi/2024/119), [S.I. 2024/1214 (W. 198)](https://www.legislation.gov.uk/wsi/2024/1214) and [S.S.I. 2024/324](https://www.legislation.gov.uk/ssi/2024/324).
 
 [^f00004]: Footnote: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22).
 
-[^key-20488a9f3ad58ff43b914798e8278dde]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2025/1162/schedule/1) in force at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1162/regulation/1/1)
+[^c-20488a9f3ad58ff43b914798e8278dde]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2025/1162/schedule/1) in force at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1162/regulation/1/1)
 
 [^f01001]: Footnote: (1)
 
@@ -490,7 +490,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
     The following reference methods may be used: (1) BS EN 1988-1:1998 “Foodstuffs. Determination of sulfite - Optimized Monier-Williams method”, published by the British Standards Institution on 15th June 1998 (ISBN 0 580 29239 8), available from the British Standards Institution at https://knowledge.bsigroup.com; (2) BS EN 1988-2:1998 “Foodstuffs. Determination of sulfite - Enzymatic method”, published by the British Standards Institution on 15th June 1998 (ISBN 0 580 29240 1), available from the British Standards Institution at https://knowledge.bsigroup.com; (3) ISO 5522:1981 “Fruits, vegetables and derived products — Determination of total sulphur dioxide content”, published by the International Organization for Standardization in September 1981, edition 1, available from the ISO at https://www.iso.org.
 
-[^key-f6f8f71cedcee298ae161119754fb5d1]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2025/1162/schedule/2) in force at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1162/regulation/1/1)
+[^c-f6f8f71cedcee298ae161119754fb5d1]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2025/1162/schedule/2) in force at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1162/regulation/1/1)
 
 [^f02001]: Footnote: (1)
 

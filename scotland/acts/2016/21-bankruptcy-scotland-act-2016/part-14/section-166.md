@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 166. Exclusion of a secured creditor from trust deed[^key-391ac17ae3dde60770964a77afa336a8]
+## 166. Exclusion of a secured creditor from trust deed[^c-391ac17ae3dde60770964a77afa336a8]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-391ac17ae3dde60770964a77afa336a8]: Commencement: [S. 166](https://www.legislation.gov.uk/asp/2016/21/section/166) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-391ac17ae3dde60770964a77afa336a8]: Commencement: [S. 166](https://www.legislation.gov.uk/asp/2016/21/section/166) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

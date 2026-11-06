@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12.22. Notice of order under section 176A(5)[^key-745cc6351100244733323fcad6be4405]
+## 12.22. Notice of order under section 176A(5)[^c-745cc6351100244733323fcad6be4405]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-745cc6351100244733323fcad6be4405]: Textual amendment: [Rule 12](https://www.legislation.gov.uk/uksi/1986/1925/rule/12).22 inserted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 1 para. 63](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/63)
+[^c-745cc6351100244733323fcad6be4405]: Textual amendment: [Rule 12](https://www.legislation.gov.uk/uksi/1986/1925/rule/12).22 inserted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 1 para. 63](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/63)
 
 [^m00053]: Marginal citation: \[FORM 4.24\]

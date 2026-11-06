@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Right to refer to the Tribunal[^key-5e4485e6ea287c103ff2eb862dea158b]
+## 17. Right to refer to the Tribunal[^c-5e4485e6ea287c103ff2eb862dea158b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ P may refer to the Tribunal any decision by the FCA to impose a requirement unde
 
 ## Annotations
 
-[^key-5e4485e6ea287c103ff2eb862dea158b]: Commencement: Reg. 17 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)
+[^c-5e4485e6ea287c103ff2eb862dea158b]: Commencement: Reg. 17 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The Secretary of State must serve a notice on the occupier of any premises other than regulated places if he suspects that low pathogenic avian influenza virus[^key-a1a2c1b4e068ccd77b4600aba393a746]—
+(1) The Secretary of State must serve a notice on the occupier of any premises other than regulated places if he suspects that low pathogenic avian influenza virus[^c-a1a2c1b4e068ccd77b4600aba393a746]—
 
 - (a) may have been carried there from other premises; or
 - (b) may have been carried to other premises from there.
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1a2c1b4e068ccd77b4600aba393a746]: Textual amendment: Word in [art. 53](https://www.legislation.gov.uk/uksi/2006/2702/article/53) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(30)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/30)
+[^c-a1a2c1b4e068ccd77b4600aba393a746]: Textual amendment: Word in [art. 53](https://www.legislation.gov.uk/uksi/2006/2702/article/53) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(30)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/30)

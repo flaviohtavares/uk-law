@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Regulations disapplying the duty to carry out a financial assessment[^key-28b9e4e58229df6d4755b4f7f8ed9365]
+## 65. Regulations disapplying the duty to carry out a financial assessment[^c-28b9e4e58229df6d4755b4f7f8ed9365]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Regulations may make provision about circumstances in which a local authority is
 
 ## Annotations
 
-[^key-28b9e4e58229df6d4755b4f7f8ed9365]: Commencement: S. 65 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-28b9e4e58229df6d4755b4f7f8ed9365]: Commencement: S. 65 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

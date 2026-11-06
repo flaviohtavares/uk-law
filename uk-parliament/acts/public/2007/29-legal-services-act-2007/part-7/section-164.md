@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 164. Power to establish voluntary scheme for resolving complaints[^key-d9370d2de46c8558f2d102fb447e2ab2]
+## 164. Power to establish voluntary scheme for resolving complaints[^c-d9370d2de46c8558f2d102fb447e2ab2]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9370d2de46c8558f2d102fb447e2ab2]: Commencement: S. 164 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)
+[^c-d9370d2de46c8558f2d102fb447e2ab2]: Commencement: S. 164 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)

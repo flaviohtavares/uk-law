@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 232. Definition of “recognised financial institution”[^key-ff1778e0ef67d5a43b2a2c37b9fe4640]
+## 232. Definition of “recognised financial institution”[^c-ff1778e0ef67d5a43b2a2c37b9fe4640]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff1778e0ef67d5a43b2a2c37b9fe4640]: Commencement: Art. 232 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-ff1778e0ef67d5a43b2a2c37b9fe4640]: Commencement: Art. 232 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

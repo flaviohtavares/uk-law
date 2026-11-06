@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.31. Change of carriage of petition[^key-94475903d636c83184bb79a9687eba09]
+## 6.31. Change of carriage of petition[^c-94475903d636c83184bb79a9687eba09]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94475903d636c83184bb79a9687eba09]: Commencement: [Rule 6.31](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.31) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-94475903d636c83184bb79a9687eba09]: Commencement: [Rule 6.31](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.31) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

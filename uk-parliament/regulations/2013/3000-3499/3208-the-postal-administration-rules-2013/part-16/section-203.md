@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 203. “The appropriate fee”[^key-a947008f59107b1e22cf5697fadcc924]
+## 203. “The appropriate fee”[^c-a947008f59107b1e22cf5697fadcc924]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a947008f59107b1e22cf5697fadcc924]: Commencement: [Rule 203](https://www.legislation.gov.uk/uksi/2013/3208/rule/203) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-a947008f59107b1e22cf5697fadcc924]: Commencement: [Rule 203](https://www.legislation.gov.uk/uksi/2013/3208/rule/203) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

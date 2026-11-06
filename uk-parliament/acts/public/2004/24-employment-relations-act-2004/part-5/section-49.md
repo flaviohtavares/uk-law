@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Restriction of proceedings orders: proceedings before Certification Officer[^key-958ef6040bc5327bfb4507ec4c6c700e]
+## 49. Restriction of proceedings orders: proceedings before Certification Officer[^c-958ef6040bc5327bfb4507ec4c6c700e]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-958ef6040bc5327bfb4507ec4c6c700e]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2004/24/section/49) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule)
+[^c-958ef6040bc5327bfb4507ec4c6c700e]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2004/24/section/49) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule)

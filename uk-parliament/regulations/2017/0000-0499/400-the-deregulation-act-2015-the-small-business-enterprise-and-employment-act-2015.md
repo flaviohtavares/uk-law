@@ -53,7 +53,7 @@ A draft of these Regulations has been laid before Parliament and approved by a r
 
 ## PART 1 — Introductory provision
 
-### 1. Citation and commencement[^key-bcc2e481a3d193371bad197163a78253]
+### 1. Citation and commencement[^c-bcc2e481a3d193371bad197163a78253]
 
 (1) These Regulations may be cited as the Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017.
 
@@ -61,7 +61,7 @@ A draft of these Regulations has been laid before Parliament and approved by a r
 
 ## PART 2 — Amendments of primary legislation
 
-### 2. The Building Societies Act 1986[^key-1b8f8e14180ef8a91a9dbca7e1d8c907]
+### 2. The Building Societies Act 1986[^c-1b8f8e14180ef8a91a9dbca7e1d8c907]
 
 (1) The Building Societies Act 1986 is amended as follows.
 
@@ -194,7 +194,7 @@ A draft of these Regulations has been laid before Parliament and approved by a r
 
   .
 
-### 3. The Friendly Societies Act 1992[^key-aeb2fe9d22cba46579b365c0434727f0]
+### 3. The Friendly Societies Act 1992[^c-aeb2fe9d22cba46579b365c0434727f0]
 
 In Schedule 10 to the Friendly Societies Act 1992[^f00025] (application of companies winding up legislation to incorporated friendly societies), in Part 2 (modified application of Insolvency Act 1986 Parts 4 and 12)—
 
@@ -218,11 +218,11 @@ In Schedule 10 to the Friendly Societies Act 1992[^f00025] (application of compa
 
   .
 
-### 4. The Financial Services and Markets Act 2000[^key-9756554cf832dbc8c8126f115269c235]
+### 4. The Financial Services and Markets Act 2000[^c-9756554cf832dbc8c8126f115269c235]
 
 In section 376 of the Financial Services and Markets Act 2000[^f00026] (continuation of contracts of long-term insurance where insurer in liquidation), in subsection (12) for the words from “section 167 of” to the end substitute “Article 142 of, and Schedule 2 to, the 1989 Order.”.
 
-### 5. The Banking Act 2009[^key-e662ad1e020968e7384a9debe2119bf0]
+### 5. The Banking Act 2009[^c-e662ad1e020968e7384a9debe2119bf0]
 
 (1) The Banking Act 2009[^f00027] is amended as follows.
 
@@ -322,7 +322,7 @@ In section 376 of the Financial Services and Markets Act 2000[^f00026] (continua
 
 .
 
-### 6. The Financial Services (Banking Reform) Act 2013[^key-4e8d33f006de35abdd6360b870e65c36]
+### 6. The Financial Services (Banking Reform) Act 2013[^c-4e8d33f006de35abdd6360b870e65c36]
 
 In Schedule 6 to the Financial Services (Banking Reform) Act 2013[^f00039] (conduct of FMI administration)—
 
@@ -348,11 +348,11 @@ In Schedule 6 to the Financial Services (Banking Reform) Act 2013[^f00039] (cond
 
 ## PART 3 — Amendments of subordinate legislation
 
-### 7. The Insurers (Reorganisation and Winding Up) (Lloyd’s) Regulations 2005[^key-5bfcd19cbabc451911a76547dfef5736]
+### 7. The Insurers (Reorganisation and Winding Up) (Lloyd’s) Regulations 2005[^c-5bfcd19cbabc451911a76547dfef5736]
 
 In regulation 9 of the Insurers (Reorganisation and Winding Up) (Lloyd’s) Regulations 2005[^f00040] (reorganisation controller), in paragraph (2) after “qualified” insert “and fully authorised”.
 
-### 8. The Building Societies (Insolvency and Special Administration) Order 2009[^key-0b757f2f9e5793f1c3cd530f09f20518]
+### 8. The Building Societies (Insolvency and Special Administration) Order 2009[^c-0b757f2f9e5793f1c3cd530f09f20518]
 
 (1) Schedule 1 to the Building Societies (Insolvency and Special Administration) Order 2009[^f00041] (modified application of Parts 2 and 3 of the Banking Act 2009 to building societies) is amended as follows.
 
@@ -385,13 +385,13 @@ In regulation 9 of the Insurers (Reorganisation and Winding Up) (Lloyd’s) Regu
   >
   > .
 
-### 9. The Financial Services and Markets Act 2000 (Administration Orders Relating to Insurers) Order 2010[^key-65fa2a0433844cf47a7ce73f7d64be2f]
+### 9. The Financial Services and Markets Act 2000 (Administration Orders Relating to Insurers) Order 2010[^c-65fa2a0433844cf47a7ce73f7d64be2f]
 
 *Extent: E+W+S*
 
 In the Schedule to the Financial Services and Markets Act 2000 (Administration Orders Relating to Insurers) Order 2010[^f00044] omit paragraph 7.
 
-### 10. The Investment Bank Special Administration Regulations 2011[^key-0008227327f2af2ff3d419c249a673ac]
+### 10. The Investment Bank Special Administration Regulations 2011[^c-0008227327f2af2ff3d419c249a673ac]
 
 (1) The Investment Bank Special Administration Regulations 2011[^f00045] are amended as follows.
 
@@ -449,7 +449,7 @@ In the Schedule to the Financial Services and Markets Act 2000 (Administration O
   - (i) in the first column for “7” substitute “7A”; and
   - (ii) in the second column for “10” substitute “10A[^f00048]”.
 
-### 11. The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013[^key-da5b3a631447ceee6ed8b19140619f27]
+### 11. The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013[^c-da5b3a631447ceee6ed8b19140619f27]
 
 (1) Schedule 2 to the Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013[^f00049] (co-ownership schemes: application of the Insolvency Act 1986 and the Insolvency (Northern Ireland) Order 1989) is amended as follows.
 
@@ -475,7 +475,7 @@ In the Schedule to the Financial Services and Markets Act 2000 (Administration O
 > | Article 349 (persons not qualified to act as insolvency practitioner) | This Article is to be read as if for paragraph (2) there were substituted—<br>> (2) A person is not qualified to act at any time as an insolvency practitioner in relation to a relevant scheme unless at that time the person is fully authorised to act as an insolvency practitioner or partially authorised to act as an insolvency practitioner only in relation to companies.<br>. |
 > | Article 349A (authorisation of insolvency practitioners)<br>Articles 350 to 350T (regulation of insolvency practitioners) | In these Articles a reference to a company, except in a reference to creditors of a company, is to be read without modification by this Schedule[^f00053]. |
 
-### 12. The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) Order 2014[^key-2c831b408f71648118261b79f965d13a]
+### 12. The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) Order 2014[^c-2c831b408f71648118261b79f965d13a]
 
 *Extent: E+W+S*
 
@@ -516,7 +516,7 @@ In the Schedule to the Financial Services and Markets Act 2000 (Administration O
 
 ## PART 4 — Transitional provisions
 
-### 13. Interpretation of Part[^key-dffd67bc0ff1b970550a8b5ea5d4f5e9]
+### 13. Interpretation of Part[^c-dffd67bc0ff1b970550a8b5ea5d4f5e9]
 
 (1) In this Part—
 
@@ -526,7 +526,7 @@ In the Schedule to the Financial Services and Markets Act 2000 (Administration O
 
 (2) In this Part, unless otherwise specified, a reference to a section is a reference to a section of the 1986 Act.
 
-### 14. Section 176ZB[^key-64058e138631db9a4232af413c4206a2]
+### 14. Section 176ZB[^c-64058e138631db9a4232af413c4206a2]
 
 (1) Section 176ZB (application of proceeds of office-holder claims) does not apply in relation to any relevant proceedings commenced before the commencement date.
 
@@ -539,7 +539,7 @@ In the Schedule to the Financial Services and Markets Act 2000 (Administration O
 - (e) special administration, special administration (bank insolvency) or special administration (bank administration) under the Investment Bank Special Administration Regulations 2011; or
 - (f) the administration of a relevant society (within the meaning given in article 1(2) of the Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) Order 2014) under Part 2 of the 1986 Act as applied by article 2(2) of that Order.
 
-### 15. Sections 246ZA to 246ZC[^key-89a14ae83a65ed1121ea5803faaa4819]
+### 15. Sections 246ZA to 246ZC[^c-89a14ae83a65ed1121ea5803faaa4819]
 
 (1) Sections 246ZA to 246ZC (administration: penalisation of directors etc) do not apply in relation to—
 
@@ -553,7 +553,7 @@ In the Schedule to the Financial Services and Markets Act 2000 (Administration O
 - (a) bank administration under Part 3 of the 2009 Act; or
 - (b) building society special administration under Part 3 of the 2009 Act (as applied by section 90C of the Building Societies Act 1986).
 
-### 16. Section 246ZD[^key-d2ded01c7eaf99bbcd4ab17fd028fa59]
+### 16. Section 246ZD[^c-d2ded01c7eaf99bbcd4ab17fd028fa59]
 
 (1) Section 246ZD (power to assign certain causes of action) does not apply in relation to any relevant proceedings commenced before the commencement date.
 
@@ -562,7 +562,7 @@ In the Schedule to the Financial Services and Markets Act 2000 (Administration O
 - (a) any proceedings of a kind specified in regulation 14(2)(a) to (e); or
 - (b) the winding up of a relevant scheme (within the meaning given in regulation 17(1)(a) of the Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013).
 
-### 17. Sections 391O to 391R[^key-c9f8281cb39741af4455b427358b8c7d]
+### 17. Sections 391O to 391R[^c-c9f8281cb39741af4455b427358b8c7d]
 
 (1) Regulations 5(4)(f) and (10)(e) and 10(5)(e) and (8)(b), so far as they relate to sections 391O to 391R (court sanction of insolvency practitioners in public interest cases), have effect in relation to a person who acts as an insolvency practitioner in any relevant proceedings on or after the commencement date, but disregarding any conduct of that person before that date.
 
@@ -570,7 +570,7 @@ In the Schedule to the Financial Services and Markets Act 2000 (Administration O
 
 (3) “Relevant proceedings” means any proceedings of a kind specified in regulation 14(2)(a), (b), (c) and (e).
 
-### 18. Articles 350O to 350R of the Insolvency (Northern Ireland) Act 1989[^key-5aa60532f1496cfca796d529055f69bb]
+### 18. Articles 350O to 350R of the Insolvency (Northern Ireland) Act 1989[^c-5aa60532f1496cfca796d529055f69bb]
 
 (1) Articles 350O to 350R of the Insolvency (Northern Ireland) Order 1989[^f00057] (court sanction of insolvency practitioners in public interest cases) have effect in relation to a person who acts as an insolvency practitioner in relevant proceedings on or after the commencement date, but disregarding any conduct of that person before that date.
 
@@ -643,9 +643,9 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00005]: Footnote: [S.I. 2012/1759](https://www.legislation.gov.uk/uksi/2012/1759).
 
-[^key-bcc2e481a3d193371bad197163a78253]: Commencement: Reg. 1 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
+[^c-bcc2e481a3d193371bad197163a78253]: Commencement: Reg. 1 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
 
-[^key-1b8f8e14180ef8a91a9dbca7e1d8c907]: Commencement: Reg. 2 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
+[^c-1b8f8e14180ef8a91a9dbca7e1d8c907]: Commencement: Reg. 2 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
 
 [^f00006]: Footnote: Section 90E was inserted by [S.I. 2009/805](https://www.legislation.gov.uk/uksi/2009/805).
 
@@ -685,15 +685,15 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00024]: Footnote: Paragraphs 49 to 52 were substituted, by [S.I. 2016/679](https://www.legislation.gov.uk/uksi/2016/679).
 
-[^key-aeb2fe9d22cba46579b365c0434727f0]: Commencement: Reg. 3 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
+[^c-aeb2fe9d22cba46579b365c0434727f0]: Commencement: Reg. 3 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
 
 [^f00025]: Footnote: [1992 c. 40](https://www.legislation.gov.uk/ukpga/1992/40).
 
-[^key-9756554cf832dbc8c8126f115269c235]: Commencement: Reg. 4 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
+[^c-9756554cf832dbc8c8126f115269c235]: Commencement: Reg. 4 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
 
 [^f00026]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-e662ad1e020968e7384a9debe2119bf0]: Commencement: Reg. 5 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
+[^c-e662ad1e020968e7384a9debe2119bf0]: Commencement: Reg. 5 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
 
 [^f00027]: Footnote: [2009 c. 1](https://www.legislation.gov.uk/ukpga/2009/1).
 
@@ -719,15 +719,15 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00038]: Footnote: In section 155 “the Disqualification Act” means the Company Directors Disqualification Act 1986.
 
-[^key-4e8d33f006de35abdd6360b870e65c36]: Commencement: Reg. 6 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
+[^c-4e8d33f006de35abdd6360b870e65c36]: Commencement: Reg. 6 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
 
 [^f00039]: Footnote: [2013 c. 33](https://www.legislation.gov.uk/ukpga/2013/33).
 
-[^key-5bfcd19cbabc451911a76547dfef5736]: Commencement: Reg. 7 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
+[^c-5bfcd19cbabc451911a76547dfef5736]: Commencement: Reg. 7 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
 
 [^f00040]: Footnote: [S.I. 2005/1998](https://www.legislation.gov.uk/uksi/2005/1998), as amended by [S.I. 2007/851](https://www.legislation.gov.uk/uksi/2007/851). There are other amendments, but they are not relevant.
 
-[^key-0b757f2f9e5793f1c3cd530f09f20518]: Commencement: Reg. 8 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
+[^c-0b757f2f9e5793f1c3cd530f09f20518]: Commencement: Reg. 8 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
 
 [^f00041]: Footnote: [S.I. 2009/805](https://www.legislation.gov.uk/uksi/2009/805).
 
@@ -735,11 +735,11 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00043]: Footnote: The entry for sections 390 to 391T is inserted in Table 2 in section 145 of the Banking Act 2009 by regulation 5(10)(e) of these Regulations.
 
-[^key-65fa2a0433844cf47a7ce73f7d64be2f]: Commencement: Reg. 9 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
+[^c-65fa2a0433844cf47a7ce73f7d64be2f]: Commencement: Reg. 9 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
 
 [^f00044]: Footnote: [S.I. 2010/3023](https://www.legislation.gov.uk/uksi/2010/3023).
 
-[^key-0008227327f2af2ff3d419c249a673ac]: Commencement: Reg. 10 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
+[^c-0008227327f2af2ff3d419c249a673ac]: Commencement: Reg. 10 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
 
 [^f00045]: Footnote: [S.I. 2011/245](https://www.legislation.gov.uk/uksi/2011/245).
 
@@ -749,7 +749,7 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00048]: Footnote: Article 10A of the Company Directors Disqualification (Northern Ireland) Order 2002 ([S.I. 2002/3150 (N.I. 4)](https://www.legislation.gov.uk/nisi/2002/3150)) was inserted by the Small Business, Enterprise and Employment Act 2015, section 112 and Schedule 8, paragraph 5.
 
-[^key-da5b3a631447ceee6ed8b19140619f27]: Commencement: Reg. 11 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
+[^c-da5b3a631447ceee6ed8b19140619f27]: Commencement: Reg. 11 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
 
 [^f00049]: Footnote: [S.I. 2013/1388](https://www.legislation.gov.uk/uksi/2013/1388), as amended by [S.I. 2015/1641](https://www.legislation.gov.uk/uksi/2015/1641) and [1651](https://www.legislation.gov.uk/uksi/2015/1651).
 
@@ -761,24 +761,24 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00053]: Footnote: See footnote (e) in relation to the entry inserted by paragraph (2)(d).
 
-[^key-2c831b408f71648118261b79f965d13a]: Commencement: Reg. 12 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
+[^c-2c831b408f71648118261b79f965d13a]: Commencement: Reg. 12 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
 
 [^f00054]: Footnote: [S.I. 2014/229](https://www.legislation.gov.uk/uksi/2014/229), as amended by [S.I. 2014/1815](https://www.legislation.gov.uk/uksi/2014/1815) and [2014/1822](https://www.legislation.gov.uk/uksi/2014/1822). Originally cited as the Industrial and Provident Societies and Credit Unions (Arrangements, Reconstructions and Administration Order 2014, and given a new citation by [S.I. 2014/1815](https://www.legislation.gov.uk/uksi/2014/1815).
 
-[^key-dffd67bc0ff1b970550a8b5ea5d4f5e9]: Commencement: Reg. 13 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
+[^c-dffd67bc0ff1b970550a8b5ea5d4f5e9]: Commencement: Reg. 13 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
 
-[^key-64058e138631db9a4232af413c4206a2]: Commencement: Reg. 14 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
+[^c-64058e138631db9a4232af413c4206a2]: Commencement: Reg. 14 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
 
 [^f00055]: Footnote: Section 90C was inserted by [S.I. 2009/805](https://www.legislation.gov.uk/uksi/2009/805).
 
 [^f00056]: Footnote: Section 90A was inserted by the Building Societies Act [1997 (c. 3)](https://www.legislation.gov.uk/ukpga/1997/3).
 
-[^key-89a14ae83a65ed1121ea5803faaa4819]: Commencement: Reg. 15 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
+[^c-89a14ae83a65ed1121ea5803faaa4819]: Commencement: Reg. 15 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
 
-[^key-d2ded01c7eaf99bbcd4ab17fd028fa59]: Commencement: Reg. 16 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
+[^c-d2ded01c7eaf99bbcd4ab17fd028fa59]: Commencement: Reg. 16 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
 
-[^key-c9f8281cb39741af4455b427358b8c7d]: Commencement: Reg. 17 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
+[^c-c9f8281cb39741af4455b427358b8c7d]: Commencement: Reg. 17 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
 
-[^key-5aa60532f1496cfca796d529055f69bb]: Commencement: Reg. 18 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
+[^c-5aa60532f1496cfca796d529055f69bb]: Commencement: Reg. 18 in force at 7.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2)
 
 [^f00057]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405). Articles 350O, 350Q and 350R were inserted by the Insolvency (Amendment) Act (Northern Ireland) 2016, section 18.

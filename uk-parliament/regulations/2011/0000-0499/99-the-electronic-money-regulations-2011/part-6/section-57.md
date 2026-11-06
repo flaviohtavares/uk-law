@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The court may, on the application of the Authority, make an order under paragraph (2) if it is satisfied that an electronic money issuer has contravened a requirement imposed by or under these Regulations, or been knowingly concerned in the contravention of such a requirement, or, where the electronic money issuer is an electronic money institution, has contravened a requirement imposed on it by or under section 312R of the 2000 Act, or been knowingly concerned in the contravention of such a requirement,[^key-bc66eb8ffb16017aa2ce8d6bff2e0cf5] and that—
+(1) The court may, on the application of the Authority, make an order under paragraph (2) if it is satisfied that an electronic money issuer has contravened a requirement imposed by or under these Regulations, or been knowingly concerned in the contravention of such a requirement, or, where the electronic money issuer is an electronic money institution, has contravened a requirement imposed on it by or under section 312R of the 2000 Act, or been knowingly concerned in the contravention of such a requirement,[^c-bc66eb8ffb16017aa2ce8d6bff2e0cf5] and that—
 
 - (a) profits have accrued to the electronic money issuer as a result of the contravention; or
 - (b) one or more persons have suffered loss or been otherwise adversely affected as a result of the contravention.
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc66eb8ffb16017aa2ce8d6bff2e0cf5]: Textual amendment: Words in [reg. 57(1)](https://www.legislation.gov.uk/uksi/2011/99/regulation/57/1) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 2 para. 60](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/60) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/2/3)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
+[^c-bc66eb8ffb16017aa2ce8d6bff2e0cf5]: Textual amendment: Words in [reg. 57(1)](https://www.legislation.gov.uk/uksi/2011/99/regulation/57/1) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 2 para. 60](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/60) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/2/3)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)

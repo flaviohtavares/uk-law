@@ -50,7 +50,7 @@ The Secretary of State for Work and Pensions makes the following Regulations in 
 
 In accordance with section 1291 of the Companies Act 2006, as modified by section 901I(8) of that Act, and section 43 of the Corporate Insolvency and Governance Act 2020 this instrument is made without a draft having been laid before, and approved by a resolution of, each House of Parliament.
 
-## 1. Citation, commencement, extent and interpretation[^key-7c43a236d099970f0ddf90db18989b0b]
+## 1. Citation, commencement, extent and interpretation[^c-7c43a236d099970f0ddf90db18989b0b]
 
 (1) These Regulations may be cited as the Pension Protection Fund (Moratorium and Arrangements and Reconstructions for Companies in Financial Difficulty) Regulations 2020, and come into force on 7th July 2020.
 
@@ -64,18 +64,18 @@ In accordance with section 1291 of the Companies Act 2006, as modified by sectio
 - “**the 2006 Act**” means the Companies Act 2006;
 - “**CIO**” means a Charitable Incorporated Organisation;
 - “**LLP**” means a limited liability partnership registered under the Limited Liabilities Partnerships Act 2000 [^c24187271];
-- “relevant CCBS” has the meaning given in article 1(2) of the Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) Order 2014;[^key-e29239c7cecb1b4056061a781ef4ee08]
+- “relevant CCBS” has the meaning given in article 1(2) of the Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) Order 2014;[^c-e29239c7cecb1b4056061a781ef4ee08]
 - “relevant society” has the meaning given by the modification to section 901A(4) of the Companies Act 2006 in paragraph 3 of Schedule 2A to the Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) Order 2014;
 - “**the Board**” means the Board of the Pension Protection Fund [^c24187281].
 
-## 2. Board of the Pension Protection Fund rights in respect of a moratorium[^key-97102afb3e9e77d4a2e2db9592c84b19]
+## 2. Board of the Pension Protection Fund rights in respect of a moratorium[^c-97102afb3e9e77d4a2e2db9592c84b19]
 
 *Extent: E+W+S*
 
 (1) Paragraph (2) applies where—
 
 - (a) a moratorium (within the meaning of Part A1 of the 1986 Act [^c24187291]) which on or after the date on which these Regulations come into force—
-  - (i) is in force in relation to a company, LLP, CIO or relevant CCBS[^key-0617d9403ea8cde35eced571f9929284]that is an employer in respect of an eligible scheme; or
+  - (i) is in force in relation to a company, LLP, CIO or relevant CCBS[^c-0617d9403ea8cde35eced571f9929284]that is an employer in respect of an eligible scheme; or
   - (ii) is or has been in force in relation to a company, LLP, CIO or relevant CCBS that has been an employer in respect of an eligible scheme at any time during the moratorium; and
 - (b) the trustees or managers of the scheme are a creditor of the company, LLP, CIO or relevant CCBS.
 
@@ -88,11 +88,11 @@ are instead to be exercised by the Board to the exclusion of the trustees or man
 
 (3) Before exercising a right under paragraph (2) the Board must consult the trustees or managers of the scheme.
 
-## 3. Board of the Pension Protection Fund rights when arrangement or reconstruction for company in financial difficulty is proposed[^key-3f38e61441a966a8780b6312c969c36a]
+## 3. Board of the Pension Protection Fund rights when arrangement or reconstruction for company in financial difficulty is proposed[^c-3f38e61441a966a8780b6312c969c36a]
 
 (1) This regulation applies where—
 
-- (a) a company, LLP or relevant society[^key-12390dbac9eb627fa2da252ef150ef94] in respect of which a compromise or arrangement (within the meaning of section 901A of the 2006 Act (application of this part) [^c24187321]) is proposed is an employer in respect of an eligible scheme; and
+- (a) a company, LLP or relevant society[^c-12390dbac9eb627fa2da252ef150ef94] in respect of which a compromise or arrangement (within the meaning of section 901A of the 2006 Act (application of this part) [^c24187321]) is proposed is an employer in respect of an eligible scheme; and
 - (b) the trustees or managers of the scheme are a creditor of the company, LLP or relevant society to whom the compromise or arrangement is proposed.
 
 (2) The Board may exercise those rights exercisable under Part 26A of the 2006 Act (arrangements and reconstructions: companies in financial difficulty) [^c24187331] by the trustees or managers of the scheme as a creditor of the company, LLP or relevant society as if the Board is a creditor of the company.
@@ -127,27 +127,27 @@ A full impact assessment has not been produced for this instrument as no impact,
 
 [^c24187261]: Marginal citation: [2020 c. 12](https://www.legislation.gov.uk/ukpga/2020/12).
 
-[^key-7c43a236d099970f0ddf90db18989b0b]: Commencement: Reg. 1 in force at 7.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/693/regulation/1/1)
+[^c-7c43a236d099970f0ddf90db18989b0b]: Commencement: Reg. 1 in force at 7.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/693/regulation/1/1)
 
 [^c24187271]: Marginal citation: [2000 c. 12](https://www.legislation.gov.uk/ukpga/2000/12).
 
-[^key-e29239c7cecb1b4056061a781ef4ee08]: Textual amendment: Words in reg. 1(4) inserted (23.7.2020) by [The Pension Protection Fund (Moratorium and Arrangements and Reconstructions for Companies in Financial Difficulty) (Amendment) Regulations 2020 (S.I. 2020/783)](https://www.legislation.gov.uk/uksi/2020/783), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/783/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/783/regulation/3)
+[^c-e29239c7cecb1b4056061a781ef4ee08]: Textual amendment: Words in reg. 1(4) inserted (23.7.2020) by [The Pension Protection Fund (Moratorium and Arrangements and Reconstructions for Companies in Financial Difficulty) (Amendment) Regulations 2020 (S.I. 2020/783)](https://www.legislation.gov.uk/uksi/2020/783), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/783/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/783/regulation/3)
 
 [^c24187281]: Marginal citation: The Board of the Pension Protection Fund is established under section 107 of the [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35).
 
-[^key-97102afb3e9e77d4a2e2db9592c84b19]: Commencement: Reg. 2 in force at 7.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/693/regulation/1/1)
+[^c-97102afb3e9e77d4a2e2db9592c84b19]: Commencement: Reg. 2 in force at 7.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/693/regulation/1/1)
 
 [^c24187291]: Marginal citation: Part A1 was inserted by section 1 of the [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12).
 
-[^key-0617d9403ea8cde35eced571f9929284]: Textual amendment: Words in reg. 2 substituted (16.9.2020) by [The Pension Protection Fund (Moratorium and Arrangements and Reconstructions for Companies in Financial Difficulty) (Amendment and Revocation) Regulations 2020 (S.I. 2020/990)](https://www.legislation.gov.uk/uksi/2020/990), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/990/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2020/990/regulation/4)
+[^c-0617d9403ea8cde35eced571f9929284]: Textual amendment: Words in reg. 2 substituted (16.9.2020) by [The Pension Protection Fund (Moratorium and Arrangements and Reconstructions for Companies in Financial Difficulty) (Amendment and Revocation) Regulations 2020 (S.I. 2020/990)](https://www.legislation.gov.uk/uksi/2020/990), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/990/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2020/990/regulation/4)
 
 [^c24187301]: Marginal citation: Sections A11 and A12 were inserted by section 1 of the [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12).
 
 [^c24187311]: Marginal citation: Section A44 was inserted by section 1 of the [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12).
 
-[^key-3f38e61441a966a8780b6312c969c36a]: Commencement: Reg. 3 in force at 7.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/693/regulation/1/1)
+[^c-3f38e61441a966a8780b6312c969c36a]: Commencement: Reg. 3 in force at 7.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/693/regulation/1/1)
 
-[^key-12390dbac9eb627fa2da252ef150ef94]: Textual amendment: Words in reg. 3 substituted (16.9.2020) by [The Pension Protection Fund (Moratorium and Arrangements and Reconstructions for Companies in Financial Difficulty) (Amendment and Revocation) Regulations 2020 (S.I. 2020/990)](https://www.legislation.gov.uk/uksi/2020/990), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/990/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2020/990/regulation/5)
+[^c-12390dbac9eb627fa2da252ef150ef94]: Textual amendment: Words in reg. 3 substituted (16.9.2020) by [The Pension Protection Fund (Moratorium and Arrangements and Reconstructions for Companies in Financial Difficulty) (Amendment and Revocation) Regulations 2020 (S.I. 2020/990)](https://www.legislation.gov.uk/uksi/2020/990), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/990/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2020/990/regulation/5)
 
 [^c24187321]: Marginal citation: Section 901A was inserted by section 7 of, and schedule 9 to, the [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12).
 

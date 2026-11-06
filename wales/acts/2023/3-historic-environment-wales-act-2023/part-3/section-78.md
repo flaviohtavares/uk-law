@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78. Consultation before listing or de-listing building[^key-143ae740e11c395095b5d27248f9736d][^key-31c4874c0cae457871e5f0c86ee589f5]
+## 78. Consultation before listing or de-listing building[^c-143ae740e11c395095b5d27248f9736d][^c-31c4874c0cae457871e5f0c86ee589f5]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-143ae740e11c395095b5d27248f9736d]: Commencement: S. 78 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-143ae740e11c395095b5d27248f9736d]: Commencement: S. 78 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-31c4874c0cae457871e5f0c86ee589f5]: Commencement: [S. 78](https://www.legislation.gov.uk/asc/2023/3/section/78) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-31c4874c0cae457871e5f0c86ee589f5]: Commencement: [S. 78](https://www.legislation.gov.uk/asc/2023/3/section/78) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

@@ -33,74 +33,74 @@ of 22 December 1986
 
 on unfair pricing practices in maritime transport (revoked)
 
-[^key-92f490f1f72ddc1a01fea1f657a51491]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-92f490f1f72ddc1a01fea1f657a51491]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Objective[^key-92f490f1f72ddc1a01fea1f657a51491]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**Article 2.**[^key-92f490f1f72ddc1a01fea1f657a51491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**Article 3.**[^key-92f490f1f72ddc1a01fea1f657a51491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 4. Examination of injury[^key-92f490f1f72ddc1a01fea1f657a51491]
+## Article 1. Objective[^c-92f490f1f72ddc1a01fea1f657a51491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Complaint[^key-92f490f1f72ddc1a01fea1f657a51491]
+**Article 2.**[^c-92f490f1f72ddc1a01fea1f657a51491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 3.**[^c-92f490f1f72ddc1a01fea1f657a51491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 4. Examination of injury[^c-92f490f1f72ddc1a01fea1f657a51491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Consultations[^key-92f490f1f72ddc1a01fea1f657a51491]
+## Article 5. Complaint[^c-92f490f1f72ddc1a01fea1f657a51491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Initiation and subsequent investigation[^key-92f490f1f72ddc1a01fea1f657a51491]
+## Article 6. Consultations[^c-92f490f1f72ddc1a01fea1f657a51491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Confidentiality[^key-92f490f1f72ddc1a01fea1f657a51491]
+## Article 7. Initiation and subsequent investigation[^c-92f490f1f72ddc1a01fea1f657a51491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Termination of proceedings where protective measures are unnecessary[^key-92f490f1f72ddc1a01fea1f657a51491]
+## Article 8. Confidentiality[^c-92f490f1f72ddc1a01fea1f657a51491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Undertakings[^key-92f490f1f72ddc1a01fea1f657a51491]
+## Article 9. Termination of proceedings where protective measures are unnecessary[^c-92f490f1f72ddc1a01fea1f657a51491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Redressive duties[^key-92f490f1f72ddc1a01fea1f657a51491]
+## Article 10. Undertakings[^c-92f490f1f72ddc1a01fea1f657a51491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 12.**[^key-92f490f1f72ddc1a01fea1f657a51491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 13. General provisions on duties[^key-92f490f1f72ddc1a01fea1f657a51491]
+## Article 11. Redressive duties[^c-92f490f1f72ddc1a01fea1f657a51491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Review[^key-92f490f1f72ddc1a01fea1f657a51491]
+**Article 12.**[^c-92f490f1f72ddc1a01fea1f657a51491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 13. General provisions on duties[^c-92f490f1f72ddc1a01fea1f657a51491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 15.**[^key-92f490f1f72ddc1a01fea1f657a51491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 16. Refund[^key-92f490f1f72ddc1a01fea1f657a51491]
+## Article 14. Review[^c-92f490f1f72ddc1a01fea1f657a51491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1 7. Final provisions[^key-92f490f1f72ddc1a01fea1f657a51491]
+**Article 15.**[^c-92f490f1f72ddc1a01fea1f657a51491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 16. Refund[^c-92f490f1f72ddc1a01fea1f657a51491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 18. Entry into force[^key-92f490f1f72ddc1a01fea1f657a51491]
+## Article 1 7. Final provisions[^c-92f490f1f72ddc1a01fea1f657a51491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-92f490f1f72ddc1a01fea1f657a51491]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 18. Entry into force[^c-92f490f1f72ddc1a01fea1f657a51491]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-92f490f1f72ddc1a01fea1f657a51491]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-92f490f1f72ddc1a01fea1f657a51491]: Textual amendment: Regulation revoked (31.12.2020) by The Maritime Transport Access to [Trade and Cabotage (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/488)](https://www.legislation.gov.uk/uksi/2019/488), [regs. 1](https://www.legislation.gov.uk/uksi/2019/488/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/488/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-92f490f1f72ddc1a01fea1f657a51491]: Textual amendment: Regulation revoked (31.12.2020) by The Maritime Transport Access to [Trade and Cabotage (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/488)](https://www.legislation.gov.uk/uksi/2019/488), [regs. 1](https://www.legislation.gov.uk/uksi/2019/488/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/488/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

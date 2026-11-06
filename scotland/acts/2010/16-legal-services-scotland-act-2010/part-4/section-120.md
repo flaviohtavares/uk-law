@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 120. Regulation of the Faculty[^key-2881e70bf56e36df6f977139f2c8cd51]
+## 120. Regulation of the Faculty[^c-2881e70bf56e36df6f977139f2c8cd51]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2881e70bf56e36df6f977139f2c8cd51]: Commencement: [S. 120](https://www.legislation.gov.uk/asp/2010/16/section/120) in force at 1.6.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 5(a)](https://www.legislation.gov.uk/ssi/2011/180/article/5/a)
+[^c-2881e70bf56e36df6f977139f2c8cd51]: Commencement: [S. 120](https://www.legislation.gov.uk/asp/2010/16/section/120) in force at 1.6.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 5(a)](https://www.legislation.gov.uk/ssi/2011/180/article/5/a)

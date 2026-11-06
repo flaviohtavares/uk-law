@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Enquiries about scheme members[^key-a8e4ce17a78c7f5de6123912290f0f98][^key-d0188832d4d59bb40c21cf2b0aba075d][^key-2c573d169c1d48af0ff2422be30c9b2b][^key-d0188832d4d59bb40c21cf2b0aba075d][^key-2c573d169c1d48af0ff2422be30c9b2b]
+## 47. Enquiries about scheme members[^c-a8e4ce17a78c7f5de6123912290f0f98][^c-d0188832d4d59bb40c21cf2b0aba075d][^c-2c573d169c1d48af0ff2422be30c9b2b][^c-d0188832d4d59bb40c21cf2b0aba075d][^c-2c573d169c1d48af0ff2422be30c9b2b]
 
 *Extent: S*
 
@@ -30,8 +30,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a8e4ce17a78c7f5de6123912290f0f98]: Commencement: S. 47 in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)
+[^c-a8e4ce17a78c7f5de6123912290f0f98]: Commencement: S. 47 in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)
 
-[^key-d0188832d4d59bb40c21cf2b0aba075d]: Modification: Pt. 2 modified (28.2.2011) by [The Protection of Vulnerable Groups (Scotland) Act 2007 (Consequential Provisions) Order 2010 (S.I. 2010/2660)](https://www.legislation.gov.uk/uksi/2010/2660), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2660/article/1), [22](https://www.legislation.gov.uk/uksi/2010/2660/article/22)
+[^c-d0188832d4d59bb40c21cf2b0aba075d]: Modification: Pt. 2 modified (28.2.2011) by [The Protection of Vulnerable Groups (Scotland) Act 2007 (Consequential Provisions) Order 2010 (S.I. 2010/2660)](https://www.legislation.gov.uk/uksi/2010/2660), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2660/article/1), [22](https://www.legislation.gov.uk/uksi/2010/2660/article/22)
 
-[^key-2c573d169c1d48af0ff2422be30c9b2b]: Modification: Pt. 2 modified (28.2.2011) by [The Protection of Vulnerable Groups (Scotland) Act 2007 (Consequential Provisions) Order 2010 (S.I. 2010/2660)](https://www.legislation.gov.uk/uksi/2010/2660), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2660/article/1), [21](https://www.legislation.gov.uk/uksi/2010/2660/article/21)
+[^c-2c573d169c1d48af0ff2422be30c9b2b]: Modification: Pt. 2 modified (28.2.2011) by [The Protection of Vulnerable Groups (Scotland) Act 2007 (Consequential Provisions) Order 2010 (S.I. 2010/2660)](https://www.legislation.gov.uk/uksi/2010/2660), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2660/article/1), [21](https://www.legislation.gov.uk/uksi/2010/2660/article/21)

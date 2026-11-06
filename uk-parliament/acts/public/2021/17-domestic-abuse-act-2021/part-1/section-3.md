@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Children as victims of domestic abuse[^key-15e7f30d190089cbbca489f6e224fb33][^key-2ce34a5cd283b1b9b345f81fba087b32][^key-c9af77347d0ec66e7765a4e812b39b45]
+## 3. Children as victims of domestic abuse[^c-15e7f30d190089cbbca489f6e224fb33][^c-2ce34a5cd283b1b9b345f81fba087b32][^c-c9af77347d0ec66e7765a4e812b39b45]
 
 *Extent: E+W*
 
@@ -40,8 +40,8 @@ summary: ''
 
 ## Annotations
 
-[^key-15e7f30d190089cbbca489f6e224fb33]: Commencement: S. 3 in force at 1.10.2021 for specified purposes by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/2/c)
+[^c-15e7f30d190089cbbca489f6e224fb33]: Commencement: S. 3 in force at 1.10.2021 for specified purposes by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/2/c)
 
-[^key-2ce34a5cd283b1b9b345f81fba087b32]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/17/section/3) in force at 1.11.2021 for specified purposes by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/a)
+[^c-2ce34a5cd283b1b9b345f81fba087b32]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/17/section/3) in force at 1.11.2021 for specified purposes by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/a)
 
-[^key-c9af77347d0ec66e7765a4e812b39b45]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/17/section/3) in force at 31.1.2022 in so far as not already in force by [S.I. 2022/73](https://www.legislation.gov.uk/uksi/2022/73), [reg. 2](https://www.legislation.gov.uk/uksi/2022/73/regulation/2)
+[^c-c9af77347d0ec66e7765a4e812b39b45]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/17/section/3) in force at 31.1.2022 in so far as not already in force by [S.I. 2022/73](https://www.legislation.gov.uk/uksi/2022/73), [reg. 2](https://www.legislation.gov.uk/uksi/2022/73/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Mayor's Office for Policing and Crime[^key-cdc63dc851eda16f6ae861d3271882be]
+## 3. Mayor's Office for Policing and Crime[^c-cdc63dc851eda16f6ae861d3271882be]
 
 *Extent: E+W*
 
@@ -52,7 +52,7 @@ summary: ''
 - (a) the exercise of the duty imposed by section 8(4) (duty to have regard to police and crime plan);
 - (b) the exercise of the duty under section 37A(2) of the Police Act 1996 (duty to have regard to strategic policing requirement);
 - (c) the exercise of the duty imposed by section 39A(7) of the Police Act 1996 (duty to have regard to codes of practice issued by Secretary of State);
-- (ca)[^key-80c064dac1b8376ef368ed66bf6bd183] the exercise of the Commissioner’s functions under Part 2 of the Police Reform Act 2002 in relation to the handling of complaints;
+- (ca)[^c-80c064dac1b8376ef368ed66bf6bd183] the exercise of the Commissioner’s functions under Part 2 of the Police Reform Act 2002 in relation to the handling of complaints;
 - (d) the effectiveness and efficiency of the Commissioner's arrangements for co-operating with other persons in the exercise of the Commissioner's functions (whether under section 22A of the Police Act 1996 or otherwise);
 - (e) the effectiveness and efficiency of the Commissioner's arrangements under section 34 (engagement with local people);
 - (f) the extent to which the Commissioner has complied with section 35 (value for money);
@@ -75,6 +75,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cdc63dc851eda16f6ae861d3271882be]: Commencement: S. 3 in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-cdc63dc851eda16f6ae861d3271882be]: Commencement: S. 3 in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-80c064dac1b8376ef368ed66bf6bd183]: Textual amendment: [S. 3(8)(ca)](https://www.legislation.gov.uk/ukpga/2011/13/section/3/8/ca) inserted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 22(2)](https://www.legislation.gov.uk/ukpga/2017/3/section/22/2), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/i) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-80c064dac1b8376ef368ed66bf6bd183]: Textual amendment: [S. 3(8)(ca)](https://www.legislation.gov.uk/ukpga/2011/13/section/3/8/ca) inserted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 22(2)](https://www.legislation.gov.uk/ukpga/2017/3/section/22/2), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/i) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))

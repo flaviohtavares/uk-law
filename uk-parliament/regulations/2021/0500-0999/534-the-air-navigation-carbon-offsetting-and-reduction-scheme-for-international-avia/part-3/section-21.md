@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Applicability of MRV requirements[^key-9b8b680efe3631b8891309cd652efb15]
+## 21. Applicability of MRV requirements[^c-9b8b680efe3631b8891309cd652efb15]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b8b680efe3631b8891309cd652efb15]: Commencement: Art. 21 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-9b8b680efe3631b8891309cd652efb15]: Commencement: Art. 21 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)

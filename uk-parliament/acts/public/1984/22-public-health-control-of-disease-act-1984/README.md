@@ -33,7 +33,7 @@ An Act to consolidate certain enactments relating to the control of disease and 
 
 \[26th June1984\] [^c8860661]
 
-[^c8860671][^c8860681]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-a0a4f0d64750fd1b15d10023848ddbe3]
+[^c8860671][^c8860681]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-a0a4f0d64750fd1b15d10023848ddbe3]
 
 ## Contents
 
@@ -60,7 +60,7 @@ An Act to consolidate certain enactments relating to the control of disease and 
 
 - [Section 9 — Vessels in inland or coastal waters.](part-i/section-9.md)
 
-### Part II — Control of Disease[^key-5fe1e202e7ec46cbe1679755f539bebf]
+### Part II — Control of Disease[^c-5fe1e202e7ec46cbe1679755f539bebf]
 
 *Extent: E+W*
 
@@ -124,15 +124,15 @@ An Act to consolidate certain enactments relating to the control of disease and 
 - [Section 44 — Isolation of body of person dying with notifiable disease.](part-ii/section-44.md)
 - [Section 45 — Restriction of wakes.](part-ii/section-45.md)
 
-### Part 2A — Public Health Protection[^key-50355aedbcc3af81cfa7185f4a333d40]
+### Part 2A — Public Health Protection[^c-50355aedbcc3af81cfa7185f4a333d40]
 
 *Extent: E+W*
 
-#### Introductory[^key-50355aedbcc3af81cfa7185f4a333d40]
+#### Introductory[^c-50355aedbcc3af81cfa7185f4a333d40]
 
 - [Section 45A — Infection or contamination](part-2a/section-45a.md)
 
-#### Power to make regulations[^key-50355aedbcc3af81cfa7185f4a333d40]
+#### Power to make regulations[^c-50355aedbcc3af81cfa7185f4a333d40]
 
 - [Section 45B — Health protection regulations: international travel etc.](part-2a/section-45b.md)
 - [Section 45C — Health protection regulations: domestic](part-2a/section-45c.md)
@@ -140,7 +140,7 @@ An Act to consolidate certain enactments relating to the control of disease and 
 - [Section 45E — Medical treatment](part-2a/section-45e.md)
 - [Section 45F — Health protection regulations: supplementary](part-2a/section-45f.md)
 
-#### Orders that may be made by justice of the peace[^key-50355aedbcc3af81cfa7185f4a333d40]
+#### Orders that may be made by justice of the peace[^c-50355aedbcc3af81cfa7185f4a333d40]
 
 - [Section 45G — Power to order health measures in relation to persons](part-2a/section-45g.md)
 - [Section 45H — Power to order health measures in relation to things](part-2a/section-45h.md)
@@ -152,13 +152,13 @@ An Act to consolidate certain enactments relating to the control of disease and 
 - [Section 45N — Power to make further provision by regulations](part-2a/section-45n.md)
 - [Section 45O — Enforcement of Part 2A orders](part-2a/section-45o.md)
 
-#### Regulations under Part 2A: general[^key-50355aedbcc3af81cfa7185f4a333d40]
+#### Regulations under Part 2A: general[^c-50355aedbcc3af81cfa7185f4a333d40]
 
 - [Section 45P — General provision about regulations](part-2a/section-45p.md)
 - [Section 45Q — Parliamentary control](part-2a/section-45q.md)
 - [Section 45R — Emergency procedure](part-2a/section-45r.md)
 
-#### General[^key-50355aedbcc3af81cfa7185f4a333d40]
+#### General[^c-50355aedbcc3af81cfa7185f4a333d40]
 
 - [Section 45S — Application to territorial sea](part-2a/section-45s.md)
 - [Section 45T — Part 2A: further definitions](part-2a/section-45t.md)
@@ -237,7 +237,7 @@ An Act to consolidate certain enactments relating to the control of disease and 
 
 [^c8860681]: Modification: A Table showing the derivation of the provisions of this consolidation Act will be found at the end of the Act. The Table has no official status.
 
-[^key-a0a4f0d64750fd1b15d10023848ddbe3]: Modification: Act modified (temp.) (E.) (18.7.2020 at 12.01 a.m.) by [The Health Protection (Coronavirus, Restrictions) (England) (No. 3) Regulations 2020 (S.I. 2020/750)](https://www.legislation.gov.uk/uksi/2020/750), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/750/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2020/750/regulation/3/7) (with [reg. 19](https://www.legislation.gov.uk/uksi/2020/750/regulation/19) (as amended: (20.6.2021 at 11.55 p.m.) by [The Health Protection (Coronavirus, Restrictions) (Steps and Other Provisions) (England) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/705)](https://www.legislation.gov.uk/uksi/2021/705), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/705/regulation/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2021/705/regulation/4/1); and (18.7.2021 at 11.55 p.m.) by [The Health Protection (Coronavirus, Restrictions) (Steps etc.) (England) (Revocation and Amendment) Regulations 2021 (S.I. 2021/848)](https://www.legislation.gov.uk/uksi/2021/848), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/848/regulation/1/2), [4)](https://www.legislation.gov.uk/uksi/2021/848/regulation/4)
+[^c-a0a4f0d64750fd1b15d10023848ddbe3]: Modification: Act modified (temp.) (E.) (18.7.2020 at 12.01 a.m.) by [The Health Protection (Coronavirus, Restrictions) (England) (No. 3) Regulations 2020 (S.I. 2020/750)](https://www.legislation.gov.uk/uksi/2020/750), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/750/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2020/750/regulation/3/7) (with [reg. 19](https://www.legislation.gov.uk/uksi/2020/750/regulation/19) (as amended: (20.6.2021 at 11.55 p.m.) by [The Health Protection (Coronavirus, Restrictions) (Steps and Other Provisions) (England) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/705)](https://www.legislation.gov.uk/uksi/2021/705), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/705/regulation/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2021/705/regulation/4/1); and (18.7.2021 at 11.55 p.m.) by [The Health Protection (Coronavirus, Restrictions) (Steps etc.) (England) (Revocation and Amendment) Regulations 2021 (S.I. 2021/848)](https://www.legislation.gov.uk/uksi/2021/848), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/848/regulation/1/2), [4)](https://www.legislation.gov.uk/uksi/2021/848/regulation/4)
 
 [^c8860691]: Modification: Pt. I (ss. 1-9) modified (7.8.1991) by [S.I. 1991/1773](https://www.legislation.gov.uk/uksi/1991/1773), [art. 8(2)(3)](https://www.legislation.gov.uk/uksi/1991/1773/article/8/2/3), [Sch.2](https://www.legislation.gov.uk/uksi/1991/1773/schedule/2)
 
@@ -247,6 +247,6 @@ An Act to consolidate certain enactments relating to the control of disease and 
 
     Pt. I (ss. 1-9): certain functions transferred (10.1.1992) by [S.I. 1991/2913](https://www.legislation.gov.uk/uksi/1991/2913), [art. 8(1)(3)](https://www.legislation.gov.uk/uksi/1991/2913/article/8/1/3), [Sch.2](https://www.legislation.gov.uk/uksi/1991/2913/schedule/2)
 
-[^key-5fe1e202e7ec46cbe1679755f539bebf]: Textual amendment: Pt. II repealed (6.4.2010 for E. except in relation to ss. 13-15, 26.7.2010 for W. except in relation to ss. 13-15) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 130(1)](https://www.legislation.gov.uk/ukpga/2008/14/section/130/1), [170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3), [170(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 15 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/3); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 6(b)(f)](https://www.legislation.gov.uk/uksi/2010/708/article/6/b/f) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/708/schedule/2)); [S.I. 2010/1547](https://www.legislation.gov.uk/uksi/2010/1547), [art. 2(b)(f)](https://www.legislation.gov.uk/uksi/2010/1547/article/2/b) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1547/schedule/1))
+[^c-5fe1e202e7ec46cbe1679755f539bebf]: Textual amendment: Pt. II repealed (6.4.2010 for E. except in relation to ss. 13-15, 26.7.2010 for W. except in relation to ss. 13-15) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 130(1)](https://www.legislation.gov.uk/ukpga/2008/14/section/130/1), [170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3), [170(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 15 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/3); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 6(b)(f)](https://www.legislation.gov.uk/uksi/2010/708/article/6/b/f) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/708/schedule/2)); [S.I. 2010/1547](https://www.legislation.gov.uk/uksi/2010/1547), [art. 2(b)(f)](https://www.legislation.gov.uk/uksi/2010/1547/article/2/b) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1547/schedule/1))
 
-[^key-50355aedbcc3af81cfa7185f4a333d40]: Textual amendment: Pt. 2A inserted (21.7.2008 for specified purposes, 1.4.2009 for the insertion, insofar as relating to E., of ss. 45A, 45C, 45D, 45E, 45F, 45P, 45Q, 45R, 45S and 45T, otherwise 6.4.2010 for E. and 26.7.2010 for W.) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 129](https://www.legislation.gov.uk/ukpga/2008/14/section/129), [170(1)(b)](https://www.legislation.gov.uk/ukpga/2008/14/section/170); S.I. 2009/462, art. 3; [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 6(a)](https://www.legislation.gov.uk/uksi/2010/708/article/6/e) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/708/schedule/2)); [S.I. 2010/1547](https://www.legislation.gov.uk/uksi/2010/1547), [art. 2(e)](https://www.legislation.gov.uk/uksi/2010/1547/article/2/e/f) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1547/schedule/1))
+[^c-50355aedbcc3af81cfa7185f4a333d40]: Textual amendment: Pt. 2A inserted (21.7.2008 for specified purposes, 1.4.2009 for the insertion, insofar as relating to E., of ss. 45A, 45C, 45D, 45E, 45F, 45P, 45Q, 45R, 45S and 45T, otherwise 6.4.2010 for E. and 26.7.2010 for W.) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 129](https://www.legislation.gov.uk/ukpga/2008/14/section/129), [170(1)(b)](https://www.legislation.gov.uk/ukpga/2008/14/section/170); S.I. 2009/462, art. 3; [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 6(a)](https://www.legislation.gov.uk/uksi/2010/708/article/6/e) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/708/schedule/2)); [S.I. 2010/1547](https://www.legislation.gov.uk/uksi/2010/1547), [art. 2(e)](https://www.legislation.gov.uk/uksi/2010/1547/article/2/e/f) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1547/schedule/1))

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Performance improvement plans[^key-9f111595ef4cb7199beea16bcb0c977c]
+## 31. Performance improvement plans[^c-9f111595ef4cb7199beea16bcb0c977c]
 
 *Extent: E+W*
 
-(1)[^key-8003b523f8663fdb0c38882be0a09bb5] The Housing and Regeneration Act 2008 is amended as follows.
+(1)[^c-8003b523f8663fdb0c38882be0a09bb5] The Housing and Regeneration Act 2008 is amended as follows.
 
-(2)[^key-8003b523f8663fdb0c38882be0a09bb5] After section 218 insert—
+(2)[^c-8003b523f8663fdb0c38882be0a09bb5] After section 218 insert—
 
 > **Performance improvement plans**
 >
@@ -97,25 +97,25 @@ summary: ''
 > - (b) the duty in section 218B(2) (duty to implement a plan);
 > - (c) the duty in section 218B(4) (duty to provide copy of plan).
 
-(3)[^key-8003b523f8663fdb0c38882be0a09bb5] In section 220 (grounds for giving enforcement notice), before subsection (12) (but after the subsection (11C) inserted by section 27) insert—
+(3)[^c-8003b523f8663fdb0c38882be0a09bb5] In section 220 (grounds for giving enforcement notice), before subsection (12) (but after the subsection (11C) inserted by section 27) insert—
 
 > (11D) Case 14 is where the registered provider has failed to comply with a performance improvement plan notice.
 >
 > (11E) Case 15 is where the registered provider has a performance improvement plan which has been approved by the regulator and has failed to implement it in full.
 
-(4)[^key-8003b523f8663fdb0c38882be0a09bb5] In section 227 (grounds for imposition of a penalty), before subsection (8) (but after the subsection (7C) inserted by section 27) insert—
+(4)[^c-8003b523f8663fdb0c38882be0a09bb5] In section 227 (grounds for imposition of a penalty), before subsection (8) (but after the subsection (7C) inserted by section 27) insert—
 
 > (7D) Case 10 is where the registered provider has failed to comply with a performance improvement plan notice.
 >
 > (7E) Case 11 is where the registered provider has failed to comply with the duty in section 218B(4) (duty to provide copy of performance improvement plan).
 
-(5)[^key-8003b523f8663fdb0c38882be0a09bb5] In section 237 (grounds for award of compensation) at the end insert—
+(5)[^c-8003b523f8663fdb0c38882be0a09bb5] In section 237 (grounds for award of compensation) at the end insert—
 
 > (5) Case 4 is where the registered provider has failed to comply with a performance improvement plan notice.
 >
 > (6) Case 5 is where the registered provider has failed to comply with the duty in section 218B(4) (duty to provide copy of performance improvement plan).
 
-(6)[^key-8003b523f8663fdb0c38882be0a09bb5] In section 247 (management tender), in subsection (1), after paragraph (b) insert
+(6)[^c-8003b523f8663fdb0c38882be0a09bb5] In section 247 (management tender), in subsection (1), after paragraph (b) insert
 
 > , or
 >
@@ -127,7 +127,7 @@ summary: ''
 >
 > - (c) a registered provider has failed to comply with a performance improvement plan notice.
 
-(8)[^key-8003b523f8663fdb0c38882be0a09bb5] In section 252A (appointment of advisers to local authority), in subsection (2), at the end of paragraph (e) (inserted by paragraph 10 of Schedule 3) insert
+(8)[^c-8003b523f8663fdb0c38882be0a09bb5] In section 252A (appointment of advisers to local authority), in subsection (2), at the end of paragraph (e) (inserted by paragraph 10 of Schedule 3) insert
 
 > , or
 >
@@ -135,6 +135,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9f111595ef4cb7199beea16bcb0c977c]: Commencement: S. 31 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
+[^c-9f111595ef4cb7199beea16bcb0c977c]: Commencement: S. 31 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
 
-[^key-8003b523f8663fdb0c38882be0a09bb5]: Commencement: [S. 31(1)-(6)](https://www.legislation.gov.uk/ukpga/2023/36/section/31/1)(8) in force at 1.4.2024 by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/r)
+[^c-8003b523f8663fdb0c38882be0a09bb5]: Commencement: [S. 31(1)-(6)](https://www.legislation.gov.uk/ukpga/2023/36/section/31/1)(8) in force at 1.4.2024 by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/r)

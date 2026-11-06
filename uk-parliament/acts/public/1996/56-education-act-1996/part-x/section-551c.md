@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 551C. Power to exempt schools from duty under section 551B(1)[^key-2fccb74de381c1fee73b219f1013b4e7]
+## 551C. Power to exempt schools from duty under section 551B(1)[^c-2fccb74de381c1fee73b219f1013b4e7]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ having regard to the particular circumstances of the school or of qualifying pri
 
 ## Annotations
 
-[^key-2fccb74de381c1fee73b219f1013b4e7]: Textual amendment: Ss. 551B-551D and cross-heading inserted (15.7.2026 but only for the insertion of s. 551B(2)-(7)) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 30](https://www.legislation.gov.uk/ukpga/2026/21/section/30), [78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/i)
+[^c-2fccb74de381c1fee73b219f1013b4e7]: Textual amendment: Ss. 551B-551D and cross-heading inserted (15.7.2026 but only for the insertion of s. 551B(2)-(7)) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 30](https://www.legislation.gov.uk/ukpga/2026/21/section/30), [78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/i)

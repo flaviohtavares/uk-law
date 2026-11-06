@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Redress: right to acquire a freehold or superior leasehold estate[^key-0402d75908939ab054fd073eec9502df]
+## 13. Redress: right to acquire a freehold or superior leasehold estate[^c-0402d75908939ab054fd073eec9502df]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0402d75908939ab054fd073eec9502df]: Commencement: S. 13 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-0402d75908939ab054fd073eec9502df]: Commencement: S. 13 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

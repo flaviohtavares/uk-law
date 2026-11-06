@@ -26,7 +26,7 @@ summary: ''
 
 ### PART 1 — SUPPLEMENTARY PROVISION ABOUT ORDERS TO END RIGHTS OVER LAND ETC. OF STATUTORY UNDERTAKERS AND NETWORK OPERATORS
 
-#### 1. Supplementary provision about orders under section 315(3)[^key-d5f31fedde1f53034b98e0d08ca7f83f]
+#### 1. Supplementary provision about orders under section 315(3)[^c-d5f31fedde1f53034b98e0d08ca7f83f]
 
 (1) This paragraph makes provision about orders under section 315(3).
 
@@ -42,7 +42,7 @@ summary: ''
 
 (5) In this paragraph “**the Ministers**” means the Welsh Ministers and the appropriate Minister.
 
-#### 2. Supplementary provision about orders under section 315(4)[^key-8fa9157ce0bd16e542c9a6d1a2096ee6]
+#### 2. Supplementary provision about orders under section 315(4)[^c-8fa9157ce0bd16e542c9a6d1a2096ee6]
 
 (1) This paragraph makes provision about orders under section 315(4).
 
@@ -62,7 +62,7 @@ summary: ''
 
 ### PART 2 — PROCEDURE FOR MAKING ORDERS TO EXTEND OR MODIFY STATUTORY UNDERTAKERS’ FUNCTIONS
 
-#### 3. Requirement to publicise a representation made under section 317(1)[^key-09b1a912b6242f9354a64827c1b0434a]
+#### 3. Requirement to publicise a representation made under section 317(1)[^c-09b1a912b6242f9354a64827c1b0434a]
 
 (1) As soon as possible after making a representation mentioned in section 317(1), a statutory undertaker, a local authority or a government department—
 
@@ -76,14 +76,14 @@ summary: ''
 - (c) state that an objection to the making of an order on the representation may be made to the Welsh Ministers and the appropriate Minister, and
 - (d) specify the way in which, and the period within which, an objection may be made.
 
-#### 4. Requirements for objection to making of order[^key-3717d54b3fa27273d7a33a7a435fcd15]
+#### 4. Requirements for objection to making of order[^c-3717d54b3fa27273d7a33a7a435fcd15]
 
 An objection to the making of an order under section 317 must—
 
 - (a) be made in the way, and within the period, specified in the notice under paragraph 3, and
 - (b) include a statement of the grounds of the objection (either in the objection or in a document included with it).
 
-#### 5. Effect of objection being made to making of order[^key-3019a76f4412bb4b14325d24d31adad0]
+#### 5. Effect of objection being made to making of order[^c-3019a76f4412bb4b14325d24d31adad0]
 
 (1) This paragraph applies where an objection to the making of an order under section 317 has been made in accordance with paragraph 4 and not withdrawn.
 
@@ -117,7 +117,7 @@ the Welsh Ministers and the appropriate Minister may decide whether to make the 
 
 (9) Where the Welsh Ministers and the appropriate Minister decide to cause a local inquiry to be held, they are not required to comply with any of the requirements of sub-paragraphs (2), (6) and (7) that have not been complied with at the time of that decision.
 
-#### 6. Procedure for approving order[^key-5c5cb9ea360c07e2e28e51d219b0ba7e]
+#### 6. Procedure for approving order[^c-5c5cb9ea360c07e2e28e51d219b0ba7e]
 
 An order under section 317—
 
@@ -126,7 +126,7 @@ An order under section 317—
 
 ### PART 3 — PROCEDURE FOR MAKING ORDERS TO RELIEVE STATUTORY UNDERTAKERS OF IMPRACTICABLE OBLIGATIONS
 
-#### 7. Requirement to publicise a representation made under section 318(1)[^key-5bf647842eaedc3b41177729c77c03e3]
+#### 7. Requirement to publicise a representation made under section 318(1)[^c-5bf647842eaedc3b41177729c77c03e3]
 
 (1) The appropriate Minister may direct a statutory undertaker that makes a representation mentioned in section 318(1) to publicise the representation in either or both of the following ways—
 
@@ -142,14 +142,14 @@ An order under section 317—
 - (c) state that an objection to the making of an order on the representation may be made to the appropriate Minister, and
 - (d) specify the way in which, and the period within which, an objection may be made.
 
-#### 8. Requirements for objection to making of order[^key-efbd5b66e137148461612b05d6b21975]
+#### 8. Requirements for objection to making of order[^c-efbd5b66e137148461612b05d6b21975]
 
 An objection to the making of an order under section 318 must—
 
 - (a) be made in the way, and within the period, specified in the notice under paragraph 7, and
 - (b) include a statement of the grounds of the objection (either in the objection or in a document included with it).
 
-#### 9. Effect of objection being made to making of order[^key-fc28b010146251b817c814fb65298f4a]
+#### 9. Effect of objection being made to making of order[^c-fc28b010146251b817c814fb65298f4a]
 
 (1) This paragraph applies where an objection to the making of an order under section 318 has been made in accordance with paragraph 8 and not withdrawn.
 
@@ -183,7 +183,7 @@ the appropriate Minister may decide whether to make the order without carrying o
 
 (9) Where the appropriate Minister decides to cause a local inquiry to be held, the Minister is not required to comply with any of the requirements of sub-paragraphs (2), (6) and (7) that have not been complied with at the time of that decision.
 
-#### 10. Procedure in Senedd Cymru or UK Parliament where objection is made[^key-f6b9dee5724a1c1754b76ab0a3eb3bf3]
+#### 10. Procedure in Senedd Cymru or UK Parliament where objection is made[^c-f6b9dee5724a1c1754b76ab0a3eb3bf3]
 
 (1) Where an objection to the making of an order under section 318 has been made in accordance with paragraph 8 and has not been withdrawn before the relevant time, the order is—
 
@@ -195,7 +195,7 @@ the appropriate Minister may decide whether to make the order without carrying o
 - (a) in relation to orders to be made by the Welsh Ministers, the time at which the Welsh Ministers comply with the final requirement that applies under paragraph 9;
 - (b) in relation to orders made by a Minister of the Crown, the time at which the order is made.
 
-#### 11. Publicising order once made[^key-5b55ca9a8c015fb6124e24a0bce34fc1]
+#### 11. Publicising order once made[^c-5b55ca9a8c015fb6124e24a0bce34fc1]
 
 Immediately after making an order under section 318, the appropriate Minister must—
 
@@ -206,7 +206,7 @@ Immediately after making an order under section 318, the appropriate Minister mu
   - (i) on any person who made an objection in accordance with paragraph 8 and has sent a request for notice to the appropriate Minister, specifying an address for service, and
   - (ii) on any other person the appropriate Minister considers appropriate.
 
-#### 12. Date order takes effect[^key-0c5becce2ec886d4b05ee8994e04b882]
+#### 12. Date order takes effect[^c-0c5becce2ec886d4b05ee8994e04b882]
 
 (1) An order under section 318 takes effect on the day the notice is first published in accordance with paragraph 11(a).
 
@@ -217,26 +217,26 @@ Immediately after making an order under section 318, the appropriate Minister mu
 
 ## Annotations
 
-[^key-d5f31fedde1f53034b98e0d08ca7f83f]: Commencement: Sch. 18 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-d5f31fedde1f53034b98e0d08ca7f83f]: Commencement: Sch. 18 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-8fa9157ce0bd16e542c9a6d1a2096ee6]: Commencement: Sch. 18 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-8fa9157ce0bd16e542c9a6d1a2096ee6]: Commencement: Sch. 18 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-09b1a912b6242f9354a64827c1b0434a]: Commencement: Sch. 18 para. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-09b1a912b6242f9354a64827c1b0434a]: Commencement: Sch. 18 para. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-3717d54b3fa27273d7a33a7a435fcd15]: Commencement: Sch. 18 para. 4 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-3717d54b3fa27273d7a33a7a435fcd15]: Commencement: Sch. 18 para. 4 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-3019a76f4412bb4b14325d24d31adad0]: Commencement: Sch. 18 para. 5 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-3019a76f4412bb4b14325d24d31adad0]: Commencement: Sch. 18 para. 5 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-5c5cb9ea360c07e2e28e51d219b0ba7e]: Commencement: Sch. 18 para. 6 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-5c5cb9ea360c07e2e28e51d219b0ba7e]: Commencement: Sch. 18 para. 6 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-5bf647842eaedc3b41177729c77c03e3]: Commencement: Sch. 18 para. 7 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-5bf647842eaedc3b41177729c77c03e3]: Commencement: Sch. 18 para. 7 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-efbd5b66e137148461612b05d6b21975]: Commencement: Sch. 18 para. 8 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-efbd5b66e137148461612b05d6b21975]: Commencement: Sch. 18 para. 8 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-fc28b010146251b817c814fb65298f4a]: Commencement: Sch. 18 para. 9 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-fc28b010146251b817c814fb65298f4a]: Commencement: Sch. 18 para. 9 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-f6b9dee5724a1c1754b76ab0a3eb3bf3]: Commencement: Sch. 18 para. 10 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-f6b9dee5724a1c1754b76ab0a3eb3bf3]: Commencement: Sch. 18 para. 10 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-5b55ca9a8c015fb6124e24a0bce34fc1]: Commencement: Sch. 18 para. 11 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-5b55ca9a8c015fb6124e24a0bce34fc1]: Commencement: Sch. 18 para. 11 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-0c5becce2ec886d4b05ee8994e04b882]: Commencement: Sch. 18 para. 12 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-0c5becce2ec886d4b05ee8994e04b882]: Commencement: Sch. 18 para. 12 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

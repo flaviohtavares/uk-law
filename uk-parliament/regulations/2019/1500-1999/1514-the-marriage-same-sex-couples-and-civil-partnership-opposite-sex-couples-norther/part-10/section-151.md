@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Court fees orders of 1996[^key-f548d711b715cb643f4252d248471dd0]
+## 151. Court fees orders of 1996[^c-f548d711b715cb643f4252d248471dd0]
 
 *Extent: N.I.*
 
@@ -31,7 +31,7 @@ In each of the following provisions, for “married couple or an unmarried coupl
 
 ## Annotations
 
-[^key-f548d711b715cb643f4252d248471dd0]: Commencement: Reg. 151 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-f548d711b715cb643f4252d248471dd0]: Commencement: Reg. 151 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00252]: Footnote: The reference is to section 3(5A) of the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), which was inserted by the Civil Partnership Act 2004, Schedule 24, paragraph 144, and amended by [S.I. 2019/1458](https://www.legislation.gov.uk/uksi/2019/1458).
 

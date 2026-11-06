@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 85. Authority by which recovery may be made[^key-dff3f07c227b2fbf6008c16451281d90]
+## 85. Authority by which recovery may be made[^c-dff3f07c227b2fbf6008c16451281d90]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The appropriate authority which allowed the recoverable excess benefits may reco
 
 ## Annotations
 
-[^key-dff3f07c227b2fbf6008c16451281d90]: Commencement: [Reg. 85](https://www.legislation.gov.uk/uksi/1989/1321/regulation/85) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-dff3f07c227b2fbf6008c16451281d90]: Commencement: [Reg. 85](https://www.legislation.gov.uk/uksi/1989/1321/regulation/85) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)

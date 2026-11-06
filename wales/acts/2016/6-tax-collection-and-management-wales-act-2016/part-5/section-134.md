@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 134. Meaning of “potential lost revenue”[^key-61ca4c32711629f8d408f2e755b5ddd5]
+## 134. Meaning of “potential lost revenue”[^c-61ca4c32711629f8d408f2e755b5ddd5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In this Chapter, “**potential lost revenue**” has the meaning given by secti
 
 ## Annotations
 
-[^key-61ca4c32711629f8d408f2e755b5ddd5]: Commencement: S. 134 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)
+[^c-61ca4c32711629f8d408f2e755b5ddd5]: Commencement: S. 134 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)

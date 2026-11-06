@@ -25,7 +25,7 @@ summary: ''
 (2) No document may be inspected—
 
 - (a) where that document was prepared by the comptroller, an examiner or the Patent Office for internal use only;
-- (b) where the circumstances specified in section 118(4) exist, before the end of the period of 14 days beginning immediately after[^key-a43993208d68517cfb348df7396b3c41] the date of the notification under rule 52(2);
+- (b) where the circumstances specified in section 118(4) exist, before the end of the period of 14 days beginning immediately after[^c-a43993208d68517cfb348df7396b3c41] the date of the notification under rule 52(2);
 - (c) where that document is a request or application made under section 118 or rule 46(2), 48(2) or 54(1); or
 - (d) where that document includes matter—
   - (i) which in the comptroller's opinion disparages any person in a way likely to damage him, or
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a43993208d68517cfb348df7396b3c41]: Textual amendment: Words in [rule 51(2)(b)](https://www.legislation.gov.uk/uksi/2007/3291/rule/51/2/b) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
+[^c-a43993208d68517cfb348df7396b3c41]: Textual amendment: Words in [rule 51(2)(b)](https://www.legislation.gov.uk/uksi/2007/3291/rule/51/2/b) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))

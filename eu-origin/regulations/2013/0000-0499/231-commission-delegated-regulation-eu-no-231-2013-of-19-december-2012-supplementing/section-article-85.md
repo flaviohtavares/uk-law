@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. Where a cash account is maintained or opened at an entity referred to in rule 3.11.20 of the Investment Funds sourcebook[^key-ba01510c9070f2f3f99c5687dc97fe9b] in the name of the AIF, in the name of the AIFM acting on behalf of the AIF or in the name of the depositary acting on behalf of the AIF, an AIFM shall ensure that the depositary is provided, upon commencement of its duties and on an ongoing basis, with all relevant information it needs to comply with its obligations.
+1. Where a cash account is maintained or opened at an entity referred to in rule 3.11.20 of the Investment Funds sourcebook[^c-ba01510c9070f2f3f99c5687dc97fe9b] in the name of the AIF, in the name of the AIFM acting on behalf of the AIF or in the name of the depositary acting on behalf of the AIF, an AIFM shall ensure that the depositary is provided, upon commencement of its duties and on an ongoing basis, with all relevant information it needs to comply with its obligations.
 
 2. In order to have access to all information regarding the AIF’s cash accounts and have a clear overview of all the AIF’s cash flows, a depositary shall at least:
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba01510c9070f2f3f99c5687dc97fe9b]: Textual amendment: Words in Art. 85(1) substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [34(2)](https://www.legislation.gov.uk/uksi/2019/328/regulation/34) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ba01510c9070f2f3f99c5687dc97fe9b]: Textual amendment: Words in Art. 85(1) substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [34(2)](https://www.legislation.gov.uk/uksi/2019/328/regulation/34) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

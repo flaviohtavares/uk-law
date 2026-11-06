@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1136. “Qualifying distribution”[^key-e63283087f0dcd4be3868dc865f7efc0]
+## 1136. “Qualifying distribution”[^c-e63283087f0dcd4be3868dc865f7efc0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e63283087f0dcd4be3868dc865f7efc0]: Textual amendment: [S. 1136](https://www.legislation.gov.uk/ukpga/2010/4/section/1136) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 47](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/47)
+[^c-e63283087f0dcd4be3868dc865f7efc0]: Textual amendment: [S. 1136](https://www.legislation.gov.uk/ukpga/2010/4/section/1136) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 47](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/47)

@@ -103,7 +103,7 @@ HAS ADOPTED THIS REGULATION:
 
 **Article 2.** This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-63e0deb61493f0fb27ea0a7fecc78657]...
+[^c-63e0deb61493f0fb27ea0a7fecc78657]...
 
 Done at Brussels, 4 February 2013.
 
@@ -119,7 +119,7 @@ José Manuel Barroso
 
 1\.
 
-Lactic acid solutions must only be prepared from lactic acid which complies with the specifications set out in accordance with authorisations for food additives under Regulation (EC) No 1333/2008[^key-1f4425203944f94bfd5a05095fabecfd].
+Lactic acid solutions must only be prepared from lactic acid which complies with the specifications set out in accordance with authorisations for food additives under Regulation (EC) No 1333/2008[^c-1f4425203944f94bfd5a05095fabecfd].
 
 2\.
 
@@ -167,6 +167,6 @@ Food business operators operating slaughterhouses in which lactic acid solutions
 
 [^f00005]: Footnote: [OJ L 83, 22.3.2012, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2012.083.01.0001.01.ENG).
 
-[^key-63e0deb61493f0fb27ea0a7fecc78657]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2013/101/signature) omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [51](https://www.legislation.gov.uk/uksi/2019/640/regulation/51); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-63e0deb61493f0fb27ea0a7fecc78657]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2013/101/signature) omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [51](https://www.legislation.gov.uk/uksi/2019/640/regulation/51); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1f4425203944f94bfd5a05095fabecfd]: Textual amendment: Words in Annex Pt. 1 para. 1 substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 9 para. 3(2)](https://www.legislation.gov.uk/uksi/2025/361/schedule/9/paragraph/3/2)
+[^c-1f4425203944f94bfd5a05095fabecfd]: Textual amendment: Words in Annex Pt. 1 para. 1 substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 9 para. 3(2)](https://www.legislation.gov.uk/uksi/2025/361/schedule/9/paragraph/3/2)

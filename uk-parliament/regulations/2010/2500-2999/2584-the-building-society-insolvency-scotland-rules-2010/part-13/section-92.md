@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 92. Notice of meeting[^key-487ee0a506cfc5446262d3957a70995d]
+## 92. Notice of meeting[^c-487ee0a506cfc5446262d3957a70995d]
 
 *Extent: S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-487ee0a506cfc5446262d3957a70995d]: Commencement: Rule 92 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-487ee0a506cfc5446262d3957a70995d]: Commencement: Rule 92 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^f00041]: Footnote: Rule 7.3 was amended by paragraph 35 of Schedule 1(I) to [S.I. 1987/1921](https://www.legislation.gov.uk/uksi/1987/1921), paragraph 7 of Schedule 2 to [S.I. 2003/2111](https://www.legislation.gov.uk/uksi/2003/2111) and rules 12 and 13 of [S.I. 2009/662(S.1)](https://www.legislation.gov.uk/uksi/2009/662).

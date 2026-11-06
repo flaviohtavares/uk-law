@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 11. Provincial panel: period of inclusion[^key-c9e7c91fd82ab3d7defb19519f629a6b]
+## 11. Provincial panel: period of inclusion[^c-c9e7c91fd82ab3d7defb19519f629a6b]
 
 *Extent: E*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9e7c91fd82ab3d7defb19519f629a6b]: Commencement: S. 11 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-c9e7c91fd82ab3d7defb19519f629a6b]: Commencement: S. 11 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

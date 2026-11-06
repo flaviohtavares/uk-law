@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Meaning of “owner-occupier crofter” etc.[^key-52c655d65e478dfda51477ea60322518]
+## 12. Meaning of “owner-occupier crofter” etc.[^c-52c655d65e478dfda51477ea60322518]
 
 *Extent: S*
 
@@ -99,4 +99,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52c655d65e478dfda51477ea60322518]: Commencement: S. 12 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-52c655d65e478dfda51477ea60322518]: Commencement: S. 12 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

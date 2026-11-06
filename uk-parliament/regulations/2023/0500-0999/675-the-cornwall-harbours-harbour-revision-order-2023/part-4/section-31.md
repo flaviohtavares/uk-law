@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Power to make general directions as to use of the harbours, etc.[^key-01352db3b68109f6ea2022ef5aac6aed]
+## 31. Power to make general directions as to use of the harbours, etc.[^c-01352db3b68109f6ea2022ef5aac6aed]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ and every direction must specify the extent of its application including its geo
 
 ## Annotations
 
-[^key-01352db3b68109f6ea2022ef5aac6aed]: Commencement: Art. 31 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-01352db3b68109f6ea2022ef5aac6aed]: Commencement: Art. 31 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
 
 [^f00018]: Footnote: The public register of all in force directions may be inspected during office hours at the relevant Harbour offices located at Bude Harbour Office, Bude Visitor Centre, The Crescent, Bude EX23 8LE, Newquay Harbour Office, South Quay, Newquay TR7 1HR, Penryn Harbour Office, Exchequer Quay, Commercial Road, Penryn TR10 8LS, Penzance Harbour Office, North Arm, Wharf Road, Penzance TR18 4AH, St Ives Harbour Office, Smeatons Pier, St Ives TR26 1LP, Truro Harbour Office, Town Quay, Truro TR1 2HJ and available via the Council’s harbours website at www.cornwallharbours.co.uk.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Water main requisitions: financial conditions[^key-4154ea89ad00e349e35b4895a6336d94]
+## 90. Water main requisitions: financial conditions[^c-4154ea89ad00e349e35b4895a6336d94]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4154ea89ad00e349e35b4895a6336d94]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2003/37/section/90) in force at 28.5.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/641/article/4/a) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-4154ea89ad00e349e35b4895a6336d94]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2003/37/section/90) in force at 28.5.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/641/article/4/a) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))

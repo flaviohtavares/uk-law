@@ -405,7 +405,7 @@ The Secretary of State shall not be required to prepare a report under section 1
 
 ### Safety zones
 
-#### 21. Automatic establishment of safety zones.[^c788883][^c788884][^c788885][^key-f0e71d2f597078c802831a000967ce8a]
+#### 21. Automatic establishment of safety zones.[^c788883][^c788884][^c788885][^c-f0e71d2f597078c802831a000967ce8a]
 
 (1) Subject to subsections (3) and (4), there shall be a safety zone around every installation which, or part of which, is in waters to which subsection (7) applies if—
 
@@ -416,12 +416,12 @@ The Secretary of State shall not be required to prepare a report under section 1
 (2) The activities referred to in subsection (1) are—
 
 - (a) the exploitation or exploration of mineral resources in or under the shore or bed of waters to which subsection (7) applies;
-- (aa)[^key-324ade9b19c1fab3598b30418658d38b] the exploration of any place in, under or over such waters with a view to the storage of gas in such a place;
+- (aa)[^c-324ade9b19c1fab3598b30418658d38b] the exploration of any place in, under or over such waters with a view to the storage of gas in such a place;
 - (ab) the conversion of any place in, under or over such waters for the purpose of storing gas;
-- (b) the storage of gas in, under or over[^key-1443b4469998692ea34d2c65a2dc6316] such waters or the recovery of gas so stored;
-- (ba)[^key-1f93a3dd3f395c3a2487f7b1351102fc] the unloading of gas at any place in, under or over such waters;
+- (b) the storage of gas in, under or over[^c-1443b4469998692ea34d2c65a2dc6316] such waters or the recovery of gas so stored;
+- (ba)[^c-1f93a3dd3f395c3a2487f7b1351102fc] the unloading of gas at any place in, under or over such waters;
 - (c) the conveyance of things by means of a pipe, or system of pipes, constructed or placed on, in or under the shore or bed of such waters;
-- (d) the provision of accommodation for persons who work on or from an installation satisfying the condition in any of paragraphs (a) to (c)[^key-eb34cdea991a101bad7dfc9ce5ce0fd3] of subsection (1).
+- (d) the provision of accommodation for persons who work on or from an installation satisfying the condition in any of paragraphs (a) to (c)[^c-eb34cdea991a101bad7dfc9ce5ce0fd3] of subsection (1).
 
 (3) Subsection (1) shall not apply to an installation in respect of which an order under section 22 has effect, or to one which—
 
@@ -439,7 +439,7 @@ The Secretary of State shall not be required to prepare a report under section 1
 - (a) tidal waters and parts of the sea in or adjacent to the United Kingdom up to the seaward limits of the territorial sea, and
 - (b) waters in an area designated under section 1(7) of the Continental Shelf Act 1964.
 
-(8)[^key-9a90e72274065dee85e4fe72371daf39] In this section “ **gas** ” means gas within the meaning of section 2(4) of the Energy Act 2008.
+(8)[^c-9a90e72274065dee85e4fe72371daf39] In this section “ **gas** ” means gas within the meaning of section 2(4) of the Energy Act 2008.
 
 #### 22. Establishment of safety zones by order.[^c788890][^c788891][^c788892][^c788893]
 
@@ -449,7 +449,7 @@ The Secretary of State shall not be required to prepare a report under section 1
 
 (3) An order under this section may be made in anticipation of an installation’s arriving at its station, so as to come into force when it does so.
 
-#### 23. Safety zones: offences.[^c788933][^c788934][^c788935][^key-88689547d3759b193af5fc494ac8fcbe]
+#### 23. Safety zones: offences.[^c788933][^c788934][^c788935][^c-88689547d3759b193af5fc494ac8fcbe]
 
 *Extent: E+W+S*
 
@@ -479,7 +479,7 @@ The Secretary of State shall not be required to prepare a report under section 1
 - (b) in relation to submersible apparatus, means the person in charge of the apparatus, and
 - (c) in relation to an installation in transit, means the person in charge of the transit operation.
 
-#### 23. Safety zones: offences.[^c788928][^c788929][^key-88689547d3759b193af5fc494ac8fcbe]
+#### 23. Safety zones: offences.[^c788928][^c788929][^c-88689547d3759b193af5fc494ac8fcbe]
 
 *Extent: N.I.*
 
@@ -509,7 +509,7 @@ The Secretary of State shall not be required to prepare a report under section 1
 - (b) in relation to submersible apparatus, means the person in charge of the apparatus, and
 - (c) in relation to an installation in transit, means the person in charge of the transit operation.
 
-#### 24. Safety zones: supplementary.[^c788998][^c788999][^c789000][^key-22547861f959e2306551d30109529ccb]
+#### 24. Safety zones: supplementary.[^c788998][^c788999][^c789000][^c-22547861f959e2306551d30109529ccb]
 
 *Extent: E+W+S*
 
@@ -522,7 +522,7 @@ shall be taken to be an installation.
 
 (2) Any power to make orders or regulations under sections 21 to 23 shall be exercisable by statutory instrument, and a statutory instrument containing an order under section 21 or regulations under section 23 shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(2A)[^c789002] It shall be the duty of the Health and Safety Executive[^key-19ec9094063e81a02609724c5059ad0f] to submit from time to time to the Secretary of State such proposals as the Executive considers appropriate for the making of orders under section 21 or 22.
+(2A)[^c789002] It shall be the duty of the Health and Safety Executive[^c-19ec9094063e81a02609724c5059ad0f] to submit from time to time to the Secretary of State such proposals as the Executive considers appropriate for the making of orders under section 21 or 22.
 
 (3) Sections 21 to 23—
 
@@ -535,7 +535,7 @@ shall be taken to be an installation.
 
 (6) [^c2027227]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 24. Safety zones: supplementary.[^c788989][^c788990][^key-22547861f959e2306551d30109529ccb]
+#### 24. Safety zones: supplementary.[^c788989][^c788990][^c-22547861f959e2306551d30109529ccb]
 
 *Extent: N.I.*
 
@@ -1522,21 +1522,21 @@ SCHEDULES
 
     Ss. 21- 23 applied (19.3.1997) by [1997 c. 28](https://www.legislation.gov.uk/ukpga/1997/28) s. 13, Sch. 2, para. 4(6)(b)
 
-[^key-f0e71d2f597078c802831a000967ce8a]: Modification: S. 21 applied (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 32](https://www.legislation.gov.uk/ukpga/2008/32/section/32), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(a)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/a/ii)
+[^c-f0e71d2f597078c802831a000967ce8a]: Modification: S. 21 applied (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 32](https://www.legislation.gov.uk/ukpga/2008/32/section/32), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(a)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/a/ii)
 
-[^key-324ade9b19c1fab3598b30418658d38b]: Textual amendment: S. 21(2)(aa)(ab) inserted (13.11.2009 for specified purposes) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 1 para. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2008/32/schedule/1/paragraph/4/2/a); [S.I. 2009/2809](https://www.legislation.gov.uk/uksi/2009/2809), [art. 2](https://www.legislation.gov.uk/uksi/2009/2809/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/2809/article/4))
+[^c-324ade9b19c1fab3598b30418658d38b]: Textual amendment: S. 21(2)(aa)(ab) inserted (13.11.2009 for specified purposes) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 1 para. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2008/32/schedule/1/paragraph/4/2/a); [S.I. 2009/2809](https://www.legislation.gov.uk/uksi/2009/2809), [art. 2](https://www.legislation.gov.uk/uksi/2009/2809/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/2809/article/4))
 
-[^key-1443b4469998692ea34d2c65a2dc6316]: Textual amendment: Words in s. 21(2)(b) substituted (13.11.2009 for specified purposes) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 1 para. 4(2)(b)](https://www.legislation.gov.uk/ukpga/2008/32/schedule/1/paragraph/4/2/b); [S.I. 2009/2809](https://www.legislation.gov.uk/uksi/2009/2809), [art. 2](https://www.legislation.gov.uk/uksi/2009/2809/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/2809/article/4))
+[^c-1443b4469998692ea34d2c65a2dc6316]: Textual amendment: Words in s. 21(2)(b) substituted (13.11.2009 for specified purposes) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 1 para. 4(2)(b)](https://www.legislation.gov.uk/ukpga/2008/32/schedule/1/paragraph/4/2/b); [S.I. 2009/2809](https://www.legislation.gov.uk/uksi/2009/2809), [art. 2](https://www.legislation.gov.uk/uksi/2009/2809/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/2809/article/4))
 
-[^key-1f93a3dd3f395c3a2487f7b1351102fc]: Textual amendment: S. 21(2)(ba) inserted (13.11.2009 for specified purposes) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 1 para. 4(2)(c)](https://www.legislation.gov.uk/ukpga/2008/32/schedule/1/paragraph/4/2/c); [S.I. 2009/2809](https://www.legislation.gov.uk/uksi/2009/2809), [art. 2](https://www.legislation.gov.uk/uksi/2009/2809/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/2809/article/4))
+[^c-1f93a3dd3f395c3a2487f7b1351102fc]: Textual amendment: S. 21(2)(ba) inserted (13.11.2009 for specified purposes) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 1 para. 4(2)(c)](https://www.legislation.gov.uk/ukpga/2008/32/schedule/1/paragraph/4/2/c); [S.I. 2009/2809](https://www.legislation.gov.uk/uksi/2009/2809), [art. 2](https://www.legislation.gov.uk/uksi/2009/2809/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/2809/article/4))
 
-[^key-eb34cdea991a101bad7dfc9ce5ce0fd3]: Textual amendment: Words in s. 21(2)(d) substituted (13.11.2009 for specified purposes) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 1 para. 4(2)(d)](https://www.legislation.gov.uk/ukpga/2008/32/schedule/1/paragraph/4/2/d); [S.I. 2009/2809](https://www.legislation.gov.uk/uksi/2009/2809), [art. 2](https://www.legislation.gov.uk/uksi/2009/2809/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/2809/article/4))
+[^c-eb34cdea991a101bad7dfc9ce5ce0fd3]: Textual amendment: Words in s. 21(2)(d) substituted (13.11.2009 for specified purposes) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 1 para. 4(2)(d)](https://www.legislation.gov.uk/ukpga/2008/32/schedule/1/paragraph/4/2/d); [S.I. 2009/2809](https://www.legislation.gov.uk/uksi/2009/2809), [art. 2](https://www.legislation.gov.uk/uksi/2009/2809/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/2809/article/4))
 
 [^c788886]: Modification: S. 21(7) modified (E.W.S.) (6. 3. 1992) by [Offshore Safety Act 1992 (c. 15)](https://www.legislation.gov.uk/ukpga/1992/15), [s. 1(5)(c)](https://www.legislation.gov.uk/ukpga/1992/15/section/1/5/c).
 
     S. 21(7) modified (N.I.) (15.9.1992) by [S.I. 1992/1728 (N.I. 17)](https://www.legislation.gov.uk/nisi/1992/1728), [arts. 1(2)](https://www.legislation.gov.uk/nisi/1992/1728/article/1/2), [3(5)](https://www.legislation.gov.uk/nisi/1992/1728/article/3/5)
 
-[^key-9a90e72274065dee85e4fe72371daf39]: Textual amendment: S. 21(8) inserted (13.11.2009 for specified purposes) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/ukpga/2008/32/schedule/1/paragraph/4/3); [S.I. 2009/2809](https://www.legislation.gov.uk/uksi/2009/2809), [art. 2](https://www.legislation.gov.uk/uksi/2009/2809/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/2809/article/4))
+[^c-9a90e72274065dee85e4fe72371daf39]: Textual amendment: S. 21(8) inserted (13.11.2009 for specified purposes) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/ukpga/2008/32/schedule/1/paragraph/4/3); [S.I. 2009/2809](https://www.legislation.gov.uk/uksi/2009/2809), [art. 2](https://www.legislation.gov.uk/uksi/2009/2809/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/2809/article/4))
 
 [^c788890]: Subordinate legislation: S. 22: for exercises of this power see Index to Government Orders
 
@@ -1566,7 +1566,7 @@ SCHEDULES
 
 [^c788935]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only.
 
-[^key-88689547d3759b193af5fc494ac8fcbe]: Modification: S. 23 applied (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 32](https://www.legislation.gov.uk/ukpga/2008/32/section/32), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(a)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/a/ii)
+[^c-88689547d3759b193af5fc494ac8fcbe]: Modification: S. 23 applied (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 32](https://www.legislation.gov.uk/ukpga/2008/32/section/32), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(a)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/a/ii)
 
 [^c788936]: Textual amendment: Words in s. 23(1)(b) substituted (E.W.S.) (23.8.1993) by [S.I. 1993/1823](https://www.legislation.gov.uk/uksi/1993/1823), [reg. 4(4)(a)](https://www.legislation.gov.uk/uksi/1993/1823/regulation/4/4/a) (with [s. 6(2)](https://www.legislation.gov.uk/uksi/1993/1823/section/6/2)).
 
@@ -1592,13 +1592,13 @@ SCHEDULES
 
 [^c789000]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only.
 
-[^key-22547861f959e2306551d30109529ccb]: Modification: S. 24 applied (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 32](https://www.legislation.gov.uk/ukpga/2008/32/section/32), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(a)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/a/ii)
+[^c-22547861f959e2306551d30109529ccb]: Modification: S. 24 applied (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 32](https://www.legislation.gov.uk/ukpga/2008/32/section/32), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(a)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/a/ii)
 
 [^c789001]: Textual amendment: Words in s. 24(1)(b) substituted (15.2.1999) by [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17), [s. 50](https://www.legislation.gov.uk/ukpga/1998/17/section/50), [Sch. 4](https://www.legislation.gov.uk/ukpga/1998/17/schedule/4), [para. 23](https://www.legislation.gov.uk/ukpga/1998/17/paragraph/23); [S.I. 1999/161](https://www.legislation.gov.uk/uksi/1999/161), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/161/article/2/1) (with [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/1999/161/schedule/3/paragraph/5))
 
 [^c789002]: Textual amendment: S. 24(2A) inserted (E.W.S.) (23.8.1993) by [S.I. 1993/1823](https://www.legislation.gov.uk/uksi/1993/1823), [reg. 4(4)(b)](https://www.legislation.gov.uk/uksi/1993/1823/regulation/4/4/b) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/1993/1823/regulation/6/2)).
 
-[^key-19ec9094063e81a02609724c5059ad0f]: Textual amendment: Words in s. 24(2A) substituted (1.4.2008) by [Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/960/schedule/2))
+[^c-19ec9094063e81a02609724c5059ad0f]: Textual amendment: Words in s. 24(2A) substituted (1.4.2008) by [Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/960/schedule/2))
 
 [^c2027227]: Textual amendment: S. 24(4)-(6) repealed (15.2.1999) by [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17), [ss. 51(1)](https://www.legislation.gov.uk/ukpga/1998/17/section/51/1), [52(4)](https://www.legislation.gov.uk/ukpga/1998/17/section/52/4), [Sch. 5 Pt. I](https://www.legislation.gov.uk/ukpga/1998/17/schedule/5/part/I) (with [Sch. 3 para. 5(1)](https://www.legislation.gov.uk/ukpga/1998/17/schedule/3/paragraph/5/1)); [S.I. 1999/161](https://www.legislation.gov.uk/uksi/1999/161), [art. 2](https://www.legislation.gov.uk/uksi/1999/161/article/2)
 

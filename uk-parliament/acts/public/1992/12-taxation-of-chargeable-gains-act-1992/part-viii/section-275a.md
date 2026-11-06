@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 275A. Location of certain intangible assets[^key-5f896c2984ea9bb822a5eebbb3b159e5][^key-4b6745ca38d624c1f9e4ec3176eb8032]
+## 275A. Location of certain intangible assets[^c-5f896c2984ea9bb822a5eebbb3b159e5][^c-4b6745ca38d624c1f9e4ec3176eb8032]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,6 +71,6 @@ the underlying subject matter of the future or option, so far as consisting of o
 
 ## Annotations
 
-[^key-5f896c2984ea9bb822a5eebbb3b159e5]: Modification: [Ss. 275-275C](https://www.legislation.gov.uk/ukpga/1992/12/section/275) applied (for the tax year 2025-26 and subsequent tax years) by [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3), [s. 809L(9B)](https://www.legislation.gov.uk/ukpga/2007/3/section/809L/9B) (with [s. 809L(9C)](https://www.legislation.gov.uk/ukpga/2007/3/section/809L/9C)) (as inserted by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 5(8)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/5/8))
+[^c-5f896c2984ea9bb822a5eebbb3b159e5]: Modification: [Ss. 275-275C](https://www.legislation.gov.uk/ukpga/1992/12/section/275) applied (for the tax year 2025-26 and subsequent tax years) by [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3), [s. 809L(9B)](https://www.legislation.gov.uk/ukpga/2007/3/section/809L/9B) (with [s. 809L(9C)](https://www.legislation.gov.uk/ukpga/2007/3/section/809L/9C)) (as inserted by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 5(8)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/5/8))
 
-[^key-4b6745ca38d624c1f9e4ec3176eb8032]: Textual amendment: Ss. 275A, 275B inserted (with effect in accordance with Sch. 4 para. 10(1) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2005/22/schedule/4/paragraph/5)
+[^c-4b6745ca38d624c1f9e4ec3176eb8032]: Textual amendment: Ss. 275A, 275B inserted (with effect in accordance with Sch. 4 para. 10(1) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2005/22/schedule/4/paragraph/5)

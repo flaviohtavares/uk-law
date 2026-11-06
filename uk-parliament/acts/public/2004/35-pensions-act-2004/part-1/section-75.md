@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Inspection of premises: powers of inspectors[^key-cea3c420c8c71f9abfa17c1d8f4ec3ca]
+## 75. Inspection of premises: powers of inspectors[^c-cea3c420c8c71f9abfa17c1d8f4ec3ca]
 
 *Extent: E+W+S*
 
-(1) Subsection (2) applies where, for a purpose mentioned in subsection (1), (2A),[^key-aae5efd784a5bd152c192eff2b385bae] (3), (4) or (5A)[^key-badec4df3a6362a2ec5b18a5d51d0094] of section 73 or subsection (A1),[^key-6a09c0b6b79f390ca349db6963374f3e] (1) or (4) of section 74, an inspector enters premises which are liable to inspection for the purposes of that provision.
+(1) Subsection (2) applies where, for a purpose mentioned in subsection (1), (2A),[^c-aae5efd784a5bd152c192eff2b385bae] (3), (4) or (5A)[^c-badec4df3a6362a2ec5b18a5d51d0094] of section 73 or subsection (A1),[^c-6a09c0b6b79f390ca349db6963374f3e] (1) or (4) of section 74, an inspector enters premises which are liable to inspection for the purposes of that provision.
 
 (2) While there, the inspector—
 
@@ -35,10 +35,10 @@ summary: ''
 
 ## Annotations
 
-[^key-cea3c420c8c71f9abfa17c1d8f4ec3ca]: Commencement: S. 75 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-cea3c420c8c71f9abfa17c1d8f4ec3ca]: Commencement: S. 75 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
 
-[^key-aae5efd784a5bd152c192eff2b385bae]: Textual amendment: Word in [s. 75(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/75/1) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 4(a)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/4/a); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(4)(c)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/4/c)
+[^c-aae5efd784a5bd152c192eff2b385bae]: Textual amendment: Word in [s. 75(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/75/1) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 4(a)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/4/a); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(4)(c)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/4/c)
 
-[^key-badec4df3a6362a2ec5b18a5d51d0094]: Textual amendment: Words in [s. 75(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/75/1) substituted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 4(b)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/4/b); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(4)(c)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/4/c)
+[^c-badec4df3a6362a2ec5b18a5d51d0094]: Textual amendment: Words in [s. 75(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/75/1) substituted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 4(b)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/4/b); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(4)(c)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/4/c)
 
-[^key-6a09c0b6b79f390ca349db6963374f3e]: Textual amendment: Word in s. 75(1) inserted (30.6.2012) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 61(4)](https://www.legislation.gov.uk/ukpga/2008/30/section/61/4), [149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1); [S.I. 2012/1682](https://www.legislation.gov.uk/uksi/2012/1682), [art. 2](https://www.legislation.gov.uk/uksi/2012/1682/article/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/1682/schedule/2)
+[^c-6a09c0b6b79f390ca349db6963374f3e]: Textual amendment: Word in s. 75(1) inserted (30.6.2012) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 61(4)](https://www.legislation.gov.uk/ukpga/2008/30/section/61/4), [149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1); [S.I. 2012/1682](https://www.legislation.gov.uk/uksi/2012/1682), [art. 2](https://www.legislation.gov.uk/uksi/2012/1682/article/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/1682/schedule/2)

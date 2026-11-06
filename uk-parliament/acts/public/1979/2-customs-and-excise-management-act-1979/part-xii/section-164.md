@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164. Power to search persons.[^c14781621][^key-cbaad470bcb6920929ff812dd5d2bdae][^c14781611]
+## 164. Power to search persons.[^c14781621][^c-cbaad470bcb6920929ff812dd5d2bdae][^c14781611]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,13 +48,13 @@ and the justice or superior shall consider the grounds for suspicion and direct 
 - (a) any person who is on board or has landed from any ship or aircraft;
 - (b) any person entering or about to leave the United Kingdom;
 - (c) any person within the dock area of a port;
-- (d) any person at a regulated aerodrome[^key-8195f581e4fe216ce09fb942a55a20b5];
-- (da)[^key-cc1e2bcec0bb6734c24958008a07590a] any person in, entering or leaving a railway customs area;
+- (d) any person at a regulated aerodrome[^c-8195f581e4fe216ce09fb942a55a20b5];
+- (da)[^c-cc1e2bcec0bb6734c24958008a07590a] any person in, entering or leaving a railway customs area;
 - (db) any person who is on board a railway vehicle which—
   - (i) is in a railway customs area,
   - (ii) has entered the United Kingdom but has not yet arrived at a railway customs area in the course of its journey, or
   - (iii) has left a railway customs area and has not yet left the United Kingdom in the course of its journey;
-- (e) any person in, entering or leaving any approved wharf or temporary storage facility[^key-ecb737978f0a46724f7c1877dcbc9480] which is not in a port;
+- (e) any person in, entering or leaving any approved wharf or temporary storage facility[^c-ecb737978f0a46724f7c1877dcbc9480] which is not in a port;
 - (ee)[^c14781661] any person in, entering or leaving a free zone;
 - (f) in Northern Ireland, any person travelling from or to any place which is on or beyond the boundary.
 
@@ -74,7 +74,7 @@ and the justice or superior shall consider the grounds for suspicion and direct 
 
 [^c14781621]: Modification: S. 164 restricted (1.1.1993) by [Finance (No. 2) Act 1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48), [s. 4(1)(3)(h)(6)](https://www.legislation.gov.uk/ukpga/1992/48/section/4/1/3/h/6).
 
-[^key-cbaad470bcb6920929ff812dd5d2bdae]: Modification: S. 164 applied (26.5.2016) by [Psychoactive Substances Act 2016 (c. 2)](https://www.legislation.gov.uk/ukpga/2016/2), [ss. 55(1)](https://www.legislation.gov.uk/ukpga/2016/2/section/55/1), [63(2)](https://www.legislation.gov.uk/ukpga/2016/2/section/63/2); [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-cbaad470bcb6920929ff812dd5d2bdae]: Modification: S. 164 applied (26.5.2016) by [Psychoactive Substances Act 2016 (c. 2)](https://www.legislation.gov.uk/ukpga/2016/2), [ss. 55(1)](https://www.legislation.gov.uk/ukpga/2016/2/section/55/1), [63(2)](https://www.legislation.gov.uk/ukpga/2016/2/section/63/2); [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
 
 [^c14781611]: Modification: S. 164 amended by [S.I. 1990/2167](https://www.legislation.gov.uk/uksi/1990/2167), [art. 4](https://www.legislation.gov.uk/uksi/1990/2167/article/4), [Sch. para. 25](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/25)
 
@@ -84,11 +84,11 @@ and the justice or superior shall consider the grounds for suspicion and direct 
 
 [^c14781651]: Textual amendment: S. 164(2)–(3A) substituted for s. 164(2)(3) by [Finance Act 1988 (c. 39, SIF 40:1)](https://www.legislation.gov.uk/ukpga/1988/39), [s. 10(2)](https://www.legislation.gov.uk/ukpga/1988/39/section/10/2)
 
-[^key-8195f581e4fe216ce09fb942a55a20b5]: Textual amendment: Words in s. 164(4)(d) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 340(3)(f)](https://www.legislation.gov.uk/ukpga/2023/30/section/340/3/f)
+[^c-8195f581e4fe216ce09fb942a55a20b5]: Textual amendment: Words in s. 164(4)(d) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 340(3)(f)](https://www.legislation.gov.uk/ukpga/2023/30/section/340/3/f)
 
-[^key-cc1e2bcec0bb6734c24958008a07590a]: Textual amendment: S. 164(4)(da)(db) inserted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 112(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/112/a) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-cc1e2bcec0bb6734c24958008a07590a]: Textual amendment: S. 164(4)(da)(db) inserted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 112(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/112/a) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
-[^key-ecb737978f0a46724f7c1877dcbc9480]: Textual amendment: Words in s. 164(4)(e) substituted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 112(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/112/b) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-ecb737978f0a46724f7c1877dcbc9480]: Textual amendment: Words in s. 164(4)(e) substituted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 112(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/112/b) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c14781661]: Textual amendment: S. 164(4)(*ee*) inserted by [Finance Act 1984 (c. 43, SIF 40:1)](https://www.legislation.gov.uk/ukpga/1984/43), [s. 8](https://www.legislation.gov.uk/ukpga/1984/43/section/8), [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/1984/43/schedule/4/paragraph/6)
 

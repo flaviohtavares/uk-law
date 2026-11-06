@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 187. Potential lost revenue: normal rule[^key-a8defaf80620a6dfddfae2fa46027619]
+## 187. Potential lost revenue: normal rule[^c-a8defaf80620a6dfddfae2fa46027619]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ is the additional amount due and payable in respect of tax as a result of correc
 
 ## Annotations
 
-[^key-a8defaf80620a6dfddfae2fa46027619]: Commencement: [S. 187](https://www.legislation.gov.uk/asp/2014/16/section/187) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-a8defaf80620a6dfddfae2fa46027619]: Commencement: [S. 187](https://www.legislation.gov.uk/asp/2014/16/section/187) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

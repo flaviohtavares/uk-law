@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 42. Closure of churches for regular public worship[^key-df952a10778d1a2012c0fa36209e8bdf]
+## 42. Closure of churches for regular public worship[^c-df952a10778d1a2012c0fa36209e8bdf]
 
 *Extent: E*
 
@@ -33,4 +33,4 @@ and in that case provision may be made in accordance with Part 6, either by the 
 
 ## Annotations
 
-[^key-df952a10778d1a2012c0fa36209e8bdf]: Commencement: S. 42 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-df952a10778d1a2012c0fa36209e8bdf]: Commencement: S. 42 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

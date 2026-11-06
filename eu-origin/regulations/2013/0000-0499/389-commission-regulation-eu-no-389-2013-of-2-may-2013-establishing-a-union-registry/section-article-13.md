@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 13. Party holding accounts[^key-5149ccfd32fe09d57421d28368f1c72c]
+## Article 13. Party holding accounts[^c-5149ccfd32fe09d57421d28368f1c72c]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5149ccfd32fe09d57421d28368f1c72c]: Textual amendment: [Art. 13](https://www.legislation.gov.uk/eur/2013/389/article/13) substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [4(9)](https://www.legislation.gov.uk/uksi/2021/511/regulation/4/9)
+[^c-5149ccfd32fe09d57421d28368f1c72c]: Textual amendment: [Art. 13](https://www.legislation.gov.uk/eur/2013/389/article/13) substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [4(9)](https://www.legislation.gov.uk/uksi/2021/511/regulation/4/9)

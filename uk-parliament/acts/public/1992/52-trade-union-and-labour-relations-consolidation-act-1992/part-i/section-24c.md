@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24C. Enforcement of sections 24ZH and 24ZI by Certification Officer[^key-1d45fe28524d4af1db4fd0bbc6bf4d29]
+## 24C. Enforcement of sections 24ZH and 24ZI by Certification Officer[^c-1d45fe28524d4af1db4fd0bbc6bf4d29]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d45fe28524d4af1db4fd0bbc6bf4d29]: Textual amendment: [S. 24C](https://www.legislation.gov.uk/ukpga/1992/52/section/24C) omitted (1.4.2022) by virtue of [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [s. 25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2016/15/schedule/4/paragraph/1); [S.I. 2021/1373](https://www.legislation.gov.uk/uksi/2021/1373), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2021/1373/regulation/4/e)
+[^c-1d45fe28524d4af1db4fd0bbc6bf4d29]: Textual amendment: [S. 24C](https://www.legislation.gov.uk/ukpga/1992/52/section/24C) omitted (1.4.2022) by virtue of [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [s. 25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2016/15/schedule/4/paragraph/1); [S.I. 2021/1373](https://www.legislation.gov.uk/uksi/2021/1373), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2021/1373/regulation/4/e)

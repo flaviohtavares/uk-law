@@ -43,7 +43,7 @@ Coming into force
 
 31st May 2001
 
-The Secretary of State, being a Minister designated[^c15564591] for the purposes of section 2(2) of the European Communities Act 1972[^c15564601] in relation to measures relating to the conservation of natural habitats and of wild fauna and flora, in exercise of the powers conferred upon him by that section hereby makes the following Regulations:—[^key-1c53d0a17b60e24e62ddadee2ae1a703]
+The Secretary of State, being a Minister designated[^c15564591] for the purposes of section 2(2) of the European Communities Act 1972[^c15564601] in relation to measures relating to the conservation of natural habitats and of wild fauna and flora, in exercise of the powers conferred upon him by that section hereby makes the following Regulations:—[^c-1c53d0a17b60e24e62ddadee2ae1a703]
 
 ## 1. Citation and commencement
 
@@ -54,57 +54,57 @@ These Regulations may be cited as the Offshore Petroleum Activities (Conservatio
 (1) In these Regulations—
 
 - “the 1998 Act” means the Petroleum Act 1998 [^c15564611];
-- “the 2017 Regulations” means the Conservation of Habitats and Species Regulations 2017;[^key-5423331701a6b0834aa67c34200fa3ec]
+- “the 2017 Regulations” means the Conservation of Habitats and Species Regulations 2017;[^c-5423331701a6b0834aa67c34200fa3ec]
 - “address”, in relation to electronic communication, includes any number or address used for the purposes of such communication;
-- “appropriate nature conservation body” means such body with responsibilities for providing relevant advice on nature conservation in relation to the land or waters within or adjacent to the relevant site, which the Secretary of State considers appropriate;[^key-8c1ba45492c9302a9f0c1a02bb3b2245]
+- “appropriate nature conservation body” means such body with responsibilities for providing relevant advice on nature conservation in relation to the land or waters within or adjacent to the relevant site, which the Secretary of State considers appropriate;[^c-8c1ba45492c9302a9f0c1a02bb3b2245]
 - “approval” means approval of an abandonment programme pursuant to Part IV of the 1998 Act;
 - “authorisation” means an authorisation granted pursuant to section 14 of the 1998 Act relating to the construction or use of a pipe-line;
-- “consent” is to be construed in accordance with regulation 4(3);[^key-22ba2b78cb77bb616affe86f2fbbe3a9]
-- “designated area” means any area for the time being designated under section 1(7) of the Continental Shelf Act 1964;[^key-d4d777b28734ded0b07d772190a5fec4]
+- “consent” is to be construed in accordance with regulation 4(3);[^c-22ba2b78cb77bb616affe86f2fbbe3a9]
+- “designated area” means any area for the time being designated under section 1(7) of the Continental Shelf Act 1964;[^c-d4d777b28734ded0b07d772190a5fec4]
 - “the Directives” means the Habitats Directive and the Wild Birds Directive;
 - “electronic communication” means the same as in the Electronic Communications Act 2000 [^c15564631];
 - “the Habitats Directive” means Council Directive 92/43 of May 21, 1992 on the conservation of natural habitats and of wild fauna and flora [^c15564641];
 - “Natura 2000” means the European network of special areas of conservation, and special protection areas under the Wild Birds Directive, provided for by Article 3(1) of the Habitats Directive;
-- “offshore oil and gas activities” means oil and gas activities carried out wholly or partly in a relevant area;[^key-bdcb6bfbf84ce77758b3e9bfee279750]
-- “OGA” means the Oil and Gas Authority;[^key-98cad12edc5daf9bbd9bae469647851f]
+- “offshore oil and gas activities” means oil and gas activities carried out wholly or partly in a relevant area;[^c-bdcb6bfbf84ce77758b3e9bfee279750]
+- “OGA” means the Oil and Gas Authority;[^c-98cad12edc5daf9bbd9bae469647851f]
 - “oil and gas activities” means any activities carried out for or in connection with the exploration for or production of petroleum;
 - “petroleum” includes any mineral oil or relative hydrocarbon and natural gas existing in its natural condition in strata, but does not include coal or bituminous shales or other stratified deposits from which oil can be extracted by destructive distillation;
-- “Petroleum Act licence” means a licence which is granted under or has effect as if granted under the 1998 Act or a licence which is to be granted under that Act;[^key-01a7402b0210b880f30439c5affc0499]
+- “Petroleum Act licence” means a licence which is granted under or has effect as if granted under the 1998 Act or a licence which is to be granted under that Act;[^c-01a7402b0210b880f30439c5affc0499]
 - “relevant area” means an area comprising any of the following—
   - (a) UK waters;
   - (b) waters in a designated area; or
   - (c) the seabed and subsoil under the waters referred to in paragraphs (a) and (b) above;
-- “relevant function” means any function exercisable by the Secretary of State or the OGA[^key-7953c51ef77f911ad270177af0638b65] in relation to or in connection with offshore oil and gas activities[^key-f4cac0698ca03f2ca4f9087309f8e60e] including, without limitation, functions exercisable under the 1998 Act or any licence granted or having effect as if granted under that Act;
+- “relevant function” means any function exercisable by the Secretary of State or the OGA[^c-7953c51ef77f911ad270177af0638b65] in relation to or in connection with offshore oil and gas activities[^c-f4cac0698ca03f2ca4f9087309f8e60e] including, without limitation, functions exercisable under the 1998 Act or any licence granted or having effect as if granted under that Act;
 - “relevant power” means any power exercisable by the Secretary of State or the OGA in relation to or in connection with offshore oil and gas activities including, without limitation, powers exercisable under the 1998 Act or any licence granted or having effect as if granted under that Act;
 - “relevant project” means any plan or project which relates to offshore oil and gas activities;
 - “relevant site” means—
   - (a) a special area of conservation,
   - (b) a site of Community importance which has been placed on the list referred to in the third sub-paragraph of Article 4(2) of the Habitats Directive,
-  - (c) [^key-f576e3eb6d3208ab8995e422e8cb580c]...
-  - (d) an area classified, as a special protection area, before exit day pursuant to Article 4(1) or (2) of the Wild Birds Directive or classified as such after exit day under any of the retained transposing regulations, or[^key-ded099bd14f5f3f02d2d43705c7df2f3]
-  - (e) a site included in the list of sites which has been transmitted to the Commission by the United Kingdom pursuant to Article 4 of the Habitats Directive [^key-6fc3ce5e34db5e6b3f96b0a81d364782]...
-  - (f) [^key-5caa27fcddf3b54d31b4a1a1508a55ce]...
+  - (c) [^c-f576e3eb6d3208ab8995e422e8cb580c]...
+  - (d) an area classified, as a special protection area, before exit day pursuant to Article 4(1) or (2) of the Wild Birds Directive or classified as such after exit day under any of the retained transposing regulations, or[^c-ded099bd14f5f3f02d2d43705c7df2f3]
+  - (e) a site included in the list of sites which has been transmitted to the Commission by the United Kingdom pursuant to Article 4 of the Habitats Directive [^c-6fc3ce5e34db5e6b3f96b0a81d364782]...
+  - (f) [^c-5caa27fcddf3b54d31b4a1a1508a55ce]...
 
   A site shall cease to qualify as a site under paragraph (e) above at such time as—
 
   - the draft list of sites of Community importance is established under the first sub-paragraph of Article 4(2) of the Habitats Directive where in any case the site is not included in that list, or
   - the list of sites referred to in the third sub-paragraph of Article 4(2) of the Habitats Directive is adopted by the Commission in accordance with that sub-paragraph.
 
-  [^key-6311ba1d06a5c23ef8726ab3f5f6c7d3]...
-- “the retained transposing regulations” means—[^key-577202f5cfefe6394bfd3755a191254b]
+  [^c-6311ba1d06a5c23ef8726ab3f5f6c7d3]...
+- “the retained transposing regulations” means—[^c-577202f5cfefe6394bfd3755a191254b]
   - (a) the Conservation (Natural Habitats, &c.) Regulations 1994;
   - (b) the Conservation (Natural Habitats, etc.) Regulations (Northern Ireland) 1995;
   - (c) the Conservation of Offshore Marine Habitats and Species Regulations 2017;
   - (d) the 2017 Regulations;
-- [^key-25ed12310694aa60bcd5609a43de4258]...
+- [^c-25ed12310694aa60bcd5609a43de4258]...
 - [^M_F_5e056d55-38dd-4438-a350-0e4c593a1d2f]...
-- “[^key-5ec825503f8c397911c3dbece4e1ec9c]UK waters” means parts of the sea in or adjacent to the United Kingdom from the low water mark up to the seaward limits of territorial waters; and
-- [^key-0ea8dd69f65b550ec732a5ec749b89eb]...
+- “[^c-5ec825503f8c397911c3dbece4e1ec9c]UK waters” means parts of the sea in or adjacent to the United Kingdom from the low water mark up to the seaward limits of territorial waters; and
+- [^c-0ea8dd69f65b550ec732a5ec749b89eb]...
 - “the Wild Birds Directive” means Directive 2009/147/EC of the European Parliament and of the Council on the conservation of wild birds[^M_F_f49adf77-30d5-4b1e-e0e1-3c47e37b825a].
 
-(2) Subject to paragraphs (3) and (4),[^key-1ee59f8d121b8d485b6ce016f0c461cc] unless the context otherwise requires, expressions used in these Regulations and in the Habitats Directive or in the Wild Birds Directive have the same meaning as in those Directives.
+(2) Subject to paragraphs (3) and (4),[^c-1ee59f8d121b8d485b6ce016f0c461cc] unless the context otherwise requires, expressions used in these Regulations and in the Habitats Directive or in the Wild Birds Directive have the same meaning as in those Directives.
 
-(3)[^key-2ef8be604c0b7e0f1578376f2e063ee7] For the purposes of these Regulations—
+(3)[^c-2ef8be604c0b7e0f1578376f2e063ee7] For the purposes of these Regulations—
 
 - (a) the Habitats Directive is to be construed as if—
   - (i) any reference to “the European territory of the Member States to which the Treaty applies” included a reference to the United Kingdom;
@@ -118,13 +118,13 @@ These Regulations may be cited as the Offshore Petroleum Activities (Conservatio
 
 (4) Any reference in these Regulations to the “requirements” or “objectives” of the Directives is to be construed as if the objectives of the Directives included the objectives referred to regulation 16A(2) of the 2017 Regulations.
 
-## 3. Application of the Directives[^key-e0edf6e48d6958d9222aadd7ab599747]
+## 3. Application of the Directives[^c-e0edf6e48d6958d9222aadd7ab599747]
 
-(1) To the extent not already provided for by the 2017 Regulations[^M_F_cd431242-2f61-44f5-dd05-bab9cb03a245], the Secretary of State and the OGA[^key-9d0f1abfa652a42570d6c8b94a11d7da] shall exercise their respective,[^key-4ea66dacffd747ce6d507fbe88773d0f] relevant functions [^key-d7ecbc6c6a60650c4bb6c1dd69b5fceb]... in such manner and to such extent as each[^key-de837f075a63ac18e1579a53529f3b45] shall consider necessary to secure that offshore oil and gas activities are carried out in a manner that is consistent with the requirements of the Directives.
+(1) To the extent not already provided for by the 2017 Regulations[^M_F_cd431242-2f61-44f5-dd05-bab9cb03a245], the Secretary of State and the OGA[^c-9d0f1abfa652a42570d6c8b94a11d7da] shall exercise their respective,[^c-4ea66dacffd747ce6d507fbe88773d0f] relevant functions [^c-d7ecbc6c6a60650c4bb6c1dd69b5fceb]... in such manner and to such extent as each[^c-de837f075a63ac18e1579a53529f3b45] shall consider necessary to secure that offshore oil and gas activities are carried out in a manner that is consistent with the requirements of the Directives.
 
-(2)[^key-dff280a5ee3e00602f48f1e6c5132cd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-dff280a5ee3e00602f48f1e6c5132cd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Consent for geological surveys[^key-feda927ff939941c86a69efe45232d11]
+## 4. Consent for geological surveys[^c-feda927ff939941c86a69efe45232d11]
 
 (1) In so far as they relate to oil and gas activities, the following activities or procedures shall not be carried out in a relevant area without the prior written consent of the Secretary of State—
 
@@ -137,23 +137,23 @@ These Regulations may be cited as the Offshore Petroleum Activities (Conservatio
 (3) For the purposes of regulations 5 and 7 below, “consent” means—
 
 - (a) a consent granted pursuant to paragraph (1) above; or
-- (b) a consent granted pursuant to a Petroleum Act licence, including any consent required pursuant to the Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) Regulations 1999 or the Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020[^key-e6a60608174a7e674b36e599a02de38d].
+- (b) a consent granted pursuant to a Petroleum Act licence, including any consent required pursuant to the Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) Regulations 1999 or the Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020[^c-e6a60608174a7e674b36e599a02de38d].
 
-## 5. Appropriate assessments[^key-6e6c0f96e36e351fe0d14234ba414d2a]
+## 5. Appropriate assessments[^c-6e6c0f96e36e351fe0d14234ba414d2a]
 
-(A1)[^key-85cf6bc271910742f8a43a8fcf27c6af] The OGA shall not grant any Petroleum Act licence, consent or authorisation without the agreement of the Secretary of State.
+(A1)[^c-85cf6bc271910742f8a43a8fcf27c6af] The OGA shall not grant any Petroleum Act licence, consent or authorisation without the agreement of the Secretary of State.
 
-(1) The Secretary of State shall, before agreeing to the grant of[^key-f6d6a2cdb660bf3858c977ff74c4ad4b] any Petroleum Act licence[^key-9eac05b3b2d8349afd391894aff8ad80], any consent, or[^key-510311e08aaa46eb53397ea20bc76c8a] any authorisation, or granting any consent or approval[^key-91ed3f05559a5572fd97677a65083bf2], where he considers that anything that might be done or any activity which might be carried on pursuant to such a licence, consent, authorisation or approval is likely to have a significant effect on a relevant site, whether individually or in combination with any other plan or project, including but not limited to any other relevant project, make an appropriate assessment of the implications for the site in view of the site’s conservation objectives.
+(1) The Secretary of State shall, before agreeing to the grant of[^c-f6d6a2cdb660bf3858c977ff74c4ad4b] any Petroleum Act licence[^c-9eac05b3b2d8349afd391894aff8ad80], any consent, or[^c-510311e08aaa46eb53397ea20bc76c8a] any authorisation, or granting any consent or approval[^c-91ed3f05559a5572fd97677a65083bf2], where he considers that anything that might be done or any activity which might be carried on pursuant to such a licence, consent, authorisation or approval is likely to have a significant effect on a relevant site, whether individually or in combination with any other plan or project, including but not limited to any other relevant project, make an appropriate assessment of the implications for the site in view of the site’s conservation objectives.
 
-(2) The Secretary of State shall for the purposes of the assessment consult the appropriate nature conservation body[^key-90db15d2e522a7ae5130d517a5ce47d0] and have regard to any representations made by that body within such reasonable time as the Secretary of State may specify and shall also, if he considers appropriate, take the opinion of the general public.
+(2) The Secretary of State shall for the purposes of the assessment consult the appropriate nature conservation body[^c-90db15d2e522a7ae5130d517a5ce47d0] and have regard to any representations made by that body within such reasonable time as the Secretary of State may specify and shall also, if he considers appropriate, take the opinion of the general public.
 
-(3) Subject to regulation 6 below, in the light of the conclusions of the assessment the Secretary of State shall agree to the grant of any such licence, consent, or authorisation or grant any such consent or approval[^key-6aca1d9b51b6b089653aca1feb65054d] only after having ascertained that nothing that might be done and no activity that might be carried out pursuant thereto would have an adverse effect on the integrity of a relevant site.
+(3) Subject to regulation 6 below, in the light of the conclusions of the assessment the Secretary of State shall agree to the grant of any such licence, consent, or authorisation or grant any such consent or approval[^c-6aca1d9b51b6b089653aca1feb65054d] only after having ascertained that nothing that might be done and no activity that might be carried out pursuant thereto would have an adverse effect on the integrity of a relevant site.
 
-(4)[^key-96f10e8a719e151944a6e7ad5e9af032] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-96f10e8a719e151944a6e7ad5e9af032] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 6. Projects which should be carried out for imperative reasons of overriding public interest
 
-(1) Subject to paragraph (2) below, regulation 5(3)[^key-ec4882927dfca5a91ddfa65e01edfed2] above shall not apply to the doing of anything in connection with the carrying out of any relevant project affecting a relevant site—
+(1) Subject to paragraph (2) below, regulation 5(3)[^c-ec4882927dfca5a91ddfa65e01edfed2] above shall not apply to the doing of anything in connection with the carrying out of any relevant project affecting a relevant site—
 
 - (a) to which, in the opinion of the Secretary of State, there is no satisfactory alternative; and
 - (b) which the Secretary of State has certified in writing as a project which should be carried out for imperative reasons of overriding public interest, which may include reasons of a social or economic nature.
@@ -161,28 +161,28 @@ These Regulations may be cited as the Offshore Petroleum Activities (Conservatio
 (2) The Secretary of State shall not give a certification pursuant to paragraph (1)(b) above in respect of a project that is likely to have an adverse effect on the integrity of a site hosting a priority natural habitat type or a priority species unless—
 
 - (a) the reason for so certifying relates to human health or public safety, or to beneficial consequences of primary importance for the environment; or
-- (b)[^key-3f6f6628c7ea931d37bb1374b7bfc6f5] the Secretary of State has consulted, and had regard to the opinion of—
+- (b)[^c-3f6f6628c7ea931d37bb1374b7bfc6f5] the Secretary of State has consulted, and had regard to the opinion of—
   - (i) the Joint Nature Conservation Committee;
   - (ii) the Scottish Ministers;
   - (iii) the Department of Agriculture, Environment and Rural Affairs;
   - (iv) the Welsh Ministers; and
   - (v) any other person the Secretary of State considers appropriate.
 
-(3) Where the Secretary of State has given a certification pursuant to paragraph (1)(b) above, he shall secure that any necessary compensatory measures are taken to ensure that the overall coherence of the national site network[^key-e8fc03c85af6e247ee959f9adbeb42b3] is protected, and in determining what such necessary compensatory measures may be, he shall consult the appropriate nature conservation body[^key-43facb5fdb420ad6d6580a8be4d3c5d5].
+(3) Where the Secretary of State has given a certification pursuant to paragraph (1)(b) above, he shall secure that any necessary compensatory measures are taken to ensure that the overall coherence of the national site network[^c-e8fc03c85af6e247ee959f9adbeb42b3] is protected, and in determining what such necessary compensatory measures may be, he shall consult the appropriate nature conservation body[^c-43facb5fdb420ad6d6580a8be4d3c5d5].
 
 (4) The Secretary of State shall—
 
-- (a) at such intervals as he shall think fit carry out or cause to be carried out such investigation as he shall consider appropriate in relation to the effects of offshore oil and gas activities[^key-2863eea6c974331902fe9f1a8fb555d0] on the conservation status of natural habitats and species of wild fauna and flora, with particular regard to priority habitat types and priority species; and
+- (a) at such intervals as he shall think fit carry out or cause to be carried out such investigation as he shall consider appropriate in relation to the effects of offshore oil and gas activities[^c-2863eea6c974331902fe9f1a8fb555d0] on the conservation status of natural habitats and species of wild fauna and flora, with particular regard to priority habitat types and priority species; and
 - (b) in the light of the results of such investigation consider whether he ought to exercise any relevant power for the purposes of protecting such a natural habitat or species.
 
-(5)[^key-6617cbb9f10cd82a04cc7b83fef498a5] In this regulation, “the national site network” means such sites as—
+(5)[^c-6617cbb9f10cd82a04cc7b83fef498a5] In this regulation, “the national site network” means such sites as—
 
 - (a) immediately before exit day formed part of Natura 2000, or
 - (b) at any time on or after exit day are a relevant site.
 
-## 7. Control of activities under licence[^key-850fda2a9febdb3fb8c37ff3a6a16bae]
+## 7. Control of activities under licence[^c-850fda2a9febdb3fb8c37ff3a6a16bae]
 
-(1) Where the Secretary of State is satisfied that anything done, being done or proposed to be done pursuant to a Petroleum Act licence, consent,[^key-7da6a8e2f045de9c204fdd1feae6eae2] authorisation or approval—
+(1) Where the Secretary of State is satisfied that anything done, being done or proposed to be done pursuant to a Petroleum Act licence, consent,[^c-7da6a8e2f045de9c204fdd1feae6eae2] authorisation or approval—
 
 - (a) has had, is having, or is likely to have an adverse effect on the integrity of a relevant site; or
 - (b) has caused, is causing, or is likely to cause deterioriation of natural habitats or the habitats of species in such a site or disturbance of species for which that site may be or has been designated or classified pursuant to either of the Directives, in so far as such disturbance could be significant in relation to the objectives of the Habitats Directive; and
@@ -194,10 +194,10 @@ he shall, subject to paragraphs (3), (4), (5) and (6) below, give a direction in
 
 - (a) the submission to the Secretary of State for his approval of a plan of the steps to be taken;
 - (b) the carrying out of a plan of the kind referred to in sub-paragraph (a) above which has been approved by the Secretary of State;
-- (c) the installation on a fixed or floating structure used in connection with offshore oil and gas activities[^key-483f74e4187dcd63037d2e1f223626dc] of such equipment as may be specified in the direction; or
+- (c) the installation on a fixed or floating structure used in connection with offshore oil and gas activities[^c-483f74e4187dcd63037d2e1f223626dc] of such equipment as may be specified in the direction; or
 - (d) the carrying out of a modification of such a structure or the manner in which it is operated.
 
-(3) Prior to any direction being given pursuant to this regulation the Secretary of State shall consult the appropriate nature conservation body[^key-27d44db91b39f0b68681689eed46e0cc] as to the steps to be specified in the direction.
+(3) Prior to any direction being given pursuant to this regulation the Secretary of State shall consult the appropriate nature conservation body[^c-27d44db91b39f0b68681689eed46e0cc] as to the steps to be specified in the direction.
 
 (4) Any direction given pursuant to this regulation may revoke or modify the terms and conditions of a consent, authorisation or approval.
 
@@ -213,7 +213,7 @@ he shall, subject to paragraphs (3), (4), (5) and (6) below, give a direction in
 
 (8) A direction given pursuant to this regulation may be modified or revoked by a further direction given by the Secretary of State.
 
-(9) A direction shall be given under this regulation in respect of an area which is not a relevant site, but as to which the Secretary of State, having consulted the appropriate nature conservation body[^key-d9c6f97b00447dcffc9bd100ccc2269d], is of the opinion that it would be likely to be classified as a special protection area under any of the retained transposing regulations[^key-335c4142a0ed34e28b4efbf69a9984a5] where the Secretary of State is satisfied that anything done, being done or proposed to be done pursuant to a Petroleum Act licence, consent,[^key-78680ea1ce20b6796bdbed48e0f1cc24] authorisation or approval—
+(9) A direction shall be given under this regulation in respect of an area which is not a relevant site, but as to which the Secretary of State, having consulted the appropriate nature conservation body[^c-d9c6f97b00447dcffc9bd100ccc2269d], is of the opinion that it would be likely to be classified as a special protection area under any of the retained transposing regulations[^c-335c4142a0ed34e28b4efbf69a9984a5] where the Secretary of State is satisfied that anything done, being done or proposed to be done pursuant to a Petroleum Act licence, consent,[^c-78680ea1ce20b6796bdbed48e0f1cc24] authorisation or approval—
 
 - (a) has had, is having, or is likely to have an adverse effect on the integrity of that area; or
 - (b) has caused, is causing, or is likely to cause pollution or deterioration of natural habitats or disturbance of species for which that site is likely to be classified in so far as such disturbance could be significant in relation to the objectives of Article 4 of the Wild Birds Directive; and
@@ -229,7 +229,7 @@ he shall, subject to paragraphs (3), (4), (5) and (6) below, give a direction in
 
 (4) The Secretary of State shall give notice in writing to the applicant of any decision made under this regulation.
 
-## 8A. Review of existing decisions[^key-8e3bcabefa3c8c26fba75e065ea91b61]
+## 8A. Review of existing decisions[^c-8e3bcabefa3c8c26fba75e065ea91b61]
 
 (1) Where, before the date on which a site becomes a relevant site, the Secretary of State or the OGA has made an existing decision in respect of a plan or project to which regulation 5(1) (appropriate assessments) would apply if it were to be considered at that date, the Secretary of State shall, as soon as reasonably practicable, review that decision.
 
@@ -280,41 +280,41 @@ he shall, subject to paragraphs (3), (4), (5) and (6) below, give a direction in
 
 (6) An appeal under this regulation shall be made within 28 days of written notification of the direction or decision in question.
 
-## 10. Protection of certain creatures[^key-acd5507b017910bc34b118751345e969]
+## 10. Protection of certain creatures[^c-acd5507b017910bc34b118751345e969]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Protection of certain birds[^key-acd5507b017910bc34b118751345e969]
+## 11. Protection of certain birds[^c-acd5507b017910bc34b118751345e969]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Protection of certain plants[^key-acd5507b017910bc34b118751345e969]
+## 12. Protection of certain plants[^c-acd5507b017910bc34b118751345e969]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Lawful activities[^key-acd5507b017910bc34b118751345e969]
+## 13. Lawful activities[^c-acd5507b017910bc34b118751345e969]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Activities affecting creatures or plants which are necessary for imperative reasons of overriding public interest[^key-acd5507b017910bc34b118751345e969]
+## 14. Activities affecting creatures or plants which are necessary for imperative reasons of overriding public interest[^c-acd5507b017910bc34b118751345e969]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Activities affecting birds which are necessary for imperative reasons of overriding public interest[^key-acd5507b017910bc34b118751345e969]
+## 15. Activities affecting birds which are necessary for imperative reasons of overriding public interest[^c-acd5507b017910bc34b118751345e969]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Prohibition of certain methods of capturing or killing species listed under Annex IV(a) of the Habitats Directive[^key-acd5507b017910bc34b118751345e969]
+## 16. Prohibition of certain methods of capturing or killing species listed under Annex IV(a) of the Habitats Directive[^c-acd5507b017910bc34b118751345e969]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Prohibition of certain methods of capturing or killing birds[^key-acd5507b017910bc34b118751345e969]
+## 17. Prohibition of certain methods of capturing or killing birds[^c-acd5507b017910bc34b118751345e969]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Prohibition of certain methods of capturing or killing species listed under Annex V of the Habitats Directive[^key-acd5507b017910bc34b118751345e969]
+## 18. Prohibition of certain methods of capturing or killing species listed under Annex V of the Habitats Directive[^c-acd5507b017910bc34b118751345e969]
 
 **No longer in force.**
 
@@ -322,11 +322,11 @@ he shall, subject to paragraphs (3), (4), (5) and (6) below, give a direction in
 
 ## 19. Offences
 
-(1)[^key-4ce2cc55b7de4e4bc04687801c090801] A person is guilty of an offence if, without reasonable excuse, he fails to comply with a direction given in accordance with regulation 7 above.
+(1)[^c-4ce2cc55b7de4e4bc04687801c090801] A person is guilty of an offence if, without reasonable excuse, he fails to comply with a direction given in accordance with regulation 7 above.
 
-(2) A person guilty of an offence under paragraph (1)[^key-2563c093739ae3b248b6a8dbf5c33ab0] above shall on summary conviction be liable to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
+(2) A person guilty of an offence under paragraph (1)[^c-2563c093739ae3b248b6a8dbf5c33ab0] above shall on summary conviction be liable to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
 
-(3)[^key-8cf9b89a1932383a2af266e487b5b820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8cf9b89a1932383a2af266e487b5b820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Where an offence under this regulation by a body corporate is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or a person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of an offence and shall be liable to be proceeded against and punished accordingly.
 
@@ -360,19 +360,19 @@ he shall, subject to paragraphs (3), (4), (5) and (6) below, give a direction in
 
 and for the purposes of this paragraph the principal office of a company registered outside the United Kingdom or of a partnership carrying on business outside the United Kingdom shall be its principal office within the United Kingdom.
 
-## 20A. Fees[^key-d09f1bd77dd51ad10b2e8a2b6230e117][^key-3fac9cc7593926762a5879a843c8f9db]
+## 20A. Fees[^c-d09f1bd77dd51ad10b2e8a2b6230e117][^c-3fac9cc7593926762a5879a843c8f9db]
 
 (1) The Secretary of State may charge fees in respect of—
 
 - (a) granting, rejecting, modifying, transferring, surrendering or revoking consent under regulation 4(1);
-- (aa)[^key-17cc658d6e14cf144c80f63e2dec6539] providing advice with respect to—
+- (aa)[^c-17cc658d6e14cf144c80f63e2dec6539] providing advice with respect to—
   - (i) whether consent is required under regulation 4(1),
   - (ii) the preparation of an application for such consent, or
   - (iii) a proposal to modify, transfer, surrender or revoke such consent;
 - (ab) monitoring compliance with a consent under regulation 4(1);
-- (b) making an appropriate assessment under regulation 5(1) where that assessment is made only to support a decision on a specific application for a Petroleum Act licence,[^key-63d8a6ae0f5f6b80f40081edf12c1c8b] consent, authorisation or approval;
+- (b) making an appropriate assessment under regulation 5(1) where that assessment is made only to support a decision on a specific application for a Petroleum Act licence,[^c-63d8a6ae0f5f6b80f40081edf12c1c8b] consent, authorisation or approval;
 - (c) consulting appropriate nature conservation bodies on any matter under these Regulations;
-- (ca)[^key-ea2264fd41badc2fffbb1a00e79b645f] consulting any person under regulation 6(2)(b);
+- (ca)[^c-ea2264fd41badc2fffbb1a00e79b645f] consulting any person under regulation 6(2)(b);
 - (d) giving a certification under regulation 6(1)(b);
 - (e) determining compensatory measures under regulation 6(3) and securing that such measures are taken;
 - (f) giving, modifying or revoking a direction under regulation 7; and
@@ -381,9 +381,9 @@ and for the purposes of this paragraph the principal office of a company registe
 (2) A fee charged under paragraph (1) is [formula: see source](https://www.legislation.gov.uk/uksi/2001/1754) where—
 
 - A is the number of hours work carried out by specialist officers;
-- B is £256[^key-384ffb98e6c060dc884f2d392c4eebfc];
+- B is £256[^c-384ffb98e6c060dc884f2d392c4eebfc];
 - C is the number of hours work carried out by non-specialist officers; and
-- D is £130[^key-0283eb0de6dc66f42c10ca988eae3be6].
+- D is £130[^c-0283eb0de6dc66f42c10ca988eae3be6].
 
 (3) For the purposes of paragraph (2), the number of hours work may be expressed as a fraction where—
 
@@ -398,7 +398,7 @@ and for the purposes of this paragraph the principal office of a company registe
 
 Wherever a person is required under these Regulations to serve or give any notice or other document in writing, that requirement may be satisfied by the use of such means of electronic communication as the Secretary of State may determine.
 
-## 22. Review[^key-2aead4602d2946c16a6f480bce46ed46]
+## 22. Review[^c-2aead4602d2946c16a6f480bce46ed46]
 
 (1) The Secretary of State must from time to time—
 
@@ -444,146 +444,146 @@ A regulatory impact assessment has been prepared and copies can be obtained from
 
 [^c15564601]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-1c53d0a17b60e24e62ddadee2ae1a703]: Modification: Regulations applied (with modifications) (1.7.2010) by [The Energy Act 2008 (Consequential Modifications) (Offshore Environmental Protection) Order 2010 (S.I. 2010/1513)](https://www.legislation.gov.uk/uksi/2010/1513), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1513/article/1/1), [3(1)-(5)](https://www.legislation.gov.uk/uksi/2010/1513/article/3/1)
+[^c-1c53d0a17b60e24e62ddadee2ae1a703]: Modification: Regulations applied (with modifications) (1.7.2010) by [The Energy Act 2008 (Consequential Modifications) (Offshore Environmental Protection) Order 2010 (S.I. 2010/1513)](https://www.legislation.gov.uk/uksi/2010/1513), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1513/article/1/1), [3(1)-(5)](https://www.legislation.gov.uk/uksi/2010/1513/article/3/1)
 
 [^c15564611]: Marginal citation: [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17).
 
-[^key-5423331701a6b0834aa67c34200fa3ec]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/1) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [74(2)(a)](https://www.legislation.gov.uk/uksi/2019/579/regulation/74/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5423331701a6b0834aa67c34200fa3ec]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/1) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [74(2)(a)](https://www.legislation.gov.uk/uksi/2019/579/regulation/74/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8c1ba45492c9302a9f0c1a02bb3b2245]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/1) inserted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/2/a)
+[^c-8c1ba45492c9302a9f0c1a02bb3b2245]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/1) inserted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/2/a)
 
-[^key-22ba2b78cb77bb616affe86f2fbbe3a9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/1) substituted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/2/b)
+[^c-22ba2b78cb77bb616affe86f2fbbe3a9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/1) substituted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/2/b)
 
-[^key-d4d777b28734ded0b07d772190a5fec4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/1) inserted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/2/c)
+[^c-d4d777b28734ded0b07d772190a5fec4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/1) inserted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/2/c)
 
 [^c15564631]: Marginal citation: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
 
 [^c15564641]: Marginal citation: O.J. 1992, L206/7, as amended by the Act of Accession to the European Union of Austria, Finland and Sweden and by Council Directive 97/62/EC, O.J. 1997, L305.
 
-[^key-bdcb6bfbf84ce77758b3e9bfee279750]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/1) inserted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/2/d)
+[^c-bdcb6bfbf84ce77758b3e9bfee279750]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/1) inserted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/2/d)
 
-[^key-98cad12edc5daf9bbd9bae469647851f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/1) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2016/912/regulation/8/2/a)
+[^c-98cad12edc5daf9bbd9bae469647851f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/1) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2016/912/regulation/8/2/a)
 
-[^key-01a7402b0210b880f30439c5affc0499]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/1) inserted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(2)(e)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/2/e)
+[^c-01a7402b0210b880f30439c5affc0499]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/1) inserted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(2)(e)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/2/e)
 
-[^key-7953c51ef77f911ad270177af0638b65]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/1) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2016/912/regulation/8/2/b)
+[^c-7953c51ef77f911ad270177af0638b65]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/1) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2016/912/regulation/8/2/b)
 
-[^key-f4cac0698ca03f2ca4f9087309f8e60e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/1) substituted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(2)(f)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/2/f)
+[^c-f4cac0698ca03f2ca4f9087309f8e60e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/1) substituted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(2)(f)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/2/f)
 
-[^key-f576e3eb6d3208ab8995e422e8cb580c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/1) omitted (31.12.2020) by virtue of [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [74(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/579/regulation/74/2/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f576e3eb6d3208ab8995e422e8cb580c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/1) omitted (31.12.2020) by virtue of [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [74(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/579/regulation/74/2/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ded099bd14f5f3f02d2d43705c7df2f3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/1) substituted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [74(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/579/regulation/74/2/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ded099bd14f5f3f02d2d43705c7df2f3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/1) substituted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [74(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/579/regulation/74/2/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6fc3ce5e34db5e6b3f96b0a81d364782]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2) omitted (21.8.2007) by virtue of [The Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007 (revoked) 2007 (S.I. 2007/1842)](https://www.legislation.gov.uk/uksi/2007/1842), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1842/regulation/1), [75(a)(ii)](https://www.legislation.gov.uk/uksi/2007/1842/regulation/75/a/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2007/1842/regulation/3))
+[^c-6fc3ce5e34db5e6b3f96b0a81d364782]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2) omitted (21.8.2007) by virtue of [The Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007 (revoked) 2007 (S.I. 2007/1842)](https://www.legislation.gov.uk/uksi/2007/1842), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1842/regulation/1), [75(a)(ii)](https://www.legislation.gov.uk/uksi/2007/1842/regulation/75/a/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2007/1842/regulation/3))
 
-[^key-5caa27fcddf3b54d31b4a1a1508a55ce]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2) omitted (21.8.2007) by virtue of [The Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007 (revoked) 2007 (S.I. 2007/1842)](https://www.legislation.gov.uk/uksi/2007/1842), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1842/regulation/1), [75(a)(iii)](https://www.legislation.gov.uk/uksi/2007/1842/regulation/75/a/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2007/1842/regulation/3))
+[^c-5caa27fcddf3b54d31b4a1a1508a55ce]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2) omitted (21.8.2007) by virtue of [The Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007 (revoked) 2007 (S.I. 2007/1842)](https://www.legislation.gov.uk/uksi/2007/1842), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1842/regulation/1), [75(a)(iii)](https://www.legislation.gov.uk/uksi/2007/1842/regulation/75/a/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2007/1842/regulation/3))
 
-[^key-6311ba1d06a5c23ef8726ab3f5f6c7d3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2) omitted (21.8.2007) by virtue of [The Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007 (revoked) 2007 (S.I. 2007/1842)](https://www.legislation.gov.uk/uksi/2007/1842), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1842/regulation/1), [75(a)(iv)](https://www.legislation.gov.uk/uksi/2007/1842/regulation/75/a/iv) (with [reg. 3](https://www.legislation.gov.uk/uksi/2007/1842/regulation/3))
+[^c-6311ba1d06a5c23ef8726ab3f5f6c7d3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2) omitted (21.8.2007) by virtue of [The Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007 (revoked) 2007 (S.I. 2007/1842)](https://www.legislation.gov.uk/uksi/2007/1842), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1842/regulation/1), [75(a)(iv)](https://www.legislation.gov.uk/uksi/2007/1842/regulation/75/a/iv) (with [reg. 3](https://www.legislation.gov.uk/uksi/2007/1842/regulation/3))
 
-[^key-577202f5cfefe6394bfd3755a191254b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/1) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [74(2)(c)](https://www.legislation.gov.uk/uksi/2019/579/regulation/74/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-577202f5cfefe6394bfd3755a191254b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/1) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [74(2)(c)](https://www.legislation.gov.uk/uksi/2019/579/regulation/74/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-25ed12310694aa60bcd5609a43de4258]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/1) omitted (18.2.2007) by virtue of [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(2)(h)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/2/h)
+[^c-25ed12310694aa60bcd5609a43de4258]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/1) omitted (18.2.2007) by virtue of [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(2)(h)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/2/h)
 
 [^M_F_5e056d55-38dd-4438-a350-0e4c593a1d2f]: Textual amendment: Words in reg. 2(1) omitted (1.7.2010) by virtue of [The Energy Act 2008 (Consequential Modifications) (Offshore Environmental Protection) Order 2010 (S.I. 2010/1513)](https://www.legislation.gov.uk/uksi/2010/1513), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1513/article/1/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2010/1513/article/3/6/a)
 
-[^key-5ec825503f8c397911c3dbece4e1ec9c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/1) inserted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(2)(k)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/2/k)
+[^c-5ec825503f8c397911c3dbece4e1ec9c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/1) inserted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(2)(k)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/2/k)
 
-[^key-0ea8dd69f65b550ec732a5ec749b89eb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/1) omitted (18.2.2007) by virtue of [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(2)(j)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/2/j)
+[^c-0ea8dd69f65b550ec732a5ec749b89eb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/1) omitted (18.2.2007) by virtue of [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(2)(j)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/2/j)
 
 [^M_F_f49adf77-30d5-4b1e-e0e1-3c47e37b825a]: Textual amendment: Words in reg. 2(1) substituted (1.7.2010) by [The Energy Act 2008 (Consequential Modifications) (Offshore Environmental Protection) Order 2010 (S.I. 2010/1513)](https://www.legislation.gov.uk/uksi/2010/1513), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1513/article/1/1), [3(6)(b)](https://www.legislation.gov.uk/uksi/2010/1513/article/3/6/b)
 
-[^key-1ee59f8d121b8d485b6ce016f0c461cc]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/2) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [74(3)](https://www.legislation.gov.uk/uksi/2019/579/regulation/74/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1ee59f8d121b8d485b6ce016f0c461cc]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/2) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [74(3)](https://www.legislation.gov.uk/uksi/2019/579/regulation/74/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2ef8be604c0b7e0f1578376f2e063ee7]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/4) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [74(4)](https://www.legislation.gov.uk/uksi/2019/579/regulation/74/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2ef8be604c0b7e0f1578376f2e063ee7]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/2/4) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [74(4)](https://www.legislation.gov.uk/uksi/2019/579/regulation/74/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e0edf6e48d6958d9222aadd7ab599747]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2001/1754/regulation/3) substituted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/3)
+[^c-e0edf6e48d6958d9222aadd7ab599747]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2001/1754/regulation/3) substituted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/3)
 
 [^M_F_cd431242-2f61-44f5-dd05-bab9cb03a245]: Textual amendment: Words in reg. 3(1) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 13(a)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/13/a)
 
-[^key-9d0f1abfa652a42570d6c8b94a11d7da]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/3/1) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [8(3)(a)](https://www.legislation.gov.uk/uksi/2016/912/regulation/8/3/a)
+[^c-9d0f1abfa652a42570d6c8b94a11d7da]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/3/1) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [8(3)(a)](https://www.legislation.gov.uk/uksi/2016/912/regulation/8/3/a)
 
-[^key-4ea66dacffd747ce6d507fbe88773d0f]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/3/1) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2016/912/regulation/8/3/b)
+[^c-4ea66dacffd747ce6d507fbe88773d0f]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/3/1) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2016/912/regulation/8/3/b)
 
-[^key-d7ecbc6c6a60650c4bb6c1dd69b5fceb]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/3/1) omitted (1.10.2016) by virtue of [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [8(3)(c)](https://www.legislation.gov.uk/uksi/2016/912/regulation/8/3/c)
+[^c-d7ecbc6c6a60650c4bb6c1dd69b5fceb]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/3/1) omitted (1.10.2016) by virtue of [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [8(3)(c)](https://www.legislation.gov.uk/uksi/2016/912/regulation/8/3/c)
 
-[^key-de837f075a63ac18e1579a53529f3b45]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/3/1) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [8(3)(d)](https://www.legislation.gov.uk/uksi/2016/912/regulation/8/3/d)
+[^c-de837f075a63ac18e1579a53529f3b45]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/3/1) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [8(3)(d)](https://www.legislation.gov.uk/uksi/2016/912/regulation/8/3/d)
 
-[^key-dff280a5ee3e00602f48f1e6c5132cd8]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/3/2) omitted (31.12.2020) by virtue of [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [75](https://www.legislation.gov.uk/uksi/2019/579/regulation/75); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dff280a5ee3e00602f48f1e6c5132cd8]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/3/2) omitted (31.12.2020) by virtue of [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [75](https://www.legislation.gov.uk/uksi/2019/579/regulation/75); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-feda927ff939941c86a69efe45232d11]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2001/1754/regulation/4) substituted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/4)
+[^c-feda927ff939941c86a69efe45232d11]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2001/1754/regulation/4) substituted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/4)
 
-[^key-e6a60608174a7e674b36e599a02de38d]: Textual amendment: Words in [reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/4/3/b) inserted (31.12.2020 immediately before 11 p.m.) by [The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 (S.I. 2020/1497)](https://www.legislation.gov.uk/uksi/2020/1497), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1), [Sch. 7 para. 1](https://www.legislation.gov.uk/uksi/2020/1497/schedule/7/paragraph/1) (with [reg. 1(2)-(6)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/1497/regulation/20))
+[^c-e6a60608174a7e674b36e599a02de38d]: Textual amendment: Words in [reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/4/3/b) inserted (31.12.2020 immediately before 11 p.m.) by [The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 (S.I. 2020/1497)](https://www.legislation.gov.uk/uksi/2020/1497), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1), [Sch. 7 para. 1](https://www.legislation.gov.uk/uksi/2020/1497/schedule/7/paragraph/1) (with [reg. 1(2)-(6)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/1497/regulation/20))
 
-[^key-6e6c0f96e36e351fe0d14234ba414d2a]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/2001/1754/regulation/5) applied (16.5.2017) by [S.I. 2010/1513](https://www.legislation.gov.uk/uksi/2010/1513), [art. 3(5)](https://www.legislation.gov.uk/uksi/2010/1513/article/3/5) (as substituted by The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 ([S.I. 2017/582](https://www.legislation.gov.uk/uksi/2017/582)), regs. 1, 60 (with reg. 58)
+[^c-6e6c0f96e36e351fe0d14234ba414d2a]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/2001/1754/regulation/5) applied (16.5.2017) by [S.I. 2010/1513](https://www.legislation.gov.uk/uksi/2010/1513), [art. 3(5)](https://www.legislation.gov.uk/uksi/2010/1513/article/3/5) (as substituted by The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 ([S.I. 2017/582](https://www.legislation.gov.uk/uksi/2017/582)), regs. 1, 60 (with reg. 58)
 
-[^key-85cf6bc271910742f8a43a8fcf27c6af]: Textual amendment: [Reg. 5(A1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/5/A1) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [8(4)(a)](https://www.legislation.gov.uk/uksi/2016/912/regulation/8/4/a)
+[^c-85cf6bc271910742f8a43a8fcf27c6af]: Textual amendment: [Reg. 5(A1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/5/A1) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [8(4)(a)](https://www.legislation.gov.uk/uksi/2016/912/regulation/8/4/a)
 
-[^key-f6d6a2cdb660bf3858c977ff74c4ad4b]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/5/1) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [8(4)(b)(i)](https://www.legislation.gov.uk/uksi/2016/912/regulation/8/4/b/i)
+[^c-f6d6a2cdb660bf3858c977ff74c4ad4b]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/5/1) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [8(4)(b)(i)](https://www.legislation.gov.uk/uksi/2016/912/regulation/8/4/b/i)
 
-[^key-9eac05b3b2d8349afd391894aff8ad80]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/5/1) substituted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/5/a)
+[^c-9eac05b3b2d8349afd391894aff8ad80]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/5/1) substituted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/5/a)
 
-[^key-510311e08aaa46eb53397ea20bc76c8a]: Textual amendment: Word in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/5/1) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [8(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/912/regulation/8/4/b/ii)
+[^c-510311e08aaa46eb53397ea20bc76c8a]: Textual amendment: Word in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/5/1) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [8(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/912/regulation/8/4/b/ii)
 
-[^key-91ed3f05559a5572fd97677a65083bf2]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/5/1) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [8(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2016/912/regulation/8/4/b/iii)
+[^c-91ed3f05559a5572fd97677a65083bf2]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/5/1) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [8(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2016/912/regulation/8/4/b/iii)
 
-[^key-90db15d2e522a7ae5130d517a5ce47d0]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/5/2) substituted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/5/b)
+[^c-90db15d2e522a7ae5130d517a5ce47d0]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/5/2) substituted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/5/b)
 
-[^key-6aca1d9b51b6b089653aca1feb65054d]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/5/3) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [8(4)(c)](https://www.legislation.gov.uk/uksi/2016/912/regulation/8/4/c)
+[^c-6aca1d9b51b6b089653aca1feb65054d]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/5/3) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [8(4)(c)](https://www.legislation.gov.uk/uksi/2016/912/regulation/8/4/c)
 
-[^key-96f10e8a719e151944a6e7ad5e9af032]: Textual amendment: [Reg. 5(4)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/5/4) omitted (21.8.2007) by virtue of [The Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007 (revoked) 2007 (S.I. 2007/1842)](https://www.legislation.gov.uk/uksi/2007/1842), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1842/regulation/1), [75(b)](https://www.legislation.gov.uk/uksi/2007/1842/regulation/75/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2007/1842/regulation/3))
+[^c-96f10e8a719e151944a6e7ad5e9af032]: Textual amendment: [Reg. 5(4)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/5/4) omitted (21.8.2007) by virtue of [The Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007 (revoked) 2007 (S.I. 2007/1842)](https://www.legislation.gov.uk/uksi/2007/1842), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1842/regulation/1), [75(b)](https://www.legislation.gov.uk/uksi/2007/1842/regulation/75/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2007/1842/regulation/3))
 
-[^key-ec4882927dfca5a91ddfa65e01edfed2]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/6/1) substituted (21.8.2007) by [The Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007 (revoked) 2007 (S.I. 2007/1842)](https://www.legislation.gov.uk/uksi/2007/1842), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1842/regulation/1), [75(c)](https://www.legislation.gov.uk/uksi/2007/1842/regulation/75/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2007/1842/regulation/3))
+[^c-ec4882927dfca5a91ddfa65e01edfed2]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/6/1) substituted (21.8.2007) by [The Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007 (revoked) 2007 (S.I. 2007/1842)](https://www.legislation.gov.uk/uksi/2007/1842), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1842/regulation/1), [75(c)](https://www.legislation.gov.uk/uksi/2007/1842/regulation/75/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2007/1842/regulation/3))
 
-[^key-3f6f6628c7ea931d37bb1374b7bfc6f5]: Textual amendment: [Reg. 6(2)(b)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/6/2/b) substituted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [76(2)](https://www.legislation.gov.uk/uksi/2019/579/regulation/76/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3f6f6628c7ea931d37bb1374b7bfc6f5]: Textual amendment: [Reg. 6(2)(b)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/6/2/b) substituted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [76(2)](https://www.legislation.gov.uk/uksi/2019/579/regulation/76/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e8fc03c85af6e247ee959f9adbeb42b3]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/6/3) substituted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [76(3)](https://www.legislation.gov.uk/uksi/2019/579/regulation/76/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e8fc03c85af6e247ee959f9adbeb42b3]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/6/3) substituted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [76(3)](https://www.legislation.gov.uk/uksi/2019/579/regulation/76/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-43facb5fdb420ad6d6580a8be4d3c5d5]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/6/3) substituted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/6/a)
+[^c-43facb5fdb420ad6d6580a8be4d3c5d5]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/6/3) substituted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/6/a)
 
-[^key-2863eea6c974331902fe9f1a8fb555d0]: Textual amendment: Words in [reg. 6(4)(a)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/6/4/a) substituted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/6/b)
+[^c-2863eea6c974331902fe9f1a8fb555d0]: Textual amendment: Words in [reg. 6(4)(a)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/6/4/a) substituted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/6/b)
 
-[^key-6617cbb9f10cd82a04cc7b83fef498a5]: Textual amendment: [Reg. 6(5)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/6/5) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [76(4)](https://www.legislation.gov.uk/uksi/2019/579/regulation/76/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6617cbb9f10cd82a04cc7b83fef498a5]: Textual amendment: [Reg. 6(5)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/6/5) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [76(4)](https://www.legislation.gov.uk/uksi/2019/579/regulation/76/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-850fda2a9febdb3fb8c37ff3a6a16bae]: Modification: [Reg. 7](https://www.legislation.gov.uk/uksi/2001/1754/regulation/7) applied (16.5.2017) by [S.I. 2010/1513](https://www.legislation.gov.uk/uksi/2010/1513), [art. 3(5)](https://www.legislation.gov.uk/uksi/2010/1513/article/3/5) (as substituted by The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 ([S.I. 2017/582](https://www.legislation.gov.uk/uksi/2017/582)), regs. 1, 60 (with reg. 58))
+[^c-850fda2a9febdb3fb8c37ff3a6a16bae]: Modification: [Reg. 7](https://www.legislation.gov.uk/uksi/2001/1754/regulation/7) applied (16.5.2017) by [S.I. 2010/1513](https://www.legislation.gov.uk/uksi/2010/1513), [art. 3(5)](https://www.legislation.gov.uk/uksi/2010/1513/article/3/5) (as substituted by The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 ([S.I. 2017/582](https://www.legislation.gov.uk/uksi/2017/582)), regs. 1, 60 (with reg. 58))
 
-[^key-7da6a8e2f045de9c204fdd1feae6eae2]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/7/1) substituted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/7/a)
+[^c-7da6a8e2f045de9c204fdd1feae6eae2]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/7/1) substituted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/7/a)
 
-[^key-483f74e4187dcd63037d2e1f223626dc]: Textual amendment: Words in [reg. 7(2)(c)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/7/2/c) substituted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/7/b)
+[^c-483f74e4187dcd63037d2e1f223626dc]: Textual amendment: Words in [reg. 7(2)(c)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/7/2/c) substituted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/7/b)
 
-[^key-27d44db91b39f0b68681689eed46e0cc]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/7/3) substituted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(7)(c)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/7/c)
+[^c-27d44db91b39f0b68681689eed46e0cc]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/7/3) substituted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(7)(c)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/7/c)
 
-[^key-d9c6f97b00447dcffc9bd100ccc2269d]: Textual amendment: Words in [reg. 7(9)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/7/9) substituted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(7)(d)(i)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/7/d/i)
+[^c-d9c6f97b00447dcffc9bd100ccc2269d]: Textual amendment: Words in [reg. 7(9)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/7/9) substituted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(7)(d)(i)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/7/d/i)
 
-[^key-335c4142a0ed34e28b4efbf69a9984a5]: Textual amendment: Words in [reg. 7(9)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/7/9) substituted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [77](https://www.legislation.gov.uk/uksi/2019/579/regulation/77); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-335c4142a0ed34e28b4efbf69a9984a5]: Textual amendment: Words in [reg. 7(9)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/7/9) substituted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [77](https://www.legislation.gov.uk/uksi/2019/579/regulation/77); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-78680ea1ce20b6796bdbed48e0f1cc24]: Textual amendment: Words in [reg. 7(9)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/7/9) substituted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(7)(d)(ii)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/7/d/ii)
+[^c-78680ea1ce20b6796bdbed48e0f1cc24]: Textual amendment: Words in [reg. 7(9)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/7/9) substituted (18.2.2007) by [The Offshore Petroleum Activities (Conservation of Habitats) (Amendment) Regulations 2007 (S.I. 2007/77)](https://www.legislation.gov.uk/uksi/2007/77), [regs. 1](https://www.legislation.gov.uk/uksi/2007/77/regulation/1), [2(7)(d)(ii)](https://www.legislation.gov.uk/uksi/2007/77/regulation/2/7/d/ii)
 
-[^key-8e3bcabefa3c8c26fba75e065ea91b61]: Textual amendment: [Regs. 8A](https://www.legislation.gov.uk/uksi/2001/1754/regulation/8A), [8B](https://www.legislation.gov.uk/uksi/2001/1754/regulation/8B) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [59](https://www.legislation.gov.uk/uksi/2017/582/regulation/59) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+[^c-8e3bcabefa3c8c26fba75e065ea91b61]: Textual amendment: [Regs. 8A](https://www.legislation.gov.uk/uksi/2001/1754/regulation/8A), [8B](https://www.legislation.gov.uk/uksi/2001/1754/regulation/8B) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [59](https://www.legislation.gov.uk/uksi/2017/582/regulation/59) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
 
 [^c15564681]: Marginal citation: [S.I. 1987/2197](https://www.legislation.gov.uk/uksi/1987/2197).
 
-[^key-acd5507b017910bc34b118751345e969]: Textual amendment: [Regs. 10-18](https://www.legislation.gov.uk/uksi/2001/1754/regulation/10) omitted (21.8.2007) by virtue of [The Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007 (revoked) 2007 (S.I. 2007/1842)](https://www.legislation.gov.uk/uksi/2007/1842), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1842/regulation/1), [75(d)](https://www.legislation.gov.uk/uksi/2007/1842/regulation/75/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2007/1842/regulation/3))
+[^c-acd5507b017910bc34b118751345e969]: Textual amendment: [Regs. 10-18](https://www.legislation.gov.uk/uksi/2001/1754/regulation/10) omitted (21.8.2007) by virtue of [The Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007 (revoked) 2007 (S.I. 2007/1842)](https://www.legislation.gov.uk/uksi/2007/1842), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1842/regulation/1), [75(d)](https://www.legislation.gov.uk/uksi/2007/1842/regulation/75/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2007/1842/regulation/3))
 
-[^key-4ce2cc55b7de4e4bc04687801c090801]: Textual amendment: [Reg. 19(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/19/1) substituted (21.8.2007) by [The Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007 (revoked) 2007 (S.I. 2007/1842)](https://www.legislation.gov.uk/uksi/2007/1842), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1842/regulation/1), [75(e)(i)](https://www.legislation.gov.uk/uksi/2007/1842/regulation/75/e/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2007/1842/regulation/3))
+[^c-4ce2cc55b7de4e4bc04687801c090801]: Textual amendment: [Reg. 19(1)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/19/1) substituted (21.8.2007) by [The Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007 (revoked) 2007 (S.I. 2007/1842)](https://www.legislation.gov.uk/uksi/2007/1842), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1842/regulation/1), [75(e)(i)](https://www.legislation.gov.uk/uksi/2007/1842/regulation/75/e/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2007/1842/regulation/3))
 
-[^key-2563c093739ae3b248b6a8dbf5c33ab0]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/19/2) substituted (21.8.2007) by [The Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007 (revoked) 2007 (S.I. 2007/1842)](https://www.legislation.gov.uk/uksi/2007/1842), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1842/regulation/1), [75(e)(ii)](https://www.legislation.gov.uk/uksi/2007/1842/regulation/75/e/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2007/1842/regulation/3))
+[^c-2563c093739ae3b248b6a8dbf5c33ab0]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/19/2) substituted (21.8.2007) by [The Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007 (revoked) 2007 (S.I. 2007/1842)](https://www.legislation.gov.uk/uksi/2007/1842), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1842/regulation/1), [75(e)(ii)](https://www.legislation.gov.uk/uksi/2007/1842/regulation/75/e/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2007/1842/regulation/3))
 
-[^key-8cf9b89a1932383a2af266e487b5b820]: Textual amendment: [Reg. 19(3)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/19/3) omitted (21.8.2007) by virtue of [The Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007 (revoked) 2007 (S.I. 2007/1842)](https://www.legislation.gov.uk/uksi/2007/1842), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1842/regulation/1), [75(e)(iii)](https://www.legislation.gov.uk/uksi/2007/1842/regulation/75/e/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2007/1842/regulation/3))
+[^c-8cf9b89a1932383a2af266e487b5b820]: Textual amendment: [Reg. 19(3)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/19/3) omitted (21.8.2007) by virtue of [The Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007 (revoked) 2007 (S.I. 2007/1842)](https://www.legislation.gov.uk/uksi/2007/1842), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1842/regulation/1), [75(e)(iii)](https://www.legislation.gov.uk/uksi/2007/1842/regulation/75/e/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2007/1842/regulation/3))
 
 [^c15564691]: Marginal citation: 1878 41 & 42 Vict. c. 73.
 
-[^key-d09f1bd77dd51ad10b2e8a2b6230e117]: Modification: [Reg. 20A](https://www.legislation.gov.uk/uksi/2001/1754/regulation/20A) applied (16.5.2017) by [S.I. 2010/1513](https://www.legislation.gov.uk/uksi/2010/1513), [art. 3(5)](https://www.legislation.gov.uk/uksi/2010/1513/article/3/5) (as substituted by The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 ([S.I. 2017/582](https://www.legislation.gov.uk/uksi/2017/582)), regs. 1, 60 (with reg. 58))
+[^c-d09f1bd77dd51ad10b2e8a2b6230e117]: Modification: [Reg. 20A](https://www.legislation.gov.uk/uksi/2001/1754/regulation/20A) applied (16.5.2017) by [S.I. 2010/1513](https://www.legislation.gov.uk/uksi/2010/1513), [art. 3(5)](https://www.legislation.gov.uk/uksi/2010/1513/article/3/5) (as substituted by The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 ([S.I. 2017/582](https://www.legislation.gov.uk/uksi/2017/582)), regs. 1, 60 (with reg. 58))
 
-[^key-3fac9cc7593926762a5879a843c8f9db]: Textual amendment: [Reg. 20A](https://www.legislation.gov.uk/uksi/2001/1754/regulation/20A) inserted (22.7.2015) by [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments and Other Provisions) Regulations 2015 (S.I. 2015/1431)](https://www.legislation.gov.uk/uksi/2015/1431), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1431/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2015/1431/regulation/9)
+[^c-3fac9cc7593926762a5879a843c8f9db]: Textual amendment: [Reg. 20A](https://www.legislation.gov.uk/uksi/2001/1754/regulation/20A) inserted (22.7.2015) by [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments and Other Provisions) Regulations 2015 (S.I. 2015/1431)](https://www.legislation.gov.uk/uksi/2015/1431), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1431/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2015/1431/regulation/9)
 
-[^key-17cc658d6e14cf144c80f63e2dec6539]: Textual amendment: [Reg. 20A(1)(aa)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/20A/1/aa)[(ab)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/20A/1/ab) inserted (1.6.2016) by [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/529)](https://www.legislation.gov.uk/uksi/2016/529), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/529/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2016/529/regulation/4/a)
+[^c-17cc658d6e14cf144c80f63e2dec6539]: Textual amendment: [Reg. 20A(1)(aa)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/20A/1/aa)[(ab)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/20A/1/ab) inserted (1.6.2016) by [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/529)](https://www.legislation.gov.uk/uksi/2016/529), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/529/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2016/529/regulation/4/a)
 
-[^key-63d8a6ae0f5f6b80f40081edf12c1c8b]: Textual amendment: Words in [reg. 20A(1)(b)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/20A/1/b) inserted (1.12.2016) by [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) (No. 2) Regulations 2016 (S.I. 2016/1042)](https://www.legislation.gov.uk/uksi/2016/1042), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1042/regulation/1), [3](https://www.legislation.gov.uk/uksi/2016/1042/regulation/3)
+[^c-63d8a6ae0f5f6b80f40081edf12c1c8b]: Textual amendment: Words in [reg. 20A(1)(b)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/20A/1/b) inserted (1.12.2016) by [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) (No. 2) Regulations 2016 (S.I. 2016/1042)](https://www.legislation.gov.uk/uksi/2016/1042), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1042/regulation/1), [3](https://www.legislation.gov.uk/uksi/2016/1042/regulation/3)
 
-[^key-ea2264fd41badc2fffbb1a00e79b645f]: Textual amendment: [Reg. 20A(ca)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/20A/ca) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [78](https://www.legislation.gov.uk/uksi/2019/579/regulation/78); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ea2264fd41badc2fffbb1a00e79b645f]: Textual amendment: [Reg. 20A(ca)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/20A/ca) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [78](https://www.legislation.gov.uk/uksi/2019/579/regulation/78); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-384ffb98e6c060dc884f2d392c4eebfc]: Textual amendment: Sum in [reg. 20A(2)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/20A/2) substituted (7.7.2026) by [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/757)](https://www.legislation.gov.uk/uksi/2026/757), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/757/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2026/757/regulation/2/a)
+[^c-384ffb98e6c060dc884f2d392c4eebfc]: Textual amendment: Sum in [reg. 20A(2)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/20A/2) substituted (7.7.2026) by [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/757)](https://www.legislation.gov.uk/uksi/2026/757), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/757/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2026/757/regulation/2/a)
 
-[^key-0283eb0de6dc66f42c10ca988eae3be6]: Textual amendment: Sum in [reg. 20A(2)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/20A/2) substituted (7.7.2026) by [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/757)](https://www.legislation.gov.uk/uksi/2026/757), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/757/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2026/757/regulation/2/b)
+[^c-0283eb0de6dc66f42c10ca988eae3be6]: Textual amendment: Sum in [reg. 20A(2)](https://www.legislation.gov.uk/uksi/2001/1754/regulation/20A/2) substituted (7.7.2026) by [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/757)](https://www.legislation.gov.uk/uksi/2026/757), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/757/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2026/757/regulation/2/b)
 
-[^key-2aead4602d2946c16a6f480bce46ed46]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2001/1754/regulation/22) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [8(5)](https://www.legislation.gov.uk/uksi/2016/912/regulation/8/5)
+[^c-2aead4602d2946c16a6f480bce46ed46]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2001/1754/regulation/22) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [8(5)](https://www.legislation.gov.uk/uksi/2016/912/regulation/8/5)

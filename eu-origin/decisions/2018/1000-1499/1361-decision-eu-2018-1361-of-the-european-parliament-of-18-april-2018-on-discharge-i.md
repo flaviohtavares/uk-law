@@ -31,10 +31,10 @@ Decision (EU) 2018/1361 of the European Parliament
 
 of 18 April 2018 on discharge in respect of the implementation of the budget of the European Banking Authority for the financial year 2016 (revoked)
 
-[^key-a66bcd19aac01982705d357d29e5e538]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a66bcd19aac01982705d357d29e5e538]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-a66bcd19aac01982705d357d29e5e538] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-a66bcd19aac01982705d357d29e5e538] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a66bcd19aac01982705d357d29e5e538]: Textual amendment: Decision revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [35(k)](https://www.legislation.gov.uk/uksi/2019/710/regulation/35/k); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a66bcd19aac01982705d357d29e5e538]: Textual amendment: Decision revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [35(k)](https://www.legislation.gov.uk/uksi/2019/710/regulation/35/k); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

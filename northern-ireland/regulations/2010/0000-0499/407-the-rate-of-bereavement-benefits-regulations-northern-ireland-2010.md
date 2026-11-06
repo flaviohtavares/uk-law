@@ -42,17 +42,17 @@ Coming into operation
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 39(2A), 39C(1A) and 171(1) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], and now vested in it[^f00002].
 
-## 1. Citation and commencement[^key-6f7b831b9b5fc54d32e1e0a2726321af]
+## 1. Citation and commencement[^c-6f7b831b9b5fc54d32e1e0a2726321af]
 
 These Regulations may be cited as the Rate of Bereavement Benefits Regulations (Northern Ireland) 2010 and shall come into operation on 1st January 2011.
 
-## 2. Rate of widowed mother’s allowance and widow’s pension[^key-0ef16dc2c11aef8b585836e0f804973c]
+## 2. Rate of widowed mother’s allowance and widow’s pension[^c-0ef16dc2c11aef8b585836e0f804973c]
 
-The amount prescribed for the purposes of section 39(2A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (rate of widowed mother’s allowance and widow’s pension), is £156.65[^key-7ec655b50e17eaddadadbf1178c8a69b].
+The amount prescribed for the purposes of section 39(2A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (rate of widowed mother’s allowance and widow’s pension), is £156.65[^c-7ec655b50e17eaddadadbf1178c8a69b].
 
-## 3. Rate of widowed parent’s allowance ...[^key-b7942a74887097e2cf141bd411391486][^key-b2f73f7134aac94cb2492a8de4ce4a8e]
+## 3. Rate of widowed parent’s allowance ...[^c-b7942a74887097e2cf141bd411391486][^c-b2f73f7134aac94cb2492a8de4ce4a8e]
 
-The amount prescribed for the purposes of section 39C(1A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (rate of widowed parent’s allowance [^key-b2f73f7134aac94cb2492a8de4ce4a8e]...), is £156.65[^key-fafc626b9674c491a64a5d585099fed4].
+The amount prescribed for the purposes of section 39C(1A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (rate of widowed parent’s allowance [^c-b2f73f7134aac94cb2492a8de4ce4a8e]...), is £156.65[^c-fafc626b9674c491a64a5d585099fed4].
 
 Sealed with the Official Seal of the Department for Social Development on 7th December 2010
 
@@ -82,14 +82,14 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-6f7b831b9b5fc54d32e1e0a2726321af]: Commencement: Reg. 1 in operation at 1.1.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/407/regulation/1)
+[^c-6f7b831b9b5fc54d32e1e0a2726321af]: Commencement: Reg. 1 in operation at 1.1.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/407/regulation/1)
 
-[^key-0ef16dc2c11aef8b585836e0f804973c]: Commencement: Reg. 2 in operation at 1.1.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/407/regulation/1)
+[^c-0ef16dc2c11aef8b585836e0f804973c]: Commencement: Reg. 2 in operation at 1.1.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/407/regulation/1)
 
-[^key-7ec655b50e17eaddadadbf1178c8a69b]: Textual amendment: Sum in [reg. 2](https://www.legislation.gov.uk/nisr/2010/407/regulation/2) substituted (coming into operation in accordance with art. 1(2) of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c), [18(a)](https://www.legislation.gov.uk/nisr/2026/59/article/18/a)
+[^c-7ec655b50e17eaddadadbf1178c8a69b]: Textual amendment: Sum in [reg. 2](https://www.legislation.gov.uk/nisr/2010/407/regulation/2) substituted (coming into operation in accordance with art. 1(2) of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c), [18(a)](https://www.legislation.gov.uk/nisr/2026/59/article/18/a)
 
-[^key-b7942a74887097e2cf141bd411391486]: Commencement: Reg. 3 in operation at 1.1.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/407/regulation/1)
+[^c-b7942a74887097e2cf141bd411391486]: Commencement: Reg. 3 in operation at 1.1.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/407/regulation/1)
 
-[^key-b2f73f7134aac94cb2492a8de4ce4a8e]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2010/407/regulation/3) and words in heading omitted (6.4.2017) by virtue of [The Pensions (2015 Act) (Consequential, Supplementary and Incidental Amendments) Order (Northern Ireland) 2017 (S.R. 2017/66)](https://www.legislation.gov.uk/nisr/2017/66), [art. 26](https://www.legislation.gov.uk/nisr/2017/66/article/26), [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2017/66/regulation/1/2/c) (with [arts. 2](https://www.legislation.gov.uk/nisr/2017/66/article/2), [3](https://www.legislation.gov.uk/nisr/2017/66/article/3))
+[^c-b2f73f7134aac94cb2492a8de4ce4a8e]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2010/407/regulation/3) and words in heading omitted (6.4.2017) by virtue of [The Pensions (2015 Act) (Consequential, Supplementary and Incidental Amendments) Order (Northern Ireland) 2017 (S.R. 2017/66)](https://www.legislation.gov.uk/nisr/2017/66), [art. 26](https://www.legislation.gov.uk/nisr/2017/66/article/26), [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2017/66/regulation/1/2/c) (with [arts. 2](https://www.legislation.gov.uk/nisr/2017/66/article/2), [3](https://www.legislation.gov.uk/nisr/2017/66/article/3))
 
-[^key-fafc626b9674c491a64a5d585099fed4]: Textual amendment: Sum in [reg. 3](https://www.legislation.gov.uk/nisr/2010/407/regulation/3) substituted (coming into operation in accordance with art. 1(2) of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c), [18(b)](https://www.legislation.gov.uk/nisr/2026/59/article/18/b)
+[^c-fafc626b9674c491a64a5d585099fed4]: Textual amendment: Sum in [reg. 3](https://www.legislation.gov.uk/nisr/2010/407/regulation/3) substituted (coming into operation in accordance with art. 1(2) of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c), [18(b)](https://www.legislation.gov.uk/nisr/2026/59/article/18/b)

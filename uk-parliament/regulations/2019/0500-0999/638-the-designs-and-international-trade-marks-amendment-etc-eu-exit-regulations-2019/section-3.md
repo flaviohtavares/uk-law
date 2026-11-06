@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Amendments to the Design Regulation and the 2005 Regulations relating to the creation and application of the supplementary unregistered design etc.[^key-8ab12df6d641cb7a02274c236b5f0412]
+## 3. Amendments to the Design Regulation and the 2005 Regulations relating to the creation and application of the supplementary unregistered design etc.[^c-8ab12df6d641cb7a02274c236b5f0412]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ab12df6d641cb7a02274c236b5f0412]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-8ab12df6d641cb7a02274c236b5f0412]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 171. Abolition of common law rules[^key-4527701d9668509f740ef3a1c1ebb549]
+## 171. Abolition of common law rules[^c-4527701d9668509f740ef3a1c1ebb549]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ ceases to have effect.
 
 ## Annotations
 
-[^key-4527701d9668509f740ef3a1c1ebb549]: Commencement: [S. 171](https://www.legislation.gov.uk/asp/2010/13/section/171) in force at 25.6.2012 with application in accordance with art. 3 by [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2012/160/article/4))
+[^c-4527701d9668509f740ef3a1c1ebb549]: Commencement: [S. 171](https://www.legislation.gov.uk/asp/2010/13/section/171) in force at 25.6.2012 with application in accordance with art. 3 by [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2012/160/article/4))

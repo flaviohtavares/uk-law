@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Duties of public bodies relating to climate change[^key-6356adb147d1502ee843513102aaed35]
+## 44. Duties of public bodies relating to climate change[^c-6356adb147d1502ee843513102aaed35]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ as the Scottish Ministers consider appropriate.
 
 ## Annotations
 
-[^key-6356adb147d1502ee843513102aaed35]: Commencement: S. 44 in force at 1.1.2011 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(4)](https://www.legislation.gov.uk/ssi/2009/341/article/2/4)
+[^c-6356adb147d1502ee843513102aaed35]: Commencement: S. 44 in force at 1.1.2011 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(4)](https://www.legislation.gov.uk/ssi/2009/341/article/2/4)

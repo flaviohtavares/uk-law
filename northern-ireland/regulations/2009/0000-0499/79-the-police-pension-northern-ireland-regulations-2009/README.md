@@ -45,7 +45,7 @@ Coming into operation
 
 6th April 2009
 
-[^key-cf9c72fc9afc2ed027c621c1ee6bcb31]The Secretary of State makes these Regulations, in exercise of the powers conferred on him by sections 25(2)(k) and 26(2)(g) of the Police (Northern Ireland) Act 1998[^f00001] (“the 1998 Act”), with the consent of the Treasury in accordance with section 72(2A)[^f00002] of that Act.
+[^c-cf9c72fc9afc2ed027c621c1ee6bcb31]The Secretary of State makes these Regulations, in exercise of the powers conferred on him by sections 25(2)(k) and 26(2)(g) of the Police (Northern Ireland) Act 1998[^f00001] (“the 1998 Act”), with the consent of the Treasury in accordance with section 72(2A)[^f00002] of that Act.
 
 The Secretary of State has consulted with the Police Negotiating Board in accordance with section 62(3) of the Police Act 1996[^f00003], and the Northern Ireland Policing Board and the Police Association in accordance with section 26(6) of the 1998 Act.
 
@@ -334,7 +334,7 @@ Part 8 contains financial provisions including provisions on transfer values. Pa
 
 ## Annotations
 
-[^key-cf9c72fc9afc2ed027c621c1ee6bcb31]: Modification: Regulations applied (with modifications) by S.R. 2009/79, reg. 91A, Sch. 4A (as inserted (1.4.2013) by [The Police Pension (Northern Ireland) (Amendment) Regulations 2013 (S.R. 2013/36)](https://www.legislation.gov.uk/nisr/2013/36), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/36/regulation/1/2), [Sch. paras. 7](https://www.legislation.gov.uk/nisr/2013/36/schedule/paragraph/7), [9](https://www.legislation.gov.uk/nisr/2013/36/schedule/paragraph/9))
+[^c-cf9c72fc9afc2ed027c621c1ee6bcb31]: Modification: Regulations applied (with modifications) by S.R. 2009/79, reg. 91A, Sch. 4A (as inserted (1.4.2013) by [The Police Pension (Northern Ireland) (Amendment) Regulations 2013 (S.R. 2013/36)](https://www.legislation.gov.uk/nisr/2013/36), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/36/regulation/1/2), [Sch. paras. 7](https://www.legislation.gov.uk/nisr/2013/36/schedule/paragraph/7), [9](https://www.legislation.gov.uk/nisr/2013/36/schedule/paragraph/9))
 
 [^f00001]: Footnote: [1998 c.32](https://www.legislation.gov.uk/ukpga/1998/32). The powers conferred by sections 25 and 26 are extended by Articles 14 and 15 of the Superannuation (Northern Ireland) Order 1972 ([S.I.1972/1073 (N.I.10)](https://www.legislation.gov.uk/nisi/1972/1073)) which enable regulations to have retrospective effect. Both sections have been modified by section 49 of the [Police (Northern Ireland) Act 2000 (“2000 Act”) (c.32)](https://www.legislation.gov.uk/ukpga/2000/32)
 

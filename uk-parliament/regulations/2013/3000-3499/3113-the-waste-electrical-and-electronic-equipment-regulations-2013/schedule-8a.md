@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8A — Approval of a PBS[^key-569d1e9c7f42899712d0f048bff48a45]
+## SCHEDULE 8A — Approval of a PBS[^c-569d1e9c7f42899712d0f048bff48a45]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,4 +69,4 @@ Regulation 34A(10)
 
 ## Annotations
 
-[^key-569d1e9c7f42899712d0f048bff48a45]: Textual amendment: [Sch. 8A](https://www.legislation.gov.uk/uksi/2013/3113/schedule/8A) inserted (1.1.2019) by [The Waste Electrical and Electronic Equipment (Amendment) (No. 2) Regulations 2018 (S.I. 2018/1214)](https://www.legislation.gov.uk/uksi/2018/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1214/regulation/1), [30](https://www.legislation.gov.uk/uksi/2018/1214/regulation/30)
+[^c-569d1e9c7f42899712d0f048bff48a45]: Textual amendment: [Sch. 8A](https://www.legislation.gov.uk/uksi/2013/3113/schedule/8A) inserted (1.1.2019) by [The Waste Electrical and Electronic Equipment (Amendment) (No. 2) Regulations 2018 (S.I. 2018/1214)](https://www.legislation.gov.uk/uksi/2018/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1214/regulation/1), [30](https://www.legislation.gov.uk/uksi/2018/1214/regulation/30)

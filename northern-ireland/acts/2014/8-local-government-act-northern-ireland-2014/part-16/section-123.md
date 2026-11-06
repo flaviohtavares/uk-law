@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 123. Compensation for loss of office or diminution of emoluments[^key-ab58ca57c62e6bd841fdd0429badf759]
+## 123. Compensation for loss of office or diminution of emoluments[^c-ab58ca57c62e6bd841fdd0429badf759]
 
 *Extent: N.I.*
 
@@ -51,4 +51,4 @@ there is to be treated as forming part of the remuneration payable under the new
 
 ## Annotations
 
-[^key-ab58ca57c62e6bd841fdd0429badf759]: Commencement: [S. 123](https://www.legislation.gov.uk/nia/2014/8/section/123) in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-ab58ca57c62e6bd841fdd0429badf759]: Commencement: [S. 123](https://www.legislation.gov.uk/nia/2014/8/section/123) in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)

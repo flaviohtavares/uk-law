@@ -22,11 +22,11 @@ summary: ''
 
 Article ‎40
 
-### 1. Commencing an arbitration[^key-cdd9e837a3ce8a00138a11e93e2cc1e5]
+### 1. Commencing an arbitration[^c-cdd9e837a3ce8a00138a11e93e2cc1e5]
 
 The arbitration is deemed to have commenced when a party (“**the claimant**”) serves a written notice of arbitration on the other party (“**the respondent**”).
 
-### 2. Time periods[^key-7542c879d4d041d15c5343024aa30730]
+### 2. Time periods[^c-7542c879d4d041d15c5343024aa30730]
 
 (1) All time periods in these arbitration rules are measured in days and include weekends, but not bank or public holidays.
 
@@ -35,7 +35,7 @@ The arbitration is deemed to have commenced when a party (“**the claimant**”
 - (a) the date the arbitrator notifies the parties in writing of his/her acceptance of an appointment by agreement of the parties; or
 - (b) the date the arbitrator is appointed by the Secretary of State.
 
-### 3. Timetable[^key-7d2240267e596e854a6e840c689c443e]
+### 3. Timetable[^c-7d2240267e596e854a6e840c689c443e]
 
 (1) The timetable for the arbitration is that which is set out in sub-paragraphs ‎(2) to ‎(4) below unless amended in accordance with paragraph ‎5(3).
 
@@ -58,7 +58,7 @@ The arbitration is deemed to have commenced when a party (“**the claimant**”
 - (d) any objections to the statements of evidence, expert reports or other documents submitted by the respondent; and
 - (e) its written submissions in response to the legal and factual issues involved.
 
-### 4. Procedure[^key-adb55d9d6648f902c95e7074873f7d69]
+### 4. Procedure[^c-adb55d9d6648f902c95e7074873f7d69]
 
 (1) The parties’ pleadings, witness statements and expert reports (if any) must be concise. A single pleading must not exceed 20 single-sided A4 pages using 10pt Arial font.
 
@@ -86,7 +86,7 @@ The arbitration is deemed to have commenced when a party (“**the claimant**”
 
 (11) The arbitrator’s award must include reasons. The parties must accept that the extent to which reasons are given must be proportionate to the issues in dispute and the time available to the arbitrator to deliver the award.
 
-### 5. Arbitrator’s powers[^key-b6e7aad815e52e3271cfa2c88dcd640d]
+### 5. Arbitrator’s powers[^c-b6e7aad815e52e3271cfa2c88dcd640d]
 
 (1) The arbitrator has all the powers of the Arbitration Act 1996, save where modified in this Schedule.
 
@@ -99,7 +99,7 @@ The arbitration is deemed to have commenced when a party (“**the claimant**”
 
 (4) On the date the award is made, the arbitrator will notify the parties that the award is completed, signed and dated, and that it will be issued to the parties on receipt of cleared funds for the arbitrator’s fees and expenses.
 
-### 6. Costs[^key-2727775ccf94359f87cf0c9d695a8584]
+### 6. Costs[^c-2727775ccf94359f87cf0c9d695a8584]
 
 (1) The costs of the arbitration must include the fees and expenses of the arbitrator, the reasonable fees and expenses of any experts and the reasonable legal and other costs incurred by the parties for the arbitration.
 
@@ -109,7 +109,7 @@ The arbitration is deemed to have commenced when a party (“**the claimant**”
 
 (4) The arbitrator must award recoverable costs on the general principle that each party should bear its own costs, having regard to all material circumstances, including such matters as exaggerated claims or defences, the degree of success for different elements of the claims, claims that have incurred substantial costs, the conduct of the parties and the degree of success of a party.
 
-### 7. Confidentiality[^key-ba9d98904a71ad7ae45a19488f9ccc9d]
+### 7. Confidentiality[^c-ba9d98904a71ad7ae45a19488f9ccc9d]
 
 (1) Hearings in this arbitration are to take place in private.
 
@@ -117,16 +117,16 @@ The arbitration is deemed to have commenced when a party (“**the claimant**”
 
 ## Annotations
 
-[^key-cdd9e837a3ce8a00138a11e93e2cc1e5]: Commencement: Sch. 13 para. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-cdd9e837a3ce8a00138a11e93e2cc1e5]: Commencement: Sch. 13 para. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
 
-[^key-7542c879d4d041d15c5343024aa30730]: Commencement: Sch. 13 para. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-7542c879d4d041d15c5343024aa30730]: Commencement: Sch. 13 para. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
 
-[^key-7d2240267e596e854a6e840c689c443e]: Commencement: Sch. 13 para. 3 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-7d2240267e596e854a6e840c689c443e]: Commencement: Sch. 13 para. 3 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
 
-[^key-adb55d9d6648f902c95e7074873f7d69]: Commencement: Sch. 13 para. 4 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-adb55d9d6648f902c95e7074873f7d69]: Commencement: Sch. 13 para. 4 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
 
-[^key-b6e7aad815e52e3271cfa2c88dcd640d]: Commencement: Sch. 13 para. 5 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-b6e7aad815e52e3271cfa2c88dcd640d]: Commencement: Sch. 13 para. 5 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
 
-[^key-2727775ccf94359f87cf0c9d695a8584]: Commencement: Sch. 13 para. 6 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-2727775ccf94359f87cf0c9d695a8584]: Commencement: Sch. 13 para. 6 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
 
-[^key-ba9d98904a71ad7ae45a19488f9ccc9d]: Commencement: Sch. 13 para. 7 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-ba9d98904a71ad7ae45a19488f9ccc9d]: Commencement: Sch. 13 para. 7 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)

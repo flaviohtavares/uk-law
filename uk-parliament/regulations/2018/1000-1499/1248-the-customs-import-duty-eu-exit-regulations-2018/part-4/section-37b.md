@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37B. Fixed transport installations[^key-56d24fba3e5de12b8a52d628f78f0ec8]
+## 37B. Fixed transport installations[^c-56d24fba3e5de12b8a52d628f78f0ec8]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 
 - (a) make the Customs declaration in two parts comprising—
   - (i) a simplified Customs declaration which must be made as soon as practicable after the entry in records in paragraph (1), and
-  - (ii)[^key-0273807e8a0f153d90212bb5db382c1d] a supplementary Customs declaration which must be made no later than the end of the period specified in a notice published by HMRC.
+  - (ii)[^c-0273807e8a0f153d90212bb5db382c1d] a supplementary Customs declaration which must be made no later than the end of the period specified in a notice published by HMRC.
 - (b) comply with stipulations made in a notice published by HMRC for the purposes of this regulation and the goods in question, about—
   - (i) keeping records and making them available to an HMRC officer,
   - (ii) making declarations for appropriate time periods,
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-56d24fba3e5de12b8a52d628f78f0ec8]: Textual amendment: Reg. 37B inserted (31.12.2020) by [The Customs (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1552)](https://www.legislation.gov.uk/uksi/2020/1552), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/2/7); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-56d24fba3e5de12b8a52d628f78f0ec8]: Textual amendment: Reg. 37B inserted (31.12.2020) by [The Customs (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1552)](https://www.legislation.gov.uk/uksi/2020/1552), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/2/7); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-0273807e8a0f153d90212bb5db382c1d]: Textual amendment: [Reg. 37B(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1248/regulation/37B/5/a/ii) substituted (13.6.2023) by [The Customs (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/569)](https://www.legislation.gov.uk/uksi/2023/569), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/569/regulation/1/1), [2(10)](https://www.legislation.gov.uk/uksi/2023/569/regulation/2/10)
+[^c-0273807e8a0f153d90212bb5db382c1d]: Textual amendment: [Reg. 37B(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1248/regulation/37B/5/a/ii) substituted (13.6.2023) by [The Customs (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/569)](https://www.legislation.gov.uk/uksi/2023/569), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/569/regulation/1/1), [2(10)](https://www.legislation.gov.uk/uksi/2023/569/regulation/2/10)

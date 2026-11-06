@@ -46,13 +46,13 @@ In accordance with section 88(3)(a)(i) of that Act, a draft of this instrument w
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and application[^key-12f89a94ea6824f148f743bbd9f3a441]
+### 1. Citation, commencement and application[^c-12f89a94ea6824f148f743bbd9f3a441]
 
 (1) This Order may be cited as the Redress Schemes for Lettings Agency Work and Property Management Work (Requirement to Belong to a Scheme etc) (England) Order 2014 and comes into force on the twenty-eighth day after the day on which it is made.
 
 (2) This Order applies in relation to England only.
 
-### 2. Interpretation[^key-af8b5da08548167d06f3437472859f4b]
+### 2. Interpretation[^c-af8b5da08548167d06f3437472859f4b]
 
 In this Order—
 
@@ -61,7 +61,7 @@ In this Order—
 
 ## PART 2 — Lettings agency work
 
-### 3. Requirement to belong to a redress scheme: lettings agency work[^key-e4ba3ec4865a1a7ba0bf02bdd19a48a5]
+### 3. Requirement to belong to a redress scheme: lettings agency work[^c-e4ba3ec4865a1a7ba0bf02bdd19a48a5]
 
 (1) A person who engages in lettings agency work must be a member of a redress scheme for dealing with complaints in connection with that work.
 
@@ -72,7 +72,7 @@ In this Order—
 
 (3) For the purposes of this article a “complaint” is a complaint made by a person who is or has been a prospective landlord or a prospective tenant.
 
-### 4. Exclusions: lettings agency work[^key-4d5ec85de6212a0d3500a3308b86a2eb]
+### 4. Exclusions: lettings agency work[^c-4d5ec85de6212a0d3500a3308b86a2eb]
 
 (1) For the purposes of section 83 of the Act, “lettings agency work” does not include the things described in this article.
 
@@ -102,7 +102,7 @@ In this Order—
 
 ## PART 3 — Property management work
 
-### 5. Requirement to belong to a redress scheme: property management work[^key-ca9c76a62d0916e945f414076e2ed26c]
+### 5. Requirement to belong to a redress scheme: property management work[^c-ca9c76a62d0916e945f414076e2ed26c]
 
 (1) A person who engages in property management work must be a member of a redress scheme for dealing with complaints in connection with that work.
 
@@ -111,7 +111,7 @@ In this Order—
 - (a) approved by the Secretary of State; or
 - (b) designated by the Secretary of State as a government administered redress scheme.
 
-### 6. Exclusions: property management work[^key-e96ca7a1c0305f8d214e9fe3d213cd91]
+### 6. Exclusions: property management work[^c-e96ca7a1c0305f8d214e9fe3d213cd91]
 
 (1) For the purposes of section 84 of the Act, “property management work” does not include the things described in this article.
 
@@ -168,15 +168,15 @@ In this Order—
 
 ## PART 4 — Enforcement
 
-### 7. Enforcement authority[^key-1ccf057a50746c69b856c0c2727866a3]
+### 7. Enforcement authority[^c-1ccf057a50746c69b856c0c2727866a3]
 
 (1) It shall be the duty of every enforcement authority to enforce this Order.
 
 (2) The duty referred to in paragraph (1) applies to the enforcement of the Order within the authority’s area.
 
-(3)[^key-9f682b557fed5c3c6131163879d09bbd] The duty referred to in paragraph (1) is subject to section 26 (enforcement by the lead enforcement authority) of the Tenant Fees Act 2019.
+(3)[^c-9f682b557fed5c3c6131163879d09bbd] The duty referred to in paragraph (1) is subject to section 26 (enforcement by the lead enforcement authority) of the Tenant Fees Act 2019.
 
-### 8. Penalty for breach of the requirement to belong to a redress scheme[^key-0ade673d09cadb06b77060be83566c59]
+### 8. Penalty for breach of the requirement to belong to a redress scheme[^c-0ade673d09cadb06b77060be83566c59]
 
 (1) Where an enforcement authority is satisfied on the balance of probabilities that a person has failed to comply with the requirement to belong to a redress scheme under article 3 (requirement to belong to a redress scheme: lettings agency work) or article 5 (requirement to belong to a redress scheme: property management work), the authority may by notice require the person to pay the authority a monetary penalty (a “monetary penalty”) of such amount as the authority may determine.
 
@@ -184,7 +184,7 @@ In this Order—
 
 (3) The Schedule provides for the procedure relating to the imposition of a monetary penalty.
 
-### 9. Appeals[^key-171de3c0d1e68c6797ee09bd76169d2c]
+### 9. Appeals[^c-171de3c0d1e68c6797ee09bd76169d2c]
 
 (1) A person who is served with a notice imposing a monetary penalty under paragraph 3 of the Schedule (a “final notice”) may appeal to the First-tier Tribunal against that notice.
 
@@ -203,7 +203,7 @@ In this Order—
 - (b) confirm the final notice;
 - (c) vary the final notice.
 
-### 10. Recovery of monetary penalty[^key-12045e0e939d7d867cbbca955dff78b0]
+### 10. Recovery of monetary penalty[^c-12045e0e939d7d867cbbca955dff78b0]
 
 (1) The enforcement authority may recover the monetary penalty on the order of a court, as if payable under a court order.
 
@@ -230,7 +230,7 @@ Department for Communities and Local Government
 
 Article 8
 
-### 1. Notice of intent[^key-42265d03bffddc1e16a7ea8ca53acac8]
+### 1. Notice of intent[^c-42265d03bffddc1e16a7ea8ca53acac8]
 
 (1) Where an enforcement authority proposes to impose a monetary penalty on a person, the authority must serve on that person a notice of what is proposed (a “notice of intent”).
 
@@ -242,11 +242,11 @@ Article 8
 - (b) the amount of the penalty;
 - (c) information as to the right to make representations and objections within 28 days beginning with the day after the date on which the notice of intent was sent.
 
-### 2. Making representations and objections[^key-0bab79e5f7086d2e52cc7c95d75b4c5a]
+### 2. Making representations and objections[^c-0bab79e5f7086d2e52cc7c95d75b4c5a]
 
 A person on whom a notice of intent is served may within 28 days beginning with the day after the date on which the notice was sent make written representations and objections to the enforcement authority in relation to the proposed imposition of a monetary penalty.
 
-### 3. Final notice[^key-375e91fefe0e16386118a7dcb4dc78e3]
+### 3. Final notice[^c-375e91fefe0e16386118a7dcb4dc78e3]
 
 (1) After the end of the period for making representations and objections, the enforcement authority must decide whether to impose the monetary penalty, with or without modifications.
 
@@ -261,7 +261,7 @@ A person on whom a notice of intent is served may within 28 days beginning with 
 - (e) information about rights of appeal; and
 - (f) information about the consequences of failing to comply with the notice.
 
-### 4. Withdrawing or amending a notice[^key-b18e2d6506d7b387f8a06e499ccef917]
+### 4. Withdrawing or amending a notice[^c-b18e2d6506d7b387f8a06e499ccef917]
 
 The enforcement authority may at any time by giving notice in writing —
 
@@ -296,13 +296,13 @@ A regulatory impact assessment has been prepared in relation to the Order and wi
 
 [^f00001]: Footnote: [2013 c.24](https://www.legislation.gov.uk/ukpga/2013/24)
 
-[^key-12f89a94ea6824f148f743bbd9f3a441]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2014/2359/article/1) in force at 1.10.2014 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2359/article/1/1)
+[^c-12f89a94ea6824f148f743bbd9f3a441]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2014/2359/article/1) in force at 1.10.2014 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2359/article/1/1)
 
-[^key-af8b5da08548167d06f3437472859f4b]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2014/2359/article/2) in force at 1.10.2014 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2359/article/1/1)
+[^c-af8b5da08548167d06f3437472859f4b]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2014/2359/article/2) in force at 1.10.2014 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2359/article/1/1)
 
-[^key-e4ba3ec4865a1a7ba0bf02bdd19a48a5]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2014/2359/article/3) in force at 1.10.2014 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2359/article/1/1)
+[^c-e4ba3ec4865a1a7ba0bf02bdd19a48a5]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2014/2359/article/3) in force at 1.10.2014 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2359/article/1/1)
 
-[^key-4d5ec85de6212a0d3500a3308b86a2eb]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2014/2359/article/4) in force at 1.10.2014 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2359/article/1/1)
+[^c-4d5ec85de6212a0d3500a3308b86a2eb]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2014/2359/article/4) in force at 1.10.2014 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2359/article/1/1)
 
 [^f00002]: Footnote: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14)
 
@@ -310,9 +310,9 @@ A regulatory impact assessment has been prepared in relation to the Order and wi
 
 [^f00004]: Footnote: [S.I. 2010/93](https://www.legislation.gov.uk/uksi/2010/93); amended by [SI 2011/1941](https://www.legislation.gov.uk/uksi/2011/1941).
 
-[^key-ca9c76a62d0916e945f414076e2ed26c]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2014/2359/article/5) in force at 1.10.2014 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2359/article/1/1)
+[^c-ca9c76a62d0916e945f414076e2ed26c]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2014/2359/article/5) in force at 1.10.2014 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2359/article/1/1)
 
-[^key-e96ca7a1c0305f8d214e9fe3d213cd91]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2014/2359/article/6) in force at 1.10.2014 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2359/article/1/1)
+[^c-e96ca7a1c0305f8d214e9fe3d213cd91]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2014/2359/article/6) in force at 1.10.2014 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2359/article/1/1)
 
 [^f00005]: Footnote: [1974 c.7](https://www.legislation.gov.uk/ukpga/1974/7)
 
@@ -324,22 +324,22 @@ A regulatory impact assessment has been prepared in relation to the Order and wi
 
 [^f00009]: Footnote: Section 73 (2)(b) was amended by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941) Schedule 1 paragraph 194(1) and (15).
 
-[^key-1ccf057a50746c69b856c0c2727866a3]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2014/2359/article/7) in force at 1.10.2014 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2359/article/1/1)
+[^c-1ccf057a50746c69b856c0c2727866a3]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2014/2359/article/7) in force at 1.10.2014 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2359/article/1/1)
 
-[^key-9f682b557fed5c3c6131163879d09bbd]: Textual amendment: [Art. 7(3)](https://www.legislation.gov.uk/uksi/2014/2359/article/7/3) inserted (15.4.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 29(3)](https://www.legislation.gov.uk/ukpga/2019/4/section/29/3), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 29(4)](https://www.legislation.gov.uk/ukpga/2019/4/section/29/4)); [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2019/857/regulation/2/d)
+[^c-9f682b557fed5c3c6131163879d09bbd]: Textual amendment: [Art. 7(3)](https://www.legislation.gov.uk/uksi/2014/2359/article/7/3) inserted (15.4.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 29(3)](https://www.legislation.gov.uk/ukpga/2019/4/section/29/3), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 29(4)](https://www.legislation.gov.uk/ukpga/2019/4/section/29/4)); [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2019/857/regulation/2/d)
 
-[^key-0ade673d09cadb06b77060be83566c59]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2014/2359/article/8) in force at 1.10.2014 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2359/article/1/1)
+[^c-0ade673d09cadb06b77060be83566c59]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2014/2359/article/8) in force at 1.10.2014 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2359/article/1/1)
 
-[^key-171de3c0d1e68c6797ee09bd76169d2c]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2014/2359/article/9) in force at 1.10.2014 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2359/article/1/1)
+[^c-171de3c0d1e68c6797ee09bd76169d2c]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2014/2359/article/9) in force at 1.10.2014 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2359/article/1/1)
 
-[^key-12045e0e939d7d867cbbca955dff78b0]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2014/2359/article/10) in force at 1.10.2014 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2359/article/1/1)
+[^c-12045e0e939d7d867cbbca955dff78b0]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2014/2359/article/10) in force at 1.10.2014 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2359/article/1/1)
 
 [^f00010]: Footnote: [1989 c.42](https://www.legislation.gov.uk/ukpga/1989/42); amendments have been made to section 5 but they are not relevant to this Order.
 
-[^key-42265d03bffddc1e16a7ea8ca53acac8]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2014/2359/schedule/paragraph/1) in force at 1.10.2014 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2359/article/1/1)
+[^c-42265d03bffddc1e16a7ea8ca53acac8]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2014/2359/schedule/paragraph/1) in force at 1.10.2014 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2359/article/1/1)
 
-[^key-0bab79e5f7086d2e52cc7c95d75b4c5a]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2014/2359/schedule/paragraph/2) in force at 1.10.2014 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2359/article/1/1)
+[^c-0bab79e5f7086d2e52cc7c95d75b4c5a]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2014/2359/schedule/paragraph/2) in force at 1.10.2014 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2359/article/1/1)
 
-[^key-375e91fefe0e16386118a7dcb4dc78e3]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2014/2359/schedule/paragraph/3) in force at 1.10.2014 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2359/article/1/1)
+[^c-375e91fefe0e16386118a7dcb4dc78e3]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2014/2359/schedule/paragraph/3) in force at 1.10.2014 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2359/article/1/1)
 
-[^key-b18e2d6506d7b387f8a06e499ccef917]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2014/2359/schedule/paragraph/4) in force at 1.10.2014 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2359/article/1/1)
+[^c-b18e2d6506d7b387f8a06e499ccef917]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2014/2359/schedule/paragraph/4) in force at 1.10.2014 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2359/article/1/1)

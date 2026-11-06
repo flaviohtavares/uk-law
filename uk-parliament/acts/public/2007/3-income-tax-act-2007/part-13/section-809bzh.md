@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 809BZH. Certain tax consequences not to have effect[^key-9d542ddea38a4d7d6244b4b4360933ee]
+## 809BZH. Certain tax consequences not to have effect[^c-9d542ddea38a4d7d6244b4b4360933ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) In such a case—
 
-- (a) Part 9 of ITTOIA 2005 (partnerships) is to have effect in relation to the transferor or the person connected with the transferor[^key-30f02ec942e48da5de4a51afba67e6fe] as if the relevant change in relation to the partnership had not occurred, and
+- (a) Part 9 of ITTOIA 2005 (partnerships) is to have effect in relation to the transferor or the person connected with the transferor[^c-30f02ec942e48da5de4a51afba67e6fe] as if the relevant change in relation to the partnership had not occurred, and
 - (b) accordingly the finance arrangement is not to have the relevant effect.
 
 (3) The relevant effect is that—
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9d542ddea38a4d7d6244b4b4360933ee]: Textual amendment: Ss. 809BZF-809BZI and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2010/8/schedule/5/paragraph/3) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-9d542ddea38a4d7d6244b4b4360933ee]: Textual amendment: Ss. 809BZF-809BZI and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2010/8/schedule/5/paragraph/3) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-30f02ec942e48da5de4a51afba67e6fe]: Textual amendment: Words in s. 809BZH inserted (17.7.2012) (with effect in accordance with Sch. 13 para. 42 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 13 para. 35](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/paragraph/35)
+[^c-30f02ec942e48da5de4a51afba67e6fe]: Textual amendment: Words in s. 809BZH inserted (17.7.2012) (with effect in accordance with Sch. 13 para. 42 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 13 para. 35](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/paragraph/35)

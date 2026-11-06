@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Brokering services: non-UK activity relating to restricted goods and restricted technology[^key-5ab312f9d0ad30879ac07eae0eac29be]
+## 30. Brokering services: non-UK activity relating to restricted goods and restricted technology[^c-5ab312f9d0ad30879ac07eae0eac29be]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ab312f9d0ad30879ac07eae0eac29be]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-5ab312f9d0ad30879ac07eae0eac29be]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

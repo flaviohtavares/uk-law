@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Safety duties protecting children: interpretation[^key-37f1528b595a72d50769937b0bce8e6f][^key-9b69c7fa6343ea53bf5ae8023aed1b6d]
+## 30. Safety duties protecting children: interpretation[^c-37f1528b595a72d50769937b0bce8e6f][^c-9b69c7fa6343ea53bf5ae8023aed1b6d]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-37f1528b595a72d50769937b0bce8e6f]: Commencement: S. 30 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-37f1528b595a72d50769937b0bce8e6f]: Commencement: S. 30 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-9b69c7fa6343ea53bf5ae8023aed1b6d]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2023/50/section/30) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/j)
+[^c-9b69c7fa6343ea53bf5ae8023aed1b6d]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2023/50/section/30) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/j)

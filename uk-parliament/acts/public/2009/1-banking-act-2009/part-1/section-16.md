@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Share transfer order[^M_I_57295a47-04fc-4dd3-b2ff-76665750806b][^key-e579d14c1388ce945aafcdab4c7985c9]
+## 16. Share transfer order[^M_I_57295a47-04fc-4dd3-b2ff-76665750806b][^c-e579d14c1388ce945aafcdab4c7985c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^M_I_57295a47-04fc-4dd3-b2ff-76665750806b]: Commencement: S. 16 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 1
 
-[^key-e579d14c1388ce945aafcdab4c7985c9]: Commencement: S. 16 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
+[^c-e579d14c1388ce945aafcdab4c7985c9]: Commencement: S. 16 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)

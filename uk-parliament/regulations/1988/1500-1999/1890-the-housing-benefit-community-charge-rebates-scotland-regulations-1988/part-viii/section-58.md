@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 58. Who may claim[^key-31de20f404151f283d97f523c16fc7e0]
+## 58. Who may claim[^c-31de20f404151f283d97f523c16fc7e0]
 
 *Extent: E+W+S*
 
@@ -44,7 +44,7 @@ that curator, judicial factor, other guardian, receiver or attorney, as the case
 
 ## Annotations
 
-[^key-31de20f404151f283d97f523c16fc7e0]: Commencement: Reg. 58 in force at 23.11.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-31de20f404151f283d97f523c16fc7e0]: Commencement: Reg. 58 in force at 23.11.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
 
 [^f00058]: Footnote: [1971 c. 27](https://www.legislation.gov.uk/ukpga/1971/27).
 

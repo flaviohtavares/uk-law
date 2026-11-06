@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Goods vehicles operator licensing[^key-036d898aa305253bad35c96c35ebd69d]
+## 6. Goods vehicles operator licensing[^c-036d898aa305253bad35c96c35ebd69d]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-036d898aa305253bad35c96c35ebd69d]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2006/49/section/6) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(c)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/c)
+[^c-036d898aa305253bad35c96c35ebd69d]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2006/49/section/6) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(c)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/c)

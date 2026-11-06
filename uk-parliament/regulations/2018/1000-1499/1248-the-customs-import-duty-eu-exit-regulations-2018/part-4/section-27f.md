@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27F. Storage procedure: free zones[^key-ce65b4bb8831b0da01660c9c2e9a3c2a]
+## 27F. Storage procedure: free zones[^c-ce65b4bb8831b0da01660c9c2e9a3c2a]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ specified in a notice published by HMRC.
 
 ## Annotations
 
-[^key-ce65b4bb8831b0da01660c9c2e9a3c2a]: Textual amendment: [Reg. 27F](https://www.legislation.gov.uk/uksi/2018/1248/regulation/27F) inserted (8.11.2021) by [The Free Zones (Customs, Excise and Value Added Tax) Regulations 2021 (S.I. 2021/1156)](https://www.legislation.gov.uk/uksi/2021/1156), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1156/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2021/1156/regulation/2/6)
+[^c-ce65b4bb8831b0da01660c9c2e9a3c2a]: Textual amendment: [Reg. 27F](https://www.legislation.gov.uk/uksi/2018/1248/regulation/27F) inserted (8.11.2021) by [The Free Zones (Customs, Excise and Value Added Tax) Regulations 2021 (S.I. 2021/1156)](https://www.legislation.gov.uk/uksi/2021/1156), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1156/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2021/1156/regulation/2/6)

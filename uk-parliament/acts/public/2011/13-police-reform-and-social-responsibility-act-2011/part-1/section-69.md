@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Validity of acts[^key-8564575f3a0f3e86678df180e9ba562c][^key-025e9d20cba33185e9aee95a9644597f]
+## 69. Validity of acts[^c-8564575f3a0f3e86678df180e9ba562c][^c-025e9d20cba33185e9aee95a9644597f]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ as valid and effectual as if the person had not been so disqualified.
 
 ## Annotations
 
-[^key-8564575f3a0f3e86678df180e9ba562c]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2011/13/section/69) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/b)
+[^c-8564575f3a0f3e86678df180e9ba562c]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2011/13/section/69) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/b)
 
-[^key-025e9d20cba33185e9aee95a9644597f]: Modification: [S. 69](https://www.legislation.gov.uk/ukpga/2011/13/section/69) excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 2 para. 21(c)](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/21/c)
+[^c-025e9d20cba33185e9aee95a9644597f]: Modification: [S. 69](https://www.legislation.gov.uk/ukpga/2011/13/section/69) excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 2 para. 21(c)](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/21/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 283. Other defined terms[^key-bb5303fe949df543aece31c8e59aa955][^key-bee12858184f539e1623b923a88c60b5]
+## 283. Other defined terms[^c-bb5303fe949df543aece31c8e59aa955][^c-bee12858184f539e1623b923a88c60b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bb5303fe949df543aece31c8e59aa955]: Commencement: S. 283 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-bb5303fe949df543aece31c8e59aa955]: Commencement: S. 283 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-bee12858184f539e1623b923a88c60b5]: Commencement: [S. 283](https://www.legislation.gov.uk/ukpga/2024/13/section/283) in force at 1.1.2026 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 3](https://www.legislation.gov.uk/uksi/2025/272/regulation/3)
+[^c-bee12858184f539e1623b923a88c60b5]: Commencement: [S. 283](https://www.legislation.gov.uk/ukpga/2024/13/section/283) in force at 1.1.2026 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 3](https://www.legislation.gov.uk/uksi/2025/272/regulation/3)

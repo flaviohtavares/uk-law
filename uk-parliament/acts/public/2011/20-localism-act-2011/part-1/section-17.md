@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Transfer schemes[^key-edbf7fa58b9be62dd49a428eee88c319]
+## 17. Transfer schemes[^c-edbf7fa58b9be62dd49a428eee88c319]
 
 *Extent: E+W*
 
-(1) The Secretary of State may make a scheme for the transfer of property, rights or liabilities from the person who, or body which, would have a local public function but for an order under section 15 to the EPB[^key-20c962477ed372da604874fbda6cb7ac] to which the function is transferred.
+(1) The Secretary of State may make a scheme for the transfer of property, rights or liabilities from the person who, or body which, would have a local public function but for an order under section 15 to the EPB[^c-20c962477ed372da604874fbda6cb7ac] to which the function is transferred.
 
 (2) A Minister of the Crown may make a scheme for the transfer from the Crown to a permitted authority of such property, rights or liabilities as the Minister of the Crown considers appropriate in consequence of a delegation, or the variation of a delegation, under section 16 of a function of any Minister of the Crown to the permitted authority.
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-edbf7fa58b9be62dd49a428eee88c319]: Commencement: S. 17 in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(a)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/a) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-edbf7fa58b9be62dd49a428eee88c319]: Commencement: S. 17 in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(a)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/a) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
 
-[^key-20c962477ed372da604874fbda6cb7ac]: Textual amendment: Word in s. 17(1) substituted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2), [Sch. 5 para. 34](https://www.legislation.gov.uk/ukpga/2016/1/schedule/5/paragraph/34)
+[^c-20c962477ed372da604874fbda6cb7ac]: Textual amendment: Word in s. 17(1) substituted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2), [Sch. 5 para. 34](https://www.legislation.gov.uk/ukpga/2016/1/schedule/5/paragraph/34)

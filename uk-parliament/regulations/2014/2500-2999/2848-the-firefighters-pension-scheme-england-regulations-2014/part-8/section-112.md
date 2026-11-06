@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Contributions during absence from work on reserve forces service leave[^key-8e9bce571b6d3ffaff9499d85f8fbfc8]
+## 112. Contributions during absence from work on reserve forces service leave[^c-8e9bce571b6d3ffaff9499d85f8fbfc8]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e9bce571b6d3ffaff9499d85f8fbfc8]: Commencement: [Reg. 112](https://www.legislation.gov.uk/uksi/2014/2848/regulation/112) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-8e9bce571b6d3ffaff9499d85f8fbfc8]: Commencement: [Reg. 112](https://www.legislation.gov.uk/uksi/2014/2848/regulation/112) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

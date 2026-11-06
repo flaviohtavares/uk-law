@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Public notification of accelerated misconduct hearing[^key-982d1aec32f73f1b3d01229e130ccfca]
+## 53. Public notification of accelerated misconduct hearing[^c-982d1aec32f73f1b3d01229e130ccfca]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-982d1aec32f73f1b3d01229e130ccfca]: Commencement: Reg. 53 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-982d1aec32f73f1b3d01229e130ccfca]: Commencement: Reg. 53 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)

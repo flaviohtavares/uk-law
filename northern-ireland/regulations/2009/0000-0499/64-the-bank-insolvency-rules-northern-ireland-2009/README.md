@@ -33,7 +33,7 @@ BANKING
 
 BANK INSOLVENCY
 
-The Bank Insolvency Rules (Northern Ireland) 2009 (revoked)[^key-082c2c293c175f1567e6badeace4ce7f]
+The Bank Insolvency Rules (Northern Ireland) 2009 (revoked)[^c-082c2c293c175f1567e6badeace4ce7f]
 
 Made
 
@@ -45,11 +45,11 @@ Coming into operation
 
 25th February 2009
 
-[^key-082c2c293c175f1567e6badeace4ce7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-082c2c293c175f1567e6badeace4ce7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — INTRODUCTORY PROVISIONS[^key-082c2c293c175f1567e6badeace4ce7f]
+### PART 1 — INTRODUCTORY PROVISIONS[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -62,7 +62,7 @@ Coming into operation
 - [Section 5 — Forms](part-1/section-5.md)
 - [Section 6 — Time](part-1/section-6.md)
 
-### PART 2 — APPLICATION FOR ORDER[^key-082c2c293c175f1567e6badeace4ce7f]
+### PART 2 — APPLICATION FOR ORDER[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -82,7 +82,7 @@ Coming into operation
 - [Section 18 — Initial duties of bank liquidation committee](part-2/section-18.md)
 - [Section 19 — Expenses of voluntary arrangement](part-2/section-19.md)
 
-### PART 3 — PROVISIONAL BANK LIQUIDATOR[^key-082c2c293c175f1567e6badeace4ce7f]
+### PART 3 — PROVISIONAL BANK LIQUIDATOR[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -96,7 +96,7 @@ Coming into operation
 - [Section 25 — Remuneration](part-3/section-25.md)
 - [Section 26 — Termination of appointment](part-3/section-26.md)
 
-### PART 4 — STATEMENT OF AFFAIRS AND OTHER INFORMATION[^key-082c2c293c175f1567e6badeace4ce7f]
+### PART 4 — STATEMENT OF AFFAIRS AND OTHER INFORMATION[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -110,7 +110,7 @@ Coming into operation
 - [Section 32 — Submission of accounts](part-4/section-32.md)
 - [Section 33 — Further disclosure](part-4/section-33.md)
 
-### PART 5 — INFORMATION TO CREDITORS AND CONTRIBUTORIES[^key-082c2c293c175f1567e6badeace4ce7f]
+### PART 5 — INFORMATION TO CREDITORS AND CONTRIBUTORIES[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -123,13 +123,13 @@ Coming into operation
 - [Section 38 — General rule as to reporting](part-5/section-38.md)
 - [Section 39 — Bank insolvency stayed](part-5/section-39.md)
 
-### PART 6 — MEETINGS OF CREDITORS AND CONTRIBUTORIES[^key-082c2c293c175f1567e6badeace4ce7f]
+### PART 6 — MEETINGS OF CREDITORS AND CONTRIBUTORIES[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
 **No longer in force.**
 
-#### RULES OF GENERAL APPLICATION[^key-082c2c293c175f1567e6badeace4ce7f]
+#### RULES OF GENERAL APPLICATION[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -153,7 +153,7 @@ Coming into operation
 - [Section 55 — Admission and rejection of proof (creditors' meetings)](part-6/section-55.md)
 - [Section 56 — Record of proceedings](part-6/section-56.md)
 
-### PART 7 — PROOF OF DEBTS[^key-082c2c293c175f1567e6badeace4ce7f]
+### PART 7 — PROOF OF DEBTS[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -181,7 +181,7 @@ Coming into operation
 - [Section 76 — Interest](part-7/section-76.md)
 - [Section 77 — Debt payable at future time](part-7/section-77.md)
 
-### PART 8 — SECURED CREDITORS[^key-082c2c293c175f1567e6badeace4ce7f]
+### PART 8 — SECURED CREDITORS[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -193,13 +193,13 @@ Coming into operation
 - [Section 81 — Test of security’s value](part-8/section-81.md)
 - [Section 82 — Realisation of security by creditor](part-8/section-82.md)
 
-### PART 9 — THE BANK LIQUIDATOR[^key-082c2c293c175f1567e6badeace4ce7f]
+### PART 9 — THE BANK LIQUIDATOR[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
 **No longer in force.**
 
-#### SECTION A — GENERAL[^key-082c2c293c175f1567e6badeace4ce7f]
+#### SECTION A — GENERAL[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -210,7 +210,7 @@ Coming into operation
 - [Section 85 — Authentication of bank liquidator’s appointment](part-9/section-85.md)
 - [Section 86 — Appointment to be advertised and registered](part-9/section-86.md)
 
-#### SECTION B — RESIGNATION AND REMOVAL[^key-082c2c293c175f1567e6badeace4ce7f]
+#### SECTION B — RESIGNATION AND REMOVAL[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -226,7 +226,7 @@ Coming into operation
 - [Section 94 — Removal of bank liquidator by the court](part-9/section-94.md)
 - [Section 95 — Release of resigning or removed bank liquidator](part-9/section-95.md)
 
-#### SECTION C — RELEASE ON COMPLETION OF WINDING UP[^key-082c2c293c175f1567e6badeace4ce7f]
+#### SECTION C — RELEASE ON COMPLETION OF WINDING UP[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -235,7 +235,7 @@ Coming into operation
 - [Section 96 — Final meeting](part-9/section-96.md)
 - [Section 97 — Rule as to reporting](part-9/section-97.md)
 
-#### SECTION D — REMUNERATION[^key-082c2c293c175f1567e6badeace4ce7f]
+#### SECTION D — REMUNERATION[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -250,7 +250,7 @@ Coming into operation
 - [Section 104 — Creditors' claim that remuneration is excessive](part-9/section-104.md)
 - [Section 105 — Primacy of Objective 1](part-9/section-105.md)
 
-#### SECTION E — SUPPLEMENTARY PROVISIONS[^key-082c2c293c175f1567e6badeace4ce7f]
+#### SECTION E — SUPPLEMENTARY PROVISIONS[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -265,7 +265,7 @@ Coming into operation
 - [Section 112 — Power of court to set aside certain transactions](part-9/section-112.md)
 - [Section 113 — Rule against solicitation](part-9/section-113.md)
 
-### PART 10 — THE LIQUIDATION COMMITTEE[^key-082c2c293c175f1567e6badeace4ce7f]
+### PART 10 — THE LIQUIDATION COMMITTEE[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -294,7 +294,7 @@ Coming into operation
 - [Section 134 — Committee’s functions vested in the Department](part-10/section-134.md)
 - [Section 135 — Formal defects](part-10/section-135.md)
 
-### PART 11 — COLLECTION AND DISTRIBUTION OF BANK'S ASSETS BY BANK LIQUIDATOR[^key-082c2c293c175f1567e6badeace4ce7f]
+### PART 11 — COLLECTION AND DISTRIBUTION OF BANK'S ASSETS BY BANK LIQUIDATOR[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -310,7 +310,7 @@ Coming into operation
 - [Section 143 — Enforced delivery up of company’s property](part-11/section-143.md)
 - [Section 144 — Final distribution](part-11/section-144.md)
 
-### PART 12 — DISCLAIMER[^key-082c2c293c175f1567e6badeace4ce7f]
+### PART 12 — DISCLAIMER[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -325,7 +325,7 @@ Coming into operation
 - [Section 151 — Disclaimer presumed valid and effective](part-12/section-151.md)
 - [Section 152 — Application for exercise of court’s powers under Article 155](part-12/section-152.md)
 
-### PART 13 — SETTLEMENT OF LIST OF CONTRIBUTORIES[^key-082c2c293c175f1567e6badeace4ce7f]
+### PART 13 — SETTLEMENT OF LIST OF CONTRIBUTORIES[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -340,7 +340,7 @@ Coming into operation
 - [Section 159 — Variation of, or addition to, the list](part-13/section-159.md)
 - [Section 160 — Costs not to fall on bank liquidator](part-13/section-160.md)
 
-### PART 14 — CALLS[^key-082c2c293c175f1567e6badeace4ce7f]
+### PART 14 — CALLS[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -351,7 +351,7 @@ Coming into operation
 - [Section 163 — Application to court for leave to make a call](part-14/section-163.md)
 - [Section 164 — Making and enforcement of the call](part-14/section-164.md)
 
-### PART 15 — SPECIAL MANAGER[^key-082c2c293c175f1567e6badeace4ce7f]
+### PART 15 — SPECIAL MANAGER[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -363,7 +363,7 @@ Coming into operation
 - [Section 168 — Accounting](part-15/section-168.md)
 - [Section 169 — Termination of appointment](part-15/section-169.md)
 
-### PART 16 — ORDER OF PAYMENT AS TO COSTS, ETC. OUT OF ASSETS[^key-082c2c293c175f1567e6badeace4ce7f]
+### PART 16 — ORDER OF PAYMENT AS TO COSTS, ETC. OUT OF ASSETS[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -377,13 +377,13 @@ Coming into operation
 - [Section 175 — Litigation expenses and property subject to a floating charge-application to court by the bank liquidator](part-16/section-175.md)
 - [Section 176 — Saving for powers of the court](part-16/section-176.md)
 
-### PART 17 — MISCELLANEOUS RULES[^key-082c2c293c175f1567e6badeace4ce7f]
+### PART 17 — MISCELLANEOUS RULES[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
 **No longer in force.**
 
-#### SECTION A — RETURN OF CAPITAL[^key-082c2c293c175f1567e6badeace4ce7f]
+#### SECTION A — RETURN OF CAPITAL[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -392,7 +392,7 @@ Coming into operation
 - [Section 177 — Application to court for order authorising return of capital](part-17/section-177.md)
 - [Section 178 — Procedure for return of capital](part-17/section-178.md)
 
-#### SECTION B — CONCLUSION OF BANK INSOLVENCY[^key-082c2c293c175f1567e6badeace4ce7f]
+#### SECTION B — CONCLUSION OF BANK INSOLVENCY[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -401,7 +401,7 @@ Coming into operation
 - [Section 179 — Department’s directions under section 116 of the 2009 Act](part-17/section-179.md)
 - [Section 180 — Procedure following appeal under section 116 of the 2009 Act](part-17/section-180.md)
 
-#### SECTION C — LEAVE TO ACT AS DIRECTOR, ETC. OF BANK WITH PROHIBITED NAME (ARTICLE 180 OF THE ORDER)[^key-082c2c293c175f1567e6badeace4ce7f]
+#### SECTION C — LEAVE TO ACT AS DIRECTOR, ETC. OF BANK WITH PROHIBITED NAME (ARTICLE 180 OF THE ORDER)[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -415,13 +415,13 @@ Coming into operation
 - [Section 186 — Third excepted case](part-17/section-186.md)
 - [Section 187 — Further exception](part-17/section-187.md)
 
-### PART 18 — COURT PROCEDURE AND PRACTICE[^key-082c2c293c175f1567e6badeace4ce7f]
+### PART 18 — COURT PROCEDURE AND PRACTICE[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
 **No longer in force.**
 
-#### CHAPTER 1 — APPLICATIONS (GENERAL)[^key-082c2c293c175f1567e6badeace4ce7f]
+#### CHAPTER 1 — APPLICATIONS (GENERAL)[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -440,7 +440,7 @@ Coming into operation
 - [Section 198 — Use of reports](part-18/section-198.md)
 - [Section 199 — Adjournment of hearing: directions](part-18/section-199.md)
 
-#### CHAPTER 3 — SHORTHAND WRITERS[^key-082c2c293c175f1567e6badeace4ce7f]
+#### CHAPTER 3 — SHORTHAND WRITERS[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -449,7 +449,7 @@ Coming into operation
 - [Section 200 — Nomination and appointment of shorthand writers](part-18/section-200.md)
 - [Section 201 — Remuneration](part-18/section-201.md)
 
-#### CHAPTER 4 — ENFORCEMENT PROCEDURES[^key-082c2c293c175f1567e6badeace4ce7f]
+#### CHAPTER 4 — ENFORCEMENT PROCEDURES[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -460,7 +460,7 @@ Coming into operation
 - [Section 204 — Warrants (general provisions)](part-18/section-204.md)
 - [Section 205 — Warrants under Article 200](part-18/section-205.md)
 
-#### CHAPTER 5 — COURT RECORDS AND RETURNS[^key-082c2c293c175f1567e6badeace4ce7f]
+#### CHAPTER 5 — COURT RECORDS AND RETURNS[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -472,7 +472,7 @@ Coming into operation
 - [Section 209 — File of court proceedings and inspection](part-18/section-209.md)
 - [Section 210 — Filing of Gazette notices and advertisements](part-18/section-210.md)
 
-#### CHAPTER 6 — COSTS AND DETAILED ASSESSMENT[^key-082c2c293c175f1567e6badeace4ce7f]
+#### CHAPTER 6 — COSTS AND DETAILED ASSESSMENT[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -487,7 +487,7 @@ Coming into operation
 - [Section 217 — Application for costs](part-18/section-217.md)
 - [Section 218 — Costs and expenses of witnesses](part-18/section-218.md)
 
-#### CHAPTER 7 — PERSONS INCAPABLE OF MANAGING THEIR AFFAIRS[^key-082c2c293c175f1567e6badeace4ce7f]
+#### CHAPTER 7 — PERSONS INCAPABLE OF MANAGING THEIR AFFAIRS[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -498,7 +498,7 @@ Coming into operation
 - [Section 221 — Affidavit in support of application](part-18/section-221.md)
 - [Section 222 — Service of notices following appointment](part-18/section-222.md)
 
-#### CHAPTER 8 — APPEALS IN BANK INSOLVENCY PROCEEDINGS[^key-082c2c293c175f1567e6badeace4ce7f]
+#### CHAPTER 8 — APPEALS IN BANK INSOLVENCY PROCEEDINGS[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -508,7 +508,7 @@ Coming into operation
 - [Section 224 — Procedure on appeal](part-18/section-224.md)
 - [Section 225 — Appeal against a decision of the Department](part-18/section-225.md)
 
-#### CHAPTER 9 — GENERAL[^key-082c2c293c175f1567e6badeace4ce7f]
+#### CHAPTER 9 — GENERAL[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -521,7 +521,7 @@ Coming into operation
 - [Section 230 — Further information and disclosure](part-18/section-230.md)
 - [Section 231 — Office copies of documents](part-18/section-231.md)
 
-### PART 19 — PROXIES AND COMPANY REPRESENTATION[^key-082c2c293c175f1567e6badeace4ce7f]
+### PART 19 — PROXIES AND COMPANY REPRESENTATION[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -535,7 +535,7 @@ Coming into operation
 - [Section 237 — Proxy-holder with financial interest](part-19/section-237.md)
 - [Section 238 — Company representation](part-19/section-238.md)
 
-### PART 20 — EXAMINATION OF PERSONS CONCERNED IN BANK INSOLVENCY[^key-082c2c293c175f1567e6badeace4ce7f]
+### PART 20 — EXAMINATION OF PERSONS CONCERNED IN BANK INSOLVENCY[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -548,7 +548,7 @@ Coming into operation
 - [Section 243 — Record of examination](part-20/section-243.md)
 - [Section 244 — Cost of proceedings](part-20/section-244.md)
 
-### PART 21 — DECLARATION AND PAYMENT OF DIVIDEND[^key-082c2c293c175f1567e6badeace4ce7f]
+### PART 21 — DECLARATION AND PAYMENT OF DIVIDEND[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -568,7 +568,7 @@ Coming into operation
 - [Section 256 — Preferential creditors](part-21/section-256.md)
 - [Section 257 — Debt payable at future time](part-21/section-257.md)
 
-### PART 22 — MISCELLANEOUS AND GENERAL[^key-082c2c293c175f1567e6badeace4ce7f]
+### PART 22 — MISCELLANEOUS AND GENERAL[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -598,7 +598,7 @@ Coming into operation
 - [Section 279 — Punishment of offences](part-22/section-279.md)
 - [Section 280 — Notice of order under Article 150A(5)](part-22/section-280.md)
 
-### PART 23 — INTERPRETATION[^key-082c2c293c175f1567e6badeace4ce7f]
+### PART 23 — INTERPRETATION[^c-082c2c293c175f1567e6badeace4ce7f]
 
 *Extent: N.I.*
 
@@ -619,14 +619,14 @@ Coming into operation
 
 **No longer in force.**
 
-[^key-082c2c293c175f1567e6badeace4ce7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-082c2c293c175f1567e6badeace4ce7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-082c2c293c175f1567e6badeace4ce7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-082c2c293c175f1567e6badeace4ce7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-082c2c293c175f1567e6badeace4ce7f]: Textual amendment: [Rules](https://www.legislation.gov.uk/nisr/2009/64) revoked (1.4.2009) by [The Bank Insolvency (No. 2) Rules (Northern Ireland) 2009 (S.R. 2009/122)](https://www.legislation.gov.uk/nisr/2009/122), [art. 1(1)](https://www.legislation.gov.uk/nisr/2009/122/article/1/1)[(2)](https://www.legislation.gov.uk/nisr/2009/122/article/1/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2009/122/article/3))
+[^c-082c2c293c175f1567e6badeace4ce7f]: Textual amendment: [Rules](https://www.legislation.gov.uk/nisr/2009/64) revoked (1.4.2009) by [The Bank Insolvency (No. 2) Rules (Northern Ireland) 2009 (S.R. 2009/122)](https://www.legislation.gov.uk/nisr/2009/122), [art. 1(1)](https://www.legislation.gov.uk/nisr/2009/122/article/1/1)[(2)](https://www.legislation.gov.uk/nisr/2009/122/article/1/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2009/122/article/3))

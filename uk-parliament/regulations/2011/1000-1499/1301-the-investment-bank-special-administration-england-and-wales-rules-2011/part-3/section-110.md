@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 110. Resignation[^key-b4ada9f5a473c4ca88e7bb9d934e82f6]
+## 110. Resignation[^c-b4ada9f5a473c4ca88e7bb9d934e82f6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A member of the committee may resign by notice in writing delivered to the admin
 
 ## Annotations
 
-[^key-b4ada9f5a473c4ca88e7bb9d934e82f6]: Commencement: [Rule 110](https://www.legislation.gov.uk/uksi/2011/1301/rule/110) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-b4ada9f5a473c4ca88e7bb9d934e82f6]: Commencement: [Rule 110](https://www.legislation.gov.uk/uksi/2011/1301/rule/110) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

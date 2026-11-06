@@ -28,7 +28,7 @@ Section 209
 
 (2) In this Schedule “**the Chair**” means any member of the GAAR Advisory Panel appointed by the Commissioners to chair it.
 
-#### 1A. Meaning of “tax appeal”[^key-8ffb2ab3ed597fb392154257dd612f52]
+#### 1A. Meaning of “tax appeal”[^c-8ffb2ab3ed597fb392154257dd612f52]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -51,7 +51,7 @@ the officer must give the taxpayer a written notice to that effect.
 - (b) explain why the officer considers that a tax advantage has arisen to the taxpayer from tax arrangements that are abusive,
 - (c) set out the counteraction that the officer considers ought to be taken,
 - (d) inform the taxpayer of the period under paragraph 4 for making representations, and
-- (e) explain the effect of—[^key-932b0f0cc7c2596b71d647c47c1845c2]
+- (e) explain the effect of—[^c-932b0f0cc7c2596b71d647c47c1845c2]
   - (i) paragraphs 5 and 6, and
   - (ii) sections 209(8) and (9) and 212A.
 
@@ -61,7 +61,7 @@ the officer must give the taxpayer a written notice to that effect.
 
 (2) The designated officer may, on a written request made by the taxpayer, extend the period during which representations may be made.
 
-#### 4A. Corrective action by taxpayer[^key-1f7ead7722b9db30823c4c75bc833b1c]
+#### 4A. Corrective action by taxpayer[^c-1f7ead7722b9db30823c4c75bc833b1c]
 
 (1) If the taxpayer takes the relevant corrective action before the beginning of the closed period mentioned in section 209(8), the matter is not to be referred to the GAAR Advisory Panel.
 
@@ -70,7 +70,7 @@ the officer must give the taxpayer a written notice to that effect.
 (3) The first step is that—
 
 - (a) the taxpayer amends a return or claim to counteract the tax advantage specified in the notice under paragraph 3, or
-- (b) [^key-b45144d24120409c45f261a2b9ed9146]... the taxpayer takes all necessary action to enter into an agreement with HMRC (in writing) for the purpose of relinquishing that advantage.
+- (b) [^c-b45144d24120409c45f261a2b9ed9146]... the taxpayer takes all necessary action to enter into an agreement with HMRC (in writing) for the purpose of relinquishing that advantage.
 
 (4) The second step is that the taxpayer notifies HMRC—
 
@@ -81,7 +81,7 @@ the officer must give the taxpayer a written notice to that effect.
 
 (6) In determining the additional amount which has or will become due and payable in respect of tax for the purposes of sub-paragraph (4)(b), it is to be assumed that, where the taxpayer takes the necessary action as mentioned in sub-paragraph (3)(b), the agreement is then entered into.
 
-(7) Where a tax enquiry is in progress,[^key-1e6a3b177f075e80a76a244fc96fbbc5] no enactment limiting the time during which amendments may be made to returns or claims operates to prevent the taxpayer taking the first step mentioned in sub-paragraph (3)(a) before the tax enquiry is closed [^key-219815bdb18a90809a82c597d11b27b3]....
+(7) Where a tax enquiry is in progress,[^c-1e6a3b177f075e80a76a244fc96fbbc5] no enactment limiting the time during which amendments may be made to returns or claims operates to prevent the taxpayer taking the first step mentioned in sub-paragraph (3)(a) before the tax enquiry is closed [^c-219815bdb18a90809a82c597d11b27b3]....
 
 (8) No appeal may be brought, by virtue of a provision mentioned in sub-paragraph (9), against an amendment made by a closure notice in respect of a tax enquiry to the extent that the amendment takes into account an amendment made by the taxpayer to a return or claim in taking the first step mentioned in sub-paragraph (3)(a).
 
@@ -95,7 +95,7 @@ the officer must give the taxpayer a written notice to that effect.
 
 ### Referral to GAAR Advisory Panel
 
-**4B.**[^key-7e34591f774598a812fda97534f24692] Paragraphs 5 and 6 apply if the taxpayer does not take the relevant corrective action (see paragraph 4A) by the beginning of the closed period mentioned in section 209(8).
+**4B.**[^c-7e34591f774598a812fda97534f24692] Paragraphs 5 and 6 apply if the taxpayer does not take the relevant corrective action (see paragraph 4A) by the beginning of the closed period mentioned in section 209(8).
 
 **5.** If no representations are made in accordance with paragraph 4, a designated HMRC officer must refer the matter to the GAAR Advisory Panel.
 
@@ -103,7 +103,7 @@ the officer must give the taxpayer a written notice to that effect.
 
 (2) If, after considering them, the designated HMRC officer considers that the tax advantage ought to be counteracted under section 209, the officer must refer the matter to the GAAR Advisory Panel.
 
-(3)[^key-720d11a8d9c922e448e9cc149062b69c] The officer must, as soon as reasonably practicable after deciding whether or not the matter is to be referred to the GAAR Advisory Panel, give the taxpayer written notice of the decision.
+(3)[^c-720d11a8d9c922e448e9cc149062b69c] The officer must, as soon as reasonably practicable after deciding whether or not the matter is to be referred to the GAAR Advisory Panel, give the taxpayer written notice of the decision.
 
 **7.** If the matter is referred to the GAAR Advisory Panel, the designated HMRC officer must at the same time provide it with—
 
@@ -178,32 +178,32 @@ and the reasons for that opinion.
 
 ### Notices may be given on assumption that tax advantage does arise
 
-**13.** (1) A designated HMRC officer may give a notice, or do anything else, under this Schedule where the officer considers that a tax advantage might have arisen [^key-35ec8fbc65b8233902c46b895c32d84a]....
+**13.** (1) A designated HMRC officer may give a notice, or do anything else, under this Schedule where the officer considers that a tax advantage might have arisen [^c-35ec8fbc65b8233902c46b895c32d84a]....
 
 (2) Accordingly, any notice given by a designated HMRC officer under this Schedule may be expressed to be given on the assumption that the tax advantage does arise (without agreeing that it does).
 
-### HMRC officers[^key-00f25961b82b79dc621450c488961948]
+### HMRC officers[^c-00f25961b82b79dc621450c488961948]
 
 **14.** Anything that may or must be done by a given designated HMRC officer under this Schedule may be done instead by any other designated HMRC officer.
 
 ## Annotations
 
-[^key-8ffb2ab3ed597fb392154257dd612f52]: Textual amendment: Sch. 43 para. 1A omitted (with effect in accordance with s. 124(2) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 32 para. 10(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/32/paragraph/10/2)
+[^c-8ffb2ab3ed597fb392154257dd612f52]: Textual amendment: Sch. 43 para. 1A omitted (with effect in accordance with s. 124(2) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 32 para. 10(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/32/paragraph/10/2)
 
-[^key-932b0f0cc7c2596b71d647c47c1845c2]: Textual amendment: Words in Sch. 43 para. 3(2)(e) substituted (15.9.2016) (with effect in accordance with s. 158(15) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 158(7)](https://www.legislation.gov.uk/ukpga/2016/24/section/158/7)
+[^c-932b0f0cc7c2596b71d647c47c1845c2]: Textual amendment: Words in Sch. 43 para. 3(2)(e) substituted (15.9.2016) (with effect in accordance with s. 158(15) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 158(7)](https://www.legislation.gov.uk/ukpga/2016/24/section/158/7)
 
-[^key-1f7ead7722b9db30823c4c75bc833b1c]: Textual amendment: Sch. 43 para. 4A inserted (15.9.2016) (with effect in accordance with s. 158(15) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 158(8)](https://www.legislation.gov.uk/ukpga/2016/24/section/158/8)
+[^c-1f7ead7722b9db30823c4c75bc833b1c]: Textual amendment: Sch. 43 para. 4A inserted (15.9.2016) (with effect in accordance with s. 158(15) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 158(8)](https://www.legislation.gov.uk/ukpga/2016/24/section/158/8)
 
-[^key-b45144d24120409c45f261a2b9ed9146]: Textual amendment: Words in Sch. 43 para. 4A(3)(b) omitted (with effect in accordance with s. 124(2) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 32 para. 10(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/32/paragraph/10/3)
+[^c-b45144d24120409c45f261a2b9ed9146]: Textual amendment: Words in Sch. 43 para. 4A(3)(b) omitted (with effect in accordance with s. 124(2) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 32 para. 10(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/32/paragraph/10/3)
 
-[^key-1e6a3b177f075e80a76a244fc96fbbc5]: Textual amendment: Words in Sch. 43 para. 4A(7) inserted (with effect in accordance with s. 124(2) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 32 para. 10(4)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/32/paragraph/10/4/a)
+[^c-1e6a3b177f075e80a76a244fc96fbbc5]: Textual amendment: Words in Sch. 43 para. 4A(7) inserted (with effect in accordance with s. 124(2) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 32 para. 10(4)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/32/paragraph/10/4/a)
 
-[^key-219815bdb18a90809a82c597d11b27b3]: Textual amendment: Words in Sch. 43 para. 4A(7) omitted (with effect in accordance with s. 124(2) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 32 para. 10(4)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/32/paragraph/10/4/b)
+[^c-219815bdb18a90809a82c597d11b27b3]: Textual amendment: Words in Sch. 43 para. 4A(7) omitted (with effect in accordance with s. 124(2) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 32 para. 10(4)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/32/paragraph/10/4/b)
 
-[^key-7e34591f774598a812fda97534f24692]: Textual amendment: Sch. 43 para. 4B inserted (15.9.2016) (with effect in accordance with s. 158(15) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 158(9)](https://www.legislation.gov.uk/ukpga/2016/24/section/158/9)
+[^c-7e34591f774598a812fda97534f24692]: Textual amendment: Sch. 43 para. 4B inserted (15.9.2016) (with effect in accordance with s. 158(15) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 158(9)](https://www.legislation.gov.uk/ukpga/2016/24/section/158/9)
 
-[^key-720d11a8d9c922e448e9cc149062b69c]: Textual amendment: Sch. 43 para. 6(3) inserted (15.9.2016) (with effect in accordance with s. 157(30) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 157(11)](https://www.legislation.gov.uk/ukpga/2016/24/section/157/11)
+[^c-720d11a8d9c922e448e9cc149062b69c]: Textual amendment: Sch. 43 para. 6(3) inserted (15.9.2016) (with effect in accordance with s. 157(30) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 157(11)](https://www.legislation.gov.uk/ukpga/2016/24/section/157/11)
 
-[^key-35ec8fbc65b8233902c46b895c32d84a]: Textual amendment: Words in [Sch. 43 para. 13(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/43/paragraph/13/1) omitted (with effect in accordance with s. 124(2) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 32 para. 10(5)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/32/paragraph/10/5)
+[^c-35ec8fbc65b8233902c46b895c32d84a]: Textual amendment: Words in [Sch. 43 para. 13(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/43/paragraph/13/1) omitted (with effect in accordance with s. 124(2) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 32 para. 10(5)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/32/paragraph/10/5)
 
-[^key-00f25961b82b79dc621450c488961948]: Textual amendment: Sch. 43 para. 14 and cross-heading inserted (with effect in accordance with s. 124(2) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 32 para. 10(6)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/32/paragraph/10/6)
+[^c-00f25961b82b79dc621450c488961948]: Textual amendment: Sch. 43 para. 14 and cross-heading inserted (with effect in accordance with s. 124(2) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 32 para. 10(6)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/32/paragraph/10/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76B. Transfers of value by trustees linked with trustee borrowing.[^key-0777a9d9f954dc1caec5597f14f8332f]
+## 76B. Transfers of value by trustees linked with trustee borrowing.[^c-0777a9d9f954dc1caec5597f14f8332f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 4B to this Act has effect with respect to transfers of value by trustee
 
 ## Annotations
 
-[^key-0777a9d9f954dc1caec5597f14f8332f]: Textual amendment: S. 76B inserted (with effect in accordance with s. 92(5) of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [s. 92(1)](https://www.legislation.gov.uk/ukpga/2000/17/section/92/1)
+[^c-0777a9d9f954dc1caec5597f14f8332f]: Textual amendment: S. 76B inserted (with effect in accordance with s. 92(5) of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [s. 92(1)](https://www.legislation.gov.uk/ukpga/2000/17/section/92/1)

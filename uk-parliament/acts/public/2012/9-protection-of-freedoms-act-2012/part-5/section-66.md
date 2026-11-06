@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Restriction of scope of regulated activities: vulnerable adults[^key-f79487108b66806cc8fecb816b27cf92]
+## 66. Restriction of scope of regulated activities: vulnerable adults[^c-f79487108b66806cc8fecb816b27cf92]
 
 *Extent: E+W*
 
@@ -97,4 +97,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f79487108b66806cc8fecb816b27cf92]: Commencement: S. 66 in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/c)
+[^c-f79487108b66806cc8fecb816b27cf92]: Commencement: S. 66 in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/c)

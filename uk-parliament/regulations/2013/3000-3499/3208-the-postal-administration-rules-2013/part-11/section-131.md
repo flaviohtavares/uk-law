@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 131. Right of audience[^key-35faea55feb6f76190f79c7c946e84ce]
+## 131. Right of audience[^c-35faea55feb6f76190f79c7c946e84ce]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Rights of audience in postal administration proceedings are the same as in insol
 
 ## Annotations
 
-[^key-35faea55feb6f76190f79c7c946e84ce]: Commencement: [Rule 131](https://www.legislation.gov.uk/uksi/2013/3208/rule/131) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-35faea55feb6f76190f79c7c946e84ce]: Commencement: [Rule 131](https://www.legislation.gov.uk/uksi/2013/3208/rule/131) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

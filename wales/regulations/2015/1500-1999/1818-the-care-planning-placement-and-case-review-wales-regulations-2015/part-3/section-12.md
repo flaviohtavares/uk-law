@@ -59,13 +59,13 @@ summary: ''
 (6) Where a placement is made is accordance with paragraph (5)—
 
 - (a) the responsible authority must refer the placement to a panel as soon as practicable after the placement is made and in any event not later than 25 working days after the placement is made, and
-- (b) the placement must be notified to the local authority or the local authority in England in whose area C has been placed[^key-530ca853428e0ffbbe4f4cfbade7a50f]....
+- (b) the placement must be notified to the local authority or the local authority in England in whose area C has been placed[^c-530ca853428e0ffbbe4f4cfbade7a50f]....
 
 (7) The record of any decision made in accordance with this regulation must be made available to the lead member for children's services for the responsible authority.
 
 (8) In this regulation—
 
-- “notified” (“[^key-76e001cd2f24a606bc4a57ab5e7ef59f]*hysbysu*”) in paragraph (6)(b) means that the responsible authority must provide—
+- “notified” (“[^c-76e001cd2f24a606bc4a57ab5e7ef59f]*hysbysu*”) in paragraph (6)(b) means that the responsible authority must provide—
   - (a) not later than 24 hours after the placement is made—
     - (i) C’s name and date of birth,
     - (ii) confirmation of whether C is being looked after by the local authority on a voluntary basis or under a care order,
@@ -85,6 +85,6 @@ summary: ''
 
 [^c22637561]: Marginal citation: “Relative” is defined in section 197(1) of the 2014 Act.
 
-[^key-530ca853428e0ffbbe4f4cfbade7a50f]: Textual amendment: Words in reg. 12(6)(b) omitted (2.4.2018) by virtue of [The Care Planning, Placement and Case Review (Wales) (Amendment) Regulations 2018 (S.I. 2018/111)](https://www.legislation.gov.uk/wsi/2018/111), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/111/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2018/111/regulation/2/2)
+[^c-530ca853428e0ffbbe4f4cfbade7a50f]: Textual amendment: Words in reg. 12(6)(b) omitted (2.4.2018) by virtue of [The Care Planning, Placement and Case Review (Wales) (Amendment) Regulations 2018 (S.I. 2018/111)](https://www.legislation.gov.uk/wsi/2018/111), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/111/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2018/111/regulation/2/2)
 
-[^key-76e001cd2f24a606bc4a57ab5e7ef59f]: Textual amendment: Words in reg. 12(8) substituted (2.4.2018) by [The Care Planning, Placement and Case Review (Wales) (Amendment) Regulations 2018 (S.I. 2018/111)](https://www.legislation.gov.uk/wsi/2018/111), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/111/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2018/111/regulation/2/3)
+[^c-76e001cd2f24a606bc4a57ab5e7ef59f]: Textual amendment: Words in reg. 12(8) substituted (2.4.2018) by [The Care Planning, Placement and Case Review (Wales) (Amendment) Regulations 2018 (S.I. 2018/111)](https://www.legislation.gov.uk/wsi/2018/111), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/111/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2018/111/regulation/2/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Apparatus and rights of statutory undertakers in streets subject to temporary prohibition or restriction[^key-34f400e3af7108274670f9d9806dbaf6]
+## 27. Apparatus and rights of statutory undertakers in streets subject to temporary prohibition or restriction[^c-34f400e3af7108274670f9d9806dbaf6]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Where a street is temporarily altered or its use is temporarily prohibited or re
 
 ## Annotations
 
-[^key-34f400e3af7108274670f9d9806dbaf6]: Commencement: Art. 27 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/779/article/1)
+[^c-34f400e3af7108274670f9d9806dbaf6]: Commencement: Art. 27 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/779/article/1)

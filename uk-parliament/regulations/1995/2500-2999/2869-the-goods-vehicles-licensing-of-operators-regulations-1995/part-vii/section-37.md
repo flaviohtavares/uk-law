@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Review[^key-7a0aac4f24f334b5ab92fd0ee987c8e1]
+## 37. Review[^c-7a0aac4f24f334b5ab92fd0ee987c8e1]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a0aac4f24f334b5ab92fd0ee987c8e1]: Textual amendment: [Reg. 37](https://www.legislation.gov.uk/uksi/1995/2869/regulation/37) inserted (1.9.2018) by [The Goods and Motor Vehicles (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/25)](https://www.legislation.gov.uk/uksi/2018/25), [regs. 1](https://www.legislation.gov.uk/uksi/2018/25/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/25/regulation/2/3)
+[^c-7a0aac4f24f334b5ab92fd0ee987c8e1]: Textual amendment: [Reg. 37](https://www.legislation.gov.uk/uksi/1995/2869/regulation/37) inserted (1.9.2018) by [The Goods and Motor Vehicles (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/25)](https://www.legislation.gov.uk/uksi/2018/25), [regs. 1](https://www.legislation.gov.uk/uksi/2018/25/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/25/regulation/2/3)

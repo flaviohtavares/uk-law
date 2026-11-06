@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8K. Meaning of “closely inherited”[^key-1d8c2aa8d9b978eac19f5f41ff3300a1]
+## 8K. Meaning of “closely inherited”[^c-1d8c2aa8d9b978eac19f5f41ff3300a1]
 
 *Extent: E+W+S+N.I.*
 
-(1) In relation to the death of a person (“D”), something is “**closely inherited**” for the purposes of sections 8E , 8F, 8FA, 8FB and 8M[^key-dcfacc318e4d0f1efdf57e6fbc6c216e] if it is inherited for those purposes (see section 8J) by—
+(1) In relation to the death of a person (“D”), something is “**closely inherited**” for the purposes of sections 8E , 8F, 8FA, 8FB and 8M[^c-dcfacc318e4d0f1efdf57e6fbc6c216e] if it is inherited for those purposes (see section 8J) by—
 
 - (a) a lineal descendant of D,
 - (b) a person who, at the time of D's death, is the spouse or civil partner of a lineal descendant of D, or
@@ -68,6 +68,6 @@ C is to be treated, at all times after the appointment takes effect, as if C was
 
 ## Annotations
 
-[^key-1d8c2aa8d9b978eac19f5f41ff3300a1]: Textual amendment: Ss. 8D-8M inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 9(4)](https://www.legislation.gov.uk/ukpga/2015/33/section/9/4)
+[^c-1d8c2aa8d9b978eac19f5f41ff3300a1]: Textual amendment: Ss. 8D-8M inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 9(4)](https://www.legislation.gov.uk/ukpga/2015/33/section/9/4)
 
-[^key-dcfacc318e4d0f1efdf57e6fbc6c216e]: Textual amendment: Words in s. 8K(1) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 15 para. 10](https://www.legislation.gov.uk/ukpga/2016/24/schedule/15/paragraph/10)
+[^c-dcfacc318e4d0f1efdf57e6fbc6c216e]: Textual amendment: Words in s. 8K(1) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 15 para. 10](https://www.legislation.gov.uk/ukpga/2016/24/schedule/15/paragraph/10)

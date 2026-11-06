@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Quality standards for supported accommodation undertakings[^key-18d935f70fc62126f0c118935906ad7a]
+## 3. Quality standards for supported accommodation undertakings[^c-18d935f70fc62126f0c118935906ad7a]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ The following standards are prescribed for the purposes of section 22(1A) of the
 
 ## Annotations
 
-[^key-18d935f70fc62126f0c118935906ad7a]: Commencement: Reg. 3 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-18d935f70fc62126f0c118935906ad7a]: Commencement: Reg. 3 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)

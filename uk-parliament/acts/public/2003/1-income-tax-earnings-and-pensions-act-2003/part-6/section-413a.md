@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 413A. Exception for payment of certain legal costs[^key-1d0397c863c254daf79ccd905aae2b8e]
+## 413A. Exception for payment of certain legal costs[^c-1d0397c863c254daf79ccd905aae2b8e]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 (3) Condition B is that either—
 
 - (a) the payment is made pursuant to an order of a court or tribunal, or
-- (b) the termination of the employee’s employment results in a settlement[^key-f11f2245fe18b833eda98e8d8dca6792] agreement between the employer and the employee and —
+- (b) the termination of the employee’s employment results in a settlement[^c-f11f2245fe18b833eda98e8d8dca6792] agreement between the employer and the employee and —
   - (i) the settlement agreement provides for the payment to be made by the employer, and
   - (ii) the payment is made directly to the employee’s lawyer.
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1d0397c863c254daf79ccd905aae2b8e]: Textual amendment: S. 413A inserted (with effect in accordance with art. 10(4) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2011 (S.I. 2011/1037)](https://www.legislation.gov.uk/uksi/2011/1037), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1037/article/1), [10(3)](https://www.legislation.gov.uk/uksi/2011/1037/article/10/3)
+[^c-1d0397c863c254daf79ccd905aae2b8e]: Textual amendment: S. 413A inserted (with effect in accordance with art. 10(4) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2011 (S.I. 2011/1037)](https://www.legislation.gov.uk/uksi/2011/1037), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1037/article/1), [10(3)](https://www.legislation.gov.uk/uksi/2011/1037/article/10/3)
 
-[^key-f11f2245fe18b833eda98e8d8dca6792]: Textual amendment: Word in s. 413A(3)(b) substituted (1.3.2013) by [The Enactment of Extra-Statutory Concessions Order 2013 (S.I. 2013/234)](https://www.legislation.gov.uk/uksi/2013/234), [arts. 1](https://www.legislation.gov.uk/uksi/2013/234/article/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2013/234/article/3/1/a) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2013/234/article/3/2))
+[^c-f11f2245fe18b833eda98e8d8dca6792]: Textual amendment: Word in s. 413A(3)(b) substituted (1.3.2013) by [The Enactment of Extra-Statutory Concessions Order 2013 (S.I. 2013/234)](https://www.legislation.gov.uk/uksi/2013/234), [arts. 1](https://www.legislation.gov.uk/uksi/2013/234/article/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2013/234/article/3/1/a) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2013/234/article/3/2))

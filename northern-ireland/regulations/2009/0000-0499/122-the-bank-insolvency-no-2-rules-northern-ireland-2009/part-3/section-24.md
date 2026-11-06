@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Failure to give or keep up security[^key-49ffe89ecd25c3d4c8db892f00366685]
+## 24. Failure to give or keep up security[^c-49ffe89ecd25c3d4c8db892f00366685]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.032 of the 1991 Rules.
 
 ## Annotations
 
-[^key-49ffe89ecd25c3d4c8db892f00366685]: Commencement: Rule 24 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-49ffe89ecd25c3d4c8db892f00366685]: Commencement: Rule 24 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

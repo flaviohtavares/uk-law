@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Lights that dazzle or distract[^key-3c75a3417f225e103f2e5762cb24287b]
+## 138. Lights that dazzle or distract[^c-3c75a3417f225e103f2e5762cb24287b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A person must not in the Isle of Man direct or shine a light at an aircraft in f
 
 ## Annotations
 
-[^key-3c75a3417f225e103f2e5762cb24287b]: Commencement: [Art. 138](https://www.legislation.gov.uk/uksi/2015/870/article/138) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-3c75a3417f225e103f2e5762cb24287b]: Commencement: [Art. 138](https://www.legislation.gov.uk/uksi/2015/870/article/138) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

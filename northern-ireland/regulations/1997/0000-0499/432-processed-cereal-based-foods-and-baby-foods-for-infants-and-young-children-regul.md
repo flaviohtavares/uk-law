@@ -42,7 +42,7 @@ Coming into operation
 
 The Department of Health and Social Services in exercise of the powers conferred on it by Articles 15(1)(*a*), (*e*) and (*f*), 16(1), 25(1)(*a*) and (3), 26(3) and 47(2) of the Food Safety (Northern Ireland) Order 1991[^f00001] and of all other powers enabling it in that behalf and after consultation in accordance with Article 47(3) of the said Order with such organisations as appear to it to be representative of interests likely to be substantially affected by the Regulations, hereby makes the following Regulations:—
 
-## 1. Citation, commencement and interpretation[^key-ecb9589389ae3ca2157a5a3503545f5a]
+## 1. Citation, commencement and interpretation[^c-ecb9589389ae3ca2157a5a3503545f5a]
 
 (1) These Regulations may be cited as the Processed Cereal-based Foods and Baby Foods for Infants and Young Children Regulations (Northern Ireland) 1997 and shall come into operation on 31st March 1999.
 
@@ -55,18 +55,18 @@ The Department of Health and Social Services in exercise of the powers conferred
 
 (3) Other expressions used in these Regulations and in Commission Directive [96/5/EC](https://www.legislation.gov.uk/european/directive/1996/0005)[^f00002] on processed cereal-based foods and baby foods for infants and young children have the same meaning as they have in that Directive.
 
-## 2. Exemption[^key-5e9f79dbd6303f45aa3ebfe3242d8fc6]
+## 2. Exemption[^c-5e9f79dbd6303f45aa3ebfe3242d8fc6]
 
 These Regulations shall not apply to any baby food which is a milk intended for young children.
 
-## 3. Conditions for the sale of processed cereal-based foods and baby foods[^key-2066992b83264ba20e05b1da6ec904d9]
+## 3. Conditions for the sale of processed cereal-based foods and baby foods[^c-2066992b83264ba20e05b1da6ec904d9]
 
 No person shall sell any processed cereal-based food or baby food unless—
 
 - (a) it is labelled in accordance with regulation 4; and
 - (b) it complies with the requirements as to manufacture and composition set out in regulation 5.
 
-## 4. Labelling[^key-554635b65477d23d151a1665ecef8888]
+## 4. Labelling[^c-554635b65477d23d151a1665ecef8888]
 
 (1) Processed cereal-based food and baby food shall be labelled with the following particulars—
 
@@ -85,7 +85,7 @@ No person shall sell any processed cereal-based food or baby food unless—
 
 (3) Where, pursuant to paragraph (1)(*d*) or paragraph (2), processed cereal-based food or baby food is labelled with the average quantity, per 100 g or 100 ml of the food as sold, and where appropriate, per specified quantity of the food as proposed for consumption, of any vitamin or mineral which is specified in Schedule 5, the labelling of the food shall not express that average quantity as a percentage of the reference value specified in Schedule 5 in relation to that vitamin or mineral unless the quantity present is equal to 15% or more of the reference value.
 
-## 5. Manufacture and composition of processed cereal-based foods and baby foods[^key-93efd8f39f5b7284b99133f133fe28b7]
+## 5. Manufacture and composition of processed cereal-based foods and baby foods[^c-93efd8f39f5b7284b99133f133fe28b7]
 
 No person shall manufacture any processed cereal-based food or baby food—
 
@@ -94,15 +94,15 @@ No person shall manufacture any processed cereal-based food or baby food—
 - (c) which contains any added nutritional substance other than a nutritional substance listed in Schedule 4; or
 - (d) which contains any substance in such quantity as to endanger the health of infants or young children.
 
-## 6. Offences and penalties[^key-613010ace8b7fe12b2ef83ebadfb9595]
+## 6. Offences and penalties[^c-613010ace8b7fe12b2ef83ebadfb9595]
 
 If any person contravenes regulation 3, 4 or 5 he shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-## 7. Enforcement[^key-1f1c93a1f1ecd0b57d08f8d8c7250381]
+## 7. Enforcement[^c-1f1c93a1f1ecd0b57d08f8d8c7250381]
 
 Each district council shall enforce and execute these Regulations within its district.
 
-## 8. Defence in relation to exports[^key-857247270267a92119d44efb2cfea859]
+## 8. Defence in relation to exports[^c-857247270267a92119d44efb2cfea859]
 
 (1) In any proceedings for an offence under these Regulations it shall be a defence for the person charged to prove—
 
@@ -114,7 +114,7 @@ Each district council shall enforce and execute these Regulations within its dis
 - “EEA State” means a state which is a contracting party to the EEA Agreement; and
 - “EEA Agreement” means the Agreement on the European Economic Area[^f00003] signed at Oporto on 2nd May 1992 as adjusted by the Protocol[^f00004] signed at Brussels on 17th March 1993.
 
-## 9. Application of various provisions of the Order[^key-c6a1ba34174cacbbc95eef4c50d234aa]
+## 9. Application of various provisions of the Order[^c-c6a1ba34174cacbbc95eef4c50d234aa]
 
 The following provisions of the Order shall apply for the purposes of these Regulations which application shall, in the case of Article 20, be as that Article applies for the purposes of Article 7, 13 or 14 of the Order and any reference in them to the Order shall be construed as a reference to these Regulations—
 
@@ -140,25 +140,25 @@ Regulation 1, 4(1)(*d*)(i) and 5(*b*)
 
 ### Part I — Categories of Processed Cereal-Based Foods for Infants and Young Children
 
-**1.**[^key-5d1c971f1011ccf0a59a7f60050697fe] Simple cereals which are or have to be reconstituted with milk or other appropriate nutritious liquids.
+**1.**[^c-5d1c971f1011ccf0a59a7f60050697fe] Simple cereals which are or have to be reconstituted with milk or other appropriate nutritious liquids.
 
-**2.**[^key-50b050f0ff0aa47bee9d087365b0f511] Cereals with an added high protein food which are or have to be reconstituted with water or other protein-free liquid.
+**2.**[^c-50b050f0ff0aa47bee9d087365b0f511] Cereals with an added high protein food which are or have to be reconstituted with water or other protein-free liquid.
 
-**3.**[^key-5968f10811bc4692a076e73865108c20] Pastas which are to be used after cooking in boiling water or other appropriate liquids.
+**3.**[^c-5968f10811bc4692a076e73865108c20] Pastas which are to be used after cooking in boiling water or other appropriate liquids.
 
-**4.**[^key-3c5d3cdfa09990b9009a6d5896a83214] Rusks and biscuits which are to be used either directly or after pulverisation with the addition of water, milk or other suitable liquids.
+**4.**[^c-3c5d3cdfa09990b9009a6d5896a83214] Rusks and biscuits which are to be used either directly or after pulverisation with the addition of water, milk or other suitable liquids.
 
 ### Part II — Essential Composition of Processed Cereal-Based Foods for Infants and Young Children
 
 The requirements concerning nutrients refer to the products ready for use, marketed as such or reconstituted as instructed by the manufacturer.
 
-#### 1. Cereal content[^key-3d68ff704d4084f3b11cee538fed6e34]
+#### 1. Cereal content[^c-3d68ff704d4084f3b11cee538fed6e34]
 
 Processed cereal-based foods are prepared primarily from one or more milled cereals and/or starchy root products.
 
 The amount of cereal and/or starchy root shall not be less than 25% of the final mixture on a dry weight for weight basis.
 
-#### 2. Protein[^key-701515ff935f09ceda65f52ed02ff5d0]
+#### 2. Protein[^c-701515ff935f09ceda65f52ed02ff5d0]
 
 2.1. For products mentioned in paragraphs 2 and 4 of Part I the protein content shall not exceed 1.3 g/100 kJ (5.5 g/100 kcal).
 
@@ -168,7 +168,7 @@ The amount of cereal and/or starchy root shall not be less than 25% of the final
 
 2.4. The chemical index of the added protein shall be equal to at least 80% of that of the reference protein (casein as defined in Schedule 3), or the protein efficiency ratio, (PER) of the protein in the mixture shall be equal to at least 70% of that of the reference protein. In all cases, the addition of amino acids is permitted solely for the purpose of improving the nutritional value of the protein mixture, and only in the proportions necessary for that purpose.
 
-#### 3. Carbohydrates[^key-12f4044dc5653856197dffcbda973d00]
+#### 3. Carbohydrates[^c-12f4044dc5653856197dffcbda973d00]
 
 3.1. If sucrose, fructose, glucose syrups or honey are added to products mentioned in paragraphs 1 and 4 of Part I:
 
@@ -180,7 +180,7 @@ The amount of cereal and/or starchy root shall not be less than 25% of the final
 - the amount of added carbohydrates from these sources shall not exceed 1.2 g/100 kJ (5 g/100 kcal),
 - the amount of added fructose shall not exceed 0.6 g/100 kJ (2.5 g/100 kcal).
 
-#### 4. Fat[^key-1d92f087f9658791645068748445b2a8]
+#### 4. Fat[^c-1d92f087f9658791645068748445b2a8]
 
 4.1. For products mentioned in paragraphs 1 and 4 of Part I the fat content shall not exceed 0.8 g/100 kJ (3.3 g/100 kcal).
 
@@ -190,7 +190,7 @@ The amount of cereal and/or starchy root shall not be less than 25% of the final
 - (b) the amount of myristic acid shall not exceed 15% of the total fat content;
 - (c) the amount of linoleic acid (in the form of glycerides = linoleates) shall not be less than 70 mg/100 kJ (300 mg/100 kcal) and shall not exceed 285 mg/100 kJ (1200 mg/100 kcal).
 
-#### 5. Minerals[^key-41753059a57f93469161b09f22d70f4b]
+#### 5. Minerals[^c-41753059a57f93469161b09f22d70f4b]
 
 Sodium
 
@@ -206,7 +206,7 @@ Calcium
 - 5.2.1. For products mentioned in paragraph 2 of Part I the amount of calcium shall not be less than 20 mg/100 kJ (80 mg/100 kcal).
 - 5.2.2. For products mentioned in paragraph 4 of Part I manufactured with the addition of milk (milk biscuits) and presented as such, the amount of calcium shall not be less than 12 mg/100 kJ (50 mg/100 kcal).
 
-#### 6. Vitamins[^key-c402352a99549f64b46262c7b626adc1]
+#### 6. Vitamins[^c-c402352a99549f64b46262c7b626adc1]
 
 6.1 For processed cereal-based foods the amount of thiamin shall not be less than 25μg/100 kJ (100 μg/100 kcal).
 
@@ -236,7 +236,7 @@ Regulation 4(1)(*d*)(ii) and 5(*b*)
 
 The requirements concerning nutrients refer to the products ready for use, marketed as such or reconstituted as instructed by the manufacturer.
 
-### 1. Protein[^key-6567a8d879f7731de8d0b778b7386e51]
+### 1. Protein[^c-6567a8d879f7731de8d0b778b7386e51]
 
 1.1. If meat, poultry, fish, offal or other traditional source of protein are the only ingredients mentioned in the name of the product, then:
 
@@ -261,7 +261,7 @@ The requirements concerning nutrients refer to the products ready for use, marke
 
 1.5 The addition of amino acids is permitted solely for the purpose of improving the nutritional value of the protein present, and only in the proportions necessary for that purpose.
 
-### 2. Carbohydrates[^key-4b6a255c534ad8e9742a1be83fde6429]
+### 2. Carbohydrates[^c-4b6a255c534ad8e9742a1be83fde6429]
 
 The quantities of total carbohydrates present in fruit and vegetable juices and nectars, fruit-only dishes, and desserts or puddings shall not exceed:
 
@@ -271,19 +271,19 @@ The quantities of total carbohydrates present in fruit and vegetable juices and 
 - 25 g/100 g for desserts and puddings,
 - 5 g/100 g for other non-milk-based drinks.
 
-### 3. Fat[^key-099efb8584184ebe0a4272c20035baa1]
+### 3. Fat[^c-099efb8584184ebe0a4272c20035baa1]
 
 3.1. For products referred to in paragraph 1.1 of this Schedule if meat or cheese are the only ingredients or are mentioned first in the name of a product the total fat in the product from all sources shall not exceed 1.4 g/100 kJ (6 g.100 kcal).
 
 3.2. For all other products the total fat in the product from all sources shall not exceed 1.1 g/100 kJ (4.5 g/100 kcal).
 
-### 4. Sodium[^key-74f99c6df4580e0325dd6b3e30ea9fb9]
+### 4. Sodium[^c-74f99c6df4580e0325dd6b3e30ea9fb9]
 
 4.1. The final sodium content in the product shall be either not more than 48 mg/100 kJ (200 mg/100 kcal) or not more than 200 mg per 100 g. However, if cheese is the only ingredient mentioned in the name of the product, the final sodium content in the product shall not be more than 70 mg/100 kJ (300 mg/100 kcal).
 
 4.2. Sodium salts may not be added to products based on fruit, nor to desserts, puddings except for technological purposes.
 
-### 5. Vitamins[^key-7f71f59c86a6107e9c83fce62b4195a8]
+### 5. Vitamins[^c-7f71f59c86a6107e9c83fce62b4195a8]
 
 Vitamin C—
 
@@ -298,7 +298,7 @@ Vitamin D—
 
 - Vitamin D shall not be added to baby foods.
 
-## SCHEDULE 3 — Amino Acid Composition of Casein[^key-f744b3f702cb859f509c209e148053c0]
+## SCHEDULE 3 — Amino Acid Composition of Casein[^c-f744b3f702cb859f509c209e148053c0]
 
 Regulation 5(*b*) and paragraph 2.4 of Schedule 1
 
@@ -321,7 +321,7 @@ Regulation 5(*b*) and paragraph 2.4 of Schedule 1
 
 Regulation 4(2) and 5(*c*)
 
-### 1. Vitamins[^key-104ff91703f46e2e80eab242b0e0ef97]
+### 1. Vitamins[^c-104ff91703f46e2e80eab242b0e0ef97]
 
 - Vitamin A—
 - Retinol
@@ -369,7 +369,7 @@ Regulation 4(2) and 5(*c*)
 - D-alpha tocopherol acetate
 - DL-alpha tocopherol acetate
 
-### 2. Amino acids[^key-a302d6c84070746efaa5a13b115194cb]
+### 2. Amino acids[^c-a302d6c84070746efaa5a13b115194cb]
 
 <table>
 <tbody>
@@ -390,7 +390,7 @@ Regulation 4(2) and 5(*c*)
 - L-tyrosine
 - L-valine
 
-### 3. Others[^key-a55ff315ec93df6a20b23b3a9724ac66]
+### 3. Others[^c-a55ff315ec93df6a20b23b3a9724ac66]
 
 - Choline—
 - Choline chloride
@@ -400,7 +400,7 @@ Regulation 4(2) and 5(*c*)
 - L-carnitine
 - L-carnitine hydrochloride
 
-### 4. Salts of minerals and trace elements[^key-317050b2c85390daf7297d6e08dccd0d]
+### 4. Salts of minerals and trace elements[^c-317050b2c85390daf7297d6e08dccd0d]
 
 - Calcium—
 - Calcium carbonate
@@ -467,7 +467,7 @@ Regulation 4(2) and 5(*c*)
 - Potassium iodate
 - Sodium iodate
 
-## SCHEDULE 5 — Reference Values for Nutrition Labelling for Foods Intended for Infants and Young Children[^key-fea9f11e1376c8e6785c787885a36dda]
+## SCHEDULE 5 — Reference Values for Nutrition Labelling for Foods Intended for Infants and Young Children[^c-fea9f11e1376c8e6785c787885a36dda]
 
 Regulation 4(3)
 
@@ -508,49 +508,49 @@ The Regulations—
 
 [^f00001]: Footnote: S.I. [1991/762 (N.I. 7)](https://www.legislation.gov.uk/nisi/1991/762) as amended by S.I. [1996/1633 (N.I. 12)](https://www.legislation.gov.uk/nisi/1996/1633). *See* Article 2(2) for the definitions of “the Department concerned” and “regulations”
 
-[^key-ecb9589389ae3ca2157a5a3503545f5a]: Commencement: Reg. 1 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
+[^c-ecb9589389ae3ca2157a5a3503545f5a]: Commencement: Reg. 1 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
 
 [^f00002]: Footnote: O.J. No. L49, 28.2.96, p. 17
 
-[^key-5e9f79dbd6303f45aa3ebfe3242d8fc6]: Commencement: Reg. 2 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
+[^c-5e9f79dbd6303f45aa3ebfe3242d8fc6]: Commencement: Reg. 2 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
 
-[^key-2066992b83264ba20e05b1da6ec904d9]: Commencement: Reg. 3 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
+[^c-2066992b83264ba20e05b1da6ec904d9]: Commencement: Reg. 3 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
 
-[^key-554635b65477d23d151a1665ecef8888]: Commencement: Reg. 4 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
+[^c-554635b65477d23d151a1665ecef8888]: Commencement: Reg. 4 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
 
-[^key-93efd8f39f5b7284b99133f133fe28b7]: Commencement: Reg. 5 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
+[^c-93efd8f39f5b7284b99133f133fe28b7]: Commencement: Reg. 5 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
 
-[^key-613010ace8b7fe12b2ef83ebadfb9595]: Commencement: Reg. 6 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
+[^c-613010ace8b7fe12b2ef83ebadfb9595]: Commencement: Reg. 6 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
 
-[^key-1f1c93a1f1ecd0b57d08f8d8c7250381]: Commencement: Reg. 7 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
+[^c-1f1c93a1f1ecd0b57d08f8d8c7250381]: Commencement: Reg. 7 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
 
-[^key-857247270267a92119d44efb2cfea859]: Commencement: Reg. 8 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
+[^c-857247270267a92119d44efb2cfea859]: Commencement: Reg. 8 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
 
 [^f00003]: Footnote: O.J. No. L1, 3.1.94, p. 1
 
 [^f00004]: Footnote: O.J. No. L1, 3.1.94, p. 571
 
-[^key-c6a1ba34174cacbbc95eef4c50d234aa]: Commencement: Reg. 9 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
+[^c-c6a1ba34174cacbbc95eef4c50d234aa]: Commencement: Reg. 9 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
 
-[^key-5d1c971f1011ccf0a59a7f60050697fe]: Commencement: Sch. 1 Pt. I para. 1 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
+[^c-5d1c971f1011ccf0a59a7f60050697fe]: Commencement: Sch. 1 Pt. I para. 1 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
 
-[^key-50b050f0ff0aa47bee9d087365b0f511]: Commencement: Sch. 1 Pt. I para. 2 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
+[^c-50b050f0ff0aa47bee9d087365b0f511]: Commencement: Sch. 1 Pt. I para. 2 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
 
-[^key-5968f10811bc4692a076e73865108c20]: Commencement: Sch. 1 Pt. I para. 3 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
+[^c-5968f10811bc4692a076e73865108c20]: Commencement: Sch. 1 Pt. I para. 3 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
 
-[^key-3c5d3cdfa09990b9009a6d5896a83214]: Commencement: Sch. 1 Pt. I para. 4 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
+[^c-3c5d3cdfa09990b9009a6d5896a83214]: Commencement: Sch. 1 Pt. I para. 4 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
 
-[^key-3d68ff704d4084f3b11cee538fed6e34]: Commencement: Sch. 1 Pt. II para. 1 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
+[^c-3d68ff704d4084f3b11cee538fed6e34]: Commencement: Sch. 1 Pt. II para. 1 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
 
-[^key-701515ff935f09ceda65f52ed02ff5d0]: Commencement: Sch. 1 Pt. II para. 2 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
+[^c-701515ff935f09ceda65f52ed02ff5d0]: Commencement: Sch. 1 Pt. II para. 2 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
 
-[^key-12f4044dc5653856197dffcbda973d00]: Commencement: Sch. 1 Pt. II para. 3 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
+[^c-12f4044dc5653856197dffcbda973d00]: Commencement: Sch. 1 Pt. II para. 3 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
 
-[^key-1d92f087f9658791645068748445b2a8]: Commencement: Sch. 1 Pt. II para. 4 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
+[^c-1d92f087f9658791645068748445b2a8]: Commencement: Sch. 1 Pt. II para. 4 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
 
-[^key-41753059a57f93469161b09f22d70f4b]: Commencement: Sch. 1 para. 5 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
+[^c-41753059a57f93469161b09f22d70f4b]: Commencement: Sch. 1 para. 5 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
 
-[^key-c402352a99549f64b46262c7b626adc1]: Commencement: Sch. 1 para. 6 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
+[^c-c402352a99549f64b46262c7b626adc1]: Commencement: Sch. 1 para. 6 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
 
 [^f01000]: Footnote: 1
 
@@ -560,24 +560,24 @@ The Regulations—
 
     In the form of cholecalciferol, of which 10 μg = 400 i.u. of vitamin D
 
-[^key-6567a8d879f7731de8d0b778b7386e51]: Commencement: Sch. 2 para. 1 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
+[^c-6567a8d879f7731de8d0b778b7386e51]: Commencement: Sch. 2 para. 1 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
 
-[^key-4b6a255c534ad8e9742a1be83fde6429]: Commencement: Sch. 2 para. 2 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
+[^c-4b6a255c534ad8e9742a1be83fde6429]: Commencement: Sch. 2 para. 2 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
 
-[^key-099efb8584184ebe0a4272c20035baa1]: Commencement: Sch. 2 para. 3 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
+[^c-099efb8584184ebe0a4272c20035baa1]: Commencement: Sch. 2 para. 3 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
 
-[^key-74f99c6df4580e0325dd6b3e30ea9fb9]: Commencement: Sch. 2 para. 4 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
+[^c-74f99c6df4580e0325dd6b3e30ea9fb9]: Commencement: Sch. 2 para. 4 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
 
-[^key-7f71f59c86a6107e9c83fce62b4195a8]: Commencement: Sch. 2 para. 5 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
+[^c-7f71f59c86a6107e9c83fce62b4195a8]: Commencement: Sch. 2 para. 5 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
 
-[^key-f744b3f702cb859f509c209e148053c0]: Commencement: Sch. 3 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
+[^c-f744b3f702cb859f509c209e148053c0]: Commencement: Sch. 3 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
 
-[^key-104ff91703f46e2e80eab242b0e0ef97]: Commencement: Sch. 4 para. 1 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
+[^c-104ff91703f46e2e80eab242b0e0ef97]: Commencement: Sch. 4 para. 1 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
 
-[^key-a302d6c84070746efaa5a13b115194cb]: Commencement: Sch. 4 para. 2 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
+[^c-a302d6c84070746efaa5a13b115194cb]: Commencement: Sch. 4 para. 2 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
 
-[^key-a55ff315ec93df6a20b23b3a9724ac66]: Commencement: Sch. 4 para. 3 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
+[^c-a55ff315ec93df6a20b23b3a9724ac66]: Commencement: Sch. 4 para. 3 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
 
-[^key-317050b2c85390daf7297d6e08dccd0d]: Commencement: Sch. 4 para. 4 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
+[^c-317050b2c85390daf7297d6e08dccd0d]: Commencement: Sch. 4 para. 4 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
 
-[^key-fea9f11e1376c8e6785c787885a36dda]: Commencement: Sch. 5 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)
+[^c-fea9f11e1376c8e6785c787885a36dda]: Commencement: Sch. 5 in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/432/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Private rights[^key-c178dc636de0557dc7c46c201ee2161a]
+## 17. Private rights[^c-c178dc636de0557dc7c46c201ee2161a]
 
 *Extent: E+W+S*
 
@@ -49,7 +49,7 @@ the agreement is effective in respect of the persons so deriving title, whether 
 
 ## Annotations
 
-[^key-c178dc636de0557dc7c46c201ee2161a]: Commencement: Art. 17 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-c178dc636de0557dc7c46c201ee2161a]: Commencement: Art. 17 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
 
 [^f00025]: Footnote: Section 11 was amended by paragraph 14 of Schedule 4 to the Acquisition of Land Act 1981, paragraph 12 of Schedule 5 to the Church of England (Miscellaneous Provisions) Measure 2006 ([2006 No. 1](https://www.legislation.gov.uk/ukcm/2006/1)), Part 1 of Schedule 1 to the Housing (Consequential Provisions) Act [1985 (c.71)](https://www.legislation.gov.uk/ukpga/1985/71) and paragraph 64 of Schedule 1 to the Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 ([S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307)).
 

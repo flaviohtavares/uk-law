@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. General duties of the Health and Social Care Information Centre etc[^key-d1d5e4c0e16ff50939ba73e8a3794262][^key-0a1c88722b111d4bb28f9be86f4ac2d4]
+## 97. General duties of the Health and Social Care Information Centre etc[^c-d1d5e4c0e16ff50939ba73e8a3794262][^c-0a1c88722b111d4bb28f9be86f4ac2d4]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d1d5e4c0e16ff50939ba73e8a3794262]: Commencement: S. 97 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-d1d5e4c0e16ff50939ba73e8a3794262]: Commencement: S. 97 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-0a1c88722b111d4bb28f9be86f4ac2d4]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2022/31/section/97) in force at 1.10.2022 by [S.I. 2022/1003](https://www.legislation.gov.uk/uksi/2022/1003), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1003/regulation/2/a)
+[^c-0a1c88722b111d4bb28f9be86f4ac2d4]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2022/31/section/97) in force at 1.10.2022 by [S.I. 2022/1003](https://www.legislation.gov.uk/uksi/2022/1003), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1003/regulation/2/a)

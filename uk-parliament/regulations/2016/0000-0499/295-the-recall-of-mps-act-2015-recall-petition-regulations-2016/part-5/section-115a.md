@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115A. Notification of a rejected postal petition document: Northern Ireland[^key-994beaffa3ec8a6e6bd1b7cecff684d9]
+## 115A. Notification of a rejected postal petition document: Northern Ireland[^c-994beaffa3ec8a6e6bd1b7cecff684d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-994beaffa3ec8a6e6bd1b7cecff684d9]: Textual amendment: Reg. 115A inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 10(18)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/10/18)
+[^c-994beaffa3ec8a6e6bd1b7cecff684d9]: Textual amendment: Reg. 115A inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 10(18)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/10/18)

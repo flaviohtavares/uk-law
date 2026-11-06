@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158. Voting[^key-c842cd616984de9a30f243130413696d][^c2191330]
+## 158. Voting[^c-c842cd616984de9a30f243130413696d][^c2191330]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c842cd616984de9a30f243130413696d]: Commencement: S. 158 in force at 1.10.2012 in so far as not already in force by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
+[^c-c842cd616984de9a30f243130413696d]: Commencement: S. 158 in force at 1.10.2012 in so far as not already in force by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
 
 [^c2191330]: Commencement: S. 158 partly in force; s. 158 in force for specified purposes at Royal Assent, see s. 306(1)(d)

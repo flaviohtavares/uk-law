@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 1 — National Underground Asset Register (England and Wales): monetary penalties[^key-41ce62137846b0ba3049b6503527e316]
+## Schedule 1 — National Underground Asset Register (England and Wales): monetary penalties[^c-41ce62137846b0ba3049b6503527e316]
 
 *Extent: E+W*
 
 Section 56
 
-[^key-41ce62137846b0ba3049b6503527e316]
+[^c-41ce62137846b0ba3049b6503527e316]
 
 In the New Roads and Street Works Act 1991, after Schedule 5 insert—
 
@@ -132,4 +132,4 @@ In the New Roads and Street Works Act 1991, after Schedule 5 insert—
 
 ## Annotations
 
-[^key-41ce62137846b0ba3049b6503527e316]: Commencement: Sch. 1 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-41ce62137846b0ba3049b6503527e316]: Commencement: Sch. 1 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)

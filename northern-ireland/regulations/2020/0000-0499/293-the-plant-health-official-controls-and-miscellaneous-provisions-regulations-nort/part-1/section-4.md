@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Measures adopted pursuant to Article 30(1) of the EU Plant Health Regulation[^key-a9468dc66a34f60bd2892395ffb2403e]
+## 4. Measures adopted pursuant to Article 30(1) of the EU Plant Health Regulation[^c-a9468dc66a34f60bd2892395ffb2403e]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ Any reference in the EU Plant Health Regulation to a pest that is subject to the
 
 ## Annotations
 
-[^key-a9468dc66a34f60bd2892395ffb2403e]: Commencement: Reg. 4 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-a9468dc66a34f60bd2892395ffb2403e]: Commencement: Reg. 4 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

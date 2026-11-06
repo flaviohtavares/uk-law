@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 223A. Amount of relief: non-resident CGT disposals[^key-3f930331b4f5427e5d514c3ebc426909]
+## 223A. Amount of relief: non-resident CGT disposals[^c-3f930331b4f5427e5d514c3ebc426909]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 (3) An election under subsection (2)—
 
 - (a) must specify which day before 6 April 2015 P relies on in relation to the period of absence for the purpose of meeting condition A in section 223, and
-- (b) must be made in the return under Schedule 2 to the Finance Act 2019[^key-e3eeac4f5d4d35b440eafbe6c1959db6] in respect of the disposal.
+- (b) must be made in the return under Schedule 2 to the Finance Act 2019[^c-e3eeac4f5d4d35b440eafbe6c1959db6] in respect of the disposal.
 
 (4) Where P has made an election under subsection (2), section 223 applies as if relevant prior periods of absence counted against the maximum periods (and maximum aggregate periods) specified in subsection (3)(a), (c) and (d) of that section.
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3f930331b4f5427e5d514c3ebc426909]: Textual amendment: S. 223A inserted (with effect in accordance with Sch. 9 para. 10 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2015/11/schedule/9/paragraph/5)
+[^c-3f930331b4f5427e5d514c3ebc426909]: Textual amendment: S. 223A inserted (with effect in accordance with Sch. 9 para. 10 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2015/11/schedule/9/paragraph/5)
 
-[^key-e3eeac4f5d4d35b440eafbe6c1959db6]: Textual amendment: Words in s. 223A(3)(b) substituted (with effect in accordance with Sch. 2 para. 32(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 2 para. 26(3)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/2/paragraph/26/3)
+[^c-e3eeac4f5d4d35b440eafbe6c1959db6]: Textual amendment: Words in s. 223A(3)(b) substituted (with effect in accordance with Sch. 2 para. 32(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 2 para. 26(3)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/2/paragraph/26/3)

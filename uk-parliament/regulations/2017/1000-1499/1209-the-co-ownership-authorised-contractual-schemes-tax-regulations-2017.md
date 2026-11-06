@@ -52,27 +52,27 @@ The Treasury, in exercise of the powers conferred by sections 41 and 42 of the F
 
 ## PART 1 — Preliminary
 
-**1.**[^key-1b1b87c4f77d574790ecaad08b63ed6c] (1) These Regulations may be cited as the Co-ownership Authorised Contractual Schemes (Tax) Regulations 2017 and come into force on 27th December 2017.
+**1.**[^c-1b1b87c4f77d574790ecaad08b63ed6c] (1) These Regulations may be cited as the Co-ownership Authorised Contractual Schemes (Tax) Regulations 2017 and come into force on 27th December 2017.
 
 (2) Subject to paragraph (3), these Regulations have effect in relation to accounting periods of a CoACS beginning on or after that date.
 
 (3) Part 2 (except for regulation 4(2)) and regulation 2 in so far as the defined terms are used in that Part have effect in relation to accounting periods of a CoACS beginning on or after 1st April 2017.
 
-### 2. Interpretation[^key-144a60d6f1f61e1f31ed5d894b4013d8]
+### 2. Interpretation[^c-144a60d6f1f61e1f31ed5d894b4013d8]
 
 In these Regulations—
 
 - “CoACS” means co-ownership authorised contractual scheme[^f00002];
 - “HMRC” means Her Majesty’s Revenue and Customs.
-- “[^key-5dac2a81b0d1fe9d8206a371daed916a]**Reserved Investor Fund (Contractual Scheme)**” has the meaning given by section 20 of the Finance (No.2) Act 2024.
+- “[^c-5dac2a81b0d1fe9d8206a371daed916a]**Reserved Investor Fund (Contractual Scheme)**” has the meaning given by section 20 of the Finance (No.2) Act 2024.
 
 ## PART 2 — Information requirements
 
-### 3. Interpretation: Part 2[^key-06bc47070d5bd995b1c1cc0970034193]
+### 3. Interpretation: Part 2[^c-06bc47070d5bd995b1c1cc0970034193]
 
-In this Part, “information reporting date”, in relation to a CoACS or a Reserved Investor Fund (Contractual Scheme)[^key-e5b8947e4bf62403ab9c41841aeb3a40], means the date 6 months after the end of the accounting period of the CoACS or the Reserved Investor Fund (Contractual Scheme)[^key-61c6ee9be7d1c8947744797c0edd81e5].
+In this Part, “information reporting date”, in relation to a CoACS or a Reserved Investor Fund (Contractual Scheme)[^c-e5b8947e4bf62403ab9c41841aeb3a40], means the date 6 months after the end of the accounting period of the CoACS or the Reserved Investor Fund (Contractual Scheme)[^c-61c6ee9be7d1c8947744797c0edd81e5].
 
-### 4. Information to be provided to participants[^key-c20305a266582648cebb418e1bdfd544]
+### 4. Information to be provided to participants[^c-c20305a266582648cebb418e1bdfd544]
 
 (1) The operator of a CoACS must in relation to each accounting period provide sufficient information to participants[^f00003] in the scheme to enable those participants to meet their tax obligations in the United Kingdom with respect to their interests in the scheme.
 
@@ -80,15 +80,15 @@ In this Part, “information reporting date”, in relation to a CoACS or a Rese
 
 (3) The information must be provided on or before the information reporting date.
 
-### 5. Information to be provided to other CoACS or Reserved Investor Fund (Contractual Scheme)[^key-3cc454f11ad58d7214199828ee80aa47][^key-e12be21af1335239a1adc8d957e34b21]
+### 5. Information to be provided to other CoACS or Reserved Investor Fund (Contractual Scheme)[^c-3cc454f11ad58d7214199828ee80aa47][^c-e12be21af1335239a1adc8d957e34b21]
 
-(1) This regulation applies where an investment is made for the purposes of a CoACS or Reserved Investor Fund (Contractual Scheme)[^key-6904c058373ddc065b7cd6427dfdcfaa] (the “investor scheme”) through one or more other CoACS (the “investee scheme”).
+(1) This regulation applies where an investment is made for the purposes of a CoACS or Reserved Investor Fund (Contractual Scheme)[^c-6904c058373ddc065b7cd6427dfdcfaa] (the “investor scheme”) through one or more other CoACS (the “investee scheme”).
 
 (2) The operator of the investee scheme must in relation to each accounting period provide sufficient information to the operator of the investor scheme to enable that operator to meet its obligations under regulation 4.
 
 (3) The information must be provided on or before the information reporting date.
 
-### 6. Information to be provided to HMRC[^key-006122d647bf25edeb3fe1f52f871847]
+### 6. Information to be provided to HMRC[^c-006122d647bf25edeb3fe1f52f871847]
 
 (1) The operator of a CoACS must in relation to each accounting period provide the following information to HMRC—
 
@@ -98,17 +98,17 @@ In this Part, “information reporting date”, in relation to a CoACS or a Rese
 
 (2) The information required under paragraph (1) must be provided on or before the information reporting date.
 
-### 7. Further information to be provided to HMRC[^key-84b2e5badb49216cec0287977d70e3c9]
+### 7. Further information to be provided to HMRC[^c-84b2e5badb49216cec0287977d70e3c9]
 
 HMRC may give notice requiring the operator of a CoACS within such time, not being less than 42 days, as is specified in the notice, to provide to HMRC any information provided to the participants in the scheme in any accounting period which ended within five years of the notice being given.
 
-### 8. Penalty for failing to provide information[^key-7602d2163ad33bf41e21767aa2d217eb]
+### 8. Penalty for failing to provide information[^c-7602d2163ad33bf41e21767aa2d217eb]
 
-(1) An operator of a CoACS that fails to comply with regulation 4, 5 or 6 is liable to a penalty of £100 for each offence[^key-325bbb7b4edf07eec7cfafb6fab093b1].
+(1) An operator of a CoACS that fails to comply with regulation 4, 5 or 6 is liable to a penalty of £100 for each offence[^c-325bbb7b4edf07eec7cfafb6fab093b1].
 
-(2) But, in respect of offences connected with any accounting period, the total amount of any penalties imposed on a person under paragraph (1) will not exceed £1000[^key-42e23d6dd02978d55a89e2cac507576a].
+(2) But, in respect of offences connected with any accounting period, the total amount of any penalties imposed on a person under paragraph (1) will not exceed £1000[^c-42e23d6dd02978d55a89e2cac507576a].
 
-### 9. Penalty for failing to provide information following notice[^key-ae8eb68b46534a4048761a5926ae8b2c]
+### 9. Penalty for failing to provide information following notice[^c-ae8eb68b46534a4048761a5926ae8b2c]
 
 (1) An operator of a CoACS that fails to comply with regulation 7 is liable to a penalty not exceeding £3000 determined in accordance with section 100 of TMA 1970[^f00004].
 
@@ -116,11 +116,11 @@ HMRC may give notice requiring the operator of a CoACS within such time, not bei
 
 ## PART 3 — Investments in offshore funds
 
-### 10. Interpretation: Part 3[^key-34210e55a190cb1a78262cd507753dfe]
+### 10. Interpretation: Part 3[^c-34210e55a190cb1a78262cd507753dfe]
 
 In this Part, “non-reporting fund”, “reportable income”, “reported income” and “reporting fund” have the same meanings as in the Offshore Funds (Tax) Regulations 2009[^f00006].
 
-### 11. Investments in reporting offshore funds[^key-0745e0995f1131b5db953db9f8b1eced]
+### 11. Investments in reporting offshore funds[^c-0745e0995f1131b5db953db9f8b1eced]
 
 (1) This regulation applies if a CoACS has made an investment for the purposes of the scheme in a reporting fund.
 
@@ -135,7 +135,7 @@ In this Part, “non-reporting fund”, “reportable income”, “reported inc
 
 (5) The additional income is treated as arising on the information reporting date in respect of the accounting period in which the excess is treated as made under the Offshore Funds (Tax) Regulations 2009.
 
-### 12. Investments in non-reporting offshore funds: first case[^key-e9bbef6066b702a1064ccc7a5c277ce0]
+### 12. Investments in non-reporting offshore funds: first case[^c-e9bbef6066b702a1064ccc7a5c277ce0]
 
 (1) This regulation applies if—
 
@@ -152,7 +152,7 @@ In this Part, “non-reporting fund”, “reportable income”, “reported inc
 
 (4) The additional income is treated as arising on the information reporting date in respect of the accounting period to which the excess relates.
 
-### 13. Investments in non-reporting funds: second case[^key-c624c2bcf2bde55590756c065d9b8bf8]
+### 13. Investments in non-reporting funds: second case[^c-c624c2bcf2bde55590756c065d9b8bf8]
 
 (1) This regulation applies if a CoACS has made an investment for the purposes of the scheme in a non-reporting fund, but the conditions in regulation 12(2) are not met for an accounting period.
 
@@ -193,52 +193,52 @@ A Tax Information and Impact Note covering this instrument was published on 5 De
 
 [^f00001]: Footnote: [2017 c. 32](https://www.legislation.gov.uk/ukpga/2017/32).
 
-[^key-1b1b87c4f77d574790ecaad08b63ed6c]: Commencement: Reg. 1 in force at 27.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1209/regulation/1/1)
+[^c-1b1b87c4f77d574790ecaad08b63ed6c]: Commencement: Reg. 1 in force at 27.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1209/regulation/1/1)
 
-[^key-144a60d6f1f61e1f31ed5d894b4013d8]: Commencement: Reg. 2 in force at 27.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1209/regulation/1/1)
+[^c-144a60d6f1f61e1f31ed5d894b4013d8]: Commencement: Reg. 2 in force at 27.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1209/regulation/1/1)
 
 [^f00002]: Footnote: “Co-ownership authorised contractual scheme” is defined in section 41(10) and 42(7) of the Finance (No. 2) Act 2017.
 
-[^key-5dac2a81b0d1fe9d8206a371daed916a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2017/1209/regulation/2) inserted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [62(a)](https://www.legislation.gov.uk/uksi/2025/200/regulation/62/a) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-5dac2a81b0d1fe9d8206a371daed916a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2017/1209/regulation/2) inserted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [62(a)](https://www.legislation.gov.uk/uksi/2025/200/regulation/62/a) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-06bc47070d5bd995b1c1cc0970034193]: Commencement: Reg. 3 in force at 27.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1209/regulation/1/1)
+[^c-06bc47070d5bd995b1c1cc0970034193]: Commencement: Reg. 3 in force at 27.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1209/regulation/1/1)
 
-[^key-e5b8947e4bf62403ab9c41841aeb3a40]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2017/1209/regulation/3) inserted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [62(b)(i)](https://www.legislation.gov.uk/uksi/2025/200/regulation/62/b/i) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-e5b8947e4bf62403ab9c41841aeb3a40]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2017/1209/regulation/3) inserted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [62(b)(i)](https://www.legislation.gov.uk/uksi/2025/200/regulation/62/b/i) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-61c6ee9be7d1c8947744797c0edd81e5]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2017/1209/regulation/3) inserted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [62(b)(ii)](https://www.legislation.gov.uk/uksi/2025/200/regulation/62/b/ii) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-61c6ee9be7d1c8947744797c0edd81e5]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2017/1209/regulation/3) inserted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [62(b)(ii)](https://www.legislation.gov.uk/uksi/2025/200/regulation/62/b/ii) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-c20305a266582648cebb418e1bdfd544]: Commencement: Reg. 4 in force at 27.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1209/regulation/1/1)
+[^c-c20305a266582648cebb418e1bdfd544]: Commencement: Reg. 4 in force at 27.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1209/regulation/1/1)
 
 [^f00003]: Footnote: “Participant” is defined in section 41(10) and 42(7) of the Finance (No. 2) Act 2017.
 
-[^key-3cc454f11ad58d7214199828ee80aa47]: Commencement: Reg. 5 in force at 27.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1209/regulation/1/1)
+[^c-3cc454f11ad58d7214199828ee80aa47]: Commencement: Reg. 5 in force at 27.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1209/regulation/1/1)
 
-[^key-e12be21af1335239a1adc8d957e34b21]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2017/1209/regulation/5) heading inserted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [62(c)](https://www.legislation.gov.uk/uksi/2025/200/regulation/62/c) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-e12be21af1335239a1adc8d957e34b21]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2017/1209/regulation/5) heading inserted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [62(c)](https://www.legislation.gov.uk/uksi/2025/200/regulation/62/c) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-6904c058373ddc065b7cd6427dfdcfaa]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2017/1209/regulation/5/1) inserted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [62(d)](https://www.legislation.gov.uk/uksi/2025/200/regulation/62/d) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-6904c058373ddc065b7cd6427dfdcfaa]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2017/1209/regulation/5/1) inserted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [62(d)](https://www.legislation.gov.uk/uksi/2025/200/regulation/62/d) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-006122d647bf25edeb3fe1f52f871847]: Commencement: Reg. 6 in force at 27.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1209/regulation/1/1)
+[^c-006122d647bf25edeb3fe1f52f871847]: Commencement: Reg. 6 in force at 27.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1209/regulation/1/1)
 
-[^key-84b2e5badb49216cec0287977d70e3c9]: Commencement: Reg. 7 in force at 27.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1209/regulation/1/1)
+[^c-84b2e5badb49216cec0287977d70e3c9]: Commencement: Reg. 7 in force at 27.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1209/regulation/1/1)
 
-[^key-7602d2163ad33bf41e21767aa2d217eb]: Commencement: Reg. 8 in force at 27.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1209/regulation/1/1)
+[^c-7602d2163ad33bf41e21767aa2d217eb]: Commencement: Reg. 8 in force at 27.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1209/regulation/1/1)
 
-[^key-325bbb7b4edf07eec7cfafb6fab093b1]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2017/1209/regulation/8/1) substituted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [62(e)(i)](https://www.legislation.gov.uk/uksi/2025/200/regulation/62/e/i) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-325bbb7b4edf07eec7cfafb6fab093b1]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2017/1209/regulation/8/1) substituted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [62(e)(i)](https://www.legislation.gov.uk/uksi/2025/200/regulation/62/e/i) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-42e23d6dd02978d55a89e2cac507576a]: Textual amendment: Sum in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2017/1209/regulation/8/2) substituted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [62(e)(ii)](https://www.legislation.gov.uk/uksi/2025/200/regulation/62/e/ii) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-42e23d6dd02978d55a89e2cac507576a]: Textual amendment: Sum in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2017/1209/regulation/8/2) substituted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [62(e)(ii)](https://www.legislation.gov.uk/uksi/2025/200/regulation/62/e/ii) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-ae8eb68b46534a4048761a5926ae8b2c]: Commencement: Reg. 9 in force at 27.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1209/regulation/1/1)
+[^c-ae8eb68b46534a4048761a5926ae8b2c]: Commencement: Reg. 9 in force at 27.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1209/regulation/1/1)
 
 [^f00004]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9). Section 100 was substituted by section 167 of the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26) and amended by paragraph 3(2) of Schedule 11 to the Finance Act [1990 (c. 29)](https://www.legislation.gov.uk/ukpga/1990/29), paragraph 38 of the Finance Act [1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), section 315(2) of the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), section 18 of the Finance Act [2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11) and [S.I. 1994/1813](https://www.legislation.gov.uk/uksi/1994/1813) and [2011/702](https://www.legislation.gov.uk/uksi/2011/702).
 
 [^f00005]: Footnote: Sections 100A and 100B were inserted and section 103 was substituted by section 169 of the Finance Act 1989. Section 100A was amended by paragraph 29(b) of Schedule 24 and Part 5(5) of Schedule 27 to the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11). Section 100B was amended by [S.I. 2009/56](https://www.legislation.gov.uk/uksi/2009/56) and [2011/702](https://www.legislation.gov.uk/uksi/2011/702). Section 102 was amended by section 168(4) of the Finance Act 1989. Section 103(4) was amended by paragraph 48 of Schedule 38 to the Finance Act [2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14) and [S.I. 2009/56](https://www.legislation.gov.uk/uksi/2009/56). Section 118(2) was amended by Part 8 of Schedule 8 to the Finance Act [1970 (c. 24)](https://www.legislation.gov.uk/ukpga/1970/24), section 94 of the Finance (No. 2) Act [1987 (c. 51)](https://www.legislation.gov.uk/ukpga/1987/51) and [S.I. 2009/56](https://www.legislation.gov.uk/uksi/2009/56).
 
-[^key-34210e55a190cb1a78262cd507753dfe]: Commencement: Reg. 10 in force at 27.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1209/regulation/1/1)
+[^c-34210e55a190cb1a78262cd507753dfe]: Commencement: Reg. 10 in force at 27.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1209/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 2009/3001](https://www.legislation.gov.uk/uksi/2009/3001); relevant amending instruments are [S.I. 2011/1211](https://www.legislation.gov.uk/uksi/2011/1211) and [2013/1411](https://www.legislation.gov.uk/uksi/2013/1411). Part 2 of Schedule 3 to those Regulations contains an index of defined expressions.
 
-[^key-0745e0995f1131b5db953db9f8b1eced]: Commencement: Reg. 11 in force at 27.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1209/regulation/1/1)
+[^c-0745e0995f1131b5db953db9f8b1eced]: Commencement: Reg. 11 in force at 27.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1209/regulation/1/1)
 
-[^key-e9bbef6066b702a1064ccc7a5c277ce0]: Commencement: Reg. 12 in force at 27.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1209/regulation/1/1)
+[^c-e9bbef6066b702a1064ccc7a5c277ce0]: Commencement: Reg. 12 in force at 27.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1209/regulation/1/1)
 
-[^key-c624c2bcf2bde55590756c065d9b8bf8]: Commencement: Reg. 13 in force at 27.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1209/regulation/1/1)
+[^c-c624c2bcf2bde55590756c065d9b8bf8]: Commencement: Reg. 13 in force at 27.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1209/regulation/1/1)

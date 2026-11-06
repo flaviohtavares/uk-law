@@ -44,9 +44,9 @@ Coming into force
 
 8th December 2020
 
-The Treasury make the following Regulations in exercise of the power conferred by section 210 of the Income Tax (Earnings and Pensions) Act 2003 [^c24335141][^key-dbc2eede119f9f01b3d71b26195f0a3f].
+The Treasury make the following Regulations in exercise of the power conferred by section 210 of the Income Tax (Earnings and Pensions) Act 2003 [^c24335141][^c-dbc2eede119f9f01b3d71b26195f0a3f].
 
-## 1. Citation, commencement, effect and interpretation[^key-09ca9a385bf41293649e0062d623d9b9]
+## 1. Citation, commencement, effect and interpretation[^c-09ca9a385bf41293649e0062d623d9b9]
 
 (1) These Regulations may be cited as the Income Tax (Exemption of Minor Benefits) (Coronavirus) Regulations 2020.
 
@@ -54,7 +54,7 @@ The Treasury make the following Regulations in exercise of the power conferred b
 
 (3) In these Regulations “**coronavirus test**” means a test which detects the presence of a viral antigen or viral ribonucleic acid (RNA) specific to severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
 
-## 2. Exemption for coronavirus tests provided by employers[^key-b670b12c620f9617568aeb6220664d79]
+## 2. Exemption for coronavirus tests provided by employers[^c-b670b12c620f9617568aeb6220664d79]
 
 There is no charge to tax under Chapter 10 of Part 3 (taxable benefits: residual liability to charge) of the Income Tax (Earnings and Pensions) Act 2003 for a coronavirus test provided by or on behalf of an employer.
 
@@ -76,8 +76,8 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^c24335141]: Marginal citation: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1)
 
-[^key-dbc2eede119f9f01b3d71b26195f0a3f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/1293) superseded (with effect in accordance with s. 26(4) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 26](https://www.legislation.gov.uk/ukpga/2021/26/section/26)
+[^c-dbc2eede119f9f01b3d71b26195f0a3f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/1293) superseded (with effect in accordance with s. 26(4) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 26](https://www.legislation.gov.uk/ukpga/2021/26/section/26)
 
-[^key-09ca9a385bf41293649e0062d623d9b9]: Commencement: Reg. 1 in force at 8.12.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1293/regulation/1/2)
+[^c-09ca9a385bf41293649e0062d623d9b9]: Commencement: Reg. 1 in force at 8.12.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1293/regulation/1/2)
 
-[^key-b670b12c620f9617568aeb6220664d79]: Commencement: Reg. 2 in force at 8.12.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1293/regulation/1/2)
+[^c-b670b12c620f9617568aeb6220664d79]: Commencement: Reg. 2 in force at 8.12.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1293/regulation/1/2)

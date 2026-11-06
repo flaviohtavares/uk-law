@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Closure of deferred member’s account after gap in pensionable service not exceeding five years[^key-be7899f1f6d14d1299787eb545a54751]
+## 49. Closure of deferred member’s account after gap in pensionable service not exceeding five years[^c-be7899f1f6d14d1299787eb545a54751]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be7899f1f6d14d1299787eb545a54751]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2014/2848/regulation/49) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-be7899f1f6d14d1299787eb545a54751]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2014/2848/regulation/49) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

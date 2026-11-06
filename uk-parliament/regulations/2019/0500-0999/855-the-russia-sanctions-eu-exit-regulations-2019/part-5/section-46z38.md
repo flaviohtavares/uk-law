@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46Z38. Brokering services: non-UK activity relating to sectoral software and technology[^key-33feb63d6b3401da61bfadf5a13394b0]
+## 46Z38. Brokering services: non-UK activity relating to sectoral software and technology[^c-33feb63d6b3401da61bfadf5a13394b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33feb63d6b3401da61bfadf5a13394b0]: Textual amendment: [Pt. 5 Ch. 4N](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4N) inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2025/504/regulation/9) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
+[^c-33feb63d6b3401da61bfadf5a13394b0]: Textual amendment: [Pt. 5 Ch. 4N](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4N) inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2025/504/regulation/9) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))

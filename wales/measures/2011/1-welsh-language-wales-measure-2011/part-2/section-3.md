@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. The Commissioner's principal aim[^key-972a75ddabb8fde62ccaf8f012875ca5]
+## 3. The Commissioner's principal aim[^c-972a75ddabb8fde62ccaf8f012875ca5]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-972a75ddabb8fde62ccaf8f012875ca5]: Commencement: [S. 3](https://www.legislation.gov.uk/mwa/2011/1/section/3) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(c)](https://www.legislation.gov.uk/wsi/2012/969/article/2/c)
+[^c-972a75ddabb8fde62ccaf8f012875ca5]: Commencement: [S. 3](https://www.legislation.gov.uk/mwa/2011/1/section/3) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(c)](https://www.legislation.gov.uk/wsi/2012/969/article/2/c)

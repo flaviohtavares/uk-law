@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Making payments[^key-149ce01f825b62552c7c993a9020bd3c]
+## 47. Making payments[^c-149ce01f825b62552c7c993a9020bd3c]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-149ce01f825b62552c7c993a9020bd3c]: Commencement: Reg. 47 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-149ce01f825b62552c7c993a9020bd3c]: Commencement: Reg. 47 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

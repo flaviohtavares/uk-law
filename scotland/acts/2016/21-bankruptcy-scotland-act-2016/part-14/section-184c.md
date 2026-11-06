@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 184C. Early discharge in extenuating circumstances: procedure where creditors object[^key-a37d5b76d62d6a655b5238d664a6ffdd]
+## 184C. Early discharge in extenuating circumstances: procedure where creditors object[^c-a37d5b76d62d6a655b5238d664a6ffdd]
 
 *Extent: S*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a37d5b76d62d6a655b5238d664a6ffdd]: Textual amendment: [Ss. 184A-184C](https://www.legislation.gov.uk/asp/2016/21/section/184A) inserted (1.7.2024) by [The Protected Trust Deeds (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/198)](https://www.legislation.gov.uk/ssi/2024/198), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/198/regulation/1/1), [5(4)](https://www.legislation.gov.uk/ssi/2024/198/regulation/5/4)
+[^c-a37d5b76d62d6a655b5238d664a6ffdd]: Textual amendment: [Ss. 184A-184C](https://www.legislation.gov.uk/asp/2016/21/section/184A) inserted (1.7.2024) by [The Protected Trust Deeds (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/198)](https://www.legislation.gov.uk/ssi/2024/198), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/198/regulation/1/1), [5(4)](https://www.legislation.gov.uk/ssi/2024/198/regulation/5/4)

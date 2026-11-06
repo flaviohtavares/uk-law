@@ -51,7 +51,7 @@ Regulations 12 to 18
 
 The Secretary of State for Social Services, in exercise of the powers conferred upon him by section 66(7) of the Social Security Act 1973[^f00001] and sections 1(1), (2), (4), (5), (9), (10) and (11), 2(1) and (5), 3(1)(b) and (5), 84(1) and 89(1) of, and paragraphs 2 and 6 of Schedule 1 to, the Social Security Act 1986[^f00002], and of all other powers enabling him in that behalf, by this instrument, which is made before the end of a period of 12 months from the commencement of the enactments under which it is made, makes the following Regulations:—
 
-## 1. Citation, commencement and interpretation[^key-0bcc2abaae6b25584792b30e336cc4d9]
+## 1. Citation, commencement and interpretation[^c-0bcc2abaae6b25584792b30e336cc4d9]
 
 (1) These Regulations may be cited as the Personal Pension Schemes (Appro-priate Schemes) Regulations 1988; this regulation and regulations 2 to 11, 19 and 20 shall come into force on 1st March 1988, and regulations 12 to 18 shall come into force on 1st July 1988.
 
@@ -75,7 +75,7 @@ and other expressions have the same meaning as in the Act.
 - (b) in a regulation to a numbered paragraph is to the paragraph of that regulation bearing that number;
 - (c) in a paragraph to a lettered sub-paragraph is to the sub-paragraph of that paragraph bearing that letter.
 
-## 2. Forms of schemes which may be appropriate schemes[^key-c103b02cdde739d17018c1c3c0c82b66]
+## 2. Forms of schemes which may be appropriate schemes[^c-c103b02cdde739d17018c1c3c0c82b66]
 
 (1) Without prejudice to any other requirements imposed by the Act or regulations made under it, a personal pension scheme can be an appropriate scheme only if it is approved by the Inland Revenue under either Chapter II of Part I of the Finance (No. 2) Act 1987[^f00008] or Chapter II of Part II of the Finance Act 1970[^f00009] by reference to section 20(2)(h) of that Act and in either case it takes the form specified in any one (but not more than one) of sub-paragraphs (a) to (c) namely—
 
@@ -85,7 +85,7 @@ and other expressions have the same meaning as in the Act.
 
 (2) For the purposes of this regulation a personal pension scheme which has been granted provisional approval by the Inland Revenue under the Personal Pension Schemes (Provisional Approval) Regulations 1987[^f00011] shall be treated as being approved under Chapter II of Part I of the Finance (No. 2) Act 1987.
 
-## 3. Persons who and bodies which may establish schemes[^key-13f47ec120b6f23f79772f0b5d905afb]
+## 3. Persons who and bodies which may establish schemes[^c-13f47ec120b6f23f79772f0b5d905afb]
 
 (1) Without prejudice to any other requirements of the Act or regulations made under it—
 
@@ -103,7 +103,7 @@ and other expressions have the same meaning as in the Act.
 - (b) a Pension Company within the meaning of the Building Societies (Designation of Pension Companies) Order 1987[^f00012]which is an associated body of a building society within the meaning of section 18(17) of the Building Societies Act 1986;
 - (c) an institution authorised under Part I of the Banking Act 1987[^f00013].
 
-## 4. Information to be included in an application for an appropriate scheme certificate[^key-4b8afab7cf5e61f95eb53c4a6ad47ce2]
+## 4. Information to be included in an application for an appropriate scheme certificate[^c-4b8afab7cf5e61f95eb53c4a6ad47ce2]
 
 (1) Every application for an appropriate scheme certificate shall be made in writing to the Board and shall include the following particulars—
 
@@ -125,7 +125,7 @@ except where the Board in their discretion dispense wholly or partly with this r
 
 (3) Every person who has made an application shall supply such other documents and information as the Board may reasonably require.
 
-## 5. Issue of appropriate scheme certificates[^key-ef975a8378afc2a36c87f3288606a575]
+## 5. Issue of appropriate scheme certificates[^c-ef975a8378afc2a36c87f3288606a575]
 
 (1) When the Board have determined that a scheme should be treated as an appropriate scheme, they shall issue an appropriate scheme certificate to the person who applied for it, but no such certificate shall be issued before 1st July 1988.
 
@@ -134,7 +134,7 @@ except where the Board in their discretion dispense wholly or partly with this r
 - (a) the name of the scheme and the address where it is administered; and
 - (b) the date from which the certificate is to have effect, which shall be 6th April in 1987 or any later year and which may be earlier than the date on which the certificate is issued where the person who applied for the certificate has so requested, but, if the Board receive the application after 5th April 1989, not earlier than 6th April in the tax year in which the Board receive the application.
 
-## 6. Further information and change of circumstances[^key-50e1b9891434b838c71b569632acfc97]
+## 6. Further information and change of circumstances[^c-50e1b9891434b838c71b569632acfc97]
 
 The administrators of the scheme shall—
 
@@ -147,7 +147,7 @@ The administrators of the scheme shall—
 
   as soon as practicable after its occurrence; and the document by which the notification is given may be served by post.
 
-## 7. Applications for the variation of, and to surrender, appropriate scheme certificates[^key-18b7fa4abb767542fa919ff5cbdf7136]
+## 7. Applications for the variation of, and to surrender, appropriate scheme certificates[^c-18b7fa4abb767542fa919ff5cbdf7136]
 
 (1) Every application for the variation of, or to surrender, an appropriate scheme certificate—
 
@@ -170,7 +170,7 @@ by sending it to his last known address; and the document comprising the notice 
 
 (4) Every person who makes an application under this regulation shall supply such other documents and information as the Board may reasonably require.
 
-## 8. Determination of question arising on an application for the issue of an appropriate scheme certificate[^key-4dcbf365fb40cb1261d4ff5e2ce2f5df]
+## 8. Determination of question arising on an application for the issue of an appropriate scheme certificate[^c-4dcbf365fb40cb1261d4ff5e2ce2f5df]
 
 (1) Subject to the provisions of this regulation, the Board shall treat an application for an appropriate scheme certificate as an application for the determination of the question whether the scheme in question shall be an appropriate scheme, and subject to the provisions of paragraph (3), they shall determine the question as soon as practicable.
 
@@ -182,7 +182,7 @@ by sending it to his last known address; and the document comprising the notice 
 
 (5) Where the Board’s determination under this regulation does not give effect to the application, the Board shall notify the applicant in writing of the determination and of the reasons for it and shall refer him to the Board’s powers of review under section 67 of the Social Security Act 1973[^f00014].
 
-## 9. Determination of question arising on an application with a view to the variation or surrender of an appropriate scheme certificate[^key-495239525d488b50755bfc653c8b54ef]
+## 9. Determination of question arising on an application with a view to the variation or surrender of an appropriate scheme certificate[^c-495239525d488b50755bfc653c8b54ef]
 
 (1) Subject to the provisions of this regulation, the Board shall treat an application made with a view to the variation or surrender of an appropriate scheme certificate as an application for the determination of the question whether the certificate should be varied or, as the case may be, whether the scheme should cease to be an appropriate scheme; and subject to the provisions of paragraph (3) they shall determine the question as soon as practicable.
 
@@ -201,7 +201,7 @@ by sending it to his last known address; and the document comprising the notice 
 
 by sending it to his last known address; and the document comprising the notice may be served by post.
 
-## 10. Other circumstances in which the Board may cancel an appropriate scheme certificate[^key-eaff0cc8a6cbf703c5a00dae0e3a4ee5]
+## 10. Other circumstances in which the Board may cancel an appropriate scheme certificate[^c-eaff0cc8a6cbf703c5a00dae0e3a4ee5]
 
 (1) Where the Board have reason to suppose that any scheme to which an appropriate scheme certificate applies should not continue to be an appropriate scheme, and the administrators of the scheme have not shown to the satisfaction of the Board that it should so continue, the Board may determine that the scheme should not continue to be treated as an appropriate scheme; where they so determine, they shall cancel the certificate with effect from such date as they may specify (subject to paragraph (2)); the Board shall notify the administrators of the scheme in writing of their determination and the reasons for it and shall refer them to the Board’s powers of review under section 67 of the Social Security Act 1973, and shall also notify the Secretary of State of their determination.
 
@@ -210,7 +210,7 @@ by sending it to his last known address; and the document comprising the notice 
 - (a) shall not be a date other than 6th April in any year; and
 - (b) shall not be earlier than 6th April in the tax year in which the Board consider that the scheme first failed to satisfy those requirements.
 
-## 11. Determination of questions[^key-3041cb8bbfec10987d834d419211ced5]
+## 11. Determination of questions[^c-3041cb8bbfec10987d834d419211ced5]
 
 Any question—
 
@@ -219,7 +219,7 @@ Any question—
 
 shall be determined by the Board.
 
-## 12. Notice under section 1(9) of the Act[^key-9812ed136e7f51de02c6271c3626fb89]
+## 12. Notice under section 1(9) of the Act[^c-9812ed136e7f51de02c6271c3626fb89]
 
 **Not yet in force.**
 
@@ -236,7 +236,7 @@ shall be determined by the Board.
 - (a) the date 6 months earlier than that on which the Secretary of State receives the notice; and
 - (b) 6th April in the tax year in which the Secretary of State receives the notice.
 
-## 13. Notice under section 1(10) of the Act[^key-f10c843d879a6f97b046043c78659d7d]
+## 13. Notice under section 1(10) of the Act[^c-f10c843d879a6f97b046043c78659d7d]
 
 **Not yet in force.**
 
@@ -244,7 +244,7 @@ shall be determined by the Board.
 
 (2) The date specified in a notice under section 1(10) as the date from which the scheme is to cease to be the earner’s chosen scheme shall be 6th April in the tax year in which the Secretary of State receives the notice or 6th April in the next tax year, so however that if the notice is given by the earner and not by the trustees or managers of the scheme the date shall be at least a year later than the date specified in the relevant section 1(9) notice.
 
-## 14. Circumstances in which minimum contributions are not to be paid to schemes[^key-36928c5a63da6d83607c821268849687]
+## 14. Circumstances in which minimum contributions are not to be paid to schemes[^c-36928c5a63da6d83607c821268849687]
 
 **Not yet in force.**
 
@@ -298,7 +298,7 @@ the minimum contributions shall be paid (in the case of an annuity) to the insur
 
 (14) Where the minimum contributions are payable for, or for part of, the tax year in which the earner attained pensionable age or died before attaining that age, the minimum contributions shall be paid to the earner or his widow or her widower, of if the earner died unmarried, they may at the Secretary of State’s discretion be paid to any person.
 
-## 15. Manner of payment of minimum contributions[^key-07a246355901bf4c8e1b6051036aa7bb]
+## 15. Manner of payment of minimum contributions[^c-07a246355901bf4c8e1b6051036aa7bb]
 
 **Not yet in force.**
 
@@ -307,13 +307,13 @@ Minimum contributions shall be paid—
 - (a) by automated direct credit transfer into a bank or building society account which relates to the relevant scheme and which accepts payments made by automated direct credit transfer; or
 - (b) in such other manner as the Secretary of State may in his discretion approve.
 
-## 16. Claim for the purpose of section 3(1)(b) of the Act[^key-fc5dece4610e6c5f199ac689b9ab0200]
+## 16. Claim for the purpose of section 3(1)(b) of the Act[^c-fc5dece4610e6c5f199ac689b9ab0200]
 
 **Not yet in force.**
 
 For the purpose of section 3(1)(b) of the Act, £1.00 shall be substituted for 2 per cent. of the earnings referred to in section 3(1)(a) if 2 per cent. of those earnings is less than £1.00 and the earner or his widow or her widower, or the administrators of the relevant scheme in respect of whom the minimum contributions are to be paid, applies or apply in writing in such form as the Secretary of State may in his discretion accept.
 
-## 17. Calculation or estimation of earnings[^key-464e807a3c82ffc7627e4426247d60df]
+## 17. Calculation or estimation of earnings[^c-464e807a3c82ffc7627e4426247d60df]
 
 **Not yet in force.**
 
@@ -355,13 +355,13 @@ For the purpose of section 3(1)(b) of the Act, £1.00 shall be substituted for 2
 - (f) U is the upper earnings limit (within the meaning of section 1 of the Social Security Pensions Act 1975) for the tax year in question; and
 - (g) X is so much of the earnings paid to or for the benefit of the earner with respect to any employment which is not contracted-out employment in relation to him as exceeds the lower earnings limit but does not exceed the upper earnings limit.
 
-## 18. Adjustment of amount of minimum contributions[^key-24eab2c0ae4b46d3fe8278288f76dadb]
+## 18. Adjustment of amount of minimum contributions[^c-24eab2c0ae4b46d3fe8278288f76dadb]
 
 **Not yet in force.**
 
 Where the amount of minimum contributions payable in respect of an earner in relation to a tax year would otherwise not be a whole number of pence, it shall be taken to be the nearest whole number of pence, or, when the 2 nearest whole numbers are equally near, the lower of them.
 
-## 19. Cancellation of membership of interest-bearing account-funded appropriate personal pension schemes[^key-dd04b19d9220ae8590136f44b2c0a091]
+## 19. Cancellation of membership of interest-bearing account-funded appropriate personal pension schemes[^c-dd04b19d9220ae8590136f44b2c0a091]
 
 (1) Without prejudice to any other requirements imposed by the Act or regulations made under it, a personal pension scheme which comprises an arrangement of the kind described in regulation 2(1)(c) can be an appropriate scheme only if it satisfies the requirements of paragraph (2).
 
@@ -377,7 +377,7 @@ Where the amount of minimum contributions payable in respect of an earner in rel
 
 (3) Where a counter-notice of the kind mentioned in paragraph (2)(b) is properly addressed, pre-paid and served by post, it shall be deemed to have been duly served on the day on which it was posted.
 
-## 20. Transitional provisions[^key-d355cd966e613f885e5dfe06c4cbdde0]
+## 20. Transitional provisions[^c-d355cd966e613f885e5dfe06c4cbdde0]
 
 (1) During the period beginning on 1st July 1988 and ending on 5th April 1989 the Board may in their discretion issue an appropriate scheme certificate, notwithstanding that they have not satisfied themselves that the scheme in question satisfies the conditions for the issue of such a certificate, on the basis of—
 
@@ -415,14 +415,14 @@ Department of Health and Social Security
 
 Regulation 2(1)(b)
 
-### PART I — kinds of unit trust scheme[^key-e3bc8d822e792be9cc4e3d0c2049a288]
+### PART I — kinds of unit trust scheme[^c-e3bc8d822e792be9cc4e3d0c2049a288]
 
 - An authorised securities scheme.
 - A feeder fund, but only if the authorised unit trust scheme which is the object of its investment is an authorised securities scheme, a money market fund, or a fund of funds of a kind mentioned in this part of the Schedule.
 - A fund of funds, but only if the authorised unit trust schemes which are the object of its investment are authorised securities schemes or money market funds.
 - A money market fund.
 
-### PART II — definitions[^key-af7c7b8e3ee976d0f6c23f51ea642a21]
+### PART II — definitions[^c-af7c7b8e3ee976d0f6c23f51ea642a21]
 
 In this schedule—
 
@@ -437,17 +437,17 @@ In this schedule—
 
 Regulation 19(2)(a)
 
-**1.**[^key-0dbee2dd4a833e8f56fdba5d029dfd69] The right of the member to cancel his membership of the scheme.
+**1.**[^c-0dbee2dd4a833e8f56fdba5d029dfd69] The right of the member to cancel his membership of the scheme.
 
-**2.**[^key-80ab2f2aa234fa697bc86a0969998048] The provisions of section 15(1) of the Act, the scheme rules and of these regulations which govern the exercise of the right referred to in paragraph 1 of this Schedule.
+**2.**[^c-80ab2f2aa234fa697bc86a0969998048] The provisions of section 15(1) of the Act, the scheme rules and of these regulations which govern the exercise of the right referred to in paragraph 1 of this Schedule.
 
-**3.**[^key-524a7de357699a17d1890f2744d5149d] The name and address of the person on whom the member’s counter-notice, mentioned in regulation 19 of these regulations, should be served.
+**3.**[^c-524a7de357699a17d1890f2744d5149d] The name and address of the person on whom the member’s counter-notice, mentioned in regulation 19 of these regulations, should be served.
 
-**4.**[^key-a27dd86ec8af03b457c25ea902981f55] The type of account, or accounts, in which contributions to the scheme are invested.
+**4.**[^c-a27dd86ec8af03b457c25ea902981f55] The type of account, or accounts, in which contributions to the scheme are invested.
 
-**5.**[^key-5a0ca37fa95677a12d1c0ae9f49bc280] The rate of interest, at the time when the notice is served, which is accruing to contributions of members of the scheme which are then invested.
+**5.**[^c-5a0ca37fa95677a12d1c0ae9f49bc280] The rate of interest, at the time when the notice is served, which is accruing to contributions of members of the scheme which are then invested.
 
-**6.**[^key-2d6430aa1869954e10ee6d3f1baf8e69] The part—
+**6.**[^c-2d6430aa1869954e10ee6d3f1baf8e69] The part—
 
 - (a) of any payment or payments that are made to the scheme by or on behalf of a member;
 - (b) of any income arising from the investment of payments such as are mentioned in sub-paragraph (a) of this paragraph; or
@@ -459,11 +459,11 @@ that may be used (otherwise than as an unidentifiable element in the calculation
 - (ii) to pay commission; or
 - (iii) in any other way which does not result in the provision of benefits for or in respect of members.
 
-**7.**[^key-15043515f1b479d1670abe5b2dcb0d73] How tax relief on members' contributions is effected.
+**7.**[^c-15043515f1b479d1670abe5b2dcb0d73] How tax relief on members' contributions is effected.
 
-**8.**[^key-ee6ea9d90f4eb97eee5147e1dcba0905] How the cessation of the making of contributions to the scheme by a member of it, not less than 21 days after he becomes a member of it, but before the end of the period for which he could continue making such contributions, would affect the member’s rights under the scheme.
+**8.**[^c-ee6ea9d90f4eb97eee5147e1dcba0905] How the cessation of the making of contributions to the scheme by a member of it, not less than 21 days after he becomes a member of it, but before the end of the period for which he could continue making such contributions, would affect the member’s rights under the scheme.
 
-**9.**[^key-985627573185cf57a65be5c55daebde4] The address to which enquiries about the scheme generally or about an individual’s entitlement to benefit should be sent.
+**9.**[^c-985627573185cf57a65be5c55daebde4] The address to which enquiries about the scheme generally or about an individual’s entitlement to benefit should be sent.
 
 (This note is not part of the Regulations)
 
@@ -500,7 +500,7 @@ Regulation 20 provides transitionally for the issue (only until 5th April 1989) 
 
 [^f00002]: Footnote: [1986 c. 50](https://www.legislation.gov.uk/ukpga/1986/50). See definitions of “prescribed” and “regulations” in section 84(1).
 
-[^key-0bcc2abaae6b25584792b30e336cc4d9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1988/137/regulation/1) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
+[^c-0bcc2abaae6b25584792b30e336cc4d9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1988/137/regulation/1) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
 
 [^f00003]: Footnote: [1975 c. 60](https://www.legislation.gov.uk/ukpga/1975/60). See sections 32 and 66, as amended by the Social Security Act [1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50), Schedule 2, paragraphs 5 and 11.
 
@@ -512,7 +512,7 @@ Regulation 20 provides transitionally for the issue (only until 5th April 1989) 
 
 [^f00007]: Footnote: [1975 c. 14](https://www.legislation.gov.uk/ukpga/1975/14).
 
-[^key-c103b02cdde739d17018c1c3c0c82b66]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1988/137/regulation/2) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
+[^c-c103b02cdde739d17018c1c3c0c82b66]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1988/137/regulation/2) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
 
 [^f00008]: Footnote: [1987 c. 51](https://www.legislation.gov.uk/ukpga/1987/51).
 
@@ -522,43 +522,43 @@ Regulation 20 provides transitionally for the issue (only until 5th April 1989) 
 
 [^f00011]: Footnote: S.I. [1987/1765](https://www.legislation.gov.uk/uksi/1987/1765).
 
-[^key-13f47ec120b6f23f79772f0b5d905afb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1988/137/regulation/3) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
+[^c-13f47ec120b6f23f79772f0b5d905afb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1988/137/regulation/3) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
 
 [^f00012]: Footnote: S.I. [1987/1871](https://www.legislation.gov.uk/uksi/1987/1871).
 
 [^f00013]: Footnote: [1987 c. 22](https://www.legislation.gov.uk/ukpga/1987/22).
 
-[^key-4b8afab7cf5e61f95eb53c4a6ad47ce2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1988/137/regulation/4) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
+[^c-4b8afab7cf5e61f95eb53c4a6ad47ce2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1988/137/regulation/4) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
 
-[^key-ef975a8378afc2a36c87f3288606a575]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1988/137/regulation/5) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
+[^c-ef975a8378afc2a36c87f3288606a575]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1988/137/regulation/5) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
 
-[^key-50e1b9891434b838c71b569632acfc97]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1988/137/regulation/6) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
+[^c-50e1b9891434b838c71b569632acfc97]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1988/137/regulation/6) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
 
-[^key-18b7fa4abb767542fa919ff5cbdf7136]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1988/137/regulation/7) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
+[^c-18b7fa4abb767542fa919ff5cbdf7136]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1988/137/regulation/7) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
 
-[^key-4dcbf365fb40cb1261d4ff5e2ce2f5df]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1988/137/regulation/8) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
+[^c-4dcbf365fb40cb1261d4ff5e2ce2f5df]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1988/137/regulation/8) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
 
 [^f00014]: Footnote: [1973 c. 38](https://www.legislation.gov.uk/ukpga/1973/38).
 
-[^key-495239525d488b50755bfc653c8b54ef]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1988/137/regulation/9) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
+[^c-495239525d488b50755bfc653c8b54ef]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1988/137/regulation/9) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
 
-[^key-eaff0cc8a6cbf703c5a00dae0e3a4ee5]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1988/137/regulation/10) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
+[^c-eaff0cc8a6cbf703c5a00dae0e3a4ee5]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1988/137/regulation/10) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
 
-[^key-3041cb8bbfec10987d834d419211ced5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1988/137/regulation/11) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
+[^c-3041cb8bbfec10987d834d419211ced5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1988/137/regulation/11) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
 
-[^key-9812ed136e7f51de02c6271c3626fb89]: Commencement: Reg. 12 in force at 1.7.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
+[^c-9812ed136e7f51de02c6271c3626fb89]: Commencement: Reg. 12 in force at 1.7.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
 
-[^key-f10c843d879a6f97b046043c78659d7d]: Commencement: Reg. 13 in force at 1.7.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
+[^c-f10c843d879a6f97b046043c78659d7d]: Commencement: Reg. 13 in force at 1.7.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
 
-[^key-36928c5a63da6d83607c821268849687]: Commencement: Reg. 14 in force at 1.7.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
+[^c-36928c5a63da6d83607c821268849687]: Commencement: Reg. 14 in force at 1.7.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
 
 [^f00015]: Footnote: [1975 c. 60](https://www.legislation.gov.uk/ukpga/1975/60).
 
-[^key-07a246355901bf4c8e1b6051036aa7bb]: Commencement: Reg. 15 in force at 1.7.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
+[^c-07a246355901bf4c8e1b6051036aa7bb]: Commencement: Reg. 15 in force at 1.7.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
 
-[^key-fc5dece4610e6c5f199ac689b9ab0200]: Commencement: Reg. 16 in force at 1.7.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
+[^c-fc5dece4610e6c5f199ac689b9ab0200]: Commencement: Reg. 16 in force at 1.7.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
 
-[^key-464e807a3c82ffc7627e4426247d60df]: Commencement: Reg. 17 in force at 1.7.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
+[^c-464e807a3c82ffc7627e4426247d60df]: Commencement: Reg. 17 in force at 1.7.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
 
 [^f00016]: Footnote: S.I. [1975/556](https://www.legislation.gov.uk/uksi/1975/556), amended by S.I. [1976/1736](https://www.legislation.gov.uk/uksi/1976/1736), [1977/788](https://www.legislation.gov.uk/uksi/1977/788), [1978/409](https://www.legislation.gov.uk/uksi/1978/409), [1981/1501](https://www.legislation.gov.uk/uksi/1981/1501), [1982/96](https://www.legislation.gov.uk/uksi/1982/96), [1983/197](https://www.legislation.gov.uk/uksi/1983/197), [463](https://www.legislation.gov.uk/uksi/1983/463), [1987/414](https://www.legislation.gov.uk/uksi/1987/414), [687](https://www.legislation.gov.uk/uksi/1987/687).
 
@@ -568,32 +568,32 @@ Regulation 20 provides transitionally for the issue (only until 5th April 1989) 
 
 [^f00019]: Footnote: See S.I. [1987/1115](https://www.legislation.gov.uk/uksi/1987/1115), regulation 2.
 
-[^key-24eab2c0ae4b46d3fe8278288f76dadb]: Commencement: Reg. 18 in force at 1.7.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
+[^c-24eab2c0ae4b46d3fe8278288f76dadb]: Commencement: Reg. 18 in force at 1.7.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
 
-[^key-dd04b19d9220ae8590136f44b2c0a091]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1988/137/regulation/19) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
+[^c-dd04b19d9220ae8590136f44b2c0a091]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1988/137/regulation/19) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
 
-[^key-d355cd966e613f885e5dfe06c4cbdde0]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1988/137/regulation/20) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
+[^c-d355cd966e613f885e5dfe06c4cbdde0]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1988/137/regulation/20) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
 
-[^key-e3bc8d822e792be9cc4e3d0c2049a288]: Commencement: [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1988/137/schedule/1/part/I) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
+[^c-e3bc8d822e792be9cc4e3d0c2049a288]: Commencement: [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1988/137/schedule/1/part/I) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
 
-[^key-af7c7b8e3ee976d0f6c23f51ea642a21]: Commencement: [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/1988/137/schedule/1/part/II) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
+[^c-af7c7b8e3ee976d0f6c23f51ea642a21]: Commencement: [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/1988/137/schedule/1/part/II) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
 
 [^f00020]: Footnote: [1986 c. 60](https://www.legislation.gov.uk/ukpga/1986/60).
 
-[^key-0dbee2dd4a833e8f56fdba5d029dfd69]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1988/137/schedule/2/paragraph/1) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
+[^c-0dbee2dd4a833e8f56fdba5d029dfd69]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1988/137/schedule/2/paragraph/1) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
 
-[^key-80ab2f2aa234fa697bc86a0969998048]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1988/137/schedule/2/paragraph/2) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
+[^c-80ab2f2aa234fa697bc86a0969998048]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1988/137/schedule/2/paragraph/2) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
 
-[^key-524a7de357699a17d1890f2744d5149d]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1988/137/schedule/2/paragraph/3) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
+[^c-524a7de357699a17d1890f2744d5149d]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1988/137/schedule/2/paragraph/3) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
 
-[^key-a27dd86ec8af03b457c25ea902981f55]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/1988/137/schedule/2/paragraph/4) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
+[^c-a27dd86ec8af03b457c25ea902981f55]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/1988/137/schedule/2/paragraph/4) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
 
-[^key-5a0ca37fa95677a12d1c0ae9f49bc280]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/1988/137/schedule/2/paragraph/5) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
+[^c-5a0ca37fa95677a12d1c0ae9f49bc280]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/1988/137/schedule/2/paragraph/5) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
 
-[^key-2d6430aa1869954e10ee6d3f1baf8e69]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/1988/137/schedule/2/paragraph/6) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
+[^c-2d6430aa1869954e10ee6d3f1baf8e69]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/1988/137/schedule/2/paragraph/6) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
 
-[^key-15043515f1b479d1670abe5b2dcb0d73]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/1988/137/schedule/2/paragraph/7) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
+[^c-15043515f1b479d1670abe5b2dcb0d73]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/1988/137/schedule/2/paragraph/7) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
 
-[^key-ee6ea9d90f4eb97eee5147e1dcba0905]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/1988/137/schedule/2/paragraph/8) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
+[^c-ee6ea9d90f4eb97eee5147e1dcba0905]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/1988/137/schedule/2/paragraph/8) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
 
-[^key-985627573185cf57a65be5c55daebde4]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/1988/137/schedule/2/paragraph/9) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)
+[^c-985627573185cf57a65be5c55daebde4]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/1988/137/schedule/2/paragraph/9) in force at 1.3.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/137/regulation/1/1)

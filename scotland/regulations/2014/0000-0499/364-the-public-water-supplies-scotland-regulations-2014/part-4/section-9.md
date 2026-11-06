@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Numbers of samples[^key-3da88d25e01144802bbeba9af7dbf718]
+## 9. Numbers of samples[^c-3da88d25e01144802bbeba9af7dbf718]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3da88d25e01144802bbeba9af7dbf718]: Textual amendment: [Regs. 7-10](https://www.legislation.gov.uk/ssi/2014/364/regulation/7) omitted (27.10.2017) by virtue of [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [4(4)](https://www.legislation.gov.uk/ssi/2017/281/regulation/4/4)
+[^c-3da88d25e01144802bbeba9af7dbf718]: Textual amendment: [Regs. 7-10](https://www.legislation.gov.uk/ssi/2014/364/regulation/7) omitted (27.10.2017) by virtue of [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [4(4)](https://www.legislation.gov.uk/ssi/2017/281/regulation/4/4)

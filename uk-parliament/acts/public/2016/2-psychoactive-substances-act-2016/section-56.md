@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Offences by directors, partners, etc[^key-eea63cea0452e33968854cbb765d09ee]
+## 56. Offences by directors, partners, etc[^c-eea63cea0452e33968854cbb765d09ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ that person (as well as the firm) is guilty of that offence and liable to be pro
 
 ## Annotations
 
-[^key-eea63cea0452e33968854cbb765d09ee]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2016/2/section/56) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-eea63cea0452e33968854cbb765d09ee]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2016/2/section/56) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

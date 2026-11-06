@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 278. Record of proceedings at examination as evidence.[^key-fbc0873d9df85febe029b26aa3379236]
+## 278. Record of proceedings at examination as evidence.[^c-fbc0873d9df85febe029b26aa3379236]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fbc0873d9df85febe029b26aa3379236]: Textual amendment: S. 278 repealed (17.1.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 78(2)(e)](https://www.legislation.gov.uk/asp/2016/1/section/78/2/e), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/426/article/3))
+[^c-fbc0873d9df85febe029b26aa3379236]: Textual amendment: S. 278 repealed (17.1.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 78(2)(e)](https://www.legislation.gov.uk/asp/2016/1/section/78/2/e), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/426/article/3))

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. TRA recommendation to the Secretary of State[^key-74cbda8e295f871d1b9722f8c3083c96]
+## 75. TRA recommendation to the Secretary of State[^c-74cbda8e295f871d1b9722f8c3083c96]
 
 *Extent: E+W+S+N.I.*
 
-(1) Following the conclusion of a review, the TRA must make a recommendation to the Secretary of State, where it is satisfied that [^key-851582a224130320624dcde362b441c1]...—
+(1) Following the conclusion of a review, the TRA must make a recommendation to the Secretary of State, where it is satisfied that [^c-851582a224130320624dcde362b441c1]...—
 
 - (a) the application of an anti-dumping amount or a countervailing amount to some or all of the goods subject to review should be varied;
 - (b) the application of an anti-dumping amount or a countervailing amount to some or all of the goods subject to review should be revoked;
@@ -34,7 +34,7 @@ summary: ''
 - (c) where relevant, the recommended period for which the anti-dumping amount or countervailing amount should be applicable, which must begin on the day after the date of publication of the public notice under section 13 of the Act giving effect to the recommendation, unless the TRA makes a recommendation in accordance with paragraph (3); and
 - (d) the reasons for its recommendation.
 
-(2A)[^key-c5bc3565494aa8118ca66707f3de0add] Where, in relation to an early review, an interim review or an expiry review, the TRA considers that there are two or more options which it could recommend under paragraph (1), it may give the Secretary of State each of those options as part of its recommendation.
+(2A)[^c-c5bc3565494aa8118ca66707f3de0add] Where, in relation to an early review, an interim review or an expiry review, the TRA considers that there are two or more options which it could recommend under paragraph (1), it may give the Secretary of State each of those options as part of its recommendation.
 
 (2B) The TRA must consider whether it could give the Secretary of State two or more options as part of its recommendation under paragraph (1)—
 
@@ -62,8 +62,8 @@ summary: ''
 
 ## Annotations
 
-[^key-74cbda8e295f871d1b9722f8c3083c96]: Commencement: Reg. 75 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-74cbda8e295f871d1b9722f8c3083c96]: Commencement: Reg. 75 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
 
-[^key-851582a224130320624dcde362b441c1]: Textual amendment: Words in [reg. 75(1)](https://www.legislation.gov.uk/uksi/2019/450/regulation/75/1) omitted (23.5.2024) by virtue of [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [17(a)](https://www.legislation.gov.uk/uksi/2024/545/regulation/17/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-851582a224130320624dcde362b441c1]: Textual amendment: Words in [reg. 75(1)](https://www.legislation.gov.uk/uksi/2019/450/regulation/75/1) omitted (23.5.2024) by virtue of [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [17(a)](https://www.legislation.gov.uk/uksi/2024/545/regulation/17/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
 
-[^key-c5bc3565494aa8118ca66707f3de0add]: Textual amendment: [Reg. 75(2A)-(2E)](https://www.legislation.gov.uk/uksi/2019/450/regulation/75/2A) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [17(b)](https://www.legislation.gov.uk/uksi/2024/545/regulation/17/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-c5bc3565494aa8118ca66707f3de0add]: Textual amendment: [Reg. 75(2A)-(2E)](https://www.legislation.gov.uk/uksi/2019/450/regulation/75/2A) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [17(b)](https://www.legislation.gov.uk/uksi/2024/545/regulation/17/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 395A. Community and suspended sentence orders qualifying for special procedures[^key-cb8bdf67d7487287db5f74eded06bd88]
+## 395A. Community and suspended sentence orders qualifying for special procedures[^c-cb8bdf67d7487287db5f74eded06bd88]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb8bdf67d7487287db5f74eded06bd88]: Textual amendment: [S. 395A](https://www.legislation.gov.uk/ukpga/2020/17/section/395A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r), [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/2)
+[^c-cb8bdf67d7487287db5f74eded06bd88]: Textual amendment: [S. 395A](https://www.legislation.gov.uk/ukpga/2020/17/section/395A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r), [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/2)

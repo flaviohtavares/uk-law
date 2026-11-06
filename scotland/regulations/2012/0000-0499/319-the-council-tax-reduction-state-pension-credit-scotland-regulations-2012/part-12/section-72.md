@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Transitional provision[^key-2c6d27f237e057d0952d777c5dc9703f]
+## 72. Transitional provision[^c-2c6d27f237e057d0952d777c5dc9703f]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ that application is to be determined as though the change of circumstances has n
 
 ## Annotations
 
-[^key-2c6d27f237e057d0952d777c5dc9703f]: Textual amendment: [Pt. 12](https://www.legislation.gov.uk/ssi/2012/319/part/12) inserted (18.3.2013) by [The Council Tax Reduction (State Pension Credit) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/49)](https://www.legislation.gov.uk/ssi/2013/49), [regs. 1](https://www.legislation.gov.uk/ssi/2013/49/regulation/1), [8](https://www.legislation.gov.uk/ssi/2013/49/regulation/8)
+[^c-2c6d27f237e057d0952d777c5dc9703f]: Textual amendment: [Pt. 12](https://www.legislation.gov.uk/ssi/2012/319/part/12) inserted (18.3.2013) by [The Council Tax Reduction (State Pension Credit) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/49)](https://www.legislation.gov.uk/ssi/2013/49), [regs. 1](https://www.legislation.gov.uk/ssi/2013/49/regulation/1), [8](https://www.legislation.gov.uk/ssi/2013/49/regulation/8)

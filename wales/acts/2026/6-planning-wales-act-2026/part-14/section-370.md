@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 370. Access to evidence at inquiry[^key-492b2bde12aedb17c1e33f8ba4f014de]
+## 370. Access to evidence at inquiry[^c-492b2bde12aedb17c1e33f8ba4f014de]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-492b2bde12aedb17c1e33f8ba4f014de]: Commencement: S. 370 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-492b2bde12aedb17c1e33f8ba4f014de]: Commencement: S. 370 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

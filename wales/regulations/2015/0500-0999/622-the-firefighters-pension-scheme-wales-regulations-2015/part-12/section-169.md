@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 169. Reconsideration by the board[^key-4fbb96f76ffe5c5696e93af33c57d0e8]
+## 169. Reconsideration by the board[^c-4fbb96f76ffe5c5696e93af33c57d0e8]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ the scheme manager must within 28 days of receipt of the report, supply the Wels
 
 ## Annotations
 
-[^key-4fbb96f76ffe5c5696e93af33c57d0e8]: Commencement: Reg. 169 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-4fbb96f76ffe5c5696e93af33c57d0e8]: Commencement: Reg. 169 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Meaning of “relevant publisher”[^key-8f54f60d96c2a8c2cd929e2d44c4986a]
+## 41. Meaning of “relevant publisher”[^c-8f54f60d96c2a8c2cd929e2d44c4986a]
 
 *Extent: E+W*
 
-(1) In sections 34 to 39[^key-43d932715ce046638cbab306467433e7], “**relevant publisher**” means a person who, in the course of a business (whether or not carried on with a view to profit), publishes news-related material—
+(1) In sections 34 to 39[^c-43d932715ce046638cbab306467433e7], “**relevant publisher**” means a person who, in the course of a business (whether or not carried on with a view to profit), publishes news-related material—
 
 - (a) which is written by different authors, and
 - (b) which is to any extent subject to editorial control.
@@ -45,6 +45,6 @@ This is subject to subsections (5) and (6).
 
 ## Annotations
 
-[^key-8f54f60d96c2a8c2cd929e2d44c4986a]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2013/22/section/41) in force at 3.11.2015 for specified purposes by [S.I. 2015/1837](https://www.legislation.gov.uk/uksi/2015/1837), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/1837/article/2/a)
+[^c-8f54f60d96c2a8c2cd929e2d44c4986a]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2013/22/section/41) in force at 3.11.2015 for specified purposes by [S.I. 2015/1837](https://www.legislation.gov.uk/uksi/2015/1837), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/1837/article/2/a)
 
-[^key-43d932715ce046638cbab306467433e7]: Textual amendment: Word in [s. 41(1)](https://www.legislation.gov.uk/ukpga/2013/22/section/41/1) substituted (24.7.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 50(3)](https://www.legislation.gov.uk/ukpga/2024/15/section/50/3), [55(2)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/2)
+[^c-43d932715ce046638cbab306467433e7]: Textual amendment: Word in [s. 41(1)](https://www.legislation.gov.uk/ukpga/2013/22/section/41/1) substituted (24.7.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 50(3)](https://www.legislation.gov.uk/ukpga/2024/15/section/50/3), [55(2)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/2)

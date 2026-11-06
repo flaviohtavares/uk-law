@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation, commencement, application and extent[^key-5f808f944debbfd409d3e64f111a1cff]
+## 1. Citation, commencement, application and extent[^c-5f808f944debbfd409d3e64f111a1cff]
 
 *Extent: E+W+S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5f808f944debbfd409d3e64f111a1cff]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2024/1155/rule/1) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-5f808f944debbfd409d3e64f111a1cff]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2024/1155/rule/1) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
 [^f00008]: Footnote: [S.I. 2024/1156](https://www.legislation.gov.uk/uksi/2024/1156).

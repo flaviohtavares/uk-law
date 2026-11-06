@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Review of possible job-sharing of offices relating to the Senedd[^key-494b644a189c1750c1f8df9ea8786cc0]
+## 7. Review of possible job-sharing of offices relating to the Senedd[^c-494b644a189c1750c1f8df9ea8786cc0]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-494b644a189c1750c1f8df9ea8786cc0]: Commencement: [S. 7](https://www.legislation.gov.uk/asc/2024/4/section/7) in force at 24.8.2024, see [s. 25(2)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/a)
+[^c-494b644a189c1750c1f8df9ea8786cc0]: Commencement: [S. 7](https://www.legislation.gov.uk/asc/2024/4/section/7) in force at 24.8.2024, see [s. 25(2)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/a)

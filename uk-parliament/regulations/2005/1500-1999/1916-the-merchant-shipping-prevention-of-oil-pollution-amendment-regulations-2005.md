@@ -32,7 +32,7 @@ summary: ''
 
 MERCHANT SHIPPING
 
-The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2005 (revoked)[^key-1fce3d069298bf3af2c8a2fe326c71d2]
+The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2005 (revoked)[^c-1fce3d069298bf3af2c8a2fe326c71d2]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 4th August 2005
 
-[^key-1fce3d069298bf3af2c8a2fe326c71d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1fce3d069298bf3af2c8a2fe326c71d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-1fce3d069298bf3af2c8a2fe326c71d2]
+## 1. Citation, commencement and interpretation[^c-1fce3d069298bf3af2c8a2fe326c71d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of principal Regulations: regulation 1[^key-1fce3d069298bf3af2c8a2fe326c71d2]
+## 2. Amendment of principal Regulations: regulation 1[^c-1fce3d069298bf3af2c8a2fe326c71d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of principal Regulations: regulation 31[^key-1fce3d069298bf3af2c8a2fe326c71d2]
+## 3. Amendment of principal Regulations: regulation 31[^c-1fce3d069298bf3af2c8a2fe326c71d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of principal Regulations: regulation 35[^key-1fce3d069298bf3af2c8a2fe326c71d2]
+## 4. Amendment of principal Regulations: regulation 35[^c-1fce3d069298bf3af2c8a2fe326c71d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1fce3d069298bf3af2c8a2fe326c71d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1fce3d069298bf3af2c8a2fe326c71d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1fce3d069298bf3af2c8a2fe326c71d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1fce3d069298bf3af2c8a2fe326c71d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1fce3d069298bf3af2c8a2fe326c71d2]: Textual amendment: Regulations revoked (1.3.2019) by [The Merchant Shipping (Prevention of Oil Pollution) Regulations 2019 (S.I. 2019/42)](https://www.legislation.gov.uk/uksi/2019/42), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2019/42/schedule/part/2) (with [regs. 2](https://www.legislation.gov.uk/uksi/2019/42/regulation/2), [5](https://www.legislation.gov.uk/uksi/2019/42/regulation/5))
+[^c-1fce3d069298bf3af2c8a2fe326c71d2]: Textual amendment: Regulations revoked (1.3.2019) by [The Merchant Shipping (Prevention of Oil Pollution) Regulations 2019 (S.I. 2019/42)](https://www.legislation.gov.uk/uksi/2019/42), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2019/42/schedule/part/2) (with [regs. 2](https://www.legislation.gov.uk/uksi/2019/42/regulation/2), [5](https://www.legislation.gov.uk/uksi/2019/42/regulation/5))

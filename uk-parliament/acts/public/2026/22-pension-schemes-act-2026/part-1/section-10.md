@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Restrictions on exercise of power to pay surplus[^key-e4fd44d1befbb6d5c690622be6ab6f9d]
+## 10. Restrictions on exercise of power to pay surplus[^c-e4fd44d1befbb6d5c690622be6ab6f9d]
 
 *Extent: E+W+S*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4fd44d1befbb6d5c690622be6ab6f9d]: Commencement: S. 10 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-e4fd44d1befbb6d5c690622be6ab6f9d]: Commencement: S. 10 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

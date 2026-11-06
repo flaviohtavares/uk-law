@@ -45,7 +45,7 @@ shall be known as the supervisor of the voluntary arrangement.
 - (a) it is expedient to appoint a person to carry out the functions of the supervisor, and
 - (b) it is inexpedient, difficult or impracticable for an appointment to be made without the assistance of the Court,
 
-make an order appointing a person who is qualified to act as an insolvency practitioner [^key-969487bf582a7bcdf5ec1131f9478768]... in relation to the voluntary arrangement, either in substitution for the existing supervisor or to fill a vacancy.
+make an order appointing a person who is qualified to act as an insolvency practitioner [^c-969487bf582a7bcdf5ec1131f9478768]... in relation to the voluntary arrangement, either in substitution for the existing supervisor or to fill a vacancy.
 
 (6) The power conferred by paragraph (5) is exercisable so as to increase the number of persons exercising the functions of supervisor or, where there is more than one person exercising those functions, so as to replace one or more of those persons.
 
@@ -55,4 +55,4 @@ make an order appointing a person who is qualified to act as an insolvency pract
 
 [^c17597121]: Textual amendment: mod. by SR 2004/307
 
-[^key-969487bf582a7bcdf5ec1131f9478768]: Textual amendment: Words in [art. 20(5)](https://www.legislation.gov.uk/nisi/1989/2405/article/20/5) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 3 para. 7](https://www.legislation.gov.uk/nia/2016/2/schedule/3/paragraph/7), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-969487bf582a7bcdf5ec1131f9478768]: Textual amendment: Words in [art. 20(5)](https://www.legislation.gov.uk/nisi/1989/2405/article/20/5) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 3 para. 7](https://www.legislation.gov.uk/nia/2016/2/schedule/3/paragraph/7), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)

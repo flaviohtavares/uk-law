@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Financing of federations[^key-a21f989cc20a0274093b1133daee76e2]
+## 28. Financing of federations[^c-a21f989cc20a0274093b1133daee76e2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Except as provided by regulation 29, Chapter 4 of Part 2 of SSFA 1998 (Financing
 
 ## Annotations
 
-[^key-a21f989cc20a0274093b1133daee76e2]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2012/1035/regulation/28) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
+[^c-a21f989cc20a0274093b1133daee76e2]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2012/1035/regulation/28) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)

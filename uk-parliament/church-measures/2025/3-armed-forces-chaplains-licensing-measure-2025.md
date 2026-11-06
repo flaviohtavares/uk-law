@@ -33,7 +33,7 @@ A Measure of the General Synod of the Church of England to make provision for li
 
 \[18th December 2025\]
 
-## 1. Ministry by Armed Forces chaplains[^key-edf8b8bec608c358d43a997365a835ad]
+## 1. Ministry by Armed Forces chaplains[^c-edf8b8bec608c358d43a997365a835ad]
 
 (1) After [section 2A](https://www.legislation.gov.uk/ukcm/1967/2/section/2A) of the [Extra-Parochial Ministry Measure 1967](https://www.legislation.gov.uk/ukcm/1967/2/contents) insert—
 
@@ -55,7 +55,7 @@ A Measure of the General Synod of the Church of England to make provision for li
 
 (2) The amendment made by subsection (1) is to be treated as having always had effect.
 
-## 2. Short title, commencement and extent[^key-522273fa1c5d880ce5b5f7f86cdea37d]
+## 2. Short title, commencement and extent[^c-522273fa1c5d880ce5b5f7f86cdea37d]
 
 (1) This Measure may be cited as the Armed Forces Chaplains (Licensing) Measure 2025.
 
@@ -70,6 +70,6 @@ A Measure of the General Synod of the Church of England to make provision for li
 
 ## Annotations
 
-[^key-edf8b8bec608c358d43a997365a835ad]: Commencement: S. 1 in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukcm/2025/3/section/2/2)
+[^c-edf8b8bec608c358d43a997365a835ad]: Commencement: S. 1 in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukcm/2025/3/section/2/2)
 
-[^key-522273fa1c5d880ce5b5f7f86cdea37d]: Commencement: S. 2 in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukcm/2025/3/section/2/2)
+[^c-522273fa1c5d880ce5b5f7f86cdea37d]: Commencement: S. 2 in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukcm/2025/3/section/2/2)

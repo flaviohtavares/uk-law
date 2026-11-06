@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Maximum sentences for insider dealing and financial services offences[^key-d9429ca1f55c930224feef154e7cccac]
+## 31. Maximum sentences for insider dealing and financial services offences[^c-d9429ca1f55c930224feef154e7cccac]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9429ca1f55c930224feef154e7cccac]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2021/22/section/31) in force at 1.11.2021 by [S.I. 2021/1173](https://www.legislation.gov.uk/uksi/2021/1173), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1173/regulation/2)
+[^c-d9429ca1f55c930224feef154e7cccac]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2021/22/section/31) in force at 1.11.2021 by [S.I. 2021/1173](https://www.legislation.gov.uk/uksi/2021/1173), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1173/regulation/2)

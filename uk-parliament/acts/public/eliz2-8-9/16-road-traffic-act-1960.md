@@ -97,7 +97,7 @@ An Act to consolidate, with corrections and improvements made under the Consolid
   and
 - (b) any other person shall if required as aforesaid give any information which it is in his power to give and may lead to the identification of the driver.
 
-[^key-275bf49f53035368bce80ca9bce392bf]...
+[^c-275bf49f53035368bce80ca9bce392bf]...
 
 (3)[^c6241601] A person who fails to comply with the requirement of paragraph (a) of the last foregoing subsection shall be guilty of an offence unless he shows to the satisfaction of the court that he did not know and could not with reasonable diligence have ascertained who the driver of the vehicle . . . [^c6241611], was, and a person who fails to comply with the requirement of paragraph (b) of that subsection shall be guilty of an offence; and a person guilty of an offence under this subsection shall be liable on summary conviction to a fine not exceeding[^c6241621] level 3 on the standard scale[^c6241631].
 
@@ -142,7 +142,7 @@ shall be admissible as evidence for the purpose of determining by whom the vehic
 
 Where on the summary trial in England or Wales of an information for an offence to which section two hundred and thirty-two of this Act applies—
 
-- (a) it is proved to the satisfaction of the court, on oath or in manner prescribed by Criminal Procedure Rules[^key-0cbbf43e463a45148acb0f1428a83f06], that a requirement under subsection (2) of the said section two hundred and thirty-two to give information as to the identity of the driver of a particular vehicle on the particular occasion to which the information relates has been served on the accused in accordance with Criminal Procedure Rules[^key-7e216817c0686e358134075d21c7fa5a]; and
+- (a) it is proved to the satisfaction of the court, on oath or in manner prescribed by Criminal Procedure Rules[^c-0cbbf43e463a45148acb0f1428a83f06], that a requirement under subsection (2) of the said section two hundred and thirty-two to give information as to the identity of the driver of a particular vehicle on the particular occasion to which the information relates has been served on the accused in accordance with Criminal Procedure Rules[^c-7e216817c0686e358134075d21c7fa5a]; and
 - (b) a statement in writing is produced to the court purporting to be signed by the accused that the accused was the driver of that vehicle on that occasion,
 
 the court may accept that statement as evidence that the accused was the driver of that vehicle on that occasion.
@@ -165,11 +165,11 @@ Summary proceedings for an offence [^c6242121]. . . . . . [^c6242131][^c6242121]
 
 ### Inquiries
 
-#### 248. General power to hold inquiries.[^key-bb993daf5b608f1324d9f5770fc01f7f]
+#### 248. General power to hold inquiries.[^c-bb993daf5b608f1324d9f5770fc01f7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 249. General provisions as to inquiries.[^key-9bfb20507db9e8f29325dcc76e7a2f65]
+#### 249. General provisions as to inquiries.[^c-9bfb20507db9e8f29325dcc76e7a2f65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -257,7 +257,7 @@ For the purposes of this Act . . . [^c6242611], the weight unladen of a vehicle 
 
 #### 265. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c6243041]
 
-#### 266. Repeal of provisions as to use of bridges by locomotives.[^key-e238e0cf0383d2c9732e9b8fc0a99d0f]
+#### 266. Repeal of provisions as to use of bridges by locomotives.[^c-e238e0cf0383d2c9732e9b8fc0a99d0f]
 
 **Not yet in force.**
 
@@ -271,7 +271,7 @@ For the purposes of this Act . . . [^c6242611], the weight unladen of a vehicle 
 
 Nothing in this Act shall authorise a person to use on a road a vehicle so constructed or used as to cause a public or private nuisance, or in Scotland a nuisance, or affect the liability, whether under statute or common law, of the driver or owner so using such a vehicle.
 
-#### 270. Commencement.[^key-3d4d4aeb80e254b59a3325c1d304ab41]
+#### 270. Commencement.[^c-3d4d4aeb80e254b59a3325c1d304ab41]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -489,7 +489,7 @@ Subsection (8) of section forty-six of the [^c6243511]Road Traffic Act 1930, sha
 
 The repeal by this Act of section one hundred and sixteen of, and the Fourth Schedule to, the Road Traffic Act 1930, or of any enactment amending or otherwise relating to those provisions shall not affect any right to such compensation as is mentioned in that section, and the like provisions as to the determination and payment of such compensation (including provisions as to appeals against a refusal of the grant thereof or as to the amount thereof) shall apply as would have applied if this Act had not passed.
 
-## TWENTIETH SCHEDULE — SPECIAL PROVISIONS AS TO COMING INTO OPERATION OF CERTAIN PROVISIONS OF THIS ACT[^key-0887d8a389497808258af91dfe735312]
+## TWENTIETH SCHEDULE — SPECIAL PROVISIONS AS TO COMING INTO OPERATION OF CERTAIN PROVISIONS OF THIS ACT[^c-0887d8a389497808258af91dfe735312]
 
 Section 270.
 
@@ -545,7 +545,7 @@ Section 270.
 
 [^c6241591]: Textual amendment: S. 232(a)(ii) repealed by [Road Traffic Regulation Act 1967 (c. 76)](https://www.legislation.gov.uk/ukpga/1967/76), [s. 110(2)](https://www.legislation.gov.uk/ukpga/1967/76/section/110/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/1967/76/schedule/7)
 
-[^key-275bf49f53035368bce80ca9bce392bf]: Textual amendment: Words in s. 232(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-275bf49f53035368bce80ca9bce392bf]: Textual amendment: Words in s. 232(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c6241601]: Modification: S. 232(3) amended by [Transport Act 1980 (c. 34)](https://www.legislation.gov.uk/ukpga/1980/34). s. 42(1)(2)(b)(iii)
 
@@ -573,9 +573,9 @@ Section 270.
 
 [^c6242051]: Textual amendment: Words substituted by [Road Traffic Act 1962 (c. 59)](https://www.legislation.gov.uk/ukpga/1962/59), [Sch. 4 Pt. I](https://www.legislation.gov.uk/ukpga/1962/59/schedule/4/part/I) and continues to have effect (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/2/paragraph/8)
 
-[^key-0cbbf43e463a45148acb0f1428a83f06]: Textual amendment: Words in s. 243(a) substituted (1.9.2004) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 107](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/107); [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2004/2066/article/2/c/iv) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2066/article/3))
+[^c-0cbbf43e463a45148acb0f1428a83f06]: Textual amendment: Words in s. 243(a) substituted (1.9.2004) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 107](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/107); [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2004/2066/article/2/c/iv) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2066/article/3))
 
-[^key-7e216817c0686e358134075d21c7fa5a]: Textual amendment: Words in [s. 243(a)](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/16/section/243/a) substituted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2022/35/schedule/1/paragraph/1)
+[^c-7e216817c0686e358134075d21c7fa5a]: Textual amendment: Words in [s. 243(a)](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/16/section/243/a) substituted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2022/35/schedule/1/paragraph/1)
 
 [^c6242121]: Textual amendment: Words in [s. 244](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/16/section/244) repealed (1.1.1996) by [1995 c. 23](https://www.legislation.gov.uk/ukpga/1995/23), [ss. 60(1)(2)](https://www.legislation.gov.uk/ukpga/1995/23/section/60/1/2), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/1995/23/schedule/7/paragraph/2), [Sch. 8 Pt. I](https://www.legislation.gov.uk/ukpga/1995/23/schedule/8/part/I) (with [ss. 54](https://www.legislation.gov.uk/ukpga/1995/23/section/54), [55](https://www.legislation.gov.uk/ukpga/1995/23/section/55)); [S.I. 1995/2181](https://www.legislation.gov.uk/uksi/1995/2181), [art. 2](https://www.legislation.gov.uk/uksi/1995/2181/article/2)
 
@@ -593,9 +593,9 @@ Section 270.
 
 [^c6242201]: Textual amendment: [S. 247(2)](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/16/section/247/2) substituted by virtue of [Road Traffic (Consequential Provisions) Act 1988 (c. 54, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1988/54), [s. 4](https://www.legislation.gov.uk/ukpga/1988/54/section/4), [Sch. 3 para. 2(3)](https://www.legislation.gov.uk/ukpga/1988/54/schedule/3/paragraph/2/3)
 
-[^key-bb993daf5b608f1324d9f5770fc01f7f]: Textual amendment: S. 248 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-bb993daf5b608f1324d9f5770fc01f7f]: Textual amendment: S. 248 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
-[^key-9bfb20507db9e8f29325dcc76e7a2f65]: Textual amendment: S. 249 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-9bfb20507db9e8f29325dcc76e7a2f65]: Textual amendment: S. 249 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c6242421]: Textual amendment: [S. 250](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/16/section/250) repealed by [Road Traffic Act 1972 (c. 20)](https://www.legislation.gov.uk/ukpga/1972/20), [Sch. 9 Pt. I](https://www.legislation.gov.uk/ukpga/1972/20/schedule/9/part/I)
 
@@ -647,7 +647,7 @@ Section 270.
 
 [^c6243041]: Textual amendment: [S. 265](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/16/section/265) repealed (1.1.1996) by [1995 c. 23](https://www.legislation.gov.uk/ukpga/1995/23), [s. 60(2)](https://www.legislation.gov.uk/ukpga/1995/23/section/60/2), [Sch. 8 Pt. I](https://www.legislation.gov.uk/ukpga/1995/23/schedule/8/part/I) (with [ss. 54](https://www.legislation.gov.uk/ukpga/1995/23/section/54), [55](https://www.legislation.gov.uk/ukpga/1995/23/section/55)); [S.I. 1995/2181](https://www.legislation.gov.uk/uksi/1995/2181), [art. 2](https://www.legislation.gov.uk/uksi/1995/2181/article/2)
 
-[^key-e238e0cf0383d2c9732e9b8fc0a99d0f]: Textual amendment: S. 266 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-e238e0cf0383d2c9732e9b8fc0a99d0f]: Textual amendment: S. 266 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c6243101]: Textual amendment: [S. 267](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/16/section/267) repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt.XV](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/XV).
 
@@ -655,7 +655,7 @@ Section 270.
 
 [^c6243151]: Modification: [S. 269](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/16/section/269) amended by [Transport Act 1968 (c. 73)](https://www.legislation.gov.uk/ukpga/1968/73), [Sch. 10 Pt. I](https://www.legislation.gov.uk/ukpga/1968/73/schedule/10/part/I)
 
-[^key-3d4d4aeb80e254b59a3325c1d304ab41]: Textual amendment: [S. 270](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/16/section/270) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-3d4d4aeb80e254b59a3325c1d304ab41]: Textual amendment: [S. 270](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/16/section/270) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c6243171]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/16/schedule/1) repealed by [Road Traffic Regulation Act 1967 (c. 76)](https://www.legislation.gov.uk/ukpga/1967/76), [Schs. 7](https://www.legislation.gov.uk/ukpga/1967/76/schedule/7), [8](https://www.legislation.gov.uk/ukpga/1967/76/schedule/8)
 
@@ -723,4 +723,4 @@ Section 270.
 
 [^c6243511]: Marginal citation: [1930 c. 43](https://www.legislation.gov.uk/ukpga/1930/43).
 
-[^key-0887d8a389497808258af91dfe735312]: Textual amendment: Sch. 20 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-0887d8a389497808258af91dfe735312]: Textual amendment: Sch. 20 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)

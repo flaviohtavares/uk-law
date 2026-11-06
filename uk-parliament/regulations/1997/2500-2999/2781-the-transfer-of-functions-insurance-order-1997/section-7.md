@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Supplementary[^key-32c3d9a31e4bfca680ef2921049c6dbc]
+## 7. Supplementary[^c-32c3d9a31e4bfca680ef2921049c6dbc]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ shall, so far as necessary for continuing its effect after the coming into force
 
 ## Annotations
 
-[^key-32c3d9a31e4bfca680ef2921049c6dbc]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/1997/2781/article/7) in force at 5.1.1998, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1997/2781/article/1/2)
+[^c-32c3d9a31e4bfca680ef2921049c6dbc]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/1997/2781/article/7) in force at 5.1.1998, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1997/2781/article/1/2)

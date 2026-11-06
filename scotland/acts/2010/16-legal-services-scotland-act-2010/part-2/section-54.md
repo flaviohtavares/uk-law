@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Notice of appointment[^key-352474c24a39669a1e4580d57f59cb21]
+## 54. Notice of appointment[^c-352474c24a39669a1e4580d57f59cb21]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-352474c24a39669a1e4580d57f59cb21]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2010/16/section/54) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-352474c24a39669a1e4580d57f59cb21]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2010/16/section/54) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

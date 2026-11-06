@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Amendment to regulation 251[^key-6d1f01a18313c385f71d1e7316f0d174]
+## 108. Amendment to regulation 251[^c-6d1f01a18313c385f71d1e7316f0d174]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In regulation 251(7) (compliance with standards specified in certain publication
 
 ## Annotations
 
-[^key-6d1f01a18313c385f71d1e7316f0d174]: Commencement: [Reg. 108](https://www.legislation.gov.uk/uksi/2024/832/regulation/108) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-6d1f01a18313c385f71d1e7316f0d174]: Commencement: [Reg. 108](https://www.legislation.gov.uk/uksi/2024/832/regulation/108) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00116]: Footnote: Paragraph (7) was inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

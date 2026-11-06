@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Entitlement to surviving adult’s pension[^key-453bb5e33bd111c89b4b94d5bbc96360]
+## 107. Entitlement to surviving adult’s pension[^c-453bb5e33bd111c89b4b94d5bbc96360]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) a deferred member of this scheme; or
 - (c) a pensioner member of this scheme.
 
-(2) If the member was a transition member with continuity of service, the continuous period of pensionable service mentioned in paragraph (a) includes the member’s period of pensionable service under the PCSPS before the transition date for that member[^key-725201fc3a25bff8f49c2de9ede53fba] (but not service that has been transferred into the PCSPS)[^key-b7767ea89a60027347405ab0b3548518].
+(2) If the member was a transition member with continuity of service, the continuous period of pensionable service mentioned in paragraph (a) includes the member’s period of pensionable service under the PCSPS before the transition date for that member[^c-725201fc3a25bff8f49c2de9ede53fba] (but not service that has been transferred into the PCSPS)[^c-b7767ea89a60027347405ab0b3548518].
 
 (3) The surviving adult of the member is entitled to payment for life of a surviving adult’s pension as follows—
 
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-453bb5e33bd111c89b4b94d5bbc96360]: Commencement: [Reg. 107](https://www.legislation.gov.uk/uksi/2014/1964/regulation/107) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-453bb5e33bd111c89b4b94d5bbc96360]: Commencement: [Reg. 107](https://www.legislation.gov.uk/uksi/2014/1964/regulation/107) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
-[^key-725201fc3a25bff8f49c2de9ede53fba]: Textual amendment: Words in [reg. 107(2)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/107/2) substituted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Consequential and Amendment) Regulations 2015 (S.I. 2015/372)](https://www.legislation.gov.uk/uksi/2015/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/372/regulation/1/2), [16(10)](https://www.legislation.gov.uk/uksi/2015/372/regulation/16/10)
+[^c-725201fc3a25bff8f49c2de9ede53fba]: Textual amendment: Words in [reg. 107(2)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/107/2) substituted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Consequential and Amendment) Regulations 2015 (S.I. 2015/372)](https://www.legislation.gov.uk/uksi/2015/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/372/regulation/1/2), [16(10)](https://www.legislation.gov.uk/uksi/2015/372/regulation/16/10)
 
-[^key-b7767ea89a60027347405ab0b3548518]: Textual amendment: Words in [reg. 107(2)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/107/2) inserted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Consequential and Amendment) Regulations 2015 (S.I. 2015/372)](https://www.legislation.gov.uk/uksi/2015/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/372/regulation/1/2), [16(9)](https://www.legislation.gov.uk/uksi/2015/372/regulation/16/9)
+[^c-b7767ea89a60027347405ab0b3548518]: Textual amendment: Words in [reg. 107(2)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/107/2) inserted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Consequential and Amendment) Regulations 2015 (S.I. 2015/372)](https://www.legislation.gov.uk/uksi/2015/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/372/regulation/1/2), [16(9)](https://www.legislation.gov.uk/uksi/2015/372/regulation/16/9)

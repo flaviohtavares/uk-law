@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Temporary use of land by UK Power Networks[^key-9892975cb95215a728789c03ef64294f]
+## 29. Temporary use of land by UK Power Networks[^c-9892975cb95215a728789c03ef64294f]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9892975cb95215a728789c03ef64294f]: Commencement: Art. 29 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-9892975cb95215a728789c03ef64294f]: Commencement: Art. 29 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)

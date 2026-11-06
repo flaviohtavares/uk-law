@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 4(2)
 
-### 1. Modification to regulation 2 (interpretation and delegation)[^key-a93f475dbd129c03b5f25395d5793c60]
+### 1. Modification to regulation 2 (interpretation and delegation)[^c-a93f475dbd129c03b5f25395d5793c60]
 
 Regulation 2 is to be read as if—
 
@@ -44,8 +44,8 @@ Regulation 2 is to be read as if—
     > “**relevant time**” means the time immediately before the officer concerned ceased to be a member of a police force or a special constable;
 
     ;
-  - (ii) the definitions of “the Performance Regulations”, “appeal meeting”, “disciplinary action”, "domestic abuse assessment",[^key-5d052febb68815d9e5c914fc7a6b2056] “human resources professional”, “line manager”, “misconduct meeting”, “practice requiring improvement” , “reflective practice review process”, “relevant offence, “suspend” and “suspension condition”[^key-9a30a12bb6c4a9b9feaf12e87bc7e8bc] were omitted;
-  - (iia)[^key-a5e24ff8ff6ef9c1462a2917657a7146] for the definition of “accelerated misconduct hearing”, there were substituted—
+  - (ii) the definitions of “the Performance Regulations”, “appeal meeting”, “disciplinary action”, "domestic abuse assessment",[^c-5d052febb68815d9e5c914fc7a6b2056] “human resources professional”, “line manager”, “misconduct meeting”, “practice requiring improvement” , “reflective practice review process”, “relevant offence, “suspend” and “suspension condition”[^c-9a30a12bb6c4a9b9feaf12e87bc7e8bc] were omitted;
+  - (iia)[^c-a5e24ff8ff6ef9c1462a2917657a7146] for the definition of “accelerated misconduct hearing”, there were substituted—
 
     > - “**accelerated misconduct hearing**” means a hearing to which an officer may be referred under regulation 21D(7) or 49(4) to determine whether the conduct of the officer amounts to gross misconduct and, if so, what disciplinary action should be imposed;
 
@@ -64,7 +64,7 @@ Regulation 2 is to be read as if—
   - (vii) in the definition of “misconduct”—
     - (aa) “, other than in regulation 23(2)(a) and the first reference to “misconduct” in regulation 23(2)(b),” were omitted;
     - (bb) for “so serious as to justify disciplinary action” there were substituted “ not so serious that the officer concerned would have been dismissed if the officer had not ceased to be a member of a police force or a special constable ”;
-  - (viii)[^key-ff661245fce6fe8ffebac4dbc99e1a07] for the definition of “misconduct hearing”, except in its application to regulation 21A(1)(d), there were substituted—
+  - (viii)[^c-ff661245fce6fe8ffebac4dbc99e1a07] for the definition of “misconduct hearing”, except in its application to regulation 21A(1)(d), there were substituted—
 
     > - “**misconduct hearing**” means a hearing to which an officer may be referred under regulation 21D(3) or (6), 21E(5)(a) or 23(9)(a) to determine whether the conduct of the officer amounts to gross misconduct and, if so, what disciplinary action should be imposed;
 
@@ -102,9 +102,9 @@ Regulation 2 is to be read as if—
   > (4) Where the appropriate authority delegates its functions under regulation 49, a decision under that regulation as to whether to certify a case as one where the special conditions are satisfied must be authorised by a senior officer;
 
   .
-- (c)[^key-6afd181b51b6e94a58f94811e51f0a89] paragraphs (4ZA),[^key-af6edcee2c6be9b3ed29c13aa7a38fa4] (7) and (8) were omitted.
+- (c)[^c-6afd181b51b6e94a58f94811e51f0a89] paragraphs (4ZA),[^c-af6edcee2c6be9b3ed29c13aa7a38fa4] (7) and (8) were omitted.
 
-### 2. Modification: insertion of Part 1A[^key-3c3083def993f322c9d04c27c2127eab]
+### 2. Modification: insertion of Part 1A[^c-3c3083def993f322c9d04c27c2127eab]
 
 These Regulations apply as if after regulation 4, there were inserted—
 
@@ -191,7 +191,7 @@ These Regulations apply as if after regulation 4, there were inserted—
 
 .
 
-### 3. Modification to regulation 7 (police friend)[^key-58bcaa929dca1626dfe83e0bf0a99baa]
+### 3. Modification to regulation 7 (police friend)[^c-58bcaa929dca1626dfe83e0bf0a99baa]
 
 Regulation 7 is to be read as if—
 
@@ -205,7 +205,7 @@ Regulation 7 is to be read as if—
   - (ii) in sub-paragraph (b), “or appeal meeting” were omitted;
   - (iii) in sub-paragraph (d), “, meeting” were omitted.
 
-### 4. Modification to regulation 8 (legal and other representation)[^key-0e1b86b5d11b78afeb053f89b9ed44d1]
+### 4. Modification to regulation 8 (legal and other representation)[^c-0e1b86b5d11b78afeb053f89b9ed44d1]
 
 Regulation 8 is to be read as if—
 
@@ -217,7 +217,7 @@ Regulation 8 is to be read as if—
 - (d) in paragraph (6), “Subject to paragraph (7)”, “conducting or” and “or appeal meeting” were omitted;
 - (e) paragraph (7) were omitted.
 
-### 5. Modification to regulation 9 (provision of notices or documents)[^key-af25033c7382c8b3802a6f64a9034f69]
+### 5. Modification to regulation 9 (provision of notices or documents)[^c-af25033c7382c8b3802a6f64a9034f69]
 
 Regulation 9 is to be read as if—
 
@@ -228,15 +228,15 @@ Regulation 9 is to be read as if—
 
   .
 
-### 6. Modification: omission of regulations 11 to 11H (suspension)[^key-43598d87f14de3d3ef8a5718f7e40087]
+### 6. Modification: omission of regulations 11 to 11H (suspension)[^c-43598d87f14de3d3ef8a5718f7e40087]
 
 These Regulations are to be read as if regulations 11 to 11H were omitted.
 
-### 7. Modification to regulation 12 (record of disciplinary proceedings)[^key-b95b1f168979d7789f8d290005a983bd]
+### 7. Modification to regulation 12 (record of disciplinary proceedings)[^c-b95b1f168979d7789f8d290005a983bd]
 
 Regulation 12 is to be read as if for “and decision on disciplinary action”, there were substituted “ , any decision on disciplinary action for gross misconduct ”.
 
-### 8. Modification to regulation 14 (severity assessment)[^key-97d1a2db92f55c3ce54ff986a4cbc2ce]
+### 8. Modification to regulation 14 (severity assessment)[^c-97d1a2db92f55c3ce54ff986a4cbc2ce]
 
 Regulation 14 is to be read as if—
 
@@ -259,7 +259,7 @@ Regulation 14 is to be read as if—
   ;
 - (g) in paragraph (7), for the words from “or to refer” to the end, there were substituted “ or is required under paragraph (6A)(a) to take no action or no further action, it must so notify the officer concerned in writing as soon as practicable. ”.
 
-### 9. Modification to regulation 15 (appointment of investigator)[^key-43f004bed1f239cfafefd97552946d12]
+### 9. Modification to regulation 15 (appointment of investigator)[^c-43f004bed1f239cfafefd97552946d12]
 
 Regulation 15 is to be read as if in paragraph (3)—
 
@@ -272,15 +272,15 @@ Regulation 15 is to be read as if in paragraph (3)—
   - (i) for “is a senior officer, if they are”, there were substituted “ was a senior officer at the relevant time, if they were at that time ”;
   - (ii) in paragraph (ii), for “where the officer is a member of the metropolitan police force”, there were substituted “ , where the officer was a member of the metropolitan police force at the relevant time ”.
 
-### 10. Modification to regulation 16 (investigation)[^key-6d5a1577faa3d1caddfca9ee926ba026]
+### 10. Modification to regulation 16 (investigation)[^c-6d5a1577faa3d1caddfca9ee926ba026]
 
 Regulation 16 is to be read as if “misconduct or”, in both places where those words appear, were omitted.
 
-### 11. Modification to regulation 17 (written notices)[^key-6ba8517581fa813031168f42d15ab919]
+### 11. Modification to regulation 17 (written notices)[^c-6ba8517581fa813031168f42d15ab919]
 
 Regulation 17 is to be read as if in paragraph (1)—
 
-- (a) sub-paragraphs (ca) and (d)[^key-b8d6f1b3d21da689a32b3ff8562ef804] were omitted;
+- (a) sub-paragraphs (ca) and (d)[^c-b8d6f1b3d21da689a32b3ff8562ef804] were omitted;
 - (b) for sub-paragraph (e), there were substituted—
 
   > - (e) that if the allegation of gross misconduct is proved, the officer may be subject to a finding that the officer would have been dismissed if the officer had not ceased to be a member of a police force or a special constable;
@@ -294,14 +294,14 @@ Regulation 17 is to be read as if in paragraph (1)—
   ;
 - (d) in sub-paragraph (h), after “18(1)”, there were inserted “ , 20A(2) ”.
 
-### 12. Modification to regulation 20 (interviews during investigation)[^key-db301dff92c8f435e235fef1d5a9f517]
+### 12. Modification to regulation 20 (interviews during investigation)[^c-db301dff92c8f435e235fef1d5a9f517]
 
 Regulation 20 is to be read as if—
 
 - (a) in paragraph (1), after “practicable” there were inserted “ and subject to regulation 20A ”;
 - (b) in paragraph (5), for the words from “must” to the end there were substituted “ must be reasonable. ”.
 
-### 13. Modification: insertion of regulation 20A[^key-e124addc94f4279f2133e282475b0bb2]
+### 13. Modification: insertion of regulation 20A[^c-e124addc94f4279f2133e282475b0bb2]
 
 These Regulations are to be read as if after regulation 20 there were inserted—
 
@@ -318,7 +318,7 @@ These Regulations are to be read as if after regulation 20 there were inserted�
 
 .
 
-### 14. Modification to regulation 21 (report of investigation)[^key-05ccd9d3ae68ff6d7341bc30450c6ff6]
+### 14. Modification to regulation 21 (report of investigation)[^c-05ccd9d3ae68ff6d7341bc30450c6ff6]
 
 Regulation 21 is to be read as if—
 
@@ -337,7 +337,7 @@ Regulation 21 is to be read as if—
   - (iii) sub-paragraph (c), and “and” before it were omitted;
 - (c) in paragraphs (6) and (7), “misconduct or” were omitted.
 
-### 14A. Modification: insertion of Part 3A[^key-b9bdfa5c677aef3eebee1a06d95ce892]
+### 14A. Modification: insertion of Part 3A[^c-b9bdfa5c677aef3eebee1a06d95ce892]
 
 These Regulations are to be read as if after regulation 21 there were inserted—
 
@@ -471,18 +471,18 @@ These Regulations are to be read as if before regulation 22 and after the headin
 
 .
 
-### 15. Modification to regulation 22 (general)[^key-5c5c38569e3d1de137ce368c2c9dbea0]
+### 15. Modification to regulation 22 (general)[^c-5c5c38569e3d1de137ce368c2c9dbea0]
 
 Regulation 22 is to be read as if “conducting or” were omitted.
 
-### 16. Modification to regulation 23 (referral of case to misconduct proceedings)[^key-9edc7214c8c7ce60e29523efd436dbf7]
+### 16. Modification to regulation 23 (referral of case to misconduct proceedings)[^c-9edc7214c8c7ce60e29523efd436dbf7]
 
 Regulation 23 is to be read as if—
 
 - (a) paragraphs (1) to (8) were omitted, and
 - (b) paragraphs (10) to (12) were omitted.
 
-### 17. Modification to regulation 25 (joint misconduct proceedings)[^key-c57ef0bd4248bbac71c24c5792ddfdee]
+### 17. Modification to regulation 25 (joint misconduct proceedings)[^c-c57ef0bd4248bbac71c24c5792ddfdee]
 
 Regulation 25 is to be read as if—
 
@@ -490,14 +490,14 @@ Regulation 25 is to be read as if—
 - (b) in paragraph (5), “conducting or” were omitted;
 - (c) in paragraph (6), for “are senior officers” there were substituted “ were senior officers at the relevant time ”.
 
-### 18. Modification to regulation 26 (delegation of functions)[^key-9ff26239303183b846c1c2073565e59f]
+### 18. Modification to regulation 26 (delegation of functions)[^c-9ff26239303183b846c1c2073565e59f]
 
 Regulation 26 is to be read as if—
 
 - (a) in paragraph (1)(a), for “is” there were substituted “ was at the relevant time ”;
 - (b) in paragraph (3)(b), in the definition of “originating authority”, for “is” there were substituted “ was at the relevant time ”.
 
-### 19. Modification to regulation 27 (withdrawal of misconduct proceedings)[^key-be5f1067586fe271158734fc85632282]
+### 19. Modification to regulation 27 (withdrawal of misconduct proceedings)[^c-be5f1067586fe271158734fc85632282]
 
 Regulation 27 is to be read as if—
 
@@ -507,27 +507,27 @@ Regulation 27 is to be read as if—
   - (ii) in sub-paragraph (b)(i), “, indicating whether any action will be taken under paragraph (2)(a)” were omitted;
 - (c) paragraph (3) were omitted.
 
-### 20. Modification to regulation 28 (persons conducting misconduct proceedings)[^key-9e35dd1037ecbb88f2bccd1978cdd2b9]
+### 20. Modification to regulation 28 (persons conducting misconduct proceedings)[^c-9e35dd1037ecbb88f2bccd1978cdd2b9]
 
 Regulation 28 is to be read as if—
 
 - (a) paragraphs (1) to (3) were omitted;
 - (b) in paragraph (4)—
   - (i) for “the panel of persons must comprise” there were substituted “ where the case is referred to a misconduct hearing, that hearing must be conducted by a panel of three persons, comprising ”;
-  - (ii)[^key-0065972a6e8a1f44acd142f65f01b181] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-0065972a6e8a1f44acd142f65f01b181] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in paragraph (5), for “is a senior officer” there were substituted “ was a senior officer at the relevant time ”;
-- (d)[^key-6b7a3f8922eac1c700d15dd6a0f708e4] in paragraph (5), in the substitute sub-paragraph (a), after “officer concerned” there were inserted “was at the relevant time”;
+- (d)[^c-6b7a3f8922eac1c700d15dd6a0f708e4] in paragraph (5), in the substitute sub-paragraph (a), after “officer concerned” there were inserted “was at the relevant time”;
 - (e) in paragraph (5A), for “the officer concerned is”, there were substituted “the officer concerned was at the relevant time”; and
 - (f) in paragraph (5E), for “is not a senior officer”, there were substituted “was not a senior officer at the relevant time”.
 
-### 21. Modification to regulation 30 (notice of referral to misconduct proceedings)[^key-d9906bfc1c1b1d95c6d1bc051529d1d8]
+### 21. Modification to regulation 30 (notice of referral to misconduct proceedings)[^c-d9906bfc1c1b1d95c6d1bc051529d1d8]
 
 Regulation 30 is to be read as if—
 
 - (a) in paragraph (1)—
   - (i) in sub-paragraph (a)—
     - (aa) in paragraph (ii), “misconduct or” and “, as the case may be” were omitted;
-    - (bb)[^key-65a77d5421cca7267540ffa5ba11fa1a] for the words form “conduct” to the end, there were substituted “chair the misconduct proceedings”;
+    - (bb)[^c-65a77d5421cca7267540ffa5ba11fa1a] for the words form “conduct” to the end, there were substituted “chair the misconduct proceedings”;
     - (cc) in paragraph (vi), “in relation to the form of misconduct proceedings to which the case is being referred” were omitted;
     - (dd) after paragraph (vii), “and” were omitted;
     - (ee) after paragraph (viii), there were inserted—
@@ -541,22 +541,22 @@ Regulation 30 is to be read as if—
     > - (ia) in the case of a Condition C person, any written statement or document provided to the Director General under regulation 4B(3) and any response to a consultation carried out under regulation 4B(4), and
 
     ;
-- (b)[^key-4182d1cf75dda517b707710b48c7000a] paragraph (2) were omitted;
+- (b)[^c-4182d1cf75dda517b707710b48c7000a] paragraph (2) were omitted;
 - (c) in paragraph (3)—
   - (i) in sub-paragraph (a), for “conduct or, as the case may be, chair”, there were substituted “ chair ”;
-  - (ia)[^key-92bd10d7700c7109ff8045620eeb71e6] at the end of sub-paragraph (a), there were inserted “; or”;
-  - (ii)[^key-afd970a2420fd4e55fb5256ff9a9f4b9] sub-paragraph (b) were omitted;
-- (d)[^key-92ed2a8a938e7791d18797b2526fbbe9] in paragraph (5)—
+  - (ia)[^c-92bd10d7700c7109ff8045620eeb71e6] at the end of sub-paragraph (a), there were inserted “; or”;
+  - (ii)[^c-afd970a2420fd4e55fb5256ff9a9f4b9] sub-paragraph (b) were omitted;
+- (d)[^c-92ed2a8a938e7791d18797b2526fbbe9] in paragraph (5)—
   - (i) “conducting or, as the case may be” were omitted;
   - (ii) after “misconduct proceedings” there were inserted “or”;
   - (iii) the words from “or to any person” to the end were omitted;
-- (e) in paragraph (6), “8(6) and (7)[^key-8c8e0b584f32483ad8e804388355f48b]” were omitted;
+- (e) in paragraph (6), “8(6) and (7)[^c-8c8e0b584f32483ad8e804388355f48b]” were omitted;
 - (f) in paragraph (7)—
   - (i) “conduct or, as the case may be,” were omitted;
-  - (ia)[^key-9a8897aecca0a3b51636348c40bba77d] after “misconduct proceedings” there were inserted “or”;
-  - (ii)[^key-0e43d0f89e3b82017bdbf327a061bac5] the words from “or of the new adviser” to “misconduct meeting,” were omitted.
+  - (ia)[^c-9a8897aecca0a3b51636348c40bba77d] after “misconduct proceedings” there were inserted “or”;
+  - (ii)[^c-0e43d0f89e3b82017bdbf327a061bac5] the words from “or of the new adviser” to “misconduct meeting,” were omitted.
 
-### 22. Modification to regulation 31 (procedure on receipt of notice)[^key-38d3fe1e79cd9dae51637c5fde65cf94]
+### 22. Modification to regulation 31 (procedure on receipt of notice)[^c-38d3fe1e79cd9dae51637c5fde65cf94]
 
 Regulation 31 is to be read as if—
 
@@ -564,18 +564,18 @@ Regulation 31 is to be read as if—
 - (b) in paragraph (2)(a), (b) and (c), “misconduct or” and “, as the case may be” were omitted;
 - (c) in paragraph (2)(c)(ii), “person or” were omitted.
 
-### 23. Modification to regulation 32 (witnesses and documents to be supplied)[^key-f89813131bb5893dd0aca675b5330201]
+### 23. Modification to regulation 32 (witnesses and documents to be supplied)[^c-f89813131bb5893dd0aca675b5330201]
 
 Regulation 32 is to be read as if—
 
 - (a) in paragraphs (1), (3), (5), in both places where the words appear, (6), (9), (11) and (13)(b), “conducting or” were omitted;
 - (b) in paragraph (6)(c), for “misconduct or gross misconduct, as the case may be” there were substituted “ gross misconduct ”.
 
-### 24. Modification: omission of regulation 34 (timing of misconduct meeting)[^key-ffec3aef7ed0b7d3af4cd498d01cd915]
+### 24. Modification: omission of regulation 34 (timing of misconduct meeting)[^c-ffec3aef7ed0b7d3af4cd498d01cd915]
 
 These Regulations are to be read as if regulation 34 were omitted.
 
-### 25. Modification to regulation 35 (notice of misconduct proceedings and panel)[^key-410ebe31f191150ec16cc413559a6908]
+### 25. Modification to regulation 35 (notice of misconduct proceedings and panel)[^c-410ebe31f191150ec16cc413559a6908]
 
 Regulation 35 is to be read as if—
 
@@ -584,7 +584,7 @@ Regulation 35 is to be read as if—
   - (ii) for “that panel” there were substituted “ the panel ”;
 - (b) in paragraph (10), the words from “or to” to “regulation 40(6),” were omitted.
 
-### 26. Modification to regulation 36 (public notification of misconduct hearings)[^key-c0371ccf02b1984cfe899fc66c94c50b]
+### 26. Modification to regulation 36 (public notification of misconduct hearings)[^c-c0371ccf02b1984cfe899fc66c94c50b]
 
 Regulation 36 is to be read as if—
 
@@ -600,38 +600,38 @@ Regulation 36 is to be read as if—
     ;
 - (b) in paragraph (3)(d)(ii), for “(e)” there were substituted “ (f) ”.
 
-### 27. Modification to regulation 37 (attendance of officer concerned at misconduct proceedings)[^key-dbeb5d5c3d7f85926b866146e9f5a25f]
+### 27. Modification to regulation 37 (attendance of officer concerned at misconduct proceedings)[^c-dbeb5d5c3d7f85926b866146e9f5a25f]
 
 Regulation 37 is to be read as if—
 
 - (a) in paragraph (2), in both places where the words appear, “conducting or” were omitted;
 - (b) in paragraph (3)(a)(ii), “in the case of a misconduct hearing,” were omitted.
 
-### 28. Modification to regulation 38 (participation of the Director General and investigator at misconduct proceedings)[^key-e99c292b0ea365cf66e21f9a91c77310]
+### 28. Modification to regulation 38 (participation of the Director General and investigator at misconduct proceedings)[^c-e99c292b0ea365cf66e21f9a91c77310]
 
 Regulation 38 is to be read as if—
 
 - (a) in paragraph (2)(a), “if it is a misconduct hearing” were omitted;
 - (b) in paragraphs (2)(c), (3) and (4), “conducting or” were omitted.
 
-### 29. Modification to regulation 39 (reporting restrictions, participation and exclusions from proceedings)[^key-f317d955e0e18398dca01d8149ab85a3]
+### 29. Modification to regulation 39 (reporting restrictions, participation and exclusions from proceedings)[^c-f317d955e0e18398dca01d8149ab85a3]
 
 Regulation 39 is to be read as if—
 
 - (a) paragraphs (2) and (5) were omitted;
 - (b) in paragraph (3)—
   - (i) “conducting or” were omitted;
-  - (ii) in sub-paragraph (c), the words from the beginning to “regulation 2(4A)[^key-518f6b9625daa4e61441649c3bb1316c],” were omitted;
+  - (ii) in sub-paragraph (c), the words from the beginning to “regulation 2(4A)[^c-518f6b9625daa4e61441649c3bb1316c],” were omitted;
 - (c) in paragraphs (4) and (7), “conducting or” were omitted.
 
-### 30. Modification to regulation 40 (attendance of complainant, interested persons and others at misconduct proceedings)[^key-e60af1700bea885d27e4a67c8374c35b]
+### 30. Modification to regulation 40 (attendance of complainant, interested persons and others at misconduct proceedings)[^c-e60af1700bea885d27e4a67c8374c35b]
 
 Regulation 40 is to be read as if—
 
 - (a) paragraphs (3), (4) and (6) were omitted;
 - (b) in paragraph (5), “conducting or” were omitted.
 
-### 31. Modification to regulation 41 (procedure at misconduct proceedings)[^key-8049a25048f628987d1f2ad3ab647895]
+### 31. Modification to regulation 41 (procedure at misconduct proceedings)[^c-8049a25048f628987d1f2ad3ab647895]
 
 Regulation 41 is to be read as if—
 
@@ -655,7 +655,7 @@ Regulation 41 is to be read as if—
   ;
 - (i) in paragraph (17), “At misconduct proceedings conducted by a panel,” were omitted.
 
-### 32. Modification to regulation 42 (outcome of misconduct proceedings)[^key-1b208d458deb288a50ca46aa96f994dd]
+### 32. Modification to regulation 42 (outcome of misconduct proceedings)[^c-1b208d458deb288a50ca46aa96f994dd]
 
 These Regulations are to be read as if for regulation 42 there were substituted—
 
@@ -690,7 +690,7 @@ These Regulations are to be read as if for regulation 42 there were substituted�
 
 .
 
-### 33. Modification to regulation 43 (notification of outcome)[^key-b715744d89dca3b48d205c541d7f3122]
+### 33. Modification to regulation 43 (notification of outcome)[^c-b715744d89dca3b48d205c541d7f3122]
 
 Regulation 43 is to be read as if—
 
@@ -702,12 +702,12 @@ Regulation 43 is to be read as if—
     > - (c) whether disciplinary action for gross misconduct was imposed.
 
     ;
-  - (iv)[^key-dd728c477781a9352a1ea6af118d8e04] in sub-paragraph (e), as if for “was not” there were substituted “would not have been” and, after “notice”, there were inserted “if the officer concerned had not ceased to be a member of a police force or a special constable”;
+  - (iv)[^c-dd728c477781a9352a1ea6af118d8e04] in sub-paragraph (e), as if for “was not” there were substituted “would not have been” and, after “notice”, there were inserted “if the officer concerned had not ceased to be a member of a police force or a special constable”;
 - (b) in paragraph (2)(b), “misconduct or” were omitted and for “in accordance with paragraph (3)”, there were substituted “ to a police appeals tribunal (within the meaning of section 85 of the 1996 Act) ”;
 - (c) paragraph (3) were omitted;
 - (d) in paragraph (4), “In all cases referred to in paragraph (3)” were omitted.
 
-### 34. Modification to regulation 44 (record of misconduct proceedings)[^key-a9b8c606a6787d9f0fb895e98ec8002e]
+### 34. Modification to regulation 44 (record of misconduct proceedings)[^c-a9b8c606a6787d9f0fb895e98ec8002e]
 
 Regulation 44 is to be read as if, for paragraph (1), there were substituted—
 
@@ -715,7 +715,7 @@ Regulation 44 is to be read as if, for paragraph (1), there were substituted—
 
 .
 
-### 34A. Modification: insertion of regulation 47A (application of Part 5)[^key-a0a0025bd1fd0d52ecaaabedcc16271b]
+### 34A. Modification: insertion of regulation 47A (application of Part 5)[^c-a0a0025bd1fd0d52ecaaabedcc16271b]
 
 These Regulations are to be read as if before regulation 48 and after the heading to Part 5 there were inserted—
 
@@ -729,11 +729,11 @@ These Regulations are to be read as if before regulation 48 and after the headin
 
 .
 
-### 35. Modification: omission of regulations 45 to 47 (appeals)[^key-b6e754fc197b2fe57bb3eb182da6d8d9]
+### 35. Modification: omission of regulations 45 to 47 (appeals)[^c-b6e754fc197b2fe57bb3eb182da6d8d9]
 
 These Regulations are to be read as if regulations 45 to 47 were omitted.
 
-### 36. Modification to regulation 49 (referral of case to accelerated misconduct hearing)[^key-91e7fc41453a08a34bf4f1621f09f347]
+### 36. Modification to regulation 49 (referral of case to accelerated misconduct hearing)[^c-91e7fc41453a08a34bf4f1621f09f347]
 
 Regulation 49 is to be read as if—
 
@@ -742,7 +742,7 @@ Regulation 49 is to be read as if—
 - (c) in paragraph (5), in the closing words, for “Part 4” there were substituted “Part 3A”;
 - (d) paragraph (6) were omitted.
 
-### 36ZA. Modification to regulation 50 (remission of case)[^key-e15ddb942f9796230c13d6afa6d3a4de]
+### 36ZA. Modification to regulation 50 (remission of case)[^c-e15ddb942f9796230c13d6afa6d3a4de]
 
 Regulation 50 is to be read as if—
 
@@ -752,7 +752,7 @@ Regulation 50 is to be read as if—
 - (b) in paragraph (2), for “Part 4” there were substituted “Part 3A”;
 - (c) paragraph (3) were omitted.
 
-### 36A. Modification to regulation 51 (notice of referral to accelerated misconduct hearing)[^key-08b00550e37d69ac47a7638bbf6c789a]
+### 36A. Modification to regulation 51 (notice of referral to accelerated misconduct hearing)[^c-08b00550e37d69ac47a7638bbf6c789a]
 
 Regulation 51 (notice of referral to an accelerated misconduct hearing) is to be read as if—
 
@@ -763,13 +763,13 @@ Regulation 51 (notice of referral to an accelerated misconduct hearing) is to be
     > - (ia) in the case of a Condition C person, any written statement or document provided to the Director General under regulation 4B(3) and any response to a consultation carried out under regulation 4B(4); and
 
     ;
-- (aa)[^key-09172593bef77c44c08df77a157fb310] after paragraph (1) there were inserted—
+- (aa)[^c-09172593bef77c44c08df77a157fb310] after paragraph (1) there were inserted—
 
   > (1A) Where a case is referred to an accelerated misconduct hearing under regulation 21D(7), the appropriate authority must as soon as practicable give the officer concerned written notice of these matters and supply the officer with a copy of the items referred to in paragraph (1)(b) and (c).
 
   ;
 - (b) in paragraph (2)—
-  - (ai)[^key-1632a89f447a462c7b3e4715f755d450] in the opening words, after “paragraph 1” there were inserted “or (1A)”;
+  - (ai)[^c-1632a89f447a462c7b3e4715f755d450] in the opening words, after “paragraph 1” there were inserted “or (1A)”;
   - (i) the “and” at the end of sub-paragraph (c) were omitted;
   - (ii) after sub-paragraph (d) there were inserted—
 
@@ -778,7 +778,7 @@ Regulation 51 (notice of referral to an accelerated misconduct hearing) is to be
 
     .
 
-### 36B. Modification to regulation 52 (notice of accelerated misconduct hearing)[^key-9f8427ece9f7266edc756c8d91839ba4]
+### 36B. Modification to regulation 52 (notice of accelerated misconduct hearing)[^c-9f8427ece9f7266edc756c8d91839ba4]
 
 Regulation 52 is to be read as if, in paragraph (1), in the opening words, after “regulation 51(1)” there were inserted “or (1A)”.
 
@@ -786,19 +786,19 @@ Regulation 52 is to be read as if, in paragraph (1), in the opening words, after
 
 Regulation 54 is to be read as if, in paragraph (1), in the opening words, after “regulation 51(1)” there were inserted “or (1A)”.
 
-### 37. Modification to regulation 55 (persons conducting accelerated misconduct hearing)[^key-343872109aa9c6328a78a5d293f022f7]
+### 37. Modification to regulation 55 (persons conducting accelerated misconduct hearing)[^c-343872109aa9c6328a78a5d293f022f7]
 
 Regulation 55 is to be read as if—
 
 - (a) in paragraph (1), for “is an officer other than a senior officer” there were substituted “ was an officer other than a senior officer at the relevant time ”;
 - (b) in paragraph (3), for “is a senior officer” there were substituted “ was a senior officer at the relevant time ”;
-- (c)[^key-b2fc426648658c0b51124b10861634d0] in paragraph (4D), for “is not a senior officer”, there were substituted “was not a senior officer at the relevant time”.
+- (c)[^c-b2fc426648658c0b51124b10861634d0] in paragraph (4D), for “is not a senior officer”, there were substituted “was not a senior officer at the relevant time”.
 
-### 37A. Modification to regulation 56 (documents to be supplied)[^key-c2d9f78fc8f72ada5ddcf285148ca63c]
+### 37A. Modification to regulation 56 (documents to be supplied)[^c-c2d9f78fc8f72ada5ddcf285148ca63c]
 
 Regulation 56 is to be read as if, in paragraph (1), in each of sub-paragraphs (a) and (b), after “under regulation 51(1)” there were inserted “or (1A)”.
 
-### 38. Modification to regulation 61 (procedure at accelerated misconduct hearing)[^key-c41fc0ebdb7ceca272e1034d255622eb]
+### 38. Modification to regulation 61 (procedure at accelerated misconduct hearing)[^c-c41fc0ebdb7ceca272e1034d255622eb]
 
 Regulation 61 is to be read as if—
 
@@ -807,13 +807,13 @@ Regulation 61 is to be read as if—
   > (10A) Where evidence is given or considered at the misconduct hearing that the officer concerned was given written notice of an interview under regulation 20(6) (interviews during investigation) of these Regulations or under regulation 21(6)(a) of the Complaints and Misconduct Regulations and failed to attend the interview, paragraph (13) applies.
 
   ;
-- (aa)[^key-b52d966306b8ff4bbb03ab98bc13c55c] in paragraph (11)(b), after “regulation 51(1)” there were inserted “or (1A)”;
+- (aa)[^c-b52d966306b8ff4bbb03ab98bc13c55c] in paragraph (11)(b), after “regulation 51(1)” there were inserted “or (1A)”;
 - (b) in paragraph (12)(b)—
   - (i) after “regulation 18(1) there were inserted “, 20A(2)”;
   - (ii) after “regulation 20” there were inserted “ or 21A(2) ”;
   - (iii) after “Regulations”, there were inserted “ (as modified by regulation 42 of and Schedule 2 to those Regulations) ”.
 
-### 39. Modification to regulation 62 (outcome of accelerated misconduct hearing)[^key-3fb66e07cc11c243be0689bf9bd1287c]
+### 39. Modification to regulation 62 (outcome of accelerated misconduct hearing)[^c-3fb66e07cc11c243be0689bf9bd1287c]
 
 These Regulations are to be read as if for regulation 62, there were substituted—
 
@@ -845,7 +845,7 @@ These Regulations are to be read as if for regulation 62, there were substituted
 
 .
 
-### 40. Modification to regulation 63 (notification of outcome)[^key-309692565b6ad4750240b5ebad739daa]
+### 40. Modification to regulation 63 (notification of outcome)[^c-309692565b6ad4750240b5ebad739daa]
 
 Regulation 63(1) is to be read as if—
 
@@ -856,162 +856,162 @@ Regulation 63(1) is to be read as if—
   ; and
 - (b) in sub-paragraph (d), for “was not” there were substituted “would not have been” and after “notice” there were inserted “if the officer concerned had not ceased to be a member of a police force or a special constable”.
 
-### 41. Modification: omission of Part 6 (reflective practice review process)[^key-9ff71df351b513d24dc35576a52472bc]
+### 41. Modification: omission of Part 6 (reflective practice review process)[^c-9ff71df351b513d24dc35576a52472bc]
 
 These Regulations are to be read as if Part 6 were omitted.
 
-### 42. Modification: omission of Schedule 3 (listed offences)[^key-00b36823e550e337cf50c6d8f0138c5f]
+### 42. Modification: omission of Schedule 3 (listed offences)[^c-00b36823e550e337cf50c6d8f0138c5f]
 
 These Regulations are to be read as if Schedule 3 were omitted.
 
 ## Annotations
 
-[^key-a93f475dbd129c03b5f25395d5793c60]: Commencement: Sch. 1 para. 1 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-a93f475dbd129c03b5f25395d5793c60]: Commencement: Sch. 1 para. 1 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-5d052febb68815d9e5c914fc7a6b2056]: Textual amendment: Words in [Sch. 1 para. 1(a)(ii)](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/1/a/ii) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [7(2)(a)(i)](https://www.legislation.gov.uk/uksi/2026/653/regulation/7/2/a/i) (with [reg. 27](https://www.legislation.gov.uk/uksi/2026/653/regulation/27))
+[^c-5d052febb68815d9e5c914fc7a6b2056]: Textual amendment: Words in [Sch. 1 para. 1(a)(ii)](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/1/a/ii) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [7(2)(a)(i)](https://www.legislation.gov.uk/uksi/2026/653/regulation/7/2/a/i) (with [reg. 27](https://www.legislation.gov.uk/uksi/2026/653/regulation/27))
 
-[^key-9a30a12bb6c4a9b9feaf12e87bc7e8bc]: Textual amendment: Words in [Sch. 1 para. 1(a)(ii)](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/1/a/ii) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/653/regulation/7/2/a/ii) (with [reg. 27](https://www.legislation.gov.uk/uksi/2026/653/regulation/27))
+[^c-9a30a12bb6c4a9b9feaf12e87bc7e8bc]: Textual amendment: Words in [Sch. 1 para. 1(a)(ii)](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/1/a/ii) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/653/regulation/7/2/a/ii) (with [reg. 27](https://www.legislation.gov.uk/uksi/2026/653/regulation/27))
 
-[^key-a5e24ff8ff6ef9c1462a2917657a7146]: Textual amendment: Sch. 1 para. 1(a)(iia) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [Sch. para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2025/558/schedule/paragraph/2/2/a) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
+[^c-a5e24ff8ff6ef9c1462a2917657a7146]: Textual amendment: Sch. 1 para. 1(a)(iia) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [Sch. para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2025/558/schedule/paragraph/2/2/a) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
 
-[^key-ff661245fce6fe8ffebac4dbc99e1a07]: Textual amendment: Sch. 1 para. 1(a)(viii) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [Sch. para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2025/558/schedule/paragraph/2/2/b) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
+[^c-ff661245fce6fe8ffebac4dbc99e1a07]: Textual amendment: Sch. 1 para. 1(a)(viii) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [Sch. para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2025/558/schedule/paragraph/2/2/b) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
 
-[^key-6afd181b51b6e94a58f94811e51f0a89]: Textual amendment: Sch. 1 para. 1(c) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2025/558/schedule/paragraph/2/3) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
+[^c-6afd181b51b6e94a58f94811e51f0a89]: Textual amendment: Sch. 1 para. 1(c) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2025/558/schedule/paragraph/2/3) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
 
-[^key-af6edcee2c6be9b3ed29c13aa7a38fa4]: Textual amendment: Word in [Sch. 1 para. 1(c)](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/1/c) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2026/653/regulation/7/2/b) (with [reg. 27](https://www.legislation.gov.uk/uksi/2026/653/regulation/27))
+[^c-af6edcee2c6be9b3ed29c13aa7a38fa4]: Textual amendment: Word in [Sch. 1 para. 1(c)](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/1/c) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2026/653/regulation/7/2/b) (with [reg. 27](https://www.legislation.gov.uk/uksi/2026/653/regulation/27))
 
-[^key-3c3083def993f322c9d04c27c2127eab]: Commencement: Sch. 1 para. 2 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-3c3083def993f322c9d04c27c2127eab]: Commencement: Sch. 1 para. 2 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
 [^c23960911]: Marginal citation: [Paragraph 23(5A)](https://www.legislation.gov.uk/uksi/2020/4/paragraph/23/5A) was inserted by section 16 of, and paragraphs 9 and 26(1) and (2) of Schedule 5 to, the Policing and Crime Act 2017.
 
 [^c23960921]: Marginal citation: [Section 88C](https://www.legislation.gov.uk/uksi/2020/4/section/88C) was inserted by Schedule 8 to the Policing and Crime Act 2017 and subsection (5) of that section was amended by paragraph 65(1) and (3)(b) of Schedule 9 to that Act. There was another amendment of that section but it is not relevant.
 
-[^key-58bcaa929dca1626dfe83e0bf0a99baa]: Commencement: Sch. 1 para. 3 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-58bcaa929dca1626dfe83e0bf0a99baa]: Commencement: Sch. 1 para. 3 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-0e1b86b5d11b78afeb053f89b9ed44d1]: Commencement: Sch. 1 para. 4 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-0e1b86b5d11b78afeb053f89b9ed44d1]: Commencement: Sch. 1 para. 4 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-af25033c7382c8b3802a6f64a9034f69]: Commencement: Sch. 1 para. 5 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-af25033c7382c8b3802a6f64a9034f69]: Commencement: Sch. 1 para. 5 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-43598d87f14de3d3ef8a5718f7e40087]: Textual amendment: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/6) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2026/653/regulation/7/3) (with [reg. 27](https://www.legislation.gov.uk/uksi/2026/653/regulation/27))
+[^c-43598d87f14de3d3ef8a5718f7e40087]: Textual amendment: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/6) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2026/653/regulation/7/3) (with [reg. 27](https://www.legislation.gov.uk/uksi/2026/653/regulation/27))
 
-[^key-b95b1f168979d7789f8d290005a983bd]: Commencement: Sch. 1 para. 7 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-b95b1f168979d7789f8d290005a983bd]: Commencement: Sch. 1 para. 7 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-97d1a2db92f55c3ce54ff986a4cbc2ce]: Commencement: Sch. 1 para. 8 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-97d1a2db92f55c3ce54ff986a4cbc2ce]: Commencement: Sch. 1 para. 8 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-43f004bed1f239cfafefd97552946d12]: Commencement: Sch. 1 para. 9 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-43f004bed1f239cfafefd97552946d12]: Commencement: Sch. 1 para. 9 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-6d5a1577faa3d1caddfca9ee926ba026]: Commencement: Sch. 1 para. 10 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-6d5a1577faa3d1caddfca9ee926ba026]: Commencement: Sch. 1 para. 10 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-6ba8517581fa813031168f42d15ab919]: Commencement: Sch. 1 para. 11 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-6ba8517581fa813031168f42d15ab919]: Commencement: Sch. 1 para. 11 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-b8d6f1b3d21da689a32b3ff8562ef804]: Textual amendment: Words in [Sch. 1 para. 11(a)](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/11/a) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2026/653/regulation/7/4) (with [reg. 27](https://www.legislation.gov.uk/uksi/2026/653/regulation/27))
+[^c-b8d6f1b3d21da689a32b3ff8562ef804]: Textual amendment: Words in [Sch. 1 para. 11(a)](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/11/a) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2026/653/regulation/7/4) (with [reg. 27](https://www.legislation.gov.uk/uksi/2026/653/regulation/27))
 
-[^key-db301dff92c8f435e235fef1d5a9f517]: Commencement: Sch. 1 para. 12 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-db301dff92c8f435e235fef1d5a9f517]: Commencement: Sch. 1 para. 12 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-e124addc94f4279f2133e282475b0bb2]: Commencement: Sch. 1 para. 13 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-e124addc94f4279f2133e282475b0bb2]: Commencement: Sch. 1 para. 13 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-05ccd9d3ae68ff6d7341bc30450c6ff6]: Commencement: Sch. 1 para. 14 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-05ccd9d3ae68ff6d7341bc30450c6ff6]: Commencement: Sch. 1 para. 14 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-b9bdfa5c677aef3eebee1a06d95ce892]: Textual amendment: [Sch. 1 paras. 14A](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/14A), [14B](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/14B) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2025/558/schedule/paragraph/3) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
+[^c-b9bdfa5c677aef3eebee1a06d95ce892]: Textual amendment: [Sch. 1 paras. 14A](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/14A), [14B](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/14B) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2025/558/schedule/paragraph/3) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
 
-[^key-5c5c38569e3d1de137ce368c2c9dbea0]: Commencement: Sch. 1 para. 15 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-5c5c38569e3d1de137ce368c2c9dbea0]: Commencement: Sch. 1 para. 15 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-9edc7214c8c7ce60e29523efd436dbf7]: Textual amendment: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/16) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2025/558/schedule/paragraph/4) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
+[^c-9edc7214c8c7ce60e29523efd436dbf7]: Textual amendment: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/16) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2025/558/schedule/paragraph/4) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
 
-[^key-c57ef0bd4248bbac71c24c5792ddfdee]: Commencement: Sch. 1 para. 17 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-c57ef0bd4248bbac71c24c5792ddfdee]: Commencement: Sch. 1 para. 17 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-9ff26239303183b846c1c2073565e59f]: Commencement: Sch. 1 para. 18 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-9ff26239303183b846c1c2073565e59f]: Commencement: Sch. 1 para. 18 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-be5f1067586fe271158734fc85632282]: Commencement: Sch. 1 para. 19 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-be5f1067586fe271158734fc85632282]: Commencement: Sch. 1 para. 19 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-9e35dd1037ecbb88f2bccd1978cdd2b9]: Commencement: Sch. 1 para. 20 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-9e35dd1037ecbb88f2bccd1978cdd2b9]: Commencement: Sch. 1 para. 20 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-0065972a6e8a1f44acd142f65f01b181]: Textual amendment: [Sch. 1 para. 20(b)(ii)](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/20/b/ii) omitted (7.5.2024) by virtue of [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(15)(a)(i)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/15/a/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-0065972a6e8a1f44acd142f65f01b181]: Textual amendment: [Sch. 1 para. 20(b)(ii)](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/20/b/ii) omitted (7.5.2024) by virtue of [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(15)(a)(i)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/15/a/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
 
-[^key-6b7a3f8922eac1c700d15dd6a0f708e4]: Textual amendment: Sch. 1 paras. 20(d)-(f) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(15)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/15/a/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-6b7a3f8922eac1c700d15dd6a0f708e4]: Textual amendment: Sch. 1 paras. 20(d)-(f) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(15)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/15/a/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
 
-[^key-d9906bfc1c1b1d95c6d1bc051529d1d8]: Commencement: Sch. 1 para. 21 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-d9906bfc1c1b1d95c6d1bc051529d1d8]: Commencement: Sch. 1 para. 21 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-65a77d5421cca7267540ffa5ba11fa1a]: Textual amendment: [Sch. 1 para. 21(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/21/a/i/bb) substituted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(15)(b)(i)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/15/b/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-65a77d5421cca7267540ffa5ba11fa1a]: Textual amendment: [Sch. 1 para. 21(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/21/a/i/bb) substituted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(15)(b)(i)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/15/b/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
 
-[^key-4182d1cf75dda517b707710b48c7000a]: Textual amendment: [Sch. 1 para. 21(b)](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/21/b) substituted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(15)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/15/b/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-4182d1cf75dda517b707710b48c7000a]: Textual amendment: [Sch. 1 para. 21(b)](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/21/b) substituted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(15)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/15/b/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
 
-[^key-92bd10d7700c7109ff8045620eeb71e6]: Textual amendment: Sch. 1 para. 21(c), (ia) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(15)(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/15/b/iii/aa) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-92bd10d7700c7109ff8045620eeb71e6]: Textual amendment: Sch. 1 para. 21(c), (ia) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(15)(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/15/b/iii/aa) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
 
-[^key-afd970a2420fd4e55fb5256ff9a9f4b9]: Textual amendment: [Sch. 1 para. 21(c)(ii)](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/21/c/ii) substituted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(15)(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/15/b/iii/bb) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-afd970a2420fd4e55fb5256ff9a9f4b9]: Textual amendment: [Sch. 1 para. 21(c)(ii)](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/21/c/ii) substituted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(15)(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/15/b/iii/bb) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
 
-[^key-92ed2a8a938e7791d18797b2526fbbe9]: Textual amendment: [Sch. 1 para. 21(d)](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/21/d) substituted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(15)(b)(iv)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/15/b/iv) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-92ed2a8a938e7791d18797b2526fbbe9]: Textual amendment: [Sch. 1 para. 21(d)](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/21/d) substituted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(15)(b)(iv)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/15/b/iv) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
 
-[^key-8c8e0b584f32483ad8e804388355f48b]: Textual amendment: Words in [Sch. 1 para. 21(e)](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/21/e) substituted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(15)(b)(v)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/15/b/v) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-8c8e0b584f32483ad8e804388355f48b]: Textual amendment: Words in [Sch. 1 para. 21(e)](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/21/e) substituted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(15)(b)(v)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/15/b/v) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
 
-[^key-9a8897aecca0a3b51636348c40bba77d]: Textual amendment: Sch. 1 para. 21(f), (ia) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(15)(b)(vii)(aa)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/15/b/vii/aa) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-9a8897aecca0a3b51636348c40bba77d]: Textual amendment: Sch. 1 para. 21(f), (ia) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(15)(b)(vii)(aa)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/15/b/vii/aa) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
 
-[^key-0e43d0f89e3b82017bdbf327a061bac5]: Textual amendment: [Sch. 1 para. 21(f)(ii)](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/21/f/ii) substituted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(15)(b)(vii)(bb)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/15/b/vii/bb) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-0e43d0f89e3b82017bdbf327a061bac5]: Textual amendment: [Sch. 1 para. 21(f)(ii)](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/21/f/ii) substituted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(15)(b)(vii)(bb)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/15/b/vii/bb) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
 
-[^key-38d3fe1e79cd9dae51637c5fde65cf94]: Commencement: Sch. 1 para. 22 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-38d3fe1e79cd9dae51637c5fde65cf94]: Commencement: Sch. 1 para. 22 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-f89813131bb5893dd0aca675b5330201]: Commencement: Sch. 1 para. 23 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-f89813131bb5893dd0aca675b5330201]: Commencement: Sch. 1 para. 23 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-ffec3aef7ed0b7d3af4cd498d01cd915]: Commencement: Sch. 1 para. 24 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-ffec3aef7ed0b7d3af4cd498d01cd915]: Commencement: Sch. 1 para. 24 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-410ebe31f191150ec16cc413559a6908]: Commencement: Sch. 1 para. 25 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-410ebe31f191150ec16cc413559a6908]: Commencement: Sch. 1 para. 25 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-c0371ccf02b1984cfe899fc66c94c50b]: Commencement: Sch. 1 para. 26 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-c0371ccf02b1984cfe899fc66c94c50b]: Commencement: Sch. 1 para. 26 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-dbeb5d5c3d7f85926b866146e9f5a25f]: Commencement: Sch. 1 para. 27 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-dbeb5d5c3d7f85926b866146e9f5a25f]: Commencement: Sch. 1 para. 27 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-e99c292b0ea365cf66e21f9a91c77310]: Commencement: Sch. 1 para. 28 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-e99c292b0ea365cf66e21f9a91c77310]: Commencement: Sch. 1 para. 28 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-f317d955e0e18398dca01d8149ab85a3]: Commencement: Sch. 1 para. 29 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-f317d955e0e18398dca01d8149ab85a3]: Commencement: Sch. 1 para. 29 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-518f6b9625daa4e61441649c3bb1316c]: Textual amendment: Words in [Sch. 1 para. 29(b)(ii)](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/29/b/ii) substituted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(15)(c)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/15/c) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-518f6b9625daa4e61441649c3bb1316c]: Textual amendment: Words in [Sch. 1 para. 29(b)(ii)](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/29/b/ii) substituted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(15)(c)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/15/c) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
 
-[^key-e60af1700bea885d27e4a67c8374c35b]: Commencement: Sch. 1 para. 30 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-e60af1700bea885d27e4a67c8374c35b]: Commencement: Sch. 1 para. 30 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-8049a25048f628987d1f2ad3ab647895]: Commencement: Sch. 1 para. 31 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-8049a25048f628987d1f2ad3ab647895]: Commencement: Sch. 1 para. 31 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-1b208d458deb288a50ca46aa96f994dd]: Commencement: Sch. 1 para. 32 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-1b208d458deb288a50ca46aa96f994dd]: Commencement: Sch. 1 para. 32 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
 [^c23960931]: Marginal citation: [S.I. 2017/1135](https://www.legislation.gov.uk/uksi/2017/1135).
 
-[^key-b715744d89dca3b48d205c541d7f3122]: Commencement: Sch. 1 para. 33 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-b715744d89dca3b48d205c541d7f3122]: Commencement: Sch. 1 para. 33 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-dd728c477781a9352a1ea6af118d8e04]: Textual amendment: Sch. 1 para. 33(a)(iv) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [5(5)(a)](https://www.legislation.gov.uk/uksi/2024/521/regulation/5/5/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-dd728c477781a9352a1ea6af118d8e04]: Textual amendment: Sch. 1 para. 33(a)(iv) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [5(5)(a)](https://www.legislation.gov.uk/uksi/2024/521/regulation/5/5/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
 
-[^key-a9b8c606a6787d9f0fb895e98ec8002e]: Commencement: Sch. 1 para. 34 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-a9b8c606a6787d9f0fb895e98ec8002e]: Commencement: Sch. 1 para. 34 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-a0a0025bd1fd0d52ecaaabedcc16271b]: Textual amendment: [Sch. 1 para. 34A](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/34A) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2025/558/schedule/paragraph/5) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
+[^c-a0a0025bd1fd0d52ecaaabedcc16271b]: Textual amendment: [Sch. 1 para. 34A](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/34A) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2025/558/schedule/paragraph/5) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
 
-[^key-b6e754fc197b2fe57bb3eb182da6d8d9]: Commencement: Sch. 1 para. 35 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-b6e754fc197b2fe57bb3eb182da6d8d9]: Commencement: Sch. 1 para. 35 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-91e7fc41453a08a34bf4f1621f09f347]: Textual amendment: Sch. 1 para. 36 substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2025/558/schedule/paragraph/6) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
+[^c-91e7fc41453a08a34bf4f1621f09f347]: Textual amendment: Sch. 1 para. 36 substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2025/558/schedule/paragraph/6) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
 
-[^key-e15ddb942f9796230c13d6afa6d3a4de]: Textual amendment: [Sch. 1 para. 36ZA](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/36ZA) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2025/558/schedule/paragraph/7) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
+[^c-e15ddb942f9796230c13d6afa6d3a4de]: Textual amendment: [Sch. 1 para. 36ZA](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/36ZA) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2025/558/schedule/paragraph/7) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
 
-[^key-08b00550e37d69ac47a7638bbf6c789a]: Textual amendment: Sch. 1 para. 36A inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(15)(d)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/15/d) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-08b00550e37d69ac47a7638bbf6c789a]: Textual amendment: Sch. 1 para. 36A inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(15)(d)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/15/d) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
 
-[^key-09172593bef77c44c08df77a157fb310]: Textual amendment: Sch. 1 para. 36A(aa) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [Sch. para. 8(a)](https://www.legislation.gov.uk/uksi/2025/558/schedule/paragraph/8/a) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
+[^c-09172593bef77c44c08df77a157fb310]: Textual amendment: Sch. 1 para. 36A(aa) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [Sch. para. 8(a)](https://www.legislation.gov.uk/uksi/2025/558/schedule/paragraph/8/a) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
 
-[^key-1632a89f447a462c7b3e4715f755d450]: Textual amendment: Sch. 1 para. 36A(b)(ai) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [Sch. para. 8(b)](https://www.legislation.gov.uk/uksi/2025/558/schedule/paragraph/8/b) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
+[^c-1632a89f447a462c7b3e4715f755d450]: Textual amendment: Sch. 1 para. 36A(b)(ai) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [Sch. para. 8(b)](https://www.legislation.gov.uk/uksi/2025/558/schedule/paragraph/8/b) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
 
-[^key-9f8427ece9f7266edc756c8d91839ba4]: Textual amendment: [Sch. 1 paras. 36B](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/36B), [36C](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/36C) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2025/558/schedule/paragraph/9) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
+[^c-9f8427ece9f7266edc756c8d91839ba4]: Textual amendment: [Sch. 1 paras. 36B](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/36B), [36C](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/36C) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2025/558/schedule/paragraph/9) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
 
-[^key-343872109aa9c6328a78a5d293f022f7]: Commencement: Sch. 1 para. 37 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-343872109aa9c6328a78a5d293f022f7]: Commencement: Sch. 1 para. 37 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-b2fc426648658c0b51124b10861634d0]: Textual amendment: Sch. 1 para. 37(c) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(15)(e)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/15/e) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-b2fc426648658c0b51124b10861634d0]: Textual amendment: Sch. 1 para. 37(c) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(15)(e)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/15/e) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
 
-[^key-c2d9f78fc8f72ada5ddcf285148ca63c]: Textual amendment: [Sch. 1 para. 37A](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/37A) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2025/558/schedule/paragraph/10) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
+[^c-c2d9f78fc8f72ada5ddcf285148ca63c]: Textual amendment: [Sch. 1 para. 37A](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/37A) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2025/558/schedule/paragraph/10) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
 
-[^key-c41fc0ebdb7ceca272e1034d255622eb]: Commencement: Sch. 1 para. 38 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-c41fc0ebdb7ceca272e1034d255622eb]: Commencement: Sch. 1 para. 38 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-b52d966306b8ff4bbb03ab98bc13c55c]: Textual amendment: Sch. 1 para. 38(aa) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2025/558/schedule/paragraph/11) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
+[^c-b52d966306b8ff4bbb03ab98bc13c55c]: Textual amendment: Sch. 1 para. 38(aa) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2025/558/schedule/paragraph/11) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
 
-[^key-3fb66e07cc11c243be0689bf9bd1287c]: Commencement: Sch. 1 para. 39 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-3fb66e07cc11c243be0689bf9bd1287c]: Commencement: Sch. 1 para. 39 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
 [^c23960941]: Marginal citation: [S.I. 2017/1135](https://www.legislation.gov.uk/uksi/2017/1135).
 
-[^key-309692565b6ad4750240b5ebad739daa]: Textual amendment: [Sch. 1 para. 40](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/40) substituted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [5(5)(b)](https://www.legislation.gov.uk/uksi/2024/521/regulation/5/5/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-309692565b6ad4750240b5ebad739daa]: Textual amendment: [Sch. 1 para. 40](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/40) substituted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [5(5)(b)](https://www.legislation.gov.uk/uksi/2024/521/regulation/5/5/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
 
-[^key-9ff71df351b513d24dc35576a52472bc]: Commencement: Sch. 1 para. 41 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-9ff71df351b513d24dc35576a52472bc]: Commencement: Sch. 1 para. 41 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-00b36823e550e337cf50c6d8f0138c5f]: Textual amendment: [Sch. 1 para. 42](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/42) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [7(5)](https://www.legislation.gov.uk/uksi/2026/653/regulation/7/5) (with [reg. 27](https://www.legislation.gov.uk/uksi/2026/653/regulation/27))
+[^c-00b36823e550e337cf50c6d8f0138c5f]: Textual amendment: [Sch. 1 para. 42](https://www.legislation.gov.uk/uksi/2020/4/schedule/1/paragraph/42) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [7(5)](https://www.legislation.gov.uk/uksi/2026/653/regulation/7/5) (with [reg. 27](https://www.legislation.gov.uk/uksi/2026/653/regulation/27))

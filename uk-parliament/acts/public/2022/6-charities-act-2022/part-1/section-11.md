@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Taking effect of resolution under section 282 of the Charities Act 2011[^key-b37dd33aff6185c013f5a74bec5833e9][^key-49f3161e28201ef2a9a7c29067f0d7f8]
+## 11. Taking effect of resolution under section 282 of the Charities Act 2011[^c-b37dd33aff6185c013f5a74bec5833e9][^c-49f3161e28201ef2a9a7c29067f0d7f8]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b37dd33aff6185c013f5a74bec5833e9]: Commencement: S. 11 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
+[^c-b37dd33aff6185c013f5a74bec5833e9]: Commencement: S. 11 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
 
-[^key-49f3161e28201ef2a9a7c29067f0d7f8]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2022/6/section/11) in force at 14.6.2023 by [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/643/regulation/4))
+[^c-49f3161e28201ef2a9a7c29067f0d7f8]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2022/6/section/11) in force at 14.6.2023 by [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/643/regulation/4))

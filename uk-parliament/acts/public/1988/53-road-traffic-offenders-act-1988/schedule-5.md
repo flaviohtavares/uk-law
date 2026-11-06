@@ -61,7 +61,7 @@ Section 75.
 | RTA section 87(2) | Causing or permitting person to drive otherwise than in accordance with[^c18175751] licence. |
 | RTA section 94(3) | Failure to notify relevant or prospective disability. |
 | RTA section 96(1) | Driving with uncorrected defective eyesight. |
-| RTA section 99(5) | Driving licence holder failing when his licence is revoked, to surrender it[^c18175761] [^key-7c8d51b64c9d6ecae3bc15f38aba2294]... or, when his particulars become incorrect, to surrender licence [^key-ee0867173067cf28cd4b06d21d06c818]... and give particulars. |
+| RTA section 99(5) | Driving licence holder failing when his licence is revoked, to surrender it[^c18175761] [^c-7c8d51b64c9d6ecae3bc15f38aba2294]... or, when his particulars become incorrect, to surrender licence [^c-ee0867173067cf28cd4b06d21d06c818]... and give particulars. |
 | RTA[^c18175781] section 110 | Driving HGV without HGV driver’s licence or causing or permitting person to drive HGV without HGV driver’s licence. |
 | RTA section 112[^c18175801] section 114 | Failure to comply with conditions of HGV[^c18175821] LGV or PCV driver’s licence or employing person under 21 to drive HGV LGV or PCV in contravention of conditions of his licence. |
 | Regulations under RTA section 117[^c18175861] section 120(5) | Contravention of provisions of regulations about HGV[^c18175881] LGV or PCV drivers’ licences which is declared by the regulations to be an offence. |
@@ -77,7 +77,7 @@ Section 75.
 | --- | --- |
 | Section 25(6) of this Act | Failure to provide Secretary of State when required with evidence of date of birth. |
 
-| [^key-5c28f0aba9de13b3984f77622df16352]... |  |
+| [^c-5c28f0aba9de13b3984f77622df16352]... |  |
 | --- | --- |
 
 ## Annotations
@@ -88,9 +88,9 @@ Section 75.
 
 [^c18175761]: Textual amendment: Words inserted by [Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1989/22) , [s. 7](https://www.legislation.gov.uk/ukpga/1989/22/section/7) , [Sch. 3 para. 30(a)](https://www.legislation.gov.uk/ukpga/1989/22/schedule/3/paragraph/30/a) (as amended (insertion of words “and its counterpart") by [S.I. 1990/144](https://www.legislation.gov.uk/uksi/1990/144) , [reg. 2(3)](https://www.legislation.gov.uk/uksi/1990/144/regulation/2/3) , [Sch. 3 para. 3(6)](https://www.legislation.gov.uk/uksi/1990/144/schedule/3/paragraph/3/6) )
 
-[^key-7c8d51b64c9d6ecae3bc15f38aba2294]: Textual amendment: Words in Sch. 5 repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 3 para. 64(a)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/3/paragraph/64/a), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3](https://www.legislation.gov.uk/uksi/2015/560/article/3) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
+[^c-7c8d51b64c9d6ecae3bc15f38aba2294]: Textual amendment: Words in Sch. 5 repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 3 para. 64(a)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/3/paragraph/64/a), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3](https://www.legislation.gov.uk/uksi/2015/560/article/3) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
 
-[^key-ee0867173067cf28cd4b06d21d06c818]: Textual amendment: Words in Sch. 5 repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 3 para. 64(b)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/3/paragraph/64/b), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3](https://www.legislation.gov.uk/uksi/2015/560/article/3) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
+[^c-ee0867173067cf28cd4b06d21d06c818]: Textual amendment: Words in Sch. 5 repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 3 para. 64(b)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/3/paragraph/64/b), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3](https://www.legislation.gov.uk/uksi/2015/560/article/3) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
 
 [^c18175781]: Textual amendment: Entry repealed (1.4.1991) by [Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1989/22), [s. 16](https://www.legislation.gov.uk/ukpga/1989/22/section/16), [Sch. 6](https://www.legislation.gov.uk/ukpga/1989/22/schedule/6)
 
@@ -102,4 +102,4 @@ Section 75.
 
 [^c18175881]: Textual amendment: Words “LGV or PCV" substituted (1.4.1991) for “HGV" by [Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1989/22), [s. 7](https://www.legislation.gov.uk/ukpga/1989/22/section/7), [Sch. 3 para. 30(c)(ii)](https://www.legislation.gov.uk/ukpga/1989/22/schedule/3/paragraph/30/c/ii)
 
-[^key-5c28f0aba9de13b3984f77622df16352]: Textual amendment: Sch. 5 entries repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-5c28f0aba9de13b3984f77622df16352]: Textual amendment: Sch. 5 entries repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)

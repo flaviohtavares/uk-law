@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Protective works to buildings[^key-e92a99622d049b8485d20da4a6bf36ac]
+## 16. Protective works to buildings[^c-e92a99622d049b8485d20da4a6bf36ac]
 
 *Extent: E+W+S*
 
@@ -63,4 +63,4 @@ the undertaker must, except in the case of emergency, serve on the owners and oc
 
 ## Annotations
 
-[^key-e92a99622d049b8485d20da4a6bf36ac]: Commencement: Art. 16 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-e92a99622d049b8485d20da4a6bf36ac]: Commencement: Art. 16 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)

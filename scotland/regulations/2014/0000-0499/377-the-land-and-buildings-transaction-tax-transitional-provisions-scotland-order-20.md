@@ -46,11 +46,11 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 67(1) of the Land and Buildings Transaction Tax (Scotland) Act 2013[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, and commencement[^key-e23a7b3a6954e6915018d9ab36fb0c66]
+## 1. Citation, and commencement[^c-e23a7b3a6954e6915018d9ab36fb0c66]
 
 This Order may be cited as the Land and Buildings Transaction Tax (Transitional Provisions) (Scotland) Order 2014 and comes into force on 1st April 2015.
 
-## 2. Interpretation[^key-20be8673a9d37d4c3c446a26fa14c010]
+## 2. Interpretation[^c-20be8673a9d37d4c3c446a26fa14c010]
 
 (1) In this Order—
 
@@ -62,9 +62,9 @@ This Order may be cited as the Land and Buildings Transaction Tax (Transitional 
 
 (2) In this Order any reference to a transaction, a land transaction, a land transfer or an arrangement are in respect of land situated in Scotland.
 
-## 3. Contracts entered into on or before 1st May 2012[^key-581214357ca43bd336171ea4727d4d7e][^key-dae9c4577ee6be68b26656ae7dd9bfca]
+## 3. Contracts entered into on or before 1st May 2012[^c-581214357ca43bd336171ea4727d4d7e][^c-dae9c4577ee6be68b26656ae7dd9bfca]
 
-(1) This article applies to contracts entered into on or[^key-94c3842612922654437955cf7e6e2166] before 1st May 2012 for a land transaction under which the transaction is to be completed by a conveyance and there is an effective date in relation to the transaction after the commencement date.
+(1) This article applies to contracts entered into on or[^c-94c3842612922654437955cf7e6e2166] before 1st May 2012 for a land transaction under which the transaction is to be completed by a conveyance and there is an effective date in relation to the transaction after the commencement date.
 
 (2) Where this article applies and the transaction is excluded by a section 29(6) event, sections 9 and 10 of the Act apply subject to paragraph (3).
 
@@ -72,7 +72,7 @@ This Order may be cited as the Land and Buildings Transaction Tax (Transitional 
 
 (4) Where paragraph (3) applies, section 10(3)(b) of the Act shall apply except that the tax is chargeable on the latter transaction to the extent (if any) that the amount of tax chargeable on it is greater than the amount of tax chargeable on the contract under the 2003 Act and paid to HMRC (as referred to in paragraph (3)).
 
-## 4. Contracts entered into after 1st May 2012 but before the commencement date[^key-5e5ed5ff3f033fe35bd3f18b38933684]
+## 4. Contracts entered into after 1st May 2012 but before the commencement date[^c-5e5ed5ff3f033fe35bd3f18b38933684]
 
 (1) This article applies to contracts entered into after 1st May 2012 but before the commencement date for a land transaction under which the transaction is to be completed by a conveyance and there is an effective date in relation to the transaction after the commencement date.
 
@@ -82,19 +82,19 @@ This Order may be cited as the Land and Buildings Transaction Tax (Transitional 
 
 (4) Where this paragraph applies, section 10(3)(b) of the Act shall apply except the tax is chargeable on the latter transaction to the extent (if any) that the amount of tax chargeable on it is greater than the amount of tax chargeable on the contract under the 2003 Act and paid to HMRC (as referred to in paragraph (3)).
 
-## 5. Alternative property finance relief[^key-16ba329370225bf8e8a398015914e9d8]
+## 5. Alternative property finance relief[^c-16ba329370225bf8e8a398015914e9d8]
 
 (1) This article applies to arrangements entered into prior to the commencement date under sections 72(1) or 72A(1) of the 2003 Act.
 
 (2) Where this article applies and the first and second transactions under sections 72 or 72A of the 2003 Act are completed prior to the commencement date, neither the third transaction under section 72 of that Act nor a further transaction under section 72A shall be chargeable transactions under the Act if their effective date is after the commencement date, provided that the conditions mentioned respectively in sections 72(4) and 72A(4) of the 2003 Act have been met.
 
-## 6. Alternative finance investment bonds[^key-a5fdcc3ba0328c518417a3b022f075a0]
+## 6. Alternative finance investment bonds[^c-a5fdcc3ba0328c518417a3b022f075a0]
 
 (1) This article applies where arrangements referred to in paragraph 5(2) of Schedule 61 to the Finance Act 2009[^f00005] are entered into with the effective date of the first transaction referred to in paragraph 5(2)(a) of that Schedule prior to the commencement date and the effective date of the second transaction referred to in paragraph 5(11)(a) of that Schedule after that date.
 
 (2) Where this article applies, the second transaction referred to in paragraph (1) shall not be a chargeable transaction under the Act, provided that the conditions mentioned in paragraph 8(1)(a) and (b) of Schedule 61 to the Finance Act 2009 have been met.
 
-## 7. Transfers of partnership interest pursuant to earlier arrangements[^key-764d989f765609835e76486de869f08d]
+## 7. Transfers of partnership interest pursuant to earlier arrangements[^c-764d989f765609835e76486de869f08d]
 
 (1) This article applies where paragraph 17(1) of Schedule 15 to the 2003 Act applies and—
 
@@ -103,7 +103,7 @@ This Order may be cited as the Land and Buildings Transaction Tax (Transitional 
 
 (2) Where this article applies, the land transfer referred to in paragraph (1) shall be treated for the purposes of paragraph 17 of schedule 17 to the Act as if it were a land transfer mentioned in paragraph 17 of that schedule.
 
-## 8. Withdrawal of money etc. from partnership after transfer of a chargeable interest[^key-5adf9b698f360640c9f7f9b1d7e47222]
+## 8. Withdrawal of money etc. from partnership after transfer of a chargeable interest[^c-5adf9b698f360640c9f7f9b1d7e47222]
 
 (1) This article applies where paragraph 17A(1) of Schedule 15 to the 2003 Act applies and—
 
@@ -115,17 +115,17 @@ This Order may be cited as the Land and Buildings Transaction Tax (Transitional 
 - (a) the land transfer referred to in paragraph (1) shall be treated for the purposes of paragraph 18 of schedule 17 to the Act as if it were a land transfer mentioned in paragraph 18(1) of that schedule; and
 - (b) a qualifying event referred in paragraph 17A(2) of Schedule 15 to the 2003 Act shall be treated as if it were a qualifying event for the purposes of paragraph 18(2) of schedule 17 to the Act.
 
-## 9. Partnership share attributable to partner[^key-8d0c769b0aa4f360f5160cbfe03a0c1d]
+## 9. Partnership share attributable to partner[^c-8d0c769b0aa4f360f5160cbfe03a0c1d]
 
 Paragraphs 25 and 26 of schedule 17 to the Act have effect notwithstanding that the relevant date for the purposes of paragraph 26(1) of that schedule is prior to the commencement date, but any references to obligations to pay tax under the Act in respect of land transactions prior to that date have no effect.
 
-## 10. Overlapping leases[^key-4d4c184a14058dc550c4557d7dd05b4b]
+## 10. Overlapping leases[^c-4d4c184a14058dc550c4557d7dd05b4b]
 
 (1) Paragraph 24(1)(a) to (c) of schedule 19 to the Act applies notwithstanding that the old lease referred to in paragraph 24(1)(a) to (c) of that schedule has been granted prior to the commencement date.
 
 (2) Where the old lease referred to in in paragraph 24(1)(a), (b) or (c) of schedule 19 to the Act has been granted prior to the commencement date, the rent that would have been payable under the old lease for the purposes of paragraph 24(4) of that schedule shall be taken to mean the amount that was taken into account in determining the tax chargeable under the provisions of Schedule 5 to the 2003 Act in respect of the acquisition of the old lease.
 
-## 11. Assignation of lease granted prior to the commencement date /withdrawal of relief[^key-c5faf2745a3b8908801cfcb7707f3d12]
+## 11. Assignation of lease granted prior to the commencement date /withdrawal of relief[^c-c5faf2745a3b8908801cfcb7707f3d12]
 
 (1) This article applies where paragraph 11(1) of Schedule 17A to the 2003 Act applies and—
 
@@ -138,7 +138,7 @@ Paragraphs 25 and 26 of schedule 17 to the Act have effect notwithstanding that 
 - (b) the first assignment of a lease referred to in paragraph (1) shall be treated as the first assignation of a lease for the purposes of paragraph 27(2) of schedule 19 to the Act; and
 - (c) the provisions in paragraph 11(3) and (5) of Schedule 17A to the 2003 Act shall be treated for the purposes of paragraph 27 of schedule 19 to the Act as if they were the corresponding provisions in paragraph 27(3) and (5) of schedule 19 to the Act.
 
-## 12. Variation of lease treated as grant of new lease[^key-1c11f9dbfc35a109cdfb7030cbea0663]
+## 12. Variation of lease treated as grant of new lease[^c-1c11f9dbfc35a109cdfb7030cbea0663]
 
 (1) This article applies to a lease granted prior to the commencement date (to which the provisions of Schedule 17A to the 2003 Act apply) where there is a variation of the lease after the commencement date to increase the amount of rent, which, if it had been before that date, would have been a variation to which paragraph 13(1) of that Schedule would have applied.
 
@@ -147,7 +147,7 @@ Paragraphs 25 and 26 of schedule 17 to the Act have effect notwithstanding that 
 - (a) the variation of a lease referred to in paragraph (1) shall be treated as the grant of a lease; and
 - (b) the chargeable consideration (other than in respect of any premium) shall be the additional rent.
 
-## 13. Extension of lease treated as grant of new lease[^key-8daaad30a5f46c061e960309036b9f11]
+## 13. Extension of lease treated as grant of new lease[^c-8daaad30a5f46c061e960309036b9f11]
 
 (1) This article applies to a lease granted prior to the commencement date (to which the provisions of Schedule 17A to the 2003 Act apply) where there is a variation of the lease after the commencement date to increase the term of the lease or extend premises let, which, if it had been before the commencement date, would have been for the purposes of that Schedule the grant of a new lease.
 
@@ -198,9 +198,9 @@ Articles 12 and 13 provide that variations and extensions of leases that were in
 
 [^f00001]: Footnote: [2013 asp 11](https://www.legislation.gov.uk/asp/2013/11).
 
-[^key-e23a7b3a6954e6915018d9ab36fb0c66]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1)
+[^c-e23a7b3a6954e6915018d9ab36fb0c66]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1)
 
-[^key-20be8673a9d37d4c3c446a26fa14c010]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2014/377/article/2) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1)
+[^c-20be8673a9d37d4c3c446a26fa14c010]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2014/377/article/2) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1)
 
 [^f00002]: Footnote: [2003 c.14](https://www.legislation.gov.uk/ukpga/2003/14).
 
@@ -208,30 +208,30 @@ Articles 12 and 13 provide that variations and extensions of leases that were in
 
 [^f00004]: Footnote: [2005 c.11](https://www.legislation.gov.uk/ukpga/2005/11).
 
-[^key-581214357ca43bd336171ea4727d4d7e]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2014/377/article/3) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1)
+[^c-581214357ca43bd336171ea4727d4d7e]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2014/377/article/3) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1)
 
-[^key-dae9c4577ee6be68b26656ae7dd9bfca]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/ssi/2014/377/article/3) heading inserted (1.4.2015) by [The Land and Buildings Transaction Tax (Transitional Provisions) (Scotland) Amendment Order 2015 (S.S.I. 2015/71)](https://www.legislation.gov.uk/ssi/2015/71), [arts. 1](https://www.legislation.gov.uk/ssi/2015/71/article/1), [2](https://www.legislation.gov.uk/ssi/2015/71/article/2)
+[^c-dae9c4577ee6be68b26656ae7dd9bfca]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/ssi/2014/377/article/3) heading inserted (1.4.2015) by [The Land and Buildings Transaction Tax (Transitional Provisions) (Scotland) Amendment Order 2015 (S.S.I. 2015/71)](https://www.legislation.gov.uk/ssi/2015/71), [arts. 1](https://www.legislation.gov.uk/ssi/2015/71/article/1), [2](https://www.legislation.gov.uk/ssi/2015/71/article/2)
 
-[^key-94c3842612922654437955cf7e6e2166]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/ssi/2014/377/article/3/1) inserted (1.4.2015) by [The Land and Buildings Transaction Tax (Transitional Provisions) (Scotland) Amendment Order 2015 (S.S.I. 2015/71)](https://www.legislation.gov.uk/ssi/2015/71), [arts. 1](https://www.legislation.gov.uk/ssi/2015/71/article/1), [2](https://www.legislation.gov.uk/ssi/2015/71/article/2)
+[^c-94c3842612922654437955cf7e6e2166]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/ssi/2014/377/article/3/1) inserted (1.4.2015) by [The Land and Buildings Transaction Tax (Transitional Provisions) (Scotland) Amendment Order 2015 (S.S.I. 2015/71)](https://www.legislation.gov.uk/ssi/2015/71), [arts. 1](https://www.legislation.gov.uk/ssi/2015/71/article/1), [2](https://www.legislation.gov.uk/ssi/2015/71/article/2)
 
-[^key-5e5ed5ff3f033fe35bd3f18b38933684]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2014/377/article/4) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1)
+[^c-5e5ed5ff3f033fe35bd3f18b38933684]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2014/377/article/4) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1)
 
-[^key-16ba329370225bf8e8a398015914e9d8]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2014/377/article/5) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1)
+[^c-16ba329370225bf8e8a398015914e9d8]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2014/377/article/5) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1)
 
-[^key-a5fdcc3ba0328c518417a3b022f075a0]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2014/377/article/6) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1)
+[^c-a5fdcc3ba0328c518417a3b022f075a0]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2014/377/article/6) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1)
 
 [^f00005]: Footnote: [2009 c.10](https://www.legislation.gov.uk/ukpga/2009/10).
 
-[^key-764d989f765609835e76486de869f08d]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2014/377/article/7) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1)
+[^c-764d989f765609835e76486de869f08d]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2014/377/article/7) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1)
 
-[^key-5adf9b698f360640c9f7f9b1d7e47222]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2014/377/article/8) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1)
+[^c-5adf9b698f360640c9f7f9b1d7e47222]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2014/377/article/8) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1)
 
-[^key-8d0c769b0aa4f360f5160cbfe03a0c1d]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2014/377/article/9) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1)
+[^c-8d0c769b0aa4f360f5160cbfe03a0c1d]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2014/377/article/9) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1)
 
-[^key-4d4c184a14058dc550c4557d7dd05b4b]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2014/377/article/10) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1)
+[^c-4d4c184a14058dc550c4557d7dd05b4b]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2014/377/article/10) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1)
 
-[^key-c5faf2745a3b8908801cfcb7707f3d12]: Commencement: [Art. 11](https://www.legislation.gov.uk/ssi/2014/377/article/11) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1)
+[^c-c5faf2745a3b8908801cfcb7707f3d12]: Commencement: [Art. 11](https://www.legislation.gov.uk/ssi/2014/377/article/11) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1)
 
-[^key-1c11f9dbfc35a109cdfb7030cbea0663]: Commencement: [Art. 12](https://www.legislation.gov.uk/ssi/2014/377/article/12) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1)
+[^c-1c11f9dbfc35a109cdfb7030cbea0663]: Commencement: [Art. 12](https://www.legislation.gov.uk/ssi/2014/377/article/12) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1)
 
-[^key-8daaad30a5f46c061e960309036b9f11]: Commencement: [Art. 13](https://www.legislation.gov.uk/ssi/2014/377/article/13) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1)
+[^c-8daaad30a5f46c061e960309036b9f11]: Commencement: [Art. 13](https://www.legislation.gov.uk/ssi/2014/377/article/13) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1)

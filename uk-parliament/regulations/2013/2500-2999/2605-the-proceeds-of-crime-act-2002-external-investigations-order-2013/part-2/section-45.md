@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Government departments[^key-5bbfb74f5b0b255d17f9bef19ae831db]
+## 45. Government departments[^c-5bbfb74f5b0b255d17f9bef19ae831db]
 
 *Extent: S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5bbfb74f5b0b255d17f9bef19ae831db]: Commencement: [Art. 45](https://www.legislation.gov.uk/uksi/2013/2605/article/45) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-5bbfb74f5b0b255d17f9bef19ae831db]: Commencement: [Art. 45](https://www.legislation.gov.uk/uksi/2013/2605/article/45) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
 
 [^f00023]: Footnote: [1947 c. 44](https://www.legislation.gov.uk/ukpga/1947/44).

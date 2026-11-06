@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24C. Powers not limited by other provision or powers[^key-8bd015123eb22c5bfb5c2ceb8cb6c21e]
+## 24C. Powers not limited by other provision or powers[^c-8bd015123eb22c5bfb5c2ceb8cb6c21e]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8bd015123eb22c5bfb5c2ceb8cb6c21e]: Textual amendment: S. 24C inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 7(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/7/1), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-8bd015123eb22c5bfb5c2ceb8cb6c21e]: Textual amendment: S. 24C inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 7(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/7/1), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

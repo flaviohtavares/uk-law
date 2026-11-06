@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54A. Power to withhold MM payments during investigation[^key-ce10e24d307b2e3f8ed2fbea969e52fb]
+## 54A. Power to withhold MM payments during investigation[^c-ce10e24d307b2e3f8ed2fbea969e52fb]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ and the Authority requires time to investigate, it may withhold all or part of t
 
 ## Annotations
 
-[^key-ce10e24d307b2e3f8ed2fbea969e52fb]: Textual amendment: [Regs. 54A](https://www.legislation.gov.uk/uksi/2014/928/regulation/54A), [54B](https://www.legislation.gov.uk/uksi/2014/928/regulation/54B) inserted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [23](https://www.legislation.gov.uk/uksi/2018/610/regulation/23)
+[^c-ce10e24d307b2e3f8ed2fbea969e52fb]: Textual amendment: [Regs. 54A](https://www.legislation.gov.uk/uksi/2014/928/regulation/54A), [54B](https://www.legislation.gov.uk/uksi/2014/928/regulation/54B) inserted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [23](https://www.legislation.gov.uk/uksi/2018/610/regulation/23)

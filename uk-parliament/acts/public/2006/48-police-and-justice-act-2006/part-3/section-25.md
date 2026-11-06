@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Contracting out of local authority functions with regard to parenting contracts and parenting orders[^key-c71b12abe68ecafd04fcb75e29d56c96]
+## 25. Contracting out of local authority functions with regard to parenting contracts and parenting orders[^c-c71b12abe68ecafd04fcb75e29d56c96]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ In Part 3 of the Anti-social Behaviour Act 2003 (c. 38) (parental responsibiliti
 
 ## Annotations
 
-[^key-c71b12abe68ecafd04fcb75e29d56c96]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2006/48/section/25) in force at 1.8.2007 for E. by [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/a)
+[^c-c71b12abe68ecafd04fcb75e29d56c96]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2006/48/section/25) in force at 1.8.2007 for E. by [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/a)

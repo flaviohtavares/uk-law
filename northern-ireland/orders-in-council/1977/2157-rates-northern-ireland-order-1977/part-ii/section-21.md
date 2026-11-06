@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The owner of any hereditament the rent of which becomes payable or is collected at intervals shorter than quarterly may by agreement in writing with the Department undertake that he will pay the rates chargeable in respect of the hereditament whether it is occupied or not[^c16883571] and the Department may agree, where the owner so undertakes and pays over to the Department on or before the date or dates specified in the agreement the amounts payable by him thereunder, to make him an allowance not exceeding 10 per cent.[^key-dd436c5637bc51d8b6b4e904cd594279]
+(1) The owner of any hereditament the rent of which becomes payable or is collected at intervals shorter than quarterly may by agreement in writing with the Department undertake that he will pay the rates chargeable in respect of the hereditament whether it is occupied or not[^c16883571] and the Department may agree, where the owner so undertakes and pays over to the Department on or before the date or dates specified in the agreement the amounts payable by him thereunder, to make him an allowance not exceeding 10 per cent.[^c-dd436c5637bc51d8b6b4e904cd594279]
 
 (2) An allowance made under paragraph (1) in respect of any hereditament to an owner who is rated under Article 20 shall be in substitution for any allowance to which he might otherwise have been entitled in respect of that hereditament under that Article.
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c16883571]: Textual amendment: [1998 NI 22](https://www.legislation.gov.uk/nisi/1998)
 
-[^key-dd436c5637bc51d8b6b4e904cd594279]: Textual amendment: Words in [art. 21(1)](https://www.legislation.gov.uk/nisi/1977/2157/article/21/1) substituted (1.4.2015) by [The Rates (Owners Allowances) Order (Northern Ireland) 2015 (S.R. 2015/46)](https://www.legislation.gov.uk/nisr/2015/46), [arts. 1](https://www.legislation.gov.uk/nisr/2015/46/article/1), [3](https://www.legislation.gov.uk/nisr/2015/46/article/3)
+[^c-dd436c5637bc51d8b6b4e904cd594279]: Textual amendment: Words in [art. 21(1)](https://www.legislation.gov.uk/nisi/1977/2157/article/21/1) substituted (1.4.2015) by [The Rates (Owners Allowances) Order (Northern Ireland) 2015 (S.R. 2015/46)](https://www.legislation.gov.uk/nisr/2015/46), [arts. 1](https://www.legislation.gov.uk/nisr/2015/46/article/1), [3](https://www.legislation.gov.uk/nisr/2015/46/article/3)

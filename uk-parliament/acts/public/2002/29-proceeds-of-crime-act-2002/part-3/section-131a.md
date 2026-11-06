@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131A. Seized personal property[^key-4ab4b1a9edd48528c1df8446858c96f4]
+## 131A. Seized personal property[^c-4ab4b1a9edd48528c1df8446858c96f4]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ab4b1a9edd48528c1df8446858c96f4]: Textual amendment: Ss. 131A-131D and cross-heading inserted (1.6.2015) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/59/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a)
+[^c-4ab4b1a9edd48528c1df8446858c96f4]: Textual amendment: Ss. 131A-131D and cross-heading inserted (1.6.2015) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/59/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a)

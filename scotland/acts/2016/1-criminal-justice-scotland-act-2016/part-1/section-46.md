@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Common law power of entry[^key-0298cd4dd926a01b8191cc00e4694ac5]
+## 46. Common law power of entry[^c-0298cd4dd926a01b8191cc00e4694ac5]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Nothing in this Part affects any rule of law concerning the powers of a constabl
 
 ## Annotations
 
-[^key-0298cd4dd926a01b8191cc00e4694ac5]: Commencement: S. 46 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-0298cd4dd926a01b8191cc00e4694ac5]: Commencement: S. 46 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 116. Consultation by Welsh Ministers about specifications[^key-aa4136955b68b33ec9177f8c028a3897][^key-ee1432660ebbb2b6459b89b986889683]
+## 116. Consultation by Welsh Ministers about specifications[^c-aa4136955b68b33ec9177f8c028a3897][^c-ee1432660ebbb2b6459b89b986889683]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aa4136955b68b33ec9177f8c028a3897]: Commencement: S. 116 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-aa4136955b68b33ec9177f8c028a3897]: Commencement: S. 116 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-ee1432660ebbb2b6459b89b986889683]: Commencement: [S. 116](https://www.legislation.gov.uk/asc/2022/1/section/116) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(kk)](https://www.legislation.gov.uk/wsi/2026/62/article/2/kk)
+[^c-ee1432660ebbb2b6459b89b986889683]: Commencement: [S. 116](https://www.legislation.gov.uk/asc/2022/1/section/116) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(kk)](https://www.legislation.gov.uk/wsi/2026/62/article/2/kk)

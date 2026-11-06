@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Restrictions on removal: notice of intention to adopt given[^key-1a0cccc28b6c15b752ab8d9425a2fc0a][^key-1aa9b1ca6bb367ab31400e0712afec2e][^key-d004d0f6deaf5b0c799bfe3b655ad8ea][^key-1aa9b1ca6bb367ab31400e0712afec2e]
+## 21. Restrictions on removal: notice of intention to adopt given[^c-1a0cccc28b6c15b752ab8d9425a2fc0a][^c-1aa9b1ca6bb367ab31400e0712afec2e][^c-d004d0f6deaf5b0c799bfe3b655ad8ea][^c-1aa9b1ca6bb367ab31400e0712afec2e]
 
 *Extent: S*
 
@@ -41,7 +41,7 @@ summary: ''
 
 (5) In this section, “**3 month period**” means the period of 3 months beginning with the day on which the local authority receives the notice.
 
-(6)[^key-66b414156d60e598ad73f1bd74bb8caf] If during—
+(6)[^c-66b414156d60e598ad73f1bd74bb8caf] If during—
 
 - (a) the 3 month period, or
 - (b) the period of 28 days beginning with the expiry of the 3 month period,
@@ -52,10 +52,10 @@ the prospective adopters give a further notice under section 18(2) to a local au
 
 ## Annotations
 
-[^key-1a0cccc28b6c15b752ab8d9425a2fc0a]: Commencement: S. 21 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
+[^c-1a0cccc28b6c15b752ab8d9425a2fc0a]: Commencement: S. 21 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
 
-[^key-1aa9b1ca6bb367ab31400e0712afec2e]: Modification: Pt. 1 Ch. 2 applied in part (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/9/1)
+[^c-1aa9b1ca6bb367ab31400e0712afec2e]: Modification: Pt. 1 Ch. 2 applied in part (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/9/1)
 
-[^key-d004d0f6deaf5b0c799bfe3b655ad8ea]: Modification: S. 21 excluded (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [9(4)(b)](https://www.legislation.gov.uk/ssi/2009/182/regulation/9/4/b)
+[^c-d004d0f6deaf5b0c799bfe3b655ad8ea]: Modification: S. 21 excluded (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [9(4)(b)](https://www.legislation.gov.uk/ssi/2009/182/regulation/9/4/b)
 
-[^key-66b414156d60e598ad73f1bd74bb8caf]: Modification: S. 21(6) excluded (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [6(2)](https://www.legislation.gov.uk/ssi/2009/182/regulation/6/2)
+[^c-66b414156d60e598ad73f1bd74bb8caf]: Modification: S. 21(6) excluded (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [6(2)](https://www.legislation.gov.uk/ssi/2009/182/regulation/6/2)

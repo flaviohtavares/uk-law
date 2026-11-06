@@ -52,15 +52,15 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 The requirements of paragraph 3(2) of Schedule 7 to the Act (relating to the appropriate Parliamentary procedure for these Regulations) have been satisfied.
 
-## 1. Citation and commencement[^key-3e457043d6d02a96c020a61909068898]
+## 1. Citation and commencement[^c-3e457043d6d02a96c020a61909068898]
 
 These Regulations may be cited as the Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 and come into force on exit day.
 
-## 2. The Foot-and-Mouth Disease (England) Order 2006[^key-b4a058802186a421dac64eb37ae5edd6][^key-71d8b0e26f9a4f357a2a5d221a28fcda]
+## 2. The Foot-and-Mouth Disease (England) Order 2006[^c-b4a058802186a421dac64eb37ae5edd6][^c-71d8b0e26f9a4f357a2a5d221a28fcda]
 
 In the Foot-and-Mouth Disease (England) Order 2006, in Schedule 8, in paragraph 7, for “another” substitute “a”.
 
-## 3. The Foot-and-Mouth Disease (Control of Vaccination) (England) Regulations 2006[^key-fb42764c0d6ec8ea846a7596cc6577aa]
+## 3. The Foot-and-Mouth Disease (Control of Vaccination) (England) Regulations 2006[^c-fb42764c0d6ec8ea846a7596cc6577aa]
 
 (1) The Foot-and-Mouth Disease (Control of Vaccination) (England) Regulations 2006 [^c23490801] are amended as follows.
 
@@ -68,7 +68,7 @@ In the Foot-and-Mouth Disease (England) Order 2006, in Schedule 8, in paragraph 
 
 (3) In regulation 28, for “another” substitute “ a ”.
 
-## 4. The Avian Influenza (Preventive Measures) (England) Regulations 2006[^key-8ab74ccb9b64671b84e63efe9a2d954e]
+## 4. The Avian Influenza (Preventive Measures) (England) Regulations 2006[^c-8ab74ccb9b64671b84e63efe9a2d954e]
 
 (1) The Avian Influenza (Preventive Measures) (England) Regulations 2006 [^c23490811] are amended as follows.
 
@@ -76,7 +76,7 @@ In the Foot-and-Mouth Disease (England) Order 2006, in Schedule 8, in paragraph 
 
 (3) In regulation 11(2)(a) and (3), for “another” substitute “ a ”.
 
-## 5. The Avian Influenza and Influenza of Avian Origin in Mammals (England) (No 2) Order 2006[^key-bc40780e715d0e34063866f6a4a5b296]
+## 5. The Avian Influenza and Influenza of Avian Origin in Mammals (England) (No 2) Order 2006[^c-bc40780e715d0e34063866f6a4a5b296]
 
 (1) The Avian Influenza and Influenza of Avian Origin in Mammals (England) (No 2) Order 2006 [^c23490821] is amended as follows.
 
@@ -88,7 +88,7 @@ In the Foot-and-Mouth Disease (England) Order 2006, in Schedule 8, in paragraph 
 
 (5) In article 63(5), for “intra-Community or international trade” substitute “ export outside the United Kingdom ”.
 
-## 6. The Avian Influenza (Vaccination) (England) Regulations 2006[^key-abefd40a78a505b215a8a1e3cc8841c0]
+## 6. The Avian Influenza (Vaccination) (England) Regulations 2006[^c-abefd40a78a505b215a8a1e3cc8841c0]
 
 (1) The Avian Influenza (Vaccination) (England) Regulations 2006 [^c23490831] are amended as follows.
 
@@ -129,7 +129,7 @@ In the Foot-and-Mouth Disease (England) Order 2006, in Schedule 8, in paragraph 
 - (a) in the heading, for “an approved plan” substitute “ a published emergency vaccination plan ”;
 - (b) in paragraphs (1) and (7), for the words from “approved” to the end substitute “ published by the Secretary of State ”.
 
-## 7. The Avian Influenza (H5N1 in Poultry) (England) Order 2006[^key-827bdd0628d6a1aeded85e9a6eb9e035]
+## 7. The Avian Influenza (H5N1 in Poultry) (England) Order 2006[^c-827bdd0628d6a1aeded85e9a6eb9e035]
 
 (1) The Avian Influenza (H5N1 in Poultry) (England) Order 2006 [^c23490841] is amended as follows.
 
@@ -156,7 +156,7 @@ In the Foot-and-Mouth Disease (England) Order 2006, in Schedule 8, in paragraph 
 
 (6) In article 14(1)(d), for “another” substitute “ a ”.
 
-## 8. The Products of Animal Origin (Disease Control) (England) Regulations 2008[^key-d92a9f5754f94b053ee78bf3cf68dbf2]
+## 8. The Products of Animal Origin (Disease Control) (England) Regulations 2008[^c-d92a9f5754f94b053ee78bf3cf68dbf2]
 
 (1) The Products of Animal Origin (Disease Control) (England) Regulations 2008 [^c23490851] are amended as follows.
 
@@ -164,15 +164,15 @@ In the Foot-and-Mouth Disease (England) Order 2006, in Schedule 8, in paragraph 
 
 (3) In Schedule 3, omit paragraph (1)(b)(iii).
 
-## 9. The Bluetongue Regulations 2008[^key-ad8441a7619070439b075820a9c549d0]
+## 9. The Bluetongue Regulations 2008[^c-ad8441a7619070439b075820a9c549d0]
 
 Omit regulation 19(4)(b) of the Bluetongue Regulations 2008 [^c23490861] (and the “and” immediately preceding it).
 
-## 10. The Poultry Compartments (England) Order 2010[^key-b9b4ff2ce2c5d7b5833b39944d8d6bb4]
+## 10. The Poultry Compartments (England) Order 2010[^c-b9b4ff2ce2c5d7b5833b39944d8d6bb4]
 
 In article 4(1)(f) of the Poultry Compartments (England) Order 2010 [^c23490871], omit “a representative of the European Commission or”.
 
-## 11. The African Horse Sickness (England) Regulations 2012[^key-e4e9ba456588adcb1e3409fd0c113caf]
+## 11. The African Horse Sickness (England) Regulations 2012[^c-e4e9ba456588adcb1e3409fd0c113caf]
 
 Omit regulation 29(8)(b)(ii) of the African Horse Sickness (England) Regulations 2012 [^c23490881] (and the “and” immediately preceding it).
 
@@ -192,44 +192,44 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23490781]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-3e457043d6d02a96c020a61909068898]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-3e457043d6d02a96c020a61909068898]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-b4a058802186a421dac64eb37ae5edd6]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-b4a058802186a421dac64eb37ae5edd6]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-71d8b0e26f9a4f357a2a5d221a28fcda]: Textual amendment: Reg. 2 substituted (31.12.2020 immediately before IP completion day) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [24](https://www.legislation.gov.uk/uksi/2020/1388/regulation/24)
+[^c-71d8b0e26f9a4f357a2a5d221a28fcda]: Textual amendment: Reg. 2 substituted (31.12.2020 immediately before IP completion day) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [24](https://www.legislation.gov.uk/uksi/2020/1388/regulation/24)
 
-[^key-fb42764c0d6ec8ea846a7596cc6577aa]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-fb42764c0d6ec8ea846a7596cc6577aa]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23490801]: Marginal citation: [S.I. 2006/183](https://www.legislation.gov.uk/uksi/2006/183), amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043); there are other amending instruments but none is relevant.
 
-[^key-8ab74ccb9b64671b84e63efe9a2d954e]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-8ab74ccb9b64671b84e63efe9a2d954e]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23490811]: Marginal citation: [S.I. 2006/2701](https://www.legislation.gov.uk/uksi/2006/2701), to which there are amendments not relevant to these Regulations.
 
-[^key-bc40780e715d0e34063866f6a4a5b296]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-bc40780e715d0e34063866f6a4a5b296]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23490821]: Marginal citation: [S.I. 2006/2702](https://www.legislation.gov.uk/uksi/2006/2702), to which there are amendments not relevant to these Regulations.
 
-[^key-abefd40a78a505b215a8a1e3cc8841c0]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-abefd40a78a505b215a8a1e3cc8841c0]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23490831]: Marginal citation: [S.I. 2006/2703](https://www.legislation.gov.uk/uksi/2006/2703), to which there are amendments not relevant to these Regulations.
 
-[^key-827bdd0628d6a1aeded85e9a6eb9e035]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-827bdd0628d6a1aeded85e9a6eb9e035]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23490841]: Marginal citation: [S.I. 2006/3247](https://www.legislation.gov.uk/uksi/2006/3247), to which there are amendments not relevant to these Regulations.
 
-[^key-d92a9f5754f94b053ee78bf3cf68dbf2]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-d92a9f5754f94b053ee78bf3cf68dbf2]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23490851]: Marginal citation: [S.I. 2008/465](https://www.legislation.gov.uk/uksi/2008/465), to which there are amendments not relevant to these Regulations.
 
-[^key-ad8441a7619070439b075820a9c549d0]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-ad8441a7619070439b075820a9c549d0]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23490861]: Marginal citation: [S.I. 2008/962](https://www.legislation.gov.uk/uksi/2008/962), to which there are amendments not relevant to these Regulations.
 
-[^key-b9b4ff2ce2c5d7b5833b39944d8d6bb4]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-b9b4ff2ce2c5d7b5833b39944d8d6bb4]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23490871]: Marginal citation: [S.I. 2010/108](https://www.legislation.gov.uk/uksi/2010/108), to which there are amendments not relevant to these Regulations.
 
-[^key-e4e9ba456588adcb1e3409fd0c113caf]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-e4e9ba456588adcb1e3409fd0c113caf]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23490881]: Marginal citation: [S.I. 2012/2629](https://www.legislation.gov.uk/uksi/2012/2629).

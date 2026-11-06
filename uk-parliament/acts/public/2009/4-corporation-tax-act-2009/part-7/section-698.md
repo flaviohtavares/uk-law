@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 698. Disposals for consideration not fully recognised by accounting practice[^key-fe400dce48dd3efa2358ce1826c1b9c9]
+## 698. Disposals for consideration not fully recognised by accounting practice[^c-fe400dce48dd3efa2358ce1826c1b9c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe400dce48dd3efa2358ce1826c1b9c9]: Textual amendment: S. 698 omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 93](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/93)
+[^c-fe400dce48dd3efa2358ce1826c1b9c9]: Textual amendment: S. 698 omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 93](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/93)

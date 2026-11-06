@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 202. Consultation[^key-6262188a598c0eca7d1ff88727b27e6c]
+## 202. Consultation[^c-6262188a598c0eca7d1ff88727b27e6c]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,14 +27,14 @@ summary: ''
 - (a) the Prudential Regulation Authority has an interest in a transitional direction if the direction—
   - (i) might affect the Authority's discharge of functions conferred on it by or under—
     - (aa) the Act, or
-    - (bb) assimilated[^key-d4b3470ac3637bd33d89f69fdd0a0853] law, or
+    - (bb) assimilated[^c-d4b3470ac3637bd33d89f69fdd0a0853] law, or
   - (ii) would apply to a PRA-authorised person, or to a person connected with a PRA-authorised person;
 - (b) the Financial Conduct Authority has an interest in all transitional directions;
 - (c) the Bank of England has an interest in a transitional direction if the direction—
   - (i) might affect the Bank's discharge of functions conferred on it by or under—
     - (aa) the Act,
     - (bb) the Banking Act 2009 [^c23661141], or
-    - (cc) assimilated[^key-2eefdf948343b34a0c46cef9617bcf80] law, or
+    - (cc) assimilated[^c-2eefdf948343b34a0c46cef9617bcf80] law, or
   - (ii) would apply to—
     - (aa) a central counterparty or a central securities depository, or
     - (bb) a financial counterparty, or a non-financial counterparty, within the meaning of the EMIR regulation.
@@ -56,13 +56,13 @@ summary: ''
 
 ## Annotations
 
-[^key-6262188a598c0eca7d1ff88727b27e6c]: Commencement: Reg. 202 in force at 23.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/2)
+[^c-6262188a598c0eca7d1ff88727b27e6c]: Commencement: Reg. 202 in force at 23.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/2)
 
-[^key-d4b3470ac3637bd33d89f69fdd0a0853]: Textual amendment: Word in [reg. 202(2)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2019/632/regulation/202/2/a/i/bb) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 31(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/31/b)
+[^c-d4b3470ac3637bd33d89f69fdd0a0853]: Textual amendment: Word in [reg. 202(2)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2019/632/regulation/202/2/a/i/bb) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 31(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/31/b)
 
 [^c23661141]: Marginal citation: [2009 c.1](https://www.legislation.gov.uk/ukpga/2009/1).
 
-[^key-2eefdf948343b34a0c46cef9617bcf80]: Textual amendment: Word in [reg. 202(2)(c)(i)(cc)](https://www.legislation.gov.uk/uksi/2019/632/regulation/202/2/c/i/cc) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 31(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/31/b)
+[^c-2eefdf948343b34a0c46cef9617bcf80]: Textual amendment: Word in [reg. 202(2)(c)(i)(cc)](https://www.legislation.gov.uk/uksi/2019/632/regulation/202/2/c/i/cc) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 31(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/31/b)
 
 [^c23661151]: Marginal citation: The definitions of “central counterparty” and “the EMIR regulation” were inserted by [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504).
 

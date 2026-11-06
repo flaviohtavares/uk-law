@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 177. Application to court for order authorising return of capital[^key-06d932c7e6d38df9df63fa4dd94446fb]
+## 177. Application to court for order authorising return of capital[^c-06d932c7e6d38df9df63fa4dd94446fb]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.231 of the 1991 Rules.
 
 ## Annotations
 
-[^key-06d932c7e6d38df9df63fa4dd94446fb]: Commencement: Rule 177 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-06d932c7e6d38df9df63fa4dd94446fb]: Commencement: Rule 177 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

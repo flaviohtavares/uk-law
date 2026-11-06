@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Transfer of restricted technology[^key-9f291ab1dccd6f29a09fcc94c02b8e2c]
+## 27. Transfer of restricted technology[^c-9f291ab1dccd6f29a09fcc94c02b8e2c]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f291ab1dccd6f29a09fcc94c02b8e2c]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-9f291ab1dccd6f29a09fcc94c02b8e2c]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

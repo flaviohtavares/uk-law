@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Disregard of certain improvements, etc.[^key-32919f087764ffc8c744b66160102e8a]
+## 44. Disregard of certain improvements, etc.[^c-32919f087764ffc8c744b66160102e8a]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ if the tribunal is satisfied that the creation of the interest, the erection of 
 
 ## Annotations
 
-[^key-32919f087764ffc8c744b66160102e8a]: Commencement: Art. 44 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-32919f087764ffc8c744b66160102e8a]: Commencement: Art. 44 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)

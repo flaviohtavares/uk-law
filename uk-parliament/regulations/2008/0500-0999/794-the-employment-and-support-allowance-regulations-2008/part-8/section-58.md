@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 58. Action plan[^key-5efb270a8ee56af7d9aaff34624f9ee6]
+## 58. Action plan[^c-5efb270a8ee56af7d9aaff34624f9ee6]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5efb270a8ee56af7d9aaff34624f9ee6]: Textual amendment: Reg. 58 revoked (1.6.2011) by [The Employment and Support Allowance (Work-Related Activity) Regulations 2011 (S.I. 2011/1349)](https://www.legislation.gov.uk/uksi/2011/1349), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1349/regulation/1), [14](https://www.legislation.gov.uk/uksi/2011/1349/regulation/14)
+[^c-5efb270a8ee56af7d9aaff34624f9ee6]: Textual amendment: Reg. 58 revoked (1.6.2011) by [The Employment and Support Allowance (Work-Related Activity) Regulations 2011 (S.I. 2011/1349)](https://www.legislation.gov.uk/uksi/2011/1349), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1349/regulation/1), [14](https://www.legislation.gov.uk/uksi/2011/1349/regulation/14)

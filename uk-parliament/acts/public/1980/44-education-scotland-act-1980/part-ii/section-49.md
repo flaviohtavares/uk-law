@@ -28,7 +28,7 @@ summary: ''
 - (b) the fees and expenses payable in respect of persons attending schools at which fees are payable;
 - (c) the maintenance expenses of persons over school age who are attending schools.
 
-(2ZA)[^key-9c79bd930114102a77c04a56b6fac964] Before exercising the power conferred by subsection (2)(b) in respect of a person attending an independent school an education authority must have regard to the matter mentioned in section 50A.
+(2ZA)[^c-9c79bd930114102a77c04a56b6fac964] Before exercising the power conferred by subsection (2)(b) in respect of a person attending an independent school an education authority must have regard to the matter mentioned in section 50A.
 
 (2A)[^c9694541] In subsection (2) above, references to attending school are to so attending not only where the school is in Scotland, but also where it is in England and Wales or in Northern Ireland (“school education” being construed accordingly).
 
@@ -49,6 +49,6 @@ and regulations made under this subsection may contain provision for the determi
 
     S. 49(2) restricted (1.8.1995) by [S.I. 1995/1739](https://www.legislation.gov.uk/uksi/1995/1739), [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/1995/1739/regulation/3/1/b).
 
-[^key-9c79bd930114102a77c04a56b6fac964]: Textual amendment: [S. 49(2ZA)](https://www.legislation.gov.uk/ukpga/1980/44/section/49/2ZA) inserted (4.8.2008) by [Schools (Health Promotion and Nutrition) (Scotland) Act 2007 (asp 15)](https://www.legislation.gov.uk/asp/2007/15), [ss. 5(1)](https://www.legislation.gov.uk/asp/2007/15/section/5/1), [11(2)](https://www.legislation.gov.uk/asp/2007/15/section/11/2); [S.S.I. 2008/171](https://www.legislation.gov.uk/ssi/2008/171), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/171/article/2/2)
+[^c-9c79bd930114102a77c04a56b6fac964]: Textual amendment: [S. 49(2ZA)](https://www.legislation.gov.uk/ukpga/1980/44/section/49/2ZA) inserted (4.8.2008) by [Schools (Health Promotion and Nutrition) (Scotland) Act 2007 (asp 15)](https://www.legislation.gov.uk/asp/2007/15), [ss. 5(1)](https://www.legislation.gov.uk/asp/2007/15/section/5/1), [11(2)](https://www.legislation.gov.uk/asp/2007/15/section/11/2); [S.S.I. 2008/171](https://www.legislation.gov.uk/ssi/2008/171), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/171/article/2/2)
 
 [^c9694541]: Textual amendment: S. 49(2A) inserted by Self-[Governing Schools etc. (Scotland) Act 1989 (c. 39, SIF 41:2)](https://www.legislation.gov.uk/ukpga/1989/39), [s. 82(1)](https://www.legislation.gov.uk/ukpga/1989/39/section/82/1), [Sch. 10 para. 8(9)](https://www.legislation.gov.uk/ukpga/1989/39/schedule/10/paragraph/8/9)

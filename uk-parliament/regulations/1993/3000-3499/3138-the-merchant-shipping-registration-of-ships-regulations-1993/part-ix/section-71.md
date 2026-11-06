@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Transfer of registration to relevant British possession[^key-7da6e09f55565682265e630b5c092c70]
+## 71. Transfer of registration to relevant British possession[^c-7da6e09f55565682265e630b5c092c70]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ and any certificate purporting to be signed by the registrar of the intended por
 
 ## Annotations
 
-[^key-7da6e09f55565682265e630b5c092c70]: Commencement: [Reg. 71](https://www.legislation.gov.uk/uksi/1993/3138/regulation/71) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-7da6e09f55565682265e630b5c092c70]: Commencement: [Reg. 71](https://www.legislation.gov.uk/uksi/1993/3138/regulation/71) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
 
 [^f00012]: Footnote: [1988 c. 12](https://www.legislation.gov.uk/ukpga/1988/12).

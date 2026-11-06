@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Appeals and claims by children: follow-up provision[^key-b69d9f87dcf51e2fb08cd6d9ec8226a4]
+## 59. Appeals and claims by children: follow-up provision[^c-b69d9f87dcf51e2fb08cd6d9ec8226a4]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b69d9f87dcf51e2fb08cd6d9ec8226a4]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2014/6/section/59) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)
+[^c-b69d9f87dcf51e2fb08cd6d9ec8226a4]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2014/6/section/59) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)

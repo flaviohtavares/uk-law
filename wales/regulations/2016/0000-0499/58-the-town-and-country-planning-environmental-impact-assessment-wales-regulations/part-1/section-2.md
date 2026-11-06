@@ -76,7 +76,7 @@ summary: ''
   - (a) land notified under section 28(1) (sites of special scientific interest) of the Wildlife and Countryside Act 1981 *(affected by repeal, see note)*[^M_F_209d1942-cb0d-4153-dd8a-58d3bb91c88d] [^c23296771];
   - (b) a National Park within the meaning of the National Parks and Access to the Countryside Act 1949 *(affected by repeal, see note)*[^M_F_209d1942-cb0d-4153-dd8a-58d3bb91c88d] [^c23296781];
   - (c) a property appearing on the World Heritage List kept under article 11(2) of the 1972 UNESCO Convention for the Protection of the World Cultural and Natural Heritage *(affected by repeal, see note)*[^M_F_209d1942-cb0d-4153-dd8a-58d3bb91c88d] [^c23296791];
-  - (d) a scheduled monument within the meaning given by section 3 of the Historic Environment (Wales) Act 2023;[^key-071b0f0ad5ea1806c69885e47b4af44b] *(affected by repeal, see note)*[^M_F_209d1942-cb0d-4153-dd8a-58d3bb91c88d]
+  - (d) a scheduled monument within the meaning given by section 3 of the Historic Environment (Wales) Act 2023;[^c-071b0f0ad5ea1806c69885e47b4af44b] *(affected by repeal, see note)*[^M_F_209d1942-cb0d-4153-dd8a-58d3bb91c88d]
   - (e) an area of outstanding natural beauty designated as such by an order made under section 82(2) (areas of outstanding natural beauty) of the Countryside and Rights of Way Act 2000 *(affected by repeal, see note)*[^M_F_209d1942-cb0d-4153-dd8a-58d3bb91c88d] [^c23296811];
   - (f) a European site within the meaning of regulation 8 of the Conservation of Habitats and Species Regulations 2010 *(affected by repeal, see note)*[^M_F_209d1942-cb0d-4153-dd8a-58d3bb91c88d] [^c23296821];
 - “**subsequent application *(affected by repeal, see note)*[^M_F_209d1942-cb0d-4153-dd8a-58d3bb91c88d]**” (“***cais dilynol *(affected by repeal, see note)*[^M_F_209d1942-cb0d-4153-dd8a-58d3bb91c88d]***”) means an application for consent, agreement or approval of a matter where the approval— *(affected by repeal, see note)*[^M_F_209d1942-cb0d-4153-dd8a-58d3bb91c88d]
@@ -126,7 +126,7 @@ summary: ''
 
 [^c23296791]: Marginal citation: *See* Command Paper 9424 and http:/whc.unesco.org/en/list.
 
-[^key-071b0f0ad5ea1806c69885e47b4af44b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/58/regulation/2/1) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [84](https://www.legislation.gov.uk/wsi/2024/924/regulation/84)
+[^c-071b0f0ad5ea1806c69885e47b4af44b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/58/regulation/2/1) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [84](https://www.legislation.gov.uk/wsi/2024/924/regulation/84)
 
 [^c23296811]: Marginal citation: [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37). Section 82(2) was amended by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755).
 

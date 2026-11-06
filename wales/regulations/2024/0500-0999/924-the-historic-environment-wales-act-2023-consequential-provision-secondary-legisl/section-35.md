@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**35.**[^key-2e1f114a445d22210e76f24c45bf2fa4] For regulation 4(2)(a)(ii) substitute—
+**35.**[^c-2e1f114a445d22210e76f24c45bf2fa4] For regulation 4(2)(a)(ii) substitute—
 
 > - (ii) section 178(5) of the 2023 Act;
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e1f114a445d22210e76f24c45bf2fa4]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2024/924/regulation/35) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-2e1f114a445d22210e76f24c45bf2fa4]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2024/924/regulation/35) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Failure to attend for or perform duty etc[^key-6c78e8cbdb95e3d799d1584c6342a799][^key-81128b433f05eca54201d9b35a304e18][^key-f5194cda724eb07b7d61f222578f6cd4]
+## 15. Failure to attend for or perform duty etc[^c-6c78e8cbdb95e3d799d1584c6342a799][^c-81128b433f05eca54201d9b35a304e18][^c-f5194cda724eb07b7d61f222578f6cd4]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,8 +32,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6c78e8cbdb95e3d799d1584c6342a799]: Commencement: S. 15 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-6c78e8cbdb95e3d799d1584c6342a799]: Commencement: S. 15 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-81128b433f05eca54201d9b35a304e18]: Commencement: S. 15 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-81128b433f05eca54201d9b35a304e18]: Commencement: S. 15 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-f5194cda724eb07b7d61f222578f6cd4]: Modification: S. 15 modified (31.10.2009) by [The Armed Forces (Naval Chaplains) Regulations 2009 (S.I. 2009/826)](https://www.legislation.gov.uk/uksi/2009/826), [regs. 1](https://www.legislation.gov.uk/uksi/2009/826/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2009/826/regulation/5/4) (with [reg. 2(c)](https://www.legislation.gov.uk/uksi/2009/826/regulation/2/c))
+[^c-f5194cda724eb07b7d61f222578f6cd4]: Modification: S. 15 modified (31.10.2009) by [The Armed Forces (Naval Chaplains) Regulations 2009 (S.I. 2009/826)](https://www.legislation.gov.uk/uksi/2009/826), [regs. 1](https://www.legislation.gov.uk/uksi/2009/826/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2009/826/regulation/5/4) (with [reg. 2(c)](https://www.legislation.gov.uk/uksi/2009/826/regulation/2/c))

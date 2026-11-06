@@ -25,15 +25,15 @@ summary: ''
 (2) In this article—
 
 - (a) “company" means any body corporate other than an open-ended investment company;
-- (b) “shares" and “debentures" include any investment of the kind specified by article 76 , 77 or 77A[^key-987f8e812b9f2aadf5005b5116075bb2];
-- (c) “share warrants" and “debenture warrants" mean any investment of the kind specified by article 79 which relates to shares in the company concerned or, as the case may be, debentures issued by the person concerned[^key-9ab00bec026e758f3c4764483e28a761].
+- (b) “shares" and “debentures" include any investment of the kind specified by article 76 , 77 or 77A[^c-987f8e812b9f2aadf5005b5116075bb2];
+- (c) “share warrants" and “debenture warrants" mean any investment of the kind specified by article 79 which relates to shares in the company concerned or, as the case may be, debentures issued by the person concerned[^c-9ab00bec026e758f3c4764483e28a761].
 
-(3)[^key-1a88e1d0a32229416abc75969663ce57] This article is subject to article 4(4).
+(3)[^c-1a88e1d0a32229416abc75969663ce57] This article is subject to article 4(4).
 
 ## Annotations
 
-[^key-987f8e812b9f2aadf5005b5116075bb2]: Textual amendment: Words in art. 18(2)(b) substituted (24.2.2010) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2010 (S.I. 2010/86)](https://www.legislation.gov.uk/uksi/2010/86), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/86/article/1/2), [Sch. para. 5(a)](https://www.legislation.gov.uk/uksi/2010/86/schedule/paragraph/5/a)
+[^c-987f8e812b9f2aadf5005b5116075bb2]: Textual amendment: Words in art. 18(2)(b) substituted (24.2.2010) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2010 (S.I. 2010/86)](https://www.legislation.gov.uk/uksi/2010/86), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/86/article/1/2), [Sch. para. 5(a)](https://www.legislation.gov.uk/uksi/2010/86/schedule/paragraph/5/a)
 
-[^key-9ab00bec026e758f3c4764483e28a761]: Textual amendment: Words in art. 18(2)(c) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2001 (S.I. 2001/3544)](https://www.legislation.gov.uk/uksi/2001/3544), [arts. 1(a)](https://www.legislation.gov.uk/uksi/2001/3544/article/1/a), [4](https://www.legislation.gov.uk/uksi/2001/3544/article/4)
+[^c-9ab00bec026e758f3c4764483e28a761]: Textual amendment: Words in art. 18(2)(c) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2001 (S.I. 2001/3544)](https://www.legislation.gov.uk/uksi/2001/3544), [arts. 1(a)](https://www.legislation.gov.uk/uksi/2001/3544/article/1/a), [4](https://www.legislation.gov.uk/uksi/2001/3544/article/4)
 
-[^key-1a88e1d0a32229416abc75969663ce57]: Textual amendment: Art. 18(3) inserted (1.4.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2017 (S.I. 2017/488)](https://www.legislation.gov.uk/uksi/2017/488), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2), [12(4)](https://www.legislation.gov.uk/uksi/2017/488/article/12/4)
+[^c-1a88e1d0a32229416abc75969663ce57]: Textual amendment: Art. 18(3) inserted (1.4.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2017 (S.I. 2017/488)](https://www.legislation.gov.uk/uksi/2017/488), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2), [12(4)](https://www.legislation.gov.uk/uksi/2017/488/article/12/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Action which may be taken by a plant health inspector[^key-d66f8ca6bf136fdcaa0eb92e5b091472]
+## 16. Action which may be taken by a plant health inspector[^c-d66f8ca6bf136fdcaa0eb92e5b091472]
 
 *Extent: S*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (3) Paragraph (1) does not apply to any premises which are used wholly or mainly as a private dwelling unless 24 hours' notice has been given to the occupier.
 
-(4) A plant health inspector may be accompanied by such other persons [^key-4dc5763171b7c69ba4355b2f2e068aba]... and may bring onto the premises such equipment and vehicles as the inspector considers necessary.
+(4) A plant health inspector may be accompanied by such other persons [^c-4dc5763171b7c69ba4355b2f2e068aba]... and may bring onto the premises such equipment and vehicles as the inspector considers necessary.
 
 (5) A person accompanying a plant health inspector under paragraph (4) may—
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d66f8ca6bf136fdcaa0eb92e5b091472]: Commencement: Reg. 16 in force at 14.12.2019, see reg. 1(1)
+[^c-d66f8ca6bf136fdcaa0eb92e5b091472]: Commencement: Reg. 16 in force at 14.12.2019, see reg. 1(1)
 
-[^key-4dc5763171b7c69ba4355b2f2e068aba]: Textual amendment: Words in [reg. 16(4)](https://www.legislation.gov.uk/ssi/2019/421/regulation/16/4) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [15(2)](https://www.legislation.gov.uk/ssi/2020/466/regulation/15/2) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-4dc5763171b7c69ba4355b2f2e068aba]: Textual amendment: Words in [reg. 16(4)](https://www.legislation.gov.uk/ssi/2019/421/regulation/16/4) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [15(2)](https://www.legislation.gov.uk/ssi/2020/466/regulation/15/2) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))

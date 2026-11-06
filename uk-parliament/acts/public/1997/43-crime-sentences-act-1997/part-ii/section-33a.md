@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33A. Life prisoners also serving fixed-term sentence[^key-811aadb9d2495a210a1f4e6ff754d99f]
+## 33A. Life prisoners also serving fixed-term sentence[^c-811aadb9d2495a210a1f4e6ff754d99f]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-811aadb9d2495a210a1f4e6ff754d99f]: Textual amendment: [S. 33A](https://www.legislation.gov.uk/ukpga/1997/43/section/33A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 144(1)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/144/1/b), [208(5)(p)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/p)
+[^c-811aadb9d2495a210a1f4e6ff754d99f]: Textual amendment: [S. 33A](https://www.legislation.gov.uk/ukpga/1997/43/section/33A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 144(1)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/144/1/b), [208(5)(p)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/p)

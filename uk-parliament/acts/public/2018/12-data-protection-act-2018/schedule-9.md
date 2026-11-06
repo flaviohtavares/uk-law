@@ -22,18 +22,18 @@ summary: ''
 
 Section 86
 
-**1.**[^key-294f9f790bda664a2188b1b513ce0b8a] The data subject has given consent to the processing.
+**1.**[^c-294f9f790bda664a2188b1b513ce0b8a] The data subject has given consent to the processing.
 
-**2.**[^key-16bde097283134ad53e67bc7eced6507] The processing is necessary—
+**2.**[^c-16bde097283134ad53e67bc7eced6507] The processing is necessary—
 
 - (a) for the performance of a contract to which the data subject is a party, or
 - (b) in order to take steps at the request of the data subject prior to entering into a contract.
 
-**3.**[^key-1c131e673e4b114091bed8a61ac7815e] The processing is necessary for compliance with a legal obligation to which the controller is subject, other than an obligation imposed by contract.
+**3.**[^c-1c131e673e4b114091bed8a61ac7815e] The processing is necessary for compliance with a legal obligation to which the controller is subject, other than an obligation imposed by contract.
 
-**4.**[^key-efeacacfef60e8ff1a67439770fe3b48] The processing is necessary in order to protect the vital interests of the data subject or of another individual.
+**4.**[^c-efeacacfef60e8ff1a67439770fe3b48] The processing is necessary in order to protect the vital interests of the data subject or of another individual.
 
-**5.**[^key-0d4b111311777831fdffba581e848ea6] The processing is necessary—
+**5.**[^c-0d4b111311777831fdffba581e848ea6] The processing is necessary—
 
 - (a) for the administration of justice,
 - (b) for the exercise of any functions of either House of Parliament,
@@ -41,7 +41,7 @@ Section 86
 - (d) for the exercise of any functions of the Crown, a Minister of the Crown or a government department, or
 - (e) for the exercise of any other functions of a public nature exercised in the public interest by a person.
 
-**6.**[^key-56a85299b8061657d3e11b677b355c71] (1) The processing is necessary for the purposes of legitimate interests pursued by—
+**6.**[^c-56a85299b8061657d3e11b677b355c71] (1) The processing is necessary for the purposes of legitimate interests pursued by—
 
 - (a) the controller, or
 - (b) the third party or parties to whom the data is disclosed.
@@ -52,14 +52,14 @@ Section 86
 
 ## Annotations
 
-[^key-294f9f790bda664a2188b1b513ce0b8a]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2018/12/schedule/9/paragraph/1) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)
+[^c-294f9f790bda664a2188b1b513ce0b8a]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2018/12/schedule/9/paragraph/1) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)
 
-[^key-16bde097283134ad53e67bc7eced6507]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2018/12/schedule/9/paragraph/2) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)
+[^c-16bde097283134ad53e67bc7eced6507]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2018/12/schedule/9/paragraph/2) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)
 
-[^key-1c131e673e4b114091bed8a61ac7815e]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2018/12/schedule/9/paragraph/3) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)
+[^c-1c131e673e4b114091bed8a61ac7815e]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2018/12/schedule/9/paragraph/3) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)
 
-[^key-efeacacfef60e8ff1a67439770fe3b48]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2018/12/schedule/9/paragraph/4) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)
+[^c-efeacacfef60e8ff1a67439770fe3b48]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2018/12/schedule/9/paragraph/4) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)
 
-[^key-0d4b111311777831fdffba581e848ea6]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2018/12/schedule/9/paragraph/5) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)
+[^c-0d4b111311777831fdffba581e848ea6]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2018/12/schedule/9/paragraph/5) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)
 
-[^key-56a85299b8061657d3e11b677b355c71]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2018/12/schedule/9/paragraph/6) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)
+[^c-56a85299b8061657d3e11b677b355c71]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2018/12/schedule/9/paragraph/6) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)

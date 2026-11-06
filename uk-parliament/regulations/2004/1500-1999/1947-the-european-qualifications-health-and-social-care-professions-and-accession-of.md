@@ -169,43 +169,43 @@ The Secretary of State for Health, being a Minister designated for the purposes 
 
 ## DOCTORS—SPECIALISTS AND GENERAL MEDICAL PRACTITIONERS
 
-### 4. Performance of functions under Schedule 8 to the General and Specialist Medical Practice (Education, Training and Qualifications) Order 2003[^key-8bf6cc2131e41f1a0ca5b9d161ccb57e]
+### 4. Performance of functions under Schedule 8 to the General and Specialist Medical Practice (Education, Training and Qualifications) Order 2003[^c-8bf6cc2131e41f1a0ca5b9d161ccb57e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. General and Specialist Medical Practice (Education, Training and Qualifications) Order 2003[^key-8bf6cc2131e41f1a0ca5b9d161ccb57e]
+### 5. General and Specialist Medical Practice (Education, Training and Qualifications) Order 2003[^c-8bf6cc2131e41f1a0ca5b9d161ccb57e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Medical Practitioners (Vocational Training) Regulations (Northern Ireland) 1998[^key-8bf6cc2131e41f1a0ca5b9d161ccb57e]
+### 6. Medical Practitioners (Vocational Training) Regulations (Northern Ireland) 1998[^c-8bf6cc2131e41f1a0ca5b9d161ccb57e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. The National Health Service (Vocational Training for General Medical Practice) (Scotland) Regulations 1998[^key-8bf6cc2131e41f1a0ca5b9d161ccb57e]
+### 7. The National Health Service (Vocational Training for General Medical Practice) (Scotland) Regulations 1998[^c-8bf6cc2131e41f1a0ca5b9d161ccb57e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. The National Health Service (Vocational Training for General Medical Practice) Regulations 1997[^key-8bf6cc2131e41f1a0ca5b9d161ccb57e]
+### 8. The National Health Service (Vocational Training for General Medical Practice) Regulations 1997[^c-8bf6cc2131e41f1a0ca5b9d161ccb57e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. The European Specialist Medical Qualifications Order 1995[^key-8bf6cc2131e41f1a0ca5b9d161ccb57e]
+### 9. The European Specialist Medical Qualifications Order 1995[^c-8bf6cc2131e41f1a0ca5b9d161ccb57e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. The Vocational Training for General Medical Practice (European Requirements) Regulations 1994[^key-8bf6cc2131e41f1a0ca5b9d161ccb57e]
+### 10. The Vocational Training for General Medical Practice (European Requirements) Regulations 1994[^c-8bf6cc2131e41f1a0ca5b9d161ccb57e]
 
 **No longer in force.**
 
@@ -444,7 +444,7 @@ The Secretary of State for Health, being a Minister designated for the purposes 
 
 ## PHARMACISTS
 
-### 13. Pharmacy Act 1954[^key-b0cd587d6e270aa75c91757716c1814f]
+### 13. Pharmacy Act 1954[^c-b0cd587d6e270aa75c91757716c1814f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -595,7 +595,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c5255371]: Marginal citation: Cm 6171. The Agreement was presented to Parliament as a Command Paper and it is published by the Stationery Office.
 
-[^key-8bf6cc2131e41f1a0ca5b9d161ccb57e]: Textual amendment: [Regs. 4-10](https://www.legislation.gov.uk/uksi/2004/1947/regulation/4) revoked (1.4.2010) by [The General and Specialist Medical Practice (Education, Training and Qualifications) Order 2010 (S.I. 2010/234)](https://www.legislation.gov.uk/uksi/2010/234), [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/234/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2010/234/article/1/4), [Sch. 3 Pt. 3](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/part/3); [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
+[^c-8bf6cc2131e41f1a0ca5b9d161ccb57e]: Textual amendment: [Regs. 4-10](https://www.legislation.gov.uk/uksi/2004/1947/regulation/4) revoked (1.4.2010) by [The General and Specialist Medical Practice (Education, Training and Qualifications) Order 2010 (S.I. 2010/234)](https://www.legislation.gov.uk/uksi/2010/234), [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/234/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2010/234/article/1/4), [Sch. 3 Pt. 3](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/part/3); [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
 
 [^c5255591]: Marginal citation: [1984 c. 24](https://www.legislation.gov.uk/ukpga/1984/24); as amended by [S.I. 1996/1496](https://www.legislation.gov.uk/uksi/1996/1496), 1998/811 and 2003/3148. There are other amendments to the Act not relevant to these Regulations.
 
@@ -603,7 +603,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c5255631]: Marginal citation: Cm. 6171.
 
-[^key-b0cd587d6e270aa75c91757716c1814f]: Textual amendment: Reg. 13 omitted (coming into force in accordance with art. 1(2)(3) of the amending Order) by virtue of [The Pharmacists and Pharmacy Technicians Order 2007 (S.I. 2007/289)](https://www.legislation.gov.uk/uksi/2007/289), [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2007/289/schedule/1/paragraph/38)
+[^c-b0cd587d6e270aa75c91757716c1814f]: Textual amendment: Reg. 13 omitted (coming into force in accordance with art. 1(2)(3) of the amending Order) by virtue of [The Pharmacists and Pharmacy Technicians Order 2007 (S.I. 2007/289)](https://www.legislation.gov.uk/uksi/2007/289), [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2007/289/schedule/1/paragraph/38)
 
 [^c5255701]: Marginal citation: [S.I. 1998/1328](https://www.legislation.gov.uk/uksi/1998/1328); as amended by [S.I. 2003/3148](https://www.legislation.gov.uk/uksi/2003/3148).
 

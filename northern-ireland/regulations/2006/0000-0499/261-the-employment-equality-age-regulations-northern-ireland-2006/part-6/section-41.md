@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Jurisdiction of industrial tribunals[^key-a3d8ad95f750cb2879a0bdd930a41013]
+## 41. Jurisdiction of industrial tribunals[^c-a3d8ad95f750cb2879a0bdd930a41013]
 
 *Extent: N.I.*
 
@@ -33,7 +33,7 @@ may be presented to an industrial tribunal.
 - (b) regulation 24 (institutions of further and higher education); or
 - (c) where the act arises out of and is closely connected to a relationship between the complainant and the respondent which has come to an end but during the course of which an act of discrimination against, or harassment of, the complainant by the respondent would have been unlawful by virtue of regulation 25 (relationships which have come to an end).
 
-(3) In paragraph (2)(c), reference to an act of discrimination or harassment which would have been unlawful includes, in the case of a relationship which has come to an end before the date on which the act of discrimination or harassment became unlawful by virtue of these Regulations[^key-ea340728dda0765c67b4705b0199213d] , reference to an act of discrimination or harassment which would, after that date, have been unlawful.
+(3) In paragraph (2)(c), reference to an act of discrimination or harassment which would have been unlawful includes, in the case of a relationship which has come to an end before the date on which the act of discrimination or harassment became unlawful by virtue of these Regulations[^c-ea340728dda0765c67b4705b0199213d] , reference to an act of discrimination or harassment which would, after that date, have been unlawful.
 
 (4) Where a complaint is presented to an industrial tribunal under paragraph (1) and it appears to the tribunal that the act to which the complaint relates is one in respect of which (as being unlawful discrimination within the meaning of the Fair Employment and Treatment (Northern Ireland) Order 1998[^f00032])—
 
@@ -44,8 +44,8 @@ the tribunal shall not proceed further under these Regulations in relation to th
 
 ## Annotations
 
-[^key-a3d8ad95f750cb2879a0bdd930a41013]: Commencement: [Reg. 41](https://www.legislation.gov.uk/nisr/2006/261/regulation/41) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-a3d8ad95f750cb2879a0bdd930a41013]: Commencement: [Reg. 41](https://www.legislation.gov.uk/nisr/2006/261/regulation/41) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
-[^key-ea340728dda0765c67b4705b0199213d]: Textual amendment: Words in [reg. 41(3)](https://www.legislation.gov.uk/nisr/2006/261/regulation/41/3) substituted (30.9.2006) by [The Employment Equality (Age) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/395)](https://www.legislation.gov.uk/nisr/2006/395), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/395/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2006/395/regulation/2/4)
+[^c-ea340728dda0765c67b4705b0199213d]: Textual amendment: Words in [reg. 41(3)](https://www.legislation.gov.uk/nisr/2006/261/regulation/41/3) substituted (30.9.2006) by [The Employment Equality (Age) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/395)](https://www.legislation.gov.uk/nisr/2006/395), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/395/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2006/395/regulation/2/4)
 
 [^f00032]: Footnote: S.I. [1998/3162 (N.I. 21)](https://www.legislation.gov.uk/nisi/1998/3162)

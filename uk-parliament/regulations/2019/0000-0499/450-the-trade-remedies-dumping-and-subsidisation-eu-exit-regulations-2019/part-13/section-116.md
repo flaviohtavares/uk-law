@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116.[^key-a256f4e0146577c2fe8e22930f6b01e8]
+## 116.[^c-a256f4e0146577c2fe8e22930f6b01e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ Regulation 71 (new exporter review) has effect as if—
 
 ## Annotations
 
-[^key-a256f4e0146577c2fe8e22930f6b01e8]: Commencement: Reg. 116 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-a256f4e0146577c2fe8e22930f6b01e8]: Commencement: Reg. 116 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

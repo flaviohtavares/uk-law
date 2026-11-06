@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Traffic regulation[^key-5c763ecbc8c57fb27455fd3bdb1d7e89]
+## 39. Traffic regulation[^c-5c763ecbc8c57fb27455fd3bdb1d7e89]
 
 *Extent: E+W*
 
@@ -60,6 +60,6 @@ either at all times or at times, on days or during such periods as may be specif
 
 ## Annotations
 
-[^key-5c763ecbc8c57fb27455fd3bdb1d7e89]: Commencement: Art. 39 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-5c763ecbc8c57fb27455fd3bdb1d7e89]: Commencement: Art. 39 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
 
 [^f00026]: Footnote: [2004 c. 18](https://www.legislation.gov.uk/ukpga/2004/18).

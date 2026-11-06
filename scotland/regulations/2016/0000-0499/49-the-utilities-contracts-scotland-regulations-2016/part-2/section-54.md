@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Occasional joint procurement[^key-920f31d20f0d0ccad9308a7cdfd43b23]
+## 54. Occasional joint procurement[^c-920f31d20f0d0ccad9308a7cdfd43b23]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-920f31d20f0d0ccad9308a7cdfd43b23]: Commencement: [Reg. 54](https://www.legislation.gov.uk/ssi/2016/49/regulation/54) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-920f31d20f0d0ccad9308a7cdfd43b23]: Commencement: [Reg. 54](https://www.legislation.gov.uk/ssi/2016/49/regulation/54) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

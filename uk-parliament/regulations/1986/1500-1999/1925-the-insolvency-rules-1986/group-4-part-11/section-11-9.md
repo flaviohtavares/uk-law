@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11.9. Secured creditors[^key-12a3c7fad77b9d93e2203cf4552a794c]
+## 11.9. Secured creditors[^c-12a3c7fad77b9d93e2203cf4552a794c]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ However, the creditor is not entitled to disturb any dividend declared (whether 
 
 ## Annotations
 
-[^key-12a3c7fad77b9d93e2203cf4552a794c]: Commencement: [Rule 11.9](https://www.legislation.gov.uk/uksi/1986/1925/rule/11.9) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-12a3c7fad77b9d93e2203cf4552a794c]: Commencement: [Rule 11.9](https://www.legislation.gov.uk/uksi/1986/1925/rule/11.9) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

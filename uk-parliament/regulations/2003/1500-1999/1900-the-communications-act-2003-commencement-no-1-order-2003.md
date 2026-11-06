@@ -63,7 +63,7 @@ The Secretary of State, in exercise of the powers conferred on her by section 40
 
 (1) The transitionally commenced provisions are brought into force by this Order on 25th July 2003 or (as the case may be) 18th September 2003 for the purpose only of enabling the networks and services functions and the spectrum functions under those provisions to be carried out during the transitional period by the Director General of Telecommunications and the Secretary of State respectively.
 
-(2)[^key-523a0b741d54ffd8a8f6281da47c8e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-523a0b741d54ffd8a8f6281da47c8e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 4. Transitional provisions: section 264 of the Act
 
@@ -285,7 +285,7 @@ Including the provisions which by virtue of section 411(2) and (3) of the Act ca
 
 [^c5064221]: Marginal citation: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-523a0b741d54ffd8a8f6281da47c8e8c]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/3/2) revoked (8.12.2003) by [The Office of Communications Act 2002 (Commencement No. 3) and Communications Act 2003 (Commencement No. 2) Order 2003 (S.I. 2003/3142)](https://www.legislation.gov.uk/uksi/2003/3142), [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/3142/article/1/3) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-523a0b741d54ffd8a8f6281da47c8e8c]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/3/2) revoked (8.12.2003) by [The Office of Communications Act 2002 (Commencement No. 3) and Communications Act 2003 (Commencement No. 2) Order 2003 (S.I. 2003/3142)](https://www.legislation.gov.uk/uksi/2003/3142), [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/3142/article/1/3) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
 [^c5064241]: Marginal citation: [Sections 5(7)(c)](https://www.legislation.gov.uk/uksi/2003/1900/section/5/7/c) and 88(7)(c) were amended by paragraph 12(3)(a) of Part 5 of Schedule 2 to the 1996 Act and by paragraph 13(3)(a) of that Part of that Schedule, respectively.
 

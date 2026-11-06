@@ -24,10 +24,10 @@ summary: ''
 
 (2) A statutory instrument containing—
 
-- (za)[^key-d45ca5a464e717e10e18403c25b197e8] regulations under section B1(7),
+- (za)[^c-d45ca5a464e717e10e18403c25b197e8] regulations under section B1(7),
 - (a) an order under section 5(5),
 - (b) an order under section 53(4),
-- (ba)[^key-8ddf4dc2c003e02d492e49de03e3b3d7] regulations under section 83A,
+- (ba)[^c-8ddf4dc2c003e02d492e49de03e3b3d7] regulations under section 83A,
 - (c) regulations under section 116(5)(b), or
 - (d) an order under section 181(2) that amends an Act,
 
@@ -53,6 +53,6 @@ is subject to annulment in pursuance of a resolution of the National Assembly fo
 
 ## Annotations
 
-[^key-d45ca5a464e717e10e18403c25b197e8]: Textual amendment: [S. 182(2)(za)](https://www.legislation.gov.uk/ukpga/2014/12/section/182/2/za) inserted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/1/3), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/a)
+[^c-d45ca5a464e717e10e18403c25b197e8]: Textual amendment: [S. 182(2)(za)](https://www.legislation.gov.uk/ukpga/2014/12/section/182/2/za) inserted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/1/3), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/a)
 
-[^key-8ddf4dc2c003e02d492e49de03e3b3d7]: Textual amendment: [S. 182(2)(ba)](https://www.legislation.gov.uk/ukpga/2014/12/section/182/2/ba) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 3(6)](https://www.legislation.gov.uk/ukpga/2026/20/section/3/6), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/a)
+[^c-8ddf4dc2c003e02d492e49de03e3b3d7]: Textual amendment: [S. 182(2)(ba)](https://www.legislation.gov.uk/ukpga/2014/12/section/182/2/ba) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 3(6)](https://www.legislation.gov.uk/ukpga/2026/20/section/3/6), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/a)

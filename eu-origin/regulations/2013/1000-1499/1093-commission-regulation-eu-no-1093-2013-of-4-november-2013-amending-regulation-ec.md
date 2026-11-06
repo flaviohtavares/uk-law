@@ -65,7 +65,7 @@ HAS ADOPTED THIS REGULATION:
 
 **Article 3.** This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-897c903ef87f6c7dbf08aca03dbf48ca]...
+[^c-897c903ef87f6c7dbf08aca03dbf48ca]...
 
 Done at Brussels, 4 November 2013.
 
@@ -81,4 +81,4 @@ José Manuel Barroso
 
 [^f00002]: Footnote: [OJ L 343, 19.11.2004, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.343.01.0003.01.ENG).
 
-[^key-897c903ef87f6c7dbf08aca03dbf48ca]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2013/1093/signature) omitted (31.12.2020) by virtue of [The Statistics of Trade (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/47)](https://www.legislation.gov.uk/uksi/2019/47), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/47/regulation/1/4), [14(e)](https://www.legislation.gov.uk/uksi/2019/47/regulation/14/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-897c903ef87f6c7dbf08aca03dbf48ca]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2013/1093/signature) omitted (31.12.2020) by virtue of [The Statistics of Trade (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/47)](https://www.legislation.gov.uk/uksi/2019/47), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/47/regulation/1/4), [14(e)](https://www.legislation.gov.uk/uksi/2019/47/regulation/14/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

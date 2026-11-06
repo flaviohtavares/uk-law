@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.24. Indication to excluded person[^key-5c35516aa05f0f8410639ee6ba7f5a42]
+## 3.24. Indication to excluded person[^c-5c35516aa05f0f8410639ee6ba7f5a42]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c35516aa05f0f8410639ee6ba7f5a42]: Commencement: Rule 3.24 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-5c35516aa05f0f8410639ee6ba7f5a42]: Commencement: Rule 3.24 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Pay and conditions of school support staff in England[^key-f2d6ccc3892cf17f0c9335e465c0ad9f]
+## 38. Pay and conditions of school support staff in England[^c-f2d6ccc3892cf17f0c9335e465c0ad9f]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Schedule 4 contains provision establishing the School Support Staff Negotiating 
 
 ## Annotations
 
-[^key-f2d6ccc3892cf17f0c9335e465c0ad9f]: Commencement: S. 38 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-f2d6ccc3892cf17f0c9335e465c0ad9f]: Commencement: S. 38 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)

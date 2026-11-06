@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 236ZA. Defined benefits arrangements: public service pension schemes[^key-1bfd6db9d80761674686eb8deed5e11b]
+## 236ZA. Defined benefits arrangements: public service pension schemes[^c-1bfd6db9d80761674686eb8deed5e11b]
 
 *Extent: E+W+S+N.I.*
 
-[^key-7055643fff30dd4e1a4ed50a34b655c1]
+[^c-7055643fff30dd4e1a4ed50a34b655c1]
 
 (1) Subsection (2) applies where—
 
@@ -55,6 +55,6 @@ the determination of the individual’s final salary for the purposes of one of 
 
 ## Annotations
 
-[^key-1bfd6db9d80761674686eb8deed5e11b]: Textual amendment: [S. 236ZA](https://www.legislation.gov.uk/ukpga/2004/12/section/236ZA) inserted (6.4.2024 with effect for the tax year 2023-24 and subsequent tax years) by [The Finance Act 2004 (Registered Pension Schemes and Annual Allowance Charge) Order 2024 (S.I. 2024/357)](https://www.legislation.gov.uk/uksi/2024/357), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/357/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/357/article/2/2) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/357/article/1/2))
+[^c-1bfd6db9d80761674686eb8deed5e11b]: Textual amendment: [S. 236ZA](https://www.legislation.gov.uk/ukpga/2004/12/section/236ZA) inserted (6.4.2024 with effect for the tax year 2023-24 and subsequent tax years) by [The Finance Act 2004 (Registered Pension Schemes and Annual Allowance Charge) Order 2024 (S.I. 2024/357)](https://www.legislation.gov.uk/uksi/2024/357), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/357/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/357/article/2/2) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/357/article/1/2))
 
-[^key-7055643fff30dd4e1a4ed50a34b655c1]: Modification: Pt. 4 modified (with effect in relation to the tax year 2024-25 and subsequent tax years) by [The MPs’, Senedd and Assembly Pension Schemes (Tax) Regulations 2025 (S.I. 2025/52)](https://www.legislation.gov.uk/uksi/2025/52), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2025/52/regulation/6)
+[^c-7055643fff30dd4e1a4ed50a34b655c1]: Modification: Pt. 4 modified (with effect in relation to the tax year 2024-25 and subsequent tax years) by [The MPs’, Senedd and Assembly Pension Schemes (Tax) Regulations 2025 (S.I. 2025/52)](https://www.legislation.gov.uk/uksi/2025/52), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2025/52/regulation/6)

@@ -44,13 +44,13 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 In accordance with section 116(3)(k) of that Act, a draft of this Order has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation, commencement and interpretation[^key-ae11b8ce565ea51c7d0b2b4deb4e6484]
+## 1. Citation, commencement and interpretation[^c-ae11b8ce565ea51c7d0b2b4deb4e6484]
 
 (1) This Order may be cited as the Registers of Scotland (Information and Access) Order 2014 and comes into force on 8th December 2014.
 
 (2) In this Order, “the Act” means the Land Registration etc. (Scotland) Act 2012.
 
-## 2. Information made available by the Keeper[^key-63ea11604b8b736754b70e44fdaece50]
+## 2. Information made available by the Keeper[^c-63ea11604b8b736754b70e44fdaece50]
 
 (1) A person may apply to the Keeper for a plain copy—
 
@@ -63,7 +63,7 @@ In accordance with section 116(3)(k) of that Act, a draft of this Order has been
 - (g) of a document registered in the Chancery and Judicial Registers[^f00002];
 - (h) of a registration schedule of a croft, common grazing or land held runrig registered in the Crofting Register[^f00003];
 - (i) of a registration in the Register of Community Interests in Land[^f00004];
-- (j)[^key-d63adbae3c23acd77aa8f5e7fd200137] of, or any part of, an entry or document in the Register of Assignations;
+- (j)[^c-d63adbae3c23acd77aa8f5e7fd200137] of, or any part of, an entry or document in the Register of Assignations;
 - (k) of, or any part of, an entry or document in the Register of Statutory Pledges.
 
 (2) The Keeper may issue the plain copy if—
@@ -71,7 +71,7 @@ In accordance with section 116(3)(k) of that Act, a draft of this Order has been
 - (a) such fee as is payable[^f00005] for issuing it is paid; or
 - (b) arrangements satisfactory to the Keeper are made for payment of that fee.
 
-## 3. Extract or plain copy of the cadastral map[^key-d9fdd47259272d0acb87502d95f762dc]
+## 3. Extract or plain copy of the cadastral map[^c-d9fdd47259272d0acb87502d95f762dc]
 
 An application under—
 
@@ -80,7 +80,7 @@ An application under—
 
 may only be made in respect of one cadastral unit number or title number.
 
-## 4. Public access to a register under the management and control of the Keeper[^key-b7dc0827a9fa16d60941878af8c55c08]
+## 4. Public access to a register under the management and control of the Keeper[^c-b7dc0827a9fa16d60941878af8c55c08]
 
 (1) A request for an inspection of a register under the management and control of the Keeper must be made—
 
@@ -95,7 +95,7 @@ may only be made in respect of one cadastral unit number or title number.
 - (a) such fee as is payable[^f00007] for the inspection is paid; or
 - (b) arrangements satisfactory to the Keeper are made for payment of that fee.
 
-## 5. Extracts of deeds registered in the Books of Council and Session[^key-0204a988ecd58b19f6a42cdac4735496]
+## 5. Extracts of deeds registered in the Books of Council and Session[^c-0204a988ecd58b19f6a42cdac4735496]
 
 (1) Where a person applies to the Keeper for an extract of a deed registered in the Books of Council and Session the Keeper must issue the extract, if—
 
@@ -144,9 +144,9 @@ A business regulatory impact assessment has not been provided for this instrumen
 
 [^f00001]: Footnote: [2012 asp 5](https://www.legislation.gov.uk/asp/2012/5).
 
-[^key-ae11b8ce565ea51c7d0b2b4deb4e6484]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2014/189/article/1) in force at 8.12.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/189/article/1/1)
+[^c-ae11b8ce565ea51c7d0b2b4deb4e6484]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2014/189/article/1) in force at 8.12.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/189/article/1/1)
 
-[^key-63ea11604b8b736754b70e44fdaece50]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2014/189/article/2) in force at 8.12.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/189/article/1/1)
+[^c-63ea11604b8b736754b70e44fdaece50]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2014/189/article/2) in force at 8.12.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/189/article/1/1)
 
 [^f00002]: Footnote: The Chancery and Judicial Registers is a collective term for the Register of Inhibitions, the Register of Deeds and Probative Writs in the Books of Council and Session, the Register of Judgments, the Register of Protests, the Register of the Great Seal, the Register of the Cachet Seal and the Register of the Quarter Seal.
 
@@ -154,16 +154,16 @@ A business regulatory impact assessment has not been provided for this instrumen
 
 [^f00004]: Footnote: The Register of Community Interests in Land was established by section 36 of the Land Reform (Scotland) Act [2003 (asp 2)](https://www.legislation.gov.uk/asp/2003/2).
 
-[^key-d63adbae3c23acd77aa8f5e7fd200137]: Textual amendment: [Art. 2(1)(j)](https://www.legislation.gov.uk/ssi/2014/189/article/2/1/j)[(k)](https://www.legislation.gov.uk/ssi/2014/189/article/2/1/k) inserted (1.4.2025) by [The Registers of Scotland (Fees and Plain Copies) Miscellaneous Amendments Order 2025 (S.S.I. 2025/103)](https://www.legislation.gov.uk/ssi/2025/103), [arts. 1](https://www.legislation.gov.uk/ssi/2025/103/article/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/103/article/3/2)
+[^c-d63adbae3c23acd77aa8f5e7fd200137]: Textual amendment: [Art. 2(1)(j)](https://www.legislation.gov.uk/ssi/2014/189/article/2/1/j)[(k)](https://www.legislation.gov.uk/ssi/2014/189/article/2/1/k) inserted (1.4.2025) by [The Registers of Scotland (Fees and Plain Copies) Miscellaneous Amendments Order 2025 (S.S.I. 2025/103)](https://www.legislation.gov.uk/ssi/2025/103), [arts. 1](https://www.legislation.gov.uk/ssi/2025/103/article/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/103/article/3/2)
 
 [^f00005]: Footnote: Under Part 7 of Schedule 1 to the Registers of Scotland (Fees) Order 2014 ([S.S.I. 2014/188](https://www.legislation.gov.uk/ssi/2014/188)).
 
-[^key-d9fdd47259272d0acb87502d95f762dc]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2014/189/article/3) in force at 8.12.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/189/article/1/1)
+[^c-d9fdd47259272d0acb87502d95f762dc]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2014/189/article/3) in force at 8.12.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/189/article/1/1)
 
-[^key-b7dc0827a9fa16d60941878af8c55c08]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2014/189/article/4) in force at 8.12.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/189/article/1/1)
+[^c-b7dc0827a9fa16d60941878af8c55c08]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2014/189/article/4) in force at 8.12.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/189/article/1/1)
 
 [^f00006]: Footnote: Meadowbank House, 153 London Road, Edinburgh EH8 7AU or Hanover House, 24 Douglas Street, Glasgow G2 7NQ.
 
 [^f00007]: Footnote: Under Part 7 of Schedule 1 to the Registers of Scotland (Fees) Order 2014 ([S.S.I. 2014/188](https://www.legislation.gov.uk/ssi/2014/188)).
 
-[^key-0204a988ecd58b19f6a42cdac4735496]: Textual amendment: [Arts. 5](https://www.legislation.gov.uk/ssi/2014/189/article/5), [6](https://www.legislation.gov.uk/ssi/2014/189/article/6) inserted (1.10.2022) by [The Registers of Scotland (Information and Access, etc.) Miscellaneous Amendment Order 2022 (S.S.I. 2022/232)](https://www.legislation.gov.uk/ssi/2022/232), [arts. 1](https://www.legislation.gov.uk/ssi/2022/232/article/1), [2](https://www.legislation.gov.uk/ssi/2022/232/article/2)
+[^c-0204a988ecd58b19f6a42cdac4735496]: Textual amendment: [Arts. 5](https://www.legislation.gov.uk/ssi/2014/189/article/5), [6](https://www.legislation.gov.uk/ssi/2014/189/article/6) inserted (1.10.2022) by [The Registers of Scotland (Information and Access, etc.) Miscellaneous Amendment Order 2022 (S.S.I. 2022/232)](https://www.legislation.gov.uk/ssi/2022/232), [arts. 1](https://www.legislation.gov.uk/ssi/2022/232/article/1), [2](https://www.legislation.gov.uk/ssi/2022/232/article/2)

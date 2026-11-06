@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Commission Regulation (EU) No 468/2010 establishing the EU list of vessels engaged in illegal, unreported and unregulated fishing[^key-59ae0397d8b3f982a460c876c22b1e77]
+## 10. Commission Regulation (EU) No 468/2010 establishing the EU list of vessels engaged in illegal, unreported and unregulated fishing[^c-59ae0397d8b3f982a460c876c22b1e77]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59ae0397d8b3f982a460c876c22b1e77]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)
+[^c-59ae0397d8b3f982a460c876c22b1e77]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)

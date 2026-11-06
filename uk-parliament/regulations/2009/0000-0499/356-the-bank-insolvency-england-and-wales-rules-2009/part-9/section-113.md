@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 113. Rule against solicitation[^key-2211b51f6029975f535af880ee8578fd]
+## 113. Rule against solicitation[^c-2211b51f6029975f535af880ee8578fd]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2211b51f6029975f535af880ee8578fd]: Commencement: Rule 113 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-2211b51f6029975f535af880ee8578fd]: Commencement: Rule 113 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00046]: Footnote: Paragraph (1) was amended by [S.I. 2008/737](https://www.legislation.gov.uk/uksi/2008/737).

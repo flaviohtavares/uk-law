@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Department of Justice guidance[^key-4dfaa395501f2dee10cdef1cbcddba15]
+## 70. Department of Justice guidance[^c-4dfaa395501f2dee10cdef1cbcddba15]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4dfaa395501f2dee10cdef1cbcddba15]: Commencement: S. 70 in force at Royal Assent, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/c)
+[^c-4dfaa395501f2dee10cdef1cbcddba15]: Commencement: S. 70 in force at Royal Assent, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/c)

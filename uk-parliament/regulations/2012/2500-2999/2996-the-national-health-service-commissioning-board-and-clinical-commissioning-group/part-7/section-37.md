@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Transitional provisions[^key-0a6273fc5d5328917d8d9c569bab1ef8]
+## 37. Transitional provisions[^c-0a6273fc5d5328917d8d9c569bab1ef8]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ the relevant body with responsibility for that person must notify that person as
 
 ## Annotations
 
-[^key-0a6273fc5d5328917d8d9c569bab1ef8]: Textual amendment: [Reg. 37](https://www.legislation.gov.uk/uksi/2012/2996/regulation/37) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [209(7)](https://www.legislation.gov.uk/uksi/2022/634/regulation/209/7)
+[^c-0a6273fc5d5328917d8d9c569bab1ef8]: Textual amendment: [Reg. 37](https://www.legislation.gov.uk/uksi/2012/2996/regulation/37) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [209(7)](https://www.legislation.gov.uk/uksi/2022/634/regulation/209/7)

@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-26996416b7c07627b01ba8861f544935] Advising a person is a specified kind of activity if the advice is—
+(1)[^c-26996416b7c07627b01ba8861f544935] Advising a person is a specified kind of activity if the advice is—
 
 - (a) given to the person in his capacity as an investor or potential investor, or in his capacity as agent for an investor or a potential investor; and
 - (b) advice on the merits of his doing any of the following (whether as principal or agent)—
-  - (i) buying, selling, subscribing for, exchanging, redeeming, holding[^key-9f4dfebb68beb38dfa0d02f2ffae3256] or underwriting a particular investment which is a security, structured deposit[^key-1663e87af72bca2b60dd8ebcd8d2b438] or a relevant investment[^key-2404169d3c29393bc103f79adb2064a4], or
-  - (ii) exercising or not exercising[^key-2d53cdfe0b3250c2945afe97d6c05b2a] any right conferred by such an investment to buy, sell, subscribe for, exchange or redeem[^key-c223016b3524a107d3a595f771760c69] such an investment.
+  - (i) buying, selling, subscribing for, exchanging, redeeming, holding[^c-9f4dfebb68beb38dfa0d02f2ffae3256] or underwriting a particular investment which is a security, structured deposit[^c-1663e87af72bca2b60dd8ebcd8d2b438] or a relevant investment[^c-2404169d3c29393bc103f79adb2064a4], or
+  - (ii) exercising or not exercising[^c-2d53cdfe0b3250c2945afe97d6c05b2a] any right conferred by such an investment to buy, sell, subscribe for, exchange or redeem[^c-c223016b3524a107d3a595f771760c69] such an investment.
 
-(1A)[^key-ca15503a66d2060131ff3d1094de6c46] Paragraph (1) does not apply to a person who is appropriately authorised except to the extent that they are providing a personal recommendation.
+(1A)[^c-ca15503a66d2060131ff3d1094de6c46] Paragraph (1) does not apply to a person who is appropriately authorised except to the extent that they are providing a personal recommendation.
 
 (1B) A person is appropriately authorised when they are authorised for the purposes of the Act to carry on an activity of a kind specified by a provision of this Order which is not the activity specified by paragraph (1) and is not the activity of agreeing to carry on the activity specified by paragraph (1).
 
@@ -43,7 +43,7 @@ summary: ''
 
 (1D) A recommendation is not a personal recommendation if it is issued exclusively to the public.
 
-(2)[^key-ae877b7ddd9f5416413514fcbed4fa3e] Advising a person is a specified kind of activity if the advice is—
+(2)[^c-ae877b7ddd9f5416413514fcbed4fa3e] Advising a person is a specified kind of activity if the advice is—
 
 - (a) given to the person in that person’s capacity as a lender or potential lender under a relevant article 36H agreement, or in that person’s capacity as an agent for a lender or potential lender under such an agreement; and
 - (b) advice on the merits of that person doing any of the following (whether as principal or agent)—
@@ -74,20 +74,20 @@ summary: ''
 
 ## Annotations
 
-[^key-26996416b7c07627b01ba8861f544935]: Textual amendment: Art. 53(1): art. 53 renumbered as art. 53(1) (17.3.2016 for specified purposes, 6.4.2016 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2016 (S.I. 2016/392)](https://www.legislation.gov.uk/uksi/2016/392), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/392/article/1/2)[(3)(d)](https://www.legislation.gov.uk/uksi/2016/392/article/1/3/d), [2(6)(a)](https://www.legislation.gov.uk/uksi/2016/392/article/2/6/a) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2016/392/part/5))
+[^c-26996416b7c07627b01ba8861f544935]: Textual amendment: Art. 53(1): art. 53 renumbered as art. 53(1) (17.3.2016 for specified purposes, 6.4.2016 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2016 (S.I. 2016/392)](https://www.legislation.gov.uk/uksi/2016/392), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/392/article/1/2)[(3)(d)](https://www.legislation.gov.uk/uksi/2016/392/article/1/3/d), [2(6)(a)](https://www.legislation.gov.uk/uksi/2016/392/article/2/6/a) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2016/392/part/5))
 
-[^key-9f4dfebb68beb38dfa0d02f2ffae3256]: Textual amendment: Words in art. 53(1)(b)(i) inserted (3.1.2018) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2017 (S.I. 2017/500)](https://www.legislation.gov.uk/uksi/2017/500), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/500/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/500/article/2/2)
+[^c-9f4dfebb68beb38dfa0d02f2ffae3256]: Textual amendment: Words in art. 53(1)(b)(i) inserted (3.1.2018) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2017 (S.I. 2017/500)](https://www.legislation.gov.uk/uksi/2017/500), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/500/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/500/article/2/2)
 
-[^key-1663e87af72bca2b60dd8ebcd8d2b438]: Textual amendment: Words in art. 53(1)(b)(i) inserted (1.4.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2017 (S.I. 2017/488)](https://www.legislation.gov.uk/uksi/2017/488), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2017/488/article/4/4)
+[^c-1663e87af72bca2b60dd8ebcd8d2b438]: Textual amendment: Words in art. 53(1)(b)(i) inserted (1.4.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2017 (S.I. 2017/488)](https://www.legislation.gov.uk/uksi/2017/488), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2017/488/article/4/4)
 
-[^key-2404169d3c29393bc103f79adb2064a4]: Textual amendment: Words in art. 53(b)(i) substituted (31.10.2004 for specified purposes, 14.1.2005 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2003 (S.I. 2003/1476)](https://www.legislation.gov.uk/uksi/2003/1476), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/1476/article/1/3), [9(1)](https://www.legislation.gov.uk/uksi/2003/1476/article/9/1)
+[^c-2404169d3c29393bc103f79adb2064a4]: Textual amendment: Words in art. 53(b)(i) substituted (31.10.2004 for specified purposes, 14.1.2005 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2003 (S.I. 2003/1476)](https://www.legislation.gov.uk/uksi/2003/1476), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/1476/article/1/3), [9(1)](https://www.legislation.gov.uk/uksi/2003/1476/article/9/1)
 
-[^key-2d53cdfe0b3250c2945afe97d6c05b2a]: Textual amendment: Words in art. 53(1)(b)(ii) inserted (3.1.2018) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2017 (S.I. 2017/500)](https://www.legislation.gov.uk/uksi/2017/500), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/500/article/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2017/500/article/2/3/a)
+[^c-2d53cdfe0b3250c2945afe97d6c05b2a]: Textual amendment: Words in art. 53(1)(b)(ii) inserted (3.1.2018) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2017 (S.I. 2017/500)](https://www.legislation.gov.uk/uksi/2017/500), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/500/article/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2017/500/article/2/3/a)
 
-[^key-c223016b3524a107d3a595f771760c69]: Textual amendment: Words in art. 53(1)(b)(ii) substituted (3.1.2018) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2017 (S.I. 2017/500)](https://www.legislation.gov.uk/uksi/2017/500), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/500/article/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2017/500/article/2/3/b)
+[^c-c223016b3524a107d3a595f771760c69]: Textual amendment: Words in art. 53(1)(b)(ii) substituted (3.1.2018) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2017 (S.I. 2017/500)](https://www.legislation.gov.uk/uksi/2017/500), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/500/article/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2017/500/article/2/3/b)
 
-[^key-ca15503a66d2060131ff3d1094de6c46]: Textual amendment: Art. 53(1A)-(1D) inserted (3.1.2018) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2017 (S.I. 2017/500)](https://www.legislation.gov.uk/uksi/2017/500), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/500/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2017/500/article/2/4)
+[^c-ca15503a66d2060131ff3d1094de6c46]: Textual amendment: Art. 53(1A)-(1D) inserted (3.1.2018) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2017 (S.I. 2017/500)](https://www.legislation.gov.uk/uksi/2017/500), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/500/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2017/500/article/2/4)
 
 [^M_F_899f9854-10ca-4e1e-9ead-f7e30eceab66]: Textual amendment: Words in art. 53(1C)(b)(i) inserted (3.1.2018) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/2) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
 
-[^key-ae877b7ddd9f5416413514fcbed4fa3e]: Textual amendment: Art. 53(2)-(5) inserted (17.3.2016 for specified purposes, 6.4.2016 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2016 (S.I. 2016/392)](https://www.legislation.gov.uk/uksi/2016/392), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/392/article/1/2)[(3)(d)](https://www.legislation.gov.uk/uksi/2016/392/article/1/3/d), [2(6)(b)](https://www.legislation.gov.uk/uksi/2016/392/article/2/6/b) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2016/392/part/5))
+[^c-ae877b7ddd9f5416413514fcbed4fa3e]: Textual amendment: Art. 53(2)-(5) inserted (17.3.2016 for specified purposes, 6.4.2016 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2016 (S.I. 2016/392)](https://www.legislation.gov.uk/uksi/2016/392), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/392/article/1/2)[(3)(d)](https://www.legislation.gov.uk/uksi/2016/392/article/1/3/d), [2(6)(b)](https://www.legislation.gov.uk/uksi/2016/392/article/2/6/b) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2016/392/part/5))

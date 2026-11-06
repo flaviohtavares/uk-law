@@ -20,16 +20,16 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-6f039cae092214ec2c4e2cd654dcb61c][^key-31a62fa4c8de900e2bd8a5826758f68d][^key-2063c18bda14c984b9ea99b6dcac9c94] Schedule 5 contains minor amendments and amendments consequential on the provisions of this Act.
+(1)[^c-6f039cae092214ec2c4e2cd654dcb61c][^c-31a62fa4c8de900e2bd8a5826758f68d][^c-2063c18bda14c984b9ea99b6dcac9c94] Schedule 5 contains minor amendments and amendments consequential on the provisions of this Act.
 
-(2)[^key-9f49718fac82e3a0b94c68bf9050dfcb] The enactments specified in schedule 6, which include enactments that are spent, are repealed to the extent specified.
+(2)[^c-9f49718fac82e3a0b94c68bf9050dfcb] The enactments specified in schedule 6, which include enactments that are spent, are repealed to the extent specified.
 
 ## Annotations
 
-[^key-6f039cae092214ec2c4e2cd654dcb61c]: Commencement: S. 203(1) in force at 31.1.2012 for specified purposes by [S.S.I. 2012/1](https://www.legislation.gov.uk/ssi/2012/1), [art. 2(2)](https://www.legislation.gov.uk/ssi/2012/1/article/2/2)
+[^c-6f039cae092214ec2c4e2cd654dcb61c]: Commencement: S. 203(1) in force at 31.1.2012 for specified purposes by [S.S.I. 2012/1](https://www.legislation.gov.uk/ssi/2012/1), [art. 2(2)](https://www.legislation.gov.uk/ssi/2012/1/article/2/2)
 
-[^key-31a62fa4c8de900e2bd8a5826758f68d]: Commencement: S. 203(1) in force at 12.6.2013 for specified purposes by [S.S.I. 2013/190](https://www.legislation.gov.uk/ssi/2013/190), [art. 2](https://www.legislation.gov.uk/ssi/2013/190/article/2)
+[^c-31a62fa4c8de900e2bd8a5826758f68d]: Commencement: S. 203(1) in force at 12.6.2013 for specified purposes by [S.S.I. 2013/190](https://www.legislation.gov.uk/ssi/2013/190), [art. 2](https://www.legislation.gov.uk/ssi/2013/190/article/2)
 
-[^key-2063c18bda14c984b9ea99b6dcac9c94]: Commencement: S. 203(1) in force at 24.6.2013 for specified purposes by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-2063c18bda14c984b9ea99b6dcac9c94]: Commencement: S. 203(1) in force at 24.6.2013 for specified purposes by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-9f49718fac82e3a0b94c68bf9050dfcb]: Commencement: S. 203(2) in force at 24.6.2013 for specified purposes by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-9f49718fac82e3a0b94c68bf9050dfcb]: Commencement: S. 203(2) in force at 24.6.2013 for specified purposes by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

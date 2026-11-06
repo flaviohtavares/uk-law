@@ -31,7 +31,7 @@ summary: ''
 
 SEA FISHERIES, WALES
 
-The Sea Fishing (Enforcement of Community Quota and Third Country Fishing Measures) (Wales) Order 2000 (revoked)[^key-34e9ce6e086e41712896011c2ff914b1]
+The Sea Fishing (Enforcement of Community Quota and Third Country Fishing Measures) (Wales) Order 2000 (revoked)[^c-34e9ce6e086e41712896011c2ff914b1]
 
 Made
 
@@ -41,73 +41,73 @@ Coming into force
 
 11th April 2000
 
-[^key-34e9ce6e086e41712896011c2ff914b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-34e9ce6e086e41712896011c2ff914b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-34e9ce6e086e41712896011c2ff914b1]
+## 1. Title, commencement and application[^c-34e9ce6e086e41712896011c2ff914b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-34e9ce6e086e41712896011c2ff914b1]
+## 2. Interpretation[^c-34e9ce6e086e41712896011c2ff914b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences[^key-34e9ce6e086e41712896011c2ff914b1]
+## 3. Offences[^c-34e9ce6e086e41712896011c2ff914b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Penalties[^key-34e9ce6e086e41712896011c2ff914b1]
+## 4. Penalties[^c-34e9ce6e086e41712896011c2ff914b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Recovery of fines[^key-34e9ce6e086e41712896011c2ff914b1]
+## 5. Recovery of fines[^c-34e9ce6e086e41712896011c2ff914b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Powers of British sea-fishery officers in relation to fishing boats[^key-34e9ce6e086e41712896011c2ff914b1]
+## 6. Powers of British sea-fishery officers in relation to fishing boats[^c-34e9ce6e086e41712896011c2ff914b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Powers of British sea-fishery officers on land[^key-34e9ce6e086e41712896011c2ff914b1]
+## 7. Powers of British sea-fishery officers on land[^c-34e9ce6e086e41712896011c2ff914b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Powers of British sea-fishery officers to seize fish and fishing gear[^key-34e9ce6e086e41712896011c2ff914b1]
+## 8. Powers of British sea-fishery officers to seize fish and fishing gear[^c-34e9ce6e086e41712896011c2ff914b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Protection of officers[^key-34e9ce6e086e41712896011c2ff914b1]
+## 9. Protection of officers[^c-34e9ce6e086e41712896011c2ff914b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Obstruction of officers[^key-34e9ce6e086e41712896011c2ff914b1]
+## 10. Obstruction of officers[^c-34e9ce6e086e41712896011c2ff914b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Provisions as to offences and proceedings[^key-34e9ce6e086e41712896011c2ff914b1]
+## 11. Provisions as to offences and proceedings[^c-34e9ce6e086e41712896011c2ff914b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Admissibility in evidence of logbooks and other documents[^key-34e9ce6e086e41712896011c2ff914b1]
+## 12. Admissibility in evidence of logbooks and other documents[^c-34e9ce6e086e41712896011c2ff914b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Revocation[^key-34e9ce6e086e41712896011c2ff914b1]
+## 13. Revocation[^c-34e9ce6e086e41712896011c2ff914b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34e9ce6e086e41712896011c2ff914b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-34e9ce6e086e41712896011c2ff914b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — SPECIFIED COMMUNITY PROVISIONS APPLICABLE TO COMMUNITY VESSELS AND MAXIMUM FINES ON SUMMARY CONVICTION[^key-34e9ce6e086e41712896011c2ff914b1]
+## SCHEDULE 1 — SPECIFIED COMMUNITY PROVISIONS APPLICABLE TO COMMUNITY VESSELS AND MAXIMUM FINES ON SUMMARY CONVICTION[^c-34e9ce6e086e41712896011c2ff914b1]
 
 **Article 4(1)**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — SPECIFIED COMMUNITY PROVISIONS APPLICABLE TO COMMUNITY VESSELS AND MAXIMUM FINES ON SUMMARY CONVICTION[^key-34e9ce6e086e41712896011c2ff914b1]
+## SCHEDULE 2 — SPECIFIED COMMUNITY PROVISIONS APPLICABLE TO COMMUNITY VESSELS AND MAXIMUM FINES ON SUMMARY CONVICTION[^c-34e9ce6e086e41712896011c2ff914b1]
 
 **Article 4(2)**
 
@@ -115,8 +115,8 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-34e9ce6e086e41712896011c2ff914b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-34e9ce6e086e41712896011c2ff914b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-34e9ce6e086e41712896011c2ff914b1]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2000/1096) revoked (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)
+[^c-34e9ce6e086e41712896011c2ff914b1]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2000/1096) revoked (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)

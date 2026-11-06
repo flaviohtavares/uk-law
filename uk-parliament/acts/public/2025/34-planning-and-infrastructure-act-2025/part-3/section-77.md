@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Use of nature restoration levy[^key-cf5a3eb84334817567818eda31a196bc][^key-2e5950f10dd93a977444e46a0cdf74dd]
+## 77. Use of nature restoration levy[^c-cf5a3eb84334817567818eda31a196bc][^c-2e5950f10dd93a977444e46a0cdf74dd]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cf5a3eb84334817567818eda31a196bc]: Commencement: S. 77 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-cf5a3eb84334817567818eda31a196bc]: Commencement: S. 77 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-2e5950f10dd93a977444e46a0cdf74dd]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2025/34/section/77) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-2e5950f10dd93a977444e46a0cdf74dd]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2025/34/section/77) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)

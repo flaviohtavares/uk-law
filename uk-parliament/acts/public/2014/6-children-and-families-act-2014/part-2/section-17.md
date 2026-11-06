@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Repeal of restrictions on divorce and dissolution etc where there are children[^key-09c13eec5c3b8d25572062f90535e08d]
+## 17. Repeal of restrictions on divorce and dissolution etc where there are children[^c-09c13eec5c3b8d25572062f90535e08d]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09c13eec5c3b8d25572062f90535e08d]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2014/6/section/17) in force at 22.4.2014 by [S.I. 2014/793](https://www.legislation.gov.uk/uksi/2014/793), [art. 2](https://www.legislation.gov.uk/uksi/2014/793/article/2) (with transitional provisions in S.I. 2014/1042, arts. 5, 11)
+[^c-09c13eec5c3b8d25572062f90535e08d]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2014/6/section/17) in force at 22.4.2014 by [S.I. 2014/793](https://www.legislation.gov.uk/uksi/2014/793), [art. 2](https://www.legislation.gov.uk/uksi/2014/793/article/2) (with transitional provisions in S.I. 2014/1042, arts. 5, 11)

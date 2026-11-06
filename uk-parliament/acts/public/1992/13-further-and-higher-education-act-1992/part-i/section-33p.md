@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33P. Dissolution of sixth form college corporations: transfer of property, rights and liabilities[^key-4b40374447c5ae00484de6e41d53f704]
+## 33P. Dissolution of sixth form college corporations: transfer of property, rights and liabilities[^c-4b40374447c5ae00484de6e41d53f704]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b40374447c5ae00484de6e41d53f704]: Textual amendment: Ss. 33N-33P substituted for s. 33N (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 12 para. 20](https://www.legislation.gov.uk/ukpga/2011/21/schedule/12/paragraph/20); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/924/article/6))
+[^c-4b40374447c5ae00484de6e41d53f704]: Textual amendment: Ss. 33N-33P substituted for s. 33N (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 12 para. 20](https://www.legislation.gov.uk/ukpga/2011/21/schedule/12/paragraph/20); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/924/article/6))

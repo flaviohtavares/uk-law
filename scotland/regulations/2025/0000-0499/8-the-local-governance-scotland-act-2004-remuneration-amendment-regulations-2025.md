@@ -48,11 +48,11 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 11(4) of the Local Governance (Scotland) Act 2004 the Scottish Ministers have considered information, advice and recommendations given to them by the Scottish Local Authorities Remuneration Committee.
 
-## 1. Citation and commencement[^key-f4f0bf0a08f48b34347bc8f475f89f49]
+## 1. Citation and commencement[^c-f4f0bf0a08f48b34347bc8f475f89f49]
 
 These Regulations may be cited as the Local Governance (Scotland) Act 2004 (Remuneration) Amendment Regulations 2025 and come into force on 1 April 2025.
 
-## 2. Amendment of the Local Governance (Scotland) Act 2004 (Remuneration) Regulations 2007[^key-cd6a7bf83ed1f6abc695188d029d5622]
+## 2. Amendment of the Local Governance (Scotland) Act 2004 (Remuneration) Regulations 2007[^c-cd6a7bf83ed1f6abc695188d029d5622]
 
 (1) The Local Governance (Scotland) Act 2004 (Remuneration) Regulations 2007[^f00002] are amended in accordance with paragraphs (2) to (7).
 
@@ -70,7 +70,7 @@ These Regulations may be cited as the Local Governance (Scotland) Act 2004 (Remu
 
 > |  |  |
 > | --- | --- |
-> | (a) | Band B – £37,548[^key-7b7dd20992c60447cd50de14df3d38a7] |
+> | (a) | Band B – £37,548[^c-7b7dd20992c60447cd50de14df3d38a7] |
 > | (b) | Band C – £45,594 |
 > | (c) | Band D – £53,640. |
 
@@ -102,7 +102,7 @@ These Regulations may be cited as the Local Governance (Scotland) Act 2004 (Remu
 >
 > |  |  |
 > | --- | --- |
-> | (a) | Band B – £37,548[^key-28d79e0c84ca536693e96e5be586a363] |
+> | (a) | Band B – £37,548[^c-28d79e0c84ca536693e96e5be586a363] |
 > | (b) | Band C – £45,594 |
 > | (c) | Band D – £53,640. |
 
@@ -110,7 +110,7 @@ These Regulations may be cited as the Local Governance (Scotland) Act 2004 (Remu
 
 (6) In regulation 10 (Councillors’ remuneration) for “£21,345” substitute “£25,982”.
 
-(6A)[^key-8be76d80e9fba8d23e65a96b755f1364] In regulation 12 (joint boards)—
+(6A)[^c-8be76d80e9fba8d23e65a96b755f1364] In regulation 12 (joint boards)—
 
 - (a) in paragraph (8) (which concerns the total yearly amount to be paid to the convener of a joint board) for “£26,686” substitute “£28, 207”,
 - (b) in paragraph (9) (which concerns the total yearly amount to be paid to the vice-convener of a joint board)—
@@ -181,14 +181,14 @@ Regulation 2(7) removes the local authorities listed in Band A, moving them inst
 
 [^f00001]: Footnote: [2004 asp 9](https://www.legislation.gov.uk/asp/2004/9).
 
-[^key-f4f0bf0a08f48b34347bc8f475f89f49]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2025/8/regulation/1) in force at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/8/regulation/1)
+[^c-f4f0bf0a08f48b34347bc8f475f89f49]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2025/8/regulation/1) in force at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/8/regulation/1)
 
-[^key-cd6a7bf83ed1f6abc695188d029d5622]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2025/8/regulation/2) in force at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/8/regulation/1)
+[^c-cd6a7bf83ed1f6abc695188d029d5622]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2025/8/regulation/2) in force at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/8/regulation/1)
 
 [^f00002]: Footnote: [S.S.I. 2007/183](https://www.legislation.gov.uk/ssi/2007/183), relevantly amended by [S.S.I. 2024/24](https://www.legislation.gov.uk/ssi/2024/24).
 
-[^key-7b7dd20992c60447cd50de14df3d38a7]: Textual amendment: Sum in [reg. 2(3)](https://www.legislation.gov.uk/ssi/2025/8/regulation/2/3) substituted (31.3.2025) by [The Local Governance (Scotland) Act 2004 (Remuneration) Amendment (Amendment) Regulations 2025 (S.S.I. 2025/36)](https://www.legislation.gov.uk/ssi/2025/36), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/36/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2025/36/regulation/2/2/a)
+[^c-7b7dd20992c60447cd50de14df3d38a7]: Textual amendment: Sum in [reg. 2(3)](https://www.legislation.gov.uk/ssi/2025/8/regulation/2/3) substituted (31.3.2025) by [The Local Governance (Scotland) Act 2004 (Remuneration) Amendment (Amendment) Regulations 2025 (S.S.I. 2025/36)](https://www.legislation.gov.uk/ssi/2025/36), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/36/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2025/36/regulation/2/2/a)
 
-[^key-28d79e0c84ca536693e96e5be586a363]: Textual amendment: Sum in [reg. 2(5)](https://www.legislation.gov.uk/ssi/2025/8/regulation/2/5) substituted (31.3.2025) by [The Local Governance (Scotland) Act 2004 (Remuneration) Amendment (Amendment) Regulations 2025 (S.S.I. 2025/36)](https://www.legislation.gov.uk/ssi/2025/36), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/36/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2025/36/regulation/2/2/b)
+[^c-28d79e0c84ca536693e96e5be586a363]: Textual amendment: Sum in [reg. 2(5)](https://www.legislation.gov.uk/ssi/2025/8/regulation/2/5) substituted (31.3.2025) by [The Local Governance (Scotland) Act 2004 (Remuneration) Amendment (Amendment) Regulations 2025 (S.S.I. 2025/36)](https://www.legislation.gov.uk/ssi/2025/36), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/36/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2025/36/regulation/2/2/b)
 
-[^key-8be76d80e9fba8d23e65a96b755f1364]: Textual amendment: [Reg. 2(6A)](https://www.legislation.gov.uk/ssi/2025/8/regulation/2/6A) inserted (31.3.2025) by [The Local Governance (Scotland) Act 2004 (Remuneration) Amendment (Amendment) Regulations 2025 (S.S.I. 2025/36)](https://www.legislation.gov.uk/ssi/2025/36), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/36/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2025/36/regulation/2/2/c)
+[^c-8be76d80e9fba8d23e65a96b755f1364]: Textual amendment: [Reg. 2(6A)](https://www.legislation.gov.uk/ssi/2025/8/regulation/2/6A) inserted (31.3.2025) by [The Local Governance (Scotland) Act 2004 (Remuneration) Amendment (Amendment) Regulations 2025 (S.S.I. 2025/36)](https://www.legislation.gov.uk/ssi/2025/36), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/36/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2025/36/regulation/2/2/c)

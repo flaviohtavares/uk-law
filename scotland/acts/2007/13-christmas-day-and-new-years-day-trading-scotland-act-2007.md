@@ -103,10 +103,10 @@ In this Act—
 
 - “**the 1968 Act**” means the Medicines Act 1968 (c. 67);
 - “**alcohol**” has the meaning given by section 2 of the Licensing (Scotland) Act 2005 (asp 16);
-- [^key-df6a42c94f465b801b4cc0d884efc09e]...
+- [^c-df6a42c94f465b801b4cc0d884efc09e]...
 - “**commercial airport**” means any airport (within the meaning of section 82(1) of the Airports Act 1986 (c. 31)) at which facilities are provided for use by members of the general public travelling by air;
 - “**large shop**” means a shop which has a relevant floor area exceeding 280 square metres;
-- “on prescription” means in accordance with a prescription given by an appropriate practitioner, within the meaning of regulation[^key-7c379e94ee794ec0ba6fdd9f0890a430] 214(1) and (3) to (6) (sale or supply of prescription only medicines) of the Human Medicines Regulations 2012;
+- “on prescription” means in accordance with a prescription given by an appropriate practitioner, within the meaning of regulation[^c-7c379e94ee794ec0ba6fdd9f0890a430] 214(1) and (3) to (6) (sale or supply of prescription only medicines) of the Human Medicines Regulations 2012;
 - “**medicinal product**” has the meaning given by section 130 of the 1968 Act;
 - “**motorway service area**” means an area of land comprising service area development within the meaning of section 119(2) of the Roads (Scotland) Act 1984 (c. 54);
 - “**registered pharmacy**” has the meaning given by section 74 of the 1968 Act;
@@ -121,6 +121,6 @@ This Act may be cited as the Christmas Day and New Year's Day Trading (Scotland)
 
 ## Annotations
 
-[^key-df6a42c94f465b801b4cc0d884efc09e]: Textual amendment: Words in s. 7 omitted (14.8.2012) by virtue of [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 45(a)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/45/a) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-df6a42c94f465b801b4cc0d884efc09e]: Textual amendment: Words in s. 7 omitted (14.8.2012) by virtue of [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 45(a)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/45/a) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
-[^key-7c379e94ee794ec0ba6fdd9f0890a430]: Textual amendment: Words in s. 7 substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 45(b)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/45/b) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-7c379e94ee794ec0ba6fdd9f0890a430]: Textual amendment: Words in s. 7 substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 45(b)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/45/b) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))

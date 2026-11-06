@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Determination of “the age addition”[^key-cf4af46fc391ea81f61f58d68192530e]
+## 26. Determination of “the age addition”[^c-cf4af46fc391ea81f61f58d68192530e]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf4af46fc391ea81f61f58d68192530e]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2014/2848/regulation/26) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-cf4af46fc391ea81f61f58d68192530e]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2014/2848/regulation/26) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

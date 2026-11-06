@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Failure to find or to maintain caution[^key-afd956b8b13e2bbe0f32b1d21ce17b20]
+## 14. Failure to find or to maintain caution[^c-afd956b8b13e2bbe0f32b1d21ce17b20]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Apply rule 4.4 of the 1986 Rules.
 
 ## Annotations
 
-[^key-afd956b8b13e2bbe0f32b1d21ce17b20]: Commencement: Rule 14 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-afd956b8b13e2bbe0f32b1d21ce17b20]: Commencement: Rule 14 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

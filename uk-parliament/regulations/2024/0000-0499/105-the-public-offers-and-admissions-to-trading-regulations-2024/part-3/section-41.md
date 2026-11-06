@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Regulations 39 and 40: procedure and right to refer to Tribunal[^key-cd8c5502f3f7242d7811d03ace787f5a]
+## 41. Regulations 39 and 40: procedure and right to refer to Tribunal[^c-cd8c5502f3f7242d7811d03ace787f5a]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd8c5502f3f7242d7811d03ace787f5a]: Commencement: Reg. 41 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-cd8c5502f3f7242d7811d03ace787f5a]: Commencement: Reg. 41 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)

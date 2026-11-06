@@ -44,11 +44,11 @@ Coming into operation
 
 The Department of the Environment, being a department designated[^f00001] for the purpose of section 2(2) of the European Communities Act 1972[^f00002] in relation to the regulation and supervision of working conditions of persons engaged in road transport and the regulation of the type, description, construction or equipment of vehicles, in exercise of the powers conferred by that section, and in exercise of the powers conferred on it by section 56(1) and (5) of the Finance Act 1973[^f00003] and by Articles 56(5), 58(1), 63, 83(1) and 218(1) of the Road Traffic Order (Northern Ireland) 1981[^f00004], and of every other power enabling it in that behalf, and with the consent of the Department of Finance and Personnel[^f00005] as regards regulation 9, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-829ddd06bbd1d7154a7abe37f90b65c1]
+## 1. Citation and commencement[^c-829ddd06bbd1d7154a7abe37f90b65c1]
 
 These Regulations may be cited as the Passenger and Goods Vehicles (Recording Equipment) Regulations (Northern Ireland) 1996 and shall come into operation on 3rd June 1996.
 
-## 2. Interpretation[^key-0cce43ea5cc500ddd1e28a9f55a3d005]
+## 2. Interpretation[^c-0cce43ea5cc500ddd1e28a9f55a3d005]
 
 (1) In these Regulations—
 
@@ -60,7 +60,7 @@ These Regulations may be cited as the Passenger and Goods Vehicles (Recording Eq
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00010] shall apply to the interpretation of these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## 3. Installation and use of recording equipment[^key-0dbe4cd11f73ec4567dc97db63291eca]
+## 3. Installation and use of recording equipment[^c-0dbe4cd11f73ec4567dc97db63291eca]
 
 (1) A person shall not use, or cause or permit to be used, a vehicle to which this regulation applies—
 
@@ -91,7 +91,7 @@ and any person who contravenes this provision shall be guilty of an offence and 
 
 (7) This regulation applies at any time to any vehicle to which Part V of the Order applies if, at that time, Article 3 of the Community Recording Equipment Regulation requires recording equipment to be installed and used in that vehicle; and in this regulation and regulations 5 and 6 any expression which is also used in that Regulation has the same meaning as in that Regulation.
 
-## 4. Provisions supplementary to regulation 3[^key-09099c2fdb158833f71c621c755a08ed]
+## 4. Provisions supplementary to regulation 3[^c-09099c2fdb158833f71c621c755a08ed]
 
 (1) If an employed driver of a vehicle to which regulation 3 applies fails—
 
@@ -104,7 +104,7 @@ he shall be guilty of an offence and shall be liable on summary conviction to a 
 
 (3) Where a driver of a vehicle to which regulation 3 applies has two or more employers by whom he is employed as a driver of such a vehicle, paragraph (1)(*a*) and paragraph (2) shall apply as if any reference to his employer, or any reference which is to be construed as such a reference, were a reference to such of those employers as was the first to employ him in that capacity.
 
-## 5. Forgery, etc. of seals on recording equipment[^key-1a3fd3f379cbea35fc1580324ad0299f]
+## 5. Forgery, etc. of seals on recording equipment[^c-1a3fd3f379cbea35fc1580324ad0299f]
 
 (1) A person who, with intent to deceive, forges, alters or uses any seal on recording equipment installed in, or designed for installation in, a vehicle to which regulation 3 applies, shall be guilty of an offence.
 
@@ -115,13 +115,13 @@ he shall be guilty of an offence and shall be liable on summary conviction to a 
 
 (3) In this regulation a person forges a seal if he makes a false seal in order that it may be used as genuine.
 
-## 6. Records, etc. produced by equipment may be used in evidence[^key-f038b7ccf5d6898b621438cca5013724]
+## 6. Records, etc. produced by equipment may be used in evidence[^c-f038b7ccf5d6898b621438cca5013724]
 
 (1) Where recording equipment is installed in a vehicle to which Part V of the Order applies, any record produced by means of the equipment shall, in any proceedings under Part V of the Order or these Regulations, be evidence of the matters appearing from the record.
 
 (2) Any entry made on a record sheet by a driver for the purposes of Article 15(2) or (5) or 16(2) of the Community Recording Equipment Regulation shall, in any proceedings under Part V of the Order or these Regulations, be evidence of the matters appearing from that entry.
 
-## 7. Inspection of recording equipment and record sheets[^key-2bdc615ed9f8626de5feec225e4ebb4a]
+## 7. Inspection of recording equipment and record sheets[^c-2bdc615ed9f8626de5feec225e4ebb4a]
 
 (1) In relation to any vehicle to which regulation 3 applies a vehicle examiner[^f00011] may, on production if so required of his authority—
 
@@ -151,7 +151,7 @@ shall be guilty of an offence and shall be liable on summary conviction to a fin
 
 (8) In this regulation references to the inspection and copying of any record produced by recording equipment include references to the application to the record of any process for eliciting the information recorded thereby and to take down the information elicited from it.
 
-## 8. Installation and repair of recording equipment, checks and inspections[^key-081794029f487065a087ec54b0b57b3b]
+## 8. Installation and repair of recording equipment, checks and inspections[^c-081794029f487065a087ec54b0b57b3b]
 
 (1) The Department shall be the competent authority in Northern Ireland for—
 
@@ -179,14 +179,14 @@ shall be guilty of an offence and shall be liable on summary conviction to a fin
 
 and any list published under sub-paragraph (*a*) shall specify the mark to be placed by each approved fitter or workshop on any seals which shall be affixed to any recording equipment.
 
-## 9. Fee for approval or renewal of approval of fitters and workshops[^key-0def9e9f2466d8b1702389065e32013f]
+## 9. Fee for approval or renewal of approval of fitters and workshops[^c-0def9e9f2466d8b1702389065e32013f]
 
 The fee to be paid to the Department for—
 
 - (a) granting approval of a fitter or workshop for recording equipment in accordance with Article 12 of the Community Recording Equipment Regulation shall be £325;
 - (b) renewing an approval shall be £99.
 
-## 10. Disapplication of requirement to keep drivers' record books[^key-1bdf09a8cd46024213256694e9330517]
+## 10. Disapplication of requirement to keep drivers' record books[^c-1bdf09a8cd46024213256694e9330517]
 
 (1) The requirements of regulations made under Part V of the Order with respect to the keeping of, and making of entries in, drivers' record books, so far as regards the driving of, and other work in connection with, a vehicle, shall not apply as respects the driving of a vehicle to which regulation 3 applies.
 
@@ -194,7 +194,7 @@ The fee to be paid to the Department for—
 
 (3) A person shall neither be liable to be convicted under Article 82(3) of the Order by reason of failing to comply with any requirement under paragraph (1) of that Article nor be liable to be convicted for failing to comply with any like requirement of the domestic drivers' hours code if he proves to the court that, if the vehicle in question had been such a vehicle as is mentioned in paragraph (1), there would have been no contravention of the provisions of these Regulations so far as they relate to the use of such vehicles.
 
-## 11. Revocation[^key-53d61f14b74af0b548c7653d2200840c]
+## 11. Revocation[^c-53d61f14b74af0b548c7653d2200840c]
 
 The Regulations specified in the Schedule are hereby revoked.
 
@@ -216,7 +216,7 @@ Assistant Secretary
 
 2nd April 1996
 
-## SCHEDULE — Regulations Revoked[^key-29ff3b68e995eadcb58958ac12d43a38]
+## SCHEDULE — Regulations Revoked[^c-29ff3b68e995eadcb58958ac12d43a38]
 
 | *Title* | *Year and Number* |
 | --- | --- |
@@ -261,9 +261,9 @@ Copies of the EEC Regulations referred to in these Regulations can be obtained f
 
 [^f00005]: Footnote: Formerly the Department of Finance. *See* S.I. [1982/338 (N.I. 6)](https://www.legislation.gov.uk/nisi/1982/338) Art. 3
 
-[^key-829ddd06bbd1d7154a7abe37f90b65c1]: Commencement: Reg. 1 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
+[^c-829ddd06bbd1d7154a7abe37f90b65c1]: Commencement: Reg. 1 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
 
-[^key-0cce43ea5cc500ddd1e28a9f55a3d005]: Commencement: Reg. 2 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
+[^c-0cce43ea5cc500ddd1e28a9f55a3d005]: Commencement: Reg. 2 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
 
 [^f00006]: Footnote: O.J. No. L370, 31.12.85, p. 8
 
@@ -275,24 +275,24 @@ Copies of the EEC Regulations referred to in these Regulations can be obtained f
 
 [^f00010]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-0dbe4cd11f73ec4567dc97db63291eca]: Commencement: Reg. 3 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
+[^c-0dbe4cd11f73ec4567dc97db63291eca]: Commencement: Reg. 3 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
 
-[^key-09099c2fdb158833f71c621c755a08ed]: Commencement: Reg. 4 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
+[^c-09099c2fdb158833f71c621c755a08ed]: Commencement: Reg. 4 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
 
-[^key-1a3fd3f379cbea35fc1580324ad0299f]: Commencement: Reg. 5 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
+[^c-1a3fd3f379cbea35fc1580324ad0299f]: Commencement: Reg. 5 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
 
-[^key-f038b7ccf5d6898b621438cca5013724]: Commencement: Reg. 6 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
+[^c-f038b7ccf5d6898b621438cca5013724]: Commencement: Reg. 6 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
 
-[^key-2bdc615ed9f8626de5feec225e4ebb4a]: Commencement: Reg. 7 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
+[^c-2bdc615ed9f8626de5feec225e4ebb4a]: Commencement: Reg. 7 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
 
 [^f00011]: Footnote: *See* Article 74(3) and (4) of [S.I. 1995 No. 2994 (N.I. 18)](https://www.legislation.gov.uk/nisi/1995/2994)
 
-[^key-081794029f487065a087ec54b0b57b3b]: Commencement: Reg. 8 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
+[^c-081794029f487065a087ec54b0b57b3b]: Commencement: Reg. 8 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
 
-[^key-0def9e9f2466d8b1702389065e32013f]: Commencement: Reg. 9 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
+[^c-0def9e9f2466d8b1702389065e32013f]: Commencement: Reg. 9 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
 
-[^key-1bdf09a8cd46024213256694e9330517]: Commencement: Reg. 10 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
+[^c-1bdf09a8cd46024213256694e9330517]: Commencement: Reg. 10 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
 
-[^key-53d61f14b74af0b548c7653d2200840c]: Commencement: Reg. 11 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
+[^c-53d61f14b74af0b548c7653d2200840c]: Commencement: Reg. 11 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
 
-[^key-29ff3b68e995eadcb58958ac12d43a38]: Commencement: Sch. in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)
+[^c-29ff3b68e995eadcb58958ac12d43a38]: Commencement: Sch. in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/145/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Adoptive relatives[^key-2043b9183e02267df7585e6a3a9d4c25]
+## 68. Adoptive relatives[^c-2043b9183e02267df7585e6a3a9d4c25]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) Subsection (1) does not affect the interpretation of any reference, not qualified by the word “adoptive”, to a relationship.
 
-(3)[^key-7a1309458da27eaf8979fdda4c6b244c] A reference (however expressed) to the adoptive mother and father of a child adopted by—
+(3)[^c-7a1309458da27eaf8979fdda4c6b244c] A reference (however expressed) to the adoptive mother and father of a child adopted by—
 
 - (a) a couple of the same sex, or
 - (b) a partner of the child’s parent, where the couple are of the same sex,
@@ -36,6 +36,6 @@ is to be read as a reference to the child’s adoptive parents.
 
 ## Annotations
 
-[^key-2043b9183e02267df7585e6a3a9d4c25]: Commencement: S. 68 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/d) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-2043b9183e02267df7585e6a3a9d4c25]: Commencement: S. 68 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/d) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
 
-[^key-7a1309458da27eaf8979fdda4c6b244c]: Modification: S. 68(3) applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2010/985/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/985/schedule/1)
+[^c-7a1309458da27eaf8979fdda4c6b244c]: Modification: S. 68(3) applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2010/985/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/985/schedule/1)

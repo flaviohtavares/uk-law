@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Co-operation with other public bodies[^key-448f5d3c5352508e8310c7163b16f76d]
+## 63. Co-operation with other public bodies[^c-448f5d3c5352508e8310c7163b16f76d]
 
 *Extent: E+W+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Those bodies are—
 
-- (a)[^key-ca3bef6598d44f11e44fdcb156ea5b81] the Office for Nuclear Regulation;
+- (a)[^c-ca3bef6598d44f11e44fdcb156ea5b81] the Office for Nuclear Regulation;
 - (b) the Environment Agency;
 - (c) the Department of the Environment for Northern Ireland.
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-448f5d3c5352508e8310c7163b16f76d]: Commencement: S. 63 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)
+[^c-448f5d3c5352508e8310c7163b16f76d]: Commencement: S. 63 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)
 
-[^key-ca3bef6598d44f11e44fdcb156ea5b81]: Textual amendment: [S. 63(2)(a)](https://www.legislation.gov.uk/ukpga/2008/32/section/63/2/a) substituted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 100](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/100); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-ca3bef6598d44f11e44fdcb156ea5b81]: Textual amendment: [S. 63(2)(a)](https://www.legislation.gov.uk/ukpga/2008/32/section/63/2/a) substituted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 100](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/100); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)

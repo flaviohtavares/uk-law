@@ -44,7 +44,7 @@ must be provided in the form and time requested and must be (in the Authority's 
 - (a) the distance over which the fuel was transported; and
 - (b) the conditions under which the fuel was prepared and transported.
 
-(6)[^key-6115f0aea435ab719c0b44e62c92e354] The operator of a generating station which generates electricity by burning fuel in a combustion unit may notify the Authority in writing that, until such time as the notification is withdrawn, the energy content of any biomass burned in that combustion unit will be less than 50 per cent of the energy content of all the energy sources burned in that combustion unit.
+(6)[^c-6115f0aea435ab719c0b44e62c92e354] The operator of a generating station which generates electricity by burning fuel in a combustion unit may notify the Authority in writing that, until such time as the notification is withdrawn, the energy content of any biomass burned in that combustion unit will be less than 50 per cent of the energy content of all the energy sources burned in that combustion unit.
 
 (7) A notification under paragraph (6) constitutes sufficient evidence of the fact that the energy content of the biomass burned in the combustion unit referred to in the notification is less than 50 per cent of the energy content of all the energy sources burned in that combustion unit.
 
@@ -55,4 +55,4 @@ must be provided in the form and time requested and must be (in the Authority's 
 
 ## Annotations
 
-[^key-6115f0aea435ab719c0b44e62c92e354]: Textual amendment: [Art. 36(6)-(8)](https://www.legislation.gov.uk/ssi/2009/140/article/36/6) inserted (1.4.2013) by [The Renewables Obligation (Scotland) Amendment Order 2013 (S.S.I. 2013/116)](https://www.legislation.gov.uk/ssi/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/116/article/1/1), [21](https://www.legislation.gov.uk/ssi/2013/116/article/21) (with [art. 29](https://www.legislation.gov.uk/ssi/2013/116/article/29))
+[^c-6115f0aea435ab719c0b44e62c92e354]: Textual amendment: [Art. 36(6)-(8)](https://www.legislation.gov.uk/ssi/2009/140/article/36/6) inserted (1.4.2013) by [The Renewables Obligation (Scotland) Amendment Order 2013 (S.S.I. 2013/116)](https://www.legislation.gov.uk/ssi/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/116/article/1/1), [21](https://www.legislation.gov.uk/ssi/2013/116/article/21) (with [art. 29](https://www.legislation.gov.uk/ssi/2013/116/article/29))

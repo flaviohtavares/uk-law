@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 5 — FOOTPATHS TO BE STOPPED UP[^key-73207d40a1118066a22b8c980fa5485c]
+## SCHEDULE 5 — FOOTPATHS TO BE STOPPED UP[^c-73207d40a1118066a22b8c980fa5485c]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ Article 19
 
 ## Annotations
 
-[^key-73207d40a1118066a22b8c980fa5485c]: Commencement: [Sch. 5](https://www.legislation.gov.uk/uksi/2014/2935/schedule/5) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-73207d40a1118066a22b8c980fa5485c]: Commencement: [Sch. 5](https://www.legislation.gov.uk/uksi/2014/2935/schedule/5) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

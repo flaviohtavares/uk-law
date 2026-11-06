@@ -204,7 +204,7 @@ on any land within the limits of deviation or the limits of land to be acquired 
 
 (5) Any difference under this section arising between the authorised undertaker and an authority which owns a public sewer or drain shall be determined by arbitration.
 
-(6)[^key-26fb5f536a6945de973ae4c40376d76d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-26fb5f536a6945de973ae4c40376d76d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Nothing in this section shall affect the operation of Part IV of the 1991 Act.
 
@@ -258,7 +258,7 @@ as may be required for any purpose for which that land may be acquired under tha
 
 (2) The powers conferred by subsection (1) above may be exercised in relation to a road or place without the authorised undertaker being required to acquire any part of the road or place or any servitude or right in relation to it.
 
-(3)[^key-b5735e412f4dff2b27bd936b015b606e] The powers conferred by this section constitute a real right.
+(3)[^c-b5735e412f4dff2b27bd936b015b606e] The powers conferred by this section constitute a real right.
 
 (4) Any person, who is an owner or occupier of land in respect of which the power of appropriation conferred by subsection (1) above is exercised without the authorised undertaker acquiring any part of that person’s interest in the land, and who suffers loss by reason of the exercise of that power, shall be entitled to compensation, the amount of such compensation to be determined, in case of dispute, under the 1963 Act.
 
@@ -948,6 +948,6 @@ section 66 of the Listed Buildings Act (control of demolition in conservation ar
 
 ## Annotations
 
-[^key-26fb5f536a6945de973ae4c40376d76d]: Textual amendment: S. 12(6) repealed (1.4.2006) by [Water Environment (Consequential and Savings Provisions) (Scotland) Order 2006 (S.S.I. 2006/181)](https://www.legislation.gov.uk/ssi/2006/181), [art. 1](https://www.legislation.gov.uk/ssi/2006/181/article/1), [Sch. Pt. I](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/I) (with [Sch. Pt. III](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/III))
+[^c-26fb5f536a6945de973ae4c40376d76d]: Textual amendment: S. 12(6) repealed (1.4.2006) by [Water Environment (Consequential and Savings Provisions) (Scotland) Order 2006 (S.S.I. 2006/181)](https://www.legislation.gov.uk/ssi/2006/181), [art. 1](https://www.legislation.gov.uk/ssi/2006/181/article/1), [Sch. Pt. I](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/I) (with [Sch. Pt. III](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/III))
 
-[^key-b5735e412f4dff2b27bd936b015b606e]: Textual amendment: S. 16(3) substituted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 5 paras. 45](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/45) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-b5735e412f4dff2b27bd936b015b606e]: Textual amendment: S. 16(3) substituted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 5 paras. 45](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/45) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

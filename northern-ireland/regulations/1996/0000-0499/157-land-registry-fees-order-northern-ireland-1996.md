@@ -44,7 +44,7 @@ Coming into operation
 
 The Department of the Environment, in exercise of the powers conferred by section 84 of the Land Registration Act (Northern Ireland) 1970[^f00001] and now vested in it[^f00002] and of every other power enabling it in that behalf, with the approval of the Department of Finance and Personnel[^f00003] and after consultation with the Land Registry Rules Committee established by section 85 of that Act, hereby makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-a9729af9dd049a8aac95a61f8a7e4acc]
+## 1. Citation, commencement and interpretation[^c-a9729af9dd049a8aac95a61f8a7e4acc]
 
 (1) This Order may be cited as the Land Registry (Fees) Order (Northern Ireland) 1996 and shall come into operation on 31st May 1996.
 
@@ -57,15 +57,15 @@ The Department of the Environment, in exercise of the powers conferred by sectio
 - “fees” means the fees to be taken in the Registry for the purposes of the Act;
 - “the Rules” means the Land Registration Rules (Northern Ireland) 1994[^f00004] and a reference by number to a rule or Form is a reference to the rule or Form bearing that number in the Rules.
 
-## 2. Revocation[^key-d0f671e2337e80c19aa7d744b7da770b]
+## 2. Revocation[^c-d0f671e2337e80c19aa7d744b7da770b]
 
 The Land Registry (Fees) Order (Northern Ireland) 1988[^f00005] is hereby revoked.
 
-## 3. Fees[^key-6d2d23faeb6d596c0cb7d3de4034c57c]
+## 3. Fees[^c-6d2d23faeb6d596c0cb7d3de4034c57c]
 
 Subject to the following provisions of this Order, the fees set out in Schedule 1 shall be payable in respect of the matters there mentioned.
 
-## 4. Value[^key-71b850f1c71bf247bc7e84101f7c3290]
+## 4. Value[^c-71b850f1c71bf247bc7e84101f7c3290]
 
 (1) For the purposes of this Order, the value of any estate in land, charge or notice shall be determined in accordance with paragraphs (2) to (6) and Articles 5 and 6.
 
@@ -91,7 +91,7 @@ the value of the notice shall be the same as in the case of an application to re
 
 (6) Where an application relates solely to the estate of a person entitled as a tenant in common, joint tenant or coparcener, the value of the estate in land to which the application relates shall be the value of that person’s estate; and where a registered owner transfers his estate to himself and another as co-owners, the value of the estate in land to which the application relates shall be the value of the estate passing to the other person.
 
-## 5. Charge secured on registered and unregistered land[^key-66d4900aac0953d85eb905c5862602bb]
+## 5. Charge secured on registered and unregistered land[^c-66d4900aac0953d85eb905c5862602bb]
 
 (1) Where money is secured by a charge relating partly to registered land and partly to unregistered land or other property, the fee in respect of an application to register the charge, or to register the transfer or transmission of the charge shall be payable on an amount calculated in accordance with the formula—
 
@@ -111,7 +111,7 @@ C equals the value of the charge determined in accordance with Article 4(3).
 
 (2) For the purposes of this regulation, the Registrar may accept as the value of registered land and the value of whole security, amounts stated to be those values in a statement in writing signed by the applicant for registration or his solicitor.
 
-## 6. Additional or substituted security or guarantee[^key-70f5d43d98662e30c2c56bc111590f33]
+## 6. Additional or substituted security or guarantee[^c-70f5d43d98662e30c2c56bc111590f33]
 
 Where a charge is—
 
@@ -120,21 +120,21 @@ Where a charge is—
 
 the amount on which a fee in respect of an application to register the charge, or to register a transfer or transmission of the charge shall be payable shall not exceed the value of the land to which the charge relates after deducting therefrom the amount secured on it by any prior registered charge.
 
-## 7. Instruments relating to several folios[^key-3ca205ebb354c4962eb52548b59fb44e]
+## 7. Instruments relating to several folios[^c-3ca205ebb354c4962eb52548b59fb44e]
 
 (1) Where an application is made to register an instrument relating to several folios in some or one only of those folios, the fee shall be that which would be payable if the application were to register the instrument in all the folios to which it relates.
 
 (2) Where an instrument relating to several folios has been registered in some or one only of those folios, a fee of £20 shall be payable in respect of any application to register the instrument in any of the other folios to which it relates.
 
-## 8. Reduction of fees[^key-8d0cb3009355a53199ce96887b06025d]
+## 8. Reduction of fees[^c-8d0cb3009355a53199ce96887b06025d]
 
 Where an application or dealing for which a fee in excess of £25 is prescribed by this Order is refused, abandoned or withdrawn, there shall only be payable in respect of the application or dealing the sum of £25 or one quarter of the fee prescribed by this Order in respect of the application or dealing, whichever is the greater.
 
-## 9. Exemption from fees[^key-012ed877fcc1813a0e0a8617dde7ec3c]
+## 9. Exemption from fees[^c-012ed877fcc1813a0e0a8617dde7ec3c]
 
 No fee shall be payable in respect of any matter mentioned in Schedule 2.
 
-## 10. Payment of fees[^key-6784554ac3f25873edb6bf440c188328]
+## 10. Payment of fees[^c-6784554ac3f25873edb6bf440c188328]
 
 (1) Fees shall be payable at the time when an application, dealing or other matter in relation to which a fee is to be taken, is presented to the Registry.
 
@@ -142,7 +142,7 @@ No fee shall be payable in respect of any matter mentioned in Schedule 2.
 
 (3) Every fee shall be paid in cash or by means of a banker’s draft, money order, postal order or cheque.
 
-## 11. Application to the Crown[^key-e03eefa818d9395a41c99339a223b158]
+## 11. Application to the Crown[^c-e03eefa818d9395a41c99339a223b158]
 
 Subject to the provisions of the Act, this Order shall bind the Crown to the full extent authorised or permitted by the constitutional laws of Northern Ireland.
 
@@ -170,7 +170,7 @@ Article 3
 
 ### Part I — Scale Fees
 
-#### 1. Scales[^key-71567b80f8d640e6f324325d122d8ce3]
+#### 1. Scales[^c-71567b80f8d640e6f324325d122d8ce3]
 
 Subject to paragraph 4, on any application to register a transfer, or an exchange or a change of ownership under section 36 of the Act[^f00008] (excluding such an application as is referred to in paragraph 7(k)) or under section 53 of the Act[^f00009] the fee shall be payable according to the value of the estate in land to which the application relates and calculated by reference to the Scale below—
 
@@ -181,7 +181,7 @@ Scale
 | Where the value does not exceed £5,000 |  | £25 (minimum fee) |
 | Where the value exceeds £5,000 |  | £25 for the first £5,000 and £25 for every £5,000 or part thereof exceeding £5,000 with a maximum fee of £350 |
 
-**2.**[^key-7d4f89e63b01ffc1ca11e9be89431e22] On any application to register a charge or a notice under Article 48 of the Judgments Enforcement (Northern Ireland) Order 1981 or paragraph 4 of Part IV of Schedule 2 to the Act, the fee shall be payable according to the value of the charge or notice and calculated by reference to the Scale below—
+**2.**[^c-7d4f89e63b01ffc1ca11e9be89431e22] On any application to register a charge or a notice under Article 48 of the Judgments Enforcement (Northern Ireland) Order 1981 or paragraph 4 of Part IV of Schedule 2 to the Act, the fee shall be payable according to the value of the charge or notice and calculated by reference to the Scale below—
 
 Scale
 
@@ -190,13 +190,13 @@ Scale
 | Where the value does not exceed £5,000 |  | £25 (minimum fee) |
 | Where the value exceeds £5,000 |  | £12·50 for the first £5,000 and £12·50 for every £5,000 or part thereof exceeding £5,000 with a maximum fee of £175 |
 
-**3.**[^key-952f8d178c5d712d785d2ad7e31809ce] On any application to make any entry or cancellation on the register where such entry or cancellation involves the investigation of title to an estate in unregistered land and for which a fee is not otherwise prescribed by this Order, the fee shall be payable according to the value of the estate in the unregistered land and calculated by reference to the Scale set out in paragraph 1.
+**3.**[^c-952f8d178c5d712d785d2ad7e31809ce] On any application to make any entry or cancellation on the register where such entry or cancellation involves the investigation of title to an estate in unregistered land and for which a fee is not otherwise prescribed by this Order, the fee shall be payable according to the value of the estate in the unregistered land and calculated by reference to the Scale set out in paragraph 1.
 
-**4.**[^key-4398fe589d66c0ec365dbaead6b760f7] The minimum fee (£25) shall be payable on an application to register documents effecting a change of trustees and documents whereby registered co-owners transfer their estates in the land to themselves.
+**4.**[^c-4398fe589d66c0ec365dbaead6b760f7] The minimum fee (£25) shall be payable on an application to register documents effecting a change of trustees and documents whereby registered co-owners transfer their estates in the land to themselves.
 
 ### Part II — Fixed Fees
 
-#### 5. First registration[^key-2ffaff3a67179f2290eb53e48fd02376]
+#### 5. First registration[^c-2ffaff3a67179f2290eb53e48fd02376]
 
 The fees set out in this paragraph shall be payable in respect of an application for the first registration of any title, under Part II of the Rules—
 
@@ -205,7 +205,7 @@ The fees set out in this paragraph shall be payable in respect of an application
 | - (a) where an application has been made in Form 1 with such modifications as the case may require |  | £50·00 |
 | - (b) where an application is not in such form |  | £150·00 |
 
-#### 6. Reclassification of title[^key-2f11daa219e43fe50b5dc7e617d16037]
+#### 6. Reclassification of title[^c-2f11daa219e43fe50b5dc7e617d16037]
 
 The fees set out in this paragraph shall be payable in respect of the following applications—
 
@@ -218,7 +218,7 @@ The fees set out in this paragraph shall be payable in respect of the following 
 | - (c) application to reclassify a title not otherwise provided for—<br>  - (i) where the value of the estate in land to which the application relates does not exceed £10,000 |  | £25·00 |
 | - (ii) where such value exceeds £10,000 |  | £50·00 |
 
-#### 7. Registration[^key-29628199fc727a88fa7720583cfd4831]
+#### 7. Registration[^c-29628199fc727a88fa7720583cfd4831]
 
 The fees set out in this paragraph shall be payable in respect of the following applications—
 
@@ -242,7 +242,7 @@ The fees set out in this paragraph shall be payable in respect of the following 
 | - (m) application to cancel a burden on the title register where the title to unregistered land which had the benefit of such burden requires to be investigated |  | £25·00 |
 | - (n) application to make any entry or cancellation on the title register for which a fee is not otherwise prescribed by this Order and where the investigation of title to unregistered land is not involved |  | £25·00 |
 
-#### 8. Land certificates and certificates of charge[^key-fa28e06089341e729ff7d3b57b0dfbda]
+#### 8. Land certificates and certificates of charge[^c-fa28e06089341e729ff7d3b57b0dfbda]
 
 The fees set out in this paragraph shall be payable in respect of the following applications—
 
@@ -256,7 +256,7 @@ The fees set out in this paragraph shall be payable in respect of the following 
 | - (e) application for an order for production of a land certificate or certificate of charge |  | £10·00 |
 | - (f) application to dispense with production of a land certificate or certificate or charge |  | £25·00 |
 
-#### 9. Inspection, copies and searches[^key-d68accb96c96ae66a23bdaca9824d178]
+#### 9. Inspection, copies and searches[^c-d68accb96c96ae66a23bdaca9824d178]
 
 The fees set out in this paragraph shall be payable in respect of the following matters—
 
@@ -282,7 +282,7 @@ The fees set out in this paragraph shall be payable in respect of the following 
 | - (k) priority search in accordance with rule 187 including certificate of the result of such search |  | £15·00 |
 | - (l) search applied for by telephone or fax in accordance with rule 189 |  | £5·00 |
 
-#### 10. Miscellaneous fees[^key-36f5de350ba41a14a8974b54385642fb]
+#### 10. Miscellaneous fees[^c-36f5de350ba41a14a8974b54385642fb]
 
 The fees set out in this paragraph shall be payable in respect of the following matters—
 
@@ -297,13 +297,13 @@ The fees set out in this paragraph shall be payable in respect of the following 
 | - (f) application for approval of a map or plan |  | £10·00 |
 | - (g) application, in accordance with rule 146, to decide questions as to boundaries or extent of registered lands arising on transfer and including any entry or cancellation made on the register on any such application |  | £25·00 |
 
-#### 11. Meaning of normal size[^key-e9e53132ba123efe27654797292826df]
+#### 11. Meaning of normal size[^c-e9e53132ba123efe27654797292826df]
 
 In this Part and Part III “normal size” in relation to a document means 210 millimetres by 297 millimetres.
 
 ### Part III — Statutory Charges Register
 
-**12.**[^key-5c7c0223e977e1d53da801972002c233] In relation to the Statutory Charges Register, the fees set out in this paragraph shall be payable in respect of the following matters—
+**12.**[^c-5c7c0223e977e1d53da801972002c233] In relation to the Statutory Charges Register, the fees set out in this paragraph shall be payable in respect of the following matters—
 
 |  |  |  |
 | --- | --- | --- |
@@ -325,43 +325,43 @@ In this Part and Part III “normal size” in relation to a document means 210 
 
 Article 9
 
-**1.**[^key-a6f058dec48788504c75561ed4d8c843] Registration as a burden, at the time of first registration of the title, of a matter which arose before first registration other than a charge for payment of money affecting a leasehold estate where the ownership of the leasehold estate will be registered in accordance with rule 82(2) or 83.
+**1.**[^c-a6f058dec48788504c75561ed4d8c843] Registration as a burden, at the time of first registration of the title, of a matter which arose before first registration other than a charge for payment of money affecting a leasehold estate where the ownership of the leasehold estate will be registered in accordance with rule 82(2) or 83.
 
-**2.**[^key-1ec8e66d2e76576c9fecbadbaf9dc862] Registration on a folio of the ownership of a burden where such registration is made at the time of its registration as a burden.
+**2.**[^c-1ec8e66d2e76576c9fecbadbaf9dc862] Registration on a folio of the ownership of a burden where such registration is made at the time of its registration as a burden.
 
-**3.**[^key-0c9a69ddd58db6296926d85c1df84f62] Registration as a burden of an easement or profit-a-prendre or a right to which section 47 of the Act applies or a right of maintenance or support where such easement, profit-a-prendre or right is created or granted in a document of transfer or lease and such registration is made at the time of registration of the transfer or lease.
+**3.**[^c-0c9a69ddd58db6296926d85c1df84f62] Registration as a burden of an easement or profit-a-prendre or a right to which section 47 of the Act applies or a right of maintenance or support where such easement, profit-a-prendre or right is created or granted in a document of transfer or lease and such registration is made at the time of registration of the transfer or lease.
 
-**4.**[^key-97846dd13da186b2fcc969a7abe785f0] Registration of an appurtenance where the easement is created or granted in a document of transfer or lease and such registration is made at the time of registration of the transfer or lease.
+**4.**[^c-97846dd13da186b2fcc969a7abe785f0] Registration of an appurtenance where the easement is created or granted in a document of transfer or lease and such registration is made at the time of registration of the transfer or lease.
 
-**5.**[^key-5a0869badce3d428074c2fe666d15f2d] Registration of a burden created by the will of a registered owner or in a deed of settlement or of a charge under section 7 of the Administration of Estates Act (Northern Ireland) 1955[^f00010] when such burden is registered at the time of registration of a change in ownership of the land which is the subject of the burden.
+**5.**[^c-5a0869badce3d428074c2fe666d15f2d] Registration of a burden created by the will of a registered owner or in a deed of settlement or of a charge under section 7 of the Administration of Estates Act (Northern Ireland) 1955[^f00010] when such burden is registered at the time of registration of a change in ownership of the land which is the subject of the burden.
 
-**6.**[^key-3b7e73ca721c2fedefb64df1d1e92c88] Registration of a charge created by an order charging land made under Article 46 of the Judgments Enforcement (Northern Ireland) Order 1981[^f00011] when notice of that order has been entered on the title register under Article 48 of that Order or paragraph 4 of Part IV of Schedule 2 to the Act[^f00012] or cancellation of such notice upon registration of such a charge.
+**6.**[^c-3b7e73ca721c2fedefb64df1d1e92c88] Registration of a charge created by an order charging land made under Article 46 of the Judgments Enforcement (Northern Ireland) Order 1981[^f00011] when notice of that order has been entered on the title register under Article 48 of that Order or paragraph 4 of Part IV of Schedule 2 to the Act[^f00012] or cancellation of such notice upon registration of such a charge.
 
-**7.**[^key-6ac59323a979440cad7d48a36545e2f5] Entry of notice of the existence of a burden specified in entry 5 of Part I of Schedule 5 to the Act, or cancellation of any burden specified in entry 3, 4 or 5 of Part I of that Schedule.
+**7.**[^c-6ac59323a979440cad7d48a36545e2f5] Entry of notice of the existence of a burden specified in entry 5 of Part I of Schedule 5 to the Act, or cancellation of any burden specified in entry 3, 4 or 5 of Part I of that Schedule.
 
-**8.**[^key-0b4642172266c531427f51e132a58fa5] Reclassification of a title on the initiative of the Registrar under paragraph 3 of Schedule 3 to the Act.
+**8.**[^c-0b4642172266c531427f51e132a58fa5] Reclassification of a title on the initiative of the Registrar under paragraph 3 of Schedule 3 to the Act.
 
-**9.**[^key-070cdc33cb1309d1b850b976e6758372] Rectification of the register or the Statutory Charges Register where the rectification is made in consequence of an error made in the Registry.
+**9.**[^c-070cdc33cb1309d1b850b976e6758372] Rectification of the register or the Statutory Charges Register where the rectification is made in consequence of an error made in the Registry.
 
-**10.**[^key-c61992e85d04476fb0c067a02bd36970] Entry of an inhibition by the Registrar under section 68[^f00013] of the Act.
+**10.**[^c-c61992e85d04476fb0c067a02bd36970] Entry of an inhibition by the Registrar under section 68[^f00013] of the Act.
 
-**11.**[^key-f3c036b9171d500dce805bdd286962a0] Alteration of the description of land registered in a folio.
+**11.**[^c-f3c036b9171d500dce805bdd286962a0] Alteration of the description of land registered in a folio.
 
-**12.**[^key-07cac82a90598348a249a34531370237] Alteration of the address or description of a person appearing in a folio or alteration of such person’s surname consequent on marriage.
+**12.**[^c-07cac82a90598348a249a34531370237] Alteration of the address or description of a person appearing in a folio or alteration of such person’s surname consequent on marriage.
 
-**13.**[^key-1e4a028a7debc48b6928f00409507e54] Approval of an estate development or building plan intended for use in a series of dealings.
+**13.**[^c-1e4a028a7debc48b6928f00409507e54] Approval of an estate development or building plan intended for use in a series of dealings.
 
-**14.**[^key-98e4d0f523ba724416171d7fdaac9920] Registration of a charge or other burden on a superior estate consequent on the extinguishment of an inferior estate.
+**14.**[^c-98e4d0f523ba724416171d7fdaac9920] Registration of a charge or other burden on a superior estate consequent on the extinguishment of an inferior estate.
 
-**15.**[^key-9eab72d7b9ea0057bd967123b6a65f73] Entry of notice of the deposit of a certificate of title to secure the payment of money where that notice has been lodged in the Registry under rules 129(5) and 137(1) in response to an order made by the Registrar for the production of the certificate of title.
+**15.**[^c-9eab72d7b9ea0057bd967123b6a65f73] Entry of notice of the deposit of a certificate of title to secure the payment of money where that notice has been lodged in the Registry under rules 129(5) and 137(1) in response to an order made by the Registrar for the production of the certificate of title.
 
-**16.**[^key-09e0394ae41bd35a1d50f2b8b0e4cff7] Registration of the devolution of the title of any person entitled to be registered as owner but not so registered, where application has been made for the registration of ownership on transmission on the death of a full owner or on cessation of a limited ownership.
+**16.**[^c-09e0394ae41bd35a1d50f2b8b0e4cff7] Registration of the devolution of the title of any person entitled to be registered as owner but not so registered, where application has been made for the registration of ownership on transmission on the death of a full owner or on cessation of a limited ownership.
 
-**17.**[^key-b02c6971df1745c2fd7d03a832afea76] The cancellation of a caution or inhibition.
+**17.**[^c-b02c6971df1745c2fd7d03a832afea76] The cancellation of a caution or inhibition.
 
-**18.**[^key-9f3de2b0f08bd31c77767a44b54ef700] The renewal or cancellation of an entry of notice of the presenting of a bankruptcy petition referred to in section 67A(1)[^f00014] of the Act.
+**18.**[^c-9f3de2b0f08bd31c77767a44b54ef700] The renewal or cancellation of an entry of notice of the presenting of a bankruptcy petition referred to in section 67A(1)[^f00014] of the Act.
 
-**19.**[^key-309e8afa60d607dcef46c26377738383] Amendment of the title register pursuant to rule 164.
+**19.**[^c-309e8afa60d607dcef46c26377738383] Amendment of the title register pursuant to rule 164.
 
 (This note is not part of the Order.)
 
@@ -387,108 +387,108 @@ The Order revokes and replaces the Land Registry (Fees) Order (Northern Ireland)
 
 [^f00003]: Footnote: Approval function conferred by S.I. [1982/338 (N.I. 6)](https://www.legislation.gov.uk/nisi/1982/338) Art. 9 and Sch. 2
 
-[^key-a9729af9dd049a8aac95a61f8a7e4acc]: Commencement: Art. 1 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-a9729af9dd049a8aac95a61f8a7e4acc]: Commencement: Art. 1 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
 [^f00004]: Footnote: [S.R. 1994 No. 424](https://www.legislation.gov.uk/nisr/1994/424)
 
-[^key-d0f671e2337e80c19aa7d744b7da770b]: Commencement: Art. 2 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-d0f671e2337e80c19aa7d744b7da770b]: Commencement: Art. 2 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
 [^f00005]: Footnote: [S.R. 1988 No. 410](https://www.legislation.gov.uk/nisr/1988/410)
 
-[^key-6d2d23faeb6d596c0cb7d3de4034c57c]: Commencement: Art. 3 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-6d2d23faeb6d596c0cb7d3de4034c57c]: Commencement: Art. 3 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
-[^key-71b850f1c71bf247bc7e84101f7c3290]: Commencement: Art. 4 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-71b850f1c71bf247bc7e84101f7c3290]: Commencement: Art. 4 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
 [^f00006]: Footnote: S.I. [1981/226 (N.I. 6)](https://www.legislation.gov.uk/nisi/1981/226): Art. 48 was amended by Art. 51 of and para. 6(1) of Sch. 1 to the Registration (Land and Deeds) (Northern Ireland) Order 1992, S.I. [1992/811 (N.I. 7)](https://www.legislation.gov.uk/nisi/1992/811) and Art. 46 was amended by Art. 10(3) of that Order
 
 [^f00007]: Footnote: Part IV of Schedule 2 was inserted into the Land Registration Act (Northern Ireland) 1970, [1970 c. 18 (N.I.)](https://www.legislation.gov.uk/apni/1970/18) by Art. 10(2) of the Registration (Land and Deeds) (Northern Ireland) Order 1992, S.I. [1992/811 (N.I. 7)](https://www.legislation.gov.uk/nisi/1992/811)
 
-[^key-66d4900aac0953d85eb905c5862602bb]: Commencement: Art. 5 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-66d4900aac0953d85eb905c5862602bb]: Commencement: Art. 5 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
-[^key-70f5d43d98662e30c2c56bc111590f33]: Commencement: Art. 6 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-70f5d43d98662e30c2c56bc111590f33]: Commencement: Art. 6 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
-[^key-3ca205ebb354c4962eb52548b59fb44e]: Commencement: Art. 7 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-3ca205ebb354c4962eb52548b59fb44e]: Commencement: Art. 7 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
-[^key-8d0cb3009355a53199ce96887b06025d]: Commencement: Art. 8 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-8d0cb3009355a53199ce96887b06025d]: Commencement: Art. 8 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
-[^key-012ed877fcc1813a0e0a8617dde7ec3c]: Commencement: Art. 9 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-012ed877fcc1813a0e0a8617dde7ec3c]: Commencement: Art. 9 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
-[^key-6784554ac3f25873edb6bf440c188328]: Commencement: Art. 10 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-6784554ac3f25873edb6bf440c188328]: Commencement: Art. 10 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
-[^key-e03eefa818d9395a41c99339a223b158]: Commencement: Art. 11 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-e03eefa818d9395a41c99339a223b158]: Commencement: Art. 11 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
-[^key-71567b80f8d640e6f324325d122d8ce3]: Commencement: Sch. 1 para. 1 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-71567b80f8d640e6f324325d122d8ce3]: Commencement: Sch. 1 para. 1 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
 [^f00008]: Footnote: Section 36 of the Land Registration Act (Northern Ireland) 1970, [1970 c. 18 (N.I.)](https://www.legislation.gov.uk/apni/1970/18), has been amended by Art. 17 of the Registration (Land and Deeds) (Northern Ireland) Order 1992, S.I. [1992/811 (N.I. 7)](https://www.legislation.gov.uk/nisi/1992/811)
 
 [^f00009]: Footnote: Section 53 of the Land Registration Act (Northern Ireland) 1970, [1970 c. 18 (N.I.)](https://www.legislation.gov.uk/apni/1970/18), has been amended by Art. 76(2) of and para. 4 of Sch. 3 to the Limitation (Northern Ireland) Order 1989, S.I. [1989/1339 (N.I. 11)](https://www.legislation.gov.uk/nisi/1989/1339)
 
-[^key-7d4f89e63b01ffc1ca11e9be89431e22]: Commencement: Sch. 1 para. 2 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-7d4f89e63b01ffc1ca11e9be89431e22]: Commencement: Sch. 1 para. 2 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
-[^key-952f8d178c5d712d785d2ad7e31809ce]: Commencement: Sch. 1 para. 3 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-952f8d178c5d712d785d2ad7e31809ce]: Commencement: Sch. 1 para. 3 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
-[^key-4398fe589d66c0ec365dbaead6b760f7]: Commencement: Sch. 1 para. 4 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-4398fe589d66c0ec365dbaead6b760f7]: Commencement: Sch. 1 para. 4 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
-[^key-2ffaff3a67179f2290eb53e48fd02376]: Commencement: Sch. 1 para. 5 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-2ffaff3a67179f2290eb53e48fd02376]: Commencement: Sch. 1 para. 5 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
-[^key-2f11daa219e43fe50b5dc7e617d16037]: Commencement: Sch. 1 para. 6 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-2f11daa219e43fe50b5dc7e617d16037]: Commencement: Sch. 1 para. 6 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
-[^key-29628199fc727a88fa7720583cfd4831]: Commencement: Sch. 1 para. 7 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-29628199fc727a88fa7720583cfd4831]: Commencement: Sch. 1 para. 7 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
-[^key-fa28e06089341e729ff7d3b57b0dfbda]: Commencement: Sch. 1 para. 8 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-fa28e06089341e729ff7d3b57b0dfbda]: Commencement: Sch. 1 para. 8 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
-[^key-d68accb96c96ae66a23bdaca9824d178]: Commencement: Sch. 1 para. 9 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-d68accb96c96ae66a23bdaca9824d178]: Commencement: Sch. 1 para. 9 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
-[^key-36f5de350ba41a14a8974b54385642fb]: Commencement: Sch. 1 para. 10 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-36f5de350ba41a14a8974b54385642fb]: Commencement: Sch. 1 para. 10 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
-[^key-e9e53132ba123efe27654797292826df]: Commencement: Sch. 1 para. 11 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-e9e53132ba123efe27654797292826df]: Commencement: Sch. 1 para. 11 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
-[^key-5c7c0223e977e1d53da801972002c233]: Commencement: Sch. 1 para. 12 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-5c7c0223e977e1d53da801972002c233]: Commencement: Sch. 1 para. 12 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
-[^key-a6f058dec48788504c75561ed4d8c843]: Commencement: Sch. 2 para. 1 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-a6f058dec48788504c75561ed4d8c843]: Commencement: Sch. 2 para. 1 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
-[^key-1ec8e66d2e76576c9fecbadbaf9dc862]: Commencement: Sch. 2 para. 2 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-1ec8e66d2e76576c9fecbadbaf9dc862]: Commencement: Sch. 2 para. 2 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
-[^key-0c9a69ddd58db6296926d85c1df84f62]: Commencement: Sch. 2 para. 3 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-0c9a69ddd58db6296926d85c1df84f62]: Commencement: Sch. 2 para. 3 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
-[^key-97846dd13da186b2fcc969a7abe785f0]: Commencement: Sch. 2 para. 4 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-97846dd13da186b2fcc969a7abe785f0]: Commencement: Sch. 2 para. 4 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
-[^key-5a0869badce3d428074c2fe666d15f2d]: Commencement: Sch. 2 para. 5 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-5a0869badce3d428074c2fe666d15f2d]: Commencement: Sch. 2 para. 5 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
 [^f00010]: Footnote: [1955 c. 24 (N.I.)](https://www.legislation.gov.uk/apni/1955/24)
 
-[^key-3b7e73ca721c2fedefb64df1d1e92c88]: Commencement: Sch. 2 para. 6 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-3b7e73ca721c2fedefb64df1d1e92c88]: Commencement: Sch. 2 para. 6 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
 [^f00011]: Footnote: S.I. [1981/226 (N.I. 6)](https://www.legislation.gov.uk/nisi/1981/226); Art. 46 was amended by Art. 10(3) of the Registration (Lands and Deeds) (Northern Ireland) Order 1992, S.I. [1992/811 (N.I. 7)](https://www.legislation.gov.uk/nisi/1992/811) and Art. 48 was amended by Art. 51 of and para. 6(1) of Sch. 1 to that Order
 
 [^f00012]: Footnote: Part IV of Schedule 2 was inserted into the Land Registration Act (Northern Ireland) 1970, [1970 c. 18 (N.I.)](https://www.legislation.gov.uk/apni/1970/18), by Art. 10(2) of the Registration (Land and Deeds) (Northern Ireland) Order 1992, S.I. [1992/811 (N.I. 7)](https://www.legislation.gov.uk/nisi/1992/811)
 
-[^key-6ac59323a979440cad7d48a36545e2f5]: Commencement: Sch. 2 para. 7 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-6ac59323a979440cad7d48a36545e2f5]: Commencement: Sch. 2 para. 7 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
-[^key-0b4642172266c531427f51e132a58fa5]: Commencement: Sch. 2 para. 8 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-0b4642172266c531427f51e132a58fa5]: Commencement: Sch. 2 para. 8 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
-[^key-070cdc33cb1309d1b850b976e6758372]: Commencement: Sch. 2 para. 9 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-070cdc33cb1309d1b850b976e6758372]: Commencement: Sch. 2 para. 9 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
-[^key-c61992e85d04476fb0c067a02bd36970]: Commencement: Sch. 2 para. 10 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-c61992e85d04476fb0c067a02bd36970]: Commencement: Sch. 2 para. 10 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
 [^f00013]: Footnote: Section 68 was amended by Art. 51 of and paras. 1, 2(1), (3) and 4(5) of Sch. 1 to the Registration (Land and Deeds) (Northern Ireland) Order 1992, S.I. [1992/811 (N.I. 7)](https://www.legislation.gov.uk/nisi/1992/811)
 
-[^key-f3c036b9171d500dce805bdd286962a0]: Commencement: Sch. 2 para. 11 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-f3c036b9171d500dce805bdd286962a0]: Commencement: Sch. 2 para. 11 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
-[^key-07cac82a90598348a249a34531370237]: Commencement: Sch. 2 para. 12 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-07cac82a90598348a249a34531370237]: Commencement: Sch. 2 para. 12 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
-[^key-1e4a028a7debc48b6928f00409507e54]: Commencement: Sch. 2 para. 13 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-1e4a028a7debc48b6928f00409507e54]: Commencement: Sch. 2 para. 13 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
-[^key-98e4d0f523ba724416171d7fdaac9920]: Commencement: Sch. 2 para. 14 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-98e4d0f523ba724416171d7fdaac9920]: Commencement: Sch. 2 para. 14 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
-[^key-9eab72d7b9ea0057bd967123b6a65f73]: Commencement: Sch. 2 para. 15 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-9eab72d7b9ea0057bd967123b6a65f73]: Commencement: Sch. 2 para. 15 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
-[^key-09e0394ae41bd35a1d50f2b8b0e4cff7]: Commencement: Sch. 2 para. 16 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-09e0394ae41bd35a1d50f2b8b0e4cff7]: Commencement: Sch. 2 para. 16 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
-[^key-b02c6971df1745c2fd7d03a832afea76]: Commencement: Sch. 2 para. 17 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-b02c6971df1745c2fd7d03a832afea76]: Commencement: Sch. 2 para. 17 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
-[^key-9f3de2b0f08bd31c77767a44b54ef700]: Commencement: Sch. 2 para. 18 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-9f3de2b0f08bd31c77767a44b54ef700]: Commencement: Sch. 2 para. 18 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
 
 [^f00014]: Footnote: Section 67A was inserted into the Land Registration Act (Northern Ireland) 1970, [1970 c. 18 (N.I.)](https://www.legislation.gov.uk/apni/1970/18), by Art. 381(2) of and para. 72 of Part II of Sch. 9 to the Insolvency (Northern Ireland) Order 1989, S.I. [1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405) and was amended by Art. 51 of and paras. 2(1) and 4(4) of Sch. 1 to the Registration (Land and Deeds) (Northern Ireland) Order 1992, S.I. [1992/811 (N.I. 7)](https://www.legislation.gov.uk/nisi/1992/811)
 
-[^key-309e8afa60d607dcef46c26377738383]: Commencement: Sch. 2 para. 19 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)
+[^c-309e8afa60d607dcef46c26377738383]: Commencement: Sch. 2 para. 19 in operation at 31.5.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/157/article/1/1)

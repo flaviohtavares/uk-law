@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 5 — STREETS SUBJECT TO PERMANENT ALTERATION OF LAYOUT[^key-9a8ebfae7ac8431d289b6e8bde39e880]
+## SCHEDULE 5 — STREETS SUBJECT TO PERMANENT ALTERATION OF LAYOUT[^c-9a8ebfae7ac8431d289b6e8bde39e880]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ Article 11
 
 ## Annotations
 
-[^key-9a8ebfae7ac8431d289b6e8bde39e880]: Commencement: Sch. 5 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)
+[^c-9a8ebfae7ac8431d289b6e8bde39e880]: Commencement: Sch. 5 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)

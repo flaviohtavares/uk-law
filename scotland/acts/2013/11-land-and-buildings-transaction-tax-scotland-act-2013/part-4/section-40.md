@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Payment of tax[^key-0db713a5d66cc17c9a2e6f8e55b36970]
+## 40. Payment of tax[^c-0db713a5d66cc17c9a2e6f8e55b36970]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0db713a5d66cc17c9a2e6f8e55b36970]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2013/11/section/40) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-0db713a5d66cc17c9a2e6f8e55b36970]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2013/11/section/40) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

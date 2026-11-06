@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Finance[^key-2441c4e62e9fa1264653f5137519f5aa]
+## 20. Finance[^c-2441c4e62e9fa1264653f5137519f5aa]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2441c4e62e9fa1264653f5137519f5aa]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2023/953/regulation/20) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
+[^c-2441c4e62e9fa1264653f5137519f5aa]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2023/953/regulation/20) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)

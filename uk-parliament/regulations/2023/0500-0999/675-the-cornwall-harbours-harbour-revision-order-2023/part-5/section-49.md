@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Harbour master may prevent sailing of vessels[^key-080cb0e7ea438b0dc9e853f54bb81a0b]
+## 49. Harbour master may prevent sailing of vessels[^c-080cb0e7ea438b0dc9e853f54bb81a0b]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ The harbour master may prevent the removal or sailing from the harbours of any v
 
 ## Annotations
 
-[^key-080cb0e7ea438b0dc9e853f54bb81a0b]: Commencement: Art. 49 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-080cb0e7ea438b0dc9e853f54bb81a0b]: Commencement: Art. 49 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

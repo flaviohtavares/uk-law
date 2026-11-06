@@ -98,11 +98,11 @@ For the purposes of this Regulation, ‘specified plants’ shall mean naturally
 
 ## Article 2. Derogation from the prohibition to introduce into the Union the specified plants
 
-By way of derogation from Article 7 and point 1 of Part A of Annex 6[^key-f280538ac3691c82fef054ed67282dcb] to Implementing Regulation (EU) 2019/2072, the specified plants are allowed to be introduced in Great Britain[^key-958c7202d8a40990f4e70e9f2913e58b], if they comply with the conditions set out in the Annex to this Regulation.
+By way of derogation from Article 7 and point 1 of Part A of Annex 6[^c-f280538ac3691c82fef054ed67282dcb] to Implementing Regulation (EU) 2019/2072, the specified plants are allowed to be introduced in Great Britain[^c-958c7202d8a40990f4e70e9f2913e58b], if they comply with the conditions set out in the Annex to this Regulation.
 
 ## Article 3. Periods of application of the derogation
 
-The derogation provided for in Article 2 applies to the specified plants imported into Great Britain[^key-e090caa169b5c25c37abc0eb7f879d39] in the following periods:
+The derogation provided for in Article 2 applies to the specified plants imported into Great Britain[^c-e090caa169b5c25c37abc0eb7f879d39] in the following periods:
 
 - ((a)) *Chamaecyparis*: from 1 October 2020 to 31 December 2023;
 - ((b)) *Juniperus*: from 1 November to 31 March each year until 31 December 2023;
@@ -116,7 +116,7 @@ Decision 2002/887/EC is repealed.
 
 This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-a9aedb1f7f6dc0e1c7674eb86d664280]...
+[^c-a9aedb1f7f6dc0e1c7674eb86d664280]...
 
 Done at Brussels, 25 August 2020.
 
@@ -126,7 +126,7 @@ Done at Brussels, 25 August 2020.
 
 Ursula von der Leyen
 
-## ANNEX — Conditions for the introduction into Great Britain of the specified plants in accordance with Article 2[^key-1aed68bb05d44e895da4166e63b7e675]
+## ANNEX — Conditions for the introduction into Great Britain of the specified plants in accordance with Article 2[^c-1aed68bb05d44e895da4166e63b7e675]
 
 1\.
 
@@ -134,11 +134,11 @@ In the case where the specified plants are *Pinus parviflora* Sieb. & Zucc. or *
 
 2\.
 
-[^key-2fca8e95a397e805f8a7602a101b9f08]. . . . . . . . . . . . . . . . . . . . . . .
+[^c-2fca8e95a397e805f8a7602a101b9f08]. . . . . . . . . . . . . . . . . . . . . . .
 
 3\.
 
-Prior to export to Great Britain[^key-6512ac207546cd7ebef78874fed86f9b], the specified plants shall have been grown, held and trained for at least two consecutive years in officially registered nurseries, which are subject to a control regime by the National Plant Protection Organisation (‘NPPO’) of Japan. The annual lists of the officially registered nurseries shall be made available to the NPPO of Great Britain[^key-be2febd691ffa4f7997f03ea8326ef84], by 31 October of each year. Those lists shall include the number of plants grown in each of these nurseries, as far as they are deemed suitable for introduction into Great Britain pursuant to this Regulation.
+Prior to export to Great Britain[^c-6512ac207546cd7ebef78874fed86f9b], the specified plants shall have been grown, held and trained for at least two consecutive years in officially registered nurseries, which are subject to a control regime by the National Plant Protection Organisation (‘NPPO’) of Japan. The annual lists of the officially registered nurseries shall be made available to the NPPO of Great Britain[^c-be2febd691ffa4f7997f03ea8326ef84], by 31 October of each year. Those lists shall include the number of plants grown in each of these nurseries, as far as they are deemed suitable for introduction into Great Britain pursuant to this Regulation.
 
 4\.
 
@@ -151,10 +151,10 @@ The pests of concern are:
   - ((ii)) *Gymnosporangium asiaticum* Miyabe ex Yamada and G. yamadae Miyabe ex Yamada,
   - ((iii)) *Oligonychus perditus* Pritchard et Baker,
   - ((iv)) *Popillia japonica* Newman,
-  - ((v)) any other quarantine pest or pest subject to the measures referred to in Article 30 of Regulation (EU) 2016/2031 which is not known to occur in Great Britain[^key-d7c4a2dff56374d2f08799af4c6dd16b];
+  - ((v)) any other quarantine pest or pest subject to the measures referred to in Article 30 of Regulation (EU) 2016/2031 which is not known to occur in Great Britain[^c-d7c4a2dff56374d2f08799af4c6dd16b];
 - ((b)) for *Chamaecyparis* plants:
   - ((i)) *Popillia japonica* Newman,
-  - ((ii)) any other quarantine pest or pest subject to the measures referred to in Article 30 of Regulation (EU) 2016/2031 which is not known to occur in Great Britain[^key-21bf5922cd028aa723df07f79730b492];
+  - ((ii)) any other quarantine pest or pest subject to the measures referred to in Article 30 of Regulation (EU) 2016/2031 which is not known to occur in Great Britain[^c-21bf5922cd028aa723df07f79730b492];
 - ((c)) for *Pinus parviflora* Sieb. & Zucc. (*Pinus pentaphylla* Mayr) plants:
   - ((i)) *Bursaphelenchus xylophilus* (Steiner and Bührer) Nickle et al.,
   - ((ii)) *Coleosporium paederiae* Dietel ex Hirats. f.,
@@ -164,12 +164,12 @@ The pests of concern are:
   - ((vi)) *Dendrolimus sibiricus* Chetverikov,
   - ((vii)) *Dendrolimus spectabilis* (Butler),
   - ((viii)) *Dendrolimus superans* Butler,
-  - ((ix)) *Monochamus* spp. [^key-c4ba3d2100ba7458dc1921caadb19c84]...,
+  - ((ix)) *Monochamus* spp. [^c-c4ba3d2100ba7458dc1921caadb19c84]...,
   - ((x)) *Pissodes nitidus* Roelofs,
   - ((xi)) *Popillia japonica* Newman,
   - ((xii)) *Pseudocercospora pini‐densiflorae* (Hori & Nambu) Deighton,
   - ((xiii)) *Thecodiplosis japonensis* Uchida & Inouye,
-  - ((xiv)) any other quarantine pest or pest subject to the measures referred to in Article 30 of Regulation (EU) 2016/2031 which is not known to occur in Great Britain[^key-e21336fc05df4cdec9db3b70878f0784];
+  - ((xiv)) any other quarantine pest or pest subject to the measures referred to in Article 30 of Regulation (EU) 2016/2031 which is not known to occur in Great Britain[^c-e21336fc05df4cdec9db3b70878f0784];
 - ((d)) for *Pinus thunbergii* Parl plants:
   - ((i)) *Bursaphelenchus xylophilus* (Steiner and Bührer) Nickle et al.,
   - ((ii)) *Coleosporium asterum* (Dietel) Sydow & P.Sydow,
@@ -188,17 +188,17 @@ The pests of concern are:
   - ((xv)) *Sirex nitobei* Mats.,
   - ((xvi)) *Thecodiplosis japonensis* Uchida & Inouye,
   - ((xvii)) *Urocerus japonicus* (F. Sm.),
-  - ((xviii)) any other quarantine pest or pest subject to the measures referred to in Article 30 of Regulation (EU) 2016/2031 which is not known to occur in Great Britain[^key-fbfeed16fd2ba67523a2d33ecdea232c].
+  - ((xviii)) any other quarantine pest or pest subject to the measures referred to in Article 30 of Regulation (EU) 2016/2031 which is not known to occur in Great Britain[^c-fbfeed16fd2ba67523a2d33ecdea232c].
 
 5\.
 
 The specified plants shall have been found free, in those inspections, from the pests of concern listed in points (a) to (d). Infested plants shall be removed by the NPPO, or the competent national bodies or professional operators under the official supervision of the NPPO of Japan. The remaining specified plants shall be effectively treated and held for an appropriate period and inspected to ensure freedom from such pests.
 
-Any detection of pests of concern specified in point 4, during the inspections carried out pursuant to point 4, shall be officially recorded, and the records shall be made available to the NPPO of the UK[^key-308801631735f1ffb9e9e9fd501bbd67], upon request. Any detection of any of the pests of concern shall disqualify the nursery from the status of officially registered nursery. The NPPO of the UK shall be informed immediately thereof. In such case, the registration may only be renewed in the following year at the earliest.
+Any detection of pests of concern specified in point 4, during the inspections carried out pursuant to point 4, shall be officially recorded, and the records shall be made available to the NPPO of the UK[^c-308801631735f1ffb9e9e9fd501bbd67], upon request. Any detection of any of the pests of concern shall disqualify the nursery from the status of officially registered nursery. The NPPO of the UK shall be informed immediately thereof. In such case, the registration may only be renewed in the following year at the earliest.
 
 6\.
 
-The specified plants intended for export to Great Britain[^key-b1cc17e12b7aa55fd37c06ebe2ff6089], shall at least during the period of two consecutive years referred to in point 3:
+The specified plants intended for export to Great Britain[^c-b1cc17e12b7aa55fd37c06ebe2ff6089], shall at least during the period of two consecutive years referred to in point 3:
 
 - ((a)) be potted in pots which are placed either on shelves at least 50 cm above ground or onto concrete flooring, impenetrable for nematodes, which is well maintained and free from debris; and
 - ((b)) be found free, in the inspections referred to in point 4, from the pests of concern; and
@@ -211,7 +211,7 @@ The specified plants have been traceable from the time of their removal from the
 
 8\.
 
-The specified plants and the adhering or associated growing medium (‘the material’) shall be accompanied by a phytosanitary certificate, issued by the NPPO of Japan, attesting compliance with the requirements specified in points 1 to 7 of this Implementing Regulation, and in point 42[^key-97a629c276c32ff31a6ab929306ceb7f] of Annex VII to Regulation (EU) 2019/2072.
+The specified plants and the adhering or associated growing medium (‘the material’) shall be accompanied by a phytosanitary certificate, issued by the NPPO of Japan, attesting compliance with the requirements specified in points 1 to 7 of this Implementing Regulation, and in point 42[^c-97a629c276c32ff31a6ab929306ceb7f] of Annex VII to Regulation (EU) 2019/2072.
 
 The certificate shall indicate:
 
@@ -229,7 +229,7 @@ The operator responsible for the consignment shall complete and submit the relev
 - ((c)) the declared date of import,
 - ((d)) the officially approved site where the specified plants will be held under the post-entry detention referred to in point 10.
 
-The NPPO of the UK[^key-76ff7944c84d17a51596bada5779b293] shall officially inform the importers, prior to the introduction, of the conditions laid down in points 1 to 12.
+The NPPO of the UK[^c-76ff7944c84d17a51596bada5779b293] shall officially inform the importers, prior to the introduction, of the conditions laid down in points 1 to 12.
 
 10\.
 
@@ -244,7 +244,7 @@ The material shall also be found free, during this post-entry detention period, 
 
 Any lot containing material which has not been found free from the pests of concern, during the post-entry detention period, referred to in point 10, shall be immediately destroyed by the competent authority or the professional operator under the official supervision of the competent authority.
 
-12.[^key-1d568f1a094f587d1c3526e2b723b872]
+12.[^c-1d568f1a094f587d1c3526e2b723b872]
 
 If any contamination by the pests of concern is confirmed during the post-entry detention period, referred to in point 10, the relevant nursery in Japan shall be disqualified from the official registered nursery status. The NPPO of the UK shall immediately inform Japan thereof.
 
@@ -260,38 +260,38 @@ If any contamination by the pests of concern is confirmed during the post-entry 
 
 [^f00005]: Footnote: EFSA Panel on Plant Health, 2019. Scientiﬁc Opinion on the commodity risk assessment of black pine (*Pinus* *thunbergii* Parl.) bonsai from Japan. *EFSA Journal* 2019;17(5):5667, 184 pp. https://doi.org/10.2903/j.efsa.2019.5667
 
-[^key-f280538ac3691c82fef054ed67282dcb]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eur/2020/1217/article/2) substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/2/a)
+[^c-f280538ac3691c82fef054ed67282dcb]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eur/2020/1217/article/2) substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/2/a)
 
-[^key-958c7202d8a40990f4e70e9f2913e58b]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eur/2020/1217/article/2) substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/2/b)
+[^c-958c7202d8a40990f4e70e9f2913e58b]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eur/2020/1217/article/2) substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/2/b)
 
-[^key-e090caa169b5c25c37abc0eb7f879d39]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/2020/1217/article/3) substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/3)
+[^c-e090caa169b5c25c37abc0eb7f879d39]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/2020/1217/article/3) substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/3)
 
-[^key-a9aedb1f7f6dc0e1c7674eb86d664280]: Textual amendment: Words in Signature omitted (E.W.S.) (20.4.2021) by virtue of [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/4)
+[^c-a9aedb1f7f6dc0e1c7674eb86d664280]: Textual amendment: Words in Signature omitted (E.W.S.) (20.4.2021) by virtue of [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/4)
 
-[^key-1aed68bb05d44e895da4166e63b7e675]: Textual amendment: Words in Annex title substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(5)(a)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/5/a)
+[^c-1aed68bb05d44e895da4166e63b7e675]: Textual amendment: Words in Annex title substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(5)(a)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/5/a)
 
-[^key-2fca8e95a397e805f8a7602a101b9f08]: Textual amendment: Annex para. 2 omitted (E.W.S.) (20.4.2021) by virtue of [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(5)(b)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/5/b)
+[^c-2fca8e95a397e805f8a7602a101b9f08]: Textual amendment: Annex para. 2 omitted (E.W.S.) (20.4.2021) by virtue of [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(5)(b)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/5/b)
 
-[^key-6512ac207546cd7ebef78874fed86f9b]: Textual amendment: Words in [Annex para. 3](https://www.legislation.gov.uk/eur/2020/1217/annex/paragraph/3) substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(5)(c)(i)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/5/c/i)
+[^c-6512ac207546cd7ebef78874fed86f9b]: Textual amendment: Words in [Annex para. 3](https://www.legislation.gov.uk/eur/2020/1217/annex/paragraph/3) substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(5)(c)(i)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/5/c/i)
 
-[^key-be2febd691ffa4f7997f03ea8326ef84]: Textual amendment: Words in [Annex para. 3](https://www.legislation.gov.uk/eur/2020/1217/annex/paragraph/3) substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/5/c/ii)
+[^c-be2febd691ffa4f7997f03ea8326ef84]: Textual amendment: Words in [Annex para. 3](https://www.legislation.gov.uk/eur/2020/1217/annex/paragraph/3) substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/5/c/ii)
 
-[^key-d7c4a2dff56374d2f08799af4c6dd16b]: Textual amendment: Words in [Annex para. 4(a)(v)](https://www.legislation.gov.uk/eur/2020/1217/annex/paragraph/4/a/v) substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(5)(d)(i)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/5/d/i)
+[^c-d7c4a2dff56374d2f08799af4c6dd16b]: Textual amendment: Words in [Annex para. 4(a)(v)](https://www.legislation.gov.uk/eur/2020/1217/annex/paragraph/4/a/v) substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(5)(d)(i)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/5/d/i)
 
-[^key-21bf5922cd028aa723df07f79730b492]: Textual amendment: Words in [Annex para. 4(b)(ii)](https://www.legislation.gov.uk/eur/2020/1217/annex/paragraph/4/b/ii) substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(5)(d)(ii)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/5/d/ii)
+[^c-21bf5922cd028aa723df07f79730b492]: Textual amendment: Words in [Annex para. 4(b)(ii)](https://www.legislation.gov.uk/eur/2020/1217/annex/paragraph/4/b/ii) substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(5)(d)(ii)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/5/d/ii)
 
-[^key-c4ba3d2100ba7458dc1921caadb19c84]: Textual amendment: Words in [Annex para. 4(c)(ix)](https://www.legislation.gov.uk/eur/2020/1217/annex/paragraph/4/c/ix) omitted (E.W.S.) (20.4.2021) by virtue of [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(5)(d)(iii)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/5/d/iii)
+[^c-c4ba3d2100ba7458dc1921caadb19c84]: Textual amendment: Words in [Annex para. 4(c)(ix)](https://www.legislation.gov.uk/eur/2020/1217/annex/paragraph/4/c/ix) omitted (E.W.S.) (20.4.2021) by virtue of [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(5)(d)(iii)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/5/d/iii)
 
-[^key-e21336fc05df4cdec9db3b70878f0784]: Textual amendment: Words in [Annex para. 4(c)(xiv)](https://www.legislation.gov.uk/eur/2020/1217/annex/paragraph/4/c/xiv) substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(5)(d)(iv)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/5/d/iv)
+[^c-e21336fc05df4cdec9db3b70878f0784]: Textual amendment: Words in [Annex para. 4(c)(xiv)](https://www.legislation.gov.uk/eur/2020/1217/annex/paragraph/4/c/xiv) substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(5)(d)(iv)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/5/d/iv)
 
-[^key-fbfeed16fd2ba67523a2d33ecdea232c]: Textual amendment: Words in [Annex para. 4(d)(xviii)](https://www.legislation.gov.uk/eur/2020/1217/annex/paragraph/4/d/xviii) substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(5)(d)(v)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/5/d/v)
+[^c-fbfeed16fd2ba67523a2d33ecdea232c]: Textual amendment: Words in [Annex para. 4(d)(xviii)](https://www.legislation.gov.uk/eur/2020/1217/annex/paragraph/4/d/xviii) substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(5)(d)(v)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/5/d/v)
 
-[^key-308801631735f1ffb9e9e9fd501bbd67]: Textual amendment: Words in [Annex para. 5](https://www.legislation.gov.uk/eur/2020/1217/annex/paragraph/5) substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(5)(e)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/5/e)
+[^c-308801631735f1ffb9e9e9fd501bbd67]: Textual amendment: Words in [Annex para. 5](https://www.legislation.gov.uk/eur/2020/1217/annex/paragraph/5) substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(5)(e)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/5/e)
 
-[^key-b1cc17e12b7aa55fd37c06ebe2ff6089]: Textual amendment: Words in [Annex para. 6](https://www.legislation.gov.uk/eur/2020/1217/annex/paragraph/6) substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(5)(f)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/5/f)
+[^c-b1cc17e12b7aa55fd37c06ebe2ff6089]: Textual amendment: Words in [Annex para. 6](https://www.legislation.gov.uk/eur/2020/1217/annex/paragraph/6) substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(5)(f)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/5/f)
 
-[^key-97a629c276c32ff31a6ab929306ceb7f]: Textual amendment: Word in [Annex para. 8](https://www.legislation.gov.uk/eur/2020/1217/annex/paragraph/8) substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(5)(g)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/5/g)
+[^c-97a629c276c32ff31a6ab929306ceb7f]: Textual amendment: Word in [Annex para. 8](https://www.legislation.gov.uk/eur/2020/1217/annex/paragraph/8) substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(5)(g)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/5/g)
 
-[^key-76ff7944c84d17a51596bada5779b293]: Textual amendment: Words in [Annex para. 9](https://www.legislation.gov.uk/eur/2020/1217/annex/paragraph/9) substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(5)(h)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/5/h)
+[^c-76ff7944c84d17a51596bada5779b293]: Textual amendment: Words in [Annex para. 9](https://www.legislation.gov.uk/eur/2020/1217/annex/paragraph/9) substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(5)(h)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/5/h)
 
-[^key-1d568f1a094f587d1c3526e2b723b872]: Textual amendment: [Annex para. 12](https://www.legislation.gov.uk/eur/2020/1217/annex/paragraph/12) substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(5)(i)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/5/i)
+[^c-1d568f1a094f587d1c3526e2b723b872]: Textual amendment: [Annex para. 12](https://www.legislation.gov.uk/eur/2020/1217/annex/paragraph/12) substituted (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [4(5)(i)](https://www.legislation.gov.uk/uksi/2021/426/regulation/4/5/i)

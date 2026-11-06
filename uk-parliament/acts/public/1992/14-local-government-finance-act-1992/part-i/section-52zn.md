@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52ZN. Arrangements for referendum[^key-6e7ef88ffa521f0c646645ea0a191527]
+## 52ZN. Arrangements for referendum[^c-6e7ef88ffa521f0c646645ea0a191527]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ summary: ''
   - (i) the precepting authority's area, and
   - (ii) the billing authority's area.
 
-(7)[^key-1420f532774f03b26338e33e4a694b69][^key-44a2675fc796a7a313618a0da78ff05a][^key-a446996cec4eaf9727de41f70ffbb613] Subject to subsection (8) below, the billing authority may recover from the precepting authority the expenses that are incurred by the billing authority in connection with the referendum.
+(7)[^c-1420f532774f03b26338e33e4a694b69][^c-44a2675fc796a7a313618a0da78ff05a][^c-a446996cec4eaf9727de41f70ffbb613] Subject to subsection (8) below, the billing authority may recover from the precepting authority the expenses that are incurred by the billing authority in connection with the referendum.
 
 (8) The Secretary of State may by regulations make provision for cases in which—
 
@@ -65,10 +65,10 @@ summary: ''
 
 ## Annotations
 
-[^key-6e7ef88ffa521f0c646645ea0a191527]: Textual amendment: Pt. 1 Ch. 4ZA inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 72(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/72/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/5); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/g) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2011/2896/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2011/2896/article/3/2))
+[^c-6e7ef88ffa521f0c646645ea0a191527]: Textual amendment: Pt. 1 Ch. 4ZA inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 72(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/72/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/5); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/g) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2011/2896/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2011/2896/article/3/2))
 
-[^key-1420f532774f03b26338e33e4a694b69]: Modification: S. 52ZN(7) applied (with modifications) (E.) (16.3.2012) by [The Local Authority (Referendums Relating to Council Tax Increases) Regulations 2012 (S.I. 2012/460)](https://www.legislation.gov.uk/uksi/2012/460), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/460/regulation/1/1/b), [4(4)](https://www.legislation.gov.uk/uksi/2012/460/regulation/4/4) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2012/460/regulation/4/1))
+[^c-1420f532774f03b26338e33e4a694b69]: Modification: S. 52ZN(7) applied (with modifications) (E.) (16.3.2012) by [The Local Authority (Referendums Relating to Council Tax Increases) Regulations 2012 (S.I. 2012/460)](https://www.legislation.gov.uk/uksi/2012/460), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/460/regulation/1/1/b), [4(4)](https://www.legislation.gov.uk/uksi/2012/460/regulation/4/4) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2012/460/regulation/4/1))
 
-[^key-44a2675fc796a7a313618a0da78ff05a]: Modification: S. 52ZN(7) excluded (E.) (16.3.2012) by [The Local Authority (Referendums Relating to Council Tax Increases) Regulations 2012 (S.I. 2012/460)](https://www.legislation.gov.uk/uksi/2012/460), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/460/regulation/1/1/b), [6(2)](https://www.legislation.gov.uk/uksi/2012/460/regulation/6/2) (with [reg. 6(1)](https://www.legislation.gov.uk/uksi/2012/460/regulation/6/1))
+[^c-44a2675fc796a7a313618a0da78ff05a]: Modification: S. 52ZN(7) excluded (E.) (16.3.2012) by [The Local Authority (Referendums Relating to Council Tax Increases) Regulations 2012 (S.I. 2012/460)](https://www.legislation.gov.uk/uksi/2012/460), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/460/regulation/1/1/b), [6(2)](https://www.legislation.gov.uk/uksi/2012/460/regulation/6/2) (with [reg. 6(1)](https://www.legislation.gov.uk/uksi/2012/460/regulation/6/1))
 
-[^key-a446996cec4eaf9727de41f70ffbb613]: Modification: S. 52ZN(7) excluded (E.) (16.3.2012) by [The Local Authority (Referendums Relating to Council Tax Increases) Regulations 2012 (S.I. 2012/460)](https://www.legislation.gov.uk/uksi/2012/460), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/460/regulation/1/1/b), [4(2)](https://www.legislation.gov.uk/uksi/2012/460/regulation/4/2) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2012/460/regulation/4/1))
+[^c-a446996cec4eaf9727de41f70ffbb613]: Modification: S. 52ZN(7) excluded (E.) (16.3.2012) by [The Local Authority (Referendums Relating to Council Tax Increases) Regulations 2012 (S.I. 2012/460)](https://www.legislation.gov.uk/uksi/2012/460), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/460/regulation/1/1/b), [4(2)](https://www.legislation.gov.uk/uksi/2012/460/regulation/4/2) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2012/460/regulation/4/1))

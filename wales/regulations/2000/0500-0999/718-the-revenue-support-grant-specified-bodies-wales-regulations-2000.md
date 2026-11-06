@@ -41,30 +41,30 @@ Coming into force
 
 The National Assembly for Wales makes the following Regulations in exercise of the powers conferred on the Secretary of State by sections 76(4) and 140(4) of the Local Government Finance Act 1988[^f00001], which are now vested in it so far as exercisable in Wales[^f00002].
 
-## 1. Citation, commencement and application[^key-437e5c08b14f4f0cae49c677729ab2fd]
+## 1. Citation, commencement and application[^c-437e5c08b14f4f0cae49c677729ab2fd]
 
 (1) These Regulations may be cited as the Revenue Support Grant (Specified Bodies) (Wales) Regulations 2000 and shall come into force on 9th February 2000.
 
 (2) These Regulations apply only to Wales.
 
-## 2. Revocation[^key-6f59e1bfc899fe96642b7af4b2ae2ab5]
+## 2. Revocation[^c-6f59e1bfc899fe96642b7af4b2ae2ab5]
 
 In relation to any financial year beginning on or after 1st April 2000, the Revenue Support Grant (Specified Bodies) Regulations 1992[^f00003], the Revenue Support Grant (Specified Bodies) (Amendment) 1993[^f00004], the Revenue Support Grant (Specified Bodies) (Amendment) Regulations 1995[^f00005] the Revenue Support Grant (Specified Bodies) (Amendment) Regulations 1998[^f00006] are hereby revoked.
 
-## 3. Specified Bodies[^key-73cb8cb83ef7ad90fb97484cfc596a8f]
+## 3. Specified Bodies[^c-73cb8cb83ef7ad90fb97484cfc596a8f]
 
 The following bodies are specified for the purposes of section 76(4) of the Local Government Finance Act 1988, namely:–
 
 - (a) The Fire Services Examinations Board;
 - (b) The National Institute for Adult Continuing Education;
 - (c) The Local Government International Bureau;
-- (d)[^key-bf5f0e68fc292af7c8c8efef2a95bf37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-bf5f0e68fc292af7c8c8efef2a95bf37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) Public Private Partnerships Programme Limited;
 - (f) Syniad;
 - (g) Improvement and Development Agency for Local Government;
 - (h) Employers' Organisation for Local Government; and
 - (i) National Foundation for Educational Research.
-- (j)[^key-8c53df42361d5e47c30ba7b0baf41db2] The Local Authorities Co-ordinators of Regulatory Services
+- (j)[^c-8c53df42361d5e47c30ba7b0baf41db2] The Local Authorities Co-ordinators of Regulatory Services
 
 Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998[^f00007]
 
@@ -84,9 +84,9 @@ These Regulations specify bodies for this purpose. The previous Regulations are 
 
 [^f00002]: Footnote: See the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
 
-[^key-437e5c08b14f4f0cae49c677729ab2fd]: Commencement: Reg. 1 in force at 9.2.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/718/regulation/1/1)
+[^c-437e5c08b14f4f0cae49c677729ab2fd]: Commencement: Reg. 1 in force at 9.2.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/718/regulation/1/1)
 
-[^key-6f59e1bfc899fe96642b7af4b2ae2ab5]: Commencement: Reg. 2 in force at 9.2.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/718/regulation/1/1)
+[^c-6f59e1bfc899fe96642b7af4b2ae2ab5]: Commencement: Reg. 2 in force at 9.2.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/718/regulation/1/1)
 
 [^f00003]: Footnote: S.I. [1992/89](https://www.legislation.gov.uk/uksi/1992/89)
 
@@ -96,10 +96,10 @@ These Regulations specify bodies for this purpose. The previous Regulations are 
 
 [^f00006]: Footnote: S.I. [1998/2995](https://www.legislation.gov.uk/uksi/1998/2995)
 
-[^key-73cb8cb83ef7ad90fb97484cfc596a8f]: Commencement: Reg. 3 in force at 9.2.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/718/regulation/1/1)
+[^c-73cb8cb83ef7ad90fb97484cfc596a8f]: Commencement: Reg. 3 in force at 9.2.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/718/regulation/1/1)
 
-[^key-bf5f0e68fc292af7c8c8efef2a95bf37]: Textual amendment: [Reg. 3(d)](https://www.legislation.gov.uk/wsi/2000/718/regulation/3/d) omitted (with effect in accordance with reg. 2 of the amending S.I.) by virtue of [The Revenue Support Grant (Specified Bodies) (Amendment) (Wales) Regulations 2003 (S.I. 2003/706)](https://www.legislation.gov.uk/wsi/2003/706), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2003/706/regulation/1/1), [2(a)](https://www.legislation.gov.uk/wsi/2003/706/regulation/2/a)
+[^c-bf5f0e68fc292af7c8c8efef2a95bf37]: Textual amendment: [Reg. 3(d)](https://www.legislation.gov.uk/wsi/2000/718/regulation/3/d) omitted (with effect in accordance with reg. 2 of the amending S.I.) by virtue of [The Revenue Support Grant (Specified Bodies) (Amendment) (Wales) Regulations 2003 (S.I. 2003/706)](https://www.legislation.gov.uk/wsi/2003/706), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2003/706/regulation/1/1), [2(a)](https://www.legislation.gov.uk/wsi/2003/706/regulation/2/a)
 
-[^key-8c53df42361d5e47c30ba7b0baf41db2]: Textual amendment: [Reg. 3(j)](https://www.legislation.gov.uk/wsi/2000/718/regulation/3/j) added (with effect in accordance with reg. 2 of the amending S.I.) by [The Revenue Support Grant (Specified Bodies) (Amendment) (Wales) Regulations 2003 (S.I. 2003/706)](https://www.legislation.gov.uk/wsi/2003/706), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2003/706/regulation/1/1), [2(b)](https://www.legislation.gov.uk/wsi/2003/706/regulation/2/b)
+[^c-8c53df42361d5e47c30ba7b0baf41db2]: Textual amendment: [Reg. 3(j)](https://www.legislation.gov.uk/wsi/2000/718/regulation/3/j) added (with effect in accordance with reg. 2 of the amending S.I.) by [The Revenue Support Grant (Specified Bodies) (Amendment) (Wales) Regulations 2003 (S.I. 2003/706)](https://www.legislation.gov.uk/wsi/2003/706), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2003/706/regulation/1/1), [2(b)](https://www.legislation.gov.uk/wsi/2003/706/regulation/2/b)
 
 [^f00007]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38)

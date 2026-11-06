@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Guidance on public health measures[^key-b0d5aace0410c381ec716386f82f22b0]
+## 7. Guidance on public health measures[^c-b0d5aace0410c381ec716386f82f22b0]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0d5aace0410c381ec716386f82f22b0]: Commencement: S. 7 in force at 1.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-b0d5aace0410c381ec716386f82f22b0]: Commencement: S. 7 in force at 1.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

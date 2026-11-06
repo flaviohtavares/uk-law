@@ -33,24 +33,24 @@ of 25 April 2017
 
 on the ratification and accession by Member States, in the interest of the European Union, to the Protocol of 2010 to the International Convention on Liability and Compensation for Damage in Connection with the Carriage of Hazardous and Noxious Substances by Sea, with regard to the aspects related to judicial cooperation in civil matters (revoked)
 
-[^key-9e755d4a3a153cde5283547a72ecded5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9e755d4a3a153cde5283547a72ecded5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-9e755d4a3a153cde5283547a72ecded5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-9e755d4a3a153cde5283547a72ecded5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-9e755d4a3a153cde5283547a72ecded5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-9e755d4a3a153cde5283547a72ecded5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-9e755d4a3a153cde5283547a72ecded5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-9e755d4a3a153cde5283547a72ecded5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-9e755d4a3a153cde5283547a72ecded5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-9e755d4a3a153cde5283547a72ecded5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-9e755d4a3a153cde5283547a72ecded5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-9e755d4a3a153cde5283547a72ecded5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9e755d4a3a153cde5283547a72ecded5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9e755d4a3a153cde5283547a72ecded5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-9e755d4a3a153cde5283547a72ecded5]
+## ANNEX[^c-9e755d4a3a153cde5283547a72ecded5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9e755d4a3a153cde5283547a72ecded5]: Textual amendment: Decision revoked (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [5(r)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/5/r); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9e755d4a3a153cde5283547a72ecded5]: Textual amendment: Decision revoked (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [5(r)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/5/r); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

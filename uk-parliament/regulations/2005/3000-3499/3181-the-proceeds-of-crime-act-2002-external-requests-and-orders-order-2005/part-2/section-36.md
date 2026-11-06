@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Application of sums received by the Director of the Agency[^key-0a4c170398c044e80b3319b8135c9010]
+## 36. Application of sums received by the Director of the Agency[^c-0a4c170398c044e80b3319b8135c9010]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a4c170398c044e80b3319b8135c9010]: Textual amendment: [Arts. 35](https://www.legislation.gov.uk/uksi/2005/3181/article/35), [36](https://www.legislation.gov.uk/uksi/2005/3181/article/36) omitted (1.4.2008) by virtue of [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(12)](https://www.legislation.gov.uk/uksi/2008/302/article/2/12)
+[^c-0a4c170398c044e80b3319b8135c9010]: Textual amendment: [Arts. 35](https://www.legislation.gov.uk/uksi/2005/3181/article/35), [36](https://www.legislation.gov.uk/uksi/2005/3181/article/36) omitted (1.4.2008) by virtue of [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(12)](https://www.legislation.gov.uk/uksi/2008/302/article/2/12)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Personal return[^key-a753d344ec1099d91129bdaac82db8eb]
+## 30. Personal return[^c-a753d344ec1099d91129bdaac82db8eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ For the purposes of establishing the amount of the repayment which a borrower is
 
 ## Annotations
 
-[^key-a753d344ec1099d91129bdaac82db8eb]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2009/470/regulation/30) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-a753d344ec1099d91129bdaac82db8eb]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2009/470/regulation/30) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)

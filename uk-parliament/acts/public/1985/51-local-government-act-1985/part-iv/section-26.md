@@ -24,11 +24,11 @@ summary: ''
 
 (2) The authorities established by this section shall be known as metropolitan county fire and civil defence authorities.
 
-(3) Subject to subsection (5), each[^key-1236737a6bbcabe45dbc712826174c8a] metropolitan county fire and civil defence authority shall consist of members of the constituent councils appointed by them to be members of the authority.
+(3) Subject to subsection (5), each[^c-1236737a6bbcabe45dbc712826174c8a] metropolitan county fire and civil defence authority shall consist of members of the constituent councils appointed by them to be members of the authority.
 
 (4) The constituent councils in relation to a metropolitan county fire and civil defence authority shall be the councils of the metropolitan districts comprised in the county.
 
-(5)[^key-5696540483c4adc4b5715f87ad8dc5c0] A metropolitan county fire and rescue authority may appoint a relevant police and crime commissioner to be a member of the authority.
+(5)[^c-5696540483c4adc4b5715f87ad8dc5c0] A metropolitan county fire and rescue authority may appoint a relevant police and crime commissioner to be a member of the authority.
 
 (6) An appointment under subsection (5) may only be made in response to a request by the relevant police and crime commissioner.
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1236737a6bbcabe45dbc712826174c8a]: Textual amendment: Words in s. 26(3) substituted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 7(6)(a)](https://www.legislation.gov.uk/ukpga/2017/3/section/7/6/a), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/3)
+[^c-1236737a6bbcabe45dbc712826174c8a]: Textual amendment: Words in s. 26(3) substituted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 7(6)(a)](https://www.legislation.gov.uk/ukpga/2017/3/section/7/6/a), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/3)
 
-[^key-5696540483c4adc4b5715f87ad8dc5c0]: Textual amendment: S. 26(5)-(8) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 7(6)(b)](https://www.legislation.gov.uk/ukpga/2017/3/section/7/6/b), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/3)
+[^c-5696540483c4adc4b5715f87ad8dc5c0]: Textual amendment: S. 26(5)-(8) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 7(6)(b)](https://www.legislation.gov.uk/ukpga/2017/3/section/7/6/b), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/3)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) Subject to paragraph (3) and regulations 31(2) , 32A[^key-4154a7ac2c1b178f9ad8f1d864f30535] and 74, participants producing biomethane for injection shall be paid a periodic support payment in respect of each quarterly period calculated in accordance with the following formula—
+(1) Subject to paragraph (3) and regulations 31(2) , 32A[^c-4154a7ac2c1b178f9ad8f1d864f30535] and 74, participants producing biomethane for injection shall be paid a periodic support payment in respect of each quarterly period calculated in accordance with the following formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2018/611)
 
@@ -29,14 +29,14 @@ where—
 - A is the amount of eligible biomethane in kWh which is injected in that quarterly period; and
 - B is the tariff applicable to the eligible biomethane determined in accordance with regulation 59.
 
-(2) In this regulation, “**eligible biomethane**” means the amount (in kWh) of all biomethane or the notified proportion of biomethane[^key-be109dcf79deeae71034643a5d7a2130] injected in a quarterly period determined in accordance with the following formula—
+(2) In this regulation, “**eligible biomethane**” means the amount (in kWh) of all biomethane or the notified proportion of biomethane[^c-be109dcf79deeae71034643a5d7a2130] injected in a quarterly period determined in accordance with the following formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2018/611)
 
 where—
 
 - (a) C is the lower of—
-  - (i) the amount (in kWh) of all biomethane or the notified proportion of biomethane[^key-454ba0261d4323928a4b5d8d6e355b2e] injected in that quarterly period; or
+  - (i) the amount (in kWh) of all biomethane or the notified proportion of biomethane[^c-454ba0261d4323928a4b5d8d6e355b2e] injected in that quarterly period; or
   - (ii) the sum of the kWh equivalent of the maximum initial capacity specified under regulation 32 and any maximum additional capacity specified under regulation 77;
 - (b) D is the amount of propane in kWh contained in C;
 - (c) E is—
@@ -54,7 +54,7 @@ where—
 - (d) F is the amount (in kWhth) of heat supplied to the biomethane production process in that quarterly period from any heat source other than heat generated from the combustion of biogas by a plant which supplies that process; and
 - (e) G applies only in relation to biomethane made using biogas produced from gasification or pyrolysis, and is the proportion of biomass contained in the feedstock used in that quarterly period to produce that biogas.
 
-(2A)[^key-f93667dfa33b8e38befec9c57754af76] In paragraph (2), “notified proportion of biomethane” means the proportion of biomethane which the participant specifies in a notice to the Authority as the proportion of the total amount of biomethane (in kWh) injected in a quarterly period which is to be taken into account when determining the amount of eligible biomethane for that quarterly period.
+(2A)[^c-f93667dfa33b8e38befec9c57754af76] In paragraph (2), “notified proportion of biomethane” means the proportion of biomethane which the participant specifies in a notice to the Authority as the proportion of the total amount of biomethane (in kWh) injected in a quarterly period which is to be taken into account when determining the amount of eligible biomethane for that quarterly period.
 
 (2B) The notified proportion of biomethane must be taken into account in determining values C to G in the formula in paragraph (2).
 
@@ -67,10 +67,10 @@ where—
 
 ## Annotations
 
-[^key-4154a7ac2c1b178f9ad8f1d864f30535]: Textual amendment: Word in [reg. 73(1)](https://www.legislation.gov.uk/uksi/2018/611/regulation/73/1) inserted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [33(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/33/a)
+[^c-4154a7ac2c1b178f9ad8f1d864f30535]: Textual amendment: Word in [reg. 73(1)](https://www.legislation.gov.uk/uksi/2018/611/regulation/73/1) inserted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [33(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/33/a)
 
-[^key-be109dcf79deeae71034643a5d7a2130]: Textual amendment: Words in [reg. 73(2)](https://www.legislation.gov.uk/uksi/2018/611/regulation/73/2) inserted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [33(b)(i)](https://www.legislation.gov.uk/uksi/2021/76/regulation/33/b/i)
+[^c-be109dcf79deeae71034643a5d7a2130]: Textual amendment: Words in [reg. 73(2)](https://www.legislation.gov.uk/uksi/2018/611/regulation/73/2) inserted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [33(b)(i)](https://www.legislation.gov.uk/uksi/2021/76/regulation/33/b/i)
 
-[^key-454ba0261d4323928a4b5d8d6e355b2e]: Textual amendment: Words in [reg. 73(2)](https://www.legislation.gov.uk/uksi/2018/611/regulation/73/2) substituted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [33(b)(ii)](https://www.legislation.gov.uk/uksi/2021/76/regulation/33/b/ii)
+[^c-454ba0261d4323928a4b5d8d6e355b2e]: Textual amendment: Words in [reg. 73(2)](https://www.legislation.gov.uk/uksi/2018/611/regulation/73/2) substituted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [33(b)(ii)](https://www.legislation.gov.uk/uksi/2021/76/regulation/33/b/ii)
 
-[^key-f93667dfa33b8e38befec9c57754af76]: Textual amendment: [Reg. 73(2A)-(2C)](https://www.legislation.gov.uk/uksi/2018/611/regulation/73/2A) inserted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [33(c)](https://www.legislation.gov.uk/uksi/2021/76/regulation/33/c)
+[^c-f93667dfa33b8e38befec9c57754af76]: Textual amendment: [Reg. 73(2A)-(2C)](https://www.legislation.gov.uk/uksi/2018/611/regulation/73/2A) inserted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [33(c)](https://www.legislation.gov.uk/uksi/2021/76/regulation/33/c)

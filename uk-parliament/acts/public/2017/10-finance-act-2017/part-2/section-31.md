@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Charge to soft drinks industry levy[^key-e7449625b31a04225e22138ce9a716a8]
+## 31. Charge to soft drinks industry levy[^c-e7449625b31a04225e22138ce9a716a8]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7449625b31a04225e22138ce9a716a8]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2017/10/section/31) in force at 6.4.2018 in relation to chargeable events occurring in relation to chargeable soft drinks packaged in, or imported into, the United Kingdom on or after that date by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/464/article/2/a)
+[^c-e7449625b31a04225e22138ce9a716a8]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2017/10/section/31) in force at 6.4.2018 in relation to chargeable events occurring in relation to chargeable soft drinks packaged in, or imported into, the United Kingdom on or after that date by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/464/article/2/a)

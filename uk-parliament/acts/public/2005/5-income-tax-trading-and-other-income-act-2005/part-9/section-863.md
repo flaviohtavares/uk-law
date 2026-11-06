@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 863. Limited liability partnerships[^key-06f115b2e19de66e6bac608ea1cdd92d][^key-1f3824142e505ab9fc1149c3cac1066e]
+## 863. Limited liability partnerships[^c-06f115b2e19de66e6bac608ea1cdd92d][^c-1f3824142e505ab9fc1149c3cac1066e]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,9 +51,9 @@ This is subject to subsection (4).
 
 ## Annotations
 
-[^key-06f115b2e19de66e6bac608ea1cdd92d]: Modification: S. 863 modified by 2010 c. 8, s. 259G(8) (as inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1))
+[^c-06f115b2e19de66e6bac608ea1cdd92d]: Modification: S. 863 modified by 2010 c. 8, s. 259G(8) (as inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1))
 
-[^key-1f3824142e505ab9fc1149c3cac1066e]: Modification: S. 863 modified by 2010 c. 8, s. 259GE(8) (as inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1))
+[^c-1f3824142e505ab9fc1149c3cac1066e]: Modification: S. 863 modified by 2010 c. 8, s. 259GE(8) (as inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1))
 
 [^c19757541]: Textual amendment: Words in s. 863(2)(a) inserted (6.4.2007 with effect as stated in [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [ss. 1027](https://www.legislation.gov.uk/ukpga/2007/3/section/1027), [1034](https://www.legislation.gov.uk/ukpga/2007/3/section/1034), [Sch. 1 para. 580(a)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/580/a) (with transitional provisions and savings in [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Law enforcement processing and codes of conduct[^key-5ca13550d56b1577fecf4fb39ec4357f][^key-908c8b806bbb2da969886c101a170f95]
+## 84. Law enforcement processing and codes of conduct[^c-5ca13550d56b1577fecf4fb39ec4357f][^c-908c8b806bbb2da969886c101a170f95]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,6 +76,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5ca13550d56b1577fecf4fb39ec4357f]: Commencement: S. 84 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-5ca13550d56b1577fecf4fb39ec4357f]: Commencement: S. 84 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-908c8b806bbb2da969886c101a170f95]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2025/18/section/84) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/d)
+[^c-908c8b806bbb2da969886c101a170f95]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2025/18/section/84) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/d)

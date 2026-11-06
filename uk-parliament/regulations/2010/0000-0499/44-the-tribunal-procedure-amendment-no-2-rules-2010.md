@@ -47,15 +47,15 @@ After consulting in accordance with paragraph 28(1) of Schedule 5 to the Tribuna
 
 The Lord Chancellor has allowed the Rules in accordance with paragraph 28(3) of Schedule 5 to the Tribunals, Courts and Enforcement Act 2007.
 
-## 1. Citation and commencement[^key-c2a25a00e5e25eb9a1747c2e0eb0778b]
+## 1. Citation and commencement[^c-c2a25a00e5e25eb9a1747c2e0eb0778b]
 
 These rules may be cited as the Tribunal Procedure (Amendment No. 2) Rules 2010 and come into force on 15 February 2010.
 
-## 2. Amendments to the Tribunal Procedure (Upper Tribunal) Rules 2008[^key-284481bab0cda369f9d323ef96094d2a]
+## 2. Amendments to the Tribunal Procedure (Upper Tribunal) Rules 2008[^c-284481bab0cda369f9d323ef96094d2a]
 
 The Tribunal Procedure (Upper Tribunal) Rules 2008[^f00002] are amended as follows.
 
-**3.**[^key-da4af165e549dace01dd97345d62507d] In rule 1(3) (interpretation)—
+**3.**[^c-da4af165e549dace01dd97345d62507d] In rule 1(3) (interpretation)—
 
 - (a) after the definition of “appropriate national authority” insert—
 
@@ -77,7 +77,7 @@ The Tribunal Procedure (Upper Tribunal) Rules 2008[^f00002] are amended as follo
 
   .
 
-**4.**[^key-69d259c094be4133867074d9124508da] After rule 5(3) (case management powers) insert—
+**4.**[^c-69d259c094be4133867074d9124508da] After rule 5(3) (case management powers) insert—
 
 > (4) The Upper Tribunal may direct that a fast-track case cease to be treated as a fast-track case if—
 >
@@ -87,15 +87,15 @@ The Tribunal Procedure (Upper Tribunal) Rules 2008[^f00002] are amended as follo
 
 .
 
-**5.**[^key-fdae72ef8725c065c473c6781aa72904] In rule 7(2)(d) (failure to comply with rules etc.) for “mental health cases” substitute “a mental health case, an asylum case or an immigration case”.
+**5.**[^c-fdae72ef8725c065c473c6781aa72904] In rule 7(2)(d) (failure to comply with rules etc.) for “mental health cases” substitute “a mental health case, an asylum case or an immigration case”.
 
-**6.**[^key-86e7d03dae7348824c5ef0f631c004a2] In rule 8 (striking out a party’s case) before paragraph (1) insert—
+**6.**[^c-86e7d03dae7348824c5ef0f631c004a2] In rule 8 (striking out a party’s case) before paragraph (1) insert—
 
 > (1A) Except for paragraph (2), this rule does not apply to an asylum case or an immigration case.
 
 .
 
-**7.**[^key-2e0e2ff21ad1f024e4398e33ec3d8cc5] In rule 9 (addition, substitution and removal of parties) after paragraph (4) insert—
+**7.**[^c-2e0e2ff21ad1f024e4398e33ec3d8cc5] In rule 9 (addition, substitution and removal of parties) after paragraph (4) insert—
 
 > (5) In an asylum case, the United Kingdom Representative of the United Nations High Commissioner for Refugees (“the United Kingdom Representative”) may give notice to the Upper Tribunal that the United Kingdom Representative wishes to participate in the proceedings.
 >
@@ -106,7 +106,7 @@ The Tribunal Procedure (Upper Tribunal) Rules 2008[^f00002] are amended as follo
 
 .
 
-**8.**[^key-d10ebe9d62e5ff8b7de875699446ac05] In rule 11 (representatives)—
+**8.**[^c-d10ebe9d62e5ff8b7de875699446ac05] In rule 11 (representatives)—
 
 - (a) in paragraph (1), after “proceedings” insert “save that a party in an asylum or immigration case may not be represented by any person prohibited from representing by section 84 of the Immigration and Asylum Act 1999[^f00007]”;
 - (b) in paragraph (9), after “that Act,” insert “a qualified person as defined in section 84(2) of the Immigration and Asylum Act 1999,”; and
@@ -119,7 +119,7 @@ The Tribunal Procedure (Upper Tribunal) Rules 2008[^f00002] are amended as follo
 
   .
 
-**9.**[^key-4be762051dfa1a24764c2a872e9d57c8] In rule 12 (calculating time)—
+**9.**[^c-4be762051dfa1a24764c2a872e9d57c8] In rule 12 (calculating time)—
 
 - (a) after paragraph (3) insert—
 
@@ -131,7 +131,7 @@ The Tribunal Procedure (Upper Tribunal) Rules 2008[^f00002] are amended as follo
   ; and
 - (b) in paragraph (4), after “paragraph (3)” insert “or (3A)”.
 
-**10.**[^key-d2f9c8cd51e94b1815bfae506d51df86] In rule 13 (sending and delivery of documents) after paragraph (5) insert—
+**10.**[^c-d2f9c8cd51e94b1815bfae506d51df86] In rule 13 (sending and delivery of documents) after paragraph (5) insert—
 
 > (6) Subject to paragraph (7), if a document submitted to the Upper Tribunal is not written in English, it must be accompanied by an English translation.
 >
@@ -139,7 +139,7 @@ The Tribunal Procedure (Upper Tribunal) Rules 2008[^f00002] are amended as follo
 
 .
 
-**11.**[^key-be2771e88ec469745d5e600ee037faa4] In rule 15 (evidence and submissions) after paragraph (2) insert—
+**11.**[^c-be2771e88ec469745d5e600ee037faa4] In rule 15 (evidence and submissions) after paragraph (2) insert—
 
 > (2A) In an asylum case or an immigration case—
 >
@@ -150,7 +150,7 @@ The Tribunal Procedure (Upper Tribunal) Rules 2008[^f00002] are amended as follo
 
 .
 
-**12.**[^key-d76cc972b2de7aea4439b164d35152e7] After rule 17 (withdrawal) insert—
+**12.**[^c-d76cc972b2de7aea4439b164d35152e7] After rule 17 (withdrawal) insert—
 
 > **17A. Appeal treated as abandoned or finally determined in an asylum case or an immigration case**
 >
@@ -171,7 +171,7 @@ The Tribunal Procedure (Upper Tribunal) Rules 2008[^f00002] are amended as follo
 
 .
 
-**13.**[^key-ed8d51af4cb2594fd9cc89d7af0ea514] Rule 21 (application to the Upper Tribunal for permission to appeal) is amended as follows—
+**13.**[^c-ed8d51af4cb2594fd9cc89d7af0ea514] Rule 21 (application to the Upper Tribunal for permission to appeal) is amended as follows—
 
 - (a) after paragraph (3)(a)—
   - (i) omit “or”; and
@@ -193,13 +193,13 @@ The Tribunal Procedure (Upper Tribunal) Rules 2008[^f00002] are amended as follo
 
   .
 
-**14.**[^key-0bedc74c96a75d132e65870904b76759] In rule 23 (notice of appeal) after paragraph (1) insert—
+**14.**[^c-0bedc74c96a75d132e65870904b76759] In rule 23 (notice of appeal) after paragraph (1) insert—
 
 > (1A) In an asylum case or an immigration case in which the First-tier Tribunal has given permission to appeal, subject to any direction of the First-tier Tribunal or the Upper Tribunal, the application for permission to appeal sent or delivered to the First-tier Tribunal stands as the notice of appeal and accordingly paragraphs (2) to (6) of this rule do not apply.
 
 .
 
-**15.**[^key-aa0baadb195fd41daa6ddb0cedddad26] In rule 24(2) (response to the notice of appeal)—
+**15.**[^c-aa0baadb195fd41daa6ddb0cedddad26] In rule 24(2) (response to the notice of appeal)—
 
 - (a) for paragraph (a) substitute—
 
@@ -213,7 +213,7 @@ The Tribunal Procedure (Upper Tribunal) Rules 2008[^f00002] are amended as follo
 
   .
 
-**16.**[^key-cb549f052d4281295b4a186fb1e14555] For rule 25 (appellant’s reply)—
+**16.**[^c-cb549f052d4281295b4a186fb1e14555] For rule 25 (appellant’s reply)—
 
 - (a) in paragraph (2), for “Any” substitute “Subject to paragraph (2A), any”; and
 - (b) insert—
@@ -225,7 +225,7 @@ The Tribunal Procedure (Upper Tribunal) Rules 2008[^f00002] are amended as follo
 
   .
 
-**17.**[^key-51fc8bd4c0e46c1a3242edfd3320037b] In rule 36(2) (notice of hearings)—
+**17.**[^c-51fc8bd4c0e46c1a3242edfd3320037b] In rule 36(2) (notice of hearings)—
 
 - (a) after paragraph (a)—
   - (i) omit “and”; and
@@ -236,7 +236,7 @@ The Tribunal Procedure (Upper Tribunal) Rules 2008[^f00002] are amended as follo
     ; and
 - (b) before “the” in paragraph (b) insert “in any case other than a fast-track case”.
 
-**18.**[^key-6059e90155dd88a7bbb570cc9a8ad013] After rule 36 (notice of hearings) insert—
+**18.**[^c-6059e90155dd88a7bbb570cc9a8ad013] After rule 36 (notice of hearings) insert—
 
 > **36A. Special time limits for hearing an appeal in a fast-track case**
 >
@@ -249,9 +249,9 @@ The Tribunal Procedure (Upper Tribunal) Rules 2008[^f00002] are amended as follo
 
 .
 
-**19.**[^key-4224d3d4ff33ed7276df443c5f5a8a33] In rule 40(2) (decisions) at the beginning insert “Except where rule 40A (special procedure for providing notice of a decision relating to an asylum case) applies,”.
+**19.**[^c-4224d3d4ff33ed7276df443c5f5a8a33] In rule 40(2) (decisions) at the beginning insert “Except where rule 40A (special procedure for providing notice of a decision relating to an asylum case) applies,”.
 
-**20.**[^key-9855f5d31b013b5c7913ebf257f46bcb] After rule 40 (decisions) insert—
+**20.**[^c-9855f5d31b013b5c7913ebf257f46bcb] After rule 40 (decisions) insert—
 
 > **40A. Special procedure for providing notice of a decision relating to an asylum case**
 >
@@ -276,7 +276,7 @@ The Tribunal Procedure (Upper Tribunal) Rules 2008[^f00002] are amended as follo
 
 .
 
-**21.**[^key-ba4e5933778912a6d91f2c72f4009013] In rule 43 (setting aside a decision which disposes of proceedings)—
+**21.**[^c-ba4e5933778912a6d91f2c72f4009013] In rule 43 (setting aside a decision which disposes of proceedings)—
 
 - (a) in paragraph (3) at the beginning insert “Except where paragraph (4) applies,”; and
 - (b) after paragraph (3) insert—
@@ -290,7 +290,7 @@ The Tribunal Procedure (Upper Tribunal) Rules 2008[^f00002] are amended as follo
 
   .
 
-**22.**[^key-2dd658c0c4fe7cdf8403938e89697b50] (1) Rule 44 (application for permission to appeal) is amended as follows.
+**22.**[^c-2dd658c0c4fe7cdf8403938e89697b50] (1) Rule 44 (application for permission to appeal) is amended as follows.
 
 (2) After paragraph (3) insert—
 
@@ -315,21 +315,21 @@ The Tribunal Procedure (Upper Tribunal) Rules 2008[^f00002] are amended as follo
 
 (4) In paragraph (6), after “paragraph (3)” insert “, (3A)”.
 
-## 23. Amendments to the Asylum and Immigration Tribunal (Procedure) Rules 2005[^key-8ef0108af1c69677cc6c5f3eb3d08e25]
+## 23. Amendments to the Asylum and Immigration Tribunal (Procedure) Rules 2005[^c-8ef0108af1c69677cc6c5f3eb3d08e25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-8ef0108af1c69677cc6c5f3eb3d08e25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-8ef0108af1c69677cc6c5f3eb3d08e25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-8ef0108af1c69677cc6c5f3eb3d08e25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-8ef0108af1c69677cc6c5f3eb3d08e25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 26. Amendments to the Asylum and Immigration Tribunal (Fast Track Procedure) Rules 2005[^key-8ef0108af1c69677cc6c5f3eb3d08e25]
+## 26. Amendments to the Asylum and Immigration Tribunal (Fast Track Procedure) Rules 2005[^c-8ef0108af1c69677cc6c5f3eb3d08e25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.**[^key-8ef0108af1c69677cc6c5f3eb3d08e25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-8ef0108af1c69677cc6c5f3eb3d08e25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**28.**[^key-8ef0108af1c69677cc6c5f3eb3d08e25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-8ef0108af1c69677cc6c5f3eb3d08e25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 EXPLANATORY NOTE
 
@@ -345,13 +345,13 @@ Rules 24 and 25 make minor amendments to the Asylum and Immigration Tribunal (Pr
 
 [^f00001]: Footnote: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-c2a25a00e5e25eb9a1747c2e0eb0778b]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
+[^c-c2a25a00e5e25eb9a1747c2e0eb0778b]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
 
-[^key-284481bab0cda369f9d323ef96094d2a]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2010/44/rule/2) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
+[^c-284481bab0cda369f9d323ef96094d2a]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2010/44/rule/2) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
 
 [^f00002]: Footnote: [S.I. 2008/2698](https://www.legislation.gov.uk/uksi/2008/2698) as amended by the Tribunal Procedure (Amendment) Rules 2009 ([S.I. 2009/274](https://www.legislation.gov.uk/uksi/2009/274)), the Tribunal Procedure (Amendment No. 2) Rules 2009 ([S.I. 2009/1975](https://www.legislation.gov.uk/uksi/2009/1975)) and the Tribunal Procedure (Amendment) Rules 2010 (S.I. 2010/XX).
 
-[^key-da4af165e549dace01dd97345d62507d]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2010/44/rule/3) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
+[^c-da4af165e549dace01dd97345d62507d]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2010/44/rule/3) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
 
 [^f00003]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41). Section 82 was amended by sections 26(2) and 31 of the Asylum and Immigration (Treatment of Claimants, etc.) Act [2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19); sections 2, 11(6), 47(6), 57(2) and 61 of the Immigration, Asylum and Nationality Act [2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), and section 35(1) and (3) of the UK Borders Act [2007 (c. 30)](https://www.legislation.gov.uk/ukpga/2007/30). Section 83A was inserted by section 1 of the Immigration, Asylum and Nationality Act 2006.
 
@@ -361,48 +361,48 @@ Rules 24 and 25 make minor amendments to the Asylum and Immigration Tribunal (Pr
 
 [^f00006]: Footnote: [S.I. 2005/560](https://www.legislation.gov.uk/uksi/2005/560).
 
-[^key-69d259c094be4133867074d9124508da]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2010/44/rule/4) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
+[^c-69d259c094be4133867074d9124508da]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2010/44/rule/4) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
 
-[^key-fdae72ef8725c065c473c6781aa72904]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2010/44/rule/5) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
+[^c-fdae72ef8725c065c473c6781aa72904]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2010/44/rule/5) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
 
-[^key-86e7d03dae7348824c5ef0f631c004a2]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2010/44/rule/6) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
+[^c-86e7d03dae7348824c5ef0f631c004a2]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2010/44/rule/6) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
 
-[^key-2e0e2ff21ad1f024e4398e33ec3d8cc5]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2010/44/rule/7) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
+[^c-2e0e2ff21ad1f024e4398e33ec3d8cc5]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2010/44/rule/7) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
 
-[^key-d10ebe9d62e5ff8b7de875699446ac05]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2010/44/rule/8) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
+[^c-d10ebe9d62e5ff8b7de875699446ac05]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2010/44/rule/8) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
 
 [^f00007]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33).
 
-[^key-4be762051dfa1a24764c2a872e9d57c8]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2010/44/rule/9) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
+[^c-4be762051dfa1a24764c2a872e9d57c8]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2010/44/rule/9) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
 
-[^key-d2f9c8cd51e94b1815bfae506d51df86]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2010/44/rule/10) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
+[^c-d2f9c8cd51e94b1815bfae506d51df86]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2010/44/rule/10) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
 
-[^key-be2771e88ec469745d5e600ee037faa4]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2010/44/rule/11) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
+[^c-be2771e88ec469745d5e600ee037faa4]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2010/44/rule/11) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
 
-[^key-d76cc972b2de7aea4439b164d35152e7]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2010/44/rule/12) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
+[^c-d76cc972b2de7aea4439b164d35152e7]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2010/44/rule/12) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
 
 [^f00008]: Footnote: [S.I. 2006/1003](https://www.legislation.gov.uk/uksi/2006/1003).
 
 [^f00009]: Footnote: [2002 c.41](https://www.legislation.gov.uk/ukpga/2002/41). Section 104(4) was substituted by, and section 104(4A) to (4C) was inserted by, section 9 of the Immigration, Asylum and Nationality Act 2006.
 
-[^key-ed8d51af4cb2594fd9cc89d7af0ea514]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2010/44/rule/13) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
+[^c-ed8d51af4cb2594fd9cc89d7af0ea514]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2010/44/rule/13) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
 
-[^key-0bedc74c96a75d132e65870904b76759]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/2010/44/rule/14) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
+[^c-0bedc74c96a75d132e65870904b76759]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/2010/44/rule/14) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
 
-[^key-aa0baadb195fd41daa6ddb0cedddad26]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2010/44/rule/15) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
+[^c-aa0baadb195fd41daa6ddb0cedddad26]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2010/44/rule/15) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
 
-[^key-cb549f052d4281295b4a186fb1e14555]: Commencement: [Rule 16](https://www.legislation.gov.uk/uksi/2010/44/rule/16) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
+[^c-cb549f052d4281295b4a186fb1e14555]: Commencement: [Rule 16](https://www.legislation.gov.uk/uksi/2010/44/rule/16) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
 
-[^key-51fc8bd4c0e46c1a3242edfd3320037b]: Commencement: [Rule 17](https://www.legislation.gov.uk/uksi/2010/44/rule/17) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
+[^c-51fc8bd4c0e46c1a3242edfd3320037b]: Commencement: [Rule 17](https://www.legislation.gov.uk/uksi/2010/44/rule/17) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
 
-[^key-6059e90155dd88a7bbb570cc9a8ad013]: Commencement: [Rule 18](https://www.legislation.gov.uk/uksi/2010/44/rule/18) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
+[^c-6059e90155dd88a7bbb570cc9a8ad013]: Commencement: [Rule 18](https://www.legislation.gov.uk/uksi/2010/44/rule/18) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
 
-[^key-4224d3d4ff33ed7276df443c5f5a8a33]: Commencement: [Rule 19](https://www.legislation.gov.uk/uksi/2010/44/rule/19) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
+[^c-4224d3d4ff33ed7276df443c5f5a8a33]: Commencement: [Rule 19](https://www.legislation.gov.uk/uksi/2010/44/rule/19) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
 
-[^key-9855f5d31b013b5c7913ebf257f46bcb]: Commencement: [Rule 20](https://www.legislation.gov.uk/uksi/2010/44/rule/20) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
+[^c-9855f5d31b013b5c7913ebf257f46bcb]: Commencement: [Rule 20](https://www.legislation.gov.uk/uksi/2010/44/rule/20) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
 
-[^key-ba4e5933778912a6d91f2c72f4009013]: Commencement: [Rule 21](https://www.legislation.gov.uk/uksi/2010/44/rule/21) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
+[^c-ba4e5933778912a6d91f2c72f4009013]: Commencement: [Rule 21](https://www.legislation.gov.uk/uksi/2010/44/rule/21) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
 
-[^key-2dd658c0c4fe7cdf8403938e89697b50]: Commencement: [Rule 22](https://www.legislation.gov.uk/uksi/2010/44/rule/22) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
+[^c-2dd658c0c4fe7cdf8403938e89697b50]: Commencement: [Rule 22](https://www.legislation.gov.uk/uksi/2010/44/rule/22) in force at 15.2.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1)
 
-[^key-8ef0108af1c69677cc6c5f3eb3d08e25]: Textual amendment: [Rules 23-28](https://www.legislation.gov.uk/uksi/2010/44/rule/23) revoked (20.10.2014) by [The Tribunal Procedure (First-tier Tribunal) (Immigration and Asylum Chamber) Rules 2014 (S.I. 2014/2604)](https://www.legislation.gov.uk/uksi/2014/2604), [rule 45](https://www.legislation.gov.uk/uksi/2014/2604/rule/45)
+[^c-8ef0108af1c69677cc6c5f3eb3d08e25]: Textual amendment: [Rules 23-28](https://www.legislation.gov.uk/uksi/2010/44/rule/23) revoked (20.10.2014) by [The Tribunal Procedure (First-tier Tribunal) (Immigration and Asylum Chamber) Rules 2014 (S.I. 2014/2604)](https://www.legislation.gov.uk/uksi/2014/2604), [rule 45](https://www.legislation.gov.uk/uksi/2014/2604/rule/45)

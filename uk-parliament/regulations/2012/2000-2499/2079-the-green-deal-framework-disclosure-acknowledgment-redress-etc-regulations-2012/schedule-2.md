@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 2 — Reports by green deal providers[^key-2aa214e972507fe6ea336a0fa26a3e3d]
+## SCHEDULE 2 — Reports by green deal providers[^c-2aa214e972507fe6ea336a0fa26a3e3d]
 
 *Extent: E+W+S*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2aa214e972507fe6ea336a0fa26a3e3d]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2012/2079/schedule/2) substituted (28.1.2013) by [The Green Deal Framework (Disclosure, Acknowledgment, Redress etc.) (Amendment) Regulations 2013 (S.I. 2013/139)](https://www.legislation.gov.uk/uksi/2013/139), [regs. 1](https://www.legislation.gov.uk/uksi/2013/139/regulation/1), [19](https://www.legislation.gov.uk/uksi/2013/139/regulation/19)
+[^c-2aa214e972507fe6ea336a0fa26a3e3d]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2012/2079/schedule/2) substituted (28.1.2013) by [The Green Deal Framework (Disclosure, Acknowledgment, Redress etc.) (Amendment) Regulations 2013 (S.I. 2013/139)](https://www.legislation.gov.uk/uksi/2013/139), [regs. 1](https://www.legislation.gov.uk/uksi/2013/139/regulation/1), [19](https://www.legislation.gov.uk/uksi/2013/139/regulation/19)

@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-6a5570ff05f746a66f41527a6b11ba90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-6a5570ff05f746a66f41527a6b11ba90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-6a5570ff05f746a66f41527a6b11ba90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-6a5570ff05f746a66f41527a6b11ba90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Subject to section 66(2) and (6) of this Act—
 
-- (a)[^key-fd0089123fcf5dcab6818f5b989b4a17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-fd0089123fcf5dcab6818f5b989b4a17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) any reference in this Act to “**drug trafficking**” includes a reference to drug trafficking carried out before the commencement of this Act.
 
 ## Annotations
@@ -35,6 +35,6 @@ summary: ''
 
     S. 63 modified (E.W.) (1.1.1997) by [S.I. 1996/2880](https://www.legislation.gov.uk/uksi/1996/2880), [art. 3(2)](https://www.legislation.gov.uk/uksi/1996/2880/article/3/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/2880/schedule/3)
 
-[^key-6a5570ff05f746a66f41527a6b11ba90]: Textual amendment: S. 63(1)(2) repealed (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 11 para. 25(2)(h)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/25/2/h), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (with [arts. 10-13](https://www.legislation.gov.uk/uksi/2003/333/article/10))
+[^c-6a5570ff05f746a66f41527a6b11ba90]: Textual amendment: S. 63(1)(2) repealed (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 11 para. 25(2)(h)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/25/2/h), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (with [arts. 10-13](https://www.legislation.gov.uk/uksi/2003/333/article/10))
 
-[^key-fd0089123fcf5dcab6818f5b989b4a17]: Textual amendment: S. 63(3)(a) repealed (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 11 para. 25(2)(h)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/25/2/h), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (with [arts. 10-13](https://www.legislation.gov.uk/uksi/2003/333/article/10))
+[^c-fd0089123fcf5dcab6818f5b989b4a17]: Textual amendment: S. 63(3)(a) repealed (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 11 para. 25(2)(h)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/25/2/h), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (with [arts. 10-13](https://www.legislation.gov.uk/uksi/2003/333/article/10))

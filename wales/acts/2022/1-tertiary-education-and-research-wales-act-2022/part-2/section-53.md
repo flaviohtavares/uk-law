@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Reviews relevant to quality of tertiary education[^key-9a92471331422b422955d426acf11087][^key-f150630dc9f3144862bd6ed6d8265560][^key-67f099478d140a87caffe78b03f3f896]
+## 53. Reviews relevant to quality of tertiary education[^c-9a92471331422b422955d426acf11087][^c-f150630dc9f3144862bd6ed6d8265560][^c-67f099478d140a87caffe78b03f3f896]
 
 *Extent: E+W*
 
@@ -28,8 +28,8 @@ The Commission may carry out, or arrange for another person to carry out, a revi
 
 ## Annotations
 
-[^key-9a92471331422b422955d426acf11087]: Commencement: S. 53 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-9a92471331422b422955d426acf11087]: Commencement: S. 53 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-f150630dc9f3144862bd6ed6d8265560]: Commencement: [S. 53](https://www.legislation.gov.uk/asc/2022/1/section/53) in force at 5.4.2025 for specified purposes by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 8(1)](https://www.legislation.gov.uk/wsi/2025/432/article/8/1) (with [art. 8(4)](https://www.legislation.gov.uk/wsi/2025/432/article/8/4)[(6)](https://www.legislation.gov.uk/wsi/2025/432/article/8/6))
+[^c-f150630dc9f3144862bd6ed6d8265560]: Commencement: [S. 53](https://www.legislation.gov.uk/asc/2022/1/section/53) in force at 5.4.2025 for specified purposes by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 8(1)](https://www.legislation.gov.uk/wsi/2025/432/article/8/1) (with [art. 8(4)](https://www.legislation.gov.uk/wsi/2025/432/article/8/4)[(6)](https://www.legislation.gov.uk/wsi/2025/432/article/8/6))
 
-[^key-67f099478d140a87caffe78b03f3f896]: Commencement: [S. 53](https://www.legislation.gov.uk/asc/2022/1/section/53) in force at 1.4.2026 in so far as not already in force by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 4(1)](https://www.legislation.gov.uk/wsi/2026/62/article/4/1) (with [art. 4(2)-(6)](https://www.legislation.gov.uk/wsi/2026/62/article/4/2))
+[^c-67f099478d140a87caffe78b03f3f896]: Commencement: [S. 53](https://www.legislation.gov.uk/asc/2022/1/section/53) in force at 1.4.2026 in so far as not already in force by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 4(1)](https://www.legislation.gov.uk/wsi/2026/62/article/4/1) (with [art. 4(2)-(6)](https://www.legislation.gov.uk/wsi/2026/62/article/4/2))

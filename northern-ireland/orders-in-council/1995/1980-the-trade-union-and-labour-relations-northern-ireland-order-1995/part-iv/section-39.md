@@ -20,15 +20,15 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-cf96442f31e2e07b3764406ac42e7b06] An industrial tribunal shall not entertain a complaint under Article 38 unless it is presented—
+(1)[^c-cf96442f31e2e07b3764406ac42e7b06] An industrial tribunal shall not entertain a complaint under Article 38 unless it is presented—
 
 - (a) before the end of the period of six months beginning with the date of the expulsion, or
 - (b) where the tribunal is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period, within such further period as the tribunal considers reasonable.
 
-(2)[^key-800a003e36e4aa5a5e36d7edd55371ab] Article 147A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (1).
+(2)[^c-800a003e36e4aa5a5e36d7edd55371ab] Article 147A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (1).
 
 ## Annotations
 
-[^key-cf96442f31e2e07b3764406ac42e7b06]: Textual amendment: [Art. 39(1)](https://www.legislation.gov.uk/nisi/1995/1980/article/39/1): art. 39 renumbered as art. 39(1) (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/6/2); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-cf96442f31e2e07b3764406ac42e7b06]: Textual amendment: [Art. 39(1)](https://www.legislation.gov.uk/nisi/1995/1980/article/39/1): art. 39 renumbered as art. 39(1) (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/6/2); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-800a003e36e4aa5a5e36d7edd55371ab]: Textual amendment: [Art. 39(2)](https://www.legislation.gov.uk/nisi/1995/1980/article/39/2) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/6/3); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-800a003e36e4aa5a5e36d7edd55371ab]: Textual amendment: [Art. 39(2)](https://www.legislation.gov.uk/nisi/1995/1980/article/39/2) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/6/3); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)

@@ -41,7 +41,7 @@ Article 74(3).
 
 the Executive may dispense with the condition in paragraph (1).
 
-(4) In determining for the purposes of this paragraph whether a dwelling-house meets the relevant standard of repair, regard shall be had to the works specified in the notice of disrepair served under Article 19 of the Private Tenancies (Northern Ireland) Order 2006 in relation to the dwelling-house[^c20138841] or, as the case may be, to the requirements of the notice served under section 65 of the Clean Neighbourhoods and Environment Act (Northern Ireland) 2011[^key-9436ff23b2650b8999e8dcdf9482916e] in relation to the dwelling-house.
+(4) In determining for the purposes of this paragraph whether a dwelling-house meets the relevant standard of repair, regard shall be had to the works specified in the notice of disrepair served under Article 19 of the Private Tenancies (Northern Ireland) Order 2006 in relation to the dwelling-house[^c20138841] or, as the case may be, to the requirements of the notice served under section 65 of the Clean Neighbourhoods and Environment Act (Northern Ireland) 2011[^c-9436ff23b2650b8999e8dcdf9482916e] in relation to the dwelling-house.
 
 **3.** (1) Where the Executive approves an application for a repairs grant, it shall determine the amount of the expense (in this Schedule referred to as “the eligible expense”) which in its opinion is proper to be incurred for the execution of the relevant works and shall notify the applicant of that amount.
 
@@ -83,7 +83,7 @@ it shall state in writing to the applicant its reasons for doing so.
 
 [^c20138841]: Textual amendment: Words in Sch. 3 para. 2(4) substituted (1.4.2007) by [Private Tenancies (Northern Ireland) Order 2006 (S.I. 2006/1459 (N.I. 10))](https://www.legislation.gov.uk/nisi/2006/1459), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2006/1459/article/1/3), [29(5)](https://www.legislation.gov.uk/nisi/2006/1459/article/29/5) (with (6); [S.R. 2006/428](https://www.legislation.gov.uk/nisr/2006/428), [art. 3(a)](https://www.legislation.gov.uk/nisr/2006/428/article/3/a)
 
-[^key-9436ff23b2650b8999e8dcdf9482916e]: Textual amendment: Words in [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/nisi/1992/1725/schedule/3/paragraph/2/4) substituted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 3 para. 12(2)](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/12/2); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-9436ff23b2650b8999e8dcdf9482916e]: Textual amendment: Words in [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/nisi/1992/1725/schedule/3/paragraph/2/4) substituted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 3 para. 12(2)](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/12/2); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
 [^c11665961]: Textual amendment: [2003 NI 2](https://www.legislation.gov.uk/2003/ni2)
 

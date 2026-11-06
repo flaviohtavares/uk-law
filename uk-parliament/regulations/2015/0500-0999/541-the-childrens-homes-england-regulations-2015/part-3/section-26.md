@@ -51,7 +51,7 @@ summary: ''
 (8) An individual is not financially fit to carry on a home—
 
 - (a) if the individual—
-  - (i) has been made[^key-52e4e3ce1b6a9f8c5dbd2962e88ab840] bankrupt, sequestration of the individual's estate has been awarded or a moratorium period under a debt relief order (within the meaning of section 251A of the Insolvency Act 1986 [^c22409191]) applies in relation to the individual; and
+  - (i) has been made[^c-52e4e3ce1b6a9f8c5dbd2962e88ab840] bankrupt, sequestration of the individual's estate has been awarded or a moratorium period under a debt relief order (within the meaning of section 251A of the Insolvency Act 1986 [^c22409191]) applies in relation to the individual; and
   - (ii) has not been discharged from the bankruptcy or the sequestration and the bankruptcy order has not been annulled or rescinded; or
 - (b) if the individual has made a composition or arrangement with the individual's creditors and the individual has not been discharged in respect of the composition or arrangement.
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-52e4e3ce1b6a9f8c5dbd2962e88ab840]: Textual amendment: Word in reg. 26(8)(a)(i) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
+[^c-52e4e3ce1b6a9f8c5dbd2962e88ab840]: Textual amendment: Word in reg. 26(8)(a)(i) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
 
 [^c22409191]: Marginal citation: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45). Section 251A of the Insolvency Act 1986 was inserted by Schedule 17 to the [Tribunals, Courts and Enforcement Act 2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15).

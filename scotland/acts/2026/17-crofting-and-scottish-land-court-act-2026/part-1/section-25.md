@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Use of common grazings for forestry or environmental purposes[^key-09bf9176981cc404611e4cf9ad3299e2]
+## 25. Use of common grazings for forestry or environmental purposes[^c-09bf9176981cc404611e4cf9ad3299e2]
 
 *Extent: S*
 
@@ -232,4 +232,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09bf9176981cc404611e4cf9ad3299e2]: Commencement: S. 25 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-09bf9176981cc404611e4cf9ad3299e2]: Commencement: S. 25 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Guidance about super-complaints[^key-af14ee195298d4abc681d284d763c65d]
+## 91. Guidance about super-complaints[^c-af14ee195298d4abc681d284d763c65d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af14ee195298d4abc681d284d763c65d]: Commencement: Reg. 91 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-af14ee195298d4abc681d284d763c65d]: Commencement: Reg. 91 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

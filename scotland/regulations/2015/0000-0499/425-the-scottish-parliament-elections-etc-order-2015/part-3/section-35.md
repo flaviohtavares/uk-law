@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Effect of default in election agent’s appointment[^key-3f37c349ebacaaa3c9498d4d0c722d9e]
+## 35. Effect of default in election agent’s appointment[^c-3f37c349ebacaaa3c9498d4d0c722d9e]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f37c349ebacaaa3c9498d4d0c722d9e]: Commencement: Art. 35 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-3f37c349ebacaaa3c9498d4d0c722d9e]: Commencement: Art. 35 in force at 16.12.2015 in accordance with art. 1(1)

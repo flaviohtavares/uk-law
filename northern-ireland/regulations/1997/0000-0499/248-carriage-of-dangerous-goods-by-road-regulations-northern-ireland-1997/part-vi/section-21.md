@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Equipment[^key-6d0dbf2d9dbe02232321f736e1656a0e]
+## 21. Equipment[^c-6d0dbf2d9dbe02232321f736e1656a0e]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d0dbf2d9dbe02232321f736e1656a0e]: Commencement: Reg. 21 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-6d0dbf2d9dbe02232321f736e1656a0e]: Commencement: Reg. 21 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Confirmation by acquiring authority: orders with modifications[^key-8de96d57e287d210d95c11d12491cc02]
+## 107. Confirmation by acquiring authority: orders with modifications[^c-8de96d57e287d210d95c11d12491cc02]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8de96d57e287d210d95c11d12491cc02]: Commencement: S. 107 in force at 18.2.2026, see [s. 118(5)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/c)
+[^c-8de96d57e287d210d95c11d12491cc02]: Commencement: S. 107 in force at 18.2.2026, see [s. 118(5)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/c)

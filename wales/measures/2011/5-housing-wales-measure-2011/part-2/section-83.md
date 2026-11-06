@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83. Insolvency, etc of registered social landlord: appointment of interim manager[^key-d3b80d482092650c27884e43a6a4196c]
+## 83. Insolvency, etc of registered social landlord: appointment of interim manager[^c-d3b80d482092650c27884e43a6a4196c]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ After section 43 of the Housing Act 1996 insert—
 
 ## Annotations
 
-[^key-d3b80d482092650c27884e43a6a4196c]: Commencement: [S. 83](https://www.legislation.gov.uk/mwa/2011/5/section/83) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(s)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/s)
+[^c-d3b80d482092650c27884e43a6a4196c]: Commencement: [S. 83](https://www.legislation.gov.uk/mwa/2011/5/section/83) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(s)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/s)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) This Act may be cited as the Clean Air Act 1993.
 
-(2)[^key-6df0dae8e0d493b252e3ae21aaca6808] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-6df0dae8e0d493b252e3ae21aaca6808] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The following provisions of this Act (apart from this section) extend to Northern Ireland—
 
@@ -34,6 +34,6 @@ but otherwise this Act does not extend to Northern Ireland.
 
 ## Annotations
 
-[^key-6df0dae8e0d493b252e3ae21aaca6808]: Textual amendment: [S. 68(2)](https://www.legislation.gov.uk/ukpga/1993/11/section/68/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-6df0dae8e0d493b252e3ae21aaca6808]: Textual amendment: [S. 68(2)](https://www.legislation.gov.uk/ukpga/1993/11/section/68/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
 
 [^c10491861]: Marginal citation: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40).

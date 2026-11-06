@@ -45,11 +45,11 @@ The Queen’s Most Excellent Majesty in Council
 
 Whereas a draft of this Order has, in pursuance of section 1(5) of the Motor Vehicles (International Circulation) Act 1952[^f00001], been laid before Parliament and approved by resolution of each House of Parliament: Now therefore, Her Majesty, in pursuance of section 1 of the Motor Vehicles (International Circulation) Act 1952, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—
 
-## 1. Citation and commencement[^key-6d0ac1506291946fc0f08bd603151c22]
+## 1. Citation and commencement[^c-6d0ac1506291946fc0f08bd603151c22]
 
-This Order may be cited as the Motor Vehicles (International Circulation) (Amendment) Order 1989 and shall come into force for all purposes except the purposes of articles 5 and 6 on the day after the day on which it is made, for all purposes of article 5 on the 1st September 1989 [^key-72f9586010734b4ec42b637727cce9e4]....
+This Order may be cited as the Motor Vehicles (International Circulation) (Amendment) Order 1989 and shall come into force for all purposes except the purposes of articles 5 and 6 on the day after the day on which it is made, for all purposes of article 5 on the 1st September 1989 [^c-72f9586010734b4ec42b637727cce9e4]....
 
-## 2. Interpretation, revocation and variation[^key-59e682ca8c615d6ccc8e2e16ce637196]
+## 2. Interpretation, revocation and variation[^c-59e682ca8c615d6ccc8e2e16ce637196]
 
 (1) In this Order “the principal Order” means the Motor Vehicles (International Circulation) Order 1975[^f00003] as amended by the Motor Vehicles (International Circulation) (Amendment) Order 1980[^f00004] and the Motor Vehicles (International Circulation) (Amendment) Order 1985[^f00005].
 
@@ -77,7 +77,7 @@ This Order may be cited as the Motor Vehicles (International Circulation) (Amend
 
   .
 
-## 3. Documents for drivers of vehicles going abroad[^key-fbd6df9240a62c984733fdd4562615ca]
+## 3. Documents for drivers of vehicles going abroad[^c-fbd6df9240a62c984733fdd4562615ca]
 
 In article 1 of the principal Order there shall be inserted at the end the following paragraphs:—
 
@@ -87,7 +87,7 @@ In article 1 of the principal Order there shall be inserted at the end the follo
 
 .
 
-## 4. Visitors' driving permits[^key-396f67494ea55ad341c379e8967e730f]
+## 4. Visitors' driving permits[^c-396f67494ea55ad341c379e8967e730f]
 
 For articles 2 and 3 of the principal Order there shall be substituted the following articles:—
 
@@ -157,11 +157,11 @@ For articles 2 and 3 of the principal Order there shall be substituted the follo
 
 .
 
-## 5. Fees for documents[^key-8f57f4697419e4f1911b25234791c3d2]
+## 5. Fees for documents[^c-8f57f4697419e4f1911b25234791c3d2]
 
 In Schedule 2 to the principal Order for “£2.50” in each place where it occurs there shall be substituted “£3”.
 
-## 6. Vienna Convention on Road Traffic 1968[^key-86afe3ce9da865fa56217f1004b92d03]
+## 6. Vienna Convention on Road Traffic 1968[^c-86afe3ce9da865fa56217f1004b92d03]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -181,11 +181,11 @@ This Order amends the Motor Vehicles (International Circulation) Order 1975 as a
 
 [^f00001]: Footnote: [1952 c. 39](https://www.legislation.gov.uk/ukpga/1952/39); section 1 has effect with section 8 of the Road Traffic (Amendment) Act [1967 (c. 70)](https://www.legislation.gov.uk/ukpga/1967/70).
 
-[^key-6d0ac1506291946fc0f08bd603151c22]: Commencement: Art. 1 in force at 14.6.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1989/993/article/1)
+[^c-6d0ac1506291946fc0f08bd603151c22]: Commencement: Art. 1 in force at 14.6.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1989/993/article/1)
 
-[^key-72f9586010734b4ec42b637727cce9e4]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/uksi/1989/993/article/1) revoked (28.3.2019) by [The Motor Vehicles (International Circulation) (Amendment) (EU Exit) Order 2019 (S.I. 2019/563)](https://www.legislation.gov.uk/uksi/2019/563), [arts. 1](https://www.legislation.gov.uk/uksi/2019/563/article/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2019/563/article/3/2/a)
+[^c-72f9586010734b4ec42b637727cce9e4]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/uksi/1989/993/article/1) revoked (28.3.2019) by [The Motor Vehicles (International Circulation) (Amendment) (EU Exit) Order 2019 (S.I. 2019/563)](https://www.legislation.gov.uk/uksi/2019/563), [arts. 1](https://www.legislation.gov.uk/uksi/2019/563/article/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2019/563/article/3/2/a)
 
-[^key-59e682ca8c615d6ccc8e2e16ce637196]: Commencement: Art. 2 in force at 14.6.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1989/993/article/1)
+[^c-59e682ca8c615d6ccc8e2e16ce637196]: Commencement: Art. 2 in force at 14.6.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1989/993/article/1)
 
 [^f00003]: Footnote: S.I. [1975/1208](https://www.legislation.gov.uk/uksi/1975/1208).
 
@@ -193,7 +193,7 @@ This Order amends the Motor Vehicles (International Circulation) Order 1975 as a
 
 [^f00005]: Footnote: S.I. [1985/459](https://www.legislation.gov.uk/uksi/1985/459).
 
-[^key-fbd6df9240a62c984733fdd4562615ca]: Commencement: Art. 3 in force at 14.6.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1989/993/article/1)
+[^c-fbd6df9240a62c984733fdd4562615ca]: Commencement: Art. 3 in force at 14.6.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1989/993/article/1)
 
 [^f00006]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
 
@@ -201,7 +201,7 @@ This Order amends the Motor Vehicles (International Circulation) Order 1975 as a
 
 [^f00008]: Footnote: [1988 c. 53](https://www.legislation.gov.uk/ukpga/1988/53).
 
-[^key-396f67494ea55ad341c379e8967e730f]: Commencement: Art. 4 in force at 14.6.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1989/993/article/1)
+[^c-396f67494ea55ad341c379e8967e730f]: Commencement: Art. 4 in force at 14.6.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1989/993/article/1)
 
 [^f00009]: Footnote: [1981 c. 14](https://www.legislation.gov.uk/ukpga/1981/14).
 
@@ -215,6 +215,6 @@ This Order amends the Motor Vehicles (International Circulation) Order 1975 as a
 
 [^f00014]: Footnote: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67).
 
-[^key-8f57f4697419e4f1911b25234791c3d2]: Commencement: Art. 5 in force at 1.9.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1989/993/article/1)
+[^c-8f57f4697419e4f1911b25234791c3d2]: Commencement: Art. 5 in force at 1.9.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1989/993/article/1)
 
-[^key-86afe3ce9da865fa56217f1004b92d03]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/1989/993/article/6) revoked (28.3.2019) by [The Motor Vehicles (International Circulation) (Amendment) (EU Exit) Order 2019 (S.I. 2019/563)](https://www.legislation.gov.uk/uksi/2019/563), [arts. 1](https://www.legislation.gov.uk/uksi/2019/563/article/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2019/563/article/3/2/b)
+[^c-86afe3ce9da865fa56217f1004b92d03]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/1989/993/article/6) revoked (28.3.2019) by [The Motor Vehicles (International Circulation) (Amendment) (EU Exit) Order 2019 (S.I. 2019/563)](https://www.legislation.gov.uk/uksi/2019/563), [arts. 1](https://www.legislation.gov.uk/uksi/2019/563/article/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2019/563/article/3/2/b)

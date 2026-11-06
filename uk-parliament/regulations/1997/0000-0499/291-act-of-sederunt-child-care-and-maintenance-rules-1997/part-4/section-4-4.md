@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4.4. Notification of refusal of application[^key-71ef1ea77c56d4189160d827622f75ad]
+## 4.4. Notification of refusal of application[^c-71ef1ea77c56d4189160d827622f75ad]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where the court refuses to send an application under rule 4.2 to the appropriate
 
 ## Annotations
 
-[^key-71ef1ea77c56d4189160d827622f75ad]: Commencement: [Rule 4.4](https://www.legislation.gov.uk/uksi/1997/291/rule/4.4) in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-71ef1ea77c56d4189160d827622f75ad]: Commencement: [Rule 4.4](https://www.legislation.gov.uk/uksi/1997/291/rule/4.4) in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

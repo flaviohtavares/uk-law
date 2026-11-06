@@ -32,7 +32,7 @@ summary: ''
 
 Customs
 
-The Export Control (Syria and Burma Sanctions Amendment) and Miscellaneous Revocations Order 2012 (revoked)[^key-7c8bb6029813e4b86c2604f338a6884c]
+The Export Control (Syria and Burma Sanctions Amendment) and Miscellaneous Revocations Order 2012 (revoked)[^c-7c8bb6029813e4b86c2604f338a6884c]
 
 Made
 
@@ -46,38 +46,38 @@ Coming into force
 
 6th September 2012
 
-[^key-7c8bb6029813e4b86c2604f338a6884c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7c8bb6029813e4b86c2604f338a6884c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART I — INTRODUCTORY[^key-7c8bb6029813e4b86c2604f338a6884c]
+## PART I — INTRODUCTORY[^c-7c8bb6029813e4b86c2604f338a6884c]
 
-### 1. Citation, commencement and interpretation[^key-7c8bb6029813e4b86c2604f338a6884c]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Revocations[^key-7c8bb6029813e4b86c2604f338a6884c]
+### 1. Citation, commencement and interpretation[^c-7c8bb6029813e4b86c2604f338a6884c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART II — AMENDMENTS TO THE SYRIA ORDER[^key-7c8bb6029813e4b86c2604f338a6884c]
-
-### 3.[^key-7c8bb6029813e4b86c2604f338a6884c]
+### 2. Revocations[^c-7c8bb6029813e4b86c2604f338a6884c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART III — AMENDMENTS AND MODIFICATIONS TO THE BURMA ORDER[^key-7c8bb6029813e4b86c2604f338a6884c]
+## PART II — AMENDMENTS TO THE SYRIA ORDER[^c-7c8bb6029813e4b86c2604f338a6884c]
 
-### 4.[^key-7c8bb6029813e4b86c2604f338a6884c]
+### 3.[^c-7c8bb6029813e4b86c2604f338a6884c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7c8bb6029813e4b86c2604f338a6884c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART III — AMENDMENTS AND MODIFICATIONS TO THE BURMA ORDER[^c-7c8bb6029813e4b86c2604f338a6884c]
+
+### 4.[^c-7c8bb6029813e4b86c2604f338a6884c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-7c8bb6029813e4b86c2604f338a6884c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7c8bb6029813e4b86c2604f338a6884c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7c8bb6029813e4b86c2604f338a6884c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7c8bb6029813e4b86c2604f338a6884c]: Textual amendment: Order revoked (6.9.2013) by [The Export Control (Syria Sanctions) Order 2013 (S.I. 2013/2012)](https://www.legislation.gov.uk/uksi/2013/2012), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2012/article/1/1), [2](https://www.legislation.gov.uk/uksi/2013/2012/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2012/schedule/1)
+[^c-7c8bb6029813e4b86c2604f338a6884c]: Textual amendment: Order revoked (6.9.2013) by [The Export Control (Syria Sanctions) Order 2013 (S.I. 2013/2012)](https://www.legislation.gov.uk/uksi/2013/2012), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2012/article/1/1), [2](https://www.legislation.gov.uk/uksi/2013/2012/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2012/schedule/1)

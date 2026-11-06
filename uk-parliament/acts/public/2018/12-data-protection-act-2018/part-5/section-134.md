@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-The Commission[^key-d76b716e115d3271927f13481d1e0bfd] may require a person other than a data subject or a data protection officer to pay a reasonable fee for a service provided to the person, or at the person's request, which the Commission is required or authorised to provide under the data protection legislation.
+The Commission[^c-d76b716e115d3271927f13481d1e0bfd] may require a person other than a data subject or a data protection officer to pay a reasonable fee for a service provided to the person, or at the person's request, which the Commission is required or authorised to provide under the data protection legislation.
 
 ## Annotations
 
 [^M_I_8c4e8eb0-b9be-4aad-a48e-efa68a2db249]: Commencement: S. 134 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/e)
 
-[^key-d76b716e115d3271927f13481d1e0bfd]: Textual amendment: Word in s. 134 substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-d76b716e115d3271927f13481d1e0bfd]: Textual amendment: Word in s. 134 substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

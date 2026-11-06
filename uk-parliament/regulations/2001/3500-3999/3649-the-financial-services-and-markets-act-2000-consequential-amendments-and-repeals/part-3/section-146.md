@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Disclosure of information by the Occupational Pensions Regulatory Authority[^key-90e39d8d0cc240f168389a2a462a8863]
+## 146. Disclosure of information by the Occupational Pensions Regulatory Authority[^c-90e39d8d0cc240f168389a2a462a8863]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,7 +64,7 @@ summary: ''
 
 ## Annotations
 
-[^key-90e39d8d0cc240f168389a2a462a8863]: Commencement: Art. 146 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-90e39d8d0cc240f168389a2a462a8863]: Commencement: Art. 146 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00115]: Footnote: The entry relating to the Treasury was amended by [S.I. 1997/2781](https://www.legislation.gov.uk/uksi/1997/2781), Schedule paragraph 125.
 

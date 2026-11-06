@@ -33,7 +33,7 @@ AGRICULTURE
 
 MEDICINES
 
-The Feedingstuffs (Zootechnical Products) and Medicated Feedingstuffs (Amendment) Regulations 2000 (revoked)[^key-32f14975d58d51fd1c32371f44f1e7f1]
+The Feedingstuffs (Zootechnical Products) and Medicated Feedingstuffs (Amendment) Regulations 2000 (revoked)[^c-32f14975d58d51fd1c32371f44f1e7f1]
 
 Made
 
@@ -47,28 +47,28 @@ Coming into force
 
 1st August 2000
 
-[^key-32f14975d58d51fd1c32371f44f1e7f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-32f14975d58d51fd1c32371f44f1e7f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-32f14975d58d51fd1c32371f44f1e7f1]
+## 1. Title and commencement[^c-32f14975d58d51fd1c32371f44f1e7f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Feedingstuffs (Zootechnical Products) Regulations 1999[^key-32f14975d58d51fd1c32371f44f1e7f1]
+## 2. Amendment of the Feedingstuffs (Zootechnical Products) Regulations 1999[^c-32f14975d58d51fd1c32371f44f1e7f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Medicated Feedingstuffs Regulations 1998[^key-32f14975d58d51fd1c32371f44f1e7f1]
+## 3. Amendment of the Medicated Feedingstuffs Regulations 1998[^c-32f14975d58d51fd1c32371f44f1e7f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-32f14975d58d51fd1c32371f44f1e7f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-32f14975d58d51fd1c32371f44f1e7f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-32f14975d58d51fd1c32371f44f1e7f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-32f14975d58d51fd1c32371f44f1e7f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-32f14975d58d51fd1c32371f44f1e7f1]: Textual amendment: Regulations revoked (1.1.2006) by [The Veterinary Medicines Regulations 2005 (S.I. 2005/2745)](https://www.legislation.gov.uk/uksi/2005/2745), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/2), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/2) (with [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/4))
+[^c-32f14975d58d51fd1c32371f44f1e7f1]: Textual amendment: Regulations revoked (1.1.2006) by [The Veterinary Medicines Regulations 2005 (S.I. 2005/2745)](https://www.legislation.gov.uk/uksi/2005/2745), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/2), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/2) (with [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/4))

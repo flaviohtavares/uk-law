@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 144. Final distribution[^key-83946df92edb8e63cea8e90329d54d7b]
+## 144. Final distribution[^c-83946df92edb8e63cea8e90329d54d7b]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.186 of the 1986 Rules[^f00059]. For “Part 11 of the Rules”, sub
 
 ## Annotations
 
-[^key-83946df92edb8e63cea8e90329d54d7b]: Commencement: Rule 144 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-83946df92edb8e63cea8e90329d54d7b]: Commencement: Rule 144 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00059]: Footnote: Paragraph (3) was amended by [S.I. 2008/737](https://www.legislation.gov.uk/uksi/2008/737).

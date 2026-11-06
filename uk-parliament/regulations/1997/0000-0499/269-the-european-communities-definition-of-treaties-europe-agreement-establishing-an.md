@@ -30,7 +30,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Definition of Treaties) (Europe Agreement establishing an Association between the European Communities and their Member States and the Republic of Estonia) Order 1997 (revoked)[^key-aebe0d6644d745697695019d22b3980c]
+The European Communities (Definition of Treaties) (Europe Agreement establishing an Association between the European Communities and their Member States and the Republic of Estonia) Order 1997 (revoked)[^c-aebe0d6644d745697695019d22b3980c]
 
 Made
 
@@ -46,24 +46,24 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-aebe0d6644d745697695019d22b3980c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aebe0d6644d745697695019d22b3980c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-aebe0d6644d745697695019d22b3980c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-aebe0d6644d745697695019d22b3980c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-aebe0d6644d745697695019d22b3980c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-aebe0d6644d745697695019d22b3980c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aebe0d6644d745697695019d22b3980c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aebe0d6644d745697695019d22b3980c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-aebe0d6644d745697695019d22b3980c]
+## SCHEDULE[^c-aebe0d6644d745697695019d22b3980c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aebe0d6644d745697695019d22b3980c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aebe0d6644d745697695019d22b3980c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aebe0d6644d745697695019d22b3980c]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1997/269) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aebe0d6644d745697695019d22b3980c]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1997/269) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

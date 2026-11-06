@@ -24,7 +24,7 @@ summary: ''
 
 - (a) taxes on profits of that member (including, where it has direct or indirect ownership interests in another member of the group, taxes on its share of the income or profits of that other member),
 - (b) taxes imposed on the member under an eligible distribution tax system,
-- (c) taxes imposed on the member as a substitute for a tax on profits that generally applies in the territory in which the tax is imposed[^key-4631e16b82c88056be5b6ffcf93d284b], and
+- (c) taxes imposed on the member as a substitute for a tax on profits that generally applies in the territory in which the tax is imposed[^c-4631e16b82c88056be5b6ffcf93d284b], and
 - (d) taxes charged by reference to the capital of a company, or by reference to its capital and profits.
 
 (2) But none of the following are to be regarded as covered taxes—
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4631e16b82c88056be5b6ffcf93d284b]: Textual amendment: Words in [s. 173(1)(c)](https://www.legislation.gov.uk/ukpga/2023/30/section/173/1/c) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 15](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/15)
+[^c-4631e16b82c88056be5b6ffcf93d284b]: Textual amendment: Words in [s. 173(1)(c)](https://www.legislation.gov.uk/ukpga/2023/30/section/173/1/c) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 15](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/15)

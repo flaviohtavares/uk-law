@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Determination of when an owner’s liability for certain costs arises[^key-758b1530557473def70d9298044ecb72]
+## 11. Determination of when an owner’s liability for certain costs arises[^c-758b1530557473def70d9298044ecb72]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ as may be stipulated as the date on, or event in, which the costs become due.
 
 ## Annotations
 
-[^key-758b1530557473def70d9298044ecb72]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2004/11/section/11) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/a)
+[^c-758b1530557473def70d9298044ecb72]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2004/11/section/11) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/a)

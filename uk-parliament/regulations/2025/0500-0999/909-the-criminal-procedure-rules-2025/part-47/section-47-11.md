@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.11. Application for an order under the Terrorism Act 2000 or the National Security Act 2023[^key-f891e64132a0d8408da89b4966cc1c41]
+## 47.11. Application for an order under the Terrorism Act 2000 or the National Security Act 2023[^c-f891e64132a0d8408da89b4966cc1c41]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f891e64132a0d8408da89b4966cc1c41]: Commencement: Rule 47.11 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-f891e64132a0d8408da89b4966cc1c41]: Commencement: Rule 47.11 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01145]: Footnote: [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11).

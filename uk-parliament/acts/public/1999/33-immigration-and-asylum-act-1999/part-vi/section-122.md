@@ -37,7 +37,7 @@ summary: ''
 
 (6) “**Assistance**” means the provision of accommodation or of any essential living needs.
 
-(7)[^key-2eef90648c894cf918ca140bc34ad287] “**The child welfare provisions**” means—
+(7)[^c-2eef90648c894cf918ca140bc34ad287] “**The child welfare provisions**” means—
 
 - (a) section 17 of the [^c11434271]Children Act 1989 (local authority support for children and their families);
 - (b) section 22 of the [^c11434281]Children (Scotland) Act 1995 (equivalent provision for Scotland); and
@@ -58,7 +58,7 @@ summary: ''
 
 [^c11434261]: Commencement: S. 122 wholly in force at 3.4.2000; s. 122 not in force at Royal Assent see s. 170(4); s. 122 in force for certain purposes at 1.3.2000 by [S.I. 2000/464](https://www.legislation.gov.uk/uksi/2000/464), [art. 2](https://www.legislation.gov.uk/uksi/2000/464/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/464/schedule); s. 122 in force at 3.4.2000 insofar as not already in force by [S.I. 2000/464](https://www.legislation.gov.uk/uksi/2000/464), [art. 2](https://www.legislation.gov.uk/uksi/2000/464/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/464/schedule)
 
-[^key-2eef90648c894cf918ca140bc34ad287]: Modification: S. 122(7) modified (temp.) (E.W.) (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [164(2)](https://www.legislation.gov.uk/wsi/2016/413/regulation/164/2)
+[^c-2eef90648c894cf918ca140bc34ad287]: Modification: S. 122(7) modified (temp.) (E.W.) (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [164(2)](https://www.legislation.gov.uk/wsi/2016/413/regulation/164/2)
 
 [^c11434271]: Marginal citation: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 

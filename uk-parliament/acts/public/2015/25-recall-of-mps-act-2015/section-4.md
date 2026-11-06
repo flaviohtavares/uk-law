@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. The first and third recall conditions: courts to notify the Speaker[^key-e6c59319780325a0b340c279f68bac5c]
+## 4. The first and third recall conditions: courts to notify the Speaker[^c-e6c59319780325a0b340c279f68bac5c]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6c59319780325a0b340c279f68bac5c]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2015/25/section/4) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-e6c59319780325a0b340c279f68bac5c]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2015/25/section/4) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19A. Retirement risk warnings[^key-1954310b27437cedd3bb1a9e7fb87ac8]
+## 19A. Retirement risk warnings[^c-1954310b27437cedd3bb1a9e7fb87ac8]
 
 *Extent: N.I.*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1954310b27437cedd3bb1a9e7fb87ac8]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/nisr/2014/79/regulation/19A) inserted (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [9](https://www.legislation.gov.uk/nisr/2016/165/regulation/9)
+[^c-1954310b27437cedd3bb1a9e7fb87ac8]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/nisr/2014/79/regulation/19A) inserted (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [9](https://www.legislation.gov.uk/nisr/2016/165/regulation/9)

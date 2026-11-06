@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Child witnesses in proceedings for people trafficking offences[^key-05df7902cae5955688f623794f70dd4c]
+## 88. Child witnesses in proceedings for people trafficking offences[^c-05df7902cae5955688f623794f70dd4c]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ In section 271 of the 1995 Act (vulnerable witnesses: main definitions)—
 
 ## Annotations
 
-[^key-05df7902cae5955688f623794f70dd4c]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2010/13/section/88) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))
+[^c-05df7902cae5955688f623794f70dd4c]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2010/13/section/88) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))

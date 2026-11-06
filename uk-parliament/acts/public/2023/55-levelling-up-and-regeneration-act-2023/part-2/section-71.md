@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Timing for changes in governance arrangements[^key-1dd5806a7d76bc8ccf95a76c15480aec]
+## 71. Timing for changes in governance arrangements[^c-1dd5806a7d76bc8ccf95a76c15480aec]
 
 *Extent: E+W*
 
@@ -100,4 +100,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1dd5806a7d76bc8ccf95a76c15480aec]: Commencement: S. 71 in force at Royal Assent, see [s. 255(2)(k)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/k)
+[^c-1dd5806a7d76bc8ccf95a76c15480aec]: Commencement: S. 71 in force at Royal Assent, see [s. 255(2)(k)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/k)

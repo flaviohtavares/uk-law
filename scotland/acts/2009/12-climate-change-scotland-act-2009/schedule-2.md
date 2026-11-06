@@ -24,11 +24,11 @@ summary: ''
 
 ### Hill Farming Act 1946 (c. 73)
 
-**1.**[^key-6effa33d85deb8667d275874b3df581c] In section 23(1) of the Hill Farming Act 1946 (prohibition of muirburn at certain times), after “section” insert “ and to section 23A, ”.
+**1.**[^c-6effa33d85deb8667d275874b3df581c] In section 23(1) of the Hill Farming Act 1946 (prohibition of muirburn at certain times), after “section” insert “ and to section 23A, ”.
 
 ### Environment Act 1995 (c. 25)
 
-**2.**[^key-c4de297f19e6a7ccc72e6dc9e5e51b53] In section 41(1) of the Environment Act 1995 (power to make schemes imposing charges), after paragraph (e), insert—
+**2.**[^c-c4de297f19e6a7ccc72e6dc9e5e51b53] In section 41(1) of the Environment Act 1995 (power to make schemes imposing charges), after paragraph (e), insert—
 
 > - (f) as a means of recovering costs incurred by it in performing functions conferred by regulations under section 79 of the Climate Change (Scotland) Act 2009 (asp 12), SEPA may require the payment to it of such charges as may from time to time be prescribed;
 
@@ -64,12 +64,12 @@ summary: ''
 
 ### Housing (Scotland) Act 2006 (asp 1)
 
-**7.**[^key-c72a39f2cb9e9093bf309fe9010abf6c] In the Housing (Scotland) Act 2006, section 179 (duty of Scottish Ministers to prepare strategy for improving energy efficiency of living accommodation) is repealed.
+**7.**[^c-c72a39f2cb9e9093bf309fe9010abf6c] In the Housing (Scotland) Act 2006, section 179 (duty of Scottish Ministers to prepare strategy for improving energy efficiency of living accommodation) is repealed.
 
 ## Annotations
 
-[^key-6effa33d85deb8667d275874b3df581c]: Commencement: Sch. 2 para. 1 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(c)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/c)
+[^c-6effa33d85deb8667d275874b3df581c]: Commencement: Sch. 2 para. 1 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(c)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/c)
 
-[^key-c4de297f19e6a7ccc72e6dc9e5e51b53]: Commencement: Sch. 2 para. 2 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(c)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/c)
+[^c-c4de297f19e6a7ccc72e6dc9e5e51b53]: Commencement: Sch. 2 para. 2 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(c)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/c)
 
-[^key-c72a39f2cb9e9093bf309fe9010abf6c]: Commencement: Sch. 2 para. 7 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(c)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/c)
+[^c-c72a39f2cb9e9093bf309fe9010abf6c]: Commencement: Sch. 2 para. 7 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(c)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/c)

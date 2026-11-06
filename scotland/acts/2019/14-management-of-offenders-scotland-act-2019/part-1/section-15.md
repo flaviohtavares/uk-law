@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Procedure for making regulations[^key-250821dfe65fb7490ed0366f5858af8f]
+## 15. Procedure for making regulations[^c-250821dfe65fb7490ed0366f5858af8f]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-250821dfe65fb7490ed0366f5858af8f]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2019/14/section/15) in force at 1.10.2020 by [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/e)
+[^c-250821dfe65fb7490ed0366f5858af8f]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2019/14/section/15) in force at 1.10.2020 by [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/e)

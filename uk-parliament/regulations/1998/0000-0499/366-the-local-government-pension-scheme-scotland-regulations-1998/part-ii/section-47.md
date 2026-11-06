@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Dependants of re-employed pensioners[^key-d716ed9bb4eb757a2b90cfe236e16e57]
+## 47. Dependants of re-employed pensioners[^c-d716ed9bb4eb757a2b90cfe236e16e57]
 
 *Extent: E+W+S*
 
@@ -63,4 +63,4 @@ the short-term pension under regulation 39 is the sum of–
 
 ## Annotations
 
-[^key-d716ed9bb4eb757a2b90cfe236e16e57]: Commencement: Reg. 47 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-d716ed9bb4eb757a2b90cfe236e16e57]: Commencement: Reg. 47 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

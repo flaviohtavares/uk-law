@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52A. Annual reports, statistical reports and strategic plans[^key-91cb5686e03a7faec409937737a7dcd5]
+## 52A. Annual reports, statistical reports and strategic plans[^c-91cb5686e03a7faec409937737a7dcd5]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91cb5686e03a7faec409937737a7dcd5]: Textual amendment: S. 52A substituted (1.1.2009) by [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(5)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/5), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2008/1774/schedule/1/paragraph/18); [S.I. 2008/2556](https://www.legislation.gov.uk/uksi/2008/2556), [art. 2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2008/2556/article/2/2/a/ii)
+[^c-91cb5686e03a7faec409937737a7dcd5]: Textual amendment: S. 52A substituted (1.1.2009) by [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(5)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/5), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2008/1774/schedule/1/paragraph/18); [S.I. 2008/2556](https://www.legislation.gov.uk/uksi/2008/2556), [art. 2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2008/2556/article/2/2/a/ii)

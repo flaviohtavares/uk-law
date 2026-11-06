@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18.19. Appointment of intermediary to facilitate a defendant’s participation[^key-8aff65e009ce17610dc58d77c51c901c]
+## 18.19. Appointment of intermediary to facilitate a defendant’s participation[^c-8aff65e009ce17610dc58d77c51c901c]
 
 *Extent: E+W*
 
@@ -72,6 +72,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8aff65e009ce17610dc58d77c51c901c]: Commencement: [Rule 18.19](https://www.legislation.gov.uk/uksi/2025/909/rule/18.19) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-8aff65e009ce17610dc58d77c51c901c]: Commencement: [Rule 18.19](https://www.legislation.gov.uk/uksi/2025/909/rule/18.19) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00453]: Footnote: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20); section 1(2) was amended by sections 1, 55 and 56 of, and Schedule 11 to, the Mental Health Act [2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12).

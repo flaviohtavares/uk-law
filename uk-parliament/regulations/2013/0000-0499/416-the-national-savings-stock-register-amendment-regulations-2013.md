@@ -32,7 +32,7 @@ summary: ''
 
 National Debt
 
-The National Savings Stock Register (Amendment) Regulations 2013 (revoked)[^key-60a28e59382042d5060130be650fa175]
+The National Savings Stock Register (Amendment) Regulations 2013 (revoked)[^c-60a28e59382042d5060130be650fa175]
 
 Made
 
@@ -46,64 +46,64 @@ Coming into force
 
 6th April 2013
 
-[^key-60a28e59382042d5060130be650fa175]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-60a28e59382042d5060130be650fa175]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-60a28e59382042d5060130be650fa175]
+## 1. Citation and commencement[^c-60a28e59382042d5060130be650fa175]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the National Savings Stock Register Regulations 1976[^key-60a28e59382042d5060130be650fa175]
+## 2. Amendments to the National Savings Stock Register Regulations 1976[^c-60a28e59382042d5060130be650fa175]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to regulation 2[^key-60a28e59382042d5060130be650fa175]
+## 3. Amendment to regulation 2[^c-60a28e59382042d5060130be650fa175]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment to regulation 5[^key-60a28e59382042d5060130be650fa175]
+## 4. Amendment to regulation 5[^c-60a28e59382042d5060130be650fa175]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment to regulation 10[^key-60a28e59382042d5060130be650fa175]
+## 5. Amendment to regulation 10[^c-60a28e59382042d5060130be650fa175]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment to regulation 21[^key-60a28e59382042d5060130be650fa175]
+## 6. Amendment to regulation 21[^c-60a28e59382042d5060130be650fa175]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Insertion of regulation 21C[^key-60a28e59382042d5060130be650fa175]
+## 7. Insertion of regulation 21C[^c-60a28e59382042d5060130be650fa175]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment to regulation 22[^key-60a28e59382042d5060130be650fa175]
+## 8. Amendment to regulation 22[^c-60a28e59382042d5060130be650fa175]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment to regulation 25[^key-60a28e59382042d5060130be650fa175]
+## 9. Amendment to regulation 25[^c-60a28e59382042d5060130be650fa175]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Revocation of regulation 30[^key-60a28e59382042d5060130be650fa175]
+## 10. Revocation of regulation 30[^c-60a28e59382042d5060130be650fa175]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Insertion of regulation 30A[^key-60a28e59382042d5060130be650fa175]
+## 11. Insertion of regulation 30A[^c-60a28e59382042d5060130be650fa175]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Amendment to regulation 31[^key-60a28e59382042d5060130be650fa175]
+## 12. Amendment to regulation 31[^c-60a28e59382042d5060130be650fa175]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-60a28e59382042d5060130be650fa175]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-60a28e59382042d5060130be650fa175]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-60a28e59382042d5060130be650fa175]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-60a28e59382042d5060130be650fa175]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-60a28e59382042d5060130be650fa175]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/416) revoked (6.4.2015) by [The National Savings (No. 2) Regulations 2015 (S.I. 2015/624)](https://www.legislation.gov.uk/uksi/2015/624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/624/schedule/2)
+[^c-60a28e59382042d5060130be650fa175]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/416) revoked (6.4.2015) by [The National Savings (No. 2) Regulations 2015 (S.I. 2015/624)](https://www.legislation.gov.uk/uksi/2015/624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/624/schedule/2)

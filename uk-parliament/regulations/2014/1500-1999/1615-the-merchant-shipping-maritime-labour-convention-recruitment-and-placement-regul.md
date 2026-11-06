@@ -72,23 +72,23 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - “**the Maritime Labour Convention**” means the Convention adopted on 23rd February 2006 by the General Conference of the International Labour Organization [^c22163481];
 - “**pleasure vessel**” means—
   - (a) any vessel which at the time it is being used is—
-    - (i) in the case of a vessel wholly owned by—[^key-b5ce49bbee527e74801af1fe05d6a806]
+    - (i) in the case of a vessel wholly owned by—[^c-b5ce49bbee527e74801af1fe05d6a806]
     - (aa) an individual or individuals, used only for the sport or pleasure of the owner or the immediate family or friends of the owner; or
     - (bb) a body corporate, used only for sport or pleasure and on which the persons on board are employees or officers of the body corporate, or their immediate family or friends; and
     - (ii) on a voyage or excursion which is one for which the owner does not receive money for or in connection with operating the vessel or carrying any person, other than as a contribution to the direct expenses of the operation of the vessel incurred during the voyage or excursion; or
   - (b) any vessel wholly owned by or on behalf of a members' club formed for the purpose of sport or pleasure which, at the time it is being used, is used only for the sport or pleasure of members of that club or their immediate family, and for the use of which any charges levied are paid into club funds and applied for the general use of the club,
 
-  where, in the case of any vessel referred to in paragraph[^key-d1cd5eaad08d7b370e309ef0f2f6ca10] (a) or (b), no other payments are made by or on behalf of users of the vessel, other than by the owner; and in this definition “**immediate family**” means, in relation to an individual, the spouse or civil partner of the individual, and a relative of the individual or the individual's spouse or civil partner; and “**relative**” means brother, sister, ancestor or lineal descendant;
+  where, in the case of any vessel referred to in paragraph[^c-d1cd5eaad08d7b370e309ef0f2f6ca10] (a) or (b), no other payments are made by or on behalf of users of the vessel, other than by the owner; and in this definition “**immediate family**” means, in relation to an individual, the spouse or civil partner of the individual, and a relative of the individual or the individual's spouse or civil partner; and “**relative**” means brother, sister, ancestor or lineal descendant;
 - “**seafarer**” means any person, including a master, who is employed or engaged or works in any capacity on board a ship and whose normal place of work is on a ship;
 - “**sea-going**” in relation to a United Kingdom ship means—
   - (a) a ship which operates outside the waters specified as Category A, B, C and D waters in Merchant Shipping Notice 1837(M) [^c22163491];
   - (b) a ship to which the Merchant Shipping (Survey and Certification) Regulations 1995 [^c22163501] apply and in respect of which no exemption granted under regulation 2(2) of those Regulations applies;
-  - (c) a ship which is a large vessel within the meaning of regulation 3(1) of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 in respect of which a certificate of compliance has been issued in accordance with regulation 9 of those Regulations; or[^key-b758b24d53831902e89419e9ede63e60]
-  - (d) a high speed craft in respect of which a permit to operate outside waters of Categories A, B, C or D has been issued in accordance with regulation 14 of the Merchant Shipping (High Speed Craft) Regulations 2022[^key-819b380b5cd68c355c2e2c7742bff012];
+  - (c) a ship which is a large vessel within the meaning of regulation 3(1) of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 in respect of which a certificate of compliance has been issued in accordance with regulation 9 of those Regulations; or[^c-b758b24d53831902e89419e9ede63e60]
+  - (d) a high speed craft in respect of which a permit to operate outside waters of Categories A, B, C or D has been issued in accordance with regulation 14 of the Merchant Shipping (High Speed Craft) Regulations 2022[^c-819b380b5cd68c355c2e2c7742bff012];
 - “**ship**” includes hovercraft;
 - “**United Kingdom ship**” means a ship which is—
-  - (a) a United Kingdom ship within the meaning of section 85(2) of the Merchant Shipping Act; or[^key-aedc5785c86234dae07e4e1ef0be31af]
-  - (b) [^key-a4235bdb864f5ca8f4f22b008418c0c9]...
+  - (a) a United Kingdom ship within the meaning of section 85(2) of the Merchant Shipping Act; or[^c-aedc5785c86234dae07e4e1ef0be31af]
+  - (b) [^c-a4235bdb864f5ca8f4f22b008418c0c9]...
   - (c) a hovercraft registered under the Hovercraft Act 1968 [^c22163531];
 - “**work-finding services**” means services provided—
   - (a) by an employment agency to a person for the purpose of finding that person employment or seeking to find that person employment;
@@ -149,11 +149,11 @@ An employment agency or employment business introducing or supplying a work-seek
 
 (3) References in paragraph (2) to “obligations to the seafarer” include contractual obligations and statutory obligations.
 
-## 6A. Duty on employment agencies and businesses to provide information about system of protection[^key-bd3b91c977bfce26f19ffe0c66bc7b32]
+## 6A. Duty on employment agencies and businesses to provide information about system of protection[^c-bd3b91c977bfce26f19ffe0c66bc7b32]
 
 An employment agency or employment business introducing or supplying a work-seeker to a hirer for the purposes of employment as a seafarer on a sea-going ship must ensure that the work-seeker is informed, prior to or in the process of engagement, of the rights which would be available to the work-seeker as a seafarer under any system of protection established under regulation 6.
 
-## 7. Duty on employment agencies and businesses to maintain records[^key-b78aa893242f1848d4715b493eb37b77]
+## 7. Duty on employment agencies and businesses to maintain records[^c-b78aa893242f1848d4715b493eb37b77]
 
 (1) Subject to paragraph (5), every employment agency and employment business must keep records which are sufficient to show whether the provisions of these Regulations are being complied with, including the particulars specified in paragraphs (2) and (3).
 
@@ -202,7 +202,7 @@ An employment agency or employment business introducing or supplying a work-seek
 
 ## 8. Offences
 
-(1) A person who contravenes regulation 4, 5, 6(2) , 6A[^key-3f3e808343efef729a35fbaaa3501e8a] or 7(1), (4) or (6)[^key-3cc4e899f747466ece9e8b34edf62935] is guilty of an offence.
+(1) A person who contravenes regulation 4, 5, 6(2) , 6A[^c-3f3e808343efef729a35fbaaa3501e8a] or 7(1), (4) or (6)[^c-3cc4e899f747466ece9e8b34edf62935] is guilty of an offence.
 
 (2) A person who makes or causes to be made or knowingly allows to be made any entry in a record required to be kept in pursuance of these Regulations which that person knows to be false in a material particular is guilty of an offence.
 
@@ -313,21 +313,21 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c22163481]: Marginal citation: Cm 7049.
 
-[^key-b5ce49bbee527e74801af1fe05d6a806]: Textual amendment: Words in reg. 2(1) substituted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/242)](https://www.legislation.gov.uk/uksi/2018/242), [regs. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2018/242/regulation/6/2/a)
+[^c-b5ce49bbee527e74801af1fe05d6a806]: Textual amendment: Words in reg. 2(1) substituted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/242)](https://www.legislation.gov.uk/uksi/2018/242), [regs. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2018/242/regulation/6/2/a)
 
-[^key-d1cd5eaad08d7b370e309ef0f2f6ca10]: Textual amendment: Word in reg. 2(1) substituted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/242)](https://www.legislation.gov.uk/uksi/2018/242), [regs. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2018/242/regulation/6/2/b)
+[^c-d1cd5eaad08d7b370e309ef0f2f6ca10]: Textual amendment: Word in reg. 2(1) substituted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/242)](https://www.legislation.gov.uk/uksi/2018/242), [regs. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2018/242/regulation/6/2/b)
 
 [^c22163491]: Marginal citation: Merchant Shipping Notice 1837(M) specifies which waters are Category A, B, C and D waters for the purposes of regulation 3(2)(a) of [S.I. 1992/2356](https://www.legislation.gov.uk/uksi/1992/2356), as the notice which currently supersedes Merchant Shipping Notice M1504 pursuant to regulation 2 of those Regulations.
 
 [^c22163501]: Marginal citation: [S.I. 1995/1210](https://www.legislation.gov.uk/uksi/1995/1210), amended by [S.I. 2004/302](https://www.legislation.gov.uk/uksi/2004/302), [S.I](https://www.legislation.gov.uk/uksi/2004/302/section/I). 2005/2114 and [S.I. 2010/1075](https://www.legislation.gov.uk/uksi/2010/1075); there are other amending instruments but none is relevant.
 
-[^key-b758b24d53831902e89419e9ede63e60]: Textual amendment: Words in reg. 2(1) substituted (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2025/1195/schedule/1/paragraph/13) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
+[^c-b758b24d53831902e89419e9ede63e60]: Textual amendment: Words in reg. 2(1) substituted (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2025/1195/schedule/1/paragraph/13) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
 
-[^key-819b380b5cd68c355c2e2c7742bff012]: Textual amendment: Words in reg. 2(1) substituted (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2022/1219/schedule/paragraph/18) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
+[^c-819b380b5cd68c355c2e2c7742bff012]: Textual amendment: Words in reg. 2(1) substituted (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2022/1219/schedule/paragraph/18) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
 
-[^key-aedc5785c86234dae07e4e1ef0be31af]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/1615/regulation/2/1) inserted (10.4.2026) by [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-aedc5785c86234dae07e4e1ef0be31af]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/1615/regulation/2/1) inserted (10.4.2026) by [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
 
-[^key-a4235bdb864f5ca8f4f22b008418c0c9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/1615/regulation/2/1) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-a4235bdb864f5ca8f4f22b008418c0c9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/1615/regulation/2/1) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
 
 [^c22163531]: Marginal citation: [1968 c.59](https://www.legislation.gov.uk/ukpga/1968/59).
 
@@ -335,13 +335,13 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c22163551]: Marginal citation: [S.I. 2014/1613](https://www.legislation.gov.uk/uksi/2014/1613).
 
-[^key-bd3b91c977bfce26f19ffe0c66bc7b32]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2014/1615/regulation/6A) inserted (9.7.2026) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/598)](https://www.legislation.gov.uk/uksi/2026/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/598/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2026/598/regulation/3/2)
+[^c-bd3b91c977bfce26f19ffe0c66bc7b32]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2014/1615/regulation/6A) inserted (9.7.2026) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/598)](https://www.legislation.gov.uk/uksi/2026/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/598/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2026/598/regulation/3/2)
 
-[^key-b78aa893242f1848d4715b493eb37b77]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/1615/regulation/7) substituted (8.5.2016) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/3/2)
+[^c-b78aa893242f1848d4715b493eb37b77]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/1615/regulation/7) substituted (8.5.2016) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/3/2)
 
-[^key-3f3e808343efef729a35fbaaa3501e8a]: Textual amendment: Word in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2014/1615/regulation/8/1) inserted (9.7.2026) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/598)](https://www.legislation.gov.uk/uksi/2026/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/598/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2026/598/regulation/3/3)
+[^c-3f3e808343efef729a35fbaaa3501e8a]: Textual amendment: Word in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2014/1615/regulation/8/1) inserted (9.7.2026) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/598)](https://www.legislation.gov.uk/uksi/2026/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/598/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2026/598/regulation/3/3)
 
-[^key-3cc4e899f747466ece9e8b34edf62935]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2014/1615/regulation/8/1) substituted (8.5.2016) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2016/510/regulation/3/3)
+[^c-3cc4e899f747466ece9e8b34edf62935]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2014/1615/regulation/8/1) substituted (8.5.2016) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2016/510/regulation/3/3)
 
 [^c22163561]: Marginal citation: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Judicial approval for obtaining or disclosing communications data[^key-48faaf70b28c091cc4aff2450304c728]
+## 37. Judicial approval for obtaining or disclosing communications data[^c-48faaf70b28c091cc4aff2450304c728]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48faaf70b28c091cc4aff2450304c728]: Textual amendment: S. 37 repealed (22.7.2020) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2020/766](https://www.legislation.gov.uk/uksi/2020/766), [reg. 2(e)(iv)](https://www.legislation.gov.uk/uksi/2020/766/regulation/2/e/iv)
+[^c-48faaf70b28c091cc4aff2450304c728]: Textual amendment: S. 37 repealed (22.7.2020) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2020/766](https://www.legislation.gov.uk/uksi/2020/766), [reg. 2(e)(iv)](https://www.legislation.gov.uk/uksi/2020/766/regulation/2/e/iv)

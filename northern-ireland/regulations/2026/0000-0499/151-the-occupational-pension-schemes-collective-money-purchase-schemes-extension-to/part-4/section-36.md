@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Communication requirement[^key-7449f937ba64aa87acdcf575ec0c5faa]
+## 36. Communication requirement[^c-7449f937ba64aa87acdcf575ec0c5faa]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 4 sets out the matters that the Pensions Regulator must take into accou
 
 ## Annotations
 
-[^key-7449f937ba64aa87acdcf575ec0c5faa]: Commencement: Reg. 36 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-7449f937ba64aa87acdcf575ec0c5faa]: Commencement: Reg. 36 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)

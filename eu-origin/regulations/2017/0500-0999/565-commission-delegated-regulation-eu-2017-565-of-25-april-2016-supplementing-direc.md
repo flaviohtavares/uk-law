@@ -29,7 +29,7 @@ summary: ''
 
 **No longer in force.**
 
-[^key-64891370186f85813f01b88ec4989607]Commission Delegated Regulation (EU) 2017/565
+[^c-64891370186f85813f01b88ec4989607]Commission Delegated Regulation (EU) 2017/565
 
 of 25 April 2016
 
@@ -897,4 +897,4 @@ The signals described below in points 18 to 23 are particularly relevant in an a
 
 ## Annotations
 
-[^key-64891370186f85813f01b88ec4989607]: Textual amendment: Regulation revoked (5.4.2024 for the revocation of Arts. 84-89, 23.10.2025 in so far as not already in force) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 4(d)(i)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/4/d/i); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/2/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2025/1078/regulation/11))
+[^c-64891370186f85813f01b88ec4989607]: Textual amendment: Regulation revoked (5.4.2024 for the revocation of Arts. 84-89, 23.10.2025 in so far as not already in force) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 4(d)(i)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/4/d/i); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/2/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2025/1078/regulation/11))

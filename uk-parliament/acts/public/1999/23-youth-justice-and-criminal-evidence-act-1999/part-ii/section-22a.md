@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22A. Special provisions relating to sexual offences[^key-e39549b4f0748371c5afda8dbce2974c]
+## 22A. Special provisions relating to sexual offences[^c-e39549b4f0748371c5afda8dbce2974c]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ and for the purposes of section 19(2), as it then applies to the complainant, an
 
 ## Annotations
 
-[^key-e39549b4f0748371c5afda8dbce2974c]: Textual amendment: S. 22A inserted (27.6.2011) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 101](https://www.legislation.gov.uk/ukpga/2009/25/section/101), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22 para. 23](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/23)); [S.I. 2011/1452](https://www.legislation.gov.uk/uksi/2011/1452), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1452/article/2/a)
+[^c-e39549b4f0748371c5afda8dbce2974c]: Textual amendment: S. 22A inserted (27.6.2011) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 101](https://www.legislation.gov.uk/ukpga/2009/25/section/101), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22 para. 23](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/23)); [S.I. 2011/1452](https://www.legislation.gov.uk/uksi/2011/1452), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1452/article/2/a)

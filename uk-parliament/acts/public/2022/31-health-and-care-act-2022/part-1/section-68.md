@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. NHS foundation trusts: duties in relation to climate change[^key-e1910eae05b4c9f384fbb531f24cba24][^key-e614aea14d5f4f027bb7d32888a173b4]
+## 68. NHS foundation trusts: duties in relation to climate change[^c-e1910eae05b4c9f384fbb531f24cba24][^c-e614aea14d5f4f027bb7d32888a173b4]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ After section 63A of the National Health Service Act 2006 (inserted by section 6
 
 ## Annotations
 
-[^key-e1910eae05b4c9f384fbb531f24cba24]: Commencement: S. 68 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-e1910eae05b4c9f384fbb531f24cba24]: Commencement: S. 68 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-e614aea14d5f4f027bb7d32888a173b4]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2022/31/section/68) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-e614aea14d5f4f027bb7d32888a173b4]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2022/31/section/68) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

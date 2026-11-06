@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Medical requirements for licence holders[^key-24b40ae93e513c40cb10809e71e22d8d]
+## 54. Medical requirements for licence holders[^c-24b40ae93e513c40cb10809e71e22d8d]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24b40ae93e513c40cb10809e71e22d8d]: Commencement: [Art. 54](https://www.legislation.gov.uk/uksi/2013/2870/article/54) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-24b40ae93e513c40cb10809e71e22d8d]: Commencement: [Art. 54](https://www.legislation.gov.uk/uksi/2013/2870/article/54) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

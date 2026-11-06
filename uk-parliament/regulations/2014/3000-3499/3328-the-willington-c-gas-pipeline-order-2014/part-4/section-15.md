@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Authority to survey and investigate land[^key-8076ab814c7da60e18441e34f40fc84d]
+## 15. Authority to survey and investigate land[^c-8076ab814c7da60e18441e34f40fc84d]
 
 *Extent: E+W+S*
 
@@ -47,6 +47,6 @@ but such consent must not be unreasonably withheld.
 
 ## Annotations
 
-[^key-8076ab814c7da60e18441e34f40fc84d]: Commencement: Art. 15 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)
+[^c-8076ab814c7da60e18441e34f40fc84d]: Commencement: Art. 15 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)
 
 [^f00028]: Footnote: Sections 1 and 4 were amended, and sections 2 and 3 repealed, by paragraphs 37 to 39 of [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).

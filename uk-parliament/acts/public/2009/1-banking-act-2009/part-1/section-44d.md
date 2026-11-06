@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44D. Bridge bank: supplemental property transfer powers[^key-a1566487499f8bf1c22bf51a42badff0]
+## 44D. Bridge bank: supplemental property transfer powers[^c-a1566487499f8bf1c22bf51a42badff0]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1566487499f8bf1c22bf51a42badff0]: Textual amendment: [Ss. 44D, 44E](https://www.legislation.gov.uk/ukpga/2009/1/section/44D) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [13(1)](https://www.legislation.gov.uk/uksi/2016/1239/article/13/1)
+[^c-a1566487499f8bf1c22bf51a42badff0]: Textual amendment: [Ss. 44D, 44E](https://www.legislation.gov.uk/ukpga/2009/1/section/44D) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [13(1)](https://www.legislation.gov.uk/uksi/2016/1239/article/13/1)

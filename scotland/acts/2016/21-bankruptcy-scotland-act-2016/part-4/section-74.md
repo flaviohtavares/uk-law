@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Election or appointment of new trustee by virtue of section 71(6) or 73(1)[^key-deecaa76b84e06e475a5ac1485aacab3]
+## 74. Election or appointment of new trustee by virtue of section 71(6) or 73(1)[^c-deecaa76b84e06e475a5ac1485aacab3]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The preceding provisions of this Part in relation to the election of a replaceme
 
 ## Annotations
 
-[^key-deecaa76b84e06e475a5ac1485aacab3]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2016/21/section/74) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-deecaa76b84e06e475a5ac1485aacab3]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2016/21/section/74) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

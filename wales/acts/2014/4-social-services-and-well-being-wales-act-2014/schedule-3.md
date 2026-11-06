@@ -24,9 +24,9 @@ summary: ''
 
 ### PART 1 — NEW PARTS 2A AND 2B FOR THE PUBLIC SERVICES OMBUDSMAN (WALES) ACT 2005
 
-**1.**[^key-0fcac74b19c427fb8826a8bea6f49c3e] The Public Services Ombudsman (Wales) Act 2005 is amended as follows.
+**1.**[^c-0fcac74b19c427fb8826a8bea6f49c3e] The Public Services Ombudsman (Wales) Act 2005 is amended as follows.
 
-**2.**[^key-a939f118dc519899eb8746c35b3851eb] After Part 2 (investigation of complaints) insert—
+**2.**[^c-a939f118dc519899eb8746c35b3851eb] After Part 2 (investigation of complaints) insert—
 
 > **PART 2A — INVESTIGATION OF COMPLAINTS RELATING TO OTHER PERSONS: SOCIAL CARE AND PALLIATIVE CARE**
 >
@@ -675,9 +675,9 @@ summary: ''
 >
 > (2) For the purposes of subsection (1)(d)(i) a person is an officer of a provider if he or she has control or management of a provider which is not an individual or the affairs of such a provider.
 
-**3.**[^key-8108baf3c6b22ddbc2bfb9b0bc88ff83] Until the coming into force of Part 5 of the Welsh Language (Wales) Measure 2011, sections 34V and 34W of the Public Services Ombudsman (Wales) Act 2005 have effect with the omission of the following words (wherever occurring)— “ or the Welsh Language Commissioner ”; “ or may (as respects the Welsh Language Commissioner) ”.
+**3.**[^c-8108baf3c6b22ddbc2bfb9b0bc88ff83] Until the coming into force of Part 5 of the Welsh Language (Wales) Measure 2011, sections 34V and 34W of the Public Services Ombudsman (Wales) Act 2005 have effect with the omission of the following words (wherever occurring)— “ or the Welsh Language Commissioner ”; “ or may (as respects the Welsh Language Commissioner) ”.
 
-**4.**[^key-9462d066838b9066b84d1e6abf82bfeb] After Schedule 3 (listed authorities) insert—
+**4.**[^c-9462d066838b9066b84d1e6abf82bfeb] After Schedule 3 (listed authorities) insert—
 
 > **SCHEDULE 3A — EXCLUDED MATTERS: PART 2A**
 >
@@ -689,72 +689,72 @@ summary: ''
 
 #### Local Government Act 1974
 
-**5.**[^key-2f6f61280b3022b3b197c55366b602c4] The Local Government Act 1974 is amended as follows.
+**5.**[^c-2f6f61280b3022b3b197c55366b602c4] The Local Government Act 1974 is amended as follows.
 
-**6.**[^key-0369c15de40590ab333bf5b84ea34d1b] In section 29 (investigations: further provisions), in subsection (5), for “26” substitute “ 34X ”.
+**6.**[^c-0369c15de40590ab333bf5b84ea34d1b] In section 29 (investigations: further provisions), in subsection (5), for “26” substitute “ 34X ”.
 
-**7.**[^key-c4a7fbead0bc5e85170acea0c7e4b6f6] In section 33 (consultation between Local Commissioner, the Parliamentary Commissioner and the Health Service Commissioners and other Commissioners and Ombudsmen), in subsection (5), for “26” substitute “ 34X ”.
+**7.**[^c-c4a7fbead0bc5e85170acea0c7e4b6f6] In section 33 (consultation between Local Commissioner, the Parliamentary Commissioner and the Health Service Commissioners and other Commissioners and Ombudsmen), in subsection (5), for “26” substitute “ 34X ”.
 
-**8.**[^key-668a4c905fd442b4078ebbde243398ca] In section 34G (investigations: further provisions), in subsection (2), for “26” substitute “ 34X ”.
+**8.**[^c-668a4c905fd442b4078ebbde243398ca] In section 34G (investigations: further provisions), in subsection (2), for “26” substitute “ 34X ”.
 
-**9.**[^key-33d959dc8535b1cb734057f493ee71b0] In section 34M (consultation with other Commissioners), in subsection (7), in paragraph (d), for “26” substitute “ 34X ”.
+**9.**[^c-33d959dc8535b1cb734057f493ee71b0] In section 34M (consultation with other Commissioners), in subsection (7), in paragraph (d), for “26” substitute “ 34X ”.
 
 #### Local Government Act 2000
 
-**10.**[^key-3fa03726bbf114427346df5f830161a9] The Local Government Act 2000 is amended as follows.
+**10.**[^c-3fa03726bbf114427346df5f830161a9] The Local Government Act 2000 is amended as follows.
 
-**11.**[^key-110b286621d327d95daac52d8f7553e6] Section 67 (consultation with ombudsmen) has effect, until the repeal of that section by Part 5 of Schedule 25 to the Localism Act 2011 is brought fully into force, with the following amendments—
+**11.**[^c-110b286621d327d95daac52d8f7553e6] Section 67 (consultation with ombudsmen) has effect, until the repeal of that section by Part 5 of Schedule 25 to the Localism Act 2011 is brought fully into force, with the following amendments—
 
 - (a) in subsection (2A), after “Part 2” insert “ or 2A ”, and
 - (b) in subsection (4), for “26” substitute “ 34X ”.
 
-**12.**[^key-533605d88591126448d1bcd367e3e04f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-533605d88591126448d1bcd367e3e04f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Public Services Ombudsman (Wales) Act 2005
 
-**13.**[^key-b90c88a7cafd785231dd5741b8949717] The Public Services Ombudsman (Wales) Act 2005 is amended as follows.
+**13.**[^c-b90c88a7cafd785231dd5741b8949717] The Public Services Ombudsman (Wales) Act 2005 is amended as follows.
 
-**14.**[^key-27baf10a06b30ba4db4879a0135330ed] In the heading to Part 2 (investigation of complaints), after “COMPLAINTS” insert “ RELATING TO LISTED AUTHORITIES ”.
+**14.**[^c-27baf10a06b30ba4db4879a0135330ed] In the heading to Part 2 (investigation of complaints), after “COMPLAINTS” insert “ RELATING TO LISTED AUTHORITIES ”.
 
-**15.**[^key-960f7a3263a1625418d93a33dce10559] In section 2 (power of investigation)—
+**15.**[^c-960f7a3263a1625418d93a33dce10559] In section 2 (power of investigation)—
 
 - (a) in subsection (1), after “complaint” (in the first place it occurs) insert “ under this Part ”, and
 - (b) in subsection (4), after “complaint” (in the first place it occurs) insert “ under this Part ”.
 
-**16.**[^key-072d8db51b067ebea89d6b06b516808d] In section 4 (who can complain), in subsection (1)—
+**16.**[^c-072d8db51b067ebea89d6b06b516808d] In section 4 (who can complain), in subsection (1)—
 
 - (a) in the words before paragraph (a), after “Ombudsman” insert “ under this Part ”, and
 - (b) in paragraph (a), for “Act” substitute “ Part ”.
 
-**17.**[^key-0b44f272299fa746a1e7bed799f0c844] In section 7 (matters which may be investigated), in subsection (1), after “investigate” insert “ under this Part ”.
+**17.**[^c-0b44f272299fa746a1e7bed799f0c844] In section 7 (matters which may be investigated), in subsection (1), after “investigate” insert “ under this Part ”.
 
-**18.**[^key-4ea50835fc67b734bb3aa8dd116a4eca] In section 9 (exclusion: other remedies)—
+**18.**[^c-4ea50835fc67b734bb3aa8dd116a4eca] In section 9 (exclusion: other remedies)—
 
 - (a) in subsection (1), after “matter” (in the first place it occurs) insert “ under this Part ”, and
 - (b) in subsection (3), after “matter” (in the first place it occurs) insert “ under this Part ”.
 
-**19.**[^key-b87c25b0bec05dd94e3727df8c306ec9] In section 10 (other excluded matters), in subsection (1), after “investigate” insert “ under this Part ”.
+**19.**[^c-b87c25b0bec05dd94e3727df8c306ec9] In section 10 (other excluded matters), in subsection (1), after “investigate” insert “ under this Part ”.
 
-**20.**[^key-c6b5ffd2b118d378f77ed6a2da0f48e7] In section 14 (information, documents, evidence and facilities), before subsection (1) insert—
+**20.**[^c-c6b5ffd2b118d378f77ed6a2da0f48e7] In section 14 (information, documents, evidence and facilities), before subsection (1) insert—
 
 > (A1) This section applies in relation to investigations conducted under this Part.
 
-**21.**[^key-42c9df14bf418643aa5f7ec3a5d26b73] In section 23 (special reports: supplementary)—
+**21.**[^c-42c9df14bf418643aa5f7ec3a5d26b73] In section 23 (special reports: supplementary)—
 
 - (a) in subsection (1), in paragraph (a), after “report” insert “ made under section 22 ”, and
 - (b) in subsection (7), after “report” (in the first place it occurs) insert “ under section 22 ”.
 
-**22.**[^key-f70332ac1c23058bd27417bd904f5231] Omit the italic cross-heading before section 25 (consultation and co-operation).
+**22.**[^c-f70332ac1c23058bd27417bd904f5231] Omit the italic cross-heading before section 25 (consultation and co-operation).
 
-**23.**[^key-783abb25eaae6b7793a879ad88f56432] Omit sections 25 to 25B (consultation and co-operation).
+**23.**[^c-783abb25eaae6b7793a879ad88f56432] Omit sections 25 to 25B (consultation and co-operation).
 
-**24.**[^key-8d6b1b015a67aed50090692b0b99170d] Omit the italic cross-heading before section 26 (disclosure).
+**24.**[^c-8d6b1b015a67aed50090692b0b99170d] Omit the italic cross-heading before section 26 (disclosure).
 
-**25.**[^key-730a3d90a6cc96e6774298a759554315] Omit sections 26 and 27 (disclosure of information).
+**25.**[^c-730a3d90a6cc96e6774298a759554315] Omit sections 26 and 27 (disclosure of information).
 
-**26.**[^key-a8b55ad9693c663a5fc1cf40ebc91342] Omit section 32 (protection from defamation claims).
+**26.**[^c-a8b55ad9693c663a5fc1cf40ebc91342] Omit section 32 (protection from defamation claims).
 
-**27.**[^key-84dcdbf407a0641fd30d773aa0eb528b] In section 41 (interpretation), in subsection (1)—
+**27.**[^c-84dcdbf407a0641fd30d773aa0eb528b] In section 41 (interpretation), in subsection (1)—
 
 - (a) in the definition of “investigation”, after “section 2” insert “ or 34B ”,
 - (b) in the definition of “the person aggrieved”—
@@ -789,9 +789,9 @@ summary: ''
 
   .
 
-**28.**[^key-2e57c977f4604f1796fc14a3af8e9c38] In the heading to section 42 (former health care providers and social landlords: modifications), for “and social landlords” substitute “ social landlords, social care providers and palliative care providers ”.
+**28.**[^c-2e57c977f4604f1796fc14a3af8e9c38] In the heading to section 42 (former health care providers and social landlords: modifications), for “and social landlords” substitute “ social landlords, social care providers and palliative care providers ”.
 
-**29.**[^key-9ab128a9490481c4926152eaafc17aea] (1) Section 42 (former health care providers and social landlords: modifications) is amended as follows.
+**29.**[^c-9ab128a9490481c4926152eaafc17aea] (1) Section 42 (former health care providers and social landlords: modifications) is amended as follows.
 
 (2) In subsection (1), after paragraph (c) insert—
 
@@ -816,7 +816,7 @@ summary: ''
 > - (a) at the relevant time, provided a palliative care service of a particular description in Wales, and
 > - (b) subsequently ceased to do so (whether or not the person has later started to do so again).
 
-**30.**[^key-a358e3f489283f11e3e662bde86b84b7] (1) Schedule 1 (Public Services Ombudsman for Wales: appointment etc) is amended as follows.
+**30.**[^c-a358e3f489283f11e3e662bde86b84b7] (1) Schedule 1 (Public Services Ombudsman for Wales: appointment etc) is amended as follows.
 
 (2) In paragraph 5—
 
@@ -832,23 +832,23 @@ summary: ''
 
 (3) In paragraph 14, in sub-paragraph (7)(a), after “authority” insert “ , care home provider, domiciliary care provider or independent palliative care provider ”.
 
-**31.**[^key-cdecd66cb30ada2a6084e4d3011632a0] In the title to Schedule 2, after “MATTERS” insert “ : PART 2 ”.
+**31.**[^c-cdecd66cb30ada2a6084e4d3011632a0] In the title to Schedule 2, after “MATTERS” insert “ : PART 2 ”.
 
 #### Commissioner for Older People (Wales) Act 2006
 
-**32.**[^key-3131807be5f4c9b9f63d68096a327409] The Commissioner for Older People (Wales) Act 2006 is amended as follows.
+**32.**[^c-3131807be5f4c9b9f63d68096a327409] The Commissioner for Older People (Wales) Act 2006 is amended as follows.
 
-**33.**[^key-fe77fe91697674ece31cec4b64df00eb] In section 18 (power to disclose information), in subsection (1), in paragraph (b), for “25A” substitute “ 34V ”.
+**33.**[^c-fe77fe91697674ece31cec4b64df00eb] In section 18 (power to disclose information), in subsection (1), in paragraph (b), for “25A” substitute “ 34V ”.
 
-**34.**[^key-c0dc5a6dcd369a1e9e4711fd2de8c676] In Schedule 4 (minor and consequential amendments), in paragraph 2, omit sub-paragraphs (2) and (3).
+**34.**[^c-c0dc5a6dcd369a1e9e4711fd2de8c676] In Schedule 4 (minor and consequential amendments), in paragraph 2, omit sub-paragraphs (2) and (3).
 
 #### Government of Wales Act 2006
 
-**35.**[^key-60b3426ec23f2c977795763d7d4c7f69] In Schedule 10 to the Government of Wales Act 2006 (minor and consequential amendments), omit paragraph 77.
+**35.**[^c-60b3426ec23f2c977795763d7d4c7f69] In Schedule 10 to the Government of Wales Act 2006 (minor and consequential amendments), omit paragraph 77.
 
 #### Welsh Language (Wales) Measure 2011
 
-**36.**[^key-553816982737a10dcc3ee56caf2d87f4] (1) Schedule 3 to the Welsh Language (Wales) Measure 2011 (amendments about joint and collaborative working) is amended as follows.
+**36.**[^c-553816982737a10dcc3ee56caf2d87f4] (1) Schedule 3 to the Welsh Language (Wales) Measure 2011 (amendments about joint and collaborative working) is amended as follows.
 
 (2) Omit the italic cross-heading before paragraph 4 (Public Services Ombudsman (Wales) Act 2005).
 
@@ -856,74 +856,74 @@ summary: ''
 
 ## Annotations
 
-[^key-0fcac74b19c427fb8826a8bea6f49c3e]: Commencement: Sch. 3 para. 1 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-0fcac74b19c427fb8826a8bea6f49c3e]: Commencement: Sch. 3 para. 1 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-a939f118dc519899eb8746c35b3851eb]: Commencement: Sch. 3 para. 2 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-a939f118dc519899eb8746c35b3851eb]: Commencement: Sch. 3 para. 2 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-8108baf3c6b22ddbc2bfb9b0bc88ff83]: Commencement: Sch. 3 para. 3 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-8108baf3c6b22ddbc2bfb9b0bc88ff83]: Commencement: Sch. 3 para. 3 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-9462d066838b9066b84d1e6abf82bfeb]: Commencement: Sch. 3 para. 4 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-9462d066838b9066b84d1e6abf82bfeb]: Commencement: Sch. 3 para. 4 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-2f6f61280b3022b3b197c55366b602c4]: Commencement: Sch. 3 para. 5 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-2f6f61280b3022b3b197c55366b602c4]: Commencement: Sch. 3 para. 5 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-0369c15de40590ab333bf5b84ea34d1b]: Commencement: Sch. 3 para. 6 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-0369c15de40590ab333bf5b84ea34d1b]: Commencement: Sch. 3 para. 6 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-c4a7fbead0bc5e85170acea0c7e4b6f6]: Commencement: Sch. 3 para. 7 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-c4a7fbead0bc5e85170acea0c7e4b6f6]: Commencement: Sch. 3 para. 7 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-668a4c905fd442b4078ebbde243398ca]: Commencement: Sch. 3 para. 8 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-668a4c905fd442b4078ebbde243398ca]: Commencement: Sch. 3 para. 8 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-33d959dc8535b1cb734057f493ee71b0]: Commencement: Sch. 3 para. 9 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-33d959dc8535b1cb734057f493ee71b0]: Commencement: Sch. 3 para. 9 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-3fa03726bbf114427346df5f830161a9]: Commencement: Sch. 3 para. 10 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-3fa03726bbf114427346df5f830161a9]: Commencement: Sch. 3 para. 10 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-110b286621d327d95daac52d8f7553e6]: Commencement: Sch. 3 para. 11 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-110b286621d327d95daac52d8f7553e6]: Commencement: Sch. 3 para. 11 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-533605d88591126448d1bcd367e3e04f]: Textual amendment: [Sch. 3 para. 12](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/12) omitted (5.5.2022) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 8 para. 9](https://www.legislation.gov.uk/asc/2021/1/schedule/8/paragraph/9); [S.I. 2022/98](https://www.legislation.gov.uk/wsi/2022/98), [art. 2(b)](https://www.legislation.gov.uk/wsi/2022/98/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2022/98/article/3))
+[^c-533605d88591126448d1bcd367e3e04f]: Textual amendment: [Sch. 3 para. 12](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/12) omitted (5.5.2022) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 8 para. 9](https://www.legislation.gov.uk/asc/2021/1/schedule/8/paragraph/9); [S.I. 2022/98](https://www.legislation.gov.uk/wsi/2022/98), [art. 2(b)](https://www.legislation.gov.uk/wsi/2022/98/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2022/98/article/3))
 
-[^key-b90c88a7cafd785231dd5741b8949717]: Commencement: Sch. 3 para. 13 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-b90c88a7cafd785231dd5741b8949717]: Commencement: Sch. 3 para. 13 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-27baf10a06b30ba4db4879a0135330ed]: Commencement: Sch. 3 para. 14 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-27baf10a06b30ba4db4879a0135330ed]: Commencement: Sch. 3 para. 14 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-960f7a3263a1625418d93a33dce10559]: Commencement: Sch. 3 para. 15 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-960f7a3263a1625418d93a33dce10559]: Commencement: Sch. 3 para. 15 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-072d8db51b067ebea89d6b06b516808d]: Commencement: Sch. 3 para. 16 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-072d8db51b067ebea89d6b06b516808d]: Commencement: Sch. 3 para. 16 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-0b44f272299fa746a1e7bed799f0c844]: Commencement: Sch. 3 para. 17 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-0b44f272299fa746a1e7bed799f0c844]: Commencement: Sch. 3 para. 17 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-4ea50835fc67b734bb3aa8dd116a4eca]: Commencement: Sch. 3 para. 18 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-4ea50835fc67b734bb3aa8dd116a4eca]: Commencement: Sch. 3 para. 18 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-b87c25b0bec05dd94e3727df8c306ec9]: Commencement: Sch. 3 para. 19 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-b87c25b0bec05dd94e3727df8c306ec9]: Commencement: Sch. 3 para. 19 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-c6b5ffd2b118d378f77ed6a2da0f48e7]: Commencement: Sch. 3 para. 20 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-c6b5ffd2b118d378f77ed6a2da0f48e7]: Commencement: Sch. 3 para. 20 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-42c9df14bf418643aa5f7ec3a5d26b73]: Commencement: Sch. 3 para. 21 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-42c9df14bf418643aa5f7ec3a5d26b73]: Commencement: Sch. 3 para. 21 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-f70332ac1c23058bd27417bd904f5231]: Commencement: Sch. 3 para. 22 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-f70332ac1c23058bd27417bd904f5231]: Commencement: Sch. 3 para. 22 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-783abb25eaae6b7793a879ad88f56432]: Commencement: Sch. 3 para. 23 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-783abb25eaae6b7793a879ad88f56432]: Commencement: Sch. 3 para. 23 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-8d6b1b015a67aed50090692b0b99170d]: Commencement: Sch. 3 para. 24 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-8d6b1b015a67aed50090692b0b99170d]: Commencement: Sch. 3 para. 24 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-730a3d90a6cc96e6774298a759554315]: Commencement: Sch. 3 para. 25 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-730a3d90a6cc96e6774298a759554315]: Commencement: Sch. 3 para. 25 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-a8b55ad9693c663a5fc1cf40ebc91342]: Commencement: Sch. 3 para. 26 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-a8b55ad9693c663a5fc1cf40ebc91342]: Commencement: Sch. 3 para. 26 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-84dcdbf407a0641fd30d773aa0eb528b]: Commencement: Sch. 3 para. 27 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-84dcdbf407a0641fd30d773aa0eb528b]: Commencement: Sch. 3 para. 27 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-2e57c977f4604f1796fc14a3af8e9c38]: Commencement: Sch. 3 para. 28 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-2e57c977f4604f1796fc14a3af8e9c38]: Commencement: Sch. 3 para. 28 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-9ab128a9490481c4926152eaafc17aea]: Commencement: Sch. 3 para. 29 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-9ab128a9490481c4926152eaafc17aea]: Commencement: Sch. 3 para. 29 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-a358e3f489283f11e3e662bde86b84b7]: Commencement: Sch. 3 para. 30 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-a358e3f489283f11e3e662bde86b84b7]: Commencement: Sch. 3 para. 30 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-cdecd66cb30ada2a6084e4d3011632a0]: Commencement: Sch. 3 para. 31 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-cdecd66cb30ada2a6084e4d3011632a0]: Commencement: Sch. 3 para. 31 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-3131807be5f4c9b9f63d68096a327409]: Commencement: Sch. 3 para. 32 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-3131807be5f4c9b9f63d68096a327409]: Commencement: Sch. 3 para. 32 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-fe77fe91697674ece31cec4b64df00eb]: Commencement: Sch. 3 para. 33 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-fe77fe91697674ece31cec4b64df00eb]: Commencement: Sch. 3 para. 33 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-c0dc5a6dcd369a1e9e4711fd2de8c676]: Commencement: Sch. 3 para. 34 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-c0dc5a6dcd369a1e9e4711fd2de8c676]: Commencement: Sch. 3 para. 34 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-60b3426ec23f2c977795763d7d4c7f69]: Commencement: Sch. 3 para. 35 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-60b3426ec23f2c977795763d7d4c7f69]: Commencement: Sch. 3 para. 35 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-553816982737a10dcc3ee56caf2d87f4]: Commencement: Sch. 3 para. 36 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-553816982737a10dcc3ee56caf2d87f4]: Commencement: Sch. 3 para. 36 in force at 1.11.2014 by [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)

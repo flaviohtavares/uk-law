@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 570. Interpretation of the 1998 Order[^key-6e1654cb279476fe4dc14206bf9fe285]
+## 570. Interpretation of the 1998 Order[^c-6e1654cb279476fe4dc14206bf9fe285]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In paragraph (2) of article 1 of the Bank of England (Information Powers) Order 
 
 ## Annotations
 
-[^key-6e1654cb279476fe4dc14206bf9fe285]: Commencement: Art. 570 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-6e1654cb279476fe4dc14206bf9fe285]: Commencement: Art. 570 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Policy making standards[^key-23d140a03d1ec317f716459efc10c22a]
+## 29. Policy making standards[^c-23d140a03d1ec317f716459efc10c22a]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23d140a03d1ec317f716459efc10c22a]: Commencement: [S. 29](https://www.legislation.gov.uk/mwa/2011/1/section/29) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(i)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/i)
+[^c-23d140a03d1ec317f716459efc10c22a]: Commencement: [S. 29](https://www.legislation.gov.uk/mwa/2011/1/section/29) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(i)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/i)

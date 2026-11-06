@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59ZB. Designated senior management functions[^key-a26ccb8bf0357c45ca58c876963b70c6]
+## 59ZB. Designated senior management functions[^c-a26ccb8bf0357c45ca58c876963b70c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ For the purposes of this Part the following are “designated senior management 
 
 ## Annotations
 
-[^key-a26ccb8bf0357c45ca58c876963b70c6]: Textual amendment: S. 59ZB inserted (13.9.2018 for specified purposes, 10.12.2018 for specified purposes, 18.7.2019 for specified purposes, 9.8.2019 for specified purposes, 9.12.2019 for specified purposes, 7.12.2020 in so far as not already in force) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/4/paragraph/3); [S.I. 2018/990](https://www.legislation.gov.uk/uksi/2018/990), [reg. 2(1)(2)(3)](https://www.legislation.gov.uk/uksi/2018/990/regulation/2/1/2/3) (with [regs. 3-6](https://www.legislation.gov.uk/uksi/2018/990/regulation/3)); [S.I. 2019/1136](https://www.legislation.gov.uk/uksi/2019/1136), [reg. 2(2)(3)(4)(5)](https://www.legislation.gov.uk/uksi/2019/1136/regulation/2/2/3/4/5) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2019/1136/regulation/3), [7](https://www.legislation.gov.uk/uksi/2019/1136/regulation/7))
+[^c-a26ccb8bf0357c45ca58c876963b70c6]: Textual amendment: S. 59ZB inserted (13.9.2018 for specified purposes, 10.12.2018 for specified purposes, 18.7.2019 for specified purposes, 9.8.2019 for specified purposes, 9.12.2019 for specified purposes, 7.12.2020 in so far as not already in force) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/4/paragraph/3); [S.I. 2018/990](https://www.legislation.gov.uk/uksi/2018/990), [reg. 2(1)(2)(3)](https://www.legislation.gov.uk/uksi/2018/990/regulation/2/1/2/3) (with [regs. 3-6](https://www.legislation.gov.uk/uksi/2018/990/regulation/3)); [S.I. 2019/1136](https://www.legislation.gov.uk/uksi/2019/1136), [reg. 2(2)(3)(4)(5)](https://www.legislation.gov.uk/uksi/2019/1136/regulation/2/2/3/4/5) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2019/1136/regulation/3), [7](https://www.legislation.gov.uk/uksi/2019/1136/regulation/7))

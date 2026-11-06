@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Withdrawal of authorisation[^key-ce9b1aad7c6b8d8f23d0293baa538b9f]
+## 94. Withdrawal of authorisation[^c-ce9b1aad7c6b8d8f23d0293baa538b9f]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ The Regulator may during a period of concern withdraw authorisation from a super
 
 ## Annotations
 
-[^key-ce9b1aad7c6b8d8f23d0293baa538b9f]: Commencement: S. 94 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)
+[^c-ce9b1aad7c6b8d8f23d0293baa538b9f]: Commencement: S. 94 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)

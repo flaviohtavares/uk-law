@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 216. Amendment of Schedule 30 (particulars for advertisements to persons qualified to prescribe or supply)[^M_I_6e5cd898-8e3e-48ea-ecc7-ce2e64a45986][^key-bf808d1f9b2af0893e8acfaea4521ffe]
+## 216. Amendment of Schedule 30 (particulars for advertisements to persons qualified to prescribe or supply)[^M_I_6e5cd898-8e3e-48ea-ecc7-ce2e64a45986][^c-bf808d1f9b2af0893e8acfaea4521ffe]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ In Schedule 30—
 
 [^M_I_6e5cd898-8e3e-48ea-ecc7-ce2e64a45986]: Commencement: Reg. 216 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-bf808d1f9b2af0893e8acfaea4521ffe]: Textual amendment: Reg. 216 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 175](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/175)
+[^c-bf808d1f9b2af0893e8acfaea4521ffe]: Textual amendment: Reg. 216 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 175](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/175)

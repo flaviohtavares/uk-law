@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Restriction of activities in relation to donated material[^key-dce684836bc8a37d9c24a889cfb7aa4a][^key-28b8f14d43dd68a9f9a8d178a9b22a4e]
+## 8. Restriction of activities in relation to donated material[^c-dce684836bc8a37d9c24a889cfb7aa4a][^c-28b8f14d43dd68a9f9a8d178a9b22a4e]
 
 *Extent: E+W+N.I.*
 
@@ -49,12 +49,12 @@ summary: ''
 
 which is, or has been, the subject of donation.
 
-(6) For the purposes of subsection (5), a body, or material, is the subject of donation if authority under section 1(1) to (3) or section 3(1) to (3) of the Human Transplantation (Wales) Act 2013 *(Extent: E+W)*[^key-9bef7b59d9efee05fc54c5cb6ab95e89] exists in relation to it.
+(6) For the purposes of subsection (5), a body, or material, is the subject of donation if authority under section 1(1) to (3) or section 3(1) to (3) of the Human Transplantation (Wales) Act 2013 *(Extent: E+W)*[^c-9bef7b59d9efee05fc54c5cb6ab95e89] exists in relation to it.
 
 ## Annotations
 
-[^key-dce684836bc8a37d9c24a889cfb7aa4a]: Commencement: S. 8 in force at 20.10.2005 for specified purposes by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/j)
+[^c-dce684836bc8a37d9c24a889cfb7aa4a]: Commencement: S. 8 in force at 20.10.2005 for specified purposes by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/j)
 
-[^key-28b8f14d43dd68a9f9a8d178a9b22a4e]: Commencement: S. 8 in force at 1.12.2006 in so far as not already in force by [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(3)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))
+[^c-28b8f14d43dd68a9f9a8d178a9b22a4e]: Commencement: S. 8 in force at 1.12.2006 in so far as not already in force by [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(3)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))
 
-[^key-9bef7b59d9efee05fc54c5cb6ab95e89]: Textual amendment: Words in s. 8(6) inserted (E.W.) (1.12.2015) by [Human Transplantation (Wales) Act 2013 (anaw 5)](https://www.legislation.gov.uk/anaw/2013/5), [ss. 16(4)](https://www.legislation.gov.uk/anaw/2013/5/section/16/4), [21(1)](https://www.legislation.gov.uk/anaw/2013/5/section/21/1) (with [s. 14](https://www.legislation.gov.uk/anaw/2013/5/section/14)); [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(e)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/e)
+[^c-9bef7b59d9efee05fc54c5cb6ab95e89]: Textual amendment: Words in s. 8(6) inserted (E.W.) (1.12.2015) by [Human Transplantation (Wales) Act 2013 (anaw 5)](https://www.legislation.gov.uk/anaw/2013/5), [ss. 16(4)](https://www.legislation.gov.uk/anaw/2013/5/section/16/4), [21(1)](https://www.legislation.gov.uk/anaw/2013/5/section/21/1) (with [s. 14](https://www.legislation.gov.uk/anaw/2013/5/section/14)); [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(e)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/e)

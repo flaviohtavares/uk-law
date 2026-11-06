@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Reduction of grants in case of default.[^key-7bb9e75d7f41df914ee706a22d40056e]
+## 5. Reduction of grants in case of default.[^c-7bb9e75d7f41df914ee706a22d40056e]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7bb9e75d7f41df914ee706a22d40056e]: Textual amendment: Ss. 1-5 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2
+[^c-7bb9e75d7f41df914ee706a22d40056e]: Textual amendment: Ss. 1-5 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2

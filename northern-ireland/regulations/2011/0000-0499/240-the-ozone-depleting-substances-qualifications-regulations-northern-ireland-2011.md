@@ -46,11 +46,11 @@ These Regulations make provision for a purpose mentioned in that section, and it
 
 The Department makes these Regulations in the exercise of the powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972[^f00003].
 
-## 1. Citation and commencement[^key-907c57098e063a6439eaea97ad8d2faa]
+## 1. Citation and commencement[^c-907c57098e063a6439eaea97ad8d2faa]
 
 These Regulations may be cited as the Ozone-Depleting Substances (Qualifications) Regulations (Northern Ireland) 2011, and shall come into operation on 31<sup>st</sup> July 2011.
 
-## 2. Interpretation[^key-5662dbc93df29eb22c107c7453508d96]
+## 2. Interpretation[^c-5662dbc93df29eb22c107c7453508d96]
 
 (1) In these Regulations—
 
@@ -70,23 +70,23 @@ These Regulations may be cited as the Ozone-Depleting Substances (Qualifications
 
 (4) References in these Regulations to “controlled substances” are references to those substances in Annex I to the EU Regulation as amended from time to time.
 
-(5)[^key-980ac80fc26d16af025c25a39bf28a73] References in these Regulations to the EU Regulation are to the EU Regulation as amended by regulations made under the European Union (Withdrawal) Act 2018.
+(5)[^c-980ac80fc26d16af025c25a39bf28a73] References in these Regulations to the EU Regulation are to the EU Regulation as amended by regulations made under the European Union (Withdrawal) Act 2018.
 
-## 3. Meaning of “competent”[^key-af1f72c73e862ee9e70fc29111441b08]
+## 3. Meaning of “competent”[^c-af1f72c73e862ee9e70fc29111441b08]
 
 For the purposes of these Regulations—
 
 - (a) a person is competent to carry out relevant work whilst performing a task specified in column 1 of the Table in the Schedule in respect of the equipment specified in the corresponding entry in column 2 of that Table if that person has obtained one of the qualifications specified in the corresponding entry in column 3 of that Table; and
 - (b) a person is competent to carry out any other relevant work to which paragraph (a) does not apply, if that person has obtained an in-house qualification in respect of that other relevant work.
 
-## 4. Meaning of “relevant work”[^key-23059465ac14b2e52c691ce175abe387]
+## 4. Meaning of “relevant work”[^c-23059465ac14b2e52c691ce175abe387]
 
 In these Regulations, “relevant work” means any work which involves—
 
 - (a) recovering, recycling, reclaiming or destroying controlled substances; or
 - (b) preventing and minimising the leakage of controlled substances.
 
-## 5. Qualification and supervision[^key-0116a4605c1ced3b882c8f9de1cdfe24]
+## 5. Qualification and supervision[^c-0116a4605c1ced3b882c8f9de1cdfe24]
 
 (1) Subject to paragraph (3), no person may carry out any relevant work unless that person is competent to do so.
 
@@ -101,7 +101,7 @@ In these Regulations, “relevant work” means any work which involves—
 
 (4) A person is guilty of an offence if the person fails to comply with paragraph (1), (2), or (3).
 
-## 6. Training[^key-6e8f9e560b697716cbeb7b6549f5329a]
+## 6. Training[^c-6e8f9e560b697716cbeb7b6549f5329a]
 
 (1) A training employer must ensure that the course of training which the training employer provides will enable an employee who has been trained to carry out a relevant job satisfactorily.
 
@@ -124,7 +124,7 @@ In these Regulations, “relevant work” means any work which involves—
   - (ii) the period during which the employee is employed by the training employer to carry out a relevant job; and
 - (c) “training employer” means an employer who provides training leading to an in-house qualification.
 
-## 7. Enforcement[^key-9f09f3df74dcba3129f41c1cf555e1d9]
+## 7. Enforcement[^c-9f09f3df74dcba3129f41c1cf555e1d9]
 
 (1) Subject to paragraph (2), the district council must enforce these Regulations.
 
@@ -139,11 +139,11 @@ In these Regulations, “relevant work” means any work which involves—
 
 (4) The enforcing authority may authorise in writing such persons as they consider appropriate to act for the purpose of enforcing these Regulations.
 
-## 8. Information notices[^key-aee22d33e46c8370f8b706b1a07ab1d9]
+## 8. Information notices[^c-aee22d33e46c8370f8b706b1a07ab1d9]
 
 The enforcing authority may, by notice served on any person, require that person to furnish such information as is specified in the notice, in such form and within such period following the service of the notice or at such time as is so specified.
 
-## 9. Enforcement notices[^key-e326ed85e09d738bd3d94d318abc9188]
+## 9. Enforcement notices[^c-e326ed85e09d738bd3d94d318abc9188]
 
 (1) If the enforcing authority is of the opinion that a person has contravened, is contravening or is likely to contravene these Regulations, the enforcing authority may serve on that person a notice (referred to in these Regulations as an “enforcement notice”).
 
@@ -165,7 +165,7 @@ The enforcing authority may, by notice served on any person, require that person
 - (a) enter the land and take the steps specified in the enforcement notice; and
 - (b) recover from the person who is then the owner, any expenses reasonably incurred by it in doing so and those expenses shall be a civil debt recoverable summarily.
 
-## 10. Appeals against enforcement notices[^key-66cf41c199f543629f3bd8e671b75d28]
+## 10. Appeals against enforcement notices[^c-66cf41c199f543629f3bd8e671b75d28]
 
 (1) A person who is aggrieved by an enforcement notice may appeal to a court of summary jurisdiction.
 
@@ -180,11 +180,11 @@ The enforcing authority may, by notice served on any person, require that person
 
 (5) Where an appeal is brought against an enforcement notice, that notice must be of no effect pending the final determination or the withdrawal of the appeal.
 
-## 11. Enforcement by the High Court[^key-5196a39849192efeda6352b49087e672]
+## 11. Enforcement by the High Court[^c-5196a39849192efeda6352b49087e672]
 
 If the enforcing authority is of the opinion that proceedings against a person for an offence under regulation 12(f) would afford an ineffectual remedy against that person, the enforcing authority may take proceedings in the High Court for the purpose of securing compliance with that notice.
 
-## 12. Additional offences[^key-c4d10a806abe4a230b2057a8d99e9552]
+## 12. Additional offences[^c-c4d10a806abe4a230b2057a8d99e9552]
 
 A person commits an offence if that person—
 
@@ -196,7 +196,7 @@ A person commits an offence if that person—
 - (f) fails to comply with the requirements of an enforcement notice;
 - (g) intentionally prevents any other person from appearing before an authorised person to provide information, or to answer questions for which an authorised person may require an answer.
 
-## 13. Offences by bodies corporate[^key-8011b680a5a25fc05975c6c98ee96f33]
+## 13. Offences by bodies corporate[^c-8011b680a5a25fc05975c6c98ee96f33]
 
 (1) For the purposes of these Regulations, section 20(2) of the Interpretation Act (Northern Ireland) 1954[^f00008] applies with the omission of the words “the liability of whose members is limited”, and where affairs of a body corporate are managed by its members, applies in relation to acts or defaults of a member in connection with the functions of management as if that person were a Director of the body corporate.
 
@@ -218,14 +218,14 @@ A person commits an offence if that person—
 
   the officer or member as well as the association is guilty of the offence and liable to be proceeded against and punished accordingly.
 
-## 14. Penalties[^key-f4369cf84049c859ff163f4896e63f98]
+## 14. Penalties[^c-f4369cf84049c859ff163f4896e63f98]
 
 A person guilty of an offence under these Regulations is liable—
 
 - (a) on summary conviction, to a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment, to a fine.
 
-## 15. Application to the Crown[^key-90053e79379c5dc5d1d18c7306ba0dd9]
+## 15. Application to the Crown[^c-90053e79379c5dc5d1d18c7306ba0dd9]
 
 (1) Subject to the provisions of this Regulation, these Regulations bind the Crown.
 
@@ -233,7 +233,7 @@ A person guilty of an offence under these Regulations is liable—
 
 (3) Notwithstanding paragraph (2), these Regulations must apply to persons in the public service of the Crown as they apply to other persons.
 
-## 16. Revocation[^key-b84ac0706c23996c22c5818978e12245]
+## 16. Revocation[^c-b84ac0706c23996c22c5818978e12245]
 
 The Ozone Depleting Substances (Qualifications) Regulations (Northern Ireland) 2006[^f00009] are revoked.
 
@@ -245,7 +245,7 @@ A senior officer of the
 
 Department of the Environment
 
-## SCHEDULE — TABLE OF MINIMUM QUALIFICATIONS[^key-053c59a8d772e0547b420c7a9a41784e]
+## SCHEDULE — TABLE OF MINIMUM QUALIFICATIONS[^c-053c59a8d772e0547b420c7a9a41784e]
 
 Regulations 3(a) and 6(5)(a)
 
@@ -289,53 +289,53 @@ A full impact assessment of the effects that this instrument will have on the co
 
 [^f00003]: Footnote: Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c 51)](https://www.legislation.gov.uk/ukpga/2006/51)
 
-[^key-907c57098e063a6439eaea97ad8d2faa]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
+[^c-907c57098e063a6439eaea97ad8d2faa]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
 
-[^key-5662dbc93df29eb22c107c7453508d96]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2011/240/regulation/2) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
+[^c-5662dbc93df29eb22c107c7453508d96]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2011/240/regulation/2) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
 
 [^f00004]: Footnote: OJ No L286, 31.10.2009, p1, amended by Commission Regulation (EU) No 744/2010 (OJ No L 218, 19.08.2010, p2).
 
 [^f00005]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-980ac80fc26d16af025c25a39bf28a73]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2011/240/regulation/2/5) inserted (31.12.2020) by [The Fluorinated Greenhouse Gases and Ozone-Depleting Substances (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/281)](https://www.legislation.gov.uk/uksi/2019/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/281/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2019/281/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-980ac80fc26d16af025c25a39bf28a73]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2011/240/regulation/2/5) inserted (31.12.2020) by [The Fluorinated Greenhouse Gases and Ozone-Depleting Substances (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/281)](https://www.legislation.gov.uk/uksi/2019/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/281/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2019/281/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-af1f72c73e862ee9e70fc29111441b08]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2011/240/regulation/3) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
+[^c-af1f72c73e862ee9e70fc29111441b08]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2011/240/regulation/3) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
 
-[^key-23059465ac14b2e52c691ce175abe387]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2011/240/regulation/4) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
+[^c-23059465ac14b2e52c691ce175abe387]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2011/240/regulation/4) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
 
-[^key-0116a4605c1ced3b882c8f9de1cdfe24]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2011/240/regulation/5) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
+[^c-0116a4605c1ced3b882c8f9de1cdfe24]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2011/240/regulation/5) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
 
-[^key-6e8f9e560b697716cbeb7b6549f5329a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2011/240/regulation/6) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
+[^c-6e8f9e560b697716cbeb7b6549f5329a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2011/240/regulation/6) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
 
-[^key-9f09f3df74dcba3129f41c1cf555e1d9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2011/240/regulation/7) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
+[^c-9f09f3df74dcba3129f41c1cf555e1d9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2011/240/regulation/7) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
 
 [^f00006]: Footnote: [S.I. 1997/2778 (N.I. 19)](https://www.legislation.gov.uk/nisi/1997/2778)
 
-[^key-aee22d33e46c8370f8b706b1a07ab1d9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2011/240/regulation/8) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
+[^c-aee22d33e46c8370f8b706b1a07ab1d9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2011/240/regulation/8) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
 
-[^key-e326ed85e09d738bd3d94d318abc9188]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2011/240/regulation/9) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
+[^c-e326ed85e09d738bd3d94d318abc9188]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2011/240/regulation/9) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
 
-[^key-66cf41c199f543629f3bd8e671b75d28]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2011/240/regulation/10) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
+[^c-66cf41c199f543629f3bd8e671b75d28]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2011/240/regulation/10) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
 
 [^f00007]: Footnote: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675)
 
-[^key-5196a39849192efeda6352b49087e672]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2011/240/regulation/11) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
+[^c-5196a39849192efeda6352b49087e672]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2011/240/regulation/11) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
 
-[^key-c4d10a806abe4a230b2057a8d99e9552]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2011/240/regulation/12) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
+[^c-c4d10a806abe4a230b2057a8d99e9552]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2011/240/regulation/12) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
 
-[^key-8011b680a5a25fc05975c6c98ee96f33]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2011/240/regulation/13) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
+[^c-8011b680a5a25fc05975c6c98ee96f33]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2011/240/regulation/13) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
 
 [^f00008]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-f4369cf84049c859ff163f4896e63f98]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2011/240/regulation/14) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
+[^c-f4369cf84049c859ff163f4896e63f98]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2011/240/regulation/14) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
 
-[^key-90053e79379c5dc5d1d18c7306ba0dd9]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2011/240/regulation/15) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
+[^c-90053e79379c5dc5d1d18c7306ba0dd9]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2011/240/regulation/15) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
 
-[^key-b84ac0706c23996c22c5818978e12245]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2011/240/regulation/16) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
+[^c-b84ac0706c23996c22c5818978e12245]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2011/240/regulation/16) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
 
 [^f00009]: Footnote: [S.R. 2006 No. 321](https://www.legislation.gov.uk/nisr/2006/321)
 
-[^key-053c59a8d772e0547b420c7a9a41784e]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2011/240/schedule) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
+[^c-053c59a8d772e0547b420c7a9a41784e]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2011/240/schedule) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/240/regulation/1)
 
 [^f00010]: Footnote: Details can be obtained from City & Guilds, 1 Giltspur Street, London, EC1A 9DD; telephone number: 020 7294 2800; e-mail: learnersupport@cityandguilds.com Website: http://www.cityandguilds.com/
 

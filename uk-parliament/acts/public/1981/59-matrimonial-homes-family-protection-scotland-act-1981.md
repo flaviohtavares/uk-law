@@ -31,7 +31,7 @@ Matrimonial Homes (Family Protection) (Scotland) Act 1981
 
 An Act to make new provision for Scotland as to the rights of occupancy of spouses in a matrimonial home and of cohabiting couples in the house where they cohabit; to provide for the transfer of the tenancy of a matrimonial home between the spouses in certain circumstances during marriage and on granting decree of divorce or nullity of marriage, and for the transfer of the tenancy of a house occupied by a cohabiting couple between the partners in certain circumstances; to strengthen the law relating to matrimonial interdicts; and for connected purposes.
 
-\[30th October 1981\][^c737181][^key-2fde65c985009c30a420ed0e07a828ed]
+\[30th October 1981\][^c737181][^c-2fde65c985009c30a420ed0e07a828ed]
 
 ## Protection of occupancy rights of one spouse against the other
 
@@ -50,16 +50,16 @@ An Act to make new provision for Scotland as to the rights of occupancy of spous
 
 (4) In this Act, the rights mentioned in paragraphs (a) and (b) of subsection (1) above are referred to as occupancy rights.
 
-(5)[^key-1bc086a7f7a383753ceb683332baab1f] A non-entitled spouse may renounce in writing his or her occupancy rights only—
+(5)[^c-1bc086a7f7a383753ceb683332baab1f] A non-entitled spouse may renounce in writing his or her occupancy rights only—
 
 - (a) in a particular matrimonial home; or
 - (b) in a particular property which it is intended by the spouses will become a matrimonial home.
 
-(6)[^key-1bc086a7f7a383753ceb683332baab1f] A renunciation under subsection (5) above shall have effect only if at the time of making the renunciation, the non-entitled spouse has sworn or affirmed before a notary public that it was made freely and without coercion of any kind.
+(6)[^c-1bc086a7f7a383753ceb683332baab1f] A renunciation under subsection (5) above shall have effect only if at the time of making the renunciation, the non-entitled spouse has sworn or affirmed before a notary public that it was made freely and without coercion of any kind.
 
 In this subsection, “[^c737184] **notary public** ” includes any person duly authorised by the law of the country (other than Scotland) in which the swearing or affirmation takes place to administer oaths or receive affirmations in that other country.
 
-(7)[^key-4945993e215c768b5faadc56a3dd8421] Subject to subsection (5), if—
+(7)[^c-4945993e215c768b5faadc56a3dd8421] Subject to subsection (5), if—
 
 - (a) there has been no cohabitation between an entitled spouse and a non-entitled spouse during a continuous period of two years; and
 - (b) during that period the non-entitled spouse has not occupied the matrimonial home,
@@ -112,13 +112,13 @@ the non-entitled spouse shall, on the expiry of that period, cease to have occup
 
 the tenancy shall be continued by such possession by the non-entitled spouse.
 
-(8A)[^key-a7d9cd3f011179129542dfec75aa1a4b] In subsection (1)(a), “**secured loan**” includes secured obligation (construed in accordance with section 43(1) of the Moveable Transactions (Scotland) Act 2023).
+(8A)[^c-a7d9cd3f011179129542dfec75aa1a4b] In subsection (1)(a), “**secured loan**” includes secured obligation (construed in accordance with section 43(1) of the Moveable Transactions (Scotland) Act 2023).
 
 (9)[^c737185] In this section “**improvements**” includes alterations and enlargement.
 
 ### 3. Regulation by court of rights of occupancy of matrimonial home.
 
-(1) Subject to section 1(7) of this Act,[^key-95684019bd6c2350d94d8b9e5dda251e] Where there is an entitled and a non-entitled spouse, or where both spouses are entitled, or permitted by a third party, to occupy a matrimonial home, either spouse may apply to the court for an order—
+(1) Subject to section 1(7) of this Act,[^c-95684019bd6c2350d94d8b9e5dda251e] Where there is an entitled and a non-entitled spouse, or where both spouses are entitled, or permitted by a third party, to occupy a matrimonial home, either spouse may apply to the court for an order—
 
 - (a) declaring the occupancy rights of the applicant spouse;
 - (b) enforcing the occupancy rights of the applicant spouse;
@@ -126,7 +126,7 @@ the tenancy shall be continued by such possession by the non-entitled spouse.
 - (d) regulating the exercise by either spouse of his or her occupancy rights;
 - (e) protecting the occupancy rights of the applicant spouse in relation to the other spouse.
 
-(2) Where one spouse owns or hires, or is acquiring under a hire-purchase or conditional sale agreement, furniture and plenishings in a matrimonial home, the other spouse, if he or she has occupancy rights in that home, may apply to the court for an order granting to the applicant the possession or use in the matrimonial home of any such furniture and plenishings; but, subject to section 2 of this Act, an order under this subsection shall not prejudice the rights of any third party in relation to the non-performance of any obligation under such hire-purchase or conditional sale agreement or the rights of any secured creditor in relation to the non-performance of a secured obligation.[^key-5aaa8f9b8f95a92e9d43d27df19627a9]
+(2) Where one spouse owns or hires, or is acquiring under a hire-purchase or conditional sale agreement, furniture and plenishings in a matrimonial home, the other spouse, if he or she has occupancy rights in that home, may apply to the court for an order granting to the applicant the possession or use in the matrimonial home of any such furniture and plenishings; but, subject to section 2 of this Act, an order under this subsection shall not prejudice the rights of any third party in relation to the non-performance of any obligation under such hire-purchase or conditional sale agreement or the rights of any secured creditor in relation to the non-performance of a secured obligation.[^c-5aaa8f9b8f95a92e9d43d27df19627a9]
 
 (3) The court shall grant an application under subsection (1) (a) above if it appears to the court that the application relates to a matrimonial home; and, on an application under any of paragraphs (b) to (e) of subsection (1) or under subsection (2) above, the court may make such order relating to the application as appears to it to be just and reasonable having regard to all the circumstances of the case including—
 
@@ -163,7 +163,7 @@ in consequence of any act or default on the part of the other spouse which was i
 
 (8) A spouse may renounce in writing the right to apply under subsection (2) above for the possession or use of any item of furniture and plenishings.
 
-(9)[^key-03c18eba6dd5a13a3812c04fad4f4d69] In subsection (2)—
+(9)[^c-03c18eba6dd5a13a3812c04fad4f4d69] In subsection (2)—
 
 - “**secured creditor**” has the meaning given by section 113(1) of the Moveable Transactions (Scotland) Act 2023, and
 - “**secured obligation**” is to be construed in accordance with section 43(1) of the Moveable Transactions (Scotland) Act 2023.
@@ -223,14 +223,14 @@ Provided that an interim order may be made only if the non-applicant spouse has 
 - (a) the continued exercise of the rights conferred on a non-entitled spouse by the provisions of this Act in respect of a matrimonial home shall not be prejudiced by reason only of any dealing of the entitled spouse relating to that home; and
 - (b) a third party shall not by reason only of such a dealing be entitled to occupy that matrimonial home or any part of it.
 
-(1A)[^key-8fdb8ed3ece5a946cb287e2bec9484fd] The occupancy rights of a non-entitled spouse in relation to a matrimonial home shall not be exercisable in relation to the home where, following a dealing of the entitled spouse relating to the home—
+(1A)[^c-8fdb8ed3ece5a946cb287e2bec9484fd] The occupancy rights of a non-entitled spouse in relation to a matrimonial home shall not be exercisable in relation to the home where, following a dealing of the entitled spouse relating to the home—
 
 - (a) a person acquires the home, or an interest in it, in good faith and for value from a person other than the person who is or, as the case may be, was the entitled spouse; or
 - (b) a person derives title to the home from a person who acquired title as mentioned in paragraph (a).
 
 (2) In this section and section 7 of this Act—
 
-- “**dealing**” includes the grant of a heritable security , the grant of a statutory pledge[^key-940d459409cdafad105df23736e6e213] and the creation of a trust but does not include a conveyance under section 80 of the [^c737191]Lands Clauses Consolidation (Scotland) Act 1845;
+- “**dealing**” includes the grant of a heritable security , the grant of a statutory pledge[^c-940d459409cdafad105df23736e6e213] and the creation of a trust but does not include a conveyance under section 80 of the [^c737191]Lands Clauses Consolidation (Scotland) Act 1845;
 - “**entitled spouse**” does not include a spouse who, apart from the provisions of this Act,—
   - (a) is permitted by a third party to occupy a matrimonial home; or
   - (b) is entitled to occupy a matrimonial home along with an individual who is not the other spouse, whether or not that individual has waived his or her right of occupation in favour of the spouse so entitled;
@@ -245,10 +245,10 @@ Provided that an interim order may be made only if the non-applicant spouse has 
 - (b) the court has made an order under section 7 of this Act dispensing with the consent of the non-entitled spouse to the dealing;
 - (c) the dealing occurred, or implements, a binding obligation entered into by the entitled spouse before his or her marriage to the non-entitled spouse;
 - (d) the dealing occurred, or implements, a binding obligation entered into before the commencement of this Act; . . . [^c737192]
-- (e)[^key-33748f82a118db5f908864075c04f1b7] the dealing comprises a[^c737193] transfer for value[^key-b53c1cd64cb3892c8ecf6366dd76ee2b] to a third party who has acted in good faith, if . . . [^c737194] there is produced to the third party by the transferor—[^key-8dd00050f6d469f182431670ee70627a]
+- (e)[^c-33748f82a118db5f908864075c04f1b7] the dealing comprises a[^c737193] transfer for value[^c-b53c1cd64cb3892c8ecf6366dd76ee2b] to a third party who has acted in good faith, if . . . [^c737194] there is produced to the third party by the transferor—[^c-8dd00050f6d469f182431670ee70627a]
   - (i) a written declaration signed by the transferor, or a person acting on behalf of the transferor under a power of attorney or as a guardian (within the meaning of the Adults with Incapacity (Scotland) Act 2000 (asp 4)), that the subjects of the transfer are not, or were not at the time of the dealing, a matrimonial home in relation to which a spouse of the transferor has or had occupancy rights; or
   - (ii) a renunciation of occupancy rights or consent to the dealing which bears to have been properly made or given by the non-entitled spouse or a person acting on behalf of the non-entitled spouse under a power of attorney or as a guardian (within the meaning of the Adults with Incapacity (Scotland) Act 2000 (asp 4)).
-- (f)[^c737200] the entitled spouse has permanently ceased to be entitled to occupy the matrimonial home, and at any time thereafter a continuous period of 2[^key-af971980302f72ab4f2a169d8d06c670] years has elapsed during which the non-entitled spouse has not occupied the matrimonial home.
+- (f)[^c737200] the entitled spouse has permanently ceased to be entitled to occupy the matrimonial home, and at any time thereafter a continuous period of 2[^c-af971980302f72ab4f2a169d8d06c670] years has elapsed during which the non-entitled spouse has not occupied the matrimonial home.
 
 (4)[^c737201] The Land Registration (Scotland) Act 1979 [^c737202]shall be amended as follows—
 
@@ -278,14 +278,14 @@ Provided that an interim order may be made only if the non-applicant spouse has 
 
 ### 7. Dispensation by court with spouse’s consent to dealing.
 
-(1) Subject to subsections (1A) to (1D) below,[^key-2a1f636eb107389831347ff92a07f9e8] The court may, on the application of an entitled spouse or any other person having an interest, make an order dispensing with the consent of a non-entitled spouse to a dealing which has taken place or a proposed dealing, if—
+(1) Subject to subsections (1A) to (1D) below,[^c-2a1f636eb107389831347ff92a07f9e8] The court may, on the application of an entitled spouse or any other person having an interest, make an order dispensing with the consent of a non-entitled spouse to a dealing which has taken place or a proposed dealing, if—
 
 - (a) such consent is unreasonably withheld;
 - (b) such consent cannot be given by reason of physical or mental disability;
 - (c) the non-entitled spouse cannot be found after reasonable steps have been taken to trace him or her; or
 - (d) the non-entitled spouse is under legal disability by reason of nonage[^c737204].
 
-(1A)[^key-46a63935a7c6efc4e688dd4e743dc1cb] Subsection (1B) applies if, in relation to a proposed sale—
+(1A)[^c-46a63935a7c6efc4e688dd4e743dc1cb] Subsection (1B) applies if, in relation to a proposed sale—
 
 - (a) negotiations with a third party have not begun; or
 - (b) negotiations have begun but a price has not been agreed.
@@ -309,7 +309,7 @@ Provided that an interim order may be made only if the non-applicant spouse has 
 
 (3) The court, in considering whether to make an order under subsection (1) above, shall have regard to all the circumstances of the case including the matters specified in paragraphs (a) to (e) of section 3(3) of this Act.
 
-(3A)[^key-8698eb209869665866f0d8efdf80f2f7] If the court refuses an application for an order under subsection (1), it may make an order requiring a non-entitled spouse who is or becomes the occupier of the matrimonial home—
+(3A)[^c-8698eb209869665866f0d8efdf80f2f7] If the court refuses an application for an order under subsection (1), it may make an order requiring a non-entitled spouse who is or becomes the occupier of the matrimonial home—
 
 - (a) to make such payments to the owner of the home in respect of that spouse's occupation of it as may be specified in the order;
 - (b) to comply with such other conditions relating to that spouse's occupation of the matrimonial home as may be so specified.
@@ -323,7 +323,7 @@ the action shall be sisted until the conclusion of the proceedings on the applic
 
 (5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c737205]
 
-### 8. Interests of creditors[^key-7f8b5a6dd12374923d2bb19db982717b]
+### 8. Interests of creditors[^c-7f8b5a6dd12374923d2bb19db982717b]
 
 (1) The rights of a third party with an interest in the matrimonial home as a creditor under a secured loan in relation to the non-performance of any obligation under the loan shall not be prejudiced by reason only of the occupancy rights of the non-entitled spouse; but where a non-entitled spouse has or obtains occupation of a matrimonial home and—
 
@@ -332,19 +332,19 @@ the action shall be sisted until the conclusion of the proceedings on the applic
 
 the court may, on the application of the third party, make an order requiring the non-entitled spouse to make any payment due by the entitled spouse in respect of the loan.
 
-(2)[^key-0c7309e1aeb6ff517aeb758128321594] This section shall not apply to secured loans in respect of which the security was granted prior to the commencement of section 13 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1985[^c737206] unless the third party in granting the secured loan acted in good faith and . . . [^c737207] there was produced to the third party by the entitled spouse—
+(2)[^c-0c7309e1aeb6ff517aeb758128321594] This section shall not apply to secured loans in respect of which the security was granted prior to the commencement of section 13 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1985[^c737206] unless the third party in granting the secured loan acted in good faith and . . . [^c737207] there was produced to the third party by the entitled spouse—
 
-- (a) a written declaration signed[^key-2f39cde0e1404c5a4a44403e9306c986] by the entitled spouse declaring that there is no non-entitled spouse; or
+- (a) a written declaration signed[^c-2f39cde0e1404c5a4a44403e9306c986] by the entitled spouse declaring that there is no non-entitled spouse; or
 - (b) a renunciation of occupancy rights or consent to the taking of the loan which bears to have been properly made or given by the non-entitled spouse.
 
-(2A)[^key-0c7309e1aeb6ff517aeb758128321594][^c737208] This section shall not apply to secured loans in respect of which the security was granted after the commencement of section 13 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 unless the third party in granting the secured loan acted in good faith and . . . [^c737209] there was produced to the third party by the grantor—
+(2A)[^c-0c7309e1aeb6ff517aeb758128321594][^c737208] This section shall not apply to secured loans in respect of which the security was granted after the commencement of section 13 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 unless the third party in granting the secured loan acted in good faith and . . . [^c737209] there was produced to the third party by the grantor—
 
-- (a) a written declaration signed[^key-080df6ba76f407cc1779f3f311527006] by the grantor declaring that the security subjects are not or were not at the time of the granting of the security[^c737210] a matrimonial home in relation to which a spouse of the grantor has or had[^c737211] occupancy rights; or
+- (a) a written declaration signed[^c-080df6ba76f407cc1779f3f311527006] by the grantor declaring that the security subjects are not or were not at the time of the granting of the security[^c737210] a matrimonial home in relation to which a spouse of the grantor has or had[^c737211] occupancy rights; or
 - (b) a renunciation of occupancy rights or consent to the granting of the security which bears to have been properly made or given by the non-entitled spouse.
 
 (2B) for the purposes of subsections (2) and (2A) above, the time of granting a security, in the case of a heritable security, is the date of delivery of the deed creating the security.
 
-(2C)[^key-a339249173e195cc17ac62d2baebc93a] For the purposes of subsection (2A) above, the time of granting a security, in the case of a statutory pledge, is—
+(2C)[^c-a339249173e195cc17ac62d2baebc93a] For the purposes of subsection (2A) above, the time of granting a security, in the case of a statutory pledge, is—
 
 - (a) the date of delivery of the constitutive document of the statutory pledge, or
 - (b) where the statutory pledge is granted in an amendment document, the date of delivery of that document.
@@ -361,7 +361,7 @@ the court may, on the application of the third party, make an order requiring th
 - (a) any reference to the entitled spouse and to the non-entitled spouse shall be construed as a reference to a spouse who has entered into or, as the case may be, proposes to enter into a dealing and to the other spouse respectively; and
 - (b) in paragraph (b) of section 7(4) the reference to occupancy rights shall be construed as a reference to any rights in the matrimonial home.
 
-## Reckoning of non-cohabitation periods in sections 1 and 6[^key-5df5910c968c8883dc85134a84abed28]
+## Reckoning of non-cohabitation periods in sections 1 and 6[^c-5df5910c968c8883dc85134a84abed28]
 
 ### 9A. Effect of court action under section 3, 4 or 5 on reckoning of periods in sections 1 and 6
 
@@ -425,18 +425,18 @@ may, on granting decree or within such period as the court may specify on granti
 (7) It shall not be competent for a non-entitled spouse to apply for an order under subsection (1) above where the matrimonial home—
 
 - (a) is let to the entitled spouse by his or her employer as an incident of employment, and the lease is subject to a requirement that the entitled spouse must reside therein;
-- (b)[^key-f7b652f6a3063ad426147ddadbc0e248] is on or pertains to land comprised in an agricultural lease;
+- (b)[^c-f7b652f6a3063ad426147ddadbc0e248] is on or pertains to land comprised in an agricultural lease;
 - (c) is on or pertains to a croft or the subject of a cottar or the holding of a landholder or a statutory small tenant;
 - (d) is let on a long lease;
 - (e) is part of the tenancy land of a tenant-at-will.
 
 (8) In subsection (6) above—
 
-- “[^key-da33e21f4aaab0f087381e731f9f8c41] **agricultural lease** ” means a lease constituting a 1991 Act tenancy within the meaning of the Agricultural Holdings (Scotland) Act 2003 (asp 11) or a lease constituting a limited duration tenancy , a short limited duration tenancy, a modern limited duration tenancy or a repairing tenancy[^key-7100f2174e662f045ed45cdfb3d5acf1] (within the meaning of that Act);
+- “[^c-da33e21f4aaab0f087381e731f9f8c41] **agricultural lease** ” means a lease constituting a 1991 Act tenancy within the meaning of the Agricultural Holdings (Scotland) Act 2003 (asp 11) or a lease constituting a limited duration tenancy , a short limited duration tenancy, a modern limited duration tenancy or a repairing tenancy[^c-7100f2174e662f045ed45cdfb3d5acf1] (within the meaning of that Act);
 - “**cottar**” has the same meaning as in section 28(4) of the [^c737237]Crofters (Scotland) Act 1955;
 - “**croft**” has the same meaning as in the Crofters (Scotland) Act 1955;
 - “**holding**”, in relation to a landholder and a statutory small tenant, “**landholder**” and “**statutory small tenant**” have the same meanings respectively as in sections 2(1), 2(2) and 32(1) of the [^c737238]Small Landholders (Scotland) Act 1911;
-- “**long lease**” has the same meaning as in section 9(2) of the Land Registration[^key-3f3a97a1c9ae3625d52b2914e0560a79] etc. (Scotland) Act 2012 (asp 5);
+- “**long lease**” has the same meaning as in section 9(2) of the Land Registration[^c-3f3a97a1c9ae3625d52b2914e0560a79] etc. (Scotland) Act 2012 (asp 5);
 - “**tenant-at-will**” has the same meaning as in section 20(8) of the Land Registration (Scotland) Act 1979.
 
 (9) Where both spouses are joint or common tenants of a matrimonial home, the court may, on the application of one of the spouses, make an order vesting the tenancy in that spouse solely and providing, subject to subsection (11) below, for the payment by the applicant to the other spouse of such compensation as seems just and reasonable in the circumstances of the case.
@@ -454,7 +454,7 @@ may, on granting decree or within such period as the court may specify on granti
 
   - (iii) paragraphs (c) and (e) shall be omitted.
 
-(11)[^key-b2e31883dae0fd7c986a63a95b076d9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-b2e31883dae0fd7c986a63a95b076d9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (12) In the Tenants’ Rights, Etc. (Scotland) Act 1980 [^c737242]—
 
@@ -467,17 +467,17 @@ may, on granting decree or within such period as the court may specify on granti
 
 (1) It shall not be incompetent for the court to entertain an application by a spouse for a matrimonial interdict by reason only that the spouses are living together as man and wife.
 
-(2) In this section [^key-a147957c13f49f55df6991f00846214e]... of this Act—
+(2) In this section [^c-a147957c13f49f55df6991f00846214e]... of this Act—
 
 - “**matrimonial interdict**” means an interdict including an interim interdict which—
 - (a) restrains or prohibits any conduct of one spouse towards the other spouse or a child of the family, or
-- (b)[^key-dddae35bd996eeffaa82723b93c8070f] subject to subsection (3), prohibits a spouse from entering or remaining in—
+- (b)[^c-dddae35bd996eeffaa82723b93c8070f] subject to subsection (3), prohibits a spouse from entering or remaining in—
   - (i) a matrimonial home;
   - (ii) any other residence occupied by the applicant spouse;
   - (iii) any place of work of the applicant spouse;
   - (iv) any school attended by a child in the permanent or temporary care of the applicant spouse.
 
-(3)[^key-7fa67d83334b000ff768de5b724f781b] Subsection (4) applies if in relation to a matrimonial home the non-applicant spouse—
+(3)[^c-7fa67d83334b000ff768de5b724f781b] Subsection (4) applies if in relation to a matrimonial home the non-applicant spouse—
 
 - (a) is an entitled spouse; or
 - (b) has occupancy rights.
@@ -489,17 +489,17 @@ may, on granting decree or within such period as the court may specify on granti
 - (a) the interdict is ancillary to an exclusion order; or
 - (b) by virtue of section 1(3), the court refuses leave to exercise occupancy rights.
 
-(6) In this section [^key-25d3aa353b7bf19c5cdaadb20228d127]..., “ **applicant spouse** ” means the spouse who has applied for the interdict; and “ **non-applicant spouse** ” shall be construed accordingly.
+(6) In this section [^c-25d3aa353b7bf19c5cdaadb20228d127]..., “ **applicant spouse** ” means the spouse who has applied for the interdict; and “ **non-applicant spouse** ” shall be construed accordingly.
 
-### 15. Attachment of powers of arrest to matrimonial interdicts.[^key-eb12dcb3535c0dbaf7e7cdd49fec0ef5]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 16. Police powers after arrest.[^key-eb12dcb3535c0dbaf7e7cdd49fec0ef5]
+### 15. Attachment of powers of arrest to matrimonial interdicts.[^c-eb12dcb3535c0dbaf7e7cdd49fec0ef5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Procedure after arrest.[^key-eb12dcb3535c0dbaf7e7cdd49fec0ef5][^key-da51cf3b4cb89dcc913716d28dd287ed]
+### 16. Police powers after arrest.[^c-eb12dcb3535c0dbaf7e7cdd49fec0ef5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Procedure after arrest.[^c-eb12dcb3535c0dbaf7e7cdd49fec0ef5][^c-da51cf3b4cb89dcc913716d28dd287ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -507,19 +507,19 @@ may, on granting decree or within such period as the court may specify on granti
 
 ### 18. Occupancy rights of cohabiting couples.
 
-(1) If a man and a woman are living with each other as if they were man and wife or two persons of the same sex are living together as if they were civil partners[^key-3a211ee809490b10b07e35b3f2163c73] (“in either case[^key-d47a28770e2e7626f554ad9762616be5]a cohabiting couple”) in a house which, apart from the provisions of this section—
+(1) If a man and a woman are living with each other as if they were man and wife or two persons of the same sex are living together as if they were civil partners[^c-3a211ee809490b10b07e35b3f2163c73] (“in either case[^c-d47a28770e2e7626f554ad9762616be5]a cohabiting couple”) in a house which, apart from the provisions of this section—
 
 - (a) one of them (an “**entitled partner**”) is entitled, or permitted by a third party, to occupy; and
 - (b) the other (a “**non-entitled partner**”) is not so entitled or permitted to occupy,
 
-the court may, on the application of the non-entitled partner, if it appears that the entitled partner and the non-entitled partner[^key-45dad0c4e260d7128782498fbf6ca157] are a cohabiting couple in that house, grant occupancy rights therein to the applicant for such period, not exceeding 6[^c737258] months, as the court may specify:
+the court may, on the application of the non-entitled partner, if it appears that the entitled partner and the non-entitled partner[^c-45dad0c4e260d7128782498fbf6ca157] are a cohabiting couple in that house, grant occupancy rights therein to the applicant for such period, not exceeding 6[^c737258] months, as the court may specify:
 
 Provided that the court may extend the said period for a further period or periods, no such period exceeding 6 months.
 
-(2) In determining whether for the purpose of subsection (1) above two persons[^key-4cf61525d9d2f279cd89961b19a1c1ac] are a cohabiting couple the court shall have regard to all the circumstances of the case including—
+(2) In determining whether for the purpose of subsection (1) above two persons[^c-4cf61525d9d2f279cd89961b19a1c1ac] are a cohabiting couple the court shall have regard to all the circumstances of the case including—
 
 - (a) the time for which it appears they have been living together; and
-- (b) whether there is any child—[^key-36259463652c0eeb62d4a8db6ee4a2f5]
+- (b) whether there is any child—[^c-36259463652c0eeb62d4a8db6ee4a2f5]
   - (i) of whom they are the parents; or
   - (ii) who they have treated as a child of theirs.
 
@@ -533,7 +533,7 @@ Provided that the court may extend the said period for a further period or perio
   - section 3, except subsection (1)(a);
   - section 4;
   - in section 5(1), the words from the beginning to “**Act**” where it first occurs;
-  - section 13[^key-71b1233c42af194c22b1aa2947d60613]
+  - section 13[^c-71b1233c42af194c22b1aa2947d60613]
   - and
   - section 22,
 
@@ -557,7 +557,7 @@ and any reference in these provisions to a matrimonial home shall be construed a
 
 “**entitled partner**” includes a partner who is entitled, or permitted by a third party, to occupy the house along with an individual who is not the other partner only if that individual has waived his or her right of occupation in favour of the partner so entitled or permitted.
 
-## Domestic interdicts[^key-c39d6c982c45b523872083160123f027]
+## Domestic interdicts[^c-c39d6c982c45b523872083160123f027]
 
 ### 18A. Meaning of “domestic interdict”
 
@@ -622,13 +622,13 @@ Section 19(10) of the Conveyancing and Feudal Reform (Scotland) Act 1970 [^c7372
 
 .
 
-### 21. Procedural provision[^key-eddd5a63a2544b27d77dae8138000c60]
+### 21. Procedural provision[^c-eddd5a63a2544b27d77dae8138000c60]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 22. Interpretation.
 
-(1)[^key-f31d6ad840c075afd930a2c9f3ef453e] In this Act—
+(1)[^c-f31d6ad840c075afd930a2c9f3ef453e] In this Act—
 
 - “**caravan**” means a caravan which is mobile or affixed to the land;
 - “**child of the family**” includes any child or grandchild of either spouse, and any person who has been brought up or treated[^c737266] by either spouse as if he or she were a child of that spouse, whatever the age of such a child, grandchild or person may be;
@@ -638,13 +638,13 @@ Section 19(10) of the Conveyancing and Feudal Reform (Scotland) Act 1970 [^c7372
   - (b) is reasonably necessary to enable the home to be used as a family residence,
 
   but does not include any vehicle, caravan or houseboat, or such other structure as is mentioned in the definition of “matrimonial home”;
-- “**matrimonial home**” means subject to subsection (2),[^key-f6751dae2dbc72ae76fd0cab6e19e91d]any house, caravan, houseboat or other structure which has been provided or has been made available by one or both of the spouses as, or has become, a family residence and includes any garden or other ground or building [^key-f6ef875ba2fb56d5cb2a933bd44d2771]... usually occupied with, or otherwise required for the amenity or convenience of, the house, caravan, houseboat or other structure; but does not include a residence provided or made available by[^c737267] a person for one[^key-a9beaa67a853ba5bcfd2eb251040322d] spouse to reside in, whether with any child of the family or not, separately from the other spouse.
+- “**matrimonial home**” means subject to subsection (2),[^c-f6751dae2dbc72ae76fd0cab6e19e91d]any house, caravan, houseboat or other structure which has been provided or has been made available by one or both of the spouses as, or has become, a family residence and includes any garden or other ground or building [^c-f6ef875ba2fb56d5cb2a933bd44d2771]... usually occupied with, or otherwise required for the amenity or convenience of, the house, caravan, houseboat or other structure; but does not include a residence provided or made available by[^c737267] a person for one[^c-a9beaa67a853ba5bcfd2eb251040322d] spouse to reside in, whether with any child of the family or not, separately from the other spouse.
 - “**occupancy rights**” has, subject to section 18(6) of this Act, the meaning assigned by section 1(4) of this Act;
 - “**the sheriff**” includes the sheriff having jurisdiction in the district where the matrimonial home is situated;
 - “**tenant**” includes sub-tenant and a statutory tenant as defined in section 3 of the Rent (Scotland) Act 1984 and a statutory assured tenant as defined in section 16(1) of the Housing (Scotland) Act 1988[^c737268] and “**tenancy**” shall be construed accordingly;
 - “entitled spouse” and “non-entitled spouse”, subject to sections 6(2) and 12(2) of this Act, have the meanings respectively assigned to them by section 1 of this Act.
 
-(2)[^key-3786bddc101dacb8b0f08dc388d08114] If—
+(2)[^c-3786bddc101dacb8b0f08dc388d08114] If—
 
 - (a) the tenancy of a matrimonial home is transferred from one spouse to the other by agreement or under any enactment; and
 - (b) following the transfer, the spouse to whom the tenancy was transferred occupies the home but the other spouse does not,
@@ -663,91 +663,91 @@ the home shall, on such transfer, cease to be a matrimonial home.
 
 [^c737181]: Commencement: Act partly in force at Royal Assent see s. 23(2): Act wholly in force at 1.9.1982.
 
-[^key-2fde65c985009c30a420ed0e07a828ed]: Modification: Act excluded by 2002 c. 29, s. 269A(5) (as inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 29(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/29/5), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/l))
+[^c-2fde65c985009c30a420ed0e07a828ed]: Modification: Act excluded by 2002 c. 29, s. 269A(5) (as inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 29(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/29/5), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/l))
 
 [^c737182]: Textual amendment: Words substituted by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 49:6)](https://www.legislation.gov.uk/ukpga/1985/73), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/1985/73/section/13/2), [60(6)](https://www.legislation.gov.uk/ukpga/1985/73/section/60/6)
 
 [^c737183]: Textual amendment: By [Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 49:6)](https://www.legislation.gov.uk/ukpga/1985/73), [ss. 13(3)](https://www.legislation.gov.uk/ukpga/1985/73/section/13/3), [60(6)](https://www.legislation.gov.uk/ukpga/1985/73/section/60/6) it is provided that s. 1(1A) is inserted after s. 1.
 
-[^key-1bc086a7f7a383753ceb683332baab1f]: Modification: S. 1(5)(6) modified (15.8.2003) by [Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)](https://www.legislation.gov.uk/asp/2003/4), [ss. 14(2)(a)](https://www.legislation.gov.uk/asp/2003/4/section/14/2/a), [21(2)](https://www.legislation.gov.uk/asp/2003/4/section/21/2); [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/384/article/2/a)
+[^c-1bc086a7f7a383753ceb683332baab1f]: Modification: S. 1(5)(6) modified (15.8.2003) by [Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)](https://www.legislation.gov.uk/asp/2003/4), [ss. 14(2)(a)](https://www.legislation.gov.uk/asp/2003/4/section/14/2/a), [21(2)](https://www.legislation.gov.uk/asp/2003/4/section/21/2); [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/384/article/2/a)
 
 [^c737184]: Textual amendment: Words added by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 49:6)](https://www.legislation.gov.uk/ukpga/1985/73), [ss. 13(4)](https://www.legislation.gov.uk/ukpga/1985/73/section/13/4), [60(6)](https://www.legislation.gov.uk/ukpga/1985/73/section/60/6)
 
-[^key-4945993e215c768b5faadc56a3dd8421]: Textual amendment: [S. 1(7)](https://www.legislation.gov.uk/ukpga/1981/59/section/1/7) [(8)](https://www.legislation.gov.uk/ukpga/1981/59/section/1/8) added (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 5](https://www.legislation.gov.uk/asp/2006/2/section/5), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/212/article/3))
+[^c-4945993e215c768b5faadc56a3dd8421]: Textual amendment: [S. 1(7)](https://www.legislation.gov.uk/ukpga/1981/59/section/1/7) [(8)](https://www.legislation.gov.uk/ukpga/1981/59/section/1/8) added (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 5](https://www.legislation.gov.uk/asp/2006/2/section/5), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/212/article/3))
 
 [^c737185]: Modification: S. 2(1)(2)(5)(*a*)(9) applied with modifications by [Family Law (Scotland) Act 1985 (c. 37, SIF 49:3)](https://www.legislation.gov.uk/ukpga/1985/37), [ss.14(5)](https://www.legislation.gov.uk/ukpga/1985/37/section/14/5)(*a*), 29(4)
 
-[^key-a7d9cd3f011179129542dfec75aa1a4b]: Textual amendment: [S. 2(8A)](https://www.legislation.gov.uk/ukpga/1981/59/section/2/8A) inserted (1.4.2025) by [Moveable Transactions (Scotland) Act 2023 (asp 3)](https://www.legislation.gov.uk/asp/2023/3), [ss. 56(2)](https://www.legislation.gov.uk/asp/2023/3/section/56/2), [121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2); [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
+[^c-a7d9cd3f011179129542dfec75aa1a4b]: Textual amendment: [S. 2(8A)](https://www.legislation.gov.uk/ukpga/1981/59/section/2/8A) inserted (1.4.2025) by [Moveable Transactions (Scotland) Act 2023 (asp 3)](https://www.legislation.gov.uk/asp/2023/3), [ss. 56(2)](https://www.legislation.gov.uk/asp/2023/3/section/56/2), [121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2); [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
 
-[^key-95684019bd6c2350d94d8b9e5dda251e]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/ukpga/1981/59/section/3/1) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/asp/2006/2/schedule/2/paragraph/4/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-95684019bd6c2350d94d8b9e5dda251e]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/ukpga/1981/59/section/3/1) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/asp/2006/2/schedule/2/paragraph/4/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-5aaa8f9b8f95a92e9d43d27df19627a9]: Textual amendment: Words in [s. 3(2)](https://www.legislation.gov.uk/ukpga/1981/59/section/3/2) inserted (1.4.2025) by [Moveable Transactions (Scotland) Act 2023 (asp 3)](https://www.legislation.gov.uk/asp/2023/3), [ss. 56(3)](https://www.legislation.gov.uk/asp/2023/3/section/56/3), [121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2); [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
+[^c-5aaa8f9b8f95a92e9d43d27df19627a9]: Textual amendment: Words in [s. 3(2)](https://www.legislation.gov.uk/ukpga/1981/59/section/3/2) inserted (1.4.2025) by [Moveable Transactions (Scotland) Act 2023 (asp 3)](https://www.legislation.gov.uk/asp/2023/3), [ss. 56(3)](https://www.legislation.gov.uk/asp/2023/3/section/56/3), [121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2); [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
 
-[^key-03c18eba6dd5a13a3812c04fad4f4d69]: Textual amendment: [S. 3(9)](https://www.legislation.gov.uk/ukpga/1981/59/section/3/9) inserted (1.4.2025) by [Moveable Transactions (Scotland) Act 2023 (asp 3)](https://www.legislation.gov.uk/asp/2023/3), [ss. 56(4)](https://www.legislation.gov.uk/asp/2023/3/section/56/4), [121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2); [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
+[^c-03c18eba6dd5a13a3812c04fad4f4d69]: Textual amendment: [S. 3(9)](https://www.legislation.gov.uk/ukpga/1981/59/section/3/9) inserted (1.4.2025) by [Moveable Transactions (Scotland) Act 2023 (asp 3)](https://www.legislation.gov.uk/asp/2023/3), [ss. 56(4)](https://www.legislation.gov.uk/asp/2023/3/section/56/4), [121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2); [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
 
 [^c737189]: Textual amendment: Words inserted by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 49:6)](https://www.legislation.gov.uk/ukpga/1985/73), [ss. 13(5)](https://www.legislation.gov.uk/ukpga/1985/73/section/13/5), [60(6)](https://www.legislation.gov.uk/ukpga/1985/73/section/60/6)
 
 [^c737190]: Marginal citation: [1949 c. 75](https://www.legislation.gov.uk/ukpga/1949/75).
 
-[^key-8fdb8ed3ece5a946cb287e2bec9484fd]: Textual amendment: [S. 6(1A)](https://www.legislation.gov.uk/ukpga/1981/59/section/6/1A) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 6(2)](https://www.legislation.gov.uk/asp/2006/2/section/6/2), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/212/article/3))
+[^c-8fdb8ed3ece5a946cb287e2bec9484fd]: Textual amendment: [S. 6(1A)](https://www.legislation.gov.uk/ukpga/1981/59/section/6/1A) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 6(2)](https://www.legislation.gov.uk/asp/2006/2/section/6/2), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/212/article/3))
 
-[^key-940d459409cdafad105df23736e6e213]: Textual amendment: Words in [s. 6(2)](https://www.legislation.gov.uk/ukpga/1981/59/section/6/2) inserted (1.4.2025) by [Moveable Transactions (Scotland) Act 2023 (asp 3)](https://www.legislation.gov.uk/asp/2023/3), [ss. 56(6)](https://www.legislation.gov.uk/asp/2023/3/section/56/6), [121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2); [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
+[^c-940d459409cdafad105df23736e6e213]: Textual amendment: Words in [s. 6(2)](https://www.legislation.gov.uk/ukpga/1981/59/section/6/2) inserted (1.4.2025) by [Moveable Transactions (Scotland) Act 2023 (asp 3)](https://www.legislation.gov.uk/asp/2023/3), [ss. 56(6)](https://www.legislation.gov.uk/asp/2023/3/section/56/6), [121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2); [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
 
 [^c737191]: Marginal citation: [1845 c. 19](https://www.legislation.gov.uk/ukpga/1845/19).
 
 [^c737192]: Textual amendment: Word repealed by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 49:6)](https://www.legislation.gov.uk/ukpga/1985/73), [ss. 13(6)](https://www.legislation.gov.uk/ukpga/1985/73/section/13/6)(*a*), 60(6)
 
-[^key-33748f82a118db5f908864075c04f1b7]: Modification: S. 6(3)(e) modified (15.8.2003) by [Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)](https://www.legislation.gov.uk/asp/2003/4), [ss. 14(2)(a)](https://www.legislation.gov.uk/asp/2003/4/section/14/2/a), [21(2)](https://www.legislation.gov.uk/asp/2003/4/section/21/2); [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/384/article/2/a)
+[^c-33748f82a118db5f908864075c04f1b7]: Modification: S. 6(3)(e) modified (15.8.2003) by [Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)](https://www.legislation.gov.uk/asp/2003/4), [ss. 14(2)(a)](https://www.legislation.gov.uk/asp/2003/4/section/14/2/a), [21(2)](https://www.legislation.gov.uk/asp/2003/4/section/21/2); [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/384/article/2/a)
 
 [^c737193]: Textual amendment: Words substituted by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 49:6)](https://www.legislation.gov.uk/ukpga/1985/73), [ss. 13(6)](https://www.legislation.gov.uk/ukpga/1985/73/section/13/6)(*b*)(i), 60(6)
 
-[^key-b53c1cd64cb3892c8ecf6366dd76ee2b]: Textual amendment: Words in [s. 6(3)(e)](https://www.legislation.gov.uk/ukpga/1981/59/section/6/3/e) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 6(3)(a)(i)](https://www.legislation.gov.uk/asp/2006/2/section/6/3/a/i), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/212/article/3))
+[^c-b53c1cd64cb3892c8ecf6366dd76ee2b]: Textual amendment: Words in [s. 6(3)(e)](https://www.legislation.gov.uk/ukpga/1981/59/section/6/3/e) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 6(3)(a)(i)](https://www.legislation.gov.uk/asp/2006/2/section/6/3/a/i), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/212/article/3))
 
 [^c737194]: Textual amendment: Words repealed by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c. 40, SIF 76:2, 68A:2)](https://www.legislation.gov.uk/ukpga/1990/40), [s. 74](https://www.legislation.gov.uk/ukpga/1990/40/section/74), [Sch. 8 para. 31(1)(a)](https://www.legislation.gov.uk/ukpga/1990/40/schedule/8/paragraph/31/1/a), [Sch. 9](https://www.legislation.gov.uk/ukpga/1990/40/schedule/9)
 
-[^key-8dd00050f6d469f182431670ee70627a]: Textual amendment: Words in [s. 6(3)(e)](https://www.legislation.gov.uk/ukpga/1981/59/section/6/3/e) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 6(3)(a)(ii)](https://www.legislation.gov.uk/asp/2006/2/section/6/3/a/ii), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/212/article/3))
+[^c-8dd00050f6d469f182431670ee70627a]: Textual amendment: Words in [s. 6(3)(e)](https://www.legislation.gov.uk/ukpga/1981/59/section/6/3/e) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 6(3)(a)(ii)](https://www.legislation.gov.uk/asp/2006/2/section/6/3/a/ii), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/212/article/3))
 
 [^c737200]: Textual amendment: S. 6(3)(*f*) added by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 49:6)](https://www.legislation.gov.uk/ukpga/1985/73), [ss. 13(6)](https://www.legislation.gov.uk/ukpga/1985/73/section/13/6)(*c*), 60(6)
 
-[^key-af971980302f72ab4f2a169d8d06c670]: Textual amendment: Word in [s. 6(3)(f)](https://www.legislation.gov.uk/ukpga/1981/59/section/6/3/f) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 6(3)(b)](https://www.legislation.gov.uk/asp/2006/2/section/6/3/b), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/212/article/3))
+[^c-af971980302f72ab4f2a169d8d06c670]: Textual amendment: Word in [s. 6(3)(f)](https://www.legislation.gov.uk/ukpga/1981/59/section/6/3/f) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 6(3)(b)](https://www.legislation.gov.uk/asp/2006/2/section/6/3/b), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/212/article/3))
 
 [^c737201]: Modification: The text of ss. 6(4), 13(12)(*a*), 20 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
 
 [^c737202]: Marginal citation: [1979 c. 33](https://www.legislation.gov.uk/ukpga/1979/33).
 
-[^key-2a1f636eb107389831347ff92a07f9e8]: Textual amendment: Words in [s. 7(1)](https://www.legislation.gov.uk/ukpga/1981/59/section/7/1) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 7(a)](https://www.legislation.gov.uk/asp/2006/2/section/7/a), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-2a1f636eb107389831347ff92a07f9e8]: Textual amendment: Words in [s. 7(1)](https://www.legislation.gov.uk/ukpga/1981/59/section/7/1) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 7(a)](https://www.legislation.gov.uk/asp/2006/2/section/7/a), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
 [^c737204]: Textual amendment: Words in s. 7(1)(d) substituted by [Age of Legal Capacity (Scotland) Act 1991 (c. 50, SIF 49:8)](https://www.legislation.gov.uk/ukpga/1991/50), [s. 10(1)](https://www.legislation.gov.uk/ukpga/1991/50/section/10/1), [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/1991/50/schedule/1/paragraph/37)
 
-[^key-46a63935a7c6efc4e688dd4e743dc1cb]: Textual amendment: [S. 7(1A)-(1D)](https://www.legislation.gov.uk/ukpga/1981/59/section/7) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 7(b)](https://www.legislation.gov.uk/asp/2006/2/section/7/b), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-46a63935a7c6efc4e688dd4e743dc1cb]: Textual amendment: [S. 7(1A)-(1D)](https://www.legislation.gov.uk/ukpga/1981/59/section/7) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 7(b)](https://www.legislation.gov.uk/asp/2006/2/section/7/b), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-8698eb209869665866f0d8efdf80f2f7]: Textual amendment: [S. 7(3A)](https://www.legislation.gov.uk/ukpga/1981/59/section/7/3A) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 7(c)](https://www.legislation.gov.uk/asp/2006/2/section/7/c), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-8698eb209869665866f0d8efdf80f2f7]: Textual amendment: [S. 7(3A)](https://www.legislation.gov.uk/ukpga/1981/59/section/7/3A) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 7(c)](https://www.legislation.gov.uk/asp/2006/2/section/7/c), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
 [^c737205]: Textual amendment: S. 7(5) repealed by [Family Law (Scotland) Act 1985 (c. 37, SIF 49:3)](https://www.legislation.gov.uk/ukpga/1985/37), [ss. 28(2)](https://www.legislation.gov.uk/ukpga/1985/37/section/28/2), [29(4)](https://www.legislation.gov.uk/ukpga/1985/37/section/29/4), [Sch. 2](https://www.legislation.gov.uk/ukpga/1985/37/schedule/2)
 
-[^key-7f8b5a6dd12374923d2bb19db982717b]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/1981/59/section/8) heading substituted (1.4.2025) by [Moveable Transactions (Scotland) Act 2023 (asp 3)](https://www.legislation.gov.uk/asp/2023/3), [ss. 56(9)](https://www.legislation.gov.uk/asp/2023/3/section/56/9), [121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2); [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
+[^c-7f8b5a6dd12374923d2bb19db982717b]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/1981/59/section/8) heading substituted (1.4.2025) by [Moveable Transactions (Scotland) Act 2023 (asp 3)](https://www.legislation.gov.uk/asp/2023/3), [ss. 56(9)](https://www.legislation.gov.uk/asp/2023/3/section/56/9), [121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2); [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
 
-[^key-0c7309e1aeb6ff517aeb758128321594]: Modification: S. 8(2)(2A) modified (15.8.2003) by [Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)](https://www.legislation.gov.uk/asp/2003/4), [ss. 14(2)(a)](https://www.legislation.gov.uk/asp/2003/4/section/14/2/a), [21(2)](https://www.legislation.gov.uk/asp/2003/4/section/21/2); [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/384/article/2/a)
+[^c-0c7309e1aeb6ff517aeb758128321594]: Modification: S. 8(2)(2A) modified (15.8.2003) by [Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)](https://www.legislation.gov.uk/asp/2003/4), [ss. 14(2)(a)](https://www.legislation.gov.uk/asp/2003/4/section/14/2/a), [21(2)](https://www.legislation.gov.uk/asp/2003/4/section/21/2); [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/384/article/2/a)
 
 [^c737206]: Textual amendment: Words inserted by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 49:6)](https://www.legislation.gov.uk/ukpga/1985/73), [ss. 13(7)](https://www.legislation.gov.uk/ukpga/1985/73/section/13/7), [60(6)](https://www.legislation.gov.uk/ukpga/1985/73/section/60/6)
 
 [^c737207]: Textual amendment: Words repealed by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c. 40, SIF 76:2, 68A:2)](https://www.legislation.gov.uk/ukpga/1990/40), [s. 74](https://www.legislation.gov.uk/ukpga/1990/40/section/74), [Sch. 8 para. 31(2)(a)](https://www.legislation.gov.uk/ukpga/1990/40/schedule/8/paragraph/31/2/a), [Sch. 9](https://www.legislation.gov.uk/ukpga/1990/40/schedule/9)
 
-[^key-2f39cde0e1404c5a4a44403e9306c986]: Textual amendment: Words in [s. 8(2)(a)](https://www.legislation.gov.uk/ukpga/1981/59/section/8/2/a) substituted (30.6.2006) by [Family Law (Scotland) Act 2006 (Consequential Modifications) Order 2006 (S.S.I. 2006/384)](https://www.legislation.gov.uk/ssi/2006/384), [arts. 1](https://www.legislation.gov.uk/ssi/2006/384/article/1), [5](https://www.legislation.gov.uk/ssi/2006/384/article/5)
+[^c-2f39cde0e1404c5a4a44403e9306c986]: Textual amendment: Words in [s. 8(2)(a)](https://www.legislation.gov.uk/ukpga/1981/59/section/8/2/a) substituted (30.6.2006) by [Family Law (Scotland) Act 2006 (Consequential Modifications) Order 2006 (S.S.I. 2006/384)](https://www.legislation.gov.uk/ssi/2006/384), [arts. 1](https://www.legislation.gov.uk/ssi/2006/384/article/1), [5](https://www.legislation.gov.uk/ssi/2006/384/article/5)
 
 [^c737208]: Textual amendment: S. 8(2A)(2B) inserted by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 49:6)](https://www.legislation.gov.uk/ukpga/1985/73), [ss. 13(8)](https://www.legislation.gov.uk/ukpga/1985/73/section/13/8), [60(6)](https://www.legislation.gov.uk/ukpga/1985/73/section/60/6)
 
 [^c737209]: Textual amendment: Words repealed by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c. 40, SIF 76:2, 68A:2)](https://www.legislation.gov.uk/ukpga/1990/40), [s. 74](https://www.legislation.gov.uk/ukpga/1990/40/section/74), [Sch. 8 para. 31(2)(b)(i)](https://www.legislation.gov.uk/ukpga/1990/40/schedule/8/paragraph/31/2/b/i), [Sch. 9](https://www.legislation.gov.uk/ukpga/1990/40/schedule/9)
 
-[^key-080df6ba76f407cc1779f3f311527006]: Textual amendment: Words in [s. 8(2A)(a)](https://www.legislation.gov.uk/ukpga/1981/59/section/8/2A/a) substituted (30.6.2006) by [Family Law (Scotland) Act 2006 (Consequential Modifications) Order 2006 (S.S.I. 2006/384)](https://www.legislation.gov.uk/ssi/2006/384), [arts. 1](https://www.legislation.gov.uk/ssi/2006/384/article/1), [5](https://www.legislation.gov.uk/ssi/2006/384/article/5)
+[^c-080df6ba76f407cc1779f3f311527006]: Textual amendment: Words in [s. 8(2A)(a)](https://www.legislation.gov.uk/ukpga/1981/59/section/8/2A/a) substituted (30.6.2006) by [Family Law (Scotland) Act 2006 (Consequential Modifications) Order 2006 (S.S.I. 2006/384)](https://www.legislation.gov.uk/ssi/2006/384), [arts. 1](https://www.legislation.gov.uk/ssi/2006/384/article/1), [5](https://www.legislation.gov.uk/ssi/2006/384/article/5)
 
 [^c737210]: Textual amendment: Words inserted by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c. 40, SIF 76:2, 68A:2)](https://www.legislation.gov.uk/ukpga/1990/40), [s. 74](https://www.legislation.gov.uk/ukpga/1990/40/section/74), [Sch. 8 para. 31(2)(ii)](https://www.legislation.gov.uk/ukpga/1990/40/schedule/8/paragraph/31/2/ii)
 
 [^c737211]: Textual amendment: Words inserted by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c. 40, SIF 76:2, 68A:2)](https://www.legislation.gov.uk/ukpga/1990/40), [s. 74](https://www.legislation.gov.uk/ukpga/1990/40/section/74), [Sch. 8 para. 31(2)(iii)](https://www.legislation.gov.uk/ukpga/1990/40/schedule/8/paragraph/31/2/iii)
 
-[^key-a339249173e195cc17ac62d2baebc93a]: Textual amendment: [S. 8(2C)](https://www.legislation.gov.uk/ukpga/1981/59/section/8/2C) inserted (1.4.2025) by [Moveable Transactions (Scotland) Act 2023 (asp 3)](https://www.legislation.gov.uk/asp/2023/3), [ss. 56(7)](https://www.legislation.gov.uk/asp/2023/3/section/56/7), [121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2); [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
+[^c-a339249173e195cc17ac62d2baebc93a]: Textual amendment: [S. 8(2C)](https://www.legislation.gov.uk/ukpga/1981/59/section/8/2C) inserted (1.4.2025) by [Moveable Transactions (Scotland) Act 2023 (asp 3)](https://www.legislation.gov.uk/asp/2023/3), [ss. 56(7)](https://www.legislation.gov.uk/asp/2023/3/section/56/7), [121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2); [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
 
-[^key-5df5910c968c8883dc85134a84abed28]: Textual amendment: S. 9A and preceding cross-heading inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 8](https://www.legislation.gov.uk/asp/2006/2/section/8), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/212/article/3))
+[^c-5df5910c968c8883dc85134a84abed28]: Textual amendment: S. 9A and preceding cross-heading inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 8](https://www.legislation.gov.uk/asp/2006/2/section/8), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/212/article/3))
 
 [^c737212]: Textual amendment: S. 10repealed by [Bankruptcy (Scotland) Act 1985 (c. 66, SIF 66)](https://www.legislation.gov.uk/ukpga/1985/66), [ss. 75(2)](https://www.legislation.gov.uk/ukpga/1985/66/section/75/2), [78(5)](https://www.legislation.gov.uk/ukpga/1985/66/section/78/5), [Sch. 8](https://www.legislation.gov.uk/ukpga/1985/66/schedule/8)
 
@@ -761,19 +761,19 @@ the home shall, on such transfer, cease to be a matrimonial home.
 
 [^c737234]: Textual amendment: S. 13(2) substituted by [Family Law (Scotland) Act 1985 (c. 37, SIF 49:3)](https://www.legislation.gov.uk/ukpga/1985/37), [ss. 28(1)](https://www.legislation.gov.uk/ukpga/1985/37/section/28/1), [29(4)](https://www.legislation.gov.uk/ukpga/1985/37/section/29/4), [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/1985/37/schedule/1/paragraph/11)
 
-[^key-f7b652f6a3063ad426147ddadbc0e248]: Textual amendment: S. 13(7)(b) substituted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 5(a)](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/5/a) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-f7b652f6a3063ad426147ddadbc0e248]: Textual amendment: S. 13(7)(b) substituted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 5(a)](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/5/a) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
 
-[^key-da33e21f4aaab0f087381e731f9f8c41]: Textual amendment: Words in s. 13(8) substituted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 5(b)](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/5/b) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-da33e21f4aaab0f087381e731f9f8c41]: Textual amendment: Words in s. 13(8) substituted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 5(b)](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/5/b) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
 
-[^key-7100f2174e662f045ed45cdfb3d5acf1]: Textual amendment: Words in [s. 13(8)](https://www.legislation.gov.uk/ukpga/1981/59/section/13/8) substituted (30.11.2017) by [The Land Reform (Scotland) Act 2016 (Supplementary, Consequential, Transitory and Saving Provisions) Regulations 2017 (S.S.I. 2017/416)](https://www.legislation.gov.uk/ssi/2017/416), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1), [sch. 1 para. 4(2)](https://www.legislation.gov.uk/ssi/2017/416/schedule/1/paragraph/4/2) (with [sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2017/416/schedule/2/paragraph/4))
+[^c-7100f2174e662f045ed45cdfb3d5acf1]: Textual amendment: Words in [s. 13(8)](https://www.legislation.gov.uk/ukpga/1981/59/section/13/8) substituted (30.11.2017) by [The Land Reform (Scotland) Act 2016 (Supplementary, Consequential, Transitory and Saving Provisions) Regulations 2017 (S.S.I. 2017/416)](https://www.legislation.gov.uk/ssi/2017/416), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1), [sch. 1 para. 4(2)](https://www.legislation.gov.uk/ssi/2017/416/schedule/1/paragraph/4/2) (with [sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2017/416/schedule/2/paragraph/4))
 
 [^c737237]: Marginal citation: [1955 c. 21](https://www.legislation.gov.uk/ukpga/1955/21).
 
 [^c737238]: Marginal citation: [1911 c. 49](https://www.legislation.gov.uk/ukpga/1911/49).
 
-[^key-3f3a97a1c9ae3625d52b2914e0560a79]: Textual amendment: Words in s. 13(8) substituted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 5 paras. 22](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/22) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-3f3a97a1c9ae3625d52b2914e0560a79]: Textual amendment: Words in s. 13(8) substituted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 5 paras. 22](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/22) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-b2e31883dae0fd7c986a63a95b076d9e]: Textual amendment: S. 13(11) repealed (1.8.2016) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 2 para. 2](https://www.legislation.gov.uk/asp/2014/14/schedule/2/paragraph/2); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2014/264/article/4))
+[^c-b2e31883dae0fd7c986a63a95b076d9e]: Textual amendment: S. 13(11) repealed (1.8.2016) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 2 para. 2](https://www.legislation.gov.uk/asp/2014/14/schedule/2/paragraph/2); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2014/264/article/4))
 
 [^c737242]: Marginal citation: [1980 c. 52](https://www.legislation.gov.uk/ukpga/1980/52).
 
@@ -781,58 +781,58 @@ the home shall, on such transfer, cease to be a matrimonial home.
 
 [^c737244]: Textual amendment: S. 13(12)(*b*) repealed (*retrospectively*) by [Tenants' Rights, Etc. (Scotland) Amendment Act 1984 (c. 18, SIF 61)](https://www.legislation.gov.uk/ukpga/1984/18), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/1984/18/section/8/2), [9(3)](https://www.legislation.gov.uk/ukpga/1984/18/section/9/3), [Sch.](https://www.legislation.gov.uk/ukpga/1984/18/schedule)
 
-[^key-a147957c13f49f55df6991f00846214e]: Textual amendment: Words in s. 14(2) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-a147957c13f49f55df6991f00846214e]: Textual amendment: Words in s. 14(2) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-dddae35bd996eeffaa82723b93c8070f]: Textual amendment: S. 14(2)(b) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 10(2)](https://www.legislation.gov.uk/asp/2006/2/section/10/2), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-dddae35bd996eeffaa82723b93c8070f]: Textual amendment: S. 14(2)(b) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 10(2)](https://www.legislation.gov.uk/asp/2006/2/section/10/2), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-7fa67d83334b000ff768de5b724f781b]: Textual amendment: S. 14(3)-(6) added (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 10(3)](https://www.legislation.gov.uk/asp/2006/2/section/10/3), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-7fa67d83334b000ff768de5b724f781b]: Textual amendment: S. 14(3)-(6) added (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 10(3)](https://www.legislation.gov.uk/asp/2006/2/section/10/3), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-25d3aa353b7bf19c5cdaadb20228d127]: Textual amendment: Words in [s. 14(6)](https://www.legislation.gov.uk/ukpga/1981/59/section/14/6) repealed (30.6.2006) by [Family Law (Scotland) Act 2006 (Consequential Modifications) Order 2006 (S.S.I. 2006/384)](https://www.legislation.gov.uk/ssi/2006/384), [arts. 1](https://www.legislation.gov.uk/ssi/2006/384/article/1), [6](https://www.legislation.gov.uk/ssi/2006/384/article/6)
+[^c-25d3aa353b7bf19c5cdaadb20228d127]: Textual amendment: Words in [s. 14(6)](https://www.legislation.gov.uk/ukpga/1981/59/section/14/6) repealed (30.6.2006) by [Family Law (Scotland) Act 2006 (Consequential Modifications) Order 2006 (S.S.I. 2006/384)](https://www.legislation.gov.uk/ssi/2006/384), [arts. 1](https://www.legislation.gov.uk/ssi/2006/384/article/1), [6](https://www.legislation.gov.uk/ssi/2006/384/article/6)
 
-[^key-eb12dcb3535c0dbaf7e7cdd49fec0ef5]: Textual amendment: Ss. 15-17 repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 13](https://www.legislation.gov.uk/ssi/2006/212/article/13)); Word in [s. 17(2)](https://www.legislation.gov.uk/ukpga/1981/59/section/17/2) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/asp/2006/2/schedule/2/paragraph/4/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-eb12dcb3535c0dbaf7e7cdd49fec0ef5]: Textual amendment: Ss. 15-17 repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 13](https://www.legislation.gov.uk/ssi/2006/212/article/13)); Word in [s. 17(2)](https://www.legislation.gov.uk/ukpga/1981/59/section/17/2) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/asp/2006/2/schedule/2/paragraph/4/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-da51cf3b4cb89dcc913716d28dd287ed]: Modification: [S. 17](https://www.legislation.gov.uk/ukpga/1981/59/section/17) saving for effect of 2006 asp 2 sch. 3 (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453)](https://www.legislation.gov.uk/ssi/2017/453), [reg. 1](https://www.legislation.gov.uk/ssi/2017/453/regulation/1), [sch. para. 1](https://www.legislation.gov.uk/ssi/2017/453/schedule/paragraph/1)
+[^c-da51cf3b4cb89dcc913716d28dd287ed]: Modification: [S. 17](https://www.legislation.gov.uk/ukpga/1981/59/section/17) saving for effect of 2006 asp 2 sch. 3 (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453)](https://www.legislation.gov.uk/ssi/2017/453), [reg. 1](https://www.legislation.gov.uk/ssi/2017/453/regulation/1), [sch. para. 1](https://www.legislation.gov.uk/ssi/2017/453/schedule/paragraph/1)
 
-[^key-3a211ee809490b10b07e35b3f2163c73]: Textual amendment: Words in s. 18(1) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 34(2)(a)](https://www.legislation.gov.uk/asp/2006/2/section/34/2/a), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-3a211ee809490b10b07e35b3f2163c73]: Textual amendment: Words in s. 18(1) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 34(2)(a)](https://www.legislation.gov.uk/asp/2006/2/section/34/2/a), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-d47a28770e2e7626f554ad9762616be5]: Textual amendment: Words in s. 18(1) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 34(2)(b)](https://www.legislation.gov.uk/asp/2006/2/section/34/2/b), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-d47a28770e2e7626f554ad9762616be5]: Textual amendment: Words in s. 18(1) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 34(2)(b)](https://www.legislation.gov.uk/asp/2006/2/section/34/2/b), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-45dad0c4e260d7128782498fbf6ca157]: Textual amendment: Words in s. 18(1) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 34(2)(c)](https://www.legislation.gov.uk/asp/2006/2/section/34/2/c), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-45dad0c4e260d7128782498fbf6ca157]: Textual amendment: Words in s. 18(1) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 34(2)(c)](https://www.legislation.gov.uk/asp/2006/2/section/34/2/c), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
 [^c737258]: Textual amendment: By the [Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 49:6)](https://www.legislation.gov.uk/ukpga/1985/73), [ss. 13(9)](https://www.legislation.gov.uk/ukpga/1985/73/section/13/9)(*a*), 60(6)
 
-[^key-4cf61525d9d2f279cd89961b19a1c1ac]: Textual amendment: Words in s. 18(2) substituted (4.5.2006) by virtue of [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 34(3)(a)](https://www.legislation.gov.uk/asp/2006/2/section/34/3/a), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-4cf61525d9d2f279cd89961b19a1c1ac]: Textual amendment: Words in s. 18(2) substituted (4.5.2006) by virtue of [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 34(3)(a)](https://www.legislation.gov.uk/asp/2006/2/section/34/3/a), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-36259463652c0eeb62d4a8db6ee4a2f5]: Textual amendment: Words in s. 18(2)(b) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 34(3)(b)](https://www.legislation.gov.uk/asp/2006/2/section/34/3/b), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-36259463652c0eeb62d4a8db6ee4a2f5]: Textual amendment: Words in s. 18(2)(b) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 34(3)(b)](https://www.legislation.gov.uk/asp/2006/2/section/34/3/b), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-71b1233c42af194c22b1aa2947d60613]: Textual amendment: Words in s. 18(3) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 31(2)](https://www.legislation.gov.uk/asp/2006/2/section/31/2), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-71b1233c42af194c22b1aa2947d60613]: Textual amendment: Words in s. 18(3) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 31(2)](https://www.legislation.gov.uk/asp/2006/2/section/31/2), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
 [^c737259]: Textual amendment: Words substituted by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 49:6)](https://www.legislation.gov.uk/ukpga/1985/73), [ss. 13(9)](https://www.legislation.gov.uk/ukpga/1985/73/section/13/9)(*b*)(i), 60(6)
 
 [^c737260]: Textual amendment: Words inserted by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 49:6)](https://www.legislation.gov.uk/ukpga/1985/73), [ss. 13(9)](https://www.legislation.gov.uk/ukpga/1985/73/section/13/9)(*b*)(ii), 60(6)
 
-[^key-c39d6c982c45b523872083160123f027]: Textual amendment: Ss. 18A, 18B and preceding cross-heading inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 31(3)](https://www.legislation.gov.uk/asp/2006/2/section/31/3), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-c39d6c982c45b523872083160123f027]: Textual amendment: Ss. 18A, 18B and preceding cross-heading inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 31(3)](https://www.legislation.gov.uk/asp/2006/2/section/31/3), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
 [^c737261]: Modification: The text of ss. 6(4), 13(12)(*a*), 20 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
 
 [^c737262]: Marginal citation: [1970 c. 35](https://www.legislation.gov.uk/ukpga/1970/35).
 
-[^key-eddd5a63a2544b27d77dae8138000c60]: Textual amendment: [S. 21](https://www.legislation.gov.uk/ukpga/1981/59/section/21) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-eddd5a63a2544b27d77dae8138000c60]: Textual amendment: [S. 21](https://www.legislation.gov.uk/ukpga/1981/59/section/21) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-f31d6ad840c075afd930a2c9f3ef453e]: Textual amendment: S. 22(1): s. 22 renumbered as s. 22(1) (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 9](https://www.legislation.gov.uk/asp/2006/2/section/9), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-f31d6ad840c075afd930a2c9f3ef453e]: Textual amendment: S. 22(1): s. 22 renumbered as s. 22(1) (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 9](https://www.legislation.gov.uk/asp/2006/2/section/9), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
 [^c737266]: Textual amendment: Word in s. 22 substituted (1.11.1996) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(4)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/4), [Sch. 4 para. 30](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/30) (with [s. 103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1996/2203](https://www.legislation.gov.uk/uksi/1996/2203), [art. 3(3)](https://www.legislation.gov.uk/uksi/1996/2203/article/3/3), [Sch.](https://www.legislation.gov.uk/uksi/1996/2203/schedule)
 
-[^key-f6751dae2dbc72ae76fd0cab6e19e91d]: Textual amendment: Words in s. 22(1) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 9(a)(i)](https://www.legislation.gov.uk/asp/2006/2/section/9/a/i), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-f6751dae2dbc72ae76fd0cab6e19e91d]: Textual amendment: Words in s. 22(1) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 9(a)(i)](https://www.legislation.gov.uk/asp/2006/2/section/9/a/i), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-f6ef875ba2fb56d5cb2a933bd44d2771]: Textual amendment: Words in s. 22(1) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-f6ef875ba2fb56d5cb2a933bd44d2771]: Textual amendment: Words in s. 22(1) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
 [^c737267]: Textual amendment: Words added by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 49:6)](https://www.legislation.gov.uk/ukpga/1985/73), [ss. 13(10)](https://www.legislation.gov.uk/ukpga/1985/73/section/13/10), [60(6)](https://www.legislation.gov.uk/ukpga/1985/73/section/60/6)
 
-[^key-a9beaa67a853ba5bcfd2eb251040322d]: Textual amendment: Words in s. 22(1) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 9(a)(ii)](https://www.legislation.gov.uk/asp/2006/2/section/9/a/ii), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-a9beaa67a853ba5bcfd2eb251040322d]: Textual amendment: Words in s. 22(1) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 9(a)(ii)](https://www.legislation.gov.uk/asp/2006/2/section/9/a/ii), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
 [^c737268]: Textual amendment: Words substituted by [Housing (Scotland) Act 1988 (c. 43, SIF 61)](https://www.legislation.gov.uk/ukpga/1988/43), [s. 72(2)](https://www.legislation.gov.uk/ukpga/1988/43/section/72/2), [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/1988/43/schedule/9/paragraph/3)
 
-[^key-3786bddc101dacb8b0f08dc388d08114]: Textual amendment: S. 22(2) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 9(b)](https://www.legislation.gov.uk/asp/2006/2/section/9/b), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-3786bddc101dacb8b0f08dc388d08114]: Textual amendment: S. 22(2) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 9(b)](https://www.legislation.gov.uk/asp/2006/2/section/9/b), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
 [^c737269]: Modification: Power of appointment conferred by s. 23(2) fully exercised: 1.9.1982 appointed by [S.I. 1982/972](https://www.legislation.gov.uk/uksi/1982/972), [art. 2](https://www.legislation.gov.uk/uksi/1982/972/article/2)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) Schedule 6 to the Finance Act 2000 (c. 17) (climate change levy) is amended as follows.
 
-(2)[^key-990e4601e05ab35186da2ac665a04c78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-990e4601e05ab35186da2ac665a04c78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In paragraph 14(2) (exemption for supplies to electricity producers does not apply to supplies to exempt unlicensed electricity suppliers, no matter what the electricity they produce is used for), at the end insert—
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-990e4601e05ab35186da2ac665a04c78]: Textual amendment: [S. 105(2)](https://www.legislation.gov.uk/ukpga/2001/9/section/105/2) omitted (with effect in accordance with s. 79(5) of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 79(4)](https://www.legislation.gov.uk/ukpga/2011/11/section/79/4)
+[^c-990e4601e05ab35186da2ac665a04c78]: Textual amendment: [S. 105(2)](https://www.legislation.gov.uk/ukpga/2001/9/section/105/2) omitted (with effect in accordance with s. 79(5) of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 79(4)](https://www.legislation.gov.uk/ukpga/2011/11/section/79/4)

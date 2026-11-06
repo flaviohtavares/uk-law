@@ -48,11 +48,11 @@ The Secretary of State is satisfied, in relation to the five sites identified in
 
 In accordance with section 1(4) of the Act, the Secretary of State has consulted such persons as the Secretary of State considers appropriate having regard to the purposes of this Order.
 
-## 1. Citation and commencement[^key-4a06e8779bbae3b2d56aff9041d01486]
+## 1. Citation and commencement[^c-4a06e8779bbae3b2d56aff9041d01486]
 
 This Order may be cited as the Protection of Wrecks (Designation) (England) (No. 2) Order 2017 and comes into force on the day after the day on which it is laid.
 
-## 2. Identification and sites and designation of restricted areas[^key-8a4c70408b228200bf23449f9ddee131]
+## 2. Identification and sites and designation of restricted areas[^c-8a4c70408b228200bf23449f9ddee131]
 
 (1) The five sites listed in Schedule 1 are sites where a vessel or vessels lie, or are supposed to lie, wrecked on or in the sea bed.
 
@@ -66,7 +66,7 @@ This Order may be cited as the Protection of Wrecks (Designation) (England) (No.
 
 (6) A restricted area designated under paragraph (3) or (5) does not include any part of that area which is above the high water mark of ordinary spring tides.
 
-## 3. Revocations[^key-18b9d54ca4fff164598aec7cd71585eb]
+## 3. Revocations[^c-18b9d54ca4fff164598aec7cd71585eb]
 
 The instruments listed in Schedule 2 are revoked.
 
@@ -78,7 +78,7 @@ Department for Digital, Culture, Media and Sport
 
 4th September 2017
 
-## SCHEDULE 1 — SITES OF WRECKS[^key-c38128b4e94bb92b64d60bb71682adbe]
+## SCHEDULE 1 — SITES OF WRECKS[^c-c38128b4e94bb92b64d60bb71682adbe]
 
 Article 2
 
@@ -88,7 +88,7 @@ Table 1
 | --- | --- | --- |
 | Chesil Beach (Cannon Site) (Inshore) | Latitude 50°36.758489’ North<br>Longitude 02°32.070084’ West | 30 metres |
 | Chesil Beach (Cannon Site) (Offshore) | Latitude 50°36.651607’ North<br>Longitude 02°32.059267’ West | 30 metres |
-| The Hazardous, Bracklesham Bay | Latitude 50.752242[^key-f32497d3d3f8de67224f86508b7753ba] North<br>Longitude -0.859310 West | 150 metres |
+| The Hazardous, Bracklesham Bay | Latitude 50.752242[^c-f32497d3d3f8de67224f86508b7753ba] North<br>Longitude -0.859310 West | 150 metres |
 | UC-70, off Overdale Wyke | Latitude 54°31.5987’ North<br>Longitude 00°40.1346’ West | 30 metres |
 
 Table 2
@@ -100,7 +100,7 @@ Table 2
 | S | 49.91861193 | \-6.34401542 |
 | W | 49.92178068 | \-6.34895924 |
 
-## SCHEDULE 2 — REVOCATIONS[^key-744d8ac456f7e6456fdd64b5a33fb60a]
+## SCHEDULE 2 — REVOCATIONS[^c-744d8ac456f7e6456fdd64b5a33fb60a]
 
 Article 3
 
@@ -148,16 +148,16 @@ An impact assessment has not been produced for this instrument as no significant
 
 [^f00001]: Footnote: [1973 c.33](https://www.legislation.gov.uk/ukpga/1973/33).
 
-[^key-4a06e8779bbae3b2d56aff9041d01486]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2017/872/article/1) in force at 6.9.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/872/article/1)
+[^c-4a06e8779bbae3b2d56aff9041d01486]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2017/872/article/1) in force at 6.9.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/872/article/1)
 
-[^key-8a4c70408b228200bf23449f9ddee131]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2017/872/article/2) in force at 6.9.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/872/article/1)
+[^c-8a4c70408b228200bf23449f9ddee131]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2017/872/article/2) in force at 6.9.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/872/article/1)
 
 [^f00002]: Footnote: The positions of the sites identified in Schedule 1 are defined by co-ordinates of latitude and longitude according to the World Geodetic System 1984 (WGS 84), as revised in 2004.
 
-[^key-18b9d54ca4fff164598aec7cd71585eb]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2017/872/article/3) in force at 6.9.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/872/article/1)
+[^c-18b9d54ca4fff164598aec7cd71585eb]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2017/872/article/3) in force at 6.9.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/872/article/1)
 
-[^key-c38128b4e94bb92b64d60bb71682adbe]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2017/872/schedule/1) in force at 6.9.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/872/article/1)
+[^c-c38128b4e94bb92b64d60bb71682adbe]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2017/872/schedule/1) in force at 6.9.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/872/article/1)
 
-[^key-f32497d3d3f8de67224f86508b7753ba]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2017/872/schedule/1) Table 1 substituted (2.6.2022) by [The Protection of Wrecks (Designation and Amendment) (England) Order 2022 (S.I. 2022/535)](https://www.legislation.gov.uk/uksi/2022/535), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/535/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2022/535/article/3/2)
+[^c-f32497d3d3f8de67224f86508b7753ba]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2017/872/schedule/1) Table 1 substituted (2.6.2022) by [The Protection of Wrecks (Designation and Amendment) (England) Order 2022 (S.I. 2022/535)](https://www.legislation.gov.uk/uksi/2022/535), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/535/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2022/535/article/3/2)
 
-[^key-744d8ac456f7e6456fdd64b5a33fb60a]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2017/872/schedule/2) in force at 6.9.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/872/article/1)
+[^c-744d8ac456f7e6456fdd64b5a33fb60a]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2017/872/schedule/2) in force at 6.9.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/872/article/1)

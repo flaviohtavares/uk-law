@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Offences[^key-65b65ea067c223586fe2e2575a2c074c]
+## 90. Offences[^c-65b65ea067c223586fe2e2575a2c074c]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 (2) A producer or authorised representative will be guilty of an offence if he contravenes or fails to comply with any requirements of regulation 21, 22, 23 or 24.
 
-(2A)[^key-a8635c4bccd99cfd2c9dde77721c7775] In a case where regulation 24A applies, the non-UK supplier or that person’s authorised representative will be guilty of an offence if he contravenes or fails to comply with any requirements of regulation 22, 23 or 24.
+(2A)[^c-a8635c4bccd99cfd2c9dde77721c7775] In a case where regulation 24A applies, the non-UK supplier or that person’s authorised representative will be guilty of an offence if he contravenes or fails to comply with any requirements of regulation 22, 23 or 24.
 
 (3) An operator of a scheme will be guilty of an offence if he—
 
@@ -102,6 +102,6 @@ the partner as well as the partnership is guilty of the offence and liable to be
 
 ## Annotations
 
-[^key-65b65ea067c223586fe2e2575a2c074c]: Commencement: Reg. 90 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-65b65ea067c223586fe2e2575a2c074c]: Commencement: Reg. 90 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
 
-[^key-a8635c4bccd99cfd2c9dde77721c7775]: Textual amendment: [Reg. 90(2A)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/90/2A) inserted (12.8.2025) by [The Waste Electrical and Electronic Equipment (Amendment, etc.) Regulations 2025 (S.I. 2025/910)](https://www.legislation.gov.uk/uksi/2025/910), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/910/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2025/910/regulation/18) (with [reg. 27](https://www.legislation.gov.uk/uksi/2025/910/regulation/27))
+[^c-a8635c4bccd99cfd2c9dde77721c7775]: Textual amendment: [Reg. 90(2A)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/90/2A) inserted (12.8.2025) by [The Waste Electrical and Electronic Equipment (Amendment, etc.) Regulations 2025 (S.I. 2025/910)](https://www.legislation.gov.uk/uksi/2025/910), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/910/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2025/910/regulation/18) (with [reg. 27](https://www.legislation.gov.uk/uksi/2025/910/regulation/27))

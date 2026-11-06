@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Non-domestic energy efficiency regulations[^key-3f8c409426af3afd8f40af0fc69934a4]
+## 49. Non-domestic energy efficiency regulations[^c-3f8c409426af3afd8f40af0fc69934a4]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ may not let the property until the landlord has complied with the obligation men
 
 ## Annotations
 
-[^key-3f8c409426af3afd8f40af0fc69934a4]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2011/16/section/49) in force at 26.3.2015 by [S.I. 2015/880](https://www.legislation.gov.uk/uksi/2015/880), [art. 2](https://www.legislation.gov.uk/uksi/2015/880/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/880/schedule)
+[^c-3f8c409426af3afd8f40af0fc69934a4]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2011/16/section/49) in force at 26.3.2015 by [S.I. 2015/880](https://www.legislation.gov.uk/uksi/2015/880), [art. 2](https://www.legislation.gov.uk/uksi/2015/880/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/880/schedule)

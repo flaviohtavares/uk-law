@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Suspension[^key-44ec6516fbd505139c8e8c532742d4b7]
+## 11. Suspension[^c-44ec6516fbd505139c8e8c532742d4b7]
 
 *Extent: S*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) while it waits for a decision affecting that person of a court anywhere in the world, or of a licensing or regulatory body;
 - (c) while it considers whether to refer that person to the Tribunal;
 - (d) while it awaits a finding by the Tribunal or other equivalent body;
-- (e) where it has decided to remove that person from its dental list but before that decision takes effect ;[^key-f69c1c828849249b071bc441be69dd41]
+- (e) where it has decided to remove that person from its dental list but before that decision takes effect ;[^c-f69c1c828849249b071bc441be69dd41]
 - (f) while that person is being considered for listing.
 
 (2) In paragraph 1(b) “decision” means the final determination of the relevant proceedings, after any appeal or other review procedure has been exhausted.
@@ -35,7 +35,7 @@ summary: ''
 
 (4) In a case falling within paragraph (1)(b), the Health Board may specify that the dentist or body corporate (as the case may be) remains suspended after the decision referred to in that paragraph has been made for an additional period, not exceeding six months.
 
-(5) In a case falling within paragraph (1)(b), (d) or (f)[^key-5f94a355a79d6d1bdf9708ed7ea1c766], the term of suspension may exceed six months.
+(5) In a case falling within paragraph (1)(b), (d) or (f)[^c-5f94a355a79d6d1bdf9708ed7ea1c766], the term of suspension may exceed six months.
 
 (6) If the Health Board suspends a dentist or body corporate in a case falling within paragraph (1)(e) the suspension has effect from the date the Board informed that person of the suspension.
 
@@ -63,8 +63,8 @@ summary: ''
 
 ## Annotations
 
-[^key-44ec6516fbd505139c8e8c532742d4b7]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2010/208/regulation/11) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
+[^c-44ec6516fbd505139c8e8c532742d4b7]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2010/208/regulation/11) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
 
-[^key-f69c1c828849249b071bc441be69dd41]: Textual amendment: [Reg. 11(1)(f)](https://www.legislation.gov.uk/ssi/2010/208/regulation/11/1/f) inserted (28.2.2011) by [The National Health Service (General Ophthalmic Services and General Dental Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/378)](https://www.legislation.gov.uk/ssi/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/378/regulation/1/1), [3(7)(a)](https://www.legislation.gov.uk/ssi/2010/378/regulation/3/7/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2010/378/regulation/4))
+[^c-f69c1c828849249b071bc441be69dd41]: Textual amendment: [Reg. 11(1)(f)](https://www.legislation.gov.uk/ssi/2010/208/regulation/11/1/f) inserted (28.2.2011) by [The National Health Service (General Ophthalmic Services and General Dental Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/378)](https://www.legislation.gov.uk/ssi/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/378/regulation/1/1), [3(7)(a)](https://www.legislation.gov.uk/ssi/2010/378/regulation/3/7/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2010/378/regulation/4))
 
-[^key-5f94a355a79d6d1bdf9708ed7ea1c766]: Textual amendment: Words in [reg. 11(5)](https://www.legislation.gov.uk/ssi/2010/208/regulation/11/5) substituted (28.2.2011) by [The National Health Service (General Ophthalmic Services and General Dental Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/378)](https://www.legislation.gov.uk/ssi/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/378/regulation/1/1), [3(7)(b)](https://www.legislation.gov.uk/ssi/2010/378/regulation/3/7/b) (with [reg. 4](https://www.legislation.gov.uk/ssi/2010/378/regulation/4))
+[^c-5f94a355a79d6d1bdf9708ed7ea1c766]: Textual amendment: Words in [reg. 11(5)](https://www.legislation.gov.uk/ssi/2010/208/regulation/11/5) substituted (28.2.2011) by [The National Health Service (General Ophthalmic Services and General Dental Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/378)](https://www.legislation.gov.uk/ssi/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/378/regulation/1/1), [3(7)(b)](https://www.legislation.gov.uk/ssi/2010/378/regulation/3/7/b) (with [reg. 4](https://www.legislation.gov.uk/ssi/2010/378/regulation/4))

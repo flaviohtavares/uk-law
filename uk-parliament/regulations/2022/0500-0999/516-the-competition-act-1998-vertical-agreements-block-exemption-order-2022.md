@@ -50,14 +50,14 @@ In accordance with section 8 of the Act[^f00002], before making the recommendati
 
 The Secretary of State has decided to give effect to the recommendation without modifications and makes the following Order in exercise of the powers conferred by sections 6(2), (5), (6) and (7) and 71(3) of the Act.
 
-## 1. Citation and commencement[^key-27e163256a29b81a63855d2bb6fe049e]
+## 1. Citation and commencement[^c-27e163256a29b81a63855d2bb6fe049e]
 
 This Order—
 
 - (a) may be cited as the Competition Act 1998 (Vertical Agreements Block Exemption) Order 2022, and
 - (b) comes into force on 1st June 2022.
 
-## 2. Interpretation[^key-826cf3bbb1362f400258049aa858aa6e]
+## 2. Interpretation[^c-826cf3bbb1362f400258049aa858aa6e]
 
 (1) In this Order—
 
@@ -92,7 +92,7 @@ This Order—
 
 (3) For the purposes of this Order, the terms “undertaking”, “supplier” and “buyer” include their respective connected undertakings.
 
-## 3. Block Exemption[^key-15d057f34a7fe0c1f0ce25221fc47bf6]
+## 3. Block Exemption[^c-15d057f34a7fe0c1f0ce25221fc47bf6]
 
 (1) The category of agreements identified in paragraph (2) as vertical agreements is specified for the purposes of section 6 of the Competition Act 1998[^f00006].
 
@@ -127,7 +127,7 @@ This Order—
 - “**intellectual property rights**” includes industrial property rights, know-how, copyright and neighbouring rights;
 - “**potential competitor**” means an undertaking that, in the absence of the agreement, would, on realistic grounds and not just as a mere theoretical possibility, be likely to undertake, within a short period of time, the necessary additional investments or other necessary switching costs to enter the relevant market.
 
-## 4. Calculation of annual turnover[^key-d7da7cfd02b1d6b48461549b328d72ef]
+## 4. Calculation of annual turnover[^c-d7da7cfd02b1d6b48461549b328d72ef]
 
 (1) For the purpose of calculating the combined annual turnover within the meaning of article 3(3)—
 
@@ -138,11 +138,11 @@ This Order—
 
 ## Conditions and consequences of breach of conditions
 
-### 5. Block exemption subject to conditions and obligation[^key-d9f5681084f2f941ad46d245077b8b51]
+### 5. Block exemption subject to conditions and obligation[^c-d9f5681084f2f941ad46d245077b8b51]
 
 The block exemption has effect subject to the conditions and the obligation specified in articles 6 to 12.
 
-### 6. Market share thresholds[^key-f8c752c46e207249688587830cff7157]
+### 6. Market share thresholds[^c-f8c752c46e207249688587830cff7157]
 
 (1) The block exemption applies on condition that—
 
@@ -151,7 +151,7 @@ The block exemption has effect subject to the conditions and the obligation spec
 
 (2) For the purposes of paragraph (1), where in an agreement involving more than two parties an undertaking purchases the contract goods or services from one undertaking which is party to the agreement and sells the contract goods or services to another undertaking which is party to the agreement, the market share of the first undertaking must respect the market share threshold provided for in that paragraph both as a buyer and a supplier.
 
-### 7. Rules for applying market share thresholds[^key-519cdb2a29013f55a30e80bd7a5dd715]
+### 7. Rules for applying market share thresholds[^c-519cdb2a29013f55a30e80bd7a5dd715]
 
 (1) For the purposes of applying the market share thresholds provided for in article 6 the following rules apply—
 
@@ -162,15 +162,15 @@ The block exemption has effect subject to the conditions and the obligation spec
   and where market sales value or market purchase value data are not available, estimates based on other reliable market information, including market sales and purchase volumes, may be used to establish the market share of the undertaking concerned;
 - (b) the market share is to be calculated on the basis of data relating to the preceding calendar year.
 
-(2)[^key-9a2ae0accdae0f54d9ceb1b9e4f0a977] If a market share is initially not more than 30% but subsequently rises above that level without exceeding 35%, the block exemption continues to apply for a period of two consecutive calendar years following the year in which the 30% market share threshold was first exceeded.
+(2)[^c-9a2ae0accdae0f54d9ceb1b9e4f0a977] If a market share is initially not more than 30% but subsequently rises above that level without exceeding 35%, the block exemption continues to apply for a period of two consecutive calendar years following the year in which the 30% market share threshold was first exceeded.
 
-(3)[^key-9a2ae0accdae0f54d9ceb1b9e4f0a977] If a market share is initially not more than 30% but subsequently rises to more than 35%, the block exemption continues to apply for one calendar year following the year in which the level of 35% was first reached.
+(3)[^c-9a2ae0accdae0f54d9ceb1b9e4f0a977] If a market share is initially not more than 30% but subsequently rises to more than 35%, the block exemption continues to apply for one calendar year following the year in which the level of 35% was first reached.
 
-(4)[^key-9a2ae0accdae0f54d9ceb1b9e4f0a977] The benefit of paragraphs (2) and (3) may not be combined so as to exceed a period of two calendar years.
+(4)[^c-9a2ae0accdae0f54d9ceb1b9e4f0a977] The benefit of paragraphs (2) and (3) may not be combined so as to exceed a period of two calendar years.
 
 (5) The market share held by the undertakings referred to in paragraph (e) of the definition of “connected undertakings” in article 2(1) are to be apportioned equally to each undertaking having the rights or the powers listed in paragraph (a) of that definition.
 
-### 8. Hardcore restrictions[^key-a25a6f87998914cd73514bef2c0cb10f]
+### 8. Hardcore restrictions[^c-a25a6f87998914cd73514bef2c0cb10f]
 
 (1) The block exemption applies to the agreement on condition that it does not contain a hardcore restriction.
 
@@ -226,25 +226,25 @@ The block exemption has effect subject to the conditions and the obligation spec
   - (e) using a domain name corresponding to a geographical area other than the one in which the distributor is established,
 
   and the expressions “**actively sell**” and “**actively selling**” should be construed accordingly;
-- “[^key-f667c6736bc69e42e401497eb25bc53b]**devolved Scottish authority**” has the same meaning as in section 2 of the Procurement Act 2023;
+- “[^c-f667c6736bc69e42e401497eb25bc53b]**devolved Scottish authority**” has the same meaning as in section 2 of the Procurement Act 2023;
 - “**digital comparison tools**” means online intermediation services used by end users to compare prices, quality or other characteristics of, and potentially to switch or purchase, goods or services from a range of businesses;
 - “**exclusive distribution system**” means a distribution system where the supplier allocates a geographical area or customer group exclusively to itself or to one or a limited number of buyers, determined in proportion to the allocated geographical area or customer group in such a way as to secure certain volumes of business that preserves their investment efforts, and restricts other buyers from actively selling into the exclusive geographical area or to the exclusive customer group;
 - “**passive sales**” means—
   - (a) sales in response to unsolicited requests from individual customers, including delivery of goods or services to such customers without the sale having been initiated through advertising actively targeting the particular customer group or geographical area,
   - (b) general advertising or promotion that reaches customers in other distributors’ geographical areas or customer groups (whether exclusive or not) but which is a reasonable way to reach customers not in those other distributors’ geographical areas or customer groups (whether exclusive or not), for instance to reach customers in a supplier’s own geographical area[^f00009], or
   - (c) participating in a public procurement exercise undertaken in accordance with—
-    - (i) the Procurement Act 2023, or[^key-8804ee7d37c0518c631d08eecdf2989b]
+    - (i) the Procurement Act 2023, or[^c-8804ee7d37c0518c631d08eecdf2989b]
     - (ii) in respect of a public authority that is a devolved Scottish authority, the Public Contracts (Scotland) Regulations 2015, the Concession Contracts (Scotland) Regulations 2016 or the Utilities Contracts (Scotland) Regulations 2016,
 
   and the expressions “**passively sell**” and “**passively selling**” should be construed accordingly;
-- “[^key-175ad5a36e7fd38dfe82d7227708f862]**public authority**”has the same meaning as in section 2(2) of the Procurement Act 2023;
+- “[^c-175ad5a36e7fd38dfe82d7227708f862]**public authority**”has the same meaning as in section 2(2) of the Procurement Act 2023;
 - “**wide retail parity obligation**” means a restriction by reference to any of the supplier’s indirect sales channels (whether online or offline, for instance online platforms or other intermediaries), which ensures that the prices or other terms and conditions at which the supplier’s goods or services are offered to end users on a sales channel are no worse than those offered by the supplier on another sales channel.
 
-### 9. Effect of breach of conditions in article 6 or 8[^key-2b70b973f4ca046a17bcba6ccdea0183]
+### 9. Effect of breach of conditions in article 6 or 8[^c-2b70b973f4ca046a17bcba6ccdea0183]
 
 Breach of either of the conditions imposed by article 6 or 8 has the effect of cancelling the block exemption in respect of that vertical agreement.
 
-### 10. Excluded restrictions[^key-c22727aa08ebcb6fa68f13e490aa8bb0]
+### 10. Excluded restrictions[^c-c22727aa08ebcb6fa68f13e490aa8bb0]
 
 (1) The block exemption applies to the agreement on condition that it does not contain an excluded restriction.
 
@@ -267,14 +267,14 @@ Breach of either of the conditions imposed by article 6 or 8 has the effect of c
 
 (5) In this article, “**non-compete obligation**” means any direct or indirect obligation causing the buyer not to manufacture, purchase, sell or resell goods or services which compete with the contract goods or services, or any direct or indirect obligation on the buyer to purchase from the supplier or from another undertaking designated by the supplier more than 80% of the buyer’s total purchases of the contract goods or services and their substitutes on the relevant market, calculated on the basis of the value or, where such is standard industry practice, the volume of its purchases in the preceding calendar year.
 
-### 11. Effect of breach of condition in article 10[^key-7325c053a0f1943e365b6b7b8f5640aa]
+### 11. Effect of breach of condition in article 10[^c-7325c053a0f1943e365b6b7b8f5640aa]
 
 Breach of the condition imposed by article 10 has the effect, as regards a vertical agreement which contains an excluded restriction—
 
 - (a) which is not severable from the agreement, of cancelling the block exemption in respect of that agreement;
 - (b) which is severable from the agreement, of cancelling the block exemption in respect of that excluded restriction only.
 
-### 12. Obligation to provide information[^key-ed73214c854a8c3f3ffbb18a0ce8f45e]
+### 12. Obligation to provide information[^c-ed73214c854a8c3f3ffbb18a0ce8f45e]
 
 (1) A person must supply to the CMA[^f00017] such information in connection with the agreements to which it is a party as the CMA may require—
 
@@ -292,13 +292,13 @@ Breach of the condition imposed by article 10 has the effect, as regards a verti
 
 ## Cancellation and notices
 
-### 13. Cancellation in individual cases[^key-22b8d1be3530569e5e35085ec2686be6]
+### 13. Cancellation in individual cases[^c-22b8d1be3530569e5e35085ec2686be6]
 
 (1) If the CMA considers that a particular vertical agreement is not one which is exempt from the Chapter 1 prohibition as a result of section 9 of the Competition Act 1998, it may, subject to paragraph (2), by notice in writing cancel the block exemption in respect of that vertical agreement.
 
 (2) If the CMA proposes to cancel the block exemption in accordance with this Article, it must first give notice in writing of its proposal and must consider any representations made to it.
 
-### 14. Notices in writing[^key-9a8a30a16f49be5f133f18613f5b864f]
+### 14. Notices in writing[^c-9a8a30a16f49be5f133f18613f5b864f]
 
 For the purposes of articles 12 and 13, notice in writing is to be given by—
 
@@ -313,7 +313,7 @@ For the purposes of articles 12 and 13, notice in writing is to be given by—
 
 ## Transitional provision and expiry
 
-### 15. Transitional provision[^key-cc920a5dde30f68c1a90d95e28105957]
+### 15. Transitional provision[^c-cc920a5dde30f68c1a90d95e28105957]
 
 (1) In this article, a “**pre-existing vertical agreement**” means an agreement or concerted practice entered into before 1st June 2022 which on 1st June 2022—
 
@@ -324,7 +324,7 @@ For the purposes of articles 12 and 13, notice in writing is to be given by—
 
 (3) Articles 12 to 14 apply to a pre-existing vertical agreement as they apply to a vertical agreement.
 
-### 16. Expiry[^key-375ca616e553a96f08e9c9cb2362c649]
+### 16. Expiry[^c-375ca616e553a96f08e9c9cb2362c649]
 
 This Order ceases to have effect on 1st June 2028.
 
@@ -372,15 +372,15 @@ Guidance on the block exemption is available from the CMA online at http://www.g
 
 [^f00003]: Footnote: The Competition and Markets Authority’s proposed recommendation and responses to its consultation can be found online at https://www.gov.uk/government/consultations/retained-vertical-block-exemption-regulation or obtained by writing to Competition and Markets Authority, The Cabot, 25 Cabot Square, London E14 4QZ.
 
-[^key-27e163256a29b81a63855d2bb6fe049e]: Commencement: Art. 1 in force at 1.6.2022, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/516/article/1/b)
+[^c-27e163256a29b81a63855d2bb6fe049e]: Commencement: Art. 1 in force at 1.6.2022, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/516/article/1/b)
 
-[^key-826cf3bbb1362f400258049aa858aa6e]: Commencement: Art. 2 in force at 1.6.2022, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/516/article/1/b)
+[^c-826cf3bbb1362f400258049aa858aa6e]: Commencement: Art. 2 in force at 1.6.2022, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/516/article/1/b)
 
 [^f00004]: Footnote: “Chapter 1 prohibition” is defined in section 2(8) of the Act.
 
 [^f00005]: Footnote: OJ No. L 241, 17.9.2015, p.1.
 
-[^key-15d057f34a7fe0c1f0ce25221fc47bf6]: Commencement: Art. 3 in force at 1.6.2022, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/516/article/1/b)
+[^c-15d057f34a7fe0c1f0ce25221fc47bf6]: Commencement: Art. 3 in force at 1.6.2022, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/516/article/1/b)
 
 [^f00006]: Footnote: An agreement specified for the purposes of section 6 of the Act is exempt from the prohibition in Chapter 1 of the Act. See section 6(3) of the Act.
 
@@ -388,44 +388,44 @@ Guidance on the block exemption is available from the CMA online at http://www.g
 
 [^f00008]: Footnote: “Block exemption order” is defined in section 6(2) of the Act.
 
-[^key-d7da7cfd02b1d6b48461549b328d72ef]: Commencement: Art. 4 in force at 1.6.2022, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/516/article/1/b)
+[^c-d7da7cfd02b1d6b48461549b328d72ef]: Commencement: Art. 4 in force at 1.6.2022, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/516/article/1/b)
 
-[^key-d9f5681084f2f941ad46d245077b8b51]: Commencement: Art. 5 in force at 1.6.2022, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/516/article/1/b)
+[^c-d9f5681084f2f941ad46d245077b8b51]: Commencement: Art. 5 in force at 1.6.2022, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/516/article/1/b)
 
-[^key-f8c752c46e207249688587830cff7157]: Commencement: Art. 6 in force at 1.6.2022, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/516/article/1/b)
+[^c-f8c752c46e207249688587830cff7157]: Commencement: Art. 6 in force at 1.6.2022, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/516/article/1/b)
 
-[^key-519cdb2a29013f55a30e80bd7a5dd715]: Commencement: Art. 7 in force at 1.6.2022, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/516/article/1/b)
+[^c-519cdb2a29013f55a30e80bd7a5dd715]: Commencement: Art. 7 in force at 1.6.2022, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/516/article/1/b)
 
-[^key-9a2ae0accdae0f54d9ceb1b9e4f0a977]: Modification: [Art. 7(2)-(4)](https://www.legislation.gov.uk/uksi/2022/516/article/7/2) applied (1.6.2023) by [The Competition Act 1998 (Motor Vehicle Agreements Block Exemption) (No. 2) Order 2023 (S.I. 2023/586)](https://www.legislation.gov.uk/uksi/2023/586), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/586/article/1/3), [8](https://www.legislation.gov.uk/uksi/2023/586/article/8) (with [arts. 12](https://www.legislation.gov.uk/uksi/2023/586/article/12), [13](https://www.legislation.gov.uk/uksi/2023/586/article/13))
+[^c-9a2ae0accdae0f54d9ceb1b9e4f0a977]: Modification: [Art. 7(2)-(4)](https://www.legislation.gov.uk/uksi/2022/516/article/7/2) applied (1.6.2023) by [The Competition Act 1998 (Motor Vehicle Agreements Block Exemption) (No. 2) Order 2023 (S.I. 2023/586)](https://www.legislation.gov.uk/uksi/2023/586), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/586/article/1/3), [8](https://www.legislation.gov.uk/uksi/2023/586/article/8) (with [arts. 12](https://www.legislation.gov.uk/uksi/2023/586/article/12), [13](https://www.legislation.gov.uk/uksi/2023/586/article/13))
 
-[^key-a25a6f87998914cd73514bef2c0cb10f]: Commencement: Art. 8 in force at 1.6.2022, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/516/article/1/b)
+[^c-a25a6f87998914cd73514bef2c0cb10f]: Commencement: Art. 8 in force at 1.6.2022, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/516/article/1/b)
 
-[^key-f667c6736bc69e42e401497eb25bc53b]: Textual amendment: Words in art. 8(7) inserted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [26(2)(a)](https://www.legislation.gov.uk/uksi/2025/163/regulation/26/2/a)
+[^c-f667c6736bc69e42e401497eb25bc53b]: Textual amendment: Words in art. 8(7) inserted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [26(2)(a)](https://www.legislation.gov.uk/uksi/2025/163/regulation/26/2/a)
 
 [^f00009]: Footnote: General advertising or promotion is considered a reasonable way to reach such customers if it would be attractive for the buyer to incur those costs even if they would not reach customers in other distributors’ geographical areas or customer groups (whether exclusive or not).
 
-[^key-8804ee7d37c0518c631d08eecdf2989b]: Textual amendment: Words in art. 8(7) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [26(2)(b)](https://www.legislation.gov.uk/uksi/2025/163/regulation/26/2/b)
+[^c-8804ee7d37c0518c631d08eecdf2989b]: Textual amendment: Words in art. 8(7) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [26(2)(b)](https://www.legislation.gov.uk/uksi/2025/163/regulation/26/2/b)
 
-[^key-175ad5a36e7fd38dfe82d7227708f862]: Textual amendment: Words in art. 8(7) inserted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [26(2)(c)](https://www.legislation.gov.uk/uksi/2025/163/regulation/26/2/c)
+[^c-175ad5a36e7fd38dfe82d7227708f862]: Textual amendment: Words in art. 8(7) inserted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [26(2)(c)](https://www.legislation.gov.uk/uksi/2025/163/regulation/26/2/c)
 
-[^key-2b70b973f4ca046a17bcba6ccdea0183]: Commencement: Art. 9 in force at 1.6.2022, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/516/article/1/b)
+[^c-2b70b973f4ca046a17bcba6ccdea0183]: Commencement: Art. 9 in force at 1.6.2022, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/516/article/1/b)
 
-[^key-c22727aa08ebcb6fa68f13e490aa8bb0]: Commencement: Art. 10 in force at 1.6.2022, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/516/article/1/b)
+[^c-c22727aa08ebcb6fa68f13e490aa8bb0]: Commencement: Art. 10 in force at 1.6.2022, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/516/article/1/b)
 
-[^key-7325c053a0f1943e365b6b7b8f5640aa]: Commencement: Art. 11 in force at 1.6.2022, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/516/article/1/b)
+[^c-7325c053a0f1943e365b6b7b8f5640aa]: Commencement: Art. 11 in force at 1.6.2022, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/516/article/1/b)
 
-[^key-ed73214c854a8c3f3ffbb18a0ce8f45e]: Commencement: Art. 12 in force at 1.6.2022, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/516/article/1/b)
+[^c-ed73214c854a8c3f3ffbb18a0ce8f45e]: Commencement: Art. 12 in force at 1.6.2022, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/516/article/1/b)
 
 [^f00017]: Footnote: “the CMA” is defined in section 59(1) of the Act.
 
-[^key-22b8d1be3530569e5e35085ec2686be6]: Commencement: Art. 13 in force at 1.6.2022, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/516/article/1/b)
+[^c-22b8d1be3530569e5e35085ec2686be6]: Commencement: Art. 13 in force at 1.6.2022, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/516/article/1/b)
 
-[^key-9a8a30a16f49be5f133f18613f5b864f]: Commencement: Art. 14 in force at 1.6.2022, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/516/article/1/b)
+[^c-9a8a30a16f49be5f133f18613f5b864f]: Commencement: Art. 14 in force at 1.6.2022, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/516/article/1/b)
 
 [^f00018]: Footnote: [S.I. 2014/458](https://www.legislation.gov.uk/uksi/2014/458), to which there are amendments not relevant to this instrument.
 
-[^key-cc920a5dde30f68c1a90d95e28105957]: Commencement: Art. 15 in force at 1.6.2022, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/516/article/1/b)
+[^c-cc920a5dde30f68c1a90d95e28105957]: Commencement: Art. 15 in force at 1.6.2022, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/516/article/1/b)
 
 [^f00019]: Footnote: EUR 2010/330, as amended by [S.I. 2019/93](https://www.legislation.gov.uk/uksi/2019/93).
 
-[^key-375ca616e553a96f08e9c9cb2362c649]: Commencement: Art. 16 in force at 1.6.2022, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/516/article/1/b)
+[^c-375ca616e553a96f08e9c9cb2362c649]: Commencement: Art. 16 in force at 1.6.2022, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/516/article/1/b)

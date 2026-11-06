@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Carriage in bulk[^key-579fee1690bc50a7ff5e96d6e025d199]
+## 9. Carriage in bulk[^c-579fee1690bc50a7ff5e96d6e025d199]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A person shall not cause or permit the carriage in bulk of explosives which are 
 
 ## Annotations
 
-[^key-579fee1690bc50a7ff5e96d6e025d199]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/1997/474/regulation/9) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-579fee1690bc50a7ff5e96d6e025d199]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/1997/474/regulation/9) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)

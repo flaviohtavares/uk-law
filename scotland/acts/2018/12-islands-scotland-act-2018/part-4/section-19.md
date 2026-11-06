@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Number of councillors in wards with inhabited islands[^key-29f353adaac6cc37e5afaaa230aa1ca9]
+## 19. Number of councillors in wards with inhabited islands[^c-29f353adaac6cc37e5afaaa230aa1ca9]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In section 1 of the Local Governance (Scotland) Act 2004 (electoral wards), afte
 
 ## Annotations
 
-[^key-29f353adaac6cc37e5afaaa230aa1ca9]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2018/12/section/19) in force at 4.10.2018 by [S.S.I. 2018/282](https://www.legislation.gov.uk/ssi/2018/282), [reg. 2](https://www.legislation.gov.uk/ssi/2018/282/regulation/2)
+[^c-29f353adaac6cc37e5afaaa230aa1ca9]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2018/12/section/19) in force at 4.10.2018 by [S.S.I. 2018/282](https://www.legislation.gov.uk/ssi/2018/282), [reg. 2](https://www.legislation.gov.uk/ssi/2018/282/regulation/2)

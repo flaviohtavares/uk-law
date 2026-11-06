@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Amendment of section 90 (English text)[^key-c65d5b0be790d8d0acff65ee83e0b4ba]
+## 134. Amendment of section 90 (English text)[^c-c65d5b0be790d8d0acff65ee83e0b4ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c65d5b0be790d8d0acff65ee83e0b4ba]: Commencement: Reg. 134 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-c65d5b0be790d8d0acff65ee83e0b4ba]: Commencement: Reg. 134 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

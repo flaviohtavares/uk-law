@@ -48,17 +48,17 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 There has been consultation as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety.
 
-## 1. Citation, commencement and extent[^key-29f65d35672285c134820f20ed8db539]
+## 1. Citation, commencement and extent[^c-29f65d35672285c134820f20ed8db539]
 
 (1) These Regulations may be cited as the Food Composition, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 and come into force on exit day.
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Amendment of the Quick-frozen Foodstuffs Regulations 1990[^key-cd412cf1fae09e27f6c4e1318ec6e16c]
+## 2. Amendment of the Quick-frozen Foodstuffs Regulations 1990[^c-cd412cf1fae09e27f6c4e1318ec6e16c]
 
 In regulation 5(3)(b) (labelling of quick-frozen foodstuffs) of the Quick-frozen Foodstuffs Regulations 1990 [^c23583751] for “European Union” substitute “ United Kingdom ”.
 
-## 3. Amendment of the Food (Lot Marking) Regulations 1996[^key-ca13bb736499e41a1b60e9b1d7402699]
+## 3. Amendment of the Food (Lot Marking) Regulations 1996[^c-ca13bb736499e41a1b60e9b1d7402699]
 
 (1) The Food (Lot Marking) Regulations 1996 [^c23583761] are amended as follows.
 
@@ -66,7 +66,7 @@ In regulation 5(3)(b) (labelling of quick-frozen foodstuffs) of the Quick-frozen
 
 (3) In regulation 3(2)(a) (lot marking requirement) for “European Union” substitute “ United Kingdom ”.
 
-## 4. Amendment of the Spreadable Fats, Milk and Milk Products (Scotland) Regulations 2008[^key-0b24bf14bcf1c5b33d00bbd6ae98ed40]
+## 4. Amendment of the Spreadable Fats, Milk and Milk Products (Scotland) Regulations 2008[^c-0b24bf14bcf1c5b33d00bbd6ae98ed40]
 
 (1) The Spreadable Fats, Milk and Milk Products (Scotland) Regulations 2008 [^c23583771] are amended as follows.
 
@@ -88,7 +88,7 @@ In regulation 5(3)(b) (labelling of quick-frozen foodstuffs) of the Quick-frozen
 
 (5) In regulation 7(2) (application of various provisions of the Act) for “EU” substitute “ specified ”.
 
-## 5. Amendment of the Fish Labelling (Scotland) Regulations 2013[^key-720b72d5358b8fff79e4271edfebd46f]
+## 5. Amendment of the Fish Labelling (Scotland) Regulations 2013[^c-720b72d5358b8fff79e4271edfebd46f]
 
 (1) The Fish Labelling (Scotland) Regulations 2013 [^c23583781] are amended as follows.
 
@@ -97,11 +97,11 @@ In regulation 5(3)(b) (labelling of quick-frozen foodstuffs) of the Quick-frozen
 - (a) in paragraph (3) for “Article 67(1) to (3) and (5) to (13) of Regulation 404/2011” substitute “ Article 67(1) to (3), (5) to (7) and (9) to (13) of Regulation 404/2011 ”, and
 - (b) in paragraphs (6) and (7) for “the sterling equivalent of 50 euros” substitute “ £45 ”.
 
-## 6. Amendment of the Food Additives, Flavourings, Enzymes and Extraction Solvents (Scotland) Regulations 2013[^key-7a95f97f6a6b1a0b353977d606c1ea40]
+## 6. Amendment of the Food Additives, Flavourings, Enzymes and Extraction Solvents (Scotland) Regulations 2013[^c-7a95f97f6a6b1a0b353977d606c1ea40]
 
 (1) The Food Additives, Flavourings, Enzymes and Extraction Solvents (Scotland) Regulations 2013 [^c23583791] are amended as follows.
 
-(2)[^key-38568f458f6f1786886a8e9001c1d4d2] In regulation 8(b) for “the European Union” substitute “ Great Britain ”
+(2)[^c-38568f458f6f1786886a8e9001c1d4d2] In regulation 8(b) for “the European Union” substitute “ Great Britain ”
 
 (3) In regulation 12 (1)(d) for “territory of the EU” substitute “ United Kingdom ”.
 
@@ -135,26 +135,26 @@ An impact assessment has not been produced for this instrument as no significant
 
 [^c23583741]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-29f65d35672285c134820f20ed8db539]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-29f65d35672285c134820f20ed8db539]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-cd412cf1fae09e27f6c4e1318ec6e16c]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-cd412cf1fae09e27f6c4e1318ec6e16c]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23583751]: Marginal citation: [S.I. 1990/2615](https://www.legislation.gov.uk/uksi/1990/2615), as amended by [S.I. 1992/2596](https://www.legislation.gov.uk/uksi/1992/2596), [S.I](https://www.legislation.gov.uk/uksi/1992/2596/section/I) 1994/298, S.S.I 2007/106, [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and [S.S.I. 2014/312](https://www.legislation.gov.uk/ssi/2014/312).
 
-[^key-ca13bb736499e41a1b60e9b1d7402699]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-ca13bb736499e41a1b60e9b1d7402699]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23583761]: Marginal citation: [S.I. 1996/1502](https://www.legislation.gov.uk/uksi/1996/1502), as amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and 2014/312.
 
-[^key-0b24bf14bcf1c5b33d00bbd6ae98ed40]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-0b24bf14bcf1c5b33d00bbd6ae98ed40]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23583771]: Marginal citation: [S.S.I. 2008/216](https://www.legislation.gov.uk/ssi/2008/216) amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), 2012/1809 and 2013/3235.
 
-[^key-720b72d5358b8fff79e4271edfebd46f]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-720b72d5358b8fff79e4271edfebd46f]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23583781]: Marginal citation: [S.S.I. 2013/256](https://www.legislation.gov.uk/ssi/2013/256) last amended by [S.S.I. 2015/48](https://www.legislation.gov.uk/ssi/2015/48).
 
-[^key-7a95f97f6a6b1a0b353977d606c1ea40]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-7a95f97f6a6b1a0b353977d606c1ea40]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23583791]: Marginal citation: [S.S.I. 2013/266](https://www.legislation.gov.uk/ssi/2013/266) amended by [S.S.I. 2014/312](https://www.legislation.gov.uk/ssi/2014/312) and 2015/100.
 
-[^key-38568f458f6f1786886a8e9001c1d4d2]: Textual amendment: Reg. 6(2) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/a), [6(2)](https://www.legislation.gov.uk/ssi/2020/372/regulation/6/2)
+[^c-38568f458f6f1786886a8e9001c1d4d2]: Textual amendment: Reg. 6(2) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/a), [6(2)](https://www.legislation.gov.uk/ssi/2020/372/regulation/6/2)

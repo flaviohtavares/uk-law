@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Guidance about pre-application steps[^key-f5c4fea0b7b86b41b0e8da3e8428e599]
+## 50. Guidance about pre-application steps[^c-f5c4fea0b7b86b41b0e8da3e8428e599]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5c4fea0b7b86b41b0e8da3e8428e599]: Textual amendment: S. 50 substituted (24.7.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 6(7)](https://www.legislation.gov.uk/ukpga/2025/34/section/6/7), [118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/641/regulation/6))
+[^c-f5c4fea0b7b86b41b0e8da3e8428e599]: Textual amendment: S. 50 substituted (24.7.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 6(7)](https://www.legislation.gov.uk/ukpga/2025/34/section/6/7), [118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/641/regulation/6))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48A. Commencement of settlement[^key-4b174d759cf454ee8c897254341a571d]
+## 48A. Commencement of settlement[^c-4b174d759cf454ee8c897254341a571d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In this Act any reference to the commencement of a settlement is to the time whe
 
 ## Annotations
 
-[^key-4b174d759cf454ee8c897254341a571d]: Textual amendment: [S. 48A](https://www.legislation.gov.uk/ukpga/1984/51/section/48A) inserted (with effect in accordance with s. 73(11) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 73(3)](https://www.legislation.gov.uk/ukpga/2020/14/section/73/3)
+[^c-4b174d759cf454ee8c897254341a571d]: Textual amendment: [S. 48A](https://www.legislation.gov.uk/ukpga/1984/51/section/48A) inserted (with effect in accordance with s. 73(11) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 73(3)](https://www.legislation.gov.uk/ukpga/2020/14/section/73/3)

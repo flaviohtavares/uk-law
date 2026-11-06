@@ -25,7 +25,7 @@ summary: ''
 - (a) that the club is not a bona fide members' club; or
 - (b) that the club has less than 25 members; or
 - (c) that the premises of the club have not been habitually used for the objects of the club; or
-- (ca)[^key-c24f512f6964f45c389baac882cb4c1c] that gaming carried on in the premises of the club has been carried on in a manner which involved serious, repeated or continuous failure to comply with a code of practice in force under Article 180A; or
+- (ca)[^c-c24f512f6964f45c389baac882cb4c1c] that gaming carried on in the premises of the club has been carried on in a manner which involved serious, repeated or continuous failure to comply with a code of practice in force under Article 180A; or
 - (d) that the premises of the club are frequented wholly or mainly by persons under the age of 18; or
 - (e)[^c17001511] that the club is registered under the Registration of Clubs (Northern Ireland) Order 1996; or
 - (f) that a person has been convicted of an offence in respect of a contravention, in connection with the premises of the club, of any of the provisions of this Chapter or Chapter I or of any regulations made under them.
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c24f512f6964f45c389baac882cb4c1c]: Textual amendment: [Art. 103(1)(ca)](https://www.legislation.gov.uk/nisi/1985/1204/article/103/1/ca) inserted (1.10.2023) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 16(2)(f)](https://www.legislation.gov.uk/nia/2022/14/section/16/2/f), [17(3)](https://www.legislation.gov.uk/nia/2022/14/section/17/3); [S.R. 2023/74](https://www.legislation.gov.uk/nisr/2023/74), [art. 2](https://www.legislation.gov.uk/nisr/2023/74/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/74/schedule)
+[^c-c24f512f6964f45c389baac882cb4c1c]: Textual amendment: [Art. 103(1)(ca)](https://www.legislation.gov.uk/nisi/1985/1204/article/103/1/ca) inserted (1.10.2023) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 16(2)(f)](https://www.legislation.gov.uk/nia/2022/14/section/16/2/f), [17(3)](https://www.legislation.gov.uk/nia/2022/14/section/17/3); [S.R. 2023/74](https://www.legislation.gov.uk/nisr/2023/74), [art. 2](https://www.legislation.gov.uk/nisr/2023/74/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/74/schedule)
 
 [^c17001511]: Textual amendment: [1996 NI 23](https://www.legislation.gov.uk/1996/ni23)

@@ -158,7 +158,7 @@ Accordingly, Regulation (EC) No 343/2003 is hereby amended as follows:
 
   > 3. Where reference is made to this paragraph, Article 5a(1) to (4) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
 
-[^key-2ca4d16370cfd183aae29b618ca6e71b]4.
+[^c-2ca4d16370cfd183aae29b618ca6e71b]4.
 
 ...
 
@@ -184,4 +184,4 @@ Accordingly, Regulation (EC) No 343/2003 is hereby amended as follows:
 
 [^f00009]: Footnote: [OJ L 50, 25.2.2003, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.050.01.0001.01.ENG).
 
-[^key-2ca4d16370cfd183aae29b618ca6e71b]: Textual amendment: [Annex para. 4](https://www.legislation.gov.uk/eur/2008/1103/annex/paragraph/4/7) omitted (31.12.2020) by virtue of [The European Enforcement Order, European Order for Payment and European Small Claims Procedure (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1311)](https://www.legislation.gov.uk/uksi/2018/1311), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1311/regulation/1), [11](https://www.legislation.gov.uk/uksi/2018/1311/regulation/11) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/1311/part/5)) (as substituted by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/1493/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2ca4d16370cfd183aae29b618ca6e71b]: Textual amendment: [Annex para. 4](https://www.legislation.gov.uk/eur/2008/1103/annex/paragraph/4/7) omitted (31.12.2020) by virtue of [The European Enforcement Order, European Order for Payment and European Small Claims Procedure (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1311)](https://www.legislation.gov.uk/uksi/2018/1311), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1311/regulation/1), [11](https://www.legislation.gov.uk/uksi/2018/1311/regulation/11) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/1311/part/5)) (as substituted by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/1493/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

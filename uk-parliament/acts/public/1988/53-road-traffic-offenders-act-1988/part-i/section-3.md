@@ -26,7 +26,7 @@ summary: ''
 
 (2) In England and Wales, proceedings for an offence under section 94(3) of the Road Traffic Act 1988 (notice about relevant or prospective disability) shall not be instituted except by the Secretary of State or by a constable acting with the approval of the Secretary of State.
 
-(2A)[^c18157381] In subsection (2) above the reference to section 94(3) of the Road Traffic Act 1988 includes a reference to that section as applied by section 99D or 109C[^key-d52ae50fd53af8b6cbb23aa4128b2a8c] of that Act.
+(2A)[^c18157381] In subsection (2) above the reference to section 94(3) of the Road Traffic Act 1988 includes a reference to that section as applied by section 99D or 109C[^c-d52ae50fd53af8b6cbb23aa4128b2a8c] of that Act.
 
 ## Annotations
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c18157381]: Textual amendment: S. 3(2A) inserted (1.1.1997) by S.I. 1996//1974, reg. 3, Sch. 2 para. 1
 
-[^key-d52ae50fd53af8b6cbb23aa4128b2a8c]: Textual amendment: Words in s. 3(2A) inserted (11.10.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1), [Sch. 5 para. 33](https://www.legislation.gov.uk/ukpga/2003/32/schedule/5/paragraph/33); [S.I. 2004/2624](https://www.legislation.gov.uk/uksi/2004/2624), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2624/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2004/2624/article/2/2/b)
+[^c-d52ae50fd53af8b6cbb23aa4128b2a8c]: Textual amendment: Words in s. 3(2A) inserted (11.10.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1), [Sch. 5 para. 33](https://www.legislation.gov.uk/ukpga/2003/32/schedule/5/paragraph/33); [S.I. 2004/2624](https://www.legislation.gov.uk/uksi/2004/2624), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2624/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2004/2624/article/2/2/b)

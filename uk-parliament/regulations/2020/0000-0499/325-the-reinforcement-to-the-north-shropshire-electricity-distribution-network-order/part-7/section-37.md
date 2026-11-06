@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Procedure in relation to certain approvals etc.[^key-48f61aa5383c5725ecaf2b63009460bf]
+## 37. Procedure in relation to certain approvals etc.[^c-48f61aa5383c5725ecaf2b63009460bf]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48f61aa5383c5725ecaf2b63009460bf]: Commencement: Art. 37 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-48f61aa5383c5725ecaf2b63009460bf]: Commencement: Art. 37 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)

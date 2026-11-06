@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-6226bbb1c8b536c44c3875da8dcb48f1] Byelaws made by a local authority in England[^M_F_5372039d-b144-4154-b1dd-bfa449398a91] under this Act shall not take effect unless and until they have been submitted to and confirmed by the Secretary of State[^c665182] [^c665183]... .
+(1)[^c-6226bbb1c8b536c44c3875da8dcb48f1] Byelaws made by a local authority in England[^M_F_5372039d-b144-4154-b1dd-bfa449398a91] under this Act shall not take effect unless and until they have been submitted to and confirmed by the Secretary of State[^c665182] [^c665183]... .
 
-(2)[^key-eeb68ce1764d97e41487f17a385a7962] Subsection (1) does not apply to byelaws of a class prescribed by regulations under section 236A(1) of the Local Government Act 1972.
+(2)[^c-eeb68ce1764d97e41487f17a385a7962] Subsection (1) does not apply to byelaws of a class prescribed by regulations under section 236A(1) of the Local Government Act 1972.
 
 ## Annotations
 
@@ -30,7 +30,7 @@ summary: ''
 
 [^c665180]: Modification: S. 184 applied by [Commons Act 1899 (c. 30)](https://www.legislation.gov.uk/ukpga/1899/30), [s. 10](https://www.legislation.gov.uk/ukpga/1899/30/section/10) and [Open Spaces Act 1906 (c. 25)](https://www.legislation.gov.uk/ukpga/1906/25), [s. 15(2)](https://www.legislation.gov.uk/ukpga/1906/25/section/15/2)
 
-[^key-6226bbb1c8b536c44c3875da8dcb48f1]: Textual amendment: S. 184(1): s. 184 renumbered as s. 184(1) (3.3.2016) by [The Byelaws (Alternative Procedure) (England) Regulations 2016 (S.I. 2016/165)](https://www.legislation.gov.uk/uksi/2016/165), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/165/regulation/1/1), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/2016/165/schedule/2/paragraph/1/2)
+[^c-6226bbb1c8b536c44c3875da8dcb48f1]: Textual amendment: S. 184(1): s. 184 renumbered as s. 184(1) (3.3.2016) by [The Byelaws (Alternative Procedure) (England) Regulations 2016 (S.I. 2016/165)](https://www.legislation.gov.uk/uksi/2016/165), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/165/regulation/1/1), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/2016/165/schedule/2/paragraph/1/2)
 
 [^M_F_5372039d-b144-4154-b1dd-bfa449398a91]: Textual amendment: Words in [s. 184](https://www.legislation.gov.uk/ukpga/Vict/38-39/55/section/184) inserted (31.3.2015) by [Local Government Byelaws (Wales) Act 2012 (anaw 2)](https://www.legislation.gov.uk/anaw/2012/2), [s. 22(2)](https://www.legislation.gov.uk/anaw/2012/2/section/22/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/1); [S.I. 2015/1025](https://www.legislation.gov.uk/uksi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/uksi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/1025/article/3))
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c665183]: Textual amendment: Words repealed by [Local Government Act 1933 (c. 51)](https://www.legislation.gov.uk/ukpga/1933/51), [Sch. 11 Pt. I](https://www.legislation.gov.uk/ukpga/1933/51/schedule/11/part/I)
 
-[^key-eeb68ce1764d97e41487f17a385a7962]: Textual amendment: S. 184(2) inserted (3.3.2016) by [The Byelaws (Alternative Procedure) (England) Regulations 2016 (S.I. 2016/165)](https://www.legislation.gov.uk/uksi/2016/165), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/165/regulation/1/1), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/uksi/2016/165/schedule/2/paragraph/1/3)
+[^c-eeb68ce1764d97e41487f17a385a7962]: Textual amendment: S. 184(2) inserted (3.3.2016) by [The Byelaws (Alternative Procedure) (England) Regulations 2016 (S.I. 2016/165)](https://www.legislation.gov.uk/uksi/2016/165), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/165/regulation/1/1), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/uksi/2016/165/schedule/2/paragraph/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Access to information and evidence by nominated beneficiary[^key-a9d57a8c93cc650fdc9498eff062c1bb]
+## 67. Access to information and evidence by nominated beneficiary[^c-a9d57a8c93cc650fdc9498eff062c1bb]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9d57a8c93cc650fdc9498eff062c1bb]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2021/15/section/67) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-a9d57a8c93cc650fdc9498eff062c1bb]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2021/15/section/67) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

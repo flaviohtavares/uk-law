@@ -32,7 +32,7 @@ summary: ''
 
 Pensions
 
-The Pension Protection Fund (Pension Compensation Cap) Order 2009 (revoked)[^key-74b4f77c8d1ecb3a7470ecc7d4eddd45]
+The Pension Protection Fund (Pension Compensation Cap) Order 2009 (revoked)[^c-74b4f77c8d1ecb3a7470ecc7d4eddd45]
 
 Made
 
@@ -42,28 +42,28 @@ Coming into force
 
 1st April 2009
 
-[^key-74b4f77c8d1ecb3a7470ecc7d4eddd45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-74b4f77c8d1ecb3a7470ecc7d4eddd45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-74b4f77c8d1ecb3a7470ecc7d4eddd45]
+## 1. Citation and commencement[^c-74b4f77c8d1ecb3a7470ecc7d4eddd45]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The compensation cap[^key-74b4f77c8d1ecb3a7470ecc7d4eddd45]
+## 2. The compensation cap[^c-74b4f77c8d1ecb3a7470ecc7d4eddd45]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-74b4f77c8d1ecb3a7470ecc7d4eddd45]
+## 3. Revocation[^c-74b4f77c8d1ecb3a7470ecc7d4eddd45]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-74b4f77c8d1ecb3a7470ecc7d4eddd45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-74b4f77c8d1ecb3a7470ecc7d4eddd45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-74b4f77c8d1ecb3a7470ecc7d4eddd45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-74b4f77c8d1ecb3a7470ecc7d4eddd45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-74b4f77c8d1ecb3a7470ecc7d4eddd45]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/795) revoked (1.4.2010) by [The Pension Protection Fund (Pension Compensation Cap) Order 2010 (S.I. 2010/667)](https://www.legislation.gov.uk/uksi/2010/667), [arts. 1](https://www.legislation.gov.uk/uksi/2010/667/article/1), [3](https://www.legislation.gov.uk/uksi/2010/667/article/3)
+[^c-74b4f77c8d1ecb3a7470ecc7d4eddd45]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/795) revoked (1.4.2010) by [The Pension Protection Fund (Pension Compensation Cap) Order 2010 (S.I. 2010/667)](https://www.legislation.gov.uk/uksi/2010/667), [arts. 1](https://www.legislation.gov.uk/uksi/2010/667/article/1), [3](https://www.legislation.gov.uk/uksi/2010/667/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 93. Order of application[^key-0cb0c064ec4f4ee2fbc9852266b49ca1]
+## 93. Order of application[^c-0cb0c064ec4f4ee2fbc9852266b49ca1]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ The contribution or the remainder of the contribution, as the case may be, is to
 
 ## Annotations
 
-[^key-0cb0c064ec4f4ee2fbc9852266b49ca1]: Commencement: [Reg. 93](https://www.legislation.gov.uk/nisr/2007/195/regulation/93) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-0cb0c064ec4f4ee2fbc9852266b49ca1]: Commencement: [Reg. 93](https://www.legislation.gov.uk/nisr/2007/195/regulation/93) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

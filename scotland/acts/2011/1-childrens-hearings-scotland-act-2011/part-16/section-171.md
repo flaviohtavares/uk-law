@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 171. Offences related to absconding[^key-ac3e251f5d5634195dbcb57b60075f87][^key-4fb79b2ad95511505a133e998e65caf7][^key-8837e5340cd59b17b6ae6b1c40027c42]
+## 171. Offences related to absconding[^c-ac3e251f5d5634195dbcb57b60075f87][^c-4fb79b2ad95511505a133e998e65caf7][^c-8837e5340cd59b17b6ae6b1c40027c42]
 
 *Extent: S*
 
@@ -47,8 +47,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ac3e251f5d5634195dbcb57b60075f87]: Commencement: S. 171 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-ac3e251f5d5634195dbcb57b60075f87]: Commencement: S. 171 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-4fb79b2ad95511505a133e998e65caf7]: Modification: [S. 171](https://www.legislation.gov.uk/asp/2011/1/section/171) modified (24.6.2022) by [The Cross-border Placements (Effect of Deprivation of Liberty Orders) (Scotland) Regulations 2022 (S.S.I. 2022/225)](https://www.legislation.gov.uk/ssi/2022/225), [regs. 1](https://www.legislation.gov.uk/ssi/2022/225/regulation/1), [13(10)](https://www.legislation.gov.uk/ssi/2022/225/regulation/13/10)
+[^c-4fb79b2ad95511505a133e998e65caf7]: Modification: [S. 171](https://www.legislation.gov.uk/asp/2011/1/section/171) modified (24.6.2022) by [The Cross-border Placements (Effect of Deprivation of Liberty Orders) (Scotland) Regulations 2022 (S.S.I. 2022/225)](https://www.legislation.gov.uk/ssi/2022/225), [regs. 1](https://www.legislation.gov.uk/ssi/2022/225/regulation/1), [13(10)](https://www.legislation.gov.uk/ssi/2022/225/regulation/13/10)
 
-[^key-8837e5340cd59b17b6ae6b1c40027c42]: Modification: [Ss. 168-171](https://www.legislation.gov.uk/asp/2011/1/section/168) applied (with modifications) (9.2.2026) by [The Cross-border Placement of Children (Requirements, Effect and Enforcement) (Scotland) Regulations 2026 (S.S.I. 2026/31)](https://www.legislation.gov.uk/ssi/2026/31), [regs. 1](https://www.legislation.gov.uk/ssi/2026/31/regulation/1), [36](https://www.legislation.gov.uk/ssi/2026/31/regulation/36)
+[^c-8837e5340cd59b17b6ae6b1c40027c42]: Modification: [Ss. 168-171](https://www.legislation.gov.uk/asp/2011/1/section/168) applied (with modifications) (9.2.2026) by [The Cross-border Placement of Children (Requirements, Effect and Enforcement) (Scotland) Regulations 2026 (S.S.I. 2026/31)](https://www.legislation.gov.uk/ssi/2026/31), [regs. 1](https://www.legislation.gov.uk/ssi/2026/31/regulation/1), [36](https://www.legislation.gov.uk/ssi/2026/31/regulation/36)

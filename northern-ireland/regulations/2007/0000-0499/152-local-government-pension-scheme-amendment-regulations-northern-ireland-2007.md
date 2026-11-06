@@ -41,373 +41,373 @@ The Department of the Environment, in exercise of the powers conferred by Articl
 
 In accordance with Article 9 of that Order the Department has consulted with the Northern Ireland Local Government Association, the Northern Ireland Local Government Officers’ Superannuation Committee and such representatives of other persons likely to be affected by the Regulations as appeared to it to be appropriate:
 
-## PART 1 — GENERAL[^key-933abcc2f0994a87a1c5f1e057260c87]
+## PART 1 — GENERAL[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
-### 1. Citation, commencement, interpretation and retrospection[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 1. Citation, commencement, interpretation and retrospection[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Amendment of the principal Regulations[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 2. Amendment of the principal Regulations[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 2 — THE TAX REGIME
 
-### 3. Requirements for admission agreements[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 3. Requirements for admission agreements[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Further restrictions on eligibility[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 4. Further restrictions on eligibility[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Periods of membership: “total membership”[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 5. Periods of membership: “total membership”[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. High earners[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 6. High earners[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Members’ contributions[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 7. Members’ contributions[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Employer’s discretion to reduce member’s contribution rate[^key-5143a2090bf182e8f0d04e2d26c56d1d][^key-5143a2090bf182e8f0d04e2d26c56d1d]
+### 8. Employer’s discretion to reduce member’s contribution rate[^c-5143a2090bf182e8f0d04e2d26c56d1d][^c-5143a2090bf182e8f0d04e2d26c56d1d]
 
-(1)[^key-933abcc2f0994a87a1c5f1e057260c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-933abcc2f0994a87a1c5f1e057260c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Where, before its deletion by paragraph (1), a member’s liability to make contributions to the Scheme has been reduced or, as the case may be, extinguished in accordance with regulation 14, his employing authority may recover any such contributions as would otherwise have been made.
 
-### 9. Inland revenue limits on contributions[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 9. Inland revenue limits on contributions[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Limit on total amount of benefits and deduction of tax[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 10. Limit on total amount of benefits and deduction of tax[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Calculations[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 11. Calculations[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Final pay[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 12. Final pay[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Revenue restrictions[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 13. Revenue restrictions[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Retirement after normal retirement date[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 14. Retirement after normal retirement date[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Re-employed and rejoining deferred members[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 15. Re-employed and rejoining deferred members[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Surrenders of pensions[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 16. Surrenders of pensions[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Requirements as to time of payment[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 17. Requirements as to time of payment[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Guaranteed minimum pensions etc.[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 18. Guaranteed minimum pensions etc.[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Surviving spouse’s or civil partner’s long-term pension[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 19. Surviving spouse’s or civil partner’s long-term pension[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Reduction of some surviving spouses’ pensions[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 20. Reduction of some surviving spouses’ pensions[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Meaning of “eligible child”[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 21. Meaning of “eligible child”[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Children’s long-term pensions[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 22. Children’s long-term pensions[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Commutation: small pensions[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 23. Commutation: small pensions[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Commutation: exceptional ill-health[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 24. Commutation: exceptional ill-health[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Scope of Part III: limits on benefits[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 25. Scope of Part III: limits on benefits[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Power of employing authority to increase total membership[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 26. Power of employing authority to increase total membership[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Effect of increases under this Chapter for older members[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 27. Effect of increases under this Chapter for older members[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Payments to increase total membership[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 28. Payments to increase total membership[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Effect of increases under this Chapter for older members[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 29. Effect of increases under this Chapter for older members[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. Election for pension in lieu of retirement grant[^key-4ea11f7d84adb30e7f010633a294514a][^key-4ea11f7d84adb30e7f010633a294514a]
+### 30. Election for pension in lieu of retirement grant[^c-4ea11f7d84adb30e7f010633a294514a][^c-4ea11f7d84adb30e7f010633a294514a]
 
-(1)[^key-933abcc2f0994a87a1c5f1e057260c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-933abcc2f0994a87a1c5f1e057260c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Where, before its deletion by paragraph (1), a deferred member, who was a member before 1st February 2003, has become entitled to the immediate payment of a pension under Part D of the 2000 Regulations, he may make an election under this regulation, subject to regulation 19 of the principal Regulations, for the whole or part of the retirement grant or, in the case where the entitlement to pension is under regulation D7 of the 2000 Regulations, of the ill-health retirement grant to be used instead by the Scheme to provide pension for him.
 
-### 31. Election for lump sum in lieu of pension[^key-48a3d7dc37567f03db7fe709239ae2d0][^key-48a3d7dc37567f03db7fe709239ae2d0]
+### 31. Election for lump sum in lieu of pension[^c-48a3d7dc37567f03db7fe709239ae2d0][^c-48a3d7dc37567f03db7fe709239ae2d0]
 
-(1)[^key-933abcc2f0994a87a1c5f1e057260c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-933abcc2f0994a87a1c5f1e057260c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Where, before its deletion by paragraph (1), a deferred member, who was a member before 1st February 2003, has become entitled to the immediate payment of a pension under Part D of the 2000 Regulations, he may make an election under this regulation, subject to regulation 19 of the principal Regulations, for part of the pension or, in the case where the entitlement to pension is under regulation D7 of the 2000 Regulations, of the ill-health pension to be used instead by the Scheme to provide a lump sum for him.
 
-### 32. Retirement benefits[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 32. Retirement benefits[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 33. Elections as to use of accumulated value of AVCs[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 33. Elections as to use of accumulated value of AVCs[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 34. Application and investment of SCAVCs[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 34. Application and investment of SCAVCs[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 35. Accounts and audit[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 35. Accounts and audit[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 36. Employer’s further payments[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 36. Employer’s further payments[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 37. Over-provision: calculation and return of surplus AVC and SCAVC funds[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 37. Over-provision: calculation and return of surplus AVC and SCAVC funds[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 38. Rights to return of contributions[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 38. Rights to return of contributions[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 39. Commencement of pensions[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 39. Commencement of pensions[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 40. Treatment of other benefits[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 40. Treatment of other benefits[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 41. Decisions as to status of employees and decisions as to benefits[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 41. Decisions as to status of employees and decisions as to benefits[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 42. Statements of policy concerning exercise of discretionary functions[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 42. Statements of policy concerning exercise of discretionary functions[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 43. Commutation: small pensions[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 43. Commutation: small pensions[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 44. Commutation: serious ill-health[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 44. Commutation: serious ill-health[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 45. Interpretation[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 45. Interpretation[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 46. Matters to be included in an admission agreement in certain cases[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 46. Matters to be included in an admission agreement in certain cases[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 47. Excluded membership[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 47. Excluded membership[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 48. Revenue restrictions[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 48. Revenue restrictions[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — THE 85 YEAR RULE[^key-933abcc2f0994a87a1c5f1e057260c87]
+## PART 3 — THE 85 YEAR RULE[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
-### 49. Normal retirement[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 49. Normal retirement[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 50. Other early leavers: deferred retirement benefits and elections for early payment[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 50. Other early leavers: deferred retirement benefits and elections for early payment[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 51. Re-employed and rejoining deferred members[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 51. Re-employed and rejoining deferred members[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 52. Payments to increase total membership[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 52. Payments to increase total membership[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 53. Commencement of pensions[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 53. Commencement of pensions[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 54. Right to count a credited period[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 54. Right to count a credited period[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 55. Credited periods for transferring members with mis-sold pension rights[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 55. Credited periods for transferring members with mis-sold pension rights[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 56. Rights as to service not matched by credited period[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 56. Rights as to service not matched by credited period[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 57. Interpretation[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 57. Interpretation[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — TRANSITIONAL PROVISIONS[^key-933abcc2f0994a87a1c5f1e057260c87]
+## PART 4 — TRANSITIONAL PROVISIONS[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
-### 58. Transitional provisions and savings[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 58. Transitional provisions and savings[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 59. Right to opt out[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 59. Right to opt out[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — GOVERNANCE AND COMMUNICATION POLICY STATEMENTS[^key-933abcc2f0994a87a1c5f1e057260c87]
+## PART 5 — GOVERNANCE AND COMMUNICATION POLICY STATEMENTS[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
-### 60. Governance policy statement[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 60. Governance policy statement[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 61. Communication policy statements[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 61. Communication policy statements[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 6 — MINOR TECHNICAL AMENDMENTS[^key-933abcc2f0994a87a1c5f1e057260c87]
+## PART 6 — MINOR TECHNICAL AMENDMENTS[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
-### 62. Further restrictions on eligibility[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 62. Further restrictions on eligibility[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 63. First instance decisions[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 63. First instance decisions[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 64. Interpretation[^key-933abcc2f0994a87a1c5f1e057260c87]
+### 64. Interpretation[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -417,23 +417,23 @@ J Ritchie
 
 A senior officer of the Department of the Environment
 
-## SCHEDULE — Transitional Provisions and Savings[^key-933abcc2f0994a87a1c5f1e057260c87]
+## SCHEDULE — Transitional Provisions and Savings[^c-933abcc2f0994a87a1c5f1e057260c87]
 
 **No longer in force.**
 
 Regulation 58
 
-**1.**[^key-933abcc2f0994a87a1c5f1e057260c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-933abcc2f0994a87a1c5f1e057260c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-933abcc2f0994a87a1c5f1e057260c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-933abcc2f0994a87a1c5f1e057260c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-933abcc2f0994a87a1c5f1e057260c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-933abcc2f0994a87a1c5f1e057260c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-933abcc2f0994a87a1c5f1e057260c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-933abcc2f0994a87a1c5f1e057260c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-933abcc2f0994a87a1c5f1e057260c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-933abcc2f0994a87a1c5f1e057260c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-933abcc2f0994a87a1c5f1e057260c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-933abcc2f0994a87a1c5f1e057260c87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 EXPLANATORY NOTE
 
@@ -465,10 +465,10 @@ Part 6 makes the following minor technical amendments—
 
 [^f00002]: Footnote: S.R. & O (N.I.) [1973 No. 504](https://www.legislation.gov.uk/nisr/1973/504) Article 7 (1); [S.I. 1976/424 (N.I. 6)](https://www.legislation.gov.uk/nisi/1976/424).
 
-[^key-933abcc2f0994a87a1c5f1e057260c87]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/152) revoked in part (1.4.2009) by [Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/34)](https://www.legislation.gov.uk/nisr/2009/34), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/34/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2009/34/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/nisr/2009/34/regulation/3))
+[^c-933abcc2f0994a87a1c5f1e057260c87]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/152) revoked in part (1.4.2009) by [Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/34)](https://www.legislation.gov.uk/nisr/2009/34), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/34/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2009/34/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/nisr/2009/34/regulation/3))
 
-[^key-5143a2090bf182e8f0d04e2d26c56d1d]: Commencement: Reg. 8 in operation at 6.4.2006, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2007/152/regulation/1/2/a)
+[^c-5143a2090bf182e8f0d04e2d26c56d1d]: Commencement: Reg. 8 in operation at 6.4.2006, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2007/152/regulation/1/2/a)
 
-[^key-4ea11f7d84adb30e7f010633a294514a]: Commencement: Reg. 30 in operation at 6.4.2006, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2007/152/regulation/1/2/a)
+[^c-4ea11f7d84adb30e7f010633a294514a]: Commencement: Reg. 30 in operation at 6.4.2006, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2007/152/regulation/1/2/a)
 
-[^key-48a3d7dc37567f03db7fe709239ae2d0]: Commencement: Reg. 31 in operation at 6.4.2006, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2007/152/regulation/1/2/a)
+[^c-48a3d7dc37567f03db7fe709239ae2d0]: Commencement: Reg. 31 in operation at 6.4.2006, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2007/152/regulation/1/2/a)

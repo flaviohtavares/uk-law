@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Annual report relating to prison capacity[^key-0d8234ad973d76ad2ee8ac459171a92c][^key-cc9e7e50f969b8b96886bf01069b35f4]
+## 21. Annual report relating to prison capacity[^c-0d8234ad973d76ad2ee8ac459171a92c][^c-cc9e7e50f969b8b96886bf01069b35f4]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0d8234ad973d76ad2ee8ac459171a92c]: Commencement: S. 21 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-0d8234ad973d76ad2ee8ac459171a92c]: Commencement: S. 21 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
 
-[^key-cc9e7e50f969b8b96886bf01069b35f4]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2026/2/section/21) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/a)
+[^c-cc9e7e50f969b8b96886bf01069b35f4]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2026/2/section/21) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/a)

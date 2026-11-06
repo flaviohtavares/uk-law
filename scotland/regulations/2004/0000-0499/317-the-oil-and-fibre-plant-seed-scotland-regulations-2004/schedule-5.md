@@ -24,30 +24,30 @@ Regulations 2(1), 15(1) and (2), 23(5) and (6) and paragraph 15 of Part II of Sc
 
 ### PART I — SAMPLING OF SEED LOTS
 
-#### 1. Definitions[^key-21c0fff2b160129f3b3f3c66e78273e2]
+#### 1. Definitions[^c-21c0fff2b160129f3b3f3c66e78273e2]
 
 In this Part of this Schedule–
 
 - “composite sample” means a single sample comprising all of the primary samples taken from a seed lot during a single sampling exercise to produce a submitted sample[^f00040] for the seed lot; and
 - “primary sample” means a sample taken from a seed lot in accordance with paragraphs 13 to 18 of this Part of this Schedule.
 
-#### 2. Obtaining a submitted sample[^key-ad9ae2f922a755fb93099ed6c51e299e]
+#### 2. Obtaining a submitted sample[^c-ad9ae2f922a755fb93099ed6c51e299e]
 
 A submitted sample shall be obtained from the seed lot by taking primary samples systematically or at random from different positions in the seed lot and combining them to form a composite sample. Where the composite sample is a submitted sample, it may be submitted for an official examination intact or it may be reduced in weight by using one of the instruments referred to in paragraph 19 of this Part of this Schedule in accordance, where appropriate, with the relevant procedures specified in paragraphs 19 to 21 of this Part of this Schedule to give a smaller submitted sample.
 
-#### 3. Primary sample size[^key-20b6ded7c0a55b9a0a702de3d20fd35d]
+#### 3. Primary sample size[^c-20b6ded7c0a55b9a0a702de3d20fd35d]
 
 At each position of sampling of a seed lot, primary samples of approximately equal size shall be taken.
 
-#### 4. Condition of the seed lot[^key-8a86b023ef9b3bdae725d54a00eb0db7]
+#### 4. Condition of the seed lot[^c-8a86b023ef9b3bdae725d54a00eb0db7]
 
 The seed lot to be sampled shall be a homogeneous seed lot[^f00041].
 
-#### 5. Seed lot containers[^key-637537bc35cd2511c4acdcb8c158f14b]
+#### 5. Seed lot containers[^c-637537bc35cd2511c4acdcb8c158f14b]
 
 If a seed lot is presented for sampling in more than one container, the containers shall be of the same size and type and contain approximately the same weight of seed.
 
-#### 6. Sampling from sacks – minimum number of containers to be sampled[^key-bbcc9e17feb0ce079521187ff907b436]
+#### 6. Sampling from sacks – minimum number of containers to be sampled[^c-bbcc9e17feb0ce079521187ff907b436]
 
 When the seed lot is in sacks or similar sized containers each containing at least 15 kilograms of seed and not more than 100 kilograms of seed, the minimum number of containers to be sampled shall be in accordance with the following table:–
 
@@ -60,23 +60,23 @@ When the seed lot is in sacks or similar sized containers each containing at lea
 | 31 59 | A total of 20 primary samples with each sample being taken from a different container |
 | 60 or more | A total of 30 primary samples with each sample being taken from a different container |
 
-#### 7. Sampling from sacks or similar containers[^key-8d108c1b33182db3cfdce7c6aa006aac]
+#### 7. Sampling from sacks or similar containers[^c-8d108c1b33182db3cfdce7c6aa006aac]
 
 The containers to be sampled shall be selected systematically or at random and primary samples shall be drawn from the top, middle and bottom of containers; and if more than one primary sample is taken from any container then the position from which the seed is taken shall be varied from primary sample to primary sample and from container to container.
 
-#### 8. Sampling from small containers – general[^key-031b3407ba591bbdf909d342e587343a]
+#### 8. Sampling from small containers – general[^c-031b3407ba591bbdf909d342e587343a]
 
 For sampling seed lots in containers holding less than 15 kilograms of seed, a 100 kilogram weight of seed shall be taken as the basic unit and the small containers shall be combined to form sampling units not exceeding this weight (for example 9 packages of 10 kilograms, 20 packages of 5 kilograms) and for sampling purposes each unit shall be regarded as one container and the sampling procedures prescribed in paragraphs 6 and 7 of this Part of this Schedule shall be used.
 
-#### 9. Sampling from small containers – moisture proof containers[^key-18a7125f43884b9226456393516c8bc5]
+#### 9. Sampling from small containers – moisture proof containers[^c-18a7125f43884b9226456393516c8bc5]
 
 When seed is in moisture-proof containers the opened or pierced containers shall be adequately closed or the residues from sampling transferred to new containers.
 
-#### 10. Sampling from small containers – primary samples[^key-c39b2459c0dcfe1d297395b31a7d4ee7]
+#### 10. Sampling from small containers – primary samples[^c-c39b2459c0dcfe1d297395b31a7d4ee7]
 
 When seed is in packets of 100 grams or less each packet may be considered as a primary sample and sufficient shall be taken at random to obtain a submitted sample.
 
-#### 11. Sampling from large containers[^key-391de062aa553a636eaf612d70128752]
+#### 11. Sampling from large containers[^c-391de062aa553a636eaf612d70128752]
 
 For the sampling of containers holding at least 100 kilograms of seed, primary samples shall be taken from different horizontal and vertical positions selected at random and the minimum number of primary samples to be taken shall be in accordance with the following table:–
 
@@ -87,23 +87,23 @@ For the sampling of containers holding at least 100 kilograms of seed, primary s
 | 3,001–20,000 | 1 for each 500 kilograms but no fewer than 10 |
 | 20,001 and above | 1 for each 700 kilograms but no fewer than 40 |
 
-#### 12. Sampling from a seed stream[^key-968348501a54491eb28cb6bbd1dd61b5]
+#### 12. Sampling from a seed stream[^c-968348501a54491eb28cb6bbd1dd61b5]
 
 Primary samples may be drawn from a seed stream during processing using an automatic sampling device, which shall uniformly sample the entire cross-section of the seed stream when a sample is taken. Primary samples of seed shall be taken at regular intervals throughout the processing of the seed lot using the same sampling intensity as specified in paragraph 11 of this Part of this Schedule.
 
-#### 13. Sampling instruments – general[^key-025cb8d15e378675d7193f30cc2b3c2a]
+#### 13. Sampling instruments – general[^c-025cb8d15e378675d7193f30cc2b3c2a]
 
 Sampling instruments shall be capable of sampling all parts of the seed lot.
 
-#### 14. Sampling instruments – instruments and methods[^key-ebd352efc26c132d10adf56cbd516cfd]
+#### 14. Sampling instruments – instruments and methods[^c-ebd352efc26c132d10adf56cbd516cfd]
 
 Subject to paragraph 15 of this Part of this Schedule, one of the instruments described in paragraph 16 of this Part of this Schedule shall be used, as appropriate to the location of the seed, to draw primary samples in accordance with the relevant methods described in paragraphs 17 and 18 of this Part of this Schedule.
 
-#### 15. Sampling instruments – power to allow other instruments and methods[^key-348b94f47506832f0de82026c3a42d4c]
+#### 15. Sampling instruments – power to allow other instruments and methods[^c-348b94f47506832f0de82026c3a42d4c]
 
 Where it is not practicable to use any of the instruments described in paragraph 16 of this Part of this Schedule in accordance with the relevant methods described in paragraphs 17 and 18 of this Part of this Schedule, another instrument or method may be used with the written approval of the Scottish Ministers.
 
-#### 16. Sampling instruments – instruments for drawing primary samples[^key-57971831567d1965d246301f5691931b]
+#### 16. Sampling instruments – instruments for drawing primary samples[^c-57971831567d1965d246301f5691931b]
 
 The instruments referred to in paragraph 14 of this Part of this Schedule, to be used for drawing primary samples are as follows:–
 
@@ -170,11 +170,11 @@ The instruments referred to in paragraph 14 of this Part of this Schedule, to be
 
 - (d) Subject to paragraph 13 of this Part of this Schedule, a seed stream sampler may be used if it has been approved in writing by the Scottish Ministers and if it uniformly samples the cross section of the seed stream without any loss of the seed and any other particles which enter the seed stream sampler, in accordance with the method described in paragraph 18(e) of this Part of this Schedule. Timing devices shall be attached so that the frequency and duration of sampling can be adjusted to meet the requirements of paragraph 12 of this Part of this Schedule.
 
-#### 17. Methods of use of dynamic spear samplers, stick samplers, cargo samplers and seed stream samplers – general[^key-059dc095744bedc2d78cf53a79c43fd3]
+#### 17. Methods of use of dynamic spear samplers, stick samplers, cargo samplers and seed stream samplers – general[^c-059dc095744bedc2d78cf53a79c43fd3]
 
 All instruments shall be clean before use.
 
-#### 18. Methods of use of dynamic spear samplers, stick samplers, cargo samplers and seed stream samplers – specific[^key-575e0d991e987df7c81c97421da1a96c]
+#### 18. Methods of use of dynamic spear samplers, stick samplers, cargo samplers and seed stream samplers – specific[^c-575e0d991e987df7c81c97421da1a96c]
 
 The methods of using the instruments described in paragraph 16 shall be as follows:–
 
@@ -231,7 +231,7 @@ The methods of using the instruments described in paragraph 16 shall be as follo
 
 - (e) In the case of a seed stream sampler, the instrument shall take the number of primary samples necessary for the weight of seed lot being sampled, the primary samples being taken from the seed lot at regular intervals and the resultant composite sample being of a weight not less than the minimum weight prescribed in paragraph 24 of Part II of this Schedule and not greater than can conveniently be reduced by means of one of the methods of sample reduction specified in paragraphs 19 to 21. They shall be installed in such a way that the composite sample can be readily identified with the seed lot from which it was taken.
 
-#### 19. Obtaining a submitted sample – composite sample division instruments[^key-529c70200d4bf8f944b9375995c49c0a]
+#### 19. Obtaining a submitted sample – composite sample division instruments[^c-529c70200d4bf8f944b9375995c49c0a]
 
 Where the composite sample exceeds the minimum weight prescribed for a sample in paragraph 24 of Part II of this Schedule, any of the following instruments may be used to reduce the weight of the sample:–
 
@@ -252,7 +252,7 @@ Where the composite sample exceeds the minimum weight prescribed for a sample in
 
 - (c) Other instruments and methods may be used with the written approval of the Scottish Ministers.
 
-#### 20. Method of use of riffle divider[^key-9856da68258048d335e8fc0b2a983a46]
+#### 20. Method of use of riffle divider[^c-9856da68258048d335e8fc0b2a983a46]
 
 The method of using a riffle divider shall be as follows:–
 
@@ -285,7 +285,7 @@ The method of using a riffle divider shall be as follows:–
 - (r) when two submitted samples are required from one composite sample, one composite sample of at least twice the minimum weight prescribed in paragraph 24 of Part II of this Schedule for a sample shall be obtained using the procedures specified in sub paragraphs (c) to (g) and (h) to (q), as appropriate. The composite sample shall then be divided into two parts by passing it once through the riffle divider; and
 - (s) when three submitted samples are required from one composite sample, one composite sample of at least three times the minimum weight prescribed in paragraph 24 of Part II of this Schedule for a sample shall be obtained using the procedures specified in sub-paragraphs (c) to (g) and (h) to (q) as appropriate. A submitted sample shall then be extracted using the procedures specified in sub paragraphs (c) to (g) and (h) to (q), as appropriate. All portions of seed which have been set aside shall then be recombined and two submitted samples shall be obtained from this residue of the composite sample by following the procedure specified in sub paragraph (r).
 
-#### 21. Methods of use of a centrifugal divider[^key-91dd6d1170c715d63fa65f2feb596910]
+#### 21. Methods of use of a centrifugal divider[^c-91dd6d1170c715d63fa65f2feb596910]
 
 The method of using a centrifugal divider shall be as follows:–
 
@@ -322,15 +322,15 @@ The method of using a centrifugal divider shall be as follows:–
 
 ### PART II — MAXIMUM WEIGHT OF A SEED LOT AND MINIMUM WEIGHT OF A SUBMITTED SAMPLE
 
-#### 22. Maximum weight of a seed lot[^key-446c27af87e4393ca07aef485c68edc8]
+#### 22. Maximum weight of a seed lot[^c-446c27af87e4393ca07aef485c68edc8]
 
 Subject to paragraph 23, the maximum weight of a seed lot shall be that set out in column 2 of the table in paragraph 24 in relation to the corresponding entry in column 1 of the table.
 
-#### 23. Margin by which seed lots can exceed maximum weight[^key-a5f4e33a6dd34176e71990963892065d]
+#### 23. Margin by which seed lots can exceed maximum weight[^c-a5f4e33a6dd34176e71990963892065d]
 
 A seed lot may exceed the maximum weight for a seed lot set out in column 2 of the table in paragraph 24 by not more than 5%.
 
-#### 24. Minimum weight of a sample[^key-420fe50ec0eae1b73ddd14dd90e4a521]
+#### 24. Minimum weight of a sample[^c-420fe50ec0eae1b73ddd14dd90e4a521]
 
 The minimum weight of a sample submitted for official examination shall be that specified in column 3 of the following table in relation to the corresponding entry in column 1 of the table:–
 
@@ -354,62 +354,62 @@ The minimum weight of a sample submitted for official examination shall be that 
 </tbody>
 </table>
 
-[^key-381aaafb47eace2e98b193ca907bcbc7][^key-8b810e495df5ca767a994c74cfbf57cd]
+[^c-381aaafb47eace2e98b193ca907bcbc7][^c-8b810e495df5ca767a994c74cfbf57cd]
 
 ## Annotations
 
-[^key-21c0fff2b160129f3b3f3c66e78273e2]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/1) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-21c0fff2b160129f3b3f3c66e78273e2]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/1) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
 [^f00040]: Footnote: See regulation 2(1) for the definition of “submitted sample”.
 
-[^key-ad9ae2f922a755fb93099ed6c51e299e]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/2) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-ad9ae2f922a755fb93099ed6c51e299e]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/2) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-20b6ded7c0a55b9a0a702de3d20fd35d]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/3) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-20b6ded7c0a55b9a0a702de3d20fd35d]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/3) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-8a86b023ef9b3bdae725d54a00eb0db7]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/4) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-8a86b023ef9b3bdae725d54a00eb0db7]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/4) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
 [^f00041]: Footnote: See regulation 2(1) for the definition of “homogeneous seed lot”.
 
-[^key-637537bc35cd2511c4acdcb8c158f14b]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/5) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-637537bc35cd2511c4acdcb8c158f14b]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/5) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-bbcc9e17feb0ce079521187ff907b436]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/6) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-bbcc9e17feb0ce079521187ff907b436]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/6) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-8d108c1b33182db3cfdce7c6aa006aac]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/7) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-8d108c1b33182db3cfdce7c6aa006aac]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/7) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-031b3407ba591bbdf909d342e587343a]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/8) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-031b3407ba591bbdf909d342e587343a]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/8) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-18a7125f43884b9226456393516c8bc5]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/9) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-18a7125f43884b9226456393516c8bc5]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/9) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-c39b2459c0dcfe1d297395b31a7d4ee7]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/10) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-c39b2459c0dcfe1d297395b31a7d4ee7]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/10) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-391de062aa553a636eaf612d70128752]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/11) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-391de062aa553a636eaf612d70128752]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/11) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-968348501a54491eb28cb6bbd1dd61b5]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/12) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-968348501a54491eb28cb6bbd1dd61b5]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/12) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-025cb8d15e378675d7193f30cc2b3c2a]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/13) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-025cb8d15e378675d7193f30cc2b3c2a]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/13) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-ebd352efc26c132d10adf56cbd516cfd]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/14) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-ebd352efc26c132d10adf56cbd516cfd]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/14) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-348b94f47506832f0de82026c3a42d4c]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/15) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-348b94f47506832f0de82026c3a42d4c]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/15) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-57971831567d1965d246301f5691931b]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/16) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-57971831567d1965d246301f5691931b]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/16) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-059dc095744bedc2d78cf53a79c43fd3]: Commencement: [Sch. 5 para. 17](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/17) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-059dc095744bedc2d78cf53a79c43fd3]: Commencement: [Sch. 5 para. 17](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/17) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-575e0d991e987df7c81c97421da1a96c]: Commencement: [Sch. 5 para. 18](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/18) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-575e0d991e987df7c81c97421da1a96c]: Commencement: [Sch. 5 para. 18](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/18) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-529c70200d4bf8f944b9375995c49c0a]: Commencement: [Sch. 5 para. 19](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/19) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-529c70200d4bf8f944b9375995c49c0a]: Commencement: [Sch. 5 para. 19](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/19) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-9856da68258048d335e8fc0b2a983a46]: Commencement: [Sch. 5 para. 20](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/20) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-9856da68258048d335e8fc0b2a983a46]: Commencement: [Sch. 5 para. 20](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/20) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-91dd6d1170c715d63fa65f2feb596910]: Commencement: [Sch. 5 para. 21](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/part/I/paragraph/6n2) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-91dd6d1170c715d63fa65f2feb596910]: Commencement: [Sch. 5 para. 21](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/part/I/paragraph/6n2) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-446c27af87e4393ca07aef485c68edc8]: Commencement: [Sch. 5 para. 22](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/22) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-446c27af87e4393ca07aef485c68edc8]: Commencement: [Sch. 5 para. 22](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/22) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-a5f4e33a6dd34176e71990963892065d]: Commencement: [Sch. 5 para. 23](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/23) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-a5f4e33a6dd34176e71990963892065d]: Commencement: [Sch. 5 para. 23](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/23) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-420fe50ec0eae1b73ddd14dd90e4a521]: Commencement: [Sch. 5 para. 24](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/24) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-420fe50ec0eae1b73ddd14dd90e4a521]: Commencement: [Sch. 5 para. 24](https://www.legislation.gov.uk/ssi/2004/317/schedule/5/paragraph/24) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-381aaafb47eace2e98b193ca907bcbc7]: Textual amendment: Words in sch. 5 para. 24 table substituted (1.7.2020) by [The Seed and Plant Material (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/165)](https://www.legislation.gov.uk/ssi/2020/165), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/165/regulation/1/1), [5(4)](https://www.legislation.gov.uk/ssi/2020/165/regulation/5/4)
+[^c-381aaafb47eace2e98b193ca907bcbc7]: Textual amendment: Words in sch. 5 para. 24 table substituted (1.7.2020) by [The Seed and Plant Material (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/165)](https://www.legislation.gov.uk/ssi/2020/165), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/165/regulation/1/1), [5(4)](https://www.legislation.gov.uk/ssi/2020/165/regulation/5/4)
 
-[^key-8b810e495df5ca767a994c74cfbf57cd]: Textual amendment: Word in sch. 5 para. 24 table substituted (30.6.2010) by [The Seed (Scotland) (Miscellaneous Amendments) Regulations 2010 (S.S.I. 2010/219)](https://www.legislation.gov.uk/ssi/2010/219), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2010/219/regulation/1/2), [12](https://www.legislation.gov.uk/ssi/2010/219/regulation/12)
+[^c-8b810e495df5ca767a994c74cfbf57cd]: Textual amendment: Word in sch. 5 para. 24 table substituted (30.6.2010) by [The Seed (Scotland) (Miscellaneous Amendments) Regulations 2010 (S.S.I. 2010/219)](https://www.legislation.gov.uk/ssi/2010/219), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2010/219/regulation/1/2), [12](https://www.legislation.gov.uk/ssi/2010/219/regulation/12)

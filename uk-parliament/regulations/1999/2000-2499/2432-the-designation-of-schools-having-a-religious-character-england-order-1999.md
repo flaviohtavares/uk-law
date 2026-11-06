@@ -40,17 +40,17 @@ Coming into force
 
 In exercise of the powers conferred on the Secretary of State by sections 69(3) and (4) and 135(7) and (8) of the School Standards and Framework Act 1998[^f00001], and having followed the procedure specified in the Religious Character of Schools (Designation Procedure) Regulations 1998[^f00002], the Secretary of State for Education and Employment hereby makes the following order:
 
-**1.**[^key-374f2a3c8c1559735e09974b3a449311] This Order may be cited as the Designation of Schools Having a Religious Character (England) Order 1999 and shall come into force on 1st September 1999.
+**1.**[^c-374f2a3c8c1559735e09974b3a449311] This Order may be cited as the Designation of Schools Having a Religious Character (England) Order 1999 and shall come into force on 1st September 1999.
 
-**2.**[^key-9a5b1d22aea0be8e496ea375f44f6c0c] (1) In this Order “the relevant religion or religious denomination” means the religion or religious denomination in accordance with whose tenets religious education is, or may be, required to be provided at the school in accordance with Schedule 19 to the School Standards and Framework Act 1998 (or as the case may be, each such religion or religious denomination).
+**2.**[^c-9a5b1d22aea0be8e496ea375f44f6c0c] (1) In this Order “the relevant religion or religious denomination” means the religion or religious denomination in accordance with whose tenets religious education is, or may be, required to be provided at the school in accordance with Schedule 19 to the School Standards and Framework Act 1998 (or as the case may be, each such religion or religious denomination).
 
 (2) In this Order a reference to the Schedule is a reference to the Schedule to this Order.
 
-**3.**[^key-0a9b0f0f069cce7b4acf7a42560e9173] The schools listed in column (1) of Parts I and II of the Schedule (all of which are foundation or voluntary schools or new schools which have temporary governing bodies and which will be such schools when established) are hereby designated as schools having a religious character.
+**3.**[^c-0a9b0f0f069cce7b4acf7a42560e9173] The schools listed in column (1) of Parts I and II of the Schedule (all of which are foundation or voluntary schools or new schools which have temporary governing bodies and which will be such schools when established) are hereby designated as schools having a religious character.
 
-**4.**[^key-58a8f9b354aeec2c81d5f82174a8ad7c] The relevant religion or religious denomination in relation to a school listed in column (1) of Parts I and II of the Schedule is stated opposite thereto in column (3).
+**4.**[^c-58a8f9b354aeec2c81d5f82174a8ad7c] The relevant religion or religious denomination in relation to a school listed in column (1) of Parts I and II of the Schedule is stated opposite thereto in column (3).
 
-**5.**[^key-d8d391e2fb331179c54835152d1cf3c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d8d391e2fb331179c54835152d1cf3c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 A Sevier
 
@@ -64,7 +64,7 @@ Department for Education and Employment
 
 Regulations 3 to 5
 
-### PART I[^key-283f56c5482c86acd31902947d46ef6b]
+### PART I[^c-283f56c5482c86acd31902947d46ef6b]
 
 <table>
 <thead>
@@ -7207,9 +7207,9 @@ Regulations 3 to 5
 </tbody>
 </table>
 
-[^key-e7a20a4fec525150ad10f9247aafec25][^key-9b07ea3055e38e2fabd2df345c2645d9][^key-9b07ea3055e38e2fabd2df345c2645d9][^key-9b07ea3055e38e2fabd2df345c2645d9][^key-9b07ea3055e38e2fabd2df345c2645d9][^key-9b07ea3055e38e2fabd2df345c2645d9][^key-9b07ea3055e38e2fabd2df345c2645d9][^key-9b07ea3055e38e2fabd2df345c2645d9][^key-9b07ea3055e38e2fabd2df345c2645d9][^key-da71c2ed41930e2bdb91fe543a1155d5][^key-9b07ea3055e38e2fabd2df345c2645d9][^key-9b07ea3055e38e2fabd2df345c2645d9][^key-9b07ea3055e38e2fabd2df345c2645d9][^key-9b07ea3055e38e2fabd2df345c2645d9]
+[^c-e7a20a4fec525150ad10f9247aafec25][^c-9b07ea3055e38e2fabd2df345c2645d9][^c-9b07ea3055e38e2fabd2df345c2645d9][^c-9b07ea3055e38e2fabd2df345c2645d9][^c-9b07ea3055e38e2fabd2df345c2645d9][^c-9b07ea3055e38e2fabd2df345c2645d9][^c-9b07ea3055e38e2fabd2df345c2645d9][^c-9b07ea3055e38e2fabd2df345c2645d9][^c-9b07ea3055e38e2fabd2df345c2645d9][^c-da71c2ed41930e2bdb91fe543a1155d5][^c-9b07ea3055e38e2fabd2df345c2645d9][^c-9b07ea3055e38e2fabd2df345c2645d9][^c-9b07ea3055e38e2fabd2df345c2645d9][^c-9b07ea3055e38e2fabd2df345c2645d9]
 
-### PART II[^key-71a15c65f78eff67e66dd858e24a3d43]
+### PART II[^c-71a15c65f78eff67e66dd858e24a3d43]
 
 **No longer in force.**
 
@@ -7242,22 +7242,22 @@ A statement in the Order in relation to a school that the religious denomination
 
 [^f00002]: Footnote: S.I. [1998/2535](https://www.legislation.gov.uk/uksi/1998/2535).
 
-[^key-374f2a3c8c1559735e09974b3a449311]: Commencement: Art. 1 in force at 1.9.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/2432/article/1)
+[^c-374f2a3c8c1559735e09974b3a449311]: Commencement: Art. 1 in force at 1.9.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/2432/article/1)
 
-[^key-9a5b1d22aea0be8e496ea375f44f6c0c]: Commencement: Art. 2 in force at 1.9.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/2432/article/1)
+[^c-9a5b1d22aea0be8e496ea375f44f6c0c]: Commencement: Art. 2 in force at 1.9.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/2432/article/1)
 
-[^key-0a9b0f0f069cce7b4acf7a42560e9173]: Commencement: Art. 3 in force at 1.9.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/2432/article/1)
+[^c-0a9b0f0f069cce7b4acf7a42560e9173]: Commencement: Art. 3 in force at 1.9.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/2432/article/1)
 
-[^key-58a8f9b354aeec2c81d5f82174a8ad7c]: Commencement: Art. 4 in force at 1.9.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/2432/article/1)
+[^c-58a8f9b354aeec2c81d5f82174a8ad7c]: Commencement: Art. 4 in force at 1.9.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/2432/article/1)
 
-[^key-d8d391e2fb331179c54835152d1cf3c5]: Textual amendment: Art. 5 revoked (1.11.2000) by [The Designation of Schools Having a Religious Character (England) Order 2000 (S.I. 2000/3080)](https://www.legislation.gov.uk/uksi/2000/3080), [arts. 1](https://www.legislation.gov.uk/uksi/2000/3080/article/1), [5](https://www.legislation.gov.uk/uksi/2000/3080/article/5)
+[^c-d8d391e2fb331179c54835152d1cf3c5]: Textual amendment: Art. 5 revoked (1.11.2000) by [The Designation of Schools Having a Religious Character (England) Order 2000 (S.I. 2000/3080)](https://www.legislation.gov.uk/uksi/2000/3080), [arts. 1](https://www.legislation.gov.uk/uksi/2000/3080/article/1), [5](https://www.legislation.gov.uk/uksi/2000/3080/article/5)
 
-[^key-283f56c5482c86acd31902947d46ef6b]: Commencement: Sch. Pt. I in force at 1.9.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/2432/article/1)
+[^c-283f56c5482c86acd31902947d46ef6b]: Commencement: Sch. Pt. I in force at 1.9.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/2432/article/1)
 
-[^key-e7a20a4fec525150ad10f9247aafec25]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/1999/2432/schedule/part/1) inserted (15.12.2023) by The Designation of Schools Having a [Religious Character (England) (No. 2) (Amendment) Order 2023 (S.I. 2023/1392)](https://www.legislation.gov.uk/uksi/2023/1392), [arts. 1](https://www.legislation.gov.uk/uksi/2023/1392/article/1), [3](https://www.legislation.gov.uk/uksi/2023/1392/article/3)
+[^c-e7a20a4fec525150ad10f9247aafec25]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/1999/2432/schedule/part/1) inserted (15.12.2023) by The Designation of Schools Having a [Religious Character (England) (No. 2) (Amendment) Order 2023 (S.I. 2023/1392)](https://www.legislation.gov.uk/uksi/2023/1392), [arts. 1](https://www.legislation.gov.uk/uksi/2023/1392/article/1), [3](https://www.legislation.gov.uk/uksi/2023/1392/article/3)
 
-[^key-9b07ea3055e38e2fabd2df345c2645d9]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/1999/2432/schedule/part/1) revoked (26.3.2024) by The Designation of Schools Having a [Religious Character (England) (Amendment and Revocations) Order 2024 (S.I. 2024/427)](https://www.legislation.gov.uk/uksi/2024/427), [arts. 1](https://www.legislation.gov.uk/uksi/2024/427/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2024/427/article/4/a)
+[^c-9b07ea3055e38e2fabd2df345c2645d9]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/1999/2432/schedule/part/1) revoked (26.3.2024) by The Designation of Schools Having a [Religious Character (England) (Amendment and Revocations) Order 2024 (S.I. 2024/427)](https://www.legislation.gov.uk/uksi/2024/427), [arts. 1](https://www.legislation.gov.uk/uksi/2024/427/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2024/427/article/4/a)
 
-[^key-da71c2ed41930e2bdb91fe543a1155d5]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/1999/2432/schedule/part/1) substituted (26.5.2011) by The Designation of Schools Having a [Religious Character (England) (Amendment) Order 2011 (S.I. 2011/1377)](https://www.legislation.gov.uk/uksi/2011/1377), [art. 3](https://www.legislation.gov.uk/uksi/2011/1377/article/3)
+[^c-da71c2ed41930e2bdb91fe543a1155d5]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/1999/2432/schedule/part/1) substituted (26.5.2011) by The Designation of Schools Having a [Religious Character (England) (Amendment) Order 2011 (S.I. 2011/1377)](https://www.legislation.gov.uk/uksi/2011/1377), [art. 3](https://www.legislation.gov.uk/uksi/2011/1377/article/3)
 
-[^key-71a15c65f78eff67e66dd858e24a3d43]: Textual amendment: [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1999/2432/schedule/part/2) revoked (1.11.2000) by The Designation of Schools Having a [Religious Character (England) Order 2000 (S.I. 2000/3080)](https://www.legislation.gov.uk/uksi/2000/3080), [arts. 1](https://www.legislation.gov.uk/uksi/2000/3080/article/1), [5](https://www.legislation.gov.uk/uksi/2000/3080/article/5)
+[^c-71a15c65f78eff67e66dd858e24a3d43]: Textual amendment: [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1999/2432/schedule/part/2) revoked (1.11.2000) by The Designation of Schools Having a [Religious Character (England) Order 2000 (S.I. 2000/3080)](https://www.legislation.gov.uk/uksi/2000/3080), [arts. 1](https://www.legislation.gov.uk/uksi/2000/3080/article/1), [5](https://www.legislation.gov.uk/uksi/2000/3080/article/5)

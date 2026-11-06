@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 131. Power to disapply requirements[^key-87fa9d234eff894f6c00d76b219281e2][^key-14249e119eaddad55cc75eb8374b458d]
+## 131. Power to disapply requirements[^c-87fa9d234eff894f6c00d76b219281e2][^c-14249e119eaddad55cc75eb8374b458d]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-87fa9d234eff894f6c00d76b219281e2]: Commencement: S. 131 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
+[^c-87fa9d234eff894f6c00d76b219281e2]: Commencement: S. 131 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
 
-[^key-14249e119eaddad55cc75eb8374b458d]: Commencement: [S. 131](https://www.legislation.gov.uk/asc/2024/3/section/131) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(i)](https://www.legislation.gov.uk/wsi/2025/698/article/3/i)
+[^c-14249e119eaddad55cc75eb8374b458d]: Commencement: [S. 131](https://www.legislation.gov.uk/asc/2024/3/section/131) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(i)](https://www.legislation.gov.uk/wsi/2025/698/article/3/i)

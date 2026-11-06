@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 55. Application for modification of licence by owner of fishing rights.[^key-6280d73f836dfc2810f09bfc95328c06]
+## 55. Application for modification of licence by owner of fishing rights.[^c-6280d73f836dfc2810f09bfc95328c06]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 - (a) he is not entitled to a protected right for the purposes of this Chapter in respect of those inland waters; or
 - (b) the loss or damage which he has sustained in his capacity as owner of those rights is not attributable to any such breach of statutory duty as is mentioned in subsection (2) or (3) of section 60 below or is in addition to any loss or damage attributable to any such breach.
 
-(4) Where an application is made under this section in respect of any licence, the applicant shall serve notice in the prescribed form on the appropriate agency[^key-65c5b87bfb39eb393b150f08cecffa0e] and on the holder of the licence, stating that each of them is entitled, at any time before the end of the period of twenty-eight days beginning with the date of service of the notice, to make representations in writing to the Secretary of State with respect to the application.
+(4) Where an application is made under this section in respect of any licence, the applicant shall serve notice in the prescribed form on the appropriate agency[^c-65c5b87bfb39eb393b150f08cecffa0e] and on the holder of the licence, stating that each of them is entitled, at any time before the end of the period of twenty-eight days beginning with the date of service of the notice, to make representations in writing to the Secretary of State with respect to the application.
 
 (5) In this section and section 56 below “**fishing rights**”, in relation to any inland waters, means any right (whether it is an exclusive right or a right in common with one or more other persons) to fish in those waters, where the right in question—
 
@@ -42,6 +42,6 @@ and any reference to an owner of fishing rights is a reference to the person for
 
 ## Annotations
 
-[^key-6280d73f836dfc2810f09bfc95328c06]: Modification: S. 55 applied (with modifications) (1.4.2006) by [Water Resources (Abstraction and Impounding) Regulations 2006 (S.I. 2006/641)](https://www.legislation.gov.uk/uksi/2006/641), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2), [20(1)](https://www.legislation.gov.uk/uksi/2006/641/regulation/20/1)
+[^c-6280d73f836dfc2810f09bfc95328c06]: Modification: S. 55 applied (with modifications) (1.4.2006) by [Water Resources (Abstraction and Impounding) Regulations 2006 (S.I. 2006/641)](https://www.legislation.gov.uk/uksi/2006/641), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2), [20(1)](https://www.legislation.gov.uk/uksi/2006/641/regulation/20/1)
 
-[^key-65c5b87bfb39eb393b150f08cecffa0e]: Textual amendment: Words in ss. 53-57 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(i)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/i) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-65c5b87bfb39eb393b150f08cecffa0e]: Textual amendment: Words in ss. 53-57 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(i)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/i) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

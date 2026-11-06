@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION, WALES
 
-The Education (Disapplication of the National Curriculum for Wales at Key Stage 1) (Wales) Regulations 2008 (revoked)[^key-f0fc0d54f8b302d6a6029e1ad7e4c1ce]
+The Education (Disapplication of the National Curriculum for Wales at Key Stage 1) (Wales) Regulations 2008 (revoked)[^c-f0fc0d54f8b302d6a6029e1ad7e4c1ce]
 
 Made
 
@@ -45,26 +45,26 @@ Coming into force
 
 In accordance with regulation 1(2)
 
-[^key-f0fc0d54f8b302d6a6029e1ad7e4c1ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0fc0d54f8b302d6a6029e1ad7e4c1ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-f0fc0d54f8b302d6a6029e1ad7e4c1ce]
+## 1. Title, commencement and application[^c-f0fc0d54f8b302d6a6029e1ad7e4c1ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-f0fc0d54f8b302d6a6029e1ad7e4c1ce]
+## 2. Interpretation[^c-f0fc0d54f8b302d6a6029e1ad7e4c1ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Disapplication of the National Curriculum for Wales at Key Stage 1[^key-f0fc0d54f8b302d6a6029e1ad7e4c1ce]
+## 3. Disapplication of the National Curriculum for Wales at Key Stage 1[^c-f0fc0d54f8b302d6a6029e1ad7e4c1ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0fc0d54f8b302d6a6029e1ad7e4c1ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0fc0d54f8b302d6a6029e1ad7e4c1ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0fc0d54f8b302d6a6029e1ad7e4c1ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0fc0d54f8b302d6a6029e1ad7e4c1ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f0fc0d54f8b302d6a6029e1ad7e4c1ce]: Textual amendment: Regulation revoked (1.9.2022) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 2) Regulations 2022 (S.I. 2022/679)](https://www.legislation.gov.uk/uksi/2022/679), [reg. 7](https://www.legislation.gov.uk/uksi/2022/679/regulation/7)
+[^c-f0fc0d54f8b302d6a6029e1ad7e4c1ce]: Textual amendment: Regulation revoked (1.9.2022) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 2) Regulations 2022 (S.I. 2022/679)](https://www.legislation.gov.uk/uksi/2022/679), [reg. 7](https://www.legislation.gov.uk/uksi/2022/679/regulation/7)

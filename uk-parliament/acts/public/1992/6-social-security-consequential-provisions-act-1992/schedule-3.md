@@ -119,7 +119,7 @@ the Contributions and Benefits Act and the Administration Act (so far as they re
 
 **14.** Regulations may provide that the Contributions and Benefits Act and the Administration Act (so far as they represent the 1973 Act) and this Part of this Schedule (except this paragraph) shall have effect subject to prescribed modifications in relation to persons who attained the age of 16 before 6th April 1975 and who, immediately before that day, were not insured under the 1965 Act.
 
-**15.**[^key-1e8f99ea68f180f01fdef55f8b04b37d] Notwithstanding any repeal effected by the 1973 Act, provision may be made by regulations for continuing in force, with or without prescribed modifications, such provisions of the 1965 Act or any other enactments specified in the third column of Schedule 28 to the 1973 Act (repeals) as the Secretary of State considers appropriate for the purpose of preserving rights to benefit under that Act or those enactments in those cases (if any) in which in his opinion adequate alternative rights to benefit under the Contributions and Benefits Act are not conferred in pursuance of paragraph 12 above, or for temporarily retaining the effect of those provisions for transitional purposes.
+**15.**[^c-1e8f99ea68f180f01fdef55f8b04b37d] Notwithstanding any repeal effected by the 1973 Act, provision may be made by regulations for continuing in force, with or without prescribed modifications, such provisions of the 1965 Act or any other enactments specified in the third column of Schedule 28 to the 1973 Act (repeals) as the Secretary of State considers appropriate for the purpose of preserving rights to benefit under that Act or those enactments in those cases (if any) in which in his opinion adequate alternative rights to benefit under the Contributions and Benefits Act are not conferred in pursuance of paragraph 12 above, or for temporarily retaining the effect of those provisions for transitional purposes.
 
 *Extent: E+W+S*
 
@@ -293,7 +293,7 @@ shall be subject to annulment in pursuance of a resolution of either House of Pa
 
 [^c12204841]: Marginal citation: [1946 c. 67](https://www.legislation.gov.uk/ukpga/1946/67).
 
-[^key-1e8f99ea68f180f01fdef55f8b04b37d]: Modification: Sch. 3 para. 15 extended (4.4.2005) by [Gender Recognition Act 2004 (c. 7)](https://www.legislation.gov.uk/ukpga/2004/7), [s. 26](https://www.legislation.gov.uk/ukpga/2004/7/section/26), Sch. 5 paras. 12, [16](https://www.legislation.gov.uk/ukpga/2004/7/schedule/5/paragraph/16); [S.I. 2005/54](https://www.legislation.gov.uk/uksi/2005/54), [art. 2](https://www.legislation.gov.uk/uksi/2005/54/article/2)
+[^c-1e8f99ea68f180f01fdef55f8b04b37d]: Modification: Sch. 3 para. 15 extended (4.4.2005) by [Gender Recognition Act 2004 (c. 7)](https://www.legislation.gov.uk/ukpga/2004/7), [s. 26](https://www.legislation.gov.uk/ukpga/2004/7/section/26), Sch. 5 paras. 12, [16](https://www.legislation.gov.uk/ukpga/2004/7/schedule/5/paragraph/16); [S.I. 2005/54](https://www.legislation.gov.uk/uksi/2005/54), [art. 2](https://www.legislation.gov.uk/uksi/2005/54/article/2)
 
 [^c12204851]: Textual amendment: [Schedule 3](https://www.legislation.gov.uk/ukpga/1992/6/schedule/3): words in the heading before paragraph 18 substituted*(temp.)* (1.7.1992) by ss. 6, 7(2), Sch. 4 paras. 1, 20(a) of this Act.
 

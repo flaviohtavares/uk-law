@@ -34,7 +34,7 @@ Prevention Of Nuclear Proliferation
 
 Terrorist Financing And Money Laundering
 
-The Financial Restrictions (Iran) Order 2012 (revoked)[^key-08ee37b060aa40e75b2b325456a3bf96]
+The Financial Restrictions (Iran) Order 2012 (revoked)[^c-08ee37b060aa40e75b2b325456a3bf96]
 
 Approved by Parliament
 
@@ -50,32 +50,32 @@ Coming into force
 
 21st November 2012
 
-[^key-08ee37b060aa40e75b2b325456a3bf96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08ee37b060aa40e75b2b325456a3bf96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-08ee37b060aa40e75b2b325456a3bf96]
+## 1. Citation and commencement[^c-08ee37b060aa40e75b2b325456a3bf96]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Relevant persons[^key-08ee37b060aa40e75b2b325456a3bf96]
+## 2. Relevant persons[^c-08ee37b060aa40e75b2b325456a3bf96]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designated persons[^key-08ee37b060aa40e75b2b325456a3bf96]
+## 3. Designated persons[^c-08ee37b060aa40e75b2b325456a3bf96]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Direction to cease business[^key-08ee37b060aa40e75b2b325456a3bf96]
+## 4. Direction to cease business[^c-08ee37b060aa40e75b2b325456a3bf96]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-08ee37b060aa40e75b2b325456a3bf96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08ee37b060aa40e75b2b325456a3bf96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-08ee37b060aa40e75b2b325456a3bf96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08ee37b060aa40e75b2b325456a3bf96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-08ee37b060aa40e75b2b325456a3bf96]: Textual amendment: Order revoked (31.1.2013) by [The Financial Restrictions (Iran) (Revocation) Order 2013 (S.I. 2013/162)](https://www.legislation.gov.uk/uksi/2013/162), [arts. 1](https://www.legislation.gov.uk/uksi/2013/162/article/1), [2](https://www.legislation.gov.uk/uksi/2013/162/article/2)
+[^c-08ee37b060aa40e75b2b325456a3bf96]: Textual amendment: Order revoked (31.1.2013) by [The Financial Restrictions (Iran) (Revocation) Order 2013 (S.I. 2013/162)](https://www.legislation.gov.uk/uksi/2013/162), [arts. 1](https://www.legislation.gov.uk/uksi/2013/162/article/1), [2](https://www.legislation.gov.uk/uksi/2013/162/article/2)

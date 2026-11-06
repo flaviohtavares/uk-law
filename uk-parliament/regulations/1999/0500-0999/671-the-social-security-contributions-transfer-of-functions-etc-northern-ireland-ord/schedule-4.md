@@ -26,7 +26,7 @@ Article 5
 
 ### The Administration Act
 
-**2.**[^key-d7ce174bbf66e9a8e2910d53c6c31052][^key-42e4748e51f0d073a8cf425d1a14e216] (1) Section 104 of the Administration Act is amended as follows.
+**2.**[^c-d7ce174bbf66e9a8e2910d53c6c31052][^c-42e4748e51f0d073a8cf425d1a14e216] (1) Section 104 of the Administration Act is amended as follows.
 
 (2) For subsection (5) there is substituted—
 
@@ -50,7 +50,7 @@ Article 5
 
 **3.**[^M_F_abe2b5b0-43ae-4cd2-b027-ee3923a08664] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-29bf447ff37d7388413c514aaa5db8d5][^key-5d65994556989f332cc605b4020f555a] (1) Section 105 of that Act (delay, obstruction etc. of inspector) is amended as follows.
+**4.**[^c-29bf447ff37d7388413c514aaa5db8d5][^c-5d65994556989f332cc605b4020f555a] (1) Section 105 of that Act (delay, obstruction etc. of inspector) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -65,14 +65,14 @@ Article 5
 
 .
 
-**5.**[^key-dc60fad56ebadce6e0ad8f207bcb1054][^key-16e051970b965899c6251d74c029e950] In section 107[^f00088] of the Administration Act (breach of regulations), in subsection (2)—
+**5.**[^c-dc60fad56ebadce6e0ad8f207bcb1054][^c-16e051970b965899c6251d74c029e950] In section 107[^f00088] of the Administration Act (breach of regulations), in subsection (2)—
 
 - (a) for “Department”, in both places where it occurs, there is substituted “Inland Revenue”, and
 - (b) in paragraph (e), for “its” there is substituted “their”.
 
-**6.**[^key-46e8f2f47ebe089a42cb8454a5a4ff44][^key-ecc7074217a78ad20e1201e3a171c97f] Section 108A[^f00089] of that Act (which imposes penalties relating to contributions but is not yet in force) shall cease to have effect.
+**6.**[^c-46e8f2f47ebe089a42cb8454a5a4ff44][^c-ecc7074217a78ad20e1201e3a171c97f] Section 108A[^f00089] of that Act (which imposes penalties relating to contributions but is not yet in force) shall cease to have effect.
 
-**7.**[^key-4d4b44c936e53e3df20558adae132828][^key-f48721fefc50805b1d7877e2100eb21d] (1) Section 112 of that Act (evidence of non-payment) is amended as follows.
+**7.**[^c-4d4b44c936e53e3df20558adae132828][^c-f48721fefc50805b1d7877e2100eb21d] (1) Section 112 of that Act (evidence of non-payment) is amended as follows.
 
 (2) In subsection (1)[^f00090], for “Department” there is substituted “Inland Revenue”.
 
@@ -90,9 +90,9 @@ Article 5
 
 **8.**[^M_F_fd561044-2ed3-47db-81bb-991d9fe7f10b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-f050e0de47231f1e8adfd5621a712e84][^key-db5b690b3792f85f5d0a499b985a34c1] In section 115B[^f00093] of that Act (liability of directors, etc. for company’s contributions), for “Department”, in each place where it occurs, there is substituted “Inland Revenue”.
+**9.**[^c-f050e0de47231f1e8adfd5621a712e84][^c-db5b690b3792f85f5d0a499b985a34c1] In section 115B[^f00093] of that Act (liability of directors, etc. for company’s contributions), for “Department”, in each place where it occurs, there is substituted “Inland Revenue”.
 
-**10.**[^key-96b5fa167c2cfd99083fff0d8656c00d][^key-55a170b096dec6675df1176dc9d63478] (1) Section 115C of that Act (appeals in relation to personal liability notices) is amended as follows.
+**10.**[^c-96b5fa167c2cfd99083fff0d8656c00d][^c-55a170b096dec6675df1176dc9d63478] (1) Section 115C of that Act (appeals in relation to personal liability notices) is amended as follows.
 
 (2) For any reference to the Department there is substituted a reference to the Inland Revenue.
 
@@ -107,7 +107,7 @@ Article 5
 
 .
 
-**11.**[^key-c7f68d1ee839530fb8a4a05b4045a84c][^key-8ecb355cda1a05bea5298480caadcf28] In section 142 of that Act (destination of contributions), after subsection (4) there is inserted—
+**11.**[^c-c7f68d1ee839530fb8a4a05b4045a84c][^c-8ecb355cda1a05bea5298480caadcf28] In section 142 of that Act (destination of contributions), after subsection (4) there is inserted—
 
 > (4ZA) There shall be paid into the National Insurance Fund so much of any penalty imposed under section 98 of the Taxes Management Act 1970 in a case relating to section 104ZA of this Act (including any penalty imposed by virtue of section 105(4) of this Act) as remains after deduction by the Inland Revenue of the administrative expenses attributable to its recovery.
 >
@@ -119,31 +119,31 @@ Article 5
 
 [^M_F_d189ecc3-de30-4d55-e0b1-8c6415c5eeaf]: Textual amendment: Sch. 4 para. 1 revoked (6.4.2005) by [National Insurance Contributions and Statutory Payments Act 2004 (c. 3)](https://www.legislation.gov.uk/ukpga/2004/3), [s. 13(1)](https://www.legislation.gov.uk/ukpga/2004/3/section/13/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/3/schedule/2/part/2); [S.I. 2004/1943](https://www.legislation.gov.uk/uksi/2004/1943), [art. 6(d)](https://www.legislation.gov.uk/uksi/2004/1943/article/6/d)
 
-[^key-d7ce174bbf66e9a8e2910d53c6c31052]: Commencement: Sch. 4 para. 2 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
+[^c-d7ce174bbf66e9a8e2910d53c6c31052]: Commencement: Sch. 4 para. 2 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
 
-[^key-42e4748e51f0d073a8cf425d1a14e216]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/1999/671/schedule/4/paragraph/2) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
+[^c-42e4748e51f0d073a8cf425d1a14e216]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/1999/671/schedule/4/paragraph/2) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
 
 [^M_F_abe2b5b0-43ae-4cd2-b027-ee3923a08664]: Textual amendment: Sch. 4 para. 3 revoked (6.4.2005) by [National Insurance Contributions and Statutory Payments Act 2004 (c. 3)](https://www.legislation.gov.uk/ukpga/2004/3), [s. 13(1)](https://www.legislation.gov.uk/ukpga/2004/3/section/13/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/3/schedule/2/part/2); [S.I. 2004/1943](https://www.legislation.gov.uk/uksi/2004/1943), [art. 6(d)](https://www.legislation.gov.uk/uksi/2004/1943/article/6/d)
 
-[^key-29bf447ff37d7388413c514aaa5db8d5]: Commencement: Sch. 4 para. 4 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
+[^c-29bf447ff37d7388413c514aaa5db8d5]: Commencement: Sch. 4 para. 4 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
 
-[^key-5d65994556989f332cc605b4020f555a]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/1999/671/schedule/4/paragraph/4) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
+[^c-5d65994556989f332cc605b4020f555a]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/1999/671/schedule/4/paragraph/4) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
 
-[^key-dc60fad56ebadce6e0ad8f207bcb1054]: Commencement: Sch. 4 para. 5 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
+[^c-dc60fad56ebadce6e0ad8f207bcb1054]: Commencement: Sch. 4 para. 5 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
 
-[^key-16e051970b965899c6251d74c029e950]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/1999/671/schedule/4/paragraph/5) in force at 6.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(d)](https://www.legislation.gov.uk/nisr/1999/149/article/2/d), [Sch. 3](https://www.legislation.gov.uk/nisr/1999/149/schedule/3) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
+[^c-16e051970b965899c6251d74c029e950]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/1999/671/schedule/4/paragraph/5) in force at 6.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(d)](https://www.legislation.gov.uk/nisr/1999/149/article/2/d), [Sch. 3](https://www.legislation.gov.uk/nisr/1999/149/schedule/3) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
 
 [^f00088]: Footnote: Section 107 was substituted by Article 56 of the Social Security (Northern Ireland) Order 1998.
 
-[^key-46e8f2f47ebe089a42cb8454a5a4ff44]: Commencement: Sch. 4 para. 6 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
+[^c-46e8f2f47ebe089a42cb8454a5a4ff44]: Commencement: Sch. 4 para. 6 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
 
-[^key-ecc7074217a78ad20e1201e3a171c97f]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/1999/671/schedule/4/paragraph/6) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
+[^c-ecc7074217a78ad20e1201e3a171c97f]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/1999/671/schedule/4/paragraph/6) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
 
 [^f00089]: Footnote: Section 108A was substituted by Article 57 of the Social Security (Northern Ireland) 1998.
 
-[^key-4d4b44c936e53e3df20558adae132828]: Commencement: Sch. 4 para. 7 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
+[^c-4d4b44c936e53e3df20558adae132828]: Commencement: Sch. 4 para. 7 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
 
-[^key-f48721fefc50805b1d7877e2100eb21d]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/1999/671/schedule/4/paragraph/7) in force at 6.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(d)](https://www.legislation.gov.uk/nisr/1999/149/article/2/d), [Sch. 3](https://www.legislation.gov.uk/nisr/1999/149/schedule/3) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
+[^c-f48721fefc50805b1d7877e2100eb21d]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/1999/671/schedule/4/paragraph/7) in force at 6.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(d)](https://www.legislation.gov.uk/nisr/1999/149/article/2/d), [Sch. 3](https://www.legislation.gov.uk/nisr/1999/149/schedule/3) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
 
 [^f00090]: Footnote: Subsection (1) was substituted by Article 58(1) of the Social Security (Northern Ireland) Order 1998.
 
@@ -151,16 +151,16 @@ Article 5
 
 [^M_F_fd561044-2ed3-47db-81bb-991d9fe7f10b]: Textual amendment: Sch. 4 para. 8 revoked (1.9.2004) by [National Insurance Contributions and Statutory Payments Act 2004 (c. 3)](https://www.legislation.gov.uk/ukpga/2004/3), [s. 13(1)](https://www.legislation.gov.uk/ukpga/2004/3/section/13/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/3/schedule/2/part/2); [S.I. 2004/1943](https://www.legislation.gov.uk/uksi/2004/1943), [art. 6(c)(ii)](https://www.legislation.gov.uk/uksi/2004/1943/article/6/c/ii)
 
-[^key-f050e0de47231f1e8adfd5621a712e84]: Commencement: Sch. 4 para. 9 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
+[^c-f050e0de47231f1e8adfd5621a712e84]: Commencement: Sch. 4 para. 9 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
 
-[^key-db5b690b3792f85f5d0a499b985a34c1]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/1999/671/schedule/4/paragraph/9) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
+[^c-db5b690b3792f85f5d0a499b985a34c1]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/1999/671/schedule/4/paragraph/9) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
 
 [^f00093]: Footnote: Sections 115B and 115C were inserted by Article 60 of the Social Security (Northern Ireland) Order.
 
-[^key-96b5fa167c2cfd99083fff0d8656c00d]: Commencement: Sch. 4 para. 10 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
+[^c-96b5fa167c2cfd99083fff0d8656c00d]: Commencement: Sch. 4 para. 10 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
 
-[^key-55a170b096dec6675df1176dc9d63478]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/1999/671/schedule/4/paragraph/10) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
+[^c-55a170b096dec6675df1176dc9d63478]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/1999/671/schedule/4/paragraph/10) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
 
-[^key-c7f68d1ee839530fb8a4a05b4045a84c]: Commencement: Sch. 4 para. 11 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
+[^c-c7f68d1ee839530fb8a4a05b4045a84c]: Commencement: Sch. 4 para. 11 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
 
-[^key-8ecb355cda1a05bea5298480caadcf28]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/uksi/1999/671/schedule/4/paragraph/11) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
+[^c-8ecb355cda1a05bea5298480caadcf28]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/uksi/1999/671/schedule/4/paragraph/11) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))

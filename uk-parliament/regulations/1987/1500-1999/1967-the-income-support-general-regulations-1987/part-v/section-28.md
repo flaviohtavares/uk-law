@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Calculation of income[^key-04e377aafcc5c6d57daab9e30cae1df8]
+## 28. Calculation of income[^c-04e377aafcc5c6d57daab9e30cae1df8]
 
 *Extent: E+W+S*
 
@@ -25,10 +25,10 @@ summary: ''
 - (a) by determining in accordance with this Part, other than Chapter VI, the weekly amount of his income; and
 - (b) by adding to that amount the weekly income calculated under regulation 53 (calculation of tariff income from capital).
 
-(2)[^key-e92f8c2925389d665443f47377eeae4f] For the purposes of paragraph (1) “income” includes capital treated as income under regulation 41 (capital treated as income) and income which a claimant is treated as possessing under regulation 42 (notional income).
+(2)[^c-e92f8c2925389d665443f47377eeae4f] For the purposes of paragraph (1) “income” includes capital treated as income under regulation 41 (capital treated as income) and income which a claimant is treated as possessing under regulation 42 (notional income).
 
 ## Annotations
 
-[^key-04e377aafcc5c6d57daab9e30cae1df8]: Commencement: Reg. 28 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)
+[^c-04e377aafcc5c6d57daab9e30cae1df8]: Commencement: Reg. 28 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)
 
-[^key-e92f8c2925389d665443f47377eeae4f]: Textual amendment: Reg. 28(2) substituted (7.10.1991) by [The Income Support (General) Amendment No. 4 Regulations 1991 (S.I. 1991/1559)](https://www.legislation.gov.uk/uksi/1991/1559), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/1991/1559/regulation/1/1/c), [7](https://www.legislation.gov.uk/uksi/1991/1559/regulation/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1991/1559/regulation/1/2))
+[^c-e92f8c2925389d665443f47377eeae4f]: Textual amendment: Reg. 28(2) substituted (7.10.1991) by [The Income Support (General) Amendment No. 4 Regulations 1991 (S.I. 1991/1559)](https://www.legislation.gov.uk/uksi/1991/1559), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/1991/1559/regulation/1/1/c), [7](https://www.legislation.gov.uk/uksi/1991/1559/regulation/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1991/1559/regulation/1/2))

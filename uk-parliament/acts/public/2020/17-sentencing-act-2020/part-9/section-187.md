@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 187. Youth rehabilitation order to specify end date[^key-5fbafa5b38389191c575416ed2c09061]
+## 187. Youth rehabilitation order to specify end date[^c-5fbafa5b38389191c575416ed2c09061]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ after the date on which the order takes effect.
 
 ## Annotations
 
-[^key-5fbafa5b38389191c575416ed2c09061]: Commencement: S. 187 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-5fbafa5b38389191c575416ed2c09061]: Commencement: S. 187 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

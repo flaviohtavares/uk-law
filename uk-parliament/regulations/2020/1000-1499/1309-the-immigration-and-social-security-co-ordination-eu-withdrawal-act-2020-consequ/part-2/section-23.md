@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Amendment of the Immigration Act 2016[^key-3f5d737e087f168de6da163f6c84194b][^M_I_a9370f45-e036-4037-ccff-eb15a9324f78]
+## 23. Amendment of the Immigration Act 2016[^c-3f5d737e087f168de6da163f6c84194b][^M_I_a9370f45-e036-4037-ccff-eb15a9324f78]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3f5d737e087f168de6da163f6c84194b]: Commencement: Reg. 23 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-3f5d737e087f168de6da163f6c84194b]: Commencement: Reg. 23 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_a9370f45-e036-4037-ccff-eb15a9324f78]: Commencement: Reg. 23 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

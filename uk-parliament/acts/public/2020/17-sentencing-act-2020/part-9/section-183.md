@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 183. Concurrent and consecutive orders[^key-4b3d86249217e91bfb81017c0d5e0cbf]
+## 183. Concurrent and consecutive orders[^c-4b3d86249217e91bfb81017c0d5e0cbf]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ those orders must take effect at the same time (in accordance with section 198).
 
 ## Annotations
 
-[^key-4b3d86249217e91bfb81017c0d5e0cbf]: Commencement: S. 183 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-4b3d86249217e91bfb81017c0d5e0cbf]: Commencement: S. 183 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

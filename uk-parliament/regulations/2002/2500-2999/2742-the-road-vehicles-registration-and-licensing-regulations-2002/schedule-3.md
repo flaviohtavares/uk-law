@@ -88,11 +88,11 @@ shall be taken to have been given or issued at the time it was handed over or, a
 
 ### 7. The prescribed fee
 
-(1) Subject to sub-paragraph[^key-e951ef1591b3a83377f91333ef943fc4] (3), the prescribed fee for an examination, whether under paragraph 1 or under paragraph 4, shall be £41[^key-8aa14a48efe246f7cac9634b55ebf870] .
+(1) Subject to sub-paragraph[^c-e951ef1591b3a83377f91333ef943fc4] (3), the prescribed fee for an examination, whether under paragraph 1 or under paragraph 4, shall be £41[^c-8aa14a48efe246f7cac9634b55ebf870] .
 
-(2)[^key-edbd695ced4a7a2e377b6a7b1889f0c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-edbd695ced4a7a2e377b6a7b1889f0c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) If, at the request of the person submitting the vehicle for examination,[^key-602186e82b7bb8df5edd8b04c0a03d8b] the examination is conducted out of hours the fee shall be increased by £9[^key-627b8b8b9b4a8f41678b7a4988aa42c0] .
+(3) If, at the request of the person submitting the vehicle for examination,[^c-602186e82b7bb8df5edd8b04c0a03d8b] the examination is conducted out of hours the fee shall be increased by £9[^c-627b8b8b9b4a8f41678b7a4988aa42c0] .
 
 (4) In sub-paragraph (3) “out of hours” has the meaning given by paragraph 13(4) of Schedule 2.
 
@@ -104,12 +104,12 @@ shall be taken to have been given or issued at the time it was handed over or, a
 
 ## Annotations
 
-[^key-e951ef1591b3a83377f91333ef943fc4]: Textual amendment: Word in Sch. 3 para. 7(1) substituted (1.4.2010) by [The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2010 (S.I. 2010/451)](https://www.legislation.gov.uk/uksi/2010/451), [regs. 1](https://www.legislation.gov.uk/uksi/2010/451/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/451/regulation/4/2)
+[^c-e951ef1591b3a83377f91333ef943fc4]: Textual amendment: Word in Sch. 3 para. 7(1) substituted (1.4.2010) by [The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2010 (S.I. 2010/451)](https://www.legislation.gov.uk/uksi/2010/451), [regs. 1](https://www.legislation.gov.uk/uksi/2010/451/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/451/regulation/4/2)
 
-[^key-8aa14a48efe246f7cac9634b55ebf870]: Textual amendment: Word in Sch. 3 para. 7(1) substituted (3.5.2009) by [The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2009 (S.I. 2009/880)](https://www.legislation.gov.uk/uksi/2009/880), [regs. 1](https://www.legislation.gov.uk/uksi/2009/880/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2009/880/regulation/4/a)
+[^c-8aa14a48efe246f7cac9634b55ebf870]: Textual amendment: Word in Sch. 3 para. 7(1) substituted (3.5.2009) by [The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2009 (S.I. 2009/880)](https://www.legislation.gov.uk/uksi/2009/880), [regs. 1](https://www.legislation.gov.uk/uksi/2009/880/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2009/880/regulation/4/a)
 
-[^key-edbd695ced4a7a2e377b6a7b1889f0c7]: Textual amendment: Sch. 3 para. 7(2) omitted (1.4.2010) by virtue of [The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2010 (S.I. 2010/451)](https://www.legislation.gov.uk/uksi/2010/451), [regs. 1](https://www.legislation.gov.uk/uksi/2010/451/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2010/451/regulation/4/3)
+[^c-edbd695ced4a7a2e377b6a7b1889f0c7]: Textual amendment: Sch. 3 para. 7(2) omitted (1.4.2010) by virtue of [The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2010 (S.I. 2010/451)](https://www.legislation.gov.uk/uksi/2010/451), [regs. 1](https://www.legislation.gov.uk/uksi/2010/451/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2010/451/regulation/4/3)
 
-[^key-602186e82b7bb8df5edd8b04c0a03d8b]: Textual amendment: Words in Sch. 3 para. 7(3) substituted (1.4.2010) by [The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2010 (S.I. 2010/451)](https://www.legislation.gov.uk/uksi/2010/451), [regs. 1](https://www.legislation.gov.uk/uksi/2010/451/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2010/451/regulation/4/4)
+[^c-602186e82b7bb8df5edd8b04c0a03d8b]: Textual amendment: Words in Sch. 3 para. 7(3) substituted (1.4.2010) by [The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2010 (S.I. 2010/451)](https://www.legislation.gov.uk/uksi/2010/451), [regs. 1](https://www.legislation.gov.uk/uksi/2010/451/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2010/451/regulation/4/4)
 
-[^key-627b8b8b9b4a8f41678b7a4988aa42c0]: Textual amendment: Word in Sch. 3 para. 7(3) substituted (3.5.2009) by [The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2009 (S.I. 2009/880)](https://www.legislation.gov.uk/uksi/2009/880), [regs. 1](https://www.legislation.gov.uk/uksi/2009/880/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2009/880/regulation/4/c)
+[^c-627b8b8b9b4a8f41678b7a4988aa42c0]: Textual amendment: Word in Sch. 3 para. 7(3) substituted (3.5.2009) by [The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2009 (S.I. 2009/880)](https://www.legislation.gov.uk/uksi/2009/880), [regs. 1](https://www.legislation.gov.uk/uksi/2009/880/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2009/880/regulation/4/c)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Chapter 3 of Part 4 of ITTOIA 2005 (dividends etc from UK resident companies and tax treated as paid[^key-8aebbe36fe92465a5d95d49b5bdce144] in respect of certain distributions) is amended in accordance with subsections (2) to (6).
+(1) Chapter 3 of Part 4 of ITTOIA 2005 (dividends etc from UK resident companies and tax treated as paid[^c-8aebbe36fe92465a5d95d49b5bdce144] in respect of certain distributions) is amended in accordance with subsections (2) to (6).
 
 (2) After section 396 insert—
 
@@ -66,9 +66,9 @@ summary: ''
 
 (4) In section 385 (person liable), in subsection (1)(a) for “and 389(3)” substitute “ , 389(3) and 396A ”.
 
-(5)[^key-8bbe6f641e2f1010f8cac461f597ecb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-8bbe6f641e2f1010f8cac461f597ecb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-8bbe6f641e2f1010f8cac461f597ecb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-8bbe6f641e2f1010f8cac461f597ecb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In section 481 of ITA 2007 (other amounts to be charged at special rates for trustees), in subsection (3), after “Type 1” insert “ or Type 12 ”.
 
@@ -82,6 +82,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8aebbe36fe92465a5d95d49b5bdce144]: Textual amendment: Words in [s. 19(1)](https://www.legislation.gov.uk/ukpga/2015/11/section/19/1) substituted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 72(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/72/a)
+[^c-8aebbe36fe92465a5d95d49b5bdce144]: Textual amendment: Words in [s. 19(1)](https://www.legislation.gov.uk/ukpga/2015/11/section/19/1) substituted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 72(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/72/a)
 
-[^key-8bbe6f641e2f1010f8cac461f597ecb0]: Textual amendment: [S. 19(5)](https://www.legislation.gov.uk/ukpga/2015/11/section/19/5)[(6)](https://www.legislation.gov.uk/ukpga/2015/11/section/19/6) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 72(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/72/b)
+[^c-8bbe6f641e2f1010f8cac461f597ecb0]: Textual amendment: [S. 19(5)](https://www.legislation.gov.uk/ukpga/2015/11/section/19/5)[(6)](https://www.legislation.gov.uk/ukpga/2015/11/section/19/6) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 72(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/72/b)

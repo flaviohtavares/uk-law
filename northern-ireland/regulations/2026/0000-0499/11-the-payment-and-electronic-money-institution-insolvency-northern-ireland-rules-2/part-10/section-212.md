@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 212. Form and contents of application[^key-ede2d9045247b4ed39b58b0edb4f92a5]
+## 212. Form and contents of application[^c-ede2d9045247b4ed39b58b0edb4f92a5]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ An application to which this Chapter applies—
 
 ## Annotations
 
-[^key-ede2d9045247b4ed39b58b0edb4f92a5]: Commencement: [Rule 212](https://www.legislation.gov.uk/nisr/2026/11/rule/212) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-ede2d9045247b4ed39b58b0edb4f92a5]: Commencement: [Rule 212](https://www.legislation.gov.uk/nisr/2026/11/rule/212) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Variation of conditions[^key-643a9f611baae4f032f4e4e83614a5e9]
+## 14. Variation of conditions[^c-643a9f611baae4f032f4e4e83614a5e9]
 
 *Extent: N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-643a9f611baae4f032f4e4e83614a5e9]: Commencement: Reg. 14 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-643a9f611baae4f032f4e4e83614a5e9]: Commencement: Reg. 14 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

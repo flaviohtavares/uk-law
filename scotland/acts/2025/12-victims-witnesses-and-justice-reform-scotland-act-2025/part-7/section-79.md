@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Sittings of the Sexual Offences Court[^key-0ce3187f5545af04c974e42b457230bf]
+## 79. Sittings of the Sexual Offences Court[^c-0ce3187f5545af04c974e42b457230bf]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ce3187f5545af04c974e42b457230bf]: Commencement: S. 79 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-0ce3187f5545af04c974e42b457230bf]: Commencement: S. 79 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

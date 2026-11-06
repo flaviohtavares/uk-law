@@ -26,7 +26,7 @@ summary: ''
 
 - (a) a request is filed on Patents Form 52;
 - (b) no previous request has been made under this paragraph; and
-- (c) that request is filed before the end of the period of two months beginning immediately after[^key-bd6d276804318cb071eb4cb3b173d032] the date on which the relevant period of time expired.
+- (c) that request is filed before the end of the period of two months beginning immediately after[^c-bd6d276804318cb071eb4cb3b173d032] the date on which the relevant period of time expired.
 
 (3) The comptroller may, if he thinks fit, extend or further extend any period of time prescribed by the rules listed in Part 2 of Schedule 4 where—
 
@@ -53,4 +53,4 @@ as the comptroller may direct, except that a period of time prescribed by the ru
 
 ## Annotations
 
-[^key-bd6d276804318cb071eb4cb3b173d032]: Textual amendment: Words in [rule 108(2)(c)](https://www.legislation.gov.uk/uksi/2007/3291/rule/108/2/c) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
+[^c-bd6d276804318cb071eb4cb3b173d032]: Textual amendment: Words in [rule 108(2)(c)](https://www.legislation.gov.uk/uksi/2007/3291/rule/108/2/c) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))

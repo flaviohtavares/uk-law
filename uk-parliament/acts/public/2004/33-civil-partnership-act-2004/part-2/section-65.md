@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Contribution by civil partner to property improvement[^c20587651][^key-2356728a2864f5dfa40c5201a21fcb30]
+## 65. Contribution by civil partner to property improvement[^c20587651][^c-2356728a2864f5dfa40c5201a21fcb30]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 [^c20587651]: Modification: S. 65 applied (with modifications) (5.12.2005) by [The Civil Partnership (Treatment of Overseas Relationships) Order 2005 (S.I. 2005/3042)](https://www.legislation.gov.uk/uksi/2005/3042), [art. 3(2)](https://www.legislation.gov.uk/uksi/2005/3042/article/3/2)
 
-[^key-2356728a2864f5dfa40c5201a21fcb30]: Modification: [S. 65](https://www.legislation.gov.uk/ukpga/2004/33/section/65) applied (with modifications) (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/2/paragraph/4/2)
+[^c-2356728a2864f5dfa40c5201a21fcb30]: Modification: [S. 65](https://www.legislation.gov.uk/ukpga/2004/33/section/65) applied (with modifications) (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/2/paragraph/4/2)

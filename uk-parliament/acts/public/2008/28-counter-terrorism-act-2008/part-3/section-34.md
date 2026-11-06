@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Forfeiture: terrorist property offences[^key-cb6daf889fb7795dd92297ea2c404289]
+## 34. Forfeiture: terrorist property offences[^c-cb6daf889fb7795dd92297ea2c404289]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ For section 23 of the Terrorism Act 2000 (c. 11) (forfeiture) substitute—
 
 ## Annotations
 
-[^key-cb6daf889fb7795dd92297ea2c404289]: Commencement: S. 34 in force at 18.6.2009 by [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
+[^c-cb6daf889fb7795dd92297ea2c404289]: Commencement: S. 34 in force at 18.6.2009 by [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)

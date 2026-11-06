@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 165. Appeals to sheriff principal and Court of Session: contact and permanence orders[^key-b15ad752cae76e883cf4eebe6d109855]
+## 165. Appeals to sheriff principal and Court of Session: contact and permanence orders[^c-b15ad752cae76e883cf4eebe6d109855]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b15ad752cae76e883cf4eebe6d109855]: Commencement: S. 165 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-b15ad752cae76e883cf4eebe6d109855]: Commencement: S. 165 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

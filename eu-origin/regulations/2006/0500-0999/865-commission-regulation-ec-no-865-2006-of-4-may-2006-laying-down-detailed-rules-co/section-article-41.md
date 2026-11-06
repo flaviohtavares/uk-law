@@ -22,9 +22,9 @@ summary: ''
 
 1. The applicant for a personal ownership certificate shall, where appropriate, complete boxes 1, 4 and 6 to 23 of the application form and boxes 1, 4 and 6 to 22 of the original and all copies.
 
-The management authority[^key-7f8139c5351b592f6667315a6456041e] may, however, provide that only an application form is to be completed, in which case such an application may be for more than one certificate.
+The management authority[^c-7f8139c5351b592f6667315a6456041e] may, however, provide that only an application form is to be completed, in which case such an application may be for more than one certificate.
 
-2. The duly completed form shall be submitted to the management authority[^key-25eed947d63d90dd7775781345a305e0], together with the necessary information and the documentary evidence that that authority deems necessary so as to enable it to determine whether a certificate should be issued.
+2. The duly completed form shall be submitted to the management authority[^c-25eed947d63d90dd7775781345a305e0], together with the necessary information and the documentary evidence that that authority deems necessary so as to enable it to determine whether a certificate should be issued.
 
 The omission of information from the application must be justified.
 
@@ -32,6 +32,6 @@ Where an application is made for a certificate relating to specimens for which s
 
 ## Annotations
 
-[^key-7f8139c5351b592f6667315a6456041e]: Textual amendment: Words in [Art. 41(1)](https://www.legislation.gov.uk/eur/2006/865/article/41/1) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(33)(a)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/33/a)
+[^c-7f8139c5351b592f6667315a6456041e]: Textual amendment: Words in [Art. 41(1)](https://www.legislation.gov.uk/eur/2006/865/article/41/1) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(33)(a)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/33/a)
 
-[^key-25eed947d63d90dd7775781345a305e0]: Textual amendment: Words in [Art. 41(2)](https://www.legislation.gov.uk/eur/2006/865/article/41/2) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(33)(b)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/33/b)
+[^c-25eed947d63d90dd7775781345a305e0]: Textual amendment: Words in [Art. 41(2)](https://www.legislation.gov.uk/eur/2006/865/article/41/2) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(33)(b)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/33/b)

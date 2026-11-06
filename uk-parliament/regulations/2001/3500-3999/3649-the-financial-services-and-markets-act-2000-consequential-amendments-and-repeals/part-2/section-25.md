@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Production of documents subject to customer confidentiality[^key-cb6ebdc8b3724575290ca5ce7bea3eb0]
+## 25. Production of documents subject to customer confidentiality[^c-cb6ebdc8b3724575290ca5ce7bea3eb0]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cb6ebdc8b3724575290ca5ce7bea3eb0]: Commencement: Art. 25 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-cb6ebdc8b3724575290ca5ce7bea3eb0]: Commencement: Art. 25 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00031]: Footnote: Subsection (3) was amended by the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40), section 69(4), and by [S.I. 1994/1696](https://www.legislation.gov.uk/uksi/1994/1696), Schedule 8, paragraph 9(4).

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-0d956d9401166c1337ff398e37146b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-0d956d9401166c1337ff398e37146b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In the 1978 Act, after section 17B, insert—
 
@@ -92,13 +92,13 @@ summary: ''
 > - “**section 28C arrangements**” means arrangements for the provision of services made under section 28C of the 1977 Act; and
 > - “**section 28C employee**” means an individual who, in connection with the provision of services in accordance with section 28C arrangements, is employed by an individual providing those services.
 
-(3)[^key-de1d66bee3b34e6a135debbd5af24044][^key-06c0cb5a9cda0fb608b16f6045c477f2][^key-31e07dc8df48c6c906d7db7b996fcedf][^key-8d43cbaf7094ba909b98cd94ebe41d21][^key-efa57b4cef9d25282f6cce547e986024] The Secretary of State may not make an order under section 41(3) bringing this section into force unless he is satisfied, having regard in particular to reviews of pilot schemes which have been conducted under section 7, that it would be in the interests of any part of the health service to bring this section into force.
+(3)[^c-de1d66bee3b34e6a135debbd5af24044][^c-06c0cb5a9cda0fb608b16f6045c477f2][^c-31e07dc8df48c6c906d7db7b996fcedf][^c-8d43cbaf7094ba909b98cd94ebe41d21][^c-efa57b4cef9d25282f6cce547e986024] The Secretary of State may not make an order under section 41(3) bringing this section into force unless he is satisfied, having regard in particular to reviews of pilot schemes which have been conducted under section 7, that it would be in the interests of any part of the health service to bring this section into force.
 
 ## Annotations
 
 [^c12086461]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/1997/46/section/21) partly in force; [s. 21](https://www.legislation.gov.uk/ukpga/1997/46/section/21) not in force at Royal Assent see [s. 41](https://www.legislation.gov.uk/ukpga/1997/46/section/41); [s. 21(2)(3)](https://www.legislation.gov.uk/ukpga/1997/46/section/21/2/3) in force for S. for specified purposes at 5.3.2001 by [S.S.I. 2001/58](https://www.legislation.gov.uk/ssi/2001/58), [art. 2](https://www.legislation.gov.uk/ssi/2001/58/article/2)
 
-[^key-0d956d9401166c1337ff398e37146b14]: Textual amendment: [S. 21(1)](https://www.legislation.gov.uk/ukpga/1997/46/section/21/1) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-0d956d9401166c1337ff398e37146b14]: Textual amendment: [S. 21(1)](https://www.legislation.gov.uk/ukpga/1997/46/section/21/1) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
 [^c12086571]: Marginal citation: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49).
 
@@ -106,12 +106,12 @@ summary: ''
 
 [^c12086591]: Marginal citation: [1984 c. 24](https://www.legislation.gov.uk/ukpga/1984/24).
 
-[^key-de1d66bee3b34e6a135debbd5af24044]: Commencement: S. 21(1)(3) in force at 1.3.2004 for specified purposes for E. by [S.I. 2004/287](https://www.legislation.gov.uk/uksi/2004/287), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/287/article/2/1)
+[^c-de1d66bee3b34e6a135debbd5af24044]: Commencement: S. 21(1)(3) in force at 1.3.2004 for specified purposes for E. by [S.I. 2004/287](https://www.legislation.gov.uk/uksi/2004/287), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/287/article/2/1)
 
-[^key-06c0cb5a9cda0fb608b16f6045c477f2]: Commencement: S. 21(1)(3) in force at 1.4.2004 for specified purposes for E. by [S.I. 2004/287](https://www.legislation.gov.uk/uksi/2004/287), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2004/287/article/2/2/a)
+[^c-06c0cb5a9cda0fb608b16f6045c477f2]: Commencement: S. 21(1)(3) in force at 1.4.2004 for specified purposes for E. by [S.I. 2004/287](https://www.legislation.gov.uk/uksi/2004/287), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2004/287/article/2/2/a)
 
-[^key-31e07dc8df48c6c906d7db7b996fcedf]: Commencement: S. 21(1)(3) in force at 1.12.2005 for E. in so far as not already in force by [S.I. 2005/2926](https://www.legislation.gov.uk/uksi/2005/2926), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/2926/article/2/a)
+[^c-31e07dc8df48c6c906d7db7b996fcedf]: Commencement: S. 21(1)(3) in force at 1.12.2005 for E. in so far as not already in force by [S.I. 2005/2926](https://www.legislation.gov.uk/uksi/2005/2926), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/2926/article/2/a)
 
-[^key-8d43cbaf7094ba909b98cd94ebe41d21]: Commencement: S. 21(1)(3) in force at 1.12.2005 for specified purposes for W. by [S.I. 2005/2926](https://www.legislation.gov.uk/uksi/2005/2926), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/2926/article/3/a)
+[^c-8d43cbaf7094ba909b98cd94ebe41d21]: Commencement: S. 21(1)(3) in force at 1.12.2005 for specified purposes for W. by [S.I. 2005/2926](https://www.legislation.gov.uk/uksi/2005/2926), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/2926/article/3/a)
 
-[^key-efa57b4cef9d25282f6cce547e986024]: Commencement: S. 21(1)(3) in force at 1.3.2007 for E.W., in so far as not already in force, immediately before the National Health Service Act 2006 comes into force by [S.I. 2006/1407](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2006/1407/schedule/1/paragraph/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
+[^c-efa57b4cef9d25282f6cce547e986024]: Commencement: S. 21(1)(3) in force at 1.3.2007 for E.W., in so far as not already in force, immediately before the National Health Service Act 2006 comes into force by [S.I. 2006/1407](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2006/1407/schedule/1/paragraph/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))

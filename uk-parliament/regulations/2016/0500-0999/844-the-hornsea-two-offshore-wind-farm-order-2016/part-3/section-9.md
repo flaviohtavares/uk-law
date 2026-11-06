@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Street works[^key-32136676eb101c7f475fa82cd50f8b95]
+## 9. Street works[^c-32136676eb101c7f475fa82cd50f8b95]
 
 *Extent: E+W+S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-32136676eb101c7f475fa82cd50f8b95]: Commencement: Art. 9 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-32136676eb101c7f475fa82cd50f8b95]: Commencement: Art. 9 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
 [^f00029]: Footnote: “Apparatus” is defined in sections 89(3) and 105(1).

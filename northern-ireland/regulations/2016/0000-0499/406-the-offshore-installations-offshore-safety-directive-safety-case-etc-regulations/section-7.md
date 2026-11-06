@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Corporate major accident prevention policy[^key-ec269e62b08765310f60571c02d81484]
+## 7. Corporate major accident prevention policy[^c-ec269e62b08765310f60571c02d81484]
 
 *Extent: N.I.*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ec269e62b08765310f60571c02d81484]: Commencement: Reg. 7 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-ec269e62b08765310f60571c02d81484]: Commencement: Reg. 7 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
 [^f00028]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46), to which there are amendments not relevant to these Regulations

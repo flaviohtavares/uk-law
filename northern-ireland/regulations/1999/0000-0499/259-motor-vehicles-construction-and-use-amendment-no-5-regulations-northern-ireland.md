@@ -30,7 +30,7 @@ summary: ''
 
 ROAD TRAFFIC AND VEHICLES
 
-Motor Vehicles (Construction and Use) (Amendment No. 5) Regulations (Northern Ireland) 1999 (revoked)[^key-2fc03ce8f51ba1cb946792155bacafd3]
+Motor Vehicles (Construction and Use) (Amendment No. 5) Regulations (Northern Ireland) 1999 (revoked)[^c-2fc03ce8f51ba1cb946792155bacafd3]
 
 Made
 
@@ -40,44 +40,44 @@ Coming into operation
 
 20th July 1999
 
-[^key-2fc03ce8f51ba1cb946792155bacafd3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2fc03ce8f51ba1cb946792155bacafd3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-2fc03ce8f51ba1cb946792155bacafd3]
+## 1. Citation, commencement and interpretation[^c-2fc03ce8f51ba1cb946792155bacafd3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 6 (length)[^key-2fc03ce8f51ba1cb946792155bacafd3]
+## 2. Amendment of regulation 6 (length)[^c-2fc03ce8f51ba1cb946792155bacafd3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 68 (plates for goods vehicles and buses)[^key-2fc03ce8f51ba1cb946792155bacafd3]
+## 3. Amendment of regulation 68 (plates for goods vehicles and buses)[^c-2fc03ce8f51ba1cb946792155bacafd3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 73 (maximum permitted weight of a vehicle)[^key-2fc03ce8f51ba1cb946792155bacafd3]
+## 4. Amendment of regulation 73 (maximum permitted weight of a vehicle)[^c-2fc03ce8f51ba1cb946792155bacafd3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Saving for the Motor Vehicles (Authorised Weight) Regulations (Northern Ireland) 1999[^key-2fc03ce8f51ba1cb946792155bacafd3]
+## 5. Saving for the Motor Vehicles (Authorised Weight) Regulations (Northern Ireland) 1999[^c-2fc03ce8f51ba1cb946792155bacafd3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendments to regulation 78 (over-riding weight restrictions)[^key-2fc03ce8f51ba1cb946792155bacafd3]
+## 6. Amendments to regulation 78 (over-riding weight restrictions)[^c-2fc03ce8f51ba1cb946792155bacafd3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendments to Schedule 9A (exemptions relating to combined transport operations)[^key-2fc03ce8f51ba1cb946792155bacafd3]
+## 7. Amendments to Schedule 9A (exemptions relating to combined transport operations)[^c-2fc03ce8f51ba1cb946792155bacafd3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2fc03ce8f51ba1cb946792155bacafd3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2fc03ce8f51ba1cb946792155bacafd3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2fc03ce8f51ba1cb946792155bacafd3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2fc03ce8f51ba1cb946792155bacafd3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2fc03ce8f51ba1cb946792155bacafd3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/259) revoked (1.1.2000) by [Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999 (S.R. 1999/454)](https://www.legislation.gov.uk/nisr/1999/454), [regs. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1), [26](https://www.legislation.gov.uk/nisr/1999/454/regulation/26), [Sch. 19](https://www.legislation.gov.uk/nisr/1999/454/schedule/19)
+[^c-2fc03ce8f51ba1cb946792155bacafd3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/259) revoked (1.1.2000) by [Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999 (S.R. 1999/454)](https://www.legislation.gov.uk/nisr/1999/454), [regs. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1), [26](https://www.legislation.gov.uk/nisr/1999/454/regulation/26), [Sch. 19](https://www.legislation.gov.uk/nisr/1999/454/schedule/19)

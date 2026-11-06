@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Information for elected local policing bodies[^key-3e7b5581f49281f18a47ae6c2630c06a][^key-093e72161231e77097b7f1fa0ba1c8ce]
+## 36. Information for elected local policing bodies[^c-3e7b5581f49281f18a47ae6c2630c06a][^c-093e72161231e77097b7f1fa0ba1c8ce]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3e7b5581f49281f18a47ae6c2630c06a]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2011/13/section/36) in force at 16.1.2012 for specified purposes by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-3e7b5581f49281f18a47ae6c2630c06a]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2011/13/section/36) in force at 16.1.2012 for specified purposes by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-093e72161231e77097b7f1fa0ba1c8ce]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2011/13/section/36) in force at 22.11.2012 in so far as not already in force by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)
+[^c-093e72161231e77097b7f1fa0ba1c8ce]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2011/13/section/36) in force at 22.11.2012 in so far as not already in force by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)

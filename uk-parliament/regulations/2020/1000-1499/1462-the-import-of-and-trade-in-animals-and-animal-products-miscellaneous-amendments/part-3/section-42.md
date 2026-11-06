@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Commission Decision [2003/467/EC](https://www.legislation.gov.uk/european/decision/2003/0467) establishing the official tuberculosis, brucellosis, and enzootic-bovine-leukosis-free status of certain Member States and regions of Member States as regards bovine herds[^key-b2471e8d43af45de34664dd3d85da9bb]
+## 42. Commission Decision [2003/467/EC](https://www.legislation.gov.uk/european/decision/2003/0467) establishing the official tuberculosis, brucellosis, and enzootic-bovine-leukosis-free status of certain Member States and regions of Member States as regards bovine herds[^c-b2471e8d43af45de34664dd3d85da9bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2471e8d43af45de34664dd3d85da9bb]: Commencement: Reg. 42 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
+[^c-b2471e8d43af45de34664dd3d85da9bb]: Commencement: Reg. 42 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)

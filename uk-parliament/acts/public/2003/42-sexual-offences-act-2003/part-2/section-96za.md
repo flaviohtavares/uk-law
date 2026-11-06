@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96ZA. Offences outside the United Kingdom: notification requirements[^key-bb434c330bab790c4789e79331a47e55]
+## 96ZA. Offences outside the United Kingdom: notification requirements[^c-bb434c330bab790c4789e79331a47e55]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ This is subject to sections 96ZB (young offenders: parental notices) and 96ZC (m
 
 ## Annotations
 
-[^key-bb434c330bab790c4789e79331a47e55]: Textual amendment: [Ss. 96ZA-96ZD](https://www.legislation.gov.uk/ukpga/2003/42/section/96ZA) and cross-heading inserted (29.11.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 169(2)](https://www.legislation.gov.uk/ukpga/2022/32/section/169/2), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/3/b)
+[^c-bb434c330bab790c4789e79331a47e55]: Textual amendment: [Ss. 96ZA-96ZD](https://www.legislation.gov.uk/ukpga/2003/42/section/96ZA) and cross-heading inserted (29.11.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 169(2)](https://www.legislation.gov.uk/ukpga/2022/32/section/169/2), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/3/b)

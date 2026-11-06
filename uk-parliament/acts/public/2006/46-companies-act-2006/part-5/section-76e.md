@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76E. Exceptions based on national security etc[^key-8820b6275cfeaee88cbeb39f25011205][^key-0a837ba888140909c28cfdb52088fb9a]
+## 76E. Exceptions based on national security etc[^c-8820b6275cfeaee88cbeb39f25011205][^c-0a837ba888140909c28cfdb52088fb9a]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8820b6275cfeaee88cbeb39f25011205]: Modification: [S. 76E](https://www.legislation.gov.uk/ukpga/2006/46/section/76E) applied (with modifications) (4.3.2024) by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 13C](https://www.legislation.gov.uk/uksi/2009/1804/regulation/13C) (as inserted by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2024/234/regulation/15); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a))
+[^c-8820b6275cfeaee88cbeb39f25011205]: Modification: [S. 76E](https://www.legislation.gov.uk/ukpga/2006/46/section/76E) applied (with modifications) (4.3.2024) by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 13C](https://www.legislation.gov.uk/uksi/2009/1804/regulation/13C) (as inserted by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2024/234/regulation/15); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a))
 
-[^key-0a837ba888140909c28cfdb52088fb9a]: Textual amendment: [Pt. 5 Ch. 4A](https://www.legislation.gov.uk/ukpga/2006/46/part/5/chapter/4A) inserted (26.10.2023 for specified purposes, 15.1.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 22](https://www.legislation.gov.uk/ukpga/2023/56/section/22), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/a)
+[^c-0a837ba888140909c28cfdb52088fb9a]: Textual amendment: [Pt. 5 Ch. 4A](https://www.legislation.gov.uk/ukpga/2006/46/part/5/chapter/4A) inserted (26.10.2023 for specified purposes, 15.1.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 22](https://www.legislation.gov.uk/ukpga/2023/56/section/22), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/a)

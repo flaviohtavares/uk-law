@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Review of statement of purpose and resident’s guide[^key-c2a688e77b056da9f703b2d470af0b8a]
+## 6. Review of statement of purpose and resident’s guide[^c-c2a688e77b056da9f703b2d470af0b8a]
 
 *Extent: N.I.*
 
 The registered person shall—
 
 - (a) keep under review and, where appropriate, revise the statement of purpose and the resident’s guide; and
-- (b) notify the RQIA[^key-1ab6982513a93aea57feba0c8096e8f0] and residents of any such revision within 28 days.
+- (b) notify the RQIA[^c-1ab6982513a93aea57feba0c8096e8f0] and residents of any such revision within 28 days.
 
 ## Annotations
 
-[^key-c2a688e77b056da9f703b2d470af0b8a]: Commencement: Reg. 6 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
+[^c-c2a688e77b056da9f703b2d470af0b8a]: Commencement: Reg. 6 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
 
-[^key-1ab6982513a93aea57feba0c8096e8f0]: Textual amendment: Words in Regulations substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-1ab6982513a93aea57feba0c8096e8f0]: Textual amendment: Words in Regulations substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))

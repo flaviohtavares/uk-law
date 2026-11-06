@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 3 — Repeals[^key-227f4ecc752626af4cad9673cb71d49f]
+## SCHEDULE 3 — Repeals[^c-227f4ecc752626af4cad9673cb71d49f]
 
 *Extent: N.I.*
 
@@ -60,4 +60,4 @@ Regulation 73(1)
 
 ## Annotations
 
-[^key-227f4ecc752626af4cad9673cb71d49f]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-227f4ecc752626af4cad9673cb71d49f]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

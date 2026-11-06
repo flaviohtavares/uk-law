@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Sexual offences committed before 30th September 1998.[^key-96fe0201cdf601b0a7ecca4344d1eab1]
+## 86. Sexual offences committed before 30th September 1998.[^c-96fe0201cdf601b0a7ecca4344d1eab1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96fe0201cdf601b0a7ecca4344d1eab1]: Textual amendment: S. 86 repealed (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 121(4)](https://www.legislation.gov.uk/ukpga/2012/10/section/121/4), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d)
+[^c-96fe0201cdf601b0a7ecca4344d1eab1]: Textual amendment: S. 86 repealed (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 121(4)](https://www.legislation.gov.uk/ukpga/2012/10/section/121/4), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d)

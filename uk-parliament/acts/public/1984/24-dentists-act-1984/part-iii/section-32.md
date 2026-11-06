@@ -25,7 +25,7 @@ summary: ''
 (2) The Interim Orders Committee may exercise functions under this section only in relation to a person whose case has been referred to them—
 
 - (a) by the registrar under section 27(5)(b);
-- (b) by the Investigating Committee under section 27A(4A) or (6A)[^key-7512ab348d1d31079cfcbf66e395c8c9]; or
+- (b) by the Investigating Committee under section 27A(4A) or (6A)[^c-7512ab348d1d31079cfcbf66e395c8c9]; or
 - (c) by a Practice Committee in accordance with rules under paragraph 7(1)(c) of Schedule 3.
 
 (3) A Practice Committee may exercise functions under this section only in relation to a person whose case has been referred to them—
@@ -82,4 +82,4 @@ and the decision of the court on any application under this subsection shall be 
 
 [^M_F_de1c2b6d-d672-4a1d-c3f4-4af95887dd41]: Textual amendment: S. 30 substituted (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), art. 23 (with Sch. 7) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
 
-[^key-7512ab348d1d31079cfcbf66e395c8c9]: Textual amendment: Words in [s. 32(2)(b)](https://www.legislation.gov.uk/ukpga/1984/24/section/32/2/b) substituted (13.4.2016) by [The General Dental Council (Fitness to Practise etc.) Order 2016 (S.I. 2016/496)](https://www.legislation.gov.uk/uksi/2016/496), [arts. 1](https://www.legislation.gov.uk/uksi/2016/496/article/1), [15](https://www.legislation.gov.uk/uksi/2016/496/article/15)
+[^c-7512ab348d1d31079cfcbf66e395c8c9]: Textual amendment: Words in [s. 32(2)(b)](https://www.legislation.gov.uk/ukpga/1984/24/section/32/2/b) substituted (13.4.2016) by [The General Dental Council (Fitness to Practise etc.) Order 2016 (S.I. 2016/496)](https://www.legislation.gov.uk/uksi/2016/496), [arts. 1](https://www.legislation.gov.uk/uksi/2016/496/article/1), [15](https://www.legislation.gov.uk/uksi/2016/496/article/15)

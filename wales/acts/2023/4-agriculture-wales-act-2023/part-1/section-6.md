@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Sustainable land management reports[^key-3ac48d9a42cacc11f82e33e98cbff542]
+## 6. Sustainable land management reports[^c-3ac48d9a42cacc11f82e33e98cbff542]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ac48d9a42cacc11f82e33e98cbff542]: Commencement: [S. 6](https://www.legislation.gov.uk/asc/2023/4/section/6) in force at 17.10.2023, see [s. 56(2)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/a)
+[^c-3ac48d9a42cacc11f82e33e98cbff542]: Commencement: [S. 6](https://www.legislation.gov.uk/asc/2023/4/section/6) in force at 17.10.2023, see [s. 56(2)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/a)

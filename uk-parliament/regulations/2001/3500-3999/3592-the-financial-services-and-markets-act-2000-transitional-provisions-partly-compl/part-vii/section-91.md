@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Explanation of notices continued in effect[^key-7843c4522939c3d60dc2511fb156ef10]
+## 91. Explanation of notices continued in effect[^c-7843c4522939c3d60dc2511fb156ef10]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A notice shall not have effect, pursuant to any provision of this Order, as a no
 
 ## Annotations
 
-[^key-7843c4522939c3d60dc2511fb156ef10]: Commencement: Art. 91 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-7843c4522939c3d60dc2511fb156ef10]: Commencement: Art. 91 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

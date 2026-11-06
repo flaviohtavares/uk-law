@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Provision of transcript of record of trial to certain complainers[^key-66e739c9f23d6a670ba746f40c568a34][^key-b6a02360dc30b7c3b50db2aec5039cb9]
+## 51. Provision of transcript of record of trial to certain complainers[^c-66e739c9f23d6a670ba746f40c568a34][^c-b6a02360dc30b7c3b50db2aec5039cb9]
 
 *Extent: S*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-66e739c9f23d6a670ba746f40c568a34]: Commencement: S. 51 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-66e739c9f23d6a670ba746f40c568a34]: Commencement: S. 51 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-b6a02360dc30b7c3b50db2aec5039cb9]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2025/12/section/51) in force at 1.4.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-b6a02360dc30b7c3b50db2aec5039cb9]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2025/12/section/51) in force at 1.4.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)

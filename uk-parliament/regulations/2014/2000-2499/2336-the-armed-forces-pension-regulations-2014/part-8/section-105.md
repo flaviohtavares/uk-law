@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Interpretation[^key-936571e1101e4780beacd8a4328995ea]
+## 105. Interpretation[^c-936571e1101e4780beacd8a4328995ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In this Chapter, “transfer date” means the day on which the transfer value p
 
 ## Annotations
 
-[^key-936571e1101e4780beacd8a4328995ea]: Commencement: [Reg. 105](https://www.legislation.gov.uk/uksi/2014/2336/regulation/105) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-936571e1101e4780beacd8a4328995ea]: Commencement: [Reg. 105](https://www.legislation.gov.uk/uksi/2014/2336/regulation/105) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

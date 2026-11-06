@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 275A. Further provision as regards regulations: inquiries etc.[^key-aa7003ad5b10cba91155d6d347e4eb03]
+## 275A. Further provision as regards regulations: inquiries etc.[^c-aa7003ad5b10cba91155d6d347e4eb03]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa7003ad5b10cba91155d6d347e4eb03]: Textual amendment: S. 275A inserted (12.12.2008) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 52(1)](https://www.legislation.gov.uk/asp/2006/17/section/52/1), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/411/article/2/1)
+[^c-aa7003ad5b10cba91155d6d347e4eb03]: Textual amendment: S. 275A inserted (12.12.2008) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 52(1)](https://www.legislation.gov.uk/asp/2006/17/section/52/1), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/411/article/2/1)

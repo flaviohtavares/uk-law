@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**295.**[^key-f649056ebfc6e7c54d6d5212a554cd1b] In subsection (2)(h) of section 15 (preventative services) after “secure accommodation” insert “within the meaning given in section 119 and in section 25 of the Children Act 1989”.
+**295.**[^c-f649056ebfc6e7c54d6d5212a554cd1b] In subsection (2)(h) of section 15 (preventative services) after “secure accommodation” insert “within the meaning given in section 119 and in section 25 of the Children Act 1989”.
 
 ## Annotations
 
-[^key-f649056ebfc6e7c54d6d5212a554cd1b]: Commencement: Reg. 295 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-f649056ebfc6e7c54d6d5212a554cd1b]: Commencement: Reg. 295 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

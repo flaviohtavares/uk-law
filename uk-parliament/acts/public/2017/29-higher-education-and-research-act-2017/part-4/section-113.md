@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Joint working[^key-34ca46fe4e940350f2013a186c290a9b]
+## 113. Joint working[^c-34ca46fe4e940350f2013a186c290a9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 - (c)[^M_F_63e808e9-3818-45c7-a145-4ef95495f860] the Commission for Tertiary Education and Research,
 - (d) the Scottish Further and Higher Education Funding Council,
 - (e) the Secretary of State to the extent that the Secretary of State is exercising functions under section 14 of the Education Act 2002 (power to give financial assistance for purposes related to education or children etc),
-- (f) the Welsh Ministers to the extent that they are exercising their functions under any of the following provisions of the Tertiary Education and Research (Wales) Act 2022—[^key-d39ee3d348482b1af64a4ba7414bafe9]
+- (f) the Welsh Ministers to the extent that they are exercising their functions under any of the following provisions of the Tertiary Education and Research (Wales) Act 2022—[^c-d39ee3d348482b1af64a4ba7414bafe9]
   - (i) section 92 (financial support by Welsh Ministers for certain higher education courses);
   - (ii) section 97 (financial support for further education or training);
   - (iii) section 100 (means tests);
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-34ca46fe4e940350f2013a186c290a9b]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2017/29/section/113) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/m)
+[^c-34ca46fe4e940350f2013a186c290a9b]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2017/29/section/113) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/m)
 
 [^M_F_63e808e9-3818-45c7-a145-4ef95495f860]: Textual amendment: S. 113(3)(c) substituted (1.8.2024) by [The Tertiary Education and Research (Wales) Act 2022 (Consequential Amendments) Order 2024 (S.I. 2024/433)](https://www.legislation.gov.uk/uksi/2024/433), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/433/article/1/3), [6](https://www.legislation.gov.uk/uksi/2024/433/article/6); [S.I. 2024/806](https://www.legislation.gov.uk/uksi/2024/806), [art. 2(b)](https://www.legislation.gov.uk/uksi/2024/806/article/2/b) (with [art. 28](https://www.legislation.gov.uk/uksi/2024/806/article/28))
 
-[^key-d39ee3d348482b1af64a4ba7414bafe9]: Textual amendment: Words in s. 113(3)(f) substituted (1.4.2026) by [The Tertiary Education and Research (Wales) Act 2022 (Consequential Amendments) Order 2026 (S.I. 2026/358)](https://www.legislation.gov.uk/uksi/2026/358), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/358/article/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2026/358/article/4/2)
+[^c-d39ee3d348482b1af64a4ba7414bafe9]: Textual amendment: Words in s. 113(3)(f) substituted (1.4.2026) by [The Tertiary Education and Research (Wales) Act 2022 (Consequential Amendments) Order 2026 (S.I. 2026/358)](https://www.legislation.gov.uk/uksi/2026/358), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/358/article/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2026/358/article/4/2)

@@ -50,7 +50,7 @@ Further to section 11(7) of the Act, in considering what provision to include in
 
 Further to section 28 of the Act, the Treasury and Secretary of State, in exercising the function of making the following Regulations, have had regard to international arrangements to which His Majesty’s government in the United Kingdom is a party that are relevant to the exercise of that function.
 
-## 1. Citation, commencement and extent[^key-fa060317229bb256aba7c960ba2d16ad]
+## 1. Citation, commencement and extent[^c-fa060317229bb256aba7c960ba2d16ad]
 
 (1) These Regulations may be cited as the Customs Tariff (Preferential Trade Arrangements) (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) (Amendment) Regulations 2024.
 
@@ -60,7 +60,7 @@ Further to section 28 of the Act, the Treasury and Secretary of State, in exerci
 
 (4) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-## 2. Amendment of the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020[^key-71852702c360f74b0ef7f0e9b93a24bc]
+## 2. Amendment of the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020[^c-71852702c360f74b0ef7f0e9b93a24bc]
 
 (1) The Table in Schedule 1 to the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020[^f00002] (which relates to agreements to which those Regulations apply) is amended as follows[^f00003].
 
@@ -73,12 +73,12 @@ Further to section 28 of the Act, the Treasury and Secretary of State, in exerci
   ;
 - (b) in the second column insert—
 
-  > The CPTPP Preferential Tariff, version 1.1, dated 30th September 2024.[^key-405d4357ad4ede0851c119ec710346da]
+  > The CPTPP Preferential Tariff, version 1.1, dated 30th September 2024.[^c-405d4357ad4ede0851c119ec710346da]
 
   ;
 - (c) in the third column insert—
 
-  > The CPTPP Origin Reference Document, version 1.1, dated 30th September 2024.[^key-9f89c05826ef1b718e251be5b3229114]
+  > The CPTPP Origin Reference Document, version 1.1, dated 30th September 2024.[^c-9f89c05826ef1b718e251be5b3229114]
 
   .
 
@@ -118,14 +118,14 @@ An impact assessment setting out the potential economic impact of the UK’s Acc
 
 [^f00001]: Footnote: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22). Part 1 of the Act has been amended by the Taxation (Post-transition Period) Act [2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), section 2 and Schedule 1. Modifications have been made to sections 9, 11, and 17 of the Act by [S.I. 2020/1432](https://www.legislation.gov.uk/uksi/2020/1432), [1434](https://www.legislation.gov.uk/uksi/2020/1434), [1439](https://www.legislation.gov.uk/uksi/2020/1439), [1457](https://www.legislation.gov.uk/uksi/2020/1457) and [1605](https://www.legislation.gov.uk/uksi/2020/1605).
 
-[^key-fa060317229bb256aba7c960ba2d16ad]: Commencement: Reg. 1 comes into force in accordance with reg. 1(2)
+[^c-fa060317229bb256aba7c960ba2d16ad]: Commencement: Reg. 1 comes into force in accordance with reg. 1(2)
 
-[^key-71852702c360f74b0ef7f0e9b93a24bc]: Commencement: Reg. 2 comes into force in accordance with reg. 1(2)
+[^c-71852702c360f74b0ef7f0e9b93a24bc]: Commencement: Reg. 2 comes into force in accordance with reg. 1(2)
 
 [^f00002]: Footnote: [S.I. 2020/1457](https://www.legislation.gov.uk/uksi/2020/1457). Schedule 1 was substituted by regulation 5 of, and Schedule 1 to, [S.I. 2020/1657](https://www.legislation.gov.uk/uksi/2020/1657), and amended by [S.I. 2021/241](https://www.legislation.gov.uk/uksi/2021/241), [382](https://www.legislation.gov.uk/uksi/2021/382), [527](https://www.legislation.gov.uk/uksi/2021/527), [693](https://www.legislation.gov.uk/uksi/2021/693), [871](https://www.legislation.gov.uk/uksi/2021/871), [1192](https://www.legislation.gov.uk/uksi/2021/1192) and [1489](https://www.legislation.gov.uk/uksi/2021/1489) and [2022/174](https://www.legislation.gov.uk/uksi/2022/174), [525](https://www.legislation.gov.uk/uksi/2022/525), [613](https://www.legislation.gov.uk/uksi/2022/613) and [899](https://www.legislation.gov.uk/uksi/2022/899) and [2023/194](https://www.legislation.gov.uk/uksi/2023/194), [195](https://www.legislation.gov.uk/uksi/2023/195), [433](https://www.legislation.gov.uk/uksi/2023/433), [774](https://www.legislation.gov.uk/uksi/2023/774), [1192](https://www.legislation.gov.uk/uksi/2023/1192), [1339](https://www.legislation.gov.uk/uksi/2023/1339) and [1436](https://www.legislation.gov.uk/uksi/2023/1436) and [2024/303](https://www.legislation.gov.uk/uksi/2024/303).
 
 [^f00003]: Footnote: The reference documents referred to in regulation 2 of this instrument are available electronically from https://www.gov.uk/government/publications/reference-documents-for-the-customs-tariff-preferential-trade-arrangements-eu-exit-regulations-2020. Hard copies are held and available to view free of charge at the Department for Business and Trade, Old Admiralty Building, London SW1A 2DY. By virtue of section 32A of the Taxation (Cross-border Trade) Act 2018 (“**the Act**”) (as inserted by section 75 of the Finance Act [2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3)), where regulations made under any of sections 8 to 19 of the Act make provision by reference to a document, this is a reference to the document as modified from time to time, or as replaced, by notice by the appropriate authority.
 
-[^key-405d4357ad4ede0851c119ec710346da]: Textual amendment: Words in [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/424/regulation/2/2/b) substituted (25.3.2024) by [The Customs (Tariff and Miscellaneous Amendments) (No. 3) Regulations 2024 (S.I. 2024/1005)](https://www.legislation.gov.uk/uksi/2024/1005), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2024/1005/regulation/1/2/c), [5(2)(a)](https://www.legislation.gov.uk/uksi/2024/1005/regulation/5/2/a)
+[^c-405d4357ad4ede0851c119ec710346da]: Textual amendment: Words in [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/424/regulation/2/2/b) substituted (25.3.2024) by [The Customs (Tariff and Miscellaneous Amendments) (No. 3) Regulations 2024 (S.I. 2024/1005)](https://www.legislation.gov.uk/uksi/2024/1005), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2024/1005/regulation/1/2/c), [5(2)(a)](https://www.legislation.gov.uk/uksi/2024/1005/regulation/5/2/a)
 
-[^key-9f89c05826ef1b718e251be5b3229114]: Textual amendment: Words in [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2024/424/regulation/2/2/c) substituted (25.3.2024) by [The Customs (Tariff and Miscellaneous Amendments) (No. 3) Regulations 2024 (S.I. 2024/1005)](https://www.legislation.gov.uk/uksi/2024/1005), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2024/1005/regulation/1/2/c), [5(2)(b)](https://www.legislation.gov.uk/uksi/2024/1005/regulation/5/2/b)
+[^c-9f89c05826ef1b718e251be5b3229114]: Textual amendment: Words in [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2024/424/regulation/2/2/c) substituted (25.3.2024) by [The Customs (Tariff and Miscellaneous Amendments) (No. 3) Regulations 2024 (S.I. 2024/1005)](https://www.legislation.gov.uk/uksi/2024/1005), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2024/1005/regulation/1/2/c), [5(2)(b)](https://www.legislation.gov.uk/uksi/2024/1005/regulation/5/2/b)

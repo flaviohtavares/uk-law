@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Section 8B(1) to (3) of Immigration Act 1971: directions[^key-f22efa642eb7123719c8aa0e2d9089aa][^key-be6d2ec2413a494e9a88d3c58f4d4109]
+## 45. Section 8B(1) to (3) of Immigration Act 1971: directions[^c-f22efa642eb7123719c8aa0e2d9089aa][^c-be6d2ec2413a494e9a88d3c58f4d4109]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f22efa642eb7123719c8aa0e2d9089aa]: Commencement: Reg. 45 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
+[^c-f22efa642eb7123719c8aa0e2d9089aa]: Commencement: Reg. 45 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
 
-[^key-be6d2ec2413a494e9a88d3c58f4d4109]: Commencement: Reg. 45 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-be6d2ec2413a494e9a88d3c58f4d4109]: Commencement: Reg. 45 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

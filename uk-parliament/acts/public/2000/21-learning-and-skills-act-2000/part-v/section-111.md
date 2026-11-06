@@ -22,7 +22,7 @@ summary: ''
 
 (1) The following shall be substituted for section 16(2) and (3) of the [^c13164891]Further and Higher Education Act 1992 (incorporation of further education institutions)—
 
-> (2) Subsection (1) above does not apply to an institution which is maintained by a local authority[^key-35207b0165f4bf8683c697e9c46b3e8b] .
+> (2) Subsection (1) above does not apply to an institution which is maintained by a local authority[^c-35207b0165f4bf8683c697e9c46b3e8b] .
 >
 > (3) The Secretary of State may by order make provision for the establishment of a body corporate for the purpose of conducting an institution which—
 >
@@ -48,4 +48,4 @@ summary: ''
 
 [^c13164891]: Marginal citation: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13).
 
-[^key-35207b0165f4bf8683c697e9c46b3e8b]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 46(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/46/2)
+[^c-35207b0165f4bf8683c697e9c46b3e8b]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 46(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/46/2)

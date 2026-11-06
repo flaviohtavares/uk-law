@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 213. Duration of warrants[^key-516e95287c9ac4eff51d65fe8a61df20]
+## 213. Duration of warrants[^c-516e95287c9ac4eff51d65fe8a61df20]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 (2) In this section, “the relevant period”—
 
 - (a) in the case of an urgent specific BPD warrant (see subsection (3)), means the period ending with the fifth working day after the day on which the warrant was issued;
-- (b) in any other case, means the period of 12 months[^key-845ada9bcfedf66e412177cf09218154] beginning with—
+- (b) in any other case, means the period of 12 months[^c-845ada9bcfedf66e412177cf09218154] beginning with—
   - (i) the day on which the warrant was issued, or
   - (ii) in the case of a warrant that has been renewed, the day after the day at the end of which the warrant would have ceased to have effect if it had not been renewed.
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-516e95287c9ac4eff51d65fe8a61df20]: Commencement: S. 213 in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/c)
+[^c-516e95287c9ac4eff51d65fe8a61df20]: Commencement: S. 213 in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/c)
 
-[^key-845ada9bcfedf66e412177cf09218154]: Textual amendment: Words in [s. 213(2)(b)](https://www.legislation.gov.uk/ukpga/2016/25/section/213/2/b) substituted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2024/9/section/3/1), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2) (with [s. 3(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/3/2)); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/c)
+[^c-845ada9bcfedf66e412177cf09218154]: Textual amendment: Words in [s. 213(2)(b)](https://www.legislation.gov.uk/ukpga/2016/25/section/213/2/b) substituted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2024/9/section/3/1), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2) (with [s. 3(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/3/2)); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/c)

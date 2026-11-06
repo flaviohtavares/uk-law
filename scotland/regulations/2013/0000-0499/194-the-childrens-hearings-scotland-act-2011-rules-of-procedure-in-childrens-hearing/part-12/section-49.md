@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Procedure at pre-hearing panel determination of matters not relating to relevant person status[^key-3158e87f30c8b4b2483aff3eb10ef42f][^key-cac896fedb46f25fd2cdc213a7aec822]
+## 49. Procedure at pre-hearing panel determination of matters not relating to relevant person status[^c-3158e87f30c8b4b2483aff3eb10ef42f][^c-cac896fedb46f25fd2cdc213a7aec822]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3158e87f30c8b4b2483aff3eb10ef42f]: Textual amendment: Rule 49 omitted (26.7.2021) by virtue of [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(19)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/19)
+[^c-3158e87f30c8b4b2483aff3eb10ef42f]: Textual amendment: Rule 49 omitted (26.7.2021) by virtue of [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(19)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/19)
 
-[^key-cac896fedb46f25fd2cdc213a7aec822]: Textual amendment: Rule 49 heading substituted (26.1.2015) by [The Children s Hearings (Scotland) Act 2011 (Rules of Procedure in Children s Hearings) Amendment Rules 2015 (S.S.I. 2015/21)](https://www.legislation.gov.uk/ssi/2015/21), [rules 1(1)](https://www.legislation.gov.uk/ssi/2015/21/rule/1/1), [4(11)](https://www.legislation.gov.uk/ssi/2015/21/rule/4/11)
+[^c-cac896fedb46f25fd2cdc213a7aec822]: Textual amendment: Rule 49 heading substituted (26.1.2015) by [The Children s Hearings (Scotland) Act 2011 (Rules of Procedure in Children s Hearings) Amendment Rules 2015 (S.S.I. 2015/21)](https://www.legislation.gov.uk/ssi/2015/21), [rules 1(1)](https://www.legislation.gov.uk/ssi/2015/21/rule/1/1), [4(11)](https://www.legislation.gov.uk/ssi/2015/21/rule/4/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Meaning of “creditors”[^key-3cca5a34c184d75105fbe0265988c304]
+## 35. Meaning of “creditors”[^c-3cca5a34c184d75105fbe0265988c304]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.44 of the 1986 Rules.
 
 ## Annotations
 
-[^key-3cca5a34c184d75105fbe0265988c304]: Commencement: Rule 35 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-3cca5a34c184d75105fbe0265988c304]: Commencement: Rule 35 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

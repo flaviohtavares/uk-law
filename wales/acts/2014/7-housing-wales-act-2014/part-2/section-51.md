@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Homelessness reviews[^key-f6fb57c9914a7cb93e0dcb61944a5d8f]
+## 51. Homelessness reviews[^c-f6fb57c9914a7cb93e0dcb61944a5d8f]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6fb57c9914a7cb93e0dcb61944a5d8f]: Commencement: [S. 51](https://www.legislation.gov.uk/anaw/2014/7/section/51) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 2](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/2)
+[^c-f6fb57c9914a7cb93e0dcb61944a5d8f]: Commencement: [S. 51](https://www.legislation.gov.uk/anaw/2014/7/section/51) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 2](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/2)

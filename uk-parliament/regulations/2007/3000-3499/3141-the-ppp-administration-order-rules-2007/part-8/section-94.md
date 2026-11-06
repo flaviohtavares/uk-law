@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 94. Costs of proceedings under section 236[^key-7dff74a0cdcf22f72117f26d719b605f]
+## 94. Costs of proceedings under section 236[^c-7dff74a0cdcf22f72117f26d719b605f]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7dff74a0cdcf22f72117f26d719b605f]: Commencement: [Rule 94](https://www.legislation.gov.uk/uksi/2007/3141/rule/94) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-7dff74a0cdcf22f72117f26d719b605f]: Commencement: [Rule 94](https://www.legislation.gov.uk/uksi/2007/3141/rule/94) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

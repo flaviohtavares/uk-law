@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 103. Commencement[^key-e1a66ac1540db6ff775e3dc18a5cede5][^key-e1a66ac1540db6ff775e3dc18a5cede5]
+## 103. Commencement[^c-e1a66ac1540db6ff775e3dc18a5cede5][^c-e1a66ac1540db6ff775e3dc18a5cede5]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1a66ac1540db6ff775e3dc18a5cede5]: Commencement: S. 103 in force at Royal Assent, see [s. 103(1)](https://www.legislation.gov.uk/asp/2025/8/section/103/1)
+[^c-e1a66ac1540db6ff775e3dc18a5cede5]: Commencement: S. 103 in force at Royal Assent, see [s. 103(1)](https://www.legislation.gov.uk/asp/2025/8/section/103/1)

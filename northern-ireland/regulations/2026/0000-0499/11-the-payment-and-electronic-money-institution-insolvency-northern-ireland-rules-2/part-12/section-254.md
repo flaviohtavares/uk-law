@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 254. Authentication[^key-7b87ee75aa0e5668142e96a9c3326fd5]
+## 254. Authentication[^c-7b87ee75aa0e5668142e96a9c3326fd5]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b87ee75aa0e5668142e96a9c3326fd5]: Commencement: [Rule 254](https://www.legislation.gov.uk/nisr/2026/11/rule/254) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-7b87ee75aa0e5668142e96a9c3326fd5]: Commencement: [Rule 254](https://www.legislation.gov.uk/nisr/2026/11/rule/254) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

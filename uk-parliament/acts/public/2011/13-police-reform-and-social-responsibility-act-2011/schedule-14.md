@@ -24,19 +24,19 @@ Section 95
 
 ### Introduction
 
-**1.**[^key-e7bb6cae190469b48dcf4f2ae503b315] The Police Reform Act 2002 is amended in accordance with this Schedule.
+**1.**[^c-e7bb6cae190469b48dcf4f2ae503b315] The Police Reform Act 2002 is amended in accordance with this Schedule.
 
 ### Membership and proceedings of Independent Police Complaints Commission
 
-**2.**[^key-06072ec160be49befaa7d40ef5a77623] In section 9(2)(b) (minimum number of members of Commission), for “ten” substitute “ five ”.
+**2.**[^c-06072ec160be49befaa7d40ef5a77623] In section 9(2)(b) (minimum number of members of Commission), for “ten” substitute “ five ”.
 
-**3.**[^key-6475a1be1d2e616d7a9b0c9ac3a68871] In Schedule 2 (the Independent Police Complaints Commission), in paragraph 10 (proceedings), omit sub-paragraph (6).
+**3.**[^c-6475a1be1d2e616d7a9b0c9ac3a68871] In Schedule 2 (the Independent Police Complaints Commission), in paragraph 10 (proceedings), omit sub-paragraph (6).
 
 ### Complaints about policing
 
-**4.**[^key-850da450d72647a3e917fe58d53b077d][^key-e8263deebbbc4ac0230288034c14561c][^key-8189b8f2ba9ce3f010696f97969b3ffe] Omit section 14 (direction and control matters).
+**4.**[^c-850da450d72647a3e917fe58d53b077d][^c-e8263deebbbc4ac0230288034c14561c][^c-8189b8f2ba9ce3f010696f97969b3ffe] Omit section 14 (direction and control matters).
 
-**5.**[^key-b86583a42a6f63f3664c30a111a21660] (1) In section 29(1) (interpretation of Part 2), in the definition of “conduct” in subsection (1), for “and statements” substitute “ , statements and decisions ”.
+**5.**[^c-b86583a42a6f63f3664c30a111a21660] (1) In section 29(1) (interpretation of Part 2), in the definition of “conduct” in subsection (1), for “and statements” substitute “ , statements and decisions ”.
 
 (2) In Schedule 3 (handling of complaints and conduct matters), in paragraph 4 (reference of complaints to the Commission), after sub-paragraph (7) insert—
 
@@ -49,14 +49,14 @@ Section 95
 
 .
 
-**6.**[^key-7dde96ef09d11b353a0ea13adbbff0da] In consequence of paragraph 4—
+**6.**[^c-7dde96ef09d11b353a0ea13adbbff0da] In consequence of paragraph 4—
 
 - (a) in section 10 (general functions of the Commission), omit subsection (8);
 - (b) in section 13 (handling of complaints, conduct matters and DSI matters etc), omit “subject to section 14(1)”.
 
 ### Power of local policing body to direct chief officer of police to comply with obligations
 
-**7.**[^key-97cd87808bfd34de121335480ab7f674][^key-d8ff392cc6bb3adf453d1fdc2760fbc3] In section 15 (general duties of local policing bodies, chief officers and inspectors), after subsection (2) insert—
+**7.**[^c-97cd87808bfd34de121335480ab7f674][^c-d8ff392cc6bb3adf453d1fdc2760fbc3] In section 15 (general duties of local policing bodies, chief officers and inspectors), after subsection (2) insert—
 
 > (2A) Subsection (2B) applies in a case where it appears to a local policing body that—
 >
@@ -72,9 +72,9 @@ Section 95
 
 ### Initial handling and recording of complaints
 
-**8.**[^key-bf694103fa873cc671afa3d50c0e094e] (1)[^key-7d78b53f94d91467b0356f480622e0c4] In Schedule 3 (handling of complaints and conduct matters), paragraph 2 (initial handling and recording of complaints) is amended in accordance with sub-paragraphs (2) to (5).
+**8.**[^c-bf694103fa873cc671afa3d50c0e094e] (1)[^c-7d78b53f94d91467b0356f480622e0c4] In Schedule 3 (handling of complaints and conduct matters), paragraph 2 (initial handling and recording of complaints) is amended in accordance with sub-paragraphs (2) to (5).
 
-(2)[^key-7d78b53f94d91467b0356f480622e0c4] For sub-paragraph (1) substitute—
+(2)[^c-7d78b53f94d91467b0356f480622e0c4] For sub-paragraph (1) substitute—
 
 > (1) Where a complaint is made to the Commission, it shall give notification of the complaint to the appropriate authority.
 >
@@ -82,7 +82,7 @@ Section 95
 
 .
 
-(3)[^key-7d78b53f94d91467b0356f480622e0c4] Omit sub-paragraph (4).
+(3)[^c-7d78b53f94d91467b0356f480622e0c4] Omit sub-paragraph (4).
 
 (4) In sub-paragraph (5)—
 
@@ -91,7 +91,7 @@ Section 95
   - (ii) omit “or, as the case may be, the Commission”;
 - (b) omit sub-paragraph (b) (and the word “or” preceding it).
 
-(5)[^key-a8c8f604f5441053928faa9a62d4a02f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-a8c8f604f5441053928faa9a62d4a02f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In consequence of the amendments made by sub-paragraphs (2) to (5)—
 
@@ -100,7 +100,7 @@ Section 95
 
 ### Handling of complaints by the appropriate authority
 
-**9.**[^key-2a6c2675ca71fffbca01f7d5d9d5d429] (1) In Schedule 3 (handling of complaints and conduct matters), for paragraph 6 (handling of complaints by the appropriate authority) substitute—
+**9.**[^c-2a6c2675ca71fffbca01f7d5d9d5d429] (1) In Schedule 3 (handling of complaints and conduct matters), for paragraph 6 (handling of complaints by the appropriate authority) substitute—
 
 > **6.** (1) This paragraph applies where a complaint has been recorded by the appropriate authority.
 >
@@ -129,17 +129,17 @@ Section 95
 
 .
 
-(2)[^key-9b984580d10e452037b4a55073cd3014] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9b984580d10e452037b4a55073cd3014] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 22 (power of the Commission to issue guidance), in subsection (5)(c), omit sub-paragraph (ii) (and the word “and” at the end of sub-paragraph (i)).”.
 
 ### Disapplication of requirements of Schedule 3 to 2002 Act
 
-**10.**[^key-4e3bf79f58ccccc9d6c50357ce3020ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-4e3bf79f58ccccc9d6c50357ce3020ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Conduct matters arising in civil proceedings
 
-**11.**[^key-2ed1edf6ce21ac78e270c24aed37355b] (1) In Schedule 3 (handling of complaints and conduct matters), paragraph 10 (conduct matters arising in civil proceedings) is amended in accordance with sub-paragraphs (2) to (4).
+**11.**[^c-2ed1edf6ce21ac78e270c24aed37355b] (1) In Schedule 3 (handling of complaints and conduct matters), paragraph 10 (conduct matters arising in civil proceedings) is amended in accordance with sub-paragraphs (2) to (4).
 
 (2) In sub-paragraph (3), for “record that matter” substitute “ determine whether the matter is one which it or he is required to refer to the Commission under paragraph 13 or is one which it would be appropriate to so refer ”.
 
@@ -168,7 +168,7 @@ Section 95
 
 ### Recording etc of conduct matters in other cases
 
-**12.**[^key-887b7891d58bbfbf357d19fd69d9ee18] (1) In Schedule 3 (handling of complaints and conduct matters), paragraph 11 (recording etc of conduct matters in other cases) is amended in accordance with sub-paragraphs (2) to (4).
+**12.**[^c-887b7891d58bbfbf357d19fd69d9ee18] (1) In Schedule 3 (handling of complaints and conduct matters), paragraph 11 (recording etc of conduct matters in other cases) is amended in accordance with sub-paragraphs (2) to (4).
 
 (2) In sub-paragraph (1)—
 
@@ -206,13 +206,13 @@ Section 95
 
 ### Power to discontinue an investigation
 
-**13.**[^key-6124590b8eaec79938b52d48b9c6f90a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-6124590b8eaec79938b52d48b9c6f90a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Duties with respect to disciplinary proceedings
 
-**14.**[^key-484ee0529ba177fe889a4a3483fd25e2] (1) Schedule 3 is amended in accordance with this paragraph.
+**14.**[^c-484ee0529ba177fe889a4a3483fd25e2] (1) Schedule 3 is amended in accordance with this paragraph.
 
-(2)[^key-47a752c79f323c0d2379b94b922ec1f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-47a752c79f323c0d2379b94b922ec1f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In paragraph 24 (action by the appropriate authority in response to an investigation report under paragraph 22), in sub-paragraph (6)(a), after sub-paragraph (i) insert—
 
@@ -220,43 +220,43 @@ Section 95
 
 .
 
-(4)[^key-3bf156ea3e3bddab2c7a4886c1838163] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3bf156ea3e3bddab2c7a4886c1838163] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-3bf156ea3e3bddab2c7a4886c1838163] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-3bf156ea3e3bddab2c7a4886c1838163] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Rights of appeal
 
-**15.**[^key-d386acadbb7c7a41ad1f59343c2e0d22] Schedule 3 (handling of complaints and conduct matters) is amended in accordance with the following paragraphs of this Schedule.
+**15.**[^c-d386acadbb7c7a41ad1f59343c2e0d22] Schedule 3 (handling of complaints and conduct matters) is amended in accordance with the following paragraphs of this Schedule.
 
-**16.**[^key-18df9b6c4cd61361c40343191335dedb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-18df9b6c4cd61361c40343191335dedb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-92f159b3c9ca93ea335342230eb95f6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-92f159b3c9ca93ea335342230eb95f6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-85d3c0a52b9a2364299132e68e41e0b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-85d3c0a52b9a2364299132e68e41e0b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-9bfdf9c42830a8cc08e2daf271a77e57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-9bfdf9c42830a8cc08e2daf271a77e57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-6bd3372063176d328afdcc6f2b53445b] (1) In the italic heading that precedes paragraph 25 (appeals to the Commission with respect to an investigation), omit “*to the Commission*”.
+**20.**[^c-6bd3372063176d328afdcc6f2b53445b] (1) In the italic heading that precedes paragraph 25 (appeals to the Commission with respect to an investigation), omit “*to the Commission*”.
 
 (2) Paragraph 25 is amended in accordance with the following provisions of this paragraph.
 
-(3)[^key-134b647d43887bfa8a835ce3196283f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-134b647d43887bfa8a835ce3196283f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-134b647d43887bfa8a835ce3196283f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-134b647d43887bfa8a835ce3196283f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-134b647d43887bfa8a835ce3196283f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-134b647d43887bfa8a835ce3196283f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-134b647d43887bfa8a835ce3196283f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-134b647d43887bfa8a835ce3196283f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-134b647d43887bfa8a835ce3196283f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-134b647d43887bfa8a835ce3196283f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-134b647d43887bfa8a835ce3196283f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-134b647d43887bfa8a835ce3196283f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-134b647d43887bfa8a835ce3196283f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-134b647d43887bfa8a835ce3196283f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-134b647d43887bfa8a835ce3196283f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-134b647d43887bfa8a835ce3196283f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-134b647d43887bfa8a835ce3196283f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-134b647d43887bfa8a835ce3196283f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (12) In sub-paragraph (10)—
 
@@ -264,11 +264,11 @@ Section 95
 - (b) in sub-paragraph (a), after “authority” insert “ (unless it is the relevant appeal body) ”;
 - (c) in sub-paragraph (d), for “Commission” substitute “ relevant appeal body ”.
 
-(13)[^key-ca3082245b2f770089acf9737ed3b902] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-ca3082245b2f770089acf9737ed3b902] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (14) In sub-paragraph (13), for “Commission” substitute “ relevant appeal body ”.
 
-**21.**[^key-9a43d2dbc88078c6ccd4ecfe91db876a] In paragraph 29 (minor definitions), before the definition of “gross misconduct” insert—
+**21.**[^c-9a43d2dbc88078c6ccd4ecfe91db876a] In paragraph 29 (minor definitions), before the definition of “gross misconduct” insert—
 
 > “**direction and control matter**” means a matter that relates to the direction and control of a police force by—
 >
@@ -277,7 +277,7 @@ Section 95
 
 .
 
-**22.**[^key-8e64de5dad44dac2876d0379a3f23ddf] After paragraph 29 insert—
+**22.**[^c-8e64de5dad44dac2876d0379a3f23ddf] After paragraph 29 insert—
 
 > **Appeals: the relevant appeal body**
 >
@@ -329,66 +329,66 @@ Section 95
 
 ## Annotations
 
-[^key-e7bb6cae190469b48dcf4f2ae503b315]: Commencement: Sch. 14 para. 1 in force at 15.11.2011 by [S.I. 2011/2515](https://www.legislation.gov.uk/uksi/2011/2515), [art. 3(f)](https://www.legislation.gov.uk/uksi/2011/2515/article/3/f)
+[^c-e7bb6cae190469b48dcf4f2ae503b315]: Commencement: Sch. 14 para. 1 in force at 15.11.2011 by [S.I. 2011/2515](https://www.legislation.gov.uk/uksi/2011/2515), [art. 3(f)](https://www.legislation.gov.uk/uksi/2011/2515/article/3/f)
 
-[^key-06072ec160be49befaa7d40ef5a77623]: Commencement: Sch. 14 para. 2 in force at 15.11.2011 by [S.I. 2011/2515](https://www.legislation.gov.uk/uksi/2011/2515), [art. 3(f)](https://www.legislation.gov.uk/uksi/2011/2515/article/3/f)
+[^c-06072ec160be49befaa7d40ef5a77623]: Commencement: Sch. 14 para. 2 in force at 15.11.2011 by [S.I. 2011/2515](https://www.legislation.gov.uk/uksi/2011/2515), [art. 3(f)](https://www.legislation.gov.uk/uksi/2011/2515/article/3/f)
 
-[^key-6475a1be1d2e616d7a9b0c9ac3a68871]: Commencement: Sch. 14 para. 3 in force at 15.11.2011 by [S.I. 2011/2515](https://www.legislation.gov.uk/uksi/2011/2515), [art. 3(f)](https://www.legislation.gov.uk/uksi/2011/2515/article/3/f)
+[^c-6475a1be1d2e616d7a9b0c9ac3a68871]: Commencement: Sch. 14 para. 3 in force at 15.11.2011 by [S.I. 2011/2515](https://www.legislation.gov.uk/uksi/2011/2515), [art. 3(f)](https://www.legislation.gov.uk/uksi/2011/2515/article/3/f)
 
-[^key-850da450d72647a3e917fe58d53b077d]: Commencement: Sch. 14 para. 4 in force at 16.1.2012 for specified purposes by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [art. 8(2)](https://www.legislation.gov.uk/uksi/2011/3019/article/8/2)) (as amended (14.11.2012) by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), art. 8(3))
+[^c-850da450d72647a3e917fe58d53b077d]: Commencement: Sch. 14 para. 4 in force at 16.1.2012 for specified purposes by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [art. 8(2)](https://www.legislation.gov.uk/uksi/2011/3019/article/8/2)) (as amended (14.11.2012) by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), art. 8(3))
 
-[^key-e8263deebbbc4ac0230288034c14561c]: Modification: Sch. 14 para. 4 modified (with application in accordance with art. 6(1) of the amending S.I.) by [The Police Reform and Social Responsibility Act 2011 (Commencement No. 7 and Transitional Provisions and Commencement No. 3 and Transitional Provisions (Amendment)) Order 2012 (S.I. 2012/2892)](https://www.legislation.gov.uk/uksi/2012/2892), [art. 6(3)](https://www.legislation.gov.uk/uksi/2012/2892/article/6/3)
+[^c-e8263deebbbc4ac0230288034c14561c]: Modification: Sch. 14 para. 4 modified (with application in accordance with art. 6(1) of the amending S.I.) by [The Police Reform and Social Responsibility Act 2011 (Commencement No. 7 and Transitional Provisions and Commencement No. 3 and Transitional Provisions (Amendment)) Order 2012 (S.I. 2012/2892)](https://www.legislation.gov.uk/uksi/2012/2892), [art. 6(3)](https://www.legislation.gov.uk/uksi/2012/2892/article/6/3)
 
-[^key-8189b8f2ba9ce3f010696f97969b3ffe]: Commencement: Sch. 14 para. 4 in force at 22.11.2012 in so far as not already in force by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/g) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/2892/article/6))
+[^c-8189b8f2ba9ce3f010696f97969b3ffe]: Commencement: Sch. 14 para. 4 in force at 22.11.2012 in so far as not already in force by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/g) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/2892/article/6))
 
-[^key-b86583a42a6f63f3664c30a111a21660]: Commencement: Sch. 14 para. 5 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/g) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/2892/article/6))
+[^c-b86583a42a6f63f3664c30a111a21660]: Commencement: Sch. 14 para. 5 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/g) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/2892/article/6))
 
-[^key-7dde96ef09d11b353a0ea13adbbff0da]: Commencement: Sch. 14 para. 6 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/g) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/2892/article/6))
+[^c-7dde96ef09d11b353a0ea13adbbff0da]: Commencement: Sch. 14 para. 6 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/g) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/2892/article/6))
 
-[^key-97cd87808bfd34de121335480ab7f674]: Commencement: Sch. 14 para. 7 in force at 16.1.2012 for specified purposes by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-97cd87808bfd34de121335480ab7f674]: Commencement: Sch. 14 para. 7 in force at 16.1.2012 for specified purposes by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-d8ff392cc6bb3adf453d1fdc2760fbc3]: Commencement: Sch. 14 para. 7 in force at 22.11.2012 in so far as not already in force by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/g) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/2892/article/6))
+[^c-d8ff392cc6bb3adf453d1fdc2760fbc3]: Commencement: Sch. 14 para. 7 in force at 22.11.2012 in so far as not already in force by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/g) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/2892/article/6))
 
-[^key-bf694103fa873cc671afa3d50c0e094e]: Commencement: Sch. 14 para. 8 in force at 22.11.2012 in so far as not already in force by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/g) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/2892/article/6))
+[^c-bf694103fa873cc671afa3d50c0e094e]: Commencement: Sch. 14 para. 8 in force at 22.11.2012 in so far as not already in force by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/g) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/2892/article/6))
 
-[^key-7d78b53f94d91467b0356f480622e0c4]: Commencement: Sch. 14 para. 8(1)(2)(3) in force at 16.1.2012 for specified purposes by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-7d78b53f94d91467b0356f480622e0c4]: Commencement: Sch. 14 para. 8(1)(2)(3) in force at 16.1.2012 for specified purposes by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-a8c8f604f5441053928faa9a62d4a02f]: Textual amendment: Sch. 14 para. 8(5) omitted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 5 para. 51(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/51/a); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-a8c8f604f5441053928faa9a62d4a02f]: Textual amendment: Sch. 14 para. 8(5) omitted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 5 para. 51(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/51/a); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
-[^key-2a6c2675ca71fffbca01f7d5d9d5d429]: Commencement: Sch. 14 para. 9 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/g) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/2892/article/6))
+[^c-2a6c2675ca71fffbca01f7d5d9d5d429]: Commencement: Sch. 14 para. 9 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/g) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/2892/article/6))
 
-[^key-9b984580d10e452037b4a55073cd3014]: Textual amendment: Sch. 14 para. 9(2) omitted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 5 para. 51(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/51/a); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-9b984580d10e452037b4a55073cd3014]: Textual amendment: Sch. 14 para. 9(2) omitted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 5 para. 51(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/51/a); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
-[^key-4e3bf79f58ccccc9d6c50357ce3020ba]: Textual amendment: Sch. 14 para. 10 omitted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 5 para. 51(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/51/a); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-4e3bf79f58ccccc9d6c50357ce3020ba]: Textual amendment: Sch. 14 para. 10 omitted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 5 para. 51(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/51/a); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
-[^key-2ed1edf6ce21ac78e270c24aed37355b]: Commencement: Sch. 14 para. 11 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/g) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/2892/article/6))
+[^c-2ed1edf6ce21ac78e270c24aed37355b]: Commencement: Sch. 14 para. 11 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/g) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/2892/article/6))
 
-[^key-887b7891d58bbfbf357d19fd69d9ee18]: Commencement: Sch. 14 para. 12 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/g) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/2892/article/6))
+[^c-887b7891d58bbfbf357d19fd69d9ee18]: Commencement: Sch. 14 para. 12 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/g) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/2892/article/6))
 
-[^key-6124590b8eaec79938b52d48b9c6f90a]: Textual amendment: Sch. 14 para. 13 omitted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 5 para. 51(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/51/a); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-6124590b8eaec79938b52d48b9c6f90a]: Textual amendment: Sch. 14 para. 13 omitted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 5 para. 51(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/51/a); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
-[^key-484ee0529ba177fe889a4a3483fd25e2]: Commencement: Sch. 14 para. 14 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/g) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/2892/article/6))
+[^c-484ee0529ba177fe889a4a3483fd25e2]: Commencement: Sch. 14 para. 14 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/g) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/2892/article/6))
 
-[^key-47a752c79f323c0d2379b94b922ec1f7]: Textual amendment: Sch. 14 para. 14(2) omitted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 5 para. 51(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/51/a); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-47a752c79f323c0d2379b94b922ec1f7]: Textual amendment: Sch. 14 para. 14(2) omitted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 5 para. 51(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/51/a); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
-[^key-3bf156ea3e3bddab2c7a4886c1838163]: Textual amendment: Sch. 14 para. 14(4)(5) omitted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 5 para. 51(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/51/a); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-3bf156ea3e3bddab2c7a4886c1838163]: Textual amendment: Sch. 14 para. 14(4)(5) omitted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 5 para. 51(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/51/a); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
-[^key-d386acadbb7c7a41ad1f59343c2e0d22]: Commencement: Sch. 14 para. 15 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/g) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/2892/article/6))
+[^c-d386acadbb7c7a41ad1f59343c2e0d22]: Commencement: Sch. 14 para. 15 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/g) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/2892/article/6))
 
-[^key-18df9b6c4cd61361c40343191335dedb]: Textual amendment: Sch. 14 para. 16 omitted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 5 para. 51(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/51/a); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-18df9b6c4cd61361c40343191335dedb]: Textual amendment: Sch. 14 para. 16 omitted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 5 para. 51(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/51/a); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
-[^key-92f159b3c9ca93ea335342230eb95f6e]: Textual amendment: Sch. 14 para. 17 omitted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 5 para. 51(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/51/a); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-92f159b3c9ca93ea335342230eb95f6e]: Textual amendment: Sch. 14 para. 17 omitted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 5 para. 51(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/51/a); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
-[^key-85d3c0a52b9a2364299132e68e41e0b6]: Textual amendment: Sch. 14 para. 18 omitted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 5 para. 51(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/51/a); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-85d3c0a52b9a2364299132e68e41e0b6]: Textual amendment: Sch. 14 para. 18 omitted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 5 para. 51(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/51/a); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
-[^key-9bfdf9c42830a8cc08e2daf271a77e57]: Textual amendment: Sch. 14 para. 19 omitted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 5 para. 51(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/51/a); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-9bfdf9c42830a8cc08e2daf271a77e57]: Textual amendment: Sch. 14 para. 19 omitted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 5 para. 51(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/51/a); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
-[^key-6bd3372063176d328afdcc6f2b53445b]: Commencement: Sch. 14 para. 20 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/g) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/2892/article/6))
+[^c-6bd3372063176d328afdcc6f2b53445b]: Commencement: Sch. 14 para. 20 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/g) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/2892/article/6))
 
-[^key-134b647d43887bfa8a835ce3196283f8]: Textual amendment: Sch. 14 para. 20(3)-(11) omitted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 5 para. 51(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/51/a); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-134b647d43887bfa8a835ce3196283f8]: Textual amendment: Sch. 14 para. 20(3)-(11) omitted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 5 para. 51(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/51/a); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
-[^key-ca3082245b2f770089acf9737ed3b902]: Textual amendment: Sch. 14 para. 20(13) omitted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 5 para. 51(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/51/a); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-ca3082245b2f770089acf9737ed3b902]: Textual amendment: Sch. 14 para. 20(13) omitted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 5 para. 51(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/51/a); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
-[^key-9a43d2dbc88078c6ccd4ecfe91db876a]: Commencement: Sch. 14 para. 21 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/g) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/2892/article/6))
+[^c-9a43d2dbc88078c6ccd4ecfe91db876a]: Commencement: Sch. 14 para. 21 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/g) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/2892/article/6))
 
-[^key-8e64de5dad44dac2876d0379a3f23ddf]: Commencement: Sch. 14 para. 22 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/g) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/2892/article/6))
+[^c-8e64de5dad44dac2876d0379a3f23ddf]: Commencement: Sch. 14 para. 22 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/g) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/2892/article/6))

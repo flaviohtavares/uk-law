@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Application of compulsory acquisition provisions[^key-bdaa7f3c1e29229167ecae88da7de6da][^key-16f42c7f31ad7f080a53e09faf056f75]
+## 66. Application of compulsory acquisition provisions[^c-bdaa7f3c1e29229167ecae88da7de6da][^c-16f42c7f31ad7f080a53e09faf056f75]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bdaa7f3c1e29229167ecae88da7de6da]: Commencement: S. 66 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-bdaa7f3c1e29229167ecae88da7de6da]: Commencement: S. 66 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-16f42c7f31ad7f080a53e09faf056f75]: Commencement: [S. 66](https://www.legislation.gov.uk/asc/2024/3/section/66) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)
+[^c-16f42c7f31ad7f080a53e09faf056f75]: Commencement: [S. 66](https://www.legislation.gov.uk/asc/2024/3/section/66) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)

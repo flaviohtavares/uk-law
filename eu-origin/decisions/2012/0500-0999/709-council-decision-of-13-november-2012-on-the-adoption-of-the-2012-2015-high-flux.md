@@ -35,34 +35,34 @@ on the adoption of the 2012-2015 High Flux Reactor supplementary research progra
 
 (2012/709/Euratom) (revoked)
 
-[^key-2db86d2d697a754e56e866a0457a39b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2db86d2d697a754e56e866a0457a39b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-2db86d2d697a754e56e866a0457a39b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-2db86d2d697a754e56e866a0457a39b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-2db86d2d697a754e56e866a0457a39b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-2db86d2d697a754e56e866a0457a39b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-2db86d2d697a754e56e866a0457a39b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-2db86d2d697a754e56e866a0457a39b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-2db86d2d697a754e56e866a0457a39b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-2db86d2d697a754e56e866a0457a39b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-2db86d2d697a754e56e866a0457a39b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-2db86d2d697a754e56e866a0457a39b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-2db86d2d697a754e56e866a0457a39b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-2db86d2d697a754e56e866a0457a39b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2db86d2d697a754e56e866a0457a39b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2db86d2d697a754e56e866a0457a39b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — SCIENTIFIC AND TECHNICAL OBJECTIVES[^key-2db86d2d697a754e56e866a0457a39b2]
+## ANNEX I — SCIENTIFIC AND TECHNICAL OBJECTIVES[^c-2db86d2d697a754e56e866a0457a39b2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — BREAKDOWN OF THE CONTRIBUTIONS[^key-2db86d2d697a754e56e866a0457a39b2]
+## ANNEX II — BREAKDOWN OF THE CONTRIBUTIONS[^c-2db86d2d697a754e56e866a0457a39b2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2db86d2d697a754e56e866a0457a39b2]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)
+[^c-2db86d2d697a754e56e866a0457a39b2]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 24.2. Permission granted by the Dean: service of appeal documents[^key-bd5b00e37a0ec7228d550f2cfada7dd2]
+## 24.2. Permission granted by the Dean: service of appeal documents[^c-bd5b00e37a0ec7228d550f2cfada7dd2]
 
 *Extent: E*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd5b00e37a0ec7228d550f2cfada7dd2]: Commencement: [Rule 24.2](https://www.legislation.gov.uk/uksi/2015/1568/article/24.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-bd5b00e37a0ec7228d550f2cfada7dd2]: Commencement: [Rule 24.2](https://www.legislation.gov.uk/uksi/2015/1568/article/24.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

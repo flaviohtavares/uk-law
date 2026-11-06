@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Information to be provided to Surveillance Commissioners.[^key-cde154e6dda0bb5ceb17cd6e608e4597]
+## 40. Information to be provided to Surveillance Commissioners.[^c-cde154e6dda0bb5ceb17cd6e608e4597]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cde154e6dda0bb5ceb17cd6e608e4597]: Textual amendment: S. 40 omitted (1.9.2017) by virtue of [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 78](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/78) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/j) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/859/regulation/7))
+[^c-cde154e6dda0bb5ceb17cd6e608e4597]: Textual amendment: S. 40 omitted (1.9.2017) by virtue of [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 78](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/78) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/j) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/859/regulation/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 394. Special rules for some debtor relationships[^key-0547d3df03d9ca82e460e6bac335f4a8]
+## 394. Special rules for some debtor relationships[^c-0547d3df03d9ca82e460e6bac335f4a8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0547d3df03d9ca82e460e6bac335f4a8]: Textual amendment: S. 394 omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 156](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/156)
+[^c-0547d3df03d9ca82e460e6bac335f4a8]: Textual amendment: S. 394 omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 156](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/156)

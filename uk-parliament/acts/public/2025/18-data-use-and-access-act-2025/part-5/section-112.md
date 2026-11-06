@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Storing information in the terminal equipment of a subscriber or user[^key-f89207bb22f7c6deb8a6cd2138bf87e4][^key-be366ec1dda10bd2fe6b4b117eaca2e5]
+## 112. Storing information in the terminal equipment of a subscriber or user[^c-f89207bb22f7c6deb8a6cd2138bf87e4][^c-be366ec1dda10bd2fe6b4b117eaca2e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f89207bb22f7c6deb8a6cd2138bf87e4]: Commencement: S. 112 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-f89207bb22f7c6deb8a6cd2138bf87e4]: Commencement: S. 112 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-be366ec1dda10bd2fe6b4b117eaca2e5]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2025/18/section/112) in force at 5.2.2026 in so far as not already in force by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(w)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/w)
+[^c-be366ec1dda10bd2fe6b4b117eaca2e5]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2025/18/section/112) in force at 5.2.2026 in so far as not already in force by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(w)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/w)

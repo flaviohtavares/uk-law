@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82. Notice by and to representatives[^key-4fb65199fa376bc532e35582056c5aa6]
+## 82. Notice by and to representatives[^c-4fb65199fa376bc532e35582056c5aa6]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where under the 1986 Act or these Rules a notice or other document is required o
 
 ## Annotations
 
-[^key-4fb65199fa376bc532e35582056c5aa6]: Commencement: Rule 82 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-4fb65199fa376bc532e35582056c5aa6]: Commencement: Rule 82 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

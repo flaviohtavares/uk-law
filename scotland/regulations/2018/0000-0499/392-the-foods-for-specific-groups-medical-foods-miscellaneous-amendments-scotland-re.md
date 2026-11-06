@@ -86,7 +86,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No. 178
 
 (1) The Foods for Special Medical Purposes (Scotland) Regulations 2000 [^c23529551] are amended as follows.
 
-(2)[^key-e31f75aa0b607613a74eeb05fa593ebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e31f75aa0b607613a74eeb05fa593ebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 4. Amendment of the Foods for Specific Groups (Scotland) Regulations 2016
 
@@ -164,7 +164,7 @@ A full business and regulatory impact assessment of the effect these Regulations
 
 [^c23529551]: Marginal citation: [S.S.I. 2000/130](https://www.legislation.gov.uk/ssi/2000/130), amended by [S.S.I. 2004/395](https://www.legislation.gov.uk/ssi/2004/395), 2005/616, 2007/549, 2008/322 and 2015/100.
 
-[^key-e31f75aa0b607613a74eeb05fa593ebb]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/ssi/2018/392/regulation/3/2) revoked (22.2.2020) by [The Foods for Specific Groups (Medical Foods for Infants) and Addition of Vitamins, Minerals and Other Substances (Scotland) Amendment Regulations 2020 (S.S.I. 2020/7)](https://www.legislation.gov.uk/ssi/2020/7), [reg. 1](https://www.legislation.gov.uk/ssi/2020/7/regulation/1), [sch. 2](https://www.legislation.gov.uk/ssi/2020/7/schedule/2) (with [reg. 4(2)](https://www.legislation.gov.uk/ssi/2020/7/regulation/4/2))
+[^c-e31f75aa0b607613a74eeb05fa593ebb]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/ssi/2018/392/regulation/3/2) revoked (22.2.2020) by [The Foods for Specific Groups (Medical Foods for Infants) and Addition of Vitamins, Minerals and Other Substances (Scotland) Amendment Regulations 2020 (S.S.I. 2020/7)](https://www.legislation.gov.uk/ssi/2020/7), [reg. 1](https://www.legislation.gov.uk/ssi/2020/7/regulation/1), [sch. 2](https://www.legislation.gov.uk/ssi/2020/7/schedule/2) (with [reg. 4(2)](https://www.legislation.gov.uk/ssi/2020/7/regulation/4/2))
 
 [^c23529561]: Marginal citation: [S.S.I. 2016/190](https://www.legislation.gov.uk/ssi/2016/190).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 164. Urgent works to preserve buildings in conservation areas[^key-7a45f80568e9036863c4f67189aa569a][^key-df9ffe279ddcc2047788f70cf26458fe]
+## 164. Urgent works to preserve buildings in conservation areas[^c-7a45f80568e9036863c4f67189aa569a][^c-df9ffe279ddcc2047788f70cf26458fe]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7a45f80568e9036863c4f67189aa569a]: Commencement: S. 164 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-7a45f80568e9036863c4f67189aa569a]: Commencement: S. 164 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-df9ffe279ddcc2047788f70cf26458fe]: Commencement: [S. 164](https://www.legislation.gov.uk/asc/2023/3/section/164) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-df9ffe279ddcc2047788f70cf26458fe]: Commencement: [S. 164](https://www.legislation.gov.uk/asc/2023/3/section/164) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

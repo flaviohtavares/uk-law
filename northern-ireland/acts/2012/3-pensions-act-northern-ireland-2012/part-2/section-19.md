@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Power to exempt certain cross-border employment from enrolment duty[^key-48b2d23b4f66fbf276559dd51f216e2b]
+## 19. Power to exempt certain cross-border employment from enrolment duty[^c-48b2d23b4f66fbf276559dd51f216e2b]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48b2d23b4f66fbf276559dd51f216e2b]: Textual amendment: [S. 19](https://www.legislation.gov.uk/nia/2012/3/section/19) repealed (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 37(3)(c)](https://www.legislation.gov.uk/nia/2015/5/section/37/3/c), [53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/c)
+[^c-48b2d23b4f66fbf276559dd51f216e2b]: Textual amendment: [S. 19](https://www.legislation.gov.uk/nia/2012/3/section/19) repealed (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 37(3)(c)](https://www.legislation.gov.uk/nia/2015/5/section/37/3/c), [53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/c)

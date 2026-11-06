@@ -43,7 +43,7 @@ for such period, not exceeding 6 months, as the court thinks fit.
   - (i) proposes to resume occupation of the original premises within a reasonable period; or
   - (ii) has made an application for registration for those or other premises, or proposes to do so within a reasonable period.
 
-(3)[^key-183b60c7aef3e88c9652eeca9277c235] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-183b60c7aef3e88c9652eeca9277c235] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Where an order has been made under paragraph (1), a court of summary jurisdiction may, on the application of the secretary of the registered club, make such further order or orders under that paragraph as the court thinks fit.
 
@@ -60,4 +60,4 @@ whichever first occurs.
 
 [^m00018]: Marginal citation: 1987 NI 14.
 
-[^key-183b60c7aef3e88c9652eeca9277c235]: Textual amendment: [Art. 12(3)](https://www.legislation.gov.uk/nisi/1996/3159/article/12/3) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 111(1)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/111/1), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-183b60c7aef3e88c9652eeca9277c235]: Textual amendment: [Art. 12(3)](https://www.legislation.gov.uk/nisi/1996/3159/article/12/3) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 111(1)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/111/1), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

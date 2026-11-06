@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Service of notices[^key-9f8e317817d7d0056e825d4b4f9d35f8]
+## 45. Service of notices[^c-9f8e317817d7d0056e825d4b4f9d35f8]
 
 *Extent: E+W+S*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9f8e317817d7d0056e825d4b4f9d35f8]: Commencement: Art. 45 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-9f8e317817d7d0056e825d4b4f9d35f8]: Commencement: Art. 45 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
 
 [^f00036]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

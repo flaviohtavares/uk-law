@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 93. Community of Llanrhidian Higher — changes to electoral arrangements[^key-5ba76248295aedd2934914359f50b993]
+## 93. Community of Llanrhidian Higher — changes to electoral arrangements[^c-5ba76248295aedd2934914359f50b993]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In the community of Llanrhidian Higher, the number of councillors to be elected 
 
 ## Annotations
 
-[^key-5ba76248295aedd2934914359f50b993]: Commencement: [Art. 93](https://www.legislation.gov.uk/wsi/2026/95/article/93) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-5ba76248295aedd2934914359f50b993]: Commencement: [Art. 93](https://www.legislation.gov.uk/wsi/2026/95/article/93) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

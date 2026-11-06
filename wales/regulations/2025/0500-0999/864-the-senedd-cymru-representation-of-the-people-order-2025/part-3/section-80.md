@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80. Providing money for illegal purposes[^key-a2743f634d6a91d7b56ad79c8c07cc3b]
+## 80. Providing money for illegal purposes[^c-a2743f634d6a91d7b56ad79c8c07cc3b]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2743f634d6a91d7b56ad79c8c07cc3b]: Commencement: Art. 80 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-a2743f634d6a91d7b56ad79c8c07cc3b]: Commencement: Art. 80 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Prohibition: exemption[^key-b7ab0815890d9d07e23164899f55fbbc]
+## 4. Prohibition: exemption[^c-b7ab0815890d9d07e23164899f55fbbc]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7ab0815890d9d07e23164899f55fbbc]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2012/19/section/4) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-b7ab0815890d9d07e23164899f55fbbc]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2012/19/section/4) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

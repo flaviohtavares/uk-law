@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2E. Powers to enter premises to conduct interviews or observe standards[^key-22adecf4314e57f5985807ee8777b36b]
+## 2E. Powers to enter premises to conduct interviews or observe standards[^c-22adecf4314e57f5985807ee8777b36b]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22adecf4314e57f5985807ee8777b36b]: Textual amendment: S. 2E inserted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 109](https://www.legislation.gov.uk/ukpga/2014/6/section/109), [139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5)
+[^c-22adecf4314e57f5985807ee8777b36b]: Textual amendment: S. 2E inserted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 109](https://www.legislation.gov.uk/ukpga/2014/6/section/109), [139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5)

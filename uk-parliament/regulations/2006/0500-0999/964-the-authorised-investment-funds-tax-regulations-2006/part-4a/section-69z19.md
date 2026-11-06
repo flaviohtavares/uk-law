@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69Z19. PAIF distributions (interest): liability to tax of participants[^key-228ceee17a63954421c7bcbab46e5182]
+## 69Z19. PAIF distributions (interest): liability to tax of participants[^c-228ceee17a63954421c7bcbab46e5182]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-1dc160f81f6a435ba82922c59c5fe37e] A PAIF distribution (interest) received by a participant in an open-ended investment company to which this Part applies shall be treated—
+(1)[^c-1dc160f81f6a435ba82922c59c5fe37e] A PAIF distribution (interest) received by a participant in an open-ended investment company to which this Part applies shall be treated—
 
 - (a) in the case of a participant within the charge to corporation tax, as if it were interest arising from a loan relationship; and
 - (b) in the case of a participant within the charge to income tax, as if it were a payment of yearly interest falling within Chapter 2 of Part 4 of ITTOIA 2005.
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-228ceee17a63954421c7bcbab46e5182]: Textual amendment: Pt. 4A inserted (6.4.2008) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2008 (S.I. 2008/705)](https://www.legislation.gov.uk/uksi/2008/705), [regs. 1](https://www.legislation.gov.uk/uksi/2008/705/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/705/regulation/5)
+[^c-228ceee17a63954421c7bcbab46e5182]: Textual amendment: Pt. 4A inserted (6.4.2008) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2008 (S.I. 2008/705)](https://www.legislation.gov.uk/uksi/2008/705), [regs. 1](https://www.legislation.gov.uk/uksi/2008/705/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/705/regulation/5)
 
-[^key-1dc160f81f6a435ba82922c59c5fe37e]: Textual amendment: Reg. 69Z19(1) substituted (1.1.2009) by [The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008 (S.I. 2008/3159)](https://www.legislation.gov.uk/uksi/2008/3159), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2008/3159/regulation/24)
+[^c-1dc160f81f6a435ba82922c59c5fe37e]: Textual amendment: Reg. 69Z19(1) substituted (1.1.2009) by [The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008 (S.I. 2008/3159)](https://www.legislation.gov.uk/uksi/2008/3159), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2008/3159/regulation/24)

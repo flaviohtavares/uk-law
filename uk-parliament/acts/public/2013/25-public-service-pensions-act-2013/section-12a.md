@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12A. Sections 11 and 12: restricted schemes[^key-108aef4f0b42083ce2a3ca02b7873efe]
+## 12A. Sections 11 and 12: restricted schemes[^c-108aef4f0b42083ce2a3ca02b7873efe]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-108aef4f0b42083ce2a3ca02b7873efe]: Textual amendment: [S. 12A](https://www.legislation.gov.uk/ukpga/2013/25/section/12A) inserted (10.3.2022 for specified purposes, 1.4.2022 in so far as not already in force) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [ss. 95(6)](https://www.legislation.gov.uk/ukpga/2022/7/section/95/6), [131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
+[^c-108aef4f0b42083ce2a3ca02b7873efe]: Textual amendment: [S. 12A](https://www.legislation.gov.uk/ukpga/2013/25/section/12A) inserted (10.3.2022 for specified purposes, 1.4.2022 in so far as not already in force) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [ss. 95(6)](https://www.legislation.gov.uk/ukpga/2022/7/section/95/6), [131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)

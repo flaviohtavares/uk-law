@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Waiver or modification of rules[^key-0631fe840b8559ea5ff388f1ca0d9bb1]
+## 20. Waiver or modification of rules[^c-0631fe840b8559ea5ff388f1ca0d9bb1]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Designated activity rules made by virtue of these regulations may include provis
 
 ## Annotations
 
-[^key-0631fe840b8559ea5ff388f1ca0d9bb1]: Commencement: Reg. 20 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-0631fe840b8559ea5ff388f1ca0d9bb1]: Commencement: Reg. 20 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)

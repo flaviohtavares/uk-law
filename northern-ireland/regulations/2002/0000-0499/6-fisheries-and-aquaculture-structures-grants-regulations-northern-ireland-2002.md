@@ -31,7 +31,7 @@ summary: ''
 
 FISHERIES
 
-Fisheries and Aquaculture Structures (Grants) Regulations (Northern Ireland) 2002 (revoked)[^key-c206307872c1bb9669f429d4e379b02d]
+Fisheries and Aquaculture Structures (Grants) Regulations (Northern Ireland) 2002 (revoked)[^c-c206307872c1bb9669f429d4e379b02d]
 
 Made
 
@@ -41,88 +41,88 @@ Coming into operation
 
 25th February 2002
 
-[^key-c206307872c1bb9669f429d4e379b02d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c206307872c1bb9669f429d4e379b02d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c206307872c1bb9669f429d4e379b02d]
+## 1. Citation and commencement[^c-c206307872c1bb9669f429d4e379b02d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-c206307872c1bb9669f429d4e379b02d]
+## 2. Interpretation[^c-c206307872c1bb9669f429d4e379b02d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Financial Assistance[^key-c206307872c1bb9669f429d4e379b02d]
+## 3. Financial Assistance[^c-c206307872c1bb9669f429d4e379b02d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Applications[^key-c206307872c1bb9669f429d4e379b02d]
+## 4. Applications[^c-c206307872c1bb9669f429d4e379b02d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Approval of applications[^key-c206307872c1bb9669f429d4e379b02d]
+## 5. Approval of applications[^c-c206307872c1bb9669f429d4e379b02d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Eligibility and claims for payment of financial assistance[^key-c206307872c1bb9669f429d4e379b02d]
+## 6. Eligibility and claims for payment of financial assistance[^c-c206307872c1bb9669f429d4e379b02d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Method of payment of financial assistance[^key-c206307872c1bb9669f429d4e379b02d]
+## 7. Method of payment of financial assistance[^c-c206307872c1bb9669f429d4e379b02d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Undertakings[^key-c206307872c1bb9669f429d4e379b02d]
+## 8. Undertakings[^c-c206307872c1bb9669f429d4e379b02d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Information[^key-c206307872c1bb9669f429d4e379b02d]
+## 9. Information[^c-c206307872c1bb9669f429d4e379b02d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Records[^key-c206307872c1bb9669f429d4e379b02d]
+## 10. Records[^c-c206307872c1bb9669f429d4e379b02d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Exercise of functions by the Sea Fish Industry Authority[^key-c206307872c1bb9669f429d4e379b02d]
+## 11. Exercise of functions by the Sea Fish Industry Authority[^c-c206307872c1bb9669f429d4e379b02d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Assistance to authorised officers[^key-c206307872c1bb9669f429d4e379b02d]
+## 12. Assistance to authorised officers[^c-c206307872c1bb9669f429d4e379b02d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Powers of authorised officers[^key-c206307872c1bb9669f429d4e379b02d]
+## 13. Powers of authorised officers[^c-c206307872c1bb9669f429d4e379b02d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Protection of officers[^key-c206307872c1bb9669f429d4e379b02d]
+## 14. Protection of officers[^c-c206307872c1bb9669f429d4e379b02d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Reduction, withholding and recovery of financial assistance[^key-c206307872c1bb9669f429d4e379b02d]
+## 15. Reduction, withholding and recovery of financial assistance[^c-c206307872c1bb9669f429d4e379b02d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Recovery of interest[^key-c206307872c1bb9669f429d4e379b02d]
+## 16. Recovery of interest[^c-c206307872c1bb9669f429d4e379b02d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Offences and penalties[^key-c206307872c1bb9669f429d4e379b02d]
+## 17. Offences and penalties[^c-c206307872c1bb9669f429d4e379b02d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Prosecution[^key-c206307872c1bb9669f429d4e379b02d]
+## 18. Prosecution[^c-c206307872c1bb9669f429d4e379b02d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c206307872c1bb9669f429d4e379b02d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c206307872c1bb9669f429d4e379b02d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c206307872c1bb9669f429d4e379b02d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c206307872c1bb9669f429d4e379b02d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c206307872c1bb9669f429d4e379b02d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/6) revoked with savings (14.1.2016) by [The European Maritime and Fisheries Fund (Financial Assistance) Regulations (Northern Ireland) 2015 (S.R. 2015/399)](https://www.legislation.gov.uk/nisr/2015/399), [reg. 15(1)(a)](https://www.legislation.gov.uk/nisr/2015/399/regulation/15/1/a) (with [reg. 15(2)](https://www.legislation.gov.uk/nisr/2015/399/regulation/15/2)[(3)](https://www.legislation.gov.uk/nisr/2015/399/regulation/15/3))
+[^c-c206307872c1bb9669f429d4e379b02d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/6) revoked with savings (14.1.2016) by [The European Maritime and Fisheries Fund (Financial Assistance) Regulations (Northern Ireland) 2015 (S.R. 2015/399)](https://www.legislation.gov.uk/nisr/2015/399), [reg. 15(1)(a)](https://www.legislation.gov.uk/nisr/2015/399/regulation/15/1/a) (with [reg. 15(2)](https://www.legislation.gov.uk/nisr/2015/399/regulation/15/2)[(3)](https://www.legislation.gov.uk/nisr/2015/399/regulation/15/3))

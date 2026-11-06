@@ -22,7 +22,7 @@ summary: ''
 
 (1) The registrar shall examine whether an application for registration of a trade mark satisfies the requirements of this Act (including any requirements imposed by rules).
 
-(2) For that purpose he shall carry out a search, to such extent as he considers necessary, of earlier trade marks. *(affected by repeal, see note)*[^key-019a3248ca7f362c477dca4483e4579e]
+(2) For that purpose he shall carry out a search, to such extent as he considers necessary, of earlier trade marks. *(affected by repeal, see note)*[^c-019a3248ca7f362c477dca4483e4579e]
 
 (3) If it appears to the registrar that the requirements for registration are not met, he shall inform the applicant and give him an opportunity, within such period as the registrar may specify, to make representations or to amend the application.
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-019a3248ca7f362c477dca4483e4579e]: Textual amendment: S. 37(2) ceases to have effect (1.10.2007) by virtue of [Trade Marks (Relative Grounds) Order 2007 (S.I. 2007/1976)](https://www.legislation.gov.uk/uksi/2007/1976), [arts. 1](https://www.legislation.gov.uk/uksi/2007/1976/article/1), [3](https://www.legislation.gov.uk/uksi/2007/1976/article/3) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/1976/article/6))
+[^c-019a3248ca7f362c477dca4483e4579e]: Textual amendment: S. 37(2) ceases to have effect (1.10.2007) by virtue of [Trade Marks (Relative Grounds) Order 2007 (S.I. 2007/1976)](https://www.legislation.gov.uk/uksi/2007/1976), [arts. 1](https://www.legislation.gov.uk/uksi/2007/1976/article/1), [3](https://www.legislation.gov.uk/uksi/2007/1976/article/3) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/1976/article/6))

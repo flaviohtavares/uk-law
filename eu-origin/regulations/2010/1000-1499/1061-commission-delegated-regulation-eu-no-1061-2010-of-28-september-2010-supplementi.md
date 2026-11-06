@@ -39,188 +39,188 @@ supplementing Directive 2010/30/EU of the European Parliament and of the Council
 
 (Text with EEA relevance) (revoked)
 
-[^key-e1d333d3fd2f8c9dcb155991dc418c44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e1d333d3fd2f8c9dcb155991dc418c44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter and scope[^key-e1d333d3fd2f8c9dcb155991dc418c44]
+## Article 1. Subject matter and scope[^c-e1d333d3fd2f8c9dcb155991dc418c44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definitions[^key-e1d333d3fd2f8c9dcb155991dc418c44]
+## Article 2. Definitions[^c-e1d333d3fd2f8c9dcb155991dc418c44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Responsibilities of suppliers[^key-e1d333d3fd2f8c9dcb155991dc418c44]
+## Article 3. Responsibilities of suppliers[^c-e1d333d3fd2f8c9dcb155991dc418c44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Responsibilities of dealers[^key-e1d333d3fd2f8c9dcb155991dc418c44]
+## Article 4. Responsibilities of dealers[^c-e1d333d3fd2f8c9dcb155991dc418c44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Measurement methods[^key-e1d333d3fd2f8c9dcb155991dc418c44]
+## Article 5. Measurement methods[^c-e1d333d3fd2f8c9dcb155991dc418c44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Verification procedure for market surveillance purposes[^key-e1d333d3fd2f8c9dcb155991dc418c44]
+## Article 6. Verification procedure for market surveillance purposes[^c-e1d333d3fd2f8c9dcb155991dc418c44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Revision[^key-e1d333d3fd2f8c9dcb155991dc418c44]
+## Article 7. Revision[^c-e1d333d3fd2f8c9dcb155991dc418c44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Repeal[^key-e1d333d3fd2f8c9dcb155991dc418c44]
+## Article 8. Repeal[^c-e1d333d3fd2f8c9dcb155991dc418c44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Transitional provisions[^key-e1d333d3fd2f8c9dcb155991dc418c44]
+## Article 9. Transitional provisions[^c-e1d333d3fd2f8c9dcb155991dc418c44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Entry into force and application[^key-e1d333d3fd2f8c9dcb155991dc418c44]
+## Article 10. Entry into force and application[^c-e1d333d3fd2f8c9dcb155991dc418c44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e1d333d3fd2f8c9dcb155991dc418c44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e1d333d3fd2f8c9dcb155991dc418c44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — Label[^key-e1d333d3fd2f8c9dcb155991dc418c44]
+## ANNEX I — Label[^c-e1d333d3fd2f8c9dcb155991dc418c44]
 
-[^key-e1d333d3fd2f8c9dcb155991dc418c44]1.
+[^c-e1d333d3fd2f8c9dcb155991dc418c44]1.
 
 LABEL
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e1d333d3fd2f8c9dcb155991dc418c44]2.
+[^c-e1d333d3fd2f8c9dcb155991dc418c44]2.
 
 LABEL DESIGN
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Product Fiche[^key-e1d333d3fd2f8c9dcb155991dc418c44]
+## ANNEX II — Product Fiche[^c-e1d333d3fd2f8c9dcb155991dc418c44]
 
-[^key-e1d333d3fd2f8c9dcb155991dc418c44]1.
+[^c-e1d333d3fd2f8c9dcb155991dc418c44]1.
 
 The information in the product fiche of the household washing machine shall be provided in the following order and shall be included in the product brochure or other literature provided with the product:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e1d333d3fd2f8c9dcb155991dc418c44]2.
+[^c-e1d333d3fd2f8c9dcb155991dc418c44]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e1d333d3fd2f8c9dcb155991dc418c44]3.
+[^c-e1d333d3fd2f8c9dcb155991dc418c44]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — Technical documentation[^key-e1d333d3fd2f8c9dcb155991dc418c44]
+## ANNEX III — Technical documentation[^c-e1d333d3fd2f8c9dcb155991dc418c44]
 
-[^key-e1d333d3fd2f8c9dcb155991dc418c44]1.
+[^c-e1d333d3fd2f8c9dcb155991dc418c44]1.
 
 The technical documentation referred to in Article 3(c) shall include:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e1d333d3fd2f8c9dcb155991dc418c44]2.
+[^c-e1d333d3fd2f8c9dcb155991dc418c44]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV — Information to be provided in the cases where end-users cannot be expected to see the product displayed[^key-e1d333d3fd2f8c9dcb155991dc418c44]
+## ANNEX IV — Information to be provided in the cases where end-users cannot be expected to see the product displayed[^c-e1d333d3fd2f8c9dcb155991dc418c44]
 
-[^key-e1d333d3fd2f8c9dcb155991dc418c44]1.
+[^c-e1d333d3fd2f8c9dcb155991dc418c44]1.
 
 The information referred to in Article 4(b) shall be provided in the following order:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e1d333d3fd2f8c9dcb155991dc418c44]2.
+[^c-e1d333d3fd2f8c9dcb155991dc418c44]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e1d333d3fd2f8c9dcb155991dc418c44]3.
+[^c-e1d333d3fd2f8c9dcb155991dc418c44]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX V — Product compliance verification by market surveillance authorities[^key-e1d333d3fd2f8c9dcb155991dc418c44]
+## ANNEX V — Product compliance verification by market surveillance authorities[^c-e1d333d3fd2f8c9dcb155991dc418c44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX VI — Energy efficiency classes and spin-drying efficiency classes[^key-e1d333d3fd2f8c9dcb155991dc418c44]
+## ANNEX VI — Energy efficiency classes and spin-drying efficiency classes[^c-e1d333d3fd2f8c9dcb155991dc418c44]
 
-[^key-e1d333d3fd2f8c9dcb155991dc418c44]1.
+[^c-e1d333d3fd2f8c9dcb155991dc418c44]1.
 
 ENERGY EFFICIENCY CLASSES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e1d333d3fd2f8c9dcb155991dc418c44]2.
+[^c-e1d333d3fd2f8c9dcb155991dc418c44]2.
 
 SPIN-DRYING EFFICIENCY CLASSES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX VII — Method for calculating the Energy Efficiency Index, annual water consumption and remaining moisture content[^key-e1d333d3fd2f8c9dcb155991dc418c44]
+## ANNEX VII — Method for calculating the Energy Efficiency Index, annual water consumption and remaining moisture content[^c-e1d333d3fd2f8c9dcb155991dc418c44]
 
-[^key-e1d333d3fd2f8c9dcb155991dc418c44]1.
+[^c-e1d333d3fd2f8c9dcb155991dc418c44]1.
 
 CALCULATION OF THE ENERGY EFFICIENCY INDEX
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e1d333d3fd2f8c9dcb155991dc418c44]2.
+[^c-e1d333d3fd2f8c9dcb155991dc418c44]2.
 
 CALCULATION OF THE WEIGHTED ANNUAL WATER CONSUMPTION
 
-[^key-e1d333d3fd2f8c9dcb155991dc418c44](a)
+[^c-e1d333d3fd2f8c9dcb155991dc418c44](a)
 
 The weighted annual water consumption (*AW<sub>C</sub>)* of a household washing machine is calculated in litres as follows and rounded up to the integer:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e1d333d3fd2f8c9dcb155991dc418c44](b)
+[^c-e1d333d3fd2f8c9dcb155991dc418c44](b)
 
 The weighted water consumption (*W<sub>t</sub>)* is calculated in litres as follows and rounded up to the integer
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e1d333d3fd2f8c9dcb155991dc418c44]3.
+[^c-e1d333d3fd2f8c9dcb155991dc418c44]3.
 
 CALCULATION OF THE WEIGHTED REMAINING MOISTURE CONTENT
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX VIII — Information to be provided in the case of sale, hire or hire-purchase through the internet[^key-e1d333d3fd2f8c9dcb155991dc418c44]
+## ANNEX VIII — Information to be provided in the case of sale, hire or hire-purchase through the internet[^c-e1d333d3fd2f8c9dcb155991dc418c44]
 
-[^key-e1d333d3fd2f8c9dcb155991dc418c44](1)
+[^c-e1d333d3fd2f8c9dcb155991dc418c44](1)
 
 For the purpose of points 2 to 5 of this Annex the following definitions shall apply:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e1d333d3fd2f8c9dcb155991dc418c44](2)
+[^c-e1d333d3fd2f8c9dcb155991dc418c44](2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e1d333d3fd2f8c9dcb155991dc418c44](3)
+[^c-e1d333d3fd2f8c9dcb155991dc418c44](3)
 
 The image used for accessing the label in the case of nested display shall:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e1d333d3fd2f8c9dcb155991dc418c44](4)
+[^c-e1d333d3fd2f8c9dcb155991dc418c44](4)
 
 In the case of nested display, the sequence of display of the label shall be as follows:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e1d333d3fd2f8c9dcb155991dc418c44](5)
+[^c-e1d333d3fd2f8c9dcb155991dc418c44](5)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e1d333d3fd2f8c9dcb155991dc418c44]: Textual amendment: Regulation revoked (1.3.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [28(c)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/28/c)
+[^c-e1d333d3fd2f8c9dcb155991dc418c44]: Textual amendment: Regulation revoked (1.3.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [28(c)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/28/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3RE. Power of Treasury to require making of rules by regulations[^key-77ad8b9f14d7fab4723bd967d60b2d6c][^key-24a197ee929d042fbbdd185dfd199378]
+## 3RE. Power of Treasury to require making of rules by regulations[^c-77ad8b9f14d7fab4723bd967d60b2d6c][^c-24a197ee929d042fbbdd185dfd199378]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-77ad8b9f14d7fab4723bd967d60b2d6c]: Textual amendment: [S. 3RE](https://www.legislation.gov.uk/ukpga/2000/8/section/3RE) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 30(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/30/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(u)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/u)
+[^c-77ad8b9f14d7fab4723bd967d60b2d6c]: Textual amendment: [S. 3RE](https://www.legislation.gov.uk/ukpga/2000/8/section/3RE) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 30(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/30/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(u)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/u)
 
-[^key-24a197ee929d042fbbdd185dfd199378]: Textual amendment: [Ss. 3RA-3RD](https://www.legislation.gov.uk/ukpga/2000/8/section/3RA) and cross-heading inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 29(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/29/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(t)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/t)
+[^c-24a197ee929d042fbbdd185dfd199378]: Textual amendment: [Ss. 3RA-3RD](https://www.legislation.gov.uk/ukpga/2000/8/section/3RA) and cross-heading inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 29(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/29/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(t)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/t)

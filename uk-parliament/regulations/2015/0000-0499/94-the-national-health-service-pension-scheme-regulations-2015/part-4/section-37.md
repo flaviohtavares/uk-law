@@ -24,7 +24,7 @@ summary: ''
 
 - (a) contributions paid under regulation 30, 48, 62 or 64;
 - (b) contributions due under regulation 30, 48, 62 or 64, but unpaid;
-- (c) contributions paid under regulation 33 , 34 or 35[^key-0771e507499f04453bb3d65e81cd89d5];
+- (c) contributions paid under regulation 33 , 34 or 35[^c-0771e507499f04453bb3d65e81cd89d5];
 - (d) contributions due under regulation 33 , 34 or 35, but unpaid;
 - (e) hours or sessions of service if the employment is not whole-time employment;
 - (f) pensionable earnings;
@@ -55,13 +55,13 @@ the authority must, before the end of the period of one month after the change, 
 
 the authority must, before the end of the period of one month after the revision, provide the scheme manager with the revised total.
 
-(7) If the scheme manager so requests,[^key-a6c4648e9808bd3c476e5d9e3947f013] an employing authority must, in respect of each scheme year, provide to the scheme manager a statement of estimated total contributions under regulations 30, 33, 48, 62 and 64—
+(7) If the scheme manager so requests,[^c-a6c4648e9808bd3c476e5d9e3947f013] an employing authority must, in respect of each scheme year, provide to the scheme manager a statement of estimated total contributions under regulations 30, 33, 48, 62 and 64—
 
 - (a) not later than one month before the start of the scheme year;
 - (b) in a manner required by the scheme manager.
 
 ## Annotations
 
-[^key-0771e507499f04453bb3d65e81cd89d5]: Textual amendment: Words in reg. 37(1)(c)(d) inserted (1.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [61](https://www.legislation.gov.uk/uksi/2016/245/regulation/61) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
+[^c-0771e507499f04453bb3d65e81cd89d5]: Textual amendment: Words in reg. 37(1)(c)(d) inserted (1.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [61](https://www.legislation.gov.uk/uksi/2016/245/regulation/61) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
 
-[^key-a6c4648e9808bd3c476e5d9e3947f013]: Textual amendment: Words in [reg. 37(7)](https://www.legislation.gov.uk/uksi/2015/94/regulation/37/7) inserted (1.4.2019) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2), [81](https://www.legislation.gov.uk/uksi/2019/418/regulation/81)
+[^c-a6c4648e9808bd3c476e5d9e3947f013]: Textual amendment: Words in [reg. 37(7)](https://www.legislation.gov.uk/uksi/2015/94/regulation/37/7) inserted (1.4.2019) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2), [81](https://www.legislation.gov.uk/uksi/2019/418/regulation/81)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 205. Application of Part 5 of Education Act 1996 to nursery education[^c392400][^key-7131e41591ac629e395171489c3c557e]
+## 205. Application of Part 5 of Education Act 1996 to nursery education[^c392400][^c-7131e41591ac629e395171489c3c557e]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Section 410 of the Education Act 1996 (c. 56) (which excludes the application of
 
 [^c392400]: Commencement: S. 205 partly in force; s. 205 not in force at Royal Assent, see s. 216; s. 205 in force for certain purposes for E. at 1.10.2002 by [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3) (with transitional provisions and savings in [art. 4](https://www.legislation.gov.uk/uksi/2002/2439/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2002/2439/schedule))
 
-[^key-7131e41591ac629e395171489c3c557e]: Commencement: S. 205 in force at 1.8.2008 for W. by [S.I. 2008/1728](https://www.legislation.gov.uk/uksi/2008/1728), [art. 3](https://www.legislation.gov.uk/uksi/2008/1728/article/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2008/1728/schedule/part/2)
+[^c-7131e41591ac629e395171489c3c557e]: Commencement: S. 205 in force at 1.8.2008 for W. by [S.I. 2008/1728](https://www.legislation.gov.uk/uksi/2008/1728), [art. 3](https://www.legislation.gov.uk/uksi/2008/1728/article/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2008/1728/schedule/part/2)

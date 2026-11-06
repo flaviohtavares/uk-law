@@ -39,28 +39,28 @@ amending Decisions 94/741/EC and 97/622/EC as regards the questionnaires for the
 
 (2007/151/EC) (revoked)
 
-[^key-6917a8c23415693d87976c3b2f7cd3a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6917a8c23415693d87976c3b2f7cd3a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-6917a8c23415693d87976c3b2f7cd3a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-6917a8c23415693d87976c3b2f7cd3a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-6917a8c23415693d87976c3b2f7cd3a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-6917a8c23415693d87976c3b2f7cd3a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-6917a8c23415693d87976c3b2f7cd3a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-6917a8c23415693d87976c3b2f7cd3a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6917a8c23415693d87976c3b2f7cd3a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6917a8c23415693d87976c3b2f7cd3a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — Amendments to Decisions 94/741/EC and 97/622/EC[^key-6917a8c23415693d87976c3b2f7cd3a1]
+## ANNEX — Amendments to Decisions 94/741/EC and 97/622/EC[^c-6917a8c23415693d87976c3b2f7cd3a1]
 
-[^key-6917a8c23415693d87976c3b2f7cd3a1]A.
+[^c-6917a8c23415693d87976c3b2f7cd3a1]A.
 
 In the Annex to Decision 94/741/EC, the second questionnaire is amended as follows:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6917a8c23415693d87976c3b2f7cd3a1]B.
+[^c-6917a8c23415693d87976c3b2f7cd3a1]B.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6917a8c23415693d87976c3b2f7cd3a1]: Textual amendment: Decision revoked (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2019/620/schedule/paragraph/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6917a8c23415693d87976c3b2f7cd3a1]: Textual amendment: Decision revoked (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2019/620/schedule/paragraph/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

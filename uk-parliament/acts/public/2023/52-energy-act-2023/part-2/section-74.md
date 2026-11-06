@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Standard terms of revenue support contracts[^key-219613307a667d841bba0c94eb01a10c]
+## 74. Standard terms of revenue support contracts[^c-219613307a667d841bba0c94eb01a10c]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-219613307a667d841bba0c94eb01a10c]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2023/52/section/74) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-219613307a667d841bba0c94eb01a10c]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2023/52/section/74) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

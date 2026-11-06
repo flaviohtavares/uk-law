@@ -35,41 +35,41 @@ on amending Regulation (EC) No 1126/2008 adopting certain international accounti
 
 (Text with EEA relevance) (revoked)
 
-[^key-133e97aa356354ecdca9d33f3e8f2a48]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-133e97aa356354ecdca9d33f3e8f2a48]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-133e97aa356354ecdca9d33f3e8f2a48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-133e97aa356354ecdca9d33f3e8f2a48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-133e97aa356354ecdca9d33f3e8f2a48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-133e97aa356354ecdca9d33f3e8f2a48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-133e97aa356354ecdca9d33f3e8f2a48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-133e97aa356354ecdca9d33f3e8f2a48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-133e97aa356354ecdca9d33f3e8f2a48]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-133e97aa356354ecdca9d33f3e8f2a48]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — Annual Improvements to IFRS<sup>®</sup> Standards 2015–2017 Cycle[^key-133e97aa356354ecdca9d33f3e8f2a48]
+## ANNEX — Annual Improvements to IFRS<sup>®</sup> Standards 2015–2017 Cycle[^c-133e97aa356354ecdca9d33f3e8f2a48]
 
-[^key-133e97aa356354ecdca9d33f3e8f2a48]**Amendments to**
+[^c-133e97aa356354ecdca9d33f3e8f2a48]**Amendments to**
 
 **IFRS 3 Business Combinations**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-133e97aa356354ecdca9d33f3e8f2a48]**Amendments to**
+[^c-133e97aa356354ecdca9d33f3e8f2a48]**Amendments to**
 
 **IFRS 11 *Joint Arrangements***
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-133e97aa356354ecdca9d33f3e8f2a48]**Amendments to**
+[^c-133e97aa356354ecdca9d33f3e8f2a48]**Amendments to**
 
 **IAS 12 *Income Taxes***
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-133e97aa356354ecdca9d33f3e8f2a48]**Amendments to**
+[^c-133e97aa356354ecdca9d33f3e8f2a48]**Amendments to**
 
 **IAS 23 *Borrowing Costs***
 
@@ -77,4 +77,4 @@ on amending Regulation (EC) No 1126/2008 adopting certain international accounti
 
 ## Annotations
 
-[^key-133e97aa356354ecdca9d33f3e8f2a48]: Textual amendment: Regulation revoked (31.12.2020) by S.I. 2019/685, Sch. 2 para. 66 (as inserted by [The Statutory Auditors, Third Country Auditors and International Accounting Standards (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1392)](https://www.legislation.gov.uk/uksi/2019/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1392/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2019/1392/regulation/12/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-133e97aa356354ecdca9d33f3e8f2a48]: Textual amendment: Regulation revoked (31.12.2020) by S.I. 2019/685, Sch. 2 para. 66 (as inserted by [The Statutory Auditors, Third Country Auditors and International Accounting Standards (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1392)](https://www.legislation.gov.uk/uksi/2019/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1392/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2019/1392/regulation/12/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))

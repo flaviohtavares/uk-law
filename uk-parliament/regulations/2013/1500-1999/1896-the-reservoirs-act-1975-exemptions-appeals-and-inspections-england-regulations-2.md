@@ -44,7 +44,7 @@ A draft of these Regulations has been laid before and approved by a resolution o
 
 The Administrative Justice and Tribunals Council has been consulted in accordance with section 44 of, and paragraph 24 of Schedule 7 to, the Tribunals, Courts and Enforcement Act 2007[^f00002].
 
-## 1. Title, commencement, extent and application[^key-86aee416f60362ca55917e22161eede2]
+## 1. Title, commencement, extent and application[^c-86aee416f60362ca55917e22161eede2]
 
 These Regulations—
 
@@ -53,15 +53,15 @@ These Regulations—
 - (c) extend to England and Wales; and
 - (d) apply in relation to reservoirs in England.
 
-## 2. Interpretation[^key-cde836ba0fc7b6b4bdf720cf5f29139a]
+## 2. Interpretation[^c-cde836ba0fc7b6b4bdf720cf5f29139a]
 
 In these Regulations “the 1975 Act” means the Reservoirs Act 1975.
 
-## 3. Specified things not to be treated as large raised reservoirs[^key-89de1a225f236e41c85a6f9d37ccb173]
+## 3. Specified things not to be treated as large raised reservoirs[^c-89de1a225f236e41c85a6f9d37ccb173]
 
 (1) For the purposes of section A1(8) of the 1975 Act the following are not to be treated as a large raised reservoir—
 
-- (a) a mine lagoon which is a tip within the meaning of Part 2[^key-aaacf7694da99f142f2070799c263579] of the Mines and Quarries (Tips) Act 1969[^f00003];
+- (a) a mine lagoon which is a tip within the meaning of Part 2[^c-aaacf7694da99f142f2070799c263579] of the Mines and Quarries (Tips) Act 1969[^f00003];
 - (b) a quarry lagoon which is—
   - (i) a tip within the meaning of the Quarries Regulations 1999[^f00004]; or
   - (ii) a disused tip within the meaning of Part II of the Mines and Quarries (Tips) Act 1969;
@@ -72,13 +72,13 @@ In these Regulations “the 1975 Act” means the Reservoirs Act 1975.
 
 (2) Paragraph (1)(c) does not include a reservoir which forms part of a canal or other inland navigation.
 
-## 4. Right to appeal a designation of a large raised reservoir as a high-risk reservoir[^key-8f7b928d6228521b181eed7ed2e3f2d9]
+## 4. Right to appeal a designation of a large raised reservoir as a high-risk reservoir[^c-8f7b928d6228521b181eed7ed2e3f2d9]
 
 (1) An undertaker who has been given a notice under section 2B(1)[^f00005] of the 1975 Act may appeal on any ground to the First-tier Tribunal against the designation confirmed in that notice.
 
 (2) On deciding an appeal under paragraph (1), the First-tier Tribunal must confirm or cancel the designation.
 
-## 5. Right to appeal a requirement in a notice[^key-237fffd331adb5af93bf7d89381427e6]
+## 5. Right to appeal a requirement in a notice[^c-237fffd331adb5af93bf7d89381427e6]
 
 (1) An undertaker who has been given an enforcement notice may appeal on any ground to the First-tier Tribunal against a requirement in the notice to appoint an engineer or carry a recommendation of an engineer into effect.
 
@@ -92,7 +92,7 @@ In these Regulations “the 1975 Act” means the Reservoirs Act 1975.
 
 (4) In this regulation “enforcement notice” means a notice given under section 8(1) or (3A)[^f00006], 9(7), 10(7), 12(4), 13(5), or 14(4) of the 1975 Act.
 
-## 6. Periodical inspection of high-risk reservoirs[^key-dcfa41f59d12de03040e7ca0b8af368f]
+## 6. Periodical inspection of high-risk reservoirs[^c-dcfa41f59d12de03040e7ca0b8af368f]
 
 (1) An undertaker must have a high-risk reservoir to which section 10(2) of the 1975 Act applies inspected at each of the following times—
 
@@ -109,7 +109,7 @@ In these Regulations “the 1975 Act” means the Reservoirs Act 1975.
 
 (3) The requirement to have a reservoir inspected under this regulation is not fulfilled where the inspection is limited to part of the reservoir.
 
-## 7. Inspections: savings and transitional provisions[^key-a3dc17eb8a940c23bbe7837e13f4daa8]
+## 7. Inspections: savings and transitional provisions[^c-a3dc17eb8a940c23bbe7837e13f4daa8]
 
 (1) This regulation applies in relation to a large raised reservoir to which section 10(2) of the 1975 Act applied immediately before the commencement date.
 
@@ -141,7 +141,7 @@ In these Regulations “the 1975 Act” means the Reservoirs Act 1975.
 
 (7) Where an appeal is brought against a designation of the reservoir as high-risk, the “relevant period” ends on the date on which the First-tier Tribunal either confirms or cancels the designation.
 
-## 8. Review[^key-111a7ed9de4c463540c633af31badc16]
+## 8. Review[^c-111a7ed9de4c463540c633af31badc16]
 
 (1) The Secretary of State must from time to time—
 
@@ -198,32 +198,32 @@ A partial impact assessment of the effect that this instrument will have on the 
 
 [^f00002]: Footnote: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15), to which there are amendments not relevant to these Regulations.
 
-[^key-86aee416f60362ca55917e22161eede2]: Commencement: Reg. 1 in force at 28.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1896/regulation/1/b)
+[^c-86aee416f60362ca55917e22161eede2]: Commencement: Reg. 1 in force at 28.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1896/regulation/1/b)
 
-[^key-cde836ba0fc7b6b4bdf720cf5f29139a]: Commencement: Reg. 2 in force at 28.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1896/regulation/1/b)
+[^c-cde836ba0fc7b6b4bdf720cf5f29139a]: Commencement: Reg. 2 in force at 28.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1896/regulation/1/b)
 
-[^key-89de1a225f236e41c85a6f9d37ccb173]: Commencement: Reg. 3 in force at 28.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1896/regulation/1/b)
+[^c-89de1a225f236e41c85a6f9d37ccb173]: Commencement: Reg. 3 in force at 28.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1896/regulation/1/b)
 
-[^key-aaacf7694da99f142f2070799c263579]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2013/1896/regulation/3/1/a) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 17](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/17) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-aaacf7694da99f142f2070799c263579]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2013/1896/regulation/3/1/a) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 17](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/17) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
 
 [^f00003]: Footnote: [1969 c.10](https://www.legislation.gov.uk/ukpga/1969/10); section 2(1) was amended by [S.I. 1999/2024](https://www.legislation.gov.uk/uksi/1999/2024). There are other amendments but none is relevant.
 
 [^f00004]: Footnote: [S.I. 1999/2024](https://www.legislation.gov.uk/uksi/1999/2024), to which there are amendments not relevant to these Regulations.
 
-[^key-8f7b928d6228521b181eed7ed2e3f2d9]: Commencement: Reg. 4 in force at 28.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1896/regulation/1/b)
+[^c-8f7b928d6228521b181eed7ed2e3f2d9]: Commencement: Reg. 4 in force at 28.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1896/regulation/1/b)
 
 [^f00005]: Footnote: Section 2B was inserted by paragraph 7 of Schedule 4 to the Flood and Water Management Act 2010.
 
-[^key-237fffd331adb5af93bf7d89381427e6]: Commencement: Reg. 5 in force at 28.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1896/regulation/1/b)
+[^c-237fffd331adb5af93bf7d89381427e6]: Commencement: Reg. 5 in force at 28.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1896/regulation/1/b)
 
 [^f00006]: Footnote: Subsection (3A) was inserted by section 75 of the Water Act [2003 c.37](https://www.legislation.gov.uk/ukpga/2003/37).
 
-[^key-dcfa41f59d12de03040e7ca0b8af368f]: Commencement: Reg. 6 in force at 28.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1896/regulation/1/b)
+[^c-dcfa41f59d12de03040e7ca0b8af368f]: Commencement: Reg. 6 in force at 28.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1896/regulation/1/b)
 
-[^key-a3dc17eb8a940c23bbe7837e13f4daa8]: Commencement: Reg. 7 in force at 28.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1896/regulation/1/b)
+[^c-a3dc17eb8a940c23bbe7837e13f4daa8]: Commencement: Reg. 7 in force at 28.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1896/regulation/1/b)
 
 [^f00007]: Footnote: [2010 c.29](https://www.legislation.gov.uk/ukpga/2010/29). There are amendments not relevant to these Regulations.
 
 [^f00008]: Footnote: Section 2A was inserted by paragraph 7 of Schedule 4 to the Flood and Water Management Act 2010.
 
-[^key-111a7ed9de4c463540c633af31badc16]: Commencement: Reg. 8 in force at 28.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1896/regulation/1/b)
+[^c-111a7ed9de4c463540c633af31badc16]: Commencement: Reg. 8 in force at 28.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1896/regulation/1/b)

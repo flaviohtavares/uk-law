@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Offences[^key-a6958e9674305f0581bc77f5ecd76884]
+## 67. Offences[^c-a6958e9674305f0581bc77f5ecd76884]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6958e9674305f0581bc77f5ecd76884]: Commencement: S. 67 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-a6958e9674305f0581bc77f5ecd76884]: Commencement: S. 67 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)

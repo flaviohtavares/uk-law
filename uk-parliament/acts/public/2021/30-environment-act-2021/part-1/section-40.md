@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Duty of the OEP to involve the relevant Minister[^key-f70ab1b9a2381c82029a4d7e5e999d85][^key-6b6b82445cc76c61033f56c703ec74e0]
+## 40. Duty of the OEP to involve the relevant Minister[^c-f70ab1b9a2381c82029a4d7e5e999d85][^c-6b6b82445cc76c61033f56c703ec74e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f70ab1b9a2381c82029a4d7e5e999d85]: Commencement: S. 40 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-f70ab1b9a2381c82029a4d7e5e999d85]: Commencement: S. 40 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-6b6b82445cc76c61033f56c703ec74e0]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2021/30/section/40) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/g)
+[^c-6b6b82445cc76c61033f56c703ec74e0]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2021/30/section/40) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/g)

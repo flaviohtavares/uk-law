@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — General interpretation provisions[^key-6b65471f042cbeb2b5a8c5a033f347d4]
+## SCHEDULE 1 — General interpretation provisions[^c-6b65471f042cbeb2b5a8c5a033f347d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,12 +24,12 @@ summary: ''
 
 Regulation 2
 
-**1.**[^key-6b65471f042cbeb2b5a8c5a033f347d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-6b65471f042cbeb2b5a8c5a033f347d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-6b65471f042cbeb2b5a8c5a033f347d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-6b65471f042cbeb2b5a8c5a033f347d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-6b65471f042cbeb2b5a8c5a033f347d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-6b65471f042cbeb2b5a8c5a033f347d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6b65471f042cbeb2b5a8c5a033f347d4]: Textual amendment: Regulations revoked (1.4.2016) by [The Medicines (Products for Human Use) (Fees) Regulations 2016 (S.I. 2016/190)](https://www.legislation.gov.uk/uksi/2016/190), [reg. 63(1)](https://www.legislation.gov.uk/uksi/2016/190/regulation/63/1) (with [reg. 63(2)-(4)](https://www.legislation.gov.uk/uksi/2016/190/regulation/63/2))
+[^c-6b65471f042cbeb2b5a8c5a033f347d4]: Textual amendment: Regulations revoked (1.4.2016) by [The Medicines (Products for Human Use) (Fees) Regulations 2016 (S.I. 2016/190)](https://www.legislation.gov.uk/uksi/2016/190), [reg. 63(1)](https://www.legislation.gov.uk/uksi/2016/190/regulation/63/1) (with [reg. 63(2)-(4)](https://www.legislation.gov.uk/uksi/2016/190/regulation/63/2))

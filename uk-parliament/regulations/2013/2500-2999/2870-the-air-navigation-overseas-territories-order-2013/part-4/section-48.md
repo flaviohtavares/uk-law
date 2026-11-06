@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Flight crew licence requirements – exception for dual flying training[^key-9a8a9605bca5ac2d9d09cb9e567ea46d]
+## 48. Flight crew licence requirements – exception for dual flying training[^c-9a8a9605bca5ac2d9d09cb9e567ea46d]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a8a9605bca5ac2d9d09cb9e567ea46d]: Commencement: [Art. 48](https://www.legislation.gov.uk/uksi/2013/2870/article/48) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-9a8a9605bca5ac2d9d09cb9e567ea46d]: Commencement: [Art. 48](https://www.legislation.gov.uk/uksi/2013/2870/article/48) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Commission Regulation (EU) No 284/2013 setting out the data requirements for plant protection products, in accordance with Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market[^key-f1b954be1c209dde01e617564752143e]
+## 22. Commission Regulation (EU) No 284/2013 setting out the data requirements for plant protection products, in accordance with Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market[^c-f1b954be1c209dde01e617564752143e]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,7 +67,7 @@ summary: ''
     - (bb) in the fourth paragraph, omit “national”;
   - (x) in points 9.4, 10.1.3, 10.2.2, 10.4.2.2, 10.6.3 and 10.6.4, omit “national” in each place it occurs;
 - (c) in Part B—
-  - (i) in point 1.1, in the second paragraph, for “ the Member State[^key-229577491dcf91d97096b49db95f3805] in which the authorisation is being sought” substitute “ Great Britain[^key-7023d9e79299cd263282f7ae80f7d5c2] ”;
+  - (i) in point 1.1, in the second paragraph, for “ the Member State[^c-229577491dcf91d97096b49db95f3805] in which the authorisation is being sought” substitute “ Great Britain[^c-7023d9e79299cd263282f7ae80f7d5c2] ”;
   - (ii) in point 1.4(ii), for “Directive [1999/45/EC](https://www.legislation.gov.uk/eudr/1999/45) of the European Parliament and of the Council” substitute “ Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) ”;
   - (iii) in point 6.5, in the eighth paragraph—
     - (aa) for “Member State” in the first place it occurs substitute “ competent authority ”;
@@ -77,8 +77,8 @@ summary: ''
 
 ## Annotations
 
-[^key-f1b954be1c209dde01e617564752143e]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-f1b954be1c209dde01e617564752143e]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-229577491dcf91d97096b49db95f3805]: Textual amendment: Words in reg. 22(5)(c)(i) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(18)(a)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/18/a)
+[^c-229577491dcf91d97096b49db95f3805]: Textual amendment: Words in reg. 22(5)(c)(i) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(18)(a)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/18/a)
 
-[^key-7023d9e79299cd263282f7ae80f7d5c2]: Textual amendment: Words in reg. 22(5)(c)(i) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(18)(b)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/18/b)
+[^c-7023d9e79299cd263282f7ae80f7d5c2]: Textual amendment: Words in reg. 22(5)(c)(i) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(18)(b)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/18/b)

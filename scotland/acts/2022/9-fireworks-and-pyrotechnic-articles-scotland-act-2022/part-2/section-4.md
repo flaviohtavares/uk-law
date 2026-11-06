@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Requirement to have fireworks licence[^key-5a71dcfa163ff60996c02eef81bff541]
+## 4. Requirement to have fireworks licence[^c-5a71dcfa163ff60996c02eef81bff541]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a71dcfa163ff60996c02eef81bff541]: Commencement: S. 4 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-5a71dcfa163ff60996c02eef81bff541]: Commencement: S. 4 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)

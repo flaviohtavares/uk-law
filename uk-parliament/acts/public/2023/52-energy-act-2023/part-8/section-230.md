@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 230. Zoning methodology[^key-c86c99d60bab6fc24a6e373098b2eb2c]
+## 230. Zoning methodology[^c-c86c99d60bab6fc24a6e373098b2eb2c]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c86c99d60bab6fc24a6e373098b2eb2c]: Commencement: S. 230 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-c86c99d60bab6fc24a6e373098b2eb2c]: Commencement: S. 230 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)

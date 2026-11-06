@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Information about release or transfer[^key-3398fe48dd56911428dee1265d40cfbe]
+## 116. Information about release or transfer[^c-3398fe48dd56911428dee1265d40cfbe]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3398fe48dd56911428dee1265d40cfbe]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2008/4/section/116) in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(s)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/s)
+[^c-3398fe48dd56911428dee1265d40cfbe]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2008/4/section/116) in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(s)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/s)

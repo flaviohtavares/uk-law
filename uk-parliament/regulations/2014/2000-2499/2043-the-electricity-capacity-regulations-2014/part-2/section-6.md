@@ -25,7 +25,7 @@ summary: ''
 (2) In paragraph (1), “**the reliability standard**” means the cumulative duration of periods in a capacity year in which it is to be presumed—
 
 - (a) by the Secretary of State in—
-  - (i) making any decision about whether a capacity auction [^key-6673452fc27bf9301670285c85c15e1c]... is to be held; and
+  - (i) making any decision about whether a capacity auction [^c-6673452fc27bf9301670285c85c15e1c]... is to be held; and
   - (ii) setting auction parameters for such a capacity auction; and
 - (b) by the Delivery Body in making any recommendation in an electricity capacity report,
 
@@ -48,7 +48,7 @@ but not if the action referred to in sub-paragraph (a), (b) or (c) takes place s
 
 (5) Where an event referred to in paragraph (3) occurs, the period of loss of load is the time—
 
-- (a) from the national system operator issuing an instruction under paragraph (3)(a) or (4)(a) [^key-fd5bd800315d064ab86d6697684b1f74]... until it withdraws that instruction (or, if the national system operator issues two or more such instructions for overlapping periods, from it issuing the first of those instructions until it withdraws the last of them);
+- (a) from the national system operator issuing an instruction under paragraph (3)(a) or (4)(a) [^c-fd5bd800315d064ab86d6697684b1f74]... until it withdraws that instruction (or, if the national system operator issues two or more such instructions for overlapping periods, from it issuing the first of those instructions until it withdraws the last of them);
 - (b) during which electricity is transmitted through an interconnector as mentioned in paragraph (4)(b); or
 - (c) where automatic low frequency demand disconnection takes place, from demand being disconnected until the national system operator issues an instruction to reconnect that demand.
 
@@ -56,6 +56,6 @@ but not if the action referred to in sub-paragraph (a), (b) or (c) takes place s
 
 ## Annotations
 
-[^key-6673452fc27bf9301670285c85c15e1c]: Textual amendment: Words in [reg. 6(2)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/6/2/a/i) omitted (23.7.2025) by virtue of [The Electricity Capacity (Amendment) (No. 2) Regulations 2025 (S.I. 2025/917)](https://www.legislation.gov.uk/uksi/2025/917), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/917/regulation/1/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2025/917/schedule/paragraph/4)
+[^c-6673452fc27bf9301670285c85c15e1c]: Textual amendment: Words in [reg. 6(2)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/6/2/a/i) omitted (23.7.2025) by virtue of [The Electricity Capacity (Amendment) (No. 2) Regulations 2025 (S.I. 2025/917)](https://www.legislation.gov.uk/uksi/2025/917), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/917/regulation/1/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2025/917/schedule/paragraph/4)
 
-[^key-fd5bd800315d064ab86d6697684b1f74]: Textual amendment: Word in [reg. 6(5)(a)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/6/5/a) omitted (14.7.2016) by virtue of [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 1 para. 42](https://www.legislation.gov.uk/uksi/2016/742/schedule/1/paragraph/42)
+[^c-fd5bd800315d064ab86d6697684b1f74]: Textual amendment: Word in [reg. 6(5)(a)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/6/5/a) omitted (14.7.2016) by virtue of [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 1 para. 42](https://www.legislation.gov.uk/uksi/2016/742/schedule/1/paragraph/42)

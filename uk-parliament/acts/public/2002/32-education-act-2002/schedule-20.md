@@ -22,7 +22,7 @@ summary: ''
 
 Section 206
 
-**1.**[^c392496][^key-1e21dd455f0a81e83a672d8ef9c80b73] (1) Section 547 of the Education Act 1996 (c. 56) (nuisance or disturbance on premises of a school maintained by a local authority[^key-379c0a8ab791aad4cda0b42dbea5f020]) is amended in accordance with sub-paragraphs (2) to (6).
+**1.**[^c392496][^c-1e21dd455f0a81e83a672d8ef9c80b73] (1) Section 547 of the Education Act 1996 (c. 56) (nuisance or disturbance on premises of a school maintained by a local authority[^c-379c0a8ab791aad4cda0b42dbea5f020]) is amended in accordance with sub-paragraphs (2) to (6).
 
 (2) In subsection (2), after paragraph (a) there is inserted—
 
@@ -67,7 +67,7 @@ Section 206
 >   a local authority, and
 > - (c) in relation to an offence committed on premises of a special school which is not so maintained or of an independent school, a person whom the proprietor of the school has authorised to bring such proceedings.
 
-**2.**[^c392497][^key-19a151c2d61f459f54cf0a91271a2576] After section 85 of the Further and Higher Education Act 1992 (c. 13) there is inserted—
+**2.**[^c392497][^c-19a151c2d61f459f54cf0a91271a2576] After section 85 of the Further and Higher Education Act 1992 (c. 13) there is inserted—
 
 > **85A. Nuisance or disturbance on educational premises**
 >
@@ -104,10 +104,10 @@ Section 206
 
 [^c392496]: Commencement: Sch. 20 partly in force; Sch. 20 not in force at Royal Assent, see s. 216; Sch. 20 in force for E. at 1.10.2002 by [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3) (with transitional provisions and savings in [art. 4](https://www.legislation.gov.uk/uksi/2002/2439/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2002/2439/schedule))
 
-[^key-1e21dd455f0a81e83a672d8ef9c80b73]: Commencement: Sch. 20 para. 1 in force at 1.9.2003 for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)
+[^c-1e21dd455f0a81e83a672d8ef9c80b73]: Commencement: Sch. 20 para. 1 in force at 1.9.2003 for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)
 
-[^key-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
+[^c-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
 
 [^c392497]: Commencement: Sch. 20 partly in force; Sch. 20 not in force at Royal Assent, see s. 216; Sch. 20 in force for E. at 1.10.2002 by [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3) (with transitional provisions and savings in [art. 4](https://www.legislation.gov.uk/uksi/2002/2439/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2002/2439/schedule))
 
-[^key-19a151c2d61f459f54cf0a91271a2576]: Commencement: Sch. 20 para. 2 in force at 1.9.2003 for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)
+[^c-19a151c2d61f459f54cf0a91271a2576]: Commencement: Sch. 20 para. 2 in force at 1.9.2003 for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)

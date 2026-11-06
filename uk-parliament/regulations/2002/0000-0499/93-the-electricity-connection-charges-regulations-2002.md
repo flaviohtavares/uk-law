@@ -49,7 +49,7 @@ The Secretary of State in Exercise of the powers conferred on her by sections 19
 
 These Regulations may be cited as the Electricity (Connection Charges) Regulations 2002 and shall come into force on 11th February 2002.
 
-## 1A. Application[^key-1b11b666d10a5a7b70c18ff3af05da99]
+## 1A. Application[^c-1b11b666d10a5a7b70c18ff3af05da99]
 
 (1) These Regulations do not apply in cases where a first connection is made on or after 6th April 2017.
 
@@ -60,7 +60,7 @@ These Regulations may be cited as the Electricity (Connection Charges) Regulatio
 (1) In these Regulations—
 
 - “administrative expenses” means the expenses reasonably incurred by an electricity distributor in discharging his obligations under these Regulations;
-- [^key-09a820d146921179626c2061d2423dea]...
+- [^c-09a820d146921179626c2061d2423dea]...
 - “eligible person” shall be construed in accordance with regulation 3;
 - “initial contributor” means a person—
   - (a) in relation to whose premises or distribution system any electric line or electrical plant was first provided for the purpose of making a connection; and
@@ -87,7 +87,7 @@ These Regulations may be cited as the Electricity (Connection Charges) Regulatio
 - (b) a person who has been required to make a contribution to an electricity distributor or a public electricity supplier in accordance with these Regulations or the Old Regulations; or
 - (c) a person to whom any right to receive a payment in accordance with these Regulations or the Old Regulations has been legally assigned.
 
-(2) In paragraph (1) “relevant premises” means the [^key-bdab413fcf145a670116c14609feb190]... premises owned or occupied by a person at the time when he became either—
+(2) In paragraph (1) “relevant premises” means the [^c-bdab413fcf145a670116c14609feb190]... premises owned or occupied by a person at the time when he became either—
 
 - (a) an initial contributor; or
 - (b) a person required to make a contribution to an electricity distributor or a public electricity supplier in accordance with these Regulations or the Old Regulations,
@@ -112,21 +112,21 @@ Subject to regulation 6, an electricity distributor may require a person requiri
 
 ## 6. Obligation to recover amount in respect of expenses
 
-(1) Subject to paragraphs (2) to (5)[^key-25af47b364d299c14c6d819edea8ef69], an electricity distributor shall exercise his rights under regulation 5 if within the prescribed period—
+(1) Subject to paragraphs (2) to (5)[^c-25af47b364d299c14c6d819edea8ef69], an electricity distributor shall exercise his rights under regulation 5 if within the prescribed period—
 
-- (a) any electric line or electrical plant first provided for the purpose of making a connection to [^key-52e3f898b26b6ef2f20e33c6d63d973a]... premises is subsequently used for the purpose of making a further connection to [^key-52e3f898b26b6ef2f20e33c6d63d973a]... premises; and
+- (a) any electric line or electrical plant first provided for the purpose of making a connection to [^c-52e3f898b26b6ef2f20e33c6d63d973a]... premises is subsequently used for the purpose of making a further connection to [^c-52e3f898b26b6ef2f20e33c6d63d973a]... premises; and
 - (b) the relevant expenses have been wholly or mainly defrayed by the initial contributor or by that contributor and any other person previously required to make a payment in accordance with these Regulations or the Old Regulations.
 
-(2) Subject to paragraphs (3) and (4), the electricity distributor shall exercise his rights under regulation 5 in the manner which he considers is best calculated to secure the recovery of an amount which is not more than the proportion of the relevant expenses which is appropriate having regard to the maximum capacity[^key-7e636875f4e7e5e01d36d96ae9cc7478] required by the person requiring the further connection.
+(2) Subject to paragraphs (3) and (4), the electricity distributor shall exercise his rights under regulation 5 in the manner which he considers is best calculated to secure the recovery of an amount which is not more than the proportion of the relevant expenses which is appropriate having regard to the maximum capacity[^c-7e636875f4e7e5e01d36d96ae9cc7478] required by the person requiring the further connection.
 
 (3) Where the electricity distributor exercises his rights under regulation 5 in discharge of the obligation imposed on him by this regulation, regulation 5 shall be read and construed as if sub-paragraph (c) thereof had been omitted.
 
 (4) The obligation imposed by this regulation shall not apply in any case where—
 
-- (a) the amount which would be applied in making payments to eligible persons in accordance with regulation 7, after deduction in accordance with that regulation of the administrative expenses of the electricity distributor, is insufficient to provide a payment of £300[^key-f623cef1cffd3d8244cd07d5efb26b9f] or more to at least one eligible person; or
+- (a) the amount which would be applied in making payments to eligible persons in accordance with regulation 7, after deduction in accordance with that regulation of the administrative expenses of the electricity distributor, is insufficient to provide a payment of £300[^c-f623cef1cffd3d8244cd07d5efb26b9f] or more to at least one eligible person; or
 - (b) at the relevant time there are no eligible persons.
 
-(5)[^key-fd95585a506591ef14c4485637de61d1] The obligation imposed by this regulation shall not apply in the case of any electric line or electrical plant which was provided before 1st June 2003 for the purpose of making a connection to the premises of an initial contributor where those premises were not used wholly or mainly for domestic purposes.
+(5)[^c-fd95585a506591ef14c4485637de61d1] The obligation imposed by this regulation shall not apply in the case of any electric line or electrical plant which was provided before 1st June 2003 for the purpose of making a connection to the premises of an initial contributor where those premises were not used wholly or mainly for domestic purposes.
 
 ## 7. Payments to eligible persons
 
@@ -136,7 +136,7 @@ Subject to regulation 6, an electricity distributor may require a person requiri
 
 (3) Where payments fall to be made to two or more eligible persons in respect of the same relevant expenses in accordance with paragraph (1), each of those payments shall bear the same proportion to the aggregate of those payments as the proportion which each payment made by or in relation to each such eligible person bears to the aggregate of the payments made by or in respect of those eligible persons.
 
-(4) The electricity distributor shall not be required by this regulation to make a payment to an eligible person if the amount of that payment would, but for this paragraph, be less than £300[^key-e7ae7a035ad3759d6468c4721f963776].
+(4) The electricity distributor shall not be required by this regulation to make a payment to an eligible person if the amount of that payment would, but for this paragraph, be less than £300[^c-e7ae7a035ad3759d6468c4721f963776].
 
 (5) Payments to eligible persons in accordance with this regulation shall be made as soon as practicable after the electricity distributor has recovered the amount out of which those payments are to be made.
 
@@ -147,7 +147,7 @@ Whenever an electricity distributor intends to use any electric line or electric
 - (a) the amount which the electricity distributor calculates would be recoverable in accordance with that regulation; and
 - (b) the estimated amount of his administrative expenses.
 
-## 8A. Maintenance of records[^key-e156c80aec8a1b3db2249739a334f668]
+## 8A. Maintenance of records[^c-e156c80aec8a1b3db2249739a334f668]
 
 An electricity distributor shall maintain in relation to the provision of any electric line or electrical plant made on or after 1st June 2003 such records as are necessary to enable him to discharge the obligations imposed on him by these Regulations.
 
@@ -175,9 +175,9 @@ Apart from minor and drafting amendments the changes that have been made in the 
 
 [^c9652711]: Marginal citation: The Gas and Electricity Markets Authority was established under section 1(1) of the Utilities Act 2000.
 
-[^key-1b11b666d10a5a7b70c18ff3af05da99]: Textual amendment: Reg. 1A inserted (6.4.2017) by [The Electricity (Connection Charges) Regulations 2017 (S.I. 2017/106)](https://www.legislation.gov.uk/uksi/2017/106), [regs. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1), [13](https://www.legislation.gov.uk/uksi/2017/106/regulation/13)
+[^c-1b11b666d10a5a7b70c18ff3af05da99]: Textual amendment: Reg. 1A inserted (6.4.2017) by [The Electricity (Connection Charges) Regulations 2017 (S.I. 2017/106)](https://www.legislation.gov.uk/uksi/2017/106), [regs. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1), [13](https://www.legislation.gov.uk/uksi/2017/106/regulation/13)
 
-[^key-09a820d146921179626c2061d2423dea]: Textual amendment: Words in reg. 2(1) revoked (1.6.2003) by [The Electricity (Connection Charges) (Amendment) Regulations 2002 (S.I. 2002/3232)](https://www.legislation.gov.uk/uksi/2002/3232), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3232/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2002/3232/regulation/3/2)
+[^c-09a820d146921179626c2061d2423dea]: Textual amendment: Words in reg. 2(1) revoked (1.6.2003) by [The Electricity (Connection Charges) (Amendment) Regulations 2002 (S.I. 2002/3232)](https://www.legislation.gov.uk/uksi/2002/3232), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3232/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2002/3232/regulation/3/2)
 
 [^c9652721]: Marginal citation: [S.I. 1990/527](https://www.legislation.gov.uk/uksi/1990/527).
 
@@ -185,18 +185,18 @@ Apart from minor and drafting amendments the changes that have been made in the 
 
 [^c9652741]: Marginal citation: Section 16(1) was substituted by section 44 of the Utilities Act 2000.
 
-[^key-bdab413fcf145a670116c14609feb190]: Textual amendment: Word in reg. 3(2) revoked (1.6.2003) by [The Electricity (Connection Charges) (Amendment) Regulations 2002 (S.I. 2002/3232)](https://www.legislation.gov.uk/uksi/2002/3232), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3232/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2002/3232/regulation/3/3)
+[^c-bdab413fcf145a670116c14609feb190]: Textual amendment: Word in reg. 3(2) revoked (1.6.2003) by [The Electricity (Connection Charges) (Amendment) Regulations 2002 (S.I. 2002/3232)](https://www.legislation.gov.uk/uksi/2002/3232), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3232/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2002/3232/regulation/3/3)
 
-[^key-25af47b364d299c14c6d819edea8ef69]: Textual amendment: Word in reg. 6(1) substituted (1.6.2003) by [The Electricity (Connection Charges) (Amendment) Regulations 2002 (S.I. 2002/3232)](https://www.legislation.gov.uk/uksi/2002/3232), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3232/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2002/3232/regulation/3/4)
+[^c-25af47b364d299c14c6d819edea8ef69]: Textual amendment: Word in reg. 6(1) substituted (1.6.2003) by [The Electricity (Connection Charges) (Amendment) Regulations 2002 (S.I. 2002/3232)](https://www.legislation.gov.uk/uksi/2002/3232), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3232/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2002/3232/regulation/3/4)
 
-[^key-52e3f898b26b6ef2f20e33c6d63d973a]: Textual amendment: Word in reg. 6(1) revoked (1.6.2003) by [The Electricity (Connection Charges) (Amendment) Regulations 2002 (S.I. 2002/3232)](https://www.legislation.gov.uk/uksi/2002/3232), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3232/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2002/3232/regulation/3/3)
+[^c-52e3f898b26b6ef2f20e33c6d63d973a]: Textual amendment: Word in reg. 6(1) revoked (1.6.2003) by [The Electricity (Connection Charges) (Amendment) Regulations 2002 (S.I. 2002/3232)](https://www.legislation.gov.uk/uksi/2002/3232), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3232/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2002/3232/regulation/3/3)
 
-[^key-7e636875f4e7e5e01d36d96ae9cc7478]: Textual amendment: Word in reg. 6(2) substituted (1.6.2003) by [The Electricity (Connection Charges) (Amendment) Regulations 2002 (S.I. 2002/3232)](https://www.legislation.gov.uk/uksi/2002/3232), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3232/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2002/3232/regulation/3/5)
+[^c-7e636875f4e7e5e01d36d96ae9cc7478]: Textual amendment: Word in reg. 6(2) substituted (1.6.2003) by [The Electricity (Connection Charges) (Amendment) Regulations 2002 (S.I. 2002/3232)](https://www.legislation.gov.uk/uksi/2002/3232), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3232/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2002/3232/regulation/3/5)
 
-[^key-f623cef1cffd3d8244cd07d5efb26b9f]: Textual amendment: Sum in reg. 6(4)(a) substituted (1.6.2003) by [The Electricity (Connection Charges) (Amendment) Regulations 2002 (S.I. 2002/3232)](https://www.legislation.gov.uk/uksi/2002/3232), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3232/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2002/3232/regulation/3/6)
+[^c-f623cef1cffd3d8244cd07d5efb26b9f]: Textual amendment: Sum in reg. 6(4)(a) substituted (1.6.2003) by [The Electricity (Connection Charges) (Amendment) Regulations 2002 (S.I. 2002/3232)](https://www.legislation.gov.uk/uksi/2002/3232), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3232/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2002/3232/regulation/3/6)
 
-[^key-fd95585a506591ef14c4485637de61d1]: Textual amendment: Reg. 6(5) added (1.6.2003) by [The Electricity (Connection Charges) (Amendment) Regulations 2002 (S.I. 2002/3232)](https://www.legislation.gov.uk/uksi/2002/3232), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3232/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2002/3232/regulation/3/7)
+[^c-fd95585a506591ef14c4485637de61d1]: Textual amendment: Reg. 6(5) added (1.6.2003) by [The Electricity (Connection Charges) (Amendment) Regulations 2002 (S.I. 2002/3232)](https://www.legislation.gov.uk/uksi/2002/3232), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3232/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2002/3232/regulation/3/7)
 
-[^key-e7ae7a035ad3759d6468c4721f963776]: Textual amendment: Sum in reg. 7(4) substituted (1.6.2003) by [The Electricity (Connection Charges) (Amendment) Regulations 2002 (S.I. 2002/3232)](https://www.legislation.gov.uk/uksi/2002/3232), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3232/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2002/3232/regulation/3/6)
+[^c-e7ae7a035ad3759d6468c4721f963776]: Textual amendment: Sum in reg. 7(4) substituted (1.6.2003) by [The Electricity (Connection Charges) (Amendment) Regulations 2002 (S.I. 2002/3232)](https://www.legislation.gov.uk/uksi/2002/3232), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3232/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2002/3232/regulation/3/6)
 
-[^key-e156c80aec8a1b3db2249739a334f668]: Textual amendment: Reg. 8A added (1.6.2003) by [The Electricity (Connection Charges) (Amendment) Regulations 2002 (S.I. 2002/3232)](https://www.legislation.gov.uk/uksi/2002/3232), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3232/regulation/1), [3(8)](https://www.legislation.gov.uk/uksi/2002/3232/regulation/3/8)
+[^c-e156c80aec8a1b3db2249739a334f668]: Textual amendment: Reg. 8A added (1.6.2003) by [The Electricity (Connection Charges) (Amendment) Regulations 2002 (S.I. 2002/3232)](https://www.legislation.gov.uk/uksi/2002/3232), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3232/regulation/1), [3(8)](https://www.legislation.gov.uk/uksi/2002/3232/regulation/3/8)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 127A. References to “Academy” and “Academy arrangements”[^key-5ab61d9add76cf33e7f57d56c372ea87]
+## 127A. References to “Academy” and “Academy arrangements”[^c-5ab61d9add76cf33e7f57d56c372ea87]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ab61d9add76cf33e7f57d56c372ea87]: Textual amendment: S. 127A inserted (29.6.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [s. 78(2)(i)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/i), [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2026/21/schedule/3/paragraph/12)
+[^c-5ab61d9add76cf33e7f57d56c372ea87]: Textual amendment: S. 127A inserted (29.6.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [s. 78(2)(i)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/i), [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2026/21/schedule/3/paragraph/12)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Arrangements for discharge of functions by others[^key-fddcdbc9a377db9379cdbcbff44461fd][^key-5a40f5c3ead2ece96bb87ff1bdefc8ae]
+## 16. Arrangements for discharge of functions by others[^c-fddcdbc9a377db9379cdbcbff44461fd][^c-5a40f5c3ead2ece96bb87ff1bdefc8ae]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ for the discharge to any extent by that other authority or person of a function 
 
 ## Annotations
 
-[^key-fddcdbc9a377db9379cdbcbff44461fd]: Commencement: S. 16 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
+[^c-fddcdbc9a377db9379cdbcbff44461fd]: Commencement: S. 16 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
 
-[^key-5a40f5c3ead2ece96bb87ff1bdefc8ae]: Commencement: S. 16 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
+[^c-5a40f5c3ead2ece96bb87ff1bdefc8ae]: Commencement: S. 16 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)

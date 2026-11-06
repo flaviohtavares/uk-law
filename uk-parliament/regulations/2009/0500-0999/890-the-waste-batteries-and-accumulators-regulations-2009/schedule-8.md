@@ -49,7 +49,7 @@ Regulation 92
 
   .
 
-(3)[^key-20c6d260ba7583ed80f45aa808365b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-20c6d260ba7583ed80f45aa808365b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) After regulation 68, insert—
 
@@ -70,9 +70,9 @@ Regulation 92
 
 .
 
-(5)[^key-db02f47e49f20151b0b284eafb2cb5ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-db02f47e49f20151b0b284eafb2cb5ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-baa0312a174cafc2b2f74612a7f68f7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-baa0312a174cafc2b2f74612a7f68f7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -80,8 +80,8 @@ Regulation 92
 
 [^c19658821]: Marginal citation: [S.I. 2007/3538](https://www.legislation.gov.uk/uksi/2007/3538).
 
-[^key-20c6d260ba7583ed80f45aa808365b8b]: Textual amendment: Sch. 8 para. 2(3) omitted (E.W.) (6.4.2010 immediately after S.I. 2009/3381 comes into force) by virtue of [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1), [Sch. 26 para. 40(3)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/40/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2))
+[^c-20c6d260ba7583ed80f45aa808365b8b]: Textual amendment: Sch. 8 para. 2(3) omitted (E.W.) (6.4.2010 immediately after S.I. 2009/3381 comes into force) by virtue of [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1), [Sch. 26 para. 40(3)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/40/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2))
 
-[^key-db02f47e49f20151b0b284eafb2cb5ef]: Textual amendment: Sch. 8 para. 2(5) omitted (E.W.) (6.4.2010) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2009 (S.I. 2009/3381)](https://www.legislation.gov.uk/uksi/2009/3381), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/3381/regulation/1/1/b), [15](https://www.legislation.gov.uk/uksi/2009/3381/regulation/15) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/3381/regulation/1/2))
+[^c-db02f47e49f20151b0b284eafb2cb5ef]: Textual amendment: Sch. 8 para. 2(5) omitted (E.W.) (6.4.2010) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2009 (S.I. 2009/3381)](https://www.legislation.gov.uk/uksi/2009/3381), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/3381/regulation/1/1/b), [15](https://www.legislation.gov.uk/uksi/2009/3381/regulation/15) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/3381/regulation/1/2))
 
-[^key-baa0312a174cafc2b2f74612a7f68f7d]: Textual amendment: Sch. 8 para. 2(6) omitted (E.W.) (6.4.2010 immediately after S.I. 2009/3381 comes into force) by virtue of [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1), [Sch. 26 para. 40(3)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/40/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2))
+[^c-baa0312a174cafc2b2f74612a7f68f7d]: Textual amendment: Sch. 8 para. 2(6) omitted (E.W.) (6.4.2010 immediately after S.I. 2009/3381 comes into force) by virtue of [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1), [Sch. 26 para. 40(3)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/40/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2))

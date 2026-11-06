@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Bus lane contraventions[^key-6aef926c8d0ded6b5729db121bfa675e]
+## 24. Bus lane contraventions[^c-6aef926c8d0ded6b5729db121bfa675e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6aef926c8d0ded6b5729db121bfa675e]: Textual amendment: [Art. 24](https://www.legislation.gov.uk/uksi/2021/112/article/24) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [32(6)(c)](https://www.legislation.gov.uk/uksi/2026/519/regulation/32/6/c)
+[^c-6aef926c8d0ded6b5729db121bfa675e]: Textual amendment: [Art. 24](https://www.legislation.gov.uk/uksi/2021/112/article/24) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [32(6)(c)](https://www.legislation.gov.uk/uksi/2026/519/regulation/32/6/c)

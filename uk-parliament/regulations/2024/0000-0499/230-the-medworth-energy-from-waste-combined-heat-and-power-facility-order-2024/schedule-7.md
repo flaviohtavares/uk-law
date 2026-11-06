@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 7 — TEMPORARY PROHIBITION OR RESTRICTION OF THE USE OF STREETS OR PUBLIC RIGHTS OF WAY[^key-28c48e176af8fb7db0f45280373349bb]
+## SCHEDULE 7 — TEMPORARY PROHIBITION OR RESTRICTION OF THE USE OF STREETS OR PUBLIC RIGHTS OF WAY[^c-28c48e176af8fb7db0f45280373349bb]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ Table 7
 
 ## Annotations
 
-[^key-28c48e176af8fb7db0f45280373349bb]: Commencement: Sch. 7 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-28c48e176af8fb7db0f45280373349bb]: Commencement: Sch. 7 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)

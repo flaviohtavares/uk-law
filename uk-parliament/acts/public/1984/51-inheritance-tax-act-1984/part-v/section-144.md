@@ -23,7 +23,7 @@ summary: ''
 (1) Subsection (2) below applies[^c19471471] where property comprised in a person’s estate immediately before his death is settled by his will and, within the period of two years after his death and before any interest in possession has subsisted in the property, there occurs—
 
 - (a) an event on which tax would (apart from subsection (2) below)[^c19471501] be chargeable under any provision, other than section 64 or 79, of Chapter III of Part III of this Act, or
-- (b) an event on which tax would be so chargeable but for section 65(4),[^key-430783f0252164a676de851a8548a39f] 75 , 75A[^key-e36a70473fc4d528f3a65aa79f056d85] or 76 above or paragraph 16(1) of Schedule 4 to this Act.
+- (b) an event on which tax would be so chargeable but for section 65(4),[^c-430783f0252164a676de851a8548a39f] 75 , 75A[^c-e36a70473fc4d528f3a65aa79f056d85] or 76 above or paragraph 16(1) of Schedule 4 to this Act.
 
 (1A)[^c19471521] Where the testator dies on or after 22nd March 2006, subsection (1) above shall have effect as if the reference to any interest in possession were a reference to any interest in possession that is—
 
@@ -68,9 +68,9 @@ summary: ''
 
 [^c19471501]: Textual amendment: Words in s. 144(1)(a) substituted (22.3.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 156](https://www.legislation.gov.uk/ukpga/2006/25/section/156), [Sch. 20 paras. 7](https://www.legislation.gov.uk/ukpga/2006/25/schedule/20/paragraph/7), [27(2)(b)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/20/paragraph/27/2/b)
 
-[^key-430783f0252164a676de851a8548a39f]: Textual amendment: Word in s. 144(1)(b) inserted (with effect in accordance with s. 14(2) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 14(1)](https://www.legislation.gov.uk/ukpga/2015/33/section/14/1)
+[^c-430783f0252164a676de851a8548a39f]: Textual amendment: Word in s. 144(1)(b) inserted (with effect in accordance with s. 14(2) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 14(1)](https://www.legislation.gov.uk/ukpga/2015/33/section/14/1)
 
-[^key-e36a70473fc4d528f3a65aa79f056d85]: Textual amendment: Word in s. 144(1)(b) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 16(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/16/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/16/2)
+[^c-e36a70473fc4d528f3a65aa79f056d85]: Textual amendment: Word in s. 144(1)(b) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 16(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/16/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/16/2)
 
 [^c19471521]: Textual amendment: S. 144(1A) inserted (22.3.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 156](https://www.legislation.gov.uk/ukpga/2006/25/section/156), [Sch. 20 paras. 7](https://www.legislation.gov.uk/ukpga/2006/25/schedule/20/paragraph/7), [27(3)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/20/paragraph/27/3)
 

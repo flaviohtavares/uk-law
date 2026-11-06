@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Variation of approval[^key-c8d676dc8c5be7fea9bc7cae8caa215e]
+## 19. Variation of approval[^c-c8d676dc8c5be7fea9bc7cae8caa215e]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8d676dc8c5be7fea9bc7cae8caa215e]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2015/10/section/19) in force at 1.7.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 2](https://www.legislation.gov.uk/ssi/2016/130/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/130/schedule) (with [arts. 5](https://www.legislation.gov.uk/ssi/2016/130/article/5), [6](https://www.legislation.gov.uk/ssi/2016/130/article/6))
+[^c-c8d676dc8c5be7fea9bc7cae8caa215e]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2015/10/section/19) in force at 1.7.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 2](https://www.legislation.gov.uk/ssi/2016/130/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/130/schedule) (with [arts. 5](https://www.legislation.gov.uk/ssi/2016/130/article/5), [6](https://www.legislation.gov.uk/ssi/2016/130/article/6))

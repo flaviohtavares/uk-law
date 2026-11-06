@@ -71,7 +71,7 @@ An Act to amend the enactments relating to agricultural holdings in Scotland; to
 
 ### Special directions to secure production
 
-#### 35. Special directions to secure production.[^key-b07c0b69737571d127b084f65a8e45b8]
+#### 35. Special directions to secure production.[^c-b07c0b69737571d127b084f65a8e45b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -87,7 +87,7 @@ An Act to amend the enactments relating to agricultural holdings in Scotland; to
 
 (2) A requirement shall not be imposed under the last foregoing subsection if apart from this subsection the killing, taking or destruction in question would be prohibited by law:
 
-Provided that a requirement may be so imposed to kill or destroy —[^key-a328df7dd2cbbc6803377f9bb17528d6]
+Provided that a requirement may be so imposed to kill or destroy —[^c-a328df7dd2cbbc6803377f9bb17528d6]
 
 - (a) black grouse, common pheasant, grey partridge, ptarmigan, red grouse or red-legged partridge in the close season for that bird (within the meaning of section 2(4) of the Wildlife and Countryside Act 1981 (c.69)); or
 - (b) brown hare or mountain hare in the close season for that hare (within the meaning of section 10A(2) of that Act);
@@ -184,18 +184,18 @@ A person shall not be guilty of an offence under section seven of the [^c6347801
 
 (3) In this section any reference to an approved trap refers to a trap of a type and make for the time being specified by order of the Secretary of State as approved by him either generally or subject to conditions as to the animals for which or the circumstances in which it may be used, and any reference to the animals or circumstances for which a trap is approved shall be construed accordingly.
 
-(4)[^c6347841] Subject to the provisions of subsections (4A) and (5)[^key-415b2760cc3be070ab16ba7a9fba0a33], the Secretary of State may from time to time by order authorise the use, for the purpose of killing or taking animals, of spring traps other than approved traps, and such authority may be granted—
+(4)[^c6347841] Subject to the provisions of subsections (4A) and (5)[^c-415b2760cc3be070ab16ba7a9fba0a33], the Secretary of State may from time to time by order authorise the use, for the purpose of killing or taking animals, of spring traps other than approved traps, and such authority may be granted—
 
 - (a) either generally or subject to such conditions as to the animals for which or the circumstances in which such traps may be used as may be specified in the order;
 - (b) either as respects all land in Scotland, or as respects the land in any county or any part of a county, or as respects any particular land or class of land, as may be so specified;
 
 and paragraph (*b*) of subsection (1) of this section shall not render unlawful the use of a spring trap under such an authority.
 
-(4A)[^key-87eaee54453e93e951d26819b578ed47] An order made under subsection (3) may not specify any type or make of trap as approved, and an order made under subsection (4) may not authorise the use of any trap, where the trap is a leghold trap.
+(4A)[^c-87eaee54453e93e951d26819b578ed47] An order made under subsection (3) may not specify any type or make of trap as approved, and an order made under subsection (4) may not authorise the use of any trap, where the trap is a leghold trap.
 
 (5) The Secretary of State may—
 
-- (a) if he is satisfied, having regard to the quantities of approved traps available at reasonable prices and to such other considerations as seem to him relevant, that it is expedient to do so, by order withdraw any authority granted under subsection (4)[^key-a37673cfe24685752163399c3404ab36];
+- (a) if he is satisfied, having regard to the quantities of approved traps available at reasonable prices and to such other considerations as seem to him relevant, that it is expedient to do so, by order withdraw any authority granted under subsection (4)[^c-a37673cfe24685752163399c3404ab36];
 - (b) when he is satisfied that the power to grant authorities under the said subsection is no longer necessary, by regulation withdraw all subsisting authorities granted under that subsection;
 
 and after such regulation has been made it shall not be lawful for the Secretary of State, unless the regulation is revoked under subsection (1) of section five of the [^c6347851]Statutory Instruments Act, 1946, to grant an authority under subsection (4).
@@ -206,7 +206,7 @@ and after such regulation has been made it shall not be lawful for the Secretary
 
 (8) The power of the Secretary of State to make orders under this section shall be exercisable by statutory instrument which, in the case of an order made under the last foregoing subsection, shall be subject to annulment by resolution of either House of Parliament.
 
-(9)[^key-d9021cddc61ddd0044d4e212bd4b5454] In subsection (4A), “leghold trap” means a device designed to restrain or capture an animal by means of jaws which close tightly upon one or more of the animal’s limbs, thereby preventing withdrawal of the limb or limbs from the trap.
+(9)[^c-d9021cddc61ddd0044d4e212bd4b5454] In subsection (4A), “leghold trap” means a device designed to restrain or capture an animal by means of jaws which close tightly upon one or more of the animal’s limbs, thereby preventing withdrawal of the limb or limbs from the trap.
 
 #### 50A. Open trapping of hares and rabbits.[^c6347861]
 
@@ -229,7 +229,7 @@ and after such regulation has been made it shall not be lawful for the Secretary
 
 #### 52. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c6347901]
 
-#### 53. Persons acting under this Part of this Act not required to obtain game licences.[^key-ef559832e5d046bdcc1b0fc4e10c99d2]
+#### 53. Persons acting under this Part of this Act not required to obtain game licences.[^c-ef559832e5d046bdcc1b0fc4e10c99d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -253,13 +253,13 @@ The Secretary of State may by agreement acquire whether by way of purchase, feu,
 - (a) any land used for agriculture;
 - (b) any other land which in the opinion of the Secretary of State ought to be brought into use for agriculture;
 - (c) where any such land as aforesaid is offered to the Secretary of State for acquisition by him on the condition that he also acquires other land not falling within the two foregoing paragraphs, that other land;
-- (d)[^key-3aba0988940ca913b2ab9fa5bbad865c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-3aba0988940ca913b2ab9fa5bbad865c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 56. Acquisition by Secretary of State of land for research, experiment and demonstration.[^key-0930313f04bd510716c2bfed1a754fc9]
+#### 56. Acquisition by Secretary of State of land for research, experiment and demonstration.[^c-0930313f04bd510716c2bfed1a754fc9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 57. Acquisition of land by Secretary of State to ensure full and efficient use thereof.[^key-14b415ef52864842ad622ccb22fc8904]
+#### 57. Acquisition of land by Secretary of State to ensure full and efficient use thereof.[^c-14b415ef52864842ad622ccb22fc8904]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -292,7 +292,7 @@ Sections one to four of the Agricultural Land (Utilisation) Act, 1931(which enab
 
 ### Provisions as to compulsory acquisition of land
 
-#### 63. Procedure for compulsory purchase of land.[^key-aad6dc10a9f9e3a206c8833bf4ec3101]
+#### 63. Procedure for compulsory purchase of land.[^c-aad6dc10a9f9e3a206c8833bf4ec3101]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -300,13 +300,13 @@ Sections one to four of the Agricultural Land (Utilisation) Act, 1931(which enab
 
 ### Provision of holdings by the Secretary of State
 
-#### 64. Power of Secretary of State to provide and equip holdings.[^key-aad6dc10a9f9e3a206c8833bf4ec3101]
+#### 64. Power of Secretary of State to provide and equip holdings.[^c-aad6dc10a9f9e3a206c8833bf4ec3101]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Provisions as to loans.
 
-#### 65. Loans to tenants of holdings.[^key-aad6dc10a9f9e3a206c8833bf4ec3101]
+#### 65. Loans to tenants of holdings.[^c-aad6dc10a9f9e3a206c8833bf4ec3101]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -334,7 +334,7 @@ The Agriculture (Scotland) Fund shall, in accordance with directions of the Trea
 
 ### The Land Court
 
-#### 70. Provisions as to the appointment of additional members of the LandCourt.[^key-54652238556ef54e6d810758336b4318]
+#### 70. Provisions as to the appointment of additional members of the LandCourt.[^c-54652238556ef54e6d810758336b4318]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -346,7 +346,7 @@ The provisions of the Small Landholders (Scotland) Acts, 1886 to 1931, with rega
 
 ### Agricultural Advisory Committees
 
-#### 73. Establishment and functions of Agricultural Advisory Committees.[^key-b7cea38a3c55ba4cde34391bad2083e1]
+#### 73. Establishment and functions of Agricultural Advisory Committees.[^c-b7cea38a3c55ba4cde34391bad2083e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -358,11 +358,11 @@ The provisions of the Small Landholders (Scotland) Acts, 1886 to 1931, with rega
 
 ### Provision of Goods and Services.
 
-#### 75. Schemes for provision of agricultural goods and services.[^key-fd6457b678eaf16c45fd819ea1fc19a0]
+#### 75. Schemes for provision of agricultural goods and services.[^c-fd6457b678eaf16c45fd819ea1fc19a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 76. Provision of machinery for agricultural drainage works.[^key-33f7b50866a828c574b5b102c8a2e852]
+#### 76. Provision of machinery for agricultural drainage works.[^c-33f7b50866a828c574b5b102c8a2e852]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -445,7 +445,7 @@ Provided that in relation to the power of the Secretary of State to make orders 
 
 Provided that no designation under this subsection shall extend—
 
-- (a) to land used as pleasure grounds, private gardens or allotments[^key-28b0fae4c21a87d21d54e156d0d66f72] , or
+- (a) to land used as pleasure grounds, private gardens or allotments[^c-28b0fae4c21a87d21d54e156d0d66f72] , or
 - (b) to land kept or preserved mainly or exclusively for the purposes of sport or recreation, except where the Secretary of State is satisfied that its use for agriculture would not be inconsistent with its use for the said purposes and it is so stated in the designation.
 
 (2) In this Act the expression “**agricultural unit**” means land which is occupied as a unit for agricultural purposes, including—
@@ -459,7 +459,7 @@ Provided that the Secretary of State shall not give a direction under this subse
 
 - “**the Act of 1923**” means the [^c6348351]Agricultural Holdings (Scotland) Act, 1923;
 - “**agriculture**” includes horticulture, fruit growing, seed growing, dairy farming and livestock breeding and keeping, the use of land as grazing land, meadow land, osier land, market gardens and nursery grounds, and the use of land for woodlands where that use is ancillary to the farming of land for other agricultural purposes, and “**agricultural**” shall be construed accordingly;
-- “[^key-be06dc5cb60d19311c69820a02464ef8]**allotment**” has the meaning given by section 107 of the Community Empowerment (Scotland) Act 2015;
+- “[^c-be06dc5cb60d19311c69820a02464ef8]**allotment**” has the meaning given by section 107 of the Community Empowerment (Scotland) Act 2015;
 - “**fixed equipment**” includes any building or structure affixed to land and any works on, in, over or under land, and also includes anything grown on land for a purpose other than use after severance from the land, consumption of the thing grown or of produce thereof, or amenity, and, without prejudice to the foregoing generality, includes the following things, that is to say—
 - (a) all permanent buildings, including farm houses and farm cottages, necessary for the proper conduct of the holding;
 - (b) all permanent fences, including hedges, stone dykes, gate posts and gates;
@@ -503,19 +503,19 @@ and references to fixed equipment on land shall be construed accordingly.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c6348411]
 
-## THIRD SCHEDULE — Provisions where permanent pasture directed to be ploughed up or other cultivations to be carried out[^key-7b7f03210097a5e9516b2bc53771c52e]
+## THIRD SCHEDULE — Provisions where permanent pasture directed to be ploughed up or other cultivations to be carried out[^c-7b7f03210097a5e9516b2bc53771c52e]
 
 **No longer in force.**
 
-**1.**[^key-7b7f03210097a5e9516b2bc53771c52e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-7b7f03210097a5e9516b2bc53771c52e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-7b7f03210097a5e9516b2bc53771c52e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7b7f03210097a5e9516b2bc53771c52e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-7b7f03210097a5e9516b2bc53771c52e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7b7f03210097a5e9516b2bc53771c52e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-7b7f03210097a5e9516b2bc53771c52e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-7b7f03210097a5e9516b2bc53771c52e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-7b7f03210097a5e9516b2bc53771c52e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-7b7f03210097a5e9516b2bc53771c52e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## FOURTH SCHEDULE. — Matters for which provision is to made in written leases.[^c6348471]
 
@@ -541,7 +541,7 @@ Section 26
 
 **2.** In determining whether the management of land is such as aforesaid regard shall be had, but without prejudice to the generality of the provisions of the last foregoing paragraph, to the extent to which the owner is making regular muirburn in the interests of sheep stock, exercising systematic control of vermin on land not in the control of a tenant, and undertaking the eradication of bracken, whins and broom so far as is reasonably practicable, and to the extent to which the owner is fulfilling his responsibilities in relation to the provision, improvement, replacement and renewal of the fixed equipment on the land in so far as is necessary to enable an occupier reasonably skilled in husbandry to maintain efficient production as aforesaid.
 
-## SIXTH SCHEDULE — Rules of Good Husbandry[^c6348501][^c6348511][^key-1d2fea3a17af6b43cc46eca86793e22b][^key-5e6c1ade817379236c9973132f69ef22][^key-a5539863d1fdd052634265f2ba65d1f5][^key-b06a25cb9e351117865d4cb1262f0c84]
+## SIXTH SCHEDULE — Rules of Good Husbandry[^c6348501][^c6348511][^c-1d2fea3a17af6b43cc46eca86793e22b][^c-5e6c1ade817379236c9973132f69ef22][^c-a5539863d1fdd052634265f2ba65d1f5][^c-b06a25cb9e351117865d4cb1262f0c84]
 
 Section 26
 
@@ -567,45 +567,45 @@ Section 26
 
 ## SEVENTH SCHEDULE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c6348521]
 
-## EIGHTH SCHEDULE[^key-875d18bf7258a782e7a7cb47701c2b5d]
+## EIGHTH SCHEDULE[^c-875d18bf7258a782e7a7cb47701c2b5d]
 
 **No longer in force.**
 
-### Part I — Agricultural Executive Committees and Sub-committees[^key-875d18bf7258a782e7a7cb47701c2b5d]
+### Part I — Agricultural Executive Committees and Sub-committees[^c-875d18bf7258a782e7a7cb47701c2b5d]
 
-**1—10**[^key-875d18bf7258a782e7a7cb47701c2b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1—10**[^c-875d18bf7258a782e7a7cb47701c2b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Proof of Instruments[^key-875d18bf7258a782e7a7cb47701c2b5d]
+#### Proof of Instruments[^c-875d18bf7258a782e7a7cb47701c2b5d]
 
-**11.**[^key-875d18bf7258a782e7a7cb47701c2b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-875d18bf7258a782e7a7cb47701c2b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-875d18bf7258a782e7a7cb47701c2b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-875d18bf7258a782e7a7cb47701c2b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part II — Agricultural Advisory Committees[^key-875d18bf7258a782e7a7cb47701c2b5d]
+### Part II — Agricultural Advisory Committees[^c-875d18bf7258a782e7a7cb47701c2b5d]
 
-**1.**[^key-875d18bf7258a782e7a7cb47701c2b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-875d18bf7258a782e7a7cb47701c2b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-875d18bf7258a782e7a7cb47701c2b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-875d18bf7258a782e7a7cb47701c2b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-875d18bf7258a782e7a7cb47701c2b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-875d18bf7258a782e7a7cb47701c2b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-875d18bf7258a782e7a7cb47701c2b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-875d18bf7258a782e7a7cb47701c2b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-875d18bf7258a782e7a7cb47701c2b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-875d18bf7258a782e7a7cb47701c2b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-875d18bf7258a782e7a7cb47701c2b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-875d18bf7258a782e7a7cb47701c2b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-875d18bf7258a782e7a7cb47701c2b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-875d18bf7258a782e7a7cb47701c2b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-875d18bf7258a782e7a7cb47701c2b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-875d18bf7258a782e7a7cb47701c2b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-875d18bf7258a782e7a7cb47701c2b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-875d18bf7258a782e7a7cb47701c2b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-875d18bf7258a782e7a7cb47701c2b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-875d18bf7258a782e7a7cb47701c2b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-875d18bf7258a782e7a7cb47701c2b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-875d18bf7258a782e7a7cb47701c2b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-875d18bf7258a782e7a7cb47701c2b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-875d18bf7258a782e7a7cb47701c2b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## NINTH SCHEDULE[^c6348551][^c6348551]
 
@@ -645,7 +645,7 @@ Section 26
 
 [^c6347341]: Textual amendment: [Ss. 26(1)](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/26/1), [27–34](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/27), [36–38](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/36) repealed by [Agriculture Act 1958 (c. 71)](https://www.legislation.gov.uk/ukpga/1958/71), [Sch. 2 Pt. I](https://www.legislation.gov.uk/ukpga/1958/71/schedule/2/part/I)
 
-[^key-b07c0b69737571d127b084f65a8e45b8]: Textual amendment: [S. 35](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/35) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-b07c0b69737571d127b084f65a8e45b8]: Textual amendment: [S. 35](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/35) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
 [^c6347421]: Textual amendment: [Ss. 26(1)](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/26/1), [27–34](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/27), [36–38](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/36) repealed by [Agriculture Act 1958 (c. 71)](https://www.legislation.gov.uk/ukpga/1958/71), [Sch. 2 Pt. I](https://www.legislation.gov.uk/ukpga/1958/71/schedule/2/part/I)
 
@@ -655,7 +655,7 @@ Section 26
 
 [^c6347621]: Modification: Ss. 39-42 repealed so far as relating to red deer by [Deer (Scotland) Act 1959 (c. 40)](https://www.legislation.gov.uk/ukpga/1959/40), [Sch. 3](https://www.legislation.gov.uk/ukpga/1959/40/schedule/3)
 
-[^key-a328df7dd2cbbc6803377f9bb17528d6]: Textual amendment: Words in s. 39(2) substituted (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [s. 43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1), [Sch. Pt para. 1](https://www.legislation.gov.uk/asp/2011/6/schedule/Pt/paragraph/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(l)(i)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/l/i)
+[^c-a328df7dd2cbbc6803377f9bb17528d6]: Textual amendment: Words in s. 39(2) substituted (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [s. 43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1), [Sch. Pt para. 1](https://www.legislation.gov.uk/asp/2011/6/schedule/Pt/paragraph/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(l)(i)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/l/i)
 
 [^c6347641]: Textual amendment: Words substituted by [Protection of Birds Act 1954 (c. 30)](https://www.legislation.gov.uk/ukpga/1954/30), [Sch. 5](https://www.legislation.gov.uk/ukpga/1954/30/schedule/5)
 
@@ -697,15 +697,15 @@ Section 26
 
 [^c6347841]: Modification: S. 50(4) amended by [Agriculture (Spring Traps) (Scotland) Act 1969 (c. 26)](https://www.legislation.gov.uk/ukpga/1969/26), [s. 2](https://www.legislation.gov.uk/ukpga/1969/26/section/2), [s. 50(4)(5)](https://www.legislation.gov.uk/ukpga/1969/26/section/50/4/5) repealed as from 1st April 1973 by [Agriculture (Spring Traps) (Scotland) Act 1969 (c. 26)](https://www.legislation.gov.uk/ukpga/1969/26), [ss. 1](https://www.legislation.gov.uk/ukpga/1969/26/section/1), [3](https://www.legislation.gov.uk/ukpga/1969/26/section/3)
 
-[^key-415b2760cc3be070ab16ba7a9fba0a33]: Textual amendment: Words in s. 50(4) substituted (28.3.2019) by [The Humane Trapping Standards Regulations 2019 (S.I. 2019/22)](https://www.legislation.gov.uk/uksi/2019/22), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/22/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2019/22/regulation/8/a)
+[^c-415b2760cc3be070ab16ba7a9fba0a33]: Textual amendment: Words in s. 50(4) substituted (28.3.2019) by [The Humane Trapping Standards Regulations 2019 (S.I. 2019/22)](https://www.legislation.gov.uk/uksi/2019/22), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/22/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2019/22/regulation/8/a)
 
-[^key-87eaee54453e93e951d26819b578ed47]: Textual amendment: S. 50(4A) inserted (28.3.2019) by [The Humane Trapping Standards Regulations 2019 (S.I. 2019/22)](https://www.legislation.gov.uk/uksi/2019/22), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/22/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2019/22/regulation/8/b)
+[^c-87eaee54453e93e951d26819b578ed47]: Textual amendment: S. 50(4A) inserted (28.3.2019) by [The Humane Trapping Standards Regulations 2019 (S.I. 2019/22)](https://www.legislation.gov.uk/uksi/2019/22), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/22/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2019/22/regulation/8/b)
 
-[^key-a37673cfe24685752163399c3404ab36]: Textual amendment: Words in s. 50(5) substituted (28.3.2019) by [The Humane Trapping Standards Regulations 2019 (S.I. 2019/22)](https://www.legislation.gov.uk/uksi/2019/22), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/22/regulation/1/1), [8(c)](https://www.legislation.gov.uk/uksi/2019/22/regulation/8/c)
+[^c-a37673cfe24685752163399c3404ab36]: Textual amendment: Words in s. 50(5) substituted (28.3.2019) by [The Humane Trapping Standards Regulations 2019 (S.I. 2019/22)](https://www.legislation.gov.uk/uksi/2019/22), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/22/regulation/1/1), [8(c)](https://www.legislation.gov.uk/uksi/2019/22/regulation/8/c)
 
 [^c6347851]: Marginal citation: [1946 c. 36](https://www.legislation.gov.uk/ukpga/1946/36).
 
-[^key-d9021cddc61ddd0044d4e212bd4b5454]: Textual amendment: S. 50(9) inserted (28.3.2019) by [The Humane Trapping Standards Regulations 2019 (S.I. 2019/22)](https://www.legislation.gov.uk/uksi/2019/22), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/22/regulation/1/1), [8(d)](https://www.legislation.gov.uk/uksi/2019/22/regulation/8/d)
+[^c-d9021cddc61ddd0044d4e212bd4b5454]: Textual amendment: S. 50(9) inserted (28.3.2019) by [The Humane Trapping Standards Regulations 2019 (S.I. 2019/22)](https://www.legislation.gov.uk/uksi/2019/22), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/22/regulation/1/1), [8(d)](https://www.legislation.gov.uk/uksi/2019/22/regulation/8/d)
 
 [^c6347861]: Textual amendment: [Ss. 50](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/50), [50A](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/50A) substituted for s. 50 by [Pests Act 1954 (c. 68)](https://www.legislation.gov.uk/ukpga/1954/68), [s. 10](https://www.legislation.gov.uk/ukpga/1954/68/section/10)
 
@@ -717,17 +717,17 @@ Section 26
 
 [^c6347901]: Textual amendment: [S. 52](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/52) repealed (25. 9. 1991) by [Agricultural Holdings (Scotland) Act 1991 (c. 55)](https://www.legislation.gov.uk/ukpga/1991/55), [ss. 88(2)](https://www.legislation.gov.uk/ukpga/1991/55/section/88/2), [89(2)](https://www.legislation.gov.uk/ukpga/1991/55/section/89/2), [Sch. 13 Pt.I](https://www.legislation.gov.uk/ukpga/1991/55/schedule/13/part/I) (with [s. 45(3)](https://www.legislation.gov.uk/ukpga/1991/55/section/45/3), [Sch. 12 paras. 1](https://www.legislation.gov.uk/ukpga/1991/55/schedule/12/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/1991/55/schedule/12/paragraph/3))
 
-[^key-ef559832e5d046bdcc1b0fc4e10c99d2]: Textual amendment: [S. 53](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/53) repealed (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [s. 43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1), [Sch. Pt. 2](https://www.legislation.gov.uk/asp/2011/6/schedule/part/2) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(l)(ii)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/l/ii) (as amended by [S.S.I. 2011/287](https://www.legislation.gov.uk/ssi/2011/287), art. 2)
+[^c-ef559832e5d046bdcc1b0fc4e10c99d2]: Textual amendment: [S. 53](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/53) repealed (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [s. 43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1), [Sch. Pt. 2](https://www.legislation.gov.uk/asp/2011/6/schedule/part/2) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(l)(ii)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/l/ii) (as amended by [S.S.I. 2011/287](https://www.legislation.gov.uk/ssi/2011/287), art. 2)
 
 [^c6347921]: Textual amendment: Definitions in s. 54 repealed (25. 9. 1991) by [Agricultural Holdings (Scotland) Act 1991 (c. 55)](https://www.legislation.gov.uk/ukpga/1991/55), [ss. 88(2)](https://www.legislation.gov.uk/ukpga/1991/55/section/88/2), [89(2)](https://www.legislation.gov.uk/ukpga/1991/55/section/89/2), [Sch. 13 Pt.I](https://www.legislation.gov.uk/ukpga/1991/55/schedule/13/part/I) (with [s. 45(3)](https://www.legislation.gov.uk/ukpga/1991/55/section/45/3), [Sch. 12 paras. 1](https://www.legislation.gov.uk/ukpga/1991/55/schedule/12/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/1991/55/schedule/12/paragraph/3))
 
 [^c6347951]: Modification: [S. 55](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/55) extended by [Agriculture Act 1967 (c. 22)](https://www.legislation.gov.uk/ukpga/1967/22), [s. 29](https://www.legislation.gov.uk/ukpga/1967/22/section/29)
 
-[^key-3aba0988940ca913b2ab9fa5bbad865c]: Textual amendment: [S. 55(d)](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/55/d) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-3aba0988940ca913b2ab9fa5bbad865c]: Textual amendment: [S. 55(d)](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/55/d) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
-[^key-0930313f04bd510716c2bfed1a754fc9]: Textual amendment: [S. 56](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/56) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-0930313f04bd510716c2bfed1a754fc9]: Textual amendment: [S. 56](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/56) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
-[^key-14b415ef52864842ad622ccb22fc8904]: Textual amendment: [S. 57](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/57) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-14b415ef52864842ad622ccb22fc8904]: Textual amendment: [S. 57](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/57) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
 [^c6347961]: Textual amendment: [S. 58](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/58) repealed by [Statute Law (Repeals) Act 1973 (c. 39)](https://www.legislation.gov.uk/ukpga/1973/39), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1973/39/section/1/1), [Sch. 1 Pt. VIII](https://www.legislation.gov.uk/ukpga/1973/39/schedule/1/part/VIII)
 
@@ -735,7 +735,7 @@ Section 26
 
 [^c6347981]: Modification: The text of S. 62 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-aad6dc10a9f9e3a206c8833bf4ec3101]: Textual amendment: [Ss. 63-65](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/63) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-aad6dc10a9f9e3a206c8833bf4ec3101]: Textual amendment: [Ss. 63-65](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/63) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
 [^c6348071]: Modification: The text of S. 66 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -745,17 +745,17 @@ Section 26
 
 [^c6348101]: Textual amendment: [Ss. 68](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/68), [69](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/69) repealed by [Agriculture (Miscellaneous Provisions) Act 1972 (c. 62, SIF 2:1)](https://www.legislation.gov.uk/ukpga/1972/62), [s. 21(2)](https://www.legislation.gov.uk/ukpga/1972/62/section/21/2), [Sch. 6](https://www.legislation.gov.uk/ukpga/1972/62/schedule/6)
 
-[^key-54652238556ef54e6d810758336b4318]: Textual amendment: [S. 70](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/70) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-54652238556ef54e6d810758336b4318]: Textual amendment: [S. 70](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/70) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
 [^c6348131]: Textual amendment: [S. 71](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/71) repealed with savings by [Agriculture Act 1958 (c.71)](https://www.legislation.gov.uk/ukpga/1958/71), [s. 10(5)](https://www.legislation.gov.uk/ukpga/1958/71/section/10/5), [Sch. 2 Pt. I](https://www.legislation.gov.uk/ukpga/1958/71/schedule/2/part/I)
 
-[^key-b7cea38a3c55ba4cde34391bad2083e1]: Textual amendment: [S. 73](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/73) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-b7cea38a3c55ba4cde34391bad2083e1]: Textual amendment: [S. 73](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/73) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
 [^c6348141]: Textual amendment: [S. 74](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/74) repealed by [Statute Law (Repeals) Act 1973 (c. 39)](https://www.legislation.gov.uk/ukpga/1973/39), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1973/39/section/1/1), [Sch. 1 Pt. VIII](https://www.legislation.gov.uk/ukpga/1973/39/schedule/1/part/VIII)
 
-[^key-fd6457b678eaf16c45fd819ea1fc19a0]: Textual amendment: [S. 75](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/75) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-fd6457b678eaf16c45fd819ea1fc19a0]: Textual amendment: [S. 75](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/75) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
-[^key-33f7b50866a828c574b5b102c8a2e852]: Textual amendment: [S. 76](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/76) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-33f7b50866a828c574b5b102c8a2e852]: Textual amendment: [S. 76](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/76) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
 [^c6348191]: Textual amendment: [S. 77](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/77) repealed by [Crofters (Scotland) Act 1955 (3 & 4 Eliz. 2 c. 21)](https://www.legislation.gov.uk/ukpga/Eliz2/3-4/21), [s. 38(3)](https://www.legislation.gov.uk/ukpga/Eliz2/3-4/21/section/38/3), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/Eliz2/3-4/21/schedule/6/part/I)
 
@@ -781,11 +781,11 @@ Section 26
 
 [^c6348341]: Textual amendment: Proviso added by [Pests Act, 1954 (c. 68)](https://www.legislation.gov.uk/ukpga/1954/68), [s. 11](https://www.legislation.gov.uk/ukpga/1954/68/section/11)
 
-[^key-28b0fae4c21a87d21d54e156d0d66f72]: Textual amendment: Word in s. 86(1) substituted (1.4.2018) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 4 para. 3(2)](https://www.legislation.gov.uk/asp/2015/6/schedule/4/paragraph/3/2); [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)
+[^c-28b0fae4c21a87d21d54e156d0d66f72]: Textual amendment: Word in s. 86(1) substituted (1.4.2018) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 4 para. 3(2)](https://www.legislation.gov.uk/asp/2015/6/schedule/4/paragraph/3/2); [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)
 
 [^c6348351]: Marginal citation: 1923, c. 10.
 
-[^key-be06dc5cb60d19311c69820a02464ef8]: Textual amendment: Words in [s. 86(3)](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/86/3) substituted (1.4.2018) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 4 para. 3(3)](https://www.legislation.gov.uk/asp/2015/6/schedule/4/paragraph/3/3); [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)
+[^c-be06dc5cb60d19311c69820a02464ef8]: Textual amendment: Words in [s. 86(3)](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/86/3) substituted (1.4.2018) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 4 para. 3(3)](https://www.legislation.gov.uk/asp/2015/6/schedule/4/paragraph/3/3); [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)
 
 [^c6348371]: Textual amendment: [S. 87](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/87), [88(2)](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/section/88/2) repealed by [Agriculture Act 1958 (c. 71)](https://www.legislation.gov.uk/ukpga/1958/71), [Sch. 3](https://www.legislation.gov.uk/ukpga/1958/71/schedule/3)
 
@@ -797,7 +797,7 @@ Section 26
 
 [^c6348411]: Textual amendment: [Schs. 1](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/schedule/1), [2](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/schedule/2) repealed with savings by [Agricultural Holdings (Scotland) Act 1949 (c. 75)](https://www.legislation.gov.uk/ukpga/1949/75), [ss. 97-99](https://www.legislation.gov.uk/ukpga/1949/75/section/97), [Sch. 8](https://www.legislation.gov.uk/ukpga/1949/75/schedule/8)
 
-[^key-7b7f03210097a5e9516b2bc53771c52e]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/schedule/THIRD) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-7b7f03210097a5e9516b2bc53771c52e]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/schedule/THIRD) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
 [^c6348471]: Modification: The text of Sch. 4 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -809,17 +809,17 @@ Section 26
 
 [^c6348511]: Modification: Sch. 6 extended (25. 9. 1991) by [Agricultural Holdings (Scotland) Act 1991 (c. 55)](https://www.legislation.gov.uk/ukpga/1991/55), [ss. 85(2)](https://www.legislation.gov.uk/ukpga/1991/55/section/85/2) , [89(2)](https://www.legislation.gov.uk/ukpga/1991/55/section/89/2) (with [s. 45(3)](https://www.legislation.gov.uk/ukpga/1991/55/section/45/3), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/1991/55/schedule/12/paragraph/3))
 
-[^key-1d2fea3a17af6b43cc46eca86793e22b]: Modification: Sch. 6 applied by [Agricultural Holdings (Scotland) Act 2003 (asp. 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 18A(3)](https://www.legislation.gov.uk/ukpga/1991/55/section/18A/3) (as inserted (23.12.2016 for specified purposes, 30.11.2017 in so far as not already in force) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 89(2)](https://www.legislation.gov.uk/asp/2016/18/section/89/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule))
+[^c-1d2fea3a17af6b43cc46eca86793e22b]: Modification: Sch. 6 applied by [Agricultural Holdings (Scotland) Act 2003 (asp. 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 18A(3)](https://www.legislation.gov.uk/ukpga/1991/55/section/18A/3) (as inserted (23.12.2016 for specified purposes, 30.11.2017 in so far as not already in force) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 89(2)](https://www.legislation.gov.uk/asp/2016/18/section/89/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule))
 
-[^key-5e6c1ade817379236c9973132f69ef22]: Modification: Sch. 6 applied by [Agricultural Holdings (Scotland) Act 2003 (asp. 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 8D(7)](https://www.legislation.gov.uk/ukpga/1991/55/section/8D/7) (as inserted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 87(2)](https://www.legislation.gov.uk/asp/2016/18/section/87/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule))
+[^c-5e6c1ade817379236c9973132f69ef22]: Modification: Sch. 6 applied by [Agricultural Holdings (Scotland) Act 2003 (asp. 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 8D(7)](https://www.legislation.gov.uk/ukpga/1991/55/section/8D/7) (as inserted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 87(2)](https://www.legislation.gov.uk/asp/2016/18/section/87/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule))
 
-[^key-a5539863d1fdd052634265f2ba65d1f5]: Modification: Sch. 6 applied by [Agricultural Holdings (Scotland) Act 2003 (asp. 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 7B(7)](https://www.legislation.gov.uk/ukpga/1991/55/section/7B/7) (as inserted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 105(2)](https://www.legislation.gov.uk/asp/2016/18/section/105/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule))
+[^c-a5539863d1fdd052634265f2ba65d1f5]: Modification: Sch. 6 applied by [Agricultural Holdings (Scotland) Act 2003 (asp. 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 7B(7)](https://www.legislation.gov.uk/ukpga/1991/55/section/7B/7) (as inserted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 105(2)](https://www.legislation.gov.uk/asp/2016/18/section/105/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule))
 
-[^key-b06a25cb9e351117865d4cb1262f0c84]: Modification: Sch. 6 applied by [Agricultural Holdings (Scotland) Act 2003 (asp. 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 2A(5)](https://www.legislation.gov.uk/ukpga/1991/55/section/2A/5) (as inserted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 90(3)](https://www.legislation.gov.uk/asp/2016/18/section/90/3), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2017/299/regulation/3)))
+[^c-b06a25cb9e351117865d4cb1262f0c84]: Modification: Sch. 6 applied by [Agricultural Holdings (Scotland) Act 2003 (asp. 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 2A(5)](https://www.legislation.gov.uk/ukpga/1991/55/section/2A/5) (as inserted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 90(3)](https://www.legislation.gov.uk/asp/2016/18/section/90/3), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2017/299/regulation/3)))
 
 [^c6348521]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/schedule/7) repealed by [Local Government (Scotland) Act 1973 (c. 65, SIF 81:2)](https://www.legislation.gov.uk/ukpga/1973/65), [s. 237(1)](https://www.legislation.gov.uk/ukpga/1973/65/section/237/1), [Sch. 29](https://www.legislation.gov.uk/ukpga/1973/65/schedule/29)
 
-[^key-875d18bf7258a782e7a7cb47701c2b5d]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/schedule/8) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-875d18bf7258a782e7a7cb47701c2b5d]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/schedule/8) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
 [^c6348551]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/schedule/9) repealed with savings by [Agricultural Holdings (Scotland) Act 1949 (c. 75)](https://www.legislation.gov.uk/ukpga/1949/75), [ss. 97-99](https://www.legislation.gov.uk/ukpga/1949/75/section/97), [Sch. 8](https://www.legislation.gov.uk/ukpga/1949/75/schedule/8)
 

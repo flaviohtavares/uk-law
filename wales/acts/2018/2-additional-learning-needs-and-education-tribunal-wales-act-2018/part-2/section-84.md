@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84. Capacity of children[^key-c3e2833b072dd1be439b11a34320bd8d]
+## 84. Capacity of children[^c-c3e2833b072dd1be439b11a34320bd8d]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3e2833b072dd1be439b11a34320bd8d]: Commencement: S. 84 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(h)](https://www.legislation.gov.uk/wsi/2021/373/article/8/h)
+[^c-c3e2833b072dd1be439b11a34320bd8d]: Commencement: S. 84 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(h)](https://www.legislation.gov.uk/wsi/2021/373/article/8/h)

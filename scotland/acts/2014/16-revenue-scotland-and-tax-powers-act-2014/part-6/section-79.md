@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Enforcement of penalties under section 76[^key-6aa2f3a0a2e6a7cdc2b6d31a1b8b305e][^key-4e4aceb7804f1cf5b8409fe1931a4d87]
+## 79. Enforcement of penalties under section 76[^c-6aa2f3a0a2e6a7cdc2b6d31a1b8b305e][^c-4e4aceb7804f1cf5b8409fe1931a4d87]
 
 *Extent: S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6aa2f3a0a2e6a7cdc2b6d31a1b8b305e]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2014/16/section/79) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-6aa2f3a0a2e6a7cdc2b6d31a1b8b305e]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2014/16/section/79) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
 
-[^key-4e4aceb7804f1cf5b8409fe1931a4d87]: Modification: [Ss. 76-79](https://www.legislation.gov.uk/asp/2014/16/section/76) applied (1.4.2015) by [The Revenue Scotland and Tax Powers Act (Record Keeping) Regulations 2015 (S.S.I. 2015/130)](https://www.legislation.gov.uk/ssi/2015/130), [regs. 1](https://www.legislation.gov.uk/ssi/2015/130/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2015/130/regulation/4/2)
+[^c-4e4aceb7804f1cf5b8409fe1931a4d87]: Modification: [Ss. 76-79](https://www.legislation.gov.uk/asp/2014/16/section/76) applied (1.4.2015) by [The Revenue Scotland and Tax Powers Act (Record Keeping) Regulations 2015 (S.S.I. 2015/130)](https://www.legislation.gov.uk/ssi/2015/130), [regs. 1](https://www.legislation.gov.uk/ssi/2015/130/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2015/130/regulation/4/2)

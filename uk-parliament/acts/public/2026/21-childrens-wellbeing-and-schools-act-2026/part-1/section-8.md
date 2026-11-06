@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Local offer for care leavers[^key-f11ea8b3766cccccdfbb46d35713c696][^key-ae42f876aea50376eb7700d2b552bd38]
+## 8. Local offer for care leavers[^c-f11ea8b3766cccccdfbb46d35713c696][^c-ae42f876aea50376eb7700d2b552bd38]
 
 *Extent: E+W*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f11ea8b3766cccccdfbb46d35713c696]: Commencement: S. 8 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-f11ea8b3766cccccdfbb46d35713c696]: Commencement: S. 8 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
 
-[^key-ae42f876aea50376eb7700d2b552bd38]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2026/21/section/8) in force at 30.9.2026 by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 6(b)](https://www.legislation.gov.uk/uksi/2026/803/regulation/6/b)
+[^c-ae42f876aea50376eb7700d2b552bd38]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2026/21/section/8) in force at 30.9.2026 by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 6(b)](https://www.legislation.gov.uk/uksi/2026/803/regulation/6/b)

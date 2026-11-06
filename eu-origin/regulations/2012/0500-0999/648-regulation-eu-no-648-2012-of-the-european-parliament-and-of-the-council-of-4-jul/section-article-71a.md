@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 71a. Publication and notification of decisions about registration of trade repositories[^key-9438f7cec269c27c0aa8e5ac48fddec9]
+## Article 71a. Publication and notification of decisions about registration of trade repositories[^c-9438f7cec269c27c0aa8e5ac48fddec9]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,4 +74,4 @@ the FCA must give the trade repository a written notice.
 
 ## Annotations
 
-[^key-9438f7cec269c27c0aa8e5ac48fddec9]: Textual amendment: Arts. 71-71b substituted for Art. 71 (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [56(2)](https://www.legislation.gov.uk/uksi/2019/335/regulation/56/2) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9438f7cec269c27c0aa8e5ac48fddec9]: Textual amendment: Arts. 71-71b substituted for Art. 71 (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [56(2)](https://www.legislation.gov.uk/uksi/2019/335/regulation/56/2) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

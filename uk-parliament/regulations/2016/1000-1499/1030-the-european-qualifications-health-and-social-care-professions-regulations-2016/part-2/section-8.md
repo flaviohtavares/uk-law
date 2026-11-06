@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Amendment of section 40[^key-a48f932c390c87abf0abbfb58e507fb2]
+## 8. Amendment of section 40[^c-a48f932c390c87abf0abbfb58e507fb2]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a48f932c390c87abf0abbfb58e507fb2]: Commencement: Reg. 8 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-a48f932c390c87abf0abbfb58e507fb2]: Commencement: Reg. 8 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00009]: Footnote: Section 40 was amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914) (which, in particular, inserted subsections (1A) and (4A)), [2007/3101](https://www.legislation.gov.uk/uksi/2007/3101) and [2015/794](https://www.legislation.gov.uk/uksi/2015/794) (which, in particular, substituted the heading to section 40). There are other amendments which are not relevant to these Regulations.

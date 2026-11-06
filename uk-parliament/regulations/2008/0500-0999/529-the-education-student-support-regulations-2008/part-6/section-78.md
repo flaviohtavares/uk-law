@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Deductions from loans for living costs[^key-bed7c388cee2c3420665290819775f30]
+## 78. Deductions from loans for living costs[^c-bed7c388cee2c3420665290819775f30]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bed7c388cee2c3420665290819775f30]: Commencement: Reg. 78 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-bed7c388cee2c3420665290819775f30]: Commencement: Reg. 78 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

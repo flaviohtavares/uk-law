@@ -201,9 +201,9 @@ HAS ADOPTED THIS REGULATION:
 
 **Article 2.** Regulation (EC) No 730/2006 is repealed.
 
-**Article 3.**[^key-ac1578f95f07eacdbb7d9e3e828b1837] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-ac1578f95f07eacdbb7d9e3e828b1837] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7a6a3c7164f253a55296dacb4acfa515]...
+[^c-7a6a3c7164f253a55296dacb4acfa515]...
 
 Done at Brussels, 20 July 2016.
 
@@ -1364,7 +1364,7 @@ The Annex of Implementing Regulation (EU) No 923/2012 is amended as follows:
   > **SPECIAL AIR-REPORT OF VOLCANIC ACTIVITY FORM (MODEL VAR)**
   >
   > [image: see source](https://www.legislation.gov.uk/eur/2016/1185/images/eur_20161185_2016-07-20_en_007)
-- ((30)) [^key-2407e05f678db8099b368c676c293133]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ((30)) [^c-2407e05f678db8099b368c676c293133]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -1384,9 +1384,9 @@ The Annex of Implementing Regulation (EU) No 923/2012 is amended as follows:
 
 [^f00008]: Footnote: Commission Regulation (EU) No 965/2012 of 5 October 2012 laying down technical requirements and administrative procedures related to air operations pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council ([OJ L 296, 25.10.2012, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2012.296.01.0001.01.ENG)).’;
 
-[^key-ac1578f95f07eacdbb7d9e3e828b1837]: Textual amendment: Art. 3 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [351](https://www.legislation.gov.uk/uksi/2019/459/regulation/351); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ac1578f95f07eacdbb7d9e3e828b1837]: Textual amendment: Art. 3 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [351](https://www.legislation.gov.uk/uksi/2019/459/regulation/351); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7a6a3c7164f253a55296dacb4acfa515]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [352](https://www.legislation.gov.uk/uksi/2019/459/regulation/352); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7a6a3c7164f253a55296dacb4acfa515]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [352](https://www.legislation.gov.uk/uksi/2019/459/regulation/352); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00009]: Footnote: These elements are replaced by the term ‘CAVOK’ when the following conditions occur simultaneously at the time of observation: (a) visibility: 10 km or more, and the lowest visibility not reported; (b) no cloud of operational significance; and (c) no weather of significance to aviation.’;
 
@@ -1396,4 +1396,4 @@ The Annex of Implementing Regulation (EU) No 923/2012 is amended as follows:
 
 [^f00012]: Footnote: Commission Regulation (EU) No 965/2012 of 5 October 2012 laying down technical requirements and administrative procedures related to air operations pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council ([OJ L 296, 25.10.2012, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2012.296.01.0001.01.ENG)).’;
 
-[^key-2407e05f678db8099b368c676c293133]: Textual amendment: Annex point (30) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [353](https://www.legislation.gov.uk/uksi/2019/459/regulation/353); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2407e05f678db8099b368c676c293133]: Textual amendment: Annex point (30) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [353](https://www.legislation.gov.uk/uksi/2019/459/regulation/353); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

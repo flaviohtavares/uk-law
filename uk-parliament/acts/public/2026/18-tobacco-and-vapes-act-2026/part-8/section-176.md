@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176. Commencement: Parts 5 to 8[^key-38a1db6bda9ad32d722c8cd8259f03c9]
+## 176. Commencement: Parts 5 to 8[^c-38a1db6bda9ad32d722c8cd8259f03c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38a1db6bda9ad32d722c8cd8259f03c9]: Commencement: S. 176 in force at Royal Assent, see [s. 176(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/4)
+[^c-38a1db6bda9ad32d722c8cd8259f03c9]: Commencement: S. 176 in force at Royal Assent, see [s. 176(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/4)

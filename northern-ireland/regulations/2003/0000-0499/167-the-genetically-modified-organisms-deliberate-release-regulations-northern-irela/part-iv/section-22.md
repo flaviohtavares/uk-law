@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Variation or revocation of a consent to release genetically modified organisms[^key-0b68e601e2905aeb9798a35fa6eb1980]
+## 22. Variation or revocation of a consent to release genetically modified organisms[^c-0b68e601e2905aeb9798a35fa6eb1980]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b68e601e2905aeb9798a35fa6eb1980]: Commencement: Reg. 22 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-0b68e601e2905aeb9798a35fa6eb1980]: Commencement: Reg. 22 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)

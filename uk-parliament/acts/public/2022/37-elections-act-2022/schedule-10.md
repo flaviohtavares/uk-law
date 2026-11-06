@@ -22,7 +22,7 @@ summary: ''
 
 Section 38
 
-### 1. Electoral Law Act (Northern Ireland) 1962[^key-1835d80a78aae2f069d229a6814c459a][^key-8333ee277deeeb466e04dba9f4ba8a26]
+### 1. Electoral Law Act (Northern Ireland) 1962[^c-1835d80a78aae2f069d229a6814c459a][^c-8333ee277deeeb466e04dba9f4ba8a26]
 
 (1) Schedule 5 to the Electoral Law Act (Northern Ireland) 1962 (local elections rules) is amended as follows.
 
@@ -32,7 +32,7 @@ Section 38
 
 (3) In the Appendix of Forms, in form 2 (consent to nomination), after “printed overleaf” insert “, or by reason of an order under section 30 of the Elections Act 2022”.
 
-### 2. Local Government Act 1972[^key-8813508e1505c0c469822159bccebd22][^key-8e43f52c1c2f130e61e0e0b877a62feb]
+### 2. Local Government Act 1972[^c-8813508e1505c0c469822159bccebd22][^c-8e43f52c1c2f130e61e0e0b877a62feb]
 
 (1) The Local Government Act 1972 is amended as follows.
 
@@ -51,7 +51,7 @@ Section 38
 
   > (1A) In a case where subsection (1)(db) and one or both of subsections (1)(d) and (1)(da) apply in relation to a vacancy, the vacancy is to be deemed to have occurred on the date mentioned in subsection (1)(db).
 
-### 3. Local Government Act (Northern Ireland) 1972[^key-393da264314cc6357aeb05b504b12c83][^key-e737210fb8b6a7c588b1a47309093a38]
+### 3. Local Government Act (Northern Ireland) 1972[^c-393da264314cc6357aeb05b504b12c83][^c-e737210fb8b6a7c588b1a47309093a38]
 
 (1) The Local Government Act (Northern Ireland) 1972 is amended as follows.
 
@@ -70,13 +70,13 @@ Section 38
   >
   > section 31 of the Elections Act 2022 (vacation of office) applies in relation to the vacation of the office (and accordingly subsection (1) does not apply).
 
-### 4. Representation of the People Act 1983[^key-49052fb28235e7c445443e3b4658297f][^key-fd3bd7eff3e0f883c1e8cc0a418c4767]
+### 4. Representation of the People Act 1983[^c-49052fb28235e7c445443e3b4658297f][^c-fd3bd7eff3e0f883c1e8cc0a418c4767]
 
 (1) Schedule 1 to RPA 1983 (parliamentary election rules) is amended as follows.
 
 (2) In rule 12(2)(c) (validity of nomination), after “1981” insert “or by virtue of an order under section 30 of the Elections Act 2022”.
 
-### 5. Northern Ireland Act 1998[^key-45be767c080c46f17fe3bf0c1491a199][^key-fba986d3c1bc73207ff07cbd1e9d7f94]
+### 5. Northern Ireland Act 1998[^c-45be767c080c46f17fe3bf0c1491a199][^c-fba986d3c1bc73207ff07cbd1e9d7f94]
 
 (1) The Northern Ireland Act 1998 is amended as follows.
 
@@ -85,7 +85,7 @@ Section 38
 - (a) after “etc)” insert “and section 31 of the Elections Act 2022 (disqualification of offenders for holding elective office etc)”;
 - (b) for “that section” substitute “either of those sections”.
 
-### 6. Greater London Authority Act 1999[^key-fe8fcab4fee6a9d260aa78609ec2e318][^key-9eb8c4eae1a5d63376038048d4619d32]
+### 6. Greater London Authority Act 1999[^c-fe8fcab4fee6a9d260aa78609ec2e318][^c-9eb8c4eae1a5d63376038048d4619d32]
 
 (1) The Greater London Authority Act 1999 is amended as follows.
 
@@ -116,7 +116,7 @@ Section 38
 
 .
 
-### 7. Government of Wales Act 2006[^key-db1c797f1cba9d2bd2763468fccaaf51][^key-e1e58e2f86d05a7ee5c54bf84652e8ba]
+### 7. Government of Wales Act 2006[^c-db1c797f1cba9d2bd2763468fccaaf51][^c-e1e58e2f86d05a7ee5c54bf84652e8ba]
 
 (1) The Government of Wales Act 2006 is amended as follows.
 
@@ -135,7 +135,7 @@ Section 38
 >
 > A person subject to a disqualification order under section 30 of the Elections Act 2022 (disqualification of offenders for holding elective office etc).
 
-### 8. Armed Forces Act 2006[^key-642b46d7fd3eb6022c2a54fb3d845fec][^key-eea9150f19e63e0fb2afdae53ca121aa]
+### 8. Armed Forces Act 2006[^c-642b46d7fd3eb6022c2a54fb3d845fec][^c-eea9150f19e63e0fb2afdae53ca121aa]
 
 (1) The Armed Forces Act 2006 is amended as follows.
 
@@ -192,7 +192,7 @@ Section 38
 >
 > References (however expressed) in any enactment to an order under section 30 of the Elections Act 2022 include references to an order under section 236A.
 
-### 9. Police Reform and Social Responsibility Act 2011[^key-0815f3f24be80dd2c04ec7945f1fdf6c][^key-b8ed4675fd8cf037fe0215fde74c581e]
+### 9. Police Reform and Social Responsibility Act 2011[^c-0815f3f24be80dd2c04ec7945f1fdf6c][^c-b8ed4675fd8cf037fe0215fde74c581e]
 
 (1) The Police Reform and Social Responsibility Act 2011 is amended as follows.
 
@@ -207,7 +207,7 @@ Section 38
 
   > (2A) In a case where subsection (1)(e) and (d) (in the case of a disqualification by virtue of section 66(3)(c)) apply in relation to a vacancy, the vacancy is to be regarded as occurring on the date mentioned in subsection (1)(e).
 
-### 10. Sentencing Act 2020[^key-c97061d432ec2d17cd258c9f7405107c][^key-f7799546fb8ef1066015698e0bfb5892]
+### 10. Sentencing Act 2020[^c-c97061d432ec2d17cd258c9f7405107c][^c-f7799546fb8ef1066015698e0bfb5892]
 
 (1) The Sentencing Act 2020 is amended as follows.
 
@@ -222,42 +222,42 @@ Section 38
 
 ## Annotations
 
-[^key-1835d80a78aae2f069d229a6814c459a]: Commencement: Sch. 10 para. 1 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-1835d80a78aae2f069d229a6814c459a]: Commencement: Sch. 10 para. 1 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-8333ee277deeeb466e04dba9f4ba8a26]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2022/37/schedule/10/paragraph/1) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/k) (with [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/1)[(2)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/2))
+[^c-8333ee277deeeb466e04dba9f4ba8a26]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2022/37/schedule/10/paragraph/1) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/k) (with [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/1)[(2)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/2))
 
-[^key-8813508e1505c0c469822159bccebd22]: Commencement: Sch. 10 para. 2 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-8813508e1505c0c469822159bccebd22]: Commencement: Sch. 10 para. 2 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-8e43f52c1c2f130e61e0e0b877a62feb]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2022/37/schedule/10/paragraph/2) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/k)
+[^c-8e43f52c1c2f130e61e0e0b877a62feb]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2022/37/schedule/10/paragraph/2) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/k)
 
-[^key-393da264314cc6357aeb05b504b12c83]: Commencement: Sch. 10 para. 3 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-393da264314cc6357aeb05b504b12c83]: Commencement: Sch. 10 para. 3 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-e737210fb8b6a7c588b1a47309093a38]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2022/37/schedule/10/paragraph/3) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/k)
+[^c-e737210fb8b6a7c588b1a47309093a38]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2022/37/schedule/10/paragraph/3) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/k)
 
-[^key-49052fb28235e7c445443e3b4658297f]: Commencement: Sch. 10 para. 4 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-49052fb28235e7c445443e3b4658297f]: Commencement: Sch. 10 para. 4 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-fd3bd7eff3e0f883c1e8cc0a418c4767]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2022/37/schedule/10/paragraph/4) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/k) (with [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/1))
+[^c-fd3bd7eff3e0f883c1e8cc0a418c4767]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2022/37/schedule/10/paragraph/4) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/k) (with [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/1))
 
-[^key-45be767c080c46f17fe3bf0c1491a199]: Commencement: Sch. 10 para. 5 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-45be767c080c46f17fe3bf0c1491a199]: Commencement: Sch. 10 para. 5 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-fba986d3c1bc73207ff07cbd1e9d7f94]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2022/37/schedule/10/paragraph/5) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/k)
+[^c-fba986d3c1bc73207ff07cbd1e9d7f94]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2022/37/schedule/10/paragraph/5) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/k)
 
-[^key-fe8fcab4fee6a9d260aa78609ec2e318]: Commencement: Sch. 10 para. 6 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-fe8fcab4fee6a9d260aa78609ec2e318]: Commencement: Sch. 10 para. 6 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-9eb8c4eae1a5d63376038048d4619d32]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2022/37/schedule/10/paragraph/6) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/k)
+[^c-9eb8c4eae1a5d63376038048d4619d32]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2022/37/schedule/10/paragraph/6) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/k)
 
-[^key-db1c797f1cba9d2bd2763468fccaaf51]: Commencement: Sch. 10 para. 7 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-db1c797f1cba9d2bd2763468fccaaf51]: Commencement: Sch. 10 para. 7 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-e1e58e2f86d05a7ee5c54bf84652e8ba]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2022/37/schedule/10/paragraph/7) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/k)
+[^c-e1e58e2f86d05a7ee5c54bf84652e8ba]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2022/37/schedule/10/paragraph/7) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/k)
 
-[^key-642b46d7fd3eb6022c2a54fb3d845fec]: Commencement: Sch. 10 para. 8 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-642b46d7fd3eb6022c2a54fb3d845fec]: Commencement: Sch. 10 para. 8 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-eea9150f19e63e0fb2afdae53ca121aa]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2022/37/schedule/10/paragraph/8) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/k) (with [Sch. paras. 9(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/9/3)[(4)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/9/4))
+[^c-eea9150f19e63e0fb2afdae53ca121aa]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2022/37/schedule/10/paragraph/8) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/k) (with [Sch. paras. 9(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/9/3)[(4)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/9/4))
 
-[^key-0815f3f24be80dd2c04ec7945f1fdf6c]: Commencement: Sch. 10 para. 9 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-0815f3f24be80dd2c04ec7945f1fdf6c]: Commencement: Sch. 10 para. 9 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-b8ed4675fd8cf037fe0215fde74c581e]: Commencement: [Sch. 10 para. 9](https://www.legislation.gov.uk/ukpga/2022/37/schedule/10/paragraph/9) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/k)
+[^c-b8ed4675fd8cf037fe0215fde74c581e]: Commencement: [Sch. 10 para. 9](https://www.legislation.gov.uk/ukpga/2022/37/schedule/10/paragraph/9) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/k)
 
-[^key-c97061d432ec2d17cd258c9f7405107c]: Commencement: Sch. 10 para. 10 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-c97061d432ec2d17cd258c9f7405107c]: Commencement: Sch. 10 para. 10 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-f7799546fb8ef1066015698e0bfb5892]: Commencement: [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/2022/37/schedule/10/paragraph/10) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/k)
+[^c-f7799546fb8ef1066015698e0bfb5892]: Commencement: [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/2022/37/schedule/10/paragraph/10) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/k)

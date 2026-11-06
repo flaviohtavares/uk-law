@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 75. Restriction on varying application after service of notice of appeal[^key-981c2662bb993b9659b3691dc8c283d6]
+## 75. Restriction on varying application after service of notice of appeal[^c-981c2662bb993b9659b3691dc8c283d6]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-981c2662bb993b9659b3691dc8c283d6]: Commencement: S. 75 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-981c2662bb993b9659b3691dc8c283d6]: Commencement: S. 75 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

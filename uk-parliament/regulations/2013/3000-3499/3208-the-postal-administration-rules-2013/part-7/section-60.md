@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Value of security[^key-01b7b87a078ad76f1ce8e59f5e805a6c]
+## 60. Value of security[^c-01b7b87a078ad76f1ce8e59f5e805a6c]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01b7b87a078ad76f1ce8e59f5e805a6c]: Commencement: [Rule 60](https://www.legislation.gov.uk/uksi/2013/3208/rule/60) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-01b7b87a078ad76f1ce8e59f5e805a6c]: Commencement: [Rule 60](https://www.legislation.gov.uk/uksi/2013/3208/rule/60) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

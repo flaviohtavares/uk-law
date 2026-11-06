@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. The Board[^key-b74e7086b85700227e56c7c1e6ba9209][^key-d1819d1ae7e415889501b1875ac1fbcf]
+## 6. The Board[^c-b74e7086b85700227e56c7c1e6ba9209][^c-d1819d1ae7e415889501b1875ac1fbcf]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b74e7086b85700227e56c7c1e6ba9209]: Commencement: S. 6 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-b74e7086b85700227e56c7c1e6ba9209]: Commencement: S. 6 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-d1819d1ae7e415889501b1875ac1fbcf]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2025/31/section/6) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/a)
+[^c-d1819d1ae7e415889501b1875ac1fbcf]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2025/31/section/6) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/a)

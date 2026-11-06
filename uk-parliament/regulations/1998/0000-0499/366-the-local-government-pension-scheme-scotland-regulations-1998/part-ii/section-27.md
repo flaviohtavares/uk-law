@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Amounts of ill-health pension and grant[^key-72f156017f237917af4da804ded9cea0]
+## 27. Amounts of ill-health pension and grant[^c-72f156017f237917af4da804ded9cea0]
 
 *Extent: E+W+S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72f156017f237917af4da804ded9cea0]: Commencement: Reg. 27 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-72f156017f237917af4da804ded9cea0]: Commencement: Reg. 27 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

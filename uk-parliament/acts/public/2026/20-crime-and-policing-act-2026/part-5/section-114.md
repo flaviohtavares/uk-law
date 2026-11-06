@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Sexual activity with an animal[^key-a3ddf7fc108ecb80900b6f9d9ce52a1a][^key-af6f902c1363a39d13360324bf6e73dc]
+## 114. Sexual activity with an animal[^c-a3ddf7fc108ecb80900b6f9d9ce52a1a][^c-af6f902c1363a39d13360324bf6e73dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a3ddf7fc108ecb80900b6f9d9ce52a1a]: Commencement: S. 114 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-a3ddf7fc108ecb80900b6f9d9ce52a1a]: Commencement: S. 114 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-af6f902c1363a39d13360324bf6e73dc]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2026/20/section/114) in force at 29.9.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/3/a)
+[^c-af6f902c1363a39d13360324bf6e73dc]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2026/20/section/114) in force at 29.9.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/3/a)

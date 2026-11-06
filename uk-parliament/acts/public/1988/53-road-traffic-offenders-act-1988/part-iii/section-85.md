@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(A1)[^key-bf3eede2eeae865334bacdd3c2694394] Subsections (A2) to (A4) apply in relation to an offence alleged to have taken place in England and Wales.
+(A1)[^c-bf3eede2eeae865334bacdd3c2694394] Subsections (A2) to (A4) apply in relation to an offence alleged to have taken place in England and Wales.
 
 (A2) Subject to any requirement of this Part of this Act with respect to the manner in which a person may be provided with any such document, the person may be provided with the following documents in accordance with Criminal Procedure Rules (but without prejudice to any other method of providing them), that is to say—
 
@@ -59,7 +59,7 @@ and where the person on whom such a notice is to be served is a body corporate i
 
 ## Annotations
 
-[^key-bf3eede2eeae865334bacdd3c2694394]: Textual amendment: [S. 85(A1)-(A5)](https://www.legislation.gov.uk/ukpga/1988/53/section/85/A1) inserted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3), [Sch. 1 para. 11(6)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/1/paragraph/11/6)
+[^c-bf3eede2eeae865334bacdd3c2694394]: Textual amendment: [S. 85(A1)-(A5)](https://www.legislation.gov.uk/ukpga/1988/53/section/85/A1) inserted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3), [Sch. 1 para. 11(6)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/1/paragraph/11/6)
 
 [^c18165451]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 

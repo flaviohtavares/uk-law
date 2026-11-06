@@ -45,7 +45,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 ## Part I — General
 
-### 1. Citation, commencement and interpretation[^key-1422a82126f6bccd18b015354b0ba3f7]
+### 1. Citation, commencement and interpretation[^c-1422a82126f6bccd18b015354b0ba3f7]
 
 (1) These Regulations may be cited as the Child Support (Consequential Amendments and Transitional Provisions) Regulations (Northern Ireland) 2001 and shall, subject to paragraph (2), come into operation in relation to a particular case on the date on which section 1 of the Act comes into operation in relation to that type of case.
 
@@ -66,26 +66,26 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendment of the Income Support Regulations[^key-7cfdf9343ff9b2fe1573e481c5ebe813]
+### 3. Amendment of the Income Support Regulations[^c-7cfdf9343ff9b2fe1573e481c5ebe813]
 
 (1) The Income Support Regulations shall be amended in accordance with paragraphs (2) and (3).
 
-(2)[^key-ec871686c326d599eeeec7b7b45496c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ec871686c326d599eeeec7b7b45496c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In Schedule 3 (housing costs) in paragraph 14(2)[^f00009]—
 
 - (a) subject to sub-paragraph (*b*), for “assessment” wherever it appears there shall be substituted “calculation”; and
 - (b) in head (*b*) for “interim maintenance assessment” wherever it appears there shall be substituted “interim maintenance decision or default maintenance decision”.
 
-### 4. Amendment of the Jobseeker’s Allowance Regulations[^key-2110b8a27273ddd772f2addb41ada858]
+### 4. Amendment of the Jobseeker’s Allowance Regulations[^c-2110b8a27273ddd772f2addb41ada858]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Amendment of the Maintenance Payments Regulations[^key-05e0489b501fc8413fd807793e7e0ed2]
+### 5. Amendment of the Maintenance Payments Regulations[^c-05e0489b501fc8413fd807793e7e0ed2]
 
 In regulation 2(*a*)(ii) of the Maintenance Payments Regulations (interpretation for the purposes of section 72A of the Act) for “assessment” there shall be substituted “calculation”.
 
-### 6. Amendment of the New Deal (Miscellaneous Provisions) Order[^key-054d613474870e61484ef3d5ab4f5010]
+### 6. Amendment of the New Deal (Miscellaneous Provisions) Order[^c-054d613474870e61484ef3d5ab4f5010]
 
 In the Schedule to the New Deal (Miscellaneous Provisions) Order (Northern Ireland) 1998[^f00011] (statutory provisions) at the end there shall be added—
 
@@ -94,11 +94,11 @@ In the Schedule to the New Deal (Miscellaneous Provisions) Order (Northern Irela
 
 .
 
-### 7. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-cfd365553d604842975407456c1cf1ba]
+### 7. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^c-cfd365553d604842975407456c1cf1ba]
 
 (1) The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00014] shall be amended in accordance with paragraphs (2) to (4).
 
-(2)[^key-b959359ef575f071e5995973ff4f8561] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b959359ef575f071e5995973ff4f8561] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In regulation 33(1)(*a*)(i) (making of appeals and applications) “(including that Article as extended by paragraph 3 of Schedule 4C to that Order)” shall be omitted.
 
@@ -107,7 +107,7 @@ In the Schedule to the New Deal (Miscellaneous Provisions) Order (Northern Irela
 - (a) in paragraphs (1)(*a*), (2) and (3) for “absent parent” wherever it appears there shall be substituted “non-resident parent”; and
 - (b) in paragraph (2) for “direction” there shall be substituted “decision” and for “Article 43(11)” there shall be substituted “Article 43(10)[^f00015]”.
 
-### 8. Amendment of the New Deal Pilot for 25 Plus (Miscellaneous Provisions) Order[^key-18037c6e44129d504f6d84539de4bf4a]
+### 8. Amendment of the New Deal Pilot for 25 Plus (Miscellaneous Provisions) Order[^c-18037c6e44129d504f6d84539de4bf4a]
 
 In the Schedule to the New Deal Pilot for 25 Plus (Miscellaneous Provisions) Order (Northern Ireland) 1999[^f00016] (list of subordinate legislation) at the end there shall be added—
 
@@ -118,7 +118,7 @@ In the Schedule to the New Deal Pilot for 25 Plus (Miscellaneous Provisions) Ord
 
 ## Part III — Savings
 
-### 9. Savings for particular cases[^key-189a2ecc462ec78a8bd11ac0201e15ff]
+### 9. Savings for particular cases[^c-189a2ecc462ec78a8bd11ac0201e15ff]
 
 (1) Where, in respect of a particular case, there is a maintenance assessment the effective date of which is before the date on which these Regulations come into operation in relation to that type of case (“the commencement date”), these Regulations shall not apply for the purposes of—
 
@@ -131,7 +131,7 @@ In the Schedule to the New Deal Pilot for 25 Plus (Miscellaneous Provisions) Ord
 
 ## Part IV — Transitional Provision
 
-### 10. Transitional provision – redetermination of appeals[^key-c269cdfb268cafa08fc4d5a3031cdb71]
+### 10. Transitional provision – redetermination of appeals[^c-c269cdfb268cafa08fc4d5a3031cdb71]
 
 In relation to any particular case, before the date on which these Regulations, except for this regulation, come into operation for the purposes of that case, in Article 24A(4)(*b*) of the Order[^f00017] the reference to “qualifying persons” shall be treated as a reference to any person referred to in Article 22 of the Order[^f00018] before its amendment by the Act with a right of appeal under that Article and the reference in Article 24A(3) of the Order to “the principal parties” shall be construed accordingly.
 
@@ -165,7 +165,7 @@ The impact on business of these Regulations was covered in the Regulatory Impact
 
 [^f00001]: Footnote: [2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4)
 
-[^key-1422a82126f6bccd18b015354b0ba3f7]: Commencement: Reg. 1 in operation at 15.2.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/29/regulation/1/2)
+[^c-1422a82126f6bccd18b015354b0ba3f7]: Commencement: Reg. 1 in operation at 15.2.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/29/regulation/1/2)
 
 [^f00002]: Footnote: S.I. [1991/2628 (N.I. 23)](https://www.legislation.gov.uk/nisi/1991/2628)
 
@@ -179,17 +179,17 @@ The impact on business of these Regulations was covered in the Regulatory Impact
 
 [^M_F_91c4aaad-9aed-4f92-9405-dee049eecaf0]: Textual amendment: Reg. 2 omitted (7.4.2003) by [The Guardian’s Allowance (General) Regulations 2003 (S.I. 2003/495)](https://www.legislation.gov.uk/uksi/2003/495), [reg. 1](https://www.legislation.gov.uk/uksi/2003/495/regulation/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2003/495/schedule/part/2)
 
-[^key-7cfdf9343ff9b2fe1573e481c5ebe813]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2001/29/regulation/3) in operation at 3.3.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/29/regulation/1/1)
+[^c-7cfdf9343ff9b2fe1573e481c5ebe813]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2001/29/regulation/3) in operation at 3.3.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/29/regulation/1/1)
 
-[^key-ec871686c326d599eeeec7b7b45496c3]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/2001/29/regulation/3/2) revoked (coming into force in accordance with reg. 1(2) of the amending Rule) by [The Social Security (Child Maintenance Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/406)](https://www.legislation.gov.uk/nisr/2008/406), [Sch.](https://www.legislation.gov.uk/nisr/2008/406/schedule)
+[^c-ec871686c326d599eeeec7b7b45496c3]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/2001/29/regulation/3/2) revoked (coming into force in accordance with reg. 1(2) of the amending Rule) by [The Social Security (Child Maintenance Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/406)](https://www.legislation.gov.uk/nisr/2008/406), [Sch.](https://www.legislation.gov.uk/nisr/2008/406/schedule)
 
 [^f00009]: Footnote: Schedule 3 was substituted by regulation 2 of, and Schedule 1 to, [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301) and sub-paragraph (2) was amended by Article 7(11)(*b*)(iii) of [S.R. 1999 No. 472 (C. 36)](https://www.legislation.gov.uk/nisr/1999/472)
 
-[^key-2110b8a27273ddd772f2addb41ada858]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2001/29/regulation/4) revoked (11.4.2011) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 (S.R. 2011/135)](https://www.legislation.gov.uk/nisr/2011/135), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2011/135/schedule)
+[^c-2110b8a27273ddd772f2addb41ada858]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2001/29/regulation/4) revoked (11.4.2011) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 (S.R. 2011/135)](https://www.legislation.gov.uk/nisr/2011/135), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2011/135/schedule)
 
-[^key-05e0489b501fc8413fd807793e7e0ed2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2001/29/regulation/5) in operation at 3.3.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/29/regulation/1/1)
+[^c-05e0489b501fc8413fd807793e7e0ed2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2001/29/regulation/5) in operation at 3.3.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/29/regulation/1/1)
 
-[^key-054d613474870e61484ef3d5ab4f5010]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2001/29/regulation/6) in operation at 3.3.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/29/regulation/1/1)
+[^c-054d613474870e61484ef3d5ab4f5010]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2001/29/regulation/6) in operation at 3.3.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/29/regulation/1/1)
 
 [^f00011]: Footnote: [S.R. 1998 No. 127](https://www.legislation.gov.uk/nisr/1998/127), to which there are amendments not relevant to these Regulations
 
@@ -197,23 +197,23 @@ The impact on business of these Regulations was covered in the Regulatory Impact
 
 [^f00013]: Footnote: [S.R. 2001 No. 18](https://www.legislation.gov.uk/nisr/2001/18)
 
-[^key-cfd365553d604842975407456c1cf1ba]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2001/29/regulation/7) in operation at 3.3.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/29/regulation/1/1)
+[^c-cfd365553d604842975407456c1cf1ba]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2001/29/regulation/7) in operation at 3.3.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/29/regulation/1/1)
 
 [^f00014]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162), to which there are amendments not relevant to these Regulations
 
-[^key-b959359ef575f071e5995973ff4f8561]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/nisr/2001/29/regulation/7/2) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
+[^c-b959359ef575f071e5995973ff4f8561]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/nisr/2001/29/regulation/7/2) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
 
 [^f00015]: Footnote: Article 43 is substituted by section 18 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000
 
-[^key-18037c6e44129d504f6d84539de4bf4a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2001/29/regulation/8) in operation at 3.3.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/29/regulation/1/1)
+[^c-18037c6e44129d504f6d84539de4bf4a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2001/29/regulation/8) in operation at 3.3.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/29/regulation/1/1)
 
 [^f00016]: Footnote: [S.R. 1999 No. 278](https://www.legislation.gov.uk/nisr/1999/278)
 
-[^key-189a2ecc462ec78a8bd11ac0201e15ff]: Commencement: Reg. 9 in operation at 3.3.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/29/regulation/1/1)
+[^c-189a2ecc462ec78a8bd11ac0201e15ff]: Commencement: Reg. 9 in operation at 3.3.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/29/regulation/1/1)
 
 [^M_F_653f7d63-d837-4784-c14b-2e8e2e12cf9d]: Textual amendment: Reg. 9(1)(a) omitted (7.4.2003) by [The Guardian’s Allowance (General) Regulations 2003 (S.I. 2003/495)](https://www.legislation.gov.uk/uksi/2003/495), [reg. 1](https://www.legislation.gov.uk/uksi/2003/495/regulation/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2003/495/schedule/part/2)
 
-[^key-c269cdfb268cafa08fc4d5a3031cdb71]: Commencement: Reg. 10 in operation at 15.2.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/29/regulation/1/2)
+[^c-c269cdfb268cafa08fc4d5a3031cdb71]: Commencement: Reg. 10 in operation at 15.2.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/29/regulation/1/2)
 
 [^f00017]: Footnote: Article 24A is inserted by section 11 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000
 

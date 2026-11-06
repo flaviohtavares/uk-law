@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 20 — Prisoners liable to removal from United Kingdom: modifications of Criminal Justice Act 1991[^key-a9d3ebc2c5d67a8384f1489955e28626]
+## SCHEDULE 20 — Prisoners liable to removal from United Kingdom: modifications of Criminal Justice Act 1991[^c-a9d3ebc2c5d67a8384f1489955e28626]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9d3ebc2c5d67a8384f1489955e28626]: Textual amendment: Sch. 20 omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 16 para. 16](https://www.legislation.gov.uk/ukpga/2012/10/schedule/16/paragraph/16); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(n)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/n)
+[^c-a9d3ebc2c5d67a8384f1489955e28626]: Textual amendment: Sch. 20 omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 16 para. 16](https://www.legislation.gov.uk/ukpga/2012/10/schedule/16/paragraph/16); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(n)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/n)

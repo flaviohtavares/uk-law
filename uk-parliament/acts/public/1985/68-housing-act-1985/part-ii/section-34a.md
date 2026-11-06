@@ -61,7 +61,7 @@ summary: ''
   - (a) in relation to England, the Secretary of State; and
   - (b) in relation to Wales, the Welsh Ministers;
 - “ **relevant housing provider** ” means—
-  - (a) in relation to England, a private registered provider[^key-04b372bee1b878427681117918948523] of social housing; and
+  - (a) in relation to England, a private registered provider[^c-04b372bee1b878427681117918948523] of social housing; and
   - (b) in relation to Wales, a registered social landlord; and
 - “ **tenant group** ” means a body or other person which satisfies such conditions as may be determined by or under the regulations.
 
@@ -69,4 +69,4 @@ summary: ''
 
 [^c19876491]: Textual amendment: S. 34A inserted (1.12.2008 for E. and otherwise prosp.) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 296](https://www.legislation.gov.uk/ukpga/2008/17/section/296), [325](https://www.legislation.gov.uk/ukpga/2008/17/section/325); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/3068/article/1/2), [4(1)(b)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/1/b) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-04b372bee1b878427681117918948523]: Textual amendment: Words in [s. 34A(9)(a)](https://www.legislation.gov.uk/ukpga/1985/68/section/34A/9/a) substituted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2010/844/schedule/2/paragraph/14)
+[^c-04b372bee1b878427681117918948523]: Textual amendment: Words in [s. 34A(9)(a)](https://www.legislation.gov.uk/ukpga/1985/68/section/34A/9/a) substituted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2010/844/schedule/2/paragraph/14)

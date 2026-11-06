@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — Charitable incorporated organisations[^key-5094fe118af60ac5d0108d8b6a15fa32]
+## SCHEDULE 7 — Charitable incorporated organisations[^c-5094fe118af60ac5d0108d8b6a15fa32]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ Section 34
 
 ## Annotations
 
-[^key-5094fe118af60ac5d0108d8b6a15fa32]: Textual amendment: Schs. 4-7 repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-5094fe118af60ac5d0108d8b6a15fa32]: Textual amendment: Schs. 4-7 repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))

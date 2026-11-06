@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Notification by medical practitioner to senior coroner[^key-53497eae539054806de51c57f808da3e]
+## 18. Notification by medical practitioner to senior coroner[^c-53497eae539054806de51c57f808da3e]
 
 *Extent: E+W*
 
@@ -24,11 +24,11 @@ summary: ''
 
 (2) Before making regulations under this section the Lord Chancellor must consult—
 
-- (a) the Secretary of State for Health and Social Care[^key-4d0ba75f679951ecfc06898718b9a4b1], and
+- (a) the Secretary of State for Health and Social Care[^c-4d0ba75f679951ecfc06898718b9a4b1], and
 - (b) the Chief Coroner.
 
 ## Annotations
 
-[^key-53497eae539054806de51c57f808da3e]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2009/25/section/18) in force at 9.7.2019 by [S.I. 2019/1105](https://www.legislation.gov.uk/uksi/2019/1105), [art. 2](https://www.legislation.gov.uk/uksi/2019/1105/article/2)
+[^c-53497eae539054806de51c57f808da3e]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2009/25/section/18) in force at 9.7.2019 by [S.I. 2019/1105](https://www.legislation.gov.uk/uksi/2019/1105), [art. 2](https://www.legislation.gov.uk/uksi/2019/1105/article/2)
 
-[^key-4d0ba75f679951ecfc06898718b9a4b1]: Textual amendment: Words in [s. 18(2)(a)](https://www.legislation.gov.uk/ukpga/2009/25/section/18/2/a) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 15(a)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/15/a) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+[^c-4d0ba75f679951ecfc06898718b9a4b1]: Textual amendment: Words in [s. 18(2)(a)](https://www.legislation.gov.uk/ukpga/2009/25/section/18/2/a) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 15(a)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/15/a) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))

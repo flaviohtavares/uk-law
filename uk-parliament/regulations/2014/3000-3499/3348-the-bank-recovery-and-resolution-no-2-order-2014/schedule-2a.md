@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2A — Additional information which may be required for the purposes of a resolution plan or group resolution plan[^key-ee63ccf5327fceaf537897f748730f02]
+## SCHEDULE 2A — Additional information which may be required for the purposes of a resolution plan or group resolution plan[^c-ee63ccf5327fceaf537897f748730f02]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ Article 8(3)(a)
 
 ## Annotations
 
-[^key-ee63ccf5327fceaf537897f748730f02]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/uksi/2014/3348/schedule/2A) inserted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 119](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/119); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ee63ccf5327fceaf537897f748730f02]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/uksi/2014/3348/schedule/2A) inserted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 119](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/119); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

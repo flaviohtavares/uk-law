@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. River not to be a reservoir[^key-086cf3a1ea1e01e17a798335f1f5e5c0]
+## 8. River not to be a reservoir[^c-086cf3a1ea1e01e17a798335f1f5e5c0]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Regardless of the provisions of section A1 of the Reservoirs Act 1975[^f00033], 
 
 ## Annotations
 
-[^key-086cf3a1ea1e01e17a798335f1f5e5c0]: Commencement: Art. 8 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-086cf3a1ea1e01e17a798335f1f5e5c0]: Commencement: Art. 8 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
 [^f00033]: Footnote: [1975 c. 23](https://www.legislation.gov.uk/ukpga/1975/23). Section A1 was inserted by section 33 of the Flood and Water Management Act [2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29).

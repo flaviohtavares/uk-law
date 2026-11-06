@@ -45,13 +45,13 @@ Coming into force
 
 The Secretary of State, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to the acquisition by companies of their own shares, and to distributions to their shareholders, in exercise of the powers conferred on her by section 2(2) of that Act and of all other powers enabling her in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-c4a7560a7824302540d716e4336f589e]
+## 1. Citation, commencement and interpretation[^c-c4a7560a7824302540d716e4336f589e]
 
 (1) These Regulations may be cited as the Companies (Acquisition of Own Shares) (Treasury Shares) Regulations 2003 and shall come into force on 1st December 2003.
 
 (2) In these Regulations, “the 1985 Act” means the Companies Act 1985[^f00003].
 
-## 2. Amendment of section 162[^key-5401ab1ec23a3bd2ae6867367baf3446]
+## 2. Amendment of section 162[^c-5401ab1ec23a3bd2ae6867367baf3446]
 
 (1) Amend section 162 of the 1985 Act (power of company to purchase own shares)[^f00004] as follows.
 
@@ -82,7 +82,7 @@ The Secretary of State, being a Minister designated[^f00001] for the purposes of
 
 .
 
-## 3. Insertion of sections 162A, 162B, 162C, 162D, 162E, 162F and 162G[^key-7781d644c543306e48a08d32a6e3a23b]
+## 3. Insertion of sections 162A, 162B, 162C, 162D, 162E, 162F and 162G[^c-7781d644c543306e48a08d32a6e3a23b]
 
 After section 162 of the 1985 Act insert the following sections—
 
@@ -182,7 +182,7 @@ After section 162 of the 1985 Act insert the following sections—
 
 .
 
-## 4. Consequential amendments[^key-aea3a07bf9fe7226e33893a48a5b462a]
+## 4. Consequential amendments[^c-aea3a07bf9fe7226e33893a48a5b462a]
 
 The Schedule to these Regulations (which contains consequential amendments) has effect.
 
@@ -196,7 +196,7 @@ Parliamentary Under Secretary of State for Competition, Consumers and Markets,De
 
 Regulation 4
 
-### 1. Amendment of section 5 of the 1985 Act[^key-4a96e225f70776d954cbd8222251da7a]
+### 1. Amendment of section 5 of the 1985 Act[^c-4a96e225f70776d954cbd8222251da7a]
 
 In section 5 of the 1985 Act (procedure for objecting to alteration of company’s objects) after subsection (7) insert—
 
@@ -204,7 +204,7 @@ In section 5 of the 1985 Act (procedure for objecting to alteration of company�
 
 .
 
-### 2. Amendment of section 24 of the 1985 Act[^key-dc55cb6d1f57045b3a881ef7ff3336c5]
+### 2. Amendment of section 24 of the 1985 Act[^c-dc55cb6d1f57045b3a881ef7ff3336c5]
 
 In section 24 of the 1985 Act (minimum membership for carrying on business)[^f00007], the existing provision becomes subsection (1) of that section, and at the end insert—
 
@@ -212,7 +212,7 @@ In section 24 of the 1985 Act (minimum membership for carrying on business)[^f00
 
 .
 
-### 3. Amendment of section 54 of the 1985 Act[^key-475c57d4eb604978aab26dab061570c9]
+### 3. Amendment of section 54 of the 1985 Act[^c-475c57d4eb604978aab26dab061570c9]
 
 In section 54 of the 1985 Act (litigated objection to resolution under section 53) after subsection (2) insert—
 
@@ -220,7 +220,7 @@ In section 54 of the 1985 Act (litigated objection to resolution under section 5
 
 .
 
-### 4. Amendment of section 89 of the 1985 Act[^key-ebf1d4533e42e72c7ec9bc595a13ac6c]
+### 4. Amendment of section 89 of the 1985 Act[^c-ebf1d4533e42e72c7ec9bc595a13ac6c]
 
 In section 89 of the 1985 Act (offers to shareholders to be on pre-emptive basis) after subsection (5) insert—
 
@@ -228,7 +228,7 @@ In section 89 of the 1985 Act (offers to shareholders to be on pre-emptive basis
 
 .
 
-### 5. Amendment of section 94 of the 1985 Act[^key-3b0727c658e765e3bf33ea920a342eba]
+### 5. Amendment of section 94 of the 1985 Act[^c-3b0727c658e765e3bf33ea920a342eba]
 
 (1) Amend section 94 of the 1985 Act (definitions for sections 89–96) as follows.
 
@@ -240,7 +240,7 @@ In section 89 of the 1985 Act (offers to shareholders to be on pre-emptive basis
 
 .
 
-### 6. Amendment of section 95 of the 1985 Act[^key-2dc4fb489bc4507bb3b35cbe0b6dc025]
+### 6. Amendment of section 95 of the 1985 Act[^c-2dc4fb489bc4507bb3b35cbe0b6dc025]
 
 In section 95 of the 1985 Act (disapplication of pre-emption rights) after subsection (2) insert—
 
@@ -251,7 +251,7 @@ In section 95 of the 1985 Act (disapplication of pre-emption rights) after subse
 
 .
 
-### 7. Amendment of section 103 of the 1985 Act[^key-6d47a16120755bfff3365ac51cfbafb1]
+### 7. Amendment of section 103 of the 1985 Act[^c-6d47a16120755bfff3365ac51cfbafb1]
 
 In section 103(4) of the 1985 Act (non-cash consideration to be valued before allotment)[^f00008]—
 
@@ -270,7 +270,7 @@ In section 103(4) of the 1985 Act (non-cash consideration to be valued before al
 
   .
 
-### 8. Amendment of section 125 of the 1985 Act[^key-f4ee874a3523eca2e43e3b1358d0a306]
+### 8. Amendment of section 125 of the 1985 Act[^c-f4ee874a3523eca2e43e3b1358d0a306]
 
 (1) Amend section 125 of the 1985 Act (variation of class rights) as follows.
 
@@ -280,7 +280,7 @@ In section 103(4) of the 1985 Act (non-cash consideration to be valued before al
 
 (4) In subsection (6)(a) after the word “question” where it first appears insert the words “(excluding any shares of that class held as treasury shares)”.
 
-### 9. Amendment of section 127 of the 1985 Act[^key-1e849b0f90d9f0bbc5ea2f8af1bfd38c]
+### 9. Amendment of section 127 of the 1985 Act[^c-1e849b0f90d9f0bbc5ea2f8af1bfd38c]
 
 In section 127 of the 1985 Act (shareholders' right to object to variation) after subsection (2) insert—
 
@@ -288,11 +288,11 @@ In section 127 of the 1985 Act (shareholders' right to object to variation) afte
 
 .
 
-### 10. Amendment of section 131 of the 1985 Act[^key-3fd7c40a8b724f82012f3a901e427051]
+### 10. Amendment of section 131 of the 1985 Act[^c-3fd7c40a8b724f82012f3a901e427051]
 
 In section 131 of the 1985 Act (merger relief)[^f00009], at the end of subsection (4) insert “(excluding any shares in that company held as treasury shares)”.
 
-### 11. Amendment of section 143 of the 1985 Act[^key-8afb42bf58581c40f6a1d4c508f13740]
+### 11. Amendment of section 143 of the 1985 Act[^c-8afb42bf58581c40f6a1d4c508f13740]
 
 In section 143 of the 1985 Act (general rule against company acquiring own shares)—
 
@@ -303,7 +303,7 @@ In section 143 of the 1985 Act (general rule against company acquiring own share
 
   .
 
-### 12. Amendment of section 169 of the 1985 Act[^key-9f9d6ddb05c5ba27ad3f565294eef47a]
+### 12. Amendment of section 169 of the 1985 Act[^c-9f9d6ddb05c5ba27ad3f565294eef47a]
 
 (1) Amend section 169 of the 1985 Act (disclosure by company of purchase of own shares)[^f00010] as follows.
 
@@ -317,9 +317,9 @@ In section 143 of the 1985 Act (general rule against company acquiring own share
 
 (3) In subsection (2) for “the return” substitute “any return under subsection (1) or (1B)”.
 
-(4)[^key-3ee836bafa66325654f93a87dc8c3ae7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3ee836bafa66325654f93a87dc8c3ae7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Insertion of section 169A of the 1985 Act[^key-46670301827bba44e867e413513063e5]
+### 13. Insertion of section 169A of the 1985 Act[^c-46670301827bba44e867e413513063e5]
 
 After section 169 of the 1985 Act insert the following section—
 
@@ -343,22 +343,22 @@ After section 169 of the 1985 Act insert the following section—
 
 .
 
-### 14. Amendment of section 170 of the 1985 Act[^key-bf440ee523372a95a63e95e1a7d6fcd9]
+### 14. Amendment of section 170 of the 1985 Act[^c-bf440ee523372a95a63e95e1a7d6fcd9]
 
 In section 170(1) of the 1985 Act (the capital redemption reserve) before the words “shall be transferred” insert “, or in accordance with section 162D(4) on cancellation of shares held as treasury shares,”.
 
-### 15. Amendment of section 198 of the 1985 Act[^key-2e665e92bbe1195b11bc94987ba3a27f]
+### 15. Amendment of section 198 of the 1985 Act[^c-2e665e92bbe1195b11bc94987ba3a27f]
 
 In section 198(2) of the 1985 Act (obligations of disclosure: the cases in which it may arise and the “the relevant time”)[^f00011]—
 
 - (a) after “general meetings of the company” insert “(excluding any shares in the company held as treasury shares)”, and
 - (b) in paragraph (a) after “separately” insert “(excluding any shares of each class held as treasury shares)”.
 
-### 16. Amendment of section 214 of the 1985 Act[^key-31ed9b9a0774d954857f6487683bd9a2]
+### 16. Amendment of section 214 of the 1985 Act[^c-31ed9b9a0774d954857f6487683bd9a2]
 
 In section 214 of the 1985 Act (company investigation on requisition by members) at the end of subsection (1) insert “(excluding any shares in the company held as treasury shares)”.
 
-### 17. Amendment of section 346 of the 1985 Act[^key-a1bb1c612397ef033923130e858d6a38]
+### 17. Amendment of section 346 of the 1985 Act[^c-a1bb1c612397ef033923130e858d6a38]
 
 In section 346 of the 1985 Act (“connected persons”, etc)—
 
@@ -368,7 +368,7 @@ In section 346 of the 1985 Act (“connected persons”, etc)—
   - (i) after “that share capital” insert “(excluding any shares in the company held as treasury shares)” and
   - (ii) after “voting power” insert “(excluding any voting rights attached to any shares in the company held as treasury shares)”.
 
-### 18. Amendment of section 352 of the 1985 Act[^key-e2c4d4785063838997c6a046dd394810]
+### 18. Amendment of section 352 of the 1985 Act[^c-e2c4d4785063838997c6a046dd394810]
 
 In section 352 of the 1985 Act (obligation to keep and enter up register of members) after subsection (3) insert—
 
@@ -379,7 +379,7 @@ In section 352 of the 1985 Act (obligation to keep and enter up register of memb
 
 .
 
-### 19. Amendment of section 368 of the 1985 Act[^key-3ba31adce124f7df5f89cd3ce2c3c2bc]
+### 19. Amendment of section 368 of the 1985 Act[^c-3ba31adce124f7df5f89cd3ce2c3c2bc]
 
 In section 368 of the 1985 Act (extraordinary general meeting on members' requisition)[^f00012] after subsection (2) insert—
 
@@ -387,30 +387,30 @@ In section 368 of the 1985 Act (extraordinary general meeting on members' requis
 
 .
 
-### 20. Amendment of section 369 of the 1985 Act[^key-51013e2c7b540a30521f07a28b0f9563]
+### 20. Amendment of section 369 of the 1985 Act[^c-51013e2c7b540a30521f07a28b0f9563]
 
 In section 369 of the 1985 Act (length of notice for calling meetings)[^f00013] in subsection (4)(a) after “meeting” insert “(excluding any shares in the company held as treasury shares)”.
 
-### 21. Amendment of section 370 of the 1985 Act[^key-93f3719a8c1a66d11db3c92ac72489bf]
+### 21. Amendment of section 370 of the 1985 Act[^c-93f3719a8c1a66d11db3c92ac72489bf]
 
 In section 370 of the 1985 Act (general provisions as to meetings and votes) in subsection (3) after the first “capital” insert “(excluding any shares in the company held as treasury shares)”.
 
-### 22. Amendment of section 373 of the 1985 Act[^key-038f1521ba2e96b33d08c1674bd88e81]
+### 22. Amendment of section 373 of the 1985 Act[^c-038f1521ba2e96b33d08c1674bd88e81]
 
 In section 373 of the 1985 Act (right to demand a poll)[^f00014]
 
 - (a) in subsection (1)(b)(ii) after “meeting” insert “(excluding any voting rights attached to any shares in the company held as treasury shares)”, and
 - (b) at the end of section (1)(b)(iii) insert “(excluding any shares in the company conferring a right to vote at the meeting which are held as treasury shares)”.
 
-### 23. Amendment of section 376 of the 1985 Act[^key-343ed7b0d8cc8136fca627b371f38c82]
+### 23. Amendment of section 376 of the 1985 Act[^c-343ed7b0d8cc8136fca627b371f38c82]
 
 In section 376 of the 1985 Act (circulation of members' resolutions) in subsection (2)(a) after “relates” insert “(excluding any voting rights attached to any shares in the company held as treasury shares)”.
 
-### 24. Amendment of section 378 of the 1985 Act[^key-1ff7425cbc31e3df2b054a6e65b1d458]
+### 24. Amendment of section 378 of the 1985 Act[^c-1ff7425cbc31e3df2b054a6e65b1d458]
 
 In section 378 of the 1985 Act (extraordinary and special resolutions)[^f00015] in subsection (3)(a) after “right” insert “(excluding any shares in the company held as treasury shares)”.
 
-### 25. Amendment of section 380 of the 1985 Act[^key-2c0065a1f890ae10f895fc211e5fba86]
+### 25. Amendment of section 380 of the 1985 Act[^c-2c0065a1f890ae10f895fc211e5fba86]
 
 In section 380 of the 1985 Act (registration, etc of resolutions and agreements)[^f00016] after subsection (4) insert—
 
@@ -418,31 +418,31 @@ In section 380 of the 1985 Act (registration, etc of resolutions and agreements)
 
 .
 
-### 26. Amendment of section 429 of the 1985 Act[^key-530cb20ab7761d89b2e0a2168f218b8c]
+### 26. Amendment of section 429 of the 1985 Act[^c-530cb20ab7761d89b2e0a2168f218b8c]
 
 In section 429 of the 1985 Act (right of offeror to buy out minority shareholders)[^f00017]—
 
 - (a) in subsection (1) before “he may” insert “(excluding any shares in the company held as treasury shares)”, and
 - (b) in subsection (2) before “, he may” insert “(excluding any shares in the company held as treasury shares)”.
 
-### 27. Amendment of section 430A of the 1985 Act[^key-74ccd3c68115e21ad710bab927f33b06]
+### 27. Amendment of section 430A of the 1985 Act[^c-74ccd3c68115e21ad710bab927f33b06]
 
 In section 430A of the 1985 Act (right of minority shareholder to be bought out by offeror)[^f00018]—
 
 - (a) at the end of subsection (1)(b) insert “(excluding any shares in the company held as treasury shares)”, and
 - (b) at the end of subsection (2)(b) insert “(excluding any shares in the company held as treasury shares)”.
 
-### 28. Amendment of section 431 of the 1985 Act[^key-1c56d37bf23117e17e19ac80274a1427]
+### 28. Amendment of section 431 of the 1985 Act[^c-1c56d37bf23117e17e19ac80274a1427]
 
 In section 431 of the 1985 Act (investigation of a company on its own application or that of its members) at the end of subsection (2)(a) insert “(excluding any shares held as treasury shares)”.
 
-### 29. Amendment of section 744A of the 1985 Act[^key-db115e2fa81e89f2f662d745572d4634]
+### 29. Amendment of section 744A of the 1985 Act[^c-db115e2fa81e89f2f662d745572d4634]
 
 In section 744A of the 1985 Act (index of defined expressions), at the appropriate place in the Table insert—
 
 - “treasury shares section 162A(3)”.
 
-### 30. Amendment of paragraph 38, Schedule 4 to the 1985 Act[^key-6111f842498854ff260b89a9053e06b4]
+### 30. Amendment of paragraph 38, Schedule 4 to the 1985 Act[^c-6111f842498854ff260b89a9053e06b4]
 
 In Schedule 4 to the 1985 Act (form and content of company accounts)[^f00019]—
 
@@ -455,18 +455,18 @@ In Schedule 4 to the 1985 Act (form and content of company accounts)[^f00019]—
 
   .
 
-### 31. Amendment of paragraph 10, Schedule 4A to the 1985 Act[^key-8dec88e59f1dae75b89238d40937ab9f]
+### 31. Amendment of paragraph 10, Schedule 4A to the 1985 Act[^c-8dec88e59f1dae75b89238d40937ab9f]
 
 In Schedule 4A to the 1985 Act (form and content of group accounts)[^f00020] in paragraph 10(1)(a) after “acquired” insert “(excluding any shares in the undertaking held as treasury shares)”.
 
-### 32. Amendment of paragraphs 10 and 12, Schedule 15B to the 1985 Act[^key-5dfe95bc2cf17f8278f0928081dfff81]
+### 32. Amendment of paragraphs 10 and 12, Schedule 15B to the 1985 Act[^c-5dfe95bc2cf17f8278f0928081dfff81]
 
 In Schedule 15B to the 1985 Act (provisions subject to which sections 425–427 have effect in their application to mergers and divisions of public companies)[^f00021]—
 
 - (a) in paragraph 10(2)(c) after “general meetings of the company” insert “(excluding any shares in the company held as treasury shares)”, and
 - (b) in paragraph 12(5)(c) after “general meetings of the company” insert “(excluding any shares in the company held as treasury shares)”.
 
-### 33. Amendment of Schedule 24 to the 1985 Act[^key-1c5318cb30f755884213ad18e871dc8a]
+### 33. Amendment of Schedule 24 to the 1985 Act[^c-1c5318cb30f755884213ad18e871dc8a]
 
 In Schedule 24 to the 1985 Act (punishment of offences under the 1985 Act[^f00022] at the appropriate place in the Table insert—
 
@@ -475,7 +475,7 @@ In Schedule 24 to the 1985 Act (punishment of offences under the 1985 Act[^f0002
 | “162G | Contravention of any provision of sections 162A–162F (dealings by company in treasury shares, etc) | - 1. On indictment<br>- 2. Summary | A fine<br>The statutory maximum” |  |
 | “169A(4) | Default by company’s officer in delivering to registrar the return required by section 169A (disclosure by company of cancellation or disposal of treasury shares) | - 1. On indictment<br>- 2. Summary | A fine<br>The statutory maximum | One-tenth of the statutory maximum.”. |
 
-### 34. Repeal of section 133(4) of the Companies Act 1989[^key-8f090e7f5745b81534d1255aca69b7dd]
+### 34. Repeal of section 133(4) of the Companies Act 1989[^c-8f090e7f5745b81534d1255aca69b7dd]
 
 Section 133(4) of the Companies Act 1989[^f00023], which substituted a new section 162(2) of the 1985 Act as from a day to be appointed, is repealed.
 
@@ -497,11 +497,11 @@ These Regulations further implement the Council Directive [77/91/EEC](https://ww
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68): as amended by the European Economic Area Act [1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51).
 
-[^key-c4a7560a7824302540d716e4336f589e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-c4a7560a7824302540d716e4336f589e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
 [^f00003]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
 
-[^key-5401ab1ec23a3bd2ae6867367baf3446]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2003/1116/regulation/2) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-5401ab1ec23a3bd2ae6867367baf3446]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2003/1116/regulation/2) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
 [^f00004]: Footnote: Section 162 was amended from a day to be appointed by section 133(4) of the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40).
 
@@ -509,110 +509,110 @@ These Regulations further implement the Council Directive [77/91/EEC](https://ww
 
 [^f00006]: Footnote: OJ 141, 11 June 1993, p.27.
 
-[^key-7781d644c543306e48a08d32a6e3a23b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2003/1116/regulation/3) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-7781d644c543306e48a08d32a6e3a23b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2003/1116/regulation/3) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
-[^key-aea3a07bf9fe7226e33893a48a5b462a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2003/1116/regulation/4) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-aea3a07bf9fe7226e33893a48a5b462a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2003/1116/regulation/4) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
-[^key-4a96e225f70776d954cbd8222251da7a]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/1) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-4a96e225f70776d954cbd8222251da7a]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/1) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
-[^key-dc55cb6d1f57045b3a881ef7ff3336c5]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/2) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-dc55cb6d1f57045b3a881ef7ff3336c5]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/2) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
 [^f00007]: Footnote: Section 24 was amended by paragraph 2 of the Schedule to the Companies (Single Member Private Limited Companies) Regulations 1992 (S.I. [1992/1669](https://www.legislation.gov.uk/uksi/1992/1669)).
 
-[^key-475c57d4eb604978aab26dab061570c9]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/3) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-475c57d4eb604978aab26dab061570c9]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/3) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
-[^key-ebf1d4533e42e72c7ec9bc595a13ac6c]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/4) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-ebf1d4533e42e72c7ec9bc595a13ac6c]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/4) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
-[^key-3b0727c658e765e3bf33ea920a342eba]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/5) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-3b0727c658e765e3bf33ea920a342eba]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/5) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
-[^key-2dc4fb489bc4507bb3b35cbe0b6dc025]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/6) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-2dc4fb489bc4507bb3b35cbe0b6dc025]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/6) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
-[^key-6d47a16120755bfff3365ac51cfbafb1]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/7) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-6d47a16120755bfff3365ac51cfbafb1]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/7) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
 [^f00008]: Footnote: Section 103 has been amended in a manner not relevant to these Regulations.
 
-[^key-f4ee874a3523eca2e43e3b1358d0a306]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/8) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-f4ee874a3523eca2e43e3b1358d0a306]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/8) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
-[^key-1e849b0f90d9f0bbc5ea2f8af1bfd38c]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/9) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-1e849b0f90d9f0bbc5ea2f8af1bfd38c]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/9) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
-[^key-3fd7c40a8b724f82012f3a901e427051]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/10) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-3fd7c40a8b724f82012f3a901e427051]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/10) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
 [^f00009]: Footnote: Section 131 was amended by section 439(1) of, and Schedule 13 to, the Insolvency Act [1986 (c. 45)](https://www.legislation.gov.uk/ukpga/1986/45) and section 145 of, and Schedule 19 to, the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40).
 
-[^key-8afb42bf58581c40f6a1d4c508f13740]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/11) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-8afb42bf58581c40f6a1d4c508f13740]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/11) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
-[^key-9f9d6ddb05c5ba27ad3f565294eef47a]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/12) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-9f9d6ddb05c5ba27ad3f565294eef47a]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/12) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
 [^f00010]: Footnote: Section 169 was amended by sections 143(2) and 212 of, and Schedule 24 to, the Companies Act 1989.
 
-[^key-3ee836bafa66325654f93a87dc8c3ae7]: Textual amendment: [Sch. para. 12(4)](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/12/4) revoked (18.12.2003) by [The Companies (Acquisition of Own Shares) (Treasury Shares) No. 2 Regulations 2003 (S.I. 2003/3031)](https://www.legislation.gov.uk/uksi/2003/3031), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/3031/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2003/3031/regulation/3/1)
+[^c-3ee836bafa66325654f93a87dc8c3ae7]: Textual amendment: [Sch. para. 12(4)](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/12/4) revoked (18.12.2003) by [The Companies (Acquisition of Own Shares) (Treasury Shares) No. 2 Regulations 2003 (S.I. 2003/3031)](https://www.legislation.gov.uk/uksi/2003/3031), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/3031/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2003/3031/regulation/3/1)
 
-[^key-46670301827bba44e867e413513063e5]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/13) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-46670301827bba44e867e413513063e5]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/13) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
-[^key-bf440ee523372a95a63e95e1a7d6fcd9]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/14) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-bf440ee523372a95a63e95e1a7d6fcd9]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/14) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
-[^key-2e665e92bbe1195b11bc94987ba3a27f]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/15) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-2e665e92bbe1195b11bc94987ba3a27f]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/15) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
 [^f00011]: Footnote: Section 198 has been amended in a manner not relevant to these Regulations.
 
-[^key-31ed9b9a0774d954857f6487683bd9a2]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/16) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-31ed9b9a0774d954857f6487683bd9a2]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/16) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
-[^key-a1bb1c612397ef033923130e858d6a38]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/17) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-a1bb1c612397ef033923130e858d6a38]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/17) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
-[^key-e2c4d4785063838997c6a046dd394810]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/18) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-e2c4d4785063838997c6a046dd394810]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/18) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
-[^key-3ba31adce124f7df5f89cd3ce2c3c2bc]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/19) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-3ba31adce124f7df5f89cd3ce2c3c2bc]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/19) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
 [^f00012]: Footnote: Section 368 has been amended in a manner not relevant to these Regulations.
 
-[^key-51013e2c7b540a30521f07a28b0f9563]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/20) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-51013e2c7b540a30521f07a28b0f9563]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/20) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
 [^f00013]: Footnote: Section 369 has been amended in a manner not relevant to these Regulations.
 
-[^key-93f3719a8c1a66d11db3c92ac72489bf]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/21) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-93f3719a8c1a66d11db3c92ac72489bf]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/21) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
-[^key-038f1521ba2e96b33d08c1674bd88e81]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/22) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-038f1521ba2e96b33d08c1674bd88e81]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/22) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
 [^f00014]: Footnote: Section 373 has been amended in a manner not relevant to these Regulations.
 
-[^key-343ed7b0d8cc8136fca627b371f38c82]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/23) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-343ed7b0d8cc8136fca627b371f38c82]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/23) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
-[^key-1ff7425cbc31e3df2b054a6e65b1d458]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/24) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-1ff7425cbc31e3df2b054a6e65b1d458]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/24) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
 [^f00015]: Footnote: Section 378 has been amended in a manner not relevant to these Regulations.
 
-[^key-2c0065a1f890ae10f895fc211e5fba86]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/25) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-2c0065a1f890ae10f895fc211e5fba86]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/25) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
 [^f00016]: Footnote: Section 380 was amended by section 116(3) of the Companies Act 1989, Schedule 11 to the Insolvency Act 1986 and paragraph 10 of Schedule 7 to the Uncertificated Securities Regulations 2001 (S.I. [2001/3755](https://www.legislation.gov.uk/uksi/2001/3755)).
 
-[^key-530cb20ab7761d89b2e0a2168f218b8c]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/26) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-530cb20ab7761d89b2e0a2168f218b8c]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/26) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
 [^f00017]: Footnote: Section 429 was substituted by section 172(1) of, and Schedule 12 to, the Financial Services Act [1986 (c. 60)](https://www.legislation.gov.uk/ukpga/1986/60).
 
-[^key-74ccd3c68115e21ad710bab927f33b06]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/27) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-74ccd3c68115e21ad710bab927f33b06]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/27) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
 [^f00018]: Footnote: Section 430A was substituted by section 172(1) of, and Schedule 12 to, the Financial Services Act 1986.
 
-[^key-1c56d37bf23117e17e19ac80274a1427]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/28) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-1c56d37bf23117e17e19ac80274a1427]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/28) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
-[^key-db115e2fa81e89f2f662d745572d4634]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/29) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-db115e2fa81e89f2f662d745572d4634]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/29) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
-[^key-6111f842498854ff260b89a9053e06b4]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/30) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-6111f842498854ff260b89a9053e06b4]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/30) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
 [^f00019]: Footnote: Schedule 4 has been variously amended in a manner not relevant to these Regulations.
 
-[^key-8dec88e59f1dae75b89238d40937ab9f]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/31) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-8dec88e59f1dae75b89238d40937ab9f]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/31) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
 [^f00020]: Footnote: Schedule 4A was inserted by section 5(2) of, and Schedule 2 to, the Companies Act 1989 and subsequently amended in a manner not relevant to these Regulations.
 
-[^key-5dfe95bc2cf17f8278f0928081dfff81]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/32) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-5dfe95bc2cf17f8278f0928081dfff81]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/32) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
 [^f00021]: Footnote: Schedule 15B has been amended in a manner not relevant to these Regulations.
 
-[^key-1c5318cb30f755884213ad18e871dc8a]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/33) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-1c5318cb30f755884213ad18e871dc8a]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/33) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
 [^f00022]: Footnote: Schedule 24 has been variously amended in a manner not relevant to these Regulations.
 
-[^key-8f090e7f5745b81534d1255aca69b7dd]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/34) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
+[^c-8f090e7f5745b81534d1255aca69b7dd]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/uksi/2003/1116/schedule/paragraph/34) in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1116/regulation/1/1)
 
 [^f00023]: Footnote: [1989 c. 40](https://www.legislation.gov.uk/ukpga/1989/40).

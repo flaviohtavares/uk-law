@@ -22,7 +22,7 @@ summary: ''
 
 (1) Where—
 
-- (a) a local authority serves an antisocial behaviour notice on a landlord under section 68(1) or (1A)[^key-981ec24d846cdd1016122f97cc5e045d]; and
+- (a) a local authority serves an antisocial behaviour notice on a landlord under section 68(1) or (1A)[^c-981ec24d846cdd1016122f97cc5e045d]; and
 - (b) the landlord fails to take the action specified in the notice within the time so specified,
 
 the landlord shall be guilty of an offence.
@@ -33,4 +33,4 @@ the landlord shall be guilty of an offence.
 
 ## Annotations
 
-[^key-981ec24d846cdd1016122f97cc5e045d]: Textual amendment: Words in s. 79(1) inserted (12.3.2011) by [The Antisocial Behaviour Notices (Houses Used for Holiday Purposes) (Scotland) Order 2011 (S.S.I. 2011/201)](https://www.legislation.gov.uk/ssi/2011/201), [arts. 1](https://www.legislation.gov.uk/ssi/2011/201/article/1), [8](https://www.legislation.gov.uk/ssi/2011/201/article/8)
+[^c-981ec24d846cdd1016122f97cc5e045d]: Textual amendment: Words in s. 79(1) inserted (12.3.2011) by [The Antisocial Behaviour Notices (Houses Used for Holiday Purposes) (Scotland) Order 2011 (S.S.I. 2011/201)](https://www.legislation.gov.uk/ssi/2011/201), [arts. 1](https://www.legislation.gov.uk/ssi/2011/201/article/1), [8](https://www.legislation.gov.uk/ssi/2011/201/article/8)

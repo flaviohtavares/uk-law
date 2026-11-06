@@ -31,7 +31,7 @@ summary: ''
 
 food
 
-The Meat (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^key-dc8fa1b152fe59a75f1731cea689827d]
+The Meat (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^c-dc8fa1b152fe59a75f1731cea689827d]
 
 Made
 
@@ -41,26 +41,26 @@ Coming into operation
 
 10th January 2007
 
-[^key-dc8fa1b152fe59a75f1731cea689827d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc8fa1b152fe59a75f1731cea689827d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-dc8fa1b152fe59a75f1731cea689827d]
+## 1. Citation and commencement[^c-dc8fa1b152fe59a75f1731cea689827d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-dc8fa1b152fe59a75f1731cea689827d]
+## 2. Interpretation[^c-dc8fa1b152fe59a75f1731cea689827d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to the Meat (Official Controls Charges) Regulations (Northern Ireland) 2006[^key-dc8fa1b152fe59a75f1731cea689827d]
+## 3. Amendment to the Meat (Official Controls Charges) Regulations (Northern Ireland) 2006[^c-dc8fa1b152fe59a75f1731cea689827d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dc8fa1b152fe59a75f1731cea689827d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc8fa1b152fe59a75f1731cea689827d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dc8fa1b152fe59a75f1731cea689827d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc8fa1b152fe59a75f1731cea689827d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dc8fa1b152fe59a75f1731cea689827d]: Textual amendment: Regulations revoked (25.3.2007) by [The Meat (Official Controls Charges) Regulations (Northern Ireland) 2007 (S.R. 2007/108)](https://www.legislation.gov.uk/nisr/2007/108), [regs. 1](https://www.legislation.gov.uk/nisr/2007/108/regulation/1), [6](https://www.legislation.gov.uk/nisr/2007/108/regulation/6)
+[^c-dc8fa1b152fe59a75f1731cea689827d]: Textual amendment: Regulations revoked (25.3.2007) by [The Meat (Official Controls Charges) Regulations (Northern Ireland) 2007 (S.R. 2007/108)](https://www.legislation.gov.uk/nisr/2007/108), [regs. 1](https://www.legislation.gov.uk/nisr/2007/108/regulation/1), [6](https://www.legislation.gov.uk/nisr/2007/108/regulation/6)

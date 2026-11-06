@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Guidance about preventing facilitation of tax evasion offences[^key-46d7e38b3f2a62c29fc4db253156112b][^c22725481]
+## 47. Guidance about preventing facilitation of tax evasion offences[^c-46d7e38b3f2a62c29fc4db253156112b][^c22725481]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-46d7e38b3f2a62c29fc4db253156112b]: Commencement: S. 47 in force in so far as not already in force at 17.7.2017 by [S.I. 2017/739](https://www.legislation.gov.uk/uksi/2017/739), [reg. 2](https://www.legislation.gov.uk/uksi/2017/739/regulation/2)
+[^c-46d7e38b3f2a62c29fc4db253156112b]: Commencement: S. 47 in force in so far as not already in force at 17.7.2017 by [S.I. 2017/739](https://www.legislation.gov.uk/uksi/2017/739), [reg. 2](https://www.legislation.gov.uk/uksi/2017/739/regulation/2)
 
 [^c22725481]: Commencement: S. 47 in force at Royal Assent for specified purposes, see s. 58

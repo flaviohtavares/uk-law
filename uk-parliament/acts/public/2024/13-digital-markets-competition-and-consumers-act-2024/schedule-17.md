@@ -22,11 +22,11 @@ summary: ''
 
 Section 208
 
-### 1. Introductory[^key-fe378dfe30ee21d87095cdf4d62aa14c][^key-ab3a968747623eaf0642524b52a77899]
+### 1. Introductory[^c-fe378dfe30ee21d87095cdf4d62aa14c][^c-ab3a968747623eaf0642524b52a77899]
 
 Schedule 5 to CRA 2015 (investigatory powers) is amended as follows.
 
-### 2. Penalties for non-compliance with information notices[^key-480a74573bdba4d75d3941c55fefcac0][^key-9584c3dc185b5a85d4af8d80b21a79aa]
+### 2. Penalties for non-compliance with information notices[^c-480a74573bdba4d75d3941c55fefcac0][^c-9584c3dc185b5a85d4af8d80b21a79aa]
 
 (1) Paragraph 15 is amended in accordance with sub-paragraphs (2) and (3).
 
@@ -304,7 +304,7 @@ Schedule 5 to CRA 2015 (investigatory powers) is amended as follows.
 > - (a) the CMA has made an application under paragraph 16A against the person in respect of that failure, and
 > - (b) the application has been determined by the court (within the meaning of that paragraph).
 
-### 3. Extra-territorial application in relation to notices[^key-f59c76c238e44cc5db00b50580265926][^key-a640b11609b5367c8bf1b11f883fccf2]
+### 3. Extra-territorial application in relation to notices[^c-f59c76c238e44cc5db00b50580265926][^c-a640b11609b5367c8bf1b11f883fccf2]
 
 After paragraph 17 insert—
 
@@ -351,7 +351,7 @@ After paragraph 17 insert—
 >
 > (9) References in this paragraph to an enforcer include an officer of an enforcer.
 
-### 4. Means of giving notices[^key-92675739e2b638f9e9da96c574408eea][^key-48925d463978fa889f2cea76e99c6ddb]
+### 4. Means of giving notices[^c-92675739e2b638f9e9da96c574408eea][^c-48925d463978fa889f2cea76e99c6ddb]
 
 After paragraph 17A (inserted by paragraph 3 above) insert—
 
@@ -401,7 +401,7 @@ After paragraph 17A (inserted by paragraph 3 above) insert—
 >
 > (11) This paragraph does not limit other lawful means of giving notice.
 
-### 5. Access to documents[^key-125dbbb0ec2c7a978ae7f91d98060395][^key-14138e75f33f5bb19a79d90874b67fdb]
+### 5. Access to documents[^c-125dbbb0ec2c7a978ae7f91d98060395][^c-14138e75f33f5bb19a79d90874b67fdb]
 
 In paragraph 32—
 
@@ -410,7 +410,7 @@ In paragraph 32—
   - (i) after “documents on” insert “, or accessible from,”, and
   - (ii) after “with” insert “, or access to them would otherwise be restricted,”.
 
-### 6. Meaning of “firm”[^key-6dc8dce79040b3eea70f3eddd11a4bfd][^key-5cd88a79ca4546eab9a03cbe78dfb31d]
+### 6. Meaning of “firm”[^c-6dc8dce79040b3eea70f3eddd11a4bfd][^c-5cd88a79ca4546eab9a03cbe78dfb31d]
 
 In paragraph 8, after the definition of “enforcement order” insert—
 
@@ -420,26 +420,26 @@ In paragraph 8, after the definition of “enforcement order” insert—
 
 ## Annotations
 
-[^key-fe378dfe30ee21d87095cdf4d62aa14c]: Commencement: Sch. 17 para. 1 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-fe378dfe30ee21d87095cdf4d62aa14c]: Commencement: Sch. 17 para. 1 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-ab3a968747623eaf0642524b52a77899]: Commencement: [Sch. 17 para. 1](https://www.legislation.gov.uk/ukpga/2024/13/schedule/17/paragraph/1) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(8)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/8)
+[^c-ab3a968747623eaf0642524b52a77899]: Commencement: [Sch. 17 para. 1](https://www.legislation.gov.uk/ukpga/2024/13/schedule/17/paragraph/1) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(8)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/8)
 
-[^key-480a74573bdba4d75d3941c55fefcac0]: Commencement: Sch. 17 para. 2 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-480a74573bdba4d75d3941c55fefcac0]: Commencement: Sch. 17 para. 2 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
-[^key-9584c3dc185b5a85d4af8d80b21a79aa]: Commencement: [Sch. 17 para. 2](https://www.legislation.gov.uk/ukpga/2024/13/schedule/17/paragraph/2) in force at 6.4.2025 in so far as not already in force by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(8)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/8)
+[^c-9584c3dc185b5a85d4af8d80b21a79aa]: Commencement: [Sch. 17 para. 2](https://www.legislation.gov.uk/ukpga/2024/13/schedule/17/paragraph/2) in force at 6.4.2025 in so far as not already in force by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(8)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/8)
 
-[^key-f59c76c238e44cc5db00b50580265926]: Commencement: Sch. 17 para. 3 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-f59c76c238e44cc5db00b50580265926]: Commencement: Sch. 17 para. 3 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-a640b11609b5367c8bf1b11f883fccf2]: Commencement: [Sch. 17 para. 3](https://www.legislation.gov.uk/ukpga/2024/13/schedule/17/paragraph/3) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(8)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/8)
+[^c-a640b11609b5367c8bf1b11f883fccf2]: Commencement: [Sch. 17 para. 3](https://www.legislation.gov.uk/ukpga/2024/13/schedule/17/paragraph/3) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(8)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/8)
 
-[^key-92675739e2b638f9e9da96c574408eea]: Commencement: Sch. 17 para. 4 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-92675739e2b638f9e9da96c574408eea]: Commencement: Sch. 17 para. 4 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-48925d463978fa889f2cea76e99c6ddb]: Commencement: [Sch. 17 para. 4](https://www.legislation.gov.uk/ukpga/2024/13/schedule/17/paragraph/4) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(8)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/8)
+[^c-48925d463978fa889f2cea76e99c6ddb]: Commencement: [Sch. 17 para. 4](https://www.legislation.gov.uk/ukpga/2024/13/schedule/17/paragraph/4) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(8)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/8)
 
-[^key-125dbbb0ec2c7a978ae7f91d98060395]: Commencement: Sch. 17 para. 5 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-125dbbb0ec2c7a978ae7f91d98060395]: Commencement: Sch. 17 para. 5 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-14138e75f33f5bb19a79d90874b67fdb]: Commencement: [Sch. 17 para. 5](https://www.legislation.gov.uk/ukpga/2024/13/schedule/17/paragraph/5) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(8)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/8)
+[^c-14138e75f33f5bb19a79d90874b67fdb]: Commencement: [Sch. 17 para. 5](https://www.legislation.gov.uk/ukpga/2024/13/schedule/17/paragraph/5) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(8)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/8)
 
-[^key-6dc8dce79040b3eea70f3eddd11a4bfd]: Commencement: Sch. 17 para. 6 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-6dc8dce79040b3eea70f3eddd11a4bfd]: Commencement: Sch. 17 para. 6 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-5cd88a79ca4546eab9a03cbe78dfb31d]: Commencement: [Sch. 17 para. 6](https://www.legislation.gov.uk/ukpga/2024/13/schedule/17/paragraph/6) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(8)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/8)
+[^c-5cd88a79ca4546eab9a03cbe78dfb31d]: Commencement: [Sch. 17 para. 6](https://www.legislation.gov.uk/ukpga/2024/13/schedule/17/paragraph/6) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(8)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/8)

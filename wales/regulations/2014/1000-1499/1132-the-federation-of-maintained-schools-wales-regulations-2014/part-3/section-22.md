@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Sponsor governors[^key-f7e0400f4a4d1481945e1acf92c0143c]
+## 22. Sponsor governors[^c-f7e0400f4a4d1481945e1acf92c0143c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In these Regulations “sponsor governor” (“*noddwr-lywodraethwr*”) means 
 
 ## Annotations
 
-[^key-f7e0400f4a4d1481945e1acf92c0143c]: Commencement: Reg. 22 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-f7e0400f4a4d1481945e1acf92c0143c]: Commencement: Reg. 22 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

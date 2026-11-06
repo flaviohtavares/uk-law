@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 137. Discharge of debtor where Accountant in Bankruptcy not trustee[^key-df14bee7bee95b95857a87b0a16b8029]
+## 137. Discharge of debtor where Accountant in Bankruptcy not trustee[^c-df14bee7bee95b95857a87b0a16b8029]
 
 *Extent: S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df14bee7bee95b95857a87b0a16b8029]: Commencement: [S. 137](https://www.legislation.gov.uk/asp/2016/21/section/137) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-df14bee7bee95b95857a87b0a16b8029]: Commencement: [S. 137](https://www.legislation.gov.uk/asp/2016/21/section/137) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

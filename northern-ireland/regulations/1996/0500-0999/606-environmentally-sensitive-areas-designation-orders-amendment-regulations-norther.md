@@ -30,7 +30,7 @@ summary: ''
 
 AGRICULTURE
 
-Environmentally Sensitive Areas Designation Orders (Amendment) Regulations (Northern Ireland) 1996 (revoked)[^key-6a4374d4663bd37e9b73991a9982294e]
+Environmentally Sensitive Areas Designation Orders (Amendment) Regulations (Northern Ireland) 1996 (revoked)[^c-6a4374d4663bd37e9b73991a9982294e]
 
 Made
 
@@ -40,27 +40,27 @@ Coming into operation
 
 1st January 1997
 
-[^key-6a4374d4663bd37e9b73991a9982294e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a4374d4663bd37e9b73991a9982294e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6a4374d4663bd37e9b73991a9982294e]
+## 1. Citation and commencement[^c-6a4374d4663bd37e9b73991a9982294e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-6a4374d4663bd37e9b73991a9982294e]
+## 2. Interpretation[^c-6a4374d4663bd37e9b73991a9982294e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the principal Orders[^key-6a4374d4663bd37e9b73991a9982294e]
+## 3. Amendment of the principal Orders[^c-6a4374d4663bd37e9b73991a9982294e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6a4374d4663bd37e9b73991a9982294e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a4374d4663bd37e9b73991a9982294e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-6a4374d4663bd37e9b73991a9982294e]
+## SCHEDULE[^c-6a4374d4663bd37e9b73991a9982294e]
 
 Regulation 2(2)
 
@@ -68,8 +68,8 @@ Regulation 2(2)
 
 **May not be in force at this date. Check the source.**
 
-[^key-6a4374d4663bd37e9b73991a9982294e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a4374d4663bd37e9b73991a9982294e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6a4374d4663bd37e9b73991a9982294e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1996/606) revoked (10.9.2001) by [Environmentally Sensitive Areas (Enforcement) Regulations (Northern Ireland) 2001 (S.R. 2001/270)](https://www.legislation.gov.uk/nisr/2001/270), [regs. 1](https://www.legislation.gov.uk/nisr/2001/270/regulation/1), [6(1)](https://www.legislation.gov.uk/nisr/2001/270/regulation/6/1) (with [reg. 6(2)](https://www.legislation.gov.uk/nisr/2001/270/regulation/6/2))
+[^c-6a4374d4663bd37e9b73991a9982294e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1996/606) revoked (10.9.2001) by [Environmentally Sensitive Areas (Enforcement) Regulations (Northern Ireland) 2001 (S.R. 2001/270)](https://www.legislation.gov.uk/nisr/2001/270), [regs. 1](https://www.legislation.gov.uk/nisr/2001/270/regulation/1), [6(1)](https://www.legislation.gov.uk/nisr/2001/270/regulation/6/1) (with [reg. 6(2)](https://www.legislation.gov.uk/nisr/2001/270/regulation/6/2))

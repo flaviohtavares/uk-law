@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Transitional provisions in relation to amendment of the CJDP Regulations[^key-cd4a3d256f3d07fae455ff3fb28facb4]
+## 111. Transitional provisions in relation to amendment of the CJDP Regulations[^c-cd4a3d256f3d07fae455ff3fb28facb4]
 
 *Extent: E+W+S+N.I.*
 
-Regulation 110 does not apply in relation to a case where, before commencement day, any of the following has occurred (and see Articles 6 and 62(1)(c) and (e) and Title VII of Part 3 of the withdrawal agreement and sections 7A and 7C of the Withdrawal Act and, in relation to the continued application of Framework Decisions 2003/577/JHA and 2006/783/JHA in respect of certificates received by the United Kingdom before 19 December 2020, see Article 40(2) of Regulation (EU) 2018/1805 of the European Parliament and of the Council of 14 November 2018 on the mutual recognition of freezing orders and confiscation orders[^key-06722f2ba8305ca9b2281cc78590b371]—
+Regulation 110 does not apply in relation to a case where, before commencement day, any of the following has occurred (and see Articles 6 and 62(1)(c) and (e) and Title VII of Part 3 of the withdrawal agreement and sections 7A and 7C of the Withdrawal Act and, in relation to the continued application of Framework Decisions 2003/577/JHA and 2006/783/JHA in respect of certificates received by the United Kingdom before 19 December 2020, see Article 40(2) of Regulation (EU) 2018/1805 of the European Parliament and of the Council of 14 November 2018 on the mutual recognition of freezing orders and confiscation orders[^c-06722f2ba8305ca9b2281cc78590b371]—
 
 - (a) the Crown Court makes a certificate under regulation 6(2) of the CJDP Regulations (domestic restraint orders: certification);
 - (b) a relevant prosecutor receives an overseas restraint order under regulation 8(1) of the CJDP Regulations (sending overseas restraint orders to the court);
@@ -37,6 +37,6 @@ Regulation 110 does not apply in relation to a case where, before commencement d
 
 ## Annotations
 
-[^key-cd4a3d256f3d07fae455ff3fb28facb4]: Commencement: Reg. 111 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-cd4a3d256f3d07fae455ff3fb28facb4]: Commencement: Reg. 111 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-06722f2ba8305ca9b2281cc78590b371]: Textual amendment: Words in reg. 111 inserted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/1408/regulation/5)
+[^c-06722f2ba8305ca9b2281cc78590b371]: Textual amendment: Words in reg. 111 inserted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/1408/regulation/5)

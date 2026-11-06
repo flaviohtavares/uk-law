@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) In this Part, subject to the following paragraphs, “**pensionable pay**” means all salary, wages, fees and other regular payments made to a person in respect of employment in which the person is an active member of this Section of[^key-cf838a41a667daf3fefec28439d80f81] the Scheme.
+(1) In this Part, subject to the following paragraphs, “**pensionable pay**” means all salary, wages, fees and other regular payments made to a person in respect of employment in which the person is an active member of this Section of[^c-cf838a41a667daf3fefec28439d80f81] the Scheme.
 
 (2) In the case of a member who, in addition to one or more such employments, holds an honorary office or appointment, any distinction award payable to the member as a consequence of holding the honorary office or appointment, is treated—
 
@@ -30,7 +30,7 @@ summary: ''
 (3) “**Pensionable pay**” does not include—
 
 - (a) bonuses,
-- (aa)[^key-bd4c6835e46d9fa829037b0386f3d69f] pay awards and pay increases that are expressed by the Department to be non-consolidated,
+- (aa)[^c-bd4c6835e46d9fa829037b0386f3d69f] pay awards and pay increases that are expressed by the Department to be non-consolidated,
 - (b) payments made to cover expenses, or
 - (c) payments for overtime.
 
@@ -66,7 +66,7 @@ the excess pensionable pay is ignored for the purposes of this Part.
 - (c) will continue in effect until cancelled or amended by a subsequent notice in writing signed by all the partners in the partnership;
 - (d) will be automatically cancelled upon a change in the members of the partnership.
 
-(12)[^key-540d832041869d8860dbd37a17c32a5c] Paragraphs (13) to (19) apply to a member who has remediable service within the meaning of section 1 of the Public Service Pensions and Judicial Offices Act 2022 that is pensionable service under this Section of the scheme by virtue of section 2(1) of that Act (remedial service treated as pensionable under Chapter 1 legacy schemes) and whose pensionable pay and pensionable service in this Section of the Scheme is derived from contributions made to the 2015 Scheme in the relevant scheme years in respect of that remediable service, if—
+(12)[^c-540d832041869d8860dbd37a17c32a5c] Paragraphs (13) to (19) apply to a member who has remediable service within the meaning of section 1 of the Public Service Pensions and Judicial Offices Act 2022 that is pensionable service under this Section of the scheme by virtue of section 2(1) of that Act (remedial service treated as pensionable under Chapter 1 legacy schemes) and whose pensionable pay and pensionable service in this Section of the Scheme is derived from contributions made to the 2015 Scheme in the relevant scheme years in respect of that remediable service, if—
 
 - (a) at any time during that period of service, the terms of the member’s employment contract required the member to work less than whole-time, according to those terms, for any period of time; and
 - (b) the member received a relevant payment.
@@ -97,8 +97,8 @@ the excess pensionable pay is ignored for the purposes of this Part.
 
 ## Annotations
 
-[^key-cf838a41a667daf3fefec28439d80f81]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/nisr/2008/256/regulation/13/1) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
+[^c-cf838a41a667daf3fefec28439d80f81]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/nisr/2008/256/regulation/13/1) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
 
-[^key-bd4c6835e46d9fa829037b0386f3d69f]: Textual amendment: [Reg. 13(3)(aa)](https://www.legislation.gov.uk/nisr/2008/256/regulation/13/3/aa) inserted (with effect in accordance with of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Additional Voluntary Contributions and Injury Benefits), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/121)](https://www.legislation.gov.uk/nisr/2015/121), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2015/121/regulation/1/3), [19](https://www.legislation.gov.uk/nisr/2015/121/regulation/19)
+[^c-bd4c6835e46d9fa829037b0386f3d69f]: Textual amendment: [Reg. 13(3)(aa)](https://www.legislation.gov.uk/nisr/2008/256/regulation/13/3/aa) inserted (with effect in accordance with of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Additional Voluntary Contributions and Injury Benefits), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/121)](https://www.legislation.gov.uk/nisr/2015/121), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2015/121/regulation/1/3), [19](https://www.legislation.gov.uk/nisr/2015/121/regulation/19)
 
-[^key-540d832041869d8860dbd37a17c32a5c]: Textual amendment: [Reg. 13(12)-(19)](https://www.legislation.gov.uk/nisr/2008/256/regulation/13/12) inserted (18.6.2025) by [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2025 (S.R. 2025/100)](https://www.legislation.gov.uk/nisr/2025/100), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2), [10](https://www.legislation.gov.uk/nisr/2025/100/regulation/10)
+[^c-540d832041869d8860dbd37a17c32a5c]: Textual amendment: [Reg. 13(12)-(19)](https://www.legislation.gov.uk/nisr/2008/256/regulation/13/12) inserted (18.6.2025) by [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2025 (S.R. 2025/100)](https://www.legislation.gov.uk/nisr/2025/100), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2), [10](https://www.legislation.gov.uk/nisr/2025/100/regulation/10)

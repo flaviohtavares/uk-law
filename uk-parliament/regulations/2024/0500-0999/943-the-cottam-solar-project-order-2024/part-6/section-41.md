@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. No double recovery[^key-a6b74547b34be723b4aa09ffe4ebe3e4]
+## 41. No double recovery[^c-a6b74547b34be723b4aa09ffe4ebe3e4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Compensation is not payable in respect of the same matter both under this Order 
 
 ## Annotations
 
-[^key-a6b74547b34be723b4aa09ffe4ebe3e4]: Commencement: Art. 41 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
+[^c-a6b74547b34be723b4aa09ffe4ebe3e4]: Commencement: Art. 41 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)

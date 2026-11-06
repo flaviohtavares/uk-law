@@ -24,7 +24,7 @@ summary: ''
 
 (2) The two people concerned are not to be treated as having formed a civil partnership if, at the time mentioned in section 215(2)—
 
-- (a) either of them was under 18[^key-da5e7f76d56aa41732fb51d3558da3de], or
+- (a) either of them was under 18[^c-da5e7f76d56aa41732fb51d3558da3de], or
 - (b) they would have been within prohibited degrees of relationship under Part 1 of Schedule 1 if they had been registering as civil partners of each other in England and Wales.
 
 (3) Subsection (4) applies if an overseas relationship has been registered by a person who at the time mentioned in section 215(2) was domiciled in Scotland.
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da5e7f76d56aa41732fb51d3558da3de]: Textual amendment: Word in [s. 217(2)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/217/2/a) substituted (27.2.2023) by [Marriage and Civil Partnership (Minimum Age) Act 2022 (c. 28)](https://www.legislation.gov.uk/ukpga/2022/28), [ss. 4(3)](https://www.legislation.gov.uk/ukpga/2022/28/section/4/3), [7(1)](https://www.legislation.gov.uk/ukpga/2022/28/section/7/1) (with [s. 8](https://www.legislation.gov.uk/ukpga/2022/28/section/8)); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2) (with [regs. 3-17](https://www.legislation.gov.uk/uksi/2023/88/regulation/3))
+[^c-da5e7f76d56aa41732fb51d3558da3de]: Textual amendment: Word in [s. 217(2)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/217/2/a) substituted (27.2.2023) by [Marriage and Civil Partnership (Minimum Age) Act 2022 (c. 28)](https://www.legislation.gov.uk/ukpga/2022/28), [ss. 4(3)](https://www.legislation.gov.uk/ukpga/2022/28/section/4/3), [7(1)](https://www.legislation.gov.uk/ukpga/2022/28/section/7/1) (with [s. 8](https://www.legislation.gov.uk/ukpga/2022/28/section/8)); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2) (with [regs. 3-17](https://www.legislation.gov.uk/uksi/2023/88/regulation/3))

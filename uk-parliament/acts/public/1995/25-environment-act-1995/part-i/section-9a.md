@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9A. Duty of the Agency to cooperate with the Natural Resources Body for Wales[^key-7404ecf579fe9dee5c2066a6dcf4fbd1]
+## 9A. Duty of the Agency to cooperate with the Natural Resources Body for Wales[^c-7404ecf579fe9dee5c2066a6dcf4fbd1]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Agency must cooperate with the Natural Resources Body for Wales, and coordin
 
 ## Annotations
 
-[^key-7404ecf579fe9dee5c2066a6dcf4fbd1]: Textual amendment: [S. 9A](https://www.legislation.gov.uk/ukpga/1995/25/section/9A) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 368](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/368) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-7404ecf579fe9dee5c2066a6dcf4fbd1]: Textual amendment: [S. 9A](https://www.legislation.gov.uk/ukpga/1995/25/section/9A) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 368](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/368) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

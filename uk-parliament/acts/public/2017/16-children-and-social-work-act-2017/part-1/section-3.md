@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Advice and support[^key-715e5f7839687dc9cd450d00c9fd06e1]
+## 3. Advice and support[^c-715e5f7839687dc9cd450d00c9fd06e1]
 
 *Extent: E+W*
 
@@ -87,4 +87,4 @@ summary: ''
 
 ## Annotations
 
-[^key-715e5f7839687dc9cd450d00c9fd06e1]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2017/16/section/3) in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/c)
+[^c-715e5f7839687dc9cd450d00c9fd06e1]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2017/16/section/3) in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/c)

@@ -37,7 +37,7 @@ Made
 
 The Welsh Ministers make the following Order in exercise of the power conferred on them by section 175(7) and (8) of the Local Government and Elections (Wales) Act 2021[^f00001].
 
-## 1. Title and interpretation[^key-5d217a9f79ecc95b311598f4cf478740]
+## 1. Title and interpretation[^c-5d217a9f79ecc95b311598f4cf478740]
 
 (1) The title of this Order is the Local Government and Elections (Wales) Act 2021 (Commencement No. 1 and Saving Provision) Order 2021.
 
@@ -46,7 +46,7 @@ The Welsh Ministers make the following Order in exercise of the power conferred 
 - “the 2000 Act” (“*Deddf 2000*”) means the Local Government Act 2000[^f00002];
 - “the Act” (“*y Ddeddf*”) means the Local Government and Elections (Wales) Act 2021.
 
-## 2. Provisions coming into force on the day after the day on which this Order is made[^key-90553be920df1c634f63b19029a9ce4e]
+## 2. Provisions coming into force on the day after the day on which this Order is made[^c-90553be920df1c634f63b19029a9ce4e]
 
 The following provisions of the Act come into force on the day after the day on which this Order is made—
 
@@ -59,14 +59,14 @@ The following provisions of the Act come into force on the day after the day on 
 - (g) section 59;
 - (h) section 161(1).
 
-## 3. Provisions coming into force on 1 April 2021[^key-08d0675a76533c6ba828d33cf7a4dba6]
+## 3. Provisions coming into force on 1 April 2021[^c-08d0675a76533c6ba828d33cf7a4dba6]
 
 The following provisions of the Act come into force on 1 April 2021—
 
 - (a) section 163;
 - (b) section 164.
 
-## 4. Provisions coming into force on 1 November 2021[^key-f613f1e3542c053be7cd317cde3a016a]
+## 4. Provisions coming into force on 1 November 2021[^c-f613f1e3542c053be7cd317cde3a016a]
 
 The following provisions of the Act come into force on 1 November 2021—
 
@@ -74,11 +74,11 @@ The following provisions of the Act come into force on 1 November 2021—
 - (b) section 29;
 - (c) Part 1 of Schedule 3.
 
-## 5. Provision coming into force on 1 April 2022[^key-1dddea7b43efd295fe0585533664ce82]
+## 5. Provision coming into force on 1 April 2022[^c-1dddea7b43efd295fe0585533664ce82]
 
 Section 52 of the Act comes into force on 1 April 2022.
 
-## 6. Provisions coming into force on 5 May 2022[^key-d0ba22fba99d8bbb93276c0181750124]
+## 6. Provisions coming into force on 5 May 2022[^c-d0ba22fba99d8bbb93276c0181750124]
 
  The following provisions of the Act come into force on 5 May 2022—
 
@@ -101,11 +101,11 @@ Section 52 of the Act comes into force on 1 April 2022.
 - (q) section 162;
 - (r) Part 2 of Schedule 3;
 - (s) Schedule 5;
-- (t)[^key-9d0f25d2fea0067e7555af20dab39e0f] paragraphs 1, 3 to 5 and 6(1) to (4) of Schedule 6;
+- (t)[^c-9d0f25d2fea0067e7555af20dab39e0f] paragraphs 1, 3 to 5 and 6(1) to (4) of Schedule 6;
 - (u) Schedule 7;
 - (v) Schedule 13.
 
-## 7. Saving provision relating to the power to promote well-being[^key-581e69703aba157965684e713a54ccf9]
+## 7. Saving provision relating to the power to promote well-being[^c-581e69703aba157965684e713a54ccf9]
 
 Despite the coming into force of Part 2 of Schedule 3 to the Act by article 6, sections 2 and 3 of the 2000 Act continue to have effect in relation to anything done by a community council before 5 May 2022 in pursuance of their power in section 2 of the 2000 Act, until—
 
@@ -171,20 +171,20 @@ Article 7 saves sections 2 and 3 of the 2000 Act in relation to anything done by
 
 [^f00001]: Footnote: [2021 asc 1](https://www.legislation.gov.uk/asc/2021/1).
 
-[^key-5d217a9f79ecc95b311598f4cf478740]: Commencement: Art. 1 in force at 3.3.2021
+[^c-5d217a9f79ecc95b311598f4cf478740]: Commencement: Art. 1 in force at 3.3.2021
 
 [^f00002]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22).
 
-[^key-90553be920df1c634f63b19029a9ce4e]: Commencement: Art. 2 in force at 3.3.2021
+[^c-90553be920df1c634f63b19029a9ce4e]: Commencement: Art. 2 in force at 3.3.2021
 
-[^key-08d0675a76533c6ba828d33cf7a4dba6]: Commencement: Art. 3 in force at 3.3.2021
+[^c-08d0675a76533c6ba828d33cf7a4dba6]: Commencement: Art. 3 in force at 3.3.2021
 
-[^key-f613f1e3542c053be7cd317cde3a016a]: Commencement: Art. 4 in force at 3.3.2021
+[^c-f613f1e3542c053be7cd317cde3a016a]: Commencement: Art. 4 in force at 3.3.2021
 
-[^key-1dddea7b43efd295fe0585533664ce82]: Commencement: Art. 5 in force at 3.3.2021
+[^c-1dddea7b43efd295fe0585533664ce82]: Commencement: Art. 5 in force at 3.3.2021
 
-[^key-d0ba22fba99d8bbb93276c0181750124]: Commencement: Art. 6 in force at 3.3.2021
+[^c-d0ba22fba99d8bbb93276c0181750124]: Commencement: Art. 6 in force at 3.3.2021
 
-[^key-9d0f25d2fea0067e7555af20dab39e0f]: Textual amendment: [Art. 6(t)](https://www.legislation.gov.uk/wsi/2021/231/article/6/t) substituted (9.11.2021) by [The Local Government and Elections (Wales) Act 2021 (Commencement No. 4 and Transitional Provision and Amendment of Commencement Order No. 1) Order 2021 (S.I. 2021/1249)](https://www.legislation.gov.uk/wsi/2021/1249), [art. 3(2)](https://www.legislation.gov.uk/wsi/2021/1249/article/3/2)
+[^c-9d0f25d2fea0067e7555af20dab39e0f]: Textual amendment: [Art. 6(t)](https://www.legislation.gov.uk/wsi/2021/231/article/6/t) substituted (9.11.2021) by [The Local Government and Elections (Wales) Act 2021 (Commencement No. 4 and Transitional Provision and Amendment of Commencement Order No. 1) Order 2021 (S.I. 2021/1249)](https://www.legislation.gov.uk/wsi/2021/1249), [art. 3(2)](https://www.legislation.gov.uk/wsi/2021/1249/article/3/2)
 
-[^key-581e69703aba157965684e713a54ccf9]: Commencement: Art. 7 in force at 3.3.2021
+[^c-581e69703aba157965684e713a54ccf9]: Commencement: Art. 7 in force at 3.3.2021

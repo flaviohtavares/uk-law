@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 121. Quorum[^key-3c06fdec9274c6e8c8233145eee297e9]
+## 121. Quorum[^c-3c06fdec9274c6e8c8233145eee297e9]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A meeting of the committee is duly constituted if due notice of it has been give
 
 ## Annotations
 
-[^key-3c06fdec9274c6e8c8233145eee297e9]: Commencement: Rule 121 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-3c06fdec9274c6e8c8233145eee297e9]: Commencement: Rule 121 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

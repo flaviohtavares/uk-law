@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Abatement of works abandoned or decayed[^key-f176a6257de2791dcc824564dce192e1]
+## 35. Abatement of works abandoned or decayed[^c-f176a6257de2791dcc824564dce192e1]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Where Work No. 1(a) to (d) or Work No. 2 or any part of those works is abandoned
 
 ## Annotations
 
-[^key-f176a6257de2791dcc824564dce192e1]: Commencement: Art. 35 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-f176a6257de2791dcc824564dce192e1]: Commencement: Art. 35 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)

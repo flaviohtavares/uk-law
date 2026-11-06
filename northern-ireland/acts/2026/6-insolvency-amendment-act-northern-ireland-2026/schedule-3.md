@@ -26,11 +26,11 @@ Section 102
 
 ### Part 1 — Administration of companies
 
-**1.**[^key-4e74e385b61f7d37ab76092afe90c16f] Schedule B1 to the 1989 Order (administration) is amended in accordance with paragraphs 2 to 5.
+**1.**[^c-4e74e385b61f7d37ab76092afe90c16f] Schedule B1 to the 1989 Order (administration) is amended in accordance with paragraphs 2 to 5.
 
 #### Appointment of administrators
 
-**2.**[^key-390541adf638f884e0f56c2ee905cb0d] After paragraph 26 (but before the italic heading before paragraph 27) insert—
+**2.**[^c-390541adf638f884e0f56c2ee905cb0d] After paragraph 26 (but before the italic heading before paragraph 27) insert—
 
 > **26A.** (1) Paragraph 26(a) does not prevent the appointment of an administrator of a company if the petition for the winding up of the company was presented after the person proposing to make the appointment filed the notice of intention to appoint with the High Court under paragraph 28.
 >
@@ -38,11 +38,11 @@ Section 102
 
 .
 
-**3.**[^key-c30a4a96662f6b39d4b9940c1d147135] In paragraph 27(2) (requirement for company or directors to give notice of intention to appoint administrator to prescribed persons), for “proposes to make an appointment under paragraph 23” substitute “gives notice of intention to appoint under sub-paragraph (1)”.
+**3.**[^c-c30a4a96662f6b39d4b9940c1d147135] In paragraph 27(2) (requirement for company or directors to give notice of intention to appoint administrator to prescribed persons), for “proposes to make an appointment under paragraph 23” substitute “gives notice of intention to appoint under sub-paragraph (1)”.
 
 #### Release of administrator
 
-**4.**[^key-f5c027b2126a43beb6204ff8b610f5bc] In paragraph 99 (vacation of office of administrator: discharge from liability), for sub-paragraphs (2) and (3) substitute—
+**4.**[^c-f5c027b2126a43beb6204ff8b610f5bc] In paragraph 99 (vacation of office of administrator: discharge from liability), for sub-paragraphs (2) and (3) substitute—
 
 > (1A) The discharge provided by sub-paragraph (1) takes effect in accordance with sub-paragraphs (2) to (2C).
 >
@@ -66,7 +66,7 @@ Section 102
 
 .
 
-**5.**[^key-a7906c921fcedd004d4a0401c54ba322] (1) Paragraph 99 (as amended by paragraph 4 above) is further amended as follows.
+**5.**[^c-a7906c921fcedd004d4a0401c54ba322] (1) Paragraph 99 (as amended by paragraph 4 above) is further amended as follows.
 
 (2) In sub-paragraph (2A)(b), for “resolution” substitute “decision”.
 
@@ -80,13 +80,13 @@ Section 102
 
 #### Removal of power of Court to order payment into bank of money due to company
 
-**6.**[^key-8caf0f0f827c68ac324c63b31e4d51df] In Part 5 of the 1989 Order (winding up of companies), omit Article 129 (payment into bank of money due to company).
+**6.**[^c-8caf0f0f827c68ac324c63b31e4d51df] In Part 5 of the 1989 Order (winding up of companies), omit Article 129 (payment into bank of money due to company).
 
 ### Part 3 — Disqualification of unfit directors of insolvent companies
 
 #### Application for making of disqualification order: power to require information
 
-**7.**[^key-a88c6509772a79d839dfd26a6f1d180d] (1) The Company Directors Disqualification (Northern Ireland) Order 2002 is amended as follows.
+**7.**[^c-a88c6509772a79d839dfd26a6f1d180d] (1) The Company Directors Disqualification (Northern Ireland) Order 2002 is amended as follows.
 
 (2) In Article 10 (disqualification order or undertaking; and reporting provisions), for paragraphs (5) and (5A) (power of Department or official receiver to require information) substitute—
 
@@ -122,7 +122,7 @@ Section 102
 
 #### Enforcement of Article 10(5) of the 2002 Order
 
-**8.**[^key-85e065a774c8a48ea1ed1e7b89578e93] (1) In the Insolvent Companies (Reports on Conduct of Directors) Rules (Northern Ireland) 2003 ([SR 2003/357](https://www.legislation.gov.uk/nisr/2003/357)), rule 7 is amended as follows.
+**8.**[^c-85e065a774c8a48ea1ed1e7b89578e93] (1) In the Insolvent Companies (Reports on Conduct of Directors) Rules (Northern Ireland) 2003 ([SR 2003/357](https://www.legislation.gov.uk/nisr/2003/357)), rule 7 is amended as follows.
 
 (2) In the heading to the rule, for “10(5)” substitute “10(5) or (5A)”.
 
@@ -138,7 +138,7 @@ Section 102
 
 #### Amendment of Article 24 of the 2002 Order
 
-**9.**[^key-c52136f29d54643888d2277f563c20b9] (1) In Article 24 of the Company Directors Disqualification (Northern Ireland) Order 2002 (interaction with the 1989 Order), in paragraphs (1) and (2)—
+**9.**[^c-c52136f29d54643888d2277f563c20b9] (1) In Article 24 of the Company Directors Disqualification (Northern Ireland) Order 2002 (interaction with the 1989 Order), in paragraphs (1) and (2)—
 
 - (a) for “to 19C” substitute “to 20”;
 - (b) for “and 23” substitute “and 22 to 23A”.
@@ -147,17 +147,17 @@ Section 102
 
 ### Part 4 — Bankruptcy
 
-**10.**[^key-48952534d75443cc1aae181c87a2b602] Part 9 of the 1989 Order (bankruptcy) is amended in accordance with paragraphs 11 to 13.
+**10.**[^c-48952534d75443cc1aae181c87a2b602] Part 9 of the 1989 Order (bankruptcy) is amended in accordance with paragraphs 11 to 13.
 
 #### Appointment of insolvency practitioner as interim receiver
 
-**11.**[^key-e0ea91911c79f73d69481b865b545c27] (1) Article 259 (power to appoint interim receiver) is amended as follows.
+**11.**[^c-e0ea91911c79f73d69481b865b545c27] (1) Article 259 (power to appoint interim receiver) is amended as follows.
 
 (2) In paragraph (1), after “the official receiver” insert “or an insolvency practitioner”.
 
 (3) In paragraph (2), for “, instead of the official receiver,” substitute “, another insolvency practitioner or the official receiver”.
 
-**12.**[^key-8756b5c5a101ca43c1fb8dc6738bd100] (1) Article 341 (power to appoint special manager) is amended as follows.
+**12.**[^c-8756b5c5a101ca43c1fb8dc6738bd100] (1) Article 341 (power to appoint special manager) is amended as follows.
 
 (2) In paragraph (1)(c), for “the official receiver has been appointed interim receiver” substitute “an interim receiver has been appointed”.
 
@@ -165,7 +165,7 @@ Section 102
 
 #### Statement of affairs
 
-**13.**[^key-3ddfa52b7fd9d086282c066b83277ac1] (1) Article 261 (statement of affairs) is amended as follows.
+**13.**[^c-3ddfa52b7fd9d086282c066b83277ac1] (1) Article 261 (statement of affairs) is amended as follows.
 
 (2) For paragraph (1) substitute—
 
@@ -192,7 +192,7 @@ Section 102
 
 #### Regulations that are not subject to negative resolution
 
-**14.**[^key-2f25645b90e26638182346eecf4c3381] (1) Article 2 (general interpretation of the 1989 Order) is amended as follows.
+**14.**[^c-2f25645b90e26638182346eecf4c3381] (1) Article 2 (general interpretation of the 1989 Order) is amended as follows.
 
 (2) In paragraph (2), in the definition of “regulations”, for the words from “(except in” to “Schedule B1)” substitute “(except in the provisions mentioned in paragraph (2B))”.
 
@@ -218,11 +218,11 @@ Section 102
 
 #### Companies in relation to which a voluntary arrangement may be made
 
-**15.**[^key-78a5ba8ce9ad43f745a98e8669448076] In Article 14(6) (certain companies in relation to which an arrangement may not be made), for “outside Northern Ireland” substitute “outside the United Kingdom”.
+**15.**[^c-78a5ba8ce9ad43f745a98e8669448076] In Article 14(6) (certain companies in relation to which an arrangement may not be made), for “outside Northern Ireland” substitute “outside the United Kingdom”.
 
 #### Application for winding up
 
-**16.**[^key-b63ab4768bc79d7cefaece84d5c30fae] (1) In Article 104 (application for winding up), for paragraph (1) substitute—
+**16.**[^c-b63ab4768bc79d7cefaece84d5c30fae] (1) In Article 104 (application for winding up), for paragraph (1) substitute—
 
 > (1) An application to the High Court for the winding up of a company may only be made by petition presented by any or all of the persons mentioned in paragraph (1A), together or separately; but this is subject to the following provisions of this Article.
 >
@@ -244,11 +244,11 @@ Section 102
 
 #### Holders of office to be qualified insolvency practitioners
 
-**17.**[^key-04e865f8e591f22341d11e5eaac83677] In Article 194 (holders of office to be qualified insolvency practitioners), in paragraph (2), for “so qualified” substitute “qualified to act as an insolvency practitioner in relation to the company”.
+**17.**[^c-04e865f8e591f22341d11e5eaac83677] In Article 194 (holders of office to be qualified insolvency practitioners), in paragraph (2), for “so qualified” substitute “qualified to act as an insolvency practitioner in relation to the company”.
 
 #### Adjudicators in England and Wales: consequential amendments
 
-**18.**[^key-0c0b8746f2179cd68fe4c53a0dc299e4] (1) Article 349 (persons not qualified to act as insolvency practitioners) is amended as follows.
+**18.**[^c-0c0b8746f2179cd68fe4c53a0dc299e4] (1) Article 349 (persons not qualified to act as insolvency practitioners) is amended as follows.
 
 (2) In paragraph (3)(a), after “security” insert “for the proper performance of the practitioner’s functions”.
 
@@ -273,14 +273,14 @@ Section 102
 
 (5) Until the coming into force of the repeal, by the Mental Capacity (Northern Ireland) Act 2016, of Part 8 of the Mental Health (Northern Ireland) Order 1986, Article 349(4)(c) (as inserted by sub-paragraph (4)) has effect as if it read “he is a patient within the meaning of Part 8 of the Mental Health (Northern Ireland) Order 1986,”.
 
-**19.**[^key-604532d56ab331051cd710fad5459212] In Article 24 of the Insolvency (Northern Ireland) Order 2005 (power to make orders in relation to disqualification provisions), for paragraph (9)(a) (definition of “bankrupt” in Northern Ireland and England and Wales) substitute—
+**19.**[^c-604532d56ab331051cd710fad5459212] In Article 24 of the Insolvency (Northern Ireland) Order 2005 (power to make orders in relation to disqualification provisions), for paragraph (9)(a) (definition of “bankrupt” in Northern Ireland and England and Wales) substitute—
 
 > - (a) who has been adjudged bankrupt by the High Court,
 > - (aa) who has been made bankrupt in England and Wales (under Part 9 of the Insolvency Act 1986),
 
 .
 
-**20.**[^key-9fd79a884e5688290f3b8de38c66295d] In Article 15 of the Company Directors Disqualification (Northern Ireland) Order 2002 (undischarged bankrupts), in paragraph (1B)(b) (meaning of “the court” for the purposes of granting leave in England and Wales or Scotland), for paragraph (i) substitute—
+**20.**[^c-9fd79a884e5688290f3b8de38c66295d] In Article 15 of the Company Directors Disqualification (Northern Ireland) Order 2002 (undischarged bankrupts), in paragraph (1B)(b) (meaning of “the court” for the purposes of granting leave in England and Wales or Scotland), for paragraph (i) substitute—
 
 > - (i) the court by which the bankruptcy order was made or (if the order was not made by a court) the court to which a debtor may appeal against a refusal to make a bankruptcy order, or
 
@@ -288,22 +288,22 @@ Section 102
 
 #### Removal of reference to repealed provision
 
-**21.**[^key-2d0ad49ccbdde27ef44321efe52c1dfe] In Article 362(1)(b) (power to specify amounts for the purposes of certain provisions), omit the reference to Article 332(2)(a).
+**21.**[^c-2d0ad49ccbdde27ef44321efe52c1dfe] In Article 362(1)(b) (power to specify amounts for the purposes of certain provisions), omit the reference to Article 332(2)(a).
 
 #### Penalties and proceedings for certain offences under the 1989 Order
 
-**22.**[^key-0ced1bb8aeb5c0fa22c7e2c98d9e57a6] In Article 373(4) (disapplication of section 20(2) of the 1954 Act to certain offences under the 1989 Order)—
+**22.**[^c-0ced1bb8aeb5c0fa22c7e2c98d9e57a6] In Article 373(4) (disapplication of section 20(2) of the 1954 Act to certain offences under the 1989 Order)—
 
 - (a) after “172(1)” insert “and (2)”;
 - (b) after “174(1)” insert “and (2)”.
 
-**23.**[^key-9fdce8571b7bced1888f1b53e6e47afb] In Article 374(2) (time limit for summary proceedings)—
+**23.**[^c-9fdce8571b7bced1888f1b53e6e47afb] In Article 374(2) (time limit for summary proceedings)—
 
 - (a) omit “84(4)”;
 - (b) after “172(1)” insert “and (2)”;
 - (c) after “174(1)” insert “and (2)”.
 
-**24.**[^key-73acce07d76d8de1e08fc64a5c8fe095] (1) Schedule 7 (punishment of offences) is amended as follows.
+**24.**[^c-73acce07d76d8de1e08fc64a5c8fe095] (1) Schedule 7 (punishment of offences) is amended as follows.
 
 (2) After the entry for Article 172(1) insert—
 
@@ -325,86 +325,86 @@ Section 102
 
 #### Administration
 
-**25.**[^key-7c60bf8c04808747b81f7a7571692757] Schedule B1 (administration) is amended as follows.
+**25.**[^c-7c60bf8c04808747b81f7a7571692757] Schedule B1 (administration) is amended as follows.
 
-**26.**[^key-b798377ff948095340cced40095fccc8] In paragraph 13 (administration application), for sub-paragraph (1)(d) and (e) substitute—
+**26.**[^c-b798377ff948095340cced40095fccc8] In paragraph 13 (administration application), for sub-paragraph (1)(d) and (e) substitute—
 
 > - (d) the chief clerk or a collection officer in the exercise of the power mentioned in section 35(4A) and (4B) of the Criminal Justice Act (Northern Ireland) 1945 (enforcement of fines imposed on companies),
 > - (e) a clerk of petty sessions or a collection officer in the exercise of the power mentioned in Article 92A(1) and (1A) of the Magistrates' Courts (Northern Ireland) Order 1981 (enforcement of fines imposed on companies), or
 
 .
 
-**27.**[^key-cb53cfea1d328aa0ba77eab9b3fbcc95] In paragraph 44(5) (moratorium on other legal process), for “execution” substitute “application to enforce judgment”.
+**27.**[^c-cb53cfea1d328aa0ba77eab9b3fbcc95] In paragraph 44(5) (moratorium on other legal process), for “execution” substitute “application to enforce judgment”.
 
-**28.**[^key-c262d9dd46501a562741f92301052d09] In paragraph 65A(1) (administration after moratorium), after “any moratorium” insert “for the company”.
+**28.**[^c-c262d9dd46501a562741f92301052d09] In paragraph 65A(1) (administration after moratorium), after “any moratorium” insert “for the company”.
 
-**29.**[^key-2ecc9f32b029b0f32adfa7dae81eeb8a] Omit—
+**29.**[^c-2ecc9f32b029b0f32adfa7dae81eeb8a] Omit—
 
 - (a) paragraph 74(2)(d) and the “or” immediately before it;
 - (b) paragraph 75(6)(ba).
 
 #### Amendment consequential on Small Business, Enterprise and Employment Act 2015
 
-**30.**[^key-6cf48e4a707c39561816bdaba12b008e] In Schedule 5 (provision that may be included in company insolvency rules), in paragraph 26, for “Article 10(4)” substitute “Article 10A”.
+**30.**[^c-6cf48e4a707c39561816bdaba12b008e] In Schedule 5 (provision that may be included in company insolvency rules), in paragraph 26, for “Article 10(4)” substitute “Article 10A”.
 
 ## Annotations
 
-[^key-4e74e385b61f7d37ab76092afe90c16f]: Commencement: Sch. 3 para. 1 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-4e74e385b61f7d37ab76092afe90c16f]: Commencement: Sch. 3 para. 1 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-390541adf638f884e0f56c2ee905cb0d]: Commencement: Sch. 3 para. 2 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-390541adf638f884e0f56c2ee905cb0d]: Commencement: Sch. 3 para. 2 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-c30a4a96662f6b39d4b9940c1d147135]: Commencement: Sch. 3 para. 3 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-c30a4a96662f6b39d4b9940c1d147135]: Commencement: Sch. 3 para. 3 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-f5c027b2126a43beb6204ff8b610f5bc]: Commencement: Sch. 3 para. 4 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-f5c027b2126a43beb6204ff8b610f5bc]: Commencement: Sch. 3 para. 4 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-a7906c921fcedd004d4a0401c54ba322]: Commencement: Sch. 3 para. 5 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-a7906c921fcedd004d4a0401c54ba322]: Commencement: Sch. 3 para. 5 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-8caf0f0f827c68ac324c63b31e4d51df]: Commencement: Sch. 3 para. 6 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-8caf0f0f827c68ac324c63b31e4d51df]: Commencement: Sch. 3 para. 6 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-a88c6509772a79d839dfd26a6f1d180d]: Commencement: Sch. 3 para. 7 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-a88c6509772a79d839dfd26a6f1d180d]: Commencement: Sch. 3 para. 7 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-85e065a774c8a48ea1ed1e7b89578e93]: Commencement: Sch. 3 para. 8 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-85e065a774c8a48ea1ed1e7b89578e93]: Commencement: Sch. 3 para. 8 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-c52136f29d54643888d2277f563c20b9]: Commencement: Sch. 3 para. 9 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-c52136f29d54643888d2277f563c20b9]: Commencement: Sch. 3 para. 9 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-48952534d75443cc1aae181c87a2b602]: Commencement: Sch. 3 para. 10 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-48952534d75443cc1aae181c87a2b602]: Commencement: Sch. 3 para. 10 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-e0ea91911c79f73d69481b865b545c27]: Commencement: Sch. 3 para. 11 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-e0ea91911c79f73d69481b865b545c27]: Commencement: Sch. 3 para. 11 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-8756b5c5a101ca43c1fb8dc6738bd100]: Commencement: Sch. 3 para. 12 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-8756b5c5a101ca43c1fb8dc6738bd100]: Commencement: Sch. 3 para. 12 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-3ddfa52b7fd9d086282c066b83277ac1]: Commencement: Sch. 3 para. 13 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-3ddfa52b7fd9d086282c066b83277ac1]: Commencement: Sch. 3 para. 13 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-2f25645b90e26638182346eecf4c3381]: Commencement: Sch. 3 para. 14 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-2f25645b90e26638182346eecf4c3381]: Commencement: Sch. 3 para. 14 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-78a5ba8ce9ad43f745a98e8669448076]: Commencement: Sch. 3 para. 15 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-78a5ba8ce9ad43f745a98e8669448076]: Commencement: Sch. 3 para. 15 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-b63ab4768bc79d7cefaece84d5c30fae]: Commencement: Sch. 3 para. 16 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-b63ab4768bc79d7cefaece84d5c30fae]: Commencement: Sch. 3 para. 16 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-04e865f8e591f22341d11e5eaac83677]: Commencement: Sch. 3 para. 17 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-04e865f8e591f22341d11e5eaac83677]: Commencement: Sch. 3 para. 17 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-0c0b8746f2179cd68fe4c53a0dc299e4]: Commencement: Sch. 3 para. 18 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-0c0b8746f2179cd68fe4c53a0dc299e4]: Commencement: Sch. 3 para. 18 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-604532d56ab331051cd710fad5459212]: Commencement: Sch. 3 para. 19 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-604532d56ab331051cd710fad5459212]: Commencement: Sch. 3 para. 19 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-9fd79a884e5688290f3b8de38c66295d]: Commencement: Sch. 3 para. 20 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-9fd79a884e5688290f3b8de38c66295d]: Commencement: Sch. 3 para. 20 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-2d0ad49ccbdde27ef44321efe52c1dfe]: Commencement: Sch. 3 para. 21 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-2d0ad49ccbdde27ef44321efe52c1dfe]: Commencement: Sch. 3 para. 21 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-0ced1bb8aeb5c0fa22c7e2c98d9e57a6]: Commencement: Sch. 3 para. 22 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-0ced1bb8aeb5c0fa22c7e2c98d9e57a6]: Commencement: Sch. 3 para. 22 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-9fdce8571b7bced1888f1b53e6e47afb]: Commencement: Sch. 3 para. 23 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-9fdce8571b7bced1888f1b53e6e47afb]: Commencement: Sch. 3 para. 23 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-73acce07d76d8de1e08fc64a5c8fe095]: Commencement: Sch. 3 para. 24 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-73acce07d76d8de1e08fc64a5c8fe095]: Commencement: Sch. 3 para. 24 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-7c60bf8c04808747b81f7a7571692757]: Commencement: Sch. 3 para. 25 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-7c60bf8c04808747b81f7a7571692757]: Commencement: Sch. 3 para. 25 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-b798377ff948095340cced40095fccc8]: Commencement: Sch. 3 para. 26 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-b798377ff948095340cced40095fccc8]: Commencement: Sch. 3 para. 26 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-cb53cfea1d328aa0ba77eab9b3fbcc95]: Commencement: Sch. 3 para. 27 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-cb53cfea1d328aa0ba77eab9b3fbcc95]: Commencement: Sch. 3 para. 27 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-c262d9dd46501a562741f92301052d09]: Commencement: Sch. 3 para. 28 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-c262d9dd46501a562741f92301052d09]: Commencement: Sch. 3 para. 28 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-2ecc9f32b029b0f32adfa7dae81eeb8a]: Commencement: Sch. 3 para. 29 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-2ecc9f32b029b0f32adfa7dae81eeb8a]: Commencement: Sch. 3 para. 29 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-6cf48e4a707c39561816bdaba12b008e]: Commencement: Sch. 3 para. 30 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-6cf48e4a707c39561816bdaba12b008e]: Commencement: Sch. 3 para. 30 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

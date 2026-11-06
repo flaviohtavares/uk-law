@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**40.**[^key-6ae403cdef742adb1ca5d08778a3438d] (1) Section 8 (children’s pension: rate and mode of payment) is amended as follows.
+**40.**[^c-6ae403cdef742adb1ca5d08778a3438d] (1) Section 8 (children’s pension: rate and mode of payment) is amended as follows.
 
 (2) In subsection (2), for “or widower”, in both places, substitute “, widower or surviving civil partner”.
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ae403cdef742adb1ca5d08778a3438d]: Commencement: Art. 40 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-6ae403cdef742adb1ca5d08778a3438d]: Commencement: Art. 40 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

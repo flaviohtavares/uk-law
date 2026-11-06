@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 74. Correction of accidental errors in determinations and decisions[^key-0f300dab51f865b0d4f75387bd086cee]
+## 74. Correction of accidental errors in determinations and decisions[^c-0f300dab51f865b0d4f75387bd086cee]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f300dab51f865b0d4f75387bd086cee]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/1992/1814/regulation/74) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-0f300dab51f865b0d4f75387bd086cee]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/1992/1814/regulation/74) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 320. Appeal to sheriff principal against certain decisions of the Tribunal[^key-c6b28fb85458ff7654c0eb620029ef16][^key-1fb34af905b61184388bba1f0d1eba21][^key-6c63812d49cc13f29e6f42bebbb6c86b]
+## 320. Appeal to sheriff principal against certain decisions of the Tribunal[^c-c6b28fb85458ff7654c0eb620029ef16][^c-1fb34af905b61184388bba1f0d1eba21][^c-6c63812d49cc13f29e6f42bebbb6c86b]
 
 *Extent: S*
 
@@ -41,7 +41,7 @@ summary: ''
 - (q) a decision to make an order under section 167(4)(b) or (c) of this Act on an application under section 164(2)(a) of this Act;
 - (r) a decision to make an order under section 167(5)(a) of this Act on an application by a patient’s responsible medical officer to vary a compulsion order;
 - (s) a decision to make an order under section 167(5)(b) of this Act refusing an application under section 164(2)(b) of this Act to vary a compulsion order;
-- (t)[^key-ed6e3c354e4902582a4b23feb92a9991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (t)[^c-ed6e3c354e4902582a4b23feb92a9991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (u) a decision to make or refuse to make an order under section 257(2) of this Act declaring an acting named person not to be a named person or appointing a person to be a patient’s named person in place of an acting named person;
 - (v) a decision to make an order under section 257(3) of this Act;
 - (w) a decision, in relation to a patient who is not subject to a restriction order, a hospital direction or a transfer for treatment direction—
@@ -109,10 +109,10 @@ do so.
 
 ## Annotations
 
-[^key-c6b28fb85458ff7654c0eb620029ef16]: Commencement: S. 320 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-c6b28fb85458ff7654c0eb620029ef16]: Commencement: S. 320 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-1fb34af905b61184388bba1f0d1eba21]: Modification: S. 320 applied (with modifications) (5.10.2005) by [Mental Health (Cross-border transfer; patients subject to detention requirement or otherwise in hospital) (Scotland) Regulations 2005 (S.S.I. 2005/467)](https://www.legislation.gov.uk/ssi/2005/467), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/467/regulation/1/1), [14](https://www.legislation.gov.uk/ssi/2005/467/regulation/14) (with [reg. 2](https://www.legislation.gov.uk/ssi/2005/467/regulation/2))
+[^c-1fb34af905b61184388bba1f0d1eba21]: Modification: S. 320 applied (with modifications) (5.10.2005) by [Mental Health (Cross-border transfer; patients subject to detention requirement or otherwise in hospital) (Scotland) Regulations 2005 (S.S.I. 2005/467)](https://www.legislation.gov.uk/ssi/2005/467), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/467/regulation/1/1), [14](https://www.legislation.gov.uk/ssi/2005/467/regulation/14) (with [reg. 2](https://www.legislation.gov.uk/ssi/2005/467/regulation/2))
 
-[^key-6c63812d49cc13f29e6f42bebbb6c86b]: Modification: S. 320 applied (with modifications) (3.11.2008) by [Mental Health (England and Wales Cross-border transfer: patients subject to requirements other than detention) (Scotland) Regulations 2008 (S.S.I. 2008/356)](https://www.legislation.gov.uk/ssi/2008/356), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/356/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2008/356/regulation/9) (with [reg. 2](https://www.legislation.gov.uk/ssi/2008/356/regulation/2))
+[^c-6c63812d49cc13f29e6f42bebbb6c86b]: Modification: S. 320 applied (with modifications) (3.11.2008) by [Mental Health (England and Wales Cross-border transfer: patients subject to requirements other than detention) (Scotland) Regulations 2008 (S.S.I. 2008/356)](https://www.legislation.gov.uk/ssi/2008/356), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/356/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2008/356/regulation/9) (with [reg. 2](https://www.legislation.gov.uk/ssi/2008/356/regulation/2))
 
-[^key-ed6e3c354e4902582a4b23feb92a9991]: Textual amendment: S. 320(1)(t) repealed (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 24(5)](https://www.legislation.gov.uk/asp/2015/9/section/24/5), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-ed6e3c354e4902582a4b23feb92a9991]: Textual amendment: S. 320(1)(t) repealed (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 24(5)](https://www.legislation.gov.uk/asp/2015/9/section/24/5), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)

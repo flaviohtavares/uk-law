@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Development of new towns by local authorities[^key-88fe6ac4046643f760922a6311a8c49a]
+## 16. Development of new towns by local authorities[^c-88fe6ac4046643f760922a6311a8c49a]
 
 *Extent: E+W*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88fe6ac4046643f760922a6311a8c49a]: Commencement: S. 16 in force at 19.7.2017 by [S.I. 2017/767](https://www.legislation.gov.uk/uksi/2017/767), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2017/767/regulation/2/f)
+[^c-88fe6ac4046643f760922a6311a8c49a]: Commencement: S. 16 in force at 19.7.2017 by [S.I. 2017/767](https://www.legislation.gov.uk/uksi/2017/767), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2017/767/regulation/2/f)

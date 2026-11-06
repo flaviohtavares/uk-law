@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE ZA2 — MORATORIUM: CONTRACT OR OTHER INSTRUMENT INVOLVING FINANCIAL SERVICES[^key-7851e028dd25b3dc1ebd755fc8047305]
+## SCHEDULE ZA2 — MORATORIUM: CONTRACT OR OTHER INSTRUMENT INVOLVING FINANCIAL SERVICES[^c-7851e028dd25b3dc1ebd755fc8047305]
 
 *Extent: N.I.*
 
@@ -131,4 +131,4 @@ Article 13D
 
 ## Annotations
 
-[^key-7851e028dd25b3dc1ebd755fc8047305]: Textual amendment: [Sch. ZA2](https://www.legislation.gov.uk/nisi/1989/2405/schedule/ZA2) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 6](https://www.legislation.gov.uk/ukpga/2020/12/schedule/6) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-7851e028dd25b3dc1ebd755fc8047305]: Textual amendment: [Sch. ZA2](https://www.legislation.gov.uk/nisi/1989/2405/schedule/ZA2) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 6](https://www.legislation.gov.uk/ukpga/2020/12/schedule/6) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

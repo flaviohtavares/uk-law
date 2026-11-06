@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 49. Other interpretation etc.[^key-57f5f9a7c62842935f3004955ead521d]
+## 49. Other interpretation etc.[^c-57f5f9a7c62842935f3004955ead521d]
 
 *Extent: E*
 
@@ -43,9 +43,9 @@ summary: ''
 - (f) the spouse or civil partner of a person within paragraphs (a) to (e), or
 - (g) a child, parent, grandchild, grandparent, brother or sister of a person within paragraphs (a) to (e).
 
-(7)[^key-6f4353a6216607670938bf373d5f0e6b] “**Designated adviser**” means a person who is a designated adviser for the purposes of section 119(1) of the Charities Act 2011.
+(7)[^c-6f4353a6216607670938bf373d5f0e6b] “**Designated adviser**” means a person who is a designated adviser for the purposes of section 119(1) of the Charities Act 2011.
 
-(8) A person may not instruct a designated adviser[^key-ba2d10192675fe02c2ff603934377d47] for the purposes of this Measure unless that person reasonably believes that the designated adviser[^key-35e85c3eb58ed2e177fa5a96cbb9b859] has ability in and experience of the valuation of land or other property of the kind concerned and in the area concerned.
+(8) A person may not instruct a designated adviser[^c-ba2d10192675fe02c2ff603934377d47] for the purposes of this Measure unless that person reasonably believes that the designated adviser[^c-35e85c3eb58ed2e177fa5a96cbb9b859] has ability in and experience of the valuation of land or other property of the kind concerned and in the area concerned.
 
 (9) “**Benefice**” means the office of a rector or vicar of a parish or parishes with cure of souls but does not include the office of vicar in a team ministry.
 
@@ -57,10 +57,10 @@ summary: ''
 
 ## Annotations
 
-[^key-57f5f9a7c62842935f3004955ead521d]: Commencement: [S. 49](https://www.legislation.gov.uk/ukcm/2018/8/section/49) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-57f5f9a7c62842935f3004955ead521d]: Commencement: [S. 49](https://www.legislation.gov.uk/ukcm/2018/8/section/49) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
 
-[^key-6f4353a6216607670938bf373d5f0e6b]: Textual amendment: [S. 49(7)](https://www.legislation.gov.uk/ukcm/2018/8/section/49/7) substituted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 16(3)](https://www.legislation.gov.uk/ukcm/2024/1/section/16/3), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)
+[^c-6f4353a6216607670938bf373d5f0e6b]: Textual amendment: [S. 49(7)](https://www.legislation.gov.uk/ukcm/2018/8/section/49/7) substituted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 16(3)](https://www.legislation.gov.uk/ukcm/2024/1/section/16/3), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)
 
-[^key-ba2d10192675fe02c2ff603934377d47]: Textual amendment: Words in [s. 49(8)](https://www.legislation.gov.uk/ukcm/2018/8/section/49/8) substituted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 16(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/16/4), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)
+[^c-ba2d10192675fe02c2ff603934377d47]: Textual amendment: Words in [s. 49(8)](https://www.legislation.gov.uk/ukcm/2018/8/section/49/8) substituted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 16(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/16/4), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)
 
-[^key-35e85c3eb58ed2e177fa5a96cbb9b859]: Textual amendment: Words in [s. 49(8)](https://www.legislation.gov.uk/ukcm/2018/8/section/49/8) substituted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 16(5)](https://www.legislation.gov.uk/ukcm/2024/1/section/16/5), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)
+[^c-35e85c3eb58ed2e177fa5a96cbb9b859]: Textual amendment: Words in [s. 49(8)](https://www.legislation.gov.uk/ukcm/2018/8/section/49/8) substituted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 16(5)](https://www.legislation.gov.uk/ukcm/2024/1/section/16/5), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)

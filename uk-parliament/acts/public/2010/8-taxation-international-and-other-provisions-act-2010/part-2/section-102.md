@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Interpreting sections 99 to 101 for life assurance or gross roll-up business[^key-a2aa24015e49a1883da100b93b06959d]
+## 102. Interpreting sections 99 to 101 for life assurance or gross roll-up business[^c-a2aa24015e49a1883da100b93b06959d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2aa24015e49a1883da100b93b06959d]: Textual amendment: S. 102 omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 239](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/239)
+[^c-a2aa24015e49a1883da100b93b06959d]: Textual amendment: S. 102 omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 239](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/239)

@@ -32,7 +32,7 @@ AGRICULTURE
 
 EUROPEAN COMMUNITIES
 
-Eggs (Marketing Standards) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^key-c6069677adea6bdb0aee4562eaf81556]
+Eggs (Marketing Standards) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^c-c6069677adea6bdb0aee4562eaf81556]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into operation
 
 2nd September 1998
 
-[^key-c6069677adea6bdb0aee4562eaf81556]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c6069677adea6bdb0aee4562eaf81556]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-c6069677adea6bdb0aee4562eaf81556]
+## 1. Citation, commencement and interpretation[^c-c6069677adea6bdb0aee4562eaf81556]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Eggs (Marketing Standards) Regulations (Northern Ireland) 1995[^key-c6069677adea6bdb0aee4562eaf81556]
+## 2. Amendment of the Eggs (Marketing Standards) Regulations (Northern Ireland) 1995[^c-c6069677adea6bdb0aee4562eaf81556]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6069677adea6bdb0aee4562eaf81556]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c6069677adea6bdb0aee4562eaf81556]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c6069677adea6bdb0aee4562eaf81556]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c6069677adea6bdb0aee4562eaf81556]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c6069677adea6bdb0aee4562eaf81556]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/269) revoked (14.4.2008) by [The Eggs and Chicks Regulations (Northern Ireland) 2008 (S.R. 2008/98)](https://www.legislation.gov.uk/nisr/2008/98), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/98/regulation/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2008/98/schedule/1)
+[^c-c6069677adea6bdb0aee4562eaf81556]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/269) revoked (14.4.2008) by [The Eggs and Chicks Regulations (Northern Ireland) 2008 (S.R. 2008/98)](https://www.legislation.gov.uk/nisr/2008/98), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/98/regulation/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2008/98/schedule/1)

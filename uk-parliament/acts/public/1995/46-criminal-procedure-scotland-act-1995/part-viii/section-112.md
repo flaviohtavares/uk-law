@@ -52,7 +52,7 @@ the High Court shall not admit the convicted person to bail under subsection (1)
 
 (5) For the purposes of subsections (1), (3) and (4) above, “**appellant**” includes not only a person who has lodged a note of appeal but also one who has lodged an intimation of intention to appeal.
 
-(6)[^c14470371] Subject to subsections (7) and (9)[^c18926491] below, the High Court may, if it thinks fit, on the application of a convicted person, admit him to bail pending the determination of any appeal under section 288AA of this Act or[^key-f4b7525d551b55a36c1d914c4dce08c8] paragraph 13(a) of Schedule 6 to the Scotland Act 1998 and the disposal of the proceedings by the High Court thereafter.
+(6)[^c14470371] Subject to subsections (7) and (9)[^c18926491] below, the High Court may, if it thinks fit, on the application of a convicted person, admit him to bail pending the determination of any appeal under section 288AA of this Act or[^c-f4b7525d551b55a36c1d914c4dce08c8] paragraph 13(a) of Schedule 6 to the Scotland Act 1998 and the disposal of the proceedings by the High Court thereafter.
 
 (7) The High Court shall not admit a convicted person to bail under subsection (6) above unless
 
@@ -82,7 +82,7 @@ the High Court shall not admit the convicted person to bail under subsection (1)
 
 [^c18926491]: Textual amendment: Words in s. 112(6) substituted (27.6.2003) by virtue of [Criminal Justice (Scotland) Act 2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7) , [ss. 66(5)(c)](https://www.legislation.gov.uk/asp/2003/7/section/66/5/c) , [89](https://www.legislation.gov.uk/asp/2003/7/section/89) ; [S.S.I. 2003/288](https://www.legislation.gov.uk/ssi/2003/288) , [art. 2](https://www.legislation.gov.uk/ssi/2003/288/article/2)
 
-[^key-f4b7525d551b55a36c1d914c4dce08c8]: Textual amendment: Words in s. 112(6) inserted (22.4.2013) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 36(10)](https://www.legislation.gov.uk/ukpga/2012/11/section/36/10), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5); [S.I. 2013/6](https://www.legislation.gov.uk/uksi/2013/6), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/6/article/2/c)
+[^c-f4b7525d551b55a36c1d914c4dce08c8]: Textual amendment: Words in s. 112(6) inserted (22.4.2013) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 36(10)](https://www.legislation.gov.uk/ukpga/2012/11/section/36/10), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5); [S.I. 2013/6](https://www.legislation.gov.uk/uksi/2013/6), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/6/article/2/c)
 
 [^c18926521]: Textual amendment: Words in s. 112(7) renumbered as s. 112(7)(a) (27.6.2003) by virtue of [Criminal Justice (Scotland) Act 2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7) , [ss. 66(5)(d)(i)](https://www.legislation.gov.uk/asp/2003/7/section/66/5/d/i) , [89](https://www.legislation.gov.uk/asp/2003/7/section/89) ; [S.S.I. 2003/288](https://www.legislation.gov.uk/ssi/2003/288) , [art. 2](https://www.legislation.gov.uk/ssi/2003/288/article/2)
 

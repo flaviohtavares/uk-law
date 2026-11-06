@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Validity of national marine plans and regional marine plans[^key-645a46ef31eb33c0446224c66dd61822]
+## 17. Validity of national marine plans and regional marine plans[^c-645a46ef31eb33c0446224c66dd61822]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-645a46ef31eb33c0446224c66dd61822]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2010/5/section/17) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/230/article/2/a)
+[^c-645a46ef31eb33c0446224c66dd61822]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2010/5/section/17) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/230/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 113. Amendment of regulation 9[^key-759797a6db3cf83863bfd2c790a793f3]
+## 113. Amendment of regulation 9[^c-759797a6db3cf83863bfd2c790a793f3]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ In regulation 9 (inward transfers: mis-sold pensions)—
 
 ## Annotations
 
-[^key-759797a6db3cf83863bfd2c790a793f3]: Commencement: [Reg. 113](https://www.legislation.gov.uk/ssi/2011/364/regulation/113) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-759797a6db3cf83863bfd2c790a793f3]: Commencement: [Reg. 113](https://www.legislation.gov.uk/ssi/2011/364/regulation/113) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

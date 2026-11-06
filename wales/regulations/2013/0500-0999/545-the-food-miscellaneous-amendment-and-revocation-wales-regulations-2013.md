@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Food (Miscellaneous Amendment and Revocation) (Wales) Regulations 2013 (revoked)[^key-6b6a962e82f6ffb2147385129de102b0]
+The Food (Miscellaneous Amendment and Revocation) (Wales) Regulations 2013 (revoked)[^c-6b6a962e82f6ffb2147385129de102b0]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 6 April 2013
 
-[^key-6b6a962e82f6ffb2147385129de102b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b6a962e82f6ffb2147385129de102b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title application and commencement[^key-6b6a962e82f6ffb2147385129de102b0]
+## 1. Title application and commencement[^c-6b6a962e82f6ffb2147385129de102b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Food Labelling Regulations 1996[^key-6b6a962e82f6ffb2147385129de102b0]
+## 2. Amendment of the Food Labelling Regulations 1996[^c-6b6a962e82f6ffb2147385129de102b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-6b6a962e82f6ffb2147385129de102b0]
+## 3. Revocation[^c-6b6a962e82f6ffb2147385129de102b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6b6a962e82f6ffb2147385129de102b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b6a962e82f6ffb2147385129de102b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6b6a962e82f6ffb2147385129de102b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b6a962e82f6ffb2147385129de102b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6b6a962e82f6ffb2147385129de102b0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2013/545) revoked (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/wsi/2014/2303/schedule/6/part/1)
+[^c-6b6a962e82f6ffb2147385129de102b0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2013/545) revoked (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/wsi/2014/2303/schedule/6/part/1)

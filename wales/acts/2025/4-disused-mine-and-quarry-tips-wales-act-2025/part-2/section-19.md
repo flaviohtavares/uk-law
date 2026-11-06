@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Notice of conclusions of full assessment[^key-205906f946fc582e9b21b40f68e6b359]
+## 19. Notice of conclusions of full assessment[^c-205906f946fc582e9b21b40f68e6b359]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Where the Authority produces a report of a full assessment in relation to a disu
 
 ## Annotations
 
-[^key-205906f946fc582e9b21b40f68e6b359]: Commencement: S. 19 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-205906f946fc582e9b21b40f68e6b359]: Commencement: S. 19 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

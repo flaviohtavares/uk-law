@@ -64,11 +64,11 @@ summary: ''
 
 ### Insolvency Act 1986 c.45
 
-**8.**[^key-eaf04f2f00fdb7c04f7204f8ff347c90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-eaf04f2f00fdb7c04f7204f8ff347c90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Bankruptcy (Scotland) Act 1985 c.66
 
-**9.**[^key-d88da4022b5d22118cfede203d7915fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-d88da4022b5d22118cfede203d7915fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Income and Corporation Taxes Act 1988 c.1
 
@@ -87,7 +87,7 @@ summary: ''
 
 ### Tribunals and Inquiries Act 1992 c.53
 
-**12.**[^key-033e837200626acc61df49599bffa7fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-033e837200626acc61df49599bffa7fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Finance Act 1994 c.9
 
@@ -108,12 +108,12 @@ summary: ''
 
 [^c15306971]: Extent: Sch. 14 para. 7 extends to the Isle of Man.
 
-[^key-eaf04f2f00fdb7c04f7204f8ff347c90]: Textual amendment: Sch. 14 para. 8 repealed (15.9.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2093/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/2093/article/4))
+[^c-eaf04f2f00fdb7c04f7204f8ff347c90]: Textual amendment: Sch. 14 para. 8 repealed (15.9.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2093/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/2093/article/4))
 
-[^key-d88da4022b5d22118cfede203d7915fb]: Textual amendment: Sch. 14 para. 9 repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
+[^c-d88da4022b5d22118cfede203d7915fb]: Textual amendment: Sch. 14 para. 9 repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
 
 [^c15306981]: Textual amendment: Sch. 14 para. 11 repealed (22.3.2001 with effect as mentioned in s. 579(1)) of the amending Act) by [2001 c. 2](https://www.legislation.gov.uk/ukpga/2001/2), [s. 580](https://www.legislation.gov.uk/ukpga/2001/2/section/580), [Sch. 4](https://www.legislation.gov.uk/ukpga/2001/2/schedule/4)
 
-[^key-033e837200626acc61df49599bffa7fd]: Textual amendment: Sch. 14 para. 12 omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 229](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/229)
+[^c-033e837200626acc61df49599bffa7fd]: Textual amendment: Sch. 14 para. 12 omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 229](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/229)
 
 [^c15306991]: Textual amendment: Sch. 14 para. 13(a) substituted (retrospectively) by [1995 c. 4](https://www.legislation.gov.uk/ukpga/1995/4), [s. 33(5)](https://www.legislation.gov.uk/ukpga/1995/4/section/33/5)

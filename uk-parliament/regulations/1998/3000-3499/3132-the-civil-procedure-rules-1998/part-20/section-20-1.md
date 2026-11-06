@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20.1. Purpose of this Part[^key-5901d3f8919b858d7dbecf241e0051d7]
+## 20.1. Purpose of this Part[^c-5901d3f8919b858d7dbecf241e0051d7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The purpose of this Part is to enable counterclaims and other additional claims 
 
 ## Annotations
 
-[^key-5901d3f8919b858d7dbecf241e0051d7]: Textual amendment: Pt. 20 substituted (6.4.2006) by [The Civil Procedure (Amendment No.4) Rules 2005 (S.I. 2005/3515)](https://www.legislation.gov.uk/uksi/2005/3515), [rule 1](https://www.legislation.gov.uk/uksi/2005/3515/rule/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3515/schedule/1)
+[^c-5901d3f8919b858d7dbecf241e0051d7]: Textual amendment: Pt. 20 substituted (6.4.2006) by [The Civil Procedure (Amendment No.4) Rules 2005 (S.I. 2005/3515)](https://www.legislation.gov.uk/uksi/2005/3515), [rule 1](https://www.legislation.gov.uk/uksi/2005/3515/rule/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3515/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28B. Personal copies for private use[^key-2f0005b51f71d1a07258da986ca9ccac]
+## 28B. Personal copies for private use[^c-2f0005b51f71d1a07258da986ca9ccac]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f0005b51f71d1a07258da986ca9ccac]: Textual amendment: S. 28B inserted (1.10.2014) by [The Copyright and Rights in Performances (Personal Copies for Private Use) Regulations 2014 (S.I. 2014/2361)](https://www.legislation.gov.uk/uksi/2014/2361), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2361/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2014/2361/regulation/3/1) (with [reg. 5](https://www.legislation.gov.uk/uksi/2014/2361/regulation/5)) (but note that the amending S.I. was quashed with prospective effect by the High Court in the case of R (British Academy of Songwriters, Composers and Authors and others) v Secretary of State for Business, Innovation and Skills \[2015\] EWHC 2041 (Admin), 17 July 2015)
+[^c-2f0005b51f71d1a07258da986ca9ccac]: Textual amendment: S. 28B inserted (1.10.2014) by [The Copyright and Rights in Performances (Personal Copies for Private Use) Regulations 2014 (S.I. 2014/2361)](https://www.legislation.gov.uk/uksi/2014/2361), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2361/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2014/2361/regulation/3/1) (with [reg. 5](https://www.legislation.gov.uk/uksi/2014/2361/regulation/5)) (but note that the amending S.I. was quashed with prospective effect by the High Court in the case of R (British Academy of Songwriters, Composers and Authors and others) v Secretary of State for Business, Innovation and Skills \[2015\] EWHC 2041 (Admin), 17 July 2015)

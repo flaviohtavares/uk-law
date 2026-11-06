@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE — Punishment of offences[^key-325bc9d9a6451b946a3c1eb396d62a0a]
+## SCHEDULE — Punishment of offences[^c-325bc9d9a6451b946a3c1eb396d62a0a]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ Rule 248
 
 ## Annotations
 
-[^key-325bc9d9a6451b946a3c1eb396d62a0a]: Commencement: Sch. in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-325bc9d9a6451b946a3c1eb396d62a0a]: Commencement: Sch. in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

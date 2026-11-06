@@ -50,13 +50,13 @@ The Secretary of State is designated for the purposes of section 2(2) of the Eur
 
 Exercising the powers conferred upon her by that section, she makes the following Regulations:
 
-## 1. Title, application and commencement[^key-fd75abf799d69a03f9b3e742df3a3808]
+## 1. Title, application and commencement[^c-fd75abf799d69a03f9b3e742df3a3808]
 
 (1) These Regulations may be cited as the Avian Influenza (Preventive Measures) (No 2) Regulations 2005.
 
 (2) These Regulations apply in England only and come into force on 9th December 2005.
 
-## 2. Interpretation[^key-f62c3afed7ac7d0a4cf07c94b2c3037b]
+## 2. Interpretation[^c-f62c3afed7ac7d0a4cf07c94b2c3037b]
 
 In these Regulations—
 
@@ -82,13 +82,13 @@ In these Regulations—
   - (i) a permanent establishment where animals of wild species are kept for exhibition to the public for seven or more days a year, with the exception of circuses and pet shops; and
   - (ii) an approved body, institute or centre, as defined in point (c) of Article 2(1) of Council Directive 92/65 EC laying down animal health requirements governing trade in and imports into the Community of animals, semen, ova and embryos not subject to animal health requirements laid down in specific Community rules referred to in Annex A(I)) to Directive 90/425[^f00010].
 
-## 3. Licences, notices and declarations[^key-eae50f12d3d32cf771cda8d00db6b039]
+## 3. Licences, notices and declarations[^c-eae50f12d3d32cf771cda8d00db6b039]
 
 (1) Declarations, notices and licences under these Regulations shall be in writing, may be subject to conditions and may be amended, suspended or revoked in writing at any time.
 
 (2) The Secretary of State shall take such steps as she considers necessary to ensure that declarations, licences and notices are brought to the attention of those who may be affected by them and, in particular, shall ensure that the extent of any zone declared under these Regulations, the nature of the restrictions and requirements applicable within it and the dates of its declaration and withdrawal (and any suspension of it) are publicised.
 
-## 4. Risk assessment and imposition of restrictions[^key-e641157f6004925a3979c1375f94e0da]
+## 4. Risk assessment and imposition of restrictions[^c-e641157f6004925a3979c1375f94e0da]
 
 (1) The Secretary of State shall evaluate the risk of the transmission of avian influenza virus (in particular virus of the sub-type H5N1) within or to England, taking into account the criteria and risk factors set out in Annex I to the Commission Decision.
 
@@ -125,13 +125,13 @@ In these Regulations—
 
 (6) Any premises which are partly inside and partly outside an avian influenza prevention zone shall be deemed to be wholly within it.
 
-## 5. Prohibition on fairs, markets, shows and other gatherings[^key-13ce9945ab05d02684fd5ef196a40817]
+## 5. Prohibition on fairs, markets, shows and other gatherings[^c-13ce9945ab05d02684fd5ef196a40817]
 
 (1) No person shall permit birds to be collected together at any fair, market, show, exhibition or other gathering except under the authority of a licence issued by the Secretary of State.
 
 (2) The Secretary of State shall only grant a licence if a veterinary risk assessment has been carried out and she is satisfied that the gathering and the transit of birds to and from the gathering would not significantly increase the risk of the transmission of avian influenza virus (in particular of virus of the sub-type H5N1).
 
-## 6. Identification of poultry premises[^key-66960459255ee0124ba41febacbb32db]
+## 6. Identification of poultry premises[^c-66960459255ee0124ba41febacbb32db]
 
 (1) Any person who keeps 50 or more poultry on commercial premises shall make a written record of the following—
 
@@ -149,17 +149,17 @@ In these Regulations—
 
 (3) The person who makes the written record shall inform the Secretary of State if poultry have not been kept on the premises for over a year.
 
-## 7. Identification of other premises[^key-c628f660706588f73da3df889a59f3da]
+## 7. Identification of other premises[^c-c628f660706588f73da3df889a59f3da]
 
 (1) The Secretary of State shall (if she considers it necessary for the purpose of carrying out a risk assessment under regulation 4 or 5 or otherwise complying with the Commission Decision), require, in writing, any keeper of poultry or other captive birds on premises other those to which regulation 6 applies to comply with some or all of the requirements of regulation 6.
 
 (2) For the purposes of this Regulation, regulation 6 shall be read as if references to poultry included reference to other captive birds.
 
-## 8. Monitoring of premises[^key-58061f304a8b215a5d3d453e4b17fe25]
+## 8. Monitoring of premises[^c-58061f304a8b215a5d3d453e4b17fe25]
 
 The Secretary of State shall ensure that veterinary inspectors and inspectors who inspect premises where poultry or other captive birds are kept monitor compliance with these Regulations.
 
-## 9. Measures in zoos[^key-a2014d858374f1ca2315c2ed8ec6a7d5]
+## 9. Measures in zoos[^c-a2014d858374f1ca2315c2ed8ec6a7d5]
 
 (1) The Secretary of State shall evaluate the risk of the transmission of avian influenza virus (in particular virus of the sub-type H5N1) from wild birds to susceptible birds in zoos, taking into account the criteria and risk factors set out in Annex I to the Commission Decision on Zoos.
 
@@ -182,17 +182,17 @@ The Secretary of State shall ensure that veterinary inspectors and inspectors wh
 
 (5) The Secretary of State may, in accordance with Article 2 of the Commission Decision on Zoos, declare that certain premises are exempt from such requirements.
 
-## 10. Vaccination of susceptible birds in zoos[^key-f0c89125853d3d1b9263d900ae198786]
+## 10. Vaccination of susceptible birds in zoos[^c-f0c89125853d3d1b9263d900ae198786]
 
 (1) Following a risk assessment, the Secretary of State shall, if she considers it necessary to reduce the risk of transmission of avian influenza, vaccinate or require the vaccination of susceptible birds in zoos.
 
 (2) If vaccination is not carried out by the Secretary of State, it shall be carried out in accordance with instructions issued by her.
 
-## 11. Duty to comply with declarations and notices[^key-459227f3327bb2660f7c0128d9e51b30]
+## 11. Duty to comply with declarations and notices[^c-459227f3327bb2660f7c0128d9e51b30]
 
 Any person to whom restrictions in a declaration or a notice under these Regulations apply shall comply with such restrictions, except to the extent that he is authorised to do otherwise by a licence issued by a veterinary inspector.
 
-## 12. Powers of inspectors[^key-0b062bced042ea53335f3a5b878cbfbd]
+## 12. Powers of inspectors[^c-0b062bced042ea53335f3a5b878cbfbd]
 
 (1) A veterinary inspector or an inspector may enter any premises for the purpose of ascertaining whether these Regulations (or any declaration, notice or licence under them) are being or have been complied with and may—
 
@@ -205,7 +205,7 @@ Any person to whom restrictions in a declaration or a notice under these Regulat
 
 (3) If an inspector enters any unoccupied premises he shall leave them as effectively secured against unauthorised entry as he found them.
 
-## 13. Enforcement and offences[^key-0bde80d522748505a6236cb654d06c28]
+## 13. Enforcement and offences[^c-0bde80d522748505a6236cb654d06c28]
 
 (1) The following provisions of the Act apply as if these Regulations were an Order made under the Act—
 
@@ -235,7 +235,7 @@ he, as well as the body corporate, is guilty of the offence and liable to be pro
 
 (6) The Secretary of State may direct, in relation to cases of a particular description or a particular case, that any duty imposed on a local authority under paragraph (5) shall be discharged by the Secretary of State and not by the local authority.
 
-## 14. Powers of inspectors in case of default[^key-f46cb865ac8658d5a3635836ef28253b]
+## 14. Powers of inspectors in case of default[^c-f46cb865ac8658d5a3635836ef28253b]
 
 (1) If a person fails to comply with a requirement of these Regulations or of a declaration made, notice issued or licence granted under them, a veterinary inspector or an inspector may take any steps he considers necessary to ensure the requirement is met, including—
 
@@ -246,7 +246,7 @@ he, as well as the body corporate, is guilty of the offence and liable to be pro
 
 (3) The person in default shall reimburse any reasonable expenses incurred by the Secretary of State or the local authority in taking such steps and any such reimbursement is recoverable summarily.
 
-## 15. Revocations[^key-a5b4060f06b31571b6b2a4ca1ad79442]
+## 15. Revocations[^c-a5b4060f06b31571b6b2a4ca1ad79442]
 
 The Avian Influenza (Preventive Measures) Regulations 2005[^f00011] and the Avian Influenza (Preventive Measures in Zoos) Regulations 2005[^f00012] are revoked.
 
@@ -293,9 +293,9 @@ A regulatory impact assessment has not been prepared in respect of these Regulat
 
 [^f00002]: Footnote: S.I. [1972/1811](https://www.legislation.gov.uk/uksi/1972/1811)
 
-[^key-fd75abf799d69a03f9b3e742df3a3808]: Commencement: Reg. 1 in force at 9.12.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3394/regulation/1/2)
+[^c-fd75abf799d69a03f9b3e742df3a3808]: Commencement: Reg. 1 in force at 9.12.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3394/regulation/1/2)
 
-[^key-f62c3afed7ac7d0a4cf07c94b2c3037b]: Commencement: Reg. 2 in force at 9.12.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3394/regulation/1/2)
+[^c-f62c3afed7ac7d0a4cf07c94b2c3037b]: Commencement: Reg. 2 in force at 9.12.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3394/regulation/1/2)
 
 [^f00003]: Footnote: OJ L No 164, 24.6.2005, p. 52, as amended by Commission Decision [2005/726/EC](https://www.legislation.gov.uk/european/decision/2005/0726) (OJ No L 273, 19.10.2005, p. 21).
 
@@ -313,31 +313,31 @@ A regulatory impact assessment has not been prepared in respect of these Regulat
 
 [^f00010]: Footnote: OJ No L 268, 14.9.1992, p. 54, as last amended by Council Regulation [(EC) No 1398/2003](https://www.legislation.gov.uk/european/regulation/2003/1398) (OJ No L 198 6.8.2003, p. 3).
 
-[^key-eae50f12d3d32cf771cda8d00db6b039]: Commencement: Reg. 3 in force at 9.12.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3394/regulation/1/2)
+[^c-eae50f12d3d32cf771cda8d00db6b039]: Commencement: Reg. 3 in force at 9.12.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3394/regulation/1/2)
 
-[^key-e641157f6004925a3979c1375f94e0da]: Commencement: Reg. 4 in force at 9.12.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3394/regulation/1/2)
+[^c-e641157f6004925a3979c1375f94e0da]: Commencement: Reg. 4 in force at 9.12.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3394/regulation/1/2)
 
-[^key-13ce9945ab05d02684fd5ef196a40817]: Commencement: Reg. 5 in force at 9.12.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3394/regulation/1/2)
+[^c-13ce9945ab05d02684fd5ef196a40817]: Commencement: Reg. 5 in force at 9.12.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3394/regulation/1/2)
 
-[^key-66960459255ee0124ba41febacbb32db]: Commencement: Reg. 6 in force at 9.12.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3394/regulation/1/2)
+[^c-66960459255ee0124ba41febacbb32db]: Commencement: Reg. 6 in force at 9.12.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3394/regulation/1/2)
 
-[^key-c628f660706588f73da3df889a59f3da]: Commencement: Reg. 7 in force at 9.12.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3394/regulation/1/2)
+[^c-c628f660706588f73da3df889a59f3da]: Commencement: Reg. 7 in force at 9.12.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3394/regulation/1/2)
 
-[^key-58061f304a8b215a5d3d453e4b17fe25]: Commencement: Reg. 8 in force at 9.12.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3394/regulation/1/2)
+[^c-58061f304a8b215a5d3d453e4b17fe25]: Commencement: Reg. 8 in force at 9.12.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3394/regulation/1/2)
 
-[^key-a2014d858374f1ca2315c2ed8ec6a7d5]: Commencement: Reg. 9 in force at 9.12.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3394/regulation/1/2)
+[^c-a2014d858374f1ca2315c2ed8ec6a7d5]: Commencement: Reg. 9 in force at 9.12.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3394/regulation/1/2)
 
-[^key-f0c89125853d3d1b9263d900ae198786]: Commencement: Reg. 10 in force at 9.12.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3394/regulation/1/2)
+[^c-f0c89125853d3d1b9263d900ae198786]: Commencement: Reg. 10 in force at 9.12.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3394/regulation/1/2)
 
-[^key-459227f3327bb2660f7c0128d9e51b30]: Commencement: Reg. 11 in force at 9.12.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3394/regulation/1/2)
+[^c-459227f3327bb2660f7c0128d9e51b30]: Commencement: Reg. 11 in force at 9.12.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3394/regulation/1/2)
 
-[^key-0b062bced042ea53335f3a5b878cbfbd]: Commencement: Reg. 12 in force at 9.12.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3394/regulation/1/2)
+[^c-0b062bced042ea53335f3a5b878cbfbd]: Commencement: Reg. 12 in force at 9.12.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3394/regulation/1/2)
 
-[^key-0bde80d522748505a6236cb654d06c28]: Commencement: Reg. 13 in force at 9.12.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3394/regulation/1/2)
+[^c-0bde80d522748505a6236cb654d06c28]: Commencement: Reg. 13 in force at 9.12.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3394/regulation/1/2)
 
-[^key-f46cb865ac8658d5a3635836ef28253b]: Commencement: Reg. 14 in force at 9.12.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3394/regulation/1/2)
+[^c-f46cb865ac8658d5a3635836ef28253b]: Commencement: Reg. 14 in force at 9.12.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3394/regulation/1/2)
 
-[^key-a5b4060f06b31571b6b2a4ca1ad79442]: Commencement: Reg. 15 in force at 9.12.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3394/regulation/1/2)
+[^c-a5b4060f06b31571b6b2a4ca1ad79442]: Commencement: Reg. 15 in force at 9.12.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3394/regulation/1/2)
 
 [^f00011]: Footnote: S.I. [2005/2989](https://www.legislation.gov.uk/uksi/2005/2989).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49FA. Effect of conclusions of review: penalties under Schedule 24 to FA 2021[^key-0b3a5770847c54f2dee7087bdfae8fae][^key-03c0fd66df679133dd8f1813e9148840]
+## 49FA. Effect of conclusions of review: penalties under Schedule 24 to FA 2021[^c-0b3a5770847c54f2dee7087bdfae8fae][^c-03c0fd66df679133dd8f1813e9148840]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0b3a5770847c54f2dee7087bdfae8fae]: Textual amendment: [S. 49FA](https://www.legislation.gov.uk/ukpga/1970/9/section/49FA) inserted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/6); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-0b3a5770847c54f2dee7087bdfae8fae]: Textual amendment: [S. 49FA](https://www.legislation.gov.uk/ukpga/1970/9/section/49FA) inserted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/6); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-03c0fd66df679133dd8f1813e9148840]: Textual amendment: Ss. 49A-49I inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/30) (with [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/5))
+[^c-03c0fd66df679133dd8f1813e9148840]: Textual amendment: Ss. 49A-49I inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/30) (with [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/5))

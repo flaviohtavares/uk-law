@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Affirmative procedure for certain orders[^key-7798aac9ec069e7d6821f1f5748b20e9]
+## 94. Affirmative procedure for certain orders[^c-7798aac9ec069e7d6821f1f5748b20e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7798aac9ec069e7d6821f1f5748b20e9]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2012/21/section/94) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
+[^c-7798aac9ec069e7d6821f1f5748b20e9]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2012/21/section/94) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)

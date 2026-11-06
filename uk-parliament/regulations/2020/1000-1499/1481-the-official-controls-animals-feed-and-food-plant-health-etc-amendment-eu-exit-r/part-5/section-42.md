@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. The Animal Welfare (Amendment) (EU Exit) Regulations 2019[^key-342d103e31a87b30265c1570e309dab0]
+## 42. The Animal Welfare (Amendment) (EU Exit) Regulations 2019[^c-342d103e31a87b30265c1570e309dab0]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-342d103e31a87b30265c1570e309dab0]: Commencement: Reg. 42 in force at 31.12.2020 immediately before IP completion day, see reg. 1 (as amended by [S.I. 2020/1631](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/10/2))
+[^c-342d103e31a87b30265c1570e309dab0]: Commencement: Reg. 42 in force at 31.12.2020 immediately before IP completion day, see reg. 1 (as amended by [S.I. 2020/1631](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/10/2))
 
 [^c24368981]: Marginal citation: [S.I. 2019/802](https://www.legislation.gov.uk/uksi/2019/802).

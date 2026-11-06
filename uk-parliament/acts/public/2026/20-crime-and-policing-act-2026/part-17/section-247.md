@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 247. OFCOM’s notices to providers of internet services[^key-9fc06a35985cef0a9ddf6b9c2d55b5fd]
+## 247. OFCOM’s notices to providers of internet services[^c-9fc06a35985cef0a9ddf6b9c2d55b5fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,7 +44,7 @@ summary: ''
 (3) In section 101 (information in connection with an investigation into the death of a child)—
 
 - (a) in subsection (A1)(a), after “child,” insert “or (in England and Wales) notifies OFCOM of the death of a child as required by section 31A of the Coroners and Justice Act 2009,”;
-- (b)[^key-94bbf799ee6e4f23a544e58916cd80d7] after subsection (G1) insert—
+- (b)[^c-94bbf799ee6e4f23a544e58916cd80d7] after subsection (G1) insert—
 
   > (H1) Regulations under subsection (E1)(a) may make provision by reference to a document as amended from time to time.
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9fc06a35985cef0a9ddf6b9c2d55b5fd]: Commencement: S. 247 not in force at Royal Assent, see [s. 255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)
+[^c-9fc06a35985cef0a9ddf6b9c2d55b5fd]: Commencement: S. 247 not in force at Royal Assent, see [s. 255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)
 
-[^key-94bbf799ee6e4f23a544e58916cd80d7]: Commencement: [S. 247(3)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/247/3/b) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z7)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z7)
+[^c-94bbf799ee6e4f23a544e58916cd80d7]: Commencement: [S. 247(3)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/247/3/b) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z7)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z7)

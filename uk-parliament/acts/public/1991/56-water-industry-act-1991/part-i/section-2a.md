@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2A. Strategic priorities and objectives: England[^key-48467d5ab1047fbaa4767ea6f0e408bc]
+## 2A. Strategic priorities and objectives: England[^c-48467d5ab1047fbaa4767ea6f0e408bc]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 - (a) the Authority,
 - (b) the Council,
 - (c) relevant undertakers,
-- (d) water supply licensees and sewerage licensees[^key-677fc9b1fdf69b363a5233956e123a3b],
+- (d) water supply licensees and sewerage licensees[^c-677fc9b1fdf69b363a5233956e123a3b],
 - (e) the Environment Agency,
 - (f) the Welsh Ministers,
 - (g) the NRBW, and
@@ -52,14 +52,14 @@ summary: ''
 
 (8) When calculating the 40-day period, ignore any period during which Parliament is dissolved or prorogued or during which both Houses are adjourned for more than 4 days.
 
-(9) In this section “**relevant functions relating wholly or mainly to England**” means the functions mentioned in section 2(1)[^key-0f24931ae649409b50b23ad2a0079aff] so far as they relate to appointment areas wholly or mainly in England.
+(9) In this section “**relevant functions relating wholly or mainly to England**” means the functions mentioned in section 2(1)[^c-0f24931ae649409b50b23ad2a0079aff] so far as they relate to appointment areas wholly or mainly in England.
 
 (10) In subsection (9) “**appointment area**” means an area for which an appointment is held under Chapter 1 of Part 2.
 
 ## Annotations
 
-[^key-48467d5ab1047fbaa4767ea6f0e408bc]: Textual amendment: Ss. 2A, 2B substituted for s. 2A (6.4.2015) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/24/1), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/773/article/2/1/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/773/article/4))
+[^c-48467d5ab1047fbaa4767ea6f0e408bc]: Textual amendment: Ss. 2A, 2B substituted for s. 2A (6.4.2015) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/24/1), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/773/article/2/1/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/773/article/4))
 
-[^key-677fc9b1fdf69b363a5233956e123a3b]: Textual amendment: Words in s. 2A(4)(d) substituted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/4); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(d)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/d) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
+[^c-677fc9b1fdf69b363a5233956e123a3b]: Textual amendment: Words in s. 2A(4)(d) substituted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/4); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(d)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/d) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
 
-[^key-0f24931ae649409b50b23ad2a0079aff]: Textual amendment: Words in [s. 2A(9)](https://www.legislation.gov.uk/ukpga/1991/56/section/2A/9) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2017/506/article/6/2)
+[^c-0f24931ae649409b50b23ad2a0079aff]: Textual amendment: Words in [s. 2A(9)](https://www.legislation.gov.uk/ukpga/1991/56/section/2A/9) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2017/506/article/6/2)

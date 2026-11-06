@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Assessors to be suitably qualified[^key-69f89c911afd54224a9b0d8745fd79b7]
+## 13. Assessors to be suitably qualified[^c-69f89c911afd54224a9b0d8745fd79b7]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69f89c911afd54224a9b0d8745fd79b7]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2018/9/section/13) in force at 17.1.2022 by [S.S.I. 2021/474](https://www.legislation.gov.uk/ssi/2021/474), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/474/regulation/2/b)
+[^c-69f89c911afd54224a9b0d8745fd79b7]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2018/9/section/13) in force at 17.1.2022 by [S.S.I. 2021/474](https://www.legislation.gov.uk/ssi/2021/474), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/474/regulation/2/b)

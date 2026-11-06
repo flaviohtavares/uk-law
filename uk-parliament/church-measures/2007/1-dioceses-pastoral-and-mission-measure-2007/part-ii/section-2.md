@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 2. Dioceses Commission[^key-fe6af776071799dc312b55baa0e28761]
+## 2. Dioceses Commission[^c-fe6af776071799dc312b55baa0e28761]
 
 *Extent: E*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe6af776071799dc312b55baa0e28761]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2007/1/section/2) in force at 1.9.2008 by [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops
+[^c-fe6af776071799dc312b55baa0e28761]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2007/1/section/2) in force at 1.9.2008 by [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops

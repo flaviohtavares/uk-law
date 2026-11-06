@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Obstruction of works[^key-306d7ae0eed7213f82f6779992c538a6]
+## 26. Obstruction of works[^c-306d7ae0eed7213f82f6779992c538a6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any person who intentionally obstructs any person acting under the authority of 
 
 ## Annotations
 
-[^key-306d7ae0eed7213f82f6779992c538a6]: Commencement: Art. 26 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-306d7ae0eed7213f82f6779992c538a6]: Commencement: Art. 26 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

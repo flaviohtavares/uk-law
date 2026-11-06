@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Assignment stage options for 800 MHz paired frequency lots[^key-6227917c89ea331239bd3fb271ceecd9]
+## 90. Assignment stage options for 800 MHz paired frequency lots[^c-6227917c89ea331239bd3fb271ceecd9]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6227917c89ea331239bd3fb271ceecd9]: Commencement: Reg. 90 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-6227917c89ea331239bd3fb271ceecd9]: Commencement: Reg. 90 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

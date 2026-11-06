@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 291A. Conflicts of interest to be avoided[^key-d29e44a53a36b7baab623bf2811fee05]
+## 291A. Conflicts of interest to be avoided[^c-d29e44a53a36b7baab623bf2811fee05]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d29e44a53a36b7baab623bf2811fee05]: Textual amendment: S. 291A and cross-heading inserted (5.5.2017 for specified purposes, 30.6.2017 in so far as not already in force) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 29(2)](https://www.legislation.gov.uk/asp/2015/9/section/29/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/126](https://www.legislation.gov.uk/ssi/2017/126), [art. 2](https://www.legislation.gov.uk/ssi/2017/126/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/126/schedule); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-d29e44a53a36b7baab623bf2811fee05]: Textual amendment: S. 291A and cross-heading inserted (5.5.2017 for specified purposes, 30.6.2017 in so far as not already in force) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 29(2)](https://www.legislation.gov.uk/asp/2015/9/section/29/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/126](https://www.legislation.gov.uk/ssi/2017/126), [art. 2](https://www.legislation.gov.uk/ssi/2017/126/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/126/schedule); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)

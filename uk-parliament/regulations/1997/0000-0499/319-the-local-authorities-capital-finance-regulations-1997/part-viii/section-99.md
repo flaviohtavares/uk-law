@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 99. Disposal and replacement of land or buildings[^key-87f271c11e0563134965b437aeee5c4a]
+## 99. Disposal and replacement of land or buildings[^c-87f271c11e0563134965b437aeee5c4a]
 
 *Extent: E+W*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-87f271c11e0563134965b437aeee5c4a]: Commencement: Reg. 99 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-87f271c11e0563134965b437aeee5c4a]: Commencement: Reg. 99 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00091]: Footnote: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68).

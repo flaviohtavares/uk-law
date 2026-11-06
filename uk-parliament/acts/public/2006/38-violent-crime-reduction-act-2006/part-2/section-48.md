@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Amendment of police power to search schools etc. for weapons[^key-837dd28653b4eba1fb96d938e1966e12]
+## 48. Amendment of police power to search schools etc. for weapons[^c-837dd28653b4eba1fb96d938e1966e12]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In section 139B of the Criminal Justice Act 1988 (c. 33) (power of entry to sear
 
 ## Annotations
 
-[^key-837dd28653b4eba1fb96d938e1966e12]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2006/38/section/48) in force at 31.5.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/858/article/3/c)
+[^c-837dd28653b4eba1fb96d938e1966e12]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2006/38/section/48) in force at 31.5.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/858/article/3/c)

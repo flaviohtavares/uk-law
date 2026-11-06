@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Fit and proper persons[^key-9954584151901cad41310566f908f5bf]
+## 10. Fit and proper persons[^c-9954584151901cad41310566f908f5bf]
 
 *Extent: N.I.*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9954584151901cad41310566f908f5bf]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2016/22/section/10) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-9954584151901cad41310566f908f5bf]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2016/22/section/10) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

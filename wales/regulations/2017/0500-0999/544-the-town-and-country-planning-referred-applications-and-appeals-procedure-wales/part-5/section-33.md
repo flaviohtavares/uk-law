@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Procedure at hearing[^key-8c3d7b976aa60ef3bffcb2facbd42bfd]
+## 33. Procedure at hearing[^c-8c3d7b976aa60ef3bffcb2facbd42bfd]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c3d7b976aa60ef3bffcb2facbd42bfd]: Commencement: [Reg. 33](https://www.legislation.gov.uk/wsi/2017/544/regulation/33) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-8c3d7b976aa60ef3bffcb2facbd42bfd]: Commencement: [Reg. 33](https://www.legislation.gov.uk/wsi/2017/544/regulation/33) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)

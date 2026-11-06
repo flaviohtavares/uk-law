@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 11 — Repeals[^key-476b4e3337d237d49ddbc606cd4e7aa9]
+## SCHEDULE 11 — Repeals[^c-476b4e3337d237d49ddbc606cd4e7aa9]
 
 *Extent: N.I.*
 
@@ -80,4 +80,4 @@ Section 290.
 
 ## Annotations
 
-[^key-476b4e3337d237d49ddbc606cd4e7aa9]: Commencement: [Sch. 11](https://www.legislation.gov.uk/nia/2016/18/schedule/11) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-476b4e3337d237d49ddbc606cd4e7aa9]: Commencement: [Sch. 11](https://www.legislation.gov.uk/nia/2016/18/schedule/11) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)

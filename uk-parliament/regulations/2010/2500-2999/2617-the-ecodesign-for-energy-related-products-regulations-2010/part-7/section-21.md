@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21.[^key-19e882b674077d2cadfe77b87e4b886f]
+## 21.[^c-19e882b674077d2cadfe77b87e4b886f]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-19e882b674077d2cadfe77b87e4b886f]: Textual amendment: Reg. 21 inserted (1.12.2011) by [The Ecodesign for Energy-Related Products (Amendment) Regulations 2011 (S.I. 2011/2677)](https://www.legislation.gov.uk/uksi/2011/2677), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2677/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2011/2677/regulation/2/2)
+[^c-19e882b674077d2cadfe77b87e4b886f]: Textual amendment: Reg. 21 inserted (1.12.2011) by [The Ecodesign for Energy-Related Products (Amendment) Regulations 2011 (S.I. 2011/2677)](https://www.legislation.gov.uk/uksi/2011/2677), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2677/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2011/2677/regulation/2/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22A. Assessment period cycle to remain the same following change in the first date of entitlement[^key-a9ceac49ac561fc62a0a39a59cd79de6]
+## 22A. Assessment period cycle to remain the same following change in the first date of entitlement[^c-a9ceac49ac561fc62a0a39a59cd79de6]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9ceac49ac561fc62a0a39a59cd79de6]: Textual amendment: [Reg. 22A](https://www.legislation.gov.uk/nisr/2016/216/regulation/22A) inserted (8.5.2018) by [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [6(6)](https://www.legislation.gov.uk/nisr/2018/92/regulation/6/6)
+[^c-a9ceac49ac561fc62a0a39a59cd79de6]: Textual amendment: [Reg. 22A](https://www.legislation.gov.uk/nisr/2016/216/regulation/22A) inserted (8.5.2018) by [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [6(6)](https://www.legislation.gov.uk/nisr/2018/92/regulation/6/6)

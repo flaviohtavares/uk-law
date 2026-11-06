@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44A. Bail in: reverse property transfer[^key-8a7044acb31a6bd5e8e3a995810d10f0]
+## 44A. Bail in: reverse property transfer[^c-8a7044acb31a6bd5e8e3a995810d10f0]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 (4) The Bank of England may make a bail-in reverse property transfer instrument only with the written consent of the transferee under the original instrument.
 
-(5) Section 7 does[^key-eeb9d74109287b251ecf94746f802e71] not apply to a bail-in reverse property transfer instrument (but it is to be treated in the same way as any other property transfer instrument for all other purposes, including for the purposes of the application of a power under this Part).
+(5) Section 7 does[^c-eeb9d74109287b251ecf94746f802e71] not apply to a bail-in reverse property transfer instrument (but it is to be treated in the same way as any other property transfer instrument for all other purposes, including for the purposes of the application of a power under this Part).
 
 (6) Before making a bail-in reverse property transfer instrument the Bank of England must consult—
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8a7044acb31a6bd5e8e3a995810d10f0]: Textual amendment: Ss. 44A-44C inserted (31.12.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/5/3); [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-8a7044acb31a6bd5e8e3a995810d10f0]: Textual amendment: Ss. 44A-44C inserted (31.12.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/5/3); [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-eeb9d74109287b251ecf94746f802e71]: Textual amendment: Words in s. 44A(5) substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [45](https://www.legislation.gov.uk/uksi/2014/3329/article/45)
+[^c-eeb9d74109287b251ecf94746f802e71]: Textual amendment: Words in s. 44A(5) substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [45](https://www.legislation.gov.uk/uksi/2014/3329/article/45)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Existing savings relating to section 32 of the Electricity Act 1989[^key-1f9f3448ec91822a7fd6af281f68139c]
+## 39. Existing savings relating to section 32 of the Electricity Act 1989[^c-1f9f3448ec91822a7fd6af281f68139c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 67 of the Utilities Act 2000 (c. 27) (savings relating to section 32 
 
 ## Annotations
 
-[^key-1f9f3448ec91822a7fd6af281f68139c]: Commencement: S. 39 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/a/ii)
+[^c-1f9f3448ec91822a7fd6af281f68139c]: Commencement: S. 39 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/a/ii)

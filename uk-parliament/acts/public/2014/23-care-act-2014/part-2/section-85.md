@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Trust special administration: objective, consultation and reports[^key-bcb43e323ca16ecc56fe88ac753b00ca]
+## 85. Trust special administration: objective, consultation and reports[^c-bcb43e323ca16ecc56fe88ac753b00ca]
 
 *Extent: E+W*
 
@@ -104,4 +104,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bcb43e323ca16ecc56fe88ac753b00ca]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2014/23/section/85) in force at 15.7.2014 by [S.I. 2014/1714](https://www.legislation.gov.uk/uksi/2014/1714), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2014/1714/article/3/2/b)
+[^c-bcb43e323ca16ecc56fe88ac753b00ca]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2014/23/section/85) in force at 15.7.2014 by [S.I. 2014/1714](https://www.legislation.gov.uk/uksi/2014/1714), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2014/1714/article/3/2/b)

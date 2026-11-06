@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Notice of order under section 176A(5) of the 1986 Act[^key-df3e964b0da7cde8ac0f55e07b2ebcf6]
+## 71. Notice of order under section 176A(5) of the 1986 Act[^c-df3e964b0da7cde8ac0f55e07b2ebcf6]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df3e964b0da7cde8ac0f55e07b2ebcf6]: Commencement: Rule 71 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-df3e964b0da7cde8ac0f55e07b2ebcf6]: Commencement: Rule 71 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

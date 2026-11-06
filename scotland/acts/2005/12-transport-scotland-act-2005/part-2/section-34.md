@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Fixed penalty offences[^key-aab6a7ed4cfff6848affa68bc63e3bca]
+## 34. Fixed penalty offences[^c-aab6a7ed4cfff6848affa68bc63e3bca]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aab6a7ed4cfff6848affa68bc63e3bca]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2005/12/section/34) in force at 1.10.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(3)](https://www.legislation.gov.uk/ssi/2008/15/article/2/3), [Sch. 2](https://www.legislation.gov.uk/ssi/2008/15/schedule/2)
+[^c-aab6a7ed4cfff6848affa68bc63e3bca]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2005/12/section/34) in force at 1.10.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(3)](https://www.legislation.gov.uk/ssi/2008/15/article/2/3), [Sch. 2](https://www.legislation.gov.uk/ssi/2008/15/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 333. Extent[^key-b18ea48779635d578b2a43d0b823ae39]
+## 333. Extent[^c-b18ea48779635d578b2a43d0b823ae39]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b18ea48779635d578b2a43d0b823ae39]: Commencement: S. 333 in force at Royal Assent, see [s. 334(2)(p)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/p)
+[^c-b18ea48779635d578b2a43d0b823ae39]: Commencement: S. 333 in force at Royal Assent, see [s. 334(2)(p)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/p)

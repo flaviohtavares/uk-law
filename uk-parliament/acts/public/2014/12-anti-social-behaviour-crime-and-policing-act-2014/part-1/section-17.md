@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Children and young persons: disapplication of reporting restrictions[^key-6e6ebbe75e1fd0a4a66c51f33d5a79ab]
+## 17. Children and young persons: disapplication of reporting restrictions[^c-6e6ebbe75e1fd0a4a66c51f33d5a79ab]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Section 49 of the Children and Young Persons Act 1933 (restrictions on reports o
 
 ## Annotations
 
-[^key-6e6ebbe75e1fd0a4a66c51f33d5a79ab]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2014/12/section/17) in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/373/article/4/a)
+[^c-6e6ebbe75e1fd0a4a66c51f33d5a79ab]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2014/12/section/17) in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/373/article/4/a)

@@ -30,7 +30,7 @@ summary: ''
 
 (5) Subsections (1) and (2) do not confer on the chairman or a deputy chairman a right to preside—
 
-- (a) in a youth court [^key-a1fd3d2071b7d53ce3383b00b49a51ab]...,
+- (a) in a youth court [^c-a1fd3d2071b7d53ce3383b00b49a51ab]...,
 - (b) at meetings of a committee or other body of justices of the peace which has its own chairman, or
 - (c) at sittings when a District Judge (Magistrates' Courts) is engaged as such in administering justice.
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1fd3d2071b7d53ce3383b00b49a51ab]: Textual amendment: Words in s. 18(5)(a) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 85](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/85); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-a1fd3d2071b7d53ce3383b00b49a51ab]: Textual amendment: Words in s. 18(5)(a) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 85](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/85); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

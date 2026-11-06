@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) So far as restitution interest is charged to corporation tax under this Part it is not chargeable to corporation tax under any other provision (including Part 2 of FA 2012: but see also section 357YDA)[^key-a7dc997d89f28b34b5309ba20e4b451a].
+(1) So far as restitution interest is charged to corporation tax under this Part it is not chargeable to corporation tax under any other provision (including Part 2 of FA 2012: but see also section 357YDA)[^c-a7dc997d89f28b34b5309ba20e4b451a].
 
 (2) This Part has effect regardless of section 464(1) of CTA 2009 (priority of loan relationship provisions).
 
 ## Annotations
 
-[^key-a7dc997d89f28b34b5309ba20e4b451a]: Textual amendment: Words in s. 357YV inserted (with effect in accordance with reg. 2 of the amending S.I.) by [The Corporation Tax Act 2010 (Part 8C) (Amendment) Regulations 2017 (S.I. 2017/364)](https://www.legislation.gov.uk/uksi/2017/364), [regs. 1](https://www.legislation.gov.uk/uksi/2017/364/regulation/1), [9](https://www.legislation.gov.uk/uksi/2017/364/regulation/9)
+[^c-a7dc997d89f28b34b5309ba20e4b451a]: Textual amendment: Words in s. 357YV inserted (with effect in accordance with reg. 2 of the amending S.I.) by [The Corporation Tax Act 2010 (Part 8C) (Amendment) Regulations 2017 (S.I. 2017/364)](https://www.legislation.gov.uk/uksi/2017/364), [regs. 1](https://www.legislation.gov.uk/uksi/2017/364/regulation/1), [9](https://www.legislation.gov.uk/uksi/2017/364/regulation/9)

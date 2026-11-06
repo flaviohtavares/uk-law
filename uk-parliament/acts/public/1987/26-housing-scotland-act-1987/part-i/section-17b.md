@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17B. Power of Secretary of State to direct local authority.[^key-452ac61a4d23861c8f108aa2ba69090e]
+## 17B. Power of Secretary of State to direct local authority.[^c-452ac61a4d23861c8f108aa2ba69090e]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-452ac61a4d23861c8f108aa2ba69090e]: Textual amendment: S. 17B repealed (1.4.2012) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [s. 166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2), [sch. 2 para. 3(2)](https://www.legislation.gov.uk/asp/2010/17/schedule/2/paragraph/3/2); [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2)) (as amended (1.4.2012) by [S.S.I. 2012/91](https://www.legislation.gov.uk/ssi/2012/91), art. 4)
+[^c-452ac61a4d23861c8f108aa2ba69090e]: Textual amendment: S. 17B repealed (1.4.2012) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [s. 166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2), [sch. 2 para. 3(2)](https://www.legislation.gov.uk/asp/2010/17/schedule/2/paragraph/3/2); [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2)) (as amended (1.4.2012) by [S.S.I. 2012/91](https://www.legislation.gov.uk/ssi/2012/91), art. 4)

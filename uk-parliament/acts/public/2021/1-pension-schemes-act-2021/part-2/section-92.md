@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Trustees' duties once implementation strategy approved[^c24481171][^key-12a43e3ef9d97704b1c4313ea7831b52]
+## 92. Trustees' duties once implementation strategy approved[^c24481171][^c-12a43e3ef9d97704b1c4313ea7831b52]
 
 *Extent: N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) pursue the continuity option identified in the strategy, and
 - (b) take such other steps as are identified in the strategy in order to carry it out.
 
-(2) The Department may by regulations require the trustees of a collective money purchase scheme to make available an approved implementation strategy relating to the scheme, before the end of the period specified or described in the regulations, to employers or, where the scheme is a single or connected employer scheme, relevant former employers[^key-e2981490988b040219d154d40a68c090] that are of a description specified in the regulations.
+(2) The Department may by regulations require the trustees of a collective money purchase scheme to make available an approved implementation strategy relating to the scheme, before the end of the period specified or described in the regulations, to employers or, where the scheme is a single or connected employer scheme, relevant former employers[^c-e2981490988b040219d154d40a68c090] that are of a description specified in the regulations.
 
 (3) If an item 1, 2 or 3 triggering event occurs within the triggering event period for an earlier triggering event—
 
@@ -49,6 +49,6 @@ Subsections (3) to (5) of section 83 apply for the purposes of paragraph (b) abo
 
 [^c24481171]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2021/1/section/92) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-12a43e3ef9d97704b1c4313ea7831b52]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2021/1/section/92) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-12a43e3ef9d97704b1c4313ea7831b52]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2021/1/section/92) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
 
-[^key-e2981490988b040219d154d40a68c090]: Textual amendment: Words in [s. 92(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/92/2) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [17(3)](https://www.legislation.gov.uk/nisr/2026/151/regulation/17/3)
+[^c-e2981490988b040219d154d40a68c090]: Textual amendment: Words in [s. 92(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/92/2) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [17(3)](https://www.legislation.gov.uk/nisr/2026/151/regulation/17/3)

@@ -30,10 +30,10 @@ summary: ''
 - (a) mineral exploration and access to be undertaken at any place, or
 - (b) any mineral deposits to be worked,
 
-is treated as expenditure on mineral exploration and access and not as expenditure on acquiring a mineral asset[^key-9e0d51ba8864b25fbefc80aac9d54eed].
+is treated as expenditure on mineral exploration and access and not as expenditure on acquiring a mineral asset[^c-9e0d51ba8864b25fbefc80aac9d54eed].
 
 (3) “**Seeking planning permission**” includes pursuing an appeal against a refusal to grant planning permission.
 
 ## Annotations
 
-[^key-9e0d51ba8864b25fbefc80aac9d54eed]: Textual amendment: Words in s. 396(2) substituted (with effect in accordance with s. 68(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/68/2)
+[^c-9e0d51ba8864b25fbefc80aac9d54eed]: Textual amendment: Words in s. 396(2) substituted (with effect in accordance with s. 68(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/68/2)

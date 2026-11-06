@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Entry and inspection[^key-901c179b1f056b2b50aa3da0b0865340]
+## 89. Entry and inspection[^c-901c179b1f056b2b50aa3da0b0865340]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,12 +43,12 @@ summary: ''
   - (ii) which it is necessary to see for the purposes of an examination or investigation under sub-paragraph (c), and inspect and take copies of, or of any entry in, the records; and
 - (i) require any person to afford such facilities and assistance with respect to any matters or things within that person’s control or in relation to which that person has responsibilities as are necessary to enable the enforcement officer to exercise any of the powers conferred on them by this regulation.
 
-(3) Where records, products, or parts of products are seized in accordance with paragraph (2) the enforcement officer must[^key-25cef0cfda2e8f7e9032c58f5dee62e0]—
+(3) Where records, products, or parts of products are seized in accordance with paragraph (2) the enforcement officer must[^c-25cef0cfda2e8f7e9032c58f5dee62e0]—
 
 - (a) allow the trader to make copies of any records seized, if requested to do so;
 - (b) provide the trader with a receipt for the records, products or parts of products seized.
 
-(4) Any receipt issued in accordance with paragraph (3)(b) must[^key-cab678e578d7609da42da14bc3f458b2] state the date on which the records, products or parts of products were seized.
+(4) Any receipt issued in accordance with paragraph (3)(b) must[^c-cab678e578d7609da42da14bc3f458b2] state the date on which the records, products or parts of products were seized.
 
 (5) In the application of paragraph (2)(b)(i) to Northern Ireland, “constable” has the meaning given in the Interpretation Act (Northern Ireland) 1954[^f00033].
 
@@ -68,7 +68,7 @@ summary: ''
 
 (8) An enforcement officer on entering any premises by virtue of this regulation may direct that those premises, or any part of them, or anything in them, will be left undisturbed (whether generally or in particular respects) for so long as is reasonably necessary for the purpose of any examination or investigation under paragraph (2)(c).
 
-(9) Where an enforcement officer leaves any premises that he has entered by virtue of this regulation and such premises are unoccupied or the occupier of which is temporarily absent, he must[^key-9aad6190f71c7bc210105401dab1e9f9] leave them as effectively secured against a trespasser as he found them.
+(9) Where an enforcement officer leaves any premises that he has entered by virtue of this regulation and such premises are unoccupied or the occupier of which is temporarily absent, he must[^c-9aad6190f71c7bc210105401dab1e9f9] leave them as effectively secured against a trespasser as he found them.
 
 (10) If an enforcement officer or other person who enters any premises by virtue of this regulation discloses to any person any information obtained by him in the premises with regard to any secret manufacturing process or trade secret, he will, unless the disclosure was made in the performance of his duty, be guilty of an offence.
 
@@ -92,14 +92,14 @@ summary: ''
 
 ## Annotations
 
-[^key-901c179b1f056b2b50aa3da0b0865340]: Commencement: Reg. 89 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-901c179b1f056b2b50aa3da0b0865340]: Commencement: Reg. 89 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
 
-[^key-25cef0cfda2e8f7e9032c58f5dee62e0]: Textual amendment: Word in [reg. 89(3)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/89/3) substituted (25.7.2014) by virtue of [The Waste Electrical and Electronic Equipment and Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2014 (S.I. 2014/1771)](https://www.legislation.gov.uk/uksi/2014/1771), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/1/b), [3(3)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/3/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1771/schedule/2/part/1)
+[^c-25cef0cfda2e8f7e9032c58f5dee62e0]: Textual amendment: Word in [reg. 89(3)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/89/3) substituted (25.7.2014) by virtue of [The Waste Electrical and Electronic Equipment and Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2014 (S.I. 2014/1771)](https://www.legislation.gov.uk/uksi/2014/1771), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/1/b), [3(3)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/3/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1771/schedule/2/part/1)
 
-[^key-cab678e578d7609da42da14bc3f458b2]: Textual amendment: Word in [reg. 89(4)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/89/4) substituted (25.7.2014) by virtue of [The Waste Electrical and Electronic Equipment and Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2014 (S.I. 2014/1771)](https://www.legislation.gov.uk/uksi/2014/1771), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/1/b), [3(3)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/3/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1771/schedule/2/part/1)
+[^c-cab678e578d7609da42da14bc3f458b2]: Textual amendment: Word in [reg. 89(4)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/89/4) substituted (25.7.2014) by virtue of [The Waste Electrical and Electronic Equipment and Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2014 (S.I. 2014/1771)](https://www.legislation.gov.uk/uksi/2014/1771), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/1/b), [3(3)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/3/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1771/schedule/2/part/1)
 
 [^f00033]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
 [^f00034]: Footnote: [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26).
 
-[^key-9aad6190f71c7bc210105401dab1e9f9]: Textual amendment: Word in [reg. 89(9)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/89/9) substituted (25.7.2014) by virtue of [The Waste Electrical and Electronic Equipment and Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2014 (S.I. 2014/1771)](https://www.legislation.gov.uk/uksi/2014/1771), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/1/b), [3(3)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/3/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1771/schedule/2/part/1)
+[^c-9aad6190f71c7bc210105401dab1e9f9]: Textual amendment: Word in [reg. 89(9)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/89/9) substituted (25.7.2014) by virtue of [The Waste Electrical and Electronic Equipment and Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2014 (S.I. 2014/1771)](https://www.legislation.gov.uk/uksi/2014/1771), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/1/b), [3(3)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/3/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1771/schedule/2/part/1)

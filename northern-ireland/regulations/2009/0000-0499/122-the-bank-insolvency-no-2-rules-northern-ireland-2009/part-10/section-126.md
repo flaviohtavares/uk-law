@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 126. Vacancy (creditor members)[^key-85d9cb59aa76d043353882cb15fa3acd]
+## 126. Vacancy (creditor members)[^c-85d9cb59aa76d043353882cb15fa3acd]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.171 of the 1991 Rules.
 
 ## Annotations
 
-[^key-85d9cb59aa76d043353882cb15fa3acd]: Commencement: Rule 126 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-85d9cb59aa76d043353882cb15fa3acd]: Commencement: Rule 126 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

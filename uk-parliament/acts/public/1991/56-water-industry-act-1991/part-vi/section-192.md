@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 192. Interpretation of Part VI.[^key-427f8cd9d77cc7d15f203ff233543598]
+## 192. Interpretation of Part VI.[^c-427f8cd9d77cc7d15f203ff233543598]
 
 *Extent: E+W*
 
@@ -49,7 +49,7 @@ as are imposed on the undertaker by or under any enactment.
 
 ## Annotations
 
-[^key-427f8cd9d77cc7d15f203ff233543598]: Modification: [S. 192](https://www.legislation.gov.uk/ukpga/1991/56/section/192) applied (with modifications) (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 13(11)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/13/11) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
+[^c-427f8cd9d77cc7d15f203ff233543598]: Modification: [S. 192](https://www.legislation.gov.uk/ukpga/1991/56/section/192) applied (with modifications) (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 13(11)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/13/11) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
 
 [^c13221751]: Textual amendment: S. 192(3A)-(3B) inserted (1.7.1992) by [Competition and Service (Utilities) Act 1992 (c. 43)](https://www.legislation.gov.uk/ukpga/1992/43), [s.47](https://www.legislation.gov.uk/ukpga/1992/43/section/47); Competition and Service (Utilities) Act 1992 (Commencement No. 1) Order 1992, art. 3, Sch. Pt. I
 

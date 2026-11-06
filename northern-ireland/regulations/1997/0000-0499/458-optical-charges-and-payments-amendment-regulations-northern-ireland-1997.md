@@ -40,13 +40,13 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Articles 98 and 106 of, and paragraph 2A of Schedule 15 to, the Health and Personal Social Services (Northern Ireland) Order 1972[^f00001] and of all other powers enabling it in that behalf, with the approval of the Department of Finance and Personnel, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-5122411b57abcf969579f29acafdf419]
+## 1. Citation, commencement and interpretation[^c-5122411b57abcf969579f29acafdf419]
 
 (1) These Regulations may be cited as the Optical Charges and Payments (Amendment) Regulations (Northern Ireland) 1997 and shall come into operation on 10th November 1997.
 
 (2) In these Regulations, “the principal Regulations” means the Optical Charges and Payments Regulations (Northern Ireland) 1997[^f00002].
 
-## 2. Amendment of regulation 1 of the principal Regulations[^key-ec9a51faa9d56e6b11b27e84d086af08]
+## 2. Amendment of regulation 1 of the principal Regulations[^c-ec9a51faa9d56e6b11b27e84d086af08]
 
 In regulation 1(2) of the principal Regulations (interpretation) in the definition of “health service sight test fee”—
 
@@ -86,8 +86,8 @@ These two levels of health service sight test fee are raised by regulation 2 as 
 
 [^f00001]: Footnote: S.I. [1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265) as amended by S.I. [1984/1158 (N.I. 8)](https://www.legislation.gov.uk/nisi/1984/1158) Article 3 and paragraph 3 of Schedule 1; S.I. [1988/2249 (N.I. 24)](https://www.legislation.gov.uk/nisi/1988/2249) paragraphs (4) and (5) of Article 8; and S.I. [1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194) Article 34 and Part II of Schedule 5; there are other amendments which are not relevant
 
-[^key-5122411b57abcf969579f29acafdf419]: Commencement: Reg. 1 in operation at 10.11.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/458/regulation/1/1)
+[^c-5122411b57abcf969579f29acafdf419]: Commencement: Reg. 1 in operation at 10.11.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/458/regulation/1/1)
 
 [^f00002]: Footnote: [S.R. 1997 No. 191](https://www.legislation.gov.uk/nisr/1997/191)
 
-[^key-ec9a51faa9d56e6b11b27e84d086af08]: Commencement: Reg. 2 in operation at 10.11.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/458/regulation/1/1)
+[^c-ec9a51faa9d56e6b11b27e84d086af08]: Commencement: Reg. 2 in operation at 10.11.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/458/regulation/1/1)

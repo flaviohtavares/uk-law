@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 114. Security to be taken in relation to officers.[^c15107201][^c15107211][^c15107221][^c15107231][^c18858381][^c18891391][^c20521001][^key-8fafe89064f4c009f1abc0056e24a654][^key-118fc077afb2740e963c7fdda378c472][^key-568cc38541e16153fddd972a2c963ab6]
+## 114. Security to be taken in relation to officers.[^c15107201][^c15107211][^c15107221][^c15107231][^c18858381][^c18891391][^c20521001][^c-8fafe89064f4c009f1abc0056e24a654][^c-118fc077afb2740e963c7fdda378c472][^c-568cc38541e16153fddd972a2c963ab6]
 
 *Extent: E+W*
 
@@ -68,10 +68,10 @@ summary: ''
 
 [^c20521001]: Modification: Ss. 114-117 applied (with modifications) (1.4.2009) by [The Charter Trustees Regulations 2009 (S.I. 2009/467)](https://www.legislation.gov.uk/uksi/2009/467), [reg. 10(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/10/1)
 
-[^key-8fafe89064f4c009f1abc0056e24a654]: Modification: Ss. 112-117 applied (with modifications) (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [7](https://www.legislation.gov.uk/uksi/2011/939/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/939/schedule/1)
+[^c-8fafe89064f4c009f1abc0056e24a654]: Modification: Ss. 112-117 applied (with modifications) (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [7](https://www.legislation.gov.uk/uksi/2011/939/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/939/schedule/1)
 
-[^key-118fc077afb2740e963c7fdda378c472]: Modification: S. 114 applied (with modifications) (1.4.2015) by [The Dorset and Wiltshire Fire and Rescue Authority (Combination Scheme) Order 2015 (S.I. 2015/435)](https://www.legislation.gov.uk/uksi/2015/435), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/435/article/1/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2015/435/schedule/paragraph/19)
+[^c-118fc077afb2740e963c7fdda378c472]: Modification: S. 114 applied (with modifications) (1.4.2015) by [The Dorset and Wiltshire Fire and Rescue Authority (Combination Scheme) Order 2015 (S.I. 2015/435)](https://www.legislation.gov.uk/uksi/2015/435), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/435/article/1/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2015/435/schedule/paragraph/19)
 
-[^key-568cc38541e16153fddd972a2c963ab6]: Modification: S. 114 applied (with modifications) (1.4.2020) by [The Hampshire and Isle of Wight Fire and Rescue Authority (Combination Scheme) Order 2020 (S.I. 2020/186)](https://www.legislation.gov.uk/uksi/2020/186), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/186/paragraph/1/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2020/186/schedule/paragraph/22)
+[^c-568cc38541e16153fddd972a2c963ab6]: Modification: S. 114 applied (with modifications) (1.4.2020) by [The Hampshire and Isle of Wight Fire and Rescue Authority (Combination Scheme) Order 2020 (S.I. 2020/186)](https://www.legislation.gov.uk/uksi/2020/186), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/186/paragraph/1/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2020/186/schedule/paragraph/22)
 
 [^M_F_de9efdce-8f1c-4d76-be94-4c6789d0260e]: Textual amendment: S. 114(4) inserted (25.3.2022) by [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/uksi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/372/regulation/1/2), [33](https://www.legislation.gov.uk/uksi/2022/372/regulation/33)

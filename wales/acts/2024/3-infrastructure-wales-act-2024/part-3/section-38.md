@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Notice of persons interested in land to which compulsory acquisition request relates[^key-c68a4aa78345bbe086c2bc15e9306441][^key-cedecccdb3e940abe713cb9b3e47019c]
+## 38. Notice of persons interested in land to which compulsory acquisition request relates[^c-c68a4aa78345bbe086c2bc15e9306441][^c-cedecccdb3e940abe713cb9b3e47019c]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c68a4aa78345bbe086c2bc15e9306441]: Commencement: S. 38 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
+[^c-c68a4aa78345bbe086c2bc15e9306441]: Commencement: S. 38 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
 
-[^key-cedecccdb3e940abe713cb9b3e47019c]: Commencement: [S. 38](https://www.legislation.gov.uk/asc/2024/3/section/38) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)
+[^c-cedecccdb3e940abe713cb9b3e47019c]: Commencement: [S. 38](https://www.legislation.gov.uk/asc/2024/3/section/38) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)

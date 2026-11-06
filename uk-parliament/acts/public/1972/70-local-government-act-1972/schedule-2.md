@@ -75,7 +75,7 @@ Section 8.
 
 **5B.**[^c19573481] Where a London borough council are operating executive arrangements which involve a mayor and cabinet executive or a mayor and council manager executive, the preceding provisions of this Schedule shall have effect with the modifications specified in paragraphs 5C to 5I below.
 
-**5C.**[^c19573491][^c19661411] (1)[^key-1d00f97bedb7bb0112bf03628c56fd11] The council shall consist of an elected mayor, a chairman and councillors.
+**5C.**[^c19573491][^c19661411] (1)[^c-1d00f97bedb7bb0112bf03628c56fd11] The council shall consist of an elected mayor, a chairman and councillors.
 
 (2) A reference in this Act to a member of the council is a reference to—
 
@@ -154,7 +154,7 @@ and there shall be a separate election for each [^c15130211]. . . ward.
 
 [^c19661411]: Textual amendment: [Sch. 2 para. 5C](https://www.legislation.gov.uk/ukpga/1972/70/schedule/2/paragraph/5C) substituted (30.12.2007) by Local Government and Public Involvement in [Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 74](https://www.legislation.gov.uk/ukpga/2007/28/section/74), [245](https://www.legislation.gov.uk/ukpga/2007/28/section/245), [Sch. 3 para. 11(2)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/3/paragraph/11/2)
 
-[^key-1d00f97bedb7bb0112bf03628c56fd11]: Modification: [Sch. 2 para. 5C(1)](https://www.legislation.gov.uk/ukpga/1972/70/schedule/2/paragraph/5C/1) restricted by 2000 c. 22, s. 9H(5) (as inserted (3.12.2011 for specified purposes, 9.3.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/20/schedule/2/paragraph/1); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/e); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/628/article/2/a))
+[^c-1d00f97bedb7bb0112bf03628c56fd11]: Modification: [Sch. 2 para. 5C(1)](https://www.legislation.gov.uk/ukpga/1972/70/schedule/2/paragraph/5C/1) restricted by 2000 c. 22, s. 9H(5) (as inserted (3.12.2011 for specified purposes, 9.3.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/20/schedule/2/paragraph/1); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/e); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/628/article/2/a))
 
 [^c19573501]: Textual amendment: [Sch. 2 paras. 5A-5I](https://www.legislation.gov.uk/ukpga/1972/70/schedule/2/paragraph/5A) and cross heading inserted (26.10.2000) by [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22), [ss. 46](https://www.legislation.gov.uk/ukpga/2000/22/section/46), [108(4)](https://www.legislation.gov.uk/ukpga/2000/22/section/108/4), [Sch. 3 para. 13(1)(2)](https://www.legislation.gov.uk/ukpga/2000/22/schedule/3/paragraph/13/1/2); [S.I. 2000/2849](https://www.legislation.gov.uk/uksi/2000/2849), [art. 2(e)](https://www.legislation.gov.uk/uksi/2000/2849/article/2/e)
 

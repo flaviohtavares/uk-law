@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39A. Power to apply sections 36 and 37 in relation to food crime officers[^key-5573a14d653f637fa9840e5ac10c7b0c]
+## 39A. Power to apply sections 36 and 37 in relation to food crime officers[^c-5573a14d653f637fa9840e5ac10c7b0c]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5573a14d653f637fa9840e5ac10c7b0c]: Textual amendment: [S. 39A](https://www.legislation.gov.uk/ukpga/1994/33/section/39A) inserted (E.W.) (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 54(2)](https://www.legislation.gov.uk/ukpga/2022/32/section/54/2), [208(5)(f)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/f) (with [s. 54(5)-(10)](https://www.legislation.gov.uk/ukpga/2022/32/section/54/5))
+[^c-5573a14d653f637fa9840e5ac10c7b0c]: Textual amendment: [S. 39A](https://www.legislation.gov.uk/ukpga/1994/33/section/39A) inserted (E.W.) (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 54(2)](https://www.legislation.gov.uk/ukpga/2022/32/section/54/2), [208(5)(f)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/f) (with [s. 54(5)-(10)](https://www.legislation.gov.uk/ukpga/2022/32/section/54/5))

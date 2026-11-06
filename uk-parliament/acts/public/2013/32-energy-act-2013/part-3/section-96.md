@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Co-operation between ONR and Health and Safety Executive[^key-04b055b71abae1ecc915a99799d74367]
+## 96. Co-operation between ONR and Health and Safety Executive[^c-04b055b71abae1ecc915a99799d74367]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-04b055b71abae1ecc915a99799d74367]: Commencement: S. 96 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-04b055b71abae1ecc915a99799d74367]: Commencement: S. 96 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)

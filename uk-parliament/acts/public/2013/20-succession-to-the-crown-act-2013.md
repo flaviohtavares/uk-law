@@ -36,17 +36,17 @@ An Act to make succession to the Crown not depend on gender; to make provision a
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Succession to the Crown not to depend on gender[^key-c68df846ea9560b1ff134acec31c7061]
+## 1. Succession to the Crown not to depend on gender[^c-c68df846ea9560b1ff134acec31c7061]
 
 In determining the succession to the Crown, the gender of a person born after 28 October 2011 does not give that person, or that person's descendants, precedence over any other person (whenever born).
 
-## 2. Removal of disqualification arising from marriage to a Roman Catholic[^key-2eb115f968ab17ed03ceed41803fae4a]
+## 2. Removal of disqualification arising from marriage to a Roman Catholic[^c-2eb115f968ab17ed03ceed41803fae4a]
 
 (1) A person is not disqualified from succeeding to the Crown or from possessing it as a result of marrying a person of the Roman Catholic faith.
 
 (2) Subsection (1) applies in relation to marriages occurring before the time of the coming into force of this section where the person concerned is alive at that time (as well as in relation to marriages occurring after that time).
 
-## 3. Consent of Sovereign required to certain Royal Marriages[^key-6bf4a7626bcf583d8110af6e28945a47]
+## 3. Consent of Sovereign required to certain Royal Marriages[^c-6bf4a7626bcf583d8110af6e28945a47]
 
 (1) A person who (when the person marries) is one of the 6 persons next in the line of succession to the Crown must obtain the consent of Her Majesty before marrying.
 
@@ -69,7 +69,7 @@ In determining the succession to the Crown, the gender of a person born after 28
 
 (6) Subsection (5) applies for all purposes except those relating to the succession to the Crown.
 
-## 4. Consequential amendments etc[^key-b2e3e52a45c87d75ebb2bba61058632c]
+## 4. Consequential amendments etc[^c-b2e3e52a45c87d75ebb2bba61058632c]
 
 (1) The Schedule contains consequential amendments.
 
@@ -98,14 +98,14 @@ Section 4
 
 ### Treason Act 1351
 
-**1.**[^key-a7be5804ff95c381824fc74315605d9d] The Treason Act 1351 (declaration of offences to be adjudged treason) has effect as if—
+**1.**[^c-a7be5804ff95c381824fc74315605d9d] The Treason Act 1351 (declaration of offences to be adjudged treason) has effect as if—
 
 - (a) the first reference to eldest son and heir were a reference to eldest child and heir;
 - (b) the second reference to eldest son and heir were a reference to eldest son if the heir.
 
 ### Bill of Rights
 
-**2.**[^key-060bfd8dfe38aa420b4001079b65bf1b] In section 1 of the Bill of Rights, omit—
+**2.**[^c-060bfd8dfe38aa420b4001079b65bf1b] In section 1 of the Bill of Rights, omit—
 
 - (a) “or by any King or Queene marrying a papist”;
 - (b) “or shall marry a papist”;
@@ -113,35 +113,35 @@ Section 4
 
 ### Act of Settlement
 
-**3.**[^key-bc08cdd96f4784d035da487f91805f7a] In the Act of Settlement—
+**3.**[^c-bc08cdd96f4784d035da487f91805f7a] In the Act of Settlement—
 
 - (a) in the preamble, omit “or marry a papist” and “or marrying”;
 - (b) in section 2, omit “or shall marry a papist”.
 
 ### Regency Act 1937
 
-**4.**[^key-7d918fea09840c43cea1861a0caa018a] In section 3(2) of the Regency Act 1937 (persons disqualified from becoming or being Regent), after “Crown” insert “ , or is a person disqualified from succeeding to the Crown by virtue of section 3(3) of the Succession to the Crown Act 2013 ”.
+**4.**[^c-7d918fea09840c43cea1861a0caa018a] In section 3(2) of the Regency Act 1937 (persons disqualified from becoming or being Regent), after “Crown” insert “ , or is a person disqualified from succeeding to the Crown by virtue of section 3(3) of the Succession to the Crown Act 2013 ”.
 
 ### Supplementary
 
-**5.**[^key-05a19e2da62b97156f00f59585b2ff16] The amendments made by paragraphs 2 and 3 apply in relation to marriages occurring before the time of the coming into force of section 2 where the person concerned is alive at that time (as well as in relation to marriages occurring after that time).
+**5.**[^c-05a19e2da62b97156f00f59585b2ff16] The amendments made by paragraphs 2 and 3 apply in relation to marriages occurring before the time of the coming into force of section 2 where the person concerned is alive at that time (as well as in relation to marriages occurring after that time).
 
 ## Annotations
 
-[^key-c68df846ea9560b1ff134acec31c7061]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2013/20/section/1) in force at 26.3.2015 by [S.I. 2015/894](https://www.legislation.gov.uk/uksi/2015/894), [art. 2](https://www.legislation.gov.uk/uksi/2015/894/article/2)
+[^c-c68df846ea9560b1ff134acec31c7061]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2013/20/section/1) in force at 26.3.2015 by [S.I. 2015/894](https://www.legislation.gov.uk/uksi/2015/894), [art. 2](https://www.legislation.gov.uk/uksi/2015/894/article/2)
 
-[^key-2eb115f968ab17ed03ceed41803fae4a]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2013/20/section/2) in force at 26.3.2015 by [S.I. 2015/894](https://www.legislation.gov.uk/uksi/2015/894), [art. 2](https://www.legislation.gov.uk/uksi/2015/894/article/2)
+[^c-2eb115f968ab17ed03ceed41803fae4a]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2013/20/section/2) in force at 26.3.2015 by [S.I. 2015/894](https://www.legislation.gov.uk/uksi/2015/894), [art. 2](https://www.legislation.gov.uk/uksi/2015/894/article/2)
 
-[^key-6bf4a7626bcf583d8110af6e28945a47]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2013/20/section/3) in force at 26.3.2015 by [S.I. 2015/894](https://www.legislation.gov.uk/uksi/2015/894), [art. 2](https://www.legislation.gov.uk/uksi/2015/894/article/2)
+[^c-6bf4a7626bcf583d8110af6e28945a47]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2013/20/section/3) in force at 26.3.2015 by [S.I. 2015/894](https://www.legislation.gov.uk/uksi/2015/894), [art. 2](https://www.legislation.gov.uk/uksi/2015/894/article/2)
 
-[^key-b2e3e52a45c87d75ebb2bba61058632c]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2013/20/section/4) in force at 26.3.2015 by [S.I. 2015/894](https://www.legislation.gov.uk/uksi/2015/894), [art. 2](https://www.legislation.gov.uk/uksi/2015/894/article/2)
+[^c-b2e3e52a45c87d75ebb2bba61058632c]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2013/20/section/4) in force at 26.3.2015 by [S.I. 2015/894](https://www.legislation.gov.uk/uksi/2015/894), [art. 2](https://www.legislation.gov.uk/uksi/2015/894/article/2)
 
-[^key-a7be5804ff95c381824fc74315605d9d]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2013/20/schedule/paragraph/1) in force at 26.3.2015 by [S.I. 2015/894](https://www.legislation.gov.uk/uksi/2015/894), [art. 2](https://www.legislation.gov.uk/uksi/2015/894/article/2)
+[^c-a7be5804ff95c381824fc74315605d9d]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2013/20/schedule/paragraph/1) in force at 26.3.2015 by [S.I. 2015/894](https://www.legislation.gov.uk/uksi/2015/894), [art. 2](https://www.legislation.gov.uk/uksi/2015/894/article/2)
 
-[^key-060bfd8dfe38aa420b4001079b65bf1b]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2013/20/schedule/paragraph/2) in force at 26.3.2015 by [S.I. 2015/894](https://www.legislation.gov.uk/uksi/2015/894), [art. 2](https://www.legislation.gov.uk/uksi/2015/894/article/2)
+[^c-060bfd8dfe38aa420b4001079b65bf1b]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2013/20/schedule/paragraph/2) in force at 26.3.2015 by [S.I. 2015/894](https://www.legislation.gov.uk/uksi/2015/894), [art. 2](https://www.legislation.gov.uk/uksi/2015/894/article/2)
 
-[^key-bc08cdd96f4784d035da487f91805f7a]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2013/20/schedule/paragraph/3) in force at 26.3.2015 by [S.I. 2015/894](https://www.legislation.gov.uk/uksi/2015/894), [art. 2](https://www.legislation.gov.uk/uksi/2015/894/article/2)
+[^c-bc08cdd96f4784d035da487f91805f7a]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2013/20/schedule/paragraph/3) in force at 26.3.2015 by [S.I. 2015/894](https://www.legislation.gov.uk/uksi/2015/894), [art. 2](https://www.legislation.gov.uk/uksi/2015/894/article/2)
 
-[^key-7d918fea09840c43cea1861a0caa018a]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2013/20/schedule/paragraph/4) in force at 26.3.2015 by [S.I. 2015/894](https://www.legislation.gov.uk/uksi/2015/894), [art. 2](https://www.legislation.gov.uk/uksi/2015/894/article/2)
+[^c-7d918fea09840c43cea1861a0caa018a]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2013/20/schedule/paragraph/4) in force at 26.3.2015 by [S.I. 2015/894](https://www.legislation.gov.uk/uksi/2015/894), [art. 2](https://www.legislation.gov.uk/uksi/2015/894/article/2)
 
-[^key-05a19e2da62b97156f00f59585b2ff16]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2013/20/schedule/paragraph/5) in force at 26.3.2015 by [S.I. 2015/894](https://www.legislation.gov.uk/uksi/2015/894), [art. 2](https://www.legislation.gov.uk/uksi/2015/894/article/2)
+[^c-05a19e2da62b97156f00f59585b2ff16]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2013/20/schedule/paragraph/5) in force at 26.3.2015 by [S.I. 2015/894](https://www.legislation.gov.uk/uksi/2015/894), [art. 2](https://www.legislation.gov.uk/uksi/2015/894/article/2)

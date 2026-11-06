@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 2 — Information to be published[^key-5302335818999c0c4617cdd2a3682e93]
+## SCHEDULE 2 — Information to be published[^c-5302335818999c0c4617cdd2a3682e93]
 
 *Extent: E+W+S*
 
@@ -69,4 +69,4 @@ As a percentage of total paid facility time hours, how many hours were spent by 
 
 ## Annotations
 
-[^key-5302335818999c0c4617cdd2a3682e93]: Commencement: Sch. 2 in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/328/regulation/1)
+[^c-5302335818999c0c4617cdd2a3682e93]: Commencement: Sch. 2 in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/328/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 193. Vacancy condition[^key-0b5b32801af6847f0bff7d6c3c2b8ed1][^key-e7cf6ab7abc92913cbff4a4eb29e62aa]
+## 193. Vacancy condition[^c-0b5b32801af6847f0bff7d6c3c2b8ed1][^c-e7cf6ab7abc92913cbff4a4eb29e62aa]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0b5b32801af6847f0bff7d6c3c2b8ed1]: Commencement: S. 193 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-0b5b32801af6847f0bff7d6c3c2b8ed1]: Commencement: S. 193 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-e7cf6ab7abc92913cbff4a4eb29e62aa]: Commencement: [S. 193](https://www.legislation.gov.uk/ukpga/2023/55/section/193) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/a)
+[^c-e7cf6ab7abc92913cbff4a4eb29e62aa]: Commencement: [S. 193](https://www.legislation.gov.uk/ukpga/2023/55/section/193) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/a)

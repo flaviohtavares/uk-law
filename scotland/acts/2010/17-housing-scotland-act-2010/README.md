@@ -32,7 +32,7 @@ Housing (Scotland) Act 2010
 
 An Act of the Scottish Parliament to establish the Scottish Housing Regulator and to make provision about housing, including provision about the performance and regulation of social landlords and reforms of the right to buy social housing; and for connected purposes.
 
-The Bill for this Act of the Scottish Parliament was passed by the Parliament on 3rd November 2010 and received Royal Assent on 9th December 2010[^key-ebb9638863998db10190a15751494f41]
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 3rd November 2010 and received Royal Assent on 9th December 2010[^c-ebb9638863998db10190a15751494f41]
 
 ## Contents
 
@@ -300,7 +300,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 123 — Restructuring resulting in change of landlord](part-10/section-123.md)
 - [Section 124 — Purchaser protection](part-10/section-124.md)
 
-#### CHAPTER 3 — REGISTERED SOCIAL LANDLORD BECOMING A SUBSIDIARY OF ANOTHER BODY[^key-3c8bde628a8b3f046c74d39221812212]
+#### CHAPTER 3 — REGISTERED SOCIAL LANDLORD BECOMING A SUBSIDIARY OF ANOTHER BODY[^c-3c8bde628a8b3f046c74d39221812212]
 
 - [Section 124A — Regulator's consent](part-10/section-124a.md)
 - [Section 124B — Purchaser protection](part-10/section-124b.md)
@@ -376,8 +376,8 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-ebb9638863998db10190a15751494f41]: Modification: specified provision(s) amendment to earlier commencing SSI 2012/39 Sch. 2 para. 18(f) (1.4.2012) by [The Housing (Scotland) Act 2010 (Commencement No. 7 and Transitional Provision) Order 2012 (S.S.I. 2012/91)](https://www.legislation.gov.uk/ssi/2012/91), [arts. 1](https://www.legislation.gov.uk/ssi/2012/91/article/1), [4](https://www.legislation.gov.uk/ssi/2012/91/article/4)
+[^c-ebb9638863998db10190a15751494f41]: Modification: specified provision(s) amendment to earlier commencing SSI 2012/39 Sch. 2 para. 18(f) (1.4.2012) by [The Housing (Scotland) Act 2010 (Commencement No. 7 and Transitional Provision) Order 2012 (S.S.I. 2012/91)](https://www.legislation.gov.uk/ssi/2012/91), [arts. 1](https://www.legislation.gov.uk/ssi/2012/91/article/1), [4](https://www.legislation.gov.uk/ssi/2012/91/article/4)
 
 [^M_F_328b0366-44dd-49a6-b456-d3cef12bfcd4]: Textual amendment: S. 104A and cross-heading inserted (20.11.2014) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 98(1)](https://www.legislation.gov.uk/asp/2014/14/section/98/1), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2014/264/article/3))
 
-[^key-3c8bde628a8b3f046c74d39221812212]: Textual amendment: Pt. 10 Ch. 3 inserted (20.11.2014) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 98(2)](https://www.legislation.gov.uk/asp/2014/14/section/98/2), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-3c8bde628a8b3f046c74d39221812212]: Textual amendment: Pt. 10 Ch. 3 inserted (20.11.2014) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 98(2)](https://www.legislation.gov.uk/asp/2014/14/section/98/2), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Street works[^key-33d4d6dd5e056f866090c06ad3130263]
+## 7. Street works[^c-33d4d6dd5e056f866090c06ad3130263]
 
 *Extent: E+W+S*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) break up or open the street, or any sewer, drain or tunnel under it;
 - (b) tunnel or bore under the street, or carry out works to strengthen or repair the carriage way or to provide protection to apparatus installed in or on the street;
 - (c) place and keep apparatus in or on the street;
-- (d) maintain or renew [^key-707992023ee2cbdadd608d3b7260e0ec]... apparatus in or on the street or change its position;
+- (d) maintain or renew [^c-707992023ee2cbdadd608d3b7260e0ec]... apparatus in or on the street or change its position;
 - (e) demolish, remove, replace and relocate any street furniture (including any bus shelter and associated bus stop infrastructure);
 - (f) execute any works to provide or improve sight lines required by the highway authority;
 - (g) execute and maintain any works to provide hard and soft landscaping;
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-33d4d6dd5e056f866090c06ad3130263]: Commencement: Art. 7 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-33d4d6dd5e056f866090c06ad3130263]: Commencement: Art. 7 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
 
-[^key-707992023ee2cbdadd608d3b7260e0ec]: Textual amendment: Words in [art. 7(1)(d)](https://www.legislation.gov.uk/uksi/2025/165/article/7/1/d) omitted (2.7.2025) by virtue of [The Associated British Ports (Immingham Green Energy Terminal) (Corrections) Order 2025 (S.I. 2025/781)](https://www.legislation.gov.uk/uksi/2025/781), [art. 1](https://www.legislation.gov.uk/uksi/2025/781/article/1), [Sch. Table](https://www.legislation.gov.uk/uksi/2025/781/schedule)
+[^c-707992023ee2cbdadd608d3b7260e0ec]: Textual amendment: Words in [art. 7(1)(d)](https://www.legislation.gov.uk/uksi/2025/165/article/7/1/d) omitted (2.7.2025) by virtue of [The Associated British Ports (Immingham Green Energy Terminal) (Corrections) Order 2025 (S.I. 2025/781)](https://www.legislation.gov.uk/uksi/2025/781), [art. 1](https://www.legislation.gov.uk/uksi/2025/781/article/1), [Sch. Table](https://www.legislation.gov.uk/uksi/2025/781/schedule)

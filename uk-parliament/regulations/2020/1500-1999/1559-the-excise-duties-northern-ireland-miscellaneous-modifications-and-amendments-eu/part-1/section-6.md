@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**6.**[^key-d31abec3de685e584b124dc17fdc3f16] In regulation 3(3)—
+**6.**[^c-d31abec3de685e584b124dc17fdc3f16] In regulation 3(3)—
 
 - (a) in sub-paragraph (a)(ii) for “Article 79 of Regulation [(EEC) 2913/92](https://www.legislation.gov.uk/european/regulation/1992/2913)” substitute “Article 201 of the Union Customs Code Regulation”;
 - (b) in sub-paragraph (b)(i), after “sub-paragraph (ii)” insert “or (iii)”;
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d31abec3de685e584b124dc17fdc3f16]: Textual amendment: Regs. 6, 6A substituted for reg. 6 (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/3)
+[^c-d31abec3de685e584b124dc17fdc3f16]: Textual amendment: Regs. 6, 6A substituted for reg. 6 (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/3)

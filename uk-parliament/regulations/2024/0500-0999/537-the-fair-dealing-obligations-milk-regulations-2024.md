@@ -44,7 +44,7 @@ In accordance with sections 29(10) and 50(6)(a) of the Agriculture Act 2020, a d
 
 ## PART 1 — General
 
-### 1. Citation, commencement, extent and application[^key-ac41af4993d053bfbe5790ce60b9b7fb]
+### 1. Citation, commencement, extent and application[^c-ac41af4993d053bfbe5790ce60b9b7fb]
 
 (1) These Regulations may be cited as the Fair Dealing Obligations (Milk) Regulations 2024.
 
@@ -66,7 +66,7 @@ In accordance with sections 29(10) and 50(6)(a) of the Agriculture Act 2020, a d
 - “the commencement date” is the day after the expiry of 12 weeks, beginning with the day on which these Regulations are made;
 - “the transition date” is the day after the expiry of 12 months, beginning with the commencement date.
 
-### 2. Interpretation[^key-82a5baaac74989c5ff9a1a4e7384c3ab]
+### 2. Interpretation[^c-82a5baaac74989c5ff9a1a4e7384c3ab]
 
 In these Regulations—
 
@@ -91,7 +91,7 @@ In these Regulations—
 
 ## PART 2 — Requirement to use a milk purchase contract
 
-### 3. Requirement to use a milk purchase contract and general provisions[^key-a392a91a2a69e545c7e5a579add079ce]
+### 3. Requirement to use a milk purchase contract and general provisions[^c-a392a91a2a69e545c7e5a579add079ce]
 
 (1) A business purchaser may not purchase milk from a producer unless the purchase is made under a milk purchase contract that complies with the requirements of these Regulations.
 
@@ -105,7 +105,7 @@ In these Regulations—
 
 ## PART 3 — Format and duration of milk purchase contract
 
-### 4. Format of a milk purchase contract[^key-f0c2f4293425a8c1ececbbedb2636a49]
+### 4. Format of a milk purchase contract[^c-f0c2f4293425a8c1ececbbedb2636a49]
 
 (1) A milk purchase contract must—
 
@@ -119,7 +119,7 @@ In these Regulations—
 - (a) is incorporated into or logically associated with any electronic communication or electronic data; and
 - (b) purports to be so incorporated or associated for the purposes of being used in establishing the authenticity of the communication or data, the integrity of the data, or both.
 
-### 5. Duration of milk purchase contract[^key-f2af69ce5e9f9794439c68e610bd3b08]
+### 5. Duration of milk purchase contract[^c-f2af69ce5e9f9794439c68e610bd3b08]
 
 (1) A milk purchase contract must be—
 
@@ -139,7 +139,7 @@ In these Regulations—
 
 ## PART 4 — Pricing and payment
 
-### 6. Permitted pricing[^key-1cfae110f77d1c139bc1ec2d5cdfd8d2]
+### 6. Permitted pricing[^c-1cfae110f77d1c139bc1ec2d5cdfd8d2]
 
 A milk purchase contract must use—
 
@@ -147,7 +147,7 @@ A milk purchase contract must use—
 - (b) a variable price; or
 - (c) a combination of a fixed price and a variable price.
 
-### 7. Use of a fixed price[^key-bd3544b9a8a9c9382a969ef132834e22]
+### 7. Use of a fixed price[^c-bd3544b9a8a9c9382a969ef132834e22]
 
 (1) Where a milk purchase contract uses a fixed price (whether or not in combination with a variable price), it must do so in accordance with this regulation.
 
@@ -172,7 +172,7 @@ A milk purchase contract must use—
 - (a) reviewing the price payable under the milk purchase contract at the time of the exceptional market condition occurring; and
 - (b) where both parties agree, changing that price.
 
-### 8. Use of a variable price[^key-decc92888c2dd299ae4f07c54bf4b424]
+### 8. Use of a variable price[^c-decc92888c2dd299ae4f07c54bf4b424]
 
 (1) Where a milk purchase contract uses a variable price (whether or not in combination with a fixed price), it must do so in accordance with this regulation.
 
@@ -206,11 +206,11 @@ factors set out in the milk purchase contract.
 
 (9) The business purchaser must give the explanation requested in the notice within 7 days beginning with the date on which the notice described in paragraph (7) was given.
 
-### 9. Tiered pricing[^key-72d94ab3859690bfdb25753c600941bf]
+### 9. Tiered pricing[^c-72d94ab3859690bfdb25753c600941bf]
 
 (1) An exclusive milk purchase contract may not include any provision that purports to provide that the price to be paid for milk under the contract changes if the amount of milk provided by the producer exceeds a certain volume.
 
-(1A)[^key-3c02be675e438d6b31ca730b9e084d6d] Paragraph (1) does not apply to an exclusive milk purchase contract made by a business purchaser which has an internal democratic structure when purchasing milk from a producer member.
+(1A)[^c-3c02be675e438d6b31ca730b9e084d6d] Paragraph (1) does not apply to an exclusive milk purchase contract made by a business purchaser which has an internal democratic structure when purchasing milk from a producer member.
 
 (1B) Where an exclusive milk purchase contract referred to in paragraph (1A) provides that the price to be paid for milk under the contract changes if the amount of milk provided by the producer exceeds a certain volume, it must do so in accordance with paragraphs (1C) to (1E).
 
@@ -222,7 +222,7 @@ factors set out in the milk purchase contract.
 
 (2) An “exclusive milk purchase contract” is a milk purchase contract that provides that the producer may not make a milk purchase contract with another business purchaser.
 
-### 10. Method and frequency of payment[^key-e0a0fb82c01d6ca059941650bb9f6ee5]
+### 10. Method and frequency of payment[^c-e0a0fb82c01d6ca059941650bb9f6ee5]
 
 A milk purchase contract must set out—
 
@@ -232,7 +232,7 @@ A milk purchase contract must set out—
 
 the business purchaser will pay the producer for milk under the contract.
 
-### 11. Referral of relevant variable price to independent third party[^key-3dda82e47f3f1cfeb31fd618abf7fdfb]
+### 11. Referral of relevant variable price to independent third party[^c-3dda82e47f3f1cfeb31fd618abf7fdfb]
 
 (1) A milk purchase contract that uses a relevant variable price must include a third-party verification procedure.
 
@@ -266,7 +266,7 @@ the business purchaser will pay the producer for milk under the contract.
 
 ## PART 5 — Volumes
 
-### 12. Fixed volume contracts[^key-614ddac4c473036705f41931433d624c]
+### 12. Fixed volume contracts[^c-614ddac4c473036705f41931433d624c]
 
 (1) This regulation applies to a milk purchase contract that specifies a fixed volume of milk.
 
@@ -287,19 +287,19 @@ the business purchaser will pay the producer for milk under the contract.
 
 ## PART 6 — Miscellaneous
 
-### 13. Collection of milk[^key-1c1be6c27465c8462203e70f4a9a8b03]
+### 13. Collection of milk[^c-1c1be6c27465c8462203e70f4a9a8b03]
 
 (1) A milk purchase contract must provide that milk supplied under the contract will be collected from the producer by, or on behalf of, the business purchaser.
 
 (2) The milk purchase contract must specify when, and how frequently, collections will occur.
 
-### 14. Force majeure[^key-08fe7086764e0dbd01f6983f2f943ff1]
+### 14. Force majeure[^c-08fe7086764e0dbd01f6983f2f943ff1]
 
 (1) A milk purchase contract must contain a provision setting out the effect on the business purchaser and producer of a force majeure event occurring.
 
 (2) A milk purchase contract must set out specifically the acts, events or circumstances that constitute a force majeure event.
 
-### 15. Notices under a milk purchase contract[^key-db69024e34528d22f93497ca36015fea]
+### 15. Notices under a milk purchase contract[^c-db69024e34528d22f93497ca36015fea]
 
 (1) A milk purchase contract must provide that any notice given under it must be—
 
@@ -314,7 +314,7 @@ the business purchaser will pay the producer for milk under the contract.
 
 (3) The milk purchase contract must state that the address for service by post for the parties is their ordinary business address unless a party specifies an alternative address.
 
-### 16. Variation of terms[^key-a5349613d78e44c09f0aef34a36db33f]
+### 16. Variation of terms[^c-a5349613d78e44c09f0aef34a36db33f]
 
 (1) A milk purchase contract must provide that the milk purchase contract’s terms may be varied only on agreement in writing between the business purchaser and—
 
@@ -325,7 +325,7 @@ the business purchaser will pay the producer for milk under the contract.
 
 ## PART 7 — Dispute resolution
 
-### 17. Dispute resolution[^key-e880bc8b95fba82569922b1a2286bc45]
+### 17. Dispute resolution[^c-e880bc8b95fba82569922b1a2286bc45]
 
 (1) A milk purchase contract must set out a procedure according to which a producer may make a complaint to the business purchaser relating to the milk purchase contract.
 
@@ -337,7 +337,7 @@ the business purchaser will pay the producer for milk under the contract.
 
 ## PART 8 — Termination
 
-### 18. Cooling off period[^key-ebc347048e700502edb24f073e311c60]
+### 18. Cooling off period[^c-ebc347048e700502edb24f073e311c60]
 
 (1) A milk purchase contract must provide that the producer may, at any time before the expiry of the cooling off period, terminate the contract without any penalty or liability.
 
@@ -347,7 +347,7 @@ the business purchaser will pay the producer for milk under the contract.
 
 (4) The “cooling off period” is a period of 21 days beginning with the date on which the contract was made.
 
-### 19. Termination[^key-4c54ec67aabb75b2df8492f029064f32]
+### 19. Termination[^c-4c54ec67aabb75b2df8492f029064f32]
 
 (1) Unless it is a fixed-duration contract with a duration of 12 months or less, a milk purchase contract must set out a process in accordance with which the contract can be terminated (“the termination process”).
 
@@ -388,7 +388,7 @@ the business purchaser will pay the producer for milk under the contract.
 
 ## PART 9 — Enforcement
 
-### 20. Referral of complaint to the Secretary of State[^key-38070d11ce57e5a4826beb846a0686b0]
+### 20. Referral of complaint to the Secretary of State[^c-38070d11ce57e5a4826beb846a0686b0]
 
 (1) A producer may refer a relevant complaint to the Secretary of State.
 
@@ -454,7 +454,7 @@ the business purchaser will pay the producer for milk under the contract.
 - (a) in England and Wales or Northern Ireland, an injunction;
 - (b) in Scotland, an order for specific performance under section 45 of the Court of Session Act 1988[^f00006].
 
-### 21. Power to impose a civil penalty or require compensation[^key-c7ab467134e46c80e618eb890bd121bd]
+### 21. Power to impose a civil penalty or require compensation[^c-c7ab467134e46c80e618eb890bd121bd]
 
 (1) Where the Secretary of State finds that a business purchaser has failed to comply with a requirement under these Regulations, the Secretary of State may require the business purchaser to pay either, or both, of the following—
 
@@ -489,7 +489,7 @@ after deduction of trade discounts, value added tax and other taxes based on the
 
 (11) Amounts are to be calculated in conformity with generally accepted accounting principles and practices.
 
-### 22. Requirement of the Secretary of State to publish guidance[^key-f3f8aa5d974ecc38c23dc359941a1e86]
+### 22. Requirement of the Secretary of State to publish guidance[^c-f3f8aa5d974ecc38c23dc359941a1e86]
 
 (1) The Secretary of State must publish guidance relating to the imposition of a requirement under regulation 21(1).
 
@@ -503,7 +503,7 @@ after deduction of trade discounts, value added tax and other taxes based on the
 
 (4) The Secretary of State must have regard to the guidance when exercising the power in regulation 21(1).
 
-### 23. Notice of intent[^key-dcb9ff4b602b8191d00545a13036ff51]
+### 23. Notice of intent[^c-dcb9ff4b602b8191d00545a13036ff51]
 
 (1) Where the Secretary of State proposes to require a business purchaser to pay a civil penalty or pay compensation, the Secretary of State must first give them a notice of intent.
 
@@ -519,13 +519,13 @@ after deduction of trade discounts, value added tax and other taxes based on the
 - (a) a copy of the notice of intent to the producer; and
 - (b) where the Secretary of State proposes to require the business purchaser to pay compensation to a producer, a written notice setting out that producer’s right to make representations in respect of the compensation.
 
-### 24. Representations[^key-3e763168cd9b56138f6380600cef4b4c]
+### 24. Representations[^c-3e763168cd9b56138f6380600cef4b4c]
 
 (1) A business purchaser to whom a notice of intent is given may, within 28 days beginning with the day on which the notice was received, make written representations to the Secretary of State in relation to the proposed requirement to pay a civil penalty or pay compensation.
 
 (2) A producer who is notified under regulation 23(3)(b) that the Secretary of State proposes to require the business purchaser to pay compensation to them may, within 28 days beginning with the day on which the notice was received, make written representations to the Secretary of State in relation to the amount of that compensation.
 
-### 25. Notice of decision[^key-e2458187838fd88330c92fceed3cb1c3]
+### 25. Notice of decision[^c-e2458187838fd88330c92fceed3cb1c3]
 
 (1) After the expiry of both periods within which the business purchaser and producer may make representations under regulation 24, the Secretary of State must decide whether to impose a requirement under regulation 21(1).
 
@@ -557,7 +557,7 @@ after deduction of trade discounts, value added tax and other taxes based on the
 
 the Secretary of State must include with the copy of the notice of decision under paragraph (5) a written notice setting out the producer’s right to appeal under regulation 26(2).
 
-### 26. Appeals[^key-d3ad02a4f0c857952585893eb1199d58]
+### 26. Appeals[^c-d3ad02a4f0c857952585893eb1199d58]
 
 (1) A business purchaser on whom a requirement has been imposed under regulation 21(1) may appeal against—
 
@@ -587,7 +587,7 @@ the Secretary of State must include with the copy of the notice of decision unde
 
 ## PART 10 — Review
 
-### 27. Review[^key-e1d673b26c8c400cd70696c55de61b6c]
+### 27. Review[^c-e1d673b26c8c400cd70696c55de61b6c]
 
 (1) The Secretary of State must from time to time—
 
@@ -612,7 +612,7 @@ the Secretary of State must include with the copy of the notice of decision unde
 
 ## PART 11 — Amendment of [Regulation (EU) No 1308/2013](https://www.legislation.gov.uk/european/regulation/2013/1308)
 
-### 28. Amendment of [Regulation (EU) No 1308/2013](https://www.legislation.gov.uk/european/regulation/2013/1308)[^key-325821b919445cd57ac4fe0a52ec2469]
+### 28. Amendment of [Regulation (EU) No 1308/2013](https://www.legislation.gov.uk/european/regulation/2013/1308)[^c-325821b919445cd57ac4fe0a52ec2469]
 
 (1) — [Regulation (EU) No 1308/2013](https://www.legislation.gov.uk/european/regulation/2013/1308) of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products is amended as follows.
 
@@ -697,11 +697,11 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2020 c. 21](https://www.legislation.gov.uk/ukpga/2020/21).
 
-[^key-ac41af4993d053bfbe5790ce60b9b7fb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/537/regulation/1) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
+[^c-ac41af4993d053bfbe5790ce60b9b7fb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/537/regulation/1) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
 
 [^f00002]: Footnote: For the meaning of “business purchaser” see section 29(3)(a) of the Agriculture Act 2020.
 
-[^key-82a5baaac74989c5ff9a1a4e7384c3ab]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/537/regulation/2) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
+[^c-82a5baaac74989c5ff9a1a4e7384c3ab]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/537/regulation/2) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
 
 [^f00003]: Footnote: EUR 2013/1308; amended by [S.I. 2019/828](https://www.legislation.gov.uk/uksi/2019/828). There are other amending instruments but none is relevant.
 
@@ -709,60 +709,60 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00005]: Footnote: For the meaning of “processing activities” see section 29(11) of the Agriculture Act 2020.
 
-[^key-a392a91a2a69e545c7e5a579add079ce]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/537/regulation/3) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
+[^c-a392a91a2a69e545c7e5a579add079ce]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/537/regulation/3) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
 
-[^key-f0c2f4293425a8c1ececbbedb2636a49]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/537/regulation/4) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
+[^c-f0c2f4293425a8c1ececbbedb2636a49]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/537/regulation/4) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
 
-[^key-f2af69ce5e9f9794439c68e610bd3b08]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/537/regulation/5) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
+[^c-f2af69ce5e9f9794439c68e610bd3b08]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/537/regulation/5) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
 
-[^key-1cfae110f77d1c139bc1ec2d5cdfd8d2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2024/537/regulation/6) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
+[^c-1cfae110f77d1c139bc1ec2d5cdfd8d2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2024/537/regulation/6) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
 
-[^key-bd3544b9a8a9c9382a969ef132834e22]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2024/537/regulation/7) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
+[^c-bd3544b9a8a9c9382a969ef132834e22]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2024/537/regulation/7) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
 
-[^key-decc92888c2dd299ae4f07c54bf4b424]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2024/537/regulation/8) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
+[^c-decc92888c2dd299ae4f07c54bf4b424]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2024/537/regulation/8) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
 
-[^key-72d94ab3859690bfdb25753c600941bf]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2024/537/regulation/9) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
+[^c-72d94ab3859690bfdb25753c600941bf]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2024/537/regulation/9) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
 
-[^key-3c02be675e438d6b31ca730b9e084d6d]: Textual amendment: [Reg. 9(1A)-(1E)](https://www.legislation.gov.uk/uksi/2024/537/regulation/9/1A) inserted (22.5.2025) by [The Fair Dealing Obligations (Pigs) Regulations 2025 (S.I. 2025/610)](https://www.legislation.gov.uk/uksi/2025/610), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/610/regulation/1/2), [27(2)](https://www.legislation.gov.uk/uksi/2025/610/regulation/27/2) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/610/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2025/610/regulation/1/5))
+[^c-3c02be675e438d6b31ca730b9e084d6d]: Textual amendment: [Reg. 9(1A)-(1E)](https://www.legislation.gov.uk/uksi/2024/537/regulation/9/1A) inserted (22.5.2025) by [The Fair Dealing Obligations (Pigs) Regulations 2025 (S.I. 2025/610)](https://www.legislation.gov.uk/uksi/2025/610), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/610/regulation/1/2), [27(2)](https://www.legislation.gov.uk/uksi/2025/610/regulation/27/2) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/610/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2025/610/regulation/1/5))
 
-[^key-e0a0fb82c01d6ca059941650bb9f6ee5]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2024/537/regulation/10) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
+[^c-e0a0fb82c01d6ca059941650bb9f6ee5]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2024/537/regulation/10) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
 
-[^key-3dda82e47f3f1cfeb31fd618abf7fdfb]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2024/537/regulation/11) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
+[^c-3dda82e47f3f1cfeb31fd618abf7fdfb]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2024/537/regulation/11) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
 
-[^key-614ddac4c473036705f41931433d624c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2024/537/regulation/12) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
+[^c-614ddac4c473036705f41931433d624c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2024/537/regulation/12) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
 
-[^key-1c1be6c27465c8462203e70f4a9a8b03]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2024/537/regulation/13) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
+[^c-1c1be6c27465c8462203e70f4a9a8b03]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2024/537/regulation/13) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
 
-[^key-08fe7086764e0dbd01f6983f2f943ff1]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2024/537/regulation/14) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
+[^c-08fe7086764e0dbd01f6983f2f943ff1]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2024/537/regulation/14) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
 
-[^key-db69024e34528d22f93497ca36015fea]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2024/537/regulation/15) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
+[^c-db69024e34528d22f93497ca36015fea]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2024/537/regulation/15) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
 
-[^key-a5349613d78e44c09f0aef34a36db33f]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2024/537/regulation/16) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
+[^c-a5349613d78e44c09f0aef34a36db33f]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2024/537/regulation/16) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
 
-[^key-e880bc8b95fba82569922b1a2286bc45]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2024/537/regulation/17) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
+[^c-e880bc8b95fba82569922b1a2286bc45]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2024/537/regulation/17) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
 
-[^key-ebc347048e700502edb24f073e311c60]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2024/537/regulation/18) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
+[^c-ebc347048e700502edb24f073e311c60]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2024/537/regulation/18) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
 
-[^key-4c54ec67aabb75b2df8492f029064f32]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2024/537/regulation/19) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
+[^c-4c54ec67aabb75b2df8492f029064f32]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2024/537/regulation/19) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
 
-[^key-38070d11ce57e5a4826beb846a0686b0]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2024/537/regulation/20) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
+[^c-38070d11ce57e5a4826beb846a0686b0]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2024/537/regulation/20) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
 
 [^f00006]: Footnote: [1988 c. 36](https://www.legislation.gov.uk/ukpga/1988/36).
 
-[^key-c7ab467134e46c80e618eb890bd121bd]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2024/537/regulation/21) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
+[^c-c7ab467134e46c80e618eb890bd121bd]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2024/537/regulation/21) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
 
-[^key-f3f8aa5d974ecc38c23dc359941a1e86]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2024/537/regulation/22) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
+[^c-f3f8aa5d974ecc38c23dc359941a1e86]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2024/537/regulation/22) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
 
-[^key-dcb9ff4b602b8191d00545a13036ff51]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2024/537/regulation/23) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
+[^c-dcb9ff4b602b8191d00545a13036ff51]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2024/537/regulation/23) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
 
-[^key-3e763168cd9b56138f6380600cef4b4c]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2024/537/regulation/24) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
+[^c-3e763168cd9b56138f6380600cef4b4c]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2024/537/regulation/24) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
 
-[^key-e2458187838fd88330c92fceed3cb1c3]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2024/537/regulation/25) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
+[^c-e2458187838fd88330c92fceed3cb1c3]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2024/537/regulation/25) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
 
-[^key-d3ad02a4f0c857952585893eb1199d58]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2024/537/regulation/26) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
+[^c-d3ad02a4f0c857952585893eb1199d58]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2024/537/regulation/26) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
 
-[^key-e1d673b26c8c400cd70696c55de61b6c]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2024/537/regulation/27) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
+[^c-e1d673b26c8c400cd70696c55de61b6c]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2024/537/regulation/27) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
 
 [^f00007]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-325821b919445cd57ac4fe0a52ec2469]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2024/537/regulation/28) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)
+[^c-325821b919445cd57ac4fe0a52ec2469]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2024/537/regulation/28) in force at 9.7.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2024/537/regulation/1/7)

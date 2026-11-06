@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Legal aid in relation to Part 2 notices[^key-9aca251f01f0b5540ff98469ac4159ce][^key-1d1bfaf3046493bf6e9500781cf39362]
+## 61. Legal aid in relation to Part 2 notices[^c-9aca251f01f0b5540ff98469ac4159ce][^c-1d1bfaf3046493bf6e9500781cf39362]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ In Schedule 1 to the Legal Aid, Sentencing and Punishment of Offenders Act 2012 
 
 ## Annotations
 
-[^key-9aca251f01f0b5540ff98469ac4159ce]: Commencement: S. 61 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-9aca251f01f0b5540ff98469ac4159ce]: Commencement: S. 61 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-1d1bfaf3046493bf6e9500781cf39362]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2023/32/section/61) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-1d1bfaf3046493bf6e9500781cf39362]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2023/32/section/61) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)

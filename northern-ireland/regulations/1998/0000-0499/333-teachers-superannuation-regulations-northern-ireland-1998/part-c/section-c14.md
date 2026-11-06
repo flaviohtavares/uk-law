@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## C14. Uncompleted return by instalments of repaid contributions[^key-4bec451fe2a53ae2fe1c523b8f512ee5]
+## C14. Uncompleted return by instalments of repaid contributions[^c-4bec451fe2a53ae2fe1c523b8f512ee5]
 
 *Extent: N.I.*
 
@@ -69,4 +69,4 @@ then, unless within 3 months he makes a single payment of the balance outstandin
 
 ## Annotations
 
-[^key-4bec451fe2a53ae2fe1c523b8f512ee5]: Commencement: Reg. C14 in operation at 2.11.1998, see reg. A1
+[^c-4bec451fe2a53ae2fe1c523b8f512ee5]: Commencement: Reg. C14 in operation at 2.11.1998, see reg. A1

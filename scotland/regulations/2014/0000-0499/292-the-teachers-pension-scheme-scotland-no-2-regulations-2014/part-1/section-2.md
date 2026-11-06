@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Establishment of Scottish Teachers’ Pension Scheme 2015[^key-e87b209055e9665f7e07cef189857bef]
+## 2. Establishment of Scottish Teachers’ Pension Scheme 2015[^c-e87b209055e9665f7e07cef189857bef]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e87b209055e9665f7e07cef189857bef]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2014/292/regulation/2) in force at 1.1.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/a)
+[^c-e87b209055e9665f7e07cef189857bef]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2014/292/regulation/2) in force at 1.1.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/a)

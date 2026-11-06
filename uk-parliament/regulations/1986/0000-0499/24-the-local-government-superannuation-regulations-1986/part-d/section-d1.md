@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## D1. Reckonable service[^key-88e7d49dedeb6a96025748f82c08a864]
+## D1. Reckonable service[^c-88e7d49dedeb6a96025748f82c08a864]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88e7d49dedeb6a96025748f82c08a864]: Commencement: [Reg. D1](https://www.legislation.gov.uk/uksi/1986/24/regulation/D1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-88e7d49dedeb6a96025748f82c08a864]: Commencement: [Reg. D1](https://www.legislation.gov.uk/uksi/1986/24/regulation/D1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

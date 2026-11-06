@@ -42,7 +42,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with section 12E(4) of that Act, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement and application[^key-39eb6ae42d4955e87b135a3ce59d204b]
+## 1. Citation, commencement and application[^c-39eb6ae42d4955e87b135a3ce59d204b]
 
 (1) These Regulations may be cited as the Mobile Homes (Requirement for Manager of Site to be Fit and Proper Person) (England) Regulations 2020.
 
@@ -58,7 +58,7 @@ In accordance with section 12E(4) of that Act, a draft of this instrument was la
 
 (4) These Regulations apply in relation to land in England only.
 
-## 2. Interpretation[^key-7a0dc9b04558bfbc6d159ba7e016b4ef]
+## 2. Interpretation[^c-7a0dc9b04558bfbc6d159ba7e016b4ef]
 
 In these Regulations—
 
@@ -71,7 +71,7 @@ In these Regulations—
 - “**relevant local authority**” means, in relation to land that is, or is proposed to be, used as a relevant protected site [^c24289751], the local authority [^c24289761] in whose area the site is situated;
 - “**working day**” means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday under the Banking and Financial Dealings Act 1971 [^c24289771] in England and Wales.
 
-## 3. Meaning of “non-commercial family-occupied site”[^key-c0677e51eea4e7b7c775fbdc105d0a16]
+## 3. Meaning of “non-commercial family-occupied site”[^c-c0677e51eea4e7b7c775fbdc105d0a16]
 
 (1) In these Regulations “**non-commercial family-occupied site**” means a relevant protected site—
 
@@ -107,12 +107,12 @@ In these Regulations—
 
 (5) For those purposes, “**relevant costs**” means the total of—
 
-- (a) any amount which the occupier is liable to pay as regards the site by way of a non-domestic rate under Part 3 of the Local Government Finance Act 1988[^key-0446ffa9e5c1d11c551fcf089d18648d];
+- (a) any amount which the occupier is liable to pay as regards the site by way of a non-domestic rate under Part 3 of the Local Government Finance Act 1988[^c-0446ffa9e5c1d11c551fcf089d18648d];
 - (b) any council tax for which the occupier is liable in respect of any caravan situated on the site (other than a caravan in which the occupier resides);
 - (c) any council tax for which the occupier is liable in respect of any dwelling situated on the site that is not a caravan (other than a dwelling in which the occupier resides); and
 - (d) the occupier's reasonable costs of repairs, maintenance and insurance in respect of the site.
 
-## 4. Requirement for fit and proper person[^key-f41747267d6baf4e8f3ee18759d3b733]
+## 4. Requirement for fit and proper person[^c-f41747267d6baf4e8f3ee18759d3b733]
 
 (1) An occupier of land may not cause or permit any part of the land to be used as a relevant protected site other than a non-commercial family-occupied site unless the relevant local authority—
 
@@ -122,7 +122,7 @@ In these Regulations—
 
 (2) A local authority may only appoint a person to manage a site if the local authority are satisfied that the person is a fit and proper person to do so.
 
-## 5. Register of fit and proper persons[^key-a53e6f26fac4b493e34dab4f1407537b]
+## 5. Register of fit and proper persons[^c-a53e6f26fac4b493e34dab4f1407537b]
 
 (1) This regulation applies to any local authority that has determined an application under regulation 6.
 
@@ -138,7 +138,7 @@ In these Regulations—
 
 (5) The information prescribed in paragraph 4 of Schedule 1 in respect of a site to which a rejected application relates must be included in the register until such time as information relating to the site is included in the register under paragraph 2 or 3 of Schedule 1.
 
-## 6. Application for inclusion in register[^key-7239efa4a821a8dff8047bce4c2f0772]
+## 6. Application for inclusion in register[^c-7239efa4a821a8dff8047bce4c2f0772]
 
 (1) An application for the inclusion of a person in the register by the relevant local authority may be made by the occupier of land in the local authority's area that is, or is proposed to be, used as a relevant protected site in the local authority's area that—
 
@@ -153,7 +153,7 @@ In these Regulations—
 
 (3) A registration application must include the matters listed in Schedule 2.
 
-## 7. Fit and proper person assessment[^key-22589c224f611acae60e6880b4c8e8d7]
+## 7. Fit and proper person assessment[^c-22589c224f611acae60e6880b4c8e8d7]
 
 (1) In making a fit and proper person assessment in relation to land that is used, or is proposed to be used, as a relevant protected site, a local authority—
 
@@ -166,7 +166,7 @@ In these Regulations—
 - (a) considering a registration application; or
 - (b) deciding whether it is appropriate to appoint a person as the manager of a site.
 
-## 8. Removal from register, variation of conditions etc.[^key-46cf7377cb28e24a3e3156e643e43142]
+## 8. Removal from register, variation of conditions etc.[^c-46cf7377cb28e24a3e3156e643e43142]
 
 (1) Where a person is included in the register, the local authority may in the circumstance prescribed in paragraph (2)—
 
@@ -176,11 +176,11 @@ In these Regulations—
 
 (2) The circumstance is that, after the person was included in the register, new evidence relevant to the person's inclusion in the register becomes available.
 
-## 9. Further provision about decisions under regulations 6(2) and 8(1)[^key-d0b7445845157cd9c61c9fe83d250fe0]
+## 9. Further provision about decisions under regulations 6(2) and 8(1)[^c-d0b7445845157cd9c61c9fe83d250fe0]
 
 Schedule 4 makes further provision about decisions under regulations 6(2) and 8(1).
 
-## 10. Fees etc.[^key-52cd83e5e51779cd094a9f6e71fbb451]
+## 10. Fees etc.[^c-52cd83e5e51779cd094a9f6e71fbb451]
 
 (1) A registration application must be accompanied by such fee as the local authority may fix.
 
@@ -200,7 +200,7 @@ Schedule 4 makes further provision about decisions under regulations 6(2) and 8(
 
 (7) Where the local authority have, with an occupier's consent, appointed a person to manage a site, the local authority may recover from the occupier the reasonable costs incurred or to be incurred in making the appointment.
 
-## 11. Offence of contravention of fit and proper person requirement[^key-ab22e0051e6b64b85be21582da55a7e2]
+## 11. Offence of contravention of fit and proper person requirement[^c-ab22e0051e6b64b85be21582da55a7e2]
 
 (1) An occupier of land commits an offence if the occupier contravenes regulation 4(1).
 
@@ -226,7 +226,7 @@ Schedule 4 makes further provision about decisions under regulations 6(2) and 8(
 - “**final decision notice**” has the meaning given in Schedule 4;
 - “**relevant decision**” means a decision which is given on an appeal to the First-tier Tribunal and confirms the local authority's decision (with or without variation).
 
-## 12. Other offences under these Regulations[^key-5031e303fd6c97779c8ce7477553134e]
+## 12. Other offences under these Regulations[^c-5031e303fd6c97779c8ce7477553134e]
 
 (1) An applicant commits an offence if the applicant—
 
@@ -265,7 +265,7 @@ Schedule 4 makes further provision about decisions under regulations 6(2) and 8(
   - (a) the decision under regulation 6(2)(b) to grant the application subject to the condition;
   - (b) the decision to impose the condition by virtue of regulation 8(1).
 
-## 13. Revocation of site licence[^key-527010fe4f139116896ea28b96dd66d2]
+## 13. Revocation of site licence[^c-527010fe4f139116896ea28b96dd66d2]
 
 (1) Where an occupier of land who holds a site licence in respect of that land contravenes regulation 4(1), the First-tier Tribunal may, on application by the relevant local authority, make an order revoking the site licence in question on the day specified in the order.
 
@@ -276,7 +276,7 @@ Schedule 4 makes further provision about decisions under regulations 6(2) and 8(
 
 the court before which the occupier is convicted may, on application by the relevant local authority, make an order revoking the site licence in question on the day specified in the order.
 
-## 14. Transitional provision[^key-1d64eedc62c1d6a331f5ae44c5427693]
+## 14. Transitional provision[^c-1d64eedc62c1d6a331f5ae44c5427693]
 
 (1) Paragraph (2) applies if a local authority includes a person's information in the register before the day on which regulation 4 comes into force (“the implementation day”).
 
@@ -294,7 +294,7 @@ Ministry of Housing, Communities and Local Government
 
 Regulation 5(3)
 
-### 1. Interpretation[^key-6795ef4343ea8e12926d761671251452]
+### 1. Interpretation[^c-6795ef4343ea8e12926d761671251452]
 
 In this Schedule—
 
@@ -305,7 +305,7 @@ In this Schedule—
   - (b) a person appointed by the occupier to manage the site; or
   - (c) a person appointed by the local authority to manage the site.
 
-### 2. Information that must be included in respect of an application which is granted[^key-804344b420dff4e1554a7e9b3b977bff]
+### 2. Information that must be included in respect of an application which is granted[^c-804344b420dff4e1554a7e9b3b977bff]
 
 The relevant local authority must include the following information in the register—
 
@@ -319,7 +319,7 @@ The relevant local authority must include the following information in the regis
   - (ii) the dates of the first and last day of the period for which any such condition applies (if applicable); and
   - (iii) the date any condition is varied or satisfied (if applicable).
 
-### 3. Information that must be included in respect of a local authority appointee[^key-c5973860ff4f88522159bd203c652d52]
+### 3. Information that must be included in respect of a local authority appointee[^c-c5973860ff4f88522159bd203c652d52]
 
 Where a relevant local authority have, with the occupier's consent, appointed a person to manage a relevant protected site, the local authority must include the following information in the register—
 
@@ -333,7 +333,7 @@ Where a relevant local authority have, with the occupier's consent, appointed a 
   - (ii) the dates of the first and last day of the period for which any such condition applies (if applicable); and
   - (iii) the date any condition is varied or satisfied (if applicable).
 
-### 4. Information that must be included in respect of an application which is rejected[^key-abe7422f5939610bc23298f771d8eda2]
+### 4. Information that must be included in respect of an application which is rejected[^c-abe7422f5939610bc23298f771d8eda2]
 
 Where an application is rejected, the local authority must include the following information in the register—
 
@@ -345,7 +345,7 @@ Where an application is rejected, the local authority must include the following
 
 Regulation 6(3)
 
-### 1. Interpretation[^key-c93e6f3f9b21be6e3d77d6c656fa257e]
+### 1. Interpretation[^c-c93e6f3f9b21be6e3d77d6c656fa257e]
 
 In this Schedule—
 
@@ -358,30 +358,30 @@ In this Schedule—
 - “**required information**” means the information listed in paragraph 13;
 - “site” (other than in the phrase “relevant protected site”) means the relevant protected site or proposed relevant protected site in respect of which the application is made.
 
-### 2. Details of the site and the applicant[^key-c76501cfab32a611678be5dd401bde97]
+### 2. Details of the site and the applicant[^c-c76501cfab32a611678be5dd401bde97]
 
 The applicant's name and business contact details.
 
-**3.**[^key-f9cbca47de3b9d2d29bcc649364d4e0d] Where the applicant is not an individual, the following information in relation to the individual completing the application on behalf of the applicant and each relevant officer—
+**3.**[^c-f9cbca47de3b9d2d29bcc649364d4e0d] Where the applicant is not an individual, the following information in relation to the individual completing the application on behalf of the applicant and each relevant officer—
 
 - (a) the person's name;
 - (b) details of the person's role (if any) in relation to the management of the site.
 
-**4.**[^key-403db21f594505e878f5bd8a7a53185b] The name and address of the site.
+**4.**[^c-403db21f594505e878f5bd8a7a53185b] The name and address of the site.
 
-**5.**[^key-eb94069fdc2b9f11c9cd83388487318e] Evidence of the applicant's legal estate or equitable interest in the site.
+**5.**[^c-eb94069fdc2b9f11c9cd83388487318e] Evidence of the applicant's legal estate or equitable interest in the site.
 
-**6.**[^key-48a477648d5c0ce066011f33491b6f57] Confirmation that the applicant is the occupier within the meaning of section 1 of the Caravan Sites and Control of Development Act 1960.
+**6.**[^c-48a477648d5c0ce066011f33491b6f57] Confirmation that the applicant is the occupier within the meaning of section 1 of the Caravan Sites and Control of Development Act 1960.
 
-**7.**[^key-fe8cf51c8b50788d2a961564ca9d5a97] The name and business contact details of any other person that has a legal estate or equitable interest in the site.
+**7.**[^c-fe8cf51c8b50788d2a961564ca9d5a97] The name and business contact details of any other person that has a legal estate or equitable interest in the site.
 
-**8.**[^key-a59bd2e1bb159469078b4146bf5f3a48] The name and address of each other relevant protected site—
+**8.**[^c-a59bd2e1bb159469078b4146bf5f3a48] The name and address of each other relevant protected site—
 
 - (a) for which the applicant holds a licence issued under section 3 of the Caravan Sites and Control of Development Act 1960;
 - (b) in which the applicant has a legal estate or equitable interest; or
 - (c) that the applicant manages.
 
-**9.**[^key-dedf41ef63fbf159a7fc7d2801503895] (1) Whether the application for inclusion in the register is made in respect of—
+**9.**[^c-dedf41ef63fbf159a7fc7d2801503895] (1) Whether the application for inclusion in the register is made in respect of—
 
 - (a) the applicant; or
 - (b) a person that the applicant has appointed to manage the site,
@@ -393,7 +393,7 @@ and the status of the relevant person in relation to the site.
 - (a) the occupier;
 - (b) a person appointed to manage the site by the occupier.
 
-### 10. Information relating to the site manager[^key-c4aade12f7e24f2d81d7c259f3136a19]
+### 10. Information relating to the site manager[^c-c4aade12f7e24f2d81d7c259f3136a19]
 
 (1) This paragraph applies where the applicant is not the relevant person.
 
@@ -411,7 +411,7 @@ and the status of the relevant person in relation to the site.
 - (a) the individual (“A”) that the site manager has appointed or intends to appoint to be responsible for the day-to-day management of the site;
 - (b) where A is not a relevant officer of the site manager, the relevant officer to whom A is accountable for the day-to-day management of the site.
 
-### 11. Additional information required where applicant is relevant person and an individual[^key-5b9b5cff05307545350798b797883bf5]
+### 11. Additional information required where applicant is relevant person and an individual[^c-5b9b5cff05307545350798b797883bf5]
 
 (1) This paragraph applies where the applicant is the relevant person and is an individual.
 
@@ -421,7 +421,7 @@ and the status of the relevant person in relation to the site.
 - (b) where B is not an individual, the individual (“C”) that B has appointed or intends to appoint to be responsible for the day-to-day management of the site;
 - (c) where C is not a relevant officer of B, the relevant officer to whom C is accountable for the day-to-day management of the site.
 
-### 12. Additional information required where applicant is relevant person and not an individual[^key-264b50567901abd67e85b617b91cfdda]
+### 12. Additional information required where applicant is relevant person and not an individual[^c-264b50567901abd67e85b617b91cfdda]
 
 (1) This paragraph applies where the applicant is the relevant person but is not an individual.
 
@@ -432,11 +432,11 @@ and the status of the relevant person in relation to the site.
 - (c) where B is not an individual, the individual (“C”) that B has appointed or intends to appoint to be responsible for the day-to-day management of the site;
 - (d) where C is not a relevant officer of B, the relevant officer to whom C is accountable for the day-to-day management of the site.
 
-### 13. Additional information required – any other person involved in the management of the site[^key-e20685ed9b6fc56f9859bbee8bcf6c12]
+### 13. Additional information required – any other person involved in the management of the site[^c-e20685ed9b6fc56f9859bbee8bcf6c12]
 
 The required information relating to any person involved or proposed to be involved in the management of the site in relation to whom the requirements to provide information under paragraphs 10, 11 and 12 do not apply.
 
-### 14. Required information[^key-dbb90b9b353fa6be892092be03911063]
+### 14. Required information[^c-dbb90b9b353fa6be892092be03911063]
 
 The information is—
 
@@ -448,18 +448,18 @@ The information is—
   - (ii) in which the person has a legal estate or equitable interest; or
   - (iii) that the person manages.
 
-### 15. Criminal record certificate[^key-7608122be6b9a1ab3488676abc80ef0a]
+### 15. Criminal record certificate[^c-7608122be6b9a1ab3488676abc80ef0a]
 
 A criminal record certificate issued under section 113A(1) of the Police Act 1997 [^c24289811] no more than six months before the date of the application in respect of—
 
 - (a) where the relevant person is an individual, the relevant person; and
 - (b) each individual in relation to whom the applicant is required to provide information under paragraph 10(2) or (5), 11 or 12.
 
-### 16. Information about specified matters[^key-2f1ab76c4fa06da2acd14a243043394b]
+### 16. Information about specified matters[^c-2f1ab76c4fa06da2acd14a243043394b]
 
 Information as to the matters specified in Schedule 3.
 
-### 17. Declaration[^key-7a6d5399fd7487bd80d6582c64b92fca]
+### 17. Declaration[^c-7a6d5399fd7487bd80d6582c64b92fca]
 
 (1) A declaration made and signed by the appropriate person that—
 
@@ -478,11 +478,11 @@ Information as to the matters specified in Schedule 3.
 
 Regulation 7(1)(a)
 
-### 1. Interpretation[^key-dd2357fd948588105c8d0acacc7e18fc]
+### 1. Interpretation[^c-dd2357fd948588105c8d0acacc7e18fc]
 
 In this Schedule, “**site**” means the relevant protected site or proposed relevant protected site in relation to which the application is made.
 
-### 2. Ability to secure the proper management of the site[^key-f82430fcf5c95ccd56a3ee071ca62019]
+### 2. Ability to secure the proper management of the site[^c-f82430fcf5c95ccd56a3ee071ca62019]
 
 (1) Whether the relevant person is able to secure the proper management of the site.
 
@@ -495,7 +495,7 @@ In this Schedule, “**site**” means the relevant protected site or proposed r
   - (i) whether the relevant person has a sufficient level of competence to manage the site; and
   - (ii) the management structure and funding arrangements for the site or proposed management structure and funding arrangements.
 
-### 3. Other considerations – relevant person[^key-8b0f71de83dec658c0843eaeb2d126f9]
+### 3. Other considerations – relevant person[^c-8b0f71de83dec658c0843eaeb2d126f9]
 
 (1) Whether the relevant person—
 
@@ -510,7 +510,7 @@ In this Schedule, “**site**” means the relevant protected site or proposed r
 
 (2) Where any other local authority has rejected an application for the relevant person to be included in a register, the local authority's reasons.
 
-### 4. Other considerations – responsible persons[^key-28b9e669964137fc01be2bc5d4e8b4c2]
+### 4. Other considerations – responsible persons[^c-28b9e669964137fc01be2bc5d4e8b4c2]
 
 (1) Sub-paragraphs (2) and (3) apply where the relevant person is not an individual.
 
@@ -532,7 +532,7 @@ In this Schedule, “**site**” means the relevant protected site or proposed r
 
 Regulation 9
 
-### 1. Interpretation[^key-f471a154e05242f9da2c50b659dd93ea]
+### 1. Interpretation[^c-f471a154e05242f9da2c50b659dd93ea]
 
 In this Schedule—
 
@@ -541,14 +541,14 @@ In this Schedule—
 - “**notice of proposed action**” means a notice that complies with paragraph 6(2);
 - “**preliminary decision notice**” means a notice that complies with paragraph 3.
 
-### 2. Decisions a local authority may make on an application[^key-1f2e2a00b9322efc8f807aa5f225e4a5]
+### 2. Decisions a local authority may make on an application[^c-1f2e2a00b9322efc8f807aa5f225e4a5]
 
 As soon as reasonably practicable after an application is made under regulation 6, the local authority must make a decision on the application and either—
 
 - (a) where the decision is to grant the application unconditionally and to include the relevant person on the register for 5 years, serve a final decision notice on the applicant; or
 - (b) otherwise, serve a preliminary decision notice on the applicant.
 
-### 3. Preliminary decision[^key-3c2b8d43d304c7e0a5116d4a9a3db72d]
+### 3. Preliminary decision[^c-3c2b8d43d304c7e0a5116d4a9a3db72d]
 
 The preliminary decision notice must set out—
 
@@ -560,7 +560,7 @@ The preliminary decision notice must set out—
 - (f) where the preliminary decision is to refuse the application, the consequences of causing or permitting the land to be used as a relevant protected site in contravention of regulation 4(1); and
 - (g) where the preliminary decision is to grant the application subject to conditions, the consequences of failing to comply with any condition.
 
-### 4. Right to make representations[^key-e9e0ce9863ed4648d5ed4c80d2b71586]
+### 4. Right to make representations[^c-e9e0ce9863ed4648d5ed4c80d2b71586]
 
 (1) An applicant who receives a preliminary decision notice or an occupier who receives a notice of proposed action may, within the period of 28 days beginning with the day after the day on which the notice was served, make written representations to the authority.
 
@@ -569,7 +569,7 @@ The preliminary decision notice must set out—
 - (a) making a final decision under paragraph 5(1)(a); or
 - (b) taking any of the actions specified in regulation 8(1).
 
-### 5. Final decision[^key-bdb68986562d6c24147d73bb69d1b78a]
+### 5. Final decision[^c-bdb68986562d6c24147d73bb69d1b78a]
 
 (1) Where paragraph 2(b) applies, the local authority must, as soon as reasonably practicable after the end of the period mentioned in paragraph 4(1)—
 
@@ -588,7 +588,7 @@ The preliminary decision notice must set out—
 - (f) where the decision is to refuse the application, the consequences of causing or permitting the land to be used as a relevant protected site in contravention of regulation 4(1); and
 - (g) where the decision is to grant the application subject to conditions, the consequences of failing to comply with any condition.
 
-### 6. Notice of proposed action[^key-29adc7d060c5f4673c1e241f6447641e]
+### 6. Notice of proposed action[^c-29adc7d060c5f4673c1e241f6447641e]
 
 (1) Before taking any of the actions specified in regulation 8(1) (other than action in respect of the removal of a condition) the local authority must serve a notice of proposed action on the occupier.
 
@@ -602,7 +602,7 @@ The preliminary decision notice must set out—
 - (f) where the proposed action is to remove a person from the register, the consequences of causing or permitting the land to be used as a relevant protected site in contravention of regulation 4(1); and
 - (g) where the proposed action is to impose a condition on the inclusion of a person in the register or to vary a condition, the consequences of failing to comply with any condition.
 
-### 7. Notice of action[^key-9b20c6e4e3bda30827184d568dc72b33]
+### 7. Notice of action[^c-9b20c6e4e3bda30827184d568dc72b33]
 
 (1) Where a notice of proposed action is given, the local authority must, as soon as reasonably practicable after the end of the period mentioned in paragraph 4(1) decide whether or not to take the action proposed.
 
@@ -620,7 +620,7 @@ The preliminary decision notice must set out—
 - (f) where the action is to remove a person from the register, the consequences of causing or permitting the land to be used as a relevant protected site in contravention of regulation 4(1); and
 - (g) where the action is to impose a condition on the inclusion of a person in the register or to vary a condition, the consequences of failing to comply with any condition.
 
-### 8. Withdrawal or amendment of notice[^key-7b06f02ebcde4594295ae86285e0de3c]
+### 8. Withdrawal or amendment of notice[^c-7b06f02ebcde4594295ae86285e0de3c]
 
 (1) The local authority may withdraw or amend—
 
@@ -630,7 +630,7 @@ The preliminary decision notice must set out—
 
 (2) The power in sub-paragraph (1) is to be exercised by serving notice on the person on whom the original notice was served.
 
-### 9. Appeals[^key-e379ae933a04576ad983e018f67a4928]
+### 9. Appeals[^c-e379ae933a04576ad983e018f67a4928]
 
 (1) A person on whom a final decision notice is served may appeal to the First-tier Tribunal against—
 
@@ -653,7 +653,7 @@ The preliminary decision notice must set out—
 
 Regulation 11(2)(a)
 
-### 1. Interpretation[^key-0b1fd4761d244fb8a1980c0f7fa45014]
+### 1. Interpretation[^c-0b1fd4761d244fb8a1980c0f7fa45014]
 
 In this Schedule—
 
@@ -670,7 +670,7 @@ In this Schedule—
     - (ii) where an appeal was brought against the final decision, the day after the day on which any appeal against such a decision or against any relevant decision of the First-tier Tribunal was finally determined;
 - “notice of action” and “final decision notice” have the meaning given in paragraph 1 of Schedule 4.
 
-### 2. Specified circumstances and relevant periods for the purposes of regulation 11(2)(a)[^key-8db4d6fbe832258e76a42804f506e109]
+### 2. Specified circumstances and relevant periods for the purposes of regulation 11(2)(a)[^c-8db4d6fbe832258e76a42804f506e109]
 
 | *Row* | *Circumstance* | *Relevant period for making an application in the circumstance* |
 | --- | --- | --- |
@@ -717,9 +717,9 @@ A full impact assessment has not been produced for this instrument as no signifi
 
 [^c24289741]: Marginal citation: [1960 c. 62 (8 and 9 Eliz. 2)](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/62). Sections 12A to 12E were inserted by section 8 of the [Mobile Homes Act 2013 (c. 14)](https://www.legislation.gov.uk/ukpga/2013/14).
 
-[^key-39eb6ae42d4955e87b135a3ce59d204b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1) in force at 1.7.2021, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/a)
+[^c-39eb6ae42d4955e87b135a3ce59d204b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1) in force at 1.7.2021, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/a)
 
-[^key-7a0dc9b04558bfbc6d159ba7e016b4ef]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1034/regulation/2) in force at 1.7.2021, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/a)
+[^c-7a0dc9b04558bfbc6d159ba7e016b4ef]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1034/regulation/2) in force at 1.7.2021, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/a)
 
 [^c24289751]: Marginal citation: See the definition of “relevant protected site” in section 5A(5) of the Caravan Sites and Control of Development Act 1960.
 
@@ -727,106 +727,106 @@ A full impact assessment has not been produced for this instrument as no signifi
 
 [^c24289771]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-c0677e51eea4e7b7c775fbdc105d0a16]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1034/regulation/3) in force at 1.7.2021, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/a)
+[^c-c0677e51eea4e7b7c775fbdc105d0a16]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1034/regulation/3) in force at 1.7.2021, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/a)
 
 [^c24289781]: Marginal citation: See the definition of “occupier” in section 1(3) of the Caravan Sites and Control of Development Act 1960.
 
 [^c24289791]: Marginal citation: [1983 c. 34](https://www.legislation.gov.uk/ukpga/1983/34). Chapter 1 of Part 1 of Schedule 1 to the Act was inserted, in relation to England and Wales, by [S.I. 2011/1003](https://www.legislation.gov.uk/uksi/2011/1003).
 
-[^key-0446ffa9e5c1d11c551fcf089d18648d]: Textual amendment: Words in [reg. 3(5)(a)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/3/5/a) substituted (17.6.2021) by [The Mobile Homes (Requirement for Manager of Site to be Fit and Proper Person) (England) (Amendment) Regulations 2021 (S.I. 2021/711)](https://www.legislation.gov.uk/uksi/2021/711), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/711/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/711/regulation/2)
+[^c-0446ffa9e5c1d11c551fcf089d18648d]: Textual amendment: Words in [reg. 3(5)(a)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/3/5/a) substituted (17.6.2021) by [The Mobile Homes (Requirement for Manager of Site to be Fit and Proper Person) (England) (Amendment) Regulations 2021 (S.I. 2021/711)](https://www.legislation.gov.uk/uksi/2021/711), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/711/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/711/regulation/2)
 
-[^key-f41747267d6baf4e8f3ee18759d3b733]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1034/regulation/4) in force at 1.10.2021, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/3/a)
+[^c-f41747267d6baf4e8f3ee18759d3b733]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1034/regulation/4) in force at 1.10.2021, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/3/a)
 
-[^key-a53e6f26fac4b493e34dab4f1407537b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1034/regulation/5) in force at 1.7.2021, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/a)
+[^c-a53e6f26fac4b493e34dab4f1407537b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1034/regulation/5) in force at 1.7.2021, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/a)
 
-[^key-7239efa4a821a8dff8047bce4c2f0772]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/1034/regulation/6) in force at 1.7.2021, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/a)
+[^c-7239efa4a821a8dff8047bce4c2f0772]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/1034/regulation/6) in force at 1.7.2021, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/a)
 
-[^key-22589c224f611acae60e6880b4c8e8d7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/1034/regulation/7) in force at 1.7.2021, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/a)
+[^c-22589c224f611acae60e6880b4c8e8d7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/1034/regulation/7) in force at 1.7.2021, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/a)
 
-[^key-46cf7377cb28e24a3e3156e643e43142]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/1034/regulation/8) in force at 1.7.2021, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/a)
+[^c-46cf7377cb28e24a3e3156e643e43142]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/1034/regulation/8) in force at 1.7.2021, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/a)
 
-[^key-d0b7445845157cd9c61c9fe83d250fe0]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2020/1034/regulation/9) in force at 1.7.2021, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/a)
+[^c-d0b7445845157cd9c61c9fe83d250fe0]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2020/1034/regulation/9) in force at 1.7.2021, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/a)
 
-[^key-52cd83e5e51779cd094a9f6e71fbb451]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2020/1034/regulation/10) in force at 1.7.2021, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/a)
+[^c-52cd83e5e51779cd094a9f6e71fbb451]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2020/1034/regulation/10) in force at 1.7.2021, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/a)
 
-[^key-ab22e0051e6b64b85be21582da55a7e2]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2020/1034/regulation/11) in force at 1.10.2021, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/3/a)
+[^c-ab22e0051e6b64b85be21582da55a7e2]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2020/1034/regulation/11) in force at 1.10.2021, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/3/a)
 
-[^key-5031e303fd6c97779c8ce7477553134e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2020/1034/regulation/12) in force at 1.10.2021, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/3/a)
+[^c-5031e303fd6c97779c8ce7477553134e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2020/1034/regulation/12) in force at 1.10.2021, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/3/a)
 
-[^key-527010fe4f139116896ea28b96dd66d2]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2020/1034/regulation/13) in force at 1.10.2021, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/3/a)
+[^c-527010fe4f139116896ea28b96dd66d2]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2020/1034/regulation/13) in force at 1.10.2021, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/3/a)
 
-[^key-1d64eedc62c1d6a331f5ae44c5427693]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2020/1034/regulation/14) in force at 1.7.2021, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/a)
+[^c-1d64eedc62c1d6a331f5ae44c5427693]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2020/1034/regulation/14) in force at 1.7.2021, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/a)
 
-[^key-6795ef4343ea8e12926d761671251452]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2020/1034/schedule/1/paragraph/1) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-6795ef4343ea8e12926d761671251452]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2020/1034/schedule/1/paragraph/1) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
-[^key-804344b420dff4e1554a7e9b3b977bff]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2020/1034/schedule/1/paragraph/2) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-804344b420dff4e1554a7e9b3b977bff]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2020/1034/schedule/1/paragraph/2) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
-[^key-c5973860ff4f88522159bd203c652d52]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2020/1034/schedule/1/paragraph/3) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-c5973860ff4f88522159bd203c652d52]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2020/1034/schedule/1/paragraph/3) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
-[^key-abe7422f5939610bc23298f771d8eda2]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2020/1034/schedule/1/paragraph/4) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-abe7422f5939610bc23298f771d8eda2]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2020/1034/schedule/1/paragraph/4) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
-[^key-c93e6f3f9b21be6e3d77d6c656fa257e]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/1) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-c93e6f3f9b21be6e3d77d6c656fa257e]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/1) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
-[^key-c76501cfab32a611678be5dd401bde97]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/2) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-c76501cfab32a611678be5dd401bde97]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/2) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
-[^key-f9cbca47de3b9d2d29bcc649364d4e0d]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/3) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-f9cbca47de3b9d2d29bcc649364d4e0d]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/3) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
-[^key-403db21f594505e878f5bd8a7a53185b]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/4) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-403db21f594505e878f5bd8a7a53185b]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/4) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
-[^key-eb94069fdc2b9f11c9cd83388487318e]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/5) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-eb94069fdc2b9f11c9cd83388487318e]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/5) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
-[^key-48a477648d5c0ce066011f33491b6f57]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/6) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-48a477648d5c0ce066011f33491b6f57]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/6) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
-[^key-fe8cf51c8b50788d2a961564ca9d5a97]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/7) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-fe8cf51c8b50788d2a961564ca9d5a97]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/7) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
-[^key-a59bd2e1bb159469078b4146bf5f3a48]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/8) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-a59bd2e1bb159469078b4146bf5f3a48]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/8) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
-[^key-dedf41ef63fbf159a7fc7d2801503895]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/9) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-dedf41ef63fbf159a7fc7d2801503895]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/9) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
-[^key-c4aade12f7e24f2d81d7c259f3136a19]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/10) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-c4aade12f7e24f2d81d7c259f3136a19]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/10) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
-[^key-5b9b5cff05307545350798b797883bf5]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/11) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-5b9b5cff05307545350798b797883bf5]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/11) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
-[^key-264b50567901abd67e85b617b91cfdda]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/12) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-264b50567901abd67e85b617b91cfdda]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/12) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
-[^key-e20685ed9b6fc56f9859bbee8bcf6c12]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/13) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-e20685ed9b6fc56f9859bbee8bcf6c12]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/13) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
-[^key-dbb90b9b353fa6be892092be03911063]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/14) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-dbb90b9b353fa6be892092be03911063]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/14) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
-[^key-7608122be6b9a1ab3488676abc80ef0a]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/15) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-7608122be6b9a1ab3488676abc80ef0a]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/15) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
 [^c24289811]: Marginal citation: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50). Section 113A was inserted by section 163(2) of the [Serious Organised Crime and Police Act 1995 (c. 15)](https://www.legislation.gov.uk/ukpga/1995/15). Subsection (1) was amended by section 112(2) of, and Part 8 of Schedule 8 to, the [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [section 80(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/80/1) of the [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9) and [S.I. 2012/3006](https://www.legislation.gov.uk/uksi/2012/3006).
 
-[^key-2f1ab76c4fa06da2acd14a243043394b]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/16) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-2f1ab76c4fa06da2acd14a243043394b]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/16) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
-[^key-7a6d5399fd7487bd80d6582c64b92fca]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/17) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-7a6d5399fd7487bd80d6582c64b92fca]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2020/1034/schedule/2/paragraph/17) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
-[^key-dd2357fd948588105c8d0acacc7e18fc]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2020/1034/schedule/3/paragraph/1) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-dd2357fd948588105c8d0acacc7e18fc]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2020/1034/schedule/3/paragraph/1) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
-[^key-f82430fcf5c95ccd56a3ee071ca62019]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2020/1034/schedule/3/paragraph/2) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-f82430fcf5c95ccd56a3ee071ca62019]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2020/1034/schedule/3/paragraph/2) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
-[^key-8b0f71de83dec658c0843eaeb2d126f9]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2020/1034/schedule/3/paragraph/3) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-8b0f71de83dec658c0843eaeb2d126f9]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2020/1034/schedule/3/paragraph/3) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
-[^key-28b9e669964137fc01be2bc5d4e8b4c2]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2020/1034/schedule/3/paragraph/4) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-28b9e669964137fc01be2bc5d4e8b4c2]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2020/1034/schedule/3/paragraph/4) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
-[^key-f471a154e05242f9da2c50b659dd93ea]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2020/1034/schedule/4/paragraph/1) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-f471a154e05242f9da2c50b659dd93ea]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2020/1034/schedule/4/paragraph/1) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
-[^key-1f2e2a00b9322efc8f807aa5f225e4a5]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2020/1034/schedule/4/paragraph/2) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-1f2e2a00b9322efc8f807aa5f225e4a5]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2020/1034/schedule/4/paragraph/2) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
-[^key-3c2b8d43d304c7e0a5116d4a9a3db72d]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2020/1034/schedule/4/paragraph/3) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-3c2b8d43d304c7e0a5116d4a9a3db72d]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2020/1034/schedule/4/paragraph/3) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
-[^key-e9e0ce9863ed4648d5ed4c80d2b71586]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2020/1034/schedule/4/paragraph/4) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-e9e0ce9863ed4648d5ed4c80d2b71586]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2020/1034/schedule/4/paragraph/4) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
-[^key-bdb68986562d6c24147d73bb69d1b78a]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2020/1034/schedule/4/paragraph/5) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-bdb68986562d6c24147d73bb69d1b78a]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2020/1034/schedule/4/paragraph/5) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
-[^key-29adc7d060c5f4673c1e241f6447641e]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2020/1034/schedule/4/paragraph/6) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-29adc7d060c5f4673c1e241f6447641e]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2020/1034/schedule/4/paragraph/6) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
-[^key-9b20c6e4e3bda30827184d568dc72b33]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2020/1034/schedule/4/paragraph/7) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-9b20c6e4e3bda30827184d568dc72b33]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2020/1034/schedule/4/paragraph/7) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
-[^key-7b06f02ebcde4594295ae86285e0de3c]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2020/1034/schedule/4/paragraph/8) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-7b06f02ebcde4594295ae86285e0de3c]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2020/1034/schedule/4/paragraph/8) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
-[^key-e379ae933a04576ad983e018f67a4928]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2020/1034/schedule/4/paragraph/9) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
+[^c-e379ae933a04576ad983e018f67a4928]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2020/1034/schedule/4/paragraph/9) in force at 1.7.2021, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1034/regulation/1/2/b)
 
-[^key-0b1fd4761d244fb8a1980c0f7fa45014]: Commencement: Sch. 5 para. 1 in force at 1.10.2021, see reg. 1(3)(b)
+[^c-0b1fd4761d244fb8a1980c0f7fa45014]: Commencement: Sch. 5 para. 1 in force at 1.10.2021, see reg. 1(3)(b)
 
-[^key-8db4d6fbe832258e76a42804f506e109]: Commencement: Sch. 5 para. 2 in force at 1.10.2021, see reg. 1(3)(b)
+[^c-8db4d6fbe832258e76a42804f506e109]: Commencement: Sch. 5 para. 2 in force at 1.10.2021, see reg. 1(3)(b)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-e412076436817aaf9f6a04edfb524473] In this Act, except where the context otherwise requires—
+(1)[^c-e412076436817aaf9f6a04edfb524473] In this Act, except where the context otherwise requires—
 
 - [^c13438451]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “**Act of 1965**” means the [^c13438461]Compulsory Purchase Act 1965;
@@ -43,7 +43,7 @@ summary: ''
 - “**cycle track**” means a way constituting or comprised in a highway, being a way over which the public have the following, but no other, rights of way, that is to say, a right of way on pedal cycles (other than pedal cycles which are motor vehicles within the meaning of[^c13438481] the Road Traffic Act 1988[^c13438491] with or without a right of way on foot;
 - “[^c13437972]**definitive map and statement**” has the same meaning as in Part III of the Wildlife and Countryside Act 1981;
 - “**dock undertakers**” means persons authorised by any enactment to carry on a dock undertaking;
-- “**drainage authority**” means the Environment Agency, the Natural Resources Body for Wales or[^key-7635731245ceb7c73cad3e5c18814bab] an internal drainage board;
+- “**drainage authority**” means the Environment Agency, the Natural Resources Body for Wales or[^c-7635731245ceb7c73cad3e5c18814bab] an internal drainage board;
 - “[^c13438511]**driver information system**” has the same meaning as in Part II of the Road Traffic (Driver Licensing and Information Systems) Act 1989, and references to an “operator” of a driver information system are references to an operator licensed under that Part of that Act;
 - [^c13438521]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “**enactment**” includes an enactment in a local or private Act of Parliament and a provision of an order, scheme, regulations or other instrument made under or confirmed by a public general, local or private Act of Parliament;
@@ -65,7 +65,7 @@ summary: ''
 - “**lease**” includes an underlease and an agreement for a lease or underlease, but does not include an option to take a lease or mortgage, and “**lessee**” is to be construed accordingly;
 - “**lighting authority**” means a council or other body authorised to provide lighting under section 161 of the [^c13438561]Public Health Act 1875 or under section 3 of the [^c13438571]Parish Councils Act 1957 or any corresponding local enactment;
 - “**local authority**” means the council of a district or London borough or the Common Council but, in relation to Wales, means a Welsh council[^c13438581];
-- “**local highway authority**” means a highway authority other than the Minister or a strategic highways company[^key-da4ac5d4618c5fedc0c0a5b35f426e07];
+- “**local highway authority**” means a highway authority other than the Minister or a strategic highways company[^c-da4ac5d4618c5fedc0c0a5b35f426e07];
 - “**local planning authority**” has the same meaning as in the Town and Country Planning Act 1990[^c13438591];
 - “**lorry area**” means an area provided under section 115 above;
 - “**made-up carriageway**” means a carriageway, or a part thereof, which has been metalled or in any other way provided with a surface suitable for the passage of vehicles;
@@ -102,7 +102,7 @@ summary: ''
 - “[^c13438192]**special diversion order**” means an order under section 119B(4) above;
 - “**special enactment**” means any enactment other than a public general enactment;
 - “[^c13438212]**special extinguishment order**” means an order under section 118B(4) above;
-- “**special road**” means a highway, or a proposed highway, which is a special road in accordance with section 16 above or by virtue of an order granting development consent under the Planning Act 2008[^c19868671] or an infrastructure consent order under the Infrastructure (Wales) Act 2024[^key-c03ce994df315cc26bdaa52cb781b708];
+- “**special road**” means a highway, or a proposed highway, which is a special road in accordance with section 16 above or by virtue of an order granting development consent under the Planning Act 2008[^c19868671] or an infrastructure consent order under the Infrastructure (Wales) Act 2024[^c-c03ce994df315cc26bdaa52cb781b708];
 - “**special road authority**” has the meaning provided by section 16(4) above;
 - “[^c13438221]**SSSI diversion order** ” means an order under section 119D above;
 - “**statutory undertakers**” means persons authorised by any enactment to carry on any of the following undertakings:—
@@ -111,7 +111,7 @@ summary: ''
 
   and “**statutory undertaking**” is to be construed accordingly;
 
-  “[^key-6f190943d455ef889e3c68a41ef51c67]**strategic highways company**” means a company for the time being appointed under Part 1 of the Infrastructure Act 2015;
+  “[^c-6f190943d455ef889e3c68a41ef51c67]**strategic highways company**” means a company for the time being appointed under Part 1 of the Infrastructure Act 2015;
 - “[^c13438711]**street**” has the same meaning as in Part III of the New Roads and Street Works Act 1991;
 - [^c13438721]“**street works licence**” means a licence under section 50 of the New Roads and Street Works Act 1991, and “**licensee**” in relation to such a licence, has the meaning given by subsection (3) of that section;
 - “**swing bridge**” includes any opening bridge operated by mechanical means;
@@ -122,7 +122,7 @@ summary: ''
 - “**traffic sign**” has the same meaning as in section 64 of the Road Traffic Regulation Act 1984[^c13438741];
 - “**tramway undertakers**” means persons authorised by any enactment to carry on a tramway undertaking;
 - “**transport undertakers**” means persons authorised by any enactment to carry on any of the following undertakings, that is to say, a railway, canal, inland navigation, dock, harbour or pier undertaking, and “**transport undertaking**” is to be construed accordingly;
-- “**trunk road**” means a highway, or a proposed highway, which is a trunk road by virtue of section 10(1) or section 19 above or by virtue of an order or direction under section 10 above or an order granting development consent under the Planning Act 2008,[^c19868691] or an infrastructure consent order under the Infrastructure (Wales) Act 2024,[^key-1303972e29af67376620bb8bfbd39bbb] or under any other enactment;
+- “**trunk road**” means a highway, or a proposed highway, which is a trunk road by virtue of section 10(1) or section 19 above or by virtue of an order or direction under section 10 above or an order granting development consent under the Planning Act 2008,[^c19868691] or an infrastructure consent order under the Infrastructure (Wales) Act 2024,[^c-1303972e29af67376620bb8bfbd39bbb] or under any other enactment;
 - “**trunk road picnic area**” has the meaning provided by section 112(1) above;
 - “universal service provider” has the same meaning as in[^c13438751] Part 3 of the Postal Services Act 2011[^c21461011]; and references to the provision of a universal postal service shall be construed in accordance with that Part[^c21461031];
 - “[^c13438761]**water undertakers**” means the Environment Agency, the Natural Resources Body for Wales or a water undertaker.
@@ -142,17 +142,17 @@ summary: ''
 
 (4) Any reference in this Act to property of railway undertakers, canal undertakers, inland navigation undertakers, dock undertakers, harbour undertakers [^c13438801]. . . pier undertakers is, where the undertakers are a body to which this subsection applies, to be taken as a reference to property of that body held or used by them wholly or mainly for the purposes of so much of their undertaking as consists of the carrying on of a railway undertaking or, as the case may be, of a canal undertaking, an inland navigation undertaking, a dock undertaking, a harbour undertaking or a pier undertaking.
 
-This subsection applies to the following bodies, namely, the British Railways Board, the British Transport Docks Board, Canal & River Trust[^key-c5ee8ea621ce3947edacdf008cbb1c38], Transport for London[^c18515981], [^c13438821]. . . [^c13438831]. . . any wholly-owned subsidiary (within the meaning of the [^c13438841]Transport Act 1968) or joint subsidiary (within the meaning of section 51(5) of that Act) of any of those bodies other than Transport for London, or any of its subsidiaries (within the meaning of the Greater London Authority Act 1999)[^c18516001].
+This subsection applies to the following bodies, namely, the British Railways Board, the British Transport Docks Board, Canal & River Trust[^c-c5ee8ea621ce3947edacdf008cbb1c38], Transport for London[^c18515981], [^c13438821]. . . [^c13438831]. . . any wholly-owned subsidiary (within the meaning of the [^c13438841]Transport Act 1968) or joint subsidiary (within the meaning of section 51(5) of that Act) of any of those bodies other than Transport for London, or any of its subsidiaries (within the meaning of the Greater London Authority Act 1999)[^c18516001].
 
 (4A)[^c13438861] Any reference in this Act to apparatus belonging to, or used or maintained by the operator of an electronic communications code network[^c18516141] shall have effect as a reference to electronic communications apparatus[^c18516151] kept installed for the purposes of that network[^c18516161].
 
 (5)[^c18852151] In relation to that part of the road constructed by the Minister of Transport along the line described in Schedule 1 to the [^c13438871]North of Almondsbury—South of Haysgate Trunk Road Order 1947 and referred to in that Order as “**the new road**” which lies to the east of the most easterly point before reaching the River Wye at which eastbound traffic of Classes I and II (as specified in Schedule 4 to this Act) can leave that road by another special road, the functions of the Minister under this Act shall be exercisable by the Secretary of State for Transport[^c13438881].
 
-(6)[^key-8010eb70a7406eb86fb2fc56c09cbc49] Subsection (5) is subject to the specification of those roads as ones for which a strategic highways company is highway authority under Part 1 of the Infrastructure Act 2015.
+(6)[^c-8010eb70a7406eb86fb2fc56c09cbc49] Subsection (5) is subject to the specification of those roads as ones for which a strategic highways company is highway authority under Part 1 of the Infrastructure Act 2015.
 
 ## Annotations
 
-[^key-e412076436817aaf9f6a04edfb524473]: Modification: S. 329(1) modified (1.4.2018) by [The Sub-national Transport Body (Transport for the North) Regulations 2018 (S.I. 2018/103)](https://www.legislation.gov.uk/uksi/2018/103), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/1/2), [12(g)(xi)](https://www.legislation.gov.uk/uksi/2018/103/regulation/12/g/xi)
+[^c-e412076436817aaf9f6a04edfb524473]: Modification: S. 329(1) modified (1.4.2018) by [The Sub-national Transport Body (Transport for the North) Regulations 2018 (S.I. 2018/103)](https://www.legislation.gov.uk/uksi/2018/103), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/1/2), [12(g)(xi)](https://www.legislation.gov.uk/uksi/2018/103/regulation/12/g/xi)
 
 [^c13438451]: Textual amendment: Definition repealed by [Acquisition of Land Act 1981 (c. 67, SIF 28:1)](https://www.legislation.gov.uk/ukpga/1981/67), [s. 34](https://www.legislation.gov.uk/ukpga/1981/67/section/34), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1981/67/schedule/6/part/I)
 
@@ -166,7 +166,7 @@ This subsection applies to the following bodies, namely, the British Railways Bo
 
 [^c13437972]: Textual amendment: Definition of "definitive map and statement" in s. 329(1) inserted (12.2.2003 for E. and 31.5.2005 for W.) by [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37), [ss. 57](https://www.legislation.gov.uk/ukpga/2000/37/section/57), [103(3)](https://www.legislation.gov.uk/ukpga/2000/37/section/103/3), [Sch. 6 Pt. I para. 20(a)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/part/I/paragraph/20/a); [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(a)(n)](https://www.legislation.gov.uk/uksi/2003/272/article/2/a/n); [S.I. 2005/1314](https://www.legislation.gov.uk/uksi/2005/1314), [art. 2(b)(vi)](https://www.legislation.gov.uk/uksi/2005/1314/article/2/b/vi)
 
-[^key-7635731245ceb7c73cad3e5c18814bab]: Textual amendment: Words in s. 329(1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 167](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/167) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-7635731245ceb7c73cad3e5c18814bab]: Textual amendment: Words in s. 329(1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 167](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/167) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c13438511]: Textual amendment: Definition inserted by [Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1989/22), [s. 13(1)](https://www.legislation.gov.uk/ukpga/1989/22/section/13/1), [Sch. 4 para 3(13)](https://www.legislation.gov.uk/ukpga/1989/22/schedule/4/paragraph/3/13)
 
@@ -184,7 +184,7 @@ This subsection applies to the following bodies, namely, the British Railways Bo
 
 [^c13438581]: Textual amendment: Words in s. 329(1) added (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/section/22/1), [Sch. 7 Pt. I para. 27(2)(a)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/7/part/I/paragraph/27/2/a) (with [s. 54(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/7), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 3](https://www.legislation.gov.uk/uksi/1996/396/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/396/schedule/1).
 
-[^key-da4ac5d4618c5fedc0c0a5b35f426e07]: Textual amendment: Words in s. 329(1) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 60(2)(a)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/60/2/a); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-da4ac5d4618c5fedc0c0a5b35f426e07]: Textual amendment: Words in s. 329(1) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 60(2)(a)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/60/2/a); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
 [^c13438591]: Textual amendment: Words substituted by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 4](https://www.legislation.gov.uk/ukpga/1990/11/section/4), [Sch. 2 para. 45(17)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/45/17)
 
@@ -216,7 +216,7 @@ This subsection applies to the following bodies, namely, the British Railways Bo
 
 [^c19868671]: Textual amendment: Words in s. 329(1) in definition of "special road" inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 36](https://www.legislation.gov.uk/ukpga/2008/29/section/36), [241](https://www.legislation.gov.uk/ukpga/2008/29/section/241), [Sch. 2 para. 29(2)](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/29/2) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
-[^key-c03ce994df315cc26bdaa52cb781b708]: Textual amendment: Words in s. 329(1) inserted (W.) (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 2(9)(a)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/2/9/a) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/wsi/2025/698/article/3/l)
+[^c-c03ce994df315cc26bdaa52cb781b708]: Textual amendment: Words in s. 329(1) inserted (W.) (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 2(9)(a)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/2/9/a) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/wsi/2025/698/article/3/l)
 
 [^c13438221]: Textual amendment: Definition of "SSSI diversion order" in s. 329(1) inserted (12.2.2003 for E., otherwise prosp.) by [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37), [ss. 57](https://www.legislation.gov.uk/ukpga/2000/37/section/57), [103(3)](https://www.legislation.gov.uk/ukpga/2000/37/section/103/3), [Sch. 6 Pt. I para. 20(f)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/part/I/paragraph/20/f); [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(a)(n)](https://www.legislation.gov.uk/uksi/2003/272/article/2/a/n)
 
@@ -226,7 +226,7 @@ This subsection applies to the following bodies, namely, the British Railways Bo
 
 [^c13438701]: Textual amendment: Word repealed by [Water Act 1989 (c. 15, SIF 130)](https://www.legislation.gov.uk/ukpga/1989/15), [ss. 58(7)](https://www.legislation.gov.uk/ukpga/1989/15/section/58/7), [101(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/101/1), [141(6)](https://www.legislation.gov.uk/ukpga/1989/15/section/141/6), [160(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1989/15/section/160/1/2/4), [163](https://www.legislation.gov.uk/ukpga/1989/15/section/163), [189(4)-(10)](https://www.legislation.gov.uk/ukpga/1989/15/section/189/4), [190](https://www.legislation.gov.uk/ukpga/1989/15/section/190), [193(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/193/1), [Sch. 26 paras. 3(1)(2)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/3/1/2), [17](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/17), [40(4)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/40/4), [41(1)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/41/1), [57(6)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/57/6), [58](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/58), [Sch. 27](https://www.legislation.gov.uk/ukpga/1989/15/schedule/27), [Pt. I](https://www.legislation.gov.uk/ukpga/1989/15/part/I)
 
-[^key-6f190943d455ef889e3c68a41ef51c67]: Textual amendment: Words in s. 329(1) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 60(2)(b)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/60/2/b); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-6f190943d455ef889e3c68a41ef51c67]: Textual amendment: Words in s. 329(1) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 60(2)(b)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/60/2/b); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
 [^c13438711]: Textual amendment: Definition of "street" in s. 329(1) substituted (1.1.1993) by [New Roads and Street Works Act 1991 (c. 22, SIF 59, 108)](https://www.legislation.gov.uk/ukpga/1991/22), [s. 168(1)](https://www.legislation.gov.uk/ukpga/1991/22/section/168/1), [Sch. 8 Pt. I para. 15(2)](https://www.legislation.gov.uk/ukpga/1991/22/schedule/8/part/I/paragraph/15/2); [S.I. 1992/2984](https://www.legislation.gov.uk/uksi/1992/2984), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/2984/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/2984/schedule/2)
 
@@ -238,7 +238,7 @@ This subsection applies to the following bodies, namely, the British Railways Bo
 
 [^c19868691]: Textual amendment: Words in s. 329(1) in definition of "trunk road" inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 36](https://www.legislation.gov.uk/ukpga/2008/29/section/36), [241](https://www.legislation.gov.uk/ukpga/2008/29/section/241), [Sch. 2 para. 29(3)](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/29/3) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
-[^key-1303972e29af67376620bb8bfbd39bbb]: Textual amendment: Words in s. 329(1) inserted (W.) (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 2(9)(b)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/2/9/b) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/wsi/2025/698/article/3/l)
+[^c-1303972e29af67376620bb8bfbd39bbb]: Textual amendment: Words in s. 329(1) inserted (W.) (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 2(9)(b)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/2/9/b) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/wsi/2025/698/article/3/l)
 
 [^c13438751]: Textual amendment: In s. 329(1) definition of "universal service provider" inserted (26.3.2001) by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/1149/article/3/1), [Sch. 1 para. 49(10)](https://www.legislation.gov.uk/uksi/2001/1149/schedule/1/paragraph/49/10)
 
@@ -258,7 +258,7 @@ This subsection applies to the following bodies, namely, the British Railways Bo
 
 [^c13438801]: Textual amendment: Word expressed to be repealed by [London Regional Transport Act 1984 (c. 32, SIF 126)](https://www.legislation.gov.uk/ukpga/1984/32), [s. 71(3)(b)](https://www.legislation.gov.uk/ukpga/1984/32/section/71/3/b), [Sch. 7](https://www.legislation.gov.uk/ukpga/1984/32/schedule/7)
 
-[^key-c5ee8ea621ce3947edacdf008cbb1c38]: Textual amendment: Words in s. 329(4) substituted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 3 para. 6(5)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/3/paragraph/6/5) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-c5ee8ea621ce3947edacdf008cbb1c38]: Textual amendment: Words in s. 329(4) substituted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 3 para. 6(5)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/3/paragraph/6/5) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
 [^c18515981]: Textual amendment: Words in s. 329(4) substituted (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 2](https://www.legislation.gov.uk/uksi/2003/1615/article/2), [Sch. 1 Pt. 1 para. 7(7)(a)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/part/1/paragraph/7/7/a)
 
@@ -284,4 +284,4 @@ This subsection applies to the following bodies, namely, the British Railways Bo
 
 [^c13438881]: Textual amendment: Words substituted by [S.I. 1981/238](https://www.legislation.gov.uk/uksi/1981/238), [art. 3(1)](https://www.legislation.gov.uk/uksi/1981/238/article/3/1)
 
-[^key-8010eb70a7406eb86fb2fc56c09cbc49]: Textual amendment: S. 329(6) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 60(3)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/60/3); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-8010eb70a7406eb86fb2fc56c09cbc49]: Textual amendment: S. 329(6) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 60(3)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/60/3); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)

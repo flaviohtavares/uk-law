@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Adaptation of dates and duration of periods in notices continued in effect[^key-c474d27e0ac112c273753c84e6fe6529]
+## 90. Adaptation of dates and duration of periods in notices continued in effect[^c-c474d27e0ac112c273753c84e6fe6529]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ that new date or period takes effect and replaces the original date or original 
 
 ## Annotations
 
-[^key-c474d27e0ac112c273753c84e6fe6529]: Commencement: Art. 90 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-c474d27e0ac112c273753c84e6fe6529]: Commencement: Art. 90 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

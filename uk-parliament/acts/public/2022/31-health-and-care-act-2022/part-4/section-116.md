@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Response to reports[^key-f1bf6e688c32dc1bb59fe1f5e9659bcf][^key-93d5769247f53b95ae9ff0e58d58b3bf]
+## 116. Response to reports[^c-f1bf6e688c32dc1bb59fe1f5e9659bcf][^c-93d5769247f53b95ae9ff0e58d58b3bf]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f1bf6e688c32dc1bb59fe1f5e9659bcf]: Commencement: S. 116 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-f1bf6e688c32dc1bb59fe1f5e9659bcf]: Commencement: S. 116 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-93d5769247f53b95ae9ff0e58d58b3bf]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2022/31/section/116) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)
+[^c-93d5769247f53b95ae9ff0e58d58b3bf]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2022/31/section/116) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)

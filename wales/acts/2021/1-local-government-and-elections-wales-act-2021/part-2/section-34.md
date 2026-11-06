@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Common community councils established after this Act is passed[^key-2164f3053e42fdfb84fbb54d9ac89d7a]
+## 34. Common community councils established after this Act is passed[^c-2164f3053e42fdfb84fbb54d9ac89d7a]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2164f3053e42fdfb84fbb54d9ac89d7a]: Commencement: [S. 34](https://www.legislation.gov.uk/asc/2021/1/section/34) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(b)](https://www.legislation.gov.uk/wsi/2021/231/article/6/b)
+[^c-2164f3053e42fdfb84fbb54d9ac89d7a]: Commencement: [S. 34](https://www.legislation.gov.uk/asc/2021/1/section/34) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(b)](https://www.legislation.gov.uk/wsi/2021/231/article/6/b)

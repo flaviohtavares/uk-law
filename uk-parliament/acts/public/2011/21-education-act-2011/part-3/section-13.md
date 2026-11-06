@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Restrictions on reporting alleged offences by teachers[^key-eb3abe34f52183b43eed1c686a0a3bb0]
+## 13. Restrictions on reporting alleged offences by teachers[^c-eb3abe34f52183b43eed1c686a0a3bb0]
 
 *Extent: E+W*
 
@@ -131,4 +131,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb3abe34f52183b43eed1c686a0a3bb0]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2011/21/section/13) in force at 1.10.2012 by [S.I. 2012/2213](https://www.legislation.gov.uk/uksi/2012/2213), [art. 3](https://www.legislation.gov.uk/uksi/2012/2213/article/3)
+[^c-eb3abe34f52183b43eed1c686a0a3bb0]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2011/21/section/13) in force at 1.10.2012 by [S.I. 2012/2213](https://www.legislation.gov.uk/uksi/2012/2213), [art. 3](https://www.legislation.gov.uk/uksi/2012/2213/article/3)

@@ -32,7 +32,7 @@ summary: ''
 
 Education, England
 
-The National Curriculum (Exceptions for First, Second, Third and Fourth Key Stages) (England) Regulations 2012 (revoked)[^key-507c3eccd72105c458d07c4fe2e4ae49]
+The National Curriculum (Exceptions for First, Second, Third and Fourth Key Stages) (England) Regulations 2012 (revoked)[^c-507c3eccd72105c458d07c4fe2e4ae49]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st September 2012
 
-[^key-507c3eccd72105c458d07c4fe2e4ae49]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-507c3eccd72105c458d07c4fe2e4ae49]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-507c3eccd72105c458d07c4fe2e4ae49]
+## 1. Citation and commencement[^c-507c3eccd72105c458d07c4fe2e4ae49]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Disapplication of the National Curriculum[^key-507c3eccd72105c458d07c4fe2e4ae49]
+## 2. Disapplication of the National Curriculum[^c-507c3eccd72105c458d07c4fe2e4ae49]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-507c3eccd72105c458d07c4fe2e4ae49]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-507c3eccd72105c458d07c4fe2e4ae49]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-507c3eccd72105c458d07c4fe2e4ae49]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-507c3eccd72105c458d07c4fe2e4ae49]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-507c3eccd72105c458d07c4fe2e4ae49]: Textual amendment: Regulations revoked (1.9.2013) by [The National Curriculum (Exceptions for First, Second, Third and Fourth Key Stages) (England) Regulations 2013 (S.I. 2013/1487)](https://www.legislation.gov.uk/uksi/2013/1487), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1487/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/1487/regulation/3)
+[^c-507c3eccd72105c458d07c4fe2e4ae49]: Textual amendment: Regulations revoked (1.9.2013) by [The National Curriculum (Exceptions for First, Second, Third and Fourth Key Stages) (England) Regulations 2013 (S.I. 2013/1487)](https://www.legislation.gov.uk/uksi/2013/1487), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1487/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/1487/regulation/3)

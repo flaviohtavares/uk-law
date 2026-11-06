@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Effect of extinguishing of right to buy[^key-b909c9e8dc79df39275341e00aed43ac]
+## 31. Effect of extinguishing of right to buy[^c-b909c9e8dc79df39275341e00aed43ac]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ Where a right to buy land is extinguished under section 29(6) or 32(8), the tena
 
 ## Annotations
 
-[^key-b909c9e8dc79df39275341e00aed43ac]: Commencement: S. 31 in force at 15.12.2004 by [S.S.I. 2004/511](https://www.legislation.gov.uk/ssi/2004/511), [art. 2](https://www.legislation.gov.uk/ssi/2004/511/article/2)
+[^c-b909c9e8dc79df39275341e00aed43ac]: Commencement: S. 31 in force at 15.12.2004 by [S.S.I. 2004/511](https://www.legislation.gov.uk/ssi/2004/511), [art. 2](https://www.legislation.gov.uk/ssi/2004/511/article/2)

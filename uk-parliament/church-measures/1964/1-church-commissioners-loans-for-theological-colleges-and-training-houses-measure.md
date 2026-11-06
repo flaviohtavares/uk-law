@@ -37,7 +37,7 @@ A Measure passed by the National Assembly of the Church of England to enable the
 
 The Church Commissioners (hereinafter referred to as “**the Commissioners**”) may from time to time, on the application of the Central Board of Finance of the Church of England:—
 
-- (a)[^key-a422d6981ec2b280702c95b243949135] lend to the Central Board of Finance such sums as the Commissioners may think fit for the purpose of defraying expenditure upon lands or buildings of any tenure vested in or held in trust for (or proposed to be vested in or held in trust for) any existing or proposed college or establishment mentioned in the succeeding section or for the purpose of any other capital expenditure in connection with any college or establishment upon such terms and conditions as to interest and repayment of principal as may be agreed;
+- (a)[^c-a422d6981ec2b280702c95b243949135] lend to the Central Board of Finance such sums as the Commissioners may think fit for the purpose of defraying expenditure upon lands or buildings of any tenure vested in or held in trust for (or proposed to be vested in or held in trust for) any existing or proposed college or establishment mentioned in the succeeding section or for the purpose of any other capital expenditure in connection with any college or establishment upon such terms and conditions as to interest and repayment of principal as may be agreed;
 - (b) guarantee unconditionally or upon such terms and conditions as the Commissioners may agree the due repayment of the whole or any part of any such loans made by any other body or person and the payment of interest in respect thereof:
 
   Provided that the totals at any one time of sums lent, and of principal sums guaranteed, by the Commissioners under this section shall together not exceed the sum of one million pounds.
@@ -58,4 +58,4 @@ This Measure may cited as the Church Commissioners (Loans for Theological Colleg
 
 ## Annotations
 
-[^key-a422d6981ec2b280702c95b243949135]: Modification: [S. 1(a)](https://www.legislation.gov.uk/ukcm/1964/1/section/1/a) transfer of functions (1.1.2008) by [National Institutions of the Church of England (Transfer of Functions) Order 2007 (S.I. 2007/1556)](https://www.legislation.gov.uk/uksi/2007/1556), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1556/article/1/1), [2](https://www.legislation.gov.uk/uksi/2007/1556/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/1556/article/3))
+[^c-a422d6981ec2b280702c95b243949135]: Modification: [S. 1(a)](https://www.legislation.gov.uk/ukcm/1964/1/section/1/a) transfer of functions (1.1.2008) by [National Institutions of the Church of England (Transfer of Functions) Order 2007 (S.I. 2007/1556)](https://www.legislation.gov.uk/uksi/2007/1556), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1556/article/1/1), [2](https://www.legislation.gov.uk/uksi/2007/1556/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/1556/article/3))

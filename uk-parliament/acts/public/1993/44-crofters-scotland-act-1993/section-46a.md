@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46A. Regulations concerning loans[^key-e3ba81479ab484c9be80834fcf8485a0]
+## 46A. Regulations concerning loans[^c-e3ba81479ab484c9be80834fcf8485a0]
 
 *Extent: S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) crofters;
 - (b) cottars;
-- (ba)[^key-7c47ab40d5df7f261a22b81e11829f93] owner-occupier crofters;
+- (ba)[^c-7c47ab40d5df7f261a22b81e11829f93] owner-occupier crofters;
 - (c) owners of holdings to which section 46(2) of this Act applies.
 
 (2) Regulations under this subsection may make provision as to—
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e3ba81479ab484c9be80834fcf8485a0]: Textual amendment: S. 46A inserted (25.6.2007) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 32](https://www.legislation.gov.uk/asp/2007/7/section/32), [43(3)](https://www.legislation.gov.uk/asp/2007/7/section/43/3) (with [ss. 40](https://www.legislation.gov.uk/asp/2007/7/section/40), [43(2)](https://www.legislation.gov.uk/asp/2007/7/section/43/2)); [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-e3ba81479ab484c9be80834fcf8485a0]: Textual amendment: S. 46A inserted (25.6.2007) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 32](https://www.legislation.gov.uk/asp/2007/7/section/32), [43(3)](https://www.legislation.gov.uk/asp/2007/7/section/43/3) (with [ss. 40](https://www.legislation.gov.uk/asp/2007/7/section/40), [43(2)](https://www.legislation.gov.uk/asp/2007/7/section/43/2)); [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-7c47ab40d5df7f261a22b81e11829f93]: Textual amendment: S. 46A(1)(ba) inserted (22.12.2010) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [s. 57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2), [sch. 4 para. 3(28)](https://www.legislation.gov.uk/asp/2010/14/schedule/4/paragraph/3/28) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2010/437](https://www.legislation.gov.uk/ssi/2010/437), [art. 3](https://www.legislation.gov.uk/ssi/2010/437/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/437/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2010/437/article/4))
+[^c-7c47ab40d5df7f261a22b81e11829f93]: Textual amendment: S. 46A(1)(ba) inserted (22.12.2010) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [s. 57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2), [sch. 4 para. 3(28)](https://www.legislation.gov.uk/asp/2010/14/schedule/4/paragraph/3/28) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2010/437](https://www.legislation.gov.uk/ssi/2010/437), [art. 3](https://www.legislation.gov.uk/ssi/2010/437/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/437/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2010/437/article/4))

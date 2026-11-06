@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Control of the iron content of milk replacer feeds[^key-3be36fd00c1e565887e280e63b77c6b3]
+## 15. Control of the iron content of milk replacer feeds[^c-3be36fd00c1e565887e280e63b77c6b3]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ A person shall not sell, or have in possession with a view to sale, any milk rep
 
 ## Annotations
 
-[^key-3be36fd00c1e565887e280e63b77c6b3]: Commencement: Reg. 15 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-3be36fd00c1e565887e280e63b77c6b3]: Commencement: Reg. 15 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)

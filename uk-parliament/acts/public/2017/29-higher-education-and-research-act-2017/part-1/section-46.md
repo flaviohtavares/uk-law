@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Grant, variation or revocation of authorisation: advice on quality etc[^key-6b528f03325bec7ba258316c877fe374][^key-3c6849638c7c082352da7d051ea63fbf]
+## 46. Grant, variation or revocation of authorisation: advice on quality etc[^c-6b528f03325bec7ba258316c877fe374][^c-3c6849638c7c082352da7d051ea63fbf]
 
 *Extent: E+W*
 
@@ -82,6 +82,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6b528f03325bec7ba258316c877fe374]: Commencement: S. 46 in force at 1.1.2018 for specified purposes by [S.I. 2017/1146](https://www.legislation.gov.uk/uksi/2017/1146), [reg. 3(6)](https://www.legislation.gov.uk/uksi/2017/1146/regulation/3/6)[(7)(f)](https://www.legislation.gov.uk/uksi/2017/1146/regulation/3/7/f)
+[^c-6b528f03325bec7ba258316c877fe374]: Commencement: S. 46 in force at 1.1.2018 for specified purposes by [S.I. 2017/1146](https://www.legislation.gov.uk/uksi/2017/1146), [reg. 3(6)](https://www.legislation.gov.uk/uksi/2017/1146/regulation/3/6)[(7)(f)](https://www.legislation.gov.uk/uksi/2017/1146/regulation/3/7/f)
 
-[^key-3c6849638c7c082352da7d051ea63fbf]: Commencement: S. 46 in force at 1.4.2018 in so far as not already in force by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/e)
+[^c-3c6849638c7c082352da7d051ea63fbf]: Commencement: S. 46 in force at 1.4.2018 in so far as not already in force by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/e)

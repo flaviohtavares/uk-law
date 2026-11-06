@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Service of notices[^key-8ae9837a97ef160d7a51e3d1f8ec7891]
+## 34. Service of notices[^c-8ae9837a97ef160d7a51e3d1f8ec7891]
 
 *Extent: E+W+S*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8ae9837a97ef160d7a51e3d1f8ec7891]: Commencement: Art. 34 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-8ae9837a97ef160d7a51e3d1f8ec7891]: Commencement: Art. 34 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
 [^f00022]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30). There are amendments to this Act which are not relevant to this Order.

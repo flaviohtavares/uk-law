@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 491A. Maximum engagement period: transitional arrangements[^key-574f4fa2821536d62cb61cab2a519cf7]
+## 491A. Maximum engagement period: transitional arrangements[^c-574f4fa2821536d62cb61cab2a519cf7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-574f4fa2821536d62cb61cab2a519cf7]: Textual amendment: S. 491A omitted (with effect in accordance with reg. 1(6)(8) of the amending S.I.) by virtue of [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [12(13)](https://www.legislation.gov.uk/uksi/2017/516/regulation/12/13)
+[^c-574f4fa2821536d62cb61cab2a519cf7]: Textual amendment: S. 491A omitted (with effect in accordance with reg. 1(6)(8) of the amending S.I.) by virtue of [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [12(13)](https://www.legislation.gov.uk/uksi/2017/516/regulation/12/13)

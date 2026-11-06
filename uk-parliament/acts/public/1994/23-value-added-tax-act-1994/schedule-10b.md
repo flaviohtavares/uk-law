@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 10B — VAT treatment of vouchers issued on or after 1 January 2019[^key-b4285df5254c39ae8206bced06157517]
+## SCHEDULE 10B — VAT treatment of vouchers issued on or after 1 January 2019[^c-b4285df5254c39ae8206bced06157517]
 
 *Extent: E+W+S+N.I.*
 
@@ -127,4 +127,4 @@ are limited and are stated on or recorded in the instrument or the terms and con
 
 ## Annotations
 
-[^key-b4285df5254c39ae8206bced06157517]: Textual amendment: Sch. 10B inserted (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 17 para. 5](https://www.legislation.gov.uk/ukpga/2019/1/schedule/17/paragraph/5)
+[^c-b4285df5254c39ae8206bced06157517]: Textual amendment: Sch. 10B inserted (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 17 para. 5](https://www.legislation.gov.uk/ukpga/2019/1/schedule/17/paragraph/5)

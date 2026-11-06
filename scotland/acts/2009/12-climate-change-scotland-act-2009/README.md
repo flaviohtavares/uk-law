@@ -40,11 +40,11 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 *Extent: S*
 
-#### The net-zero emissions target[^key-5cf14605d7cf41035ef7f6b7788a60ee]
+#### The net-zero emissions target[^c-5cf14605d7cf41035ef7f6b7788a60ee]
 
 - [Section A1 — The net-zero emissions target](part-1/section-a1.md)
 
-#### Scottish carbon budgets[^key-ed14c80abc272325ca29ed56cca23666]
+#### Scottish carbon budgets[^c-ed14c80abc272325ca29ed56cca23666]
 
 - [Section A2 — Scottish carbon budgets and associated concepts](part-1/section-a2.md)
 - [Section A2A — Scottish carbon budgets: 2026 to 2045](part-1/section-a2a.md)
@@ -52,38 +52,38 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section A4 — Budget-setting regulations](part-1/section-a4.md)
 - [Section A5 — Alteration of budget periods](part-1/section-a5.md)
 
-#### ...[^key-c32ee4e57a86af4842bb2f6133f42437]
+#### ...[^c-c32ee4e57a86af4842bb2f6133f42437]
 
 *Extent: S*
 
 - [Section 1 — The 2050 target](part-1/section-1.md)
 
-#### ...[^key-04af80d7199889ce95b252b4bd152da8]
+#### ...[^c-04af80d7199889ce95b252b4bd152da8]
 
 *Extent: S*
 
 - [Section 2 — The interim targets](part-1/section-2.md)
 - [Section 2A — Modification of the interim targets](part-1/section-2a.md)
 
-#### The target-setting criteria[^key-6df2a135a63edbeab827ac3a354968ce]
+#### The target-setting criteria[^c-6df2a135a63edbeab827ac3a354968ce]
 
 *Extent: S*
 
 - [Section 2B — The target-setting criteria](part-1/section-2b.md)
 
-#### Advice about targets[^key-fb7ecfacbf9cf712e5685b309c424e8c]
+#### Advice about targets[^c-fb7ecfacbf9cf712e5685b309c424e8c]
 
 - [Section 2C — Duty to seek advice from the relevant body](part-1/section-2c.md)
 - [Section 2D — Power to seek additional advice](part-1/section-2d.md)
 - [Section 2E — Ministerial duties following request for advice](part-1/section-2e.md)
 
-#### ...[^key-255f9dec496cc720ee979731a37adcc3]
+#### ...[^c-255f9dec496cc720ee979731a37adcc3]
 
 - [Section 3 — Annual targets: 2021 to year before net-zero year](part-1/section-3.md)
 - [Section 3A — Annual targets: recalculation if net-zero emissions target year is in certain periods](part-1/section-3a.md)
 - [Section 3B — Annual targets: further rules on recalculation](part-1/section-3b.md)
 
-#### Information about targets[^key-a67cefed18c2dd7e113a97413ccd379e]
+#### Information about targets[^c-a67cefed18c2dd7e113a97413ccd379e]
 
 *Extent: S*
 
@@ -93,13 +93,13 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 6 — Modifying annual targets etc.](part-1/section-6.md)
 - [Section 7 — Advice before modifying annual targets etc.](part-1/section-7.md)
 
-#### ...[^key-f241889fe1984bd8b0b39668faf50ff1]
+#### ...[^c-f241889fe1984bd8b0b39668faf50ff1]
 
 *Extent: S*
 
 - [Section 8 — The domestic effort target](part-1/section-8.md)
 
-#### Nitrogen balance sheet[^key-198e58993b5aec5daed2795ead492345]
+#### Nitrogen balance sheet[^c-198e58993b5aec5daed2795ead492345]
 
 *Extent: S*
 
@@ -155,21 +155,21 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 31 — Guidance to advisory body](part-2/section-31.md)
 - [Section 32 — Power to give directions to advisory body](part-2/section-32.md)
 
-### PART 2A — Citizens Assembly[^key-d55db9371d69187abeca04841a9a22a1]
+### PART 2A — Citizens Assembly[^c-d55db9371d69187abeca04841a9a22a1]
 
 - [Section 32A — Citizens assembly](part-2a/section-32a.md)
 
-### Part 3 — Reporting and planning duties[^key-caee390e611eb8ab38cf0f175a8506db]
+### Part 3 — Reporting and planning duties[^c-caee390e611eb8ab38cf0f175a8506db]
 
 *Extent: S*
 
-#### Reporting[^key-5f5766b5cec894dd71405ae63d406195]
+#### Reporting[^c-5f5766b5cec894dd71405ae63d406195]
 
 - [Section 33 — Reports on emissions reduction targets](part-3/section-33.md)
 - [Section 34 — Reports on emissions reduction targets: further content](part-3/section-34.md)
 - [Section 34A — Annual report on emissions reduction](part-3/section-34a.md)
 
-#### Climate change plan[^key-0c5b09b3459f04a18cc69ccc38e8c864]
+#### Climate change plan[^c-0c5b09b3459f04a18cc69ccc38e8c864]
 
 *Extent: S*
 
@@ -180,7 +180,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 35C — Just transition principles](part-3/section-35c.md)
 - [Section 36 — Reports on proposals and policies where emissions reduction targets not met](part-3/section-36.md)
 
-#### Other reporting provisions[^key-3c059c8dfb5e2ce1218ed8f19d3e8882]
+#### Other reporting provisions[^c-3c059c8dfb5e2ce1218ed8f19d3e8882]
 
 *Extent: S*
 
@@ -294,7 +294,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 78 — Waste prevention and management plans](part-5/section-78.md)
 
-##### Restrictions on the disposal of unsold consumer goods[^key-e51bba110b28d940e6ab9d04a27e8cbb]
+##### Restrictions on the disposal of unsold consumer goods[^c-e51bba110b28d940e6ab9d04a27e8cbb]
 
 - [Section 78A — Restrictions on the disposal of unsold consumer goods](part-5/section-78a.md)
 
@@ -325,15 +325,15 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 86 — Power to establish scheme administrator](part-5/section-86.md)
 - [Section 87 — Finance of scheme administrator](part-5/section-87.md)
 
-##### Chargeable items[^key-10aa014b5d79a051262d6459ed3e85c3]
+##### Chargeable items[^c-10aa014b5d79a051262d6459ed3e85c3]
 
 - [Section 87A — Charges for supply of single-use items](part-5/section-87a.md)
 
-##### ...[^key-e14fef1fbee02de7ae69318b7baf49fb]
+##### ...[^c-e14fef1fbee02de7ae69318b7baf49fb]
 
 - [Section 88 — Charges for supply of carrier bags](part-5/section-88.md)
 
-##### ...[^key-47323e73633ecb992fb36667d21066ae][^key-105ce9ea6d9da033bfeaa66dd5e53eb3]
+##### ...[^c-47323e73633ecb992fb36667d21066ae][^c-105ce9ea6d9da033bfeaa66dd5e53eb3]
 
 - [Section 88A — Offences relating to supply of chargeable items: fixed penalty notices](part-5/section-88a.md)
 
@@ -364,42 +364,42 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-5cf14605d7cf41035ef7f6b7788a60ee]: Textual amendment: S. A1 and cross-heading inserted (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 1](https://www.legislation.gov.uk/asp/2019/15/section/1), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-5cf14605d7cf41035ef7f6b7788a60ee]: Textual amendment: S. A1 and cross-heading inserted (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 1](https://www.legislation.gov.uk/asp/2019/15/section/1), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-ed14c80abc272325ca29ed56cca23666]: Textual amendment: [Ss. A2-A5](https://www.legislation.gov.uk/asp/2009/12/section/A2) and cross-heading inserted (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 1(2)](https://www.legislation.gov.uk/asp/2024/15/section/1/2), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-ed14c80abc272325ca29ed56cca23666]: Textual amendment: [Ss. A2-A5](https://www.legislation.gov.uk/asp/2009/12/section/A2) and cross-heading inserted (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 1(2)](https://www.legislation.gov.uk/asp/2024/15/section/1/2), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
 
-[^key-c32ee4e57a86af4842bb2f6133f42437]: Textual amendment: S. 1 and cross-heading repealed (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 2](https://www.legislation.gov.uk/asp/2019/15/section/2), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-c32ee4e57a86af4842bb2f6133f42437]: Textual amendment: S. 1 and cross-heading repealed (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 2](https://www.legislation.gov.uk/asp/2019/15/section/2), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-04af80d7199889ce95b252b4bd152da8]: Textual amendment: [S. 2 and cross-heading](https://www.legislation.gov.uk/asp/2009/12/part/1/crossheading/the-interim-target) repealed (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 2(2)](https://www.legislation.gov.uk/asp/2024/15/section/2/2), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-04af80d7199889ce95b252b4bd152da8]: Textual amendment: [S. 2 and cross-heading](https://www.legislation.gov.uk/asp/2009/12/part/1/crossheading/the-interim-target) repealed (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 2(2)](https://www.legislation.gov.uk/asp/2024/15/section/2/2), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
 
-[^key-6df2a135a63edbeab827ac3a354968ce]: Textual amendment: S. 2B and cross-heading inserted (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 5](https://www.legislation.gov.uk/asp/2019/15/section/5), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-6df2a135a63edbeab827ac3a354968ce]: Textual amendment: S. 2B and cross-heading inserted (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 5](https://www.legislation.gov.uk/asp/2019/15/section/5), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-fb7ecfacbf9cf712e5685b309c424e8c]: Textual amendment: S. 2C and cross-heading inserted (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 6](https://www.legislation.gov.uk/asp/2019/15/section/6), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-fb7ecfacbf9cf712e5685b309c424e8c]: Textual amendment: S. 2C and cross-heading inserted (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 6](https://www.legislation.gov.uk/asp/2019/15/section/6), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-255f9dec496cc720ee979731a37adcc3]: Textual amendment: [S. 3 and cross-heading](https://www.legislation.gov.uk/asp/2009/12/part/1/crossheading/annual-targets) repealed (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 2(6)](https://www.legislation.gov.uk/asp/2024/15/section/2/6), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-255f9dec496cc720ee979731a37adcc3]: Textual amendment: [S. 3 and cross-heading](https://www.legislation.gov.uk/asp/2009/12/part/1/crossheading/annual-targets) repealed (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 2(6)](https://www.legislation.gov.uk/asp/2024/15/section/2/6), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
 
-[^key-a67cefed18c2dd7e113a97413ccd379e]: Textual amendment: S. 3C and cross-heading inserted (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 13](https://www.legislation.gov.uk/asp/2019/15/section/13), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-a67cefed18c2dd7e113a97413ccd379e]: Textual amendment: S. 3C and cross-heading inserted (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 13](https://www.legislation.gov.uk/asp/2019/15/section/13), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-f241889fe1984bd8b0b39668faf50ff1]: Textual amendment: Ss. 4-8 repealed (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [s. 32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2), [sch. para. 2](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-f241889fe1984bd8b0b39668faf50ff1]: Textual amendment: Ss. 4-8 repealed (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [s. 32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2), [sch. para. 2](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-198e58993b5aec5daed2795ead492345]: Textual amendment: S. 8A and cross-heading inserted (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 17](https://www.legislation.gov.uk/asp/2019/15/section/17), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-198e58993b5aec5daed2795ead492345]: Textual amendment: S. 8A and cross-heading inserted (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 17](https://www.legislation.gov.uk/asp/2019/15/section/17), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-d55db9371d69187abeca04841a9a22a1]: Textual amendment: Pt. 2A inserted (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 9](https://www.legislation.gov.uk/asp/2019/15/section/9), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-d55db9371d69187abeca04841a9a22a1]: Textual amendment: Pt. 2A inserted (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 9](https://www.legislation.gov.uk/asp/2019/15/section/9), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-caee390e611eb8ab38cf0f175a8506db]: Textual amendment: Pt. 3 title substituted (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [s. 32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2), [sch. para. 12](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/12); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-caee390e611eb8ab38cf0f175a8506db]: Textual amendment: Pt. 3 title substituted (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [s. 32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2), [sch. para. 12](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/12); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-5f5766b5cec894dd71405ae63d406195]: Textual amendment: S. 33 and cross-heading substituted (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 18](https://www.legislation.gov.uk/asp/2019/15/section/18), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2) (with [s. 11](https://www.legislation.gov.uk/asp/2019/15/section/11)); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-5f5766b5cec894dd71405ae63d406195]: Textual amendment: S. 33 and cross-heading substituted (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 18](https://www.legislation.gov.uk/asp/2019/15/section/18), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2) (with [s. 11](https://www.legislation.gov.uk/asp/2019/15/section/11)); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-0c5b09b3459f04a18cc69ccc38e8c864]: Textual amendment: Ss. 35-35C and cross-heading substituted for s. 35 (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 24(1)](https://www.legislation.gov.uk/asp/2019/15/section/24/1), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-0c5b09b3459f04a18cc69ccc38e8c864]: Textual amendment: Ss. 35-35C and cross-heading substituted for s. 35 (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 24(1)](https://www.legislation.gov.uk/asp/2019/15/section/24/1), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-3c059c8dfb5e2ce1218ed8f19d3e8882]: Textual amendment: S. 37 cross-heading inserted (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [s. 32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2), [sch. para. 10](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/10); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-3c059c8dfb5e2ce1218ed8f19d3e8882]: Textual amendment: S. 37 cross-heading inserted (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [s. 32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2), [sch. para. 10](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/10); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-e51bba110b28d940e6ab9d04a27e8cbb]: Textual amendment: S. 78A and cross-heading inserted (1.8.2025) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [ss. 9(2)](https://www.legislation.gov.uk/asp/2024/13/section/9/2), [27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2); [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
+[^c-e51bba110b28d940e6ab9d04a27e8cbb]: Textual amendment: S. 78A and cross-heading inserted (1.8.2025) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [ss. 9(2)](https://www.legislation.gov.uk/asp/2024/13/section/9/2), [27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2); [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
 
-[^key-10aa014b5d79a051262d6459ed3e85c3]: Textual amendment: S. 87A and cross-heading inserted (1.4.2025) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [ss. 10(4)](https://www.legislation.gov.uk/asp/2024/13/section/10/4), [27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2); [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(a)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/a)
+[^c-10aa014b5d79a051262d6459ed3e85c3]: Textual amendment: S. 87A and cross-heading inserted (1.4.2025) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [ss. 10(4)](https://www.legislation.gov.uk/asp/2024/13/section/10/4), [27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2); [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(a)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/a)
 
-[^key-e14fef1fbee02de7ae69318b7baf49fb]: Textual amendment: S. 88 cross-heading omitted (1.4.2025) by virtue of [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [ss. 10(5)](https://www.legislation.gov.uk/asp/2024/13/section/10/5), [27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2); [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(a)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/a)
+[^c-e14fef1fbee02de7ae69318b7baf49fb]: Textual amendment: S. 88 cross-heading omitted (1.4.2025) by virtue of [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [ss. 10(5)](https://www.legislation.gov.uk/asp/2024/13/section/10/5), [27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2); [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(a)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/a)
 
-[^key-47323e73633ecb992fb36667d21066ae]: Textual amendment: S. 88A cross-heading omitted (1.4.2025) by virtue of [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [ss. 10(6)](https://www.legislation.gov.uk/asp/2024/13/section/10/6), [27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2); [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(a)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/a)
+[^c-47323e73633ecb992fb36667d21066ae]: Textual amendment: S. 88A cross-heading omitted (1.4.2025) by virtue of [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [ss. 10(6)](https://www.legislation.gov.uk/asp/2024/13/section/10/6), [27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2); [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(a)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/a)
 
-[^key-105ce9ea6d9da033bfeaa66dd5e53eb3]: Textual amendment: S. 88A and cross-heading inserted (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [ss. 43(2)](https://www.legislation.gov.uk/asp/2014/3/section/43/2), [61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-105ce9ea6d9da033bfeaa66dd5e53eb3]: Textual amendment: S. 88A and cross-heading inserted (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [ss. 43(2)](https://www.legislation.gov.uk/asp/2014/3/section/43/2), [61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Failure to cease operating alternative arrangements[^key-986274dc71325ea302b4f6980ca24f43]
+## 72. Failure to cease operating alternative arrangements[^c-986274dc71325ea302b4f6980ca24f43]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-986274dc71325ea302b4f6980ca24f43]: Commencement: S. 72 in force at 30.12.2007, see s. 245(2)
+[^c-986274dc71325ea302b4f6980ca24f43]: Commencement: S. 72 in force at 30.12.2007, see s. 245(2)

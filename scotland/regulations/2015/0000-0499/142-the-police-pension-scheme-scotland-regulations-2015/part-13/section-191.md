@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 191. Reduction in pension debit member’s benefits[^key-1ec4888aa31108caef1efe1170c17d2c]
+## 191. Reduction in pension debit member’s benefits[^c-1ec4888aa31108caef1efe1170c17d2c]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ec4888aa31108caef1efe1170c17d2c]: Commencement: Reg. 191 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-1ec4888aa31108caef1efe1170c17d2c]: Commencement: Reg. 191 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

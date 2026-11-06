@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 111. Bank liquidator’s duties on vacating office[^key-4868516c9541d321e11df2455df1ce00]
+## 111. Bank liquidator’s duties on vacating office[^c-4868516c9541d321e11df2455df1ce00]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4868516c9541d321e11df2455df1ce00]: Commencement: Rule 111 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-4868516c9541d321e11df2455df1ce00]: Commencement: Rule 111 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129.[^key-dd6343bc020745d21b4e29675dc8f016]
+## 129.[^c-dd6343bc020745d21b4e29675dc8f016]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 15(1)(g) for “Community” substitute “ retained EU ”.
 
 ## Annotations
 
-[^key-dd6343bc020745d21b4e29675dc8f016]: Commencement: Reg. 129 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-dd6343bc020745d21b4e29675dc8f016]: Commencement: Reg. 129 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

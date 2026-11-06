@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 71. Applicable amounts in urgent cases[^key-b99559b12cbdb6b38ba7ef672041a02e][^key-3d5c4d8d51b4076ce5bb875e87f77348]
+## 71. Applicable amounts in urgent cases[^c-b99559b12cbdb6b38ba7ef672041a02e][^c-3d5c4d8d51b4076ce5bb875e87f77348]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b99559b12cbdb6b38ba7ef672041a02e]: Textual amendment: [Pt. VI](https://www.legislation.gov.uk/uksi/1987/1967/part/VI) revoked (for specified purposes and with effect in accordance with reg. 1(3) of the amending S.I.) by [The Social Security (Miscellaneous Amendments) (No. 5) Regulations 2009 (S.I. 2009/3228)](https://www.legislation.gov.uk/uksi/2009/3228), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3228/regulation/2/1/a) (with [reg. 2(2)-(4)](https://www.legislation.gov.uk/uksi/2009/3228/regulation/2/2))
+[^c-b99559b12cbdb6b38ba7ef672041a02e]: Textual amendment: [Pt. VI](https://www.legislation.gov.uk/uksi/1987/1967/part/VI) revoked (for specified purposes and with effect in accordance with reg. 1(3) of the amending S.I.) by [The Social Security (Miscellaneous Amendments) (No. 5) Regulations 2009 (S.I. 2009/3228)](https://www.legislation.gov.uk/uksi/2009/3228), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3228/regulation/2/1/a) (with [reg. 2(2)-(4)](https://www.legislation.gov.uk/uksi/2009/3228/regulation/2/2))
 
-[^key-3d5c4d8d51b4076ce5bb875e87f77348]: Commencement: Reg. 71 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)
+[^c-3d5c4d8d51b4076ce5bb875e87f77348]: Commencement: Reg. 71 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)

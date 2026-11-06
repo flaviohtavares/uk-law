@@ -41,17 +41,17 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by article 97(1) of the Air Navigation Order 2016[^f00001].
 
-## 1. Citation and commencement[^key-4a6bbf1d3a6df6f359da9e3b7d768e78]
+## 1. Citation and commencement[^c-4a6bbf1d3a6df6f359da9e3b7d768e78]
 
 These Regulations may be cited as the Air Navigation (Dangerous Goods) (Amendment) Regulations 2021 and come into force on 29th June 2021.
 
-## 2. Amendment of Regulations[^key-3766a215cbe200cbf3f5dc2189a863a5]
+## 2. Amendment of Regulations[^c-3766a215cbe200cbf3f5dc2189a863a5]
 
 (1) The Air Navigation (Dangerous Goods) Regulations 2002[^f00002] are amended as follows.
 
 (2) In regulation 3 (interpretation)—
 
-- (a)[^key-f152e2d5715a8f5e0c106590afbb630f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-f152e2d5715a8f5e0c106590afbb630f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for paragraph (2), substitute—
 
   > (2) Other expressions used in these Regulations have the same respective meanings as in the Air Navigation Order 2016, except for “occurrence” and “product”.
@@ -95,7 +95,7 @@ These Regulations may be cited as the Air Navigation (Dangerous Goods) (Amendmen
 
 .
 
-## 3. Revocation[^key-27e2633da284a30c46f976a393cf7e67]
+## 3. Revocation[^c-27e2633da284a30c46f976a393cf7e67]
 
 The Air Navigation (Dangerous Goods) (Amendment) Regulations 2019[^f00005] are revoked.
 
@@ -135,16 +135,16 @@ Freight Merchandising Services Limited, Unit 383, Sykes Road, Slough Trading Est
 
 [^f00001]: Footnote: [S.I. 2016/765](https://www.legislation.gov.uk/uksi/2016/765), to which there are amendments not relevant to these Regulations.
 
-[^key-4a6bbf1d3a6df6f359da9e3b7d768e78]: Commencement: Reg. 1 in force at 29.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/742/regulation/1)
+[^c-4a6bbf1d3a6df6f359da9e3b7d768e78]: Commencement: Reg. 1 in force at 29.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/742/regulation/1)
 
-[^key-3766a215cbe200cbf3f5dc2189a863a5]: Commencement: Reg. 2 in force at 29.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/742/regulation/1)
+[^c-3766a215cbe200cbf3f5dc2189a863a5]: Commencement: Reg. 2 in force at 29.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/742/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2002/2786](https://www.legislation.gov.uk/uksi/2002/2786), as amended by [S.I. 2019/922](https://www.legislation.gov.uk/uksi/2019/922).
 
-[^key-f152e2d5715a8f5e0c106590afbb630f]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2021/742/regulation/2/2/a) revoked (1.1.2023) by [The Air Navigation (Dangerous Goods) (Amendment) Regulations 2022 (S.I. 2022/1289)](https://www.legislation.gov.uk/uksi/2022/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1289/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2022/1289/regulation/3)
+[^c-f152e2d5715a8f5e0c106590afbb630f]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2021/742/regulation/2/2/a) revoked (1.1.2023) by [The Air Navigation (Dangerous Goods) (Amendment) Regulations 2022 (S.I. 2022/1289)](https://www.legislation.gov.uk/uksi/2022/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1289/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2022/1289/regulation/3)
 
 [^f00004]: Footnote: EUR 2014/376, as amended by [S.I. 2019/645](https://www.legislation.gov.uk/uksi/2019/645).
 
-[^key-27e2633da284a30c46f976a393cf7e67]: Commencement: Reg. 3 in force at 29.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/742/regulation/1)
+[^c-27e2633da284a30c46f976a393cf7e67]: Commencement: Reg. 3 in force at 29.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/742/regulation/1)
 
 [^f00005]: Footnote: [S.I. 2019/922](https://www.legislation.gov.uk/uksi/2019/922).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 2 — NEW SCHEDULE 11 TO BE INSERTED INTO THE 2018 REGULATIONS[^key-cef98f0d62d436f4569d23deddf00064][^key-bcf36bc7f2e7b0a00eea42382b2d1ad6]
+## SCHEDULE 2 — NEW SCHEDULE 11 TO BE INSERTED INTO THE 2018 REGULATIONS[^c-cef98f0d62d436f4569d23deddf00064][^c-bcf36bc7f2e7b0a00eea42382b2d1ad6]
 
 *Extent: S*
 
@@ -136,8 +136,8 @@ Regulation 9(2)
 
 ## Annotations
 
-[^key-cef98f0d62d436f4569d23deddf00064]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/2) in force at 1.6.2025 for specified purposes (subject to reg. 1(5)), see [reg. 1(4)(d)(ii)(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/d/ii/5)
+[^c-cef98f0d62d436f4569d23deddf00064]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/2) in force at 1.6.2025 for specified purposes (subject to reg. 1(5)), see [reg. 1(4)(d)(ii)(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/d/ii/5)
 
-[^key-bcf36bc7f2e7b0a00eea42382b2d1ad6]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/2) in force at 1.11.2025 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-bcf36bc7f2e7b0a00eea42382b2d1ad6]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/2) in force at 1.11.2025 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00038]: Footnote: [S.S.I. 2010/60](https://www.legislation.gov.uk/ssi/2010/60), to which there are no relevant amendments.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Senedd constituencies[^key-497f28c5f67cf81406f95204d5a3fcd4]
+## 2. Senedd constituencies[^c-497f28c5f67cf81406f95204d5a3fcd4]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-497f28c5f67cf81406f95204d5a3fcd4]: Commencement: [S. 2](https://www.legislation.gov.uk/asc/2024/4/section/2) in force at 24.8.2024, see [s. 25(2)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/a)
+[^c-497f28c5f67cf81406f95204d5a3fcd4]: Commencement: [S. 2](https://www.legislation.gov.uk/asc/2024/4/section/2) in force at 24.8.2024, see [s. 25(2)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/a)

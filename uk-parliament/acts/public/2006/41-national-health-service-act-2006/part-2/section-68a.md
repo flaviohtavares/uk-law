@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68A. Reconfiguration of NHS services[^key-9b23af2be9cf6f25ab18862cdb23e3a6]
+## 68A. Reconfiguration of NHS services[^c-9b23af2be9cf6f25ab18862cdb23e3a6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 10A confers intervention powers on the Secretary of State in relation t
 
 ## Annotations
 
-[^key-9b23af2be9cf6f25ab18862cdb23e3a6]: Textual amendment: [S. 68A](https://www.legislation.gov.uk/ukpga/2006/41/section/68A) and cross-heading inserted (31.1.2024) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 46(1)](https://www.legislation.gov.uk/ukpga/2022/31/section/46/1), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/4/a)
+[^c-9b23af2be9cf6f25ab18862cdb23e3a6]: Textual amendment: [S. 68A](https://www.legislation.gov.uk/ukpga/2006/41/section/68A) and cross-heading inserted (31.1.2024) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 46(1)](https://www.legislation.gov.uk/ukpga/2022/31/section/46/1), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/4/a)

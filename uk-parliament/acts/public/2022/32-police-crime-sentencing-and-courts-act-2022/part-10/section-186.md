@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 186. Search of premises of offender released on licence for purposes connected with protection from risk of terrorism[^key-0a71c21cb21e77e184dee30f1012b387]
+## 186. Search of premises of offender released on licence for purposes connected with protection from risk of terrorism[^c-0a71c21cb21e77e184dee30f1012b387]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,4 +74,4 @@ After section 43C of the Terrorism Act 2000 insert—
 
 ## Annotations
 
-[^key-0a71c21cb21e77e184dee30f1012b387]: Commencement: [S. 186](https://www.legislation.gov.uk/ukpga/2022/32/section/186) in force at 28.6.2022, see [s. 208(5)(w)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/w)
+[^c-0a71c21cb21e77e184dee30f1012b387]: Commencement: [S. 186](https://www.legislation.gov.uk/ukpga/2022/32/section/186) in force at 28.6.2022, see [s. 208(5)(w)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/w)

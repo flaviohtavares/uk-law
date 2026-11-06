@@ -31,7 +31,7 @@ summary: ''
 - (b) use in specified circumstances of a regulated rail vehicle, or
 - (c) use in specified circumstances of a regulated rail vehicle that is specified or of a specified description.
 
-(3)[^key-d41700add67a0ab98d3edfbca16f208c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d41700add67a0ab98d3edfbca16f208c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) After consulting the Disabled Persons Transport Advisory Committee and such other persons as the Secretary of State thinks appropriate, the Secretary of State may—
 
@@ -43,10 +43,10 @@ summary: ''
 
 (6) “**Specified**” means specified in an exemption order.
 
-(7)[^key-92268c46628cbba529ca1f80e13c3ef3] Section 207(2) does not require an exemption order to be made by statutory instrument; but such an order is as capable of being amended or revoked as an order made by statutory instrument.
+(7)[^c-92268c46628cbba529ca1f80e13c3ef3] Section 207(2) does not require an exemption order to be made by statutory instrument; but such an order is as capable of being amended or revoked as an order made by statutory instrument.
 
 ## Annotations
 
-[^key-d41700add67a0ab98d3edfbca16f208c]: Textual amendment: S. 183(3) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 10 para. 29(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/29/2); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(p)](https://www.legislation.gov.uk/uksi/2015/994/article/11/p)
+[^c-d41700add67a0ab98d3edfbca16f208c]: Textual amendment: S. 183(3) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 10 para. 29(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/29/2); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(p)](https://www.legislation.gov.uk/uksi/2015/994/article/11/p)
 
-[^key-92268c46628cbba529ca1f80e13c3ef3]: Textual amendment: S. 183(7) inserted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 10 para. 29(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/29/3); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(p)](https://www.legislation.gov.uk/uksi/2015/994/article/11/p)
+[^c-92268c46628cbba529ca1f80e13c3ef3]: Textual amendment: S. 183(7) inserted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 10 para. 29(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/29/3); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(p)](https://www.legislation.gov.uk/uksi/2015/994/article/11/p)

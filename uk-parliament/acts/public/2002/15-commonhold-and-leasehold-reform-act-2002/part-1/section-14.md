@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Use , maintenance and building safety[^key-9e9813ac15780688990656d1fa35a23c]
+## 14. Use , maintenance and building safety[^c-9e9813ac15780688990656d1fa35a23c]
 
 *Extent: E+W*
 
@@ -26,10 +26,10 @@ summary: ''
 
 (3) A duty under subsection (2) may be imposed on the commonhold association or the unit-holder.
 
-(4)[^key-8b841c8f30aeab06f909ab341147b5aa] A commonhold community statement for a higher-risk commonhold must make provision requiring the commonhold association to comply with its duties under Part 4 of the Building Safety Act 2022, or regulations made under that Part of the Act, in relation to each commonhold unit.
+(4)[^c-8b841c8f30aeab06f909ab341147b5aa] A commonhold community statement for a higher-risk commonhold must make provision requiring the commonhold association to comply with its duties under Part 4 of the Building Safety Act 2022, or regulations made under that Part of the Act, in relation to each commonhold unit.
 
 ## Annotations
 
-[^key-9e9813ac15780688990656d1fa35a23c]: Textual amendment: Words in [s. 14](https://www.legislation.gov.uk/ukpga/2002/15/section/14) heading substituted (28.4.2022 for specified purposes, 6.4.2023 in so far as not already in force) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 114(3)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/114/3/a), [170(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2) (with [s. 164](https://www.legislation.gov.uk/ukpga/2022/30/section/164)); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z11)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z11)
+[^c-9e9813ac15780688990656d1fa35a23c]: Textual amendment: Words in [s. 14](https://www.legislation.gov.uk/ukpga/2002/15/section/14) heading substituted (28.4.2022 for specified purposes, 6.4.2023 in so far as not already in force) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 114(3)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/114/3/a), [170(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2) (with [s. 164](https://www.legislation.gov.uk/ukpga/2022/30/section/164)); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z11)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z11)
 
-[^key-8b841c8f30aeab06f909ab341147b5aa]: Textual amendment: [S. 14(4)](https://www.legislation.gov.uk/ukpga/2002/15/section/14/4) inserted (28.4.2022 for specified purposes, 6.4.2023 in so far as not already in force) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 114(3)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/114/3/b), [170(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2) (with [s. 164](https://www.legislation.gov.uk/ukpga/2022/30/section/164)); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z11)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z11)
+[^c-8b841c8f30aeab06f909ab341147b5aa]: Textual amendment: [S. 14(4)](https://www.legislation.gov.uk/ukpga/2002/15/section/14/4) inserted (28.4.2022 for specified purposes, 6.4.2023 in so far as not already in force) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 114(3)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/114/3/b), [170(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2) (with [s. 164](https://www.legislation.gov.uk/ukpga/2022/30/section/164)); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z11)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z11)

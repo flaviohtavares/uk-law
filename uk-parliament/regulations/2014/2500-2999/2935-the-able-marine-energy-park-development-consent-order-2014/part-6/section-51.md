@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 51. Defence to proceedings in respect of statutory nuisance[^key-95998befeb6af18eb27aaf242c8590cf]
+## 51. Defence to proceedings in respect of statutory nuisance[^c-95998befeb6af18eb27aaf242c8590cf]
 
 *Extent: E+W+S*
 
@@ -33,7 +33,7 @@ Where proceedings are brought under section 82(1) of the Environmental Protectio
 
 ## Annotations
 
-[^key-95998befeb6af18eb27aaf242c8590cf]: Commencement: [Art. 51](https://www.legislation.gov.uk/uksi/2014/2935/article/51) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-95998befeb6af18eb27aaf242c8590cf]: Commencement: [Art. 51](https://www.legislation.gov.uk/uksi/2014/2935/article/51) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
 
 [^f00031]: Footnote: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43). There are amendments to this Act which are not relevant to this Order.
 

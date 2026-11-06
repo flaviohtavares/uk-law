@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Temporary annotations with regard to emergencies involving loss of human life or human illness etc.[^key-3ee18cc257f1201138f38ba2e1833a25][^key-ad875577a6de14e74e7429afe165266d]
+## 35. Temporary annotations with regard to emergencies involving loss of human life or human illness etc.[^c-3ee18cc257f1201138f38ba2e1833a25][^c-ad875577a6de14e74e7429afe165266d]
 
 *Extent: E+W+S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3ee18cc257f1201138f38ba2e1833a25]: Commencement: Art. 35 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-3ee18cc257f1201138f38ba2e1833a25]: Commencement: Art. 35 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-ad875577a6de14e74e7429afe165266d]: Commencement: [Art. 35](https://www.legislation.gov.uk/uksi/2010/231/article/35) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-ad875577a6de14e74e7429afe165266d]: Commencement: [Art. 35](https://www.legislation.gov.uk/uksi/2010/231/article/35) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)

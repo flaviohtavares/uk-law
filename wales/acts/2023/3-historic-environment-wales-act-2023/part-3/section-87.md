@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87. Certificate that Welsh Ministers do not intend to list building[^key-5f21dc26f35497903d3e9b192f95f53a][^key-3fcfcfb490b8b0ccd6c05efb5293a689]
+## 87. Certificate that Welsh Ministers do not intend to list building[^c-5f21dc26f35497903d3e9b192f95f53a][^c-3fcfcfb490b8b0ccd6c05efb5293a689]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5f21dc26f35497903d3e9b192f95f53a]: Commencement: S. 87 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-5f21dc26f35497903d3e9b192f95f53a]: Commencement: S. 87 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-3fcfcfb490b8b0ccd6c05efb5293a689]: Commencement: [S. 87](https://www.legislation.gov.uk/asc/2023/3/section/87) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-3fcfcfb490b8b0ccd6c05efb5293a689]: Commencement: [S. 87](https://www.legislation.gov.uk/asc/2023/3/section/87) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

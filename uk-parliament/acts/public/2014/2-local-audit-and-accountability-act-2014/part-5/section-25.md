@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Inspection of statements of accounts etc[^key-8266f1c3bf279d98c2398667c651adb7][^key-a3177a3da870902a1226dec102fb3549]
+## 25. Inspection of statements of accounts etc[^c-8266f1c3bf279d98c2398667c651adb7][^c-a3177a3da870902a1226dec102fb3549]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8266f1c3bf279d98c2398667c651adb7]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2014/2/section/25) in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(q)](https://www.legislation.gov.uk/uksi/2015/841/article/3/q) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-8266f1c3bf279d98c2398667c651adb7]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2014/2/section/25) in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(q)](https://www.legislation.gov.uk/uksi/2015/841/article/3/q) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
 
-[^key-a3177a3da870902a1226dec102fb3549]: Modification: [S. 25](https://www.legislation.gov.uk/ukpga/2014/2/section/25) applied by 1999 c. 29, s. 134(4) (as amended) (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 43(2)(a)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/43/2/a); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+[^c-a3177a3da870902a1226dec102fb3549]: Modification: [S. 25](https://www.legislation.gov.uk/ukpga/2014/2/section/25) applied by 1999 c. 29, s. 134(4) (as amended) (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 43(2)(a)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/43/2/a); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)

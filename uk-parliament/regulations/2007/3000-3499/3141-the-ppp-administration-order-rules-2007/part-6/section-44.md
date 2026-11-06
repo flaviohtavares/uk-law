@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Use of affidavit evidence[^key-5f5c4bc1cfc46e48190b47cdfae14d2f]
+## 44. Use of affidavit evidence[^c-5f5c4bc1cfc46e48190b47cdfae14d2f]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f5c4bc1cfc46e48190b47cdfae14d2f]: Commencement: [Rule 44](https://www.legislation.gov.uk/uksi/2007/3141/rule/44) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-5f5c4bc1cfc46e48190b47cdfae14d2f]: Commencement: [Rule 44](https://www.legislation.gov.uk/uksi/2007/3141/rule/44) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

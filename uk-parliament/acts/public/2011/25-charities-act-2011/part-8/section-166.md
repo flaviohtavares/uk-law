@@ -27,7 +27,7 @@ summary: ''
 - (a) such a report by the trustees on the activities of the charity's subsidiary undertakings during that year, and
 - (b) such other information relating to any of those undertakings,
 
-as may be prescribed by regulations made by the Secretary of State[^key-8ea05881ad7b1986eacc32fb6508ead8].
+as may be prescribed by regulations made by the Secretary of State[^c-8ea05881ad7b1986eacc32fb6508ead8].
 
 (3) Regulations under subsection (2) may in particular make provision—
 
@@ -47,4 +47,4 @@ as may be prescribed by regulations made by the Secretary of State[^key-8ea05881
 
 ## Annotations
 
-[^key-8ea05881ad7b1986eacc32fb6508ead8]: Textual amendment: Words in [s. 166(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/166/2) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(z)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/z) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-8ea05881ad7b1986eacc32fb6508ead8]: Textual amendment: Words in [s. 166(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/166/2) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(z)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/z) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))

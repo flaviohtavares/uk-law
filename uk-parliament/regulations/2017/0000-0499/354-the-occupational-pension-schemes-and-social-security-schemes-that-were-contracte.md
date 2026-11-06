@@ -52,7 +52,7 @@ In accordance with section 185(1) of the Pension Schemes Act 1993[^f00006], and 
 
 The Social Security Advisory Committee has agreed that the proposals in respect of regulation 3 of these Regulations should not be referred to it[^f00007].
 
-## 1. Citation, commencement and extent[^key-ff8cc9ad7c67b73c9e3663af406868a7]
+## 1. Citation, commencement and extent[^c-ff8cc9ad7c67b73c9e3663af406868a7]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations 2017.
 
@@ -62,19 +62,19 @@ The Social Security Advisory Committee has agreed that the proposals in respect 
 
 (4) Regulation 4(9), (10) and (11), and this regulation in so far as it relates to regulation 4(9), (10) and (11), extends to Northern Ireland.
 
-## 2. Amendment of the Contracting-out (Transfer and Transfer Payment) Regulations 1996[^key-a6216ad40a058f1325123390a32089dc]
+## 2. Amendment of the Contracting-out (Transfer and Transfer Payment) Regulations 1996[^c-a6216ad40a058f1325123390a32089dc]
 
 *Extent: E+W+S*
 
 In regulation 13B(1) (modification of section 16: revaluation after transfer from another scheme) of the Contracting-out (Transfer and Transfer Payment) Regulations 1996[^f00008], after “This regulation applies” insert “where an earner’s service in contracted-out employment[^f00009] ended on the second abolition date[^f00010] and”.
 
-## 3. Amendment of the Social Security (Graduated Retirement Benefit) Regulations 2005[^key-e155468198b99721350a2b39102fd504]
+## 3. Amendment of the Social Security (Graduated Retirement Benefit) Regulations 2005[^c-e155468198b99721350a2b39102fd504]
 
 *Extent: E+W+S*
 
 In paragraphs 6(2), 10(2), 16(2) and 20(2) of Schedule 1 to the Social Security (Graduated Retirement Benefit) Regulations 2005 (calculating lump sums for the purposes of increasing lump sums in relation to deferred graduated retirement benefit)[^f00011], in the definition of “accrual period” after “Social Security (Claims and Payments) Regulations 1987” insert “or in accordance with regulation 22C(3) or (4) of those Regulations”.
 
-## 4. Amendment of the Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015[^key-ff42ae83f69dbd68492b5f88be3236d5]
+## 4. Amendment of the Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015[^c-ff42ae83f69dbd68492b5f88be3236d5]
 
 (1) The Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015[^f00012] are amended as follows.
 
@@ -267,9 +267,9 @@ An impact assessment of the effect that this instrument, except for regulation 3
 
 [^f00007]: Footnote: See sections 172(1) and 173(1)(b) of the Social Security Administration Act [1992 (c.5)](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-ff8cc9ad7c67b73c9e3663af406868a7]: Commencement: Reg. 1 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/354/regulation/1/2)
+[^c-ff8cc9ad7c67b73c9e3663af406868a7]: Commencement: Reg. 1 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/354/regulation/1/2)
 
-[^key-a6216ad40a058f1325123390a32089dc]: Commencement: Reg. 2 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/354/regulation/1/2)
+[^c-a6216ad40a058f1325123390a32089dc]: Commencement: Reg. 2 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/354/regulation/1/2)
 
 [^f00008]: Footnote: [S.I. 1996/1462](https://www.legislation.gov.uk/uksi/1996/1462). Regulation 13B was inserted by [S.I. 2015/1677](https://www.legislation.gov.uk/uksi/2015/1677).
 
@@ -277,11 +277,11 @@ An impact assessment of the effect that this instrument, except for regulation 3
 
 [^f00010]: Footnote: The definition of “the second abolition date” in section 7A of the Pension Schemes Act [1993 (c. 48)](https://www.legislation.gov.uk/ukpga/1993/48) was inserted by paragraphs 1 and 6 of Schedule 13 to the Pensions Act [2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19).
 
-[^key-e155468198b99721350a2b39102fd504]: Commencement: Reg. 3 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/354/regulation/1/2)
+[^c-e155468198b99721350a2b39102fd504]: Commencement: Reg. 3 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/354/regulation/1/2)
 
 [^f00011]: Footnote: [S.I. 2005/454](https://www.legislation.gov.uk/uksi/2005/454).
 
-[^key-ff42ae83f69dbd68492b5f88be3236d5]: Commencement: Reg. 4 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/354/regulation/1/2)
+[^c-ff42ae83f69dbd68492b5f88be3236d5]: Commencement: Reg. 4 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/354/regulation/1/2)
 
 [^f00012]: Footnote: [S.I. 2015/1677](https://www.legislation.gov.uk/uksi/2015/1677); relevant amending instrument is [S.I. 2016/200](https://www.legislation.gov.uk/uksi/2016/200).
 

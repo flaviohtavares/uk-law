@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Fit and proper person requirement[^key-cf645e2a23f12de7617f721485a8717a][^key-c0a8e36010a29166875a3678a43b27ab][^key-fd514c334c17f7b866fc05d791eec6af]
+## 20. Fit and proper person requirement[^c-cf645e2a23f12de7617f721485a8717a][^c-c0a8e36010a29166875a3678a43b27ab][^c-fd514c334c17f7b866fc05d791eec6af]
 
 *Extent: E+W*
 
@@ -43,8 +43,8 @@ summary: ''
 
 ## Annotations
 
-[^key-cf645e2a23f12de7617f721485a8717a]: Commencement: [S. 20](https://www.legislation.gov.uk/anaw/2014/7/section/20) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
+[^c-cf645e2a23f12de7617f721485a8717a]: Commencement: [S. 20](https://www.legislation.gov.uk/anaw/2014/7/section/20) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
 
-[^key-c0a8e36010a29166875a3678a43b27ab]: Commencement: [S. 20](https://www.legislation.gov.uk/anaw/2014/7/section/20) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(c)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/3)
+[^c-c0a8e36010a29166875a3678a43b27ab]: Commencement: [S. 20](https://www.legislation.gov.uk/anaw/2014/7/section/20) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(c)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/3)
 
-[^key-fd514c334c17f7b866fc05d791eec6af]: Commencement: [S. 20](https://www.legislation.gov.uk/anaw/2014/7/section/20) in force at 23.11.2015 in so far as not already in force by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(j)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/j)
+[^c-fd514c334c17f7b866fc05d791eec6af]: Commencement: [S. 20](https://www.legislation.gov.uk/anaw/2014/7/section/20) in force at 23.11.2015 in so far as not already in force by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(j)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/j)

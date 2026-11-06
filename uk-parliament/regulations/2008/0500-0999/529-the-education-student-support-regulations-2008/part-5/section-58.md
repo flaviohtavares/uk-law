@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Qualifying conditions for the special support grant[^key-9b63524da5c9ba8f0c30b238b3d24400]
+## 58. Qualifying conditions for the special support grant[^c-9b63524da5c9ba8f0c30b238b3d24400]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9b63524da5c9ba8f0c30b238b3d24400]: Commencement: Reg. 58 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-9b63524da5c9ba8f0c30b238b3d24400]: Commencement: Reg. 58 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
 
 [^f00056]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4) to which there are amendments not relevant to these Regulations. The relevant regulation is regulation 4ZA of the Income Support (General) Regulations 1987 ([S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967)). Regulation 4ZA was inserted by [S.I. 1996/206](https://www.legislation.gov.uk/uksi/1996/206), amended by [S.I. 2000/1981](https://www.legislation.gov.uk/uksi/2000/1981) and [S.I. 2006/2144](https://www.legislation.gov.uk/uksi/2006/2144); there are other amending instruments but none is relevant.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.13. Remuneration of new housing administrator[^key-b229fbdaf402a97f774f2d2f2b9c9fee]
+## 6.13. Remuneration of new housing administrator[^c-b229fbdaf402a97f774f2d2f2b9c9fee]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ If a new housing administrator is appointed in place of another housing administ
 
 ## Annotations
 
-[^key-b229fbdaf402a97f774f2d2f2b9c9fee]: Commencement: Rule 6.13 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-b229fbdaf402a97f774f2d2f2b9c9fee]: Commencement: Rule 6.13 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

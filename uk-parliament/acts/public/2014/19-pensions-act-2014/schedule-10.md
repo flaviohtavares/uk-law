@@ -24,11 +24,11 @@ Section 14
 
 ### Introduction
 
-**1.**[^key-9aa3a51ba8f4f8de77e283566bdc34ff] This Schedule sets out the appropriate weekly reduction in the rate of a person's state pension for the purposes of section 14.
+**1.**[^c-9aa3a51ba8f4f8de77e283566bdc34ff] This Schedule sets out the appropriate weekly reduction in the rate of a person's state pension for the purposes of section 14.
 
 ### Appropriate weekly reduction for person subject to old state scheme pension debit
 
-**2.**[^key-0e029b2ef4319dc9397aebc06d9b53ff] (1) This paragraph sets out the appropriate weekly reduction if the person is subject to an old state scheme pension debit.
+**2.**[^c-0e029b2ef4319dc9397aebc06d9b53ff] (1) This paragraph sets out the appropriate weekly reduction if the person is subject to an old state scheme pension debit.
 
 (2) If the person became subject to the old state scheme pension debit in or after the final relevant year, the appropriate weekly reduction is an amount equal to the person's notional rate.
 
@@ -50,7 +50,7 @@ Section 14
 
 ### Appropriate weekly reduction for person subject to new state scheme pension debit
 
-**3.**[^key-f908ecc6e5775b5deea0927b7d3082b9] (1) This paragraph sets out the appropriate weekly reduction if the person is subject to a new state scheme pension debit.
+**3.**[^c-f908ecc6e5775b5deea0927b7d3082b9] (1) This paragraph sets out the appropriate weekly reduction if the person is subject to a new state scheme pension debit.
 
 (2) If the person was over pensionable age when he or she became subject to the new state scheme pension debit, the appropriate weekly reduction is an amount equal to the amount of the debit.
 
@@ -60,7 +60,7 @@ Section 14
 
 ### Supplementary
 
-**4.**[^key-d770da73cc7f59d08041fd30be8247bb][^key-f0a7142999d08199baa71177a76f647c] (1) Regulations may make provision about the calculation and verification of notional rates under paragraph 2.
+**4.**[^c-d770da73cc7f59d08041fd30be8247bb][^c-f0a7142999d08199baa71177a76f647c] (1) Regulations may make provision about the calculation and verification of notional rates under paragraph 2.
 
 (2) The regulations may, in particular, provide—
 
@@ -69,12 +69,12 @@ Section 14
 
 ## Annotations
 
-[^key-9aa3a51ba8f4f8de77e283566bdc34ff]: Commencement: Sch. 10 para. 1 in force at 6.4.2016, see s. 56(1)(4)
+[^c-9aa3a51ba8f4f8de77e283566bdc34ff]: Commencement: Sch. 10 para. 1 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-0e029b2ef4319dc9397aebc06d9b53ff]: Commencement: Sch. 10 para. 2 in force at 6.4.2016, see s. 56(1)(4)
+[^c-0e029b2ef4319dc9397aebc06d9b53ff]: Commencement: Sch. 10 para. 2 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-f908ecc6e5775b5deea0927b7d3082b9]: Commencement: Sch. 10 para. 3 in force at 6.4.2016, see s. 56(1)(4)
+[^c-f908ecc6e5775b5deea0927b7d3082b9]: Commencement: Sch. 10 para. 3 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-d770da73cc7f59d08041fd30be8247bb]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2014/19/schedule/10/paragraph/4) in force at 5.2.2015 for specified purposes by [S.I. 2015/134](https://www.legislation.gov.uk/uksi/2015/134), [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/134/article/2/1)[(4)(j)](https://www.legislation.gov.uk/uksi/2015/134/article/2/4/j)
+[^c-d770da73cc7f59d08041fd30be8247bb]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2014/19/schedule/10/paragraph/4) in force at 5.2.2015 for specified purposes by [S.I. 2015/134](https://www.legislation.gov.uk/uksi/2015/134), [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/134/article/2/1)[(4)(j)](https://www.legislation.gov.uk/uksi/2015/134/article/2/4/j)
 
-[^key-f0a7142999d08199baa71177a76f647c]: Commencement: Sch. 10 para. 4 in force at 6.4.2016 so far as not brought into force earlier by an order, see s. 56(1)(4)
+[^c-f0a7142999d08199baa71177a76f647c]: Commencement: Sch. 10 para. 4 in force at 6.4.2016 so far as not brought into force earlier by an order, see s. 56(1)(4)

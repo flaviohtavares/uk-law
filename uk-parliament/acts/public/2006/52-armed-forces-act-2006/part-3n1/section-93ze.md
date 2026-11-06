@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93ZE. Powers of seizure equivalent to powers under [section 13](https://www.legislation.gov.uk/ukpga/2000/11/section/13) of the [Terrorism Act 2000](https://www.legislation.gov.uk/ukpga/2000/11/contents)[^key-0f106a2ecc79b864fedd91de0b345943]
+## 93ZE. Powers of seizure equivalent to powers under [section 13](https://www.legislation.gov.uk/ukpga/2000/11/section/13) of the [Terrorism Act 2000](https://www.legislation.gov.uk/ukpga/2000/11/contents)[^c-0f106a2ecc79b864fedd91de0b345943]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f106a2ecc79b864fedd91de0b345943]: Textual amendment: [S. 93ZE](https://www.legislation.gov.uk/ukpga/2006/52/section/93ZE) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 233(5)](https://www.legislation.gov.uk/ukpga/2026/20/section/233/5), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z6)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z6)
+[^c-0f106a2ecc79b864fedd91de0b345943]: Textual amendment: [S. 93ZE](https://www.legislation.gov.uk/ukpga/2006/52/section/93ZE) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 233(5)](https://www.legislation.gov.uk/ukpga/2026/20/section/233/5), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z6)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 6 — Foods in which Miscellaneous Additives listed in Schedule 1 are generally prohibited[^key-5ba4b1ea01264a122b053f2e8a0b0956]
+## SCHEDULE 6 — Foods in which Miscellaneous Additives listed in Schedule 1 are generally prohibited[^c-5ba4b1ea01264a122b053f2e8a0b0956]
 
 *Extent: N.I.*
 
@@ -39,7 +39,7 @@ Regulations 3(2) and (4) and 4(3)
 
 ## Annotations
 
-[^key-5ba4b1ea01264a122b053f2e8a0b0956]: Commencement: Sch. 6 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-5ba4b1ea01264a122b053f2e8a0b0956]: Commencement: Sch. 6 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
 [^f00059]: Footnote: O.J. No. L221, 12.8.74, p. 10
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 140. Requirements for interim arrangements[^key-88a7f15418fe81d35ffd36eceb3140ce]
+## 140. Requirements for interim arrangements[^c-88a7f15418fe81d35ffd36eceb3140ce]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88a7f15418fe81d35ffd36eceb3140ce]: Textual amendment: [Arts. 139-143](https://www.legislation.gov.uk/nisi/1995/3213/article/139) repealed (6.4.2012) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [ss. 13(4)](https://www.legislation.gov.uk/nia/2008/1/section/13/4), [19(5)](https://www.legislation.gov.uk/nia/2008/1/section/19/5), [Sch. 6 Pt. 6](https://www.legislation.gov.uk/nia/2008/1/schedule/6/part/6); [S.R. 2012/115](https://www.legislation.gov.uk/nisr/2012/115), [art. 2](https://www.legislation.gov.uk/nisr/2012/115/article/2)
+[^c-88a7f15418fe81d35ffd36eceb3140ce]: Textual amendment: [Arts. 139-143](https://www.legislation.gov.uk/nisi/1995/3213/article/139) repealed (6.4.2012) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [ss. 13(4)](https://www.legislation.gov.uk/nia/2008/1/section/13/4), [19(5)](https://www.legislation.gov.uk/nia/2008/1/section/19/5), [Sch. 6 Pt. 6](https://www.legislation.gov.uk/nia/2008/1/schedule/6/part/6); [S.R. 2012/115](https://www.legislation.gov.uk/nisr/2012/115), [art. 2](https://www.legislation.gov.uk/nisr/2012/115/article/2)

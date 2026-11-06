@@ -35,7 +35,7 @@ summary: ''
   > - (ba) during the period of two years beginning with the coming into force of an order relating to the community under Part 3 of the Local Government (Democracy) (Wales) Act 2013 consequent on recommendations made under that Part by the Local Democracy and Boundary Commission for Wales
 
   ,
-- (b)[^key-b99e4af9f701af6ececf420448a546f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-b99e4af9f701af6ececf420448a546f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 31(2) (supplementary provision about community council orders), for the words from “68” to the end substitute “ 44 of the Local Government (Democracy) (Wales) Act 2013 is to apply as if the order were made under Part 3 of that Act. ”.
 
@@ -77,13 +77,13 @@ summary: ''
 
 **2.** In section 1(2)(a) of the Police Act 1996 (police areas), for “section 58 of the Local Government Act 1972,” substitute “ section 45 of the Local Government (Democracy) (Wales) Act 2013, ”.
 
-### ...[^key-bea84dedab497aa60e9b10e26cea5125]
+### ...[^c-bea84dedab497aa60e9b10e26cea5125]
 
-**3.**[^key-bea84dedab497aa60e9b10e26cea5125] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-bea84dedab497aa60e9b10e26cea5125] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-6c593101490c1fa24c4c835d3ee59f01]
+### ...[^c-6c593101490c1fa24c4c835d3ee59f01]
 
-**4.**[^key-6c593101490c1fa24c4c835d3ee59f01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-6c593101490c1fa24c4c835d3ee59f01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Police Reform and Social Responsibility Act 2011 (c. 13)
 
@@ -99,8 +99,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b99e4af9f701af6ececf420448a546f5]: Textual amendment: [Sch. 1 para. 1(3)(b)](https://www.legislation.gov.uk/anaw/2013/4/schedule/1/paragraph/1/3/b) omitted (25.6.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 44(4)(a)](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/44/4/a)
+[^c-b99e4af9f701af6ececf420448a546f5]: Textual amendment: [Sch. 1 para. 1(3)(b)](https://www.legislation.gov.uk/anaw/2013/4/schedule/1/paragraph/1/3/b) omitted (25.6.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 44(4)(a)](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/44/4/a)
 
-[^key-bea84dedab497aa60e9b10e26cea5125]: Textual amendment: [Sch. 1 para. 3 and cross-heading](https://www.legislation.gov.uk/anaw/2013/4/schedule/1/crossheading/public-services-ombudsman-wales-act-2005-c-10) omitted (25.6.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 44(4)(b)](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/44/4/b)
+[^c-bea84dedab497aa60e9b10e26cea5125]: Textual amendment: [Sch. 1 para. 3 and cross-heading](https://www.legislation.gov.uk/anaw/2013/4/schedule/1/crossheading/public-services-ombudsman-wales-act-2005-c-10) omitted (25.6.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 44(4)(b)](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/44/4/b)
 
-[^key-6c593101490c1fa24c4c835d3ee59f01]: Textual amendment: [Sch. 1 para. 4 and cross-heading](https://www.legislation.gov.uk/anaw/2013/4/schedule/1/crossheading/welsh-language-wales-measure-2011-nawm-1) omitted (25.6.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 44(4)(b)](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/44/4/b)
+[^c-6c593101490c1fa24c4c835d3ee59f01]: Textual amendment: [Sch. 1 para. 4 and cross-heading](https://www.legislation.gov.uk/anaw/2013/4/schedule/1/crossheading/welsh-language-wales-measure-2011-nawm-1) omitted (25.6.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 44(4)(b)](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/44/4/b)

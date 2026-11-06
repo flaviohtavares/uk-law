@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Consequential amendments relating to section 65 and 66[^key-d8840f53e17802baaeca573dd0e9c1ba]
+## 67. Consequential amendments relating to section 65 and 66[^c-d8840f53e17802baaeca573dd0e9c1ba]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8840f53e17802baaeca573dd0e9c1ba]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2023/55/section/67) in force at 26.12.2023, see [s. 255(2)(j)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/j)
+[^c-d8840f53e17802baaeca573dd0e9c1ba]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2023/55/section/67) in force at 26.12.2023, see [s. 255(2)(j)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/j)

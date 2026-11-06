@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-Expenditure is not long-life asset expenditure if it is incurred on the provision of a car or motor cycle (as defined by section 268A)[^key-326b6f26407372c02b6b1ba2ce6d074d].
+Expenditure is not long-life asset expenditure if it is incurred on the provision of a car or motor cycle (as defined by section 268A)[^c-326b6f26407372c02b6b1ba2ce6d074d].
 
 ## Annotations
 
-[^key-326b6f26407372c02b6b1ba2ce6d074d]: Textual amendment: Words in s. 96 substituted (with effect in accordance with Sch. 11 paras. 26, 27, 28(1) to the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 21](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/21) (with [Sch. 11 paras. 30-32](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/30))
+[^c-326b6f26407372c02b6b1ba2ce6d074d]: Textual amendment: Words in s. 96 substituted (with effect in accordance with Sch. 11 paras. 26, 27, 28(1) to the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 21](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/21) (with [Sch. 11 paras. 30-32](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/30))

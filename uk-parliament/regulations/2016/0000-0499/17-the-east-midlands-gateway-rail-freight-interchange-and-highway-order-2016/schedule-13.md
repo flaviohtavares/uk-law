@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 13 — LAND TO WHICH POWERS TO EXTINGUISH RIGHTS DO NOT APPLY[^key-673fab2287ca27a4c1e849e6560b0a30]
+## SCHEDULE 13 — LAND TO WHICH POWERS TO EXTINGUISH RIGHTS DO NOT APPLY[^c-673fab2287ca27a4c1e849e6560b0a30]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ Article 25
 
 ## Annotations
 
-[^key-673fab2287ca27a4c1e849e6560b0a30]: Commencement: Sch. 13 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-673fab2287ca27a4c1e849e6560b0a30]: Commencement: Sch. 13 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Planning permission etc: extension of time in event of legal challenge[^key-014d13636f75552aa69dc59cac231a09]
+## 56. Planning permission etc: extension of time in event of legal challenge[^c-014d13636f75552aa69dc59cac231a09]
 
 *Extent: E+W*
 
@@ -120,4 +120,4 @@ summary: ''
 
 ## Annotations
 
-[^key-014d13636f75552aa69dc59cac231a09]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2025/34/section/56) in force at 18.2.2026, see [s. 118(2)(e)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/e)
+[^c-014d13636f75552aa69dc59cac231a09]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2025/34/section/56) in force at 18.2.2026, see [s. 118(2)(e)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/e)

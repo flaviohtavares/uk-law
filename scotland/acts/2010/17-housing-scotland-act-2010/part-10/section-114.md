@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 114. Regulator's initial decision[^key-43110c558fbde124b1c4d7d8c1a38b2f]
+## 114. Regulator's initial decision[^c-43110c558fbde124b1c4d7d8c1a38b2f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43110c558fbde124b1c4d7d8c1a38b2f]: Textual amendment: S. 114 repealed (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 4(3)](https://www.legislation.gov.uk/asp/2018/13/section/4/3), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
+[^c-43110c558fbde124b1c4d7d8c1a38b2f]: Textual amendment: S. 114 repealed (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 4(3)](https://www.legislation.gov.uk/asp/2018/13/section/4/3), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)

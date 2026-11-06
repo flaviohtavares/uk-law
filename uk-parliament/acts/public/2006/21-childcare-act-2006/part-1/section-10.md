@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Charges where local authority provide childcare[^key-ce8974eb1d9437f91a1f545fe6604460]
+## 10. Charges where local authority provide childcare[^c-ce8974eb1d9437f91a1f545fe6604460]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce8974eb1d9437f91a1f545fe6604460]: Commencement: S. 10 in force at 1.10.2007 by [S.I. 2007/2717](https://www.legislation.gov.uk/uksi/2007/2717), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/2717/article/2/a)
+[^c-ce8974eb1d9437f91a1f545fe6604460]: Commencement: S. 10 in force at 1.10.2007 by [S.I. 2007/2717](https://www.legislation.gov.uk/uksi/2007/2717), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/2717/article/2/a)

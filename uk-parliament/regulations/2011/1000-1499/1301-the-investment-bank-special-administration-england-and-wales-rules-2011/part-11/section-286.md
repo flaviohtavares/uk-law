@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 286. Punishment of offences[^key-c978d5af3279f29239b015ebafc923c3]
+## 286. Punishment of offences[^c-c978d5af3279f29239b015ebafc923c3]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c978d5af3279f29239b015ebafc923c3]: Commencement: [Rule 286](https://www.legislation.gov.uk/uksi/2011/1301/rule/286) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-c978d5af3279f29239b015ebafc923c3]: Commencement: [Rule 286](https://www.legislation.gov.uk/uksi/2011/1301/rule/286) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

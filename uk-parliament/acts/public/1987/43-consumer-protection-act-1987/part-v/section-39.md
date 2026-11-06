@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Defence of due diligence.[^c9341501][^c9341511][^c9341521][^key-a5e5c83cbfafc2258dd7beb72c856bfb]
+## 39. Defence of due diligence.[^c9341501][^c9341511][^c9341521][^c-a5e5c83cbfafc2258dd7beb72c856bfb]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,7 +60,7 @@ that person shall not, without the leave of the court, be entitled to rely on th
 
     [S. 39](https://www.legislation.gov.uk/ukpga/1987/43/section/39) applied (with modifications) (E.W.S) (28.11.2003 for certain purposes and 15.7.2004 for certain further purposes and otherwise prosp.) by [Fireworks Act 2003 (c. 22)](https://www.legislation.gov.uk/ukpga/2003/22), [ss. 11(7)](https://www.legislation.gov.uk/ukpga/2003/22/section/11/7), [18](https://www.legislation.gov.uk/ukpga/2003/22/section/18) (with [s. 2(8)](https://www.legislation.gov.uk/ukpga/2003/22/section/2/8)); [S.I. 2003/3084](https://www.legislation.gov.uk/uksi/2003/3084), [art. 2](https://www.legislation.gov.uk/uksi/2003/3084/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/3084/schedule); [S.I](https://www.legislation.gov.uk/ukpga/1987/43/section/I) 2004/1831, {art. 2}, Sch.
 
-[^key-a5e5c83cbfafc2258dd7beb72c856bfb]: Modification: [S. 39](https://www.legislation.gov.uk/ukpga/1987/43/section/39) applied (1.10.2015) by [The Packaging (Essential Requirements) Regulations 2015 (S.I. 2015/1640)](https://www.legislation.gov.uk/uksi/2015/1640), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1640/regulation/1), [Sch. 4 para. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/1640/schedule/4/paragraph/1/1/b) (with [reg. 3(5)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/3/5))
+[^c-a5e5c83cbfafc2258dd7beb72c856bfb]: Modification: [S. 39](https://www.legislation.gov.uk/ukpga/1987/43/section/39) applied (1.10.2015) by [The Packaging (Essential Requirements) Regulations 2015 (S.I. 2015/1640)](https://www.legislation.gov.uk/uksi/2015/1640), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1640/regulation/1), [Sch. 4 para. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/1640/schedule/4/paragraph/1/1/b) (with [reg. 3(5)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/3/5))
 
 [^c18753731]: Textual amendment: Word in [s. 39(5)](https://www.legislation.gov.uk/ukpga/1987/43/section/39/5) omitted (1.10.2005) by virtue of [The General Product Safety Regulations 2005 (S.I. 2005/1803)](https://www.legislation.gov.uk/uksi/2005/1803), [reg. 46(6)](https://www.legislation.gov.uk/uksi/2005/1803/regulation/46/6) (with [regs. 42](https://www.legislation.gov.uk/uksi/2005/1803/regulation/42), [43](https://www.legislation.gov.uk/uksi/2005/1803/regulation/43))
 

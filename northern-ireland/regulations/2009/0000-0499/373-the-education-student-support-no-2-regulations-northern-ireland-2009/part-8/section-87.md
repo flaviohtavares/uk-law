@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 87. Calculation of contribution[^key-792fa74917d5f68cc931fd3a53816ec7]
+## 87. Calculation of contribution[^c-792fa74917d5f68cc931fd3a53816ec7]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-792fa74917d5f68cc931fd3a53816ec7]: Commencement: Reg. 87 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-792fa74917d5f68cc931fd3a53816ec7]: Commencement: Reg. 87 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)

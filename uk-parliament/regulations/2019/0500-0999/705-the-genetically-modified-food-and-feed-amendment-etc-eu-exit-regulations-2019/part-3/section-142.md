@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Amendment of Commission Decision 2011/354/EU[^key-b90c442a4a34cd31fc75f7cc1f86ee36]
+## 142. Amendment of Commission Decision 2011/354/EU[^c-b90c442a4a34cd31fc75f7cc1f86ee36]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Decision 2011/354/EU authorising the placing on the market of product
 
 ## Annotations
 
-[^key-b90c442a4a34cd31fc75f7cc1f86ee36]: Commencement: Reg. 142 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-b90c442a4a34cd31fc75f7cc1f86ee36]: Commencement: Reg. 142 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

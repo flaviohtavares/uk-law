@@ -22,7 +22,7 @@ summary: ''
 
 (1) A contracting authority may award a public contract following negotiated procedure without prior publication of a contract notice or prior information notice in any of the following cases—
 
-- (a) where no tenders, no suitable tenders, no requests to participate or no suitable requests to participate have been submitted in response to an open procedure or a restricted procedure, provided that the initial conditions of the contract are not substantially altered and that a report is sent to the Scottish Ministers if they so request[^key-635ed162abc967fc7d09069a83d1ed09];
+- (a) where no tenders, no suitable tenders, no requests to participate or no suitable requests to participate have been submitted in response to an open procedure or a restricted procedure, provided that the initial conditions of the contract are not substantially altered and that a report is sent to the Scottish Ministers if they so request[^c-635ed162abc967fc7d09069a83d1ed09];
 - (b) where the works, supplies or services can be supplied only by a particular economic operator for any of the following reasons—
   - (i) the aim of the procurement is the creation or acquisition of a unique work of art or artistic performance;
   - (ii) competition is absent for technical reasons;
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-635ed162abc967fc7d09069a83d1ed09]: Textual amendment: Words in [reg. 33(1)(a)](https://www.legislation.gov.uk/ssi/2015/446/regulation/33/1/a) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(28)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/28) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-635ed162abc967fc7d09069a83d1ed09]: Textual amendment: Words in [reg. 33(1)(a)](https://www.legislation.gov.uk/ssi/2015/446/regulation/33/1/a) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(28)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/28) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))

@@ -35,23 +35,23 @@ establishing the format for registration and reporting of producers of electrica
 
 (Text with EEA relevance) (revoked)
 
-[^key-32ae47318aef56102faaf907e22d4753]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-32ae47318aef56102faaf907e22d4753]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Format for registration[^key-32ae47318aef56102faaf907e22d4753]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Format for reporting to the register of a Member State on data related to EEE placed on its market[^key-32ae47318aef56102faaf907e22d4753]
+## Article 1. Format for registration[^c-32ae47318aef56102faaf907e22d4753]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force[^key-32ae47318aef56102faaf907e22d4753]
+## Article 2. Format for reporting to the register of a Member State on data related to EEE placed on its market[^c-32ae47318aef56102faaf907e22d4753]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-32ae47318aef56102faaf907e22d4753]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 3. Entry into force[^c-32ae47318aef56102faaf907e22d4753]
 
-## ANNEX I — Format for registration in a Member State[^key-32ae47318aef56102faaf907e22d4753]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-32ae47318aef56102faaf907e22d4753]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I — Format for registration in a Member State[^c-32ae47318aef56102faaf907e22d4753]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -59,18 +59,18 @@ establishing the format for registration and reporting of producers of electrica
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART A — Format for registration of a producer[^key-32ae47318aef56102faaf907e22d4753]
+### PART A — Format for registration of a producer[^c-32ae47318aef56102faaf907e22d4753]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART B — Format for registration of an authorised representative[^key-32ae47318aef56102faaf907e22d4753]
+### PART B — Format for registration of an authorised representative[^c-32ae47318aef56102faaf907e22d4753]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Format for reporting to the register of a Member State on EEE placed on its market[^key-32ae47318aef56102faaf907e22d4753]
+## ANNEX II — Format for reporting to the register of a Member State on EEE placed on its market[^c-32ae47318aef56102faaf907e22d4753]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-32ae47318aef56102faaf907e22d4753]: Textual amendment: Regulation revoked (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2020/1540/schedule/paragraph/4)
+[^c-32ae47318aef56102faaf907e22d4753]: Textual amendment: Regulation revoked (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2020/1540/schedule/paragraph/4)

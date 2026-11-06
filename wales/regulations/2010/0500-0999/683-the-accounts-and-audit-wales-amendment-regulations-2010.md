@@ -31,7 +31,7 @@ summary: ''
 
 LOCAL GOVERNMENT, WALES
 
-The Accounts and Audit (Wales) (Amendment) Regulations 2010 (revoked)[^key-5da96355c6a1c6d7110e6de6bbed4b23]
+The Accounts and Audit (Wales) (Amendment) Regulations 2010 (revoked)[^c-5da96355c6a1c6d7110e6de6bbed4b23]
 
 Made
 
@@ -43,88 +43,88 @@ Laid before the National Assembly for Wales
 
 Coming into force in accordance with regulation 2
 
-[^key-5da96355c6a1c6d7110e6de6bbed4b23]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5da96355c6a1c6d7110e6de6bbed4b23]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title[^key-5da96355c6a1c6d7110e6de6bbed4b23]
+## 1. Title[^c-5da96355c6a1c6d7110e6de6bbed4b23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Commencement[^key-5da96355c6a1c6d7110e6de6bbed4b23]
+## 2. Commencement[^c-5da96355c6a1c6d7110e6de6bbed4b23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Accounts and Audit (Wales) Regulations 2005[^key-5da96355c6a1c6d7110e6de6bbed4b23]
+## 3. Amendment of the Accounts and Audit (Wales) Regulations 2005[^c-5da96355c6a1c6d7110e6de6bbed4b23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Interpretation and application[^key-5da96355c6a1c6d7110e6de6bbed4b23]
+## 4. Interpretation and application[^c-5da96355c6a1c6d7110e6de6bbed4b23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Accounting records and control systems[^key-5da96355c6a1c6d7110e6de6bbed4b23]
+## 5. Accounting records and control systems[^c-5da96355c6a1c6d7110e6de6bbed4b23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Statement of accounts[^key-5da96355c6a1c6d7110e6de6bbed4b23]
+## 6. Statement of accounts[^c-5da96355c6a1c6d7110e6de6bbed4b23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Declaration of remuneration[^key-5da96355c6a1c6d7110e6de6bbed4b23]
+## 7. Declaration of remuneration[^c-5da96355c6a1c6d7110e6de6bbed4b23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Internal drainage boards[^key-5da96355c6a1c6d7110e6de6bbed4b23]
+## 8. Internal drainage boards[^c-5da96355c6a1c6d7110e6de6bbed4b23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Other accounting statements[^key-5da96355c6a1c6d7110e6de6bbed4b23]
+## 9. Other accounting statements[^c-5da96355c6a1c6d7110e6de6bbed4b23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Preparation and signing of statement of accounts etc[^key-5da96355c6a1c6d7110e6de6bbed4b23]
+## 10. Preparation and signing of statement of accounts etc[^c-5da96355c6a1c6d7110e6de6bbed4b23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Approval of statement of accounts[^key-5da96355c6a1c6d7110e6de6bbed4b23]
+## 11. Approval of statement of accounts[^c-5da96355c6a1c6d7110e6de6bbed4b23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Publication of statement of accounts etc[^key-5da96355c6a1c6d7110e6de6bbed4b23]
+## 12. Publication of statement of accounts etc[^c-5da96355c6a1c6d7110e6de6bbed4b23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Publication of income and expenditure account and receipts and payments[^key-5da96355c6a1c6d7110e6de6bbed4b23]
+## 13. Publication of income and expenditure account and receipts and payments[^c-5da96355c6a1c6d7110e6de6bbed4b23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Written notice of proposed objection[^key-5da96355c6a1c6d7110e6de6bbed4b23]
+## 14. Written notice of proposed objection[^c-5da96355c6a1c6d7110e6de6bbed4b23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Notice of conclusion of audit[^key-5da96355c6a1c6d7110e6de6bbed4b23]
+## 15. Notice of conclusion of audit[^c-5da96355c6a1c6d7110e6de6bbed4b23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Joint committees etc[^key-5da96355c6a1c6d7110e6de6bbed4b23]
+## 16. Joint committees etc[^c-5da96355c6a1c6d7110e6de6bbed4b23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Offences[^key-5da96355c6a1c6d7110e6de6bbed4b23]
+## 17. Offences[^c-5da96355c6a1c6d7110e6de6bbed4b23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Transitional provision[^key-5da96355c6a1c6d7110e6de6bbed4b23]
+## 18. Transitional provision[^c-5da96355c6a1c6d7110e6de6bbed4b23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5da96355c6a1c6d7110e6de6bbed4b23]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5da96355c6a1c6d7110e6de6bbed4b23]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5da96355c6a1c6d7110e6de6bbed4b23]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5da96355c6a1c6d7110e6de6bbed4b23]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5da96355c6a1c6d7110e6de6bbed4b23]: Textual amendment: Regulations revoked (31.3.2015) by [The Accounts and Audit (Wales) Regulations 2014 (S.I. 2014/3362)](https://www.legislation.gov.uk/uksi/2014/3362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3362/regulation/1/1), [30(1)(c)](https://www.legislation.gov.uk/uksi/2014/3362/regulation/30/1/c) (with [reg. 30(2)](https://www.legislation.gov.uk/uksi/2014/3362/regulation/30/2))
+[^c-5da96355c6a1c6d7110e6de6bbed4b23]: Textual amendment: Regulations revoked (31.3.2015) by [The Accounts and Audit (Wales) Regulations 2014 (S.I. 2014/3362)](https://www.legislation.gov.uk/uksi/2014/3362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3362/regulation/1/1), [30(1)(c)](https://www.legislation.gov.uk/uksi/2014/3362/regulation/30/1/c) (with [reg. 30(2)](https://www.legislation.gov.uk/uksi/2014/3362/regulation/30/2))

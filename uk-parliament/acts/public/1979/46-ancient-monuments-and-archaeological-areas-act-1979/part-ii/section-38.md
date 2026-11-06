@@ -35,7 +35,7 @@ the investigating authority shall have a right to carry out excavations in the s
 (3) The investigating authority shall only have a right to excavate the site of any operations in accordance with subsection (2) above if before the end of the period of four weeks beginning with the date of service of the operations notice the authority—
 
 - (a) serves notice in the prescribed form of its intention to excavate on the developer; and
-- (b) serves a copy of that notice on any council (in England [^key-c6494f24b8ee0639f719c488fe02c3bd]...) or local authority (in Scotland) served with the operations notice and also (unless the functions of the investigating authority are for the time being exercisable by the Secretary of State) on the Secretary of State; and[^c251026]
+- (b) serves a copy of that notice on any council (in England [^c-c6494f24b8ee0639f719c488fe02c3bd]...) or local authority (in Scotland) served with the operations notice and also (unless the functions of the investigating authority are for the time being exercisable by the Secretary of State) on the Secretary of State; and[^c251026]
 - (c) where the site in question is situated in England, serves a copy of that notice on the Commission (unless the investigating authority is for the time being the Commission).
 
 (4) The period allowed for excavation under subsection (2) above is the period of four months and two weeks beginning—
@@ -67,7 +67,7 @@ The Secretary of State shall consult with the Commission before giving, varying 
 (9) On giving a direction under subsection (8) above the Secretary of State shall serve a copy of the direction on each of the following persons, that is to say—
 
 - (a) the investigating authority;
-- (b) any council (in England [^key-5573af415f8d9b320806dac6994c8caf]...) or local authority (in Scotland) served with the operations notice in question;
+- (b) any council (in England [^c-5573af415f8d9b320806dac6994c8caf]...) or local authority (in Scotland) served with the operations notice in question;
 - (c) the developer; and
 - (d) any person other than the developer by whom the certificate accompanying the operations notice in accordance with section 35(4)(b) of this Act was issued;
 
@@ -79,12 +79,12 @@ and on varying or revoking any such direction the Secretary of State shall notif
 
 ## Annotations
 
-[^key-c6494f24b8ee0639f719c488fe02c3bd]: Textual amendment: Words in [s. 38(3)(b)](https://www.legislation.gov.uk/ukpga/1979/46/section/38/3/b) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 37(a)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/37/a) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d)
+[^c-c6494f24b8ee0639f719c488fe02c3bd]: Textual amendment: Words in [s. 38(3)(b)](https://www.legislation.gov.uk/ukpga/1979/46/section/38/3/b) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 37(a)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/37/a) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d)
 
 [^c251026]: Textual amendment: [S. 38(3)](https://www.legislation.gov.uk/ukpga/1979/46/section/38/3)(*c*) inserted by [National Heritage Act 1983 (c. 47, SIF 78)](https://www.legislation.gov.uk/ukpga/1983/47), [s. 41](https://www.legislation.gov.uk/ukpga/1983/47/section/41), [Sch. 4 para. 57(2)(5)](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/57/2/5)
 
 [^c251027]: Textual amendment: Words inserted by [National Heritage Act 1983 (c. 47, SIF 78)](https://www.legislation.gov.uk/ukpga/1983/47), [s. 41](https://www.legislation.gov.uk/ukpga/1983/47/section/41), [Sch. 4 para. 57(3)](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/57/3)
 
-[^key-5573af415f8d9b320806dac6994c8caf]: Textual amendment: Words in [s. 38(9)(b)](https://www.legislation.gov.uk/ukpga/1979/46/section/38/9/b) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 37(b)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/37/b) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d)
+[^c-5573af415f8d9b320806dac6994c8caf]: Textual amendment: Words in [s. 38(9)(b)](https://www.legislation.gov.uk/ukpga/1979/46/section/38/9/b) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 37(b)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/37/b) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d)
 
 [^c251028]: Textual amendment: [S. 38(10)(11)](https://www.legislation.gov.uk/ukpga/1979/46/section/38/10/11) inserted by [National Heritage Act 1983 (c. 47, SIF 78)](https://www.legislation.gov.uk/ukpga/1983/47), [s. 41](https://www.legislation.gov.uk/ukpga/1983/47/section/41), [Sch. 4 para. 57(4)](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/57/4)

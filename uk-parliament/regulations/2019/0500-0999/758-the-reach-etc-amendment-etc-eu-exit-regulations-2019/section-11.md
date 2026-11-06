@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Amendment of the EEA agreement[^key-1d5a40c1a669da065becbddcfe368345]
+## 11. Amendment of the EEA agreement[^c-1d5a40c1a669da065becbddcfe368345]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The EEA agreement is amended in accordance with Schedule 9.
 
 ## Annotations
 
-[^key-1d5a40c1a669da065becbddcfe368345]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-1d5a40c1a669da065becbddcfe368345]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)

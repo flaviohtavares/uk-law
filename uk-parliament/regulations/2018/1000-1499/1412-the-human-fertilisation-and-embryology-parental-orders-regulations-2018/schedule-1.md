@@ -22,9 +22,9 @@ summary: ''
 
 Regulation 2
 
-**1.**[^key-027c088502a6c882b89f69677e48b05e] The provisions of the 2002 Act set out in the following paragraphs have effect in relation to parental orders and applications for parental orders subject to the modifications set out in those paragraphs.
+**1.**[^c-027c088502a6c882b89f69677e48b05e] The provisions of the 2002 Act set out in the following paragraphs have effect in relation to parental orders and applications for parental orders subject to the modifications set out in those paragraphs.
 
-**2.**[^key-bf2e6e2878e119268920640a7b92c3ee] Section 1[^f00009] (considerations applying to the exercise of powers) is modified as follows—
+**2.**[^c-bf2e6e2878e119268920640a7b92c3ee] Section 1[^f00009] (considerations applying to the exercise of powers) is modified as follows—
 
 - (a) the words “or adoption agency” were omitted in each place they appear;
 - (b) in subsection (1), for “the adoption of” there were substituted “the making of a parental order in relation to”;
@@ -43,9 +43,9 @@ Regulation 2
   - (iii) the words “adoption agency or” in paragraph (b) were omitted; and
   - (iv) at the end the words “as modified” were inserted.
 
-**3.**[^key-b5bdf86866fc5c7d8c2ac83f27938900] Section 2(5)[^f00010] has effect in respect of a parental order without modification.
+**3.**[^c-b5bdf86866fc5c7d8c2ac83f27938900] Section 2(5)[^f00010] has effect in respect of a parental order without modification.
 
-**4.**[^key-af85d4065747f771de7da5367e0c7ba5] (1) Section 36(1), (4), (6) and (7) (restrictions on removal) is modified as follows.
+**4.**[^c-af85d4065747f771de7da5367e0c7ba5] (1) Section 36(1), (4), (6) and (7) (restrictions on removal) is modified as follows.
 
 (2) Where an application for a parental order is made under section 54 of the 2008 Act (parental orders: two applicants), subsection (1) is to be read as if—
 
@@ -71,9 +71,9 @@ Regulation 2
 
 (6) Subsection (7) has effect as if for “This group of sections applies” there were substituted “This section and section 37 (as applied with modifications by regulation 2 of and Schedule 1 to the Parental Order Regulations) apply”.
 
-**5.**[^key-63331be31041e04dc5a021e145c08863] Section 37[^f00011] (applicants for adoption) has effect in respect of a parental order as if for “section 36(1)(a),” there were substituted “section 36(1) (as applied with modifications by regulation 2 of and Schedule 1 to the Parental Order Regulations)”.
+**5.**[^c-63331be31041e04dc5a021e145c08863] Section 37[^f00011] (applicants for adoption) has effect in respect of a parental order as if for “section 36(1)(a),” there were substituted “section 36(1) (as applied with modifications by regulation 2 of and Schedule 1 to the Parental Order Regulations)”.
 
-**6.**[^key-014d86476022439b8af28ccfe1282d46] (1) Section 41 (recovery orders) is modified as follows.
+**6.**[^c-014d86476022439b8af28ccfe1282d46] (1) Section 41 (recovery orders) is modified as follows.
 
 (2) Subsection (1) has effect as if—
 
@@ -89,7 +89,7 @@ Regulation 2
 - (a) after “subsection (2)” there were inserted “(as applied with modifications by regulation 2 of and Schedule 1 to the Parental Order Regulations)”; and
 - (b) paragraph (c) were omitted.
 
-**7.**[^key-5a50157ff88391262fa82c505150a7ee] (1) Section 46(1) to (4) (adoption orders) is modified as follows.
+**7.**[^c-5a50157ff88391262fa82c505150a7ee] (1) Section 46(1) to (4) (adoption orders) is modified as follows.
 
 (2) Subsection (1) has effect as if it were substituted with—
 
@@ -108,7 +108,7 @@ Regulation 2
 - (a) in the opening words, for “an adoption” there were substituted “a parental”; and
 - (b) paragraph (b) were omitted.
 
-**8.**[^key-f627beb32bc5e73df92ee7c2729c8ec9] (1) Section 48 (restrictions on making adoption orders) is modified as follows.
+**8.**[^c-f627beb32bc5e73df92ee7c2729c8ec9] (1) Section 48 (restrictions on making adoption orders) is modified as follows.
 
 (2) Subsection (1) Act has effect as if—
 
@@ -117,7 +117,7 @@ Regulation 2
 
 (3) Subsection (2) has effect as if for paragraphs (a) and (b) there were substituted “for a parental order.”.
 
-**9.**[^key-80461484174f2533c9e7ea736c4dfe59] (1) Section 60(1) and (4)[^f00012] (disclosing information to adopted child) is modified as follows.
+**9.**[^c-80461484174f2533c9e7ea736c4dfe59] (1) Section 60(1) and (4)[^f00012] (disclosing information to adopted child) is modified as follows.
 
 (2) Subsection (1) has effect as if for “an adopted person” there were substituted “a person in relation to whom a parental order was made and”;
 
@@ -134,12 +134,12 @@ Regulation 2
 
   .
 
-**10.**[^key-945ec93261167c3ea178fc718c69f67f] Section 64(1)[^f00013] (other provisions to be made by regulations) has effect as if—
+**10.**[^c-945ec93261167c3ea178fc718c69f67f] Section 64(1)[^f00013] (other provisions to be made by regulations) has effect as if—
 
 - (a) for “this group of sections” there were substituted “the provisions of this Part in relation to the provision of information”; and
 - (b) paragraphs (a) and (c) were omitted.
 
-**11.**[^key-480afe96ffe6ec4fef50f854f8782783] Section 65 (sections 56 to 65: interpretation) has effect as if there were substituted—
+**11.**[^c-480afe96ffe6ec4fef50f854f8782783] Section 65 (sections 56 to 65: interpretation) has effect as if there were substituted—
 
 > **65. Sections 56 to 65; interpretation**
 >
@@ -147,7 +147,7 @@ Regulation 2
 
 .
 
-**12.**[^key-cdf8d503882e31a3df4c0a4d7f306a17] Section 67 has effect as if there were substituted—
+**12.**[^c-cdf8d503882e31a3df4c0a4d7f306a17] Section 67 has effect as if there were substituted—
 
 > **67. Status conferred by the grant of a parental order**
 >
@@ -166,9 +166,9 @@ Regulation 2
 
 .
 
-**13.**[^key-471973b5cb8c7bbfa937157bf1b3c17f] Section 68(3) (adoptive relatives) has effect as if it applies in the case of a parental order under section 54 of the 2008 Act as if for the words from “adoptive mother” onwards there were substituted “mother and father of a child who is the subject of a parental order obtained by two persons of the same sex is to be read as a reference to the child’s parents”.
+**13.**[^c-471973b5cb8c7bbfa937157bf1b3c17f] Section 68(3) (adoptive relatives) has effect as if it applies in the case of a parental order under section 54 of the 2008 Act as if for the words from “adoptive mother” onwards there were substituted “mother and father of a child who is the subject of a parental order obtained by two persons of the same sex is to be read as a reference to the child’s parents”.
 
-**14.**[^key-4b81b4ce6e57ec07f33a9671c1c57e19] (1) Section 69 (rules of interpretation for instruments concerning property) Act is modified as follows.
+**14.**[^c-4b81b4ce6e57ec07f33a9671c1c57e19] (1) Section 69 (rules of interpretation for instruments concerning property) Act is modified as follows.
 
 (2) Subsection (1) has effect as if the words “and to Schedule 4” were omitted.
 
@@ -197,28 +197,28 @@ Regulation 2
   - (ii) in the case of a parental order obtained under section 54 of the 2008 Act, for the words from “as her child” to “the instrument” there were substituted “for the purposes of the instrument as her child or as the child of the person with whom she obtained the order under section 54 of the 2008 Act”; and
   - (iii) in the case of a parental order obtained under section 54A of the 2008, the words following “as her child” up to and including “one of the couple” were omitted.
 
-**15.**[^key-f28728d9135e0498a8e82c9c0aa31722] Section 71 (property devolving with peerages etc) has effect as if—
+**15.**[^c-f28728d9135e0498a8e82c9c0aa31722] Section 71 (property devolving with peerages etc) has effect as if—
 
 - (a) for the words “an adoption” in each place they appear there were substituted “a parental order”; and
 - (b) in subsection (3) after “Subsection (2)” there were inserted “(as applied with modifications by regulation 2 of and Schedule 1 to the Parental Order Regulations)”.
 
-**16.**[^key-afdb52b400cde854e21207d6969f3db6] Section 73 (meaning of disposition) has effect as if in subsections (1) and (3), after the words “this Chapter” there were inserted “(as applied with modifications by regulation 2 of and Schedule 1 to the Parental Order Regulations)”.
+**16.**[^c-afdb52b400cde854e21207d6969f3db6] Section 73 (meaning of disposition) has effect as if in subsections (1) and (3), after the words “this Chapter” there were inserted “(as applied with modifications by regulation 2 of and Schedule 1 to the Parental Order Regulations)”.
 
-**17.**[^key-737efe3d210668558b4c4742bbf6109e] Section 74[^f00014] (miscellaneous enactments) has effect as if—
+**17.**[^c-737efe3d210668558b4c4742bbf6109e] Section 74[^f00014] (miscellaneous enactments) has effect as if—
 
 - (a) after the words “Section 67” in both places they appear there were inserted “(as applied with modifications by regulation 2 of and Schedule 1 to the Parental Order Regulations)”; and
 - (b) in subsection (1) after “not apply” there were inserted “so as to prevent a child to whom a parental order applies from continuing to be treated as the child of a person who was in law the child’s parent before the order was made”.
 
-**18.**[^key-1fd9a65d8ed66252cebaba1634be65ca] Section 75 (pensions) has effect as if for “person’s adoption” there were substituted “making of a parental order in respect of that person”.
+**18.**[^c-1fd9a65d8ed66252cebaba1634be65ca] Section 75 (pensions) has effect as if for “person’s adoption” there were substituted “making of a parental order in respect of that person”.
 
-**19.**[^key-3bb4b383c33a57a0ec17fc9184dec572] Section 76(1) (insurance) has effect as if—
+**19.**[^c-3bb4b383c33a57a0ec17fc9184dec572] Section 76(1) (insurance) has effect as if—
 
 - (a) for “is adopted whose” there were substituted “is a child to whom a parental order applies and the child’s”;
 - (b) for “adoption” there were substituted “parental order”;
 - (c) for the words “adoptive parents” in both places they appear there were substituted “person or persons (as the case may be) who obtained the parental order”; and
 - (d) in paragraph (b), for “are to be” there were substituted “are or is to be”.
 
-**20.**[^key-c779b8ab07c3596d7ba0a3ebcb6d9f39] (1) Section 77 (adopted children register) is modified as follows.
+**20.**[^c-c779b8ab07c3596d7ba0a3ebcb6d9f39] (1) Section 77 (adopted children register) is modified as follows.
 
 (2) Section 77 has effect as if for the words “Adopted Children Register” in each place they appear there were substituted “Parental Order Register”.
 
@@ -233,12 +233,12 @@ Regulation 2
 
 (6) Subsection (6) has effect as if for “adoptions” and for “adoption orders” there were substituted “parental orders”.
 
-**21.**[^key-de3ba4312313032b0f05cb7fe80953e0] Section 78 has effect as if—
+**21.**[^c-de3ba4312313032b0f05cb7fe80953e0] Section 78 has effect as if—
 
 - (a) for the words “Adopted Children Register” in each place they appear there were substituted “Parental Order Register”; and
 - (b) in subsection (3) for “an adopted person” there were substituted “a person who is the subject of a parental order”.
 
-**22.**[^key-2cc202c41766a423a9111b9db100ade1] (1) Section 79[^f00015](1) to (3) and (7) to (9) (connections between the register and birth records) is modified as follows.
+**22.**[^c-2cc202c41766a423a9111b9db100ade1] (1) Section 79[^f00015](1) to (3) and (7) to (9) (connections between the register and birth records) is modified as follows.
 
 (2) Subsection (1) has effect as if—
 
@@ -262,9 +262,9 @@ Regulation 2
 
 (7) Subsection (9) has effect as if the definition of “appointed day” were omitted.
 
-**23.**[^key-3a7f564823d0ee63684d95da181f19de] Section 82 (interpretation) has effect in respect of parental orders without modification.
+**23.**[^c-3a7f564823d0ee63684d95da181f19de] Section 82 (interpretation) has effect in respect of parental orders without modification.
 
-**24.**[^key-f26e91ebd3e250ccb285ca5d6f7a9a71] (1) Section 83[^f00016](1), (5) and (7) to (9) (restriction on bringing children in) is modified as follows.
+**24.**[^c-f26e91ebd3e250ccb285ca5d6f7a9a71] (1) Section 83[^f00016](1), (5) and (7) to (9) (restriction on bringing children in) is modified as follows.
 
 (2) Subsection (1) has effect as if—
 
@@ -281,9 +281,9 @@ Regulation 2
 
 (5) Subsection (9) has effect as if the words “after consultation with the Assembly” were omitted.
 
-**25.**[^key-811b8a9aae4d1e0a3433d77221bb0aa6] Section 101(1) (privacy) has effect as if after “this Act” there were inserted “(as applied with modifications by regulation 2 of and Schedule 1 to the Parental Order Regulations)”.
+**25.**[^c-811b8a9aae4d1e0a3433d77221bb0aa6] Section 101(1) (privacy) has effect as if after “this Act” there were inserted “(as applied with modifications by regulation 2 of and Schedule 1 to the Parental Order Regulations)”.
 
-**26.**[^key-2da1f3d86b080072f9680c76695ff128] (1) Section 102[^f00017](1) to (4) and (6) to (8) (officers of the service) is modified as follows.
+**26.**[^c-2da1f3d86b080072f9680c76695ff128] (1) Section 102[^f00017](1) to (4) and (6) to (8) (officers of the service) is modified as follows.
 
 (2) The provisions described in paragraphs (1) and (3) have effect as if for the words “placement or adoption” there were substituted “a parental order”.
 
@@ -295,11 +295,11 @@ Regulation 2
 
 .
 
-**27.**[^key-f77d3dee55611a32f3a02e2932155109] (1) Section 104(1) (evidence of consent) has effect as if after “this Part” there were inserted “(as applied with modifications by regulation 2 of and Schedule 1 to the Parental Order Regulations or by section 54(6) or section 54A(5) of the 2008 Act)”.
+**27.**[^c-f77d3dee55611a32f3a02e2932155109] (1) Section 104(1) (evidence of consent) has effect as if after “this Part” there were inserted “(as applied with modifications by regulation 2 of and Schedule 1 to the Parental Order Regulations or by section 54(6) or section 54A(5) of the 2008 Act)”.
 
 (2) Section 104(2) has effect without modification.
 
-**28.**[^key-331cbee750806fc66bdde1737d7e3e05] (1) Section 105[^f00018](3) and (4) (effect of certain Scottish orders and provisions) is modified as follows.
+**28.**[^c-331cbee750806fc66bdde1737d7e3e05] (1) Section 105[^f00018](3) and (4) (effect of certain Scottish orders and provisions) is modified as follows.
 
 (2) Section 105(3) has effect as if after “(3A)” there were inserted “(as applied with modifications by regulation 3 of and Schedule 2 to the Parental Order Regulations)”.
 
@@ -308,7 +308,7 @@ Regulation 2
 - (a) after “certain provisions)” there were inserted “(as applied with modifications by regulation 3 of and Schedule 2 to the Parental Order Regulations)”; and
 - (b) after “this Act” there were inserted “(as applied with modifications by regulation 2 of and Schedule 1 to the Parental Order Regulations)”;
 
-**29.**[^key-2f72bf4345cb70adb2258e93d9ed4f23] (1) Section 106(3) and (4) (effect of certain Northern Irish orders and provisions) is modified as follows.
+**29.**[^c-2f72bf4345cb70adb2258e93d9ed4f23] (1) Section 106(3) and (4) (effect of certain Northern Irish orders and provisions) is modified as follows.
 
 (2) Subsection (3) applies as if—
 
@@ -321,13 +321,13 @@ Regulation 2
 - (a) after “remove child)” there were inserted “(as applied with modifications by regulation 4 of and Schedule 3 to the Parental Order Regulations)”; and
 - (b) after “this Act” there were inserted “(as applied with modifications by regulation 2 of and Schedule 1 to the Parental Order Regulations)”.
 
-**30.**[^key-2f64f62d4e183a908200c8a8eee1153c] (1) Section 107[^f00019] (use of adoption records from other parts of the British Islands) has effect as if—
+**30.**[^c-2f64f62d4e183a908200c8a8eee1153c] (1) Section 107[^f00019] (use of adoption records from other parts of the British Islands) has effect as if—
 
 - (a) in subsection (a), after “as evidence”) there were inserted “(as applied with modifications by regulation 3 of and Schedule 2 to the Parental Order Regulations)”;
 - (b) in subsection (b), after “Order 1987” there were inserted “(as applied with modifications by regulation 4 of and Schedule 3 to the Parental Order Regulations)”; and
 - (c) in subsection (c), after “this Act” there were inserted “(as applied with modifications by regulation 2 of and Schedule 1 to the Parental Order Regulations)”.
 
-**31.**[^key-93e3b3e02e47c0ff3f399d2d208b96ea] (1) Section 140[^f00020](1), (2) and (7) to (9) (orders, rules and regulations) is modified as follows.
+**31.**[^c-93e3b3e02e47c0ff3f399d2d208b96ea] (1) Section 140[^f00020](1), (2) and (7) to (9) (orders, rules and regulations) is modified as follows.
 
 (2) The provisions referred to in sub-paragraph (1) apply as if after the words “this Act” in each place they appear there were inserted “(as applied with modifications by regulation 2 of and Schedule 1 to the Parental Order Regulations)”.
 
@@ -335,7 +335,7 @@ Regulation 2
 
 (4) Subsection (2) has effect as if the words “(other than section 14 or 148 or an instrument to which subsection (3) applies)” were omitted.
 
-**32.**[^key-3fa411d0d1921be14e4e91061a223cb4] (1) Section 141 (rules of procedure) is modified as follows.
+**32.**[^c-3fa411d0d1921be14e4e91061a223cb4] (1) Section 141 (rules of procedure) is modified as follows.
 
 (2) In subsection (3)—
 
@@ -348,7 +348,7 @@ Regulation 2
 
 .
 
-**33.**[^key-1e054d425082c68e6991c74e095ffcbe] (1) Section 144(1) and (2) (general interpretation) has effect as if—
+**33.**[^c-1e054d425082c68e6991c74e095ffcbe] (1) Section 144(1) and (2) (general interpretation) has effect as if—
 
 - (a) after the words “this Act” in each place they appear there were inserted “(as applied with modifications by regulation 2 of and Schedule 1 to the Parental Order Regulations)”;
 - (b) before the definition of “appropriate Minister” there were inserted ““the 2008 Act” means the Human Fertilisation and Embryology Act 2008,”; and
@@ -361,7 +361,7 @@ Regulation 2
 - (d) in the definition of “regulations” for the words from “the appropriate Minister” to “the Registrar General” there were substituted “the Secretary of State, unless they are required to be made by the Registrar General”;
 - (e) for the definition of “rules” there were substituted ““rules” means rules made by virtue of section 141(1) (as applied with modifications by regulation 2 of and Schedule 1 to the Parental Order Regulations),”.
 
-**34.**[^key-43a3737740c2cfb9e7316a0bd342a428] (1) Paragraph 1 of Schedule 1 (registrations of adoption orders) has effect as if—
+**34.**[^c-43a3737740c2cfb9e7316a0bd342a428] (1) Paragraph 1 of Schedule 1 (registrations of adoption orders) has effect as if—
 
 - (a) in sub-paragraph (1)—
   - (i) for “adoption order” there were substituted “parental order”; and
@@ -373,7 +373,7 @@ Regulation 2
 - (c) sub-paragraph (3) were omitted; and
 - (d) in sub-paragraph (4) for “an adoption order” there were substituted “a parental order”.
 
-**35.**[^key-00609a66fa6e3a461598fda3f4d769bd] (1) Paragraph 2 of Schedule 1 (registration of adoptions in Scotland, Northern Ireland, the Isle of Man and the Channel Islands) has effect as if—
+**35.**[^c-00609a66fa6e3a461598fda3f4d769bd] (1) Paragraph 2 of Schedule 1 (registration of adoptions in Scotland, Northern Ireland, the Isle of Man and the Channel Islands) has effect as if—
 
 - (a) in sub-paragraph (1)—
   - (i) for “Sub-paragraphs (2) and (3)” there were substituted “Sub-paragraph (2) (as applied with modifications by regulation 2 of and Schedule 1 to the Parental Order Regulations)”;
@@ -386,7 +386,7 @@ Regulation 2
 - (d) in sub-paragraph (4) for “in sub-paragraphs (2) and (3)” there were substituted “in sub-paragraph (2) (as applied with modifications by regulation 2 of and Schedule 1 to the Parental Order Regulations)”; and
 - (e) in sub-paragraph (5) after “sub-paragraph (4)” there were inserted “(as applied with modifications by regulation 2 of and Schedule 1 to the Parental Order Regulations)”.
 
-**36.**[^key-445546bce61dd354b67369233589aaf9] (1) Paragraph 4 of Schedule 1 (amendment of orders and rectification of Registers and other records) has effect as if—
+**36.**[^c-445546bce61dd354b67369233589aaf9] (1) Paragraph 4 of Schedule 1 (amendment of orders and rectification of Registers and other records) has effect as if—
 
 - (a) for the words “an adoption order” in each place they appear there were substituted “a parental order”;
 - (b) for the words “Adopted Children Register” in each place they appear there were substituted “Parental Order Register”;
@@ -402,98 +402,98 @@ Regulation 2
 
 ## Annotations
 
-[^key-027c088502a6c882b89f69677e48b05e]: Commencement: Sch. 1 para. 1 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-027c088502a6c882b89f69677e48b05e]: Commencement: Sch. 1 para. 1 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
-[^key-bf2e6e2878e119268920640a7b92c3ee]: Commencement: Sch. 1 para. 2 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-bf2e6e2878e119268920640a7b92c3ee]: Commencement: Sch. 1 para. 2 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
 [^f00009]: Footnote: Section 1 was amended by sections 3 and 9 of the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6) and section 9 of the Children and Social Work Act [2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16).
 
-[^key-b5bdf86866fc5c7d8c2ac83f27938900]: Commencement: Sch. 1 para. 3 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-b5bdf86866fc5c7d8c2ac83f27938900]: Commencement: Sch. 1 para. 3 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
 [^f00010]: Footnote: Section 2 has been amended by no amendments are relevant to this instrument.
 
-[^key-af85d4065747f771de7da5367e0c7ba5]: Commencement: Sch. 1 para. 4 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-af85d4065747f771de7da5367e0c7ba5]: Commencement: Sch. 1 para. 4 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
-[^key-63331be31041e04dc5a021e145c08863]: Commencement: Sch. 1 para. 5 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-63331be31041e04dc5a021e145c08863]: Commencement: Sch. 1 para. 5 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
 [^f00011]: Footnote: Section 37 was amended by regulation 193 of [S.I. 2016/413](https://www.legislation.gov.uk/uksi/2016/413).
 
-[^key-014d86476022439b8af28ccfe1282d46]: Commencement: Sch. 1 para. 6 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-014d86476022439b8af28ccfe1282d46]: Commencement: Sch. 1 para. 6 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
-[^key-5a50157ff88391262fa82c505150a7ee]: Commencement: Sch. 1 para. 7 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-5a50157ff88391262fa82c505150a7ee]: Commencement: Sch. 1 para. 7 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
-[^key-f627beb32bc5e73df92ee7c2729c8ec9]: Commencement: Sch. 1 para. 8 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-f627beb32bc5e73df92ee7c2729c8ec9]: Commencement: Sch. 1 para. 8 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
-[^key-80461484174f2533c9e7ea736c4dfe59]: Commencement: Sch. 1 para. 9 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-80461484174f2533c9e7ea736c4dfe59]: Commencement: Sch. 1 para. 9 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
 [^f00012]: Footnote: Section 60 has been amended, but those amendments are not relevant to this instrument.
 
-[^key-945ec93261167c3ea178fc718c69f67f]: Commencement: Sch. 1 para. 10 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-945ec93261167c3ea178fc718c69f67f]: Commencement: Sch. 1 para. 10 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
 [^f00013]: Footnote: Section 64 was amended by section 79 of the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33).
 
-[^key-480afe96ffe6ec4fef50f854f8782783]: Commencement: Sch. 1 para. 11 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-480afe96ffe6ec4fef50f854f8782783]: Commencement: Sch. 1 para. 11 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
-[^key-cdf8d503882e31a3df4c0a4d7f306a17]: Commencement: Sch. 1 para. 12 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-cdf8d503882e31a3df4c0a4d7f306a17]: Commencement: Sch. 1 para. 12 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
-[^key-471973b5cb8c7bbfa937157bf1b3c17f]: Commencement: Sch. 1 para. 13 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-471973b5cb8c7bbfa937157bf1b3c17f]: Commencement: Sch. 1 para. 13 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
-[^key-4b81b4ce6e57ec07f33a9671c1c57e19]: Commencement: Sch. 1 para. 14 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-4b81b4ce6e57ec07f33a9671c1c57e19]: Commencement: Sch. 1 para. 14 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
-[^key-f28728d9135e0498a8e82c9c0aa31722]: Commencement: Sch. 1 para. 15 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-f28728d9135e0498a8e82c9c0aa31722]: Commencement: Sch. 1 para. 15 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
-[^key-afdb52b400cde854e21207d6969f3db6]: Commencement: Sch. 1 para. 16 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-afdb52b400cde854e21207d6969f3db6]: Commencement: Sch. 1 para. 16 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
-[^key-737efe3d210668558b4c4742bbf6109e]: Commencement: Sch. 1 para. 17 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-737efe3d210668558b4c4742bbf6109e]: Commencement: Sch. 1 para. 17 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
 [^f00014]: Footnote: Section 74 was amended by paragraph 47 of Schedule 6 to the Sexual Offences Act [2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42) and section 79 of the Civil Partnership Act 2004.
 
-[^key-1fd9a65d8ed66252cebaba1634be65ca]: Commencement: Sch. 1 para. 18 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-1fd9a65d8ed66252cebaba1634be65ca]: Commencement: Sch. 1 para. 18 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
-[^key-3bb4b383c33a57a0ec17fc9184dec572]: Commencement: Sch. 1 para. 19 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-3bb4b383c33a57a0ec17fc9184dec572]: Commencement: Sch. 1 para. 19 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
-[^key-c779b8ab07c3596d7ba0a3ebcb6d9f39]: Commencement: Sch. 1 para. 20 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-c779b8ab07c3596d7ba0a3ebcb6d9f39]: Commencement: Sch. 1 para. 20 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
-[^key-de3ba4312313032b0f05cb7fe80953e0]: Commencement: Sch. 1 para. 21 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-de3ba4312313032b0f05cb7fe80953e0]: Commencement: Sch. 1 para. 21 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
-[^key-2cc202c41766a423a9111b9db100ade1]: Commencement: Sch. 1 para. 22 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-2cc202c41766a423a9111b9db100ade1]: Commencement: Sch. 1 para. 22 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
 [^f00015]: Footnote: Section 79 was amended by section 79 of the Civil Partnership Act 2004, article 4 of [S.I. 2005/3542](https://www.legislation.gov.uk/uksi/2005/3542) and article 3 and Schedule 1 to [S.I. 2008/678](https://www.legislation.gov.uk/uksi/2008/678)
 
-[^key-3a7f564823d0ee63684d95da181f19de]: Commencement: Sch. 1 para. 23 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-3a7f564823d0ee63684d95da181f19de]: Commencement: Sch. 1 para. 23 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
-[^key-f26e91ebd3e250ccb285ca5d6f7a9a71]: Commencement: Sch. 1 para. 24 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-f26e91ebd3e250ccb285ca5d6f7a9a71]: Commencement: Sch. 1 para. 24 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
 [^f00016]: Footnote: Section 83 was amended by section 14 of the Children and Adoption Act [2006 (c. 20)](https://www.legislation.gov.uk/ukpga/2006/20).
 
-[^key-811b8a9aae4d1e0a3433d77221bb0aa6]: Commencement: Sch. 1 para. 25 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-811b8a9aae4d1e0a3433d77221bb0aa6]: Commencement: Sch. 1 para. 25 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
-[^key-2da1f3d86b080072f9680c76695ff128]: Commencement: Sch. 1 para. 26 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-2da1f3d86b080072f9680c76695ff128]: Commencement: Sch. 1 para. 26 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
 [^f00017]: Footnote: Section 102 has been amended, but those amendments are not relevant to this instrument.
 
-[^key-f77d3dee55611a32f3a02e2932155109]: Commencement: Sch. 1 para. 27 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-f77d3dee55611a32f3a02e2932155109]: Commencement: Sch. 1 para. 27 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
-[^key-331cbee750806fc66bdde1737d7e3e05]: Commencement: Sch. 1 para. 28 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-331cbee750806fc66bdde1737d7e3e05]: Commencement: Sch. 1 para. 28 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
 [^f00018]: Footnote: Section 105 was amended by paragraph 6 of Schedule 1 to [S.I. 2011/1740](https://www.legislation.gov.uk/uksi/2011/1740).
 
-[^key-2f72bf4345cb70adb2258e93d9ed4f23]: Commencement: Sch. 1 para. 29 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-2f72bf4345cb70adb2258e93d9ed4f23]: Commencement: Sch. 1 para. 29 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
-[^key-2f64f62d4e183a908200c8a8eee1153c]: Commencement: Sch. 1 para. 30 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-2f64f62d4e183a908200c8a8eee1153c]: Commencement: Sch. 1 para. 30 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
 [^f00019]: Footnote: Section 107 was amended by paragraph 6 of Schedule 1 to [S.I. 2011/1740](https://www.legislation.gov.uk/uksi/2011/1740).
 
-[^key-93e3b3e02e47c0ff3f399d2d208b96ea]: Commencement: Sch. 1 para. 31 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-93e3b3e02e47c0ff3f399d2d208b96ea]: Commencement: Sch. 1 para. 31 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
 [^f00020]: Footnote: Section 140 was amended by section 7 of the Children and Families Act 2014 and by section 15 of the Education and Adoption Act [2016 (c. 6)](https://www.legislation.gov.uk/ukpga/2016/6).
 
-[^key-3fa411d0d1921be14e4e91061a223cb4]: Commencement: Sch. 1 para. 32 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-3fa411d0d1921be14e4e91061a223cb4]: Commencement: Sch. 1 para. 32 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
-[^key-1e054d425082c68e6991c74e095ffcbe]: Commencement: Sch. 1 para. 33 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-1e054d425082c68e6991c74e095ffcbe]: Commencement: Sch. 1 para. 33 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
-[^key-43a3737740c2cfb9e7316a0bd342a428]: Commencement: Sch. 1 para. 34 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-43a3737740c2cfb9e7316a0bd342a428]: Commencement: Sch. 1 para. 34 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
-[^key-00609a66fa6e3a461598fda3f4d769bd]: Commencement: Sch. 1 para. 35 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-00609a66fa6e3a461598fda3f4d769bd]: Commencement: Sch. 1 para. 35 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
-[^key-445546bce61dd354b67369233589aaf9]: Commencement: Sch. 1 para. 36 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-445546bce61dd354b67369233589aaf9]: Commencement: Sch. 1 para. 36 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)

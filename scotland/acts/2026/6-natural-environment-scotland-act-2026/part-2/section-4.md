@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Policy statement on National Parks[^key-88c886599630ea87d4b64a06135bd9d7][^key-43b9e1c9396063f5fd6a5b27da119e87]
+## 4. Policy statement on National Parks[^c-88c886599630ea87d4b64a06135bd9d7][^c-43b9e1c9396063f5fd6a5b27da119e87]
 
 *Extent: S*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-88c886599630ea87d4b64a06135bd9d7]: Commencement: S. 4 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-88c886599630ea87d4b64a06135bd9d7]: Commencement: S. 4 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
 
-[^key-43b9e1c9396063f5fd6a5b27da119e87]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2026/6/section/4) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/b)
+[^c-43b9e1c9396063f5fd6a5b27da119e87]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2026/6/section/4) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/b)

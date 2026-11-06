@@ -22,7 +22,7 @@ summary: ''
 
 (Introduced by section 18)
 
-### 1. Part 3A of the 2013 Act[^key-a73c3ccb1cf4657d030692d49b7c68a7]
+### 1. Part 3A of the 2013 Act[^c-a73c3ccb1cf4657d030692d49b7c68a7]
 
 In the 2013 Act, after Part 3 insert—
 
@@ -321,7 +321,7 @@ In the 2013 Act, after Part 3 insert—
 > - (a) on the Commission’s website, and
 > - (b) in such other manner as the Commission considers appropriate.
 
-### 2. Related amendments[^key-ff181293be430b286b82ab502368de9e]
+### 2. Related amendments[^c-ff181293be430b286b82ab502368de9e]
 
 (1) The 2013 Act is amended in accordance with sub-paragraphs (2) to (6).
 
@@ -339,7 +339,7 @@ In the 2013 Act, after Part 3 insert—
 >
 > as it may determine to the extent so delegated.
 
-(4)[^key-6918d740c8cc38d105390d7955e5593c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-6918d740c8cc38d105390d7955e5593c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In section 71(4) (orders and regulations), after “section 45 or 75” insert “, or regulations made under section 49J”.
 
@@ -380,7 +380,7 @@ In the 2013 Act, after Part 3 insert—
 
 (7) In Schedule 1 to the Local Government and Elections (Wales) Act 2021, omit paragraph 13 (delegation of functions under that Schedule).
 
-### 3. Transitional provision[^key-85098f0036a795d45a84a43001bb091c]
+### 3. Transitional provision[^c-85098f0036a795d45a84a43001bb091c]
 
 (1) The Welsh Ministers must, whether or not the final report on the first boundary review conducted under Part 3A of the 2013 Act sets out changes that are required to be made to the constituencies for which Members of the Senedd are to be returned, make regulations under section 49J that set out, in accordance with the determinations in that report—
 
@@ -394,10 +394,10 @@ section 49J(1) of the 2013 Act is to be read accordingly.
 
 ## Annotations
 
-[^key-a73c3ccb1cf4657d030692d49b7c68a7]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/asc/2024/4/schedule/3/paragraph/1) in force at 24.8.2024, see [s. 25(2)(c)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/c)
+[^c-a73c3ccb1cf4657d030692d49b7c68a7]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/asc/2024/4/schedule/3/paragraph/1) in force at 24.8.2024, see [s. 25(2)(c)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/c)
 
-[^key-ff181293be430b286b82ab502368de9e]: Commencement: Sch. 3 para. 2 in force at 25.6.2024, see [s. 25(2)(c)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/c)
+[^c-ff181293be430b286b82ab502368de9e]: Commencement: Sch. 3 para. 2 in force at 25.6.2024, see [s. 25(2)(c)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/c)
 
-[^key-6918d740c8cc38d105390d7955e5593c]: Textual amendment: Sch. 3 para. 2(4) omitted (1.1.2025) by virtue of [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4), [Sch. 1 para. 2](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/2); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(b)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/b)
+[^c-6918d740c8cc38d105390d7955e5593c]: Textual amendment: Sch. 3 para. 2(4) omitted (1.1.2025) by virtue of [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4), [Sch. 1 para. 2](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/2); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(b)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/b)
 
-[^key-85098f0036a795d45a84a43001bb091c]: Commencement: Sch. 3 para. 3 in force at 25.6.2024, see [s. 25(2)(c)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/c)
+[^c-85098f0036a795d45a84a43001bb091c]: Commencement: Sch. 3 para. 3 in force at 25.6.2024, see [s. 25(2)(c)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/c)

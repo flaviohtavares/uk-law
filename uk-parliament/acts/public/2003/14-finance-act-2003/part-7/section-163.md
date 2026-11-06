@@ -36,7 +36,7 @@ summary: ''
 
 (2) Schedule 4C to that Act (transfers of value: attribution of gains to beneficiaries) is amended in accordance with Schedule 29 to this Act.
 
-(3)[^key-5c98a4664796f22721075e135f4878e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5c98a4664796f22721075e135f4878e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The following provisions have effect with respect to the coming into force of the amendments made by this section and Schedule 29—
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c98a4664796f22721075e135f4878e6]: Textual amendment: [S. 163(3)](https://www.legislation.gov.uk/ukpga/2003/14/section/163/3) omitted (with effect in accordance with Sch. 7 para. 115 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 114(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/114/c)
+[^c-5c98a4664796f22721075e135f4878e6]: Textual amendment: [S. 163(3)](https://www.legislation.gov.uk/ukpga/2003/14/section/163/3) omitted (with effect in accordance with Sch. 7 para. 115 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 114(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/114/c)

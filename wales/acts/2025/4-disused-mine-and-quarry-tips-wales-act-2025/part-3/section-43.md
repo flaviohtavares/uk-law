@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Reimbursement of owner’s expenses on cancellation of notice[^key-45f6e5c15d1dd6d93c90370a4bb8ab96]
+## 43. Reimbursement of owner’s expenses on cancellation of notice[^c-45f6e5c15d1dd6d93c90370a4bb8ab96]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45f6e5c15d1dd6d93c90370a4bb8ab96]: Commencement: S. 43 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-45f6e5c15d1dd6d93c90370a4bb8ab96]: Commencement: S. 43 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 53. Consideration by the Investigating Committee[^key-803dbc2585b03e1e6249dee7eacbf0f3][^key-ecf50cb902a5752e01e99791667cb45c]
+## 53. Consideration by the Investigating Committee[^c-803dbc2585b03e1e6249dee7eacbf0f3][^c-ecf50cb902a5752e01e99791667cb45c]
 
 *Extent: E+W+S*
 
@@ -35,7 +35,7 @@ the Committee must decide whether the allegation ought to be considered by the F
   - (iii) advice to any other person or other body involved in its investigation of the allegation on any issue arising out of, or related to, the allegation; and
 - (b) the Registrar must inform the person concerned and the person who made the allegation, if any, of the Investigating Committee’s decision and any action it is taking under sub-paragraph (a).
 
-(2A)[^key-6b9f81295bf379f8d8a94c97df720490] In deciding whether to give a warning or advice under paragraph (2), the Investigating Committee must have regard to the over-arching objective of the Council under article 6(1) (read with article 6(1A)).
+(2A)[^c-6b9f81295bf379f8d8a94c97df720490] In deciding whether to give a warning or advice under paragraph (2), the Investigating Committee must have regard to the over-arching objective of the Council under article 6(1) (read with article 6(1A)).
 
 (3) If the Investigating Committee determines that the allegation ought to be considered by the Fitness to Practise Committee or the person concerned has requested a referral under this paragraph—
 
@@ -47,8 +47,8 @@ the Committee must decide whether the allegation ought to be considered by the F
 
 ## Annotations
 
-[^key-803dbc2585b03e1e6249dee7eacbf0f3]: Commencement: Art. 53 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-803dbc2585b03e1e6249dee7eacbf0f3]: Commencement: Art. 53 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-ecf50cb902a5752e01e99791667cb45c]: Commencement: [Art. 53](https://www.legislation.gov.uk/uksi/2010/231/article/53) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-ecf50cb902a5752e01e99791667cb45c]: Commencement: [Art. 53](https://www.legislation.gov.uk/uksi/2010/231/article/53) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
-[^key-6b9f81295bf379f8d8a94c97df720490]: Textual amendment: [Art. 53(2A)](https://www.legislation.gov.uk/uksi/2010/231/article/53/2A) inserted (26.9.2016) by [Health and Social Care (Safety and Quality) Act 2015 (c. 28)](https://www.legislation.gov.uk/ukpga/2015/28), [s. 6(4)](https://www.legislation.gov.uk/ukpga/2015/28/section/6/4), [Sch. para. 7(3)](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/7/3); [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)
+[^c-6b9f81295bf379f8d8a94c97df720490]: Textual amendment: [Art. 53(2A)](https://www.legislation.gov.uk/uksi/2010/231/article/53/2A) inserted (26.9.2016) by [Health and Social Care (Safety and Quality) Act 2015 (c. 28)](https://www.legislation.gov.uk/ukpga/2015/28), [s. 6(4)](https://www.legislation.gov.uk/ukpga/2015/28/section/6/4), [Sch. para. 7(3)](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/7/3); [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)

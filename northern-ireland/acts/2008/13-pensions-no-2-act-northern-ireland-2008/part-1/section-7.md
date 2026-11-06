@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Jobholder's right to opt in[^c19555541][^key-615c71f45322a784baac3518f6d8ff87][^key-295e4dd8d1f46032118beafb1e305989]
+## 7. Jobholder's right to opt in[^c19555541][^c-615c71f45322a784baac3518f6d8ff87][^c-295e4dd8d1f46032118beafb1e305989]
 
 *Extent: N.I.*
 
@@ -24,10 +24,10 @@ summary: ''
 
 (2) But it does not apply at a time when—
 
-- (a) arrangements are required to be made under section 3 or 5 in respect of the jobholder, [^key-5c42dfd9eb8cf3239359bf0b9db982ee]...
-- (b)[^key-5c42dfd9eb8cf3239359bf0b9db982ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) arrangements are required to be made under section 3 or 5 in respect of the jobholder, [^c-5c42dfd9eb8cf3239359bf0b9db982ee]...
+- (b)[^c-5c42dfd9eb8cf3239359bf0b9db982ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-750994587407294643433f2eadf3af3d] The jobholder may by notice require the employer to arrange for the jobholder to become an active member of an automatic enrolment scheme.
+(3)[^c-750994587407294643433f2eadf3af3d] The jobholder may by notice require the employer to arrange for the jobholder to become an active member of an automatic enrolment scheme.
 
 (4) The Department may by regulations make provision—
 
@@ -55,10 +55,10 @@ summary: ''
 
 [^c19555541]: Commencement: S. 7 partly in force; s. 7 in force for certain purposes at Royal Assent see s. 118(2)
 
-[^key-615c71f45322a784baac3518f6d8ff87]: Commencement: S. 7 in operation at 30.6.2012 in so far as not already in operation by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/1)
+[^c-615c71f45322a784baac3518f6d8ff87]: Commencement: S. 7 in operation at 30.6.2012 in so far as not already in operation by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/1)
 
-[^key-295e4dd8d1f46032118beafb1e305989]: Modification: Pt. 1 applied (with modifications) (1.7.2012) by [The Automatic Enrolment (Offshore Employment) Order 2012 (S.I. 2012/1388)](https://www.legislation.gov.uk/uksi/2012/1388), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1388/article/1/1), [2](https://www.legislation.gov.uk/uksi/2012/1388/article/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1388/article/5))
+[^c-295e4dd8d1f46032118beafb1e305989]: Modification: Pt. 1 applied (with modifications) (1.7.2012) by [The Automatic Enrolment (Offshore Employment) Order 2012 (S.I. 2012/1388)](https://www.legislation.gov.uk/uksi/2012/1388), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1388/article/1/1), [2](https://www.legislation.gov.uk/uksi/2012/1388/article/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1388/article/5))
 
-[^key-5c42dfd9eb8cf3239359bf0b9db982ee]: Textual amendment: S. 7(2)(b) and preceding word omitted (2.6.2012 for specified purposes, 30.6.2012 in so far as not already in operation) by virtue of [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 7(5)](https://www.legislation.gov.uk/nia/2012/3/section/7/5), [34(1)](https://www.legislation.gov.uk/nia/2012/3/section/34/1)[(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(1)(b)](https://www.legislation.gov.uk/nisr/2012/265/article/2/1/b)
+[^c-5c42dfd9eb8cf3239359bf0b9db982ee]: Textual amendment: S. 7(2)(b) and preceding word omitted (2.6.2012 for specified purposes, 30.6.2012 in so far as not already in operation) by virtue of [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 7(5)](https://www.legislation.gov.uk/nia/2012/3/section/7/5), [34(1)](https://www.legislation.gov.uk/nia/2012/3/section/34/1)[(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(1)(b)](https://www.legislation.gov.uk/nisr/2012/265/article/2/1/b)
 
-[^key-750994587407294643433f2eadf3af3d]: Modification: S. 7(3): power to exclude conferred by SI 2005/255 (N.I. 1), art. 268A (as inserted (2.6.2012 for specified purposes) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 19](https://www.legislation.gov.uk/nia/2012/3/section/19), [34(1)](https://www.legislation.gov.uk/nia/2012/3/section/34/1)[(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3))
+[^c-750994587407294643433f2eadf3af3d]: Modification: S. 7(3): power to exclude conferred by SI 2005/255 (N.I. 1), art. 268A (as inserted (2.6.2012 for specified purposes) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 19](https://www.legislation.gov.uk/nia/2012/3/section/19), [34(1)](https://www.legislation.gov.uk/nia/2012/3/section/34/1)[(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3))

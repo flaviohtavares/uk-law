@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 65. Duty to notify changes of circumstances[^key-3409755e9e0cf9e119426caabdb2d48b]
+## 65. Duty to notify changes of circumstances[^c-3409755e9e0cf9e119426caabdb2d48b]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3409755e9e0cf9e119426caabdb2d48b]: Commencement: Reg. 65 in force at 17.8.1992, see [reg. 1(a)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/a)
+[^c-3409755e9e0cf9e119426caabdb2d48b]: Commencement: Reg. 65 in force at 17.8.1992, see [reg. 1(a)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/a)

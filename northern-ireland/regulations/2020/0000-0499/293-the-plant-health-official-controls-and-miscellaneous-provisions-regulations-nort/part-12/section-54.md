@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 54. Amendment of the Marketing of Fruit Plant and Propagating Material Regulations (Northern Ireland) 2017[^key-fced9f2a410777219b8488d27fa84dd2]
+## 54. Amendment of the Marketing of Fruit Plant and Propagating Material Regulations (Northern Ireland) 2017[^c-fced9f2a410777219b8488d27fa84dd2]
 
 *Extent: N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fced9f2a410777219b8488d27fa84dd2]: Commencement: Reg. 54 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-fced9f2a410777219b8488d27fa84dd2]: Commencement: Reg. 54 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
 [^f00041]: Footnote: [S.R. 2017 No. 119](https://www.legislation.gov.uk/nisr/2017/119).

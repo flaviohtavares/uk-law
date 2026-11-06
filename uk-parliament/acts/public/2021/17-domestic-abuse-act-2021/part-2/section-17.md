@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Duty to send conclusions of domestic homicide review to Commissioner[^key-9851df8ff31ab408f01540be44c88eac]
+## 17. Duty to send conclusions of domestic homicide review to Commissioner[^c-9851df8ff31ab408f01540be44c88eac]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9851df8ff31ab408f01540be44c88eac]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2021/17/section/17) in force at 1.11.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/b)
+[^c-9851df8ff31ab408f01540be44c88eac]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2021/17/section/17) in force at 1.11.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/b)

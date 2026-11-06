@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The sponsor and investigator may take appropriate urgent safety measures in order to protect the participants[^key-f6258c17ce9aa70a660f697b0f81b98e] of a clinical trial against any immediate hazard to their health or safety.
+(1) The sponsor and investigator may take appropriate urgent safety measures in order to protect the participants[^c-f6258c17ce9aa70a660f697b0f81b98e] of a clinical trial against any immediate hazard to their health or safety.
 
-(2)[^key-e19294e1edbd2ac55a89ab60fbf2a684] If measures are taken pursuant to paragraph (1), the sponsor shall—
+(2)[^c-e19294e1edbd2ac55a89ab60fbf2a684] If measures are taken pursuant to paragraph (1), the sponsor shall—
 
 - (a) where paragraph (3) applies, as soon as possible; and
-- (b) in any other case, immediately, and in any event no later than 7 days[^key-c513478b8ee30058ace6da8d0c07df57] from the date the measures are taken,
+- (b) in any other case, immediately, and in any event no later than 7 days[^c-c513478b8ee30058ace6da8d0c07df57] from the date the measures are taken,
 
 give written notice to the licensing authority and the relevant ethics committee of the measures taken and the circumstances giving rise to those measures.
 
@@ -36,8 +36,8 @@ give written notice to the licensing authority and the relevant ethics committee
 
 ## Annotations
 
-[^key-f6258c17ce9aa70a660f697b0f81b98e]: Textual amendment: Word in reg. 30(1) substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [20(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/20/2)
+[^c-f6258c17ce9aa70a660f697b0f81b98e]: Textual amendment: Word in reg. 30(1) substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [20(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/20/2)
 
-[^key-e19294e1edbd2ac55a89ab60fbf2a684]: Textual amendment: Reg. 30(2)(3) substituted for reg. 30(2) (8.5.2009) by [The Medicines for Human Use (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1164)](https://www.legislation.gov.uk/uksi/2009/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1164/regulation/1), [3](https://www.legislation.gov.uk/uksi/2009/1164/regulation/3)
+[^c-e19294e1edbd2ac55a89ab60fbf2a684]: Textual amendment: Reg. 30(2)(3) substituted for reg. 30(2) (8.5.2009) by [The Medicines for Human Use (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1164)](https://www.legislation.gov.uk/uksi/2009/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1164/regulation/1), [3](https://www.legislation.gov.uk/uksi/2009/1164/regulation/3)
 
-[^key-c513478b8ee30058ace6da8d0c07df57]: Textual amendment: Words in reg. 30(2)(b) substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2025/538/regulation/20/3)
+[^c-c513478b8ee30058ace6da8d0c07df57]: Textual amendment: Words in reg. 30(2)(b) substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2025/538/regulation/20/3)

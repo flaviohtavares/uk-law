@@ -160,9 +160,9 @@ These Regulations may be cited as the Employers' Duties (Implementation) (Amendm
 
 .
 
-(7)[^key-8630bf39496093f9bc3d38c247acc1e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-8630bf39496093f9bc3d38c247acc1e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-8630bf39496093f9bc3d38c247acc1e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-8630bf39496093f9bc3d38c247acc1e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 3. Revocations
 
@@ -211,6 +211,6 @@ An assessment of the impact on business of these Regulations is detailed in a Re
 
 [^c21365501]: Marginal citation: Paragraph (4)(b) was amended by regulation 3(4)(c)(iii) of S.R. [2012 No. 232](https://www.legislation.gov.uk/ukcm/2012/232)
 
-[^key-8630bf39496093f9bc3d38c247acc1e0]: Textual amendment: [Reg. 2(7)](https://www.legislation.gov.uk/nisr/2012/332/regulation/2/7)[(8)](https://www.legislation.gov.uk/nisr/2012/332/regulation/2/8) revoked (1.10.2016) by [The Employers Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/316)](https://www.legislation.gov.uk/nisr/2016/316), [regs. 1](https://www.legislation.gov.uk/nisr/2016/316/regulation/1), [3](https://www.legislation.gov.uk/nisr/2016/316/regulation/3)
+[^c-8630bf39496093f9bc3d38c247acc1e0]: Textual amendment: [Reg. 2(7)](https://www.legislation.gov.uk/nisr/2012/332/regulation/2/7)[(8)](https://www.legislation.gov.uk/nisr/2012/332/regulation/2/8) revoked (1.10.2016) by [The Employers Duties (Implementation) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/316)](https://www.legislation.gov.uk/nisr/2016/316), [regs. 1](https://www.legislation.gov.uk/nisr/2016/316/regulation/1), [3](https://www.legislation.gov.uk/nisr/2016/316/regulation/3)
 
 [^c21365531]: Marginal citation: S.R. [2012 No. 232](https://www.legislation.gov.uk/ukcm/2012/232)

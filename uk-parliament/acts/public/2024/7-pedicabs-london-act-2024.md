@@ -36,7 +36,7 @@ An Act to make provision for regulating pedicabs in public places in Greater Lon
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Power to regulate pedicabs[^key-2f14fd85b5c1149682741fc1ed476352]
+## 1. Power to regulate pedicabs[^c-2f14fd85b5c1149682741fc1ed476352]
 
 (1) Transport for London may make regulations for the purpose of regulating pedicabs in public places in Greater London.
 
@@ -47,7 +47,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (3) Before making pedicab regulations, Transport for London must consult whoever it considers appropriate.
 
-## 2. Licences, fares and other matters[^key-2bb6353ca2330910dac544e8ca4a5476]
+## 2. Licences, fares and other matters[^c-2bb6353ca2330910dac544e8ca4a5476]
 
 (1) Pedicab regulations may make provision for the licensing by Transport for London of pedicabs, their drivers or their operators, including provision about—
 
@@ -100,7 +100,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - (a) confer a discretion on Transport for London;
 - (b) confer power on Transport for London to authorise others to carry out functions under the regulations on their behalf.
 
-## 3. Enforcement[^key-c7b6ecb223e43ee3fe74e483086d5441]
+## 3. Enforcement[^c-c7b6ecb223e43ee3fe74e483086d5441]
 
 (1) Pedicab regulations may create offences relating to—
 
@@ -125,7 +125,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (7) Pedicab regulations may confer functions on a constable in connection with the enforcement of the regulations.
 
-## 4. Appeals[^key-92dd99538d36758199724a04a0103560]
+## 4. Appeals[^c-92dd99538d36758199724a04a0103560]
 
 (1) Pedicab regulations must provide for a person to whom any relevant decision relates to have the right—
 
@@ -150,7 +150,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
   - (ii) the period allowed for appealing has expired and, if an appeal is made, the appeal has been finally disposed of;
 - (c) provision prohibiting Transport for London or another person from taking specified action during any such period.
 
-## 5. Exclusion from private hire vehicles legislation[^key-0d689cf1a8c518967ef70ecc7224f995]
+## 5. Exclusion from private hire vehicles legislation[^c-0d689cf1a8c518967ef70ecc7224f995]
 
 In section 36 of the Private Hire Vehicles (London) Act 1998 (interpretation)—
 
@@ -161,7 +161,7 @@ In section 36 of the Private Hire Vehicles (London) Act 1998 (interpretation)—
 
   .
 
-## 6. Procedure for pedicab regulations[^key-e1a707442ac928befeb6d83d9fee50dc]
+## 6. Procedure for pedicab regulations[^c-e1a707442ac928befeb6d83d9fee50dc]
 
 (1) The power to make pedicab regulations is exercisable by statutory instrument.
 
@@ -172,7 +172,7 @@ In section 36 of the Private Hire Vehicles (London) Act 1998 (interpretation)—
 - (a) may make different provision for different purposes;
 - (b) may contain incidental, supplemental, consequential, transitional or saving provision.
 
-## 7. Guidance[^key-807211c6003d576a9b9c28a66b1ca1a7]
+## 7. Guidance[^c-807211c6003d576a9b9c28a66b1ca1a7]
 
 (1) The Secretary of State may issue guidance to Transport for London about the exercise of their functions under pedicab regulations.
 
@@ -186,7 +186,7 @@ In section 36 of the Private Hire Vehicles (London) Act 1998 (interpretation)—
 
 (6) Before issuing guidance under this section the Secretary of State must consult whoever the Secretary of State considers appropriate.
 
-## 8. Interpretation[^key-04c28b01dd2e59f8270138efb10478a3]
+## 8. Interpretation[^c-04c28b01dd2e59f8270138efb10478a3]
 
 (1) In this Act—
 
@@ -210,38 +210,38 @@ In section 36 of the Private Hire Vehicles (London) Act 1998 (interpretation)—
 - section 35A, and
 - section 35B.
 
-## 9. Commencement[^key-ef340612f7eb71df40e9578b82a4b8e8]
+## 9. Commencement[^c-ef340612f7eb71df40e9578b82a4b8e8]
 
 This Act comes into force at the end of the period of two months beginning with the day on which it is passed.
 
-## 10. Extent[^key-e02e17686d69945e0f88140d23e42bef]
+## 10. Extent[^c-e02e17686d69945e0f88140d23e42bef]
 
 This Act extends to England and Wales.
 
-## 11. Short title[^key-13625374a78c48bdf5e6c1ef73a4f58d]
+## 11. Short title[^c-13625374a78c48bdf5e6c1ef73a4f58d]
 
 This Act may be cited as the Pedicabs (London) Act 2024.
 
 ## Annotations
 
-[^key-2f14fd85b5c1149682741fc1ed476352]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2024/7/section/1) in force at 25.6.2024, see [s. 9](https://www.legislation.gov.uk/ukpga/2024/7/section/9)
+[^c-2f14fd85b5c1149682741fc1ed476352]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2024/7/section/1) in force at 25.6.2024, see [s. 9](https://www.legislation.gov.uk/ukpga/2024/7/section/9)
 
-[^key-2bb6353ca2330910dac544e8ca4a5476]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2024/7/section/2) in force at 25.6.2024, see [s. 9](https://www.legislation.gov.uk/ukpga/2024/7/section/9)
+[^c-2bb6353ca2330910dac544e8ca4a5476]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2024/7/section/2) in force at 25.6.2024, see [s. 9](https://www.legislation.gov.uk/ukpga/2024/7/section/9)
 
-[^key-c7b6ecb223e43ee3fe74e483086d5441]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2024/7/section/3) in force at 25.6.2024, see [s. 9](https://www.legislation.gov.uk/ukpga/2024/7/section/9)
+[^c-c7b6ecb223e43ee3fe74e483086d5441]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2024/7/section/3) in force at 25.6.2024, see [s. 9](https://www.legislation.gov.uk/ukpga/2024/7/section/9)
 
-[^key-92dd99538d36758199724a04a0103560]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2024/7/section/4) in force at 25.6.2024, see [s. 9](https://www.legislation.gov.uk/ukpga/2024/7/section/9)
+[^c-92dd99538d36758199724a04a0103560]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2024/7/section/4) in force at 25.6.2024, see [s. 9](https://www.legislation.gov.uk/ukpga/2024/7/section/9)
 
-[^key-0d689cf1a8c518967ef70ecc7224f995]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2024/7/section/5) in force at 25.6.2024, see [s. 9](https://www.legislation.gov.uk/ukpga/2024/7/section/9)
+[^c-0d689cf1a8c518967ef70ecc7224f995]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2024/7/section/5) in force at 25.6.2024, see [s. 9](https://www.legislation.gov.uk/ukpga/2024/7/section/9)
 
-[^key-e1a707442ac928befeb6d83d9fee50dc]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2024/7/section/6) in force at 25.6.2024, see [s. 9](https://www.legislation.gov.uk/ukpga/2024/7/section/9)
+[^c-e1a707442ac928befeb6d83d9fee50dc]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2024/7/section/6) in force at 25.6.2024, see [s. 9](https://www.legislation.gov.uk/ukpga/2024/7/section/9)
 
-[^key-807211c6003d576a9b9c28a66b1ca1a7]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2024/7/section/7) in force at 25.6.2024, see [s. 9](https://www.legislation.gov.uk/ukpga/2024/7/section/9)
+[^c-807211c6003d576a9b9c28a66b1ca1a7]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2024/7/section/7) in force at 25.6.2024, see [s. 9](https://www.legislation.gov.uk/ukpga/2024/7/section/9)
 
-[^key-04c28b01dd2e59f8270138efb10478a3]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2024/7/section/8) in force at 25.6.2024, see [s. 9](https://www.legislation.gov.uk/ukpga/2024/7/section/9)
+[^c-04c28b01dd2e59f8270138efb10478a3]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2024/7/section/8) in force at 25.6.2024, see [s. 9](https://www.legislation.gov.uk/ukpga/2024/7/section/9)
 
-[^key-ef340612f7eb71df40e9578b82a4b8e8]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2024/7/section/9) in force at 25.6.2024, see [s. 9](https://www.legislation.gov.uk/ukpga/2024/7/section/9)
+[^c-ef340612f7eb71df40e9578b82a4b8e8]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2024/7/section/9) in force at 25.6.2024, see [s. 9](https://www.legislation.gov.uk/ukpga/2024/7/section/9)
 
-[^key-e02e17686d69945e0f88140d23e42bef]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2024/7/section/10) in force at 25.6.2024, see [s. 9](https://www.legislation.gov.uk/ukpga/2024/7/section/9)
+[^c-e02e17686d69945e0f88140d23e42bef]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2024/7/section/10) in force at 25.6.2024, see [s. 9](https://www.legislation.gov.uk/ukpga/2024/7/section/9)
 
-[^key-13625374a78c48bdf5e6c1ef73a4f58d]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2024/7/section/11) in force at 25.6.2024, see [s. 9](https://www.legislation.gov.uk/ukpga/2024/7/section/9)
+[^c-13625374a78c48bdf5e6c1ef73a4f58d]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2024/7/section/11) in force at 25.6.2024, see [s. 9](https://www.legislation.gov.uk/ukpga/2024/7/section/9)

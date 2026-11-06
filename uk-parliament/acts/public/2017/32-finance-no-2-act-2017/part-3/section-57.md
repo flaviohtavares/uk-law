@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Regulations[^c22796021][^key-5b65089d2cc14587340cf0fb520fd4f0]
+## 57. Regulations[^c22796021][^c-5b65089d2cc14587340cf0fb520fd4f0]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c22796021]: Commencement: [Pt. 3](https://www.legislation.gov.uk/ukpga/2017/32/part/3): s. 57 in force at Royal Assent for specified purposes, see [s. 59(1)(a)](https://www.legislation.gov.uk/ukpga/2017/32/section/59/1/a)
 
-[^key-5b65089d2cc14587340cf0fb520fd4f0]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2017/32/section/57) in force at 1.4.2019 in so far as not already in force by [S.I. 2018/298](https://www.legislation.gov.uk/uksi/2018/298), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/298/regulation/2/1)
+[^c-5b65089d2cc14587340cf0fb520fd4f0]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2017/32/section/57) in force at 1.4.2019 in so far as not already in force by [S.I. 2018/298](https://www.legislation.gov.uk/uksi/2018/298), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/298/regulation/2/1)

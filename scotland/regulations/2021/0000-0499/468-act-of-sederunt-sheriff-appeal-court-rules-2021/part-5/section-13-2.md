@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13.2. Making of motions[^key-e7498fbb1aaefc81b619c79f3ed2f85d]
+## 13.2. Making of motions[^c-e7498fbb1aaefc81b619c79f3ed2f85d]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ A motion may be made either—
 
 ## Annotations
 
-[^key-e7498fbb1aaefc81b619c79f3ed2f85d]: Commencement: Para. 13.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-e7498fbb1aaefc81b619c79f3ed2f85d]: Commencement: Para. 13.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

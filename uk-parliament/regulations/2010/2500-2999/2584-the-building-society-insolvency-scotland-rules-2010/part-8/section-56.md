@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Power of court to set aside certain transactions[^key-bdbca25c75f80125f9bd230565c72ac6]
+## 56. Power of court to set aside certain transactions[^c-bdbca25c75f80125f9bd230565c72ac6]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bdbca25c75f80125f9bd230565c72ac6]: Commencement: Rule 56 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-bdbca25c75f80125f9bd230565c72ac6]: Commencement: Rule 56 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

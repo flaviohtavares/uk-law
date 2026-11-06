@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41.3. Form of notice of reference and application for permission[^key-6d8c7cea2726481b5f9ff37feeec15e2]
+## 41.3. Form of notice of reference and application for permission[^c-6d8c7cea2726481b5f9ff37feeec15e2]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d8c7cea2726481b5f9ff37feeec15e2]: Commencement: [Rule 41.3](https://www.legislation.gov.uk/uksi/2025/909/rule/41.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-6d8c7cea2726481b5f9ff37feeec15e2]: Commencement: [Rule 41.3](https://www.legislation.gov.uk/uksi/2025/909/rule/41.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

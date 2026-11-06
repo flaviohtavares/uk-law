@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 229C. Allocation of untaxed amount to members[^key-9fb6e69a9d1806374c1e561501413569]
+## 229C. Allocation of untaxed amount to members[^c-9fb6e69a9d1806374c1e561501413569]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,14 +29,14 @@ summary: ''
 
 (3) For the purposes of this Chapter, a member of a multinational group is qualifying unless it is—
 
-- (a) an investment entity, [^key-7adb21b8aa1c78ced653e16d189681d8]...
-- (b) a member of a joint venture group , or[^key-d50cbf6216402a674aacc74bcf309aaf]
+- (a) an investment entity, [^c-7adb21b8aa1c78ced653e16d189681d8]...
+- (b) a member of a joint venture group , or[^c-d50cbf6216402a674aacc74bcf309aaf]
 - (c) a securitisation company within the meaning of the Taxation of Securitisation Companies Regulations 2006 ([S.I. 2006/3296](https://www.legislation.gov.uk/uksi/2006/3296)).
 
 ## Annotations
 
-[^key-9fb6e69a9d1806374c1e561501413569]: Textual amendment: Pt. 3 Ch. 9A inserted (in relation to accounting periods commencing on or after 31.12.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 5](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/5), [10](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/10)
+[^c-9fb6e69a9d1806374c1e561501413569]: Textual amendment: Pt. 3 Ch. 9A inserted (in relation to accounting periods commencing on or after 31.12.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 5](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/5), [10](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/10)
 
-[^key-7adb21b8aa1c78ced653e16d189681d8]: Textual amendment: Word in [s. 229C(3)(a)](https://www.legislation.gov.uk/ukpga/2023/30/section/229C/3/a) omitted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 24(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/24/a), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
+[^c-7adb21b8aa1c78ced653e16d189681d8]: Textual amendment: Word in [s. 229C(3)(a)](https://www.legislation.gov.uk/ukpga/2023/30/section/229C/3/a) omitted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 24(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/24/a), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
 
-[^key-d50cbf6216402a674aacc74bcf309aaf]: Textual amendment: S. 229C(3)(c) and word inserted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 24(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/24/b), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
+[^c-d50cbf6216402a674aacc74bcf309aaf]: Textual amendment: S. 229C(3)(c) and word inserted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 24(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/24/b), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)

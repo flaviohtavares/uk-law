@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.2. First order[^key-699c2db77bb40e60e02d27915956e352]
+## 3.2. First order[^c-699c2db77bb40e60e02d27915956e352]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-699c2db77bb40e60e02d27915956e352]: Commencement: [Rule 3.2](https://www.legislation.gov.uk/ssi/2017/103/rule/3.2) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-699c2db77bb40e60e02d27915956e352]: Commencement: [Rule 3.2](https://www.legislation.gov.uk/ssi/2017/103/rule/3.2) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

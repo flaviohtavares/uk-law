@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 142. Proxy-holder with financial interest[^key-1b0819011ba6db5205ab9c09e1bc3780]
+## 142. Proxy-holder with financial interest[^c-1b0819011ba6db5205ab9c09e1bc3780]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b0819011ba6db5205ab9c09e1bc3780]: Commencement: [Rule 142](https://www.legislation.gov.uk/uksi/2013/3208/rule/142) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-1b0819011ba6db5205ab9c09e1bc3780]: Commencement: [Rule 142](https://www.legislation.gov.uk/uksi/2013/3208/rule/142) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

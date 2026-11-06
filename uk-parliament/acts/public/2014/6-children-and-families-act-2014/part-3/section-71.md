@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Assessment of post-detention education, health and care needs of detained persons[^key-e02d93eedc7950eb65a2f2a4fd5f3265]
+## 71. Assessment of post-detention education, health and care needs of detained persons[^c-e02d93eedc7950eb65a2f2a4fd5f3265]
 
 *Extent: E+W*
 
@@ -86,4 +86,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e02d93eedc7950eb65a2f2a4fd5f3265]: Commencement: S. 71 in force at 1.4.2015 by [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/375/article/2/b)
+[^c-e02d93eedc7950eb65a2f2a4fd5f3265]: Commencement: S. 71 in force at 1.4.2015 by [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/375/article/2/b)

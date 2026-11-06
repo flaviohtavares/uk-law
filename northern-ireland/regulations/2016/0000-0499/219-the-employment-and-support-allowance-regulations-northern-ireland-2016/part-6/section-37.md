@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. A claimant who works to be treated as not entitled to an employment and support allowance[^key-be96871158edbe4fdb26765e59ebd35a]
+## 37. A claimant who works to be treated as not entitled to an employment and support allowance[^c-be96871158edbe4fdb26765e59ebd35a]
 
 *Extent: N.I.*
 
@@ -63,7 +63,7 @@ is to be treated as not entitled to an employment and support allowance by virtu
 
 ## Annotations
 
-[^key-be96871158edbe4fdb26765e59ebd35a]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2016/219/regulation/37) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-be96871158edbe4fdb26765e59ebd35a]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2016/219/regulation/37) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
 
 [^f00048]: Footnote: [S.I. 1998/1504 (N.I. 9)](https://www.legislation.gov.uk/nisi/1998/1504)
 

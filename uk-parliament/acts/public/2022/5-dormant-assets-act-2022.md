@@ -40,7 +40,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ### Introduction
 
-#### 1. The dormant assets scheme: overview[^key-8d3c5946f1060c5ffb9550541db07c16][^key-458e268f988e7b691c11ba09e5201c2d]
+#### 1. The dormant assets scheme: overview[^c-8d3c5946f1060c5ffb9550541db07c16][^c-458e268f988e7b691c11ba09e5201c2d]
 
 (1) The applicable provisions of this Act and the Dormant Bank and Building Society Accounts Act 2008 (in this Act referred to as “**the 2008 Act**”) establish the dormant assets scheme for dealing with certain dormant assets.
 
@@ -89,7 +89,7 @@ For the specific provisions applicable to the various assets within the scope of
 
 ### Long-term insurance assets
 
-#### 2. Transfer of eligible insurance proceeds to reclaim fund[^key-b6af1d8450e704abbc34c77e2d5e6fcf][^key-39cdf89d24378304b946f3e34e5faa3e][^key-c5695de049554ba60bc379c53c623901][^key-9552f9b690b712198bfc60ca4a3c86b4]
+#### 2. Transfer of eligible insurance proceeds to reclaim fund[^c-b6af1d8450e704abbc34c77e2d5e6fcf][^c-39cdf89d24378304b946f3e34e5faa3e][^c-c5695de049554ba60bc379c53c623901][^c-9552f9b690b712198bfc60ca4a3c86b4]
 
 (1) This section applies where—
 
@@ -112,7 +112,7 @@ For the specific provisions applicable to the various assets within the scope of
 - (a) a mutual insurer, or
 - (b) a person who is specified, or is within a class of persons specified, by an order under section 38 of FSMA 2000 (exemption orders).
 
-#### 3. “Eligible insurance proceeds”[^key-1ab638742956bbef1d7896f219b77807][^key-332ea79c3f5f3b95ffbad8127c7dbbf8]
+#### 3. “Eligible insurance proceeds”[^c-1ab638742956bbef1d7896f219b77807][^c-332ea79c3f5f3b95ffbad8127c7dbbf8]
 
 (1) In this Act “eligible insurance proceeds” are (subject to subsections (2) and (3)) the cash proceeds of a contract of long-term insurance, after the appropriate adjustments have been made for such things as interest due and fees and charges payable.
 
@@ -132,7 +132,7 @@ For the specific provisions applicable to the various assets within the scope of
 - “**industrial assurance policy**” has the same meaning as it has in the FCA Handbook as in force when this Act is passed;
 - “**with-profits policy**” means a contract of insurance which provides benefits through eligibility to participate in discretionary distributions based on profits arising from the insurer’s business or a particular part of its business.
 
-#### 4. Meaning of “dormant” in relation to eligible insurance proceeds[^key-a1a8e014fc180b34ca5896a1a12fd9d4][^key-f1ed9e0d67ef9ce84d01fcb682bfd6dc]
+#### 4. Meaning of “dormant” in relation to eligible insurance proceeds[^c-a1a8e014fc180b34ca5896a1a12fd9d4][^c-f1ed9e0d67ef9ce84d01fcb682bfd6dc]
 
 (1) For the purposes of this Act eligible insurance proceeds are “dormant” at a particular time if any of the following four conditions are met at that time.
 
@@ -171,7 +171,7 @@ For the specific provisions applicable to the various assets within the scope of
 
 ### Pension assets
 
-#### 5. Transfer of eligible pension benefits to reclaim fund[^key-2353ad8384678e5d9da446da652682a5][^key-d26b67737bf823bebe9043d10d847302][^key-74b29fa49f1b63d9fc69634c9f422fbe][^key-465ca77fdac5c957847efe34cbfc58e3]
+#### 5. Transfer of eligible pension benefits to reclaim fund[^c-2353ad8384678e5d9da446da652682a5][^c-d26b67737bf823bebe9043d10d847302][^c-74b29fa49f1b63d9fc69634c9f422fbe][^c-465ca77fdac5c957847efe34cbfc58e3]
 
 (1) This section applies where—
 
@@ -199,7 +199,7 @@ For the specific provisions applicable to the various assets within the scope of
 - (a) a mutual insurer, or
 - (b) a person who is specified, or is within a class of persons specified, by an order under section 38 of FSMA 2000 (exemption orders).
 
-#### 6. “Eligible pension benefits”[^key-bfc713cd09af47de715ce21562731abc][^key-876c2f193a2c0c8a1f5425aa618d5c29]
+#### 6. “Eligible pension benefits”[^c-bfc713cd09af47de715ce21562731abc][^c-876c2f193a2c0c8a1f5425aa618d5c29]
 
 (1) In this Act “**eligible pension benefits**” means (subject to subsection (2)) any of the following amounts—
 
@@ -223,7 +223,7 @@ after the appropriate adjustments have been made for such things as interest due
 - (b) “**income withdrawal**” has the same meaning as in paragraph 7 of Schedule 28 to the Finance Act 2004;
 - (c) “**with-profits fund**” has the same meaning as it has in the FCA Handbook as in force when this Act is passed.
 
-#### 7. Meaning of “dormant” in relation to eligible pension benefits[^key-a7bc8f44a7ea0c8db836b48634631146][^key-7a15b863e9734f1844c95537519e8e1b]
+#### 7. Meaning of “dormant” in relation to eligible pension benefits[^c-a7bc8f44a7ea0c8db836b48634631146][^c-7a15b863e9734f1844c95537519e8e1b]
 
 (1) For the purposes of this Act eligible pension benefits are “dormant” at a particular time if any of the following four conditions are met at that time.
 
@@ -264,7 +264,7 @@ after the appropriate adjustments have been made for such things as interest due
 
 ### Investment assets
 
-#### 8. Transfer of eligible amount owing by virtue of a collective scheme investment to reclaim fund[^key-9d6ab4c4ce12d934ad2ed7e9f779f226][^key-32ab2a3ed3dc0e1626ceb68be9de7821][^key-b78707890b92ca2823012ac2d5d80f47][^key-e6d332e7ebb6217f52a878cebf6064a5]
+#### 8. Transfer of eligible amount owing by virtue of a collective scheme investment to reclaim fund[^c-9d6ab4c4ce12d934ad2ed7e9f779f226][^c-32ab2a3ed3dc0e1626ceb68be9de7821][^c-b78707890b92ca2823012ac2d5d80f47][^c-e6d332e7ebb6217f52a878cebf6064a5]
 
 (1) This section applies where—
 
@@ -291,7 +291,7 @@ other than a person who is specified, or is within a class of persons specified,
 - (c) article 51ZC (managing an AIF);
 - (d) article 51ZD (acting as trustee or depositary of an AIF).
 
-#### 9. “Eligible amount owing by virtue of a collective scheme investment”[^key-4bd6e2ac044e0ae00571b8b15b2a743e][^key-f5463d1a608985fdc632dcfcffe0c2d8]
+#### 9. “Eligible amount owing by virtue of a collective scheme investment”[^c-4bd6e2ac044e0ae00571b8b15b2a743e][^c-f5463d1a608985fdc632dcfcffe0c2d8]
 
 (1) This section gives the meaning in this Act of “eligible amount owing by virtue of a collective scheme investment”.
 
@@ -347,7 +347,7 @@ after the appropriate adjustments have been made for such things as interest due
 
 and in this subsection and subsection (7) references to pooling are to such pooling as is mentioned in section 235(3)(a) of FSMA 2000 (collective investment schemes).
 
-#### 10. Meaning of “dormant” in relation to eligible amount owing by virtue of a collective scheme investment[^key-cc3f8f5e00b111832dd062aa752c42df][^key-7b727fb431e782cd7e4264022fc2b817]
+#### 10. Meaning of “dormant” in relation to eligible amount owing by virtue of a collective scheme investment[^c-cc3f8f5e00b111832dd062aa752c42df][^c-7b727fb431e782cd7e4264022fc2b817]
 
 (1) For the purposes of this Act an eligible amount owing by virtue of a collective scheme investment is “dormant” at a particular time if either (or both) of the following two conditions is met in relation to the amount at that time.
 
@@ -372,7 +372,7 @@ and in this subsection and subsection (7) references to pooling are to such pool
 - (a) assessing whether a person has been gone-away for a period;
 - (b) receiving communications as mentioned in subsection (4).
 
-#### 11. Meaning of “reclaim amount” in relation to an eligible amount owing by virtue of a collective scheme investment[^key-7c33ac03027bffd8696d9265af4a8ec5][^key-d9b6306cddb75452eb4691ba4d4ce7f1]
+#### 11. Meaning of “reclaim amount” in relation to an eligible amount owing by virtue of a collective scheme investment[^c-7c33ac03027bffd8696d9265af4a8ec5][^c-d9b6306cddb75452eb4691ba4d4ce7f1]
 
 (1) This section gives the meaning for the purposes of this Act of “**reclaim amount**” in relation to a transfer of an amount to an authorised reclaim fund as mentioned in section 8(1)(a).
 
@@ -392,7 +392,7 @@ if the conversion of the share or unit into a right to payment (as mentioned in 
 
 ### Client money assets
 
-#### 12. Transfer of eligible client money to reclaim fund[^key-23b214348cf6b5e1c10bfc4cec1102cf][^key-15547db7ea2e55a500cfd549683564d7][^key-37dca222eebb9ac13648b038660984a8][^key-019e6429ec6c4d8dc797117e060430cb]
+#### 12. Transfer of eligible client money to reclaim fund[^c-23b214348cf6b5e1c10bfc4cec1102cf][^c-15547db7ea2e55a500cfd549683564d7][^c-37dca222eebb9ac13648b038660984a8][^c-019e6429ec6c4d8dc797117e060430cb]
 
 (1) This section applies where—
 
@@ -425,7 +425,7 @@ other than a person who is specified, or is within a class of persons specified,
 
 (7) In subsections (4) and (6) “**client money**” means money held in trust for a person or treated by the investment institution holding it as client money.
 
-#### 13. Meaning of “dormant” in relation to eligible client money[^key-eb5ec4ac30e9e6120c60dbdbd3f3e75e][^key-37ed50e08a648f080ac422a840e2a265]
+#### 13. Meaning of “dormant” in relation to eligible client money[^c-eb5ec4ac30e9e6120c60dbdbd3f3e75e][^c-37ed50e08a648f080ac422a840e2a265]
 
 (1) For the purposes of this Act an amount of eligible client money is “dormant” at a particular time if the following condition is met at that time.
 
@@ -440,7 +440,7 @@ other than a person who is specified, or is within a class of persons specified,
 
 ### Securities assets
 
-#### 14. Transfer of eligible proceeds or distribution to reclaim fund[^key-2ffbe9d71c1ef067ac74fb022a2baaff][^key-f18c095d028b72d61cc1eb5c4bb257a6][^key-32451b6d5dda2fe653857cbdc16aebae][^key-9c8717db5ca4141ab50ab880e796031b]
+#### 14. Transfer of eligible proceeds or distribution to reclaim fund[^c-2ffbe9d71c1ef067ac74fb022a2baaff][^c-f18c095d028b72d61cc1eb5c4bb257a6][^c-32451b6d5dda2fe653857cbdc16aebae][^c-9c8717db5ca4141ab50ab880e796031b]
 
 (1) This section applies where—
 
@@ -461,7 +461,7 @@ other than a person who is specified, or is within a class of persons specified,
 
 (4) In subsection (3) “UK multilateral trading facility” and “UK regulated market” have the meanings given by paragraph 1 of article 2 of the [Regulation (EU) No 600/2014](https://www.legislation.gov.uk/european/regulation/2014/0600) of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending [Regulation (EU) No 648/2012](https://www.legislation.gov.uk/european/regulation/2012/0648).
 
-#### 15. “Eligible proceeds or distribution”[^key-13b5cd26195598b79c38eea265fd3ac1][^key-6980dabd84a1f33f68f63c7f253e9c1c]
+#### 15. “Eligible proceeds or distribution”[^c-13b5cd26195598b79c38eea265fd3ac1][^c-6980dabd84a1f33f68f63c7f253e9c1c]
 
 (1) In this Act “**eligible proceeds or distribution**”, in relation to a share in a traded public company registered in the name of an individual, means (subject to subsection (2)) any of the following amounts owing to a person—
 
@@ -483,7 +483,7 @@ after the appropriate adjustments have been made for such things as interest due
 
 (5) In this section “distribution”, so far as relating to a share in a traded public company, has the meaning given by section 829 of the Companies Act 2006.
 
-#### 16. Meaning of “dormant” in relation to eligible proceeds or distribution[^key-e8f7087e13189bc7dc329da1fcb4f76c][^key-3acc4f4ee200f2ebac86e267d05e536f]
+#### 16. Meaning of “dormant” in relation to eligible proceeds or distribution[^c-e8f7087e13189bc7dc329da1fcb4f76c][^c-3acc4f4ee200f2ebac86e267d05e536f]
 
 (1) This section sets out the meaning for the purposes of this Act of “**dormant**” in relation to the different kinds of eligible proceeds or distribution.
 
@@ -509,7 +509,7 @@ after the appropriate adjustments have been made for such things as interest due
 
 ### Miscellaneous provisions relating to transfers
 
-#### 17. Transfers: general[^key-d3fe4c57595b0ddaf3f025709399f1c8][^key-935ed3e1519c4b81d9d5e8f4643d98b2]
+#### 17. Transfers: general[^c-d3fe4c57595b0ddaf3f025709399f1c8][^c-935ed3e1519c4b81d9d5e8f4643d98b2]
 
 (1) A transfer of an amount to an authorised reclaim fund as mentioned in a transfer provision does not itself—
 
@@ -530,7 +530,7 @@ after the appropriate adjustments have been made for such things as interest due
 
 ### Interpretation of Part 1
 
-#### 18. Interpretation of Part 1[^key-513842a52f3722831150679294166fa6][^key-668d163f0388e83c090a93d536e87a42]
+#### 18. Interpretation of Part 1[^c-513842a52f3722831150679294166fa6][^c-668d163f0388e83c090a93d536e87a42]
 
 In this Part—
 
@@ -552,7 +552,7 @@ In this Part—
 
 ### Regulation-making powers
 
-#### 19. Power to extend the dormant assets scheme to cover new dormant assets[^key-a7a551a0a07f17b9dab0a41fe29f88d2][^key-31ad83557189e97119bea86774ab4d25]
+#### 19. Power to extend the dormant assets scheme to cover new dormant assets[^c-a7a551a0a07f17b9dab0a41fe29f88d2][^c-31ad83557189e97119bea86774ab4d25]
 
 (1) The Secretary of State or the Treasury may by regulations make provision for, and in connection with, extending the scope of the dormant assets scheme by—
 
@@ -598,7 +598,7 @@ and may include provision dealing with anything relating to or arising from the 
 
 ### Alternative scheme for smaller banks and building societies
 
-#### 20. Return of surplus alternative scheme assets[^key-4c9878d00d301dbda2393f29b78284ad][^key-091c98ca0ec154986d6ebbbdf80f042a]
+#### 20. Return of surplus alternative scheme assets[^c-4c9878d00d301dbda2393f29b78284ad][^c-091c98ca0ec154986d6ebbbdf80f042a]
 
 After section 2 of the 2008 Act (transfer of balances to charities, with proportion to reclaim fund) insert—
 
@@ -637,7 +637,7 @@ After section 2 of the 2008 Act (transfer of balances to charities, with proport
 
 ### Unwanted assets consisting of a right to payment
 
-#### 21. Unwanted assets[^key-c12f168de5aa169084aff720284b3f2e][^key-f1c298d2c6f506e12f98033acb201cdf]
+#### 21. Unwanted assets[^c-c12f168de5aa169084aff720284b3f2e][^c-f1c298d2c6f506e12f98033acb201cdf]
 
 (1) This section applies to a person who has a right to payment of any of the following amounts—
 
@@ -664,7 +664,7 @@ the right to payment of the amount owing is either extinguished or reduced accor
 
 ### Provisions applicable to more than one scheme
 
-#### 22. Third party rights and interests[^key-2c2c1236a2de02a929d662104b1f8620][^key-f9e239faf3e6ad295970d9a32634f4bb]
+#### 22. Third party rights and interests[^c-2c2c1236a2de02a929d662104b1f8620][^c-f9e239faf3e6ad295970d9a32634f4bb]
 
 (1) A third party who, immediately before a transfer to an authorised reclaim fund, had a right or an interest in or over an asset that was extinguished as a result of the transfer has (in place of that right or interest) an equivalent right or interest in or over the right to payment which replaces the extinguished asset.
 
@@ -675,7 +675,7 @@ the right to payment of the amount owing is either extinguished or reduced accor
 
 (3) This section does not apply to transfers mentioned in section 1(1)(a) or 2(1)(a) of the 2008 Act which are made before this section comes into force (but nothing in this section is to be read as affecting the law applicable to such transfers).
 
-#### 23. Arrangements between reclaim fund and institutions[^key-9b47145a28357cda03e0741d2f136237][^key-891ae5f0089a52d4df49ab7ca08e400d]
+#### 23. Arrangements between reclaim fund and institutions[^c-9b47145a28357cda03e0741d2f136237][^c-891ae5f0089a52d4df49ab7ca08e400d]
 
 (1) An authorised reclaim fund may only accept transfers of any description from an institution if the reclaim fund has made contractual or other arrangements with the institution that the reclaim fund considers to be a satisfactory basis for accepting transfers of that description.
 
@@ -702,7 +702,7 @@ the right to payment of the amount owing is either extinguished or reduced accor
 - “**institution**” means an institution which is by virtue of the relevant transfer provision capable of making transfers of any description;
 - “**transfer**” means a transfer of an amount to an authorised reclaim fund as mentioned in any of the following transfer provisions, that is to say section 1(1)(a) or 2(1)(a) of the 2008 Act or section 2(1)(a), 5(1)(a), 8(1)(a), 12(1)(a), 14(1)(a) or 21(2)(b) above.
 
-#### 24. Effect of insolvency etc of institutions[^key-a7ae952182c54689af9b093f34a52439][^key-b699170cc4de7352406e69c0cbac2934]
+#### 24. Effect of insolvency etc of institutions[^c-a7ae952182c54689af9b093f34a52439][^c-b699170cc4de7352406e69c0cbac2934]
 
 (1) Subsection (2) applies where, after a person has acquired a right to payment against an authorised reclaim fund by virtue of section 1(2)(b) or 2(2)(b) of the 2008 Act or section 2(2)(b), 5(2)(b) or (3)(b), 8(2)(b), 12(2)(b) or 14(2)(b) above—
 
@@ -715,7 +715,7 @@ The reference in this subsection to a right to payment under section 1(2)(b) or 
 
 (3) If at any time after the acquisition of the right to payment a different person (“**the successor**”) has assumed responsibility for the liabilities of the institution, the references in subsections (1) and (2) to the institution are to the successor.
 
-#### 25. Disclosure of information[^key-1731475ca522ed24569672decc32a0e2][^key-be864de32a91ac838008c09ff5fec967]
+#### 25. Disclosure of information[^c-1731475ca522ed24569672decc32a0e2][^c-be864de32a91ac838008c09ff5fec967]
 
 (1) Nothing in this Act or the 2008 Act requires or authorises a disclosure of information that would contravene the data protection legislation (but in determining whether a disclosure would do so, duties imposed and powers conferred by this Act or the 2008 Act are to be taken into account).
 
@@ -729,7 +729,7 @@ The reference in this subsection to a right to payment under section 1(2)(b) or 
 
 ### Provisions relating to more than one scheme
 
-#### 26. Meaning of “authorised reclaim fund”[^key-4d10dcfbeab19aa6ce7e77ba7815e3b3][^key-73d8aa6433c20e508014ed25ccb6cf9f]
+#### 26. Meaning of “authorised reclaim fund”[^c-4d10dcfbeab19aa6ce7e77ba7815e3b3][^c-73d8aa6433c20e508014ed25ccb6cf9f]
 
 (1) In this Act and the 2008 Act “**authorised reclaim fund**”, in relation to a transfer of an amount as mentioned in section 1(1)(a) or 2(1)(a) of the 2008 Act or section 2(1)(a), 5(1)(a), 8(1)(a), 12(1)(a), 14(1)(a) or 21(2)(b) above, means a reclaim fund (as defined in section 5 of the 2008 Act) which is—
 
@@ -745,13 +745,13 @@ The reference in this subsection to a right to payment under section 1(2)(b) or 
 
 (4) Regulations under subsection (3) are subject to draft affirmative procedure.
 
-#### 27. Treasury loans[^key-8eb933c954522acc073558aed8d720d4][^key-64d6db1dccf464c868a41e08d6900537]
+#### 27. Treasury loans[^c-8eb933c954522acc073558aed8d720d4][^c-64d6db1dccf464c868a41e08d6900537]
 
 (1) Any loan made by the Treasury to, or in respect of, an authorised reclaim fund in the circumstances mentioned in subsection (2) is to be made out of money provided by Parliament.
 
 (2) The circumstances are that the Treasury consider that, unless the loan is made, the reclaim fund is or is likely to become unable to meet its liabilities.
 
-#### 28. Exclusion of repayment claims from financial services compensation scheme[^key-5e4b5a84345bb5f8453bf582969ea01a][^key-4450ddbfe7cd5e2583fbd4a0b0e3dd2e]
+#### 28. Exclusion of repayment claims from financial services compensation scheme[^c-5e4b5a84345bb5f8453bf582969ea01a][^c-4450ddbfe7cd5e2583fbd4a0b0e3dd2e]
 
 (1) In consequence of section 27, the Financial Services and Markets Act 2000 (Financial Services Compensation Scheme) Order 2013 ([SI 2013/598](https://www.legislation.gov.uk/uksi/2013/598)) (which sets out the cases in which rules establishing the financial services compensation scheme may be made) is amended as follows.
 
@@ -770,7 +770,7 @@ The reference in this subsection to a right to payment under section 1(2)(b) or 
 
 ### Distribution of dormant assets money
 
-#### 29. Distribution of dormant assets money for meeting English expenditure[^key-653003a5737df6e0a45669fd36c6d109][^key-aeb944252a8cdea74cc5e328f8a77b68]
+#### 29. Distribution of dormant assets money for meeting English expenditure[^c-653003a5737df6e0a45669fd36c6d109][^c-aeb944252a8cdea74cc5e328f8a77b68]
 
 (1) After section 18 of the 2008 Act (distribution of money for meeting English expenditure) insert—
 
@@ -813,7 +813,7 @@ whichever occurs first.
 
 (4) The power to make transitional or saving provision under section 18A(2) of that Act includes power to make such provision in connection with the provision made by subsection (2).
 
-#### 30. Periodic review and report to Parliament[^key-0b61c1aacf1c69d297cb0bd07858889f][^key-0e4c1a92852d0268e3b5a5baf5436352]
+#### 30. Periodic review and report to Parliament[^c-0b61c1aacf1c69d297cb0bd07858889f][^c-0e4c1a92852d0268e3b5a5baf5436352]
 
 (1) The Secretary of State must carry out periodic reviews of the following matters—
 
@@ -868,7 +868,7 @@ whichever occurs first.
 
 ## PART 3 — Final provisions
 
-### 31. Regulations: general[^key-179834cdbb8761f551ed16c80ed164cd][^key-a3ec81aae11c45e9a86333b0c0120999]
+### 31. Regulations: general[^c-179834cdbb8761f551ed16c80ed164cd][^c-a3ec81aae11c45e9a86333b0c0120999]
 
 (1) Regulations under this Act are to be made by statutory instrument.
 
@@ -892,7 +892,7 @@ whichever occurs first.
 
 (6) This section does not apply to commencement regulations under section 34.
 
-### 32. Repeals in the 2008 Act and other minor or consequential amendments[^key-e911065662ac1d0eaffb2aa8a2b0e18a][^key-f9e54c4999378bb77d8a3246f933548d]
+### 32. Repeals in the 2008 Act and other minor or consequential amendments[^c-e911065662ac1d0eaffb2aa8a2b0e18a][^c-f9e54c4999378bb77d8a3246f933548d]
 
 (1) The following provisions of the 2008 Act are repealed—
 
@@ -904,11 +904,11 @@ whichever occurs first.
 
 (3) Schedule 1 contains minor and consequential amendments.
 
-### 33. Index of defined terms[^key-ee32f17b698d433885e9ad47fded0caa][^key-8673cd90492fbeff1516cc4386af9f09]
+### 33. Index of defined terms[^c-ee32f17b698d433885e9ad47fded0caa][^c-8673cd90492fbeff1516cc4386af9f09]
 
 Schedule 2 sets out expressions defined or explained by this Act for the purposes of more than one section.
 
-### 34. Extent, commencement, construction as one with 2008 Act and citation[^key-ed270638068801a97845d9b33e7a5036]
+### 34. Extent, commencement, construction as one with 2008 Act and citation[^c-ed270638068801a97845d9b33e7a5036]
 
 (1) This Act extends to England and Wales, Scotland and Northern Ireland.
 
@@ -933,11 +933,11 @@ SCHEDULES
 
 Section 32(3)
 
-### 1. Building Societies (Accounts and Related Provisions) Regulations 1998 ([SI 1998/504](https://www.legislation.gov.uk/uksi/1998/504))[^key-494be7ddcde042151b45a2d4eaca5293][^key-c439ab32ba2d4a314e2a2172ceb68304]
+### 1. Building Societies (Accounts and Related Provisions) Regulations 1998 ([SI 1998/504](https://www.legislation.gov.uk/uksi/1998/504))[^c-494be7ddcde042151b45a2d4eaca5293][^c-c439ab32ba2d4a314e2a2172ceb68304]
 
 In paragraph 4(2A) of Schedule 8 (directors’ report) to the Building Societies (Accounts and Related Provisions) Regulations 1998, after “2008” insert “or a transfer required by section 2A(8) of that Act”.
 
-### 2. Financial Services and Markets Act [2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8)[^key-06cc4008314e7b4ea8fb7cce258575f5][^key-6e84f4789727613f545b0ab79b95a13e]
+### 2. Financial Services and Markets Act [2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8)[^c-06cc4008314e7b4ea8fb7cce258575f5][^c-6e84f4789727613f545b0ab79b95a13e]
 
 (1) Part 24 of FSMA 2000 (insolvency) is amended as follows.
 
@@ -945,7 +945,7 @@ In paragraph 4(2A) of Schedule 8 (directors’ report) to the Building Societies
 
 (3) In section 369A (reclaim funds: service of petition etc on FCA and PRA), in subsection (3) for the words from “means” to the end substitute “has the same meaning as in the Dormant Assets Acts 2008 to 2022 (see section 26 of the Dormant Assets Act 2022)”.
 
-### 3. Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 ([SI 2001/544](https://www.legislation.gov.uk/uksi/2001/544))[^key-bb7219f10f29d931dfcc6fafdbb967ba][^key-59d14496fdb701dbfd524e37e9c1ace6]
+### 3. Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 ([SI 2001/544](https://www.legislation.gov.uk/uksi/2001/544))[^c-bb7219f10f29d931dfcc6fafdbb967ba][^c-59d14496fdb701dbfd524e37e9c1ace6]
 
 (1) Article 63N of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 (activities of reclaim funds) is amended as follows.
 
@@ -982,17 +982,17 @@ In paragraph 4(2A) of Schedule 8 (directors’ report) to the Building Societies
   >
   > - (a) dealing with those funds with a view to the transfer of amounts to the body or bodies for the time being specified in section 16 of the Dormant Bank and Building Society Accounts Act 2008.
 
-### 4. Open-Ended Investment Companies Regulations 2001 ([SI 2001/1228](https://www.legislation.gov.uk/uksi/2001/1228))[^key-8772f14f6957d9a7996ad8234594ad29][^key-01b00a561905464ce600d617726b9a92]
+### 4. Open-Ended Investment Companies Regulations 2001 ([SI 2001/1228](https://www.legislation.gov.uk/uksi/2001/1228))[^c-8772f14f6957d9a7996ad8234594ad29][^c-01b00a561905464ce600d617726b9a92]
 
 In regulation 33 of the Open-Ended Investment Companies Regulations 2001 (winding-up otherwise than by court), after paragraph (5) insert—
 
 > (6) The duty to deal with a sum of money in accordance with paragraph (4) or (5) does not apply if (or to the extent that) it is transferred to an authorised reclaim fund as orphan monies attributable to a collective scheme investment by virtue of sections 8 to 10 of the Dormant Assets Act 2022 (transfer of eligible amount owing by virtue of a collective scheme investment).
 
-### 5. Dormant Bank and Building Society Accounts Act [2008 (c. 31)](https://www.legislation.gov.uk/ukpga/2008/31)[^key-cb2e10e35db5da06bc942019fe900bef][^key-66b3328f51a087ad254d367701820577]
+### 5. Dormant Bank and Building Society Accounts Act [2008 (c. 31)](https://www.legislation.gov.uk/ukpga/2008/31)[^c-cb2e10e35db5da06bc942019fe900bef][^c-66b3328f51a087ad254d367701820577]
 
 The 2008 Act is amended as follows.
 
-**6.**[^key-2b9973b7cbffe815627cc445645c44bf][^key-3cee7ea86ffaa055dd16e3c8234daa55] (1) In section 1 (transfer of balances to reclaim fund), after subsection (2) insert—
+**6.**[^c-2b9973b7cbffe815627cc445645c44bf][^c-3cee7ea86ffaa055dd16e3c8234daa55] (1) In section 1 (transfer of balances to reclaim fund), after subsection (2) insert—
 
 > (2A) A transfer of the balance of a dormant account as mentioned in subsection (1) does not itself—
 >
@@ -1001,7 +1001,7 @@ The 2008 Act is amended as follows.
 
 (2) The amendment made by sub-paragraph (1) does not apply in relation to a transfer made before it comes into force.
 
-**7.**[^key-5e5556d1d816905dc3c7387d1ffd18ec][^key-f83eabd79c3d1ac25f79d932e7c7cd2d] (1) In section 2 (transfer of balances to charities, with proportion to reclaim fund), after subsection (6) insert—
+**7.**[^c-5e5556d1d816905dc3c7387d1ffd18ec][^c-f83eabd79c3d1ac25f79d932e7c7cd2d] (1) In section 2 (transfer of balances to charities, with proportion to reclaim fund), after subsection (6) insert—
 
 > (7) A transfer of an amount to an authorised reclaim fund and to one or more charities as mentioned in subsection (1) does not itself—
 >
@@ -1010,7 +1010,7 @@ The 2008 Act is amended as follows.
 
 (2) The amendment made by sub-paragraph (1) does not apply in relation to a transfer made before it comes into force.
 
-**8.**[^key-e63592f5aab46a82f51da5f60187ddd9][^key-5a0485fd4af64597a6c5e094aa994365] (1) Section 5 (objects of a reclaim fund) is amended as follows.
+**8.**[^c-e63592f5aab46a82f51da5f60187ddd9][^c-5a0485fd4af64597a6c5e094aa994365] (1) Section 5 (objects of a reclaim fund) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -1033,7 +1033,7 @@ The 2008 Act is amended as follows.
   ;
 - (b) in the definition of “repayment claims” at the end insert “above or section 2(2)(b), 5(2)(b) or (3)(b), 8(2)(b), 12(2)(b) or 14(2)(b) of the Dormant Assets Act 2022.”
 
-**9.**[^key-c816a601ee516f7e5c833ed9d2bb11e7][^key-2dd9dd79dc7b552239ae475a189bba73] In section 6 (interpretation of Part 1)—
+**9.**[^c-c816a601ee516f7e5c833ed9d2bb11e7][^c-2dd9dd79dc7b552239ae475a189bba73] In section 6 (interpretation of Part 1)—
 
 - (a) omit the definition of “authorised”;
 - (b) after ““dormant”” insert “(except in the term “dormant assets funds”)”;
@@ -1041,11 +1041,11 @@ The 2008 Act is amended as follows.
 
   > - “**transfers**”, in relation to the balance of a dormant account, includes bringing about the transfer of the balance.
 
-**10.**[^key-e227fd0c5d6dfa52db13f063901e0e68][^key-f3813de95ae468b8a6b99ce06c096a5c] In section 13 (banks making section 2 transfers: information in directors reports), in subsection (1)(b), at the end insert “or a transfer required by section 2A(8)”.
+**10.**[^c-e227fd0c5d6dfa52db13f063901e0e68][^c-f3813de95ae468b8a6b99ce06c096a5c] In section 13 (banks making section 2 transfers: information in directors reports), in subsection (1)(b), at the end insert “or a transfer required by section 2A(8)”.
 
-**11.**[^key-a8142b3d92cf6a5d0f76dde5103202fe][^key-32d6ed63f5e06917ca6418e04f349cdd] For the heading to Part 2 substitute “DISTRIBUTION OF DORMANT ASSETS MONEY”.
+**11.**[^c-a8142b3d92cf6a5d0f76dde5103202fe][^c-32d6ed63f5e06917ca6418e04f349cdd] For the heading to Part 2 substitute “DISTRIBUTION OF DORMANT ASSETS MONEY”.
 
-**12.**[^key-f56b07113465129d4b542ceeff9921d6][^key-913469013192972a25858e487afe1f81] (1) In—
+**12.**[^c-f56b07113465129d4b542ceeff9921d6][^c-913469013192972a25858e487afe1f81] (1) In—
 
 - (a) the headings to sections 16 and 17, and
 - (b) sections 16(1) and (6), 17(3), 18(1), 19(1), 20(1), 21(1), 23(1) and 26(1) to (3),
@@ -1060,19 +1060,19 @@ for “dormant account” substitute “dormant assets”.
 - (b) in paragraph 5(1), (5) and (6), for “dormant account functions” substitute “dormant assets functions”;
 - (c) in paragraph 6(1) for ““dormant account functions”” substitute ““dormant assets functions””.
 
-**13.**[^key-43c5037eb2d81da1c9100f41c2123fdd][^key-78479b965829c5337cec5b16d0abed67] In section 16 (distribution of dormant assets money by Big Lottery Fund) in subsection (2)—
+**13.**[^c-43c5037eb2d81da1c9100f41c2123fdd][^c-78479b965829c5337cec5b16d0abed67] In section 16 (distribution of dormant assets money by Big Lottery Fund) in subsection (2)—
 
 - (a) for “the object” substitute “any of the objects”;
 - (b) after “5(1)(c)” insert “to (cb)”.
 
-**14.**[^key-3f55eeab37eba904849704206cc6a2e7][^key-2282a6aa264e59461e90dab13836b99b] In section 24 (power to add or remove distributors), in subsection (4)—
+**14.**[^c-3f55eeab37eba904849704206cc6a2e7][^c-2282a6aa264e59461e90dab13836b99b] In section 24 (power to add or remove distributors), in subsection (4)—
 
 - (a) for “the object” substitute “any of the objects”;
 - (b) after “5(1)(c)” insert “to (cb)”.
 
-**15.**[^key-5ddd6582ab15f1a7499843a69ac6b7e8][^key-10520f2f1d5f8724b07f493d92645742] In section 26 (expenses), in subsections (3)(b), (6), (8) and (10) after “this Act” insert “or the Dormant Assets Act 2022”.
+**15.**[^c-5ddd6582ab15f1a7499843a69ac6b7e8][^c-10520f2f1d5f8724b07f493d92645742] In section 26 (expenses), in subsections (3)(b), (6), (8) and (10) after “this Act” insert “or the Dormant Assets Act 2022”.
 
-**16.**[^key-4f67b1bb07cf3c0a1f05842dacd6acfe][^key-048d3782cc39c4f150cc4fd27ef35200] (1) Schedule 1 (provision to be made in articles of association of reclaim fund) is amended as follows.
+**16.**[^c-4f67b1bb07cf3c0a1f05842dacd6acfe][^c-048d3782cc39c4f150cc4fd27ef35200] (1) Schedule 1 (provision to be made in articles of association of reclaim fund) is amended as follows.
 
 (2) Before paragraph 1 insert—
 
@@ -1101,15 +1101,15 @@ for “dormant account” substitute “dormant assets”.
 
   > - (b) where a transfer of an amount to the reclaim fund was made as part of a business currently carried on by another institution (“**the successor**”), the transfer is to be treated as having been made by the successor.
 
-### 17. Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order 2009 ([SI 2009/317](https://www.legislation.gov.uk/uksi/2009/317))[^key-0855be855c37ac1c338e379f88c1daca][^key-8d6064c564aa8f7394aa1a1f27b662d0]
+### 17. Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order 2009 ([SI 2009/317](https://www.legislation.gov.uk/uksi/2009/317))[^c-0855be855c37ac1c338e379f88c1daca][^c-8d6064c564aa8f7394aa1a1f27b662d0]
 
 In the Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order 2009, omit article 7 (Dormant Bank and Building Society Accounts Act 2008).
 
-### 18. Distribution of Dormant Account Money (Apportionment) Order 2011 ([SI 2011/1799](https://www.legislation.gov.uk/uksi/2011/1799))[^key-25aeceb7af3e5ea68bc6e1181aba80b4][^key-1cf6a9c05878777d55762028a97a138f]
+### 18. Distribution of Dormant Account Money (Apportionment) Order 2011 ([SI 2011/1799](https://www.legislation.gov.uk/uksi/2011/1799))[^c-25aeceb7af3e5ea68bc6e1181aba80b4][^c-1cf6a9c05878777d55762028a97a138f]
 
 In article 2 of the Distribution of Dormant Account Money (Apportionment) Order 2011 (interpretation), for “dormant account money” substitute “dormant assets money”.
 
-## SCHEDULE 2 — Index of defined expressions[^key-b78d99a4d972296f4a036e057ec9162d][^key-4f1dcddd9c0ccc12d4048fb63e5fe40d]
+## SCHEDULE 2 — Index of defined expressions[^c-b78d99a4d972296f4a036e057ec9162d][^c-4f1dcddd9c0ccc12d4048fb63e5fe40d]
 
 Section 33
 
@@ -1156,232 +1156,232 @@ Section 33
 
 ## Annotations
 
-[^key-8d3c5946f1060c5ffb9550541db07c16]: Commencement: S. 1 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-8d3c5946f1060c5ffb9550541db07c16]: Commencement: S. 1 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-458e268f988e7b691c11ba09e5201c2d]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/5/section/1) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-458e268f988e7b691c11ba09e5201c2d]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/5/section/1) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-b6af1d8450e704abbc34c77e2d5e6fcf]: Commencement: S. 2 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-b6af1d8450e704abbc34c77e2d5e6fcf]: Commencement: S. 2 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-39cdf89d24378304b946f3e34e5faa3e]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/5/section/2) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-39cdf89d24378304b946f3e34e5faa3e]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/5/section/2) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-c5695de049554ba60bc379c53c623901]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/2022/5/section/2) applied (6.6.2022) by [2008 c. 9](https://www.legislation.gov.uk/ukpga/2008/9), [s. 39(2)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/39/2/a) (as substituted by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 2](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/2), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2))
+[^c-c5695de049554ba60bc379c53c623901]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/2022/5/section/2) applied (6.6.2022) by [2008 c. 9](https://www.legislation.gov.uk/ukpga/2008/9), [s. 39(2)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/39/2/a) (as substituted by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 2](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/2), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2))
 
-[^key-9552f9b690b712198bfc60ca4a3c86b4]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/2022/5/section/2) applied (6.6.2022) by [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12), [s. 26A(2)(a)](https://www.legislation.gov.uk/ukpga/1992/12/section/26A/2/a) (as substituted by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2))
+[^c-9552f9b690b712198bfc60ca4a3c86b4]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/2022/5/section/2) applied (6.6.2022) by [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12), [s. 26A(2)(a)](https://www.legislation.gov.uk/ukpga/1992/12/section/26A/2/a) (as substituted by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2))
 
-[^key-1ab638742956bbef1d7896f219b77807]: Commencement: S. 3 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-1ab638742956bbef1d7896f219b77807]: Commencement: S. 3 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-332ea79c3f5f3b95ffbad8127c7dbbf8]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2022/5/section/3) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-332ea79c3f5f3b95ffbad8127c7dbbf8]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2022/5/section/3) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-a1a8e014fc180b34ca5896a1a12fd9d4]: Commencement: S. 4 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-a1a8e014fc180b34ca5896a1a12fd9d4]: Commencement: S. 4 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-f1ed9e0d67ef9ce84d01fcb682bfd6dc]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2022/5/section/4) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-f1ed9e0d67ef9ce84d01fcb682bfd6dc]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2022/5/section/4) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-2353ad8384678e5d9da446da652682a5]: Commencement: S. 5 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-2353ad8384678e5d9da446da652682a5]: Commencement: S. 5 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-d26b67737bf823bebe9043d10d847302]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2022/5/section/5) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-d26b67737bf823bebe9043d10d847302]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2022/5/section/5) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-74b29fa49f1b63d9fc69634c9f422fbe]: Modification: [S. 5](https://www.legislation.gov.uk/ukpga/2022/5/section/5) applied (6.6.2022) by [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12), [s. 26A(2)(a)](https://www.legislation.gov.uk/ukpga/1992/12/section/26A/2/a) (as substituted by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2))
+[^c-74b29fa49f1b63d9fc69634c9f422fbe]: Modification: [S. 5](https://www.legislation.gov.uk/ukpga/2022/5/section/5) applied (6.6.2022) by [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12), [s. 26A(2)(a)](https://www.legislation.gov.uk/ukpga/1992/12/section/26A/2/a) (as substituted by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2))
 
-[^key-465ca77fdac5c957847efe34cbfc58e3]: Modification: [S. 5](https://www.legislation.gov.uk/ukpga/2022/5/section/5) applied (6.6.2022) by [2008 c. 9](https://www.legislation.gov.uk/ukpga/2008/9), [s. 39(2)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/39/2/a) (as substituted by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 2](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/2), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2))
+[^c-465ca77fdac5c957847efe34cbfc58e3]: Modification: [S. 5](https://www.legislation.gov.uk/ukpga/2022/5/section/5) applied (6.6.2022) by [2008 c. 9](https://www.legislation.gov.uk/ukpga/2008/9), [s. 39(2)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/39/2/a) (as substituted by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 2](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/2), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2))
 
-[^key-bfc713cd09af47de715ce21562731abc]: Commencement: S. 6 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-bfc713cd09af47de715ce21562731abc]: Commencement: S. 6 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-876c2f193a2c0c8a1f5425aa618d5c29]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2022/5/section/6) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-876c2f193a2c0c8a1f5425aa618d5c29]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2022/5/section/6) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-a7bc8f44a7ea0c8db836b48634631146]: Commencement: S. 7 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-a7bc8f44a7ea0c8db836b48634631146]: Commencement: S. 7 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-7a15b863e9734f1844c95537519e8e1b]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2022/5/section/7) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-7a15b863e9734f1844c95537519e8e1b]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2022/5/section/7) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-9d6ab4c4ce12d934ad2ed7e9f779f226]: Commencement: S. 8 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-9d6ab4c4ce12d934ad2ed7e9f779f226]: Commencement: S. 8 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-32ab2a3ed3dc0e1626ceb68be9de7821]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2022/5/section/8) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-32ab2a3ed3dc0e1626ceb68be9de7821]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2022/5/section/8) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-b78707890b92ca2823012ac2d5d80f47]: Modification: [S. 8](https://www.legislation.gov.uk/ukpga/2022/5/section/8) applied (6.6.2022) by [2008 c. 9](https://www.legislation.gov.uk/ukpga/2008/9), [s. 39(2)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/39/2/a) (as substituted by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 2](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/2), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2))
+[^c-b78707890b92ca2823012ac2d5d80f47]: Modification: [S. 8](https://www.legislation.gov.uk/ukpga/2022/5/section/8) applied (6.6.2022) by [2008 c. 9](https://www.legislation.gov.uk/ukpga/2008/9), [s. 39(2)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/39/2/a) (as substituted by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 2](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/2), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2))
 
-[^key-e6d332e7ebb6217f52a878cebf6064a5]: Modification: [S. 8](https://www.legislation.gov.uk/ukpga/2022/5/section/8) applied (6.6.2022) by [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12), [s. 26A(2)(a)](https://www.legislation.gov.uk/ukpga/1992/12/section/26A/2/a) (as substituted by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2))
+[^c-e6d332e7ebb6217f52a878cebf6064a5]: Modification: [S. 8](https://www.legislation.gov.uk/ukpga/2022/5/section/8) applied (6.6.2022) by [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12), [s. 26A(2)(a)](https://www.legislation.gov.uk/ukpga/1992/12/section/26A/2/a) (as substituted by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2))
 
-[^key-4bd6e2ac044e0ae00571b8b15b2a743e]: Commencement: S. 9 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-4bd6e2ac044e0ae00571b8b15b2a743e]: Commencement: S. 9 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-f5463d1a608985fdc632dcfcffe0c2d8]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2022/5/section/9) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-f5463d1a608985fdc632dcfcffe0c2d8]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2022/5/section/9) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-cc3f8f5e00b111832dd062aa752c42df]: Commencement: S. 10 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-cc3f8f5e00b111832dd062aa752c42df]: Commencement: S. 10 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-7b727fb431e782cd7e4264022fc2b817]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2022/5/section/10) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-7b727fb431e782cd7e4264022fc2b817]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2022/5/section/10) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-7c33ac03027bffd8696d9265af4a8ec5]: Commencement: S. 11 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-7c33ac03027bffd8696d9265af4a8ec5]: Commencement: S. 11 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-d9b6306cddb75452eb4691ba4d4ce7f1]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2022/5/section/11) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-d9b6306cddb75452eb4691ba4d4ce7f1]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2022/5/section/11) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-23b214348cf6b5e1c10bfc4cec1102cf]: Commencement: S. 12 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-23b214348cf6b5e1c10bfc4cec1102cf]: Commencement: S. 12 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-15547db7ea2e55a500cfd549683564d7]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2022/5/section/12) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-15547db7ea2e55a500cfd549683564d7]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2022/5/section/12) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-37dca222eebb9ac13648b038660984a8]: Modification: [S. 12](https://www.legislation.gov.uk/ukpga/2022/5/section/12) applied (6.6.2022) by [2008 c. 9](https://www.legislation.gov.uk/ukpga/2008/9), [s. 39(2)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/39/2/a) (as substituted by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 2](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/2), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2))
+[^c-37dca222eebb9ac13648b038660984a8]: Modification: [S. 12](https://www.legislation.gov.uk/ukpga/2022/5/section/12) applied (6.6.2022) by [2008 c. 9](https://www.legislation.gov.uk/ukpga/2008/9), [s. 39(2)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/39/2/a) (as substituted by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 2](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/2), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2))
 
-[^key-019e6429ec6c4d8dc797117e060430cb]: Modification: [S. 12](https://www.legislation.gov.uk/ukpga/2022/5/section/12) applied (6.6.2022) by [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12), [s. 26A(2)(a)](https://www.legislation.gov.uk/ukpga/1992/12/section/26A/2/a) (as substituted by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2))
+[^c-019e6429ec6c4d8dc797117e060430cb]: Modification: [S. 12](https://www.legislation.gov.uk/ukpga/2022/5/section/12) applied (6.6.2022) by [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12), [s. 26A(2)(a)](https://www.legislation.gov.uk/ukpga/1992/12/section/26A/2/a) (as substituted by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2))
 
-[^key-eb5ec4ac30e9e6120c60dbdbd3f3e75e]: Commencement: S. 13 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-eb5ec4ac30e9e6120c60dbdbd3f3e75e]: Commencement: S. 13 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-37ed50e08a648f080ac422a840e2a265]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2022/5/section/13) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-37ed50e08a648f080ac422a840e2a265]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2022/5/section/13) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-2ffbe9d71c1ef067ac74fb022a2baaff]: Commencement: S. 14 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-2ffbe9d71c1ef067ac74fb022a2baaff]: Commencement: S. 14 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-f18c095d028b72d61cc1eb5c4bb257a6]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2022/5/section/14) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-f18c095d028b72d61cc1eb5c4bb257a6]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2022/5/section/14) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-32451b6d5dda2fe653857cbdc16aebae]: Modification: [S. 14](https://www.legislation.gov.uk/ukpga/2022/5/section/14) applied (6.6.2022) by [2008 c. 9](https://www.legislation.gov.uk/ukpga/2008/9), [s. 39(2)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/39/2/a) (as substituted by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 2](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/2), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2))
+[^c-32451b6d5dda2fe653857cbdc16aebae]: Modification: [S. 14](https://www.legislation.gov.uk/ukpga/2022/5/section/14) applied (6.6.2022) by [2008 c. 9](https://www.legislation.gov.uk/ukpga/2008/9), [s. 39(2)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/39/2/a) (as substituted by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 2](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/2), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2))
 
-[^key-9c8717db5ca4141ab50ab880e796031b]: Modification: [S. 14](https://www.legislation.gov.uk/ukpga/2022/5/section/14) applied (6.6.2022) by [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12), [s. 26A(2)(a)](https://www.legislation.gov.uk/ukpga/1992/12/section/26A/2/a) (as substituted by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2))
+[^c-9c8717db5ca4141ab50ab880e796031b]: Modification: [S. 14](https://www.legislation.gov.uk/ukpga/2022/5/section/14) applied (6.6.2022) by [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12), [s. 26A(2)(a)](https://www.legislation.gov.uk/ukpga/1992/12/section/26A/2/a) (as substituted by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2))
 
-[^key-13b5cd26195598b79c38eea265fd3ac1]: Commencement: S. 15 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-13b5cd26195598b79c38eea265fd3ac1]: Commencement: S. 15 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-6980dabd84a1f33f68f63c7f253e9c1c]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2022/5/section/15) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-6980dabd84a1f33f68f63c7f253e9c1c]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2022/5/section/15) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-e8f7087e13189bc7dc329da1fcb4f76c]: Commencement: S. 16 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-e8f7087e13189bc7dc329da1fcb4f76c]: Commencement: S. 16 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-3acc4f4ee200f2ebac86e267d05e536f]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2022/5/section/16) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-3acc4f4ee200f2ebac86e267d05e536f]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2022/5/section/16) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-d3fe4c57595b0ddaf3f025709399f1c8]: Commencement: S. 17 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-d3fe4c57595b0ddaf3f025709399f1c8]: Commencement: S. 17 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-935ed3e1519c4b81d9d5e8f4643d98b2]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2022/5/section/17) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-935ed3e1519c4b81d9d5e8f4643d98b2]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2022/5/section/17) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-513842a52f3722831150679294166fa6]: Commencement: S. 18 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-513842a52f3722831150679294166fa6]: Commencement: S. 18 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-668d163f0388e83c090a93d536e87a42]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2022/5/section/18) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-668d163f0388e83c090a93d536e87a42]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2022/5/section/18) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-a7a551a0a07f17b9dab0a41fe29f88d2]: Commencement: S. 19 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-a7a551a0a07f17b9dab0a41fe29f88d2]: Commencement: S. 19 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-31ad83557189e97119bea86774ab4d25]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2022/5/section/19) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-31ad83557189e97119bea86774ab4d25]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2022/5/section/19) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-4c9878d00d301dbda2393f29b78284ad]: Commencement: S. 20 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-4c9878d00d301dbda2393f29b78284ad]: Commencement: S. 20 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-091c98ca0ec154986d6ebbbdf80f042a]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2022/5/section/20) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-091c98ca0ec154986d6ebbbdf80f042a]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2022/5/section/20) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-c12f168de5aa169084aff720284b3f2e]: Commencement: S. 21 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-c12f168de5aa169084aff720284b3f2e]: Commencement: S. 21 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-f1c298d2c6f506e12f98033acb201cdf]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2022/5/section/21) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-f1c298d2c6f506e12f98033acb201cdf]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2022/5/section/21) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-2c2c1236a2de02a929d662104b1f8620]: Commencement: S. 22 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-2c2c1236a2de02a929d662104b1f8620]: Commencement: S. 22 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-f9e239faf3e6ad295970d9a32634f4bb]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2022/5/section/22) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-f9e239faf3e6ad295970d9a32634f4bb]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2022/5/section/22) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-9b47145a28357cda03e0741d2f136237]: Commencement: S. 23 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-9b47145a28357cda03e0741d2f136237]: Commencement: S. 23 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-891ae5f0089a52d4df49ab7ca08e400d]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2022/5/section/23) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-891ae5f0089a52d4df49ab7ca08e400d]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2022/5/section/23) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-a7ae952182c54689af9b093f34a52439]: Commencement: S. 24 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-a7ae952182c54689af9b093f34a52439]: Commencement: S. 24 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-b699170cc4de7352406e69c0cbac2934]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2022/5/section/24) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-b699170cc4de7352406e69c0cbac2934]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2022/5/section/24) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-1731475ca522ed24569672decc32a0e2]: Commencement: S. 25 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-1731475ca522ed24569672decc32a0e2]: Commencement: S. 25 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-be864de32a91ac838008c09ff5fec967]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2022/5/section/25) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-be864de32a91ac838008c09ff5fec967]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2022/5/section/25) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-4d10dcfbeab19aa6ce7e77ba7815e3b3]: Commencement: S. 26 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-4d10dcfbeab19aa6ce7e77ba7815e3b3]: Commencement: S. 26 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-73d8aa6433c20e508014ed25ccb6cf9f]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2022/5/section/26) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-73d8aa6433c20e508014ed25ccb6cf9f]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2022/5/section/26) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-8eb933c954522acc073558aed8d720d4]: Commencement: S. 27 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-8eb933c954522acc073558aed8d720d4]: Commencement: S. 27 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-64d6db1dccf464c868a41e08d6900537]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2022/5/section/27) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-64d6db1dccf464c868a41e08d6900537]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2022/5/section/27) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-5e4b5a84345bb5f8453bf582969ea01a]: Commencement: S. 28 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-5e4b5a84345bb5f8453bf582969ea01a]: Commencement: S. 28 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-4450ddbfe7cd5e2583fbd4a0b0e3dd2e]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2022/5/section/28) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-4450ddbfe7cd5e2583fbd4a0b0e3dd2e]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2022/5/section/28) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-653003a5737df6e0a45669fd36c6d109]: Commencement: S. 29 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-653003a5737df6e0a45669fd36c6d109]: Commencement: S. 29 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-aeb944252a8cdea74cc5e328f8a77b68]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2022/5/section/29) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-aeb944252a8cdea74cc5e328f8a77b68]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2022/5/section/29) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-0b61c1aacf1c69d297cb0bd07858889f]: Commencement: S. 30 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-0b61c1aacf1c69d297cb0bd07858889f]: Commencement: S. 30 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-0e4c1a92852d0268e3b5a5baf5436352]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2022/5/section/30) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-0e4c1a92852d0268e3b5a5baf5436352]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2022/5/section/30) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-179834cdbb8761f551ed16c80ed164cd]: Commencement: S. 31 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-179834cdbb8761f551ed16c80ed164cd]: Commencement: S. 31 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-a3ec81aae11c45e9a86333b0c0120999]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2022/5/section/31) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-a3ec81aae11c45e9a86333b0c0120999]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2022/5/section/31) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-e911065662ac1d0eaffb2aa8a2b0e18a]: Commencement: S. 32 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-e911065662ac1d0eaffb2aa8a2b0e18a]: Commencement: S. 32 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-f9e54c4999378bb77d8a3246f933548d]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2022/5/section/32) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-f9e54c4999378bb77d8a3246f933548d]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2022/5/section/32) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-ee32f17b698d433885e9ad47fded0caa]: Commencement: S. 33 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-ee32f17b698d433885e9ad47fded0caa]: Commencement: S. 33 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-8673cd90492fbeff1516cc4386af9f09]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2022/5/section/33) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-8673cd90492fbeff1516cc4386af9f09]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2022/5/section/33) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-ed270638068801a97845d9b33e7a5036]: Commencement: S. 34 in force at Royal Assent, see [s. 34(2)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/2)
+[^c-ed270638068801a97845d9b33e7a5036]: Commencement: S. 34 in force at Royal Assent, see [s. 34(2)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/2)
 
-[^key-494be7ddcde042151b45a2d4eaca5293]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-494be7ddcde042151b45a2d4eaca5293]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-c439ab32ba2d4a314e2a2172ceb68304]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/1) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-c439ab32ba2d4a314e2a2172ceb68304]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/1) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-06cc4008314e7b4ea8fb7cce258575f5]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-06cc4008314e7b4ea8fb7cce258575f5]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-6e84f4789727613f545b0ab79b95a13e]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/2) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-6e84f4789727613f545b0ab79b95a13e]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/2) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-bb7219f10f29d931dfcc6fafdbb967ba]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-bb7219f10f29d931dfcc6fafdbb967ba]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-59d14496fdb701dbfd524e37e9c1ace6]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/3) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-59d14496fdb701dbfd524e37e9c1ace6]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/3) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-8772f14f6957d9a7996ad8234594ad29]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-8772f14f6957d9a7996ad8234594ad29]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-01b00a561905464ce600d617726b9a92]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/4) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-01b00a561905464ce600d617726b9a92]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/4) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-cb2e10e35db5da06bc942019fe900bef]: Commencement: Sch. 1 para. 5 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-cb2e10e35db5da06bc942019fe900bef]: Commencement: Sch. 1 para. 5 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-66b3328f51a087ad254d367701820577]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/5) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-66b3328f51a087ad254d367701820577]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/5) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-2b9973b7cbffe815627cc445645c44bf]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-2b9973b7cbffe815627cc445645c44bf]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-3cee7ea86ffaa055dd16e3c8234daa55]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/6) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-3cee7ea86ffaa055dd16e3c8234daa55]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/6) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-5e5556d1d816905dc3c7387d1ffd18ec]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-5e5556d1d816905dc3c7387d1ffd18ec]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-f83eabd79c3d1ac25f79d932e7c7cd2d]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/7) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-f83eabd79c3d1ac25f79d932e7c7cd2d]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/7) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-e63592f5aab46a82f51da5f60187ddd9]: Commencement: Sch. 1 para. 8 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-e63592f5aab46a82f51da5f60187ddd9]: Commencement: Sch. 1 para. 8 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-5a0485fd4af64597a6c5e094aa994365]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/8) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-5a0485fd4af64597a6c5e094aa994365]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/8) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-c816a601ee516f7e5c833ed9d2bb11e7]: Commencement: Sch. 1 para. 9 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-c816a601ee516f7e5c833ed9d2bb11e7]: Commencement: Sch. 1 para. 9 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-2dd9dd79dc7b552239ae475a189bba73]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/9) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-2dd9dd79dc7b552239ae475a189bba73]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/9) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-e227fd0c5d6dfa52db13f063901e0e68]: Commencement: Sch. 1 para. 10 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-e227fd0c5d6dfa52db13f063901e0e68]: Commencement: Sch. 1 para. 10 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-f3813de95ae468b8a6b99ce06c096a5c]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/10) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-f3813de95ae468b8a6b99ce06c096a5c]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/10) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-a8142b3d92cf6a5d0f76dde5103202fe]: Commencement: Sch. 1 para. 11 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-a8142b3d92cf6a5d0f76dde5103202fe]: Commencement: Sch. 1 para. 11 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-32d6ed63f5e06917ca6418e04f349cdd]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/11) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-32d6ed63f5e06917ca6418e04f349cdd]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/11) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-f56b07113465129d4b542ceeff9921d6]: Commencement: Sch. 1 para. 12 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-f56b07113465129d4b542ceeff9921d6]: Commencement: Sch. 1 para. 12 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-913469013192972a25858e487afe1f81]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-913469013192972a25858e487afe1f81]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/12) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-43c5037eb2d81da1c9100f41c2123fdd]: Commencement: Sch. 1 para. 13 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-43c5037eb2d81da1c9100f41c2123fdd]: Commencement: Sch. 1 para. 13 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-78479b965829c5337cec5b16d0abed67]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/13) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-78479b965829c5337cec5b16d0abed67]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/13) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-3f55eeab37eba904849704206cc6a2e7]: Commencement: Sch. 1 para. 14 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-3f55eeab37eba904849704206cc6a2e7]: Commencement: Sch. 1 para. 14 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-2282a6aa264e59461e90dab13836b99b]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/14) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-2282a6aa264e59461e90dab13836b99b]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/14) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-5ddd6582ab15f1a7499843a69ac6b7e8]: Commencement: Sch. 1 para. 15 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-5ddd6582ab15f1a7499843a69ac6b7e8]: Commencement: Sch. 1 para. 15 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-10520f2f1d5f8724b07f493d92645742]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/15) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-10520f2f1d5f8724b07f493d92645742]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/15) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-4f67b1bb07cf3c0a1f05842dacd6acfe]: Commencement: Sch. 1 para. 16 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-4f67b1bb07cf3c0a1f05842dacd6acfe]: Commencement: Sch. 1 para. 16 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-048d3782cc39c4f150cc4fd27ef35200]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/16) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-048d3782cc39c4f150cc4fd27ef35200]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/16) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-0855be855c37ac1c338e379f88c1daca]: Commencement: Sch. 1 para. 17 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-0855be855c37ac1c338e379f88c1daca]: Commencement: Sch. 1 para. 17 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-8d6064c564aa8f7394aa1a1f27b662d0]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/17) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-8d6064c564aa8f7394aa1a1f27b662d0]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/17) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-25aeceb7af3e5ea68bc6e1181aba80b4]: Commencement: Sch. 1 para. 18 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-25aeceb7af3e5ea68bc6e1181aba80b4]: Commencement: Sch. 1 para. 18 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-1cf6a9c05878777d55762028a97a138f]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/18) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-1cf6a9c05878777d55762028a97a138f]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/18) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-b78d99a4d972296f4a036e057ec9162d]: Commencement: Sch. 2 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
+[^c-b78d99a4d972296f4a036e057ec9162d]: Commencement: Sch. 2 not in force at Royal Assent, see [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3)
 
-[^key-4f1dcddd9c0ccc12d4048fb63e5fe40d]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2022/5/schedule/2) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-4f1dcddd9c0ccc12d4048fb63e5fe40d]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2022/5/schedule/2) in force at 6.6.2022 by [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)

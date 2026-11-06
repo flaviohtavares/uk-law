@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-0b755fac1ec60561ff11244799126a09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-0b755fac1ec60561ff11244799126a09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-0b755fac1ec60561ff11244799126a09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0b755fac1ec60561ff11244799126a09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Any regulations made under section 67 of the 1972 Act (regulations in connection with implementation of recommendations and proposals under Part 4 of that Act) which are in force at the date of commencement of this section are to have effect in relation to orders under Part 3 of this Act (orders implementing changes following reviews) as if those orders were made under Part 4 of the 1972 Act.
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b755fac1ec60561ff11244799126a09]: Textual amendment: S. 74(1)(2) omitted (25.6.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 5(3)](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/5/3)
+[^c-0b755fac1ec60561ff11244799126a09]: Textual amendment: S. 74(1)(2) omitted (25.6.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 5(3)](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/5/3)

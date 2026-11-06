@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Part 11[^key-82d8b0c38ee37eeb24eb8e566af3915e]
+## 14. Part 11[^c-82d8b0c38ee37eeb24eb8e566af3915e]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-82d8b0c38ee37eeb24eb8e566af3915e]: Commencement: Reg. 14(1)(2)(a)(c)-(f)(3)-(5) in force and reg. 14(2)(b) in force for specified purposes at 31.12.2020 on IP completion day
+[^c-82d8b0c38ee37eeb24eb8e566af3915e]: Commencement: Reg. 14(1)(2)(a)(c)-(f)(3)-(5) in force and reg. 14(2)(b) in force for specified purposes at 31.12.2020 on IP completion day
 
     Reg. 14(2)(b) in force in so far as not already in force at 1.1.2021, see reg. 1(2)(b)(c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 169. Debt payable at a future time[^key-42380eb5eb948a53027ac9c42a9be549]
+## 169. Debt payable at a future time[^c-42380eb5eb948a53027ac9c42a9be549]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A creditor may prove for a debt of which payment was not yet due on the date whe
 
 ## Annotations
 
-[^key-42380eb5eb948a53027ac9c42a9be549]: Commencement: [Rule 169](https://www.legislation.gov.uk/uksi/2011/1301/rule/169) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-42380eb5eb948a53027ac9c42a9be549]: Commencement: [Rule 169](https://www.legislation.gov.uk/uksi/2011/1301/rule/169) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

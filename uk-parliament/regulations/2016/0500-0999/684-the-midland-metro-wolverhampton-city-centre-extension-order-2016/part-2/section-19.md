@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Attachment of equipment to buildings[^key-87082a9f0af5bca286647fc02d2ec7e6]
+## 19. Attachment of equipment to buildings[^c-87082a9f0af5bca286647fc02d2ec7e6]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The Authority may affix to any building constructed at any time within the perma
 
 ## Annotations
 
-[^key-87082a9f0af5bca286647fc02d2ec7e6]: Commencement: Art. 19 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-87082a9f0af5bca286647fc02d2ec7e6]: Commencement: Art. 19 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

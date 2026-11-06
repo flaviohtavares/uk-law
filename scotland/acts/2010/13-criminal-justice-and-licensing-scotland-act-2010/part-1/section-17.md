@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Presumption against short periods of imprisonment[^key-2dfa13a2a8f400b709e699828d911339]
+## 17. Presumption against short periods of imprisonment[^c-2dfa13a2a8f400b709e699828d911339]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ In section 204 of the 1995 Act (restrictions on passing sentence of imprisonment
 
 ## Annotations
 
-[^key-2dfa13a2a8f400b709e699828d911339]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2010/13/section/17) in force at 1.2.2011 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
+[^c-2dfa13a2a8f400b709e699828d911339]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2010/13/section/17) in force at 1.2.2011 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))

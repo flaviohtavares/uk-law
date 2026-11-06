@@ -34,7 +34,7 @@ Section 91(1).
 
 (3) A member of the Tribunal may resign his office at any time by notice in writing to the Lord Chancellor.
 
-**2A.**[^key-67141aea7eb120a09be80f106351cab4] (1) The Lord Chancellor may only appoint persons to the Tribunal who have been selected by the Northern Ireland Judicial Appointments Commission as follows.
+**2A.**[^c-67141aea7eb120a09be80f106351cab4] (1) The Lord Chancellor may only appoint persons to the Tribunal who have been selected by the Northern Ireland Judicial Appointments Commission as follows.
 
 (2) The Lord Chancellor may at any time by notice require the Commission to select a person for appointment.
 
@@ -95,7 +95,7 @@ Section 91(1).
 
 [^c12401041]: Commencement: Sch. 11 para. 2 wholly in force at 2.8.1999; Sch. 11 para. 2 not in force at Royal Assent see s. 101(3); Sch. 11 para. 2 in force for specified purposes at 15.2.1999 by [S.I. 1999/340](https://www.legislation.gov.uk/uksi/1999/340), [art. 2(2)](https://www.legislation.gov.uk/uksi/1999/340/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1999/340/schedule/part/2); Sch. 11 para. 2 in force at 2.8.1999 insofar as not already in force by [S.I. 1999/2204](https://www.legislation.gov.uk/uksi/1999/2204), [art. 5](https://www.legislation.gov.uk/uksi/1999/2204/article/5)
 
-[^key-67141aea7eb120a09be80f106351cab4]: Textual amendment: Sch. 11 para. 2A inserted (12.4.2010) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [s. 5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/4); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-67141aea7eb120a09be80f106351cab4]: Textual amendment: Sch. 11 para. 2A inserted (12.4.2010) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [s. 5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/4); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
 [^c12401081]: Commencement: Sch. 11 para. 3 wholly in force at 2.8.1999; Sch. 11 para. 3 not in force at Royal Assent see s. 101(3); Sch. 11 para. 3 in force for specified purposes at 15.2.1999 by [S.I. 1999/340](https://www.legislation.gov.uk/uksi/1999/340), [art. 2(2)](https://www.legislation.gov.uk/uksi/1999/340/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1999/340/schedule/part/2); Sch. 11 para. 3 in force at 2.8.1999 insofar as not already in force by [S.I. 1999/2204](https://www.legislation.gov.uk/uksi/1999/2204), [art. 5](https://www.legislation.gov.uk/uksi/1999/2204/article/5)
 

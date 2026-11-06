@@ -30,7 +30,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Definition of Treaties) (Partnership and Co-operation Agreement between the European Communities and their Member States and the Republic of Armenia) Order 1998 (revoked)[^key-0829053b97c56ab4d6c8479cd5f8f214]
+The European Communities (Definition of Treaties) (Partnership and Co-operation Agreement between the European Communities and their Member States and the Republic of Armenia) Order 1998 (revoked)[^c-0829053b97c56ab4d6c8479cd5f8f214]
 
 Made
 
@@ -38,26 +38,26 @@ Made
 
 Coming into force in accordance with Article 1
 
-[^key-0829053b97c56ab4d6c8479cd5f8f214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0829053b97c56ab4d6c8479cd5f8f214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-0829053b97c56ab4d6c8479cd5f8f214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-0829053b97c56ab4d6c8479cd5f8f214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-0829053b97c56ab4d6c8479cd5f8f214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-0829053b97c56ab4d6c8479cd5f8f214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0829053b97c56ab4d6c8479cd5f8f214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0829053b97c56ab4d6c8479cd5f8f214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-0829053b97c56ab4d6c8479cd5f8f214]
+## SCHEDULE[^c-0829053b97c56ab4d6c8479cd5f8f214]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0829053b97c56ab4d6c8479cd5f8f214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0829053b97c56ab4d6c8479cd5f8f214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0829053b97c56ab4d6c8479cd5f8f214]: Textual amendment: Order revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0829053b97c56ab4d6c8479cd5f8f214]: Textual amendment: Order revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

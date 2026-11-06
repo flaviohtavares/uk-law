@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 227. Contributions by departments towards compensation paid by councils[^key-62da081059213bf6206dfefc91f0d84f][^key-30374b372c22cdc8f540a71b2cb2d801]
+## 227. Contributions by departments towards compensation paid by councils[^c-62da081059213bf6206dfefc91f0d84f][^c-30374b372c22cdc8f540a71b2cb2d801]
 
 *Extent: N.I.*
 
@@ -31,6 +31,6 @@ the department responsible for the administration of that service may pay to tha
 
 ## Annotations
 
-[^key-62da081059213bf6206dfefc91f0d84f]: Commencement: S. 227 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
+[^c-62da081059213bf6206dfefc91f0d84f]: Commencement: S. 227 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
 
-[^key-30374b372c22cdc8f540a71b2cb2d801]: Commencement: S. 227 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
+[^c-30374b372c22cdc8f540a71b2cb2d801]: Commencement: S. 227 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)

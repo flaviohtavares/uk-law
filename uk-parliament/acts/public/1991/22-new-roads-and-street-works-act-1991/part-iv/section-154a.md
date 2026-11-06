@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154A. Fixed penalties for certain offences under this Part[^key-8ef62201fa39b06e21ce945133c402f7]
+## 154A. Fixed penalties for certain offences under this Part[^c-8ef62201fa39b06e21ce945133c402f7]
 
 *Extent: S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8ef62201fa39b06e21ce945133c402f7]: Textual amendment: [S. 154A](https://www.legislation.gov.uk/ukpga/1991/22/section/154A) inserted (S.) (1.10.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 34(1)](https://www.legislation.gov.uk/asp/2005/12/section/34/1), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(3)](https://www.legislation.gov.uk/ssi/2008/15/article/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2008/15/schedule/2)
+[^c-8ef62201fa39b06e21ce945133c402f7]: Textual amendment: [S. 154A](https://www.legislation.gov.uk/ukpga/1991/22/section/154A) inserted (S.) (1.10.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 34(1)](https://www.legislation.gov.uk/asp/2005/12/section/34/1), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(3)](https://www.legislation.gov.uk/ssi/2008/15/article/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2008/15/schedule/2)
 
 [^M_C_112380b4-a82b-4796-fe07-24515e4c5035]: Modification: [S. 154A(5)](https://www.legislation.gov.uk/ukpga/1991/22/section/154A/5) restricted (1.10.2008) by [The Road Works (Fixed Penalty) (Scotland) Regulations 2008 (S.S.I. 2008/244)](https://www.legislation.gov.uk/ssi/2008/244), [regs. 1](https://www.legislation.gov.uk/ssi/2008/244/regulation/1), [3](https://www.legislation.gov.uk/ssi/2008/244/regulation/3)

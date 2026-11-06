@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Sale of abandoned tenement building[^key-b05ec61ee6f1e854ee3f6fb20e0533bc]
+## 23. Sale of abandoned tenement building[^c-b05ec61ee6f1e854ee3f6fb20e0533bc]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ any owner shall be entitled to apply for power to sell the tenement building in 
 
 ## Annotations
 
-[^key-b05ec61ee6f1e854ee3f6fb20e0533bc]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2004/11/section/23) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/c)
+[^c-b05ec61ee6f1e854ee3f6fb20e0533bc]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2004/11/section/23) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/c)

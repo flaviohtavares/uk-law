@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 122. Particular rules[^key-b8717acddea942282ef2f9b92c8c1866]
+## 122. Particular rules[^c-b8717acddea942282ef2f9b92c8c1866]
 
 *Extent: S*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) which regulates in respect of any matter the professional practice, conduct or discipline of advocates, and
 - (b) under which an advocate is prohibited from forming a legal relationship with another advocate, or any other person, for the purpose of their jointly offering professional services to the public.
 
-(2) The rule is of no effect unless it has been approved by the Scottish Ministers after they have consulted the CMA[^key-46bdea852aaaad5118a6dab7bb917b9a].
+(2) The rule is of no effect unless it has been approved by the Scottish Ministers after they have consulted the CMA[^c-46bdea852aaaad5118a6dab7bb917b9a].
 
 (3) Subsection (2) is without prejudice to section 121(2) and (3).
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b8717acddea942282ef2f9b92c8c1866]: Commencement: S. 122 in force at 1.6.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 5(c)](https://www.legislation.gov.uk/ssi/2011/180/article/5/c)
+[^c-b8717acddea942282ef2f9b92c8c1866]: Commencement: S. 122 in force at 1.6.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 5(c)](https://www.legislation.gov.uk/ssi/2011/180/article/5/c)
 
-[^key-46bdea852aaaad5118a6dab7bb917b9a]: Textual amendment: Word in [s. 122(2)](https://www.legislation.gov.uk/asp/2010/16/section/122/2) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 201](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/201); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-46bdea852aaaad5118a6dab7bb917b9a]: Textual amendment: Word in [s. 122(2)](https://www.legislation.gov.uk/asp/2010/16/section/122/2) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 201](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/201); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

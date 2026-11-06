@@ -26,7 +26,7 @@ Section 60(5)(g)
 
 In this Schedule—
 
-- [^key-afd8a2f3a875b0f4d4077c783693770d]...
+- [^c-afd8a2f3a875b0f4d4077c783693770d]...
 - “farmer’s own holding” means any land which a farmer actually exploits for plant growing, whether as his property or otherwise managed under his own responsibility and on his own account;
 - “the gazette” means the gazette published under section 34 of the Plant Variety and Seeds Act 1964 [^c8022291];
 - “protected material” means plant propagating material which incorporates material subject to a patent;
@@ -76,11 +76,11 @@ Section 60(5)(g) applies only to varieties of the following plant species and gr
 
 (2) That remuneration must be sensibly lower than the amount charged for the production of protected material of the same variety in the same area with the holder’s authority.
 
-(3) Remuneration is to be taken to be sensibly lower if it would be taken to be sensibly lower within the meaning of regulation 20A of the Plant Breeders’ Rights Regulations 1998[^key-37668c4089748e72897b8147d9368b78].
+(3) Remuneration is to be taken to be sensibly lower if it would be taken to be sensibly lower within the meaning of regulation 20A of the Plant Breeders’ Rights Regulations 1998[^c-37668c4089748e72897b8147d9368b78].
 
 ### 4. Exemption for small farmers
 
-(1) Paragraph 3 does not apply to a farmer who is considered to be a small farmer for the purposes of section 9(10) of the Plant Varieties Act 1997[^key-2bcf2affbfdd7e1e3999bc279a68c169].
+(1) Paragraph 3 does not apply to a farmer who is considered to be a small farmer for the purposes of section 9(10) of the Plant Varieties Act 1997[^c-2bcf2affbfdd7e1e3999bc279a68c169].
 
 (2) It is for a farmer who claims to be a small farmer to prove that he is such a farmer.
 
@@ -188,10 +188,10 @@ and shall award such additional damages as the justice of the case may require.
 
 [^c8022281]: Textual amendment: Sch. A1 inserted (28.7.2000) by [S.I. 2000/2037](https://www.legislation.gov.uk/uksi/2000/2037), [reg. 8(1)](https://www.legislation.gov.uk/uksi/2000/2037/regulation/8/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2037/schedule/1)
 
-[^key-afd8a2f3a875b0f4d4077c783693770d]: Textual amendment: Words in [Sch. A1 para. 1](https://www.legislation.gov.uk/ukpga/1977/37/schedule/A1/paragraph/1) omitted (31.12.2020) by virtue of [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [39(a)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/39/a)
+[^c-afd8a2f3a875b0f4d4077c783693770d]: Textual amendment: Words in [Sch. A1 para. 1](https://www.legislation.gov.uk/ukpga/1977/37/schedule/A1/paragraph/1) omitted (31.12.2020) by virtue of [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [39(a)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/39/a)
 
 [^c8022291]: Textual amendment: [1964 c. 14](https://www.legislation.gov.uk/ukpga/1964/14).
 
-[^key-37668c4089748e72897b8147d9368b78]: Textual amendment: Words in [Sch. A1 para. 3(3)](https://www.legislation.gov.uk/ukpga/1977/37/schedule/A1/paragraph/3/3) substituted (31.12.2020) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [39(b)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/39/b)
+[^c-37668c4089748e72897b8147d9368b78]: Textual amendment: Words in [Sch. A1 para. 3(3)](https://www.legislation.gov.uk/ukpga/1977/37/schedule/A1/paragraph/3/3) substituted (31.12.2020) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [39(b)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/39/b)
 
-[^key-2bcf2affbfdd7e1e3999bc279a68c169]: Textual amendment: Words in [Sch. A1 para. 4](https://www.legislation.gov.uk/ukpga/1977/37/schedule/A1/paragraph/4) substituted (31.12.2020) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [39(c)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/39/c)
+[^c-2bcf2affbfdd7e1e3999bc279a68c169]: Textual amendment: Words in [Sch. A1 para. 4](https://www.legislation.gov.uk/ukpga/1977/37/schedule/A1/paragraph/4) substituted (31.12.2020) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [39(c)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/39/c)

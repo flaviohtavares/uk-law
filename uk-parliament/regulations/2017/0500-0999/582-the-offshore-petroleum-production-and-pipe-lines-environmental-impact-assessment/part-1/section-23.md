@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Transitional provisions in relation to the 1999 Offshore Regulations[^key-b2ed3240407613b06db8e90a1fe044bd]
+## 23. Transitional provisions in relation to the 1999 Offshore Regulations[^c-b2ed3240407613b06db8e90a1fe044bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2ed3240407613b06db8e90a1fe044bd]: Textual amendment: [Pt. 1](https://www.legislation.gov.uk/uksi/2017/582/part/1) omitted (31.12.2020 immediately before 11 p.m.) by virtue of [The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 (S.I. 2020/1497)](https://www.legislation.gov.uk/uksi/2020/1497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1), [2(4)(d)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/2/4/d) (with [reg. 1(2)-(6)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/1497/regulation/20))
+[^c-b2ed3240407613b06db8e90a1fe044bd]: Textual amendment: [Pt. 1](https://www.legislation.gov.uk/uksi/2017/582/part/1) omitted (31.12.2020 immediately before 11 p.m.) by virtue of [The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 (S.I. 2020/1497)](https://www.legislation.gov.uk/uksi/2020/1497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1), [2(4)(d)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/2/4/d) (with [reg. 1(2)-(6)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/1497/regulation/20))

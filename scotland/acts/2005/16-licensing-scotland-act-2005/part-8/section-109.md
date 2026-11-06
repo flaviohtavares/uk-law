@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 109. Sending a child or young person to obtain alcohol[^key-854c5b27112473790d4bb59143ef9c72]
+## 109. Sending a child or young person to obtain alcohol[^c-854c5b27112473790d4bb59143ef9c72]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-854c5b27112473790d4bb59143ef9c72]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2005/16/section/109) in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-854c5b27112473790d4bb59143ef9c72]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2005/16/section/109) in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)

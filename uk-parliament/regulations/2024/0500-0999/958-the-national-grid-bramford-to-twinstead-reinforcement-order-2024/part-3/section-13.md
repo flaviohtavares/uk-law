@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Application of the 1991 Act[^key-6d2753e42c92bbd80cc783a6114a464c]
+## 13. Application of the 1991 Act[^c-6d2753e42c92bbd80cc783a6114a464c]
 
 *Extent: E+W*
 
@@ -39,11 +39,11 @@ summary: ''
 - (h) section 78A (contributions to costs of re-surfacing by undertaker); and
 - (i) Schedule 3A (restriction on works following substantial street works).
 
-(4) The following provisions of the 1991 Act do not apply in relation to any works executed under article 12 (application of the permit schemes[^key-3d6b80cf86ed8d504e7a43409cb6c529]) of this Order—
+(4) The following provisions of the 1991 Act do not apply in relation to any works executed under article 12 (application of the permit schemes[^c-3d6b80cf86ed8d504e7a43409cb6c529]) of this Order—
 
 - (a) section 53 (the street works register);
 - (b) section 54 (advance notice of certain works);
-- (c) section 55 (notice of starting date of [^key-669376ac1138529e1166336d8f7d9c5e]... works);
+- (c) section 55 (notice of starting date of [^c-669376ac1138529e1166336d8f7d9c5e]... works);
 - (d) section 57 (notice of emergency works); and
 - (e) section 66 (avoidance of unnecessary delay or obstruction).
 
@@ -68,8 +68,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6d2753e42c92bbd80cc783a6114a464c]: Commencement: Art. 13 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-6d2753e42c92bbd80cc783a6114a464c]: Commencement: Art. 13 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-3d6b80cf86ed8d504e7a43409cb6c529]: Textual amendment: Words in [art. 13(4)](https://www.legislation.gov.uk/uksi/2024/958/article/13/4) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-3d6b80cf86ed8d504e7a43409cb6c529]: Textual amendment: Words in [art. 13(4)](https://www.legislation.gov.uk/uksi/2024/958/article/13/4) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
 
-[^key-669376ac1138529e1166336d8f7d9c5e]: Textual amendment: Word in [art. 13(4)(c)](https://www.legislation.gov.uk/uksi/2024/958/article/13/4/c) omitted (9.4.2025) by virtue of [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-669376ac1138529e1166336d8f7d9c5e]: Textual amendment: Word in [art. 13(4)(c)](https://www.legislation.gov.uk/uksi/2024/958/article/13/4/c) omitted (9.4.2025) by virtue of [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1

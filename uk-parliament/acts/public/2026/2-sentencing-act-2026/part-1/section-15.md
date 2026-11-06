@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Public event attendance prohibition requirement[^key-8ba670c93f3b458c5212be332dbf4639][^key-e292bc802d2334fcd7df2e2649072918]
+## 15. Public event attendance prohibition requirement[^c-8ba670c93f3b458c5212be332dbf4639][^c-e292bc802d2334fcd7df2e2649072918]
 
 *Extent: E+W*
 
@@ -75,6 +75,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8ba670c93f3b458c5212be332dbf4639]: Commencement: S. 15 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-8ba670c93f3b458c5212be332dbf4639]: Commencement: S. 15 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
 
-[^key-e292bc802d2334fcd7df2e2649072918]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2026/2/section/15) in force at 1.10.2026 by [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/f) (as amended by S.I. 2026/948, [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))
+[^c-e292bc802d2334fcd7df2e2649072918]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2026/2/section/15) in force at 1.10.2026 by [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/f) (as amended by S.I. 2026/948, [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))

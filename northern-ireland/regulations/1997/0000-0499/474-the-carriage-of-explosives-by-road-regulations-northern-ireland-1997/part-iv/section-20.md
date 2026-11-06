@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Attendance[^key-7894d19ccd1b359a6d9d3e4dd44fa089]
+## 20. Attendance[^c-7894d19ccd1b359a6d9d3e4dd44fa089]
 
 *Extent: N.I.*
 
@@ -58,7 +58,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7894d19ccd1b359a6d9d3e4dd44fa089]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/1997/474/regulation/20) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-7894d19ccd1b359a6d9d3e4dd44fa089]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/1997/474/regulation/20) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
 
 [^f00024]: Footnote: [1875 c. 17](https://www.legislation.gov.uk/ukpga/1875/17)
 

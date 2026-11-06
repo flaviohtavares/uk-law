@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — Repeals[^c522431][^key-6a333c591aac434dc6d3685846f7e80e][^key-73ade9c5e631960927f93d4ef8bae033][^key-14e47fc7816b1376c9caf96083347bb4][^key-3908fd17e2b7a8aa6c7eef96892c11f8]
+## SCHEDULE 8 — Repeals[^c522431][^c-6a333c591aac434dc6d3685846f7e80e][^c-73ade9c5e631960927f93d4ef8bae033][^c-14e47fc7816b1376c9caf96083347bb4][^c-3908fd17e2b7a8aa6c7eef96892c11f8]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,10 +38,10 @@ Section 118
 
 [^c522431]: Commencement: [Sch. 8](https://www.legislation.gov.uk/ukpga/2003/20/schedule/8) partly in force; [Sch. 8](https://www.legislation.gov.uk/ukpga/2003/20/schedule/8) in force for specified purposes at Royal Assent and in force for other specified purposes at 10.9.2003, see [s. 120](https://www.legislation.gov.uk/ukpga/2003/20/section/120)
 
-[^key-6a333c591aac434dc6d3685846f7e80e]: Commencement: [Sch. 8](https://www.legislation.gov.uk/ukpga/2003/20/schedule/8) in force at 30.3.2004 for specified purposes by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(jj)](https://www.legislation.gov.uk/uksi/2004/827/article/3/jj)
+[^c-6a333c591aac434dc6d3685846f7e80e]: Commencement: [Sch. 8](https://www.legislation.gov.uk/ukpga/2003/20/schedule/8) in force at 30.3.2004 for specified purposes by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(jj)](https://www.legislation.gov.uk/uksi/2004/827/article/3/jj)
 
-[^key-73ade9c5e631960927f93d4ef8bae033]: Commencement: [Sch. 8](https://www.legislation.gov.uk/ukpga/2003/20/schedule/8) in force at 1.7.2004 for specified purposes by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(kkk)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/kkk)
+[^c-73ade9c5e631960927f93d4ef8bae033]: Commencement: [Sch. 8](https://www.legislation.gov.uk/ukpga/2003/20/schedule/8) in force at 1.7.2004 for specified purposes by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(kkk)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/kkk)
 
-[^key-14e47fc7816b1376c9caf96083347bb4]: Commencement: [Sch. 8](https://www.legislation.gov.uk/ukpga/2003/20/schedule/8) in force at 5.7.2004 for specified purposes by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 4(i)](https://www.legislation.gov.uk/uksi/2004/827/article/4/i)
+[^c-14e47fc7816b1376c9caf96083347bb4]: Commencement: [Sch. 8](https://www.legislation.gov.uk/ukpga/2003/20/schedule/8) in force at 5.7.2004 for specified purposes by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 4(i)](https://www.legislation.gov.uk/uksi/2004/827/article/4/i)
 
-[^key-3908fd17e2b7a8aa6c7eef96892c11f8]: Commencement: [Sch. 8](https://www.legislation.gov.uk/ukpga/2003/20/schedule/8) in force at 5.7.2004 for specified purposes by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/1572/article/4/b)
+[^c-3908fd17e2b7a8aa6c7eef96892c11f8]: Commencement: [Sch. 8](https://www.legislation.gov.uk/ukpga/2003/20/schedule/8) in force at 5.7.2004 for specified purposes by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/1572/article/4/b)

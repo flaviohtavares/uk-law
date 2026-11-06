@@ -64,7 +64,7 @@ The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the ap
 
 (3) Parts 1, 3, 4, 5 and 6 come into force on exit day.
 
-### 1A. Extent[^M_I_a5e77ced-2bc8-412e-bee7-fbb5c97bb69d][^key-01617cfccc636b945a91e2f69153e32c]
+### 1A. Extent[^M_I_a5e77ced-2bc8-412e-bee7-fbb5c97bb69d][^c-01617cfccc636b945a91e2f69153e32c]
 
 (1) Part 4A of these Regulations extends to England and Wales and Scotland only.
 
@@ -105,13 +105,13 @@ The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the ap
 
 ## PART 4 — Amendment of subordinate legislation
 
-### 4. Amendment of the Crystal Glass (Descriptions) Regulations 1973[^key-5bf7351448292a698441ea813aa39285]
+### 4. Amendment of the Crystal Glass (Descriptions) Regulations 1973[^c-5bf7351448292a698441ea813aa39285]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Amendment of the Footwear (Indication of Composition) Labelling Regulations 1995[^key-93fbedda7a0fb28721b3567addb10d71]
+### 5. Amendment of the Footwear (Indication of Composition) Labelling Regulations 1995[^c-93fbedda7a0fb28721b3567addb10d71]
 
 **Not yet in force.**
 
@@ -134,7 +134,7 @@ The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the ap
 
 (2) In regulation 5 (contracts where regulation 4 applies)—
 
-- (a) in paragraph (2)(b), after “cross-border healthcare”, insert “as it had effect immediately before IP completion day[^key-80442f27f9b19744a82ee397edacfc30]”;
+- (a) in paragraph (2)(b), after “cross-border healthcare”, insert “as it had effect immediately before IP completion day[^c-80442f27f9b19744a82ee397edacfc30]”;
 - (b) for paragraph (2)(h) substitute—
 
   > - (h) which is a regulated contract within the meaning of the Timeshare, Holiday Products, Resale and Exchange Contracts Regulations 2010 [^c23525011]
@@ -177,7 +177,7 @@ The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the ap
 - (c) omit the definition of “ODR platform”;
 - (d) omit the definition of “single point of contact”.
 
-(4) In regulation 7, after “cross-border healthcare”, insert “as it had effect immediately before IP completion day[^key-9b8d5f26d2ca27b0dc810539141615a4]”.
+(4) In regulation 7, after “cross-border healthcare”, insert “as it had effect immediately before IP completion day[^c-9b8d5f26d2ca27b0dc810539141615a4]”.
 
 (5) Omit regulation 8A (consumer information regarding the ODR platform).
 
@@ -263,7 +263,7 @@ The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the ap
 
 (19) In Schedule 6 (information which an ADR entity must communicate to the relevant competent authority every two years), omit paragraph f).
 
-## PART 4A — Amendment of subordinate legislation in respect of Great Britain[^key-21bb098fb1e6ed9a7b99bb899fade3dc]
+## PART 4A — Amendment of subordinate legislation in respect of Great Britain[^c-21bb098fb1e6ed9a7b99bb899fade3dc]
 
 *Extent: E+W+S*
 
@@ -327,7 +327,7 @@ Regulation (EU) No 524/2013 of the European Parliament and of the Council of 21 
 
 ### 11. Transitional provision[^c23529221]
 
-Nothing in regulation 3 or regulation 6(2) applies to a contract entered into before IP completion day[^key-23128980bd30d5c2c4843986d95a34d3].
+Nothing in regulation 3 or regulation 6(2) applies to a contract entered into before IP completion day[^c-23128980bd30d5c2c4843986d95a34d3].
 
 Kelly Tolhurst
 
@@ -355,7 +355,7 @@ A full impact assessment on the effect that this instrument will have on the cos
 
 [^M_I_a5e77ced-2bc8-412e-bee7-fbb5c97bb69d]: Commencement: Reg. 1A in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-01617cfccc636b945a91e2f69153e32c]: Textual amendment: Reg. 1A inserted (31.12.2020 immediately before IP completion day) by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/4/2)
+[^c-01617cfccc636b945a91e2f69153e32c]: Textual amendment: Reg. 1A inserted (31.12.2020 immediately before IP completion day) by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/4/2)
 
 [^M_I_834d3744-15dd-4d71-ea7d-d826f8069db7]: Commencement: Reg. 2 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
@@ -369,9 +369,9 @@ A full impact assessment on the effect that this instrument will have on the cos
 
 [^c23524961]: Marginal citation: [2015 c.15](https://www.legislation.gov.uk/ukpga/2015/15); there are amending instruments but none is relevant.
 
-[^key-5bf7351448292a698441ea813aa39285]: Textual amendment: Reg. 4 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/4/3)
+[^c-5bf7351448292a698441ea813aa39285]: Textual amendment: Reg. 4 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/4/3)
 
-[^key-93fbedda7a0fb28721b3567addb10d71]: Textual amendment: Reg. 5 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [4(4)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/4/4)
+[^c-93fbedda7a0fb28721b3567addb10d71]: Textual amendment: Reg. 5 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [4(4)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/4/4)
 
 [^c23529171]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
@@ -381,7 +381,7 @@ A full impact assessment on the effect that this instrument will have on the cos
 
 [^c23525001]: Marginal citation: [S.I. 2012/3110](https://www.legislation.gov.uk/uksi/2012/3110) as amended by [S.I. 2017/752](https://www.legislation.gov.uk/uksi/2017/752); there are other amending instruments but none is relevant.
 
-[^key-80442f27f9b19744a82ee397edacfc30]: Textual amendment: Words in reg. 7(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [4(5)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/4/5)
+[^c-80442f27f9b19744a82ee397edacfc30]: Textual amendment: Words in reg. 7(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [4(5)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/4/5)
 
 [^c23525011]: Marginal citation: [S.I. 2010/2960](https://www.legislation.gov.uk/uksi/2010/2960); there are amending instruments but none is relevant.
 
@@ -395,14 +395,14 @@ A full impact assessment on the effect that this instrument will have on the cos
 
 [^c23525041]: Marginal citation: [S.I. 2015/542](https://www.legislation.gov.uk/uksi/2015/542) as amended by [S.I. 2015/1392](https://www.legislation.gov.uk/uksi/2015/1392) and [S.I. 2015/1972](https://www.legislation.gov.uk/uksi/2015/1972).
 
-[^key-9b8d5f26d2ca27b0dc810539141615a4]: Textual amendment: Words in reg. 9(4) substituted (31.12.2020 immediately before IP completion day) by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [4(6)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/4/6)
+[^c-9b8d5f26d2ca27b0dc810539141615a4]: Textual amendment: Words in reg. 9(4) substituted (31.12.2020 immediately before IP completion day) by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [4(6)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/4/6)
 
 [^c23525051]: Marginal citation: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40) as amended by paragraph 95 of Schedule 18 to the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [paragraph 4](https://www.legislation.gov.uk/ukpga/2012/21/paragraph/4) of Schedule 7 to the [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [S.I](https://www.legislation.gov.uk/ukpga/2015/15/section/I). 2006/3363, [S.I. 2014/892](https://www.legislation.gov.uk/uksi/2014/892) and [S.I. 2018/378](https://www.legislation.gov.uk/uksi/2018/378). There are other amending instruments but none are relevant.
 
-[^key-21bb098fb1e6ed9a7b99bb899fade3dc]: Textual amendment: Pts. 4A, 4B inserted (31.12.2020 immediately before IP completion day) by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [4(7)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/4/7)
+[^c-21bb098fb1e6ed9a7b99bb899fade3dc]: Textual amendment: Pts. 4A, 4B inserted (31.12.2020 immediately before IP completion day) by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [4(7)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/4/7)
 
 [^c23529211]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23529221]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-23128980bd30d5c2c4843986d95a34d3]: Textual amendment: Words in reg. 11 substituted (31.12.2020 immediately before IP completion day) by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [4(8)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/4/8)
+[^c-23128980bd30d5c2c4843986d95a34d3]: Textual amendment: Words in reg. 11 substituted (31.12.2020 immediately before IP completion day) by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [4(8)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/4/8)

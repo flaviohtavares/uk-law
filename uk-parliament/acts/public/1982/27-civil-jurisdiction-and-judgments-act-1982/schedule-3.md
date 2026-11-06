@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — TEXT OF TITLES V AND VI OF THE ACCESSION CONVENTION, AS AMENDED[^key-a6581c553fffd518f8cc81ce79c8efe2]
+## SCHEDULE 3 — TEXT OF TITLES V AND VI OF THE ACCESSION CONVENTION, AS AMENDED[^c-a6581c553fffd518f8cc81ce79c8efe2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,56 +24,56 @@ summary: ''
 
 Section 2(2).
 
-### TITLE V — TRANSITIONAL PROVISIONS[^key-a6581c553fffd518f8cc81ce79c8efe2]
+### TITLE V — TRANSITIONAL PROVISIONS[^c-a6581c553fffd518f8cc81ce79c8efe2]
 
-#### Article 34[^key-a6581c553fffd518f8cc81ce79c8efe2]
+#### Article 34[^c-a6581c553fffd518f8cc81ce79c8efe2]
 
-**1.**[^key-a6581c553fffd518f8cc81ce79c8efe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a6581c553fffd518f8cc81ce79c8efe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-a6581c553fffd518f8cc81ce79c8efe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a6581c553fffd518f8cc81ce79c8efe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-a6581c553fffd518f8cc81ce79c8efe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a6581c553fffd518f8cc81ce79c8efe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 35[^key-a6581c553fffd518f8cc81ce79c8efe2]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Article 36[^key-a6581c553fffd518f8cc81ce79c8efe2]
+#### Article 35[^c-a6581c553fffd518f8cc81ce79c8efe2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### TITLE VI — FINAL PROVISIONS[^key-a6581c553fffd518f8cc81ce79c8efe2]
-
-#### Article 37[^key-a6581c553fffd518f8cc81ce79c8efe2]
-
-[^key-a6581c553fffd518f8cc81ce79c8efe2]
+#### Article 36[^c-a6581c553fffd518f8cc81ce79c8efe2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 38[^key-a6581c553fffd518f8cc81ce79c8efe2]
+### TITLE VI — FINAL PROVISIONS[^c-a6581c553fffd518f8cc81ce79c8efe2]
 
-[^key-a6581c553fffd518f8cc81ce79c8efe2]
+#### Article 37[^c-a6581c553fffd518f8cc81ce79c8efe2]
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Article 39[^key-a6581c553fffd518f8cc81ce79c8efe2]
-
-[^key-a6581c553fffd518f8cc81ce79c8efe2]
+[^c-a6581c553fffd518f8cc81ce79c8efe2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 40[^key-a6581c553fffd518f8cc81ce79c8efe2]
+#### Article 38[^c-a6581c553fffd518f8cc81ce79c8efe2]
 
-[^key-a6581c553fffd518f8cc81ce79c8efe2]
+[^c-a6581c553fffd518f8cc81ce79c8efe2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 41[^key-a6581c553fffd518f8cc81ce79c8efe2]
+#### Article 39[^c-a6581c553fffd518f8cc81ce79c8efe2]
 
-[^key-a6581c553fffd518f8cc81ce79c8efe2]
+[^c-a6581c553fffd518f8cc81ce79c8efe2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Article 40[^c-a6581c553fffd518f8cc81ce79c8efe2]
+
+[^c-a6581c553fffd518f8cc81ce79c8efe2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Article 41[^c-a6581c553fffd518f8cc81ce79c8efe2]
+
+[^c-a6581c553fffd518f8cc81ce79c8efe2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a6581c553fffd518f8cc81ce79c8efe2]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/1982/27/schedule/3) omitted (31.12.2020) by virtue of [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [55](https://www.legislation.gov.uk/uksi/2019/479/regulation/55) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a6581c553fffd518f8cc81ce79c8efe2]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/1982/27/schedule/3) omitted (31.12.2020) by virtue of [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [55](https://www.legislation.gov.uk/uksi/2019/479/regulation/55) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

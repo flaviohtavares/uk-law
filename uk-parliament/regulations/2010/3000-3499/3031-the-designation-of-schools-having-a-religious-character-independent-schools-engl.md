@@ -39,15 +39,15 @@ The Secretary of State for Education makes the following Order in exercise of th
 
 In making this Order the Secretary of State has followed the procedure specified in the Religious Character of Schools (Designation Procedure) (Independent Schools) (England) Regulations 2003[^f00003].
 
-## 1. Citation[^key-2401e5ed4f26aef9f1f14c61ae22d824]
+## 1. Citation[^c-2401e5ed4f26aef9f1f14c61ae22d824]
 
 This Order may be cited as the Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 4) Order 2010.
 
-## 2. Interpretation[^key-23da1ef27b79e9c59047a892d99654bd]
+## 2. Interpretation[^c-23da1ef27b79e9c59047a892d99654bd]
 
 In this Order “the relevant religion or religious denomination” means the religion or religious denomination in accordance with whose tenets education is provided at the school or the school is conducted.
 
-## 3. Designation of schools[^key-8cb79e17c38efb9f364e99eb5ce6a45f]
+## 3. Designation of schools[^c-8cb79e17c38efb9f364e99eb5ce6a45f]
 
 (1) The schools listed in column (1) of the Schedule are designated as schools having a religious character.
 
@@ -61,7 +61,7 @@ Department for Education
 
 22nd December 2010
 
-## SCHEDULE — Schools having a religious character[^key-9823654b78ae990bb070bb43a373c98d]
+## SCHEDULE — Schools having a religious character[^c-9823654b78ae990bb070bb43a373c98d]
 
 Article 3
 
@@ -80,7 +80,7 @@ Article 3
 | **Salford** |  |
 | Beis Malka Belz Girls School, M7 2BT | Orthodox Jewish |
 | **Stockport** |  |
-| [^key-8637749b15182b6c3335dd43861832c5]. . . | [^key-8637749b15182b6c3335dd43861832c5]. . . |
+| [^c-8637749b15182b6c3335dd43861832c5]. . . | [^c-8637749b15182b6c3335dd43861832c5]. . . |
 | **Tower Hamlets** |  |
 | Ebrahim Academy, E1 1EJ | Islam |
 
@@ -102,12 +102,12 @@ Designation by this Order is not of itself a means of acquiring a religious char
 
 [^f00003]: Footnote: [S.I. 2003/2314](https://www.legislation.gov.uk/uksi/2003/2314), as amended by [S.I. 2004/2262](https://www.legislation.gov.uk/uksi/2004/2262).
 
-[^key-2401e5ed4f26aef9f1f14c61ae22d824]: Commencement: Art. 1 in force at 22.12.2010
+[^c-2401e5ed4f26aef9f1f14c61ae22d824]: Commencement: Art. 1 in force at 22.12.2010
 
-[^key-23da1ef27b79e9c59047a892d99654bd]: Commencement: Art. 2 in force at 22.12.2010
+[^c-23da1ef27b79e9c59047a892d99654bd]: Commencement: Art. 2 in force at 22.12.2010
 
-[^key-8cb79e17c38efb9f364e99eb5ce6a45f]: Commencement: Art. 3 in force at 22.12.2010
+[^c-8cb79e17c38efb9f364e99eb5ce6a45f]: Commencement: Art. 3 in force at 22.12.2010
 
-[^key-9823654b78ae990bb070bb43a373c98d]: Commencement: Sch. in force at 22.12.2010
+[^c-9823654b78ae990bb070bb43a373c98d]: Commencement: Sch. in force at 22.12.2010
 
-[^key-8637749b15182b6c3335dd43861832c5]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2010/3031/schedule) revoked (21.12.2012) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 3) Order 2012 (S.I. 2012/3174)](https://www.legislation.gov.uk/uksi/2012/3174), [art. 4](https://www.legislation.gov.uk/uksi/2012/3174/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/3174/schedule/2)
+[^c-8637749b15182b6c3335dd43861832c5]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2010/3031/schedule) revoked (21.12.2012) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 3) Order 2012 (S.I. 2012/3174)](https://www.legislation.gov.uk/uksi/2012/3174), [art. 4](https://www.legislation.gov.uk/uksi/2012/3174/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/3174/schedule/2)

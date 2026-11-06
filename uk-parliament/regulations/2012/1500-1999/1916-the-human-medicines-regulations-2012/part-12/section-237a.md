@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 237A. Appropriate suppliers of naloxone products[^key-9e315cf51d5ead0ed3d1a3b1a90b348e]
+## 237A. Appropriate suppliers of naloxone products[^c-9e315cf51d5ead0ed3d1a3b1a90b348e]
 
 *Extent: E+W+S+N.I.*
 
@@ -126,4 +126,4 @@ may provide an appropriate national body with any information about that supply,
 
 ## Annotations
 
-[^key-9e315cf51d5ead0ed3d1a3b1a90b348e]: Textual amendment: [Reg. 237A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/237A) inserted (2.12.2024) by [The Human Medicines (Amendments Relating to Naloxone and Transfers of Functions) Regulations 2024 (S.I. 2024/1125)](https://www.legislation.gov.uk/uksi/2024/1125), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1125/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2024/1125/regulation/7)
+[^c-9e315cf51d5ead0ed3d1a3b1a90b348e]: Textual amendment: [Reg. 237A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/237A) inserted (2.12.2024) by [The Human Medicines (Amendments Relating to Naloxone and Transfers of Functions) Regulations 2024 (S.I. 2024/1125)](https://www.legislation.gov.uk/uksi/2024/1125), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1125/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2024/1125/regulation/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. Jurisdiction and competence: general[^key-576ef6cb2f1c68bdf981f9413846ef6e]
+## 70. Jurisdiction and competence: general[^c-576ef6cb2f1c68bdf981f9413846ef6e]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-576ef6cb2f1c68bdf981f9413846ef6e]: Commencement: S. 70 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-576ef6cb2f1c68bdf981f9413846ef6e]: Commencement: S. 70 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — LIST OF MARKETS[^key-5b078dc6bbd501e6593e989b25096643]
+## SCHEDULE 1 — LIST OF MARKETS[^c-5b078dc6bbd501e6593e989b25096643]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ Regulations 3 and 4
 
 ## Annotations
 
-[^key-5b078dc6bbd501e6593e989b25096643]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/2016/339/schedule/1) applied (E.W.S.) (6.4.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2016/340/regulation/4), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2016/340/schedule/2/paragraph/4) (as amended (26.6.2017) by [S.I. 2017/693](https://www.legislation.gov.uk/uksi/2017/693), [regs. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2), [31](https://www.legislation.gov.uk/uksi/2017/693/regulation/31) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2017/693/schedule/part/2)); and (18.11.2025) by [S.I. 2025/1033](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(3)(d)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/3/d), [11(4)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/11/4) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i))
+[^c-5b078dc6bbd501e6593e989b25096643]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/2016/339/schedule/1) applied (E.W.S.) (6.4.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2016/340/regulation/4), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2016/340/schedule/2/paragraph/4) (as amended (26.6.2017) by [S.I. 2017/693](https://www.legislation.gov.uk/uksi/2017/693), [regs. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2), [31](https://www.legislation.gov.uk/uksi/2017/693/regulation/31) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2017/693/schedule/part/2)); and (18.11.2025) by [S.I. 2025/1033](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(3)(d)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/3/d), [11(4)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/11/4) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i))

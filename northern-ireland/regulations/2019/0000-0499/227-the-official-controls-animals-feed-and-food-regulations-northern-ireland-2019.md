@@ -95,7 +95,7 @@ These Regulations may be cited as the Official Controls (Animals, Feed and Food)
 
 ### 4. Exchange of information
 
-The Department may disclose information to other competent authorities in the United Kingdom and [^key-8c9e39529f685c803eba0ba78f4c140e]... member States for the purposes of applying these Regulations and the EU Official Controls Regulations.
+The Department may disclose information to other competent authorities in the United Kingdom and [^c-8c9e39529f685c803eba0ba78f4c140e]... member States for the purposes of applying these Regulations and the EU Official Controls Regulations.
 
 ## PART 2 — Audits and official controls
 
@@ -119,7 +119,7 @@ The Department may disclose information to other competent authorities in the Un
 
 (1) For the purposes of assisting a competent authority of another member State as provided for in Article 104, or enabling the Department to do so, an inspector exercising powers under relevant legislation to enter premises or to inspect records may—
 
-- (a) be accompanied by authorised officers of a competent authority of a[^key-a74043f58da23d8e8424ffb6dda425d5] member State;
+- (a) be accompanied by authorised officers of a competent authority of a[^c-a74043f58da23d8e8424ffb6dda425d5] member State;
 - (b) show records to such accompanying authorised officers; and
 - (c) make copies for them or require copies to be made for them of the records.
 
@@ -888,9 +888,9 @@ A full regulatory assessment has been produced for these Regulations. No signifi
 
 [^c23949761]: Marginal citation: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-8c9e39529f685c803eba0ba78f4c140e]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/nisr/2019/227/regulation/4) omitted (31.12.2020) by virtue of [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [22(2)](https://www.legislation.gov.uk/nisr/2020/324/regulation/22/2)
+[^c-8c9e39529f685c803eba0ba78f4c140e]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/nisr/2019/227/regulation/4) omitted (31.12.2020) by virtue of [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [22(2)](https://www.legislation.gov.uk/nisr/2020/324/regulation/22/2)
 
-[^key-a74043f58da23d8e8424ffb6dda425d5]: Textual amendment: Word in [reg. 6(1)(a)](https://www.legislation.gov.uk/nisr/2019/227/regulation/6/1/a) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [22(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/22/3)
+[^c-a74043f58da23d8e8424ffb6dda425d5]: Textual amendment: Word in [reg. 6(1)(a)](https://www.legislation.gov.uk/nisr/2019/227/regulation/6/1/a) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [22(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/22/3)
 
 [^c23949771]: Marginal citation: S.R. [2006 No. 42](https://www.legislation.gov.uk/ukcm/2006/42), as last amended by S.R. [2019 No. 197](https://www.legislation.gov.uk/ukcm/2019/197).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. The TRA's acceptance or rejection of an application for reconsideration[^key-e3fd532aff3fc2ec710f8f72c5cc2176]
+## 11. The TRA's acceptance or rejection of an application for reconsideration[^c-e3fd532aff3fc2ec710f8f72c5cc2176]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3fd532aff3fc2ec710f8f72c5cc2176]: Commencement: Reg. 11 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)
+[^c-e3fd532aff3fc2ec710f8f72c5cc2176]: Commencement: Reg. 11 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)

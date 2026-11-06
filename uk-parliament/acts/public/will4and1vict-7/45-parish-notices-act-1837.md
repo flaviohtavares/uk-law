@@ -31,30 +31,30 @@ Parish Notices Act 1837 (repealed)
 
 1837 c.45
 
-[^key-eb62298d2bd4ff221638e65b835e0287]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eb62298d2bd4ff221638e65b835e0287]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[12th July 1837\]
 
 **No longer in force.**
 
-## 1.] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-eb62298d2bd4ff221638e65b835e0287][^key-eb62298d2bd4ff221638e65b835e0287]
+## 1.] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-eb62298d2bd4ff221638e65b835e0287][^c-eb62298d2bd4ff221638e65b835e0287]
 
-## 2. Notices heretofore usually given during or after divine service, &c. to be affixed to the church doors.[^key-eb62298d2bd4ff221638e65b835e0287][^key-eb62298d2bd4ff221638e65b835e0287]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-eb62298d2bd4ff221638e65b835e0287][^key-eb62298d2bd4ff221638e65b835e0287]
-
-## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-eb62298d2bd4ff221638e65b835e0287][^key-eb62298d2bd4ff221638e65b835e0287]
-
-## 5. Act not to extend to notices purely ecclesiastical.[^key-eb62298d2bd4ff221638e65b835e0287][^key-eb62298d2bd4ff221638e65b835e0287]
+## 2. Notices heretofore usually given during or after divine service, &c. to be affixed to the church doors.[^c-eb62298d2bd4ff221638e65b835e0287][^c-eb62298d2bd4ff221638e65b835e0287]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Extension of Act.[^key-eb62298d2bd4ff221638e65b835e0287][^key-eb62298d2bd4ff221638e65b835e0287]
+## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-eb62298d2bd4ff221638e65b835e0287][^c-eb62298d2bd4ff221638e65b835e0287]
+
+## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-eb62298d2bd4ff221638e65b835e0287][^c-eb62298d2bd4ff221638e65b835e0287]
+
+## 5. Act not to extend to notices purely ecclesiastical.[^c-eb62298d2bd4ff221638e65b835e0287][^c-eb62298d2bd4ff221638e65b835e0287]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Extension of Act.[^c-eb62298d2bd4ff221638e65b835e0287][^c-eb62298d2bd4ff221638e65b835e0287]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-eb62298d2bd4ff221638e65b835e0287]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Will4and1Vict/7/45) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 5
+[^c-eb62298d2bd4ff221638e65b835e0287]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Will4and1Vict/7/45) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 5

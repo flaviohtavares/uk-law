@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## B3. Power to admit employees of other bodies[^key-84cb7764cd383ca5ad9183f551c3bf58]
+## B3. Power to admit employees of other bodies[^c-84cb7764cd383ca5ad9183f551c3bf58]
 
 *Extent: E+W+S*
 
@@ -67,7 +67,7 @@ to become an admitted employee.
 
 ## Annotations
 
-[^key-84cb7764cd383ca5ad9183f551c3bf58]: Commencement: [Reg. B3](https://www.legislation.gov.uk/uksi/1986/24/regulation/B3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-84cb7764cd383ca5ad9183f551c3bf58]: Commencement: [Reg. B3](https://www.legislation.gov.uk/uksi/1986/24/regulation/B3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00017]: Footnote: [1977 c.49](https://www.legislation.gov.uk/ukpga/1977/49).
 

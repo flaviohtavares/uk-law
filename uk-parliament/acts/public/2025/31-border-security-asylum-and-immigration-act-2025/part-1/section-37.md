@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Provision of biometric information by evacuees etc[^key-eda4c0abc6975c8690d1cf8be134525d]
+## 37. Provision of biometric information by evacuees etc[^c-eda4c0abc6975c8690d1cf8be134525d]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eda4c0abc6975c8690d1cf8be134525d]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2025/31/section/37) in force at 2.2.2026, see [s. 65(4)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/4)
+[^c-eda4c0abc6975c8690d1cf8be134525d]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2025/31/section/37) in force at 2.2.2026, see [s. 65(4)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/4)

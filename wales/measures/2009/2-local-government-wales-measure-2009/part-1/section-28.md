@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Welsh Ministers: support for Welsh improvement authorities[^key-35e811d9a1b32865cb718b7c8846fd05]
+## 28. Welsh Ministers: support for Welsh improvement authorities[^c-35e811d9a1b32865cb718b7c8846fd05]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35e811d9a1b32865cb718b7c8846fd05]: Commencement: [S. 28](https://www.legislation.gov.uk/mwa/2009/2/section/28) in force at 1.4.2010 by [S.I. 2009/3272](https://www.legislation.gov.uk/wsi/2009/3272), [art. 3(1)](https://www.legislation.gov.uk/wsi/2009/3272/article/3/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2009/3272/schedule/2)
+[^c-35e811d9a1b32865cb718b7c8846fd05]: Commencement: [S. 28](https://www.legislation.gov.uk/mwa/2009/2/section/28) in force at 1.4.2010 by [S.I. 2009/3272](https://www.legislation.gov.uk/wsi/2009/3272), [art. 3(1)](https://www.legislation.gov.uk/wsi/2009/3272/article/3/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2009/3272/schedule/2)

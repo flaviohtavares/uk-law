@@ -32,7 +32,7 @@ summary: ''
 
 Building Societies
 
-The Building Societies (Restricted Transactions) (Amendment to the Prohibition on Entering into Derivatives Transactions) Order 2018 (revoked)[^key-af6a2f664003ca93f0d3428ef4b04277]
+The Building Societies (Restricted Transactions) (Amendment to the Prohibition on Entering into Derivatives Transactions) Order 2018 (revoked)[^c-af6a2f664003ca93f0d3428ef4b04277]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into force
 
 6th April 2018
 
-[^key-af6a2f664003ca93f0d3428ef4b04277]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af6a2f664003ca93f0d3428ef4b04277]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-af6a2f664003ca93f0d3428ef4b04277]
+## 1. Citation, commencement and interpretation[^c-af6a2f664003ca93f0d3428ef4b04277]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of section 9A of the Act[^key-af6a2f664003ca93f0d3428ef4b04277]
+## 2. Amendment of section 9A of the Act[^c-af6a2f664003ca93f0d3428ef4b04277]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-af6a2f664003ca93f0d3428ef4b04277] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-af6a2f664003ca93f0d3428ef4b04277] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-af6a2f664003ca93f0d3428ef4b04277]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af6a2f664003ca93f0d3428ef4b04277]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-af6a2f664003ca93f0d3428ef4b04277]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af6a2f664003ca93f0d3428ef4b04277]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-af6a2f664003ca93f0d3428ef4b04277]: Textual amendment: Order revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/5) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/e), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/4)
+[^c-af6a2f664003ca93f0d3428ef4b04277]: Textual amendment: Order revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/5) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/e), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/4)

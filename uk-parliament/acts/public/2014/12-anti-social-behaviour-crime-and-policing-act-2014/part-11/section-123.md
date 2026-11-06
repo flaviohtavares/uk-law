@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Regulations to be prepared or approved by the College[^key-cd2fb47cff0205d0b20527d929bc5c6c]
+## 123. Regulations to be prepared or approved by the College[^c-cd2fb47cff0205d0b20527d929bc5c6c]
 
 *Extent: E+W*
 
@@ -84,4 +84,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd2fb47cff0205d0b20527d929bc5c6c]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2014/12/section/123) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/10)
+[^c-cd2fb47cff0205d0b20527d929bc5c6c]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2014/12/section/123) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/10)

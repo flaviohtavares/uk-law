@@ -22,7 +22,7 @@ summary: ''
 
 Article 3
 
-**1.**[^key-13ea99edab0e0ab6096475e63b845df8] In this Schedule-
+**1.**[^c-13ea99edab0e0ab6096475e63b845df8] In this Schedule-
 
 - “**balance of solar plant**” means inverters, transformers, and switch gear and would be either—
   - (a) solar stations, each being a station comprising centralised inverters, transformers and switch gear with each component for each solar station either—
@@ -44,9 +44,9 @@ Article 3
 - “**switch gear**” means a combination of electrical disconnect switches, fuses or circuit breakers used to control, protect, and isolate electrical equipment; and
 - “**transformer**” means a structure serving to transform electricity to a higher voltage.
 
-**2.**[^key-caa49fc1fe761fe1d35a906b42032317] In the Boroughs of Darlington and Stockton-on-Tees and the County of Durham the construction, operation, maintenance and decommissioning of a nationally significant infrastructure project as defined in sections 14(1)(a) and 15 of the 2008 Act with associated development under section 115(1)(b) of the 2008 Act.
+**2.**[^c-caa49fc1fe761fe1d35a906b42032317] In the Boroughs of Darlington and Stockton-on-Tees and the County of Durham the construction, operation, maintenance and decommissioning of a nationally significant infrastructure project as defined in sections 14(1)(a) and 15 of the 2008 Act with associated development under section 115(1)(b) of the 2008 Act.
 
-**3.**[^key-f9bf1baa6f2846c103912dff1c48fa5b] The nationally significant infrastructure project authorised by this Order comprises a generating station with a gross electrical output of over 50 megawatts alternating current comprising all or any of the work numbers in this Schedule or any part of any work number in this Schedule—
+**3.**[^c-f9bf1baa6f2846c103912dff1c48fa5b] The nationally significant infrastructure project authorised by this Order comprises a generating station with a gross electrical output of over 50 megawatts alternating current comprising all or any of the work numbers in this Schedule or any part of any work number in this Schedule—
 
 **Work No. 1** – a ground mounted solar photovoltaic generating station comprising—
 
@@ -154,8 +154,8 @@ In connection with the construction of Work Nos. 1-9 above and to the extent tha
 
 ## Annotations
 
-[^key-13ea99edab0e0ab6096475e63b845df8]: Commencement: Sch. 1 para. 1 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
+[^c-13ea99edab0e0ab6096475e63b845df8]: Commencement: Sch. 1 para. 1 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
 
-[^key-caa49fc1fe761fe1d35a906b42032317]: Commencement: Sch. 1 para. 2 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
+[^c-caa49fc1fe761fe1d35a906b42032317]: Commencement: Sch. 1 para. 2 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
 
-[^key-f9bf1baa6f2846c103912dff1c48fa5b]: Commencement: Sch. 1 para. 3 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
+[^c-f9bf1baa6f2846c103912dff1c48fa5b]: Commencement: Sch. 1 para. 3 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)

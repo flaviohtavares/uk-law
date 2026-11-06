@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Aerial work[^key-cadeac1e19c04d33fdb10adf63cb08db]
+## 126. Aerial work[^c-cadeac1e19c04d33fdb10adf63cb08db]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cadeac1e19c04d33fdb10adf63cb08db]: Commencement: [Art. 126](https://www.legislation.gov.uk/uksi/2013/2870/article/126) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-cadeac1e19c04d33fdb10adf63cb08db]: Commencement: [Art. 126](https://www.legislation.gov.uk/uksi/2013/2870/article/126) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

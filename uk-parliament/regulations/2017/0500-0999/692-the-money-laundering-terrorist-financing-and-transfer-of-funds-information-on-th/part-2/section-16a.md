@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16A. Risk assessment by the Treasury[^key-1e3c0a9961a3e188836d3c9d497806ca]
+## 16A. Risk assessment by the Treasury[^c-1e3c0a9961a3e188836d3c9d497806ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,7 +60,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1e3c0a9961a3e188836d3c9d497806ca]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/uksi/2017/692/regulation/16A) inserted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [6(2)](https://www.legislation.gov.uk/uksi/2022/860/regulation/6/2)
+[^c-1e3c0a9961a3e188836d3c9d497806ca]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/uksi/2017/692/regulation/16A) inserted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [6(2)](https://www.legislation.gov.uk/uksi/2022/860/regulation/6/2)
 
 [^M_F_035adf59-e006-4042-f8b4-3311e45faaf5]: Textual amendment: [1974 c. 6](https://www.legislation.gov.uk/ukpga/1974/6); section 1 was amended by section 43 of the Anti-terrorism, Crime and Security Act [2001 (c. 24)](https://www.legislation.gov.uk/ukpga/2001/24).
 

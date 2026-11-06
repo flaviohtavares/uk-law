@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — LIST OF SUBSTANCES WHICH MUST NOT FORM PART OF THE COMPOSITION OF COSMETIC PRODUCTS (UNLESS OTHERWISE SPECIFIED)[^key-8d1c53bfc5a409bd6133578182e37c54]
+## SCHEDULE 3 — LIST OF SUBSTANCES WHICH MUST NOT FORM PART OF THE COMPOSITION OF COSMETIC PRODUCTS (UNLESS OTHERWISE SPECIFIED)[^c-8d1c53bfc5a409bd6133578182e37c54]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,10 +24,10 @@ summary: ''
 
 Regulations 5(1) and 20(1)
 
-[^key-8d1c53bfc5a409bd6133578182e37c54]
+[^c-8d1c53bfc5a409bd6133578182e37c54]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8d1c53bfc5a409bd6133578182e37c54]: Textual amendment: Regulations revoked (11.7.2013 with savings for any cosmetic product placed on the market before that day) by [The Cosmetic Products Enforcement Regulations 2013 (S.I. 2013/1478)](https://www.legislation.gov.uk/uksi/2013/1478), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1478/schedule/1) (with [regs. 3](https://www.legislation.gov.uk/uksi/2013/1478/regulation/3), [6(5)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/6/5))
+[^c-8d1c53bfc5a409bd6133578182e37c54]: Textual amendment: Regulations revoked (11.7.2013 with savings for any cosmetic product placed on the market before that day) by [The Cosmetic Products Enforcement Regulations 2013 (S.I. 2013/1478)](https://www.legislation.gov.uk/uksi/2013/1478), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1478/schedule/1) (with [regs. 3](https://www.legislation.gov.uk/uksi/2013/1478/regulation/3), [6(5)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/6/5))

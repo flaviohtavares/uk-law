@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Time limits on claims[^key-33349538a539ff809616cf604cb851b8][^key-7903b72448d778e0618c8bbbd9f6047e]
+## 106. Time limits on claims[^c-33349538a539ff809616cf604cb851b8][^c-7903b72448d778e0618c8bbbd9f6047e]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-33349538a539ff809616cf604cb851b8]: Commencement: S. 106 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-33349538a539ff809616cf604cb851b8]: Commencement: S. 106 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-7903b72448d778e0618c8bbbd9f6047e]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2023/54/section/106) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-7903b72448d778e0618c8bbbd9f6047e]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2023/54/section/106) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

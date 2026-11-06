@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172. Development corporations for locally-led new towns[^key-78e305343f495e3a6d450701fd56c7e6]
+## 172. Development corporations for locally-led new towns[^c-78e305343f495e3a6d450701fd56c7e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -112,4 +112,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78e305343f495e3a6d450701fd56c7e6]: Commencement: S. 172 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-78e305343f495e3a6d450701fd56c7e6]: Commencement: S. 172 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)

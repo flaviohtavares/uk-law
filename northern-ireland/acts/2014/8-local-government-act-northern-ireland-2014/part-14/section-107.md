@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 107. International obligations[^key-ff24886c2ed7c84f25e9ddf57ecbec88]
+## 107. International obligations[^c-ff24886c2ed7c84f25e9ddf57ecbec88]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff24886c2ed7c84f25e9ddf57ecbec88]: Commencement: [S. 107](https://www.legislation.gov.uk/nia/2014/8/section/107) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-ff24886c2ed7c84f25e9ddf57ecbec88]: Commencement: [S. 107](https://www.legislation.gov.uk/nia/2014/8/section/107) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)

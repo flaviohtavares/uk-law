@@ -28,7 +28,7 @@ summary: ''
 
 - (a) is entitled to a deferred benefit under regulation E12 (preserved pension);
 - (b) may not join this Section of the scheme in respect of any further NHS employment by virtue of regulation B2(1)(i), (k) or (l); and
-- (c) becomes an active member of the 2008 Section on or before 31st March 2015 and[^key-5693204bc53924f5a733fb2ec4f3622e] before attaining the age of 60.
+- (c) becomes an active member of the 2008 Section on or before 31st March 2015 and[^c-5693204bc53924f5a733fb2ec4f3622e] before attaining the age of 60.
 
 (4) The Scottish Ministers must provide a member to whom this regulation applies with a statement of the amount of the cash equivalent of the member's benefits accrued in accordance with these Regulations at the guarantee date (“a statement of entitlement”).
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5693204bc53924f5a733fb2ec4f3622e]: Textual amendment: Words in reg. M7(3)(c) inserted (1.4.2015) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/96/regulation/1/2), [15](https://www.legislation.gov.uk/ssi/2015/96/regulation/15)
+[^c-5693204bc53924f5a733fb2ec4f3622e]: Textual amendment: Words in reg. M7(3)(c) inserted (1.4.2015) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/96/regulation/1/2), [15](https://www.legislation.gov.uk/ssi/2015/96/regulation/15)

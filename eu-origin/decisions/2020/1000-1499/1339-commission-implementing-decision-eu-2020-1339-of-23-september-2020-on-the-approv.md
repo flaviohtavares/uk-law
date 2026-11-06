@@ -118,7 +118,7 @@ HAS ADOPTED THIS DECISION:
 
 ## Article 1. Innovative technology
 
-The use of efficient light emitting diodes in vehicle exterior lighting (‘efficient exterior LED light’) is approved as an innovative technology within the meaning of Article 11 of Regulation (EU) 2019/631 for use in light commercial vehicles powered by an internal combustion engine that are capable of running on petrol, diesel, liquefied petroleum gas (LPG), compressed natural gas (CNG) or E85, or a combination of those fuels, as well as in not-off-vehicle charging hybrid electric vehicles (NOVC-HEVs) of category N<sub>1</sub> for which uncorrected measured fuel consumption and CO<sub>2</sub> emission values may be used in accordance with paragraph 1.1.4 of Appendix 2 to Sub-Annex 8 to Annex XXI to Regulation (EU) 2017/1151 , as that Regulation applies in EU law as amended from time to time and by virtue of the Northern Ireland Protocol,[^key-d650e68ec1af0913dd4a66f7c5271021] and that are capable of running on those same fuels or a combination thereof, where the innovative technology is used in one or several of the following exterior vehicle lights:
+The use of efficient light emitting diodes in vehicle exterior lighting (‘efficient exterior LED light’) is approved as an innovative technology within the meaning of Article 11 of Regulation (EU) 2019/631 for use in light commercial vehicles powered by an internal combustion engine that are capable of running on petrol, diesel, liquefied petroleum gas (LPG), compressed natural gas (CNG) or E85, or a combination of those fuels, as well as in not-off-vehicle charging hybrid electric vehicles (NOVC-HEVs) of category N<sub>1</sub> for which uncorrected measured fuel consumption and CO<sub>2</sub> emission values may be used in accordance with paragraph 1.1.4 of Appendix 2 to Sub-Annex 8 to Annex XXI to Regulation (EU) 2017/1151 , as that Regulation applies in EU law as amended from time to time and by virtue of the Northern Ireland Protocol,[^c-d650e68ec1af0913dd4a66f7c5271021] and that are capable of running on those same fuels or a combination thereof, where the innovative technology is used in one or several of the following exterior vehicle lights:
 
 - ((a)) low beam headlamp (including adaptive front lighting system);
 - ((b)) high beam headlamp;
@@ -156,7 +156,7 @@ The use of efficient light emitting diodes in vehicle exterior lighting (‘effi
 - (a) for bi-fuel vehicles using petrol and gaseous fuels, the CO<sub>2</sub> savings with regard to LPG or CNG fuels;
 - (b) for flex-fuel vehicles using petrol and E85, the CO<sub>2</sub> savings with regard to petrol.
 
-5. The type-approval authority shall record all the elements considered for the certification in a test report and keep that together with the verification report referred to in Article 2(2), [^key-49e38a6938424f15fa7fca347f70dfcd]...
+5. The type-approval authority shall record all the elements considered for the certification in a test report and keep that together with the verification report referred to in Article 2(2), [^c-49e38a6938424f15fa7fca347f70dfcd]...
 
 .
 
@@ -168,7 +168,7 @@ The use of efficient light emitting diodes in vehicle exterior lighting (‘effi
 
 2. The certified CO<sub>2</sub> savings recorded by reference to the eco-innovation code referred to in paragraph 1 may be taken into account for the calculation of the average specific emissions of manufacturers starting from the calendar year 2021.
 
-## Article 5. Entry into force[^key-49c28580e475382621395d7961a9d3a0]
+## Article 5. Entry into force[^c-49c28580e475382621395d7961a9d3a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -533,15 +533,15 @@ is the uncertainty of the CO<sub>2</sub> savings calculated in accordance with p
 
 [^f00010]: Footnote: Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) ([OJ L 263, 9.10.2007, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.263.01.0001.01.ENG)).
 
-[^key-d650e68ec1af0913dd4a66f7c5271021]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2020/1339/article/1) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/12/2)
+[^c-d650e68ec1af0913dd4a66f7c5271021]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2020/1339/article/1) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/12/2)
 
 [^c000001]: Textual amendment: Substituted by [Commission Implementing Decision (EU) 2020/1714 of 16 November 2020 amending Implementing Decision (EU) 2019/1119 as regards the testing methodology for certain not-off vehicle charging hybrid electric passenger cars and to take into account the use of alternative fuels and Implementing Decision (EU) 2020/1339 as regards rear position lamps (Text with EEA relevance)](https://www.legislation.gov.uk/eudn/2020/1714).
 
 [^c000002]: Textual amendment: Inserted by [Commission Implementing Decision (EU) 2020/1714 of 16 November 2020 amending Implementing Decision (EU) 2019/1119 as regards the testing methodology for certain not-off vehicle charging hybrid electric passenger cars and to take into account the use of alternative fuels and Implementing Decision (EU) 2020/1339 as regards rear position lamps (Text with EEA relevance)](https://www.legislation.gov.uk/eudn/2020/1714).
 
-[^key-49e38a6938424f15fa7fca347f70dfcd]: Textual amendment: Words in Art. 3(5) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/12/3)
+[^c-49e38a6938424f15fa7fca347f70dfcd]: Textual amendment: Words in Art. 3(5) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/12/3)
 
-[^key-49c28580e475382621395d7961a9d3a0]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eudn/2020/1339/article/5) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [12(4)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/12/4)
+[^c-49c28580e475382621395d7961a9d3a0]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eudn/2020/1339/article/5) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [12(4)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/12/4)
 
 [^f00011]: Footnote: [OJ L 4, 7.1.2012, p. 17](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2012.004.01.0017.01.ENG).
 

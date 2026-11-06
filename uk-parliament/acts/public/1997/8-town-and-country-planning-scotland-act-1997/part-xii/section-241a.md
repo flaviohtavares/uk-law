@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 241A. Application to the Crown[^key-e62bbe5ec7d2fd84d00366b5ec9552b3]
+## 241A. Application to the Crown[^c-e62bbe5ec7d2fd84d00366b5ec9552b3]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e62bbe5ec7d2fd84d00366b5ec9552b3]: Textual amendment: S. 241A inserted (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [ss. 90(1)](https://www.legislation.gov.uk/ukpga/2004/5/section/90/1), [121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/268/article/3/a)
+[^c-e62bbe5ec7d2fd84d00366b5ec9552b3]: Textual amendment: S. 241A inserted (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [ss. 90(1)](https://www.legislation.gov.uk/ukpga/2004/5/section/90/1), [121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/268/article/3/a)

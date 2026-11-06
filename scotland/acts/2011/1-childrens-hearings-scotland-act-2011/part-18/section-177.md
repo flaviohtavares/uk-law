@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 177. Children's hearings: procedural rules[^key-2f49c66bdc0a42eab2fd97046d2e46bc]
+## 177. Children's hearings: procedural rules[^c-2f49c66bdc0a42eab2fd97046d2e46bc]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f49c66bdc0a42eab2fd97046d2e46bc]: Commencement: S. 177 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-2f49c66bdc0a42eab2fd97046d2e46bc]: Commencement: S. 177 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

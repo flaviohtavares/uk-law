@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 185. Student loans[^key-3f80c820033cc0304dfff9e18997e437]
+## 185. Student loans[^c-3f80c820033cc0304dfff9e18997e437]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f80c820033cc0304dfff9e18997e437]: Commencement: [S. 185](https://www.legislation.gov.uk/asp/2016/21/section/185) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-3f80c820033cc0304dfff9e18997e437]: Commencement: [S. 185](https://www.legislation.gov.uk/asp/2016/21/section/185) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

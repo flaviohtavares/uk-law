@@ -31,7 +31,7 @@ summary: ''
 
 RATES
 
-The Rates (Automatic Telling Machines) (Designation of Rural Areas) Order (Northern Ireland) 2006 (revoked)[^key-6b87b4073a56da05b1ba4c4967a30072]
+The Rates (Automatic Telling Machines) (Designation of Rural Areas) Order (Northern Ireland) 2006 (revoked)[^c-6b87b4073a56da05b1ba4c4967a30072]
 
 Made
 
@@ -41,30 +41,30 @@ Coming into operation
 
 1st April 2007
 
-[^key-6b87b4073a56da05b1ba4c4967a30072]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b87b4073a56da05b1ba4c4967a30072]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6b87b4073a56da05b1ba4c4967a30072]
+## 1. Citation and commencement[^c-6b87b4073a56da05b1ba4c4967a30072]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation of rural areas[^key-6b87b4073a56da05b1ba4c4967a30072]
+## 2. Designation of rural areas[^c-6b87b4073a56da05b1ba4c4967a30072]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6b87b4073a56da05b1ba4c4967a30072]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b87b4073a56da05b1ba4c4967a30072]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — List of Designated Rural Areas[^key-6b87b4073a56da05b1ba4c4967a30072]
+## SCHEDULE — List of Designated Rural Areas[^c-6b87b4073a56da05b1ba4c4967a30072]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6b87b4073a56da05b1ba4c4967a30072]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b87b4073a56da05b1ba4c4967a30072]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6b87b4073a56da05b1ba4c4967a30072]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/516) revoked (1.4.2016) by [The Rates (Automatic Telling Machines) (Designation of Rural Areas) Order (Northern Ireland) 2016 (revoked) 2016 (S.R. 2016/69)](https://www.legislation.gov.uk/nisr/2016/69), [art. 3](https://www.legislation.gov.uk/nisr/2016/69/article/3)
+[^c-6b87b4073a56da05b1ba4c4967a30072]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/516) revoked (1.4.2016) by [The Rates (Automatic Telling Machines) (Designation of Rural Areas) Order (Northern Ireland) 2016 (revoked) 2016 (S.R. 2016/69)](https://www.legislation.gov.uk/nisr/2016/69), [art. 3](https://www.legislation.gov.uk/nisr/2016/69/article/3)

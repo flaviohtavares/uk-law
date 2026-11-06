@@ -68,7 +68,7 @@ summary: ''
 - (u) the Pensions Act 2007 and the Pensions Act (Northern Ireland) 2008
 - (v)[^c20184771] the Child Maintenance and Other Payments Act 2008, the Mesothelioma, etc., Act (Northern Ireland) 2008, and the Child Maintenance Act (Northern Ireland) 2008;
 - (w) the Pensions Act 2008 and the Pensions (No. 2) Act (Northern Ireland) 2008.
-- (x)[^key-2fc0a4f181179b4d33562cab1bc0ad9f] the Welfare Reform Act 2012 and the Welfare Reform (Northern Ireland) Order 2015;
+- (x)[^c-2fc0a4f181179b4d33562cab1bc0ad9f] the Welfare Reform Act 2012 and the Welfare Reform (Northern Ireland) Order 2015;
 - (y) the Pensions Act 2014 and the Pensions Act (Northern Ireland) 2015;
 - (z) the Pension Schemes Act 2015 and the Pension Schemes Act (Northern Ireland) 2016.
 
@@ -157,7 +157,7 @@ summary: ''
 
 [^c20184771]: Textual amendment: S. 87(6)(v)(w) inserted (20.5.2009) by [The Northern Ireland Act 1998 (Modification) Order 2009 (S.I. 2009/885)](https://www.legislation.gov.uk/uksi/2009/885), [art. 2](https://www.legislation.gov.uk/uksi/2009/885/article/2)
 
-[^key-2fc0a4f181179b4d33562cab1bc0ad9f]: Textual amendment: S. 87(6)(x)-(z) added (3.3.2016) by [The Northern Ireland Act 1998 (Modification) Order 2016 (S.I. 2016/160)](https://www.legislation.gov.uk/uksi/2016/160), [arts. 1](https://www.legislation.gov.uk/uksi/2016/160/article/1), [2](https://www.legislation.gov.uk/uksi/2016/160/article/2)
+[^c-2fc0a4f181179b4d33562cab1bc0ad9f]: Textual amendment: S. 87(6)(x)-(z) added (3.3.2016) by [The Northern Ireland Act 1998 (Modification) Order 2016 (S.I. 2016/160)](https://www.legislation.gov.uk/uksi/2016/160), [arts. 1](https://www.legislation.gov.uk/uksi/2016/160/article/1), [2](https://www.legislation.gov.uk/uksi/2016/160/article/2)
 
 [^c12399561]: Textual amendment: S. 87(6A) inserted (8.7.2002) by [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21), [s. 64(3)(4)](https://www.legislation.gov.uk/ukpga/2002/21/section/64/3/4)
 

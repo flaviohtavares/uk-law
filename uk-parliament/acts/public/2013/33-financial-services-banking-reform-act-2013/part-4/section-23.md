@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Power to give approval subject to conditions or for limited period[^key-fcb29882df0aae85b4f6410eda3411dd]
+## 23. Power to give approval subject to conditions or for limited period[^c-fcb29882df0aae85b4f6410eda3411dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,7 +49,7 @@ summary: ''
 
 > (3ZA) In the case of a relevant senior management application, the reference in subsection (3)(a) to granting the application is a reference to granting it without imposing conditions or limiting the period for which the approval has effect.
 
-(6)[^key-68a42ee3aeceaf80268d662c8db5d310] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-68a42ee3aeceaf80268d662c8db5d310] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In section 62 of FSMA 2000 (applications for approval: procedure and right to refer to Tribunal)—
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fcb29882df0aae85b4f6410eda3411dd]: Commencement: S. 23 in force at 7.3.2016 by [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/c) (with savings and transitional provisions in [S.I. 2015/492](https://www.legislation.gov.uk/uksi/2015/492) (as amended by [S.I. 2015/1660](https://www.legislation.gov.uk/uksi/2015/1660)))
+[^c-fcb29882df0aae85b4f6410eda3411dd]: Commencement: S. 23 in force at 7.3.2016 by [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/c) (with savings and transitional provisions in [S.I. 2015/492](https://www.legislation.gov.uk/uksi/2015/492) (as amended by [S.I. 2015/1660](https://www.legislation.gov.uk/uksi/2015/1660)))
 
-[^key-68a42ee3aeceaf80268d662c8db5d310]: Textual amendment: [S. 23(6)](https://www.legislation.gov.uk/ukpga/2013/33/section/23/6) omitted (13.9.2018 for specified purposes, 10.12.2018 for specified purposes, 18.7.2019 for specified purposes, 9.8.2019 for specified purposes, 9.12.2019 for specified purposes, 7.12.2020 in so far as not already in force) by virtue of [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 4 para. 22(4)](https://www.legislation.gov.uk/ukpga/2016/14/schedule/4/paragraph/22/4); [S.I. 2018/990](https://www.legislation.gov.uk/uksi/2018/990), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/990/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2018/990/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/990/regulation/2/3) (with [regs. 3-6](https://www.legislation.gov.uk/uksi/2018/990/regulation/3)); [S.I. 2019/1136](https://www.legislation.gov.uk/uksi/2019/1136), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2019/1136/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2019/1136/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2019/1136/regulation/2/4)[(5)](https://www.legislation.gov.uk/uksi/2019/1136/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/1136/regulation/3))
+[^c-68a42ee3aeceaf80268d662c8db5d310]: Textual amendment: [S. 23(6)](https://www.legislation.gov.uk/ukpga/2013/33/section/23/6) omitted (13.9.2018 for specified purposes, 10.12.2018 for specified purposes, 18.7.2019 for specified purposes, 9.8.2019 for specified purposes, 9.12.2019 for specified purposes, 7.12.2020 in so far as not already in force) by virtue of [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 4 para. 22(4)](https://www.legislation.gov.uk/ukpga/2016/14/schedule/4/paragraph/22/4); [S.I. 2018/990](https://www.legislation.gov.uk/uksi/2018/990), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/990/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2018/990/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/990/regulation/2/3) (with [regs. 3-6](https://www.legislation.gov.uk/uksi/2018/990/regulation/3)); [S.I. 2019/1136](https://www.legislation.gov.uk/uksi/2019/1136), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2019/1136/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2019/1136/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2019/1136/regulation/2/4)[(5)](https://www.legislation.gov.uk/uksi/2019/1136/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/1136/regulation/3))

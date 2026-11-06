@@ -24,7 +24,7 @@ summary: ''
 
 - (a) sections 61, 62 and 63 (disposal events, disposal values and the general limit on the amount of a disposal value),
 - (b) any of the provisions of this Part listed in section 66, or
-- (c) section 614BS of ITA 2007[^key-eb6b824661f94ca023d3f0b5637c6da1] or section 918 of CTA 2010 (cases where expenditure taken into account under Part 2, 5 or 8 of this Act) or[^key-9b22445fe66fa6bbcde9751c51c176ac] any other enactment,
+- (c) section 614BS of ITA 2007[^c-eb6b824661f94ca023d3f0b5637c6da1] or section 918 of CTA 2010 (cases where expenditure taken into account under Part 2, 5 or 8 of this Act) or[^c-9b22445fe66fa6bbcde9751c51c176ac] any other enactment,
 
 when read with sections 64 and 264(3) (cases in which no disposal value need be brought into account).
 
@@ -45,6 +45,6 @@ a disposal value is required to be brought into account in the pool in connectio
 
 ## Annotations
 
-[^key-eb6b824661f94ca023d3f0b5637c6da1]: Textual amendment: Words in s. 60(1)(c) substituted (1.4.2010) (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 234](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/234) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-eb6b824661f94ca023d3f0b5637c6da1]: Textual amendment: Words in s. 60(1)(c) substituted (1.4.2010) (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 234](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/234) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-9b22445fe66fa6bbcde9751c51c176ac]: Textual amendment: Words in s. 60(1)(c) inserted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 327](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/327) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-9b22445fe66fa6bbcde9751c51c176ac]: Textual amendment: Words in s. 60(1)(c) inserted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 327](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/327) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

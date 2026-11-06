@@ -24,9 +24,9 @@ Section 197
 
 ### Town and Country Planning Act 1990 (c. 8)
 
-**1.**[^key-c5f3c43cdc8fdd60bff7798cfc28eeb8][^key-841ba4d48a6d584d490046fa95fe1649] TCPA 1990 is amended as follows.
+**1.**[^c-c5f3c43cdc8fdd60bff7798cfc28eeb8][^c-841ba4d48a6d584d490046fa95fe1649] TCPA 1990 is amended as follows.
 
-**2.**[^key-abc3093fa8e65fd291b2fedf1747aef3][^key-bf80d02c7ed2430d428a86f9aa263f0f] In section 78 (appeals against planning decisions and failure to take planning decisions) after subsection (4) insert—
+**2.**[^c-abc3093fa8e65fd291b2fedf1747aef3][^c-bf80d02c7ed2430d428a86f9aa263f0f] In section 78 (appeals against planning decisions and failure to take planning decisions) after subsection (4) insert—
 
 > (4A) A notice of appeal under this section must be accompanied by such information as may be prescribed by a development order.
 >
@@ -39,7 +39,7 @@ Section 197
 >
 > (4D) A development order under subsection (4A) made by the Welsh Ministers is subject to annulment in pursuance of a resolution of the National Assembly for Wales.
 
-**3.**[^key-84ef25bfcfb60671e82d5befb1dbb740][^key-486b93d9aba9c65e93bdb4b2998f4064] In section 195 (appeals against refusal or failure to give decision on application under section 191 or 192) before subsection (2) insert—
+**3.**[^c-84ef25bfcfb60671e82d5befb1dbb740][^c-486b93d9aba9c65e93bdb4b2998f4064] In section 195 (appeals against refusal or failure to give decision on application under section 191 or 192) before subsection (2) insert—
 
 > (1B) A notice of appeal under this section must be—
 >
@@ -62,7 +62,7 @@ Section 197
 >
 > (1F) A development order under subsection (1B) made by the Welsh Ministers is subject to annulment in pursuance of a resolution of the National Assembly for Wales.
 
-**4.**[^key-255fcabaa8773fa392ce6aa440e7682b][^key-153f3854be9b92c84614d316dbbf17df] (1) Section 208 (appeals against notices under section 207) is amended as follows.
+**4.**[^c-255fcabaa8773fa392ce6aa440e7682b][^c-153f3854be9b92c84614d316dbbf17df] (1) Section 208 (appeals against notices under section 207) is amended as follows.
 
 (2) For subsection (4) substitute—
 
@@ -85,7 +85,7 @@ Section 197
 
 ### Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9)
 
-**5.**[^key-801e7c9388b2194df80bcfe4845e7a56][^key-cc6fb74e693cb790258ccf810bafc525] In section 21 of the Listed Buildings Act (appeals: supplementary provisions) after subsection (7) insert—
+**5.**[^c-801e7c9388b2194df80bcfe4845e7a56][^c-cc6fb74e693cb790258ccf810bafc525] In section 21 of the Listed Buildings Act (appeals: supplementary provisions) after subsection (7) insert—
 
 > (8) Regulations under this Act may provide for an appeal under section 20 to be accompanied by such other information as may be prescribed.
 >
@@ -100,7 +100,7 @@ Section 197
 
 ### Planning (Hazardous Substances) Act 1990 (c. 10)
 
-**6.**[^key-544d0a72dac2042fdaf42ba6e2b9b8c5][^key-b6e0b86744f7cd78aa74b7651c25f45a] In section 21 of the Hazardous Substances Act (appeals against decisions and failure to take decisions relating to hazardous substances) after subsection (3) insert—
+**6.**[^c-544d0a72dac2042fdaf42ba6e2b9b8c5][^c-b6e0b86744f7cd78aa74b7651c25f45a] In section 21 of the Hazardous Substances Act (appeals against decisions and failure to take decisions relating to hazardous substances) after subsection (3) insert—
 
 > (3A) A notice of appeal under this section must be accompanied by such information as may be prescribed.
 >
@@ -115,26 +115,26 @@ Section 197
 
 ## Annotations
 
-[^key-c5f3c43cdc8fdd60bff7798cfc28eeb8]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2008/29/schedule/11/paragraph/1) in force at 6.4.2009 for E. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 5(d)](https://www.legislation.gov.uk/uksi/2009/400/article/5/d)
+[^c-c5f3c43cdc8fdd60bff7798cfc28eeb8]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2008/29/schedule/11/paragraph/1) in force at 6.4.2009 for E. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 5(d)](https://www.legislation.gov.uk/uksi/2009/400/article/5/d)
 
-[^key-841ba4d48a6d584d490046fa95fe1649]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2008/29/schedule/11/paragraph/1) in force at 30.4.2012 for W. by [S.I. 2012/802](https://www.legislation.gov.uk/wsi/2012/802), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/802/article/2/b)
+[^c-841ba4d48a6d584d490046fa95fe1649]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2008/29/schedule/11/paragraph/1) in force at 30.4.2012 for W. by [S.I. 2012/802](https://www.legislation.gov.uk/wsi/2012/802), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/802/article/2/b)
 
-[^key-abc3093fa8e65fd291b2fedf1747aef3]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2008/29/schedule/11/paragraph/2) in force at 6.4.2009 for E. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 5(d)](https://www.legislation.gov.uk/uksi/2009/400/article/5/d)
+[^c-abc3093fa8e65fd291b2fedf1747aef3]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2008/29/schedule/11/paragraph/2) in force at 6.4.2009 for E. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 5(d)](https://www.legislation.gov.uk/uksi/2009/400/article/5/d)
 
-[^key-bf80d02c7ed2430d428a86f9aa263f0f]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2008/29/schedule/11/paragraph/2) in force at 30.4.2012 for W. by [S.I. 2012/802](https://www.legislation.gov.uk/wsi/2012/802), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/802/article/2/b)
+[^c-bf80d02c7ed2430d428a86f9aa263f0f]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2008/29/schedule/11/paragraph/2) in force at 30.4.2012 for W. by [S.I. 2012/802](https://www.legislation.gov.uk/wsi/2012/802), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/802/article/2/b)
 
-[^key-84ef25bfcfb60671e82d5befb1dbb740]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2008/29/schedule/11/paragraph/3) in force at 6.4.2009 for E. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 5(d)](https://www.legislation.gov.uk/uksi/2009/400/article/5/d)
+[^c-84ef25bfcfb60671e82d5befb1dbb740]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2008/29/schedule/11/paragraph/3) in force at 6.4.2009 for E. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 5(d)](https://www.legislation.gov.uk/uksi/2009/400/article/5/d)
 
-[^key-486b93d9aba9c65e93bdb4b2998f4064]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2008/29/schedule/11/paragraph/3) in force at 30.4.2012 for W. by [S.I. 2012/802](https://www.legislation.gov.uk/wsi/2012/802), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/802/article/2/b)
+[^c-486b93d9aba9c65e93bdb4b2998f4064]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2008/29/schedule/11/paragraph/3) in force at 30.4.2012 for W. by [S.I. 2012/802](https://www.legislation.gov.uk/wsi/2012/802), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/802/article/2/b)
 
-[^key-255fcabaa8773fa392ce6aa440e7682b]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2008/29/schedule/11/paragraph/4) in force at 6.4.2009 for E. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 5(d)](https://www.legislation.gov.uk/uksi/2009/400/article/5/d)
+[^c-255fcabaa8773fa392ce6aa440e7682b]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2008/29/schedule/11/paragraph/4) in force at 6.4.2009 for E. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 5(d)](https://www.legislation.gov.uk/uksi/2009/400/article/5/d)
 
-[^key-153f3854be9b92c84614d316dbbf17df]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2008/29/schedule/11/paragraph/4) in force at 30.4.2012 for W. by [S.I. 2012/802](https://www.legislation.gov.uk/wsi/2012/802), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/802/article/2/b)
+[^c-153f3854be9b92c84614d316dbbf17df]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2008/29/schedule/11/paragraph/4) in force at 30.4.2012 for W. by [S.I. 2012/802](https://www.legislation.gov.uk/wsi/2012/802), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/802/article/2/b)
 
-[^key-801e7c9388b2194df80bcfe4845e7a56]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2008/29/schedule/11/paragraph/5) in force at 6.4.2009 for E. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 5(d)](https://www.legislation.gov.uk/uksi/2009/400/article/5/d)
+[^c-801e7c9388b2194df80bcfe4845e7a56]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2008/29/schedule/11/paragraph/5) in force at 6.4.2009 for E. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 5(d)](https://www.legislation.gov.uk/uksi/2009/400/article/5/d)
 
-[^key-cc6fb74e693cb790258ccf810bafc525]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2008/29/schedule/11/paragraph/5) in force at 30.4.2012 for W. by [S.I. 2012/802](https://www.legislation.gov.uk/wsi/2012/802), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/802/article/2/b)
+[^c-cc6fb74e693cb790258ccf810bafc525]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2008/29/schedule/11/paragraph/5) in force at 30.4.2012 for W. by [S.I. 2012/802](https://www.legislation.gov.uk/wsi/2012/802), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/802/article/2/b)
 
-[^key-544d0a72dac2042fdaf42ba6e2b9b8c5]: Commencement: [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2008/29/schedule/11/paragraph/6) in force at 6.4.2009 for E. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 5(d)](https://www.legislation.gov.uk/uksi/2009/400/article/5/d)
+[^c-544d0a72dac2042fdaf42ba6e2b9b8c5]: Commencement: [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2008/29/schedule/11/paragraph/6) in force at 6.4.2009 for E. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 5(d)](https://www.legislation.gov.uk/uksi/2009/400/article/5/d)
 
-[^key-b6e0b86744f7cd78aa74b7651c25f45a]: Commencement: [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2008/29/schedule/11/paragraph/6) in force at 30.4.2012 for W. by [S.I. 2012/802](https://www.legislation.gov.uk/wsi/2012/802), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/802/article/2/b)
+[^c-b6e0b86744f7cd78aa74b7651c25f45a]: Commencement: [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2008/29/schedule/11/paragraph/6) in force at 30.4.2012 for W. by [S.I. 2012/802](https://www.legislation.gov.uk/wsi/2012/802), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/802/article/2/b)

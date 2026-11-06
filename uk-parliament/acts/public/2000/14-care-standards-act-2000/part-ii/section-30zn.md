@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30ZN. Monetary penalties: procedure etc[^key-6564b5453e69c1bebdb0a80f376efb92]
+## 30ZN. Monetary penalties: procedure etc[^c-6564b5453e69c1bebdb0a80f376efb92]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Schedule 1A makes provision about—
 
 ## Annotations
 
-[^key-6564b5453e69c1bebdb0a80f376efb92]: Textual amendment: S. 30ZN and cross-heading inserted (29.4.2026 for specified purposes, 15.7.2026 in so far as not already in force) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 19(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/19/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/g)
+[^c-6564b5453e69c1bebdb0a80f376efb92]: Textual amendment: S. 30ZN and cross-heading inserted (29.4.2026 for specified purposes, 15.7.2026 in so far as not already in force) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 19(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/19/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/g)

@@ -22,13 +22,13 @@ summary: ''
 
 Regulation 5
 
-### 1. Place for controls and formalities for NATO goods leaving and re-entering the United Kingdom[^key-6e7411907708fe1369626c730dd1c987]
+### 1. Place for controls and formalities for NATO goods leaving and re-entering the United Kingdom[^c-6e7411907708fe1369626c730dd1c987]
 
-Where, in the course of movement of goods from one point to another point in Great Britain[^key-56761e9283ffc17afa18266d11164fe6], goods leave and re-enter Great Britain, the customs controls and formalities applicable in accordance with the Agreement in regulation 5 must be carried out by HMRC at the points where the goods temporarily leave Great Britain and where they re-enter Great Britain.
+Where, in the course of movement of goods from one point to another point in Great Britain[^c-56761e9283ffc17afa18266d11164fe6], goods leave and re-enter Great Britain, the customs controls and formalities applicable in accordance with the Agreement in regulation 5 must be carried out by HMRC at the points where the goods temporarily leave Great Britain and where they re-enter Great Britain.
 
-### 2. HMRC customs office and form 302[^key-9982edffb4e4ebfc3f310fdafe105113]
+### 2. HMRC customs office and form 302[^c-9982edffb4e4ebfc3f310fdafe105113]
 
-(1) HMRC must designate the customs offices in Great Britain[^key-547ddfbde3408b36d6ae63da82a842a5] responsible for formalities and controls concerning the movement of goods carried out by or on behalf of NATO forces.
+(1) HMRC must designate the customs offices in Great Britain[^c-547ddfbde3408b36d6ae63da82a842a5] responsible for formalities and controls concerning the movement of goods carried out by or on behalf of NATO forces.
 
 (2) A designated customs office must supply the NATO forces stationed in its area with forms 302 which—
 
@@ -38,7 +38,7 @@ Where, in the course of movement of goods from one point to another point in Gre
 
 (3) In this Schedule, “NATO forces” are those of the North Atlantic Treaty Organisation eligible to use form 302 as provided for in or under the Agreement in regulation 5.
 
-### 3. Procedural rules for the form 302[^key-a7333167039b770d8d3b4034beaf9acf]
+### 3. Procedural rules for the form 302[^c-a7333167039b770d8d3b4034beaf9acf]
 
 (1) The Commissioners for Her Majesty's Revenue and Customs must stipulate in a public notice the procedural rules applying to, and to the use of, form 302.
 
@@ -57,12 +57,12 @@ Where, in the course of movement of goods from one point to another point in Gre
 
 ## Annotations
 
-[^key-6e7411907708fe1369626c730dd1c987]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2018/1258/schedule/4/paragraph/1) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-6e7411907708fe1369626c730dd1c987]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2018/1258/schedule/4/paragraph/1) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-56761e9283ffc17afa18266d11164fe6]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2018/1258/schedule/4/paragraph/1) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [39(5)(a)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/39/5/a); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-56761e9283ffc17afa18266d11164fe6]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2018/1258/schedule/4/paragraph/1) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [39(5)(a)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/39/5/a); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-9982edffb4e4ebfc3f310fdafe105113]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2018/1258/schedule/4/paragraph/2) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-9982edffb4e4ebfc3f310fdafe105113]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2018/1258/schedule/4/paragraph/2) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-547ddfbde3408b36d6ae63da82a842a5]: Textual amendment: Words in [Sch. 4 para. 2(1)](https://www.legislation.gov.uk/uksi/2018/1258/schedule/4/paragraph/2/1) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [39(5)(b)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/39/5/b); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-547ddfbde3408b36d6ae63da82a842a5]: Textual amendment: Words in [Sch. 4 para. 2(1)](https://www.legislation.gov.uk/uksi/2018/1258/schedule/4/paragraph/2/1) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [39(5)(b)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/39/5/b); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-a7333167039b770d8d3b4034beaf9acf]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2018/1258/schedule/4/paragraph/3) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-a7333167039b770d8d3b4034beaf9acf]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2018/1258/schedule/4/paragraph/3) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)

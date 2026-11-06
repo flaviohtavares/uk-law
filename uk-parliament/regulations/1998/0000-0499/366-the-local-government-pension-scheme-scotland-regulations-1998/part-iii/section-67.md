@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 67. Applications to pay SCAVCs[^key-dd2eba2f27d524d3ea31b3e349934529]
+## 67. Applications to pay SCAVCs[^c-dd2eba2f27d524d3ea31b3e349934529]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd2eba2f27d524d3ea31b3e349934529]: Commencement: Reg. 67 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-dd2eba2f27d524d3ea31b3e349934529]: Commencement: Reg. 67 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 98. Planning obligations[^key-5872ccb4772a136199196fe4e6fd2599][^key-b0229474869e5dbadeea4b0f62cdf25a]
+## 98. Planning obligations[^c-5872ccb4772a136199196fe4e6fd2599][^c-b0229474869e5dbadeea4b0f62cdf25a]
 
 *Extent: E+W*
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5872ccb4772a136199196fe4e6fd2599]: Commencement: S. 98 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-5872ccb4772a136199196fe4e6fd2599]: Commencement: S. 98 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-b0229474869e5dbadeea4b0f62cdf25a]: Commencement: [S. 98](https://www.legislation.gov.uk/asc/2024/3/section/98) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
+[^c-b0229474869e5dbadeea4b0f62cdf25a]: Commencement: [S. 98](https://www.legislation.gov.uk/asc/2024/3/section/98) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)

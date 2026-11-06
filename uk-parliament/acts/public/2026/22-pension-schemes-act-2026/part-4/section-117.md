@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Taxation[^key-b6c2f93d42089471388af5a2dec8117c]
+## 117. Taxation[^c-b6c2f93d42089471388af5a2dec8117c]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6c2f93d42089471388af5a2dec8117c]: Commencement: S. 117 in force at Royal Assent, see [s. 133(1)(10)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1/10)
+[^c-b6c2f93d42089471388af5a2dec8117c]: Commencement: S. 117 in force at Royal Assent, see [s. 133(1)(10)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1/10)

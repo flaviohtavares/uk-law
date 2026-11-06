@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**48.**[^key-d50a503c1915415ec646b2dffee0a620] Omit paragraph 8(5).
+**48.**[^c-d50a503c1915415ec646b2dffee0a620] Omit paragraph 8(5).
 
 ## Annotations
 
-[^key-d50a503c1915415ec646b2dffee0a620]: Commencement: Art. 48 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-d50a503c1915415ec646b2dffee0a620]: Commencement: Art. 48 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

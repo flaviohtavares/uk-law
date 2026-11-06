@@ -41,7 +41,7 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety[^f00001] makes the following Regulations in exercise of the powers conferred by Articles 45, 98, 106 and 107(6) of, and paragraphs 1(b) and 1B of Schedule 15 to, the Health and Personal Social Services (Northern Ireland) Order 1972[^f00002] and with the approval of the Department of Finance and Personnel in so far as they relate to the remission of charges, and in conjunction with the Department of Finance and Personnel in so far as they relate to travelling expenses.
 
-## 1. Citation, commencement and interpretation[^key-11198aea79948ce2621f23a4730b8eb3]
+## 1. Citation, commencement and interpretation[^c-11198aea79948ce2621f23a4730b8eb3]
 
 (1) These Regulations may be cited as the Travelling Expenses and Remission of Charges (Amendment No.2) Regulations (Northern Ireland) 2007 and shall come into operation on 9th November 2007.
 
@@ -50,7 +50,7 @@ The Department of Health, Social Services and Public Safety[^f00001] makes the f
 - “the principal Regulations” means the Travelling Expenses and Remission of Charges Regulations (Northern Ireland) 2004[^f00003]; and
 - “the Income Support Regulations” means the Income Support (General) Regulations (Northern Ireland) 1987[^f00004].
 
-## 2. Amendment of Schedule 1 to the Principal Regulations[^key-0bc3b7cd4ae5eb070a2b3fae8dfcc797]
+## 2. Amendment of Schedule 1 to the Principal Regulations[^c-0bc3b7cd4ae5eb070a2b3fae8dfcc797]
 
 (1) Schedule 1 to the principal Regulations (Modifications of the Income Support (General) Regulations (Northern Ireland) 1987) is amended as provided by paragraph (2).
 
@@ -105,13 +105,13 @@ These regulations modify Schedule 1 of the principal Regulations to provide that
 
 [^f00002]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265) as amended by Article 3(2) of, and paragraph 3 of Schedule 1 to, the Health and Social Security (Northern Ireland) Order 1984 ([S.I. 1984/1158 (N.I. 8)](https://www.legislation.gov.uk/nisi/1984/1158)); paragraphs 4 and 5 of Article 8 of the Health and Medicines (Northern Ireland) Order 1988 ([S.I. 1988/2249 (N.I. 24)](https://www.legislation.gov.uk/nisi/1988/2249)); Article 34 of, and Part II of Schedule 5 to, the Health and Personal Social Services (Northern Ireland) Order 1991 ([S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)) there are other amendments which are not relevant
 
-[^key-11198aea79948ce2621f23a4730b8eb3]: Commencement: Reg. 1 in operation at 9.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/437/regulation/1/1)
+[^c-11198aea79948ce2621f23a4730b8eb3]: Commencement: Reg. 1 in operation at 9.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/437/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 2004 No. 91](https://www.legislation.gov.uk/nisr/2004/91); relevant amending Regulations are [S.R. 2004 Nos. 156](https://www.legislation.gov.uk/nisr/2004/156) and [162](https://www.legislation.gov.uk/nisr/2004/162), [S.R. 2005 Nos. 107](https://www.legislation.gov.uk/nisr/2005/107) and [386](https://www.legislation.gov.uk/nisr/2005/386), [S.R. 2006 Nos. 136](https://www.legislation.gov.uk/nisr/2006/136), [190](https://www.legislation.gov.uk/nisr/2006/190) and [333](https://www.legislation.gov.uk/nisr/2006/333) and [S.R. 2007 No. 264](https://www.legislation.gov.uk/nisr/2007/264)
 
 [^f00004]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459)
 
-[^key-0bc3b7cd4ae5eb070a2b3fae8dfcc797]: Commencement: Reg. 2 in operation at 9.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/437/regulation/1/1)
+[^c-0bc3b7cd4ae5eb070a2b3fae8dfcc797]: Commencement: Reg. 2 in operation at 9.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/437/regulation/1/1)
 
 [^f00005]: Footnote: The Guide is available on the Student Awards Agency for Scotland website at http://www.saas.gov.uk
 

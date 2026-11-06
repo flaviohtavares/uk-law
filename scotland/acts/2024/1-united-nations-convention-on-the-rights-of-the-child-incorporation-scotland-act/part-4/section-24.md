@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Interpretation of legislation[^key-c575a55400d85a79a72a1ef39c9c36c3]
+## 24. Interpretation of legislation[^c-c575a55400d85a79a72a1ef39c9c36c3]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c575a55400d85a79a72a1ef39c9c36c3]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2024/1/section/24) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-c575a55400d85a79a72a1ef39c9c36c3]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2024/1/section/24) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

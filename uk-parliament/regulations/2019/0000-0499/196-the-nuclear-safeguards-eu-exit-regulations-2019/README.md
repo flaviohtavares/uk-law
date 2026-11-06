@@ -94,7 +94,7 @@ In accordance with section 113(2)(a), (aa) and (c) and 113(3)(a) and (c) of the 
 - [Section 25 — Carriers and temporary storage agents](part-4/section-25.md)
 - [Section 26 — Intermediaries](part-4/section-26.md)
 
-### PART 5 — Ores[^key-9758b73cd6aac911fb073896a6ab7fdd]
+### PART 5 — Ores[^c-9758b73cd6aac911fb073896a6ab7fdd]
 
 *Extent: E+W+S+N.I.*
 
@@ -283,4 +283,4 @@ A full impact assessment of the effect that this instrument together with the Fi
 
 [^c23563221]: Marginal citation: [2018 c. 15](https://www.legislation.gov.uk/ukpga/2018/15).
 
-[^key-9758b73cd6aac911fb073896a6ab7fdd]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/uksi/2019/196/part/5) omitted (10.7.2026) by virtue of [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2026/835/regulation/20)
+[^c-9758b73cd6aac911fb073896a6ab7fdd]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/uksi/2019/196/part/5) omitted (10.7.2026) by virtue of [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2026/835/regulation/20)

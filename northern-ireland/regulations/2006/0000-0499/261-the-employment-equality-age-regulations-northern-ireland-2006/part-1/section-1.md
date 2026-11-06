@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-29adc04f2da7b7bfc991a8cecf19dcb3]
+## 1. Citation and commencement[^c-29adc04f2da7b7bfc991a8cecf19dcb3]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ These Regulations may be cited as the Employment Equality (Age) Regulations (Nor
 
 ## Annotations
 
-[^key-29adc04f2da7b7bfc991a8cecf19dcb3]: Textual amendment: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/261/regulation/1) substituted (30.9.2006) by [The Employment Equality (Age) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/395)](https://www.legislation.gov.uk/nisr/2006/395), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/395/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2006/395/regulation/2/2)
+[^c-29adc04f2da7b7bfc991a8cecf19dcb3]: Textual amendment: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/261/regulation/1) substituted (30.9.2006) by [The Employment Equality (Age) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/395)](https://www.legislation.gov.uk/nisr/2006/395), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/395/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2006/395/regulation/2/2)

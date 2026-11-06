@@ -56,7 +56,7 @@ The Secretary of State makes the following Regulations under the powers conferre
 
 These Regulations may be cited as the Transfrontier Shipment of Waste Regulations 2007 and come into force on 12th July 2007.
 
-### 2. Application[^key-98af4520018f2d192c61a055b33bbe8b]
+### 2. Application[^c-98af4520018f2d192c61a055b33bbe8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -69,25 +69,25 @@ These Regulations do not apply to the transit of waste occurring only through th
 (1) In these Regulations—
 
 - “Annex VII document” means the document set out in Annex VII to the Community Regulation;
-- “authorised person” means a person authorised by a competent authority in accordance with regulation 50A(1)[^key-f2182a12baf75546fbad9994178e3871] ;
-- “[^key-976beb56d652f9a0aa896670a24c0ab5][Commission Regulation (EC) No 1418/2007](https://www.legislation.gov.uk/european/regulation/2007/1418)” means [Commission Regulation (EC) No 1418/2007](https://www.legislation.gov.uk/european/regulation/2007/1418) concerning the export for recovery of certain waste listed in Annex III or IIIA to Regulation [(EC) No 1013/2006](https://www.legislation.gov.uk/european/regulation/2006/1013) of the European Parliament and of the Council to certain countries to which the OECD Decision on the control of transboundary movements of wastes does not apply;
+- “authorised person” means a person authorised by a competent authority in accordance with regulation 50A(1)[^c-f2182a12baf75546fbad9994178e3871] ;
+- “[^c-976beb56d652f9a0aa896670a24c0ab5][Commission Regulation (EC) No 1418/2007](https://www.legislation.gov.uk/european/regulation/2007/1418)” means [Commission Regulation (EC) No 1418/2007](https://www.legislation.gov.uk/european/regulation/2007/1418) concerning the export for recovery of certain waste listed in Annex III or IIIA to Regulation [(EC) No 1013/2006](https://www.legislation.gov.uk/european/regulation/2006/1013) of the European Parliament and of the Council to certain countries to which the OECD Decision on the control of transboundary movements of wastes does not apply;
 - “the Community Regulation” means Regulation [(EC) No 1013/2006](https://www.legislation.gov.uk/european/regulation/2006/1013) of the European Parliament and of the Council on shipments of waste;
-- competent authority” means a competent authority within the meaning of regulation 6 or 7;[^key-4211773d89c1a3a5dc27fb2f7e9b0efe]
+- competent authority” means a competent authority within the meaning of regulation 6 or 7;[^c-4211773d89c1a3a5dc27fb2f7e9b0efe]
 - “the English area” means that part of the marine area which is not the Northern Irish area, the Scottish area or the Welsh area;
-- “the marine area” means—[^key-a602402bb8262a185b3bcf32a6501a34]
+- “the marine area” means—[^c-a602402bb8262a185b3bcf32a6501a34]
   - (a) the area of sea within the seaward limits of the territorial sea adjacent to the United Kingdom, including—
     - (i) any area submerged at mean high water spring tide, and
     - (ii) the waters of every estuary, bay, river or channel, so far as the tide flows at mean high water spring tide,
   - (b) the seabed and the subsoil within any area designated under subsection (7) of section 1 of the Continental Shelf Act 1964 (exploration and exploitation of continental shelf), and
   - (c) waters superjacent to the seabed and the seabed and its subsoil within any area designated under subsection (4) of section 84 of the Energy Act 2004 (exploitation of areas outside the territorial sea for energy production);
-- “the Northern Irish area” means such of the marine area adjacent to Northern Ireland which lies to the west of the Northern Irish border;[^key-4112e2386f619789eba72301036a228f]
+- “the Northern Irish area” means such of the marine area adjacent to Northern Ireland which lies to the west of the Northern Irish border;[^c-4112e2386f619789eba72301036a228f]
 - “notifiable waste” means waste that is subject to the prior written notification and consent procedures of Title II of the Community Regulation, by virtue of any provision of that Regulation;
-- “the Scottish area” means such of the marine area adjacent to Scotland which lies to the north of the Scottish border and east of the Northern Irish border;[^key-a422a30ee1779d2b95dfa68dd1a2df09]
+- “the Scottish area” means such of the marine area adjacent to Scotland which lies to the north of the Scottish border and east of the Northern Irish border;[^c-a422a30ee1779d2b95dfa68dd1a2df09]
 - “waste vessel” means any vessel or any part of any vessel that is in itself waste within the meaning of the Community Regulation.
-- “the Welsh area” means such of the marine area adjacent to Wales which lies within the Welsh border;[^key-abd9dd97c5ff2976fd8ff0e875168c0e]
+- “the Welsh area” means such of the marine area adjacent to Wales which lies within the Welsh border;[^c-abd9dd97c5ff2976fd8ff0e875168c0e]
 - “working day” means any day except a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday under the Banking and Financial Dealings Act 1971 in any part of the United Kingdom.
 
-(1A)[^key-823ea64fadcf8f14f45a76c698e71487] In these Regulations—
+(1A)[^c-823ea64fadcf8f14f45a76c698e71487] In these Regulations—
 
 - (a) any reference to England, Wales, Scotland or Northern Ireland excludes any part of the marine area; and
 - (b) except in the case of any reference to the territorial sea adjacent to the United Kingdom and in the definition of “Dividing Line” in regulation 4A(4), any reference to the United Kingdom includes the marine area.
@@ -97,10 +97,10 @@ These Regulations do not apply to the transit of waste occurring only through th
 (3) Any reference in these Regulations to—
 
 - (a) an Article is, save where the context otherwise requires, a reference to an Article of the Community Regulation;
-- (b) the Community Regulation is a reference to that Regulation as amended from time to time;[^key-d192fa93a599e6e8312bf7069d6898e6]
+- (b) the Community Regulation is a reference to that Regulation as amended from time to time;[^c-d192fa93a599e6e8312bf7069d6898e6]
 - (c) [Commission Regulation (EC) No 1418/2007](https://www.legislation.gov.uk/european/regulation/2007/1418) is a reference to that Regulation as amended from time to time.
 
-### 4A. The Northern Irish border, the Scottish border and the Welsh border[^key-99e1063bc5298d80952dfc7851d7f598]
+### 4A. The Northern Irish border, the Scottish border and the Welsh border[^c-99e1063bc5298d80952dfc7851d7f598]
 
 (1) In these Regulations, “the Northern Irish border” means a line joining the co-ordinates numbered 1 to 12 in Part 1 of Schedule A1.
 
@@ -163,22 +163,22 @@ These Regulations do not apply to the transit of waste occurring only through th
 - (c) any freight-forwarder; or
 - (d) any other person involved in the shipment of waste.
 
-### 6. Competent authorities of destination and dispatch[^key-a123806119c553642cad05cf9f2c5d60]
+### 6. Competent authorities of destination and dispatch[^c-a123806119c553642cad05cf9f2c5d60]
 
-The competent authorities of destination and dispatch [^key-2cb7c3eff82e1c0348dffdc432b83218]... are—
+The competent authorities of destination and dispatch [^c-2cb7c3eff82e1c0348dffdc432b83218]... are—
 
 - (a) in England and the English area, the Environment Agency;
 - (b) in Wales and the Welsh area, the Natural Resources Body for Wales;
 - (c) in Scotland and the Scottish area, the Scottish Environment Protection Agency;
-- (d) in Northern Ireland and the Northern Irish area, the Department of Agriculture, Environment and Rural Affairs[^key-6d6685bb8a607665859822c6747171c2] in Northern Ireland.
+- (d) in Northern Ireland and the Northern Irish area, the Department of Agriculture, Environment and Rural Affairs[^c-6d6685bb8a607665859822c6747171c2] in Northern Ireland.
 
-### 7. Competent authority of transit[^key-0f12843e2cd46ed5dac5afb6acac3a71]
+### 7. Competent authority of transit[^c-0f12843e2cd46ed5dac5afb6acac3a71]
 
-(1) The Environment Agency is the competent authority of transit for the United Kingdom [^key-77e53b8d6f2bc0787b04786304f28c59]....
+(1) The Environment Agency is the competent authority of transit for the United Kingdom [^c-77e53b8d6f2bc0787b04786304f28c59]....
 
-(2) The Natural Resources Body for Wales, the Scottish Environment Protection Agency and the Department of Agriculture, Environment and Rural Affairs[^key-d890f818e164b08331ddc93f5e57a14d] in Northern Ireland must supply the Environment Agency with any information which the Environment Agency may require in connection with its functions as the competent authority of transit under the Community Regulation[^key-326ecdfa54cf4d14ae726ded6921b3d6].
+(2) The Natural Resources Body for Wales, the Scottish Environment Protection Agency and the Department of Agriculture, Environment and Rural Affairs[^c-d890f818e164b08331ddc93f5e57a14d] in Northern Ireland must supply the Environment Agency with any information which the Environment Agency may require in connection with its functions as the competent authority of transit under the Community Regulation[^c-326ecdfa54cf4d14ae726ded6921b3d6].
 
-### 8. Correspondent[^key-5c503c320391af07f9a19cc49de6256a]
+### 8. Correspondent[^c-5c503c320391af07f9a19cc49de6256a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -208,17 +208,17 @@ The competent authorities of destination and dispatch [^key-2cb7c3eff82e1c0348df
 
 and for the purposes of this paragraph, the principal office of a company registered outside the United Kingdom or of a partnership carrying on business outside the United Kingdom is its principal office within the United Kingdom.
 
-### 10. Transitional provisions[^key-1567c81d08fd8ca2b823d25f3975bb5e]
+### 10. Transitional provisions[^c-1567c81d08fd8ca2b823d25f3975bb5e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — UK Plan for Shipments of Waste[^key-36d5206a03104293bfe19f3bc4b84ae2]
+## PART 2 — UK Plan for Shipments of Waste[^c-36d5206a03104293bfe19f3bc4b84ae2]
 
-### 11. Waste management plan[^key-1cc3e57422170bf16eb2911930afe8e2]
+### 11. Waste management plan[^c-1cc3e57422170bf16eb2911930afe8e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11A. UK Plan for Shipments of Waste: continuation and changes[^key-f9c4aa185695c18d9ce8ae8afab871f2]
+### 11A. UK Plan for Shipments of Waste: continuation and changes[^c-f9c4aa185695c18d9ce8ae8afab871f2]
 
 (1) The UK Plan for Shipments of Waste of May 2012 continues to have effect.
 
@@ -233,9 +233,9 @@ and for the purposes of this paragraph, the principal office of a company regist
 
 ### 12. Public participation procedures
 
-(1) As soon as reasonably practicable after preparing proposals for amending or replacing the UK Plan[^key-0ed3141037cf9b32d063dff690885ee6], the Secretary of State must—
+(1) As soon as reasonably practicable after preparing proposals for amending or replacing the UK Plan[^c-0ed3141037cf9b32d063dff690885ee6], the Secretary of State must—
 
-- (a) take such steps as he considers appropriate to bring the proposals to the attention of the persons who in his opinion are affected or likely to be affected by, or have an interest in, the proposals[^key-1b96dab2a28a8edbf311de2f4a28ac1b] (in this Part, referred to as “public consultees”);
+- (a) take such steps as he considers appropriate to bring the proposals to the attention of the persons who in his opinion are affected or likely to be affected by, or have an interest in, the proposals[^c-1b96dab2a28a8edbf311de2f4a28ac1b] (in this Part, referred to as “public consultees”);
 - (b) inform public consultees of the address from which a copy of the proposals may be obtained;
 - (c) invite public consultees to express their opinions on the proposals, specifying the address to which, and the period within which, opinions must be sent.
 
@@ -247,43 +247,43 @@ and for the purposes of this paragraph, the principal office of a company regist
 
 ### 13. Procedures following public participation
 
-(1) Before decisions on amending or replacing the UK Plan[^key-dd82d3afa013882d9d9552fc2c187eac] are made, the Secretary of State must take account of any opinions expressed by public consultees in accordance with regulation 12.
+(1) Before decisions on amending or replacing the UK Plan[^c-dd82d3afa013882d9d9552fc2c187eac] are made, the Secretary of State must take account of any opinions expressed by public consultees in accordance with regulation 12.
 
-(2) As soon as reasonably practicable after making decisions on amending or replacing the UK Plan[^key-0e6c091d6bc02702a23617739b4cc1c4], the Secretary of State must—
+(2) As soon as reasonably practicable after making decisions on amending or replacing the UK Plan[^c-0e6c091d6bc02702a23617739b4cc1c4], the Secretary of State must—
 
 - (a) inform public consultees of the matters referred to in paragraph (3);
 - (b) take such steps as he considers appropriate to bring those matters to the attention of the public;
-- (c) if he has amended or replaced the UK Plan[^key-8d1ab6d5d127067cd86bf26fce05df55], make a copy of it available for inspection at all reasonable times free of charge.
+- (c) if he has amended or replaced the UK Plan[^c-8d1ab6d5d127067cd86bf26fce05df55], make a copy of it available for inspection at all reasonable times free of charge.
 
 (3) The matters are—
 
-- (a) the decisions made by the Secretary of State on the proposals[^key-c546fc0dbca124955d6a7443f3b6462f];
+- (a) the decisions made by the Secretary of State on the proposals[^c-c546fc0dbca124955d6a7443f3b6462f];
 - (b) the reasons and considerations upon which those decisions are based; and
 - (c) information about the public participation procedure.
 
 ### 14. Provision of the plan to competent authorities
 
-The Secretary of State must , on amending or replacing the UK Plan, send a copy of it[^key-f2a8c04e84e146ad822bbb27e2eea9bd] to—
+The Secretary of State must , on amending or replacing the UK Plan, send a copy of it[^c-f2a8c04e84e146ad822bbb27e2eea9bd] to—
 
 - (a) the Environment Agency;
-- (aa)[^key-ce6d148c6640e33cb7aef69d7716b849] the Natural Resources Body for Wales;
+- (aa)[^c-ce6d148c6640e33cb7aef69d7716b849] the Natural Resources Body for Wales;
 - (b) the Scottish Environment Protection Agency; and
-- (c) the Department of Agriculture, Environment and Rural Affairs[^key-9aa4968c143ada8777278e55fa52a1df] in Northern Ireland.
+- (c) the Department of Agriculture, Environment and Rural Affairs[^c-9aa4968c143ada8777278e55fa52a1df] in Northern Ireland.
 
 ### 15. Objections to shipments of waste
 
-For the purpose of preventing shipments of waste that are not in accordance with the UK Plan[^key-67c83f212689e3cc9742b848817b0195]—
+For the purpose of preventing shipments of waste that are not in accordance with the UK Plan[^c-67c83f212689e3cc9742b848817b0195]—
 
-- (a) a competent authority of destination must object to any shipment notified in accordance with the Community Regulation which the UK Plan[^key-d98ee3711ac44795f26b54ab073228d7] indicates should not be brought into the United Kingdom; and
-- (b) a competent authority of dispatch must object to any shipment notified in accordance with the Community Regulation which the UK Plan[^key-9ec9eef6f96d8b353a5e4b518aba8589] indicates should not be dispatched from the United Kingdom.
+- (a) a competent authority of destination must object to any shipment notified in accordance with the Community Regulation which the UK Plan[^c-d98ee3711ac44795f26b54ab073228d7] indicates should not be brought into the United Kingdom; and
+- (b) a competent authority of dispatch must object to any shipment notified in accordance with the Community Regulation which the UK Plan[^c-9ec9eef6f96d8b353a5e4b518aba8589] indicates should not be dispatched from the United Kingdom.
 
-### 16 (Extent: E.W.). The Waste (England and Wales) Regulations 2011 (Extent: E.W.)[^M_E_8790349e-0a6b-42ee-c69b-869060bb8f25][^key-96b78357f614a7497dcee38dcacf55e9]
+### 16 (Extent: E.W.). The Waste (England and Wales) Regulations 2011 (Extent: E.W.)[^M_E_8790349e-0a6b-42ee-c69b-869060bb8f25][^c-96b78357f614a7497dcee38dcacf55e9]
 
 *Extent: E+W*
 
 *Extent: E+W+S+N.I.*
 
-The reference to a waste management plan in regulation 7 of the Waste (England and Wales) Regulations 2011 includes *(Extent: E.W.)* the UK Plan[^key-4556c7265e5c2c2315a8e67bb3c66f65] *(Extent: E.W.)*. *(Extent: E.W.)*
+The reference to a waste management plan in regulation 7 of the Waste (England and Wales) Regulations 2011 includes *(Extent: E.W.)* the UK Plan[^c-4556c7265e5c2c2315a8e67bb3c66f65] *(Extent: E.W.)*. *(Extent: E.W.)*
 
 ### 16. Waste Management Licensing Regulations 1994[^M_E_93bb2703-23d7-4389-8b02-99039bbbafbb]
 
@@ -306,11 +306,11 @@ A person commits an offence if he transports waste other than in accordance with
 - (a) the notification document or movement document, in the case of notifiable waste; or
 - (b) the Annex VII document, in the case of waste subject to the procedural requirements of Article 18(1).
 
-## PART 4 — Shipment of waste between the United Kingdom and EU countries[^key-f1f941cfc89f6051ff015db7cfd81a9e]
+## PART 4 — Shipment of waste between the United Kingdom and EU countries[^c-f1f941cfc89f6051ff015db7cfd81a9e]
 
 ### 19. Requirements for shipments of notifiable waste
 
-(1) This regulation applies to waste specified in Article 3(1)(a) or (b) or Article 3(5)[^key-253c4ad5a7fe0103d62c36e96806082e] that originates in the United Kingdom or[^key-b6e7b9f941eb976823b0b750b8e799c2] the European Union[^M_F_f7c675bd-0ca5-4469-958d-aa6339cfe1b6] and is either brought into the United Kingdom or destined for an EU country[^key-23ee1e3fc14f34e290c79c0afd5392a9], whether or not that waste passes through a non-EU country[^key-68421530b3c1c797b1f5f4a9a97b00a3].
+(1) This regulation applies to waste specified in Article 3(1)(a) or (b) or Article 3(5)[^c-253c4ad5a7fe0103d62c36e96806082e] that originates in the United Kingdom or[^c-b6e7b9f941eb976823b0b750b8e799c2] the European Union[^M_F_f7c675bd-0ca5-4469-958d-aa6339cfe1b6] and is either brought into the United Kingdom or destined for an EU country[^c-23ee1e3fc14f34e290c79c0afd5392a9], whether or not that waste passes through a non-EU country[^c-68421530b3c1c797b1f5f4a9a97b00a3].
 
 (2) A person who transports such waste commits an offence if he does so without—
 
@@ -333,7 +333,7 @@ A person commits an offence if he transports waste other than in accordance with
 
 ### 20. Requirements for shipment of waste specified in Article 3(2) and (4)
 
-(1) This regulation applies to waste specified in Article 3(2) or (4) that originates in the United Kingdom or[^key-1eb604f67dd5f54c008bd06f9b4b3656] the European Union[^M_F_8f9a3aae-33c8-4bd2-e721-74de83900e23] and is either brought into the United Kingdom or is destined for an EU country[^key-329b7b5609272fd0f24024febb7c4233], whether or not that waste passes through a non-EU country[^key-3a8ce57d06713c6fa940b61ea8df0d97].
+(1) This regulation applies to waste specified in Article 3(2) or (4) that originates in the United Kingdom or[^c-1eb604f67dd5f54c008bd06f9b4b3656] the European Union[^M_F_8f9a3aae-33c8-4bd2-e721-74de83900e23] and is either brought into the United Kingdom or is destined for an EU country[^c-329b7b5609272fd0f24024febb7c4233], whether or not that waste passes through a non-EU country[^c-3a8ce57d06713c6fa940b61ea8df0d97].
 
 (2) A person who transports such waste commits an offence if—
 
@@ -341,11 +341,11 @@ A person commits an offence if he transports waste other than in accordance with
 - (b) in the case of waste specified in Article 3(2), he does so without a contract as referred to in Article 18(2) having been entered into; or
 - (c) he fails to comply with Article 19.
 
-## PART 5 — Export of waste to non-EU countries[^key-185e2e8c129644630f75c85d809860f9]
+## PART 5 — Export of waste to non-EU countries[^c-185e2e8c129644630f75c85d809860f9]
 
-### 21. Prohibition on export of waste for disposal other than to EU or EFTA countries[^key-fe199df1962a519a899d1d8f921a7117]
+### 21. Prohibition on export of waste for disposal other than to EU or EFTA countries[^c-fe199df1962a519a899d1d8f921a7117]
 
-A person commits an offence if he transports waste destined for disposal in a non-EU[^key-41dbfc9d735bbd47c159f0bdcc969710] country in breach of Article 34 (prohibition on export except, in certain circumstances, to EU or[^key-2631ae38efefdf7b7de7dc4abb0b296f] EFTA countries Parties to the Basel Convention).
+A person commits an offence if he transports waste destined for disposal in a non-EU[^c-41dbfc9d735bbd47c159f0bdcc969710] country in breach of Article 34 (prohibition on export except, in certain circumstances, to EU or[^c-2631ae38efefdf7b7de7dc4abb0b296f] EFTA countries Parties to the Basel Convention).
 
 ### 22. Requirements for export of waste for disposal to EFTA countries
 
@@ -356,28 +356,28 @@ A person commits an offence if he transports waste destined for disposal in a no
 - (a) without the provisions of Article 35(1) having been complied with (procedural requirements for export to EFTA countries); or
 - (b) in breach of Article 35(5) (requirement for consignment only to facilities operating or authorised to operate under the applicable national law of the country of destination).
 
-### 23. Prohibition on export of certain waste for recovery to non-EU, non-OECD Decision countries[^key-ef79714ab70be256e88322845d1c63c2]
+### 23. Prohibition on export of certain waste for recovery to non-EU, non-OECD Decision countries[^c-ef79714ab70be256e88322845d1c63c2]
 
-A person commits an offence if, in breach of Article 36(1), he transports waste specified in that Article that is destined for recovery in a non-EU[^key-f2e5f2c2a14b96370fc2c7b0baf1cc4e] country to which the OECD Decision does not apply.
+A person commits an offence if, in breach of Article 36(1), he transports waste specified in that Article that is destined for recovery in a non-EU[^c-f2e5f2c2a14b96370fc2c7b0baf1cc4e] country to which the OECD Decision does not apply.
 
-### 23A. Requirements for export of waste listed in Annex III or IIIA to non-EU, non-OECD Decision countries[^key-8bd4d54ae5d8141fac79e9ae3da8cb03][^key-8777a8a65e391281a66fa65916f98648]
+### 23A. Requirements for export of waste listed in Annex III or IIIA to non-EU, non-OECD Decision countries[^c-8bd4d54ae5d8141fac79e9ae3da8cb03][^c-8777a8a65e391281a66fa65916f98648]
 
 (1) This regulation applies to waste—
 
 - (a) listed in Annex III or IIIA to the Community Regulation; and
 - (b) the export of which is not prohibited under Article 36.
 
-(2) A person who transports waste destined for recovery in any country listed in the Annex to [Commission Regulation (EC) No 1418/2007](https://www.legislation.gov.uk/eur/2007/1418) (being a non-EU[^key-39ee6b897280834b32191983c0ba527b] country to which the OECD Decision does not apply) commits an offence if he does so in breach of that Regulation.
+(2) A person who transports waste destined for recovery in any country listed in the Annex to [Commission Regulation (EC) No 1418/2007](https://www.legislation.gov.uk/eur/2007/1418) (being a non-EU[^c-39ee6b897280834b32191983c0ba527b] country to which the OECD Decision does not apply) commits an offence if he does so in breach of that Regulation.
 
-(3) A person who transports waste destined for recovery in any other non-EU[^key-650b168436c29ef17a7699fe632de5e2] country to which the OECD Decision does not apply commits an offence if he does so without complying with the procedure of prior written notification and consent as described in Article 35, in accordance with the second paragraph of Article 37(2).
+(3) A person who transports waste destined for recovery in any other non-EU[^c-650b168436c29ef17a7699fe632de5e2] country to which the OECD Decision does not apply commits an offence if he does so without complying with the procedure of prior written notification and consent as described in Article 35, in accordance with the second paragraph of Article 37(2).
 
 (4) In either case, he commits an offence if he transports such waste in breach of Article 37(4) (requirement for consignment only to facilities operating or authorised to operate under the applicable national law of the country of destination).
 
-### 23B. Requirements for export of waste classified under more than one entry in Annex IIIetc. to non-EU, non-OECD Decision countries[^key-7bcea0edd9eee6953f93a0d533c63afb]
+### 23B. Requirements for export of waste classified under more than one entry in Annex IIIetc. to non-EU, non-OECD Decision countries[^c-7bcea0edd9eee6953f93a0d533c63afb]
 
 (1) This regulation applies to waste specified in Article 37(5) that is—
 
-- (a) destined for recovery in a non-EU[^key-99002e19b8ffa73f95e7399cc8e8e258] country to which the OECD Decision does not apply; and
+- (a) destined for recovery in a non-EU[^c-99002e19b8ffa73f95e7399cc8e8e258] country to which the OECD Decision does not apply; and
 - (b) the export of which is not prohibited under Article 36.
 
 (2) A person who transports such waste commits an offence if he does so—
@@ -385,9 +385,9 @@ A person commits an offence if, in breach of Article 36(1), he transports waste 
 - (a) without the procedure of prior written notification and consent as described in Article 35 having been complied with in accordance with Article 37(5); or
 - (b) in breach of Article 37(4) (requirement for consignment only to facilities operating or authorised to operate under the applicable national law of the country of destination).
 
-### 24. Requirements for export of waste for recovery to non-EU OECD Decision countries[^key-f22377b13b035b712627237da2dd8991]
+### 24. Requirements for export of waste for recovery to non-EU OECD Decision countries[^c-f22377b13b035b712627237da2dd8991]
 
-(1) This regulation applies to waste specified in Article 38(1) destined for recovery in any non-EU[^key-684fa0a02c017e11476463ae8ec6485c] country to which the OECD Decision applies (with or without transit through any country to which that Decision applies).
+(1) This regulation applies to waste specified in Article 38(1) destined for recovery in any non-EU[^c-684fa0a02c017e11476463ae8ec6485c] country to which the OECD Decision applies (with or without transit through any country to which that Decision applies).
 
 (2) A person who transports such waste commits an offence if he does so—
 
@@ -403,7 +403,7 @@ A person commits an offence if—
 - (c) he transports waste destined for recovery in an overseas country or territory in breach of Article 40(2)(prohibition on the export of certain waste); or
 - (d) he transports waste specified in Article 40(3) destined for recovery in an overseas country or territory without the provisions of that Article having been complied with (procedural requirements for exports to overseas countries or territories).
 
-### 25A. Disapplication of offences[^key-f426470acfb128189631faf3a54f4434]
+### 25A. Disapplication of offences[^c-f426470acfb128189631faf3a54f4434]
 
 Where an offence is committed under—
 
@@ -416,9 +416,9 @@ Where an offence is committed under—
 
 A person commits an offence if, in breach of Article 41(1), he transports waste destined for disposal that has come from a third country or area other than those specified in that Article.
 
-### 27. Procedure for import of waste for disposal from a non-EU country Party to the Basel Convention[^key-9bc5621709c860b324dd95f671063153]
+### 27. Procedure for import of waste for disposal from a non-EU country Party to the Basel Convention[^c-9bc5621709c860b324dd95f671063153]
 
-(1) This regulation applies to waste destined for disposal that has come from a non-EU[^key-be0cd365c8c4f12b81d0054671beadec] country Party to the Basel Convention.
+(1) This regulation applies to waste destined for disposal that has come from a non-EU[^c-be0cd365c8c4f12b81d0054671beadec] country Party to the Basel Convention.
 
 (2) A person who transports such waste commits an offence if he does so without the provisions of Article 42(1) having been complied with (procedural requirements for the import of waste destined for disposal from countries Parties to the Basel Convention).
 
@@ -426,20 +426,20 @@ A person commits an offence if, in breach of Article 41(1), he transports waste 
 
 A person commits an offence if, in breach of Article 43(1), he transports waste destined for recovery that has come from a third country or area other than specified in that Article.
 
-### 29. Requirements for import of waste for recovery from or through a non-EU OECD Decision country[^key-51086985603aa6b360fa8e188a5be07e]
+### 29. Requirements for import of waste for recovery from or through a non-EU OECD Decision country[^c-51086985603aa6b360fa8e188a5be07e]
 
-(1) This regulation applies to waste destined for recovery that has come from or through a non-EU[^key-a099a6d09fa104d238df6ca1dd079c98] country to which the OECD Decision applies.
+(1) This regulation applies to waste destined for recovery that has come from or through a non-EU[^c-a099a6d09fa104d238df6ca1dd079c98] country to which the OECD Decision applies.
 
-(2) A person who transports such waste commits an offence if he does so without the provisions of Article 44(1) having been complied with (procedural requirements for imports of waste destined for recovery from, or through, an EU or[^key-b878936c5712fc9b8e2d2714af254881] OECD Decision country).
+(2) A person who transports such waste commits an offence if he does so without the provisions of Article 44(1) having been complied with (procedural requirements for imports of waste destined for recovery from, or through, an EU or[^c-b878936c5712fc9b8e2d2714af254881] OECD Decision country).
 
-### 30. Requirements for import of waste for recovery from a non-EU, non-OECD Decision country Party to the Basel Convention[^key-4e046c4975832d8dc741320a986465a6]
+### 30. Requirements for import of waste for recovery from a non-EU, non-OECD Decision country Party to the Basel Convention[^c-4e046c4975832d8dc741320a986465a6]
 
 (1) This regulation applies to waste destined for recovery that has come —
 
-- (a) from a non-EU[^key-df2c2ee0cb68452c0941f99f125feea6] country to which the OECD Decision does not apply; or
-- (b) through a non-EU[^key-f064e7d17a7ae35e5cbbc8d224a345ad] country to which the OECD Decision does not apply and that is Party to the Basel Convention.
+- (a) from a non-EU[^c-df2c2ee0cb68452c0941f99f125feea6] country to which the OECD Decision does not apply; or
+- (b) through a non-EU[^c-f064e7d17a7ae35e5cbbc8d224a345ad] country to which the OECD Decision does not apply and that is Party to the Basel Convention.
 
-(2) A person who transports such waste commits an offence if he does so without the provisions of Article 45 having been complied with (procedural requirements for imports from a non-EU,[^key-3caba24f42aba7ad6020f252a1312acd] non-OECD Decision country Party to the Basel Convention).
+(2) A person who transports such waste commits an offence if he does so without the provisions of Article 45 having been complied with (procedural requirements for imports from a non-EU,[^c-3caba24f42aba7ad6020f252a1312acd] non-OECD Decision country Party to the Basel Convention).
 
 ### 31. Requirements for import of waste from overseas countries or territories
 
@@ -451,37 +451,37 @@ A person who transports waste that has come from any overseas country or territo
 
 (1) This regulation applies to waste destined for disposal that—
 
-- (a) originates from, and is destined for, a non-EU[^key-ea3c3555080b4b1d3c9ac6ec33ec8ddb] country; and
+- (a) originates from, and is destined for, a non-EU[^c-ea3c3555080b4b1d3c9ac6ec33ec8ddb] country; and
 - (b) is transported through the United Kingdom.
 
-(2) A person who transports such waste commits an offence if he does so without the provisions of Article 47 having been complied with (procedural requirements for shipments of waste destined for disposal from and to a non-EU[^key-063cf4f4617b0655df8d34f321a4001f] country).
+(2) A person who transports such waste commits an offence if he does so without the provisions of Article 47 having been complied with (procedural requirements for shipments of waste destined for disposal from and to a non-EU[^c-063cf4f4617b0655df8d34f321a4001f] country).
 
-### 33. Requirements for transit of waste for recovery: non-EU, non-OECD Decision countries[^key-be81e69c3b005a6756c85a67831aa029]
+### 33. Requirements for transit of waste for recovery: non-EU, non-OECD Decision countries[^c-be81e69c3b005a6756c85a67831aa029]
 
 (1) This regulation applies to waste destined for recovery that—
 
-- (a) originates from, and is destined for, a non-EU[^key-334909f4793f5de90160aef7654a80bb] country to which the OECD Decision does not apply; and
+- (a) originates from, and is destined for, a non-EU[^c-334909f4793f5de90160aef7654a80bb] country to which the OECD Decision does not apply; and
 - (b) is transported through the United Kingdom.
 
 (2) A person who transports such waste commits an offence if he does so without the provisions of Article 48(1) having been complied with (procedural requirements for shipments of waste destined for recovery from and to a country to which the OECD Decision does not apply).
 
-### 34. Requirements for transit of waste for recovery: EU OECD Decision countries[^key-971765405884525e7ea34cff76476377]
+### 34. Requirements for transit of waste for recovery: EU OECD Decision countries[^c-971765405884525e7ea34cff76476377]
 
 (1) This regulation applies to waste destined for recovery that—
 
-- (a) originates from, and is destined for, a EU[^key-23f40adab0cdaa5a624d5d40fa2dbf06] country to which the OECD Decision applies; and
+- (a) originates from, and is destined for, a EU[^c-23f40adab0cdaa5a624d5d40fa2dbf06] country to which the OECD Decision applies; and
 - (b) is transported through the United Kingdom.
 
 (2) A person who transports such waste commits an offence if he does so without the provisions of Article 48(2) having been complied with (procedural requirements for shipments of waste destined for recovery from and to a country to which the OECD Decision applies).
 
-### 35. Requirements for transit of waste between EU or OECD Decision countries and non-EU, non-OECD Decision countries[^key-210438e6747377226316926ea1e6c6bd][^key-8abf469b21aac1e963cad5eb2c2d7882]
+### 35. Requirements for transit of waste between EU or OECD Decision countries and non-EU, non-OECD Decision countries[^c-210438e6747377226316926ea1e6c6bd][^c-8abf469b21aac1e963cad5eb2c2d7882]
 
-(1)[^key-b321b179b114f10c021e4a4231c6dfbc] This regulation applies to waste destined for recovery that—
+(1)[^c-b321b179b114f10c021e4a4231c6dfbc] This regulation applies to waste destined for recovery that—
 
 - (a) originates from a non-EU country to which the OECD Decision does not apply and is destined for an EU country or a country to which the OECD Decision applies; or
 - (b) originates from an EU country or a country to which the OECD Decision applies and is destined for a non-EU country to which the OECD Decision does not apply.
 
-(2) A person who transports such waste commits an offence if he does so without the provisions of Article 48(3) having been complied with (procedural requirements for shipments of waste destined for recovery between EU or[^key-ea4a18bfb04dbbeff5ecce7cb808130f] OECD Decision and non-EU,[^key-c6b24dcef941bdf74dbcc4dbf2b83901] non-OECD Decision countries).
+(2) A person who transports such waste commits an offence if he does so without the provisions of Article 48(3) having been complied with (procedural requirements for shipments of waste destined for recovery between EU or[^c-ea4a18bfb04dbbeff5ecce7cb808130f] OECD Decision and non-EU,[^c-c6b24dcef941bdf74dbcc4dbf2b83901] non-OECD Decision countries).
 
 ## PART 8 — Additional duties
 
@@ -580,12 +580,12 @@ A notifier commits an offence if he fails to keep—
 
 ### 46. Fees
 
-(1)[^key-b24a11e5006e0f69f75f739481d58c67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-b24a11e5006e0f69f75f739481d58c67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In order to meet any administrative costs incurred by them in implementing the notification and supervision procedures of the Community Regulation and of any costs of any analyses or inspections undertaken for the purpose of carrying out their functions under that Regulation—
 
-- (a)[^key-dfb00827db30619cce324abaa6e3f7b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) the Department of Agriculture, Environment and Rural Affairs[^key-916c3309faca818a0602e6eb79dc89d9] in Northern Ireland may charge the fees in Schedule 3.
+- (a)[^c-dfb00827db30619cce324abaa6e3f7b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the Department of Agriculture, Environment and Rural Affairs[^c-916c3309faca818a0602e6eb79dc89d9] in Northern Ireland may charge the fees in Schedule 3.
 
 (3) Fees must be paid by the notifier when he submits a notification and the competent authorities may refuse to proceed with a notification unless the required fee is submitted.
 
@@ -609,14 +609,14 @@ For the purposes of Article 4(5), third paragraph, the notifier must supply—
 
 as part of the notification document at the time of notification or, with the consent of the competent authority, at any other time before the waste is shipped.
 
-### 49A. Power to share information[^key-5edc867e794e6f1f4ce86fc4ea9f33c7]
+### 49A. Power to share information[^c-5edc867e794e6f1f4ce86fc4ea9f33c7]
 
 (1) Officers of Revenue and Customs may disclose any information in their possession to the following for the purposes of the enforcement of the Community Regulation or these Regulations—
 
 - (a) the Environment Agency;
 - (b) the Natural Resources Body for Wales;
 - (c) the Scottish Environment Protection Agency; and
-- (d) the Department of Agriculture, Environment and Rural Affairs[^key-a87363f05294674398803ab7c9b6002e] in Northern Ireland.
+- (d) the Department of Agriculture, Environment and Rural Affairs[^c-a87363f05294674398803ab7c9b6002e] in Northern Ireland.
 
 (2) Paragraph (1) is without prejudice to any other power of officers of Revenue and Customs to disclose information.
 
@@ -641,14 +641,14 @@ as part of the notification document at the time of notification or, with the co
 - (a) that the disclosure was lawful; or
 - (b) that the information had previously been made available to the public lawfully.
 
-### 50. Enforcement bodies[^key-496891dd4e987f72f32cebe6f010e2cc]
+### 50. Enforcement bodies[^c-496891dd4e987f72f32cebe6f010e2cc]
 
 (1) The Community Regulation and these Regulations are enforced by—
 
 - (a) in relation to England and the English area, the Environment Agency;
 - (b) in relation to Wales and the Welsh area, the Natural Resources Body for Wales;
 - (c) in relation to Scotland and the Scottish area, the Scottish Environment Protection Agency;
-- (d) in relation to Northern Ireland and the Northern Irish area, the Department of Agriculture, Environment and Rural Affairs[^key-d935bd42970241530d12d4a52f03e825] in Northern Ireland.
+- (d) in relation to Northern Ireland and the Northern Irish area, the Department of Agriculture, Environment and Rural Affairs[^c-d935bd42970241530d12d4a52f03e825] in Northern Ireland.
 
 (2) Nothing in this regulation authorises a competent authority to bring proceedings in Scotland for an offence.
 
@@ -703,7 +703,7 @@ A person commits an offence if, for the purpose of obtaining consent to a shipme
 - (a) makes any statement or declaration that he knows to be false or misleading; or
 - (b) endeavours to obtain such consent or approval by deception.
 
-### 55. Offences by bodies corporate[^key-eb3af278543d1b2ca0ebb1ecd8a54923]
+### 55. Offences by bodies corporate[^c-eb3af278543d1b2ca0ebb1ecd8a54923]
 
 (1) If an offence under these Regulations committed by a body corporate is shown—
 
@@ -738,7 +738,7 @@ A person guilty of an offence under these Regulations is liable—
 
 ### 59. Fixed penalties
 
-(1) If an authorised person has reason to believe that a person has committed an offence under these Regulations (except an offence under regulation 49A(7))[^key-647c869f945c2c28e5599305069cb301], he may give that person a notice (a “fixed penalty notice”) offering him the opportunity of discharging any liability to conviction for that offence by payment of a fixed penalty.
+(1) If an authorised person has reason to believe that a person has committed an offence under these Regulations (except an offence under regulation 49A(7))[^c-647c869f945c2c28e5599305069cb301], he may give that person a notice (a “fixed penalty notice”) offering him the opportunity of discharging any liability to conviction for that offence by payment of a fixed penalty.
 
 (2) Where a person is given a fixed penalty notice in respect of an offence—
 
@@ -758,20 +758,20 @@ A person guilty of an offence under these Regulations is liable—
 
 (5) Where a letter is sent in accordance with paragraph (4), payment is deemed to be made at the time at which that letter would be delivered in the ordinary course of post.
 
-(6)[^key-f314a5fc0e5cb9ceb9d424d37fa6d8a5] The amount of fixed penalty payable in pursuance of a notice under this regulation is £300 which is to be paid in the case of a notice served by an authorised person from—
+(6)[^c-f314a5fc0e5cb9ceb9d424d37fa6d8a5] The amount of fixed penalty payable in pursuance of a notice under this regulation is £300 which is to be paid in the case of a notice served by an authorised person from—
 
 - (a) the Environment Agency or the Scottish Environment Protection Agency, to the Secretary of State;
 - (b) the Natural Resources Body for Wales, to the Welsh Ministers;
-- (c) the Department of Agriculture, Environment and Rural Affairs[^key-fdbcd1e3a169e322c0e6fcef003094b3] in Northern Ireland, to that Department.
+- (c) the Department of Agriculture, Environment and Rural Affairs[^c-fdbcd1e3a169e322c0e6fcef003094b3] in Northern Ireland, to that Department.
 
 (7) In any proceedings, a certificate which—
 
-- (a) purports to be signed by or on behalf of the chief finance officer in England and Scotland, in Wales the principal accounting officer[^key-b1d804e00a5e7eec28e508a1c21bbdb9] , or in Northern Ireland an authorised person; and
+- (a) purports to be signed by or on behalf of the chief finance officer in England and Scotland, in Wales the principal accounting officer[^c-b1d804e00a5e7eec28e508a1c21bbdb9] , or in Northern Ireland an authorised person; and
 - (b) states that payment of a fixed penalty was or was not received by a date specified in the certificate,
 
 is evidence of the facts stated.
 
-### 59A. Civil sanctions , England[^key-c66613f7f0e72e382c53bae0f86049ee][^key-370a229c7590fc1a2ca64cbd90abe3aa]
+### 59A. Civil sanctions , England[^c-c66613f7f0e72e382c53bae0f86049ee][^c-370a229c7590fc1a2ca64cbd90abe3aa]
 
 *Extent: E+W+S*
 
@@ -823,9 +823,9 @@ Table of civil sanctions
 
 (3) The provisions of that Order in relation to those sanctions apply as if they were provisions of these Regulations.
 
-(4) This regulation applies only in England and the English area[^key-8d8644a2b1f7d628e7d5185ad6928710].
+(4) This regulation applies only in England and the English area[^c-8d8644a2b1f7d628e7d5185ad6928710].
 
-### 59B. Civil sanctions, Wales[^key-d6fb8a683480321a9cb55b7cd5f37fb4]
+### 59B. Civil sanctions, Wales[^c-d6fb8a683480321a9cb55b7cd5f37fb4]
 
 (1) The Natural Resources Body for Wales may impose a variable monetary penalty, or accept an enforcement undertaking, in relation to an offence specified in the following Table of civil sanctions, as indicated in that Table, as if it were an offence under a provision specified in relation to that sanction in Schedule 5 to the Environmental Civil Sanctions (Wales) Order 2010.
 
@@ -895,7 +895,7 @@ Table of civil sanctions
 
 (4) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
 
-### 60. Revocations[^key-5fb642c12d93fccdeb09aebb2bb4096f]
+### 60. Revocations[^c-5fb642c12d93fccdeb09aebb2bb4096f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -905,7 +905,7 @@ Minister of State
 
 Department for Environment, Food and Rural Affairs
 
-## SCHEDULE A1 — The Northern Irish border, the Scottish border and the Welsh border[^key-2a287ecb230ceeff43a1cd228bd740f5]
+## SCHEDULE A1 — The Northern Irish border, the Scottish border and the Welsh border[^c-2a287ecb230ceeff43a1cd228bd740f5]
 
 Regulation 4A
 
@@ -1016,43 +1016,43 @@ TABLE 2
 | 14 | 51° 21′ 66″ N | : | 4° 26′ 57″ W |
 | 15 | 51° 24′ 30″ N | : | 4° 37′ 12″ W. |
 
-## SCHEDULE 1 — Transitional provisions for shipments to ... Bulgaria or Romania[^key-09c78d1e6fec1da88a4e918a0ae88104]
+## SCHEDULE 1 — Transitional provisions for shipments to ... Bulgaria or Romania[^c-09c78d1e6fec1da88a4e918a0ae88104]
 
 **No longer in force.**
 
 Regulation 10
 
-### 1. Shipments of waste to Latvia[^key-09c78d1e6fec1da88a4e918a0ae88104]
+### 1. Shipments of waste to Latvia[^c-09c78d1e6fec1da88a4e918a0ae88104]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Shipments of waste to Poland[^key-09c78d1e6fec1da88a4e918a0ae88104]
+### 2. Shipments of waste to Poland[^c-09c78d1e6fec1da88a4e918a0ae88104]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Shipments of waste to Slovakia[^key-09c78d1e6fec1da88a4e918a0ae88104]
+### 3. Shipments of waste to Slovakia[^c-09c78d1e6fec1da88a4e918a0ae88104]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Shipments of waste to Bulgaria[^key-09c78d1e6fec1da88a4e918a0ae88104]
+### 4. Shipments of waste to Bulgaria[^c-09c78d1e6fec1da88a4e918a0ae88104]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Shipments of waste to Romania[^key-09c78d1e6fec1da88a4e918a0ae88104]
+### 5. Shipments of waste to Romania[^c-09c78d1e6fec1da88a4e918a0ae88104]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Transitional fees in Great Britain[^key-04ff9f7b0bd37d5e2b33f9375638d82b]
+## SCHEDULE 2 — Transitional fees in Great Britain[^c-04ff9f7b0bd37d5e2b33f9375638d82b]
 
 **No longer in force.**
 
 Regulation 46(2)(a)
 
-### 1. Transitional fees payable to the Environment Agency[^key-04ff9f7b0bd37d5e2b33f9375638d82b]
+### 1. Transitional fees payable to the Environment Agency[^c-04ff9f7b0bd37d5e2b33f9375638d82b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Transitional fees payable to the Scottish Environment Protection Agency[^key-04ff9f7b0bd37d5e2b33f9375638d82b]
+### 2. Transitional fees payable to the Scottish Environment Protection Agency[^c-04ff9f7b0bd37d5e2b33f9375638d82b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1062,7 +1062,7 @@ Regulation 46(2)(b)
 
 ### 1. Fees
 
-The fees payable to the Department of Agriculture, Environment and Rural Affairs[^key-2ba3bd7f7d3496df52d90b7f1e917bad] in Northern Ireland under regulation 46(2)(b) are as follows.
+The fees payable to the Department of Agriculture, Environment and Rural Affairs[^c-2ba3bd7f7d3496df52d90b7f1e917bad] in Northern Ireland under regulation 46(2)(b) are as follows.
 
 <table>
 <tbody>
@@ -1079,7 +1079,7 @@ The fees payable to the Department of Agriculture, Environment and Rural Affairs
 
 Regulation 48
 
-### 1. Interpretation[^key-76b680f7cb730b9a071bc4ee3b75916b]
+### 1. Interpretation[^c-76b680f7cb730b9a071bc4ee3b75916b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1109,7 +1109,7 @@ Regulation 51
 
 ### PART 1 — Powers of authorised persons
 
-#### 1. Powers under the Environment Act 1995[^key-063211df2b64aee95beec9bb7113eec9]
+#### 1. Powers under the Environment Act 1995[^c-063211df2b64aee95beec9bb7113eec9]
 
 For the purposes of enforcing the Community Regulation and these Regulations, a person on whom the powers in section 108 of the Environment Act 1995 are conferred may exercise those powers in the English area, the Welsh area and the Scottish area.
 
@@ -1152,7 +1152,7 @@ An authorised person may, by notice served on any person, require that person to
 - (a) the provisions of the Community Regulation or these Regulations are not being, have not been or are not likely to be complied with in respect of any waste; or
 - (b) the shipment, recovery or disposal of any waste cannot be completed in accordance with the notification and movement documents or the contract between the notifier and consignee.
 
-(2)[^key-6dca64afd78c097461fd6ec7b860ecad] An authorised person—
+(2)[^c-6dca64afd78c097461fd6ec7b860ecad] An authorised person—
 
 - (a) may take any or all of the actions specified in sub-paragraph (2A), (2B) or (2C) in relation to that waste;
 - (b) where the action specified in sub-paragraph (2C) is taken, may take either or both of the actions specified in sub-paragraph (2D).
@@ -1187,7 +1187,7 @@ An authorised person may, by notice served on any person, require that person to
 (4) If it appears that the waste seized is—
 
 - (a) waste from a shipment that cannot be completed as intended, as referred to in Article 22; or
-- (b) an illegal shipment, as referred to in Article 24[^key-60dd4bc5d663bd527edfca5d0dd56ddb] ,
+- (b) an illegal shipment, as referred to in Article 24[^c-60dd4bc5d663bd527edfca5d0dd56ddb] ,
 
 and it is seized in an area that is not under the jurisdiction of the competent authority with responsibility for take-back pursuant to those Articles, the competent authority that seizes it must store it pending action by the competent authority with such responsibility.
 
@@ -1201,7 +1201,7 @@ and it is seized in an area that is not under the jurisdiction of the competent 
 
 An authorised person may exercise any powers in this Schedule for the purposes of fulfilling any request from any competent authority to assist it in carrying out its functions under the Community Regulation.
 
-### PART 2 — Powers of general customs officials[^key-31fa8e0e4633168ed594db2de3b8cb51]
+### PART 2 — Powers of general customs officials[^c-31fa8e0e4633168ed594db2de3b8cb51]
 
 #### 8. Powers of general customs officials
 
@@ -1221,7 +1221,7 @@ An authorised person may exercise any powers in this Schedule for the purposes o
   - (i) any thing that the competent authority or general customs official has reasonable grounds to suspect is waste, and
   - (ii) the container in which the waste or thing is carried.
 
-### PART 2A — Powers of persons authorised by the Secretary of State[^key-dabfed871f61f563d824e830627df912]
+### PART 2A — Powers of persons authorised by the Secretary of State[^c-dabfed871f61f563d824e830627df912]
 
 #### 8A. Powers of entry etc.
 
@@ -1325,83 +1325,83 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00005]: Footnote: Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51).
 
-[^key-98af4520018f2d192c61a055b33bbe8b]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2007/1711/regulation/2) revoked (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [3](https://www.legislation.gov.uk/uksi/2014/861/regulation/3) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
+[^c-98af4520018f2d192c61a055b33bbe8b]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2007/1711/regulation/2) revoked (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [3](https://www.legislation.gov.uk/uksi/2014/861/regulation/3) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
 
-[^key-f2182a12baf75546fbad9994178e3871]: Textual amendment: Word in reg. 4(1) substituted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2014/861/regulation/4/2/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
+[^c-f2182a12baf75546fbad9994178e3871]: Textual amendment: Word in reg. 4(1) substituted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2014/861/regulation/4/2/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
 
-[^key-976beb56d652f9a0aa896670a24c0ab5]: Textual amendment: Words in reg. 4(1) inserted (5.2.2008) by [Transfrontier Shipment of Waste (Amendment) Regulations 2008 (S.I. 2008/9)](https://www.legislation.gov.uk/uksi/2008/9), [regs. 1](https://www.legislation.gov.uk/uksi/2008/9/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2008/9/regulation/3/1)
+[^c-976beb56d652f9a0aa896670a24c0ab5]: Textual amendment: Words in reg. 4(1) inserted (5.2.2008) by [Transfrontier Shipment of Waste (Amendment) Regulations 2008 (S.I. 2008/9)](https://www.legislation.gov.uk/uksi/2008/9), [regs. 1](https://www.legislation.gov.uk/uksi/2008/9/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2008/9/regulation/3/1)
 
-[^key-4211773d89c1a3a5dc27fb2f7e9b0efe]: Textual amendment: Words in reg. 4(1) inserted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2014/861/regulation/4/2/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
+[^c-4211773d89c1a3a5dc27fb2f7e9b0efe]: Textual amendment: Words in reg. 4(1) inserted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2014/861/regulation/4/2/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
 
-[^key-a602402bb8262a185b3bcf32a6501a34]: Textual amendment: Words in reg. 4(1) substituted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2014/861/regulation/4/2/c) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
+[^c-a602402bb8262a185b3bcf32a6501a34]: Textual amendment: Words in reg. 4(1) substituted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2014/861/regulation/4/2/c) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
 
-[^key-4112e2386f619789eba72301036a228f]: Textual amendment: Words in reg. 4(1) inserted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [4(2)(d)](https://www.legislation.gov.uk/uksi/2014/861/regulation/4/2/d) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
+[^c-4112e2386f619789eba72301036a228f]: Textual amendment: Words in reg. 4(1) inserted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [4(2)(d)](https://www.legislation.gov.uk/uksi/2014/861/regulation/4/2/d) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
 
-[^key-a422a30ee1779d2b95dfa68dd1a2df09]: Textual amendment: Words in reg. 4(1) inserted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [4(2)(e)](https://www.legislation.gov.uk/uksi/2014/861/regulation/4/2/e) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
+[^c-a422a30ee1779d2b95dfa68dd1a2df09]: Textual amendment: Words in reg. 4(1) inserted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [4(2)(e)](https://www.legislation.gov.uk/uksi/2014/861/regulation/4/2/e) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
 
-[^key-abd9dd97c5ff2976fd8ff0e875168c0e]: Textual amendment: Words in reg. 4(1) inserted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [4(2)(f)](https://www.legislation.gov.uk/uksi/2014/861/regulation/4/2/f) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
+[^c-abd9dd97c5ff2976fd8ff0e875168c0e]: Textual amendment: Words in reg. 4(1) inserted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [4(2)(f)](https://www.legislation.gov.uk/uksi/2014/861/regulation/4/2/f) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
 
-[^key-823ea64fadcf8f14f45a76c698e71487]: Textual amendment: Reg. 4(1A) inserted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2014/861/regulation/4/3) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
+[^c-823ea64fadcf8f14f45a76c698e71487]: Textual amendment: Reg. 4(1A) inserted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2014/861/regulation/4/3) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
 
-[^key-d192fa93a599e6e8312bf7069d6898e6]: Textual amendment: Reg. 4(3)(c) and semicolon inserted (5.2.2008) by [Transfrontier Shipment of Waste (Amendment) Regulations 2008 (S.I. 2008/9)](https://www.legislation.gov.uk/uksi/2008/9), [regs. 1](https://www.legislation.gov.uk/uksi/2008/9/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2008/9/regulation/3/2)
+[^c-d192fa93a599e6e8312bf7069d6898e6]: Textual amendment: Reg. 4(3)(c) and semicolon inserted (5.2.2008) by [Transfrontier Shipment of Waste (Amendment) Regulations 2008 (S.I. 2008/9)](https://www.legislation.gov.uk/uksi/2008/9), [regs. 1](https://www.legislation.gov.uk/uksi/2008/9/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2008/9/regulation/3/2)
 
-[^key-99e1063bc5298d80952dfc7851d7f598]: Textual amendment: Reg. 4A, 4B inserted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [5](https://www.legislation.gov.uk/uksi/2014/861/regulation/5) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
+[^c-99e1063bc5298d80952dfc7851d7f598]: Textual amendment: Reg. 4A, 4B inserted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [5](https://www.legislation.gov.uk/uksi/2014/861/regulation/5) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
 
-[^key-a123806119c553642cad05cf9f2c5d60]: Textual amendment: Reg. 6 substituted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [6](https://www.legislation.gov.uk/uksi/2014/861/regulation/6) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
+[^c-a123806119c553642cad05cf9f2c5d60]: Textual amendment: Reg. 6 substituted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [6](https://www.legislation.gov.uk/uksi/2014/861/regulation/6) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
 
-[^key-2cb7c3eff82e1c0348dffdc432b83218]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2007/1711/regulation/6) omitted (31.12.2020) by virtue of [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [14](https://www.legislation.gov.uk/uksi/2019/590/regulation/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2cb7c3eff82e1c0348dffdc432b83218]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2007/1711/regulation/6) omitted (31.12.2020) by virtue of [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [14](https://www.legislation.gov.uk/uksi/2019/590/regulation/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6d6685bb8a607665859822c6747171c2]: Textual amendment: Words in reg. 6(d) substituted (15.3.2019) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/1), [4](https://www.legislation.gov.uk/uksi/2019/590/regulation/4)
+[^c-6d6685bb8a607665859822c6747171c2]: Textual amendment: Words in reg. 6(d) substituted (15.3.2019) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/1), [4](https://www.legislation.gov.uk/uksi/2019/590/regulation/4)
 
-[^key-0f12843e2cd46ed5dac5afb6acac3a71]: Textual amendment: Reg. 7 substituted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [7](https://www.legislation.gov.uk/uksi/2014/861/regulation/7) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
+[^c-0f12843e2cd46ed5dac5afb6acac3a71]: Textual amendment: Reg. 7 substituted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [7](https://www.legislation.gov.uk/uksi/2014/861/regulation/7) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
 
-[^key-77e53b8d6f2bc0787b04786304f28c59]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/7/1) omitted (31.12.2020) by virtue of [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [15(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/15/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-77e53b8d6f2bc0787b04786304f28c59]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/7/1) omitted (31.12.2020) by virtue of [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [15(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/15/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d890f818e164b08331ddc93f5e57a14d]: Textual amendment: Words in reg. 7(2) substituted (15.3.2019) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/1), [5](https://www.legislation.gov.uk/uksi/2019/590/regulation/5)
+[^c-d890f818e164b08331ddc93f5e57a14d]: Textual amendment: Words in reg. 7(2) substituted (15.3.2019) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/1), [5](https://www.legislation.gov.uk/uksi/2019/590/regulation/5)
 
-[^key-326ecdfa54cf4d14ae726ded6921b3d6]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/7/2) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [15(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/15/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-326ecdfa54cf4d14ae726ded6921b3d6]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/7/2) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [15(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/15/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5c503c320391af07f9a19cc49de6256a]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2007/1711/regulation/8) omitted (31.12.2020) by virtue of [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [16](https://www.legislation.gov.uk/uksi/2019/590/regulation/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5c503c320391af07f9a19cc49de6256a]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2007/1711/regulation/8) omitted (31.12.2020) by virtue of [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [16](https://www.legislation.gov.uk/uksi/2019/590/regulation/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1567c81d08fd8ca2b823d25f3975bb5e]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2007/1711/regulation/10) omitted (31.12.2020) by virtue of [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [17](https://www.legislation.gov.uk/uksi/2019/590/regulation/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1567c81d08fd8ca2b823d25f3975bb5e]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2007/1711/regulation/10) omitted (31.12.2020) by virtue of [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [17](https://www.legislation.gov.uk/uksi/2019/590/regulation/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-36d5206a03104293bfe19f3bc4b84ae2]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2007/1711/part/2) heading substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [18](https://www.legislation.gov.uk/uksi/2019/590/regulation/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-36d5206a03104293bfe19f3bc4b84ae2]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2007/1711/part/2) heading substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [18](https://www.legislation.gov.uk/uksi/2019/590/regulation/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1cc3e57422170bf16eb2911930afe8e2]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2007/1711/regulation/11) omitted (31.12.2020) by virtue of [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [19](https://www.legislation.gov.uk/uksi/2019/590/regulation/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1cc3e57422170bf16eb2911930afe8e2]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2007/1711/regulation/11) omitted (31.12.2020) by virtue of [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [19](https://www.legislation.gov.uk/uksi/2019/590/regulation/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f9c4aa185695c18d9ce8ae8afab871f2]: Textual amendment: Reg. 11A inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [20](https://www.legislation.gov.uk/uksi/2019/590/regulation/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f9c4aa185695c18d9ce8ae8afab871f2]: Textual amendment: Reg. 11A inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [20](https://www.legislation.gov.uk/uksi/2019/590/regulation/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00009]: Footnote: OJ No L 114, 27.4.2006, p 9.
 
-[^key-0ed3141037cf9b32d063dff690885ee6]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/12/1) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [21(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/21/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0ed3141037cf9b32d063dff690885ee6]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/12/1) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [21(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/21/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1b96dab2a28a8edbf311de2f4a28ac1b]: Textual amendment: Word in [reg. 12(1)(a)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/12/1/a) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [21(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/21/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1b96dab2a28a8edbf311de2f4a28ac1b]: Textual amendment: Word in [reg. 12(1)(a)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/12/1/a) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [21(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/21/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dd82d3afa013882d9d9552fc2c187eac]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/13/1) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [22(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/22/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dd82d3afa013882d9d9552fc2c187eac]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/13/1) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [22(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/22/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0e6c091d6bc02702a23617739b4cc1c4]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/13/2) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [22(3)(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/22/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0e6c091d6bc02702a23617739b4cc1c4]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/13/2) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [22(3)(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/22/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8d1ab6d5d127067cd86bf26fce05df55]: Textual amendment: Words in [reg. 13(2)(c)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/13/2/c) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [22(3)(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/22/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8d1ab6d5d127067cd86bf26fce05df55]: Textual amendment: Words in [reg. 13(2)(c)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/13/2/c) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [22(3)(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/22/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c546fc0dbca124955d6a7443f3b6462f]: Textual amendment: Word in [reg. 13(3)(a)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/13/3/a) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [22(4)](https://www.legislation.gov.uk/uksi/2019/590/regulation/22/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c546fc0dbca124955d6a7443f3b6462f]: Textual amendment: Word in [reg. 13(3)(a)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/13/3/a) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [22(4)](https://www.legislation.gov.uk/uksi/2019/590/regulation/22/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f2a8c04e84e146ad822bbb27e2eea9bd]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/uksi/2007/1711/regulation/14) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [23](https://www.legislation.gov.uk/uksi/2019/590/regulation/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f2a8c04e84e146ad822bbb27e2eea9bd]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/uksi/2007/1711/regulation/14) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [23](https://www.legislation.gov.uk/uksi/2019/590/regulation/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ce6d148c6640e33cb7aef69d7716b849]: Textual amendment: Reg. 14(aa) inserted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [9](https://www.legislation.gov.uk/uksi/2014/861/regulation/9) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
+[^c-ce6d148c6640e33cb7aef69d7716b849]: Textual amendment: Reg. 14(aa) inserted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [9](https://www.legislation.gov.uk/uksi/2014/861/regulation/9) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
 
-[^key-9aa4968c143ada8777278e55fa52a1df]: Textual amendment: Words in reg. 14(c) substituted (15.3.2019) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/1), [6](https://www.legislation.gov.uk/uksi/2019/590/regulation/6)
+[^c-9aa4968c143ada8777278e55fa52a1df]: Textual amendment: Words in reg. 14(c) substituted (15.3.2019) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/1), [6](https://www.legislation.gov.uk/uksi/2019/590/regulation/6)
 
-[^key-67c83f212689e3cc9742b848817b0195]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/uksi/2007/1711/regulation/15) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [24(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/24/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-67c83f212689e3cc9742b848817b0195]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/uksi/2007/1711/regulation/15) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [24(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/24/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d98ee3711ac44795f26b54ab073228d7]: Textual amendment: Words in [reg. 15(a)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/15/a) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [24(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/24/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d98ee3711ac44795f26b54ab073228d7]: Textual amendment: Words in [reg. 15(a)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/15/a) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [24(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/24/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9ec9eef6f96d8b353a5e4b518aba8589]: Textual amendment: Words in [reg. 15(b)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/15/b) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [24(c)](https://www.legislation.gov.uk/uksi/2019/590/regulation/24/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9ec9eef6f96d8b353a5e4b518aba8589]: Textual amendment: Words in [reg. 15(b)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/15/b) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [24(c)](https://www.legislation.gov.uk/uksi/2019/590/regulation/24/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_8790349e-0a6b-42ee-c69b-869060bb8f25]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland and Northern Ireland only
 
-[^key-96b78357f614a7497dcee38dcacf55e9]: Textual amendment: Reg. 16 substituted (E.W.) (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [76](https://www.legislation.gov.uk/uksi/2016/1154/regulation/76) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-96b78357f614a7497dcee38dcacf55e9]: Textual amendment: Reg. 16 substituted (E.W.) (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [76](https://www.legislation.gov.uk/uksi/2016/1154/regulation/76) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-4556c7265e5c2c2315a8e67bb3c66f65]: Textual amendment: Words in reg. 16 substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [25](https://www.legislation.gov.uk/uksi/2019/590/regulation/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4556c7265e5c2c2315a8e67bb3c66f65]: Textual amendment: Words in reg. 16 substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [25](https://www.legislation.gov.uk/uksi/2019/590/regulation/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_93bb2703-23d7-4389-8b02-99039bbbafbb]: Extent: This version of this provision extends to Scotland and Northern Ireland only; a separate version has been created for England and Wales only
 
@@ -1411,154 +1411,154 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^V_SNI_c4c54a17-e8e5-97bb-cd42-aafa6f0e5795]: Textual amendment: Words in reg. 16 substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [25](https://www.legislation.gov.uk/uksi/2019/590/regulation/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f1f941cfc89f6051ff015db7cfd81a9e]: Textual amendment: Words in [Pt. 4](https://www.legislation.gov.uk/uksi/2007/1711/part/4) heading substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [26](https://www.legislation.gov.uk/uksi/2019/590/regulation/26); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f1f941cfc89f6051ff015db7cfd81a9e]: Textual amendment: Words in [Pt. 4](https://www.legislation.gov.uk/uksi/2007/1711/part/4) heading substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [26](https://www.legislation.gov.uk/uksi/2019/590/regulation/26); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-253c4ad5a7fe0103d62c36e96806082e]: Textual amendment: Words in reg. 19(1) inserted (5.2.2008) by [Transfrontier Shipment of Waste (Amendment) Regulations 2008 (S.I. 2008/9)](https://www.legislation.gov.uk/uksi/2008/9), [regs. 1](https://www.legislation.gov.uk/uksi/2008/9/regulation/1), [4](https://www.legislation.gov.uk/uksi/2008/9/regulation/4)
+[^c-253c4ad5a7fe0103d62c36e96806082e]: Textual amendment: Words in reg. 19(1) inserted (5.2.2008) by [Transfrontier Shipment of Waste (Amendment) Regulations 2008 (S.I. 2008/9)](https://www.legislation.gov.uk/uksi/2008/9), [regs. 1](https://www.legislation.gov.uk/uksi/2008/9/regulation/1), [4](https://www.legislation.gov.uk/uksi/2008/9/regulation/4)
 
-[^key-b6e7b9f941eb976823b0b750b8e799c2]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/19/1) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [27(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/27/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b6e7b9f941eb976823b0b750b8e799c2]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/19/1) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [27(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/27/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_f7c675bd-0ca5-4469-958d-aa6339cfe1b6]: Textual amendment: Words substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
 
-[^key-23ee1e3fc14f34e290c79c0afd5392a9]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/19/1) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [27(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/27/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-23ee1e3fc14f34e290c79c0afd5392a9]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/19/1) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [27(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/27/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-68421530b3c1c797b1f5f4a9a97b00a3]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/19/1) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [27(c)](https://www.legislation.gov.uk/uksi/2019/590/regulation/27/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-68421530b3c1c797b1f5f4a9a97b00a3]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/19/1) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [27(c)](https://www.legislation.gov.uk/uksi/2019/590/regulation/27/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1eb604f67dd5f54c008bd06f9b4b3656]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/20/1) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [28(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/28/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1eb604f67dd5f54c008bd06f9b4b3656]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/20/1) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [28(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/28/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_8f9a3aae-33c8-4bd2-e721-74de83900e23]: Textual amendment: Words substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), arts. 2, 3-6
 
-[^key-329b7b5609272fd0f24024febb7c4233]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/20/1) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [28(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/28/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-329b7b5609272fd0f24024febb7c4233]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/20/1) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [28(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/28/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3a8ce57d06713c6fa940b61ea8df0d97]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/20/1) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [28(c)](https://www.legislation.gov.uk/uksi/2019/590/regulation/28/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3a8ce57d06713c6fa940b61ea8df0d97]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/20/1) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [28(c)](https://www.legislation.gov.uk/uksi/2019/590/regulation/28/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-185e2e8c129644630f75c85d809860f9]: Textual amendment: Words in [Pt. 5](https://www.legislation.gov.uk/uksi/2007/1711/part/5) heading substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [29](https://www.legislation.gov.uk/uksi/2019/590/regulation/29); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-185e2e8c129644630f75c85d809860f9]: Textual amendment: Words in [Pt. 5](https://www.legislation.gov.uk/uksi/2007/1711/part/5) heading substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [29](https://www.legislation.gov.uk/uksi/2019/590/regulation/29); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fe199df1962a519a899d1d8f921a7117]: Textual amendment: Words in reg. 21 heading inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [30(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/30/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fe199df1962a519a899d1d8f921a7117]: Textual amendment: Words in reg. 21 heading inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [30(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/30/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-41dbfc9d735bbd47c159f0bdcc969710]: Textual amendment: Word in reg. 21 substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [30(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/30/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-41dbfc9d735bbd47c159f0bdcc969710]: Textual amendment: Word in reg. 21 substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [30(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/30/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2631ae38efefdf7b7de7dc4abb0b296f]: Textual amendment: Words in reg. 21 inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [30(c)](https://www.legislation.gov.uk/uksi/2019/590/regulation/30/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2631ae38efefdf7b7de7dc4abb0b296f]: Textual amendment: Words in reg. 21 inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [30(c)](https://www.legislation.gov.uk/uksi/2019/590/regulation/30/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ef79714ab70be256e88322845d1c63c2]: Textual amendment: Word in [reg. 23](https://www.legislation.gov.uk/uksi/2007/1711/regulation/23) heading inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [31(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/31/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ef79714ab70be256e88322845d1c63c2]: Textual amendment: Word in [reg. 23](https://www.legislation.gov.uk/uksi/2007/1711/regulation/23) heading inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [31(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/31/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f2e5f2c2a14b96370fc2c7b0baf1cc4e]: Textual amendment: Word in [reg. 23](https://www.legislation.gov.uk/uksi/2007/1711/regulation/23) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [31(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/31/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f2e5f2c2a14b96370fc2c7b0baf1cc4e]: Textual amendment: Word in [reg. 23](https://www.legislation.gov.uk/uksi/2007/1711/regulation/23) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [31(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/31/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8bd4d54ae5d8141fac79e9ae3da8cb03]: Textual amendment: Regs. 23A, 23B inserted (5.2.2008) by [Transfrontier Shipment of Waste (Amendment) Regulations 2008 (S.I. 2008/9)](https://www.legislation.gov.uk/uksi/2008/9), [regs. 1](https://www.legislation.gov.uk/uksi/2008/9/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/9/regulation/5)
+[^c-8bd4d54ae5d8141fac79e9ae3da8cb03]: Textual amendment: Regs. 23A, 23B inserted (5.2.2008) by [Transfrontier Shipment of Waste (Amendment) Regulations 2008 (S.I. 2008/9)](https://www.legislation.gov.uk/uksi/2008/9), [regs. 1](https://www.legislation.gov.uk/uksi/2008/9/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/9/regulation/5)
 
-[^key-8777a8a65e391281a66fa65916f98648]: Textual amendment: Word in [reg. 23A](https://www.legislation.gov.uk/uksi/2007/1711/regulation/23A) heading inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [32(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/32/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8777a8a65e391281a66fa65916f98648]: Textual amendment: Word in [reg. 23A](https://www.legislation.gov.uk/uksi/2007/1711/regulation/23A) heading inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [32(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/32/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-39ee6b897280834b32191983c0ba527b]: Textual amendment: Word in [reg. 23A(2)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/23A/2) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [32(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/32/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-39ee6b897280834b32191983c0ba527b]: Textual amendment: Word in [reg. 23A(2)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/23A/2) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [32(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/32/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-650b168436c29ef17a7699fe632de5e2]: Textual amendment: Word in [reg. 23A(3)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/23A/3) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [32(c)](https://www.legislation.gov.uk/uksi/2019/590/regulation/32/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-650b168436c29ef17a7699fe632de5e2]: Textual amendment: Word in [reg. 23A(3)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/23A/3) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [32(c)](https://www.legislation.gov.uk/uksi/2019/590/regulation/32/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7bcea0edd9eee6953f93a0d533c63afb]: Textual amendment: Word in [reg. 23B](https://www.legislation.gov.uk/uksi/2007/1711/regulation/23B) heading inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [33(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/33/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7bcea0edd9eee6953f93a0d533c63afb]: Textual amendment: Word in [reg. 23B](https://www.legislation.gov.uk/uksi/2007/1711/regulation/23B) heading inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [33(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/33/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-99002e19b8ffa73f95e7399cc8e8e258]: Textual amendment: Word in [reg. 23B(1)(a)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/23B/1/a) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [33(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/33/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-99002e19b8ffa73f95e7399cc8e8e258]: Textual amendment: Word in [reg. 23B(1)(a)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/23B/1/a) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [33(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/33/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f22377b13b035b712627237da2dd8991]: Textual amendment: Word in [reg. 24](https://www.legislation.gov.uk/uksi/2007/1711/regulation/24) heading inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [34(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/34/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f22377b13b035b712627237da2dd8991]: Textual amendment: Word in [reg. 24](https://www.legislation.gov.uk/uksi/2007/1711/regulation/24) heading inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [34(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/34/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-684fa0a02c017e11476463ae8ec6485c]: Textual amendment: Word in [reg. 24(1)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/24/1) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [34(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/34/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-684fa0a02c017e11476463ae8ec6485c]: Textual amendment: Word in [reg. 24(1)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/24/1) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [34(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/34/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f426470acfb128189631faf3a54f4434]: Textual amendment: Reg. 25A inserted (8.3.2010) by [The Mercury Export and Data (Enforcement) Regulations 2010 (S.I. 2010/265)](https://www.legislation.gov.uk/uksi/2010/265), [regs. 2](https://www.legislation.gov.uk/uksi/2010/265/regulation/2), [8](https://www.legislation.gov.uk/uksi/2010/265/regulation/8)
+[^c-f426470acfb128189631faf3a54f4434]: Textual amendment: Reg. 25A inserted (8.3.2010) by [The Mercury Export and Data (Enforcement) Regulations 2010 (S.I. 2010/265)](https://www.legislation.gov.uk/uksi/2010/265), [regs. 2](https://www.legislation.gov.uk/uksi/2010/265/regulation/2), [8](https://www.legislation.gov.uk/uksi/2010/265/regulation/8)
 
-[^key-9bc5621709c860b324dd95f671063153]: Textual amendment: Word in [reg. 27](https://www.legislation.gov.uk/uksi/2007/1711/regulation/27) heading inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [35(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/35/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9bc5621709c860b324dd95f671063153]: Textual amendment: Word in [reg. 27](https://www.legislation.gov.uk/uksi/2007/1711/regulation/27) heading inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [35(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/35/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-be0cd365c8c4f12b81d0054671beadec]: Textual amendment: Word in [reg. 27(1)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/27/1) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [35(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/35/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-be0cd365c8c4f12b81d0054671beadec]: Textual amendment: Word in [reg. 27(1)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/27/1) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [35(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/35/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-51086985603aa6b360fa8e188a5be07e]: Textual amendment: Word in reg. 29 heading inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [36(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/36/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-51086985603aa6b360fa8e188a5be07e]: Textual amendment: Word in reg. 29 heading inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [36(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/36/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a099a6d09fa104d238df6ca1dd079c98]: Textual amendment: Word in reg. 29(1) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [36(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/36/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a099a6d09fa104d238df6ca1dd079c98]: Textual amendment: Word in reg. 29(1) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [36(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/36/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b878936c5712fc9b8e2d2714af254881]: Textual amendment: Words in reg. 29(2) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [36(c)](https://www.legislation.gov.uk/uksi/2019/590/regulation/36/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b878936c5712fc9b8e2d2714af254881]: Textual amendment: Words in reg. 29(2) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [36(c)](https://www.legislation.gov.uk/uksi/2019/590/regulation/36/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4e046c4975832d8dc741320a986465a6]: Textual amendment: Word in [reg. 30](https://www.legislation.gov.uk/uksi/2007/1711/regulation/30) heading inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [37(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/37/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4e046c4975832d8dc741320a986465a6]: Textual amendment: Word in [reg. 30](https://www.legislation.gov.uk/uksi/2007/1711/regulation/30) heading inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [37(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/37/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-df2c2ee0cb68452c0941f99f125feea6]: Textual amendment: Word in [reg. 30(1)(a)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/30/1/a) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [37(b)(i)](https://www.legislation.gov.uk/uksi/2019/590/regulation/37/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-df2c2ee0cb68452c0941f99f125feea6]: Textual amendment: Word in [reg. 30(1)(a)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/30/1/a) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [37(b)(i)](https://www.legislation.gov.uk/uksi/2019/590/regulation/37/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f064e7d17a7ae35e5cbbc8d224a345ad]: Textual amendment: Word in [reg. 30(1)(b)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/30/1/b) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [37(b)(ii)](https://www.legislation.gov.uk/uksi/2019/590/regulation/37/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f064e7d17a7ae35e5cbbc8d224a345ad]: Textual amendment: Word in [reg. 30(1)(b)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/30/1/b) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [37(b)(ii)](https://www.legislation.gov.uk/uksi/2019/590/regulation/37/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3caba24f42aba7ad6020f252a1312acd]: Textual amendment: Word in [reg. 30(2)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/30/2) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [37(c)](https://www.legislation.gov.uk/uksi/2019/590/regulation/37/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3caba24f42aba7ad6020f252a1312acd]: Textual amendment: Word in [reg. 30(2)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/30/2) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [37(c)](https://www.legislation.gov.uk/uksi/2019/590/regulation/37/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ea3c3555080b4b1d3c9ac6ec33ec8ddb]: Textual amendment: Word in [reg. 32(1)(a)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/32/1/a) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [38(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/38/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ea3c3555080b4b1d3c9ac6ec33ec8ddb]: Textual amendment: Word in [reg. 32(1)(a)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/32/1/a) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [38(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/38/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-063cf4f4617b0655df8d34f321a4001f]: Textual amendment: Word in [reg. 32(2)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/32/2) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [38(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/38/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-063cf4f4617b0655df8d34f321a4001f]: Textual amendment: Word in [reg. 32(2)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/32/2) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [38(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/38/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-be81e69c3b005a6756c85a67831aa029]: Textual amendment: Word in [reg. 33](https://www.legislation.gov.uk/uksi/2007/1711/regulation/33) heading inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [39(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/39/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-be81e69c3b005a6756c85a67831aa029]: Textual amendment: Word in [reg. 33](https://www.legislation.gov.uk/uksi/2007/1711/regulation/33) heading inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [39(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/39/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-334909f4793f5de90160aef7654a80bb]: Textual amendment: Word in [reg. 33(1)(a)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/33/1/a) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [39(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/39/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-334909f4793f5de90160aef7654a80bb]: Textual amendment: Word in [reg. 33(1)(a)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/33/1/a) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [39(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/39/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-971765405884525e7ea34cff76476377]: Textual amendment: Word in [reg. 34](https://www.legislation.gov.uk/uksi/2007/1711/regulation/34) heading inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [40(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/40/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-971765405884525e7ea34cff76476377]: Textual amendment: Word in [reg. 34](https://www.legislation.gov.uk/uksi/2007/1711/regulation/34) heading inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [40(a)](https://www.legislation.gov.uk/uksi/2019/590/regulation/40/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-23f40adab0cdaa5a624d5d40fa2dbf06]: Textual amendment: Word in [reg. 34(1)(a)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/34/1/a) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [40(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/40/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-23f40adab0cdaa5a624d5d40fa2dbf06]: Textual amendment: Word in [reg. 34(1)(a)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/34/1/a) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [40(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/40/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-210438e6747377226316926ea1e6c6bd]: Textual amendment: Words in [reg. 35](https://www.legislation.gov.uk/uksi/2007/1711/regulation/35) heading inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [41(a)(i)](https://www.legislation.gov.uk/uksi/2019/590/regulation/41/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-210438e6747377226316926ea1e6c6bd]: Textual amendment: Words in [reg. 35](https://www.legislation.gov.uk/uksi/2007/1711/regulation/35) heading inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [41(a)(i)](https://www.legislation.gov.uk/uksi/2019/590/regulation/41/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8abf469b21aac1e963cad5eb2c2d7882]: Textual amendment: Word in [reg. 35](https://www.legislation.gov.uk/uksi/2007/1711/regulation/35) heading inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [41(a)(ii)](https://www.legislation.gov.uk/uksi/2019/590/regulation/41/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8abf469b21aac1e963cad5eb2c2d7882]: Textual amendment: Word in [reg. 35](https://www.legislation.gov.uk/uksi/2007/1711/regulation/35) heading inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [41(a)(ii)](https://www.legislation.gov.uk/uksi/2019/590/regulation/41/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b321b179b114f10c021e4a4231c6dfbc]: Textual amendment: [Reg. 35(1)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/35/1) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [41(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/41/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b321b179b114f10c021e4a4231c6dfbc]: Textual amendment: [Reg. 35(1)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/35/1) substituted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [41(b)](https://www.legislation.gov.uk/uksi/2019/590/regulation/41/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ea4a18bfb04dbbeff5ecce7cb808130f]: Textual amendment: Words in [reg. 35(2)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/35/2) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [41(c)(i)](https://www.legislation.gov.uk/uksi/2019/590/regulation/41/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ea4a18bfb04dbbeff5ecce7cb808130f]: Textual amendment: Words in [reg. 35(2)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/35/2) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [41(c)(i)](https://www.legislation.gov.uk/uksi/2019/590/regulation/41/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c6b24dcef941bdf74dbcc4dbf2b83901]: Textual amendment: Word in [reg. 35(2)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/35/2) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [41(c)(ii)](https://www.legislation.gov.uk/uksi/2019/590/regulation/41/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c6b24dcef941bdf74dbcc4dbf2b83901]: Textual amendment: Word in [reg. 35(2)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/35/2) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [41(c)(ii)](https://www.legislation.gov.uk/uksi/2019/590/regulation/41/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b24a11e5006e0f69f75f739481d58c67]: Textual amendment: [Reg. 46(1)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/46/1) omitted (24.1.2022) by virtue of [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 62(11)](https://www.legislation.gov.uk/ukpga/2021/30/section/62/11), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/k)
+[^c-b24a11e5006e0f69f75f739481d58c67]: Textual amendment: [Reg. 46(1)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/46/1) omitted (24.1.2022) by virtue of [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 62(11)](https://www.legislation.gov.uk/ukpga/2021/30/section/62/11), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/k)
 
-[^key-dfb00827db30619cce324abaa6e3f7b5]: Textual amendment: Reg. 46(2)(a) omitted (1.5.2014) by virtue of [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [10](https://www.legislation.gov.uk/uksi/2014/861/regulation/10) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
+[^c-dfb00827db30619cce324abaa6e3f7b5]: Textual amendment: Reg. 46(2)(a) omitted (1.5.2014) by virtue of [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [10](https://www.legislation.gov.uk/uksi/2014/861/regulation/10) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
 
-[^key-916c3309faca818a0602e6eb79dc89d9]: Textual amendment: Words in [reg. 46(2)(b)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/46/2/b) substituted (15.3.2019) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/1), [8](https://www.legislation.gov.uk/uksi/2019/590/regulation/8)
+[^c-916c3309faca818a0602e6eb79dc89d9]: Textual amendment: Words in [reg. 46(2)(b)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/46/2/b) substituted (15.3.2019) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/1), [8](https://www.legislation.gov.uk/uksi/2019/590/regulation/8)
 
-[^key-5edc867e794e6f1f4ce86fc4ea9f33c7]: Textual amendment: Reg. 49A inserted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [11](https://www.legislation.gov.uk/uksi/2014/861/regulation/11) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
+[^c-5edc867e794e6f1f4ce86fc4ea9f33c7]: Textual amendment: Reg. 49A inserted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [11](https://www.legislation.gov.uk/uksi/2014/861/regulation/11) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
 
-[^key-a87363f05294674398803ab7c9b6002e]: Textual amendment: Words in [reg. 49A(1)(d)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/49A/1/d) substituted (15.3.2019) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/1), [9](https://www.legislation.gov.uk/uksi/2019/590/regulation/9)
+[^c-a87363f05294674398803ab7c9b6002e]: Textual amendment: Words in [reg. 49A(1)(d)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/49A/1/d) substituted (15.3.2019) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/1), [9](https://www.legislation.gov.uk/uksi/2019/590/regulation/9)
 
-[^key-496891dd4e987f72f32cebe6f010e2cc]: Textual amendment: Regs. 50-50B substituted for reg. 50 (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [12](https://www.legislation.gov.uk/uksi/2014/861/regulation/12) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
+[^c-496891dd4e987f72f32cebe6f010e2cc]: Textual amendment: Regs. 50-50B substituted for reg. 50 (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [12](https://www.legislation.gov.uk/uksi/2014/861/regulation/12) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
 
-[^key-d935bd42970241530d12d4a52f03e825]: Textual amendment: Words in [reg. 50(1)(d)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/50/1/d) substituted (15.3.2019) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/1), [10](https://www.legislation.gov.uk/uksi/2019/590/regulation/10)
+[^c-d935bd42970241530d12d4a52f03e825]: Textual amendment: Words in [reg. 50(1)(d)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/50/1/d) substituted (15.3.2019) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/1), [10](https://www.legislation.gov.uk/uksi/2019/590/regulation/10)
 
 [^f00014]: Footnote: [1988 c. 36](https://www.legislation.gov.uk/ukpga/1988/36).
 
-[^key-eb3af278543d1b2ca0ebb1ecd8a54923]: Modification: [Reg. 55](https://www.legislation.gov.uk/uksi/2007/1711/regulation/55) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/5)
+[^c-eb3af278543d1b2ca0ebb1ecd8a54923]: Modification: [Reg. 55](https://www.legislation.gov.uk/uksi/2007/1711/regulation/55) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/5)
 
-[^key-647c869f945c2c28e5599305069cb301]: Textual amendment: Words in reg. 59(1) inserted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [13(a)](https://www.legislation.gov.uk/uksi/2014/861/regulation/13/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
+[^c-647c869f945c2c28e5599305069cb301]: Textual amendment: Words in reg. 59(1) inserted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [13(a)](https://www.legislation.gov.uk/uksi/2014/861/regulation/13/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
 
-[^key-f314a5fc0e5cb9ceb9d424d37fa6d8a5]: Textual amendment: Reg. 59(6) substituted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [13(b)](https://www.legislation.gov.uk/uksi/2014/861/regulation/13/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
+[^c-f314a5fc0e5cb9ceb9d424d37fa6d8a5]: Textual amendment: Reg. 59(6) substituted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [13(b)](https://www.legislation.gov.uk/uksi/2014/861/regulation/13/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
 
-[^key-fdbcd1e3a169e322c0e6fcef003094b3]: Textual amendment: Words in [reg. 59(6)(c)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/59/6/c) substituted (15.3.2019) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/1), [11](https://www.legislation.gov.uk/uksi/2019/590/regulation/11)
+[^c-fdbcd1e3a169e322c0e6fcef003094b3]: Textual amendment: Words in [reg. 59(6)(c)](https://www.legislation.gov.uk/uksi/2007/1711/regulation/59/6/c) substituted (15.3.2019) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/1), [11](https://www.legislation.gov.uk/uksi/2019/590/regulation/11)
 
-[^key-b1d804e00a5e7eec28e508a1c21bbdb9]: Textual amendment: Words in reg. 59(7)(a) inserted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [13(c)](https://www.legislation.gov.uk/uksi/2014/861/regulation/13/c) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
+[^c-b1d804e00a5e7eec28e508a1c21bbdb9]: Textual amendment: Words in reg. 59(7)(a) inserted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [13(c)](https://www.legislation.gov.uk/uksi/2014/861/regulation/13/c) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
 
-[^key-c66613f7f0e72e382c53bae0f86049ee]: Textual amendment: Reg. 59A inserted (E.) (6.4.2010) by [The Environmental Civil Sanctions (Miscellaneous Amendments) (England) Regulations 2010 (S.I. 2010/1159)](https://www.legislation.gov.uk/uksi/2010/1159), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1159/regulation/1), [9](https://www.legislation.gov.uk/uksi/2010/1159/regulation/9)
+[^c-c66613f7f0e72e382c53bae0f86049ee]: Textual amendment: Reg. 59A inserted (E.) (6.4.2010) by [The Environmental Civil Sanctions (Miscellaneous Amendments) (England) Regulations 2010 (S.I. 2010/1159)](https://www.legislation.gov.uk/uksi/2010/1159), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1159/regulation/1), [9](https://www.legislation.gov.uk/uksi/2010/1159/regulation/9)
 
-[^key-370a229c7590fc1a2ca64cbd90abe3aa]: Textual amendment: Word in reg. 59A inserted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [14(1)](https://www.legislation.gov.uk/uksi/2014/861/regulation/14/1) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
+[^c-370a229c7590fc1a2ca64cbd90abe3aa]: Textual amendment: Word in reg. 59A inserted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [14(1)](https://www.legislation.gov.uk/uksi/2014/861/regulation/14/1) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
 
-[^key-8d8644a2b1f7d628e7d5185ad6928710]: Textual amendment: Words in reg. 59A(4) substituted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/2014/861/regulation/14/2) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
+[^c-8d8644a2b1f7d628e7d5185ad6928710]: Textual amendment: Words in reg. 59A(4) substituted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/2014/861/regulation/14/2) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
 
-[^key-d6fb8a683480321a9cb55b7cd5f37fb4]: Textual amendment: Reg. 59B, 59C inserted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [15](https://www.legislation.gov.uk/uksi/2014/861/regulation/15) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
+[^c-d6fb8a683480321a9cb55b7cd5f37fb4]: Textual amendment: Reg. 59B, 59C inserted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [15](https://www.legislation.gov.uk/uksi/2014/861/regulation/15) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
 
-[^key-5fb642c12d93fccdeb09aebb2bb4096f]: Textual amendment: [Reg. 60](https://www.legislation.gov.uk/uksi/2007/1711/regulation/60) omitted (31.12.2020) by virtue of [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [42](https://www.legislation.gov.uk/uksi/2019/590/regulation/42); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5fb642c12d93fccdeb09aebb2bb4096f]: Textual amendment: [Reg. 60](https://www.legislation.gov.uk/uksi/2007/1711/regulation/60) omitted (31.12.2020) by virtue of [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [42](https://www.legislation.gov.uk/uksi/2019/590/regulation/42); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2a287ecb230ceeff43a1cd228bd740f5]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/uksi/2007/1711/schedule/A1) inserted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [16](https://www.legislation.gov.uk/uksi/2014/861/regulation/16), [Sch.](https://www.legislation.gov.uk/uksi/2014/861/schedule) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
+[^c-2a287ecb230ceeff43a1cd228bd740f5]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/uksi/2007/1711/schedule/A1) inserted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [16](https://www.legislation.gov.uk/uksi/2014/861/regulation/16), [Sch.](https://www.legislation.gov.uk/uksi/2014/861/schedule) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
 
-[^key-09c78d1e6fec1da88a4e918a0ae88104]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2007/1711/schedule/1) omitted (31.12.2020) by virtue of [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [43](https://www.legislation.gov.uk/uksi/2019/590/regulation/43); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-09c78d1e6fec1da88a4e918a0ae88104]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2007/1711/schedule/1) omitted (31.12.2020) by virtue of [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [43](https://www.legislation.gov.uk/uksi/2019/590/regulation/43); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-04ff9f7b0bd37d5e2b33f9375638d82b]: Textual amendment: Sch. 2 omitted (1.5.2014) by virtue of [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [18](https://www.legislation.gov.uk/uksi/2014/861/regulation/18) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
+[^c-04ff9f7b0bd37d5e2b33f9375638d82b]: Textual amendment: Sch. 2 omitted (1.5.2014) by virtue of [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [18](https://www.legislation.gov.uk/uksi/2014/861/regulation/18) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
 
-[^key-2ba3bd7f7d3496df52d90b7f1e917bad]: Textual amendment: Words in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2007/1711/schedule/3/paragraph/1) substituted (15.3.2019) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/1), [12](https://www.legislation.gov.uk/uksi/2019/590/regulation/12)
+[^c-2ba3bd7f7d3496df52d90b7f1e917bad]: Textual amendment: Words in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2007/1711/schedule/3/paragraph/1) substituted (15.3.2019) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/1), [12](https://www.legislation.gov.uk/uksi/2019/590/regulation/12)
 
 [^M_F_a1083df4-91f5-4976-ee57-c462c09de9cb]: Textual amendment: Sch. 3 para. 2,3 substituted for Table (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [19](https://www.legislation.gov.uk/uksi/2014/861/regulation/19) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
 
-[^key-76b680f7cb730b9a071bc4ee3b75916b]: Textual amendment: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2007/1711/schedule/4/paragraph/1) omitted (1.5.2014) by virtue of [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [20](https://www.legislation.gov.uk/uksi/2014/861/regulation/20) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
+[^c-76b680f7cb730b9a071bc4ee3b75916b]: Textual amendment: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2007/1711/schedule/4/paragraph/1) omitted (1.5.2014) by virtue of [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [20](https://www.legislation.gov.uk/uksi/2014/861/regulation/20) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
 
-[^key-063211df2b64aee95beec9bb7113eec9]: Textual amendment: Sch. 5 para. 1, 1A substituted for sch. 5 para. 1 (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [21(2)(a)](https://www.legislation.gov.uk/uksi/2014/861/regulation/21/2/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
+[^c-063211df2b64aee95beec9bb7113eec9]: Textual amendment: Sch. 5 para. 1, 1A substituted for sch. 5 para. 1 (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [21(2)(a)](https://www.legislation.gov.uk/uksi/2014/861/regulation/21/2/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
 
 [^f00019]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); sections 51 and 52 have been substituted by section 47 of the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39).
 
 [^f00020]: Footnote: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
 
-[^key-6dca64afd78c097461fd6ec7b860ecad]: Textual amendment: Sch. 5 para. 5(2)-(2D) substituted for Sch. 5 para. 5(2) (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [21(2)(b)](https://www.legislation.gov.uk/uksi/2014/861/regulation/21/2/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
+[^c-6dca64afd78c097461fd6ec7b860ecad]: Textual amendment: Sch. 5 para. 5(2)-(2D) substituted for Sch. 5 para. 5(2) (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [21(2)(b)](https://www.legislation.gov.uk/uksi/2014/861/regulation/21/2/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
 
-[^key-60dd4bc5d663bd527edfca5d0dd56ddb]: Textual amendment: Word in Sch. 5 para. 6(4)(b) substituted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [21(2)(c)](https://www.legislation.gov.uk/uksi/2014/861/regulation/21/2/c) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
+[^c-60dd4bc5d663bd527edfca5d0dd56ddb]: Textual amendment: Word in Sch. 5 para. 6(4)(b) substituted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [21(2)(c)](https://www.legislation.gov.uk/uksi/2014/861/regulation/21/2/c) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
 
-[^key-31fa8e0e4633168ed594db2de3b8cb51]: Textual amendment: Sch. 5 Pt. 2 substituted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [21(3)](https://www.legislation.gov.uk/uksi/2014/861/regulation/21/3) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
+[^c-31fa8e0e4633168ed594db2de3b8cb51]: Textual amendment: Sch. 5 Pt. 2 substituted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [21(3)](https://www.legislation.gov.uk/uksi/2014/861/regulation/21/3) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
 
-[^key-dabfed871f61f563d824e830627df912]: Textual amendment: Sch. 5 Pt. 2A inserted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [21(4)](https://www.legislation.gov.uk/uksi/2014/861/regulation/21/4) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))
+[^c-dabfed871f61f563d824e830627df912]: Textual amendment: Sch. 5 Pt. 2A inserted (1.5.2014) by [The Transfrontier Shipment of Waste (Amendment) Regulations 2014 (S.I. 2014/861)](https://www.legislation.gov.uk/uksi/2014/861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/861/regulation/1), [21(4)](https://www.legislation.gov.uk/uksi/2014/861/regulation/21/4) (with [reg. 23](https://www.legislation.gov.uk/uksi/2014/861/regulation/23))

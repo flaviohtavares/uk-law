@@ -31,7 +31,7 @@ summary: ''
 
 Electronic Communications
 
-The Wireless Telegraphy (Register) (Amendment) Regulations 2011 (revoked)[^key-9853f2a043f7107832b2a3ceb87418f6]
+The Wireless Telegraphy (Register) (Amendment) Regulations 2011 (revoked)[^c-9853f2a043f7107832b2a3ceb87418f6]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 14th March 2011
 
-[^key-9853f2a043f7107832b2a3ceb87418f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9853f2a043f7107832b2a3ceb87418f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9853f2a043f7107832b2a3ceb87418f6]
+## 1. Citation and commencement[^c-9853f2a043f7107832b2a3ceb87418f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Wireless Telegraphy (Register) Regulations 2004[^key-9853f2a043f7107832b2a3ceb87418f6]
+## 2. Amendment of the Wireless Telegraphy (Register) Regulations 2004[^c-9853f2a043f7107832b2a3ceb87418f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9853f2a043f7107832b2a3ceb87418f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9853f2a043f7107832b2a3ceb87418f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9853f2a043f7107832b2a3ceb87418f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9853f2a043f7107832b2a3ceb87418f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9853f2a043f7107832b2a3ceb87418f6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/439) revoked (13.9.2012) by [The Wireless Telegraphy (Register) Regulations 2012 (S.I. 2012/2186)](https://www.legislation.gov.uk/uksi/2012/2186), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2186/schedule/1)
+[^c-9853f2a043f7107832b2a3ceb87418f6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/439) revoked (13.9.2012) by [The Wireless Telegraphy (Register) Regulations 2012 (S.I. 2012/2186)](https://www.legislation.gov.uk/uksi/2012/2186), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2186/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2186/schedule/1)

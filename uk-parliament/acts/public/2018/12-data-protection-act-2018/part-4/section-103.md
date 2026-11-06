@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Data protection by design[^key-00c31acc0526af8b197626c45f603186]
+## 103. Data protection by design[^c-00c31acc0526af8b197626c45f603186]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00c31acc0526af8b197626c45f603186]: Commencement: S. 103 in force at 16.9.2019 by [S.I. 2019/1188](https://www.legislation.gov.uk/uksi/2019/1188), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2019/1188/regulation/2/c)
+[^c-00c31acc0526af8b197626c45f603186]: Commencement: S. 103 in force at 16.9.2019 by [S.I. 2019/1188](https://www.legislation.gov.uk/uksi/2019/1188), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2019/1188/regulation/2/c)

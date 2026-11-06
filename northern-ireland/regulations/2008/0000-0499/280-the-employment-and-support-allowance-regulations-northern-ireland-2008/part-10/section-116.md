@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 116. Diminishing notional capital rule[^key-c3afb837a5a3a09998e19591e9dafd3b]
+## 116. Diminishing notional capital rule[^c-c3afb837a5a3a09998e19591e9dafd3b]
 
 *Extent: N.I.*
 
@@ -74,4 +74,4 @@ and in such a case, the amount of the reduction for the purposes of paragraph (1
 
 ## Annotations
 
-[^key-c3afb837a5a3a09998e19591e9dafd3b]: Commencement: [Reg. 116](https://www.legislation.gov.uk/nisr/2008/280/regulation/116) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-c3afb837a5a3a09998e19591e9dafd3b]: Commencement: [Reg. 116](https://www.legislation.gov.uk/nisr/2008/280/regulation/116) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

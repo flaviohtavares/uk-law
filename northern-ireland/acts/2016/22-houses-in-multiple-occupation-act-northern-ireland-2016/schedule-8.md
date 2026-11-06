@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 8 — Repeals[^key-ae0f4ae45ce70c86c0250cf249ace959]
+## SCHEDULE 8 — Repeals[^c-ae0f4ae45ce70c86c0250cf249ace959]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ Section 89.
 
 ## Annotations
 
-[^key-ae0f4ae45ce70c86c0250cf249ace959]: Commencement: [Sch. 8](https://www.legislation.gov.uk/nia/2016/22/schedule/8) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-ae0f4ae45ce70c86c0250cf249ace959]: Commencement: [Sch. 8](https://www.legislation.gov.uk/nia/2016/22/schedule/8) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

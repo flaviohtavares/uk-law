@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 49. Disregard of tax refund[^key-36684adced396aab434401f4e3535e4c]
+## 49. Disregard of tax refund[^c-36684adced396aab434401f4e3535e4c]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Any amount by way of a refund of tax deducted from a student’s covenant income
 
 ## Annotations
 
-[^key-36684adced396aab434401f4e3535e4c]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/1991/2887/regulation/49) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
+[^c-36684adced396aab434401f4e3535e4c]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/1991/2887/regulation/49) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 241. Short title[^key-4f27061f0fedc47f76c41b50405ad449]
+## 241. Short title[^c-4f27061f0fedc47f76c41b50405ad449]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Online Safety Act 2023.
 
 ## Annotations
 
-[^key-4f27061f0fedc47f76c41b50405ad449]: Commencement: S. 241 in force at Royal Assent, see [s. 240(z5)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z5)
+[^c-4f27061f0fedc47f76c41b50405ad449]: Commencement: S. 241 in force at Royal Assent, see [s. 240(z5)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z5)

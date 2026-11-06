@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Variation, renewal or discharge of violent offender orders[^key-7953b3d3ae9e8d9f8c0cec43d94427eb]
+## 103. Variation, renewal or discharge of violent offender orders[^c-7953b3d3ae9e8d9f8c0cec43d94427eb]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ if the court considers that it is necessary to do so for the purpose of protecti
 
 ## Annotations
 
-[^key-7953b3d3ae9e8d9f8c0cec43d94427eb]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2008/4/section/103) in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(f)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/f)
+[^c-7953b3d3ae9e8d9f8c0cec43d94427eb]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2008/4/section/103) in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(f)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/f)

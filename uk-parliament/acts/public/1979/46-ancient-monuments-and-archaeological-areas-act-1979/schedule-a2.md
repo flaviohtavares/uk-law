@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE A2 — DECISIONS ON REVIEWS BY PERSON APPOINTED BY WELSH MINISTERS[^key-78337d27316ef2c213e2d2d96e79fa6d]
+## SCHEDULE A2 — DECISIONS ON REVIEWS BY PERSON APPOINTED BY WELSH MINISTERS[^c-78337d27316ef2c213e2d2d96e79fa6d]
 
 *Extent: E+W*
 
@@ -24,34 +24,34 @@ summary: ''
 
 (introduced by section 1AE)
 
-### Decisions on reviews by appointed persons[^key-78337d27316ef2c213e2d2d96e79fa6d]
+### Decisions on reviews by appointed persons[^c-78337d27316ef2c213e2d2d96e79fa6d]
 
-**1.**[^key-78337d27316ef2c213e2d2d96e79fa6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-78337d27316ef2c213e2d2d96e79fa6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Powers and duties of appointed person[^key-78337d27316ef2c213e2d2d96e79fa6d]
+### Powers and duties of appointed person[^c-78337d27316ef2c213e2d2d96e79fa6d]
 
-**2.**[^key-78337d27316ef2c213e2d2d96e79fa6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-78337d27316ef2c213e2d2d96e79fa6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Appointment of another person to make a decision on a review[^key-78337d27316ef2c213e2d2d96e79fa6d]
+### Appointment of another person to make a decision on a review[^c-78337d27316ef2c213e2d2d96e79fa6d]
 
-**3.**[^key-78337d27316ef2c213e2d2d96e79fa6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-78337d27316ef2c213e2d2d96e79fa6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Public local inquiries, hearings and written representations[^key-78337d27316ef2c213e2d2d96e79fa6d]
+### Public local inquiries, hearings and written representations[^c-78337d27316ef2c213e2d2d96e79fa6d]
 
-**4.**[^key-78337d27316ef2c213e2d2d96e79fa6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-78337d27316ef2c213e2d2d96e79fa6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Directions[^key-78337d27316ef2c213e2d2d96e79fa6d]
+### Directions[^c-78337d27316ef2c213e2d2d96e79fa6d]
 
-**5.**[^key-78337d27316ef2c213e2d2d96e79fa6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-78337d27316ef2c213e2d2d96e79fa6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Delegation[^key-78337d27316ef2c213e2d2d96e79fa6d]
+### Delegation[^c-78337d27316ef2c213e2d2d96e79fa6d]
 
-**6.**[^key-78337d27316ef2c213e2d2d96e79fa6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-78337d27316ef2c213e2d2d96e79fa6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Supplementary provision[^key-78337d27316ef2c213e2d2d96e79fa6d]
+### Supplementary provision[^c-78337d27316ef2c213e2d2d96e79fa6d]
 
-**7.**[^key-78337d27316ef2c213e2d2d96e79fa6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-78337d27316ef2c213e2d2d96e79fa6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-78337d27316ef2c213e2d2d96e79fa6d]: Textual amendment: [Sch. A2](https://www.legislation.gov.uk/ukpga/1979/46/schedule/A2) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 50](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/50) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-78337d27316ef2c213e2d2d96e79fa6d]: Textual amendment: [Sch. A2](https://www.legislation.gov.uk/ukpga/1979/46/schedule/A2) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 50](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/50) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)

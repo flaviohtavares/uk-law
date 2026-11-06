@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.29. Decrees in absence where defender furth of Scotland[^key-6ab551be6438f9d69b7ad06d27d496bd]
+## 2.29. Decrees in absence where defender furth of Scotland[^c-6ab551be6438f9d69b7ad06d27d496bd]
 
 *Extent: S*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6ab551be6438f9d69b7ad06d27d496bd]: Commencement: Rule 2.29 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-6ab551be6438f9d69b7ad06d27d496bd]: Commencement: Rule 2.29 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
 
 [^f00019]: Footnote: [1982 c. 27](https://www.legislation.gov.uk/ukpga/1982/27); sections 41 and 42 were amended by the Civil Jurisdiction and Judgments Act [1991 (c. 12)](https://www.legislation.gov.uk/ukpga/1991/12), Schedule 2, paragraphs 16 and 17 respectively.
 

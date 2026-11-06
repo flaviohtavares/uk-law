@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Powers of entry relating to enforcement of controls on works[^key-e5cc81084520df5e75fcc0e90614c7c5][^key-87b9d60221a59ede27cd6475724d96eb]
+## 66. Powers of entry relating to enforcement of controls on works[^c-e5cc81084520df5e75fcc0e90614c7c5][^c-87b9d60221a59ede27cd6475724d96eb]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e5cc81084520df5e75fcc0e90614c7c5]: Commencement: S. 66 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-e5cc81084520df5e75fcc0e90614c7c5]: Commencement: S. 66 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-87b9d60221a59ede27cd6475724d96eb]: Commencement: [S. 66](https://www.legislation.gov.uk/asc/2023/3/section/66) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-87b9d60221a59ede27cd6475724d96eb]: Commencement: [S. 66](https://www.legislation.gov.uk/asc/2023/3/section/66) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

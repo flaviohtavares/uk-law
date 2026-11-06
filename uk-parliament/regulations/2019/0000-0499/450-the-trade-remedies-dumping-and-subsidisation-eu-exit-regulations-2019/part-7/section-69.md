@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Interim review[^key-c6d4a11c6351f1acfc2ea5787bad491b]
+## 69. Interim review[^c-c6d4a11c6351f1acfc2ea5787bad491b]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,7 +52,7 @@ summary: ''
 - (b) varied; or
 - (c) revoked.
 
-(6A)[^key-f78a21067304981317e08fb49c8c0d7a] Where the TRA proposes to make a determination under paragraph (6)(a) the TRA must notify the Secretary of State of its proposed determination.
+(6A)[^c-f78a21067304981317e08fb49c8c0d7a] Where the TRA proposes to make a determination under paragraph (6)(a) the TRA must notify the Secretary of State of its proposed determination.
 
 (6B) Where the Secretary of State has been notified in accordance with paragraph (6A), the Secretary of State may, within the relevant period (and subject to paragraph (6C)), request that the TRA reassess its proposed determination by reference to any matter specified in the request.
 
@@ -84,7 +84,7 @@ summary: ''
 - (a) the margin of dumping or the amount of subsidy; and
 - (b) the amount adequate to remove the injury.
 
-(10) Where the TRA determines that the application of an anti-dumping amount or a countervailing amount be extended in accordance with this regulation, it must conduct the economic interest test (see paragraph 25 of Schedule 4 to the Act)[^key-9bf28817f398048765b6da0e8c65cf7a].
+(10) Where the TRA determines that the application of an anti-dumping amount or a countervailing amount be extended in accordance with this regulation, it must conduct the economic interest test (see paragraph 25 of Schedule 4 to the Act)[^c-9bf28817f398048765b6da0e8c65cf7a].
 
 (11) Where—
 
@@ -95,8 +95,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c6d4a11c6351f1acfc2ea5787bad491b]: Commencement: Reg. 69 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-c6d4a11c6351f1acfc2ea5787bad491b]: Commencement: Reg. 69 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
 
-[^key-f78a21067304981317e08fb49c8c0d7a]: Textual amendment: [Reg. 69(6A)-(6F)](https://www.legislation.gov.uk/uksi/2019/450/regulation/69/6A) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2024/545/regulation/11/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-f78a21067304981317e08fb49c8c0d7a]: Textual amendment: [Reg. 69(6A)-(6F)](https://www.legislation.gov.uk/uksi/2019/450/regulation/69/6A) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2024/545/regulation/11/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
 
-[^key-9bf28817f398048765b6da0e8c65cf7a]: Textual amendment: Words in [reg. 69(10)](https://www.legislation.gov.uk/uksi/2019/450/regulation/69/10) substituted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2024/545/regulation/11/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-9bf28817f398048765b6da0e8c65cf7a]: Textual amendment: Words in [reg. 69(10)](https://www.legislation.gov.uk/uksi/2019/450/regulation/69/10) substituted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2024/545/regulation/11/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))

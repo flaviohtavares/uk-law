@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Amendment to regulation 268A[^key-538c869a10957c54968ebb498d467617]
+## 118. Amendment to regulation 268A[^c-538c869a10957c54968ebb498d467617]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 268A(2)(a) (offence relating to packaging and package leaflets in 
 
 ## Annotations
 
-[^key-538c869a10957c54968ebb498d467617]: Commencement: [Reg. 118](https://www.legislation.gov.uk/uksi/2024/832/regulation/118) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-538c869a10957c54968ebb498d467617]: Commencement: [Reg. 118](https://www.legislation.gov.uk/uksi/2024/832/regulation/118) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00125]: Footnote: Regulation 268A was inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

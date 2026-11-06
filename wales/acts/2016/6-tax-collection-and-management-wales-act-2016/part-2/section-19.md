@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Declaration of confidentiality[^key-6988ae19cc726da14919dd1fb2153d1d]
+## 19. Declaration of confidentiality[^c-6988ae19cc726da14919dd1fb2153d1d]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6988ae19cc726da14919dd1fb2153d1d]: Commencement: S. 19 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)
+[^c-6988ae19cc726da14919dd1fb2153d1d]: Commencement: S. 19 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)

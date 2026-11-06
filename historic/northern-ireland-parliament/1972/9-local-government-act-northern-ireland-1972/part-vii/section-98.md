@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 98. Power to enter on land.[^c20367611][^c20720561][^key-77950f26d1b8abbd38472c340162633b][^key-d7b52d8c72b89454c9f352b989491304][^key-c2ba4f9a808c944ab07f11bb65140520][^key-30994d9fce20941f8ef94c719d54d37b]
+## 98. Power to enter on land.[^c20367611][^c20720561][^c-77950f26d1b8abbd38472c340162633b][^c-d7b52d8c72b89454c9f352b989491304][^c-c2ba4f9a808c944ab07f11bb65140520][^c-30994d9fce20941f8ef94c719d54d37b]
 
 *Extent: N.I.*
 
@@ -54,13 +54,13 @@ but such consent or notice shall not be necessary where entry is sought under su
 
 [^c20720561]: Modification: [Ss. 95-98](https://www.legislation.gov.uk/apni/1972/9/section/95) applied (20.8.2008) by [Local Government (Constituting a Joint Committee a Body Corporate) Order (Northern Ireland) 2008 (S.R. 2008/310)](https://www.legislation.gov.uk/nisr/2008/310), [art. 5](https://www.legislation.gov.uk/nisr/2008/310/article/5)
 
-[^key-77950f26d1b8abbd38472c340162633b]: Modification: [Ss. 95-99](https://www.legislation.gov.uk/apni/1972/9/section/95) applied with modifications (2.4.2012) by [The Local Government (Constituting Joint Committees as Bodies Corporate) Order (Northern Ireland) 2012 (S.R. 2012/10)](https://www.legislation.gov.uk/nisr/2012/10), [arts. 1](https://www.legislation.gov.uk/nisr/2012/10/article/1), [5](https://www.legislation.gov.uk/nisr/2012/10/article/5)
+[^c-77950f26d1b8abbd38472c340162633b]: Modification: [Ss. 95-99](https://www.legislation.gov.uk/apni/1972/9/section/95) applied with modifications (2.4.2012) by [The Local Government (Constituting Joint Committees as Bodies Corporate) Order (Northern Ireland) 2012 (S.R. 2012/10)](https://www.legislation.gov.uk/nisr/2012/10), [arts. 1](https://www.legislation.gov.uk/nisr/2012/10/article/1), [5](https://www.legislation.gov.uk/nisr/2012/10/article/5)
 
-[^key-d7b52d8c72b89454c9f352b989491304]: Modification: [S. 98](https://www.legislation.gov.uk/apni/1972/9/section/98) excluded (6.1.2013) by [The Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2012 (S.R. 2012/453)](https://www.legislation.gov.uk/nisr/2012/453), [regs. 1](https://www.legislation.gov.uk/nisr/2012/453/regulation/1), [30(14)](https://www.legislation.gov.uk/nisr/2012/453/regulation/30/14) (with [reg. 5](https://www.legislation.gov.uk/nisr/2012/453/regulation/5), [Sch. 3](https://www.legislation.gov.uk/nisr/2012/453/schedule/3))
+[^c-d7b52d8c72b89454c9f352b989491304]: Modification: [S. 98](https://www.legislation.gov.uk/apni/1972/9/section/98) excluded (6.1.2013) by [The Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2012 (S.R. 2012/453)](https://www.legislation.gov.uk/nisr/2012/453), [regs. 1](https://www.legislation.gov.uk/nisr/2012/453/regulation/1), [30(14)](https://www.legislation.gov.uk/nisr/2012/453/regulation/30/14) (with [reg. 5](https://www.legislation.gov.uk/nisr/2012/453/regulation/5), [Sch. 3](https://www.legislation.gov.uk/nisr/2012/453/schedule/3))
 
-[^key-c2ba4f9a808c944ab07f11bb65140520]: Modification: [S. 98](https://www.legislation.gov.uk/apni/1972/9/section/98) excluded (20.6.2013) by [The Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013 (S.R. 2013/160)](https://www.legislation.gov.uk/nisr/2013/160), [regs. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1), [30(14)](https://www.legislation.gov.uk/nisr/2013/160/regulation/30/14) (with [reg. 5](https://www.legislation.gov.uk/nisr/2013/160/regulation/5), [Sch. 3](https://www.legislation.gov.uk/nisr/2013/160/schedule/3))
+[^c-c2ba4f9a808c944ab07f11bb65140520]: Modification: [S. 98](https://www.legislation.gov.uk/apni/1972/9/section/98) excluded (20.6.2013) by [The Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013 (S.R. 2013/160)](https://www.legislation.gov.uk/nisr/2013/160), [regs. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1), [30(14)](https://www.legislation.gov.uk/nisr/2013/160/regulation/30/14) (with [reg. 5](https://www.legislation.gov.uk/nisr/2013/160/regulation/5), [Sch. 3](https://www.legislation.gov.uk/nisr/2013/160/schedule/3))
 
-[^key-30994d9fce20941f8ef94c719d54d37b]: Modification: [Ss. 95-99](https://www.legislation.gov.uk/apni/1972/9/section/95) applied (1.4.2015) by [The Local Government (Constituting a Joint Committee a Body Corporate) Order (Northern Ireland) 2015 (S.R. 2015/183)](https://www.legislation.gov.uk/nisr/2015/183), [art. 1](https://www.legislation.gov.uk/nisr/2015/183/article/1), [reg. 5](https://www.legislation.gov.uk/nisr/2015/183/regulation/5)
+[^c-30994d9fce20941f8ef94c719d54d37b]: Modification: [Ss. 95-99](https://www.legislation.gov.uk/apni/1972/9/section/95) applied (1.4.2015) by [The Local Government (Constituting a Joint Committee a Body Corporate) Order (Northern Ireland) 2015 (S.R. 2015/183)](https://www.legislation.gov.uk/nisr/2015/183), [art. 1](https://www.legislation.gov.uk/nisr/2015/183/article/1), [reg. 5](https://www.legislation.gov.uk/nisr/2015/183/regulation/5)
 
 [^c16963901]: Textual amendment: [1978 NI 19](https://www.legislation.gov.uk/1978/ni19)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14A. Methods of analysis[^key-9c34160f191265ed719b45f5be5e9971]
+## 14A. Methods of analysis[^c-9c34160f191265ed719b45f5be5e9971]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c34160f191265ed719b45f5be5e9971]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/ssi/2014/364/regulation/14A) inserted (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [4(5)](https://www.legislation.gov.uk/ssi/2017/281/regulation/4/5)
+[^c-9c34160f191265ed719b45f5be5e9971]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/ssi/2014/364/regulation/14A) inserted (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [4(5)](https://www.legislation.gov.uk/ssi/2017/281/regulation/4/5)

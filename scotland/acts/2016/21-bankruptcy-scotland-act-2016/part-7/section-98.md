@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 98. Gratuitous alienations[^key-0d8227020f35a7dbc6ff6f4b77c16003]
+## 98. Gratuitous alienations[^c-0d8227020f35a7dbc6ff6f4b77c16003]
 
 *Extent: S*
 
@@ -61,7 +61,7 @@ summary: ''
 
   being a gift which, having regard to all the circumstances, it was reasonable for the debtor to make.
 
-(7) Subsection (5)[^key-54e9ae5d0fda8681cb448eb42a6b7378] is without prejudice to any right acquired, in good faith and for value, from or through the transferee in the alienation.
+(7) Subsection (5)[^c-54e9ae5d0fda8681cb448eb42a6b7378] is without prejudice to any right acquired, in good faith and for value, from or through the transferee in the alienation.
 
 (8) In subsection (6)(c)(ii), “**charitable purpose**” means any charitable, benevolent or philanthropic purpose whether or not it is charitable within the meaning of any rule of law.
 
@@ -73,6 +73,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0d8227020f35a7dbc6ff6f4b77c16003]: Commencement: S. 98 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-0d8227020f35a7dbc6ff6f4b77c16003]: Commencement: S. 98 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-54e9ae5d0fda8681cb448eb42a6b7378]: Textual amendment: Word in s. 98(7) substituted (20.1.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 8(2)](https://www.legislation.gov.uk/asp/2024/9/section/8/2), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3))
+[^c-54e9ae5d0fda8681cb448eb42a6b7378]: Textual amendment: Word in s. 98(7) substituted (20.1.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 8(2)](https://www.legislation.gov.uk/asp/2024/9/section/8/2), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3))

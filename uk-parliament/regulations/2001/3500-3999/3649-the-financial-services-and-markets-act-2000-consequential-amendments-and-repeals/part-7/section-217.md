@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 217. Definition of “Bank”[^key-a2c967fe7873cb55afe4dcdaf55ddee2]
+## 217. Definition of “Bank”[^c-a2c967fe7873cb55afe4dcdaf55ddee2]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ In section 9 of the Agricultural Credits (Scotland) Act 1929 (interpretation) fo
 
 ## Annotations
 
-[^key-a2c967fe7873cb55afe4dcdaf55ddee2]: Commencement: Art. 217 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-a2c967fe7873cb55afe4dcdaf55ddee2]: Commencement: Art. 217 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00157]: Footnote: The definition of “Bank” in section 9 was amended by the Banking Act [1987 (c. 22](https://www.legislation.gov.uk/ukpga/1987/22), S.I.F 10), section 108(1), Schedule 6 and modified by [S.I. 1992/3218](https://www.legislation.gov.uk/uksi/1992/3218), regulation 82(1), Schedule 10, Pt. 1, paragraph 4.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Power with respect to disposal of wrecks[^key-5adaa155e78fb37ff2fb71f330a908b6]
+## 60. Power with respect to disposal of wrecks[^c-5adaa155e78fb37ff2fb71f330a908b6]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5adaa155e78fb37ff2fb71f330a908b6]: Commencement: Art. 60 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-5adaa155e78fb37ff2fb71f330a908b6]: Commencement: Art. 60 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

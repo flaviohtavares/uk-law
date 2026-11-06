@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 63. Common land: modifications[^key-45a69df8debd75c052ec20d34ef1e541]
+## 63. Common land: modifications[^c-45a69df8debd75c052ec20d34ef1e541]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ After section 62C of the Criminal Justice and Public Order Act 1994 (c. 33) (ins
 
 ## Annotations
 
-[^key-45a69df8debd75c052ec20d34ef1e541]: Commencement: S. 63 in force at 27.2.2004 by [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 3(b)](https://www.legislation.gov.uk/uksi/2003/3300/article/3/b)
+[^c-45a69df8debd75c052ec20d34ef1e541]: Commencement: S. 63 in force at 27.2.2004 by [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 3(b)](https://www.legislation.gov.uk/uksi/2003/3300/article/3/b)

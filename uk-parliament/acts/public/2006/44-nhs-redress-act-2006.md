@@ -49,11 +49,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 (3) The bodies and other persons referred to are—
 
 - (a) the Secretary of State,
-- (aa)[^key-e9f53ab44c9cf28fc549cc247a063325] NHS England[^key-5d4d30a67db73436fd7587bcd1b12ea2],
-- (ab)[^key-c0bc6c230522d939862818c89e5ee1d7] an integrated care board,
-- (b)[^key-bcb69c20940d833ba5a614ee6ef5d542] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-ab19856bd9049d066eb71f8ad7237698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d) a body or other person providing, or arranging for the provision of, services whose provision is the subject of arrangements with a body or other person mentioned in paragraph (a), (aa) or (ab)[^key-5bd53d7c33a68f9f772caf6b3ac8ec6d].
+- (aa)[^c-e9f53ab44c9cf28fc549cc247a063325] NHS England[^c-5d4d30a67db73436fd7587bcd1b12ea2],
+- (ab)[^c-c0bc6c230522d939862818c89e5ee1d7] an integrated care board,
+- (b)[^c-bcb69c20940d833ba5a614ee6ef5d542] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-ab19856bd9049d066eb71f8ad7237698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) a body or other person providing, or arranging for the provision of, services whose provision is the subject of arrangements with a body or other person mentioned in paragraph (a), (aa) or (ab)[^c-5bd53d7c33a68f9f772caf6b3ac8ec6d].
 
 (4) The reference in subsection (2) to qualifying liability in tort is to liability in tort owed—
 
@@ -70,10 +70,10 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - (a) primary dental services,
 - (b) primary medical services,
 - (c) services provided under section 38 of the National Health Service Act 1977 (c. 49) (general ophthalmic services),
-- (d) services provided under section 126 of the National Health Service Act 2006[^key-c1b3ba7f57a2bed73f6143fa2b1ed047] (arrangements for pharmaceutical services) or by virtue of section 127[^key-a957650bb5d11131ecfb2edc469dc79e] of that Act (arrangements for additional pharmaceutical services), and
-- (e) services of a kind which may be provided under section 126 of that Act, or by virtue of section 127 of that Act, which are provided under Schedule 12 to that Act (local pharmaceutical services schemes) or under section 134 of that Act (local pharmaceutical services pilot schemes)[^key-ed0c84bebe29adaa2b61d438299d7fd5] .
+- (d) services provided under section 126 of the National Health Service Act 2006[^c-c1b3ba7f57a2bed73f6143fa2b1ed047] (arrangements for pharmaceutical services) or by virtue of section 127[^c-a957650bb5d11131ecfb2edc469dc79e] of that Act (arrangements for additional pharmaceutical services), and
+- (e) services of a kind which may be provided under section 126 of that Act, or by virtue of section 127 of that Act, which are provided under Schedule 12 to that Act (local pharmaceutical services schemes) or under section 134 of that Act (local pharmaceutical services pilot schemes)[^c-ed0c84bebe29adaa2b61d438299d7fd5] .
 
-(7) The references in subsection (6) to primary dental services and primary medical services are to primary dental services and primary medical services under the National Health Service Act 2006[^key-cddb4514194da725c6642f74dacfe17b], except that the Secretary of State may by regulations provide that services of a description specified in the regulations are not to be regarded as primary dental services or primary medical services for the purposes of that subsection.
+(7) The references in subsection (6) to primary dental services and primary medical services are to primary dental services and primary medical services under the National Health Service Act 2006[^c-cddb4514194da725c6642f74dacfe17b], except that the Secretary of State may by regulations provide that services of a description specified in the regulations are not to be regarded as primary dental services or primary medical services for the purposes of that subsection.
 
 (8) Regulations under subsection (5)(b) or (7) may, in particular, describe services by reference to the manner or circumstances in which they are provided.
 
@@ -81,7 +81,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (10) In subsection (4), the reference to a health care professional is to a member of a profession (whether or not regulated by, or by virtue of, any enactment) which is concerned (wholly or partly) with the physical or mental health of individuals.
 
-(11) In this section, “**hospital**” has the same meaning as in the National Health Service Act 2006[^key-af39f66cffcb82792b4fa7117207c9c4].
+(11) In this section, “**hospital**” has the same meaning as in the National Health Service Act 2006[^c-af39f66cffcb82792b4fa7117207c9c4].
 
 ### 2. Application of scheme
 
@@ -141,7 +141,7 @@ but may specify circumstances in which one or more of those forms of redress is 
 (2) The bodies and other persons referred to are—
 
 - (a) any body or other person to whose liability a scheme applies, and
-- (b)[^key-e5ccf0b92226e57b04618f428a7fce82] the Care Quality Commission.
+- (b)[^c-e5ccf0b92226e57b04618f428a7fce82] the Care Quality Commission.
 
 ### 6. Proceedings under scheme
 
@@ -242,7 +242,7 @@ but may specify circumstances in which one or more of those forms of redress is 
 - (g) the provision to the Independent Regulator of Foundation Trusts of reports with respect to failure by NHS foundation trusts to carry out functions under the scheme;
 - (h) the publication of annual data about the scheme.
 
-(3) Section 28(1) of the National Health Service Act 2006 and section 22(1) of the National Health Service (Wales) Act 2006[^key-b1c2b499308ddec004b280b92e6694ec] (power to establish special bodies for the purpose of exercising any functions which may be conferred on them by or under that Act) shall have effect as if the provisions of this Act were contained in that Act.
+(3) Section 28(1) of the National Health Service Act 2006 and section 22(1) of the National Health Service (Wales) Act 2006[^c-b1c2b499308ddec004b280b92e6694ec] (power to establish special bodies for the purpose of exercising any functions which may be conferred on them by or under that Act) shall have effect as if the provisions of this Act were contained in that Act.
 
 ### 12. General duty to promote resolution under scheme
 
@@ -250,9 +250,9 @@ A scheme must include provision requiring the scheme authority and the members o
 
 ### 13. Duties of co-operation
 
-(1) The scheme authority under a scheme and the Care Quality Commission[^key-812d857dfd9e9b4a17ba3bc533e1a6e7] must co-operate with each other where it appears to them that it is appropriate to do so for the efficient and effective discharge of their respective functions.
+(1) The scheme authority under a scheme and the Care Quality Commission[^c-812d857dfd9e9b4a17ba3bc533e1a6e7] must co-operate with each other where it appears to them that it is appropriate to do so for the efficient and effective discharge of their respective functions.
 
-(2)[^key-d7ceb7a614ef1c790f39cbc89ab567cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d7ceb7a614ef1c790f39cbc89ab567cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 14. Complaints
 
@@ -376,7 +376,7 @@ shall be subject to annulment in pursuance of a resolution of either House of Pa
 
 **Not yet in force.**
 
-### 17. Framework power[^key-38ac14533c2ecac85122486784f42be9]
+### 17. Framework power[^c-38ac14533c2ecac85122486784f42be9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -386,8 +386,8 @@ shall be subject to annulment in pursuance of a resolution of either House of Pa
 
 (1) In this Act—
 
-- [^key-f5e8be40d84bc14db4949c7624d3b1c0]...
-- “**health service**” has the same meaning as in the National Health Service Act 2006[^key-485724b4948f8426bf7a1cfac02f0369] ;
+- [^c-f5e8be40d84bc14db4949c7624d3b1c0]...
+- “**health service**” has the same meaning as in the National Health Service Act 2006[^c-485724b4948f8426bf7a1cfac02f0369] ;
 - “**illness**” has the same meaning as in the National Health Service Act 2006 ;
 - “**patient**” has the same meaning as in the National Health Service Act 2006;
 - “**personal injury**” includes any disease and any impairment of a person's physical or mental health;
@@ -411,38 +411,38 @@ shall be subject to annulment in pursuance of a resolution of either House of Pa
 
 ## Annotations
 
-[^key-e9f53ab44c9cf28fc549cc247a063325]: Textual amendment: S. 1(3)(aa)(ab) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 141(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/141/a); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-e9f53ab44c9cf28fc549cc247a063325]: Textual amendment: S. 1(3)(aa)(ab) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 141(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/141/a); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-5d4d30a67db73436fd7587bcd1b12ea2]: Textual amendment: Words in [s. 1](https://www.legislation.gov.uk/ukpga/2006/44/section/1) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-5d4d30a67db73436fd7587bcd1b12ea2]: Textual amendment: Words in [s. 1](https://www.legislation.gov.uk/ukpga/2006/44/section/1) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-c0bc6c230522d939862818c89e5ee1d7]: Textual amendment: [S. 1(3)(ab)](https://www.legislation.gov.uk/ukpga/2006/44/section/1/3/ab) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 149](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/149); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-c0bc6c230522d939862818c89e5ee1d7]: Textual amendment: [S. 1(3)(ab)](https://www.legislation.gov.uk/ukpga/2006/44/section/1/3/ab) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 149](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/149); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-bcb69c20940d833ba5a614ee6ef5d542]: Textual amendment: S. 1(3)(b) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 141(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/141/b); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-bcb69c20940d833ba5a614ee6ef5d542]: Textual amendment: S. 1(3)(b) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 141(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/141/b); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-ab19856bd9049d066eb71f8ad7237698]: Textual amendment: S. 1(3)(c) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 141(c)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/141/c); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-ab19856bd9049d066eb71f8ad7237698]: Textual amendment: S. 1(3)(c) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 141(c)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/141/c); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-5bd53d7c33a68f9f772caf6b3ac8ec6d]: Textual amendment: Words in s. 1(3)(d) substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 141(d)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/141/d); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-5bd53d7c33a68f9f772caf6b3ac8ec6d]: Textual amendment: Words in s. 1(3)(d) substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 141(d)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/141/d); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-c1b3ba7f57a2bed73f6143fa2b1ed047]: Textual amendment: Words in s. 1(6)(d) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 308(a)(i)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/308/a/i) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+[^c-c1b3ba7f57a2bed73f6143fa2b1ed047]: Textual amendment: Words in s. 1(6)(d) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 308(a)(i)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/308/a/i) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
 
-[^key-a957650bb5d11131ecfb2edc469dc79e]: Textual amendment: Words in s. 1(6)(d) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 308(a)(ii)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/308/a/ii) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+[^c-a957650bb5d11131ecfb2edc469dc79e]: Textual amendment: Words in s. 1(6)(d) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 308(a)(ii)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/308/a/ii) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
 
-[^key-ed0c84bebe29adaa2b61d438299d7fd5]: Textual amendment: Words in s. 1(6)(e) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 308(b)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/308/b) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+[^c-ed0c84bebe29adaa2b61d438299d7fd5]: Textual amendment: Words in s. 1(6)(e) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 308(b)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/308/b) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
 
-[^key-cddb4514194da725c6642f74dacfe17b]: Textual amendment: Words in s. 1(7) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 309](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/309) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+[^c-cddb4514194da725c6642f74dacfe17b]: Textual amendment: Words in s. 1(7) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 309](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/309) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
 
-[^key-af39f66cffcb82792b4fa7117207c9c4]: Textual amendment: Words in s. 1(11) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 310](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/310) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+[^c-af39f66cffcb82792b4fa7117207c9c4]: Textual amendment: Words in s. 1(11) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 310](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/310) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
 
-[^key-e5ccf0b92226e57b04618f428a7fce82]: Textual amendment: [S. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2006/44/section/5/2/b) substituted (1.4.2009) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 5 para. 89](https://www.legislation.gov.uk/ukpga/2008/14/schedule/5/paragraph/89); [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 35(bb)](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/35/bb)
+[^c-e5ccf0b92226e57b04618f428a7fce82]: Textual amendment: [S. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2006/44/section/5/2/b) substituted (1.4.2009) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 5 para. 89](https://www.legislation.gov.uk/ukpga/2008/14/schedule/5/paragraph/89); [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 35(bb)](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/35/bb)
 
-[^key-b1c2b499308ddec004b280b92e6694ec]: Textual amendment: Words in s. 11(3) substituted (1.3.2007) by virtue of [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 311](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/311) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+[^c-b1c2b499308ddec004b280b92e6694ec]: Textual amendment: Words in s. 11(3) substituted (1.3.2007) by virtue of [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 311](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/311) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
 
-[^key-812d857dfd9e9b4a17ba3bc533e1a6e7]: Textual amendment: Words in s. 13(1) substituted (1.4.2009) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 5 para. 90](https://www.legislation.gov.uk/ukpga/2008/14/schedule/5/paragraph/90); [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 35(bb)](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/35/bb)
+[^c-812d857dfd9e9b4a17ba3bc533e1a6e7]: Textual amendment: Words in s. 13(1) substituted (1.4.2009) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 5 para. 90](https://www.legislation.gov.uk/ukpga/2008/14/schedule/5/paragraph/90); [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 35(bb)](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/35/bb)
 
-[^key-d7ceb7a614ef1c790f39cbc89ab567cf]: Textual amendment: [S. 13(2)](https://www.legislation.gov.uk/ukpga/2006/44/section/13/2) omitted (1.10.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 281(3)](https://www.legislation.gov.uk/ukpga/2012/7/section/281/3), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
+[^c-d7ceb7a614ef1c790f39cbc89ab567cf]: Textual amendment: [S. 13(2)](https://www.legislation.gov.uk/ukpga/2006/44/section/13/2) omitted (1.10.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 281(3)](https://www.legislation.gov.uk/ukpga/2012/7/section/281/3), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
 
-[^key-38ac14533c2ecac85122486784f42be9]: Textual amendment: [S. 17](https://www.legislation.gov.uk/ukpga/2006/44/section/17) repealed (25.5.2007) by [National Assembly for Wales (Legislative Competence) (Conversion of Framework Powers) Order 2007 (S.I. 2007/910)](https://www.legislation.gov.uk/uksi/2007/910), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/910/article/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2007/910/article/5/b) (with [art. 2](https://www.legislation.gov.uk/uksi/2007/910/article/2))
+[^c-38ac14533c2ecac85122486784f42be9]: Textual amendment: [S. 17](https://www.legislation.gov.uk/ukpga/2006/44/section/17) repealed (25.5.2007) by [National Assembly for Wales (Legislative Competence) (Conversion of Framework Powers) Order 2007 (S.I. 2007/910)](https://www.legislation.gov.uk/uksi/2007/910), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/910/article/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2007/910/article/5/b) (with [art. 2](https://www.legislation.gov.uk/uksi/2007/910/article/2))
 
-[^key-f5e8be40d84bc14db4949c7624d3b1c0]: Textual amendment: Words in s. 18(1) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 142](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/142); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-f5e8be40d84bc14db4949c7624d3b1c0]: Textual amendment: Words in s. 18(1) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 142](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/142); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-485724b4948f8426bf7a1cfac02f0369]: Textual amendment: Words in s. 18(1) substituted (1.3.2007) by virtue of [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 312](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/312) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+[^c-485724b4948f8426bf7a1cfac02f0369]: Textual amendment: Words in s. 18(1) substituted (1.3.2007) by virtue of [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 312](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/312) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))

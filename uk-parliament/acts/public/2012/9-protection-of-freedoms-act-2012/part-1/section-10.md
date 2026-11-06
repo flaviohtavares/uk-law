@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Material given voluntarily[^key-bddb9e36a9748316dad7454a35b6716a]
+## 10. Material given voluntarily[^c-bddb9e36a9748316dad7454a35b6716a]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ After section 63M of the Police and Criminal Evidence Act 1984 (for which see se
 
 ## Annotations
 
-[^key-bddb9e36a9748316dad7454a35b6716a]: Commencement: S. 10 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/a) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))
+[^c-bddb9e36a9748316dad7454a35b6716a]: Commencement: S. 10 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/a) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))

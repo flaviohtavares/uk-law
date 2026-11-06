@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Combined authority mayors: exercise of fire and rescue functions[^c22718381][^key-685f61d75c612733a56705330edf1611]
+## 8. Combined authority mayors: exercise of fire and rescue functions[^c22718381][^c-685f61d75c612733a56705330edf1611]
 
 *Extent: E+W+S+N.I.*
 
@@ -311,4 +311,4 @@ summary: ''
 
 [^c22718381]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2017/3/section/8) in force for specified purposes at Royal Assent, see. s, 183
 
-[^key-685f61d75c612733a56705330edf1611]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2017/3/section/8) in force at 17.7.2017 in so far as not already in force by [S.I. 2017/726](https://www.legislation.gov.uk/uksi/2017/726), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/726/regulation/2/a)
+[^c-685f61d75c612733a56705330edf1611]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2017/3/section/8) in force at 17.7.2017 in so far as not already in force by [S.I. 2017/726](https://www.legislation.gov.uk/uksi/2017/726), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/726/regulation/2/a)

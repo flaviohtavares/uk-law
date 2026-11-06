@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Registration: powers to make further or different provision[^key-4754765dcad19a480ae19c2829945516][^key-ea05dfea07ff1006294595a7ca5878ab]
+## 26. Registration: powers to make further or different provision[^c-4754765dcad19a480ae19c2829945516][^c-ea05dfea07ff1006294595a7ca5878ab]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ and references in this section to “specified in the regulations” include a r
 
 ## Annotations
 
-[^key-4754765dcad19a480ae19c2829945516]: Commencement: S. 26 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)
+[^c-4754765dcad19a480ae19c2829945516]: Commencement: S. 26 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)
 
-[^key-ea05dfea07ff1006294595a7ca5878ab]: Commencement: [S. 26](https://www.legislation.gov.uk/asc/2025/5/section/26) in force at 1.10.2026 by [S.I. 2025/1305](https://www.legislation.gov.uk/wsi/2025/1305), [art. 2(m)](https://www.legislation.gov.uk/wsi/2025/1305/article/2/m)
+[^c-ea05dfea07ff1006294595a7ca5878ab]: Commencement: [S. 26](https://www.legislation.gov.uk/asc/2025/5/section/26) in force at 1.10.2026 by [S.I. 2025/1305](https://www.legislation.gov.uk/wsi/2025/1305), [art. 2(m)](https://www.legislation.gov.uk/wsi/2025/1305/article/2/m)

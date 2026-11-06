@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-2ad4c85c997e7a172210ce8a79be5b03] After section 38 of the Water Industry Act 1991 there is inserted—
+(1)[^c-2ad4c85c997e7a172210ce8a79be5b03] After section 38 of the Water Industry Act 1991 there is inserted—
 
 > **38ZA. Standards of performance in connection with the supply of water: water supply licensees**
 >
@@ -54,9 +54,9 @@ summary: ''
 >   - (b) the Welsh Ministers, in relation to supplies of water made in accordance with a restricted retail authorisation;
 > - “**prescribed**” means prescribed by regulations made by the Minister.
 
-(2)[^key-cca62ea9e9be48b870869def66f7760e][^key-d1d57826f9ab96bf1fd6e8e88e4ab135] Section 38A of that Act (information as to levels of performance of water undertakers) is amended in accordance with subsections (3) to (6).
+(2)[^c-cca62ea9e9be48b870869def66f7760e][^c-d1d57826f9ab96bf1fd6e8e88e4ab135] Section 38A of that Act (information as to levels of performance of water undertakers) is amended in accordance with subsections (3) to (6).
 
-(3)[^key-2ad4c85c997e7a172210ce8a79be5b03] In subsection (1) (duty of Water Services Regulation Authority to collect information)—
+(3)[^c-2ad4c85c997e7a172210ce8a79be5b03] In subsection (1) (duty of Water Services Regulation Authority to collect information)—
 
 - (a) the “and” following paragraph (a) is repealed;
 - (b) after paragraph (a) there is inserted—
@@ -66,20 +66,20 @@ summary: ''
   ;
 - (c) in paragraph (b), after “water undertakers” there is inserted “ or water supply licensees ”.
 
-(4)[^key-2ad4c85c997e7a172210ce8a79be5b03] After subsection (2) there is inserted—
+(4)[^c-2ad4c85c997e7a172210ce8a79be5b03] After subsection (2) there is inserted—
 
 > (2A) At such times as the Authority may direct, each water supply licensee is to give the following information to the Authority—
 >
 > - (a) as respects each standard established by regulations under section 38ZA(1), such information with respect to the level of performance achieved by the licensee as may be specified in the direction;
 > - (b) as respects each standard prescribed by regulations under section 38ZA(2), the number of cases in which compensation was paid and the aggregate amount or value of that compensation.
 
-(5)[^key-cca62ea9e9be48b870869def66f7760e][^key-d1d57826f9ab96bf1fd6e8e88e4ab135] For subsection (3) (offence of failing to comply with subsection (2)) there is substituted—
+(5)[^c-cca62ea9e9be48b870869def66f7760e][^c-d1d57826f9ab96bf1fd6e8e88e4ab135] For subsection (3) (offence of failing to comply with subsection (2)) there is substituted—
 
 > (3) The requirements in subsections (2) and (2A) are enforceable by the Authority under section 18.
 
-(6)[^key-2ad4c85c997e7a172210ce8a79be5b03] In subsection (4) (publication of information collected), after “water undertakers” there is inserted “ or water supply licensees ”.
+(6)[^c-2ad4c85c997e7a172210ce8a79be5b03] In subsection (4) (publication of information collected), after “water undertakers” there is inserted “ or water supply licensees ”.
 
-(7)[^key-7ab6dcceb129f1c6d79869a81828c0f6] After section 39 there is inserted—
+(7)[^c-7ab6dcceb129f1c6d79869a81828c0f6] After section 39 there is inserted—
 
 > **39ZA. Procedure for regulations under section 38ZA**
 >
@@ -101,10 +101,10 @@ summary: ''
 
 ## Annotations
 
-[^key-2ad4c85c997e7a172210ce8a79be5b03]: Commencement: [S. 29(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/29/1)[(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/29/3)[(4)](https://www.legislation.gov.uk/ukpga/2014/21/section/29/4)[(6)](https://www.legislation.gov.uk/ukpga/2014/21/section/29/6) in force at 1.11.2016 by [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(d)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/d)
+[^c-2ad4c85c997e7a172210ce8a79be5b03]: Commencement: [S. 29(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/29/1)[(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/29/3)[(4)](https://www.legislation.gov.uk/ukpga/2014/21/section/29/4)[(6)](https://www.legislation.gov.uk/ukpga/2014/21/section/29/6) in force at 1.11.2016 by [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(d)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/d)
 
-[^key-cca62ea9e9be48b870869def66f7760e]: Commencement: [S. 29(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/29/2)[(5)](https://www.legislation.gov.uk/ukpga/2014/21/section/29/5) in force at 1.1.2015 for specified purposes by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2014/3320/article/2/2/a)
+[^c-cca62ea9e9be48b870869def66f7760e]: Commencement: [S. 29(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/29/2)[(5)](https://www.legislation.gov.uk/ukpga/2014/21/section/29/5) in force at 1.1.2015 for specified purposes by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2014/3320/article/2/2/a)
 
-[^key-d1d57826f9ab96bf1fd6e8e88e4ab135]: Commencement: [S. 29(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/29/2)[(5)](https://www.legislation.gov.uk/ukpga/2014/21/section/29/5) in force at 1.11.2016 in so far as not already in force by [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(d)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/d)
+[^c-d1d57826f9ab96bf1fd6e8e88e4ab135]: Commencement: [S. 29(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/29/2)[(5)](https://www.legislation.gov.uk/ukpga/2014/21/section/29/5) in force at 1.11.2016 in so far as not already in force by [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(d)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/d)
 
-[^key-7ab6dcceb129f1c6d79869a81828c0f6]: Commencement: [S. 29(7)](https://www.legislation.gov.uk/ukpga/2014/21/section/29/7) in force at 15.7.2015 by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/1469/article/2/c)
+[^c-7ab6dcceb129f1c6d79869a81828c0f6]: Commencement: [S. 29(7)](https://www.legislation.gov.uk/ukpga/2014/21/section/29/7) in force at 15.7.2015 by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/1469/article/2/c)

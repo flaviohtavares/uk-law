@@ -32,7 +32,7 @@ Civil Aviation
 
 Consumer Protection
 
-The Operation of Air Services [^key-16aacbf9d33a16daee9379396eebc769]... (Pricing etc.) Regulations 2013
+The Operation of Air Services [^c-16aacbf9d33a16daee9379396eebc769]... (Pricing etc.) Regulations 2013
 
 Made
 
@@ -52,11 +52,11 @@ In exercise of the powers conferred by that section, and after consultation with
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-3233fd5a3b4a1724f023e3d72b7f4a3f]
+### 1. Citation and commencement[^c-3233fd5a3b4a1724f023e3d72b7f4a3f]
 
-These Regulations may be cited as the Operation of Air Services [^key-ac895a8943ba492b999414548619ede8]... (Pricing etc.) Regulations 2013 and come into force on 6th April 2013.
+These Regulations may be cited as the Operation of Air Services [^c-ac895a8943ba492b999414548619ede8]... (Pricing etc.) Regulations 2013 and come into force on 6th April 2013.
 
-### 2. Review[^key-ad448890ba1e9a7f62e335835683a995]
+### 2. Review[^c-ad448890ba1e9a7f62e335835683a995]
 
 (1) The Secretary of State must from time to time—
 
@@ -76,180 +76,180 @@ These Regulations may be cited as the Operation of Air Services [^key-ac895a8943
 
 (5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
 
-### 3. Interpretation[^key-e31c9b3011542e2501050df8f7bb9514]
+### 3. Interpretation[^c-e31c9b3011542e2501050df8f7bb9514]
 
 (1) In these Regulations—
 
 - “Article 23” means Article 23 of the EC Regulation;
 - “the CAA” means the Civil Aviation Authority;
-- “the[^key-0f7b7643323655667ad05566a46334c9] CMA” means the Competition and Markets Authority;
+- “the[^c-0f7b7643323655667ad05566a46334c9] CMA” means the Competition and Markets Authority;
 - “the Directive” means Directive [2000/31/EC](https://www.legislation.gov.uk/european/directive/2000/0031) of the European Parliament and of the Council of 8th June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market (Directive on electronic commerce)[^f00006];
 - “the EC Regulation” means Regulation [(EC) No 1008/2008](https://www.legislation.gov.uk/european/regulation/2008/1008) of the European Parliament and of the Council of 24th September 2008 on common rules for the operation of air services in the Community[^f00007];
-- [^key-ff13843f84adadd7b3550320a7d54bcc]...
-- [^key-63e7297b58bbb0a5357cc33679059091]...
-- [^key-c2eafe8f2b1965991efdbde271556ce0]...
-- [^key-cebeb03c80df97b7108664db28fe2dda]...
-- [^key-7a3691d236378482af933747b9f6653b]...
+- [^c-ff13843f84adadd7b3550320a7d54bcc]...
+- [^c-63e7297b58bbb0a5357cc33679059091]...
+- [^c-c2eafe8f2b1965991efdbde271556ce0]...
+- [^c-cebeb03c80df97b7108664db28fe2dda]...
+- [^c-7a3691d236378482af933747b9f6653b]...
 - “information society services”—
   - (a) has the meaning set out in Article 2(a) of the Directive (which refers to Article 1(2) of Directive [98/34/EC](https://www.legislation.gov.uk/european/directive/1998/0034) of the European Parliament and of the Council of 22nd June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations[^f00009]); and
   - (b) is summarised in recital 17 of the Directive which refers to “any service normally provided for remuneration, at a distance, by means of electronic equipment for the processing (including digital compression) and storage of data, and at the individual request of a recipient of a service”;
-- [^key-a76283ae83b111a30c4bfcaad42cbb9b]...
-- [^key-6b6b86a5ac424654bedf2c7ae4f7d3fd]...
+- [^c-a76283ae83b111a30c4bfcaad42cbb9b]...
+- [^c-6b6b86a5ac424654bedf2c7ae4f7d3fd]...
 - “recipient” means a person who (whether for professional purposes or not) uses an information society service, in particular for seeking information or making it accessible;
 - “service provider” means any person providing information society services.
 
-(2)[^key-2d01c40b06d1931afa661a27efff2619] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2d01c40b06d1931afa661a27efff2619] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 2 — Enforcement of provisions on pricing
 
-### 4. Enforcers[^key-fc76d90ccd31dde3e205d46e9f573406]
+### 4. Enforcers[^c-fc76d90ccd31dde3e205d46e9f573406]
 
 Each of the following is an enforcer for the purpose of enforcing Article 23—
 
 - (a) the CAA;
-- (b) the CMA[^key-a205747b826c30bc879ce0ca8a78a86f].
+- (b) the CMA[^c-a205747b826c30bc879ce0ca8a78a86f].
 
-### 5. Duty and power to enforce[^key-fc72fd09bada2b8d873ea926c711707c][^key-d4a38b92607c469557a45f0fa307e898]
+### 5. Duty and power to enforce[^c-fc72fd09bada2b8d873ea926c711707c][^c-d4a38b92607c469557a45f0fa307e898]
 
-(1) It is the duty of the[^key-ed00401d18741b85cc2a70ed5c4843ae] CAA to enforce Article 23.
+(1) It is the duty of the[^c-ed00401d18741b85cc2a70ed5c4843ae] CAA to enforce Article 23.
 
-(1A)[^key-40c887fbd2fd663964dc3ad513d6a22a] The CMA may also enforce Article 23.
+(1A)[^c-40c887fbd2fd663964dc3ad513d6a22a] The CMA may also enforce Article 23.
 
 (2) Nothing in these Regulations authorises an enforcer to bring proceedings in Scotland for an offence.
 
-### 6. Consultation[^key-a063eabad595ebc932140d30393d94cc]
+### 6. Consultation[^c-a063eabad595ebc932140d30393d94cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Request for consultation[^key-a063eabad595ebc932140d30393d94cc]
+### 7. Request for consultation[^c-a063eabad595ebc932140d30393d94cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Person to whom a request for consultation is to be made[^key-a063eabad595ebc932140d30393d94cc]
+### 8. Person to whom a request for consultation is to be made[^c-a063eabad595ebc932140d30393d94cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Address for service[^key-a063eabad595ebc932140d30393d94cc]
+### 9. Address for service[^c-a063eabad595ebc932140d30393d94cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Date of receipt of request[^key-a063eabad595ebc932140d30393d94cc]
+### 10. Date of receipt of request[^c-a063eabad595ebc932140d30393d94cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Applications[^key-a063eabad595ebc932140d30393d94cc]
+### 11. Applications[^c-a063eabad595ebc932140d30393d94cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Enforcement orders[^key-a063eabad595ebc932140d30393d94cc]
+### 12. Enforcement orders[^c-a063eabad595ebc932140d30393d94cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Interim enforcement orders[^key-a063eabad595ebc932140d30393d94cc]
+### 13. Interim enforcement orders[^c-a063eabad595ebc932140d30393d94cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Undertakings to an enforcer[^key-a063eabad595ebc932140d30393d94cc]
+### 14. Undertakings to an enforcer[^c-a063eabad595ebc932140d30393d94cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Further proceedings[^key-a063eabad595ebc932140d30393d94cc]
+### 15. Further proceedings[^c-a063eabad595ebc932140d30393d94cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Bodies corporate: accessories[^key-a063eabad595ebc932140d30393d94cc]
+### 16. Bodies corporate: accessories[^c-a063eabad595ebc932140d30393d94cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Bodies corporate: orders[^key-a063eabad595ebc932140d30393d94cc]
+### 17. Bodies corporate: orders[^c-a063eabad595ebc932140d30393d94cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Information[^key-a063eabad595ebc932140d30393d94cc]
+### 18. Information[^c-a063eabad595ebc932140d30393d94cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Notices: procedure[^key-a063eabad595ebc932140d30393d94cc]
+### 19. Notices: procedure[^c-a063eabad595ebc932140d30393d94cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Notices: enforcement[^key-a063eabad595ebc932140d30393d94cc]
+### 20. Notices: enforcement[^c-a063eabad595ebc932140d30393d94cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Power to enter premises without warrant[^key-a063eabad595ebc932140d30393d94cc]
+### 21. Power to enter premises without warrant[^c-a063eabad595ebc932140d30393d94cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Powers exercisable on the premises[^key-a063eabad595ebc932140d30393d94cc]
+### 22. Powers exercisable on the premises[^c-a063eabad595ebc932140d30393d94cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Power to enter premises with warrant[^key-a063eabad595ebc932140d30393d94cc]
+### 23. Power to enter premises with warrant[^c-a063eabad595ebc932140d30393d94cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Ancillary provisions about powers of entry[^key-a063eabad595ebc932140d30393d94cc]
+### 24. Ancillary provisions about powers of entry[^c-a063eabad595ebc932140d30393d94cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Obstructing, or failing to co-operate with, powers of entry[^key-a063eabad595ebc932140d30393d94cc]
+### 25. Obstructing, or failing to co-operate with, powers of entry[^c-a063eabad595ebc932140d30393d94cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Retention of documents and goods[^key-a063eabad595ebc932140d30393d94cc]
+### 26. Retention of documents and goods[^c-a063eabad595ebc932140d30393d94cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Evidence[^key-a063eabad595ebc932140d30393d94cc]
+### 27. Evidence[^c-a063eabad595ebc932140d30393d94cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Information society services
 
-### 28. Service providers[^key-9c444e39374e50b9c725204420df6779]
+### 28. Service providers[^c-9c444e39374e50b9c725204420df6779]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Exceptions for mere conduits[^key-35768fed8a38d0f25df88db9d3ed0ba1]
+### 29. Exceptions for mere conduits[^c-35768fed8a38d0f25df88db9d3ed0ba1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. Exception for caching[^key-35768fed8a38d0f25df88db9d3ed0ba1]
+### 30. Exception for caching[^c-35768fed8a38d0f25df88db9d3ed0ba1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 31. Exception for hosting[^key-35768fed8a38d0f25df88db9d3ed0ba1]
+### 31. Exception for hosting[^c-35768fed8a38d0f25df88db9d3ed0ba1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Information[^key-9eb1020d7a6b4eed73dfbdb639e19b92]
+## PART 4 — Information[^c-9eb1020d7a6b4eed73dfbdb639e19b92]
 
 **No longer in force.**
 
-### 32. General restriction[^key-9eb1020d7a6b4eed73dfbdb639e19b92]
+### 32. General restriction[^c-9eb1020d7a6b4eed73dfbdb639e19b92]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 33. Consent[^key-9eb1020d7a6b4eed73dfbdb639e19b92]
+### 33. Consent[^c-9eb1020d7a6b4eed73dfbdb639e19b92]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 34. Information sharing[^key-9eb1020d7a6b4eed73dfbdb639e19b92]
+### 34. Information sharing[^c-9eb1020d7a6b4eed73dfbdb639e19b92]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 35. Civil proceedings[^key-9eb1020d7a6b4eed73dfbdb639e19b92]
+### 35. Civil proceedings[^c-9eb1020d7a6b4eed73dfbdb639e19b92]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 36. Criminal proceedings[^key-9eb1020d7a6b4eed73dfbdb639e19b92]
+### 36. Criminal proceedings[^c-9eb1020d7a6b4eed73dfbdb639e19b92]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 5 — Amendments
 
-### 37. The Operation of Air Services in the Community Regulations 2009[^key-66a95eb75f93cd7ea5f063f53d7a93a3]
+### 37. The Operation of Air Services in the Community Regulations 2009[^c-66a95eb75f93cd7ea5f063f53d7a93a3]
 
 (1) The Operation of Air Services in the Community Regulations 2009[^f00020] are amended as follows.
 
@@ -410,7 +410,7 @@ Each of the following is an enforcer for the purpose of enforcing Article 23—
 
 ## PART 6 — Revocation
 
-### 38. The Licensing of Air Carriers Regulations 1999[^key-16cf36115471cfc0886bbf302b25a1f0]
+### 38. The Licensing of Air Carriers Regulations 1999[^c-16cf36115471cfc0886bbf302b25a1f0]
 
 The Licensing of Air Carriers Regulations 1999[^f00029] are revoked.
 
@@ -458,7 +458,7 @@ An impact assessment of the effect that the instrument will have on the costs of
 
 ## Annotations
 
-[^key-16aacbf9d33a16daee9379396eebc769]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2013/486) title omitted (31.12.2020) by virtue of [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-16aacbf9d33a16daee9379396eebc769]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2013/486) title omitted (31.12.2020) by virtue of [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00001]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and section 3(3) of, and Part 1 of the Schedule to, the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
 
@@ -470,59 +470,59 @@ An impact assessment of the effect that the instrument will have on the costs of
 
 [^f00005]: Footnote: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15). The Civil Aviation Authority is a “listed tribunal” for the purposes of Schedule 7 to that Act by virtue of the Administrative Justice and Tribunals Council (Listed Tribunals) Order 2007 ([S.I. 2007/2951](https://www.legislation.gov.uk/uksi/2007/2951)).
 
-[^key-3233fd5a3b4a1724f023e3d72b7f4a3f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/486/regulation/1) in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/486/regulation/1)
+[^c-3233fd5a3b4a1724f023e3d72b7f4a3f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/486/regulation/1) in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/486/regulation/1)
 
-[^key-ac895a8943ba492b999414548619ede8]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2013/486/regulation/1) omitted (31.12.2020) by virtue of [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ac895a8943ba492b999414548619ede8]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2013/486/regulation/1) omitted (31.12.2020) by virtue of [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ad448890ba1e9a7f62e335835683a995]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/486/regulation/2) in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/486/regulation/1)
+[^c-ad448890ba1e9a7f62e335835683a995]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/486/regulation/2) in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/486/regulation/1)
 
-[^key-e31c9b3011542e2501050df8f7bb9514]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/486/regulation/3) in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/486/regulation/1)
+[^c-e31c9b3011542e2501050df8f7bb9514]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/486/regulation/3) in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/486/regulation/1)
 
-[^key-0f7b7643323655667ad05566a46334c9]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2013/486/regulation/3/1) inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 49(2)(b)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/49/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-0f7b7643323655667ad05566a46334c9]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2013/486/regulation/3/1) inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 49(2)(b)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/49/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
 [^f00006]: Footnote: OJ L 178, 17.07.00, p.1.
 
 [^f00007]: Footnote: OJ L 293, 31.10.08, p.3.
 
-[^key-ff13843f84adadd7b3550320a7d54bcc]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2013/486/regulation/3/1) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2020/484/regulation/6/2/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
+[^c-ff13843f84adadd7b3550320a7d54bcc]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2013/486/regulation/3/1) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2020/484/regulation/6/2/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
 
-[^key-63e7297b58bbb0a5357cc33679059091]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2013/486/regulation/3/1) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2020/484/regulation/6/2/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
+[^c-63e7297b58bbb0a5357cc33679059091]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2013/486/regulation/3/1) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2020/484/regulation/6/2/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
 
-[^key-c2eafe8f2b1965991efdbde271556ce0]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2013/486/regulation/3/1) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [6(2)(c)](https://www.legislation.gov.uk/uksi/2020/484/regulation/6/2/c) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
+[^c-c2eafe8f2b1965991efdbde271556ce0]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2013/486/regulation/3/1) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [6(2)(c)](https://www.legislation.gov.uk/uksi/2020/484/regulation/6/2/c) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
 
-[^key-cebeb03c80df97b7108664db28fe2dda]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2013/486/regulation/3/1) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [6(2)(d)](https://www.legislation.gov.uk/uksi/2020/484/regulation/6/2/d) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
+[^c-cebeb03c80df97b7108664db28fe2dda]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2013/486/regulation/3/1) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [6(2)(d)](https://www.legislation.gov.uk/uksi/2020/484/regulation/6/2/d) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
 
-[^key-7a3691d236378482af933747b9f6653b]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2013/486/regulation/3/1) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [6(2)(e)](https://www.legislation.gov.uk/uksi/2020/484/regulation/6/2/e) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
+[^c-7a3691d236378482af933747b9f6653b]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2013/486/regulation/3/1) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [6(2)(e)](https://www.legislation.gov.uk/uksi/2020/484/regulation/6/2/e) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
 
 [^f00009]: Footnote: OJ L 204, 21.7.1998, p.37, as amended by Directive [98/48/EC](https://www.legislation.gov.uk/european/directive/1998/0048) of 20th July 1998 (OJ L 217, 5.8.98, p.18).
 
-[^key-a76283ae83b111a30c4bfcaad42cbb9b]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2013/486/regulation/3/1) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [6(2)(f)](https://www.legislation.gov.uk/uksi/2020/484/regulation/6/2/f) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
+[^c-a76283ae83b111a30c4bfcaad42cbb9b]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2013/486/regulation/3/1) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [6(2)(f)](https://www.legislation.gov.uk/uksi/2020/484/regulation/6/2/f) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
 
-[^key-6b6b86a5ac424654bedf2c7ae4f7d3fd]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2013/486/regulation/3/1) omitted (1.4.2014) by virtue of [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 49(2)(a)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/49/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-6b6b86a5ac424654bedf2c7ae4f7d3fd]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2013/486/regulation/3/1) omitted (1.4.2014) by virtue of [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 49(2)(a)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/49/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-2d01c40b06d1931afa661a27efff2619]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2013/486/regulation/3/2) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/484/regulation/6/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
+[^c-2d01c40b06d1931afa661a27efff2619]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2013/486/regulation/3/2) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/484/regulation/6/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
 
-[^key-fc76d90ccd31dde3e205d46e9f573406]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/486/regulation/4) in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/486/regulation/1)
+[^c-fc76d90ccd31dde3e205d46e9f573406]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/486/regulation/4) in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/486/regulation/1)
 
-[^key-a205747b826c30bc879ce0ca8a78a86f]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/uksi/2013/486/regulation/4) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 49(3)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/49/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-a205747b826c30bc879ce0ca8a78a86f]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/uksi/2013/486/regulation/4) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 49(3)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/49/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-fc72fd09bada2b8d873ea926c711707c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/486/regulation/5) in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/486/regulation/1)
+[^c-fc72fd09bada2b8d873ea926c711707c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/486/regulation/5) in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/486/regulation/1)
 
-[^key-d4a38b92607c469557a45f0fa307e898]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2013/486/regulation/5) heading inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 49(4)(c)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/49/4/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-d4a38b92607c469557a45f0fa307e898]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2013/486/regulation/5) heading inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 49(4)(c)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/49/4/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-ed00401d18741b85cc2a70ed5c4843ae]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2013/486/regulation/5/1) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 49(4)(a)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/49/4/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-ed00401d18741b85cc2a70ed5c4843ae]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2013/486/regulation/5/1) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 49(4)(a)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/49/4/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-40c887fbd2fd663964dc3ad513d6a22a]: Textual amendment: [Reg. 5(1A)](https://www.legislation.gov.uk/uksi/2013/486/regulation/5/1A) inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 49(4)(b)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/49/4/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-40c887fbd2fd663964dc3ad513d6a22a]: Textual amendment: [Reg. 5(1A)](https://www.legislation.gov.uk/uksi/2013/486/regulation/5/1A) inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 49(4)(b)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/49/4/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-a063eabad595ebc932140d30393d94cc]: Textual amendment: [Regs. 6-27](https://www.legislation.gov.uk/uksi/2013/486/regulation/6) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2020/484/regulation/6/4) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
+[^c-a063eabad595ebc932140d30393d94cc]: Textual amendment: [Regs. 6-27](https://www.legislation.gov.uk/uksi/2013/486/regulation/6) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2020/484/regulation/6/4) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
 
-[^key-9c444e39374e50b9c725204420df6779]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/uksi/2013/486/regulation/28) omitted (31.12.2020) by virtue of [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9c444e39374e50b9c725204420df6779]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/uksi/2013/486/regulation/28) omitted (31.12.2020) by virtue of [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-35768fed8a38d0f25df88db9d3ed0ba1]: Textual amendment: [Regs. 29-31](https://www.legislation.gov.uk/uksi/2013/486/regulation/29) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2020/484/regulation/6/5) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
+[^c-35768fed8a38d0f25df88db9d3ed0ba1]: Textual amendment: [Regs. 29-31](https://www.legislation.gov.uk/uksi/2013/486/regulation/29) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2020/484/regulation/6/5) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
 
-[^key-9eb1020d7a6b4eed73dfbdb639e19b92]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2013/486/part/4) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [6(6)](https://www.legislation.gov.uk/uksi/2020/484/regulation/6/6) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
+[^c-9eb1020d7a6b4eed73dfbdb639e19b92]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2013/486/part/4) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [6(6)](https://www.legislation.gov.uk/uksi/2020/484/regulation/6/6) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
 
-[^key-66a95eb75f93cd7ea5f063f53d7a93a3]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2013/486/regulation/37) in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/486/regulation/1)
+[^c-66a95eb75f93cd7ea5f063f53d7a93a3]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2013/486/regulation/37) in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/486/regulation/1)
 
 [^f00020]: Footnote: [S.I. 2009/41](https://www.legislation.gov.uk/uksi/2009/41).
 
@@ -542,6 +542,6 @@ An impact assessment of the effect that the instrument will have on the costs of
 
 [^f00028]: Footnote: [1982 c.16](https://www.legislation.gov.uk/ukpga/1982/16). Section 6 was amended by section 97 of the Transport Act [2000 (c.38)](https://www.legislation.gov.uk/ukpga/2000/38).
 
-[^key-16cf36115471cfc0886bbf302b25a1f0]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2013/486/regulation/38) in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/486/regulation/1)
+[^c-16cf36115471cfc0886bbf302b25a1f0]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2013/486/regulation/38) in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/486/regulation/1)
 
 [^f00029]: Footnote: [S.I. 1999/2245](https://www.legislation.gov.uk/uksi/1999/2245).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Notification to foreign registries by Registrar[^key-04ca722dca3db745b534866ee3fb361d]
+## 86. Notification to foreign registries by Registrar[^c-04ca722dca3db745b534866ee3fb361d]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ The Registrar shall notify the responsible authority for registration of ships i
 
 ## Annotations
 
-[^key-04ca722dca3db745b534866ee3fb361d]: Commencement: [Reg. 86](https://www.legislation.gov.uk/uksi/1993/3138/regulation/86) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-04ca722dca3db745b534866ee3fb361d]: Commencement: [Reg. 86](https://www.legislation.gov.uk/uksi/1993/3138/regulation/86) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

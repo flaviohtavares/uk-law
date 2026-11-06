@@ -36,22 +36,22 @@ concerning the authorisation of a preparation of *Clostridium butyricum* (FERM B
 
 (Text with EEA relevance) (revoked)
 
-[^key-cc83ac8650903de75da120c354f064b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cc83ac8650903de75da120c354f064b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-cc83ac8650903de75da120c354f064b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-cc83ac8650903de75da120c354f064b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-cc83ac8650903de75da120c354f064b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-cc83ac8650903de75da120c354f064b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cc83ac8650903de75da120c354f064b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cc83ac8650903de75da120c354f064b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-cc83ac8650903de75da120c354f064b1]
+## ANNEX[^c-cc83ac8650903de75da120c354f064b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cc83ac8650903de75da120c354f064b1]: Textual amendment: Regulation revoked: (W.) (24.11.2022) by [The Feed Additives (Authorisations) (Wales) Regulations 2022 (S.I. 2022/1118)](https://www.legislation.gov.uk/uksi/2022/1118), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2022/1118/regulation/1/2/c), [Sch. 12](https://www.legislation.gov.uk/uksi/2022/1118/schedule/12) (with [regs. 9](https://www.legislation.gov.uk/uksi/2022/1118/regulation/9), [10(2)-(5)](https://www.legislation.gov.uk/uksi/2022/1118/regulation/10/2), [11](https://www.legislation.gov.uk/uksi/2022/1118/regulation/11)); (S.) (24.11.2022) by [The Feed Additives (Authorisations) (Scotland) Regulations 2022 (S.S.I. 2022/288)](https://www.legislation.gov.uk/ssi/2022/288), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/288/regulation/1/1), [sch. 12 para. 13](https://www.legislation.gov.uk/ssi/2022/288/schedule/12/paragraph/13) (with [regs. 8](https://www.legislation.gov.uk/ssi/2022/288/regulation/8), [9(2)-(5)](https://www.legislation.gov.uk/ssi/2022/288/regulation/9/2), [10](https://www.legislation.gov.uk/ssi/2022/288/regulation/10)); and (E.) (25.11.2022) by [The Feed Additives (Authorisations) (England) Regulations 2022 (S.I. 2022/1129)](https://www.legislation.gov.uk/uksi/2022/1129), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1129/regulation/1), [Sch. 12](https://www.legislation.gov.uk/uksi/2022/1129/schedule/12) (with [reg. 8(2)-(5)](https://www.legislation.gov.uk/uksi/2022/1129/regulation/8), [9](https://www.legislation.gov.uk/uksi/2022/1129/regulation/9), [10](https://www.legislation.gov.uk/uksi/2022/1129/regulation/10))
+[^c-cc83ac8650903de75da120c354f064b1]: Textual amendment: Regulation revoked: (W.) (24.11.2022) by [The Feed Additives (Authorisations) (Wales) Regulations 2022 (S.I. 2022/1118)](https://www.legislation.gov.uk/uksi/2022/1118), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2022/1118/regulation/1/2/c), [Sch. 12](https://www.legislation.gov.uk/uksi/2022/1118/schedule/12) (with [regs. 9](https://www.legislation.gov.uk/uksi/2022/1118/regulation/9), [10(2)-(5)](https://www.legislation.gov.uk/uksi/2022/1118/regulation/10/2), [11](https://www.legislation.gov.uk/uksi/2022/1118/regulation/11)); (S.) (24.11.2022) by [The Feed Additives (Authorisations) (Scotland) Regulations 2022 (S.S.I. 2022/288)](https://www.legislation.gov.uk/ssi/2022/288), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/288/regulation/1/1), [sch. 12 para. 13](https://www.legislation.gov.uk/ssi/2022/288/schedule/12/paragraph/13) (with [regs. 8](https://www.legislation.gov.uk/ssi/2022/288/regulation/8), [9(2)-(5)](https://www.legislation.gov.uk/ssi/2022/288/regulation/9/2), [10](https://www.legislation.gov.uk/ssi/2022/288/regulation/10)); and (E.) (25.11.2022) by [The Feed Additives (Authorisations) (England) Regulations 2022 (S.I. 2022/1129)](https://www.legislation.gov.uk/uksi/2022/1129), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1129/regulation/1), [Sch. 12](https://www.legislation.gov.uk/uksi/2022/1129/schedule/12) (with [reg. 8(2)-(5)](https://www.legislation.gov.uk/uksi/2022/1129/regulation/8), [9](https://www.legislation.gov.uk/uksi/2022/1129/regulation/9), [10](https://www.legislation.gov.uk/uksi/2022/1129/regulation/10))

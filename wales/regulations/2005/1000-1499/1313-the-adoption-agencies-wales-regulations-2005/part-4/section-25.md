@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Requirement to carry out police checks[^key-7f90cd67511442ae5b44192f37dfdffe]
+## 25. Requirement to carry out police checks[^c-7f90cd67511442ae5b44192f37dfdffe]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ notwithstanding that the offences specified in Part 2 of Schedule 3 have been re
 
 ## Annotations
 
-[^key-7f90cd67511442ae5b44192f37dfdffe]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/wsi/2005/1313/part/4) substituted (1.4.2020) by [The Adoption Agencies (Wales) (Amendment) Regulations 2020 (S.I. 2020/163)](https://www.legislation.gov.uk/wsi/2020/163), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/163/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2020/163/regulation/10) (with [reg. 18](https://www.legislation.gov.uk/wsi/2020/163/regulation/18))
+[^c-7f90cd67511442ae5b44192f37dfdffe]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/wsi/2005/1313/part/4) substituted (1.4.2020) by [The Adoption Agencies (Wales) (Amendment) Regulations 2020 (S.I. 2020/163)](https://www.legislation.gov.uk/wsi/2020/163), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/163/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2020/163/regulation/10) (with [reg. 18](https://www.legislation.gov.uk/wsi/2020/163/regulation/18))

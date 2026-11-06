@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Insurance companies: transitional provisions[^key-7c7a08439a0f96f0c05a82e0b3493612]
+## 44. Insurance companies: transitional provisions[^c-7c7a08439a0f96f0c05a82e0b3493612]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c7a08439a0f96f0c05a82e0b3493612]: Textual amendment: S. 44 omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(l)(ii)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/l/ii)
+[^c-7c7a08439a0f96f0c05a82e0b3493612]: Textual amendment: S. 44 omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(l)(ii)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/l/ii)

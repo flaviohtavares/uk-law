@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62B. Same day additions: exceptions[^key-8a3bfcd0f135d91f87b9a0dc71238ba6]
+## 62B. Same day additions: exceptions[^c-8a3bfcd0f135d91f87b9a0dc71238ba6]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a3bfcd0f135d91f87b9a0dc71238ba6]: Textual amendment: [Ss. 62A-62C](https://www.legislation.gov.uk/ukpga/1984/51/section/62A) inserted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2015/33/schedule/1/paragraph/2)
+[^c-8a3bfcd0f135d91f87b9a0dc71238ba6]: Textual amendment: [Ss. 62A-62C](https://www.legislation.gov.uk/ukpga/1984/51/section/62A) inserted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2015/33/schedule/1/paragraph/2)

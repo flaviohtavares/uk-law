@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Powers of entry and obstruction of wardens etc.[^key-17f5643c8ea386beace83698aefbd009]
+## 50. Powers of entry and obstruction of wardens etc.[^c-17f5643c8ea386beace83698aefbd009]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ shall be guilty of an offence, and liable on summary conviction to a fine not ex
 
 ## Annotations
 
-[^key-17f5643c8ea386beace83698aefbd009]: Commencement: S. 50 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-17f5643c8ea386beace83698aefbd009]: Commencement: S. 50 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

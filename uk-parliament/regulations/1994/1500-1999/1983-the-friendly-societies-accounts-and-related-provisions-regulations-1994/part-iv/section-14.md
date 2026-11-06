@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Interpretation of Schedules[^key-b40378c7e022afebe2628c3b0210585d]
+## 14. Interpretation of Schedules[^c-b40378c7e022afebe2628c3b0210585d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 9 has effect for the interpretation of the Schedules to these Regulatio
 
 ## Annotations
 
-[^key-b40378c7e022afebe2628c3b0210585d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1994/1983/regulation/14) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
+[^c-b40378c7e022afebe2628c3b0210585d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1994/1983/regulation/14) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)

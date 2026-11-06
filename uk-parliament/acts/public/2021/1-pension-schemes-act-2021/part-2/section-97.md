@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Publication of information[^c24493561][^key-6f73b77540af48d96ab6008767eb161d]
+## 97. Publication of information[^c24493561][^c-6f73b77540af48d96ab6008767eb161d]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 [^c24493561]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2021/1/section/97) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-6f73b77540af48d96ab6008767eb161d]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2021/1/section/97) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-6f73b77540af48d96ab6008767eb161d]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2021/1/section/97) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)

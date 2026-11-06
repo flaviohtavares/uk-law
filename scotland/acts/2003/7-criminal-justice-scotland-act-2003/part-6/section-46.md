@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Requirement for remote monitoring in probation order[^key-e49474be8c1fd6ac280a866f4aad0962]
+## 46. Requirement for remote monitoring in probation order[^c-e49474be8c1fd6ac280a866f4aad0962]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e49474be8c1fd6ac280a866f4aad0962]: Textual amendment: [S. 46](https://www.legislation.gov.uk/asp/2003/7/section/46) repealed (1.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 2 para. 47(3)](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/47/3); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))
+[^c-e49474be8c1fd6ac280a866f4aad0962]: Textual amendment: [S. 46](https://www.legislation.gov.uk/asp/2003/7/section/46) repealed (1.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 2 para. 47(3)](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/47/3); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))

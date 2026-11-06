@@ -32,7 +32,7 @@ summary: ''
 
 PRISONS, ENGLAND AND WALES
 
-The Criminal Justice Act 2003 (Suitability for Fixed Term Recall) Order 2025 (revoked)[^key-a23205640c5591fcdd14d41bf9ae4295]
+The Criminal Justice Act 2003 (Suitability for Fixed Term Recall) Order 2025 (revoked)[^c-a23205640c5591fcdd14d41bf9ae4295]
 
 Made
 
@@ -40,27 +40,27 @@ Made
 
 Coming into force in accordance with article 2
 
-[^key-a23205640c5591fcdd14d41bf9ae4295]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a23205640c5591fcdd14d41bf9ae4295]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, extent and application[^key-a23205640c5591fcdd14d41bf9ae4295]
+## 1. Citation, extent and application[^c-a23205640c5591fcdd14d41bf9ae4295]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Commencement[^key-a23205640c5591fcdd14d41bf9ae4295]
+## 2. Commencement[^c-a23205640c5591fcdd14d41bf9ae4295]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Further release after recall: suitability for automatic release[^key-a23205640c5591fcdd14d41bf9ae4295]
+## 3. Further release after recall: suitability for automatic release[^c-a23205640c5591fcdd14d41bf9ae4295]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a23205640c5591fcdd14d41bf9ae4295]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a23205640c5591fcdd14d41bf9ae4295]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Schedule[^key-a23205640c5591fcdd14d41bf9ae4295]
+## Schedule[^c-a23205640c5591fcdd14d41bf9ae4295]
 
 Article 3
 
@@ -68,8 +68,8 @@ Article 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-a23205640c5591fcdd14d41bf9ae4295]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a23205640c5591fcdd14d41bf9ae4295]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a23205640c5591fcdd14d41bf9ae4295]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2025/833) revoked (for specified purposes and otherwise coming into force in accordance with reg. 4 of the commencing S.I.) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 33(13)(f)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/13/f), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 33(14)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/14)); [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(iv)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/iv), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)
+[^c-a23205640c5591fcdd14d41bf9ae4295]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2025/833) revoked (for specified purposes and otherwise coming into force in accordance with reg. 4 of the commencing S.I.) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 33(13)(f)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/13/f), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 33(14)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/14)); [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(iv)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/iv), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)

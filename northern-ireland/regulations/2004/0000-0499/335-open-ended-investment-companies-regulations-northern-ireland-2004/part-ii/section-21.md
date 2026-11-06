@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. The Authority’s approval for certain changes in respect of a company[^key-9e6ae29889266ec0a31fd8e6887143c4]
+## 21. The Authority’s approval for certain changes in respect of a company[^c-9e6ae29889266ec0a31fd8e6887143c4]
 
 *Extent: N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 - (e) any proposal to replace a director of the company, to appoint any additional director or to decrease the number of directors in post; and
 - (f) any proposal to replace the depositary of the company.
 
-(2) Any notice given under paragraph (1)(a) must be accompanied by a certificate signed by a solicitor to the effect that the change in question will not affect the compliance of the instrument of incorporation with Schedule 2 and with such of the requirements of FCA rules[^key-17a9141fb993bcb8fc32d9b21cf6070f] as relate to the contents of that instrument.
+(2) Any notice given under paragraph (1)(a) must be accompanied by a certificate signed by a solicitor to the effect that the change in question will not affect the compliance of the instrument of incorporation with Schedule 2 and with such of the requirements of FCA rules[^c-17a9141fb993bcb8fc32d9b21cf6070f] as relate to the contents of that instrument.
 
 (3) Effect must not be given to any proposal falling within paragraph (1) unless –
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9e6ae29889266ec0a31fd8e6887143c4]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2004/335/regulation/21) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-9e6ae29889266ec0a31fd8e6887143c4]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2004/335/regulation/21) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
 
-[^key-17a9141fb993bcb8fc32d9b21cf6070f]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/nisr/2004/335) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 87(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/87/2)
+[^c-17a9141fb993bcb8fc32d9b21cf6070f]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/nisr/2004/335) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 87(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/87/2)

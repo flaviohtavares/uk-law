@@ -44,9 +44,9 @@ summary: ''
   - (ii) is not a judgment or decree in relation to which he is entitled, as respects the whole effect of the judgment or decree upon him, to indemnity or relief from any other person;
 
   and has not produced to the registrar evidence of the satisfaction of such judgment or decree or of his intention to appeal against such judgment or decree; or
-- (k) where he has been adjudged a bankrupt and discharged[^c17112711] or a composition or scheme proposed by the solicitor has been approved under Chapter 2 of Part 8 of the Insolvency (Northern Ireland) Order 1989.[^key-95d9f52596cd636dc68be072de78038e]
-- (l)[^key-5b37db6d57784797bbce5d8099686e17] where he has been the subject of a bankruptcy restrictions order; or
-- (m)[^key-a43922f109210853f1285304ae0c84f9] where a debt relief order has been made in respect of him and at the end of the moratorium period applicable to the order he has been discharged from all the qualifying debts specified in the order; or
+- (k) where he has been adjudged a bankrupt and discharged[^c17112711] or a composition or scheme proposed by the solicitor has been approved under Chapter 2 of Part 8 of the Insolvency (Northern Ireland) Order 1989.[^c-95d9f52596cd636dc68be072de78038e]
+- (l)[^c-5b37db6d57784797bbce5d8099686e17] where he has been the subject of a bankruptcy restrictions order; or
+- (m)[^c-a43922f109210853f1285304ae0c84f9] where a debt relief order has been made in respect of him and at the end of the moratorium period applicable to the order he has been discharged from all the qualifying debts specified in the order; or
 - (n) where he has been the subject of a debt relief restrictions order.
 
 (2) The solicitor shall, unless the registrar or the Lord Chief Justice otherwise orders, give to the registrar, at least three weeks before the application for a practising certificate is made, notice of his intention to make the application.
@@ -63,8 +63,8 @@ summary: ''
 
 [^c17112711]: Textual amendment: [1989 NI 19](https://www.legislation.gov.uk/nisi/1989)
 
-[^key-95d9f52596cd636dc68be072de78038e]: Textual amendment: Words in [art. 13(1)(k)](https://www.legislation.gov.uk/nisi/1976/582/article/13/1/k) substituted (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 3 para. 1](https://www.legislation.gov.uk/nia/2016/2/schedule/3/paragraph/1); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-95d9f52596cd636dc68be072de78038e]: Textual amendment: Words in [art. 13(1)(k)](https://www.legislation.gov.uk/nisi/1976/582/article/13/1/k) substituted (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 3 para. 1](https://www.legislation.gov.uk/nia/2016/2/schedule/3/paragraph/1); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
 
-[^key-5b37db6d57784797bbce5d8099686e17]: Textual amendment: Art. 13(1)(l) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 5(2)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/5/2)
+[^c-5b37db6d57784797bbce5d8099686e17]: Textual amendment: Art. 13(1)(l) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 5(2)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/5/2)
 
-[^key-a43922f109210853f1285304ae0c84f9]: Textual amendment: Art. 13(1)(m)(n) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 7(2)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/7/2)
+[^c-a43922f109210853f1285304ae0c84f9]: Textual amendment: Art. 13(1)(m)(n) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 7(2)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/7/2)

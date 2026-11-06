@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 421A. Power to obtain information[^key-399752c6339be7ca3d69fdcdad0fb245]
+## 421A. Power to obtain information[^c-399752c6339be7ca3d69fdcdad0fb245]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ to provide any further information that the officer reasonably requires with a v
 
 ## Annotations
 
-[^key-399752c6339be7ca3d69fdcdad0fb245]: Textual amendment: S. 421A inserted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 465](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/465) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-399752c6339be7ca3d69fdcdad0fb245]: Textual amendment: S. 421A inserted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 465](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/465) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

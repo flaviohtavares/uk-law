@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-2938230f097ff18e52e1c815581f2607] Section 242 of the National Health Service Act 2006 (public involvement and consultation) is amended as mentioned in subsections (2) to (4) below.
+(1)[^c-2938230f097ff18e52e1c815581f2607] Section 242 of the National Health Service Act 2006 (public involvement and consultation) is amended as mentioned in subsections (2) to (4) below.
 
-(2)[^key-2938230f097ff18e52e1c815581f2607] For subsection (1) (bodies to which section applies) substitute—
+(2)[^c-2938230f097ff18e52e1c815581f2607] For subsection (1) (bodies to which section applies) substitute—
 
 > (1) This section applies to—
 >
@@ -65,11 +65,11 @@ summary: ''
 > - (a) guidance given by the Secretary of State as to when, or how often, involvement under arrangements under subsection (1B) is to be carried out;
 > - (b) guidance given by the Secretary of State as to the form to be taken by such involvement in any case specified by the guidance.
 
-(3)[^key-2938230f097ff18e52e1c815581f2607] In subsection (2) (each body to which section applies must make arrangements), for “body to which this section applies” substitute “ relevant Welsh body ”.
+(3)[^c-2938230f097ff18e52e1c815581f2607] In subsection (2) (each body to which section applies must make arrangements), for “body to which this section applies” substitute “ relevant Welsh body ”.
 
-(4)[^key-2938230f097ff18e52e1c815581f2607] In subsection (5) (directions about arrangements under subsection (2)), for “subsection (2)” substitute “ this section ”.
+(4)[^c-2938230f097ff18e52e1c815581f2607] In subsection (5) (directions about arrangements under subsection (2)), for “subsection (2)” substitute “ this section ”.
 
-(5)[^key-3a6e1e51f285a5b9ec6b4341363db539][^key-ac7a8edd011b1374d7d457e159c02d32][^key-2678e2cd99dc4cd5e001eb5e6c44e340] After that section insert—
+(5)[^c-3a6e1e51f285a5b9ec6b4341363db539][^c-ac7a8edd011b1374d7d457e159c02d32][^c-2678e2cd99dc4cd5e001eb5e6c44e340] After that section insert—
 
 > **242A. Strategic Health Authorities: further duty to involve users**
 >
@@ -102,10 +102,10 @@ summary: ''
 
 ## Annotations
 
-[^key-2938230f097ff18e52e1c815581f2607]: Commencement: S. 233(1)-(4) in force at 3.11.2008 by [S.I. 2008/2434](https://www.legislation.gov.uk/uksi/2008/2434), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2008/2434/article/2/2/a)
+[^c-2938230f097ff18e52e1c815581f2607]: Commencement: S. 233(1)-(4) in force at 3.11.2008 by [S.I. 2008/2434](https://www.legislation.gov.uk/uksi/2008/2434), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2008/2434/article/2/2/a)
 
-[^key-3a6e1e51f285a5b9ec6b4341363db539]: Commencement: S. 233(5) in force at 26.9.2008 for specified purposes by [S.I. 2008/2434](https://www.legislation.gov.uk/uksi/2008/2434), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/2434/article/2/1)
+[^c-3a6e1e51f285a5b9ec6b4341363db539]: Commencement: S. 233(5) in force at 26.9.2008 for specified purposes by [S.I. 2008/2434](https://www.legislation.gov.uk/uksi/2008/2434), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/2434/article/2/1)
 
-[^key-ac7a8edd011b1374d7d457e159c02d32]: Commencement: S. 233(5) in force at 3.11.2008 for specified purposes by [S.I. 2008/2434](https://www.legislation.gov.uk/uksi/2008/2434), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2008/2434/article/2/2/b)
+[^c-ac7a8edd011b1374d7d457e159c02d32]: Commencement: S. 233(5) in force at 3.11.2008 for specified purposes by [S.I. 2008/2434](https://www.legislation.gov.uk/uksi/2008/2434), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2008/2434/article/2/2/b)
 
-[^key-2678e2cd99dc4cd5e001eb5e6c44e340]: Commencement: S. 233(5) in force at 22.2.2010 in so far as not already in force by [S.I. 2010/112](https://www.legislation.gov.uk/uksi/2010/112), [art. 3](https://www.legislation.gov.uk/uksi/2010/112/article/3)
+[^c-2678e2cd99dc4cd5e001eb5e6c44e340]: Commencement: S. 233(5) in force at 22.2.2010 in so far as not already in force by [S.I. 2010/112](https://www.legislation.gov.uk/uksi/2010/112), [art. 3](https://www.legislation.gov.uk/uksi/2010/112/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24.4. Timing of applications and hearing[^key-f30ac654e508e5ceefe71bac04fd4b93]
+## 24.4. Timing of applications and hearing[^c-f30ac654e508e5ceefe71bac04fd4b93]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ the claimant may apply for summary judgment at any time after the claim form has
 
 ## Annotations
 
-[^key-f30ac654e508e5ceefe71bac04fd4b93]: Textual amendment: [Pt. 24](https://www.legislation.gov.uk/uksi/1998/3132/part/24) substituted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/788/schedule/2)
+[^c-f30ac654e508e5ceefe71bac04fd4b93]: Textual amendment: [Pt. 24](https://www.legislation.gov.uk/uksi/1998/3132/part/24) substituted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/788/schedule/2)

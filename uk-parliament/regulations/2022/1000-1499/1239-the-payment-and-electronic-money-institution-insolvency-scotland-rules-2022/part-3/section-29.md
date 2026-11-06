@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Adjournment of meeting to approve the statement of proposals[^key-784b2e2e62c6f78383b34556063ca7e5]
+## 29. Adjournment of meeting to approve the statement of proposals[^c-784b2e2e62c6f78383b34556063ca7e5]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-784b2e2e62c6f78383b34556063ca7e5]: Commencement: Rule 29 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-784b2e2e62c6f78383b34556063ca7e5]: Commencement: Rule 29 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

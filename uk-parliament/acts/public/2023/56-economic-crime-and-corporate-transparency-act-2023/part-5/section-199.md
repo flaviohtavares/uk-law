@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 199. Failure to prevent fraud[^key-d8c75684f35be7b2fd2fd36c045f30b5][^key-bea4fbd08c7d9f24b3312f3b76a8e8ac]
+## 199. Failure to prevent fraud[^c-d8c75684f35be7b2fd2fd36c045f30b5][^c-bea4fbd08c7d9f24b3312f3b76a8e8ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -81,6 +81,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d8c75684f35be7b2fd2fd36c045f30b5]: Commencement: S. 199 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-d8c75684f35be7b2fd2fd36c045f30b5]: Commencement: S. 199 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-bea4fbd08c7d9f24b3312f3b76a8e8ac]: Commencement: [S. 199](https://www.legislation.gov.uk/ukpga/2023/56/section/199) in force at 1.9.2025 in so far as not already in force by [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 3](https://www.legislation.gov.uk/uksi/2025/349/regulation/3)
+[^c-bea4fbd08c7d9f24b3312f3b76a8e8ac]: Commencement: [S. 199](https://www.legislation.gov.uk/ukpga/2023/56/section/199) in force at 1.9.2025 in so far as not already in force by [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 3](https://www.legislation.gov.uk/uksi/2025/349/regulation/3)

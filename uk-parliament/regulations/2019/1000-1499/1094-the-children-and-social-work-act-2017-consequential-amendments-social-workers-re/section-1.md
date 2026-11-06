@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-5ab826140cce6b7fff3a0c2c188252df]
+## 1. Citation and commencement[^c-5ab826140cce6b7fff3a0c2c188252df]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ These Regulations may be cited as the Children and Social Work Act 2017 (Consequ
 
 ## Annotations
 
-[^key-5ab826140cce6b7fff3a0c2c188252df]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1) in force at 2.12.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1)
+[^c-5ab826140cce6b7fff3a0c2c188252df]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1) in force at 2.12.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1)
 
 [^f00002]: Footnote: Section 36 of the Children and Social Work Act 2017 (“the Act”) established a body corporate, Social Work England, as the regulator of social workers in England, in place of the Health and Care Professions Council. The Social Workers Regulations 2018 ([S.I. 2018/893](https://www.legislation.gov.uk/uksi/2018/893)), made under Part 2 of the Act, make further provision about the functions of Social Work England, and also come into force on the date when section 39(1) of the Act (which requires the regulator to maintain the register of social workers in England) comes into force.

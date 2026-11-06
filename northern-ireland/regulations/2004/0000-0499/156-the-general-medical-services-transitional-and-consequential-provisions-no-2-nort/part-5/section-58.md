@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 58. Matters relating to the medical practitioner[^key-ec88692abc4c8cec7079443bc3009714]
+## 58. Matters relating to the medical practitioner[^c-ec88692abc4c8cec7079443bc3009714]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec88692abc4c8cec7079443bc3009714]: Commencement: Art. 58 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-ec88692abc4c8cec7079443bc3009714]: Commencement: Art. 58 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

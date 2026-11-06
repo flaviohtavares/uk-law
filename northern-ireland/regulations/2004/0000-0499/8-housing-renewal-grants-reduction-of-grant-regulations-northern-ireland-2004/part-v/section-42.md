@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Interpretation[^key-e36474e621b24561922130bc8b1a34c5]
+## 42. Interpretation[^c-e36474e621b24561922130bc8b1a34c5]
 
 *Extent: N.I.*
 
@@ -49,7 +49,7 @@ In this Part, unless the context otherwise requires –
 
 ## Annotations
 
-[^key-e36474e621b24561922130bc8b1a34c5]: Commencement: Reg. 42 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-e36474e621b24561922130bc8b1a34c5]: Commencement: Reg. 42 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
 
 [^f00083]: Footnote: [S.I. 1993/2810 (N.I. 12)](https://www.legislation.gov.uk/nisi/1993/2810); Article 30 was amended by Schedule 4 to [S.I. 1997/1772 (N.I. 15)](https://www.legislation.gov.uk/nisi/1997/1772)
 

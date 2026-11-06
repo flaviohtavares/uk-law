@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Maritime enforcement powers: supplementary: protective searches[^c22719271][^key-2e5295d9a9693342c8d58b5785509b0a]
+## 91. Maritime enforcement powers: supplementary: protective searches[^c22719271][^c-2e5295d9a9693342c8d58b5785509b0a]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^c22719271]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2017/3/section/91) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-2e5295d9a9693342c8d58b5785509b0a]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2017/3/section/91) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/227/article/2/d)
+[^c-2e5295d9a9693342c8d58b5785509b0a]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2017/3/section/91) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/227/article/2/d)

@@ -29,20 +29,20 @@ summary: ''
 (4) The grounds are—
 
 - (a) that the person is not of voting age;
-- (b) that the person is not or was not at any particular time[^key-193c84d64ceb75b8287bd4362385bbfa]—
+- (b) that the person is not or was not at any particular time[^c-193c84d64ceb75b8287bd4362385bbfa]—
   - (i) a Commonwealth citizen,
   - (ii) a citizen of the Republic of Ireland,
-  - (iii)[^key-55fb0a4fa5fa00fbd4a3a910a5f24b54] a qualifying EU citizen or an EU citizen with retained rights;
-- (c) that the person is or was at any particular time[^key-1686973cb2df99cda8400e5cab466fa2] otherwise subject to any other legal incapacity to vote.
+  - (iii)[^c-55fb0a4fa5fa00fbd4a3a910a5f24b54] a qualifying EU citizen or an EU citizen with retained rights;
+- (c) that the person is or was at any particular time[^c-1686973cb2df99cda8400e5cab466fa2] otherwise subject to any other legal incapacity to vote.
 
-(5)[^key-0b6101ca34bc46a203275e5470b865ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-0b6101ca34bc46a203275e5470b865ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-193c84d64ceb75b8287bd4362385bbfa]: Textual amendment: Words in [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2012/1917/article/4/4/b) substituted (10.6.2014) by [The Police and Crime Commissioner Elections (Amendment) Order 2014 (S.I. 2014/921)](https://www.legislation.gov.uk/uksi/2014/921), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2014/921/article/1/4), [4(1)(a)](https://www.legislation.gov.uk/uksi/2014/921/article/4/1/a)
+[^c-193c84d64ceb75b8287bd4362385bbfa]: Textual amendment: Words in [art. 4(4)(b)](https://www.legislation.gov.uk/uksi/2012/1917/article/4/4/b) substituted (10.6.2014) by [The Police and Crime Commissioner Elections (Amendment) Order 2014 (S.I. 2014/921)](https://www.legislation.gov.uk/uksi/2014/921), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2014/921/article/1/4), [4(1)(a)](https://www.legislation.gov.uk/uksi/2014/921/article/4/1/a)
 
-[^key-55fb0a4fa5fa00fbd4a3a910a5f24b54]: Textual amendment: [Art. 4(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2012/1917/article/4/4/b/iii) substituted (7.5.2024) by [The Representation of the People (Franchise Amendment and Eligibility Review) Regulations 2023 (S.I. 2023/1150)](https://www.legislation.gov.uk/uksi/2023/1150), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1150/regulation/1/2), [36(4)](https://www.legislation.gov.uk/uksi/2023/1150/regulation/36/4)
+[^c-55fb0a4fa5fa00fbd4a3a910a5f24b54]: Textual amendment: [Art. 4(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2012/1917/article/4/4/b/iii) substituted (7.5.2024) by [The Representation of the People (Franchise Amendment and Eligibility Review) Regulations 2023 (S.I. 2023/1150)](https://www.legislation.gov.uk/uksi/2023/1150), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1150/regulation/1/2), [36(4)](https://www.legislation.gov.uk/uksi/2023/1150/regulation/36/4)
 
-[^key-1686973cb2df99cda8400e5cab466fa2]: Textual amendment: Words in [art. 4(4)(c)](https://www.legislation.gov.uk/uksi/2012/1917/article/4/4/c) substituted (10.6.2014) by [The Police and Crime Commissioner Elections (Amendment) Order 2014 (S.I. 2014/921)](https://www.legislation.gov.uk/uksi/2014/921), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2014/921/article/1/4), [4(1)(b)](https://www.legislation.gov.uk/uksi/2014/921/article/4/1/b)
+[^c-1686973cb2df99cda8400e5cab466fa2]: Textual amendment: Words in [art. 4(4)(c)](https://www.legislation.gov.uk/uksi/2012/1917/article/4/4/c) substituted (10.6.2014) by [The Police and Crime Commissioner Elections (Amendment) Order 2014 (S.I. 2014/921)](https://www.legislation.gov.uk/uksi/2014/921), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2014/921/article/1/4), [4(1)(b)](https://www.legislation.gov.uk/uksi/2014/921/article/4/1/b)
 
-[^key-0b6101ca34bc46a203275e5470b865ab]: Textual amendment: [Art. 4(5)](https://www.legislation.gov.uk/uksi/2012/1917/article/4/5) omitted (10.6.2014) by virtue of [The Police and Crime Commissioner Elections (Amendment) Order 2014 (S.I. 2014/921)](https://www.legislation.gov.uk/uksi/2014/921), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2014/921/article/1/4), [4(2)](https://www.legislation.gov.uk/uksi/2014/921/article/4/2)
+[^c-0b6101ca34bc46a203275e5470b865ab]: Textual amendment: [Art. 4(5)](https://www.legislation.gov.uk/uksi/2012/1917/article/4/5) omitted (10.6.2014) by virtue of [The Police and Crime Commissioner Elections (Amendment) Order 2014 (S.I. 2014/921)](https://www.legislation.gov.uk/uksi/2014/921), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2014/921/article/1/4), [4(2)](https://www.legislation.gov.uk/uksi/2014/921/article/4/2)

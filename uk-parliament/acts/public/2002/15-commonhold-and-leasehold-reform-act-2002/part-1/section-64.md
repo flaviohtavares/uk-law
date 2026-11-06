@@ -22,7 +22,7 @@ summary: ''
 
 (1) In this Part “**prescribed**” means prescribed by regulations.
 
-(2) Regulations under this Part shall be made by the Secretary of State[^key-6ca1f243ed0c9f3c09067e6eaece2c93].
+(2) Regulations under this Part shall be made by the Secretary of State[^c-6ca1f243ed0c9f3c09067e6eaece2c93].
 
 (3) Regulations under this Part—
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ca1f243ed0c9f3c09067e6eaece2c93]: Textual amendment: Words in s. 64(2) substituted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 10(c)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/10/c) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+[^c-6ca1f243ed0c9f3c09067e6eaece2c93]: Textual amendment: Words in s. 64(2) substituted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 10(c)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/10/c) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))

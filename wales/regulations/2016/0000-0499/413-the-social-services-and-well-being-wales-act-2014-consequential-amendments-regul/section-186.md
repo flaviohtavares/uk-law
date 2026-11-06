@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**186.**[^key-31747c1f28184c712a672ec3cc2a3fbd] In section 59(1)[^f00184] (definitions)—
+**186.**[^c-31747c1f28184c712a672ec3cc2a3fbd] In section 59(1)[^f00184] (definitions)—
 
 - (a) in the definition of “community care services” omit paragraph (a).
 - (b) in the definition of “local authority”—
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-31747c1f28184c712a672ec3cc2a3fbd]: Commencement: Reg. 186 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-31747c1f28184c712a672ec3cc2a3fbd]: Commencement: Reg. 186 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00184]: Footnote: In section 59(1), the definitions of “community care services” and “local authority” were amended by [S.I. 2015/914](https://www.legislation.gov.uk/uksi/2015/914), Schedule, paragraphs 62, 66(1), (2), (3)(a) and (b).

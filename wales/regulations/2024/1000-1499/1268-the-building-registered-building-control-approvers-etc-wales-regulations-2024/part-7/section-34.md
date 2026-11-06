@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Contravention of professional conduct rules[^key-b6cac616a82ed69ed323e8a6def7159e]
+## 34. Contravention of professional conduct rules[^c-b6cac616a82ed69ed323e8a6def7159e]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ For the purposes of section 58U(4)(b)(ii) of the 1984 Act, where the Welsh Minis
 
 ## Annotations
 
-[^key-b6cac616a82ed69ed323e8a6def7159e]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2024/1268/regulation/34) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-b6cac616a82ed69ed323e8a6def7159e]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2024/1268/regulation/34) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
 
 [^f00044]: Footnote: In relation to Wales, the Welsh Ministers are the regulatory authority. See section 58A(b) of the Building Act 1984.

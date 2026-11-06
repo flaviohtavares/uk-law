@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165. Levy.[^key-f61fa64b1e05f415c87e8f8530cb3363][^key-6aecab5553b48ec64ea2291a3eb145da]
+## 165. Levy.[^c-f61fa64b1e05f415c87e8f8530cb3363][^c-6aecab5553b48ec64ea2291a3eb145da]
 
 *Extent: E+W+S*
 
@@ -72,6 +72,6 @@ For section 175 of the Pension Schemes Act 1993 (levies towards meeting certain 
 
 ## Annotations
 
-[^key-f61fa64b1e05f415c87e8f8530cb3363]: Commencement: S. 165 in force at 16.10.1996 for specified purposes by [S.I. 1996/2637](https://www.legislation.gov.uk/uksi/1996/2637), [art. 3](https://www.legislation.gov.uk/uksi/1996/2637/article/3)
+[^c-f61fa64b1e05f415c87e8f8530cb3363]: Commencement: S. 165 in force at 16.10.1996 for specified purposes by [S.I. 1996/2637](https://www.legislation.gov.uk/uksi/1996/2637), [art. 3](https://www.legislation.gov.uk/uksi/1996/2637/article/3)
 
-[^key-6aecab5553b48ec64ea2291a3eb145da]: Commencement: S. 165 in force at 1.4.1997 in so far as not already in force by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/664/article/2/2), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/I)
+[^c-6aecab5553b48ec64ea2291a3eb145da]: Commencement: S. 165 in force at 1.4.1997 in so far as not already in force by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/664/article/2/2), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/I)

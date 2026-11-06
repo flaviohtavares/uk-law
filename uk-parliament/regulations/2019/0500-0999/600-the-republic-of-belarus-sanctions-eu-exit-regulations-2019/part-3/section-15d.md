@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15D. Interpretation of terms relating to other financial restrictions[^key-259b078ee073881bbd9447845e718ca6]
+## 15D. Interpretation of terms relating to other financial restrictions[^c-259b078ee073881bbd9447845e718ca6]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
   - (e) any State Committee of Belarus;
   - (f) the National Bank of Belarus; and
   - (g) any local government body of Belarus, including the Councils of Deputies and Executive Committees;
-- “[^key-e5f536d36c5464a3fb59bb2334066a58]**branch**” means, in relation to a credit or financial institution, a place of business which forms a legally dependent part of that institution and which carries out all or some of the transactions inherent in the business of that institution;
+- “[^c-e5f536d36c5464a3fb59bb2334066a58]**branch**” means, in relation to a credit or financial institution, a place of business which forms a legally dependent part of that institution and which carries out all or some of the transactions inherent in the business of that institution;
 - “credit or financial institution” means—
   - (a) a person, other than an individual, which would satisfy the threshold conditions for permission under Part 4A of the Financial Services and Markets Act 2000 if it had its registered office (or if it does not have one, its head office) in the United Kingdom; or
   - (b) an undertaking which by way of business—
@@ -71,12 +71,12 @@ summary: ''
 
 (5) Schedule 1 applies for the purpose of interpreting paragraphs (3) and (4).
 
-(6)[^key-2bb17e0365b24e9774b8ddd9647e0721] In this Chapter, the definition of “credit or financial institution” is to be read with section 22 of the Financial Services and Markets Act 2000, any relevant order under that section and Schedule 2 to that Act.
+(6)[^c-2bb17e0365b24e9774b8ddd9647e0721] In this Chapter, the definition of “credit or financial institution” is to be read with section 22 of the Financial Services and Markets Act 2000, any relevant order under that section and Schedule 2 to that Act.
 
 ## Annotations
 
-[^key-259b078ee073881bbd9447845e718ca6]: Textual amendment: [Pt. 3 Ch. 2](https://www.legislation.gov.uk/uksi/2019/600/part/3/chapter/2) inserted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2021/1146/regulation/8)
+[^c-259b078ee073881bbd9447845e718ca6]: Textual amendment: [Pt. 3 Ch. 2](https://www.legislation.gov.uk/uksi/2019/600/part/3/chapter/2) inserted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2021/1146/regulation/8)
 
-[^key-e5f536d36c5464a3fb59bb2334066a58]: Textual amendment: Words in [reg. 15D(1)](https://www.legislation.gov.uk/uksi/2019/600/regulation/15D/1) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2022/748/regulation/14/a)
+[^c-e5f536d36c5464a3fb59bb2334066a58]: Textual amendment: Words in [reg. 15D(1)](https://www.legislation.gov.uk/uksi/2019/600/regulation/15D/1) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2022/748/regulation/14/a)
 
-[^key-2bb17e0365b24e9774b8ddd9647e0721]: Textual amendment: [Reg. 15D(6)](https://www.legislation.gov.uk/uksi/2019/600/regulation/15D/6) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [14(b)](https://www.legislation.gov.uk/uksi/2022/748/regulation/14/b)
+[^c-2bb17e0365b24e9774b8ddd9647e0721]: Textual amendment: [Reg. 15D(6)](https://www.legislation.gov.uk/uksi/2019/600/regulation/15D/6) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [14(b)](https://www.legislation.gov.uk/uksi/2022/748/regulation/14/b)

@@ -35,14 +35,14 @@ implementing Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring 
 
 (2013/797/EU) (revoked)
 
-[^key-b3ca64a1c3323c9f287ce9b56600161b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b3ca64a1c3323c9f287ce9b56600161b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-b3ca64a1c3323c9f287ce9b56600161b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-b3ca64a1c3323c9f287ce9b56600161b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-b3ca64a1c3323c9f287ce9b56600161b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-b3ca64a1c3323c9f287ce9b56600161b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b3ca64a1c3323c9f287ce9b56600161b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b3ca64a1c3323c9f287ce9b56600161b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b3ca64a1c3323c9f287ce9b56600161b]: Textual amendment: Decision revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [35(a)](https://www.legislation.gov.uk/uksi/2019/710/regulation/35/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b3ca64a1c3323c9f287ce9b56600161b]: Textual amendment: Decision revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [35(a)](https://www.legislation.gov.uk/uksi/2019/710/regulation/35/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

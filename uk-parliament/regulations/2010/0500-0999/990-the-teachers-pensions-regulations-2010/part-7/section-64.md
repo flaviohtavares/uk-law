@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 64. Interpretation: abatement of pension[^key-7dab7498a4c720d7dd3a3a72c615122f]
+## 64. Interpretation: abatement of pension[^c-7dab7498a4c720d7dd3a3a72c615122f]
 
 *Extent: E+W+S*
 
@@ -47,7 +47,7 @@ In this regulation and regulations 64A to 64D—
 - “**pension receipts**” means the sum of a person's retirement pension—
   - (a) including—
     - (i) phased retirement pension,
-    - (ii) a pension (or part of a pension) which is payable to the person (P) by reason of Cases A, D or E applying to P's reckonable service, including mandatory compensation for premature retirement of the Teachers (Compensation for Redundancy and Premature Retirement) Regulations 2015[^key-7b7b5e665b0cabe90d510a7770f36cce], and compensation payable under regulation 18 (entitlement of credited teacher to compensation)[^key-2f0c90f187256b68c07c930f85bd01c1] of those Regulations.
+    - (ii) a pension (or part of a pension) which is payable to the person (P) by reason of Cases A, D or E applying to P's reckonable service, including mandatory compensation for premature retirement of the Teachers (Compensation for Redundancy and Premature Retirement) Regulations 2015[^c-7b7b5e665b0cabe90d510a7770f36cce], and compensation payable under regulation 18 (entitlement of credited teacher to compensation)[^c-2f0c90f187256b68c07c930f85bd01c1] of those Regulations.
     - (iii) a pension specified in regulation 7(10),
     - (iv) retirement benefits defined in and payable under the Teachers' Pension Scheme Regulations 2014, and
   - (b) excluding additional pension, and
@@ -57,8 +57,8 @@ In this regulation and regulations 64A to 64D—
 
 ## Annotations
 
-[^key-7dab7498a4c720d7dd3a3a72c615122f]: Textual amendment: [Regs. 64-64D](https://www.legislation.gov.uk/uksi/2010/990/regulation/64) substituted for [reg. 64](https://www.legislation.gov.uk/uksi/2010/990/regulation/64) (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [15](https://www.legislation.gov.uk/uksi/2014/2651/regulation/15)
+[^c-7dab7498a4c720d7dd3a3a72c615122f]: Textual amendment: [Regs. 64-64D](https://www.legislation.gov.uk/uksi/2010/990/regulation/64) substituted for [reg. 64](https://www.legislation.gov.uk/uksi/2010/990/regulation/64) (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [15](https://www.legislation.gov.uk/uksi/2014/2651/regulation/15)
 
-[^key-7b7b5e665b0cabe90d510a7770f36cce]: Textual amendment: Words in [reg. 64](https://www.legislation.gov.uk/uksi/2010/990/regulation/64) substituted (1.4.2015) by [The Teachers (Compensation for Redundancy and Premature Retirement) Regulations 2015 (S.I. 2015/601)](https://www.legislation.gov.uk/uksi/2015/601), [regs. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1), [42(b)(i)](https://www.legislation.gov.uk/uksi/2015/601/regulation/42/b/i) (with [reg. 44(2)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/2)[(3)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/3))
+[^c-7b7b5e665b0cabe90d510a7770f36cce]: Textual amendment: Words in [reg. 64](https://www.legislation.gov.uk/uksi/2010/990/regulation/64) substituted (1.4.2015) by [The Teachers (Compensation for Redundancy and Premature Retirement) Regulations 2015 (S.I. 2015/601)](https://www.legislation.gov.uk/uksi/2015/601), [regs. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1), [42(b)(i)](https://www.legislation.gov.uk/uksi/2015/601/regulation/42/b/i) (with [reg. 44(2)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/2)[(3)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/3))
 
-[^key-2f0c90f187256b68c07c930f85bd01c1]: Textual amendment: Words in [reg. 64](https://www.legislation.gov.uk/uksi/2010/990/regulation/64) substituted (1.4.2015) by [The Teachers (Compensation for Redundancy and Premature Retirement) Regulations 2015 (S.I. 2015/601)](https://www.legislation.gov.uk/uksi/2015/601), [regs. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1), [42(b)(ii)](https://www.legislation.gov.uk/uksi/2015/601/regulation/42/b/ii) (with [reg. 44(2)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/2)[(3)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/3))
+[^c-2f0c90f187256b68c07c930f85bd01c1]: Textual amendment: Words in [reg. 64](https://www.legislation.gov.uk/uksi/2010/990/regulation/64) substituted (1.4.2015) by [The Teachers (Compensation for Redundancy and Premature Retirement) Regulations 2015 (S.I. 2015/601)](https://www.legislation.gov.uk/uksi/2015/601), [regs. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1), [42(b)(ii)](https://www.legislation.gov.uk/uksi/2015/601/regulation/42/b/ii) (with [reg. 44(2)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/2)[(3)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/3))

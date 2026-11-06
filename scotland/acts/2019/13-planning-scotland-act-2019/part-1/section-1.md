@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Purpose of planning[^key-226e24a98feb1b56391e370eb2ede032]
+## 1. Purpose of planning[^c-226e24a98feb1b56391e370eb2ede032]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-226e24a98feb1b56391e370eb2ede032]: Commencement: S. 1 in force at 8.11.2019 by [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/314/schedule)
+[^c-226e24a98feb1b56391e370eb2ede032]: Commencement: S. 1 in force at 8.11.2019 by [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/314/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Persons detained in youth accommodation: application of provisions[^key-1b85e6867594a7bf7c01e93cb59435c2][^key-43706cb19132b5f06cfd28981a07f0c3]
+## 49. Persons detained in youth accommodation: application of provisions[^c-1b85e6867594a7bf7c01e93cb59435c2][^c-43706cb19132b5f06cfd28981a07f0c3]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1b85e6867594a7bf7c01e93cb59435c2]: Commencement: S. 49 in force at 1.9.2010 for specified purposes for E. by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 6](https://www.legislation.gov.uk/uksi/2010/303/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/303/schedule/5) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
+[^c-1b85e6867594a7bf7c01e93cb59435c2]: Commencement: S. 49 in force at 1.9.2010 for specified purposes for E. by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 6](https://www.legislation.gov.uk/uksi/2010/303/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/303/schedule/5) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
 
-[^key-43706cb19132b5f06cfd28981a07f0c3]: Commencement: S. 49 in force at 1.4.2011 for specified purposes for W. by [S.I. 2011/829](https://www.legislation.gov.uk/uksi/2011/829), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/829/article/2/a)
+[^c-43706cb19132b5f06cfd28981a07f0c3]: Commencement: S. 49 in force at 1.4.2011 for specified purposes for W. by [S.I. 2011/829](https://www.legislation.gov.uk/uksi/2011/829), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/829/article/2/a)

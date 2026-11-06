@@ -20,23 +20,23 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-c90eab695bbfc0cb56a7e0e3a217559a] Where intoxicating liquor is supplied in the premises of a registered club during the permitted hours, Article 22 shall not prohibit—
+(1)[^c-c90eab695bbfc0cb56a7e0e3a217559a] Where intoxicating liquor is supplied in the premises of a registered club during the permitted hours, Article 22 shall not prohibit—
 
-- (a) during the first 60 minutes[^key-c25c25e7b20d9151d1ac1d5e7a7b57d9] after the conclusion of the permitted hours, [^key-27719c0b4e0e6b08045855b9739494d2]...
-- (b)[^key-27719c0b4e0e6b08045855b9739494d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) during the first 60 minutes[^c-c25c25e7b20d9151d1ac1d5e7a7b57d9] after the conclusion of the permitted hours, [^c-27719c0b4e0e6b08045855b9739494d2]...
+- (b)[^c-27719c0b4e0e6b08045855b9739494d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 the consumption or permitting consumption of the liquor in those premises.
 
-(2)[^key-f4c0dc7eabcee142d342597ed926653a] Regulations may modify paragraph (1)(a) so as to substitute “30 minutes” for “60 minutes”.
+(2)[^c-f4c0dc7eabcee142d342597ed926653a] Regulations may modify paragraph (1)(a) so as to substitute “30 minutes” for “60 minutes”.
 
 (3) Regulations may not be made under paragraph (2) unless a draft of the regulations has been laid before, and approved by a resolution of, the Assembly.
 
 ## Annotations
 
-[^key-c90eab695bbfc0cb56a7e0e3a217559a]: Textual amendment: Art. 25(1): art. 25 renumbered as art. 25(1) (1.10.2021) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 32(1)](https://www.legislation.gov.uk/nia/2021/7/section/32/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
+[^c-c90eab695bbfc0cb56a7e0e3a217559a]: Textual amendment: Art. 25(1): art. 25 renumbered as art. 25(1) (1.10.2021) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 32(1)](https://www.legislation.gov.uk/nia/2021/7/section/32/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
 
-[^key-c25c25e7b20d9151d1ac1d5e7a7b57d9]: Textual amendment: Words in art. 25(1)(a) substituted (1.10.2021) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 32(1)](https://www.legislation.gov.uk/nia/2021/7/section/32/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
+[^c-c25c25e7b20d9151d1ac1d5e7a7b57d9]: Textual amendment: Words in art. 25(1)(a) substituted (1.10.2021) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 32(1)](https://www.legislation.gov.uk/nia/2021/7/section/32/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
 
-[^key-27719c0b4e0e6b08045855b9739494d2]: Textual amendment: Art. 25(b) and word repealed (1.10.2021) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 30(3)](https://www.legislation.gov.uk/nia/2021/7/section/30/3), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2), [Sch. 2](https://www.legislation.gov.uk/nia/2021/7/schedule/2); [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
+[^c-27719c0b4e0e6b08045855b9739494d2]: Textual amendment: Art. 25(b) and word repealed (1.10.2021) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 30(3)](https://www.legislation.gov.uk/nia/2021/7/section/30/3), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2), [Sch. 2](https://www.legislation.gov.uk/nia/2021/7/schedule/2); [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
 
-[^key-f4c0dc7eabcee142d342597ed926653a]: Textual amendment: Art. 25(2)(3) inserted (1.10.2021) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 32(2)](https://www.legislation.gov.uk/nia/2021/7/section/32/2), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
+[^c-f4c0dc7eabcee142d342597ed926653a]: Textual amendment: Art. 25(2)(3) inserted (1.10.2021) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 32(2)](https://www.legislation.gov.uk/nia/2021/7/section/32/2), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)

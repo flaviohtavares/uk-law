@@ -31,7 +31,7 @@ summary: ''
 
 LONDON GOVERNMENT
 
-The London Port Health Authority Order 1965 (revoked)[^key-d6e70a4a71868d19643caad90e874ab7]
+The London Port Health Authority Order 1965 (revoked)[^c-d6e70a4a71868d19643caad90e874ab7]
 
 Made
 
@@ -41,41 +41,41 @@ Coming into Operation
 
 1st April 1965
 
-[^key-d6e70a4a71868d19643caad90e874ab7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6e70a4a71868d19643caad90e874ab7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, Commencement and Interpretation[^key-d6e70a4a71868d19643caad90e874ab7]
+## 1. Citation, Commencement and Interpretation[^c-d6e70a4a71868d19643caad90e874ab7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Jurisdiction[^key-d6e70a4a71868d19643caad90e874ab7]
+## 2. Jurisdiction[^c-d6e70a4a71868d19643caad90e874ab7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Functions assigned to the Port Health Authority[^key-d6e70a4a71868d19643caad90e874ab7]
+## 3. Functions assigned to the Port Health Authority[^c-d6e70a4a71868d19643caad90e874ab7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-d6e70a4a71868d19643caad90e874ab7]
+## 4. Revocation[^c-d6e70a4a71868d19643caad90e874ab7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d6e70a4a71868d19643caad90e874ab7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6e70a4a71868d19643caad90e874ab7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Functions Assigned to the Common Council as Port Health Authority[^key-d6e70a4a71868d19643caad90e874ab7]
+## SCHEDULE 1 — Functions Assigned to the Common Council as Port Health Authority[^c-d6e70a4a71868d19643caad90e874ab7]
 
-### Part I[^key-d6e70a4a71868d19643caad90e874ab7]
+### Part I[^c-d6e70a4a71868d19643caad90e874ab7]
 
 Article 3
 
-### Part II[^key-d6e70a4a71868d19643caad90e874ab7]
+### Part II[^c-d6e70a4a71868d19643caad90e874ab7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-d6e70a4a71868d19643caad90e874ab7]
+## SCHEDULE 2[^c-d6e70a4a71868d19643caad90e874ab7]
 
 Article 4
 
@@ -83,8 +83,8 @@ Article 4
 
 **May not be in force at this date. Check the source.**
 
-[^key-d6e70a4a71868d19643caad90e874ab7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6e70a4a71868d19643caad90e874ab7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d6e70a4a71868d19643caad90e874ab7]: Textual amendment: Order revoked (7.11.2024) by [The London Port Health Authority Order 2024 (S.I. 2024/1161)](https://www.legislation.gov.uk/uksi/2024/1161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1161/article/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2024/1161/article/5/1) (with [arts. 4(3)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/3), [5(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/5/2))
+[^c-d6e70a4a71868d19643caad90e874ab7]: Textual amendment: Order revoked (7.11.2024) by [The London Port Health Authority Order 2024 (S.I. 2024/1161)](https://www.legislation.gov.uk/uksi/2024/1161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1161/article/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2024/1161/article/5/1) (with [arts. 4(3)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/3), [5(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/5/2))

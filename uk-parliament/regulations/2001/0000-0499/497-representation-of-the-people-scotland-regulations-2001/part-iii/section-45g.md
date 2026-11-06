@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45G. Certificate of anonymous registration prescribed for purposes of paragraph 10(2) of Schedule 2A[^key-baaf7940a1adbab47a3f8a87b936ffb3]
+## 45G. Certificate of anonymous registration prescribed for purposes of paragraph 10(2) of Schedule 2A[^c-baaf7940a1adbab47a3f8a87b936ffb3]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-baaf7940a1adbab47a3f8a87b936ffb3]: Textual amendment: [Reg. 45G](https://www.legislation.gov.uk/uksi/2001/497/regulation/45G) revoked (15.9.2014) by [The Donations to Candidates (Anonymous Registration) Regulations 2014 (S.I. 2014/1805)](https://www.legislation.gov.uk/uksi/2014/1805), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1805/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2014/1805/regulation/3/b)
+[^c-baaf7940a1adbab47a3f8a87b936ffb3]: Textual amendment: [Reg. 45G](https://www.legislation.gov.uk/uksi/2001/497/regulation/45G) revoked (15.9.2014) by [The Donations to Candidates (Anonymous Registration) Regulations 2014 (S.I. 2014/1805)](https://www.legislation.gov.uk/uksi/2014/1805), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1805/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2014/1805/regulation/3/b)

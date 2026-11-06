@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 189. Meaning of “dual capacity member”[^key-6b01bbc9644c7004ff2919d66674a81d]
+## 189. Meaning of “dual capacity member”[^c-6b01bbc9644c7004ff2919d66674a81d]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b01bbc9644c7004ff2919d66674a81d]: Commencement: Reg. 189 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-6b01bbc9644c7004ff2919d66674a81d]: Commencement: Reg. 189 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

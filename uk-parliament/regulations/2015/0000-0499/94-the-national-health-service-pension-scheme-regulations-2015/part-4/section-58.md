@@ -31,11 +31,11 @@ summary: ''
 
 (4) An additional pension election must not be made at any time when M is absent from work for any reason.
 
-(5)[^key-29d372fb6701b7374fc029ff00b689e4] For the purposes of this Chapter—
+(5)[^c-29d372fb6701b7374fc029ff00b689e4] For the purposes of this Chapter—
 
 - (a) a member is treated as having made an additional pension election on the date on which the employing authority receives the member’s notice under paragraph (1); and
 - (b) an employing authority is treated as having made an additional pension election on the date on which the scheme manager receives the authority’s notice under paragraph (2).
 
 ## Annotations
 
-[^key-29d372fb6701b7374fc029ff00b689e4]: Textual amendment: [Reg. 58(5)](https://www.legislation.gov.uk/uksi/2015/94/regulation/58/5) inserted (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [33](https://www.legislation.gov.uk/uksi/2017/275/regulation/33)
+[^c-29d372fb6701b7374fc029ff00b689e4]: Textual amendment: [Reg. 58(5)](https://www.legislation.gov.uk/uksi/2015/94/regulation/58/5) inserted (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [33](https://www.legislation.gov.uk/uksi/2017/275/regulation/33)

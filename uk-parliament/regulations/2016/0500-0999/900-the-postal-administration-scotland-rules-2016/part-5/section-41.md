@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Evidence in relation to claims[^key-6b658b7a625de86d4048ec45154a3886]
+## 41. Evidence in relation to claims[^c-6b658b7a625de86d4048ec45154a3886]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ and, if the creditor or other person refuses or delays to do so, the postal admi
 
 ## Annotations
 
-[^key-6b658b7a625de86d4048ec45154a3886]: Commencement: Rule 41 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-6b658b7a625de86d4048ec45154a3886]: Commencement: Rule 41 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

@@ -40,17 +40,17 @@ Coming into operation
 
 24th July 2009
 
-The Department of the Environment, being a department designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to measures relating to the environment, acting in exercise of the powers conferred upon it by that section, makes the following Regulations:[^key-f13abf632d45fb5d28167cab5b76568b]
+The Department of the Environment, being a department designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to measures relating to the environment, acting in exercise of the powers conferred upon it by that section, makes the following Regulations:[^c-f13abf632d45fb5d28167cab5b76568b]
 
-These Regulations make provision for a purpose mentioned in section 2(2) of, and paragraph 1A of Schedule 2 to the European Communities Act 1972 and it appears to the Department of the Environment that it is expedient for the Community instruments referred to in these Regulations to be construed as references to those instruments as amended from time to time.[^key-f13abf632d45fb5d28167cab5b76568b]
+These Regulations make provision for a purpose mentioned in section 2(2) of, and paragraph 1A of Schedule 2 to the European Communities Act 1972 and it appears to the Department of the Environment that it is expedient for the Community instruments referred to in these Regulations to be construed as references to those instruments as amended from time to time.[^c-f13abf632d45fb5d28167cab5b76568b]
 
 ## PART 1 — Introductory provisions
 
-### 1. Citation and commencement[^key-1a0698ac902a79c4e862cb8cfd466da2]
+### 1. Citation and commencement[^c-1a0698ac902a79c4e862cb8cfd466da2]
 
 These Regulations may be cited as the Environmental Liability (Prevention and Remediation) Regulations (Northern Ireland) 2009 and come into operation on 24th July 2009.
 
-### 2. Interpretation[^key-89e18172d152aa51e6ee67d9ec28f4e4]
+### 2. Interpretation[^c-89e18172d152aa51e6ee67d9ec28f4e4]
 
 (1) The Interpretation Act (Northern Ireland) 1954[^f00002] applies to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
@@ -58,14 +58,14 @@ These Regulations may be cited as the Environmental Liability (Prevention and Re
 
 - “activity” means any economic activity, whether public or private and whether or not carried out for profit;
 - “area of special scientific interest” means an area declared under Article 28(1) of the Environment (Northern Ireland) Order 2002[^f00003];
-- ”baseline” means the low-water line along the coast as defined in the Territorial Seas (Baseline) Order 2014[^key-2532ab90f86452b6a339d540a0a06595]
+- ”baseline” means the low-water line along the coast as defined in the Territorial Seas (Baseline) Order 2014[^c-2532ab90f86452b6a339d540a0a06595]
 - “damage” means a measurable adverse change in a natural resource or measurable impairment of a natural resource service which may occur directly or indirectly;
 - “groundwater” means all water which is below the surface of the ground in the saturation zone and in direct contact with the ground or subsoil;
 - “imminent threat of damage” means a sufficient likelihood that environmental damage will occur in the near future;
 - “marine installation” means any artificial island, installation, platform or other artificial structure at sea, other than a pipeline or a vessel;
 - “natural habitats” means—
-  - (a) the habitats of species mentioned in Article 4(1) of and Annex 1 to[^key-6a0ad3239935353ec8fbf240e945e062] [Directive 2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) of the European Parliament and of the Council on the conservation of wild birds[^f00004] or listed in Annex II to Directive [Directive 97/62/EC](https://www.legislation.gov.uk/european/directive/1997/0062) on the conservation of natural habitats and of wild fauna and flora[^f00005];
-  - (b) the natural habitats listed in Annex I to Council[^key-b3c898c77c5c78dfe61458d0bce5db50] [Directive 97/62/EC](https://www.legislation.gov.uk/european/directive/1997/0062) ; and
+  - (a) the habitats of species mentioned in Article 4(1) of and Annex 1 to[^c-6a0ad3239935353ec8fbf240e945e062] [Directive 2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) of the European Parliament and of the Council on the conservation of wild birds[^f00004] or listed in Annex II to Directive [Directive 97/62/EC](https://www.legislation.gov.uk/european/directive/1997/0062) on the conservation of natural habitats and of wild fauna and flora[^f00005];
+  - (b) the natural habitats listed in Annex I to Council[^c-b3c898c77c5c78dfe61458d0bce5db50] [Directive 97/62/EC](https://www.legislation.gov.uk/european/directive/1997/0062) ; and
   - (c) the breeding sites or resting places of the species listed in Annex IV to that Directive;
 - “natural resource” means—
   - (a) protected species;
@@ -74,21 +74,21 @@ These Regulations may be cited as the Environmental Liability (Prevention and Re
   - (d) water; and
   - (e) land;
 - “operator” means any natural or legal, private or public person who operates or controls the activity by means of delegated authority or otherwise and includes the holder of a permit or authorisation for such an activity;
-- “[^key-db1f3e4cc79ac12fbafdc8e24a08eda3]**river basin management plan**” has the same meaning as in the Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017.
+- “[^c-db1f3e4cc79ac12fbafdc8e24a08eda3]**river basin management plan**” has the same meaning as in the Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017.
 - “Planning Appeals Commission” means the Planning Appeals Commission established under Article 110 of the Planning (Northern Ireland) Order 1991[^f00006];
-- “protected species” means the species mentioned in Article 4(1) of[^key-3ff0c4e16e3c0fdaf7a325d0d6deae59] [Directive 2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) of the European Parliament and of the Council or listed in Annex I to that Directive or listed in Annex II to Council [Directive 97/62/EC](https://www.legislation.gov.uk/european/directive/1997/0062) and Annex IV to Council [Directive 92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) ;
+- “protected species” means the species mentioned in Article 4(1) of[^c-3ff0c4e16e3c0fdaf7a325d0d6deae59] [Directive 2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) of the European Parliament and of the Council or listed in Annex I to that Directive or listed in Annex II to Council [Directive 97/62/EC](https://www.legislation.gov.uk/european/directive/1997/0062) and Annex IV to Council [Directive 92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) ;
 - “services” means the functions performed by a natural resource for the benefit of another natural resource or the public;
 - “vessel” means—
   - (a) hovercraft, and
   - (b) any other craft capable of travelling on, in or under water, whether or not self-propelled.
 
-(3) Unless otherwise defined in these Regulations, expressions used in Directive [2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035) of the European Parliament and of the Council on environmental liability with regard to the prevention and remedying of environmental damage[^f00007] as last amended by[^key-a23b448e0a957af6840a8552e9965b08] [Directive 2013/30/EU](https://www.legislation.gov.uk/european/directive/2013/0030) of the European Parliament and of the Council have the same meaning in these Regulations.
+(3) Unless otherwise defined in these Regulations, expressions used in Directive [2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035) of the European Parliament and of the Council on environmental liability with regard to the prevention and remedying of environmental damage[^f00007] as last amended by[^c-a23b448e0a957af6840a8552e9965b08] [Directive 2013/30/EU](https://www.legislation.gov.uk/european/directive/2013/0030) of the European Parliament and of the Council have the same meaning in these Regulations.
 
-(4)[^key-9fd1b52ab4e590195822b84d29981f48] A reference to Council [Directive 1999/31/EC](https://www.legislation.gov.uk/european/directive/1999/0031) on the landfill of waste shall be construed as a reference to that Directive as it had effect immediately before exit day[^key-e3c1344a5b68e9019aa398b8a51a1e6b].
+(4)[^c-9fd1b52ab4e590195822b84d29981f48] A reference to Council [Directive 1999/31/EC](https://www.legislation.gov.uk/european/directive/1999/0031) on the landfill of waste shall be construed as a reference to that Directive as it had effect immediately before exit day[^c-e3c1344a5b68e9019aa398b8a51a1e6b].
 
-**2A.**[^key-50d47ae19d9e668dfc180007171ddfa2] References in Schedule 2 or 3 to EU instruments are to those instruments as they had effect immediately before exit day
+**2A.**[^c-50d47ae19d9e668dfc180007171ddfa2] References in Schedule 2 or 3 to EU instruments are to those instruments as they had effect immediately before exit day
 
-### 2B. Application[^key-78ebbbb05cea4e5af39a51faeeeed950]
+### 2B. Application[^c-78ebbbb05cea4e5af39a51faeeeed950]
 
 These Regulations apply to the areas specified in the following table—
 
@@ -102,9 +102,9 @@ Table 1
 | Damage to a protected species or natural habitats | Northern Ireland<br>The seabed out to 12 nautical miles |
 | Damage to land | Northern Ireland |
 
-### 3. Meaning of “environmental damage”[^key-f314d96a30512d7d35e01dcb8e17adb8]
+### 3. Meaning of “environmental damage”[^c-f314d96a30512d7d35e01dcb8e17adb8]
 
-(1)[^key-5c9ebb2817481475937cf062885a7434] Subject to regulations 5, 6 and 7, these Regulations apply to environmental damage to—
+(1)[^c-5c9ebb2817481475937cf062885a7434] Subject to regulations 5, 6 and 7, these Regulations apply to environmental damage to—
 
 - (a) Protected species or natural habitats, or an area of special scientific interest;
 - (b) Surface water or groundwater;
@@ -116,10 +116,10 @@ Table 1
 - (a) an activity in Schedule 2; or
 - (b) an activity where the operator was at fault or was negligent as to whether such damage would be caused.
 
-(3) Environmental damage to surface water means damage to a body of surface water classified as such pursuant to Annex II to Council Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) of the European Parliament and of the Council establishing a framework for Community action in the field of water policy[^f00008] as last amended by Commission[^key-6051ae90b56e5a0c8c519bd58934e4ed] [Directive 2014/101/EU](https://www.legislation.gov.uk/european/directive/2014/0101), caused by an activity in Schedule 2 such that one of the—
+(3) Environmental damage to surface water means damage to a body of surface water classified as such pursuant to Annex II to Council Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) of the European Parliament and of the Council establishing a framework for Community action in the field of water policy[^f00008] as last amended by Commission[^c-6051ae90b56e5a0c8c519bd58934e4ed] [Directive 2014/101/EU](https://www.legislation.gov.uk/european/directive/2014/0101), caused by an activity in Schedule 2 such that one of the—
 
 - (a) biological quality elements listed in Annex V to that Directive;
-- (b) level of one of the chemicals listed in the legislation in Annex IX or a chemical listed in Annex X to that Directive as amended by[^key-5ce803741f78d1189f298c4e8ef18c43] [Directive 2013/39/EU](https://www.legislation.gov.uk/european/directive/2013/0039) of the European Parliament and of the Council; or
+- (b) level of one of the chemicals listed in the legislation in Annex IX or a chemical listed in Annex X to that Directive as amended by[^c-5ce803741f78d1189f298c4e8ef18c43] [Directive 2013/39/EU](https://www.legislation.gov.uk/european/directive/2013/0039) of the European Parliament and of the Council; or
 - (c) physicochemical quality elements (as listed in Annex V to that Directive),
 
 is adversely affected in such a way that its value changes to a value consistent with the water being classified as a lower status than before the damage (whether or not the body of water is, in fact, reclassified).
@@ -127,21 +127,21 @@ is adversely affected in such a way that its value changes to a value consistent
 (4) Environmental damage to groundwater means any adverse effect on a body of groundwater as described in Annex II to Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) on—
 
 - (a) its conductivity or its level (both of which are specified in Annex V to Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060)); or
-- (b) its concentration of pollutants (as specified in that Annex and in Directive [2006/118/EC](https://www.legislation.gov.uk/european/directive/2006/0118) of the European Parliament and of the Council on the protection of groundwater against pollution and deterioration[^f00009]) as amended by Commission[^key-2fbc2447bc48edba92b41089ea657333] [Directive 2014/80/EU](https://www.legislation.gov.uk/european/directive/2014/0080)
+- (b) its concentration of pollutants (as specified in that Annex and in Directive [2006/118/EC](https://www.legislation.gov.uk/european/directive/2006/0118) of the European Parliament and of the Council on the protection of groundwater against pollution and deterioration[^f00009]) as amended by Commission[^c-2fbc2447bc48edba92b41089ea657333] [Directive 2014/80/EU](https://www.legislation.gov.uk/european/directive/2014/0080)
 
 in such a way that the value changes to a value consistent with the water being classified as a lower status than before the damage caused by an activity in Schedule 2 (whether or not the body of water is, in fact, reclassified).
 
-(4A)[^key-d43da377fd8b855b380d5813053940d5] Environmental damage to marine waters means damage to marine waters classified as such pursuant to Directive [2008/56/EC](https://www.legislation.gov.uk/european/directive/2008/0056) of the European Parliament and of the Council establishing a framework for community action in the field of marine environmental policy, such that their environmental status is significantly adversely affected[^key-695ed380d27f09ecce5b622e4401dadf]... .
+(4A)[^c-d43da377fd8b855b380d5813053940d5] Environmental damage to marine waters means damage to marine waters classified as such pursuant to Directive [2008/56/EC](https://www.legislation.gov.uk/european/directive/2008/0056) of the European Parliament and of the Council establishing a framework for community action in the field of marine environmental policy, such that their environmental status is significantly adversely affected[^c-695ed380d27f09ecce5b622e4401dadf]... .
 
 (5) Environmental damage to land means contamination of land by substances, preparations, organisms or micro-organisms arising out of an activity specified in Schedule 2 that results in a significant risk of adverse effects on human health.
 
 (6) This regulation extends to the foreshore, sea bed and subsoil and their natural resources.
 
-### 4. Other legislation[^key-8749373338316aab781a1b1d563bf427]
+### 4. Other legislation[^c-8749373338316aab781a1b1d563bf427]
 
 Nothing in these Regulations shall be construed so as to affect the right of an operator to limit liability in accordance with the Convention on Limitation of Liability for Maritime Claims 1976[^f00010].
 
-### 5. Exceptions[^key-2cc2b8034f00913ec30512f4e1ee6657]
+### 5. Exceptions[^c-2cc2b8034f00913ec30512f4e1ee6657]
 
 These Regulations shall not apply in relation to environmental damage, or imminent threat of damage, caused by—
 
@@ -157,7 +157,7 @@ These Regulations shall not apply in relation to environmental damage, or immine
 - (g) pollution of a diffuse character if it is not possible to establish a causal link between the damage and the activities of individual operators; or
 - (h) damage caused in the course of commercial sea fishing if all legislation relating to that fishing was complied with.
 
-### 6. Temporal application[^key-aa1967d9c14814f2b33123958cba718b]
+### 6. Temporal application[^c-aa1967d9c14814f2b33123958cba718b]
 
 These Regulations shall not apply to—
 
@@ -165,30 +165,30 @@ These Regulations shall not apply to—
 - (b) damage or imminent threat of damage caused by an incident, event or emission that occurs after that date if it derives from an activity that took place and finished before that date; or
 - (c) damage caused by an emission, event or incident that took place 30 years or more before the damage.
 
-### 7. Exception from environmental damage to surface water or groundwater[^key-f9eb1813f27e06f8f5632d0552c3d036]
+### 7. Exception from environmental damage to surface water or groundwater[^c-f9eb1813f27e06f8f5632d0552c3d036]
 
 (1) Environmental damage to water does not include—
 
 - (a) damage caused by a new modification to the physical characteristics of a body of surface water;
-- (b) an alteration to the level of a body of groundwater [^key-d6a58a681e0726b5d289c5a891b44050]...; or
-- (c) deterioration from high status to good status of a body of surface water resulting from new sustainable human development activities[^key-51d5fad3688324232cb288b0c6eaba9c]...,
+- (b) an alteration to the level of a body of groundwater [^c-d6a58a681e0726b5d289c5a891b44050]...; or
+- (c) deterioration from high status to good status of a body of surface water resulting from new sustainable human development activities[^c-51d5fad3688324232cb288b0c6eaba9c]...,
 
 if all the conditions specified in paragraph (2) are fulfilled.
 
 (2) The conditions are—
 
 - (a) all practicable steps are taken to mitigate the adverse impact on the status of the body of water;
-- (b) the reasons for the modifications or alterations are specifically set out and explained in the river basin management plan [^key-f4f9411673702def29bc3486a7732ed2]... and the objectives are reviewed every six years;
+- (b) the reasons for the modifications or alterations are specifically set out and explained in the river basin management plan [^c-f4f9411673702def29bc3486a7732ed2]... and the objectives are reviewed every six years;
 - (c) the reasons for the modifications or alterations are of overriding public interest, or the result of the damage is outweighed by the benefits of the new modifications or alterations to human health, to the maintenance of human safety or to sustainable development; and
 - (d) the beneficial objectives served by the modifications or alterations of the body of water cannot for reasons of technical feasibility or disproportionate cost be achieved by other means.
 
-### 8. Enforcing authority[^key-6dc0dc806dc53ad16da3192466afe635]
+### 8. Enforcing authority[^c-6dc0dc806dc53ad16da3192466afe635]
 
 These Regulations shall be enforced by the Department of the Environment.
 
 ## PART 2 — Preventing environmental damage
 
-### 9. Preventing environmental damage[^key-289b3c1a0c8a69e8dd60f4bac0140110]
+### 9. Preventing environmental damage[^c-289b3c1a0c8a69e8dd60f4bac0140110]
 
 (1) An operator of an activity that creates an imminent threat of environmental damage, or an imminent threat of damage which there are reasonable grounds to believe will become environmental damage, shall immediately—
 
@@ -203,7 +203,7 @@ These Regulations shall be enforced by the Department of the Environment.
 
 (3) Failure to comply with paragraph (1) or a notice served under paragraph (2) is an offence.
 
-### 10. Preventing further environmental damage[^key-8dedf4f5fdb8e16dbba941cf1f40dfa5]
+### 10. Preventing further environmental damage[^c-8dedf4f5fdb8e16dbba941cf1f40dfa5]
 
 (1) An operator of an activity that has caused environmental damage, or has caused damage where there are reasonable grounds to believe that the damage is or will become environmental damage, shall immediately—
 
@@ -219,7 +219,7 @@ These Regulations shall be enforced by the Department of the Environment.
 
 (3) Failure to comply with paragraph (1) or a notice served under paragraph (2) is an offence.
 
-### 11. Action by the enforcing authority[^key-fe42c39c155101e4cefe404d25f9b0a8]
+### 11. Action by the enforcing authority[^c-fe42c39c155101e4cefe404d25f9b0a8]
 
 Any duty in this Part on the operator of an activity may be carried out by the enforcing authority instead of the operator—
 
@@ -228,23 +228,23 @@ Any duty in this Part on the operator of an activity may be carried out by the e
 - (c) if the operator fails to comply with a notice; or
 - (d) if the operator is not required to bear the costs under these Regulations.
 
-### 12. Costs[^key-77a4902aede0fc6a77ee6da8ed8891ab]
+### 12. Costs[^c-77a4902aede0fc6a77ee6da8ed8891ab]
 
 (1) An operator is liable for any reasonable costs incurred by the enforcing authority in taking any reasonable action to discharge any duty under regulation 11.
 
 (2) An operator is also liable for the reasonable costs incurred by the enforcing authority in preparing any notice under this Part, or in monitoring compliance with such notice.
 
-### 13. Following instructions from a public authority[^key-245ea14126e9e7cc6ff50b5028f2d5b3]
+### 13. Following instructions from a public authority[^c-245ea14126e9e7cc6ff50b5028f2d5b3]
 
 When an operator acts in accordance with the instructions of a public authority, and as a result causes or threatens to cause environmental damage, and accordingly is obliged to take action under regulations 9 or 10, or if the enforcing authority takes action under regulation 11, then, unless the instruction related to an emission or incident caused by the operator’s own activities, the operator or the enforcing authority may recover the costs of actions under those Regulations from that public authority.
 
 ## PART 3 — Remediation
 
-### 14. Assessment of damage[^key-8a041f7f967ebe4c855144969e663ea7]
+### 14. Assessment of damage[^c-8a041f7f967ebe4c855144969e663ea7]
 
 Where the enforcing authority becomes aware that damage has occurred and there are reasonable grounds for believing that it is, or may be, environmental damage, the enforcing authority shall establish whether or not it is environmental damage.
 
-### 15. Determining liability to remediate[^key-39db515233d177ab67c59bcd103a95e4]
+### 15. Determining liability to remediate[^c-39db515233d177ab67c59bcd103a95e4]
 
 (1) If the enforcing authority decides that the damage is environmental damage it shall identify an operator of any activity that caused or contributed to the damage and notify the operator that—
 
@@ -254,7 +254,7 @@ Where the enforcing authority becomes aware that damage has occurred and there a
 
 (2) The enforcing authority may withdraw the notification if it is satisfied that the notification should not have been served or that an appeal under regulation 16 is likely to succeed.
 
-### 16. Appeals against liability to remediate[^key-867ecedbb32c1876cd362c7093124863]
+### 16. Appeals against liability to remediate[^c-867ecedbb32c1876cd362c7093124863]
 
 (1) Subject to regulation 19, an operator served with a notification under 15(1) may appeal it to the Planning Appeals Commission within 28 days of the date of the notification.
 
@@ -267,7 +267,7 @@ Where the enforcing authority becomes aware that damage has occurred and there a
 - (e) the operator was not at fault or negligent and the environmental damage was caused by an emission or activity or any manner of using a product in the course of an activity that the operator demonstrates was not considered likely to cause environmental damage according to the state of scientific and technical knowledge at the time when the emission was released or the activity took place; or
 - (f) the environmental damage was the result of an act of a third party and occurred despite the fact that the operator took all appropriate safety measures.
 
-### 17. Remediation notices[^key-91a4cd975478c1362d21930a7bd4b6ab]
+### 17. Remediation notices[^c-91a4cd975478c1362d21930a7bd4b6ab]
 
 (1) Once it receives the proposals from the person liable for remediation (or, if a proposal is not received within the specified time limit, at any time after the time limit has expired), the enforcing authority shall, so far as is practicable, consult—
 
@@ -288,13 +288,13 @@ and may consult any other person appearing to be necessary.
 
 (4) Failure to comply with a remediation notice is an offence.
 
-### 18. Appeal against the remediation notice[^key-95554ac881d5853508cc07d1dcdfaae8]
+### 18. Appeal against the remediation notice[^c-95554ac881d5853508cc07d1dcdfaae8]
 
 (1) Subject to regulation 19 the operator may appeal against a notice under regulation 17(2) or 17(3) to the Planning Appeals Commission on the grounds that the contents of the remediation notice are unreasonable.
 
 (2) Where an appeal is brought under paragraph (1), the bringing of the appeal shall have the effect of suspending the requirements of the remediation notice unless the Planning Appeals Commission directs otherwise.
 
-### 19. Appeals generally[^key-ea071c5e9e1b080963dd94e306cc2166]
+### 19. Appeals generally[^c-ea071c5e9e1b080963dd94e306cc2166]
 
 (1) A person who wishes to appeal to the Planning Appeals Commission under regulations 16 or 18 shall give to the Planning Appeals Commission written notice of the appeal together with a statement of the grounds of appeal and the Planning Appeals Commission shall as soon as is reasonably practicable send to the enforcing authority a copy of that notice together with the statement of the grounds of appeal.
 
@@ -312,7 +312,7 @@ and may consult any other person appearing to be necessary.
 
 (8) An appeal shall be accompanied by a fee as specified in regulation 17(1) of the Planning (Fees) Regulations (Northern Ireland) 1995[^f00014] as if it were an appeal under Article 127(1)(c) of the Planning (Northern Ireland) Order 1991.
 
-### 20. Actions by the enforcing authority[^key-54c8fd375c2534e19fc65d423cb2ad21]
+### 20. Actions by the enforcing authority[^c-54c8fd375c2534e19fc65d423cb2ad21]
 
 Once it has established that, in its opinion, damage is environmental damage, the enforcing authority may carry out any reasonable works—
 
@@ -320,7 +320,7 @@ Once it has established that, in its opinion, damage is environmental damage, th
 - (b) if an operator fails to comply with a remediation notice, whether or not an appeal is pending;
 - (c) if the operator is not required to remediate under these Regulations.
 
-### 21. Costs[^key-2e4b3d784942c1cb55fc4e9373b96dfc]
+### 21. Costs[^c-2e4b3d784942c1cb55fc4e9373b96dfc]
 
 (1) The operator is responsible for the costs of the enforcing authority of—
 
@@ -335,7 +335,7 @@ Once it has established that, in its opinion, damage is environmental damage, th
 
 ## PART 4 — Enforcement
 
-### 22. Requests for action by interested parties[^key-d5f85747df8506c8069f1412046d3589]
+### 22. Requests for action by interested parties[^c-d5f85747df8506c8069f1412046d3589]
 
 (1) Any person—
 
@@ -371,7 +371,7 @@ may notify the enforcing authority of any environmental damage which is being, o
 - (c) public health; or
 - (d) activities, including recreational activities, likely to be affected by the damage.
 
-### 23. Proceedings for costs by the enforcing authority[^key-9bd1f9474cf9bed12a213999f71662a6]
+### 23. Proceedings for costs by the enforcing authority[^c-9bd1f9474cf9bed12a213999f71662a6]
 
 No proceedings for the recovery of costs may be commenced by the enforcing authority after a period of 5 years has elapsed since—
 
@@ -380,17 +380,17 @@ No proceedings for the recovery of costs may be commenced by the enforcing autho
 
 whichever is later.
 
-### 24. Recovery of costs from other persons[^key-eb1bc935b0205ef85638d7cd87d1c4c0]
+### 24. Recovery of costs from other persons[^c-eb1bc935b0205ef85638d7cd87d1c4c0]
 
 An operator who incurs costs under these Regulations may recover all or some of those costs from any third party who also caused or contributed to the damage.
 
-### 25. Grant of and compensation for rights of entry etc.[^key-08e1ae4dda14a23c52ebc2a718b70515]
+### 25. Grant of and compensation for rights of entry etc.[^c-08e1ae4dda14a23c52ebc2a718b70515]
 
 (1) Any person whose consent is required before any works required by these Regulations may be carried out shall grant, or join in granting, such rights in relation to any land or water as will enable the operator, or a person acting on behalf of the operator, to carry out such works.
 
 (2) A person who grants, or joins in granting, any rights as required by paragraph (1) is entitled to compensation from the operator of such amount as may be determined in accordance with Schedule 5.
 
-### 26. Powers of authorised persons[^key-0f5ea57318d045d1e68e15c3b6b7c032]
+### 26. Powers of authorised persons[^c-0f5ea57318d045d1e68e15c3b6b7c032]
 
 (1) An “authorised person” means a person who is authorised in writing by the enforcing authority for the purposes of this regulation.
 
@@ -429,14 +429,14 @@ An operator who incurs costs under these Regulations may recover all or some of 
 (7) In any case where it is proposed to enter any land used for residential purposes, or to take heavy equipment on to any land which is to be entered, any entry by virtue of this regulation shall only be effected either—
 
 - (a) with the consent of a person who is in occupation of that land; or
-- (b) under the authority of a warrant by virtue of Schedule 6[^key-8c91b6f11624db9085419bc9bbd8b9df].
+- (b) under the authority of a warrant by virtue of Schedule 6[^c-8c91b6f11624db9085419bc9bbd8b9df].
 
 (8) Where an authorised person proposes to enter any land and—
 
 - (a) entry has been refused and there are reasonable grounds to apprehend that the use of force may be necessary to effect entry; or
 - (b) it is apprehended on reasonable grounds that entry is likely to be refused and that the use of force may be necessary to effect entry,
 
-any entry on to that land by virtue of this regulation shall only be effected under the authority of a warrant by virtue of Schedule 6[^key-95cfbffd35b88f79963df3680c659510].
+any entry on to that land by virtue of this regulation shall only be effected under the authority of a warrant by virtue of Schedule 6[^c-95cfbffd35b88f79963df3680c659510].
 
 (9) Any reference in this regulation to land shall be construed so as to include a reference to the foreshore, sea bed and subsoil and their natural resources and territorial waters adjacent to Northern Ireland.
 
@@ -458,11 +458,11 @@ any entry on to that land by virtue of this regulation shall only be effected un
 
 (15) Nothing in this regulation shall be taken to compel the production by any person of a document which would on grounds of legal professional privilege be entitled to be withheld on an order for discovery in an action in the High Court.
 
-### 27. Provision of information to the enforcing authority[^key-c710199afe3a38f2d0542353d5afd9cb]
+### 27. Provision of information to the enforcing authority[^c-c710199afe3a38f2d0542353d5afd9cb]
 
 The enforcing authority may require any person to provide relevant information in that person’s possession to enable the enforcing authority to carry out its functions under these Regulations, and failure to provide such information is an offence.
 
-### 28. Costs recoverable from owner to be a charge on land[^key-91de23a7b907e4053368d5055c52147a]
+### 28. Costs recoverable from owner to be a charge on land[^c-91de23a7b907e4053368d5055c52147a]
 
 (1) Where any costs are recoverable under these Regulations from a person who is the owner of land and the enforcing authority serves a notice on that person under this regulation—
 
@@ -498,11 +498,11 @@ until the costs and interest are recovered.
 
 (9) In this regulation “owner”, in relation to any land, means a person (other than a mortgagee not in possession) who, whether in that person’s own right or as trustee for any other person, is entitled to receive the rack rent of the land or, where the land is not let at a rack rent, would be so entitled if they were so let.
 
-### 29. Penalties[^key-091e4baf0ba9d5296468fd0bb8611793]
+### 29. Penalties[^c-091e4baf0ba9d5296468fd0bb8611793]
 
 (1) A person guilty of an offence under these Regulations is liable—
 
-- (a) on summary conviction, to a fine not exceeding the statutory maximum[^key-cb0c1e05bceee3c6e3912b3a8b1fbe01] or to imprisonment for a term not exceeding three months; or
+- (a) on summary conviction, to a fine not exceeding the statutory maximum[^c-cb0c1e05bceee3c6e3912b3a8b1fbe01] or to imprisonment for a term not exceeding three months; or
 - (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years.
 
 (2) Where a body corporate is guilty of an offence under these Regulations, and that offence is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of—
@@ -524,7 +524,7 @@ A senior officer of the Department of the Environment
 
 Regulation 3
 
-### 1. Damage to protected species and natural habitats[^key-8fb0dad631522b68686ff9da42194235]
+### 1. Damage to protected species and natural habitats[^c-8fb0dad631522b68686ff9da42194235]
 
 In the case of protected species or natural habitats (other than damage in an area of special scientific interest to which paragraph 4 applies) the damage shall be such that it has a significant adverse effect on reaching or maintaining the favourable conservation status of the protected species and natural habitat taking into account—
 
@@ -536,7 +536,7 @@ In the case of protected species or natural habitats (other than damage in an ar
 - (f) the capacity of the species for propagation, its viability or the capacity of the habitat for natural regeneration;
 - (g) the capacity of the species or habitat to recover within a short time of the damage being caused to a condition which leads to its state at the time of the damage or better without any intervention other than increased protection measures.
 
-### 2. Conservation status of habitats[^key-ecdae6d029a08f1663b78f7fca547296]
+### 2. Conservation status of habitats[^c-ecdae6d029a08f1663b78f7fca547296]
 
 (1) A habitat’s conservation status is the sum of the influences acting on a natural habitat and its typical species that may affect its long term natural distribution, structure and functions as well as the long term survival of its typical species.
 
@@ -546,7 +546,7 @@ In the case of protected species or natural habitats (other than damage in an ar
 - (b) the specific structure and functions which are necessary for the long term maintenance of the natural habitat exist and are likely to continue to exist for the foreseeable future; and
 - (c) the conservation status of its typical species is favourable.
 
-### 3. Conservation status of species[^key-6aadfc173c62dafe6adf6ff09f93fd1b]
+### 3. Conservation status of species[^c-6aadfc173c62dafe6adf6ff09f93fd1b]
 
 (1) A species’ conservation status is the sum of the influences acting on the species concerned that may affect the long term distribution and abundance of its populations.
 
@@ -556,7 +556,7 @@ In the case of protected species or natural habitats (other than damage in an ar
 - (b) the natural range of the species is neither being reduced nor is likely to be reduced for the foreseeable future; and
 - (c) there is, and will probably continue to be, a sufficiently large habitat to maintain its populations on a long term basis.
 
-### 4. Areas of special scientific interest[^key-fcedd3b09017c8cbb31f356b0684f35f]
+### 4. Areas of special scientific interest[^c-fcedd3b09017c8cbb31f356b0684f35f]
 
 (1) In the case of an area of special scientific interest, the damage shall be to—
 
@@ -565,7 +565,7 @@ In the case of protected species or natural habitats (other than damage in an ar
 
 (2) The damage shall have an adverse effect on the integrity of the site (that is, the coherence of its ecological structure and function, across its whole area, that enables it to sustain the habitat, complex of habitats or the levels of populations of the species affected).
 
-### 5. Express authorisation[^key-0d83a707f169c15c81a40c5f126dff10]
+### 5. Express authorisation[^c-0d83a707f169c15c81a40c5f126dff10]
 
 Damage to protected species and natural habitats and damage in an area of special scientific interest does not include damage caused by an act expressly authorised by the relevant authorities in accordance with the Conservation (Nature Habitats, etc.) Regulations (Northern Ireland) 1995[^f00017] or the Wildlife (Northern Ireland) Order 1985[^f00018] or the Environment (Northern Ireland) Order 2002.
 
@@ -573,114 +573,114 @@ Damage to protected species and natural habitats and damage in an area of specia
 
 Regulation 3
 
-### 1. Operation of permitted installations[^key-815a9dfa22a42dab02ebf5cce1cfd119]
+### 1. Operation of permitted installations[^c-815a9dfa22a42dab02ebf5cce1cfd119]
 
-The operation of installations subject to permit in pursuance of Directive 2010/75/[^key-edcef839b6a79f6b054846b3f018d23e]EU of the European Parliament and of the Council concerning integrated pollution prevention and control[^f00019] (all activities listed in Annex I to that Directive with the exception of installations or parts of installations used for research, development and testing of new products and processes).
+The operation of installations subject to permit in pursuance of Directive 2010/75/[^c-edcef839b6a79f6b054846b3f018d23e]EU of the European Parliament and of the Council concerning integrated pollution prevention and control[^f00019] (all activities listed in Annex I to that Directive with the exception of installations or parts of installations used for research, development and testing of new products and processes).
 
-### 2. Waste management operations[^key-37d82ae972e700934643d32b6354f9af]
+### 2. Waste management operations[^c-37d82ae972e700934643d32b6354f9af]
 
-(1) Waste management operations, including the collection, transport, recovery and disposal of waste and hazardous waste, including the supervision of such operations and after-care of disposal sites, subject to permit or registration in pursuance of Council Directive[^key-35a6cff482e8caed0f1e814e1f3960fe] [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste, as last amended by Directive (EU) 2018/851[^key-cb5ca72d19782fee14ea7e8506c6eab4].
+(1) Waste management operations, including the collection, transport, recovery and disposal of waste and hazardous waste, including the supervision of such operations and after-care of disposal sites, subject to permit or registration in pursuance of Council Directive[^c-35a6cff482e8caed0f1e814e1f3960fe] [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste, as last amended by Directive (EU) 2018/851[^c-cb5ca72d19782fee14ea7e8506c6eab4].
 
-(2)[^key-9c9d79cf57ae0caa6d880f37f152ed97] The operation of landfill sites under Council [Directive 1999/31/EC](https://www.legislation.gov.uk/european/directive/1999/0031) as amended by Directive (EU) 2011/97/EU and the operation of incineration plants under [Directive 2010/75/EU](https://www.legislation.gov.uk/european/directive/2010/0075) of the European Parliament and of the Council.
+(2)[^c-9c9d79cf57ae0caa6d880f37f152ed97] The operation of landfill sites under Council [Directive 1999/31/EC](https://www.legislation.gov.uk/european/directive/1999/0031) as amended by Directive (EU) 2011/97/EU and the operation of incineration plants under [Directive 2010/75/EU](https://www.legislation.gov.uk/european/directive/2010/0075) of the European Parliament and of the Council.
 
 (3) This does not include the spreading of sewage sludge from urban waste water treatment plants, treated to an approved standard, for agricultural purposes.
 
-### 3. Mining waste[^key-685be973dab76a0429962fd83bec6a15]
+### 3. Mining waste[^c-685be973dab76a0429962fd83bec6a15]
 
 The management of extractive waste under Directive [2006/21/EC](https://www.legislation.gov.uk/european/directive/2006/0021) of the European Parliament and of the Council on the management of waste from extractive industries[^f00024].
 
-### 4. Discharges requiring authorisation[^key-418a32c5cfb4baa0c6afafd71cef3441]
+### 4. Discharges requiring authorisation[^c-418a32c5cfb4baa0c6afafd71cef3441]
 
-(1) All discharges into the inland surface water that require prior authorisation in pursuance of Directive 2000/60 of the European Parliament and of the Council establishing a framework for Community action in the field of water policy.[^key-e3e0539d58ec4a5987aeb77ec24c62e2]
+(1) All discharges into the inland surface water that require prior authorisation in pursuance of Directive 2000/60 of the European Parliament and of the Council establishing a framework for Community action in the field of water policy.[^c-e3e0539d58ec4a5987aeb77ec24c62e2]
 
-(2) All discharges of substances into groundwater that require prior authorisation in pursuance of [Directive 2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060)[^key-e0c9ac3ea7f7a9ac2a044a5b2cd0f39d] of the European Parliament and of the Council establishing a framework for Community action in the field of water policy.
+(2) All discharges of substances into groundwater that require prior authorisation in pursuance of [Directive 2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060)[^c-e0c9ac3ea7f7a9ac2a044a5b2cd0f39d] of the European Parliament and of the Council establishing a framework for Community action in the field of water policy.
 
 (3) All discharges or injections of pollutants into surface water or groundwater that require a permit, authorisation or registration under Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060)[^f00027].
 
-### 5. Water abstraction and impoundment[^key-90b5e3ad20ebc75f85d9e0fdd6000d0b]
+### 5. Water abstraction and impoundment[^c-90b5e3ad20ebc75f85d9e0fdd6000d0b]
 
 Water abstraction and impoundment of water subject to prior authorisation in pursuance of Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060).
 
-### 6. Dangerous substances, plant protection products and biocidal products[^key-83c35511f8106c2bbd554960f507bfff]
+### 6. Dangerous substances, plant protection products and biocidal products[^c-83c35511f8106c2bbd554960f507bfff]
 
 Manufacture, use, storage, processing, filling, release into the environment and onsite transport of—
 
-- (a) dangerous substances as defined in Article 2(2) of Council Directive [67/548/EEC](https://www.legislation.gov.uk/european/directive/1967/0548) on the approximation of the laws, regulations and administrative provisions of the Member States relating to the classification, packaging and labelling of dangerous substances[^f00028] as last amended by Commission Regulation ([^key-aae986f3dff234ff3f48a4e61b5b7e2f]EU) 2017/776;
-- (b) dangerous preparations as defined in Article 2(2) of Directive [1999/45/EC](https://www.legislation.gov.uk/european/directive/1999/0045) of the European Parliament and of the Council concerning the approximation of the laws, regulations and administrative provisions of the Member States relating to the classification, packaging and labelling of dangerous preparations[^f00029] as last amended by Commission Regulation ([^key-bd4103eb35af0940de29ef8af6e2f78b]EU) 2017/776;
+- (a) dangerous substances as defined in Article 2(2) of Council Directive [67/548/EEC](https://www.legislation.gov.uk/european/directive/1967/0548) on the approximation of the laws, regulations and administrative provisions of the Member States relating to the classification, packaging and labelling of dangerous substances[^f00028] as last amended by Commission Regulation ([^c-aae986f3dff234ff3f48a4e61b5b7e2f]EU) 2017/776;
+- (b) dangerous preparations as defined in Article 2(2) of Directive [1999/45/EC](https://www.legislation.gov.uk/european/directive/1999/0045) of the European Parliament and of the Council concerning the approximation of the laws, regulations and administrative provisions of the Member States relating to the classification, packaging and labelling of dangerous preparations[^f00029] as last amended by Commission Regulation ([^c-bd4103eb35af0940de29ef8af6e2f78b]EU) 2017/776;
 - (c) plant protection products as defined in Article 2(1) of Council Directive [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414) concerning the placing of plant protection products on the market[^f00030];
-- (d)[^key-fb63a389e72f3904b2dbeca5a1486fe3] biocidal products as defined in Article 3(1)(a) of Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products
+- (d)[^c-fb63a389e72f3904b2dbeca5a1486fe3] biocidal products as defined in Article 3(1)(a) of Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products
 
-### 7. Transport[^key-6cce7f556439ea9e3327d5bfaf5856d3]
+### 7. Transport[^c-6cce7f556439ea9e3327d5bfaf5856d3]
 
 Transport by road, rail, inland waterways, sea or air of dangerous goods or polluting goods as defined in—
 
-- (a)[^key-3b070b479ad3e6fae69ee5d0a6c22620] Annex 1 to [Directive 2008/68/EC](https://www.legislation.gov.uk/european/directive/2008/0068) of the European Council and of the Council on inland transport of dangerous goods as last amended by Commission Directive (EU) 2016/2309;
+- (a)[^c-3b070b479ad3e6fae69ee5d0a6c22620] Annex 1 to [Directive 2008/68/EC](https://www.legislation.gov.uk/european/directive/2008/0068) of the European Council and of the Council on inland transport of dangerous goods as last amended by Commission Directive (EU) 2016/2309;
 - (b) Annex II to that Directive;
 - (c) [Directive 2002/59/EC](https://www.legislation.gov.uk/european/directive/2002/0059) of the European Parliament and of the Council establishing a Community vessel traffic information system and repealing Council [Directive 93/75/EC](https://www.legislation.gov.uk/european/directive/1993/0075) as last amended by Commission [Directive 2014/100/EU](https://www.legislation.gov.uk/european/directive/2014/0100).
 
-### 8. Genetically modified organisms[^key-a9b4cccaabcd78ec8b9b299086a0703d]
+### 8. Genetically modified organisms[^c-a9b4cccaabcd78ec8b9b299086a0703d]
 
-(1) Any contained use, including transport, involving genetically modified organisms (including genetically modified micro-organisms) as defined by [Directive 2009/41/EC](https://www.legislation.gov.uk/european/directive/2009/0041)[^key-3c5dddacee1a368b59850e3a5277deb6] of the European Parliament and the Council on the contained use of genetically modified micro-organisms[^f00035].
+(1) Any contained use, including transport, involving genetically modified organisms (including genetically modified micro-organisms) as defined by [Directive 2009/41/EC](https://www.legislation.gov.uk/european/directive/2009/0041)[^c-3c5dddacee1a368b59850e3a5277deb6] of the European Parliament and the Council on the contained use of genetically modified micro-organisms[^f00035].
 
-(2) Any deliberate release into the environment, transport and placing on the market of genetically modified organisms as defined by Directive [2001/18/EC](https://www.legislation.gov.uk/european/directive/2001/0018) of the European Parliament and of the Council on the deliberate release into the environment of genetically modified organisms[^f00036] as last amended by ([^key-42cb2e076b92c81254e56c92f87a0b26]EU) 2015/412 of the European Parliament and of the Council.
+(2) Any deliberate release into the environment, transport and placing on the market of genetically modified organisms as defined by Directive [2001/18/EC](https://www.legislation.gov.uk/european/directive/2001/0018) of the European Parliament and of the Council on the deliberate release into the environment of genetically modified organisms[^f00036] as last amended by ([^c-42cb2e076b92c81254e56c92f87a0b26]EU) 2015/412 of the European Parliament and of the Council.
 
-### 9. Transboundary shipment of waste[^key-08318e7d905007e13de48d3fbeeae9b0]
+### 9. Transboundary shipment of waste[^c-08318e7d905007e13de48d3fbeeae9b0]
 
-Transboundary shipment of waste within, into or out of the European Union[^key-f869c823c0387a7a07cf674f498f051a] or, after exit day, into or out of the United Kingdom[^key-563ffc27c6e8ace67f2129f22b122707], requiring an authorisation or prohibited under Regulation [(EC) No 1013/2006](https://www.legislation.gov.uk/european/regulation/2006/1013) of the European Parliament and of the Council on shipments of waste [^f00037].
+Transboundary shipment of waste within, into or out of the European Union[^c-f869c823c0387a7a07cf674f498f051a] or, after exit day, into or out of the United Kingdom[^c-563ffc27c6e8ace67f2129f22b122707], requiring an authorisation or prohibited under Regulation [(EC) No 1013/2006](https://www.legislation.gov.uk/european/regulation/2006/1013) of the European Parliament and of the Council on shipments of waste [^f00037].
 
-### 10. Geological storage of carbon dioxide[^key-c88cfec6c9700a3b2dfc8bb9c3299a09]
+### 10. Geological storage of carbon dioxide[^c-c88cfec6c9700a3b2dfc8bb9c3299a09]
 
 The operation of storage sites pursuant to Directive [2009/31/EC](https://www.legislation.gov.uk/european/directive/2009/0031) of the European Parliament and of the Council of 23 April 2009 on the geological storage of carbon dioxide.
 
-### 11. Interpretation[^key-0136bcb392d882af3c3fc8c1a9998cf0]
+### 11. Interpretation[^c-0136bcb392d882af3c3fc8c1a9998cf0]
 
-A reference in this Schedule to an activity being authorised, prohibited or managed pursuant to, or subject to a permit or registration under, an EU Directive includes, after exit day, any activity authorised, prohibited or managed pursuant to, or subject to a permit or registration under, any assimilated[^key-a0f193ed0b4cf333d0b6441d0037628b] obligations which transposed that Directive.
+A reference in this Schedule to an activity being authorised, prohibited or managed pursuant to, or subject to a permit or registration under, an EU Directive includes, after exit day, any activity authorised, prohibited or managed pursuant to, or subject to a permit or registration under, any assimilated[^c-a0f193ed0b4cf333d0b6441d0037628b] obligations which transposed that Directive.
 
 ## SCHEDULE 3 — Permits, etc.
 
 Regulation 16
 
-### 1. Integrated pollution prevention and control[^key-0f333d58fc90b210430deef1448b6a4e]
+### 1. Integrated pollution prevention and control[^c-0f333d58fc90b210430deef1448b6a4e]
 
-A permit granted under the Pollution Prevention and Control Regulations (Northern Ireland) 2003[^f00038] for an activity listed in Annex 1 [Directive 2010/75/EU](https://www.legislation.gov.uk/european/directive/2010/0075)[^key-3868a08b9af3118636c4db19f0f60a51] of the European Parliament and of the Council on industrial emissions (Integrated pollution prevention and control).
+A permit granted under the Pollution Prevention and Control Regulations (Northern Ireland) 2003[^f00038] for an activity listed in Annex 1 [Directive 2010/75/EU](https://www.legislation.gov.uk/european/directive/2010/0075)[^c-3868a08b9af3118636c4db19f0f60a51] of the European Parliament and of the Council on industrial emissions (Integrated pollution prevention and control).
 
-### 2. Waste[^key-d5cfae3de1ce6d2ccabcf55a7bdb6edc]
+### 2. Waste[^c-d5cfae3de1ce6d2ccabcf55a7bdb6edc]
 
-(1) A permit issued under the Pollution Prevention and Control Regulations (Northern Ireland) 2003 for the recovery and disposal of waste and hazardous waste, including the supervision of such operations and after-care of disposal sites and including a registered exempt waste operation, in pursuance of Council Directive[^key-f1679da778913d40b499e01cd1a3dacb] [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste, as last amended by Directive (EU) 2018/851[^key-e476aab3f1e3be7a4f633bf36e31811a].
+(1) A permit issued under the Pollution Prevention and Control Regulations (Northern Ireland) 2003 for the recovery and disposal of waste and hazardous waste, including the supervision of such operations and after-care of disposal sites and including a registered exempt waste operation, in pursuance of Council Directive[^c-f1679da778913d40b499e01cd1a3dacb] [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste, as last amended by Directive (EU) 2018/851[^c-e476aab3f1e3be7a4f633bf36e31811a].
 
-(2) A licence or registration issued under the Waste Management Licensing Regulations (Northern Ireland) 2003[^f00040] or the Hazardous Waste Regulations (Northern Ireland) 2005[^f00041] for the recovery and disposal of waste and hazardous waste, including the supervision of such operations and after-care of disposal sites and including a registered exempt waste operation, in pursuance of Council Directive[^key-6fea5964746645c54d5e097b51974ec1] [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste, as last amended by Directive (EU) 2018/851[^key-574dc8c8e8538ad744248983beff3381].
+(2) A licence or registration issued under the Waste Management Licensing Regulations (Northern Ireland) 2003[^f00040] or the Hazardous Waste Regulations (Northern Ireland) 2005[^f00041] for the recovery and disposal of waste and hazardous waste, including the supervision of such operations and after-care of disposal sites and including a registered exempt waste operation, in pursuance of Council Directive[^c-6fea5964746645c54d5e097b51974ec1] [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste, as last amended by Directive (EU) 2018/851[^c-574dc8c8e8538ad744248983beff3381].
 
 (3) A licence granted under Part II of the Food and Environment Protection Act 1985[^f00042] issued for the purpose of those Directives.
 
-### 3. Landfill[^key-8ef231755a0b17a9011f1b38036fd2c7]
+### 3. Landfill[^c-8ef231755a0b17a9011f1b38036fd2c7]
 
-A permit granted under the Pollution Prevention and Control Regulations (Northern Ireland) 2003 for the operation of landfill sites under Council Directive [1999/31/EC](https://www.legislation.gov.uk/european/directive/1999/0031) on the landfill of waste, as last amended by Directive (EU) 2018/850[^key-8ec8dc910c94dbdf82336c01f74cbcaa].
+A permit granted under the Pollution Prevention and Control Regulations (Northern Ireland) 2003 for the operation of landfill sites under Council Directive [1999/31/EC](https://www.legislation.gov.uk/european/directive/1999/0031) on the landfill of waste, as last amended by Directive (EU) 2018/850[^c-8ec8dc910c94dbdf82336c01f74cbcaa].
 
-### 4. Incineration plants[^key-de843465d9f2850cd17feeb395d30d7e]
+### 4. Incineration plants[^c-de843465d9f2850cd17feeb395d30d7e]
 
-A permit granted under the Pollution Prevention and Control Regulations (Northern Ireland) 2003 for the operation of incineration plants under [Directive 2010/75/EU](https://www.legislation.gov.uk/european/directive/2010/0075)[^key-de6d8dd85f11fe1ea1b0e04dbc10ac46] of the European Parliament and of the Council on industrial emissions (Integrated pollution prevention and control).
+A permit granted under the Pollution Prevention and Control Regulations (Northern Ireland) 2003 for the operation of incineration plants under [Directive 2010/75/EU](https://www.legislation.gov.uk/european/directive/2010/0075)[^c-de6d8dd85f11fe1ea1b0e04dbc10ac46] of the European Parliament and of the Council on industrial emissions (Integrated pollution prevention and control).
 
-### 5. Discharges to water[^key-2d734dc4324f79276507712ac18bb98b]
+### 5. Discharges to water[^c-2d734dc4324f79276507712ac18bb98b]
 
 A water discharge consent under the Water (Northern Ireland) Order 1999[^f00043] or a drought order under the Water and Sewerage Services (Northern Ireland) Order 2006[^f00044].
 
-### 6. Discharges to groundwater[^key-3d553e4abf997ce91e55c299f8fbb9d1]
+### 6. Discharges to groundwater[^c-3d553e4abf997ce91e55c299f8fbb9d1]
 
 An authorisation under the Groundwater Regulations (Northern Ireland) 1998[^f00045]
 
-### 7. Water abstraction or impoundment[^key-379d9523bf84a3bd656dd04ea6f06bf0]
+### 7. Water abstraction or impoundment[^c-379d9523bf84a3bd656dd04ea6f06bf0]
 
 A water abstraction or impoundment licence under the Water Abstraction and Impoundment (Licensing) Regulations (Northern Ireland) 2006[^f00046].
 
-### 8. Pesticides and biocides[^key-96be731aba154036181a8b7543692fef]
+### 8. Pesticides and biocides[^c-96be731aba154036181a8b7543692fef]
 
-An approval of a pesticide under the Control of Pesticides Regulations (Northern Ireland) 1987[^f00047] or the Plant Protection Products Regulations (Northern Ireland) 2005[^f00048] or an authorisation of a biocidal product under, Regulation ([^key-c1515112587bd542c4b0bd7bf8afdbba]EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products.
+An approval of a pesticide under the Control of Pesticides Regulations (Northern Ireland) 1987[^f00047] or the Plant Protection Products Regulations (Northern Ireland) 2005[^f00048] or an authorisation of a biocidal product under, Regulation ([^c-c1515112587bd542c4b0bd7bf8afdbba]EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products.
 
-### 9. Genetically modified organisms[^key-22a9e5d050a0847b8c31319a06c9a10a]
+### 9. Genetically modified organisms[^c-22a9e5d050a0847b8c31319a06c9a10a]
 
 (1) An authorisation for the contained use of genetically modified organisms under the Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 2001[^f00050] or an authorisation given in any Member State in accordance with Article 7 or 19 of Regulation [(EC) No 1829/2003](https://www.legislation.gov.uk/european/regulation/2003/1829) of the European Parliament and of the Council on genetically modified food and feed[^f00051].
 
-(2) A consent for the deliberate release of genetically modified organisms under Article 8(1) of the Genetically Modified Organisms (Northern Ireland) Order 1991[^f00052]and the Genetically Modified Organisms (Deliberate Release) Regulations (Northern Ireland) 2003[^f00053] or a consent given in any other Member State for the placing of a genetically modified organism on the market as a product or in a product in accordance with Directive [2001/18/EC](https://www.legislation.gov.uk/european/directive/2001/0018) of the European Parliament and of the Council on the deliberate release into the environment of genetically modified organisms[^f00054] as last amended by ([^key-e39f89f63339923268a84bbcc4fd5c2b]EU) 2015/412 of the European Parliament and of the Council.
+(2) A consent for the deliberate release of genetically modified organisms under Article 8(1) of the Genetically Modified Organisms (Northern Ireland) Order 1991[^f00052]and the Genetically Modified Organisms (Deliberate Release) Regulations (Northern Ireland) 2003[^f00053] or a consent given in any other Member State for the placing of a genetically modified organism on the market as a product or in a product in accordance with Directive [2001/18/EC](https://www.legislation.gov.uk/european/directive/2001/0018) of the European Parliament and of the Council on the deliberate release into the environment of genetically modified organisms[^f00054] as last amended by ([^c-e39f89f63339923268a84bbcc4fd5c2b]EU) 2015/412 of the European Parliament and of the Council.
 
 ## SCHEDULE 4 — Remediation
 
@@ -688,19 +688,19 @@ Regulation 15
 
 ### PART 1 — Remediation of damage to natural resources other than land
 
-#### 1. Application of Part 1[^key-46c611bffd6ce523ce908eb34f0f7e5a]
+#### 1. Application of Part 1[^c-46c611bffd6ce523ce908eb34f0f7e5a]
 
 This Part relates to remediation of damage to natural resources other than land.
 
-#### 2. Risk to human health[^key-e9ede552a6c6ced67c4fa84c64960f66]
+#### 2. Risk to human health[^c-e9ede552a6c6ced67c4fa84c64960f66]
 
 Remediation shall remove any significant risk to human health.
 
-#### 3. Objective[^key-307b75ba39e13b83db5bc741ad451bfd]
+#### 3. Objective[^c-307b75ba39e13b83db5bc741ad451bfd]
 
 The objective of remediation is to achieve the same level of natural resource or services as would have existed if the damage had not occurred.
 
-#### 4. Primary and complementary remediation[^key-de9bb5598368cdac275e378382ae6c52]
+#### 4. Primary and complementary remediation[^c-de9bb5598368cdac275e378382ae6c52]
 
 (1) The remediation shall consist of such primary remediation or complementary remediation or both as will achieve the objective.
 
@@ -708,13 +708,13 @@ The objective of remediation is to achieve the same level of natural resource or
 
 (3) Complementary remediation is any remedial measure taken in relation to natural resources or services to compensate for the fact that primary remediation does not result in fully restoring the damaged natural resources or impaired services to the state that would have existed if the damage had not occurred.
 
-#### 5. Compensatory remediation[^key-9916395751032841334124f828935a24]
+#### 5. Compensatory remediation[^c-9916395751032841334124f828935a24]
 
 (1) In addition, compensatory remediation shall be provided to compensate for interim losses of natural resources or services that occur from the date of damage until remediation has achieved its objective; and in this paragraph “interim losses” means losses which result from the fact that the damaged natural resources or services are not able to perform their ecological functions or provide services to other natural resources or to the public until the primary or complementary measures have taken effect.
 
 (2) Compensatory remediation does not include financial compensation.
 
-#### 6. Choice of remediation[^key-f9a758eb01129eb3476dbd92d6a89577]
+#### 6. Choice of remediation[^c-f9a758eb01129eb3476dbd92d6a89577]
 
 The remediation options shall be evaluated using best available methods, and based on—
 
@@ -728,7 +728,7 @@ The remediation options shall be evaluated using best available methods, and bas
 - (h) the extent to which each option achieves the restoration of site of the environmental damage; and
 - (j) the geographical linkage to the damaged site.
 
-#### 7. Identification of complementary and compensatory remediation[^key-4c5a4e06001beeb60ab2b9783f6ee634]
+#### 7. Identification of complementary and compensatory remediation[^c-4c5a4e06001beeb60ab2b9783f6ee634]
 
 (1) If possible, complementary and compensatory remedial measures shall provide natural resources or services of the same type, quality and quantity as those damaged.
 
@@ -740,7 +740,7 @@ The remediation options shall be evaluated using best available methods, and bas
 
 (5) In the case of complementary remediation at a new site, where possible and appropriate this site should be geographically linked to the damaged site.
 
-#### 8. Options[^key-f58ac68f09044c92d0e387a831de04e1]
+#### 8. Options[^c-f58ac68f09044c92d0e387a831de04e1]
 
 (1) When evaluating the different identified remedial options, primary remedial measures that do not fully restore the damaged water or protected species or natural habitat to its condition at the time of the incident or that restore it more slowly may be chosen.
 
@@ -755,7 +755,7 @@ The remediation options shall be evaluated using best available methods, and bas
 
 ### PART 2 — Remediation of damage to land
 
-#### 9. Remediation of damage to land[^key-bdeb05b3ec5b828488eecbea601abd99]
+#### 9. Remediation of damage to land[^c-bdeb05b3ec5b828488eecbea601abd99]
 
 (1) This Part applies in relation to damage to land.
 
@@ -769,7 +769,7 @@ The remediation options shall be evaluated using best available methods, and bas
 
 Regulation 25
 
-### 1. Compensation for grant of rights[^key-83d68a73f441d6a27171c81b330151ac]
+### 1. Compensation for grant of rights[^c-83d68a73f441d6a27171c81b330151ac]
 
 This schedule prescribes—
 
@@ -777,14 +777,14 @@ This schedule prescribes—
 - (b) the manner in which, and the person to whom, such an application may be made; and
 - (c) the manner of determining such compensation, for determining the amount of such compensation and for making supplemental provision relating to such compensation.
 
-### 2. Interpretation[^key-ad4fa7c598a848f4ac3107550b163292]
+### 2. Interpretation[^c-ad4fa7c598a848f4ac3107550b163292]
 
 In this Schedule—
 
 - “the grantor” means the person who grants, or joins in granting, any right; and
 - “relevant interest” means an interest in land out of which a right has been granted or which is bound by a right granted.
 
-### 3. Period for making an application[^key-c36933ac7f606a2349e5288a89bde824]
+### 3. Period for making an application[^c-c36933ac7f606a2349e5288a89bde824]
 
 An application for compensation shall be made before the expiry of a period of 12 months beginning with—
 
@@ -793,7 +793,7 @@ An application for compensation shall be made before the expiry of a period of 1
 
 whichever is the later date.
 
-### 4. Manner of making an application[^key-6b759b136b6a5af3272f8ba4a46d5647]
+### 4. Manner of making an application[^c-6b759b136b6a5af3272f8ba4a46d5647]
 
 (1) An application for compensation shall be made in writing and delivered at or sent by pre-paid post to the last known address for correspondence of the person to whom the right was granted.
 
@@ -803,7 +803,7 @@ whichever is the later date.
 - (b) a description of the exact nature of any interest in land in respect of which compensation is applied for; and
 - (c) a statement of the amount of compensation applied for, distinguishing the amounts applied for under each of sub-paragraphs (a) to (e) of paragraph 5 and showing how the amount applied for under each sub-paragraph has been calculated.
 
-### 5. Loss and damage for which compensation is payable[^key-9c02cedc001c377afae73a6b6bded6a1]
+### 5. Loss and damage for which compensation is payable[^c-9c02cedc001c377afae73a6b6bded6a1]
 
 Compensation shall be payable for loss and damage of the following descriptions—
 
@@ -816,7 +816,7 @@ Compensation shall be payable for loss and damage of the following descriptions�
 - (d) any loss or damage sustained by the grantor, other than in relation to any interest in land to which the grantor is entitled, which is attributable to the grant of the right or the exercise of it; and
 - (e) the amount of any valuation and legal costs reasonably incurred by the grantor in granting the right and in the preparation of the application for and the negotiation of the amount of compensation.
 
-### 6. Basis on which compensation is assessed[^key-cfb60e10fd78dd4f84d87cc5f0ffeb81]
+### 6. Basis on which compensation is assessed[^c-cfb60e10fd78dd4f84d87cc5f0ffeb81]
 
 (1) The rules set out in Article 6 of the Land Compensation (Northern Ireland) Order 1982[^f00056] (rules for assessing compensation) have effect, so far as applicable and subject to any necessary modifications, for the purpose of assessing any compensation as they have effect for the purpose of assessing compensation for the compulsory acquisition of an interest in land.
 
@@ -826,7 +826,7 @@ Compensation shall be payable for loss and damage of the following descriptions�
 - (b) no compensation is payable in respect of the interest of the mortgagee (as distinct from the interest which is subject to the mortgage); and
 - (c) any compensation payable in respect of the interest that is subject to the mortgage shall be paid to the mortgagee or, if there is more than one mortgagee, to the first mortgagee and shall, in either case, be applied as if it were proceeds of sale.
 
-### 7. Determination of disputes[^key-b97a2ee58461540b5924bca383bb5296]
+### 7. Determination of disputes[^c-b97a2ee58461540b5924bca383bb5296]
 
 (1) Any question of disputed compensation shall be referred to and determined by the Lands Tribunal.
 
@@ -835,7 +835,7 @@ Compensation shall be payable for loss and damage of the following descriptions�
 - (a) the reference in Article 4 of the Land Compensation (Northern Ireland) Order 1982 to Article 3 of that Order were a reference to sub-paragraph (1); and
 - (b) references in Article 5 of the Land Compensation (Northern Ireland) Order 1982 to the acquiring authority were references to the person to whom the rights were granted.
 
-## SCHEDULE 6 — Issue of Warrants[^key-51d115e1bcf6a08b8caa052f25ea4b26]
+## SCHEDULE 6 — Issue of Warrants[^c-51d115e1bcf6a08b8caa052f25ea4b26]
 
 Regulation 26
 
@@ -881,279 +881,279 @@ A Regulatory Impact Assessment in relation to these Regulations has been placed 
 
 [^f00001]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-f13abf632d45fb5d28167cab5b76568b]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2009/252) modified (31.12.2020) by S.I. 2019/289, reg. 5, Sch. 3 (as amended by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/3)[(5)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5))
+[^c-f13abf632d45fb5d28167cab5b76568b]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2009/252) modified (31.12.2020) by S.I. 2019/289, reg. 5, Sch. 3 (as amended by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/3)[(5)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5))
 
-[^key-1a0698ac902a79c4e862cb8cfd466da2]: Commencement: Reg. 1 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-1a0698ac902a79c4e862cb8cfd466da2]: Commencement: Reg. 1 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-89e18172d152aa51e6ee67d9ec28f4e4]: Commencement: Reg. 2 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-89e18172d152aa51e6ee67d9ec28f4e4]: Commencement: Reg. 2 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
 [^f00002]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
 [^f00003]: Footnote: [S.I. 2002/3153 (N.I. 7)](https://www.legislation.gov.uk/nisi/2002/3153)
 
-[^key-2532ab90f86452b6a339d540a0a06595]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2009/252/regulation/2) inserted (19.7.2015) by [The Environmental Liability (Prevention and Remediation) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/231)](https://www.legislation.gov.uk/nisr/2015/231), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/231/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2015/231/regulation/2/2)
+[^c-2532ab90f86452b6a339d540a0a06595]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2009/252/regulation/2) inserted (19.7.2015) by [The Environmental Liability (Prevention and Remediation) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/231)](https://www.legislation.gov.uk/nisr/2015/231), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/231/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2015/231/regulation/2/2)
 
-[^key-6a0ad3239935353ec8fbf240e945e062]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/252/regulation/2/2) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 21(a)(i)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/21/a/i)
+[^c-6a0ad3239935353ec8fbf240e945e062]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/252/regulation/2/2) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 21(a)(i)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/21/a/i)
 
 [^f00004]: Footnote: O.J. No. L103, 25.4.79, p.1 (as last amended by Council Directive [2008/102/EC](https://www.legislation.gov.uk/european/directive/2008/0102), O.J. No. L323, 3.12.08, p.31)
 
 [^f00005]: Footnote: O.J. No. L206, 22.7.92, p.7 (as last amended by Council Directive [2006/105/EC](https://www.legislation.gov.uk/european/directive/2006/0105), O.J. No. L363, 20.12.06, p.368)
 
-[^key-b3c898c77c5c78dfe61458d0bce5db50]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/252/regulation/2/2) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 21(a)(ii)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/21/a/ii)
+[^c-b3c898c77c5c78dfe61458d0bce5db50]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/252/regulation/2/2) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 21(a)(ii)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/21/a/ii)
 
-[^key-db1f3e4cc79ac12fbafdc8e24a08eda3]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/252/regulation/2/2) inserted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [37](https://www.legislation.gov.uk/uksi/2019/584/regulation/37); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-db1f3e4cc79ac12fbafdc8e24a08eda3]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/252/regulation/2/2) inserted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [37](https://www.legislation.gov.uk/uksi/2019/584/regulation/37); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00006]: Footnote: [S.I. 1991/1220 (N.I. 11)](https://www.legislation.gov.uk/nisi/1991/1220)
 
-[^key-3ff0c4e16e3c0fdaf7a325d0d6deae59]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/252/regulation/2/2) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 21(b)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/21/b)
+[^c-3ff0c4e16e3c0fdaf7a325d0d6deae59]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/252/regulation/2/2) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 21(b)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/21/b)
 
 [^f00007]: Footnote: O.J. No. L143, 30.4.04, p.56 (as amended by Directive [2006/21/EC](https://www.legislation.gov.uk/european/directive/2006/0021), O.J. No. L102, 11.4.06, p.15)
 
-[^key-a23b448e0a957af6840a8552e9965b08]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/nisr/2009/252/regulation/2/3) inserted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/22)
+[^c-a23b448e0a957af6840a8552e9965b08]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/nisr/2009/252/regulation/2/3) inserted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/22)
 
-[^key-9fd1b52ab4e590195822b84d29981f48]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/nisr/2009/252/regulation/2/4) inserted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 23](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/23)
+[^c-9fd1b52ab4e590195822b84d29981f48]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/nisr/2009/252/regulation/2/4) inserted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 23](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/23)
 
-[^key-e3c1344a5b68e9019aa398b8a51a1e6b]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/nisr/2009/252/regulation/2/4) substituted (31.12.2020) by [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1101)](https://www.legislation.gov.uk/uksi/2019/1101), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/1/2/b), [5](https://www.legislation.gov.uk/uksi/2019/1101/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e3c1344a5b68e9019aa398b8a51a1e6b]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/nisr/2009/252/regulation/2/4) substituted (31.12.2020) by [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1101)](https://www.legislation.gov.uk/uksi/2019/1101), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/1/2/b), [5](https://www.legislation.gov.uk/uksi/2019/1101/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-50d47ae19d9e668dfc180007171ddfa2]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/nisr/2009/252/regulation/2A) substituted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [39](https://www.legislation.gov.uk/uksi/2019/584/regulation/39); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-50d47ae19d9e668dfc180007171ddfa2]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/nisr/2009/252/regulation/2A) substituted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [39](https://www.legislation.gov.uk/uksi/2019/584/regulation/39); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-78ebbbb05cea4e5af39a51faeeeed950]: Textual amendment: [Reg. 2B](https://www.legislation.gov.uk/nisr/2009/252/regulation/2B) inserted (19.7.2015) by [The Environmental Liability (Prevention and Remediation) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/231)](https://www.legislation.gov.uk/nisr/2015/231), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/231/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2015/231/regulation/2/3)
+[^c-78ebbbb05cea4e5af39a51faeeeed950]: Textual amendment: [Reg. 2B](https://www.legislation.gov.uk/nisr/2009/252/regulation/2B) inserted (19.7.2015) by [The Environmental Liability (Prevention and Remediation) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/231)](https://www.legislation.gov.uk/nisr/2015/231), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/231/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2015/231/regulation/2/3)
 
-[^key-f314d96a30512d7d35e01dcb8e17adb8]: Commencement: Reg. 3 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-f314d96a30512d7d35e01dcb8e17adb8]: Commencement: Reg. 3 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-5c9ebb2817481475937cf062885a7434]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/2009/252/regulation/3/1) substituted (19.7.2015) by [The Environmental Liability (Prevention and Remediation) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/231)](https://www.legislation.gov.uk/nisr/2015/231), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/231/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2015/231/regulation/2/4)
+[^c-5c9ebb2817481475937cf062885a7434]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/2009/252/regulation/3/1) substituted (19.7.2015) by [The Environmental Liability (Prevention and Remediation) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/231)](https://www.legislation.gov.uk/nisr/2015/231), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/231/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2015/231/regulation/2/4)
 
 [^f00008]: Footnote: O.J. No. L327, 22.12.00, p.1 (as last amended by Directive [2008/105/EC](https://www.legislation.gov.uk/european/directive/2008/0105) of the European Parliament and of the Council, O.J. No. L348, 24.12.08, p.84)
 
-[^key-6051ae90b56e5a0c8c519bd58934e4ed]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/nisr/2009/252/regulation/3/3) inserted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 25(a)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/25/a)
+[^c-6051ae90b56e5a0c8c519bd58934e4ed]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/nisr/2009/252/regulation/3/3) inserted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 25(a)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/25/a)
 
-[^key-5ce803741f78d1189f298c4e8ef18c43]: Textual amendment: Words in [reg. 3(3)(b)](https://www.legislation.gov.uk/nisr/2009/252/regulation/3/3/b) added (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 25(b)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/25/b)
+[^c-5ce803741f78d1189f298c4e8ef18c43]: Textual amendment: Words in [reg. 3(3)(b)](https://www.legislation.gov.uk/nisr/2009/252/regulation/3/3/b) added (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 25(b)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/25/b)
 
 [^f00009]: Footnote: O.J. No. L372, 27.12.06, p.19
 
-[^key-2fbc2447bc48edba92b41089ea657333]: Textual amendment: Words in [reg. 3(4)(b)](https://www.legislation.gov.uk/nisr/2009/252/regulation/3/4/b) added (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 25(c)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/25/c)
+[^c-2fbc2447bc48edba92b41089ea657333]: Textual amendment: Words in [reg. 3(4)(b)](https://www.legislation.gov.uk/nisr/2009/252/regulation/3/4/b) added (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 25(c)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/25/c)
 
-[^key-d43da377fd8b855b380d5813053940d5]: Textual amendment: [Reg. 3(4A)](https://www.legislation.gov.uk/nisr/2009/252/regulation/3/4A) inserted (19.7.2015) by [The Environmental Liability (Prevention and Remediation) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/231)](https://www.legislation.gov.uk/nisr/2015/231), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/231/regulation/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2015/231/regulation/2/5)
+[^c-d43da377fd8b855b380d5813053940d5]: Textual amendment: [Reg. 3(4A)](https://www.legislation.gov.uk/nisr/2009/252/regulation/3/4A) inserted (19.7.2015) by [The Environmental Liability (Prevention and Remediation) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/231)](https://www.legislation.gov.uk/nisr/2015/231), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/231/regulation/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2015/231/regulation/2/5)
 
-[^key-695ed380d27f09ecce5b622e4401dadf]: Textual amendment: Words in [reg. 3(4A)](https://www.legislation.gov.uk/nisr/2009/252/regulation/3/4A) omitted (31.12.2020) by virtue of [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [40](https://www.legislation.gov.uk/uksi/2019/584/regulation/40); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-695ed380d27f09ecce5b622e4401dadf]: Textual amendment: Words in [reg. 3(4A)](https://www.legislation.gov.uk/nisr/2009/252/regulation/3/4A) omitted (31.12.2020) by virtue of [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [40](https://www.legislation.gov.uk/uksi/2019/584/regulation/40); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8749373338316aab781a1b1d563bf427]: Commencement: Reg. 4 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-8749373338316aab781a1b1d563bf427]: Commencement: Reg. 4 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
 [^f00010]: Footnote: The Convention is set out in Schedule 7 to the Merchant Shipping Act 1995 ([1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21))
 
-[^key-2cc2b8034f00913ec30512f4e1ee6657]: Commencement: Reg. 5 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-2cc2b8034f00913ec30512f4e1ee6657]: Commencement: Reg. 5 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
 [^f00011]: Footnote: This Convention was implemented in Chapter III of the Merchant Shipping Act 1995 ([1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21))
 
 [^f00012]: Footnote: Implemented in the United Kingdom by [S.I. 2006/1244](https://www.legislation.gov.uk/uksi/2006/1244)
 
-[^key-aa1967d9c14814f2b33123958cba718b]: Commencement: Reg. 6 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-aa1967d9c14814f2b33123958cba718b]: Commencement: Reg. 6 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-f9eb1813f27e06f8f5632d0552c3d036]: Commencement: Reg. 7 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-f9eb1813f27e06f8f5632d0552c3d036]: Commencement: Reg. 7 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-d6a58a681e0726b5d289c5a891b44050]: Textual amendment: Words in [reg. 7(1)(b)](https://www.legislation.gov.uk/nisr/2009/252/regulation/7/1/b) omitted (31.12.2020) by virtue of [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [41](https://www.legislation.gov.uk/uksi/2019/584/regulation/41); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d6a58a681e0726b5d289c5a891b44050]: Textual amendment: Words in [reg. 7(1)(b)](https://www.legislation.gov.uk/nisr/2009/252/regulation/7/1/b) omitted (31.12.2020) by virtue of [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [41](https://www.legislation.gov.uk/uksi/2019/584/regulation/41); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-51d5fad3688324232cb288b0c6eaba9c]: Textual amendment: Words in [reg. 7(1)(c)](https://www.legislation.gov.uk/nisr/2009/252/regulation/7/1/c) omitted (31.12.2020) by virtue of [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [42](https://www.legislation.gov.uk/uksi/2019/584/regulation/42); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-51d5fad3688324232cb288b0c6eaba9c]: Textual amendment: Words in [reg. 7(1)(c)](https://www.legislation.gov.uk/nisr/2009/252/regulation/7/1/c) omitted (31.12.2020) by virtue of [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [42](https://www.legislation.gov.uk/uksi/2019/584/regulation/42); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f4f9411673702def29bc3486a7732ed2]: Textual amendment: Words in [reg. 7(2)(b)](https://www.legislation.gov.uk/nisr/2009/252/regulation/7/2/b) omitted (31.12.2020) by virtue of [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [43](https://www.legislation.gov.uk/uksi/2019/584/regulation/43); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f4f9411673702def29bc3486a7732ed2]: Textual amendment: Words in [reg. 7(2)(b)](https://www.legislation.gov.uk/nisr/2009/252/regulation/7/2/b) omitted (31.12.2020) by virtue of [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [43](https://www.legislation.gov.uk/uksi/2019/584/regulation/43); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6dc0dc806dc53ad16da3192466afe635]: Commencement: Reg. 8 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-6dc0dc806dc53ad16da3192466afe635]: Commencement: Reg. 8 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-289b3c1a0c8a69e8dd60f4bac0140110]: Commencement: Reg. 9 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-289b3c1a0c8a69e8dd60f4bac0140110]: Commencement: Reg. 9 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-8dedf4f5fdb8e16dbba941cf1f40dfa5]: Commencement: Reg. 10 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-8dedf4f5fdb8e16dbba941cf1f40dfa5]: Commencement: Reg. 10 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-fe42c39c155101e4cefe404d25f9b0a8]: Commencement: Reg. 11 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-fe42c39c155101e4cefe404d25f9b0a8]: Commencement: Reg. 11 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-77a4902aede0fc6a77ee6da8ed8891ab]: Commencement: Reg. 12 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-77a4902aede0fc6a77ee6da8ed8891ab]: Commencement: Reg. 12 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-245ea14126e9e7cc6ff50b5028f2d5b3]: Commencement: Reg. 13 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-245ea14126e9e7cc6ff50b5028f2d5b3]: Commencement: Reg. 13 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-8a041f7f967ebe4c855144969e663ea7]: Commencement: Reg. 14 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-8a041f7f967ebe4c855144969e663ea7]: Commencement: Reg. 14 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-39db515233d177ab67c59bcd103a95e4]: Commencement: Reg. 15 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-39db515233d177ab67c59bcd103a95e4]: Commencement: Reg. 15 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-867ecedbb32c1876cd362c7093124863]: Commencement: Reg. 16 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-867ecedbb32c1876cd362c7093124863]: Commencement: Reg. 16 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-91a4cd975478c1362d21930a7bd4b6ab]: Commencement: Reg. 17 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-91a4cd975478c1362d21930a7bd4b6ab]: Commencement: Reg. 17 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-95554ac881d5853508cc07d1dcdfaae8]: Commencement: Reg. 18 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-95554ac881d5853508cc07d1dcdfaae8]: Commencement: Reg. 18 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-ea071c5e9e1b080963dd94e306cc2166]: Commencement: Reg. 19 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-ea071c5e9e1b080963dd94e306cc2166]: Commencement: Reg. 19 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
 [^f00013]: Footnote: [S.I. 1991/1220 (N.I. 11)](https://www.legislation.gov.uk/nisi/1991/1220)
 
 [^f00014]: Footnote: [S.R. 1995 No. 78](https://www.legislation.gov.uk/nisr/1995/78)
 
-[^key-54c8fd375c2534e19fc65d423cb2ad21]: Commencement: Reg. 20 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-54c8fd375c2534e19fc65d423cb2ad21]: Commencement: Reg. 20 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-2e4b3d784942c1cb55fc4e9373b96dfc]: Commencement: Reg. 21 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-2e4b3d784942c1cb55fc4e9373b96dfc]: Commencement: Reg. 21 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-d5f85747df8506c8069f1412046d3589]: Commencement: Reg. 22 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-d5f85747df8506c8069f1412046d3589]: Commencement: Reg. 22 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-9bd1f9474cf9bed12a213999f71662a6]: Commencement: Reg. 23 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-9bd1f9474cf9bed12a213999f71662a6]: Commencement: Reg. 23 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-eb1bc935b0205ef85638d7cd87d1c4c0]: Commencement: Reg. 24 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-eb1bc935b0205ef85638d7cd87d1c4c0]: Commencement: Reg. 24 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-08e1ae4dda14a23c52ebc2a718b70515]: Commencement: Reg. 25 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-08e1ae4dda14a23c52ebc2a718b70515]: Commencement: Reg. 25 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-0f5ea57318d045d1e68e15c3b6b7c032]: Commencement: Reg. 26 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-0f5ea57318d045d1e68e15c3b6b7c032]: Commencement: Reg. 26 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-8c91b6f11624db9085419bc9bbd8b9df]: Textual amendment: Words in [reg. 26(7)(b)](https://www.legislation.gov.uk/nisr/2009/252/regulation/26/7/b) substituted (14.12.2009) by [The Environmental Liability (Prevention and Remediation) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/361)](https://www.legislation.gov.uk/nisr/2009/361), [reg. 3(3)](https://www.legislation.gov.uk/nisr/2009/361/regulation/3/3)
+[^c-8c91b6f11624db9085419bc9bbd8b9df]: Textual amendment: Words in [reg. 26(7)(b)](https://www.legislation.gov.uk/nisr/2009/252/regulation/26/7/b) substituted (14.12.2009) by [The Environmental Liability (Prevention and Remediation) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/361)](https://www.legislation.gov.uk/nisr/2009/361), [reg. 3(3)](https://www.legislation.gov.uk/nisr/2009/361/regulation/3/3)
 
-[^key-95cfbffd35b88f79963df3680c659510]: Textual amendment: Words in [reg. 26(8)](https://www.legislation.gov.uk/nisr/2009/252/regulation/26/8) substituted (14.12.2009) by [The Environmental Liability (Prevention and Remediation) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/361)](https://www.legislation.gov.uk/nisr/2009/361), [reg. 3(4)](https://www.legislation.gov.uk/nisr/2009/361/regulation/3/4)
+[^c-95cfbffd35b88f79963df3680c659510]: Textual amendment: Words in [reg. 26(8)](https://www.legislation.gov.uk/nisr/2009/252/regulation/26/8) substituted (14.12.2009) by [The Environmental Liability (Prevention and Remediation) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/361)](https://www.legislation.gov.uk/nisr/2009/361), [reg. 3(4)](https://www.legislation.gov.uk/nisr/2009/361/regulation/3/4)
 
-[^key-c710199afe3a38f2d0542353d5afd9cb]: Commencement: Reg. 27 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-c710199afe3a38f2d0542353d5afd9cb]: Commencement: Reg. 27 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-91de23a7b907e4053368d5055c52147a]: Commencement: Reg. 28 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-91de23a7b907e4053368d5055c52147a]: Commencement: Reg. 28 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
 [^f00015]: Footnote: [1881 c.41](https://www.legislation.gov.uk/ukpga/1881/41)
 
-[^key-091e4baf0ba9d5296468fd0bb8611793]: Commencement: Reg. 29 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-091e4baf0ba9d5296468fd0bb8611793]: Commencement: Reg. 29 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-cb0c1e05bceee3c6e3912b3a8b1fbe01]: Textual amendment: Words in [reg. 29(1)(a)](https://www.legislation.gov.uk/nisr/2009/252/regulation/29/1/a) substituted (14.12.2009) by [The Environmental Liability (Prevention and Remediation) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/361)](https://www.legislation.gov.uk/nisr/2009/361), [reg. 3(5)](https://www.legislation.gov.uk/nisr/2009/361/regulation/3/5)
+[^c-cb0c1e05bceee3c6e3912b3a8b1fbe01]: Textual amendment: Words in [reg. 29(1)(a)](https://www.legislation.gov.uk/nisr/2009/252/regulation/29/1/a) substituted (14.12.2009) by [The Environmental Liability (Prevention and Remediation) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/361)](https://www.legislation.gov.uk/nisr/2009/361), [reg. 3(5)](https://www.legislation.gov.uk/nisr/2009/361/regulation/3/5)
 
-[^key-8fb0dad631522b68686ff9da42194235]: Commencement: Sch. 1 para. 1 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-8fb0dad631522b68686ff9da42194235]: Commencement: Sch. 1 para. 1 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
 [^M_F_64f105ab-6029-4c0b-f70c-bba99626acd3]: Textual amendment: Words in [Sch. 1 para. 1(e)](https://editorial.legislation.gov.uk/nisr/2009/252/schedule/1/paragraph/1/2020-12-31/revision) substituted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [44](https://www.legislation.gov.uk/uksi/2019/584/regulation/44); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ecdae6d029a08f1663b78f7fca547296]: Commencement: Sch. 1 para. 2 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-ecdae6d029a08f1663b78f7fca547296]: Commencement: Sch. 1 para. 2 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-6aadfc173c62dafe6adf6ff09f93fd1b]: Commencement: Sch. 1 para. 3 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-6aadfc173c62dafe6adf6ff09f93fd1b]: Commencement: Sch. 1 para. 3 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-fcedd3b09017c8cbb31f356b0684f35f]: Commencement: Sch. 1 para. 4 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-fcedd3b09017c8cbb31f356b0684f35f]: Commencement: Sch. 1 para. 4 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
 [^f00016]: Footnote: [S.I. 2002/3153 (N.I. 7)](https://www.legislation.gov.uk/nisi/2002/3153)
 
-[^key-0d83a707f169c15c81a40c5f126dff10]: Commencement: Sch. 1 para. 5 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-0d83a707f169c15c81a40c5f126dff10]: Commencement: Sch. 1 para. 5 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
 [^f00017]: Footnote: [S.R. 1995 No. 380](https://www.legislation.gov.uk/nisr/1995/380)
 
 [^f00018]: Footnote: [S.R. 1985 No. 171](https://www.legislation.gov.uk/nisr/1985/171)
 
-[^key-815a9dfa22a42dab02ebf5cce1cfd119]: Commencement: Sch. 2 para. 1 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-815a9dfa22a42dab02ebf5cce1cfd119]: Commencement: Sch. 2 para. 1 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-edcef839b6a79f6b054846b3f018d23e]: Textual amendment: Word in [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2009/252/schedule/2/paragraph/1) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 26(a)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/26/a)
+[^c-edcef839b6a79f6b054846b3f018d23e]: Textual amendment: Word in [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2009/252/schedule/2/paragraph/1) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 26(a)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/26/a)
 
 [^f00019]: Footnote: O.J. No. L24, 29.01.08, p.8
 
-[^key-37d82ae972e700934643d32b6354f9af]: Commencement: Sch. 2 para. 2 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-37d82ae972e700934643d32b6354f9af]: Commencement: Sch. 2 para. 2 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-35a6cff482e8caed0f1e814e1f3960fe]: Textual amendment: Words in [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/nisr/2009/252/schedule/2/paragraph/2/1) substituted (8.4.2011) by [The Waste Regulations (Northern Ireland) 2011 (S.R. 2011/127)](https://www.legislation.gov.uk/nisr/2011/127), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1), [70(2)(a)](https://www.legislation.gov.uk/nisr/2011/127/regulation/70/2/a) (with [reg. 9(2)](https://www.legislation.gov.uk/nisr/2011/127/regulation/9/2))
+[^c-35a6cff482e8caed0f1e814e1f3960fe]: Textual amendment: Words in [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/nisr/2009/252/schedule/2/paragraph/2/1) substituted (8.4.2011) by [The Waste Regulations (Northern Ireland) 2011 (S.R. 2011/127)](https://www.legislation.gov.uk/nisr/2011/127), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1), [70(2)(a)](https://www.legislation.gov.uk/nisr/2011/127/regulation/70/2/a) (with [reg. 9(2)](https://www.legislation.gov.uk/nisr/2011/127/regulation/9/2))
 
-[^key-cb5ca72d19782fee14ea7e8506c6eab4]: Textual amendment: Words in [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/nisr/2009/252/schedule/2/paragraph/2/1) inserted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [9(2)](https://www.legislation.gov.uk/nisr/2020/285/regulation/9/2)
+[^c-cb5ca72d19782fee14ea7e8506c6eab4]: Textual amendment: Words in [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/nisr/2009/252/schedule/2/paragraph/2/1) inserted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [9(2)](https://www.legislation.gov.uk/nisr/2020/285/regulation/9/2)
 
-[^key-9c9d79cf57ae0caa6d880f37f152ed97]: Textual amendment: [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/nisr/2009/252/schedule/2/paragraph/2/2) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 26(b)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/26/b)
+[^c-9c9d79cf57ae0caa6d880f37f152ed97]: Textual amendment: [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/nisr/2009/252/schedule/2/paragraph/2/2) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 26(b)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/26/b)
 
-[^key-685be973dab76a0429962fd83bec6a15]: Commencement: Sch. 2 para. 3 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-685be973dab76a0429962fd83bec6a15]: Commencement: Sch. 2 para. 3 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
 [^f00024]: Footnote: O.J. No. L102, 11.04.06, p.15
 
-[^key-418a32c5cfb4baa0c6afafd71cef3441]: Commencement: Sch. 2 para. 4 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-418a32c5cfb4baa0c6afafd71cef3441]: Commencement: Sch. 2 para. 4 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-e3e0539d58ec4a5987aeb77ec24c62e2]: Textual amendment: Words in [Sch. 2 para. 4(1)](https://www.legislation.gov.uk/nisr/2009/252/schedule/2/paragraph/4/1) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 26(c)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/26/c)
+[^c-e3e0539d58ec4a5987aeb77ec24c62e2]: Textual amendment: Words in [Sch. 2 para. 4(1)](https://www.legislation.gov.uk/nisr/2009/252/schedule/2/paragraph/4/1) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 26(c)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/26/c)
 
-[^key-e0c9ac3ea7f7a9ac2a044a5b2cd0f39d]: Textual amendment: Words in [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/nisr/2009/252/schedule/2/paragraph/4/2) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 26(d)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/26/d)
+[^c-e0c9ac3ea7f7a9ac2a044a5b2cd0f39d]: Textual amendment: Words in [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/nisr/2009/252/schedule/2/paragraph/4/2) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 26(d)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/26/d)
 
 [^f00027]: Footnote: O.J. No. L327, 22.12.00, p.1 (as amended by Directive [2008/105/EC](https://www.legislation.gov.uk/european/directive/2008/0105) of the European Parliament and of the Council, O.J. No. L348, 24.12.08, p.84)
 
-[^key-90b5e3ad20ebc75f85d9e0fdd6000d0b]: Commencement: Sch. 2 para. 5 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-90b5e3ad20ebc75f85d9e0fdd6000d0b]: Commencement: Sch. 2 para. 5 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-83c35511f8106c2bbd554960f507bfff]: Commencement: Sch. 2 para. 6 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-83c35511f8106c2bbd554960f507bfff]: Commencement: Sch. 2 para. 6 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
 [^f00028]: Footnote: O.J. No. L196, 16.8.67, p.1 (as last amended by Regulation [(EC) No 2008/1272](https://www.legislation.gov.uk/european/regulation/1272/2008) of the European Parliament and of the Council , O.J. No. L353, 31.12.08, p.1)
 
-[^key-aae986f3dff234ff3f48a4e61b5b7e2f]: Textual amendment: Words in [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/nisr/2009/252/schedule/2/paragraph/6/a) added (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 26(e)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/26/e)
+[^c-aae986f3dff234ff3f48a4e61b5b7e2f]: Textual amendment: Words in [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/nisr/2009/252/schedule/2/paragraph/6/a) added (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 26(e)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/26/e)
 
 [^f00029]: Footnote: O.J. No. L 200, 30.7.99, p.1 (as last amended by Regulation [(EC) No 2008/1272](https://www.legislation.gov.uk/european/regulation/1272/2008) of the European Parliament and of the Council , O.J. No. L353, 31.12.08, p.1)
 
-[^key-bd4103eb35af0940de29ef8af6e2f78b]: Textual amendment: Words in [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/nisr/2009/252/schedule/2/paragraph/6/b) added (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 26(f)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/26/f)
+[^c-bd4103eb35af0940de29ef8af6e2f78b]: Textual amendment: Words in [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/nisr/2009/252/schedule/2/paragraph/6/b) added (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 26(f)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/26/f)
 
 [^f00030]: Footnote: O.J. No. L 230, 19.8.91, p.1 (as last amended by Commission Directive [2008/127/EC](https://www.legislation.gov.uk/european/directive/2008/0127), O.J. No. L344, 20.12.08, p.89)
 
-[^key-fb63a389e72f3904b2dbeca5a1486fe3]: Textual amendment: [Sch. 2 para. 6(d)](https://www.legislation.gov.uk/nisr/2009/252/schedule/2/paragraph/6/d) substituted (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2013 (S.R. 2013/206)](https://www.legislation.gov.uk/nisr/2013/206), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2013/206/regulation/2/1), [25](https://www.legislation.gov.uk/nisr/2013/206/regulation/25), [Sch. 4 para. 5(2)](https://www.legislation.gov.uk/nisr/2013/206/schedule/4/paragraph/5/2) (with [regs. 3](https://www.legislation.gov.uk/nisr/2013/206/regulation/3), [19](https://www.legislation.gov.uk/nisr/2013/206/regulation/19))
+[^c-fb63a389e72f3904b2dbeca5a1486fe3]: Textual amendment: [Sch. 2 para. 6(d)](https://www.legislation.gov.uk/nisr/2009/252/schedule/2/paragraph/6/d) substituted (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2013 (S.R. 2013/206)](https://www.legislation.gov.uk/nisr/2013/206), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2013/206/regulation/2/1), [25](https://www.legislation.gov.uk/nisr/2013/206/regulation/25), [Sch. 4 para. 5(2)](https://www.legislation.gov.uk/nisr/2013/206/schedule/4/paragraph/5/2) (with [regs. 3](https://www.legislation.gov.uk/nisr/2013/206/regulation/3), [19](https://www.legislation.gov.uk/nisr/2013/206/regulation/19))
 
-[^key-6cce7f556439ea9e3327d5bfaf5856d3]: Commencement: Sch. 2 para. 7 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-6cce7f556439ea9e3327d5bfaf5856d3]: Commencement: Sch. 2 para. 7 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-3b070b479ad3e6fae69ee5d0a6c22620]: Textual amendment: [Sch. 2 paras. 7(a)-(c)](https://www.legislation.gov.uk/nisr/2009/252/schedule/2/paragraph/7/a) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 26(g)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/26/g)
+[^c-3b070b479ad3e6fae69ee5d0a6c22620]: Textual amendment: [Sch. 2 paras. 7(a)-(c)](https://www.legislation.gov.uk/nisr/2009/252/schedule/2/paragraph/7/a) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 26(g)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/26/g)
 
-[^key-a9b4cccaabcd78ec8b9b299086a0703d]: Commencement: Sch. 2 para. 8 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-a9b4cccaabcd78ec8b9b299086a0703d]: Commencement: Sch. 2 para. 8 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-3c5dddacee1a368b59850e3a5277deb6]: Textual amendment: Words in [Sch. 2 para. 8(1)](https://www.legislation.gov.uk/nisr/2009/252/schedule/2/paragraph/8/1) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 26(h)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/26/h)
+[^c-3c5dddacee1a368b59850e3a5277deb6]: Textual amendment: Words in [Sch. 2 para. 8(1)](https://www.legislation.gov.uk/nisr/2009/252/schedule/2/paragraph/8/1) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 26(h)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/26/h)
 
 [^f00035]: Footnote: O.J. No. L117, 08.05.90, p.1 (as last amended by Commission Decision [2005/174/EC](https://www.legislation.gov.uk/european/decision/2005/0174), O.J. No. L59, 5.3.05, p.20)
 
 [^f00036]: Footnote: O.J. No. L106, 17.04.01, p.1 (as last amended by Directive [2008/27/EC](https://www.legislation.gov.uk/european/directive/2008/0027) of the European Parliament and of the Council, O.J. No. L81, 20.3.08, p.45)
 
-[^key-42cb2e076b92c81254e56c92f87a0b26]: Textual amendment: Words in [Sch. 2 para. 8(2)](https://www.legislation.gov.uk/nisr/2009/252/schedule/2/paragraph/8/2) added (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 26(i)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/26/i)
+[^c-42cb2e076b92c81254e56c92f87a0b26]: Textual amendment: Words in [Sch. 2 para. 8(2)](https://www.legislation.gov.uk/nisr/2009/252/schedule/2/paragraph/8/2) added (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 26(i)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/26/i)
 
-[^key-08318e7d905007e13de48d3fbeeae9b0]: Commencement: Sch. 2 para. 9 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-08318e7d905007e13de48d3fbeeae9b0]: Commencement: Sch. 2 para. 9 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-f869c823c0387a7a07cf674f498f051a]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
+[^c-f869c823c0387a7a07cf674f498f051a]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
 
-[^key-563ffc27c6e8ace67f2129f22b122707]: Textual amendment: Words in [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2009/252/schedule/2/paragraph/9) inserted (31.12.2020) by virtue of [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [45(a)](https://www.legislation.gov.uk/uksi/2019/584/regulation/45/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-563ffc27c6e8ace67f2129f22b122707]: Textual amendment: Words in [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2009/252/schedule/2/paragraph/9) inserted (31.12.2020) by virtue of [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [45(a)](https://www.legislation.gov.uk/uksi/2019/584/regulation/45/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00037]: Footnote: O.J. No. L190, 12.07.06, p.1 (as last amended by [Commission Regulation (EC) No 669/2008](https://www.legislation.gov.uk/european/regulation/2008/0669), O.J. No. L188, 16.7.08, p.7)
 
-[^key-c88cfec6c9700a3b2dfc8bb9c3299a09]: Textual amendment: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2009/252/schedule/2/paragraph/10) inserted (25.6.2011) by [The Environmental Liability (Prevention and Remediation) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/210)](https://www.legislation.gov.uk/nisr/2011/210), [reg. 2(2)](https://www.legislation.gov.uk/nisr/2011/210/regulation/2/2)
+[^c-c88cfec6c9700a3b2dfc8bb9c3299a09]: Textual amendment: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2009/252/schedule/2/paragraph/10) inserted (25.6.2011) by [The Environmental Liability (Prevention and Remediation) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/210)](https://www.legislation.gov.uk/nisr/2011/210), [reg. 2(2)](https://www.legislation.gov.uk/nisr/2011/210/regulation/2/2)
 
-[^key-0136bcb392d882af3c3fc8c1a9998cf0]: Textual amendment: [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/2009/252/schedule/2/paragraph/11) inserted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [45(b)](https://www.legislation.gov.uk/uksi/2019/584/regulation/45/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0136bcb392d882af3c3fc8c1a9998cf0]: Textual amendment: [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/2009/252/schedule/2/paragraph/11) inserted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [45(b)](https://www.legislation.gov.uk/uksi/2019/584/regulation/45/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a0f193ed0b4cf333d0b6441d0037628b]: Textual amendment: Word in [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/2009/252/schedule/2/paragraph/11) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 18](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/18)
+[^c-a0f193ed0b4cf333d0b6441d0037628b]: Textual amendment: Word in [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/2009/252/schedule/2/paragraph/11) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 18](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/18)
 
-[^key-0f333d58fc90b210430deef1448b6a4e]: Commencement: Sch. 3 para. 1 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-0f333d58fc90b210430deef1448b6a4e]: Commencement: Sch. 3 para. 1 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
 [^f00038]: Footnote: [S.R. 2003 No. 46](https://www.legislation.gov.uk/nisr/2003/46)
 
-[^key-3868a08b9af3118636c4db19f0f60a51]: Textual amendment: Words in [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2009/252/schedule/3/paragraph/1) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 27(a)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/27/a)
+[^c-3868a08b9af3118636c4db19f0f60a51]: Textual amendment: Words in [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2009/252/schedule/3/paragraph/1) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 27(a)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/27/a)
 
-[^key-d5cfae3de1ce6d2ccabcf55a7bdb6edc]: Commencement: Sch. 3 para. 2 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-d5cfae3de1ce6d2ccabcf55a7bdb6edc]: Commencement: Sch. 3 para. 2 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-f1679da778913d40b499e01cd1a3dacb]: Textual amendment: Words in [Sch. 3 para. 2(1)](https://www.legislation.gov.uk/nisr/2009/252/schedule/3/paragraph/2/1) substituted (8.4.2011) by [The Waste Regulations (Northern Ireland) 2011 (S.R. 2011/127)](https://www.legislation.gov.uk/nisr/2011/127), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1), [70(3)(a)](https://www.legislation.gov.uk/nisr/2011/127/regulation/70/3/a) (with [reg. 9(2)](https://www.legislation.gov.uk/nisr/2011/127/regulation/9/2))
+[^c-f1679da778913d40b499e01cd1a3dacb]: Textual amendment: Words in [Sch. 3 para. 2(1)](https://www.legislation.gov.uk/nisr/2009/252/schedule/3/paragraph/2/1) substituted (8.4.2011) by [The Waste Regulations (Northern Ireland) 2011 (S.R. 2011/127)](https://www.legislation.gov.uk/nisr/2011/127), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1), [70(3)(a)](https://www.legislation.gov.uk/nisr/2011/127/regulation/70/3/a) (with [reg. 9(2)](https://www.legislation.gov.uk/nisr/2011/127/regulation/9/2))
 
-[^key-e476aab3f1e3be7a4f633bf36e31811a]: Textual amendment: Words in [Sch. 3 para. 2(1)](https://www.legislation.gov.uk/nisr/2009/252/schedule/3/paragraph/2/1) inserted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [9(3)(a)](https://www.legislation.gov.uk/nisr/2020/285/regulation/9/3/a)
+[^c-e476aab3f1e3be7a4f633bf36e31811a]: Textual amendment: Words in [Sch. 3 para. 2(1)](https://www.legislation.gov.uk/nisr/2009/252/schedule/3/paragraph/2/1) inserted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [9(3)(a)](https://www.legislation.gov.uk/nisr/2020/285/regulation/9/3/a)
 
 [^f00040]: Footnote: [S.R. 2003 No. 493](https://www.legislation.gov.uk/nisr/2003/493)
 
 [^f00041]: Footnote: [S.R. 2005 No. 300](https://www.legislation.gov.uk/nisr/2005/300)
 
-[^key-6fea5964746645c54d5e097b51974ec1]: Textual amendment: Words in [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/nisr/2009/252/schedule/3/paragraph/2/2) substituted (8.4.2011) by [The Waste Regulations (Northern Ireland) 2011 (S.R. 2011/127)](https://www.legislation.gov.uk/nisr/2011/127), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1), [70(3)(b)](https://www.legislation.gov.uk/nisr/2011/127/regulation/70/3/b) (with [reg. 9(2)](https://www.legislation.gov.uk/nisr/2011/127/regulation/9/2))
+[^c-6fea5964746645c54d5e097b51974ec1]: Textual amendment: Words in [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/nisr/2009/252/schedule/3/paragraph/2/2) substituted (8.4.2011) by [The Waste Regulations (Northern Ireland) 2011 (S.R. 2011/127)](https://www.legislation.gov.uk/nisr/2011/127), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1), [70(3)(b)](https://www.legislation.gov.uk/nisr/2011/127/regulation/70/3/b) (with [reg. 9(2)](https://www.legislation.gov.uk/nisr/2011/127/regulation/9/2))
 
-[^key-574dc8c8e8538ad744248983beff3381]: Textual amendment: Words in [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/nisr/2009/252/schedule/3/paragraph/2/2) inserted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [9(3)(b)](https://www.legislation.gov.uk/nisr/2020/285/regulation/9/3/b)
+[^c-574dc8c8e8538ad744248983beff3381]: Textual amendment: Words in [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/nisr/2009/252/schedule/3/paragraph/2/2) inserted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [9(3)(b)](https://www.legislation.gov.uk/nisr/2020/285/regulation/9/3/b)
 
 [^f00042]: Footnote: [1985 c. 48](https://www.legislation.gov.uk/ukpga/1985/48)
 
-[^key-8ef231755a0b17a9011f1b38036fd2c7]: Commencement: Sch. 3 para. 3 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-8ef231755a0b17a9011f1b38036fd2c7]: Commencement: Sch. 3 para. 3 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-8ec8dc910c94dbdf82336c01f74cbcaa]: Textual amendment: Words in [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2009/252/schedule/3/paragraph/3) inserted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [9(3)(c)](https://www.legislation.gov.uk/nisr/2020/285/regulation/9/3/c)
+[^c-8ec8dc910c94dbdf82336c01f74cbcaa]: Textual amendment: Words in [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2009/252/schedule/3/paragraph/3) inserted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [9(3)(c)](https://www.legislation.gov.uk/nisr/2020/285/regulation/9/3/c)
 
-[^key-de843465d9f2850cd17feeb395d30d7e]: Commencement: Sch. 3 para. 4 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-de843465d9f2850cd17feeb395d30d7e]: Commencement: Sch. 3 para. 4 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-de6d8dd85f11fe1ea1b0e04dbc10ac46]: Textual amendment: Words in [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2009/252/schedule/3/paragraph/4) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 27(b)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/27/b)
+[^c-de6d8dd85f11fe1ea1b0e04dbc10ac46]: Textual amendment: Words in [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2009/252/schedule/3/paragraph/4) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 27(b)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/27/b)
 
-[^key-2d734dc4324f79276507712ac18bb98b]: Commencement: Sch. 3 para. 5 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-2d734dc4324f79276507712ac18bb98b]: Commencement: Sch. 3 para. 5 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
 [^f00043]: Footnote: [S.I. 1999/662 (N.I. 6)](https://www.legislation.gov.uk/nisi/1999/662)
 
 [^f00044]: Footnote: [S.I. 2006/3336 (N.I. 21)](https://www.legislation.gov.uk/nisi/2006/3336)
 
-[^key-3d553e4abf997ce91e55c299f8fbb9d1]: Commencement: Sch. 3 para. 6 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-3d553e4abf997ce91e55c299f8fbb9d1]: Commencement: Sch. 3 para. 6 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
 [^f00045]: Footnote: [S.R. 1998 No. 401](https://www.legislation.gov.uk/nisr/1998/401)
 
-[^key-379d9523bf84a3bd656dd04ea6f06bf0]: Commencement: Sch. 3 para. 7 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-379d9523bf84a3bd656dd04ea6f06bf0]: Commencement: Sch. 3 para. 7 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
 [^f00046]: Footnote: [S.R. 2006 No. 482](https://www.legislation.gov.uk/nisr/2006/482)
 
-[^key-96be731aba154036181a8b7543692fef]: Commencement: Sch. 3 para. 8 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-96be731aba154036181a8b7543692fef]: Commencement: Sch. 3 para. 8 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
 [^f00047]: Footnote: [S.R. 1987 No. 414](https://www.legislation.gov.uk/nisr/1987/414)
 
 [^f00048]: Footnote: [S.R. 2005 No. 526](https://www.legislation.gov.uk/nisr/2005/526)
 
-[^key-c1515112587bd542c4b0bd7bf8afdbba]: Textual amendment: Words in [Sch. 3 para. 8](https://www.legislation.gov.uk/nisr/2009/252/schedule/3/paragraph/8) substituted (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2013 (S.R. 2013/206)](https://www.legislation.gov.uk/nisr/2013/206), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2013/206/regulation/2/1), [25](https://www.legislation.gov.uk/nisr/2013/206/regulation/25), [Sch. 4 para. 5(3)](https://www.legislation.gov.uk/nisr/2013/206/schedule/4/paragraph/5/3) (with [regs. 3](https://www.legislation.gov.uk/nisr/2013/206/regulation/3), [19](https://www.legislation.gov.uk/nisr/2013/206/regulation/19))
+[^c-c1515112587bd542c4b0bd7bf8afdbba]: Textual amendment: Words in [Sch. 3 para. 8](https://www.legislation.gov.uk/nisr/2009/252/schedule/3/paragraph/8) substituted (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2013 (S.R. 2013/206)](https://www.legislation.gov.uk/nisr/2013/206), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2013/206/regulation/2/1), [25](https://www.legislation.gov.uk/nisr/2013/206/regulation/25), [Sch. 4 para. 5(3)](https://www.legislation.gov.uk/nisr/2013/206/schedule/4/paragraph/5/3) (with [regs. 3](https://www.legislation.gov.uk/nisr/2013/206/regulation/3), [19](https://www.legislation.gov.uk/nisr/2013/206/regulation/19))
 
-[^key-22a9e5d050a0847b8c31319a06c9a10a]: Commencement: Sch. 3 para. 9 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-22a9e5d050a0847b8c31319a06c9a10a]: Commencement: Sch. 3 para. 9 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
 [^f00050]: Footnote: [S.R. 2001 No. 295](https://www.legislation.gov.uk/nisr/2001/295)
 
@@ -1165,42 +1165,42 @@ A Regulatory Impact Assessment in relation to these Regulations has been placed 
 
 [^f00054]: Footnote: O.J. No. L106, 17.4.01, p.1 (as last amended by Directive [2008/27/EC](https://www.legislation.gov.uk/european/directive/2008/0027) of the European Parliament and of the Council, O.J. No. L81, 20.3.08, p.45)
 
-[^key-e39f89f63339923268a84bbcc4fd5c2b]: Textual amendment: Words in [Sch. 3 para. 9(2)](https://www.legislation.gov.uk/nisr/2009/252/schedule/3/paragraph/9/2) added (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 27(c)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/27/c)
+[^c-e39f89f63339923268a84bbcc4fd5c2b]: Textual amendment: Words in [Sch. 3 para. 9(2)](https://www.legislation.gov.uk/nisr/2009/252/schedule/3/paragraph/9/2) added (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 27(c)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/27/c)
 
-[^key-46c611bffd6ce523ce908eb34f0f7e5a]: Commencement: Sch. 4 para. 1 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-46c611bffd6ce523ce908eb34f0f7e5a]: Commencement: Sch. 4 para. 1 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-e9ede552a6c6ced67c4fa84c64960f66]: Commencement: Sch. 4 para. 2 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-e9ede552a6c6ced67c4fa84c64960f66]: Commencement: Sch. 4 para. 2 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-307b75ba39e13b83db5bc741ad451bfd]: Commencement: Sch. 4 para. 3 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-307b75ba39e13b83db5bc741ad451bfd]: Commencement: Sch. 4 para. 3 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-de9bb5598368cdac275e378382ae6c52]: Commencement: Sch. 4 para. 4 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-de9bb5598368cdac275e378382ae6c52]: Commencement: Sch. 4 para. 4 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-9916395751032841334124f828935a24]: Commencement: Sch. 4 para. 5 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-9916395751032841334124f828935a24]: Commencement: Sch. 4 para. 5 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-f9a758eb01129eb3476dbd92d6a89577]: Commencement: Sch. 4 para. 6 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-f9a758eb01129eb3476dbd92d6a89577]: Commencement: Sch. 4 para. 6 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-4c5a4e06001beeb60ab2b9783f6ee634]: Commencement: Sch. 4 para. 7 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-4c5a4e06001beeb60ab2b9783f6ee634]: Commencement: Sch. 4 para. 7 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-f58ac68f09044c92d0e387a831de04e1]: Commencement: Sch. 4 para. 8 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-f58ac68f09044c92d0e387a831de04e1]: Commencement: Sch. 4 para. 8 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-bdeb05b3ec5b828488eecbea601abd99]: Commencement: Sch. 4 para. 9 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-bdeb05b3ec5b828488eecbea601abd99]: Commencement: Sch. 4 para. 9 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-83d68a73f441d6a27171c81b330151ac]: Commencement: Sch. 5 para. 1 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-83d68a73f441d6a27171c81b330151ac]: Commencement: Sch. 5 para. 1 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-ad4fa7c598a848f4ac3107550b163292]: Commencement: Sch. 5 para. 2 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-ad4fa7c598a848f4ac3107550b163292]: Commencement: Sch. 5 para. 2 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-c36933ac7f606a2349e5288a89bde824]: Commencement: Sch. 5 para. 3 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-c36933ac7f606a2349e5288a89bde824]: Commencement: Sch. 5 para. 3 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-6b759b136b6a5af3272f8ba4a46d5647]: Commencement: Sch. 5 para. 4 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-6b759b136b6a5af3272f8ba4a46d5647]: Commencement: Sch. 5 para. 4 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-9c02cedc001c377afae73a6b6bded6a1]: Commencement: Sch. 5 para. 5 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-9c02cedc001c377afae73a6b6bded6a1]: Commencement: Sch. 5 para. 5 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
 [^f00055]: Footnote: [S.I. 1973/1896 (N.I. 21)](https://www.legislation.gov.uk/nisi/1973/1896)
 
-[^key-cfb60e10fd78dd4f84d87cc5f0ffeb81]: Commencement: Sch. 5 para. 6 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-cfb60e10fd78dd4f84d87cc5f0ffeb81]: Commencement: Sch. 5 para. 6 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
 [^f00056]: Footnote: [S.I. 1982/712 (N.I. 9)](https://www.legislation.gov.uk/nisi/1982/712)
 
-[^key-b97a2ee58461540b5924bca383bb5296]: Commencement: Sch. 5 para. 7 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
+[^c-b97a2ee58461540b5924bca383bb5296]: Commencement: Sch. 5 para. 7 in operation at 24.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/252/regulation/1)
 
-[^key-51d115e1bcf6a08b8caa052f25ea4b26]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/nisr/2009/252/schedule/6) inserted (14.12.2009) by [The Environmental Liability (Prevention and Remediation) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/361)](https://www.legislation.gov.uk/nisr/2009/361), [reg. 3(6)](https://www.legislation.gov.uk/nisr/2009/361/regulation/3/6)
+[^c-51d115e1bcf6a08b8caa052f25ea4b26]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/nisr/2009/252/schedule/6) inserted (14.12.2009) by [The Environmental Liability (Prevention and Remediation) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/361)](https://www.legislation.gov.uk/nisr/2009/361), [reg. 3(6)](https://www.legislation.gov.uk/nisr/2009/361/regulation/3/6)

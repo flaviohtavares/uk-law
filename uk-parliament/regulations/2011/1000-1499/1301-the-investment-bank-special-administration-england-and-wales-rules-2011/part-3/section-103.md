@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 103. Returns or reports of meetings[^key-d08bcbb8687f8836379de6790671eae0]
+## 103. Returns or reports of meetings[^c-d08bcbb8687f8836379de6790671eae0]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In addition to the information required by rule 313, the notification of a retur
 
 ## Annotations
 
-[^key-d08bcbb8687f8836379de6790671eae0]: Commencement: [Rule 103](https://www.legislation.gov.uk/uksi/2011/1301/rule/103) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-d08bcbb8687f8836379de6790671eae0]: Commencement: [Rule 103](https://www.legislation.gov.uk/uksi/2011/1301/rule/103) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

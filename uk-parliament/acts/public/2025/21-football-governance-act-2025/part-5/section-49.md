@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Duty not to change crest, home shirt colours or name without approval[^key-b4530352481d78879f296d187aa22964][^key-cab6730a82cb224c83f41b87efb67de2]
+## 49. Duty not to change crest, home shirt colours or name without approval[^c-b4530352481d78879f296d187aa22964][^c-cab6730a82cb224c83f41b87efb67de2]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ unless the club has taken reasonable steps to establish that the changes are sup
 
 ## Annotations
 
-[^key-b4530352481d78879f296d187aa22964]: Commencement: S. 49 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-b4530352481d78879f296d187aa22964]: Commencement: S. 49 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-cab6730a82cb224c83f41b87efb67de2]: Commencement: S. 49 in force at 1.7.2026 in so far as not already in force by [S.I. 2026/705](https://www.legislation.gov.uk/uksi/2026/705), [reg. 2(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2026/705/regulation/2/1/a/iii)
+[^c-cab6730a82cb224c83f41b87efb67de2]: Commencement: S. 49 in force at 1.7.2026 in so far as not already in force by [S.I. 2026/705](https://www.legislation.gov.uk/uksi/2026/705), [reg. 2(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2026/705/regulation/2/1/a/iii)

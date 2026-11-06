@@ -62,15 +62,15 @@ In these Regulations—
   - (b) a Health Board or Special Health Board constituted under section 2 of the National Health Service (Scotland) Act 1978 [^c23310581],
   - (c) Health Education England,
   - (d) the Health Research Authority,
-  - (da) an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006,[^key-c38cd457dc34999c0988f4d924d90cb9]
-  - (e) NHS England[^key-46512bf79317e745bd471c6313554928],
+  - (da) an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006,[^c-c38cd457dc34999c0988f4d924d90cb9]
+  - (e) NHS England[^c-46512bf79317e745bd471c6313554928],
   - (f) the National Institute for Health and Care Excellence,
   - (g) a Local Health Board,
   - (h) an NHS trust established or continued under section 18 of the Act or established under section 25 of the National Health Service Act 2006,
   - (i) an NHS foundation trust,
   - (j) NHS Education for Scotland,
   - (k) Northern Ireland Medical and Dental Training Agency;
-  - (l) a Special Health Authority established under section 22 of the Act;[^key-8c74fe6a0dc66b3cd4bca1ec6b11398a]
+  - (l) a Special Health Authority established under section 22 of the Act;[^c-8c74fe6a0dc66b3cd4bca1ec6b11398a]
 - “**health service**” (“***gwasanaeth iechyd***”) means services provided as part of the health service continued under section 1(1) of the Act;
 - “**HEIW**” (“***AaGIC***”) means Health Education and Improvement Wales established by the Health Education and Improvement Wales (Establishment and Constitution) Order 2017 [^c23310591];
 - “**member**” (“***aelod***”), except in regulation 5(2) and paragraphs 3(4) and 4(1) of Schedule 1, means a member of HEIW, including the chair.
@@ -96,7 +96,7 @@ In these Regulations—
 
 (2) The tenure of office of a non-officer member is such period, not exceeding 4 years, as the Welsh Ministers specify on the making of the appointment.
 
-(3)[^key-21b2617c66a92fca62ee0290fef66240] A person who has been a non-officer member is eligible for reappointment but a person must not be a non-officer member for a total period of more than 8 years.
+(3)[^c-21b2617c66a92fca62ee0290fef66240] A person who has been a non-officer member is eligible for reappointment but a person must not be a non-officer member for a total period of more than 8 years.
 
 (4) A person may resign from office as a non-officer member by giving notice in writing to the Welsh Ministers.
 
@@ -110,11 +110,11 @@ In these Regulations—
 
 (1) A person is ineligible to be a chair or non-officer member if that person is, or has been within the preceding year, in the paid employment of—
 
-- (a) a Local Health Board; [^key-a950c61e09869127f9591b0bf9c42a3a]...
-- (b) an NHS trust established under section 18 of the Act;[^key-7c41c4ee1bc34ef49ba45ec07c89ddfa]
+- (a) a Local Health Board; [^c-a950c61e09869127f9591b0bf9c42a3a]...
+- (b) an NHS trust established under section 18 of the Act;[^c-7c41c4ee1bc34ef49ba45ec07c89ddfa]
 - (c) a Special Health Authority in relation to Wales established by the Welsh Ministers under section 22 of the Act.
 
-(2) For the purposes of paragraph (1), a person is not to be treated as having been in paid employment by reason only of having held the position of chair, vice-chair or non-officer member of a Local Health Board or a Special Health Authority,[^key-7f18608e449d2d2bac42a3fdf999f3c0] or a chair, vice-chair or non-executive director of an NHS trust.
+(2) For the purposes of paragraph (1), a person is not to be treated as having been in paid employment by reason only of having held the position of chair, vice-chair or non-officer member of a Local Health Board or a Special Health Authority,[^c-7f18608e449d2d2bac42a3fdf999f3c0] or a chair, vice-chair or non-executive director of an NHS trust.
 
 ## 6. Non-officer members – disqualification from membership
 
@@ -397,7 +397,7 @@ those members may call a meeting to be held immediately.
 
 (3) In sub-paragraph (2), “**total number of members**” means the total number of members excluding the chair and any member suspended for the time being under regulation 9.
 
-**3.** (1) Before each meeting, other than a meeting called under paragraph 2(2), a notice of the meeting must be delivered to each member, or sent by post to each member's last known address at least 5[^key-04f538c9bbfab1a5fd8e036ae27ffae8] clear days before the date of the meeting.
+**3.** (1) Before each meeting, other than a meeting called under paragraph 2(2), a notice of the meeting must be delivered to each member, or sent by post to each member's last known address at least 5[^c-04f538c9bbfab1a5fd8e036ae27ffae8] clear days before the date of the meeting.
 
 (2) A notice under sub-paragraph (1) must—
 
@@ -442,20 +442,20 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23310581]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
 
-[^key-c38cd457dc34999c0988f4d924d90cb9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2017/909/regulation/2) inserted (16.12.2024) by [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2024/1205/regulation/20)
+[^c-c38cd457dc34999c0988f4d924d90cb9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2017/909/regulation/2) inserted (16.12.2024) by [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2024/1205/regulation/20)
 
-[^key-46512bf79317e745bd471c6313554928]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2017/909/regulation/2) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [92(2)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/92/2)
+[^c-46512bf79317e745bd471c6313554928]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2017/909/regulation/2) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [92(2)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/92/2)
 
-[^key-8c74fe6a0dc66b3cd4bca1ec6b11398a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2017/909/regulation/2) inserted (20.1.2025) by [The Local Health Boards, NHS Trusts and Special Health Authorities (Constitution, Membership and Procedures) (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1308)](https://www.legislation.gov.uk/wsi/2024/1308), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/1/2), [13](https://www.legislation.gov.uk/wsi/2024/1308/regulation/13)
+[^c-8c74fe6a0dc66b3cd4bca1ec6b11398a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2017/909/regulation/2) inserted (20.1.2025) by [The Local Health Boards, NHS Trusts and Special Health Authorities (Constitution, Membership and Procedures) (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1308)](https://www.legislation.gov.uk/wsi/2024/1308), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/1/2), [13](https://www.legislation.gov.uk/wsi/2024/1308/regulation/13)
 
 [^c23310591]: Marginal citation: [S.I. 2017/913](https://www.legislation.gov.uk/uksi/2017/913) (W. 224).
 
-[^key-21b2617c66a92fca62ee0290fef66240]: Modification: Reg. 4(3) excluded in part (temp.) (5.7.2020) by [The National Health Service (Temporary Disapplication of Tenure of Office) (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/585)](https://www.legislation.gov.uk/wsi/2020/585), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/585/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2020/585/regulation/7) (with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/585/regulation/1/3), [8](https://www.legislation.gov.uk/wsi/2020/585/regulation/8))
+[^c-21b2617c66a92fca62ee0290fef66240]: Modification: Reg. 4(3) excluded in part (temp.) (5.7.2020) by [The National Health Service (Temporary Disapplication of Tenure of Office) (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/585)](https://www.legislation.gov.uk/wsi/2020/585), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/585/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2020/585/regulation/7) (with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/585/regulation/1/3), [8](https://www.legislation.gov.uk/wsi/2020/585/regulation/8))
 
-[^key-a950c61e09869127f9591b0bf9c42a3a]: Textual amendment: Word in [reg. 5(1)](https://www.legislation.gov.uk/wsi/2017/909/regulation/5/1) omitted (20.1.2025) by virtue of [The Local Health Boards, NHS Trusts and Special Health Authorities (Constitution, Membership and Procedures) (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1308)](https://www.legislation.gov.uk/wsi/2024/1308), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/1/2), [14(a)(i)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/14/a/i)
+[^c-a950c61e09869127f9591b0bf9c42a3a]: Textual amendment: Word in [reg. 5(1)](https://www.legislation.gov.uk/wsi/2017/909/regulation/5/1) omitted (20.1.2025) by virtue of [The Local Health Boards, NHS Trusts and Special Health Authorities (Constitution, Membership and Procedures) (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1308)](https://www.legislation.gov.uk/wsi/2024/1308), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/1/2), [14(a)(i)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/14/a/i)
 
-[^key-7c41c4ee1bc34ef49ba45ec07c89ddfa]: Textual amendment: [Reg. 5(1)(c)](https://www.legislation.gov.uk/wsi/2017/909/regulation/5/1/c) inserted (20.1.2025) by [The Local Health Boards, NHS Trusts and Special Health Authorities (Constitution, Membership and Procedures) (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1308)](https://www.legislation.gov.uk/wsi/2024/1308), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/1/2), [14(a)(ii)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/14/a/ii)
+[^c-7c41c4ee1bc34ef49ba45ec07c89ddfa]: Textual amendment: [Reg. 5(1)(c)](https://www.legislation.gov.uk/wsi/2017/909/regulation/5/1/c) inserted (20.1.2025) by [The Local Health Boards, NHS Trusts and Special Health Authorities (Constitution, Membership and Procedures) (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1308)](https://www.legislation.gov.uk/wsi/2024/1308), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/1/2), [14(a)(ii)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/14/a/ii)
 
-[^key-7f18608e449d2d2bac42a3fdf999f3c0]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/wsi/2017/909/regulation/5/2) inserted (20.1.2025) by [The Local Health Boards, NHS Trusts and Special Health Authorities (Constitution, Membership and Procedures) (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1308)](https://www.legislation.gov.uk/wsi/2024/1308), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/1/2), [14(b)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/14/b)
+[^c-7f18608e449d2d2bac42a3fdf999f3c0]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/wsi/2017/909/regulation/5/2) inserted (20.1.2025) by [The Local Health Boards, NHS Trusts and Special Health Authorities (Constitution, Membership and Procedures) (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1308)](https://www.legislation.gov.uk/wsi/2024/1308), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/1/2), [14(b)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/14/b)
 
-[^key-04f538c9bbfab1a5fd8e036ae27ffae8]: Textual amendment: Word in [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/wsi/2017/909/schedule/2/paragraph/3/1) substituted (20.1.2025) by [The Local Health Boards, NHS Trusts and Special Health Authorities (Constitution, Membership and Procedures) (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1308)](https://www.legislation.gov.uk/wsi/2024/1308), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/1/2), [15](https://www.legislation.gov.uk/wsi/2024/1308/regulation/15)
+[^c-04f538c9bbfab1a5fd8e036ae27ffae8]: Textual amendment: Word in [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/wsi/2017/909/schedule/2/paragraph/3/1) substituted (20.1.2025) by [The Local Health Boards, NHS Trusts and Special Health Authorities (Constitution, Membership and Procedures) (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1308)](https://www.legislation.gov.uk/wsi/2024/1308), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/1/2), [15](https://www.legislation.gov.uk/wsi/2024/1308/regulation/15)

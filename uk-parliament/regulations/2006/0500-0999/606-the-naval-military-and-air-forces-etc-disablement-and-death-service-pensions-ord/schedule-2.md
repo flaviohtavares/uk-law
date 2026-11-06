@@ -55,7 +55,7 @@ summary: ''
 
 ### PART II — RATES OF PENSIONS AND ALLOWANCES
 
-Table 1[^key-2cdedbc33c9cb05e5c2846452ffa94e6]
+Table 1[^c-2cdedbc33c9cb05e5c2846452ffa94e6]
 
 **YEARLY RATES OF PENSIONS FOR SURVIVING SPOUSES AND SURVIVING CIVIL PARTNERS OF OFFICERS WHO WERE MEMBERS OF THE ARMED FORCES BEFORE 14 AUGUST 1914 OR AFTER 30 SEPTEMBER 1921**
 
@@ -77,7 +77,7 @@ PENSIONS OTHER THAN PENSIONS UNDER ARTICLE 11(1) OR (2) OF THE 1921 (OFFICERS) O
 | 10 | 9,925.00 |
 | 11 | 9,867.00 |
 
-Table 2[^key-cc1eab80555fbc435ea847f0b24aca62]
+Table 2[^c-cc1eab80555fbc435ea847f0b24aca62]
 
 WEEKLY RATES OF PENSIONS FOR SURVIVING SPOUSES AND SURVIVING CIVIL PARTNERS OF RATINGS, SOLDIERS OR AIRMEN
 
@@ -92,7 +92,7 @@ WEEKLY RATES OF PENSIONS FOR SURVIVING SPOUSES AND SURVIVING CIVIL PARTNERS OF R
 </tbody>
 </table>
 
-Table 3[^key-54f5eb36848b5cac82c1d498f4ded718]
+Table 3[^c-54f5eb36848b5cac82c1d498f4ded718]
 
 YEARLY RATES OF PENSIONS FOR SURVIVING SPOUSES AND SURVIVING CIVIL PARTNERS OF OFFICERS WHO WERE MEMBERS OF THE ARMED FORCES BETWEEN 14 AUGUST 1914 AND 30 SEPTEMBER 1921
 
@@ -114,7 +114,7 @@ PENSIONS AWARDED UNDER ARTICLE 11(1) OR (2) OF THE 1921 (OFFICERS) ORDER OR ARTI
 | 10 | 9,925.00 |
 | 11 | 9,867.00 |
 
-Table 4[^key-7f75e38985979ee8d7893f5d7bbb9ece]
+Table 4[^c-7f75e38985979ee8d7893f5d7bbb9ece]
 
 YEARLY RATES OF PENSIONS FOR SURVIVING SPOUSES AND SURVIVING CIVIL PARTNERS OF OFFICERS WHO WERE MEMBERS OF THE ARMED FORCES BEFORE 14 AUGUST 1914 OR AFTER 30 SEPTEMBER 1921
 
@@ -134,7 +134,7 @@ YEARLY RATES OF PENSIONS FOR SURVIVING SPOUSES AND SURVIVING CIVIL PARTNERS OF O
 | 10 | 2,726.00 |
 | 11 | 2,408.00 |
 
-Table 5[^key-484daeb974e1961521b8813226458096]
+Table 5[^c-484daeb974e1961521b8813226458096]
 
 WEEKLY RATES OF PENSIONS FOR CHILDLESS SURVIVING SPOUSES AND SURVIVING CIVIL PARTNERS AGED UNDER 40 BEING SURVIVING SPOUSES OR SURVIVING CIVIL PARTNERS OF RATINGS, SOLDIERS OR AIRMEN
 
@@ -144,7 +144,7 @@ WEEKLY RATES OF PENSIONS FOR CHILDLESS SURVIVING SPOUSES AND SURVIVING CIVIL PAR
 |  | £ |
 | 12 - 17 | 45.07 |
 
-Table 6[^key-22219641bde1df7b9b1ed75272f1c81e]
+Table 6[^c-22219641bde1df7b9b1ed75272f1c81e]
 
 YEARLY RATE OF SUPPLEMENTARY PENSION FOR SURVIVING SPOUSES AND SURVIVING CIVIL PARTNERS OF OFFICERS WHO WERE MEMBERS OF THE ARMED FORCES AND WHOSE SERVICE TERMINATED ON OR BEFORE 31 MARCH 1973
 
@@ -154,7 +154,7 @@ YEARLY RATE OF SUPPLEMENTARY PENSION FOR SURVIVING SPOUSES AND SURVIVING CIVIL P
 |  | £ |
 | 1 - 11 | 6,567.90 |
 
-Table 7[^key-8c8fe154fc364a974ba435cc0d950282]
+Table 7[^c-8c8fe154fc364a974ba435cc0d950282]
 
 WEEKLY RATE OF SUPPLEMENTARY PENSION FOR SURVIVING SPOUSES AND SURVIVING CIVIL PARTNERS OF RATINGS, SOLDIERS AND AIRMEN WHO WERE MEMBERS OF THE ARMED FORCES AND WHOSE SERVICE TERMINATED ON OR BEFORE 31 MARCH 1973
 
@@ -166,7 +166,7 @@ WEEKLY RATE OF SUPPLEMENTARY PENSION FOR SURVIVING SPOUSES AND SURVIVING CIVIL P
 
 ### PART III
 
-Table[^key-5a473f3bcef820e28b62832d5997cc29]
+Table[^c-5a473f3bcef820e28b62832d5997cc29]
 
 RATES OF PENSIONS, OTHER THAN SURVIVING SPOUSES’ AND SURVIVING CIVIL PARTNERS’ PENSIONS AND ALLOWANCES PAYABLE IN RESPECT OF DEATH
 
@@ -206,22 +206,22 @@ RATES OF PENSIONS, OTHER THAN SURVIVING SPOUSES’ AND SURVIVING CIVIL PARTNERS�
 
 ## Annotations
 
-[^key-2cdedbc33c9cb05e5c2846452ffa94e6]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2006/606/schedule/2/part/2) Table 1 substituted (6.4.2026) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2026 (S.I. 2026/101)](https://www.legislation.gov.uk/uksi/2026/101), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/101/article/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2026/101/article/5/a), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/101/schedule/4)
+[^c-2cdedbc33c9cb05e5c2846452ffa94e6]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2006/606/schedule/2/part/2) Table 1 substituted (6.4.2026) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2026 (S.I. 2026/101)](https://www.legislation.gov.uk/uksi/2026/101), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/101/article/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2026/101/article/5/a), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/101/schedule/4)
 
-[^key-cc1eab80555fbc435ea847f0b24aca62]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2006/606/schedule/2/part/2) Table 2 substituted (6.4.2026) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2026 (S.I. 2026/101)](https://www.legislation.gov.uk/uksi/2026/101), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/101/article/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2026/101/article/5/a), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/101/schedule/4)
+[^c-cc1eab80555fbc435ea847f0b24aca62]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2006/606/schedule/2/part/2) Table 2 substituted (6.4.2026) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2026 (S.I. 2026/101)](https://www.legislation.gov.uk/uksi/2026/101), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/101/article/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2026/101/article/5/a), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/101/schedule/4)
 
-[^key-54f5eb36848b5cac82c1d498f4ded718]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2006/606/schedule/2/part/2) Table 3 substituted (6.4.2026) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2026 (S.I. 2026/101)](https://www.legislation.gov.uk/uksi/2026/101), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/101/article/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2026/101/article/5/a), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/101/schedule/4)
+[^c-54f5eb36848b5cac82c1d498f4ded718]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2006/606/schedule/2/part/2) Table 3 substituted (6.4.2026) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2026 (S.I. 2026/101)](https://www.legislation.gov.uk/uksi/2026/101), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/101/article/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2026/101/article/5/a), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/101/schedule/4)
 
-[^key-7f75e38985979ee8d7893f5d7bbb9ece]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2006/606/schedule/2/part/2) Table 4 substituted (6.4.2026) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2026 (S.I. 2026/101)](https://www.legislation.gov.uk/uksi/2026/101), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/101/article/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2026/101/article/5/a), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/101/schedule/4)
+[^c-7f75e38985979ee8d7893f5d7bbb9ece]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2006/606/schedule/2/part/2) Table 4 substituted (6.4.2026) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2026 (S.I. 2026/101)](https://www.legislation.gov.uk/uksi/2026/101), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/101/article/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2026/101/article/5/a), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/101/schedule/4)
 
-[^key-484daeb974e1961521b8813226458096]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2006/606/schedule/2/part/2) Table 5 substituted (6.4.2026) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2026 (S.I. 2026/101)](https://www.legislation.gov.uk/uksi/2026/101), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/101/article/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2026/101/article/5/a), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/101/schedule/4)
+[^c-484daeb974e1961521b8813226458096]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2006/606/schedule/2/part/2) Table 5 substituted (6.4.2026) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2026 (S.I. 2026/101)](https://www.legislation.gov.uk/uksi/2026/101), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/101/article/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2026/101/article/5/a), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/101/schedule/4)
 
-[^key-22219641bde1df7b9b1ed75272f1c81e]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2006/606/schedule/2/part/2) Table 6 substituted (6.4.2026) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2026 (S.I. 2026/101)](https://www.legislation.gov.uk/uksi/2026/101), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/101/article/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2026/101/article/5/a), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/101/schedule/4)
+[^c-22219641bde1df7b9b1ed75272f1c81e]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2006/606/schedule/2/part/2) Table 6 substituted (6.4.2026) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2026 (S.I. 2026/101)](https://www.legislation.gov.uk/uksi/2026/101), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/101/article/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2026/101/article/5/a), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/101/schedule/4)
 
-[^key-8c8fe154fc364a974ba435cc0d950282]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2006/606/schedule/2/part/2) Table 7 substituted (6.4.2026) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2026 (S.I. 2026/101)](https://www.legislation.gov.uk/uksi/2026/101), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/101/article/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2026/101/article/5/a), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/101/schedule/4)
+[^c-8c8fe154fc364a974ba435cc0d950282]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2006/606/schedule/2/part/2) Table 7 substituted (6.4.2026) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2026 (S.I. 2026/101)](https://www.legislation.gov.uk/uksi/2026/101), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/101/article/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2026/101/article/5/a), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/101/schedule/4)
 
-[^key-5a473f3bcef820e28b62832d5997cc29]: Textual amendment: [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2006/606/schedule/2/part/3) Table substituted (6.4.2026) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2026 (S.I. 2026/101)](https://www.legislation.gov.uk/uksi/2026/101), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/101/article/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2026/101/article/5/b), [Sch. 5](https://www.legislation.gov.uk/uksi/2026/101/schedule/5)
+[^c-5a473f3bcef820e28b62832d5997cc29]: Textual amendment: [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2006/606/schedule/2/part/3) Table substituted (6.4.2026) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2026 (S.I. 2026/101)](https://www.legislation.gov.uk/uksi/2026/101), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/101/article/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2026/101/article/5/b), [Sch. 5](https://www.legislation.gov.uk/uksi/2026/101/schedule/5)
 
-[^f01001]: Footnote: (\*)[^key-5a473f3bcef820e28b62832d5997cc29]
+[^f01001]: Footnote: (\*)[^c-5a473f3bcef820e28b62832d5997cc29]
 
     Maximum amount payable

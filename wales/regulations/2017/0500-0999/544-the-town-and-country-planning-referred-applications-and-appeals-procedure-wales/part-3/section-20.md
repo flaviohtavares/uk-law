@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Transfer of appeal from Part 3[^key-860c166262bc583bc8adee0d254db792]
+## 20. Transfer of appeal from Part 3[^c-860c166262bc583bc8adee0d254db792]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-860c166262bc583bc8adee0d254db792]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2017/544/regulation/20) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-860c166262bc583bc8adee0d254db792]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2017/544/regulation/20) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)

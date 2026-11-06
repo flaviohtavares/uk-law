@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Notices following a contravention of movement controls[^key-6cdf3ced48c9cfb80ab6edd134c6876c]
+## 35. Notices following a contravention of movement controls[^c-6cdf3ced48c9cfb80ab6edd134c6876c]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6cdf3ced48c9cfb80ab6edd134c6876c]: Commencement: Reg. 35 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
+[^c-6cdf3ced48c9cfb80ab6edd134c6876c]: Commencement: Reg. 35 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)

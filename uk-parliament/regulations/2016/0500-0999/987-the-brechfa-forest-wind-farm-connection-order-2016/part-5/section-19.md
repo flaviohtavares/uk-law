@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Compulsory acquisition of rights in, under or over land[^key-2c67090367473c89506dd43c23ba4c16]
+## 19. Compulsory acquisition of rights in, under or over land[^c-2c67090367473c89506dd43c23ba4c16]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c67090367473c89506dd43c23ba4c16]: Commencement: Art. 19 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-2c67090367473c89506dd43c23ba4c16]: Commencement: Art. 19 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)

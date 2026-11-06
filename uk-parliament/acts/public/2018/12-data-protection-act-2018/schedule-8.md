@@ -24,22 +24,22 @@ Section 35(5)
 
 ### Statutory etc purposes
 
-**1.**[^key-187293003be44c5bcbbaa54a11235709] This condition is met if the processing—
+**1.**[^c-187293003be44c5bcbbaa54a11235709] This condition is met if the processing—
 
 - (a) is necessary for the exercise of a function conferred on a person by an enactment or rule of law, and
 - (b) is necessary for reasons of substantial public interest.
 
 ### Administration of justice
 
-**2.**[^key-274e371213d21f8c518714836a7fd931] This condition is met if the processing is necessary for the administration of justice.
+**2.**[^c-274e371213d21f8c518714836a7fd931] This condition is met if the processing is necessary for the administration of justice.
 
 ### Protecting individual's vital interests
 
-**3.**[^key-88ce0d1dbc7fe3a0c4496cb8423c1963] This condition is met if the processing is necessary to protect the vital interests of the data subject or of another individual.
+**3.**[^c-88ce0d1dbc7fe3a0c4496cb8423c1963] This condition is met if the processing is necessary to protect the vital interests of the data subject or of another individual.
 
 ### Safeguarding of children and of individuals at risk
 
-**4.**[^key-e277a02441fd6aacb99d8f3da6909db8] (1) This condition is met if—
+**4.**[^c-e277a02441fd6aacb99d8f3da6909db8] (1) This condition is met if—
 
 - (a) the processing is necessary for the purposes of—
   - (i) protecting an individual from neglect or physical, mental or emotional harm, or
@@ -66,11 +66,11 @@ Section 35(5)
 
 ### Personal data already in the public domain
 
-**5.**[^key-edcda9a310fb95ba168f7aa1cb086887] This condition is met if the processing relates to personal data which is manifestly made public by the data subject.
+**5.**[^c-edcda9a310fb95ba168f7aa1cb086887] This condition is met if the processing relates to personal data which is manifestly made public by the data subject.
 
 ### Legal claims
 
-**6.**[^key-dc321b64fd0fcd1ec60ef61441b8fafc] This condition is met if the processing—
+**6.**[^c-dc321b64fd0fcd1ec60ef61441b8fafc] This condition is met if the processing—
 
 - (a) is necessary for the purpose of, or in connection with, any legal proceedings (including prospective legal proceedings),
 - (b) is necessary for the purpose of obtaining legal advice, or
@@ -78,24 +78,24 @@ Section 35(5)
 
 ### Judicial acts
 
-**7.**[^key-43bc0992bbfa072aa58b065a6a0dbcb2] This condition is met if the processing is necessary when a court or other judicial authority is acting in its judicial capacity.
+**7.**[^c-43bc0992bbfa072aa58b065a6a0dbcb2] This condition is met if the processing is necessary when a court or other judicial authority is acting in its judicial capacity.
 
 ### Preventing fraud
 
-**8.**[^key-e25dd9b1b973623ef52f15cab26e68cb] (1) This condition is met if the processing—
+**8.**[^c-e25dd9b1b973623ef52f15cab26e68cb] (1) This condition is met if the processing—
 
 - (a) is necessary for the purposes of preventing fraud or a particular kind of fraud, and
 - (b) consists of—
   - (i) the disclosure of personal data by a competent authority as a member of an anti-fraud organisation,
   - (ii) the disclosure of personal data by a competent authority in accordance with arrangements made by an anti-fraud organisation,
-  - (iia)[^key-837eca93d325a90e6a14ec91f892ebda] the processing of personal data carried out in preparation for disclosure described in sub-paragraph (i) or (ii), or
+  - (iia)[^c-837eca93d325a90e6a14ec91f892ebda] the processing of personal data carried out in preparation for disclosure described in sub-paragraph (i) or (ii), or
   - (iii) the processing of personal data disclosed as described in sub-paragraph (i) or (ii).
 
 (2) In this paragraph, “**anti-fraud organisation**” has the same meaning as in section 68 of the Serious Crime Act 2007.
 
 ### Archiving etc
 
-**9.**[^key-eb657c142c3f50225154d09ddb60518c] This condition is met if the processing is necessary—
+**9.**[^c-eb657c142c3f50225154d09ddb60518c] This condition is met if the processing is necessary—
 
 - (a) for archiving purposes in the public interest,
 - (b) for scientific or historical research purposes, or
@@ -103,22 +103,22 @@ Section 35(5)
 
 ## Annotations
 
-[^key-187293003be44c5bcbbaa54a11235709]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2018/12/schedule/8/paragraph/1) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/c)
+[^c-187293003be44c5bcbbaa54a11235709]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2018/12/schedule/8/paragraph/1) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/c)
 
-[^key-274e371213d21f8c518714836a7fd931]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2018/12/schedule/8/paragraph/2) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/c)
+[^c-274e371213d21f8c518714836a7fd931]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2018/12/schedule/8/paragraph/2) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/c)
 
-[^key-88ce0d1dbc7fe3a0c4496cb8423c1963]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2018/12/schedule/8/paragraph/3) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/c)
+[^c-88ce0d1dbc7fe3a0c4496cb8423c1963]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2018/12/schedule/8/paragraph/3) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/c)
 
-[^key-e277a02441fd6aacb99d8f3da6909db8]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2018/12/schedule/8/paragraph/4) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/c)
+[^c-e277a02441fd6aacb99d8f3da6909db8]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2018/12/schedule/8/paragraph/4) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/c)
 
-[^key-edcda9a310fb95ba168f7aa1cb086887]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2018/12/schedule/8/paragraph/5) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/c)
+[^c-edcda9a310fb95ba168f7aa1cb086887]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2018/12/schedule/8/paragraph/5) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/c)
 
-[^key-dc321b64fd0fcd1ec60ef61441b8fafc]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2018/12/schedule/8/paragraph/6) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/c)
+[^c-dc321b64fd0fcd1ec60ef61441b8fafc]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2018/12/schedule/8/paragraph/6) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/c)
 
-[^key-43bc0992bbfa072aa58b065a6a0dbcb2]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2018/12/schedule/8/paragraph/7) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/c)
+[^c-43bc0992bbfa072aa58b065a6a0dbcb2]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2018/12/schedule/8/paragraph/7) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/c)
 
-[^key-e25dd9b1b973623ef52f15cab26e68cb]: Commencement: Sch. 8 para. 8 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/c)
+[^c-e25dd9b1b973623ef52f15cab26e68cb]: Commencement: Sch. 8 para. 8 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/c)
 
-[^key-837eca93d325a90e6a14ec91f892ebda]: Textual amendment: Sch. 8 para. 8(1)(b)(iia) inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 11 para. 30](https://www.legislation.gov.uk/ukpga/2025/18/schedule/11/paragraph/30); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z12)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z12)
+[^c-837eca93d325a90e6a14ec91f892ebda]: Textual amendment: Sch. 8 para. 8(1)(b)(iia) inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 11 para. 30](https://www.legislation.gov.uk/ukpga/2025/18/schedule/11/paragraph/30); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z12)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z12)
 
-[^key-eb657c142c3f50225154d09ddb60518c]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2018/12/schedule/8/paragraph/9) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/c)
+[^c-eb657c142c3f50225154d09ddb60518c]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2018/12/schedule/8/paragraph/9) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Public rights of way and permissive paths[^key-53ebed21c2490a8ad2498bd2974bf8d1]
+## 14. Public rights of way and permissive paths[^c-53ebed21c2490a8ad2498bd2974bf8d1]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53ebed21c2490a8ad2498bd2974bf8d1]: Commencement: Art. 14 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-53ebed21c2490a8ad2498bd2974bf8d1]: Commencement: Art. 14 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

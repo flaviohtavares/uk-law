@@ -41,20 +41,20 @@ A Measure passed by the National Assembly of the Church of England to make bette
 
 (3) Where a permission is granted for a limited period, a further permission, either temporary or permanent, may be granted by the Archbishop of the same province.
 
-(4) Any permission or any instrument under subsection (5A) revoking a permission[^key-dd8750df856dec07fc8b1ee779b5e74e] granted under this section shall be registered in the registry of the province.
+(4) Any permission or any instrument under subsection (5A) revoking a permission[^c-dd8750df856dec07fc8b1ee779b5e74e] granted under this section shall be registered in the registry of the province.
 
 (5) An application for a permission under this section shall be made on a form approved by the Archbishops of Canterbury and York.
 
-(5A)[^key-730c00855470ef071d0e1cbd9c0f609e] The Archbishop of the same province may, if he considers that there is any cause which appears to him to be good and reasonable, revoke, in writing, a permission granted to an overseas clergyman under this section, unless—
+(5A)[^c-730c00855470ef071d0e1cbd9c0f609e] The Archbishop of the same province may, if he considers that there is any cause which appears to him to be good and reasonable, revoke, in writing, a permission granted to an overseas clergyman under this section, unless—
 
 - (a) the clergyman is a freehold incumbent or, at that time, holds office under Common Tenure, or
 - (b) the matter which constitutes a good and reasonable cause is a matter for which a censure of deprivation under section 49(1)(a) of the Ecclesiastical Jurisdiction Measure 1963 or a penalty under section 24(1)(a), (c) or (d) of the Clergy Discipline Measure 2003 or a penalty of removal from office or prohibition for life under section 30 or 31 of that Measure could be, but has not been, imposed.
 
-(6) It shall be an offence against the laws ecclesiastical, for which proceedings may be taken under the Clergy Discipline Measure 2003[^key-6a2425155d26020e186c50530c995e9d] for any overseas clergyman to officiate as priest or deacon in the province of Canterbury or York otherwise than in accordance with a permission granted under this section, and for any clergyman knowingly to allow such an offence to be committed in any church in his charge.
+(6) It shall be an offence against the laws ecclesiastical, for which proceedings may be taken under the Clergy Discipline Measure 2003[^c-6a2425155d26020e186c50530c995e9d] for any overseas clergyman to officiate as priest or deacon in the province of Canterbury or York otherwise than in accordance with a permission granted under this section, and for any clergyman knowingly to allow such an offence to be committed in any church in his charge.
 
 (7) Nothing in this section shall prevent an overseas clergyman who is a deacon from being ordained priest by the bishop of a diocese in the province of Canterbury or York (otherwise than under section 5 of this Measure), and the last foregoing subsection shall not apply in any such case.
 
-## 1A. General permission to overseas clergymen to officiate[^key-e70111bc9d0d2d77b3b876ebe9abc91d]
+## 1A. General permission to overseas clergymen to officiate[^c-e70111bc9d0d2d77b3b876ebe9abc91d]
 
 (1) Without prejudice to section 1 of this Measure, the Archbishop of either province may, by an instrument in writing, grant, in accordance with the following provisions of this section, a general permission to overseas clergymen to officiate as priest or deacon in that province.
 
@@ -93,7 +93,7 @@ The foregoing provisions of this Measure shall apply to any person who has been 
 
 (2) For the purpose of this Measure any person ordained priest or deacon by a bishop acting on such request and by such commission as aforesaid shall be deemed to have been ordained by the bishop making the request and issuing the commission and not by the bishop acting as aforesaid.
 
-(3) If any overseas bishop performs any episcopal functions in a diocese in the province of Canterbury or York, otherwise than in accordance with this section, he shall be guilty of an offence against the laws ecclesiastical for which proceedings may be taken under the Clergy Discipline Measure 2003[^key-1ac9f71f8200a322fabcdfc6790fbf1f].
+(3) If any overseas bishop performs any episcopal functions in a diocese in the province of Canterbury or York, otherwise than in accordance with this section, he shall be guilty of an offence against the laws ecclesiastical for which proceedings may be taken under the Clergy Discipline Measure 2003[^c-1ac9f71f8200a322fabcdfc6790fbf1f].
 
 ## 5. Ordination of clergymen for ministry overseas.
 
@@ -134,17 +134,17 @@ This Measure may be cited as the Overseas and Other Clergy (Ministry and Ordinat
 
 [^c921782]: Modification: S. 1(2) excluded by [Church of England (Ecumenical Relations) Measure 1988 (No. 3, SIF 21:1)](https://www.legislation.gov.uk/ukcm/1988/3), [s. 4](https://www.legislation.gov.uk/ukcm/1988/3/section/4)
 
-[^key-dd8750df856dec07fc8b1ee779b5e74e]: Textual amendment: Words in s. 1(4) inserted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [ss. 8(2)(a)](https://www.legislation.gov.uk/ukcm/2014/1/section/8/2/a), [21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
+[^c-dd8750df856dec07fc8b1ee779b5e74e]: Textual amendment: Words in s. 1(4) inserted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [ss. 8(2)(a)](https://www.legislation.gov.uk/ukcm/2014/1/section/8/2/a), [21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
 
-[^key-730c00855470ef071d0e1cbd9c0f609e]: Textual amendment: S. 1(5A) inserted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [ss. 8(2)(b)](https://www.legislation.gov.uk/ukcm/2014/1/section/8/2/b), [21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
+[^c-730c00855470ef071d0e1cbd9c0f609e]: Textual amendment: S. 1(5A) inserted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [ss. 8(2)(b)](https://www.legislation.gov.uk/ukcm/2014/1/section/8/2/b), [21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
 
-[^key-6a2425155d26020e186c50530c995e9d]: Textual amendment: Words in [s. 1(6)](https://www.legislation.gov.uk/ukcm/1967/3/section/1/6) substituted (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 3 para. 7(a)](https://www.legislation.gov.uk/ukcm/2018/3/schedule/3/paragraph/7/a) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-6a2425155d26020e186c50530c995e9d]: Textual amendment: Words in [s. 1(6)](https://www.legislation.gov.uk/ukcm/1967/3/section/1/6) substituted (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 3 para. 7(a)](https://www.legislation.gov.uk/ukcm/2018/3/schedule/3/paragraph/7/a) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-e70111bc9d0d2d77b3b876ebe9abc91d]: Textual amendment: [S. 1A](https://www.legislation.gov.uk/ukcm/1967/3/section/1A) added (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [ss. 8(3)](https://www.legislation.gov.uk/ukcm/2014/1/section/8/3), [21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
+[^c-e70111bc9d0d2d77b3b876ebe9abc91d]: Textual amendment: [S. 1A](https://www.legislation.gov.uk/ukcm/1967/3/section/1A) added (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [ss. 8(3)](https://www.legislation.gov.uk/ukcm/2014/1/section/8/3), [21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
 
 [^c921784]: Marginal citation: [1865 c. 122](https://www.legislation.gov.uk/ukpga/1865/122).
 
-[^key-1ac9f71f8200a322fabcdfc6790fbf1f]: Textual amendment: Words in [s. 4(3)](https://www.legislation.gov.uk/ukcm/1967/3/section/4/3) substituted (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 3 para. 7(b)](https://www.legislation.gov.uk/ukcm/2018/3/schedule/3/paragraph/7/b) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-1ac9f71f8200a322fabcdfc6790fbf1f]: Textual amendment: Words in [s. 4(3)](https://www.legislation.gov.uk/ukcm/1967/3/section/4/3) substituted (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 3 para. 7(b)](https://www.legislation.gov.uk/ukcm/2018/3/schedule/3/paragraph/7/b) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
 [^c921786]: Modification: The text of s. 7(1) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

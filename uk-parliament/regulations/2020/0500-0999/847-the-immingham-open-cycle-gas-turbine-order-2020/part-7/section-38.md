@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Procedure in relation to certain approvals[^key-a4a4928d8b22bd0e9ab898bd263e942a]
+## 38. Procedure in relation to certain approvals[^c-a4a4928d8b22bd0e9ab898bd263e942a]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4a4928d8b22bd0e9ab898bd263e942a]: Commencement: Art. 38 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
+[^c-a4a4928d8b22bd0e9ab898bd263e942a]: Commencement: Art. 38 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)

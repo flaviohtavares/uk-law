@@ -52,7 +52,7 @@ In accordance with Article 3(2B)[^f00002] of the Official Controls Regulation, t
 
 In accordance with Article 144(7) of the Official Controls Regulation, before making these Regulations the Secretary of State has consulted such bodies and persons as appear to the Secretary of State to be representative of the interests likely to be substantially affected by these Regulations and such other bodies or persons as the Secretary of State considers appropriate.
 
-## 1. Citation, commencement and extent[^key-06f0e6a42a7b25d8e4941f2e916c560c]
+## 1. Citation, commencement and extent[^c-06f0e6a42a7b25d8e4941f2e916c560c]
 
 (1) These Regulations may be cited as the Official Controls (Plant Health) (Frequency of Checks) Regulations 2022 and come into force on 22nd July 2022.
 
@@ -60,7 +60,7 @@ In accordance with Article 144(7) of the Official Controls Regulation, before ma
 
 ## PART 1 — Rules relating to frequency of checks
 
-### 2. Interpretation[^key-7f61fdbec683bd63113c3bd27daeb734]
+### 2. Interpretation[^c-7f61fdbec683bd63113c3bd27daeb734]
 
 (1) In this Part—
 
@@ -80,22 +80,22 @@ In accordance with Article 144(7) of the Official Controls Regulation, before ma
 
 (2) Words and expressions not defined in this Part which appear in the Plant Health Regulation have the same meaning in this Part as in the Plant Health Regulation.
 
-### 3. Determination of the frequency rate of physical checks and identity checks[^key-7e0c61a8190cf2d44dfdcda144d1d1c1]
+### 3. Determination of the frequency rate of physical checks and identity checks[^c-7e0c61a8190cf2d44dfdcda144d1d1c1]
 
-(1)[^key-960f2a37767bbe7394b036ec0f26f6d9] This regulation applies to plants, plant products or other objects of a description specified in Part A of Annex 11 that originate in the third country in the corresponding entry in column (3) of the table in that Part[^key-36b81f3475def8fdbb8beda0d5cbf91c], or in Annex 12, to the Commission Regulation [^key-a3c45c7109d0fe427f06b40960b13969]... .
+(1)[^c-960f2a37767bbe7394b036ec0f26f6d9] This regulation applies to plants, plant products or other objects of a description specified in Part A of Annex 11 that originate in the third country in the corresponding entry in column (3) of the table in that Part[^c-36b81f3475def8fdbb8beda0d5cbf91c], or in Annex 12, to the Commission Regulation [^c-a3c45c7109d0fe427f06b40960b13969]... .
 
-(1A)[^key-cab0e6776e2b5881c91603aac18e2632][^key-2534e5063789a3f5908c9e152feb5bbe] Paragraph 1 does not apply to plants, plant products or other objects that—
+(1A)[^c-cab0e6776e2b5881c91603aac18e2632][^c-2534e5063789a3f5908c9e152feb5bbe] Paragraph 1 does not apply to plants, plant products or other objects that—
 
 - (a) originate in an EU member state, Liechtenstein or Switzerland;
-- (b) are imported into Great Britain on or after 30th October 2024 and before 31st January 2027[^key-85ec8622aad915a8d993f2eb6d1bf1ca];
-- (c)[^key-5e36e0c43c26376a433fc488ed861dfc] are imported through a relevant port; and
+- (b) are imported into Great Britain on or after 30th October 2024 and before 31st January 2027[^c-85ec8622aad915a8d993f2eb6d1bf1ca];
+- (c)[^c-5e36e0c43c26376a433fc488ed861dfc] are imported through a relevant port; and
 - (d) if originating in Liechtenstein, do not fall within the Schedule.
 
-(2) Subject to paragraph (2A),[^key-94120931a6d398f4763a6aa04f861b37] the appropriate authority must determine the frequency rate of physical checks and identity checks of goods to which this regulation applies by reference to the third country from which the goods originate, and having regard to information of a kind specified in paragraph (4).
+(2) Subject to paragraph (2A),[^c-94120931a6d398f4763a6aa04f861b37] the appropriate authority must determine the frequency rate of physical checks and identity checks of goods to which this regulation applies by reference to the third country from which the goods originate, and having regard to information of a kind specified in paragraph (4).
 
-(2A)[^key-4eed7fc4a87ac807553b120532adfdf3] In respect of the goods listed in the Schedule, the frequency rates determined by the appropriate authority must be no lower than the rates of such checks in respect of corresponding goods being imported into Northern Ireland, notwithstanding the appropriate authority having regard to information of a kind specified in paragraph (4).
+(2A)[^c-4eed7fc4a87ac807553b120532adfdf3] In respect of the goods listed in the Schedule, the frequency rates determined by the appropriate authority must be no lower than the rates of such checks in respect of corresponding goods being imported into Northern Ireland, notwithstanding the appropriate authority having regard to information of a kind specified in paragraph (4).
 
-(3) The appropriate authority must publish online the frequency rates determined under paragraph (2) or paragraph (2A), as applicable[^key-5fa5827cc9ac759bac18c26415cda706], and may from time to time publish a revised frequency rate.
+(3) The appropriate authority must publish online the frequency rates determined under paragraph (2) or paragraph (2A), as applicable[^c-5fa5827cc9ac759bac18c26415cda706], and may from time to time publish a revised frequency rate.
 
 (4) The information referred to in paragraph (2) is—
 
@@ -121,7 +121,7 @@ In accordance with Article 144(7) of the Official Controls Regulation, before ma
   - (ii) are intended to be used for trial or official testing purposes; or
   - (iii) have been subjected to testing, and the level of any such testing.
 
-(6) Subject to regulation 4(2), a plant health inspector must select goods to which this regulation applies for the performance of physical checks and identity checks at, as a minimum, the frequency rate determined pursuant to paragraph (2) or paragraph (2A), as applicable[^key-d5646148f807bc082774bd11cf10016f] in relation to plants, plant products or other objects of the kind in question.
+(6) Subject to regulation 4(2), a plant health inspector must select goods to which this regulation applies for the performance of physical checks and identity checks at, as a minimum, the frequency rate determined pursuant to paragraph (2) or paragraph (2A), as applicable[^c-d5646148f807bc082774bd11cf10016f] in relation to plants, plant products or other objects of the kind in question.
 
 (7) In this regulation—
 
@@ -147,12 +147,12 @@ In accordance with Article 144(7) of the Official Controls Regulation, before ma
   - (r) Royal Portbury (Bristol);
   - (s) Seaforth Grain Terminal;
   - (t) Silloth;
-  - (ta) Swansea[^key-d554bdadb9ebf36868049bcda0a077aa]
+  - (ta) Swansea[^c-d554bdadb9ebf36868049bcda0a077aa]
   - (v) Workington.
 - [^M_F_ab6f5f1e-ed09-4365-afaa-9a875dd033d6]...
 - “**woody plant**” means a plant which has a woody or partly woody stem, and includes all trees, forest reproductive material (other than seed), shrubs and palms, and those vines and perennial herbs with woody or partly woody stems; and for this purpose “**perennial herbs**” means herbs for which the average life exceeds two years.
 
-### 4. Annual review and modification of the frequency rate of physical checks and identity checks[^key-c2d82cb7f0485bb6276767d615b26b57]
+### 4. Annual review and modification of the frequency rate of physical checks and identity checks[^c-c2d82cb7f0485bb6276767d615b26b57]
 
 (1) The appropriate authority must annually review the frequency rates determined pursuant to regulation 3(2), and, following the review, may increase or decrease any such frequency rate if it considers it appropriate to do so having regard to information of a kind specified in regulation 3(4).
 
@@ -165,7 +165,7 @@ In accordance with Article 144(7) of the Official Controls Regulation, before ma
   - (i) information collected by the appropriate authority in accordance with Article 125(1) of the Official Controls Regulation; or
   - (ii) the outcome of controls performed in accordance with Article 120(1) of the Official Controls Regulation by experts appointed by the appropriate authority.
 
-(3) Where the risk, information or outcome of controls referred to in paragraph (2) no longer justifies the increased frequency rate applied under that paragraph, the competent authority must reduce the frequency rates of physical checks and identity checks to the frequency rates determined pursuant to regulation 3(2) or regulation 3(2A), as applicable[^key-261964edeced6aac1833452ef4efbdd8] in relation to plants, plant products or other objects of the kind in question.
+(3) Where the risk, information or outcome of controls referred to in paragraph (2) no longer justifies the increased frequency rate applied under that paragraph, the competent authority must reduce the frequency rates of physical checks and identity checks to the frequency rates determined pursuant to regulation 3(2) or regulation 3(2A), as applicable[^c-261964edeced6aac1833452ef4efbdd8] in relation to plants, plant products or other objects of the kind in question.
 
 (4) In this regulation—
 
@@ -180,7 +180,7 @@ In accordance with Article 144(7) of the Official Controls Regulation, before ma
   - (a) the criteria set out in subsection 1 of section 3 of Annex 1 to that Regulation are met; or
   - (b) there is a material risk, on the basis of an assessment of available scientific information and other evidence, and pending further information or assessments relating to the pest, that the criteria set out in subsection 2 of that section are met.
 
-### 5. Selection of consignments for physical checks[^key-484c1457e0901c2c62da94045afccff7]
+### 5. Selection of consignments for physical checks[^c-484c1457e0901c2c62da94045afccff7]
 
 (1) A plant health inspector must select a third country consignment for a physical check in one of the following ways—
 
@@ -196,7 +196,7 @@ In accordance with Article 144(7) of the Official Controls Regulation, before ma
 
 ## PART 2 — Official controls: Amendment of secondary legislation
 
-### 6. The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021[^key-49f9b61e96adca7fd59355e0935991f5]
+### 6. The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021[^c-49f9b61e96adca7fd59355e0935991f5]
 
 Part 6 of the Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021[^f00011] is revoked.
 
@@ -208,7 +208,7 @@ Department for Environment, Food and Rural Affairs
 
 At 11.03 a.m. on 30th June 2022
 
-## SCHEDULE — List of goods[^key-448039c48cb445c8f24384db7b0c3e58]
+## SCHEDULE — List of goods[^c-448039c48cb445c8f24384db7b0c3e58]
 
 Regulation 3
 
@@ -229,7 +229,7 @@ Regulation 3
 | Tomatoes, fresh or chilled | Third countries other than an EU Member State and Switzerland |
 | Asparagus, fresh or chilled | Third countries other than an EU Member State and Switzerland |
 | Sweetcorn, fresh or chilled | Third countries other than an EU Member State and Switzerland. |
-| Leaves of basil plants, fresh or chilled[^key-7fcb107fe635d2d0857f98f6881b1b98] | Third countries other than an EU Member State and Switzerland |
+| Leaves of basil plants, fresh or chilled[^c-7fcb107fe635d2d0857f98f6881b1b98] | Third countries other than an EU Member State and Switzerland |
 | Cut flowers of carnations, fresh | Third countries other than an EU Member State and Switzerland |
 | Cut flowers of roses, fresh | Third countries other than an EU Member State and Switzerland |
 | Cut flowers of gypsophila, fresh | Third countries other than an EU Member State and Switzerland |
@@ -251,9 +251,9 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00002]: Footnote: Article 3(2B) is inserted by [S.I. 2020/1481](https://www.legislation.gov.uk/uksi/2020/1481), and Article 3(2A) contains a definition of “the appropriate authority”.
 
-[^key-06f0e6a42a7b25d8e4941f2e916c560c]: Commencement: Reg. 1 in force at 22.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/739/regulation/1/1)
+[^c-06f0e6a42a7b25d8e4941f2e916c560c]: Commencement: Reg. 1 in force at 22.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/739/regulation/1/1)
 
-[^key-7f61fdbec683bd63113c3bd27daeb734]: Commencement: Reg. 2 in force at 22.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/739/regulation/1/1)
+[^c-7f61fdbec683bd63113c3bd27daeb734]: Commencement: Reg. 2 in force at 22.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/739/regulation/1/1)
 
 [^f00003]: Footnote: EUR 2019/2072, relevant amending instruments are [S.I. 2020/1527](https://www.legislation.gov.uk/uksi/2020/1527) and [S.I. 2021/426](https://www.legislation.gov.uk/uksi/2021/426), [641](https://www.legislation.gov.uk/uksi/2021/641), [1171](https://www.legislation.gov.uk/uksi/2021/1171) and [1229](https://www.legislation.gov.uk/uksi/2021/1229).
 
@@ -261,39 +261,39 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00005]: Footnote: EUR 2016/2031, amended by [S.I. 2020/1482](https://www.legislation.gov.uk/uksi/2020/1482); there are other amending instruments but none is relevant.
 
-[^key-7e0c61a8190cf2d44dfdcda144d1d1c1]: Commencement: Reg. 3 in force at 22.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/739/regulation/1/1)
+[^c-7e0c61a8190cf2d44dfdcda144d1d1c1]: Commencement: Reg. 3 in force at 22.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/739/regulation/1/1)
 
-[^key-960f2a37767bbe7394b036ec0f26f6d9]: Textual amendment: Reg. 3(1) substituted (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [12(2)(a)](https://www.legislation.gov.uk/uksi/2023/959/regulation/12/2/a)
+[^c-960f2a37767bbe7394b036ec0f26f6d9]: Textual amendment: Reg. 3(1) substituted (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [12(2)(a)](https://www.legislation.gov.uk/uksi/2023/959/regulation/12/2/a)
 
-[^key-36b81f3475def8fdbb8beda0d5cbf91c]: Textual amendment: Words in reg. 3(1) inserted (30.4.2024) by [The Plant Health (Fees) (England) and Official Controls (Frequency of Checks) (Amendment) Regulations 2024 (S.I. 2024/557)](https://www.legislation.gov.uk/uksi/2024/557), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/557/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2024/557/regulation/5/2/a)
+[^c-36b81f3475def8fdbb8beda0d5cbf91c]: Textual amendment: Words in reg. 3(1) inserted (30.4.2024) by [The Plant Health (Fees) (England) and Official Controls (Frequency of Checks) (Amendment) Regulations 2024 (S.I. 2024/557)](https://www.legislation.gov.uk/uksi/2024/557), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/557/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2024/557/regulation/5/2/a)
 
-[^key-a3c45c7109d0fe427f06b40960b13969]: Textual amendment: Words in reg. 3(1) omitted (30.4.2024) by virtue of [The Plant Health (Fees) (England) and Official Controls (Frequency of Checks) (Amendment) Regulations 2024 (S.I. 2024/557)](https://www.legislation.gov.uk/uksi/2024/557), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/557/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2024/557/regulation/5/2/b)
+[^c-a3c45c7109d0fe427f06b40960b13969]: Textual amendment: Words in reg. 3(1) omitted (30.4.2024) by virtue of [The Plant Health (Fees) (England) and Official Controls (Frequency of Checks) (Amendment) Regulations 2024 (S.I. 2024/557)](https://www.legislation.gov.uk/uksi/2024/557), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/557/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2024/557/regulation/5/2/b)
 
-[^key-cab0e6776e2b5881c91603aac18e2632]: Textual amendment: Reg. 3(1A) inserted (30.4.2024) by [The Plant Health (Fees) (England) and Official Controls (Frequency of Checks) (Amendment) Regulations 2024 (S.I. 2024/557)](https://www.legislation.gov.uk/uksi/2024/557), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/557/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2024/557/regulation/5/3)
+[^c-cab0e6776e2b5881c91603aac18e2632]: Textual amendment: Reg. 3(1A) inserted (30.4.2024) by [The Plant Health (Fees) (England) and Official Controls (Frequency of Checks) (Amendment) Regulations 2024 (S.I. 2024/557)](https://www.legislation.gov.uk/uksi/2024/557), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/557/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2024/557/regulation/5/3)
 
-[^key-2534e5063789a3f5908c9e152feb5bbe]: Textual amendment: Words in reg. 3(1A) substituted (30.10.2024) by [The Official Controls (Extension of Transitional Periods) and Plant Health (Frequency of Checks) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/1001)](https://www.legislation.gov.uk/uksi/2024/1001), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1001/regulation/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2024/1001/regulation/4/1)
+[^c-2534e5063789a3f5908c9e152feb5bbe]: Textual amendment: Words in reg. 3(1A) substituted (30.10.2024) by [The Official Controls (Extension of Transitional Periods) and Plant Health (Frequency of Checks) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/1001)](https://www.legislation.gov.uk/uksi/2024/1001), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1001/regulation/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2024/1001/regulation/4/1)
 
-[^key-85ec8622aad915a8d993f2eb6d1bf1ca]: Textual amendment: Words in [reg. 3(1A)(b)](https://www.legislation.gov.uk/uksi/2022/739/regulation/3/1A/b) substituted (1.7.2025) by [The Official Controls (Extension of Transitional Periods) (Amendment) Regulations 2025 (S.I. 2025/526)](https://www.legislation.gov.uk/uksi/2025/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/526/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2025/526/regulation/4/2/a)
+[^c-85ec8622aad915a8d993f2eb6d1bf1ca]: Textual amendment: Words in [reg. 3(1A)(b)](https://www.legislation.gov.uk/uksi/2022/739/regulation/3/1A/b) substituted (1.7.2025) by [The Official Controls (Extension of Transitional Periods) (Amendment) Regulations 2025 (S.I. 2025/526)](https://www.legislation.gov.uk/uksi/2025/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/526/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2025/526/regulation/4/2/a)
 
-[^key-5e36e0c43c26376a433fc488ed861dfc]: Textual amendment: [Reg. 3(1A)(c)](https://www.legislation.gov.uk/uksi/2022/739/regulation/3/1A/c) substituted (1.7.2025) by [The Official Controls (Extension of Transitional Periods) (Amendment) Regulations 2025 (S.I. 2025/526)](https://www.legislation.gov.uk/uksi/2025/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/526/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2025/526/regulation/4/2/b)
+[^c-5e36e0c43c26376a433fc488ed861dfc]: Textual amendment: [Reg. 3(1A)(c)](https://www.legislation.gov.uk/uksi/2022/739/regulation/3/1A/c) substituted (1.7.2025) by [The Official Controls (Extension of Transitional Periods) (Amendment) Regulations 2025 (S.I. 2025/526)](https://www.legislation.gov.uk/uksi/2025/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/526/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2025/526/regulation/4/2/b)
 
-[^key-94120931a6d398f4763a6aa04f861b37]: Textual amendment: Words in reg. 3(2) inserted (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [12(2)(b)(i)](https://www.legislation.gov.uk/uksi/2023/959/regulation/12/2/b/i)
+[^c-94120931a6d398f4763a6aa04f861b37]: Textual amendment: Words in reg. 3(2) inserted (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [12(2)(b)(i)](https://www.legislation.gov.uk/uksi/2023/959/regulation/12/2/b/i)
 
-[^key-4eed7fc4a87ac807553b120532adfdf3]: Textual amendment: Reg. 3(2A) inserted (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [12(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/959/regulation/12/2/b/ii)
+[^c-4eed7fc4a87ac807553b120532adfdf3]: Textual amendment: Reg. 3(2A) inserted (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [12(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/959/regulation/12/2/b/ii)
 
-[^key-5fa5827cc9ac759bac18c26415cda706]: Textual amendment: Words in reg. 3(3) inserted (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [12(2)(c)](https://www.legislation.gov.uk/uksi/2023/959/regulation/12/2/c)
+[^c-5fa5827cc9ac759bac18c26415cda706]: Textual amendment: Words in reg. 3(3) inserted (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [12(2)(c)](https://www.legislation.gov.uk/uksi/2023/959/regulation/12/2/c)
 
-[^key-d5646148f807bc082774bd11cf10016f]: Textual amendment: Words in reg. 3(6) inserted (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [12(2)(d)](https://www.legislation.gov.uk/uksi/2023/959/regulation/12/2/d)
+[^c-d5646148f807bc082774bd11cf10016f]: Textual amendment: Words in reg. 3(6) inserted (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [12(2)(d)](https://www.legislation.gov.uk/uksi/2023/959/regulation/12/2/d)
 
 [^M_F_3bd8d379-5402-4615-dd34-daa6f80a8431]: Textual amendment: Words in reg. 3(7) inserted (30.4.2024) by virtue of [The Plant Health (Fees) (England) and Official Controls (Frequency of Checks) (Amendment) Regulations 2024 (S.I. 2024/557)](https://www.legislation.gov.uk/uksi/2024/557), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/557/regulation/1/2), [5(4)(a)](https://www.legislation.gov.uk/uksi/2024/557/regulation/5/4/a)
 
-[^key-d554bdadb9ebf36868049bcda0a077aa]: Textual amendment: Words in reg. 3(7) inserted (30.10.2024) by [The Official Controls (Extension of Transitional Periods) and Plant Health (Frequency of Checks) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/1001)](https://www.legislation.gov.uk/uksi/2024/1001), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1001/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2024/1001/regulation/4/2)
+[^c-d554bdadb9ebf36868049bcda0a077aa]: Textual amendment: Words in reg. 3(7) inserted (30.10.2024) by [The Official Controls (Extension of Transitional Periods) and Plant Health (Frequency of Checks) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/1001)](https://www.legislation.gov.uk/uksi/2024/1001), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1001/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2024/1001/regulation/4/2)
 
 [^M_F_ab6f5f1e-ed09-4365-afaa-9a875dd033d6]: Textual amendment: Words in reg. 3(7) omitted (30.4.2024) by virtue of [The Plant Health (Fees) (England) and Official Controls (Frequency of Checks) (Amendment) Regulations 2024 (S.I. 2024/557)](https://www.legislation.gov.uk/uksi/2024/557), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/557/regulation/1/2), [5(4)(b)](https://www.legislation.gov.uk/uksi/2024/557/regulation/5/4/b)
 
-[^key-c2d82cb7f0485bb6276767d615b26b57]: Commencement: Reg. 4 in force at 22.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/739/regulation/1/1)
+[^c-c2d82cb7f0485bb6276767d615b26b57]: Commencement: Reg. 4 in force at 22.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/739/regulation/1/1)
 
-[^key-261964edeced6aac1833452ef4efbdd8]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2022/739/regulation/4/3) inserted (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2023/959/regulation/12/3)
+[^c-261964edeced6aac1833452ef4efbdd8]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2022/739/regulation/4/3) inserted (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2023/959/regulation/12/3)
 
 [^f00007]: Footnote: [S.I. 2019/1517](https://www.legislation.gov.uk/uksi/2019/1517), amended by [S.I. 2020/1482](https://www.legislation.gov.uk/uksi/2020/1482); there are other amending instruments but none is relevant.
 
@@ -301,14 +301,14 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00009]: Footnote: [S.I. 2020/206 (W. 48)](https://www.legislation.gov.uk/wsi/2020/206), amended by [S.I. 2020/1628](https://www.legislation.gov.uk/uksi/2020/1628).
 
-[^key-484c1457e0901c2c62da94045afccff7]: Commencement: Reg. 5 in force at 22.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/739/regulation/1/1)
+[^c-484c1457e0901c2c62da94045afccff7]: Commencement: Reg. 5 in force at 22.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/739/regulation/1/1)
 
 [^f00010]: Footnote: EUR/2019/2130, amended by [S.I. 2020/1481](https://www.legislation.gov.uk/uksi/2020/1481).
 
-[^key-49f9b61e96adca7fd59355e0935991f5]: Commencement: Reg. 6 in force at 22.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/739/regulation/1/1)
+[^c-49f9b61e96adca7fd59355e0935991f5]: Commencement: Reg. 6 in force at 22.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/739/regulation/1/1)
 
 [^f00011]: Footnote: [S.I. 2021/426](https://www.legislation.gov.uk/uksi/2021/426).
 
-[^key-448039c48cb445c8f24384db7b0c3e58]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2022/739/schedule) inserted (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [12(4)](https://www.legislation.gov.uk/uksi/2023/959/regulation/12/4)
+[^c-448039c48cb445c8f24384db7b0c3e58]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2022/739/schedule) inserted (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [12(4)](https://www.legislation.gov.uk/uksi/2023/959/regulation/12/4)
 
-[^key-7fcb107fe635d2d0857f98f6881b1b98]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2022/739/schedule) Table inserted (2.9.2024) by [The Windsor Framework (Retail Movement Scheme: Plant and Animal Health) (Amendment etc.) Regulations 2024 (S.I. 2024/853)](https://www.legislation.gov.uk/uksi/2024/853), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/853/regulation/1/2/b), [4(2)](https://www.legislation.gov.uk/uksi/2024/853/regulation/4/2)
+[^c-7fcb107fe635d2d0857f98f6881b1b98]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2022/739/schedule) Table inserted (2.9.2024) by [The Windsor Framework (Retail Movement Scheme: Plant and Animal Health) (Amendment etc.) Regulations 2024 (S.I. 2024/853)](https://www.legislation.gov.uk/uksi/2024/853), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/853/regulation/1/2/b), [4(2)](https://www.legislation.gov.uk/uksi/2024/853/regulation/4/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Power to extend moratorium period[^key-b4e187ee047fca9fd2e8b726a7e2942d][^key-ddd1673430d9f241c19bb2a077d795a1][^c22725141]
+## 10. Power to extend moratorium period[^c-b4e187ee047fca9fd2e8b726a7e2942d][^c-ddd1673430d9f241c19bb2a077d795a1][^c22725141]
 
 *Extent: E+W+S+N.I.*
 
@@ -198,8 +198,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b4e187ee047fca9fd2e8b726a7e2942d]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2017/22/section/10) in force at 31.10.2017 for E.W.S. in so far as not already in force by [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/a) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2017/991/regulation/3/1))
+[^c-b4e187ee047fca9fd2e8b726a7e2942d]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2017/22/section/10) in force at 31.10.2017 for E.W.S. in so far as not already in force by [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/a) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2017/991/regulation/3/1))
 
-[^key-ddd1673430d9f241c19bb2a077d795a1]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2017/22/section/10) in force at 28.6.2021 for N.I. in so far as not already in force by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/c)
+[^c-ddd1673430d9f241c19bb2a077d795a1]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2017/22/section/10) in force at 28.6.2021 for N.I. in so far as not already in force by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/c)
 
 [^c22725141]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2017/22/section/10) in force at Royal Assent for specified purposes, see [s. 58](https://www.legislation.gov.uk/ukpga/2017/22/section/58)

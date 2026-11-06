@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18.10. Content of application for a special measures direction[^key-6f4ee6f1482ff5e5aa9bd54f54465543]
+## 18.10. Content of application for a special measures direction[^c-6f4ee6f1482ff5e5aa9bd54f54465543]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ An applicant for a special measures direction must—
 
 ## Annotations
 
-[^key-6f4ee6f1482ff5e5aa9bd54f54465543]: Commencement: [Rule 18.10](https://www.legislation.gov.uk/uksi/2025/909/rule/18.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-6f4ee6f1482ff5e5aa9bd54f54465543]: Commencement: [Rule 18.10](https://www.legislation.gov.uk/uksi/2025/909/rule/18.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

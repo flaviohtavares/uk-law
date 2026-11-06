@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Prohibition of rent in advance after lease entered into (except initial rent)[^key-5fdc421be1cb5c536b7ceea7a2057f37][^key-e8440a1a0275ce38eef77a78776f8e34]
+## 8. Prohibition of rent in advance after lease entered into (except initial rent)[^c-5fdc421be1cb5c536b7ceea7a2057f37][^c-e8440a1a0275ce38eef77a78776f8e34]
 
 *Extent: E+W*
 
@@ -86,6 +86,6 @@ In the 1988 Act, after section 4A (inserted by section 1 of this Act) insert—
 
 ## Annotations
 
-[^key-5fdc421be1cb5c536b7ceea7a2057f37]: Commencement: S. 8 not in force at Royal Assent, see [s. 145(1)(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/8)
+[^c-5fdc421be1cb5c536b7ceea7a2057f37]: Commencement: S. 8 not in force at Royal Assent, see [s. 145(1)(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/8)
 
-[^key-e8440a1a0275ce38eef77a78776f8e34]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2025/26/section/8) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-e8440a1a0275ce38eef77a78776f8e34]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2025/26/section/8) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)

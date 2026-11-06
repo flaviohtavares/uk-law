@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^c12802611][^key-3270cb4c18649c54a18949342e32b4f4] The Mayor may issue to Transport for London—
+(1)[^c12802611][^c-3270cb4c18649c54a18949342e32b4f4] The Mayor may issue to Transport for London—
 
 - (a) guidance as to the manner in which it is to exercise its functions,
 - (b) general directions as to the manner in which it is to exercise its functions, or
@@ -39,4 +39,4 @@ summary: ''
 
 [^c12802611]: Modification: S. 155(1) applied (with modifications) (*temp.*) (3.7.2000) by [S.I. 2000/1504](https://www.legislation.gov.uk/uksi/2000/1504), [arts. 4](https://www.legislation.gov.uk/uksi/2000/1504/article/4), [9(1)](https://www.legislation.gov.uk/uksi/2000/1504/article/9/1)
 
-[^key-3270cb4c18649c54a18949342e32b4f4]: Modification: S. 155(1) restricted (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [s. 38(2)](https://www.legislation.gov.uk/ukpga/2008/18/section/38/2)
+[^c-3270cb4c18649c54a18949342e32b4f4]: Modification: S. 155(1) restricted (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [s. 38(2)](https://www.legislation.gov.uk/ukpga/2008/18/section/38/2)

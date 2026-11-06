@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Restrictions on towing of trailers[^key-5244c7b5ec960fe720ebc5bf825fc313]
+## 22. Restrictions on towing of trailers[^c-5244c7b5ec960fe720ebc5bf825fc313]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5244c7b5ec960fe720ebc5bf825fc313]: Commencement: Art. 22 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-5244c7b5ec960fe720ebc5bf825fc313]: Commencement: Art. 22 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

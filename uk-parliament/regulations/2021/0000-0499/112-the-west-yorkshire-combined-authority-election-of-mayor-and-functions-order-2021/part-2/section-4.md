@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Political adviser[^key-04f80cd9dc7849be9b64485850fbc302]
+## 4. Political adviser[^c-04f80cd9dc7849be9b64485850fbc302]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-04f80cd9dc7849be9b64485850fbc302]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2021/112/article/4) in force at 10.5.2021, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/112/article/1/3)
+[^c-04f80cd9dc7849be9b64485850fbc302]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2021/112/article/4) in force at 10.5.2021, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/112/article/1/3)
 
 [^c24433271]: Marginal citation: [Section 9](https://www.legislation.gov.uk/uksi/2021/112/section/9) was amended by sections 61 and 204 of, and paragraph 2 of Schedule 2 to, the Local Government and Public Involvement in Health Act 2007 and by [S.I. 2001/2237](https://www.legislation.gov.uk/uksi/2001/2237). There are other amendments not relevant to this Order.

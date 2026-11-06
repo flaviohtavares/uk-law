@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24A. UK(NI) indication: active implantable medical devices[^key-2b3d51124d8cde595fd85315373466f9]
+## 24A. UK(NI) indication: active implantable medical devices[^c-2b3d51124d8cde595fd85315373466f9]
 
 *Extent: N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) The UK(NI) indication must accompany the CE marking, wherever that is affixed in accordance with regulation 27.
 
-(3A)[^key-c4c82973ddc3d45afb59c83b57e2705c] The UK(NI) indication may be less than 5mm high provided that it is the same height as the CE marking that it accompanies.
+(3A)[^c-c4c82973ddc3d45afb59c83b57e2705c] The UK(NI) indication may be less than 5mm high provided that it is the same height as the CE marking that it accompanies.
 
 (4) The UK(NI) indication must be affixed by the manufacturer.
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2b3d51124d8cde595fd85315373466f9]: Textual amendment: [Reg. 24A](https://www.legislation.gov.uk/uksi/2002/618/regulation/24A) inserted (N.I.) (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2020/1478/schedule/1/paragraph/9)
+[^c-2b3d51124d8cde595fd85315373466f9]: Textual amendment: [Reg. 24A](https://www.legislation.gov.uk/uksi/2002/618/regulation/24A) inserted (N.I.) (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2020/1478/schedule/1/paragraph/9)
 
-[^key-c4c82973ddc3d45afb59c83b57e2705c]: Textual amendment: [Reg. 24A(3A)](https://www.legislation.gov.uk/uksi/2002/618/regulation/24A/3A) inserted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [36](https://www.legislation.gov.uk/uksi/2021/905/regulation/36)
+[^c-c4c82973ddc3d45afb59c83b57e2705c]: Textual amendment: [Reg. 24A(3A)](https://www.legislation.gov.uk/uksi/2002/618/regulation/24A/3A) inserted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [36](https://www.legislation.gov.uk/uksi/2021/905/regulation/36)

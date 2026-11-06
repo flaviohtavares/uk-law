@@ -50,7 +50,7 @@ A draft of this Order has been laid before Parliament under section 84(4) of the
 
 Accordingly, Her Majesty, in exercise of the powers conferred on Her by section 84(1) and (3) of the Northern Ireland Act 1998, is pleased, by and with the advice of Her Privy Council, to order as follows:
 
-## 1. Citation, commencement and interpretation[^key-652a950bd4de5d936089d053ba902a96]
+## 1. Citation, commencement and interpretation[^c-652a950bd4de5d936089d053ba902a96]
 
 (1) This Order may be cited as the Postponement of Local Elections (Northern Ireland) Order 2009 and shall come into force on the day after the day on which it is made.
 
@@ -58,15 +58,15 @@ Accordingly, Her Majesty, in exercise of the powers conferred on Her by section 
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00004] applies to this paragraph and the following provisions of this Order as it applies to an Act of the Assembly.
 
-## 2. Postponement of the next local election year in Northern Ireland[^key-37aa23e0d91246101d80710a699c9a67]
+## 2. Postponement of the next local election year in Northern Ireland[^c-37aa23e0d91246101d80710a699c9a67]
 
 (1) The next local election year in Northern Ireland is to be 2011 (and not 2009).
 
 (2) Accordingly in section 11(1) of the 1962 Act[^f00005] (which provides for every fourth year from 1973 to be a local election year) for “the year 1973” there is substituted “the year 2011”.
 
-(3)[^key-1a671ed18c675e2dea47c4db06195cd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-1a671ed18c675e2dea47c4db06195cd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provisions: members of district councils in Northern Ireland[^key-e79187649657a18e9c643b2dd7d63005]
+## 3. Transitional provisions: members of district councils in Northern Ireland[^c-e79187649657a18e9c643b2dd7d63005]
 
 (1) The term of office of an existing member of a district council shall continue until the fourth day after the election day in 2011.
 
@@ -84,7 +84,7 @@ Accordingly, Her Majesty, in exercise of the powers conferred on Her by section 
 - (a) “casual vacancy” and “election day” have the same meaning as in section 11 of the 1962 Act; and
 - (b) “existing member”, in relation to a district council, means a person who is a member of that council at the coming into force of this Order.
 
-## 4. Amendment of the Drainage (Northern Ireland) Order 1973[^key-289328121eaf4c318084fb7f705e6753]
+## 4. Amendment of the Drainage (Northern Ireland) Order 1973[^c-289328121eaf4c318084fb7f705e6753]
 
 (1) In this article “Schedule 1” means Schedule 1 to the Drainage (Northern Ireland) Order 1973[^f00007] (constitution and proceedings of the Drainage Council).
 
@@ -114,22 +114,22 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00002]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47); section 84 was amended by the Elections Act [2001 (c. 7)](https://www.legislation.gov.uk/ukpga/2001/7).
 
-[^key-652a950bd4de5d936089d053ba902a96]: Commencement: Art. 1 in force at 12.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/225/article/1/1)
+[^c-652a950bd4de5d936089d053ba902a96]: Commencement: Art. 1 in force at 12.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/225/article/1/1)
 
 [^f00003]: Footnote: [1962 c. 14 (N.I.)](https://www.legislation.gov.uk/apni/1962/14).
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
-[^key-37aa23e0d91246101d80710a699c9a67]: Commencement: Art. 2 in force at 12.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/225/article/1/1)
+[^c-37aa23e0d91246101d80710a699c9a67]: Commencement: Art. 2 in force at 12.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/225/article/1/1)
 
 [^f00005]: Footnote: [1962 c. 14 (N.I.)](https://www.legislation.gov.uk/apni/1962/14). Section 11(1) was amended by [S.I. 1972/1998 (N.I. 21)](https://www.legislation.gov.uk/nisi/1972/1998); section 11(1A) was inserted by [S.I. 1985/454](https://www.legislation.gov.uk/uksi/1985/454) and amended by [S.I. 2005/862](https://www.legislation.gov.uk/uksi/2005/862) and [S.I. 1992/810 (N.I. 6)](https://www.legislation.gov.uk/nisi/1992/810); section 11(3) was amended by [S.I. 1985/454](https://www.legislation.gov.uk/uksi/1985/454); subsections (4A) to (4B) were inserted by [S.I. 1985/1208 (N.I. 15)](https://www.legislation.gov.uk/nisi/1985/1208) and amended by the Elected Authorities (Northern Ireland) Act [1989 (c. 3)](https://www.legislation.gov.uk/ukpga/1989/3); and section 11(5) was amended by [S.I. 1992/810 (N.I. 6)](https://www.legislation.gov.uk/nisi/1992/810).
 
-[^key-1a671ed18c675e2dea47c4db06195cd6]: Textual amendment: [Art. 2(3)](https://www.legislation.gov.uk/uksi/2009/225/article/2/3) revoked (16.12.2010) by [The Local Elections (Northern Ireland) Order 2010 (S.I. 2010/2977)](https://www.legislation.gov.uk/uksi/2010/2977), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2010/2977/article/8/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/3))
+[^c-1a671ed18c675e2dea47c4db06195cd6]: Textual amendment: [Art. 2(3)](https://www.legislation.gov.uk/uksi/2009/225/article/2/3) revoked (16.12.2010) by [The Local Elections (Northern Ireland) Order 2010 (S.I. 2010/2977)](https://www.legislation.gov.uk/uksi/2010/2977), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2010/2977/article/8/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/3))
 
-[^key-e79187649657a18e9c643b2dd7d63005]: Commencement: Art. 3 in force at 12.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/225/article/1/1)
+[^c-e79187649657a18e9c643b2dd7d63005]: Commencement: Art. 3 in force at 12.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/225/article/1/1)
 
 [^f00006]: Footnote: Subsections (1) to (6) of section 28 were repealed by the Elected Authorities (Northern Ireland) Act [1989 (c. 3)](https://www.legislation.gov.uk/ukpga/1989/3) and subsection (7) was amended by the Electoral Law Act (Northern Ireland) [1971 (c. 4)](https://www.legislation.gov.uk/apni/1971/4) and the Electoral Law (Northern Ireland) Order 1972 ([S.I. 1972/1264) (N.I. 13)](https://www.legislation.gov.uk/nisi/1972/1264).
 
-[^key-289328121eaf4c318084fb7f705e6753]: Commencement: Art. 4 in force at 12.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/225/article/1/1)
+[^c-289328121eaf4c318084fb7f705e6753]: Commencement: Art. 4 in force at 12.2.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/225/article/1/1)
 
 [^f00007]: Footnote: [S.I. 1973/69 (N.I. 1)](https://www.legislation.gov.uk/nisi/1973/69). There are amendments not relevant to this Order.

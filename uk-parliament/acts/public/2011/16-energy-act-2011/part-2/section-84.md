@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Compulsory modification of upstream petroleum infrastructure[^key-06adba29f59d888848d18232c52bf5e1][^key-25ff6de53e10803f60f96deebfa3ffee]
+## 84. Compulsory modification of upstream petroleum infrastructure[^c-06adba29f59d888848d18232c52bf5e1][^c-25ff6de53e10803f60f96deebfa3ffee]
 
 *Extent: E+W+S*
 
 (1) This section applies where—
 
 - (a) a person has made an application of a kind mentioned in subsection (1) of section 82, and
-- (b) the OGA[^key-4fde1f57e65c18d4e767dced49634c4b] is considering whether to give a notice under subsection (11) of that section which would secure to the applicant the right sought in the application.
+- (b) the OGA[^c-4fde1f57e65c18d4e767dced49634c4b] is considering whether to give a notice under subsection (11) of that section which would secure to the applicant the right sought in the application.
 
 (2) If it appears to the OGA —
 
@@ -70,8 +70,8 @@ then the OGA may give the applicant and the owner of the pipeline or facility a 
 
 ## Annotations
 
-[^key-06adba29f59d888848d18232c52bf5e1]: Commencement: S. 84 in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/873/article/4))
+[^c-06adba29f59d888848d18232c52bf5e1]: Commencement: S. 84 in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/873/article/4))
 
-[^key-25ff6de53e10803f60f96deebfa3ffee]: Modification: S. 84 excluded by 1962 c. 58, s. 9(9)(b) (as amended) (21.3.2012) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [s. 121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1), [Sch. 2 paras. 2(b)](https://www.legislation.gov.uk/ukpga/2011/16/schedule/2/paragraph/2/b)(3)(b); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/873/article/4))
+[^c-25ff6de53e10803f60f96deebfa3ffee]: Modification: S. 84 excluded by 1962 c. 58, s. 9(9)(b) (as amended) (21.3.2012) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [s. 121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1), [Sch. 2 paras. 2(b)](https://www.legislation.gov.uk/ukpga/2011/16/schedule/2/paragraph/2/b)(3)(b); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/873/article/4))
 
-[^key-4fde1f57e65c18d4e767dced49634c4b]: Textual amendment: Words in s. 84 substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 66](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/66); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-4fde1f57e65c18d4e767dced49634c4b]: Textual amendment: Words in s. 84 substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 66](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/66); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)

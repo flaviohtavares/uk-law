@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Consequential amendments and transitional and saving provisions[^key-6e01fd800d23ce919fb3d5f10fcda4b0]
+## 17. Consequential amendments and transitional and saving provisions[^c-6e01fd800d23ce919fb3d5f10fcda4b0]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e01fd800d23ce919fb3d5f10fcda4b0]: Commencement: Reg. 17 in force at 2.12.2020, see reg. 1(2)
+[^c-6e01fd800d23ce919fb3d5f10fcda4b0]: Commencement: Reg. 17 in force at 2.12.2020, see reg. 1(2)

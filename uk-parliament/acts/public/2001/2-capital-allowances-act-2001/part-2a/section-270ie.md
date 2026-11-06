@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 270IE. Co-ownership schemes: calculation of allowance after an election[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+## 270IE. Co-ownership schemes: calculation of allowance after an election[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) an election under section 270ID, or
 - (b) an election under section 262AB (plant and machinery allowances: co-ownership schemes) made on or after the relevant date,
 
-has effect for an accounting period of a co-ownership [^key-7b741057c94f6b0bbde4687a0e602482]... contractual scheme (“the relevant period”).
+has effect for an accounting period of a co-ownership [^c-7b741057c94f6b0bbde4687a0e602482]... contractual scheme (“the relevant period”).
 
 (2) The operator of the scheme is to calculate the allowances that would be available to the scheme under this Part in relation to the relevant period on the basis of the assumptions in subsection (3).
 
@@ -40,7 +40,7 @@ has effect for an accounting period of a co-ownership [^key-7b741057c94f6b0bbde4
 - (e) any property which became subject to the scheme at a time during an accounting period for which the election has effect was acquired by the scheme at that time;
 - (f) property which ceased to be subject to the scheme at any such time ceased to be owned by the scheme at that time.
 
-(4) The operator of the co-ownership [^key-470b90c1cb4aadc8695349b338d89e00]... contractual scheme must allocate to each participant in the scheme a proportion (which may be zero) of the allowances calculated under this section.
+(4) The operator of the co-ownership [^c-470b90c1cb4aadc8695349b338d89e00]... contractual scheme must allocate to each participant in the scheme a proportion (which may be zero) of the allowances calculated under this section.
 
 (5) The allocation is to be on the basis of what is just and reasonable.
 
@@ -64,8 +64,8 @@ has effect for an accounting period of a co-ownership [^key-7b741057c94f6b0bbde4
 
 ## Annotations
 
-[^key-63b259cb6f7aef6fc5b59b4dde260ee2]: Textual amendment: Pt. 2A inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1087/regulation/2)
+[^c-63b259cb6f7aef6fc5b59b4dde260ee2]: Textual amendment: Pt. 2A inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1087/regulation/2)
 
-[^key-7b741057c94f6b0bbde4687a0e602482]: Textual amendment: Word in [s. 270IE(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/270IE/1) omitted (19.3.2025) by virtue of [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [56(5)](https://www.legislation.gov.uk/uksi/2025/200/regulation/56/5) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-7b741057c94f6b0bbde4687a0e602482]: Textual amendment: Word in [s. 270IE(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/270IE/1) omitted (19.3.2025) by virtue of [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [56(5)](https://www.legislation.gov.uk/uksi/2025/200/regulation/56/5) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-470b90c1cb4aadc8695349b338d89e00]: Textual amendment: Word in [s. 270IE(4)](https://www.legislation.gov.uk/ukpga/2001/2/section/270IE/4) omitted (19.3.2025) by virtue of [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [56(5)](https://www.legislation.gov.uk/uksi/2025/200/regulation/56/5) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-470b90c1cb4aadc8695349b338d89e00]: Textual amendment: Word in [s. 270IE(4)](https://www.legislation.gov.uk/ukpga/2001/2/section/270IE/4) omitted (19.3.2025) by virtue of [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [56(5)](https://www.legislation.gov.uk/uksi/2025/200/regulation/56/5) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))

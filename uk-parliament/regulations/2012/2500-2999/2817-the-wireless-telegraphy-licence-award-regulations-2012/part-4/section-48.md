@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Extension to opt-in round[^key-aa7e4126dbc941798add94aa86b41525]
+## 48. Extension to opt-in round[^c-aa7e4126dbc941798add94aa86b41525]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ the time by which the bidder’s completed opt-in bid form must be received by O
 
 ## Annotations
 
-[^key-aa7e4126dbc941798add94aa86b41525]: Commencement: Reg. 48 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-aa7e4126dbc941798add94aa86b41525]: Commencement: Reg. 48 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

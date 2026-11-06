@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## 1. Citation and commencement[^key-1695c73981d439d7e2532021d51b1be3]
+## 1. Citation and commencement[^c-1695c73981d439d7e2532021d51b1be3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Courts Act 2003 (Consequential Provisions) (No. 2
 
 ## Annotations
 
-[^key-1695c73981d439d7e2532021d51b1be3]: Commencement: Art. 1 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1)
+[^c-1695c73981d439d7e2532021d51b1be3]: Commencement: Art. 1 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1)

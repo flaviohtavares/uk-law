@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 311A. Meaning of “qualifying new generating plant”[^key-03abc9c6c535f8606dc5ae4f365c24f4]
+## 311A. Meaning of “qualifying new generating plant”[^c-03abc9c6c535f8606dc5ae4f365c24f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-03abc9c6c535f8606dc5ae4f365c24f4]: Textual amendment: [S. 311A](https://www.legislation.gov.uk/ukpga/2023/30/section/311A) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2024/3/section/21/3)
+[^c-03abc9c6c535f8606dc5ae4f365c24f4]: Textual amendment: [S. 311A](https://www.legislation.gov.uk/ukpga/2023/30/section/311A) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2024/3/section/21/3)

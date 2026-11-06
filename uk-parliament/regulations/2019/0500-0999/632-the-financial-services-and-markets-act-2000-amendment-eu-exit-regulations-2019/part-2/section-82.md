@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Section 404E (meaning of “consumers”)[^key-1a650a10e28a8aef48031c2ee92ca1ad]
+## 82. Section 404E (meaning of “consumers”)[^c-1a650a10e28a8aef48031c2ee92ca1ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 404E [^c23658331] (meaning of “consumers”), in subsection (6) omi
 
 ## Annotations
 
-[^key-1a650a10e28a8aef48031c2ee92ca1ad]: Commencement: Reg. 82 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-1a650a10e28a8aef48031c2ee92ca1ad]: Commencement: Reg. 82 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23658331]: Marginal citation: Section 404E was inserted by section 14(1) of the Financial Services Act 2010.

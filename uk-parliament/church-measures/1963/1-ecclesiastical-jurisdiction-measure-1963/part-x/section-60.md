@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England.
 
-## 60. Powers of courts and commissions in regard to costs.[^key-099cb515109924007f9e2ac47f1c2475]
+## 60. Powers of courts and commissions in regard to costs.[^c-099cb515109924007f9e2ac47f1c2475]
 
 *Extent: E*
 
-(1) Subject, in the case of any party to whom legal aid is granted under[^c1021364] the Church of England (Legal Aid) Measure 1994[^c1021365], to rules made under section 4 of that Measure Any court or commission having jurisdiction under this Measure [^key-266549d6e8a3b537bbbd3011465aa5dd]... shall have power at any stage of the proceedings to order any party to give security for costs.
+(1) Subject, in the case of any party to whom legal aid is granted under[^c1021364] the Church of England (Legal Aid) Measure 1994[^c1021365], to rules made under section 4 of that Measure Any court or commission having jurisdiction under this Measure [^c-266549d6e8a3b537bbbd3011465aa5dd]... shall have power at any stage of the proceedings to order any party to give security for costs.
 
-(2) A court or commission exercising jurisdiction under this Measure, a Vicar-General's court as constituted under the Clergy Discipline Measure 2003, or a committee under this Measure[^key-a71dd4ece06c3be73747d616e35d5048] shall have power at its discretion to make an order for payment of taxed costs against any party and may take into account the fact that the whole or part of the costs of a complainant or accused person are being or have been met out of the Fund maintained under[^c1021368] the Church of England (Legal Aid) Measure 1994[^c1021369].
+(2) A court or commission exercising jurisdiction under this Measure, a Vicar-General's court as constituted under the Clergy Discipline Measure 2003, or a committee under this Measure[^c-a71dd4ece06c3be73747d616e35d5048] shall have power at its discretion to make an order for payment of taxed costs against any party and may take into account the fact that the whole or part of the costs of a complainant or accused person are being or have been met out of the Fund maintained under[^c1021368] the Church of England (Legal Aid) Measure 1994[^c1021369].
 
-(3)[^c1021370][^key-146c587b6c5f28be6d1d342aeabcc031] An award of costs to any person under the last foregoing subsection may direct that, instead of taxed costs, that person shall be entitled—
+(3)[^c1021370][^c-146c587b6c5f28be6d1d342aeabcc031] An award of costs to any person under the last foregoing subsection may direct that, instead of taxed costs, that person shall be entitled—
 
 - (a) to a proportion specified in the direction of the taxed costs or to the taxed costs from or up to a stage of the proceedings so specified; or
 - (b) to a gross sum so specified in lieu of taxed costs.
@@ -37,15 +37,15 @@ summary: ''
 
 ## Annotations
 
-[^key-099cb515109924007f9e2ac47f1c2475]: Modification: S. 60 applied (with modifications) (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [ss. 35(1)](https://www.legislation.gov.uk/ukcm/2003/3/section/35/1), [48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-099cb515109924007f9e2ac47f1c2475]: Modification: S. 60 applied (with modifications) (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [ss. 35(1)](https://www.legislation.gov.uk/ukcm/2003/3/section/35/1), [48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
 [^c1021364]: Textual amendment: Words inserted by [Church of England (Legal Aid and Miscellaneous Provisions) Measure 1988 (No. 1, SIF 21:1)](https://www.legislation.gov.uk/ukcm/1988/1), [s. 14(1)](https://www.legislation.gov.uk/ukcm/1988/1/section/14/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukcm/1988/1/schedule/2/paragraph/1)(*a*)
 
 [^c1021365]: Textual amendment: Words in s. 60(1) substituted (1.9.1994) by [1994 No. 3](https://www.legislation.gov.uk/ukcm/1994/3), [s. 7(2)](https://www.legislation.gov.uk/ukcm/1994/3/section/7/2), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/ukcm/1994/3/schedule/2/paragraph/1/a) (with s. 5(1); [Instrument dated 25.7.1994 made by Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1994-07-25)
 
-[^key-266549d6e8a3b537bbbd3011465aa5dd]: Textual amendment: Words in s. 60(1) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 1 para. 20(2)](https://www.legislation.gov.uk/ukcm/2018/3/schedule/1/paragraph/20/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/720/article/3))
+[^c-266549d6e8a3b537bbbd3011465aa5dd]: Textual amendment: Words in s. 60(1) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 1 para. 20(2)](https://www.legislation.gov.uk/ukcm/2018/3/schedule/1/paragraph/20/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/720/article/3))
 
-[^key-a71dd4ece06c3be73747d616e35d5048]: Textual amendment: Words in s. 60(2) substituted (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 1 para. 20(3)](https://www.legislation.gov.uk/ukcm/2018/3/schedule/1/paragraph/20/3) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/720/article/3))
+[^c-a71dd4ece06c3be73747d616e35d5048]: Textual amendment: Words in s. 60(2) substituted (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 1 para. 20(3)](https://www.legislation.gov.uk/ukcm/2018/3/schedule/1/paragraph/20/3) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/720/article/3))
 
 [^c1021368]: Textual amendment: Words substituted by [Church of England (Legal Aid and Miscellaneous Provisions) Measure 1988 (No. 1, SIF 21:1)](https://www.legislation.gov.uk/ukcm/1988/1), [s. 18(1)](https://www.legislation.gov.uk/ukcm/1988/1/section/18/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukcm/1988/1/schedule/2/paragraph/1)(*b*)
 
@@ -53,7 +53,7 @@ summary: ''
 
 [^c1021370]: Modification: S. 60(3) applied by [S.I. 1990/2335](https://www.legislation.gov.uk/uksi/1990/2335), [rule 9(4)](https://www.legislation.gov.uk/uksi/1990/2335/rule/9/4)
 
-[^key-146c587b6c5f28be6d1d342aeabcc031]: Modification: S. 60(3) applied (1.1.2008) by [The Care of Cathedrals Rules 2006 (S.I. 2006/1941)](https://www.legislation.gov.uk/uksi/2006/1941), [rules 1(2)](https://www.legislation.gov.uk/uksi/2006/1941/rule/1/2), [26(5)](https://www.legislation.gov.uk/uksi/2006/1941/rule/26/5)
+[^c-146c587b6c5f28be6d1d342aeabcc031]: Modification: S. 60(3) applied (1.1.2008) by [The Care of Cathedrals Rules 2006 (S.I. 2006/1941)](https://www.legislation.gov.uk/uksi/2006/1941), [rules 1(2)](https://www.legislation.gov.uk/uksi/2006/1941/rule/1/2), [26(5)](https://www.legislation.gov.uk/uksi/2006/1941/rule/26/5)
 
 [^c1021371]: Textual amendment: Words inserted by [Church of England (Legal Aid and Miscellaneous Provisions) Measure 1988 (No. 1, SIF 21:1)](https://www.legislation.gov.uk/ukcm/1988/1), [s. 14(1)](https://www.legislation.gov.uk/ukcm/1988/1/section/14/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukcm/1988/1/schedule/2/paragraph/1)(*c*)
 

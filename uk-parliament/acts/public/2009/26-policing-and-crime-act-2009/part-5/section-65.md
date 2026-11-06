@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-51ff8932f9a320b2d6801b7ddbf3bc1e][^key-9436b79fad8abafdea65b31a0c6e2f18][^key-44a7a4ef587768b0ba3ab4e93bac513b] After section 297 of the Proceeds of Crime Act 2002 insert—
+(1)[^c-51ff8932f9a320b2d6801b7ddbf3bc1e][^c-9436b79fad8abafdea65b31a0c6e2f18][^c-44a7a4ef587768b0ba3ab4e93bac513b] After section 297 of the Proceeds of Crime Act 2002 insert—
 
 > **Forfeiture without court order**
 >
@@ -154,18 +154,18 @@ summary: ''
 > - (a) before the end of the period within which an application under section 297E may be made (ignoring the possibility of an application by virtue of section 297E(4)), or
 > - (b) if an application is made within that period, before the application is determined or otherwise disposed of.
 
-(2)[^key-3e2d656d612ba5ce15493af726e453f9] In section 298(1) of that Act (forfeiture by court order) after “section 295” insert “ , 297C or 297D ”.
+(2)[^c-3e2d656d612ba5ce15493af726e453f9] In section 298(1) of that Act (forfeiture by court order) after “section 295” insert “ , 297C or 297D ”.
 
-(3)[^key-3e2d656d612ba5ce15493af726e453f9] In section 299(4) of that Act (appeal against forfeiture order: release of cash) for “order the release of the cash” substitute “ order the release of the whole or any part of the cash ”.
+(3)[^c-3e2d656d612ba5ce15493af726e453f9] In section 299(4) of that Act (appeal against forfeiture order: release of cash) for “order the release of the cash” substitute “ order the release of the whole or any part of the cash ”.
 
-(4)[^key-3e2d656d612ba5ce15493af726e453f9] In section 297A(1) of that Act (inserted by subsection (1) above) the reference to an order includes an order made before the commencement of this section.
+(4)[^c-3e2d656d612ba5ce15493af726e453f9] In section 297A(1) of that Act (inserted by subsection (1) above) the reference to an order includes an order made before the commencement of this section.
 
 ## Annotations
 
-[^key-51ff8932f9a320b2d6801b7ddbf3bc1e]: Commencement: [S. 65(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/65/1) in force at 22.11.2014 for specified purposes by [S.I. 2014/3101](https://www.legislation.gov.uk/uksi/2014/3101), [art. 3](https://www.legislation.gov.uk/uksi/2014/3101/article/3)
+[^c-51ff8932f9a320b2d6801b7ddbf3bc1e]: Commencement: [S. 65(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/65/1) in force at 22.11.2014 for specified purposes by [S.I. 2014/3101](https://www.legislation.gov.uk/uksi/2014/3101), [art. 3](https://www.legislation.gov.uk/uksi/2014/3101/article/3)
 
-[^key-9436b79fad8abafdea65b31a0c6e2f18]: Commencement: [S. 65(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/65/1) in force at 1.6.2015 for specified purposes by [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/c)
+[^c-9436b79fad8abafdea65b31a0c6e2f18]: Commencement: [S. 65(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/65/1) in force at 1.6.2015 for specified purposes by [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/c)
 
-[^key-44a7a4ef587768b0ba3ab4e93bac513b]: Commencement: [S. 65(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/65/1) in force at 1.3.2016 in so far as not already in force by [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(e)](https://www.legislation.gov.uk/uksi/2016/147/article/3/e)
+[^c-44a7a4ef587768b0ba3ab4e93bac513b]: Commencement: [S. 65(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/65/1) in force at 1.3.2016 in so far as not already in force by [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(e)](https://www.legislation.gov.uk/uksi/2016/147/article/3/e)
 
-[^key-3e2d656d612ba5ce15493af726e453f9]: Commencement: [S. 65(2)-(4)](https://www.legislation.gov.uk/ukpga/2009/26/section/65/2) in force at 1.6.2015 by [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/c)
+[^c-3e2d656d612ba5ce15493af726e453f9]: Commencement: [S. 65(2)-(4)](https://www.legislation.gov.uk/ukpga/2009/26/section/65/2) in force at 1.6.2015 by [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/c)

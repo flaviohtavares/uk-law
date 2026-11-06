@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Conditions for applying for appointment order[^key-79c88d251b143fd6539c0dbfe7eb30d9]
+## 91. Conditions for applying for appointment order[^c-79c88d251b143fd6539c0dbfe7eb30d9]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79c88d251b143fd6539c0dbfe7eb30d9]: Commencement: S. 91 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-79c88d251b143fd6539c0dbfe7eb30d9]: Commencement: S. 91 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

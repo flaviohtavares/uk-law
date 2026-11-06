@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Carrying on of Consumer Credit Act business by an EEA authorised electronic money institution[^key-152b2958aa15cc01862bb442c8af9340]
+## 31. Carrying on of Consumer Credit Act business by an EEA authorised electronic money institution[^c-152b2958aa15cc01862bb442c8af9340]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-152b2958aa15cc01862bb442c8af9340]: Textual amendment: Reg. 31 omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 42](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/42)
+[^c-152b2958aa15cc01862bb442c8af9340]: Textual amendment: Reg. 31 omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 42](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/42)

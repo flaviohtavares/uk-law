@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 105. Carrying out inspections under section 103 , 103A or 103B: use of equipment and materials[^key-5982ff4bece185bb86c9d197df8ba559][^key-57b9d69333114e6e84439674874647ec]
+## 105. Carrying out inspections under section 103 , 103A or 103B: use of equipment and materials[^c-5982ff4bece185bb86c9d197df8ba559][^c-57b9d69333114e6e84439674874647ec]
 
 *Extent: E+W*
 
-(1) WRA, or a person accompanying WRA, may take any equipment or materials required for the purpose of an inspection under section 103, 103A or 103B onto the[^key-730ff6c1615b1f4fab8393b689835d44] premises being inspected.
+(1) WRA, or a person accompanying WRA, may take any equipment or materials required for the purpose of an inspection under section 103, 103A or 103B onto the[^c-730ff6c1615b1f4fab8393b689835d44] premises being inspected.
 
 (2) WRA, or a person accompanying WRA, may take equipment or materials onto the premises—
 
 - (a) at a time agreed to by the occupier of the premises, or
 - (b) at any reasonable time, if either—
   - (i) a notice was issued under section 103(3)(b)(i) and the notice specified that the equipment or materials were to be taken onto the premises, or
-  - (ii) WRA has grounds for believing that issuing such a notice would seriously prejudice the assessment or collection of WRA-collected[^key-fff3af6ed431e746ec4d55fe1114ea14] tax.
+  - (ii) WRA has grounds for believing that issuing such a notice would seriously prejudice the assessment or collection of WRA-collected[^c-fff3af6ed431e746ec4d55fe1114ea14] tax.
 
 (3) If equipment or materials are taken onto premises without—
 
@@ -46,16 +46,16 @@ WRA must provide a notice at the time the equipment or materials are to be taken
 
 (6) If the inspection, or the use of equipment or materials, has been approved by the tribunal, the notice must state that fact.
 
-(7)[^key-3b4ba10bda40fda036428f5a32f17af7] References in this section to a notice issued under section 103(3)(b)(i) include a notice issued under that provision as applied by sections 103A(4) and 103B(5).
+(7)[^c-3b4ba10bda40fda036428f5a32f17af7] References in this section to a notice issued under section 103(3)(b)(i) include a notice issued under that provision as applied by sections 103A(4) and 103B(5).
 
 ## Annotations
 
-[^key-5982ff4bece185bb86c9d197df8ba559]: Commencement: S. 105 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
+[^c-5982ff4bece185bb86c9d197df8ba559]: Commencement: S. 105 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
 
-[^key-57b9d69333114e6e84439674874647ec]: Textual amendment: Words in s. 105 heading inserted (25.1.2018) by [Landfill Disposals Tax (Wales) Act 2017 (anaw 3)](https://www.legislation.gov.uk/anaw/2017/3), [s. 97(2)](https://www.legislation.gov.uk/anaw/2017/3/section/97/2), [Sch. 4 para. 5(a)](https://www.legislation.gov.uk/anaw/2017/3/schedule/4/paragraph/5/a); [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(z)(i)](https://www.legislation.gov.uk/wsi/2018/35/article/2/z/i)
+[^c-57b9d69333114e6e84439674874647ec]: Textual amendment: Words in s. 105 heading inserted (25.1.2018) by [Landfill Disposals Tax (Wales) Act 2017 (anaw 3)](https://www.legislation.gov.uk/anaw/2017/3), [s. 97(2)](https://www.legislation.gov.uk/anaw/2017/3/section/97/2), [Sch. 4 para. 5(a)](https://www.legislation.gov.uk/anaw/2017/3/schedule/4/paragraph/5/a); [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(z)(i)](https://www.legislation.gov.uk/wsi/2018/35/article/2/z/i)
 
-[^key-730ff6c1615b1f4fab8393b689835d44]: Textual amendment: Words in s. 105(1) substituted (25.1.2018) by [Landfill Disposals Tax (Wales) Act 2017 (anaw 3)](https://www.legislation.gov.uk/anaw/2017/3), [s. 97(2)](https://www.legislation.gov.uk/anaw/2017/3/section/97/2), [Sch. 4 para. 5(b)](https://www.legislation.gov.uk/anaw/2017/3/schedule/4/paragraph/5/b); [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(z)(i)](https://www.legislation.gov.uk/wsi/2018/35/article/2/z/i)
+[^c-730ff6c1615b1f4fab8393b689835d44]: Textual amendment: Words in s. 105(1) substituted (25.1.2018) by [Landfill Disposals Tax (Wales) Act 2017 (anaw 3)](https://www.legislation.gov.uk/anaw/2017/3), [s. 97(2)](https://www.legislation.gov.uk/anaw/2017/3/section/97/2), [Sch. 4 para. 5(b)](https://www.legislation.gov.uk/anaw/2017/3/schedule/4/paragraph/5/b); [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(z)(i)](https://www.legislation.gov.uk/wsi/2018/35/article/2/z/i)
 
-[^key-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)
+[^c-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)
 
-[^key-3b4ba10bda40fda036428f5a32f17af7]: Textual amendment: S. 105(7) inserted (25.1.2018) by [Landfill Disposals Tax (Wales) Act 2017 (anaw 3)](https://www.legislation.gov.uk/anaw/2017/3), [s. 97(2)](https://www.legislation.gov.uk/anaw/2017/3/section/97/2), [Sch. 4 para. 5(c)](https://www.legislation.gov.uk/anaw/2017/3/schedule/4/paragraph/5/c); [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(z)(i)](https://www.legislation.gov.uk/wsi/2018/35/article/2/z/i)
+[^c-3b4ba10bda40fda036428f5a32f17af7]: Textual amendment: S. 105(7) inserted (25.1.2018) by [Landfill Disposals Tax (Wales) Act 2017 (anaw 3)](https://www.legislation.gov.uk/anaw/2017/3), [s. 97(2)](https://www.legislation.gov.uk/anaw/2017/3/section/97/2), [Sch. 4 para. 5(c)](https://www.legislation.gov.uk/anaw/2017/3/schedule/4/paragraph/5/c); [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(z)(i)](https://www.legislation.gov.uk/wsi/2018/35/article/2/z/i)

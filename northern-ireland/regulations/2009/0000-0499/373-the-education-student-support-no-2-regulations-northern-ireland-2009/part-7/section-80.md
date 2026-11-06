@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 80. Qualifying conditions[^key-8e46cc0a59cbe7d82d0fe728f7ee77d6]
+## 80. Qualifying conditions[^c-8e46cc0a59cbe7d82d0fe728f7ee77d6]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e46cc0a59cbe7d82d0fe728f7ee77d6]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/nisr/2009/373/part/7) omitted (24.3.2022) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [9](https://www.legislation.gov.uk/nisr/2022/75/regulation/9)
+[^c-8e46cc0a59cbe7d82d0fe728f7ee77d6]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/nisr/2009/373/part/7) omitted (24.3.2022) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [9](https://www.legislation.gov.uk/nisr/2022/75/regulation/9)

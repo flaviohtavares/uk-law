@@ -27,7 +27,7 @@ summary: ''
 - (a) to secure the most efficient use of airspace consistent with the safe operation of aircraft and the expeditious flow of air traffic;
 - (b) to satisfy the requirements of operators and owners of all classes of aircraft;
 - (c) to take account of the interests of any person (other than an operator or owner of an aircraft) in relation to the use of any particular airspace or the use of airspace generally;
-- (ca)[^key-eca6f98f49cf4e7695937d96f95f6884] to take account of any guidance relating to spaceflight activities (within the meaning of the Space Industry Act 2018) given to the CAA by the Secretary of State;
+- (ca)[^c-eca6f98f49cf4e7695937d96f95f6884] to take account of any guidance relating to spaceflight activities (within the meaning of the Space Industry Act 2018) given to the CAA by the Secretary of State;
 - (d) to take account of any guidance on environmental objectives given to the CAA by the Secretary of State after the coming into force of this section;
 - (e) to facilitate the integrated operation of air traffic services provided by or on behalf of the armed forces of the Crown and other air traffic services;
 - (f) to take account of the interests of national security;
@@ -43,6 +43,6 @@ summary: ''
 
 [^c14879701]: Commencement: S. 70 wholly in force at 1.2.2001, see s. 275(1)(2) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-eca6f98f49cf4e7695937d96f95f6884]: Textual amendment: [S. 70(2)(ca)](https://www.legislation.gov.uk/ukpga/2000/38/section/70/2/ca) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 19](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/19); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-eca6f98f49cf4e7695937d96f95f6884]: Textual amendment: [S. 70(2)(ca)](https://www.legislation.gov.uk/ukpga/2000/38/section/70/2/ca) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 19](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/19); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
 [^c14879711]: Marginal citation: [1982 c. 16](https://www.legislation.gov.uk/ukpga/1982/16).

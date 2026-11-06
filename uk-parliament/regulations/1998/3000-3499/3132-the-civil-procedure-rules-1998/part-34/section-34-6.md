@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34.6. Who is to serve a witness summons[^key-0fa935b810d901ba1665949aa7febd60]
+## 34.6. Who is to serve a witness summons[^c-0fa935b810d901ba1665949aa7febd60]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0fa935b810d901ba1665949aa7febd60]: Commencement: [Rule 34.6](https://www.legislation.gov.uk/uksi/1998/3132/rule/34.6) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-0fa935b810d901ba1665949aa7febd60]: Commencement: [Rule 34.6](https://www.legislation.gov.uk/uksi/1998/3132/rule/34.6) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

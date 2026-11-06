@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Power of officer of Revenue and Customs to seize and detain snus etc[^key-ca4147ce629795b066724b4c12395fd1]
+## 92. Power of officer of Revenue and Customs to seize and detain snus etc[^c-ca4147ce629795b066724b4c12395fd1]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca4147ce629795b066724b4c12395fd1]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2026/18/section/92) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-ca4147ce629795b066724b4c12395fd1]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2026/18/section/92) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

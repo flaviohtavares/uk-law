@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Time limits for provision of information[^key-6129015301e27fc2e2bda9798bcb0c98]
+## 19. Time limits for provision of information[^c-6129015301e27fc2e2bda9798bcb0c98]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ Where the Authority gives a notice under regulation 18(1), the applicant must co
 
 ## Annotations
 
-[^key-6129015301e27fc2e2bda9798bcb0c98]: Commencement: Reg. 19 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-6129015301e27fc2e2bda9798bcb0c98]: Commencement: Reg. 19 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)

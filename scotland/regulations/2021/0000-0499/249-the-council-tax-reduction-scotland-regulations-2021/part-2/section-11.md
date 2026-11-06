@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Entitlement of only one member of a family[^key-ab66cc006dac17ddcdab714e841c73d7]
+## 11. Entitlement of only one member of a family[^c-ab66cc006dac17ddcdab714e841c73d7]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The entitlement of one member of a family to council tax reduction in respect of
 
 ## Annotations
 
-[^key-ab66cc006dac17ddcdab714e841c73d7]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2021/249/regulation/11) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-ab66cc006dac17ddcdab714e841c73d7]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2021/249/regulation/11) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) A magistrates' court conducting a preliminary inquiry may admit the statement of the evidence to be given by a witness [^key-ebed25c2f9268210fae0e9203cdcdee0]... if the following conditions are complied with, that is to say—
+(1) A magistrates' court conducting a preliminary inquiry may admit the statement of the evidence to be given by a witness [^c-ebed25c2f9268210fae0e9203cdcdee0]... if the following conditions are complied with, that is to say—
 
 - (a) the statement shall be in writing,
 - (b) the statement shall purport to be signed by the person who made it,
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ebed25c2f9268210fae0e9203cdcdee0]: Textual amendment: Words in [art. 33(1)](https://www.legislation.gov.uk/nisi/1981/1675/article/33/1) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 8(3)(c)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/8/3/c); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-ebed25c2f9268210fae0e9203cdcdee0]: Textual amendment: Words in [art. 33(1)](https://www.legislation.gov.uk/nisi/1981/1675/article/33/1) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 8(3)(c)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/8/3/c); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)

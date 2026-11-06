@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Publication of proposals to establish maintained schools: special cases[^key-6df58578ff6ac3d463bf942bd505d347]
+## 11. Publication of proposals to establish maintained schools: special cases[^c-6df58578ff6ac3d463bf942bd505d347]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6df58578ff6ac3d463bf942bd505d347]: Textual amendment: S. 11 omitted (1.9.2026) by virtue of [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 66(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/66/3), [78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5) (with [s. 69(4)](https://www.legislation.gov.uk/ukpga/2026/21/section/69/4)); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/803/regulation/5/d)
+[^c-6df58578ff6ac3d463bf942bd505d347]: Textual amendment: S. 11 omitted (1.9.2026) by virtue of [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 66(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/66/3), [78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5) (with [s. 69(4)](https://www.legislation.gov.uk/ukpga/2026/21/section/69/4)); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/803/regulation/5/d)

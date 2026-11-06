@@ -59,7 +59,7 @@ summary: ''
 - (a) may only provide for the imposition of liabilities equivalent to those which may be imposed under subsections (1) to (6), and
 - (b) must provide for those liabilities to replace the liabilities to tax which would otherwise arise.
 
-(9)[^key-b838fddfa467490f1c5d8e2409b7631a] In this section references to an investor include an individual entitled to an exemption given by investment plan regulations by virtue of section 694(1A).
+(9)[^c-b838fddfa467490f1c5d8e2409b7631a] In this section references to an investor include an individual entitled to an exemption given by investment plan regulations by virtue of section 694(1A).
 
 ## Annotations
 
@@ -67,4 +67,4 @@ summary: ''
 
 [^c19091541]: Textual amendment: Word in s. 699(2) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [ss. 50](https://www.legislation.gov.uk/ukpga/2005/11/section/50), [53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 132(3)(d)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/132/3/d); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-b838fddfa467490f1c5d8e2409b7631a]: Textual amendment: S. 699(9) inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2011/11/section/40/4)
+[^c-b838fddfa467490f1c5d8e2409b7631a]: Textual amendment: S. 699(9) inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2011/11/section/40/4)

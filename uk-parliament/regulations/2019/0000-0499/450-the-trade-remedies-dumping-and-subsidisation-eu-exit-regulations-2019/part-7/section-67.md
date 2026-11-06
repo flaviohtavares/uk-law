@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Initiation of a review[^key-9946018f223555cb509f6087e0f8d63c]
+## 67. Initiation of a review[^c-9946018f223555cb509f6087e0f8d63c]
 
 *Extent: E+W+S+N.I.*
 
-(A1)[^key-cf9990df402ab0bced2745d68b44c1e7] The Secretary of State may, within 60 days of the application, variation, extension or suspension of an anti-dumping amount or a countervailing amount pursuant to Part 4 of Schedule 4 to the Act, or Part 7, Part 9, Part 9A or Part 12 of these Regulations, request that the TRA undertakes an early review.
+(A1)[^c-cf9990df402ab0bced2745d68b44c1e7] The Secretary of State may, within 60 days of the application, variation, extension or suspension of an anti-dumping amount or a countervailing amount pursuant to Part 4 of Schedule 4 to the Act, or Part 7, Part 9, Part 9A or Part 12 of these Regulations, request that the TRA undertakes an early review.
 
 (B1) Paragraph (A1) does not apply in relation to an anti-dumping amount or a countervailing amount which is maintained or varied as a result of an early review.
 
@@ -62,35 +62,35 @@ summary: ''
 
 (6) Where the TRA rejects a review application, it must notify the review applicant.
 
-(6A)[^key-38512c31c77533e96a41ced06a75dc2a] Where the TRA initiates an early review, it must take then the following steps in the order in which they are set out—
+(6A)[^c-38512c31c77533e96a41ced06a75dc2a] Where the TRA initiates an early review, it must take then the following steps in the order in which they are set out—
 
 - (a) publish a notice (a notice of initiation of a review); and
 - (b) notify the Secretary of State and interested parties.
 
-(7) Where the TRA has made a determination to initiate a review other than an early review, the TRA must notify the Secretary of State that it intends to initiate the review and, after the relevant interval, must take the following steps in the order in which they are set out—[^key-99c052cc476fba703e1393605b8fcff7]
+(7) Where the TRA has made a determination to initiate a review other than an early review, the TRA must notify the Secretary of State that it intends to initiate the review and, after the relevant interval, must take the following steps in the order in which they are set out—[^c-99c052cc476fba703e1393605b8fcff7]
 
-- (za)[^key-aee4c77d6b93d889ded0fee55ea0b6a6] initiate the review;
+- (za)[^c-aee4c77d6b93d889ded0fee55ea0b6a6] initiate the review;
 - (a) publish a notice of its decision to initiate a review (for the purpose of this Part a “notice of initiation of a review”); and
 - (b) notify the Secretary of State and interested parties.
 
-(7A)[^key-6728591404ba9b62b63cc21de7f06699] In paragraph (7), the “relevant interval” is the period of two working days beginning with the first working day after the day on which the TRA notifies the Secretary of State of its intention to initiate the review.
+(7A)[^c-6728591404ba9b62b63cc21de7f06699] In paragraph (7), the “relevant interval” is the period of two working days beginning with the first working day after the day on which the TRA notifies the Secretary of State of its intention to initiate the review.
 
 (8) A notice of initiation of a review must contain the information listed in paragraph 1 of Schedule 3.
 
-(9) Where a review application is made in respect of goods subject to a countervailing amount, the TRA must notify the government of the exporting country or territory [^key-9a3902c2ca393c8a4930c79abc0d0c63]... prior to the initiation of that review.
+(9) Where a review application is made in respect of goods subject to a countervailing amount, the TRA must notify the government of the exporting country or territory [^c-9a3902c2ca393c8a4930c79abc0d0c63]... prior to the initiation of that review.
 
 ## Annotations
 
-[^key-9946018f223555cb509f6087e0f8d63c]: Commencement: Reg. 67 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-9946018f223555cb509f6087e0f8d63c]: Commencement: Reg. 67 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
 
-[^key-cf9990df402ab0bced2745d68b44c1e7]: Textual amendment: [Regs. 67(A1)-(E1)](https://www.legislation.gov.uk/uksi/2019/450/regulation/67/A1) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2024/545/regulation/8/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-cf9990df402ab0bced2745d68b44c1e7]: Textual amendment: [Regs. 67(A1)-(E1)](https://www.legislation.gov.uk/uksi/2019/450/regulation/67/A1) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2024/545/regulation/8/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
 
-[^key-38512c31c77533e96a41ced06a75dc2a]: Textual amendment: [Reg. 67(6A)](https://www.legislation.gov.uk/uksi/2019/450/regulation/67/6A) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2024/545/regulation/8/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-38512c31c77533e96a41ced06a75dc2a]: Textual amendment: [Reg. 67(6A)](https://www.legislation.gov.uk/uksi/2019/450/regulation/67/6A) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2024/545/regulation/8/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
 
-[^key-99c052cc476fba703e1393605b8fcff7]: Textual amendment: Words in [reg. 67(7)](https://www.legislation.gov.uk/uksi/2019/450/regulation/67/7) substituted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [8(c)(i)](https://www.legislation.gov.uk/uksi/2024/545/regulation/8/c/i) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-99c052cc476fba703e1393605b8fcff7]: Textual amendment: Words in [reg. 67(7)](https://www.legislation.gov.uk/uksi/2019/450/regulation/67/7) substituted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [8(c)(i)](https://www.legislation.gov.uk/uksi/2024/545/regulation/8/c/i) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
 
-[^key-aee4c77d6b93d889ded0fee55ea0b6a6]: Textual amendment: [Reg. 67(7)(za)](https://www.legislation.gov.uk/uksi/2019/450/regulation/67/7/za) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [8(c)(ii)](https://www.legislation.gov.uk/uksi/2024/545/regulation/8/c/ii) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-aee4c77d6b93d889ded0fee55ea0b6a6]: Textual amendment: [Reg. 67(7)(za)](https://www.legislation.gov.uk/uksi/2019/450/regulation/67/7/za) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [8(c)(ii)](https://www.legislation.gov.uk/uksi/2024/545/regulation/8/c/ii) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
 
-[^key-6728591404ba9b62b63cc21de7f06699]: Textual amendment: [Reg. 67(7A)](https://www.legislation.gov.uk/uksi/2019/450/regulation/67/7A) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [8(d)](https://www.legislation.gov.uk/uksi/2024/545/regulation/8/d) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-6728591404ba9b62b63cc21de7f06699]: Textual amendment: [Reg. 67(7A)](https://www.legislation.gov.uk/uksi/2019/450/regulation/67/7A) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [8(d)](https://www.legislation.gov.uk/uksi/2024/545/regulation/8/d) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
 
-[^key-9a3902c2ca393c8a4930c79abc0d0c63]: Textual amendment: Words in [reg. 67(9)](https://www.legislation.gov.uk/uksi/2019/450/regulation/67/9) omitted (23.5.2024) by virtue of [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [8(e)](https://www.legislation.gov.uk/uksi/2024/545/regulation/8/e) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-9a3902c2ca393c8a4930c79abc0d0c63]: Textual amendment: Words in [reg. 67(9)](https://www.legislation.gov.uk/uksi/2019/450/regulation/67/9) omitted (23.5.2024) by virtue of [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [8(e)](https://www.legislation.gov.uk/uksi/2024/545/regulation/8/e) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 180. Electronic submission of information instead of submission of forms in all other cases[^key-ddde1e42c738372ccaeb79918a9dd8cb]
+## 180. Electronic submission of information instead of submission of forms in all other cases[^c-ddde1e42c738372ccaeb79918a9dd8cb]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ddde1e42c738372ccaeb79918a9dd8cb]: Commencement: [Rule 180](https://www.legislation.gov.uk/uksi/2013/3208/rule/180) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-ddde1e42c738372ccaeb79918a9dd8cb]: Commencement: [Rule 180](https://www.legislation.gov.uk/uksi/2013/3208/rule/180) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

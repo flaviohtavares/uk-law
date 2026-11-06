@@ -31,7 +31,7 @@ summary: ''
 
 HOUSING, WALES
 
-The Residential Property Tribunal Procedures and Fees (Wales) Regulations 2012 (revoked)[^key-3709cfb86b9cbe98481962c23b2572eb]
+The Residential Property Tribunal Procedures and Fees (Wales) Regulations 2012 (revoked)[^c-3709cfb86b9cbe98481962c23b2572eb]
 
 Made
 
@@ -45,11 +45,11 @@ Coming into force
 
 21 March 2012
 
-[^key-3709cfb86b9cbe98481962c23b2572eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3709cfb86b9cbe98481962c23b2572eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — GENERAL[^key-3709cfb86b9cbe98481962c23b2572eb]
+### PART 1 — GENERAL[^c-3709cfb86b9cbe98481962c23b2572eb]
 
 *Extent: E+W*
 
@@ -58,7 +58,7 @@ Coming into force
 - [Section 1 — Title, commencement and application](part-1/section-1.md)
 - [Section 2 — Interpretation](part-1/section-2.md)
 
-### PART 2 — RESIDENTIAL PROPERTY TRIBUNAL PROCEDURES[^key-3709cfb86b9cbe98481962c23b2572eb]
+### PART 2 — RESIDENTIAL PROPERTY TRIBUNAL PROCEDURES[^c-3709cfb86b9cbe98481962c23b2572eb]
 
 *Extent: E+W*
 
@@ -107,7 +107,7 @@ Coming into force
 - [Section 43 — Irregularities](part-2/section-43.md)
 - [Section 44 — Signature of documents](part-2/section-44.md)
 
-### PART 3 — RESIDENTIAL PROPERTY TRIBUNAL FEES[^key-3709cfb86b9cbe98481962c23b2572eb]
+### PART 3 — RESIDENTIAL PROPERTY TRIBUNAL FEES[^c-3709cfb86b9cbe98481962c23b2572eb]
 
 *Extent: E+W*
 
@@ -127,16 +127,16 @@ Coming into force
 
 **No longer in force.**
 
-[^key-3709cfb86b9cbe98481962c23b2572eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3709cfb86b9cbe98481962c23b2572eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **May not be in force at this date. Check the source.**
 
-[^key-3709cfb86b9cbe98481962c23b2572eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3709cfb86b9cbe98481962c23b2572eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3709cfb86b9cbe98481962c23b2572eb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2012/531) revoked (23.11.2016) by [The Residential Property Tribunal Procedures and Fees (Wales) Regulations 2016 (S.I. 2016/1110)](https://www.legislation.gov.uk/wsi/2016/1110), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1), [52(a)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/52/a) (with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/2))
+[^c-3709cfb86b9cbe98481962c23b2572eb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2012/531) revoked (23.11.2016) by [The Residential Property Tribunal Procedures and Fees (Wales) Regulations 2016 (S.I. 2016/1110)](https://www.legislation.gov.uk/wsi/2016/1110), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1), [52(a)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/52/a) (with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/2))
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

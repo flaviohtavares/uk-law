@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 246A. Case where no relief for provision by an employer[^key-758f40d11fd2d53ccb724d6baa4b6e2e]
+## 246A. Case where no relief for provision by an employer[^c-758f40d11fd2d53ccb724d6baa4b6e2e]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,8 +31,8 @@ summary: ''
 
 (4) The references in this section to expenses of an employer being subject to relief are to—
 
-- (a) their being deductible in computing the amount of the profits of the employer for the purposes of Part 2 of ITTOIA 2005 or Part 3 of CTA 2009 (trading income)[^key-6942abff859913fc77575b6acf07cfbe],
-- (b) their being expenses of management of the employer for the purposes of Chapter 2 of Part 16 of CTA 2009[^key-c20d1a8b93acb1789402475b1eb27ced] (expenses of management: companies with investment business), or
+- (a) their being deductible in computing the amount of the profits of the employer for the purposes of Part 2 of ITTOIA 2005 or Part 3 of CTA 2009 (trading income)[^c-6942abff859913fc77575b6acf07cfbe],
+- (b) their being expenses of management of the employer for the purposes of Chapter 2 of Part 16 of CTA 2009[^c-c20d1a8b93acb1789402475b1eb27ced] (expenses of management: companies with investment business), or
 - (c) their being ordinary BLAGAB management expenses of the employer for an accounting period for the purposes of section 76 of FA 2012[^M_F_217ac8bc-baeb-4bd1-f8c0-0d616bdea2c6] ,
 
 (depending on which is appropriate in relation to the employer).
@@ -46,10 +46,10 @@ have the same meaning as in Chapter 2 of Part 6 of ITEPA 2003 (see sections 393A
 
 ## Annotations
 
-[^key-758f40d11fd2d53ccb724d6baa4b6e2e]: Textual amendment: S. 246A inserted (6.4.2006) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 10 paras. 40](https://www.legislation.gov.uk/ukpga/2005/7/schedule/10/paragraph/40), [64(1)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/10/paragraph/64/1)
+[^c-758f40d11fd2d53ccb724d6baa4b6e2e]: Textual amendment: S. 246A inserted (6.4.2006) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 10 paras. 40](https://www.legislation.gov.uk/ukpga/2005/7/schedule/10/paragraph/40), [64(1)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/10/paragraph/64/1)
 
-[^key-6942abff859913fc77575b6acf07cfbe]: Textual amendment: Words in s. 246A(4)(a) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 579(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/579/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-6942abff859913fc77575b6acf07cfbe]: Textual amendment: Words in s. 246A(4)(a) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 579(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/579/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-c20d1a8b93acb1789402475b1eb27ced]: Textual amendment: Words in s. 246A(4)(b) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 579(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/579/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-c20d1a8b93acb1789402475b1eb27ced]: Textual amendment: Words in s. 246A(4)(b) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 579(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/579/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
 [^M_F_217ac8bc-baeb-4bd1-f8c0-0d616bdea2c6]: Textual amendment: Words in s. 246A(4)(c) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 121](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/121)

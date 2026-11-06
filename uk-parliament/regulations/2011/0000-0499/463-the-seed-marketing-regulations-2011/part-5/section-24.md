@@ -24,10 +24,10 @@ summary: ''
 
 (2) One part must be given to the owner of the seed (or a representative of the owner) and the other two parts must be sent to an official testing station, one for testing and the other for retention pending production to a court in accordance with section 26(7) of the Plant Varieties and Seeds Act 1964[^f00012].
 
-(3)[^key-719b500a0b4b2c916dfef2a4226257f2] That part of the sample sent for testing must be retained for at least two years.
+(3)[^c-719b500a0b4b2c916dfef2a4226257f2] That part of the sample sent for testing must be retained for at least two years.
 
 ## Annotations
 
 [^f00012]: Footnote: [1964 c. 14](https://www.legislation.gov.uk/ukpga/1964/14).
 
-[^key-719b500a0b4b2c916dfef2a4226257f2]: Textual amendment: Reg. 24(3) inserted (30.6.2016) by [The Seed Marketing (Amendment) Regulations 2016 (S.I. 2016/613)](https://www.legislation.gov.uk/uksi/2016/613), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/613/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2016/613/regulation/3)
+[^c-719b500a0b4b2c916dfef2a4226257f2]: Textual amendment: Reg. 24(3) inserted (30.6.2016) by [The Seed Marketing (Amendment) Regulations 2016 (S.I. 2016/613)](https://www.legislation.gov.uk/uksi/2016/613), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/613/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2016/613/regulation/3)

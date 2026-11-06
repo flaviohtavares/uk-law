@@ -33,7 +33,7 @@ FEES AND CHARGES
 
 MEDICINES
 
-The Medicines for Human Use (Clinical Trials Fees Amendments) Regulations 2004 (revoked)[^key-7691ff1727742527f29f544af13e6421]
+The Medicines for Human Use (Clinical Trials Fees Amendments) Regulations 2004 (revoked)[^c-7691ff1727742527f29f544af13e6421]
 
 Made
 
@@ -47,68 +47,68 @@ Coming into force
 
 10th May 2004
 
-[^key-7691ff1727742527f29f544af13e6421]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7691ff1727742527f29f544af13e6421]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-7691ff1727742527f29f544af13e6421]
+## 1. Citation, commencement and interpretation[^c-7691ff1727742527f29f544af13e6421]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 2 of the General Fees Regulations[^key-7691ff1727742527f29f544af13e6421]
+## 2. Amendment of regulation 2 of the General Fees Regulations[^c-7691ff1727742527f29f544af13e6421]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Part II of the General Fees Regulations[^key-7691ff1727742527f29f544af13e6421]
+## 3. Amendment of Part II of the General Fees Regulations[^c-7691ff1727742527f29f544af13e6421]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of Part III of the General Fees Regulations[^key-7691ff1727742527f29f544af13e6421]
+## 4. Amendment of Part III of the General Fees Regulations[^c-7691ff1727742527f29f544af13e6421]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of Part IV of the General Fees Regulations[^key-7691ff1727742527f29f544af13e6421]
+## 5. Amendment of Part IV of the General Fees Regulations[^c-7691ff1727742527f29f544af13e6421]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of Part V of the General Fees Regulations[^key-7691ff1727742527f29f544af13e6421]
+## 6. Amendment of Part V of the General Fees Regulations[^c-7691ff1727742527f29f544af13e6421]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of Part VI General Fees Regulations[^key-7691ff1727742527f29f544af13e6421]
+## 7. Amendment of Part VI General Fees Regulations[^c-7691ff1727742527f29f544af13e6421]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of Part VII of the General Fees Regulations[^key-7691ff1727742527f29f544af13e6421]
+## 8. Amendment of Part VII of the General Fees Regulations[^c-7691ff1727742527f29f544af13e6421]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of Schedule 1 to the General Fees Regulations[^key-7691ff1727742527f29f544af13e6421]
+## 9. Amendment of Schedule 1 to the General Fees Regulations[^c-7691ff1727742527f29f544af13e6421]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of Schedule 2 to the General Fees Regulations[^key-7691ff1727742527f29f544af13e6421]
+## 10. Amendment of Schedule 2 to the General Fees Regulations[^c-7691ff1727742527f29f544af13e6421]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of Schedule 3 to the General Fees Regulations[^key-7691ff1727742527f29f544af13e6421]
+## 11. Amendment of Schedule 3 to the General Fees Regulations[^c-7691ff1727742527f29f544af13e6421]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Amendment of Schedule 4 to the General Fees Regulations[^key-7691ff1727742527f29f544af13e6421]
+## 12. Amendment of Schedule 4 to the General Fees Regulations[^c-7691ff1727742527f29f544af13e6421]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Amendment of Schedule 5 to the General Fees Regulations[^key-7691ff1727742527f29f544af13e6421]
+## 13. Amendment of Schedule 5 to the General Fees Regulations[^c-7691ff1727742527f29f544af13e6421]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7691ff1727742527f29f544af13e6421]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7691ff1727742527f29f544af13e6421]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7691ff1727742527f29f544af13e6421]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7691ff1727742527f29f544af13e6421]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7691ff1727742527f29f544af13e6421]: Textual amendment: Regulations revoked (1.4.2008) by [The Medicines (Products for Human Use-Fees) Regulations 2008 (S.I. 2008/552)](https://www.legislation.gov.uk/uksi/2008/552), [regs. 1](https://www.legislation.gov.uk/uksi/2008/552/regulation/1), [48(1)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2008/552/schedule/7) (with [reg. 48(2)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/2))
+[^c-7691ff1727742527f29f544af13e6421]: Textual amendment: Regulations revoked (1.4.2008) by [The Medicines (Products for Human Use-Fees) Regulations 2008 (S.I. 2008/552)](https://www.legislation.gov.uk/uksi/2008/552), [regs. 1](https://www.legislation.gov.uk/uksi/2008/552/regulation/1), [48(1)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2008/552/schedule/7) (with [reg. 48(2)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/2))

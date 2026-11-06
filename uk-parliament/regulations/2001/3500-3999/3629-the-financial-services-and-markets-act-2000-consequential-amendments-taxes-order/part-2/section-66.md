@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Transfer of insurance business[^key-62ac23faa54e90730bb69999d0253955]
+## 66. Transfer of insurance business[^c-62ac23faa54e90730bb69999d0253955]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-62ac23faa54e90730bb69999d0253955]: Commencement: Art. 66 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-62ac23faa54e90730bb69999d0253955]: Commencement: Art. 66 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00086]: Footnote: Section 211(1) was amended by paragraph 1(2)(d) of Schedule 9 to the Finance Act 1995.

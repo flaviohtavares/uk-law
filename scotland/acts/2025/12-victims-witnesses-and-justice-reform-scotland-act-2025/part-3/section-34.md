@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Victims’ right to be informed of decision not to prosecute or to discontinue proceedings[^key-6790c862e4765624c32effea51a1d59f]
+## 34. Victims’ right to be informed of decision not to prosecute or to discontinue proceedings[^c-6790c862e4765624c32effea51a1d59f]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6790c862e4765624c32effea51a1d59f]: Commencement: S. 34 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-6790c862e4765624c32effea51a1d59f]: Commencement: S. 34 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

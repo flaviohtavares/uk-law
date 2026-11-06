@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5B. Conditions for the designation of persons by description[^key-2e5de7172b6b14ce4fa24c13647d0896]
+## 5B. Conditions for the designation of persons by description[^c-2e5de7172b6b14ce4fa24c13647d0896]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e5de7172b6b14ce4fa24c13647d0896]: Textual amendment: [Regs. 5A](https://www.legislation.gov.uk/uksi/2019/600/regulation/5A), [5B](https://www.legislation.gov.uk/uksi/2019/600/regulation/5B) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2022/748/regulation/7)
+[^c-2e5de7172b6b14ce4fa24c13647d0896]: Textual amendment: [Regs. 5A](https://www.legislation.gov.uk/uksi/2019/600/regulation/5A), [5B](https://www.legislation.gov.uk/uksi/2019/600/regulation/5B) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2022/748/regulation/7)

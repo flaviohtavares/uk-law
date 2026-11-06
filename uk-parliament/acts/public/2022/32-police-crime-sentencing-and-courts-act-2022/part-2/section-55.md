@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Entry and search of premises for human remains or material relating to human remains[^key-6c868a08ba3221a5c5d001c8a8263174][^key-998567faebbbcd181fb1ce83344aa5a7]
+## 55. Entry and search of premises for human remains or material relating to human remains[^c-6c868a08ba3221a5c5d001c8a8263174][^c-998567faebbbcd181fb1ce83344aa5a7]
 
 *Extent: E+W*
 
@@ -73,6 +73,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6c868a08ba3221a5c5d001c8a8263174]: Commencement: S. 55 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-6c868a08ba3221a5c5d001c8a8263174]: Commencement: S. 55 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-998567faebbbcd181fb1ce83344aa5a7]: Commencement: S. 55 in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(g)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/g)
+[^c-998567faebbbcd181fb1ce83344aa5a7]: Commencement: S. 55 in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(g)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/g)

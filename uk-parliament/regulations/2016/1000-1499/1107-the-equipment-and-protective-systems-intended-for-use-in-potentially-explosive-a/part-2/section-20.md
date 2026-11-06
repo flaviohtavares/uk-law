@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Prohibition on placing on the market products considered not to be in conformity with the essential health and safety requirements[^key-e6d9cc53fb2352808bc552cfb9e22fd7]
+## 20. Prohibition on placing on the market products considered not to be in conformity with the essential health and safety requirements[^c-e6d9cc53fb2352808bc552cfb9e22fd7]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6d9cc53fb2352808bc552cfb9e22fd7]: Commencement: Reg. 20 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
+[^c-e6d9cc53fb2352808bc552cfb9e22fd7]: Commencement: Reg. 20 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)

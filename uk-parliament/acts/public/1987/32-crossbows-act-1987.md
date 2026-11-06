@@ -39,9 +39,9 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 *Extent: E+W+S*
 
-A person who sells or lets on hire a crossbow or a part of a crossbow to a person under the age of eighteen[^M_F_fee27e5d-e9ec-4226-af42-d8b7ba9772bb] is guilty of an offence, unless he believes him to be *(Extent: S)* *(affected by repeal, see note)*[^key-0e38e72aa8d324fce25d3efce31ef0b0] [^M_F_fee27e5d-e9ec-4226-af42-d8b7ba9772bb]eighteen years of age or older and has reasonable ground for the belief *(Extent: S)* *(affected by repeal, see note)*[^key-0e38e72aa8d324fce25d3efce31ef0b0].
+A person who sells or lets on hire a crossbow or a part of a crossbow to a person under the age of eighteen[^M_F_fee27e5d-e9ec-4226-af42-d8b7ba9772bb] is guilty of an offence, unless he believes him to be *(Extent: S)* *(affected by repeal, see note)*[^c-0e38e72aa8d324fce25d3efce31ef0b0] [^M_F_fee27e5d-e9ec-4226-af42-d8b7ba9772bb]eighteen years of age or older and has reasonable ground for the belief *(Extent: S)* *(affected by repeal, see note)*[^c-0e38e72aa8d324fce25d3efce31ef0b0].
 
-## 1A (Extent: S). Defences (Extent: S)[^key-9805bc2a9fedeecbce3abcac9e9c53fb]
+## 1A (Extent: S). Defences (Extent: S)[^c-9805bc2a9fedeecbce3abcac9e9c53fb]
 
 (1 (Extent: S)) It is a defence for a person charged with an offence under section 1 (referred to in this section as “ *(Extent: S)* **the accused *(Extent: S)*** ”) to show that— *(Extent: S)*
 
@@ -61,7 +61,7 @@ A person who sells or lets on hire a crossbow or a part of a crossbow to a perso
 
 *Extent: S*
 
-- (aa)[^key-142c8a7128fe4b18362a53b00f66f323] a UK driving licence,
+- (aa)[^c-142c8a7128fe4b18362a53b00f66f323] a UK driving licence,
 - (b (Extent: S)) a European Union photocard driving licence, or *(Extent: S)*
 - (c (Extent: S)) such other document, or a document of such other description, as the Scottish Ministers may by order made by statutory instrument prescribe. *(Extent: S)*
 
@@ -71,20 +71,20 @@ A person who sells or lets on hire a crossbow or a part of a crossbow to a perso
 
 *Extent: E+W+S*
 
-A person under the age of eighteen[^key-6e75944db55de63df0ba4ecc06ed5f36] who buys or hires a crossbow or a part of a crossbow is guilty of an offence.
+A person under the age of eighteen[^c-6e75944db55de63df0ba4ecc06ed5f36] who buys or hires a crossbow or a part of a crossbow is guilty of an offence.
 
 ## 3. Possession.
 
 *Extent: E+W+S*
 
-A person under the age of eighteen[^key-89a07cd95e8cd512d1c8eb094449c396] who has with him—
+A person under the age of eighteen[^c-89a07cd95e8cd512d1c8eb094449c396] who has with him—
 
 - (a) a crossbow which is capable of discharging a missile, or
 - (b) parts of a crossbow which together (and without any other parts) can be assembled to form a crossbow capable of discharging a missile,
 
 is guilty of an offence, unless he is under the supervision of a person who is twenty-one years of age or older.
 
-## 3A (Extent: S). Test purchasing (Extent: S)[^key-ebfcf1a05b14a12592b3bac4cf1b876d]
+## 3A (Extent: S). Test purchasing (Extent: S)[^c-ebfcf1a05b14a12592b3bac4cf1b876d]
 
 (1 (Extent: S)) A person under the age of 18 who buys or hires, or attempts to buy or hire, a crossbow or a part of a crossbow does not commit an offence under section 2 or 3 if the person is authorised to do so by the chief constable for the purpose of determining whether an offence is being committed under section 1. *(Extent: S)*
 
@@ -143,16 +143,16 @@ An Order in Council under paragraph 1(1)(b) of Schedule 1 to the [^c791820]North
 
 [^M_F_fee27e5d-e9ec-4226-af42-d8b7ba9772bb]: Textual amendment: Word in s. 1 substituted (E.W.) (1.10.2007) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38) , [ss. 44](https://www.legislation.gov.uk/ukpga/2006/38/section/44) , [66(2)](https://www.legislation.gov.uk/ukpga/2006/38/section/66/2) ; [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180) , [art. 3(k)](https://www.legislation.gov.uk/uksi/2007/2180/article/3/k) ; and said word also substituted (S.) (1.10.2007) by [Custodial Sentences and Weapons (Scotland) Act 2007 (asp 17)](https://www.legislation.gov.uk/asp/2007/17) , [s. 62(1)](https://www.legislation.gov.uk/asp/2007/17/section/62/1) [(2)(a)](https://www.legislation.gov.uk/asp/2007/17/section/62/2/a) [67(2)](https://www.legislation.gov.uk/asp/2007/17/section/67/2) ; [S.S.I. 2007/431](https://www.legislation.gov.uk/ssi/2007/431) , [art. 3](https://www.legislation.gov.uk/ssi/2007/431/article/3) , [Sch.](https://www.legislation.gov.uk/ssi/2007/431/schedule)
 
-[^key-0e38e72aa8d324fce25d3efce31ef0b0]: Textual amendment: Words in s. 1 repealed (S.) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13) , [ss. 35(2)](https://www.legislation.gov.uk/asp/2010/13/section/35/2) , [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1) ; [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-0e38e72aa8d324fce25d3efce31ef0b0]: Textual amendment: Words in s. 1 repealed (S.) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13) , [ss. 35(2)](https://www.legislation.gov.uk/asp/2010/13/section/35/2) , [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1) ; [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
-[^key-9805bc2a9fedeecbce3abcac9e9c53fb]: Textual amendment: S. 1A inserted (S.) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 35(3)](https://www.legislation.gov.uk/asp/2010/13/section/35/3), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-9805bc2a9fedeecbce3abcac9e9c53fb]: Textual amendment: S. 1A inserted (S.) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 35(3)](https://www.legislation.gov.uk/asp/2010/13/section/35/3), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
-[^key-142c8a7128fe4b18362a53b00f66f323]: Textual amendment: S. 1A(3)(aa) inserted (S.) (31.12.2020) by [The Licensing (Amendment) (EU Exit) (Scotland) Regulations 2019 (S.S.I. 2019/6)](https://www.legislation.gov.uk/ssi/2019/6), [regs. 1](https://www.legislation.gov.uk/ssi/2019/6/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2019/6/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-142c8a7128fe4b18362a53b00f66f323]: Textual amendment: S. 1A(3)(aa) inserted (S.) (31.12.2020) by [The Licensing (Amendment) (EU Exit) (Scotland) Regulations 2019 (S.S.I. 2019/6)](https://www.legislation.gov.uk/ssi/2019/6), [regs. 1](https://www.legislation.gov.uk/ssi/2019/6/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2019/6/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6e75944db55de63df0ba4ecc06ed5f36]: Textual amendment: Word in s. 2 substituted (E.W.) (1.10.2007) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [ss. 44](https://www.legislation.gov.uk/ukpga/2006/38/section/44), [66(2)](https://www.legislation.gov.uk/ukpga/2006/38/section/66/2); [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 3(k)](https://www.legislation.gov.uk/uksi/2007/2180/article/3/k); and said word also substituted (S.) (1.10.2007) by [Custodial Sentences and Weapons (Scotland) Act 2007 (asp 17)](https://www.legislation.gov.uk/asp/2007/17), [s. 62(1)](https://www.legislation.gov.uk/asp/2007/17/section/62/1)[(2)(b)](https://www.legislation.gov.uk/asp/2007/17/section/62/2/b)[67(2)](https://www.legislation.gov.uk/asp/2007/17/section/67/2); [S.S.I. 2007/431](https://www.legislation.gov.uk/ssi/2007/431), [art. 3](https://www.legislation.gov.uk/ssi/2007/431/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/431/schedule)
+[^c-6e75944db55de63df0ba4ecc06ed5f36]: Textual amendment: Word in s. 2 substituted (E.W.) (1.10.2007) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [ss. 44](https://www.legislation.gov.uk/ukpga/2006/38/section/44), [66(2)](https://www.legislation.gov.uk/ukpga/2006/38/section/66/2); [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 3(k)](https://www.legislation.gov.uk/uksi/2007/2180/article/3/k); and said word also substituted (S.) (1.10.2007) by [Custodial Sentences and Weapons (Scotland) Act 2007 (asp 17)](https://www.legislation.gov.uk/asp/2007/17), [s. 62(1)](https://www.legislation.gov.uk/asp/2007/17/section/62/1)[(2)(b)](https://www.legislation.gov.uk/asp/2007/17/section/62/2/b)[67(2)](https://www.legislation.gov.uk/asp/2007/17/section/67/2); [S.S.I. 2007/431](https://www.legislation.gov.uk/ssi/2007/431), [art. 3](https://www.legislation.gov.uk/ssi/2007/431/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/431/schedule)
 
-[^key-89a07cd95e8cd512d1c8eb094449c396]: Textual amendment: Word in s. 3 substituted (E.W.) (1.10.2007) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [ss. 44](https://www.legislation.gov.uk/ukpga/2006/38/section/44), [66(2)](https://www.legislation.gov.uk/ukpga/2006/38/section/66/2); [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 3(k)](https://www.legislation.gov.uk/uksi/2007/2180/article/3/k); and said word also substituted (S.) (1.10.2007) by [Custodial Sentences and Weapons (Scotland) Act 2007 (asp 17)](https://www.legislation.gov.uk/asp/2007/17), [s. 62(1)](https://www.legislation.gov.uk/asp/2007/17/section/62/1)[(2)(c)](https://www.legislation.gov.uk/asp/2007/17/section/62/2/c)[67(2)](https://www.legislation.gov.uk/asp/2007/17/section/67/2); [S.S.I. 2007/431](https://www.legislation.gov.uk/ssi/2007/431), [art. 3](https://www.legislation.gov.uk/ssi/2007/431/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/431/schedule)
+[^c-89a07cd95e8cd512d1c8eb094449c396]: Textual amendment: Word in s. 3 substituted (E.W.) (1.10.2007) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [ss. 44](https://www.legislation.gov.uk/ukpga/2006/38/section/44), [66(2)](https://www.legislation.gov.uk/ukpga/2006/38/section/66/2); [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 3(k)](https://www.legislation.gov.uk/uksi/2007/2180/article/3/k); and said word also substituted (S.) (1.10.2007) by [Custodial Sentences and Weapons (Scotland) Act 2007 (asp 17)](https://www.legislation.gov.uk/asp/2007/17), [s. 62(1)](https://www.legislation.gov.uk/asp/2007/17/section/62/1)[(2)(c)](https://www.legislation.gov.uk/asp/2007/17/section/62/2/c)[67(2)](https://www.legislation.gov.uk/asp/2007/17/section/67/2); [S.S.I. 2007/431](https://www.legislation.gov.uk/ssi/2007/431), [art. 3](https://www.legislation.gov.uk/ssi/2007/431/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/431/schedule)
 
-[^key-ebfcf1a05b14a12592b3bac4cf1b876d]: Textual amendment: [S. 3A](https://www.legislation.gov.uk/ukpga/1987/32/section/3A) inserted (S.) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 35(4)](https://www.legislation.gov.uk/asp/2010/13/section/35/4), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-ebfcf1a05b14a12592b3bac4cf1b876d]: Textual amendment: [S. 3A](https://www.legislation.gov.uk/ukpga/1987/32/section/3A) inserted (S.) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 35(4)](https://www.legislation.gov.uk/asp/2010/13/section/35/4), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
 [^c791820]: Marginal citation: [1974 c. 28](https://www.legislation.gov.uk/ukpga/1974/28).

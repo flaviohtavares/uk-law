@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84. Designation of special enforcement areas[^key-e5930adb0c1be32e31601674fc7161ac][^key-a5edcda51a9e8c631e5bb8f05e7fad4e]
+## 84. Designation of special enforcement areas[^c-e5930adb0c1be32e31601674fc7161ac][^c-a5edcda51a9e8c631e5bb8f05e7fad4e]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ Schedule 10 provides for the designation of areas (â€œspecial enforcement areasâ
 
 ## Annotations
 
-[^key-e5930adb0c1be32e31601674fc7161ac]: Commencement: S. 84 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/c)
+[^c-e5930adb0c1be32e31601674fc7161ac]: Commencement: S. 84 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/c)
 
-[^key-a5edcda51a9e8c631e5bb8f05e7fad4e]: Commencement: S. 84 in force at 31.3.2008 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [3(1)(2)(c)](https://www.legislation.gov.uk/uksi/2007/2053/article/3/1) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2007/2053/article/5)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), arts. 3, 5)
+[^c-a5edcda51a9e8c631e5bb8f05e7fad4e]: Commencement: S. 84 in force at 31.3.2008 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [3(1)(2)(c)](https://www.legislation.gov.uk/uksi/2007/2053/article/3/1) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2007/2053/article/5)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), arts. 3, 5)

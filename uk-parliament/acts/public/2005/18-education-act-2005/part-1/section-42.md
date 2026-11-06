@@ -45,7 +45,7 @@ but this subsection does not relieve the proprietor of the school of any duty to
 - (b) to the Assembly, and
 - (c) in such circumstances as may be prescribed, to such other persons (if any) as may be prescribed.
 
-(4) In the case of a special school which is not a community [^key-1e5b2cba260b46d81f0a3e33fbfe20bc]... special school, the proprietor of the school must, before the end of the prescribed period, send a copy of any such statement prepared by him to any local authority[^key-94ed0295e29907765ea29be5dd3e5cb4] that is paying fees in respect of the attendance of a registered pupil at the school.
+(4) In the case of a special school which is not a community [^c-1e5b2cba260b46d81f0a3e33fbfe20bc]... special school, the proprietor of the school must, before the end of the prescribed period, send a copy of any such statement prepared by him to any local authority[^c-94ed0295e29907765ea29be5dd3e5cb4] that is paying fees in respect of the attendance of a registered pupil at the school.
 
 (5) The proprietor of the school must—
 
@@ -64,6 +64,6 @@ but this subsection does not relieve the proprietor of the school of any duty to
 
 [^c19818741]: Commencement: S. 42 partly in force; s. 42 not in force at Royal Assent, see s. 125; s. 41 in force for certain purposes at 1.9.2006 by [S.I. 2006/1338](https://www.legislation.gov.uk/uksi/2006/1338), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/1338/article/4/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1338/schedule/2) (subject to [art. 4(2)](https://www.legislation.gov.uk/uksi/2006/1338/article/4/2))
 
-[^key-1e5b2cba260b46d81f0a3e33fbfe20bc]: Textual amendment: Words in [s. 42(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/42/4) omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 22(5)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/22/5); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-1e5b2cba260b46d81f0a3e33fbfe20bc]: Textual amendment: Words in [s. 42(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/42/4) omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 22(5)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/22/5); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
 
-[^key-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
+[^c-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)

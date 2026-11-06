@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Amendment of Regulation (EU) No 1303/2013[^key-aaaebad26117469c2f98a94561dddc0e]
+## 73. Amendment of Regulation (EU) No 1303/2013[^c-aaaebad26117469c2f98a94561dddc0e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Regulation (EU) No 1303/2013 of the European Parliament and of the Council layin
 
 ## Annotations
 
-[^key-aaaebad26117469c2f98a94561dddc0e]: Commencement: Reg. 73 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-aaaebad26117469c2f98a94561dddc0e]: Commencement: Reg. 73 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23689591]: Marginal citation: S.I. 2019/XXX

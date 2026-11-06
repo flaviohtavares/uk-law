@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 104. Appeal against decision on relevant funds claim[^key-ed1e72d99cd13dce566c3e776d8d059a]
+## 104. Appeal against decision on relevant funds claim[^c-ed1e72d99cd13dce566c3e776d8d059a]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed1e72d99cd13dce566c3e776d8d059a]: Commencement: Rule 104 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-ed1e72d99cd13dce566c3e776d8d059a]: Commencement: Rule 104 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

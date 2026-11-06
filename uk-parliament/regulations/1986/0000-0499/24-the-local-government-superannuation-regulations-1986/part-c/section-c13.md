@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## C13. Effect of return to local government on right to a return of contributions[^key-8ebb09933f935a2fd3d7b97859248768]
+## C13. Effect of return to local government on right to a return of contributions[^c-8ebb09933f935a2fd3d7b97859248768]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ A person's right to a payment under regulation C12 is extinguished if—
 
 ## Annotations
 
-[^key-8ebb09933f935a2fd3d7b97859248768]: Commencement: [Reg. C13](https://www.legislation.gov.uk/uksi/1986/24/regulation/C13) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-8ebb09933f935a2fd3d7b97859248768]: Commencement: [Reg. C13](https://www.legislation.gov.uk/uksi/1986/24/regulation/C13) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Supplying, or offering to supply, a psychoactive substance[^key-0045fc31033489fb38f2f38a87663ab9]
+## 5. Supplying, or offering to supply, a psychoactive substance[^c-0045fc31033489fb38f2f38a87663ab9]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0045fc31033489fb38f2f38a87663ab9]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2016/2/section/5) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-0045fc31033489fb38f2f38a87663ab9]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2016/2/section/5) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

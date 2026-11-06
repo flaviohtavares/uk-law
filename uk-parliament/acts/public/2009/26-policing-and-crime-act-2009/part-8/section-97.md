@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Criminal records: applications[^key-a2f1d840acdaeb7b53dada8a5fae6ce7]
+## 97. Criminal records: applications[^c-a2f1d840acdaeb7b53dada8a5fae6ce7]
 
 *Extent: E+W+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2f1d840acdaeb7b53dada8a5fae6ce7]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2009/26/section/97) in force at 29.1.2010 by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(n)](https://www.legislation.gov.uk/uksi/2010/125/article/2/n)
+[^c-a2f1d840acdaeb7b53dada8a5fae6ce7]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2009/26/section/97) in force at 29.1.2010 by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(n)](https://www.legislation.gov.uk/uksi/2010/125/article/2/n)

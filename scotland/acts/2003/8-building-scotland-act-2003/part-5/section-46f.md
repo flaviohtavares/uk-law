@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46F. Liability of new owner[^key-f3792de3e4eaf0adc7cb9f3cd6a6cbad]
+## 46F. Liability of new owner[^c-f3792de3e4eaf0adc7cb9f3cd6a6cbad]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3792de3e4eaf0adc7cb9f3cd6a6cbad]: Textual amendment: Ss. 46A-46H and preceding cross-heading inserted (24.1.2015) by [Buildings (Recovery of Expenses) (Scotland) Act 2014 (asp 13)](https://www.legislation.gov.uk/asp/2014/13), [ss. 1(b)](https://www.legislation.gov.uk/asp/2014/13/section/1/b), [3(2)](https://www.legislation.gov.uk/asp/2014/13/section/3/2)
+[^c-f3792de3e4eaf0adc7cb9f3cd6a6cbad]: Textual amendment: Ss. 46A-46H and preceding cross-heading inserted (24.1.2015) by [Buildings (Recovery of Expenses) (Scotland) Act 2014 (asp 13)](https://www.legislation.gov.uk/asp/2014/13), [ss. 1(b)](https://www.legislation.gov.uk/asp/2014/13/section/1/b), [3(2)](https://www.legislation.gov.uk/asp/2014/13/section/3/2)

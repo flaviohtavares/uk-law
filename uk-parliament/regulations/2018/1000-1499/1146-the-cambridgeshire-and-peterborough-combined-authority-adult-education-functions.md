@@ -34,7 +34,7 @@ Local Government, England
 
 Education, England
 
-The Cambridgeshire and Peterborough Combined Authority (Adult Education Functions) Order 2018 (revoked)[^key-d13baef5649e100d1e04131768b8b4e8]
+The Cambridgeshire and Peterborough Combined Authority (Adult Education Functions) Order 2018 (revoked)[^c-d13baef5649e100d1e04131768b8b4e8]
 
 Made
 
@@ -42,70 +42,70 @@ Made
 
 Coming into force in accordance with article 1
 
-[^key-d13baef5649e100d1e04131768b8b4e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d13baef5649e100d1e04131768b8b4e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — General[^key-d13baef5649e100d1e04131768b8b4e8]
+## PART 1 — General[^c-d13baef5649e100d1e04131768b8b4e8]
 
-### 1. Citation, commencement and application[^key-d13baef5649e100d1e04131768b8b4e8]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-d13baef5649e100d1e04131768b8b4e8]
+### 1. Citation, commencement and application[^c-d13baef5649e100d1e04131768b8b4e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Adult education functions of the Secretary of State transferred to the Combined Authority or to be exercisable concurrently with the Combined Authority[^key-d13baef5649e100d1e04131768b8b4e8]
-
-### 3. Transfer of functions from the Secretary of State to the Combined Authority in relation to the Area[^key-d13baef5649e100d1e04131768b8b4e8]
+### 2. Interpretation[^c-d13baef5649e100d1e04131768b8b4e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Functions of the Secretary of State to be exercisable concurrently with the Combined Authority in relation to the Area[^key-d13baef5649e100d1e04131768b8b4e8]
+## PART 2 — Adult education functions of the Secretary of State transferred to the Combined Authority or to be exercisable concurrently with the Combined Authority[^c-d13baef5649e100d1e04131768b8b4e8]
+
+### 3. Transfer of functions from the Secretary of State to the Combined Authority in relation to the Area[^c-d13baef5649e100d1e04131768b8b4e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Conditions on the exercise of functions mentioned in articles 3 and 4[^key-d13baef5649e100d1e04131768b8b4e8]
+### 4. Functions of the Secretary of State to be exercisable concurrently with the Combined Authority in relation to the Area[^c-d13baef5649e100d1e04131768b8b4e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Modification of provisions in the 2009 Act[^key-d13baef5649e100d1e04131768b8b4e8]
+### 5. Conditions on the exercise of functions mentioned in articles 3 and 4[^c-d13baef5649e100d1e04131768b8b4e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d13baef5649e100d1e04131768b8b4e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 6. Modification of provisions in the 2009 Act[^c-d13baef5649e100d1e04131768b8b4e8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-d13baef5649e100d1e04131768b8b4e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Modification of provisions of the 2009 Act in their application to the Combined Authority[^key-d13baef5649e100d1e04131768b8b4e8]
+## SCHEDULE — Modification of provisions of the 2009 Act in their application to the Combined Authority[^c-d13baef5649e100d1e04131768b8b4e8]
 
 Article 6
 
-**1.**[^key-d13baef5649e100d1e04131768b8b4e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d13baef5649e100d1e04131768b8b4e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d13baef5649e100d1e04131768b8b4e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d13baef5649e100d1e04131768b8b4e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d13baef5649e100d1e04131768b8b4e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d13baef5649e100d1e04131768b8b4e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d13baef5649e100d1e04131768b8b4e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d13baef5649e100d1e04131768b8b4e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-d13baef5649e100d1e04131768b8b4e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d13baef5649e100d1e04131768b8b4e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-d13baef5649e100d1e04131768b8b4e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-d13baef5649e100d1e04131768b8b4e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-d13baef5649e100d1e04131768b8b4e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-d13baef5649e100d1e04131768b8b4e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-d13baef5649e100d1e04131768b8b4e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-d13baef5649e100d1e04131768b8b4e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-d13baef5649e100d1e04131768b8b4e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-d13baef5649e100d1e04131768b8b4e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-d13baef5649e100d1e04131768b8b4e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-d13baef5649e100d1e04131768b8b4e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d13baef5649e100d1e04131768b8b4e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d13baef5649e100d1e04131768b8b4e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d13baef5649e100d1e04131768b8b4e8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2018/1146) revoked (4.6.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2026/519/regulation/3)
+[^c-d13baef5649e100d1e04131768b8b4e8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2018/1146) revoked (4.6.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2026/519/regulation/3)

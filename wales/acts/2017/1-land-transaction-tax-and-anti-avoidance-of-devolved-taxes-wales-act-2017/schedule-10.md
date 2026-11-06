@@ -26,7 +26,7 @@ summary: ''
 
 #### Overview
 
-**1.**[^key-9804c32843dd3974ace49dd252d8e9cf] (1) This Schedule makes provision for relief in the case of certain land transactions connected to alternative property finance arrangements.
+**1.**[^c-9804c32843dd3974ace49dd252d8e9cf] (1) This Schedule makes provision for relief in the case of certain land transactions connected to alternative property finance arrangements.
 
 (2) The Schedule is arranged as follows—
 
@@ -39,7 +39,7 @@ summary: ''
 
 #### Land sold to financial institution and leased to a person
 
-**2.**[^key-662fc5ff4f385a91fa43864825f30764][^key-b310958b6e54b1bbb80bc5dfc7353a7a] (1) This paragraph applies where arrangements are entered into between a person (““P””) and a financial institution under which—
+**2.**[^c-662fc5ff4f385a91fa43864825f30764][^c-b310958b6e54b1bbb80bc5dfc7353a7a] (1) This paragraph applies where arrangements are entered into between a person (““P””) and a financial institution under which—
 
 - (a) the institution purchases a major interest in land or an undivided share of a major interest in land (““the first transaction””),
 - (b) where the interest purchased is an undivided share, the major interest is held on trust for the institution and P as beneficial tenants in common,
@@ -69,7 +69,7 @@ summary: ''
 
 #### Land sold to financial institution and re-sold to a person
 
-**3.**[^key-54e8c4733ecd47ebc693b062f3b77887] (1) This paragraph applies where arrangements are entered into between a person (““P””) and a financial institution under which—
+**3.**[^c-54e8c4733ecd47ebc693b062f3b77887] (1) This paragraph applies where arrangements are entered into between a person (““P””) and a financial institution under which—
 
 - (a) the institution—
   - (i) purchases a major interest in land (““the first transaction””), and
@@ -87,17 +87,17 @@ summary: ''
 
 #### References to P where P is an individual who has died
 
-**4.**[^key-3a4d73e7ee20fe9fcbb1ac5e55955036] References in paragraphs 2 and 3 to P are to be read, in relation to times after P has died, as references to P's personal representatives.
+**4.**[^c-3a4d73e7ee20fe9fcbb1ac5e55955036] References in paragraphs 2 and 3 to P are to be read, in relation to times after P has died, as references to P's personal representatives.
 
 ### PART 3 — CIRCUMSTANCES WHERE ARRANGEMENTS NOT RELIEVED
 
 #### No relief where group relief, acquisition relief or reconstruction relief available on first transaction
 
-**5.**[^key-67b58ed6d32978ac20e34d28949d1353] Paragraphs 2 and 3 do not apply to arrangements in relation to which group relief, acquisition relief or reconstruction relief is available on the first transaction (even if such a relief is subsequently withdrawn).
+**5.**[^c-67b58ed6d32978ac20e34d28949d1353] Paragraphs 2 and 3 do not apply to arrangements in relation to which group relief, acquisition relief or reconstruction relief is available on the first transaction (even if such a relief is subsequently withdrawn).
 
 #### Land sold to financial institution and leased to a person: arrangements to transfer control of institution
 
-**6.**[^key-e55d5fb95caea481abe8779fd79befdc] (1) Paragraph 2 does not apply to alternative finance arrangements if those arrangements, or any connected arrangements, include arrangements for a person to acquire control of the relevant financial institution.
+**6.**[^c-e55d5fb95caea481abe8779fd79befdc] (1) Paragraph 2 does not apply to alternative finance arrangements if those arrangements, or any connected arrangements, include arrangements for a person to acquire control of the relevant financial institution.
 
 (2) That includes arrangements for a person to acquire control of the relevant financial institution only if one or more conditions are met (such as an event occurring or the carrying out of an act).
 
@@ -113,7 +113,7 @@ summary: ''
 
 #### Interest held by financial institution an exempt interest
 
-**7.**[^key-12dd4230dca2504bb28cedd2f4cd162d] (1) An interest held by a financial institution as a result of the first transaction within the meaning of paragraph 2(1)(a) is an exempt interest (but see the following).
+**7.**[^c-12dd4230dca2504bb28cedd2f4cd162d] (1) An interest held by a financial institution as a result of the first transaction within the meaning of paragraph 2(1)(a) is an exempt interest (but see the following).
 
 (2) The interest ceases to be an exempt interest if—
 
@@ -131,33 +131,33 @@ summary: ''
 
 #### Meaning of ““financial institution””
 
-**8.**[^key-6b84d1d714b34b963ba21c096f79e059] In this Schedule, “**"financial institution”**” means—
+**8.**[^c-6b84d1d714b34b963ba21c096f79e059] In this Schedule, “**"financial institution”**” means—
 
 - (a) a financial institution within the meaning of section 564B of the Income Tax Act 2007 (c. 3) (alternative finance arrangements: meaning of ““financial institution””) other than a person referred to in subsection (1)(d) of that section (persons with permission to enter into credit agreements and contracts for hire of goods);
 - (b) a person with permission under Part 4A of the Financial Services and Markets Act 2000 (c. 8) to carry on the regulated activity specified in Article 63F(1) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 (S.I. 2001/544) (entering into regulated home purchase plans as home purchase providers).
 
 #### Meaning of ““arrangements””
 
-**9.**[^key-1054ccc210403cf297c8c74efe3b4797] In this Schedule, “**"arrangements”**” includes any agreement, understanding, scheme, transaction or series of any of those things (whether or not legally enforceable).
+**9.**[^c-1054ccc210403cf297c8c74efe3b4797] In this Schedule, “**"arrangements”**” includes any agreement, understanding, scheme, transaction or series of any of those things (whether or not legally enforceable).
 
 ## Annotations
 
-[^key-9804c32843dd3974ace49dd252d8e9cf]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/anaw/2017/1/schedule/10/paragraph/1) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-9804c32843dd3974ace49dd252d8e9cf]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/anaw/2017/1/schedule/10/paragraph/1) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-662fc5ff4f385a91fa43864825f30764]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/anaw/2017/1/schedule/10/paragraph/2) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-662fc5ff4f385a91fa43864825f30764]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/anaw/2017/1/schedule/10/paragraph/2) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-b310958b6e54b1bbb80bc5dfc7353a7a]: Modification: [Sch. 10 para. 2](https://www.legislation.gov.uk/anaw/2017/1/schedule/10/paragraph/2) restricted (1.4.2018) by [The Land Transaction Tax (Transitional Provisions) (Wales) Regulations 2018 (S.I. 2018/126)](https://www.legislation.gov.uk/wsi/2018/126), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/126/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2018/126/regulation/5)
+[^c-b310958b6e54b1bbb80bc5dfc7353a7a]: Modification: [Sch. 10 para. 2](https://www.legislation.gov.uk/anaw/2017/1/schedule/10/paragraph/2) restricted (1.4.2018) by [The Land Transaction Tax (Transitional Provisions) (Wales) Regulations 2018 (S.I. 2018/126)](https://www.legislation.gov.uk/wsi/2018/126), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/126/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2018/126/regulation/5)
 
-[^key-54e8c4733ecd47ebc693b062f3b77887]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/anaw/2017/1/schedule/10/paragraph/3) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-54e8c4733ecd47ebc693b062f3b77887]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/anaw/2017/1/schedule/10/paragraph/3) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-3a4d73e7ee20fe9fcbb1ac5e55955036]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/anaw/2017/1/schedule/10/paragraph/4) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-3a4d73e7ee20fe9fcbb1ac5e55955036]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/anaw/2017/1/schedule/10/paragraph/4) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-67b58ed6d32978ac20e34d28949d1353]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/anaw/2017/1/schedule/10/paragraph/5) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-67b58ed6d32978ac20e34d28949d1353]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/anaw/2017/1/schedule/10/paragraph/5) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-e55d5fb95caea481abe8779fd79befdc]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/anaw/2017/1/schedule/10/paragraph/6) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-e55d5fb95caea481abe8779fd79befdc]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/anaw/2017/1/schedule/10/paragraph/6) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-12dd4230dca2504bb28cedd2f4cd162d]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/anaw/2017/1/schedule/10/paragraph/7) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-12dd4230dca2504bb28cedd2f4cd162d]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/anaw/2017/1/schedule/10/paragraph/7) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-6b84d1d714b34b963ba21c096f79e059]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/anaw/2017/1/schedule/10/paragraph/8) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-6b84d1d714b34b963ba21c096f79e059]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/anaw/2017/1/schedule/10/paragraph/8) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-1054ccc210403cf297c8c74efe3b4797]: Commencement: [Sch. 10 para. 9](https://www.legislation.gov.uk/anaw/2017/1/schedule/10/paragraph/9) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-1054ccc210403cf297c8c74efe3b4797]: Commencement: [Sch. 10 para. 9](https://www.legislation.gov.uk/anaw/2017/1/schedule/10/paragraph/9) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

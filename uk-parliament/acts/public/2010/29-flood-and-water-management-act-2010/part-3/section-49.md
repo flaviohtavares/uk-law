@@ -34,7 +34,7 @@ summary: ''
 
 - (a) sections 22(1)(a), 28, 29, 34 (and Schedule 5), 41, 46 and paragraph 43 of Schedule 4 come into force in accordance with provision made by order of the Secretary of State,
 - (b) section 22(1)(b) and (2) and sections 23 to 26, so far as they relate to English Committees, come into force in accordance with provision made by order of the Secretary of State,
-- (c)[^key-ef89a9141d8a3458b93fb5612f8c6ebe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-ef89a9141d8a3458b93fb5612f8c6ebe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) sections 35, 36 and 42 to 45, so far as they relate to water or sewerage undertakers whose areas are wholly or mainly in England, come into force in accordance with provision made by order of the Secretary of State,
 - (e) sections 35, 36 and 42 to 45, so far as they relate to water or sewerage undertakers whose areas are wholly or mainly in Wales, come into force in accordance with provision made by order of the Welsh Ministers,
 - (f) section 37, so far as it relates to orders made by a Minister of the Crown under Part 3 of the Regulatory Enforcement and Sanctions Act 2008, comes into force in accordance with provision made by order of the Secretary of State,
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef89a9141d8a3458b93fb5612f8c6ebe]: Textual amendment: [S. 49(3)(c)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3/c) omitted (E.W.) (14.7.2017) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(c)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/c), [Sch. 2 para. 25(10)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/25/10); [S.I. 2017/714](https://www.legislation.gov.uk/wsi/2017/714), [art. 2](https://www.legislation.gov.uk/wsi/2017/714/article/2)
+[^c-ef89a9141d8a3458b93fb5612f8c6ebe]: Textual amendment: [S. 49(3)(c)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3/c) omitted (E.W.) (14.7.2017) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(c)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/c), [Sch. 2 para. 25(10)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/25/10); [S.I. 2017/714](https://www.legislation.gov.uk/wsi/2017/714), [art. 2](https://www.legislation.gov.uk/wsi/2017/714/article/2)

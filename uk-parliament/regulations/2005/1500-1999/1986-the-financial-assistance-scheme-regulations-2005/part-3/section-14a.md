@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14A. Working with qualifying pension schemes[^key-9191152f50a709809a0241591aa09c7b]
+## 14A. Working with qualifying pension schemes[^c-9191152f50a709809a0241591aa09c7b]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9191152f50a709809a0241591aa09c7b]: Textual amendment: Reg. 14A - Reg. 14B inserted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [10](https://www.legislation.gov.uk/uksi/2009/1851/regulation/10) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
+[^c-9191152f50a709809a0241591aa09c7b]: Textual amendment: Reg. 14A - Reg. 14B inserted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [10](https://www.legislation.gov.uk/uksi/2009/1851/regulation/10) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))

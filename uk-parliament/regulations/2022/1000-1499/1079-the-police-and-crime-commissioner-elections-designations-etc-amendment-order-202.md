@@ -45,19 +45,19 @@ In accordance with section 55(1) of that Act, the Treasury has consented to the 
 
 In accordance with section 7(1) and (2)(ha) of the Political Parties, Elections and Referendums Act 2000[^f00002], the Secretary of State has consulted the Electoral Commission before making this Order insofar as it is made under section 54(1)(b) of the Police Reform and Social Responsibility Act 2011.
 
-## 1. Citation, commencement and extent[^key-1f8933fa113178ac5f1651e0af20ce0f]
+## 1. Citation, commencement and extent[^c-1f8933fa113178ac5f1651e0af20ce0f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Police and Crime Commissioner Elections (Designation of Local Authorities) Order 2020[^key-3ad546dd358662914434a7e884a69dfc]
+## 2. Amendment of the Police and Crime Commissioner Elections (Designation of Local Authorities) Order 2020[^c-3ad546dd358662914434a7e884a69dfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Police and Crime Commissioner Elections (Designation of Police Area Returning Officers) Order 2020[^key-d8cb0a225691170c69be924d431d5587]
+## 3. Amendment of the Police and Crime Commissioner Elections (Designation of Police Area Returning Officers) Order 2020[^c-d8cb0a225691170c69be924d431d5587]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Police and Crime Commissioner Elections (Local Returning Officers’ and Police Area Returning Officers’ Charges) Order 2021[^key-9e3c43d0e1364daac731cbb0be690d89]
+## 4. Amendment of the Police and Crime Commissioner Elections (Local Returning Officers’ and Police Area Returning Officers’ Charges) Order 2021[^c-9e3c43d0e1364daac731cbb0be690d89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -97,10 +97,10 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00002]: Footnote: [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41). Section 7(2)(ha) was inserted by the Police Reform and Social Responsibility Act 2011, Schedule 10, paragraphs 8 and 11.
 
-[^key-1f8933fa113178ac5f1651e0af20ce0f]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/uksi/2022/1079/article/1) omitted (6.3.2024) by virtue of [The Police and Crime Commissioner Elections (Local Returning Officers’ and Police Area Returning Officers’ Charges) Order 2024 (S.I. 2024/297)](https://www.legislation.gov.uk/uksi/2024/297), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/297/article/1/1), [10(1)(b)](https://www.legislation.gov.uk/uksi/2024/297/article/10/1/b) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/297/article/1/3), [10(2)](https://www.legislation.gov.uk/uksi/2024/297/article/10/2))
+[^c-1f8933fa113178ac5f1651e0af20ce0f]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/uksi/2022/1079/article/1) omitted (6.3.2024) by virtue of [The Police and Crime Commissioner Elections (Local Returning Officers’ and Police Area Returning Officers’ Charges) Order 2024 (S.I. 2024/297)](https://www.legislation.gov.uk/uksi/2024/297), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/297/article/1/1), [10(1)(b)](https://www.legislation.gov.uk/uksi/2024/297/article/10/1/b) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/297/article/1/3), [10(2)](https://www.legislation.gov.uk/uksi/2024/297/article/10/2))
 
-[^key-3ad546dd358662914434a7e884a69dfc]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2022/1079/article/2) omitted (22.2.2024) by virtue of [The Police and Crime Commissioner Elections (Designation of Local Authorities and Police Area Returning Officers) Order 2024 (S.I. 2024/186)](https://www.legislation.gov.uk/uksi/2024/186), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/186/article/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2024/186/article/7/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/186/article/1/3), [7(3)](https://www.legislation.gov.uk/uksi/2024/186/article/7/3))
+[^c-3ad546dd358662914434a7e884a69dfc]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2022/1079/article/2) omitted (22.2.2024) by virtue of [The Police and Crime Commissioner Elections (Designation of Local Authorities and Police Area Returning Officers) Order 2024 (S.I. 2024/186)](https://www.legislation.gov.uk/uksi/2024/186), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/186/article/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2024/186/article/7/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/186/article/1/3), [7(3)](https://www.legislation.gov.uk/uksi/2024/186/article/7/3))
 
-[^key-d8cb0a225691170c69be924d431d5587]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2022/1079/article/3) omitted (22.2.2024) by virtue of [The Police and Crime Commissioner Elections (Designation of Local Authorities and Police Area Returning Officers) Order 2024 (S.I. 2024/186)](https://www.legislation.gov.uk/uksi/2024/186), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/186/article/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2024/186/article/7/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/186/article/1/3), [7(3)](https://www.legislation.gov.uk/uksi/2024/186/article/7/3))
+[^c-d8cb0a225691170c69be924d431d5587]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2022/1079/article/3) omitted (22.2.2024) by virtue of [The Police and Crime Commissioner Elections (Designation of Local Authorities and Police Area Returning Officers) Order 2024 (S.I. 2024/186)](https://www.legislation.gov.uk/uksi/2024/186), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/186/article/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2024/186/article/7/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/186/article/1/3), [7(3)](https://www.legislation.gov.uk/uksi/2024/186/article/7/3))
 
-[^key-9e3c43d0e1364daac731cbb0be690d89]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2022/1079/article/4) omitted (6.3.2024) by virtue of [The Police and Crime Commissioner Elections (Local Returning Officers’ and Police Area Returning Officers’ Charges) Order 2024 (S.I. 2024/297)](https://www.legislation.gov.uk/uksi/2024/297), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/297/article/1/1), [10(1)(b)](https://www.legislation.gov.uk/uksi/2024/297/article/10/1/b) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/297/article/1/3), [10(2)](https://www.legislation.gov.uk/uksi/2024/297/article/10/2))
+[^c-9e3c43d0e1364daac731cbb0be690d89]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2022/1079/article/4) omitted (6.3.2024) by virtue of [The Police and Crime Commissioner Elections (Local Returning Officers’ and Police Area Returning Officers’ Charges) Order 2024 (S.I. 2024/297)](https://www.legislation.gov.uk/uksi/2024/297), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/297/article/1/1), [10(1)(b)](https://www.legislation.gov.uk/uksi/2024/297/article/10/1/b) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/297/article/1/3), [10(2)](https://www.legislation.gov.uk/uksi/2024/297/article/10/2))

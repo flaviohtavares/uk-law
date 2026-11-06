@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Determination of the individual schools budget for funding periods 1, 2 and 3 and limit on increase in central expenditure[^key-be3a2eaa474a45dc82dc0802d2cf4c59]
+## 7. Determination of the individual schools budget for funding periods 1, 2 and 3 and limit on increase in central expenditure[^c-be3a2eaa474a45dc82dc0802d2cf4c59]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be3a2eaa474a45dc82dc0802d2cf4c59]: Commencement: Reg. 7 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-be3a2eaa474a45dc82dc0802d2cf4c59]: Commencement: Reg. 7 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)

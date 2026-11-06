@@ -33,7 +33,7 @@ ANIMALS
 
 ANIMAL HEALTH
 
-The Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) Amendment (No. 5) Regulations 2001 (revoked)[^key-e829ef2e74661de84ddd98bcb7f0e17b]
+The Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) Amendment (No. 5) Regulations 2001 (revoked)[^c-e829ef2e74661de84ddd98bcb7f0e17b]
 
 Made
 
@@ -47,24 +47,24 @@ Coming into force
 
 9th May 2001
 
-[^key-e829ef2e74661de84ddd98bcb7f0e17b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e829ef2e74661de84ddd98bcb7f0e17b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and cessation[^key-e829ef2e74661de84ddd98bcb7f0e17b]
+## 1. Citation, commencement and cessation[^c-e829ef2e74661de84ddd98bcb7f0e17b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) Regulations 2001[^key-e829ef2e74661de84ddd98bcb7f0e17b]
+## 2. Amendment to the Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) Regulations 2001[^c-e829ef2e74661de84ddd98bcb7f0e17b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e829ef2e74661de84ddd98bcb7f0e17b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e829ef2e74661de84ddd98bcb7f0e17b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e829ef2e74661de84ddd98bcb7f0e17b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e829ef2e74661de84ddd98bcb7f0e17b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e829ef2e74661de84ddd98bcb7f0e17b]: Textual amendment: Regulations revoked (18.5.2001 at 8.00 p.m.) by [The Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 2) Regulations 2001 (S.S.I. 2001/186)](https://www.legislation.gov.uk/ssi/2001/186), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2001/186/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2001/186/schedule)
+[^c-e829ef2e74661de84ddd98bcb7f0e17b]: Textual amendment: Regulations revoked (18.5.2001 at 8.00 p.m.) by [The Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 2) Regulations 2001 (S.S.I. 2001/186)](https://www.legislation.gov.uk/ssi/2001/186), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2001/186/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2001/186/schedule)

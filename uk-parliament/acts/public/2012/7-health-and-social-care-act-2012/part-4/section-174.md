@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174. Trust special administrators[^key-39cd5737526adf3ac11d75f71aa87255]
+## 174. Trust special administrators[^c-39cd5737526adf3ac11d75f71aa87255]
 
 *Extent: E+W*
 
@@ -82,4 +82,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39cd5737526adf3ac11d75f71aa87255]: Commencement: S. 174 in force at 1.11.2012 by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/2)
+[^c-39cd5737526adf3ac11d75f71aa87255]: Commencement: S. 174 in force at 1.11.2012 by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/2)

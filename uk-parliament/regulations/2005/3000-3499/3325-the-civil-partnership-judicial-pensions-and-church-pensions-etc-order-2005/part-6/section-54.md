@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**54.**[^key-1576fe366cfba5b9c8cc709ef84a0a70] (1) Section 18 (conditions of grant) is amended as follows.
+**54.**[^c-1576fe366cfba5b9c8cc709ef84a0a70] (1) Section 18 (conditions of grant) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1576fe366cfba5b9c8cc709ef84a0a70]: Commencement: Art. 54 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-1576fe366cfba5b9c8cc709ef84a0a70]: Commencement: Art. 54 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
 
 [^f00018]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 

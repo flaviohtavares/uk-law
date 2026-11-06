@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 324. Notice requiring purchase of blighted land[^key-b6caba5803441168cd056686b7970bbe]
+## 324. Notice requiring purchase of blighted land[^c-b6caba5803441168cd056686b7970bbe]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6caba5803441168cd056686b7970bbe]: Commencement: S. 324 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-b6caba5803441168cd056686b7970bbe]: Commencement: S. 324 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

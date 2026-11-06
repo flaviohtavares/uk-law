@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Local excavation vehicles: requirements as to width[^key-f23b89c8f2717fb4ab4c9b81fe994f67]
+## 34. Local excavation vehicles: requirements as to width[^c-f23b89c8f2717fb4ab4c9b81fe994f67]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f23b89c8f2717fb4ab4c9b81fe994f67]: Commencement: Art. 34 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-f23b89c8f2717fb4ab4c9b81fe994f67]: Commencement: Art. 34 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

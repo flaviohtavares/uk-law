@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**66.**[^key-1aa1adc3b61079b4ddefc883c7ff320c] In paragraph 18(1) (information to be given in the notes to the accounts in respect of an undertaking in a joint venture dealt with by proportional consolidation) of Part 3 of Schedule 4, for sub-paragraphs (a) and (b) substitute—
+**66.**[^c-1aa1adc3b61079b4ddefc883c7ff320c] In paragraph 18(1) (information to be given in the notes to the accounts in respect of an undertaking in a joint venture dealt with by proportional consolidation) of Part 3 of Schedule 4, for sub-paragraphs (a) and (b) substitute—
 
 > - (a) the name of the undertaking,
 > - (b) the address of the undertaking’s registered office (whether in or outside the United Kingdom),
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1aa1adc3b61079b4ddefc883c7ff320c]: Commencement: Reg. 66 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-1aa1adc3b61079b4ddefc883c7ff320c]: Commencement: Reg. 66 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

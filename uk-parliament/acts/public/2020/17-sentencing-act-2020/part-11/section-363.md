@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 363. Offence of breaching restraining order[^key-d3713e37e15e6a6a510a778d5b7ab381]
+## 363. Offence of breaching restraining order[^c-d3713e37e15e6a6a510a778d5b7ab381]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) A person guilty of an offence under this section is liable—
 
-- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-b9627952c4fd41aad2634932b9509b25], or a fine, or both;
+- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-b9627952c4fd41aad2634932b9509b25], or a fine, or both;
 - (b) on conviction on indictment, to imprisonment for a term not exceeding 5 years, or a fine, or both.
 
 (3) Subsection (1) does not apply to conduct of a person on a particular occasion if the Secretary of State certifies that, in the opinion of the Secretary of State, anything done by that person on that occasion related to—
@@ -43,6 +43,6 @@ and was done on behalf of the Crown.
 
 ## Annotations
 
-[^key-d3713e37e15e6a6a510a778d5b7ab381]: Commencement: S. 363 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-d3713e37e15e6a6a510a778d5b7ab381]: Commencement: S. 363 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-b9627952c4fd41aad2634932b9509b25]: Textual amendment: Words in s. 363(2)(a) substituted (29.6.2026) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [ss. 15(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/15/1), [18(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/2) (with [s. 15(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/15/2))
+[^c-b9627952c4fd41aad2634932b9509b25]: Textual amendment: Words in s. 363(2)(a) substituted (29.6.2026) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [ss. 15(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/15/1), [18(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/2) (with [s. 15(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/15/2))

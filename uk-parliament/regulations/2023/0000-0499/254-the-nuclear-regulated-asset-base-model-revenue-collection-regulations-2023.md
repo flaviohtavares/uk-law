@@ -50,7 +50,7 @@ A draft of this instrument was laid before Parliament in accordance with section
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and extent[^key-5e67e7ceec339390e2504431635e692a]
+### 1. Citation, commencement and extent[^c-5e67e7ceec339390e2504431635e692a]
 
 (1) These Regulations may be cited as the Nuclear Regulated Asset Base Model (Revenue Collection) Regulations 2023.
 
@@ -58,7 +58,7 @@ A draft of this instrument was laid before Parliament in accordance with section
 
 (3) These Regulations extend to England and Wales and Scotland.
 
-### 2. Interpretation[^key-da002178d9f779ef7bab3eb86d9c5158]
+### 2. Interpretation[^c-da002178d9f779ef7bab3eb86d9c5158]
 
 (1) In these Regulations—
 
@@ -66,7 +66,7 @@ A draft of this instrument was laid before Parliament in accordance with section
 - “**absolute value**”, in relation to an amount, means the magnitude of that amount without regard to whether that amount is positive or negative;
 - “**additional reserve payment**” means a payment an electricity supplier is required to make under regulation 13(3);
 - “**adjusted interim levy rate**” is to be construed in accordance with regulation 12(1);
-- “**the Balancing and Settlement Code**” means the code for the governance of electricity balancing and settlement in Great Britain, as amended from time to time, which is maintained in accordance with the conditions of an electricity system operator licence granted under section 6(1)(da)[^key-a93ea34133e5f0a6d005220ede045be0] of the Electricity Act 1989[^f00003];
+- “**the Balancing and Settlement Code**” means the code for the governance of electricity balancing and settlement in Great Britain, as amended from time to time, which is maintained in accordance with the conditions of an electricity system operator licence granted under section 6(1)(da)[^c-a93ea34133e5f0a6d005220ede045be0] of the Electricity Act 1989[^f00003];
 - “**BM Unit**” has the meaning given in the Balancing and Settlement Code (see section X of that code) and “**registered**”, in relation to a BM Unit, means registered in accordance with the requirements of section K of the Balancing and Settlement Code;
 - “**BSC volume allocation run**” means any one of the following—
   - (a) an Initial Volume Allocation Run,
@@ -132,7 +132,7 @@ A draft of this instrument was laid before Parliament in accordance with section
 
 ### CHAPTER 1 — The supplier obligation
 
-#### 3. The supplier obligation[^key-b6eb54df6f99597a668bbec9a82557c6]
+#### 3. The supplier obligation[^c-b6eb54df6f99597a668bbec9a82557c6]
 
 (1) Every electricity supplier who supplies electricity during a quarterly obligation period must, subject to paragraph (3), pay an RCC period contribution to the revenue collection counterparty in respect of that period.
 
@@ -155,7 +155,7 @@ A draft of this instrument was laid before Parliament in accordance with section
   - (i) counterparty data reconciliation payments in accordance with regulation 8(3), and
   - (ii) any required reconciliation payments in accordance with regulation 16(3)(b).
 
-#### 4. RCC period contribution[^key-38fe1f9dff1053679a373f7233509d93]
+#### 4. RCC period contribution[^c-38fe1f9dff1053679a373f7233509d93]
 
 (1) The RCC period contribution for a supplier for a quarterly obligation period is the amount given by—
 
@@ -192,7 +192,7 @@ where—
 
 ### CHAPTER 2 — Interim daily levy
 
-#### 5. Setting the interim levy rate[^key-02297326aef16b94c2af5b0e31014916]
+#### 5. Setting the interim levy rate[^c-02297326aef16b94c2af5b0e31014916]
 
 (1) The revenue collection counterparty must, in respect of every quarterly obligation period, determine an interim levy rate which is to apply for that period.
 
@@ -215,7 +215,7 @@ where—
 
 (5) Where the amount given by the calculation in paragraph (4) in relation to a quarterly obligation period is less than zero, the interim levy rate must be determined as zero for that period.
 
-#### 6. Estimated cost, income & electricity supply[^key-062cdc826f2a15241e6493cb8f916eb0]
+#### 6. Estimated cost, income & electricity supply[^c-062cdc826f2a15241e6493cb8f916eb0]
 
 (1) The estimated quarterly obligation period payment cost in respect of a quarterly obligation period (“the rate period”) is the sum of the revenue collection counterparty’s estimate of—
 
@@ -236,7 +236,7 @@ where—
 
 (5) In this regulation “CP”, “GP” and “SoS repayment” have the meaning given in regulation 4.
 
-#### 7. Interim rate payments[^key-f374cd72b0206326372ee346305281d2]
+#### 7. Interim rate payments[^c-f374cd72b0206326372ee346305281d2]
 
 (1) An electricity supplier must make a payment (“an interim rate payment”) to the revenue collection counterparty in respect of each day on which that supplier supplies electricity in Great Britain during a quarterly obligation period.
 
@@ -255,7 +255,7 @@ where—
 
 (7) For the purposes of paragraph (2), the amount of electricity supplied by an electricity supplier on a particular day is the amount of electricity which the BSCCo determines, on the basis of an Interim Information Volume Allocation Run in respect of that day, as the amount of electricity supplied by that supplier on that day.
 
-#### 8. Data reconciliation of interim rate payments[^key-06c0f4e09164f7011a02fac329a3fbb2]
+#### 8. Data reconciliation of interim rate payments[^c-06c0f4e09164f7011a02fac329a3fbb2]
 
 (1) This regulation applies where, before the conclusion of a quarterly obligation period, the BSCCo carries out a relevant allocation run in respect of a day in that period and the reconciled interim rate amount in relation to that day for an electricity supplier is different to the net levied interim rate payment for that supplier.
 
@@ -280,7 +280,7 @@ where—
 
 ### CHAPTER 3 — Payments for reserve
 
-#### 9. Reserve payments[^key-15c2cad38acc8adf6b70b57edeef0042]
+#### 9. Reserve payments[^c-15c2cad38acc8adf6b70b57edeef0042]
 
 (1) The revenue collection counterparty must determine—
 
@@ -304,7 +304,7 @@ where—
 
 (7) In this regulation the “**relevant day**” means the day which is 30 days before the beginning of the relevant quarterly obligation period.
 
-#### 10. Individual suppliers’ reserve amounts[^key-cb275cf061a4b34bc889d26229caea12]
+#### 10. Individual suppliers’ reserve amounts[^c-cb275cf061a4b34bc889d26229caea12]
 
 (1) An electricity supplier who supplied electricity during the reference period must make a reserve payment to the revenue collection counterparty in respect of a quarterly obligation period (“**the relevant period**”) by—
 
@@ -331,7 +331,7 @@ where—
 
 ### CHAPTER 4 — Adjustments to interim rate and additional reserve payments
 
-#### 11. In period adjustments[^key-9954c0de833b395c6d74417347a96fe4]
+#### 11. In period adjustments[^c-9954c0de833b395c6d74417347a96fe4]
 
 (1) Where the revenue collection counterparty is of the opinion that there is a high degree of likelihood that it will be unable to make all payments it is required to make to RCC parties in respect of a quarterly obligation period it may, if it thinks it expedient to do so—
 
@@ -343,7 +343,7 @@ where—
 
 (3) Where the revenue collection counterparty is of the opinion that there is a high degree of likelihood that it will collect significantly more from suppliers under regulations 7(1) and 10(1) in respect of a quarterly obligation period than the amount it requires to be able to make all payments it is required to make to RCC parties in respect of that period it may, in accordance with regulation 12, determine an adjusted interim levy rate in respect of that period.
 
-#### 12. Adjusted interim levy rate[^key-dcce55c97d5e288f5e3a87e64e1c5bce]
+#### 12. Adjusted interim levy rate[^c-dcce55c97d5e288f5e3a87e64e1c5bce]
 
 (1) Subject to paragraph (2), an adjusted interim levy rate (“adjusted interim levy rate”) for a quarterly obligation period (“the rate period”) is to be determined as the amount given by—
 
@@ -377,7 +377,7 @@ where—
 
 (6) For the purpose of paragraphs (4) and (5), “**previous levy rate**” means the interim levy rate or the adjusted interim levy rate, whichever is most recently determined in respect of the rate period.
 
-#### 13. Additional total reserve amount[^key-22baa592417d569465cdee1f2d748008]
+#### 13. Additional total reserve amount[^c-22baa592417d569465cdee1f2d748008]
 
 (1) An additional total reserve amount in respect of a quarterly obligation period is the amount which the revenue collection counterparty determines it would need to be paid, having regard to the matters set out in paragraph (2)—
 
@@ -425,7 +425,7 @@ where—
 - (a) paragraphs (3), (4) and (5), “**the adjusted reference period**” means the most recent period of 30 consecutive days in respect of which the BSCCo has carried out an Initial Volume Allocation Run;
 - (b) paragraph (4), the amount of electricity supplied by an electricity supplier in a reference period or adjusted reference period is the amount of all electricity which the BSCCo determines was supplied by that supplier in that period, on the basis of the most recent BSC volume allocation run which the BSCCo has carried out.
 
-#### 14. Determination of reduced total reserve amount[^key-0b7e9b8170011cd51d093360fff280d1]
+#### 14. Determination of reduced total reserve amount[^c-0b7e9b8170011cd51d093360fff280d1]
 
 (1) This regulation applies where the revenue collection counterparty is of the opinion that there is a high degree of likelihood that it will collect significantly more from suppliers under regulations 7(1) and 10(1) in respect of a quarterly obligation period than the amount it requires to be able to make all payments it is required to make during the reserve period which commences during that quarterly obligation period, taking into account any SoS funds that the Secretary of State has specified will be available in respect of that reserve period and that the Secretary of State has specified should be taken into account when adjusting the total reserve amount.
 
@@ -445,7 +445,7 @@ where—
 
 ### CHAPTER 5 — Reconciliation payments
 
-#### 15. Reconciliation payments[^key-34ba6830b27f60dda6bc9f97a2a420ee]
+#### 15. Reconciliation payments[^c-34ba6830b27f60dda6bc9f97a2a420ee]
 
 (1) The revenue collection counterparty must calculate, in accordance with regulation 16(1), the amounts to be paid as reconciliation payments by electricity suppliers or by that counterparty (“a reconciliation determination”) in respect of a quarterly obligation period (“the reconciliation period”)—
 
@@ -465,7 +465,7 @@ where—
 - (b) is due to make or receive a reconciliation payment, or
 - (c) is due to make a reserve payment.
 
-#### 16. Determination of reconciliation payments[^key-35219c9812d971ce981b894f6f77b6f8]
+#### 16. Determination of reconciliation payments[^c-35219c9812d971ce981b894f6f77b6f8]
 
 (1) The amount of a reconciliation payment to be paid to or by a supplier in respect of the reconciliation period is the revenue collection counterparty’s calculation, at the time of making that calculation, of the RCC period contribution in relation to that supplier in respect of the reconciliation period, less the net levied amount for that supplier in respect of that period.
 
@@ -496,7 +496,7 @@ where—
 
 ### CHAPTER 6 — Mutualisation
 
-#### 17. Mutualisation[^key-35853f6046d31e83fd7f636384e8c448]
+#### 17. Mutualisation[^c-35853f6046d31e83fd7f636384e8c448]
 
 (1) Where an electricity supplier (“the defaulting supplier”) fails to make a relevant payment the revenue collection counterparty may, subject to paragraph (5), require non-defaulting suppliers to pay a share of an amount equal to the amount which was not paid by issuing a notice (“a mutualisation notice”) to each non-defaulting supplier who supplied electricity during the reference period.
 
@@ -542,7 +542,7 @@ where—
 - (c) the reference period is the most recent period, occurring before the mutualisation notice (to which the reference period relates) has been issued, of 30 consecutive days in respect of which the BSCCo has carried out an Initial Volume Allocation Run; and
 - (d) the amount of electricity supplied by an electricity supplier in a reference period is the amount of electricity which the BSCCo determines, on the basis of the most recent BSC volume allocation run which the BSCCo has carried out in relation to each day in that period, as the amount of electricity supplied by that supplier in that reference period.
 
-#### 18. Repayment of mutualised amounts[^key-92f07b7ccb6eb4cdd3fa1757b60867a4]
+#### 18. Repayment of mutualised amounts[^c-92f07b7ccb6eb4cdd3fa1757b60867a4]
 
 (1) Where the revenue collection counterparty has issued a mutualisation notice in respect of a failure of an electricity supplier (“the defaulting supplier”) to make a relevant payment (“the relevant default”) and subsequently recovers any amount from that supplier in respect of that failure, that amount must be paid to electricity suppliers who were required to pay mutualisation amounts in respect of that failure in accordance with paragraphs (2) and (3).
 
@@ -562,7 +562,7 @@ where—
 
 ### CHAPTER 7 — Collateral
 
-#### 19. Requirement to provide collateral[^key-b35279769747ff234771689e03406b3a]
+#### 19. Requirement to provide collateral[^c-b35279769747ff234771689e03406b3a]
 
 (1) This regulation applies at all times after an electricity supplier makes an electricity supply in a quarterly obligation period in respect of which it is required to make an interim rate payment.
 
@@ -593,7 +593,7 @@ where—
 
 (9) Regulation 20 makes further provision about appropriate letters of credit.
 
-#### 20. Appropriate letters of credit[^key-7034b23afcb81fc5d9f60ddc57a653fb]
+#### 20. Appropriate letters of credit[^c-7034b23afcb81fc5d9f60ddc57a653fb]
 
 (1) For the purposes of regulation 19, a letter of credit is appropriate if—
 
@@ -628,7 +628,7 @@ where—
 - “**Moody’s**” means the corporation known as Moody’s Investors Service Inc., incorporated in the US State of Delaware with the file number 0577904;
 - “**Standard and Poor’s**” means the corporation known as Standard & Poor’s Financial Services LLC, incorporated in the US State of Delaware with the file number 4621989.
 
-#### 21. Calling of collateral[^key-875af9ecc690fae9b1483ff8fd00e95b]
+#### 21. Calling of collateral[^c-875af9ecc690fae9b1483ff8fd00e95b]
 
 (1) Collateral provided by an electricity supplier is called by the revenue collection counterparty where the revenue collection counterparty issues a notice to that supplier which sets out the amount of collateral which is to be called.
 
@@ -653,7 +653,7 @@ where—
 
 (6) In this regulation “**relevant payment**” means any payment which a supplier is required to make by virtue of regulation 7(1), 8(2), 10(1), 13(3), 16(3)(a) or 17(6) which has not been made by that supplier by the time that payment should have been made, and which remains unpaid.
 
-#### 22. Withdrawal of collateral and payment of interest[^key-8371c1a93d7e4517d3bf9f2cd72624c7]
+#### 22. Withdrawal of collateral and payment of interest[^c-8371c1a93d7e4517d3bf9f2cd72624c7]
 
 (1) Where the collateral provided by an electricity supplier and held by the revenue collection counterparty is more than that supplier’s collateral requirement, that supplier may make a request that the revenue collection counterparty repay or return as much collateral as exceeds the supplier’s collateral requirement by giving a notice to the revenue collection counterparty.
 
@@ -666,7 +666,7 @@ where—
 
 ## PART 3 — Operational costs
 
-### 23. The operational costs levy[^key-59ab72421c56d0742342179afa9e5948]
+### 23. The operational costs levy[^c-59ab72421c56d0742342179afa9e5948]
 
 (1) An electricity supplier must make a payment (“an operational cost payment”) to the revenue collection counterparty for each day that supplier makes an electricity supply during an operational cost period.
 
@@ -683,13 +683,13 @@ where—
 (7) For the purposes of this regulation—
 
 - (a) the operational levy rate is as follows—
-  - (i)[^key-c266c1494e60ae77a76424bee1d738f3] £0.0028 per megawatt hour for any day during the period that begins with 1st April 2025 and ends on 31st March 2026;
+  - (i)[^c-c266c1494e60ae77a76424bee1d738f3] £0.0028 per megawatt hour for any day during the period that begins with 1st April 2025 and ends on 31st March 2026;
   - (ii) £0.0063 per megawatt hour for any day during the period that begins with 1st April 2026 and ends on 31st March 2027;
   - (iii) £0.0068 per megawatt hour for any day during the period that begins with 1st April 2027 and ends on 31st March 2028;
   - (iv) £0.0073 per megawatt hour for any day after 31st March 2028;
 - (b) the amount of electricity supplied by an electricity supplier on a particular day is the amount of electricity which the BSCCo determines, on the basis of an Initial Volume Allocation Run carried out in relation to that day, as the amount of electricity which that supplier supplied on that day.
 
-### 24. Repayment of excess[^key-7cc8cd18453c5a32b73d0ae8ec1e26cf]
+### 24. Repayment of excess[^c-7cc8cd18453c5a32b73d0ae8ec1e26cf]
 
 (1) The revenue collection counterparty must determine, as soon as reasonably practicable after the conclusion of an operational cost period, whether the amounts received under regulation 23(1) in respect of that period and received by virtue of regulation 23(6) during that period are greater than the costs which it incurred in respect of the relevant period in relation to that operational cost period.
 
@@ -729,7 +729,7 @@ where—
 
 ### CHAPTER 1 — Enforcement and disputes
 
-#### 25. Enforcement of requirements[^key-96b876f7fe92b5308112682fa6250165]
+#### 25. Enforcement of requirements[^c-96b876f7fe92b5308112682fa6250165]
 
 (1) Any requirement of an electricity supplier under these Regulations is enforceable by the Authority as if any such requirement was a relevant requirement on a regulated person for the purposes of section 25 of the Electricity Act 1989[^f00007].
 
@@ -751,7 +751,7 @@ where—
 - (a) it must also provide a copy of that notice to the Authority; and
 - (b) it may publish a copy of that notice, or a summary of that notice.
 
-#### 26. Dispute notices[^key-055611ef5593f1ef3b41333c7fb074a0]
+#### 26. Dispute notices[^c-055611ef5593f1ef3b41333c7fb074a0]
 
 (1) An electricity supplier may dispute any determination made by the revenue collection counterparty under these Regulations, other than a determination made under or by virtue of regulation 27 of these Regulations, by giving a notice to the revenue collection counterparty setting out—
 
@@ -770,7 +770,7 @@ where—
 
 (5) Where an electricity supplier has given a notice under paragraph (1) in respect of a determination, that determination still has effect notwithstanding the giving of that notice.
 
-#### 27. Determination of disputes[^key-9be87cc275befb573bb6b5447ac0a70f]
+#### 27. Determination of disputes[^c-9be87cc275befb573bb6b5447ac0a70f]
 
 (1) Where the revenue collection counterparty receives a notice under regulation 26(1) (“a dispute notice”) about a determination (or a failure to make a determination) under any provision of these Regulations (“a relevant provision”) it must, by the 28th day after the day on which it receives that notice either—
 
@@ -796,7 +796,7 @@ where—
 - (a) the 5th working day after the day on which the notice issued in respect of that determination was issued under paragraph (3);
 - (b) where the revenue collection counterparty is of the opinion that it would not be reasonably practicable for that amount to be returned by that date, such later date as the revenue collection counterparty specifies in the notice issued under paragraph (3) to that supplier in respect of that determination.
 
-#### 28. Duties of the revenue collection counterparty to enforce and notify[^key-fa4e783352b0b530671522b1f11047ee]
+#### 28. Duties of the revenue collection counterparty to enforce and notify[^c-fa4e783352b0b530671522b1f11047ee]
 
 (1) The revenue collection counterparty must exercise its functions in the manner best calculated to ensure the collection of all amounts which are required to be paid or provided by electricity suppliers under these Regulations.
 
@@ -827,7 +827,7 @@ where—
 - (a) an estimate of the interim levy rate (see regulation 5(1)) that would apply to each quarterly obligation period during the projection period; and
 - (b) an estimate of the total reserve amount for each quarterly obligation period during the projection period.
 
-#### 29. Notices and publications[^key-e332b12cb8df24a6d7ba00855a389d9f]
+#### 29. Notices and publications[^c-e332b12cb8df24a6d7ba00855a389d9f]
 
 (1) Where the revenue collection counterparty is permitted or required to issue a notice (including a copy of a notice) to a person, that notice must be in writing and is issued if it has been sent (by or on behalf of the revenue collection counterparty) by post or electronic means to that person’s proper address.
 
@@ -854,7 +854,7 @@ where—
 
 ### CHAPTER 2 — Effect of payment and interest
 
-#### 30. Set-off of payments by the revenue collection counterparty[^key-a3cb363f7f46999cf8969b547cff514d]
+#### 30. Set-off of payments by the revenue collection counterparty[^c-a3cb363f7f46999cf8969b547cff514d]
 
 (1) This regulation applies where—
 
@@ -884,7 +884,7 @@ where—
 
 (8) For the purposes of this regulation, a requirement to provide collateral under regulation 19(2) is not a requirement to make a payment by virtue of these Regulations.
 
-#### 31. Netting of payments by the revenue collection counterparty[^key-247d29d65e1cbda52abfa8a6c6dcea4d]
+#### 31. Netting of payments by the revenue collection counterparty[^c-247d29d65e1cbda52abfa8a6c6dcea4d]
 
 (1) This regulation applies where—
 
@@ -906,7 +906,7 @@ where—
 - (a) the revenue collection counterparty’s obligation to make the counterparty payment is discharged, and
 - (b) the supplier’s obligation to make the supplier payment is discharged.
 
-#### 32. Discharge of obligations by payment[^key-3ee1f17e0a9183f84e6129306ce9f44a]
+#### 32. Discharge of obligations by payment[^c-3ee1f17e0a9183f84e6129306ce9f44a]
 
 (1) This regulation applies where an electricity supplier makes a payment to the revenue collection counterparty for the purpose of discharging its relevant obligations but that payment is insufficient to do so.
 
@@ -934,7 +934,7 @@ where—
 - “**payment of interest**” means a payment of interest which is required to be made by virtue of regulation 7(6), 8(7), 10(2), 13(7), 16(5), 17(7) or 23(6);
 - “**relevant obligation**”, in relation to an electricity supplier, means any obligation of that supplier to make a payment under these Regulations where the date by which that payment should have been made has passed.
 
-#### 33. Use of payments[^key-5443d7096926cc98b7dee07915a36067]
+#### 33. Use of payments[^c-5443d7096926cc98b7dee07915a36067]
 
 (1) Where the revenue collection counterparty receives a payment from an electricity supplier under regulation 23, the revenue collection counterparty may only use that payment for the purposes of meeting its costs.
 
@@ -946,7 +946,7 @@ where—
 
 (3) In paragraph (1),“**costs**” means any costs incurred by the revenue collection counterparty in connection with the performance by it of any function conferred on it by or by virtue of Part 2 of the Act.
 
-#### 34. Apportioning sums to revenue collection contracts[^key-58e5c91a9d78f64b976c94dbccb7c104]
+#### 34. Apportioning sums to revenue collection contracts[^c-58e5c91a9d78f64b976c94dbccb7c104]
 
 (1) This regulation applies where the revenue collection counterparty is unable fully to meet its liabilities under, or pursuant to, a revenue collection contract.
 
@@ -970,7 +970,7 @@ where—
 - (d) it is an amount received as a RCC party payment by the revenue collection counterparty; or
 - (e) it is any other amount provided to the revenue collection counterparty for the purpose of making revenue collection counterparty payments.
 
-#### 35. Application of apportionment to revenue collection contracts[^key-ffe930f68b4bcd89aa7f8f9e4905af7f]
+#### 35. Application of apportionment to revenue collection contracts[^c-ffe930f68b4bcd89aa7f8f9e4905af7f]
 
 (1) This regulation applies where a revenue collection contract contains a term that makes reference to amounts allocated pursuant to these Regulations (however that revenue collection contract describes these Regulations).
 
@@ -978,7 +978,7 @@ where—
 
 (3) In all other cases where this regulation applies, the amount allocated to a revenue collection contract, for the purposes of that term, is the amount which is owed by the revenue collection counterparty in relation to that revenue collection contract.
 
-#### 36. Interest[^key-7210f50068a946c9854a9c44e05bcdea]
+#### 36. Interest[^c-7210f50068a946c9854a9c44e05bcdea]
 
 (1) For the purposes of regulations 7(6), 8(7), 10(2), 13(7), 16(5), 17(7) and 23(6), the rate of interest is 5 per cent per annum over the relevant Bank of England base rate.
 
@@ -996,7 +996,7 @@ where—
 
 ## PART 5 — Directions to offer to contract
 
-### 37. Directions under section 18 of the Act[^key-f6598206c63d7f6d66bd4df475f053be]
+### 37. Directions under section 18 of the Act[^c-f6598206c63d7f6d66bd4df475f053be]
 
 (1) A direction given by the Secretary of State to a revenue collection counterparty under section 18(1) of the Act must—
 
@@ -1010,7 +1010,7 @@ where—
 
 (3) The Secretary of State must give a copy of the direction to the designated nuclear company specified in the direction (“the specified person”) as soon as reasonably practicable after the direction has been given to the revenue collection counterparty.
 
-### 38. Form and content of specified terms[^key-0881864e52dcbcbd368809f2a8be7484]
+### 38. Form and content of specified terms[^c-0881864e52dcbcbd368809f2a8be7484]
 
 For the purposes of regulation 37(1)(b) the terms must include terms that set out—
 
@@ -1025,7 +1025,7 @@ For the purposes of regulation 37(1)(b) the terms must include terms that set ou
 - (i) a mechanism for the sharing of information between the parties to the contract; and
 - (j) details of any information included in the terms that is confidential information for the purposes of regulation 40(3).
 
-### 39. Revocation of directions[^key-66f26661efbff69f6b3c24869bb81885]
+### 39. Revocation of directions[^c-66f26661efbff69f6b3c24869bb81885]
 
 (1) The Secretary of State may by notice (“**a revocation notice**”) revoke a direction given under section 18(1) of the Act (“the direction”).
 
@@ -1039,7 +1039,7 @@ For the purposes of regulation 37(1)(b) the terms must include terms that set ou
 
 (4) A revocation notice has no effect if it is given after the specified person has accepted an offer to contract on the specified terms made by the revenue collection counterparty in compliance with the direction.
 
-### 40. Publication of revenue collection contracts[^key-290006022bd7b6253f81e477e2150635]
+### 40. Publication of revenue collection contracts[^c-290006022bd7b6253f81e477e2150635]
 
 (1) If a specified person accepts an offer to contract on the specified terms, the revenue collection counterparty must publish the resulting revenue collection contract.
 
@@ -1056,13 +1056,13 @@ For the purposes of regulation 37(1)(b) the terms must include terms that set ou
 - (b) the disclosure of which would or would be likely to prejudice the commercial interests of any person; or
 - (c) the disclosure of which would constitute a breach of confidence actionable by any person.
 
-### 41. Interpretation of Part 5[^key-7509cba65534b2eff595dbe6b5830d12]
+### 41. Interpretation of Part 5[^c-7509cba65534b2eff595dbe6b5830d12]
 
 In this Part, “**specified person**” is to be construed in accordance with regulation 37(3).
 
 ## PART 6 — Information and advice
 
-### 42. Requests for information[^key-1832f45583767238d53aa38cf04f97c0]
+### 42. Requests for information[^c-1832f45583767238d53aa38cf04f97c0]
 
 (1) The revenue collection counterparty may request information from an electricity supplier which the revenue collection counterparty reasonably requires in connection with the performance of the revenue collection counterparty’s functions.
 
@@ -1089,7 +1089,7 @@ In this Part, “**specified person**” is to be construed in accordance with r
 
 (8) A person who receives a request under this regulation must comply with the request within such period as the person making the request may reasonably require.
 
-### 43. Provision of information other than by request[^key-71795bfa54390e04ff7be69b9f6a617d]
+### 43. Provision of information other than by request[^c-71795bfa54390e04ff7be69b9f6a617d]
 
 (1) This regulation applies regardless of whether a request for information under regulation 42 has been made.
 
@@ -1106,7 +1106,7 @@ In this Part, “**specified person**” is to be construed in accordance with r
 - (b) the Authority;
 - (c) a nuclear administrator.
 
-### 44. Provision of advice to the Secretary of State[^key-e2146f4db588e680fb823cd2671b995b]
+### 44. Provision of advice to the Secretary of State[^c-e2146f4db588e680fb823cd2671b995b]
 
 (1) The Secretary of State may request advice relating to revenue collection contracts which they reasonably require in connection with the performance of the Secretary of State’s functions from any of the following persons—
 
@@ -1116,7 +1116,7 @@ In this Part, “**specified person**” is to be construed in accordance with r
 
 (2) A person who receives a request under paragraph (1) must comply with the request within such period as the Secretary of State may reasonably require.
 
-### 45. Restrictions on disclosing information or advice[^key-442f3eddf66f1ac49b5cc35cc1d8a0a0]
+### 45. Restrictions on disclosing information or advice[^c-442f3eddf66f1ac49b5cc35cc1d8a0a0]
 
 (1) Subject to paragraph (2), a person who obtains information or advice under this Part must not disclose the information or advice to another person.
 
@@ -1130,7 +1130,7 @@ In this Part, “**specified person**” is to be construed in accordance with r
 - (f) in the case of a disclosure by the Authority, if the Authority reasonably considers the disclosure to be necessary in connection with the performance of the Authority’s functions;
 - (g) in the case of a disclosure by the Secretary of State, if the Secretary of State reasonably considers the disclosure to be necessary in connection with the performance of the Secretary of State’s functions.
 
-### 46. Supplementary provision for Part 6[^key-cc7847cfcd7a3f96892a607918f0f706]
+### 46. Supplementary provision for Part 6[^c-cc7847cfcd7a3f96892a607918f0f706]
 
 (1) A requirement imposed under this Part on the revenue collection counterparty, a CFD counterparty, the national system operator, a nuclear administrator or an RCC party is to be treated as a relevant requirement on that person as if they were a regulated person for the purposes of section 25 of the Electricity Act 1989[^f00009].
 
@@ -1144,7 +1144,7 @@ In this Part, “**specified person**” is to be construed in accordance with r
 
 (4) In this regulation, “**the data protection legislation**” has the same meaning as in section 3(9) of the Data Protection Act 2018[^f00010].
 
-### 47. Interpretation of Part 6[^key-0b263a8ba0ed0b8624f5f9bdd0fc0276]
+### 47. Interpretation of Part 6[^c-0b263a8ba0ed0b8624f5f9bdd0fc0276]
 
 In this Part—
 
@@ -1172,31 +1172,31 @@ Department for Energy Security and Net Zero
 
 Regulation 2(5)
 
-**1.**[^key-ac6cfe5261741e546eea0897a02c4bf7] Regulation 2 has effect as if—
+**1.**[^c-ac6cfe5261741e546eea0897a02c4bf7] Regulation 2 has effect as if—
 
 - (a) every reference to “the revenue collection counterparty”, except the reference in the definition of “letter of credit” in paragraph (1), were to “a revenue collection counterparty”; and
 - (b) in paragraph (1), the words “to whom it is provided,” appeared after the words “the revenue collection counterparty” in the definition of “letter of credit”.
 
-**2.**[^key-4f0533b158a08624c671deff8a103c3f] Regulation 3 has effect as if—
+**2.**[^c-4f0533b158a08624c671deff8a103c3f] Regulation 3 has effect as if—
 
 - (a) in paragraph (1), the reference to “the revenue collection counterparty” were to “each revenue collection counterparty”;
 - (b) in paragraph (3), the reference to “a supplier’s RCC period contribution” were to “a supplier’s RCC period contribution in respect of a revenue collection counterparty”;
 - (c) in paragraph (4), the reference to “the RCC period contribution” were to “the RCC period contribution in respect of a revenue collection counterparty”; and
 - (d) in paragraphs (3)(b) and (4)(b), each reference to “the revenue collection counterparty” were to “that revenue collection counterparty”.
 
-**3.**[^key-27bd3a3d46bfaa49ef57ad208412f71d] Regulation 4 has effect as if—
+**3.**[^c-27bd3a3d46bfaa49ef57ad208412f71d] Regulation 4 has effect as if—
 
 - (a) in paragraph (1)—
   - (i) the reference to “the RCC period contribution” were to “the RCC period contribution in respect of a revenue collection counterparty”; and
   - (ii) each reference to “the revenue collection counterparty” were to “that revenue collection counterparty”; and
 - (b) in paragraph (3), the reference to “the revenue collection counterparty” were to “a revenue collection counterparty”.
 
-**4.**[^key-877f8e9eb41e32a50bf4ca6cb2ceb7aa] Regulation 5 has effect as if—
+**4.**[^c-877f8e9eb41e32a50bf4ca6cb2ceb7aa] Regulation 5 has effect as if—
 
 - (a) each reference to “the revenue collection counterparty” were a reference to “a revenue collection counterparty”; and
 - (b) in relation to a revenue collection counterparty designated under section 16 of the Act on or after the first payment period start date, there is no requirement for that revenue collection counterparty to determine an interim levy rate in respect of the first quarterly obligation period which commences after its designation.
 
-**5.**[^key-8da6ea2cc874cd8a309590482adc224c] Regulation 6 has effect as if—
+**5.**[^c-8da6ea2cc874cd8a309590482adc224c] Regulation 6 has effect as if—
 
 - (a) in paragraphs (1), (2) and (3), each reference to—
   - (i) “the revenue collection counterparty’s” were to “each revenue collection counterparty’s”;
@@ -1204,7 +1204,7 @@ Regulation 2(5)
   - (iii) “revenue collection contracts” were to “revenue collection contracts to which that revenue collection counterparty is a party”; and
 - (b) in paragraph (4), the reference to “the revenue collection counterparty” were to “a revenue collection counterparty”;
 
-**6.**[^key-dcecd0f52ab8db4ed577a09fc95d5187] Regulation 7 has effect as if—
+**6.**[^c-dcecd0f52ab8db4ed577a09fc95d5187] Regulation 7 has effect as if—
 
 - (a) in paragraphs (1) and (4), each reference to “the revenue collection counterparty” were to “each revenue collection counterparty”;
 - (b) in paragraph (2)—
@@ -1221,7 +1221,7 @@ Regulation 2(5)
   - (iii) the words “to that revenue collection counterparty” appeared after the words “must pay”; and
 - (e) in paragraphs (5) and (6), the words “to a revenue collection counterparty” appeared after the words “interim rate payment” and each reference to “the revenue collection counterparty” were to “that revenue collection counterparty”.
 
-**7.**[^key-700311c560b08d89ebd67a2c8510a67b] Regulation 8 has effect as if—
+**7.**[^c-700311c560b08d89ebd67a2c8510a67b] Regulation 8 has effect as if—
 
 - (a) in paragraph (1)—
   - (i) the words “in relation to a revenue collection counterparty” appeared after the words “regulation applies”; and
@@ -1246,14 +1246,14 @@ Regulation 2(5)
     - (bb) the words “to that revenue collection counterparty” appeared after the words “in respect of that day” in each place they appear; and
     - (cc) the reference to “the revenue collection counterparty” were to “that revenue collection counterparty”.
 
-**8.**[^key-a82c31cfb9cb50cd7c2d22bbd1265c76] Regulation 9 has effect as if—
+**8.**[^c-a82c31cfb9cb50cd7c2d22bbd1265c76] Regulation 9 has effect as if—
 
 - (a) every reference to “the revenue collection counterparty” were a reference to “a revenue collection counterparty”;
 - (b) in paragraph (1)(a), the words “by it” appeared after the words “to be collected”;
 - (c) in paragraphs (1)(b) and (3), the words “to it” appeared after the words “reserve payment”; and
 - (d) in relation to a revenue collection counterparty designated under section 16 of the Act on or after the first payment period start date there is no requirement for that revenue collection counterparty to determine a total reserve amount or the amount of each supplier’s reserve payment in respect of the first quarterly obligation period which commences after its designation, and therefore no such payments are required to be made to it in respect of that period.
 
-**9.**[^key-66f0e590e1cc6e4abb2808e71b5d7fa4] Regulation 10 has effect as if—
+**9.**[^c-66f0e590e1cc6e4abb2808e71b5d7fa4] Regulation 10 has effect as if—
 
 - (a) in paragraph (1), the first reference to “the revenue collection counterparty” were to “a revenue collection counterparty” and the second reference were to “that revenue collection counterparty;
 - (b) in paragraph (2)—
@@ -1263,9 +1263,9 @@ Regulation 2(5)
   - (i) the words “in relation to a revenue collection counterparty” appeared after the words “in respect of the relevant period”; and
   - (ii) the words “determined by that revenue collection counterparty” appeared after the words “total reserve amount for that period”.
 
-**10.**[^key-70956ef88f15b0b71d16953aa9d35813] Regulation 11 has effect as if every reference to “the revenue collection counterparty” were to “a revenue collection counterparty”.
+**10.**[^c-70956ef88f15b0b71d16953aa9d35813] Regulation 11 has effect as if every reference to “the revenue collection counterparty” were to “a revenue collection counterparty”.
 
-**11.**[^key-570084c28bde1345b2c23cdfb90e8cd0] Regulation 12 has effect as if—
+**11.**[^c-570084c28bde1345b2c23cdfb90e8cd0] Regulation 12 has effect as if—
 
 - (a) in paragraph (1)—
   - (i) the words “in relation to a revenue collection counterparty” appeared after the words “(“the rate period”)”; and
@@ -1278,7 +1278,7 @@ Regulation 2(5)
   - (i) the words “determined by a revenue collection counterparty” appeared after the words “adjusted interim levy rate”; and
   - (ii) each reference to “the revenue collection counterparty” were to “that revenue collection counterparty”.
 
-**12.**[^key-403cf4309e5a94ea293841d8a260f55c] Regulation 13 has effect as if—
+**12.**[^c-403cf4309e5a94ea293841d8a260f55c] Regulation 13 has effect as if—
 
 - (a) in paragraph (1)—
   - (i) the words “in relation to a revenue collection counterparty” appeared after the words “the quarterly obligation period” where those words appear for the first time; and
@@ -1295,14 +1295,14 @@ Regulation 2(5)
   - (i) the words “to a revenue collection counterparty” appeared after the words “additional reserve payment”; and
   - (ii) each reference to “the revenue collection counterparty” were to “that revenue collection counterparty”;
 
-**13.**[^key-59ed538112a97c37529cbafd62ec7ca1] Regulation 14 has effect as if every reference to “the revenue collection counterparty” were to “a revenue collection counterparty” except the reference in paragraph (2), and the second reference in paragraph (6), which are to “that revenue collection counterparty”.
+**13.**[^c-59ed538112a97c37529cbafd62ec7ca1] Regulation 14 has effect as if every reference to “the revenue collection counterparty” were to “a revenue collection counterparty” except the reference in paragraph (2), and the second reference in paragraph (6), which are to “that revenue collection counterparty”.
 
-**14.**[^key-2026a8c63f04f3b4839db642f8b8c16c] Regulation 15 has effect as if—
+**14.**[^c-2026a8c63f04f3b4839db642f8b8c16c] Regulation 15 has effect as if—
 
 - (a) in paragraph (1), the first reference to “the revenue collection counterparty” were to “a revenue collection counterparty” and every subsequent reference were to “that revenue collection counterparty”; and
 - (b) in paragraph (3), the first reference to “the revenue collection counterparty” were to “a revenue collection counterparty” and the other reference to it were to “that revenue collection counterparty”.
 
-**15.**[^key-334ecbe755909a13cb3cc187cf89adfd] Regulation 16 has effect as if—
+**15.**[^c-334ecbe755909a13cb3cc187cf89adfd] Regulation 16 has effect as if—
 
 - (a) in paragraph (1)—
   - (i) the words “in relation to a revenue collection counterparty” appeared after the words “by a supplier” and “for that supplier”;
@@ -1317,7 +1317,7 @@ Regulation 2(5)
   - (i) in the definition of “the supplier obligation amount”, the words “to the relevant counterparty” appeared after each instance of the words “to make”; and
   - (ii) in the definition of “the counterparty obligation amount”, each reference to “the revenue collection counterparty” were to “the relevant counterparty”.
 
-**16.**[^key-694fe35b15e4eeb5ae611693bd69b006] Regulation 17 has effect as if—
+**16.**[^c-694fe35b15e4eeb5ae611693bd69b006] Regulation 17 has effect as if—
 
 - (a) in paragraph (1), the words “to a revenue collection counterparty,” appeared after the words “make a relevant payment”;
 - (b) in paragraphs (1) and (2), the references to “the revenue collection counterparty” were to “that revenue collection counterparty”;
@@ -1331,9 +1331,9 @@ Regulation 2(5)
   - (i) the words “to a revenue collection counterparty” appeared after the words “mutualisation payment”; and
   - (ii) the reference in that paragraph to “the revenue collection counterparty” were a reference to “that revenue collection counterparty”.
 
-**17.**[^key-bdf7a847672872164a892131054d23d5] Regulation 18 has effect as if the references to “the revenue collection counterparty” in that regulation were to “a revenue collection counterparty”.
+**17.**[^c-bdf7a847672872164a892131054d23d5] Regulation 18 has effect as if the references to “the revenue collection counterparty” in that regulation were to “a revenue collection counterparty”.
 
-**18.**[^key-c319c20082ea1f9f65a2f36e8bf78017] Regulation 19 has effect as if—
+**18.**[^c-c319c20082ea1f9f65a2f36e8bf78017] Regulation 19 has effect as if—
 
 - (a) in paragraph (2)—
   - (i) the reference to “the revenue collection counterparty” were to “each revenue collection counterparty”; and
@@ -1346,14 +1346,14 @@ Regulation 2(5)
   - (iii) in subparagraphs (a) and (b), the words “in relation to that revenue collection counterparty” appeared after the words “collateral requirement”; and
 - (e) in paragraph (8), the first reference to “the revenue collection counterparty” were to “a revenue collection counterparty” and the subsequent reference were to “that revenue collection counterparty”.
 
-**19.**[^key-c6f9743900d702faee0b1b617ec18397] Regulation 20 has effect as if—
+**19.**[^c-c6f9743900d702faee0b1b617ec18397] Regulation 20 has effect as if—
 
 - (a) in paragraph (1)(b), the words “to which it is to be provided” appeared after the words “the revenue collection counterparty”;
 - (b) in paragraphs (2), (3), (5), (7) and (8), each reference to “the revenue collection counterparty” were to “a revenue collection counterparty”;
 - (c) in paragraph (5), the words “which apply to letters of credit which are to be provided to it” appeared after the words “alternative short term debt ratings”; and
 - (d) in paragraph (8), the requirement to publish a document applies to a revenue collection counterparty who was designated after the first revenue collection contract is entered into as if the reference to “before the first revenue collection contract is entered into” in that paragraph were to “as soon as reasonably practicable after that revenue collection counterparty is designated under section 16 of the Act”.
 
-**20.**[^key-a226fa9519576e124b607d381a72531d] Regulation 21 has effect as if—
+**20.**[^c-a226fa9519576e124b607d381a72531d] Regulation 21 has effect as if—
 
 - (a) in paragraphs (1), (2), (3), (4) and (5), the first reference to “the revenue collection counterparty” were to “a revenue collection counterparty” and all other references to “the revenue collection counterparty” were to “that revenue collection counterparty”; and
 - (b) the words “to that revenue collection counterparty” appeared—
@@ -1362,28 +1362,28 @@ Regulation 2(5)
   - (iii) after the words “collateral provided” in paragraph (3)(a); and
   - (iv) after the words “failed to make” in paragraph (3)(b).
 
-**21.**[^key-302e7927f44622334e6d17c14af4f6b1] Regulation 22 has effect as if—
+**21.**[^c-302e7927f44622334e6d17c14af4f6b1] Regulation 22 has effect as if—
 
 - (a) the first reference in paragraphs (1) and (2), and the reference in paragraph (3), to “the revenue collection counterparty” were to “a revenue collection counterparty” and every other reference to “the revenue collection counterparty” were to “that revenue collection counterparty”; and
 - (b) the words “in relation to that revenue collection counterparty” appeared after the words “collateral requirement” in each place those words occur.
 
-**22.**[^key-4ee2284586809fa17fe594b4fb3c992d] Regulation 23 has effect as if every reference to “the revenue collection counterparty” were to “the first revenue collection counterparty designated under section 16 of the Act”.
+**22.**[^c-4ee2284586809fa17fe594b4fb3c992d] Regulation 23 has effect as if every reference to “the revenue collection counterparty” were to “the first revenue collection counterparty designated under section 16 of the Act”.
 
-**23.**[^key-a73ad88987e4daae775507031b77db85] Regulation 24 has effect as if the references in paragraphs (1), (2) and (5), and the first reference in paragraph (3), to “the revenue collection counterparty” were to “the first revenue collection counterparty designated under section 16 of the Act” and every other reference to “the revenue collection counterparty” were to “that revenue collection counterparty”.
+**23.**[^c-a73ad88987e4daae775507031b77db85] Regulation 24 has effect as if the references in paragraphs (1), (2) and (5), and the first reference in paragraph (3), to “the revenue collection counterparty” were to “the first revenue collection counterparty designated under section 16 of the Act” and every other reference to “the revenue collection counterparty” were to “that revenue collection counterparty”.
 
-**24.**[^key-ae518eb914500750fca5e9001bae4306] Regulation 25 has effect as if—
+**24.**[^c-ae518eb914500750fca5e9001bae4306] Regulation 25 has effect as if—
 
 - (a) the first reference to “the revenue collection counterparty” in paragraphs (2), (3), (4) and (6) were to “a revenue collection counterparty” and every other reference in that regulation to “the revenue collection counterparty” were to “that revenue collection counterparty; and
 - (b) the words “to a revenue collection counterparty” appeared after the words “makes a payment” in paragraph (5).
 
-**25.**[^key-04d93c0f4406ebfef93d62099da699cd] Regulation 26 has effect as if the first reference to “the revenue collection counterparty” in paragraphs (1), (2) and (3)(c), and the reference to it in paragraph (3)(a) and (b), were to “a revenue collection counterparty” and every other reference in that regulation to “the revenue collection counterparty” were to “that revenue collection counterparty”.
+**25.**[^c-04d93c0f4406ebfef93d62099da699cd] Regulation 26 has effect as if the first reference to “the revenue collection counterparty” in paragraphs (1), (2) and (3)(c), and the reference to it in paragraph (3)(a) and (b), were to “a revenue collection counterparty” and every other reference in that regulation to “the revenue collection counterparty” were to “that revenue collection counterparty”.
 
-**26.**[^key-3ac1f304aaa3e97153bd3ee280fcb1dd] Regulation 27 has effect as if—
+**26.**[^c-3ac1f304aaa3e97153bd3ee280fcb1dd] Regulation 27 has effect as if—
 
 - (a) in paragraphs (5) and (6), the first reference to “the revenue collection counterparty” were to “a revenue collection counterparty” and each subsequent reference were to “that revenue collection counterparty”; and
 - (b) every other reference to “the revenue collection counterparty” were to “a revenue collection counterparty”.
 
-**27.**[^key-a970b9d3f9badfd9e99e9f490cfc80df] Regulation 28 has effect as if—
+**27.**[^c-a970b9d3f9badfd9e99e9f490cfc80df] Regulation 28 has effect as if—
 
 - (a) every reference in that regulation to “the revenue collection counterparty”, except the second reference in paragraph (7)(b), were a reference to “a revenue collection counterparty”;
 - (b) the words “to it” appeared—
@@ -1392,7 +1392,7 @@ Regulation 2(5)
 - (c) in paragraph (4)(b), the words “to that revenue collection counterparty” appeared after the word “liabilities”; and
 - (d) in paragraph (7)(b), the second reference to “the revenue collection counterparty” were a reference to “a revenue collection counterparty”.
 
-**28.**[^key-07fddc100a27195615d2c4d62d26e98f] Regulation 29 has effect as if—
+**28.**[^c-07fddc100a27195615d2c4d62d26e98f] Regulation 29 has effect as if—
 
 - (a) the first reference in paragraphs (1) and (6), and the reference in paragraphs (4) and (5), to “the revenue collection counterparty” were to “a revenue collection counterparty”;
 - (b) in paragraph (3)—
@@ -1401,41 +1401,41 @@ Regulation 2(5)
 - (c) every other reference to “the revenue collection counterparty” in that regulation were to “that revenue collection counterparty”; and
 - (d) in paragraph (5), the words “by that revenue collection counterparty” appeared after the words “notice issued”.
 
-**29.**[^key-680c01f40031108323843bf782da96e5] Regulation 30 has effect as if—
+**29.**[^c-680c01f40031108323843bf782da96e5] Regulation 30 has effect as if—
 
 - (a) the first reference in that regulation to “the revenue collection counterparty” were to “a revenue collection counterparty” and every other reference to “the revenue collection counterparty” in that regulation were to “that revenue collection counterparty”; and
 - (b) in paragraph (1)(b), the words “to that revenue collection counterparty” appeared after the words “liable to pay”.
 
-**30.**[^key-922f9829c3355d6c97063b476673b7b2] Regulation 31 has effect as if—
+**30.**[^c-922f9829c3355d6c97063b476673b7b2] Regulation 31 has effect as if—
 
 - (a) in paragraph (1), the first reference to “the revenue collection counterparty” were to “a revenue collection counterparty” and the second reference were to “that revenue collection counterparty”; and
 - (b) in paragraphs (2)(a), (3)(b) and (4)(a), each reference to “the revenue collection counterparty” were to “that revenue collection counterparty”.
 
-**31.**[^key-44e3f1a9b1f80f7f4dabac4eb2d918fd] Regulation 32 has effect as if—
+**31.**[^c-44e3f1a9b1f80f7f4dabac4eb2d918fd] Regulation 32 has effect as if—
 
 - (a) the reference in paragraph (1), and the first reference in paragraph (5), to “the revenue collection counterparty” were to “a revenue collection counterparty” and every other reference to “the revenue collection counterparty” in that regulation were to “that revenue collection counterparty”; and
 - (b) in paragraph (2), the words “owed to that revenue collection counterparty” appeared after each reference to “supplier”.
 
-**32.**[^key-a63ed4c2da5a6f2cca56e666f66b1b18] Regulation 33 has effect as if—
+**32.**[^c-a63ed4c2da5a6f2cca56e666f66b1b18] Regulation 33 has effect as if—
 
 - (a) in paragraph (1), the first reference to “the revenue collection counterparty” were to “the first revenue collection counterparty designated under section 16 of the Act”;
 - (b) in paragraph (2), the first reference to “the revenue collection counterparty” were to “a revenue collection counterparty”;
 - (c) in paragraph (3), the first reference to “the revenue collection counterparty” were to “the first revenue collection counterparty designated under section 16 of the Act”; and
 - (d) every other reference to “the revenue collection counterparty” were to “that revenue collection counterparty”.
 
-**33.**[^key-c6d40ef6c43051bf7c759e77748e4097] Regulation 34 has effect as if—
+**33.**[^c-c6d40ef6c43051bf7c759e77748e4097] Regulation 34 has effect as if—
 
 - (a) the first reference in paragraphs (1), (2) and (4), to “the revenue collection counterparty” were to “a revenue collection counterparty” and every other reference in paragraphs (2) and (4) to “the revenue collection counterparty” were to “that revenue collection counterparty”; and
 - (b) in paragraph (3), the words “by a revenue collection counterparty that is unable fully to meet its liabilities under, or pursuant to, a revenue collection contract” appeared after the words “which may be used”.
 
-**34.**[^key-258364a2302c7b08d5174ffabb7c991b] Regulation 39 has effect as if—
+**34.**[^c-258364a2302c7b08d5174ffabb7c991b] Regulation 39 has effect as if—
 
 - (a) in paragraph (2)(c), the reference to “the revenue collection counterparty” were to “the revenue collection counterparty to which the direction relates”; and
 - (b) in paragraphs (3) and (4), each reference to “the revenue collection counterparty” were to “the revenue collection counterparty to which the revocation notice relates”.
 
-**35.**[^key-95a01021012f940f2da20d7095798000] Regulation 40 has effect as if the reference to “the revenue collection counterparty” in paragraph (1) were to “the revenue collection counterparty that made the offer”.
+**35.**[^c-95a01021012f940f2da20d7095798000] Regulation 40 has effect as if the reference to “the revenue collection counterparty” in paragraph (1) were to “the revenue collection counterparty that made the offer”.
 
-**36.**[^key-ab3af2c5e123ae96356b541b1b1fe2e3] Regulation 42 has effect as if—
+**36.**[^c-ab3af2c5e123ae96356b541b1b1fe2e3] Regulation 42 has effect as if—
 
 - (a) in paragraphs (1), (2) and (5)—
   - (i) the first reference in each paragraph to “the revenue collection counterparty” were to “a revenue collection counterparty”;
@@ -1443,16 +1443,16 @@ Regulation 2(5)
   - (iii) each reference to “the revenue collection counterparty’s” were to “that revenue collection counterparty’s”; and
 - (b) in paragraphs (3) and (4), each reference to “the revenue collection counterparty” were to “a revenue collection counterparty”.
 
-**37.**[^key-c65a3cfd18715e5b315aa4602b2fec4a] Regulation 43 has effect as if—
+**37.**[^c-c65a3cfd18715e5b315aa4602b2fec4a] Regulation 43 has effect as if—
 
 - (a) in paragraphs (2) and (3)—
   - (i) the first reference to “the revenue collection counterparty” were to “a revenue collection counterparty” and the other reference were to “that revenue collection counterparty”; and
   - (ii) the reference to “the revenue collection counterparty’s” were to “that revenue collection counterparty’s”; and
 - (b) in paragraph (4)(a) the reference to “the revenue collection counterparty” were to “a revenue collection counterparty”.
 
-**38.**[^key-58a9bbeeb079468ccfce37e2d80f6a86] Regulations 44, 46 and 47 have effect as if each reference to “the revenue collection counterparty” were to “a revenue collection counterparty”.
+**38.**[^c-58a9bbeeb079468ccfce37e2d80f6a86] Regulations 44, 46 and 47 have effect as if each reference to “the revenue collection counterparty” were to “a revenue collection counterparty”.
 
-**39.**[^key-29575c12770946b36c415ae727625f4d] Regulation 45(2)(e) has effect as if—
+**39.**[^c-29575c12770946b36c415ae727625f4d] Regulation 45(2)(e) has effect as if—
 
 - (a) the first reference to “the revenue collection counterparty” were to “a revenue collection counterparty” and the other reference were to “that revenue collection counterparty”; and
 - (b) the reference to “the revenue collection counterparty’s” were to “that revenue collection counterparty’s”.
@@ -1585,11 +1585,11 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00002]: Footnote: The Secretary of State has not consulted any persons under section 25(1)(d) of the Act as no nuclear company is a relevant licensee nuclear company at the time that these Regulations are made.
 
-[^key-5e67e7ceec339390e2504431635e692a]: Commencement: Reg. 1 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-5e67e7ceec339390e2504431635e692a]: Commencement: Reg. 1 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-da002178d9f779ef7bab3eb86d9c5158]: Commencement: Reg. 2 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-da002178d9f779ef7bab3eb86d9c5158]: Commencement: Reg. 2 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-a93ea34133e5f0a6d005220ede045be0]: Textual amendment: Words in reg. 2(1) substituted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [38](https://www.legislation.gov.uk/uksi/2024/706/regulation/38); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
+[^c-a93ea34133e5f0a6d005220ede045be0]: Textual amendment: Words in reg. 2(1) substituted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [38](https://www.legislation.gov.uk/uksi/2024/706/regulation/38); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
 
 [^f00003]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 6 was substituted by the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), section 30. Section 6(1)(b) was substituted by the Energy Act [2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), section 136(1).
 
@@ -1599,182 +1599,182 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00006]: Footnote: The definition of “supply” in section 4(4) was substituted by the Energy Act [2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), section 179(1).
 
-[^key-b6eb54df6f99597a668bbec9a82557c6]: Commencement: Reg. 3 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-b6eb54df6f99597a668bbec9a82557c6]: Commencement: Reg. 3 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-38fe1f9dff1053679a373f7233509d93]: Commencement: Reg. 4 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-38fe1f9dff1053679a373f7233509d93]: Commencement: Reg. 4 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-02297326aef16b94c2af5b0e31014916]: Commencement: Reg. 5 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-02297326aef16b94c2af5b0e31014916]: Commencement: Reg. 5 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-062cdc826f2a15241e6493cb8f916eb0]: Commencement: Reg. 6 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-062cdc826f2a15241e6493cb8f916eb0]: Commencement: Reg. 6 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-f374cd72b0206326372ee346305281d2]: Commencement: Reg. 7 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-f374cd72b0206326372ee346305281d2]: Commencement: Reg. 7 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-06c0f4e09164f7011a02fac329a3fbb2]: Commencement: Reg. 8 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-06c0f4e09164f7011a02fac329a3fbb2]: Commencement: Reg. 8 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-15c2cad38acc8adf6b70b57edeef0042]: Commencement: Reg. 9 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-15c2cad38acc8adf6b70b57edeef0042]: Commencement: Reg. 9 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-cb275cf061a4b34bc889d26229caea12]: Commencement: Reg. 10 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-cb275cf061a4b34bc889d26229caea12]: Commencement: Reg. 10 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-9954c0de833b395c6d74417347a96fe4]: Commencement: Reg. 11 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-9954c0de833b395c6d74417347a96fe4]: Commencement: Reg. 11 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-dcce55c97d5e288f5e3a87e64e1c5bce]: Commencement: Reg. 12 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-dcce55c97d5e288f5e3a87e64e1c5bce]: Commencement: Reg. 12 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-22baa592417d569465cdee1f2d748008]: Commencement: Reg. 13 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-22baa592417d569465cdee1f2d748008]: Commencement: Reg. 13 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-0b7e9b8170011cd51d093360fff280d1]: Commencement: Reg. 14 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-0b7e9b8170011cd51d093360fff280d1]: Commencement: Reg. 14 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-34ba6830b27f60dda6bc9f97a2a420ee]: Commencement: Reg. 15 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-34ba6830b27f60dda6bc9f97a2a420ee]: Commencement: Reg. 15 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-35219c9812d971ce981b894f6f77b6f8]: Commencement: Reg. 16 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-35219c9812d971ce981b894f6f77b6f8]: Commencement: Reg. 16 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-35853f6046d31e83fd7f636384e8c448]: Commencement: Reg. 17 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-35853f6046d31e83fd7f636384e8c448]: Commencement: Reg. 17 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-92f07b7ccb6eb4cdd3fa1757b60867a4]: Commencement: Reg. 18 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-92f07b7ccb6eb4cdd3fa1757b60867a4]: Commencement: Reg. 18 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-b35279769747ff234771689e03406b3a]: Commencement: Reg. 19 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-b35279769747ff234771689e03406b3a]: Commencement: Reg. 19 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-7034b23afcb81fc5d9f60ddc57a653fb]: Commencement: Reg. 20 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-7034b23afcb81fc5d9f60ddc57a653fb]: Commencement: Reg. 20 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-875af9ecc690fae9b1483ff8fd00e95b]: Commencement: Reg. 21 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-875af9ecc690fae9b1483ff8fd00e95b]: Commencement: Reg. 21 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-8371c1a93d7e4517d3bf9f2cd72624c7]: Commencement: Reg. 22 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-8371c1a93d7e4517d3bf9f2cd72624c7]: Commencement: Reg. 22 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-59ab72421c56d0742342179afa9e5948]: Commencement: Reg. 23 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-59ab72421c56d0742342179afa9e5948]: Commencement: Reg. 23 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-c266c1494e60ae77a76424bee1d738f3]: Textual amendment: [Reg. 23(7)(a)(i)-(iv)](https://www.legislation.gov.uk/uksi/2023/254/regulation/23/7/a/i) substituted for reg. 23(7)(a)(i)-(iii) (1.4.2026) by [The Electricity Supplier Payments (Amendment) Regulations 2026 (S.I. 2026/359)](https://www.legislation.gov.uk/uksi/2026/359), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/359/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2026/359/regulation/4)
+[^c-c266c1494e60ae77a76424bee1d738f3]: Textual amendment: [Reg. 23(7)(a)(i)-(iv)](https://www.legislation.gov.uk/uksi/2023/254/regulation/23/7/a/i) substituted for reg. 23(7)(a)(i)-(iii) (1.4.2026) by [The Electricity Supplier Payments (Amendment) Regulations 2026 (S.I. 2026/359)](https://www.legislation.gov.uk/uksi/2026/359), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/359/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2026/359/regulation/4)
 
-[^key-7cc8cd18453c5a32b73d0ae8ec1e26cf]: Commencement: Reg. 24 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-7cc8cd18453c5a32b73d0ae8ec1e26cf]: Commencement: Reg. 24 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-96b876f7fe92b5308112682fa6250165]: Commencement: Reg. 25 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-96b876f7fe92b5308112682fa6250165]: Commencement: Reg. 25 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
 [^f00007]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). The definition of “regulated person” was amended by [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704), [2017/493](https://www.legislation.gov.uk/uksi/2017/493) and [2019/530](https://www.legislation.gov.uk/uksi/2019/530). The definition of “relevant requirement” was amended by [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704), [2020/96](https://www.legislation.gov.uk/uksi/2020/96) and [2020/1016](https://www.legislation.gov.uk/uksi/2020/1016). Other amendments to section 25 of the Electricity Act 1989 were made by section 54(3) of, and Schedule 10 to, the Competition Act [1998 (c. 41)](https://www.legislation.gov.uk/ukpga/1998/41); sections 3(2), 60(1) to (5) and 108 of, and Schedule 6 and 8 to, the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27); section 63(1) of, and Schedule 7 to, the Consumers, Estate Agents and Redress Act [2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17); section 51(5) of, and Schedule 14 to, the Enterprise and Regulatory Reform Act [2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24); [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704); and [S.I. 2020/96](https://www.legislation.gov.uk/uksi/2020/96).
 
-[^key-055611ef5593f1ef3b41333c7fb074a0]: Commencement: Reg. 26 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-055611ef5593f1ef3b41333c7fb074a0]: Commencement: Reg. 26 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-9be87cc275befb573bb6b5447ac0a70f]: Commencement: Reg. 27 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-9be87cc275befb573bb6b5447ac0a70f]: Commencement: Reg. 27 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-fa4e783352b0b530671522b1f11047ee]: Commencement: Reg. 28 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-fa4e783352b0b530671522b1f11047ee]: Commencement: Reg. 28 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-e332b12cb8df24a6d7ba00855a389d9f]: Commencement: Reg. 29 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-e332b12cb8df24a6d7ba00855a389d9f]: Commencement: Reg. 29 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-a3cb363f7f46999cf8969b547cff514d]: Commencement: Reg. 30 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-a3cb363f7f46999cf8969b547cff514d]: Commencement: Reg. 30 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-247d29d65e1cbda52abfa8a6c6dcea4d]: Commencement: Reg. 31 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-247d29d65e1cbda52abfa8a6c6dcea4d]: Commencement: Reg. 31 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-3ee1f17e0a9183f84e6129306ce9f44a]: Commencement: Reg. 32 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-3ee1f17e0a9183f84e6129306ce9f44a]: Commencement: Reg. 32 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-5443d7096926cc98b7dee07915a36067]: Commencement: Reg. 33 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-5443d7096926cc98b7dee07915a36067]: Commencement: Reg. 33 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-58e5c91a9d78f64b976c94dbccb7c104]: Commencement: Reg. 34 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-58e5c91a9d78f64b976c94dbccb7c104]: Commencement: Reg. 34 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-ffe930f68b4bcd89aa7f8f9e4905af7f]: Commencement: Reg. 35 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-ffe930f68b4bcd89aa7f8f9e4905af7f]: Commencement: Reg. 35 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-7210f50068a946c9854a9c44e05bcdea]: Commencement: Reg. 36 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-7210f50068a946c9854a9c44e05bcdea]: Commencement: Reg. 36 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
 [^f00008]: Footnote: [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11).
 
-[^key-f6598206c63d7f6d66bd4df475f053be]: Commencement: Reg. 37 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-f6598206c63d7f6d66bd4df475f053be]: Commencement: Reg. 37 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-0881864e52dcbcbd368809f2a8be7484]: Commencement: Reg. 38 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-0881864e52dcbcbd368809f2a8be7484]: Commencement: Reg. 38 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-66f26661efbff69f6b3c24869bb81885]: Commencement: Reg. 39 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-66f26661efbff69f6b3c24869bb81885]: Commencement: Reg. 39 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-290006022bd7b6253f81e477e2150635]: Commencement: Reg. 40 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-290006022bd7b6253f81e477e2150635]: Commencement: Reg. 40 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-7509cba65534b2eff595dbe6b5830d12]: Commencement: Reg. 41 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-7509cba65534b2eff595dbe6b5830d12]: Commencement: Reg. 41 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-1832f45583767238d53aa38cf04f97c0]: Commencement: Reg. 42 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-1832f45583767238d53aa38cf04f97c0]: Commencement: Reg. 42 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-71795bfa54390e04ff7be69b9f6a617d]: Commencement: Reg. 43 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-71795bfa54390e04ff7be69b9f6a617d]: Commencement: Reg. 43 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-e2146f4db588e680fb823cd2671b995b]: Commencement: Reg. 44 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-e2146f4db588e680fb823cd2671b995b]: Commencement: Reg. 44 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-442f3eddf66f1ac49b5cc35cc1d8a0a0]: Commencement: Reg. 45 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-442f3eddf66f1ac49b5cc35cc1d8a0a0]: Commencement: Reg. 45 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-cc7847cfcd7a3f96892a607918f0f706]: Commencement: Reg. 46 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-cc7847cfcd7a3f96892a607918f0f706]: Commencement: Reg. 46 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
 [^f00009]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 25 was amended by the Competition Act [1998 (c. 41)](https://www.legislation.gov.uk/ukpga/1998/41), section 54(3) and Schedule 10; the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), sections 3(2), 60(1) to (3) and (5), 108, Schedule 6, and Schedule 8; the Consumers, Estate Agents and Redress Act [2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), section 63(1) and Schedule 7; the Enterprise and Regulatory Reform Act [2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), section 51(5) and Schedule 14; and [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704), [2017/493](https://www.legislation.gov.uk/uksi/2017/493), [2019/530](https://www.legislation.gov.uk/uksi/2019/530), [2020/96](https://www.legislation.gov.uk/uksi/2020/96).
 
 [^f00010]: Footnote: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12). Section 3(9) has been amended by [S.I. 2019/419](https://www.legislation.gov.uk/uksi/2019/419).
 
-[^key-0b263a8ba0ed0b8624f5f9bdd0fc0276]: Commencement: Reg. 47 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-0b263a8ba0ed0b8624f5f9bdd0fc0276]: Commencement: Reg. 47 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
 [^f00011]: Footnote: [2013 c. 32](https://www.legislation.gov.uk/ukpga/2013/32).
 
-[^key-ac6cfe5261741e546eea0897a02c4bf7]: Commencement: Sch. para. 1 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-ac6cfe5261741e546eea0897a02c4bf7]: Commencement: Sch. para. 1 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-4f0533b158a08624c671deff8a103c3f]: Commencement: Sch. para. 2 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-4f0533b158a08624c671deff8a103c3f]: Commencement: Sch. para. 2 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-27bd3a3d46bfaa49ef57ad208412f71d]: Commencement: Sch. para. 3 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-27bd3a3d46bfaa49ef57ad208412f71d]: Commencement: Sch. para. 3 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-877f8e9eb41e32a50bf4ca6cb2ceb7aa]: Commencement: Sch. para. 4 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-877f8e9eb41e32a50bf4ca6cb2ceb7aa]: Commencement: Sch. para. 4 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-8da6ea2cc874cd8a309590482adc224c]: Commencement: Sch. para. 5 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-8da6ea2cc874cd8a309590482adc224c]: Commencement: Sch. para. 5 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-dcecd0f52ab8db4ed577a09fc95d5187]: Commencement: Sch. para. 6 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-dcecd0f52ab8db4ed577a09fc95d5187]: Commencement: Sch. para. 6 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-700311c560b08d89ebd67a2c8510a67b]: Commencement: Sch. para. 7 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-700311c560b08d89ebd67a2c8510a67b]: Commencement: Sch. para. 7 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-a82c31cfb9cb50cd7c2d22bbd1265c76]: Commencement: Sch. para. 8 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-a82c31cfb9cb50cd7c2d22bbd1265c76]: Commencement: Sch. para. 8 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-66f0e590e1cc6e4abb2808e71b5d7fa4]: Commencement: Sch. para. 9 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-66f0e590e1cc6e4abb2808e71b5d7fa4]: Commencement: Sch. para. 9 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-70956ef88f15b0b71d16953aa9d35813]: Commencement: Sch. para. 10 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-70956ef88f15b0b71d16953aa9d35813]: Commencement: Sch. para. 10 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-570084c28bde1345b2c23cdfb90e8cd0]: Commencement: Sch. para. 11 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-570084c28bde1345b2c23cdfb90e8cd0]: Commencement: Sch. para. 11 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-403cf4309e5a94ea293841d8a260f55c]: Commencement: Sch. para. 12 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-403cf4309e5a94ea293841d8a260f55c]: Commencement: Sch. para. 12 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-59ed538112a97c37529cbafd62ec7ca1]: Commencement: Sch. para. 13 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-59ed538112a97c37529cbafd62ec7ca1]: Commencement: Sch. para. 13 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-2026a8c63f04f3b4839db642f8b8c16c]: Commencement: Sch. para. 14 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-2026a8c63f04f3b4839db642f8b8c16c]: Commencement: Sch. para. 14 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-334ecbe755909a13cb3cc187cf89adfd]: Commencement: Sch. para. 15 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-334ecbe755909a13cb3cc187cf89adfd]: Commencement: Sch. para. 15 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-694fe35b15e4eeb5ae611693bd69b006]: Commencement: Sch. para. 16 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-694fe35b15e4eeb5ae611693bd69b006]: Commencement: Sch. para. 16 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-bdf7a847672872164a892131054d23d5]: Commencement: Sch. para. 17 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-bdf7a847672872164a892131054d23d5]: Commencement: Sch. para. 17 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-c319c20082ea1f9f65a2f36e8bf78017]: Commencement: Sch. para. 18 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-c319c20082ea1f9f65a2f36e8bf78017]: Commencement: Sch. para. 18 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-c6f9743900d702faee0b1b617ec18397]: Commencement: Sch. para. 19 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-c6f9743900d702faee0b1b617ec18397]: Commencement: Sch. para. 19 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-a226fa9519576e124b607d381a72531d]: Commencement: Sch. para. 20 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-a226fa9519576e124b607d381a72531d]: Commencement: Sch. para. 20 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-302e7927f44622334e6d17c14af4f6b1]: Commencement: Sch. para. 21 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-302e7927f44622334e6d17c14af4f6b1]: Commencement: Sch. para. 21 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-4ee2284586809fa17fe594b4fb3c992d]: Commencement: Sch. para. 22 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-4ee2284586809fa17fe594b4fb3c992d]: Commencement: Sch. para. 22 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-a73ad88987e4daae775507031b77db85]: Commencement: Sch. para. 23 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-a73ad88987e4daae775507031b77db85]: Commencement: Sch. para. 23 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-ae518eb914500750fca5e9001bae4306]: Commencement: Sch. para. 24 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-ae518eb914500750fca5e9001bae4306]: Commencement: Sch. para. 24 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-04d93c0f4406ebfef93d62099da699cd]: Commencement: Sch. para. 25 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-04d93c0f4406ebfef93d62099da699cd]: Commencement: Sch. para. 25 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-3ac1f304aaa3e97153bd3ee280fcb1dd]: Commencement: Sch. para. 26 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-3ac1f304aaa3e97153bd3ee280fcb1dd]: Commencement: Sch. para. 26 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-a970b9d3f9badfd9e99e9f490cfc80df]: Commencement: Sch. para. 27 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-a970b9d3f9badfd9e99e9f490cfc80df]: Commencement: Sch. para. 27 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-07fddc100a27195615d2c4d62d26e98f]: Commencement: Sch. para. 28 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-07fddc100a27195615d2c4d62d26e98f]: Commencement: Sch. para. 28 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-680c01f40031108323843bf782da96e5]: Commencement: Sch. para. 29 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-680c01f40031108323843bf782da96e5]: Commencement: Sch. para. 29 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-922f9829c3355d6c97063b476673b7b2]: Commencement: Sch. para. 30 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-922f9829c3355d6c97063b476673b7b2]: Commencement: Sch. para. 30 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-44e3f1a9b1f80f7f4dabac4eb2d918fd]: Commencement: Sch. para. 31 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-44e3f1a9b1f80f7f4dabac4eb2d918fd]: Commencement: Sch. para. 31 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-a63ed4c2da5a6f2cca56e666f66b1b18]: Commencement: Sch. para. 32 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-a63ed4c2da5a6f2cca56e666f66b1b18]: Commencement: Sch. para. 32 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-c6d40ef6c43051bf7c759e77748e4097]: Commencement: Sch. para. 33 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-c6d40ef6c43051bf7c759e77748e4097]: Commencement: Sch. para. 33 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-258364a2302c7b08d5174ffabb7c991b]: Commencement: Sch. para. 34 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-258364a2302c7b08d5174ffabb7c991b]: Commencement: Sch. para. 34 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-95a01021012f940f2da20d7095798000]: Commencement: Sch. para. 35 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-95a01021012f940f2da20d7095798000]: Commencement: Sch. para. 35 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-ab3af2c5e123ae96356b541b1b1fe2e3]: Commencement: Sch. para. 36 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-ab3af2c5e123ae96356b541b1b1fe2e3]: Commencement: Sch. para. 36 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-c65a3cfd18715e5b315aa4602b2fec4a]: Commencement: Sch. para. 37 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-c65a3cfd18715e5b315aa4602b2fec4a]: Commencement: Sch. para. 37 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-58a9bbeeb079468ccfce37e2d80f6a86]: Commencement: Sch. para. 38 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-58a9bbeeb079468ccfce37e2d80f6a86]: Commencement: Sch. para. 38 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
 
-[^key-29575c12770946b36c415ae727625f4d]: Commencement: Sch. para. 39 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)
+[^c-29575c12770946b36c415ae727625f4d]: Commencement: Sch. para. 39 in force at 23.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/254/regulation/1/2)

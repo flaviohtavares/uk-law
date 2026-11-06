@@ -32,7 +32,7 @@ summary: ''
 
 Civil Aviation
 
-The Air Traffic Services (Exemption) Order 2011 (revoked)[^key-40affb3c8b183e4381eeb5d7c1151418]
+The Air Traffic Services (Exemption) Order 2011 (revoked)[^c-40affb3c8b183e4381eeb5d7c1151418]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 1st April 2011
 
-[^key-40affb3c8b183e4381eeb5d7c1151418]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-40affb3c8b183e4381eeb5d7c1151418]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-40affb3c8b183e4381eeb5d7c1151418]
+## 1. Citation and commencement[^c-40affb3c8b183e4381eeb5d7c1151418]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-40affb3c8b183e4381eeb5d7c1151418]
+## 2. Interpretation[^c-40affb3c8b183e4381eeb5d7c1151418]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exemption authorising the provision of air traffic services[^key-40affb3c8b183e4381eeb5d7c1151418]
+## 3. Exemption authorising the provision of air traffic services[^c-40affb3c8b183e4381eeb5d7c1151418]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-40affb3c8b183e4381eeb5d7c1151418]
+## 4. Revocation[^c-40affb3c8b183e4381eeb5d7c1151418]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Duration of Exemption[^key-40affb3c8b183e4381eeb5d7c1151418]
+## 5. Duration of Exemption[^c-40affb3c8b183e4381eeb5d7c1151418]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-40affb3c8b183e4381eeb5d7c1151418]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-40affb3c8b183e4381eeb5d7c1151418]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-40affb3c8b183e4381eeb5d7c1151418]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-40affb3c8b183e4381eeb5d7c1151418]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-40affb3c8b183e4381eeb5d7c1151418]: Textual amendment: Order revoked (31.12.2019) by [The Air Traffic Services (Exemption) Order 2019 (S.I. 2019/1130)](https://www.legislation.gov.uk/uksi/2019/1130), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1130/article/1), [5](https://www.legislation.gov.uk/uksi/2019/1130/article/5)
+[^c-40affb3c8b183e4381eeb5d7c1151418]: Textual amendment: Order revoked (31.12.2019) by [The Air Traffic Services (Exemption) Order 2019 (S.I. 2019/1130)](https://www.legislation.gov.uk/uksi/2019/1130), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1130/article/1), [5](https://www.legislation.gov.uk/uksi/2019/1130/article/5)

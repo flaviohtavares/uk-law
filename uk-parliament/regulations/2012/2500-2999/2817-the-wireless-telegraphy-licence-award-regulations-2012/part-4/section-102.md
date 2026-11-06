@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Procedure where there is no valid assignment stage bid[^key-f59b6b244409c516eb2bd7b7e9fc4b5a]
+## 102. Procedure where there is no valid assignment stage bid[^c-f59b6b244409c516eb2bd7b7e9fc4b5a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ If a bidder does not make a valid assignment stage bid for an assignment stage o
 
 ## Annotations
 
-[^key-f59b6b244409c516eb2bd7b7e9fc4b5a]: Commencement: Reg. 102 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-f59b6b244409c516eb2bd7b7e9fc4b5a]: Commencement: Reg. 102 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

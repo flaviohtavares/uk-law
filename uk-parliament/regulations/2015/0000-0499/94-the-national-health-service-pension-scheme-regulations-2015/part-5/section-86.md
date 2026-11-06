@@ -28,10 +28,10 @@ summary: ''
 
 (2) In paragraph (1) M is subject to a relevant increase if—
 
-- (a) where M is neither a practitioner nor a non-GP provider, M's pensionable earnings in the employment (or employments) is increased (disregarding any increase in pensionable earnings resulting from the member leaving a salary sacrifice arrangement)[^key-451f8800bc0d66fd3215e617275b9462] to more than 90% of M's pensionable earnings during the period of 12 months ending with the election day;
+- (a) where M is neither a practitioner nor a non-GP provider, M's pensionable earnings in the employment (or employments) is increased (disregarding any increase in pensionable earnings resulting from the member leaving a salary sacrifice arrangement)[^c-451f8800bc0d66fd3215e617275b9462] to more than 90% of M's pensionable earnings during the period of 12 months ending with the election day;
 - (b) where M is a practitioner or a non-GP provider, the level of M's engagement in the employment is increased to more than 90% of M's pre-change level.
 
-(3) The amount of M's pension mentioned in regulation 85(2) (a) and (b)[^key-a19b47aa4a04b94724502ed7b7a87fc9] is abated to zero from the first pension day following the day on which the relevant increase occurred.
+(3) The amount of M's pension mentioned in regulation 85(2) (a) and (b)[^c-a19b47aa4a04b94724502ed7b7a87fc9] is abated to zero from the first pension day following the day on which the relevant increase occurred.
 
 (4) If, during the period of 12 months beginning with the day following election day, M enters further employment in which M is an active member—
 
@@ -59,6 +59,6 @@ N is the number of days in the period on which M was an active member.
 
 ## Annotations
 
-[^key-451f8800bc0d66fd3215e617275b9462]: Textual amendment: Words in [reg. 86(2)(a)](https://www.legislation.gov.uk/uksi/2015/94/regulation/86/2/a) inserted (1.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2024 (S.I. 2024/281)](https://www.legislation.gov.uk/uksi/2024/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2024/281/regulation/26)
+[^c-451f8800bc0d66fd3215e617275b9462]: Textual amendment: Words in [reg. 86(2)(a)](https://www.legislation.gov.uk/uksi/2015/94/regulation/86/2/a) inserted (1.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2024 (S.I. 2024/281)](https://www.legislation.gov.uk/uksi/2024/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2024/281/regulation/26)
 
-[^key-a19b47aa4a04b94724502ed7b7a87fc9]: Textual amendment: Words in [reg. 86(3)](https://www.legislation.gov.uk/uksi/2015/94/regulation/86/3) inserted (1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2023 (S.I. 2023/301)](https://www.legislation.gov.uk/uksi/2023/301), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2023/301/regulation/13)
+[^c-a19b47aa4a04b94724502ed7b7a87fc9]: Textual amendment: Words in [reg. 86(3)](https://www.legislation.gov.uk/uksi/2015/94/regulation/86/3) inserted (1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2023 (S.I. 2023/301)](https://www.legislation.gov.uk/uksi/2023/301), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2023/301/regulation/13)

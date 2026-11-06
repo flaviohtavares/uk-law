@@ -33,7 +33,7 @@ AGRICULTURE
 
 PESTICIDES
 
-Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (Amendment) (No. 2) Regulations (Northern Ireland) 2004 (revoked)[^key-620a8ecdda57985268f2ce810ad5ca5f]
+Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (Amendment) (No. 2) Regulations (Northern Ireland) 2004 (revoked)[^c-620a8ecdda57985268f2ce810ad5ca5f]
 
 Made
 
@@ -43,30 +43,30 @@ Coming into operation
 
 18th October 2004
 
-[^key-620a8ecdda57985268f2ce810ad5ca5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-620a8ecdda57985268f2ce810ad5ca5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-620a8ecdda57985268f2ce810ad5ca5f]
+## 1. Citation, commencement and interpretation[^c-620a8ecdda57985268f2ce810ad5ca5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) Regulations (Northern Ireland) 2002[^key-620a8ecdda57985268f2ce810ad5ca5f]
+## 2. Amendment to the Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) Regulations (Northern Ireland) 2002[^c-620a8ecdda57985268f2ce810ad5ca5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-620a8ecdda57985268f2ce810ad5ca5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-620a8ecdda57985268f2ce810ad5ca5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-620a8ecdda57985268f2ce810ad5ca5f]
+## SCHEDULE[^c-620a8ecdda57985268f2ce810ad5ca5f]
 
 Regulation 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-620a8ecdda57985268f2ce810ad5ca5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-620a8ecdda57985268f2ce810ad5ca5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-620a8ecdda57985268f2ce810ad5ca5f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/367) revoked (30.6.2006) by [Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) Regulations (Northern Ireland) 2006 (S.R. 2006/220)](https://www.legislation.gov.uk/nisr/2006/220), [regs. 1](https://www.legislation.gov.uk/nisr/2006/220/regulation/1), [6](https://www.legislation.gov.uk/nisr/2006/220/regulation/6), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/220/schedule/4)
+[^c-620a8ecdda57985268f2ce810ad5ca5f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/367) revoked (30.6.2006) by [Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) Regulations (Northern Ireland) 2006 (S.R. 2006/220)](https://www.legislation.gov.uk/nisr/2006/220), [regs. 1](https://www.legislation.gov.uk/nisr/2006/220/regulation/1), [6](https://www.legislation.gov.uk/nisr/2006/220/regulation/6), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/220/schedule/4)

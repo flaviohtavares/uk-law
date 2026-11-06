@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Duties about complaints procedures[^key-0e1c5a6a4237c0d14ef0fd593d0fe035][^key-4685753b5685f7942963347effdaf190]
+## 32. Duties about complaints procedures[^c-0e1c5a6a4237c0d14ef0fd593d0fe035][^c-4685753b5685f7942963347effdaf190]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 - (b) provides for appropriate action to be taken by the provider of the service in response to complaints of a relevant kind, and
 - (c) is easy to access, easy to use (including by children) and transparent.
 
-(2A)[^key-27e19418d0b1938a87c359d8eb888ae8] The duty in subsection (2) includes a duty to operate an expedited complaints procedure in relation to complaints within subsection (4)(a), (b)(i) or (b)(ii) that—
+(2A)[^c-27e19418d0b1938a87c359d8eb888ae8] The duty in subsection (2) includes a duty to operate an expedited complaints procedure in relation to complaints within subsection (4)(a), (b)(i) or (b)(ii) that—
 
 - (a) are made by users or affected persons who have made an intimate image content report (see section 31A(2)), and
 - (b) are about the search content to which the report relates.
@@ -69,8 +69,8 @@ Interpretation
 
 ## Annotations
 
-[^key-0e1c5a6a4237c0d14ef0fd593d0fe035]: Commencement: S. 32 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-0e1c5a6a4237c0d14ef0fd593d0fe035]: Commencement: S. 32 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-4685753b5685f7942963347effdaf190]: Commencement: S. 32 in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/j)
+[^c-4685753b5685f7942963347effdaf190]: Commencement: S. 32 in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/j)
 
-[^key-27e19418d0b1938a87c359d8eb888ae8]: Textual amendment: S. 32(2A) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 100(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/100/7), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)
+[^c-27e19418d0b1938a87c359d8eb888ae8]: Textual amendment: S. 32(2A) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 100(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/100/7), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)

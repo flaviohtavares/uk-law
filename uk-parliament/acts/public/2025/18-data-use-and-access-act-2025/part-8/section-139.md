@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Power to make consequential amendments[^key-8ea8a604f9104d5cac22cfa7c89a57ef]
+## 139. Power to make consequential amendments[^c-8ea8a604f9104d5cac22cfa7c89a57ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ea8a604f9104d5cac22cfa7c89a57ef]: Commencement: S. 139 in force at Royal Assent, see [s. 142(2)(g)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/g)
+[^c-8ea8a604f9104d5cac22cfa7c89a57ef]: Commencement: S. 139 in force at Royal Assent, see [s. 142(2)(g)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/g)

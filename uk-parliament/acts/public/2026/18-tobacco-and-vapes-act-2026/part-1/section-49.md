@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Crown application[^key-856aa68a09c1854838f4fb4625d57561][^key-a8b087a5a6b7b7c682aa774c3dec4989]
+## 49. Crown application[^c-856aa68a09c1854838f4fb4625d57561][^c-a8b087a5a6b7b7c682aa774c3dec4989]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-856aa68a09c1854838f4fb4625d57561]: Commencement: S. 49 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
+[^c-856aa68a09c1854838f4fb4625d57561]: Commencement: S. 49 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
 
-[^key-a8b087a5a6b7b7c682aa774c3dec4989]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2026/18/section/49) in force at 29.10.2026 in so far as not already in force, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-a8b087a5a6b7b7c682aa774c3dec4989]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2026/18/section/49) in force at 29.10.2026 in so far as not already in force, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

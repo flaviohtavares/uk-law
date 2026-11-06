@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Functions of Revenue Scotland[^key-408cbf5777670d6ce8e958ef84773b1c]
+## 3. Functions of Revenue Scotland[^c-408cbf5777670d6ce8e958ef84773b1c]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-408cbf5777670d6ce8e958ef84773b1c]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2014/16/section/3) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-408cbf5777670d6ce8e958ef84773b1c]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2014/16/section/3) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)

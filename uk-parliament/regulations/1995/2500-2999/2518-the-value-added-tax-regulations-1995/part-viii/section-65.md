@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Accounting[^key-d248841a8800a7677771caa68afc7cc4]
+## 65. Accounting[^c-d248841a8800a7677771caa68afc7cc4]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d248841a8800a7677771caa68afc7cc4]: Commencement: Reg. 65 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-d248841a8800a7677771caa68afc7cc4]: Commencement: Reg. 65 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)

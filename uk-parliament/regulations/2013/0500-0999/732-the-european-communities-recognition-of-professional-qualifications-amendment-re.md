@@ -32,7 +32,7 @@ summary: ''
 
 Professional Qualifications
 
-The European Communities (Recognition of Professional Qualifications) (Amendment) Regulations 2013 (revoked)[^key-abc2b681ae312e55e69a6e62eda99c8e]
+The European Communities (Recognition of Professional Qualifications) (Amendment) Regulations 2013 (revoked)[^c-abc2b681ae312e55e69a6e62eda99c8e]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 18th April 2013
 
-[^key-abc2b681ae312e55e69a6e62eda99c8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-abc2b681ae312e55e69a6e62eda99c8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-abc2b681ae312e55e69a6e62eda99c8e]
+## 1. Citation and commencement[^c-abc2b681ae312e55e69a6e62eda99c8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-abc2b681ae312e55e69a6e62eda99c8e]
+## 2. Amendment[^c-abc2b681ae312e55e69a6e62eda99c8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-abc2b681ae312e55e69a6e62eda99c8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-abc2b681ae312e55e69a6e62eda99c8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-abc2b681ae312e55e69a6e62eda99c8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-abc2b681ae312e55e69a6e62eda99c8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-abc2b681ae312e55e69a6e62eda99c8e]: Textual amendment: Regulations revoked (18.1.2016) by [The European Union (Recognition of Professional Qualifications) Regulations 2015 (S.I. 2015/2059)](https://www.legislation.gov.uk/uksi/2015/2059), [reg. 1](https://www.legislation.gov.uk/uksi/2015/2059/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2015/2059/schedule/6) (with [reg. 78](https://www.legislation.gov.uk/uksi/2015/2059/regulation/78))
+[^c-abc2b681ae312e55e69a6e62eda99c8e]: Textual amendment: Regulations revoked (18.1.2016) by [The European Union (Recognition of Professional Qualifications) Regulations 2015 (S.I. 2015/2059)](https://www.legislation.gov.uk/uksi/2015/2059), [reg. 1](https://www.legislation.gov.uk/uksi/2015/2059/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2015/2059/schedule/6) (with [reg. 78](https://www.legislation.gov.uk/uksi/2015/2059/regulation/78))

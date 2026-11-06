@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 288. Further provision about orders under sections 286 and 287[^key-1fe7ff4abbfc7ae0f842511d1fc5e413]
+## 288. Further provision about orders under sections 286 and 287[^c-1fe7ff4abbfc7ae0f842511d1fc5e413]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1fe7ff4abbfc7ae0f842511d1fc5e413]: Commencement: S. 288 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-1fe7ff4abbfc7ae0f842511d1fc5e413]: Commencement: S. 288 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

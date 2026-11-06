@@ -23,7 +23,7 @@ summary: ''
 (1) Subject to paragraph (4) the undertaker may—
 
 - (a) transfer to another person (“**the transferee**”) any or all of the benefit of the provisions of this Order which resides for the time being in the undertaker (including any of the numbered works) and such related statutory rights as may be agreed in writing between the undertaker and the transferee; or
-- (b) grant to another person (“**the lessee**”) for a period agreed between the undertaker and the lessee any or all of the benefit of the provisions of this Order which resides for the time being in the undertaker (including any of the numbered works) and such related statutory rights as may be so agreed in writing between[^key-4cda33cf8f29b3d1bd0df7aeff8843ab] the undertaker and lessee.
+- (b) grant to another person (“**the lessee**”) for a period agreed between the undertaker and the lessee any or all of the benefit of the provisions of this Order which resides for the time being in the undertaker (including any of the numbered works) and such related statutory rights as may be so agreed in writing between[^c-4cda33cf8f29b3d1bd0df7aeff8843ab] the undertaker and lessee.
 
 (2) Where such a transfer or grant has been made in accordance with paragraph (1) references in this Order to the undertaker, except in paragraph (3) include references to the transferee or the lessee.
 
@@ -58,7 +58,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4cda33cf8f29b3d1bd0df7aeff8843ab]: Textual amendment: Word in [art. 7(1)(b)](https://www.legislation.gov.uk/uksi/2018/1020/article/7/1/b) substituted (7.12.2018) by [The Eggborough Gas Fired Generating Station (Correction) Order 2018 (S.I. 2018/1312)](https://www.legislation.gov.uk/uksi/2018/1312), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1312/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/1312/schedule)
+[^c-4cda33cf8f29b3d1bd0df7aeff8843ab]: Textual amendment: Word in [art. 7(1)(b)](https://www.legislation.gov.uk/uksi/2018/1020/article/7/1/b) substituted (7.12.2018) by [The Eggborough Gas Fired Generating Station (Correction) Order 2018 (S.I. 2018/1312)](https://www.legislation.gov.uk/uksi/2018/1312), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1312/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/1312/schedule)
 
 [^c23401061]: Marginal citation: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29)..
 

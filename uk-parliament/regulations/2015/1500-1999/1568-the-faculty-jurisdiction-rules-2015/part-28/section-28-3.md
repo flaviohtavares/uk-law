@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 28.3. Transitional provisions[^key-50dbea7df326968fdb7da4866f78d405]
+## 28.3. Transitional provisions[^c-50dbea7df326968fdb7da4866f78d405]
 
 *Extent: E*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50dbea7df326968fdb7da4866f78d405]: Commencement: [Rule 28.3](https://www.legislation.gov.uk/uksi/2015/1568/article/28.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-50dbea7df326968fdb7da4866f78d405]: Commencement: [Rule 28.3](https://www.legislation.gov.uk/uksi/2015/1568/article/28.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

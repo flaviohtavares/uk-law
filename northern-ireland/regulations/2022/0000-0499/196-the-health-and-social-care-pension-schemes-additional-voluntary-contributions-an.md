@@ -50,7 +50,7 @@ In accordance with Article 12(1) of the Superannuation (Northern Ireland) Order 
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and effect[^key-8bf4d3bdf2ca6bfd0d1a38de2e84c4d7]
+### 1. Citation, commencement and effect[^c-8bf4d3bdf2ca6bfd0d1a38de2e84c4d7]
 
 (1) These Regulations may be cited as the Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022.
 
@@ -74,11 +74,11 @@ In accordance with Article 12(1) of the Superannuation (Northern Ireland) Order 
 
 ## PART 2 — Amendment of the Health and Personal Social Services (Superannuation) Regulations (Northern Ireland) 1995
 
-### 2. General[^key-285d0ebaa4d8afed3405e4093c4c337d]
+### 2. General[^c-285d0ebaa4d8afed3405e4093c4c337d]
 
 The Health and Personal Social Services (Superannuation) Regulations (Northern Ireland) 1995[^f00003] are amended as provided by regulations 3 to 34.
 
-### 3. Amendment of regulation 2[^key-472dee222900248da7d237261ac110ba]
+### 3. Amendment of regulation 2[^c-472dee222900248da7d237261ac110ba]
 
 (1) Regulation 2 (Interpretation) is amended as provided by paragraphs (2) and (3).
 
@@ -98,7 +98,7 @@ The Health and Personal Social Services (Superannuation) Regulations (Northern I
 
 (3) Omit the definition of “CCT”.
 
-### 4. New regulation 2C[^key-fd9517c126b514e154da98efbe398f02]
+### 4. New regulation 2C[^c-fd9517c126b514e154da98efbe398f02]
 
 After regulation 2B (Change of name of HPSS employment) insert—
 
@@ -119,7 +119,7 @@ After regulation 2B (Change of name of HPSS employment) insert—
 
 .
 
-### 5. Amendment of regulation 11A[^key-b4b8042bf3852f133d932a095f63cd55]
+### 5. Amendment of regulation 11A[^c-b4b8042bf3852f133d932a095f63cd55]
 
 (1) Regulation 11A (Further contributions by employing authorities in respect of excessive pay increases)[^f00004] is amended as provided by paragraphs (2) to (7).
 
@@ -189,7 +189,7 @@ After regulation 2B (Change of name of HPSS employment) insert—
 
 .
 
-### 6. Amendment of regulation 12[^key-65b6ba68ea58af5f20f2e75afbd4d2db]
+### 6. Amendment of regulation 12[^c-65b6ba68ea58af5f20f2e75afbd4d2db]
 
 In regulation 12 (Normal retirement pension)[^f00005], in paragraph (4) for from “consistent” to the end substitute—
 
@@ -200,7 +200,7 @@ In regulation 12 (Normal retirement pension)[^f00005], in paragraph (4) for from
 
 .
 
-### 7. Amendment of regulation 13[^key-7024ee33d8d63f876382bf1f15dd2243]
+### 7. Amendment of regulation 13[^c-7024ee33d8d63f876382bf1f15dd2243]
 
 In regulation 13 (Ill-health pension on early retirement)[^f00006], in paragraph (7) for from “consistent” to the end substitute—
 
@@ -211,7 +211,7 @@ In regulation 13 (Ill-health pension on early retirement)[^f00006], in paragraph
 
 .
 
-### 8. Amendment of regulation 13A[^key-c73cfaf44f19df8d2d2522e1b18fb7f2]
+### 8. Amendment of regulation 13A[^c-c73cfaf44f19df8d2d2522e1b18fb7f2]
 
 In regulation 13A (Early retirement pension (ill-health))[^f00007], in paragraph (7) for from “consistent” to the end substitute—
 
@@ -222,7 +222,7 @@ In regulation 13A (Early retirement pension (ill-health))[^f00007], in paragraph
 
 .
 
-### 9. Amendment of regulation 22[^key-bf2c87ebf917fe9e9307c7114f8e0d12]
+### 9. Amendment of regulation 22[^c-bf2c87ebf917fe9e9307c7114f8e0d12]
 
 In regulation 22 (Payment of lump sum)[^f00008], for paragraph (12) substitute—
 
@@ -234,7 +234,7 @@ In regulation 22 (Payment of lump sum)[^f00008], for paragraph (12) substitute�
 >   - (ii) a widower;
 >   - (iii) a civil partner.
 
-### 10. Amendment of regulation 28[^key-3d6994cc2332573bd84dd4f45c5d01d4]
+### 10. Amendment of regulation 28[^c-3d6994cc2332573bd84dd4f45c5d01d4]
 
 In regulation 28 (Member marries after leaving superannuable employment)[^f00009], in paragraph (4)—
 
@@ -242,7 +242,7 @@ In regulation 28 (Member marries after leaving superannuable employment)[^f00009
 - (b) for “nominated partner’s pension substitute “scheme partner’s pension”;
 - (c) for “nominated partner pension” substitute “surviving scheme partner’s pension”.
 
-### 11. Amendment of regulation 29[^key-80020a87a71791dc0689141f45e963f8]
+### 11. Amendment of regulation 29[^c-80020a87a71791dc0689141f45e963f8]
 
 (1) Regulation 29 (Widower’s pension)[^f00010] is amended as provided by paragraphs (2) and (3).
 
@@ -254,7 +254,7 @@ In regulation 28 (Member marries after leaving superannuable employment)[^f00009
 
 .
 
-### 12. Amendment of regulation 30[^key-78fc7d454e24b3bd84643eed4bb5930e]
+### 12. Amendment of regulation 30[^c-78fc7d454e24b3bd84643eed4bb5930e]
 
 (1) Regulation 30 (Dependent widower’s pension)[^f00011] is amended as provided by paragraphs (2) and (3).
 
@@ -266,7 +266,7 @@ In regulation 28 (Member marries after leaving superannuable employment)[^f00009
 
 .
 
-### 13. Amendment of regulation 31[^key-81ce2185ccf451cd6654b9280d651336]
+### 13. Amendment of regulation 31[^c-81ce2185ccf451cd6654b9280d651336]
 
 (1) Regulation 31 (Increased widower’s pension)[^f00012] is amended as provided by paragraphs (2) to (4).
 
@@ -280,7 +280,7 @@ In regulation 28 (Member marries after leaving superannuable employment)[^f00009
 
 .
 
-### 14. Amendment of regulation 31A[^key-34ed71b215f7e925913fa33baa574e23]
+### 14. Amendment of regulation 31A[^c-34ed71b215f7e925913fa33baa574e23]
 
 (1) Regulation 31A (Surviving civil partner’s pension)[^f00013] is amended as provided by paragraphs (2) and (3).
 
@@ -288,19 +288,19 @@ In regulation 28 (Member marries after leaving superannuable employment)[^f00009
 
 (3) Omit paragraphs (3), (4) and (5).
 
-### 15. Omission of regulation 31B[^key-71dfdbfd4e4942e3bd5e71ee9513683d]
+### 15. Omission of regulation 31B[^c-71dfdbfd4e4942e3bd5e71ee9513683d]
 
 Omit regulation 31B (dependent surviving civil partner’s pension).
 
-### 16. Omission of regulation 31C[^key-e22acb2a132d9911ab34cab9cf09f6be]
+### 16. Omission of regulation 31C[^c-e22acb2a132d9911ab34cab9cf09f6be]
 
 Omit regulation 31C (purchase of surviving civil partner’s pension in respect of service prior to 6th April 1988).
 
-### 17. Omission of regulation 31D[^key-9c6455ad6fcfd038b1eea1e21c71379b]
+### 17. Omission of regulation 31D[^c-9c6455ad6fcfd038b1eea1e21c71379b]
 
 Omit regulation 31D (Increased surviving civil partner’s pension).
 
-### 18. Amendment of regulation 31E[^key-9c4fa7c9125faaa96f131c30821481d1]
+### 18. Amendment of regulation 31E[^c-9c4fa7c9125faaa96f131c30821481d1]
 
 For regulation 31E (Surviving nominated partner’s pension)[^f00014], substitute—
 
@@ -341,7 +341,7 @@ For regulation 31E (Surviving nominated partner’s pension)[^f00014], substitut
 
 .
 
-### 19. Amendment of regulation 31F[^key-be7ffcd969aa5df751c078016c27b102]
+### 19. Amendment of regulation 31F[^c-be7ffcd969aa5df751c078016c27b102]
 
 (1) Regulation 31F (Dependent surviving nominated partner’s pension)[^f00015] is amended as provided by paragraphs (2) to (8).
 
@@ -372,7 +372,7 @@ For regulation 31E (Surviving nominated partner’s pension)[^f00014], substitut
 
 (8) In paragraph (6) for “nominated partner” substitute “scheme partner”.
 
-### 20. Amendment of regulation 31G[^key-71820d7d2014aff72e386f596ee01508]
+### 20. Amendment of regulation 31G[^c-71820d7d2014aff72e386f596ee01508]
 
 In regulation 31G (Purchase of surviving partner’s pension in respect of service before 6th April 1988)[^f00016], for paragraph (5) substitute—
 
@@ -380,7 +380,7 @@ In regulation 31G (Purchase of surviving partner’s pension in respect of servi
 
 .
 
-### 21. Amendment of regulation 31H[^key-eae8c61af03e1fabc4b7838ffee9da3d]
+### 21. Amendment of regulation 31H[^c-eae8c61af03e1fabc4b7838ffee9da3d]
 
 (1) Regulation 31H (Increased surviving partner’s pension)[^f00017]is amended as provided by paragraphs (2) and (3).
 
@@ -392,7 +392,7 @@ In regulation 31G (Purchase of surviving partner’s pension in respect of servi
 
 (3) Omit paragraph (2).
 
-### 22. Amendment of regulation 32[^key-697e3de09cc7d9337de8a2a2137f6f88]
+### 22. Amendment of regulation 32[^c-697e3de09cc7d9337de8a2a2137f6f88]
 
 In regulation 32 (Dependent child)[^f00018], in paragraph (1)—
 
@@ -403,7 +403,7 @@ In regulation 32 (Dependent child)[^f00018], in paragraph (1)—
 
   .
 
-### 23. Amendment of regulation 34[^key-a848658723e29ee23b826ad38b0c7523]
+### 23. Amendment of regulation 34[^c-a848658723e29ee23b826ad38b0c7523]
 
 (1) Regulation 34 (Member dies in pensionable employment)[^f00019] is amended as provided by paragraphs (2) to (6).
 
@@ -423,7 +423,7 @@ In regulation 32 (Dependent child)[^f00018], in paragraph (1)—
 
 (6) In paragraph (4E) for “nominated partner” substitute “scheme partner”.
 
-### 24. Amendment of regulation 35[^key-f12a8fa61de34595dbeed409d97a7f5a]
+### 24. Amendment of regulation 35[^c-f12a8fa61de34595dbeed409d97a7f5a]
 
 (1) Regulation 35 (Member dies after pension becomes payable)[^f00020] is amended as provided by paragraphs (2) to (6).
 
@@ -446,7 +446,7 @@ In regulation 32 (Dependent child)[^f00018], in paragraph (1)—
 - (a) for “surviving nominated partner’s pension” substitute “surviving scheme partner’s pension”;
 - (b) for “surviving nominated partner” substitute “surviving scheme partner”.
 
-### 25. Amendment of regulation 36[^key-74130b2a60861646327db2c0da2462ca]
+### 25. Amendment of regulation 36[^c-74130b2a60861646327db2c0da2462ca]
 
 (1) Regulation 36 (Member dies with preserved pension)[^f00021] is amended as provided by paragraphs (2) to (4).
 
@@ -459,7 +459,7 @@ In regulation 32 (Dependent child)[^f00018], in paragraph (1)—
 - (a) for “nominated partner” substitute “scheme partner”;
 - (b) for “surviving nominated partner’s pension” substitute “surviving scheme partner’s pension”.
 
-### 26. Amendment of regulation 38[^key-0ed7d76f5f71030e018151a30802c82e]
+### 26. Amendment of regulation 38[^c-0ed7d76f5f71030e018151a30802c82e]
 
 (1) Regulation 38 (Child not dependent on surviving parent or spouse of a parent)[^f00022] is amended as provided by paragraphs (2) to (4).
 
@@ -469,7 +469,7 @@ In regulation 32 (Dependent child)[^f00018], in paragraph (1)—
 
 (4) In paragraph (2) for “nominated partner” substitute “scheme partner”.
 
-### 27. Amendment of regulation 49[^key-24d5a27b9f178f1697d6d4360a1a2dc5]
+### 27. Amendment of regulation 49[^c-24d5a27b9f178f1697d6d4360a1a2dc5]
 
 In regulation 49 (Preserved pension)[^f00023], in paragraph (5), for from “consistent” to the end substitute—
 
@@ -480,7 +480,7 @@ In regulation 49 (Preserved pension)[^f00023], in paragraph (5), for from “con
 
 .
 
-### 28. Amendment of regulation 67[^key-414c95d29938ad6b2c67bc4f98d95cbc]
+### 28. Amendment of regulation 67[^c-414c95d29938ad6b2c67bc4f98d95cbc]
 
 (1) Regulation 67 (Right to buy additional service)[^f00024] is amended as provided by paragraphs (2) and (3).
 
@@ -488,7 +488,7 @@ In regulation 49 (Preserved pension)[^f00023], in paragraph (5), for from “con
 
 (3) In paragraph (5B) for “nominated partner” substitute “surviving scheme partner”.
 
-### 29. Amendment of regulation 71[^key-750a610d01ec803f7fef93832043ab51]
+### 29. Amendment of regulation 71[^c-750a610d01ec803f7fef93832043ab51]
 
 (1) Regulation 71 (Paying for unreduced retirement lump sum by single payment)[^f00025] is amended as provided by paragraphs (2) and (3).
 
@@ -499,11 +499,11 @@ In regulation 49 (Preserved pension)[^f00023], in paragraph (5), for from “con
 - (a) in each place for “nominated partner” substitute “scheme partner”;
 - (b) for “nominated partner’s pension” substitute “scheme partner’s pension”.
 
-### 30. Amendment of regulation 76[^key-d07635507ccd019b925ec5e50e7449ed]
+### 30. Amendment of regulation 76[^c-d07635507ccd019b925ec5e50e7449ed]
 
 In regulation 76 (Mental health officers)[^f00026], in paragraph (7), in sub-paragraph (b) for “nominated partner’s pension” substitute “scheme partner’s pension”.
 
-### 31. Amendment of regulation 87[^key-8c6695f7ef1c4c0d906954839690929e]
+### 31. Amendment of regulation 87[^c-8c6695f7ef1c4c0d906954839690929e]
 
 (1) Regulation 87 (Benefits on death in superannuable employment after pension under regulation 13 becomes payable)[^f00027] is amended as provided by paragraphs (2) to (6).
 
@@ -517,7 +517,7 @@ In regulation 76 (Mental health officers)[^f00026], in paragraph (7), in sub-par
 
 (6) In paragraph (12)(b) for “nominated partner pension” substitute “surviving scheme partner’s pension”.
 
-### 32. Amendment of regulation 87A[^key-1bcd4ecffd5a6e700e17f4277e76753a]
+### 32. Amendment of regulation 87A[^c-1bcd4ecffd5a6e700e17f4277e76753a]
 
 (1) Regulation 87A (Benefits on death in superannuable employment after pension under regulation 13A becomes payable)[^f00028] is amended as provided by paragraphs (2) to (7).
 
@@ -533,11 +533,11 @@ In regulation 76 (Mental health officers)[^f00026], in paragraph (7), in sub-par
 
 (7) In paragraph (15) for “nominated partner” substitute “scheme partner”.
 
-### 33. Amendment of regulation 93[^key-bc216df5da5c4e57059a049b005c2510]
+### 33. Amendment of regulation 93[^c-bc216df5da5c4e57059a049b005c2510]
 
 In regulation 93 (Loss of rights to benefits)[^f00029], in paragraph (1A) for “nominated partner” substitute “scheme partner”.
 
-### 34. Amendment to Schedule 2[^key-034982a5d7ad9a36d0fad6077da0b88b]
+### 34. Amendment to Schedule 2[^c-034982a5d7ad9a36d0fad6077da0b88b]
 
 (1) Schedule 2 (Medical and dental practitioners), is amended as provided by paragraphs (2) to (5).
 
@@ -555,11 +555,11 @@ In regulation 93 (Loss of rights to benefits)[^f00029], in paragraph (1A) for �
 
 ## PART 3 — Amendments to the Health and Social Care (Pension Scheme) Regulations (Northern Ireland) 2008
 
-### 35. General[^key-c3334e6bcb1389d97c444d70fe910f3d]
+### 35. General[^c-c3334e6bcb1389d97c444d70fe910f3d]
 
 The Health and Social Care (Pension Scheme) Regulations (Northern Ireland) 2008[^f00033] are amended as provided by regulations 36 to 56.
 
-### 36. Amendment of regulation 6[^key-20ff0a032fafff0e8cae170a1f51445e]
+### 36. Amendment of regulation 6[^c-20ff0a032fafff0e8cae170a1f51445e]
 
 In regulation 6 (Interpretation: general) for the definition of “officer” substitute—
 
@@ -571,7 +571,7 @@ In regulation 6 (Interpretation: general) for the definition of “officer” su
 
 .
 
-### 37. Amendment of regulation 52[^key-1d56bb2e1fd9b7ad4882b2994baf29ef]
+### 37. Amendment of regulation 52[^c-1d56bb2e1fd9b7ad4882b2994baf29ef]
 
 In paragraph (5) of regulation 52 (Early retirement on ill-health (active members and non-contributing members))[^f00034]—
 
@@ -584,11 +584,11 @@ In paragraph (5) of regulation 52 (Early retirement on ill-health (active member
   .
 - (b) in sub-paragraph (b), after “(a)” insert “(ii)”.
 
-### 38. Amendment of regulation 67[^key-1c49b7f7c46537b3c725822c6961b858]
+### 38. Amendment of regulation 67[^c-1c49b7f7c46537b3c725822c6961b858]
 
 In regulation 67 (Surviving adult dependants’ pensions)[^f00035], in paragraph (2), for “nominated partner” substitute “scheme partner”.
 
-### 39. Amendment of regulation 68[^key-b0ba2fbfaa25506129f8ad239ce0b7e6]
+### 39. Amendment of regulation 68[^c-b0ba2fbfaa25506129f8ad239ce0b7e6]
 
 For regulation 68 (Meaning of “**surviving nominated partner**”) substitute—
 
@@ -603,7 +603,7 @@ For regulation 68 (Meaning of “**surviving nominated partner**”) substitute�
 
 .
 
-### 40. Amendment of regulation 75[^key-5d43c6ed9b32cacef396d973668791e1]
+### 40. Amendment of regulation 75[^c-5d43c6ed9b32cacef396d973668791e1]
 
 In paragraph (2) of regulation 75 (Meaning of “**dependent child**”)[^f00036]—
 
@@ -613,7 +613,7 @@ In paragraph (2) of regulation 75 (Meaning of “**dependent child**”)[^f00036
 - (b) in sub-paragraph (e) for “nominated partner” substitute “scheme partner”;
 - (c) in sub-paragraph (f) for “nominated partner” substitute “scheme partner”.
 
-### 41. Amendment of regulation 86[^key-7a4414c81461ab539f2c041dc92e861f]
+### 41. Amendment of regulation 86[^c-7a4414c81461ab539f2c041dc92e861f]
 
 (1) Regulation 86 (Amount of lump sum: pension credit members) is amended as provided by paragraphs (2) and (3).
 
@@ -621,11 +621,11 @@ In paragraph (2) of regulation 75 (Meaning of “**dependent child**”)[^f00036
 
 (3) In paragraph (4), omit the definition of “the beginning date” and the “and” which precedes it.
 
-### 42. Amendment of regulation 130[^key-05838b70e3e6ec3b8e547e6629f4ad6f]
+### 42. Amendment of regulation 130[^c-05838b70e3e6ec3b8e547e6629f4ad6f]
 
 In regulation 130 (Forfeiture of rights to benefits)[^f00037], in paragraph (5)(a), for “nominated partner” substitute “surviving scheme partner”.
 
-### 43. Amendment of regulation 136[^key-ed873acf0e7e11dee56a25289bcd9394]
+### 43. Amendment of regulation 136[^c-ed873acf0e7e11dee56a25289bcd9394]
 
 For paragraph (2) of regulation 136 (Employing authority and certain member record keeping and contribution estimates) substitute—
 
@@ -633,15 +633,15 @@ For paragraph (2) of regulation 136 (Employing authority and certain member reco
 
 .
 
-### 44. Amendment of regulation 136T[^key-ac42eadbc3e3843da50b44b5bd9dd755]
+### 44. Amendment of regulation 136T[^c-ac42eadbc3e3843da50b44b5bd9dd755]
 
 In paragraph (2) of regulation 136T (Nominations and notices accepted by the Department under the 1995 Regulations and Chapter 5 of this Part of these Regulations)[^f00038], omit sub-paragraph (c).
 
-### 45. Amendment of regulation 136Z[^key-896e413073c0f8362e725bab4f372876]
+### 45. Amendment of regulation 136Z[^c-896e413073c0f8362e725bab4f372876]
 
 In paragraph (2) of regulation 136Z (Nominations and notices accepted by the Department under the 1995 Regulations to apply under Chapter 5 of this Part of these Regulations)[^f00039], omit sub-paragraph (c).
 
-### 46. Amendment of regulation 137[^key-f2c5da3756b62e187a7a67a0397c7955]
+### 46. Amendment of regulation 137[^c-f2c5da3756b62e187a7a67a0397c7955]
 
 In regulation 137 (Interpretation of part 3: general) for the definition of “officer” substitute—
 
@@ -653,11 +653,11 @@ In regulation 137 (Interpretation of part 3: general) for the definition of “o
 
 .
 
-### 47. Amendment of regulation 161[^key-4493bf89c1dec9c141aac4a19e1cf6d2]
+### 47. Amendment of regulation 161[^c-4493bf89c1dec9c141aac4a19e1cf6d2]
 
 In paragraph (8) of regulation 161 (Member’s contribution rate)[^f00040], for “NDPS is the number of days of dentist performer service from the date the dentist performer service is commenced in the scheme year to the end of the scheme year”, substitute “NDPS is the number of days of dentist performer’s service in the scheme year”.
 
-### 48. Amendment of regulation 182[^key-95e18c80c616d147b42487b5e47ea464]
+### 48. Amendment of regulation 182[^c-95e18c80c616d147b42487b5e47ea464]
 
 (1) Regulation 182 (Early retirement on ill-health (Active members and non-contributing members))[^f00041] is amended as provided by paragraphs (2) and (3).
 
@@ -677,11 +677,11 @@ In paragraph (8) of regulation 161 (Member’s contribution rate)[^f00040], for 
 - (a) for “If the member’s pensionable service includes both officer service and practitioner service—” substitute “If a member is entitled to have the member’s pensionable service increased by the enhancement period—”;
 - (b) in sub-paragraph (b), after “(under Part 2)” insert “, if any,”.
 
-### 49. Amendment of regulation 194[^key-b2568ccedbc5b83779ddc1377693b360]
+### 49. Amendment of regulation 194[^c-b2568ccedbc5b83779ddc1377693b360]
 
 In regulation 194 (Surviving adult dependants’ pensions)[^f00042], in paragraph (2) for “nominated partner” substitute “scheme partner”.
 
-### 50. Amendment of regulation 195[^key-e8639822ada2da2983c13cc7f97b5017]
+### 50. Amendment of regulation 195[^c-e8639822ada2da2983c13cc7f97b5017]
 
 For regulation 195 (Meaning of “**surviving nominated partner**”) substitute—
 
@@ -696,7 +696,7 @@ For regulation 195 (Meaning of “**surviving nominated partner**”) substitute
 
 .
 
-### 51. Amendment of regulation 202[^key-4516f3fcb11d86c7957a62a76fefe47b]
+### 51. Amendment of regulation 202[^c-4516f3fcb11d86c7957a62a76fefe47b]
 
 In paragraph (2) of regulation 202 (Meaning of “**dependent child**”)[^f00043],—
 
@@ -706,7 +706,7 @@ In paragraph (2) of regulation 202 (Meaning of “**dependent child**”)[^f0004
 - (b) in sub-paragraph (e) for “nominated partner” substitute “scheme partner”;
 - (c) in sub-paragraph (f) for “nominated partner” substitute “scheme partner”.
 
-### 52. Amendment of regulation 213[^key-add4d57755169663b59fd6064723b8e7]
+### 52. Amendment of regulation 213[^c-add4d57755169663b59fd6064723b8e7]
 
 (1) Regulation 213 (Amount of lump sum: pension credit members) is amended as provided by paragraphs (2) and (3).
 
@@ -714,11 +714,11 @@ In paragraph (2) of regulation 202 (Meaning of “**dependent child**”)[^f0004
 
 (3) In paragraph (4), omit the definition of “the beginning date” and the “and” which precedes it.
 
-### 53. Amendment of regulation 254[^key-716fb725674f633710f39be3f456822e]
+### 53. Amendment of regulation 254[^c-716fb725674f633710f39be3f456822e]
 
 In regulation 254 (Forfeiture of rights to benefits)[^f00044], in paragraph (5)(a) for “nominated partner” substitute “surviving scheme partner”.
 
-### 54. Amendment of regulation 260[^key-8a78dab129c75a5a36ce50d28b201994]
+### 54. Amendment of regulation 260[^c-8a78dab129c75a5a36ce50d28b201994]
 
 (1) Regulation 260 (Employing authority and certain member record keeping and contribution estimates)[^f00045] is amended as provided by paragraphs (2) and (3).
 
@@ -730,29 +730,29 @@ In regulation 254 (Forfeiture of rights to benefits)[^f00044], in paragraph (5)(
 
 (3) In paragraph (9) for the first reference to “2 months after the end” substitute “1 month before the beginning”.
 
-### 55. Amendment of regulation 260L[^key-6acf62a57317df714dd383550fe8996c]
+### 55. Amendment of regulation 260L[^c-6acf62a57317df714dd383550fe8996c]
 
 In regulation 260L (Nominations and notices accepted by the Department under the 1995 Regulations to apply under Chapter 5 of this Part of these Regulations)[^f00046], in paragraph (2) omit sub-paragraph(c).
 
-### 56. Amendment of regulation 260Y[^key-9fbe2a1fe432400ca1cd7a36450eed78]
+### 56. Amendment of regulation 260Y[^c-9fbe2a1fe432400ca1cd7a36450eed78]
 
 In regulation 260Y (Nominations and notices accepted by the Department under the 1995 Regulations and Chapter 5 of this Part of these Regulations)[^f00047], in paragraph (2) omit sub-paragraph (c).
 
 ## PART 4 — Amendments to the Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015
 
-### 57. General[^key-50a15b3a3d24a987611801fe2e75e825]
+### 57. General[^c-50a15b3a3d24a987611801fe2e75e825]
 
 The Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015[^f00048] are amended as provided by regulations 58 to 68.
 
-### 58. Amendment to regulation 37[^key-a4de1f968b529cfafc7282f32a1a296b]
+### 58. Amendment to regulation 37[^c-a4de1f968b529cfafc7282f32a1a296b]
 
 In paragraph (3)(a) of regulation 37 (Members contributions: supplementary: medical practitioners and non-GP providers) for “NDPS is the number of days of group D service from the date the M’s service commenced in the scheme year to the end of the scheme year”, substitute “NDPS is the number of days of M’s group D service in the scheme year”.
 
-### 59. Amendment to regulation 38[^key-cb10c94d4120ea5dab18919ee6cd3275]
+### 59. Amendment to regulation 38[^c-cb10c94d4120ea5dab18919ee6cd3275]
 
 In paragraph (3)(a) of regulation 38 (Members’ contributions: supplementary: dental practitioners) for “NDPS is the number of days of dental practitioner service from the date the dental practitioner service commenced in the scheme year to the end of the scheme year”, substitute “NDPS is the number of days of dental practitioner service in the scheme year”.
 
-### 60. Amendment of regulation 112[^key-8c640e4d71fd8182580d1b245d23ca9b]
+### 60. Amendment of regulation 112[^c-8c640e4d71fd8182580d1b245d23ca9b]
 
 In regulation 112 (Surviving adult dependant pension), in paragraph (2), for sub-paragraph (c) substitute—
 
@@ -760,7 +760,7 @@ In regulation 112 (Surviving adult dependant pension), in paragraph (2), for sub
 
 .
 
-### 61. Substitution of regulation 113[^key-c612d5d721f60dd1fb95623987a488fe]
+### 61. Substitution of regulation 113[^c-c612d5d721f60dd1fb95623987a488fe]
 
 For regulation 113 (Surviving nominated partner) substitute—
 
@@ -777,7 +777,7 @@ For regulation 113 (Surviving nominated partner) substitute—
 
 .
 
-### 62. Amendment of regulation 121[^key-abfec4d0ef3e2253bf342452ed4c2261]
+### 62. Amendment of regulation 121[^c-abfec4d0ef3e2253bf342452ed4c2261]
 
 (1) Paragraph (2) of regulation 121 (Eligible child), is amended as provided by paragraphs (2) to (4).
 
@@ -790,7 +790,7 @@ For regulation 113 (Surviving nominated partner) substitute—
 
 (4) In sub-paragraph (f), in paragraph (ii), for “nominated partner” substitute “surviving scheme partner”.
 
-### 63. Amendment of regulation 134[^key-13e082110f3359eefdb4aba8f108ea40]
+### 63. Amendment of regulation 134[^c-13e082110f3359eefdb4aba8f108ea40]
 
 In regulation 134 (Application for statement of entitlement), for paragraph (3)(d) substitute—
 
@@ -798,26 +798,26 @@ In regulation 134 (Application for statement of entitlement), for paragraph (3)(
 
 .
 
-### 64. Amendment of Schedule 3[^key-3fe5e91f6940ef4e6256ee177a0979a5]
+### 64. Amendment of Schedule 3[^c-3fe5e91f6940ef4e6256ee177a0979a5]
 
 In Schedule 3 (Administrative matters), in paragraph 12(5)(a) (Forfeiture of rights to benefits), for “nominated partner” substitute “surviving scheme partner”.
 
-### 65. Amendment of Schedule 5[^key-15867638947056c8d5586c0b28032acd]
+### 65. Amendment of Schedule 5[^c-15867638947056c8d5586c0b28032acd]
 
 In Schedule 5 (Membership gateways)[^f00049], paragraph (7)(a), for “practitioner” substitute “performer”.
 
-### 66. Amendment to Schedule 10[^key-18e97d12d16121c5bae0724e82faa281]
+### 66. Amendment to Schedule 10[^c-18e97d12d16121c5bae0724e82faa281]
 
 In sub-paragraph (2)(b) of paragraph 10 of Schedule 10 (Practitioner contribution payments), for “such a deduction must be to the member’s advantage and is subject to the member’s consent” substitute “such a deduction may only be made where the Department has notified the member of an intention to do so”.
 
-### 67. Amendment of Schedule 12[^key-e059cd0d31757e7979506c0c39139fc6]
+### 67. Amendment of Schedule 12[^c-e059cd0d31757e7979506c0c39139fc6]
 
 In Schedule 12 (Lump sum on death), in paragraph 8 (Death of pension credit member)—
 
 - (a) in sub-paragraph (5)(a), omit “at the date of death”;
 - (b) in sub-paragraph (6), omit the definitions of “annual amount of pension” and “the beginning date”.
 
-### 68. Amendment of Schedule 13[^key-889df168f12cd25dd734e06264d53f1f]
+### 68. Amendment of Schedule 13[^c-889df168f12cd25dd734e06264d53f1f]
 
 In Schedule 13 (Definitions), after the expression “deferred member” in Colum 1 insert a new expression “dental performer” and for the corresponding entry in column 2 insert—
 
@@ -827,11 +827,11 @@ In Schedule 13 (Definitions), after the expression “deferred member” in Colu
 
 ## PART 5 — Amendments to the Health and Personal Social Services (Superannuation) (Additional Voluntary Contributions) Regulations (Northern Ireland) 1999
 
-### 69. General[^key-be23d60f0a40c221b72e61cc1a1394c5]
+### 69. General[^c-be23d60f0a40c221b72e61cc1a1394c5]
 
 The Health and Personal Social Services (Superannuation) (Additional Voluntary Contributions) Regulations (Northern Ireland) 1999[^f00050] are amended as provided by regulations 70 to 72.
 
-**70.**[^key-a83e5f364047539f93d67fa871898f8f][^key-be23d60f0a40c221b72e61cc1a1394c5] (1) Regulation 2 (Interpretation) is amended as provided by paragraphs (2) and (3).
+**70.**[^c-a83e5f364047539f93d67fa871898f8f][^c-be23d60f0a40c221b72e61cc1a1394c5] (1) Regulation 2 (Interpretation) is amended as provided by paragraphs (2) and (3).
 
 (2) In paragraph (1), in the definition of “dependent”[^f00051] in sub-paragraph (d), for “nominated partner” substitute “scheme partner”;
 
@@ -848,21 +848,21 @@ The Health and Personal Social Services (Superannuation) (Additional Voluntary C
 
 .
 
-### 71. Amendment of regulation 15[^key-03cc598c5366c7cfacf50f1578746eef]
+### 71. Amendment of regulation 15[^c-03cc598c5366c7cfacf50f1578746eef]
 
 In paragraph (3) of regulation 15 (Payments by the Department), in sub-paragraphs (a) and (b)[^f00053] in each place for “nominated partner” substitute “surviving scheme partner”.
 
-### 72. Amendment of Schedule 2[^key-6068d74b4576b137235d40e54402cffc]
+### 72. Amendment of Schedule 2[^c-6068d74b4576b137235d40e54402cffc]
 
 In Schedule 2 (Pension Sharing On Divorce Or Nullity Of Marriage), in paragraph 11 (Payment of lump sum on death), in sub-paragraph (2)[^f00054], in each place for “nominated partner” substitute “surviving scheme partner”.
 
 ## PART 6 — Amendments to the Health and Personal Social Services (Injury Benefits) Regulations (Northern Ireland) 2001
 
-### 73. General[^key-b4603d431afb3b0c1b5639affa90acd1]
+### 73. General[^c-b4603d431afb3b0c1b5639affa90acd1]
 
 The Health and Personal Social Services (Injury Benefits) Regulations (Northern Ireland) 2001[^f00055] are amended as provided by regulations 74 to 79.
 
-### 74. Amendment of regulation 2[^key-aa4f1f70904113a72b0164beb4f4c4a8]
+### 74. Amendment of regulation 2[^c-aa4f1f70904113a72b0164beb4f4c4a8]
 
 (1) Regulation 2 (Interpretation) is amended as provided by paragraphs (2) and (3)
 
@@ -878,7 +878,7 @@ The Health and Personal Social Services (Injury Benefits) Regulations (Northern 
 
 (3) In the definition of “surviving partner” for “nominated partner” substitute “scheme partner”.
 
-### 75. New regulations 2C and 2D[^key-9f15a58bff068ea3ae6b42c7957a00b7]
+### 75. New regulations 2C and 2D[^c-9f15a58bff068ea3ae6b42c7957a00b7]
 
 After regulation 2B (Meaning of average remuneration)[^f00056] insert—
 
@@ -897,7 +897,7 @@ After regulation 2B (Meaning of average remuneration)[^f00056] insert—
 
 .
 
-### 76. Amendment of regulation 8[^key-97dd4e6333c86c6ebc7702d4f301793a]
+### 76. Amendment of regulation 8[^c-97dd4e6333c86c6ebc7702d4f301793a]
 
 (1) Regulation 8 (Surviving partner allowances)[^f00057] is amended as provided by paragraphs (2) and (3)
 
@@ -920,25 +920,25 @@ After regulation 2B (Meaning of average remuneration)[^f00056] insert—
 
 (3) In paragraph (3A)(b), after “civil partnership” insert “with a person of the same sex”.
 
-### 77. Amendment of regulation 9[^key-eac83bbc861724b29da84b27d00abfbc]
+### 77. Amendment of regulation 9[^c-eac83bbc861724b29da84b27d00abfbc]
 
 In regulation 9 (Child’s allowance)[^f00058], in paragraph (2), in sub-paragraph (c), for “nominated partner” substitute “surviving scheme partner”.
 
-### 78. Amendment of regulation 10[^key-67ee71515d7f66b3d5a6167487be4f18]
+### 78. Amendment of regulation 10[^c-67ee71515d7f66b3d5a6167487be4f18]
 
 In regulation 10 (Dependent relative’s allowance)[^f00059], in paragraph (1), in sub-paragraph (a), for “nominated partner’s” substitute “surviving scheme partner’s”.
 
-### 79. Amendment of regulation 12[^key-307de48c06982f14cc2e815a3aef882f]
+### 79. Amendment of regulation 12[^c-307de48c06982f14cc2e815a3aef882f]
 
 In regulation 12 (Lump sum payment on death)[^f00060], in paragraph (1), in sub-paragraph (b), for “nominated partner” substitute “surviving scheme partner”.
 
 ## PART 7 — Amendments to the Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015
 
-### 80. General[^key-0a69e3b2355292527895a56d782267e3]
+### 80. General[^c-0a69e3b2355292527895a56d782267e3]
 
 The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015[^f00061] are amended as provided by regulation 81.
 
-### 81. Amendment to regulation 5[^key-91a29b2b0fd6f2b116f0e50f9344f942]
+### 81. Amendment to regulation 5[^c-91a29b2b0fd6f2b116f0e50f9344f942]
 
 In regulation 5 (Nominations, notices and declarations), in paragraph 1, in the Table—
 
@@ -949,7 +949,7 @@ In regulation 5 (Nominations, notices and declarations), in paragraph 1, in the 
 
 ## PART 8 — Miscellaneous
 
-### 82. Option to persons detrimentally affected by these Regulations[^key-8f85e7fccd4a7f90f32e6440e6bcaedd]
+### 82. Option to persons detrimentally affected by these Regulations[^c-8f85e7fccd4a7f90f32e6440e6bcaedd]
 
 (1) This regulation applies in relation to any benefit which is being paid or may become payable under the regulations amended by these Regulations to or in respect of a person who—
 
@@ -992,127 +992,127 @@ In exercise of the powers conferred by Article 14(1) of the Superannuation (Nort
 
 [^f00002]: Footnote: [2014 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2014/2)
 
-[^key-8bf4d3bdf2ca6bfd0d1a38de2e84c4d7]: Commencement: Reg. 1 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-8bf4d3bdf2ca6bfd0d1a38de2e84c4d7]: Commencement: Reg. 1 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
-[^key-285d0ebaa4d8afed3405e4093c4c337d]: Commencement: Reg. 2 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-285d0ebaa4d8afed3405e4093c4c337d]: Commencement: Reg. 2 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00003]: Footnote: [S.R. 1995 No.95](https://www.legislation.gov.uk/nisr/1995/95) as amended by S.R. 1997 Nos.[217](https://www.legislation.gov.uk/nisr/1997/217) and [390](https://www.legislation.gov.uk/nisr/1997/390); [S.R. 1998 No.299](https://www.legislation.gov.uk/nisr/1998/299); [S.R. 1999 No.293](https://www.legislation.gov.uk/nisr/1999/293); [S.R. 2002 No.69](https://www.legislation.gov.uk/nisr/2002/69); S.R. 2004 Nos.[103](https://www.legislation.gov.uk/nisr/2004/103) and [104](https://www.legislation.gov.uk/nisr/2004/104); S.R. 2005 Nos.[155](https://www.legislation.gov.uk/nisr/2005/155), [533](https://www.legislation.gov.uk/nisr/2005/533), [534](https://www.legislation.gov.uk/nisr/2005/534) and [565](https://www.legislation.gov.uk/nisr/2005/565); S.R. 2006 Nos.[159](https://www.legislation.gov.uk/nisr/2006/159) and [410](https://www.legislation.gov.uk/nisr/2006/410); S.R. 2008 Nos.[96](https://www.legislation.gov.uk/nisr/2008/96), [130](https://www.legislation.gov.uk/nisr/2008/130) and [163](https://www.legislation.gov.uk/nisr/2008/163); S.R. 2009 Nos.[65](https://www.legislation.gov.uk/nisr/2009/65) and [188](https://www.legislation.gov.uk/nisr/2009/188); S.R. 2010 Nos.[22](https://www.legislation.gov.uk/nisr/2010/22), [286](https://www.legislation.gov.uk/nisr/2010/286) and [420](https://www.legislation.gov.uk/nisr/2010/420); [S.R. 2011 No.256](https://www.legislation.gov.uk/nisr/2011/256); S.R. 2012 Nos.[42](https://www.legislation.gov.uk/nisr/2012/42) and [78](https://www.legislation.gov.uk/nisr/2012/78); S.R. 2013 Nos.[40](https://www.legislation.gov.uk/nisr/2013/40), [73](https://www.legislation.gov.uk/nisr/2013/73), [247](https://www.legislation.gov.uk/nisr/2013/247) and [259](https://www.legislation.gov.uk/nisr/2013/259); S.R. 2014 Nos.[59](https://www.legislation.gov.uk/nisr/2014/59) and [225](https://www.legislation.gov.uk/nisr/2014/225); S.R. 2015 Nos.[56](https://www.legislation.gov.uk/nisr/2015/56), [121](https://www.legislation.gov.uk/nisr/2015/121) and [122](https://www.legislation.gov.uk/nisr/2015/122); [S.R. 2016 No.384](https://www.legislation.gov.uk/nisr/2016/384) and [S.R. 2019 No.62](https://www.legislation.gov.uk/nisr/2019/62).
 
-[^key-472dee222900248da7d237261ac110ba]: Commencement: Reg. 3 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-472dee222900248da7d237261ac110ba]: Commencement: Reg. 3 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
-[^key-fd9517c126b514e154da98efbe398f02]: Commencement: Reg. 4 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-fd9517c126b514e154da98efbe398f02]: Commencement: Reg. 4 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
-[^key-b4b8042bf3852f133d932a095f63cd55]: Commencement: Reg. 5 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-b4b8042bf3852f133d932a095f63cd55]: Commencement: Reg. 5 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00004]: Footnote: Regulation 11A was inserted by [S.R. 2015 No.121](https://www.legislation.gov.uk/nisr/2015/121), regulation 7
 
-[^key-65b6ba68ea58af5f20f2e75afbd4d2db]: Commencement: Reg. 6 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-65b6ba68ea58af5f20f2e75afbd4d2db]: Commencement: Reg. 6 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00005]: Footnote: Regulation 12 was amended by [S.R.2008 No.63](https://www.legislation.gov.uk/nisr/2008/63), regulation 9
 
-[^key-7024ee33d8d63f876382bf1f15dd2243]: Commencement: Reg. 7 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-7024ee33d8d63f876382bf1f15dd2243]: Commencement: Reg. 7 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00006]: Footnote: Regulation 13 as amended by [S.R. 1998 No.299](https://www.legislation.gov.uk/nisr/1998/299), regulation 4; [S.R. 2006 No.410](https://www.legislation.gov.uk/nisr/2006/410), regulation 5 and [S.R. 2008 No.163](https://www.legislation.gov.uk/nisr/2008/163), regulation 10
 
-[^key-c73cfaf44f19df8d2d2522e1b18fb7f2]: Commencement: Reg. 8 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-c73cfaf44f19df8d2d2522e1b18fb7f2]: Commencement: Reg. 8 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00007]: Footnote: Regulation 13A was inserted by [S.R. 2008 No.163](https://www.legislation.gov.uk/nisr/2008/163), regulation 11
 
-[^key-bf2c87ebf917fe9e9307c7114f8e0d12]: Commencement: Reg. 9 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-bf2c87ebf917fe9e9307c7114f8e0d12]: Commencement: Reg. 9 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00008]: Footnote: Regulation 22 was substituted by [S.R. 2008 No.163](https://www.legislation.gov.uk/nisr/2008/163), regulation 17 and amended by [S.R. 2010 No.286](https://www.legislation.gov.uk/nisr/2010/286), regulation 21
 
-[^key-3d6994cc2332573bd84dd4f45c5d01d4]: Commencement: Reg. 10 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-3d6994cc2332573bd84dd4f45c5d01d4]: Commencement: Reg. 10 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00009]: Footnote: Regulation 28 as amended by [S.R. 2013 No.256](https://www.legislation.gov.uk/nisr/2013/256), regulation 6
 
-[^key-80020a87a71791dc0689141f45e963f8]: Commencement: Reg. 11 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-80020a87a71791dc0689141f45e963f8]: Commencement: Reg. 11 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00010]: Footnote: Regulation 29 as amended by [S.R. 2008 no.163](https://www.legislation.gov.uk/nisr/2008/163), regulation 23
 
-[^key-78fc7d454e24b3bd84643eed4bb5930e]: Commencement: Reg. 12 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-78fc7d454e24b3bd84643eed4bb5930e]: Commencement: Reg. 12 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00011]: Footnote: Regulation 30 as amended by [S.R. 2008 No.163](https://www.legislation.gov.uk/nisr/2008/163), regulation 24
 
-[^key-81ce2185ccf451cd6654b9280d651336]: Commencement: Reg. 13 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-81ce2185ccf451cd6654b9280d651336]: Commencement: Reg. 13 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00012]: Footnote: Regulation 31 as amended by [S.R. 2008 No.163](https://www.legislation.gov.uk/nisr/2008/163), regulation 25
 
-[^key-34ed71b215f7e925913fa33baa574e23]: Commencement: Reg. 14 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-34ed71b215f7e925913fa33baa574e23]: Commencement: Reg. 14 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00013]: Footnote: Regulation 31A was inserted by [S.R. 2005 No.533](https://www.legislation.gov.uk/nisr/2005/533), regulation 3(5)
 
-[^key-71dfdbfd4e4942e3bd5e71ee9513683d]: Commencement: Reg. 15 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-71dfdbfd4e4942e3bd5e71ee9513683d]: Commencement: Reg. 15 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
-[^key-e22acb2a132d9911ab34cab9cf09f6be]: Commencement: Reg. 16 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-e22acb2a132d9911ab34cab9cf09f6be]: Commencement: Reg. 16 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
-[^key-9c6455ad6fcfd038b1eea1e21c71379b]: Commencement: Reg. 17 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-9c6455ad6fcfd038b1eea1e21c71379b]: Commencement: Reg. 17 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
-[^key-9c4fa7c9125faaa96f131c30821481d1]: Commencement: Reg. 18 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-9c4fa7c9125faaa96f131c30821481d1]: Commencement: Reg. 18 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00014]: Footnote: Regulation 31E was inserted by [S.R. 2008 No.163](https://www.legislation.gov.uk/nisr/2008/163), regulation 29 and amended by [S.R. 2010 No.22](https://www.legislation.gov.uk/nisr/2010/22), regulation 7; [S.R. 2010 No.286](https://www.legislation.gov.uk/nisr/2010/286), regulation 10 and [S.R. 2013 No.259](https://www.legislation.gov.uk/nisr/2013/259), regulation 7
 
-[^key-be7ffcd969aa5df751c078016c27b102]: Commencement: Reg. 19 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-be7ffcd969aa5df751c078016c27b102]: Commencement: Reg. 19 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00015]: Footnote: Regulation 31F was inserted by [S.R. 2008 No.163](https://www.legislation.gov.uk/nisr/2008/163), regulation 29
 
-[^key-71820d7d2014aff72e386f596ee01508]: Commencement: Reg. 20 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-71820d7d2014aff72e386f596ee01508]: Commencement: Reg. 20 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00016]: Footnote: Regulation 31G was inserted by [S.R. 2008 No.163](https://www.legislation.gov.uk/nisr/2008/163), regulation 29
 
-[^key-eae8c61af03e1fabc4b7838ffee9da3d]: Commencement: Reg. 21 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-eae8c61af03e1fabc4b7838ffee9da3d]: Commencement: Reg. 21 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00017]: Footnote: Regulation 31H was inserted by [S.R. 2008 No.163](https://www.legislation.gov.uk/nisr/2008/163), regulation 29
 
-[^key-697e3de09cc7d9337de8a2a2137f6f88]: Commencement: Reg. 22 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-697e3de09cc7d9337de8a2a2137f6f88]: Commencement: Reg. 22 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00018]: Footnote: Regulation 32 as amended by [S.R. 1999 No.293](https://www.legislation.gov.uk/nisr/1999/293), regulation 8; [S.R. 2005 No.533](https://www.legislation.gov.uk/nisr/2005/533), regulation 3(6); [S.R. 2006 No.410](https://www.legislation.gov.uk/nisr/2006/410), regulation 11 and [S.R. 2008 No.163](https://www.legislation.gov.uk/nisr/2008/163), regulation 30
 
-[^key-a848658723e29ee23b826ad38b0c7523]: Commencement: Reg. 23 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-a848658723e29ee23b826ad38b0c7523]: Commencement: Reg. 23 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00019]: Footnote: Regulation 34 as amended by [S.R. 2005 No.533](https://www.legislation.gov.uk/nisr/2005/533), regulation 3(7); [S.R. 208 No.130](https://www.legislation.gov.uk/nisr/2008/130), regulation 3(7); [S.R. 2008 No.163](https://www.legislation.gov.uk/nisr/2008/163), regulation 31 and [S.R. 2010 No.22](https://www.legislation.gov.uk/nisr/2010/22), regulation 23
 
-[^key-f12a8fa61de34595dbeed409d97a7f5a]: Commencement: Reg. 24 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-f12a8fa61de34595dbeed409d97a7f5a]: Commencement: Reg. 24 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00020]: Footnote: Regulation 35 as amended by [S.R. 2005 No.533](https://www.legislation.gov.uk/nisr/2005/533), regulation 3(8); [S.R. 2008 No.163](https://www.legislation.gov.uk/nisr/2008/163), regulation 32; [S.R. 2009 No.188](https://www.legislation.gov.uk/nisr/2009/188), regulation 8; [S.R. 2010 No.286](https://www.legislation.gov.uk/nisr/2010/286), regulation 11 and [S.R. 2013 No.259](https://www.legislation.gov.uk/nisr/2013/259), regulation 8
 
-[^key-74130b2a60861646327db2c0da2462ca]: Commencement: Reg. 25 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-74130b2a60861646327db2c0da2462ca]: Commencement: Reg. 25 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00021]: Footnote: Regulation 36 as amended by [S.R. 2005 No.533](https://www.legislation.gov.uk/nisr/2005/533), regulation 3(9); [S.R. 2008 No.163](https://www.legislation.gov.uk/nisr/2008/163), regulation 33 and [S.R. 2009 No.65](https://www.legislation.gov.uk/nisr/2009/65), regulation 9
 
-[^key-0ed7d76f5f71030e018151a30802c82e]: Commencement: Reg. 26 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-0ed7d76f5f71030e018151a30802c82e]: Commencement: Reg. 26 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00022]: Footnote: Regulation 38 as amended by [S.R. 2005 No.533](https://www.legislation.gov.uk/nisr/2005/533), regulation 3(10) and [S.R. 2008 No.163](https://www.legislation.gov.uk/nisr/2008/163), regulation 34
 
-[^key-24d5a27b9f178f1697d6d4360a1a2dc5]: Commencement: Reg. 27 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-24d5a27b9f178f1697d6d4360a1a2dc5]: Commencement: Reg. 27 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00023]: Footnote: Regulation 49 as amended by [S.R. 2002 No.69](https://www.legislation.gov.uk/nisr/2002/69), regulation 6; [S.R. 2005 No.155](https://www.legislation.gov.uk/nisr/2005/155), regulation 5; [S.R. 2006 No.410](https://www.legislation.gov.uk/nisr/2006/410), regulation 13; [S.R. 2008 No.163](https://www.legislation.gov.uk/nisr/2008/163), regulation 38; [S.R. 2009 No.65](https://www.legislation.gov.uk/nisr/2009/65), regulation 10; [S.R. 2009 No.188](https://www.legislation.gov.uk/nisr/2009/188), regulation 9 and [S.R. 2015 No.122](https://www.legislation.gov.uk/nisr/2015/122) Schedule 2, paragraph 5
 
-[^key-414c95d29938ad6b2c67bc4f98d95cbc]: Commencement: Reg. 28 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-414c95d29938ad6b2c67bc4f98d95cbc]: Commencement: Reg. 28 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00024]: Footnote: Regulation 67 as amended by [S.R. 1998 No.299](https://www.legislation.gov.uk/nisr/1998/299), regulation 8; [S.R. 2005 No.533](https://www.legislation.gov.uk/nisr/2005/533), regulation 3(19); [S.R. 2008 No.130](https://www.legislation.gov.uk/nisr/2008/130), regulation 3(12) and [S.R. 2008 No.163](https://www.legislation.gov.uk/nisr/2008/163), regulation 45
 
-[^key-750a610d01ec803f7fef93832043ab51]: Commencement: Reg. 29 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-750a610d01ec803f7fef93832043ab51]: Commencement: Reg. 29 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00025]: Footnote: Regulation 71 as amended by [S.R. 2005 No.533](https://www.legislation.gov.uk/nisr/2005/533), regulation 3(21) and [S.R. 2008 No.163](https://www.legislation.gov.uk/nisr/2008/163), regulation 48
 
-[^key-d07635507ccd019b925ec5e50e7449ed]: Commencement: Reg. 30 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-d07635507ccd019b925ec5e50e7449ed]: Commencement: Reg. 30 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00026]: Footnote: Regulation 76 as amended by [S.R. 205 No.533](https://www.legislation.gov.uk/nisr/2005/533), regulation 3(22) and [S.R. 2008 No.163](https://www.legislation.gov.uk/nisr/2008/163), regulation 52
 
-[^key-8c6695f7ef1c4c0d906954839690929e]: Commencement: Reg. 31 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-8c6695f7ef1c4c0d906954839690929e]: Commencement: Reg. 31 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00027]: Footnote: Regulation 87 as amended by [S.R. 2005 No.533](https://www.legislation.gov.uk/nisr/2005/533), regulation 3(23); [S.R. 2008 No.130](https://www.legislation.gov.uk/nisr/2008/130), regulation 3(16); [S.R. 2008 No.163](https://www.legislation.gov.uk/nisr/2008/163), regulation 60 and [S.R. 2009 No.65](https://www.legislation.gov.uk/nisr/2009/65), regulation 16
 
-[^key-1bcd4ecffd5a6e700e17f4277e76753a]: Commencement: Reg. 32 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-1bcd4ecffd5a6e700e17f4277e76753a]: Commencement: Reg. 32 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00028]: Footnote: Regulation 87A was inserted by [S.R. 2008 No.163](https://www.legislation.gov.uk/nisr/2008/163), regulation 61 and amended by [S.R. 2009 No.65](https://www.legislation.gov.uk/nisr/2009/65), regulation 17
 
-[^key-bc216df5da5c4e57059a049b005c2510]: Commencement: Reg. 33 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-bc216df5da5c4e57059a049b005c2510]: Commencement: Reg. 33 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00029]: Footnote: Regulation 93 as amended by [S.R. 2005 No.155](https://www.legislation.gov.uk/nisr/2005/155), regulation 9; [S.R. 2005 No.533](https://www.legislation.gov.uk/nisr/2005/533), regulation 3(24) and [S.R. 2009 No.65](https://www.legislation.gov.uk/nisr/2009/65), regulation 19
 
-[^key-034982a5d7ad9a36d0fad6077da0b88b]: Commencement: Reg. 34 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-034982a5d7ad9a36d0fad6077da0b88b]: Commencement: Reg. 34 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00030]: Footnote: Paragraph (2K) was substituted by [S.R. 2009 No.188](https://www.legislation.gov.uk/nisr/2009/188) and amended by [S.R. 2010 No.420](https://www.legislation.gov.uk/nisr/2010/420), regulation 8(4)
 
@@ -1120,156 +1120,156 @@ In exercise of the powers conferred by Article 14(1) of the Superannuation (Nort
 
 [^f00032]: Footnote: Paragraph 23 was substituted by [S.R. 2009 No.188](https://www.legislation.gov.uk/nisr/2009/188), regulation 11(3) and amended by [S.R. 2009 No.65](https://www.legislation.gov.uk/nisr/2009/65), regulation 20(5); [S.R. 2012 No.42](https://www.legislation.gov.uk/nisr/2012/42), regulation 10(4) and [S.R. 2014 No.225](https://www.legislation.gov.uk/nisr/2014/225), regulation 6(5)
 
-[^key-c3334e6bcb1389d97c444d70fe910f3d]: Commencement: Reg. 35 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-c3334e6bcb1389d97c444d70fe910f3d]: Commencement: Reg. 35 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00033]: Footnote: [S.R. 2008 No.256](https://www.legislation.gov.uk/nisr/2008/256) as amended by S.R. 2009 Nos.[65](https://www.legislation.gov.uk/nisr/2009/65) and [188](https://www.legislation.gov.uk/nisr/2009/288); S.R. 2010 Nos.[22](https://www.legislation.gov.uk/nisr/2010/22), [286](https://www.legislation.gov.uk/nisr/2010/286) and [420](https://www.legislation.gov.uk/nisr/2010/420); [S.R. 2011 No.256](https://www.legislation.gov.uk/nisr/2011/256); S.R. 2012 Nos.[42](https://www.legislation.gov.uk/nisr/2012/42) and [78](https://www.legislation.gov.uk/nisr/2012/78); S.R. 2013 Nos.[40](https://www.legislation.gov.uk/nisr/2013/40), [73](https://www.legislation.gov.uk/nisr/2013/73), [247](https://www.legislation.gov.uk/nisr/2013/247) and [259](https://www.legislation.gov.uk/nisr/2013/259); S.R. 2014 Nos.[59](https://www.legislation.gov.uk/nisr/2014/59) and [225](https://www.legislation.gov.uk/nisr/2014/225); S.R. 2015 Nos.[56](https://www.legislation.gov.uk/nisr/2015/56), [121](https://www.legislation.gov.uk/nisr/2015/121) and [122](https://www.legislation.gov.uk/nisr/2015/122); [S.R. 2016 No.384](https://www.legislation.gov.uk/nisr/2016/384) and [S.R. 2019 No.62](https://www.legislation.gov.uk/nisr/2019/62)
 
-[^key-20ff0a032fafff0e8cae170a1f51445e]: Commencement: Reg. 36 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-20ff0a032fafff0e8cae170a1f51445e]: Commencement: Reg. 36 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
-[^key-1d56bb2e1fd9b7ad4882b2994baf29ef]: Commencement: Reg. 37 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-1d56bb2e1fd9b7ad4882b2994baf29ef]: Commencement: Reg. 37 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00034]: Footnote: Regulation 52 as amended by [S.R. 2008 No.188](https://www.legislation.gov.uk/nisr/2008/188) , regulation 26; [S.R. 2010 No.22](https://www.legislation.gov.uk/nisr/2010/22), regulation 32 and [S.R. 2010 No.286](https://www.legislation.gov.uk/nisr/2010/286), regulation 24
 
-[^key-1c49b7f7c46537b3c725822c6961b858]: Commencement: Reg. 38 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-1c49b7f7c46537b3c725822c6961b858]: Commencement: Reg. 38 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00035]: Footnote: Regulation 67 as amended by [S.R. 2009 No.188](https://www.legislation.gov.uk/nisr/2009/188), regulation 34
 
-[^key-b0ba2fbfaa25506129f8ad239ce0b7e6]: Commencement: Reg. 39 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-b0ba2fbfaa25506129f8ad239ce0b7e6]: Commencement: Reg. 39 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
-[^key-5d43c6ed9b32cacef396d973668791e1]: Commencement: Reg. 40 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-5d43c6ed9b32cacef396d973668791e1]: Commencement: Reg. 40 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00036]: Footnote: Regulation 75 as amended by [S.R. 2012 No.42](https://www.legislation.gov.uk/nisr/2012/42), regulation 16
 
-[^key-7a4414c81461ab539f2c041dc92e861f]: Commencement: Reg. 41 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-7a4414c81461ab539f2c041dc92e861f]: Commencement: Reg. 41 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
-[^key-05838b70e3e6ec3b8e547e6629f4ad6f]: Commencement: Reg. 42 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-05838b70e3e6ec3b8e547e6629f4ad6f]: Commencement: Reg. 42 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00037]: Footnote: Regulation 130 as amended by [S.R. 2009 No.65](https://www.legislation.gov.uk/nisr/2009/65). regulation 49
 
-[^key-ed873acf0e7e11dee56a25289bcd9394]: Commencement: Reg. 43 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-ed873acf0e7e11dee56a25289bcd9394]: Commencement: Reg. 43 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
-[^key-ac42eadbc3e3843da50b44b5bd9dd755]: Commencement: Reg. 44 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-ac42eadbc3e3843da50b44b5bd9dd755]: Commencement: Reg. 44 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00038]: Footnote: Regulation 136T was inserted by [S.R. 2010 No.22](https://www.legislation.gov.uk/nisr/2010/22), regulation 55
 
-[^key-896e413073c0f8362e725bab4f372876]: Commencement: Reg. 45 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-896e413073c0f8362e725bab4f372876]: Commencement: Reg. 45 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00039]: Footnote: Regulation 136Z was inserted by [S.R. 2010 No.286](https://www.legislation.gov.uk/nisr/2010/286), regulation 34
 
-[^key-f2c5da3756b62e187a7a67a0397c7955]: Commencement: Reg. 46 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-f2c5da3756b62e187a7a67a0397c7955]: Commencement: Reg. 46 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
-[^key-4493bf89c1dec9c141aac4a19e1cf6d2]: Commencement: Reg. 47 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-4493bf89c1dec9c141aac4a19e1cf6d2]: Commencement: Reg. 47 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00040]: Footnote: Regulation 161 was substituted by [S.R. 2009 No.188](https://www.legislation.gov.uk/nisr/2009/188), regulation 52
 
-[^key-95e18c80c616d147b42487b5e47ea464]: Commencement: Reg. 48 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-95e18c80c616d147b42487b5e47ea464]: Commencement: Reg. 48 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00041]: Footnote: Regulation 182 as amended by [S.R. 2009 No.188](https://www.legislation.gov.uk/nisr/2009/188), regulation 57; [S.R. 2010 No.22](https://www.legislation.gov.uk/nisr/2010/22), regulation 73 and [S.R. 2010 No.286](https://www.legislation.gov.uk/nisr/2010/286), regulation 41
 
-[^key-b2568ccedbc5b83779ddc1377693b360]: Commencement: Reg. 49 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-b2568ccedbc5b83779ddc1377693b360]: Commencement: Reg. 49 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00042]: Footnote: Regulation 194 as amended by [S.R. 2009 No.188](https://www.legislation.gov.uk/nisr/2009/188), regulation 63
 
-[^key-e8639822ada2da2983c13cc7f97b5017]: Commencement: Reg. 50 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-e8639822ada2da2983c13cc7f97b5017]: Commencement: Reg. 50 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
-[^key-4516f3fcb11d86c7957a62a76fefe47b]: Commencement: Reg. 51 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-4516f3fcb11d86c7957a62a76fefe47b]: Commencement: Reg. 51 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00043]: Footnote: Regulation 202 as amended by [S.R. 2012 No.42](https://www.legislation.gov.uk/nisr/2012/42), regulation 26
 
-[^key-add4d57755169663b59fd6064723b8e7]: Commencement: Reg. 52 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-add4d57755169663b59fd6064723b8e7]: Commencement: Reg. 52 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
-[^key-716fb725674f633710f39be3f456822e]: Commencement: Reg. 53 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-716fb725674f633710f39be3f456822e]: Commencement: Reg. 53 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00044]: Footnote: Regulation 254 as amended by [S.R. 2009 No.65](https://www.legislation.gov.uk/nisr/2009/65), regulation 78
 
-[^key-8a78dab129c75a5a36ce50d28b201994]: Commencement: Reg. 54 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-8a78dab129c75a5a36ce50d28b201994]: Commencement: Reg. 54 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00045]: Footnote: Regulation 260 was substituted by [S.R. 2009 No.188](https://www.legislation.gov.uk/nisr/2009/188), regulation 78 and amended by [S.R. 2012 No.42](https://www.legislation.gov.uk/nisr/2012/42), regulation 30
 
-[^key-6acf62a57317df714dd383550fe8996c]: Commencement: Reg. 55 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-6acf62a57317df714dd383550fe8996c]: Commencement: Reg. 55 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00046]: Footnote: Regulation 260L was inserted by [S.R. 2010 no.22](https://www.legislation.gov.uk/nisr/2010/22), regulation 96
 
-[^key-9fbe2a1fe432400ca1cd7a36450eed78]: Commencement: Reg. 56 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-9fbe2a1fe432400ca1cd7a36450eed78]: Commencement: Reg. 56 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00047]: Footnote: Regulation 260Y was inserted by [S.R. 2010 No.286](https://www.legislation.gov.uk/nisr/2010/286), regulation 51
 
-[^key-50a15b3a3d24a987611801fe2e75e825]: Commencement: Reg. 57 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-50a15b3a3d24a987611801fe2e75e825]: Commencement: Reg. 57 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00048]: Footnote: [S.R. 2015 No.120](https://www.legislation.gov.uk/nisr/2015/120) as amended by [S.R. 2016 No.384](https://www.legislation.gov.uk/nisr/2016/384) and [S.R 2019 No.62](https://www.legislation.gov.uk/nisr/2019/62),
 
-[^key-a4de1f968b529cfafc7282f32a1a296b]: Commencement: Reg. 58 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-a4de1f968b529cfafc7282f32a1a296b]: Commencement: Reg. 58 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
-[^key-cb10c94d4120ea5dab18919ee6cd3275]: Commencement: Reg. 59 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-cb10c94d4120ea5dab18919ee6cd3275]: Commencement: Reg. 59 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
-[^key-8c640e4d71fd8182580d1b245d23ca9b]: Commencement: Reg. 60 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-8c640e4d71fd8182580d1b245d23ca9b]: Commencement: Reg. 60 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
-[^key-c612d5d721f60dd1fb95623987a488fe]: Commencement: Reg. 61 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-c612d5d721f60dd1fb95623987a488fe]: Commencement: Reg. 61 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
-[^key-abfec4d0ef3e2253bf342452ed4c2261]: Commencement: Reg. 62 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-abfec4d0ef3e2253bf342452ed4c2261]: Commencement: Reg. 62 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
-[^key-13e082110f3359eefdb4aba8f108ea40]: Commencement: Reg. 63 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-13e082110f3359eefdb4aba8f108ea40]: Commencement: Reg. 63 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
-[^key-3fe5e91f6940ef4e6256ee177a0979a5]: Commencement: Reg. 64 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-3fe5e91f6940ef4e6256ee177a0979a5]: Commencement: Reg. 64 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
-[^key-15867638947056c8d5586c0b28032acd]: Commencement: Reg. 65 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-15867638947056c8d5586c0b28032acd]: Commencement: Reg. 65 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00049]: Footnote: Schedule 5 as amended by [S.R. 2016 No.384](https://www.legislation.gov.uk/nisr/2016/384), regulation 13
 
-[^key-18e97d12d16121c5bae0724e82faa281]: Commencement: Reg. 66 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-18e97d12d16121c5bae0724e82faa281]: Commencement: Reg. 66 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
-[^key-e059cd0d31757e7979506c0c39139fc6]: Commencement: Reg. 67 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-e059cd0d31757e7979506c0c39139fc6]: Commencement: Reg. 67 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
-[^key-889df168f12cd25dd734e06264d53f1f]: Commencement: Reg. 68 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-889df168f12cd25dd734e06264d53f1f]: Commencement: Reg. 68 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
-[^key-be23d60f0a40c221b72e61cc1a1394c5]: Commencement: Reg. 69 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-be23d60f0a40c221b72e61cc1a1394c5]: Commencement: Reg. 69 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00050]: Footnote: [S.R. 1999 No.294](https://www.legislation.gov.uk/nisr/1999/294) as amended by [S.R. 2002 No.129](https://www.legislation.gov.uk/nisr/2002/129); [S.R. 2004 No.104](https://www.legislation.gov.uk/nisr/2004/104); S.R. 2005 Nos.[154](https://www.legislation.gov.uk/nisr/2005/154) and [533](https://www.legislation.gov.uk/nisr/2005/533); [S.R. 2006 No.470](https://www.legislation.gov.uk/nisr/2006/470); S.R. 2008 Nos.[130](https://www.legislation.gov.uk/nisr/2008/130) and [350](https://www.legislation.gov.uk/nisr/2008/350); S.R. 2010 Nos.[22](https://www.legislation.gov.uk/nisr/2010/22) and [286](https://www.legislation.gov.uk/nisr/2010/286); [S.R. 2012 No.42](https://www.legislation.gov.uk/nisr/2012/42); [S.R. 2013 No.259](https://www.legislation.gov.uk/nisr/2013/259) and [S.R. 2015 No.121](https://www.legislation.gov.uk/nisr/2015/121)
 
-[^key-a83e5f364047539f93d67fa871898f8f]: Commencement: Reg. 70 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-a83e5f364047539f93d67fa871898f8f]: Commencement: Reg. 70 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00051]: Footnote: This definition was inserted by [S.R. 2008 No.350](https://www.legislation.gov.uk/nisr/2008/350), regulation 2(2)(b) and amended by [S.R. 2015 No.121](https://www.legislation.gov.uk/nisr/2015/121), regulation 49(2)(d)
 
 [^f00052]: Footnote: Paragraphs (1A) to (1C) were inserted by [S.R. 2015 No.121](https://www.legislation.gov.uk/nisr/2015/121), regulation 49(3)
 
-[^key-03cc598c5366c7cfacf50f1578746eef]: Commencement: Reg. 71 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-03cc598c5366c7cfacf50f1578746eef]: Commencement: Reg. 71 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00053]: Footnote: Paragraph (3) was substituted by [S.R. 2015 No.121](https://www.legislation.gov.uk/nisr/2015/121), regulation 56(3)
 
-[^key-6068d74b4576b137235d40e54402cffc]: Commencement: Reg. 72 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-6068d74b4576b137235d40e54402cffc]: Commencement: Reg. 72 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00054]: Footnote: The expression “nominated partner” was inserted by [S.R. 2008 No.350](https://www.legislation.gov.uk/nisr/2008/350), regulation 2(15)(d)
 
-[^key-b4603d431afb3b0c1b5639affa90acd1]: Commencement: Reg. 73 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-b4603d431afb3b0c1b5639affa90acd1]: Commencement: Reg. 73 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00055]: Footnote: [S.R. 2001 No.367](https://www.legislation.gov.uk/nisr/2001/367) as amended by S.R. 2005 Nos.[533](https://www.legislation.gov.uk/nisr/2005/533) and [565](https://www.legislation.gov.uk/nisr/2005/565); S.R. 2006 Nos.[159](https://www.legislation.gov.uk/nisr/2006/159) and [410](https://www.legislation.gov.uk/nisr/2006/410); S.R. 2008 Nos.[130](https://www.legislation.gov.uk/nisr/2008/130) and [350](https://www.legislation.gov.uk/nisr/2008/350); S.R. 2009 Nos.[65](https://www.legislation.gov.uk/nisr/2009/65) and [188](https://www.legislation.gov.uk/nisr/2009/188); [S.R. 2010 No.286](https://www.legislation.gov.uk/nisr/2010/286); [S.R. 2012 No.42](https://www.legislation.gov.uk/nisr/2012/42); S.R. 2013 Nos.[40](https://www.legislation.gov.uk/nisr/2013/40) and [141](https://www.legislation.gov.uk/nisr/2013/141) and [S.R. 2015 No.121](https://www.legislation.gov.uk/nisr/2015/121)
 
-[^key-aa4f1f70904113a72b0164beb4f4c4a8]: Commencement: Reg. 74 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-aa4f1f70904113a72b0164beb4f4c4a8]: Commencement: Reg. 74 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
-[^key-9f15a58bff068ea3ae6b42c7957a00b7]: Commencement: Reg. 75 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-9f15a58bff068ea3ae6b42c7957a00b7]: Commencement: Reg. 75 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00056]: Footnote: Regulation 2B was inserted by [S.R. 2015 No.121](https://www.legislation.gov.uk/nisr/2015/121), regulation 45
 
-[^key-97dd4e6333c86c6ebc7702d4f301793a]: Commencement: Reg. 76 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-97dd4e6333c86c6ebc7702d4f301793a]: Commencement: Reg. 76 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00057]: Footnote: Regulation 8 as amended by [S.R. 2005 No.533](https://www.legislation.gov.uk/nisr/2005/533), regulation 4(2) and [S.R. 2008 No.350](https://www.legislation.gov.uk/nisr/2008/350), regulation 3(6)
 
-[^key-eac83bbc861724b29da84b27d00abfbc]: Commencement: Reg. 77 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-eac83bbc861724b29da84b27d00abfbc]: Commencement: Reg. 77 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00058]: Footnote: Regulation 9 as amended by [S.R. 2005 No.533](https://www.legislation.gov.uk/nisr/2005/533), regulation 4(3); [S.R. 2008 No.350](https://www.legislation.gov.uk/nisr/2008/350), regulation 3(7) and [S.R. 2015 No.121](https://www.legislation.gov.uk/nisr/2015/121), regulation 47
 
-[^key-67ee71515d7f66b3d5a6167487be4f18]: Commencement: Reg. 78 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-67ee71515d7f66b3d5a6167487be4f18]: Commencement: Reg. 78 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00059]: Footnote: Regulation 10 as amended by [S.R. 2005 No.533](https://www.legislation.gov.uk/nisr/2005/533), regulation 4(4) and [S.R. 2008 No.350](https://www.legislation.gov.uk/nisr/2008/350), regulation 3(8)
 
-[^key-307de48c06982f14cc2e815a3aef882f]: Commencement: Reg. 79 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-307de48c06982f14cc2e815a3aef882f]: Commencement: Reg. 79 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00060]: Footnote: Regulation 12 as amended by [S.R. 2005 No.533](https://www.legislation.gov.uk/nisr/2005/533), regulation 4(5) and [S.R. 2008 No.350](https://www.legislation.gov.uk/nisr/2008/350), regulation 3(9)
 
-[^key-0a69e3b2355292527895a56d782267e3]: Commencement: Reg. 80 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-0a69e3b2355292527895a56d782267e3]: Commencement: Reg. 80 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
 [^f00061]: Footnote: [S.R. 2015 No.122](https://www.legislation.gov.uk/nisr/2015/122)
 
-[^key-91a29b2b0fd6f2b116f0e50f9344f942]: Commencement: Reg. 81 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-91a29b2b0fd6f2b116f0e50f9344f942]: Commencement: Reg. 81 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
 
-[^key-8f85e7fccd4a7f90f32e6440e6bcaedd]: Commencement: Reg. 82 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)
+[^c-8f85e7fccd4a7f90f32e6440e6bcaedd]: Commencement: Reg. 82 in operation at 16.8.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The employing authority of an active member of this scheme must contribute to the scheme in respect of the pensionable earnings of the member at the employing authority's standard rate: 23.7%[^key-80e4d4cd5ef95323b91e9191974786f4].
+(1) The employing authority of an active member of this scheme must contribute to the scheme in respect of the pensionable earnings of the member at the employing authority's standard rate: 23.7%[^c-80e4d4cd5ef95323b91e9191974786f4].
 
 (2) Paragraph (3) applies if—
 
@@ -47,7 +47,7 @@ Table
 | --- | --- |
 | *Nature of engagement* | *Employing authority* |
 | Employment by an NHS organisation | The NHS organisation |
-| Employment by a GMS practice, a PMS practice or an APMS contractor or OOH provider or a primary care network management company[^key-06476543d357e55301d2a2f0d01675d2] | The GMS practice, PMS practice or APMS contractor or OOH provider or a primary care network management company in question |
+| Employment by a GMS practice, a PMS practice or an APMS contractor or OOH provider or a primary care network management company[^c-06476543d357e55301d2a2f0d01675d2] | The GMS practice, PMS practice or APMS contractor or OOH provider or a primary care network management company in question |
 | Employment by a determination employer | The determination employer |
 | Employment by an independent provider | The independent provider |
 | Medical practitioner employed by a medical contractor or non-GP provider or a primary care network management company | The host Board |
@@ -64,10 +64,10 @@ Table
 
 ## Annotations
 
-[^key-80e4d4cd5ef95323b91e9191974786f4]: Textual amendment: Word in [reg. 33(1)](https://www.legislation.gov.uk/uksi/2015/94/regulation/33/1) substituted (1.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2024 (S.I. 2024/281)](https://www.legislation.gov.uk/uksi/2024/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2024/281/regulation/23)
+[^c-80e4d4cd5ef95323b91e9191974786f4]: Textual amendment: Word in [reg. 33(1)](https://www.legislation.gov.uk/uksi/2015/94/regulation/33/1) substituted (1.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2024 (S.I. 2024/281)](https://www.legislation.gov.uk/uksi/2024/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2024/281/regulation/23)
 
 [^c22361381]: Marginal citation: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41). Paragraph 29(3) of Schedule 4 was amended by section 55(1) of, and paragraphs 22(1) and (9) of Schedule 4 to, the [Health and Social Care Act 2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7).
 
 [^c22361391]: Marginal citation: [2006 c.42](https://www.legislation.gov.uk/ukpga/2006/42). Paragraph 8 of Schedule 3 was amended by section 297 of, and paragraphs 12 and 40(1) and (5) of Schedule 21 to, the Health and Social Care Act 2012.
 
-[^key-06476543d357e55301d2a2f0d01675d2]: Textual amendment: Words in [reg. 33(6)](https://www.legislation.gov.uk/uksi/2015/94/regulation/33/6) table inserted (1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2023 (S.I. 2023/301)](https://www.legislation.gov.uk/uksi/2023/301), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2023/301/regulation/11)
+[^c-06476543d357e55301d2a2f0d01675d2]: Textual amendment: Words in [reg. 33(6)](https://www.legislation.gov.uk/uksi/2015/94/regulation/33/6) table inserted (1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2023 (S.I. 2023/301)](https://www.legislation.gov.uk/uksi/2023/301), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2023/301/regulation/11)

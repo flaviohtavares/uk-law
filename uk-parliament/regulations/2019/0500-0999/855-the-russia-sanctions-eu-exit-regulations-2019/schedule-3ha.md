@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 3HA — Uranium[^key-fbf2c184a00e245dff7029358e5687ed]
+## Schedule 3HA — Uranium[^c-fbf2c184a00e245dff7029358e5687ed]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ Regulation 46Z23A
 
 ## Annotations
 
-[^key-fbf2c184a00e245dff7029358e5687ed]: Textual amendment: [Sch. 3HA](https://www.legislation.gov.uk/uksi/2019/855/schedule/3HA) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [29(5)](https://www.legislation.gov.uk/uksi/2026/543/regulation/29/5)
+[^c-fbf2c184a00e245dff7029358e5687ed]: Textual amendment: [Sch. 3HA](https://www.legislation.gov.uk/uksi/2019/855/schedule/3HA) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [29(5)](https://www.legislation.gov.uk/uksi/2026/543/regulation/29/5)

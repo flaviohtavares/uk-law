@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 126. Transfer to state hospital: appeal to Tribunal[^key-bfa511faf8eb49537a97318a8f4ac9d6]
+## 126. Transfer to state hospital: appeal to Tribunal[^c-bfa511faf8eb49537a97318a8f4ac9d6]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ to a state hospital.
 
 ## Annotations
 
-[^key-bfa511faf8eb49537a97318a8f4ac9d6]: Commencement: S. 126 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-bfa511faf8eb49537a97318a8f4ac9d6]: Commencement: S. 126 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

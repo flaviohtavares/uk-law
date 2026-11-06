@@ -27,8 +27,8 @@ summary: ''
 
 (2) Her Majesty may by Order in Council provide for the transfer to a Minister of the Crown or government department of any liabilities to which the Scottish Ministers or the Lord Advocate are subject.
 
-(3) An Order in Council under this section may only be made in connection with any transfer or sharing of functions of a member of the Scottish Government[^key-1a6eec0a223077253e974615c6946a62] by virtue of section 108 or in any other circumstances in which Her Majesty considers it appropriate to do so for the purposes of this Act.
+(3) An Order in Council under this section may only be made in connection with any transfer or sharing of functions of a member of the Scottish Government[^c-1a6eec0a223077253e974615c6946a62] by virtue of section 108 or in any other circumstances in which Her Majesty considers it appropriate to do so for the purposes of this Act.
 
 ## Annotations
 
-[^key-1a6eec0a223077253e974615c6946a62]: Textual amendment: Words in Act substituted (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/2/a), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/3)); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/f)
+[^c-1a6eec0a223077253e974615c6946a62]: Textual amendment: Words in Act substituted (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/2/a), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/3)); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/f)

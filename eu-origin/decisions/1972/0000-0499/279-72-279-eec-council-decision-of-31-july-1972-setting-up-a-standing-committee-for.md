@@ -31,10 +31,10 @@ summary: ''
 
 of 31 July 1972 setting up a Standing Committee for Agricultural Statistics (revoked)
 
-[^key-c2de84dd2a619d570f4ab23f72133283]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c2de84dd2a619d570f4ab23f72133283]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-c2de84dd2a619d570f4ab23f72133283] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-c2de84dd2a619d570f4ab23f72133283] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c2de84dd2a619d570f4ab23f72133283]: Textual amendment: Decision revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c2de84dd2a619d570f4ab23f72133283]: Textual amendment: Decision revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

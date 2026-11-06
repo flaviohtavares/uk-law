@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Minimum equipment requirements[^key-40e7086efb8c55ec6d5cbb69d206ff52]
+## 78. Minimum equipment requirements[^c-40e7086efb8c55ec6d5cbb69d206ff52]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40e7086efb8c55ec6d5cbb69d206ff52]: Textual amendment: [Art. 78](https://www.legislation.gov.uk/uksi/2016/765/article/78) omitted (14.12.2017) by virtue of [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [21(1)](https://www.legislation.gov.uk/uksi/2017/1112/article/21/1)
+[^c-40e7086efb8c55ec6d5cbb69d206ff52]: Textual amendment: [Art. 78](https://www.legislation.gov.uk/uksi/2016/765/article/78) omitted (14.12.2017) by virtue of [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [21(1)](https://www.legislation.gov.uk/uksi/2017/1112/article/21/1)

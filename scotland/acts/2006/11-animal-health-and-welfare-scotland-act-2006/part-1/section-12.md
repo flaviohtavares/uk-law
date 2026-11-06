@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Powers of entry etc.[^key-5759b6ebe4e1a8c016622a5368f65d85]
+## 12. Powers of entry etc.[^c-5759b6ebe4e1a8c016622a5368f65d85]
 
 *Extent: S*
 
@@ -120,4 +120,4 @@ After section 62F of the 1981 Act there is inserted—
 
 ## Annotations
 
-[^key-5759b6ebe4e1a8c016622a5368f65d85]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2006/11/section/12) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-5759b6ebe4e1a8c016622a5368f65d85]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2006/11/section/12) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

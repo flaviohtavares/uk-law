@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Tied premises[^key-cf2c57ddc563421534f8f4eca470361d]
+## 42. Tied premises[^c-cf2c57ddc563421534f8f4eca470361d]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ is to be made on a just and reasonable basis.
 
 ## Annotations
 
-[^key-cf2c57ddc563421534f8f4eca470361d]: Modification: S. 42 excluded by 2006 c. 25, s. 104(3) (as inserted (with effect in accordance with Sch. 34 para. 2(2) of the commencing Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 34 para. 2(1)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/34/paragraph/2/1))
+[^c-cf2c57ddc563421534f8f4eca470361d]: Modification: S. 42 excluded by 2006 c. 25, s. 104(3) (as inserted (with effect in accordance with Sch. 34 para. 2(2) of the commencing Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 34 para. 2(1)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/34/paragraph/2/1))

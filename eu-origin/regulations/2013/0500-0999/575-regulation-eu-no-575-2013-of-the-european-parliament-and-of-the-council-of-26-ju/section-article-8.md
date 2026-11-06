@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 8. Derogation from the application of liquidity requirements on an individual basis[^key-87e1f62fc5287216e344ad54024514bd]
+## Article 8. Derogation from the application of liquidity requirements on an individual basis[^c-87e1f62fc5287216e344ad54024514bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87e1f62fc5287216e344ad54024514bd]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/eur/2013/575/article/8) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/4/4)
+[^c-87e1f62fc5287216e344ad54024514bd]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/eur/2013/575/article/8) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/4/4)

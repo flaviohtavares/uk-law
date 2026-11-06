@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Power to investigate complaints[^key-a18ba99f8f4c68949b14c97429701d06]
+## 43. Power to investigate complaints[^c-a18ba99f8f4c68949b14c97429701d06]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ in the case of a complaint which relates to an independent palliative care provi
 
 ## Annotations
 
-[^key-a18ba99f8f4c68949b14c97429701d06]: Commencement: [S. 43](https://www.legislation.gov.uk/anaw/2019/3/section/43) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-a18ba99f8f4c68949b14c97429701d06]: Commencement: [S. 43](https://www.legislation.gov.uk/anaw/2019/3/section/43) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

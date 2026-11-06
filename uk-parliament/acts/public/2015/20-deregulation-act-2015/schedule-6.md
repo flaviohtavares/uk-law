@@ -26,11 +26,11 @@ Section 19
 
 #### Repeal of Deeds of Arrangement Act 1914
 
-**1.**[^key-f37b1b57deb3e97ab96daa935ab88415] (1) The Deeds of Arrangement Act 1914 is repealed.
+**1.**[^c-f37b1b57deb3e97ab96daa935ab88415] (1) The Deeds of Arrangement Act 1914 is repealed.
 
 (2) In the Administration of Justice Act 1925, omit section 22 (which concerns registration of deeds of arrangement and is to be construed as one with the Act of 1914).
 
-**2.**[^key-bbe394a0e3cd9a18bb2ceea508ea1a5b] (1) The following amendments are made in consequence of paragraph 1.
+**2.**[^c-bbe394a0e3cd9a18bb2ceea508ea1a5b] (1) The following amendments are made in consequence of paragraph 1.
 
 (2) In the Public Trustee Act 1906, in section 2(4), omit “, nor any trust under a deed of arrangement for the benefit of creditors”.
 
@@ -109,11 +109,11 @@ Section 19
 
 (22) In the Third Parties (Rights against Insurers) Act 2010, omit section 4(1)(a).
 
-**3.**[^key-6cf7db9e31f5f3225da755556b92e5c2] The repeals and other amendments made by paragraphs 1 and 2 are to have no effect in relation to a deed of arrangement registered under section 5 of the Deeds of Arrangement Act 1914 before the date on which paragraph 1 of this Schedule comes into force if, immediately before that date, the estate of the debtor who executed the deed of arrangement has not been finally wound up.
+**3.**[^c-6cf7db9e31f5f3225da755556b92e5c2] The repeals and other amendments made by paragraphs 1 and 2 are to have no effect in relation to a deed of arrangement registered under section 5 of the Deeds of Arrangement Act 1914 before the date on which paragraph 1 of this Schedule comes into force if, immediately before that date, the estate of the debtor who executed the deed of arrangement has not been finally wound up.
 
 ### PART 2 — Administration of companies
 
-**4.**[^key-c26aa89e3a52a6ba8ed305d6241ee8d8] Schedule B1 to the Insolvency Act 1986 (administration of companies) is amended in accordance with paragraphs 5 to 7.
+**4.**[^c-c26aa89e3a52a6ba8ed305d6241ee8d8] Schedule B1 to the Insolvency Act 1986 (administration of companies) is amended in accordance with paragraphs 5 to 7.
 
 #### Appointment of administrators
 
@@ -127,13 +127,13 @@ Section 19
 
 *Extent: E+W+S+N.I.*
 
-**6.**[^key-de90d451b6a6225cb4660ef085abe364] In paragraph 26 (notice by company, or directors of company, of intention to appoint administrator), in sub-paragraph (2) (requirement to give additional notice), for “proposes to make an appointment under paragraph 22” substitute “ gives notice of intention to appoint under sub-paragraph (1) ”.
+**6.**[^c-de90d451b6a6225cb4660ef085abe364] In paragraph 26 (notice by company, or directors of company, of intention to appoint administrator), in sub-paragraph (2) (requirement to give additional notice), for “proposes to make an appointment under paragraph 22” substitute “ gives notice of intention to appoint under sub-paragraph (1) ”.
 
 #### Release of administrator where no distribution to unsecured creditors other than by virtue of section 176A(2)(a)
 
 *Extent: E+W+S+N.I.*
 
-**7.**[^key-32eec2f348f19228900ace56ce6f8ebf] (1) Paragraph 98 (vacation of office of administrator: discharge from liability) is amended as follows.
+**7.**[^c-32eec2f348f19228900ace56ce6f8ebf] (1) Paragraph 98 (vacation of office of administrator: discharge from liability) is amended as follows.
 
 (2) In sub-paragraph (2)(b) (when discharge takes effect in case of administrator appointed under paragraph 14 or 22), after “22” insert “ who has not made a statement under paragraph 52(1)(b) ”.
 
@@ -150,15 +150,15 @@ Section 19
 
 ### PART 3 — Winding up of companies
 
-**8.**[^key-f490b9c7c310376f9311406d640a71c8] Part 4 of the Insolvency Act 1986 (winding up of companies registered under the Companies Acts) is amended in accordance with paragraphs 9 and 10.
+**8.**[^c-f490b9c7c310376f9311406d640a71c8] Part 4 of the Insolvency Act 1986 (winding up of companies registered under the Companies Acts) is amended in accordance with paragraphs 9 and 10.
 
 #### Removal of power of court to order payment into Bank of England of money due to company
 
-**9.**[^key-826e34eee1a579cdd10c89e8b3ca77d3] Omit section 151 (payment into bank of money due to company).
+**9.**[^c-826e34eee1a579cdd10c89e8b3ca77d3] Omit section 151 (payment into bank of money due to company).
 
 #### Release of liquidator where winding-up order rescinded
 
-**10.**[^key-56448007a25758475bd794ed6efa18d5] In section 174 (release of liquidator of company being wound up by the court), after subsection (4) insert—
+**10.**[^c-56448007a25758475bd794ed6efa18d5] In section 174 (release of liquidator of company being wound up by the court), after subsection (4) insert—
 
 > (4A) Where a winding-up order made by the court in England and Wales is rescinded, the person (whether the official receiver or another person) who is the liquidator of the company at the time the order is rescinded has his release with effect from such time as the court may determine.
 
@@ -166,7 +166,7 @@ Section 19
 
 #### Application for making of disqualification order: power to require information
 
-**11.**[^key-82c1108916cefa9f3eb2205188c1276d] (1) In section 7 of the Company Directors Disqualification Act 1986 (disqualification order or undertaking; and reporting provisions), subsection (4) (power of Secretary of State or official receiver to require information) is amended as follows.
+**11.**[^c-82c1108916cefa9f3eb2205188c1276d] (1) In section 7 of the Company Directors Disqualification Act 1986 (disqualification order or undertaking; and reporting provisions), subsection (4) (power of Secretary of State or official receiver to require information) is amended as follows.
 
 (2) In the words before paragraph (a), for the words from “the liquidator” to “or administrative receiver of a company” (in the second place they occur) substitute “ any person ”.
 
@@ -176,15 +176,15 @@ Section 19
 
 ### PART 5 — Bankruptcy
 
-**12.**[^key-188199ead48233d74173b58063bb19f5][^key-78e7b0f5a3d04bbc1e055bc02ca97be7] Part 9 of the Insolvency Act 1986 (bankruptcy) is amended in accordance with paragraphs 13 to 16.
+**12.**[^c-188199ead48233d74173b58063bb19f5][^c-78e7b0f5a3d04bbc1e055bc02ca97be7] Part 9 of the Insolvency Act 1986 (bankruptcy) is amended in accordance with paragraphs 13 to 16.
 
 #### Appointment of insolvency practitioner as interim receiver
 
-**13.** (1)[^key-0937179158dbaaed38fba6edcfab5306] In section 286(1) (power of court to appoint interim receiver if necessary for protection of debtor's property), after “official receiver” insert “ or an insolvency practitioner ”.
+**13.** (1)[^c-0937179158dbaaed38fba6edcfab5306] In section 286(1) (power of court to appoint interim receiver if necessary for protection of debtor's property), after “official receiver” insert “ or an insolvency practitioner ”.
 
 (2) If sub-paragraph (1) comes into force before the coming into force of the repeal of subsection (2) of section 286 by paragraph 17(2) of Schedule 19 to the Enterprise and Regulatory Reform Act 2013, that subsection is to have effect (until the repeal comes into force) as if for “, instead of the official receiver,” there were substituted “ , another insolvency practitioner or the official receiver ”.
 
-**14.**[^key-53d6b964a5d71b48ee34fc5aacdd7bcf] (1) Section 370 (power to appoint special manager) is amended as follows.
+**14.**[^c-53d6b964a5d71b48ee34fc5aacdd7bcf] (1) Section 370 (power to appoint special manager) is amended as follows.
 
 (2) In subsection (1)(c) (power of court to appoint person to be special manager of property or business of debtor in whose case an interim receiver has been appointed under section 286), for “the official receiver has been appointed interim receiver” substitute “ an interim receiver has been appointed ”.
 
@@ -192,7 +192,7 @@ Section 19
 
 #### Statement of affairs
 
-**15.**[^key-fbf64222f52270463e7988ad7fd13002] (1) Section 288 (statement of affairs) is amended as follows.
+**15.**[^c-fbf64222f52270463e7988ad7fd13002] (1) Section 288 (statement of affairs) is amended as follows.
 
 (2) In subsection (1) (duty of bankrupt to submit statement of affairs), for the words from “the bankrupt shall submit” to the end of the subsection substitute “ the official receiver may at any time before the discharge of the bankrupt require the bankrupt to submit to the official receiver a statement of affairs. ”
 
@@ -212,7 +212,7 @@ Section 19
 
 #### After-acquired property of bankrupt
 
-**16.**[^key-e05f583d09a44db79bcb487ea0114306] (1) Section 307 (power of trustee in bankruptcy to claim, for the bankrupt's estate, property which has been acquired by, or has devolved upon, the bankrupt after commencement of the bankruptcy) is amended as follows.
+**16.**[^c-e05f583d09a44db79bcb487ea0114306] (1) Section 307 (power of trustee in bankruptcy to claim, for the bankrupt's estate, property which has been acquired by, or has devolved upon, the bankrupt after commencement of the bankruptcy) is amended as follows.
 
 (2) In subsection (3) (property to vest in trustee on service of notice on bankrupt), for “Subject to the next subsection” substitute “ Subject to subsections (4) and (4A) ”.
 
@@ -236,17 +236,17 @@ Section 19
 
 *Extent: E+W+S*
 
-**17.**[^key-5b5748c2657d03d3dd05d2dd7c77583d] Part 13 of the Insolvency Act 1986 (insolvency practitioners and their qualification) is amended in accordance with paragraphs 18, 19 and 21.
+**17.**[^c-5b5748c2657d03d3dd05d2dd7c77583d] Part 13 of the Insolvency Act 1986 (insolvency practitioners and their qualification) is amended in accordance with paragraphs 18, 19 and 21.
 
 #### Repeal of provision for authorisation of nominees and supervisors in relation to voluntary arrangements
 
 *Extent: E+W+S*
 
-**18.**[^key-03ca4f08114de74034a2ad840fefe871] Omit section 389(1A) (acting without qualification not an offence if authorised under section 389A).
+**18.**[^c-03ca4f08114de74034a2ad840fefe871] Omit section 389(1A) (acting without qualification not an offence if authorised under section 389A).
 
-**19.**[^key-d3009f31701f667a694cf89bee015835] Omit section 389A (authorisation of nominees and supervisors).
+**19.**[^c-d3009f31701f667a694cf89bee015835] Omit section 389A (authorisation of nominees and supervisors).
 
-**20.**[^key-29038d5ad97c4b9b50a5fd43940e98bd] (1) The following repeals are made in consequence of paragraphs 18 and 19.
+**20.**[^c-29038d5ad97c4b9b50a5fd43940e98bd] (1) The following repeals are made in consequence of paragraphs 18 and 19.
 
 (2) In the Insolvency Act 1986—
 
@@ -268,9 +268,9 @@ Section 19
 
 *Extent: E+W+S*
 
-**21.**[^key-638cd35cebb0fa82ac70e0095a917d3a] Omit sections 392 to 398 and Schedule 7 (procedure for authorisation by competent authority, including provision for reference to Insolvency Practitioners Tribunal).
+**21.**[^c-638cd35cebb0fa82ac70e0095a917d3a] Omit sections 392 to 398 and Schedule 7 (procedure for authorisation by competent authority, including provision for reference to Insolvency Practitioners Tribunal).
 
-**22.**[^key-8d534088898fa8ecf63f752f39b4c1ac] (1) The following repeals are made in consequence of paragraph 21.
+**22.**[^c-8d534088898fa8ecf63f752f39b4c1ac] (1) The following repeals are made in consequence of paragraph 21.
 
 (2) In the Parliamentary Commissioner Act 1967, in Schedule 4, omit the entry for the Insolvency Practitioners Tribunal.
 
@@ -316,9 +316,9 @@ Section 19
 
 (17) In the Civil Aviation Act 2012, in Schedule 6, in paragraph 4(2), omit the entry for the Insolvency Practitioners Tribunal.
 
-**23.**[^key-e963facebc101230d8c6463e6c501983] (1) For the purposes of this paragraph—
+**23.**[^c-e963facebc101230d8c6463e6c501983] (1) For the purposes of this paragraph—
 
-- the “commencement date” is 1 October 2015 (the date on which paragraph 21 of this Schedule came into force)[^key-bb5270f1a74c9604c9b84ffc2287d16c];
+- the “commencement date” is 1 October 2015 (the date on which paragraph 21 of this Schedule came into force)[^c-bb5270f1a74c9604c9b84ffc2287d16c];
 - the “transitional period” is the period of 1 year beginning with the commencement date.
 
 (2) Where, immediately before the commencement date, a person holds an authorisation granted under section 393 of the Insolvency Act 1986, section 393(3A) to (6) of that Act together with, for the purposes of this sub-paragraph, paragraphs (a) and (b) of section 393(2) of that Act (which are repealed by paragraph 21) continue to have effect in relation to the person and the authorisation during the transitional period.
@@ -358,50 +358,50 @@ Section 19
 
 ## Annotations
 
-[^key-f37b1b57deb3e97ab96daa935ab88415]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/1) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/i)
+[^c-f37b1b57deb3e97ab96daa935ab88415]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/1) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/i)
 
-[^key-bbe394a0e3cd9a18bb2ceea508ea1a5b]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/2) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/i)
+[^c-bbe394a0e3cd9a18bb2ceea508ea1a5b]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/2) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/i)
 
-[^key-6cf7db9e31f5f3225da755556b92e5c2]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/3) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/i)
+[^c-6cf7db9e31f5f3225da755556b92e5c2]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/3) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/i)
 
-[^key-c26aa89e3a52a6ba8ed305d6241ee8d8]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/4) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(ii)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/ii)
+[^c-c26aa89e3a52a6ba8ed305d6241ee8d8]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/4) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(ii)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/ii)
 
-[^key-de90d451b6a6225cb4660ef085abe364]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/6) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(ii)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/ii)
+[^c-de90d451b6a6225cb4660ef085abe364]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/6) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(ii)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/ii)
 
-[^key-32eec2f348f19228900ace56ce6f8ebf]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/7) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(ii)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/ii)
+[^c-32eec2f348f19228900ace56ce6f8ebf]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/7) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(ii)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/ii)
 
-[^key-f490b9c7c310376f9311406d640a71c8]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/8) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(iii)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/iii)
+[^c-f490b9c7c310376f9311406d640a71c8]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/8) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(iii)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/iii)
 
-[^key-826e34eee1a579cdd10c89e8b3ca77d3]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/9) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(iii)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/iii)
+[^c-826e34eee1a579cdd10c89e8b3ca77d3]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/9) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(iii)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/iii)
 
-[^key-56448007a25758475bd794ed6efa18d5]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/10) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(iii)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/iii)
+[^c-56448007a25758475bd794ed6efa18d5]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/10) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(iii)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/iii)
 
-[^key-82c1108916cefa9f3eb2205188c1276d]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/11) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(iv)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/iv) (with [art. 5](https://www.legislation.gov.uk/uksi/2015/1732/article/5))
+[^c-82c1108916cefa9f3eb2205188c1276d]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/11) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(iv)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/iv) (with [art. 5](https://www.legislation.gov.uk/uksi/2015/1732/article/5))
 
-[^key-188199ead48233d74173b58063bb19f5]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/12) in force at 1.10.2015 for specified purposes by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(v)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/v)
+[^c-188199ead48233d74173b58063bb19f5]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/12) in force at 1.10.2015 for specified purposes by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(v)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/v)
 
-[^key-78e7b0f5a3d04bbc1e055bc02ca97be7]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/12) in force at 9.3.2017 in so far as not already in force by [S.I. 2017/331](https://www.legislation.gov.uk/uksi/2017/331), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/331/article/2/a)
+[^c-78e7b0f5a3d04bbc1e055bc02ca97be7]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/12) in force at 9.3.2017 in so far as not already in force by [S.I. 2017/331](https://www.legislation.gov.uk/uksi/2017/331), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/331/article/2/a)
 
-[^key-0937179158dbaaed38fba6edcfab5306]: Commencement: [Sch. 6 para. 13(1)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/13/1) in force at 6.4.2017 by [S.I. 2016/1016](https://www.legislation.gov.uk/uksi/2016/1016), [art. 2(b)](https://www.legislation.gov.uk/uksi/2016/1016/article/2/b)
+[^c-0937179158dbaaed38fba6edcfab5306]: Commencement: [Sch. 6 para. 13(1)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/13/1) in force at 6.4.2017 by [S.I. 2016/1016](https://www.legislation.gov.uk/uksi/2016/1016), [art. 2(b)](https://www.legislation.gov.uk/uksi/2016/1016/article/2/b)
 
-[^key-53d6b964a5d71b48ee34fc5aacdd7bcf]: Commencement: [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/14) in force at 6.4.2017 by [S.I. 2016/1016](https://www.legislation.gov.uk/uksi/2016/1016), [art. 2(b)](https://www.legislation.gov.uk/uksi/2016/1016/article/2/b)
+[^c-53d6b964a5d71b48ee34fc5aacdd7bcf]: Commencement: [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/14) in force at 6.4.2017 by [S.I. 2016/1016](https://www.legislation.gov.uk/uksi/2016/1016), [art. 2(b)](https://www.legislation.gov.uk/uksi/2016/1016/article/2/b)
 
-[^key-fbf64222f52270463e7988ad7fd13002]: Commencement: [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/15) in force at 6.4.2017 by [S.I. 2016/1016](https://www.legislation.gov.uk/uksi/2016/1016), [art. 2(b)](https://www.legislation.gov.uk/uksi/2016/1016/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/1016/article/3))
+[^c-fbf64222f52270463e7988ad7fd13002]: Commencement: [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/15) in force at 6.4.2017 by [S.I. 2016/1016](https://www.legislation.gov.uk/uksi/2016/1016), [art. 2(b)](https://www.legislation.gov.uk/uksi/2016/1016/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/1016/article/3))
 
-[^key-e05f583d09a44db79bcb487ea0114306]: Commencement: [Sch. 6 para. 16](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/16) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(v)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/v)
+[^c-e05f583d09a44db79bcb487ea0114306]: Commencement: [Sch. 6 para. 16](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/16) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(v)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/v)
 
-[^key-5b5748c2657d03d3dd05d2dd7c77583d]: Commencement: [Sch. 6 para. 17](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/17) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(vi)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/vi)
+[^c-5b5748c2657d03d3dd05d2dd7c77583d]: Commencement: [Sch. 6 para. 17](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/17) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(vi)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/vi)
 
-[^key-03ca4f08114de74034a2ad840fefe871]: Commencement: [Sch. 6 para. 18](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/18) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(vi)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/vi)
+[^c-03ca4f08114de74034a2ad840fefe871]: Commencement: [Sch. 6 para. 18](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/18) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(vi)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/vi)
 
-[^key-d3009f31701f667a694cf89bee015835]: Commencement: [Sch. 6 para. 19](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/19) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(vi)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/vi)
+[^c-d3009f31701f667a694cf89bee015835]: Commencement: [Sch. 6 para. 19](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/19) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(vi)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/vi)
 
-[^key-29038d5ad97c4b9b50a5fd43940e98bd]: Commencement: [Sch. 6 para. 20](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/20) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(vi)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/vi)
+[^c-29038d5ad97c4b9b50a5fd43940e98bd]: Commencement: [Sch. 6 para. 20](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/20) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(vi)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/vi)
 
-[^key-638cd35cebb0fa82ac70e0095a917d3a]: Commencement: [Sch. 6 para. 21](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/21) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(vi)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/vi)
+[^c-638cd35cebb0fa82ac70e0095a917d3a]: Commencement: [Sch. 6 para. 21](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/21) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(vi)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/vi)
 
-[^key-8d534088898fa8ecf63f752f39b4c1ac]: Commencement: [Sch. 6 para. 22](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/22) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(vi)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/vi) (with [art. 7](https://www.legislation.gov.uk/uksi/2015/1732/article/7))
+[^c-8d534088898fa8ecf63f752f39b4c1ac]: Commencement: [Sch. 6 para. 22](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/22) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(vi)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/vi) (with [art. 7](https://www.legislation.gov.uk/uksi/2015/1732/article/7))
 
-[^key-e963facebc101230d8c6463e6c501983]: Commencement: Sch. 6 para. 23 in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(vi)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/vi)
+[^c-e963facebc101230d8c6463e6c501983]: Commencement: Sch. 6 para. 23 in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(vi)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/vi)
 
-[^key-bb5270f1a74c9604c9b84ffc2287d16c]: Textual amendment: Words in Sch. 6 para. 23 substituted (1.10.2016) by [The Deregulation Act 2015 (Commencement No.3 and Transitional and Saving Provisions) Order 2015 (S.I. 2015/1732)](https://www.legislation.gov.uk/uksi/2015/1732), [art. 8](https://www.legislation.gov.uk/uksi/2015/1732/article/8)
+[^c-bb5270f1a74c9604c9b84ffc2287d16c]: Textual amendment: Words in Sch. 6 para. 23 substituted (1.10.2016) by [The Deregulation Act 2015 (Commencement No.3 and Transitional and Saving Provisions) Order 2015 (S.I. 2015/1732)](https://www.legislation.gov.uk/uksi/2015/1732), [art. 8](https://www.legislation.gov.uk/uksi/2015/1732/article/8)

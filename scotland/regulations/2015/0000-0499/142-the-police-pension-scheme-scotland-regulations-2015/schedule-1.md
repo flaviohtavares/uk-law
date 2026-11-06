@@ -16,23 +16,23 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 1 — Medical decisions: appeals and reconsideration[^key-0a4ab0dfaf981065bf985c635f4a5d03]
+## SCHEDULE 1 — Medical decisions: appeals and reconsideration[^c-0a4ab0dfaf981065bf985c635f4a5d03]
 
 *Extent: S*
 
 Regulations 67, 71, 96,107 and 199
 
-### 1. Interpretation[^key-540b3fead997e3297b3c5280448f9a41]
+### 1. Interpretation[^c-540b3fead997e3297b3c5280448f9a41]
 
 In this Schedule—
 
 - “appeal board” means a board appointed paragraph 6 of this Schedule;
-- “final decision”[^key-01784e52aa93450d235e12e15b8a228f] has the meaning given in paragraph 3;
+- “final decision”[^c-01784e52aa93450d235e12e15b8a228f] has the meaning given in paragraph 3;
 - “medical decision” means a decision contained in—
   - (a) a report by the selected medical practitioner under regulation 71 (referral of medical questions to a selected medical practitioner for purpose of regulation 72);
   - (b) a report by the selected medical practitioner under regulation 73 (compulsory retirement of member who was required to continue to serve);
   - (c) a report by the selected medical practitioner under regulation 76 (referral of medical questions for purpose of early payment of a full retirement pension on grounds of permanent medical unfitness);
-  - (d) a report by the selected medical practitioner under regulation 96[^key-74e2320a759aab38c9ae6e7b3d41ed62] (referral of medical questions for purpose of reduction of benefits);
+  - (d) a report by the selected medical practitioner under regulation 96[^c-74e2320a759aab38c9ae6e7b3d41ed62] (referral of medical questions for purpose of reduction of benefits);
   - (e) a report by the selected medical practitioner under regulation 107 (referral of medical questions for purpose of a review);
   - (f) a report by the appeal board under paragraph 2(5) (appeal against decision of a selected medical practitioner); or
   - (g) a fresh report by a medical authority under paragraph 3 (referral of final decision for reconsideration);
@@ -41,7 +41,7 @@ In this Schedule—
   - (a) a single duly qualified medical practitioner selected by the employer; or
   - (b) a board of duly qualified medical practitioners selected by the employer.
 
-### 2. Appeal against decision of a selected medical practitioner[^key-f09929d906520ef93b4fd3f4ebf7cf94]
+### 2. Appeal against decision of a selected medical practitioner[^c-f09929d906520ef93b4fd3f4ebf7cf94]
 
 (1) Within 28 days after a member of the police force receives a copy of a report by the selected medical practitioner containing a medical decision (or such longer period as the employer may allow), the member may give notice of appeal to the employer against the decision in accordance with paragraph 7 (procedure and costs on appeals to appeal board).
 
@@ -57,7 +57,7 @@ In this Schedule—
 
 (7) A copy of the report must be given to the scheme manager and to the member.
 
-### 3. Referral of final decision for reconsideration[^key-4c142e77fb88c870e65774280cca6140]
+### 3. Referral of final decision for reconsideration[^c-4c142e77fb88c870e65774280cca6140]
 
 (1) This paragraph applies if a medical authority has given a final decision in relation to a member of the police force (“the member”).
 
@@ -82,7 +82,7 @@ In this Schedule—
 
 (8) In this paragraph, “medical decision” does not include a decision contained in a fresh report issued under this paragraph.
 
-### 4. Referral of final decision by sheriff or tribunal[^key-821bf7fba6bf66ab59b352e472c6bfae]
+### 4. Referral of final decision by sheriff or tribunal[^c-821bf7fba6bf66ab59b352e472c6bfae]
 
 (1) If a sheriff or a tribunal hearing an appeal under regulation 197 or 198 considers that the evidence before the medical authority which gave a final decision was inaccurate or inadequate—
 
@@ -93,7 +93,7 @@ In this Schedule—
 
 (3) Subject to any further reconsideration under paragraph 3, the fresh report is final.
 
-### 5. Referral to appointed medical practitioner[^key-1b2a875f4b2cf471a0a4469eea4a5828]
+### 5. Referral to appointed medical practitioner[^c-1b2a875f4b2cf471a0a4469eea4a5828]
 
 (1) If a final decision is referred to a medical authority for reconsideration under paragraph 3 or 4 and the medical authority is unable or unwilling to act, the final decision may be referred to an appointed medical practitioner.
 
@@ -104,7 +104,7 @@ In this Schedule—
 - (a) agreed by the member and the employer; or
 - (b) appointed by the sheriff or tribunal.
 
-### 6. Appointment of appeal board[^key-dae825c62f379844d7b2a30040f882b4]
+### 6. Appointment of appeal board[^c-dae825c62f379844d7b2a30040f882b4]
 
 (1) An appeal board must consist of not less than 3 medical practitioners—
 
@@ -125,7 +125,7 @@ In this Schedule—
 - (a) be paid by the employer; and
 - (b) be treated as part of the expenses of the employer for the purposes of this paragraph.
 
-### 7. Procedure ... on appeals to appeal board[^key-90b5870f114ca6f780056e2a437bdc82][^key-1176db8f71ec016cab7d9f4f3a0ceef8]
+### 7. Procedure ... on appeals to appeal board[^c-90b5870f114ca6f780056e2a437bdc82][^c-1176db8f71ec016cab7d9f4f3a0ceef8]
 
 (1) The notice of appeal and the statement of grounds of appeal must be in writing.
 
@@ -135,7 +135,7 @@ In this Schedule—
 - (b) the statement of grounds of appeal; and
 - (c) any other documents the scheme manager considers necessary.
 
-### 8. Hearing the appeal[^key-ace9dbb9d8cf5f9972dc3e675d598114]
+### 8. Hearing the appeal[^c-ace9dbb9d8cf5f9972dc3e675d598114]
 
 (1) The appeal board must—
 
@@ -163,7 +163,7 @@ In this Schedule—
 
 (10) A copy of the revised report must be given to the scheme manager and to the member.
 
-### 9. Written evidence or a written statement[^key-22f136f9cbe5c7421f6d486f8ad8360d]
+### 9. Written evidence or a written statement[^c-22f136f9cbe5c7421f6d486f8ad8360d]
 
 (1) A party to an appeal who intends to submit written evidence or a written statement at a hearing must, subject to sub-paragraph (2), submit it to the appeal board and the other party not less than 35 days before the date appointed for the hearing.
 
@@ -178,7 +178,7 @@ In this Schedule—
 
 (5) References in this paragraph to periods of days include weekends and public holidays.
 
-### 10. Costs payable if hearing is cancelled, adjourned or postponed[^key-8fabd63115bcbb5673ea97281cdea66e]
+### 10. Costs payable if hearing is cancelled, adjourned or postponed[^c-8fabd63115bcbb5673ea97281cdea66e]
 
 (1) Subject to the following provisions, the expenses of each party to the appeal must be borne by that party.
 
@@ -190,7 +190,7 @@ In this Schedule—
 
 (5) If sub-paragraph (4) applies, the appeal board may require the appellant to pay towards the cost of the cancellation, adjournment or postponement such sum not exceeding the total costs of the cancellation, adjournment or postponement as the appeal board decides, taking account of representations from either party.
 
-### 11. Costs payable on decision[^key-b32ea8b457a6e68e2ce5c5472cee9680]
+### 11. Costs payable on decision[^c-b32ea8b457a6e68e2ce5c5472cee9680]
 
 (1) Costs are payable in accordance with this paragraph on determination of the appeal.
 
@@ -210,32 +210,32 @@ In this Schedule—
 
 ## Annotations
 
-[^key-0a4ab0dfaf981065bf985c635f4a5d03]: Modification: [Sch. 1](https://www.legislation.gov.uk/ssi/2015/142/schedule/1) applied (1.10.2023) by [The Police Pensions (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/239)](https://www.legislation.gov.uk/ssi/2023/239), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/239/regulation/1/2), [51(4)](https://www.legislation.gov.uk/ssi/2023/239/regulation/51/4)
+[^c-0a4ab0dfaf981065bf985c635f4a5d03]: Modification: [Sch. 1](https://www.legislation.gov.uk/ssi/2015/142/schedule/1) applied (1.10.2023) by [The Police Pensions (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/239)](https://www.legislation.gov.uk/ssi/2023/239), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/239/regulation/1/2), [51(4)](https://www.legislation.gov.uk/ssi/2023/239/regulation/51/4)
 
-[^key-540b3fead997e3297b3c5280448f9a41]: Commencement: Sch. 1 para. 1 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-540b3fead997e3297b3c5280448f9a41]: Commencement: Sch. 1 para. 1 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-01784e52aa93450d235e12e15b8a228f]: Textual amendment: Words in [sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2015/142/schedule/1/paragraph/1) substituted (with effect from 1.4.2015) by [The Police Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/325)](https://www.legislation.gov.uk/ssi/2015/325), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/325/regulation/1/2), [12(a)(i)](https://www.legislation.gov.uk/ssi/2015/325/regulation/12/a/i)
+[^c-01784e52aa93450d235e12e15b8a228f]: Textual amendment: Words in [sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2015/142/schedule/1/paragraph/1) substituted (with effect from 1.4.2015) by [The Police Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/325)](https://www.legislation.gov.uk/ssi/2015/325), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/325/regulation/1/2), [12(a)(i)](https://www.legislation.gov.uk/ssi/2015/325/regulation/12/a/i)
 
-[^key-74e2320a759aab38c9ae6e7b3d41ed62]: Textual amendment: Words in [sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2015/142/schedule/1/paragraph/1) substituted (with effect from 1.4.2015) by [The Police Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/325)](https://www.legislation.gov.uk/ssi/2015/325), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/325/regulation/1/2), [12(a)(ii)](https://www.legislation.gov.uk/ssi/2015/325/regulation/12/a/ii)
+[^c-74e2320a759aab38c9ae6e7b3d41ed62]: Textual amendment: Words in [sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2015/142/schedule/1/paragraph/1) substituted (with effect from 1.4.2015) by [The Police Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/325)](https://www.legislation.gov.uk/ssi/2015/325), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/325/regulation/1/2), [12(a)(ii)](https://www.legislation.gov.uk/ssi/2015/325/regulation/12/a/ii)
 
-[^key-f09929d906520ef93b4fd3f4ebf7cf94]: Commencement: Sch. 1 para. 2 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-f09929d906520ef93b4fd3f4ebf7cf94]: Commencement: Sch. 1 para. 2 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-4c142e77fb88c870e65774280cca6140]: Commencement: Sch. 1 para. 3 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-4c142e77fb88c870e65774280cca6140]: Commencement: Sch. 1 para. 3 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-821bf7fba6bf66ab59b352e472c6bfae]: Commencement: Sch. 1 para. 4 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-821bf7fba6bf66ab59b352e472c6bfae]: Commencement: Sch. 1 para. 4 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-1b2a875f4b2cf471a0a4469eea4a5828]: Commencement: Sch. 1 para. 5 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-1b2a875f4b2cf471a0a4469eea4a5828]: Commencement: Sch. 1 para. 5 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-dae825c62f379844d7b2a30040f882b4]: Commencement: Sch. 1 para. 6 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-dae825c62f379844d7b2a30040f882b4]: Commencement: Sch. 1 para. 6 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-90b5870f114ca6f780056e2a437bdc82]: Commencement: Sch. 1 para. 7 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-90b5870f114ca6f780056e2a437bdc82]: Commencement: Sch. 1 para. 7 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-1176db8f71ec016cab7d9f4f3a0ceef8]: Textual amendment: Words in [sch. 1 para. 7](https://www.legislation.gov.uk/ssi/2015/142/schedule/1/paragraph/7) title omitted (with effect from 1.4.2015) by virtue of [The Police Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/325)](https://www.legislation.gov.uk/ssi/2015/325), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/325/regulation/1/2), [12(b)](https://www.legislation.gov.uk/ssi/2015/325/regulation/12/b)
+[^c-1176db8f71ec016cab7d9f4f3a0ceef8]: Textual amendment: Words in [sch. 1 para. 7](https://www.legislation.gov.uk/ssi/2015/142/schedule/1/paragraph/7) title omitted (with effect from 1.4.2015) by virtue of [The Police Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/325)](https://www.legislation.gov.uk/ssi/2015/325), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/325/regulation/1/2), [12(b)](https://www.legislation.gov.uk/ssi/2015/325/regulation/12/b)
 
-[^key-ace9dbb9d8cf5f9972dc3e675d598114]: Commencement: Sch. 1 para. 8 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-ace9dbb9d8cf5f9972dc3e675d598114]: Commencement: Sch. 1 para. 8 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-22f136f9cbe5c7421f6d486f8ad8360d]: Commencement: Sch. 1 para. 9 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-22f136f9cbe5c7421f6d486f8ad8360d]: Commencement: Sch. 1 para. 9 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-8fabd63115bcbb5673ea97281cdea66e]: Commencement: Sch. 1 para. 10 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-8fabd63115bcbb5673ea97281cdea66e]: Commencement: Sch. 1 para. 10 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-b32ea8b457a6e68e2ce5c5472cee9680]: Commencement: Sch. 1 para. 11 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-b32ea8b457a6e68e2ce5c5472cee9680]: Commencement: Sch. 1 para. 11 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

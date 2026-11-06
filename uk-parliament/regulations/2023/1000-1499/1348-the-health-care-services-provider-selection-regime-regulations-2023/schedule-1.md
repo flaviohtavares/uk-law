@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — Relevant health care services: CPV codes[^key-ca66457360e89ce12da827b29657ea66]
+## SCHEDULE 1 — Relevant health care services: CPV codes[^c-ca66457360e89ce12da827b29657ea66]
 
 *Extent: E+W*
 
@@ -94,6 +94,6 @@ Regulation 2(1)
 
 ## Annotations
 
-[^key-ca66457360e89ce12da827b29657ea66]: Commencement: Sch. 1 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-ca66457360e89ce12da827b29657ea66]: Commencement: Sch. 1 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
 
 [^f00015]: Footnote: [S.I. 2013/349](https://www.legislation.gov.uk/uksi/2013/349).

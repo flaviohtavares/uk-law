@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.31. Orders limiting disclosure of statement of affairs etc[^key-1528afecf38021c307714fb4b09eff49]
+## 3.31. Orders limiting disclosure of statement of affairs etc[^c-1528afecf38021c307714fb4b09eff49]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ the housing administrator may apply to the court for an order in relation to the
 
 ## Annotations
 
-[^key-1528afecf38021c307714fb4b09eff49]: Commencement: Rule 3.31 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-1528afecf38021c307714fb4b09eff49]: Commencement: Rule 3.31 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

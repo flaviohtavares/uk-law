@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 8
 
-**1.**[^key-ac3e9fd451b1a9e02006db1271ef790a] (1) In the definition of “authorised representative” in the following provisions, for “EU” substitute “ United Kingdom ”
+**1.**[^c-ac3e9fd451b1a9e02006db1271ef790a] (1) In the definition of “authorised representative” in the following provisions, for “EU” substitute “ United Kingdom ”
 
 - (a) in regulation 2(1) of the Electromagnetic Compatibility Regulations 2016;
 - (b) in regulation 2(4) of the Simple Pressure Vessels (Safety) Regulations 2016;
@@ -55,7 +55,7 @@ Regulation 8
 
 ## Annotations
 
-[^key-ac3e9fd451b1a9e02006db1271ef790a]: Commencement: Sch. 5 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-ac3e9fd451b1a9e02006db1271ef790a]: Commencement: Sch. 5 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24373391]: Marginal citation: [S.I. 2016/1101](https://www.legislation.gov.uk/uksi/2016/1101), to which there are amendments not relevant to these Regulations; amendments extending only to Great Britain are made prospectively with effect from IP completion day, by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696); the instrument was saved by virtue of section 2(2)(a) of the [European Union (Withdrawal) Act 2018 (c.16)](https://www.legislation.gov.uk/ukpga/2018/16).
 

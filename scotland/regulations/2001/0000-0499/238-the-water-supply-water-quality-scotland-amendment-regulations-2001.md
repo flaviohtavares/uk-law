@@ -33,7 +33,7 @@ summary: ''
 
 WATER SUPPLY
 
-The Water Supply (Water Quality) (Scotland) Amendment Regulations 2001 (revoked)[^key-d0c27b382e5699c9e20b2829f59ba51e]
+The Water Supply (Water Quality) (Scotland) Amendment Regulations 2001 (revoked)[^c-d0c27b382e5699c9e20b2829f59ba51e]
 
 Made
 
@@ -47,24 +47,24 @@ Coming into force
 
 26th June 2001
 
-[^key-d0c27b382e5699c9e20b2829f59ba51e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d0c27b382e5699c9e20b2829f59ba51e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-d0c27b382e5699c9e20b2829f59ba51e]
+## 1. Citation, commencement and extent[^c-d0c27b382e5699c9e20b2829f59ba51e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Water Supply (Water Quality) (Scotland) Regulations 2001[^key-d0c27b382e5699c9e20b2829f59ba51e]
+## 2. Amendment of the Water Supply (Water Quality) (Scotland) Regulations 2001[^c-d0c27b382e5699c9e20b2829f59ba51e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0c27b382e5699c9e20b2829f59ba51e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d0c27b382e5699c9e20b2829f59ba51e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d0c27b382e5699c9e20b2829f59ba51e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d0c27b382e5699c9e20b2829f59ba51e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d0c27b382e5699c9e20b2829f59ba51e]: Textual amendment: Regulations revoked (1.1.2015) by [The Public Water Supplies (Scotland) Regulations 2014 (S.S.I. 2014/364)](https://www.legislation.gov.uk/ssi/2014/364), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/364/regulation/50/1/c), [50(1)(c)](https://www.legislation.gov.uk/ssi/2014/364/regulation/50/1/c) (with [reg. 1(3)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/3)[(4)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/4))
+[^c-d0c27b382e5699c9e20b2829f59ba51e]: Textual amendment: Regulations revoked (1.1.2015) by [The Public Water Supplies (Scotland) Regulations 2014 (S.S.I. 2014/364)](https://www.legislation.gov.uk/ssi/2014/364), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/364/regulation/50/1/c), [50(1)(c)](https://www.legislation.gov.uk/ssi/2014/364/regulation/50/1/c) (with [reg. 1(3)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/3)[(4)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/4))

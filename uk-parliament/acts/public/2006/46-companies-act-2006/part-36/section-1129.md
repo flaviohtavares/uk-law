@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1129. Legal professional privilege[^c18930561][^c19692651][^c19919431][^c20605291][^c21737821][^c21737891][^key-d515d435a0afc443cc8913abbf110fae][^key-505fb694e0084a31d0d4c7960f1f6bec]
+## 1129. Legal professional privilege[^c18930561][^c19692651][^c19919431][^c20605291][^c21737821][^c21737891][^c-d515d435a0afc443cc8913abbf110fae][^c-505fb694e0084a31d0d4c7960f1f6bec]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ In proceedings against a person for an offence under the Companies Acts, nothing
 
 [^c21737891]: Modification: S. 1129 applied (with modifications) (E.W.) (2.1.2013) by [The Charitable Incorporated Organisations (Insolvency and Dissolution) Regulations 2012 (S.I. 2012/3013)](https://www.legislation.gov.uk/uksi/2012/3013), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3013/regulation/1), [15(1)(2)](https://www.legislation.gov.uk/uksi/2012/3013/regulation/15/1/2)
 
-[^key-d515d435a0afc443cc8913abbf110fae]: Modification: S. 1129 applied (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(3)(g)(ii)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/g/ii), [Sch. 4 para. 19(d)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/4/paragraph/19/d)
+[^c-d515d435a0afc443cc8913abbf110fae]: Modification: S. 1129 applied (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(3)(g)(ii)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/g/ii), [Sch. 4 para. 19(d)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/4/paragraph/19/d)
 
-[^key-505fb694e0084a31d0d4c7960f1f6bec]: Modification: S. 1129 applied (with modifications) (26.6.2017) by [The Scottish Partnerships (Register of People with Significant Control) Regulations 2017 (S.I. 2017/694)](https://www.legislation.gov.uk/uksi/2017/694), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/694/regulation/1/1), [73](https://www.legislation.gov.uk/uksi/2017/694/regulation/73)
+[^c-505fb694e0084a31d0d4c7960f1f6bec]: Modification: S. 1129 applied (with modifications) (26.6.2017) by [The Scottish Partnerships (Register of People with Significant Control) Regulations 2017 (S.I. 2017/694)](https://www.legislation.gov.uk/uksi/2017/694), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/694/regulation/1/1), [73](https://www.legislation.gov.uk/uksi/2017/694/regulation/73)

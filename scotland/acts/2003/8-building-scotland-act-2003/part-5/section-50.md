@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Criminal liability of trustees etc.[^key-56b3be13c40696038bdf6ac9e9311ad8]
+## 50. Criminal liability of trustees etc.[^c-56b3be13c40696038bdf6ac9e9311ad8]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In proceedings for an offence under Part 3 or 4, it is a defence for a person to
 
 ## Annotations
 
-[^key-56b3be13c40696038bdf6ac9e9311ad8]: Commencement: S. 50 in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-56b3be13c40696038bdf6ac9e9311ad8]: Commencement: S. 50 in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

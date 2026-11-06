@@ -30,7 +30,7 @@ summary: ''
 
 Companies
 
-[^key-a57dc6e4de639d32eb176c6362f1548f]The Register of People with Significant Control Regulations 2016
+[^c-a57dc6e4de639d32eb176c6362f1548f]The Register of People with Significant Control Regulations 2016
 
 Made
 
@@ -42,7 +42,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with sections 790B(2) and 790C(11) the Secretary of State is satisfied that the shares of a company or legal entity which are described in regulations 3 and 4 of these Regulations are bound by disclosure and transparency rules broadly similar to the ones applying to DTR5 issuers.
 
-In accordance with sections 790B(4), 790C(13), 790M(8), 790ZG(5), 1088(6), 1290, 1292(3) and 1292(4) of, and paragraph 25(7) of Schedule 1A to, that Act, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.[^key-71946b274793e0d1f25373e5b301da9c]
+In accordance with sections 790B(4), 790C(13), 790M(8), 790ZG(5), 1088(6), 1290, 1292(3) and 1292(4) of, and paragraph 25(7) of Schedule 1A to, that Act, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.[^c-71946b274793e0d1f25373e5b301da9c]
 
 ## Contents
 
@@ -69,7 +69,7 @@ In accordance with sections 790B(4), 790C(13), 790M(8), 790ZG(5), 1088(6), 1290,
 - [Section 7 — Particulars required as to nature of control](part-3/section-7.md)
 - [Section 8 — Characteristics of a foreign limited partner](part-3/section-8.md)
 
-### Part 3A — Further duties on company to give notices concerning persons with significant control[^key-4c72c0c18155d48c113e4835c45d46dc]
+### Part 3A — Further duties on company to give notices concerning persons with significant control[^c-4c72c0c18155d48c113e4835c45d46dc]
 
 - [Section 8A](part-3a/section-8a.md)
 
@@ -184,10 +184,10 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 ## Annotations
 
-[^key-a57dc6e4de639d32eb176c6362f1548f]: Modification: [Reg. 27](https://www.legislation.gov.uk/uksi/2016/339/regulation/27) modified (30.6.2016) by [The European Public Limited-Liability Company (Register of People with Significant Control) Regulations 2016 (S.I. 2016/375)](https://www.legislation.gov.uk/uksi/2016/375), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/375/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2016/375/regulation/7) (as substituted (31.12.2020) by [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [93](https://www.legislation.gov.uk/uksi/2018/1298/regulation/93)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a57dc6e4de639d32eb176c6362f1548f]: Modification: [Reg. 27](https://www.legislation.gov.uk/uksi/2016/339/regulation/27) modified (30.6.2016) by [The European Public Limited-Liability Company (Register of People with Significant Control) Regulations 2016 (S.I. 2016/375)](https://www.legislation.gov.uk/uksi/2016/375), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/375/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2016/375/regulation/7) (as substituted (31.12.2020) by [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [93](https://www.legislation.gov.uk/uksi/2018/1298/regulation/93)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23150721]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46); [sections 790A to 790ZG](https://www.legislation.gov.uk/uksi/2016/339/section/790A), [Schedule 1A](https://www.legislation.gov.uk/uksi/2016/339/schedule/1A) and Schedule 1B were inserted by Schedule 3 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26). Section 243 is relied upon in its own right and as applied with modifications by section 790ZF. See section 1167 for the meaning of “prescribed”.
 
-[^key-71946b274793e0d1f25373e5b301da9c]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2016/339) applied (21.3.2024) by S.I. 2009/2436, Sch. 1 para. 12C(2A) (as inserted by [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Supplementary and Incidental Provisions) Regulations 2024 (S.I. 2024/410)](https://www.legislation.gov.uk/uksi/2024/410), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2), [Sch. 2 para. 5(b)(ii)](https://www.legislation.gov.uk/uksi/2024/410/schedule/2/paragraph/5/b/ii))
+[^c-71946b274793e0d1f25373e5b301da9c]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2016/339) applied (21.3.2024) by S.I. 2009/2436, Sch. 1 para. 12C(2A) (as inserted by [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Supplementary and Incidental Provisions) Regulations 2024 (S.I. 2024/410)](https://www.legislation.gov.uk/uksi/2024/410), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2), [Sch. 2 para. 5(b)(ii)](https://www.legislation.gov.uk/uksi/2024/410/schedule/2/paragraph/5/b/ii))
 
-[^key-4c72c0c18155d48c113e4835c45d46dc]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2016/339/part/3A) inserted (18.11.2025) by [The Register of People with Significant Control (Amendment) Regulations 2025 (S.I. 2025/1036)](https://www.legislation.gov.uk/uksi/2025/1036), [regs. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2), [15(2)](https://www.legislation.gov.uk/uksi/2025/1036/regulation/15/2); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)
+[^c-4c72c0c18155d48c113e4835c45d46dc]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2016/339/part/3A) inserted (18.11.2025) by [The Register of People with Significant Control (Amendment) Regulations 2025 (S.I. 2025/1036)](https://www.legislation.gov.uk/uksi/2025/1036), [regs. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2), [15(2)](https://www.legislation.gov.uk/uksi/2025/1036/regulation/15/2); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)

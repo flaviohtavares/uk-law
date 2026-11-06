@@ -44,13 +44,13 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 In accordance with section 68(2)(c) of that Act, a draft of this instrument has been laid before, and approved by resolution of, the Scottish Parliament.
 
-## 1. Citation, commencement and interpretation[^key-ffd5f602c68ad4e5987a51bbfe189f71]
+## 1. Citation, commencement and interpretation[^c-ffd5f602c68ad4e5987a51bbfe189f71]
 
 (1) This Order may be cited as the Land and Buildings Transaction Tax (Group Relief Modification) (Scotland) Order 2018 and comes into force on 30th June 2018.
 
 (2) In this Order “the Act” means the Land and Buildings Transaction Tax (Scotland) Act 2013.
 
-## 2. Amendment of schedule 10 of the Act[^key-6d4d00d732c33af0b1dd4c9a12cfcb1d]
+## 2. Amendment of schedule 10 of the Act[^c-6d4d00d732c33af0b1dd4c9a12cfcb1d]
 
 (1) Schedule 10 of the Act (group relief) is amended as follows.
 
@@ -102,7 +102,7 @@ In accordance with section 68(2)(c) of that Act, a draft of this instrument has 
 
 .
 
-## 3. Transitional provision[^key-07a0fad78f017de0515c7a0cff2d10ea][^key-12734e3e0a0e2ada5cb3846f9cdbdd35]
+## 3. Transitional provision[^c-07a0fad78f017de0515c7a0cff2d10ea][^c-12734e3e0a0e2ada5cb3846f9cdbdd35]
 
 The modifications made by this Order apply only in relation to a chargeable transaction in respect of which the effective date is on or after 30th June 2018.
 
@@ -126,10 +126,10 @@ This Order modifies the Land and Buildings Transaction Tax (Scotland) Act 2013 (
 
 [^f00001]: Footnote: [2013 asp 11](https://www.legislation.gov.uk/asp/2013/11).
 
-[^key-ffd5f602c68ad4e5987a51bbfe189f71]: Commencement: Art. 1 in force at 30.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2018/222/article/1/1)
+[^c-ffd5f602c68ad4e5987a51bbfe189f71]: Commencement: Art. 1 in force at 30.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2018/222/article/1/1)
 
-[^key-6d4d00d732c33af0b1dd4c9a12cfcb1d]: Commencement: Art. 2 in force at 30.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2018/222/article/1/1)
+[^c-6d4d00d732c33af0b1dd4c9a12cfcb1d]: Commencement: Art. 2 in force at 30.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2018/222/article/1/1)
 
-[^key-07a0fad78f017de0515c7a0cff2d10ea]: Commencement: Art. 3 in force at 30.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2018/222/article/1/1)
+[^c-07a0fad78f017de0515c7a0cff2d10ea]: Commencement: Art. 3 in force at 30.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2018/222/article/1/1)
 
-[^key-12734e3e0a0e2ada5cb3846f9cdbdd35]: Modification: [Art. 3](https://www.legislation.gov.uk/ssi/2018/222/article/3) modified (1.4.2025) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 60(2)](https://www.legislation.gov.uk/asp/2024/14/section/60/2), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2025/79](https://www.legislation.gov.uk/ssi/2025/79), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/79/regulation/2/1)[(2)(c)](https://www.legislation.gov.uk/ssi/2025/79/regulation/2/2/c)
+[^c-12734e3e0a0e2ada5cb3846f9cdbdd35]: Modification: [Art. 3](https://www.legislation.gov.uk/ssi/2018/222/article/3) modified (1.4.2025) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 60(2)](https://www.legislation.gov.uk/asp/2024/14/section/60/2), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2025/79](https://www.legislation.gov.uk/ssi/2025/79), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/79/regulation/2/1)[(2)(c)](https://www.legislation.gov.uk/ssi/2025/79/regulation/2/2/c)

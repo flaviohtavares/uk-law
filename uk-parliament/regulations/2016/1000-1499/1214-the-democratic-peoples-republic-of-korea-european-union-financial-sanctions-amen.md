@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law
 
-The Democratic People’s Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 3) Regulations 2016 (revoked)[^key-ae87e6c03bdd5c700ead53561d03cb2a]
+The Democratic People’s Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 3) Regulations 2016 (revoked)[^c-ae87e6c03bdd5c700ead53561d03cb2a]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 5th January 2017
 
-[^key-ae87e6c03bdd5c700ead53561d03cb2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ae87e6c03bdd5c700ead53561d03cb2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ae87e6c03bdd5c700ead53561d03cb2a]
+## 1. Citation and commencement[^c-ae87e6c03bdd5c700ead53561d03cb2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Democratic People’s Republic of Korea (European Union Financial Sanctions) Regulations 2013[^key-ae87e6c03bdd5c700ead53561d03cb2a]
+## 2. Amendment of the Democratic People’s Republic of Korea (European Union Financial Sanctions) Regulations 2013[^c-ae87e6c03bdd5c700ead53561d03cb2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ae87e6c03bdd5c700ead53561d03cb2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ae87e6c03bdd5c700ead53561d03cb2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ae87e6c03bdd5c700ead53561d03cb2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ae87e6c03bdd5c700ead53561d03cb2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ae87e6c03bdd5c700ead53561d03cb2a]: Textual amendment: Regulations revoked (1.3.2017) by [The Democratic People's Republic of Korea (European Union Financial Sanctions) Regulations 2017 (S.I. 2017/218)](https://www.legislation.gov.uk/uksi/2017/218), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/218/regulation/1/1), [32(1)(d)](https://www.legislation.gov.uk/uksi/2017/218/regulation/32/1/d) (with [regs. 31](https://www.legislation.gov.uk/uksi/2017/218/regulation/31), [33](https://www.legislation.gov.uk/uksi/2017/218/regulation/33))
+[^c-ae87e6c03bdd5c700ead53561d03cb2a]: Textual amendment: Regulations revoked (1.3.2017) by [The Democratic People's Republic of Korea (European Union Financial Sanctions) Regulations 2017 (S.I. 2017/218)](https://www.legislation.gov.uk/uksi/2017/218), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/218/regulation/1/1), [32(1)(d)](https://www.legislation.gov.uk/uksi/2017/218/regulation/32/1/d) (with [regs. 31](https://www.legislation.gov.uk/uksi/2017/218/regulation/31), [33](https://www.legislation.gov.uk/uksi/2017/218/regulation/33))

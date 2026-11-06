@@ -207,7 +207,7 @@ The Limited Liability Partnerships (Application of Companies Act 2006) Regulatio
   > - (ca) sections 1087A and 1087B (DOB information);
 
   , and
-- (b) for sub-paragraph (2)(d)[^key-9160c5ff17e84a990472c12604f60693] substitute—
+- (b) for sub-paragraph (2)(d)[^c-9160c5ff17e84a990472c12604f60693] substitute—
 
   > - (d) omit paragraphs (c) and (d);
   > - (e) omit paragraphs (e) to (g) and (j).
@@ -294,6 +294,6 @@ A regulatory impact assessment of the effect that this instrument will have on t
 
 [^c22678261]: Marginal citation: Section 1079B is inserted by the Small Business, Enterprise and Employment Act 2015, section 101(1).
 
-[^key-9160c5ff17e84a990472c12604f60693]: Textual amendment: Words in [reg. 9(3)(b)](https://www.legislation.gov.uk/uksi/2015/1695/regulation/9/3/b) substituted (30.6.2016) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016 (S.I. 2016/599)](https://www.legislation.gov.uk/uksi/2016/599), [reg. 1](https://www.legislation.gov.uk/uksi/2016/599/regulation/1), [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2016/599/schedule/3/paragraph/10)
+[^c-9160c5ff17e84a990472c12604f60693]: Textual amendment: Words in [reg. 9(3)(b)](https://www.legislation.gov.uk/uksi/2015/1695/regulation/9/3/b) substituted (30.6.2016) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016 (S.I. 2016/599)](https://www.legislation.gov.uk/uksi/2016/599), [reg. 1](https://www.legislation.gov.uk/uksi/2016/599/regulation/1), [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2016/599/schedule/3/paragraph/10)
 
 [^c22678271]: Marginal citation: [S.I. 2009/2437](https://www.legislation.gov.uk/uksi/2009/2437).

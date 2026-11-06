@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Exemption certificates[^key-a97ead6d13ceb2b0e8847fc9adf8f760]
+## 25. Exemption certificates[^c-a97ead6d13ceb2b0e8847fc9adf8f760]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ and any such exemption may be granted subject to conditions and to a limit of ti
 
 ## Annotations
 
-[^key-a97ead6d13ceb2b0e8847fc9adf8f760]: Commencement: Reg. 25 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-a97ead6d13ceb2b0e8847fc9adf8f760]: Commencement: Reg. 25 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)

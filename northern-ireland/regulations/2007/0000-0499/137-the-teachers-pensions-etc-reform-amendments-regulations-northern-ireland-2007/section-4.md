@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Election in respect of protected benefits.[^key-973a5eb20ac4c0301ad714ec111302f5]
+## 4. Election in respect of protected benefits.[^c-973a5eb20ac4c0301ad714ec111302f5]
 
 *Extent: N.I.*
 
@@ -47,4 +47,4 @@ and the 1996 Regulations and the 1998 Regulations shall apply accordingly.
 
 ## Annotations
 
-[^key-973a5eb20ac4c0301ad714ec111302f5]: Commencement: Reg. 4 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-973a5eb20ac4c0301ad714ec111302f5]: Commencement: Reg. 4 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)

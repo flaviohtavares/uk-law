@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Amendment of Commission Implementing Regulation (EU) No 2015/2403[^key-a8a7fb2da3a9dbc0ffbae99850a5fdc7]
+## 58. Amendment of Commission Implementing Regulation (EU) No 2015/2403[^c-a8a7fb2da3a9dbc0ffbae99850a5fdc7]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,8 +42,8 @@ summary: ''
   >
   > In this Article—
   >
-  > - “**the appropriate authority**” means, [^key-b9472ffd605cf9dff017c92ca4234328]... the Secretary of State [^key-b9472ffd605cf9dff017c92ca4234328]...;
-  > - “**the relevant legislation**” means,[^key-d61568b023ced482d38773eb1ddc5458]... section 8(b) of the Firearms (Amendment) Act 1988 [^c23691321] [^key-d61568b023ced482d38773eb1ddc5458]....
+  > - “**the appropriate authority**” means, [^c-b9472ffd605cf9dff017c92ca4234328]... the Secretary of State [^c-b9472ffd605cf9dff017c92ca4234328]...;
+  > - “**the relevant legislation**” means,[^c-d61568b023ced482d38773eb1ddc5458]... section 8(b) of the Firearms (Amendment) Act 1988 [^c23691321] [^c-d61568b023ced482d38773eb1ddc5458]....
 
   .
 
@@ -58,7 +58,7 @@ summary: ''
 
   > **2.**
   >
-  > In this Article, “**the relevant legislation**” means, [^key-c3653f72ebe0fb9305b97bcc46ce6dcf]... section 8(a) of the Firearms (Amendment) Act 1988 [^key-c3653f72ebe0fb9305b97bcc46ce6dcf]....
+  > In this Article, “**the relevant legislation**” means, [^c-c3653f72ebe0fb9305b97bcc46ce6dcf]... section 8(a) of the Firearms (Amendment) Act 1988 [^c-c3653f72ebe0fb9305b97bcc46ce6dcf]....
 
   .
 
@@ -81,12 +81,12 @@ summary: ''
 
 ## Annotations
 
-[^key-a8a7fb2da3a9dbc0ffbae99850a5fdc7]: Commencement: Reg. 58 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-a8a7fb2da3a9dbc0ffbae99850a5fdc7]: Commencement: Reg. 58 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-b9472ffd605cf9dff017c92ca4234328]: Textual amendment: Words in reg. 58(3)(f) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/4/2/a/i)
+[^c-b9472ffd605cf9dff017c92ca4234328]: Textual amendment: Words in reg. 58(3)(f) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/4/2/a/i)
 
-[^key-d61568b023ced482d38773eb1ddc5458]: Textual amendment: Words in reg. 58(3)(f) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/4/2/a/ii)
+[^c-d61568b023ced482d38773eb1ddc5458]: Textual amendment: Words in reg. 58(3)(f) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/4/2/a/ii)
 
 [^c23691321]: Marginal citation: [1988 c. 45](https://www.legislation.gov.uk/ukpga/1988/45).
 
-[^key-c3653f72ebe0fb9305b97bcc46ce6dcf]: Textual amendment: Words in reg. 58(5)(d) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/4/2/b)
+[^c-c3653f72ebe0fb9305b97bcc46ce6dcf]: Textual amendment: Words in reg. 58(5)(d) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/4/2/b)

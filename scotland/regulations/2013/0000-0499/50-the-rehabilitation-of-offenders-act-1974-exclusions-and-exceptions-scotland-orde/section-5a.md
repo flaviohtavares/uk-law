@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5A. Exclusion of paragraphs 3 and 4(2) and (3), 5(1), and exception from paragraph 5(2), of schedule 3 of the Act[^key-e6f280231dcf5af64fc1705270d2c09d][^key-8b29ed397ea293bc5949cb9772ebba52]
+## 5A. Exclusion of paragraphs 3 and 4(2) and (3), 5(1), and exception from paragraph 5(2), of schedule 3 of the Act[^c-e6f280231dcf5af64fc1705270d2c09d][^c-8b29ed397ea293bc5949cb9772ebba52]
 
 *Extent: S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) The application of paragraph 4(2) and (3) of schedule 3 of the Act is excluded in relation to any question put to assess the suitability of a person for an office or employment mentioned in paragraph 6 of Part 2 of schedule 4.
 
-(2A)[^key-00c1317fe94bee659034a5c79e419511] The application of paragraph 4(2) and (3) of schedule 3 of the Act is excluded in relation to any question which requires to be answered—
+(2A)[^c-00c1317fe94bee659034a5c79e419511] The application of paragraph 4(2) and (3) of schedule 3 of the Act is excluded in relation to any question which requires to be answered—
 
 - (a) as part of the duty of co-operation of a designated core participant under section 25(1) of the 2025 Act;
 - (b) as a result of a notice issued by a requiring authority under section 26(1) of the 2025 Act.
@@ -40,8 +40,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e6f280231dcf5af64fc1705270d2c09d]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/ssi/2013/50/article/5A) inserted (28.2.2020) by [The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Amendment Order 2020 (S.S.I. 2020/45)](https://www.legislation.gov.uk/ssi/2020/45), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2020/45/article/1/2), [2(5)](https://www.legislation.gov.uk/ssi/2020/45/article/2/5) (with [art. 3(4)-(6)](https://www.legislation.gov.uk/ssi/2020/45/article/3/4))
+[^c-e6f280231dcf5af64fc1705270d2c09d]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/ssi/2013/50/article/5A) inserted (28.2.2020) by [The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Amendment Order 2020 (S.S.I. 2020/45)](https://www.legislation.gov.uk/ssi/2020/45), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2020/45/article/1/2), [2(5)](https://www.legislation.gov.uk/ssi/2020/45/article/2/5) (with [art. 3(4)-(6)](https://www.legislation.gov.uk/ssi/2020/45/article/3/4))
 
-[^key-8b29ed397ea293bc5949cb9772ebba52]: Textual amendment: Word in [art. 5A](https://www.legislation.gov.uk/ssi/2013/50/article/5A) heading inserted (1.4.2026) by [The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Domestic Homicide and Suicide Reviews) (Scotland) Amendment Order 2026 (S.S.I. 2026/141)](https://www.legislation.gov.uk/ssi/2026/141), [arts. 1](https://www.legislation.gov.uk/ssi/2026/141/article/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2026/141/article/2/5/a)
+[^c-8b29ed397ea293bc5949cb9772ebba52]: Textual amendment: Word in [art. 5A](https://www.legislation.gov.uk/ssi/2013/50/article/5A) heading inserted (1.4.2026) by [The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Domestic Homicide and Suicide Reviews) (Scotland) Amendment Order 2026 (S.S.I. 2026/141)](https://www.legislation.gov.uk/ssi/2026/141), [arts. 1](https://www.legislation.gov.uk/ssi/2026/141/article/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2026/141/article/2/5/a)
 
-[^key-00c1317fe94bee659034a5c79e419511]: Textual amendment: [Art. 5A(2A)](https://www.legislation.gov.uk/ssi/2013/50/article/5A/2A)[(2B)](https://www.legislation.gov.uk/ssi/2013/50/article/5A/2B) inserted (1.4.2026) by [The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Domestic Homicide and Suicide Reviews) (Scotland) Amendment Order 2026 (S.S.I. 2026/141)](https://www.legislation.gov.uk/ssi/2026/141), [arts. 1](https://www.legislation.gov.uk/ssi/2026/141/article/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2026/141/article/2/5/b)
+[^c-00c1317fe94bee659034a5c79e419511]: Textual amendment: [Art. 5A(2A)](https://www.legislation.gov.uk/ssi/2013/50/article/5A/2A)[(2B)](https://www.legislation.gov.uk/ssi/2013/50/article/5A/2B) inserted (1.4.2026) by [The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Domestic Homicide and Suicide Reviews) (Scotland) Amendment Order 2026 (S.S.I. 2026/141)](https://www.legislation.gov.uk/ssi/2026/141), [arts. 1](https://www.legislation.gov.uk/ssi/2026/141/article/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2026/141/article/2/5/b)

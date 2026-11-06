@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 50. Preliminary accreditation and accreditation of generating stations[^key-800cbbc08f0e8f8c8a141f78f491ef38]
+## 50. Preliminary accreditation and accreditation of generating stations[^c-800cbbc08f0e8f8c8a141f78f491ef38]
 
 *Extent: N.I.*
 
@@ -71,6 +71,6 @@ but otherwise the Authority must grant the application.
 
 ## Annotations
 
-[^key-800cbbc08f0e8f8c8a141f78f491ef38]: Commencement: Art. 50 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
+[^c-800cbbc08f0e8f8c8a141f78f491ef38]: Commencement: Art. 50 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
 
 [^f00020]: Footnote: [S.I. 1991 No. 1220 (N.I.11)](https://www.legislation.gov.uk/nisi/1991/1220)

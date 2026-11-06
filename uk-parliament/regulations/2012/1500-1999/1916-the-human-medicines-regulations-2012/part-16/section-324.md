@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-4336da89fcbab3bf584a4b563862a248] The Minister for Health, Social Services and Public Safety (in this regulation referred to as “**the Minister**”) must enforce or secure the enforcement of these Regulations and the relevant EU provisions in Northern Ireland.
+(1)[^c-4336da89fcbab3bf584a4b563862a248] The Minister for Health, Social Services and Public Safety (in this regulation referred to as “**the Minister**”) must enforce or secure the enforcement of these Regulations and the relevant EU provisions in Northern Ireland.
 
 (2) The Minister may make arrangements for a district council to enforce the provisions of these Regulations listed in paragraph (3) in its district to the extent specified in the arrangements.
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4336da89fcbab3bf584a4b563862a248]: Modification: Reg. 324(1) applied (with modifications) by The Medicines for Human Use (Clinical Trials) Regulations 2004 (S.I. 2004/1031), reg 47(1), Sch. 9 (as substituted (14.8.2012) by [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 paras. 57(b)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/57/b), [64](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/64) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32)))
+[^c-4336da89fcbab3bf584a4b563862a248]: Modification: Reg. 324(1) applied (with modifications) by The Medicines for Human Use (Clinical Trials) Regulations 2004 (S.I. 2004/1031), reg 47(1), Sch. 9 (as substituted (14.8.2012) by [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 paras. 57(b)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/57/b), [64](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/64) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32)))
 
 [^c21328861]: Marginal citation: [1972 c.9 (N.I.)](https://www.legislation.gov.uk/apni/1972/9).

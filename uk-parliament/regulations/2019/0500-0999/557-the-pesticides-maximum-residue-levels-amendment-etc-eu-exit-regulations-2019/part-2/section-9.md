@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Chapter 9[^key-472aa1bd155042766dd676106ff988f4]
+## 9. Chapter 9[^c-472aa1bd155042766dd676106ff988f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,7 +60,7 @@ summary: ''
 >
 > - (a) in relation to Wales, with the consent of the Welsh Ministers;
 > - (b) in relation to Scotland, with the consent of the Scottish Ministers;
-> - (c)[^key-8ce2136b38a79f84feb8e261214b3c76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (c)[^c-8ce2136b38a79f84feb8e261214b3c76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **1C.**
 >
@@ -74,14 +74,14 @@ summary: ''
 >
 > The Secretary of State may, by regulations, amend—
 >
-> - (a) Article 29(2)(b) in respect of the date by which a Great Britain[^key-045b4bdcd715172fd90e75b26e67a02d] control programme must be published;
+> - (a) Article 29(2)(b) in respect of the date by which a Great Britain[^c-045b4bdcd715172fd90e75b26e67a02d] control programme must be published;
 > - (b) Article 30(2) in respect of the date by which a competent authority must submit its control programme;
 > - (c) the date in Article 31(1) by which a competent authority must submit the information described in that Article;
 > - (d) the date in Article 32(7) by which the Annual Report must be published.
 >
 > **3.**
 >
-> The Secretary of State may only make regulations under paragraph 2 with the consent of the Welsh Ministers and the Scottish Ministers[^key-2878d50c888c5304552318919a05d7d6].
+> The Secretary of State may only make regulations under paragraph 2 with the consent of the Welsh Ministers and the Scottish Ministers[^c-2878d50c888c5304552318919a05d7d6].
 >
 > **Article 46A — MRLs register**
 >
@@ -196,7 +196,7 @@ summary: ''
 >
 > For regulations made under this Regulation by the Scottish Ministers, see section 27 of the Interpretation and Legislative Reform (Scotland) Act 2010 [^c23667981].
 >
-> **3.[^key-355bdd10c29f2032e2d12d3986b38c26]**
+> **3.[^c-355bdd10c29f2032e2d12d3986b38c26]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
@@ -212,7 +212,7 @@ summary: ''
 >
 > Regulations made by the Scottish Ministers under this Regulation are subject to the negative procedure (see section 28 of the Interpretation and Legislative Reform (Scotland) Act 2010).
 >
-> **7.[^key-355bdd10c29f2032e2d12d3986b38c26]**
+> **7.[^c-355bdd10c29f2032e2d12d3986b38c26]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
@@ -229,14 +229,14 @@ summary: ''
 
 ## Annotations
 
-[^key-472aa1bd155042766dd676106ff988f4]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-472aa1bd155042766dd676106ff988f4]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-8ce2136b38a79f84feb8e261214b3c76]: Textual amendment: Words in reg. 9(4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [6(6)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/6/6/a/i)
+[^c-8ce2136b38a79f84feb8e261214b3c76]: Textual amendment: Words in reg. 9(4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [6(6)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/6/6/a/i)
 
-[^key-045b4bdcd715172fd90e75b26e67a02d]: Textual amendment: Words in reg. 9(4) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [6(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/6/6/a/ii)
+[^c-045b4bdcd715172fd90e75b26e67a02d]: Textual amendment: Words in reg. 9(4) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [6(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/6/6/a/ii)
 
-[^key-2878d50c888c5304552318919a05d7d6]: Textual amendment: Words in reg. 9(4) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [6(6)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/6/6/a/iii)
+[^c-2878d50c888c5304552318919a05d7d6]: Textual amendment: Words in reg. 9(4) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [6(6)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/6/6/a/iii)
 
 [^c23667981]: Marginal citation: [2010 asp 10](https://www.legislation.gov.uk/asp/2010/10).
 
-[^key-355bdd10c29f2032e2d12d3986b38c26]: Textual amendment: Words in reg. 9(4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [6(6)(b)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/6/6/b)
+[^c-355bdd10c29f2032e2d12d3986b38c26]: Textual amendment: Words in reg. 9(4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [6(6)(b)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/6/6/b)

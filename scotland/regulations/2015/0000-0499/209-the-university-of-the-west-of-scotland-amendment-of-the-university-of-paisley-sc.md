@@ -32,7 +32,7 @@ summary: ''
 
 Education
 
-The University of the West of Scotland (Amendment of the University of Paisley (Scotland) Order of Council 1993) Order of Council 2015 (revoked)[^key-c1c7551eea56856613675d96f1942b34]
+The University of the West of Scotland (Amendment of the University of Paisley (Scotland) Order of Council 1993) Order of Council 2015 (revoked)[^c-c1c7551eea56856613675d96f1942b34]
 
 Made
 
@@ -50,30 +50,30 @@ At the Council Chamber, Whitehall, the 26th day of May 2015
 
 By the Lords of Her Majesty’s Most Honourable Privy Council
 
-[^key-c1c7551eea56856613675d96f1942b34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c1c7551eea56856613675d96f1942b34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c1c7551eea56856613675d96f1942b34]
+## 1. Citation and commencement[^c-c1c7551eea56856613675d96f1942b34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the University of Paisley (Scotland) Order of Council 1993[^key-c1c7551eea56856613675d96f1942b34]
+## 2. Amendment of the University of Paisley (Scotland) Order of Council 1993[^c-c1c7551eea56856613675d96f1942b34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-c1c7551eea56856613675d96f1942b34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c1c7551eea56856613675d96f1942b34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-c1c7551eea56856613675d96f1942b34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c1c7551eea56856613675d96f1942b34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-c1c7551eea56856613675d96f1942b34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c1c7551eea56856613675d96f1942b34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c1c7551eea56856613675d96f1942b34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c1c7551eea56856613675d96f1942b34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c1c7551eea56856613675d96f1942b34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c1c7551eea56856613675d96f1942b34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c1c7551eea56856613675d96f1942b34]: Textual amendment: Order revoked (1.10.2019) by [The University of the West of Scotland Order of Council 2019 (S.S.I. 2019/212)](https://www.legislation.gov.uk/ssi/2019/212), [art. 1](https://www.legislation.gov.uk/ssi/2019/212/article/1), [sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2019/212/schedule/2/paragraph/3)
+[^c-c1c7551eea56856613675d96f1942b34]: Textual amendment: Order revoked (1.10.2019) by [The University of the West of Scotland Order of Council 2019 (S.S.I. 2019/212)](https://www.legislation.gov.uk/ssi/2019/212), [art. 1](https://www.legislation.gov.uk/ssi/2019/212/article/1), [sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2019/212/schedule/2/paragraph/3)

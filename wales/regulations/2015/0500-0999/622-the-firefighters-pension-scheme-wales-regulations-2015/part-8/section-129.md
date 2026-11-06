@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 129. Employer additional contribution: employer initiated retirement[^key-577e9c8c7214028896c4bf3c432eff11]
+## 129. Employer additional contribution: employer initiated retirement[^c-577e9c8c7214028896c4bf3c432eff11]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-577e9c8c7214028896c4bf3c432eff11]: Commencement: Reg. 129 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-577e9c8c7214028896c4bf3c432eff11]: Commencement: Reg. 129 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

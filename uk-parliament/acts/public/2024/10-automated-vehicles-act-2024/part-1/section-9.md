@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Further provision about variation, suspension and withdrawal[^key-cfdc0400bb25760ecbd577250ce9a43f]
+## 9. Further provision about variation, suspension and withdrawal[^c-cfdc0400bb25760ecbd577250ce9a43f]
 
 *Extent: E+W+S*
 
@@ -56,4 +56,4 @@ but does not otherwise affect the authorisation.
 
 ## Annotations
 
-[^key-cfdc0400bb25760ecbd577250ce9a43f]: Commencement: S. 9 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-cfdc0400bb25760ecbd577250ce9a43f]: Commencement: S. 9 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

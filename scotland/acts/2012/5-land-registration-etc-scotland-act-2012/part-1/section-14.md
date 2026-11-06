@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. The archive record[^key-5879661f189de824203347938e2a423d]
+## 14. The archive record[^c-5879661f189de824203347938e2a423d]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5879661f189de824203347938e2a423d]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2012/5/section/14) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-5879661f189de824203347938e2a423d]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2012/5/section/14) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

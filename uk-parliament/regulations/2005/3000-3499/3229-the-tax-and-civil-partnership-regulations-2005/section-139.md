@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139.[^key-07ff85785753e867a12b40ec60977350]
+## 139.[^c-07ff85785753e867a12b40ec60977350]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In section 61 (interpretation), after subsection (4) insert —
 
 ## Annotations
 
-[^key-07ff85785753e867a12b40ec60977350]: Commencement: Reg. 139 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-07ff85785753e867a12b40ec60977350]: Commencement: Reg. 139 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

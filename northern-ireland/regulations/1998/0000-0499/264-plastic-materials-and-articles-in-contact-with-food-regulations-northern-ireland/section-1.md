@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-4d03237f4ec6772bc29acf63318b6edd]
+## 1. Citation and commencement[^c-4d03237f4ec6772bc29acf63318b6edd]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ These Regulations may be cited as the Plastic Materials and Articles in Contact 
 
 ## Annotations
 
-[^key-4d03237f4ec6772bc29acf63318b6edd]: Commencement: Reg. 1 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
+[^c-4d03237f4ec6772bc29acf63318b6edd]: Commencement: Reg. 1 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)

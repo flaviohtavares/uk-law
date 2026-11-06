@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Closed periods for spreading organic manure with high readily available nitrogen[^key-3c9e743f0e8378894bd357a2f5518f40]
+## 18. Closed periods for spreading organic manure with high readily available nitrogen[^c-3c9e743f0e8378894bd357a2f5518f40]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ The closed period
 
 ## Annotations
 
-[^key-3c9e743f0e8378894bd357a2f5518f40]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2021/77/regulation/18) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-3c9e743f0e8378894bd357a2f5518f40]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2021/77/regulation/18) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)

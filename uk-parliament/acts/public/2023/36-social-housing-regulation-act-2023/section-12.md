@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Moratorium on disposal of land[^key-59cbbd4dc9d8d7b28d5071b2a02723ac][^key-1ebce94e730b5fdb88fdb7f411d310b1]
+## 12. Moratorium on disposal of land[^c-59cbbd4dc9d8d7b28d5071b2a02723ac][^c-1ebce94e730b5fdb88fdb7f411d310b1]
 
 *Extent: E+W*
 
@@ -116,6 +116,6 @@ summary: ''
 
 ## Annotations
 
-[^key-59cbbd4dc9d8d7b28d5071b2a02723ac]: Commencement: S. 12 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
+[^c-59cbbd4dc9d8d7b28d5071b2a02723ac]: Commencement: S. 12 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
 
-[^key-1ebce94e730b5fdb88fdb7f411d310b1]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2023/36/section/12) in force at 1.4.2024 by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/437/regulation/4))
+[^c-1ebce94e730b5fdb88fdb7f411d310b1]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2023/36/section/12) in force at 1.4.2024 by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/437/regulation/4))

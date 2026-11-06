@@ -31,7 +31,7 @@ summary: ''
 
 COMPANIES
 
-The Companies (Acquisition of Own Shares) (Treasury Shares) No. 2 Regulations 2003 (revoked)[^key-075fd551ce52b793f8361cec0b78f023]
+The Companies (Acquisition of Own Shares) (Treasury Shares) No. 2 Regulations 2003 (revoked)[^c-075fd551ce52b793f8361cec0b78f023]
 
 Made
 
@@ -45,42 +45,42 @@ Coming into force
 
 18th December 2003
 
-[^key-075fd551ce52b793f8361cec0b78f023]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-075fd551ce52b793f8361cec0b78f023]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-075fd551ce52b793f8361cec0b78f023]
+## 1. Citation, commencement and interpretation[^c-075fd551ce52b793f8361cec0b78f023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment and operation of section 89[^key-075fd551ce52b793f8361cec0b78f023]
+## 2. Amendment and operation of section 89[^c-075fd551ce52b793f8361cec0b78f023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of section 169[^key-075fd551ce52b793f8361cec0b78f023]
+## 3. Amendment of section 169[^c-075fd551ce52b793f8361cec0b78f023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of section 323[^key-075fd551ce52b793f8361cec0b78f023]
+## 4. Amendment of section 323[^c-075fd551ce52b793f8361cec0b78f023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of section 428[^key-075fd551ce52b793f8361cec0b78f023]
+## 5. Amendment of section 428[^c-075fd551ce52b793f8361cec0b78f023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of section 429[^key-075fd551ce52b793f8361cec0b78f023]
+## 6. Amendment of section 429[^c-075fd551ce52b793f8361cec0b78f023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of section 430A[^key-075fd551ce52b793f8361cec0b78f023]
+## 7. Amendment of section 430A[^c-075fd551ce52b793f8361cec0b78f023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-075fd551ce52b793f8361cec0b78f023]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-075fd551ce52b793f8361cec0b78f023]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-075fd551ce52b793f8361cec0b78f023]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-075fd551ce52b793f8361cec0b78f023]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-075fd551ce52b793f8361cec0b78f023]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2003/3031) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-075fd551ce52b793f8361cec0b78f023]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2003/3031) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)

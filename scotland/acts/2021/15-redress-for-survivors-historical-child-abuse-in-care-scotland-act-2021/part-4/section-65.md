@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Nomination of a beneficiary[^key-9c2c6fa7c692701bb1a1a13906815cff]
+## 65. Nomination of a beneficiary[^c-9c2c6fa7c692701bb1a1a13906815cff]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c2c6fa7c692701bb1a1a13906815cff]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2021/15/section/65) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-9c2c6fa7c692701bb1a1a13906815cff]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2021/15/section/65) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

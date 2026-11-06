@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Exports of certain goods[^key-f440ce6c9b79edfed2f56541b3cdaca7][^key-474b4c579c0e6906b8b1b1e6a8e6c146]
+## 45. Exports of certain goods[^c-f440ce6c9b79edfed2f56541b3cdaca7][^c-474b4c579c0e6906b8b1b1e6a8e6c146]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f440ce6c9b79edfed2f56541b3cdaca7]: Commencement: Reg. 45 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-f440ce6c9b79edfed2f56541b3cdaca7]: Commencement: Reg. 45 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-474b4c579c0e6906b8b1b1e6a8e6c146]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2019/411/regulation/45) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-474b4c579c0e6906b8b1b1e6a8e6c146]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2019/411/regulation/45) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

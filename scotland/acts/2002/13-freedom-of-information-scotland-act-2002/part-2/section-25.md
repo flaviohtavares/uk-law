@@ -31,7 +31,7 @@ summary: ''
 
   members of the public on request, whether free of charge or on payment.
 
-(3)[^key-722b90a86eb13743484a1c9c46752b15] For the purposes of subsection (1), information is to be taken to be reasonably obtainable if—
+(3)[^c-722b90a86eb13743484a1c9c46752b15] For the purposes of subsection (1), information is to be taken to be reasonably obtainable if—
 
 - (a) it is available—
   - (i) on request from the Scottish public authority which holds it, and
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-722b90a86eb13743484a1c9c46752b15]: Textual amendment: [S. 25(3)](https://www.legislation.gov.uk/asp/2002/13/section/25/3) substituted (31.5.2013) by [Freedom of Information (Amendment) (Scotland) Act 2013 (asp 2)](https://www.legislation.gov.uk/asp/2013/2), [ss. 3](https://www.legislation.gov.uk/asp/2013/2/section/3), [7](https://www.legislation.gov.uk/asp/2013/2/section/7); [S.S.I. 2013/136](https://www.legislation.gov.uk/ssi/2013/136), [art. 2](https://www.legislation.gov.uk/ssi/2013/136/article/2)
+[^c-722b90a86eb13743484a1c9c46752b15]: Textual amendment: [S. 25(3)](https://www.legislation.gov.uk/asp/2002/13/section/25/3) substituted (31.5.2013) by [Freedom of Information (Amendment) (Scotland) Act 2013 (asp 2)](https://www.legislation.gov.uk/asp/2013/2), [ss. 3](https://www.legislation.gov.uk/asp/2013/2/section/3), [7](https://www.legislation.gov.uk/asp/2013/2/section/7); [S.S.I. 2013/136](https://www.legislation.gov.uk/ssi/2013/136), [art. 2](https://www.legislation.gov.uk/ssi/2013/136/article/2)

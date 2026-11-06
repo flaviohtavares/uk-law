@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) It shall be the duty of an internal drainage board, of each of the Ministers and of the appropriate supervisory body[^key-abce60ec1d522345767a74a5e187413e], in formulating or considering any proposals relating to any functions of such a board—
+(1) It shall be the duty of an internal drainage board, of each of the Ministers and of the appropriate supervisory body[^c-abce60ec1d522345767a74a5e187413e], in formulating or considering any proposals relating to any functions of such a board—
 
 - (a) so far as may be consistent—
   - (i) with the purposes of any enactment relating to the functions of such a board; and
@@ -64,4 +64,4 @@ for securing, so long as that board have rights to the use of water or land asso
 
 [^c1415544]: Textual amendment: Ss. 61A-61E inserted (21.09.1994) by [1994 c. 25](https://www.legislation.gov.uk/ukpga/1994/25), ss .1, 3(2)
 
-[^key-abce60ec1d522345767a74a5e187413e]: Textual amendment: Words in [s. 61A](https://www.legislation.gov.uk/ukpga/1991/59/section/61A) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 328](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/328) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-abce60ec1d522345767a74a5e187413e]: Textual amendment: Words in [s. 61A](https://www.legislation.gov.uk/ukpga/1991/59/section/61A) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 328](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/328) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

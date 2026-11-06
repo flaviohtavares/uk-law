@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Transfer of functions and abolition of the Lands Tribunal[^key-8be30a37b95ffeb3167b74920c3750f4]
+## 2. Transfer of functions and abolition of the Lands Tribunal[^c-8be30a37b95ffeb3167b74920c3750f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8be30a37b95ffeb3167b74920c3750f4]: Commencement: Art. 2 in force at 1.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1)
+[^c-8be30a37b95ffeb3167b74920c3750f4]: Commencement: Art. 2 in force at 1.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1)

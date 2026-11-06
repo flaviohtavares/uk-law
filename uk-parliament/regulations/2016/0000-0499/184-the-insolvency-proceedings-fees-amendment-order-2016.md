@@ -48,36 +48,36 @@ Coming into force
 
 6th April 2016
 
-[^key-a1fcecb90a0b9dcd7eae2de8bb7030e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1fcecb90a0b9dcd7eae2de8bb7030e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a1fcecb90a0b9dcd7eae2de8bb7030e3]
+## 1. Citation and commencement[^c-a1fcecb90a0b9dcd7eae2de8bb7030e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Insolvency Proceedings (Fees) Order 2004[^key-a1fcecb90a0b9dcd7eae2de8bb7030e3]
+## 2. Amendments to the Insolvency Proceedings (Fees) Order 2004[^c-a1fcecb90a0b9dcd7eae2de8bb7030e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-a1fcecb90a0b9dcd7eae2de8bb7030e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a1fcecb90a0b9dcd7eae2de8bb7030e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-a1fcecb90a0b9dcd7eae2de8bb7030e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-a1fcecb90a0b9dcd7eae2de8bb7030e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-a1fcecb90a0b9dcd7eae2de8bb7030e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-a1fcecb90a0b9dcd7eae2de8bb7030e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-a1fcecb90a0b9dcd7eae2de8bb7030e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-a1fcecb90a0b9dcd7eae2de8bb7030e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Transitional Provision[^key-a1fcecb90a0b9dcd7eae2de8bb7030e3]
+## 7. Transitional Provision[^c-a1fcecb90a0b9dcd7eae2de8bb7030e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a1fcecb90a0b9dcd7eae2de8bb7030e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1fcecb90a0b9dcd7eae2de8bb7030e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a1fcecb90a0b9dcd7eae2de8bb7030e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1fcecb90a0b9dcd7eae2de8bb7030e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a1fcecb90a0b9dcd7eae2de8bb7030e3]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/184) revoked (21.7.2016) by [The Insolvency Proceedings (Fees) Order 2016 (S.I. 2016/692)](https://www.legislation.gov.uk/uksi/2016/692), [art. 1](https://www.legislation.gov.uk/uksi/2016/692/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/692/schedule/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2016/692/article/7))
+[^c-a1fcecb90a0b9dcd7eae2de8bb7030e3]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/184) revoked (21.7.2016) by [The Insolvency Proceedings (Fees) Order 2016 (S.I. 2016/692)](https://www.legislation.gov.uk/uksi/2016/692), [art. 1](https://www.legislation.gov.uk/uksi/2016/692/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/692/schedule/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2016/692/article/7))

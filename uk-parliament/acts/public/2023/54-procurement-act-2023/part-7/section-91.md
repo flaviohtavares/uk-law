@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Treaty state suppliers: non-discrimination in Scotland[^key-eb62d1e45b12bfde0992e980e9d2d143][^key-fdb0700506bf6e1b0ab54036f6f93ee1]
+## 91. Treaty state suppliers: non-discrimination in Scotland[^c-eb62d1e45b12bfde0992e980e9d2d143][^c-fdb0700506bf6e1b0ab54036f6f93ee1]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eb62d1e45b12bfde0992e980e9d2d143]: Commencement: S. 91 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-eb62d1e45b12bfde0992e980e9d2d143]: Commencement: S. 91 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-fdb0700506bf6e1b0ab54036f6f93ee1]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2023/54/section/91) in force at 12.3.2024 by [S.I. 2024/361](https://www.legislation.gov.uk/uksi/2024/361), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2024/361/regulation/2/j)
+[^c-fdb0700506bf6e1b0ab54036f6f93ee1]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2023/54/section/91) in force at 12.3.2024 by [S.I. 2024/361](https://www.legislation.gov.uk/uksi/2024/361), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2024/361/regulation/2/j)

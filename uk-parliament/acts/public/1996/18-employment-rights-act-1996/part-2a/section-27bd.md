@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27BD. Guaranteed hours offer: exceptions to duty to make offer and withdrawal of offer[^key-7b0e53df043b0c8fd787bc4f98fd8c59]
+## 27BD. Guaranteed hours offer: exceptions to duty to make offer and withdrawal of offer[^c-7b0e53df043b0c8fd787bc4f98fd8c59]
 
 *Extent: E+W+S+N.I.*
 
@@ -99,4 +99,4 @@ the employer must give a notice to the qualifying worker that states which provi
 
 ## Annotations
 
-[^key-7b0e53df043b0c8fd787bc4f98fd8c59]: Textual amendment: Pt. 2A Ch. 2 inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2025/36/section/1/4), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/a)
+[^c-7b0e53df043b0c8fd787bc4f98fd8c59]: Textual amendment: Pt. 2A Ch. 2 inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2025/36/section/1/4), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/a)

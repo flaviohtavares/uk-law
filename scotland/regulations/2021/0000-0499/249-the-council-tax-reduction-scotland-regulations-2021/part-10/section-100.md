@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 100. Transitional addition in accordance with Part 6 of schedule 1 of the 2012 Regulations[^key-55ec72512d56499300d548a4ef92e0fc]
+## 100. Transitional addition in accordance with Part 6 of schedule 1 of the 2012 Regulations[^c-55ec72512d56499300d548a4ef92e0fc]
 
 *Extent: S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-55ec72512d56499300d548a4ef92e0fc]: Commencement: [Reg. 100](https://www.legislation.gov.uk/ssi/2021/249/regulation/100) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-55ec72512d56499300d548a4ef92e0fc]: Commencement: [Reg. 100](https://www.legislation.gov.uk/ssi/2021/249/regulation/100) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00229]: Footnote: Part 6 of schedule 1 was amended by [S.S.I. 2013/48](https://www.legislation.gov.uk/ssi/2013/48), [S.S.I. 2013/218](https://www.legislation.gov.uk/ssi/2013/218) and [S.S.I. 2020/64](https://www.legislation.gov.uk/ssi/2020/64).

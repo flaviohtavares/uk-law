@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Postponement[^key-1d6ae7a0c94953b8232c90516ee0a151][^key-d59f6c2a9c42161ca1815c0c61d9e1f6][^key-d59f6c2a9c42161ca1815c0c61d9e1f6]
+## 99. Postponement[^c-1d6ae7a0c94953b8232c90516ee0a151][^c-d59f6c2a9c42161ca1815c0c61d9e1f6][^c-d59f6c2a9c42161ca1815c0c61d9e1f6]
 
 *Extent: S*
 
@@ -65,13 +65,13 @@ the application may be granted even after the period ends.
 - (a) imposed a fine on the accused;
 - (b) made an order falling within section 97(3);
 - (c) made an order under section 249 of the Procedure Act;
-- (d)[^key-244025908104eb88ce6353030bc1d21e] made a restitution order;
+- (d)[^c-244025908104eb88ce6353030bc1d21e] made a restitution order;
 - (e) ordered the accused under section 253F(2) of the Procedure Act to pay a victim surcharge.
 
 ## Annotations
 
-[^key-1d6ae7a0c94953b8232c90516ee0a151]: Commencement: S. 99 in force at 24.3.2003 by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/a)
+[^c-1d6ae7a0c94953b8232c90516ee0a151]: Commencement: S. 99 in force at 24.3.2003 by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/a)
 
-[^key-d59f6c2a9c42161ca1815c0c61d9e1f6]: Modification: Pt. 3 applied by Terrorism Act 2000 (c. 11), Sch. 8 paras. 17(4A), 34(3A) (as substituted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 11 para. 39(4)(5)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/39/4); [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/b)[(2)](https://www.legislation.gov.uk/ssi/2003/210/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2003/210/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2003/210/article/7)); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule)
+[^c-d59f6c2a9c42161ca1815c0c61d9e1f6]: Modification: Pt. 3 applied by Terrorism Act 2000 (c. 11), Sch. 8 paras. 17(4A), 34(3A) (as substituted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 11 para. 39(4)(5)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/39/4); [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/b)[(2)](https://www.legislation.gov.uk/ssi/2003/210/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2003/210/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2003/210/article/7)); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule)
 
-[^key-244025908104eb88ce6353030bc1d21e]: Textual amendment: [S. 99(11)(d)](https://www.legislation.gov.uk/ukpga/2002/29/section/99/11/d)[(e)](https://www.legislation.gov.uk/ukpga/2002/29/section/99/11/e) inserted (25.11.2019 for specified purposes, 10.2.2021 in so far as not already in force) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(2)(c)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/2/c), [Sch. 4 para. 36](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/36); [S.S.I. 2019/281](https://www.legislation.gov.uk/ssi/2019/281), [reg. 2](https://www.legislation.gov.uk/ssi/2019/281/regulation/2); [S.S.I. 2020/407](https://www.legislation.gov.uk/ssi/2020/407), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2020/407/regulation/2/1/c)
+[^c-244025908104eb88ce6353030bc1d21e]: Textual amendment: [S. 99(11)(d)](https://www.legislation.gov.uk/ukpga/2002/29/section/99/11/d)[(e)](https://www.legislation.gov.uk/ukpga/2002/29/section/99/11/e) inserted (25.11.2019 for specified purposes, 10.2.2021 in so far as not already in force) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(2)(c)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/2/c), [Sch. 4 para. 36](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/36); [S.S.I. 2019/281](https://www.legislation.gov.uk/ssi/2019/281), [reg. 2](https://www.legislation.gov.uk/ssi/2019/281/regulation/2); [S.S.I. 2020/407](https://www.legislation.gov.uk/ssi/2020/407), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2020/407/regulation/2/1/c)

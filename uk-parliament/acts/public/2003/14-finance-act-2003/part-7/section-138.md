@@ -24,10 +24,10 @@ summary: ''
 
 (2) In the entry relating to 2004-05 and subsequent tax years omit “and subsequent tax years”.
 
-(3)[^key-9141d6ab4295b51c153b1170a5267a47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9141d6ab4295b51c153b1170a5267a47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 170(3) of that Act (power to provide by order for a lower threshold different from that specified in the table in section 139(4) to apply for tax years beginning on or after 6th April 2005) for “6th April 2005” substitute “ 6th April 2006 ”.
 
 ## Annotations
 
-[^key-9141d6ab4295b51c153b1170a5267a47]: Textual amendment: [S. 138(3)](https://www.legislation.gov.uk/ukpga/2003/14/section/138/3) omitted (with effect in accordance with s. 47(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 47(2)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/47/2/a)
+[^c-9141d6ab4295b51c153b1170a5267a47]: Textual amendment: [S. 138(3)](https://www.legislation.gov.uk/ukpga/2003/14/section/138/3) omitted (with effect in accordance with s. 47(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 47(2)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/47/2/a)

@@ -38,7 +38,7 @@ Coming into force
 
 [^c1976196]The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 1046(1), (2) and (4) to (6), 1047(1), 1049(1) to (3), 1050(3) to (5), 1051(1) to (3), 1053(2) to (5), 1054(1) and (2), 1055, 1056, 1058(1) to (3), 1078(5), 1105(1) and (2), 1140(2), 1292 (1) and (4), and 1294 of the Companies Act 2006 .
 
-In accordance with sections 1046(8), 1051(5), 1053(6), 1290, 1292(4) and 1294(6) of that Act, a draft of this instrument was laid before Parliament and approved by each House of Parliament.[^key-9bc53c1d96ff153fb48b102b8b63c19f]
+In accordance with sections 1046(8), 1051(5), 1053(6), 1290, 1292(4) and 1294(6) of that Act, a draft of this instrument was laid before Parliament and approved by each House of Parliament.[^c-9bc53c1d96ff153fb48b102b8b63c19f]
 
 ## Contents
 
@@ -47,7 +47,7 @@ In accordance with sections 1046(8), 1051(5), 1053(6), 1290, 1292(4) and 1294(6)
 - [Section 1 — Citation and commencement](part-1/section-1.md)
 - [Section 2 — Interpretation](part-1/section-2.md)
 
-### PART 2 — INITIAL REGISTRATION OF PARTICULARS[^key-47dd26dbd1bb77ed2a8358da1572d040]
+### PART 2 — INITIAL REGISTRATION OF PARTICULARS[^c-47dd26dbd1bb77ed2a8358da1572d040]
 
 - [Section 3 — Application and interpretation of Part](part-2/section-3.md)
 - [Section 4 — Duty to deliver return and documents](part-2/section-4.md)
@@ -69,7 +69,7 @@ In accordance with sections 1046(8), 1051(5), 1053(6), 1290, 1292(4) and 1294(6)
 - [Section 16 — Return of alteration of manner of compliance with accounting requirements](part-3/section-16.md)
 - [Section 17 — Penalty for non-compliance](part-3/section-17.md)
 
-### Part 3A — Duties relating to ID verification and notification[^key-6ccbf8f43d431c5ea1a9c855b25ea048]
+### Part 3A — Duties relating to ID verification and notification[^c-6ccbf8f43d431c5ea1a9c855b25ea048]
 
 - [Section 17A — Directors: duties relating to ID verification and notification](part-3a/section-17a.md)
 - [Section 17B — Identity verification: material unavailable for public inspection](part-3a/section-17b.md)
@@ -229,8 +229,8 @@ An Impact Assessment in respect of these Regulations has been produced and copie
 
 [^c1976196]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-9bc53c1d96ff153fb48b102b8b63c19f]: Modification: Regulations applied (with modifications) (31.12.2020) by [The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 3 paras. 5-11](https://www.legislation.gov.uk/uksi/2019/685/schedule/3/paragraph/5) (as amended (31.12.2020) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2020/523/regulation/26)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9bc53c1d96ff153fb48b102b8b63c19f]: Modification: Regulations applied (with modifications) (31.12.2020) by [The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 3 paras. 5-11](https://www.legislation.gov.uk/uksi/2019/685/schedule/3/paragraph/5) (as amended (31.12.2020) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2020/523/regulation/26)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-47dd26dbd1bb77ed2a8358da1572d040]: Modification: [Pt. 2](https://www.legislation.gov.uk/uksi/2009/1801/part/2) modified (31.12.2020) by [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2019/348/schedule/4/paragraph/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-47dd26dbd1bb77ed2a8358da1572d040]: Modification: [Pt. 2](https://www.legislation.gov.uk/uksi/2009/1801/part/2) modified (31.12.2020) by [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2019/348/schedule/4/paragraph/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6ccbf8f43d431c5ea1a9c855b25ea048]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2009/1801/part/3A) inserted (18.11.2025) by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3), [4(4)](https://www.legislation.gov.uk/uksi/2025/761/regulation/4/4) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6))
+[^c-6ccbf8f43d431c5ea1a9c855b25ea048]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2009/1801/part/3A) inserted (18.11.2025) by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3), [4(4)](https://www.legislation.gov.uk/uksi/2025/761/regulation/4/4) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6))

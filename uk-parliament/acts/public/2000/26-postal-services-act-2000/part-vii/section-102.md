@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Power to ensure compliance with the Postal Services Directive.[^key-38f2ad86325cee402ea65a35e72abf6b]
+## 102. Power to ensure compliance with the Postal Services Directive.[^c-38f2ad86325cee402ea65a35e72abf6b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38f2ad86325cee402ea65a35e72abf6b]: Textual amendment: [S. 102](https://www.legislation.gov.uk/ukpga/2000/26/section/102) omitted (31.12.2020) by virtue of [The Postal and Parcel Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1417)](https://www.legislation.gov.uk/uksi/2018/1417), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1417/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/1417/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-38f2ad86325cee402ea65a35e72abf6b]: Textual amendment: [S. 102](https://www.legislation.gov.uk/ukpga/2000/26/section/102) omitted (31.12.2020) by virtue of [The Postal and Parcel Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1417)](https://www.legislation.gov.uk/uksi/2018/1417), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1417/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/1417/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

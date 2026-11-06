@@ -33,27 +33,27 @@ An Act of the Scottish Parliament to establish the Scottish Civil Justice Counci
 
 The Bill for this Act of the Scottish Parliament was passed by the Parliament on 29th January 2013 and received Royal Assent on 5th March 2013
 
-## PART 1 — Scottish Civil Justice Council[^key-ca495a04340ff39975e9e2301d9f4ca0]
+## PART 1 — Scottish Civil Justice Council[^c-ca495a04340ff39975e9e2301d9f4ca0]
 
 ### Establishment
 
-#### 1. Establishment of the Scottish Civil Justice Council[^key-51fd4e4a62e3b65cd67cdc2a86bf8b53]
+#### 1. Establishment of the Scottish Civil Justice Council[^c-51fd4e4a62e3b65cd67cdc2a86bf8b53]
 
 There is to be a body to be known as the Scottish Civil Justice Council (“**the Council**”).
 
 ### Functions and powers
 
-#### 2. Functions of the Council[^key-6ec7b5608281356e7604bacc647ea4d4]
+#### 2. Functions of the Council[^c-6ec7b5608281356e7604bacc647ea4d4]
 
 (1) The functions of the Council are—
 
 - (a) to keep the civil justice system under review,
-- (b) to review the practice and procedure followed in proceedings in the Court of Session and in civil proceedings in the Sheriff Appeal Court or[^key-e7a410c994f8f9c1f04f4c015001fcc7] the sheriff court,
-- (bb)[^key-a21f7bbfc58e73a5f29388efff9d6ef2] to review the practice and procedure followed in inquiry proceedings under the Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016,
+- (b) to review the practice and procedure followed in proceedings in the Court of Session and in civil proceedings in the Sheriff Appeal Court or[^c-e7a410c994f8f9c1f04f4c015001fcc7] the sheriff court,
+- (bb)[^c-a21f7bbfc58e73a5f29388efff9d6ef2] to review the practice and procedure followed in inquiry proceedings under the Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016,
 - (c) to prepare and submit to the Court of Session—
-  - (i)[^key-2dc4c25704746df857773a932612c7af] draft civil procedure rules,
-  - (ia)[^key-8bb9991250ef4f9f40d787f49bfef920] draft fees rules,
-  - (ib)[^key-d91d72b7db95787e802e7619cfb602f2] draft inquiry procedure rules,
+  - (i)[^c-2dc4c25704746df857773a932612c7af] draft civil procedure rules,
+  - (ia)[^c-8bb9991250ef4f9f40d787f49bfef920] draft fees rules,
+  - (ib)[^c-d91d72b7db95787e802e7619cfb602f2] draft inquiry procedure rules,
 - (d) to provide advice and make recommendations to the Lord President on the development of, and changes to, the civil justice system, and
 - (e) to provide such advice on any matter relating to the civil justice system as may be requested by the Lord President.
 
@@ -81,15 +81,15 @@ There is to be a body to be known as the Scottish Civil Justice Council (“**th
 
 (6) The courts within the remit of the Council are—
 
-- (a) the Court of Session, [^key-ae6598f53a2fedf43e533204c88f4592]...
-- (aa)[^key-9f922864414156cdd6ac147c2aef5cd0] the Sheriff Appeal Court, and
+- (a) the Court of Session, [^c-ae6598f53a2fedf43e533204c88f4592]...
+- (aa)[^c-9f922864414156cdd6ac147c2aef5cd0] the Sheriff Appeal Court, and
 - (b) the sheriff court.
 
-(6A)[^key-2dd08f8fc901532c73a40ebdc1ce9d1a] For the purposes of this Part, “ **draft fees rules** ” means drafts of such provision as the Court of Session may make by act of sederunt under section 105(1) or 106(1) of the Courts Reform (Scotland) Act 2014 (powers to regulate court fees).
+(6A)[^c-2dd08f8fc901532c73a40ebdc1ce9d1a] For the purposes of this Part, “ **draft fees rules** ” means drafts of such provision as the Court of Session may make by act of sederunt under section 105(1) or 106(1) of the Courts Reform (Scotland) Act 2014 (powers to regulate court fees).
 
-(6B)[^key-898ef9c55a452094b135d75de8013511] For the purposes of this Part, “draft inquiry procedure rules” are draft rules prepared with a view to the making by the Court of Session of an act of sederunt under section 36(1) of the Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016.
+(6B)[^c-898ef9c55a452094b135d75de8013511] For the purposes of this Part, “draft inquiry procedure rules” are draft rules prepared with a view to the making by the Court of Session of an act of sederunt under section 36(1) of the Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016.
 
-#### 3. Powers of the Council[^key-f43348c36b63c57d3ae5ae8c006017d9]
+#### 3. Powers of the Council[^c-f43348c36b63c57d3ae5ae8c006017d9]
 
 (1) The Council may take such action as it considers necessary or desirable in pursuance of its functions.
 
@@ -103,23 +103,23 @@ There is to be a body to be known as the Scottish Civil Justice Council (“**th
 - (f) provide advice and make recommendations to the Scottish Ministers on the development of, and changes to, the civil justice system, and
 - (g) publish any recommendation it makes.
 
-#### 4. Court of Session to consider rules[^key-0072c8c51bc0c230e7b0d68c5c2203cb]
+#### 4. Court of Session to consider rules[^c-0072c8c51bc0c230e7b0d68c5c2203cb]
 
-(1) The Court of Session must consider any draft civil procedure rules, draft fees rules[^key-c7ded6afb9a6046a7fddf8e613148ff3] or draft inquiry procedure rules[^key-31e72bdb92d9c8109b70e01be5ace230] submitted to it by the Council and may—
+(1) The Court of Session must consider any draft civil procedure rules, draft fees rules[^c-c7ded6afb9a6046a7fddf8e613148ff3] or draft inquiry procedure rules[^c-31e72bdb92d9c8109b70e01be5ace230] submitted to it by the Council and may—
 
 - (a) approve the rules,
 - (b) approve the rules with such modifications as it considers appropriate, or
 - (c) reject the rules.
 
-(2) Where the Court of Session approves draft civil procedure rules, draft fees rules[^key-f40c3ab847351364e484c5ea0c90edde] or draft inquiry procedure rules[^key-fed0a309da733459f62683cea562cb2a] (with or without modification) it must embody the approved rules in an act of sederunt.
+(2) Where the Court of Session approves draft civil procedure rules, draft fees rules[^c-f40c3ab847351364e484c5ea0c90edde] or draft inquiry procedure rules[^c-fed0a309da733459f62683cea562cb2a] (with or without modification) it must embody the approved rules in an act of sederunt.
 
 (3) Nothing in this Part affects the powers of the Court of Session to prepare or make rules—
 
-- (a)[^key-6b42aa30bcdf4ef37babe74164310d62] which relate to a matter in section 2(5).
-- (b)[^key-8e487f32d48bb701819b08f744de8ba0] under section 105(1) or 106(1) of the Courts Reform (Scotland) Act 2014.
-- (c)[^key-2fcf8f4442d0b5d5819bf9e939cab5f4] under section 36(1) of the Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016.
+- (a)[^c-6b42aa30bcdf4ef37babe74164310d62] which relate to a matter in section 2(5).
+- (b)[^c-8e487f32d48bb701819b08f744de8ba0] under section 105(1) or 106(1) of the Courts Reform (Scotland) Act 2014.
+- (c)[^c-2fcf8f4442d0b5d5819bf9e939cab5f4] under section 36(1) of the Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016.
 
-#### 5. Annual programme and report[^key-5d26fff9316cb273f7858e3af458e074]
+#### 5. Annual programme and report[^c-5d26fff9316cb273f7858e3af458e074]
 
 (1) The Council must prepare an annual plan setting out its objectives and priorities for each yearly period beginning on 1 April before the start of that period (“**the programme**”).
 
@@ -133,7 +133,7 @@ There is to be a body to be known as the Scottish Civil Justice Council (“**th
 
 ### Membership
 
-#### 6. Composition of the Council[^key-d9b4361b9cef45975e678d5fdbae52c2]
+#### 6. Composition of the Council[^c-d9b4361b9cef45975e678d5fdbae52c2]
 
 (1) The Council is to have not more than 20 members and is to be comprised of—
 
@@ -164,7 +164,7 @@ There is to be a body to be known as the Scottish Civil Justice Council (“**th
 
 (7) Orders under subsection (3) are subject to the affirmative procedure.
 
-#### 7. Lord President appointment process[^key-a70c45ff5dbfa495347d62bfb6e8f953]
+#### 7. Lord President appointment process[^c-a70c45ff5dbfa495347d62bfb6e8f953]
 
 (1) The Lord President must appoint persons to be members of the Council in respect of the categories of membership described in section 6(1)(e) to (i) and ensure that the number of members in each such category of membership is maintained at the required level.
 
@@ -190,7 +190,7 @@ There is to be a body to be known as the Scottish Civil Justice Council (“**th
   - (i) a consumer representative member, or
   - (ii) a LP member.
 
-#### 8. Tenure[^key-2f28960e5983d0da7b300dad2e0c8a82]
+#### 8. Tenure[^c-2f28960e5983d0da7b300dad2e0c8a82]
 
 (1) The Lord President, the Chief Executive of the Scottish Court Service and the principal officer of the Scottish Legal Aid Board are members of the Council by virtue of holding their respective offices.
 
@@ -211,7 +211,7 @@ There is to be a body to be known as the Scottish Civil Justice Council (“**th
 
 (7) A person who is or has been a member of the Council may be reappointed (whether in respect of the same or a different category of membership) for further periods.
 
-#### 9. Disqualification and removal from office[^key-6ce9c6a3a79fca1598741ab6d5f104d8]
+#### 9. Disqualification and removal from office[^c-6ce9c6a3a79fca1598741ab6d5f104d8]
 
 (1) A person is disqualified from appointment under section 7(1) as a member of the Council, and from holding office as such a member, if the person is or becomes—
 
@@ -232,7 +232,7 @@ There is to be a body to be known as the Scottish Civil Justice Council (“**th
 - (a) a consumer representative member, or
 - (b) a LP member.
 
-#### 10. Expenses and remuneration[^key-78b6f6eca724a153fa3cdc1f14478f67]
+#### 10. Expenses and remuneration[^c-78b6f6eca724a153fa3cdc1f14478f67]
 
 (1) The Scottish Court Service may pay such expenses as it thinks fit to—
 
@@ -254,7 +254,7 @@ There is to be a body to be known as the Scottish Civil Justice Council (“**th
 
 ### Operation
 
-#### 11. Chairing of the Council[^key-4d1c594abd860b3f6a9398f15ed9064a]
+#### 11. Chairing of the Council[^c-4d1c594abd860b3f6a9398f15ed9064a]
 
 (1) It is for the Lord President to determine who is to be chair of the Council.
 
@@ -270,7 +270,7 @@ There is to be a body to be known as the Scottish Civil Justice Council (“**th
 
 (4) Members of the Council must elect a member to act as deputy to the chair.
 
-#### 12. Proceedings[^key-9012706b6066f5dc5f326549746bbafb]
+#### 12. Proceedings[^c-9012706b6066f5dc5f326549746bbafb]
 
 (1) The Lord President may determine the number of members required to constitute a quorum for meetings of the Council.
 
@@ -295,7 +295,7 @@ There is to be a body to be known as the Scottish Civil Justice Council (“**th
 
 (8) The Scottish Ministers may nominate another member of staff of the Scottish Government who they consider would be suitable to be a member of the Council to attend and participate on behalf of the member appointed by them under section 6(2).
 
-#### 13. Committees[^key-4359252a0f58c8d119f5db191020e0c3]
+#### 13. Committees[^c-4359252a0f58c8d119f5db191020e0c3]
 
 (1) The Council may establish committees.
 
@@ -303,7 +303,7 @@ There is to be a body to be known as the Scottish Civil Justice Council (“**th
 
 ### General
 
-#### 14. Dissolution of existing rules councils[^key-545e0db892a5cf066ad8af1f859d1938]
+#### 14. Dissolution of existing rules councils[^c-545e0db892a5cf066ad8af1f859d1938]
 
 (1) The Court of Session Rules Council established under section 18 of the Administration of Justice (Scotland) Act 1933 (c. 41) (and continued under section 8 of the Court of Session Act 1988 (c. 36)) is dissolved.
 
@@ -313,7 +313,7 @@ There is to be a body to be known as the Scottish Civil Justice Council (“**th
 
 (4) Sections 33 and 34 of the Sheriff Courts (Scotland) Act 1971 (c. 58) are repealed.
 
-#### 15. Modification of enactments[^key-2a7e5ec5a1e98fa622e90217ec94fe5d]
+#### 15. Modification of enactments[^c-2a7e5ec5a1e98fa622e90217ec94fe5d]
 
 (1) In section 38(3) of the Legal Aid (Scotland) Act 1986 (c. 47) (rules of court), after “consult” insert “ the Scottish Civil Justice Council, ”.
 
@@ -328,14 +328,14 @@ There is to be a body to be known as the Scottish Civil Justice Council (“**th
   , and
 - (b) paragraphs (e) and (g) are repealed.
 
-#### 16. Interpretation of Part 1[^key-203fc4c10d94e2f20c60ed6a9bd2580a]
+#### 16. Interpretation of Part 1[^c-203fc4c10d94e2f20c60ed6a9bd2580a]
 
 In this Part—
 
 - “**advocate**” means a member of the Faculty of Advocates,
 - “**draft civil procedure rules**” has the meaning given in section 2(4),
-- draft fees rules” has the meaning given in section 2(6A)[^key-589d01a580f1c4ff5e33e62ce7e744ca],
-- “[^key-844d9d03c4e109e38a9bea49914e7397] **draft inquiry procedure rules** ” has the meaning given in section 2(6B),
+- draft fees rules” has the meaning given in section 2(6A)[^c-589d01a580f1c4ff5e33e62ce7e744ca],
+- “[^c-844d9d03c4e109e38a9bea49914e7397] **draft inquiry procedure rules** ” has the meaning given in section 2(6B),
 - “**solicitor**” means a person qualified to practise as solicitor under section 4 of the Solicitors (Scotland) Act 1980 (c. 46),
 - “**the Chief Executive of the Scottish Court Service**” means the chief executive appointed under paragraph 14(1) of schedule 3 to the Judiciary and Courts (Scotland) Act 2008 (asp 6),
 - “**the Lord Justice Clerk**” means the Lord Justice Clerk of the Court of Session,
@@ -346,7 +346,7 @@ In this Part—
 
 ### Contributions in respect of automatically available criminal advice and assistance
 
-#### 17. Contributions in respect of automatically available criminal advice and assistance[^key-d3b4fba782a266a4222c2925ade2b175]
+#### 17. Contributions in respect of automatically available criminal advice and assistance[^c-d3b4fba782a266a4222c2925ade2b175]
 
 In the Legal Aid (Scotland) Act 1986 (c. 47) (“**the 1986 Act**”), in section 8A (criminal advice and assistance: automatic availability in certain circumstances)—
 
@@ -361,7 +361,7 @@ In the Legal Aid (Scotland) Act 1986 (c. 47) (“**the 1986 Act**”), in sectio
 
 #### 18. Availability of criminal assistance by way of representation
 
-(1)[^key-72b36e44f7d99e6304fdba622a3d6d62] In section 9(2) of the 1986 Act (regulations may apply Part 2 to representation), after paragraph (dd), insert—
+(1)[^c-72b36e44f7d99e6304fdba622a3d6d62] In section 9(2) of the 1986 Act (regulations may apply Part 2 to representation), after paragraph (dd), insert—
 
 > - (dda) provide that, in relation to assistance by way of representation which relates to such criminal proceedings as may be prescribed, sections 9A and 11A are to apply instead of sections 8 and 11;
 
@@ -408,7 +408,7 @@ In the Legal Aid (Scotland) Act 1986 (c. 47) (“**the 1986 Act**”), in sectio
 
 .
 
-#### 19. Clients' contributions for criminal assistance by way of representation[^key-cf9fb75899c8c39a5333f1c5734e1bf8]
+#### 19. Clients' contributions for criminal assistance by way of representation[^c-cf9fb75899c8c39a5333f1c5734e1bf8]
 
 (1) In section 11(1) of the 1986 Act (clients' contributions), after “below” insert “ or, where applicable, section 11A ”.
 
@@ -514,7 +514,7 @@ In section 25AA of the 1986 Act (legal aid in respect of appeals under section 3
 
 ### General
 
-#### 22. Regulations about contributions for criminal legal assistance[^key-51c9e4921a3fe2bbbb6ce6f8b889738c]
+#### 22. Regulations about contributions for criminal legal assistance[^c-51c9e4921a3fe2bbbb6ce6f8b889738c]
 
 After section 33 of the 1986 Act insert—
 
@@ -544,7 +544,7 @@ After section 33 of the 1986 Act insert—
 
 .
 
-#### 23. Consequential modifications[^key-e7dbf05b871bd3029c59717c4963352b]
+#### 23. Consequential modifications[^c-e7dbf05b871bd3029c59717c4963352b]
 
 (1) The 1986 Act is amended as follows.
 
@@ -631,82 +631,82 @@ The short title of this Act is the Scottish Civil Justice Council and Criminal L
 
 ## Annotations
 
-[^key-ca495a04340ff39975e9e2301d9f4ca0]: Modification: Pt. 1: power to apply conferred (1.4.2015) by [Tribunals (Scotland) Act 2014 (asp 10)](https://www.legislation.gov.uk/asp/2014/10), [ss. 65(2)](https://www.legislation.gov.uk/asp/2014/10/section/65/2), [66(2)](https://www.legislation.gov.uk/asp/2014/10/section/66/2), [83(2)](https://www.legislation.gov.uk/asp/2014/10/section/83/2) (with [Sch. 9 para. 8](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/8)); [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-ca495a04340ff39975e9e2301d9f4ca0]: Modification: Pt. 1: power to apply conferred (1.4.2015) by [Tribunals (Scotland) Act 2014 (asp 10)](https://www.legislation.gov.uk/asp/2014/10), [ss. 65(2)](https://www.legislation.gov.uk/asp/2014/10/section/65/2), [66(2)](https://www.legislation.gov.uk/asp/2014/10/section/66/2), [83(2)](https://www.legislation.gov.uk/asp/2014/10/section/83/2) (with [Sch. 9 para. 8](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/8)); [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
 
-[^key-51fd4e4a62e3b65cd67cdc2a86bf8b53]: Commencement: S. 1 in force at 28.5.2013 by [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
+[^c-51fd4e4a62e3b65cd67cdc2a86bf8b53]: Commencement: S. 1 in force at 28.5.2013 by [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
 
-[^key-6ec7b5608281356e7604bacc647ea4d4]: Commencement: S. 2 in force at 28.5.2013 by [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
+[^c-6ec7b5608281356e7604bacc647ea4d4]: Commencement: S. 2 in force at 28.5.2013 by [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
 
-[^key-e7a410c994f8f9c1f04f4c015001fcc7]: Textual amendment: Words in s. 2(1)(b) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 18(a)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/18/a); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-e7a410c994f8f9c1f04f4c015001fcc7]: Textual amendment: Words in s. 2(1)(b) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 18(a)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/18/a); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-a21f7bbfc58e73a5f29388efff9d6ef2]: Textual amendment: [S. 2(1)(bb)](https://www.legislation.gov.uk/asp/2013/3/section/2/1/bb) inserted (15.1.2016) by [Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), [s. 42(1)](https://www.legislation.gov.uk/asp/2016/2/section/42/1), [Sch. 1 para. 1(2)(a)](https://www.legislation.gov.uk/asp/2016/2/schedule/1/paragraph/1/2/a)
+[^c-a21f7bbfc58e73a5f29388efff9d6ef2]: Textual amendment: [S. 2(1)(bb)](https://www.legislation.gov.uk/asp/2013/3/section/2/1/bb) inserted (15.1.2016) by [Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), [s. 42(1)](https://www.legislation.gov.uk/asp/2016/2/section/42/1), [Sch. 1 para. 1(2)(a)](https://www.legislation.gov.uk/asp/2016/2/schedule/1/paragraph/1/2/a)
 
-[^key-2dc4c25704746df857773a932612c7af]: Textual amendment: Words in s. 2(1)(c)(i) in s. 2(1)(c) renumbered as s. 2(1)(c)(i) (8.1.2016) by [Tribunals (Scotland) Act 2014 (asp 10)](https://www.legislation.gov.uk/asp/2014/10), [s. 83(2)](https://www.legislation.gov.uk/asp/2014/10/section/83/2), [Sch. 9 para. 13(2)(b)(i)](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/13/2/b/i) (with [Sch. 9 paras. 4](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/4), [6](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/6), [8](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/8)); [S.S.I. 2015/422](https://www.legislation.gov.uk/ssi/2015/422), [art. 2](https://www.legislation.gov.uk/ssi/2015/422/article/2)
+[^c-2dc4c25704746df857773a932612c7af]: Textual amendment: Words in s. 2(1)(c)(i) in s. 2(1)(c) renumbered as s. 2(1)(c)(i) (8.1.2016) by [Tribunals (Scotland) Act 2014 (asp 10)](https://www.legislation.gov.uk/asp/2014/10), [s. 83(2)](https://www.legislation.gov.uk/asp/2014/10/section/83/2), [Sch. 9 para. 13(2)(b)(i)](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/13/2/b/i) (with [Sch. 9 paras. 4](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/4), [6](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/6), [8](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/8)); [S.S.I. 2015/422](https://www.legislation.gov.uk/ssi/2015/422), [art. 2](https://www.legislation.gov.uk/ssi/2015/422/article/2)
 
-[^key-8bb9991250ef4f9f40d787f49bfef920]: Textual amendment: S. 2(1)(c)(ia) inserted after s. 2(1)(c)(i) (1.4.2015) by virtue of [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 31(2)(a)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/31/2/a); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-8bb9991250ef4f9f40d787f49bfef920]: Textual amendment: S. 2(1)(c)(ia) inserted after s. 2(1)(c)(i) (1.4.2015) by virtue of [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 31(2)(a)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/31/2/a); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-d91d72b7db95787e802e7619cfb602f2]: Textual amendment: [S. 2(1)(c)](https://www.legislation.gov.uk/asp/2013/3/section/2/1/c)[(ib)](https://www.legislation.gov.uk/asp/2013/3/section/2/1/ib) inserted (15.1.2016) by [Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), [s. 42(1)](https://www.legislation.gov.uk/asp/2016/2/section/42/1), [Sch. 1 para. 1(2)(b)](https://www.legislation.gov.uk/asp/2016/2/schedule/1/paragraph/1/2/b)
+[^c-d91d72b7db95787e802e7619cfb602f2]: Textual amendment: [S. 2(1)(c)](https://www.legislation.gov.uk/asp/2013/3/section/2/1/c)[(ib)](https://www.legislation.gov.uk/asp/2013/3/section/2/1/ib) inserted (15.1.2016) by [Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), [s. 42(1)](https://www.legislation.gov.uk/asp/2016/2/section/42/1), [Sch. 1 para. 1(2)(b)](https://www.legislation.gov.uk/asp/2016/2/schedule/1/paragraph/1/2/b)
 
-[^key-ae6598f53a2fedf43e533204c88f4592]: Textual amendment: Word in s. 2(6) repealed (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 18(b)(i)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/18/b/i); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-ae6598f53a2fedf43e533204c88f4592]: Textual amendment: Word in s. 2(6) repealed (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 18(b)(i)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/18/b/i); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-9f922864414156cdd6ac147c2aef5cd0]: Textual amendment: S. 2(6)(aa) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 18(b)(ii)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/18/b/ii); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-9f922864414156cdd6ac147c2aef5cd0]: Textual amendment: S. 2(6)(aa) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 18(b)(ii)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/18/b/ii); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-2dd08f8fc901532c73a40ebdc1ce9d1a]: Textual amendment: S. 2(6A) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 31(2)(b)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/31/2/b); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-2dd08f8fc901532c73a40ebdc1ce9d1a]: Textual amendment: S. 2(6A) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 31(2)(b)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/31/2/b); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-898ef9c55a452094b135d75de8013511]: Textual amendment: [S. 2(6B)](https://www.legislation.gov.uk/asp/2013/3/section/2/6B) inserted (15.1.2016) by [Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), [s. 42(1)](https://www.legislation.gov.uk/asp/2016/2/section/42/1), [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/asp/2016/2/schedule/1/paragraph/1/3)
+[^c-898ef9c55a452094b135d75de8013511]: Textual amendment: [S. 2(6B)](https://www.legislation.gov.uk/asp/2013/3/section/2/6B) inserted (15.1.2016) by [Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), [s. 42(1)](https://www.legislation.gov.uk/asp/2016/2/section/42/1), [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/asp/2016/2/schedule/1/paragraph/1/3)
 
-[^key-f43348c36b63c57d3ae5ae8c006017d9]: Commencement: S. 3 in force at 28.5.2013 by [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
+[^c-f43348c36b63c57d3ae5ae8c006017d9]: Commencement: S. 3 in force at 28.5.2013 by [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
 
-[^key-0072c8c51bc0c230e7b0d68c5c2203cb]: Commencement: S. 4 in force at 28.5.2013 by [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
+[^c-0072c8c51bc0c230e7b0d68c5c2203cb]: Commencement: S. 4 in force at 28.5.2013 by [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
 
-[^key-c7ded6afb9a6046a7fddf8e613148ff3]: Textual amendment: Words in s. 4(1) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 31(3)(a)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/31/3/a); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-c7ded6afb9a6046a7fddf8e613148ff3]: Textual amendment: Words in s. 4(1) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 31(3)(a)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/31/3/a); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-31e72bdb92d9c8109b70e01be5ace230]: Textual amendment: Words in [s. 4(1)](https://www.legislation.gov.uk/asp/2013/3/section/4/1) inserted (15.1.2016) by [Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), [s. 42(1)](https://www.legislation.gov.uk/asp/2016/2/section/42/1), [Sch. 1 para. 1(4)(a)](https://www.legislation.gov.uk/asp/2016/2/schedule/1/paragraph/1/4/a)
+[^c-31e72bdb92d9c8109b70e01be5ace230]: Textual amendment: Words in [s. 4(1)](https://www.legislation.gov.uk/asp/2013/3/section/4/1) inserted (15.1.2016) by [Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), [s. 42(1)](https://www.legislation.gov.uk/asp/2016/2/section/42/1), [Sch. 1 para. 1(4)(a)](https://www.legislation.gov.uk/asp/2016/2/schedule/1/paragraph/1/4/a)
 
-[^key-f40c3ab847351364e484c5ea0c90edde]: Textual amendment: Words in s. 4(2) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 31(3)(b)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/31/3/b); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-f40c3ab847351364e484c5ea0c90edde]: Textual amendment: Words in s. 4(2) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 31(3)(b)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/31/3/b); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-fed0a309da733459f62683cea562cb2a]: Textual amendment: Words in [s. 4(2)](https://www.legislation.gov.uk/asp/2013/3/section/4/2) inserted (15.1.2016) by [Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), [s. 42(1)](https://www.legislation.gov.uk/asp/2016/2/section/42/1), [Sch. 1 para. 1(4)(b)](https://www.legislation.gov.uk/asp/2016/2/schedule/1/paragraph/1/4/b)
+[^c-fed0a309da733459f62683cea562cb2a]: Textual amendment: Words in [s. 4(2)](https://www.legislation.gov.uk/asp/2013/3/section/4/2) inserted (15.1.2016) by [Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), [s. 42(1)](https://www.legislation.gov.uk/asp/2016/2/section/42/1), [Sch. 1 para. 1(4)(b)](https://www.legislation.gov.uk/asp/2016/2/schedule/1/paragraph/1/4/b)
 
-[^key-6b42aa30bcdf4ef37babe74164310d62]: Textual amendment: Words in s. 4(3) renumbered as s. 4(3)(a) (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 31(3)(c)(i)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/31/3/c/i); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-6b42aa30bcdf4ef37babe74164310d62]: Textual amendment: Words in s. 4(3) renumbered as s. 4(3)(a) (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 31(3)(c)(i)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/31/3/c/i); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-8e487f32d48bb701819b08f744de8ba0]: Textual amendment: S. 4(3)(b) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 31(3)(c)(ii)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/31/3/c/ii); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-8e487f32d48bb701819b08f744de8ba0]: Textual amendment: S. 4(3)(b) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 31(3)(c)(ii)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/31/3/c/ii); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-2fcf8f4442d0b5d5819bf9e939cab5f4]: Textual amendment: [S. 4(3)(c)](https://www.legislation.gov.uk/asp/2013/3/section/4/3/c) inserted (15.1.2016) by [Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), [s. 42(1)](https://www.legislation.gov.uk/asp/2016/2/section/42/1), [Sch. 1 para. 1(4)(c)](https://www.legislation.gov.uk/asp/2016/2/schedule/1/paragraph/1/4/c)
+[^c-2fcf8f4442d0b5d5819bf9e939cab5f4]: Textual amendment: [S. 4(3)(c)](https://www.legislation.gov.uk/asp/2013/3/section/4/3/c) inserted (15.1.2016) by [Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), [s. 42(1)](https://www.legislation.gov.uk/asp/2016/2/section/42/1), [Sch. 1 para. 1(4)(c)](https://www.legislation.gov.uk/asp/2016/2/schedule/1/paragraph/1/4/c)
 
-[^key-5d26fff9316cb273f7858e3af458e074]: Commencement: S. 5 in force at 28.5.2013 by [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
+[^c-5d26fff9316cb273f7858e3af458e074]: Commencement: S. 5 in force at 28.5.2013 by [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
 
-[^key-d9b4361b9cef45975e678d5fdbae52c2]: Commencement: S. 6 in force at 28.5.2013 by [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
+[^c-d9b4361b9cef45975e678d5fdbae52c2]: Commencement: S. 6 in force at 28.5.2013 by [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
 
-[^key-a70c45ff5dbfa495347d62bfb6e8f953]: Commencement: S. 7 in force at 28.5.2013 by [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
+[^c-a70c45ff5dbfa495347d62bfb6e8f953]: Commencement: S. 7 in force at 28.5.2013 by [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
 
-[^key-2f28960e5983d0da7b300dad2e0c8a82]: Commencement: S. 8 in force at 28.5.2013 by [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
+[^c-2f28960e5983d0da7b300dad2e0c8a82]: Commencement: S. 8 in force at 28.5.2013 by [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
 
-[^key-6ce9c6a3a79fca1598741ab6d5f104d8]: Commencement: S. 9 in force at 28.5.2013 by [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
+[^c-6ce9c6a3a79fca1598741ab6d5f104d8]: Commencement: S. 9 in force at 28.5.2013 by [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
 
-[^key-78b6f6eca724a153fa3cdc1f14478f67]: Commencement: S. 10 in force at 28.5.2013 by [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
+[^c-78b6f6eca724a153fa3cdc1f14478f67]: Commencement: S. 10 in force at 28.5.2013 by [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
 
-[^key-4d1c594abd860b3f6a9398f15ed9064a]: Commencement: S. 11 in force at 28.5.2013 by [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
+[^c-4d1c594abd860b3f6a9398f15ed9064a]: Commencement: S. 11 in force at 28.5.2013 by [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
 
-[^key-9012706b6066f5dc5f326549746bbafb]: Commencement: S. 12 in force at 28.5.2013 by [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
+[^c-9012706b6066f5dc5f326549746bbafb]: Commencement: S. 12 in force at 28.5.2013 by [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
 
-[^key-4359252a0f58c8d119f5db191020e0c3]: Commencement: S. 13 in force at 28.5.2013 by [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
+[^c-4359252a0f58c8d119f5db191020e0c3]: Commencement: S. 13 in force at 28.5.2013 by [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
 
-[^key-545e0db892a5cf066ad8af1f859d1938]: Commencement: S. 14 in force at 28.5.2013 by [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
+[^c-545e0db892a5cf066ad8af1f859d1938]: Commencement: S. 14 in force at 28.5.2013 by [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
 
-[^key-2a7e5ec5a1e98fa622e90217ec94fe5d]: Commencement: S. 15 in force at 28.5.2013 by [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
+[^c-2a7e5ec5a1e98fa622e90217ec94fe5d]: Commencement: S. 15 in force at 28.5.2013 by [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
 
-[^key-203fc4c10d94e2f20c60ed6a9bd2580a]: Commencement: S. 16 in force at 28.5.2013 by [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
+[^c-203fc4c10d94e2f20c60ed6a9bd2580a]: Commencement: S. 16 in force at 28.5.2013 by [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
 
-[^key-589d01a580f1c4ff5e33e62ce7e744ca]: Textual amendment: Words in [s. 16](https://www.legislation.gov.uk/asp/2013/3/section/16) inserted (1.4.2016) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions) Order 2016 (S.S.I. 2016/142)](https://www.legislation.gov.uk/ssi/2016/142), [arts. 1](https://www.legislation.gov.uk/ssi/2016/142/article/1), [3](https://www.legislation.gov.uk/ssi/2016/142/article/3)
+[^c-589d01a580f1c4ff5e33e62ce7e744ca]: Textual amendment: Words in [s. 16](https://www.legislation.gov.uk/asp/2013/3/section/16) inserted (1.4.2016) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions) Order 2016 (S.S.I. 2016/142)](https://www.legislation.gov.uk/ssi/2016/142), [arts. 1](https://www.legislation.gov.uk/ssi/2016/142/article/1), [3](https://www.legislation.gov.uk/ssi/2016/142/article/3)
 
-[^key-844d9d03c4e109e38a9bea49914e7397]: Textual amendment: Words in s. 16 inserted (15.1.2016) by [Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), [s. 42(1)](https://www.legislation.gov.uk/asp/2016/2/section/42/1), [Sch. 1 para. 1(5)](https://www.legislation.gov.uk/asp/2016/2/schedule/1/paragraph/1/5)
+[^c-844d9d03c4e109e38a9bea49914e7397]: Textual amendment: Words in s. 16 inserted (15.1.2016) by [Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), [s. 42(1)](https://www.legislation.gov.uk/asp/2016/2/section/42/1), [Sch. 1 para. 1(5)](https://www.legislation.gov.uk/asp/2016/2/schedule/1/paragraph/1/5)
 
-[^key-d3b4fba782a266a4222c2925ade2b175]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2013/3/section/17) in force at 11.10.2013 by [S.S.I. 2013/262](https://www.legislation.gov.uk/ssi/2013/262), [art. 2](https://www.legislation.gov.uk/ssi/2013/262/article/2)
+[^c-d3b4fba782a266a4222c2925ade2b175]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2013/3/section/17) in force at 11.10.2013 by [S.S.I. 2013/262](https://www.legislation.gov.uk/ssi/2013/262), [art. 2](https://www.legislation.gov.uk/ssi/2013/262/article/2)
 
-[^key-72b36e44f7d99e6304fdba622a3d6d62]: Commencement: [S. 18(1)](https://www.legislation.gov.uk/asp/2013/3/section/18/1) in force at 11.10.2013 by [S.S.I. 2013/262](https://www.legislation.gov.uk/ssi/2013/262), [art. 2](https://www.legislation.gov.uk/ssi/2013/262/article/2)
+[^c-72b36e44f7d99e6304fdba622a3d6d62]: Commencement: [S. 18(1)](https://www.legislation.gov.uk/asp/2013/3/section/18/1) in force at 11.10.2013 by [S.S.I. 2013/262](https://www.legislation.gov.uk/ssi/2013/262), [art. 2](https://www.legislation.gov.uk/ssi/2013/262/article/2)
 
-[^key-cf9fb75899c8c39a5333f1c5734e1bf8]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2013/3/section/19) in force at 11.10.2013 by [S.S.I. 2013/262](https://www.legislation.gov.uk/ssi/2013/262), [art. 2](https://www.legislation.gov.uk/ssi/2013/262/article/2)
+[^c-cf9fb75899c8c39a5333f1c5734e1bf8]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2013/3/section/19) in force at 11.10.2013 by [S.S.I. 2013/262](https://www.legislation.gov.uk/ssi/2013/262), [art. 2](https://www.legislation.gov.uk/ssi/2013/262/article/2)
 
-[^key-51c9e4921a3fe2bbbb6ce6f8b889738c]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2013/3/section/22) in force at 11.10.2013 by [S.S.I. 2013/262](https://www.legislation.gov.uk/ssi/2013/262), [art. 2](https://www.legislation.gov.uk/ssi/2013/262/article/2)
+[^c-51c9e4921a3fe2bbbb6ce6f8b889738c]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2013/3/section/22) in force at 11.10.2013 by [S.S.I. 2013/262](https://www.legislation.gov.uk/ssi/2013/262), [art. 2](https://www.legislation.gov.uk/ssi/2013/262/article/2)
 
-[^key-e7dbf05b871bd3029c59717c4963352b]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2013/3/section/23) in force at 11.10.2013 by [S.S.I. 2013/262](https://www.legislation.gov.uk/ssi/2013/262), [art. 2](https://www.legislation.gov.uk/ssi/2013/262/article/2)
+[^c-e7dbf05b871bd3029c59717c4963352b]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2013/3/section/23) in force at 11.10.2013 by [S.S.I. 2013/262](https://www.legislation.gov.uk/ssi/2013/262), [art. 2](https://www.legislation.gov.uk/ssi/2013/262/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40A. Using vehicle in dangerous condition etc.[^key-403001a5eacf0c88add5b03a9fb6c6b9][^c13972781][^c13972771]
+## 40A. Using vehicle in dangerous condition etc.[^c-403001a5eacf0c88add5b03a9fb6c6b9][^c13972781][^c13972771]
 
 *Extent: E+W+S*
 
@@ -31,7 +31,7 @@ is such that the use of the motor vehicle or trailer involves a danger of injury
 
 ## Annotations
 
-[^key-403001a5eacf0c88add5b03a9fb6c6b9]: Modification: S. 40A excluded (17.4.2019) by [The Motor Sport on Public Roads (Scotland) Regulations 2019 (S.S.I. 2019/138)](https://www.legislation.gov.uk/ssi/2019/138), [regs. 1](https://www.legislation.gov.uk/ssi/2019/138/regulation/1), [6](https://www.legislation.gov.uk/ssi/2019/138/regulation/6), [sch. 2](https://www.legislation.gov.uk/ssi/2019/138/schedule/2)
+[^c-403001a5eacf0c88add5b03a9fb6c6b9]: Modification: S. 40A excluded (17.4.2019) by [The Motor Sport on Public Roads (Scotland) Regulations 2019 (S.S.I. 2019/138)](https://www.legislation.gov.uk/ssi/2019/138), [regs. 1](https://www.legislation.gov.uk/ssi/2019/138/regulation/1), [6](https://www.legislation.gov.uk/ssi/2019/138/regulation/6), [sch. 2](https://www.legislation.gov.uk/ssi/2019/138/schedule/2)
 
 [^c13972781]: Modification: S. 40A restricted (1.7.1992) by [S.I. 1992/1217](https://www.legislation.gov.uk/uksi/1992/1217), [regs.7](https://www.legislation.gov.uk/uksi/1992/1217/regulation/7),9 (with reg. 11).
 

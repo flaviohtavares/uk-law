@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Duty to notify WRA of changes and inaccuracies[^key-e6acd73643bde5c3245c76a57a7e5c65][^key-dab50f1bfdfcfd0814906313b7098dba]
+## 9. Duty to notify WRA of changes and inaccuracies[^c-e6acd73643bde5c3245c76a57a7e5c65][^c-dab50f1bfdfcfd0814906313b7098dba]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ unless WRA has already made the corrections under section 11.
 
 ## Annotations
 
-[^key-e6acd73643bde5c3245c76a57a7e5c65]: Commencement: S. 9 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)
+[^c-e6acd73643bde5c3245c76a57a7e5c65]: Commencement: S. 9 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)
 
-[^key-dab50f1bfdfcfd0814906313b7098dba]: Commencement: [S. 9](https://www.legislation.gov.uk/asc/2025/5/section/9) in force at 1.10.2026 by [S.I. 2025/1305](https://www.legislation.gov.uk/wsi/2025/1305), [art. 2(e)](https://www.legislation.gov.uk/wsi/2025/1305/article/2/e)
+[^c-dab50f1bfdfcfd0814906313b7098dba]: Commencement: [S. 9](https://www.legislation.gov.uk/asc/2025/5/section/9) in force at 1.10.2026 by [S.I. 2025/1305](https://www.legislation.gov.uk/wsi/2025/1305), [art. 2(e)](https://www.legislation.gov.uk/wsi/2025/1305/article/2/e)

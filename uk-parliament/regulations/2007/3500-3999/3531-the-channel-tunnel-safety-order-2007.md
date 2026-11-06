@@ -50,17 +50,17 @@ The Secretary of State for Transport makes the following Order in exercise of th
 
 *Extent: E+W+S+N.I.*
 
-## 1. Citation, commencement and extent[^key-06e218722875afd965402b0d0b69486f]
+## 1. Citation, commencement and extent[^c-06e218722875afd965402b0d0b69486f]
 
 *Extent: E+W+S*
 
 (1) This Order may be cited as the Channel Tunnel (Safety) Order 2007 and comes into force on the date on which the Regulation comes into force in accordance with article 77 of the Regulation. That date will be notified in the London, Edinburgh and Belfast Gazettes.
 
-(2) This[^key-ecd7f429f672a73b0cac7486a57776d0] this Order does not extend to Northern Ireland.
+(2) This[^c-ecd7f429f672a73b0cac7486a57776d0] this Order does not extend to Northern Ireland.
 
-(3)[^key-8b3299c12c406546c2af14de3f936519] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8b3299c12c406546c2af14de3f936519] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-02c4a9d9eea0e6b5b9734dc0d9a7fa4a]
+## 2. Interpretation[^c-02c4a9d9eea0e6b5b9734dc0d9a7fa4a]
 
 *Extent: E+W+S*
 
@@ -73,17 +73,17 @@ In this Order—
 - “Regulation” means the provisions set out in the Schedule (being a regulation drawn up by the Intergovernmental Commission, under Article 10(3) (e) of the Treaty, on the safety of the Fixed Link); and
 - “the Treaty” means the Treaty between the United Kingdom of Great Britain and Northern Ireland and the French Republic concerning the construction and operation by private concessionaires of the Fixed Link signed at Canterbury on 12th February 1986[^f00003].
 
-## 3. Regulation has the force of law[^key-8780749788af392561a0da8a066b7456]
+## 3. Regulation has the force of law[^c-8780749788af392561a0da8a066b7456]
 
 *Extent: E+W+S*
 
 The Regulation has the force of law.
 
-## 4. Enforcement of the Regulation[^key-8e282ab82863e29e8b23b8605e455f98]
+## 4. Enforcement of the Regulation[^c-8e282ab82863e29e8b23b8605e455f98]
 
 *Extent: E+W+S*
 
-(1) Subject to paragraphs (5) and (6), it is the duty of the Office of Rail and Road[^key-092b713bca239f5b1eac8b5e3eef4017] to make adequate arrangements for the enforcement of the Regulation.
+(1) Subject to paragraphs (5) and (6), it is the duty of the Office of Rail and Road[^c-092b713bca239f5b1eac8b5e3eef4017] to make adequate arrangements for the enforcement of the Regulation.
 
 (2) Subject to paragraphs (4) to (6), the provisions of the 1974 Act specified in paragraph (3) (the “specified provisions”) apply for the purposes of the enforcement of the Regulation as if in the specified provisions—
 
@@ -105,9 +105,9 @@ The Regulation has the force of law.
 
 (4) For the purposes of the enforcement of the Regulation section 33(1)(c) of the 1974 Act (offences) only applies to contraventions of—
 
-- (a) articles 13 iv, 15 iv, 16, 22 to 25, 27, 34 (a) and (b), 39, 51, 52 (a) and (b) ,55A, 55B[^key-c84551fabaf42abd5c2a90470bad76f1] and 61 of the Regulation; and
+- (a) articles 13 iv, 15 iv, 16, 22 to 25, 27, 34 (a) and (b), 39, 51, 52 (a) and (b) ,55A, 55B[^c-c84551fabaf42abd5c2a90470bad76f1] and 61 of the Regulation; and
 - (b) any requirement or prohibition to which a person is subject by virtue of the terms of or any condition or restriction attached to any—
-  - (i) vehicle authorisation[^key-25739c402b74c66614bd70fac75e3a98];
+  - (i) vehicle authorisation[^c-25739c402b74c66614bd70fac75e3a98];
   - (ii) safety authorisation; or
   - (iii) Part B certificate;
 
@@ -121,11 +121,11 @@ The Regulation has the force of law.
 
 (6) Paragraphs (1) and (2) do not apply for the purpose of enforcing the obligations of the Intergovernmental Commission under the Regulation.
 
-## 5. Access to training facilities[^key-e22e06d99d3bd8d49f5e6acfe2e24114]
+## 5. Access to training facilities[^c-e22e06d99d3bd8d49f5e6acfe2e24114]
 
 *Extent: E+W+S*
 
-(1) Any railway undertaking whose train drivers or staff performing vital safety tasks are denied the entitlements conferred by articles 56, 57(a) and 58 of the Regulation has a right of appeal to the Office of Rail and Road[^key-bfb87e0eba698cbf801ebec5d0cbdcfb].
+(1) Any railway undertaking whose train drivers or staff performing vital safety tasks are denied the entitlements conferred by articles 56, 57(a) and 58 of the Regulation has a right of appeal to the Office of Rail and Road[^c-bfb87e0eba698cbf801ebec5d0cbdcfb].
 
 (2) In relation to training services to which article 59 of the Regulation applies, a railway undertaking which considers that the price charged for access to those services is unreasonable or discriminatory has a right of appeal to the Office of Rail and Road.
 
@@ -133,11 +133,11 @@ The Regulation has the force of law.
 
 (4) The provisions of regulation 5(3) to (5) of the Railways (Access to Training Services) Regulations 2006[^f00010] (appeal to the regulatory body) apply to any appeal made under this article as if reference to an appeal in those provisions included reference to an appeal under this article.
 
-## 6. Civil liability[^key-ca989d05f4d807ecd7be93ae20637fca]
+## 6. Civil liability[^c-ca989d05f4d807ecd7be93ae20637fca]
 
 *Extent: E+W+S*
 
-(1) Breach of a duty requirement or prohibition imposed by articles 13 iv, 15 iv, 22 to 25, 27, 34 (a) and (b), 39, 51, 52 (a) and (b) ,55A, 55B[^key-e2524f13cc607fe75966e6fae0c4088a] and 61 of the Regulation is, so far as it causes damage, actionable.
+(1) Breach of a duty requirement or prohibition imposed by articles 13 iv, 15 iv, 22 to 25, 27, 34 (a) and (b), 39, 51, 52 (a) and (b) ,55A, 55B[^c-e2524f13cc607fe75966e6fae0c4088a] and 61 of the Regulation is, so far as it causes damage, actionable.
 
 (2) Subject to paragraphs (1) and (3) and to article 5 of this Order, nothing in this Order is to be construed as conferring a right of action in any civil proceedings in respect of any failure to comply with any duty requirement or prohibition imposed by the Regulation.
 
@@ -149,13 +149,13 @@ The Regulation has the force of law.
 
 (6) In this article “damage” includes the death of, or injury to, any person (including any disease and any impairment of a person’s physical or mental condition).
 
-## 7. Investigations into accidents and incidents[^key-a152f269895729eb95ce179368855803]
+## 7. Investigations into accidents and incidents[^c-a152f269895729eb95ce179368855803]
 
 *Extent: E+W+S*
 
 Nothing in this Order or the Regulation prejudices or affects the provisions of Part 1 of the Railways and Transport Safety Act 2003[^f00011] or the Railways (Accident Investigation and Reporting) Regulations 2005[^f00012].
 
-## 8. Power to impose charges[^key-ce98eb3447ed2afbe7b92999b73e0600]
+## 8. Power to impose charges[^c-ce98eb3447ed2afbe7b92999b73e0600]
 
 *Extent: E+W+S*
 
@@ -164,13 +164,13 @@ The Intergovernmental Commission may impose charges reflecting their administrat
 - (a) Part B certificates as required by article 39(ii) of the Regulation, including their renewal under article 50 or modification under article 52 of the Regulation, and
 - (b) authorisation under article 61 of the Regulation for operating rolling stock on the Fixed Link.
 
-## 9. Amendments to the Channel Tunnel (International Arrangements) Order 2005[^key-dca8971113ae4c84228342a6616b69c7]
+## 9. Amendments to the Channel Tunnel (International Arrangements) Order 2005[^c-dca8971113ae4c84228342a6616b69c7]
 
 *Extent: E+W+S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment to the Railways and Other Guided Transport Systems (Safety) Regulations 2006[^key-f396ae43a042c000f78fd78bd9340a97]
+## 10. Amendment to the Railways and Other Guided Transport Systems (Safety) Regulations 2006[^c-f396ae43a042c000f78fd78bd9340a97]
 
 *Extent: E+W+S*
 
@@ -186,7 +186,7 @@ For paragraph 1 (b) (i) of Schedule 2 to the Railways and Other Guided Transport
 
 .
 
-## 11. Review[^key-2859a137d9796e87694e7e17f0159759]
+## 11. Review[^c-2859a137d9796e87694e7e17f0159759]
 
 *Extent: E+W+S*
 
@@ -220,7 +220,7 @@ Department for Transport
 
 13th December 2007
 
-## SCHEDULE — REGULATION OF THE INTERGOVERNMENTAL COMMISSION ON THE SAFETY OF THE CHANNEL FIXED LINK[^key-1780cb6a182900caac66cfb3c9bffd20]
+## SCHEDULE — REGULATION OF THE INTERGOVERNMENTAL COMMISSION ON THE SAFETY OF THE CHANNEL FIXED LINK[^c-1780cb6a182900caac66cfb3c9bffd20]
 
 Article 3
 
@@ -274,23 +274,23 @@ An impact assessment of the effect that this Order will have on the costs of bus
 
 [^f00001]: Footnote: [1987 c. 53](https://www.legislation.gov.uk/ukpga/1987/53). The Department for Transport is the Government Department concerned with the subject matter of this Order. The Secretary of State for Transport being the Minister in charge of this Department is, in accordance with section 13(1) of this Act, the “the appropriate Minister” referred to in section 11.
 
-[^key-06e218722875afd965402b0d0b69486f]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2007/3531/article/1) in force at 4.7.2008 as notified in the London Gazette dated 14.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/3531/article/1/1)
+[^c-06e218722875afd965402b0d0b69486f]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2007/3531/article/1) in force at 4.7.2008 as notified in the London Gazette dated 14.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/3531/article/1/1)
 
-[^key-ecd7f429f672a73b0cac7486a57776d0]: Textual amendment: Word in [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/3531/article/1/2) substituted (26.3.2013 as notified in the London Gazette dated 2.4.2013) by virtue of [The Channel Tunnel (Safety) (Amendment) Order 2013 (S.I. 2013/407)](https://www.legislation.gov.uk/uksi/2013/407), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/407/article/2/2)
+[^c-ecd7f429f672a73b0cac7486a57776d0]: Textual amendment: Word in [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/3531/article/1/2) substituted (26.3.2013 as notified in the London Gazette dated 2.4.2013) by virtue of [The Channel Tunnel (Safety) (Amendment) Order 2013 (S.I. 2013/407)](https://www.legislation.gov.uk/uksi/2013/407), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/407/article/2/2)
 
-[^key-8b3299c12c406546c2af14de3f936519]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/uksi/2007/3531/article/1/3) omitted (26.3.2013 as notified in the London Gazette dated 2.4.2013) by virtue of [The Channel Tunnel (Safety) (Amendment) Order 2013 (S.I. 2013/407)](https://www.legislation.gov.uk/uksi/2013/407), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/407/article/2/3)
+[^c-8b3299c12c406546c2af14de3f936519]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/uksi/2007/3531/article/1/3) omitted (26.3.2013 as notified in the London Gazette dated 2.4.2013) by virtue of [The Channel Tunnel (Safety) (Amendment) Order 2013 (S.I. 2013/407)](https://www.legislation.gov.uk/uksi/2013/407), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/407/article/2/3)
 
-[^key-02c4a9d9eea0e6b5b9734dc0d9a7fa4a]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2007/3531/article/2) in force at 4.7.2008 as notified in the London Gazette dated 14.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/3531/article/1/1)
+[^c-02c4a9d9eea0e6b5b9734dc0d9a7fa4a]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2007/3531/article/2) in force at 4.7.2008 as notified in the London Gazette dated 14.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/3531/article/1/1)
 
 [^f00002]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37).
 
 [^f00003]: Footnote: Presented to Parliament by the Secretary of State for Foreign and Commonwealth Affairs by Command of Her Majesty February 1986. Published as Treaty Series No. 15 (1992), Command Paper 1827. (Out of print but copies may be obtained from the British Library.)
 
-[^key-8780749788af392561a0da8a066b7456]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2007/3531/article/3) in force at 4.7.2008 as notified in the London Gazette dated 14.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/3531/article/1/1)
+[^c-8780749788af392561a0da8a066b7456]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2007/3531/article/3) in force at 4.7.2008 as notified in the London Gazette dated 14.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/3531/article/1/1)
 
-[^key-8e282ab82863e29e8b23b8605e455f98]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2007/3531/article/4) in force at 4.7.2008 as notified in the London Gazette dated 14.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/3531/article/1/1)
+[^c-8e282ab82863e29e8b23b8605e455f98]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2007/3531/article/4) in force at 4.7.2008 as notified in the London Gazette dated 14.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/3531/article/1/1)
 
-[^key-092b713bca239f5b1eac8b5e3eef4017]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2007/3531/article/4) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(r)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/r)
+[^c-092b713bca239f5b1eac8b5e3eef4017]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2007/3531/article/4) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(r)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/r)
 
 [^f00004]: Footnote: Section 20(7) was amended by the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), section 261(1) and Schedule 27, paragraph 49.
 
@@ -304,36 +304,36 @@ An impact assessment of the effect that this Order will have on the costs of bus
 
 [^f00009]: Footnote: Section 33(1) (c) was amended by the Employment Protection Act [1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71), sections 116 and 125(3) and Schedule 15, paragraph 11, and Schedule 18. Section 33(1) (h) was amended by the Consumer Protection Act 1987, section 36 and Schedule 3. Section 33(1) (m) was amended by the Forgery and Counterfeiting Act [1981 (c. 45)](https://www.legislation.gov.uk/ukpga/1981/45), section 30 and Part 1 of the Schedule. Section 33(2A) was inserted by the Offshore Safety Act [1992 (c. 15)](https://www.legislation.gov.uk/ukpga/1992/15), section 4(2), (3) and (6). Maximum fine referred to in section 33(2) increased by the Criminal Law Act [1977 (c. 45)](https://www.legislation.gov.uk/ukpga/1977/45), section 31 and Schedule 6 and converted to a level on the standard scale by the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), sections 37 and 46. Section 33(3) was amended by the Offshore Safety Act 1992, section 4(4) and (6); and by the Magistrates Courts Act [1980 (c. 43)](https://www.legislation.gov.uk/ukpga/1980/43), section 32(2).
 
-[^key-c84551fabaf42abd5c2a90470bad76f1]: Textual amendment: Words in [art. 4(4)(a)](https://www.legislation.gov.uk/uksi/2007/3531/article/4/4/a) inserted (26.3.2013 as notified in the London Gazette dated 2.4.2013) by [The Channel Tunnel (Safety) (Amendment) Order 2013 (S.I. 2013/407)](https://www.legislation.gov.uk/uksi/2013/407), [art. 2(4)(a)](https://www.legislation.gov.uk/uksi/2013/407/article/2/4/a)
+[^c-c84551fabaf42abd5c2a90470bad76f1]: Textual amendment: Words in [art. 4(4)(a)](https://www.legislation.gov.uk/uksi/2007/3531/article/4/4/a) inserted (26.3.2013 as notified in the London Gazette dated 2.4.2013) by [The Channel Tunnel (Safety) (Amendment) Order 2013 (S.I. 2013/407)](https://www.legislation.gov.uk/uksi/2013/407), [art. 2(4)(a)](https://www.legislation.gov.uk/uksi/2013/407/article/2/4/a)
 
-[^key-25739c402b74c66614bd70fac75e3a98]: Textual amendment: Words in [art. 4(4)(b)(i)](https://www.legislation.gov.uk/uksi/2007/3531/article/4/4/b/i) substituted (26.3.2013 as notified in the London Gazette dated 2.4.2013) by [The Channel Tunnel (Safety) (Amendment) Order 2013 (S.I. 2013/407)](https://www.legislation.gov.uk/uksi/2013/407), [art. 2(4)(b)](https://www.legislation.gov.uk/uksi/2013/407/article/2/4/b)
+[^c-25739c402b74c66614bd70fac75e3a98]: Textual amendment: Words in [art. 4(4)(b)(i)](https://www.legislation.gov.uk/uksi/2007/3531/article/4/4/b/i) substituted (26.3.2013 as notified in the London Gazette dated 2.4.2013) by [The Channel Tunnel (Safety) (Amendment) Order 2013 (S.I. 2013/407)](https://www.legislation.gov.uk/uksi/2013/407), [art. 2(4)(b)](https://www.legislation.gov.uk/uksi/2013/407/article/2/4/b)
 
-[^key-e22e06d99d3bd8d49f5e6acfe2e24114]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2007/3531/article/5) in force at 4.7.2008 as notified in the London Gazette dated 14.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/3531/article/1/1)
+[^c-e22e06d99d3bd8d49f5e6acfe2e24114]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2007/3531/article/5) in force at 4.7.2008 as notified in the London Gazette dated 14.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/3531/article/1/1)
 
-[^key-bfb87e0eba698cbf801ebec5d0cbdcfb]: Textual amendment: Words in [art. 5](https://www.legislation.gov.uk/uksi/2007/3531/article/5) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(r)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/r)
+[^c-bfb87e0eba698cbf801ebec5d0cbdcfb]: Textual amendment: Words in [art. 5](https://www.legislation.gov.uk/uksi/2007/3531/article/5) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(r)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/r)
 
 [^f00010]: Footnote: S.I. [2006/598](https://www.legislation.gov.uk/uksi/2006/598).
 
-[^key-ca989d05f4d807ecd7be93ae20637fca]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2007/3531/article/6) in force at 4.7.2008 as notified in the London Gazette dated 14.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/3531/article/1/1)
+[^c-ca989d05f4d807ecd7be93ae20637fca]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2007/3531/article/6) in force at 4.7.2008 as notified in the London Gazette dated 14.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/3531/article/1/1)
 
-[^key-e2524f13cc607fe75966e6fae0c4088a]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/uksi/2007/3531/article/6/1) inserted (26.3.2013 as notified in the London Gazette dated 2.4.2013) by [The Channel Tunnel (Safety) (Amendment) Order 2013 (S.I. 2013/407)](https://www.legislation.gov.uk/uksi/2013/407), [art. 2(5)](https://www.legislation.gov.uk/uksi/2013/407/article/2/5)
+[^c-e2524f13cc607fe75966e6fae0c4088a]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/uksi/2007/3531/article/6/1) inserted (26.3.2013 as notified in the London Gazette dated 2.4.2013) by [The Channel Tunnel (Safety) (Amendment) Order 2013 (S.I. 2013/407)](https://www.legislation.gov.uk/uksi/2013/407), [art. 2(5)](https://www.legislation.gov.uk/uksi/2013/407/article/2/5)
 
-[^key-a152f269895729eb95ce179368855803]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2007/3531/article/7) in force at 4.7.2008 as notified in the London Gazette dated 14.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/3531/article/1/1)
+[^c-a152f269895729eb95ce179368855803]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2007/3531/article/7) in force at 4.7.2008 as notified in the London Gazette dated 14.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/3531/article/1/1)
 
 [^f00011]: Footnote: [2003 c. 20](https://www.legislation.gov.uk/ukpga/2003/20).
 
 [^f00012]: Footnote: S.I. [2005/1992](https://www.legislation.gov.uk/uksi/2005/1992), amended by S.I. [2005/3261](https://www.legislation.gov.uk/uksi/2005/3261) and S.I. [2006/557](https://www.legislation.gov.uk/uksi/2006/557).
 
-[^key-ce98eb3447ed2afbe7b92999b73e0600]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2007/3531/article/8) in force at 4.7.2008 as notified in the London Gazette dated 14.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/3531/article/1/1)
+[^c-ce98eb3447ed2afbe7b92999b73e0600]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2007/3531/article/8) in force at 4.7.2008 as notified in the London Gazette dated 14.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/3531/article/1/1)
 
-[^key-dca8971113ae4c84228342a6616b69c7]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/uksi/2007/3531/article/9) omitted (26.3.2013 as notified in the London Gazette dated 2.4.2013) by virtue of [The Channel Tunnel (Safety) (Amendment) Order 2013 (S.I. 2013/407)](https://www.legislation.gov.uk/uksi/2013/407), [art. 2(6)](https://www.legislation.gov.uk/uksi/2013/407/article/2/6)
+[^c-dca8971113ae4c84228342a6616b69c7]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/uksi/2007/3531/article/9) omitted (26.3.2013 as notified in the London Gazette dated 2.4.2013) by virtue of [The Channel Tunnel (Safety) (Amendment) Order 2013 (S.I. 2013/407)](https://www.legislation.gov.uk/uksi/2013/407), [art. 2(6)](https://www.legislation.gov.uk/uksi/2013/407/article/2/6)
 
-[^key-f396ae43a042c000f78fd78bd9340a97]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2007/3531/article/10) in force at 4.7.2008 as notified in the London Gazette dated 14.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/3531/article/1/1)
+[^c-f396ae43a042c000f78fd78bd9340a97]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2007/3531/article/10) in force at 4.7.2008 as notified in the London Gazette dated 14.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/3531/article/1/1)
 
 [^f00014]: Footnote: S.I. [2006/599](https://www.legislation.gov.uk/uksi/2006/599), to which there are amendments not relevant to these Regulations.
 
 [^f00015]: Footnote: [1987 c. 53](https://www.legislation.gov.uk/ukpga/1987/53).
 
-[^key-2859a137d9796e87694e7e17f0159759]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/uksi/2007/3531/article/11) inserted (26.3.2013 as notified in the London Gazette dated 2.4.2013) by [The Channel Tunnel (Safety) (Amendment) Order 2013 (S.I. 2013/407)](https://www.legislation.gov.uk/uksi/2013/407), [art. 2(7)](https://www.legislation.gov.uk/uksi/2013/407/article/2/7)
+[^c-2859a137d9796e87694e7e17f0159759]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/uksi/2007/3531/article/11) inserted (26.3.2013 as notified in the London Gazette dated 2.4.2013) by [The Channel Tunnel (Safety) (Amendment) Order 2013 (S.I. 2013/407)](https://www.legislation.gov.uk/uksi/2013/407), [art. 2(7)](https://www.legislation.gov.uk/uksi/2013/407/article/2/7)
 
-[^key-1780cb6a182900caac66cfb3c9bffd20]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2007/3531/schedule) content substituted (26.3.2013 as notified in the London Gazette dated 2.4.2013) by [The Channel Tunnel (Safety) (Amendment) Order 2013 (S.I. 2013/407)](https://www.legislation.gov.uk/uksi/2013/407), [Sch.](https://www.legislation.gov.uk/uksi/2013/407/schedule)
+[^c-1780cb6a182900caac66cfb3c9bffd20]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2007/3531/schedule) content substituted (26.3.2013 as notified in the London Gazette dated 2.4.2013) by [The Channel Tunnel (Safety) (Amendment) Order 2013 (S.I. 2013/407)](https://www.legislation.gov.uk/uksi/2013/407), [Sch.](https://www.legislation.gov.uk/uksi/2013/407/schedule)

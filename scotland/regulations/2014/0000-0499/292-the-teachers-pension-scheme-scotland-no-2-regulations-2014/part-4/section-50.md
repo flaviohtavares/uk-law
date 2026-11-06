@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Receipt of club transfer values[^key-394cf8de756cbf56dc56b3d7031b5c87]
+## 50. Receipt of club transfer values[^c-394cf8de756cbf56dc56b3d7031b5c87]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-394cf8de756cbf56dc56b3d7031b5c87]: Commencement: [Reg. 50](https://www.legislation.gov.uk/ssi/2014/292/regulation/50) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-394cf8de756cbf56dc56b3d7031b5c87]: Commencement: [Reg. 50](https://www.legislation.gov.uk/ssi/2014/292/regulation/50) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

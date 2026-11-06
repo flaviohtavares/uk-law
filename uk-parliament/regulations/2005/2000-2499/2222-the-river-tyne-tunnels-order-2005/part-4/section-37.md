@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. No mains or pipes[^key-e3be339a9216c9bda053b8a86bff4c66]
+## 37. No mains or pipes[^c-e3be339a9216c9bda053b8a86bff4c66]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e3be339a9216c9bda053b8a86bff4c66]: Commencement: Art. 37 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-e3be339a9216c9bda053b8a86bff4c66]: Commencement: Art. 37 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
 
 [^f00025]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).

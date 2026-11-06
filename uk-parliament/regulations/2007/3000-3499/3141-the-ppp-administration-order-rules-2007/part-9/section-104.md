@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 104. General provisions as to service and notice[^key-6bd6c2116a5fd61c6f142ee6c30a9d0b]
+## 104. General provisions as to service and notice[^c-6bd6c2116a5fd61c6f142ee6c30a9d0b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Subject to rules 103, 105(1) and 117, CPR Part 6 (service of documents) applies 
 
 ## Annotations
 
-[^key-6bd6c2116a5fd61c6f142ee6c30a9d0b]: Commencement: [Rule 104](https://www.legislation.gov.uk/uksi/2007/3141/rule/104) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-6bd6c2116a5fd61c6f142ee6c30a9d0b]: Commencement: [Rule 104](https://www.legislation.gov.uk/uksi/2007/3141/rule/104) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

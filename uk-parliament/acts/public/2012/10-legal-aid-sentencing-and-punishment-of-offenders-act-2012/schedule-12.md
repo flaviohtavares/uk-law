@@ -221,11 +221,11 @@ Section 105
 
 ### Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
 
-**42.**[^key-146d7ca76308e1cbaca4ce103dfa5ffb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**42.**[^c-146d7ca76308e1cbaca4ce103dfa5ffb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**43.**[^key-146d7ca76308e1cbaca4ce103dfa5ffb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**43.**[^c-146d7ca76308e1cbaca4ce103dfa5ffb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**44.**[^key-146d7ca76308e1cbaca4ce103dfa5ffb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-146d7ca76308e1cbaca4ce103dfa5ffb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Care Standards Act 2000 (c. 14)
 
@@ -338,7 +338,7 @@ Section 105
 
 [^c22554991]: Commencement: [Sch. 12 para. 41](https://www.legislation.gov.uk/ukpga/2012/10/schedule/12/paragraph/41) wholly in force at 3.12.2012, see [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) and [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(j)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/j) (with [art. 7(2)(3)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/2/3))
 
-[^key-146d7ca76308e1cbaca4ce103dfa5ffb]: Textual amendment: [Sch. 12 paras. 42-44](https://www.legislation.gov.uk/ukpga/2012/10/schedule/12/paragraph/42) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-146d7ca76308e1cbaca4ce103dfa5ffb]: Textual amendment: [Sch. 12 paras. 42-44](https://www.legislation.gov.uk/ukpga/2012/10/schedule/12/paragraph/42) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c22555031]: Commencement: [Sch. 12 para. 45](https://www.legislation.gov.uk/ukpga/2012/10/schedule/12/paragraph/45) wholly in force at 3.12.2012, see [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) and [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(j)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/j) (with [art. 7(2)(3)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/2/3))
 

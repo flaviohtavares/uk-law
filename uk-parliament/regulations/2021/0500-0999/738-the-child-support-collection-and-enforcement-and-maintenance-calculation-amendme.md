@@ -34,7 +34,7 @@ Family Law
 
 Child Support
 
-The Child Support (Collection and Enforcement and Maintenance Calculation) (Amendment) Regulations 2021 (revoked)[^key-f7d1a3ac8e9fee1273288d8afa53e640]
+The Child Support (Collection and Enforcement and Maintenance Calculation) (Amendment) Regulations 2021 (revoked)[^c-f7d1a3ac8e9fee1273288d8afa53e640]
 
 Made
 
@@ -48,28 +48,28 @@ Coming into force
 
 12th July 2021
 
-[^key-f7d1a3ac8e9fee1273288d8afa53e640]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f7d1a3ac8e9fee1273288d8afa53e640]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-f7d1a3ac8e9fee1273288d8afa53e640]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Extent and Application[^key-f7d1a3ac8e9fee1273288d8afa53e640]
+## 1. Citation and commencement[^c-f7d1a3ac8e9fee1273288d8afa53e640]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Child Support (Collection and Enforcement) Regulations 1992[^key-f7d1a3ac8e9fee1273288d8afa53e640]
+## 2. Extent and Application[^c-f7d1a3ac8e9fee1273288d8afa53e640]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Child Support Maintenance Calculation Regulations 2012[^key-f7d1a3ac8e9fee1273288d8afa53e640]
+## 3. Amendment of the Child Support (Collection and Enforcement) Regulations 1992[^c-f7d1a3ac8e9fee1273288d8afa53e640]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f7d1a3ac8e9fee1273288d8afa53e640]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 4. Amendment of the Child Support Maintenance Calculation Regulations 2012[^c-f7d1a3ac8e9fee1273288d8afa53e640]
 
-[^key-f7d1a3ac8e9fee1273288d8afa53e640]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-f7d1a3ac8e9fee1273288d8afa53e640]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-f7d1a3ac8e9fee1273288d8afa53e640]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f7d1a3ac8e9fee1273288d8afa53e640]: Textual amendment: Regulations revoked (11.7.2021) by [The Child Support (Collection and Enforcement and Maintenance Calculation) (Amendment No. 2) Regulations 2021 (S.I. 2021/763)](https://www.legislation.gov.uk/uksi/2021/763), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/763/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/2021/763/regulation/1/3)
+[^c-f7d1a3ac8e9fee1273288d8afa53e640]: Textual amendment: Regulations revoked (11.7.2021) by [The Child Support (Collection and Enforcement and Maintenance Calculation) (Amendment No. 2) Regulations 2021 (S.I. 2021/763)](https://www.legislation.gov.uk/uksi/2021/763), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/763/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/2021/763/regulation/1/3)

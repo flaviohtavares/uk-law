@@ -28,7 +28,7 @@ summary: ''
 
 Social Security
 
-The Social Security Benefits Up-rating Order 2016 (revoked)[^key-b5074c3dd8d6facae1f7964b77ef8213]
+The Social Security Benefits Up-rating Order 2016 (revoked)[^c-b5074c3dd8d6facae1f7964b77ef8213]
 
 Made
 
@@ -36,57 +36,57 @@ Made
 
 Coming into force in accordance with Article 1
 
-[^key-b5074c3dd8d6facae1f7964b77ef8213]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b5074c3dd8d6facae1f7964b77ef8213]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b5074c3dd8d6facae1f7964b77ef8213]
+## 1. Citation and commencement[^c-b5074c3dd8d6facae1f7964b77ef8213]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-b5074c3dd8d6facae1f7964b77ef8213]
+## 2. Interpretation[^c-b5074c3dd8d6facae1f7964b77ef8213]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amounts of certain benefits under the Contributions and Benefits Act[^key-b5074c3dd8d6facae1f7964b77ef8213]
+## 3. Amounts of certain benefits under the Contributions and Benefits Act[^c-b5074c3dd8d6facae1f7964b77ef8213]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Increase in amount of basic pension in a Category A retirement pension under the Contributions and Benefits Act[^key-b5074c3dd8d6facae1f7964b77ef8213]
+## 4. Increase in amount of basic pension in a Category A retirement pension under the Contributions and Benefits Act[^c-b5074c3dd8d6facae1f7964b77ef8213]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Increase in amount of Category C retirement pension under the Social Security (Widow’s Benefit and Retirement Pensions) Regulations 1979[^key-b5074c3dd8d6facae1f7964b77ef8213]
+## 5. Increase in amount of Category C retirement pension under the Social Security (Widow’s Benefit and Retirement Pensions) Regulations 1979[^c-b5074c3dd8d6facae1f7964b77ef8213]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. State Pension Credit[^key-b5074c3dd8d6facae1f7964b77ef8213]
+## 6. State Pension Credit[^c-b5074c3dd8d6facae1f7964b77ef8213]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b5074c3dd8d6facae1f7964b77ef8213]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b5074c3dd8d6facae1f7964b77ef8213]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — CERTAIN PROVISIONS OF SCHEDULE 4 TO THE CONTRIBUTIONS AND BENEFITS ACT AS AMENDED BY THIS ORDER[^key-b5074c3dd8d6facae1f7964b77ef8213]
+## SCHEDULE — CERTAIN PROVISIONS OF SCHEDULE 4 TO THE CONTRIBUTIONS AND BENEFITS ACT AS AMENDED BY THIS ORDER[^c-b5074c3dd8d6facae1f7964b77ef8213]
 
 Article 3
 
-### PART I — CONTRIBUTORY PERIODICAL BENEFITS[^key-b5074c3dd8d6facae1f7964b77ef8213]
+### PART I — CONTRIBUTORY PERIODICAL BENEFITS[^c-b5074c3dd8d6facae1f7964b77ef8213]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — NON-CONTRIBUTORY PERIODICAL BENEFITS[^key-b5074c3dd8d6facae1f7964b77ef8213]
+### PART III — NON-CONTRIBUTORY PERIODICAL BENEFITS[^c-b5074c3dd8d6facae1f7964b77ef8213]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART V — RATES OF INDUSTRIAL INJURIES BENEFIT[^key-b5074c3dd8d6facae1f7964b77ef8213]
+### PART V — RATES OF INDUSTRIAL INJURIES BENEFIT[^c-b5074c3dd8d6facae1f7964b77ef8213]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-b5074c3dd8d6facae1f7964b77ef8213]EXPLANATORY NOTE
+[^c-b5074c3dd8d6facae1f7964b77ef8213]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -106,4 +106,4 @@ An Impact Assessment has not been published for this instrument as it has no new
 
 ## Annotations
 
-[^key-b5074c3dd8d6facae1f7964b77ef8213]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2016/230) revoked (9.5.2017) by [The Social Security Benefits Up-rating Order 2017 (S.I. 2017/260)](https://www.legislation.gov.uk/uksi/2017/260), [art. 29(b)](https://www.legislation.gov.uk/uksi/2017/260/article/29/b)
+[^c-b5074c3dd8d6facae1f7964b77ef8213]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2016/230) revoked (9.5.2017) by [The Social Security Benefits Up-rating Order 2017 (S.I. 2017/260)](https://www.legislation.gov.uk/uksi/2017/260), [art. 29(b)](https://www.legislation.gov.uk/uksi/2017/260/article/29/b)

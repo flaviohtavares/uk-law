@@ -46,11 +46,11 @@ The Department for Communities [^f00001] makes the following Regulations in exer
 
 In accordance with section 150(1)(b) of the Social Security Administration (Northern Ireland) Act 1992, the Social Security Advisory Committee has agreed that the proposals in respect of these Regulations should not be referred to it.
 
-## 1. Citation and commencement[^key-bbb302a0203d90103edffda99c74d72d]
+## 1. Citation and commencement[^c-bbb302a0203d90103edffda99c74d72d]
 
 These Regulations may be cited as the Social Security, Universal Credit and State Pension (Miscellaneous Amendments) Regulations (Northern Ireland) 2023 and come into operation on 29th June 2023.
 
-## 2. Amendment of the Universal Credit Regulations[^key-c6b90da0caf66369eac3b8eb1520b2bc]
+## 2. Amendment of the Universal Credit Regulations[^c-c6b90da0caf66369eac3b8eb1520b2bc]
 
 After regulation 29(5) of the Universal Credit Regulations (Northern Ireland) 2016[^f00006] (period for which the LCWRA element is not to be included), insert—
 
@@ -58,11 +58,11 @@ After regulation 29(5) of the Universal Credit Regulations (Northern Ireland) 20
 
 .
 
-## 3. Amendment of the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) Regulations[^key-9d22a85c0e010520c1029cbc25a7ddbd]
+## 3. Amendment of the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) Regulations[^c-9d22a85c0e010520c1029cbc25a7ddbd]
 
 In regulation 25(2) of the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) Regulations (Northern Ireland) 2016[^f00007] (time within which a claim for universal credit is to be made), for the words “, subject to a maximum extension of one month, to the date on” substitute “up to and including the day that would be the last day of the first assessment period for an award beginning on the first day in respect of”.
 
-## 4. Amendment of the Universal Credit (Transitional Provisions) Regulations[^key-7a7274c9d5380d14a2882903d897def8]
+## 4. Amendment of the Universal Credit (Transitional Provisions) Regulations[^c-7a7274c9d5380d14a2882903d897def8]
 
 (1) The Universal Credit (Transitional Provisions) Regulations (Northern Ireland)2016[^f00008] are amended as follows.
 
@@ -95,7 +95,7 @@ In regulation 25(2) of the Universal Credit, Personal Independence Payment, Jobs
 
   .
 
-## 5. Amendment of the State Pension Regulations[^key-e3c4a42dcd83180f0475e80367e90dfd]
+## 5. Amendment of the State Pension Regulations[^c-e3c4a42dcd83180f0475e80367e90dfd]
 
 (1) In the State Pension Regulations (Northern Ireland) 2015[^f00009] after regulation 11(2)(a)(x) insert—
 
@@ -147,20 +147,20 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00005]: Footnote: [2015 c.5](https://www.legislation.gov.uk/ukpga/2015/5)
 
-[^key-bbb302a0203d90103edffda99c74d72d]: Commencement: Reg. 1 in operation at 29.6.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/93/regulation/1)
+[^c-bbb302a0203d90103edffda99c74d72d]: Commencement: Reg. 1 in operation at 29.6.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/93/regulation/1)
 
-[^key-c6b90da0caf66369eac3b8eb1520b2bc]: Commencement: Reg. 2 in operation at 29.6.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/93/regulation/1)
+[^c-c6b90da0caf66369eac3b8eb1520b2bc]: Commencement: Reg. 2 in operation at 29.6.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/93/regulation/1)
 
 [^f00006]: Footnote: [S.R.2016 No 216](https://www.legislation.gov.uk/nisr/2016/216)
 
-[^key-9d22a85c0e010520c1029cbc25a7ddbd]: Commencement: Reg. 3 in operation at 29.6.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/93/regulation/1)
+[^c-9d22a85c0e010520c1029cbc25a7ddbd]: Commencement: Reg. 3 in operation at 29.6.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/93/regulation/1)
 
 [^f00007]: Footnote: S.R. [2016 No. 220](https://www.legislation.gov.uk/nisr/2016/220)
 
-[^key-7a7274c9d5380d14a2882903d897def8]: Commencement: Reg. 4 in operation at 29.6.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/93/regulation/1)
+[^c-7a7274c9d5380d14a2882903d897def8]: Commencement: Reg. 4 in operation at 29.6.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/93/regulation/1)
 
 [^f00008]: Footnote: [S.R. 2016 No. 226](https://www.legislation.gov.uk/nisr/2016/226)
 
-[^key-e3c4a42dcd83180f0475e80367e90dfd]: Commencement: Reg. 5 in operation at 29.6.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/93/regulation/1)
+[^c-e3c4a42dcd83180f0475e80367e90dfd]: Commencement: Reg. 5 in operation at 29.6.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/93/regulation/1)
 
 [^f00009]: Footnote: [S.R. 2015 No. 315](https://www.legislation.gov.uk/nisr/2015/315)

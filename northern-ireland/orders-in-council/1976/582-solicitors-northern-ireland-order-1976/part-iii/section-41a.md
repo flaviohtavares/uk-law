@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41A. Power of Council to impose sanctions for inadequate professional services[^key-e4dcecffa09d71d93a5b21519d012d5d]
+## 41A. Power of Council to impose sanctions for inadequate professional services[^c-e4dcecffa09d71d93a5b21519d012d5d]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4dcecffa09d71d93a5b21519d012d5d]: Textual amendment: [Art. 41A and cross-heading](https://www.legislation.gov.uk/nisi/1976/582/part/III/crossheading/imposition-by-council-of-disciplinary-sanctions-for-inadequate-professional-services) repealed (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/3), [Sch. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/5); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-e4dcecffa09d71d93a5b21519d012d5d]: Textual amendment: [Art. 41A and cross-heading](https://www.legislation.gov.uk/nisi/1976/582/part/III/crossheading/imposition-by-council-of-disciplinary-sanctions-for-inadequate-professional-services) repealed (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/3), [Sch. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/5); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)

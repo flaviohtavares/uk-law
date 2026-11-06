@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 96. Application of this Part to the Scottish Ministers[^key-d125eb8b526714fff31536479163b2fa]
+## 96. Application of this Part to the Scottish Ministers[^c-d125eb8b526714fff31536479163b2fa]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Any power of a local authority to make grants or loans (including the powers to 
 
 ## Annotations
 
-[^key-d125eb8b526714fff31536479163b2fa]: Commencement: [S. 96](https://www.legislation.gov.uk/asp/2006/1/section/96) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-d125eb8b526714fff31536479163b2fa]: Commencement: [S. 96](https://www.legislation.gov.uk/asp/2006/1/section/96) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

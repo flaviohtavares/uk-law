@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 276. Power of local authority to sell certain materials.[^c611727][^c611728][^c611729][^c611730][^key-d773a782e806b4fd3f363616694ab76d][^key-6e6384ec533e4689d0b881cd535424c2][^key-b7674d9006c1deadf0943cdb1ea69d51][^c611726]
+## 276. Power of local authority to sell certain materials.[^c611727][^c611728][^c611729][^c611730][^c-d773a782e806b4fd3f363616694ab76d][^c-6e6384ec533e4689d0b881cd535424c2][^c-b7674d9006c1deadf0943cdb1ea69d51][^c611726]
 
 *Extent: E+W*
 
@@ -38,10 +38,10 @@ summary: ''
 
     S. 276 applied (27.8.1993) by [1993 c. 11](https://www.legislation.gov.uk/ukpga/1993/11), [ss. 62(1)](https://www.legislation.gov.uk/ukpga/1993/11/section/62/1), [68(2)](https://www.legislation.gov.uk/ukpga/1993/11/section/68/2)
 
-[^key-d773a782e806b4fd3f363616694ab76d]: Modification: S. 276 applied (with modifications) (1.3.2010) by [The Infrastructure Planning (Miscellaneous Prescribed Provisions) Regulations 2010 (S.I. 2010/105)](https://www.legislation.gov.uk/uksi/2010/105), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/105/regulation/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2010/105/regulation/5/1)
+[^c-d773a782e806b4fd3f363616694ab76d]: Modification: S. 276 applied (with modifications) (1.3.2010) by [The Infrastructure Planning (Miscellaneous Prescribed Provisions) Regulations 2010 (S.I. 2010/105)](https://www.legislation.gov.uk/uksi/2010/105), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/105/regulation/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2010/105/regulation/5/1)
 
-[^key-6e6384ec533e4689d0b881cd535424c2]: Modification: S. 276 applied (with modifications) (30.4.2012) by [The Planning (Listed Buildings and Conservation Areas) (Wales) Regulations 2012 (No. 793)](https://www.legislation.gov.uk/wsi/2012/793), [regs. 1](https://www.legislation.gov.uk/wsi/2012/793/regulation/1), [15(1)](https://www.legislation.gov.uk/wsi/2012/793/regulation/15/1)
+[^c-6e6384ec533e4689d0b881cd535424c2]: Modification: S. 276 applied (with modifications) (30.4.2012) by [The Planning (Listed Buildings and Conservation Areas) (Wales) Regulations 2012 (No. 793)](https://www.legislation.gov.uk/wsi/2012/793), [regs. 1](https://www.legislation.gov.uk/wsi/2012/793/regulation/1), [15(1)](https://www.legislation.gov.uk/wsi/2012/793/regulation/15/1)
 
-[^key-b7674d9006c1deadf0943cdb1ea69d51]: Modification: S. 276 applied (with modifications) (6.4.2015) by [The Infrastructure Planning (Interested Parties and Miscellaneous Prescribed Provisions) Regulations 2015 (S.I. 2015/462)](https://www.legislation.gov.uk/uksi/2015/462), [regs. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1), [8(1)](https://www.legislation.gov.uk/uksi/2015/462/regulation/8/1)
+[^c-b7674d9006c1deadf0943cdb1ea69d51]: Modification: S. 276 applied (with modifications) (6.4.2015) by [The Infrastructure Planning (Interested Parties and Miscellaneous Prescribed Provisions) Regulations 2015 (S.I. 2015/462)](https://www.legislation.gov.uk/uksi/2015/462), [regs. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1), [8(1)](https://www.legislation.gov.uk/uksi/2015/462/regulation/8/1)
 
 [^c611726]: Modification: S. 276 applied with modifications by [S.I. 1987/349](https://www.legislation.gov.uk/uksi/1987/349), [reg. 11](https://www.legislation.gov.uk/uksi/1987/349/regulation/11) and [S.I. 1990/1519](https://www.legislation.gov.uk/uksi/1990/1519), [reg. 11](https://www.legislation.gov.uk/uksi/1990/1519/regulation/11)

@@ -28,7 +28,7 @@ summary: ''
 
 (4) But where D dies in service, as a phased retirement pensioner or as a retirement pensioner, during the first 3 months after D's death, the annual rate of the pension is the annual rate, at the date of D's death, of the additional pension which was payable to D.
 
-(5)[^key-decb93e48d89a6f0807c88fcba474c67] The factor is—
+(5)[^c-decb93e48d89a6f0807c88fcba474c67] The factor is—
 
 - (a) in relation to an election made under paragraph 2 of Schedule 4 on or before 22nd June 2010, (RPI1/RPI2)/X, where—
   - (i) RPI1 is the retail prices index for the penultimate month before the month which includes the day before the day mentioned in paragraph (2),
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-decb93e48d89a6f0807c88fcba474c67]: Textual amendment: [Reg. 101(5)](https://www.legislation.gov.uk/uksi/2010/990/regulation/101/5)[(6)](https://www.legislation.gov.uk/uksi/2010/990/regulation/101/6) substituted for reg. 101(5)-(11) (1.4.2011) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/614)](https://www.legislation.gov.uk/uksi/2011/614), [reg. 1](https://www.legislation.gov.uk/uksi/2011/614/regulation/1), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2011/614/schedule/2/paragraph/8)
+[^c-decb93e48d89a6f0807c88fcba474c67]: Textual amendment: [Reg. 101(5)](https://www.legislation.gov.uk/uksi/2010/990/regulation/101/5)[(6)](https://www.legislation.gov.uk/uksi/2010/990/regulation/101/6) substituted for reg. 101(5)-(11) (1.4.2011) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/614)](https://www.legislation.gov.uk/uksi/2011/614), [reg. 1](https://www.legislation.gov.uk/uksi/2011/614/regulation/1), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2011/614/schedule/2/paragraph/8)

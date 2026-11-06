@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Power to cancel notice[^key-17b1d684952d2f8491f70c29de3c4d52]
+## 42. Power to cancel notice[^c-17b1d684952d2f8491f70c29de3c4d52]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17b1d684952d2f8491f70c29de3c4d52]: Commencement: S. 42 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-17b1d684952d2f8491f70c29de3c4d52]: Commencement: S. 42 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

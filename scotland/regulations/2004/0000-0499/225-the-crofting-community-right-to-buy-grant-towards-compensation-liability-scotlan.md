@@ -45,7 +45,7 @@ Coming into force
 
 The Scottish Ministers in exercise of the powers conferred by section 90(6) of the Land Reform (Scotland) Act 2003[^f00001], and of all other powers enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-0b8c7ae8cd8e34d65666c494ebca463b]
+## 1. Citation, commencement and interpretation[^c-0b8c7ae8cd8e34d65666c494ebca463b]
 
 (1) These Regulations may be cited as the Crofting Community Right to Buy (Grant Towards Compensation Liability) (Scotland) Regulations 2004 and shall come into force on 15th June 2004.
 
@@ -54,16 +54,16 @@ The Scottish Ministers in exercise of the powers conferred by section 90(6) of t
 - “the Act” means the Land Reform (Scotland) Act 2003;
 - “the claimant” means any of the persons specified in section 89(1) of the Act.
 
-**2.**[^key-2d2335ab577933c31bf53aff5a73ae9a] An application for a grant made under section 90 of the Act shall be submitted to Ministers, with the information and documents specified in the Schedule to these Regulations, by the crofting community body which is liable to pay compensation under section 89(1) of the Act.
+**2.**[^c-2d2335ab577933c31bf53aff5a73ae9a] An application for a grant made under section 90 of the Act shall be submitted to Ministers, with the information and documents specified in the Schedule to these Regulations, by the crofting community body which is liable to pay compensation under section 89(1) of the Act.
 
-**3.**[^key-c6e98f636e9ecbdadc13cb9254d5cb98] An application for a grant under regulation 2 shall be submitted within 90 days of–
+**3.**[^c-c6e98f636e9ecbdadc13cb9254d5cb98] An application for a grant under regulation 2 shall be submitted within 90 days of–
 
 - (a) the date on which the crofting community body and the claimant agreed the amount of compensation payable; or
 - (b) the date on which the Land Court determined under section 89(5) of the Act the amount of compensation payable,
 
 whichever date is the earlier.
 
-**4.**[^key-681ce08c130077da64a09bfec3e2774f] Ministers shall issue their decision on an application for a grant under section 90 of the Act within 21 days of the date of its receipt.
+**4.**[^c-681ce08c130077da64a09bfec3e2774f] Ministers shall issue their decision on an application for a grant under section 90 of the Act within 21 days of the date of its receipt.
 
 ALLAN WILSON
 
@@ -77,7 +77,7 @@ St Andrew’s House, Edinburgh
 
 Regulation 2
 
-**1.**[^key-7d4395f010dbacfb24ed36a926352c8b] An application for a grant shall include the following information:–
+**1.**[^c-7d4395f010dbacfb24ed36a926352c8b] An application for a grant shall include the following information:–
 
 - (a) the name of the Crofting Community Body (“CCB”) and its company number;
 - (b) the names and addresses of the Directors, Secretary and Treasurer of the CCB;
@@ -87,7 +87,7 @@ Regulation 2
 - (f) details of the account into which any grant is to be paid; and
 - (g) details of other attempts to secure funding to pay the compensation.
 
-**2.**[^key-8a662241c689c6be7d3087a20e27d54d] An application for a grant shall be accompanied by the following documents:–
+**2.**[^c-8a662241c689c6be7d3087a20e27d54d] An application for a grant shall be accompanied by the following documents:–
 
 - (a) a statement signed by a Director and Secretary of the CCB certifying the details given in the application and undertaking that grant provided will be used only in respect of compensation sought under section 89(1);
 - (b) if the purchase was not completed, by a statement signed by a Director and Secretary of the CCB advising the reasons for this;
@@ -106,14 +106,14 @@ The Schedule to the Regulations specifies the information which must be supplied
 
 [^f00001]: Footnote: [2003 asp 2](https://www.legislation.gov.uk/asp/2003/2). Section 98(1) of the Act contains the definitions of “Ministers” and “prescribed” relevant to the exercise of the statutory powers under which these Regulations are made.
 
-[^key-0b8c7ae8cd8e34d65666c494ebca463b]: Commencement: Reg. 1 in force at 15.6.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/225/regulation/1/1)
+[^c-0b8c7ae8cd8e34d65666c494ebca463b]: Commencement: Reg. 1 in force at 15.6.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/225/regulation/1/1)
 
-[^key-2d2335ab577933c31bf53aff5a73ae9a]: Commencement: Reg. 2 in force at 15.6.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/225/regulation/1/1)
+[^c-2d2335ab577933c31bf53aff5a73ae9a]: Commencement: Reg. 2 in force at 15.6.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/225/regulation/1/1)
 
-[^key-c6e98f636e9ecbdadc13cb9254d5cb98]: Commencement: Reg. 3 in force at 15.6.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/225/regulation/1/1)
+[^c-c6e98f636e9ecbdadc13cb9254d5cb98]: Commencement: Reg. 3 in force at 15.6.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/225/regulation/1/1)
 
-[^key-681ce08c130077da64a09bfec3e2774f]: Commencement: Reg. 4 in force at 15.6.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/225/regulation/1/1)
+[^c-681ce08c130077da64a09bfec3e2774f]: Commencement: Reg. 4 in force at 15.6.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/225/regulation/1/1)
 
-[^key-7d4395f010dbacfb24ed36a926352c8b]: Commencement: Sch. para. 1 in force at 15.6.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/225/regulation/1/1)
+[^c-7d4395f010dbacfb24ed36a926352c8b]: Commencement: Sch. para. 1 in force at 15.6.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/225/regulation/1/1)
 
-[^key-8a662241c689c6be7d3087a20e27d54d]: Commencement: Sch. para. 2 in force at 15.6.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/225/regulation/1/1)
+[^c-8a662241c689c6be7d3087a20e27d54d]: Commencement: Sch. para. 2 in force at 15.6.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/225/regulation/1/1)

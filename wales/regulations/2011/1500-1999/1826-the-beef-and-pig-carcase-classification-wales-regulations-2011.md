@@ -27,7 +27,7 @@ summary: ''
 
 AGRICULTURE, WALES
 
-The Beef and Pig Carcase Classification (Wales) Regulations 2011 (revoked)[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+The Beef and Pig Carcase Classification (Wales) Regulations 2011 (revoked)[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 Made
 
@@ -41,224 +41,224 @@ Coming into force
 
 1 September 2011
 
-[^key-9ed609e9e5a2826eae7697f2a910fb8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9ed609e9e5a2826eae7697f2a910fb8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — GENERAL PROVISIONS[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+## PART 1 — GENERAL PROVISIONS[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
-### 1. Title, commencement and application[^key-9ed609e9e5a2826eae7697f2a910fb8c]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+### 1. Title, commencement and application[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Notices[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+### 2. Interpretation[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Revocations[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+### 3. Notices[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — NOTIFICATIONS BY OPERATORS[^key-9ed609e9e5a2826eae7697f2a910fb8c]
-
-### 5. Notifications by operators[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+### 4. Revocations[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — BOVINE CARCASES[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+## PART 2 — NOTIFICATIONS BY OPERATORS[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
-### 6. Application of these Regulations to small-scale bovine operators[^key-9ed609e9e5a2826eae7697f2a910fb8c]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 7. Competent authority etc: bovine carcases[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+### 5. Notifications by operators[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Labelling instead of marking[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+## PART 3 — BOVINE CARCASES[^c-9ed609e9e5a2826eae7697f2a910fb8c]
+
+### 6. Application of these Regulations to small-scale bovine operators[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Licence to carry out classification[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+### 7. Competent authority etc: bovine carcases[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Licence for automated grading[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+### 8. Labelling instead of marking[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Appeals regarding licences[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+### 9. Licence to carry out classification[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Records: bovine carcases[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+### 10. Licence for automated grading[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — PIG CARCASES[^key-9ed609e9e5a2826eae7697f2a910fb8c]
-
-### 13. Exemption for small-scale pig operators[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+### 11. Appeals regarding licences[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Competent authority etc: pig carcases[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+### 12. Records: bovine carcases[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Records instead of marking[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+## PART 4 — PIG CARCASES[^c-9ed609e9e5a2826eae7697f2a910fb8c]
+
+### 13. Exemption for small-scale pig operators[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Records: pig carcases[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+### 14. Competent authority etc: pig carcases[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — ENFORCEMENT AND OFFENCES[^key-9ed609e9e5a2826eae7697f2a910fb8c]
-
-### 17. Powers of entry[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+### 15. Records instead of marking[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Powers of authorised officers[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+### 16. Records: pig carcases[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Enforcement notices[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+## PART 5 — ENFORCEMENT AND OFFENCES[^c-9ed609e9e5a2826eae7697f2a910fb8c]
+
+### 17. Powers of entry[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Appeals against enforcement notices[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+### 18. Powers of authorised officers[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Penalty notices[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+### 19. Enforcement notices[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Restriction on proceedings for penalty offence[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+### 20. Appeals against enforcement notices[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Payment of penalty[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+### 21. Penalty notices[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Withdrawal of penalty notice[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+### 22. Restriction on proceedings for penalty offence[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Offences: European beef provisions[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+### 23. Payment of penalty[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Offences: European pig provisions[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+### 24. Withdrawal of penalty notice[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Offences: notifications by operators[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+### 25. Offences: European beef provisions[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Offences: licences (bovine carcases)[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+### 26. Offences: European pig provisions[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Offences: records and marks[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+### 27. Offences: notifications by operators[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. Offences: obstruction etc.[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+### 28. Offences: licences (bovine carcases)[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 31. Period for bringing prosecution[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+### 29. Offences: records and marks[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 32. Offences by bodies corporate[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+### 30. Offences: obstruction etc.[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 33. Defence of due diligence[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+### 31. Period for bringing prosecution[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 34. Offences: punishment[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+### 32. Offences by bodies corporate[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9ed609e9e5a2826eae7697f2a910fb8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 33. Defence of due diligence[^c-9ed609e9e5a2826eae7697f2a910fb8c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 34. Offences: punishment[^c-9ed609e9e5a2826eae7697f2a910fb8c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-9ed609e9e5a2826eae7697f2a910fb8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — European provisions: bovine carcases[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+## SCHEDULE 1 — European provisions: bovine carcases[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 Regulation 2
 
-### PART 1[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+### PART 1[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+### PART 2[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — European provisions: pig carcases[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+## SCHEDULE 2 — European provisions: pig carcases[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 Regulation 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Records: bovine carcases[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+## SCHEDULE 3 — Records: bovine carcases[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 Regulation 12
 
-**1.**[^key-9ed609e9e5a2826eae7697f2a910fb8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-9ed609e9e5a2826eae7697f2a910fb8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-9ed609e9e5a2826eae7697f2a910fb8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-9ed609e9e5a2826eae7697f2a910fb8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-9ed609e9e5a2826eae7697f2a910fb8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-9ed609e9e5a2826eae7697f2a910fb8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-9ed609e9e5a2826eae7697f2a910fb8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-9ed609e9e5a2826eae7697f2a910fb8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-9ed609e9e5a2826eae7697f2a910fb8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-9ed609e9e5a2826eae7697f2a910fb8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-9ed609e9e5a2826eae7697f2a910fb8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-9ed609e9e5a2826eae7697f2a910fb8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-9ed609e9e5a2826eae7697f2a910fb8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-9ed609e9e5a2826eae7697f2a910fb8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-9ed609e9e5a2826eae7697f2a910fb8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-9ed609e9e5a2826eae7697f2a910fb8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Records: pig carcases[^key-9ed609e9e5a2826eae7697f2a910fb8c]
+## SCHEDULE 4 — Records: pig carcases[^c-9ed609e9e5a2826eae7697f2a910fb8c]
 
 Regulation 16
 
-**1.**[^key-9ed609e9e5a2826eae7697f2a910fb8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-9ed609e9e5a2826eae7697f2a910fb8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-9ed609e9e5a2826eae7697f2a910fb8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-9ed609e9e5a2826eae7697f2a910fb8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-9ed609e9e5a2826eae7697f2a910fb8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-9ed609e9e5a2826eae7697f2a910fb8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-9ed609e9e5a2826eae7697f2a910fb8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-9ed609e9e5a2826eae7697f2a910fb8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-9ed609e9e5a2826eae7697f2a910fb8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-9ed609e9e5a2826eae7697f2a910fb8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-9ed609e9e5a2826eae7697f2a910fb8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-9ed609e9e5a2826eae7697f2a910fb8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-9ed609e9e5a2826eae7697f2a910fb8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-9ed609e9e5a2826eae7697f2a910fb8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-9ed609e9e5a2826eae7697f2a910fb8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-9ed609e9e5a2826eae7697f2a910fb8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9ed609e9e5a2826eae7697f2a910fb8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9ed609e9e5a2826eae7697f2a910fb8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9ed609e9e5a2826eae7697f2a910fb8c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2011/1826) revoked (14.12.2018) by [The Carcase Classification and Price Reporting (Wales) Regulations 2018 (S.I. 2018/1215)](https://www.legislation.gov.uk/wsi/2018/1215), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/1/3), [4(a)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/4/a) (with [reg. 6](https://www.legislation.gov.uk/wsi/2018/1215/regulation/6))
+[^c-9ed609e9e5a2826eae7697f2a910fb8c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2011/1826) revoked (14.12.2018) by [The Carcase Classification and Price Reporting (Wales) Regulations 2018 (S.I. 2018/1215)](https://www.legislation.gov.uk/wsi/2018/1215), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/1/3), [4(a)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/4/a) (with [reg. 6](https://www.legislation.gov.uk/wsi/2018/1215/regulation/6))
 
     \[Editorial note: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

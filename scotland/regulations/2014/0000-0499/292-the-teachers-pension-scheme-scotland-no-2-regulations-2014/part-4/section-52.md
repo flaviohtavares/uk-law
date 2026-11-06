@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Account to specify opening balance and index adjustment[^key-dc2a41e0cb5dcb326df45dc1193066cc]
+## 52. Account to specify opening balance and index adjustment[^c-dc2a41e0cb5dcb326df45dc1193066cc]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc2a41e0cb5dcb326df45dc1193066cc]: Commencement: [Reg. 52](https://www.legislation.gov.uk/ssi/2014/292/regulation/52) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-dc2a41e0cb5dcb326df45dc1193066cc]: Commencement: [Reg. 52](https://www.legislation.gov.uk/ssi/2014/292/regulation/52) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

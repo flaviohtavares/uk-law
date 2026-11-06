@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. The appropriate use of control and restraint[^key-8cb7e88118a3100aafc71e6b91390d01]
+## 24. The appropriate use of control and restraint[^c-8cb7e88118a3100aafc71e6b91390d01]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8cb7e88118a3100aafc71e6b91390d01]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2019/163/regulation/24) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)
+[^c-8cb7e88118a3100aafc71e6b91390d01]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2019/163/regulation/24) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)

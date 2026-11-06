@@ -47,7 +47,7 @@ Coming into force
 
 The Welsh Ministers make the following Order in exercise of the powers conferred by sections 1(1), 1(3) 1(4), 1(6), 5(1) and 5(2) of the Sea Fish (Conservation) Act 1967 [^c23789041], now vested in them [^c23789051].
 
-## 1. Title, commencement and application[^key-f73deb1e951b413540c6edcc115df476]
+## 1. Title, commencement and application[^c-f73deb1e951b413540c6edcc115df476]
 
 (1) The title of this Order is the Whelk Fishing (Wales) Order 2019 and it comes into force on 4 July 2019.
 
@@ -55,12 +55,12 @@ The Welsh Ministers make the following Order in exercise of the powers conferred
 
 (3) Articles 3 and 5 apply in relation to the Welsh zone.
 
-## 2. Interpretation[^key-cdba628f806cde0db5affe5f6e8df7a8]
+## 2. Interpretation[^c-cdba628f806cde0db5affe5f6e8df7a8]
 
 In this Order, unless the context requires otherwise—
 
 - “**the Act**” (“***y Ddeddf***”) means the Sea Fish (Conservation) Act 1967 [^c23789061];
-- [^key-e642ea92f5e099d5c72d27ad344244f1]...
+- [^c-e642ea92f5e099d5c72d27ad344244f1]...
 - “**Specified minimum size**” (“***maint lleiaf penodedig***”) means—
   - (i) 55 millimetres before 4 July 2020, and
   - (ii) 65 millimetres on and after 4 July 2020;
@@ -68,25 +68,25 @@ In this Order, unless the context requires otherwise—
 - “**Welsh zone**” (“***parth Cymru***”) has the meaning given in section 158 of the Government of Wales Act 2006 [^c23789091]; and
 - “**Whelk**” (“***cregyn moch***”) means shellfish of the species *Buccinum undatum*.
 
-## 3. Fishing prohibition for specified whelk[^key-e0fb5db391108deb1bf839f8b7551c11]
+## 3. Fishing prohibition for specified whelk[^c-e0fb5db391108deb1bf839f8b7551c11]
 
-It is prohibited for a fishing boat[^key-cd4db06c61dac0cec4defa578f712c4f] to fish for whelk with a size of less than the specified minimum size.
+It is prohibited for a fishing boat[^c-cd4db06c61dac0cec4defa578f712c4f] to fish for whelk with a size of less than the specified minimum size.
 
-## 4. Prohibition on landing of specified whelk[^key-d7d8de53cf16643cc3267cfa1a8ca235]
+## 4. Prohibition on landing of specified whelk[^c-d7d8de53cf16643cc3267cfa1a8ca235]
 
-For the purposes[^key-a4521a3ea4201930249a80f3e931cedb] of section 1(1) of the Act (which prohibits the landing of any sea fish of any description which does not meet the requirements as to size as may be prescribed in relation to sea fish of that description) it is prescribed that the minimum size for whelk is the specified minimum size.
+For the purposes[^c-a4521a3ea4201930249a80f3e931cedb] of section 1(1) of the Act (which prohibits the landing of any sea fish of any description which does not meet the requirements as to size as may be prescribed in relation to sea fish of that description) it is prescribed that the minimum size for whelk is the specified minimum size.
 
-## 5. Prohibition on carriage of specified whelk[^key-c66814d84f6288ed8ec797f90c18d43a]
+## 5. Prohibition on carriage of specified whelk[^c-c66814d84f6288ed8ec797f90c18d43a]
 
-(1) For the purposes of section 1(3) of the Act (which prohibits the carriage on specified fishing boats of any sea fish of any description which does not meet the requirements as to size prescribed in relation to sea fish of that description), whelk with a size of less than the specified minimum size may not be carried by a fishing boat[^key-df7c9cba845e45310dd0a433c894ad00] that has fished in the Welsh zone during that boat’s current fishing trip.
+(1) For the purposes of section 1(3) of the Act (which prohibits the carriage on specified fishing boats of any sea fish of any description which does not meet the requirements as to size prescribed in relation to sea fish of that description), whelk with a size of less than the specified minimum size may not be carried by a fishing boat[^c-df7c9cba845e45310dd0a433c894ad00] that has fished in the Welsh zone during that boat’s current fishing trip.
 
 (2) In this article, “current fishing trip” means the time from when the fishing boat departed from a port to the time when it returns to a port.
 
-## 6. Measurement of whelk[^key-a085ccc97b527f246efaf792bf38e09e]
+## 6. Measurement of whelk[^c-a085ccc97b527f246efaf792bf38e09e]
 
 For the purposes of articles 3, 4 and 5, the size of a whelk is to be measured in accordance with paragraph 6 of Annex 6 to Regulation (EU) 2019/1241 of the European Parliament and of the Council of 20 June 2019 on the conservation of fisheries resources and the protection of marine ecosystems through technical measures.
 
-## 7. Revocation and Amendments[^key-3212101d8dcfd6b42fa173678222db6f]
+## 7. Revocation and Amendments[^c-3212101d8dcfd6b42fa173678222db6f]
 
 (1) Byelaw 11 (Whelk – Minimum Size) [^c23789111] of the former South Wales Sea Fisheries Committee [^c23789121] is revoked.
 
@@ -126,33 +126,33 @@ A Regulatory Impact Assessment has been undertaken in respect of this Order and 
 
 [^c23789051]: Marginal citation: The functions of the Ministers under sections 1(1), 1(3) 1(4), 1(6), 5(1) and 5(2) so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales (as constituted under the [Government of Wales Act 1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38)): see article 2(a) of and Schedule 1 to the National Assembly for Wales (Transfer of Functions) Order ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). Those functions were then further transferred to the Welsh Ministers by section 162 and paragraph 30 of Schedule 11 to the [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32). So far as exercisable in relation to the Welsh zone, the functions of the Ministers under sections 1(3), 1(4), 1(6), 5(1) and 5(2) of the 1967 Act, were transferred to the Welsh Ministers by article 4(1)(b) of the [Welsh Zone (Boundaries and Transfer of Functions) Order 2010 (S.I. 2010/760)](https://www.legislation.gov.uk/uksi/2010/760).
 
-[^key-f73deb1e951b413540c6edcc115df476]: Commencement: Art. 1 in force at 4.7.2019, see art. 1(1)
+[^c-f73deb1e951b413540c6edcc115df476]: Commencement: Art. 1 in force at 4.7.2019, see art. 1(1)
 
-[^key-cdba628f806cde0db5affe5f6e8df7a8]: Commencement: Art. 2 in force at 4.7.2019, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2019/1042/article/1/1)
+[^c-cdba628f806cde0db5affe5f6e8df7a8]: Commencement: Art. 2 in force at 4.7.2019, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2019/1042/article/1/1)
 
 [^c23789061]: Marginal citation: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84).
 
-[^key-e642ea92f5e099d5c72d27ad344244f1]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2019/1042/article/2) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 21(2)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/21/2/b) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-e642ea92f5e099d5c72d27ad344244f1]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2019/1042/article/2) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 21(2)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/21/2/b) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^c23789081]: Marginal citation: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32); Section 158(1) was amended by the [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), section 43(1) and (2). For the purposes of the definition of “Wales” in section 158(1) of the 2009 Act, the boundary between those parts of the sea within the Severn and Dee Estuaries which are to be treated as adjacent to Wales and those which are not are, in each case, a line drawn between the co-ordinates set out in Schedule 3 to the [National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)](https://www.legislation.gov.uk/uksi/1999/672). By virtue of section 162 of and paragraph 26 of Schedule 11 to the 2006 Act, [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672) continues to have effect.
 
 [^c23789091]: Marginal citation: The Welsh zone is specified in [S.I. 2010/760](https://www.legislation.gov.uk/uksi/2010/760).
 
-[^key-e0fb5db391108deb1bf839f8b7551c11]: Commencement: Art. 3 in force at 4.7.2019, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2019/1042/article/1/1)
+[^c-e0fb5db391108deb1bf839f8b7551c11]: Commencement: Art. 3 in force at 4.7.2019, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2019/1042/article/1/1)
 
-[^key-cd4db06c61dac0cec4defa578f712c4f]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/wsi/2019/1042/article/3) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 21(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/21/3/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-cd4db06c61dac0cec4defa578f712c4f]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/wsi/2019/1042/article/3) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 21(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/21/3/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-d7d8de53cf16643cc3267cfa1a8ca235]: Commencement: Art. 4 in force at 4.7.2019, see art. 1(1)
+[^c-d7d8de53cf16643cc3267cfa1a8ca235]: Commencement: Art. 4 in force at 4.7.2019, see art. 1(1)
 
-[^key-a4521a3ea4201930249a80f3e931cedb]: Textual amendment: Word in [art. 4](https://www.legislation.gov.uk/wsi/2019/1042/article/4) substituted (15.1.2020) by [The Whelk Fishing (Wales) (Amendment) Order 2019 (S.I. 2019/1498)](https://www.legislation.gov.uk/wsi/2019/1498), [arts. 1](https://www.legislation.gov.uk/wsi/2019/1498/article/1), [2(2)](https://www.legislation.gov.uk/wsi/2019/1498/article/2/2)
+[^c-a4521a3ea4201930249a80f3e931cedb]: Textual amendment: Word in [art. 4](https://www.legislation.gov.uk/wsi/2019/1042/article/4) substituted (15.1.2020) by [The Whelk Fishing (Wales) (Amendment) Order 2019 (S.I. 2019/1498)](https://www.legislation.gov.uk/wsi/2019/1498), [arts. 1](https://www.legislation.gov.uk/wsi/2019/1498/article/1), [2(2)](https://www.legislation.gov.uk/wsi/2019/1498/article/2/2)
 
-[^key-c66814d84f6288ed8ec797f90c18d43a]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/wsi/2019/1042/article/5) substituted (15.1.2020) by [The Whelk Fishing (Wales) (Amendment) Order 2019 (S.I. 2019/1498)](https://www.legislation.gov.uk/wsi/2019/1498), [arts. 1](https://www.legislation.gov.uk/wsi/2019/1498/article/1), [2(3)](https://www.legislation.gov.uk/wsi/2019/1498/article/2/3)
+[^c-c66814d84f6288ed8ec797f90c18d43a]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/wsi/2019/1042/article/5) substituted (15.1.2020) by [The Whelk Fishing (Wales) (Amendment) Order 2019 (S.I. 2019/1498)](https://www.legislation.gov.uk/wsi/2019/1498), [arts. 1](https://www.legislation.gov.uk/wsi/2019/1498/article/1), [2(3)](https://www.legislation.gov.uk/wsi/2019/1498/article/2/3)
 
-[^key-df7c9cba845e45310dd0a433c894ad00]: Textual amendment: Words in [art. 5](https://www.legislation.gov.uk/wsi/2019/1042/article/5) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 21(4)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/21/4/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-df7c9cba845e45310dd0a433c894ad00]: Textual amendment: Words in [art. 5](https://www.legislation.gov.uk/wsi/2019/1042/article/5) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 21(4)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/21/4/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-a085ccc97b527f246efaf792bf38e09e]: Textual amendment: Art. 6 substituted (1.11.2019) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/1332)](https://www.legislation.gov.uk/wsi/2019/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1332/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2019/1332/regulation/4)
+[^c-a085ccc97b527f246efaf792bf38e09e]: Textual amendment: Art. 6 substituted (1.11.2019) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/1332)](https://www.legislation.gov.uk/wsi/2019/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1332/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2019/1332/regulation/4)
 
-[^key-3212101d8dcfd6b42fa173678222db6f]: Commencement: Art. 7 in force at 4.7.2019, see art. 1(1)
+[^c-3212101d8dcfd6b42fa173678222db6f]: Commencement: Art. 7 in force at 4.7.2019, see art. 1(1)
 
 [^c23789111]: Marginal citation: Byelaw 11 of the former South Wales Sea Fisheries Committee has effect as if made by the Welsh Ministers in a statutory instrument in relation to the same area of Wales as the area to which that Byelaw originally applied by virtue of article 13(1) of and Schedule 3 to the Marine and Coastal Access Act 2009 (Commencement No. 1, Consequential, Transitional and Savings Provisions) (England and Wales) Order 2010 ([S.I. 2010/630](https://www.legislation.gov.uk/uksi/2010/630) (C. 42)).
 

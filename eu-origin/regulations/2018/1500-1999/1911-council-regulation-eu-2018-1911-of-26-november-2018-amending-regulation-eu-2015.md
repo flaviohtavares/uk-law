@@ -35,14 +35,14 @@ amending Regulation (EU) 2015/1588 on the application of Articles 107 and 108 of
 
 (Text with EEA relevance) (revoked)
 
-[^key-b6c22e47d3c5f92332babced4fb3ea85]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b6c22e47d3c5f92332babced4fb3ea85]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-b6c22e47d3c5f92332babced4fb3ea85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-b6c22e47d3c5f92332babced4fb3ea85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-b6c22e47d3c5f92332babced4fb3ea85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-b6c22e47d3c5f92332babced4fb3ea85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b6c22e47d3c5f92332babced4fb3ea85]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b6c22e47d3c5f92332babced4fb3ea85]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b6c22e47d3c5f92332babced4fb3ea85]: Textual amendment: Regulation revoked (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [5(v)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/5/v) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
+[^c-b6c22e47d3c5f92332babced4fb3ea85]: Textual amendment: Regulation revoked (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [5(v)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/5/v) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))

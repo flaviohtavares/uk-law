@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Account to specify amount of added pension[^key-a351b560cb55a2c6d140860cca7b2086]
+## 39. Account to specify amount of added pension[^c-a351b560cb55a2c6d140860cca7b2086]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a351b560cb55a2c6d140860cca7b2086]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2014/2848/regulation/39) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-a351b560cb55a2c6d140860cca7b2086]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2014/2848/regulation/39) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

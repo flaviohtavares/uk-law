@@ -44,11 +44,11 @@ summary: ''
 
 (5) For the purposes of subsection (2) “the appropriate officer” is—
 
-- (a) in the case of a magistrates' court, the designated officer for[^key-641d62b1d1d5e62ddb4a37d25863cf84] the court, and
+- (a) in the case of a magistrates' court, the designated officer for[^c-641d62b1d1d5e62ddb4a37d25863cf84] the court, and
 - (b) in the case of the Crown Court, the appropriate officer;
 
 and section 141 of the Magistrates' Courts Act 1980 (c. 43) (meaning of “clerk of a magistrates' court”) applies in relation to this subsection as it applies in relation to that section.
 
 ## Annotations
 
-[^key-641d62b1d1d5e62ddb4a37d25863cf84]: Textual amendment: Words in s. 131(5)(a) substituted (6.4.2020) by [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 24](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/24); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-641d62b1d1d5e62ddb4a37d25863cf84]: Textual amendment: Words in s. 131(5)(a) substituted (6.4.2020) by [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 24](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/24); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)

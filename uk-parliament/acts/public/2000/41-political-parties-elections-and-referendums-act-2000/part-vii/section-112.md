@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Notional referendum expenses.[^c10574871][^c20061051][^key-e4fc715355b35e567095287e51d223cf][^key-c863ddb8fbbb25565b362cabc86a3b60]
+## 112. Notional referendum expenses.[^c10574871][^c20061051][^c-e4fc715355b35e567095287e51d223cf][^c-c863ddb8fbbb25565b362cabc86a3b60]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
   - (ii) property, services or facilities is or are provided for the use or benefit of the individual or body free of charge or at a discount of more than 10 per cent. of the commercial rate for the use of the property or for the provision of the services or facilities, and
 - (b) the property, services or facilities is or are made use of by or on behalf of the individual or body in circumstances such that, if any expenses were to be (or are) actually incurred by or on behalf of the individual or body in respect of that use, they would be (or are) referendum expenses incurred by or on behalf of the individual or body.
 
-(1A)[^key-11dd3fca2fb2e7253786f47ddc7776c8] For the purposes of subsection (1)(b), property, services or facilities are made use of on behalf of an individual or body only if their use on behalf of the individual or body is directed, authorised or encouraged by the individual or body or (where the individual or body is a permitted participant) by the individual or body or the responsible person.
+(1A)[^c-11dd3fca2fb2e7253786f47ddc7776c8] For the purposes of subsection (1)(b), property, services or facilities are made use of on behalf of an individual or body only if their use on behalf of the individual or body is directed, authorised or encouraged by the individual or body or (where the individual or body is a permitted participant) by the individual or body or the responsible person.
 
 (2) Where this section applies, an amount of referendum expenses determined in accordance with this section (“**the appropriate amount**”) shall be treated, for the purposes of this Part, as incurred by the individual or body during the period for which the property, services or facilities is or are made use of as mentioned in subsection (1)(b).
 
@@ -74,8 +74,8 @@ unless that amount is not more than £200.
 
 [^c20061051]: Modification: S. 112 applied (23.7.2004) by [The Regional Assembly and Local Government Referendums Order 2004 (S.I. 2004/1962)](https://www.legislation.gov.uk/uksi/2004/1962), [art. 7(2)](https://www.legislation.gov.uk/uksi/2004/1962/article/7/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2004/1962/schedule/3/part/2)
 
-[^key-e4fc715355b35e567095287e51d223cf]: Modification: S. 112 excluded (13.2.2013) by [The Scotland Act 1998 (Modification of Schedule 5) Order 2013 (S.I. 2013/242)](https://www.legislation.gov.uk/uksi/2013/242), [arts. 2](https://www.legislation.gov.uk/uksi/2013/242/article/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2013/242/article/4/3/a)
+[^c-e4fc715355b35e567095287e51d223cf]: Modification: S. 112 excluded (13.2.2013) by [The Scotland Act 1998 (Modification of Schedule 5) Order 2013 (S.I. 2013/242)](https://www.legislation.gov.uk/uksi/2013/242), [arts. 2](https://www.legislation.gov.uk/uksi/2013/242/article/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2013/242/article/4/3/a)
 
-[^key-c863ddb8fbbb25565b362cabc86a3b60]: Modification: S. 112 applied (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 22(7)(a)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/22/7/a); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-c863ddb8fbbb25565b362cabc86a3b60]: Modification: S. 112 applied (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 22(7)(a)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/22/7/a); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-11dd3fca2fb2e7253786f47ddc7776c8]: Textual amendment: [S. 112(1A)](https://www.legislation.gov.uk/ukpga/2000/41/section/112/1A) inserted (24.11.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 20(5)](https://www.legislation.gov.uk/ukpga/2022/37/section/20/5), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/3/1))
+[^c-11dd3fca2fb2e7253786f47ddc7776c8]: Textual amendment: [S. 112(1A)](https://www.legislation.gov.uk/ukpga/2000/41/section/112/1A) inserted (24.11.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 20(5)](https://www.legislation.gov.uk/ukpga/2022/37/section/20/5), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/3/1))

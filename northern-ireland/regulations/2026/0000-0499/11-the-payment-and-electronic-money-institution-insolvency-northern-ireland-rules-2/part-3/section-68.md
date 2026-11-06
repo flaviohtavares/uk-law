@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 68. Constitution of creditors’ committee[^key-58e9b3a28d01c86266dbaccb4108f119]
+## 68. Constitution of creditors’ committee[^c-58e9b3a28d01c86266dbaccb4108f119]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58e9b3a28d01c86266dbaccb4108f119]: Commencement: [Rule 68](https://www.legislation.gov.uk/nisr/2026/11/rule/68) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-58e9b3a28d01c86266dbaccb4108f119]: Commencement: [Rule 68](https://www.legislation.gov.uk/nisr/2026/11/rule/68) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

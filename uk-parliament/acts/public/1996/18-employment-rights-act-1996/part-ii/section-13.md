@@ -40,11 +40,11 @@ summary: ''
 
 (7) This section does not affect any other statutory provision by virtue of which a sum payable to a worker by his employer but not constituting “wages” within the meaning of this Part is not to be subject to a deduction at the instance of the employer.
 
-(8)[^key-7a98dd13a147da95c5ec88c9baf07545] In relation to deductions from amounts of qualifying tips, gratuities and service charges allocated to workers under Part 2B, subsection (1) applies as if—
+(8)[^c-7a98dd13a147da95c5ec88c9baf07545] In relation to deductions from amounts of qualifying tips, gratuities and service charges allocated to workers under Part 2B, subsection (1) applies as if—
 
 - (a) in paragraph (a), the words “or a relevant provision of the worker’s contract” were omitted, and
 - (b) paragraph (b) were omitted.
 
 ## Annotations
 
-[^key-7a98dd13a147da95c5ec88c9baf07545]: Textual amendment: [S. 13(8)](https://www.legislation.gov.uk/ukpga/1996/18/section/13/8) inserted (31.7.2023 for specified purposes, 1.10.2024 in so far as not already in force) by [Employment (Allocation of Tips) Act 2023 (c. 13)](https://www.legislation.gov.uk/ukpga/2023/13), [ss. 11(a)](https://www.legislation.gov.uk/ukpga/2023/13/section/11/a), [14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2); [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/c); [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/k)
+[^c-7a98dd13a147da95c5ec88c9baf07545]: Textual amendment: [S. 13(8)](https://www.legislation.gov.uk/ukpga/1996/18/section/13/8) inserted (31.7.2023 for specified purposes, 1.10.2024 in so far as not already in force) by [Employment (Allocation of Tips) Act 2023 (c. 13)](https://www.legislation.gov.uk/ukpga/2023/13), [ss. 11(a)](https://www.legislation.gov.uk/ukpga/2023/13/section/11/a), [14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2); [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/c); [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/k)

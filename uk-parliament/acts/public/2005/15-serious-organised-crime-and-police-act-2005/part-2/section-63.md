@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Production of documents[^key-842a0cd08a93b95d1f386eb3a7164bc6][^key-8db93b32112a2b7e1823805c380a5f7a][^key-a8faaf61725f45aa0284914e8dc2ea99]
+## 63. Production of documents[^c-842a0cd08a93b95d1f386eb3a7164bc6][^c-8db93b32112a2b7e1823805c380a5f7a][^c-a8faaf61725f45aa0284914e8dc2ea99]
 
 *Extent: E+W+S*
 
@@ -47,8 +47,8 @@ they may be retained until the proceedings are concluded.
 
 ## Annotations
 
-[^key-842a0cd08a93b95d1f386eb3a7164bc6]: Commencement: S. 63 in force at 1.4.2006 except to the extent that it extends to S. by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/1521/article/5/1)
+[^c-842a0cd08a93b95d1f386eb3a7164bc6]: Commencement: S. 63 in force at 1.4.2006 except to the extent that it extends to S. by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/1521/article/5/1)
 
-[^key-8db93b32112a2b7e1823805c380a5f7a]: Commencement: S. 63 in force at 1.4.2006 for S. by [S.S.I. 2006/166](https://www.legislation.gov.uk/ssi/2006/166), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2006/166/article/2/1/a)
+[^c-8db93b32112a2b7e1823805c380a5f7a]: Commencement: S. 63 in force at 1.4.2006 for S. by [S.S.I. 2006/166](https://www.legislation.gov.uk/ssi/2006/166), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2006/166/article/2/1/a)
 
-[^key-a8faaf61725f45aa0284914e8dc2ea99]: Modification: Ss. 60-67 extended (Northern Ireland) (1.12.2006) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [ss. 26(1)](https://www.legislation.gov.uk/ukpga/2006/33/section/26/1), [31(3)](https://www.legislation.gov.uk/ukpga/2006/33/section/31/3); [S.I. 2006/2966](https://www.legislation.gov.uk/uksi/2006/2966), [art. 3](https://www.legislation.gov.uk/uksi/2006/2966/article/3)
+[^c-a8faaf61725f45aa0284914e8dc2ea99]: Modification: Ss. 60-67 extended (Northern Ireland) (1.12.2006) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [ss. 26(1)](https://www.legislation.gov.uk/ukpga/2006/33/section/26/1), [31(3)](https://www.legislation.gov.uk/ukpga/2006/33/section/31/3); [S.I. 2006/2966](https://www.legislation.gov.uk/uksi/2006/2966), [art. 3](https://www.legislation.gov.uk/uksi/2006/2966/article/3)

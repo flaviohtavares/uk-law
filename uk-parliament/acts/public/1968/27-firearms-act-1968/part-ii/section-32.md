@@ -22,13 +22,13 @@ summary: ''
 
 (1)[^M_C_ff9c51bb-d400-4f67-baab-708856368d5c][^M_F_68596c47-b5cf-48f3-ad71-d2da0d818a24] Subject to this Act, there shall be payable—
 
-- (a) on the grant of a firearm certificate a fee of £204[^key-c7029c2770c4b13b6d7bcd296d84b9e2];
-- (b) on the renewal of a firearm certificate a fee of £135[^key-b34726f1e324315a5f2c2402bb180175];
-- (c) on any variation of a firearm certificate (otherwise than when it is renewed at the same time) so as to increase the number of firearms to which the certificate relates, a fee of £48[^key-2bc4b91c20b8a658b4ce8dacbf733bb0];
-- (cc) on the replacement of a firearm certificate which has been lost or destroyed a fee of £9[^key-a27ec7d1fb33636fb0c50aebf6ca927d];
-- (d) on the grant of a shot gun certificate a fee of £200[^key-a15722d08da5bd18d50053fb73002d8a];
-- (e) on the renewal of a shot gun certificate a fee of £130[^key-780991957e34e7633f3a286d0a02ee64];
-- (f) on the replacement of a shot gun certificate which has been lost or destroyed a fee of £9[^key-75143002e77b15860c406d095395e2ee].
+- (a) on the grant of a firearm certificate a fee of £204[^c-c7029c2770c4b13b6d7bcd296d84b9e2];
+- (b) on the renewal of a firearm certificate a fee of £135[^c-b34726f1e324315a5f2c2402bb180175];
+- (c) on any variation of a firearm certificate (otherwise than when it is renewed at the same time) so as to increase the number of firearms to which the certificate relates, a fee of £48[^c-2bc4b91c20b8a658b4ce8dacbf733bb0];
+- (cc) on the replacement of a firearm certificate which has been lost or destroyed a fee of £9[^c-a27ec7d1fb33636fb0c50aebf6ca927d];
+- (d) on the grant of a shot gun certificate a fee of £200[^c-a15722d08da5bd18d50053fb73002d8a];
+- (e) on the renewal of a shot gun certificate a fee of £130[^c-780991957e34e7633f3a286d0a02ee64];
+- (f) on the replacement of a shot gun certificate which has been lost or destroyed a fee of £9[^c-75143002e77b15860c406d095395e2ee].
 
 (2)[^c9811191] No fee shall be payable on the grant to a responsible officer of a rifle club, miniature rifle club or muzzle-loading pistol club which is approved under section 15 of the Firearms (Amendment) Act 1988 of a firearm certificate in respect of rifles, miniature rifles or muzzle-loading pistols, or ammunition, to be used solely for target shooting by the members of the club, or on the variation or renewal of a certificate so granted.
 
@@ -62,19 +62,19 @@ if the certificate is granted, renewed or varied subject to the condition that t
 
 [^M_F_68596c47-b5cf-48f3-ad71-d2da0d818a24]: Textual amendment: S. 32(1) amended (E.W.) by virtue of [S.I. 1990/290](https://www.legislation.gov.uk/uksi/1990/290), [art. 4](https://www.legislation.gov.uk/uksi/1990/290/article/4), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1990/290/schedule/1/part/I) (which S.I. was revoked (1.1.1995) by [S.I. 1994/2615](https://www.legislation.gov.uk/uksi/1994/2615), [art. 3](https://www.legislation.gov.uk/uksi/1994/2615/article/3)) and (S.) by virtue of [S.I. 1990/325](https://www.legislation.gov.uk/uksi/1990/325), [art. 4](https://www.legislation.gov.uk/uksi/1990/325/article/4), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1990/325/schedule/1/part/I) (which S.I. was revoked (1.1.1995) by [S.I. 1994/2652](https://www.legislation.gov.uk/uksi/1994/2652), [art. 9](https://www.legislation.gov.uk/uksi/1994/2652/article/9))
 
-[^key-c7029c2770c4b13b6d7bcd296d84b9e2]: Textual amendment: Sum in [s. 32(1)(a)](https://www.legislation.gov.uk/ukpga/1968/27/section/32/1/a) substituted (4.6.2026) by [The Firearms (Variation of Fees) Order 2026 (S.I. 2026/514)](https://www.legislation.gov.uk/uksi/2026/514), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/514/article/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2026/514/article/2/a)
+[^c-c7029c2770c4b13b6d7bcd296d84b9e2]: Textual amendment: Sum in [s. 32(1)(a)](https://www.legislation.gov.uk/ukpga/1968/27/section/32/1/a) substituted (4.6.2026) by [The Firearms (Variation of Fees) Order 2026 (S.I. 2026/514)](https://www.legislation.gov.uk/uksi/2026/514), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/514/article/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2026/514/article/2/a)
 
-[^key-b34726f1e324315a5f2c2402bb180175]: Textual amendment: Sum in [s. 32(1)(b)](https://www.legislation.gov.uk/ukpga/1968/27/section/32/1/b) substituted (4.6.2026) by [The Firearms (Variation of Fees) Order 2026 (S.I. 2026/514)](https://www.legislation.gov.uk/uksi/2026/514), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/514/article/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2026/514/article/2/b)
+[^c-b34726f1e324315a5f2c2402bb180175]: Textual amendment: Sum in [s. 32(1)(b)](https://www.legislation.gov.uk/ukpga/1968/27/section/32/1/b) substituted (4.6.2026) by [The Firearms (Variation of Fees) Order 2026 (S.I. 2026/514)](https://www.legislation.gov.uk/uksi/2026/514), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/514/article/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2026/514/article/2/b)
 
-[^key-2bc4b91c20b8a658b4ce8dacbf733bb0]: Textual amendment: Sum in [s. 32(1)(c)](https://www.legislation.gov.uk/ukpga/1968/27/section/32/1/c) substituted (4.6.2026) by [The Firearms (Variation of Fees) Order 2026 (S.I. 2026/514)](https://www.legislation.gov.uk/uksi/2026/514), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/514/article/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2026/514/article/2/c)
+[^c-2bc4b91c20b8a658b4ce8dacbf733bb0]: Textual amendment: Sum in [s. 32(1)(c)](https://www.legislation.gov.uk/ukpga/1968/27/section/32/1/c) substituted (4.6.2026) by [The Firearms (Variation of Fees) Order 2026 (S.I. 2026/514)](https://www.legislation.gov.uk/uksi/2026/514), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/514/article/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2026/514/article/2/c)
 
-[^key-a27ec7d1fb33636fb0c50aebf6ca927d]: Textual amendment: Sum in s. 32(1)(cc) substituted (5.2.2025) by [The Firearms (Variation of Fees) Order 2025 (S.I. 2025/36)](https://www.legislation.gov.uk/uksi/2025/36), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/36/article/1/1), [2(d)](https://www.legislation.gov.uk/uksi/2025/36/article/2/d)
+[^c-a27ec7d1fb33636fb0c50aebf6ca927d]: Textual amendment: Sum in s. 32(1)(cc) substituted (5.2.2025) by [The Firearms (Variation of Fees) Order 2025 (S.I. 2025/36)](https://www.legislation.gov.uk/uksi/2025/36), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/36/article/1/1), [2(d)](https://www.legislation.gov.uk/uksi/2025/36/article/2/d)
 
-[^key-a15722d08da5bd18d50053fb73002d8a]: Textual amendment: Sum in [s. 32(1)(d)](https://www.legislation.gov.uk/ukpga/1968/27/section/32/1/d) substituted (4.6.2026) by [The Firearms (Variation of Fees) Order 2026 (S.I. 2026/514)](https://www.legislation.gov.uk/uksi/2026/514), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/514/article/1/1), [2(d)](https://www.legislation.gov.uk/uksi/2026/514/article/2/d)
+[^c-a15722d08da5bd18d50053fb73002d8a]: Textual amendment: Sum in [s. 32(1)(d)](https://www.legislation.gov.uk/ukpga/1968/27/section/32/1/d) substituted (4.6.2026) by [The Firearms (Variation of Fees) Order 2026 (S.I. 2026/514)](https://www.legislation.gov.uk/uksi/2026/514), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/514/article/1/1), [2(d)](https://www.legislation.gov.uk/uksi/2026/514/article/2/d)
 
-[^key-780991957e34e7633f3a286d0a02ee64]: Textual amendment: Sum in [s. 32(1)(e)](https://www.legislation.gov.uk/ukpga/1968/27/section/32/1/e) substituted (4.6.2026) by [The Firearms (Variation of Fees) Order 2026 (S.I. 2026/514)](https://www.legislation.gov.uk/uksi/2026/514), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/514/article/1/1), [2(e)](https://www.legislation.gov.uk/uksi/2026/514/article/2/e)
+[^c-780991957e34e7633f3a286d0a02ee64]: Textual amendment: Sum in [s. 32(1)(e)](https://www.legislation.gov.uk/ukpga/1968/27/section/32/1/e) substituted (4.6.2026) by [The Firearms (Variation of Fees) Order 2026 (S.I. 2026/514)](https://www.legislation.gov.uk/uksi/2026/514), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/514/article/1/1), [2(e)](https://www.legislation.gov.uk/uksi/2026/514/article/2/e)
 
-[^key-75143002e77b15860c406d095395e2ee]: Textual amendment: Sum in s. 32(1)(f) substituted (5.2.2025) by [The Firearms (Variation of Fees) Order 2025 (S.I. 2025/36)](https://www.legislation.gov.uk/uksi/2025/36), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/36/article/1/1), [2(g)](https://www.legislation.gov.uk/uksi/2025/36/article/2/g)
+[^c-75143002e77b15860c406d095395e2ee]: Textual amendment: Sum in s. 32(1)(f) substituted (5.2.2025) by [The Firearms (Variation of Fees) Order 2025 (S.I. 2025/36)](https://www.legislation.gov.uk/uksi/2025/36), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/36/article/1/1), [2(g)](https://www.legislation.gov.uk/uksi/2025/36/article/2/g)
 
 [^c9811191]: Textual amendment: S. 32(2)(2A)(2B) substituted (1.10.1997) for s. 32(2) by [1997 c. 5](https://www.legislation.gov.uk/ukpga/1997/5), [s. 52(1)](https://www.legislation.gov.uk/ukpga/1997/5/section/52/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/1997/5/schedule/2/paragraph/5); [S.I. 1997/1535](https://www.legislation.gov.uk/uksi/1997/1535), [art. 3(c)](https://www.legislation.gov.uk/uksi/1997/1535/article/3/c), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1997/1535/schedule/part/II)
 

@@ -22,7 +22,7 @@ summary: ''
 
 **Not yet in force.**
 
-[^key-ebb75a0abb55f05498889b6f1b3d839a]...
+[^c-ebb75a0abb55f05498889b6f1b3d839a]...
 
 After Schedule 4B to the Social Security Contributions and Benefits Act 1992 (c. 4) insert—
 
@@ -65,4 +65,4 @@ After Schedule 4B to the Social Security Contributions and Benefits Act 1992 (c.
 
 ## Annotations
 
-[^key-ebb75a0abb55f05498889b6f1b3d839a]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/2008/30/schedule/3) repealed (1.10.2014) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 96(b)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/96/b); [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/ii)[(3)(c)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/3/c)
+[^c-ebb75a0abb55f05498889b6f1b3d839a]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/2008/30/schedule/3) repealed (1.10.2014) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 96(b)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/96/b); [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/ii)[(3)(c)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/3/c)

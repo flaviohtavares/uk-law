@@ -35,18 +35,18 @@ concerning the authorisation of L-methionine as a feed additive for all animal s
 
 (Text with EEA relevance) (revoked)
 
-[^key-a84ef7350e7815f4b1992ba21304a9cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a84ef7350e7815f4b1992ba21304a9cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-a84ef7350e7815f4b1992ba21304a9cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-a84ef7350e7815f4b1992ba21304a9cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-a84ef7350e7815f4b1992ba21304a9cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-a84ef7350e7815f4b1992ba21304a9cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a84ef7350e7815f4b1992ba21304a9cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a84ef7350e7815f4b1992ba21304a9cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-a84ef7350e7815f4b1992ba21304a9cb]
+## ANNEX[^c-a84ef7350e7815f4b1992ba21304a9cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a84ef7350e7815f4b1992ba21304a9cb]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 149](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/149) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-a84ef7350e7815f4b1992ba21304a9cb]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 149](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/149) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

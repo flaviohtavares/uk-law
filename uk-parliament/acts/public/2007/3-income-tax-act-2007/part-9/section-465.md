@@ -26,7 +26,7 @@ summary: ''
 
 (3) Sections 467 to 473 explain what is meant by references to a settlor in relation to a settlement.
 
-(4) Sections 474 to 476 treat the trustees of a settlement as a single and distinct person and set out rules in relation to the residence [^key-56d789054fb8effaa13ad6b9d9b715ab]... of that person.
+(4) Sections 474 to 476 treat the trustees of a settlement as a single and distinct person and set out rules in relation to the residence [^c-56d789054fb8effaa13ad6b9d9b715ab]... of that person.
 
 (5) Section 477 relates to sub-fund elections under paragraph 1 of Schedule 4ZA to TCGA 1992.
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56d789054fb8effaa13ad6b9d9b715ab]: Textual amendment: Words in s. 465(4) omitted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 55](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/55)
+[^c-56d789054fb8effaa13ad6b9d9b715ab]: Textual amendment: Words in s. 465(4) omitted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 55](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/55)

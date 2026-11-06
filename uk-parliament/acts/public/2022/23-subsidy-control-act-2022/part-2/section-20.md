@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Restructuring[^key-f611ec974a212e34e4c49eb64053805f][^key-b41fb1fdf488f60678901253cf7b1719]
+## 20. Restructuring[^c-f611ec974a212e34e4c49eb64053805f][^c-b41fb1fdf488f60678901253cf7b1719]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f611ec974a212e34e4c49eb64053805f]: Commencement: S. 20 not in force at Royal Assent, see [s. 91](https://www.legislation.gov.uk/ukpga/2022/23/section/91)
+[^c-f611ec974a212e34e4c49eb64053805f]: Commencement: S. 20 not in force at Royal Assent, see [s. 91](https://www.legislation.gov.uk/ukpga/2022/23/section/91)
 
-[^key-b41fb1fdf488f60678901253cf7b1719]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2022/23/section/20) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-b41fb1fdf488f60678901253cf7b1719]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2022/23/section/20) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

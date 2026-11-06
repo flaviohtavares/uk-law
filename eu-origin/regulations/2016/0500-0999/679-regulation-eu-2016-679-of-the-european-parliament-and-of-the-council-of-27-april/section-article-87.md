@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 87. Processing of the national identification number[^key-8dc620dec4119bf06009881c5f52d1a9]
+## Article 87. Processing of the national identification number[^c-8dc620dec4119bf06009881c5f52d1a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8dc620dec4119bf06009881c5f52d1a9]: Textual amendment: [Art. 87](https://www.legislation.gov.uk/eur/2016/679/article/87) omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 1 para. 67](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/67) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/80)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8dc620dec4119bf06009881c5f52d1a9]: Textual amendment: [Art. 87](https://www.legislation.gov.uk/eur/2016/679/article/87) omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 1 para. 67](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/67) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/80)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

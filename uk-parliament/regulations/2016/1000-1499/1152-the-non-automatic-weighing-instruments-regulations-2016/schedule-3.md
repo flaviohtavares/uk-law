@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — REQUIREMENTS RELATING TO NOTIFIED BODIES (Extent: E+W+S) (affected by repeal, see note) APPROVED BODY REQUIREMENTS (Extent: E+W+S)[^key-39b4001ee4da9a56431f78656c2a5c0e]
+## SCHEDULE 3 — REQUIREMENTS RELATING TO NOTIFIED BODIES (Extent: E+W+S) (affected by repeal, see note) APPROVED BODY REQUIREMENTS (Extent: E+W+S)[^c-39b4001ee4da9a56431f78656c2a5c0e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ Regulation 49(4)
 
 *Extent: E+W+S*
 
-**1.**[^M_E_c5dbdfdd-e10d-4214-e254-3d06023c1bf5][^key-08cff39ca64be897810898e2aabf71cd] (1) A conformity assessment body must have legal personality and must be established in—
+**1.**[^M_E_c5dbdfdd-e10d-4214-e254-3d06023c1bf5][^c-08cff39ca64be897810898e2aabf71cd] (1) A conformity assessment body must have legal personality and must be established in—
 
 - (a) the United Kingdom; or
 - (b) the territory of a party to the CPTPP.
@@ -46,7 +46,7 @@ Regulation 49(4)
 **5.**[^M_E_41f029e7-bcd3-4ef5-9750-58647e2f9340] A conformity assessment body, its top level management and the personnel responsible for carrying out the conformity assessment tasks—
 
 - (a) must not be directly involved in the design, manufacture or construction, the marketing, installation, use or maintenance of those regulated non-automatic weighing instruments, or represent the parties engaged in those activities.
-- (b) must not engage in any activity (including consultancy services) that may conflict with their independent of judgement or integrity in relation to the conformity assessment activities for which they are approved[^key-031e408cfbf51edcf3922193e7544e30].
+- (b) must not engage in any activity (including consultancy services) that may conflict with their independent of judgement or integrity in relation to the conformity assessment activities for which they are approved[^c-031e408cfbf51edcf3922193e7544e30].
 
 *Extent: N.I.*
 
@@ -119,11 +119,11 @@ Regulation 49(4)
 
 ## Annotations
 
-[^key-39b4001ee4da9a56431f78656c2a5c0e]: Textual amendment: Sch. 3 heading substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 26 para. 43(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/43/a) (with [Sch. 26 para. 5](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/5)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-39b4001ee4da9a56431f78656c2a5c0e]: Textual amendment: Sch. 3 heading substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 26 para. 43(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/43/a) (with [Sch. 26 para. 5](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/5)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_c5dbdfdd-e10d-4214-e254-3d06023c1bf5]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-08cff39ca64be897810898e2aabf71cd]: Textual amendment: Sch. 3 para. 1 substituted (E.W.S.) (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Treatment of Conformity Assessment Bodies (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Regulations 2024 (S.I. 2024/504)](https://www.legislation.gov.uk/uksi/2024/504), [reg. 12](https://www.legislation.gov.uk/uksi/2024/504/regulation/12)
+[^c-08cff39ca64be897810898e2aabf71cd]: Textual amendment: Sch. 3 para. 1 substituted (E.W.S.) (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Treatment of Conformity Assessment Bodies (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Regulations 2024 (S.I. 2024/504)](https://www.legislation.gov.uk/uksi/2024/504), [reg. 12](https://www.legislation.gov.uk/uksi/2024/504/regulation/12)
 
 [^M_E_a9392dc1-4415-44e3-bb03-c213ac5718dc]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
@@ -131,7 +131,7 @@ Regulation 49(4)
 
 [^M_E_41f029e7-bcd3-4ef5-9750-58647e2f9340]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-031e408cfbf51edcf3922193e7544e30]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/uksi/2016/1152/schedule/3) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 26 para. 43(e)](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/43/e) (with [Sch. 26 para. 5](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/5)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-031e408cfbf51edcf3922193e7544e30]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/uksi/2016/1152/schedule/3) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 26 para. 43(e)](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/43/e) (with [Sch. 26 para. 5](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/5)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_a4075d41-2a56-46b7-a7af-3056c248a195]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 118. Costs paid otherwise than out of the assets of the protected energy company[^key-75ad7e360ff3d42fdaa40f9248199a42]
+## 118. Costs paid otherwise than out of the assets of the protected energy company[^c-75ad7e360ff3d42fdaa40f9248199a42]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where the amount of costs is decided by detailed assessment under an order of th
 
 ## Annotations
 
-[^key-75ad7e360ff3d42fdaa40f9248199a42]: Commencement: Rule 118 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-75ad7e360ff3d42fdaa40f9248199a42]: Commencement: Rule 118 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

@@ -22,7 +22,7 @@ summary: ''
 
 Section 32
 
-### 1. Orders for securing compliance with certain provisions[^key-ed1053c281aa6cb848df28f84e2a0ebe]
+### 1. Orders for securing compliance with certain provisions[^c-ed1053c281aa6cb848df28f84e2a0ebe]
 
 (1) Where the economic regulator is satisfied that a licence holder is contravening, or is likely to contravene, any relevant condition or requirement, the economic regulator must make an order (a “final order”) containing such provision as appears to the economic regulator to be necessary for the purpose of securing compliance with that condition or requirement (but this sub-paragraph does not apply if the economic regulator is required by sub-paragraph (2) to make a provisional order in respect of the contravention or likely contravention).
 
@@ -74,7 +74,7 @@ the economic regulator must (instead of taking steps towards the making of a fin
 - “**relevant condition**”, in relation to a licence holder, means any condition of any licence (as defined in section 7) held by that person;
 - “**relevant requirement**”, in relation to a licence holder, means any requirement imposed on the licence holder by or under this Part.
 
-### 2. Procedural requirements[^key-4cc8d367e1a9a2a7d5b4288dbeb1d82a]
+### 2. Procedural requirements[^c-4cc8d367e1a9a2a7d5b4288dbeb1d82a]
 
 (1) Before making a final order or confirming a provisional order, the economic regulator must give notice—
 
@@ -122,7 +122,7 @@ and must consider any representations or objections which are duly made and not 
 - (a) serve a copy of the order on the licence holder, and
 - (b) publish such a copy in such manner as the economic regulator considers appropriate for the purpose of bringing the order to the attention of persons likely to be affected by it.
 
-### 3. Validity and effect of orders[^key-e95e6fbdc00aed739b238e58b491d645]
+### 3. Validity and effect of orders[^c-e95e6fbdc00aed739b238e58b491d645]
 
 (1) If the licence holder is aggrieved by a final or provisional order and wishes to question its validity on the ground that the making or confirmation of it was not within the powers of paragraph 1, or that any of the requirements of paragraph 2 have not been complied with in relation to it, the licence holder may within 42 days from the date of service on the licence holder of a copy of the order make an application to the court under this paragraph.
 
@@ -143,7 +143,7 @@ and must consider any representations or objections which are duly made and not 
 - (a) in relation to England and Wales and Northern Ireland, the High Court;
 - (b) in relation to Scotland, the Court of Session.
 
-### 4. Penalties[^key-4ec7586bf0366466bb6fd087b5fa071d]
+### 4. Penalties[^c-4ec7586bf0366466bb6fd087b5fa071d]
 
 (1) Where the economic regulator is satisfied that a licence holder has contravened or is contravening any relevant condition or requirement, the economic regulator may, subject to paragraph 6, impose on the licence holder a penalty of such amount as is reasonable in all the circumstances of the case.
 
@@ -185,7 +185,7 @@ and must consider any representations or objections which are duly made and not 
 
 (10) Any sums received by the economic regulator by way of penalty under this paragraph must be paid into the Consolidated Fund.
 
-### 5. Statement of policy with respect to penalties[^key-b01575e4ec7c6b98978b8beccfa062b3]
+### 5. Statement of policy with respect to penalties[^c-b01575e4ec7c6b98978b8beccfa062b3]
 
 (1) The economic regulator must prepare and publish a statement of policy with respect to the imposition of penalties and the determination of their amount.
 
@@ -197,7 +197,7 @@ and must consider any representations or objections which are duly made and not 
 
 (5) The economic regulator must undertake such consultation as it considers appropriate when preparing or revising its statement of policy.
 
-### 6. Time limits on the imposition of penalties[^key-2235cdf2536f56dffb2a1cb3b65e39f8]
+### 6. Time limits on the imposition of penalties[^c-2235cdf2536f56dffb2a1cb3b65e39f8]
 
 (1) Where no final or provisional order has been made in relation to a contravention, the economic regulator may not impose a penalty in respect of the contravention later than the end of the period of five years from the time of the contravention, unless before the end of that period—
 
@@ -209,7 +209,7 @@ and must consider any representations or objections which are duly made and not 
 - (a) within three months from the confirmation of the provisional order or the making of the final order, or
 - (b) where the provisional order is not confirmed, within six months from the making of the provisional order.
 
-### 7. Interest and payment of instalments[^key-498ddf8e66c7e02bb4e896c2045038dc]
+### 7. Interest and payment of instalments[^c-498ddf8e66c7e02bb4e896c2045038dc]
 
 (1) If the whole or any part of a penalty is not paid by the date by which it is required to be paid, the unpaid balance from time to time is to carry interest at the rate for the time being specified in section 17 of the Judgments Act 1838.
 
@@ -217,7 +217,7 @@ and must consider any representations or objections which are duly made and not 
 
 (3) If the economic regulator grants an application under that sub-paragraph in relation to a penalty but any portion of the penalty is not paid by the date specified in relation to it by the economic regulator under that sub-paragraph, the economic regulator may where it considers it appropriate require so much of the penalty as has not already been paid to be paid immediately.
 
-### 8. Appeals against penalties[^key-2032fc06ee44e1f8891b3f69b331b513]
+### 8. Appeals against penalties[^c-2032fc06ee44e1f8891b3f69b331b513]
 
 (1) If the licence holder on whom a penalty is imposed is aggrieved by—
 
@@ -257,7 +257,7 @@ the licence holder may make an application to the court under this paragraph.
 - (a) in relation to England and Wales or Northern Ireland, the High Court, and
 - (b) in relation to Scotland, the Court of Session.
 
-### 9. Recovery of penalties[^key-9e1ee21055b07a8c6110e209c79fe22a]
+### 9. Recovery of penalties[^c-9e1ee21055b07a8c6110e209c79fe22a]
 
 Where a penalty imposed under paragraph 4(1), or any portion of it, has not been paid by the date on which it is required to be paid and—
 
@@ -266,7 +266,7 @@ Where a penalty imposed under paragraph 4(1), or any portion of it, has not been
 
 the economic regulator may recover from the licence holder, as a civil debt due to it, any of the penalty and any interest which has not been paid.
 
-### 10. Maximum amount of penalty[^key-5e77f4c2d24be3fe120514bd4e94feba]
+### 10. Maximum amount of penalty[^c-5e77f4c2d24be3fe120514bd4e94feba]
 
 (1) The maximum amount of penalty that may be imposed on a licence holder in respect of a contravention may not exceed 10 per cent of the licence holder’s turnover.
 
@@ -278,22 +278,22 @@ the economic regulator may recover from the licence holder, as a civil debt due 
 
 ## Annotations
 
-[^key-ed1053c281aa6cb848df28f84e2a0ebe]: Commencement: Sch. 3 para. 1 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-ed1053c281aa6cb848df28f84e2a0ebe]: Commencement: Sch. 3 para. 1 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-4cc8d367e1a9a2a7d5b4288dbeb1d82a]: Commencement: Sch. 3 para. 2 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-4cc8d367e1a9a2a7d5b4288dbeb1d82a]: Commencement: Sch. 3 para. 2 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-e95e6fbdc00aed739b238e58b491d645]: Commencement: Sch. 3 para. 3 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-e95e6fbdc00aed739b238e58b491d645]: Commencement: Sch. 3 para. 3 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-4ec7586bf0366466bb6fd087b5fa071d]: Commencement: Sch. 3 para. 4 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-4ec7586bf0366466bb6fd087b5fa071d]: Commencement: Sch. 3 para. 4 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-b01575e4ec7c6b98978b8beccfa062b3]: Commencement: Sch. 3 para. 5 in force at 26.12.2023 see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-b01575e4ec7c6b98978b8beccfa062b3]: Commencement: Sch. 3 para. 5 in force at 26.12.2023 see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-2235cdf2536f56dffb2a1cb3b65e39f8]: Commencement: Sch. 3 para. 6 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-2235cdf2536f56dffb2a1cb3b65e39f8]: Commencement: Sch. 3 para. 6 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-498ddf8e66c7e02bb4e896c2045038dc]: Commencement: Sch. 3 para. 7 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-498ddf8e66c7e02bb4e896c2045038dc]: Commencement: Sch. 3 para. 7 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-2032fc06ee44e1f8891b3f69b331b513]: Commencement: Sch. 3 para. 8 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-2032fc06ee44e1f8891b3f69b331b513]: Commencement: Sch. 3 para. 8 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-9e1ee21055b07a8c6110e209c79fe22a]: Commencement: Sch. 3 para. 9 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-9e1ee21055b07a8c6110e209c79fe22a]: Commencement: Sch. 3 para. 9 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-5e77f4c2d24be3fe120514bd4e94feba]: Commencement: Sch. 3 para. 10 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-5e77f4c2d24be3fe120514bd4e94feba]: Commencement: Sch. 3 para. 10 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

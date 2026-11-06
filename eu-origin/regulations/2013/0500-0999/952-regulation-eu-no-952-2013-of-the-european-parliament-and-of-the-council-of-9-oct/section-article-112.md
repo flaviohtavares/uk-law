@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 112. Other payment facilities[^key-1f85c15ae6cc15d2fe64cc183d4a202b]
+## Article 112. Other payment facilities[^c-1f85c15ae6cc15d2fe64cc183d4a202b]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ For a Member State whose currency is not the euro, the rate of credit interest s
 
 ## Annotations
 
-[^key-1f85c15ae6cc15d2fe64cc183d4a202b]: Modification: Art. 112 excluded (1.8.2021) by [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), [regs. 133AD(b)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AD/b), [133L](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133L) (as inserted by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43), [47](https://www.legislation.gov.uk/uksi/2021/715/regulation/47))
+[^c-1f85c15ae6cc15d2fe64cc183d4a202b]: Modification: Art. 112 excluded (1.8.2021) by [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), [regs. 133AD(b)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AD/b), [133L](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133L) (as inserted by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43), [47](https://www.legislation.gov.uk/uksi/2021/715/regulation/47))

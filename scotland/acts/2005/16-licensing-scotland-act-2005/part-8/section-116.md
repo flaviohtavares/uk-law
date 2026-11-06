@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 116. Refusal to leave premises[^key-fc02863d553fc1e12a53d0424bf8cc84]
+## 116. Refusal to leave premises[^c-fc02863d553fc1e12a53d0424bf8cc84]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ provide the assistance asked for.
 
 ## Annotations
 
-[^key-fc02863d553fc1e12a53d0424bf8cc84]: Commencement: [S. 116](https://www.legislation.gov.uk/asp/2005/16/section/116) in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-fc02863d553fc1e12a53d0424bf8cc84]: Commencement: [S. 116](https://www.legislation.gov.uk/asp/2005/16/section/116) in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)

@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Inspection of documents etc[^key-317066cf09c48a06e5074f285364aa0a][^key-2ba67b4076cc15f49613ce30f062a205]
+## 26. Inspection of documents etc[^c-317066cf09c48a06e5074f285364aa0a][^c-2ba67b4076cc15f49613ce30f062a205]
 
 *Extent: E+W*
 
-(1) At each audit of accounts under this Act, other than an audit of accounts of a health service body, any persons interested or any journalist[^key-3b6d01bae2bd8793ea0f603b9f8c9764] may—
+(1) At each audit of accounts under this Act, other than an audit of accounts of a health service body, any persons interested or any journalist[^c-3b6d01bae2bd8793ea0f603b9f8c9764] may—
 
 - (a) inspect the accounting records for the financial year to which the audit relates and all books, deeds, contracts, bills, vouchers, receipts and other documents relating to those records, and
 - (b) make copies of all or any part of those records or documents.
 
-(1A)[^key-b8d324eb17788224945ef2c698abed77] In subsection (1) “journalist” means any person who produces for publication journalistic material (whether paid to do so or otherwise).
+(1A)[^c-b8d324eb17788224945ef2c698abed77] In subsection (1) “journalist” means any person who produces for publication journalistic material (whether paid to do so or otherwise).
 
 (2) At the request of a local government elector for any area to which the accounts relate, the local auditor must give the elector, or any representative of the elector, an opportunity to question the auditor about the accounting records.
 
@@ -62,10 +62,10 @@ summary: ''
 
 ## Annotations
 
-[^key-317066cf09c48a06e5074f285364aa0a]: Commencement: S. 26 in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(q)](https://www.legislation.gov.uk/uksi/2015/841/article/3/q) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-317066cf09c48a06e5074f285364aa0a]: Commencement: S. 26 in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(q)](https://www.legislation.gov.uk/uksi/2015/841/article/3/q) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
 
-[^key-2ba67b4076cc15f49613ce30f062a205]: Modification: Ss. 26-31 excluded by 1999 c. 29, s. 134(5) (as amended) (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 43(3)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/43/3); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+[^c-2ba67b4076cc15f49613ce30f062a205]: Modification: Ss. 26-31 excluded by 1999 c. 29, s. 134(5) (as amended) (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 43(3)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/43/3); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
 
-[^key-3b6d01bae2bd8793ea0f603b9f8c9764]: Textual amendment: Words in [s. 26(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/26/1) inserted (27.6.2017) by [Local Audit (Public Access to Documents) Act 2017 (c. 25)](https://www.legislation.gov.uk/ukpga/2017/25), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2017/25/section/1/2), [2(1)](https://www.legislation.gov.uk/ukpga/2017/25/section/2/1)
+[^c-3b6d01bae2bd8793ea0f603b9f8c9764]: Textual amendment: Words in [s. 26(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/26/1) inserted (27.6.2017) by [Local Audit (Public Access to Documents) Act 2017 (c. 25)](https://www.legislation.gov.uk/ukpga/2017/25), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2017/25/section/1/2), [2(1)](https://www.legislation.gov.uk/ukpga/2017/25/section/2/1)
 
-[^key-b8d324eb17788224945ef2c698abed77]: Textual amendment: [S. 26(1A)](https://www.legislation.gov.uk/ukpga/2014/2/section/26/1A) inserted (27.6.2017) by [Local Audit (Public Access to Documents) Act 2017 (c. 25)](https://www.legislation.gov.uk/ukpga/2017/25), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2017/25/section/1/3), [2(1)](https://www.legislation.gov.uk/ukpga/2017/25/section/2/1)
+[^c-b8d324eb17788224945ef2c698abed77]: Textual amendment: [S. 26(1A)](https://www.legislation.gov.uk/ukpga/2014/2/section/26/1A) inserted (27.6.2017) by [Local Audit (Public Access to Documents) Act 2017 (c. 25)](https://www.legislation.gov.uk/ukpga/2017/25), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2017/25/section/1/3), [2(1)](https://www.legislation.gov.uk/ukpga/2017/25/section/2/1)

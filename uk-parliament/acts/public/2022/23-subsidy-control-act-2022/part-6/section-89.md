@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Interpretation[^key-9ec98404484ce31fadaaf54af4a833d4]
+## 89. Interpretation[^c-9ec98404484ce31fadaaf54af4a833d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 - “**special drawing rights**” means special drawing rights as defined by the International Monetary Fund;
 - “SPEI enterprise” and “SPEI services” have the meanings given in section 29(9);
 - “**streamlined subsidy scheme**” has the meaning given by section 10(4);
-- “**subordinate legislation**” means an instrument made under primary legislation or under assimilated direct[^key-0a5f7a7ceeb66d98b89881f6e9058df2] legislation;
+- “**subordinate legislation**” means an instrument made under primary legislation or under assimilated direct[^c-0a5f7a7ceeb66d98b89881f6e9058df2] legislation;
 - “**subsidy**” has the meaning given by section 2(1);
 - “**subsidy control principles**” means the principles set out in Schedule 1;
 - “**subsidy control requirements**” has the meaning given by section 1(2);
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9ec98404484ce31fadaaf54af4a833d4]: Commencement: S. 89 in force at Royal Assent, see [s. 91(1)(c)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/c)
+[^c-9ec98404484ce31fadaaf54af4a833d4]: Commencement: S. 89 in force at Royal Assent, see [s. 91(1)(c)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/c)
 
-[^key-0a5f7a7ceeb66d98b89881f6e9058df2]: Textual amendment: Words in [s. 89(1)](https://www.legislation.gov.uk/ukpga/2022/23/section/89/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 104(2)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/104/2/b)
+[^c-0a5f7a7ceeb66d98b89881f6e9058df2]: Textual amendment: Words in [s. 89(1)](https://www.legislation.gov.uk/ukpga/2022/23/section/89/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 104(2)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/104/2/b)

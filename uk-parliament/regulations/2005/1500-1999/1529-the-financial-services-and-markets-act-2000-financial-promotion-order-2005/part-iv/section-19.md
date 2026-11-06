@@ -49,8 +49,8 @@ summary: ''
 
 *Extent: E+W+S*
 
-(7)[^key-67e62950f5df83dbe4a97bb6bd605e9f] Paragraph (1) does not apply to any communication in respect of a controlled claims management activity.
+(7)[^c-67e62950f5df83dbe4a97bb6bd605e9f] Paragraph (1) does not apply to any communication in respect of a controlled claims management activity.
 
 ## Annotations
 
-[^key-67e62950f5df83dbe4a97bb6bd605e9f]: Textual amendment: Art. 19(7) inserted (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [19](https://www.legislation.gov.uk/uksi/2018/1253/article/19)
+[^c-67e62950f5df83dbe4a97bb6bd605e9f]: Textual amendment: Art. 19(7) inserted (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [19](https://www.legislation.gov.uk/uksi/2018/1253/article/19)

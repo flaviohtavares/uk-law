@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. No modification of the Human Rights Act 1998[^key-db06ff59828bb47575da6d3c53e1b329][^key-db06ff59828bb47575da6d3c53e1b329]
+## 43. No modification of the Human Rights Act 1998[^c-db06ff59828bb47575da6d3c53e1b329][^c-db06ff59828bb47575da6d3c53e1b329]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Nothing in this Act modifies the Human Rights Act 1998.
 
 ## Annotations
 
-[^key-db06ff59828bb47575da6d3c53e1b329]: Commencement: S. 43 in force at 17.1.2024, see [s. 47(1)](https://www.legislation.gov.uk/asp/2024/1/section/47/1)
+[^c-db06ff59828bb47575da6d3c53e1b329]: Commencement: S. 43 in force at 17.1.2024, see [s. 47(1)](https://www.legislation.gov.uk/asp/2024/1/section/47/1)

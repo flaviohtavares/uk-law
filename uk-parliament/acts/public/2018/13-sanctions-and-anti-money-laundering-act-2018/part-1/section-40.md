@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Rules of court[^key-709a44d29a8e9d5ce89bc7270ccbbedb]
+## 40. Rules of court[^c-709a44d29a8e9d5ce89bc7270ccbbedb]
 
 *Extent: E+W+S+N.I.*
 
@@ -82,4 +82,4 @@ those rules (together with any related rules of court) may be made by the Lord C
 
 ## Annotations
 
-[^key-709a44d29a8e9d5ce89bc7270ccbbedb]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2018/13/section/40) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/b)
+[^c-709a44d29a8e9d5ce89bc7270ccbbedb]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2018/13/section/40) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/b)

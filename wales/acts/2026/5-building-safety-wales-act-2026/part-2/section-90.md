@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 90. Entry to non-residential premises by duty holder[^key-9d519aafe287c1db287c326cc1903295]
+## 90. Entry to non-residential premises by duty holder[^c-9d519aafe287c1db287c326cc1903295]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d519aafe287c1db287c326cc1903295]: Commencement: S. 90 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-9d519aafe287c1db287c326cc1903295]: Commencement: S. 90 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

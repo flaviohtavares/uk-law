@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Review and evaluation[^key-cab43e182769f1a90c568a888a45306e]
+## 32. Review and evaluation[^c-cab43e182769f1a90c568a888a45306e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) In paragraph 3 and 5, for “competent authorities” substitute “ competent authority ”.
 
-(3A)[^key-d5f6b3de791d6b2bd12cbf29cf621d13] In paragraph 3—
+(3A)[^c-d5f6b3de791d6b2bd12cbf29cf621d13] In paragraph 3—
 
 - (a) in the second subparagraph omit the words from “Upon ESMA’s request,” to the end;
 - (b) omit the third subparagraph.
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cab43e182769f1a90c568a888a45306e]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-cab43e182769f1a90c568a888a45306e]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-d5f6b3de791d6b2bd12cbf29cf621d13]: Textual amendment: Reg. 32(3A) inserted (25.6.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/2/c), [6(5)](https://www.legislation.gov.uk/uksi/2020/646/regulation/6/5)
+[^c-d5f6b3de791d6b2bd12cbf29cf621d13]: Textual amendment: Reg. 32(3A) inserted (25.6.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/2/c), [6(5)](https://www.legislation.gov.uk/uksi/2020/646/regulation/6/5)

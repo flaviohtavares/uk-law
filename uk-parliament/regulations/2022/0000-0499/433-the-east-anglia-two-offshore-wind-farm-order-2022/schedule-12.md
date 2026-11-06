@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 12 — Trees subject to tree preservation orders[^key-2d3ea8a5699b7eb21ff4b2c81e6b8111]
+## SCHEDULE 12 — Trees subject to tree preservation orders[^c-2d3ea8a5699b7eb21ff4b2c81e6b8111]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ Article 35
 
 ## Annotations
 
-[^key-2d3ea8a5699b7eb21ff4b2c81e6b8111]: Commencement: Sch. 12 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)
+[^c-2d3ea8a5699b7eb21ff4b2c81e6b8111]: Commencement: Sch. 12 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)

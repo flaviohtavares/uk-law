@@ -32,7 +32,7 @@ summary: ''
 
 Sea Fisheries
 
-The Sea Fish Licensing Order (Northern Ireland) 2019 (revoked)[^key-72c943ff8dddb1d25a0ee800b5203b2e]
+The Sea Fish Licensing Order (Northern Ireland) 2019 (revoked)[^c-72c943ff8dddb1d25a0ee800b5203b2e]
 
 Made
 
@@ -40,32 +40,32 @@ Made
 
 Coming into operation in accordance with regulation 1
 
-[^key-72c943ff8dddb1d25a0ee800b5203b2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72c943ff8dddb1d25a0ee800b5203b2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-72c943ff8dddb1d25a0ee800b5203b2e]
+## 1. Citation and commencement[^c-72c943ff8dddb1d25a0ee800b5203b2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-72c943ff8dddb1d25a0ee800b5203b2e]
+## 2. Interpretation[^c-72c943ff8dddb1d25a0ee800b5203b2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition on fishing in the Northern Ireland zone by non-British-owned Crown Dependency fishing boats[^key-72c943ff8dddb1d25a0ee800b5203b2e]
+## 3. Prohibition on fishing in the Northern Ireland zone by non-British-owned Crown Dependency fishing boats[^c-72c943ff8dddb1d25a0ee800b5203b2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prohibition on fishing in the Northern Ireland zone by foreign fishing boats[^key-72c943ff8dddb1d25a0ee800b5203b2e]
+## 4. Prohibition on fishing in the Northern Ireland zone by foreign fishing boats[^c-72c943ff8dddb1d25a0ee800b5203b2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-72c943ff8dddb1d25a0ee800b5203b2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72c943ff8dddb1d25a0ee800b5203b2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-72c943ff8dddb1d25a0ee800b5203b2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72c943ff8dddb1d25a0ee800b5203b2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-72c943ff8dddb1d25a0ee800b5203b2e]: Textual amendment: Order revoked (17.3.2020) by [The Sea Fish Licensing (Revocation) Order (Northern Ireland) 2020 (S.R. 2020/20)](https://www.legislation.gov.uk/nisr/2020/20), [regs. 1](https://www.legislation.gov.uk/nisr/2020/20/regulation/1), [3](https://www.legislation.gov.uk/nisr/2020/20/regulation/3)
+[^c-72c943ff8dddb1d25a0ee800b5203b2e]: Textual amendment: Order revoked (17.3.2020) by [The Sea Fish Licensing (Revocation) Order (Northern Ireland) 2020 (S.R. 2020/20)](https://www.legislation.gov.uk/nisr/2020/20), [regs. 1](https://www.legislation.gov.uk/nisr/2020/20/regulation/1), [3](https://www.legislation.gov.uk/nisr/2020/20/regulation/3)

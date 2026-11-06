@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1199A. Exceptions based on national security etc[^M_C_947357d0-6a3d-41a5-f84c-26873f4f82f5][^key-36f2c905741b1ecb158a1a9476fc0bb7]
+## 1199A. Exceptions based on national security etc[^M_C_947357d0-6a3d-41a5-f84c-26873f4f82f5][^c-36f2c905741b1ecb158a1a9476fc0bb7]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^M_C_947357d0-6a3d-41a5-f84c-26873f4f82f5]: Modification: S. 1199A applied (with modifications) (4.3.2024) by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 79A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/79A) (as inserted by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [46](https://www.legislation.gov.uk/uksi/2024/234/regulation/46); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a))
 
-[^key-36f2c905741b1ecb158a1a9476fc0bb7]: Textual amendment: [S. 1199A](https://www.legislation.gov.uk/ukpga/2006/46/section/1199A) inserted (26.10.2023 for specified purposes, 15.1.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 27](https://www.legislation.gov.uk/ukpga/2023/56/section/27), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/b)
+[^c-36f2c905741b1ecb158a1a9476fc0bb7]: Textual amendment: [S. 1199A](https://www.legislation.gov.uk/ukpga/2006/46/section/1199A) inserted (26.10.2023 for specified purposes, 15.1.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 27](https://www.legislation.gov.uk/ukpga/2023/56/section/27), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/b)

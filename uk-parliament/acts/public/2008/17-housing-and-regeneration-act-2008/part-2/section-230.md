@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 230. Warning[^key-1b0e55544dd0ea5f700463d7dcde7b50]
+## 230. Warning[^c-1b0e55544dd0ea5f700463d7dcde7b50]
 
 *Extent: E+W*
 
@@ -29,9 +29,9 @@ summary: ''
 
 (2) If the regulator gives a pre-penalty warning it must send a copy to—
 
-- (a)[^key-dd003602a298611150995ba9579b2986] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (za)[^key-2e96cfcc37f7c5fffa06d57db7a47aec] the HCA,
-- (aa)[^key-c6fb401b91178e8146c25bca217e7644] the Greater London Authority (if the pre-penalty warning is given to a registered provider who owns land in Greater London), and
+- (a)[^c-dd003602a298611150995ba9579b2986] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (za)[^c-2e96cfcc37f7c5fffa06d57db7a47aec] the HCA,
+- (aa)[^c-c6fb401b91178e8146c25bca217e7644] the Greater London Authority (if the pre-penalty warning is given to a registered provider who owns land in Greater London), and
 - (b) any other persons it thinks appropriate.
 
 (3) For the purposes of subsection (2)(b) the regulator shall consider, in particular, any person who provided information as a result of which the pre-penalty warning is given.
@@ -45,10 +45,10 @@ summary: ''
 
 ## Annotations
 
-[^key-1b0e55544dd0ea5f700463d7dcde7b50]: Commencement: S. 230 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-1b0e55544dd0ea5f700463d7dcde7b50]: Commencement: S. 230 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-dd003602a298611150995ba9579b2986]: Textual amendment: S. 230(2)(a) repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 16 para. 47](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/47), [Sch. 25 Pt. 26](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/26); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)(j)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i/j) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-dd003602a298611150995ba9579b2986]: Textual amendment: S. 230(2)(a) repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 16 para. 47](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/47), [Sch. 25 Pt. 26](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/26); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)(j)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i/j) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-2e96cfcc37f7c5fffa06d57db7a47aec]: Textual amendment: [S. 230(2)(za)](https://www.legislation.gov.uk/ukpga/2008/17/section/230/2/za) inserted (1.10.2018) by [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 30](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/30) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))
+[^c-2e96cfcc37f7c5fffa06d57db7a47aec]: Textual amendment: [S. 230(2)(za)](https://www.legislation.gov.uk/ukpga/2008/17/section/230/2/za) inserted (1.10.2018) by [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 30](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/30) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))
 
-[^key-c6fb401b91178e8146c25bca217e7644]: Textual amendment: S. 230(2)(aa) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 19 para. 59](https://www.legislation.gov.uk/ukpga/2011/20/schedule/19/paragraph/59); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-c6fb401b91178e8146c25bca217e7644]: Textual amendment: S. 230(2)(aa) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 19 para. 59](https://www.legislation.gov.uk/ukpga/2011/20/schedule/19/paragraph/59); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))

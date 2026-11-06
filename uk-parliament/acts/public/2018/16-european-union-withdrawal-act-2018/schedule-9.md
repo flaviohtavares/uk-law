@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 9 — Additional repeals[^c23327601][^key-4f86d7f0b8e79890c438b395100bde0f][^key-e89a7203e66c07555c438a5ffaa01760][^key-a9282a0ceb1cd2b0da11e982deae57fe]
+## SCHEDULE 9 — Additional repeals[^c23327601][^c-4f86d7f0b8e79890c438b395100bde0f][^c-e89a7203e66c07555c438a5ffaa01760][^c-a9282a0ceb1cd2b0da11e982deae57fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,8 +43,8 @@ Section 23(8)
 
 [^c23327601]: Commencement: Sch. 9 in force at 4.7.2018 for specified purposes and for further specified purposes on exit day by [S.I. 2018/808](https://www.legislation.gov.uk/uksi/2018/808), [regs. 3(i)](https://www.legislation.gov.uk/uksi/2018/808/regulation/3/i), [4(b)](https://www.legislation.gov.uk/uksi/2018/808/regulation/4/b) (with [regs. 6-8](https://www.legislation.gov.uk/uksi/2018/808/regulation/6))
 
-[^key-4f86d7f0b8e79890c438b395100bde0f]: Commencement: Sch. 9 in force at 31.12.2020 for specified purposes by [S.I. 2018/808](https://www.legislation.gov.uk/uksi/2018/808), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2018/808/regulation/4/b) (as amended by [S.I. 2020/74](https://www.legislation.gov.uk/uksi/2020/74), [reg. 3(2)(3)](https://www.legislation.gov.uk/uksi/2020/74/regulation/3/2/3))
+[^c-4f86d7f0b8e79890c438b395100bde0f]: Commencement: Sch. 9 in force at 31.12.2020 for specified purposes by [S.I. 2018/808](https://www.legislation.gov.uk/uksi/2018/808), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2018/808/regulation/4/b) (as amended by [S.I. 2020/74](https://www.legislation.gov.uk/uksi/2020/74), [reg. 3(2)(3)](https://www.legislation.gov.uk/uksi/2020/74/regulation/3/2/3))
 
-[^key-e89a7203e66c07555c438a5ffaa01760]: Commencement: Sch. 9 in force at 31.12.2020 for specified purposes by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/2/b) (with [reg. 22](https://www.legislation.gov.uk/uksi/2020/1622/regulation/22))
+[^c-e89a7203e66c07555c438a5ffaa01760]: Commencement: Sch. 9 in force at 31.12.2020 for specified purposes by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/2/b) (with [reg. 22](https://www.legislation.gov.uk/uksi/2020/1622/regulation/22))
 
-[^key-a9282a0ceb1cd2b0da11e982deae57fe]: Commencement: Sch. 9 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/o) (with [regs. 8](https://www.legislation.gov.uk/uksi/2020/1622/regulation/8), [9](https://www.legislation.gov.uk/uksi/2020/1622/regulation/9), [22](https://www.legislation.gov.uk/uksi/2020/1622/regulation/22))
+[^c-a9282a0ceb1cd2b0da11e982deae57fe]: Commencement: Sch. 9 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/o) (with [regs. 8](https://www.legislation.gov.uk/uksi/2020/1622/regulation/8), [9](https://www.legislation.gov.uk/uksi/2020/1622/regulation/9), [22](https://www.legislation.gov.uk/uksi/2020/1622/regulation/22))

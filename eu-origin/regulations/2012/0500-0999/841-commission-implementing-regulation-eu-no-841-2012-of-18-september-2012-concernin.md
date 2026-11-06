@@ -35,32 +35,32 @@ concerning the authorisation of *Lactobacillus plantarum* (NCIMB 41028) and *Lac
 
 (Text with EEA relevance) (revoked)
 
-[^key-b48496c19b9334cec3e548bbc94aa169]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b48496c19b9334cec3e548bbc94aa169]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-b48496c19b9334cec3e548bbc94aa169] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-b48496c19b9334cec3e548bbc94aa169] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-b48496c19b9334cec3e548bbc94aa169] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-b48496c19b9334cec3e548bbc94aa169] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Labelling requirements[^key-b48496c19b9334cec3e548bbc94aa169]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 4. Transitional measures[^key-b48496c19b9334cec3e548bbc94aa169]
+## Article 3. Labelling requirements[^c-b48496c19b9334cec3e548bbc94aa169]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-b48496c19b9334cec3e548bbc94aa169] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-b48496c19b9334cec3e548bbc94aa169]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I[^key-b48496c19b9334cec3e548bbc94aa169]
+## Article 4. Transitional measures[^c-b48496c19b9334cec3e548bbc94aa169]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-b48496c19b9334cec3e548bbc94aa169]
+**Article 5.**[^c-b48496c19b9334cec3e548bbc94aa169] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-b48496c19b9334cec3e548bbc94aa169]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I[^c-b48496c19b9334cec3e548bbc94aa169]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX II[^c-b48496c19b9334cec3e548bbc94aa169]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b48496c19b9334cec3e548bbc94aa169]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 85](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/85) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-b48496c19b9334cec3e548bbc94aa169]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 85](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/85) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

@@ -41,11 +41,11 @@ Coming into operation
 
 The Department for Employment and Learning[^f00001] makes the following Regulations in exercise of the powers conferred on it by section 2(2) of the European Communities Act 1972[^f00002] (being a Department designated for the purposes of that section in relation to rights and obligations relating to employers and employees on the transfer or merger of undertakings, businesses or parts of businesses[^f00003]) and Articles 37(2) and 39(3) of the Employment Relations (Northern Ireland) Order 1999[^f00004], and now vested in it[^f00005]:
 
-## 1. Citation and commencement[^key-056166dc3b66cf6439b306d4f2310956]
+## 1. Citation and commencement[^c-056166dc3b66cf6439b306d4f2310956]
 
 These Regulations may be cited as the Service Provision Change (Protection of Employment) Regulations (Northern Ireland) 2006 and shall come into operation on 6th April 2006.
 
-## 2. Interpretation[^key-bd22626a6bc8c8a5b8adde6c8c335435]
+## 2. Interpretation[^c-bd22626a6bc8c8a5b8adde6c8c335435]
 
 (1) In these Regulations—
 
@@ -67,7 +67,7 @@ These Regulations may be cited as the Service Provision Change (Protection of Em
 
 (4) The Interpretation Act (Northern Ireland) 1954 [^f00010] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 3. Service provision change[^key-b07a19760d130e9ea9fc23c4d774cad4]
+## 3. Service provision change[^c-b07a19760d130e9ea9fc23c4d774cad4]
 
 (1) These Regulations apply to a service provision change, that is a situation in which—
 
@@ -101,7 +101,7 @@ and in which the conditions set out in paragraph (2) are satisfied.
 
 (6) In this regulation “contractor” includes a sub-contractor.
 
-## 4. Effect of service provision change on contracts of employment[^key-7a52bd1dd28b1c9090e5828588f5406c]
+## 4. Effect of service provision change on contracts of employment[^c-7a52bd1dd28b1c9090e5828588f5406c]
 
 (1) Except where objection is made under paragraph (7), a service provision change shall not operate so as to terminate the contract of employment of any person employed by the transferor and assigned to the organised grouping of resources or employees that is subject to the service provision change, which would otherwise be terminated by the transfer, but any such contract shall have effect after the transfer as if originally made between the person so employed and the transferee.
 
@@ -134,14 +134,14 @@ and in which the conditions set out in paragraph (2) are satisfied.
 
 (11) Paragraphs (1), (7), (8) and (9) are without prejudice to any right of an employee arising apart from these Regulations to terminate his contract of employment without notice in acceptance of a repudiatory breach of contract by his employer.
 
-## 5. Effect of service provision change on collective agreements[^key-531a10a638c7bfd6b0134ecf8fd3d9cc]
+## 5. Effect of service provision change on collective agreements[^c-531a10a638c7bfd6b0134ecf8fd3d9cc]
 
 Where at the time of a service provision change there exists a collective agreement made by or on behalf of the transferor with a trade union recognised by the transferor in respect of any employee whose contract of employment is preserved by regulation 4(1) above, then—
 
 - (a) without prejudice to Article 26 of the 1992 Order (collective agreements presumed to be unenforceable in specified circumstances) that agreement, in its application in relation to the employee, shall, after the change, have effect as if made by or on behalf of the transferee with that trade union, and accordingly anything done under or in connection with it, in its application in relation to the employee, by or in relation to the transferor before the change, shall, after the change, be deemed to have been done by or in relation to the transferee; and
 - (b) any order made in respect of that agreement, in its application in relation to the employee, shall, after the change, have effect as if the transferee were a party to the agreement.
 
-## 6. Effect of service provision change on trade union recognition[^key-ccade2aa54831e785493bcbd234fa9a7]
+## 6. Effect of service provision change on trade union recognition[^c-ccade2aa54831e785493bcbd234fa9a7]
 
 (1) This regulation applies where, after a service provision change, the organised grouping of resources or employees to which the change relates maintains an identity distinct from the remainder of the transferee’s undertaking.
 
@@ -150,7 +150,7 @@ Where at the time of a service provision change there exists a collective agreem
 - (a) the trade union shall be deemed to have been recognised by the transferee to the same extent in respect of employees of that description so employed; and
 - (b) any agreement for recognition may be varied or rescinded accordingly.
 
-## 7. Dismissal of employee because of service provision change[^key-3a7e6a5eb990f8f64ceab17e212bd40c]
+## 7. Dismissal of employee because of service provision change[^c-3a7e6a5eb990f8f64ceab17e212bd40c]
 
 (1) Where either before or after a service provision change, any employee of the transferor or transferee is dismissed, that employee shall be treated for the purposes of Part XI of the 1996 Order (unfair dismissal) as unfairly dismissed if the sole or principal reason for his dismissal is—
 
@@ -170,7 +170,7 @@ Where at the time of a service provision change there exists a collective agreem
 
 (6) Paragraph (1) shall not apply in relation to a dismissal of an employee if the application of Article 126 of the 1996 Order to the dismissal of the employee is excluded by or under any provision of that Order, the 1996 Tribunals Order or the Trade Union and Labour Relations (Consolidation) Act 1992[^f00012] insofar as it extends to Northern Ireland, the 1992 Order or the Trade Union and Labour Relations (Northern Ireland) Order 1995[^f00013].
 
-## 8. Insolvency[^key-aa97df151071bd94db951dc76ee7ac50]
+## 8. Insolvency[^c-aa97df151071bd94db951dc76ee7ac50]
 
 (1) If at the time of a service provision change the transferor is subject to relevant insolvency proceedings paragraphs (2) to (6) apply.
 
@@ -192,7 +192,7 @@ Where at the time of a service provision change there exists a collective agreem
 
 (7) Regulations 4 and 7 do not apply to any service provision change where the transferor is the subject of bankruptcy proceedings or any analogous insolvency proceedings which have been instituted with a view to the liquidation of the assets of the transferor and are under the supervision of an insolvency practitioner.
 
-## 9. Variations of contract where transferors are subject to relevant insolvency proceedings[^key-2d9feaec914d507de12e41502d9933ca]
+## 9. Variations of contract where transferors are subject to relevant insolvency proceedings[^c-2d9feaec914d507de12e41502d9933ca]
 
 (1) If at the time of a service provision change the transferor is subject to relevant insolvency proceedings these Regulations shall not prevent the transferor or transferee (or an insolvency practitioner) and appropriate representatives of assigned employees agreeing to permitted variations.
 
@@ -225,7 +225,7 @@ Where at the time of a service provision change there exists a collective agreem
 - “permitted variation” is a variation to the contract of employment of an assigned employee where the sole or principal reason for it is the service provision change in question itself or a reason connected with the change that is not an economic, technical or organisational reason entailing changes in the workforce;
 - “relevant insolvency proceedings” has the meaning given to the expression by regulation 8(6).
 
-## 10. Pensions[^key-ca28e4dd099736226702b6e773a3ddde]
+## 10. Pensions[^c-ca28e4dd099736226702b6e773a3ddde]
 
 (1) Regulations 4 and 5 shall not apply—
 
@@ -241,7 +241,7 @@ Where at the time of a service provision change there exists a collective agreem
 
 arising out of a loss or reduction in his rights under an occupational pension scheme in consequence of the transfer, save insofar as the alleged breach of contract or dismissal (as the case may be) occurred prior to the date on which these Regulations took effect.
 
-## 11. Notification of employee liability information[^key-6db98945f57787ab7f832560ea5343c8]
+## 11. Notification of employee liability information[^c-6db98945f57787ab7f832560ea5343c8]
 
 (1) The transferor shall notify to the transferee the employee liability information of any person employed by him who is assigned to the organised grouping of resources or employees that is the subject of a service provision change —
 
@@ -252,7 +252,7 @@ arising out of a loss or reduction in his rights under an occupational pension s
 
 - (a) the identity and age of the employee;
 - (b) those particulars of employment that an employer is obliged to give to an employee pursuant to Article 33 of the 1996 Order;
-- (c)[^key-9d3460ed1ceaa16d3a2f22ae99bad14d] information of any—
+- (c)[^c-9d3460ed1ceaa16d3a2f22ae99bad14d] information of any—
   - (i) disciplinary procedure taken against an employee in circumstances where the Employment (Northern Ireland) Order 2003 (Dispute Resolution) Regulations (Northern Ireland) 2004 apply,
   - (ii) grievance procedure taken by an employee where a Code of Practice issued under Part XI of the Industrial Relations (Northern Ireland) Order 1992 which relates exclusively or primarily to the resolution of disputes applies,
 
@@ -275,7 +275,7 @@ arising out of a loss or reduction in his rights under an occupational pension s
 - (a) in more than one instalment;
 - (b) indirectly, through a third party.
 
-## 12. Remedy for failure to notify employee liability information[^key-a4cb9d1947f13720b90cba5ed40e3f6d]
+## 12. Remedy for failure to notify employee liability information[^c-a4cb9d1947f13720b90cba5ed40e3f6d]
 
 (1) On or after a service provision change, the transferee may present a complaint to an industrial tribunal that the transferor has failed to comply with any provision of regulation 11.
 
@@ -284,7 +284,7 @@ arising out of a loss or reduction in his rights under an occupational pension s
 - (a) before the end of the period of three months beginning with the date of the service provision change;
 - (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of three months.
 
-(2A)[^key-0d7dfeaec6a32ed34590941f62a290fa] Regulation 16A (extension of time limit to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
+(2A)[^c-0d7dfeaec6a32ed34590941f62a290fa] Regulation 16A (extension of time limit to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
 
 (3) Where an industrial tribunal finds a complaint under paragraph (1) well-founded, the tribunal—
 
@@ -300,9 +300,9 @@ arising out of a loss or reduction in his rights under an occupational pension s
 
 (6) In ascertaining the loss referred to in paragraph (4)(a) the tribunal shall apply the same rule concerning the duty of a person to mitigate his loss as applies to any damages recoverable under common law.
 
-(7) Articles 20A to 20C[^key-617b7c6d9018598bdd4b3e29766cb084] of the 1996 Tribunals Order (conciliation) shall apply to the right conferred by this regulation and to proceedings under this regulation as it applies to the rights conferred by that Order and the industrial tribunal proceedings mentioned in that Order.
+(7) Articles 20A to 20C[^c-617b7c6d9018598bdd4b3e29766cb084] of the 1996 Tribunals Order (conciliation) shall apply to the right conferred by this regulation and to proceedings under this regulation as it applies to the rights conferred by that Order and the industrial tribunal proceedings mentioned in that Order.
 
-## 13. Duty to inform and consult representatives[^key-44ba737f7487f7182501aa0857c4824e]
+## 13. Duty to inform and consult representatives[^c-44ba737f7487f7182501aa0857c4824e]
 
 (1) In this regulation and regulations 14 and 15 references to affected employees, in relation to a service provision change, are to any employees of the transferor or the transferee (whether or not assigned to the organised grouping of resources or employees that is the subject of a service provision change) who may be affected by the change or may be affected by measures taken in connection with it; and references to the employer shall be construed accordingly.
 
@@ -313,7 +313,7 @@ arising out of a loss or reduction in his rights under an occupational pension s
 - (c) the measures which he envisages he will, in connection with the change, take in relation to any affected employees or, if he envisages that no measures will be so taken, that fact; and
 - (d) if the employer is the transferor, the measures, in connection with the change, which he envisages the transferee will take in relation to any affected employees who will become employees of the transferee after the change by virtue of regulation 4 or, if he envisages that no measures will be so taken, that fact.
 
-(2A)[^key-41185d3bda46aecd06108f3af8a3e2b3] Where information is to be supplied under paragraph (2) by an employer—
+(2A)[^c-41185d3bda46aecd06108f3af8a3e2b3] Where information is to be supplied under paragraph (2) by an employer—
 
 - (a) this must include suitable information relating to the use of agency workers (if any) by that employer; and
 - (b) “suitable information relating to the use of agency workers” means—
@@ -354,7 +354,7 @@ the employer shall be treated as complying with the requirements of this regulat
 
 (12) The duties imposed on an employer by this regulation shall apply irrespective of whether the decision resulting in the service provision change is taken by the employer or a person controlling the employer.
 
-## 14. Election of employee representatives[^key-41e773353777bca6d0ddaeae3adbf5b5]
+## 14. Election of employee representatives[^c-41e773353777bca6d0ddaeae3adbf5b5]
 
 (1) The requirements for the election of employee representatives under regulation 13(3) are that—
 
@@ -372,7 +372,7 @@ the employer shall be treated as complying with the requirements of this regulat
 
 (2) Where, after an election of employee representatives satisfying the requirements of paragraph (1) has been held, one of those elected ceases to act as an employee representative and as a result any affected employees are no longer represented, those employees shall elect another representative by an election satisfying the requirements of paragraph (1)(a), (e), (f) and (i).
 
-## 15. Failure to inform or consult[^key-9e2c384f145b91f63d42b257207a28f2]
+## 15. Failure to inform or consult[^c-9e2c384f145b91f63d42b257207a28f2]
 
 (1) Where an employer has failed to comply with a requirement of regulation 13 or regulation 14, a complaint may be presented to an industrial tribunal on that ground—
 
@@ -417,11 +417,11 @@ the employer shall be treated as complying with the requirements of this regulat
 
 or within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of the period of three months.
 
-(13)[^key-821ee927217a49aea7944037b8ca78aa] Regulation 16A (extension of time limit to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (12).
+(13)[^c-821ee927217a49aea7944037b8ca78aa] Regulation 16A (extension of time limit to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (12).
 
-## 16. Failure to inform or consult: supplemental[^key-64347959bd4658b93d6283d3556f34de]
+## 16. Failure to inform or consult: supplemental[^c-64347959bd4658b93d6283d3556f34de]
 
-(1) Article 247(1) of the 1996 Order (complaint to be sole remedy for breach of relevant rights) and Articles 20A to 20C[^key-38bd8a1aee268c56a624320982a4d350] of the 1996 Tribunals Order (conciliation) shall apply to the rights conferred by regulation 15 and to proceedings under this regulation as they apply to the rights conferred by those Orders and the industrial tribunal proceedings mentioned in those Orders.
+(1) Article 247(1) of the 1996 Order (complaint to be sole remedy for breach of relevant rights) and Articles 20A to 20C[^c-38bd8a1aee268c56a624320982a4d350] of the 1996 Tribunals Order (conciliation) shall apply to the rights conferred by regulation 15 and to proceedings under this regulation as they apply to the rights conferred by those Orders and the industrial tribunal proceedings mentioned in those Orders.
 
 (2) An appeal shall lie and shall lie only to the Court of Appeal on a question of law arising from any decision of, or arising in any proceedings before, an industrial tribunal under or by virtue of these Regulations; and section 11(1) of the Tribunals and Inquiries Act 1992[^f00016] (appeals from certain tribunals to the High Court) shall not apply in relation to any such proceedings.
 
@@ -433,7 +433,7 @@ or within such further period as the tribunal considers reasonable in a case whe
 - (b) in the case of an employee who is dismissed for any other reason, the effective date of termination (within the meaning of Articles 127(1) and (2) and 129 of the 1996 Order) of his contract of employment;
 - (c) in any other case, the date of the service provision change.
 
-## 16A. Extension of time limit to facilitate conciliation before institution of proceedings[^key-01398cadec859a88ff5a7db3aeaa6d7e]
+## 16A. Extension of time limit to facilitate conciliation before institution of proceedings[^c-01398cadec859a88ff5a7db3aeaa6d7e]
 
 (1) This regulation applies where these Regulations provide for it to apply for the purposes of a provision in these Regulations (“a relevant provision”).
 
@@ -448,7 +448,7 @@ or within such further period as the tribunal considers reasonable in a case whe
 
 (5) Where an industrial tribunal has power under these Regulations to extend the time limit set by a relevant provision, the power is exercisable in relation to that time limit as extended by this regulation.
 
-## 17. Employers' liability compulsory insurance[^key-829a47402a0604a66152b1ad8792caa8]
+## 17. Employers' liability compulsory insurance[^c-829a47402a0604a66152b1ad8792caa8]
 
 (1) Paragraph (2) applies where—
 
@@ -457,11 +457,11 @@ or within such further period as the tribunal considers reasonable in a case whe
 
 (2) Where this paragraph applies, on completion of a service provision change the transferor and the transferee shall be jointly and severally liable in respect of any liability referred to in Article 5(1) of the 1972 Order, in so far as such liability relates to the employee’s employment with the transferor.
 
-## 18. Restriction on contracting out[^key-881c855bfe3c071999824ca2f281f9fa]
+## 18. Restriction on contracting out[^c-881c855bfe3c071999824ca2f281f9fa]
 
 Article 245 of the 1996 Order (restrictions on contracting out) shall apply in relation to these Regulations as if they were contained in that Order, save for that Article shall not apply in so far as these Regulations provide for an agreement (whether a contract of employment or not) to exclude or limit the operation of these Regulations.
 
-## 19. Amendment to the 1996 Order[^key-abde612b8977015006525b2b1fe8dd69]
+## 19. Amendment to the 1996 Order[^c-abde612b8977015006525b2b1fe8dd69]
 
 In Article 135 of the 1996 Order (assertion of statutory right) in subsection (4)—
 
@@ -472,7 +472,7 @@ In Article 135 of the 1996 Order (assertion of statutory right) in subsection (4
 
   .
 
-## 20. Amendments[^key-1c8e513f7fc289755b929f8bd7b30b40]
+## 20. Amendments[^c-1c8e513f7fc289755b929f8bd7b30b40]
 
 (1) Schedule 1 (consequential amendments) shall have effect.
 
@@ -514,7 +514,7 @@ In Article 135 of the 1996 Order (assertion of statutory right) in subsection (4
   - (i) for “Article 170(I)” there is substituted “Article 170”; and
   - (ii) for “Article 247(I)” there is substituted “Article 247(1)”.
 
-## 21. Application[^key-ad8a039a9cd5f2ad3fdd18dd8b4ea6cd]
+## 21. Application[^c-ad8a039a9cd5f2ad3fdd18dd8b4ea6cd]
 
 (1) These Regulations shall apply in relation to—
 
@@ -539,11 +539,11 @@ Regulation 20
 
 ### Industrial Tribunals (Northern Ireland) Order 1996
 
-**1.**[^key-5a8803c7d8f920f3048ca492747e3bb7] In Article 6 of the Industrial Tribunals (Northern Ireland) Order 1996[^f00021] (composition of a tribunal), in paragraph (3)(ab), after the words “regulation 15(10) of the Transfer of Undertakings (Protection of Employment) Regulations 2006” there is inserted “or regulation 15(10) of the Service Provision Change (Protection of Employment) Regulations (Northern Ireland) 2006”.
+**1.**[^c-5a8803c7d8f920f3048ca492747e3bb7] In Article 6 of the Industrial Tribunals (Northern Ireland) Order 1996[^f00021] (composition of a tribunal), in paragraph (3)(ab), after the words “regulation 15(10) of the Transfer of Undertakings (Protection of Employment) Regulations 2006” there is inserted “or regulation 15(10) of the Service Provision Change (Protection of Employment) Regulations (Northern Ireland) 2006”.
 
 ### Employment Rights (Northern Ireland) Order 1996
 
-**2.**[^key-5d3867b39566fbb927458c4f99810c66] In each of the following provisions of the Employment Rights (Northern Ireland) Order 1996[^f00022] after the words “regulations 9, 13 and 15 of the Transfer of Undertakings (Protection of Employment) Regulations 2006” there is inserted “or regulations 9, 13 and 15 of the Service Provision Change (Protection of Employment) Regulations (Northern Ireland)[^M_F_71c9e8cb-b9e7-4cc1-fd39-ec5d4441b4ee] 2006”—
+**2.**[^c-5d3867b39566fbb927458c4f99810c66] In each of the following provisions of the Employment Rights (Northern Ireland) Order 1996[^f00022] after the words “regulations 9, 13 and 15 of the Transfer of Undertakings (Protection of Employment) Regulations 2006” there is inserted “or regulations 9, 13 and 15 of the Service Provision Change (Protection of Employment) Regulations (Northern Ireland)[^M_F_71c9e8cb-b9e7-4cc1-fd39-ec5d4441b4ee] 2006”—
 
 - (a) Article 70(1)(a) and (1A);
 - (b) Article 89(1)(a);
@@ -597,9 +597,9 @@ Regulation 21 provides that these Regulations shall apply to a service provision
 
 [^f00005]: Footnote: *See*[S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-056166dc3b66cf6439b306d4f2310956]: Commencement: Reg. 1 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
+[^c-056166dc3b66cf6439b306d4f2310956]: Commencement: Reg. 1 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
 
-[^key-bd22626a6bc8c8a5b8adde6c8c335435]: Commencement: Reg. 2 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
+[^c-bd22626a6bc8c8a5b8adde6c8c335435]: Commencement: Reg. 2 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
 
 [^f00006]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405)
 
@@ -611,15 +611,15 @@ Regulation 21 provides that these Regulations shall apply to a service provision
 
 [^f00010]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-b07a19760d130e9ea9fc23c4d774cad4]: Commencement: Reg. 3 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
+[^c-b07a19760d130e9ea9fc23c4d774cad4]: Commencement: Reg. 3 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
 
-[^key-7a52bd1dd28b1c9090e5828588f5406c]: Commencement: Reg. 4 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
+[^c-7a52bd1dd28b1c9090e5828588f5406c]: Commencement: Reg. 4 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
 
-[^key-531a10a638c7bfd6b0134ecf8fd3d9cc]: Commencement: Reg. 5 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
+[^c-531a10a638c7bfd6b0134ecf8fd3d9cc]: Commencement: Reg. 5 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
 
-[^key-ccade2aa54831e785493bcbd234fa9a7]: Commencement: Reg. 6 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
+[^c-ccade2aa54831e785493bcbd234fa9a7]: Commencement: Reg. 6 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
 
-[^key-3a7e6a5eb990f8f64ceab17e212bd40c]: Commencement: Reg. 7 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
+[^c-3a7e6a5eb990f8f64ceab17e212bd40c]: Commencement: Reg. 7 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
 
 [^f00011]: Footnote: [1919 c. 92](https://www.legislation.gov.uk/ukpga/1919/92); section 5 was amended by the Former Enemy Aliens (Disabilities Removal) Act 1925 section 1 and Schedule 2, the Merchant Shipping Act 1970 section 100(3) and Schedule 5 and the Merchant Shipping Act 1995 section 314 and Schedule 12.
 
@@ -627,53 +627,53 @@ Regulation 21 provides that these Regulations shall apply to a service provision
 
 [^f00013]: Footnote: [S.I. 1995/1980 (N.I. 12)](https://www.legislation.gov.uk/nisi/1995/1980)
 
-[^key-aa97df151071bd94db951dc76ee7ac50]: Commencement: Reg. 8 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
+[^c-aa97df151071bd94db951dc76ee7ac50]: Commencement: Reg. 8 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
 
-[^key-2d9feaec914d507de12e41502d9933ca]: Commencement: Reg. 9 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
+[^c-2d9feaec914d507de12e41502d9933ca]: Commencement: Reg. 9 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
 
-[^key-ca28e4dd099736226702b6e773a3ddde]: Commencement: Reg. 10 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
+[^c-ca28e4dd099736226702b6e773a3ddde]: Commencement: Reg. 10 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
 
 [^f00014]: Footnote: [S.I. 1975/1503 (N.I. 15)](https://www.legislation.gov.uk/nisi/1975/1503)
 
-[^key-6db98945f57787ab7f832560ea5343c8]: Commencement: Reg. 11 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
+[^c-6db98945f57787ab7f832560ea5343c8]: Commencement: Reg. 11 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
 
-[^key-9d3460ed1ceaa16d3a2f22ae99bad14d]: Textual amendment: [Reg. 11(2)(c)](https://www.legislation.gov.uk/nisr/2006/177/regulation/11/2/c) substituted (3.4.2011) by [The Transfer of Undertakings and Service Provision Change (Protection of Employment) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/163)](https://www.legislation.gov.uk/nisr/2011/163), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2011/163/regulation/1/2), [3](https://www.legislation.gov.uk/nisr/2011/163/regulation/3)
+[^c-9d3460ed1ceaa16d3a2f22ae99bad14d]: Textual amendment: [Reg. 11(2)(c)](https://www.legislation.gov.uk/nisr/2006/177/regulation/11/2/c) substituted (3.4.2011) by [The Transfer of Undertakings and Service Provision Change (Protection of Employment) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/163)](https://www.legislation.gov.uk/nisr/2011/163), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2011/163/regulation/1/2), [3](https://www.legislation.gov.uk/nisr/2011/163/regulation/3)
 
-[^key-a4cb9d1947f13720b90cba5ed40e3f6d]: Commencement: Reg. 12 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
+[^c-a4cb9d1947f13720b90cba5ed40e3f6d]: Commencement: Reg. 12 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
 
-[^key-0d7dfeaec6a32ed34590941f62a290fa]: Textual amendment: [Reg. 12(2A)](https://www.legislation.gov.uk/nisr/2006/177/regulation/12/2A) inserted (27.1.2020) by [The Transfer of Undertakings and Service Provision Change (Protection of Employment) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/15)](https://www.legislation.gov.uk/nisr/2020/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/15/regulation/1/1), [7(a)](https://www.legislation.gov.uk/nisr/2020/15/regulation/7/a)
+[^c-0d7dfeaec6a32ed34590941f62a290fa]: Textual amendment: [Reg. 12(2A)](https://www.legislation.gov.uk/nisr/2006/177/regulation/12/2A) inserted (27.1.2020) by [The Transfer of Undertakings and Service Provision Change (Protection of Employment) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/15)](https://www.legislation.gov.uk/nisr/2020/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/15/regulation/1/1), [7(a)](https://www.legislation.gov.uk/nisr/2020/15/regulation/7/a)
 
-[^key-617b7c6d9018598bdd4b3e29766cb084]: Textual amendment: Words in [reg. 12(7)](https://www.legislation.gov.uk/nisr/2006/177/regulation/12/7) substituted (27.1.2020) by [The Transfer of Undertakings and Service Provision Change (Protection of Employment) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/15)](https://www.legislation.gov.uk/nisr/2020/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/15/regulation/1/1), [7(b)](https://www.legislation.gov.uk/nisr/2020/15/regulation/7/b)
+[^c-617b7c6d9018598bdd4b3e29766cb084]: Textual amendment: Words in [reg. 12(7)](https://www.legislation.gov.uk/nisr/2006/177/regulation/12/7) substituted (27.1.2020) by [The Transfer of Undertakings and Service Provision Change (Protection of Employment) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/15)](https://www.legislation.gov.uk/nisr/2020/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/15/regulation/1/1), [7(b)](https://www.legislation.gov.uk/nisr/2020/15/regulation/7/b)
 
-[^key-44ba737f7487f7182501aa0857c4824e]: Commencement: Reg. 13 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
+[^c-44ba737f7487f7182501aa0857c4824e]: Commencement: Reg. 13 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
 
-[^key-41185d3bda46aecd06108f3af8a3e2b3]: Textual amendment: Words in [reg. 13(2A)](https://www.legislation.gov.uk/nisr/2006/177/regulation/13/2A) inserted (5.12.2011) by [THE AGENCY WORKERS REGULATIONS (NORTHERN IRELAND) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [reg. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1), [Sch. 2 para. 31](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/31)
+[^c-41185d3bda46aecd06108f3af8a3e2b3]: Textual amendment: Words in [reg. 13(2A)](https://www.legislation.gov.uk/nisr/2006/177/regulation/13/2A) inserted (5.12.2011) by [THE AGENCY WORKERS REGULATIONS (NORTHERN IRELAND) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [reg. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1), [Sch. 2 para. 31](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/31)
 
-[^key-41e773353777bca6d0ddaeae3adbf5b5]: Commencement: Reg. 14 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
+[^c-41e773353777bca6d0ddaeae3adbf5b5]: Commencement: Reg. 14 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
 
-[^key-9e2c384f145b91f63d42b257207a28f2]: Commencement: Reg. 15 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
+[^c-9e2c384f145b91f63d42b257207a28f2]: Commencement: Reg. 15 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
 
-[^key-821ee927217a49aea7944037b8ca78aa]: Textual amendment: [Reg. 15(13)](https://www.legislation.gov.uk/nisr/2006/177/regulation/15/13) inserted (27.1.2020) by [The Transfer of Undertakings and Service Provision Change (Protection of Employment) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/15)](https://www.legislation.gov.uk/nisr/2020/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/15/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2020/15/regulation/8)
+[^c-821ee927217a49aea7944037b8ca78aa]: Textual amendment: [Reg. 15(13)](https://www.legislation.gov.uk/nisr/2006/177/regulation/15/13) inserted (27.1.2020) by [The Transfer of Undertakings and Service Provision Change (Protection of Employment) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/15)](https://www.legislation.gov.uk/nisr/2020/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/15/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2020/15/regulation/8)
 
-[^key-64347959bd4658b93d6283d3556f34de]: Commencement: Reg. 16 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
+[^c-64347959bd4658b93d6283d3556f34de]: Commencement: Reg. 16 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
 
-[^key-38bd8a1aee268c56a624320982a4d350]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/nisr/2006/177/regulation/16/1) substituted (27.1.2020) by [The Transfer of Undertakings and Service Provision Change (Protection of Employment) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/15)](https://www.legislation.gov.uk/nisr/2020/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/15/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2020/15/regulation/9)
+[^c-38bd8a1aee268c56a624320982a4d350]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/nisr/2006/177/regulation/16/1) substituted (27.1.2020) by [The Transfer of Undertakings and Service Provision Change (Protection of Employment) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/15)](https://www.legislation.gov.uk/nisr/2020/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/15/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2020/15/regulation/9)
 
 [^f00016]: Footnote: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53); section 11(1) was amended by the Sea Fish (Conservation) Act [1992 (c. 60)](https://www.legislation.gov.uk/ukpga/1992/60) section 9, the Special Educational Needs and Disability Act [2001 (c. 10)](https://www.legislation.gov.uk/ukpga/2001/10) section 42(1) and Schedule 8 and [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
 
-[^key-01398cadec859a88ff5a7db3aeaa6d7e]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/nisr/2006/177/regulation/16A) inserted (27.1.2020) by [The Transfer of Undertakings and Service Provision Change (Protection of Employment) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/15)](https://www.legislation.gov.uk/nisr/2020/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/15/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2020/15/regulation/10)
+[^c-01398cadec859a88ff5a7db3aeaa6d7e]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/nisr/2006/177/regulation/16A) inserted (27.1.2020) by [The Transfer of Undertakings and Service Provision Change (Protection of Employment) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/15)](https://www.legislation.gov.uk/nisr/2020/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/15/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2020/15/regulation/10)
 
-[^key-829a47402a0604a66152b1ad8792caa8]: Commencement: Reg. 17 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
+[^c-829a47402a0604a66152b1ad8792caa8]: Commencement: Reg. 17 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
 
 [^M_F_c7055206-ceac-4b59-a452-56a4f37aa4d9]: Textual amendment: Word in reg. 17(1)(a) substituted (30.12.2007) by [The Transfer of Undertakings and Service Provision Change (Protection of Employment) (Consequential Amendments etc.) Regulations (Northern Ireland) 2007 (S.R. 2007/494)](https://www.legislation.gov.uk/nisr/2007/494), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/494/regulation/1/1), [7(2)](https://www.legislation.gov.uk/nisr/2007/494/regulation/7/2)
 
 [^f00017]: Footnote: [S.I. 1972/963 (N.I. 6)](https://www.legislation.gov.uk/nisi/1972/963)
 
-[^key-881c855bfe3c071999824ca2f281f9fa]: Commencement: Reg. 18 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
+[^c-881c855bfe3c071999824ca2f281f9fa]: Commencement: Reg. 18 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
 
-[^key-abde612b8977015006525b2b1fe8dd69]: Commencement: Reg. 19 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
+[^c-abde612b8977015006525b2b1fe8dd69]: Commencement: Reg. 19 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
 
-[^key-1c8e513f7fc289755b929f8bd7b30b40]: Commencement: Reg. 20 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
+[^c-1c8e513f7fc289755b929f8bd7b30b40]: Commencement: Reg. 20 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
 
 [^f00018]: Footnote: [S.I. 2006/246](https://www.legislation.gov.uk/uksi/2006/246)
 
@@ -681,13 +681,13 @@ Regulation 21 provides that these Regulations shall apply to a service provision
 
 [^f00020]: Footnote: [S.I. 1996/1921 (N.I.18)](https://www.legislation.gov.uk/nisi/1996/1921)
 
-[^key-ad8a039a9cd5f2ad3fdd18dd8b4ea6cd]: Commencement: Reg. 21 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
+[^c-ad8a039a9cd5f2ad3fdd18dd8b4ea6cd]: Commencement: Reg. 21 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
 
-[^key-5a8803c7d8f920f3048ca492747e3bb7]: Commencement: Sch. 1 para. 1 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
+[^c-5a8803c7d8f920f3048ca492747e3bb7]: Commencement: Sch. 1 para. 1 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
 
 [^f00021]: Footnote: [S.I. 1996/1921 (N.I. 18)](https://www.legislation.gov.uk/nisi/1996/1921).
 
-[^key-5d3867b39566fbb927458c4f99810c66]: Commencement: Sch. 1 para. 2 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
+[^c-5d3867b39566fbb927458c4f99810c66]: Commencement: Sch. 1 para. 2 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1)
 
 [^f00022]: Footnote: [S.I. 1999/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1999/1919).
 

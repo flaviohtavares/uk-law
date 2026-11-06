@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Marking of wood packaging material: power of seizure[^key-0525e68121b7e9b1d2996f8dddc947b7]
+## 33. Marking of wood packaging material: power of seizure[^c-0525e68121b7e9b1d2996f8dddc947b7]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0525e68121b7e9b1d2996f8dddc947b7]: Commencement: Reg. 33 in force at 27.3.2020, see reg. 1
+[^c-0525e68121b7e9b1d2996f8dddc947b7]: Commencement: Reg. 33 in force at 27.3.2020, see reg. 1

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Compensation for disturbance on resumption[^key-c0061622857d111b02e7fa3d47ee69ee]
+## 22. Compensation for disturbance on resumption[^c-c0061622857d111b02e7fa3d47ee69ee]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0061622857d111b02e7fa3d47ee69ee]: Commencement: S. 22 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-c0061622857d111b02e7fa3d47ee69ee]: Commencement: S. 22 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

@@ -52,17 +52,17 @@ In accordance with paragraph 4 of schedule 3 to that Act[^f00003], Ministers hav
 
 In accordance with paragraph 5 of that schedule[^f00005], Ministers have informed the Company in writing that the application relates to a project which falls within Annex II to that Directive but is not a relevant project.
 
-Notice has been published by the Company in accordance with the requirements of paragraph 10 of that schedule[^f00006]. No objections to the application have been made.[^key-51ae2bffc869599f8a2fa0541cce55c2]
+Notice has been published by the Company in accordance with the requirements of paragraph 10 of that schedule[^f00006]. No objections to the application have been made.[^c-51ae2bffc869599f8a2fa0541cce55c2]
 
-In accordance with paragraph 19(6) of that schedule[^f00007], Ministers have decided to make this Order with modifications which do not appear to Ministers substantially to affect the character of the Order.[^key-51ae2bffc869599f8a2fa0541cce55c2]
+In accordance with paragraph 19(6) of that schedule[^f00007], Ministers have decided to make this Order with modifications which do not appear to Ministers substantially to affect the character of the Order.[^c-51ae2bffc869599f8a2fa0541cce55c2]
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement[^key-307c81e386aeae43d224dc4dc5fe7350]
+### 1. Citation and commencement[^c-307c81e386aeae43d224dc4dc5fe7350]
 
 This Order may be cited as the Clydeport Operations Limited (Greenock Ocean Terminal Cruise Berth) Harbour Revision Order 2018 and comes into force on the day after the day on which it is made.
 
-### 2. Interpretation[^key-3330dd022dcda26c36a7b5e551dda5a4]
+### 2. Interpretation[^c-3330dd022dcda26c36a7b5e551dda5a4]
 
 (1) In this Order—
 
@@ -86,7 +86,7 @@ This Order may be cited as the Clydeport Operations Limited (Greenock Ocean Term
 
 ## PART 2 — THE WORKS
 
-### 3. Power to construct[^key-0d231682e09ada53e1420f392555c162]
+### 3. Power to construct[^c-0d231682e09ada53e1420f392555c162]
 
 (1) Subject to the provisions of this Order, the Company may in the lines and situations and upon the lands delineated on the deposited plans and sections and within the limits of deviation shown on them and according to the levels shown, construct, operate and maintain in the port the following works along with all necessary works and conveniences connected with them—
 
@@ -98,7 +98,7 @@ This Order may be cited as the Clydeport Operations Limited (Greenock Ocean Term
 
 (2) The Company may, within the limits of deviation, reconstruct, extend, enlarge, replace or relay the works authorised by paragraph (1) and may maintain the same as reconstructed, extended, enlarged, replaced, or re-laid.
 
-### 4. Power to deviate[^key-450f51ec7c100dc095092859effa880e]
+### 4. Power to deviate[^c-450f51ec7c100dc095092859effa880e]
 
 Subject to the provisions of this Order, in carrying out the works authorised by article 3 (power to construct works) the Company—
 
@@ -106,7 +106,7 @@ Subject to the provisions of this Order, in carrying out the works authorised by
 - (b) may deviate vertically from the levels of the works as shown to any extent not exceeding 12 metres upwards above Chart Datum; and
 - (c) may deviate vertically in a downwards direction from the levels of the works as shown to such extent downwards as may be found necessary or convenient.
 
-### 5. Subsidiary works[^key-b3ab192c75a160db9a2b45e0990b85e1]
+### 5. Subsidiary works[^c-b3ab192c75a160db9a2b45e0990b85e1]
 
 (1) The Company may from time to time within the limits of deviation construct, maintain and operate, whether temporarily or permanently, such other works as may be necessary or convenient for the purposes of the works, or in connection with or in consequence of the construction, operation and maintenance or use of the works including—
 
@@ -118,7 +118,7 @@ Subject to the provisions of this Order, in carrying out the works authorised by
 
 (2) In the course of erecting, constructing, laying down, placing, removing and replacing the works the Company may carry out construction activity including the temporary placing of plant and equipment within the tidal waters adjoining the limits of deviation.
 
-### 6. Power to dredge[^key-eaf7f61f4871a00f6e3ece1cd6283b26]
+### 6. Power to dredge[^c-eaf7f61f4871a00f6e3ece1cd6283b26]
 
 (1) Without affecting any other powers which may be exercisable by the Company within the port the Company may, for the purposes of constructing and maintaining the works and of affording access to the works by vessels from time to time deepen, dredge, scour, blast rock, cleanse, alter and improve so much of the bed, shores and channels of the sea as lie within the limits of the port and may use, appropriate or dispose of the materials (other than wreck within the meaning of Part IX of the Merchant Shipping Act 1995[^f00010], from time to time dredged by them.
 
@@ -127,7 +127,7 @@ Subject to the provisions of this Order, in carrying out the works authorised by
 - (a) in contravention of the provisions of any enactment as respects the disposal of waste; or
 - (b) in any place below the level of high water otherwise than in such position and under such conditions and restrictions as may be approved or prescribed by the Ministers.
 
-### 7. Obstruction of works[^key-df4db28db70770a23ff0f7e2ac2e2332]
+### 7. Obstruction of works[^c-df4db28db70770a23ff0f7e2ac2e2332]
 
 Any person who intentionally—
 
@@ -136,21 +136,21 @@ Any person who intentionally—
 
 will be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale and shall in addition be liable to repay to the Company as a debt any expenses incurred by it in making good any damage resulting from such obstruction, moving or removal.
 
-### 8. Works to be deemed part of undertaking[^key-a05b31770d21975ab6bf068d4bdda62f]
+### 8. Works to be deemed part of undertaking[^c-a05b31770d21975ab6bf068d4bdda62f]
 
 The works are deemed for all purposes to be part of the undertaking and all byelaws, directions, rules and regulations of the Company for the time being in force relating to the undertaking apply to the works and may be enforced by the Company accordingly.
 
-### 9. Survey of tidal works[^key-9d088e811da7f2af814fdda65b74aeba]
+### 9. Survey of tidal works[^c-9d088e811da7f2af814fdda65b74aeba]
 
 The Ministers may at any time if they deem it necessary or expedient order a survey and examination of a tidal work or a site upon which it is proposed to construct such a work and any expense incurred by them in such a survey and examination will be recoverable from the Company.
 
-### 10. Provision against danger to navigation[^key-63f9ce7fc54d635868d2a8f12d1f0f36]
+### 10. Provision against danger to navigation[^c-63f9ce7fc54d635868d2a8f12d1f0f36]
 
 (1) In the case of injury to, or destruction or decay of, a tidal work or any part thereof, the Company must as soon as reasonably practicable notify the Commissioners of Northern Lighthouses and must lay down such buoys, exhibit such lights and take such other steps for preventing danger to navigation as the Commissioners of Northern Lighthouses may from time to time direct.
 
 (2) If the Company fails to comply in any respect with the provisions of this article, the Company will be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
 
-### 11. Abatement of works abandoned or decayed[^key-cd802a40044c49e482b5f57967f45e87]
+### 11. Abatement of works abandoned or decayed[^c-cd802a40044c49e482b5f57967f45e87]
 
 (1) Where a tidal work is abandoned or suffered to fall into decay the Ministers may by notice in writing require the Company at the Company’s own expense either to repair and restore the work, or any part of it, or to remove the work and restore the site of the work to its former condition, to such an extent and within such limits as the Ministers think appropriate.
 
@@ -158,19 +158,19 @@ The Ministers may at any time if they deem it necessary or expedient order a sur
 
 (3) If, on the expiry of one month from the date when a notice under this article is served upon the Company, it fails to comply with the requirements of the notice, the Ministers may execute the works specified in the notice and any expenditure incurred by them in so doing will be recoverable from the Company.
 
-### 12. Lights on tidal works during construction[^key-c03500be618a5a7f5ad869fe4193587a]
+### 12. Lights on tidal works during construction[^c-c03500be618a5a7f5ad869fe4193587a]
 
 (1) During the whole time of the demolition, construction, renewal, reconstruction or alteration of a tidal work the Company must at the outer extremity thereof every night from sunset to sunrise exhibit such lights, if any, and take such other steps for the prevention of danger to navigation as the Commissioners of Northern Lighthouses may from time to time direct.
 
 (2) If the Company fails to comply in any respect with a direction given under this article the Company will be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
 
-### 13. Permanent lights on tidal works[^key-2cba101b50830cb068639242eb528b1f]
+### 13. Permanent lights on tidal works[^c-2cba101b50830cb068639242eb528b1f]
 
 (1) After completion of a tidal work the Company must at the outer extremity thereof every night from sunset to sunrise exhibit such lights, if any, and take such other steps for the prevention of danger to navigation as the Commissioners of Northern Lighthouses may from time to time direct.
 
 (2) If the Company fails to comply in any respect with a direction given under this article the Company will be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
 
-### 14. Period for completion of works[^key-879b9586242d1f5427bf9e569cc161c2]
+### 14. Period for completion of works[^c-879b9586242d1f5427bf9e569cc161c2]
 
 (1) If all the works are not completed within 10 years from the coming into force of this Order or such extended time as the Ministers may, on the application of the Company, allow by consent in writing, the powers by this Order granted to the Company for constructing and maintaining the works will cease to have effect except as to so much of them as is then substantially commenced.
 
@@ -184,13 +184,13 @@ The Ministers may at any time if they deem it necessary or expedient order a sur
 
 ## PART 3 — MISCELLANEOUS
 
-### 15. Power to grant rights[^key-fdf0a7b80af56a03ce21729c0e862b51]
+### 15. Power to grant rights[^c-fdf0a7b80af56a03ce21729c0e862b51]
 
 (1) The Company may make arrangements to lease or otherwise grant the exclusive, partial or preferential use of, or occupation of, or any right or interest in, over or relating to any lands, works, buildings, equipment or other property forming part of the undertaking shown within the limits of deviation on the deposited plans and sections for such period or such periods, and at such rents and other considerations and on such terms and conditions as it thinks fit.
 
 (2) Any arrangements made under paragraph (1) are, and in their terms must be expressly declared to be, entirely without prejudice to the functions and statutory duties of the Company.
 
-### 16. Defence of due diligence[^key-d39383d4f25745f936b71051c2873ff3]
+### 16. Defence of due diligence[^c-d39383d4f25745f936b71051c2873ff3]
 
 (1) In proceedings for an offence under any provision of this Order mentioned in paragraph (2) it shall be a defence for the Company to prove that they took all reasonable precautions and exercised all due diligence to avoid the commission of such an offence.
 
@@ -202,7 +202,7 @@ The Ministers may at any time if they deem it necessary or expedient order a sur
 
 (3) If in any case the defence provided by paragraph (1) involves the allegation that the commission of the offence was due to the act or default of another person, the Company shall not, without leave of the court, be entitled to rely on that defence unless, within a period of 7 clear days before the hearing, they have served on the prosecutor a notice in writing giving such information identifying, or assisting in the identification of, that other person as was then in their possession.
 
-### 17. Crown rights[^key-10895f0871282d0623a791cdab4a46c8]
+### 17. Crown rights[^c-10895f0871282d0623a791cdab4a46c8]
 
 (1) Nothing in this Order affects prejudicially any estate, right, power, privilege, authority or exemption of the Crown and in particular and without prejudice to that generality, nothing in this Order authorises the Company or any other person to take, use, enter upon or in any manner interfere with any land or any rights of whatsoever description (including any portion of the shore or bed of the sea or any river, channel, creek, bay or estuary)—
 
@@ -212,7 +212,7 @@ The Ministers may at any time if they deem it necessary or expedient order a sur
 
 (2) A consent under paragraph (1) may be given unconditionally or subject to terms and conditions; and is deemed to have been given in writing where it is sent electronically.
 
-### 18. Saving for Commissioners of Northern Lighthouses[^key-2175c37317259909d6677fcae333e656]
+### 18. Saving for Commissioners of Northern Lighthouses[^c-2175c37317259909d6677fcae333e656]
 
 Nothing in this Order shall prejudice or derogate from any of the rights, duties or privileges of the Commissioners of Northern Lighthouses.
 
@@ -254,48 +254,48 @@ In addition the Order authorises the Company to lease or otherwise grant rights 
 
 [^f00006]: Footnote: Paragraph 10 of Schedule 3 was substituted by [S.I. 1999/3445](https://www.legislation.gov.uk/uksi/1999/3445) and is amended by the Transport and Works (Scotland) Act [2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), section 25(5)(b) and (c).
 
-[^key-51ae2bffc869599f8a2fa0541cce55c2]: Modification: Order applied (with modifications) (temp.) (13.10.2021) by [The Clydeport (COP 26 etc.) Harbour Revision Order 2021 (S.S.I. 2021/358)](https://www.legislation.gov.uk/ssi/2021/358), [arts. 16](https://www.legislation.gov.uk/ssi/2021/358/article/16), [17](https://www.legislation.gov.uk/ssi/2021/358/article/17) (with [art. 18](https://www.legislation.gov.uk/ssi/2021/358/article/18))
+[^c-51ae2bffc869599f8a2fa0541cce55c2]: Modification: Order applied (with modifications) (temp.) (13.10.2021) by [The Clydeport (COP 26 etc.) Harbour Revision Order 2021 (S.S.I. 2021/358)](https://www.legislation.gov.uk/ssi/2021/358), [arts. 16](https://www.legislation.gov.uk/ssi/2021/358/article/16), [17](https://www.legislation.gov.uk/ssi/2021/358/article/17) (with [art. 18](https://www.legislation.gov.uk/ssi/2021/358/article/18))
 
 [^f00007]: Footnote: Paragraph 19(2) of Schedule 3 was substituted by [S.I. 1999/3445](https://www.legislation.gov.uk/uksi/1999/3445).
 
-[^key-307c81e386aeae43d224dc4dc5fe7350]: Commencement: Art. 1 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+[^c-307c81e386aeae43d224dc4dc5fe7350]: Commencement: Art. 1 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
 
-[^key-3330dd022dcda26c36a7b5e551dda5a4]: Commencement: Art. 2 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+[^c-3330dd022dcda26c36a7b5e551dda5a4]: Commencement: Art. 2 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
 
 [^f00008]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21). Schedule 8 was amended by section 55 of the Scotland Act [2016 c.11](https://www.legislation.gov.uk/ukpga/2016/11).
 
 [^f00009]: Footnote: [1965 c.xlv](https://www.legislation.gov.uk/ukla/1965/45).
 
-[^key-0d231682e09ada53e1420f392555c162]: Commencement: Art. 3 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+[^c-0d231682e09ada53e1420f392555c162]: Commencement: Art. 3 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
 
-[^key-450f51ec7c100dc095092859effa880e]: Commencement: Art. 4 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+[^c-450f51ec7c100dc095092859effa880e]: Commencement: Art. 4 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
 
-[^key-b3ab192c75a160db9a2b45e0990b85e1]: Commencement: Art. 5 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+[^c-b3ab192c75a160db9a2b45e0990b85e1]: Commencement: Art. 5 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
 
-[^key-eaf7f61f4871a00f6e3ece1cd6283b26]: Commencement: Art. 6 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+[^c-eaf7f61f4871a00f6e3ece1cd6283b26]: Commencement: Art. 6 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
 
 [^f00010]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21); see section 255(1).
 
-[^key-df4db28db70770a23ff0f7e2ac2e2332]: Commencement: Art. 7 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+[^c-df4db28db70770a23ff0f7e2ac2e2332]: Commencement: Art. 7 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
 
-[^key-a05b31770d21975ab6bf068d4bdda62f]: Commencement: Art. 8 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+[^c-a05b31770d21975ab6bf068d4bdda62f]: Commencement: Art. 8 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
 
-[^key-9d088e811da7f2af814fdda65b74aeba]: Commencement: Art. 9 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+[^c-9d088e811da7f2af814fdda65b74aeba]: Commencement: Art. 9 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
 
-[^key-63f9ce7fc54d635868d2a8f12d1f0f36]: Commencement: Art. 10 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+[^c-63f9ce7fc54d635868d2a8f12d1f0f36]: Commencement: Art. 10 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
 
-[^key-cd802a40044c49e482b5f57967f45e87]: Commencement: Art. 11 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+[^c-cd802a40044c49e482b5f57967f45e87]: Commencement: Art. 11 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
 
-[^key-c03500be618a5a7f5ad869fe4193587a]: Commencement: Art. 12 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+[^c-c03500be618a5a7f5ad869fe4193587a]: Commencement: Art. 12 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
 
-[^key-2cba101b50830cb068639242eb528b1f]: Commencement: Art. 13 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+[^c-2cba101b50830cb068639242eb528b1f]: Commencement: Art. 13 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
 
-[^key-879b9586242d1f5427bf9e569cc161c2]: Commencement: Art. 14 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+[^c-879b9586242d1f5427bf9e569cc161c2]: Commencement: Art. 14 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
 
-[^key-fdf0a7b80af56a03ce21729c0e862b51]: Commencement: Art. 15 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+[^c-fdf0a7b80af56a03ce21729c0e862b51]: Commencement: Art. 15 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
 
-[^key-d39383d4f25745f936b71051c2873ff3]: Commencement: Art. 16 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+[^c-d39383d4f25745f936b71051c2873ff3]: Commencement: Art. 16 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
 
-[^key-10895f0871282d0623a791cdab4a46c8]: Commencement: Art. 17 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+[^c-10895f0871282d0623a791cdab4a46c8]: Commencement: Art. 17 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
 
-[^key-2175c37317259909d6677fcae333e656]: Commencement: Art. 18 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+[^c-2175c37317259909d6677fcae333e656]: Commencement: Art. 18 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)

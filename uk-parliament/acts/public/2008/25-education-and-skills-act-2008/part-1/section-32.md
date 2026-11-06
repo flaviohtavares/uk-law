@@ -24,7 +24,7 @@ summary: ''
 
 (1) This section applies where—
 
-- (a) an enforcement notice has been given to a person (“**the employer**”) under section 30 by a local authority[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6], and
+- (a) an enforcement notice has been given to a person (“**the employer**”) under section 30 by a local authority[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6], and
 - (b) if a penalty notice has been given in respect of the enforcement notice under section 31, any appeal made under section 34 in respect of the penalty notice has not been determined.
 
 (2) The local authority may withdraw the enforcement notice by giving notice of the withdrawal to the employer.
@@ -47,4 +47,4 @@ which occurred before the enforcement notice was withdrawn.
 
 ## Annotations
 
-[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)
+[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)

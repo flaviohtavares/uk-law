@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Charging of fees by the College[^key-21675d151397a7997e462eeecfbd00dd]
+## 127. Charging of fees by the College[^c-21675d151397a7997e462eeecfbd00dd]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ After section 95 of the Police Act 1996 there is inserted—
 
 ## Annotations
 
-[^key-21675d151397a7997e462eeecfbd00dd]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2014/12/section/127) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/10)
+[^c-21675d151397a7997e462eeecfbd00dd]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2014/12/section/127) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/10)

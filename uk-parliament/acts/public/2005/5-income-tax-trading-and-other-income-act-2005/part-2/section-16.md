@@ -27,10 +27,10 @@ summary: ''
 - (a) oil extraction activities, and
 - (b) any activities consisting of the acquisition, enjoyment or exploitation of oil rights.
 
-(3) “**Oil extraction activities**” and “**oil rights**” have the meaning given by sections 225A and 225B[^key-46dff39faeab29b8566a148832c61045].
+(3) “**Oil extraction activities**” and “**oil rights**” have the meaning given by sections 225A and 225B[^c-46dff39faeab29b8566a148832c61045].
 
 ## Annotations
 
 [^c19737931]: Modification: S. 16 excluded (6.4.2007 with effect as stated in [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [ss. 87](https://www.legislation.gov.uk/ukpga/2007/3/section/87), [1034](https://www.legislation.gov.uk/ukpga/2007/3/section/1034), (with transitional provisions and savings in Sch. 2)
 
-[^key-46dff39faeab29b8566a148832c61045]: Textual amendment: Words in s. 16(3) substituted (1.4.2010) (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 190](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/190) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-46dff39faeab29b8566a148832c61045]: Textual amendment: Words in s. 16(3) substituted (1.4.2010) (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 190](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/190) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

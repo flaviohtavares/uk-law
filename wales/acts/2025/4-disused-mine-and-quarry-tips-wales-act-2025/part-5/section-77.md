@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77. Bringing proceedings[^key-5440727586db0857fc2334938269ee95]
+## 77. Bringing proceedings[^c-5440727586db0857fc2334938269ee95]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Proceedings in respect of an offence in this Act, or in regulations made under i
 
 ## Annotations
 
-[^key-5440727586db0857fc2334938269ee95]: Commencement: S. 77 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)
+[^c-5440727586db0857fc2334938269ee95]: Commencement: S. 77 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)

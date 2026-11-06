@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Extent and application[^key-fe39905027c9ad7b87437cd7787c1368]
+## 2. Extent and application[^c-fe39905027c9ad7b87437cd7787c1368]
 
 *Extent: E+W*
 
@@ -61,6 +61,6 @@ whether or not anything done under these Regulation is done before, on or after 
 
 ## Annotations
 
-[^key-fe39905027c9ad7b87437cd7787c1368]: Commencement: Reg. 2 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-fe39905027c9ad7b87437cd7787c1368]: Commencement: Reg. 2 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00004]: Footnote: See the definition of “English higher education provider” in section 83(1) of the Higher Education and Research Act 2017.

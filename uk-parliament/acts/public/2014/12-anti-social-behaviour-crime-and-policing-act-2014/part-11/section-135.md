@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Application of IPCC provisions to contractors[^key-39a9264641eaed0edf94e86d23904c47]
+## 135. Application of IPCC provisions to contractors[^c-39a9264641eaed0edf94e86d23904c47]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ In section 12 of the Police Reform Act 2002 (complaints, matters and persons to 
 
 ## Annotations
 
-[^key-39a9264641eaed0edf94e86d23904c47]: Commencement: [S. 135](https://www.legislation.gov.uk/ukpga/2014/12/section/135) in force at 8.4.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 5(a)](https://www.legislation.gov.uk/uksi/2015/373/article/5/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2015/373/article/7))
+[^c-39a9264641eaed0edf94e86d23904c47]: Commencement: [S. 135](https://www.legislation.gov.uk/ukpga/2014/12/section/135) in force at 8.4.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 5(a)](https://www.legislation.gov.uk/uksi/2015/373/article/5/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2015/373/article/7))

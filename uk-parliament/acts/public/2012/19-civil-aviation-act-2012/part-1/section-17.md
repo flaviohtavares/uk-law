@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Content and effect of licence[^key-d42897b4a58398c9ef36078b5cfe9012]
+## 17. Content and effect of licence[^c-d42897b4a58398c9ef36078b5cfe9012]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d42897b4a58398c9ef36078b5cfe9012]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2012/19/section/17) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-d42897b4a58398c9ef36078b5cfe9012]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2012/19/section/17) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

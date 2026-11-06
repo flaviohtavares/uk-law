@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Academy schools: educational provision for improving behaviour[^key-e667fa802fe6003de688bf95e57a07b8][^key-1789f93067b0f5c17e7272cbf9f039f1]
+## 55. Academy schools: educational provision for improving behaviour[^c-e667fa802fe6003de688bf95e57a07b8][^c-1789f93067b0f5c17e7272cbf9f039f1]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e667fa802fe6003de688bf95e57a07b8]: Commencement: S. 55 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)
+[^c-e667fa802fe6003de688bf95e57a07b8]: Commencement: S. 55 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)
 
-[^key-1789f93067b0f5c17e7272cbf9f039f1]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2026/21/section/55) in force at 29.6.2026 in so far as not already in force, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
+[^c-1789f93067b0f5c17e7272cbf9f039f1]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2026/21/section/55) in force at 29.6.2026 in so far as not already in force, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)

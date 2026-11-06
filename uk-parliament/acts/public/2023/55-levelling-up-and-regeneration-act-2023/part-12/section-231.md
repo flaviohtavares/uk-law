@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 231. Review of governance etc of RICS[^key-929f3fc6f25e0251f143f5456f1e251a]
+## 231. Review of governance etc of RICS[^c-929f3fc6f25e0251f143f5456f1e251a]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-929f3fc6f25e0251f143f5456f1e251a]: Commencement: [S. 231](https://www.legislation.gov.uk/ukpga/2023/55/section/231) in force at 26.12.2023, see [s. 255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b)
+[^c-929f3fc6f25e0251f143f5456f1e251a]: Commencement: [S. 231](https://www.legislation.gov.uk/ukpga/2023/55/section/231) in force at 26.12.2023, see [s. 255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b)

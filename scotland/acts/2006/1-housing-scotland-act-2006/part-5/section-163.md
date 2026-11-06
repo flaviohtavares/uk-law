@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 163. Guidance[^key-dfcf8afe22e8790ab31ca02fd5e2855c]
+## 163. Guidance[^c-dfcf8afe22e8790ab31ca02fd5e2855c]
 
 *Extent: S*
 
-(1) A local authority must have regard to any guidance issued by the Scottish Ministers about the exercise of its functions under this Part and section 186 (so far as that section relates to this Part)[^key-b3a68972191f96057986580961b91520].
+(1) A local authority must have regard to any guidance issued by the Scottish Ministers about the exercise of its functions under this Part and section 186 (so far as that section relates to this Part)[^c-b3a68972191f96057986580961b91520].
 
 (2) Such guidance may make different provision for different cases and, in particular, for different areas, different types of living accommodation, different types of person or different types of local authority.
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dfcf8afe22e8790ab31ca02fd5e2855c]: Commencement: S. 163 in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-dfcf8afe22e8790ab31ca02fd5e2855c]: Commencement: S. 163 in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
 
-[^key-b3a68972191f96057986580961b91520]: Textual amendment: Words in s. 163(1) inserted (31.8.2011) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 16](https://www.legislation.gov.uk/asp/2011/14/section/16), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
+[^c-b3a68972191f96057986580961b91520]: Textual amendment: Words in s. 163(1) inserted (31.8.2011) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 16](https://www.legislation.gov.uk/asp/2011/14/section/16), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)

@@ -34,8 +34,8 @@ summary: ''
 
 (6) In the application of this section to each cathedral of the diocese of Leeds, subsection (1) has effect as if for “two full-time equivalent residentiary canons” there were substituted “ one full-time equivalent residentiary canon ”; but, in the case of each of those cathedrals, this subsection applies to that cathedral only if the Bishop of Leeds has given consent for it to apply to it.
 
-(7)[^key-c4360169604300bc786b93c6e001f5cd] This section (including as it is applied by subsection (6)) does not apply to a lay residentiary canon.
+(7)[^c-c4360169604300bc786b93c6e001f5cd] This section (including as it is applied by subsection (6)) does not apply to a lay residentiary canon.
 
 ## Annotations
 
-[^key-c4360169604300bc786b93c6e001f5cd]: Textual amendment: [S. 14(7)](https://www.legislation.gov.uk/ukcm/2021/2/section/14/7) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/20)
+[^c-c4360169604300bc786b93c6e001f5cd]: Textual amendment: [S. 14(7)](https://www.legislation.gov.uk/ukcm/2021/2/section/14/7) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/20)

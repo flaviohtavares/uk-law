@@ -32,7 +32,7 @@ summary: ''
 
 Consumer Protection
 
-The Enterprise Act 2002 (Part 8 EU Infringements) Order 2013 (revoked)[^key-351a3d058688870beac5bbc0786910c6]
+The Enterprise Act 2002 (Part 8 EU Infringements) Order 2013 (revoked)[^c-351a3d058688870beac5bbc0786910c6]
 
 Made
 
@@ -46,23 +46,23 @@ Coming into force
 
 13th June 2014
 
-[^key-351a3d058688870beac5bbc0786910c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-351a3d058688870beac5bbc0786910c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-351a3d058688870beac5bbc0786910c6]
+## 1. Citation and commencement[^c-351a3d058688870beac5bbc0786910c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Listed Directive and Specified Law[^key-351a3d058688870beac5bbc0786910c6]
+## 2. Listed Directive and Specified Law[^c-351a3d058688870beac5bbc0786910c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-351a3d058688870beac5bbc0786910c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-351a3d058688870beac5bbc0786910c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — LISTED DIRECTIVE[^key-351a3d058688870beac5bbc0786910c6]
+## SCHEDULE — LISTED DIRECTIVE[^c-351a3d058688870beac5bbc0786910c6]
 
 Article 2
 
@@ -70,8 +70,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-351a3d058688870beac5bbc0786910c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-351a3d058688870beac5bbc0786910c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-351a3d058688870beac5bbc0786910c6]: Textual amendment: Order revoked (27.11.2014) by [The Enterprise Act 2002 (Part 8 EU Infringements) Order 2014 (S.I. 2014/2908)](https://www.legislation.gov.uk/uksi/2014/2908), [art. 2](https://www.legislation.gov.uk/uksi/2014/2908/article/2)
+[^c-351a3d058688870beac5bbc0786910c6]: Textual amendment: Order revoked (27.11.2014) by [The Enterprise Act 2002 (Part 8 EU Infringements) Order 2014 (S.I. 2014/2908)](https://www.legislation.gov.uk/uksi/2014/2908), [art. 2](https://www.legislation.gov.uk/uksi/2014/2908/article/2)

@@ -29,7 +29,7 @@ summary: ''
   - (i) performance of the duties of the employment or office, or
   - (ii) war injuries.
 
-    But “**disablement pension**” does not include any pension to which section 579A[^key-7c62be359ae326ac679bf62bc9d37294] applies.
+    But “**disablement pension**” does not include any pension to which section 579A[^c-7c62be359ae326ac679bf62bc9d37294] applies.
 
 (3) The exempt amount of a disablement pension is determined in accordance with the following steps.
 
@@ -54,4 +54,4 @@ In any other case, the exempt amount is nil.
 
 ## Annotations
 
-[^key-7c62be359ae326ac679bf62bc9d37294]: Textual amendment: Word in s. 644(2) substituted (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1), [Sch. 31 para. 13](https://www.legislation.gov.uk/ukpga/2004/12/schedule/31/paragraph/13) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-7c62be359ae326ac679bf62bc9d37294]: Textual amendment: Word in s. 644(2) substituted (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1), [Sch. 31 para. 13](https://www.legislation.gov.uk/ukpga/2004/12/schedule/31/paragraph/13) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))

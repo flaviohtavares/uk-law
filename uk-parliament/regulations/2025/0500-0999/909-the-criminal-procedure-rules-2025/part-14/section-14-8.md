@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14.8. Defendant’s application or appeal to the Crown Court after magistrates’ court bail decision[^key-035e94172e09351b6f8b7583379d0323]
+## 14.8. Defendant’s application or appeal to the Crown Court after magistrates’ court bail decision[^c-035e94172e09351b6f8b7583379d0323]
 
 *Extent: E+W*
 
@@ -76,7 +76,7 @@ summary: ''
 
 ## Annotations
 
-[^key-035e94172e09351b6f8b7583379d0323]: Commencement: [Rule 14.8](https://www.legislation.gov.uk/uksi/2025/909/rule/14.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-035e94172e09351b6f8b7583379d0323]: Commencement: [Rule 14.8](https://www.legislation.gov.uk/uksi/2025/909/rule/14.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00363]: Footnote: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54); section 81(1) was amended by sections 29 and 60 of the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), section 15 of, and paragraph 2 of Schedule 12 to, the Criminal Justice Act [1987 (c. 38)](https://www.legislation.gov.uk/ukpga/1987/38), section 168 of, and paragraph 19 of Schedule 9 and paragraph 48 of Schedule 10 to, the Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33), section 119 of, and paragraph 48 of Schedule 8 and Schedule 10 to, the Crime and Disorder Act [1998 (c. 37)](https://www.legislation.gov.uk/ukpga/1998/37), section 165 of, and paragraph 87 of Schedule 9 and Schedule 12 to, the Powers of Criminal Courts (Sentencing) Act [2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6), paragraph 54 of Schedule 3, paragraph 4 of Schedule 36 and Part 4 of Schedule 37 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), articles 2 and 6 of [S.I. 2004/1033](https://www.legislation.gov.uk/uksi/2004/1033) and section 177(1) of, and paragraph 76 of Schedule 21 to, the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25).
 

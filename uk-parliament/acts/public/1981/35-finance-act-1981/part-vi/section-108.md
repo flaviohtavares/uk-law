@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Shared ownership transactions.[^key-c73cb9c36697d8336448df007316c10e]
+## 108. Shared ownership transactions.[^c-c73cb9c36697d8336448df007316c10e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c73cb9c36697d8336448df007316c10e]: Textual amendment: [S. 108](https://www.legislation.gov.uk/ukpga/1981/35/section/108) repealed (with effect in accordance with Sch. 39 para. 10(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 3(1)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/3/1/b) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
+[^c-c73cb9c36697d8336448df007316c10e]: Textual amendment: [S. 108](https://www.legislation.gov.uk/ukpga/1981/35/section/108) repealed (with effect in accordance with Sch. 39 para. 10(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 3(1)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/3/1/b) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))

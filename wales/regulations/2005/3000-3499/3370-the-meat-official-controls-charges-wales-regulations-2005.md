@@ -41,11 +41,11 @@ Coming into force
 
 The National Assembly for Wales, being designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to food (including drink) including the primary production of food, in exercise of the powers conferred by that section, after open and transparent public consultation during the preparation of these Regulations as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003], makes the following Regulations:
 
-## 1. Title, commencement and application[^key-ee446bb4f07a5cc6c5d17ea054834c48]
+## 1. Title, commencement and application[^c-ee446bb4f07a5cc6c5d17ea054834c48]
 
 The title of these Regulations is the Meat (Official Controls) (Charges) (Wales) Regulations 2005, they come into force on 1 January 2006, and apply in relation to Wales.
 
-## 2. Interpretation[^key-7abd27e77aba6ebb7b3d4dbfa21e52fc]
+## 2. Interpretation[^c-7abd27e77aba6ebb7b3d4dbfa21e52fc]
 
 (1) In these Regulations—
 
@@ -83,7 +83,7 @@ The title of these Regulations is the Meat (Official Controls) (Charges) (Wales)
   - (b) (although lacking the approval or conditional approval that it requires under Article 4.3 of Regulation 853/2004) was, on 31 December 2005, operating as a licensed slaughterhouse under the Fresh Meat (Hygiene and Inspection) Regulations 1995 or the Poultry Meat, Farmed Game Bird Meat and Rabbit Meat (Hygiene and Inspection) Regulations 1995; and
 - “verification” (“*gwirhad*”) means checking, by examination and the provision of objective evidence.
 
-## 3. Charges[^key-7690a51a3857056bd5eee20288999397]
+## 3. Charges[^c-7690a51a3857056bd5eee20288999397]
 
 (1) The Agency must, subject to the following provisions of this regulation, notify the operator of each slaughterhouse, game-handling establishment and cutting plant in which official controls have been exercised in any accounting period of an official controls charge in respect of those official controls as soon as possible after the end of that period.
 
@@ -100,11 +100,11 @@ The title of these Regulations is the Meat (Official Controls) (Charges) (Wales)
 
 (6) Where under paragraph (3)(b) a sum is to be credited to an operator, the Agency may if it so determines pay such sum to the operator concerned instead of crediting it to the operator.
 
-## 4. Withdrawal of official controls[^key-a9dde75ffee5d4cdf6195f52d18c40c4]
+## 4. Withdrawal of official controls[^c-a9dde75ffee5d4cdf6195f52d18c40c4]
 
 Where the Agency has had judgment entered against an operator of any premises for any sum which is payable under regulation 3(4) and the operator fails within a reasonable time thereafter to satisfy the judgment, the Agency may (regardless of any other legal remedy open to it) refuse to exercise any further official controls at those premises until the judgment has been satisfied.
 
-## 5. Information[^key-263de26b0fb54eec206c271a2b710fb7]
+## 5. Information[^c-263de26b0fb54eec206c271a2b710fb7]
 
 (1) Any person must on demand being made by the Agency, supply—
 
@@ -118,7 +118,7 @@ Where the Agency has had judgment entered against an operator of any premises fo
 
 is guilty of an offence and will be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-## 6. Revocation[^key-acb9acd80d2cda8c813502e145bad5ea]
+## 6. Revocation[^c-acb9acd80d2cda8c813502e145bad5ea]
 
 The Meat (Hygiene and Inspection) (Charges) Regulations 1998[^f00009] are revoked.
 
@@ -130,11 +130,11 @@ The Presiding Officer of the National Assembly
 
 6 December 2005
 
-## SCHEDULE 1 — DEFINITIONS OF COMMUNITY LEGISLATION[^key-99fbab2f190b8278c4c24426fc82a5df]
+## SCHEDULE 1 — DEFINITIONS OF COMMUNITY LEGISLATION[^c-99fbab2f190b8278c4c24426fc82a5df]
 
 Regulation 2(1)
 
-[^key-99fbab2f190b8278c4c24426fc82a5df]
+[^c-99fbab2f190b8278c4c24426fc82a5df]
 
 - “Directive 2004/41” (“*Cyfarwyddeb 2004/41*”) means Directive [2004/41/EC](https://www.legislation.gov.uk/european/directive/2004/0041) of the European Parliament and of the Council repealing certain directives concerning food hygiene and health conditions for the production and placing on the market of certain products of animal origin intended for human consumption and amending Council Directives [89/662/EEC](https://www.legislation.gov.uk/european/directive/1989/0662) and [92/118/EEC](https://www.legislation.gov.uk/european/directive/1992/0118) and Council Decision [95/408/EC](https://www.legislation.gov.uk/european/decision/1995/0408)[^f00011];
 - “Regulation 178/2002” (“*Rheoliad 178/2002*”) means Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety as last amended by Regulation [(EC) No. 1642/2003](https://www.legislation.gov.uk/european/regulation/2003/1642) of the European Parliament and of the Council amending Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety;
@@ -152,7 +152,7 @@ Regulation 2(1)
 
 Regulation 2(1)
 
-### 1. The official controls charge[^key-146aa7b67d19a78a2785c5ece84102f4]
+### 1. The official controls charge[^c-146aa7b67d19a78a2785c5ece84102f4]
 
 Subject to paragraphs (2) and (3), the official controls charge payable by the operator of any premises for any accounting period is the lower of—
 
@@ -161,13 +161,13 @@ Subject to paragraphs (2) and (3), the official controls charge payable by the o
   - (ii) any additional charge incurred in relation to those premises for that period by virtue of paragraph 8; and
 - (b) the time costs generated by those premises for that period.
 
-**2.**[^key-62434b33948601e0c9fb42d0f9a6a1a3] (1) This paragraph applies where the official controls charge calculated under paragraph 1 for any accounting period (amount A), when added to the official controls charge payable in respect of all earlier accounting periods falling within the same financial period (amount B), produces a total (amount C) which is greater than the amount of the official controls charge which would be payable under paragraph 1 if those accounting periods were one accounting period (amount D).
+**2.**[^c-62434b33948601e0c9fb42d0f9a6a1a3] (1) This paragraph applies where the official controls charge calculated under paragraph 1 for any accounting period (amount A), when added to the official controls charge payable in respect of all earlier accounting periods falling within the same financial period (amount B), produces a total (amount C) which is greater than the amount of the official controls charge which would be payable under paragraph 1 if those accounting periods were one accounting period (amount D).
 
 (2) Where this paragraph applies, the official controls charge payable by an operator for an accounting period is the amount by which amount D exceeds amount B.
 
 (3) In this paragraph “financial period” means a period commencing on the Monday immediately following the last Sunday in March in any year and ending on the last Sunday in March in the following year.
 
-**3.**[^key-9297be602727a99f8cfea00530f93c9a] The official controls charge payable by the operator of a slaughterhouse, game-handling establishment or cutting plant for any accounting period will not be lower than 45% of the standard charge incurred in relation to those premises for that period.
+**3.**[^c-9297be602727a99f8cfea00530f93c9a] The official controls charge payable by the operator of a slaughterhouse, game-handling establishment or cutting plant for any accounting period will not be lower than 45% of the standard charge incurred in relation to those premises for that period.
 
 | Species | Type | Rate per type of animal in Euros |
 | --- | --- | --- |
@@ -185,17 +185,17 @@ Subject to paragraphs (2) and (3), the official controls charge payable by the o
 | Ostriches and other ratites |  | 1.3 |
 | Land mammals and birds of a type not mentioned above |  | 1.3 |
 
-### 4. The standard charge[^key-a7404ad23bcccd608fb244185f637392]
+### 4. The standard charge[^c-a7404ad23bcccd608fb244185f637392]
 
 The standard charge for any accounting period (expressed in Euros) payable by the operator of a slaughterhouse, is calculated by multiplying the rate given in the following Table applicable to animals of a particular type by the number of animals of that type slaughtered or as the case may be dressed there in the period.
 
-**5.**[^key-5cea792cbae7caaa19255ab811ef9c97] The standard charge for an accounting period (expressed in Euros) payable by the operator of a game-handling establishment in respect of wild game dressed there during that period will be calculated by multiplying the rate given in the following Table applicable to animals of a particular type by the number of animals of that type dressed there in the period.
+**5.**[^c-5cea792cbae7caaa19255ab811ef9c97] The standard charge for an accounting period (expressed in Euros) payable by the operator of a game-handling establishment in respect of wild game dressed there during that period will be calculated by multiplying the rate given in the following Table applicable to animals of a particular type by the number of animals of that type dressed there in the period.
 
-**6.**[^key-eaed2573f93e2ffdcb7eb576fc7da693] The standard charge for any accounting period (expressed in Euros) payable by the operator of a cutting plant or game-handling establishment will be calculated by multiplying by 3 the number of tonnes of meat brought into the plant or establishment concerned during that period to be cut up or boned there.
+**6.**[^c-eaed2573f93e2ffdcb7eb576fc7da693] The standard charge for any accounting period (expressed in Euros) payable by the operator of a cutting plant or game-handling establishment will be calculated by multiplying by 3 the number of tonnes of meat brought into the plant or establishment concerned during that period to be cut up or boned there.
 
-**7.**[^key-447c748d124f211bb8516583dc91b6c3] The standard charge (expressed in Euros) will be converted into sterling by multiplying it by the Euro / sterling conversion rate applicable in the year the inspection was carried out.
+**7.**[^c-447c748d124f211bb8516583dc91b6c3] The standard charge (expressed in Euros) will be converted into sterling by multiplying it by the Euro / sterling conversion rate applicable in the year the inspection was carried out.
 
-**8.**[^key-0f07caf65073e254cd22dc6da5371fd4] (1) Where in respect of an accounting period the Agency incurs increased costs because of inefficiency in the operation of premises, it may, in accordance with this paragraph, add an additional charge to the standard charge incurred in relation to the premises for that period.
+**8.**[^c-0f07caf65073e254cd22dc6da5371fd4] (1) Where in respect of an accounting period the Agency incurs increased costs because of inefficiency in the operation of premises, it may, in accordance with this paragraph, add an additional charge to the standard charge incurred in relation to the premises for that period.
 
 (2) The additional charge will be a sum equal to the time costs generated by the inefficiency for the accounting period concerned.
 
@@ -221,7 +221,7 @@ The standard charge for any accounting period (expressed in Euros) payable by th
 
 (9) No additional charge may be made in accordance with this paragraph in respect of any increased costs incurred because of any variation in working hours or working practices which does not alter the working hours or working practices which have been agreed in accordance with sub-paragraph (6).
 
-**9.**[^key-048ab5f73ab440ee94b0de1523a88002] (1) An operator who does not agree that an additional charge is justified under paragraph 8 may request that the question be determined by a person nominated for the purpose pursuant to sub-paragraph (3)(a).
+**9.**[^c-048ab5f73ab440ee94b0de1523a88002] (1) An operator who does not agree that an additional charge is justified under paragraph 8 may request that the question be determined by a person nominated for the purpose pursuant to sub-paragraph (3)(a).
 
 (2) A request under sub-paragraph (1) must be made within 1 week of the Agency giving the operator notice under paragraph 8(3).
 
@@ -233,7 +233,7 @@ The standard charge for any accounting period (expressed in Euros) payable by th
 
 (4) The Agency must establish and maintain a list of people who may be nominated for the purposes of this paragraph and must consult those organisations appearing to represent operators before including any person on the list.
 
-### 10. Time costs[^key-a560e17a15f288c6ad1f662b5d8df582]
+### 10. Time costs[^c-a560e17a15f288c6ad1f662b5d8df582]
 
 The time costs generated by any premises in any accounting period will (subject to paragraphs 11 and 12) be calculated by—
 
@@ -241,9 +241,9 @@ The time costs generated by any premises in any accounting period will (subject 
 - (b) adding the results together; and
 - (c) adding any agreed slaughterhouse staff costs for the period.
 
-**11.**[^key-10e79fcc3c610384f451baa68fc1e865] The time costs in respect of any official controls must include any overtime payments or other similar allowances made to the inspector concerned under his or her contract of employment or contract for services for exercising those official controls.
+**11.**[^c-10e79fcc3c610384f451baa68fc1e865] The time costs in respect of any official controls must include any overtime payments or other similar allowances made to the inspector concerned under his or her contract of employment or contract for services for exercising those official controls.
 
-**12.**[^key-625e3882f2e065475104562e2178c184] In determining the total time spent in exercising official controls, any time spent by an inspector—
+**12.**[^c-625e3882f2e065475104562e2178c184] In determining the total time spent in exercising official controls, any time spent by an inspector—
 
 - (a) travelling to or from premises at which the inspector exercises official controls and for which he or she is paid under a contract of employment or contract for services;
 - (b) at any premises to which the inspector has gone for the purpose of exercising official controls and for which he or she is paid under a contract of employment or contract for services (regardless of whether or not the inspector is able to exercise official controls there); and
@@ -253,14 +253,14 @@ The time costs generated by any premises in any accounting period will (subject 
 
   must be counted as if it were time when the inspector was exercising official controls.
 
-**13.**[^key-e7129f4e3562ac9155a8d668a22c17af] The Agency must determine the hourly rate applicable to inspectors, and may determine different rates for different inspectors or different classes of inspector, having regard to the level of qualifications and experience of different inspectors or classes of inspector and to the cost of exercising official controls in respect of different inspectors or classes of inspector.
+**13.**[^c-e7129f4e3562ac9155a8d668a22c17af] The Agency must determine the hourly rate applicable to inspectors, and may determine different rates for different inspectors or different classes of inspector, having regard to the level of qualifications and experience of different inspectors or classes of inspector and to the cost of exercising official controls in respect of different inspectors or classes of inspector.
 
-**14.**[^key-260338c1641b405c78312c73787a1f82] The hourly rate for any inspector or class of inspector must be calculated so as to reflect—
+**14.**[^c-260338c1641b405c78312c73787a1f82] The hourly rate for any inspector or class of inspector must be calculated so as to reflect—
 
 - (a) the mean salary costs and fees (including pension and employers' National Insurance contributions, but excluding any additional costs taken into account pursuant to paragraph 11) and other costs of the exercise of official controls by that inspector or that class of inspector; and
 - (b) such proportion of the administrative costs of the exercise of official controls as the Agency considers it proper to apportion to that hourly rate.
 
-**15.**[^key-cc283502874010dbe8d6b7f56b5c6a4d] For the purposes of paragraph 14(b), “administrative costs” means all costs reasonably incurred in exercising official controls including in particular the costs of—
+**15.**[^c-cc283502874010dbe8d6b7f56b5c6a4d] For the purposes of paragraph 14(b), “administrative costs” means all costs reasonably incurred in exercising official controls including in particular the costs of—
 
 - (a) post-qualification training given to inspectors of a particular class in relation to the performance of their functions as a member of that class;
 - (b) the salaries (including the cost of overtime, employers' National Insurance contributions and superannuation contributions) of the staff other than inspectors engaged in the exercise of official controls, and such proportion of inspectors' remuneration as is not directly accounted for in the calculation of time costs;
@@ -271,11 +271,11 @@ The time costs generated by any premises in any accounting period will (subject 
   - (i) inspectors exercising official controls, and
   - (ii) other staff engaged in the administration of those controls.
 
-**16.**[^key-9852384c107ac76cb12bd368d2b2f469] The Agency may vary any rate determined pursuant to paragraph 13 where, having regard to the factors set out in paragraphs 14 and 15, it appears to it to be necessary to do so.
+**16.**[^c-9852384c107ac76cb12bd368d2b2f469] The Agency may vary any rate determined pursuant to paragraph 13 where, having regard to the factors set out in paragraphs 14 and 15, it appears to it to be necessary to do so.
 
-**17.**[^key-68e4f5f6ed94b3c9819a24cc2026244c] Prior to determining or varying hourly rates in accordance with paragraphs 13 to 16, the Agency must consult such operators as are likely to be affected by those rates.
+**17.**[^c-68e4f5f6ed94b3c9819a24cc2026244c] Prior to determining or varying hourly rates in accordance with paragraphs 13 to 16, the Agency must consult such operators as are likely to be affected by those rates.
 
-### 18. Definitions[^key-003eba2aee57533b5534db113e700697]
+### 18. Definitions[^c-003eba2aee57533b5534db113e700697]
 
 (1) In this Schedule—
 
@@ -325,9 +325,9 @@ The time costs generated by any premises in any accounting period will (subject 
 
 [^f00003]: Footnote: OJ No. L31, 1.2.2002, p.1. That Regulation was last amended by Regulation [(EC) No. 1642/2003](https://www.legislation.gov.uk/european/regulation/2003/1642) of the European Parliament and of the Council (OJ No. L245, 29.9.2003, p.4).
 
-[^key-ee446bb4f07a5cc6c5d17ea054834c48]: Commencement: Reg. 1 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
+[^c-ee446bb4f07a5cc6c5d17ea054834c48]: Commencement: Reg. 1 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
 
-[^key-7abd27e77aba6ebb7b3d4dbfa21e52fc]: Commencement: Reg. 2 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
+[^c-7abd27e77aba6ebb7b3d4dbfa21e52fc]: Commencement: Reg. 2 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
 
 [^f00004]: Footnote: S.I. [1995/539](https://www.legislation.gov.uk/uksi/1995/539), revoked with effect from 1st January 2006 by S.I. [2005/2059](https://www.legislation.gov.uk/uksi/2005/2059)
 
@@ -339,19 +339,19 @@ The time costs generated by any premises in any accounting period will (subject 
 
 [^f00008]: Footnote: S.I. [1995/731](https://www.legislation.gov.uk/uksi/1995/731).
 
-[^key-7690a51a3857056bd5eee20288999397]: Commencement: Reg. 3 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
+[^c-7690a51a3857056bd5eee20288999397]: Commencement: Reg. 3 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
 
-[^key-a9dde75ffee5d4cdf6195f52d18c40c4]: Commencement: Reg. 4 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
+[^c-a9dde75ffee5d4cdf6195f52d18c40c4]: Commencement: Reg. 4 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
 
-[^key-263de26b0fb54eec206c271a2b710fb7]: Commencement: Reg. 5 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
+[^c-263de26b0fb54eec206c271a2b710fb7]: Commencement: Reg. 5 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
 
-[^key-acb9acd80d2cda8c813502e145bad5ea]: Commencement: Reg. 6 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
+[^c-acb9acd80d2cda8c813502e145bad5ea]: Commencement: Reg. 6 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
 
 [^f00009]: Footnote: S.I. [1998/2095](https://www.legislation.gov.uk/uksi/1998/2095), amended by S.I. [2000/656](https://www.legislation.gov.uk/uksi/2000/656), S.I. [2001/1302 (W.79)](https://www.legislation.gov.uk/wsi/2001/1302) and S.I. [2001/3831 (W.317)](https://www.legislation.gov.uk/wsi/2001/3831).
 
 [^f00010]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-99fbab2f190b8278c4c24426fc82a5df]: Commencement: Sch. 1 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
+[^c-99fbab2f190b8278c4c24426fc82a5df]: Commencement: Sch. 1 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
 
 [^f00011]: Footnote: OJ No. L157, 30.4.2004, p.33. The revised text of Directive [2004/41/EC](https://www.legislation.gov.uk/european/directive/2004/0041) is now set out in a Corrigendum (OJ No. L195, 2.6.2004, p.12).
 
@@ -363,40 +363,40 @@ The time costs generated by any premises in any accounting period will (subject 
 
 [^f00015]: Footnote: OJ No. L165, 30.4.2004, p.1. The revised text of Regulation [(EC) No. 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882) is now set out in a Corrigendum (OJ No. L191, 28.5.2004, p.1).
 
-[^key-146aa7b67d19a78a2785c5ece84102f4]: Commencement: Sch. 2 para. 1 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
+[^c-146aa7b67d19a78a2785c5ece84102f4]: Commencement: Sch. 2 para. 1 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
 
-[^key-62434b33948601e0c9fb42d0f9a6a1a3]: Commencement: Sch. 2 para. 2 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
+[^c-62434b33948601e0c9fb42d0f9a6a1a3]: Commencement: Sch. 2 para. 2 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
 
-[^key-9297be602727a99f8cfea00530f93c9a]: Commencement: Sch. 2 para. 3 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
+[^c-9297be602727a99f8cfea00530f93c9a]: Commencement: Sch. 2 para. 3 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
 
-[^key-a7404ad23bcccd608fb244185f637392]: Commencement: Sch. 2 para. 4 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
+[^c-a7404ad23bcccd608fb244185f637392]: Commencement: Sch. 2 para. 4 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
 
-[^key-5cea792cbae7caaa19255ab811ef9c97]: Commencement: Sch. 2 para. 5 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
+[^c-5cea792cbae7caaa19255ab811ef9c97]: Commencement: Sch. 2 para. 5 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
 
-[^key-eaed2573f93e2ffdcb7eb576fc7da693]: Commencement: Sch. 2 para. 6 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
+[^c-eaed2573f93e2ffdcb7eb576fc7da693]: Commencement: Sch. 2 para. 6 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
 
-[^key-447c748d124f211bb8516583dc91b6c3]: Commencement: Sch. 2 para. 7 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
+[^c-447c748d124f211bb8516583dc91b6c3]: Commencement: Sch. 2 para. 7 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
 
-[^key-0f07caf65073e254cd22dc6da5371fd4]: Commencement: Sch. 2 para. 8 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
+[^c-0f07caf65073e254cd22dc6da5371fd4]: Commencement: Sch. 2 para. 8 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
 
-[^key-048ab5f73ab440ee94b0de1523a88002]: Commencement: Sch. 2 para. 9 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
+[^c-048ab5f73ab440ee94b0de1523a88002]: Commencement: Sch. 2 para. 9 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
 
-[^key-a560e17a15f288c6ad1f662b5d8df582]: Commencement: Sch. 2 para. 10 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
+[^c-a560e17a15f288c6ad1f662b5d8df582]: Commencement: Sch. 2 para. 10 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
 
-[^key-10e79fcc3c610384f451baa68fc1e865]: Commencement: Sch. 2 para. 11 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
+[^c-10e79fcc3c610384f451baa68fc1e865]: Commencement: Sch. 2 para. 11 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
 
-[^key-625e3882f2e065475104562e2178c184]: Commencement: Sch. 2 para. 12 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
+[^c-625e3882f2e065475104562e2178c184]: Commencement: Sch. 2 para. 12 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
 
-[^key-e7129f4e3562ac9155a8d668a22c17af]: Commencement: Sch. 2 para. 13 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
+[^c-e7129f4e3562ac9155a8d668a22c17af]: Commencement: Sch. 2 para. 13 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
 
-[^key-260338c1641b405c78312c73787a1f82]: Commencement: Sch. 2 para. 14 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
+[^c-260338c1641b405c78312c73787a1f82]: Commencement: Sch. 2 para. 14 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
 
-[^key-cc283502874010dbe8d6b7f56b5c6a4d]: Commencement: Sch. 2 para. 15 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
+[^c-cc283502874010dbe8d6b7f56b5c6a4d]: Commencement: Sch. 2 para. 15 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
 
-[^key-9852384c107ac76cb12bd368d2b2f469]: Commencement: Sch. 2 para. 16 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
+[^c-9852384c107ac76cb12bd368d2b2f469]: Commencement: Sch. 2 para. 16 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
 
-[^key-68e4f5f6ed94b3c9819a24cc2026244c]: Commencement: Sch. 2 para. 17 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
+[^c-68e4f5f6ed94b3c9819a24cc2026244c]: Commencement: Sch. 2 para. 17 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
 
-[^key-003eba2aee57533b5534db113e700697]: Commencement: Sch. 2 para. 18 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
+[^c-003eba2aee57533b5534db113e700697]: Commencement: Sch. 2 para. 18 in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3370/regulation/1)
 
 [^f00016]: Footnote: The text of Council Directive [85/73/EEC](https://www.legislation.gov.uk/european/directive/1985/0073) is annexed to Council Directive [96/43/EC](https://www.legislation.gov.uk/european/directive/1996/0043) at OJ No. L162, 1.7.96, p.1. Council Directive [85/73/EEC](https://www.legislation.gov.uk/european/directive/1985/0073) has been modified by Directive [2004/41/EC](https://www.legislation.gov.uk/european/directive/2004/0041) of the European Parliament and of the Council (OJ No. L157, 30.4.2004, p.33); the revised text of Directive [2004/41/EC](https://www.legislation.gov.uk/european/directive/2004/0041) is now set out in a Corrigendum (OJ No. L195, 2.6.2004, p.12).

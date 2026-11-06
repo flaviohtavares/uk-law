@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 444B. Penalty notices: supplemental[^key-653cae3f1bdc21ea24b664c89ef350a0][^key-7732020b28ab4d8ca20ab043645912a3]
+## 444B. Penalty notices: supplemental[^c-653cae3f1bdc21ea24b664c89ef350a0][^c-7732020b28ab4d8ca20ab043645912a3]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) provision as to the form and content of penalty notices,
 - (b) provision as to the monetary amount of any penalty and the time by which it is to be paid,
-- (c) provision for determining the local authority[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] to which a penalty is payable,
+- (c) provision for determining the local authority[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] to which a penalty is payable,
 - (d) provision as to the methods by which penalties may be paid,
 - (e) provision as to the records which are to be kept in relation to penalty notices,
 - (f) provision as to the persons who may be authorised by a local authority or a head teacher to give penalty notices,
@@ -43,7 +43,7 @@ summary: ''
 
 (2) Without prejudice to the generality of subsection (1) or section 569(4), regulations under subsection (1)(b) may make provision for penalties of different amounts to be payable in different cases or circumstances (including provision for the penalty payable under a penalty notice to differ according to the time by which it is paid).
 
-(3) Local authorities[^key-df82d42709314c7296748c08b3554faa], head teachers and authorised officers shall, in carrying out their functions in relation to penalty notices, have regard to any guidance which is published by the Secretary of State from time to time in relation to penalty notices.
+(3) Local authorities[^c-df82d42709314c7296748c08b3554faa], head teachers and authorised officers shall, in carrying out their functions in relation to penalty notices, have regard to any guidance which is published by the Secretary of State from time to time in relation to penalty notices.
 
 (4) In this section and section 444A—
 
@@ -59,20 +59,20 @@ summary: ''
 - “**relevant school**” means—
   - (a) a maintained school,
   - (b) a pupil referral unit,
-  - (c) an Academy school,[^key-66bfbdb1770e58528348ac63ee8f5cc4]
+  - (c) an Academy school,[^c-66bfbdb1770e58528348ac63ee8f5cc4]
   - (ca) an alternative provision Academy,
   - (d) a city technology college, or
   - (e) a city college for the technology of the arts.
 
 ## Annotations
 
-[^key-653cae3f1bdc21ea24b664c89ef350a0]: Textual amendment: Ss. 444A, 444B inserted (E.W.) (27.2.2004) by [Anti-social Behaviour Act 2003 (c. 38)](https://www.legislation.gov.uk/ukpga/2003/38), [ss. 23(1)](https://www.legislation.gov.uk/ukpga/2003/38/section/23/1), [93](https://www.legislation.gov.uk/ukpga/2003/38/section/93); [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2003/3300/article/3/a/ii)
+[^c-653cae3f1bdc21ea24b664c89ef350a0]: Textual amendment: Ss. 444A, 444B inserted (E.W.) (27.2.2004) by [Anti-social Behaviour Act 2003 (c. 38)](https://www.legislation.gov.uk/ukpga/2003/38), [ss. 23(1)](https://www.legislation.gov.uk/ukpga/2003/38/section/23/1), [93](https://www.legislation.gov.uk/ukpga/2003/38/section/93); [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2003/3300/article/3/a/ii)
 
-[^key-7732020b28ab4d8ca20ab043645912a3]: Modification: S. 444B: power to amend conferred (27.2.2004) by [Anti-social Behaviour Act 2003 (c. 38)](https://www.legislation.gov.uk/ukpga/2003/38), [ss. 23(9)](https://www.legislation.gov.uk/ukpga/2003/38/section/23/9), [93](https://www.legislation.gov.uk/ukpga/2003/38/section/93); [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2003/3300/article/3/a/ii)
+[^c-7732020b28ab4d8ca20ab043645912a3]: Modification: S. 444B: power to amend conferred (27.2.2004) by [Anti-social Behaviour Act 2003 (c. 38)](https://www.legislation.gov.uk/ukpga/2003/38), [ss. 23(9)](https://www.legislation.gov.uk/ukpga/2003/38/section/23/9), [93](https://www.legislation.gov.uk/ukpga/2003/38/section/93); [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2003/3300/article/3/a/ii)
 
-[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
 
-[^key-df82d42709314c7296748c08b3554faa]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/3) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-df82d42709314c7296748c08b3554faa]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/3) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
 
 [^M_F_1fe5b9e6-f520-4cb8-90e6-90c336b4789f]: Textual amendment: Words in s. 444B removed (3.7.2013) by [The Anti-Social Behaviour Act 2003 (Amendment to the Education Act 1996) (Wales) Order 2013 (S.I. 2013/1657)](https://www.legislation.gov.uk/wsi/2013/1657), [arts. 1](https://www.legislation.gov.uk/wsi/2013/1657/article/1), [2(1)](https://www.legislation.gov.uk/wsi/2013/1657/article/2/1)
 
@@ -80,4 +80,4 @@ summary: ''
 
 [^M_F_05be5ae9-752d-409b-f613-077be584468c]: Textual amendment: Words in s. 444B removed (3.7.2013) by [The Anti-Social Behaviour Act 2003 (Amendment to the Education Act 1996) (Wales) Order 2013 (S.I. 2013/1657)](https://www.legislation.gov.uk/wsi/2013/1657), [arts. 1](https://www.legislation.gov.uk/wsi/2013/1657/article/1), [2(1)](https://www.legislation.gov.uk/wsi/2013/1657/article/2/1)
 
-[^key-66bfbdb1770e58528348ac63ee8f5cc4]: Textual amendment: Words in s. 444B(4) substituted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 13 para. 9(9)](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/9/9); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-66bfbdb1770e58528348ac63ee8f5cc4]: Textual amendment: Words in s. 444B(4) substituted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 13 para. 9(9)](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/9/9); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Information-gathering powers[^key-af9a33053ea1eacc9f20b9328e1ff96b][^key-0c872d2418aa2684d92d083147fec5a8]
+## 67. Information-gathering powers[^c-af9a33053ea1eacc9f20b9328e1ff96b][^c-0c872d2418aa2684d92d083147fec5a8]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-af9a33053ea1eacc9f20b9328e1ff96b]: Commencement: S. 67 in force at Royal Assent for specified purposes, see [s. 91(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/b)
+[^c-af9a33053ea1eacc9f20b9328e1ff96b]: Commencement: S. 67 in force at Royal Assent for specified purposes, see [s. 91(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/b)
 
-[^key-0c872d2418aa2684d92d083147fec5a8]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2022/23/section/67) in force at 4.1.2023 in so far as not already in force by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-0c872d2418aa2684d92d083147fec5a8]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2022/23/section/67) in force at 4.1.2023 in so far as not already in force by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

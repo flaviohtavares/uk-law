@@ -32,7 +32,7 @@ summary: ''
 
 Infrastructure Planning
 
-The Localism Act 2011(Infrastructure Planning) (Consequential Amendments) Regulations 2012 (revoked)[^key-7ca597e28727e4c6fb437fa68ae8cd05]
+The Localism Act 2011(Infrastructure Planning) (Consequential Amendments) Regulations 2012 (revoked)[^c-7ca597e28727e4c6fb437fa68ae8cd05]
 
 Made
 
@@ -46,60 +46,60 @@ Coming into force
 
 1st April 2012
 
-[^key-7ca597e28727e4c6fb437fa68ae8cd05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ca597e28727e4c6fb437fa68ae8cd05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-7ca597e28727e4c6fb437fa68ae8cd05]
+## 1. Citation, commencement and extent[^c-7ca597e28727e4c6fb437fa68ae8cd05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Infrastructure Planning (Environmental Impact Assessment) Regulations 2009[^key-7ca597e28727e4c6fb437fa68ae8cd05]
+## 2. Amendments to the Infrastructure Planning (Environmental Impact Assessment) Regulations 2009[^c-7ca597e28727e4c6fb437fa68ae8cd05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Infrastructure Planning (Applications: Prescribed Forms and Procedure) Regulations 2009[^key-7ca597e28727e4c6fb437fa68ae8cd05]
+## 3. Amendments to the Infrastructure Planning (Applications: Prescribed Forms and Procedure) Regulations 2009[^c-7ca597e28727e4c6fb437fa68ae8cd05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## .... Amendments to the Infrastructure Planning (Interested Parties) Regulations 2010[^key-7ca597e28727e4c6fb437fa68ae8cd05]
+## .... Amendments to the Infrastructure Planning (Interested Parties) Regulations 2010[^c-7ca597e28727e4c6fb437fa68ae8cd05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments to the Infrastructure Planning (Examination Procedure) Rules 2010[^key-7ca597e28727e4c6fb437fa68ae8cd05]
+## 5. Amendments to the Infrastructure Planning (Examination Procedure) Rules 2010[^c-7ca597e28727e4c6fb437fa68ae8cd05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendments to the Infrastructure Planning (Compulsory Acquisition) Regulations 2010[^key-7ca597e28727e4c6fb437fa68ae8cd05]
+## 6. Amendments to the Infrastructure Planning (Compulsory Acquisition) Regulations 2010[^c-7ca597e28727e4c6fb437fa68ae8cd05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendments to the Infrastructure Planning (Fees) Regulations 2010[^key-7ca597e28727e4c6fb437fa68ae8cd05]
+## 7. Amendments to the Infrastructure Planning (Fees) Regulations 2010[^c-7ca597e28727e4c6fb437fa68ae8cd05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendments to the Infrastructure Planning (Decisions) Regulations 2010[^key-7ca597e28727e4c6fb437fa68ae8cd05]
+## 8. Amendments to the Infrastructure Planning (Decisions) Regulations 2010[^c-7ca597e28727e4c6fb437fa68ae8cd05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendments to the Conservation of Habitats and Species Regulations 2010[^key-7ca597e28727e4c6fb437fa68ae8cd05]
+## 9. Amendments to the Conservation of Habitats and Species Regulations 2010[^c-7ca597e28727e4c6fb437fa68ae8cd05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendments to the Community Infrastructure Levy Regulations 2010[^key-7ca597e28727e4c6fb437fa68ae8cd05]
+## 10. Amendments to the Community Infrastructure Levy Regulations 2010[^c-7ca597e28727e4c6fb437fa68ae8cd05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendments to the Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011[^key-7ca597e28727e4c6fb437fa68ae8cd05]
+## 11. Amendments to the Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011[^c-7ca597e28727e4c6fb437fa68ae8cd05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7ca597e28727e4c6fb437fa68ae8cd05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ca597e28727e4c6fb437fa68ae8cd05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7ca597e28727e4c6fb437fa68ae8cd05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ca597e28727e4c6fb437fa68ae8cd05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7ca597e28727e4c6fb437fa68ae8cd05]: Textual amendment: Regulations revoked (16.5.2017) by [The Infrastructure Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/572)](https://www.legislation.gov.uk/uksi/2017/572), [regs. 1](https://www.legislation.gov.uk/uksi/2017/572/regulation/1), [37(1)(d)](https://www.legislation.gov.uk/uksi/2017/572/regulation/37/1/d)
+[^c-7ca597e28727e4c6fb437fa68ae8cd05]: Textual amendment: Regulations revoked (16.5.2017) by [The Infrastructure Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/572)](https://www.legislation.gov.uk/uksi/2017/572), [regs. 1](https://www.legislation.gov.uk/uksi/2017/572/regulation/1), [37(1)(d)](https://www.legislation.gov.uk/uksi/2017/572/regulation/37/1/d)

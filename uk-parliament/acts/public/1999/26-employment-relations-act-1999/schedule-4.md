@@ -357,7 +357,7 @@ Sections 7, 8 and 9
 
 #### Employment Tribunals Act 1996 (c. 17)
 
-**4.**[^key-2a3017fd1eb81776f814dd48173af107] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2a3017fd1eb81776f814dd48173af107] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Employment Rights Act 1996 (c. 18)
 
@@ -369,11 +369,11 @@ Sections 7, 8 and 9
 
 *Extent: E+W+S*
 
-**6.**[^key-0cdd91f877d3165a156380a008ffb32b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-0cdd91f877d3165a156380a008ffb32b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
-**7.**[^key-efaeda68a84cb888aed56283d83d4a09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-efaeda68a84cb888aed56283d83d4a09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
@@ -412,17 +412,17 @@ Sections 7, 8 and 9
 
 *Extent: E+W+S*
 
-**13.**[^key-df403d261a9a5292d23bf4fbf08dd731] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-df403d261a9a5292d23bf4fbf08dd731] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
-**14.**[^key-f208e5a4f3c9685928ed58168bccafeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-f208e5a4f3c9685928ed58168bccafeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
 **15.** In section 98 (fairness of dismissal)—
 
-- (a)[^key-b586f0041254605872c292a8208092e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-b586f0041254605872c292a8208092e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in subsection (6) for “subsections (4) and (5)” substitute “ subsection (4) ”.
 
 *Extent: E+W+S*
@@ -462,65 +462,65 @@ Sections 7, 8 and 9
 
 *Extent: E+W+S*
 
-**17.**[^key-60a5008ae4402089ca8655a8d16234ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-60a5008ae4402089ca8655a8d16234ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
-**18.**[^key-60a5008ae4402089ca8655a8d16234ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-60a5008ae4402089ca8655a8d16234ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
-**19.**[^key-60a5008ae4402089ca8655a8d16234ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-60a5008ae4402089ca8655a8d16234ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
-**20.**[^key-60a5008ae4402089ca8655a8d16234ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-60a5008ae4402089ca8655a8d16234ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
-**21.**[^key-60a5008ae4402089ca8655a8d16234ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-60a5008ae4402089ca8655a8d16234ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
-**22.**[^key-60a5008ae4402089ca8655a8d16234ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-60a5008ae4402089ca8655a8d16234ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
-**23.**[^key-60a5008ae4402089ca8655a8d16234ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-60a5008ae4402089ca8655a8d16234ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
-**24.**[^key-60a5008ae4402089ca8655a8d16234ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-60a5008ae4402089ca8655a8d16234ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
-**25.**[^key-60a5008ae4402089ca8655a8d16234ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-60a5008ae4402089ca8655a8d16234ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
-**26.**[^key-60a5008ae4402089ca8655a8d16234ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-60a5008ae4402089ca8655a8d16234ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
-**27.**[^key-60a5008ae4402089ca8655a8d16234ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-60a5008ae4402089ca8655a8d16234ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
-**28.**[^key-60a5008ae4402089ca8655a8d16234ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-60a5008ae4402089ca8655a8d16234ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
-**29.**[^key-60a5008ae4402089ca8655a8d16234ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-60a5008ae4402089ca8655a8d16234ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
-**30.**[^key-60a5008ae4402089ca8655a8d16234ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-60a5008ae4402089ca8655a8d16234ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
 **31.** In section 192(2) (armed forces)—
 
-- (a)[^key-e788919d111fbc700d36a50d373f84e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-e788919d111fbc700d36a50d373f84e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (b) for “55 to 57” substitute “ 55 to 57B ”.
 
 *Extent: E+W+S*
@@ -562,7 +562,7 @@ Sections 7, 8 and 9
 
 *Extent: E+W+S*
 
-**37.**[^key-10ca4bf15a189297207f693f7938170a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-10ca4bf15a189297207f693f7938170a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
@@ -588,11 +588,11 @@ Sections 7, 8 and 9
 
 *Extent: E+W+S*
 
-**40.**[^key-b63c4976088963207a5d0864596ce228] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**40.**[^c-b63c4976088963207a5d0864596ce228] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
-**41.**[^key-10c6def1b0652355910b5a176ecf19d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41.**[^c-10c6def1b0652355910b5a176ecf19d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **42.** (1) Section 236 (orders and regulations) shall be amended as follows.
 
@@ -610,24 +610,24 @@ Sections 7, 8 and 9
 
 [^c12486661]: Marginal citation: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37).
 
-[^key-2a3017fd1eb81776f814dd48173af107]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/1999/26/schedule/4/paragraph/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-2a3017fd1eb81776f814dd48173af107]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/1999/26/schedule/4/paragraph/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-0cdd91f877d3165a156380a008ffb32b]: Textual amendment: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/1999/26/schedule/4/paragraph/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-0cdd91f877d3165a156380a008ffb32b]: Textual amendment: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/1999/26/schedule/4/paragraph/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-efaeda68a84cb888aed56283d83d4a09]: Textual amendment: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/1999/26/schedule/4/paragraph/7) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-efaeda68a84cb888aed56283d83d4a09]: Textual amendment: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/1999/26/schedule/4/paragraph/7) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-df403d261a9a5292d23bf4fbf08dd731]: Textual amendment: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/1999/26/schedule/4/paragraph/13) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-df403d261a9a5292d23bf4fbf08dd731]: Textual amendment: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/1999/26/schedule/4/paragraph/13) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-f208e5a4f3c9685928ed58168bccafeb]: Textual amendment: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/1999/26/schedule/4/paragraph/14) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-f208e5a4f3c9685928ed58168bccafeb]: Textual amendment: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/1999/26/schedule/4/paragraph/14) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-b586f0041254605872c292a8208092e2]: Textual amendment: [Sch. 4 para. 15(a)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/4/paragraph/15/a) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-b586f0041254605872c292a8208092e2]: Textual amendment: [Sch. 4 para. 15(a)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/4/paragraph/15/a) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-60a5008ae4402089ca8655a8d16234ea]: Textual amendment: [Sch. 4 paras. 17-30](https://www.legislation.gov.uk/ukpga/1999/26/schedule/4/paragraph/17) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-60a5008ae4402089ca8655a8d16234ea]: Textual amendment: [Sch. 4 paras. 17-30](https://www.legislation.gov.uk/ukpga/1999/26/schedule/4/paragraph/17) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-e788919d111fbc700d36a50d373f84e5]: Textual amendment: Sch. 4 para. 31(a) repealed (8.4.2003) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61), [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/21/schedule/6); [S.I. 2003/962](https://www.legislation.gov.uk/uksi/2003/962), [art. 2(4)(e)](https://www.legislation.gov.uk/uksi/2003/962/article/2/4/e), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/962/schedule/2)
+[^c-e788919d111fbc700d36a50d373f84e5]: Textual amendment: Sch. 4 para. 31(a) repealed (8.4.2003) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61), [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/21/schedule/6); [S.I. 2003/962](https://www.legislation.gov.uk/uksi/2003/962), [art. 2(4)(e)](https://www.legislation.gov.uk/uksi/2003/962/article/2/4/e), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/962/schedule/2)
 
-[^key-10ca4bf15a189297207f693f7938170a]: Textual amendment: [Sch. 4 para. 37](https://www.legislation.gov.uk/ukpga/1999/26/schedule/4/paragraph/37) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-10ca4bf15a189297207f693f7938170a]: Textual amendment: [Sch. 4 para. 37](https://www.legislation.gov.uk/ukpga/1999/26/schedule/4/paragraph/37) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-b63c4976088963207a5d0864596ce228]: Textual amendment: [Sch. 4 para. 40](https://www.legislation.gov.uk/ukpga/1999/26/schedule/4/paragraph/40) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-b63c4976088963207a5d0864596ce228]: Textual amendment: [Sch. 4 para. 40](https://www.legislation.gov.uk/ukpga/1999/26/schedule/4/paragraph/40) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-10c6def1b0652355910b5a176ecf19d6]: Textual amendment: [Sch. 4 para. 41](https://www.legislation.gov.uk/ukpga/1999/26/schedule/4/paragraph/41) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-10c6def1b0652355910b5a176ecf19d6]: Textual amendment: [Sch. 4 para. 41](https://www.legislation.gov.uk/ukpga/1999/26/schedule/4/paragraph/41) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)

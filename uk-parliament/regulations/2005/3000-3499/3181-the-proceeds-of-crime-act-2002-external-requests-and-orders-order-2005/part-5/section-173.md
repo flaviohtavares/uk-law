@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173. Interim administration orders: restrictions on proceedings and remedies[^key-d02b72729d6dfc02cbd19b8bd1b974ce]
+## 173. Interim administration orders: restrictions on proceedings and remedies[^c-d02b72729d6dfc02cbd19b8bd1b974ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d02b72729d6dfc02cbd19b8bd1b974ce]: Commencement: [Art. 173](https://www.legislation.gov.uk/uksi/2005/3181/article/173) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-d02b72729d6dfc02cbd19b8bd1b974ce]: Commencement: [Art. 173](https://www.legislation.gov.uk/uksi/2005/3181/article/173) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

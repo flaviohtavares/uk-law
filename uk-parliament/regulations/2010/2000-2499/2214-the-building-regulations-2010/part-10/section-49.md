@@ -23,10 +23,10 @@ summary: ''
 In regulations 50 to 53—
 
 - “**the 2009 Regulations**” means the Building (Amendment No. 2) Regulations 2009 [^c20435381];
-- [^key-7fcce61e2a6be0a0ed233ebe7d65c37b]...
+- [^c-7fcce61e2a6be0a0ed233ebe7d65c37b]...
 
 ## Annotations
 
 [^c20435381]: Marginal citation: [S.I. 2009/2397](https://www.legislation.gov.uk/uksi/2009/2397) amended by [S.I. 2009/2465](https://www.legislation.gov.uk/uksi/2009/2465) and 2010/719.
 
-[^key-7fcce61e2a6be0a0ed233ebe7d65c37b]: Textual amendment: Words in reg. 49 omitted (15.7.2011) by virtue of [The Building (Amendment) Regulations 2011 (S.I. 2011/1515)](https://www.legislation.gov.uk/uksi/2011/1515), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1515/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2011/1515/regulation/3/4)
+[^c-7fcce61e2a6be0a0ed233ebe7d65c37b]: Textual amendment: Words in reg. 49 omitted (15.7.2011) by virtue of [The Building (Amendment) Regulations 2011 (S.I. 2011/1515)](https://www.legislation.gov.uk/uksi/2011/1515), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1515/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2011/1515/regulation/3/4)

@@ -33,7 +33,7 @@ An Act to provide for the establishment of a body corporate to be known as the E
 
 \[19th July 1995\]
 
-[^c14535771][^c14535781]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-10a7183da223bc977dfe27b1820d4f6b][^key-2573eb167a420c13eb0d6da0445cf20f][^key-04310ad1e00a6f65ce99969c1e187b08][^key-3e19879889f412eb4307140344a2784d][^key-07872b3b23ee4974efe478227612afb5]
+[^c14535771][^c14535781]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-10a7183da223bc977dfe27b1820d4f6b][^c-2573eb167a420c13eb0d6da0445cf20f][^c-04310ad1e00a6f65ce99969c1e187b08][^c-3e19879889f412eb4307140344a2784d][^c-07872b3b23ee4974efe478227612afb5]
 
 ## Contents
 
@@ -57,7 +57,7 @@ An Act to provide for the establishment of a body corporate to be known as the E
 - [Section 3 — Transfer of property, rights and liabilities to the Agency.](part-i/section-3.md)
 - [Section 4 — Principal aim and objectives of the Agency.](part-i/section-4.md)
 
-#### Chapter 1A — General functions of the Agency and the Natural Resources Body for Wales[^key-f45f325ac92b8dfc8ea64b1687dabd86]
+#### Chapter 1A — General functions of the Agency and the Natural Resources Body for Wales[^c-f45f325ac92b8dfc8ea64b1687dabd86]
 
 *Extent: E+W+S*
 
@@ -129,7 +129,7 @@ An Act to provide for the establishment of a body corporate to be known as the E
 - [Section 35 — Environmental duties as respects Natural Heritage Areas and sites of special interest.](part-i/section-35.md)
 - [Section 36 — Codes of practice with respect to environmental and recreational duties.](part-i/section-36.md)
 
-#### Chapter III — Miscellaneous, General and Supplemental Provisions Relating to the New Agencies and the Natural Resources Body for Wales[^key-d7056a43aee6701bf72788e16bdb1062]
+#### Chapter III — Miscellaneous, General and Supplemental Provisions Relating to the New Agencies and the Natural Resources Body for Wales[^c-d7056a43aee6701bf72788e16bdb1062]
 
 *Extent: E+W+S*
 
@@ -190,7 +190,7 @@ An Act to provide for the establishment of a body corporate to be known as the E
 - [Section 59 — Abandoned mines: Scotland.](part-ii/section-59.md)
 - [Section 60 — Amendments to sections 89 and 161 of the Water Resources Act 1991.](part-ii/section-60.md)
 
-### Part III — National Parks[^key-b9abec7d44404793dca102c3390dfdd4]
+### Part III — National Parks[^c-b9abec7d44404793dca102c3390dfdd4]
 
 *Extent: E+W*
 
@@ -240,7 +240,7 @@ An Act to provide for the establishment of a body corporate to be known as the E
 - [Section 78 — Minor and consequential amendments relating to National Parks.](part-iii/section-78.md)
 - [Section 79 — Interpretation of Part III.](part-iii/section-79.md)
 
-### Part IV — Air Quality[^c14539371][^key-d50de57412693f7377cd5cf529d3c67e]
+### Part IV — Air Quality[^c14539371][^c-d50de57412693f7377cd5cf529d3c67e]
 
 *Extent: E+W+S*
 
@@ -313,7 +313,7 @@ An Act to provide for the establishment of a body corporate to be known as the E
 - [Section 106 — Control of pollution of water in Scotland.](part-v/section-106.md)
 - [Section 107 — Statutory nuisances: Scotland.](part-v/section-107.md)
 
-#### Powers of Entry (Extent: E+W) (affected by repeal, see note)Enforcement (Extent: E+W)[^key-45ead9146e003bfe685c8333dfb786bb]
+#### Powers of Entry (Extent: E+W) (affected by repeal, see note)Enforcement (Extent: E+W)[^c-45ead9146e003bfe685c8333dfb786bb]
 
 *Extent: E+W+S*
 
@@ -336,7 +336,7 @@ An Act to provide for the establishment of a body corporate to be known as the E
 - [Section 109N — Interpretation](part-v/section-109n.md)
 - [Section 110 — Offences.](part-v/section-110.md)
 
-#### Further enforcement powers: Scotland[^key-3e2f898c89eb364bd4887a4921337751]
+#### Further enforcement powers: Scotland[^c-3e2f898c89eb364bd4887a4921337751]
 
 *Extent: S*
 
@@ -430,26 +430,26 @@ SCHEDULES
 
 [^c14535781]: Modification: Act (except specified provisions): transfer of certain functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-10a7183da223bc977dfe27b1820d4f6b]: Modification: Transfer of certain functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) (as amended (E.W.) (17.3.2004 for specified purposes) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(5)(6)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/5/6), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [arts. 2(b)](https://www.legislation.gov.uk/uksi/2004/641/article/2/b), 3(x) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7)))
+[^c-10a7183da223bc977dfe27b1820d4f6b]: Modification: Transfer of certain functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) (as amended (E.W.) (17.3.2004 for specified purposes) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(5)(6)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/5/6), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [arts. 2(b)](https://www.legislation.gov.uk/uksi/2004/641/article/2/b), 3(x) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7)))
 
-[^key-2573eb167a420c13eb0d6da0445cf20f]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1995/25) modified (E.) (4.8.2006) by [The Radioactive Contaminated Land (Modification of Enactments)(England) Regulations 2006 (S.I. 2006/1379)](https://www.legislation.gov.uk/uksi/2006/1379), [reg. 18](https://www.legislation.gov.uk/uksi/2006/1379/regulation/18)
+[^c-2573eb167a420c13eb0d6da0445cf20f]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1995/25) modified (E.) (4.8.2006) by [The Radioactive Contaminated Land (Modification of Enactments)(England) Regulations 2006 (S.I. 2006/1379)](https://www.legislation.gov.uk/uksi/2006/1379), [reg. 18](https://www.legislation.gov.uk/uksi/2006/1379/regulation/18)
 
-[^key-04310ad1e00a6f65ce99969c1e187b08]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1995/25): power to amend conferred (E.W.) (1.10.2010) by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [ss. 28](https://www.legislation.gov.uk/ukpga/2010/29/section/28), [49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
+[^c-04310ad1e00a6f65ce99969c1e187b08]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1995/25): power to amend conferred (E.W.) (1.10.2010) by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [ss. 28](https://www.legislation.gov.uk/ukpga/2010/29/section/28), [49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
 
-[^key-3e19879889f412eb4307140344a2784d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1995/25) applied in part (Isles of Scilly) (with modifications) (E.W.) (27.3.2020) by [The Isles of Scilly (Application of Water Legislation) Order 2020 (S.I. 2020/214)](https://www.legislation.gov.uk/uksi/2020/214), [art. 4](https://www.legislation.gov.uk/uksi/2020/214/article/4)
+[^c-3e19879889f412eb4307140344a2784d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1995/25) applied in part (Isles of Scilly) (with modifications) (E.W.) (27.3.2020) by [The Isles of Scilly (Application of Water Legislation) Order 2020 (S.I. 2020/214)](https://www.legislation.gov.uk/uksi/2020/214), [art. 4](https://www.legislation.gov.uk/uksi/2020/214/article/4)
 
-[^key-07872b3b23ee4974efe478227612afb5]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1995/25) restricted (25.5.2020) by [The West Midlands Rail Freight Interchange Order 2020 (S.I. 2020/511)](https://www.legislation.gov.uk/uksi/2020/511), [Sch. 14 para. 6](https://www.legislation.gov.uk/uksi/2020/511/schedule/14/paragraph/6)
+[^c-07872b3b23ee4974efe478227612afb5]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1995/25) restricted (25.5.2020) by [The West Midlands Rail Freight Interchange Order 2020 (S.I. 2020/511)](https://www.legislation.gov.uk/uksi/2020/511), [Sch. 14 para. 6](https://www.legislation.gov.uk/uksi/2020/511/schedule/14/paragraph/6)
 
-[^key-f45f325ac92b8dfc8ea64b1687dabd86]: Textual amendment: Pt. I Ch. 1A heading inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 363(1)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/363/1) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-f45f325ac92b8dfc8ea64b1687dabd86]: Textual amendment: Pt. I Ch. 1A heading inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 363(1)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/363/1) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-d7056a43aee6701bf72788e16bdb1062]: Textual amendment: Words in [Pt. I Ch. III](https://www.legislation.gov.uk/ukpga/1995/25/part/I/chapter/III) heading inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 370](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/370) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-d7056a43aee6701bf72788e16bdb1062]: Textual amendment: Words in [Pt. I Ch. III](https://www.legislation.gov.uk/ukpga/1995/25/part/I/chapter/III) heading inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 370](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/370) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-b9abec7d44404793dca102c3390dfdd4]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/1995/25/part/3): power to amend conferred (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-b9abec7d44404793dca102c3390dfdd4]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/1995/25/part/3): power to amend conferred (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
 [^c14539371]: Modification: Pt. IV (ss. 80-91) amended (3.7.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 364](https://www.legislation.gov.uk/ukpga/1999/29/section/364) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/801](https://www.legislation.gov.uk/uksi/2000/801), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2000/801/article/2/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2000/801/schedule/part/3)
 
-[^key-d50de57412693f7377cd5cf529d3c67e]: Modification: Pt. 4 applied (E.W.) (1.2.2005) by [Local Authorities' Plans and Strategies (Disapplication) (England) Order 2005 (S.I. 2005/157)](https://www.legislation.gov.uk/uksi/2005/157), [arts. 1](https://www.legislation.gov.uk/uksi/2005/157/article/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2005/157/article/8/2/a)
+[^c-d50de57412693f7377cd5cf529d3c67e]: Modification: Pt. 4 applied (E.W.) (1.2.2005) by [Local Authorities' Plans and Strategies (Disapplication) (England) Order 2005 (S.I. 2005/157)](https://www.legislation.gov.uk/uksi/2005/157), [arts. 1](https://www.legislation.gov.uk/uksi/2005/157/article/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2005/157/article/8/2/a)
 
-[^key-45ead9146e003bfe685c8333dfb786bb]: Textual amendment: S. 108 cross-heading substituted (E.W.) (29.3.2018) by [The Waste Enforcement (England and Wales) Regulations 2018 (S.I. 2018/369)](https://www.legislation.gov.uk/uksi/2018/369), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/369/regulation/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2018/369/schedule/2/paragraph/2)
+[^c-45ead9146e003bfe685c8333dfb786bb]: Textual amendment: S. 108 cross-heading substituted (E.W.) (29.3.2018) by [The Waste Enforcement (England and Wales) Regulations 2018 (S.I. 2018/369)](https://www.legislation.gov.uk/uksi/2018/369), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/369/regulation/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2018/369/schedule/2/paragraph/2)
 
-[^key-3e2f898c89eb364bd4887a4921337751]: Textual amendment: Ss. 110A-110D and cross-heading inserted (S.) (1.8.2025 for specified purposes) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [ss. 19(2)](https://www.legislation.gov.uk/asp/2024/13/section/19/2), [27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2); [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
+[^c-3e2f898c89eb364bd4887a4921337751]: Textual amendment: Ss. 110A-110D and cross-heading inserted (S.) (1.8.2025 for specified purposes) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [ss. 19(2)](https://www.legislation.gov.uk/asp/2024/13/section/19/2), [27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2); [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)

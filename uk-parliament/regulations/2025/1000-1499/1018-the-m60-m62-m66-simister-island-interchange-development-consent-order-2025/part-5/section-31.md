@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Temporary use of land for maintaining the authorised development[^key-08d73fa0cfb0623c4ed2e9508c722c45]
+## 31. Temporary use of land for maintaining the authorised development[^c-08d73fa0cfb0623c4ed2e9508c722c45]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ in such circumstances, the undertaker may enter the land under paragraph (1) sub
 
 ## Annotations
 
-[^key-08d73fa0cfb0623c4ed2e9508c722c45]: Commencement: Art. 31 in force at 30.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1018/article/1)
+[^c-08d73fa0cfb0623c4ed2e9508c722c45]: Commencement: Art. 31 in force at 30.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1018/article/1)

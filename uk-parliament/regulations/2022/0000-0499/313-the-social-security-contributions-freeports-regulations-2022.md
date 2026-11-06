@@ -46,29 +46,29 @@ Coming into force
 
 The Treasury make the following Regulations in exercise of the powers conferred by sections 3(2) and 12(4) of the National Insurance Contributions Act 2022[^f00001] (“**the Act**”) and section 175(3) of the Social Security Contributions and Benefits Act 1992[^f00002].
 
-## 1. Citation and commencement[^key-a2e711aed74d5e749d46de092aef3014]
+## 1. Citation and commencement[^c-a2e711aed74d5e749d46de092aef3014]
 
 These Regulations may be cited as the Social Security Contributions (Freeports) Regulations 2022 and come into force on 6th April 2022.
 
-## 2. Circumstances in which applicable conditions are treated as met[^key-ba8c0ccdec7d7935bba57ba915fa396a][^key-c9c063e058341b90285348c1d638509c]
+## 2. Circumstances in which applicable conditions are treated as met[^c-ba8c0ccdec7d7935bba57ba915fa396a][^c-c9c063e058341b90285348c1d638509c]
 
-The applicable condition[^key-cfbb7aea5f63ac4b0a11cd12d2778cd0] in section 2(1)(d) of the Act is treated as met in respect of a qualifying period where regulation 3 or regulation 4 applies.
+The applicable condition[^c-cfbb7aea5f63ac4b0a11cd12d2778cd0] in section 2(1)(d) of the Act is treated as met in respect of a qualifying period where regulation 3 or regulation 4 applies.
 
-## 3. Disability[^key-eacfceac53eb7a4b26a522dc18b51274]
+## 3. Disability[^c-eacfceac53eb7a4b26a522dc18b51274]
 
 This regulation applies where—
 
 - (a) the earner has the protected characteristic of disability as defined in section 6(1) of the Equality Act 2010[^f00003],
-- (b) the employer or the secondary contributor has made adjustments to the earner’s employed time spent in the special tax site[^key-29159e6055a7fa6a2cbd278bec7c4271] in order to comply with the employer’s duty to make reasonable adjustments in accordance with section 20 of the Equality Act 2010, and
-- (c) the applicable[^key-7cc76d1e42588c486dea1b653ab7cce7] condition in section 2(1)(d) of the Act would be met but for those adjustments.
+- (b) the employer or the secondary contributor has made adjustments to the earner’s employed time spent in the special tax site[^c-29159e6055a7fa6a2cbd278bec7c4271] in order to comply with the employer’s duty to make reasonable adjustments in accordance with section 20 of the Equality Act 2010, and
+- (c) the applicable[^c-7cc76d1e42588c486dea1b653ab7cce7] condition in section 2(1)(d) of the Act would be met but for those adjustments.
 
-## 4. Pregnancy and maternity[^key-a09673292b000c9649f72a9c182fc260]
+## 4. Pregnancy and maternity[^c-a09673292b000c9649f72a9c182fc260]
 
 (1) This regulation applies where—
 
 - (a) the earner is pregnant or within a period of maternity,
-- (b) the employer or the secondary contributor has made adjustments to the earner’s employed time spent in the special tax site[^key-f214f7bf603919bedbf0624decb1cc10] because of the pregnancy or because the earner is within a period of maternity, and
-- (c) the applicable[^key-4fecab0b44f6db3c8fdb32566d9ae8f3] condition in section 2(1)(d) of the Act would be met but for those adjustments.
+- (b) the employer or the secondary contributor has made adjustments to the earner’s employed time spent in the special tax site[^c-f214f7bf603919bedbf0624decb1cc10] because of the pregnancy or because the earner is within a period of maternity, and
+- (c) the applicable[^c-4fecab0b44f6db3c8fdb32566d9ae8f3] condition in section 2(1)(d) of the Act would be met but for those adjustments.
 
 (2) In this regulation—
 
@@ -100,24 +100,24 @@ A Tax Information and Impact Note covering this instrument was published on 12th
 
 [^f00002]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4) (“**the 1992 Act**”).
 
-[^key-a2e711aed74d5e749d46de092aef3014]: Commencement: Reg. 1 in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/313/regulation/1)
+[^c-a2e711aed74d5e749d46de092aef3014]: Commencement: Reg. 1 in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/313/regulation/1)
 
-[^key-ba8c0ccdec7d7935bba57ba915fa396a]: Commencement: Reg. 2 in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/313/regulation/1)
+[^c-ba8c0ccdec7d7935bba57ba915fa396a]: Commencement: Reg. 2 in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/313/regulation/1)
 
-[^key-c9c063e058341b90285348c1d638509c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2022/313/regulation/2) heading substituted (8.8.2023) by [The National Insurance Contributions Act 2022 (Freeports and Investment Zones) (Consequential Amendments) Regulations 2023 (S.I. 2023/812)](https://www.legislation.gov.uk/uksi/2023/812), [regs. 1](https://www.legislation.gov.uk/uksi/2023/812/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2023/812/regulation/3/2/b)
+[^c-c9c063e058341b90285348c1d638509c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2022/313/regulation/2) heading substituted (8.8.2023) by [The National Insurance Contributions Act 2022 (Freeports and Investment Zones) (Consequential Amendments) Regulations 2023 (S.I. 2023/812)](https://www.legislation.gov.uk/uksi/2023/812), [regs. 1](https://www.legislation.gov.uk/uksi/2023/812/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2023/812/regulation/3/2/b)
 
-[^key-cfbb7aea5f63ac4b0a11cd12d2778cd0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2022/313/regulation/2) substituted (8.8.2023) by [The National Insurance Contributions Act 2022 (Freeports and Investment Zones) (Consequential Amendments) Regulations 2023 (S.I. 2023/812)](https://www.legislation.gov.uk/uksi/2023/812), [regs. 1](https://www.legislation.gov.uk/uksi/2023/812/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2023/812/regulation/3/2/a)
+[^c-cfbb7aea5f63ac4b0a11cd12d2778cd0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2022/313/regulation/2) substituted (8.8.2023) by [The National Insurance Contributions Act 2022 (Freeports and Investment Zones) (Consequential Amendments) Regulations 2023 (S.I. 2023/812)](https://www.legislation.gov.uk/uksi/2023/812), [regs. 1](https://www.legislation.gov.uk/uksi/2023/812/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2023/812/regulation/3/2/a)
 
-[^key-eacfceac53eb7a4b26a522dc18b51274]: Commencement: Reg. 3 in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/313/regulation/1)
+[^c-eacfceac53eb7a4b26a522dc18b51274]: Commencement: Reg. 3 in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/313/regulation/1)
 
 [^f00003]: Footnote: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15).
 
-[^key-29159e6055a7fa6a2cbd278bec7c4271]: Textual amendment: Words in [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/313/regulation/3/b) substituted (8.8.2023) by [The National Insurance Contributions Act 2022 (Freeports and Investment Zones) (Consequential Amendments) Regulations 2023 (S.I. 2023/812)](https://www.legislation.gov.uk/uksi/2023/812), [regs. 1](https://www.legislation.gov.uk/uksi/2023/812/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2023/812/regulation/3/3/a)
+[^c-29159e6055a7fa6a2cbd278bec7c4271]: Textual amendment: Words in [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/313/regulation/3/b) substituted (8.8.2023) by [The National Insurance Contributions Act 2022 (Freeports and Investment Zones) (Consequential Amendments) Regulations 2023 (S.I. 2023/812)](https://www.legislation.gov.uk/uksi/2023/812), [regs. 1](https://www.legislation.gov.uk/uksi/2023/812/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2023/812/regulation/3/3/a)
 
-[^key-7cc76d1e42588c486dea1b653ab7cce7]: Textual amendment: Word in [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/313/regulation/3/c) inserted (8.8.2023) by [The National Insurance Contributions Act 2022 (Freeports and Investment Zones) (Consequential Amendments) Regulations 2023 (S.I. 2023/812)](https://www.legislation.gov.uk/uksi/2023/812), [regs. 1](https://www.legislation.gov.uk/uksi/2023/812/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2023/812/regulation/3/3/b)
+[^c-7cc76d1e42588c486dea1b653ab7cce7]: Textual amendment: Word in [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/313/regulation/3/c) inserted (8.8.2023) by [The National Insurance Contributions Act 2022 (Freeports and Investment Zones) (Consequential Amendments) Regulations 2023 (S.I. 2023/812)](https://www.legislation.gov.uk/uksi/2023/812), [regs. 1](https://www.legislation.gov.uk/uksi/2023/812/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2023/812/regulation/3/3/b)
 
-[^key-a09673292b000c9649f72a9c182fc260]: Commencement: Reg. 4 in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/313/regulation/1)
+[^c-a09673292b000c9649f72a9c182fc260]: Commencement: Reg. 4 in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/313/regulation/1)
 
-[^key-f214f7bf603919bedbf0624decb1cc10]: Textual amendment: Words in [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2022/313/regulation/4/1/b) substituted (8.8.2023) by [The National Insurance Contributions Act 2022 (Freeports and Investment Zones) (Consequential Amendments) Regulations 2023 (S.I. 2023/812)](https://www.legislation.gov.uk/uksi/2023/812), [regs. 1](https://www.legislation.gov.uk/uksi/2023/812/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2023/812/regulation/3/4/a)
+[^c-f214f7bf603919bedbf0624decb1cc10]: Textual amendment: Words in [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2022/313/regulation/4/1/b) substituted (8.8.2023) by [The National Insurance Contributions Act 2022 (Freeports and Investment Zones) (Consequential Amendments) Regulations 2023 (S.I. 2023/812)](https://www.legislation.gov.uk/uksi/2023/812), [regs. 1](https://www.legislation.gov.uk/uksi/2023/812/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2023/812/regulation/3/4/a)
 
-[^key-4fecab0b44f6db3c8fdb32566d9ae8f3]: Textual amendment: Word in [reg. 4(1)(c)](https://www.legislation.gov.uk/uksi/2022/313/regulation/4/1/c) inserted (8.8.2023) by [The National Insurance Contributions Act 2022 (Freeports and Investment Zones) (Consequential Amendments) Regulations 2023 (S.I. 2023/812)](https://www.legislation.gov.uk/uksi/2023/812), [regs. 1](https://www.legislation.gov.uk/uksi/2023/812/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2023/812/regulation/3/4/b)
+[^c-4fecab0b44f6db3c8fdb32566d9ae8f3]: Textual amendment: Word in [reg. 4(1)(c)](https://www.legislation.gov.uk/uksi/2022/313/regulation/4/1/c) inserted (8.8.2023) by [The National Insurance Contributions Act 2022 (Freeports and Investment Zones) (Consequential Amendments) Regulations 2023 (S.I. 2023/812)](https://www.legislation.gov.uk/uksi/2023/812), [regs. 1](https://www.legislation.gov.uk/uksi/2023/812/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2023/812/regulation/3/4/b)

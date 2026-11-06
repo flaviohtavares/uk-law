@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Other measures in response to coronavirus[^key-5aa5ddb4b1a5975d7bb82ab453e86dcd]
+## 8. Other measures in response to coronavirus[^c-5aa5ddb4b1a5975d7bb82ab453e86dcd]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5aa5ddb4b1a5975d7bb82ab453e86dcd]: Textual amendment: [S. 8](https://www.legislation.gov.uk/asp/2020/7/section/8) expires (1.10.2022) by [Coronavirus (Scotland) Act 2020 (asp 7)](https://www.legislation.gov.uk/asp/2020/7), [s. 12(1)](https://www.legislation.gov.uk/asp/2020/7/section/12/1)
+[^c-5aa5ddb4b1a5975d7bb82ab453e86dcd]: Textual amendment: [S. 8](https://www.legislation.gov.uk/asp/2020/7/section/8) expires (1.10.2022) by [Coronavirus (Scotland) Act 2020 (asp 7)](https://www.legislation.gov.uk/asp/2020/7), [s. 12(1)](https://www.legislation.gov.uk/asp/2020/7/section/12/1)

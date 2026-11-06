@@ -46,17 +46,17 @@ In accordance with paragraph 13(1) of Schedule 8 to the European Union (Withdraw
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and extent[^key-437ca3500d2aab0b2899db0b88285724]
+### 1. Citation, commencement and extent[^c-437ca3500d2aab0b2899db0b88285724]
 
 (1) These Regulations may be cited as the Merchant Shipping (Additional Safety Measures for Bulk Carriers) Regulations 2022 and come into force on the 22nd day after the day on which they are made.
 
 (2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-### 2. Revocations[^key-810833636fc8a1ef4d762d1996f959b0]
+### 2. Revocations[^c-810833636fc8a1ef4d762d1996f959b0]
 
 The Regulations listed in the first column of the Table in the Schedule are revoked to the extent specified in the third column of that Table.
 
-### 3. Amendment of Regulations[^key-0f853e98f736aae8f51c248b711afe42]
+### 3. Amendment of Regulations[^c-0f853e98f736aae8f51c248b711afe42]
 
 (1) The Merchant Shipping (Cargo Ship Construction) Regulations 1997[^f00003] are amended as follows.
 
@@ -70,7 +70,7 @@ The Regulations listed in the first column of the Table in the Schedule are revo
 - (b) in the second column, insert “2022/1218”;
 - (c) in the third column, insert “None”.
 
-### 4. Interpretation[^key-8222566922af98dadb7bede8ace8f0f6]
+### 4. Interpretation[^c-8222566922af98dadb7bede8ace8f0f6]
 
 In these Regulations—
 
@@ -108,7 +108,7 @@ In these Regulations—
 - “**summer load line**” means the upper edge of the load line marked on a ship, indicated by the upper edge of that line which passes through the centre of the load line mark and also by a line marked “S”, and “**load line mark**” means a ring with a width of 25 millimetres and an outer diameter of 300 millimetres and a horizontal line with a width of 25 millimetres and a length of 450 millimetres, the upper edge of which bisects the ring, and both of which are placed on the side of a ship at amidships port and starboard;
 - “**United Kingdom bulk carrier**” means a bulk carrier that is a United Kingdom ship.
 
-### 5. Application[^key-b979f82e1fe250b51c1efa4c62c9f8ca]
+### 5. Application[^c-b979f82e1fe250b51c1efa4c62c9f8ca]
 
 (1) Subject to paragraph (2), these Regulations apply to sea-going bulk carriers of 500 gross tons or over which are—
 
@@ -124,7 +124,7 @@ In these Regulations—
 
 those persons are not to be taken into account for the purpose of determining the application to that bulk carrier of any provision of these Regulations.
 
-### 6. Ambulatory reference[^key-870e926ce0d0c293627bd322a9d7badb]
+### 6. Ambulatory reference[^c-870e926ce0d0c293627bd322a9d7badb]
 
 (1) In these Regulations, any reference to an instrument referred to in paragraph (2) is to be construed—
 
@@ -149,7 +149,7 @@ those persons are not to be taken into account for the purpose of determining th
 
 (5) A modification or replacement of the Load Line Convention has effect at the time such modification or replacement comes into force in accordance with paragraph (4) of Article 28 of the Load Line Convention or Article VI of the Protocol of 1988 to the Load Line Convention.
 
-### 7. Exemptions[^key-75cca1d95892fd2629b9da3f02fdccaf]
+### 7. Exemptions[^c-75cca1d95892fd2629b9da3f02fdccaf]
 
 (1) The Secretary of State may exempt from any provision of these Regulations or of Chapter XII, a bulk carrier which does not normally engage on international voyages but is, in exceptional circumstances, required to undertake a single international voyage.
 
@@ -193,7 +193,7 @@ those persons are not to be taken into account for the purpose of determining th
   and, for the purposes of paragraph (b), “**Convention country**” means a country or territory which is either a country the Government of which is party to the Convention or a territory to which the Convention extends whether or not it is subject to the amendments to, or reservations in respect of, the Convention;
 - “**watertight**” has the same meaning as in Chapter II-1[^f00021].
 
-### 8. Equivalents[^key-dc10903c889a367761d43afc55c36edf]
+### 8. Equivalents[^c-dc10903c889a367761d43afc55c36edf]
 
 (1) Where these Regulations or Chapter XII require that—
 
@@ -217,9 +217,9 @@ the Secretary of State may approve the hull or machinery of the bulk carrier to 
 - (b) received in legible form; and
 - (c) capable of being used for subsequent reference.
 
-### 9. Approvals[^key-a92da59f25e36f19face9a674364ed01]
+### 9. Approvals[^c-a92da59f25e36f19face9a674364ed01]
 
-(1) Unless approved under the Merchant Shipping (Marine Equipment) Regulations 2025[^key-5d297575482447c683fad182c95964ba], any equipment required by these Regulations or Chapter XII and placed on board a United Kingdom bulk carrier must be approved by the Secretary of State, or any person authorised by the Secretary of State.
+(1) Unless approved under the Merchant Shipping (Marine Equipment) Regulations 2025[^c-5d297575482447c683fad182c95964ba], any equipment required by these Regulations or Chapter XII and placed on board a United Kingdom bulk carrier must be approved by the Secretary of State, or any person authorised by the Secretary of State.
 
 (2) An approval given under paragraph (1) may, on the giving of reasonable notice, be continued, altered or cancelled.
 
@@ -237,7 +237,7 @@ the Secretary of State may approve the hull or machinery of the bulk carrier to 
 
 ## PART 2 — Survey and maintenance of bulk carriers
 
-### 10. Surveys and maintenance of bulk carriers[^key-1c1f310f1447d8f46b3ac980c57025ab]
+### 10. Surveys and maintenance of bulk carriers[^c-1c1f310f1447d8f46b3ac980c57025ab]
 
 (1) A bulk carrier must be subjected to the enhanced programme of inspections required by the ESP Code during a survey required by the Merchant Shipping (Survey and Certification) Regulations 2015.
 
@@ -246,7 +246,7 @@ the Secretary of State may approve the hull or machinery of the bulk carrier to 
 - (a) the maintenance requirements contained in regulation 3-1 of Chapter II-1 (structural, mechanical and electrical requirements for ships); and
 - (b) the standards for owners, inspection and maintenance of bulk carrier hatch covers specified in regulation 7 of Chapter XII[^f00023] (and contained in IMO Resolution MSC.169(79)).
 
-### 11. Surveys of certain bulk carriers constructed before 1st July 1999[^key-009fdc3e26e77fa87744cef3f37cc80d]
+### 11. Surveys of certain bulk carriers constructed before 1st July 1999[^c-009fdc3e26e77fa87744cef3f37cc80d]
 
 (1) Bulk carriers constructed before 1st July 1999 of—
 
@@ -262,7 +262,7 @@ must not carry solid bulk cargo having a density of 1,780 kg/m3 or above unless 
 
 ## PART 3 — Special requirements for bulk carriers
 
-### 12. Damage stability requirements applicable to bulk carriers[^key-60f1228ce1689f955c7e13956d78ecff]
+### 12. Damage stability requirements applicable to bulk carriers[^c-60f1228ce1689f955c7e13956d78ecff]
 
 (1) This regulation applies to bulk carriers of 150 metres in length or more.
 
@@ -288,7 +288,7 @@ must comply with each requirement applicable to that bulk carrier in regulation 
 
 must comply with each requirement applicable to that bulk carrier in regulation 4 of Chapter XII.
 
-### 13. Structural strength of bulk carriers constructed on or after 1st July 1999[^key-be0f270b26de72ad041c72ce93c2b568]
+### 13. Structural strength of bulk carriers constructed on or after 1st July 1999[^c-be0f270b26de72ad041c72ce93c2b568]
 
 (1) This regulation applies to bulk carriers of 150 metres in length or more.
 
@@ -307,7 +307,7 @@ must comply with each requirement applicable to that bulk carrier in regulation 
 
 must comply with each requirement applicable to that bulk carrier in regulation 5 of Chapter XII.
 
-### 14. Structural and other requirements for bulk carriers[^key-e897a5f00243d6490c34027b19558375]
+### 14. Structural and other requirements for bulk carriers[^c-e897a5f00243d6490c34027b19558375]
 
 (1) This regulation applies to bulk carriers of 150 metres in length or more.
 
@@ -322,7 +322,7 @@ must comply with each requirement applicable to that bulk carrier in regulation 
 
 (4) A bulk carrier to which this regulation applies constructed on or after 1st July 2006 and designed to carry solid bulk cargo having a density of 1,000 kg/m3 and above, must comply with each requirement applicable to that bulk carrier in paragraph 4 of regulation 6 of Chapter XII.
 
-### 15. Information on compliance with the requirements for bulk carriers[^key-e8950ba3b574cd2fdaa64feb0b2ad568]
+### 15. Information on compliance with the requirements for bulk carriers[^c-e8950ba3b574cd2fdaa64feb0b2ad568]
 
 (1) In the case of a United Kingdom bulk carrier to which the provisions in these Regulations referred to in paragraph (2) apply, the booklet required by regulation 7.2 of Chapter VI (loading, unloading and stowage of solid bulk cargo) must be endorsed by the Certifying Authority to confirm that each requirement that applies to that bulk carrier has been complied with.
 
@@ -337,7 +337,7 @@ must comply with each requirement applicable to that bulk carrier in regulation 
 
 (4) A bulk carrier to which the restrictions described in paragraph (3) apply must be permanently marked in accordance with regulation 8.3 of Chapter XII (permanent marking with solid equilateral triangle).
 
-### 16. Solid bulk cargo density declaration[^key-247d3fa5823334b17ef4e08ba70738f8]
+### 16. Solid bulk cargo density declaration[^c-247d3fa5823334b17ef4e08ba70738f8]
 
 (1) Prior to loading solid bulk cargo on bulk carriers of 150 metres in length or more, the shipper must—
 
@@ -349,21 +349,21 @@ must comply with each requirement applicable to that bulk carrier in regulation 
 - (a) have the density of the cargo verified by an accredited testing organisation[^f00024]; or
 - (b) comply with all the requirements of these Regulations applicable to the carriage of solid bulk cargo having a density of 1,780 kg/m3 and above.
 
-### 17. Loading instrument[^key-77714c7176ae387c5a4584bf345389da]
+### 17. Loading instrument[^c-77714c7176ae387c5a4584bf345389da]
 
 (1) A bulk carrier of 150 metres in length or more must be fitted with a loading instrument in accordance with regulation 11.1 of Chapter XII (loading instrument for bulk carriers of 150 metres or more in length).
 
 (2) A bulk carrier of less than 150 metres in length constructed on or after 1st July 2006 must be fitted with a loading instrument in accordance with regulation 11.3 of Chapter XII (loading instrument for bulk carriers of less than 150 metres in length constructed on or after 1st July 2006).
 
-### 18. Water level detectors[^key-5a626acd23c71283791b12556c05365a]
+### 18. Water level detectors[^c-5a626acd23c71283791b12556c05365a]
 
 A bulk carrier must be fitted with a water level detector in accordance with regulation 12 of Chapter XII (hold, ballast and dry space water ingress alarms).
 
-### 19. Pumping systems[^key-5d0aa8f2824b4fe3ba02d3a8886cf61a]
+### 19. Pumping systems[^c-5d0aa8f2824b4fe3ba02d3a8886cf61a]
 
 The arrangements for draining and pumping in a bulk carrier must comply with regulation 13 of Chapter XII (availability of pumping systems).
 
-### 20. Restrictions from sailing with any hold empty[^key-492cffde0659c6b659b96dd492801307]
+### 20. Restrictions from sailing with any hold empty[^c-492cffde0659c6b659b96dd492801307]
 
 (1) This regulation applies to a bulk carrier of single-side skin construction of 150 metres or more in length carrying cargo having a density of 1,780 kg/m3 and above which does not comply with—
 
@@ -382,7 +382,7 @@ and “**deadweight**” means the bulk carrier’s carrying capacity and “**f
 
 ## PART 4 — Enforcement
 
-### 21. Offences and penalties[^key-2e06ae290348d89aca32a6bd73415851]
+### 21. Offences and penalties[^c-2e06ae290348d89aca32a6bd73415851]
 
 (1) If a bulk carrier proceeds or attempts to proceed to sea or on any voyage, or arrives within United Kingdom waters, in breach of the requirements of—
 
@@ -408,7 +408,7 @@ applicable to that bulk carrier, the owner and the master are each guilty of an 
   - (ii) in Scotland or Northern Ireland by a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment by imprisonment for a term not exceeding two years, or a fine, or both.
 
-### 22. Detention[^key-06cda38749c36855f1d9e6b86657fe60]
+### 22. Detention[^c-06cda38749c36855f1d9e6b86657fe60]
 
 (1) For the purposes of this regulation, any reference to “**the Act**” is a reference to the Merchant Shipping Act 1995.
 
@@ -440,7 +440,7 @@ applicable to that bulk carrier, the owner and the master are each guilty of an 
 
 (9) For the purposes of paragraphs (7) and (8), “**flag administration**” in relation to a bulk carrier means the administration of the State whose flag the bulk carrier is entitled to fly.
 
-### 23. Review of the Regulations[^key-0b740302453a3b7c7588979b868042f8]
+### 23. Review of the Regulations[^c-0b740302453a3b7c7588979b868042f8]
 
 (1) The Secretary of State must from time to time—
 
@@ -482,7 +482,7 @@ Two of the Lords Commissioners of His Majesty’s Treasury
 
 23rd November 2022
 
-## SCHEDULE — Revocations[^key-31bda2d0e87725824e0b177a67a814e2]
+## SCHEDULE — Revocations[^c-31bda2d0e87725824e0b177a67a814e2]
 
 Regulation 2
 
@@ -526,11 +526,11 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00002]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16). Paragraph 13 of Schedule 8 was amended by the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1) Schedule 5, paragraph 54(8) and the European Union (Future Relationship) Act [2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29) Schedule 6, paragraph 8. There are other amendments but none is relevant.
 
-[^key-437ca3500d2aab0b2899db0b88285724]: Commencement: Reg. 1 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
+[^c-437ca3500d2aab0b2899db0b88285724]: Commencement: Reg. 1 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
 
-[^key-810833636fc8a1ef4d762d1996f959b0]: Commencement: Reg. 2 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
+[^c-810833636fc8a1ef4d762d1996f959b0]: Commencement: Reg. 2 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
 
-[^key-0f853e98f736aae8f51c248b711afe42]: Commencement: Reg. 3 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
+[^c-0f853e98f736aae8f51c248b711afe42]: Commencement: Reg. 3 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 1997/1509](https://www.legislation.gov.uk/uksi/1997/1509), amended by [S.I. 2004/2151](https://www.legislation.gov.uk/uksi/2004/2151). There are other amending instruments but none is relevant.
 
@@ -540,7 +540,7 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00006]: Footnote: [S.I. 2018/1104](https://www.legislation.gov.uk/uksi/2018/1104). There are amending instruments which are not relevant.
 
-[^key-8222566922af98dadb7bede8ace8f0f6]: Commencement: Reg. 4 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
+[^c-8222566922af98dadb7bede8ace8f0f6]: Commencement: Reg. 4 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
 
 [^f00007]: Footnote: See regulation 3 of Chapter 1 of Annex I to the Load Line Convention. For further information on the Load Line Convention see the footnote to its definition.
 
@@ -566,49 +566,49 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00018]: Footnote: Merchant Shipping Notice 1837(M) Amendment 2, published 9th October 2017, is available on https://www.gov.uk/government/publications/msn-1837-m-amendment-2-categorisation-of-waters, and in hard copy from the Maritime and Coastguard Agency of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
 
-[^key-b979f82e1fe250b51c1efa4c62c9f8ca]: Commencement: Reg. 5 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
+[^c-b979f82e1fe250b51c1efa4c62c9f8ca]: Commencement: Reg. 5 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
 
 [^f00019]: Footnote: Regulation 33 in Chapter V of the Convention (safety of navigation) places an obligation on the master to provide assistance to persons in distress at sea and this obligation is implemented in the Merchant Shipping (Safety of Navigation) Regulations 2020 ([S.I. 2020/673](https://www.legislation.gov.uk/uksi/2020/673)).
 
-[^key-870e926ce0d0c293627bd322a9d7badb]: Commencement: Reg. 6 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
+[^c-870e926ce0d0c293627bd322a9d7badb]: Commencement: Reg. 6 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
 
 [^f00020]: Footnote: Cmnd. 4829. Further information on the Protocol of 1988 is given in the footnote to the Load Line Convention.
 
-[^key-75cca1d95892fd2629b9da3f02fdccaf]: Commencement: Reg. 7 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
+[^c-75cca1d95892fd2629b9da3f02fdccaf]: Commencement: Reg. 7 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
 
 [^f00021]: Footnote: See regulation 2 of Chapter II-1.
 
-[^key-dc10903c889a367761d43afc55c36edf]: Commencement: Reg. 8 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
+[^c-dc10903c889a367761d43afc55c36edf]: Commencement: Reg. 8 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
 
-[^key-a92da59f25e36f19face9a674364ed01]: Commencement: Reg. 9 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
+[^c-a92da59f25e36f19face9a674364ed01]: Commencement: Reg. 9 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
 
-[^key-5d297575482447c683fad182c95964ba]: Textual amendment: Word in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/9/1) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/19) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
+[^c-5d297575482447c683fad182c95964ba]: Textual amendment: Word in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/9/1) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/19) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
 
-[^key-1c1f310f1447d8f46b3ac980c57025ab]: Commencement: Reg. 10 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
+[^c-1c1f310f1447d8f46b3ac980c57025ab]: Commencement: Reg. 10 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
 
 [^f00023]: Footnote: Regulation 7 of Chapter XII requires compliance with the standards for owners, inspection and maintenance of bulk carrier hatch covers, set out in IMO Resolution MSC.169(79). MSC.169(79) was adopted by the Maritime Safety Committee of the IMO on 9th December 2004 for the purposes of the application of regulation 7 of Chapter XII. As such, its requirements are made mandatory by reference to it in regulation 7 of Chapter XII.
 
-[^key-009fdc3e26e77fa87744cef3f37cc80d]: Commencement: Reg. 11 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
+[^c-009fdc3e26e77fa87744cef3f37cc80d]: Commencement: Reg. 11 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
 
-[^key-60f1228ce1689f955c7e13956d78ecff]: Commencement: Reg. 12 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
+[^c-60f1228ce1689f955c7e13956d78ecff]: Commencement: Reg. 12 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
 
-[^key-be0f270b26de72ad041c72ce93c2b568]: Commencement: Reg. 13 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
+[^c-be0f270b26de72ad041c72ce93c2b568]: Commencement: Reg. 13 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
 
-[^key-e897a5f00243d6490c34027b19558375]: Commencement: Reg. 14 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
+[^c-e897a5f00243d6490c34027b19558375]: Commencement: Reg. 14 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
 
-[^key-e8950ba3b574cd2fdaa64feb0b2ad568]: Commencement: Reg. 15 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
+[^c-e8950ba3b574cd2fdaa64feb0b2ad568]: Commencement: Reg. 15 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
 
-[^key-247d3fa5823334b17ef4e08ba70738f8]: Commencement: Reg. 16 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
+[^c-247d3fa5823334b17ef4e08ba70738f8]: Commencement: Reg. 16 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
 
 [^f00024]: Footnote: IMO Circular MSC/Circ.908 provides guidelines for the verification of the density of solid bulk cargo and may be obtained from the International Maritime Organization of 4 Albert Embankment, London SE1 7SR or from the Maritime and Coastguard Agency of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk). It is government policy to recommend the use of testing organisations accredited by the United Kingdom Accreditation Service (UKAS) – see https://www.ukas.com/about-us/about-ukas/.
 
-[^key-77714c7176ae387c5a4584bf345389da]: Commencement: Reg. 17 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
+[^c-77714c7176ae387c5a4584bf345389da]: Commencement: Reg. 17 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
 
-[^key-5a626acd23c71283791b12556c05365a]: Commencement: Reg. 18 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
+[^c-5a626acd23c71283791b12556c05365a]: Commencement: Reg. 18 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
 
-[^key-5d0aa8f2824b4fe3ba02d3a8886cf61a]: Commencement: Reg. 19 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
+[^c-5d0aa8f2824b4fe3ba02d3a8886cf61a]: Commencement: Reg. 19 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
 
-[^key-492cffde0659c6b659b96dd492801307]: Commencement: Reg. 20 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
+[^c-492cffde0659c6b659b96dd492801307]: Commencement: Reg. 20 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
 
 [^f00025]: Footnote: IMO Resolution MSC.168(79) contains the standards and criteria for side structures of bulk carriers of single-side skin construction. MSC.168(79) was adopted by the Maritime Safety Committee of the IMO on 9th December 2004 for the purposes of the application of regulation 14 of Chapter XII and is made mandatory by reference to it in regulation 14 of Chapter XII.
 
@@ -616,9 +616,9 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00027]: Footnote: [S.I. 1998/2241](https://www.legislation.gov.uk/uksi/1998/2241), amended by [S.I. 2000/1335](https://www.legislation.gov.uk/uksi/2000/1335), [S.I. 2011/603](https://www.legislation.gov.uk/uksi/2011/603) and [S.I. 2018/155](https://www.legislation.gov.uk/uksi/2018/155). These Regulations apply to all ships to which [S.I. 2018/155](https://www.legislation.gov.uk/uksi/2018/155) does not apply, with limited exceptions. Freeboards are assigned under regulation 7 of the Regulations.
 
-[^key-2e06ae290348d89aca32a6bd73415851]: Commencement: Reg. 21 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
+[^c-2e06ae290348d89aca32a6bd73415851]: Commencement: Reg. 21 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
 
-[^key-06cda38749c36855f1d9e6b86657fe60]: Commencement: Reg. 22 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
+[^c-06cda38749c36855f1d9e6b86657fe60]: Commencement: Reg. 22 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
 
 [^f00028]: Footnote: Section 284 was amended by Schedule 1 to the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28) and [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664).
 
@@ -626,8 +626,8 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00030]: Footnote: Section 95 was amended by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28).
 
-[^key-0b740302453a3b7c7588979b868042f8]: Commencement: Reg. 23 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
+[^c-0b740302453a3b7c7588979b868042f8]: Commencement: Reg. 23 in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
 
 [^f00031]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30(3) was amended by section 19 of the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12) and Schedule 8 to the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-31bda2d0e87725824e0b177a67a814e2]: Commencement: Sch. in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)
+[^c-31bda2d0e87725824e0b177a67a814e2]: Commencement: Sch. in force at 20.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1)

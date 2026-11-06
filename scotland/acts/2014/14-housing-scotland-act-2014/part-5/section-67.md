@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Duty to inform local authority where change[^key-a1b4032927beafda6979cfc71105c2c9]
+## 67. Duty to inform local authority where change[^c-a1b4032927beafda6979cfc71105c2c9]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ After section 32J of the 1960 Act (inserted by section 66), insert—
 
 ## Annotations
 
-[^key-a1b4032927beafda6979cfc71105c2c9]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2014/14/section/67) in force at 1.5.2017 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-a1b4032927beafda6979cfc71105c2c9]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2014/14/section/67) in force at 1.5.2017 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

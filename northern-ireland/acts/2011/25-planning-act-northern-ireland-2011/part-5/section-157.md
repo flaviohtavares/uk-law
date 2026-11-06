@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 157. Issue of listed building enforcement notices by councils[^key-39ff60d1fcfe03156cae18a1cf148ec7][^key-bb2ef30bc4021af10621bed555b9d45d][^key-3a9e71a09b04f54cb4e6ad3c729ef376][^key-6f39dfcd6b85a9e961c53086d742aed9][^key-3a9e71a09b04f54cb4e6ad3c729ef376]
+## 157. Issue of listed building enforcement notices by councils[^c-39ff60d1fcfe03156cae18a1cf148ec7][^c-bb2ef30bc4021af10621bed555b9d45d][^c-3a9e71a09b04f54cb4e6ad3c729ef376][^c-6f39dfcd6b85a9e961c53086d742aed9][^c-3a9e71a09b04f54cb4e6ad3c729ef376]
 
 *Extent: N.I.*
 
@@ -45,10 +45,10 @@ and where different periods apply to different steps, references in this Part to
 
 ## Annotations
 
-[^key-39ff60d1fcfe03156cae18a1cf148ec7]: Commencement: S. 157 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
+[^c-39ff60d1fcfe03156cae18a1cf148ec7]: Commencement: S. 157 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
 
-[^key-bb2ef30bc4021af10621bed555b9d45d]: Commencement: S. 157 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
+[^c-bb2ef30bc4021af10621bed555b9d45d]: Commencement: S. 157 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
 
-[^key-3a9e71a09b04f54cb4e6ad3c729ef376]: Modification: Pt. 5 applied with modification(s) (1.4.2015) by [The Planning (Conservation Areas) (Demolition) Regulations (Northern Ireland) 2015 (S.R. 2015/107)](https://www.legislation.gov.uk/nisr/2015/107), [regs. 1](https://www.legislation.gov.uk/nisr/2015/107/regulation/1), [11](https://www.legislation.gov.uk/nisr/2015/107/regulation/11)
+[^c-3a9e71a09b04f54cb4e6ad3c729ef376]: Modification: Pt. 5 applied with modification(s) (1.4.2015) by [The Planning (Conservation Areas) (Demolition) Regulations (Northern Ireland) 2015 (S.R. 2015/107)](https://www.legislation.gov.uk/nisr/2015/107), [regs. 1](https://www.legislation.gov.uk/nisr/2015/107/regulation/1), [11](https://www.legislation.gov.uk/nisr/2015/107/regulation/11)
 
-[^key-6f39dfcd6b85a9e961c53086d742aed9]: Modification: S. 157 applied (with modifications) (1.4.2015) by [The Planning (Conservation Areas) (Demolition) Regulations (Northern Ireland) 2015 (S.R. 2015/107)](https://www.legislation.gov.uk/nisr/2015/107), [regs. 1](https://www.legislation.gov.uk/nisr/2015/107/regulation/1), [15](https://www.legislation.gov.uk/nisr/2015/107/regulation/15), [Sch. 2](https://www.legislation.gov.uk/nisr/2015/107/schedule/2)
+[^c-6f39dfcd6b85a9e961c53086d742aed9]: Modification: S. 157 applied (with modifications) (1.4.2015) by [The Planning (Conservation Areas) (Demolition) Regulations (Northern Ireland) 2015 (S.R. 2015/107)](https://www.legislation.gov.uk/nisr/2015/107), [regs. 1](https://www.legislation.gov.uk/nisr/2015/107/regulation/1), [15](https://www.legislation.gov.uk/nisr/2015/107/regulation/15), [Sch. 2](https://www.legislation.gov.uk/nisr/2015/107/schedule/2)

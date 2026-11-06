@@ -27,7 +27,7 @@ summary: ''
 
 2. For the purposes of this Regulation, any reference to the territory of an EU Member State or the European Union is not to be treated as including the Canary Islands, Ceuta, Melilla or the French Overseas Departments.
 
-3.[^key-89f689effaa6ea61dd92b7857c9a26a0] Any reference in this Regulation (however expressed) to plants, plant products or other objects originating in or from a third country, or dispatched from a third country, does not include:
+3.[^c-89f689effaa6ea61dd92b7857c9a26a0] Any reference in this Regulation (however expressed) to plants, plant products or other objects originating in or from a third country, or dispatched from a third country, does not include:
 
 - (a) any plants, plant products or other objects in so far as they are part of a relevant NI trade unit; or
 - (b) any wood packaging material in use in the transport of a relevant NI trade unit.
@@ -36,4 +36,4 @@ summary: ''
 
 [^M_F_b013cea4-96d0-4a23-bec8-1f02c36232c1]: Textual amendment: Art. 2b inserted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [26(4)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/26/4) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
 
-[^key-89f689effaa6ea61dd92b7857c9a26a0]: Textual amendment: Art. 2b(3) inserted (27.1.2021) by [The Plant Health (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/79)](https://www.legislation.gov.uk/uksi/2021/79), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/79/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2021/79/regulation/3/3)
+[^c-89f689effaa6ea61dd92b7857c9a26a0]: Textual amendment: Art. 2b(3) inserted (27.1.2021) by [The Plant Health (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/79)](https://www.legislation.gov.uk/uksi/2021/79), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/79/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2021/79/regulation/3/3)

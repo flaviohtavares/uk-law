@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Width and lateral projections: police notification, Secretary of State notification and attendants[^key-d784fc67028dd5e7966c791782779e50]
+## 15. Width and lateral projections: police notification, Secretary of State notification and attendants[^c-d784fc67028dd5e7966c791782779e50]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d784fc67028dd5e7966c791782779e50]: Commencement: Art. 15 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-d784fc67028dd5e7966c791782779e50]: Commencement: Art. 15 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

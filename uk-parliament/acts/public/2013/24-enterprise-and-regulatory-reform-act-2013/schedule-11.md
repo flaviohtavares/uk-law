@@ -24,7 +24,7 @@ Section 36(8)
 
 ### Enforcement of investigation powers
 
-**1.**[^c2181351][^key-74fe04903cb90d2ccd906a2f3ef401f7] After section 174 of the 2002 Act insert—
+**1.**[^c2181351][^c-74fe04903cb90d2ccd906a2f3ef401f7] After section 174 of the 2002 Act insert—
 
 > **174A. Enforcement of powers under section 174: general**
 >
@@ -155,15 +155,15 @@ Section 36(8)
 
 ### Investigation powers: miscellaneous consequential amendments
 
-**2.**[^key-964e13f8353c98bde5fcc44ad72c8021] Part 4 of the 2002 Act (market investigations) is amended as follows.
+**2.**[^c-964e13f8353c98bde5fcc44ad72c8021] Part 4 of the 2002 Act (market investigations) is amended as follows.
 
-**3.**[^key-d7af761e8a9d04e327232b8066d71dcd] Omit section 175 (enforcement of powers under section 174: offences).
+**3.**[^c-d7af761e8a9d04e327232b8066d71dcd] Omit section 175 (enforcement of powers under section 174: offences).
 
-**4.**[^key-7abbc56491172e1959a1fe62388f13b5] Omit section 176 (investigation powers of the Commission).
+**4.**[^c-7abbc56491172e1959a1fe62388f13b5] Omit section 176 (investigation powers of the Commission).
 
-**5.**[^key-82ac70976deb035dc6d6a8a372b57431] In section 179 (review of decisions under Part 4), in subsection (2)(a), for “section 110(1) or (3) as applied by section 176” substitute “ section 174A(1) or (3) ”.
+**5.**[^c-82ac70976deb035dc6d6a8a372b57431] In section 179 (review of decisions under Part 4), in subsection (2)(a), for “section 110(1) or (3) as applied by section 176” substitute “ section 174A(1) or (3) ”.
 
-**6.**[^c2181352][^key-6095fc6cee17b34fe1539eb75a0219ab] (1) Section 181 (orders under Part 4) is amended as follows.
+**6.**[^c2181352][^c-6095fc6cee17b34fe1539eb75a0219ab] (1) Section 181 (orders under Part 4) is amended as follows.
 
 (2) In subsection (4), for the words from “or 161,” to “section 176” substitute “ , 161, 174D(4) or (5), or under section 114(3)(b) or (4)(b) as applied by section 174D ”.
 
@@ -176,16 +176,16 @@ Section 36(8)
 
 [^c2181351]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2013/24/schedule/11/paragraph/1) partly in force; [sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2013/24/schedule/11/paragraph/1) in force for specified purposes at Royal Assent, see [s.103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)
 
-[^key-74fe04903cb90d2ccd906a2f3ef401f7]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2013/24/schedule/11/paragraph/1) in force at 1.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-74fe04903cb90d2ccd906a2f3ef401f7]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2013/24/schedule/11/paragraph/1) in force at 1.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-964e13f8353c98bde5fcc44ad72c8021]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/11/paragraph/2) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-964e13f8353c98bde5fcc44ad72c8021]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/11/paragraph/2) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-d7af761e8a9d04e327232b8066d71dcd]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2013/24/schedule/11/paragraph/3) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-d7af761e8a9d04e327232b8066d71dcd]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2013/24/schedule/11/paragraph/3) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-7abbc56491172e1959a1fe62388f13b5]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2013/24/schedule/11/paragraph/4) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-7abbc56491172e1959a1fe62388f13b5]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2013/24/schedule/11/paragraph/4) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-82ac70976deb035dc6d6a8a372b57431]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2013/24/schedule/11/paragraph/5) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-82ac70976deb035dc6d6a8a372b57431]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2013/24/schedule/11/paragraph/5) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
 [^c2181352]: Commencement: [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2013/24/schedule/11/paragraph/6) partly in force; [sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2013/24/schedule/11/paragraph/6) in force for specified purposes at Royal Assent, see [s.103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)
 
-[^key-6095fc6cee17b34fe1539eb75a0219ab]: Commencement: [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2013/24/schedule/11/paragraph/6) in force at 1.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-6095fc6cee17b34fe1539eb75a0219ab]: Commencement: [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2013/24/schedule/11/paragraph/6) in force at 1.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

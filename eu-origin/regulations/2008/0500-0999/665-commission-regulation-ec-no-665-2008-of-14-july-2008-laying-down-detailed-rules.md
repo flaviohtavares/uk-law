@@ -34,54 +34,54 @@ of 14 July 2008
 
 laying down detailed rules for the application of Council Regulation (EC) No 199/2008 concerning the establishment of a Community framework for the collection, management and use of data in the fisheries sector and support for scientific advice regarding the Common Fisheries Policy (revoked)
 
-[^key-c309cd45a7082da9077e55d5129e0439]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c309cd45a7082da9077e55d5129e0439]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Components of the national programmes[^key-c309cd45a7082da9077e55d5129e0439]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Submission of the national programmes[^key-c309cd45a7082da9077e55d5129e0439]
+## Article 1. Components of the national programmes[^c-c309cd45a7082da9077e55d5129e0439]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. National co-ordination and co-ordination between the Commission and Member States[^key-c309cd45a7082da9077e55d5129e0439]
+## Article 2. Submission of the national programmes[^c-c309cd45a7082da9077e55d5129e0439]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Regional co-ordination[^key-c309cd45a7082da9077e55d5129e0439]
+## Article 3. National co-ordination and co-ordination between the Commission and Member States[^c-c309cd45a7082da9077e55d5129e0439]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Submission of the annual report[^key-c309cd45a7082da9077e55d5129e0439]
+## Article 4. Regional co-ordination[^c-c309cd45a7082da9077e55d5129e0439]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Reductions of Community financial assistance[^key-c309cd45a7082da9077e55d5129e0439]
+## Article 5. Submission of the annual report[^c-c309cd45a7082da9077e55d5129e0439]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Research surveys at sea[^key-c309cd45a7082da9077e55d5129e0439]
+## Article 6. Reductions of Community financial assistance[^c-c309cd45a7082da9077e55d5129e0439]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Management of primary and metadata[^key-c309cd45a7082da9077e55d5129e0439]
+## Article 7. Research surveys at sea[^c-c309cd45a7082da9077e55d5129e0439]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Follow up of requests and transmissions of data[^key-c309cd45a7082da9077e55d5129e0439]
+## Article 8. Management of primary and metadata[^c-c309cd45a7082da9077e55d5129e0439]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Support for scientific advice[^key-c309cd45a7082da9077e55d5129e0439]
+## Article 9. Follow up of requests and transmissions of data[^c-c309cd45a7082da9077e55d5129e0439]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Entry into force[^key-c309cd45a7082da9077e55d5129e0439]
+## Article 10. Support for scientific advice[^c-c309cd45a7082da9077e55d5129e0439]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c309cd45a7082da9077e55d5129e0439]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 11. Entry into force[^c-c309cd45a7082da9077e55d5129e0439]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-c309cd45a7082da9077e55d5129e0439]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c309cd45a7082da9077e55d5129e0439]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/739/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c309cd45a7082da9077e55d5129e0439]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/739/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

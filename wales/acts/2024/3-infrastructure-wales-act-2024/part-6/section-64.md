@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Purpose for which compulsory acquisition may be authorised[^key-290c8fac003a4b00458569640d13f644][^key-c2b2b4b09947da2110688ad838568cf8]
+## 64. Purpose for which compulsory acquisition may be authorised[^c-290c8fac003a4b00458569640d13f644][^c-c2b2b4b09947da2110688ad838568cf8]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-290c8fac003a4b00458569640d13f644]: Commencement: S. 64 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-290c8fac003a4b00458569640d13f644]: Commencement: S. 64 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-c2b2b4b09947da2110688ad838568cf8]: Commencement: [S. 64](https://www.legislation.gov.uk/asc/2024/3/section/64) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)
+[^c-c2b2b4b09947da2110688ad838568cf8]: Commencement: [S. 64](https://www.legislation.gov.uk/asc/2024/3/section/64) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)

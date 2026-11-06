@@ -22,12 +22,12 @@ summary: ''
 
 Article 5
 
-**1.**[^key-5cd65187ba23fdccaeccf553cdc4c0ae] (1) In this Schedule—
+**1.**[^c-5cd65187ba23fdccaeccf553cdc4c0ae] (1) In this Schedule—
 
 - “a relevant transfer” means a transfer of functions under paragraph (1), (2), (3) or (4) of Article 5;
 - “the transfer date”, in relation to a relevant transfer, means the day on which the transfer takes effect.
 
-(2) In the construction and for the purposes of any enactment or document passed, made or issued before the transfer date, any reference to, or which is to be construed as a reference to, the Department for Infrastructure[^key-6f4a2c042ea3ee02ba77b6b228f1682b] (in this Schedule referred to as “the Department”) shall, so far as may be necessary for the purpose of a relevant transfer, be construed as a reference to the Body.
+(2) In the construction and for the purposes of any enactment or document passed, made or issued before the transfer date, any reference to, or which is to be construed as a reference to, the Department for Infrastructure[^c-6f4a2c042ea3ee02ba77b6b228f1682b] (in this Schedule referred to as “the Department”) shall, so far as may be necessary for the purpose of a relevant transfer, be construed as a reference to the Body.
 
 (3) A relevant transfer shall not affect the validity of any enactment or document made or issued or any other act done by, or in relation to, the Department before the transfer date; and any such enactment, document or act shall, if in force immediately before that date, continue in force to the same extent and subject to the same provisions as if it had been duly made, issued or done by, or in relation to, the Body.
 
@@ -37,9 +37,9 @@ Article 5
 
 (6) Sub-paragraph (5) does not apply in relation to rights and liabilities which are dealt with in paragraph 2 (transfer of staff).
 
-(7) A certificate signed by the Minister for Infrastructure[^key-92f09b1d6d2416f9db917e78741d1401] that any property, right or liability has vested in the Body under sub-paragraph (5) or paragraph 2 shall be conclusive evidence of that fact for all purposes.
+(7) A certificate signed by the Minister for Infrastructure[^c-92f09b1d6d2416f9db917e78741d1401] that any property, right or liability has vested in the Body under sub-paragraph (5) or paragraph 2 shall be conclusive evidence of that fact for all purposes.
 
-**2.**[^key-6685658f8ba4224d1c0cf80a89fd8445] (1) Any person who—
+**2.**[^c-6685658f8ba4224d1c0cf80a89fd8445] (1) Any person who—
 
 - (a) immediately before the transfer date is employed in the Northern Ireland Civil Service;
 - (b) is so employed for the purposes of any functions which are transferred to the Body on that date and either—
@@ -67,7 +67,7 @@ shall on such date as the Department may designate (“the designated date”) b
 
 (6) If any dispute arises as to whether there has been a contravention of sub-paragraph (5), the matter shall be determined by the Department of Finance and Personnel.
 
-**3.**[^key-b1a9c0963cd3bfb30a0f55081c33c708] In its application to the Body by virtue of a relevant transfer, section 5 of the Lough Neagh and Lower Bann Drainage and Navigation Act (Northern Ireland) 1955 shall have effect as if for subsections (2) and (3) there were substituted—
+**3.**[^c-b1a9c0963cd3bfb30a0f55081c33c708] In its application to the Body by virtue of a relevant transfer, section 5 of the Lough Neagh and Lower Bann Drainage and Navigation Act (Northern Ireland) 1955 shall have effect as if for subsections (2) and (3) there were substituted—
 
 > (2) Where Waterways Ireland (“the Body”) desires to acquire, otherwise than by agreement, any land or any such right or interest as is referred to in subsection (1)(c), it may apply to the Department for an order (“a vesting order”) vesting such land in the Body; and the Department shall have power to make such an order.
 >
@@ -79,7 +79,7 @@ shall on such date as the Department may designate (“the designated date”) b
 > - (d) in paragraph 6(2) for the words from “the fund” onwards there shall be substituted the words “funds of the Body (in this Schedule referred to as “the compensation fund”), and shall be discharged by payments made by that Body”; and
 > - (e) in paragraph 12(2) for “the clerk of the council” there shall be substituted “the chief executive of the Body”.
 
-**4.**[^key-35dffc6dcd3e5227284f7dff4e28a367] (1) In their application, by virtue of a relevant transfer, to the Body or to works carried out by the Body, the provisions of the Drainage (Northern Ireland) Order 1973[^f00011] mentioned in Article 45 of the Water (Northern Ireland) Order 1999 shall have effect with such modifications (additional to those set out in Part II of Schedule 5 to that Order) as may be prescribed by regulations made by the Department.
+**4.**[^c-35dffc6dcd3e5227284f7dff4e28a367] (1) In their application, by virtue of a relevant transfer, to the Body or to works carried out by the Body, the provisions of the Drainage (Northern Ireland) Order 1973[^f00011] mentioned in Article 45 of the Water (Northern Ireland) Order 1999 shall have effect with such modifications (additional to those set out in Part II of Schedule 5 to that Order) as may be prescribed by regulations made by the Department.
 
 (2) Regulations under sub-paragraph (1) shall—
 
@@ -105,13 +105,13 @@ shall on such date as the Department may designate (“the designated date”) b
 
 (5) The Body shall not, by virtue of a relevant transfer, make an order under Article 49 of the Water (Northern Ireland) Order 1999 except with the approval of NSMC.
 
-**5.**[^key-71ba58a446e6268e18d1549af44b538f] In Part I of Schedule 1 to the Statutory Rules (Northern Ireland) Order 1979 after the entry relating to the Foyle, Carlingford and Irish Lights Commission (inserted by paragraph 6 of Schedule 5) there shall be inserted—
+**5.**[^c-71ba58a446e6268e18d1549af44b538f] In Part I of Schedule 1 to the Statutory Rules (Northern Ireland) Order 1979 after the entry relating to the Foyle, Carlingford and Irish Lights Commission (inserted by paragraph 6 of Schedule 5) there shall be inserted—
 
 > Waterways Ireland
 
 .
 
-**6.**[^key-eaa70363c054b9b2aa523822bd161e2e] (1) The Department may by order make such other supplementary or transitional provisions for the purposes of a relevant transfer as it thinks fit.
+**6.**[^c-eaa70363c054b9b2aa523822bd161e2e] (1) The Department may by order make such other supplementary or transitional provisions for the purposes of a relevant transfer as it thinks fit.
 
 (2) An order under sub-paragraph (1) shall—
 
@@ -120,22 +120,22 @@ shall on such date as the Department may designate (“the designated date”) b
 
 ## Annotations
 
-[^key-5cd65187ba23fdccaeccf553cdc4c0ae]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/1999/859/schedule/4/paragraph/1) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
+[^c-5cd65187ba23fdccaeccf553cdc4c0ae]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/1999/859/schedule/4/paragraph/1) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
 
-[^key-6f4a2c042ea3ee02ba77b6b228f1682b]: Textual amendment: Words in [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/schedule/4/paragraph/1/2) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 24(a)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/24/a) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-6f4a2c042ea3ee02ba77b6b228f1682b]: Textual amendment: Words in [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/schedule/4/paragraph/1/2) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 24(a)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/24/a) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-92f09b1d6d2416f9db917e78741d1401]: Textual amendment: Words in [Sch. 4 para. 1(7)](https://www.legislation.gov.uk/uksi/1999/859/schedule/4/paragraph/1/7) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 24(b)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/24/b) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-92f09b1d6d2416f9db917e78741d1401]: Textual amendment: Words in [Sch. 4 para. 1(7)](https://www.legislation.gov.uk/uksi/1999/859/schedule/4/paragraph/1/7) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 24(b)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/24/b) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-6685658f8ba4224d1c0cf80a89fd8445]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/1999/859/schedule/4/paragraph/2) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
+[^c-6685658f8ba4224d1c0cf80a89fd8445]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/1999/859/schedule/4/paragraph/2) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
 
-[^key-b1a9c0963cd3bfb30a0f55081c33c708]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/1999/859/schedule/4/paragraph/3) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
+[^c-b1a9c0963cd3bfb30a0f55081c33c708]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/1999/859/schedule/4/paragraph/3) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
 
 [^f00010]: Footnote: [1972 c. 9 (N.I)](https://www.legislation.gov.uk/apni/1972/9).
 
-[^key-35dffc6dcd3e5227284f7dff4e28a367]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/1999/859/schedule/4/paragraph/4) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
+[^c-35dffc6dcd3e5227284f7dff4e28a367]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/1999/859/schedule/4/paragraph/4) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
 
 [^f00011]: Footnote: S.I. [1973/69 (N.I. 1)](https://www.legislation.gov.uk/nisi/1973/69).
 
-[^key-71ba58a446e6268e18d1549af44b538f]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/1999/859/schedule/4/paragraph/5) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
+[^c-71ba58a446e6268e18d1549af44b538f]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/1999/859/schedule/4/paragraph/5) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
 
-[^key-eaa70363c054b9b2aa523822bd161e2e]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/1999/859/schedule/4/paragraph/6) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
+[^c-eaa70363c054b9b2aa523822bd161e2e]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/1999/859/schedule/4/paragraph/6) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)

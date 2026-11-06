@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Surrender of licence to Secretary of State where disqualified[^key-dd45e106f1d090b5c530aca2f5242d6d][^key-2a4e60219015bac09af553fff414df02]
+## 92. Surrender of licence to Secretary of State where disqualified[^c-dd45e106f1d090b5c530aca2f5242d6d][^c-2a4e60219015bac09af553fff414df02]
 
 *Extent: E+W+S*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dd45e106f1d090b5c530aca2f5242d6d]: Commencement: S. 92 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-dd45e106f1d090b5c530aca2f5242d6d]: Commencement: S. 92 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-2a4e60219015bac09af553fff414df02]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2022/32/section/92) in force at 30.11.2022 by [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-2a4e60219015bac09af553fff414df02]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2022/32/section/92) in force at 30.11.2022 by [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))

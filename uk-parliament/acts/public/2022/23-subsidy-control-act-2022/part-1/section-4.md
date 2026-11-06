@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Financial assistance which is specific[^key-c4b0c5147166c5350b2b68a58a668501]
+## 4. Financial assistance which is specific[^c-c4b0c5147166c5350b2b68a58a668501]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4b0c5147166c5350b2b68a58a668501]: Commencement: S. 4 in force at Royal Assent, see [s. 91(1)(a)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/a)
+[^c-c4b0c5147166c5350b2b68a58a668501]: Commencement: S. 4 in force at Royal Assent, see [s. 91(1)(a)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/a)

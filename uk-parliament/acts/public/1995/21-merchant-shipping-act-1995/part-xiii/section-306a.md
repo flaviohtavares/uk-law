@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 306A. Power to make ambulatory references to international instruments[^key-f2ccdafeaafdd04f665096ab10413715][^key-c50af598b1b2162a29f17f9a389d311c][^key-a743596cf1d3c71965aa5d45bf97e7db]
+## 306A. Power to make ambulatory references to international instruments[^c-f2ccdafeaafdd04f665096ab10413715][^c-c50af598b1b2162a29f17f9a389d311c][^c-a743596cf1d3c71965aa5d45bf97e7db]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,8 +49,8 @@ summary: ''
 
 ## Annotations
 
-[^key-f2ccdafeaafdd04f665096ab10413715]: Modification: [S. 306A](https://www.legislation.gov.uk/ukpga/1995/21/section/306A) applied (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [13](https://www.legislation.gov.uk/uksi/2023/35/article/13)
+[^c-f2ccdafeaafdd04f665096ab10413715]: Modification: [S. 306A](https://www.legislation.gov.uk/ukpga/1995/21/section/306A) applied (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [13](https://www.legislation.gov.uk/uksi/2023/35/article/13)
 
-[^key-c50af598b1b2162a29f17f9a389d311c]: Modification: [S. 306A](https://www.legislation.gov.uk/ukpga/1995/21/section/306A) extended (with modifications) (16.10.2025) by [S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 7](https://www.legislation.gov.uk/uksi/1989/1350/article/7) (as inserted by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/5))
+[^c-c50af598b1b2162a29f17f9a389d311c]: Modification: [S. 306A](https://www.legislation.gov.uk/ukpga/1995/21/section/306A) extended (with modifications) (16.10.2025) by [S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 7](https://www.legislation.gov.uk/uksi/1989/1350/article/7) (as inserted by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/5))
 
-[^key-a743596cf1d3c71965aa5d45bf97e7db]: Textual amendment: [S. 306A](https://www.legislation.gov.uk/ukpga/1995/21/section/306A) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 106](https://www.legislation.gov.uk/ukpga/2015/20/section/106), [115(3)(m)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/m)
+[^c-a743596cf1d3c71965aa5d45bf97e7db]: Textual amendment: [S. 306A](https://www.legislation.gov.uk/ukpga/1995/21/section/306A) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 106](https://www.legislation.gov.uk/ukpga/2015/20/section/106), [115(3)(m)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/m)

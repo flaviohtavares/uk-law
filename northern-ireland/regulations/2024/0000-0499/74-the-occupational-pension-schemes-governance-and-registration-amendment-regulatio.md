@@ -46,13 +46,13 @@ The Department for Communities[^f00001] makes the following Regulations in exerc
 
 ## PART 1 — Introductory provisions
 
-### 1. Citation and commencement[^key-18ad70421a5208d2c69d20d5abf51729]
+### 1. Citation and commencement[^c-18ad70421a5208d2c69d20d5abf51729]
 
 These Regulations may be cited as the Occupational Pension Schemes (Governance and Registration) (Amendment) Regulations (Northern Ireland) 2024 and shall come into operation on 26th March 2024.
 
 ## PART 2 — Use of fiduciary management services and investment consultancy services
 
-### 2. Amendment of the Occupational Pension Schemes (Scheme Administration) Regulations[^key-f0c362ce87d3389fd17de84b8def2435]
+### 2. Amendment of the Occupational Pension Schemes (Scheme Administration) Regulations[^c-f0c362ce87d3389fd17de84b8def2435]
 
 (1) The Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997[^f00004] are amended in accordance with paragraphs (2) and (3).
 
@@ -390,7 +390,7 @@ These Regulations may be cited as the Occupational Pension Schemes (Governance a
 
 ## PART 3 — Registrable information
 
-### 3. Amendment of the Register of Occupational and Personal Pension Schemes Regulations[^key-8b9c239399dc083f967471a92501217b]
+### 3. Amendment of the Register of Occupational and Personal Pension Schemes Regulations[^c-8b9c239399dc083f967471a92501217b]
 
 In regulation 3 of the Register of Occupational and Personal Pension Schemes Regulations (Northern Ireland) 2005[^f00018] (registrable information)—
 
@@ -433,7 +433,7 @@ In regulation 3 of the Register of Occupational and Personal Pension Schemes Reg
 
 ## PART 4 — Revocation
 
-### 4. Revocation[^key-44bbad75d2b893935c40e2aab5d8aa7d]
+### 4. Revocation[^c-44bbad75d2b893935c40e2aab5d8aa7d]
 
 The Occupational Pension Schemes (Governance and Registration) (Amendment No. 2) Regulations (Northern Ireland) 2023[^f00022] are revoked.
 
@@ -445,7 +445,7 @@ Patrick Rooney
 
 A senior officer of the Department for Communities
 
-## SCHEDULE — Schedule to be added to the Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997[^key-77f85a35fd3945de7d9ae053d42d8868]
+## SCHEDULE — Schedule to be added to the Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997[^c-77f85a35fd3945de7d9ae053d42d8868]
 
 Regulation 2(3)
 
@@ -731,9 +731,9 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00003]: Footnote: [2015 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2015/5)
 
-[^key-18ad70421a5208d2c69d20d5abf51729]: Commencement: Reg. 1 in operation at 26.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/74/regulation/1)
+[^c-18ad70421a5208d2c69d20d5abf51729]: Commencement: Reg. 1 in operation at 26.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/74/regulation/1)
 
-[^key-f0c362ce87d3389fd17de84b8def2435]: Commencement: Reg. 2 in operation at 26.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/74/regulation/1)
+[^c-f0c362ce87d3389fd17de84b8def2435]: Commencement: Reg. 2 in operation at 26.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/74/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1997 No. 94](https://www.legislation.gov.uk/nisr/1997/94); relevant amending Regulations are [S.R. 2015 No. 309](https://www.legislation.gov.uk/nisr/2015/309); *see also* regulation 2 of [S.R. 2023 No. 146](https://www.legislation.gov.uk/nisr/2023/146)
 
@@ -763,7 +763,7 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00017]: Footnote: Article 10(8A) was inserted by paragraph 9 of Schedule 2 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11))](https://www.legislation.gov.uk/nisi/1999/3147)
 
-[^key-8b9c239399dc083f967471a92501217b]: Commencement: Reg. 3 in operation at 26.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/74/regulation/1)
+[^c-8b9c239399dc083f967471a92501217b]: Commencement: Reg. 3 in operation at 26.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/74/regulation/1)
 
 [^f00018]: Footnote: [S.R. 2005 No. 93](https://www.legislation.gov.uk/nisr/2005/93); relevant amending Regulations are [S.R. 2015 No. 309](https://www.legislation.gov.uk/nisr/2015/309) and S.R. 2021 Nos. [246](https://www.legislation.gov.uk/nisr/2021/246) and [272](https://www.legislation.gov.uk/nisr/2021/272); *see also* regulation 3 of [S.R. 2023 No. 146](https://www.legislation.gov.uk/nisr/2023/146)
 
@@ -773,11 +773,11 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00021]: Footnote: Paragraph (3A) was inserted by regulation 3(3) of [S.R. 2021 No. 272](https://www.legislation.gov.uk/nisr/2021/272)
 
-[^key-44bbad75d2b893935c40e2aab5d8aa7d]: Commencement: Reg. 4 in operation at 26.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/74/regulation/1)
+[^c-44bbad75d2b893935c40e2aab5d8aa7d]: Commencement: Reg. 4 in operation at 26.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/74/regulation/1)
 
 [^f00022]: Footnote: [S.R. 2023 No. 146](https://www.legislation.gov.uk/nisr/2023/146)
 
-[^key-77f85a35fd3945de7d9ae053d42d8868]: Commencement: Sch. in operation at 26.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/74/regulation/1)
+[^c-77f85a35fd3945de7d9ae053d42d8868]: Commencement: Sch. in operation at 26.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/74/regulation/1)
 
 [^f00023]: Footnote: [2021 c. 6 (N.I.)](https://www.legislation.gov.uk/nia/2021/6)
 

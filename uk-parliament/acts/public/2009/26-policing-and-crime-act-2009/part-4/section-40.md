@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Interim injunctions: adjournment of on notice hearing[^key-6185631d596ccc3bdfc9d82997f3ca13]
+## 40. Interim injunctions: adjournment of on notice hearing[^c-6185631d596ccc3bdfc9d82997f3ca13]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6185631d596ccc3bdfc9d82997f3ca13]: Commencement: S. 40 in force at 31.1.2011 by [S.I. 2010/2988](https://www.legislation.gov.uk/uksi/2010/2988), [art. 2](https://www.legislation.gov.uk/uksi/2010/2988/article/2)
+[^c-6185631d596ccc3bdfc9d82997f3ca13]: Commencement: S. 40 in force at 31.1.2011 by [S.I. 2010/2988](https://www.legislation.gov.uk/uksi/2010/2988), [art. 2](https://www.legislation.gov.uk/uksi/2010/2988/article/2)

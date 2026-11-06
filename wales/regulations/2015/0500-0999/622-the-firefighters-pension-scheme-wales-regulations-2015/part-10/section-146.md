@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 146. Calculating the amount of a transfer value or club transfer value[^key-4764b5d0033c5a9abff6ef251de30b7f]
+## 146. Calculating the amount of a transfer value or club transfer value[^c-4764b5d0033c5a9abff6ef251de30b7f]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4764b5d0033c5a9abff6ef251de30b7f]: Commencement: Reg. 146 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-4764b5d0033c5a9abff6ef251de30b7f]: Commencement: Reg. 146 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
 [^f00066]: Footnote: Section 97 was amended by the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), Schedule 6, paragraph 4, and the Child Support, Pensions and Social Security Act [2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), Schedule 5, paragraph 8.

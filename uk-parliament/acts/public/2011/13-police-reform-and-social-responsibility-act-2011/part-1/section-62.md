@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Appointment of acting commissioner[^key-fc7f9f1f27abee25deebe7703de72b3d][^key-8566694629fbcbc159f11e2a86c2dd35][^key-520c411d28bd5d1f6457de727ee7df02]
+## 62. Appointment of acting commissioner[^c-fc7f9f1f27abee25deebe7703de72b3d][^c-8566694629fbcbc159f11e2a86c2dd35][^c-520c411d28bd5d1f6457de727ee7df02]
 
 *Extent: E+W*
 
-(1)[^key-75a160cb1e616fa3a229aacd42388230] The police and crime panel for a police area must appoint a person to act as police and crime commissioner for that area (the “acting commissioner”) if—
+(1)[^c-75a160cb1e616fa3a229aacd42388230] The police and crime panel for a police area must appoint a person to act as police and crime commissioner for that area (the “acting commissioner”) if—
 
 - (a) no person holds the office of police and crime commissioner for that area,
 - (b) the police and crime commissioner for that area is incapacitated, or
@@ -57,10 +57,10 @@ the occurrence of that vacancy does not affect the appointment of the acting com
 
 ## Annotations
 
-[^key-fc7f9f1f27abee25deebe7703de72b3d]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2011/13/section/62) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/b)
+[^c-fc7f9f1f27abee25deebe7703de72b3d]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2011/13/section/62) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/b)
 
-[^key-8566694629fbcbc159f11e2a86c2dd35]: Modification: [S. 62](https://www.legislation.gov.uk/ukpga/2011/13/section/62) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/27)
+[^c-8566694629fbcbc159f11e2a86c2dd35]: Modification: [S. 62](https://www.legislation.gov.uk/ukpga/2011/13/section/62) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/27)
 
-[^key-520c411d28bd5d1f6457de727ee7df02]: Modification: [S. 62](https://www.legislation.gov.uk/ukpga/2011/13/section/62) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 27](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/27)
+[^c-520c411d28bd5d1f6457de727ee7df02]: Modification: [S. 62](https://www.legislation.gov.uk/ukpga/2011/13/section/62) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 27](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/27)
 
-[^key-75a160cb1e616fa3a229aacd42388230]: Modification: [S. 62(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/62/1) restricted (with application in accordance with art. 5(1) of the amending S.I.) by [The Police Reform and Social Responsibility Act 2011 (Commencement No. 7 and Transitional Provisions and Commencement No. 3 and Transitional Provisions (Amendment)) Order 2012 (S.I. 2012/2892)](https://www.legislation.gov.uk/uksi/2012/2892), [art. 5(5)](https://www.legislation.gov.uk/uksi/2012/2892/article/5/5)
+[^c-75a160cb1e616fa3a229aacd42388230]: Modification: [S. 62(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/62/1) restricted (with application in accordance with art. 5(1) of the amending S.I.) by [The Police Reform and Social Responsibility Act 2011 (Commencement No. 7 and Transitional Provisions and Commencement No. 3 and Transitional Provisions (Amendment)) Order 2012 (S.I. 2012/2892)](https://www.legislation.gov.uk/uksi/2012/2892), [art. 5(5)](https://www.legislation.gov.uk/uksi/2012/2892/article/5/5)

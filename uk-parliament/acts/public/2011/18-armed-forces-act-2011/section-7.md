@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Power of judge advocate to authorise entry and search[^key-96447dba74bb73681f84bdabef9fea7d]
+## 7. Power of judge advocate to authorise entry and search[^c-96447dba74bb73681f84bdabef9fea7d]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ For section 83 of AFA 2006 (power of judge advocate to authorise entry and searc
 
 ## Annotations
 
-[^key-96447dba74bb73681f84bdabef9fea7d]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2011/18/section/7) in force at 14.12.2012 by [S.I. 2012/2921](https://www.legislation.gov.uk/uksi/2012/2921), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/2921/article/3/a)
+[^c-96447dba74bb73681f84bdabef9fea7d]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2011/18/section/7) in force at 14.12.2012 by [S.I. 2012/2921](https://www.legislation.gov.uk/uksi/2012/2921), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/2921/article/3/a)

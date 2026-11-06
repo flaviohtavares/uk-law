@@ -44,7 +44,7 @@ Coming into operation
 
 We, the Crown Court Rules Committee, in exercise of the powers conferred upon us by section 52(1) of the Judicature (Northern Ireland) Act 1978[^f00001] and of all other powers enabling us in that behalf, hereby with the concurrence of the Lord Chancellor make the following Rules:—
 
-## 1. Citation, commencement and interpretation[^key-8a0f1463e2a7bb7b035e88b5d1db7296]
+## 1. Citation, commencement and interpretation[^c-8a0f1463e2a7bb7b035e88b5d1db7296]
 
 (1) These Rules may be cited as the Crown Court (Criminal Procedure and Investigations Act 1996) (Tainted Acquittals) Rules (Northern Ireland) 1997 and shall come into operation on 30th June 1997.
 
@@ -52,26 +52,26 @@ We, the Crown Court Rules Committee, in exercise of the powers conferred upon us
 
 - “the Act” means the Criminal Procedure and Investigations Act 1996[^f00002] and a reference to a section by number is a reference to the section so numbered in the Act;
 - “acquittal” means an acquittal (of a person of an offence) which is the subject of a certification made under section 54(2);
-- “chief clerk” includes such other civil servants in the Department of Justice[^key-f3dfdcb60cafc9d702d9eb5feebf3180] as may be authorised to act on his behalf for the purpose in question;
+- “chief clerk” includes such other civil servants in the Department of Justice[^c-f3dfdcb60cafc9d702d9eb5feebf3180] as may be authorised to act on his behalf for the purpose in question;
 - “child” and “young person” have the same meaning as in section 180(1) of the Children and Young Persons Act (Northern Ireland) 1968[^f00003].
 
-## 2. Time of certification[^key-e03dca90022c9f0ea52766c948764647]
+## 2. Time of certification[^c-e03dca90022c9f0ea52766c948764647]
 
 Where a person is convicted before the Crown Court of an offence as referred to in section 54(1)(*b*) and it appears to the Court that the provisions of section 54(2) are satisfied, the Court shall make the certification referred to in section 54(2) at any time following conviction, but no later than—
 
 - (a) immediately after the Crown Court sentences or otherwise deals with that person in respect of the offence, or
 - (b) where that person is a child or young person and the Crown Court remits him to a juvenile court to be dealt with in respect of the offence, immediately after he is so remitted.
 
-## 3. Form of certification[^key-69833790748cfb23f4bca37fa0d47c78]
+## 3. Form of certification[^c-69833790748cfb23f4bca37fa0d47c78]
 
 Where the Crown Court makes the certification referred to in section 54(2), the certification shall be drawn up in Form 1 set out in the Schedule to these Rules, or a form substantially to the like effect, and any reference in these Rules to Form 1 shall include a reference to such a form.
 
-## 4. Service of a copy of Form 1[^key-9605c2ff363c3d1c628f2a491c513cc5]
+## 4. Service of a copy of Form 1[^c-9605c2ff363c3d1c628f2a491c513cc5]
 
 (1) Where the Crown Court makes a certification as referred to in section 54(2), the chief clerk shall, as soon as is practicable after the drawing up of Form 1, serve a copy of that form on the acquitted person referred to in the certification, on the prosecution in the proceedings which led to the acquittal, and, where the acquittal has not taken place before the Crown Court at the place where the certification was made, on—
 
 - (a) where the acquittal has taken place before the Crown Court at another place, the chief clerk of the Crown Court at that place;
-- (b) where the acquittal has taken place before a magistrates' court, the clerk of petty sessions [^key-c02f70636725882ca8d7b378556dad1a]....
+- (b) where the acquittal has taken place before a magistrates' court, the clerk of petty sessions [^c-c02f70636725882ca8d7b378556dad1a]....
 
 (2) Service as referred to in paragraph (1) above may be made by delivering the copy of Form 1 to the person to be served (where that person is an individual), or by sending it by post in a letter addressed to him at his usual or last known residence or place of business in Northern Ireland; in the case of a company, such a letter may also be addressed to the company at its registered office in Northern Ireland (if it has such a registered office).
 
@@ -82,7 +82,7 @@ Where the Crown Court makes the certification referred to in section 54(2), the 
 - (a) “solicitor” includes a body corporate which is recognized by the Council of the Law Society of Northern Ireland under Article 26A of the Solicitors (Northern Ireland) Order 1976[^f00004] (a recognized body); and
 - (b) in the case of a recognized body, the reference to the solicitor’s address for service shall be construed as a reference to the address specified by the recognized body as its address for the purposes of the service of the copy of Form 1 (including where the person to be served is a party to the proceedings which led to the conviction referred to in Form 1, an address specified for the general purposes of those proceedings), or, in the absence of such a specified address, to its registered office.
 
-## 5. Entry in the records in relation to the conviction which occasioned certification by the Crown Court[^key-a8373f1632cbf806e186701d84d03470]
+## 5. Entry in the records in relation to the conviction which occasioned certification by the Crown Court[^c-a8373f1632cbf806e186701d84d03470]
 
 Where the Crown Court makes a certification under section 54(2), the chief clerk shall enter in the records of the Court in relation to the conviction which occasioned the certification—
 
@@ -93,7 +93,7 @@ Where the Crown Court makes a certification under section 54(2), the chief clerk
 - (e) the date of the acquittal; and
 - (f) the name of the court before which the acquittal has taken place.
 
-## 6. Entry in the records — acquittal before the Crown Court[^key-40f060a4c1b2993476e25303f381f97c]
+## 6. Entry in the records — acquittal before the Crown Court[^c-40f060a4c1b2993476e25303f381f97c]
 
 Where an acquittal has taken place before the Crown Court, the chief clerk shall as soon as is practicable after receipt, from the court which has made the certification under section 54(2) relating to the acquittal, of a copy of a form recording the certification (being a copy of Form 1 where certification has been made by the Crown Court), or, where the certification has been made by the Crown Court at the place where the acquittal has occurred, as soon as is practicable after the making of the certification, enter in the records of the Court in relation to the acquittal—
 
@@ -103,7 +103,7 @@ Where an acquittal has taken place before the Crown Court, the chief clerk shall
 - (d) the name of the person whose conviction occasioned the making of the certification; and
 - (e) a description of the offence of which that person has been convicted.
 
-## 7. Display of copy certification form[^key-8bd910f44651e9cbd2bafc84b338a5bd]
+## 7. Display of copy certification form[^c-8bd910f44651e9cbd2bafc84b338a5bd]
 
 (1) Where the Crown Court makes a certification as referred to in section 54(2), the chief clerk of the Crown Court at the place where the certification is made shall, as soon as is practicable after the drawing up of Form 1, display a copy of that Form at a prominent place within court premises to which place the public has access.
 
@@ -114,13 +114,13 @@ Where an acquittal has taken place before the Crown Court, the chief clerk shall
 - (a) in the case of paragraph (1) above, the day on which the certification was made; or
 - (b) in the case of paragraph (2) above, the day on which the copy form was received by the chief clerk.
 
-## 8. Entry in the records — decision of the High Court[^key-4529726f0884a6a24331eee17c352d34]
+## 8. Entry in the records — decision of the High Court[^c-4529726f0884a6a24331eee17c352d34]
 
 (1) Where an acquittal has taken place before the Crown Court, the chief clerk shall, on receipt from the Central Office of the Supreme Court of notice of an order made under section 54(3) quashing the acquittal, or of a decision not to make such an order, enter in the records of the Crown Court, in relation to the acquittal, a note that the acquittal has been quashed by the said order, or that a decision has been made not to make such an order, as the case may be.
 
 (2) Where the Crown Court has made a certification under section 54(2), the chief clerk shall, on receipt from the Central Office of the Supreme Court of notice of an order made under section 54(3) quashing the acquittal referred to in the certification, or of a decision not to make such an order, enter into the records of the Court, in relation to the conviction which occasioned the certification, a note that the acquittal has been quashed by the said order, or that a decision has been made not to make such an order, as the case may be.
 
-## 9. Display of copy notice received from the High Court[^key-b590f6ce85cc713a078959ffbab3c45d]
+## 9. Display of copy notice received from the High Court[^c-b590f6ce85cc713a078959ffbab3c45d]
 
 (1) Where the Crown Court has made a certification under section 54(2), or an acquittal has taken place before the Crown Court and, in either case, the chief clerk receives from the Central Office of the Supreme Court notice of an order quashing the acquittal concerned, or notice of a decision not to make such an order, he shall, as soon as is practicable after receiving the notice, display a copy of it at a prominent place within court premises to which the public has access.
 
@@ -152,7 +152,7 @@ Irvine of Lairg, *C.*
 
 Dated 2nd June 1997
 
-## SCHEDULE[^key-7cda48d80822cd6aeac44001c358f4a8]
+## SCHEDULE[^c-7cda48d80822cd6aeac44001c358f4a8]
 
 Rule 3
 
@@ -184,32 +184,32 @@ These Rules are made in connection with the provision made by sections 54 and 55
 
 [^f00001]: Footnote: [1978 c. 23](https://www.legislation.gov.uk/ukpga/1978/23)
 
-[^key-8a0f1463e2a7bb7b035e88b5d1db7296]: Commencement: Rule 1 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/266/rule/1/1)
+[^c-8a0f1463e2a7bb7b035e88b5d1db7296]: Commencement: Rule 1 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/266/rule/1/1)
 
 [^f00002]: Footnote: [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25); as modified in its application to Northern Ireland by Schedule 4 to the Act
 
-[^key-f3dfdcb60cafc9d702d9eb5feebf3180]: Textual amendment: Words in [rule 1(2)](https://www.legislation.gov.uk/nisr/1997/266/article/1/2) substituted (12.4.2010) by [The Northern Ireland Court Service (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.R. 2010/133)](https://www.legislation.gov.uk/nisr/2010/133), [art. 1](https://www.legislation.gov.uk/nisr/2010/133/article/1), [Sch. para. 27](https://www.legislation.gov.uk/nisr/2010/133/schedule/paragraph/27) (with [arts. 5-7](https://www.legislation.gov.uk/nisr/2010/133/article/5))
+[^c-f3dfdcb60cafc9d702d9eb5feebf3180]: Textual amendment: Words in [rule 1(2)](https://www.legislation.gov.uk/nisr/1997/266/article/1/2) substituted (12.4.2010) by [The Northern Ireland Court Service (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.R. 2010/133)](https://www.legislation.gov.uk/nisr/2010/133), [art. 1](https://www.legislation.gov.uk/nisr/2010/133/article/1), [Sch. para. 27](https://www.legislation.gov.uk/nisr/2010/133/schedule/paragraph/27) (with [arts. 5-7](https://www.legislation.gov.uk/nisr/2010/133/article/5))
 
 [^f00003]: Footnote: [1968 c. 34 (N.I.)](https://www.legislation.gov.uk/apni/1968/34)
 
-[^key-e03dca90022c9f0ea52766c948764647]: Commencement: Rule 2 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/266/rule/1/1)
+[^c-e03dca90022c9f0ea52766c948764647]: Commencement: Rule 2 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/266/rule/1/1)
 
-[^key-69833790748cfb23f4bca37fa0d47c78]: Commencement: Rule 3 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/266/rule/1/1)
+[^c-69833790748cfb23f4bca37fa0d47c78]: Commencement: Rule 3 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/266/rule/1/1)
 
-[^key-9605c2ff363c3d1c628f2a491c513cc5]: Commencement: Rule 4 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/266/rule/1/1)
+[^c-9605c2ff363c3d1c628f2a491c513cc5]: Commencement: Rule 4 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/266/rule/1/1)
 
-[^key-c02f70636725882ca8d7b378556dad1a]: Textual amendment: Words in [rule 4(1)(b)](https://www.legislation.gov.uk/nisr/1997/266/article/4/1/b) omitted (coming into operation in accordance with rule 1 of the amending Rule) by virtue of [The Crown Court (Criminal Procedure and Investigations Act 1996) (Tainted Acquittals) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/298)](https://www.legislation.gov.uk/nisr/2016/298), [rules 1](https://www.legislation.gov.uk/nisr/2016/298/article/1), [3](https://www.legislation.gov.uk/nisr/2016/298/article/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-c02f70636725882ca8d7b378556dad1a]: Textual amendment: Words in [rule 4(1)(b)](https://www.legislation.gov.uk/nisr/1997/266/article/4/1/b) omitted (coming into operation in accordance with rule 1 of the amending Rule) by virtue of [The Crown Court (Criminal Procedure and Investigations Act 1996) (Tainted Acquittals) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/298)](https://www.legislation.gov.uk/nisr/2016/298), [rules 1](https://www.legislation.gov.uk/nisr/2016/298/article/1), [3](https://www.legislation.gov.uk/nisr/2016/298/article/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^f00004]: Footnote: S.I. [1976/582 (N.I. 12)](https://www.legislation.gov.uk/nisi/1976/582); Article 26A was inserted by S.I. [1989/1343 (N.I. 14)](https://www.legislation.gov.uk/nisi/1989/1343), Article 10(1)
 
-[^key-a8373f1632cbf806e186701d84d03470]: Commencement: Rule 5 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/266/rule/1/1)
+[^c-a8373f1632cbf806e186701d84d03470]: Commencement: Rule 5 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/266/rule/1/1)
 
-[^key-40f060a4c1b2993476e25303f381f97c]: Commencement: Rule 6 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/266/rule/1/1)
+[^c-40f060a4c1b2993476e25303f381f97c]: Commencement: Rule 6 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/266/rule/1/1)
 
-[^key-8bd910f44651e9cbd2bafc84b338a5bd]: Commencement: Rule 7 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/266/rule/1/1)
+[^c-8bd910f44651e9cbd2bafc84b338a5bd]: Commencement: Rule 7 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/266/rule/1/1)
 
-[^key-4529726f0884a6a24331eee17c352d34]: Commencement: Rule 8 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/266/rule/1/1)
+[^c-4529726f0884a6a24331eee17c352d34]: Commencement: Rule 8 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/266/rule/1/1)
 
-[^key-b590f6ce85cc713a078959ffbab3c45d]: Commencement: Rule 9 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/266/rule/1/1)
+[^c-b590f6ce85cc713a078959ffbab3c45d]: Commencement: Rule 9 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/266/rule/1/1)
 
-[^key-7cda48d80822cd6aeac44001c358f4a8]: Commencement: Sch. in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/266/rule/1/1)
+[^c-7cda48d80822cd6aeac44001c358f4a8]: Commencement: Sch. in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/266/rule/1/1)

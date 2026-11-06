@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Use of public rooms[^key-c3da278852373e09db90dd2894aa520c]
+## 13. Use of public rooms[^c-c3da278852373e09db90dd2894aa520c]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c3da278852373e09db90dd2894aa520c]: Commencement: Reg. 13 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-c3da278852373e09db90dd2894aa520c]: Commencement: Reg. 13 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
 [^f00015]: Footnote: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44).

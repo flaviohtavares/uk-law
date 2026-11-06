@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 89. DWP offence[^key-b94e6ced7f662de55b73a51011522a65]
+## 89. DWP offence[^c-b94e6ced7f662de55b73a51011522a65]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ In the Social Security Administration Act 1992, in section 121DA (interpretation
 
 ## Annotations
 
-[^key-b94e6ced7f662de55b73a51011522a65]: Commencement: S. 89 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-b94e6ced7f662de55b73a51011522a65]: Commencement: S. 89 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)

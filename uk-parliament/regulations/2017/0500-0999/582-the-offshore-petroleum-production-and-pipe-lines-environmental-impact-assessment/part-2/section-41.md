@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Substitution of Schedule 1 (information to be included in an environmental statement)[^key-fcefafe5c8d409e9e8970db903ee7e50]
+## 41. Substitution of Schedule 1 (information to be included in an environmental statement)[^c-fcefafe5c8d409e9e8970db903ee7e50]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For Schedule 1, substitute the schedule that is set out in Schedule 3 to these R
 
 ## Annotations
 
-[^key-fcefafe5c8d409e9e8970db903ee7e50]: Commencement: Reg. 41 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-fcefafe5c8d409e9e8970db903ee7e50]: Commencement: Reg. 41 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)

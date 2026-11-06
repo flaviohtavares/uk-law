@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Notice of special administration order[^key-ae0c7da5cde480d4dcf5371c7d53c698]
+## 14. Notice of special administration order[^c-ae0c7da5cde480d4dcf5371c7d53c698]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae0c7da5cde480d4dcf5371c7d53c698]: Commencement: Rule 14 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-ae0c7da5cde480d4dcf5371c7d53c698]: Commencement: Rule 14 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

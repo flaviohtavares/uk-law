@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174. Space site security restricted area and controlled area[^key-09c27eba6fcfd67056cfae267b0c6125]
+## 174. Space site security restricted area and controlled area[^c-09c27eba6fcfd67056cfae267b0c6125]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09c27eba6fcfd67056cfae267b0c6125]: Commencement: Reg. 174 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-09c27eba6fcfd67056cfae267b0c6125]: Commencement: Reg. 174 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

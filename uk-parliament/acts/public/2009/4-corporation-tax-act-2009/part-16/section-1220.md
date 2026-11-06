@@ -37,8 +37,8 @@ summary: ''
 (5) In this section—
 
 - (a) “**arrangements**” includes any agreement, understanding, scheme, transaction or series of transactions (whether or not legally enforceable), and
-- (b) “**tax advantage**” has the meaning given by section 1139 of CTA 2010[^key-7db8754d4df8f0ed269e0d05eaeb38a1].
+- (b) “**tax advantage**” has the meaning given by section 1139 of CTA 2010[^c-7db8754d4df8f0ed269e0d05eaeb38a1].
 
 ## Annotations
 
-[^key-7db8754d4df8f0ed269e0d05eaeb38a1]: Textual amendment: Words in s. 1220(5)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 684](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/684) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-7db8754d4df8f0ed269e0d05eaeb38a1]: Textual amendment: Words in s. 1220(5)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 684](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/684) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

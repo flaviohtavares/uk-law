@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Interpretation[^key-7d30fb12e513d648cdeb0f8b8fe67aea]
+## 2. Interpretation[^c-7d30fb12e513d648cdeb0f8b8fe67aea]
 
 *Extent: N.I.*
 
@@ -209,7 +209,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7d30fb12e513d648cdeb0f8b8fe67aea]: Commencement: Reg. 2 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-7d30fb12e513d648cdeb0f8b8fe67aea]: Commencement: Reg. 2 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
 
 [^f00003]: Footnote: [S.R. 1989 No. 299](https://www.legislation.gov.uk/nisr/1989/299) as amended by [S.R. 1991 No. 147](https://www.legislation.gov.uk/nisr/1991/147), [S.R. 1991 No. 420](https://www.legislation.gov.uk/nisr/1991/420), [S.R. 1992 No. 54](https://www.legislation.gov.uk/nisr/1992/54), [S.R. 1992 No. 227](https://www.legislation.gov.uk/nisr/1992/227), [S.R. 1992 No. 373](https://www.legislation.gov.uk/nisr/1992/373), [S.R. 1992 No. 509](https://www.legislation.gov.uk/nisr/1992/509), [S.R. 1993 No. 39](https://www.legislation.gov.uk/nisr/1993/39), [S.R. 1993 No. 247](https://www.legislation.gov.uk/nisr/1993/247), [S.R. 1994 No. 231](https://www.legislation.gov.uk/nisr/1994/231), [S.R. 1994 No. 353](https://www.legislation.gov.uk/nisr/1994/353) and [S.R. 1994 No. 452](https://www.legislation.gov.uk/nisr/1994/452)
 

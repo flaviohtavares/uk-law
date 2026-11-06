@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Financial provision[^key-cbe50fa926ee70dbe187ef79a3b6e640]
+## 83. Financial provision[^c-cbe50fa926ee70dbe187ef79a3b6e640]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The following are to be paid out of money provided by Parliament—
 
 ## Annotations
 
-[^key-cbe50fa926ee70dbe187ef79a3b6e640]: Commencement: S. 83 in force at Royal Assent, see [s. 87(3)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/3/c)
+[^c-cbe50fa926ee70dbe187ef79a3b6e640]: Commencement: S. 83 in force at Royal Assent, see [s. 87(3)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/3/c)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A social security authority may require a postal operator (within the meaning of[^M_F_b66df8e5-6870-4ce7-9948-1c4e824e12a1] Part 3 of the Postal Services Act 2011[^key-eac188bbbc390cdc416f9ae9ab7d34a4]).
+(1) A social security authority may require a postal operator (within the meaning of[^M_F_b66df8e5-6870-4ce7-9948-1c4e824e12a1] Part 3 of the Postal Services Act 2011[^c-eac188bbbc390cdc416f9ae9ab7d34a4]).
 
 to return to the sender social security post sent by or on behalf of the authority which would otherwise be redirected.
 
@@ -30,7 +30,7 @@ to return to the sender social security post sent by or on behalf of the authori
 
 - (a) the Secretary of State;
 - (b) the Northern Ireland Department; or
-- (c) any local or other authority administering housing benefit or council tax benefit (including the Northern Ireland Housing Executive). *(affected by repeal, see note)*[^key-e11d61deb555ac24eb2a37fb71773b6c]
+- (c) any local or other authority administering housing benefit or council tax benefit (including the Northern Ireland Housing Executive). *(affected by repeal, see note)*[^c-e11d61deb555ac24eb2a37fb71773b6c]
 
 (4) In subsections (1) and (2) above “**social security post**” means postal packets—
 
@@ -40,7 +40,7 @@ to return to the sender social security post sent by or on behalf of the authori
 (5) In this section—
 
 - (a) “**redirected**”, in relation to any postal packet, means delivered to an address other than that indicated by the sender on the packet; and
-- (b) “**postal packet**” has the same meaning as in Part 3 of the Postal Services Act 2011[^key-76aaa6fac4a51317d36bc04f557f46e3].
+- (b) “**postal packet**” has the same meaning as in Part 3 of the Postal Services Act 2011[^c-76aaa6fac4a51317d36bc04f557f46e3].
 
 (6) Any requirement imposed under subsection (1) above has effect subject to any order under—
 
@@ -54,10 +54,10 @@ to return to the sender social security post sent by or on behalf of the authori
 
 [^M_F_b66df8e5-6870-4ce7-9948-1c4e824e12a1]: Textual amendment: Words in s. 182A(1) substituted (26.3.2001) by [The Postal Services Act 2000 (Consequential Modifications No. 1) Order 2001 (S.I. 2001/1149)](https://www.legislation.gov.uk/uksi/2001/1149), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/1149/regulation/1/2), [Sch. 1 para. 93(2)(a)](https://www.legislation.gov.uk/uksi/2001/1149/schedule/1/paragraph/93/2/a)
 
-[^key-eac188bbbc390cdc416f9ae9ab7d34a4]: Textual amendment: Words in s. 182A(1) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 140](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/140); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-eac188bbbc390cdc416f9ae9ab7d34a4]: Textual amendment: Words in s. 182A(1) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 140](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/140); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-e11d61deb555ac24eb2a37fb71773b6c]: Textual amendment: [S. 182A(3)(c)](https://www.legislation.gov.uk/ukpga/1992/5/section/182A/3/c) repealed (1.4.2013 in so far as relates to the abolition of council tax benefit) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/1); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 8(c)](https://www.legislation.gov.uk/uksi/2013/358/article/8/c), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/358/schedule/4) (with [arts. 9](https://www.legislation.gov.uk/uksi/2013/358/article/9), [10](https://www.legislation.gov.uk/uksi/2013/358/article/10), [Sch. 5](https://www.legislation.gov.uk/uksi/2013/358/schedule/5))
+[^c-e11d61deb555ac24eb2a37fb71773b6c]: Textual amendment: [S. 182A(3)(c)](https://www.legislation.gov.uk/ukpga/1992/5/section/182A/3/c) repealed (1.4.2013 in so far as relates to the abolition of council tax benefit) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/1); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 8(c)](https://www.legislation.gov.uk/uksi/2013/358/article/8/c), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/358/schedule/4) (with [arts. 9](https://www.legislation.gov.uk/uksi/2013/358/article/9), [10](https://www.legislation.gov.uk/uksi/2013/358/article/10), [Sch. 5](https://www.legislation.gov.uk/uksi/2013/358/schedule/5))
 
 [^M_F_78c7fc47-e672-4747-9b88-a29434faee9a]: Textual amendment: Words in s. 182A(4)(b) substituted (26.3.2001) by [The Postal Services Act 2000 (Consequential Modifications No. 1) Order 2001 (S.I. 2001/1149)](https://www.legislation.gov.uk/uksi/2001/1149), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/1149/regulation/1/2), [Sch. 1 para. 93(2)(b)](https://www.legislation.gov.uk/uksi/2001/1149/schedule/1/paragraph/93/2/b)
 
-[^key-76aaa6fac4a51317d36bc04f557f46e3]: Textual amendment: Words in s. 182A(5)(b) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 140](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/140); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-76aaa6fac4a51317d36bc04f557f46e3]: Textual amendment: Words in s. 182A(5)(b) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 140](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/140); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

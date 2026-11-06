@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The Department may by regulations direct that Chapters 2 and 3 of Part 4 and Chapter 1 of Part 4ZA[^key-1d9abf88849fa9758079d96fc73ac6e6] [^c11729801]. . . shall have effect, in such cases as it may specify in the regulations, subject to such modifications as it may specify.
+(1) The Department may by regulations direct that Chapters 2 and 3 of Part 4 and Chapter 1 of Part 4ZA[^c-1d9abf88849fa9758079d96fc73ac6e6] [^c11729801]. . . shall have effect, in such cases as it may specify in the regulations, subject to such modifications as it may specify.
 
 (2) Regulations may modify Chapter I of Part IV—
 
@@ -46,7 +46,7 @@ In this subsection “**employments**” has the same meaning as in that Chapter
 
 ## Annotations
 
-[^key-1d9abf88849fa9758079d96fc73ac6e6]: Textual amendment: Words in [s. 149(1)](https://www.legislation.gov.uk/ukpga/1993/49/section/149/1) substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 71](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/71) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-1d9abf88849fa9758079d96fc73ac6e6]: Textual amendment: Words in [s. 149(1)](https://www.legislation.gov.uk/ukpga/1993/49/section/149/1) substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 71](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/71) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
 
 [^c11729801]: Textual amendment: Words in s. 149(1) repealed (6.4.1997) by [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213), [arts. 119](https://www.legislation.gov.uk/nisi/1995/3213/article/119), [168](https://www.legislation.gov.uk/nisi/1995/3213/article/168), [Sch. 1 para. 31(a)](https://www.legislation.gov.uk/nisi/1995/3213/schedule/1/paragraph/31/a), [Sch. 5 Pt. I](https://www.legislation.gov.uk/nisi/1995/3213/schedule/5/part/I); [S.R. 1997/192](https://www.legislation.gov.uk/nisr/1997/192), [art. 2(b)](https://www.legislation.gov.uk/nisr/1997/192/article/2/b)
 

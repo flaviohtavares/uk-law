@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) In their application to discrimination falling within Article 4A or 4B[^key-0c2f98d783ba1f81d11afd852a5e5628] , paragraphs (1) and (2) of Article 8 do not make unlawful an employer's treatment of another person if—
+(1) In their application to discrimination falling within Article 4A or 4B[^c-0c2f98d783ba1f81d11afd852a5e5628] , paragraphs (1) and (2) of Article 8 do not make unlawful an employer's treatment of another person if—
 
 - (a) in relation to the employment in question—
   - (i) being a man is a genuine occupational qualification for the job; or
@@ -42,6 +42,6 @@ summary: ''
 
 [^c17232681]: Textual amendment: SR 1999/311
 
-[^key-0c2f98d783ba1f81d11afd852a5e5628]: Textual amendment: Words in [art. 10A(1)](https://www.legislation.gov.uk/nisi/1976/1042/article/10A/1) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2016/191/regulation/10)
+[^c-0c2f98d783ba1f81d11afd852a5e5628]: Textual amendment: Words in [art. 10A(1)](https://www.legislation.gov.uk/nisi/1976/1042/article/10A/1) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2016/191/regulation/10)
 
 [^c17232871]: Textual amendment: [2004 c.7](https://www.legislation.gov.uk/ukpga/2004/7)

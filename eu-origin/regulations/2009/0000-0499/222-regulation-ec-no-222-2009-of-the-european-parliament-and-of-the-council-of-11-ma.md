@@ -216,7 +216,7 @@ HAVE ADOPTED THIS REGULATION:
 
 It shall apply from 1 January 2009.
 
-[^key-4d8715429c8006610f030c74704fd241]...
+[^c-4d8715429c8006610f030c74704fd241]...
 
 Done at Strasbourg, 11 March 2009.
 
@@ -252,4 +252,4 @@ A. Vondra
 
 [^f00009]: Footnote: [OJ L 61, 5.3.2008, p. 6](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.061.01.0006.01.ENG).’;
 
-[^key-4d8715429c8006610f030c74704fd241]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2009/222/signature) omitted (31.12.2020) by virtue of [The Statistics of Trade (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/47)](https://www.legislation.gov.uk/uksi/2019/47), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/47/regulation/1/4), [14(b)](https://www.legislation.gov.uk/uksi/2019/47/regulation/14/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4d8715429c8006610f030c74704fd241]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2009/222/signature) omitted (31.12.2020) by virtue of [The Statistics of Trade (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/47)](https://www.legislation.gov.uk/uksi/2019/47), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/47/regulation/1/4), [14(b)](https://www.legislation.gov.uk/uksi/2019/47/regulation/14/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

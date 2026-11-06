@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23.5. Application to discharge prohibition imposed by the court[^key-f8b02e3f528769bef1094e6eab33f96d]
+## 23.5. Application to discharge prohibition imposed by the court[^c-f8b02e3f528769bef1094e6eab33f96d]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8b02e3f528769bef1094e6eab33f96d]: Commencement: [Rule 23.5](https://www.legislation.gov.uk/uksi/2025/909/rule/23.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-f8b02e3f528769bef1094e6eab33f96d]: Commencement: [Rule 23.5](https://www.legislation.gov.uk/uksi/2025/909/rule/23.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

@@ -36,7 +36,7 @@ summary: ''
 (4) The information is—
 
 - (a) a complete list of all qualifying contracts to which the independent provider is a party at any time during the relevant period;
-- (ab)[^key-0c3fb5266d1342c9fec68a81436d8677] a complete list of such of the contracts referred to in sub-paragraph (a) which the Independent Provider has sub-contracted by way of NHS standard sub-contract to a third party: that list must identify the third party and also specify the total gross amounts expressed to be payable under such sub-contracts to that third party;
+- (ab)[^c-0c3fb5266d1342c9fec68a81436d8677] a complete list of such of the contracts referred to in sub-paragraph (a) which the Independent Provider has sub-contracted by way of NHS standard sub-contract to a third party: that list must identify the third party and also specify the total gross amounts expressed to be payable under such sub-contracts to that third party;
 - (b) the total gross amounts—
   - (i) estimated in accordance with regulation 151(3) to be payable during the relevant period under those contracts to the independent provider by the commissioning party;
   - (ii) actually received by the independent provider from the commissioning party during the relevant period;
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c3fb5266d1342c9fec68a81436d8677]: Textual amendment: [Reg. 157(4)(ab)](https://www.legislation.gov.uk/uksi/2015/94/regulation/157/4/ab) inserted (1.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [83](https://www.legislation.gov.uk/uksi/2016/245/regulation/83) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
+[^c-0c3fb5266d1342c9fec68a81436d8677]: Textual amendment: [Reg. 157(4)(ab)](https://www.legislation.gov.uk/uksi/2015/94/regulation/157/4/ab) inserted (1.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [83](https://www.legislation.gov.uk/uksi/2016/245/regulation/83) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))

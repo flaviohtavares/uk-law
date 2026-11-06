@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 95. Power to order transfer of fines[^c21084391][^key-d316c044ce5cde3fffaf3cebb1f11259]
+## 95. Power to order transfer of fines[^c21084391][^c-d316c044ce5cde3fffaf3cebb1f11259]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ the court to be so specified shall be the sheriff court.
 
 [^c21084391]: Modification: [Art. 95](https://www.legislation.gov.uk/nisi/1981/1675/article/95) modified (1.10.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 89(1)(5)](https://www.legislation.gov.uk/ukpga/2008/4/section/89/1/5), [153(4)(d)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/4/d) (as amended (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2010/976/article/15/5), [Sch. 18 para. 89](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/89) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)); [S.I. 2009/2606](https://www.legislation.gov.uk/uksi/2009/2606), [art. 2(j)](https://www.legislation.gov.uk/uksi/2009/2606/article/2/j)
 
-[^key-d316c044ce5cde3fffaf3cebb1f11259]: Modification: [Art. 95](https://www.legislation.gov.uk/nisi/1981/1675/article/95) applied (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2015/191/article/3/4)
+[^c-d316c044ce5cde3fffaf3cebb1f11259]: Modification: [Art. 95](https://www.legislation.gov.uk/nisi/1981/1675/article/95) applied (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2015/191/article/3/4)

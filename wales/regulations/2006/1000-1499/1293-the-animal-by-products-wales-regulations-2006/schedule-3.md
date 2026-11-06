@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3 — Testing Methods[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+## SCHEDULE 3 — Testing Methods[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 *Extent: E+W*
 
@@ -24,158 +24,158 @@ summary: ''
 
 Regulation 21
 
-### PART I — METHOD FOR THE ISOLATION OF CLOSTRIDIUM PERFRINGENS[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+### PART I — METHOD FOR THE ISOLATION OF CLOSTRIDIUM PERFRINGENS[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
-#### 1. Time of testing[^key-067d2c522da0f319ff85f9f9c1b2b39e]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Samples[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+#### 1. Time of testing[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Inoculations[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+#### 2. Samples[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 5. Samples with colonies of Clostridium perfringens[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+#### 3. Inoculations[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**8.**[^key-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 9. Subcultured colonies[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+#### 5. Samples with colonies of Clostridium perfringens[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Motility[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+**6.**[^c-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^c-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^c-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 9. Subcultured colonies[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Reduction of nitrate to nitrite[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+#### 10. Motility[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Production of gas and acid from lactose and liquefaction of gelatin[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+#### 11. Reduction of nitrate to nitrite[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**14.**[^key-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**15.**[^key-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 16. Control Tests[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+#### 12. Production of gas and acid from lactose and liquefaction of gelatin[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — METHODS FOR THE ISOLATION OF SALMONELLA[^key-067d2c522da0f319ff85f9f9c1b2b39e]
-
-#### A. — BACTERIOLOGICAL METHOD[^key-067d2c522da0f319ff85f9f9c1b2b39e]
-
-**1.**[^key-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-##### 2. Day one[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+#### 16. Control Tests[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 3. Day two[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+**17.**[^c-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**18.**[^c-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**19.**[^c-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART II — METHODS FOR THE ISOLATION OF SALMONELLA[^c-067d2c522da0f319ff85f9f9c1b2b39e]
+
+#### A. — BACTERIOLOGICAL METHOD[^c-067d2c522da0f319ff85f9f9c1b2b39e]
+
+**1.**[^c-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 2. Day one[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 4. Day three[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+##### 3. Day two[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-##### 6. Day four[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+##### 4. Day three[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 7. These media must be incubated at 37°C overnight.[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+**5.**[^c-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 6. Day four[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 8. Day five[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+##### 7. These media must be incubated at 37°C overnight.[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### B. — ELECTRICAL CONDUCTANCE METHOD[^key-067d2c522da0f319ff85f9f9c1b2b39e]
-
-**10.**[^key-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-##### 11. Day one[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+##### 8. Day five[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 12. Day two[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+**9.**[^c-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### B. — ELECTRICAL CONDUCTANCE METHOD[^c-067d2c522da0f319ff85f9f9c1b2b39e]
+
+**10.**[^c-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 11. Day one[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 13. Day three[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+##### 12. Day two[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 14. Day four[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+##### 13. Day three[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 15. Day five[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+##### 14. Day four[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — METHOD FOR THE ISOLATION OF ENTEROBACTERIACEAE[^key-067d2c522da0f319ff85f9f9c1b2b39e]
-
-**1.**[^key-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Samples[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+##### 15. Day five[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Inoculations[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+### PART III — METHOD FOR THE ISOLATION OF ENTEROBACTERIACEAE[^c-067d2c522da0f319ff85f9f9c1b2b39e]
+
+**1.**[^c-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 2. Samples[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 5. Samples with colonies of Enterobacteriaceae[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+#### 3. Inoculations[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Examination of subcultures[^key-067d2c522da0f319ff85f9f9c1b2b39e]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**8.**[^key-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 9. Controls[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+#### 5. Samples with colonies of Enterobacteriaceae[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### 7. Examination of subcultures[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
-**12.**[^key-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^c-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 9. Controls[^c-067d2c522da0f319ff85f9f9c1b2b39e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^c-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^c-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^c-067d2c522da0f319ff85f9f9c1b2b39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-067d2c522da0f319ff85f9f9c1b2b39e]: Textual amendment: Regulations revoked (20.10.2011 at 12.15 a.m.) by The Animal By-[Products (Enforcement) (No. 2) (Wales) Regulations 2011 (S.I. 2011/2377)](https://www.legislation.gov.uk/uksi/2011/2377), [regs. 29(a)](https://www.legislation.gov.uk/uksi/2011/2377/regulation/29/a), [31(2)](https://www.legislation.gov.uk/uksi/2011/2377/regulation/31/2)
+[^c-067d2c522da0f319ff85f9f9c1b2b39e]: Textual amendment: Regulations revoked (20.10.2011 at 12.15 a.m.) by The Animal By-[Products (Enforcement) (No. 2) (Wales) Regulations 2011 (S.I. 2011/2377)](https://www.legislation.gov.uk/uksi/2011/2377), [regs. 29(a)](https://www.legislation.gov.uk/uksi/2011/2377/regulation/29/a), [31(2)](https://www.legislation.gov.uk/uksi/2011/2377/regulation/31/2)

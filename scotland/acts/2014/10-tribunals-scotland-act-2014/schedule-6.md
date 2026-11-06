@@ -26,9 +26,9 @@ summary: ''
 
 #### Temporary Vice-President
 
-**1.**[^key-1a431e049fca408cc41e861f4125f6d7] If there is a temporary shortage in the number of Vice-Presidents of the Upper Tribunal or a temporary vacancy in the position, the President of Tribunals may assign a person as a Temporary Vice-President of a particular division during the shortage or vacancy.
+**1.**[^c-1a431e049fca408cc41e861f4125f6d7] If there is a temporary shortage in the number of Vice-Presidents of the Upper Tribunal or a temporary vacancy in the position, the President of Tribunals may assign a person as a Temporary Vice-President of a particular division during the shortage or vacancy.
 
-**2.**[^key-a82f35406f722a8f5bdcfa235ffe4445] (1) A person is eligible for assignment as a Temporary Vice-President only if the person is a legal member of the Upper Tribunal (other than a Vice-President).
+**2.**[^c-a82f35406f722a8f5bdcfa235ffe4445] (1) A person is eligible for assignment as a Temporary Vice-President only if the person is a legal member of the Upper Tribunal (other than a Vice-President).
 
 (2) The functions of a Vice-President are exercisable by a Temporary Vice-President.
 
@@ -38,13 +38,13 @@ summary: ''
 
 #### Assignment of and by the President of Tribunals
 
-**3.**[^key-fc9a29da6f1e4a14149dd3dbe752e4f5] (1) The President of Tribunals has the function of assigning the members of the Upper Tribunal among the divisions (including re-assignment or ending assignment).
+**3.**[^c-fc9a29da6f1e4a14149dd3dbe752e4f5] (1) The President of Tribunals has the function of assigning the members of the Upper Tribunal among the divisions (including re-assignment or ending assignment).
 
 (2) The President of Tribunals is to assign those members among the divisions in accordance with paragraphs 4 to 7.
 
 #### Assignment of Vice-Presidents etc.
 
-**4.**[^key-9086a8afb1867d606a41298f8cfb2489] (1) A Vice-President of a division—
+**4.**[^c-9086a8afb1867d606a41298f8cfb2489] (1) A Vice-President of a division—
 
 - (a) is to be assigned to that division,
 - (b) may be assigned to act—
@@ -58,7 +58,7 @@ summary: ''
 - (a) the concurrence of the Vice-President of the other division, and
 - (b) the agreement of the member concerned.
 
-**5.**[^key-c756be8076209275adb85c8fd82dda45] (1) This paragraph applies in relation to a legal member by reason of being a Chamber President in the First-tier Tribunal.
+**5.**[^c-c756be8076209275adb85c8fd82dda45] (1) This paragraph applies in relation to a legal member by reason of being a Chamber President in the First-tier Tribunal.
 
 (2) Each member to whom this paragraph applies may be assigned to—
 
@@ -74,7 +74,7 @@ summary: ''
 
 #### Assignment of other members
 
-**6.**[^key-fbeb676dcfb15f77d5defaacb4070d27] (1) This paragraph applies in relation to an ordinary member or legal member by virtue of—
+**6.**[^c-fbeb676dcfb15f77d5defaacb4070d27] (1) This paragraph applies in relation to an ordinary member or legal member by virtue of—
 
 - (a) appointment as such, or
 - (b) transfer-in as such.
@@ -95,7 +95,7 @@ summary: ''
 
 #### Assignment of judicial members etc.
 
-**7.**[^key-f38250247bc1220d06d57270ae13c398] (1) A judicial member is to be assigned to at least one of the divisions.
+**7.**[^c-f38250247bc1220d06d57270ae13c398] (1) A judicial member is to be assigned to at least one of the divisions.
 
 (2) An extra judge who is authorised to act as mentioned in section 18(4) is to be assigned to at least one of the divisions.
 
@@ -114,16 +114,16 @@ summary: ''
 
 ## Annotations
 
-[^key-1a431e049fca408cc41e861f4125f6d7]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/asp/2014/10/schedule/6/paragraph/1) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-1a431e049fca408cc41e861f4125f6d7]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/asp/2014/10/schedule/6/paragraph/1) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
 
-[^key-a82f35406f722a8f5bdcfa235ffe4445]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/asp/2014/10/schedule/6/paragraph/2) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-a82f35406f722a8f5bdcfa235ffe4445]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/asp/2014/10/schedule/6/paragraph/2) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
 
-[^key-fc9a29da6f1e4a14149dd3dbe752e4f5]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/asp/2014/10/schedule/6/paragraph/3) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-fc9a29da6f1e4a14149dd3dbe752e4f5]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/asp/2014/10/schedule/6/paragraph/3) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
 
-[^key-9086a8afb1867d606a41298f8cfb2489]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/asp/2014/10/schedule/6/paragraph/4) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-9086a8afb1867d606a41298f8cfb2489]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/asp/2014/10/schedule/6/paragraph/4) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
 
-[^key-c756be8076209275adb85c8fd82dda45]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/asp/2014/10/schedule/6/paragraph/5) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-c756be8076209275adb85c8fd82dda45]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/asp/2014/10/schedule/6/paragraph/5) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
 
-[^key-fbeb676dcfb15f77d5defaacb4070d27]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/asp/2014/10/schedule/6/paragraph/6) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-fbeb676dcfb15f77d5defaacb4070d27]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/asp/2014/10/schedule/6/paragraph/6) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
 
-[^key-f38250247bc1220d06d57270ae13c398]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/asp/2014/10/schedule/6/paragraph/7) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-f38250247bc1220d06d57270ae13c398]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/asp/2014/10/schedule/6/paragraph/7) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

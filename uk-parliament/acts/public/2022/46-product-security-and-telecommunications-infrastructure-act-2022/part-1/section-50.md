@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Means of giving notices[^key-2d7d061bee1f6b515048dc2ded3349c2][^key-717774d143bc76d89a9f245a452c23d8]
+## 50. Means of giving notices[^c-2d7d061bee1f6b515048dc2ded3349c2][^c-717774d143bc76d89a9f245a452c23d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2d7d061bee1f6b515048dc2ded3349c2]: Commencement: S. 50 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-2d7d061bee1f6b515048dc2ded3349c2]: Commencement: S. 50 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-717774d143bc76d89a9f245a452c23d8]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2022/46/section/50) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-717774d143bc76d89a9f245a452c23d8]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2022/46/section/50) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60J. Administration pursuant to agreement with authorised person[^key-715a373f306ef1d29d9e1397179a518c]
+## 60J. Administration pursuant to agreement with authorised person[^c-715a373f306ef1d29d9e1397179a518c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A person who is not an authorised person does not carry on an activity of the ki
 
 ## Annotations
 
-[^key-715a373f306ef1d29d9e1397179a518c]: Textual amendment: Pt. II Ch. 14A, 14B inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [6](https://www.legislation.gov.uk/uksi/2013/1881/article/6)
+[^c-715a373f306ef1d29d9e1397179a518c]: Textual amendment: Pt. II Ch. 14A, 14B inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [6](https://www.legislation.gov.uk/uksi/2013/1881/article/6)

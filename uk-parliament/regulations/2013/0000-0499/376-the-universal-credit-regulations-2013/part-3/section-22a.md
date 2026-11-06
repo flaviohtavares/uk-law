@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22A. Apportionment where re-claim delayed after loss of employment[^key-6fa3154b6980e323b792f8b15489743f]
+## 22A. Apportionment where re-claim delayed after loss of employment[^c-6fa3154b6980e323b792f8b15489743f]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ A is the amount of the element that would otherwise be payable for that assessme
 
 ## Annotations
 
-[^key-6fa3154b6980e323b792f8b15489743f]: Textual amendment: Reg. 22A inserted (26.11.2014) by [The Universal Credit (Digital Service) Amendment Regulations 2014 (S.I. 2014/2887)](https://www.legislation.gov.uk/uksi/2014/2887), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2887/regulation/1), [3(1)(d)](https://www.legislation.gov.uk/uksi/2014/2887/regulation/3/1/d) (with [reg. 5](https://www.legislation.gov.uk/uksi/2014/2887/regulation/5))
+[^c-6fa3154b6980e323b792f8b15489743f]: Textual amendment: Reg. 22A inserted (26.11.2014) by [The Universal Credit (Digital Service) Amendment Regulations 2014 (S.I. 2014/2887)](https://www.legislation.gov.uk/uksi/2014/2887), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2887/regulation/1), [3(1)(d)](https://www.legislation.gov.uk/uksi/2014/2887/regulation/3/1/d) (with [reg. 5](https://www.legislation.gov.uk/uksi/2014/2887/regulation/5))

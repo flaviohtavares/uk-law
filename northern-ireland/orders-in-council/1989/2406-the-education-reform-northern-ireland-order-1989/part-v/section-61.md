@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 61. Financial statements in respect of voluntary grammar schools[^key-e8d2a534906b0047317737a289148bcb]
+## 61. Financial statements in respect of voluntary grammar schools[^c-e8d2a534906b0047317737a289148bcb]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e8d2a534906b0047317737a289148bcb]: Textual amendment: [Pt. V](https://www.legislation.gov.uk/nisi/1989/2406/part/V) repealed (1.4.2016 in so far as not already in operation) by [Education (Northern Ireland) Order 1998 (S.I. 1998/1759)](https://www.legislation.gov.uk/nisi/1998/1759), [art. 1(3)](https://www.legislation.gov.uk/nisi/1998/1759/article/1/3), [Sch. 6 Pt. II](https://www.legislation.gov.uk/nisi/1998/1759/schedule/6/part/II) (with [art. 91(3)](https://www.legislation.gov.uk/nisi/1998/1759/article/91/3)); [S.R. 2016/207](https://www.legislation.gov.uk/nisr/2016/207), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/207/article/2/b)
+[^c-e8d2a534906b0047317737a289148bcb]: Textual amendment: [Pt. V](https://www.legislation.gov.uk/nisi/1989/2406/part/V) repealed (1.4.2016 in so far as not already in operation) by [Education (Northern Ireland) Order 1998 (S.I. 1998/1759)](https://www.legislation.gov.uk/nisi/1998/1759), [art. 1(3)](https://www.legislation.gov.uk/nisi/1998/1759/article/1/3), [Sch. 6 Pt. II](https://www.legislation.gov.uk/nisi/1998/1759/schedule/6/part/II) (with [art. 91(3)](https://www.legislation.gov.uk/nisi/1998/1759/article/91/3)); [S.R. 2016/207](https://www.legislation.gov.uk/nisr/2016/207), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/207/article/2/b)

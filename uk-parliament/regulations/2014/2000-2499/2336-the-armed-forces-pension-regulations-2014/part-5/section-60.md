@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Option for members in serious ill-health to exchange whole pension for lump sum[^key-2ef038ffc2913f6e4a3236bde5395b51]
+## 60. Option for members in serious ill-health to exchange whole pension for lump sum[^c-2ef038ffc2913f6e4a3236bde5395b51]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ef038ffc2913f6e4a3236bde5395b51]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/2014/2336/regulation/60) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-2ef038ffc2913f6e4a3236bde5395b51]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/2014/2336/regulation/60) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

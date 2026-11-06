@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4A. Electronic communication[^key-c79058e46800932b66f892dfec3ece7b]
+## 4A. Electronic communication[^c-c79058e46800932b66f892dfec3ece7b]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c79058e46800932b66f892dfec3ece7b]: Textual amendment: [Regs. 4A](https://www.legislation.gov.uk/uksi/1995/2518/regulation/4A), [4B](https://www.legislation.gov.uk/uksi/1995/2518/regulation/4B) inserted (15.10.2012) by [The Value Added Tax (Amendment) (No. 2) Regulations 2012 (S.I. 2012/1899)](https://www.legislation.gov.uk/uksi/2012/1899), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2012/1899/regulation/2/2), [5](https://www.legislation.gov.uk/uksi/2012/1899/regulation/5)
+[^c-c79058e46800932b66f892dfec3ece7b]: Textual amendment: [Regs. 4A](https://www.legislation.gov.uk/uksi/1995/2518/regulation/4A), [4B](https://www.legislation.gov.uk/uksi/1995/2518/regulation/4B) inserted (15.10.2012) by [The Value Added Tax (Amendment) (No. 2) Regulations 2012 (S.I. 2012/1899)](https://www.legislation.gov.uk/uksi/2012/1899), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2012/1899/regulation/2/2), [5](https://www.legislation.gov.uk/uksi/2012/1899/regulation/5)

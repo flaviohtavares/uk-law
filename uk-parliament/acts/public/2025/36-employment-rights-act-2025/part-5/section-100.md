@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Retention of documents[^key-0632fea309fbc4b92cc9e2a52ff0b204][^key-37709a9038c218018a576a01f6ffbd58]
+## 100. Retention of documents[^c-0632fea309fbc4b92cc9e2a52ff0b204][^c-37709a9038c218018a576a01f6ffbd58]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0632fea309fbc4b92cc9e2a52ff0b204]: Commencement: S. 100 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-0632fea309fbc4b92cc9e2a52ff0b204]: Commencement: S. 100 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-37709a9038c218018a576a01f6ffbd58]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2025/36/section/100) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(8)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/8)
+[^c-37709a9038c218018a576a01f6ffbd58]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2025/36/section/100) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(8)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/8)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 206. Title of proceedings[^key-0013a66e36bc5c1d3d751b1fce483c57]
+## 206. Title of proceedings[^c-0013a66e36bc5c1d3d751b1fce483c57]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Every proceeding under Part 2 of the 2009 Act shall, with any necessary addition
 
 ## Annotations
 
-[^key-0013a66e36bc5c1d3d751b1fce483c57]: Commencement: Rule 206 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-0013a66e36bc5c1d3d751b1fce483c57]: Commencement: Rule 206 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. Byelaws: procedure[^c2007928][^key-f8c6eee496003964ed2233ae8575fb4a]
+## 160. Byelaws: procedure[^c2007928][^c-f8c6eee496003964ed2233ae8575fb4a]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^c2007928]: Commencement: [S. 160](https://www.legislation.gov.uk/ukpga/2009/23/section/160) partly in force; [s. 160](https://www.legislation.gov.uk/ukpga/2009/23/section/160) in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-f8c6eee496003964ed2233ae8575fb4a]: Commencement: [S. 160](https://www.legislation.gov.uk/ukpga/2009/23/section/160) in force at 1.4.2011 in so far as not already in force by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/c)
+[^c-f8c6eee496003964ed2233ae8575fb4a]: Commencement: [S. 160](https://www.legislation.gov.uk/ukpga/2009/23/section/160) in force at 1.4.2011 in so far as not already in force by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/c)

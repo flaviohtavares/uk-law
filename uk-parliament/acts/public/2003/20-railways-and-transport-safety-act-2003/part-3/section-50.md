@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Policing objectives: Authority[^key-318df6cd0d0996dc759048f6cd75e369]
+## 50. Policing objectives: Authority[^c-318df6cd0d0996dc759048f6cd75e369]
 
 *Extent: E+W+S*
 
@@ -29,14 +29,14 @@ summary: ''
 
 (3) In setting the objectives for a year the Authority shall—
 
-- (a) consult the Chief Constable,and[^key-6cb29112b832569075a30414799606ec]
-- (b) have regard to opinions expressed in accordance with section 62,[^key-6ddebc89e2f1d20b1a1b7de1a7261d5b]...
-- (c)[^key-6ddebc89e2f1d20b1a1b7de1a7261d5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) consult the Chief Constable,and[^c-6cb29112b832569075a30414799606ec]
+- (b) have regard to opinions expressed in accordance with section 62,[^c-6ddebc89e2f1d20b1a1b7de1a7261d5b]...
+- (c)[^c-6ddebc89e2f1d20b1a1b7de1a7261d5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-318df6cd0d0996dc759048f6cd75e369]: Commencement: S. 50 in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(gg)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/gg)
+[^c-318df6cd0d0996dc759048f6cd75e369]: Commencement: S. 50 in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(gg)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/gg)
 
-[^key-6cb29112b832569075a30414799606ec]: Textual amendment: Word in s. 50(3)(a) inserted (22.11.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 326(a)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/326/a); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/i)
+[^c-6cb29112b832569075a30414799606ec]: Textual amendment: Word in s. 50(3)(a) inserted (22.11.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 326(a)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/326/a); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/i)
 
-[^key-6ddebc89e2f1d20b1a1b7de1a7261d5b]: Textual amendment: S. 50(3)(c)and word omitted (22.11.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 326(b)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/326/b); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/i)
+[^c-6ddebc89e2f1d20b1a1b7de1a7261d5b]: Textual amendment: S. 50(3)(c)and word omitted (22.11.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 326(b)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/326/b); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/i)

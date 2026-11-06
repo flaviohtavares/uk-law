@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Amendments relating to scheme regulations[^key-8fea27beaf60be04a004c7ebcb88f5ef][^key-f16ee0b30cf5b98231360e76c1a330da]
+## 94. Amendments relating to scheme regulations[^c-8fea27beaf60be04a004c7ebcb88f5ef][^c-f16ee0b30cf5b98231360e76c1a330da]
 
 *Extent: E+W+S+N.I.*
 
@@ -116,6 +116,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8fea27beaf60be04a004c7ebcb88f5ef]: Commencement: S. 94 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-8fea27beaf60be04a004c7ebcb88f5ef]: Commencement: S. 94 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-f16ee0b30cf5b98231360e76c1a330da]: Commencement: S. 94 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
+[^c-f16ee0b30cf5b98231360e76c1a330da]: Commencement: S. 94 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)

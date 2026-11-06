@@ -40,18 +40,18 @@ on the harmonised use of radio spectrum in the 5 GHz frequency band for the impl
 
 (2005/513/EC) (revoked)
 
-[^key-31bc6e844770825eaef682bb7293eb50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-31bc6e844770825eaef682bb7293eb50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-31bc6e844770825eaef682bb7293eb50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-31bc6e844770825eaef682bb7293eb50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-31bc6e844770825eaef682bb7293eb50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-31bc6e844770825eaef682bb7293eb50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-31bc6e844770825eaef682bb7293eb50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-31bc6e844770825eaef682bb7293eb50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-31bc6e844770825eaef682bb7293eb50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-31bc6e844770825eaef682bb7293eb50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-31bc6e844770825eaef682bb7293eb50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-31bc6e844770825eaef682bb7293eb50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-31bc6e844770825eaef682bb7293eb50]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-31bc6e844770825eaef682bb7293eb50]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

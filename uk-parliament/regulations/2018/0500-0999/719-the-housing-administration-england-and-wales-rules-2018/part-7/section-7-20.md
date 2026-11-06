@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.20. Standard contents of documents relating to other events[^key-46306af245571e17b89ba638ff080656]
+## 7.20. Standard contents of documents relating to other events[^c-46306af245571e17b89ba638ff080656]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A document relating to any other event must also state—
 
 ## Annotations
 
-[^key-46306af245571e17b89ba638ff080656]: Commencement: Rule 7.20 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-46306af245571e17b89ba638ff080656]: Commencement: Rule 7.20 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Application of landlord and tenant law[^key-ef03e954600402bc2d12a3e305fcce6a]
+## 56. Application of landlord and tenant law[^c-ef03e954600402bc2d12a3e305fcce6a]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ so far as any such agreement relates to the terms on which any land which is the
 
 ## Annotations
 
-[^key-ef03e954600402bc2d12a3e305fcce6a]: Commencement: Art. 56 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-ef03e954600402bc2d12a3e305fcce6a]: Commencement: Art. 56 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

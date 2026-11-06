@@ -56,7 +56,7 @@ A Measure passed by the General Synod of the Church of England to enable further
 Without prejudice to section 7(1) of the Church of England (Legal Aid and Miscellaneous Provisions) Measure 1988, it shall be lawful for the General Synod to provide by Canon for empowering the bishop of a diocese, in the case of a benefice in his diocese in respect of which a team ministry is established,—
 
 - (a) to grant a licence to any of the persons mentioned in subsection (1) of section 1 above to serve in the area of the benefice for such term of years as may be specified in the licence; and
-- (b) in the case of any such person who is not subject to Common Tenure,[^key-e33a8952b546b84cd4f6e34f199a3913] to revoke such a licence summarily and without further process before the expiration of the term so specified for such cause and subject to such conditions as the Canon may provide.
+- (b) in the case of any such person who is not subject to Common Tenure,[^c-e33a8952b546b84cd4f6e34f199a3913] to revoke such a licence summarily and without further process before the expiration of the term so specified for such cause and subject to such conditions as the Canon may provide.
 
 ## 2. Short title and extent.
 
@@ -72,7 +72,7 @@ Provided that this Measure may be applied to the Channel Islands as defined in t
 
 [^c921949]: Textual amendment: S. 1A inserted (1.5.1996) by [1995 No. 1](https://www.legislation.gov.uk/ukcm/1995/1), [s. 13](https://www.legislation.gov.uk/ukcm/1995/1/section/13); [Instrument dated 12.2.1996 made by Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1996-02-12)
 
-[^key-e33a8952b546b84cd4f6e34f199a3913]: Textual amendment: Words in s. 1A(b) inserted (31.1.2011) by [Ecclesiastical Offices (Terms of Service) Measure 2009 (No. 1)](https://www.legislation.gov.uk/ukcm/2009/1), [s. 13(2)](https://www.legislation.gov.uk/ukcm/2009/1/section/13/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukcm/2009/1/schedule/2/paragraph/1) (with [s. 9](https://www.legislation.gov.uk/ukcm/2009/1/section/9)); [2010 No. 8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
+[^c-e33a8952b546b84cd4f6e34f199a3913]: Textual amendment: Words in s. 1A(b) inserted (31.1.2011) by [Ecclesiastical Offices (Terms of Service) Measure 2009 (No. 1)](https://www.legislation.gov.uk/ukcm/2009/1), [s. 13(2)](https://www.legislation.gov.uk/ukcm/2009/1/section/13/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukcm/2009/1/schedule/2/paragraph/1) (with [s. 9](https://www.legislation.gov.uk/ukcm/2009/1/section/9)); [2010 No. 8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
 
 [^c921950]: Marginal citation: [1931 No. 4](https://www.legislation.gov.uk/ukcm/1931/4)
 

@@ -31,7 +31,7 @@ summary: ''
 
 (3) Subsection (1) does not apply to the grant of an estate in mines and minerals held apart from the surface.
 
-(4) The Secretary of State[^key-5a1c3ae45725cb23736a0c8568e27e8a] may by order—
+(4) The Secretary of State[^c-5a1c3ae45725cb23736a0c8568e27e8a] may by order—
 
 - (a) amend this section so as to add to the events in subsection (1) such events relating to demesne land as he may specify in the order, and
 - (b) make such consequential amendments of any provision of, or having effect under, any Act as he thinks appropriate.
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a1c3ae45725cb23736a0c8568e27e8a]: Textual amendment: Words in [s. 80(4)](https://www.legislation.gov.uk/ukpga/2002/9/section/80/4) substituted (9.11.2011) by [The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436)](https://www.legislation.gov.uk/uksi/2011/2436), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2436/article/1/2), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2011/2436/schedule/2/paragraph/4/2)
+[^c-5a1c3ae45725cb23736a0c8568e27e8a]: Textual amendment: Words in [s. 80(4)](https://www.legislation.gov.uk/ukpga/2002/9/section/80/4) substituted (9.11.2011) by [The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436)](https://www.legislation.gov.uk/uksi/2011/2436), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2436/article/1/2), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2011/2436/schedule/2/paragraph/4/2)

@@ -50,11 +50,11 @@ In accordance with section 14(5) of the 2020 Act the Scottish Ministers have con
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-7d3d6166b8251d09383750fed79aca61]
+### 1. Citation and commencement[^c-7d3d6166b8251d09383750fed79aca61]
 
 These Regulations may be cited as the Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2026 and come into force on 1 April 2026.
 
-### 2. Interpretation – general[^key-78958b92255ad1e594290fc1d794b5e8]
+### 2. Interpretation – general[^c-78958b92255ad1e594290fc1d794b5e8]
 
 In these Regulations—
 
@@ -78,7 +78,7 @@ In these Regulations—
 - “**revaluation**” means the calculation of the rateable value of lands and heritages in connection with the making up of a valuation roll under section 1(1) of the 1975 Act,
 - “**the roll**” means a valuation roll made up under section 1(1) of the 1975 Act.
 
-### 3. Interpretation – mergers[^key-b0fe750e7fac52e8a704b62017419ed3]
+### 3. Interpretation – mergers[^c-b0fe750e7fac52e8a704b62017419ed3]
 
 In these Regulations—
 
@@ -87,7 +87,7 @@ In these Regulations—
   - (b) the merged entry does not show any lands and heritages shown in an old entry, other than in the relevant old entries,
 - “**the relevant old entries**”, in relation to a merged entry, means the old entries which showed the lands and heritages shown in the merged entry.
 
-### 4. Interpretation – splits[^key-3ebf7f51cdd7821c401dcdf576ceeaaa]
+### 4. Interpretation – splits[^c-3ebf7f51cdd7821c401dcdf576ceeaaa]
 
 In these Regulations—
 
@@ -96,7 +96,7 @@ In these Regulations—
   - (b) no lands and heritages shown in the relevant old entry are shown in a new entry, other than in those new entries,
 - “**the relevant old entry**”, in relation to a split entry, means the old entry which showed the lands and heritages shown in the split entry.
 
-### 5. Interpretation – reorganisations[^key-700f20dfa72919d844ec702d3e1331fc]
+### 5. Interpretation – reorganisations[^c-700f20dfa72919d844ec702d3e1331fc]
 
 In these Regulations—
 
@@ -108,7 +108,7 @@ In these Regulations—
 
 ## PART 2 — Transitional relief
 
-### 6. Application of Parts 2 and 4[^key-3524d223b1603cf6776bd232694b6ced]
+### 6. Application of Parts 2 and 4[^c-3524d223b1603cf6776bd232694b6ced]
 
 (1) Subject to paragraphs (2) to (4), this Part and Part 4 apply to lands and heritages—
 
@@ -124,11 +124,11 @@ In these Regulations—
 
 (4) Where a merged, split or reorganised entry takes effect on a date after 1 April 2026, this Part and Part 4 cease to apply to the lands and heritages shown in that entry, as from the date on which the merged, split or reorganised entry takes effect.
 
-### 7. Amount payable as rates[^key-d9556a1900defcafe32fada716225143][^key-42d896e0b3b1397b689c177000bfe55e][^key-423cf01e2fb77d99d535296398fcf3af]
+### 7. Amount payable as rates[^c-d9556a1900defcafe32fada716225143][^c-42d896e0b3b1397b689c177000bfe55e][^c-423cf01e2fb77d99d535296398fcf3af]
 
 Where the notional liability of any lands and heritages to which this Part applies, calculated in accordance with regulation 8, is more than the transitional limit for those lands and heritages, calculated in accordance with regulation 9, the amount payable as rates in respect of those lands and heritages is, subject to Part 3, that transitional limit.
 
-### 8. Notional liability[^key-bfa0fd0eaf1363235f66e34da19f0444]
+### 8. Notional liability[^c-bfa0fd0eaf1363235f66e34da19f0444]
 
 The notional liability of any lands and heritages to which this Part applies, on any day, is to be calculated in accordance with the formula—
 
@@ -142,7 +142,7 @@ where—
   - (b) 0.535 where the lands and heritages have a rateable value exceeding £51,000 but not exceeding £100,000,
   - (c) 0.481 where the lands and heritages which have a rateable value of £51,000 or less.
 
-### 9. Transitional limit[^key-c3a4fbc97fb9534fe354e090146f334b]
+### 9. Transitional limit[^c-c3a4fbc97fb9534fe354e090146f334b]
 
 (1) Subject to paragraph (3), the transitional limit of any lands and heritages to which this Part applies, on any day, is to be calculated as follows—
 
@@ -162,7 +162,7 @@ where—
   - (a) 0.548 where the lands and heritages have a rateable value exceeding £100,000,
   - (b) 0.535 where the lands and heritages have a rateable value exceeding £51,000 but not exceeding £100,000,
   - (c) 0.481 where the lands and heritages have a rateable value of £51,000 or less, and
-- X is—[^key-8fe2fe4307a662c75602b34b2956a1c0]
+- X is—[^c-8fe2fe4307a662c75602b34b2956a1c0]
   - (a) 1.150 where—
     - (i) the lands and heritages are used on the day wholly or mainly as self-catering holiday accommodation, regardless of their rateable value,
     - (ii) a short-term let licence has been obtained in accordance with article 4 of the Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Order 2022, and
@@ -174,7 +174,7 @@ where—
 
 (3) Where relief is granted under regulation 10C[^f00012] (relief granted – financial year 2026-2027 - lands and heritages in respect of which a relevant increase has been made within the previous 12 months) of the New and Improved Property Relief Regulations the transitional limit is calculated in accordance with paragraph (5) of that regulation.
 
-### 10. Base liability[^key-2866ba809c21ec529c11b5420f803a3d]
+### 10. Base liability[^c-2866ba809c21ec529c11b5420f803a3d]
 
 (1) For the purposes of regulation 9, the base liability of any lands and heritages is—
 
@@ -195,7 +195,7 @@ where—
 
 ## PART 3 — Interaction with other reductions and reliefs
 
-### 11. Charitable and other reductions[^key-92959220c564b5972b6332e5df12d403]
+### 11. Charitable and other reductions[^c-92959220c564b5972b6332e5df12d403]
 
 (1) This regulation has effect for determining the amount payable as rates in respect of lands and heritages on a day in the relevant year where—
 
@@ -205,7 +205,7 @@ where—
 
 (2) Where there is an entitlement to relief under both an enactment referred to in paragraph (1)(a) and under regulation 7, relief under the enactment referred to in paragraph (1)(a) is to be applied to the amount of rates payable after regulation 7 is applied.
 
-### 12. Partially unoccupied lands and heritages[^key-5424b72f879c9080390cd9de2b030015]
+### 12. Partially unoccupied lands and heritages[^c-5424b72f879c9080390cd9de2b030015]
 
 (1) This regulation has effect for determining the amount payable as rates in respect of lands and heritages on a day in the relevant year where—
 
@@ -231,7 +231,7 @@ the amount payable is to be determined in accordance with regulation 11(2) but a
 
 (4) This regulation ceases to apply where a merged entry takes effect on or after 1 April 2026, unless relief under regulation 7 applied in respect of the lands and heritages in each of the entries which forms part of the merged entry, immediately before the merged entry took effect.
 
-### 13. Exemptions and discretionary reductions and remissions[^key-5cce5797e85326217b95a0f06501bed7]
+### 13. Exemptions and discretionary reductions and remissions[^c-5cce5797e85326217b95a0f06501bed7]
 
 Nothing in these Regulations—
 
@@ -240,12 +240,12 @@ Nothing in these Regulations—
 
 ## PART 4 — Small Business Transitional Relief
 
-### 14. Cap for eligible properties[^key-dab841921e68f9fb6ac71c3c360a0633]
+### 14. Cap for eligible properties[^c-dab841921e68f9fb6ac71c3c360a0633]
 
 (1) Subject to paragraph (8), this regulation applies where—
 
 - (a) the liability of a ratepayer to pay rates in respect of particular lands and heritages was reduced by any of the following as at 31 March 2026—
-  - (i) regulation 3 (amount payable as rates – lands and heritages with a rateable value of £20,000 or less) or regulation 4 (lands and heritages with rateable value of £35,000 or less (multiple entries))[^key-0b3ea17b0a2efd0de17fd419a4e52673] of the 2025 Regulations,
+  - (i) regulation 3 (amount payable as rates – lands and heritages with a rateable value of £20,000 or less) or regulation 4 (lands and heritages with rateable value of £35,000 or less (multiple entries))[^c-0b3ea17b0a2efd0de17fd419a4e52673] of the 2025 Regulations,
   - (ii) paragraph 3 or 4[^f00017] of schedule 2 of the 1997 Act (relief from non-domestic rates for general stores etc. in rural settlements: Scotland), where entitlement to the reduction is lost on 1 April 2026 as a result of an increase in rateable value of the lands and heritages above the limit provided for in—
     - (aa) article 3(1)(a) or, as the case may be, article 3(1)(b) of the 2005 Order, or
     - (bb) article 3(2) of the 2005 Order,
@@ -291,9 +291,9 @@ Nothing in these Regulations—
 
 ## PART 5 — General
 
-### 15. Applications for relief[^key-032257e1cdb472fe9ec7faf5f9899906]
+### 15. Applications for relief[^c-032257e1cdb472fe9ec7faf5f9899906]
 
-(1) An application for relief under regulation 14 (or where accommodation is self-catering holiday accommodation, regulation 9)[^key-5a3e956914abe8df062eec7b8b3c6c50] must be signed by the ratepayer, or a person authorised to sign on behalf of the ratepayer.
+(1) An application for relief under regulation 14 (or where accommodation is self-catering holiday accommodation, regulation 9)[^c-5a3e956914abe8df062eec7b8b3c6c50] must be signed by the ratepayer, or a person authorised to sign on behalf of the ratepayer.
 
 (2) An application under paragraph (1) must be made to the rating authority in whose valuation roll the entry for the lands and heritages appears by—
 
@@ -308,7 +308,7 @@ Nothing in these Regulations—
   - (iii) where the ratepayer is a body corporate, a director of that body, and
 - (b) “sign” or “**signed**” in relation to an application made by electronic communication means an electronic signature, as defined in section 7(2) of the Electronic Communications Act 2000[^f00022].
 
-### 16. Amendment of the New and Improved Property Relief Regulations[^key-00b4490172248e816bf674ff3084bfc1]
+### 16. Amendment of the New and Improved Property Relief Regulations[^c-00b4490172248e816bf674ff3084bfc1]
 
 (1) The New and Improved Property Relief Regulations are amended in accordance with paragraphs (2) to (5).
 
@@ -347,7 +347,7 @@ Nothing in these Regulations—
 >     - (ii) 0.535 where the lands and heritages have a rateable value exceeding £51,000 but not exceeding £100, 000,
 >     - (iii) 0.481 where the lands and heritages have a rateable value of £51,000 or less,
 >   - RV is the rateable value of the lands and heritages on 1 April 2026, and
->   - X is—[^key-3074df57b0dd56538d3fcd64a560b69c]
+>   - X is—[^c-3074df57b0dd56538d3fcd64a560b69c]
 >     - (i) 1.150 where—
 >       - (aa) the lands and heritages are used on the day wholly or mainly as self-catering holiday accommodation, regardless of their rateable value,
 >       - (bb) a short-term let licence has been obtained in accordance with article 4 of the Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Order 2022, and
@@ -420,9 +420,9 @@ Regulation 16 makes amendments to the Non-Domestic Rates (Relief for New and Imp
 
 [^f00002]: Footnote: [2020 asp 4](https://www.legislation.gov.uk/asp/2020/4).
 
-[^key-7d3d6166b8251d09383750fed79aca61]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1)
+[^c-7d3d6166b8251d09383750fed79aca61]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1)
 
-[^key-78958b92255ad1e594290fc1d794b5e8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2026/70/regulation/2) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1)
+[^c-78958b92255ad1e594290fc1d794b5e8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2026/70/regulation/2) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1)
 
 [^f00003]: Footnote: [1962 c. 9](https://www.legislation.gov.uk/ukpga/1962/9).
 
@@ -442,37 +442,37 @@ Regulation 16 makes amendments to the Non-Domestic Rates (Relief for New and Imp
 
 [^f00011]: Footnote: Section 7B was inserted in substitution for section 7A by section 110(2) of the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14) and amended by paragraph 100(4) of schedule 13 of the Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-b0fe750e7fac52e8a704b62017419ed3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2026/70/regulation/3) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1)
+[^c-b0fe750e7fac52e8a704b62017419ed3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2026/70/regulation/3) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1)
 
-[^key-3ebf7f51cdd7821c401dcdf576ceeaaa]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2026/70/regulation/4) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1)
+[^c-3ebf7f51cdd7821c401dcdf576ceeaaa]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2026/70/regulation/4) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1)
 
-[^key-700f20dfa72919d844ec702d3e1331fc]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2026/70/regulation/5) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1)
+[^c-700f20dfa72919d844ec702d3e1331fc]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2026/70/regulation/5) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1)
 
-[^key-3524d223b1603cf6776bd232694b6ced]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2026/70/regulation/6) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1)
+[^c-3524d223b1603cf6776bd232694b6ced]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2026/70/regulation/6) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1)
 
-[^key-d9556a1900defcafe32fada716225143]: Commencement: Reg. 7 in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1)
+[^c-d9556a1900defcafe32fada716225143]: Commencement: Reg. 7 in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1)
 
-[^key-42d896e0b3b1397b689c177000bfe55e]: Modification: Reg. 7 excluded (31.3.2026) by [S.S.I. 2026/69](https://www.legislation.gov.uk/ssi/2026/69), [reg. 4A(5)-(7)](https://www.legislation.gov.uk/ssi/2026/69/regulation/4A/5) (as inserted by [The Non-Domestic Rates (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/135)](https://www.legislation.gov.uk/ssi/2026/135), [regs. 1](https://www.legislation.gov.uk/ssi/2026/135/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2026/135/regulation/2/2))
+[^c-42d896e0b3b1397b689c177000bfe55e]: Modification: Reg. 7 excluded (31.3.2026) by [S.S.I. 2026/69](https://www.legislation.gov.uk/ssi/2026/69), [reg. 4A(5)-(7)](https://www.legislation.gov.uk/ssi/2026/69/regulation/4A/5) (as inserted by [The Non-Domestic Rates (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/135)](https://www.legislation.gov.uk/ssi/2026/135), [regs. 1](https://www.legislation.gov.uk/ssi/2026/135/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2026/135/regulation/2/2))
 
-[^key-423cf01e2fb77d99d535296398fcf3af]: Modification: Reg. 7 excluded (1.4.2026) by [The Non-Domestic Rates (Retail, Hospitality and Leisure Relief) (Scotland) Regulations 2026 (S.S.I. 2026/69)](https://www.legislation.gov.uk/ssi/2026/69), [regs. 1](https://www.legislation.gov.uk/ssi/2026/69/regulation/1), [4(5)(b)](https://www.legislation.gov.uk/ssi/2026/69/regulation/4/5/b)[(6)(b)](https://www.legislation.gov.uk/ssi/2026/69/regulation/4/6/b)[(7)(b)](https://www.legislation.gov.uk/ssi/2026/69/regulation/4/7/b)
+[^c-423cf01e2fb77d99d535296398fcf3af]: Modification: Reg. 7 excluded (1.4.2026) by [The Non-Domestic Rates (Retail, Hospitality and Leisure Relief) (Scotland) Regulations 2026 (S.S.I. 2026/69)](https://www.legislation.gov.uk/ssi/2026/69), [regs. 1](https://www.legislation.gov.uk/ssi/2026/69/regulation/1), [4(5)(b)](https://www.legislation.gov.uk/ssi/2026/69/regulation/4/5/b)[(6)(b)](https://www.legislation.gov.uk/ssi/2026/69/regulation/4/6/b)[(7)(b)](https://www.legislation.gov.uk/ssi/2026/69/regulation/4/7/b)
 
-[^key-bfa0fd0eaf1363235f66e34da19f0444]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2026/70/regulation/8) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1)
+[^c-bfa0fd0eaf1363235f66e34da19f0444]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2026/70/regulation/8) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1)
 
-[^key-c3a4fbc97fb9534fe354e090146f334b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2026/70/regulation/9) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1)
+[^c-c3a4fbc97fb9534fe354e090146f334b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2026/70/regulation/9) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1)
 
-[^key-8fe2fe4307a662c75602b34b2956a1c0]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/ssi/2026/70/regulation/9/2) substituted (31.3.2026) by [The Non-Domestic Rates (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/135)](https://www.legislation.gov.uk/ssi/2026/135), [regs. 1](https://www.legislation.gov.uk/ssi/2026/135/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2026/135/regulation/4/2)
+[^c-8fe2fe4307a662c75602b34b2956a1c0]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/ssi/2026/70/regulation/9/2) substituted (31.3.2026) by [The Non-Domestic Rates (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/135)](https://www.legislation.gov.uk/ssi/2026/135), [regs. 1](https://www.legislation.gov.uk/ssi/2026/135/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2026/135/regulation/4/2)
 
 [^f00012]: Footnote: Regulation 10C is inserted by regulation 16 of these Regulations.
 
-[^key-2866ba809c21ec529c11b5420f803a3d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2026/70/regulation/10) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1)
+[^c-2866ba809c21ec529c11b5420f803a3d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2026/70/regulation/10) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1)
 
-[^key-92959220c564b5972b6332e5df12d403]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2026/70/regulation/11) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1)
+[^c-92959220c564b5972b6332e5df12d403]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2026/70/regulation/11) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1)
 
-[^key-5424b72f879c9080390cd9de2b030015]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2026/70/regulation/12) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1)
+[^c-5424b72f879c9080390cd9de2b030015]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2026/70/regulation/12) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1)
 
 [^f00013]: Footnote: Section 24A was inserted by section 155 of the Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39) and was amended by section 19 of the Non-Domestic Rates (Scotland) Act [2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4).
 
-[^key-5cce5797e85326217b95a0f06501bed7]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2026/70/regulation/13) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1)
+[^c-5cce5797e85326217b95a0f06501bed7]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2026/70/regulation/13) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1)
 
 [^f00014]: Footnote: Section 3A was inserted by section 140(1) of the Community Empowerment (Scotland) Act [2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6). Section 4(5) was amended by paragraph 57 of schedule 13 of the Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39), paragraph 2(a) of schedule 3 of the Local Government and Rating Act [1997 (c. 29)](https://www.legislation.gov.uk/ukpga/1997/29) and section 98(3) of the Charities and Trustee Investment (Scotland) Act [2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10).
 
@@ -480,9 +480,9 @@ Regulation 16 makes amendments to the Non-Domestic Rates (Relief for New and Imp
 
 [^f00016]: Footnote: Paragraph 4 was amended by section 28(4)(a), (b) and (d) of the Local Government in Scotland Act [2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1).
 
-[^key-dab841921e68f9fb6ac71c3c360a0633]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2026/70/regulation/14) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1)
+[^c-dab841921e68f9fb6ac71c3c360a0633]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2026/70/regulation/14) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1)
 
-[^key-0b3ea17b0a2efd0de17fd419a4e52673]: Textual amendment: Words in [reg. 14(1)(a)(i)](https://www.legislation.gov.uk/ssi/2026/70/regulation/14/1/a/i) inserted (31.3.2026) by [The Non-Domestic Rates (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/135)](https://www.legislation.gov.uk/ssi/2026/135), [regs. 1](https://www.legislation.gov.uk/ssi/2026/135/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2026/135/regulation/4/3)
+[^c-0b3ea17b0a2efd0de17fd419a4e52673]: Textual amendment: Words in [reg. 14(1)(a)(i)](https://www.legislation.gov.uk/ssi/2026/70/regulation/14/1/a/i) inserted (31.3.2026) by [The Non-Domestic Rates (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/135)](https://www.legislation.gov.uk/ssi/2026/135), [regs. 1](https://www.legislation.gov.uk/ssi/2026/135/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2026/135/regulation/4/3)
 
 [^f00017]: Footnote: Paragraph 3 was amended by paragraph 25 of schedule 8 of the Postal Services Act [2000 (c. 26)](https://www.legislation.gov.uk/ukpga/2000/26), section 29(a), (b) and (c) of the Local Government in Scotland Act [2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1) and paragraph 148(a) and (b) of schedule 12 of the Postal Services Act [2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5). Paragraph 4 was amended by section 28(4)(a), (b) and (d) of the Local Government in Scotland Act [2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1).
 
@@ -494,17 +494,17 @@ Regulation 16 makes amendments to the Non-Domestic Rates (Relief for New and Imp
 
 [^f00021]: Footnote: [S.S.I. 2005/103](https://www.legislation.gov.uk/ssi/2005/103). Article 3 was amended by [S.S.I. 2010/37](https://www.legislation.gov.uk/ssi/2010/37).
 
-[^key-032257e1cdb472fe9ec7faf5f9899906]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2026/70/regulation/15) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1)
+[^c-032257e1cdb472fe9ec7faf5f9899906]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2026/70/regulation/15) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1)
 
-[^key-5a3e956914abe8df062eec7b8b3c6c50]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/ssi/2026/70/regulation/15/1) inserted (31.3.2026) by virtue of [The Non-Domestic Rates (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/135)](https://www.legislation.gov.uk/ssi/2026/135), [regs. 1](https://www.legislation.gov.uk/ssi/2026/135/regulation/1), [4(4)](https://www.legislation.gov.uk/ssi/2026/135/regulation/4/4)
+[^c-5a3e956914abe8df062eec7b8b3c6c50]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/ssi/2026/70/regulation/15/1) inserted (31.3.2026) by virtue of [The Non-Domestic Rates (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/135)](https://www.legislation.gov.uk/ssi/2026/135), [regs. 1](https://www.legislation.gov.uk/ssi/2026/135/regulation/1), [4(4)](https://www.legislation.gov.uk/ssi/2026/135/regulation/4/4)
 
 [^f00022]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). Section 7(2) was amended by [S.I. 2016/696](https://www.legislation.gov.uk/uksi/2016/696).
 
-[^key-00b4490172248e816bf674ff3084bfc1]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2026/70/regulation/16) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1)
+[^c-00b4490172248e816bf674ff3084bfc1]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2026/70/regulation/16) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/70/regulation/1)
 
 [^f00023]: Footnote: Regulation 10B was inserted by [S.S.I. 2025/39](https://www.legislation.gov.uk/ssi/2025/39).
 
-[^key-3074df57b0dd56538d3fcd64a560b69c]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/ssi/2026/70/regulation/16/3) substituted (31.3.2026) by [The Non-Domestic Rates (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/135)](https://www.legislation.gov.uk/ssi/2026/135), [regs. 1](https://www.legislation.gov.uk/ssi/2026/135/regulation/1), [4(5)](https://www.legislation.gov.uk/ssi/2026/135/regulation/4/5)
+[^c-3074df57b0dd56538d3fcd64a560b69c]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/ssi/2026/70/regulation/16/3) substituted (31.3.2026) by [The Non-Domestic Rates (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/135)](https://www.legislation.gov.uk/ssi/2026/135), [regs. 1](https://www.legislation.gov.uk/ssi/2026/135/regulation/1), [4(5)](https://www.legislation.gov.uk/ssi/2026/135/regulation/4/5)
 
 [^f00024]: Footnote: [S.S.I. 2026/70](https://www.legislation.gov.uk/ssi/2026/70).
 

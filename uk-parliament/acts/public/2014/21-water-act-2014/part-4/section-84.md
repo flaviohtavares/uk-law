@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Regulations and orders[^key-cb71ca2f2308a66af5f193cdc769bb81]
+## 84. Regulations and orders[^c-cb71ca2f2308a66af5f193cdc769bb81]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ may not be made unless a draft of the instrument has been laid before, and appro
 
 ## Annotations
 
-[^key-cb71ca2f2308a66af5f193cdc769bb81]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2014/21/section/84) in force at 1.1.2015 by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 4(i)](https://www.legislation.gov.uk/uksi/2014/3320/article/4/i)
+[^c-cb71ca2f2308a66af5f193cdc769bb81]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2014/21/section/84) in force at 1.1.2015 by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 4(i)](https://www.legislation.gov.uk/uksi/2014/3320/article/4/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Disposals and changes of use of land[^key-2f3ac60ed53870def474af7e04cde967]
+## 36. Disposals and changes of use of land[^c-2f3ac60ed53870def474af7e04cde967]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ and amendments which are consequential to those amendments.
 
 ## Annotations
 
-[^key-2f3ac60ed53870def474af7e04cde967]: Commencement: S. 36 in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(k)](https://www.legislation.gov.uk/uksi/2007/935/article/7/k)
+[^c-2f3ac60ed53870def474af7e04cde967]: Commencement: S. 36 in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(k)](https://www.legislation.gov.uk/uksi/2007/935/article/7/k)

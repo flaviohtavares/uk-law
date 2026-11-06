@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 90. Publication of enforcement action[^key-4f25bb5411ecba6e0703b9b99a1b4c8d]
+## 90. Publication of enforcement action[^c-4f25bb5411ecba6e0703b9b99a1b4c8d]
 
 *Extent: S*
 
@@ -28,17 +28,17 @@ summary: ''
 (2) Where the Scottish Ministers make provision by order under—
 
 - (a) section 73(1) as to the issuing by SEPA of stop notices,
-- (b)[^key-47602012cf6ed5732b474cf9afe750d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-47602012cf6ed5732b474cf9afe750d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) section 82(1) as to the imposition by SEPA of further enforcement measures,
 
 the order concerned may require SEPA to publish such information as may be specified in the order as regards cases in which it has done what the order permits it to do.
 
-(3) In subsection (2), the reference to cases in which SEPA has done what the order permits it to do does not include cases where the stop notice[^key-e75ff5697bb932be83e8c16bdeda9c5a]... or (as the case may be) further enforcement measure has been imposed but overturned on appeal.
+(3) In subsection (2), the reference to cases in which SEPA has done what the order permits it to do does not include cases where the stop notice[^c-e75ff5697bb932be83e8c16bdeda9c5a]... or (as the case may be) further enforcement measure has been imposed but overturned on appeal.
 
 ## Annotations
 
-[^key-4f25bb5411ecba6e0703b9b99a1b4c8d]: Commencement: [S. 90](https://www.legislation.gov.uk/asp/2011/9/section/90) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)
+[^c-4f25bb5411ecba6e0703b9b99a1b4c8d]: Commencement: [S. 90](https://www.legislation.gov.uk/asp/2011/9/section/90) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)
 
-[^key-47602012cf6ed5732b474cf9afe750d6]: Textual amendment: [S. 90(2)(b)](https://www.legislation.gov.uk/asp/2011/9/section/90/2/b) repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 13(11)(a)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/13/11/a); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-47602012cf6ed5732b474cf9afe750d6]: Textual amendment: [S. 90(2)(b)](https://www.legislation.gov.uk/asp/2011/9/section/90/2/b) repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 13(11)(a)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/13/11/a); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-e75ff5697bb932be83e8c16bdeda9c5a]: Textual amendment: Words in [s. 90(3)](https://www.legislation.gov.uk/asp/2011/9/section/90/3) repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 13(11)(b)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/13/11/b); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-e75ff5697bb932be83e8c16bdeda9c5a]: Textual amendment: Words in [s. 90(3)](https://www.legislation.gov.uk/asp/2011/9/section/90/3) repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 13(11)(b)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/13/11/b); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

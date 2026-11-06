@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Serious deficiencies[^key-ce78686367998f8d2f5901f6f46c6c2c]
+## 49. Serious deficiencies[^c-ce78686367998f8d2f5901f6f46c6c2c]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The references in this Part to a serious deficiency of water supplies (whether a
 
 ## Annotations
 
-[^key-ce78686367998f8d2f5901f6f46c6c2c]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2013/5/section/49) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-ce78686367998f8d2f5901f6f46c6c2c]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2013/5/section/49) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)

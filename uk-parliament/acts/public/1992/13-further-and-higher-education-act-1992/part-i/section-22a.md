@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22A. Charitable status of a further education corporation[^key-bb59078ec0b01c6bf1404bfb0f7d1d85]
+## 22A. Charitable status of a further education corporation[^c-bb59078ec0b01c6bf1404bfb0f7d1d85]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A further education corporation shall be a charity (and, in accordance with Sche
 
 ## Annotations
 
-[^key-bb59078ec0b01c6bf1404bfb0f7d1d85]: Textual amendment: S. 22A substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), s. 355, Sch. 7 para. 58 (with s. 20(2), Sch. 8) (with [S.I. 2011/1396](https://www.legislation.gov.uk/uksi/2011/1396), [Sch. para. 43(b)](https://www.legislation.gov.uk/uksi/2011/1396/schedule/paragraph/43/b))
+[^c-bb59078ec0b01c6bf1404bfb0f7d1d85]: Textual amendment: S. 22A substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), s. 355, Sch. 7 para. 58 (with s. 20(2), Sch. 8) (with [S.I. 2011/1396](https://www.legislation.gov.uk/uksi/2011/1396), [Sch. para. 43(b)](https://www.legislation.gov.uk/uksi/2011/1396/schedule/paragraph/43/b))

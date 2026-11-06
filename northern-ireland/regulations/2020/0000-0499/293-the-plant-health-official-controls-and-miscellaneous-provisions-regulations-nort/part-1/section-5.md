@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Article 82 of the EU Plant Health Regulation: meaning of “close proximity”[^key-3caee7a9d2344f347d4ad88edb843f73]
+## 5. Article 82 of the EU Plant Health Regulation: meaning of “close proximity”[^c-3caee7a9d2344f347d4ad88edb843f73]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3caee7a9d2344f347d4ad88edb843f73]: Commencement: Reg. 5 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-3caee7a9d2344f347d4ad88edb843f73]: Commencement: Reg. 5 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

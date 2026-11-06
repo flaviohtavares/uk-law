@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Registration and records of prisoners[^key-5eb027f658d1465cecd2fd13a4805477]
+## 12. Registration and records of prisoners[^c-5eb027f658d1465cecd2fd13a4805477]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5eb027f658d1465cecd2fd13a4805477]: Textual amendment: Rule 12 substituted (19.3.2012) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2012 (S.S.I. 2012/26)](https://www.legislation.gov.uk/ssi/2012/26), [rules 1](https://www.legislation.gov.uk/ssi/2012/26/article/1), [2(4)](https://www.legislation.gov.uk/ssi/2012/26/article/2/4)
+[^c-5eb027f658d1465cecd2fd13a4805477]: Textual amendment: Rule 12 substituted (19.3.2012) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2012 (S.S.I. 2012/26)](https://www.legislation.gov.uk/ssi/2012/26), [rules 1](https://www.legislation.gov.uk/ssi/2012/26/article/1), [2(4)](https://www.legislation.gov.uk/ssi/2012/26/article/2/4)

@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Application to cease repayment by instalments[^key-bb3457fe0c8315d1570878d25b4ba5d5]
+## 77. Application to cease repayment by instalments[^c-bb3457fe0c8315d1570878d25b4ba5d5]
 
 *Extent: E+W+S+N.I.*
 
 (1) A borrower who—
 
-- (a) is required to make repayments of a loan[^key-fdbe718398df75339c5d378e9274f4d8] under this Part; and
-- (b) who has not been required to repay the loan[^key-e77cc71b9ca17db2ea8afaa649f7ba0a] in full immediately under regulation 78,
+- (a) is required to make repayments of a loan[^c-fdbe718398df75339c5d378e9274f4d8] under this Part; and
+- (b) who has not been required to repay the loan[^c-e77cc71b9ca17db2ea8afaa649f7ba0a] in full immediately under regulation 78,
 
 may apply to the Authority for a determination that the borrower is no longer required to make such repayments.
 
@@ -38,8 +38,8 @@ the Authority may determine that a borrower who has applied under paragraph (1) 
 
 ## Annotations
 
-[^key-bb3457fe0c8315d1570878d25b4ba5d5]: Commencement: [Reg. 77](https://www.legislation.gov.uk/uksi/2009/470/regulation/77) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-bb3457fe0c8315d1570878d25b4ba5d5]: Commencement: [Reg. 77](https://www.legislation.gov.uk/uksi/2009/470/regulation/77) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
 
-[^key-fdbe718398df75339c5d378e9274f4d8]: Textual amendment: Words in [reg. 77(1)(a)](https://www.legislation.gov.uk/uksi/2009/470/regulation/77/1/a) inserted (6.4.2023) by [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [62(a)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/62/a)
+[^c-fdbe718398df75339c5d378e9274f4d8]: Textual amendment: Words in [reg. 77(1)(a)](https://www.legislation.gov.uk/uksi/2009/470/regulation/77/1/a) inserted (6.4.2023) by [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [62(a)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/62/a)
 
-[^key-e77cc71b9ca17db2ea8afaa649f7ba0a]: Textual amendment: Words in [reg. 77(1)(b)](https://www.legislation.gov.uk/uksi/2009/470/regulation/77/1/b) substituted (6.4.2023) by [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [62(b)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/62/b)
+[^c-e77cc71b9ca17db2ea8afaa649f7ba0a]: Textual amendment: Words in [reg. 77(1)(b)](https://www.legislation.gov.uk/uksi/2009/470/regulation/77/1/b) substituted (6.4.2023) by [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [62(b)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/62/b)

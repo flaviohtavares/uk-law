@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 74. Pensions[^key-245f05eeb952a2d82548ca26896592a3]
+## 74. Pensions[^c-245f05eeb952a2d82548ca26896592a3]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Section 66(3) does not affect entitlement to a pension which is payable to or fo
 
 ## Annotations
 
-[^key-245f05eeb952a2d82548ca26896592a3]: Commencement: S. 74 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-245f05eeb952a2d82548ca26896592a3]: Commencement: S. 74 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Parliamentary procedure in relation to code of practice[^key-a85ed2e6296f7a59a5738f74eed8a78c]
+## 39. Parliamentary procedure in relation to code of practice[^c-a85ed2e6296f7a59a5738f74eed8a78c]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a85ed2e6296f7a59a5738f74eed8a78c]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2011/16/section/39) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(xiv)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/xiv)
+[^c-a85ed2e6296f7a59a5738f74eed8a78c]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2011/16/section/39) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(xiv)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/xiv)

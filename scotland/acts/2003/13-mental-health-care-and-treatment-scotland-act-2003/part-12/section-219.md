@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 219. Appeal to Tribunal against transfer under section 218 to hospital other than state hospital[^key-1219bea4e11d744ab7d9127aae2dbffd]
+## 219. Appeal to Tribunal against transfer under section 218 to hospital other than state hospital[^c-1219bea4e11d744ab7d9127aae2dbffd]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1219bea4e11d744ab7d9127aae2dbffd]: Commencement: S. 219 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-1219bea4e11d744ab7d9127aae2dbffd]: Commencement: S. 219 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

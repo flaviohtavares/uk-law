@@ -22,7 +22,7 @@ summary: ''
 
 Article 12
 
-### PART 1 — PUBLIC RIGHTS OF WAY TO BE PERMANENTLY STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-f13e78c1a7a78e9b1c118d659ab9c694]
+### PART 1 — PUBLIC RIGHTS OF WAY TO BE PERMANENTLY STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-f13e78c1a7a78e9b1c118d659ab9c694]
 
 <table>
 <thead>
@@ -39,7 +39,7 @@ Article 12
 </tbody>
 </table>
 
-### PART 2 — PUBLIC RIGHTS OF WAY TO BE PERMANENTLY STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-e19deee2c2d8bcf508cb1eba2a5bde96]
+### PART 2 — PUBLIC RIGHTS OF WAY TO BE PERMANENTLY STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-e19deee2c2d8bcf508cb1eba2a5bde96]
 
 <table>
 <thead>
@@ -52,7 +52,7 @@ Article 12
 </tbody>
 </table>
 
-### PART 3 — NEW PUBLIC RIGHTS OF WAY TO BE CREATED[^key-7bc4f54146414818963cd171a95f2478]
+### PART 3 — NEW PUBLIC RIGHTS OF WAY TO BE CREATED[^c-7bc4f54146414818963cd171a95f2478]
 
 <table>
 <thead>
@@ -69,8 +69,8 @@ Article 12
 
 ## Annotations
 
-[^key-f13e78c1a7a78e9b1c118d659ab9c694]: Commencement: Sch. 5 Pt. 1 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-f13e78c1a7a78e9b1c118d659ab9c694]: Commencement: Sch. 5 Pt. 1 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-e19deee2c2d8bcf508cb1eba2a5bde96]: Commencement: Sch. 5 Pt. 2 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-e19deee2c2d8bcf508cb1eba2a5bde96]: Commencement: Sch. 5 Pt. 2 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-7bc4f54146414818963cd171a95f2478]: Commencement: Sch. 5 Pt. 3 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-7bc4f54146414818963cd171a95f2478]: Commencement: Sch. 5 Pt. 3 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)

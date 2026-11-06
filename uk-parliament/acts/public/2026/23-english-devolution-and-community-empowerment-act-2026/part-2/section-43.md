@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Co-operation with local government pension scheme managers[^key-f4bb4667b52af654e95fe23bd511aca5][^key-8d09a56829bce97b420cb4a8c1147496]
+## 43. Co-operation with local government pension scheme managers[^c-f4bb4667b52af654e95fe23bd511aca5][^c-8d09a56829bce97b420cb4a8c1147496]
 
 *Extent: E+W*
 
@@ -113,6 +113,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f4bb4667b52af654e95fe23bd511aca5]: Commencement: S. 43 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-f4bb4667b52af654e95fe23bd511aca5]: Commencement: S. 43 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-8d09a56829bce97b420cb4a8c1147496]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2026/23/section/43) in force at 15.7.2026 by [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/1/a)
+[^c-8d09a56829bce97b420cb4a8c1147496]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2026/23/section/43) in force at 15.7.2026 by [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/1/a)

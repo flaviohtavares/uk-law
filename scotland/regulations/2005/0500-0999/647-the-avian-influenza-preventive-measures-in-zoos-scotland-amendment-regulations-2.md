@@ -49,11 +49,11 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Citation and commencement[^key-67bc5e72a000227d9f456e2fb071dd86]
+## 1. Citation and commencement[^c-67bc5e72a000227d9f456e2fb071dd86]
 
 These Regulations may be cited as the Avian Influenza (Preventive Measures in Zoos) (Scotland) Amendment Regulations 2005 and shall come into force on 23 January 2006.
 
-## 2. Amendment to regulation 8 of the Avian Influenza (Preventive Measures in Zoos) Regulations 2005[^key-66091ed5cac7f600fd0bb5ca1186848f]
+## 2. Amendment to regulation 8 of the Avian Influenza (Preventive Measures in Zoos) Regulations 2005[^c-66091ed5cac7f600fd0bb5ca1186848f]
 
 In regulation 8(1) (penalties and time limits) of the Avian Influenza (Preventive Measures in Zoos) Regulations 2005[^f00002] for “six” substitute “three”.
 
@@ -73,8 +73,8 @@ These Regulations correct an error in regulation 8 (penalties and time limits) o
 
 [^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), Schedule 8, paragraph 15(3). The functions conferred on a Minister of the Crown by section 2(2) were transferred, insofar as within devolved competence, to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
 
-[^key-67bc5e72a000227d9f456e2fb071dd86]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2005/647/regulation/1) in force at 23.1.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/647/regulation/1)
+[^c-67bc5e72a000227d9f456e2fb071dd86]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2005/647/regulation/1) in force at 23.1.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/647/regulation/1)
 
-[^key-66091ed5cac7f600fd0bb5ca1186848f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2005/647/regulation/2) in force at 23.1.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/647/regulation/1)
+[^c-66091ed5cac7f600fd0bb5ca1186848f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2005/647/regulation/2) in force at 23.1.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/647/regulation/1)
 
 [^f00002]: Footnote: [S.S.I. 2005/531](https://www.legislation.gov.uk/ssi/2005/531).

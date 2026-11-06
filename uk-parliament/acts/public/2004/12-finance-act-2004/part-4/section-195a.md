@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 195A. Life assurance premium contributions[^key-f095d68deb9b61f4032c1f7e0e4fe44d][^key-2a8a1cd66ca0fae24783c53ac32d5621]
+## 195A. Life assurance premium contributions[^c-f095d68deb9b61f4032c1f7e0e4fe44d][^c-2a8a1cd66ca0fae24783c53ac32d5621]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,6 +67,6 @@ and for the purposes of this subsection “**relative**” means brother, sister
 
 ## Annotations
 
-[^key-f095d68deb9b61f4032c1f7e0e4fe44d]: Textual amendment: S. 195A inserted (19.7.2007) (with effect in accordance with Sch. 18 paras. 4-7 of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2007/11/schedule/18/paragraph/3)
+[^c-f095d68deb9b61f4032c1f7e0e4fe44d]: Textual amendment: S. 195A inserted (19.7.2007) (with effect in accordance with Sch. 18 paras. 4-7 of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2007/11/schedule/18/paragraph/3)
 
-[^key-2a8a1cd66ca0fae24783c53ac32d5621]: Modification: Pt. 4 applied (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 35 para. 18](https://www.legislation.gov.uk/ukpga/2009/10/schedule/35/paragraph/18)
+[^c-2a8a1cd66ca0fae24783c53ac32d5621]: Modification: Pt. 4 applied (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 35 para. 18](https://www.legislation.gov.uk/ukpga/2009/10/schedule/35/paragraph/18)

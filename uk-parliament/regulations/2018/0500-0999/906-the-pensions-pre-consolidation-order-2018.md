@@ -31,7 +31,7 @@ summary: ''
 
 Ecclesiastical Law, England
 
-The Pensions (Pre-consolidation) Order 2018 (revoked)[^key-f01acafcc8df0871e6bcd1a396141048]
+The Pensions (Pre-consolidation) Order 2018 (revoked)[^c-f01acafcc8df0871e6bcd1a396141048]
 
 Made (sealed by the Archbishops' Council)
 
@@ -43,28 +43,28 @@ Laid before Parliament
 
 Coming into force in accordance with article 1
 
-[^key-f01acafcc8df0871e6bcd1a396141048]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f01acafcc8df0871e6bcd1a396141048]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f01acafcc8df0871e6bcd1a396141048]
+## 1. Citation and commencement[^c-f01acafcc8df0871e6bcd1a396141048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Lump sum payments[^key-f01acafcc8df0871e6bcd1a396141048]
+## 2. Lump sum payments[^c-f01acafcc8df0871e6bcd1a396141048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Church of England Pensions Board: disqualification from membership[^key-f01acafcc8df0871e6bcd1a396141048]
+## 3. Church of England Pensions Board: disqualification from membership[^c-f01acafcc8df0871e6bcd1a396141048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f01acafcc8df0871e6bcd1a396141048]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f01acafcc8df0871e6bcd1a396141048]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f01acafcc8df0871e6bcd1a396141048]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f01acafcc8df0871e6bcd1a396141048]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f01acafcc8df0871e6bcd1a396141048]: Textual amendment: Order revoked (16.3.2020) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 13(2)](https://www.legislation.gov.uk/ukcm/2020/1/section/13/2), [16(2)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/2)
+[^c-f01acafcc8df0871e6bcd1a396141048]: Textual amendment: Order revoked (16.3.2020) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 13(2)](https://www.legislation.gov.uk/ukcm/2020/1/section/13/2), [16(2)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/2)

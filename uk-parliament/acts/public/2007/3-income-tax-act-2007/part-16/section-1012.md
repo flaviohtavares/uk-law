@@ -29,7 +29,7 @@ summary: ''
 (4) The provisions are—
 
 - section 465A of ITTOIA 2005 (gains from contracts for life insurance etc to be treated as highest part of total income),
-- section 685A(5A) of[^key-6af7c435feb09f84505fa333ce487cfd] ITTOIA 2005 (payments from trustees of settlor-interested settlements to be treated as highest part of total income),
+- section 685A(5A) of[^c-6af7c435feb09f84505fa333ce487cfd] ITTOIA 2005 (payments from trustees of settlor-interested settlements to be treated as highest part of total income),
 - section 404A of ITEPA 2003 (payments and other benefits on termination of employment to be treated as highest part of total income), and
 - section 16 (savings and dividend income to be treated as highest part of total income).
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6af7c435feb09f84505fa333ce487cfd]: Textual amendment: Words in s. 1012(4) inserted (21.7.2008 with effect in accordance with s. 67(3) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 67(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/67/2)
+[^c-6af7c435feb09f84505fa333ce487cfd]: Textual amendment: Words in s. 1012(4) inserted (21.7.2008 with effect in accordance with s. 67(3) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 67(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/67/2)

@@ -48,13 +48,13 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 These Regulations are made with the consent of the Treasury in accordance with paragraph 39(13) of Schedule 7B to the 1988 Act.
 
-## 1. Citation, commencement and extent[^key-7788d339fcfe21b5530666adeb97b752]
+## 1. Citation, commencement and extent[^c-7788d339fcfe21b5530666adeb97b752]
 
 (1) These Regulations may be cited as the Non-Domestic Rating (Designated Areas) Regulations 2024.
 
 (2) These Regulations come into force on 1st April 2024 and extend to England and Wales.
 
-## 2. Interpretation[^key-43dd8a870683fedc42495ac9617e4931]
+## 2. Interpretation[^c-43dd8a870683fedc42495ac9617e4931]
 
 In these Regulations—
 
@@ -73,7 +73,7 @@ In these Regulations—
 - “**standard business rate baseline amount**”, in relation to a billing authority, means the amount calculated under paragraph 5 or 6 (as appropriate) of Schedule 2 in respect of a designated area for a specified year;
 - “**total baseline amount**”, in relation to a billing authority, means the amount calculated under paragraph 7 of Schedule 2 in respect of a designated area for a specified year.
 
-## 3. Designation of areas[^key-0cb0f7d1bfb11c42fa8ccbe6087797e4]
+## 3. Designation of areas[^c-0cb0f7d1bfb11c42fa8ccbe6087797e4]
 
 (1) The areas listed in Schedule 1 are designated for the purposes of these Regulations.
 
@@ -88,7 +88,7 @@ In these Regulations—
 - (e) London Gateway;
 - (f) Tilbury.
 
-## 4. Proportion of non-domestic rating income for a designated area to be disregarded[^key-2c6d5723ecc20461b5af764578f3dea7]
+## 4. Proportion of non-domestic rating income for a designated area to be disregarded[^c-2c6d5723ecc20461b5af764578f3dea7]
 
 (1) Part 1 of Schedule 2 provides rules for calculating the proportion of a billing authority’s non-domestic rating income in respect of a designated area for a specified year.
 
@@ -107,7 +107,7 @@ In these Regulations—
   - (iii) paragraph 10 (administrative arrangements for payments by billing authorities to major precepting authorities);
   - (iv) paragraph 28 (regulations about payments on account).
 
-## 5. Amendment of the Non-Domestic Rating (Designated Areas etc) Regulations 2017[^key-26386de9da9bf0ce5f1946a41adc803a]
+## 5. Amendment of the Non-Domestic Rating (Designated Areas etc) Regulations 2017[^c-26386de9da9bf0ce5f1946a41adc803a]
 
 (1) The Non-Domestic Rating (Designated Areas etc) Regulations 2017[^f00009] are amended as follows.
 
@@ -153,11 +153,11 @@ Department for Levelling Up, Housing and Communities
 
 Regulation 3
 
-**1.**[^key-9f6bbc8bf7e2ed5f689f7463278bb563] Each of the areas listed in column 2 of the table in this Schedule is designated by reference to the area or areas bounded externally by the outer edge of the red line shown on the map specified in column 1 of the table.
+**1.**[^c-9f6bbc8bf7e2ed5f689f7463278bb563] Each of the areas listed in column 2 of the table in this Schedule is designated by reference to the area or areas bounded externally by the outer edge of the red line shown on the map specified in column 1 of the table.
 
-**2.**[^key-c0e94dfa03dda02f9345880fd1ad9ad4] A reference in this Schedule to a map is to one of the maps numbered 1 to 29 and entitled “Maps referred to in Schedule 1 to the Non-Domestic Rating (Designated Areas) Regulations 2024” of which prints, signed by a member of the Senior Civil Service in the Department for Levelling Up, Housing and Communities, are deposited and available for inspection at the offices of the Secretary of State for Housing, Communities and Local Government[^key-837346217a8fcaf26b52d942ee7f433c] and, in relation to each map, at the offices of the billing authority to which the map relates as specified in column 3 of the table in this Schedule.
+**2.**[^c-c0e94dfa03dda02f9345880fd1ad9ad4] A reference in this Schedule to a map is to one of the maps numbered 1 to 29 and entitled “Maps referred to in Schedule 1 to the Non-Domestic Rating (Designated Areas) Regulations 2024” of which prints, signed by a member of the Senior Civil Service in the Department for Levelling Up, Housing and Communities, are deposited and available for inspection at the offices of the Secretary of State for Housing, Communities and Local Government[^c-837346217a8fcaf26b52d942ee7f433c] and, in relation to each map, at the offices of the billing authority to which the map relates as specified in column 3 of the table in this Schedule.
 
-**3.**[^key-47ae47aaf1db2befd826b5bb5ee3bd8a] For the purposes of determining a designated area, where part only of a hereditament is situated within an area shown on a map, the whole of the hereditament is taken to be included within that designated area.
+**3.**[^c-47ae47aaf1db2befd826b5bb5ee3bd8a] For the purposes of determining a designated area, where part only of a hereditament is situated within an area shown on a map, the whole of the hereditament is taken to be included within that designated area.
 
 | Numbered map (Column 1) | Designated area (Column 2) | Billing authority (Column 3) | Value of J (£) (see paragraph 8 of Schedule 2) (Column 4) | Value of N (£) (see paragraph 8 of Schedule 2) (Column 5) |
 | --- | --- | --- | --- | --- |
@@ -197,7 +197,7 @@ Regulations 2 and 4
 
 ### PART 1 — Proportion of non-domestic rating income to be disregarded
 
-**1.**[^key-ce3bed6d7d94f6205f5d9d8a4d302b49] (1) Unless sub-paragraph (2) applies, the proportion of a billing authority’s non-domestic rating income in respect of a designated area for a specified year is the difference between the authority’s—
+**1.**[^c-ce3bed6d7d94f6205f5d9d8a4d302b49] (1) Unless sub-paragraph (2) applies, the proportion of a billing authority’s non-domestic rating income in respect of a designated area for a specified year is the difference between the authority’s—
 
 - (a) non-domestic rating income in respect of the designated area for that year, and
 - (b) total baseline amount in respect of the designated area for that year.
@@ -206,7 +206,7 @@ Regulations 2 and 4
 
 ### PART 2 — Calculation of non-domestic rating income
 
-**2.**[^key-64617204020c0ad60d7fd310fba096cc] (1) A billing authority’s non-domestic rating income in respect of a designated area for a specified year is the amount calculated in accordance with the formula—
+**2.**[^c-64617204020c0ad60d7fd310fba096cc] (1) A billing authority’s non-domestic rating income in respect of a designated area for a specified year is the amount calculated in accordance with the formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2024/183)
 
@@ -230,7 +230,7 @@ where—
 
 ### PART 3 — Calculation of the baseline amounts
 
-#### 3. Small business rate baseline: non-revaluation year[^key-1db933840604e759d325059fc939335f]
+#### 3. Small business rate baseline: non-revaluation year[^c-1db933840604e759d325059fc939335f]
 
 (1) If a specified year is not a revaluation year, a billing authority’s small business rate baseline amount in respect of a designated area for the specified year is the amount calculated under sub-paragraph (2) or (3).
 
@@ -242,13 +242,13 @@ where—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2024/183)
 
-#### 4. Small business rate baseline: revaluation year[^key-9a31e6695c61f8ec0a7829650b277626]
+#### 4. Small business rate baseline: revaluation year[^c-9a31e6695c61f8ec0a7829650b277626]
 
 If a specified year is a revaluation year, a billing authority’s small business rate baseline amount in respect of a designated area for the specified year is the amount calculated in accordance with the formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2024/183)
 
-#### 5. Standard business rate baseline: non-revaluation year[^key-a8d26d90091d5c4f3ba8bedc39b6ac51]
+#### 5. Standard business rate baseline: non-revaluation year[^c-a8d26d90091d5c4f3ba8bedc39b6ac51]
 
 (1) If a specified year is not a revaluation year, a billing authority’s standard business rate baseline amount in respect of a designated area for the specified year is the amount calculated under sub-paragraph (2) or (3).
 
@@ -260,17 +260,17 @@ If a specified year is a revaluation year, a billing authority’s small busines
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2024/183)
 
-#### 6. Standard business rate baseline: revaluation year[^key-d220d4be2bef28f7540ad9122540766b]
+#### 6. Standard business rate baseline: revaluation year[^c-d220d4be2bef28f7540ad9122540766b]
 
 If a specified year is a revaluation year, a billing authority’s standard business rate baseline amount in respect of a designated area for the specified year is the amount calculated in accordance with the formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2024/183)
 
-#### 7. Total baseline[^key-9573ec1ef2134a167430c90f8fa21e78]
+#### 7. Total baseline[^c-9573ec1ef2134a167430c90f8fa21e78]
 
 A billing authority’s total baseline amount in respect of a designated area for the specified year is the sum of the small business rate baseline for the specified year and the standard business rate baseline for the specified year.
 
-#### 8. Interpretation of Part 3[^key-03f86abad6221618e0e3df3701371596]
+#### 8. Interpretation of Part 3[^c-03f86abad6221618e0e3df3701371596]
 
 (1) In this Part—
 
@@ -324,9 +324,9 @@ https://www.gov.uk/government/uploads/system/uploads/attachment\_data/file/8470/
 
 [^f00001]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41). Schedule 7B was inserted by section 1 of, and Schedule 1 to, the Local Government Finance Act [2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17).
 
-[^key-7788d339fcfe21b5530666adeb97b752]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/183/regulation/1) in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2)
+[^c-7788d339fcfe21b5530666adeb97b752]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/183/regulation/1) in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2)
 
-[^key-43dd8a870683fedc42495ac9617e4931]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/183/regulation/2) in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2)
+[^c-43dd8a870683fedc42495ac9617e4931]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/183/regulation/2) in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2)
 
 [^f00002]: Footnote: See section 41(1) of the Local Government Finance Act [1988 (c. 41)](https://www.legislation.gov.uk/ukpga/1988/41) for the meaning of “local non-domestic rating list”.
 
@@ -336,9 +336,9 @@ https://www.gov.uk/government/uploads/system/uploads/attachment\_data/file/8470/
 
 [^f00005]: Footnote: Section 41 was amended by Schedule 5 to the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42), Schedule 13 to the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), sections 29 and 30 of the Growth and Infrastructure Act [2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), section 1 of the Non-Domestic Rating (Lists) Act [2021 (c. 8)](https://www.legislation.gov.uk/ukpga/2021/8) and section 5 of the Non-Domestic Rating Act [2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53).
 
-[^key-0cb0f7d1bfb11c42fa8ccbe6087797e4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/183/regulation/3) in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2)
+[^c-0cb0f7d1bfb11c42fa8ccbe6087797e4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/183/regulation/3) in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2)
 
-[^key-2c6d5723ecc20461b5af764578f3dea7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/183/regulation/4) in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2)
+[^c-2c6d5723ecc20461b5af764578f3dea7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/183/regulation/4) in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2)
 
 [^f00006]: Footnote: The calculation under paragraph 23 must be made in accordance with regulations made under paragraph 22.
 
@@ -346,35 +346,35 @@ https://www.gov.uk/government/uploads/system/uploads/attachment\_data/file/8470/
 
 [^f00008]: Footnote: The calculation under paragraph 30 must be made in accordance with the basis of distribution specified in the regulations made under that paragraph.
 
-[^key-26386de9da9bf0ce5f1946a41adc803a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/183/regulation/5) in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2)
+[^c-26386de9da9bf0ce5f1946a41adc803a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/183/regulation/5) in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2)
 
 [^f00009]: Footnote: [S.I. 2017/318](https://www.legislation.gov.uk/uksi/2017/318), amended by [S.I. 2017/471](https://www.legislation.gov.uk/uksi/2017/471).
 
-[^key-9f6bbc8bf7e2ed5f689f7463278bb563]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2024/183/schedule/1/paragraph/1) in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2)
+[^c-9f6bbc8bf7e2ed5f689f7463278bb563]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2024/183/schedule/1/paragraph/1) in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2)
 
-[^key-c0e94dfa03dda02f9345880fd1ad9ad4]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2024/183/schedule/1/paragraph/2) in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2)
+[^c-c0e94dfa03dda02f9345880fd1ad9ad4]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2024/183/schedule/1/paragraph/2) in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2)
 
-[^key-837346217a8fcaf26b52d942ee7f433c]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2024/183/schedule/1/paragraph/2) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 29](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/29) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
+[^c-837346217a8fcaf26b52d942ee7f433c]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2024/183/schedule/1/paragraph/2) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 29](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/29) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
 
-[^key-47ae47aaf1db2befd826b5bb5ee3bd8a]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2024/183/schedule/1/paragraph/3) in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2)
+[^c-47ae47aaf1db2befd826b5bb5ee3bd8a]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2024/183/schedule/1/paragraph/3) in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2)
 
-[^key-ce3bed6d7d94f6205f5d9d8a4d302b49]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2024/183/schedule/2/paragraph/1) in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2)
+[^c-ce3bed6d7d94f6205f5d9d8a4d302b49]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2024/183/schedule/2/paragraph/1) in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2)
 
-[^key-64617204020c0ad60d7fd310fba096cc]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2024/183/schedule/2/paragraph/2) in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2)
+[^c-64617204020c0ad60d7fd310fba096cc]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2024/183/schedule/2/paragraph/2) in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2)
 
 [^f00010]: Footnote: The meaning of proper practices is given in section 21 of the Local Government Act [2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), which applies to these Regulations by virtue of subsection (4)(e) of that section.
 
-[^key-1db933840604e759d325059fc939335f]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/183/schedule/2/paragraph/3) in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2)
+[^c-1db933840604e759d325059fc939335f]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/183/schedule/2/paragraph/3) in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2)
 
-[^key-9a31e6695c61f8ec0a7829650b277626]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2024/183/schedule/2/paragraph/4) in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2)
+[^c-9a31e6695c61f8ec0a7829650b277626]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2024/183/schedule/2/paragraph/4) in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2)
 
-[^key-a8d26d90091d5c4f3ba8bedc39b6ac51]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2024/183/schedule/2/paragraph/5) in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2)
+[^c-a8d26d90091d5c4f3ba8bedc39b6ac51]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2024/183/schedule/2/paragraph/5) in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2)
 
-[^key-d220d4be2bef28f7540ad9122540766b]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2024/183/schedule/2/paragraph/6) in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2)
+[^c-d220d4be2bef28f7540ad9122540766b]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2024/183/schedule/2/paragraph/6) in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2)
 
-[^key-9573ec1ef2134a167430c90f8fa21e78]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2024/183/schedule/2/paragraph/7) in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2)
+[^c-9573ec1ef2134a167430c90f8fa21e78]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2024/183/schedule/2/paragraph/7) in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2)
 
-[^key-03f86abad6221618e0e3df3701371596]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2024/183/schedule/2/paragraph/8) in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2)
+[^c-03f86abad6221618e0e3df3701371596]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2024/183/schedule/2/paragraph/8) in force at 1.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2)
 
 [^f00011]: Footnote: Schedule 4ZA was inserted into the Local Government Finance Act 1988 by section 1 of the Non-Domestic Rating Act [2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53). For the meaning of “M”, see paragraph 10(9) of Schedule 4ZA. For the meaning of “D”, see paragraph 10(5) of Schedule 4ZA.
 

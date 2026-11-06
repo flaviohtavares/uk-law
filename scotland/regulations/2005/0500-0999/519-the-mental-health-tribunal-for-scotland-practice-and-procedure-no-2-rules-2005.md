@@ -56,32 +56,32 @@ These Rules may be cited as the Mental Health Tribunal for Scotland (Practice an
 
 (1) In these Rules—
 
-- “[^key-f1792c1ae5dc953934b7c8aa888784ca]**the 2024 Act**” means the United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024;
+- “[^c-f1792c1ae5dc953934b7c8aa888784ca]**the 2024 Act**” means the United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024;
 - “**the Act**” means the Mental Health (Care and Treatment) (Scotland) Act 2003;
 - “**appellant**” means a person who appeals to the Tribunal under or by virtue of any of the sections of the Act specified in Part III of these Rules;
 - “**applicant**” means a person who makes an application to the Tribunal under the Act;
 - “**Clerk**” means a member of staff of the Tribunal employed to carry out the administration of the Tribunal or to act as clerk at a hearing of the Tribunal;
-- “[^key-fe1e563905bb7a584505296cc7e7c825]**compatibility question**” has the meaning given by section 31(1) of the 2024 Act;
+- “[^c-fe1e563905bb7a584505296cc7e7c825]**compatibility question**” has the meaning given by section 31(1) of the 2024 Act;
 - “**Convener**” means the President or a person selected by the President from the panel mentioned in paragraph 1(1)(a) or 2 of schedule 2 to the Act;
 - “**electronic communication**” has the meaning given to it by section 15(1) of Electronic Communications Act 2000 [^c12527051] and “**electronic signature**” has the same meaning as in section 7 of that Act;
 - “**hearing**” means a sitting of the Tribunal for the purpose of enabling the Tribunal to take a decision on any matter relating to the case before it;
 - “**notice**” means notice in writing;
 - “**the overriding objective**” means the overriding objective described in rule 4;
 - “**party**” means–
-  - (a) the person who initiated the proceedings before the Tribunal except a person who initiated them by virtue of a provision giving a listed initiator authority to act[^key-b00dc084a2406ec52f795bc5646b24f4];
+  - (a) the person who initiated the proceedings before the Tribunal except a person who initiated them by virtue of a provision giving a listed initiator authority to act[^c-b00dc084a2406ec52f795bc5646b24f4];
   - (b) the patient to whom the proceedings relate;
   - (c) the named person of the patient to whom the proceedings relate;
-  - (d) any person whose decision (which shall include any direction or order, determination or grant of a certificate, but does not include a decision by a court) is the subject of the proceedings before the Tribunal; [^key-ac6a82e8d61e3d5d6eacaa44abb4f838]...
-  - (e) any person added as a party under rule 48; [^key-378770f7bc84c1bd7001b246ef2c78e2]...[^key-5310abf66759e30272b1ef8d41cfd03e]
-  - (f) the Scottish Ministers in any proceedings which relate to a relevant patient;[^key-c4a69db579a0ed7778824dca77dad1aa] [^key-e6e6407a3a38cd8027be57bfa2ad610d]...
-  - (g) the relevant Health Board in any proceedings under sections 264 to 271 of the Act;and[^key-1fb3dd5a189c29fe86d998cd2bfc9db4]
+  - (d) any person whose decision (which shall include any direction or order, determination or grant of a certificate, but does not include a decision by a court) is the subject of the proceedings before the Tribunal; [^c-ac6a82e8d61e3d5d6eacaa44abb4f838]...
+  - (e) any person added as a party under rule 48; [^c-378770f7bc84c1bd7001b246ef2c78e2]...[^c-5310abf66759e30272b1ef8d41cfd03e]
+  - (f) the Scottish Ministers in any proceedings which relate to a relevant patient;[^c-c4a69db579a0ed7778824dca77dad1aa] [^c-e6e6407a3a38cd8027be57bfa2ad610d]...
+  - (g) the relevant Health Board in any proceedings under sections 264 to 271 of the Act;and[^c-1fb3dd5a189c29fe86d998cd2bfc9db4]
   - (h) the patient’s responsible medical officer in any proceedings in relation to an application under section 164A of the Act;
 - “**patient**” means the patient to whom the proceedings relate;
 - “**relevant person**” means any party and any other person who sends a notice of response under Part II, IV or V of these Rules indicating a wish to make representations or to lead or produce evidence;
 - “**President**” means the President of the Tribunal;
 - “**referee**” means a person who makes a reference to the Tribunal under the Act;
-- “[^key-c581eca3e5a1d961ced120266d7ba3c3]**relevant authorities**” means the Lord Advocate, the Commissioner for Children and Young People in Scotland or the Scottish Commission for Human Rights;
-- “relevant Health Board” and “relevant patient” are to be interpreted in accordance with section 273 of the Act;[^key-47513600709b32eb17f9159e63e4940f]
+- “[^c-c581eca3e5a1d961ced120266d7ba3c3]**relevant authorities**” means the Lord Advocate, the Commissioner for Children and Young People in Scotland or the Scottish Commission for Human Rights;
+- “relevant Health Board” and “relevant patient” are to be interpreted in accordance with section 273 of the Act;[^c-47513600709b32eb17f9159e63e4940f]
 - “**respondent**” means the person who made the decision which is the subject of appeal under or by virtue of Part III of these Rules;
 - “**Tribunal**” means the Mental Health Tribunal for Scotland and “**tribunal**” means a tribunal constituted under sub paragraph (1) of paragraph 7 of schedule 2 to the Act to discharge the functions of the Tribunal; and
 - “**working day**” means a day which is not–
@@ -89,7 +89,7 @@ These Rules may be cited as the Mental Health Tribunal for Scotland (Practice an
   - (b) a Sunday; or
   - (c) a day which is a bank holiday in Scotland under the Banking and Financial Dealings Act 1971 [^c12527061].
 
-(1A)[^key-9c85e2a8018f7ff97b14b33c0b7b2a6f] The “listed initiator requirement” is that the application or appeal is accompanied by—
+(1A)[^c-9c85e2a8018f7ff97b14b33c0b7b2a6f] The “listed initiator requirement” is that the application or appeal is accompanied by—
 
 - (a) a written statement by an approved medical practitioner confirming that in the opinion of that practitioner the patient is incapable in relation to a decision as to whether to initiate an application or appeal; and
 - (b) a written statement from the person making the application or appeal stating—
@@ -137,7 +137,7 @@ The overriding objective of these Rules is to secure that proceedings before the
 - (d) the name and address of the hospital where the patient is detained; and
 - (e) a brief statement of the reasons for the application.
 
-(2A)[^key-0dc4b6ff11d747161ea2bf655fa79fc9] Where an application is made by virtue of a provision giving a listed initiator authority to act, the listed initiator requirement must be complied with.
+(2A)[^c-0dc4b6ff11d747161ea2bf655fa79fc9] Where an application is made by virtue of a provision giving a listed initiator authority to act, the listed initiator requirement must be complied with.
 
 (3) The applicant shall sign the application.
 
@@ -222,7 +222,7 @@ The overriding objective of these Rules is to secure that proceedings before the
   - (i) of making representations (whether orally or in writing); and
   - (ii) of leading, or producing, evidence,
 
-  in relation to the making of an order under sections 64 or 65[^key-3b3cb56caeccd05bd25105febb9c9515] of the Act.
+  in relation to the making of an order under sections 64 or 65[^c-3b3cb56caeccd05bd25105febb9c9515] of the Act.
 
 (5) If a person mentioned in paragraph (3) wishes to make representations (whether orally or in writing) or to lead or produce evidence, that person shall send a notice of response to the Tribunal within 14 days of receipt of the notice under that paragraph or within such other period specified in that notice.
 
@@ -305,7 +305,7 @@ it shall fix a further hearing.
 - (e) where the patient is required to reside at a specified place, the address of that specified place; and
 - (f) a brief statement of the reasons for the application.
 
-(2A)[^key-cc83cbd3004c3cd8e9896b41512338bc] Where an application is made by virtue of a provision giving a listed initiator authority to act, the listed initiator requirement must be complied with.
+(2A)[^c-cc83cbd3004c3cd8e9896b41512338bc] Where an application is made by virtue of a provision giving a listed initiator authority to act, the listed initiator requirement must be complied with.
 
 (3) The applicant shall sign the application.
 
@@ -351,7 +351,7 @@ it shall fix a further hearing.
 - (e) where the patient is required to reside at a specified place, the address of that specified place; and
 - (f) a brief statement of the reasons for the application.
 
-(2A)[^key-8a6eee2f17297f4a4d81079c2da079d8] Where an application is made by virtue of a provision giving a listed initiator authority to act, the listed initiator requirement must be complied with.
+(2A)[^c-8a6eee2f17297f4a4d81079c2da079d8] Where an application is made by virtue of a provision giving a listed initiator authority to act, the listed initiator requirement must be complied with.
 
 (3) The applicant shall sign the application.
 
@@ -427,9 +427,9 @@ it shall fix a further hearing.
 
 (6) The Clerk shall send a copy of each notice of response to each party.
 
-#### 13. Application by patient etc. for revocation of determination extending compulsion order under section 163 of the Act, for revocation or variation of a compulsion order under section 164 of the Act , to end the disclosure period for a compulsion order under section 164A of the Act and under section 120 of the Act for revocation of a certificate under section 114(2) of the Act as applied with modifications by section 177 of the Act[^key-4c42dd5953dd72c0ca1edc5a097b379e]
+#### 13. Application by patient etc. for revocation of determination extending compulsion order under section 163 of the Act, for revocation or variation of a compulsion order under section 164 of the Act , to end the disclosure period for a compulsion order under section 164A of the Act and under section 120 of the Act for revocation of a certificate under section 114(2) of the Act as applied with modifications by section 177 of the Act[^c-4c42dd5953dd72c0ca1edc5a097b379e]
 
-(1) An application for revocation of a determination extending a compulsion order under section 163 of the Act , for revocation and variation of a compulsion order under section 164 of the Act or to end the disclosure period applicable to a compulsion order under section 164A of the Act[^key-0614079032ba1667eaff0054ada8fb51] shall be made in writing and shall state–
+(1) An application for revocation of a determination extending a compulsion order under section 163 of the Act , for revocation and variation of a compulsion order under section 164 of the Act or to end the disclosure period applicable to a compulsion order under section 164A of the Act[^c-0614079032ba1667eaff0054ada8fb51] shall be made in writing and shall state–
 
 - (a) the name and address of the applicant;
 - (b) the name and address of the patient;
@@ -440,7 +440,7 @@ it shall fix a further hearing.
 
 (2) The applicant shall sign the application.
 
-(2A)[^key-77e5fb3a4d9894ad954f53f2c945d481] Where an application is made by virtue of a provision giving a listed initiator authority to act, the listed initiator requirement must be complied with.
+(2A)[^c-77e5fb3a4d9894ad954f53f2c945d481] Where an application is made by virtue of a provision giving a listed initiator authority to act, the listed initiator requirement must be complied with.
 
 (3) The Clerk shall send notice of the application to–
 
@@ -520,7 +520,7 @@ it shall fix a further hearing.
 
 (2) The applicant shall sign the application.
 
-(2A)[^key-c6c2e86269dec30138901d6d9a2eb4e9] Where an application is made by virtue of a provision giving a listed initiator authority to act, the listed initiator requirement must be complied with.
+(2A)[^c-c6c2e86269dec30138901d6d9a2eb4e9] Where an application is made by virtue of a provision giving a listed initiator authority to act, the listed initiator requirement must be complied with.
 
 (3) The Clerk shall send a copy of the application to the patient's responsible medical officer and the Scottish Ministers.
 
@@ -566,7 +566,7 @@ it shall fix a further hearing.
 - (e) the direction which the applicant seeks to revoke; and
 - (f) a brief statement of the reasons for the application.
 
-(2A)[^key-9ef6f80b8b1fc938b7efbdb8941020b2] Where an application is made by virtue of a provision giving a listed initiator authority to act, the listed initiator requirement must be complied with.
+(2A)[^c-9ef6f80b8b1fc938b7efbdb8941020b2] Where an application is made by virtue of a provision giving a listed initiator authority to act, the listed initiator requirement must be complied with.
 
 (3) The applicant shall sign the application.
 
@@ -618,11 +618,11 @@ together with notice of the case number of the application (which must from then
 
 (5) Where it considers it expedient to do so, the Tribunal may permit an application to which this rule applies to be made by oral request and, in that event, the Tribunal shall take such steps as are reasonably practical to inform the persons mentioned in paragraph (2) of the application and to allow them to be heard on the application.
 
-### Detention in conditions of excessive security[^key-6edab39d162896594f7ae069f49d8bc9]
+### Detention in conditions of excessive security[^c-6edab39d162896594f7ae069f49d8bc9]
 
-#### 17A. Application that detention in hospital is in conditions of excessive security[^key-99bfeb7ff102e2a1fca691bc33b7d6f0]
+#### 17A. Application that detention in hospital is in conditions of excessive security[^c-99bfeb7ff102e2a1fca691bc33b7d6f0]
 
-(1)[^key-576ac8c5d059fd81fdd13fc8a6a47a5d] An application to the Tribunal for an order under—
+(1)[^c-576ac8c5d059fd81fdd13fc8a6a47a5d] An application to the Tribunal for an order under—
 
 - (a) section 264(2) of the Act (detention in conditions of excessive security: state hospitals); or
 - (b) section 268(2) of the Act (detention in conditions of excessive security: hospitals other than state hospitals),
@@ -638,7 +638,7 @@ must be made in writing.
 - (e) the order or direction under the authority of which the patient is detained in hospital, including, where the order is a compulsion order, whether or not the patient is subject to a restriction order; and
 - (f) a brief statement of the reasons for the application.
 
-(2A)[^key-b8687bda52b3ac8eb235c06a0f4c134a] Where an application is made by virtue of a provision giving a listed initiator authority to act, the listed initiator requirement must be complied with.
+(2A)[^c-b8687bda52b3ac8eb235c06a0f4c134a] Where an application is made by virtue of a provision giving a listed initiator authority to act, the listed initiator requirement must be complied with.
 
 (3) The applicant shall sign the application.
 
@@ -648,7 +648,7 @@ must be made in writing.
 - (b) the patient’s named person;
 - (c) the relevant Health Board;
 - (d) the patient’s responsible medical officer;
-- (e) the managers of the [^key-b4c566b4dc9e75a40e0060188513d14a]... hospital in which the patient is detained;
+- (e) the managers of the [^c-b4c566b4dc9e75a40e0060188513d14a]... hospital in which the patient is detained;
 - (f) the mental health officer;
 - (g) any guardian of the patient;
 - (h) any welfare attorney of the patient;
@@ -665,9 +665,9 @@ must be made in writing.
   - (i) of making representations (whether orally or in writing); and
   - (ii) of leading, or producing, evidence,
 
-  in relation to the making of an order under section 264(2) or 268(2)[^key-8072d619a74490326debce068748f02c] of the Act.
+  in relation to the making of an order under section 264(2) or 268(2)[^c-8072d619a74490326debce068748f02c] of the Act.
 
-(6)[^key-860ca47cfaee8079a1ddd570e4bc28fd] A person sent notice by the Clerk in accordance with paragraph (4) who wishes to—
+(6)[^c-860ca47cfaee8079a1ddd570e4bc28fd] A person sent notice by the Clerk in accordance with paragraph (4) who wishes to—
 
 - (a) make representations (orally or in writing); or
 - (b) lead or produce evidence,
@@ -676,7 +676,7 @@ in relation to the application, must send a notice of response to the Tribunal w
 
 (7) The Clerk shall send a copy of each notice of response to each party.
 
-#### 17AA. Application that detention in hospital is in conditions of excessive security: medical report[^key-fe4799230dc801117dd185fbe298d64d]
+#### 17AA. Application that detention in hospital is in conditions of excessive security: medical report[^c-fe4799230dc801117dd185fbe298d64d]
 
 (1) The report accompanying an application for an order under section 264(2) or 268(2) of the Act must (in addition to providing the information required by section 264(7A) or, as the case may be, 268(7A) of the Act) state—
 
@@ -688,7 +688,7 @@ in relation to the application, must send a notice of response to the Tribunal w
 - (a) section 264(7A) of the Act, in the case of an application for an order under subsection (2) of that section; or
 - (b) section 268(7A) of the Act, in the case of an application for an order under subsection(2) of that section.
 
-#### 17B. Hearings under section 265(2) or 269(2) of the Act[^key-e2699ade3c31cad7faab53d017be81d3]
+#### 17B. Hearings under section 265(2) or 269(2) of the Act[^c-e2699ade3c31cad7faab53d017be81d3]
 
 (1) This rule applies where a hearing is to be held in accordance with section 265(2) or 269(2) of the Act.
 
@@ -717,9 +717,9 @@ in relation to the hearing, must send a notice of response to the Tribunal withi
 
 (6) The Clerk must send a copy of any notice of response received to each party.
 
-#### 17C. Application under section 267 or 271 of the Act for recall of an order[^key-52b4f1134d979f31f06dea277fe6b26f]
+#### 17C. Application under section 267 or 271 of the Act for recall of an order[^c-52b4f1134d979f31f06dea277fe6b26f]
 
-(1)[^key-b7ef19717db2ce46a6e9e25b2de1a626] An application to the Tribunal under—
+(1)[^c-b7ef19717db2ce46a6e9e25b2de1a626] An application to the Tribunal under—
 
 - (a) section 267(2) of the Act for recall of an order made under section 264(2) or 265(3) of the Act; or
 - (b) section 271(2) of the Act for recall of an order made under section 268(2) or 269(3) of the Act,
@@ -744,7 +744,7 @@ must be made in writing.
   - (i) of making representations (whether orally or in writing); and
   - (ii) of leading, or producing, evidence
 
-  in relation to an application under section 267(2) for recall of an order made under section 264(2) or 265(3) of the Act, or under section 271(2) for recall of an order made under section 268(2) or 269(3) of the Act.[^key-f750067117fb9eceb674ad9aa27a387a]
+  in relation to an application under section 267(2) for recall of an order made under section 264(2) or 265(3) of the Act, or under section 271(2) for recall of an order made under section 268(2) or 269(3) of the Act.[^c-f750067117fb9eceb674ad9aa27a387a]
 
 (6) If a person sent notice under paragraph (4) wishes to make representations (whether orally or in writing) or to lead, or produce, evidence, that person shall send a notice of response to the Tribunal within 21 days of receipt of the notice under that paragraph or within such other period specified in that notice.
 
@@ -792,7 +792,7 @@ A notice of response by any of the persons who are given notice under this Part 
 
 #### 20. Withdrawal of application
 
-(1) Where an application is made to the Tribunal under section 50, 63, 99, 100, 120, 163, 164, 164A,[^key-ac6aea350f219242b1589b3457eef274] 192 or 214 of the Act, an applicant may withdraw that application–
+(1) Where an application is made to the Tribunal under section 50, 63, 99, 100, 120, 163, 164, 164A,[^c-ac6aea350f219242b1589b3457eef274] 192 or 214 of the Act, an applicant may withdraw that application–
 
 - (a) at any time before the hearing of the application by sending to the Clerk a notice signed by the applicant; or
 - (b) at the hearing on the application.
@@ -838,7 +838,7 @@ This Part applies to appeals to the Tribunal under, or by virtue of, the followi
 
 (2) The appellant shall sign the appeal.
 
-(2A)[^key-1211cb3f9c0be392a9f4e5c8a21af9b7] Where an appeal is made by virtue of a provision giving a listed initiator authority to act, the listed initiator requirement must be complied with.
+(2A)[^c-1211cb3f9c0be392a9f4e5c8a21af9b7] Where an appeal is made by virtue of a provision giving a listed initiator authority to act, the listed initiator requirement must be complied with.
 
 ### 24. Notice of the appeal
 
@@ -1068,7 +1068,7 @@ This Part applies to cases remitted to the Tribunal by the court under section 3
 - (b) is directly involved in providing medical treatment, community care services, relevant services or any other treatment, care or service to that patient; or
 - (c) has a personal or professional connection with the patient.
 
-(2)[^key-67fd4381a97e811bb05dfab171c4ceac] For the purposes of paragraph (1)(a), unless a person works wholly or mainly in a hospital or independent health care service, that person shall not be regarded as being employed by or contracted to provide services in or to that hospital or independent health care service.
+(2)[^c-67fd4381a97e811bb05dfab171c4ceac] For the purposes of paragraph (1)(a), unless a person works wholly or mainly in a hospital or independent health care service, that person shall not be regarded as being employed by or contracted to provide services in or to that hospital or independent health care service.
 
 ### 43. Interim or preliminary matters
 
@@ -1081,7 +1081,7 @@ This Part applies to cases remitted to the Tribunal by the court under section 3
 - (a) send notice to any of the relevant persons inviting them to make written representations within such period as may be specified; or
 - (b) summon any of the relevant persons to appear before the Tribunal or Convener for a preliminary hearing and may give any necessary directions relating to their appearance.
 
-### 43A. Compatibility question under the 2024 Act - raising, intimation and notice[^key-6b335d1f7532b0c9caf9bdb14c528511]
+### 43A. Compatibility question under the 2024 Act - raising, intimation and notice[^c-6b335d1f7532b0c9caf9bdb14c528511]
 
 (1) This rule applies to—
 
@@ -1158,7 +1158,7 @@ on the basis of which it is claimed that the compatibility question arises.
 
 (3) In determining whether to allow documents to be lodged late, the Tribunal shall have regard to whether to do so is fair in all the circumstances.
 
-### 46. Distribution of documents[^key-7078f3b260529869a6eba8ec84d023e1]
+### 46. Distribution of documents[^c-7078f3b260529869a6eba8ec84d023e1]
 
 (1) Except as otherwise provided for in these Rules, the Clerk shall as soon as reasonably practicable send a copy of any document received in relation to the proceedings to the parties.
 
@@ -1335,13 +1335,13 @@ on the basis of which it is claimed that the compatibility question arises.
 (2) Those circumstances are–
 
 - (a) that the patient does not have the capacity to instruct a solicitor to represent the patient's interests in proceedings before the Tribunal;
-- (aa)[^key-9e60bbc08a1552374860513cb2438fa5] an application or appeal has been initiated by virtue of a provision giving a listed initiator authority to act;
+- (aa)[^c-9e60bbc08a1552374860513cb2438fa5] an application or appeal has been initiated by virtue of a provision giving a listed initiator authority to act;
 - (b) that where the Tribunal or a Convener has made a decision not to disclose a document or report or part of it to the patient under rule 47, and the patient does not have a representative to represent their interests; or
 - (c) that the patient has been excluded from any hearing or part of it under rule 68 or 69 and the patient does not have a representative to represent their interests.
 
-(3)[^key-051a440b7e26b4a3cc5dfb9cbf69d38d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-051a440b7e26b4a3cc5dfb9cbf69d38d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-051a440b7e26b4a3cc5dfb9cbf69d38d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-051a440b7e26b4a3cc5dfb9cbf69d38d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The Tribunal shall provide all necessary information to a curator *ad litem* appointed to enable the curator *ad litem* to represent the patient's interests in proceedings before the Tribunal.
 
@@ -1370,7 +1370,7 @@ on the basis of which it is claimed that the compatibility question arises.
 
 (2) The Tribunal shall not, without good cause, alter any date under paragraph (1) to a date before the date originally fixed.
 
-### 58. Power to decide case without a hearing[^key-099601ab4b5d26be06b9d9578910efb2]
+### 58. Power to decide case without a hearing[^c-099601ab4b5d26be06b9d9578910efb2]
 
 (1) The Tribunal may decide the case without a hearing where the following conditions are met—
 
@@ -1421,7 +1421,7 @@ on the basis of which it is claimed that the compatibility question arises.
 (7) In giving effect to this rule, the Tribunal shall take into account–
 
 - (a) the need to protect any matter that relates to intimate personal or financial circumstances or was communicated or obtained in confidence; and
-- (b) any request for non disclosure made under rule rule 46A(1)[^key-47844c6663cb1e84440436861a46ade3].
+- (b) any request for non disclosure made under rule rule 46A(1)[^c-47844c6663cb1e84440436861a46ade3].
 
 #### 60. Evidence of witnesses – general rule
 
@@ -1528,7 +1528,7 @@ Evidence before the Tribunal may be given orally or by signed statement but the 
 
 - (a) the President;
 - (b) any member of the Tribunal, or a member of staff of the Tribunal, with the agreement of the Convener;
-- (c)[^key-59a95774f56d35d75776b36d59e8582e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-59a95774f56d35d75776b36d59e8582e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) an interpreter or other person giving other necessary assistance to a person entitled to attend the hearing.
 
 (7) The Tribunal may exclude from any hearing or any part of a hearing, any person, other than a representative of the patient or a relevant person, where it is considering a document or report withheld from disclosure in accordance with rule 47, and in any case where the Tribunal decides to so exclude such a person, it shall inform the person excluded of its reasons and record those reasons in writing.
@@ -1620,20 +1620,20 @@ Evidence before the Tribunal may be given orally or by signed statement but the 
 
 (2) The decision shall be signed by the Convener and dated.
 
-(3) The Tribunal shall, as soon as reasonably practicable, send notice of the decision to the parties , the patient’s mental health officer (if they are not a party to the proceedings), the patient’s responsible medical officer (if they are not a party to the proceedings)[^key-499ab9e7caf433ad24d513107e626f95] and such other relevant person as the Tribunal may direct.
+(3) The Tribunal shall, as soon as reasonably practicable, send notice of the decision to the parties , the patient’s mental health officer (if they are not a party to the proceedings), the patient’s responsible medical officer (if they are not a party to the proceedings)[^c-499ab9e7caf433ad24d513107e626f95] and such other relevant person as the Tribunal may direct.
 
 (4) Information in such form as the President may approve, shall be sent with the notice referred to in paragraph (3), explaining any right of appeal against the Tribunal's decision under sections 320 and 322 of the Act, including any time limits which may apply.
 
-(5) Where a decision has been made by the Tribunal, whether at a hearing or otherwise, the Clerk shall, within 21 days of the date on which the decision is signed by the Convener[^key-df8a8aa68601b94566648bfac10bb7b8], send a copy of the decision to the Commission and where the case was remitted to the Tribunal by a court, to that court.
+(5) Where a decision has been made by the Tribunal, whether at a hearing or otherwise, the Clerk shall, within 21 days of the date on which the decision is signed by the Convener[^c-df8a8aa68601b94566648bfac10bb7b8], send a copy of the decision to the Commission and where the case was remitted to the Tribunal by a court, to that court.
 
-(5A)[^key-518be2542de5cf7e8c639e6c9fced7e7] Paragraph 5B applies to decisions made by the Tribunal in relation to applications or references under sections 50(1), 63(1), 92, 95, 98(2), 99(1), 100(2), 120(2), 149, 158, 161, 162(2), 163(1), 164(2), 164A(2),[^key-96951ff75165efb2f6df4bfe0c0586e9] 185(1), 187(2), 189(2), 191, 192(2), 210(3), 211(2), 213(2), 214(2), 255(4), (6) and (7), 256(1), 264(2), 267(2), 268(2), 271(2) and 291(2) of the Act but does not apply in relation to any such applications which are not granted by the Tribunal.
+(5A)[^c-518be2542de5cf7e8c639e6c9fced7e7] Paragraph 5B applies to decisions made by the Tribunal in relation to applications or references under sections 50(1), 63(1), 92, 95, 98(2), 99(1), 100(2), 120(2), 149, 158, 161, 162(2), 163(1), 164(2), 164A(2),[^c-96951ff75165efb2f6df4bfe0c0586e9] 185(1), 187(2), 189(2), 191, 192(2), 210(3), 211(2), 213(2), 214(2), 255(4), (6) and (7), 256(1), 264(2), 267(2), 268(2), 271(2) and 291(2) of the Act but does not apply in relation to any such applications which are not granted by the Tribunal.
 
 (5B) Where a copy of a decision is sent to the Commission under paragraph (5) the Clerk shall at the same time send to the Commission a copy of:–
 
 - (a) the application or reference (as the case may be); and
 - (b) in the case of an application, any mental health report that is required under the Act to accompany that application.
 
-(6) Other than where a decision is made at the end of the hearing, a decision shall be treated as having been made on the date on which a copy of the document mentioned in sub-paragraph (7) is sent to the parties[^key-309ed84f6807062c90a4663e1cd0e58d].
+(6) Other than where a decision is made at the end of the hearing, a decision shall be treated as having been made on the date on which a copy of the document mentioned in sub-paragraph (7) is sent to the parties[^c-309ed84f6807062c90a4663e1cd0e58d].
 
 (7) The Tribunal shall record the decision in a document which contains a full statement of the facts found by the Tribunal and the reasons for the decision.
 
@@ -1643,7 +1643,7 @@ Evidence before the Tribunal may be given orally or by signed statement but the 
 
 (10) Where this rule requires a document to be signed by the Convener, but the Convener is unable, by reason of death or incapacity to sign it, the document shall be signed by the other members of the tribunal, whom failing the President, who shall certify that the Convener is unable to sign.
 
-#### 72A. Reference of compatibility question to the Court of Session[^key-0f376df2a35e88bcb50deb6ff6a68548]
+#### 72A. Reference of compatibility question to the Court of Session[^c-0f376df2a35e88bcb50deb6ff6a68548]
 
 (1) If the Tribunal refers any compatibility question which arises in proceedings before it to the Inner House of the Court of Session for determination, it must intimate this in writing to all parties and the relevant authorities.
 
@@ -1783,106 +1783,106 @@ These Rules come into force on 14th November 2005. Rule 81 of these Rules revoke
 
 [^c12527041]: Marginal citation: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).
 
-[^key-f1792c1ae5dc953934b7c8aa888784ca]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/ssi/2005/519/article/2) inserted (1.4.2026) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2026 (S.S.I. 2026/35)](https://www.legislation.gov.uk/ssi/2026/35), [rules 1](https://www.legislation.gov.uk/ssi/2026/35/rule/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2026/35/rule/2/2/a)
+[^c-f1792c1ae5dc953934b7c8aa888784ca]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/ssi/2005/519/article/2) inserted (1.4.2026) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2026 (S.S.I. 2026/35)](https://www.legislation.gov.uk/ssi/2026/35), [rules 1](https://www.legislation.gov.uk/ssi/2026/35/rule/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2026/35/rule/2/2/a)
 
-[^key-fe1e563905bb7a584505296cc7e7c825]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/ssi/2005/519/article/2) inserted (1.4.2026) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2026 (S.S.I. 2026/35)](https://www.legislation.gov.uk/ssi/2026/35), [rules 1](https://www.legislation.gov.uk/ssi/2026/35/rule/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2026/35/rule/2/2/b)
+[^c-fe1e563905bb7a584505296cc7e7c825]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/ssi/2005/519/article/2) inserted (1.4.2026) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2026 (S.S.I. 2026/35)](https://www.legislation.gov.uk/ssi/2026/35), [rules 1](https://www.legislation.gov.uk/ssi/2026/35/rule/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2026/35/rule/2/2/b)
 
 [^c12527051]: Marginal citation: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
 
-[^key-b00dc084a2406ec52f795bc5646b24f4]: Textual amendment: Words in rule 2 inserted (30.6.2017) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2017 (S.S.I. 2017/172)](https://www.legislation.gov.uk/ssi/2017/172), [rules 1](https://www.legislation.gov.uk/ssi/2017/172/rule/1), [3(1)(a)](https://www.legislation.gov.uk/ssi/2017/172/rule/3/1/a)
+[^c-b00dc084a2406ec52f795bc5646b24f4]: Textual amendment: Words in rule 2 inserted (30.6.2017) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2017 (S.S.I. 2017/172)](https://www.legislation.gov.uk/ssi/2017/172), [rules 1](https://www.legislation.gov.uk/ssi/2017/172/rule/1), [3(1)(a)](https://www.legislation.gov.uk/ssi/2017/172/rule/3/1/a)
 
-[^key-ac6a82e8d61e3d5d6eacaa44abb4f838]: Textual amendment: Word in rule 2(1) omitted (1.5.2006) by virtue of [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2006 (S.S.I. 2006/171)](https://www.legislation.gov.uk/ssi/2006/171), [rules 1](https://www.legislation.gov.uk/ssi/2006/171/rule/1), [2(2)(a)(i)](https://www.legislation.gov.uk/ssi/2006/171/rule/2/2/a/i)
+[^c-ac6a82e8d61e3d5d6eacaa44abb4f838]: Textual amendment: Word in rule 2(1) omitted (1.5.2006) by virtue of [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2006 (S.S.I. 2006/171)](https://www.legislation.gov.uk/ssi/2006/171), [rules 1](https://www.legislation.gov.uk/ssi/2006/171/rule/1), [2(2)(a)(i)](https://www.legislation.gov.uk/ssi/2006/171/rule/2/2/a/i)
 
-[^key-378770f7bc84c1bd7001b246ef2c78e2]: Textual amendment: Word in rule 2(1) omitted (16.11.2015) by virtue of [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2015 (S.S.I. 2015/334)](https://www.legislation.gov.uk/ssi/2015/334), [rules 1(1)](https://www.legislation.gov.uk/ssi/2015/334/rule/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2015/334/rule/2/2/a) (with [rule 3](https://www.legislation.gov.uk/ssi/2015/334/rule/3))
+[^c-378770f7bc84c1bd7001b246ef2c78e2]: Textual amendment: Word in rule 2(1) omitted (16.11.2015) by virtue of [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2015 (S.S.I. 2015/334)](https://www.legislation.gov.uk/ssi/2015/334), [rules 1(1)](https://www.legislation.gov.uk/ssi/2015/334/rule/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2015/334/rule/2/2/a) (with [rule 3](https://www.legislation.gov.uk/ssi/2015/334/rule/3))
 
-[^key-5310abf66759e30272b1ef8d41cfd03e]: Textual amendment: Words in rule 2(1) inserted (1.5.2006) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2006 (S.S.I. 2006/171)](https://www.legislation.gov.uk/ssi/2006/171), [rules 1](https://www.legislation.gov.uk/ssi/2006/171/rule/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2006/171/rule/2/2/a/ii)
+[^c-5310abf66759e30272b1ef8d41cfd03e]: Textual amendment: Words in rule 2(1) inserted (1.5.2006) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2006 (S.S.I. 2006/171)](https://www.legislation.gov.uk/ssi/2006/171), [rules 1](https://www.legislation.gov.uk/ssi/2006/171/rule/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2006/171/rule/2/2/a/ii)
 
-[^key-c4a69db579a0ed7778824dca77dad1aa]: Textual amendment: Words in rule 2(1) substituted (16.11.2015) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2015 (S.S.I. 2015/334)](https://www.legislation.gov.uk/ssi/2015/334), [rules 1(1)](https://www.legislation.gov.uk/ssi/2015/334/rule/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2015/334/rule/2/2/b) (with [rule 3](https://www.legislation.gov.uk/ssi/2015/334/rule/3))
+[^c-c4a69db579a0ed7778824dca77dad1aa]: Textual amendment: Words in rule 2(1) substituted (16.11.2015) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2015 (S.S.I. 2015/334)](https://www.legislation.gov.uk/ssi/2015/334), [rules 1(1)](https://www.legislation.gov.uk/ssi/2015/334/rule/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2015/334/rule/2/2/b) (with [rule 3](https://www.legislation.gov.uk/ssi/2015/334/rule/3))
 
-[^key-e6e6407a3a38cd8027be57bfa2ad610d]: Textual amendment: Word in [rule 2(1)](https://www.legislation.gov.uk/ssi/2005/519/rule/2/1) omitted (30.11.2020) by virtue of [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2020 (S.S.I. 2020/246)](https://www.legislation.gov.uk/ssi/2020/246), [rules 1](https://www.legislation.gov.uk/ssi/2020/246/rule/1), [3(a)](https://www.legislation.gov.uk/ssi/2020/246/rule/3/a)
+[^c-e6e6407a3a38cd8027be57bfa2ad610d]: Textual amendment: Word in [rule 2(1)](https://www.legislation.gov.uk/ssi/2005/519/rule/2/1) omitted (30.11.2020) by virtue of [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2020 (S.S.I. 2020/246)](https://www.legislation.gov.uk/ssi/2020/246), [rules 1](https://www.legislation.gov.uk/ssi/2020/246/rule/1), [3(a)](https://www.legislation.gov.uk/ssi/2020/246/rule/3/a)
 
-[^key-1fb3dd5a189c29fe86d998cd2bfc9db4]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/ssi/2005/519/rule/2/1/h) inserted (30.11.2020) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2020 (S.S.I. 2020/246)](https://www.legislation.gov.uk/ssi/2020/246), [rules 1](https://www.legislation.gov.uk/ssi/2020/246/rule/1), [3(b)](https://www.legislation.gov.uk/ssi/2020/246/rule/3/b)
+[^c-1fb3dd5a189c29fe86d998cd2bfc9db4]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/ssi/2005/519/rule/2/1/h) inserted (30.11.2020) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2020 (S.S.I. 2020/246)](https://www.legislation.gov.uk/ssi/2020/246), [rules 1](https://www.legislation.gov.uk/ssi/2020/246/rule/1), [3(b)](https://www.legislation.gov.uk/ssi/2020/246/rule/3/b)
 
-[^key-c581eca3e5a1d961ced120266d7ba3c3]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/ssi/2005/519/article/2) inserted (1.4.2026) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2026 (S.S.I. 2026/35)](https://www.legislation.gov.uk/ssi/2026/35), [rules 1](https://www.legislation.gov.uk/ssi/2026/35/rule/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2026/35/rule/2/2/c)
+[^c-c581eca3e5a1d961ced120266d7ba3c3]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/ssi/2005/519/article/2) inserted (1.4.2026) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2026 (S.S.I. 2026/35)](https://www.legislation.gov.uk/ssi/2026/35), [rules 1](https://www.legislation.gov.uk/ssi/2026/35/rule/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2026/35/rule/2/2/c)
 
-[^key-47513600709b32eb17f9159e63e4940f]: Textual amendment: Words in rule 2(1) inserted (1.5.2006) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2006 (S.S.I. 2006/171)](https://www.legislation.gov.uk/ssi/2006/171), [rules 1](https://www.legislation.gov.uk/ssi/2006/171/rule/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2006/171/rule/2/2/b)
+[^c-47513600709b32eb17f9159e63e4940f]: Textual amendment: Words in rule 2(1) inserted (1.5.2006) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2006 (S.S.I. 2006/171)](https://www.legislation.gov.uk/ssi/2006/171), [rules 1](https://www.legislation.gov.uk/ssi/2006/171/rule/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2006/171/rule/2/2/b)
 
 [^c12527061]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-9c85e2a8018f7ff97b14b33c0b7b2a6f]: Textual amendment: Rule 2(1A)(1B) inserted (30.6.2017) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2017 (S.S.I. 2017/172)](https://www.legislation.gov.uk/ssi/2017/172), [rules 1](https://www.legislation.gov.uk/ssi/2017/172/rule/1), [3(1)(b)](https://www.legislation.gov.uk/ssi/2017/172/rule/3/1/b)
+[^c-9c85e2a8018f7ff97b14b33c0b7b2a6f]: Textual amendment: Rule 2(1A)(1B) inserted (30.6.2017) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2017 (S.S.I. 2017/172)](https://www.legislation.gov.uk/ssi/2017/172), [rules 1](https://www.legislation.gov.uk/ssi/2017/172/rule/1), [3(1)(b)](https://www.legislation.gov.uk/ssi/2017/172/rule/3/1/b)
 
-[^key-0dc4b6ff11d747161ea2bf655fa79fc9]: Textual amendment: [Rule 5(2A)](https://www.legislation.gov.uk/ssi/2005/519/rule/5/2A) inserted (30.6.2017) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2017 (S.S.I. 2017/172)](https://www.legislation.gov.uk/ssi/2017/172), [rules 1](https://www.legislation.gov.uk/ssi/2017/172/rule/1), [4(1)](https://www.legislation.gov.uk/ssi/2017/172/rule/4/1)
+[^c-0dc4b6ff11d747161ea2bf655fa79fc9]: Textual amendment: [Rule 5(2A)](https://www.legislation.gov.uk/ssi/2005/519/rule/5/2A) inserted (30.6.2017) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2017 (S.S.I. 2017/172)](https://www.legislation.gov.uk/ssi/2017/172), [rules 1](https://www.legislation.gov.uk/ssi/2017/172/rule/1), [4(1)](https://www.legislation.gov.uk/ssi/2017/172/rule/4/1)
 
-[^key-3b3cb56caeccd05bd25105febb9c9515]: Textual amendment: Words in rule 6(4)(e) substituted (30.6.2017) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2017 (S.S.I. 2017/172)](https://www.legislation.gov.uk/ssi/2017/172), [rules 1](https://www.legislation.gov.uk/ssi/2017/172/rule/1), [5](https://www.legislation.gov.uk/ssi/2017/172/rule/5)
+[^c-3b3cb56caeccd05bd25105febb9c9515]: Textual amendment: Words in rule 6(4)(e) substituted (30.6.2017) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2017 (S.S.I. 2017/172)](https://www.legislation.gov.uk/ssi/2017/172), [rules 1](https://www.legislation.gov.uk/ssi/2017/172/rule/1), [5](https://www.legislation.gov.uk/ssi/2017/172/rule/5)
 
-[^key-cc83cbd3004c3cd8e9896b41512338bc]: Textual amendment: [Rule 10(2A)](https://www.legislation.gov.uk/ssi/2005/519/rule/10/2A) inserted (30.6.2017) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2017 (S.S.I. 2017/172)](https://www.legislation.gov.uk/ssi/2017/172), [rules 1](https://www.legislation.gov.uk/ssi/2017/172/rule/1), [4(1)](https://www.legislation.gov.uk/ssi/2017/172/rule/4/1)
+[^c-cc83cbd3004c3cd8e9896b41512338bc]: Textual amendment: [Rule 10(2A)](https://www.legislation.gov.uk/ssi/2005/519/rule/10/2A) inserted (30.6.2017) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2017 (S.S.I. 2017/172)](https://www.legislation.gov.uk/ssi/2017/172), [rules 1](https://www.legislation.gov.uk/ssi/2017/172/rule/1), [4(1)](https://www.legislation.gov.uk/ssi/2017/172/rule/4/1)
 
-[^key-8a6eee2f17297f4a4d81079c2da079d8]: Textual amendment: [Rule 11(2A)](https://www.legislation.gov.uk/ssi/2005/519/rule/11/2A) inserted (30.6.2017) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2017 (S.S.I. 2017/172)](https://www.legislation.gov.uk/ssi/2017/172), [rules 1](https://www.legislation.gov.uk/ssi/2017/172/rule/1), [4(1)](https://www.legislation.gov.uk/ssi/2017/172/rule/4/1)
+[^c-8a6eee2f17297f4a4d81079c2da079d8]: Textual amendment: [Rule 11(2A)](https://www.legislation.gov.uk/ssi/2005/519/rule/11/2A) inserted (30.6.2017) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2017 (S.S.I. 2017/172)](https://www.legislation.gov.uk/ssi/2017/172), [rules 1](https://www.legislation.gov.uk/ssi/2017/172/rule/1), [4(1)](https://www.legislation.gov.uk/ssi/2017/172/rule/4/1)
 
-[^key-4c42dd5953dd72c0ca1edc5a097b379e]: Textual amendment: Words in [rule 13](https://www.legislation.gov.uk/ssi/2005/519/rule/13) heading inserted (30.11.2020) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2020 (S.S.I. 2020/246)](https://www.legislation.gov.uk/ssi/2020/246), [rules 1](https://www.legislation.gov.uk/ssi/2020/246/rule/1), [4(a)](https://www.legislation.gov.uk/ssi/2020/246/rule/4/a)
+[^c-4c42dd5953dd72c0ca1edc5a097b379e]: Textual amendment: Words in [rule 13](https://www.legislation.gov.uk/ssi/2005/519/rule/13) heading inserted (30.11.2020) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2020 (S.S.I. 2020/246)](https://www.legislation.gov.uk/ssi/2020/246), [rules 1](https://www.legislation.gov.uk/ssi/2020/246/rule/1), [4(a)](https://www.legislation.gov.uk/ssi/2020/246/rule/4/a)
 
-[^key-0614079032ba1667eaff0054ada8fb51]: Textual amendment: Words in [rule 13(1)](https://www.legislation.gov.uk/ssi/2005/519/rule/13/1) substituted (30.11.2020) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2020 (S.S.I. 2020/246)](https://www.legislation.gov.uk/ssi/2020/246), [rules 1](https://www.legislation.gov.uk/ssi/2020/246/rule/1), [4(b)](https://www.legislation.gov.uk/ssi/2020/246/rule/4/b)
+[^c-0614079032ba1667eaff0054ada8fb51]: Textual amendment: Words in [rule 13(1)](https://www.legislation.gov.uk/ssi/2005/519/rule/13/1) substituted (30.11.2020) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2020 (S.S.I. 2020/246)](https://www.legislation.gov.uk/ssi/2020/246), [rules 1](https://www.legislation.gov.uk/ssi/2020/246/rule/1), [4(b)](https://www.legislation.gov.uk/ssi/2020/246/rule/4/b)
 
-[^key-77e5fb3a4d9894ad954f53f2c945d481]: Textual amendment: Rule 13(2A) inserted (30.6.2017) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2017 (S.S.I. 2017/172)](https://www.legislation.gov.uk/ssi/2017/172), [rules 1](https://www.legislation.gov.uk/ssi/2017/172/rule/1), [4(1)](https://www.legislation.gov.uk/ssi/2017/172/rule/4/1)
+[^c-77e5fb3a4d9894ad954f53f2c945d481]: Textual amendment: Rule 13(2A) inserted (30.6.2017) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2017 (S.S.I. 2017/172)](https://www.legislation.gov.uk/ssi/2017/172), [rules 1](https://www.legislation.gov.uk/ssi/2017/172/rule/1), [4(1)](https://www.legislation.gov.uk/ssi/2017/172/rule/4/1)
 
-[^key-c6c2e86269dec30138901d6d9a2eb4e9]: Textual amendment: [Rule 15(2A)](https://www.legislation.gov.uk/ssi/2005/519/rule/15/2A) inserted (30.6.2017) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2017 (S.S.I. 2017/172)](https://www.legislation.gov.uk/ssi/2017/172), [rules 1](https://www.legislation.gov.uk/ssi/2017/172/rule/1), [4(1)](https://www.legislation.gov.uk/ssi/2017/172/rule/4/1)
+[^c-c6c2e86269dec30138901d6d9a2eb4e9]: Textual amendment: [Rule 15(2A)](https://www.legislation.gov.uk/ssi/2005/519/rule/15/2A) inserted (30.6.2017) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2017 (S.S.I. 2017/172)](https://www.legislation.gov.uk/ssi/2017/172), [rules 1](https://www.legislation.gov.uk/ssi/2017/172/rule/1), [4(1)](https://www.legislation.gov.uk/ssi/2017/172/rule/4/1)
 
-[^key-9ef6f80b8b1fc938b7efbdb8941020b2]: Textual amendment: [Rule 16(2A)](https://www.legislation.gov.uk/ssi/2005/519/rule/16/2A) inserted (30.6.2017) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2017 (S.S.I. 2017/172)](https://www.legislation.gov.uk/ssi/2017/172), [rules 1](https://www.legislation.gov.uk/ssi/2017/172/rule/1), [4(1)](https://www.legislation.gov.uk/ssi/2017/172/rule/4/1)
+[^c-9ef6f80b8b1fc938b7efbdb8941020b2]: Textual amendment: [Rule 16(2A)](https://www.legislation.gov.uk/ssi/2005/519/rule/16/2A) inserted (30.6.2017) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2017 (S.S.I. 2017/172)](https://www.legislation.gov.uk/ssi/2017/172), [rules 1](https://www.legislation.gov.uk/ssi/2017/172/rule/1), [4(1)](https://www.legislation.gov.uk/ssi/2017/172/rule/4/1)
 
-[^key-6edab39d162896594f7ae069f49d8bc9]: Textual amendment: Rules 17A-17C inserted (1.5.2006) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2006 (S.S.I. 2006/171)](https://www.legislation.gov.uk/ssi/2006/171), [rules 1](https://www.legislation.gov.uk/ssi/2006/171/rule/1), [2(3)](https://www.legislation.gov.uk/ssi/2006/171/rule/2/3)
+[^c-6edab39d162896594f7ae069f49d8bc9]: Textual amendment: Rules 17A-17C inserted (1.5.2006) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2006 (S.S.I. 2006/171)](https://www.legislation.gov.uk/ssi/2006/171), [rules 1](https://www.legislation.gov.uk/ssi/2006/171/rule/1), [2(3)](https://www.legislation.gov.uk/ssi/2006/171/rule/2/3)
 
-[^key-99bfeb7ff102e2a1fca691bc33b7d6f0]: Textual amendment: Rule 17A heading substituted (16.11.2015) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2015 (S.S.I. 2015/334)](https://www.legislation.gov.uk/ssi/2015/334), [rules 1(1)](https://www.legislation.gov.uk/ssi/2015/334/rule/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2015/334/rule/2/3) (with [rule 3](https://www.legislation.gov.uk/ssi/2015/334/rule/3))
+[^c-99bfeb7ff102e2a1fca691bc33b7d6f0]: Textual amendment: Rule 17A heading substituted (16.11.2015) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2015 (S.S.I. 2015/334)](https://www.legislation.gov.uk/ssi/2015/334), [rules 1(1)](https://www.legislation.gov.uk/ssi/2015/334/rule/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2015/334/rule/2/3) (with [rule 3](https://www.legislation.gov.uk/ssi/2015/334/rule/3))
 
-[^key-576ac8c5d059fd81fdd13fc8a6a47a5d]: Textual amendment: Rule 17A(1) substituted (16.11.2015) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2015 (S.S.I. 2015/334)](https://www.legislation.gov.uk/ssi/2015/334), [rules 1(1)](https://www.legislation.gov.uk/ssi/2015/334/rule/1/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2015/334/rule/2/4/a) (with [rule 3](https://www.legislation.gov.uk/ssi/2015/334/rule/3))
+[^c-576ac8c5d059fd81fdd13fc8a6a47a5d]: Textual amendment: Rule 17A(1) substituted (16.11.2015) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2015 (S.S.I. 2015/334)](https://www.legislation.gov.uk/ssi/2015/334), [rules 1(1)](https://www.legislation.gov.uk/ssi/2015/334/rule/1/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2015/334/rule/2/4/a) (with [rule 3](https://www.legislation.gov.uk/ssi/2015/334/rule/3))
 
-[^key-b8687bda52b3ac8eb235c06a0f4c134a]: Textual amendment: [Rule 17A(2A)](https://www.legislation.gov.uk/ssi/2005/519/rule/17A/2A) inserted (30.6.2017) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2017 (S.S.I. 2017/172)](https://www.legislation.gov.uk/ssi/2017/172), [rules 1](https://www.legislation.gov.uk/ssi/2017/172/rule/1), [4(1)](https://www.legislation.gov.uk/ssi/2017/172/rule/4/1)
+[^c-b8687bda52b3ac8eb235c06a0f4c134a]: Textual amendment: [Rule 17A(2A)](https://www.legislation.gov.uk/ssi/2005/519/rule/17A/2A) inserted (30.6.2017) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2017 (S.S.I. 2017/172)](https://www.legislation.gov.uk/ssi/2017/172), [rules 1](https://www.legislation.gov.uk/ssi/2017/172/rule/1), [4(1)](https://www.legislation.gov.uk/ssi/2017/172/rule/4/1)
 
-[^key-b4c566b4dc9e75a40e0060188513d14a]: Textual amendment: Word in rule 17A(4)(e) omitted (16.11.2015) by virtue of [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2015 (S.S.I. 2015/334)](https://www.legislation.gov.uk/ssi/2015/334), [rules 1(1)](https://www.legislation.gov.uk/ssi/2015/334/rule/1/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2015/334/rule/2/4/b) (with [rule 3](https://www.legislation.gov.uk/ssi/2015/334/rule/3))
+[^c-b4c566b4dc9e75a40e0060188513d14a]: Textual amendment: Word in rule 17A(4)(e) omitted (16.11.2015) by virtue of [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2015 (S.S.I. 2015/334)](https://www.legislation.gov.uk/ssi/2015/334), [rules 1(1)](https://www.legislation.gov.uk/ssi/2015/334/rule/1/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2015/334/rule/2/4/b) (with [rule 3](https://www.legislation.gov.uk/ssi/2015/334/rule/3))
 
-[^key-8072d619a74490326debce068748f02c]: Textual amendment: Words in rule 17A(5)(c) inserted (16.11.2015) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2015 (S.S.I. 2015/334)](https://www.legislation.gov.uk/ssi/2015/334), [rules 1(1)](https://www.legislation.gov.uk/ssi/2015/334/rule/1/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2015/334/rule/2/4/c) (with [rule 3](https://www.legislation.gov.uk/ssi/2015/334/rule/3))
+[^c-8072d619a74490326debce068748f02c]: Textual amendment: Words in rule 17A(5)(c) inserted (16.11.2015) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2015 (S.S.I. 2015/334)](https://www.legislation.gov.uk/ssi/2015/334), [rules 1(1)](https://www.legislation.gov.uk/ssi/2015/334/rule/1/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2015/334/rule/2/4/c) (with [rule 3](https://www.legislation.gov.uk/ssi/2015/334/rule/3))
 
-[^key-860ca47cfaee8079a1ddd570e4bc28fd]: Textual amendment: Rule 17A(6) substituted (16.11.2015) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2015 (S.S.I. 2015/334)](https://www.legislation.gov.uk/ssi/2015/334), [rules 1(1)](https://www.legislation.gov.uk/ssi/2015/334/rule/1/1), [2(4)(d)](https://www.legislation.gov.uk/ssi/2015/334/rule/2/4/d) (with [rule 3](https://www.legislation.gov.uk/ssi/2015/334/rule/3))
+[^c-860ca47cfaee8079a1ddd570e4bc28fd]: Textual amendment: Rule 17A(6) substituted (16.11.2015) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2015 (S.S.I. 2015/334)](https://www.legislation.gov.uk/ssi/2015/334), [rules 1(1)](https://www.legislation.gov.uk/ssi/2015/334/rule/1/1), [2(4)(d)](https://www.legislation.gov.uk/ssi/2015/334/rule/2/4/d) (with [rule 3](https://www.legislation.gov.uk/ssi/2015/334/rule/3))
 
-[^key-fe4799230dc801117dd185fbe298d64d]: Textual amendment: Rule 17AA inserted (16.11.2015) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2015 (S.S.I. 2015/334)](https://www.legislation.gov.uk/ssi/2015/334), [rules 1(1)](https://www.legislation.gov.uk/ssi/2015/334/rule/1/1), [2(5)](https://www.legislation.gov.uk/ssi/2015/334/rule/2/5) (with [rule 3](https://www.legislation.gov.uk/ssi/2015/334/rule/3))
+[^c-fe4799230dc801117dd185fbe298d64d]: Textual amendment: Rule 17AA inserted (16.11.2015) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2015 (S.S.I. 2015/334)](https://www.legislation.gov.uk/ssi/2015/334), [rules 1(1)](https://www.legislation.gov.uk/ssi/2015/334/rule/1/1), [2(5)](https://www.legislation.gov.uk/ssi/2015/334/rule/2/5) (with [rule 3](https://www.legislation.gov.uk/ssi/2015/334/rule/3))
 
-[^key-e2699ade3c31cad7faab53d017be81d3]: Textual amendment: Rule 17B substituted (16.11.2015) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2015 (S.S.I. 2015/334)](https://www.legislation.gov.uk/ssi/2015/334), [rules 1(1)](https://www.legislation.gov.uk/ssi/2015/334/rule/1/1), [2(6)](https://www.legislation.gov.uk/ssi/2015/334/rule/2/6) (with [rule 3](https://www.legislation.gov.uk/ssi/2015/334/rule/3))
+[^c-e2699ade3c31cad7faab53d017be81d3]: Textual amendment: Rule 17B substituted (16.11.2015) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2015 (S.S.I. 2015/334)](https://www.legislation.gov.uk/ssi/2015/334), [rules 1(1)](https://www.legislation.gov.uk/ssi/2015/334/rule/1/1), [2(6)](https://www.legislation.gov.uk/ssi/2015/334/rule/2/6) (with [rule 3](https://www.legislation.gov.uk/ssi/2015/334/rule/3))
 
-[^key-52b4f1134d979f31f06dea277fe6b26f]: Textual amendment: Rule 17C heading substituted (16.11.2015) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2015 (S.S.I. 2015/334)](https://www.legislation.gov.uk/ssi/2015/334), [rules 1(1)](https://www.legislation.gov.uk/ssi/2015/334/rule/1/1), [2(7)](https://www.legislation.gov.uk/ssi/2015/334/rule/2/7) (with [rule 3](https://www.legislation.gov.uk/ssi/2015/334/rule/3))
+[^c-52b4f1134d979f31f06dea277fe6b26f]: Textual amendment: Rule 17C heading substituted (16.11.2015) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2015 (S.S.I. 2015/334)](https://www.legislation.gov.uk/ssi/2015/334), [rules 1(1)](https://www.legislation.gov.uk/ssi/2015/334/rule/1/1), [2(7)](https://www.legislation.gov.uk/ssi/2015/334/rule/2/7) (with [rule 3](https://www.legislation.gov.uk/ssi/2015/334/rule/3))
 
-[^key-b7ef19717db2ce46a6e9e25b2de1a626]: Textual amendment: Rule 17C(1) substituted (16.11.2015) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2015 (S.S.I. 2015/334)](https://www.legislation.gov.uk/ssi/2015/334), [rules 1(1)](https://www.legislation.gov.uk/ssi/2015/334/rule/1/1), [2(8)(a)](https://www.legislation.gov.uk/ssi/2015/334/rule/2/8/a) (with [rule 3](https://www.legislation.gov.uk/ssi/2015/334/rule/3))
+[^c-b7ef19717db2ce46a6e9e25b2de1a626]: Textual amendment: Rule 17C(1) substituted (16.11.2015) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2015 (S.S.I. 2015/334)](https://www.legislation.gov.uk/ssi/2015/334), [rules 1(1)](https://www.legislation.gov.uk/ssi/2015/334/rule/1/1), [2(8)(a)](https://www.legislation.gov.uk/ssi/2015/334/rule/2/8/a) (with [rule 3](https://www.legislation.gov.uk/ssi/2015/334/rule/3))
 
-[^key-f750067117fb9eceb674ad9aa27a387a]: Textual amendment: Words in rule 17C(5) substituted (16.11.2015) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2015 (S.S.I. 2015/334)](https://www.legislation.gov.uk/ssi/2015/334), [rules 1(1)](https://www.legislation.gov.uk/ssi/2015/334/rule/1/1), [2(8)(b)](https://www.legislation.gov.uk/ssi/2015/334/rule/2/8/b) (with [rule 3](https://www.legislation.gov.uk/ssi/2015/334/rule/3))
+[^c-f750067117fb9eceb674ad9aa27a387a]: Textual amendment: Words in rule 17C(5) substituted (16.11.2015) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2015 (S.S.I. 2015/334)](https://www.legislation.gov.uk/ssi/2015/334), [rules 1(1)](https://www.legislation.gov.uk/ssi/2015/334/rule/1/1), [2(8)(b)](https://www.legislation.gov.uk/ssi/2015/334/rule/2/8/b) (with [rule 3](https://www.legislation.gov.uk/ssi/2015/334/rule/3))
 
-[^key-ac6aea350f219242b1589b3457eef274]: Textual amendment: Word in [rule 20(1)](https://www.legislation.gov.uk/ssi/2005/519/rule/20/1) inserted (30.11.2020) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2020 (S.S.I. 2020/246)](https://www.legislation.gov.uk/ssi/2020/246), [rules 1](https://www.legislation.gov.uk/ssi/2020/246/rule/1), [5](https://www.legislation.gov.uk/ssi/2020/246/rule/5)
+[^c-ac6aea350f219242b1589b3457eef274]: Textual amendment: Word in [rule 20(1)](https://www.legislation.gov.uk/ssi/2005/519/rule/20/1) inserted (30.11.2020) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2020 (S.S.I. 2020/246)](https://www.legislation.gov.uk/ssi/2020/246), [rules 1](https://www.legislation.gov.uk/ssi/2020/246/rule/1), [5](https://www.legislation.gov.uk/ssi/2020/246/rule/5)
 
-[^key-1211cb3f9c0be392a9f4e5c8a21af9b7]: Textual amendment: [Rule 23(2A)](https://www.legislation.gov.uk/ssi/2005/519/rule/23/2A) inserted (30.6.2017) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2017 (S.S.I. 2017/172)](https://www.legislation.gov.uk/ssi/2017/172), [rules 1](https://www.legislation.gov.uk/ssi/2017/172/rule/1), [4(2)](https://www.legislation.gov.uk/ssi/2017/172/rule/4/2)
+[^c-1211cb3f9c0be392a9f4e5c8a21af9b7]: Textual amendment: [Rule 23(2A)](https://www.legislation.gov.uk/ssi/2005/519/rule/23/2A) inserted (30.6.2017) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2017 (S.S.I. 2017/172)](https://www.legislation.gov.uk/ssi/2017/172), [rules 1](https://www.legislation.gov.uk/ssi/2017/172/rule/1), [4(2)](https://www.legislation.gov.uk/ssi/2017/172/rule/4/2)
 
-[^key-67fd4381a97e811bb05dfab171c4ceac]: Textual amendment: Rule 42(2) inserted (20.12.2008) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2008 (S.S.I. 2008/396)](https://www.legislation.gov.uk/ssi/2008/396), [rules 1](https://www.legislation.gov.uk/ssi/2008/396/rule/1), [2(2)](https://www.legislation.gov.uk/ssi/2008/396/rule/2/2)
+[^c-67fd4381a97e811bb05dfab171c4ceac]: Textual amendment: Rule 42(2) inserted (20.12.2008) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2008 (S.S.I. 2008/396)](https://www.legislation.gov.uk/ssi/2008/396), [rules 1](https://www.legislation.gov.uk/ssi/2008/396/rule/1), [2(2)](https://www.legislation.gov.uk/ssi/2008/396/rule/2/2)
 
-[^key-6b335d1f7532b0c9caf9bdb14c528511]: Textual amendment: [Rule 43A](https://www.legislation.gov.uk/ssi/2005/519/rule/43A) inserted (1.4.2026) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2026 (S.S.I. 2026/35)](https://www.legislation.gov.uk/ssi/2026/35), [rules 1](https://www.legislation.gov.uk/ssi/2026/35/rule/1), [2(3)](https://www.legislation.gov.uk/ssi/2026/35/rule/2/3)
+[^c-6b335d1f7532b0c9caf9bdb14c528511]: Textual amendment: [Rule 43A](https://www.legislation.gov.uk/ssi/2005/519/rule/43A) inserted (1.4.2026) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2026 (S.S.I. 2026/35)](https://www.legislation.gov.uk/ssi/2026/35), [rules 1](https://www.legislation.gov.uk/ssi/2026/35/rule/1), [2(3)](https://www.legislation.gov.uk/ssi/2026/35/rule/2/3)
 
-[^key-7078f3b260529869a6eba8ec84d023e1]: Textual amendment: Rules 46, 46A, 47 substituted for rules 46, 47 (20.12.2008) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2008 (S.S.I. 2008/396)](https://www.legislation.gov.uk/ssi/2008/396), [rules 1](https://www.legislation.gov.uk/ssi/2008/396/rule/1), [2(3)](https://www.legislation.gov.uk/ssi/2008/396/rule/2/3)
+[^c-7078f3b260529869a6eba8ec84d023e1]: Textual amendment: Rules 46, 46A, 47 substituted for rules 46, 47 (20.12.2008) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2008 (S.S.I. 2008/396)](https://www.legislation.gov.uk/ssi/2008/396), [rules 1](https://www.legislation.gov.uk/ssi/2008/396/rule/1), [2(3)](https://www.legislation.gov.uk/ssi/2008/396/rule/2/3)
 
-[^key-9e60bbc08a1552374860513cb2438fa5]: Textual amendment: [Rule 55(2)(aa)](https://www.legislation.gov.uk/ssi/2005/519/rule/55/2/aa) inserted (30.6.2017) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2017 (S.S.I. 2017/172)](https://www.legislation.gov.uk/ssi/2017/172), [rules 1](https://www.legislation.gov.uk/ssi/2017/172/rule/1), [6(a)](https://www.legislation.gov.uk/ssi/2017/172/rule/6/a)
+[^c-9e60bbc08a1552374860513cb2438fa5]: Textual amendment: [Rule 55(2)(aa)](https://www.legislation.gov.uk/ssi/2005/519/rule/55/2/aa) inserted (30.6.2017) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2017 (S.S.I. 2017/172)](https://www.legislation.gov.uk/ssi/2017/172), [rules 1](https://www.legislation.gov.uk/ssi/2017/172/rule/1), [6(a)](https://www.legislation.gov.uk/ssi/2017/172/rule/6/a)
 
-[^key-051a440b7e26b4a3cc5dfb9cbf69d38d]: Textual amendment: [Rule 55(3)](https://www.legislation.gov.uk/ssi/2005/519/rule/55/3)[(4)](https://www.legislation.gov.uk/ssi/2005/519/rule/55/4) omitted (30.6.2017) by virtue of [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2017 (S.S.I. 2017/172)](https://www.legislation.gov.uk/ssi/2017/172), [rules 1](https://www.legislation.gov.uk/ssi/2017/172/rule/1), [6(b)](https://www.legislation.gov.uk/ssi/2017/172/rule/6/b)
+[^c-051a440b7e26b4a3cc5dfb9cbf69d38d]: Textual amendment: [Rule 55(3)](https://www.legislation.gov.uk/ssi/2005/519/rule/55/3)[(4)](https://www.legislation.gov.uk/ssi/2005/519/rule/55/4) omitted (30.6.2017) by virtue of [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2017 (S.S.I. 2017/172)](https://www.legislation.gov.uk/ssi/2017/172), [rules 1](https://www.legislation.gov.uk/ssi/2017/172/rule/1), [6(b)](https://www.legislation.gov.uk/ssi/2017/172/rule/6/b)
 
-[^key-099601ab4b5d26be06b9d9578910efb2]: Textual amendment: [Rule 58](https://www.legislation.gov.uk/ssi/2005/519/article/58) substituted (1.6.2012) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2012 (S.S.I. 2012/132)](https://www.legislation.gov.uk/ssi/2012/132), [rules 1](https://www.legislation.gov.uk/ssi/2012/132/article/1), [2](https://www.legislation.gov.uk/ssi/2012/132/article/2)
+[^c-099601ab4b5d26be06b9d9578910efb2]: Textual amendment: [Rule 58](https://www.legislation.gov.uk/ssi/2005/519/article/58) substituted (1.6.2012) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2012 (S.S.I. 2012/132)](https://www.legislation.gov.uk/ssi/2012/132), [rules 1](https://www.legislation.gov.uk/ssi/2012/132/article/1), [2](https://www.legislation.gov.uk/ssi/2012/132/article/2)
 
-[^key-47844c6663cb1e84440436861a46ade3]: Textual amendment: Words in rule 59(7)(b) substituted (20.12.2008) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2008 (S.S.I. 2008/396)](https://www.legislation.gov.uk/ssi/2008/396), [rules 1](https://www.legislation.gov.uk/ssi/2008/396/rule/1), [2(4)](https://www.legislation.gov.uk/ssi/2008/396/rule/2/4)
+[^c-47844c6663cb1e84440436861a46ade3]: Textual amendment: Words in rule 59(7)(b) substituted (20.12.2008) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2008 (S.S.I. 2008/396)](https://www.legislation.gov.uk/ssi/2008/396), [rules 1](https://www.legislation.gov.uk/ssi/2008/396/rule/1), [2(4)](https://www.legislation.gov.uk/ssi/2008/396/rule/2/4)
 
-[^key-59a95774f56d35d75776b36d59e8582e]: Textual amendment: Rule 66(6)(c) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [Sch. para. 62](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/62)
+[^c-59a95774f56d35d75776b36d59e8582e]: Textual amendment: Rule 66(6)(c) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [Sch. para. 62](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/62)
 
-[^key-499ab9e7caf433ad24d513107e626f95]: Textual amendment: Words in rule 72(3) inserted (30.6.2017) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2017 (S.S.I. 2017/172)](https://www.legislation.gov.uk/ssi/2017/172), [rules 1](https://www.legislation.gov.uk/ssi/2017/172/rule/1), [7(a)](https://www.legislation.gov.uk/ssi/2017/172/rule/7/a)
+[^c-499ab9e7caf433ad24d513107e626f95]: Textual amendment: Words in rule 72(3) inserted (30.6.2017) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2017 (S.S.I. 2017/172)](https://www.legislation.gov.uk/ssi/2017/172), [rules 1](https://www.legislation.gov.uk/ssi/2017/172/rule/1), [7(a)](https://www.legislation.gov.uk/ssi/2017/172/rule/7/a)
 
-[^key-df8a8aa68601b94566648bfac10bb7b8]: Textual amendment: Words in rule 72(5) substituted (20.12.2008) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2008 (S.S.I. 2008/396)](https://www.legislation.gov.uk/ssi/2008/396), [rules 1](https://www.legislation.gov.uk/ssi/2008/396/rule/1), [2(6)](https://www.legislation.gov.uk/ssi/2008/396/rule/2/6)
+[^c-df8a8aa68601b94566648bfac10bb7b8]: Textual amendment: Words in rule 72(5) substituted (20.12.2008) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2008 (S.S.I. 2008/396)](https://www.legislation.gov.uk/ssi/2008/396), [rules 1](https://www.legislation.gov.uk/ssi/2008/396/rule/1), [2(6)](https://www.legislation.gov.uk/ssi/2008/396/rule/2/6)
 
-[^key-518be2542de5cf7e8c639e6c9fced7e7]: Textual amendment: Rule 72(5A)(5B) inserted (20.12.2008) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2008 (S.S.I. 2008/396)](https://www.legislation.gov.uk/ssi/2008/396), [rules 1](https://www.legislation.gov.uk/ssi/2008/396/rule/1), [2(7)](https://www.legislation.gov.uk/ssi/2008/396/rule/2/7)
+[^c-518be2542de5cf7e8c639e6c9fced7e7]: Textual amendment: Rule 72(5A)(5B) inserted (20.12.2008) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2008 (S.S.I. 2008/396)](https://www.legislation.gov.uk/ssi/2008/396), [rules 1](https://www.legislation.gov.uk/ssi/2008/396/rule/1), [2(7)](https://www.legislation.gov.uk/ssi/2008/396/rule/2/7)
 
-[^key-96951ff75165efb2f6df4bfe0c0586e9]: Textual amendment: Word in [rule 72(5A)](https://www.legislation.gov.uk/ssi/2005/519/rule/72/5A/a) inserted (30.11.2020) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2020 (S.S.I. 2020/246)](https://www.legislation.gov.uk/ssi/2020/246), [rules 1](https://www.legislation.gov.uk/ssi/2020/246/rule/1), [6](https://www.legislation.gov.uk/ssi/2020/246/rule/6)
+[^c-96951ff75165efb2f6df4bfe0c0586e9]: Textual amendment: Word in [rule 72(5A)](https://www.legislation.gov.uk/ssi/2005/519/rule/72/5A/a) inserted (30.11.2020) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2020 (S.S.I. 2020/246)](https://www.legislation.gov.uk/ssi/2020/246), [rules 1](https://www.legislation.gov.uk/ssi/2020/246/rule/1), [6](https://www.legislation.gov.uk/ssi/2020/246/rule/6)
 
-[^key-309ed84f6807062c90a4663e1cd0e58d]: Textual amendment: Words in rule 72(6) substituted (30.6.2017) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2017 (S.S.I. 2017/172)](https://www.legislation.gov.uk/ssi/2017/172), [rules 1](https://www.legislation.gov.uk/ssi/2017/172/rule/1), [7(b)](https://www.legislation.gov.uk/ssi/2017/172/rule/7/b)
+[^c-309ed84f6807062c90a4663e1cd0e58d]: Textual amendment: Words in rule 72(6) substituted (30.6.2017) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2017 (S.S.I. 2017/172)](https://www.legislation.gov.uk/ssi/2017/172), [rules 1](https://www.legislation.gov.uk/ssi/2017/172/rule/1), [7(b)](https://www.legislation.gov.uk/ssi/2017/172/rule/7/b)
 
-[^key-0f376df2a35e88bcb50deb6ff6a68548]: Textual amendment: [Rule 72A](https://www.legislation.gov.uk/ssi/2005/519/rule/72A) inserted (1.4.2026) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2026 (S.S.I. 2026/35)](https://www.legislation.gov.uk/ssi/2026/35), [rules 1](https://www.legislation.gov.uk/ssi/2026/35/rule/1), [2(4)](https://www.legislation.gov.uk/ssi/2026/35/rule/2/4)
+[^c-0f376df2a35e88bcb50deb6ff6a68548]: Textual amendment: [Rule 72A](https://www.legislation.gov.uk/ssi/2005/519/rule/72A) inserted (1.4.2026) by [The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2026 (S.S.I. 2026/35)](https://www.legislation.gov.uk/ssi/2026/35), [rules 1](https://www.legislation.gov.uk/ssi/2026/35/rule/1), [2(4)](https://www.legislation.gov.uk/ssi/2026/35/rule/2/4)
 
 [^c12527071]: Marginal citation: [S.S.I. 2005/420](https://www.legislation.gov.uk/ssi/2005/420).

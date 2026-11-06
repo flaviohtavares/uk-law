@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Disclosure of information by the Department[^key-ed2c8f0ede4c1fd9f7edb50ccaf0358c]
+## 136. Disclosure of information by the Department[^c-ed2c8f0ede4c1fd9f7edb50ccaf0358c]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed2c8f0ede4c1fd9f7edb50ccaf0358c]: Commencement: Art. 136 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-ed2c8f0ede4c1fd9f7edb50ccaf0358c]: Commencement: Art. 136 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

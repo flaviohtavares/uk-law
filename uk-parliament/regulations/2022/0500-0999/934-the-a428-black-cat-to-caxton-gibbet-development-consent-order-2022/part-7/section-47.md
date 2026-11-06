@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Protective provisions[^key-449dc06e8a6bb88b61fc7ed3849efe8a]
+## 47. Protective provisions[^c-449dc06e8a6bb88b61fc7ed3849efe8a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 9 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-449dc06e8a6bb88b61fc7ed3849efe8a]: Commencement: Art. 47 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-449dc06e8a6bb88b61fc7ed3849efe8a]: Commencement: Art. 47 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)

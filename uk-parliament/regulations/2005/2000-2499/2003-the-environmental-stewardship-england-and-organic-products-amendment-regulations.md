@@ -34,7 +34,7 @@ AGRICULTURE
 
 COUNTRYSIDE, ENGLAND
 
-The Environmental Stewardship (England) and Organic Products (Amendment) Regulations 2005 (revoked)[^key-de109e48673544832dbff17e00ef7f41]
+The Environmental Stewardship (England) and Organic Products (Amendment) Regulations 2005 (revoked)[^c-de109e48673544832dbff17e00ef7f41]
 
 Made
 
@@ -48,28 +48,28 @@ Coming into force
 
 15th August 2005
 
-[^key-de109e48673544832dbff17e00ef7f41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de109e48673544832dbff17e00ef7f41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-de109e48673544832dbff17e00ef7f41]
+## 1. Title, commencement and application[^c-de109e48673544832dbff17e00ef7f41]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Organic Products Regulations 2004[^key-de109e48673544832dbff17e00ef7f41]
+## 2. Amendments to the Organic Products Regulations 2004[^c-de109e48673544832dbff17e00ef7f41]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Environmental Stewardship (England) Regulations 2005[^key-de109e48673544832dbff17e00ef7f41]
+## 3. Amendments to the Environmental Stewardship (England) Regulations 2005[^c-de109e48673544832dbff17e00ef7f41]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-de109e48673544832dbff17e00ef7f41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de109e48673544832dbff17e00ef7f41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-de109e48673544832dbff17e00ef7f41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de109e48673544832dbff17e00ef7f41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-de109e48673544832dbff17e00ef7f41]: Textual amendment: Regulations revoked (4.9.2006) by [The Environmental Stewardship (England) and Organic Products (Amendment) Regulations 2006 (S.I. 2006/2075)](https://www.legislation.gov.uk/uksi/2006/2075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2075/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2006/2075/regulation/4)
+[^c-de109e48673544832dbff17e00ef7f41]: Textual amendment: Regulations revoked (4.9.2006) by [The Environmental Stewardship (England) and Organic Products (Amendment) Regulations 2006 (S.I. 2006/2075)](https://www.legislation.gov.uk/uksi/2006/2075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2075/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2006/2075/regulation/4)

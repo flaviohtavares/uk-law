@@ -36,7 +36,7 @@ Devolution, Scotland
 
 Children And Young Persons
 
-The Adoption and Children (Scotland) Act 2007 (Consequential Provisions) (No. 1) Order 2009 (revoked)[^key-6f58f0508bd327268c6883809451058d]
+The Adoption and Children (Scotland) Act 2007 (Consequential Provisions) (No. 1) Order 2009 (revoked)[^c-6f58f0508bd327268c6883809451058d]
 
 Made
 
@@ -50,24 +50,24 @@ Coming into force
 
 28th September 2009
 
-[^key-6f58f0508bd327268c6883809451058d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f58f0508bd327268c6883809451058d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6f58f0508bd327268c6883809451058d]
+## 1. Citation and commencement[^c-6f58f0508bd327268c6883809451058d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Savings provision: parental orders in relation to gamete donors[^key-6f58f0508bd327268c6883809451058d]
+## 2. Savings provision: parental orders in relation to gamete donors[^c-6f58f0508bd327268c6883809451058d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6f58f0508bd327268c6883809451058d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f58f0508bd327268c6883809451058d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6f58f0508bd327268c6883809451058d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f58f0508bd327268c6883809451058d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6f58f0508bd327268c6883809451058d]: Textual amendment: Order revoked (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) (Consequential, Transitional and Saving Provisions) Order 2010 (S.I. 2010/986)](https://www.legislation.gov.uk/uksi/2010/986), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/986/article/1/1), [5(d)](https://www.legislation.gov.uk/uksi/2010/986/article/5/d)
+[^c-6f58f0508bd327268c6883809451058d]: Textual amendment: Order revoked (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) (Consequential, Transitional and Saving Provisions) Order 2010 (S.I. 2010/986)](https://www.legislation.gov.uk/uksi/2010/986), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/986/article/1/1), [5(d)](https://www.legislation.gov.uk/uksi/2010/986/article/5/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Permanent contracts providing for pay between assignments[^key-1b5bbd12f6d8bda91e111a5c9d15ef40]
+## 10. Permanent contracts providing for pay between assignments[^c-1b5bbd12f6d8bda91e111a5c9d15ef40]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b5bbd12f6d8bda91e111a5c9d15ef40]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2010/93/regulation/10) omitted (6.4.2020) by virtue of [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2019/724/regulation/3/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
+[^c-1b5bbd12f6d8bda91e111a5c9d15ef40]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2010/93/regulation/10) omitted (6.4.2020) by virtue of [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2019/724/regulation/3/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))

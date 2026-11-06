@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## 25. Calculating a generating station’s RO eligible renewable output[^key-0dbd9ffa7b4f881d8398c6fffd0f3047]
+## 25. Calculating a generating station’s RO eligible renewable output[^c-0dbd9ffa7b4f881d8398c6fffd0f3047]
 
 (1) Subject to article 26, the RO eligible renewable output of a generating station in any month is equal to—
 
@@ -104,4 +104,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0dbd9ffa7b4f881d8398c6fffd0f3047]: Textual amendment: [Art. 25](https://www.legislation.gov.uk/ssi/2009/140/article/25) substituted (1.4.2014) by [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [10](https://www.legislation.gov.uk/ssi/2014/94/article/10) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))
+[^c-0dbd9ffa7b4f881d8398c6fffd0f3047]: Textual amendment: [Art. 25](https://www.legislation.gov.uk/ssi/2009/140/article/25) substituted (1.4.2014) by [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [10](https://www.legislation.gov.uk/ssi/2014/94/article/10) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Amendment of the Sub-national Transport Body (Transport for the North) Regulations 2018[^key-3385f99ee734d2f8f0a496798a50750f]
+## 23. Amendment of the Sub-national Transport Body (Transport for the North) Regulations 2018[^c-3385f99ee734d2f8f0a496798a50750f]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3385f99ee734d2f8f0a496798a50750f]: Commencement: Art. 23 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-3385f99ee734d2f8f0a496798a50750f]: Commencement: Art. 23 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
 
 [^f00079]: Footnote: [S.I. 2018/103](https://www.legislation.gov.uk/uksi/2018/103).
 

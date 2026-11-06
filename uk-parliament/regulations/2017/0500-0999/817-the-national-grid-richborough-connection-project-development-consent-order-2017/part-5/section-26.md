@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Acquisition of subsoil or air-space only[^key-5702f754a5df6a5aeee770d0ad2273ef]
+## 26. Acquisition of subsoil or air-space only[^c-5702f754a5df6a5aeee770d0ad2273ef]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5702f754a5df6a5aeee770d0ad2273ef]: Commencement: Art. 26 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-5702f754a5df6a5aeee770d0ad2273ef]: Commencement: Art. 26 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)

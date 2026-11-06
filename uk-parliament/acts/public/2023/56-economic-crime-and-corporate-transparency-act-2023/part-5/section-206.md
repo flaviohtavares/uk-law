@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 206. Failure to prevent fraud: miscellaneous[^key-f951a93b8796bf9bed803b333e738d8f][^key-ac02c08ac6cf72fd9fa22973eef4cf15]
+## 206. Failure to prevent fraud: miscellaneous[^c-f951a93b8796bf9bed803b333e738d8f][^c-ac02c08ac6cf72fd9fa22973eef4cf15]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f951a93b8796bf9bed803b333e738d8f]: Commencement: S. 206 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-f951a93b8796bf9bed803b333e738d8f]: Commencement: S. 206 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-ac02c08ac6cf72fd9fa22973eef4cf15]: Commencement: [S. 206](https://www.legislation.gov.uk/ukpga/2023/56/section/206) in force at 1.9.2025 in so far as not already in force by [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 3](https://www.legislation.gov.uk/uksi/2025/349/regulation/3)
+[^c-ac02c08ac6cf72fd9fa22973eef4cf15]: Commencement: [S. 206](https://www.legislation.gov.uk/ukpga/2023/56/section/206) in force at 1.9.2025 in so far as not already in force by [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 3](https://www.legislation.gov.uk/uksi/2025/349/regulation/3)

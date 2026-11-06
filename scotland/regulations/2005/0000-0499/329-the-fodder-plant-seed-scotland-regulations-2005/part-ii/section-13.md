@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Requirement for homogeneity[^key-df87445b1fe31a9c0a228349b30f57c0]
+## 13. Requirement for homogeneity[^c-df87445b1fe31a9c0a228349b30f57c0]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ No person shall market seed in accordance with regulation 6(1)(b)(i) or (ii), 11
 
 ## Annotations
 
-[^key-df87445b1fe31a9c0a228349b30f57c0]: Commencement: Reg. 13 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-df87445b1fe31a9c0a228349b30f57c0]: Commencement: Reg. 13 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)

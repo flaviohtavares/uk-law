@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Duty to appoint a manager[^key-07705c0b996d083d9b3359bdc7341c14]
+## 36. Duty to appoint a manager[^c-07705c0b996d083d9b3359bdc7341c14]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07705c0b996d083d9b3359bdc7341c14]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2019/762/regulation/36) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-07705c0b996d083d9b3359bdc7341c14]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2019/762/regulation/36) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)

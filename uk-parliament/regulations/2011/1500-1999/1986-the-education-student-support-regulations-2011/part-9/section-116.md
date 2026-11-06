@@ -50,10 +50,10 @@ summary: ''
 
 (15) Where, after the Secretary of State has made any payment of support under Part 6 for which a student qualifies in respect of an academic year, the Secretary of State makes a determination that the amount of loan for living costs or long courses loan for which the student qualifies is less than the amount previously determined either by way of a revision of a provisional assessment or otherwise—
 
-- (a)[^key-570e184ea33e1b4657cf01c39b19e110] the Secretary of State must subtract from any amount of loan which remains to be paid under Part 6 such amount as is necessary to ensure that the student does not borrow an amount of loan under Part 6 which is greater than that for which the student qualifies;
+- (a)[^c-570e184ea33e1b4657cf01c39b19e110] the Secretary of State must subtract from any amount of loan which remains to be paid under Part 6 such amount as is necessary to ensure that the student does not borrow an amount of loan under Part 6 which is greater than that for which the student qualifies;
 - (b) if the amount to be subtracted is greater than the amount of loan remaining to be paid under Part 6, the amount of that loan remaining to be paid is reduced to nil;
 - (c) any remaining overpayment is recoverable in accordance with Chapter 5 of this Part.
 
 ## Annotations
 
-[^key-570e184ea33e1b4657cf01c39b19e110]: Textual amendment: [Reg. 116(15)(a)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/116/15/a)[(b)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/116/15/b) substituted (1.8.2013) by [The Education (Student Support and European University Institute) (Amendment) Regulations 2013 (S.I. 2013/1728)](https://www.legislation.gov.uk/uksi/2013/1728), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/1728/regulation/1/3), [15](https://www.legislation.gov.uk/uksi/2013/1728/regulation/15)
+[^c-570e184ea33e1b4657cf01c39b19e110]: Textual amendment: [Reg. 116(15)(a)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/116/15/a)[(b)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/116/15/b) substituted (1.8.2013) by [The Education (Student Support and European University Institute) (Amendment) Regulations 2013 (S.I. 2013/1728)](https://www.legislation.gov.uk/uksi/2013/1728), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/1728/regulation/1/3), [15](https://www.legislation.gov.uk/uksi/2013/1728/regulation/15)

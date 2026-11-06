@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Meaning of incapable and related expressions[^key-49f22fc61b94b85f5c73cd293bf2c785][^key-4a7540ffe3bfc45df688051cfe7d158b]
+## 83. Meaning of incapable and related expressions[^c-49f22fc61b94b85f5c73cd293bf2c785][^c-4a7540ffe3bfc45df688051cfe7d158b]
 
 *Extent: S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-49f22fc61b94b85f5c73cd293bf2c785]: Commencement: S. 83 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-49f22fc61b94b85f5c73cd293bf2c785]: Commencement: S. 83 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
 
-[^key-4a7540ffe3bfc45df688051cfe7d158b]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2024/2/section/83) in force at 26.6.2024 by [S.S.I. 2024/164](https://www.legislation.gov.uk/ssi/2024/164), [reg. 2](https://www.legislation.gov.uk/ssi/2024/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/164/schedule)
+[^c-4a7540ffe3bfc45df688051cfe7d158b]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2024/2/section/83) in force at 26.6.2024 by [S.S.I. 2024/164](https://www.legislation.gov.uk/ssi/2024/164), [reg. 2](https://www.legislation.gov.uk/ssi/2024/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/164/schedule)

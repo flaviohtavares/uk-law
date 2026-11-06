@@ -31,7 +31,7 @@ summary: ''
 
 FISHERIES
 
-Fisheries (Amendment No. 2) Byelaws (Northern Ireland) 2002 (revoked)[^key-c586f6f16cd85d55ec0a535aa2e1d2a6]
+Fisheries (Amendment No. 2) Byelaws (Northern Ireland) 2002 (revoked)[^c-c586f6f16cd85d55ec0a535aa2e1d2a6]
 
 Made
 
@@ -41,40 +41,40 @@ Coming into operation
 
 1st October 2002
 
-[^key-c586f6f16cd85d55ec0a535aa2e1d2a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c586f6f16cd85d55ec0a535aa2e1d2a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c586f6f16cd85d55ec0a535aa2e1d2a6]
+## 1. Citation and commencement[^c-c586f6f16cd85d55ec0a535aa2e1d2a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Fisheries Byelaws (Northern Ireland) 1997[^key-c586f6f16cd85d55ec0a535aa2e1d2a6]
+## 2. Amendment of the Fisheries Byelaws (Northern Ireland) 1997[^c-c586f6f16cd85d55ec0a535aa2e1d2a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Issue of drift net licences[^key-c586f6f16cd85d55ec0a535aa2e1d2a6]
+## 3. Issue of drift net licences[^c-c586f6f16cd85d55ec0a535aa2e1d2a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-c586f6f16cd85d55ec0a535aa2e1d2a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c586f6f16cd85d55ec0a535aa2e1d2a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Issue of tidal draft net licences[^key-c586f6f16cd85d55ec0a535aa2e1d2a6]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 6. Revocation and issue of fishing licences[^key-c586f6f16cd85d55ec0a535aa2e1d2a6]
+## 5. Issue of tidal draft net licences[^c-c586f6f16cd85d55ec0a535aa2e1d2a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Appeal to the Department against the refusal of the Board to issue or restore a fishing licence[^key-c586f6f16cd85d55ec0a535aa2e1d2a6]
+## 6. Revocation and issue of fishing licences[^c-c586f6f16cd85d55ec0a535aa2e1d2a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c586f6f16cd85d55ec0a535aa2e1d2a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 7. Appeal to the Department against the refusal of the Board to issue or restore a fishing licence[^c-c586f6f16cd85d55ec0a535aa2e1d2a6]
 
-[^key-c586f6f16cd85d55ec0a535aa2e1d2a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-c586f6f16cd85d55ec0a535aa2e1d2a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-c586f6f16cd85d55ec0a535aa2e1d2a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c586f6f16cd85d55ec0a535aa2e1d2a6]: Textual amendment: Byelaw revoked (1.1.2004) by [Fisheries Byelaws (Northern Ireland) 2003 (S.R. 2003/525)](https://www.legislation.gov.uk/nisr/2003/525), byelaw. 3 Sch. 7
+[^c-c586f6f16cd85d55ec0a535aa2e1d2a6]: Textual amendment: Byelaw revoked (1.1.2004) by [Fisheries Byelaws (Northern Ireland) 2003 (S.R. 2003/525)](https://www.legislation.gov.uk/nisr/2003/525), byelaw. 3 Sch. 7

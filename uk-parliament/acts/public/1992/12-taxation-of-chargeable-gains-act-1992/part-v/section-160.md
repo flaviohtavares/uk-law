@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. Dual resident companies: roll-over relief.[^key-4ee83211c251f9338e2d6ad25f1e60d0]
+## 160. Dual resident companies: roll-over relief.[^c-4ee83211c251f9338e2d6ad25f1e60d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ee83211c251f9338e2d6ad25f1e60d0]: Textual amendment: S. 160 repealed (with effect in accordance with s. 251(1)(a)(6) of the amending Act) by [Finance Act 1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), [s. 251(6)](https://www.legislation.gov.uk/ukpga/1994/9/section/251/6), [Sch. 26 Pt. VIII(1)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/26/part/VIII/1)
+[^c-4ee83211c251f9338e2d6ad25f1e60d0]: Textual amendment: S. 160 repealed (with effect in accordance with s. 251(1)(a)(6) of the amending Act) by [Finance Act 1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), [s. 251(6)](https://www.legislation.gov.uk/ukpga/1994/9/section/251/6), [Sch. 26 Pt. VIII(1)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/26/part/VIII/1)

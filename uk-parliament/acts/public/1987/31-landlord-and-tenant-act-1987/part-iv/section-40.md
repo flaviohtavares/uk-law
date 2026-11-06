@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Any party to a long lease of a dwelling may make an application to the appropriate tribunal[^key-631b35fe9973e2e4a75a1271551b9b1f] for an order varying the lease, in such manner as is specified in the application, on the grounds that the lease fails to make satisfactory provision with respect to any matter relating to the insurance of the dwelling, including the recovery of the costs of such insurance.
+(1) Any party to a long lease of a dwelling may make an application to the appropriate tribunal[^c-631b35fe9973e2e4a75a1271551b9b1f] for an order varying the lease, in such manner as is specified in the application, on the grounds that the lease fails to make satisfactory provision with respect to any matter relating to the insurance of the dwelling, including the recovery of the costs of such insurance.
 
 (2) Sections 36 and 38 shall apply to an application under subsection (1) subject to the modifications specified in subsection (3).
 
@@ -44,15 +44,15 @@ summary: ''
 
 (5) In this section “**dwelling**” means a dwelling other than a flat.
 
-(6)[^key-97f0e49659b3807d23a32c04a7b8efed] For the purposes of subsection (1), “appropriate tribunal” means—
+(6)[^c-97f0e49659b3807d23a32c04a7b8efed] For the purposes of subsection (1), “appropriate tribunal” means—
 
 - (a) if one or more of the dwellings concerned is in England, the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal; and
 - (b) if one or more of the dwellings concerned is in Wales, a leasehold valuation tribunal.
 
 ## Annotations
 
-[^key-631b35fe9973e2e4a75a1271551b9b1f]: Textual amendment: Words in [s. 40(1)](https://www.legislation.gov.uk/ukpga/1987/31/section/40/1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 78(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/78/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-631b35fe9973e2e4a75a1271551b9b1f]: Textual amendment: Words in [s. 40(1)](https://www.legislation.gov.uk/ukpga/1987/31/section/40/1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 78(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/78/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c10162581]: Textual amendment: S. 40(4)(4A)(4B) substituted for subsection (4) by [Housing Act 1988 (c. 50, SIF 75:1)](https://www.legislation.gov.uk/ukpga/1988/50), [s. 119](https://www.legislation.gov.uk/ukpga/1988/50/section/119), [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/1988/50/schedule/13/paragraph/6)
 
-[^key-97f0e49659b3807d23a32c04a7b8efed]: Textual amendment: [S. 40(6)](https://www.legislation.gov.uk/ukpga/1987/31/section/40/6) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 78(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/78/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-97f0e49659b3807d23a32c04a7b8efed]: Textual amendment: [S. 40(6)](https://www.legislation.gov.uk/ukpga/1987/31/section/40/6) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 78(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/78/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

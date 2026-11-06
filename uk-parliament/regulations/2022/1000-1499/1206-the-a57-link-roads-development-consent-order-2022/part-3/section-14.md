@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Temporary alteration, diversion, prohibition and restriction of the use of streets[^key-f8afb0f34194842d43e91d8d761861a9]
+## 14. Temporary alteration, diversion, prohibition and restriction of the use of streets[^c-f8afb0f34194842d43e91d8d761861a9]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8afb0f34194842d43e91d8d761861a9]: Commencement: Art. 14 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
+[^c-f8afb0f34194842d43e91d8d761861a9]: Commencement: Art. 14 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)

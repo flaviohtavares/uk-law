@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. Applicant's death after offer accepted[^key-276fbe6f5bb28d3aff9d3e1e5cb8201c]
+## 70. Applicant's death after offer accepted[^c-276fbe6f5bb28d3aff9d3e1e5cb8201c]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ the redress payment is to be paid to the applicant's estate.
 
 ## Annotations
 
-[^key-276fbe6f5bb28d3aff9d3e1e5cb8201c]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2021/15/section/70) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-276fbe6f5bb28d3aff9d3e1e5cb8201c]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2021/15/section/70) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

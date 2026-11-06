@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The Authority[^key-ed55e84b71ab4865bb54e5f4d498b9b5] shall make arrangements for the provision of suitable education at school or otherwise than at school for those children of compulsory school age who by reason of illness, or expulsion[^c19928891] from school or otherwise, may not for any period receive suitable education unless such arrangements are made for them.
+(1) The Authority[^c-ed55e84b71ab4865bb54e5f4d498b9b5] shall make arrangements for the provision of suitable education at school or otherwise than at school for those children of compulsory school age who by reason of illness, or expulsion[^c19928891] from school or otherwise, may not for any period receive suitable education unless such arrangements are made for them.
 
 (2) The Authority may make arrangements for the provision of suitable education otherwise than at school for those children over compulsory school age who—
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ed55e84b71ab4865bb54e5f4d498b9b5]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisi/1998/1759) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-ed55e84b71ab4865bb54e5f4d498b9b5]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisi/1998/1759) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c19928891]: Textual amendment: Words in art. 86(1) substituted (16.12.2011) by [Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11))](https://www.legislation.gov.uk/nisi/2006/1915), [arts. 1(4)(b)](https://www.legislation.gov.uk/nisi/2006/1915/article/1/4/b), [34(3)(a)](https://www.legislation.gov.uk/nisi/2006/1915/article/34/3/a); [S.R. 2011/406](https://www.legislation.gov.uk/nisr/2011/406), [art. 2](https://www.legislation.gov.uk/nisr/2011/406/article/2)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Controlling or coercive behaviour in an intimate or family relationship[^key-241f01dddefd934c3d03741ba558dd9a]
+## 68. Controlling or coercive behaviour in an intimate or family relationship[^c-241f01dddefd934c3d03741ba558dd9a]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-241f01dddefd934c3d03741ba558dd9a]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2021/17/section/68) in force at 5.4.2023 by [S.I. 2023/406](https://www.legislation.gov.uk/uksi/2023/406), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/406/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/406/regulation/3))
+[^c-241f01dddefd934c3d03741ba558dd9a]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2021/17/section/68) in force at 5.4.2023 by [S.I. 2023/406](https://www.legislation.gov.uk/uksi/2023/406), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/406/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/406/regulation/3))

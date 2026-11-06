@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Powers to stop or direct traffic[^key-51bec8589a188bf085802d71255a8947][^key-8dc822c1dc7a126eed713a6eb9d76395]
+## 6. Powers to stop or direct traffic[^c-51bec8589a188bf085802d71255a8947][^c-8dc822c1dc7a126eed713a6eb9d76395]
 
 *Extent: E+W*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-51bec8589a188bf085802d71255a8947]: Commencement: S. 6 in force at 4.10.2004 for E. by [S.I. 2004/2380](https://www.legislation.gov.uk/uksi/2004/2380), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2380/article/2/a)
+[^c-51bec8589a188bf085802d71255a8947]: Commencement: S. 6 in force at 4.10.2004 for E. by [S.I. 2004/2380](https://www.legislation.gov.uk/uksi/2004/2380), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2380/article/2/a)
 
-[^key-8dc822c1dc7a126eed713a6eb9d76395]: Commencement: S. 6 in force at 1.5.2009 for W. by [S.I. 2009/1095](https://www.legislation.gov.uk/uksi/2009/1095), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1095/article/2/a)
+[^c-8dc822c1dc7a126eed713a6eb9d76395]: Commencement: S. 6 in force at 1.5.2009 for W. by [S.I. 2009/1095](https://www.legislation.gov.uk/uksi/2009/1095), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1095/article/2/a)

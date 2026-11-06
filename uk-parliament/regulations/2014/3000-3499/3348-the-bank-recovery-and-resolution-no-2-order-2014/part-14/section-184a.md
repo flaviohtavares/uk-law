@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 184A. Notifications under articles 182, 183 and 184[^key-f64601f2bdb5120f7b1340ec51bbc79e]
+## 184A. Notifications under articles 182, 183 and 184[^c-f64601f2bdb5120f7b1340ec51bbc79e]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f64601f2bdb5120f7b1340ec51bbc79e]: Textual amendment: [Art. 184A](https://www.legislation.gov.uk/uksi/2014/3348/article/184A) inserted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 106](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/106); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f64601f2bdb5120f7b1340ec51bbc79e]: Textual amendment: [Art. 184A](https://www.legislation.gov.uk/uksi/2014/3348/article/184A) inserted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 106](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/106); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

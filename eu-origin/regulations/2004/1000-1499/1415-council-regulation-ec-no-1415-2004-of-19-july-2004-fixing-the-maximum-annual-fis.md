@@ -34,42 +34,42 @@ of 19 July 2004
 
 fixing the maximum annual fishing effort for certain fishing areas and fisheries (revoked)
 
-[^key-af348cdb923ae8cb859c22dbcd951bba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af348cdb923ae8cb859c22dbcd951bba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-af348cdb923ae8cb859c22dbcd951bba]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Maximum levels[^key-af348cdb923ae8cb859c22dbcd951bba]
+## Article 1. Subject matter[^c-af348cdb923ae8cb859c22dbcd951bba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Transiting through an area[^key-af348cdb923ae8cb859c22dbcd951bba]
+## Article 2. Maximum levels[^c-af348cdb923ae8cb859c22dbcd951bba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Methodology[^key-af348cdb923ae8cb859c22dbcd951bba]
+## Article 3. Transiting through an area[^c-af348cdb923ae8cb859c22dbcd951bba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Compliance with other fishing effort limitation schemes[^key-af348cdb923ae8cb859c22dbcd951bba]
+## Article 4. Methodology[^c-af348cdb923ae8cb859c22dbcd951bba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Entry into force[^key-af348cdb923ae8cb859c22dbcd951bba]
+## Article 5. Compliance with other fishing effort limitation schemes[^c-af348cdb923ae8cb859c22dbcd951bba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-af348cdb923ae8cb859c22dbcd951bba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I[^key-af348cdb923ae8cb859c22dbcd951bba]
+## Article 6. Entry into force[^c-af348cdb923ae8cb859c22dbcd951bba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-af348cdb923ae8cb859c22dbcd951bba]
+[^c-af348cdb923ae8cb859c22dbcd951bba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I[^c-af348cdb923ae8cb859c22dbcd951bba]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX II[^c-af348cdb923ae8cb859c22dbcd951bba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-af348cdb923ae8cb859c22dbcd951bba]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/739/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-af348cdb923ae8cb859c22dbcd951bba]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/739/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

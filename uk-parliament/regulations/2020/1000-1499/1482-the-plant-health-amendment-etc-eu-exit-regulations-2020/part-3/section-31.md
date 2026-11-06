@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Chapter 6[^key-ddd62f2cf9042a7c88aad099a91daa5d]
+## 31. Chapter 6[^c-ddd62f2cf9042a7c88aad099a91daa5d]
 
 *Extent: E+W+S+N.I.*
 
@@ -549,7 +549,7 @@ summary: ''
   > This Article applies where a professional operator becomes aware that a trade unit of plants, plant products or other objects, which is under the operator's control does not comply with any of the requirements in Article 83 to 86, 87, 89, 90, 92a, 93 or 94.
 
   ;
-- (c) in paragraph 1, for the first subparagraph[^key-42938a7046b721f1bc328aa5e955a28c] substitute—
+- (c) in paragraph 1, for the first subparagraph[^c-42938a7046b721f1bc328aa5e955a28c] substitute—
 
   > **1.**
   >
@@ -655,8 +655,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ddd62f2cf9042a7c88aad099a91daa5d]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
+[^c-ddd62f2cf9042a7c88aad099a91daa5d]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
 
 [^c24375141]: Marginal citation: EUR 2017/2313.
 
-[^key-42938a7046b721f1bc328aa5e955a28c]: Textual amendment: Words in reg. 31(35)(c) substituted (31.12.2020 immediately before IP completion day) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/8/3)
+[^c-42938a7046b721f1bc328aa5e955a28c]: Textual amendment: Words in reg. 31(35)(c) substituted (31.12.2020 immediately before IP completion day) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/8/3)

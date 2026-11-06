@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84. Adjustment of allocated benefit[^key-66a840b7e7d5dc5b31d806561fee0700]
+## 84. Adjustment of allocated benefit[^c-66a840b7e7d5dc5b31d806561fee0700]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-66a840b7e7d5dc5b31d806561fee0700]: Commencement: Reg. 84 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-66a840b7e7d5dc5b31d806561fee0700]: Commencement: Reg. 84 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
 [^f00057]: Footnote: Section 167 was amended by the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), Schedule 20, paragraph 22; the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), Schedule 16, paragraph 11 and the Finance Act [2014 (c.26)](https://www.legislation.gov.uk/ukpga/2014/26), section 41(2). See also Part 2 of Schedule 28 to the Finance Act 2011 for the meaning of expressions used in section 167.

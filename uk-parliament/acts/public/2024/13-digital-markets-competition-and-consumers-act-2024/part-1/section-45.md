@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Duty to keep final offer orders under review[^key-d682917a317574ee990f2b805d5cf588][^key-4579abb15ccec33c6dbd118d36ff1edf]
+## 45. Duty to keep final offer orders under review[^c-d682917a317574ee990f2b805d5cf588][^c-4579abb15ccec33c6dbd118d36ff1edf]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ The CMA must keep under review—
 
 ## Annotations
 
-[^key-d682917a317574ee990f2b805d5cf588]: Commencement: S. 45 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-d682917a317574ee990f2b805d5cf588]: Commencement: S. 45 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-4579abb15ccec33c6dbd118d36ff1edf]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2024/13/section/45) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-4579abb15ccec33c6dbd118d36ff1edf]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2024/13/section/45) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

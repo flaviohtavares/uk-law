@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 371VH. Interests in companies[^key-629ada2c8a18d82affe2c0e203fa8e18]
+## 371VH. Interests in companies[^c-629ada2c8a18d82affe2c0e203fa8e18]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,11 +52,11 @@ summary: ''
 
 (9) Subsection (10) applies if, in accordance with generally accepted accounting practice, a loan creditor divides its rights and liabilities under a loan relationship to which it is a party as mentioned in section 415(1) of CTA 2009 (loan relationships with embedded derivatives).
 
-[^key-47675b17acd081c2f8dc3bbd428e99f2]...
+[^c-47675b17acd081c2f8dc3bbd428e99f2]...
 
 (10) Any rights falling within section 415(1)(b) of CTA 2009 are to be excluded from subsection (7).
 
-(10A)[^key-230438ddf279370bd08004b2ef6322a8] For the purposes of subsection (9), if for any relevant period accounts for a loan creditor are not prepared in accordance with international accounting standards or UK generally accepted accounting practice, any question relating to generally accepted accounting practice is to be determined in relation to the loan creditor for that period by reference to generally accepted accounting practice in relation to accounts prepared in accordance with international accounting standards.
+(10A)[^c-230438ddf279370bd08004b2ef6322a8] For the purposes of subsection (9), if for any relevant period accounts for a loan creditor are not prepared in accordance with international accounting standards or UK generally accepted accounting practice, any question relating to generally accepted accounting practice is to be determined in relation to the loan creditor for that period by reference to generally accepted accounting practice in relation to accounts prepared in accordance with international accounting standards.
 
 (11) Subsections (12) and (13) apply if—
 
@@ -78,8 +78,8 @@ is to be taken as having, to the extent of that person's interest in company 1, 
 
 ## Annotations
 
-[^key-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))
+[^c-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))
 
-[^key-47675b17acd081c2f8dc3bbd428e99f2]: Textual amendment: Words in s. 371VH(9) omitted (retrospective to 1.1.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 47 paras. 8(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/8/2), [21](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/21)
+[^c-47675b17acd081c2f8dc3bbd428e99f2]: Textual amendment: Words in s. 371VH(9) omitted (retrospective to 1.1.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 47 paras. 8(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/8/2), [21](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/21)
 
-[^key-230438ddf279370bd08004b2ef6322a8]: Textual amendment: S. 371VH(10A) inserted (retrospective to 1.1.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 47 paras. 8(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/8/3), [21](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/21)
+[^c-230438ddf279370bd08004b2ef6322a8]: Textual amendment: S. 371VH(10A) inserted (retrospective to 1.1.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 47 paras. 8(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/8/3), [21](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/21)

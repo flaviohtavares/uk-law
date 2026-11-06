@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Appeal or application to be by complaint[^key-257db9d89bb85a413633715793c4d3d0]
+## 34. Appeal or application to be by complaint[^c-257db9d89bb85a413633715793c4d3d0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where under any enactment an appeal or application lies to a magistrates’ cour
 
 ## Annotations
 
-[^key-257db9d89bb85a413633715793c4d3d0]: Textual amendment: [Rule 34](https://www.legislation.gov.uk/uksi/1981/552/rule/34) substituted (8.4.2024) by [The Magistrates’ Courts (Amendment) Rules 2024 (S.I. 2024/254)](https://www.legislation.gov.uk/uksi/2024/254), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/254/rule/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2024/254/rule/2/8)
+[^c-257db9d89bb85a413633715793c4d3d0]: Textual amendment: [Rule 34](https://www.legislation.gov.uk/uksi/1981/552/rule/34) substituted (8.4.2024) by [The Magistrates’ Courts (Amendment) Rules 2024 (S.I. 2024/254)](https://www.legislation.gov.uk/uksi/2024/254), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/254/rule/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2024/254/rule/2/8)

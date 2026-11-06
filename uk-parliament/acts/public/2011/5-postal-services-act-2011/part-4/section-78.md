@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Enforcement of security[^key-9433ba1426b85a3b3414c011f3410d1a]
+## 78. Enforcement of security[^c-9433ba1426b85a3b3414c011f3410d1a]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9433ba1426b85a3b3414c011f3410d1a]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2011/5/section/78) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-9433ba1426b85a3b3414c011f3410d1a]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2011/5/section/78) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

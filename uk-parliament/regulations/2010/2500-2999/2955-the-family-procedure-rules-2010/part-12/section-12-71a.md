@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**12.71A.**[^key-180c4925328d05708f182aa14beda428] (1) In this rule—
+**12.71A.**[^c-180c4925328d05708f182aa14beda428] (1) In this rule—
 
 - “**child concerned**” means the child who is the subject of the return proceedings;
 - “**claimant**” means the person who has made the protection claim;
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-180c4925328d05708f182aa14beda428]: Textual amendment: [Pt. 12 Ch. 6A](https://www.legislation.gov.uk/uksi/2010/2955/part/12/chapter/6A) inserted (1.10.2022) by [The Family Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/821)](https://www.legislation.gov.uk/uksi/2022/821), [rules 1(3)](https://www.legislation.gov.uk/uksi/2022/821/rule/1/3), [5](https://www.legislation.gov.uk/uksi/2022/821/rule/5)
+[^c-180c4925328d05708f182aa14beda428]: Textual amendment: [Pt. 12 Ch. 6A](https://www.legislation.gov.uk/uksi/2010/2955/part/12/chapter/6A) inserted (1.10.2022) by [The Family Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/821)](https://www.legislation.gov.uk/uksi/2022/821), [rules 1(3)](https://www.legislation.gov.uk/uksi/2022/821/rule/1/3), [5](https://www.legislation.gov.uk/uksi/2022/821/rule/5)

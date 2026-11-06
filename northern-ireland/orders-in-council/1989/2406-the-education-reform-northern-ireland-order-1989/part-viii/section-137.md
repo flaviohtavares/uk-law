@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Nothing in the provisions of this Chapter relating to charges shall be read as prohibiting or in any way restricting or regulating any request or invitation by or on behalf of the Board of Governors of any grant-aided school or the Authority[^key-407350206053447858c490b965d9d375] for voluntary contributions for the beneﬁt of the school or any school activities.
+(1) Nothing in the provisions of this Chapter relating to charges shall be read as prohibiting or in any way restricting or regulating any request or invitation by or on behalf of the Board of Governors of any grant-aided school or the Authority[^c-407350206053447858c490b965d9d375] for voluntary contributions for the beneﬁt of the school or any school activities.
 
 (2) Any request or invitation made by or on behalf of any such Board of Governors or board for contributions for the beneﬁt of any school or school activities shall not be regarded for the purposes of paragraph (1) as a request or invitation for voluntary contributions unless it is clear from the terms in which it is made—
 
@@ -31,7 +31,7 @@ summary: ''
 
 (4) Nothing in this Chapter relating to charges with respect to a [^c20347971]. . . pupil at a grant‐aided school shall be read as relating to—
 
-- (a) charges made by persons other than the Board of Governors or the Authority[^key-c9eaa1f9dd0129b0080c4bcc4e3ac22a] ; or
+- (a) charges made by persons other than the Board of Governors or the Authority[^c-c9eaa1f9dd0129b0080c4bcc4e3ac22a] ; or
 - (b) charges to be paid by persons other than the parent of the pupil or the pupil himself.
 
 (4A)[^c17610541] Nothing in the provisions of this Chapter relating to charges applies in relation to charges made by the Authority under Article 52 of the principal Order.
@@ -49,7 +49,7 @@ as may be prescribed.
 
 ## Annotations
 
-[^key-407350206053447858c490b965d9d375]: Textual amendment: Words in art. 137(1) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 11(15)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/11/15) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-407350206053447858c490b965d9d375]: Textual amendment: Words in art. 137(1) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 11(15)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/11/15) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c19397741]: Textual amendment: Word in art. 137(2)(b) repealed (23.3.2007) by [Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11))](https://www.legislation.gov.uk/nisi/2006/1915), [arts. 1(4)](https://www.legislation.gov.uk/nisi/2006/1915/article/1/4), [44](https://www.legislation.gov.uk/nisi/2006/1915/article/44), [Sch. 2 para. 34](https://www.legislation.gov.uk/nisi/2006/1915/schedule/2/paragraph/34), [Sch. 3 Pt. III](https://www.legislation.gov.uk/nisi/2006/1915/schedule/3/part/III); [S.R. 2007/197](https://www.legislation.gov.uk/nisr/2007/197), [art. 2](https://www.legislation.gov.uk/nisr/2007/197/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/197/schedule)
 
@@ -57,7 +57,7 @@ as may be prescribed.
 
 [^c20347971]: Textual amendment: Word in art. 137(4) repealed (23.3.2007) by [Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11))](https://www.legislation.gov.uk/nisi/2006/1915), [arts. 1(4)](https://www.legislation.gov.uk/nisi/2006/1915/article/1/4), [44](https://www.legislation.gov.uk/nisi/2006/1915/article/44), [Sch. 2 para. 34](https://www.legislation.gov.uk/nisi/2006/1915/schedule/2/paragraph/34), [Sch. 3 Pt. III](https://www.legislation.gov.uk/nisi/2006/1915/schedule/3/part/III); [S.R. 2007/197](https://www.legislation.gov.uk/nisr/2007/197), [art. 2](https://www.legislation.gov.uk/nisr/2007/197/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/197/schedule)
 
-[^key-c9eaa1f9dd0129b0080c4bcc4e3ac22a]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-c9eaa1f9dd0129b0080c4bcc4e3ac22a]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c17610541]: Textual amendment: [1997 NI 5](https://www.legislation.gov.uk/nisi/1997)
 

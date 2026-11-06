@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 8 — Documents to be certified[^key-fba4b61fe726b3fd23131e534f5d5a12]
+## SCHEDULE 8 — Documents to be certified[^c-fba4b61fe726b3fd23131e534f5d5a12]
 
 *Extent: E+W+S*
 
 Article 12
 
-[^key-fba4b61fe726b3fd23131e534f5d5a12]
+[^c-fba4b61fe726b3fd23131e534f5d5a12]
 
 The documents listed in Table 5 are the listed documents referred to in article 12 (certification of documents and plans, etc.)—
 
@@ -178,4 +178,4 @@ Table 5
 
 ## Annotations
 
-[^key-fba4b61fe726b3fd23131e534f5d5a12]: Commencement: Sch. 8 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-fba4b61fe726b3fd23131e534f5d5a12]: Commencement: Sch. 8 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)

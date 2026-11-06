@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Parental status of civil partners in cases of assisted reproduction[^key-1c4eebbcfa096e98638dc30d04406769]
+## 16. Parental status of civil partners in cases of assisted reproduction[^c-1c4eebbcfa096e98638dc30d04406769]
 
 *Extent: E+W+S*
 
@@ -57,7 +57,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1c4eebbcfa096e98638dc30d04406769]: Commencement: Reg. 16 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-1c4eebbcfa096e98638dc30d04406769]: Commencement: Reg. 16 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
 
 [^f00029]: Footnote: Section 35 was amended by the Marriage (Same Sex Couples) Act 2013, Schedule 7, paragraph 38, and by [S.I. 2014/3229](https://www.legislation.gov.uk/uksi/2014/3229).
 

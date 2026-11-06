@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4A. Consultation with Gambling Commission[^key-9d831ca0637a83430d42c16a95e35561]
+## 4A. Consultation with Gambling Commission[^c-9d831ca0637a83430d42c16a95e35561]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d831ca0637a83430d42c16a95e35561]: Textual amendment: [S. 4A](https://www.legislation.gov.uk/ukpga/1993/39/section/4A) repealed (1.10.2013) by [The Public Bodies (Merger of the Gambling Commission and the National Lottery Commission) Order 2013 (S.I. 2013/2329)](https://www.legislation.gov.uk/uksi/2013/2329), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2329/article/1/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/3) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2329/article/8), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/43))
+[^c-9d831ca0637a83430d42c16a95e35561]: Textual amendment: [S. 4A](https://www.legislation.gov.uk/ukpga/1993/39/section/4A) repealed (1.10.2013) by [The Public Bodies (Merger of the Gambling Commission and the National Lottery Commission) Order 2013 (S.I. 2013/2329)](https://www.legislation.gov.uk/uksi/2013/2329), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2329/article/1/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/3) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2329/article/8), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/43))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41. Proposals by funding authorities[^key-6c42a39179fc87dbab703881d84639c9]
+## 41. Proposals by funding authorities[^c-6c42a39179fc87dbab703881d84639c9]
 
 *Extent: E+W+S*
 
@@ -56,4 +56,4 @@ if, and only if, the requirements of subsection (3), (4) or (5) are satisfied.
 
 ## Annotations
 
-[^key-6c42a39179fc87dbab703881d84639c9]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2005/14/section/41) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
+[^c-6c42a39179fc87dbab703881d84639c9]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2005/14/section/41) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)

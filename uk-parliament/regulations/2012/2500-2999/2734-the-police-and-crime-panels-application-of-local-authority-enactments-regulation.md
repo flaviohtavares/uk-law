@@ -132,7 +132,7 @@ Regulation 3
 
 **8.** Chapter 7 of Part 1 of the Localism Act 2011 [^c21429661] (standards) and the Relevant Authorities (Disclosable Pecuniary Interests) Regulations 2012 [^c21429671].
 
-**8A.**[^key-c21a5b1a8b7a22be83b04812cc9c3418] Regulation 15 of the Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020.
+**8A.**[^c-c21a5b1a8b7a22be83b04812cc9c3418] Regulation 15 of the Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020.
 
 ### PART 2 — Enactments applying to English Part 3 Panels
 
@@ -168,7 +168,7 @@ Regulation 4
 
 **23.** Chapter 7 of Part 1 of the Localism Act 2011 (standards) and the Relevant Authorities (Disclosable Pecuniary Interests) Regulations 2012.
 
-**23A.**[^key-0bde313226b81e1c11a964948027c3a7] Part 2 and Regulations 6 and 15 of the Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020.
+**23A.**[^c-0bde313226b81e1c11a964948027c3a7] Part 2 and Regulations 6 and 15 of the Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020.
 
 ### PART 3 — Enactments applying to Welsh Part 3 Panels
 
@@ -202,7 +202,7 @@ Regulation 5
 
 **37.** Part 11 of the Equalities Act 2010 (advancement of equality).
 
-**37A.**[^key-4b0fbfe4da6fd09a232bf572f3cfddd0] Part 2 and Regulations 6 and 15 of the Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020.
+**37A.**[^c-4b0fbfe4da6fd09a232bf572f3cfddd0] Part 2 and Regulations 6 and 15 of the Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020.
 
 *(This note is not part of the Regulations)*
 
@@ -244,7 +244,7 @@ These Regulations apply legislation applicable to local authority committees to 
 
 [^c21429671]: Marginal citation: [S.I. 2012/1464](https://www.legislation.gov.uk/uksi/2012/1464).
 
-[^key-c21a5b1a8b7a22be83b04812cc9c3418]: Textual amendment: Sch. 1 para. 8A inserted (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [18(2)](https://www.legislation.gov.uk/uksi/2020/392/regulation/18/2) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-c21a5b1a8b7a22be83b04812cc9c3418]: Textual amendment: Sch. 1 para. 8A inserted (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [18(2)](https://www.legislation.gov.uk/uksi/2020/392/regulation/18/2) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
 
 [^c21429681]: Marginal citation: Section 99 and Schedule 12 apply to local authorities and their committees by virtue of section 270(1).
 
@@ -262,7 +262,7 @@ These Regulations apply legislation applicable to local authority committees to 
 
 [^c21429751]: Marginal citation: [S.I. 1987/2004](https://www.legislation.gov.uk/uksi/1987/2004).
 
-[^key-0bde313226b81e1c11a964948027c3a7]: Textual amendment: Sch. 1 para. 23A inserted (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [18(3)](https://www.legislation.gov.uk/uksi/2020/392/regulation/18/3) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-0bde313226b81e1c11a964948027c3a7]: Textual amendment: Sch. 1 para. 23A inserted (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [18(3)](https://www.legislation.gov.uk/uksi/2020/392/regulation/18/3) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
 
 [^c21429761]: Marginal citation: Part III applies to a local authority in Wales by virtue of section 49(6).
 
@@ -282,4 +282,4 @@ These Regulations apply legislation applicable to local authority committees to 
 
 [^c21429841]: Marginal citation: [2005 c. 10](https://www.legislation.gov.uk/ukpga/2005/10). Part 2 and Schedule 2 apply to a local authority in Wales by virtue of sections 28(1) and 41(1) and Schedule 3.
 
-[^key-4b0fbfe4da6fd09a232bf572f3cfddd0]: Textual amendment: Sch. 1 para. 37A inserted (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [18(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/18/4) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-4b0fbfe4da6fd09a232bf572f3cfddd0]: Textual amendment: Sch. 1 para. 37A inserted (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [18(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/18/4) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))

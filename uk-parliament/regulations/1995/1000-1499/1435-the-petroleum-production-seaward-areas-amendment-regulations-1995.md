@@ -30,7 +30,7 @@ summary: ''
 
 PETROLEUM
 
-The Petroleum (Production) (Seaward Areas) (Amendment) Regulations 1995 (revoked)[^key-f8d34077a342e3c1631811f88f48a4d7]
+The Petroleum (Production) (Seaward Areas) (Amendment) Regulations 1995 (revoked)[^c-f8d34077a342e3c1631811f88f48a4d7]
 
 Made
 
@@ -44,52 +44,52 @@ Coming into force
 
 30th June 1995
 
-[^key-f8d34077a342e3c1631811f88f48a4d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f8d34077a342e3c1631811f88f48a4d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Commencement and citation[^key-f8d34077a342e3c1631811f88f48a4d7]
+## 1. Commencement and citation[^c-f8d34077a342e3c1631811f88f48a4d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-f8d34077a342e3c1631811f88f48a4d7]
+## 2. Interpretation[^c-f8d34077a342e3c1631811f88f48a4d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Principal Regulations[^key-f8d34077a342e3c1631811f88f48a4d7]
+## 3. Principal Regulations[^c-f8d34077a342e3c1631811f88f48a4d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Applications for licences[^key-f8d34077a342e3c1631811f88f48a4d7]
+## 4. Applications for licences[^c-f8d34077a342e3c1631811f88f48a4d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Non-invited applications[^key-f8d34077a342e3c1631811f88f48a4d7]
+## 5. Non-invited applications[^c-f8d34077a342e3c1631811f88f48a4d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Invited applications[^key-f8d34077a342e3c1631811f88f48a4d7]
+## 6. Invited applications[^c-f8d34077a342e3c1631811f88f48a4d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Form of application[^key-f8d34077a342e3c1631811f88f48a4d7]
+## 7. Form of application[^c-f8d34077a342e3c1631811f88f48a4d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Model clauses for production licences[^key-f8d34077a342e3c1631811f88f48a4d7]
+## 8. Model clauses for production licences[^c-f8d34077a342e3c1631811f88f48a4d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Model clauses for exploration licences[^key-f8d34077a342e3c1631811f88f48a4d7]
+## 9. Model clauses for exploration licences[^c-f8d34077a342e3c1631811f88f48a4d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f8d34077a342e3c1631811f88f48a4d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f8d34077a342e3c1631811f88f48a4d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f8d34077a342e3c1631811f88f48a4d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f8d34077a342e3c1631811f88f48a4d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f8d34077a342e3c1631811f88f48a4d7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1995/1435) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-f8d34077a342e3c1631811f88f48a4d7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1995/1435) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

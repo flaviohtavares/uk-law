@@ -50,7 +50,7 @@ In accordance with section 173(1)(a) of the Social Security Administration Act 1
 
 In accordance with section 176(2)(a) of the Social Security Administration Act 1992, it appears to the Secretary of State that by reason of the urgency of this matter it is inexpedient to consult with representative bodies.
 
-## 1. Citation, commencement and interpretation[^key-fc423bbea7bcbb26c080064d106a5a9f]
+## 1. Citation, commencement and interpretation[^c-fc423bbea7bcbb26c080064d106a5a9f]
 
 (1) These Regulations may be cited as the Social Security (Coronavirus) (Further Measures) Regulations 2020 and come into force on 30th March 2020.
 
@@ -62,7 +62,7 @@ In accordance with section 176(2)(a) of the Social Security Administration Act 1
 - “**universal credit**” means universal credit under Part 1 of the Welfare Reform Act 2012;
 - “**Universal Credit Regulations**” means the Universal Credit Regulations 2013 [^c24046781].
 
-## 2. Universal credit – minimum income floor[^key-02e842553a51ea9c608df2a694271016][^key-82676bace0217a1369a8ecb8e54b6a20]
+## 2. Universal credit – minimum income floor[^c-02e842553a51ea9c608df2a694271016][^c-82676bace0217a1369a8ecb8e54b6a20]
 
 (1) The Secretary of State may, where it appears expedient as a consequence of the outbreak of coronavirus disease, and in such cases or class of case, or for such period, as the Secretary of State determines—
 
@@ -74,7 +74,7 @@ In accordance with section 176(2)(a) of the Social Security Administration Act 1
 
 (2) In this regulation “start-up period” and “gainful self-employment” have the meanings given in regulations 63 and 64 respectively of the Universal Credit Regulations.
 
-## 3. Universal credit – standard allowance modification[^key-518d20694d5b9a0d7e9b896095704c83]
+## 3. Universal credit – standard allowance modification[^c-518d20694d5b9a0d7e9b896095704c83]
 
 (1) Regulation 36 (table showing amounts of elements) of the Universal Credit Regulations, as amended by article 33 of, and Schedule 13 to, the Social Security Benefits Up-rating Order 2020 [^c24046801] (“**the 2020 up-rating order**”) is to be read as if the following amounts were substituted for the amounts of the standard allowance—
 
@@ -83,11 +83,11 @@ In accordance with section 176(2)(a) of the Social Security Administration Act 1
 - (c) £488.59 for joint claimants both aged under 25;
 - (d) £594.04 for joint claimants where either is aged 25 or over.
 
-(2) This regulation takes effect in relation to each award of universal credit in the first assessment period that ends on or after 6th April 2020[^key-3bab4029a900c9cf717b82a351e370a8] and continues to have effect only for the remainder of the tax year beginning with 6th April 2020.
+(2) This regulation takes effect in relation to each award of universal credit in the first assessment period that ends on or after 6th April 2020[^c-3bab4029a900c9cf717b82a351e370a8] and continues to have effect only for the remainder of the tax year beginning with 6th April 2020.
 
 (3) For the purposes of any calculation under regulation 54 (transitional element - indicative UC amount) and 55 (transitional element – initial amount and adjustment where other elements increase) of the Universal Credit (Transitional Provisions) Regulations 2014 [^c24046811] the amount of the standard allowance is to be the amount specified in regulation 36 of the Universal Credit Regulations, as amended by the 2020 up-rating order, and paragraph (1) is to be disregarded.
 
-## 4. Local housing allowance[^key-9cf1456c3ddfe4daebf89388167e3594]
+## 4. Local housing allowance[^c-9cf1456c3ddfe4daebf89388167e3594]
 
 (1) The Rent Officers (Housing Benefit Functions) Order 1997 [^c24046821] is amended as follows—
 
@@ -159,7 +159,7 @@ In accordance with section 176(2)(a) of the Social Security Administration Act 1
 
   .
 
-## 5. Housing benefit – disregards from income modification[^key-f1f5e46680538fe13e1a5bbe81b0b089]
+## 5. Housing benefit – disregards from income modification[^c-f1f5e46680538fe13e1a5bbe81b0b089]
 
 (1) The following provisions of the Housing Benefit Regulations 2006 [^c24046851] shall be read as if, for “£17.10” there were substituted “ £37.10 ”
 
@@ -173,7 +173,7 @@ In accordance with section 176(2)(a) of the Social Security Administration Act 1
 
 (3) This regulation takes effect on 6th April 2020 and ceases to have effect at the end of 4th April 2021.
 
-## 6. Universal credit and new style JSA – work-related requirements[^key-9fe60ef1d892c6d0d41d12a9900b777a]
+## 6. Universal credit and new style JSA – work-related requirements[^c-9fe60ef1d892c6d0d41d12a9900b777a]
 
 (1) As a consequence of the outbreak of coronavirus disease, where a person has an award of new style JSA or an award of universal credit—
 
@@ -185,7 +185,7 @@ In accordance with section 176(2)(a) of the Social Security Administration Act 1
 
 (3) In this regulation, “**new style JSA**” means an allowance under the Jobseekers Act 1995 as amended by the amendments made by Part 1 of Schedule 14 to the Welfare Reform Act 2012 that remove references to an income-based allowance.
 
-## 7. Old style JSA – availability for employment and actively seeking employment[^key-28cc8a3d785195d7f526b1b7d8fca3e7]
+## 7. Old style JSA – availability for employment and actively seeking employment[^c-28cc8a3d785195d7f526b1b7d8fca3e7]
 
 (1) As a consequence of the outbreak of coronavirus disease, a person who has an award of old style JSA is to be treated as—
 
@@ -198,7 +198,7 @@ for the purposes of the Jobseekers Act 1995 [^c24046931].
 
 (3) In this regulation, “**old style JSA**” means a jobseeker's allowance under the Jobseekers Act 1995 as that Act has effect apart from the amendments made by Part 1 of Schedule 14 to the Welfare Reform Act 2012 that remove references to an income-based allowance.
 
-## 8. Jobseeker's Allowance – periods of sickness[^key-04fadeabedff3789984998a041c3f2bb]
+## 8. Jobseeker's Allowance – periods of sickness[^c-04fadeabedff3789984998a041c3f2bb]
 
 (1) A person who has an award of jobseeker's allowance and who is—
 
@@ -215,7 +215,7 @@ and who satisfies the requirements for entitlement to a jobseeker's allowance ot
 
 (3) In this regulation, “**jobseeker's allowance**” means an allowance under the Jobseekers Act 1995.
 
-## 9. Carer's Allowance[^key-22c77554807d80b8f1c8e4777a4064bd]
+## 9. Carer's Allowance[^c-22c77554807d80b8f1c8e4777a4064bd]
 
 (1) This regulation applies where a person in receipt of carer's allowance (“A”) is temporarily unable to care for the severely disabled person (“B”) in respect of whom the carer's allowance is paid by reason of isolation due to, or infection or contamination with, coronavirus disease of either A or B.
 
@@ -228,15 +228,15 @@ and who satisfies the requirements for entitlement to a jobseeker's allowance ot
 
 (4) This regulation extends only to England and Wales.
 
-## 10. Expiry[^key-7c1f79249527c18f52cff188dd5801c6]
+## 10. Expiry[^c-7c1f79249527c18f52cff188dd5801c6]
 
 (1) The Secretary of State must keep the operation of these Regulations under review.
 
-(2) Regulations 6 and 7[^key-655d69d7ac2f32711ee5791e8f277ec3] cease to have effect at the end of the period of eight months beginning on 13th March 2020.
+(2) Regulations 6 and 7[^c-655d69d7ac2f32711ee5791e8f277ec3] cease to have effect at the end of the period of eight months beginning on 13th March 2020.
 
-(2A)[^key-09ea8cf1fbcad6c34fc55e21a804228c] Regulation 2 ceases to have effect on 31st July 2021[^key-8f241e6c33a08986f435c7cc46743b85].
+(2A)[^c-09ea8cf1fbcad6c34fc55e21a804228c] Regulation 2 ceases to have effect on 31st July 2021[^c-8f241e6c33a08986f435c7cc46743b85].
 
-(2B) Regulations 8 and 9 cease to have effect on 31st August 2021[^key-ab7a4fc0a82a0672bddb17623deb0569].
+(2B) Regulations 8 and 9 cease to have effect on 31st August 2021[^c-ab7a4fc0a82a0672bddb17623deb0569].
 
 (3) Regulation 3 (treating a person as having limited capability for work) and regulation 4 (suspension of the minimum income floor) of the Employment and Support Allowance and Universal Credit (Coronavirus Disease) Regulations 2020 [^c24046991] no longer have effect in so far as they apply to universal credit.
 
@@ -284,25 +284,25 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24046771]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-fc423bbea7bcbb26c080064d106a5a9f]: Commencement: Reg. 1 in force at 30.3.2020, see reg. 1(1)
+[^c-fc423bbea7bcbb26c080064d106a5a9f]: Commencement: Reg. 1 in force at 30.3.2020, see reg. 1(1)
 
 [^c24046781]: Marginal citation: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376).
 
-[^key-02e842553a51ea9c608df2a694271016]: Commencement: Reg. 2 in force at 30.3.2020, see reg. 1(1)
+[^c-02e842553a51ea9c608df2a694271016]: Commencement: Reg. 2 in force at 30.3.2020, see reg. 1(1)
 
-[^key-82676bace0217a1369a8ecb8e54b6a20]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/371/regulation/2) continued in part (with modifications) (temp.) (31.7.2021) by [The Universal Credit (Coronavirus) (Restoration of the Minimum Income Floor) Regulations 2021 (S.I. 2021/807)](https://www.legislation.gov.uk/uksi/2021/807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/807/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2021/807/regulation/2)
+[^c-82676bace0217a1369a8ecb8e54b6a20]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/371/regulation/2) continued in part (with modifications) (temp.) (31.7.2021) by [The Universal Credit (Coronavirus) (Restoration of the Minimum Income Floor) Regulations 2021 (S.I. 2021/807)](https://www.legislation.gov.uk/uksi/2021/807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/807/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2021/807/regulation/2)
 
 [^c24046791]: Marginal citation: Regulation 62 was substituted by [S.I. 2014/2888](https://www.legislation.gov.uk/uksi/2014/2888) and amended by [S.I. 2015/345](https://www.legislation.gov.uk/uksi/2015/345) and [1754](https://www.legislation.gov.uk/uksi/2015/1754) and [2019/1249](https://www.legislation.gov.uk/uksi/2019/1249).
 
-[^key-518d20694d5b9a0d7e9b896095704c83]: Commencement: Reg. 3 in force at 30.3.2020, see reg. 1(1)
+[^c-518d20694d5b9a0d7e9b896095704c83]: Commencement: Reg. 3 in force at 30.3.2020, see reg. 1(1)
 
 [^c24046801]: Marginal citation: [S.I. 2020/234](https://www.legislation.gov.uk/uksi/2020/234).
 
-[^key-3bab4029a900c9cf717b82a351e370a8]: Textual amendment: Words in reg. 3(2) substituted (6.4.2020) by [The Social Security (Coronavirus) (Further Measures) Amendment Regulations 2020 (S.I. 2020/397)](https://www.legislation.gov.uk/uksi/2020/397), [regs. 1](https://www.legislation.gov.uk/uksi/2020/397/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2020/397/regulation/2/1)
+[^c-3bab4029a900c9cf717b82a351e370a8]: Textual amendment: Words in reg. 3(2) substituted (6.4.2020) by [The Social Security (Coronavirus) (Further Measures) Amendment Regulations 2020 (S.I. 2020/397)](https://www.legislation.gov.uk/uksi/2020/397), [regs. 1](https://www.legislation.gov.uk/uksi/2020/397/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2020/397/regulation/2/1)
 
 [^c24046811]: Marginal citation: [S.I. 2014/1230](https://www.legislation.gov.uk/uksi/2014/1230). Regulations 54 and 55 were inserted by [S.I. 2019/1152](https://www.legislation.gov.uk/uksi/2019/1152).
 
-[^key-9cf1456c3ddfe4daebf89388167e3594]: Commencement: Reg. 4 in force at 30.3.2020, see reg. 1(1)
+[^c-9cf1456c3ddfe4daebf89388167e3594]: Commencement: Reg. 4 in force at 30.3.2020, see reg. 1(1)
 
 [^c24046821]: Marginal citation: [S.I. 1997/1984](https://www.legislation.gov.uk/uksi/1997/1984). Article 4B was inserted by [S.I. 2003/2398](https://www.legislation.gov.uk/uksi/2003/2398); paragraph (2B) was inserted by [S.I. 2013/1544](https://www.legislation.gov.uk/uksi/2013/1544) and substituted by [S.I. 2014/3126](https://www.legislation.gov.uk/uksi/2014/3126); paragraph (3B) was inserted by [S.I. 2012/646](https://www.legislation.gov.uk/uksi/2012/646). Schedule 3B was inserted by [S.I. 2007/2871](https://www.legislation.gov.uk/uksi/2007/2871); paragraph 2(2) was inserted by [S.I. 2020/27](https://www.legislation.gov.uk/uksi/2020/27). There are other amendments to article 4B and Schedule 3B but none are relevant.
 
@@ -310,7 +310,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24046841]: Marginal citation: [S.I. 2013/382](https://www.legislation.gov.uk/uksi/2013/382). In article 4, paragraph (2) was inserted by [S.I. 2014/3126](https://www.legislation.gov.uk/uksi/2014/3126) and amended by [S.I. 2015/1753](https://www.legislation.gov.uk/uksi/2015/1753); paragraph (3) was inserted by [S.I. 2015/1753](https://www.legislation.gov.uk/uksi/2015/1753). Paragraph 2(2) of Schedule 1 was inserted by [S.I. 2020/27](https://www.legislation.gov.uk/uksi/2020/27).
 
-[^key-f1f5e46680538fe13e1a5bbe81b0b089]: Commencement: Reg. 5 in force at 30.3.2020, see reg. 1(1)
+[^c-f1f5e46680538fe13e1a5bbe81b0b089]: Commencement: Reg. 5 in force at 30.3.2020, see reg. 1(1)
 
 [^c24046851]: Marginal citation: [S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213).
 
@@ -324,17 +324,17 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24046901]: Marginal citation: Paragraph 21 was amended by [S.I. 2008/3157](https://www.legislation.gov.uk/uksi/2008/3157) and [2010/793](https://www.legislation.gov.uk/uksi/2010/793).
 
-[^key-9fe60ef1d892c6d0d41d12a9900b777a]: Commencement: Reg. 6 in force at 30.3.2020, see reg. 1(1)
+[^c-9fe60ef1d892c6d0d41d12a9900b777a]: Commencement: Reg. 6 in force at 30.3.2020, see reg. 1(1)
 
 [^c24046911]: Marginal citation: See section 17(1) of the [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5).
 
 [^c24046921]: Marginal citation: See section 18(1) of the [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5).
 
-[^key-28cc8a3d785195d7f526b1b7d8fca3e7]: Commencement: Reg. 7 in force at 30.3.2020, see reg. 1(1)
+[^c-28cc8a3d785195d7f526b1b7d8fca3e7]: Commencement: Reg. 7 in force at 30.3.2020, see reg. 1(1)
 
 [^c24046931]: Marginal citation: See section 6(1) for the meaning of “available for employment” and section 7(1) for the meaning of “actively seeking employment”.
 
-[^key-04fadeabedff3789984998a041c3f2bb]: Commencement: Reg. 8 in force at 30.3.2020, see reg. 1(1)
+[^c-04fadeabedff3789984998a041c3f2bb]: Commencement: Reg. 8 in force at 30.3.2020, see reg. 1(1)
 
 [^c24046941]: Marginal citation: Section 1(2)(f) was substituted by paragraph 12(1) and (2) of Schedule 3 to the [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5).
 
@@ -342,20 +342,20 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24046961]: Marginal citation: [S.I.2013/378](https://www.legislation.gov.uk/uksi/2013/378). Regulation 46 was amended, and regulation was 46A was inserted, by [S.I. 2015/339](https://www.legislation.gov.uk/uksi/2015/339).
 
-[^key-22c77554807d80b8f1c8e4777a4064bd]: Commencement: Reg. 9 in force at 30.3.2020, see reg. 1(1)
+[^c-22c77554807d80b8f1c8e4777a4064bd]: Commencement: Reg. 9 in force at 30.3.2020, see reg. 1(1)
 
 [^c24046971]: Marginal citation: [S.I. 1976/409](https://www.legislation.gov.uk/uksi/1976/409).
 
 [^c24046981]: Marginal citation: Section 70 was amended by [S.I. 1994/2556](https://www.legislation.gov.uk/uksi/1994/2556), [2002/1457](https://www.legislation.gov.uk/uksi/2002/1457), [2011/517](https://www.legislation.gov.uk/uksi/2011/517) and [2426](https://www.legislation.gov.uk/uksi/2011/2426), [2013/388](https://www.legislation.gov.uk/uksi/2013/388) and [2015/1754](https://www.legislation.gov.uk/uksi/2015/1754).
 
-[^key-7c1f79249527c18f52cff188dd5801c6]: Commencement: Reg. 10 in force at 30.3.2020, see reg. 1(1)
+[^c-7c1f79249527c18f52cff188dd5801c6]: Commencement: Reg. 10 in force at 30.3.2020, see reg. 1(1)
 
-[^key-655d69d7ac2f32711ee5791e8f277ec3]: Textual amendment: Words in reg. 10(2) substituted (12.11.2020) by [The Social Security (Coronavirus) (Further Measures) (Amendment) and Miscellaneous Amendment Regulations 2020 (S.I. 2020/1201)](https://www.legislation.gov.uk/uksi/2020/1201), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1201/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2020/1201/regulation/2/a)
+[^c-655d69d7ac2f32711ee5791e8f277ec3]: Textual amendment: Words in reg. 10(2) substituted (12.11.2020) by [The Social Security (Coronavirus) (Further Measures) (Amendment) and Miscellaneous Amendment Regulations 2020 (S.I. 2020/1201)](https://www.legislation.gov.uk/uksi/2020/1201), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1201/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2020/1201/regulation/2/a)
 
-[^key-09ea8cf1fbcad6c34fc55e21a804228c]: Textual amendment: Reg. 10(2A)(2B) inserted (12.11.2020) by [The Social Security (Coronavirus) (Further Measures) (Amendment) and Miscellaneous Amendment Regulations 2020 (S.I. 2020/1201)](https://www.legislation.gov.uk/uksi/2020/1201), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1201/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2020/1201/regulation/2/b)
+[^c-09ea8cf1fbcad6c34fc55e21a804228c]: Textual amendment: Reg. 10(2A)(2B) inserted (12.11.2020) by [The Social Security (Coronavirus) (Further Measures) (Amendment) and Miscellaneous Amendment Regulations 2020 (S.I. 2020/1201)](https://www.legislation.gov.uk/uksi/2020/1201), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1201/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2020/1201/regulation/2/b)
 
-[^key-8f241e6c33a08986f435c7cc46743b85]: Textual amendment: Words in reg. 10(2A) substituted (6.4.2021) by [The Universal Credit (Extension of Coronavirus Measures) Regulations 2021 (S.I. 2021/313)](https://www.legislation.gov.uk/uksi/2021/313), [regs. 1](https://www.legislation.gov.uk/uksi/2021/313/regulation/1), [3](https://www.legislation.gov.uk/uksi/2021/313/regulation/3)
+[^c-8f241e6c33a08986f435c7cc46743b85]: Textual amendment: Words in reg. 10(2A) substituted (6.4.2021) by [The Universal Credit (Extension of Coronavirus Measures) Regulations 2021 (S.I. 2021/313)](https://www.legislation.gov.uk/uksi/2021/313), [regs. 1](https://www.legislation.gov.uk/uksi/2021/313/regulation/1), [3](https://www.legislation.gov.uk/uksi/2021/313/regulation/3)
 
-[^key-ab7a4fc0a82a0672bddb17623deb0569]: Textual amendment: Words in [reg. 10(2B)](https://www.legislation.gov.uk/uksi/2020/371/regulation/10/2B) substituted (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/476)](https://www.legislation.gov.uk/uksi/2021/476), [regs. 1](https://www.legislation.gov.uk/uksi/2021/476/regulation/1), [3](https://www.legislation.gov.uk/uksi/2021/476/regulation/3)
+[^c-ab7a4fc0a82a0672bddb17623deb0569]: Textual amendment: Words in [reg. 10(2B)](https://www.legislation.gov.uk/uksi/2020/371/regulation/10/2B) substituted (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/476)](https://www.legislation.gov.uk/uksi/2021/476), [regs. 1](https://www.legislation.gov.uk/uksi/2021/476/regulation/1), [3](https://www.legislation.gov.uk/uksi/2021/476/regulation/3)
 
 [^c24046991]: Marginal citation: [S.I. 2020/289](https://www.legislation.gov.uk/uksi/2020/289).

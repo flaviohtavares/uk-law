@@ -52,7 +52,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Chargeable passengers and exemptions
 
-#### 2. Meaning of chargeable passenger[^key-d0667d12d37d2ef53b0d1218030d64b5]
+#### 2. Meaning of chargeable passenger[^c-d0667d12d37d2ef53b0d1218030d64b5]
 
 (1) Every person carried on a flight that begins at an airport in Scotland is a chargeable passenger unless—
 
@@ -168,7 +168,7 @@ If a passenger is carried on two or more connected flights, the passenger is a n
 
 ### Chargeable aircraft and exemptions
 
-#### 8. Meaning of chargeable aircraft[^key-3ce11d310c7c3fca684a786c7c777860]
+#### 8. Meaning of chargeable aircraft[^c-3ce11d310c7c3fca684a786c7c777860]
 
 (1) An aircraft is a chargeable aircraft in relation to a flight if it has the characteristics specified in subsection (2), unless the aircraft is a non-chargeable aircraft under section 9 or 10 or regulations made under section 15.
 
@@ -265,7 +265,7 @@ If a passenger is carried on two or more connected flights, the passenger is a n
 
 ### Modification of key concepts
 
-#### 15. Key concepts may be modified by regulations[^key-bc662fe7db4272476d113a59f8a1a818]
+#### 15. Key concepts may be modified by regulations[^c-bc662fe7db4272476d113a59f8a1a818]
 
 (1) The Scottish Ministers may by regulations make other provision concerning—
 
@@ -323,9 +323,9 @@ If a passenger is carried on two or more connected flights, the passenger is a n
 
 (3) The Scottish Ministers must keep under review the economic, environmental and social impacts of the tax bands defined and tax rate amounts set by regulations under subsection (1).
 
-(4)[^key-0b11d55551fd91713c58ba03adb4475e] The Scottish Ministers may by regulations make other provision concerning the structure of the tax.
+(4)[^c-0b11d55551fd91713c58ba03adb4475e] The Scottish Ministers may by regulations make other provision concerning the structure of the tax.
 
-(5)[^key-0b11d55551fd91713c58ba03adb4475e] Regulations under this section—
+(5)[^c-0b11d55551fd91713c58ba03adb4475e] Regulations under this section—
 
 - (a) may add, change or remove the description of any tax band, tax rate or any provision that defines or otherwise explains a term or expression, and
 - (b) may modify this Act.
@@ -740,7 +740,7 @@ In this Act—
 
 ### Modification of administrative provisions
 
-#### 41. Administrative provisions may be modified by regulations[^key-09c79f6dbd74d7ab8c35cdef86991d97]
+#### 41. Administrative provisions may be modified by regulations[^c-09c79f6dbd74d7ab8c35cdef86991d97]
 
 (1) The Scottish Ministers may by regulations make other provision concerning the payment, collection and management of the tax.
 
@@ -1236,12 +1236,12 @@ The short title of this Act is the Air Departure Tax (Scotland) Act 2017.
 
 ## Annotations
 
-[^key-d0667d12d37d2ef53b0d1218030d64b5]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2017/2/section/2) in force at 15.9.2026 by [S.S.I. 2026/248](https://www.legislation.gov.uk/ssi/2026/248), [reg. 2](https://www.legislation.gov.uk/ssi/2026/248/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/248/schedule)
+[^c-d0667d12d37d2ef53b0d1218030d64b5]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2017/2/section/2) in force at 15.9.2026 by [S.S.I. 2026/248](https://www.legislation.gov.uk/ssi/2026/248), [reg. 2](https://www.legislation.gov.uk/ssi/2026/248/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/248/schedule)
 
-[^key-3ce11d310c7c3fca684a786c7c777860]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2017/2/section/8) in force at 15.9.2026 by [S.S.I. 2026/248](https://www.legislation.gov.uk/ssi/2026/248), [reg. 2](https://www.legislation.gov.uk/ssi/2026/248/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/248/schedule)
+[^c-3ce11d310c7c3fca684a786c7c777860]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2017/2/section/8) in force at 15.9.2026 by [S.S.I. 2026/248](https://www.legislation.gov.uk/ssi/2026/248), [reg. 2](https://www.legislation.gov.uk/ssi/2026/248/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/248/schedule)
 
-[^key-bc662fe7db4272476d113a59f8a1a818]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2017/2/section/15) in force at 15.9.2026 by [S.S.I. 2026/248](https://www.legislation.gov.uk/ssi/2026/248), [reg. 2](https://www.legislation.gov.uk/ssi/2026/248/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/248/schedule)
+[^c-bc662fe7db4272476d113a59f8a1a818]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2017/2/section/15) in force at 15.9.2026 by [S.S.I. 2026/248](https://www.legislation.gov.uk/ssi/2026/248), [reg. 2](https://www.legislation.gov.uk/ssi/2026/248/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/248/schedule)
 
-[^key-0b11d55551fd91713c58ba03adb4475e]: Commencement: [S. 17(4)](https://www.legislation.gov.uk/asp/2017/2/section/17/4)[(5)](https://www.legislation.gov.uk/asp/2017/2/section/17/5) in force at 15.9.2026 for specified purposes by [S.S.I. 2026/248](https://www.legislation.gov.uk/ssi/2026/248), [reg. 2](https://www.legislation.gov.uk/ssi/2026/248/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/248/schedule)
+[^c-0b11d55551fd91713c58ba03adb4475e]: Commencement: [S. 17(4)](https://www.legislation.gov.uk/asp/2017/2/section/17/4)[(5)](https://www.legislation.gov.uk/asp/2017/2/section/17/5) in force at 15.9.2026 for specified purposes by [S.S.I. 2026/248](https://www.legislation.gov.uk/ssi/2026/248), [reg. 2](https://www.legislation.gov.uk/ssi/2026/248/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/248/schedule)
 
-[^key-09c79f6dbd74d7ab8c35cdef86991d97]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2017/2/section/41) in force at 15.9.2026 by [S.S.I. 2026/248](https://www.legislation.gov.uk/ssi/2026/248), [reg. 2](https://www.legislation.gov.uk/ssi/2026/248/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/248/schedule)
+[^c-09c79f6dbd74d7ab8c35cdef86991d97]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2017/2/section/41) in force at 15.9.2026 by [S.S.I. 2026/248](https://www.legislation.gov.uk/ssi/2026/248), [reg. 2](https://www.legislation.gov.uk/ssi/2026/248/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/248/schedule)

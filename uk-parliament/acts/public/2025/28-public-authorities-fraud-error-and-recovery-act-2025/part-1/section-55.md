@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 55. Application to members etc of bodies[^key-3b5d10f51b96c7aadeaef62b1aef17bf][^key-31be516f7d20b51a8a0b61e4bf0117a1]
+## 55. Application to members etc of bodies[^c-3b5d10f51b96c7aadeaef62b1aef17bf][^c-31be516f7d20b51a8a0b61e4bf0117a1]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3b5d10f51b96c7aadeaef62b1aef17bf]: Commencement: S. 55 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-3b5d10f51b96c7aadeaef62b1aef17bf]: Commencement: S. 55 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-31be516f7d20b51a8a0b61e4bf0117a1]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2025/28/section/55) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-31be516f7d20b51a8a0b61e4bf0117a1]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2025/28/section/55) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

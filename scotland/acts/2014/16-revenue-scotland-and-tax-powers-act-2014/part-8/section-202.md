@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 202. Assessment of penalties under sections 195, 196 and 197[^key-5760e1f28a949f09fa423b00c4162809]
+## 202. Assessment of penalties under sections 195, 196 and 197[^c-5760e1f28a949f09fa423b00c4162809]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5760e1f28a949f09fa423b00c4162809]: Commencement: [S. 202](https://www.legislation.gov.uk/asp/2014/16/section/202) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-5760e1f28a949f09fa423b00c4162809]: Commencement: [S. 202](https://www.legislation.gov.uk/asp/2014/16/section/202) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127A. Dissolution of higher education corporations in England[^key-fe8d1383d2ade1f6abd231f2ee4e1d51]
+## 127A. Dissolution of higher education corporations in England[^c-fe8d1383d2ade1f6abd231f2ee4e1d51]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe8d1383d2ade1f6abd231f2ee4e1d51]: Textual amendment: S. 127A inserted (1.8.2019) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/2017/29/schedule/8/paragraph/16); [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 4(o)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/4/o)
+[^c-fe8d1383d2ade1f6abd231f2ee4e1d51]: Textual amendment: S. 127A inserted (1.8.2019) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/2017/29/schedule/8/paragraph/16); [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 4(o)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/4/o)

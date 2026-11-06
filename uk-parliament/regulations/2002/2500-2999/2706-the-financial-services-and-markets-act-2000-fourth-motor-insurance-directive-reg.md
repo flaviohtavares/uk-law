@@ -43,15 +43,15 @@ Coming into force
 
 20th November 2002
 
-The Treasury, being a government department designated[^c9627411] for the purposes of section 2(2) of the European Communities Act 1972[^c9627421] in relation to: (i) compulsory insurance in respect of, and other means of providing for, civil liability in relation to motor vehicles and trailers; (ii) authorisation of the carrying on of insurance business and the regulation of such business and its conduct; and (iii) anything supplemental or incidental to those matters; in exercise of the powers conferred on them by (a) that section and (b) sections 150(3) and 417(1)[^c9627431] of the Financial Services and Markets Act 2000[^c9627441], hereby make the following Regulations:[^key-80755d61597809c8c5c1fb5842615079]
+The Treasury, being a government department designated[^c9627411] for the purposes of section 2(2) of the European Communities Act 1972[^c9627421] in relation to: (i) compulsory insurance in respect of, and other means of providing for, civil liability in relation to motor vehicles and trailers; (ii) authorisation of the carrying on of insurance business and the regulation of such business and its conduct; and (iii) anything supplemental or incidental to those matters; in exercise of the powers conferred on them by (a) that section and (b) sections 150(3) and 417(1)[^c9627431] of the Financial Services and Markets Act 2000[^c9627441], hereby make the following Regulations:[^c-80755d61597809c8c5c1fb5842615079]
 
 ## 1. Citation and commencement
 
 These Regulations may be cited as the Financial Services and Markets Act 2000 (Fourth Motor Insurance Directive) Regulations 2002 and come into force on 20th November 2002.
 
-## 2. Power of the Financial Conduct Authority to make rules under section 137A of the Financial Services and Markets Act 2000[^key-dab80d8af38baa0a485480ab95b53493]
+## 2. Power of the Financial Conduct Authority to make rules under section 137A of the Financial Services and Markets Act 2000[^c-dab80d8af38baa0a485480ab95b53493]
 
-(1) Rules made by the Financial Conduct Authority under section 137A of the Financial Services and Markets Act 2000 (“the[^key-09588648a09a47c94bb38f08409bf3a6] 2000 Act”) (The FCA’s general rules) may require a relevant authorised person to pay interest in specified circumstances in respect of claims made for compensation.
+(1) Rules made by the Financial Conduct Authority under section 137A of the Financial Services and Markets Act 2000 (“the[^c-09588648a09a47c94bb38f08409bf3a6] 2000 Act”) (The FCA’s general rules) may require a relevant authorised person to pay interest in specified circumstances in respect of claims made for compensation.
 
 (2) In paragraph (1)—
 
@@ -113,10 +113,10 @@ As these Regulations give effect, in part, to the Fourth Motor Insurance Directi
 
 [^c9627441]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-80755d61597809c8c5c1fb5842615079]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2002/2706): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-80755d61597809c8c5c1fb5842615079]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2002/2706): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-dab80d8af38baa0a485480ab95b53493]: Textual amendment: Reg. 2 heading substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/regulation/1/1), [Sch. 2 para. 78(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/78/a)
+[^c-dab80d8af38baa0a485480ab95b53493]: Textual amendment: Reg. 2 heading substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/regulation/1/1), [Sch. 2 para. 78(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/78/a)
 
-[^key-09588648a09a47c94bb38f08409bf3a6]: Textual amendment: Words in reg. 2(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/regulation/1/1), [Sch. 2 para. 78(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/78/b)
+[^c-09588648a09a47c94bb38f08409bf3a6]: Textual amendment: Words in reg. 2(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/regulation/1/1), [Sch. 2 para. 78(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/78/b)
 
 [^c9627451]: Marginal citation: [S.I. 2001/2256](https://www.legislation.gov.uk/uksi/2001/2256).

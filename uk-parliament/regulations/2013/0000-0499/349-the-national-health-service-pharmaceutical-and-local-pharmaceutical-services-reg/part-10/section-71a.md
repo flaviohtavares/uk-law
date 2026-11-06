@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71A. Issuing breach or remedial notices while a disease is or in anticipation of a disease being imminently pandemic etc.[^key-89488a38ecabea04f3c6140dee9e8f01]
+## 71A. Issuing breach or remedial notices while a disease is or in anticipation of a disease being imminently pandemic etc.[^c-89488a38ecabea04f3c6140dee9e8f01]
 
 *Extent: E+W+S+N.I.*
 
-NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] must not issue a breach or remedial notice in respect of a breach of a term of service by a NHS chemist in the following circumstances—
+NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] must not issue a breach or remedial notice in respect of a breach of a term of service by a NHS chemist in the following circumstances—
 
 - (a) as a consequence of a disease being, or in anticipation of a disease being imminently—
   - (i) pandemic, and
@@ -38,6 +38,6 @@ NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] must not issue a breach or re
 
 ## Annotations
 
-[^key-89488a38ecabea04f3c6140dee9e8f01]: Textual amendment: [Reg. 71A](https://www.legislation.gov.uk/uksi/2013/349/regulation/71A) inserted (27.3.2020) by [The National Health Service (Amendments Relating to the Provision of Primary Care Services During a Pandemic etc.) Regulations 2020 (S.I. 2020/351)](https://www.legislation.gov.uk/uksi/2020/351), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/351/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2020/351/regulation/7)
+[^c-89488a38ecabea04f3c6140dee9e8f01]: Textual amendment: [Reg. 71A](https://www.legislation.gov.uk/uksi/2013/349/regulation/71A) inserted (27.3.2020) by [The National Health Service (Amendments Relating to the Provision of Primary Care Services During a Pandemic etc.) Regulations 2020 (S.I. 2020/351)](https://www.legislation.gov.uk/uksi/2020/351), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/351/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2020/351/regulation/7)
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

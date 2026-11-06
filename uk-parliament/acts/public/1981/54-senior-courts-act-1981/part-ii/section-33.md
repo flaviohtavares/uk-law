@@ -33,7 +33,7 @@ summary: ''
   - (ii) to the applicant’s legal advisers and any medical or other professional adviser of the applicant; or
   - (iii) if the applicant has no legal adviser, to any medical or other professional adviser of the applicant.
 
-(3)[^key-4b7a5d1f336f54308f60e04d540e4e7a] This section applies in relation to the family court as it applies in relation to the High Court.
+(3)[^c-4b7a5d1f336f54308f60e04d540e4e7a] This section applies in relation to the family court as it applies in relation to the High Court.
 
 ## Annotations
 
@@ -53,4 +53,4 @@ summary: ''
 
 [^c12332501]: Textual amendment: Words in s. 33(2) omitted (26.4.1999) by virtue of [S.I. 1998/2940](https://www.legislation.gov.uk/uksi/1998/2940), [arts. 1](https://www.legislation.gov.uk/uksi/1998/2940/article/1), [5(a)](https://www.legislation.gov.uk/uksi/1998/2940/article/5/a); [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132)
 
-[^key-4b7a5d1f336f54308f60e04d540e4e7a]: Textual amendment: [S. 33(3)](https://www.legislation.gov.uk/ukpga/1981/54/section/33/3) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 55](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/55); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-4b7a5d1f336f54308f60e04d540e4e7a]: Textual amendment: [S. 33(3)](https://www.legislation.gov.uk/ukpga/1981/54/section/33/3) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 55](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/55); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

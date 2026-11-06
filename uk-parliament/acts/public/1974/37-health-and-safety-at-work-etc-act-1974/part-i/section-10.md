@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Establishment of the Executive.[^key-0fe72d9a6077d9cfd7b83aac041509d3][^c7806871][^c7806882][^c20459271][^c19946101]
+## 10. Establishment of the Executive.[^c-0fe72d9a6077d9cfd7b83aac041509d3][^c7806871][^c7806882][^c20459271][^c19946101]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-cfbc8b182526d5ff17f43ddf02cf644f][^key-f3f7d698f97af1a5e353f8b449592f04] There shall be a body corporate to be known as the Health and Safety Executive (in this Act referred to as “ **the Executive** ”).
+(1)[^c-cfbc8b182526d5ff17f43ddf02cf644f][^c-f3f7d698f97af1a5e353f8b449592f04] There shall be a body corporate to be known as the Health and Safety Executive (in this Act referred to as “ **the Executive** ”).
 
 (2) The provisions of Schedule 2 shall have effect with respect to the Executive.
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0fe72d9a6077d9cfd7b83aac041509d3]: Modification: Ss. 1-59 applied by S.I. 2001/2127 art. 8A 8B (as inserted (E.W.S.) (6.4.2011) by [The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2011 (S.I. 2011/745)](https://www.legislation.gov.uk/uksi/2011/745), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/745/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/745/article/3/2))
+[^c-0fe72d9a6077d9cfd7b83aac041509d3]: Modification: Ss. 1-59 applied by S.I. 2001/2127 art. 8A 8B (as inserted (E.W.S.) (6.4.2011) by [The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2011 (S.I. 2011/745)](https://www.legislation.gov.uk/uksi/2011/745), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/745/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/745/article/3/2))
 
 [^c7806871]: Modification: Ss. 1–25, 26, 27, 28, 30, 33, 34–59, 80, 81 and 82 applied by [S.I. 1989/840](https://www.legislation.gov.uk/uksi/1989/840), [arts. 2–10](https://www.legislation.gov.uk/uksi/1989/840/article/2)
 
@@ -43,6 +43,6 @@ summary: ''
 
 [^c19946101]: Textual amendment: S. 10 substituted (1.4.2008) by [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 4](https://www.legislation.gov.uk/uksi/2008/960/article/4) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/960/schedule/2))
 
-[^key-cfbc8b182526d5ff17f43ddf02cf644f]: Modification: S. 10(1) applied (with modifications) (17.8.2015) by [The Pyrotechnic Articles (Safety) Regulations 2015 (S.I. 2015/1553)](https://www.legislation.gov.uk/uksi/2015/1553), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1553/regulation/1), [Sch. 8 paras. 1(a)](https://www.legislation.gov.uk/uksi/2015/1553/schedule/8/paragraph/1/a), [2](https://www.legislation.gov.uk/uksi/2015/1553/schedule/8/paragraph/2)
+[^c-cfbc8b182526d5ff17f43ddf02cf644f]: Modification: S. 10(1) applied (with modifications) (17.8.2015) by [The Pyrotechnic Articles (Safety) Regulations 2015 (S.I. 2015/1553)](https://www.legislation.gov.uk/uksi/2015/1553), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1553/regulation/1), [Sch. 8 paras. 1(a)](https://www.legislation.gov.uk/uksi/2015/1553/schedule/8/paragraph/1/a), [2](https://www.legislation.gov.uk/uksi/2015/1553/schedule/8/paragraph/2)
 
-[^key-f3f7d698f97af1a5e353f8b449592f04]: Modification: S. 10(1) applied (with modifications) (8.12.2016) by [The Lifts Regulations 2016 (S.I. 2016/1093)](https://www.legislation.gov.uk/uksi/2016/1093), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1093/regulation/1), [Sch. 8 paras. 1(a)](https://www.legislation.gov.uk/uksi/2016/1093/schedule/8/paragraph/1/a), [2](https://www.legislation.gov.uk/uksi/2016/1093/schedule/8/paragraph/2) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2016/1093/regulation/3))
+[^c-f3f7d698f97af1a5e353f8b449592f04]: Modification: S. 10(1) applied (with modifications) (8.12.2016) by [The Lifts Regulations 2016 (S.I. 2016/1093)](https://www.legislation.gov.uk/uksi/2016/1093), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1093/regulation/1), [Sch. 8 paras. 1(a)](https://www.legislation.gov.uk/uksi/2016/1093/schedule/8/paragraph/1/a), [2](https://www.legislation.gov.uk/uksi/2016/1093/schedule/8/paragraph/2) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2016/1093/regulation/3))

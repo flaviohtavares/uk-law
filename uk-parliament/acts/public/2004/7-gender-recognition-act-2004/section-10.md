@@ -22,7 +22,7 @@ summary: ''
 
 (1) Where there is a UK birth register entry in relation to a person to whom a full gender recognition certificate is issued, the Secretary of State must send a copy of the certificate to the appropriate Registrar General.
 
-(1A)[^key-9d3acfd0158b74d41dcd627b9eb32edb] Where a full gender recognition certificate is issued to a person who is a party to—
+(1A)[^c-9d3acfd0158b74d41dcd627b9eb32edb] Where a full gender recognition certificate is issued to a person who is a party to—
 
 - (a) a marriage under the law of England and Wales, or
 - (b) a civil partnership under that law,
@@ -31,9 +31,9 @@ the Secretary of State must send a copy of the certificate to the Registrar Gene
 
 *Extent: S*
 
-(1B)[^key-adc4d47d17a9c9c00219ea7484bc9fae] Where a full gender recognition certificate is issued by a Gender Recognition Panel or the sheriff to a person who is a party to a protected Scottish marriage or a protected Scottish civil partnership, the Panel must send a copy of the certificate to the Registrar General for Scotland.
+(1B)[^c-adc4d47d17a9c9c00219ea7484bc9fae] Where a full gender recognition certificate is issued by a Gender Recognition Panel or the sheriff to a person who is a party to a protected Scottish marriage or a protected Scottish civil partnership, the Panel must send a copy of the certificate to the Registrar General for Scotland.
 
-(1C)[^key-cbbbead5339f0f2352de295b08021a10] Where a full gender recognition certificate is issued to a person who is a party to—
+(1C)[^c-cbbbead5339f0f2352de295b08021a10] Where a full gender recognition certificate is issued to a person who is a party to—
 
 - (a) a marriage under the law of Northern Ireland, or
 - (b) a civil partnership under the law of Northern Ireland,
@@ -59,8 +59,8 @@ keeps a certified copy of the person’s UK birth register entry or the register
 
 ## Annotations
 
-[^key-9d3acfd0158b74d41dcd627b9eb32edb]: Textual amendment: S. 10(1A) inserted (30.6.2014 for specified purposes, 10.12.2014 in so far as not already in force) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 5 para. 9(1)](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/9/1); [S.I. 2014/1662](https://www.legislation.gov.uk/uksi/2014/1662), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/1662/article/2/b); [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
+[^c-9d3acfd0158b74d41dcd627b9eb32edb]: Textual amendment: S. 10(1A) inserted (30.6.2014 for specified purposes, 10.12.2014 in so far as not already in force) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 5 para. 9(1)](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/9/1); [S.I. 2014/1662](https://www.legislation.gov.uk/uksi/2014/1662), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/1662/article/2/b); [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
 
-[^key-adc4d47d17a9c9c00219ea7484bc9fae]: Textual amendment: S. 10(1B) inserted (S.) (16.12.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [s. 36](https://www.legislation.gov.uk/asp/2014/5/section/36), [Sch. 2 para. 9(1)](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/9/1); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-adc4d47d17a9c9c00219ea7484bc9fae]: Textual amendment: S. 10(1B) inserted (S.) (16.12.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [s. 36](https://www.legislation.gov.uk/asp/2014/5/section/36), [Sch. 2 para. 9(1)](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/9/1); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-cbbbead5339f0f2352de295b08021a10]: Textual amendment: S. 10(1C) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2019/1514/regulation/44) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-cbbbead5339f0f2352de295b08021a10]: Textual amendment: S. 10(1C) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2019/1514/regulation/44) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))

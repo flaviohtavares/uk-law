@@ -29,8 +29,8 @@ an assessment to tax may be made by the Board in the amount or further amount wh
 
 (2) An assessment to which paragraph (1) refers may be made on the account manager or on the account investor.
 
-(3) If the assessment is made to recover tax in respect of income (including any amount in respect of a tax credit) under an account it shall be made under Chapter 8 of Part 5 of[^key-6cc50803554114852c802467e5fbd3f2] ITTOIA 2005.
+(3) If the assessment is made to recover tax in respect of income (including any amount in respect of a tax credit) under an account it shall be made under Chapter 8 of Part 5 of[^c-6cc50803554114852c802467e5fbd3f2] ITTOIA 2005.
 
 ## Annotations
 
-[^key-6cc50803554114852c802467e5fbd3f2]: Textual amendment: Words in reg. 28(3) substituted (1.11.2011) by [The Individual Savings Account (Amendment No. 2) Regulations 2011 (S.I. 2011/1780)](https://www.legislation.gov.uk/uksi/2011/1780), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1780/regulation/1), [29](https://www.legislation.gov.uk/uksi/2011/1780/regulation/29)
+[^c-6cc50803554114852c802467e5fbd3f2]: Textual amendment: Words in reg. 28(3) substituted (1.11.2011) by [The Individual Savings Account (Amendment No. 2) Regulations 2011 (S.I. 2011/1780)](https://www.legislation.gov.uk/uksi/2011/1780), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1780/regulation/1), [29](https://www.legislation.gov.uk/uksi/2011/1780/regulation/29)

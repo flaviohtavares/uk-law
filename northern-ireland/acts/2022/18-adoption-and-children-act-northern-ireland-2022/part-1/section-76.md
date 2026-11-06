@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 76. Adopted Children Register[^key-2250c27a5371e67f588fc0e7076543f8]
+## 76. Adopted Children Register[^c-2250c27a5371e67f588fc0e7076543f8]
 
 *Extent: N.I.*
 
@@ -55,4 +55,4 @@ a certified copy of the entry is also to be received, without further or other p
 
 ## Annotations
 
-[^key-2250c27a5371e67f588fc0e7076543f8]: Commencement: S. 76 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-2250c27a5371e67f588fc0e7076543f8]: Commencement: S. 76 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

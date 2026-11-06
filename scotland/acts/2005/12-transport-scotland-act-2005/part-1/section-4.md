@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Further provision about regional Transport Partnerships[^key-4d1b0e33579b4972963427ce01648b2e]
+## 4. Further provision about regional Transport Partnerships[^c-4d1b0e33579b4972963427ce01648b2e]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 1 provides further as to Transport Partnerships and their members.
 
 ## Annotations
 
-[^key-4d1b0e33579b4972963427ce01648b2e]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2005/12/section/4) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
+[^c-4d1b0e33579b4972963427ce01648b2e]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2005/12/section/4) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)

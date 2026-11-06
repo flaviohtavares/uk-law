@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Omission of regulation 139 (registrations granted under Chapter 4 of Title III of the 2001 Directive)[^key-d7771280210b2fbe00191dbdd81a9c41]
+## 122. Omission of regulation 139 (registrations granted under Chapter 4 of Title III of the 2001 Directive)[^c-d7771280210b2fbe00191dbdd81a9c41]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Omit regulation 139.
 
 ## Annotations
 
-[^key-d7771280210b2fbe00191dbdd81a9c41]: Commencement: Reg. 122 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-d7771280210b2fbe00191dbdd81a9c41]: Commencement: Reg. 122 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

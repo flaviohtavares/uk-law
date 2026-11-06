@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Reporting on children's services plan[^key-a00c206b27a26fd73c4740fa0352307e]
+## 13. Reporting on children's services plan[^c-a00c206b27a26fd73c4740fa0352307e]
 
 *Extent: S*
 
@@ -27,22 +27,22 @@ summary: ''
   - (i) the aims listed in section 9(2),
   - (ii) such outcomes in relation to the wellbeing of children in the area as the Scottish Ministers may by order prescribe.
 
-(1A)[^key-16dd3bd03979c9f2395096b01b599510] The Scottish Ministers may by regulations prescribe other matters to be included in the report.
+(1A)[^c-16dd3bd03979c9f2395096b01b599510] The Scottish Ministers may by regulations prescribe other matters to be included in the report.
 
 (2) In subsection (1), “**1 year period**” means—
 
 - (a) the period of 1 year beginning with the date specified under section 8(1), and
 - (b) each subsequent period of 1 year.
 
-(3)[^key-5bc5c114518ddfd84bee7672bd0d4db6] Before making regulations under subsection (1A), the Scottish Ministers must consult—
+(3)[^c-5bc5c114518ddfd84bee7672bd0d4db6] Before making regulations under subsection (1A), the Scottish Ministers must consult—
 
 - (a) lead children’s services planning bodies,
 - (b) such other persons as they consider appropriate.
 
 ## Annotations
 
-[^key-a00c206b27a26fd73c4740fa0352307e]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2014/8/section/13) in force at 7.10.2016 by [S.S.I. 2016/254](https://www.legislation.gov.uk/ssi/2016/254), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2016/254/article/3/1/a)
+[^c-a00c206b27a26fd73c4740fa0352307e]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2014/8/section/13) in force at 7.10.2016 by [S.S.I. 2016/254](https://www.legislation.gov.uk/ssi/2016/254), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2016/254/article/3/1/a)
 
-[^key-16dd3bd03979c9f2395096b01b599510]: Textual amendment: [S. 13(1A)](https://www.legislation.gov.uk/asp/2014/8/section/13/1A) inserted (30.9.2026) by [Children (Care, Care Experience and Services Planning) (Scotland) Act 2026 (asp 16)](https://www.legislation.gov.uk/asp/2026/16), [ss. 63(2)(a)](https://www.legislation.gov.uk/asp/2026/16/section/63/2/a), [70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2); [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)
+[^c-16dd3bd03979c9f2395096b01b599510]: Textual amendment: [S. 13(1A)](https://www.legislation.gov.uk/asp/2014/8/section/13/1A) inserted (30.9.2026) by [Children (Care, Care Experience and Services Planning) (Scotland) Act 2026 (asp 16)](https://www.legislation.gov.uk/asp/2026/16), [ss. 63(2)(a)](https://www.legislation.gov.uk/asp/2026/16/section/63/2/a), [70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2); [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)
 
-[^key-5bc5c114518ddfd84bee7672bd0d4db6]: Textual amendment: [S. 13(3)](https://www.legislation.gov.uk/asp/2014/8/section/13/3) inserted (30.9.2026) by [Children (Care, Care Experience and Services Planning) (Scotland) Act 2026 (asp 16)](https://www.legislation.gov.uk/asp/2026/16), [ss. 63(2)(b)](https://www.legislation.gov.uk/asp/2026/16/section/63/2/b), [70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2); [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)
+[^c-5bc5c114518ddfd84bee7672bd0d4db6]: Textual amendment: [S. 13(3)](https://www.legislation.gov.uk/asp/2014/8/section/13/3) inserted (30.9.2026) by [Children (Care, Care Experience and Services Planning) (Scotland) Act 2026 (asp 16)](https://www.legislation.gov.uk/asp/2026/16), [ss. 63(2)(b)](https://www.legislation.gov.uk/asp/2026/16/section/63/2/b), [70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2); [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)

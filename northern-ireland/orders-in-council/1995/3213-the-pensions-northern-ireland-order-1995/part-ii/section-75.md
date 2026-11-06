@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 75. Deficiencies in the assets[^key-aaf3e611300e20a58e5ef736980dbfc9][^key-41174e4cae7d6ec5078d201bd9701170][^key-1981d1944f04ad63c2a219c5e23b17dc][^key-b7a1ca6253f7831b7b4cabb6d8eaa13b]
+## 75. Deficiencies in the assets[^c-aaf3e611300e20a58e5ef736980dbfc9][^c-41174e4cae7d6ec5078d201bd9701170][^c-1981d1944f04ad63c2a219c5e23b17dc][^c-b7a1ca6253f7831b7b4cabb6d8eaa13b]
 
 *Extent: N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) a money purchase scheme, or
 - (b) a prescribed scheme or a scheme of a prescribed description.
 
-(1A)[^key-e8bf6d37b442964f599f76b980381837] Where a pension scheme is divided into sections, each section that is a collective money purchase scheme for the purposes of Part 2 of the Pension Schemes Act 2021 (see section 52(2)(b) of that Act) is to be treated for the purposes of this Article as a separate occupational pension scheme which is a money purchase scheme.
+(1A)[^c-e8bf6d37b442964f599f76b980381837] Where a pension scheme is divided into sections, each section that is a collective money purchase scheme for the purposes of Part 2 of the Pension Schemes Act 2021 (see section 52(2)(b) of that Act) is to be treated for the purposes of this Article as a separate occupational pension scheme which is a money purchase scheme.
 
 (2)[^c17251691] [^c17251701]If—
 
@@ -148,17 +148,17 @@ this Article has effect as if that resolution had never been passed and any debt
 
 ## Annotations
 
-[^key-aaf3e611300e20a58e5ef736980dbfc9]: Modification: Art. 75 applied (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [21(3)](https://www.legislation.gov.uk/nisr/2014/204/regulation/21/3)
+[^c-aaf3e611300e20a58e5ef736980dbfc9]: Modification: Art. 75 applied (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [21(3)](https://www.legislation.gov.uk/nisr/2014/204/regulation/21/3)
 
-[^key-41174e4cae7d6ec5078d201bd9701170]: Modification: Art. 75 applied (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [23(2)](https://www.legislation.gov.uk/nisr/2014/204/regulation/23/2)
+[^c-41174e4cae7d6ec5078d201bd9701170]: Modification: Art. 75 applied (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [23(2)](https://www.legislation.gov.uk/nisr/2014/204/regulation/23/2)
 
-[^key-1981d1944f04ad63c2a219c5e23b17dc]: Modification: Art. 75 excluded (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [19(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/19/1)
+[^c-1981d1944f04ad63c2a219c5e23b17dc]: Modification: Art. 75 excluded (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [19(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/19/1)
 
-[^key-b7a1ca6253f7831b7b4cabb6d8eaa13b]: Modification: Art. 75 applied (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [20(4)](https://www.legislation.gov.uk/nisr/2014/204/regulation/20/4)
+[^c-b7a1ca6253f7831b7b4cabb6d8eaa13b]: Modification: Art. 75 applied (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [20(4)](https://www.legislation.gov.uk/nisr/2014/204/regulation/20/4)
 
 [^c17251681]: Textual amendment: Art. 75(1)-(4C) substituted for art. 75(1)-(4) by [The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1))](https://www.legislation.gov.uk/nisi/2005/255), [arts. 1](https://www.legislation.gov.uk/nisi/2005/255/article/1), [248](https://www.legislation.gov.uk/nisi/2005/255/article/248)
 
-[^key-e8bf6d37b442964f599f76b980381837]: Textual amendment: [Art. 75(1A)](https://www.legislation.gov.uk/nisi/1995/3213/article/75/1A) inserted (11.2.2021 for specified purposes, 1.8.2022 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2021/1/schedule/6/paragraph/8); [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-e8bf6d37b442964f599f76b980381837]: Textual amendment: [Art. 75(1A)](https://www.legislation.gov.uk/nisi/1995/3213/article/75/1A) inserted (11.2.2021 for specified purposes, 1.8.2022 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2021/1/schedule/6/paragraph/8); [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
 
 [^c17251691]: Modification: mod. by [2005 NI 1](https://www.legislation.gov.uk/nisi/2005)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78A. Cancellation of postal ballot papers[^M_C_a22aa742-2178-4c19-81d3-220b5480fb04][^key-927ac98b6fbc1da994543cee15fe8ef1][^key-7545d0e5353f896fa7110d8ce9118820]
+## 78A. Cancellation of postal ballot papers[^M_C_a22aa742-2178-4c19-81d3-220b5480fb04][^c-927ac98b6fbc1da994543cee15fe8ef1][^c-7545d0e5353f896fa7110d8ce9118820]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ is granted or a notice under paragraph 6(10) of that Schedule (cancellation of p
 
 [^M_C_a22aa742-2178-4c19-81d3-220b5480fb04]: Modification: Reg. 78A applied (with modifications) (E.) (6.4.2014) by [S.I. 2012/2031](https://www.legislation.gov.uk/uksi/2012/2031), [regs. 8](https://www.legislation.gov.uk/uksi/2012/2031/regulation/8), [12](https://www.legislation.gov.uk/uksi/2012/2031/regulation/12), [13](https://www.legislation.gov.uk/uksi/2012/2031/regulation/13), [Sch. 4 Pt. 1 Table 6](https://www.legislation.gov.uk/uksi/2012/2031/schedule/4/part/1) (as amended by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [10(a)](https://www.legislation.gov.uk/uksi/2014/333/regulation/10/a), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/333/schedule/2) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7)))
 
-[^key-927ac98b6fbc1da994543cee15fe8ef1]: Modification: [Reg. 78A](https://www.legislation.gov.uk/uksi/2001/341/regulation/78A) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 33](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/33)
+[^c-927ac98b6fbc1da994543cee15fe8ef1]: Modification: [Reg. 78A](https://www.legislation.gov.uk/uksi/2001/341/regulation/78A) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 33](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/33)
 
-[^key-7545d0e5353f896fa7110d8ce9118820]: Textual amendment: Reg. 78A inserted (6.4.2014) by [The Representation of the People (England and Wales) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3198)](https://www.legislation.gov.uk/uksi/2013/3198), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3/b), [30](https://www.legislation.gov.uk/uksi/2013/3198/regulation/30); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/414/article/3/a)
+[^c-7545d0e5353f896fa7110d8ce9118820]: Textual amendment: Reg. 78A inserted (6.4.2014) by [The Representation of the People (England and Wales) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3198)](https://www.legislation.gov.uk/uksi/2013/3198), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3/b), [30](https://www.legislation.gov.uk/uksi/2013/3198/regulation/30); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/414/article/3/a)

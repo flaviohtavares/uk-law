@@ -24,7 +24,7 @@ summary: ''
 
 (2) An account shall be taken of what is due from each party to the other in respect of the mutual dealings and the sums due from one party shall be set off against the sums due from the other.
 
-(3) Sums due from the bankrupt to another party shall not be included in the account taken under subsection (2) if that other party had notice at the time they became due that proceedings on a bankruptcy application relating to the bankrupt were ongoing or that[^key-4814c885c22f18429bf6949e2b71a8fd] a bankruptcy petition relating to the bankrupt was pending.
+(3) Sums due from the bankrupt to another party shall not be included in the account taken under subsection (2) if that other party had notice at the time they became due that proceedings on a bankruptcy application relating to the bankrupt were ongoing or that[^c-4814c885c22f18429bf6949e2b71a8fd] a bankruptcy petition relating to the bankrupt was pending.
 
 (4) Only the balance (if any) of the account taken under subsection (2) is provable as a bankruptcy debt or, as the case may be, to be paid to the trustee as part of the bankrupt’s estate.
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c15579881]: Modification: S.323 applied with modifications by [S.I. 1986/1999](https://www.legislation.gov.uk/uksi/1986/1999), [art. 3](https://www.legislation.gov.uk/uksi/1986/1999/article/3), [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/1986/1999/schedule/1/part/II)
 
-[^key-4814c885c22f18429bf6949e2b71a8fd]: Textual amendment: Words in s. 323(3) inserted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 27](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/27); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
+[^c-4814c885c22f18429bf6949e2b71a8fd]: Textual amendment: Words in s. 323(3) inserted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 27](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/27); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))

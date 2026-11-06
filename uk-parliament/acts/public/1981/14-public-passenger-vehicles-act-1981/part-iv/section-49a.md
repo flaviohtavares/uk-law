@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) Subject to subsection (2) below, a traffic commissioner may review and, if he thinks fit, vary or revoke any decision of his, or of another traffic commissioner[^key-af4206a73bd890ba7b13a27b02b6b0e4]—
+(1) Subject to subsection (2) below, a traffic commissioner may review and, if he thinks fit, vary or revoke any decision of his, or of another traffic commissioner[^c-af4206a73bd890ba7b13a27b02b6b0e4]—
 
 - (a) to grant or refuse an application for a PSV operator’s licence; or
 - (b) to grant or refuse an application for the variation of a PSV operator’s licence,
@@ -29,8 +29,8 @@ if he is satisfied that a procedural requirement imposed by or under this Act ha
 
 (2) A traffic commissioner may only review a decision under subsection (1) above—
 
-- (a) if, within such period after the taking of the decision[^key-fa71ac0c39f9c72fe67caa5a5fc08c80] as may be prescribed, he or another traffic commissioner has given to the applicant or (as the case may be) the licence-holder notice of intention to review the decision;
-- (b) if, within that period, a person who appears to him to have an interest in the decision has requested that the decision be reviewed by a traffic commissioner[^key-35575219ffeccf9f88b76cdcd2409974]; or
+- (a) if, within such period after the taking of the decision[^c-fa71ac0c39f9c72fe67caa5a5fc08c80] as may be prescribed, he or another traffic commissioner has given to the applicant or (as the case may be) the licence-holder notice of intention to review the decision;
+- (b) if, within that period, a person who appears to him to have an interest in the decision has requested that the decision be reviewed by a traffic commissioner[^c-35575219ffeccf9f88b76cdcd2409974]; or
 - (c) where neither paragraph (a) nor paragraph (b) above applies, if he considers there to be exceptional circumstances that justify the review.
 
 (3) Regulations may make provision as to the manner in which notices under subsection (2)(a) above are to be or may be served, including provision as to the circumstances in which and time at which any such notice is to be treated as having been duly served (whether or not it has in fact been served).
@@ -41,8 +41,8 @@ if he is satisfied that a procedural requirement imposed by or under this Act ha
 
 [^c16021801]: Textual amendment: S. 49A inserted (1.1.1996) by [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40), [s. 65(1)](https://www.legislation.gov.uk/ukpga/1994/40/section/65/1); [S.I. 1995/2835](https://www.legislation.gov.uk/uksi/1995/2835), [art. 2](https://www.legislation.gov.uk/uksi/1995/2835/article/2)
 
-[^key-af4206a73bd890ba7b13a27b02b6b0e4]: Textual amendment: Words in s. 49A(1) inserted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-af4206a73bd890ba7b13a27b02b6b0e4]: Textual amendment: Words in s. 49A(1) inserted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
 
-[^key-fa71ac0c39f9c72fe67caa5a5fc08c80]: Textual amendment: Words in s. 49A(2)(a) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-fa71ac0c39f9c72fe67caa5a5fc08c80]: Textual amendment: Words in s. 49A(2)(a) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
 
-[^key-35575219ffeccf9f88b76cdcd2409974]: Textual amendment: Words in s. 49A(2)(b) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-35575219ffeccf9f88b76cdcd2409974]: Textual amendment: Words in s. 49A(2)(b) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))

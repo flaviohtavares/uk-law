@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Discharge of water[^key-b2b9985d44c0345f8da8d62b4a51b40d]
+## 16. Discharge of water[^c-b2b9985d44c0345f8da8d62b4a51b40d]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 
 (6) The Secretary of State must take such steps as are reasonably practicable to secure that any water discharged into a watercourse or public sewer or drain under the powers conferred by this article is as free as may be practicable from gravel, soil or other solid substance, oil or matter in suspension.
 
-(7) Nothing in this article overrides the requirement for an environmental permit under regulation 12(1)(b) (requirement for environmental permit) of the Environmental Permitting (England and Wales) Regulations 2016[^key-0a96a6473d8d2de37412a5c67ebf6210].
+(7) Nothing in this article overrides the requirement for an environmental permit under regulation 12(1)(b) (requirement for environmental permit) of the Environmental Permitting (England and Wales) Regulations 2016[^c-0a96a6473d8d2de37412a5c67ebf6210].
 
 (8) In this article—
 
@@ -46,10 +46,10 @@ summary: ''
 
 ## Annotations
 
-[^key-b2b9985d44c0345f8da8d62b4a51b40d]: Commencement: Art. 16 in force at 25.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/129/article/1)
+[^c-b2b9985d44c0345f8da8d62b4a51b40d]: Commencement: Art. 16 in force at 25.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/129/article/1)
 
 [^f00027]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56), Section 106 was amended by section 35(1) and (8) of, and Schedule 2 to, the Competition and Service (Utilities) Act [1992 (c. 43)](https://www.legislation.gov.uk/ukpga/1992/43), sections 36(2) and 99 of the Water Act [2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37) and paragraph 16(1) of Schedule 3 to the Flood and Water Management Act [2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29).
 
-[^key-0a96a6473d8d2de37412a5c67ebf6210]: Textual amendment: Words in [art. 16(7)](https://www.legislation.gov.uk/uksi/2015/129/article/16/7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 80(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/80/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-0a96a6473d8d2de37412a5c67ebf6210]: Textual amendment: Words in [art. 16(7)](https://www.legislation.gov.uk/uksi/2015/129/article/16/7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 80(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/80/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
 [^f00029]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).

@@ -110,7 +110,7 @@ The Articles of the 1978 Order referred to in paragraph 1 apply as if—
     ; and
 - (n) in Article 31—
   - (i) in paragraph (1), sub-paragraphs (a) to (i) and (k) to (m) were omitted;
-  - (ii)[^key-f161e654cfec4114e8264ce3e251a224] for paragraph (2), there were substituted—
+  - (ii)[^c-f161e654cfec4114e8264ce3e251a224] for paragraph (2), there were substituted—
 
     > (2) A person guilty of an offence under this Article is liable—
     >
@@ -127,4 +127,4 @@ The Articles of the 1978 Order referred to in paragraph 1 apply as if—
 
 ## Annotations
 
-[^key-f161e654cfec4114e8264ce3e251a224]: Textual amendment: [Sch. 5 para. 2(n)(ii)](https://www.legislation.gov.uk/uksi/2016/1101/schedule/5/paragraph/2/n/ii) substituted (1.10.2018) by [The Simple Pressure Vessels, Electrical Equipment and Pressure Equipment (Miscellaneous Amendments) (Northern Ireland) Regulations 2018 (S.I. 2018/966)](https://www.legislation.gov.uk/uksi/2018/966), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/966/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/966/regulation/3/2) (with [reg. 1(2)-(4)](https://www.legislation.gov.uk/uksi/2018/966/regulation/1/2))
+[^c-f161e654cfec4114e8264ce3e251a224]: Textual amendment: [Sch. 5 para. 2(n)(ii)](https://www.legislation.gov.uk/uksi/2016/1101/schedule/5/paragraph/2/n/ii) substituted (1.10.2018) by [The Simple Pressure Vessels, Electrical Equipment and Pressure Equipment (Miscellaneous Amendments) (Northern Ireland) Regulations 2018 (S.I. 2018/966)](https://www.legislation.gov.uk/uksi/2018/966), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/966/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/966/regulation/3/2) (with [reg. 1(2)-(4)](https://www.legislation.gov.uk/uksi/2018/966/regulation/1/2))

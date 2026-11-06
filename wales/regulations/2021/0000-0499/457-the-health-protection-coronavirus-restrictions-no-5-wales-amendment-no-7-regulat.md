@@ -53,13 +53,13 @@ The Welsh Ministers consider that restrictions and requirements imposed by these
 
 In accordance with section 45R of that Act the Welsh Ministers are of the opinion that, by reason of urgency, it is necessary to make this instrument without a draft having been laid before, and approved by a resolution of, Senedd Cymru.
 
-## 1. Title and coming into force[^key-291cec425ae9f6e8516976da66e69276]
+## 1. Title and coming into force[^c-291cec425ae9f6e8516976da66e69276]
 
 (1) The title of these Regulations is the Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 7) Regulations 2021.
 
 (2) These Regulations come into force immediately before the start of the day on 12 April 2021.
 
-## 2. Amendment of the Health Protection (Coronavirus Restrictions) (No. 5) (Wales) Regulations 2020[^key-17653920a36ccff97f691f404e82006b]
+## 2. Amendment of the Health Protection (Coronavirus Restrictions) (No. 5) (Wales) Regulations 2020[^c-17653920a36ccff97f691f404e82006b]
 
 (1) The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) Regulations 2020[^f00002] are amended as follows.
 
@@ -432,7 +432,7 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
 > - (a) “specialist aerospace engineer” means a person who is employed or otherwise engaged to provide engineering services for the purpose of ensuring the continued operation of aviation activities (including but not limited to the provision of maintenance and repair services for production lines, aviation components, grounded aircraft and new aircraft);
 > - (b) “specialist aerospace worker” means a person who is employed or otherwise engaged to provide services for the purpose of ensuring safety management and quality assurance as required by relevant standards, guidance and publications on aviation safety produced by the Civil Aviation Authority or the European Union Aviation Safety Agency[^f00024].
 
-## 3. Amendment of the Health Protection (Coronavirus, Public Health Information for Persons Travelling to Wales etc.) Regulations 2020[^key-304629251be568e6d570f664637e15b9]
+## 3. Amendment of the Health Protection (Coronavirus, Public Health Information for Persons Travelling to Wales etc.) Regulations 2020[^c-304629251be568e6d570f664637e15b9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -473,9 +473,9 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22). Sections 45B, 45C, 45F and 45P were inserted by section 129 of the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14). The functions under these sections are conferred on “the appropriate Minister”. Under section 45T(6) of the 1984 Act the appropriate Minister, as respects Wales, is the Welsh Ministers.
 
-[^key-291cec425ae9f6e8516976da66e69276]: Commencement: Reg. 1 in force at 12.4.2021 immediately before the start of the day., see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/457/regulation/1/2)
+[^c-291cec425ae9f6e8516976da66e69276]: Commencement: Reg. 1 in force at 12.4.2021 immediately before the start of the day., see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/457/regulation/1/2)
 
-[^key-17653920a36ccff97f691f404e82006b]: Commencement: Reg. 2 in force at 12.4.2021 immediately before the start of the day., see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/457/regulation/1/2)
+[^c-17653920a36ccff97f691f404e82006b]: Commencement: Reg. 2 in force at 12.4.2021 immediately before the start of the day., see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/457/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2020/1609 (W. 335)](https://www.legislation.gov.uk/wsi/2020/1609) as amended by [S.I. 2020/1610 (W. 336)](https://www.legislation.gov.uk/wsi/2020/1610), [S.I. 2020/1623 (W. 340)](https://www.legislation.gov.uk/wsi/2020/1623), [S.I. 2020/1645 (W. 345)](https://www.legislation.gov.uk/wsi/2020/1645), [S.I. 2021/20 (W. 7)](https://www.legislation.gov.uk/wsi/2021/20), [S.I. 2021/46 (W. 10)](https://www.legislation.gov.uk/wsi/2021/46), [S.I. 2021/57 (W. 13)](https://www.legislation.gov.uk/wsi/2021/57), [S.I. 2021/66 (W. 15)](https://www.legislation.gov.uk/wsi/2021/66), [S.I. 2021/95 (W. 26)](https://www.legislation.gov.uk/wsi/2021/95), [S.I. 2021/103 (W. 28)](https://www.legislation.gov.uk/wsi/2021/103), [S.I. 2021/172 (W. 40)](https://www.legislation.gov.uk/wsi/2021/172), [S.I. 2021/210 (W. 52)](https://www.legislation.gov.uk/wsi/2021/210), [S.I. 2021/307 (W. 79)](https://www.legislation.gov.uk/wsi/2021/307) and [S.I 2021/413 (W. 133)](https://www.legislation.gov.uk/wsi/2021/413) .
 
@@ -523,4 +523,4 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00024]: Footnote: The Civil Aviation Authority was established under section 1(1) of the Civil Aviation Act [1971 (c. 75)](https://www.legislation.gov.uk/ukpga/1971/75). That Act was replaced by a consolidating statute, the Civil Aviation Act [1982 (c. 16)](https://www.legislation.gov.uk/ukpga/1982/16), section 2(1) of which provides for the continued existence of the Civil Aviation Authority. There are amendments to section 2 but none is relevant. The European Union Aviation Safety Agency was established by Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations [(EC) No 2111/2005](https://www.legislation.gov.uk/european/regulation/2005/2111), [(EC) No 1008/2008](https://www.legislation.gov.uk/european/regulation/2008/1008), (EU) No 996/2010, (EU) No 376/2014 and Directives [2014/30/EU](https://www.legislation.gov.uk/european/directive/2014/0030) and [2014/53/EU](https://www.legislation.gov.uk/european/directive/2014/0053) of the European Parliament and of the Council, and repealing Regulations [(EC) No 552/2004](https://www.legislation.gov.uk/european/regulation/2004/0552) and [(EC) No 216/2008](https://www.legislation.gov.uk/european/regulation/2008/0216) of the European Parliament and of the Council and [Council Regulation (EEC) No 3922/91](https://www.legislation.gov.uk/european/regulation/1991/3922).
 
-[^key-304629251be568e6d570f664637e15b9]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2021/457/regulation/3) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 65](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/65)
+[^c-304629251be568e6d570f664637e15b9]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2021/457/regulation/3) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 65](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/65)

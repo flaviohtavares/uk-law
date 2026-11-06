@@ -14,9 +14,9 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2006/214
 
-## 12D. Eligible rent and maximum rent ( LHA )[^key-40886efb9e5f41f98addf3d975e77077]
+## 12D. Eligible rent and maximum rent ( LHA )[^c-40886efb9e5f41f98addf3d975e77077]
 
-(1) Except where regulation 12M (transitional protection – reduction in[^key-b97798fe1db266c05d775f05b3ff3949] LHA) applies, this regulation applies where, by virtue of paragraphs (2) or (3) of regulation 13C (when a maximum rent ( LHA ) is to be determined), a maximum rent ( LHA ) has been, or is to be, determined in accordance with regulation 13D (determination of a maximum rent ( LHA )).
+(1) Except where regulation 12M (transitional protection – reduction in[^c-b97798fe1db266c05d775f05b3ff3949] LHA) applies, this regulation applies where, by virtue of paragraphs (2) or (3) of regulation 13C (when a maximum rent ( LHA ) is to be determined), a maximum rent ( LHA ) has been, or is to be, determined in accordance with regulation 13D (determination of a maximum rent ( LHA )).
 
 (2) Where this regulation applies, except where paragraphs (3)(a) (protection on death) or (5)(a) (13 week protection) apply,—
 
@@ -33,7 +33,7 @@ summary: ''
   - (ii) in a case where there was no eligible rent, subject to regulation 12B(3) (mixed use accommodation), (4) (more than one person liable to make payments) and (6) (discretion in relation to eligible rent), the reckonable rent due on that day; or
 - (b) the eligible rent determined in accordance with paragraph (2), where it is equal to or more than the eligible rent determined in accordance with sub-paragraph (a).
 
-(4)[^key-363751fdf9a3b65d6d5cec388f0ee5d4] For the purpose of paragraph (3), a claimant is treated as occupying the dwelling if—
+(4)[^c-363751fdf9a3b65d6d5cec388f0ee5d4] For the purpose of paragraph (3), a claimant is treated as occupying the dwelling if—
 
 - (a) any of paragraphs (13), (13D) (with (13E) where applicable) or (13G) of regulation 7 (circumstances in which a person is or is not to be treated as occupying a dwelling as his home) is satisfied and for that purpose those paragraphs shall have effect as if sub-paragraph (b) of those paragraphs were omitted; or
 - (b) any of paragraphs (17), (17C) or (17D) of regulation 7 is satisfied and for that purpose those paragraphs shall have effect as if sub-paragraph (b) of paragraph (16) of that regulation were omitted.
@@ -62,8 +62,8 @@ summary: ''
 
 ## Annotations
 
-[^key-40886efb9e5f41f98addf3d975e77077]: Textual amendment: Regs. 12B-12D inserted (with application in accordance with reg. 1(5)(6)(7) of the amending S.I.) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2007/2869/regulation/5)
+[^c-40886efb9e5f41f98addf3d975e77077]: Textual amendment: Regs. 12B-12D inserted (with application in accordance with reg. 1(5)(6)(7) of the amending S.I.) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2007/2869/regulation/5)
 
-[^key-b97798fe1db266c05d775f05b3ff3949]: Textual amendment: Words in reg. 12D(1) inserted (1.4.2011) by [The Housing Benefit (Amendment) Regulations 2010 (S.I. 2010/2835)](https://www.legislation.gov.uk/uksi/2010/2835), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2835/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2010/2835/regulation/3/3)
+[^c-b97798fe1db266c05d775f05b3ff3949]: Textual amendment: Words in reg. 12D(1) inserted (1.4.2011) by [The Housing Benefit (Amendment) Regulations 2010 (S.I. 2010/2835)](https://www.legislation.gov.uk/uksi/2010/2835), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2835/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2010/2835/regulation/3/3)
 
-[^key-363751fdf9a3b65d6d5cec388f0ee5d4]: Textual amendment: Reg. 12D(4) substituted (28.7.2016) by [The Housing Benefit and State Pension Credit (Temporary Absence) (Amendment) Regulations 2016 (S.I. 2016/624)](https://www.legislation.gov.uk/uksi/2016/624), [regs. 1](https://www.legislation.gov.uk/uksi/2016/624/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2016/624/regulation/3/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2016/624/regulation/5/1)[(2)](https://www.legislation.gov.uk/uksi/2016/624/regulation/5/2))
+[^c-363751fdf9a3b65d6d5cec388f0ee5d4]: Textual amendment: Reg. 12D(4) substituted (28.7.2016) by [The Housing Benefit and State Pension Credit (Temporary Absence) (Amendment) Regulations 2016 (S.I. 2016/624)](https://www.legislation.gov.uk/uksi/2016/624), [regs. 1](https://www.legislation.gov.uk/uksi/2016/624/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2016/624/regulation/3/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2016/624/regulation/5/1)[(2)](https://www.legislation.gov.uk/uksi/2016/624/regulation/5/2))

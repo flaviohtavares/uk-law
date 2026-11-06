@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Interception in prisons[^key-684d7f6fbdfd7daf4ddb181e41519f23]
+## 49. Interception in prisons[^c-684d7f6fbdfd7daf4ddb181e41519f23]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ and includes any contracted out prison, within the meaning of Part 4 of the Crim
 
 ## Annotations
 
-[^key-684d7f6fbdfd7daf4ddb181e41519f23]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2016/25/section/49) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(p)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/p)
+[^c-684d7f6fbdfd7daf4ddb181e41519f23]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2016/25/section/49) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(p)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/p)

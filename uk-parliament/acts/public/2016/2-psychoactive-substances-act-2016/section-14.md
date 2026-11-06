@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Premises notices[^key-6ac8b2b7590eb57b964ffff7299f2afb]
+## 14. Premises notices[^c-6ac8b2b7590eb57b964ffff7299f2afb]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ac8b2b7590eb57b964ffff7299f2afb]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2016/2/section/14) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-6ac8b2b7590eb57b964ffff7299f2afb]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2016/2/section/14) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

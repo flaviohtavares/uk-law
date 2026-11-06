@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) A member of the information sharing group may, for the purposes of exercising that member's specified functions in relation to a principal council or a corporate joint committee[^key-9050de5d5f2eb9c82fc81a08eb9d56d1], request that another member of the information sharing group provide information or a document.
+(1) A member of the information sharing group may, for the purposes of exercising that member's specified functions in relation to a principal council or a corporate joint committee[^c-9050de5d5f2eb9c82fc81a08eb9d56d1], request that another member of the information sharing group provide information or a document.
 
 (2) A member of the information sharing group must provide information or a document requested under subsection (1), to the extent that—
 
@@ -37,11 +37,11 @@ the member may provide that information or document.
 (4) The functions mentioned in subsection (3) are—
 
 - (a) functions of the Welsh Ministers under Part 5 (collaborative working by principal councils);
-- (b)[^key-cdd3e00dce2fdeb4969da8ca5ce019fa] functions of the Auditor General for Wales or the Welsh Ministers under Chapter 1 of Part 6 (performance and governance of principal councils);
-- (ba)[^key-c4c8652d79a9d6ad927fbdaa142558ba] functions of the Auditor General for Wales or the Welsh Ministers under Chapter 1A of Part 6 (performance of corporate joint committees);
-- (c)[^key-cdd3e00dce2fdeb4969da8ca5ce019fa] functions of the Welsh Ministers under Chapter 2 of Part 7 (restructuring of principal areas).
+- (b)[^c-cdd3e00dce2fdeb4969da8ca5ce019fa] functions of the Auditor General for Wales or the Welsh Ministers under Chapter 1 of Part 6 (performance and governance of principal councils);
+- (ba)[^c-c4c8652d79a9d6ad927fbdaa142558ba] functions of the Auditor General for Wales or the Welsh Ministers under Chapter 1A of Part 6 (performance of corporate joint committees);
+- (c)[^c-cdd3e00dce2fdeb4969da8ca5ce019fa] functions of the Welsh Ministers under Chapter 2 of Part 7 (restructuring of principal areas).
 
-(5)[^key-a8b46b3bed3ee265360365aee4b5c7b7] For the purposes of this section—
+(5)[^c-a8b46b3bed3ee265360365aee4b5c7b7] For the purposes of this section—
 
 - (a) a person is a member of the information sharing group if that person is mentioned in the first column of table 2;
 - (b) the specified functions of the members of the information sharing group are the functions mentioned in the second column.
@@ -61,7 +61,7 @@ TABLE 2
 </tbody>
 </table>
 
-[^key-505ef1be3c34354df00d57802a8c19b5][^key-11e546b994151137eec148c33765c13d]
+[^c-505ef1be3c34354df00d57802a8c19b5][^c-11e546b994151137eec148c33765c13d]
 
 (6) The Welsh Ministers may by regulations amend table 2 to—
 
@@ -80,7 +80,7 @@ TABLE 2
 
 (9) In this section ”document“ includes information recorded in any form.
 
-(10)[^key-1d5eb264b7f26391313de02d3f385021] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-1d5eb264b7f26391313de02d3f385021] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -90,16 +90,16 @@ TABLE 2
 
 [^c24522451]: Commencement: S. 159(6)-(10) in force at 21.1.2021, see [s. 175(1)(g)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/g)
 
-[^key-9050de5d5f2eb9c82fc81a08eb9d56d1]: Textual amendment: Words in [s. 159(1)](https://www.legislation.gov.uk/asc/2021/1/section/159/1) inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [7(a)](https://www.legislation.gov.uk/wsi/2022/797/regulation/7/a)
+[^c-9050de5d5f2eb9c82fc81a08eb9d56d1]: Textual amendment: Words in [s. 159(1)](https://www.legislation.gov.uk/asc/2021/1/section/159/1) inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [7(a)](https://www.legislation.gov.uk/wsi/2022/797/regulation/7/a)
 
-[^key-cdd3e00dce2fdeb4969da8ca5ce019fa]: Commencement: S. 159(4)(b)(c) in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(e)](https://www.legislation.gov.uk/uksi/2021/297/article/2/e)
+[^c-cdd3e00dce2fdeb4969da8ca5ce019fa]: Commencement: S. 159(4)(b)(c) in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(e)](https://www.legislation.gov.uk/uksi/2021/297/article/2/e)
 
-[^key-c4c8652d79a9d6ad927fbdaa142558ba]: Textual amendment: [S. 159(4)(ba)](https://www.legislation.gov.uk/asc/2021/1/section/159/4/ba) inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [7(b)](https://www.legislation.gov.uk/wsi/2022/797/regulation/7/b)
+[^c-c4c8652d79a9d6ad927fbdaa142558ba]: Textual amendment: [S. 159(4)(ba)](https://www.legislation.gov.uk/asc/2021/1/section/159/4/ba) inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [7(b)](https://www.legislation.gov.uk/wsi/2022/797/regulation/7/b)
 
-[^key-a8b46b3bed3ee265360365aee4b5c7b7]: Commencement: S. 159(5) in force at 1.4.2021 in so far as not already in force by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(e)](https://www.legislation.gov.uk/uksi/2021/297/article/2/e)
+[^c-a8b46b3bed3ee265360365aee4b5c7b7]: Commencement: S. 159(5) in force at 1.4.2021 in so far as not already in force by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(e)](https://www.legislation.gov.uk/uksi/2021/297/article/2/e)
 
-[^key-505ef1be3c34354df00d57802a8c19b5]: Textual amendment: Words in [s. 159(5)](https://www.legislation.gov.uk/asc/2021/1/section/159/5) Table 2 inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [7(c)(i)](https://www.legislation.gov.uk/wsi/2022/797/regulation/7/c/i)
+[^c-505ef1be3c34354df00d57802a8c19b5]: Textual amendment: Words in [s. 159(5)](https://www.legislation.gov.uk/asc/2021/1/section/159/5) Table 2 inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [7(c)(i)](https://www.legislation.gov.uk/wsi/2022/797/regulation/7/c/i)
 
-[^key-11e546b994151137eec148c33765c13d]: Textual amendment: Words in [s. 159(5)](https://www.legislation.gov.uk/asc/2021/1/section/159/5) Table 2 inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [7(c)(ii)](https://www.legislation.gov.uk/wsi/2022/797/regulation/7/c/ii)
+[^c-11e546b994151137eec148c33765c13d]: Textual amendment: Words in [s. 159(5)](https://www.legislation.gov.uk/asc/2021/1/section/159/5) Table 2 inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [7(c)(ii)](https://www.legislation.gov.uk/wsi/2022/797/regulation/7/c/ii)
 
-[^key-1d5eb264b7f26391313de02d3f385021]: Textual amendment: [S. 159(10)](https://www.legislation.gov.uk/asc/2021/1/section/159/10) omitted (1.4.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 113(h)](https://www.legislation.gov.uk/asc/2021/1/section/113/h), [175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7); [S.I. 2021/297](https://www.legislation.gov.uk/wsi/2021/297), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2021/297/regulation/2/b) (with [regs. 4](https://www.legislation.gov.uk/wsi/2021/297/regulation/4), [5](https://www.legislation.gov.uk/wsi/2021/297/regulation/5), [7-9](https://www.legislation.gov.uk/wsi/2021/297/regulation/7))
+[^c-1d5eb264b7f26391313de02d3f385021]: Textual amendment: [S. 159(10)](https://www.legislation.gov.uk/asc/2021/1/section/159/10) omitted (1.4.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 113(h)](https://www.legislation.gov.uk/asc/2021/1/section/113/h), [175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7); [S.I. 2021/297](https://www.legislation.gov.uk/wsi/2021/297), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2021/297/regulation/2/b) (with [regs. 4](https://www.legislation.gov.uk/wsi/2021/297/regulation/4), [5](https://www.legislation.gov.uk/wsi/2021/297/regulation/5), [7-9](https://www.legislation.gov.uk/wsi/2021/297/regulation/7))

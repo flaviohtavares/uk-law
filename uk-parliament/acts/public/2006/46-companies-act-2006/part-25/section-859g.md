@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-[^key-f20547d36b7be1b059aa2957aa3ab372]
+[^c-f20547d36b7be1b059aa2957aa3ab372]
 
 (1) The following are not required to be included in a certified copy of an instrument or debenture delivered to the registrar for the purposes of any provision of this Chapter—
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c22573541]: Textual amendment: Pt. 25 Ch. A1 inserted (6.4.2013) by [The Companies Act 2006 (Amendment of Part 25) Regulations 2013 (S.I. 2013/600)](https://www.legislation.gov.uk/uksi/2013/600), [regs. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1), [2](https://www.legislation.gov.uk/uksi/2013/600/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/600/schedule/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2013/600/regulation/6))
 
-[^key-f20547d36b7be1b059aa2957aa3ab372]: Modification: Pt. 25 modified (10.1.2015) by [The Building Societies (Bail-in) Order 2014 (S.I. 2014/3344)](https://www.legislation.gov.uk/uksi/2014/3344), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2014/3344/article/3/3)
+[^c-f20547d36b7be1b059aa2957aa3ab372]: Modification: Pt. 25 modified (10.1.2015) by [The Building Societies (Bail-in) Order 2014 (S.I. 2014/3344)](https://www.legislation.gov.uk/uksi/2014/3344), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2014/3344/article/3/3)

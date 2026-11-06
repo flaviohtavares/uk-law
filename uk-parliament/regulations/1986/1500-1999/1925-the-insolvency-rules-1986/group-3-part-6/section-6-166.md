@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.166. Committee's functions vested in Secretary of State[^key-fad8a4b92c7eb85d67c58ffb4cc57cde]
+## 6.166. Committee's functions vested in Secretary of State[^c-fad8a4b92c7eb85d67c58ffb4cc57cde]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fad8a4b92c7eb85d67c58ffb4cc57cde]: Commencement: [Rule 6.166](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.166) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-fad8a4b92c7eb85d67c58ffb4cc57cde]: Commencement: [Rule 6.166](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.166) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -35,22 +35,22 @@ amending Regulations (EU) No 1316/2013 and (EU) No 283/2014 as regards the pro
 
 (Text with EEA relevance) (revoked)
 
-[^key-da8946cefa28f3f5d1bc831851f41f4d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-da8946cefa28f3f5d1bc831851f41f4d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Amendments to Regulation (EU) No 1316/2013[^key-da8946cefa28f3f5d1bc831851f41f4d]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Amendments to Regulation (EU) No 283/2014[^key-da8946cefa28f3f5d1bc831851f41f4d]
+## Article 1. Amendments to Regulation (EU) No 1316/2013[^c-da8946cefa28f3f5d1bc831851f41f4d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force[^key-da8946cefa28f3f5d1bc831851f41f4d]
+## Article 2. Amendments to Regulation (EU) No 283/2014[^c-da8946cefa28f3f5d1bc831851f41f4d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-da8946cefa28f3f5d1bc831851f41f4d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 3. Entry into force[^c-da8946cefa28f3f5d1bc831851f41f4d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-da8946cefa28f3f5d1bc831851f41f4d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-da8946cefa28f3f5d1bc831851f41f4d]: Textual amendment: Regulation revoked (31.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/246)](https://www.legislation.gov.uk/uksi/2019/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/246/regulation/1/2), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2019/246/schedule/3/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-da8946cefa28f3f5d1bc831851f41f4d]: Textual amendment: Regulation revoked (31.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/246)](https://www.legislation.gov.uk/uksi/2019/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/246/regulation/1/2), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2019/246/schedule/3/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

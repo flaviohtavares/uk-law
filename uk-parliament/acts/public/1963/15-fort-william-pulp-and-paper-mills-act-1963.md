@@ -31,20 +31,20 @@ Fort William Pulp And Paper Mills Act 1963 (repealed)
 
 1963 c. 15
 
-[^key-dbdb5ec064dc15bb52952ce5b05be99d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dbdb5ec064dc15bb52952ce5b05be99d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[15th May 1963\]
 
 **No longer in force.**
 
-## 1. Power of Board to make advances, and grants in respect of interest on advances.[^key-dbdb5ec064dc15bb52952ce5b05be99d][^key-dbdb5ec064dc15bb52952ce5b05be99d]
+## 1. Power of Board to make advances, and grants in respect of interest on advances.[^c-dbdb5ec064dc15bb52952ce5b05be99d][^c-dbdb5ec064dc15bb52952ce5b05be99d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title.[^key-dbdb5ec064dc15bb52952ce5b05be99d][^key-dbdb5ec064dc15bb52952ce5b05be99d]
+## 2. Short title.[^c-dbdb5ec064dc15bb52952ce5b05be99d][^c-dbdb5ec064dc15bb52952ce5b05be99d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dbdb5ec064dc15bb52952ce5b05be99d]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1963/15) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 15](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/15)
+[^c-dbdb5ec064dc15bb52952ce5b05be99d]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1963/15) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 15](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/15)

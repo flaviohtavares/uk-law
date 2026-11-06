@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. Moving from energy administration to dissolution[^key-e58baff183b0235776445ecbb37e8922]
+## 79. Moving from energy administration to dissolution[^c-e58baff183b0235776445ecbb37e8922]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e58baff183b0235776445ecbb37e8922]: Commencement: Rule 79 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-e58baff183b0235776445ecbb37e8922]: Commencement: Rule 79 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

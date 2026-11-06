@@ -25,7 +25,7 @@ summary: ''
 - (a) a child in respect of whom an offence mentioned in paragraph (a) or (b) of subsection (2) below has been committed; or
 - (b) any child who is, or who is likely to become, a member of the same household as the person who has committed an offence mentioned in paragraph (b) or (c) of that subsection or the person in respect of whom the offence so mentioned was committed,
 
-to the Principal Reporter, and certify that the offence shall be a ground established for the purposes of the Children’s Hearings (Scotland) Act[^key-727da91ab8cd41fe6154dbe42c32edd2] [2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1).
+to the Principal Reporter, and certify that the offence shall be a ground established for the purposes of the Children’s Hearings (Scotland) Act[^c-727da91ab8cd41fe6154dbe42c32edd2] [2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1).
 
 (2) This section applies to an offence—
 
@@ -35,6 +35,6 @@ to the Principal Reporter, and certify that the offence shall be a ground establ
 
 ## Annotations
 
-[^key-727da91ab8cd41fe6154dbe42c32edd2]: Textual amendment: Words in s. 48(1) substituted (24.6.2013) by [The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [sch. 1 para. 10(4)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/10/4)
+[^c-727da91ab8cd41fe6154dbe42c32edd2]: Textual amendment: Words in s. 48(1) substituted (24.6.2013) by [The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [sch. 1 para. 10(4)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/10/4)
 
 [^c14468721]: Marginal citation: [1937 c.37](https://www.legislation.gov.uk/ukpga/1937/37).

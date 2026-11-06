@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 201. Royalties.[^key-4d421d46047c5e5390f359942cb799c3]
+## 201. Royalties.[^c-4d421d46047c5e5390f359942cb799c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d421d46047c5e5390f359942cb799c3]: Textual amendment: S. 201 repealed (with effect in accordance with Sch. 39 para. 45(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 45(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/45/1)
+[^c-4d421d46047c5e5390f359942cb799c3]: Textual amendment: S. 201 repealed (with effect in accordance with Sch. 39 para. 45(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 45(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/45/1)

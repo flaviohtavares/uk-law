@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-dab80fe3cf4d8ca890ca82bb3dcefbab]
+## 1. Citation and commencement[^c-dab80fe3cf4d8ca890ca82bb3dcefbab]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Disability Working Allowance (General) Reg
 
 ## Annotations
 
-[^key-dab80fe3cf4d8ca890ca82bb3dcefbab]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
+[^c-dab80fe3cf4d8ca890ca82bb3dcefbab]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)

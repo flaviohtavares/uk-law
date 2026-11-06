@@ -26,7 +26,7 @@ summary: ''
 - (b) in the case of an NHS pharmacist, ceases to carry on a retail pharmacy business; or
 - (c) in the case of an NHS appliance contractor, ceases to carry on a business in the course of which C supplies appliances either by retail sale or in circumstances corresponding to retail sale,
 
-NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] must remove C from the relevant pharmaceutical lists.
+NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] must remove C from the relevant pharmaceutical lists.
 
 (2) Paragraph (1)(a) or (b) shall not apply in the case of an NHS pharmacist, if—
 
@@ -35,7 +35,7 @@ NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] must remove C from the releva
 - (c) the period applicable in accordance with section 72(3) of the 1968 Act has not expired; and
 - (d) the representative has agreed to be bound by, and continues to agree to be bound by, C's terms of service.
 
-(3) If NHS England determines that C has not, during the preceding 6 months, provided pharmaceutical services at or from[^key-3a2fd725974c9f2e867316b5650addca] chemist premises (“the particular premises”) listed in a particular pharmaceutical list—
+(3) If NHS England determines that C has not, during the preceding 6 months, provided pharmaceutical services at or from[^c-3a2fd725974c9f2e867316b5650addca] chemist premises (“the particular premises”) listed in a particular pharmaceutical list—
 
 - (a) if there are other chemist premises listed in that pharmaceutical list in relation to C, NHS England must remove the listing of the particular premises from that list; or
 - (b) if there are no other chemist premises listed in that pharmaceutical list in relation to C, NHS England must remove C from that list.
@@ -66,8 +66,8 @@ and in a case of C ceasing to carry on a business, no account is to be taken of 
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^c21646941]: Marginal citation: Section 72 has been amended by: the [Insolvency Act 1985 (c. 65)](https://www.legislation.gov.uk/ukpga/1985/65), [Schedule 8](https://www.legislation.gov.uk/ukpga/1985/65/schedule/8), [paragraph 15](https://www.legislation.gov.uk/ukpga/1985/65/paragraph/15); the [Insolvency Act 1986 (c. 45)](https://www.legislation.gov.uk/ukpga/1986/45), [Schedule 14](https://www.legislation.gov.uk/ukpga/1986/45/schedule/14); the Adults with [Incapacity (Scotland) Act 2000 (asp 4)](https://www.legislation.gov.uk/asp/2000/4), [Schedule 5](https://www.legislation.gov.uk/asp/2000/4/schedule/5), [paragraph 12](https://www.legislation.gov.uk/asp/2000/4/paragraph/12), and Schedule 6; the [Mental Incapacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [Schedule 6](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6), [paragraph 14](https://www.legislation.gov.uk/ukpga/2005/9/paragraph/14); the [Health Act 2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), [section 29](https://www.legislation.gov.uk/ukpga/2006/28/section/29); and S.I. 1989/ 2405, 2007/289 and 2010/231.
 
-[^key-3a2fd725974c9f2e867316b5650addca]: Textual amendment: Words in [reg. 74(3)](https://www.legislation.gov.uk/uksi/2013/349/regulation/74/3) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [46](https://www.legislation.gov.uk/uksi/2025/989/regulation/46)
+[^c-3a2fd725974c9f2e867316b5650addca]: Textual amendment: Words in [reg. 74(3)](https://www.legislation.gov.uk/uksi/2013/349/regulation/74/3) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [46](https://www.legislation.gov.uk/uksi/2025/989/regulation/46)

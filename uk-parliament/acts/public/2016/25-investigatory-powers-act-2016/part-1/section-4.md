@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Definition of “interception” etc.[^key-32a7acd5d95daa78fcab50a95b9d35d0]
+## 4. Definition of “interception” etc.[^c-32a7acd5d95daa78fcab50a95b9d35d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ For the meaning of “**content**” in relation to a communication, see section
 
 ## Annotations
 
-[^key-32a7acd5d95daa78fcab50a95b9d35d0]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2016/25/section/4) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/652/regulation/2/b)
+[^c-32a7acd5d95daa78fcab50a95b9d35d0]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2016/25/section/4) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/652/regulation/2/b)

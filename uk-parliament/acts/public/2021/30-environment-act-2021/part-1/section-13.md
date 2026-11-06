@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Renewing environmental improvement plans[^key-d85dbb436a18cdafe4653450d05d3341][^key-8c39a63bcca86ae808e4dc2f484b0db1]
+## 13. Renewing environmental improvement plans[^c-d85dbb436a18cdafe4653450d05d3341][^c-8c39a63bcca86ae808e4dc2f484b0db1]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d85dbb436a18cdafe4653450d05d3341]: Commencement: S. 13 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-d85dbb436a18cdafe4653450d05d3341]: Commencement: S. 13 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-8c39a63bcca86ae808e4dc2f484b0db1]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2021/30/section/13) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/b)
+[^c-8c39a63bcca86ae808e4dc2f484b0db1]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2021/30/section/13) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/b)

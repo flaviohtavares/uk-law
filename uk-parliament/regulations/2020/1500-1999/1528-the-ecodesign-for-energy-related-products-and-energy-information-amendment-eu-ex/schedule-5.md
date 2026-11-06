@@ -22,9 +22,9 @@ summary: ''
 
 Regulation 33
 
-**1.**[^key-8c930c4bf9f73cdb45809803388124ff] The Commission delegated regulations related to energy labelling specified in this Schedule are amended as follows.
+**1.**[^c-8c930c4bf9f73cdb45809803388124ff] The Commission delegated regulations related to energy labelling specified in this Schedule are amended as follows.
 
-**2.**[^key-c46fc863b89c919310a16a5bd0ee548e] (1) In Commission Delegated Regulation (EU) No 1059/2010 of 28 September 2010 supplementing [Directive 2010/30/EU](https://www.legislation.gov.uk/european/directive/2010/0030) of the European Parliament and of the Council with regard to energy labelling of household dishwashers, Annex 1 (label) is amended as follows.
+**2.**[^c-c46fc863b89c919310a16a5bd0ee548e] (1) In Commission Delegated Regulation (EU) No 1059/2010 of 28 September 2010 supplementing [Directive 2010/30/EU](https://www.legislation.gov.uk/european/directive/2010/0030) of the European Parliament and of the Council with regard to energy labelling of household dishwashers, Annex 1 (label) is amended as follows.
 
 (2) In paragraph 1 (label), for the label image, substitute the following image—
 
@@ -48,7 +48,7 @@ Regulation 33
   - (ii) in point 3, for “EU logo” substitute “UK flag”;
   - (iii) omit point 7.
 
-**3.**[^key-fcfce1a36587ec2aa4cbe63ac44749e7] (1) In, Commission Delegated Regulation (EU) No 1060/2010 of 28 September 2010 supplementing [Directive 2010/30/EU](https://www.legislation.gov.uk/european/directive/2010/0030) of the European Parliament and of the Council with regard to energy labelling of household refrigerating appliances, Annex 2 (label) is amended as follows.
+**3.**[^c-fcfce1a36587ec2aa4cbe63ac44749e7] (1) In, Commission Delegated Regulation (EU) No 1060/2010 of 28 September 2010 supplementing [Directive 2010/30/EU](https://www.legislation.gov.uk/european/directive/2010/0030) of the European Parliament and of the Council with regard to energy labelling of household refrigerating appliances, Annex 2 (label) is amended as follows.
 
 (2) In paragraph 1 (label for household refrigerating appliances classified in energy efficiency classes A+++ to C), for the label image substitute the following image—
 
@@ -94,7 +94,7 @@ Regulation 33
   - (ii) in point 3, for “EU logo” substitute “UK flag”;
   - (iii) omit point 7.
 
-**4.**[^key-0ab755ba27c9b606f3a22953c2a5d95e] (1) In Commission Delegated Regulation (EU) No 1061/2010 of 28 September 2010 supplementing [Directive 2010/30/EU](https://www.legislation.gov.uk/european/directive/2010/0030) of the European Parliament and of the Council with regard to energy labelling of household washing machines, Annex 1 (label) is amended as follows.
+**4.**[^c-0ab755ba27c9b606f3a22953c2a5d95e] (1) In Commission Delegated Regulation (EU) No 1061/2010 of 28 September 2010 supplementing [Directive 2010/30/EU](https://www.legislation.gov.uk/european/directive/2010/0030) of the European Parliament and of the Council with regard to energy labelling of household washing machines, Annex 1 (label) is amended as follows.
 
 (2) In paragraph 1 (label), for the label image, substitute the following image—
 
@@ -118,7 +118,7 @@ Regulation 33
   - (ii) in point 3, for “EU logo” substitute “UK flag”;
   - (iii) omit point 7.
 
-**5.**[^key-eea35c014affde1b5e25313690a46960] (1) In Commission Delegated Regulation (EU) No 1062/2010 of 28 September 2010 supplementing [Directive 2010/30/EU](https://www.legislation.gov.uk/european/directive/2010/0030) of the European Parliament and of the Council with regard to energy labelling of televisions, Annex 5 (label) is amended as follows.
+**5.**[^c-eea35c014affde1b5e25313690a46960] (1) In Commission Delegated Regulation (EU) No 1062/2010 of 28 September 2010 supplementing [Directive 2010/30/EU](https://www.legislation.gov.uk/european/directive/2010/0030) of the European Parliament and of the Council with regard to energy labelling of televisions, Annex 5 (label) is amended as follows.
 
 (2) In paragraph 4 (label 4), for the label image, substitute the following image—
 
@@ -142,7 +142,7 @@ Regulation 33
   - (ii) in point 3, for “EU logo” substitute “UK flag”;
   - (iii) omit point 7.
 
-**6.**[^key-83c1edf2e4db63d3ebdf738e7b0f1ece] (1) In Commission Delegated Regulation (EU) No 626/2011 of 4 May 2011 supplementing [Directive 2010/30/EU](https://www.legislation.gov.uk/european/directive/2010/0030) of the European Parliament and of the Council with regard to energy labelling of air conditioners, Annex 3 (the label) is amended as follows.
+**6.**[^c-83c1edf2e4db63d3ebdf738e7b0f1ece] (1) In Commission Delegated Regulation (EU) No 626/2011 of 4 May 2011 supplementing [Directive 2010/30/EU](https://www.legislation.gov.uk/european/directive/2010/0030) of the European Parliament and of the Council with regard to energy labelling of air conditioners, Annex 3 (the label) is amended as follows.
 
 (2) In paragraph 1.4 (reversible air conditioners classified in energy efficiency classes A+++ to D), for the label image, substitute the following image—
 
@@ -229,7 +229,7 @@ Regulation 33
   ;
 - (b) in point 3, for “EU logo” substitute “UK flag”.
 
-**7.**[^key-fa9f9b10fab119b2e2103238b36a4fc5] (1) In Commission Delegated Regulation (EU) No 392/2012 of 1 March 2012 supplementing [Directive 2010/30/EU](https://www.legislation.gov.uk/european/directive/2010/0030) of the European Parliament and of the Council with regard to energy labelling of household tumble driers, Annex 1 (label) is amended as follows.
+**7.**[^c-fa9f9b10fab119b2e2103238b36a4fc5] (1) In Commission Delegated Regulation (EU) No 392/2012 of 1 March 2012 supplementing [Directive 2010/30/EU](https://www.legislation.gov.uk/european/directive/2010/0030) of the European Parliament and of the Council with regard to energy labelling of household tumble driers, Annex 1 (label) is amended as follows.
 
 (2) In paragraph 1 (label for air-vented household tumble dryer), for the label image, substitute the following image—
 
@@ -267,7 +267,7 @@ Regulation 33
   - (ii) in point 3, for “EU logo” substitute “UK flag”;
   - (iii) omit point 7.
 
-**8.**[^key-5cba981b15b2f6cc7158b9108a0fc37c] (1) In Commission Delegated Regulation (EU) No 811/2013 of 18 February 2013 supplementing [Directive 2010/30/EU](https://www.legislation.gov.uk/european/directive/2010/0030) of the European Parliament and of the Council with regard to the energy labelling of space heaters, combination heaters, packages of space heater, temperature control and solar device and packages of combination heater, temperature control and solar device, Annex 3 (the labels) is amended as follows.
+**8.**[^c-5cba981b15b2f6cc7158b9108a0fc37c] (1) In Commission Delegated Regulation (EU) No 811/2013 of 18 February 2013 supplementing [Directive 2010/30/EU](https://www.legislation.gov.uk/european/directive/2010/0030) of the European Parliament and of the Council with regard to the energy labelling of space heaters, combination heaters, packages of space heater, temperature control and solar device and packages of combination heater, temperature control and solar device, Annex 3 (the labels) is amended as follows.
 
 (2) In paragraph 1.2.1 (boiler space heaters in seasonal space heating energy efficiency classes A+++ to D), for the label image substitute the following image—
 
@@ -346,7 +346,7 @@ Regulation 33
   ;
 - (b) in point 3, for “EU logo” substitute “UK flag”.
 
-**9.**[^key-75b4f1c0d4d7e8ef0c71945f4ccc83cd] (1) In Commission Delegated Regulation (EU) No 812/2013 of 18 February 2013 supplementing [Directive 2010/30/EU](https://www.legislation.gov.uk/european/directive/2010/0030) of the European Parliament and of the Council with regard to the energy labelling of water heaters, hot water storage tanks and packages of water heater and solar device, Annex 3 (the labels) is amended as follows.
+**9.**[^c-75b4f1c0d4d7e8ef0c71945f4ccc83cd] (1) In Commission Delegated Regulation (EU) No 812/2013 of 18 February 2013 supplementing [Directive 2010/30/EU](https://www.legislation.gov.uk/european/directive/2010/0030) of the European Parliament and of the Council with regard to the energy labelling of water heaters, hot water storage tanks and packages of water heater and solar device, Annex 3 (the labels) is amended as follows.
 
 (2) In paragraph 1.2.1 (conventional water heaters in water heating energy efficiency classes A+ to F), for the label image substitute the following image—
 
@@ -401,7 +401,7 @@ Regulation 33
   ;
 - (b) in point 3, for “EU logo” substitute “UK flag”.
 
-**10.**[^key-c186fd221dd12e87c5d3542ff98021c9] (1) In Commission Delegated Regulation (EU) No 874/2012 of 12 July 2012 supplementing [Directive 2010/30/EU](https://www.legislation.gov.uk/european/directive/2010/0030) of the European Parliament and of the Council with regard to energy labelling of electrical lamps and luminaires, paragraph 1 of Annex 1 (label for electrical lamps presented at point of sale) is amended as follows.
+**10.**[^c-c186fd221dd12e87c5d3542ff98021c9] (1) In Commission Delegated Regulation (EU) No 874/2012 of 12 July 2012 supplementing [Directive 2010/30/EU](https://www.legislation.gov.uk/european/directive/2010/0030) of the European Parliament and of the Council with regard to energy labelling of electrical lamps and luminaires, paragraph 1 of Annex 1 (label for electrical lamps presented at point of sale) is amended as follows.
 
 (2) In subparagraph (1), for the label image, substitute the following image—
 
@@ -428,7 +428,7 @@ Regulation 33
     ;
   - (ii) in point 3, for “EU logo” substitute “UK flag”.
 
-**11.**[^key-76ba3fb383c51fce68d6e772cbc86a43] (1) In Commission Delegated Regulation (EU) No 65/2014 of 1 October 2013 supplementing [Directive 2010/30/EU](https://www.legislation.gov.uk/european/directive/2010/0030) of the European Parliament and of the Council with regard to the energy labelling of domestic ovens and range hoods, Annex 3 (the label) is amended as follows.
+**11.**[^c-76ba3fb383c51fce68d6e772cbc86a43] (1) In Commission Delegated Regulation (EU) No 65/2014 of 1 October 2013 supplementing [Directive 2010/30/EU](https://www.legislation.gov.uk/european/directive/2010/0030) of the European Parliament and of the Council with regard to the energy labelling of domestic ovens and range hoods, Annex 3 (the label) is amended as follows.
 
 (2) In subparagraph 1.1.1 (label presentation for each cavity of a domestic electric oven), for the label image, substitute the following image—
 
@@ -493,7 +493,7 @@ Regulation 33
     ;
   - (ii) in point 3, for “EU logo” substitute “UK flag”.
 
-**12.**[^key-3e61a64b69b85474b140d16ba8a83332] (1) In Commission Delegated Regulation (EU) No 1254/2014 of 11 July 2014 supplementing [Directive 2010/30/EU](https://www.legislation.gov.uk/european/directive/2010/0030) of the European Parliament and of the Council with regard to energy labelling of residential ventilation units, Annex 3 (the label) is amended as follows.
+**12.**[^c-3e61a64b69b85474b140d16ba8a83332] (1) In Commission Delegated Regulation (EU) No 1254/2014 of 11 July 2014 supplementing [Directive 2010/30/EU](https://www.legislation.gov.uk/european/directive/2010/0030) of the European Parliament and of the Council with regard to energy labelling of residential ventilation units, Annex 3 (the label) is amended as follows.
 
 (2) In paragraph 1 (label for UVUs marketed after 1 January 2016), for the label image, substitute the following image—
 
@@ -520,7 +520,7 @@ Regulation 33
     ;
   - (ii) in point 3, for “EU logo” substitute “UK flag”.
 
-**13.**[^key-c1d42b2b43de2a463a48da8452e0cb03] (1) In Commission Delegated Regulation (EU) No 2015/1094 of 5 May 2015 supplementing [Directive 2010/30/EU](https://www.legislation.gov.uk/european/directive/2010/0030) of the European Parliament and of the Council with regard to the energy labelling of professional refrigerated storage cabinets, Annex 3 (labels) is amended as follows.
+**13.**[^c-c1d42b2b43de2a463a48da8452e0cb03] (1) In Commission Delegated Regulation (EU) No 2015/1094 of 5 May 2015 supplementing [Directive 2010/30/EU](https://www.legislation.gov.uk/european/directive/2010/0030) of the European Parliament and of the Council with regard to the energy labelling of professional refrigerated storage cabinets, Annex 3 (labels) is amended as follows.
 
 (2) In paragraph 2 (professional refrigerated storage cabinets in energy efficiency classes A+++ to G), for the label image, substitute the following image—
 
@@ -544,7 +544,7 @@ Regulation 33
   - (ii) in point 3, for “EU logo” substitute “UK flag”;
   - (iii) omit point 7.
 
-**14.**[^key-5b2368fa437e0808a4518bb247746c5f] (1) In Commission Delegated Regulation (EU) No 2015/1186 of 24 April 2015 supplementing [Directive 2010/30/EU](https://www.legislation.gov.uk/european/directive/2010/0030) of the European Parliament and of the Council with regard to the energy labelling of local space heaters, Annex 3 (the label) is amended as follows.
+**14.**[^c-5b2368fa437e0808a4518bb247746c5f] (1) In Commission Delegated Regulation (EU) No 2015/1186 of 24 April 2015 supplementing [Directive 2010/30/EU](https://www.legislation.gov.uk/european/directive/2010/0030) of the European Parliament and of the Council with regard to the energy labelling of local space heaters, Annex 3 (the label) is amended as follows.
 
 (2) In paragraph 1 (local space heaters), for the label image, substitute the following image—
 
@@ -567,7 +567,7 @@ Regulation 33
     ;
   - (ii) in point 3, for “EU logo” substitute “UK flag”.
 
-**15.**[^key-eb13447523225981fb0443aa3704ecf7] (1) In Commission Delegated Regulation (EU) No 2015/1187 of 27 April 2015 supplementing [Directive 2010/30/EU](https://www.legislation.gov.uk/european/directive/2010/0030) of the European Parliament and of the Council with regard to the energy labelling of solid fuel boilers and packages of a solid fuel boiler, Annex 3 (the labels) is amended as follows.
+**15.**[^c-eb13447523225981fb0443aa3704ecf7] (1) In Commission Delegated Regulation (EU) No 2015/1187 of 27 April 2015 supplementing [Directive 2010/30/EU](https://www.legislation.gov.uk/european/directive/2010/0030) of the European Parliament and of the Council with regard to the energy labelling of solid fuel boilers and packages of a solid fuel boiler, Annex 3 (the labels) is amended as follows.
 
 (2) In paragraph 1.2 (label 2), for the label image, substitute the following image—
 
@@ -613,32 +613,32 @@ Regulation 33
 
 ## Annotations
 
-[^key-8c930c4bf9f73cdb45809803388124ff]: Commencement: Sch. 5 para. 1 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
+[^c-8c930c4bf9f73cdb45809803388124ff]: Commencement: Sch. 5 para. 1 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
 
-[^key-c46fc863b89c919310a16a5bd0ee548e]: Commencement: Sch. 5 para. 2 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
+[^c-c46fc863b89c919310a16a5bd0ee548e]: Commencement: Sch. 5 para. 2 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
 
-[^key-fcfce1a36587ec2aa4cbe63ac44749e7]: Commencement: Sch. 5 para. 3 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
+[^c-fcfce1a36587ec2aa4cbe63ac44749e7]: Commencement: Sch. 5 para. 3 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
 
-[^key-0ab755ba27c9b606f3a22953c2a5d95e]: Commencement: Sch. 5 para. 4 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
+[^c-0ab755ba27c9b606f3a22953c2a5d95e]: Commencement: Sch. 5 para. 4 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
 
-[^key-eea35c014affde1b5e25313690a46960]: Commencement: Sch. 5 para. 5 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
+[^c-eea35c014affde1b5e25313690a46960]: Commencement: Sch. 5 para. 5 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
 
-[^key-83c1edf2e4db63d3ebdf738e7b0f1ece]: Commencement: Sch. 5 para. 6 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
+[^c-83c1edf2e4db63d3ebdf738e7b0f1ece]: Commencement: Sch. 5 para. 6 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
 
-[^key-fa9f9b10fab119b2e2103238b36a4fc5]: Commencement: Sch. 5 para. 7 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
+[^c-fa9f9b10fab119b2e2103238b36a4fc5]: Commencement: Sch. 5 para. 7 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
 
-[^key-5cba981b15b2f6cc7158b9108a0fc37c]: Commencement: Sch. 5 para. 8 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
+[^c-5cba981b15b2f6cc7158b9108a0fc37c]: Commencement: Sch. 5 para. 8 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
 
-[^key-75b4f1c0d4d7e8ef0c71945f4ccc83cd]: Commencement: Sch. 5 para. 9 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
+[^c-75b4f1c0d4d7e8ef0c71945f4ccc83cd]: Commencement: Sch. 5 para. 9 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
 
-[^key-c186fd221dd12e87c5d3542ff98021c9]: Commencement: Sch. 5 para. 10 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
+[^c-c186fd221dd12e87c5d3542ff98021c9]: Commencement: Sch. 5 para. 10 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
 
-[^key-76ba3fb383c51fce68d6e772cbc86a43]: Commencement: Sch. 5 para. 11 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
+[^c-76ba3fb383c51fce68d6e772cbc86a43]: Commencement: Sch. 5 para. 11 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
 
-[^key-3e61a64b69b85474b140d16ba8a83332]: Commencement: Sch. 5 para. 12 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
+[^c-3e61a64b69b85474b140d16ba8a83332]: Commencement: Sch. 5 para. 12 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
 
-[^key-c1d42b2b43de2a463a48da8452e0cb03]: Commencement: Sch. 5 para. 13 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
+[^c-c1d42b2b43de2a463a48da8452e0cb03]: Commencement: Sch. 5 para. 13 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
 
-[^key-5b2368fa437e0808a4518bb247746c5f]: Commencement: Sch. 5 para. 14 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
+[^c-5b2368fa437e0808a4518bb247746c5f]: Commencement: Sch. 5 para. 14 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
 
-[^key-eb13447523225981fb0443aa3704ecf7]: Commencement: Sch. 5 para. 15 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
+[^c-eb13447523225981fb0443aa3704ecf7]: Commencement: Sch. 5 para. 15 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)

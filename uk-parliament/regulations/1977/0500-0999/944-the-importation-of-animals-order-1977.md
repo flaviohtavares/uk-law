@@ -47,25 +47,25 @@ Coming into Operation
 
 The Minister of Agriculture, Fisheries and Food and the Secretary of State, acting jointly, in exercise of the powers conferred by sections 1, 20(x), 23(c) and 85(1) of the Diseases of Animals Act 1950, and now vested in them[^f00001], and of the power conferred on them by section 24 of the said Act, as that Act is amended and extended by the Diseases of Animals Act 1975, and of all their other enabling powers, hereby order as follows:—
 
-## 1. Citation, extent and commencement[^key-13d0fcaf7106b08bf421414d1687e6d4]
+## 1. Citation, extent and commencement[^c-13d0fcaf7106b08bf421414d1687e6d4]
 
 This order, which may be cited as the Importation of Animals Order 1977, shall apply throughout Great Britain, and shall come into operation on 1st July 1977.
 
-## 2. Interpretation[^key-0cb0d3a8cbddd4f46c64d22b6eb17245]
+## 2. Interpretation[^c-0cb0d3a8cbddd4f46c64d22b6eb17245]
 
 (1) In this order, unless the context otherwise requires—
 
 - “**the Act**” means the Diseases of Animals Act 1950, as amended or extended by any subsequent enactment;
-- “**animals**” means cattle, sheep, goats and all other ruminating animals, swine and elephants[^key-b3eb03bdfd38cab7e94429686c8f914d], and for the purposes of this definition, the expression “**ruminating animals**” includes Ilamas, guanacos, alpacas, vicunas, Bactrian camels and Arabian camels;
+- “**animals**” means cattle, sheep, goats and all other ruminating animals, swine and elephants[^c-b3eb03bdfd38cab7e94429686c8f914d], and for the purposes of this definition, the expression “**ruminating animals**” includes Ilamas, guanacos, alpacas, vicunas, Bactrian camels and Arabian camels;
 - “**appropriate Minister**” means, in the application of this order to England and Wales, the Minister of Agriculture, Fisheries and Food, and, in its application to Scotland, the Secretary of State;
 - “**approved premises**” means approved quarantine premises and approved reception centres;
 - “**approved quarantine premises**” means premises which have been approved by a licence issued by the appropriate Minister under Article 10(1) of this order for use for the detention in quarantine of imported animals;
 - “**approved reception centre**” means premises which have been approved by a licence issued by the appropriate Minister under Article 10(1) of this order for use for the reception and resting of imported animals;
-- “ *(Extent: S)*[^key-fcae0e7b28cafb1b0e965e91eac25994]**authorised veterinary inspector *(Extent: S)***” means a veterinary inspector authorised by the Scottish Ministers to receive information about animals and carcases affected with, or suspected of being affected with, specified diseases; *(Extent: S)*
+- “ *(Extent: S)*[^c-fcae0e7b28cafb1b0e965e91eac25994]**authorised veterinary inspector *(Extent: S)***” means a veterinary inspector authorised by the Scottish Ministers to receive information about animals and carcases affected with, or suspected of being affected with, specified diseases; *(Extent: S)*
 - “**commander**” means the member of the flight crew designated as commander of an aircraft by the operator thereof, or, failing such designation, the person who is for the time being the pilot in command of the aircraft;
 - “**container**” means a crate, box or other rigid container used for the carriage of animals which is not self-propelled, and which does not form part of a vehicle;
 - “**disease**” means any disease of animals;
-- [^key-494c74200a21ae9b9aae623b44a20e6d]...
+- [^c-494c74200a21ae9b9aae623b44a20e6d]...
 - “**import licence**” means a licence issued by the appropriate Minister under Article 3(2) of this order authorising imported animals to be landed in Great Britain;
 - “**inspector**” means a person appointed to be an inspector for the purposes of the Act by the Minister of Agriculture, Fisheries and Food or a local authority, and when used in relation to a person so appointed by the said Minister, includes a veterinary inspector;
 - “**master**” means any person (other than a pilot) having charge or command of a vessel, and includes, in relation to a hovercraft, the person designated commander thereof by the operator of the hovercraft, or, failing such designation, the person who is for the time being in command of the hovercraft;
@@ -90,21 +90,21 @@ and for the purposes of this paragraph—
 
 (3) For the purposes of this order, an animal shall be deemed to have been landed—
 
-- (a) in the case of an animal which has been carried by sea, immediately it is put or otherwise arrives on land in Great Britain; [^key-f933ca4c89faa1864a65cec8e7bceb1e]...
-- (b) in the case of an animal which has been carried by air, immediately the aircraft which is carrying it touches down in Great Britain; and[^key-ed93b2ffb5a0e73649227facaeafc980]
+- (a) in the case of an animal which has been carried by sea, immediately it is put or otherwise arrives on land in Great Britain; [^c-f933ca4c89faa1864a65cec8e7bceb1e]...
+- (b) in the case of an animal which has been carried by air, immediately the aircraft which is carrying it touches down in Great Britain; and[^c-ed93b2ffb5a0e73649227facaeafc980]
 - (c) in the case of an animal which has been carried by a vehicle or otherwise arrives through the tunnel system as defined in the Channel Tunnel Act 1987 (1987 c. 53), immediately it crosses the frontier;
 
 and the expressions “**land**” and “**landing**” shall be construed accordingly.
 
 (4) The Interpretation Act 1889 applies for the interpretation of this order as it applies for the interpretation of an Act of Parliament, and as if this order and the orders revoked by it were Acts of Parliament.
 
-## 3. Prohibition on landing of imported animals in Great Britain otherwise than under licence[^key-be94e6862936cb3fc41c13b414881172][^key-d1bdaf5da8a9aff04259c8d54b562d64][^M_C_c48d33c2-100d-4834-979c-adda50710f42][^key-fe9c71a408e9e89042dd4d5dfe0e6c55]
+## 3. Prohibition on landing of imported animals in Great Britain otherwise than under licence[^c-be94e6862936cb3fc41c13b414881172][^c-d1bdaf5da8a9aff04259c8d54b562d64][^M_C_c48d33c2-100d-4834-979c-adda50710f42][^c-fe9c71a408e9e89042dd4d5dfe0e6c55]
 
 (1) Subject to the provisions of this order, the landing of imported animals in Great Britain is hereby prohibited.
 
 *Extent: S*
 
-(1A)[^key-69f05e483eaeb403587c3422c55ff65e] Paragraph (1) does not apply to the landing of imported animals to which Commission Regulation (EU) No 206/2010 of 12 March 2010 laying down lists of third countries, territories or parts thereof authorised for the introduction into the European Union of certain animals and fresh meat and the veterinary certification requirements applies.
+(1A)[^c-69f05e483eaeb403587c3422c55ff65e] Paragraph (1) does not apply to the landing of imported animals to which Commission Regulation (EU) No 206/2010 of 12 March 2010 laying down lists of third countries, territories or parts thereof authorised for the introduction into the European Union of certain animals and fresh meat and the veterinary certification requirements applies.
 
 (2) The prohibition contained in paragraph (1) above shall not apply to the landing in Great Britain of imported animals when that landing takes place under the authority of a licence in writing issued by the appropriate Minister, and in accordance with the terms and conditions of that licence.
 
@@ -125,32 +125,32 @@ and the expressions “**land**” and “**landing**” shall be construed acco
 - (a) in the case of a general import licence, by notice thereof published, so far as practicable, in the same manner and to the same extent as the licence; and
 - (b) in the case of a specific import licence, by notice in writing served on the person to whom the licence was issued.
 
-## 4. Provisions relating to the carriage of imported animals to Great Britain[^M_E_gpcidzju-mx04-8yqk-7yty-6808a024b2c2b][^key-b179dafaa0439b7a8b70d7b974e5f234]
+## 4. Provisions relating to the carriage of imported animals to Great Britain[^M_E_gpcidzju-mx04-8yqk-7yty-6808a024b2c2b][^c-b179dafaa0439b7a8b70d7b974e5f234]
 
 *Extent: E*
 
-(1)[^key-eeb9ee9beffc976f7b67850875445975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-eeb9ee9beffc976f7b67850875445975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Subject to paragraph (5) below, where during the carriage of animals to Great Britain—
 
 - (a) the master of the vessel or the commander of the aircraft knows or suspects that an animal on board is or may be affected with disease, or
 - (b) any such animal is injured,
 
-the master or commander shall, immediately on arrival at a port or airport in Great Britain, report the fact, together with any other relevant information connected therewith, to the Secretary of State[^key-a37a42366fc420d4930e9e1121ec189d]; and it shall be the duty of the master or commander to ensure that an animal to which subparagraph (a) above applies, and any animal which may have been in contact with it, is not unloaded from the vessel or aircraft except with the written consent of a veterinary inspector.
+the master or commander shall, immediately on arrival at a port or airport in Great Britain, report the fact, together with any other relevant information connected therewith, to the Secretary of State[^c-a37a42366fc420d4930e9e1121ec189d]; and it shall be the duty of the master or commander to ensure that an animal to which subparagraph (a) above applies, and any animal which may have been in contact with it, is not unloaded from the vessel or aircraft except with the written consent of a veterinary inspector.
 
 (3) Subject to paragraph (5) below, where during the carriage of animals to Great Britain an animal dies or is slaughtered, the master of the vessel or the commander of the aircraft shall—
 
 - (a) if practicable, retain the carcase of the animal on board the vessel or aircraft;
-- (b) immediately on arrival at a port or airport in Great Britain, report the death or slaughter of the animal, together with any other relevant information connected therewith, to the Secretary of State[^key-24ff0ff8aacf9361522b2bfe33116f2c]; and
+- (b) immediately on arrival at a port or airport in Great Britain, report the death or slaughter of the animal, together with any other relevant information connected therewith, to the Secretary of State[^c-24ff0ff8aacf9361522b2bfe33116f2c]; and
 - (c) ensure that the carcase of the animal is unloaded and disposed of in Great Britain only with the written consent of a veterinary inspector, and in accordance with any directions given by him;
 
 and where the master or commander knows or suspects that an animal to which the foregoing provisions of this paragraph apply was, at the time of its death or slaughter, affected with disease, he shall ensure that any animal which may have been in contact with it, or with its carcase, is unloaded in Great Britain only with the written consent of a veterinary inspector.
 
-(4) Where it is impracticable to retain the carcase of an animal to which paragraph (3) above applies on board the vessel or aircraft, the master or commander shall, immediately on arrival at a port or airport in Great Britain, furnish to the Secretary of State[^key-f73279bc2e945a09f27daaeadb804b74] all relevant information concerning the death or slaughter of the animal in question, and the disposal of its carcase.
+(4) Where it is impracticable to retain the carcase of an animal to which paragraph (3) above applies on board the vessel or aircraft, the master or commander shall, immediately on arrival at a port or airport in Great Britain, furnish to the Secretary of State[^c-f73279bc2e945a09f27daaeadb804b74] all relevant information concerning the death or slaughter of the animal in question, and the disposal of its carcase.
 
 (5) Where an animal which is affected with disease, or suspected of being so affected, or the carcase of an animal to which paragraph (3) above applies, or an animal which has been in contact with any such animal or the carcase of any such animal, is, throughout the period of its journey to Great Britain by sea or air, confined within a vehicle or container, it shall not be unlawful, notwithstanding the provisions of paragraphs (2) and (3) above, for the vehicle or container in which the animal or carcase is confined to be unloaded from the vessel or aircraft without the consent of a veterinary inspector; but in any such case, it shall be the duty of the person in charge of the animal or carcase—
 
-- (a) to report its presence in the vehicle or container, together with any other relevant information connected therewith, to the Secretary of State[^key-49c0d8c35f227e91e366b621e78d1929] either—
+- (a) to report its presence in the vehicle or container, together with any other relevant information connected therewith, to the Secretary of State[^c-49c0d8c35f227e91e366b621e78d1929] either—
   - (i) immediately after the vehicle or container has been unloaded from the vessel or aircraft, or
   - (ii) where at the time of such unloading he is unaware of the presence or suspected presence of disease in that animal, or of the presence of that carcase, or, as the case may be, that the animal has been in contact with an animal affected with or suspected of being affected with disease, or with the carcase of such an animal, immediately after he becomes so aware; and
 - (b) to ensure that the animal or carcase is unloaded from the vehicle or container and (in the case of a carcase) is disposed of only with the written consent of a veterinary inspector, and in accordance with any directions given by him.
@@ -176,21 +176,21 @@ and where the master or commander knows or suspects that an animal to which the 
 - (a) the master of the vessel or the commander of the aircraft knows or suspects that an animal on board is or may be affected with disease, or
 - (b) any such animal is injured,
 
-the master or commander shall, immediately on arrival at a port or airport in Great Britain, report the fact, together with any other relevant information connected therewith, to an authorised veterinary inspector[^key-68a2e7ae31de011b6504145909d0e4fe]; and it shall be the duty of the master or commander to ensure that an animal to which subparagraph (a) above applies, and any animal which may have been in contact with it, is not unloaded from the vessel or aircraft except with the written consent of a veterinary inspector.
+the master or commander shall, immediately on arrival at a port or airport in Great Britain, report the fact, together with any other relevant information connected therewith, to an authorised veterinary inspector[^c-68a2e7ae31de011b6504145909d0e4fe]; and it shall be the duty of the master or commander to ensure that an animal to which subparagraph (a) above applies, and any animal which may have been in contact with it, is not unloaded from the vessel or aircraft except with the written consent of a veterinary inspector.
 
 (3) Subject to paragraph (5) below, where during the carriage of animals to Great Britain an animal dies or is slaughtered, the master of the vessel or the commander of the aircraft shall—
 
 - (a) if practicable, retain the carcase of the animal on board the vessel or aircraft;
-- (b) immediately on arrival at a port or airport in Great Britain, report the death or slaughter of the animal, together with any other relevant information connected therewith, to an authorised veterinary inspector[^key-612d67571851a7db812420263307a670]; and
+- (b) immediately on arrival at a port or airport in Great Britain, report the death or slaughter of the animal, together with any other relevant information connected therewith, to an authorised veterinary inspector[^c-612d67571851a7db812420263307a670]; and
 - (c) ensure that the carcase of the animal is unloaded and disposed of in Great Britain only with the written consent of a veterinary inspector, and in accordance with any directions given by him;
 
 and where the master or commander knows or suspects that an animal to which the foregoing provisions of this paragraph apply was, at the time of its death or slaughter, affected with disease, he shall ensure that any animal which may have been in contact with it, or with its carcase, is unloaded in Great Britain only with the written consent of a veterinary inspector.
 
-(4) Where it is impracticable to retain the carcase of an animal to which paragraph (3) above applies on board the vessel or aircraft, the master or commander shall, immediately on arrival at a port or airport in Great Britain, furnish to an authorised veterinary inspector[^key-982ea44c93a105303c122d7cbe4b8d22] all relevant information concerning the death or slaughter of the animal in question, and the disposal of its carcase.
+(4) Where it is impracticable to retain the carcase of an animal to which paragraph (3) above applies on board the vessel or aircraft, the master or commander shall, immediately on arrival at a port or airport in Great Britain, furnish to an authorised veterinary inspector[^c-982ea44c93a105303c122d7cbe4b8d22] all relevant information concerning the death or slaughter of the animal in question, and the disposal of its carcase.
 
 (5) Where an animal which is affected with disease, or suspected of being so affected, or the carcase of an animal to which paragraph (3) above applies, or an animal which has been in contact with any such animal or the carcase of any such animal, is, throughout the period of its journey to Great Britain by sea or air, confined within a vehicle or container, it shall not be unlawful, notwithstanding the provisions of paragraphs (2) and (3) above, for the vehicle or container in which the animal or carcase is confined to be unloaded from the vessel or aircraft without the consent of a veterinary inspector; but in any such case, it shall be the duty of the person in charge of the animal or carcase—
 
-- (a) to report its presence in the vehicle or container, together with any other relevant information connected therewith, to an authorised veterinary inspector[^key-a1a60392ce3eb5c0bcc6318d85bc08b5] either—
+- (a) to report its presence in the vehicle or container, together with any other relevant information connected therewith, to an authorised veterinary inspector[^c-a1a60392ce3eb5c0bcc6318d85bc08b5] either—
   - (i) immediately after the vehicle or container has been unloaded from the vessel or aircraft, or
   - (ii) where at the time of such unloading he is unaware of the presence or suspected presence of disease in that animal, or of the presence of that carcase, or, as the case may be, that the animal has been in contact with an animal affected with or suspected of being affected with disease, or with the carcase of such an animal, immediately after he becomes so aware; and
 - (b) to ensure that the animal or carcase is unloaded from the vehicle or container and (in the case of a carcase) is disposed of only with the written consent of a veterinary inspector, and in accordance with any directions given by him.
@@ -216,21 +216,21 @@ and where the master or commander knows or suspects that an animal to which the 
 - (a) the master of the vessel or the commander of the aircraft knows or suspects that an animal on board is or may be affected with disease, or
 - (b) any such animal is injured,
 
-the master or commander shall, immediately on arrival at a port or airport in Great Britain, report the fact, together with any other relevant information connected therewith, to the Welsh Ministers[^key-248e01ce62544d0ca644ee0a96dbd130]; and it shall be the duty of the master or commander to ensure that an animal to which subparagraph (a) above applies, and any animal which may have been in contact with it, is not unloaded from the vessel or aircraft except with the written consent of a veterinary inspector.
+the master or commander shall, immediately on arrival at a port or airport in Great Britain, report the fact, together with any other relevant information connected therewith, to the Welsh Ministers[^c-248e01ce62544d0ca644ee0a96dbd130]; and it shall be the duty of the master or commander to ensure that an animal to which subparagraph (a) above applies, and any animal which may have been in contact with it, is not unloaded from the vessel or aircraft except with the written consent of a veterinary inspector.
 
 (3) Subject to paragraph (5) below, where during the carriage of animals to Great Britain an animal dies or is slaughtered, the master of the vessel or the commander of the aircraft shall—
 
 - (a) if practicable, retain the carcase of the animal on board the vessel or aircraft;
-- (b) immediately on arrival at a port or airport in Great Britain, report the death or slaughter of the animal, together with any other relevant information connected therewith, to the Welsh Ministers[^key-e85dfd3181e9b52301aa1f73f75e97f6]; and
+- (b) immediately on arrival at a port or airport in Great Britain, report the death or slaughter of the animal, together with any other relevant information connected therewith, to the Welsh Ministers[^c-e85dfd3181e9b52301aa1f73f75e97f6]; and
 - (c) ensure that the carcase of the animal is unloaded and disposed of in Great Britain only with the written consent of a veterinary inspector, and in accordance with any directions given by him;
 
 and where the master or commander knows or suspects that an animal to which the foregoing provisions of this paragraph apply was, at the time of its death or slaughter, affected with disease, he shall ensure that any animal which may have been in contact with it, or with its carcase, is unloaded in Great Britain only with the written consent of a veterinary inspector.
 
-(4) Where it is impracticable to retain the carcase of an animal to which paragraph (3) above applies on board the vessel or aircraft, the master or commander shall, immediately on arrival at a port or airport in Great Britain, furnish to the Welsh Ministers[^key-fadfe2ce7f0598886b109afe67132535] all relevant information concerning the death or slaughter of the animal in question, and the disposal of its carcase.
+(4) Where it is impracticable to retain the carcase of an animal to which paragraph (3) above applies on board the vessel or aircraft, the master or commander shall, immediately on arrival at a port or airport in Great Britain, furnish to the Welsh Ministers[^c-fadfe2ce7f0598886b109afe67132535] all relevant information concerning the death or slaughter of the animal in question, and the disposal of its carcase.
 
 (5) Where an animal which is affected with disease, or suspected of being so affected, or the carcase of an animal to which paragraph (3) above applies, or an animal which has been in contact with any such animal or the carcase of any such animal, is, throughout the period of its journey to Great Britain by sea or air, confined within a vehicle or container, it shall not be unlawful, notwithstanding the provisions of paragraphs (2) and (3) above, for the vehicle or container in which the animal or carcase is confined to be unloaded from the vessel or aircraft without the consent of a veterinary inspector; but in any such case, it shall be the duty of the person in charge of the animal or carcase—
 
-- (a) to report its presence in the vehicle or container, together with any other relevant information connected therewith, to the Welsh Ministers[^key-5b71366ba181484705fafccee833e316] either—
+- (a) to report its presence in the vehicle or container, together with any other relevant information connected therewith, to the Welsh Ministers[^c-5b71366ba181484705fafccee833e316] either—
   - (i) immediately after the vehicle or container has been unloaded from the vessel or aircraft, or
   - (ii) where at the time of such unloading he is unaware of the presence or suspected presence of disease in that animal, or of the presence of that carcase, or, as the case may be, that the animal has been in contact with an animal affected with or suspected of being affected with disease, or with the carcase of such an animal, immediately after he becomes so aware; and
 - (b) to ensure that the animal or carcase is unloaded from the vehicle or container and (in the case of a carcase) is disposed of only with the written consent of a veterinary inspector, and in accordance with any directions given by him.
@@ -245,9 +245,9 @@ and where the master or commander knows or suspects that an animal to which the 
 
 (8)[^V_W_cce92cfa-9e86-b608-5925-58d829d1e676] The person in charge of approved premises shall, as soon as he is in a position to do so, notify the veterinary inspector having responsibility for the premises of the proposed time of landing of animals licensed to be moved to the premises, and of their number and description.
 
-## 5. Provisions relating to the unloading of animals, etc., at ports and airports[^key-ca012201a6783822fd3d39ce8fb7373d]
+## 5. Provisions relating to the unloading of animals, etc., at ports and airports[^c-ca012201a6783822fd3d39ce8fb7373d]
 
-(1)[^key-98802d325e7b9c1b52849ad33a12e245][^M_C_d957dce0-8992-41e0-9d29-f76e7ceb4e59][^key-45236514bcec9e3dca17ff10e13572e3] No person shall unload or attempt to unload imported animals from a vessel or aircraft in Great Britain, or cause or permit imported animals to be so unloaded, except in accordance with—
+(1)[^c-98802d325e7b9c1b52849ad33a12e245][^M_C_d957dce0-8992-41e0-9d29-f76e7ceb4e59][^c-45236514bcec9e3dca17ff10e13572e3] No person shall unload or attempt to unload imported animals from a vessel or aircraft in Great Britain, or cause or permit imported animals to be so unloaded, except in accordance with—
 
 - (a) the terms and conditions of the import licence relating to those animals; and
 - (b) the following provisions of this Article.
@@ -261,24 +261,24 @@ and where the master or commander knows or suspects that an animal to which the 
 - (a) the master of the vessel or the commander of the aircraft, as the case may be, in the case of an animal which dies before it has been unloaded, and
 - (b) the person in charge of the animal in any other case,
 
-to report its death, together with any other relevant information connected therewith, to the *(Extent: S)* *(affected by repeal, see note)*[^M_F_54b57955-d149-4b97-a8b2-acc2613bb61b] Secretary of State *(Extent: E)*[^key-f580c46e1a41d02ddead1687bbe37865] *(Extent: S)* *(affected by repeal, see note)*[^M_F_54b57955-d149-4b97-a8b2-acc2613bb61b]Welsh Ministers *(Extent: W)*[^key-492cd098c7bc2f5785631de62e90574a] *(Extent: S)* *(affected by repeal, see note)*[^M_F_54b57955-d149-4b97-a8b2-acc2613bb61b]an authorised veterinary inspector *(Extent: S)*; and the carcase of any such animal shall—
+to report its death, together with any other relevant information connected therewith, to the *(Extent: S)* *(affected by repeal, see note)*[^M_F_54b57955-d149-4b97-a8b2-acc2613bb61b] Secretary of State *(Extent: E)*[^c-f580c46e1a41d02ddead1687bbe37865] *(Extent: S)* *(affected by repeal, see note)*[^M_F_54b57955-d149-4b97-a8b2-acc2613bb61b]Welsh Ministers *(Extent: W)*[^c-492cd098c7bc2f5785631de62e90574a] *(Extent: S)* *(affected by repeal, see note)*[^M_F_54b57955-d149-4b97-a8b2-acc2613bb61b]an authorised veterinary inspector *(Extent: S)*; and the carcase of any such animal shall—
 
 - (i) in the case of an animal to which sub-paragraph (a) above applies, be unloaded only with the written consent of a veterinary inspector, and
 - (ii) be disposed of in accordance with any directions given by a veterinary inspector.
 
 (5) Where the master of a vessel or the commander of an aircraft knows or suspects that an animal to which paragraph (4)(a) above applies was, at the time of its death on board that vessel or aircraft, affected with disease, he shall ensure that any animal which may have been in contact with it, or with its carcase, is, except in the case of emergency, unloaded in Great Britain only with the written consent of a veterinary inspector.
 
-(6)[^key-35a923378018a0d57ea03d0abf43ea45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-35a923378018a0d57ea03d0abf43ea45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-35a923378018a0d57ea03d0abf43ea45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-35a923378018a0d57ea03d0abf43ea45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Cleansing and disinfection of vessels, etc., used for the carriage of imported animals to Great Britain[^key-168499ab23a3aba376a5a31c16e63ae7]
+## 6. Cleansing and disinfection of vessels, etc., used for the carriage of imported animals to Great Britain[^c-168499ab23a3aba376a5a31c16e63ae7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Additional provisions relating to the carriage and unloading of imported animals[^key-27a2375fb45ceb8c52eb2684b46f41c2]
+## 7. Additional provisions relating to the carriage and unloading of imported animals[^c-27a2375fb45ceb8c52eb2684b46f41c2]
 
-(1)[^key-ac683aaf4c335b7f5b84dcc213a73c66][^M_C_65ebef17-99c0-4961-831e-98f7b48e3ce5][^key-47b38c2acf056b1d45c0d3c8bf821939] The person in charge of imported animals on board a vessel or aircraft in Great Britain, and the master of that vessel or the commander of that aircraft, as the case may be, shall take all such steps as may be necessary—
+(1)[^c-ac683aaf4c335b7f5b84dcc213a73c66][^M_C_65ebef17-99c0-4961-831e-98f7b48e3ce5][^c-47b38c2acf056b1d45c0d3c8bf821939] The person in charge of imported animals on board a vessel or aircraft in Great Britain, and the master of that vessel or the commander of that aircraft, as the case may be, shall take all such steps as may be necessary—
 
 - (a) to enable an inspector to exercise any of the powers conferred on him by the provisions of this order or of the Act, and in particular—
   - (i) to enter any part of the vessel or aircraft in which imported animals are being or have been carried, and to examine any apparatus, equipment or thing on board used in connection with the carriage or unloading of animals, and
@@ -288,7 +288,7 @@ to report its death, together with any other relevant information connected ther
 
 (2) The person in charge of imported animals unloaded at a port or airport in Great Britain shall, after the animals have been moved therefrom in accordance with the provisions of this order, take all reasonable steps to ensure that every part of the port or airport with which the animals, or their droppings or other excreta, have been in contact is effectively cleansed and disinfected to the satisfaction of a veterinary inspector.
 
-## 8. Provisions relating to the movement of imported animals after unloading at a port or airport[^key-f0edd854ee087ab0090d6f0d23d6cdd9][^M_C_55f593a0-6303-463c-f37f-3852dd362ad6][^key-e37575f28dff6da957f23bdab051eeac]
+## 8. Provisions relating to the movement of imported animals after unloading at a port or airport[^c-f0edd854ee087ab0090d6f0d23d6cdd9][^M_C_55f593a0-6303-463c-f37f-3852dd362ad6][^c-e37575f28dff6da957f23bdab051eeac]
 
 (1) When imported animals have been unloaded from the vessel or aircraft which brought them to Great Britain, it shall be the duty of the person in charge of those animals to ensure that—
 
@@ -305,7 +305,7 @@ to report its death, together with any other relevant information connected ther
 
 (3) If it appears to a veterinary inspector that imported animals unloaded at a port or airport should not, by reason of the presence or suspected presence of disease in any part of Great Britain, or because of any other exceptions circumstances, be moved to approved premises specified in the import licence relating to those animals, he may, by notice in writing served on the person in charge of those animals, require them to be moved in accordance with the notice to such other premises as may be specified therein; and the animals shall be detained at those premises for such period and subject to such conditions as may be so specified.
 
-## 9. Control of animals passing through Great Britain[^key-f0edd854ee087ab0090d6f0d23d6cdd9][^M_C_55f593a0-6303-463c-f37f-3852dd362ad6][^key-e37575f28dff6da957f23bdab051eeac]
+## 9. Control of animals passing through Great Britain[^c-f0edd854ee087ab0090d6f0d23d6cdd9][^M_C_55f593a0-6303-463c-f37f-3852dd362ad6][^c-e37575f28dff6da957f23bdab051eeac]
 
 (1) Notwithstanding the foregoing provisions of this order, imported animals need not be moved to and detained at approved premises if—
 
@@ -317,7 +317,7 @@ to report its death, together with any other relevant information connected ther
 - (a) impose such further conditions in respect thereof as he may consider to be appropriate; and
 - (b) detain, destroy or otherwise deal with any carcase, fodder, litter, milk, dung, manure or other thing used in connection with or coming from any such animals.
 
-## 10. Approval and regulation of approved premises[^key-f0edd854ee087ab0090d6f0d23d6cdd9][^M_C_55f593a0-6303-463c-f37f-3852dd362ad6][^key-e37575f28dff6da957f23bdab051eeac]
+## 10. Approval and regulation of approved premises[^c-f0edd854ee087ab0090d6f0d23d6cdd9][^M_C_55f593a0-6303-463c-f37f-3852dd362ad6][^c-e37575f28dff6da957f23bdab051eeac]
 
 (1) No premises shall be used for the detention of imported animals in quarantine under the provisions of this order, or for the reception and resting of imported animals under those provisions, unless they have been approved for use for the purpose by a licence issued by the appropriate Minister to the occupier of the premises.
 
@@ -358,7 +358,7 @@ and it shall be the duty of the person on whom the notice is served to ensure th
 
 (8) Without prejudice to the foregoing provisions of this Article, a veterinary inspector may, for the purpose of preventing the introduction or spreading of disease into or within Great Britain, detain, destroy or otherwise deal with any carcase, fodder, litter milk, dung, manure or other thing used in connection with or coming from animals detained at approved premises.
 
-## 11. Detention of imported animals at approved premises[^key-f0edd854ee087ab0090d6f0d23d6cdd9][^M_C_55f593a0-6303-463c-f37f-3852dd362ad6][^key-e37575f28dff6da957f23bdab051eeac]
+## 11. Detention of imported animals at approved premises[^c-f0edd854ee087ab0090d6f0d23d6cdd9][^M_C_55f593a0-6303-463c-f37f-3852dd362ad6][^c-e37575f28dff6da957f23bdab051eeac]
 
 (1) Quarantine animals shall be detained at the approved quarantine premises specified in the import licence for the period so specified, or for such longer period as the appropriate Minister may, for the purpose of preventing the introduction or spreading of disease into or within Great Britain, in any particular case direct.
 
@@ -386,7 +386,7 @@ and it shall be the duty of the person on whom the notice is served to ensure th
 
 (7) Nothing in the foregoing provisions of this Article shall be construed as requiring a veterinary inspector to issue a licence, or to discharge any other function under those provisions, at an unreasonable hour of the day or night.
 
-## 12. Action in case of disease among imported animals[^key-f0edd854ee087ab0090d6f0d23d6cdd9][^M_C_55f593a0-6303-463c-f37f-3852dd362ad6][^key-e37575f28dff6da957f23bdab051eeac]
+## 12. Action in case of disease among imported animals[^c-f0edd854ee087ab0090d6f0d23d6cdd9][^M_C_55f593a0-6303-463c-f37f-3852dd362ad6][^c-e37575f28dff6da957f23bdab051eeac]
 
 (1) Where a veterinary inspector knows or suspects that any disease exists among imported animals at a port or airport (whether or not those animals, or any of them, have been unloaded from the vessel or aircraft which brought them to Great Britain), he may, by notice in writing served on the person appearing to him to have charge of those animals, require that person, at his own expense or at the expense of the owner of the animals,—
 
@@ -415,7 +415,7 @@ and the powers conferred on a veterinary inspector by the foregoing provisions o
 
 and for the purpose of exercising the powers conferred by the foregoing provisions of this paragraph, a veterinary inspector or other person acting for or on behalf of the appropriate Minister may enter any land or premises, or any vessel, aircraft, vehicle or container, at or in which the animal in question is detained; and, where those powers have been exercised, the carcase of the animal shall be disposed of in such manner as a veterinary inspector may direct.
 
-## 13. Slaughter of injured animals[^key-f0edd854ee087ab0090d6f0d23d6cdd9][^M_C_55f593a0-6303-463c-f37f-3852dd362ad6][^key-e37575f28dff6da957f23bdab051eeac]
+## 13. Slaughter of injured animals[^c-f0edd854ee087ab0090d6f0d23d6cdd9][^M_C_55f593a0-6303-463c-f37f-3852dd362ad6][^c-e37575f28dff6da957f23bdab051eeac]
 
 If, in the opinion of a veterinary inspector, an imported animal is either—
 
@@ -424,7 +424,7 @@ If, in the opinion of a veterinary inspector, an imported animal is either—
 
 that it would be cruel to keep it alive, the appropriate Minister shall cause the animal to be slaughtered.
 
-## 14. Action in case of contraventions of the order, etc[^key-f0edd854ee087ab0090d6f0d23d6cdd9][^M_C_55f593a0-6303-463c-f37f-3852dd362ad6][^key-e37575f28dff6da957f23bdab051eeac]
+## 14. Action in case of contraventions of the order, etc[^c-f0edd854ee087ab0090d6f0d23d6cdd9][^M_C_55f593a0-6303-463c-f37f-3852dd362ad6][^c-e37575f28dff6da957f23bdab051eeac]
 
 (1) Without prejudice to paragraph (3) below, where—
 
@@ -442,11 +442,11 @@ an inspector may, by notice in writing served on the person appearing to him to 
 
 (4) Nothing in this Article shall affect the powers of the Commissioners of Customs and Excise to seize and detain as liable to forfeiture under the Customs and Excise Acts any animals which are landed in Great Britain in contravention of this order, or in contravention of an import licence issued under it, or to institute legal proceedings under those Acts in respect of such contravention.
 
-## 15. Cleansing and disinfection of vessels, aircraft, etc., to which Article 6 does not apply[^key-a6c09f7175d3ee9aaccb73fcec3df7ef]
+## 15. Cleansing and disinfection of vessels, aircraft, etc., to which Article 6 does not apply[^c-a6c09f7175d3ee9aaccb73fcec3df7ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Unlicensed animals not to be brought into harbour in Great Britain[^key-e5209e50e1cbc64b6c2d65663fc4a330][^M_C_f7acc916-4f9a-496d-c2c9-eb93b03687de][^key-716f033098b0cdf6db391218fbfd1aa3]
+## 16. Unlicensed animals not to be brought into harbour in Great Britain[^c-e5209e50e1cbc64b6c2d65663fc4a330][^M_C_f7acc916-4f9a-496d-c2c9-eb93b03687de][^c-716f033098b0cdf6db391218fbfd1aa3]
 
 (1) Subject to Article 17(5) below, it shall be unlawful for any vessel with animals on board to enter any harbour in Great Britain unless—
 
@@ -462,7 +462,7 @@ an inspector may, by notice in writing served on the person appearing to him to 
 
 (3) For the purposes of this Article and Article 17(5) below, “**harbour**” has the meaning assigned to it by section 57 of the Harbours Act 1964.
 
-## 17. Provisions to apply in case of emergency[^key-e383a1e665f1c6fc2b83b6bcadf4ecbe][^M_C_b9badd1f-7f57-4de7-d4ce-b5452b0ddad2][^key-716f033098b0cdf6db391218fbfd1aa3]
+## 17. Provisions to apply in case of emergency[^c-e383a1e665f1c6fc2b83b6bcadf4ecbe][^M_C_b9badd1f-7f57-4de7-d4ce-b5452b0ddad2][^c-716f033098b0cdf6db391218fbfd1aa3]
 
 (1) Nothing in the foregoing provisions of this order shall render it unlawful—
 
@@ -484,33 +484,33 @@ at any place in Great Britain to which the aircraft or vessel is diverted in the
 
 (5) Nothing in Article 16 above shall render it unlawful for a vessel with animals on board to enter a harbour in Great Britain under stress of the weather, or because of other exceptional circumstances, notwithstanding the absence of a licence referred to in that Article; but in any such case, a veterinary inspector may, by notice in writing served on the master of the vessel, impose in respect of the vessel and of the animals on board, such conditions as he may consider necessary for the purpose of preventing the introduction or spreading of disease into or within Great Britain.
 
-## 18. Powers of local authorities, veterinary inspectors, etc., in case of default[^key-0bba885fb202c984a7a736d6a57e2f43]
+## 18. Powers of local authorities, veterinary inspectors, etc., in case of default[^c-0bba885fb202c984a7a736d6a57e2f43]
 
 (1) If—
 
 - (a) the master of a vessel, the operator of an aircraft or the person in charge of a vehicle or container fails to comply with any of the requirements of Article 6(2) above, or of a direction given thereunder, with regard to the cleansing and disinfection of that vessel, aircraft, vehicle or container, or of any apparatus, equipment or thing used in connection with the carriage of animals therein or the unloading of animals therefrom, or
-- (b)[^key-8080671a38bd51470862d26cf21589fb][^M_C_435f75d8-908e-4f8a-f314-0081577c13e4][^key-680b26c83fbac3608c8c56f72e2854cb] the person in charge of approved premises fails to comply with any requirement of a notice served under Article 10(7) above with regard to the cleansing and disinfection of those premises or any part thereof, or of any apparatus, equipment or thing used in connection with or for or about animals detained at those premises, the local authority or a veterinary inspector or other person acting for or on behalf of the appropriate Minister may, without prejudice to any proceedings for an offence arising out of such default, enter that vessel, aircraft, vehicle or container, or those approved premises, and carry out, or cause to be carried out, such cleansing and disinfection; and in exercising the powers conferred by the foregoing provisions of this paragraph in relation to any vessel, aircraft, vehicle or container, or in relation to any apparatus, equipment or thing therein, a local authority or a veterinary inspector or other person acting for or on behalf of the appropriate Minister may enter any land or premises.
+- (b)[^c-8080671a38bd51470862d26cf21589fb][^M_C_435f75d8-908e-4f8a-f314-0081577c13e4][^c-680b26c83fbac3608c8c56f72e2854cb] the person in charge of approved premises fails to comply with any requirement of a notice served under Article 10(7) above with regard to the cleansing and disinfection of those premises or any part thereof, or of any apparatus, equipment or thing used in connection with or for or about animals detained at those premises, the local authority or a veterinary inspector or other person acting for or on behalf of the appropriate Minister may, without prejudice to any proceedings for an offence arising out of such default, enter that vessel, aircraft, vehicle or container, or those approved premises, and carry out, or cause to be carried out, such cleansing and disinfection; and in exercising the powers conferred by the foregoing provisions of this paragraph in relation to any vessel, aircraft, vehicle or container, or in relation to any apparatus, equipment or thing therein, a local authority or a veterinary inspector or other person acting for or on behalf of the appropriate Minister may enter any land or premises.
 
 (2) If any person who is required to dispose of, or arrange for the disposal of, waste material from a vessel, aircraft, vehicle or container in accordance with any direction given under Article 6(3) or Article 8(2)(c) above fails to comply with any of the requirements of that direction, a veterinary inspector or other person acting for or on behalf of the appropriate Minister may, without prejudice to any proceedings for an offence arising out of such default, enter that vessel, aircraft, vehicle or container, and seize that waste material, or cause it to be seized, and dispose of it in accordance with that direction; and in exercising the powers conferred by the foregoing provisions of this paragraph, a veterinary inspector or other person acting for or on behalf of the appropriate Minister may enter any land or premises.
 
-(3)[^key-8ec81d794766dfc2908b06732d5f3239][^M_C_d07044c8-b322-4c11-bac9-4a8b093b3873][^key-19d8b2d1eea3b67bb00f2e1bb02f116f] If any person on whom a notice is served under any of Articles 12(1), 14(1) or (2), 16(2) or 17(3), (4) or (5) above fails to comply with any of the requirements thereof—
+(3)[^c-8ec81d794766dfc2908b06732d5f3239][^M_C_d07044c8-b322-4c11-bac9-4a8b093b3873][^c-19d8b2d1eea3b67bb00f2e1bb02f116f] If any person on whom a notice is served under any of Articles 12(1), 14(1) or (2), 16(2) or 17(3), (4) or (5) above fails to comply with any of the requirements thereof—
 
 - (a) an inspector of a local authority or a veterinary inspector or other person acting for or on behalf of the appropriate Minister, in the case of a notice under Article 14(1) or Article 16(2), and
 - (b) a veterinary inspector or other person acting for or on behalf of the appropriate Minister, in any other case,
 
 shall have power to enter any land or premises, or any vessel, aircraft, vehicle or container, and seize any animal to which the notice relates, or cause it to be seized, and arrange for the requirements of the notice to be complied with; and the person on whom the notice was served, and the owner of any such animal and any person having charge thereof, shall render all reasonable assistance to an inspector of a local authority, a veterinary inspector or other person, so as to enable the powers conferred by the foregoing provisions of this paragraph to be properly exercised.
 
-## 19. Compensation and expenses[^key-df3368674101bd2d651666fa71cfda76][^M_C_48d1e0bb-8b0f-423c-8025-e9e1ba3632aa][^key-0c9dd7cf58606017d6fcd67fbe4b6a09]
+## 19. Compensation and expenses[^c-df3368674101bd2d651666fa71cfda76][^M_C_48d1e0bb-8b0f-423c-8025-e9e1ba3632aa][^c-0c9dd7cf58606017d6fcd67fbe4b6a09]
 
 (1) The appropriate Minister shall not pay compensation to any person in respect of any animal slaughtered or caused to be slaughtered by him under any of Articles 12(5), 13 or 14(3) above, and any expenses reasonably incurred by the appropriate Minister in relation to such slaughter shall be recoverable on demand as a civil debt from the owner of the animal.
 
 (2) Any expenses reasonably incurred by a local authority or the appropriate Minister in the exercise of any power conferred by Article 15(3) or Article 18 above shall be recoverable on demand as a civil debt by the local authority or the appropriate Minister, as the case may be, from the person in default.
 
-## 20. Production of licences[^key-df3368674101bd2d651666fa71cfda76][^M_C_48d1e0bb-8b0f-423c-8025-e9e1ba3632aa][^key-0c9dd7cf58606017d6fcd67fbe4b6a09]
+## 20. Production of licences[^c-df3368674101bd2d651666fa71cfda76][^M_C_48d1e0bb-8b0f-423c-8025-e9e1ba3632aa][^c-0c9dd7cf58606017d6fcd67fbe4b6a09]
 
 Where, under this order, a licence (other than a general import licence) is required for any purpose, the person for the time being in charge of the animals to which that licence relates shall, on demand made under this order by an officer of Customs and Excise, by a veterinary inspector or an officer of the appropriate Minister, or by an inspector of a local authority or a constable, produce the licence, and allow a copy thereof or extract therefrom to be taken, and shall also, if required, furnish his name and address.
 
-## 21. Offences[^key-df3368674101bd2d651666fa71cfda76][^M_C_48d1e0bb-8b0f-423c-8025-e9e1ba3632aa][^key-0c9dd7cf58606017d6fcd67fbe4b6a09]
+## 21. Offences[^c-df3368674101bd2d651666fa71cfda76][^M_C_48d1e0bb-8b0f-423c-8025-e9e1ba3632aa][^c-0c9dd7cf58606017d6fcd67fbe4b6a09]
 
 (1) Without prejudice to paragraph (2) below—
 
@@ -521,17 +521,17 @@ are hereby declared to be offences against the Act to which section 3 of the Dis
 
 (2) Any person who lands or attempts to land an animal in Great Britain in contravention of Article 3(1) above, or who contravenes any other provision of this order, or any provision of an import licence or other licence issued or notice served under it, or who fails to comply with any such provision, or with any condition subject to which such a licence is issued, or subject to which any authority, direction or consent under this order is given, or who causes or permits any such landing or attempted landing, or any such contravention or non-compliance, commits an offence against the Act.
 
-## 22. Local authority to enforce order[^key-9f87b7dd1badb73568a710dcfd239243]
+## 22. Local authority to enforce order[^c-9f87b7dd1badb73568a710dcfd239243]
 
 The provisions of this order shall, except where otherwise expressly provided, be executed and enforced by the local authority.
 
-## 23. Transitional provisions[^key-832a0adc93d39c61ba43b01ea62ba13d][^M_C_1f8f3930-c8a1-440e-ecaf-d5b4a0cd8cb6][^key-c37f2548de6c8454093a0d6da48520fe]
+## 23. Transitional provisions[^c-832a0adc93d39c61ba43b01ea62ba13d][^M_C_1f8f3930-c8a1-440e-ecaf-d5b4a0cd8cb6][^c-c37f2548de6c8454093a0d6da48520fe]
 
 (1) Any order made under section 27 of the Act, and any licence issued under any such order, shall, in so far as it is in force immediately before the coming into operation of this order, have effect in relation to the animals to which it applies as if it were an import licence issued under this order; and the animals to which such an order or licence applies shall, notwithstanding the provisions of that order or licence, be dealt with so far as is practicable in accordance with the provisions of this order.
 
 (2) Any licence issued, approval given or notice served under any order, or under any provision of an order, revoked by this order shall, in so far as it is in force immediately before the coming into operation of this order, have effect as if it were issued, given or served under this order; and the animals, premises or thing to which that licence, approval or notice relates shall, notwithstanding the provisions of that licence, approval or notice, be dealt with so far as is practicable in accordance with the provisions of this order.
 
-## 24. Special provisions relating to anthrax[^key-5c5946cfc888837ce40e4edca83926c9][^M_C_043a2335-5de3-4124-f343-b9bef4f13ab1][^key-c37f2548de6c8454093a0d6da48520fe]
+## 24. Special provisions relating to anthrax[^c-5c5946cfc888837ce40e4edca83926c9][^M_C_043a2335-5de3-4124-f343-b9bef4f13ab1][^c-c37f2548de6c8454093a0d6da48520fe]
 
 (1) Subject to paragraph (2) below, the Anthrax Order of 1938[^f00003] shall not apply in relation to—
 
@@ -542,11 +542,11 @@ The provisions of this order shall, except where otherwise expressly provided, b
 
 (3) If a veterinary inspector knows or suspects that an imported animal is, or was at the time of its death, affected with anthrax, he shall report the fact to the local authority and to the Medical Officer of Environmental Health or, in Scotland, the Chief Administrative Medical Officer, for the area in which the animal or carcase is situated.
 
-## 25. Amendment, application and revocation of existing orders[^key-7d1e0b933a9791bbf014dd651d5007ff]
+## 25. Amendment, application and revocation of existing orders[^c-7d1e0b933a9791bbf014dd651d5007ff]
 
 (1) The orders mentioned in Schedule 1 to this order shall be amended in accordance with the provisions of that Schedule.
 
-(2)[^key-09b84efac22c4705d516f1eac2a3309a][^M_C_b1910a24-48a5-4f59-9bd1-f1a3de497a5a][^key-db85ae629b47cd70b0aa0501e87213ec] The orders mentioned in Schedule 2 to this order shall not apply in relation to approved premises, and shall apply in relation to imported animals only—
+(2)[^c-09b84efac22c4705d516f1eac2a3309a][^M_C_b1910a24-48a5-4f59-9bd1-f1a3de497a5a][^c-db85ae629b47cd70b0aa0501e87213ec] The orders mentioned in Schedule 2 to this order shall not apply in relation to approved premises, and shall apply in relation to imported animals only—
 
 - (a) from the time specified in the licence issued in respect of those animals under Article 11(5) above; or
 - (b) where the existence or suspected existence of disease in any part of Great Britain makes it expedient that no such licence should be issued for the time being, from the time when those animals have completed the period of detention in quarantine required under the foregoing provisions of this order or, as the case may be, have been rested at an approved reception centre for the period so required.
@@ -569,13 +569,13 @@ Secretary of State for Scotland
 
 (Article 25(1))
 
-**1.**[^key-6634d5f968e201910b87534d201ef8f4] Article 8 of the Transit of Animals Order of 1927[^f00004], as amended[^f00005], (disease at places of landing) shall be amended by the substitution for paragraph (2) thereof of the following paragraph:—
+**1.**[^c-6634d5f968e201910b87534d201ef8f4] Article 8 of the Transit of Animals Order of 1927[^f00004], as amended[^f00005], (disease at places of landing) shall be amended by the substitution for paragraph (2) thereof of the following paragraph:—
 
 > (2) Nothing in this Article shall apply to premises approved under Article 10(1) of the Importation of Animals Order 1977 for use for the detention in quarantine of imported animals, or for the reception and resting of such animals.
 
 .
 
-**2.**[^key-386ca5b6fe638d370c4eda9fe6efcb28] (1) The Foot-and-Mouth Disease (Controlled Areas Restrictions) General Order of 1938[^f00006], as amended[^f00007], shall be further amended in accordance with the following provisions of this paragraph.
+**2.**[^c-386ca5b6fe638d370c4eda9fe6efcb28] (1) The Foot-and-Mouth Disease (Controlled Areas Restrictions) General Order of 1938[^f00006], as amended[^f00007], shall be further amended in accordance with the following provisions of this paragraph.
 
 (2) Article 3 (movement into a controlled area) shall cease to have effect, and the following Article shall be substituted therefore:—
 
@@ -605,35 +605,35 @@ Secretary of State for Scotland
 
 .
 
-**3.**[^key-17ca3233dfad5b59fd91be8055940fdc] Article 3 of the Foot-and-Mouth Disease (Infected Areas Restrictions) Order of 1938[^f00008], as amended[^f00009], (movement into an infected area) shall be amended—
+**3.**[^c-17ca3233dfad5b59fd91be8055940fdc] Article 3 of the Foot-and-Mouth Disease (Infected Areas Restrictions) Order of 1938[^f00008], as amended[^f00009], (movement into an infected area) shall be amended—
 
 - (a) by the insertion, after the word “slaughterhouse” (where that word first appears), of the words “or premises approved under Article 10(1) of the Importation of Animals Order 1977 for use for the detention in quarantine of imported animals, or for the reception and resting of such animals,”; and
 - (b) by the substitution, for the words “on arrival at the farm for 14 days,”, of the words “for a period of 14 days on arrival at the farm or the premises approved under the said Article 10(1),”.
 
-**4.**[^key-d14315936207751011ee04c642c7fe05] Article 7 of the Swine Fever (Infected Areas Restrictions) Order 1956 *(affected by repeal, see note)*[^key-803e6df07d1ae6735fc9125976a14f76][^f00010], as amended *(affected by repeal, see note)*[^key-803e6df07d1ae6735fc9125976a14f76][^f00011], (licences for movement of swine within or out of an infected area) shall be amended by the insertion— *(affected by repeal, see note)*[^key-803e6df07d1ae6735fc9125976a14f76]
+**4.**[^c-d14315936207751011ee04c642c7fe05] Article 7 of the Swine Fever (Infected Areas Restrictions) Order 1956 *(affected by repeal, see note)*[^c-803e6df07d1ae6735fc9125976a14f76][^f00010], as amended *(affected by repeal, see note)*[^c-803e6df07d1ae6735fc9125976a14f76][^f00011], (licences for movement of swine within or out of an infected area) shall be amended by the insertion— *(affected by repeal, see note)*[^c-803e6df07d1ae6735fc9125976a14f76]
 
-- (a) in paragraph (1), after sub-paragraph (b)(iv), of the word *(affected by repeal, see note)*[^key-803e6df07d1ae6735fc9125976a14f76] “or” *(affected by repeal, see note)*[^key-803e6df07d1ae6735fc9125976a14f76] and the following sub-paragraph:— *(affected by repeal, see note)*[^key-803e6df07d1ae6735fc9125976a14f76]
+- (a) in paragraph (1), after sub-paragraph (b)(iv), of the word *(affected by repeal, see note)*[^c-803e6df07d1ae6735fc9125976a14f76] “or” *(affected by repeal, see note)*[^c-803e6df07d1ae6735fc9125976a14f76] and the following sub-paragraph:— *(affected by repeal, see note)*[^c-803e6df07d1ae6735fc9125976a14f76]
 
-  > - (c) movement of imported swine out of an infected area, from the port or airport at which they are landed, to premises approved under Article 10(1) of the Importation of Animals Order 1977 for use for the detention in quarantine of imported animals, or for the reception and resting of such animals. *(affected by repeal, see note)*[^key-803e6df07d1ae6735fc9125976a14f76]
+  > - (c) movement of imported swine out of an infected area, from the port or airport at which they are landed, to premises approved under Article 10(1) of the Importation of Animals Order 1977 for use for the detention in quarantine of imported animals, or for the reception and resting of such animals. *(affected by repeal, see note)*[^c-803e6df07d1ae6735fc9125976a14f76]
 
-  ; and *(affected by repeal, see note)*[^key-803e6df07d1ae6735fc9125976a14f76]
-- (b) after paragraph (1A) of the following paragraph:— *(affected by repeal, see note)*[^key-803e6df07d1ae6735fc9125976a14f76]
+  ; and *(affected by repeal, see note)*[^c-803e6df07d1ae6735fc9125976a14f76]
+- (b) after paragraph (1A) of the following paragraph:— *(affected by repeal, see note)*[^c-803e6df07d1ae6735fc9125976a14f76]
 
-  > (1B) Notwithstanding the provisions of Article 5 of this order and of paragraph (1) above, a licence under that paragraph shall not be required for the movement of imported swine from a port or airport within an infected area at which they are landed to premises within the same infected area which have been approved under Article 10(1) of the Importation of Animals Order 1977 for use for the detention in quarantine of imported animals, or for the reception and resting of such animals. *(affected by repeal, see note)*[^key-803e6df07d1ae6735fc9125976a14f76]
+  > (1B) Notwithstanding the provisions of Article 5 of this order and of paragraph (1) above, a licence under that paragraph shall not be required for the movement of imported swine from a port or airport within an infected area at which they are landed to premises within the same infected area which have been approved under Article 10(1) of the Importation of Animals Order 1977 for use for the detention in quarantine of imported animals, or for the reception and resting of such animals. *(affected by repeal, see note)*[^c-803e6df07d1ae6735fc9125976a14f76]
 
-**5.**[^key-e692d9d6dd20ffb8aa0517afe9e8b821] Article 3(2) of the Movement of Animals (Records) Order 1960[^f00012], as amended[^f00013], (records of movements of animals) shall be amended by the substitution for sub-paragraph (d) thereof of the following sub-paragraph:—
+**5.**[^c-e692d9d6dd20ffb8aa0517afe9e8b821] Article 3(2) of the Movement of Animals (Records) Order 1960[^f00012], as amended[^f00013], (records of movements of animals) shall be amended by the substitution for sub-paragraph (d) thereof of the following sub-paragraph:—
 
 > - (d) the movement of an imported animal from the port or airport at which it is landed to premises approved under Article 10(1) of the Importation of Animals Order 1977 for use for the detention in quarantine of imported animals, or for the reception and resting of such animals, and its subsequent movement therefrom under the authority of a licence issued under Article 11(5) of that order.
 
 .
 
-**6.**[^key-96f3bd9e65352ae8bcb55900b4231daf] Article 3 of the Swine Vesicular Disease Order 1972[^f00014], as amended[^f00015], (application of existing provisions) shall be amended by the insertion at the end thereof of the following paragraph:—
+**6.**[^c-96f3bd9e65352ae8bcb55900b4231daf] Article 3 of the Swine Vesicular Disease Order 1972[^f00014], as amended[^f00015], (application of existing provisions) shall be amended by the insertion at the end thereof of the following paragraph:—
 
 > (3) The reference in paragraph (1) above to the provisions of the orders relating to foot-and-mouth disease mentioned in the Schedule to this order shall be construed as a reference to those provisions, or any of them, as amended or replaced by any subsequent order or orders.
 
 .
 
-**7.**[^key-277148f0e5c1171520d7562bfa777e31] (1) The Movement and Sale of Pigs Order 1975[^f00016], as amended[^f00017], shall be further amended in accordance with the following provisions of this paragraph.
+**7.**[^c-277148f0e5c1171520d7562bfa777e31] (1) The Movement and Sale of Pigs Order 1975[^f00016], as amended[^f00017], shall be further amended in accordance with the following provisions of this paragraph.
 
 (2) In Article 2(1) (restriction on movement of pigs within 21 days of a previous movement), there shall be substituted, for the words in brackets, the following words:—
 
@@ -647,7 +647,7 @@ Secretary of State for Scotland
 
 .
 
-## SCHEDULE 2 — ORDERS TO HAVE ONLY LIMITED APPLICATION TO IMPORTED ANIMALS[^key-ff32f138ff5585a2c8e37baf46d79f3c]
+## SCHEDULE 2 — ORDERS TO HAVE ONLY LIMITED APPLICATION TO IMPORTED ANIMALS[^c-ff32f138ff5585a2c8e37baf46d79f3c]
 
 (Article 25(2))
 
@@ -656,14 +656,14 @@ Secretary of State for Scotland
 | S.R. and O. 1928/206 | Cattle Plague Order of 1928[^f00018], as amended.[^f00019] |
 | S.R. and O. 1928/133 | Foot-and-Mouth Disease Order of 1928[^f00020], as amended[^f00021] |
 | S.R. and O. 1928/205 | Pleuro-Pneumonia Order of 1928[^f00022], as amended[^f00023] |
-| [^key-d3342554f71085ac808be734272b9b1f]. . . | [^key-d3342554f71085ac808be734272b9b1f]. . . |
-| [^key-404078c5fde6c33ce82f77396657b32c]. . . | [^key-404078c5fde6c33ce82f77396657b32c]. . . |
+| [^c-d3342554f71085ac808be734272b9b1f]. . . | [^c-d3342554f71085ac808be734272b9b1f]. . . |
+| [^c-404078c5fde6c33ce82f77396657b32c]. . . | [^c-404078c5fde6c33ce82f77396657b32c]. . . |
 | S.I. 1963/286 | Swine Fever Order 1963[^f00027] |
-| [^key-d3342554f71085ac808be734272b9b1f]. . . | [^key-d3342554f71085ac808be734272b9b1f]. . . |
+| [^c-d3342554f71085ac808be734272b9b1f]. . . | [^c-d3342554f71085ac808be734272b9b1f]. . . |
 
-## SCHEDULE 3 — REVOCATIONS[^key-ebecc941addd2daac814e763dc1d78b3]
+## SCHEDULE 3 — REVOCATIONS[^c-ebecc941addd2daac814e763dc1d78b3]
 
-[^key-ebecc941addd2daac814e763dc1d78b3]
+[^c-ebecc941addd2daac814e763dc1d78b3]
 
 (Article 25(3))
 
@@ -717,43 +717,43 @@ Schedule 1 amends certain orders relating to animal health so as to bring them i
 
 [^f00001]: Footnote: By the Transfer of Functions (Animal Health) Order 1955 (S.I. 1955/958(1955 I, p. 1184)).
 
-[^key-13d0fcaf7106b08bf421414d1687e6d4]: Commencement: Art. 1 coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
+[^c-13d0fcaf7106b08bf421414d1687e6d4]: Commencement: Art. 1 coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
 
-[^key-0cb0d3a8cbddd4f46c64d22b6eb17245]: Commencement: Art. 2 coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
+[^c-0cb0d3a8cbddd4f46c64d22b6eb17245]: Commencement: Art. 2 coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
 
-[^key-b3eb03bdfd38cab7e94429686c8f914d]: Textual amendment: Words in art. 2(1) substituted (29.7.1996) by [The Importation of Animals (Amendment) Order 1996 (S.I. 1996/1760)](https://www.legislation.gov.uk/uksi/1996/1760), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1760/article/1), [2](https://www.legislation.gov.uk/uksi/1996/1760/article/2)
+[^c-b3eb03bdfd38cab7e94429686c8f914d]: Textual amendment: Words in art. 2(1) substituted (29.7.1996) by [The Importation of Animals (Amendment) Order 1996 (S.I. 1996/1760)](https://www.legislation.gov.uk/uksi/1996/1760), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1760/article/1), [2](https://www.legislation.gov.uk/uksi/1996/1760/article/2)
 
-[^key-fcae0e7b28cafb1b0e965e91eac25994]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1977/944/article/2/1) inserted (S.) (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2013/173/article/4/2/b)
+[^c-fcae0e7b28cafb1b0e965e91eac25994]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1977/944/article/2/1) inserted (S.) (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2013/173/article/4/2/b)
 
-[^key-494c74200a21ae9b9aae623b44a20e6d]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1977/944/article/2/1) revoked (1.11.2009 for E., 1.4.2010 for W. and 28.6.2013 for S.) by [The Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/2713/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2713/schedule/2); [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/uksi/2010/618), [arts. 1](https://www.legislation.gov.uk/uksi/2010/618/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2010/618/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/618/schedule/2); [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2013/173/article/4/2/a)
+[^c-494c74200a21ae9b9aae623b44a20e6d]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1977/944/article/2/1) revoked (1.11.2009 for E., 1.4.2010 for W. and 28.6.2013 for S.) by [The Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/2713/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2713/schedule/2); [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/uksi/2010/618), [arts. 1](https://www.legislation.gov.uk/uksi/2010/618/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2010/618/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/618/schedule/2); [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2013/173/article/4/2/a)
 
-[^key-f933ca4c89faa1864a65cec8e7bceb1e]: Textual amendment: Word in [art. 2(3)](https://www.legislation.gov.uk/uksi/1977/944/article/2/3) revoked (1.12.1990) by [The Channel Tunnel (Amendment of Agriculture, Fisheries and Food Import Legislation) Order 1990 (S.I. 1990/2371)](https://www.legislation.gov.uk/uksi/1990/2371), [art. 1](https://www.legislation.gov.uk/uksi/1990/2371/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1990/2371/schedule/2)
+[^c-f933ca4c89faa1864a65cec8e7bceb1e]: Textual amendment: Word in [art. 2(3)](https://www.legislation.gov.uk/uksi/1977/944/article/2/3) revoked (1.12.1990) by [The Channel Tunnel (Amendment of Agriculture, Fisheries and Food Import Legislation) Order 1990 (S.I. 1990/2371)](https://www.legislation.gov.uk/uksi/1990/2371), [art. 1](https://www.legislation.gov.uk/uksi/1990/2371/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1990/2371/schedule/2)
 
-[^key-ed93b2ffb5a0e73649227facaeafc980]: Textual amendment: Art. 2(3)(c) and preceding word inserted (1.12.1990) by [The Channel Tunnel (Amendment of Agriculture, Fisheries and Food Import Legislation) Order 1990 (S.I. 1990/2371)](https://www.legislation.gov.uk/uksi/1990/2371), [art. 1](https://www.legislation.gov.uk/uksi/1990/2371/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1990/2371/schedule/2)
+[^c-ed93b2ffb5a0e73649227facaeafc980]: Textual amendment: Art. 2(3)(c) and preceding word inserted (1.12.1990) by [The Channel Tunnel (Amendment of Agriculture, Fisheries and Food Import Legislation) Order 1990 (S.I. 1990/2371)](https://www.legislation.gov.uk/uksi/1990/2371), [art. 1](https://www.legislation.gov.uk/uksi/1990/2371/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1990/2371/schedule/2)
 
-[^key-be94e6862936cb3fc41c13b414881172]: Modification: Art. 3 excluded in part (30.4.2005) by [The Animals and Animal Products (Import and Export) (Wales) Regulations 2005 (S.I. 2005/1158)](https://www.legislation.gov.uk/wsi/2005/1158), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1158/regulation/1/1), [34](https://www.legislation.gov.uk/wsi/2005/1158/regulation/34), [Sch. 8](https://www.legislation.gov.uk/wsi/2005/1158/schedule/8) (with [reg. 2](https://www.legislation.gov.uk/wsi/2005/1158/regulation/2))
+[^c-be94e6862936cb3fc41c13b414881172]: Modification: Art. 3 excluded in part (30.4.2005) by [The Animals and Animal Products (Import and Export) (Wales) Regulations 2005 (S.I. 2005/1158)](https://www.legislation.gov.uk/wsi/2005/1158), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1158/regulation/1/1), [34](https://www.legislation.gov.uk/wsi/2005/1158/regulation/34), [Sch. 8](https://www.legislation.gov.uk/wsi/2005/1158/schedule/8) (with [reg. 2](https://www.legislation.gov.uk/wsi/2005/1158/regulation/2))
 
-[^key-d1bdaf5da8a9aff04259c8d54b562d64]: Modification: Art. 3 excluded (15.8.2005) by [The Animals and Animal Products (Import and Export) (England) Regulations 2005 (S.I. 2005/2002)](https://www.legislation.gov.uk/uksi/2005/2002), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2002/regulation/1/1), [34](https://www.legislation.gov.uk/uksi/2005/2002/regulation/34), [Sch. 8](https://www.legislation.gov.uk/uksi/2005/2002/schedule/8) (with [reg. 2](https://www.legislation.gov.uk/uksi/2005/2002/regulation/2))
+[^c-d1bdaf5da8a9aff04259c8d54b562d64]: Modification: Art. 3 excluded (15.8.2005) by [The Animals and Animal Products (Import and Export) (England) Regulations 2005 (S.I. 2005/2002)](https://www.legislation.gov.uk/uksi/2005/2002), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2002/regulation/1/1), [34](https://www.legislation.gov.uk/uksi/2005/2002/regulation/34), [Sch. 8](https://www.legislation.gov.uk/uksi/2005/2002/schedule/8) (with [reg. 2](https://www.legislation.gov.uk/uksi/2005/2002/regulation/2))
 
 [^M_C_c48d33c2-100d-4834-979c-adda50710f42]: Modification: Art. 3 excluded in part (29.6.2006) by [The Animals and Animal Products (Import and Export) (England) Regulations 2006 (S.I. 2006/1471)](https://www.legislation.gov.uk/uksi/2006/1471), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1471/regulation/1/1), [35(3)](https://www.legislation.gov.uk/uksi/2006/1471/regulation/35/3), [Sch. 9](https://www.legislation.gov.uk/uksi/2006/1471/schedule/9)
 
-[^key-fe9c71a408e9e89042dd4d5dfe0e6c55]: Modification: Art. 3 excluded in part (2.4.2007) by [The Animals and Animal Products (Import and Export) (Scotland) Regulations 2007 (S.S.I. 2007/194)](https://www.legislation.gov.uk/ssi/2007/194), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/1/1), [37(3)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/3), [sch. 9](https://www.legislation.gov.uk/ssi/2007/194/schedule/9) (with [regs. 2](https://www.legislation.gov.uk/ssi/2007/194/regulation/2), [37(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/1)[(2)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/2))
+[^c-fe9c71a408e9e89042dd4d5dfe0e6c55]: Modification: Art. 3 excluded in part (2.4.2007) by [The Animals and Animal Products (Import and Export) (Scotland) Regulations 2007 (S.S.I. 2007/194)](https://www.legislation.gov.uk/ssi/2007/194), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/1/1), [37(3)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/3), [sch. 9](https://www.legislation.gov.uk/ssi/2007/194/schedule/9) (with [regs. 2](https://www.legislation.gov.uk/ssi/2007/194/regulation/2), [37(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/1)[(2)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/2))
 
-[^key-69f05e483eaeb403587c3422c55ff65e]: Textual amendment: Art. 3(1A) inserted (S.) (1.1.2024) by [The Importation of Animals and Related Products (Miscellaneous Amendment and Revocation) (Scotland) Order 2023 (S.S.I. 2023/391)](https://www.legislation.gov.uk/ssi/2023/391), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2023/391/article/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2023/391/article/3/2)
+[^c-69f05e483eaeb403587c3422c55ff65e]: Textual amendment: Art. 3(1A) inserted (S.) (1.1.2024) by [The Importation of Animals and Related Products (Miscellaneous Amendment and Revocation) (Scotland) Order 2023 (S.S.I. 2023/391)](https://www.legislation.gov.uk/ssi/2023/391), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2023/391/article/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2023/391/article/3/2)
 
 [^M_E_gpcidzju-mx04-8yqk-7yty-6808a024b2c2b]: Extent: This version of this provision applies to England only; separate versions have been created for Wales and Scotland
 
-[^key-b179dafaa0439b7a8b70d7b974e5f234]: Commencement: Art. 4 coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
+[^c-b179dafaa0439b7a8b70d7b974e5f234]: Commencement: Art. 4 coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
 
-[^key-eeb9ee9beffc976f7b67850875445975]: Textual amendment: Art. 4(1) revoked (S.) (27.6.2000) by [The Transport of Animals (Cleansing and Disinfection) (Scotland) Regulations 2000 (S.S.I. 2000/167)](https://www.legislation.gov.uk/ssi/2000/167), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/167/regulation/1/1), [sch. 3 Pt. I](https://www.legislation.gov.uk/ssi/2000/167/schedule/3/part/I); revoked (E.) (6.7.2000) by [The Transport of Animals (Cleansing and Disinfection) (England) (No. 2) Order 2000 (S.I. 2000/1618)](https://www.legislation.gov.uk/uksi/2000/1618), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/1618/article/1/1), [Sch. 3 Pt. I](https://www.legislation.gov.uk/uksi/2000/1618/schedule/3/part/I); and revoked (W.) (21.7.2001) by [The Transport of Animals (Cleansing and Disinfection) (Wales) Order 2001 (S.I. 2001/2662)](https://www.legislation.gov.uk/uksi/2001/2662), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/2662/article/1/1), [8(1)](https://www.legislation.gov.uk/uksi/2001/2662/article/8/1), [Sch. 3 Pt. I](https://www.legislation.gov.uk/uksi/2001/2662/schedule/3/part/I)
+[^c-eeb9ee9beffc976f7b67850875445975]: Textual amendment: Art. 4(1) revoked (S.) (27.6.2000) by [The Transport of Animals (Cleansing and Disinfection) (Scotland) Regulations 2000 (S.S.I. 2000/167)](https://www.legislation.gov.uk/ssi/2000/167), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/167/regulation/1/1), [sch. 3 Pt. I](https://www.legislation.gov.uk/ssi/2000/167/schedule/3/part/I); revoked (E.) (6.7.2000) by [The Transport of Animals (Cleansing and Disinfection) (England) (No. 2) Order 2000 (S.I. 2000/1618)](https://www.legislation.gov.uk/uksi/2000/1618), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/1618/article/1/1), [Sch. 3 Pt. I](https://www.legislation.gov.uk/uksi/2000/1618/schedule/3/part/I); and revoked (W.) (21.7.2001) by [The Transport of Animals (Cleansing and Disinfection) (Wales) Order 2001 (S.I. 2001/2662)](https://www.legislation.gov.uk/uksi/2001/2662), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/2662/article/1/1), [8(1)](https://www.legislation.gov.uk/uksi/2001/2662/article/8/1), [Sch. 3 Pt. I](https://www.legislation.gov.uk/uksi/2001/2662/schedule/3/part/I)
 
-[^key-a37a42366fc420d4930e9e1121ec189d]: Textual amendment: Words in art. 4(2) substituted (E.) (1.11.2009) by [The Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2009/2713/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2713/schedule/1)
+[^c-a37a42366fc420d4930e9e1121ec189d]: Textual amendment: Words in art. 4(2) substituted (E.) (1.11.2009) by [The Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2009/2713/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2713/schedule/1)
 
-[^key-24ff0ff8aacf9361522b2bfe33116f2c]: Textual amendment: Words in art. 4(3)(b) substituted (E.) (1.11.2009) by [The Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2009/2713/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2713/schedule/1)
+[^c-24ff0ff8aacf9361522b2bfe33116f2c]: Textual amendment: Words in art. 4(3)(b) substituted (E.) (1.11.2009) by [The Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2009/2713/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2713/schedule/1)
 
-[^key-f73279bc2e945a09f27daaeadb804b74]: Textual amendment: Words in art. 4(4) substituted (E.) (1.11.2009) by [The Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2009/2713/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2713/schedule/1)
+[^c-f73279bc2e945a09f27daaeadb804b74]: Textual amendment: Words in art. 4(4) substituted (E.) (1.11.2009) by [The Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2009/2713/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2713/schedule/1)
 
-[^key-49c0d8c35f227e91e366b621e78d1929]: Textual amendment: Words in art. 4(5)(a) substituted (E.) (1.11.2009) by [The Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2009/2713/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2713/schedule/1)
+[^c-49c0d8c35f227e91e366b621e78d1929]: Textual amendment: Words in art. 4(5)(a) substituted (E.) (1.11.2009) by [The Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2009/2713/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2713/schedule/1)
 
 [^M_C_12412610-8e5e-4307-f7d9-a855985cc156]: Modification: Art. 4(7)(8) excluded (29.6.2006) by [The Animals and Animal Products (Import and Export) (England) Regulations 2006 (S.I. 2006/1471)](https://www.legislation.gov.uk/uksi/2006/1471), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1471/regulation/1/1), [35(3)](https://www.legislation.gov.uk/uksi/2006/1471/regulation/35/3), [Sch. 9](https://www.legislation.gov.uk/uksi/2006/1471/schedule/9)
 
@@ -763,13 +763,13 @@ Schedule 1 amends certain orders relating to animal health so as to bring them i
 
 [^V_S_4270e013-1c7c-fc31-3692-16d0dd35037f]: Textual amendment: [Art. 4(1)](https://www.legislation.gov.uk/uksi/1977/944/article/4/1) revoked (S.) (27.6.2000) by [The Transport of Animals (Cleansing and Disinfection) (Scotland) Regulations 2000 (S.S.I. 2000/167)](https://www.legislation.gov.uk/ssi/2000/167), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/167/regulation/1/1), [sch. 3 Pt. I](https://www.legislation.gov.uk/ssi/2000/167/schedule/3/part/I); revoked (E.) (6.7.2000) by [The Transport of Animals (Cleansing and Disinfection) (England) (No. 2) Order 2000 (S.I. 2000/1618)](https://www.legislation.gov.uk/uksi/2000/1618), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/1618/article/1/1), [Sch. 3 Pt. I](https://www.legislation.gov.uk/uksi/2000/1618/schedule/3/part/I); and revoked (W.) (21.7.2001) by [The Transport of Animals (Cleansing and Disinfection) (Wales) Order 2001 (S.I. 2001/2662)](https://www.legislation.gov.uk/uksi/2001/2662), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/2662/article/1/1), [8(1)](https://www.legislation.gov.uk/uksi/2001/2662/article/8/1), [Sch. 3 Pt. I](https://www.legislation.gov.uk/uksi/2001/2662/schedule/3/part/I)
 
-[^key-68a2e7ae31de011b6504145909d0e4fe]: Textual amendment: Words in art. 4(2) substituted (S.) (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [4(3)](https://www.legislation.gov.uk/ssi/2013/173/article/4/3)
+[^c-68a2e7ae31de011b6504145909d0e4fe]: Textual amendment: Words in art. 4(2) substituted (S.) (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [4(3)](https://www.legislation.gov.uk/ssi/2013/173/article/4/3)
 
-[^key-612d67571851a7db812420263307a670]: Textual amendment: Words in art. 4(3)(b) substituted (S.) (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [4(3)](https://www.legislation.gov.uk/ssi/2013/173/article/4/3)
+[^c-612d67571851a7db812420263307a670]: Textual amendment: Words in art. 4(3)(b) substituted (S.) (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [4(3)](https://www.legislation.gov.uk/ssi/2013/173/article/4/3)
 
-[^key-982ea44c93a105303c122d7cbe4b8d22]: Textual amendment: Words in art. 4(4) substituted (S.) (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [4(3)](https://www.legislation.gov.uk/ssi/2013/173/article/4/3)
+[^c-982ea44c93a105303c122d7cbe4b8d22]: Textual amendment: Words in art. 4(4) substituted (S.) (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [4(3)](https://www.legislation.gov.uk/ssi/2013/173/article/4/3)
 
-[^key-a1a60392ce3eb5c0bcc6318d85bc08b5]: Textual amendment: Words in art. 4(5)(a) substituted (S.) (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [4(3)](https://www.legislation.gov.uk/ssi/2013/173/article/4/3)
+[^c-a1a60392ce3eb5c0bcc6318d85bc08b5]: Textual amendment: Words in art. 4(5)(a) substituted (S.) (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [4(3)](https://www.legislation.gov.uk/ssi/2013/173/article/4/3)
 
 [^V_S_1f66366a-ea09-2ba7-970b-2a4d9bc76528]: Modification: [Art. 4(7)](https://www.legislation.gov.uk/uksi/1977/944/article/4/7) excluded (2.4.2007) by [The Animals and Animal Products (Import and Export) (Scotland) Regulations 2007 (S.S.I. 2007/194)](https://www.legislation.gov.uk/ssi/2007/194), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/1/1), [37(3)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/3), [sch. 9](https://www.legislation.gov.uk/ssi/2007/194/schedule/9) (with [regs. 2](https://www.legislation.gov.uk/ssi/2007/194/regulation/2), [37(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/1)[(2)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/2))
 
@@ -781,149 +781,149 @@ Schedule 1 amends certain orders relating to animal health so as to bring them i
 
 [^V_W_0a8b0858-2043-2571-8a5e-b3cca7af5e7f]: Textual amendment: Art. 4(1) revoked (S.) (27.6.2000) by [The Transport of Animals (Cleansing and Disinfection) (Scotland) Regulations 2000 (S.S.I. 2000/167)](https://www.legislation.gov.uk/ssi/2000/167), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/167/regulation/1/1), [sch. 3 Pt. I](https://www.legislation.gov.uk/ssi/2000/167/schedule/3/part/I); revoked (E.) (6.7.2000) by [The Transport of Animals (Cleansing and Disinfection) (England) (No. 2) Order 2000 (S.I. 2000/1618)](https://www.legislation.gov.uk/uksi/2000/1618), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/1618/article/1/1), [Sch. 3 Pt. I](https://www.legislation.gov.uk/uksi/2000/1618/schedule/3/part/I); and revoked (W.) (21.7.2001) by [The Transport of Animals (Cleansing and Disinfection) (Wales) Order 2001 (S.I. 2001/2662)](https://www.legislation.gov.uk/uksi/2001/2662), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/2662/article/1/1), [8(1)](https://www.legislation.gov.uk/uksi/2001/2662/article/8/1), [Sch. 3 Pt. I](https://www.legislation.gov.uk/uksi/2001/2662/schedule/3/part/I)
 
-[^key-248e01ce62544d0ca644ee0a96dbd130]: Textual amendment: Words in art. 4(2) substituted (W.) (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/wsi/2010/618), [arts. 1](https://www.legislation.gov.uk/wsi/2010/618/article/1), [2(1)](https://www.legislation.gov.uk/wsi/2010/618/article/2/1), [Sch. 1](https://www.legislation.gov.uk/wsi/2010/618/schedule/1)
+[^c-248e01ce62544d0ca644ee0a96dbd130]: Textual amendment: Words in art. 4(2) substituted (W.) (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/wsi/2010/618), [arts. 1](https://www.legislation.gov.uk/wsi/2010/618/article/1), [2(1)](https://www.legislation.gov.uk/wsi/2010/618/article/2/1), [Sch. 1](https://www.legislation.gov.uk/wsi/2010/618/schedule/1)
 
-[^key-e85dfd3181e9b52301aa1f73f75e97f6]: Textual amendment: Words in art. 4(3)(b) substituted (W.) (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/wsi/2010/618), [arts. 1](https://www.legislation.gov.uk/wsi/2010/618/article/1), [2(1)](https://www.legislation.gov.uk/wsi/2010/618/article/2/1), [Sch. 1](https://www.legislation.gov.uk/wsi/2010/618/schedule/1)
+[^c-e85dfd3181e9b52301aa1f73f75e97f6]: Textual amendment: Words in art. 4(3)(b) substituted (W.) (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/wsi/2010/618), [arts. 1](https://www.legislation.gov.uk/wsi/2010/618/article/1), [2(1)](https://www.legislation.gov.uk/wsi/2010/618/article/2/1), [Sch. 1](https://www.legislation.gov.uk/wsi/2010/618/schedule/1)
 
-[^key-fadfe2ce7f0598886b109afe67132535]: Textual amendment: Words in art. 4(4) substituted (W.) (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/wsi/2010/618), [arts. 1](https://www.legislation.gov.uk/wsi/2010/618/article/1), [2(1)](https://www.legislation.gov.uk/wsi/2010/618/article/2/1), [Sch. 1](https://www.legislation.gov.uk/wsi/2010/618/schedule/1)
+[^c-fadfe2ce7f0598886b109afe67132535]: Textual amendment: Words in art. 4(4) substituted (W.) (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/wsi/2010/618), [arts. 1](https://www.legislation.gov.uk/wsi/2010/618/article/1), [2(1)](https://www.legislation.gov.uk/wsi/2010/618/article/2/1), [Sch. 1](https://www.legislation.gov.uk/wsi/2010/618/schedule/1)
 
-[^key-5b71366ba181484705fafccee833e316]: Textual amendment: Words in art. 4(5)(a) substituted (W.) (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/wsi/2010/618), [arts. 1](https://www.legislation.gov.uk/wsi/2010/618/article/1), [2(1)](https://www.legislation.gov.uk/wsi/2010/618/article/2/1), [Sch. 1](https://www.legislation.gov.uk/wsi/2010/618/schedule/1)
+[^c-5b71366ba181484705fafccee833e316]: Textual amendment: Words in art. 4(5)(a) substituted (W.) (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/wsi/2010/618), [arts. 1](https://www.legislation.gov.uk/wsi/2010/618/article/1), [2(1)](https://www.legislation.gov.uk/wsi/2010/618/article/2/1), [Sch. 1](https://www.legislation.gov.uk/wsi/2010/618/schedule/1)
 
 [^V_W_cce92cfa-9e86-b608-5925-58d829d1e676]: Modification: Art. 4(7)(8) excluded (30.4.2005) by [The Animals and Animal Products (Import and Export) (Wales) Regulations 2005 (S.I. 2005/1158)](https://www.legislation.gov.uk/wsi/2005/1158), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1158/regulation/1/1), [34](https://www.legislation.gov.uk/wsi/2005/1158/regulation/34), [Sch. 8](https://www.legislation.gov.uk/wsi/2005/1158/schedule/8) (with [reg. 2](https://www.legislation.gov.uk/wsi/2005/1158/regulation/2))
 
-[^key-ca012201a6783822fd3d39ce8fb7373d]: Commencement: Art. 5 coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
+[^c-ca012201a6783822fd3d39ce8fb7373d]: Commencement: Art. 5 coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
 
-[^key-98802d325e7b9c1b52849ad33a12e245]: Modification: Art. 5(1)-(3) excluded (30.4.2005) by [The Animals and Animal Products (Import and Export) (Wales) Regulations 2005 (S.I. 2005/1158)](https://www.legislation.gov.uk/wsi/2005/1158), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1158/regulation/1/1), [34](https://www.legislation.gov.uk/wsi/2005/1158/regulation/34), [Sch. 8](https://www.legislation.gov.uk/wsi/2005/1158/schedule/8) (with [reg. 2](https://www.legislation.gov.uk/wsi/2005/1158/regulation/2))
+[^c-98802d325e7b9c1b52849ad33a12e245]: Modification: Art. 5(1)-(3) excluded (30.4.2005) by [The Animals and Animal Products (Import and Export) (Wales) Regulations 2005 (S.I. 2005/1158)](https://www.legislation.gov.uk/wsi/2005/1158), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1158/regulation/1/1), [34](https://www.legislation.gov.uk/wsi/2005/1158/regulation/34), [Sch. 8](https://www.legislation.gov.uk/wsi/2005/1158/schedule/8) (with [reg. 2](https://www.legislation.gov.uk/wsi/2005/1158/regulation/2))
 
 [^M_C_d957dce0-8992-41e0-9d29-f76e7ceb4e59]: Modification: Art. 5(1)-(3) excluded (29.6.2006) by [The Animals and Animal Products (Import and Export) (England) Regulations 2006 (S.I. 2006/1471)](https://www.legislation.gov.uk/uksi/2006/1471), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1471/regulation/1/1), [35(3)](https://www.legislation.gov.uk/uksi/2006/1471/regulation/35/3), [Sch. 9](https://www.legislation.gov.uk/uksi/2006/1471/schedule/9)
 
-[^key-45236514bcec9e3dca17ff10e13572e3]: Modification: Art. 5(1)-(3) excluded (2.4.2007) by [The Animals and Animal Products (Import and Export) (Scotland) Regulations 2007 (S.S.I. 2007/194)](https://www.legislation.gov.uk/ssi/2007/194), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/1/1), [37(3)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/3), [sch. 9](https://www.legislation.gov.uk/ssi/2007/194/schedule/9) (with [regs. 2](https://www.legislation.gov.uk/ssi/2007/194/regulation/2), [37(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/1)[(2)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/2))
+[^c-45236514bcec9e3dca17ff10e13572e3]: Modification: Art. 5(1)-(3) excluded (2.4.2007) by [The Animals and Animal Products (Import and Export) (Scotland) Regulations 2007 (S.S.I. 2007/194)](https://www.legislation.gov.uk/ssi/2007/194), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/1/1), [37(3)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/3), [sch. 9](https://www.legislation.gov.uk/ssi/2007/194/schedule/9) (with [regs. 2](https://www.legislation.gov.uk/ssi/2007/194/regulation/2), [37(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/1)[(2)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/2))
 
 [^M_F_54b57955-d149-4b97-a8b2-acc2613bb61b]: Textual amendment: Words in art. 5(4) substituted (S.) (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [4(3)](https://www.legislation.gov.uk/ssi/2013/173/article/4/3)
 
-[^key-f580c46e1a41d02ddead1687bbe37865]: Textual amendment: Words in art. 5(4) substituted (E.) (1.11.2009) by [The Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2009/2713/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2713/schedule/1)
+[^c-f580c46e1a41d02ddead1687bbe37865]: Textual amendment: Words in art. 5(4) substituted (E.) (1.11.2009) by [The Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2009/2713/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2713/schedule/1)
 
-[^key-492cd098c7bc2f5785631de62e90574a]: Textual amendment: Words in art. 5(4) substituted (W.) (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/uksi/2010/618), [arts. 1](https://www.legislation.gov.uk/uksi/2010/618/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2010/618/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/618/schedule/1)
+[^c-492cd098c7bc2f5785631de62e90574a]: Textual amendment: Words in art. 5(4) substituted (W.) (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/uksi/2010/618), [arts. 1](https://www.legislation.gov.uk/uksi/2010/618/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2010/618/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/618/schedule/1)
 
-[^key-35a923378018a0d57ea03d0abf43ea45]: Textual amendment: Art. 5(6)(7) revoked (S.) (27.6.2000) by [The Transport of Animals (Cleansing and Disinfection) (Scotland) Regulations 2000 (S.S.I. 2000/167)](https://www.legislation.gov.uk/ssi/2000/167), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/167/regulation/1/1), [sch. 3 Pt. I](https://www.legislation.gov.uk/ssi/2000/167/schedule/3/part/I); revoked (E.) (6.7.2000) by [The Transport of Animals (Cleansing and Disinfection) (England) (No. 2) Order 2000 (S.I. 2000/1618)](https://www.legislation.gov.uk/uksi/2000/1618), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/1618/article/1/1), [Sch. 3 Pt. I](https://www.legislation.gov.uk/uksi/2000/1618/schedule/3/part/I); and revoked (W.) (21.7.2001) by [The Transport of Animals (Cleansing and Disinfection) (Wales) Order 2001 (S.I. 2001/2662)](https://www.legislation.gov.uk/uksi/2001/2662), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/2662/article/1/1), [8(1)](https://www.legislation.gov.uk/uksi/2001/2662/article/8/1), [Sch. 3 Pt. I](https://www.legislation.gov.uk/uksi/2001/2662/schedule/3/part/I)
+[^c-35a923378018a0d57ea03d0abf43ea45]: Textual amendment: Art. 5(6)(7) revoked (S.) (27.6.2000) by [The Transport of Animals (Cleansing and Disinfection) (Scotland) Regulations 2000 (S.S.I. 2000/167)](https://www.legislation.gov.uk/ssi/2000/167), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/167/regulation/1/1), [sch. 3 Pt. I](https://www.legislation.gov.uk/ssi/2000/167/schedule/3/part/I); revoked (E.) (6.7.2000) by [The Transport of Animals (Cleansing and Disinfection) (England) (No. 2) Order 2000 (S.I. 2000/1618)](https://www.legislation.gov.uk/uksi/2000/1618), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/1618/article/1/1), [Sch. 3 Pt. I](https://www.legislation.gov.uk/uksi/2000/1618/schedule/3/part/I); and revoked (W.) (21.7.2001) by [The Transport of Animals (Cleansing and Disinfection) (Wales) Order 2001 (S.I. 2001/2662)](https://www.legislation.gov.uk/uksi/2001/2662), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/2662/article/1/1), [8(1)](https://www.legislation.gov.uk/uksi/2001/2662/article/8/1), [Sch. 3 Pt. I](https://www.legislation.gov.uk/uksi/2001/2662/schedule/3/part/I)
 
-[^key-168499ab23a3aba376a5a31c16e63ae7]: Textual amendment: Art. 6 revoked (S.) (27.6.2000) by [The Transport of Animals (Cleansing and Disinfection) (Scotland) Regulations 2000 (S.S.I. 2000/167)](https://www.legislation.gov.uk/ssi/2000/167), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/167/regulation/1/1), [sch. 3 Pt. I](https://www.legislation.gov.uk/ssi/2000/167/schedule/3/part/I); revoked (E.) (6.7.2000) by [The Transport of Animals (Cleansing and Disinfection) (England) (No. 2) Order 2000 (S.I. 2000/1618)](https://www.legislation.gov.uk/uksi/2000/1618), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/1618/article/1/1), [Sch. 3 Pt. I](https://www.legislation.gov.uk/uksi/2000/1618/schedule/3/part/I); and revoked (W.) (21.7.2001) by [The Transport of Animals (Cleansing and Disinfection) (Wales) Order 2001 (S.I. 2001/2662)](https://www.legislation.gov.uk/uksi/2001/2662), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/2662/article/1/1), [8(1)](https://www.legislation.gov.uk/uksi/2001/2662/article/8/1), [Sch. 3 Pt. I](https://www.legislation.gov.uk/uksi/2001/2662/schedule/3/part/I)
+[^c-168499ab23a3aba376a5a31c16e63ae7]: Textual amendment: Art. 6 revoked (S.) (27.6.2000) by [The Transport of Animals (Cleansing and Disinfection) (Scotland) Regulations 2000 (S.S.I. 2000/167)](https://www.legislation.gov.uk/ssi/2000/167), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/167/regulation/1/1), [sch. 3 Pt. I](https://www.legislation.gov.uk/ssi/2000/167/schedule/3/part/I); revoked (E.) (6.7.2000) by [The Transport of Animals (Cleansing and Disinfection) (England) (No. 2) Order 2000 (S.I. 2000/1618)](https://www.legislation.gov.uk/uksi/2000/1618), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/1618/article/1/1), [Sch. 3 Pt. I](https://www.legislation.gov.uk/uksi/2000/1618/schedule/3/part/I); and revoked (W.) (21.7.2001) by [The Transport of Animals (Cleansing and Disinfection) (Wales) Order 2001 (S.I. 2001/2662)](https://www.legislation.gov.uk/uksi/2001/2662), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/2662/article/1/1), [8(1)](https://www.legislation.gov.uk/uksi/2001/2662/article/8/1), [Sch. 3 Pt. I](https://www.legislation.gov.uk/uksi/2001/2662/schedule/3/part/I)
 
-[^key-27a2375fb45ceb8c52eb2684b46f41c2]: Commencement: Art. 7 coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
+[^c-27a2375fb45ceb8c52eb2684b46f41c2]: Commencement: Art. 7 coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
 
-[^key-ac683aaf4c335b7f5b84dcc213a73c66]: Modification: Art. 7(1) excluded (30.4.2005) by [The Animals and Animal Products (Import and Export) (Wales) Regulations 2005 (S.I. 2005/1158)](https://www.legislation.gov.uk/wsi/2005/1158), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1158/regulation/1/1), [34](https://www.legislation.gov.uk/wsi/2005/1158/regulation/34), [Sch. 8](https://www.legislation.gov.uk/wsi/2005/1158/schedule/8) (with [reg. 2](https://www.legislation.gov.uk/wsi/2005/1158/regulation/2))
+[^c-ac683aaf4c335b7f5b84dcc213a73c66]: Modification: Art. 7(1) excluded (30.4.2005) by [The Animals and Animal Products (Import and Export) (Wales) Regulations 2005 (S.I. 2005/1158)](https://www.legislation.gov.uk/wsi/2005/1158), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1158/regulation/1/1), [34](https://www.legislation.gov.uk/wsi/2005/1158/regulation/34), [Sch. 8](https://www.legislation.gov.uk/wsi/2005/1158/schedule/8) (with [reg. 2](https://www.legislation.gov.uk/wsi/2005/1158/regulation/2))
 
 [^M_C_65ebef17-99c0-4961-831e-98f7b48e3ce5]: Modification: Art. 7(1) excluded (29.6.2006) by [The Animals and Animal Products (Import and Export) (England) Regulations 2006 (S.I. 2006/1471)](https://www.legislation.gov.uk/uksi/2006/1471), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1471/regulation/1/1), [35(3)](https://www.legislation.gov.uk/uksi/2006/1471/regulation/35/3), [Sch. 9](https://www.legislation.gov.uk/uksi/2006/1471/schedule/9)
 
-[^key-47b38c2acf056b1d45c0d3c8bf821939]: Modification: Art. 7(1) excluded (2.4.2007) by [The Animals and Animal Products (Import and Export) (Scotland) Regulations 2007 (S.S.I. 2007/194)](https://www.legislation.gov.uk/ssi/2007/194), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/1/1), [37(3)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/3), [sch. 9](https://www.legislation.gov.uk/ssi/2007/194/schedule/9) (with [regs. 2](https://www.legislation.gov.uk/ssi/2007/194/regulation/2), [37(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/1)[(2)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/2))
+[^c-47b38c2acf056b1d45c0d3c8bf821939]: Modification: Art. 7(1) excluded (2.4.2007) by [The Animals and Animal Products (Import and Export) (Scotland) Regulations 2007 (S.S.I. 2007/194)](https://www.legislation.gov.uk/ssi/2007/194), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/1/1), [37(3)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/3), [sch. 9](https://www.legislation.gov.uk/ssi/2007/194/schedule/9) (with [regs. 2](https://www.legislation.gov.uk/ssi/2007/194/regulation/2), [37(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/1)[(2)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/2))
 
-[^key-f0edd854ee087ab0090d6f0d23d6cdd9]: Modification: Arts. 8-14 excluded (30.4.2005) by [The Animals and Animal Products (Import and Export) (Wales) Regulations 2005 (S.I. 2005/1158)](https://www.legislation.gov.uk/wsi/2005/1158), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1158/regulation/1/1), [34](https://www.legislation.gov.uk/wsi/2005/1158/regulation/34), [Sch. 8](https://www.legislation.gov.uk/wsi/2005/1158/schedule/8) (with [reg. 2](https://www.legislation.gov.uk/wsi/2005/1158/regulation/2))
+[^c-f0edd854ee087ab0090d6f0d23d6cdd9]: Modification: Arts. 8-14 excluded (30.4.2005) by [The Animals and Animal Products (Import and Export) (Wales) Regulations 2005 (S.I. 2005/1158)](https://www.legislation.gov.uk/wsi/2005/1158), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1158/regulation/1/1), [34](https://www.legislation.gov.uk/wsi/2005/1158/regulation/34), [Sch. 8](https://www.legislation.gov.uk/wsi/2005/1158/schedule/8) (with [reg. 2](https://www.legislation.gov.uk/wsi/2005/1158/regulation/2))
 
 [^M_C_55f593a0-6303-463c-f37f-3852dd362ad6]: Modification: Arts. 8-14 excluded (29.6.2006) by [The Animals and Animal Products (Import and Export) (England) Regulations 2006 (S.I. 2006/1471)](https://www.legislation.gov.uk/uksi/2006/1471), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1471/regulation/1/1), [35(3)](https://www.legislation.gov.uk/uksi/2006/1471/regulation/35/3), [Sch. 9](https://www.legislation.gov.uk/uksi/2006/1471/schedule/9)
 
-[^key-e37575f28dff6da957f23bdab051eeac]: Modification: Arts. 8-14 excluded (2.4.2007) by [The Animals and Animal Products (Import and Export) (Scotland) Regulations 2007 (S.S.I. 2007/194)](https://www.legislation.gov.uk/ssi/2007/194), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/1/1), [37(3)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/3), [sch. 9](https://www.legislation.gov.uk/ssi/2007/194/schedule/9) (with [regs. 2](https://www.legislation.gov.uk/ssi/2007/194/regulation/2), [37(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/1)[(2)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/2))
+[^c-e37575f28dff6da957f23bdab051eeac]: Modification: Arts. 8-14 excluded (2.4.2007) by [The Animals and Animal Products (Import and Export) (Scotland) Regulations 2007 (S.S.I. 2007/194)](https://www.legislation.gov.uk/ssi/2007/194), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/1/1), [37(3)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/3), [sch. 9](https://www.legislation.gov.uk/ssi/2007/194/schedule/9) (with [regs. 2](https://www.legislation.gov.uk/ssi/2007/194/regulation/2), [37(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/1)[(2)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/2))
 
 [^f00002]: Footnote: (1975 II, p. 3540).
 
-[^key-a6c09f7175d3ee9aaccb73fcec3df7ef]: Textual amendment: Art. 15 revoked (S.) (27.6.2000) by [The Transport of Animals (Cleansing and Disinfection) (Scotland) Regulations 2000 (S.S.I. 2000/167)](https://www.legislation.gov.uk/ssi/2000/167), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/167/regulation/1/1), [sch. 3 Pt. I](https://www.legislation.gov.uk/ssi/2000/167/schedule/3/part/I); revoked (E.) (6.7.2000) by [The Transport of Animals (Cleansing and Disinfection) (England) (No. 2) Order 2000 (S.I. 2000/1618)](https://www.legislation.gov.uk/uksi/2000/1618), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/1618/article/1/1), [Sch. 3 Pt. I](https://www.legislation.gov.uk/uksi/2000/1618/schedule/3/part/I); and revoked (W.) (21.7.2001) by [The Transport of Animals (Cleansing and Disinfection) (Wales) Order 2001 (S.I. 2001/2662)](https://www.legislation.gov.uk/uksi/2001/2662), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/2662/article/1/1), [8(1)](https://www.legislation.gov.uk/uksi/2001/2662/article/8/1), [Sch. 3 Pt. I](https://www.legislation.gov.uk/uksi/2001/2662/schedule/3/part/I)
+[^c-a6c09f7175d3ee9aaccb73fcec3df7ef]: Textual amendment: Art. 15 revoked (S.) (27.6.2000) by [The Transport of Animals (Cleansing and Disinfection) (Scotland) Regulations 2000 (S.S.I. 2000/167)](https://www.legislation.gov.uk/ssi/2000/167), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/167/regulation/1/1), [sch. 3 Pt. I](https://www.legislation.gov.uk/ssi/2000/167/schedule/3/part/I); revoked (E.) (6.7.2000) by [The Transport of Animals (Cleansing and Disinfection) (England) (No. 2) Order 2000 (S.I. 2000/1618)](https://www.legislation.gov.uk/uksi/2000/1618), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/1618/article/1/1), [Sch. 3 Pt. I](https://www.legislation.gov.uk/uksi/2000/1618/schedule/3/part/I); and revoked (W.) (21.7.2001) by [The Transport of Animals (Cleansing and Disinfection) (Wales) Order 2001 (S.I. 2001/2662)](https://www.legislation.gov.uk/uksi/2001/2662), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/2662/article/1/1), [8(1)](https://www.legislation.gov.uk/uksi/2001/2662/article/8/1), [Sch. 3 Pt. I](https://www.legislation.gov.uk/uksi/2001/2662/schedule/3/part/I)
 
-[^key-e5209e50e1cbc64b6c2d65663fc4a330]: Modification: Art. 16 excluded (30.4.2005) by [The Animals and Animal Products (Import and Export) (Wales) Regulations 2005 (S.I. 2005/1158)](https://www.legislation.gov.uk/wsi/2005/1158), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1158/regulation/1/1), [34](https://www.legislation.gov.uk/wsi/2005/1158/regulation/34), [Sch. 8](https://www.legislation.gov.uk/wsi/2005/1158/schedule/8) (with [reg. 2](https://www.legislation.gov.uk/wsi/2005/1158/regulation/2))
+[^c-e5209e50e1cbc64b6c2d65663fc4a330]: Modification: Art. 16 excluded (30.4.2005) by [The Animals and Animal Products (Import and Export) (Wales) Regulations 2005 (S.I. 2005/1158)](https://www.legislation.gov.uk/wsi/2005/1158), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1158/regulation/1/1), [34](https://www.legislation.gov.uk/wsi/2005/1158/regulation/34), [Sch. 8](https://www.legislation.gov.uk/wsi/2005/1158/schedule/8) (with [reg. 2](https://www.legislation.gov.uk/wsi/2005/1158/regulation/2))
 
 [^M_C_f7acc916-4f9a-496d-c2c9-eb93b03687de]: Modification: Art. 16 excluded (29.6.2006) by [The Animals and Animal Products (Import and Export) (England) Regulations 2006 (S.I. 2006/1471)](https://www.legislation.gov.uk/uksi/2006/1471), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1471/regulation/1/1), [35(3)](https://www.legislation.gov.uk/uksi/2006/1471/regulation/35/3), [Sch. 9](https://www.legislation.gov.uk/uksi/2006/1471/schedule/9)
 
-[^key-716f033098b0cdf6db391218fbfd1aa3]: Modification: Arts. 16, 17 excluded (2.4.2007) by [The Animals and Animal Products (Import and Export) (Scotland) Regulations 2007 (S.S.I. 2007/194)](https://www.legislation.gov.uk/ssi/2007/194), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/1/1), [37(3)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/3), [sch. 9](https://www.legislation.gov.uk/ssi/2007/194/schedule/9) (with [regs. 2](https://www.legislation.gov.uk/ssi/2007/194/regulation/2), [37(1)(2)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/1/2))
+[^c-716f033098b0cdf6db391218fbfd1aa3]: Modification: Arts. 16, 17 excluded (2.4.2007) by [The Animals and Animal Products (Import and Export) (Scotland) Regulations 2007 (S.S.I. 2007/194)](https://www.legislation.gov.uk/ssi/2007/194), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/1/1), [37(3)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/3), [sch. 9](https://www.legislation.gov.uk/ssi/2007/194/schedule/9) (with [regs. 2](https://www.legislation.gov.uk/ssi/2007/194/regulation/2), [37(1)(2)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/1/2))
 
-[^key-e383a1e665f1c6fc2b83b6bcadf4ecbe]: Modification: Art. 17 excluded (30.4.2005) by [The Animals and Animal Products (Import and Export) (Wales) Regulations 2005 (S.I. 2005/1158)](https://www.legislation.gov.uk/wsi/2005/1158), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1158/regulation/1/1), [34](https://www.legislation.gov.uk/wsi/2005/1158/regulation/34), [Sch. 8](https://www.legislation.gov.uk/wsi/2005/1158/schedule/8) (with [reg. 2](https://www.legislation.gov.uk/wsi/2005/1158/regulation/2))
+[^c-e383a1e665f1c6fc2b83b6bcadf4ecbe]: Modification: Art. 17 excluded (30.4.2005) by [The Animals and Animal Products (Import and Export) (Wales) Regulations 2005 (S.I. 2005/1158)](https://www.legislation.gov.uk/wsi/2005/1158), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1158/regulation/1/1), [34](https://www.legislation.gov.uk/wsi/2005/1158/regulation/34), [Sch. 8](https://www.legislation.gov.uk/wsi/2005/1158/schedule/8) (with [reg. 2](https://www.legislation.gov.uk/wsi/2005/1158/regulation/2))
 
 [^M_C_b9badd1f-7f57-4de7-d4ce-b5452b0ddad2]: Modification: Art. 17 excluded (29.6.2006) by [The Animals and Animal Products (Import and Export) (England) Regulations 2006 (S.I. 2006/1471)](https://www.legislation.gov.uk/uksi/2006/1471), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1471/regulation/1/1), [35(3)](https://www.legislation.gov.uk/uksi/2006/1471/regulation/35/3), [Sch. 9](https://www.legislation.gov.uk/uksi/2006/1471/schedule/9)
 
-[^key-0bba885fb202c984a7a736d6a57e2f43]: Commencement: Art. 18 coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
+[^c-0bba885fb202c984a7a736d6a57e2f43]: Commencement: Art. 18 coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
 
-[^key-8080671a38bd51470862d26cf21589fb]: Modification: Art. 18(1)(b) excluded (30.4.2005) by [The Animals and Animal Products (Import and Export) (Wales) Regulations 2005 (S.I. 2005/1158)](https://www.legislation.gov.uk/wsi/2005/1158), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1158/regulation/1/1), [34](https://www.legislation.gov.uk/wsi/2005/1158/regulation/34), [Sch. 8](https://www.legislation.gov.uk/wsi/2005/1158/schedule/8) (with [reg. 2](https://www.legislation.gov.uk/wsi/2005/1158/regulation/2))
+[^c-8080671a38bd51470862d26cf21589fb]: Modification: Art. 18(1)(b) excluded (30.4.2005) by [The Animals and Animal Products (Import and Export) (Wales) Regulations 2005 (S.I. 2005/1158)](https://www.legislation.gov.uk/wsi/2005/1158), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1158/regulation/1/1), [34](https://www.legislation.gov.uk/wsi/2005/1158/regulation/34), [Sch. 8](https://www.legislation.gov.uk/wsi/2005/1158/schedule/8) (with [reg. 2](https://www.legislation.gov.uk/wsi/2005/1158/regulation/2))
 
 [^M_C_435f75d8-908e-4f8a-f314-0081577c13e4]: Modification: Art. 18(1)(b) excluded (29.6.2006) by [The Animals and Animal Products (Import and Export) (England) Regulations 2006 (S.I. 2006/1471)](https://www.legislation.gov.uk/uksi/2006/1471), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1471/regulation/1/1), [35(3)](https://www.legislation.gov.uk/uksi/2006/1471/regulation/35/3), [Sch. 9](https://www.legislation.gov.uk/uksi/2006/1471/schedule/9)
 
-[^key-680b26c83fbac3608c8c56f72e2854cb]: Modification: Art. 18(1)(b) excluded (2.4.2007) by [The Animals and Animal Products (Import and Export) (Scotland) Regulations 2007 (S.S.I. 2007/194)](https://www.legislation.gov.uk/ssi/2007/194), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/1/1), [37(3)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/3), [sch. 9](https://www.legislation.gov.uk/ssi/2007/194/schedule/9) (with [regs. 2](https://www.legislation.gov.uk/ssi/2007/194/regulation/2), [37(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/1)[(2)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/2))
+[^c-680b26c83fbac3608c8c56f72e2854cb]: Modification: Art. 18(1)(b) excluded (2.4.2007) by [The Animals and Animal Products (Import and Export) (Scotland) Regulations 2007 (S.S.I. 2007/194)](https://www.legislation.gov.uk/ssi/2007/194), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/1/1), [37(3)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/3), [sch. 9](https://www.legislation.gov.uk/ssi/2007/194/schedule/9) (with [regs. 2](https://www.legislation.gov.uk/ssi/2007/194/regulation/2), [37(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/1)[(2)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/2))
 
-[^key-8ec81d794766dfc2908b06732d5f3239]: Modification: Art. 18(3) excluded (30.4.2005) by [The Animals and Animal Products (Import and Export) (Wales) Regulations 2005 (S.I. 2005/1158)](https://www.legislation.gov.uk/wsi/2005/1158), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1158/regulation/1/1), [34](https://www.legislation.gov.uk/wsi/2005/1158/regulation/34), [Sch. 8](https://www.legislation.gov.uk/wsi/2005/1158/schedule/8) (with [reg. 2](https://www.legislation.gov.uk/wsi/2005/1158/regulation/2))
+[^c-8ec81d794766dfc2908b06732d5f3239]: Modification: Art. 18(3) excluded (30.4.2005) by [The Animals and Animal Products (Import and Export) (Wales) Regulations 2005 (S.I. 2005/1158)](https://www.legislation.gov.uk/wsi/2005/1158), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1158/regulation/1/1), [34](https://www.legislation.gov.uk/wsi/2005/1158/regulation/34), [Sch. 8](https://www.legislation.gov.uk/wsi/2005/1158/schedule/8) (with [reg. 2](https://www.legislation.gov.uk/wsi/2005/1158/regulation/2))
 
 [^M_C_d07044c8-b322-4c11-bac9-4a8b093b3873]: Modification: Art. 18(3) excluded (29.6.2006) by [The Animals and Animal Products (Import and Export) (England) Regulations 2006 (S.I. 2006/1471)](https://www.legislation.gov.uk/uksi/2006/1471), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1471/regulation/1/1), [35(3)](https://www.legislation.gov.uk/uksi/2006/1471/regulation/35/3), [Sch. 9](https://www.legislation.gov.uk/uksi/2006/1471/schedule/9)
 
-[^key-19d8b2d1eea3b67bb00f2e1bb02f116f]: Modification: Art. 18(3) excluded (2.4.2007) by [The Animals and Animal Products (Import and Export) (Scotland) Regulations 2007 (S.S.I. 2007/194)](https://www.legislation.gov.uk/ssi/2007/194), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/1/1), [37(3)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/3), [sch. 9](https://www.legislation.gov.uk/ssi/2007/194/schedule/9) (with [regs. 2](https://www.legislation.gov.uk/ssi/2007/194/regulation/2), [37(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/1)[(2)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/2))
+[^c-19d8b2d1eea3b67bb00f2e1bb02f116f]: Modification: Art. 18(3) excluded (2.4.2007) by [The Animals and Animal Products (Import and Export) (Scotland) Regulations 2007 (S.S.I. 2007/194)](https://www.legislation.gov.uk/ssi/2007/194), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/1/1), [37(3)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/3), [sch. 9](https://www.legislation.gov.uk/ssi/2007/194/schedule/9) (with [regs. 2](https://www.legislation.gov.uk/ssi/2007/194/regulation/2), [37(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/1)[(2)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/2))
 
-[^key-df3368674101bd2d651666fa71cfda76]: Modification: Arts. 19-21 excluded (30.4.2005) by [The Animals and Animal Products (Import and Export) (Wales) Regulations 2005 (S.I. 2005/1158)](https://www.legislation.gov.uk/wsi/2005/1158), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1158/regulation/1/1), [34](https://www.legislation.gov.uk/wsi/2005/1158/regulation/34), [Sch. 8](https://www.legislation.gov.uk/wsi/2005/1158/schedule/8) (with [reg. 2](https://www.legislation.gov.uk/wsi/2005/1158/regulation/2))
+[^c-df3368674101bd2d651666fa71cfda76]: Modification: Arts. 19-21 excluded (30.4.2005) by [The Animals and Animal Products (Import and Export) (Wales) Regulations 2005 (S.I. 2005/1158)](https://www.legislation.gov.uk/wsi/2005/1158), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1158/regulation/1/1), [34](https://www.legislation.gov.uk/wsi/2005/1158/regulation/34), [Sch. 8](https://www.legislation.gov.uk/wsi/2005/1158/schedule/8) (with [reg. 2](https://www.legislation.gov.uk/wsi/2005/1158/regulation/2))
 
 [^M_C_48d1e0bb-8b0f-423c-8025-e9e1ba3632aa]: Modification: Arts. 19-21 excluded (29.6.2006) by [The Animals and Animal Products (Import and Export) (England) Regulations 2006 (S.I. 2006/1471)](https://www.legislation.gov.uk/uksi/2006/1471), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1471/regulation/1/1), [35(3)](https://www.legislation.gov.uk/uksi/2006/1471/regulation/35/3), [Sch. 9](https://www.legislation.gov.uk/uksi/2006/1471/schedule/9)
 
-[^key-0c9dd7cf58606017d6fcd67fbe4b6a09]: Modification: Arts. 19-21 excluded (2.4.2007) by [The Animals and Animal Products (Import and Export) (Scotland) Regulations 2007 (S.S.I. 2007/194)](https://www.legislation.gov.uk/ssi/2007/194), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/1/1), [37(3)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/3), [sch. 9](https://www.legislation.gov.uk/ssi/2007/194/schedule/9) (with [regs. 2](https://www.legislation.gov.uk/ssi/2007/194/regulation/2), [37(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/1)[(2)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/2))
+[^c-0c9dd7cf58606017d6fcd67fbe4b6a09]: Modification: Arts. 19-21 excluded (2.4.2007) by [The Animals and Animal Products (Import and Export) (Scotland) Regulations 2007 (S.S.I. 2007/194)](https://www.legislation.gov.uk/ssi/2007/194), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/1/1), [37(3)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/3), [sch. 9](https://www.legislation.gov.uk/ssi/2007/194/schedule/9) (with [regs. 2](https://www.legislation.gov.uk/ssi/2007/194/regulation/2), [37(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/1)[(2)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/2))
 
-[^key-9f87b7dd1badb73568a710dcfd239243]: Commencement: Art. 22 coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
+[^c-9f87b7dd1badb73568a710dcfd239243]: Commencement: Art. 22 coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
 
-[^key-832a0adc93d39c61ba43b01ea62ba13d]: Modification: Art. 23 excluded (30.4.2005) by [The Animals and Animal Products (Import and Export) (Wales) Regulations 2005 (S.I. 2005/1158)](https://www.legislation.gov.uk/wsi/2005/1158), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1158/regulation/1/1), [34](https://www.legislation.gov.uk/wsi/2005/1158/regulation/34), [Sch. 8](https://www.legislation.gov.uk/wsi/2005/1158/schedule/8) (with [reg. 2](https://www.legislation.gov.uk/wsi/2005/1158/regulation/2))
+[^c-832a0adc93d39c61ba43b01ea62ba13d]: Modification: Art. 23 excluded (30.4.2005) by [The Animals and Animal Products (Import and Export) (Wales) Regulations 2005 (S.I. 2005/1158)](https://www.legislation.gov.uk/wsi/2005/1158), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1158/regulation/1/1), [34](https://www.legislation.gov.uk/wsi/2005/1158/regulation/34), [Sch. 8](https://www.legislation.gov.uk/wsi/2005/1158/schedule/8) (with [reg. 2](https://www.legislation.gov.uk/wsi/2005/1158/regulation/2))
 
 [^M_C_1f8f3930-c8a1-440e-ecaf-d5b4a0cd8cb6]: Modification: Art. 23 excluded (29.6.2006) by [The Animals and Animal Products (Import and Export) (England) Regulations 2006 (S.I. 2006/1471)](https://www.legislation.gov.uk/uksi/2006/1471), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1471/regulation/1/1), [35(3)](https://www.legislation.gov.uk/uksi/2006/1471/regulation/35/3), [Sch. 9](https://www.legislation.gov.uk/uksi/2006/1471/schedule/9)
 
-[^key-c37f2548de6c8454093a0d6da48520fe]: Modification: Arts. 23, 24 excluded (2.4.2007) by [The Animals and Animal Products (Import and Export) (Scotland) Regulations 2007 (S.S.I. 2007/194)](https://www.legislation.gov.uk/ssi/2007/194), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/1/1), [37(3)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/3), [sch. 9](https://www.legislation.gov.uk/ssi/2007/194/schedule/9) (with [regs. 2](https://www.legislation.gov.uk/ssi/2007/194/regulation/2), [37(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/1)[(2)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/2))
+[^c-c37f2548de6c8454093a0d6da48520fe]: Modification: Arts. 23, 24 excluded (2.4.2007) by [The Animals and Animal Products (Import and Export) (Scotland) Regulations 2007 (S.S.I. 2007/194)](https://www.legislation.gov.uk/ssi/2007/194), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/1/1), [37(3)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/3), [sch. 9](https://www.legislation.gov.uk/ssi/2007/194/schedule/9) (with [regs. 2](https://www.legislation.gov.uk/ssi/2007/194/regulation/2), [37(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/1)[(2)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/2))
 
-[^key-5c5946cfc888837ce40e4edca83926c9]: Modification: Art. 24 excluded (30.4.2005) by [The Animals and Animal Products (Import and Export) (Wales) Regulations 2005 (S.I. 2005/1158)](https://www.legislation.gov.uk/wsi/2005/1158), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1158/regulation/1/1), [34](https://www.legislation.gov.uk/wsi/2005/1158/regulation/34), [Sch. 8](https://www.legislation.gov.uk/wsi/2005/1158/schedule/8) (with [reg. 2](https://www.legislation.gov.uk/wsi/2005/1158/regulation/2))
+[^c-5c5946cfc888837ce40e4edca83926c9]: Modification: Art. 24 excluded (30.4.2005) by [The Animals and Animal Products (Import and Export) (Wales) Regulations 2005 (S.I. 2005/1158)](https://www.legislation.gov.uk/wsi/2005/1158), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1158/regulation/1/1), [34](https://www.legislation.gov.uk/wsi/2005/1158/regulation/34), [Sch. 8](https://www.legislation.gov.uk/wsi/2005/1158/schedule/8) (with [reg. 2](https://www.legislation.gov.uk/wsi/2005/1158/regulation/2))
 
 [^M_C_043a2335-5de3-4124-f343-b9bef4f13ab1]: Modification: Art. 24 excluded (29.6.2006) by [The Animals and Animal Products (Import and Export) (England) Regulations 2006 (S.I. 2006/1471)](https://www.legislation.gov.uk/uksi/2006/1471), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1471/regulation/1/1), [35(3)](https://www.legislation.gov.uk/uksi/2006/1471/regulation/35/3), [Sch. 9](https://www.legislation.gov.uk/uksi/2006/1471/schedule/9)
 
 [^f00003]: Footnote: (Rev. II, p. 457: 1938 I, p. 124).
 
-[^key-7d1e0b933a9791bbf014dd651d5007ff]: Commencement: Art. 25 coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
+[^c-7d1e0b933a9791bbf014dd651d5007ff]: Commencement: Art. 25 coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
 
-[^key-09b84efac22c4705d516f1eac2a3309a]: Modification: Art. 25(2) excluded (30.4.2005) by [The Animals and Animal Products (Import and Export) (Wales) Regulations 2005 (S.I. 2005/1158)](https://www.legislation.gov.uk/wsi/2005/1158), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1158/regulation/1/1), [34](https://www.legislation.gov.uk/wsi/2005/1158/regulation/34), [Sch. 8](https://www.legislation.gov.uk/wsi/2005/1158/schedule/8) (with [reg. 2](https://www.legislation.gov.uk/wsi/2005/1158/regulation/2))
+[^c-09b84efac22c4705d516f1eac2a3309a]: Modification: Art. 25(2) excluded (30.4.2005) by [The Animals and Animal Products (Import and Export) (Wales) Regulations 2005 (S.I. 2005/1158)](https://www.legislation.gov.uk/wsi/2005/1158), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1158/regulation/1/1), [34](https://www.legislation.gov.uk/wsi/2005/1158/regulation/34), [Sch. 8](https://www.legislation.gov.uk/wsi/2005/1158/schedule/8) (with [reg. 2](https://www.legislation.gov.uk/wsi/2005/1158/regulation/2))
 
 [^M_C_b1910a24-48a5-4f59-9bd1-f1a3de497a5a]: Modification: Art. 25(2) excluded (29.6.2006) by [The Animals and Animal Products (Import and Export) (England) Regulations 2006 (S.I. 2006/1471)](https://www.legislation.gov.uk/uksi/2006/1471), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1471/regulation/1/1), [35(3)](https://www.legislation.gov.uk/uksi/2006/1471/regulation/35/3), [Sch. 9](https://www.legislation.gov.uk/uksi/2006/1471/schedule/9)
 
-[^key-db85ae629b47cd70b0aa0501e87213ec]: Modification: Art. 25(2) excluded (2.4.2007) by [The Animals and Animal Products (Import and Export) (Scotland) Regulations 2007 (S.S.I. 2007/194)](https://www.legislation.gov.uk/ssi/2007/194), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/1/1), [37(3)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/3), [sch. 9](https://www.legislation.gov.uk/ssi/2007/194/schedule/9) (with [regs. 2](https://www.legislation.gov.uk/ssi/2007/194/regulation/2), [37(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/1)[(2)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/2))
+[^c-db85ae629b47cd70b0aa0501e87213ec]: Modification: Art. 25(2) excluded (2.4.2007) by [The Animals and Animal Products (Import and Export) (Scotland) Regulations 2007 (S.S.I. 2007/194)](https://www.legislation.gov.uk/ssi/2007/194), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/1/1), [37(3)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/3), [sch. 9](https://www.legislation.gov.uk/ssi/2007/194/schedule/9) (with [regs. 2](https://www.legislation.gov.uk/ssi/2007/194/regulation/2), [37(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/1)[(2)](https://www.legislation.gov.uk/ssi/2007/194/regulation/37/2))
 
-[^key-6634d5f968e201910b87534d201ef8f4]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1977/944/schedule/1/paragraph/1) coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
+[^c-6634d5f968e201910b87534d201ef8f4]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1977/944/schedule/1/paragraph/1) coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
 
 [^f00004]: Footnote: (Rev. II, p. 259: 1927 p. 57).
 
 [^f00005]: Footnote: The amending orders are not relevant to the subject matter of this order.
 
-[^key-386ca5b6fe638d370c4eda9fe6efcb28]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1977/944/schedule/1/paragraph/2) coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
+[^c-386ca5b6fe638d370c4eda9fe6efcb28]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1977/944/schedule/1/paragraph/2) coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
 
 [^f00006]: Footnote: (Rev. II, p. 520: 1938 I, p. 169).
 
 [^f00007]: Footnote: S.I. 1956/101, 1967/1723, 1968/51, 1969/1446 (1956 I, p. 175; 1967 III, p. 4648; 1968 I, p. 114; 1969 III, p. 4675).
 
-[^key-17ca3233dfad5b59fd91be8055940fdc]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1977/944/schedule/1/paragraph/3) coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
+[^c-17ca3233dfad5b59fd91be8055940fdc]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1977/944/schedule/1/paragraph/3) coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
 
 [^f00008]: Footnote: (Rev. II, p. 528: 1938 I, p. 155).
 
 [^f00009]: Footnote: S.I. 1956/101, 1969/1445 (1956 I, p. 175; 1969 III, p. 4667).
 
-[^key-d14315936207751011ee04c642c7fe05]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1977/944/schedule/1/paragraph/4) coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
+[^c-d14315936207751011ee04c642c7fe05]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1977/944/schedule/1/paragraph/4) coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
 
-[^key-803e6df07d1ae6735fc9125976a14f76]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1977/944/schedule/1/paragraph/4) revoked (S.) (10.9.2003) by [The Classical Swine Fever (Scotland) Order 2003 (S.S.I. 2003/426)](https://www.legislation.gov.uk/ssi/2003/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2003/426/article/1/1), [19(2)](https://www.legislation.gov.uk/ssi/2003/426/article/19/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2003/426/article/3))
+[^c-803e6df07d1ae6735fc9125976a14f76]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1977/944/schedule/1/paragraph/4) revoked (S.) (10.9.2003) by [The Classical Swine Fever (Scotland) Order 2003 (S.S.I. 2003/426)](https://www.legislation.gov.uk/ssi/2003/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2003/426/article/1/1), [19(2)](https://www.legislation.gov.uk/ssi/2003/426/article/19/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2003/426/article/3))
 
 [^f00010]: Footnote: (1956 I, p. 180).
 
 [^f00011]: Footnote: S.I. 1958/1284 (1958 I, p. 170).
 
-[^key-e692d9d6dd20ffb8aa0517afe9e8b821]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1977/944/schedule/1/paragraph/5) coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
+[^c-e692d9d6dd20ffb8aa0517afe9e8b821]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1977/944/schedule/1/paragraph/5) coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
 
 [^f00012]: Footnote: (1960 I, p. 302).
 
 [^f00013]: Footnote: S.I. 1961/1493 (1961 II, p. 3016).
 
-[^key-96f3bd9e65352ae8bcb55900b4231daf]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1977/944/schedule/1/paragraph/6) coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
+[^c-96f3bd9e65352ae8bcb55900b4231daf]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1977/944/schedule/1/paragraph/6) coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
 
 [^f00014]: Footnote: (1972 III, p. 5902).
 
 [^f00015]: Footnote: S.I. 1973/101 (1973 I, p. 481).
 
-[^key-277148f0e5c1171520d7562bfa777e31]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1977/944/schedule/1/paragraph/7) coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
+[^c-277148f0e5c1171520d7562bfa777e31]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1977/944/schedule/1/paragraph/7) coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
 
 [^f00016]: Footnote: (1975 I, p. 491).
 
 [^f00017]: Footnote: S.I. 1975/346 (1975 I, p. 1084).
 
-[^key-ff32f138ff5585a2c8e37baf46d79f3c]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1977/944/schedule/2) coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
+[^c-ff32f138ff5585a2c8e37baf46d79f3c]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1977/944/schedule/2) coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
 
 [^f00018]: Footnote: (Rev. II, p. 472: 1928, p. 78).
 
@@ -937,13 +937,13 @@ Schedule 1 amends certain orders relating to animal health so as to bring them i
 
 [^f00023]: Footnote: S.R. & O. 1938/195 (Rev. II, p. 567: 1938 I, p. 203).
 
-[^key-d3342554f71085ac808be734272b9b1f]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1977/944/schedule/2) omitted (1.1.1993) by virtue of [The Specified Diseases (Notification and Slaughter) Order 1992 (S.I. 1992/3159)](https://www.legislation.gov.uk/uksi/1992/3159), [art. 1](https://www.legislation.gov.uk/uksi/1992/3159/article/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1992/3159/schedule/2/paragraph/1)
+[^c-d3342554f71085ac808be734272b9b1f]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1977/944/schedule/2) omitted (1.1.1993) by virtue of [The Specified Diseases (Notification and Slaughter) Order 1992 (S.I. 1992/3159)](https://www.legislation.gov.uk/uksi/1992/3159), [art. 1](https://www.legislation.gov.uk/uksi/1992/3159/article/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1992/3159/schedule/2/paragraph/1)
 
-[^key-404078c5fde6c33ce82f77396657b32c]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1977/944/schedule/2) omitted (1.7.1992) by virtue of [The Sheep Scab (Revocation) Order 1992 (S.I. 1992/1361)](https://www.legislation.gov.uk/uksi/1992/1361), [arts. 1](https://www.legislation.gov.uk/uksi/1992/1361/article/1), [2(4)](https://www.legislation.gov.uk/uksi/1992/1361/article/2/4)
+[^c-404078c5fde6c33ce82f77396657b32c]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1977/944/schedule/2) omitted (1.7.1992) by virtue of [The Sheep Scab (Revocation) Order 1992 (S.I. 1992/1361)](https://www.legislation.gov.uk/uksi/1992/1361), [arts. 1](https://www.legislation.gov.uk/uksi/1992/1361/article/1), [2(4)](https://www.legislation.gov.uk/uksi/1992/1361/article/2/4)
 
 [^f00027]: Footnote: (1963 I, p. 239).
 
-[^key-ebecc941addd2daac814e763dc1d78b3]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/1977/944/schedule/3) coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
+[^c-ebecc941addd2daac814e763dc1d78b3]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/1977/944/schedule/3) coming into operation on 1.7.1977, see [art. 1](https://www.legislation.gov.uk/uksi/1977/944/article/1)
 
 [^f00029]: Footnote: (Rev. II, p. 443: 1928, p. 174).
 

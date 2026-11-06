@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82. Amount of extended council tax reduction[^key-863ae57d5d961f924149d463a97a1812]
+## 82. Amount of extended council tax reduction[^c-863ae57d5d961f924149d463a97a1812]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-863ae57d5d961f924149d463a97a1812]: Commencement: [Reg. 82](https://www.legislation.gov.uk/ssi/2021/249/regulation/82) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-863ae57d5d961f924149d463a97a1812]: Commencement: [Reg. 82](https://www.legislation.gov.uk/ssi/2021/249/regulation/82) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

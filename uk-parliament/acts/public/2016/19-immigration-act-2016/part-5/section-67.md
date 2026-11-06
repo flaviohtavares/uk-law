@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Unaccompanied refugee children: relocation and support[^key-c4fa70d957ca2f0d92f893eee9b02363]
+## 67. Unaccompanied refugee children: relocation and support[^c-c4fa70d957ca2f0d92f893eee9b02363]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4fa70d957ca2f0d92f893eee9b02363]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2016/19/section/67) in force at 31.5.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/603/regulation/2/a)
+[^c-c4fa70d957ca2f0d92f893eee9b02363]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2016/19/section/67) in force at 31.5.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/603/regulation/2/a)

@@ -44,7 +44,7 @@ The Secretary of State for Work and Pensions has made an Order[^f00003] under se
 
 Accordingly the Department for Communities makes the following Order.
 
-## 1. Citation, commencement and interpretation[^key-ee8852bf336fe7ba8297555de49cbff2]
+## 1. Citation, commencement and interpretation[^c-ee8852bf336fe7ba8297555de49cbff2]
 
 (1) This Order may be cited as the State Pension Debits and Credits (Revaluation) Order (Northern Ireland) 2025 and shall come into operation on—
 
@@ -53,7 +53,7 @@ Accordingly the Department for Communities makes the following Order.
 
 (2) In this Article “**a state pension**” means a state pension under Part 1 of the Pensions Act (Northern Ireland) 2015[^f00007].
 
-## 2. The increase in the amount of relevant debits or credits[^key-71fd1bd981a007e1ce86e69fad4ceee0]
+## 2. The increase in the amount of relevant debits or credits[^c-71fd1bd981a007e1ce86e69fad4ceee0]
 
 For the purposes of paragraph 3 of each of Schedules 8 and 10 to the Pensions Act (Northern Ireland) 2015 (pension sharing: appropriate weekly rate and reduction), the amount of relevant debits or credits for the tax year specified in the first column of the table set out in the Schedule to this Order is directed to be increased by the percentage of their amount specified in the corresponding entry in the second column.
 
@@ -65,7 +65,7 @@ David Tarr
 
 A senior officer of the Department for Communities
 
-## SCHEDULE — Percentage increase of the amounts of relevant debits or credits for specified tax years[^key-bdeb1057c89e1eb4569493718af28525]
+## SCHEDULE — Percentage increase of the amounts of relevant debits or credits for specified tax years[^c-bdeb1057c89e1eb4569493718af28525]
 
 Article 2
 
@@ -104,7 +104,7 @@ Article 1(1) ensures that the revaluation of relevant debits and credits will ap
 
 [^f00004]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5)
 
-[^key-ee8852bf336fe7ba8297555de49cbff2]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2025/188/article/1) in operation at 6.4.2026 in so far as not already in operation, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/2025/188/article/1/1/b)
+[^c-ee8852bf336fe7ba8297555de49cbff2]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2025/188/article/1) in operation at 6.4.2026 in so far as not already in operation, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/2025/188/article/1/1/b)
 
 [^f00005]: Footnote: [S. R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); regulation 15(1) was amended by regulation 2(6) of [S.R. 2005 No. 299](https://www.legislation.gov.uk/nisr/2005/299) and Article 9(7)(a) of [S.R. 2015 No. 411](https://www.legislation.gov.uk/nisr/2015/411)
 
@@ -112,6 +112,6 @@ Article 1(1) ensures that the revaluation of relevant debits and credits will ap
 
 [^f00007]: Footnote: [2015 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2015/5)
 
-[^key-71fd1bd981a007e1ce86e69fad4ceee0]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2025/188/article/2) in operation at 6.4.2026 in so far as not already in operation, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/2025/188/article/1/1/b)
+[^c-71fd1bd981a007e1ce86e69fad4ceee0]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2025/188/article/2) in operation at 6.4.2026 in so far as not already in operation, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/2025/188/article/1/1/b)
 
-[^key-bdeb1057c89e1eb4569493718af28525]: Commencement: Sch. in operation at 22.12.2025, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2025/188/article/1/1/a)
+[^c-bdeb1057c89e1eb4569493718af28525]: Commencement: Sch. in operation at 22.12.2025, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2025/188/article/1/1/a)

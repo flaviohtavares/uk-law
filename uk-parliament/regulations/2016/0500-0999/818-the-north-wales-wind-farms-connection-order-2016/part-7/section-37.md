@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Application and modification of legislative provisions[^key-ad86f7e1da4d938cb57a5778a79e27d2]
+## 37. Application and modification of legislative provisions[^c-ad86f7e1da4d938cb57a5778a79e27d2]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 7 (modification of compensation and compulsory purchase enactments for 
 
 ## Annotations
 
-[^key-ad86f7e1da4d938cb57a5778a79e27d2]: Commencement: Art. 37 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-ad86f7e1da4d938cb57a5778a79e27d2]: Commencement: Art. 37 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)

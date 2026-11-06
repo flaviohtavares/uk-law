@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Arrangements for discharge of functions by councils jointly[^key-50d18c98aa2de2cb4c53cde505c7a39f]
+## 9. Arrangements for discharge of functions by councils jointly[^c-50d18c98aa2de2cb4c53cde505c7a39f]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ has effect subject to any necessary modification in its application in relation 
 
 ## Annotations
 
-[^key-50d18c98aa2de2cb4c53cde505c7a39f]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2014/8/section/9) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-50d18c98aa2de2cb4c53cde505c7a39f]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2014/8/section/9) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)

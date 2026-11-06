@@ -23,9 +23,9 @@ summary: ''
 (1) This section applies where the manager of an authorised unit trust scheme which is a feeder UCITS proposes to make an alteration to the scheme which—
 
 - (a) involves a change in the trust deed, and
-- (b) will enable the scheme to convert into a UK[^key-d90e0d1205fec526cfe9ceede41ed077] UCITS which is not a feeder UCITS.
+- (b) will enable the scheme to convert into a UK[^c-d90e0d1205fec526cfe9ceede41ed077] UCITS which is not a feeder UCITS.
 
-(2) The manager must give written notice of the proposal to the FCA[^key-3e4eb04b65e89eb5f622d8f7cf8e1291].
+(2) The manager must give written notice of the proposal to the FCA[^c-3e4eb04b65e89eb5f622d8f7cf8e1291].
 
 (3) Any notice given in respect of such a proposal must be accompanied by—
 
@@ -46,24 +46,24 @@ summary: ''
 
 (7) Subsection (8) applies where—
 
-- (a) the notice given under subsection (2) relates to a proposal to amend the trust deed of a feeder UCITS to enable it to convert into a UK[^key-aab35caab6bc0a5ed2c6d9e685756045] UCITS which is not a feeder UCITS following the winding-up of its master UCITS; and
+- (a) the notice given under subsection (2) relates to a proposal to amend the trust deed of a feeder UCITS to enable it to convert into a UK[^c-aab35caab6bc0a5ed2c6d9e685756045] UCITS which is not a feeder UCITS following the winding-up of its master UCITS; and
 - (b) the proceeds of the winding-up are to be paid to the feeder UCITS before the date on which the feeder UCITS proposes to start investing in accordance with the new investment objectives and policy provided for in its amended trust deed and scheme rules.
 
 (8) Where this subsection applies, the FCA may only approve the proposal subject to the conditions set out in section 283A(5) and (6).
 
 (9) In this section, “**specified**” means—
 
-- (a)[^key-ba0bac7eada67e82ce0d4680d9e277de] specified in rule 11.6.3(2) of the Collective Investment Schemes sourcebook, or
+- (a)[^c-ba0bac7eada67e82ce0d4680d9e277de] specified in rule 11.6.3(2) of the Collective Investment Schemes sourcebook, or
 - (b) specified in UCITS-related direct EU legislation.
 
 ## Annotations
 
 [^c2109407]: Textual amendment: S. 252A inserted (1.7.2011) by The Undertakings for Collective Investment in [Transferable Securities Regulations 2011 (S.I. 2011/1613)](https://www.legislation.gov.uk/uksi/2011/1613), [reg. 2(19)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/2/19)
 
-[^key-d90e0d1205fec526cfe9ceede41ed077]: Textual amendment: Word in s. 252A(1)(b) inserted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/10/2) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d90e0d1205fec526cfe9ceede41ed077]: Textual amendment: Word in s. 252A(1)(b) inserted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/10/2) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3e4eb04b65e89eb5f622d8f7cf8e1291]: Textual amendment: Word in ss. 242-252A substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 9(1)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/2) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-3e4eb04b65e89eb5f622d8f7cf8e1291]: Textual amendment: Word in ss. 242-252A substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 9(1)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/2) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-aab35caab6bc0a5ed2c6d9e685756045]: Textual amendment: Word in s. 252A(7)(a) inserted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/10/3) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aab35caab6bc0a5ed2c6d9e685756045]: Textual amendment: Word in s. 252A(7)(a) inserted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/10/3) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ba0bac7eada67e82ce0d4680d9e277de]: Textual amendment: S. 252A(9)(a)(b) substituted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2019/325/regulation/10/4) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ba0bac7eada67e82ce0d4680d9e277de]: Textual amendment: S. 252A(9)(a)(b) substituted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2019/325/regulation/10/4) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

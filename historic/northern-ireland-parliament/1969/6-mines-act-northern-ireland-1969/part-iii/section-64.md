@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 64. Prohibition of taking into mines safety-lamps not provided by owner or of approved type.[^key-cc97bc7e6dcde79769679923623b813a]
+## 64. Prohibition of taking into mines safety-lamps not provided by owner or of approved type.[^c-cc97bc7e6dcde79769679923623b813a]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc97bc7e6dcde79769679923623b813a]: Textual amendment: [Ss. 64-67](https://www.legislation.gov.uk/apni/1969/6/section/64) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-cc97bc7e6dcde79769679923623b813a]: Textual amendment: [Ss. 64-67](https://www.legislation.gov.uk/apni/1969/6/section/64) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)

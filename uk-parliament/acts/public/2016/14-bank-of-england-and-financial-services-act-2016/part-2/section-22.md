@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Rules about controlled functions: power to make transitional provision[^key-48b9c0cd04b1f46c33966817995ad3a1]
+## 22. Rules about controlled functions: power to make transitional provision[^c-48b9c0cd04b1f46c33966817995ad3a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48b9c0cd04b1f46c33966817995ad3a1]: Commencement: S. 22 in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(p)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/p)
+[^c-48b9c0cd04b1f46c33966817995ad3a1]: Commencement: S. 22 in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(p)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/p)

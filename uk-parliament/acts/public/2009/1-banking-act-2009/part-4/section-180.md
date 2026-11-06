@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 180. Functions under this Act[^key-9fe669d1d53d43f3e16e1882a82bee41]
+## 180. Functions under this Act[^c-9fe669d1d53d43f3e16e1882a82bee41]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ At the end of Part 15 of the Financial Services and Markets Act 2000 add—
 
 ## Annotations
 
-[^key-9fe669d1d53d43f3e16e1882a82bee41]: Commencement: S. 180 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/4)
+[^c-9fe669d1d53d43f3e16e1882a82bee41]: Commencement: S. 180 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/4)

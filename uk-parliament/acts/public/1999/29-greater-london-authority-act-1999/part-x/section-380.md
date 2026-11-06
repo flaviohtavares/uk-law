@@ -27,7 +27,7 @@ summary: ''
 - (a) the Deputy Mayor;
 - (b) any member of staff of the Authority;
 - (c) the Cultural Strategy Group for London;
-- (d)[^key-6a6cf97933be4f1a10cf1c92d04bc8a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-6a6cf97933be4f1a10cf1c92d04bc8a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) the Common Council;
 - (f) any local authority.
 
@@ -55,7 +55,7 @@ except to the extent that the terms of the authorisation or any conditions impos
 (6) Subsection (1) above does not apply—
 
 - (a) in relation to functions under this section;
-- (aa)[^key-bab3dee417b3f0ac36055e6efa57487a] in relation to any function of making an appointment in a case where section 377A above applies; or
+- (aa)[^c-bab3dee417b3f0ac36055e6efa57487a] in relation to any function of making an appointment in a case where section 377A above applies; or
 - (b) in relation to any function of making byelaws under section 385(1) below.
 
 (7) An authorisation under subsection (1) above which relates to—
@@ -75,7 +75,7 @@ may only be given to the Deputy Mayor or a member of staff of the Authority.
 (9) Each of the following bodies, namely—
 
 - (a) the Cultural Strategy Group for London,
-- (b)[^key-7442119f3b7d5bcfa31587d99e835bdd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7442119f3b7d5bcfa31587d99e835bdd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the Common Council,
 - (d) any local authority,
 
@@ -83,9 +83,9 @@ shall have power to exercise functions on behalf of the Authority in accordance 
 
 (10) Subsections (3) and (4) of section 101 of the [^c12807951]Local Government Act 1972 (delegation of functions to committees, officers etc, and continued exercise by local authority concerned) shall apply in relation to any authorisation under subsection (1) above given by the Mayor—
 
-- (a) to a local authority, or[^key-c4afd231d59d87cbbf866788574edb45]
-- (b) to the Cultural Strategy Group for London, [^key-68bedc2149f15a20fb61f3182d0a64a5]...
-- (c)[^key-68bedc2149f15a20fb61f3182d0a64a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) to a local authority, or[^c-c4afd231d59d87cbbf866788574edb45]
+- (b) to the Cultural Strategy Group for London, [^c-68bedc2149f15a20fb61f3182d0a64a5]...
+- (c)[^c-68bedc2149f15a20fb61f3182d0a64a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 as they apply to arrangements under that section between one local authority and another.
 
@@ -101,7 +101,7 @@ as they apply to arrangements under that section between one local authority and
 
 ## Annotations
 
-[^key-6a6cf97933be4f1a10cf1c92d04bc8a7]: Textual amendment: S. 380(2)(d) repealed (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/32); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/628/article/4/d)
+[^c-6a6cf97933be4f1a10cf1c92d04bc8a7]: Textual amendment: S. 380(2)(d) repealed (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/32); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/628/article/4/d)
 
 [^c12807921]: Textual amendment: Words in s. 380(4) substituted (11.7.2001) by [S.I. 2001/2237](https://www.legislation.gov.uk/uksi/2001/2237), [arts. 2(u)](https://www.legislation.gov.uk/uksi/2001/2237/article/2/u), [37(a)](https://www.legislation.gov.uk/uksi/2001/2237/article/37/a)
 
@@ -109,15 +109,15 @@ as they apply to arrangements under that section between one local authority and
 
 [^c12807941]: Textual amendment: S. 380(5A) inserted (11.7.2001) by [S.I. 2001/2237](https://www.legislation.gov.uk/uksi/2001/2237), [arts. 2(u)](https://www.legislation.gov.uk/uksi/2001/2237/article/2/u), [37(c)](https://www.legislation.gov.uk/uksi/2001/2237/article/37/c)
 
-[^key-bab3dee417b3f0ac36055e6efa57487a]: Textual amendment: S. 380(6)(aa) substituted for word "or" at the end of paragraph (a) (23.10.2007 for specified purposes, 6.4.2008 in so far as not already in force) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 51(2)](https://www.legislation.gov.uk/ukpga/2007/24/section/51/2), [59(4)(b)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/4/b); [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/582/article/2/d)
+[^c-bab3dee417b3f0ac36055e6efa57487a]: Textual amendment: S. 380(6)(aa) substituted for word "or" at the end of paragraph (a) (23.10.2007 for specified purposes, 6.4.2008 in so far as not already in force) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 51(2)](https://www.legislation.gov.uk/ukpga/2007/24/section/51/2), [59(4)(b)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/4/b); [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/582/article/2/d)
 
-[^key-7442119f3b7d5bcfa31587d99e835bdd]: Textual amendment: S. 380(9)(b) repealed (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/32); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/628/article/4/d)
+[^c-7442119f3b7d5bcfa31587d99e835bdd]: Textual amendment: S. 380(9)(b) repealed (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/32); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/628/article/4/d)
 
 [^c12807951]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-c4afd231d59d87cbbf866788574edb45]: Textual amendment: Word in s. 380(10) inserted (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 20 para. 8](https://www.legislation.gov.uk/ukpga/2011/20/schedule/20/paragraph/8); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/628/article/4/c)
+[^c-c4afd231d59d87cbbf866788574edb45]: Textual amendment: Word in s. 380(10) inserted (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 20 para. 8](https://www.legislation.gov.uk/ukpga/2011/20/schedule/20/paragraph/8); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/628/article/4/c)
 
-[^key-68bedc2149f15a20fb61f3182d0a64a5]: Textual amendment: S. 380(10)(c) and word repealed (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/32); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/628/article/4/d)
+[^c-68bedc2149f15a20fb61f3182d0a64a5]: Textual amendment: S. 380(10)(c) and word repealed (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/32); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/628/article/4/d)
 
 [^c12807961]: Textual amendment: Definitions of “**executive**” and “**executive arrangements**” in s. 380(13) inserted (11.7.2001) by [S.I. 2001/2237](https://www.legislation.gov.uk/uksi/2001/2237), [arts. 2(u)](https://www.legislation.gov.uk/uksi/2001/2237/article/2/u), [37(d)](https://www.legislation.gov.uk/uksi/2001/2237/article/37/d)
 

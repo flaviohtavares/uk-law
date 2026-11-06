@@ -22,11 +22,11 @@ summary: ''
 
 Section 1
 
-### 1. Amendments of RPA 1983[^key-071810feab126ee20424962a241929a5][^key-4ccbb7ac2cf4e834ad049acd104fa579][^key-6f9414aaa4fc99864a1d6525a079da89][^key-40e59e0907fb75c34f58f4ed8a8525fa]
+### 1. Amendments of RPA 1983[^c-071810feab126ee20424962a241929a5][^c-4ccbb7ac2cf4e834ad049acd104fa579][^c-6f9414aaa4fc99864a1d6525a079da89][^c-40e59e0907fb75c34f58f4ed8a8525fa]
 
 RPA 1983 is amended as follows.
 
-**2.**[^key-cf6e12b70c81ac206ade11f4131709ed][^key-a59c55922147bf612f65a55de5d75184][^key-ab9b533734c0a2c843c4fe81683f4ecd] After section 13BC insert—
+**2.**[^c-cf6e12b70c81ac206ade11f4131709ed][^c-a59c55922147bf612f65a55de5d75184][^c-ab9b533734c0a2c843c4fe81683f4ecd] After section 13BC insert—
 
 > **13BD. Electoral identity document: Great Britain**
 >
@@ -109,7 +109,7 @@ RPA 1983 is amended as follows.
 > - (a) may authorise or require a registration officer to remind a person who has an anonymous entry in a register maintained by the officer of the need to obtain an anonymous elector’s document in order to be able to vote in person;
 > - (b) may require a registration officer, in prescribed circumstances, to replace an anonymous elector’s document issued to a person with a new anonymous elector’s document issued by the officer.
 
-**3.**[^key-e7d1277f355d21e37878e2445e623fcb][^key-f3bf5e4a28b174d89d2b4bd53004725c][^key-5c53afffa9b2d50af2fae4862c144739] (1) Section 13C (electoral identity card: Northern Ireland) is amended as follows.
+**3.**[^c-e7d1277f355d21e37878e2445e623fcb][^c-f3bf5e4a28b174d89d2b4bd53004725c][^c-5c53afffa9b2d50af2fae4862c144739] (1) Section 13C (electoral identity card: Northern Ireland) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -131,7 +131,7 @@ RPA 1983 is amended as follows.
 > - (a) about the information to be included in an electoral identity card;
 > - (b) about the form of an electoral identity card (including provision for the card to be issued in different forms in different circumstances).
 
-**4.**[^key-175de6c934da310ab04c13b89ea4dc54][^key-a46aaf3e292fa063fb984e99bbf67577] (1) Section 13CZA (provision of false information: application for electoral identity card), as extended by paragraph 38 of this Schedule, is amended as follows.
+**4.**[^c-175de6c934da310ab04c13b89ea4dc54][^c-a46aaf3e292fa063fb984e99bbf67577] (1) Section 13CZA (provision of false information: application for electoral identity card), as extended by paragraph 38 of this Schedule, is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -153,7 +153,7 @@ RPA 1983 is amended as follows.
 
 (4) In the heading, after “application for” insert “electoral identity document, anonymous elector’s document or”.
 
-**5.**[^key-b28f34bbb11b0caaaf419d2fc8c3f843][^key-52a5000905d057d63eab407337dfef0b][^key-d4c05d291db4e0904afb4430a074d648] In section 56 (registration appeals: England and Wales), in subsection (1), after paragraph (ab) insert—
+**5.**[^c-b28f34bbb11b0caaaf419d2fc8c3f843][^c-52a5000905d057d63eab407337dfef0b][^c-d4c05d291db4e0904afb4430a074d648] In section 56 (registration appeals: England and Wales), in subsection (1), after paragraph (ab) insert—
 
 > - (ac) from a determination of a registration officer not to issue—
 >   - (i) an electoral identity document following an application under section 13BD, or
@@ -161,13 +161,13 @@ RPA 1983 is amended as follows.
 
 .
 
-**6.**[^key-a41b9a0b986f7e7062e8018a3792c64a][^key-d7cdbe30a469c26c351e94c528b4c22f][^key-ca9b903ca97d7da8d36bbd02cda30901] In section 58 (registration appeals: Northern Ireland), in subsection (1), after paragraph (ba) insert—
+**6.**[^c-a41b9a0b986f7e7062e8018a3792c64a][^c-d7cdbe30a469c26c351e94c528b4c22f][^c-ca9b903ca97d7da8d36bbd02cda30901] In section 58 (registration appeals: Northern Ireland), in subsection (1), after paragraph (ba) insert—
 
 > - (bb) from a determination of the Chief Electoral Officer not to issue an electoral identity card following an application under section 13C;
 
 .
 
-**7.**[^key-00ceea30006d9541b0ecf1a32932c8c4][^key-30990f3a8f0b0aa2142bdf06fa0254b9] After section 59 (supplemental provisions as to members of forces and service voters) insert—
+**7.**[^c-00ceea30006d9541b0ecf1a32932c8c4][^c-30990f3a8f0b0aa2142bdf06fa0254b9] After section 59 (supplemental provisions as to members of forces and service voters) insert—
 
 > **59A. Reports on voter identification requirements in Great Britain**
 >
@@ -191,7 +191,7 @@ RPA 1983 is amended as follows.
 >
 > (7) In this section, “**the voter identification requirements**” means paragraphs (1A) to (1T) of rule 37 of the parliamentary elections rules (voting procedure) as it extends to England and Wales and to Scotland (including those paragraphs as applied by rule 38, 39 or 40 of those rules).
 
-**8.**[^key-f3c4c13679413d001fcf4fa62d8a6fa3][^key-0e22b62e5ebfe1900afe1425d59e46eb] (1) Section 61 (other voting offences) is amended as follows.
+**8.**[^c-f3c4c13679413d001fcf4fa62d8a6fa3][^c-0e22b62e5ebfe1900afe1425d59e46eb] (1) Section 61 (other voting offences) is amended as follows.
 
 (2) In subsection (6), after “deemed to have voted” insert “(but see subsection (6ZA))”.
 
@@ -201,11 +201,11 @@ RPA 1983 is amended as follows.
 >
 > (6ZB) In subsection (6ZA), “**the multiple voting provisions**” means subsections (2)(a)(i), (2A)(a) to (c), (3)(a)(i) and (3A)(a) to (c).
 
-**9.**[^key-09e63c0dee8a3b83173d8ebb1015f804][^key-6ab6b41a3b7f1e813210bf3791061a94][^key-5994220f7aec59c3b5f189ccc493a624] In section 66B (failure to comply with conditions relating to supply etc of certain documents), in subsection (1)(a), after “rule” insert “19B, 56A or”.
+**9.**[^c-09e63c0dee8a3b83173d8ebb1015f804][^c-6ab6b41a3b7f1e813210bf3791061a94][^c-5994220f7aec59c3b5f189ccc493a624] In section 66B (failure to comply with conditions relating to supply etc of certain documents), in subsection (1)(a), after “rule” insert “19B, 56A or”.
 
-**10.**[^key-8f364812f0801b2f59607671c40dafee][^key-4dd4daa0820be6c226c13a501fe00d59][^key-2c15d747b6c40de9378ad771e45a5738][^key-6792822f10c47a8b8d8b479d85c6cbe1] Schedule 1 (Parliamentary elections rules) is amended in accordance with paragraphs 11 to 33.
+**10.**[^c-8f364812f0801b2f59607671c40dafee][^c-4dd4daa0820be6c226c13a501fe00d59][^c-2c15d747b6c40de9378ad771e45a5738][^c-6792822f10c47a8b8d8b479d85c6cbe1] Schedule 1 (Parliamentary elections rules) is amended in accordance with paragraphs 11 to 33.
 
-**11.**[^key-c05ae06c0d913eec69dce2948b114527][^key-8816fbbaac94ab237559d7c9aabac96c][^key-7fde4a2ef84891e747c6415321b32c06] After rule 19A insert—
+**11.**[^c-c05ae06c0d913eec69dce2948b114527][^c-8816fbbaac94ab237559d7c9aabac96c][^c-7fde4a2ef84891e747c6415321b32c06] After rule 19A insert—
 
 > **19B. Date of birth lists for polling stations in Northern Ireland**
 >
@@ -254,11 +254,11 @@ RPA 1983 is amended as follows.
 >
 > (9) Regulations under paragraph (6) may also impose, in respect of persons to whom a copy of a list has been supplied or information has been disclosed by virtue of paragraph (8), conditions corresponding to those mentioned in paragraph (8).
 
-**12.**[^key-9652821e25b03d4b8a7ba0f7e0863670][^key-97e9bc4e9e94f7509764233627bed2a1] In rule 25 (provision of polling stations), after paragraph (5) insert—
+**12.**[^c-9652821e25b03d4b8a7ba0f7e0863670][^c-97e9bc4e9e94f7509764233627bed2a1] In rule 25 (provision of polling stations), after paragraph (5) insert—
 
 > (6) The returning officer must ensure that each polling station contains an area in which voters can produce proof of identity in private.
 
-**13.**[^key-213ebc1a92b64bb4d114eaf35a30671c][^key-2bb03da6d991bb7d65b935dbbe4f9344] (1) Rule 26 (appointment of presiding officers and clerks) is amended as follows.
+**13.**[^c-213ebc1a92b64bb4d114eaf35a30671c][^c-2bb03da6d991bb7d65b935dbbe4f9344] (1) Rule 26 (appointment of presiding officers and clerks) is amended as follows.
 
 (2) In paragraph (3), for the words from “except” to the end substitute
 
@@ -279,7 +279,7 @@ RPA 1983 is amended as follows.
 >   - (i) paragraph (1F) of rule 37 as it extends to England and Wales and to Scotland (including that paragraph as applied by rule 38, 39 or 40);
 >   - (ii) paragraph (1DA) of rule 37 as it extends to Northern Ireland (including that paragraph as applied by rule 38, 39 or 40).
 
-**14.**[^key-eeaa371740950ac89de6cad1f353e609][^key-46e7527a36ef6d0d2fa4b45f1d575c04] In rule 28 (issue of official poll cards), after paragraph (3) insert—
+**14.**[^c-eeaa371740950ac89de6cad1f353e609][^c-46e7527a36ef6d0d2fa4b45f1d575c04] In rule 28 (issue of official poll cards), after paragraph (3) insert—
 
 > (3ZA) In the case of a form prescribed under paragraph (3) that relates to—
 >
@@ -291,17 +291,17 @@ RPA 1983 is amended as follows.
 > - (i) in the case of an elector (other than an elector with an anonymous entry) or a proxy, any of the forms of identification for the time being referred to in rule 37(1H);
 > - (ii) in the case of an elector with an anonymous entry, the elector’s official poll card and an anonymous elector’s document showing the same electoral number as the electoral number shown on the official poll card.
 
-**15.**[^key-ad065afc22ccca1f138323e51b003536] (1)[^key-c6ade5c67a245b96e48ded581f1f4e9f][^key-1f4494a241f211e38ba3af6ac372de69] Rule 29 (equipment of polling stations) is amended as follows.
+**15.**[^c-ad065afc22ccca1f138323e51b003536] (1)[^c-c6ade5c67a245b96e48ded581f1f4e9f][^c-1f4494a241f211e38ba3af6ac372de69] Rule 29 (equipment of polling stations) is amended as follows.
 
-(2)[^key-cc7b4f0c0be46a922cd1bad755d326d5] In paragraph (3), after sub-paragraph (e) insert—
+(2)[^c-cc7b4f0c0be46a922cd1bad755d326d5] In paragraph (3), after sub-paragraph (e) insert—
 
 > - (f) in the case of an election held in Northern Ireland, the lists prepared for the polling station under rule 19B.
 
-(3)[^key-b50617201eed9afe54e46ec028c59f94][^key-1f4494a241f211e38ba3af6ac372de69] After paragraph (3) insert—
+(3)[^c-b50617201eed9afe54e46ec028c59f94][^c-1f4494a241f211e38ba3af6ac372de69] After paragraph (3) insert—
 
 > (3ZA) In the case of an election held in England and Wales or Scotland, the returning officer must also provide each polling station with a prescribed form (referred to in these rules as “**the ballot paper refusal list**”) on which entries are to be made as mentioned in rule 40ZB (refusal to deliver ballot paper: Great Britain).
 
-(4)[^key-d176b42d0deef5c3d31af045d4128688] After paragraph (4) insert—
+(4)[^c-d176b42d0deef5c3d31af045d4128688] After paragraph (4) insert—
 
 > (4A) In the case of an election held in England and Wales or Scotland, a large notice must be displayed inside each polling station containing—
 >
@@ -310,7 +310,7 @@ RPA 1983 is amended as follows.
 >   - (ii) in the case of an elector with an anonymous entry, the elector’s official poll card and an anonymous elector’s document showing the same electoral number as the electoral number shown on the official poll card, and
 > - (b) a statement that further proof of identity may be required to resolve any discrepancy between the name of the holder of a specified form of identification and the name of the elector or proxy that the voter claims to be.
 
-**16.**[^key-ed8490449315b956dd668f1940e64f3d][^key-2f4ed91205ac3021bc3f7a255e67a065] (1) Rule 35 (questions to be put to voters) is amended as follows.
+**16.**[^c-ed8490449315b956dd668f1940e64f3d][^c-2f4ed91205ac3021bc3f7a255e67a065] (1) Rule 35 (questions to be put to voters) is amended as follows.
 
 (2) In the table following paragraph (1), in the column headed “Questions”, in entry 1 (electors), entry 2 (proxies), entry 3 (proxies for an elector with an anonymous entry), entry 5 (postal voters) and entry 6 (proxy postal voters), before question (a) insert—
 
@@ -355,15 +355,15 @@ RPA 1983 is amended as follows.
 > - (a) a ballot paper will be refused if the person fails to answer each question satisfactorily, and
 > - (b) giving false information may be an offence.
 
-**17.**[^key-6084fc8e59810325b392e07ae87f4b33] (1)[^key-967c46dcff624b42b05ef3194eab577a][^key-057dad84668c952e8d7848183295bafe][^key-a2e4da952ce3a5f3a67675de5549bd66] Rule 37 (voting procedure), as it extends to Northern Ireland, is amended as follows.
+**17.**[^c-6084fc8e59810325b392e07ae87f4b33] (1)[^c-967c46dcff624b42b05ef3194eab577a][^c-057dad84668c952e8d7848183295bafe][^c-a2e4da952ce3a5f3a67675de5549bd66] Rule 37 (voting procedure), as it extends to Northern Ireland, is amended as follows.
 
-(2)[^key-c139c30ca5efb53062b50fc625b66ba4] For the heading substitute “Voting procedure and voter identification requirements: Northern Ireland”.
+(2)[^c-c139c30ca5efb53062b50fc625b66ba4] For the heading substitute “Voting procedure and voter identification requirements: Northern Ireland”.
 
-(3)[^key-c139c30ca5efb53062b50fc625b66ba4] After paragraph (1A) insert—
+(3)[^c-c139c30ca5efb53062b50fc625b66ba4] After paragraph (1A) insert—
 
 > (1AA) The presiding officer or clerk must arrange for the voter to produce any document in a private area of the polling station if the voter so requests, and, in such a case, must ensure that no other persons witness the production except as permitted by the voter.
 
-(4)[^key-c139c30ca5efb53062b50fc625b66ba4] In paragraph (1B), for the words from “the officer” to the end substitute
+(4)[^c-c139c30ca5efb53062b50fc625b66ba4] In paragraph (1B), for the words from “the officer” to the end substitute
 
 > —
 >
@@ -374,14 +374,14 @@ RPA 1983 is amended as follows.
 >   raises a reasonable doubt as to whether the voter is the elector or proxy that the voter claims to be, or
 > - (b) the officer or clerk reasonably suspects that the document is a forged document (see paragraph (1EA)).
 
-(5)[^key-c139c30ca5efb53062b50fc625b66ba4] In paragraph (1C)—
+(5)[^c-c139c30ca5efb53062b50fc625b66ba4] In paragraph (1C)—
 
 - (a) after “decides” insert “or reasonably suspects (as the case may be)”;
 - (b) after “voter” insert “(subject to paragraph (1DA))”.
 
-(6)[^key-c139c30ca5efb53062b50fc625b66ba4] In paragraph (1D), after “decides” insert “or reasonably suspects (as the case may be)”.
+(6)[^c-c139c30ca5efb53062b50fc625b66ba4] In paragraph (1D), after “decides” insert “or reasonably suspects (as the case may be)”.
 
-(7)[^key-a8d045e757e746a069ba0f38eb0b95be][^key-a2e4da952ce3a5f3a67675de5549bd66] After paragraph (1D) insert—
+(7)[^c-a8d045e757e746a069ba0f38eb0b95be][^c-a2e4da952ce3a5f3a67675de5549bd66] After paragraph (1D) insert—
 
 > (1DA) There is an exception from paragraph (1C) for cases within sub-paragraph (a) of paragraph (1B) where—
 >
@@ -395,7 +395,7 @@ RPA 1983 is amended as follows.
 > - (a) where the voter is registered in a register of parliamentary electors in Northern Ireland, section 10(4A)(b), 10A(1A)(b) or 13A(2A)(b) of this Act, and
 > - (b) where the voter is registered in a register of parliamentary electors in Great Britain and does not also fall within sub-paragraph (a), section 8(7A) of the Representation of the People Act 1985.
 
-(8)[^key-575afe7050745fd2c604e6a389429278] In paragraph (1E)—
+(8)[^c-575afe7050745fd2c604e6a389429278] In paragraph (1E)—
 
 - (a) for “one which” substitute “a document (in whatever form issued to the holder and regardless of any expiry date) which”;
 - (b) in sub-paragraph (j), after “a” insert “Registered Blind SmartPass or”;
@@ -405,15 +405,15 @@ RPA 1983 is amended as follows.
   > - (m) a Half Fare SmartPass issued under the Northern Ireland Concessionary Fares Scheme for use from 1 April 2004;
   > - (n) a biometric immigration document issued in accordance with regulations under section 5 of the UK Borders Act 2007.
 
-(9)[^key-c816fe73d1a007435937d9af46b670a6] After paragraph (1E) insert—
+(9)[^c-c816fe73d1a007435937d9af46b670a6] After paragraph (1E) insert—
 
 > (1EA) In this rule a “**forged document**” means a false document made to resemble a specified document.
 
-(10)[^key-c816fe73d1a007435937d9af46b670a6] After paragraph (1F) insert—
+(10)[^c-c816fe73d1a007435937d9af46b670a6] After paragraph (1F) insert—
 
 > (1FA) No person other than the presiding officer or a clerk may inspect a document produced as proof of a voter’s identity, except as permitted by the voter.
 
-**18.**[^key-71421dcd4c19b7f600f1cb2b1f05243d][^key-afca7a096e63595e54f57b576ae37869] (1) Rule 37 (voting procedure), as it extends to England and Wales and to Scotland, is amended as follows.
+**18.**[^c-71421dcd4c19b7f600f1cb2b1f05243d][^c-afca7a096e63595e54f57b576ae37869] (1) Rule 37 (voting procedure), as it extends to England and Wales and to Scotland, is amended as follows.
 
 (2) For the heading substitute “Voting procedure and voter identification requirements: Great Britain”.
 
@@ -530,7 +530,7 @@ RPA 1983 is amended as follows.
 
 (6) In paragraph (3), omit sub-paragraph (a).
 
-**19.**[^key-f242888e50d856efd8ca99b3ee8559c1][^key-cf7b48233fd2cf470eb68688db8fa0a9] In rule 38 (votes marked by presiding officer), for paragraph (1A) substitute—
+**19.**[^c-f242888e50d856efd8ca99b3ee8559c1][^c-cf7b48233fd2cf470eb68688db8fa0a9] In rule 38 (votes marked by presiding officer), for paragraph (1A) substitute—
 
 > (1A) The relevant paragraphs of rule 37 apply in the case of a voter who applies under paragraph (1) above as they apply in the case of a voter who applies under rule 37(1), but as if—
 >
@@ -542,7 +542,7 @@ RPA 1983 is amended as follows.
 > - (a) paragraphs (1A) to (1T) of rule 37 as it extends to England and Wales and to Scotland;
 > - (b) paragraphs (1A) to (1G) of rule 37 as it extends to Northern Ireland.
 
-**20.**[^key-645cd53a08bf40ea7eeaa41fa853a75a][^key-98760b1f16a3ffe2c8a4c45a15161199] In rule 39 (voting by persons with disabilities), for paragraph (2A) substitute—
+**20.**[^c-645cd53a08bf40ea7eeaa41fa853a75a][^c-98760b1f16a3ffe2c8a4c45a15161199] In rule 39 (voting by persons with disabilities), for paragraph (2A) substitute—
 
 > (2A) The relevant paragraphs of rule 37 apply in the case of a voter who applies under paragraph (1) above as they apply in the case of a voter who applies under rule 37(1), but as if—
 >
@@ -554,7 +554,7 @@ RPA 1983 is amended as follows.
 > - (a) paragraphs (1A) to (1T) of rule 37 as it extends to England and Wales and to Scotland;
 > - (b) paragraphs (1A) to (1G) of rule 37 as it extends to Northern Ireland.
 
-**21.**[^key-ee9ea1bdf444bb7121d8be95b8beeeac][^key-663c9e09c75478517b190a4dfd678a64] (1) Rule 40 (tendered ballot papers) is amended as follows.
+**21.**[^c-ee9ea1bdf444bb7121d8be95b8beeeac][^c-663c9e09c75478517b190a4dfd678a64] (1) Rule 40 (tendered ballot papers) is amended as follows.
 
 (2) For paragraph (1A) substitute—
 
@@ -574,7 +574,7 @@ RPA 1983 is amended as follows.
 
 (3) In paragraph (1B), after “where” insert “, at an election held in Northern Ireland”.
 
-**22.**[^key-06b91cb0bddfe65b2d8b7c65d423ac10][^key-f10a6d665d385279477a1a99e680f44c] After rule 40ZA insert—
+**22.**[^c-06b91cb0bddfe65b2d8b7c65d423ac10][^c-f10a6d665d385279477a1a99e680f44c] After rule 40ZA insert—
 
 > **40ZB. Refusal to deliver ballot paper: Great Britain**
 >
@@ -615,12 +615,12 @@ RPA 1983 is amended as follows.
 > - (a) except in paragraph (4)(a), any reference to the refusal to deliver a ballot paper (however expressed) is to the refusal to do so under rule 35(3) or 37(1E), and
 > - (b) any reference to paragraph (1E) or (1G) of rule 37 includes a reference to that paragraph as applied by rule 38, 39 or 40.
 
-**23.**[^key-fd9e5dec38d5ad625778563f5ce31022][^key-87407b5de7cb95f97c546e4190c0c479] In rule 40A—
+**23.**[^c-fd9e5dec38d5ad625778563f5ce31022][^c-87407b5de7cb95f97c546e4190c0c479] In rule 40A—
 
 - (a) for the heading substitute “Refusal to deliver ballot paper: Northern Ireland”;
 - (b) in paragraph (2), after “that” insert “and to rule 37(1DB)”.
 
-**24.**[^key-a621b7fae30b5e5c79d1f5c164b05ea5][^key-075d282d66719f0c99c046667e9067e5][^key-36be3c4d8c937ca46043959b4639458c] After rule 40A insert—
+**24.**[^c-a621b7fae30b5e5c79d1f5c164b05ea5][^c-075d282d66719f0c99c046667e9067e5][^c-36be3c4d8c937ca46043959b4639458c] After rule 40A insert—
 
 > **40B. Collection and disclosure of information relating to applications made under rules 37 to 40**
 >
@@ -676,14 +676,14 @@ RPA 1983 is amended as follows.
 >   - (i) the registration officer of the local authority in whose area the constituency is situated, or
 >   - (ii) if the constituency comprises any part of the area of more than one local authority, the registration officer of the local authority in whose area the greater or greatest (as the case may be) number of electors is registered.
 
-**25.**[^key-ae80b5f31b2d872c157b083afa433e64][^key-8c094d91281d71298df489a2a9849a0a][^key-6d5f1845db2d5701261a1a3f6223a6db] In rule 43 (procedure on close of poll), after paragraph (1)(da) insert—
+**25.**[^c-ae80b5f31b2d872c157b083afa433e64][^c-8c094d91281d71298df489a2a9849a0a][^c-6d5f1845db2d5701261a1a3f6223a6db] In rule 43 (procedure on close of poll), after paragraph (1)(da) insert—
 
 > - (db) in the case of an election held in England and Wales or Scotland, the ballot paper refusal list completed in accordance with rule 40ZB,
 > - (dc) in the case of an election held in Northern Ireland, the lists provided to the polling station under rule 29(3)(f),
 
 .
 
-**26.**[^key-748236c896c07157e3bf880d2775c279][^key-a3471ace87130e4034e2e78929b74a13] After rule 53A insert—
+**26.**[^c-748236c896c07157e3bf880d2775c279][^c-a3471ace87130e4034e2e78929b74a13] After rule 53A insert—
 
 > **53B. Destruction of date of birth lists: Northern Ireland**
 >
@@ -692,19 +692,19 @@ RPA 1983 is amended as follows.
 > - (a) on the next working day following the 21st day after the Chief Electoral Officer has returned the name of the member elected, or
 > - (b) if an election petition questioning the election or return is presented before that day, on the next working day following the conclusion of proceedings on the petition or on appeal from such proceedings.
 
-**27.**[^key-c9dc60b2268a40955de8e0cf39d2f7ba][^key-b23f6d1203e1a99950ad72654e7618de] In rule 54 (sealing up of ballot papers), after paragraph (2)(b) insert—
+**27.**[^c-c9dc60b2268a40955de8e0cf39d2f7ba][^c-b23f6d1203e1a99950ad72654e7618de] In rule 54 (sealing up of ballot papers), after paragraph (2)(b) insert—
 
 > - (ba) in the case of an election held in England and Wales or Scotland, the completed ballot paper refusal list,
 
 .
 
-**28.**[^key-5963d2ed360c5dfb94f332ec7aaa5a4c][^key-f96d01879f3d34cf996ed2e6e784b51f] In rule 55 (delivery of documents to registration officer), after paragraph (1)(ca) insert—
+**28.**[^c-5963d2ed360c5dfb94f332ec7aaa5a4c][^c-f96d01879f3d34cf996ed2e6e784b51f] In rule 55 (delivery of documents to registration officer), after paragraph (1)(ca) insert—
 
 > - (cb) in the case of an election held in England and Wales or Scotland, the packet containing the completed ballot paper refusal list,
 
 .
 
-**29.**[^key-377e9834a7ab102e53c65174f4e9a957][^key-76b087adc9fb86b539beeb435b38c940] In rule 56 (orders for production of documents), after paragraph (1) insert—
+**29.**[^c-377e9834a7ab102e53c65174f4e9a957][^c-76b087adc9fb86b539beeb435b38c940] In rule 56 (orders for production of documents), after paragraph (1) insert—
 
 > (1A) An order—
 >
@@ -713,7 +713,7 @@ RPA 1983 is amended as follows.
 >
 > may be made by the High Court or the county court if satisfied by evidence on oath that the order is required for the purpose of an election petition relating to an election in England and Wales or Scotland.
 
-**30.**[^key-70456bdda88396677eabc8a955c1c17f][^key-29a1af1e099ff8494bedfb8d147f3ba7][^key-2be4974fec4ca2dfbdcb7af9c73e5a9d] After rule 56 insert—
+**30.**[^c-70456bdda88396677eabc8a955c1c17f][^c-29a1af1e099ff8494bedfb8d147f3ba7][^c-2be4974fec4ca2dfbdcb7af9c73e5a9d] After rule 56 insert—
 
 > **56A. Inspection of ballot paper refusal list: Great Britain**
 >
@@ -723,19 +723,19 @@ RPA 1983 is amended as follows.
 >
 > (3) Regulations may make provision about the disclosure by a registration officer of information contained in the ballot paper refusal list.
 
-**31.**[^key-c2e874690869e7585baf5870a5267fd0][^key-43064d7ca188ab61c57b3c33adc1e669] In rule 57 (retention and public inspection of documents), after paragraph (2)(b) insert—
+**31.**[^c-c2e874690869e7585baf5870a5267fd0][^c-43064d7ca188ab61c57b3c33adc1e669] In rule 57 (retention and public inspection of documents), after paragraph (2)(b) insert—
 
 > - (ba) in the case of an election held in England and Wales or Scotland, the completed ballot paper refusal list,
 
 .
 
-**32.**[^key-5f603015423450201bc22ba7a748517e][^key-fe169e21eec5ec4875ed19d04993ac81][^key-16e1a61b0264f5835b19a0092d2944e0] In rule 58 (disposal of documents in Scotland), after paragraph (2)(b) insert—
+**32.**[^c-5f603015423450201bc22ba7a748517e][^c-fe169e21eec5ec4875ed19d04993ac81][^c-16e1a61b0264f5835b19a0092d2944e0] In rule 58 (disposal of documents in Scotland), after paragraph (2)(b) insert—
 
 > - (ba) the references in rule 56A to a registration officer are to be read as references to the returning officer;
 
 .
 
-**33.**[^key-3c9e1951364f91204f360be9eea20e8d][^key-5c841bc8061d595fec048d8026469a8f] (1) In the Appendix of Forms, the form of directions for the guidance of the voters in voting is amended as follows.
+**33.**[^c-3c9e1951364f91204f360be9eea20e8d][^c-5c841bc8061d595fec048d8026469a8f] (1) In the Appendix of Forms, the form of directions for the guidance of the voters in voting is amended as follows.
 
 (2) Before the existing paragraph 1 insert—
 
@@ -743,238 +743,238 @@ RPA 1983 is amended as follows.
 
 (3) The existing paragraphs numbered 1, 2, 3 and 4 are re-numbered 2, 3, 4 and 5 respectively.
 
-### 34. Extension of Northern Ireland voter identification provisions to Great Britain[^key-efc3b72394f55fd3cb25ca0cd8921110][^key-e9c0910e3fe7242f310c5549b8cc97f7]
+### 34. Extension of Northern Ireland voter identification provisions to Great Britain[^c-efc3b72394f55fd3cb25ca0cd8921110][^c-e9c0910e3fe7242f310c5549b8cc97f7]
 
 *Extent: E+W+S*
 
 Section 2(3)(b) and (c) of the Elections (Northern Ireland) Act 1985, and section 2(1) of that Act so far as relating to those provisions, extend to England and Wales and to Scotland (as well as to Northern Ireland).
 
-**35.**[^key-1b8cb20b8093f4d9e43cb4d802874bf4][^key-bbd60ce827033539692a871e66b75ee8] After section 7(4) of the Elections (Northern Ireland) Act 1985 insert—
+**35.**[^c-1b8cb20b8093f4d9e43cb4d802874bf4][^c-bbd60ce827033539692a871e66b75ee8] After section 7(4) of the Elections (Northern Ireland) Act 1985 insert—
 
 > (5) See also paragraph 34 of Schedule 1 to the Elections Act 2022 (which relates to section 2 of this Act).
 
-**36.**[^key-57eadb403563e40b23f608c00163acca][^key-bb47fb3ae78ede2d7d55fa48bbf7780f] Section 5(2) of the Electoral Fraud (Northern Ireland) Act 2002, and section 5(1) of that Act so far as relating to that provision, extend to England and Wales and to Scotland (as well as to Northern Ireland).
+**36.**[^c-57eadb403563e40b23f608c00163acca][^c-bb47fb3ae78ede2d7d55fa48bbf7780f] Section 5(2) of the Electoral Fraud (Northern Ireland) Act 2002, and section 5(1) of that Act so far as relating to that provision, extend to England and Wales and to Scotland (as well as to Northern Ireland).
 
-**37.**[^key-9e8ea6970abef5d0433b304864568339][^key-cce2f80beccbf2cc00ac4d6815e65d7e] After section 8(5) of the Electoral Fraud (Northern Ireland) Act 2002 insert—
+**37.**[^c-9e8ea6970abef5d0433b304864568339][^c-cce2f80beccbf2cc00ac4d6815e65d7e] After section 8(5) of the Electoral Fraud (Northern Ireland) Act 2002 insert—
 
 > (6) See also paragraph 36 of Schedule 1 to the Elections Act 2022 (which relates to section 5 of this Act: disabled voters).
 
-**38.**[^key-d316ed2e71f89aead58202d4a9e4e202][^key-7675e9768e3db6c8fa80e9ef758ea1f5] Section 13CZA of RPA 1983 (provision of false information: application for electoral identity card) extends to England and Wales and to Scotland (as well as to Northern Ireland).
+**38.**[^c-d316ed2e71f89aead58202d4a9e4e202][^c-7675e9768e3db6c8fa80e9ef758ea1f5] Section 13CZA of RPA 1983 (provision of false information: application for electoral identity card) extends to England and Wales and to Scotland (as well as to Northern Ireland).
 
-**39.**[^key-94053021857cdd11a7bdbc3b9cd720f8][^key-9b062caf1a4295da789b3297f289d854] After section 27(3) of the Northern Ireland (Miscellaneous Provisions) Act 2014 insert—
+**39.**[^c-94053021857cdd11a7bdbc3b9cd720f8][^c-9b062caf1a4295da789b3297f289d854] After section 27(3) of the Northern Ireland (Miscellaneous Provisions) Act 2014 insert—
 
 > (4) See also paragraph 38 of Schedule 1 to the Elections Act 2022 (which relates to section 17 of this Act: electoral identity cards).
 
-### 40. Consequential repeals[^key-68bd374c69e72b85e701eca2ee28256e][^key-ea1ba8b6ce93a1e4626cf42bb5a0c8ad]
+### 40. Consequential repeals[^c-68bd374c69e72b85e701eca2ee28256e][^c-ea1ba8b6ce93a1e4626cf42bb5a0c8ad]
 
 Section 2(2) of the Elections (Northern Ireland) Act 1985 is repealed.
 
 ## Annotations
 
-[^key-071810feab126ee20424962a241929a5]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-071810feab126ee20424962a241929a5]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-4ccbb7ac2cf4e834ad049acd104fa579]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/1) in force at 27.8.2022 for specified purposes by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(d)(i)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/d/i)
+[^c-4ccbb7ac2cf4e834ad049acd104fa579]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/1) in force at 27.8.2022 for specified purposes by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(d)(i)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/d/i)
 
-[^key-6f9414aaa4fc99864a1d6525a079da89]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/1) in force at 16.1.2023 for specified purposes by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(i)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/i)
+[^c-6f9414aaa4fc99864a1d6525a079da89]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/1) in force at 16.1.2023 for specified purposes by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(i)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/i)
 
-[^key-40e59e0907fb75c34f58f4ed8a8525fa]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/1) in force at 31.1.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/a)
+[^c-40e59e0907fb75c34f58f4ed8a8525fa]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/1) in force at 31.1.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/a)
 
-[^key-cf6e12b70c81ac206ade11f4131709ed]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-cf6e12b70c81ac206ade11f4131709ed]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-a59c55922147bf612f65a55de5d75184]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/2) in force at 27.8.2022 for specified purposes by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/d/ii)
+[^c-a59c55922147bf612f65a55de5d75184]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/2) in force at 27.8.2022 for specified purposes by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/d/ii)
 
-[^key-ab9b533734c0a2c843c4fe81683f4ecd]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/2) in force at 16.1.2023 in so far as not already in force by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/ii)
+[^c-ab9b533734c0a2c843c4fe81683f4ecd]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/2) in force at 16.1.2023 in so far as not already in force by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/ii)
 
-[^key-e7d1277f355d21e37878e2445e623fcb]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-e7d1277f355d21e37878e2445e623fcb]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-f3bf5e4a28b174d89d2b4bd53004725c]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/3) in force at 27.8.2022 for specified purposes by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(d)(iii)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/d/iii)
+[^c-f3bf5e4a28b174d89d2b4bd53004725c]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/3) in force at 27.8.2022 for specified purposes by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(d)(iii)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/d/iii)
 
-[^key-5c53afffa9b2d50af2fae4862c144739]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/3) in force at 16.1.2023 in so far as not already in force by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/ii)
+[^c-5c53afffa9b2d50af2fae4862c144739]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/3) in force at 16.1.2023 in so far as not already in force by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/ii)
 
-[^key-175de6c934da310ab04c13b89ea4dc54]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-175de6c934da310ab04c13b89ea4dc54]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-a46aaf3e292fa063fb984e99bbf67577]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/4) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/ii)
+[^c-a46aaf3e292fa063fb984e99bbf67577]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/4) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/ii)
 
-[^key-b28f34bbb11b0caaaf419d2fc8c3f843]: Commencement: Sch. 1 para. 5 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-b28f34bbb11b0caaaf419d2fc8c3f843]: Commencement: Sch. 1 para. 5 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-52a5000905d057d63eab407337dfef0b]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/5) in force at 27.8.2022 for specified purposes by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/d/iv)
+[^c-52a5000905d057d63eab407337dfef0b]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/5) in force at 27.8.2022 for specified purposes by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/d/iv)
 
-[^key-d4c05d291db4e0904afb4430a074d648]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/5) in force at 16.1.2023 in so far as not already in force by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/ii)
+[^c-d4c05d291db4e0904afb4430a074d648]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/5) in force at 16.1.2023 in so far as not already in force by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/ii)
 
-[^key-a41b9a0b986f7e7062e8018a3792c64a]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-a41b9a0b986f7e7062e8018a3792c64a]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-d7cdbe30a469c26c351e94c528b4c22f]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/6) in force at 27.8.2022 for specified purposes by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(d)(v)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/d/v)
+[^c-d7cdbe30a469c26c351e94c528b4c22f]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/6) in force at 27.8.2022 for specified purposes by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(d)(v)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/d/v)
 
-[^key-ca9b903ca97d7da8d36bbd02cda30901]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/6) in force at 16.1.2023 in so far as not already in force by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/ii)
+[^c-ca9b903ca97d7da8d36bbd02cda30901]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/6) in force at 16.1.2023 in so far as not already in force by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/ii)
 
-[^key-00ceea30006d9541b0ecf1a32932c8c4]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-00ceea30006d9541b0ecf1a32932c8c4]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-30990f3a8f0b0aa2142bdf06fa0254b9]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/7) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/ii) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/2))
+[^c-30990f3a8f0b0aa2142bdf06fa0254b9]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/7) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/ii) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/2))
 
-[^key-f3c4c13679413d001fcf4fa62d8a6fa3]: Commencement: Sch. 1 para. 8 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-f3c4c13679413d001fcf4fa62d8a6fa3]: Commencement: Sch. 1 para. 8 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-0e22b62e5ebfe1900afe1425d59e46eb]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/8) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(iii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/iii) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-0e22b62e5ebfe1900afe1425d59e46eb]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/8) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(iii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/iii) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
 
-[^key-09e63c0dee8a3b83173d8ebb1015f804]: Commencement: Sch. 1 para. 9 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-09e63c0dee8a3b83173d8ebb1015f804]: Commencement: Sch. 1 para. 9 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-6ab6b41a3b7f1e813210bf3791061a94]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/9) in force at 16.1.2023 for specified purposes by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/iv) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-6ab6b41a3b7f1e813210bf3791061a94]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/9) in force at 16.1.2023 for specified purposes by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/iv) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
 
-[^key-5994220f7aec59c3b5f189ccc493a624]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/9) in force at 31.1.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/a)
+[^c-5994220f7aec59c3b5f189ccc493a624]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/9) in force at 31.1.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/a)
 
-[^key-8f364812f0801b2f59607671c40dafee]: Commencement: Sch. 1 para. 10 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-8f364812f0801b2f59607671c40dafee]: Commencement: Sch. 1 para. 10 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-4dd4daa0820be6c226c13a501fe00d59]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/10) in force at 27.8.2022 for specified purposes by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(d)(vi)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/d/vi)
+[^c-4dd4daa0820be6c226c13a501fe00d59]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/10) in force at 27.8.2022 for specified purposes by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(d)(vi)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/d/vi)
 
-[^key-2c15d747b6c40de9378ad771e45a5738]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/10) in force at 16.1.2023 for specified purposes by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(v)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/v)
+[^c-2c15d747b6c40de9378ad771e45a5738]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/10) in force at 16.1.2023 for specified purposes by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(v)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/v)
 
-[^key-6792822f10c47a8b8d8b479d85c6cbe1]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/10) in force at 31.1.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/a)
+[^c-6792822f10c47a8b8d8b479d85c6cbe1]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/10) in force at 31.1.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/a)
 
-[^key-c05ae06c0d913eec69dce2948b114527]: Commencement: Sch. 1 para. 11 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-c05ae06c0d913eec69dce2948b114527]: Commencement: Sch. 1 para. 11 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-8816fbbaac94ab237559d7c9aabac96c]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/11) in force at 27.8.2022 for specified purposes by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(d)(vii)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/d/vii)
+[^c-8816fbbaac94ab237559d7c9aabac96c]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/11) in force at 27.8.2022 for specified purposes by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(d)(vii)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/d/vii)
 
-[^key-7fde4a2ef84891e747c6415321b32c06]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/11) in force at 31.1.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/a) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/3))
+[^c-7fde4a2ef84891e747c6415321b32c06]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/11) in force at 31.1.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/a) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/3))
 
-[^key-9652821e25b03d4b8a7ba0f7e0863670]: Commencement: Sch. 1 para. 12 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-9652821e25b03d4b8a7ba0f7e0863670]: Commencement: Sch. 1 para. 12 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-97e9bc4e9e94f7509764233627bed2a1]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/12) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(vi)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/vi)
+[^c-97e9bc4e9e94f7509764233627bed2a1]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/12) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(vi)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/vi)
 
-[^key-213ebc1a92b64bb4d114eaf35a30671c]: Commencement: Sch. 1 para. 13 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-213ebc1a92b64bb4d114eaf35a30671c]: Commencement: Sch. 1 para. 13 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-2bb03da6d991bb7d65b935dbbe4f9344]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/13) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(vi)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/vi) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-2bb03da6d991bb7d65b935dbbe4f9344]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/13) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(vi)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/vi) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
 
-[^key-eeaa371740950ac89de6cad1f353e609]: Commencement: Sch. 1 para. 14 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-eeaa371740950ac89de6cad1f353e609]: Commencement: Sch. 1 para. 14 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-46e7527a36ef6d0d2fa4b45f1d575c04]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/14) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(vi)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/vi) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-46e7527a36ef6d0d2fa4b45f1d575c04]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/14) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(vi)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/vi) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
 
-[^key-ad065afc22ccca1f138323e51b003536]: Commencement: Sch. 1 para. 15 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-ad065afc22ccca1f138323e51b003536]: Commencement: Sch. 1 para. 15 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-c6ade5c67a245b96e48ded581f1f4e9f]: Commencement: [Sch. 1 para. 15(1)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/15/1) in force at 27.8.2022 for specified purposes by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(d)(viii)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/d/viii)
+[^c-c6ade5c67a245b96e48ded581f1f4e9f]: Commencement: [Sch. 1 para. 15(1)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/15/1) in force at 27.8.2022 for specified purposes by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(d)(viii)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/d/viii)
 
-[^key-1f4494a241f211e38ba3af6ac372de69]: Commencement: [Sch. 1 para. 15(1)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/15/1)[(3)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/15/3) in force at 16.1.2023 in so far as not already in force by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(vii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/vii) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-1f4494a241f211e38ba3af6ac372de69]: Commencement: [Sch. 1 para. 15(1)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/15/1)[(3)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/15/3) in force at 16.1.2023 in so far as not already in force by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(vii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/vii) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
 
-[^key-cc7b4f0c0be46a922cd1bad755d326d5]: Commencement: [Sch. 1 para. 15(2)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/15/2) in force at 31.1.2024 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/a) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/3))
+[^c-cc7b4f0c0be46a922cd1bad755d326d5]: Commencement: [Sch. 1 para. 15(2)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/15/2) in force at 31.1.2024 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/a) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/3))
 
-[^key-b50617201eed9afe54e46ec028c59f94]: Commencement: [Sch. 1 para. 15(3)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/15/3) in force at 27.8.2022 for specified purposes by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(d)(viii)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/d/viii)
+[^c-b50617201eed9afe54e46ec028c59f94]: Commencement: [Sch. 1 para. 15(3)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/15/3) in force at 27.8.2022 for specified purposes by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(d)(viii)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/d/viii)
 
-[^key-d176b42d0deef5c3d31af045d4128688]: Commencement: [Sch. 1 para. 15(4)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/15/4) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(vii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/vii) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-d176b42d0deef5c3d31af045d4128688]: Commencement: [Sch. 1 para. 15(4)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/15/4) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(vii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/vii) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
 
-[^key-ed8490449315b956dd668f1940e64f3d]: Commencement: Sch. 1 para. 16 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-ed8490449315b956dd668f1940e64f3d]: Commencement: Sch. 1 para. 16 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-2f4ed91205ac3021bc3f7a255e67a065]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/16) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(viii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/viii) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-2f4ed91205ac3021bc3f7a255e67a065]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/16) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(viii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/viii) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
 
-[^key-6084fc8e59810325b392e07ae87f4b33]: Commencement: Sch. 1 para. 17 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-6084fc8e59810325b392e07ae87f4b33]: Commencement: Sch. 1 para. 17 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-967c46dcff624b42b05ef3194eab577a]: Commencement: [Sch. 1 para. 17(1)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/17/1) in force at 27.8.2022 for specified purposes by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(d)(ix)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/d/ix)
+[^c-967c46dcff624b42b05ef3194eab577a]: Commencement: [Sch. 1 para. 17(1)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/17/1) in force at 27.8.2022 for specified purposes by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(d)(ix)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/d/ix)
 
-[^key-057dad84668c952e8d7848183295bafe]: Commencement: [Sch. 1 para. 17(1)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/17/1) in force at 16.1.2023 for specified purposes by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(ix)(aa)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/ix/aa) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-057dad84668c952e8d7848183295bafe]: Commencement: [Sch. 1 para. 17(1)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/17/1) in force at 16.1.2023 for specified purposes by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(ix)(aa)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/ix/aa) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
 
-[^key-a2e4da952ce3a5f3a67675de5549bd66]: Commencement: [Sch. 1 para. 17(1)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/17/1)[(7)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/17/7) in force at 31.1.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/a) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/3))
+[^c-a2e4da952ce3a5f3a67675de5549bd66]: Commencement: [Sch. 1 para. 17(1)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/17/1)[(7)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/17/7) in force at 31.1.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/a) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/3))
 
-[^key-c139c30ca5efb53062b50fc625b66ba4]: Commencement: [Sch. 1 para. 17(2)-(6)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/17/2) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(ix)(bb)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/ix/bb) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-c139c30ca5efb53062b50fc625b66ba4]: Commencement: [Sch. 1 para. 17(2)-(6)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/17/2) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(ix)(bb)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/ix/bb) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
 
-[^key-a8d045e757e746a069ba0f38eb0b95be]: Commencement: [Sch. 1 para. 17(7)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/17/7) in force at 16.1.2023 for specified purposes by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(ix)(cc)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/ix/cc) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-a8d045e757e746a069ba0f38eb0b95be]: Commencement: [Sch. 1 para. 17(7)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/17/7) in force at 16.1.2023 for specified purposes by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(ix)(cc)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/ix/cc) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
 
-[^key-575afe7050745fd2c604e6a389429278]: Commencement: [Sch. 1 para. 17(8)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/17/8) in force at 27.8.2022 by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(d)(ix)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/d/ix)
+[^c-575afe7050745fd2c604e6a389429278]: Commencement: [Sch. 1 para. 17(8)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/17/8) in force at 27.8.2022 by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(d)(ix)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/d/ix)
 
-[^key-c816fe73d1a007435937d9af46b670a6]: Commencement: [Sch. 1 para. 17(9)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/17/9)[(10)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/17/10) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(ix)(dd)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/ix/dd) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-c816fe73d1a007435937d9af46b670a6]: Commencement: [Sch. 1 para. 17(9)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/17/9)[(10)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/17/10) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(ix)(dd)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/ix/dd) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
 
-[^key-71421dcd4c19b7f600f1cb2b1f05243d]: Commencement: Sch. 1 para. 18 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-71421dcd4c19b7f600f1cb2b1f05243d]: Commencement: Sch. 1 para. 18 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-afca7a096e63595e54f57b576ae37869]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/18) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(x)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/x) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-afca7a096e63595e54f57b576ae37869]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/18) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(x)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/x) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
 
-[^key-f242888e50d856efd8ca99b3ee8559c1]: Commencement: Sch. 1 para. 19 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-f242888e50d856efd8ca99b3ee8559c1]: Commencement: Sch. 1 para. 19 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-cf7b48233fd2cf470eb68688db8fa0a9]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/19) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(x)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/x) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-cf7b48233fd2cf470eb68688db8fa0a9]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/19) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(x)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/x) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
 
-[^key-645cd53a08bf40ea7eeaa41fa853a75a]: Commencement: Sch. 1 para. 20 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-645cd53a08bf40ea7eeaa41fa853a75a]: Commencement: Sch. 1 para. 20 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-98760b1f16a3ffe2c8a4c45a15161199]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/20) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(x)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/x) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-98760b1f16a3ffe2c8a4c45a15161199]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/20) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(x)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/x) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
 
-[^key-ee9ea1bdf444bb7121d8be95b8beeeac]: Commencement: Sch. 1 para. 21 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-ee9ea1bdf444bb7121d8be95b8beeeac]: Commencement: Sch. 1 para. 21 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-663c9e09c75478517b190a4dfd678a64]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/21) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(x)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/x) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-663c9e09c75478517b190a4dfd678a64]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/21) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(x)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/x) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
 
-[^key-06b91cb0bddfe65b2d8b7c65d423ac10]: Commencement: Sch. 1 para. 22 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-06b91cb0bddfe65b2d8b7c65d423ac10]: Commencement: Sch. 1 para. 22 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-f10a6d665d385279477a1a99e680f44c]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/22) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(x)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/x) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-f10a6d665d385279477a1a99e680f44c]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/22) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(x)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/x) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
 
-[^key-fd9e5dec38d5ad625778563f5ce31022]: Commencement: Sch. 1 para. 23 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-fd9e5dec38d5ad625778563f5ce31022]: Commencement: Sch. 1 para. 23 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-87407b5de7cb95f97c546e4190c0c479]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/23) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(x)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/x) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-87407b5de7cb95f97c546e4190c0c479]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/23) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(x)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/x) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
 
-[^key-a621b7fae30b5e5c79d1f5c164b05ea5]: Commencement: Sch. 1 para. 24 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-a621b7fae30b5e5c79d1f5c164b05ea5]: Commencement: Sch. 1 para. 24 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-075d282d66719f0c99c046667e9067e5]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/24) in force at 27.8.2022 for specified purposes by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(d)(x)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/d/x)
+[^c-075d282d66719f0c99c046667e9067e5]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/24) in force at 27.8.2022 for specified purposes by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(d)(x)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/d/x)
 
-[^key-36be3c4d8c937ca46043959b4639458c]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/24) in force at 16.1.2023 in so far as not already in force by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xi)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xi)
+[^c-36be3c4d8c937ca46043959b4639458c]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/24) in force at 16.1.2023 in so far as not already in force by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xi)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xi)
 
-[^key-ae80b5f31b2d872c157b083afa433e64]: Commencement: Sch. 1 para. 25 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-ae80b5f31b2d872c157b083afa433e64]: Commencement: Sch. 1 para. 25 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-8c094d91281d71298df489a2a9849a0a]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/25) in force at 16.1.2023 for specified purposes by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xii) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-8c094d91281d71298df489a2a9849a0a]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/25) in force at 16.1.2023 for specified purposes by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xii) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
 
-[^key-6d5f1845db2d5701261a1a3f6223a6db]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/25) in force at 31.1.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/a) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/3))
+[^c-6d5f1845db2d5701261a1a3f6223a6db]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/25) in force at 31.1.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/a) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/3))
 
-[^key-748236c896c07157e3bf880d2775c279]: Commencement: Sch. 1 para. 26 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-748236c896c07157e3bf880d2775c279]: Commencement: Sch. 1 para. 26 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-a3471ace87130e4034e2e78929b74a13]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/26) in force at 31.1.2024 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/a) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/3))
+[^c-a3471ace87130e4034e2e78929b74a13]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/26) in force at 31.1.2024 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/a) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/3))
 
-[^key-c9dc60b2268a40955de8e0cf39d2f7ba]: Commencement: Sch. 1 para. 27 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-c9dc60b2268a40955de8e0cf39d2f7ba]: Commencement: Sch. 1 para. 27 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-b23f6d1203e1a99950ad72654e7618de]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/27) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xiii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xiii) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-b23f6d1203e1a99950ad72654e7618de]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/27) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xiii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xiii) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
 
-[^key-5963d2ed360c5dfb94f332ec7aaa5a4c]: Commencement: Sch. 1 para. 28 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-5963d2ed360c5dfb94f332ec7aaa5a4c]: Commencement: Sch. 1 para. 28 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-f96d01879f3d34cf996ed2e6e784b51f]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/28) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xiii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xiii) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-f96d01879f3d34cf996ed2e6e784b51f]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/28) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xiii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xiii) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
 
-[^key-377e9834a7ab102e53c65174f4e9a957]: Commencement: Sch. 1 para. 29 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-377e9834a7ab102e53c65174f4e9a957]: Commencement: Sch. 1 para. 29 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-76b087adc9fb86b539beeb435b38c940]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/29) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xiii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xiii) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-76b087adc9fb86b539beeb435b38c940]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/29) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xiii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xiii) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
 
-[^key-70456bdda88396677eabc8a955c1c17f]: Commencement: Sch. 1 para. 30 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-70456bdda88396677eabc8a955c1c17f]: Commencement: Sch. 1 para. 30 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-29a1af1e099ff8494bedfb8d147f3ba7]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/30) in force at 27.8.2022 by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(d)(xi)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/d/xi)
+[^c-29a1af1e099ff8494bedfb8d147f3ba7]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/30) in force at 27.8.2022 by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(d)(xi)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/d/xi)
 
-[^key-2be4974fec4ca2dfbdcb7af9c73e5a9d]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/30) in force at 16.1.2023 in so far as not already in force by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xiii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xiii) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-2be4974fec4ca2dfbdcb7af9c73e5a9d]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/30) in force at 16.1.2023 in so far as not already in force by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xiii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xiii) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
 
-[^key-c2e874690869e7585baf5870a5267fd0]: Commencement: Sch. 1 para. 31 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-c2e874690869e7585baf5870a5267fd0]: Commencement: Sch. 1 para. 31 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-43064d7ca188ab61c57b3c33adc1e669]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/31) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xiii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xiii) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-43064d7ca188ab61c57b3c33adc1e669]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/31) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xiii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xiii) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
 
-[^key-5f603015423450201bc22ba7a748517e]: Commencement: Sch. 1 para. 32 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-5f603015423450201bc22ba7a748517e]: Commencement: Sch. 1 para. 32 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-fe169e21eec5ec4875ed19d04993ac81]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/32) in force at 27.8.2022 for specified purposes by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(d)(xi)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/d/xi)
+[^c-fe169e21eec5ec4875ed19d04993ac81]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/32) in force at 27.8.2022 for specified purposes by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(d)(xi)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/d/xi)
 
-[^key-16e1a61b0264f5835b19a0092d2944e0]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/32) in force at 16.1.2023 in so far as not already in force by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xiii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xiii) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-16e1a61b0264f5835b19a0092d2944e0]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/32) in force at 16.1.2023 in so far as not already in force by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xiii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xiii) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
 
-[^key-3c9e1951364f91204f360be9eea20e8d]: Commencement: Sch. 1 para. 33 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-3c9e1951364f91204f360be9eea20e8d]: Commencement: Sch. 1 para. 33 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-5c841bc8061d595fec048d8026469a8f]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/33) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xiv)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xiv) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-5c841bc8061d595fec048d8026469a8f]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/33) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xiv)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xiv) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
 
-[^key-efc3b72394f55fd3cb25ca0cd8921110]: Commencement: Sch. 1 para. 34 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-efc3b72394f55fd3cb25ca0cd8921110]: Commencement: Sch. 1 para. 34 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-e9c0910e3fe7242f310c5549b8cc97f7]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/34) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xv)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xv) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-e9c0910e3fe7242f310c5549b8cc97f7]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/34) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xv)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xv) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
 
-[^key-1b8cb20b8093f4d9e43cb4d802874bf4]: Commencement: Sch. 1 para. 35 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-1b8cb20b8093f4d9e43cb4d802874bf4]: Commencement: Sch. 1 para. 35 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-bbd60ce827033539692a871e66b75ee8]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/35) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xv)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xv) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-bbd60ce827033539692a871e66b75ee8]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/35) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xv)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xv) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
 
-[^key-57eadb403563e40b23f608c00163acca]: Commencement: Sch. 1 para. 36 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-57eadb403563e40b23f608c00163acca]: Commencement: Sch. 1 para. 36 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-bb47fb3ae78ede2d7d55fa48bbf7780f]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/36) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xv)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xv) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-bb47fb3ae78ede2d7d55fa48bbf7780f]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/36) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xv)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xv) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
 
-[^key-9e8ea6970abef5d0433b304864568339]: Commencement: Sch. 1 para. 37 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-9e8ea6970abef5d0433b304864568339]: Commencement: Sch. 1 para. 37 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-cce2f80beccbf2cc00ac4d6815e65d7e]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/37) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xv)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xv) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-cce2f80beccbf2cc00ac4d6815e65d7e]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/37) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xv)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xv) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
 
-[^key-d316ed2e71f89aead58202d4a9e4e202]: Commencement: Sch. 1 para. 38 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-d316ed2e71f89aead58202d4a9e4e202]: Commencement: Sch. 1 para. 38 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-7675e9768e3db6c8fa80e9ef758ea1f5]: Commencement: [Sch. 1 para. 38](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/38) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xvi)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xvi)
+[^c-7675e9768e3db6c8fa80e9ef758ea1f5]: Commencement: [Sch. 1 para. 38](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/38) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xvi)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xvi)
 
-[^key-94053021857cdd11a7bdbc3b9cd720f8]: Commencement: Sch. 1 para. 39 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-94053021857cdd11a7bdbc3b9cd720f8]: Commencement: Sch. 1 para. 39 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-9b062caf1a4295da789b3297f289d854]: Commencement: [Sch. 1 para. 39](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/39) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xvi)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xvi)
+[^c-9b062caf1a4295da789b3297f289d854]: Commencement: [Sch. 1 para. 39](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/39) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xvi)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xvi)
 
-[^key-68bd374c69e72b85e701eca2ee28256e]: Commencement: Sch. 1 para. 40 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-68bd374c69e72b85e701eca2ee28256e]: Commencement: Sch. 1 para. 40 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-ea1ba8b6ce93a1e4626cf42bb5a0c8ad]: Commencement: [Sch. 1 para. 40](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/40) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xvi)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xvi)
+[^c-ea1ba8b6ce93a1e4626cf42bb5a0c8ad]: Commencement: [Sch. 1 para. 40](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/40) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xvi)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xvi)

@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 318A. Childcare: limited exemption for other care[^key-49e0eb89ea9807067799e64534871806]
+## 318A. Childcare: limited exemption for other care[^c-49e0eb89ea9807067799e64534871806]
 
 *Extent: E+W+S+N.I.*
 
-(1) If conditions A to D[^key-26b26dff691ab58f140056223b1ab866] are met in relation to the provision for an eligible[^key-2a6eb390f65dea0b6a02e7dde969f75b] employee of care for a child—[^key-79452510de1eb11719531c9c4cf62319]
+(1) If conditions A to D[^c-26b26dff691ab58f140056223b1ab866] are met in relation to the provision for an eligible[^c-2a6eb390f65dea0b6a02e7dde969f75b] employee of care for a child—[^c-79452510de1eb11719531c9c4cf62319]
 
 - (a) no liability to income tax arises by virtue of section 62 (general definition of earnings), and
-- (b) liability to income tax by virtue of Chapter 10 of Part 3 (taxable benefits: residual liability to charge) arises only in respect of so much of the amount treated as earnings in respect of the benefit by virtue of section 203(1) or 203A(1) (as the case may be)[^key-7870e6d9cfbc0bd682efa025b715bbff] as exceeds the exempt amount.
+- (b) liability to income tax by virtue of Chapter 10 of Part 3 (taxable benefits: residual liability to charge) arises only in respect of so much of the amount treated as earnings in respect of the benefit by virtue of section 203(1) or 203A(1) (as the case may be)[^c-7870e6d9cfbc0bd682efa025b715bbff] as exceeds the exempt amount.
 
-For the meaning of “eligible employee”, see section 318AZA, and for[^key-5e7efd4aeace2e4e7f5811f17374a3d7] the meaning of “care” and “child”, see section 318B.
+For the meaning of “eligible employee”, see section 318AZA, and for[^c-5e7efd4aeace2e4e7f5811f17374a3d7] the meaning of “care” and “child”, see section 318B.
 
 (2) If those conditions are met only as respects part of the provision, subsection (1) applies in respect of that part.
 
@@ -42,10 +42,10 @@ For the meaning of “qualifying child care”, see section 318C.
 
 (5) Condition C is that the care is provided under a scheme that is open—
 
-- (a) to the employer’s eligible[^key-5aeb7140616aee6471bb0d41f8a67c94] employees generally, or
+- (a) to the employer’s eligible[^c-5aeb7140616aee6471bb0d41f8a67c94] employees generally, or
 - (b) generally to those at a particular location.
 
-(5A)[^key-6b968deb92d97e998882fc2c6cafc37e] Where the scheme under which the care is provided involves—
+(5A)[^c-6b968deb92d97e998882fc2c6cafc37e] Where the scheme under which the care is provided involves—
 
 - (a) relevant salary sacrifice arrangements, or
 - (b) relevant flexible remuneration arrangements,
@@ -58,13 +58,13 @@ Condition C is not prevented from being met by reason only that the scheme is no
 - “**relevant flexible remuneration arrangements**” means arrangements (whenever made) under which the employees for whom the care is provided agree with the employer that they are to be provided with the care rather than receive some other description of employment income;
 - “**relevant low-paid employees**” means any of the employer's employees who are remunerated by the employer at a rate such that, if the relevant salary sacrifice arrangements or relevant flexible remuneration arrangements applied to them, the rate at which they would then be so remunerated would be likely to be lower than the national minimum wage.
 
-(5C)[^key-00e78c680c2a79e4df959f80ec1490b3] Condition D is that the employer has, at the required time, made an estimate of the employee's relevant earnings amount for the tax year in respect of which the care is provided (see section 318AA).
+(5C)[^c-00e78c680c2a79e4df959f80ec1490b3] Condition D is that the employer has, at the required time, made an estimate of the employee's relevant earnings amount for the tax year in respect of which the care is provided (see section 318AA).
 
-(6) For the purposes of this section the “exempt amount”, in any tax year, is the appropriate amount[^key-b4f59200eb818e8d493f6d38360affc1] for each qualifying week in that year.
+(6) For the purposes of this section the “exempt amount”, in any tax year, is the appropriate amount[^c-b4f59200eb818e8d493f6d38360affc1] for each qualifying week in that year.
 
-(6A)[^key-d136492f8be6113a71901b6057d85ad7] In subsection (6) “the appropriate amount”, in the case of an employee, means—
+(6A)[^c-d136492f8be6113a71901b6057d85ad7] In subsection (6) “the appropriate amount”, in the case of an employee, means—
 
-- (a) if the relevant earnings amount in the case of the employee for the tax year, as estimated in accordance with subsection (5C), exceeds the higher rate limit for the tax year, £25[^key-9fb96dc3253efd439a541b8fc64915be] ,
+- (a) if the relevant earnings amount in the case of the employee for the tax year, as estimated in accordance with subsection (5C), exceeds the higher rate limit for the tax year, £25[^c-9fb96dc3253efd439a541b8fc64915be] ,
 - (b) if the relevant earnings amount in the case of the employee for the tax year, as so estimated, exceeds the basic rate limit for the tax year but does not exceed the higher rate limit for the tax year, £28, and
 - (c) otherwise, £55.
 
@@ -80,26 +80,26 @@ But it does not matter that another person may also be entitled to an exempt amo
 
 ## Annotations
 
-[^key-49e0eb89ea9807067799e64534871806]: Textual amendment: Ss. 318-318D substituted for s. 318 (with effect in accordance with s. 78(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2004/12/schedule/13/paragraph/1)
+[^c-49e0eb89ea9807067799e64534871806]: Textual amendment: Ss. 318-318D substituted for s. 318 (with effect in accordance with s. 78(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2004/12/schedule/13/paragraph/1)
 
-[^key-26b26dff691ab58f140056223b1ab866]: Textual amendment: Word in s. 318A(1) substituted (with effect in accordance with Sch. 8 paras. 7-10 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 8 para. 4(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/8/paragraph/4/2)
+[^c-26b26dff691ab58f140056223b1ab866]: Textual amendment: Word in s. 318A(1) substituted (with effect in accordance with Sch. 8 paras. 7-10 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 8 para. 4(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/8/paragraph/4/2)
 
-[^key-2a6eb390f65dea0b6a02e7dde969f75b]: Textual amendment: Word in s. 318A(1) inserted (21.4.2017) by [Childcare Payments Act 2014 (c. 28)](https://www.legislation.gov.uk/ukpga/2014/28), [ss. 64(2)(a)](https://www.legislation.gov.uk/ukpga/2014/28/section/64/2/a), [75(2)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/2); [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/f) (with [reg. 8](https://www.legislation.gov.uk/uksi/2017/578/regulation/8))
+[^c-2a6eb390f65dea0b6a02e7dde969f75b]: Textual amendment: Word in s. 318A(1) inserted (21.4.2017) by [Childcare Payments Act 2014 (c. 28)](https://www.legislation.gov.uk/ukpga/2014/28), [ss. 64(2)(a)](https://www.legislation.gov.uk/ukpga/2014/28/section/64/2/a), [75(2)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/2); [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/f) (with [reg. 8](https://www.legislation.gov.uk/uksi/2017/578/regulation/8))
 
-[^key-79452510de1eb11719531c9c4cf62319]: Textual amendment: Words in s. 318A(1) substituted (with effect in accordance with s. 16(7) of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [s. 16(6)](https://www.legislation.gov.uk/ukpga/2005/7/section/16/6)
+[^c-79452510de1eb11719531c9c4cf62319]: Textual amendment: Words in s. 318A(1) substituted (with effect in accordance with s. 16(7) of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [s. 16(6)](https://www.legislation.gov.uk/ukpga/2005/7/section/16/6)
 
-[^key-7870e6d9cfbc0bd682efa025b715bbff]: Textual amendment: Words in [s. 318A(1)(b)](https://www.legislation.gov.uk/ukpga/2003/1/section/318A/1/b) substituted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 55](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/55)
+[^c-7870e6d9cfbc0bd682efa025b715bbff]: Textual amendment: Words in [s. 318A(1)(b)](https://www.legislation.gov.uk/ukpga/2003/1/section/318A/1/b) substituted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 55](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/55)
 
-[^key-5e7efd4aeace2e4e7f5811f17374a3d7]: Textual amendment: Words in s. 318A(1) inserted (21.4.2017) by [Childcare Payments Act 2014 (c. 28)](https://www.legislation.gov.uk/ukpga/2014/28), [ss. 64(2)(b)](https://www.legislation.gov.uk/ukpga/2014/28/section/64/2/b), [75(2)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/2); [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/f) (with [reg. 8](https://www.legislation.gov.uk/uksi/2017/578/regulation/8))
+[^c-5e7efd4aeace2e4e7f5811f17374a3d7]: Textual amendment: Words in s. 318A(1) inserted (21.4.2017) by [Childcare Payments Act 2014 (c. 28)](https://www.legislation.gov.uk/ukpga/2014/28), [ss. 64(2)(b)](https://www.legislation.gov.uk/ukpga/2014/28/section/64/2/b), [75(2)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/2); [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/f) (with [reg. 8](https://www.legislation.gov.uk/uksi/2017/578/regulation/8))
 
-[^key-5aeb7140616aee6471bb0d41f8a67c94]: Textual amendment: Word in s. 318A(5)(a) inserted (21.4.2017) by [Childcare Payments Act 2014 (c. 28)](https://www.legislation.gov.uk/ukpga/2014/28), [ss. 64(3)](https://www.legislation.gov.uk/ukpga/2014/28/section/64/3), [75(2)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/2); [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/f) (with [reg. 8](https://www.legislation.gov.uk/uksi/2017/578/regulation/8))
+[^c-5aeb7140616aee6471bb0d41f8a67c94]: Textual amendment: Word in s. 318A(5)(a) inserted (21.4.2017) by [Childcare Payments Act 2014 (c. 28)](https://www.legislation.gov.uk/ukpga/2014/28), [ss. 64(3)](https://www.legislation.gov.uk/ukpga/2014/28/section/64/3), [75(2)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/2); [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/f) (with [reg. 8](https://www.legislation.gov.uk/uksi/2017/578/regulation/8))
 
-[^key-6b968deb92d97e998882fc2c6cafc37e]: Textual amendment: S. 318A(5A)(5B) inserted (with effect in accordance with s. 36(3) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 36(2)](https://www.legislation.gov.uk/ukpga/2011/11/section/36/2)
+[^c-6b968deb92d97e998882fc2c6cafc37e]: Textual amendment: S. 318A(5A)(5B) inserted (with effect in accordance with s. 36(3) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 36(2)](https://www.legislation.gov.uk/ukpga/2011/11/section/36/2)
 
-[^key-00e78c680c2a79e4df959f80ec1490b3]: Textual amendment: S. 318A(5C) inserted (with effect in accordance with Sch. 8 paras. 7-10 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 8 para. 4(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/8/paragraph/4/3)
+[^c-00e78c680c2a79e4df959f80ec1490b3]: Textual amendment: S. 318A(5C) inserted (with effect in accordance with Sch. 8 paras. 7-10 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 8 para. 4(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/8/paragraph/4/3)
 
-[^key-b4f59200eb818e8d493f6d38360affc1]: Textual amendment: Words in s. 318A(6) substituted (with effect in accordance with Sch. 8 paras. 7-10 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 8 para. 4(4)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/8/paragraph/4/4)
+[^c-b4f59200eb818e8d493f6d38360affc1]: Textual amendment: Words in s. 318A(6) substituted (with effect in accordance with Sch. 8 paras. 7-10 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 8 para. 4(4)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/8/paragraph/4/4)
 
-[^key-d136492f8be6113a71901b6057d85ad7]: Textual amendment: S. 318A(6A) inserted (with effect in accordance with Sch. 8 paras. 7-10 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 8 para. 4(5)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/8/paragraph/4/5)
+[^c-d136492f8be6113a71901b6057d85ad7]: Textual amendment: S. 318A(6A) inserted (with effect in accordance with Sch. 8 paras. 7-10 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 8 para. 4(5)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/8/paragraph/4/5)
 
-[^key-9fb96dc3253efd439a541b8fc64915be]: Textual amendment: Word in s. 318A(6A)(a) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Income Tax (Exempt Amount for Childcare Vouchers and for Employer Contracted Childcare) Order 2013 (S.I. 2013/513)](https://www.legislation.gov.uk/uksi/2013/513), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/513/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2013/513/article/2/3)
+[^c-9fb96dc3253efd439a541b8fc64915be]: Textual amendment: Word in s. 318A(6A)(a) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Income Tax (Exempt Amount for Childcare Vouchers and for Employer Contracted Childcare) Order 2013 (S.I. 2013/513)](https://www.legislation.gov.uk/uksi/2013/513), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/513/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2013/513/article/2/3)

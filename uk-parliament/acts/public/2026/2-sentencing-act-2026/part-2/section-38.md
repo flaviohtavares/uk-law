@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Termination of community order[^key-d4e6871f340351aee39ac8f0a49c6a83][^key-f24b4d455a678a0d9ed314efbd90c7da]
+## 38. Termination of community order[^c-d4e6871f340351aee39ac8f0a49c6a83][^c-f24b4d455a678a0d9ed314efbd90c7da]
 
 *Extent: E+W*
 
@@ -75,6 +75,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d4e6871f340351aee39ac8f0a49c6a83]: Commencement: S. 38 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-d4e6871f340351aee39ac8f0a49c6a83]: Commencement: S. 38 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
 
-[^key-f24b4d455a678a0d9ed314efbd90c7da]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2026/2/section/38) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/d)
+[^c-f24b4d455a678a0d9ed314efbd90c7da]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2026/2/section/38) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/d)

@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-1b4202a6daa75e92ae3cde8b5b01bb63] The Banking Act 2009 is amended as follows.
+(1)[^c-1b4202a6daa75e92ae3cde8b5b01bb63] The Banking Act 2009 is amended as follows.
 
-(2)[^key-1b4202a6daa75e92ae3cde8b5b01bb63] In section 3 (interpretation: other expressions), after “this Part—” insert—
+(2)[^c-1b4202a6daa75e92ae3cde8b5b01bb63] In section 3 (interpretation: other expressions), after “this Part—” insert—
 
 > “**client assets**” means assets which an institution has undertaken to hold for a client (whether or not on trust, and whether or not the undertaking has been complied with),
 
@@ -43,14 +43,14 @@ summary: ''
   >
   > - (d) the protection of any client assets that may be affected.
 
-(5)[^key-1b4202a6daa75e92ae3cde8b5b01bb63] In section 47 (restriction of partial transfers), for subsection (3) substitute—
+(5)[^c-1b4202a6daa75e92ae3cde8b5b01bb63] In section 47 (restriction of partial transfers), for subsection (3) substitute—
 
 > (3) Provision under subsection (2) may, in particular, refer to—
 >
 > - (a) particular classes of deposit;
 > - (b) particular classes of client assets.
 
-(6)[^key-1b4202a6daa75e92ae3cde8b5b01bb63] In the Table in section 261 (index of defined terms), after the entry relating to “central counterparty clearing services”, insert—
+(6)[^c-1b4202a6daa75e92ae3cde8b5b01bb63] In the Table in section 261 (index of defined terms), after the entry relating to “central counterparty clearing services”, insert—
 
 > |  |  |
 > | --- | --- |
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b4202a6daa75e92ae3cde8b5b01bb63]: Commencement: [S. 96(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/96/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/21/section/96/2)[(5)](https://www.legislation.gov.uk/ukpga/2012/21/section/96/5)[(6)](https://www.legislation.gov.uk/ukpga/2012/21/section/96/6) in force at 1.1.2015 by [S.I. 2014/3323](https://www.legislation.gov.uk/uksi/2014/3323), [art. 2](https://www.legislation.gov.uk/uksi/2014/3323/article/2)
+[^c-1b4202a6daa75e92ae3cde8b5b01bb63]: Commencement: [S. 96(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/96/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/21/section/96/2)[(5)](https://www.legislation.gov.uk/ukpga/2012/21/section/96/5)[(6)](https://www.legislation.gov.uk/ukpga/2012/21/section/96/6) in force at 1.1.2015 by [S.I. 2014/3323](https://www.legislation.gov.uk/uksi/2014/3323), [art. 2](https://www.legislation.gov.uk/uksi/2014/3323/article/2)

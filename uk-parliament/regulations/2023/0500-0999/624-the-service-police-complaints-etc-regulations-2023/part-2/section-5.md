@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Efficiency etc. in exercise of functions[^key-b07358cd4181f807c7a1cba0eeacc169]
+## 5. Efficiency etc. in exercise of functions[^c-b07358cd4181f807c7a1cba0eeacc169]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Commissioner must carry out the Commissioner’s functions efficiently and e
 
 ## Annotations
 
-[^key-b07358cd4181f807c7a1cba0eeacc169]: Commencement: Reg. 5 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-b07358cd4181f807c7a1cba0eeacc169]: Commencement: Reg. 5 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

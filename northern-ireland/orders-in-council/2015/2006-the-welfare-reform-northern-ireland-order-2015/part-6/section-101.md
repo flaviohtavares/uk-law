@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 101. Benefit cap[^key-af940f74ca25be690f51ea769d47c167]
+## 101. Benefit cap[^c-af940f74ca25be690f51ea769d47c167]
 
 *Extent: N.I.*
 
@@ -36,9 +36,9 @@ summary: ''
 - (f) provide that where in consequence of a change in the relevant amount, entitlement to a welfare benefit increases or decreases, that increase or decrease has effect without any further decision of the Department;
 - (g) make supplementary and consequential provision.
 
-(5)[^key-9722526f3b01f2a8a361d83ba5545490] Regulations under this Article may make provision for determining the “relevant amount” for the reference period applicable in the case of a single person or couple by reference to the annual limit applicable in the case of that single person or couple.
+(5)[^c-9722526f3b01f2a8a361d83ba5545490] Regulations under this Article may make provision for determining the “relevant amount” for the reference period applicable in the case of a single person or couple by reference to the annual limit applicable in the case of that single person or couple.
 
-(5A) For the purposes of this Article the “annual limit” is £22,020 or £14,753.[^key-4dbc3365e89185266b8eb4eff8c4a7af]
+(5A) For the purposes of this Article the “annual limit” is £22,020 or £14,753.[^c-4dbc3365e89185266b8eb4eff8c4a7af]
 
 (5B) Regulations under paragraph (5) may—
 
@@ -47,14 +47,14 @@ summary: ''
   - (ii) different prescribed descriptions of couple;
 - (b) provide for the rounding up or down of an amount produced by dividing the amount of the annual limit by the number of periods of a duration equal to the reference period in a year.
 
-(6)[^key-f924e2e91b39b9531441ab36df09eeba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-f924e2e91b39b9531441ab36df09eeba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In this Article—
 
 - “**couple**” means two persons of a prescribed description;
-- [^key-6fed845ae756f1c27a5774a7c8e4a89c]...
+- [^c-6fed845ae756f1c27a5774a7c8e4a89c]...
 - “**single person**” means a person who is not a member of a couple;
-- “**welfare benefit**” means—[^key-355fb0b918b5ecb100c04ad70fe94bf8]
+- “**welfare benefit**” means—[^c-355fb0b918b5ecb100c04ad70fe94bf8]
   - (a) bereavement allowance (see section 39B of the Contributions and Benefits Act),
   - (b) child benefit (see section 137 of the Contributions and Benefits Act),
   - (c) child tax credit (see section 1(1)(a) of the Tax Credits Act 2002),
@@ -70,20 +70,20 @@ summary: ''
   - (m) widowed mother's allowance (see section 37 of the Contributions and Benefits Act), or
   - (n) widowed parent's allowance (see section 39A of the Contributions and Benefits Act).
 
-(8)[^key-bf0bbecba2fae542fc640036a5e40be9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-bf0bbecba2fae542fc640036a5e40be9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-af940f74ca25be690f51ea769d47c167]: Commencement: Art. 101 in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(4)(a)](https://www.legislation.gov.uk/nisr/2016/46/article/3/4/a)
+[^c-af940f74ca25be690f51ea769d47c167]: Commencement: Art. 101 in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(4)(a)](https://www.legislation.gov.uk/nisr/2016/46/article/3/4/a)
 
-[^key-9722526f3b01f2a8a361d83ba5545490]: Textual amendment: [Art. 101(5)-(5B)](https://www.legislation.gov.uk/nisi/2015/2006/article/101/5) substituted for [art. 101(5)](https://www.legislation.gov.uk/nisi/2015/2006/article/101/5) (13.10.2016 for specified purposes, 7.11.2016 in so far as not already in operation) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(b)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/b), [5(2)](https://www.legislation.gov.uk/nisi/2016/999/article/5/2); [S.R. 2016/374](https://www.legislation.gov.uk/nisr/2016/374), [art. 2](https://www.legislation.gov.uk/nisr/2016/374/article/2)
+[^c-9722526f3b01f2a8a361d83ba5545490]: Textual amendment: [Art. 101(5)-(5B)](https://www.legislation.gov.uk/nisi/2015/2006/article/101/5) substituted for [art. 101(5)](https://www.legislation.gov.uk/nisi/2015/2006/article/101/5) (13.10.2016 for specified purposes, 7.11.2016 in so far as not already in operation) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(b)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/b), [5(2)](https://www.legislation.gov.uk/nisi/2016/999/article/5/2); [S.R. 2016/374](https://www.legislation.gov.uk/nisr/2016/374), [art. 2](https://www.legislation.gov.uk/nisr/2016/374/article/2)
 
-[^key-4dbc3365e89185266b8eb4eff8c4a7af]: Textual amendment: Sums in art. 101(5A) substituted (21.3.2024) by [The Benefit Cap (Annual Limit) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/58)](https://www.legislation.gov.uk/nisr/2024/58), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/58/regulation/1/2), [2](https://www.legislation.gov.uk/nisr/2024/58/regulation/2) (with [reg. 1(3)(4)](https://www.legislation.gov.uk/nisr/2024/58/regulation/1/3/4))
+[^c-4dbc3365e89185266b8eb4eff8c4a7af]: Textual amendment: Sums in art. 101(5A) substituted (21.3.2024) by [The Benefit Cap (Annual Limit) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/58)](https://www.legislation.gov.uk/nisr/2024/58), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/58/regulation/1/2), [2](https://www.legislation.gov.uk/nisr/2024/58/regulation/2) (with [reg. 1(3)(4)](https://www.legislation.gov.uk/nisr/2024/58/regulation/1/3/4))
 
-[^key-f924e2e91b39b9531441ab36df09eeba]: Textual amendment: [Art. 101(6)](https://www.legislation.gov.uk/nisi/2015/2006/article/101/6) omitted (13.10.2016 for specified purposes, 7.11.2016 in so far as not already in operation) by virtue of [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(b)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/b), [5(3)](https://www.legislation.gov.uk/nisi/2016/999/article/5/3); [S.R. 2016/374](https://www.legislation.gov.uk/nisr/2016/374), [art. 2](https://www.legislation.gov.uk/nisr/2016/374/article/2)
+[^c-f924e2e91b39b9531441ab36df09eeba]: Textual amendment: [Art. 101(6)](https://www.legislation.gov.uk/nisi/2015/2006/article/101/6) omitted (13.10.2016 for specified purposes, 7.11.2016 in so far as not already in operation) by virtue of [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(b)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/b), [5(3)](https://www.legislation.gov.uk/nisi/2016/999/article/5/3); [S.R. 2016/374](https://www.legislation.gov.uk/nisr/2016/374), [art. 2](https://www.legislation.gov.uk/nisr/2016/374/article/2)
 
-[^key-6fed845ae756f1c27a5774a7c8e4a89c]: Textual amendment: Words in [art. 101(7)](https://www.legislation.gov.uk/nisi/2015/2006/article/101/7) omitted (13.10.2016 for specified purposes, 7.11.2016 in so far as not already in operation) by virtue of [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(b)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/b), [5(3)](https://www.legislation.gov.uk/nisi/2016/999/article/5/3); [S.R. 2016/374](https://www.legislation.gov.uk/nisr/2016/374), [art. 2](https://www.legislation.gov.uk/nisr/2016/374/article/2)
+[^c-6fed845ae756f1c27a5774a7c8e4a89c]: Textual amendment: Words in [art. 101(7)](https://www.legislation.gov.uk/nisi/2015/2006/article/101/7) omitted (13.10.2016 for specified purposes, 7.11.2016 in so far as not already in operation) by virtue of [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(b)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/b), [5(3)](https://www.legislation.gov.uk/nisi/2016/999/article/5/3); [S.R. 2016/374](https://www.legislation.gov.uk/nisr/2016/374), [art. 2](https://www.legislation.gov.uk/nisr/2016/374/article/2)
 
-[^key-355fb0b918b5ecb100c04ad70fe94bf8]: Textual amendment: Words in [art. 101(7)](https://www.legislation.gov.uk/nisi/2015/2006/article/101/7) substituted (13.10.2016 for specified purposes, 7.11.2016 in so far as not already in operation) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(b)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/b), [5(4)](https://www.legislation.gov.uk/nisi/2016/999/article/5/4); [S.R. 2016/374](https://www.legislation.gov.uk/nisr/2016/374), [art. 2](https://www.legislation.gov.uk/nisr/2016/374/article/2)
+[^c-355fb0b918b5ecb100c04ad70fe94bf8]: Textual amendment: Words in [art. 101(7)](https://www.legislation.gov.uk/nisi/2015/2006/article/101/7) substituted (13.10.2016 for specified purposes, 7.11.2016 in so far as not already in operation) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(b)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/b), [5(4)](https://www.legislation.gov.uk/nisi/2016/999/article/5/4); [S.R. 2016/374](https://www.legislation.gov.uk/nisr/2016/374), [art. 2](https://www.legislation.gov.uk/nisr/2016/374/article/2)
 
-[^key-bf0bbecba2fae542fc640036a5e40be9]: Textual amendment: [Art. 101(8)](https://www.legislation.gov.uk/nisi/2015/2006/article/101/8) omitted (13.10.2016 for specified purposes, 7.11.2016 in so far as not already in operation) by virtue of [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(b)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/b), [5(5)](https://www.legislation.gov.uk/nisi/2016/999/article/5/5); [S.R. 2016/374](https://www.legislation.gov.uk/nisr/2016/374), [art. 2](https://www.legislation.gov.uk/nisr/2016/374/article/2)
+[^c-bf0bbecba2fae542fc640036a5e40be9]: Textual amendment: [Art. 101(8)](https://www.legislation.gov.uk/nisi/2015/2006/article/101/8) omitted (13.10.2016 for specified purposes, 7.11.2016 in so far as not already in operation) by virtue of [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(b)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/b), [5(5)](https://www.legislation.gov.uk/nisi/2016/999/article/5/5); [S.R. 2016/374](https://www.legislation.gov.uk/nisr/2016/374), [art. 2](https://www.legislation.gov.uk/nisr/2016/374/article/2)

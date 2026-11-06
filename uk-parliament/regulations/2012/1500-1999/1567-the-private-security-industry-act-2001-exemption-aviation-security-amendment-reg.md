@@ -32,7 +32,7 @@ summary: ''
 
 Security Industry
 
-The Private Security Industry Act 2001 (Exemption) (Aviation Security) (Amendment) Regulations 2012 (revoked)[^key-0d2c43fe0c915a8ddda8586a04e1eef6]
+The Private Security Industry Act 2001 (Exemption) (Aviation Security) (Amendment) Regulations 2012 (revoked)[^c-0d2c43fe0c915a8ddda8586a04e1eef6]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 11th July 2012
 
-[^key-0d2c43fe0c915a8ddda8586a04e1eef6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0d2c43fe0c915a8ddda8586a04e1eef6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0d2c43fe0c915a8ddda8586a04e1eef6]
+## 1. Citation and commencement[^c-0d2c43fe0c915a8ddda8586a04e1eef6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Private Security Industry Act 2001 (Exemption) (Aviation Security) Regulations 2010[^key-0d2c43fe0c915a8ddda8586a04e1eef6]
+## 2. Amendments to the Private Security Industry Act 2001 (Exemption) (Aviation Security) Regulations 2010[^c-0d2c43fe0c915a8ddda8586a04e1eef6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0d2c43fe0c915a8ddda8586a04e1eef6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0d2c43fe0c915a8ddda8586a04e1eef6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0d2c43fe0c915a8ddda8586a04e1eef6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0d2c43fe0c915a8ddda8586a04e1eef6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0d2c43fe0c915a8ddda8586a04e1eef6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/1567) revoked (1.7.2025) by [The Private Security Industry Act 2001 (Exemption) (Aviation Security) (Amendment) Regulations 2025 (S.I. 2025/664)](https://www.legislation.gov.uk/uksi/2025/664), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/664/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2025/664/regulation/3)
+[^c-0d2c43fe0c915a8ddda8586a04e1eef6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/1567) revoked (1.7.2025) by [The Private Security Industry Act 2001 (Exemption) (Aviation Security) (Amendment) Regulations 2025 (S.I. 2025/664)](https://www.legislation.gov.uk/uksi/2025/664), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/664/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2025/664/regulation/3)

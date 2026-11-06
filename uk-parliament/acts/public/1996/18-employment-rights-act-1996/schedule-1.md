@@ -164,7 +164,7 @@ Section 240.
 
 ### The National Audit Act 1983 (c.44)
 
-**22.**[^key-8afbb90b767cf2fc6840f8e1cea851e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-8afbb90b767cf2fc6840f8e1cea851e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The National Heritage Act 1983 (c.47)
 
@@ -660,7 +660,7 @@ for “section 81(2) of the Employment Protection (Consolidation) Act 1978” su
 
 [^c16337571]: Textual amendment: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/1996/18/schedule/1/paragraph/19) repealed (11.9.1998) by [1998 c. 18](https://www.legislation.gov.uk/ukpga/1998/18), [ss. 54(3)](https://www.legislation.gov.uk/ukpga/1998/18/section/54/3), [55(2)](https://www.legislation.gov.uk/ukpga/1998/18/section/55/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/1998/18/schedule/5)
 
-[^key-8afbb90b767cf2fc6840f8e1cea851e5]: Textual amendment: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/1996/18/schedule/1/paragraph/22) omitted (1.4.2012) by virtue of [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 5 para. 18](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/18); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-8afbb90b767cf2fc6840f8e1cea851e5]: Textual amendment: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/1996/18/schedule/1/paragraph/22) omitted (1.4.2012) by virtue of [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 5 para. 18](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/18); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
 
 [^c20375371]: Textual amendment: [Sch. 1 para. 34](https://www.legislation.gov.uk/ukpga/1996/18/schedule/1/paragraph/34) repealed (26.5.2008) by The Consumer Protection from [Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 30(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/30/3), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/1) (with [reg. 28(2)(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2/3))
 

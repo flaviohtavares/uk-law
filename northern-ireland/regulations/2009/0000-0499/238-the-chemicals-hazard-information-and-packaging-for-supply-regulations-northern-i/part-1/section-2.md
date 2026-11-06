@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Interpretation[^key-3ba2ba8d0523eaf3d452772bb9b35342]
+## 2. Interpretation[^c-3ba2ba8d0523eaf3d452772bb9b35342]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ba2ba8d0523eaf3d452772bb9b35342]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/238/regulation/2) revoked (1.6.2018) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2013 (S.R. 2013/206)](https://www.legislation.gov.uk/nisr/2013/206), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2013/206/regulation/2/1), [24(e)](https://www.legislation.gov.uk/nisr/2013/206/regulation/24/e) (with [regs. 3](https://www.legislation.gov.uk/nisr/2013/206/regulation/3), [19](https://www.legislation.gov.uk/nisr/2013/206/regulation/19))
+[^c-3ba2ba8d0523eaf3d452772bb9b35342]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/238/regulation/2) revoked (1.6.2018) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2013 (S.R. 2013/206)](https://www.legislation.gov.uk/nisr/2013/206), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2013/206/regulation/2/1), [24(e)](https://www.legislation.gov.uk/nisr/2013/206/regulation/24/e) (with [regs. 3](https://www.legislation.gov.uk/nisr/2013/206/regulation/3), [19](https://www.legislation.gov.uk/nisr/2013/206/regulation/19))

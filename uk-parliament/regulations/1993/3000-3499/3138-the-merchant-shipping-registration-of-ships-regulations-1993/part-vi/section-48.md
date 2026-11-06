@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Refusal of registration of transfer or transmission[^key-87dde810d8ebd89295d13ba973187730]
+## 48. Refusal of registration of transfer or transmission[^c-87dde810d8ebd89295d13ba973187730]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 - (a) that the Registrar is not satisfied that the vessel in question is eligible to be registered, and
 - (b) that the ship’s registration will accordingly terminate by virtue of paragraph (1) at the end of the period referred to in that paragraph.
 
-(3)[^key-cb47e05fcae94551611f1b4bfbc8bc4f] If, on an application for transfer or transmission of a ship or shares in a ship, the Registrar is satisfied that the ship is a sanctioned ship—
+(3)[^c-cb47e05fcae94551611f1b4bfbc8bc4f] If, on an application for transfer or transmission of a ship or shares in a ship, the Registrar is satisfied that the ship is a sanctioned ship—
 
 - (a) the Registrar must serve a notice on the owner of the ship in accordance with paragraph (4), and
 - (b) the ship’s registration terminates at the end of the day on which that notice is served.
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-87dde810d8ebd89295d13ba973187730]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/1993/3138/regulation/48) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-87dde810d8ebd89295d13ba973187730]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/1993/3138/regulation/48) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
 
-[^key-cb47e05fcae94551611f1b4bfbc8bc4f]: Textual amendment: [Reg. 48(3)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/48/3)[(4)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/48/4) inserted (31.12.2020) by [The Merchant Shipping (Registration of Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/509)](https://www.legislation.gov.uk/uksi/2019/509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/509/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2019/509/regulation/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cb47e05fcae94551611f1b4bfbc8bc4f]: Textual amendment: [Reg. 48(3)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/48/3)[(4)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/48/4) inserted (31.12.2020) by [The Merchant Shipping (Registration of Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/509)](https://www.legislation.gov.uk/uksi/2019/509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/509/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2019/509/regulation/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

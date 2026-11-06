@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-1e5b3cfd84b9ae4b7fac6e32f1e9c5fd] In subsection (6) of section 66 (service and lodging of indictment etc.) of the Criminal Procedure (Scotland) Act 1995 (c. 46) (referred to in this Act as “**the 1995 Act**”)—
+(1)[^c-1e5b3cfd84b9ae4b7fac6e32f1e9c5fd] In subsection (6) of section 66 (service and lodging of indictment etc.) of the Criminal Procedure (Scotland) Act 1995 (c. 46) (referred to in this Act as “**the 1995 Act**”)—
 
 - (a) in paragraph (a)—
   - (i) after “court” insert—
@@ -41,9 +41,9 @@ summary: ''
 
   .
 
-(2)[^key-1e5b3cfd84b9ae4b7fac6e32f1e9c5fd] In subsection (6A) of that section, paragraph (b) and the word “and” immediately preceding it are repealed.
+(2)[^c-1e5b3cfd84b9ae4b7fac6e32f1e9c5fd] In subsection (6A) of that section, paragraph (b) and the word “and” immediately preceding it are repealed.
 
-(3)[^key-d56a34c1a36bcd4bd0704f3016fb3230][^key-f1e5ef959ad58d1dca62281c00dd664d] For sections 72 to 73A of the 1995 Act substitute—
+(3)[^c-d56a34c1a36bcd4bd0704f3016fb3230][^c-f1e5ef959ad58d1dca62281c00dd664d] For sections 72 to 73A of the 1995 Act substitute—
 
 > **72. Preliminary hearing: procedure up to appointment of trial diet**
 >
@@ -238,8 +238,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1e5b3cfd84b9ae4b7fac6e32f1e9c5fd]: Commencement: S. 1(1)(2) in force at 1.2.2005 by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))
+[^c-1e5b3cfd84b9ae4b7fac6e32f1e9c5fd]: Commencement: S. 1(1)(2) in force at 1.2.2005 by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))
 
-[^key-d56a34c1a36bcd4bd0704f3016fb3230]: Commencement: S. 1(3) in force at 1.2.2005 for specified purposes by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))
+[^c-d56a34c1a36bcd4bd0704f3016fb3230]: Commencement: S. 1(3) in force at 1.2.2005 for specified purposes by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))
 
-[^key-f1e5ef959ad58d1dca62281c00dd664d]: Commencement: S. 1(3) in force at 1.4.2005 for specified purposes, 1.4.2006 for specified purposes, 1.4.2007 for specified purposes, 2.7.2007 for specified purposes and 1.4.2008 for specified purposes by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(2)](https://www.legislation.gov.uk/ssi/2004/405/article/2/2), [sch. 2](https://www.legislation.gov.uk/ssi/2004/405/schedule/2) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3)) (see S.S.I. 2005/168, S.S.I. 2006/59, S.S.I. 2007/101, S.S.I. 2007/329 and S.S.I. 2008/57)
+[^c-f1e5ef959ad58d1dca62281c00dd664d]: Commencement: S. 1(3) in force at 1.4.2005 for specified purposes, 1.4.2006 for specified purposes, 1.4.2007 for specified purposes, 2.7.2007 for specified purposes and 1.4.2008 for specified purposes by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(2)](https://www.legislation.gov.uk/ssi/2004/405/article/2/2), [sch. 2](https://www.legislation.gov.uk/ssi/2004/405/schedule/2) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3)) (see S.S.I. 2005/168, S.S.I. 2006/59, S.S.I. 2007/101, S.S.I. 2007/329 and S.S.I. 2008/57)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Student loans: interest rates[^key-1d80029bf8357f872d9a37d5259b7235]
+## 76. Student loans: interest rates[^c-1d80029bf8357f872d9a37d5259b7235]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d80029bf8357f872d9a37d5259b7235]: Modification: S. 76 restricted (18.6.2012) by [The Education (Student Loans) (Repayment) (Amendment) (No. 2) Regulations 2012 (S.I. 2012/1309)](https://www.legislation.gov.uk/uksi/2012/1309), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1309/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2012/1309/regulation/15).
+[^c-1d80029bf8357f872d9a37d5259b7235]: Modification: S. 76 restricted (18.6.2012) by [The Education (Student Loans) (Repayment) (Amendment) (No. 2) Regulations 2012 (S.I. 2012/1309)](https://www.legislation.gov.uk/uksi/2012/1309), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1309/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2012/1309/regulation/15).

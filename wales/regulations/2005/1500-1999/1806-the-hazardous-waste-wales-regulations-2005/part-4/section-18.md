@@ -20,15 +20,15 @@ summary: ''
 
 *Extent: E+W*
 
-(1) For the purposes of these Regulations, hazardous waste of any description is considered to have been mixed if it has been diluted or has been[^key-94e037f59b20509e2c47b6c1cb6b0e57] mixed with—
+(1) For the purposes of these Regulations, hazardous waste of any description is considered to have been mixed if it has been diluted or has been[^c-94e037f59b20509e2c47b6c1cb6b0e57] mixed with—
 
 - (a) a different category of hazardous waste;
-- (aa)[^key-6a922e0aab1b994baa385b3c4f8be1d2] in the case of hazardous waste comprising waste oil, waste oil of different characteristics;
+- (aa)[^c-6a922e0aab1b994baa385b3c4f8be1d2] in the case of hazardous waste comprising waste oil, waste oil of different characteristics;
 - (b) a non-hazardous waste; or
 - (c) any other substance or material.
 
 ## Annotations
 
-[^key-94e037f59b20509e2c47b6c1cb6b0e57]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/wsi/2005/1806/regulation/18) inserted (29.3.2011) by [The Waste (Miscellaneous Provisions) (Wales) Regulations 2011 (S.I. 2011/971)](https://www.legislation.gov.uk/wsi/2011/971), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/971/regulation/1/2), [Sch. para. 8(a)](https://www.legislation.gov.uk/wsi/2011/971/schedule/paragraph/8/a)
+[^c-94e037f59b20509e2c47b6c1cb6b0e57]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/wsi/2005/1806/regulation/18) inserted (29.3.2011) by [The Waste (Miscellaneous Provisions) (Wales) Regulations 2011 (S.I. 2011/971)](https://www.legislation.gov.uk/wsi/2011/971), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/971/regulation/1/2), [Sch. para. 8(a)](https://www.legislation.gov.uk/wsi/2011/971/schedule/paragraph/8/a)
 
-[^key-6a922e0aab1b994baa385b3c4f8be1d2]: Textual amendment: [Reg. 18(aa)](https://www.legislation.gov.uk/wsi/2005/1806/regulation/18/aa) inserted (29.3.2011) by [The Waste (Miscellaneous Provisions) (Wales) Regulations 2011 (S.I. 2011/971)](https://www.legislation.gov.uk/wsi/2011/971), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/971/regulation/1/2), [Sch. para. 8(b)](https://www.legislation.gov.uk/wsi/2011/971/schedule/paragraph/8/b)
+[^c-6a922e0aab1b994baa385b3c4f8be1d2]: Textual amendment: [Reg. 18(aa)](https://www.legislation.gov.uk/wsi/2005/1806/regulation/18/aa) inserted (29.3.2011) by [The Waste (Miscellaneous Provisions) (Wales) Regulations 2011 (S.I. 2011/971)](https://www.legislation.gov.uk/wsi/2011/971), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/971/regulation/1/2), [Sch. para. 8(b)](https://www.legislation.gov.uk/wsi/2011/971/schedule/paragraph/8/b)

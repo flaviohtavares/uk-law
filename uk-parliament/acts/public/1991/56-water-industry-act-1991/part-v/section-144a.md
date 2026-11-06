@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144A. Right of consumer to elect for charging by reference to volume.[^c13220581][^c13220591][^key-1fd4dd056352bb69175d28be855601c1][^c13220571]
+## 144A. Right of consumer to elect for charging by reference to volume.[^c13220581][^c13220591][^c-1fd4dd056352bb69175d28be855601c1][^c13220571]
 
 *Extent: E+W*
 
@@ -76,7 +76,7 @@ revert to fixing the charges for the supply in respect of the premises without r
 
 [^c13220591]: Modification: S. 144A: certain functions transferred to the National Assembly for Wales (15.11.1999) by [S.I. 1999/2787](https://www.legislation.gov.uk/uksi/1999/2787), [art. 3](https://www.legislation.gov.uk/uksi/1999/2787/article/3)
 
-[^key-1fd4dd056352bb69175d28be855601c1]: Modification: [S. 144A](https://www.legislation.gov.uk/ukpga/1991/56/section/144A) applied (with modifications) (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 11(4)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/11/4) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
+[^c-1fd4dd056352bb69175d28be855601c1]: Modification: [S. 144A](https://www.legislation.gov.uk/ukpga/1991/56/section/144A) applied (with modifications) (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 11(4)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/11/4) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
 
 [^c13220571]: Textual amendment: S. 144A and crossheading preceding it inserted (1.4.2000) by [1999 c. 9](https://www.legislation.gov.uk/ukpga/1999/9), [s. 6](https://www.legislation.gov.uk/ukpga/1999/9/section/6); [S.I. 1999/3440](https://www.legislation.gov.uk/uksi/1999/3440), [art. 3](https://www.legislation.gov.uk/uksi/1999/3440/article/3)
 

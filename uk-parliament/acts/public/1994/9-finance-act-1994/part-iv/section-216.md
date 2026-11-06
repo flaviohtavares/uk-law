@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-ce2be85fcfd0bb19a2c93d101ef94918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-ce2be85fcfd0bb19a2c93d101ef94918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Subsections (3) to (5) of that section and, in subsection (6) of that section, the words from “and where” to the end shall cease to have effect.
 
@@ -34,7 +34,7 @@ summary: ''
 - (f) in section 386 (carry-forward where business transferred to a company), subsection (4); and
 - (g) in section 389 (supplementary provisions relating to carry-back of terminal losses), subsection (3).
 
-(4)[^key-6f401c47749c9c446d9ce87cbdff661d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-6f401c47749c9c446d9ce87cbdff661d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Subsection (3)(a) above—
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ce2be85fcfd0bb19a2c93d101ef94918]: Textual amendment: [S. 216(1)](https://www.legislation.gov.uk/ukpga/1994/9/section/216/1) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-ce2be85fcfd0bb19a2c93d101ef94918]: Textual amendment: [S. 216(1)](https://www.legislation.gov.uk/ukpga/1994/9/section/216/1) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-6f401c47749c9c446d9ce87cbdff661d]: Textual amendment: [S. 216(4)](https://www.legislation.gov.uk/ukpga/1994/9/section/216/4) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-6f401c47749c9c446d9ce87cbdff661d]: Textual amendment: [S. 216(4)](https://www.legislation.gov.uk/ukpga/1994/9/section/216/4) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))

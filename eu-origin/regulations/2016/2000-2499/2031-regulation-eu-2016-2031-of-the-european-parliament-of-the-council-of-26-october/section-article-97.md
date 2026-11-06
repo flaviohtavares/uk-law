@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 97. Repairing of wood packaging material in Great Britain[^key-a8368b85ab35ca79edbc5a321f0d2475]
+## Article 97. Repairing of wood packaging material in Great Britain[^c-a8368b85ab35ca79edbc5a321f0d2475]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,16 +26,16 @@ summary: ''
 - (b) the material and treatment used are eligible for repair;
 - (c) the mark is applied anew, as appropriate.
 
-2. The appropriate authority may by regulations[^key-e70613bc89a52eba31b9d5e8bc36e7de] set out specific arrangements concerning the material, treatment and marking referred to in paragraph 1 , taking into account relevant international standards and in particular ISPM15[^key-366a99530094f2240514246acfcc9a11]. [^key-79c704c66f3063c538b6e694ff7e4d46]...
+2. The appropriate authority may by regulations[^c-e70613bc89a52eba31b9d5e8bc36e7de] set out specific arrangements concerning the material, treatment and marking referred to in paragraph 1 , taking into account relevant international standards and in particular ISPM15[^c-366a99530094f2240514246acfcc9a11]. [^c-79c704c66f3063c538b6e694ff7e4d46]...
 
 3. Paragraphs 1 and 2 shall not apply where a professional operator permanently obliterates by any means all earlier applications of that mark from the wood packaging material.
 
 ## Annotations
 
-[^key-a8368b85ab35ca79edbc5a321f0d2475]: Textual amendment: Words in Art. 97 heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [31(37)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/31/37/a) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-a8368b85ab35ca79edbc5a321f0d2475]: Textual amendment: Words in Art. 97 heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [31(37)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/31/37/a) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
 
-[^key-e70613bc89a52eba31b9d5e8bc36e7de]: Textual amendment: Words in Art. 97(2) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [31(37)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/31/37/b/i/aa) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-e70613bc89a52eba31b9d5e8bc36e7de]: Textual amendment: Words in Art. 97(2) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [31(37)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/31/37/b/i/aa) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
 
-[^key-366a99530094f2240514246acfcc9a11]: Textual amendment: Words in Art. 97(2) inserted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [31(37)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/31/37/b/i/bb) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-366a99530094f2240514246acfcc9a11]: Textual amendment: Words in Art. 97(2) inserted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [31(37)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/31/37/b/i/bb) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
 
-[^key-79c704c66f3063c538b6e694ff7e4d46]: Textual amendment: Words in Art. 97(2) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [31(37)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/31/37/b/ii) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-79c704c66f3063c538b6e694ff7e4d46]: Textual amendment: Words in Art. 97(2) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [31(37)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/31/37/b/ii) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

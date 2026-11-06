@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Management structure[^key-f91838586fe95efe059a3b17c3706a1e]
+## 10. Management structure[^c-f91838586fe95efe059a3b17c3706a1e]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f91838586fe95efe059a3b17c3706a1e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2016/427/regulation/10) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-f91838586fe95efe059a3b17c3706a1e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2016/427/regulation/10) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

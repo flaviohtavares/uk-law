@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Functions exercisable within devolved competence[^key-4e4cdb6cbad17cbfde74392af1949f11]
+## 32. Functions exercisable within devolved competence[^c-4e4cdb6cbad17cbfde74392af1949f11]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ but did not include the 1998 Act or this Act (or any amendment made by either of
 
 ## Annotations
 
-[^key-4e4cdb6cbad17cbfde74392af1949f11]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2016/11/section/32) in force at 5.9.2016 by [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/i)
+[^c-4e4cdb6cbad17cbfde74392af1949f11]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2016/11/section/32) in force at 5.9.2016 by [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/i)

@@ -44,7 +44,7 @@ An Act of Senedd Cymru to promote the development of tourism, regulate the provi
 
 **Not yet in force.**
 
-### 1. Overview[^key-3991bbc172e7b03482aaf911e2e14b98]
+### 1. Overview[^c-3991bbc172e7b03482aaf911e2e14b98]
 
 (1) This Act forms part of a code of Welsh law relating to tourism.
 
@@ -69,7 +69,7 @@ An Act of Senedd Cymru to promote the development of tourism, regulate the provi
 
 **Not yet in force.**
 
-### 2. Tourism development functions of the Welsh Ministers[^key-a820f54ca69c042ab7ffa26d1bc31aac]
+### 2. Tourism development functions of the Welsh Ministers[^c-a820f54ca69c042ab7ffa26d1bc31aac]
 
 (1) The Welsh Ministers have the following functions in relation to promoting the development of tourism in Wales—
 
@@ -94,7 +94,7 @@ An Act of Senedd Cymru to promote the development of tourism, regulate the provi
 
 (5) See also section 3 of the Development of Tourism Act [1969 (c. 51)](https://www.legislation.gov.uk/ukpga/1969/51), which provides that the British Tourist Authority may prepare a scheme for the giving of financial assistance by the Welsh Ministers (as well as by the English Tourist Board and by VisitScotland) for the carrying out of projects to provide or improve tourist facilities or amenities in Great Britain.
 
-### 3. Code of practice on tourism[^key-63aa1026ec0a0967ba07abf85d998e20]
+### 3. Code of practice on tourism[^c-63aa1026ec0a0967ba07abf85d998e20]
 
 (1) The Welsh Ministers‍ must prepare and publish a code of practice that provides guidance about best practice in the provision of—
 
@@ -116,7 +116,7 @@ An Act of Senedd Cymru to promote the development of tourism, regulate the provi
 - (a) revise the code and must publish a revised code, or
 - (b) withdraw the code if, having consulted organisations that represent businesses that work in tourism or are engaged in activities related to tourism in Wales, they consider the code is no longer of practical utility.
 
-### 4. Amendments to enactments on tourism[^key-e2beb36ff2d34fceb763228b0daef980]
+### 4. Amendments to enactments on tourism[^c-e2beb36ff2d34fceb763228b0daef980]
 
 (1) In section 1 of the [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), before subsection (1) insert—
 
@@ -134,7 +134,7 @@ An Act of Senedd Cymru to promote the development of tourism, regulate the provi
 
 #### Regulated visitor accommodation
 
-##### 5. Meaning of regulated visitor accommodation[^key-b96554546caba6ab83b90bb65d37ad5b]
+##### 5. Meaning of regulated visitor accommodation[^c-b96554546caba6ab83b90bb65d37ad5b]
 
 (1) In this Act, “**regulated visitor accommodation**” means visitor accommodation of the following descriptions—
 
@@ -190,7 +190,7 @@ An Act of Senedd Cymru to promote the development of tourism, regulate the provi
 
 #### Fitness of visitor accommodation premises
 
-##### 6. Meaning of fitness for visitor accommodation[^key-ff9e425b4b4bb02d5424358721605d39]
+##### 6. Meaning of fitness for visitor accommodation[^c-ff9e425b4b4bb02d5424358721605d39]
 
 (1) For the purposes of this Act, premises at which regulated visitor accommodation is provided (or offered) are fit for visitor accommodation unless—
 
@@ -209,7 +209,7 @@ An Act of Senedd Cymru to promote the development of tourism, regulate the provi
 - (a) is, in relation to regulated visitor accommodation provided in part of the premises, a reference to such part of the premises in which that accommodation is provided;
 - (b) in the case of accommodation of a description given in section 5(1)(a) (regulated self-catering accommodation), includes any outdoor area, garage or other building provided for the exclusive use of a visitor during the period in which the visitor is entitled to reside in or at the accommodation.
 
-##### 7. Fitness for visitor accommodation: general standard[^key-868e2acbdacb2a63437cea6bab1badfb]
+##### 7. Fitness for visitor accommodation: general standard[^c-868e2acbdacb2a63437cea6bab1badfb]
 
 The general fitness standard is that, in so far as they are applicable in relation to the premises, the following requirements are met—
 
@@ -228,7 +228,7 @@ The general fitness standard is that, in so far as they are applicable in relati
   - (iv) in the case of self-catering accommodation, the premises have appropriate facilities for the preparation, storage and cooking of food, and
   - (v) the premises have adequate and appropriate sanitary conveniences.
 
-##### 8. Fitness for visitor accommodation: specific standards[^key-bf8f4a798d5315badf6118dbc7f9abff]
+##### 8. Fitness for visitor accommodation: specific standards[^c-bf8f4a798d5315badf6118dbc7f9abff]
 
 The specific fitness standards are those set out in the following sections—
 
@@ -238,7 +238,7 @@ The specific fitness standards are those set out in the following sections—
 - (d) section 12 (carbon monoxide risk), and
 - (e) section 13 (insurance).
 
-##### 9. Fitness for visitor accommodation: fire safety[^key-e302b5f7c44b1ef9c8c7f6ee06758046]
+##### 9. Fitness for visitor accommodation: fire safety[^c-e302b5f7c44b1ef9c8c7f6ee06758046]
 
 (1) The fire‍ safety standard, in relation to any premises at which regulated visitor accommodation is provided (or offered), is that the VAP maintains—
 
@@ -252,7 +252,7 @@ The specific fitness standards are those set out in the following sections—
   - (i) there has been a significant change in any of the matters to which it relates, or
   - (ii) the VAP is aware, or ought to be aware, that there is any other reason to update the assessment.
 
-##### 10. Fitness for visitor accommodation: electrical maintenance[^key-bedc02f06d38c6ff3d05d20ceec251a1]
+##### 10. Fitness for visitor accommodation: electrical maintenance[^c-bedc02f06d38c6ff3d05d20ceec251a1]
 
 (1) The electrical maintenance standard is that, in the case of regulated visitor accommodation in a building or in a mobile home, vessel or other vehicle, the VAP holds a valid report (an “electrical condition report”) setting out the results of an inspection and testing of each electrical service installation at the premises carried out by a qualified person and either—
 
@@ -273,7 +273,7 @@ The specific fitness standards are those set out in the following sections—
   - (i) is a qualified person, and
   - (ii) carried out the work.
 
-##### 11. Fitness for visitor accommodation: gas maintenance[^key-35bb873f6014d1767060a64c259d8aa1]
+##### 11. Fitness for visitor accommodation: gas maintenance[^c-35bb873f6014d1767060a64c259d8aa1]
 
 (1) The gas maintenance standard is that, in the case of regulated visitor accommodation in a building or in a mobile home, vessel or other vehicle, there is a gas maintenance record in relation to the following—
 
@@ -289,7 +289,7 @@ The specific fitness standards are those set out in the following sections—
   - (i) if the regulation applies to the VAP, the VAP must keep in accordance with that regulation, or
   - (ii) if the regulation does not apply to the VAP, the VAP would need to keep if that regulation applied to the VAP.
 
-##### 12. Fitness for visitor accommodation: carbon monoxide risk[^key-e663b56e40540afef17febbdbc155675]
+##### 12. Fitness for visitor accommodation: carbon monoxide risk[^c-e663b56e40540afef17febbdbc155675]
 
 (1) The carbon monoxide risk standard is that, in the case of regulated visitor accommodation in a building or in a mobile home, vessel or other vehicle, there is a functioning carbon monoxide alarm in any room of the premises that contains—
 
@@ -304,7 +304,7 @@ The specific fitness standards are those set out in the following sections—
   - (i) a hall, landing or corridor or other similar area;
   - (ii) (in relation to a mobile home, vessel or other vehicle) a cabin or other similar area.
 
-##### 13. Fitness for visitor accommodation: insurance[^key-f187f6cde4e688399b0f94ec18198885]
+##### 13. Fitness for visitor accommodation: insurance[^c-f187f6cde4e688399b0f94ec18198885]
 
 (1) The insurance standard is that a public liability insurance policy is in place in relation to liabilities to third parties arising from or in connection with the provision of regulated visitor accommodation at the premises.
 
@@ -317,7 +317,7 @@ The specific fitness standards are those set out in the following sections—
 
 #### Licences and licence conditions
 
-##### 14. Visitor accommodation licences‍[^key-ff0d75c28f3b74d655840bf6fc2ec324]
+##### 14. Visitor accommodation licences‍[^c-ff0d75c28f3b74d655840bf6fc2ec324]
 
 (1) For the purposes of this Act, a “visitor accommodation licence”—
 
@@ -330,7 +330,7 @@ The specific fitness standards are those set out in the following sections—
 
 (3) Schedule 2 makes amendments to the Visitor Accommodation (Register and Levy) Etc. (Wales) Act [2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5) in connection with this Chapter.
 
-##### 15. Licence conditions: general[^key-7d2ad3a3c881e7f8388da4eb85818bcf]
+##### 15. Licence conditions: general[^c-7d2ad3a3c881e7f8388da4eb85818bcf]
 
 (1) A visitor accommodation licence must be granted subject to—
 
@@ -366,7 +366,7 @@ The specific fitness standards are those set out in the following sections—
 
 (5) For the purposes of this Chapter, article 43 of the Regulatory Reform (Fire Safety) Order 2005 ([S.I. 2005/1541](https://www.legislation.gov.uk/uksi/2005/1541)) (suspension of terms and conditions of licence) does not apply in relation to any condition or approval requirement (see section 19) imposed in relation to a visitor accommodation licence.‍
 
-##### 16. Licence conditions: visitor accommodation provider training‍[^key-37d38649e471f1772abc010bbb20a02a]
+##### 16. Licence conditions: visitor accommodation provider training‍[^c-37d38649e471f1772abc010bbb20a02a]
 
 (1) This section makes provision about the visitor accommodation provider training that applies for the purposes of—
 
@@ -396,7 +396,7 @@ The specific fitness standards are those set out in the following sections—
 
 (5) Before making regulations under this section, the Welsh Ministers must consult any persons they consider appropriate.
 
-##### 17. Licence conditions: further conditions[^key-456573b6ae1a94495764ac6716cb0f93]
+##### 17. Licence conditions: further conditions[^c-456573b6ae1a94495764ac6716cb0f93]
 
 (1) The Welsh Ministers may in accordance with subsections (2) and (3) make regulations prescribing further conditions that are to apply to a visitor accommodation licence*.*
 
@@ -429,7 +429,7 @@ The specific fitness standards are those set out in the following sections—
 
 #### Licence applications: procedure
 
-##### 18. Licence applications: general[^key-6ccc8105d369c8b7f95ab8fef5b5ea13]
+##### 18. Licence applications: general[^c-6ccc8105d369c8b7f95ab8fef5b5ea13]
 
 (1) A VAP that intends to provide, or offer to provide, regulated visitor accommodation at premise‍s in respect of which the VAP is registered may apply to the Welsh Ministers for a visitor accommodation licence in respect of those premises.
 
@@ -447,7 +447,7 @@ The specific fitness standards are those set out in the following sections—
 - (c) whether the approval requirements are met in relation to the application;
 - (d) any other matter the Welsh Ministers consider necessary or expedient in connection with their functions under‍ Parts 3 to 5 of this Act or under regulations made under Parts 3 to 5 of this Act.‍
 
-##### 19. Licence applications: approval requirements[^key-c0ade423e3657af1aa95608148075872]
+##### 19. Licence applications: approval requirements[^c-c0ade423e3657af1aa95608148075872]
 
 (1) This section makes provision about the requirements to be met in relation to an application by a VAP for a visitor accommodation licence (“the approval requirements”) (but see also section 27 which makes further provision about approval requirements in relation to applications for provisional licences).
 
@@ -488,7 +488,7 @@ The specific fitness standards are those set out in the following sections—
 
 (8) In this section references to‍ “the premises” have the same meaning as in section 6(4).
 
-##### 20. Licence applications: determination[^key-0f1c6eb810532dc43f29529b55d41e51]
+##### 20. Licence applications: determination[^c-0f1c6eb810532dc43f29529b55d41e51]
 
 (1) This section applies where the Welsh Ministers have received an application for a visitor accommodation licence made by a VAP in accordance with section 18.
 
@@ -529,7 +529,7 @@ The specific fitness standards are those set out in the following sections—
 
 (see also section 6(4) which makes similar provision in relation to the application of fitness standards to premises at which visitor accommodation is provided).‍
 
-##### 21. Licence applications: further assessment prior to determination[^key-265ff86296427d5f3db256c6009eb2ac]
+##### 21. Licence applications: further assessment prior to determination[^c-265ff86296427d5f3db256c6009eb2ac]
 
 (1) This section applies where—
 
@@ -549,7 +549,7 @@ The specific fitness standards are those set out in the following sections—
 
 (4) In this section and in sections 30 and 31, “**authorised person**” means a person authorised in writing by the Welsh Ministers.
 
-##### 22. Visitor accommodation licence: issue of certificate and statement of information[^key-70aad00e09538e0d3e6e889e856249d3]
+##### 22. Visitor accommodation licence: issue of certificate and statement of information[^c-70aad00e09538e0d3e6e889e856249d3]
 
 (1) Where the Welsh Ministers grant a visitor accommodation licence under section 20(3)‍ they must issue to the VAP—
 
@@ -562,7 +562,7 @@ The specific fitness standards are those set out in the following sections—
 
 #### Licences: breach, remedy and revocation
 
-##### 23. Revocation[^key-295e763b91d904e62b151d7124f7f4a0]
+##### 23. Revocation[^c-295e763b91d904e62b151d7124f7f4a0]
 
 (1) Subsection (2) applies in relation to a visitor accommodation licence held by a VAP if—
 
@@ -591,7 +591,7 @@ The specific fitness standards are those set out in the following sections—
 - (a) the Welsh Ministers may inform the VAP in advance of their intention to give a revocation notice under subsection (2) if‍ a licence condition that has previously been breached is breached again;
 - (b) a revocation notice given under subsection (2) may take effect immediately due to the seriousness of the breach.
 
-##### 24. Breach of licence conditions: remedial notices‍[^key-9e60e89beadf7e672d1021df6a8c8a63]
+##### 24. Breach of licence conditions: remedial notices‍[^c-9e60e89beadf7e672d1021df6a8c8a63]
 
 (1) The Welsh Ministers must make provision by regulations about the circumstances in which the Welsh Ministers may not revoke a licence by virtue of section 23(1)(a) without first issuing a notice (a “remedial notice”) giving the VAP an opportunity to remedy the breach.
 
@@ -615,7 +615,7 @@ The specific fitness standards are those set out in the following sections—
 
 #### Licences: licence periods, renewal and amendment
 
-##### 25. Licence periods and renewal of licence[^key-e3c7aaa1a71b5192570ffa5b5d22fa0f][^key-be6196f3e755e980b408d33a6fedba15]
+##### 25. Licence periods and renewal of licence[^c-e3c7aaa1a71b5192570ffa5b5d22fa0f][^c-be6196f3e755e980b408d33a6fedba15]
 
 (1) A visitor accommodation licence expires at the end of—
 
@@ -650,7 +650,7 @@ The specific fitness standards are those set out in the following sections—
 - (a) for appeals;
 - (b) amending this Act.
 
-##### 26. Amendment of licence[^key-45727c128523cc1574007396a7671735]
+##### 26. Amendment of licence[^c-45727c128523cc1574007396a7671735]
 
 (1) The Welsh Ministers may make provision by regulations in relation to‍ amendment of a visitor accommodation licence (on a permanent or temporary basis).
 
@@ -684,7 +684,7 @@ The specific fitness standards are those set out in the following sections—
 
 #### Licences: provisional licences‍‍
 
-##### 27. Provisional licences[^key-c577e2c69c6a94d590c8a551f8e0f971]
+##### 27. Provisional licences[^c-c577e2c69c6a94d590c8a551f8e0f971]
 
 (1) This section applies where a VAP—
 
@@ -740,7 +740,7 @@ The specific fitness standards are those set out in the following sections—
 
 (see also section 6(4) which makes similar provision in relation to the application of fitness standards to premises at which visitor accommodation is provided).
 
-##### 28. Provisional licences: further provision[^key-7129f34d479245218e9f6eeadc65cc14]
+##### 28. Provisional licences: further provision[^c-7129f34d479245218e9f6eeadc65cc14]
 
 (1) A VAP to which a provisional visitor accommodation licence has been granted under section 27 may (at any time) apply for a visitor accommodation licence under section 18 (a “full licence”).
 
@@ -758,7 +758,7 @@ The specific fitness standards are those set out in the following sections—
 
 #### Appeals
 
-##### 29. Licensing appeals[^key-e219460b425f05fb4b22d6c6d003ce86]
+##### 29. Licensing appeals[^c-e219460b425f05fb4b22d6c6d003ce86]
 
 (1) A‍ person to which the Welsh Ministers give notice of a decision in subsection (2) may appeal against that decision to the tribunal.
 
@@ -782,7 +782,7 @@ The specific fitness standards are those set out in the following sections—
 
 #### Enforcement‍
 
-##### 30. Power of entry and inspection for enforcement purposes[^key-ea66944efd18c3709356af41c39fb788]
+##### 30. Power of entry and inspection for enforcement purposes[^c-ea66944efd18c3709356af41c39fb788]
 
 (1) This section applies where—
 
@@ -815,7 +815,7 @@ The specific fitness standards are those set out in the following sections—
 
 (6) An authorised person is not liable in any civil or criminal proceedings for anything done in the purported performance of the person’s functions under this section if the court is satisfied that the act was done in good faith and that there were reasonable grounds for doing it.‍
 
-##### 31. Warrant to enter and inspect premises for enforcement purposes[^key-51ba3f334c44a30c0be9964698a0a683]
+##### 31. Warrant to enter and inspect premises for enforcement purposes[^c-51ba3f334c44a30c0be9964698a0a683]
 
 (1) This section applies if a justice of the peace is satisfied on sworn information in writing—
 
@@ -858,7 +858,7 @@ The specific fitness standards are those set out in the following sections—
 
 #### Offences
 
-##### 32. Regulated visitor accommodation at unlicensed premises: offence[^key-aba33ec8eb713cfa9ec4e0114dbeea2f]
+##### 32. Regulated visitor accommodation at unlicensed premises: offence[^c-aba33ec8eb713cfa9ec4e0114dbeea2f]
 
 (1) It is an offence for a person to provid‍e regulated visitor accommodation, in the course of trade or business, at any premises unless—
 
@@ -869,7 +869,7 @@ The specific fitness standards are those set out in the following sections—
 
 (3) A person that commits an offence under subsection (1) is liable on summary conviction to a fine.‍
 
-##### 33. Offence of wilful obstruction[^key-6d8157404bfeb4f55bcfe096fdb4c641]
+##### 33. Offence of wilful obstruction[^c-6d8157404bfeb4f55bcfe096fdb4c641]
 
 (1) A person referred to in subsection (2) commits an offence if the person wilfully obstructs an authorised person validly exercising a function under‍ section 30.
 
@@ -885,7 +885,7 @@ The specific fitness standards are those set out in the following sections—
 
 #### Other functions of the Welsh Ministers
 
-##### 34. Duty to maintain a register in relation to licensing[^key-153c148f73863bcda4fec846044a5294]
+##### 34. Duty to maintain a register in relation to licensing[^c-153c148f73863bcda4fec846044a5294]
 
 (1) The Welsh Ministers must establish and maintain a register of visitor accommodation licences.
 
@@ -925,7 +925,7 @@ The specific fitness standards are those set out in the following sections—
 
 (7) For the purposes of this section, the “business address” of a partnership, a body corporate or an unincorporated body is the address of its registered or principal office.‍
 
-##### 35. Fees in relation to visitor accommodation licences[^key-2d61900d1b253eceb685bcaf8a70d8d2]
+##### 35. Fees in relation to visitor accommodation licences[^c-2d61900d1b253eceb685bcaf8a70d8d2]
 
 (1) The Welsh Ministers may by regulations make provision for and in relation to the charging of fees in connection with the exercise of their functions under‍ or by virtue of this Chapter or Chapter 1 of Part 5 of this Act.
 
@@ -943,7 +943,7 @@ The specific fitness standards are those set out in the following sections—
 
 (4) Before making the second or subsequent regulations under subsection (1), the Welsh Ministers must consult any persons they consider appropriate.
 
-##### 36. Powers to share information[^key-c9481dd3c010e7685cba1d9c0e580e9b]
+##### 36. Powers to share information[^c-c9481dd3c010e7685cba1d9c0e580e9b]
 
 (1) A person mentioned in subsection (3) may disclose information to the Welsh Ministers for the purposes of any of the Welsh Ministers’ functions under Parts 3 to 5 of this Act or under regulations made under Parts 3 to 5 of this Act.
 
@@ -974,7 +974,7 @@ The specific fitness standards are those set out in the following sections—
 - (a) omit the “or” after paragraph (i);‍
 - (b) in paragraph (k)(ii), for “section 2 of the Development of Tourism Act [1969 (c. 51)](https://www.legislation.gov.uk/ukpga/1969/51)” substitute “the Development of Tourism and Regulation of Visitor Accommodation (Wales) Act [2026 (asc 00)](https://www.legislation.gov.uk/asc/2026/10)”.
 
-##### 37. Specific provision applicable in respect of campsite and caravan site licences[^key-a481f8518b3ca17e198cb78b28ef5553]
+##### 37. Specific provision applicable in respect of campsite and caravan site licences[^c-a481f8518b3ca17e198cb78b28ef5553]
 
 (1) Subsections (2) and (3) apply if regulations under section 5(1)(b) (description of “regulated visitor accommodation”) prescribe visitor accommodation at—
 
@@ -995,7 +995,7 @@ The specific fitness standards are those set out in the following sections—
 
 #### Contractual terms and fitness for visitor accommodation
 
-##### 38. Visitor accommodation contracts[^key-769e2c01f5c5c8b5ed2f3abda11fb1e1]
+##### 38. Visitor accommodation contracts[^c-769e2c01f5c5c8b5ed2f3abda11fb1e1]
 
 (1) For the purposes of this Chapter, a contract is a “visitor accommodation contract” if the contract entitles an individual (“a visitor”), to reside in or at regulated visitor accommodation for no more than 31 nights (whether or not those nights are consecutive).
 
@@ -1005,7 +1005,7 @@ The specific fitness standards are those set out in the following sections—
 - (b) a contract of apprenticeship, or
 - (c) a contract for services under which a person entitled to reside in or at the regulated visitor accommodation provides a service to the VAP.
 
-##### 39. Contractual obligation to ensure premises fit for visitor accommodation[^key-f4316370c66726f491757832c97e58b9]
+##### 39. Contractual obligation to ensure premises fit for visitor accommodation[^c-f4316370c66726f491757832c97e58b9]
 
 (1) Subsection (2) is incorporated as a term of a visitor accommodation contract.
 
@@ -1033,7 +1033,7 @@ if the effect of the modifications, or of not incorporating subsection (2), is m
 
 #### Limits on obligation to ensure premises fit for visitor accommodation
 
-##### 40. Limits on fitness for visitor accommodation duty: visitor’s fault[^key-846eb42b14a37d563707b17e53b707a3]
+##### 40. Limits on fitness for visitor accommodation duty: visitor’s fault[^c-846eb42b14a37d563707b17e53b707a3]
 
 (1) Section 39 does not impose any liability on the VAP if the premises are not fit for visitor accommodation wholly or mainly because of an act or omission (including an act or omission amounting to lack of care) of the visitor.
 
@@ -1044,7 +1044,7 @@ if the effect of the modifications, or of not incorporating subsection (2), is m
 - (a) of the premises, and
 - (b) if the premises form part only of a building, of the common parts that the visitor is entitled to use under the visitor accommodation contract.
 
-##### 41. Limits on fitness for visitor accommodation duty: knowledge of VAP[^key-d7d8706fe38b632e825f3d9f5f7edf23]
+##### 41. Limits on fitness for visitor accommodation duty: knowledge of VAP[^c-d7d8706fe38b632e825f3d9f5f7edf23]
 
 (1) A VAP has not failed to comply with the requirement under section 39(2) if the VAP—
 
@@ -1068,7 +1068,7 @@ that the premises are not fit for visitor accommodation.
 
 ### Directory of visitor accommodation premises
 
-#### 42. Visitor accommodation directory[^key-23a4968f9c25fb6cefd6bbf1a4a4a35e]
+#### 42. Visitor accommodation directory[^c-23a4968f9c25fb6cefd6bbf1a4a4a35e]
 
 (1) Subsection (2)‍ applies in respect of information—
 
@@ -1111,7 +1111,7 @@ that the premises are not fit for visitor accommodation.
 
 ### Advertising and marketing etc.
 
-#### 43. Requirements relating to advertising and marketing etc.[^key-2b658a9c778a518de06200b11fcbebbf]
+#### 43. Requirements relating to advertising and marketing etc.[^c-2b658a9c778a518de06200b11fcbebbf]
 
 (1) A person must not advertise or otherwise market visitor accommodation (including regulated visitor accommodation) at premises without including, in a manner and form specified by the Welsh Ministers—
 
@@ -1125,7 +1125,7 @@ that the premises are not fit for visitor accommodation.
 
 (3) A person (“**P**”) must not, in the course of trade or business, advertise or otherwise market or offer regulated visitor accommodation (regardless of whether P is a provider of the accommodation), unless P or another person holds a visitor accommodation licence in respect of the premises that relates to the regulated visitor accommodation in question.
 
-#### 44. Offences relating to advertising and marketing etc. of visitor accommodation[^key-18bd1922841ae5a8c1af2aadc2b9b817]
+#### 44. Offences relating to advertising and marketing etc. of visitor accommodation[^c-18bd1922841ae5a8c1af2aadc2b9b817]
 
 (1) A person commits an offence if that perso‍n fails to comply with the requirement in section 43(1).
 
@@ -1150,7 +1150,7 @@ that the premises are not fit for visitor accommodation.
 
 #### Application of Act to special cases
 
-##### 45. Duties and liabilities of partnerships and unincorporated bodies[^key-fc67b2c42feaba69512a71d037013e6e]
+##### 45. Duties and liabilities of partnerships and unincorporated bodies[^c-fc67b2c42feaba69512a71d037013e6e]
 
 (1) Where anything required or permitted to be done under this Act is to be done by or in relation to persons carrying on business in partnership, it must be done by or in relation to every person who is a partner at the time when it is done or required to be done.
 
@@ -1170,11 +1170,11 @@ that the premises are not fit for visitor accommodation.
   - (iii) if there is no such office or committee, each member of the body;
 - (b) “**relevant amount**” means an amount payable in relation to obtaining or maintaining a visitor accommodation licence.
 
-##### 46. Power to make further provision about partnerships and unincorporated bodies[^key-7743ed6ae9833f48133ef1ab772f41ab]
+##### 46. Power to make further provision about partnerships and unincorporated bodies[^c-7743ed6ae9833f48133ef1ab772f41ab]
 
 The Welsh Ministers may by regulations add to, repeal or revoke or otherwise amend any provision made by or under this Act in relation to cases where persons carry on business in partnership or as an unincorporated body.
 
-##### 47. Offences committed by partnerships and unincorporated bodies[^key-6ae8b6b2fe4d4e3cf527a5790afa6bf8]
+##### 47. Offences committed by partnerships and unincorporated bodies[^c-6ae8b6b2fe4d4e3cf527a5790afa6bf8]
 
 (1) Proceedings for an offence under this Act alleged to have been committed by a partnership are to be brought in the name of the partnership (and not in that of any of the partners).
 
@@ -1188,7 +1188,7 @@ The Welsh Ministers may by regulations add to, repeal or revoke or otherwise ame
 
 (6) A fine imposed on an unincorporated body on its conviction for an offence under this Act is to be paid out of the funds of the body.
 
-##### 48. Criminal liability of senior officers etc.[^key-3bd5ab64f75e7c04b788a7c219352bff]
+##### 48. Criminal liability of senior officers etc.[^c-3bd5ab64f75e7c04b788a7c219352bff]
 
 (1) This section applies where an offence under this Act is committed by—
 
@@ -1213,7 +1213,7 @@ that senior officer or person (as well as the body corporate, partnership or uni
 
 (4) In subsection (3)(a), “**director**”, in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate.
 
-##### 49. Power to make provision about death, incapacity and insolvency[^key-ff7073a4f17d3c994ba2102810526cf5]
+##### 49. Power to make provision about death, incapacity and insolvency[^c-ff7073a4f17d3c994ba2102810526cf5]
 
 (1) The Welsh Ministers may by regulations add to, repeal or revoke or otherwise amend any provision made by or under this Act in relation to cases where a VAP dies, becomes incapacitated or becomes subject to an insolvency procedure, or otherwise ceases to exist.
 
@@ -1234,7 +1234,7 @@ that senior officer or person (as well as the body corporate, partnership or uni
   - (ii) summary offences punishable with a fine in respect of failures to comply with the regulations;
   - (iii) appeals.
 
-##### 50. Power to make provision about transfers of businesses as going concerns etc.[^key-a505801d54b6ba4581ec01629856fab3]
+##### 50. Power to make provision about transfers of businesses as going concerns etc.[^c-a505801d54b6ba4581ec01629856fab3]
 
 (1) The Welsh Ministers may by regulations make provision for securing continuity in the application of this Act where—
 
@@ -1269,7 +1269,7 @@ that senior officer or person (as well as the body corporate, partnership or uni
 
 (5) The regulations may amend or apply (with or without modifications) any relevant enactment.
 
-##### 51. Power to disapply certain provisions of Act[^key-155494fc03aa190f9d6dfef369930f79]
+##### 51. Power to disapply certain provisions of Act[^c-155494fc03aa190f9d6dfef369930f79]
 
 (1) The Welsh Ministers may by regulations provide that persons of a prescribed description, that would otherwise commit an offence under section 32 or 44, do not commit that offence.
 
@@ -1277,7 +1277,7 @@ that senior officer or person (as well as the body corporate, partnership or uni
 
 #### Power and offences relating to provision of information
 
-##### 52. Power to require information[^key-123e75b157152ce166eacdbce946b38e]
+##### 52. Power to require information[^c-123e75b157152ce166eacdbce946b38e]
 
 (1) The Welsh Ministers may issue a notice (an “information notice”) to a person mentioned in subsection (2), requiring that person to provide the Welsh Ministers with any information or document—
 
@@ -1308,13 +1308,13 @@ that senior officer or person (as well as the body corporate, partnership or uni
 
 (6) An information notice must include information about the consequences under section 53 of failing to comply with the notice.
 
-##### 53. Offence of failing to comply with an information notice[^key-991565562fe5cce67f0a15a960d8f413]
+##### 53. Offence of failing to comply with an information notice[^c-991565562fe5cce67f0a15a960d8f413]
 
 (1) A person that, without reasonable excuse, fails to comply with section 52 commits an offence.
 
 (2) A person that commits an offence under subsection (1) is liable on summary conviction to a fine.
 
-##### 54. Offence of providing false or misleading information[^key-0d8f81c0941c465e986e22b3f629d862]
+##### 54. Offence of providing false or misleading information[^c-0d8f81c0941c465e986e22b3f629d862]
 
 (1) A person commits an offence if that person—
 
@@ -1335,7 +1335,7 @@ that senior officer or person (as well as the body corporate, partnership or uni
 
 #### Offences: penalty notices
 
-##### 55. Penalty notices[^key-0baca417fd86af11774c097155787770]
+##### 55. Penalty notices[^c-0baca417fd86af11774c097155787770]
 
 (1) The Welsh Ministers may give a penalty notice to a person if they are satisfied that the person has committed an offence under this Act.
 
@@ -1357,7 +1357,7 @@ that senior officer or person (as well as the body corporate, partnership or uni
 
 ### CHAPTER 2 — GENERAL
 
-#### 56. Guidance issued by the Welsh Ministers[^key-6a45d42c6ecb2aeee40de348fadaa573]
+#### 56. Guidance issued by the Welsh Ministers[^c-6a45d42c6ecb2aeee40de348fadaa573]
 
 **Not yet in force.**
 
@@ -1365,7 +1365,7 @@ that senior officer or person (as well as the body corporate, partnership or uni
 
 (2) Before issuing guidance under subsection (1), the Welsh Ministers must consult any persons they consider appropriate.
 
-#### 57. Power to make consequential, transitional etc. provision[^key-1b7856316bedde491d91a02efe19bc47]
+#### 57. Power to make consequential, transitional etc. provision[^c-1b7856316bedde491d91a02efe19bc47]
 
 (1) The Welsh Ministers may by regulations—
 
@@ -1377,7 +1377,7 @@ that senior officer or person (as well as the body corporate, partnership or uni
 - (a) if regulations under section 5(1)(b) (meaning of “**regulated visitor accommodation**”) prescribe a description of visitor accommodation to which section 269 of the Public Health Act [1936 (c. 49)](https://www.legislation.gov.uk/ukpga/1936/49) (licensing of camping sites) applies, disapplying that section in relation to Wales;
 - (b) if regulations under section 5(1)(b) (meaning of “**regulated visitor accommodation**”) prescribe a description of visitor accommodation to which Part 1 of the Caravan Sites and Control of Development Act [1960 (c. 62)](https://www.legislation.gov.uk/ukpga/1960/62) (licensing of caravan sites) applies, disapplying that Part in relation to Wales.
 
-#### 58. Review of operation and effect of Act[^key-cf8df11ae2bedbb9bd0167dcb7018b9b]
+#### 58. Review of operation and effect of Act[^c-cf8df11ae2bedbb9bd0167dcb7018b9b]
 
 (1) The Welsh Ministers must—
 
@@ -1390,7 +1390,7 @@ that senior officer or person (as well as the body corporate, partnership or uni
 
 (4) A report under subsection (1) must be laid before Senedd Cymru.
 
-#### 59. Regulations under this Act[^key-1d4aedae71ffa88f02215acb0b86a0f2]
+#### 59. Regulations under this Act[^c-1d4aedae71ffa88f02215acb0b86a0f2]
 
 (1) A power or duty to make regulations under this Act is exercisable by Welsh statutory instrument.
 
@@ -1431,7 +1431,7 @@ that senior officer or person (as well as the body corporate, partnership or uni
 - (b) an Assembly Measure;
 - (c) an Act of the Parliament of the United Kingdom.
 
-#### 60. Interpretation and index of defined terms[^key-d2586e56eff231bc18906e75267bbbbc]
+#### 60. Interpretation and index of defined terms[^c-d2586e56eff231bc18906e75267bbbbc]
 
 (1) In this Act the following terms have the following meanings—
 
@@ -1457,7 +1457,7 @@ that senior officer or person (as well as the body corporate, partnership or uni
 
 (2) In this Act, a reference to something done under this Act, or under a provision of this Act, includes something done by virtue of this Act or that provision as the case may be.
 
-#### 61. Coming into force[^key-17ac94fc22f2f451203cd08f2f5ae96b]
+#### 61. Coming into force[^c-17ac94fc22f2f451203cd08f2f5ae96b]
 
 (1) This Chapter, other than section 56 (guidance), comes into force on the day after the day on which this Act receives Royal Assent.
 
@@ -1473,7 +1473,7 @@ that senior officer or person (as well as the body corporate, partnership or uni
 - (a) transitional, transitory or savings provision in connection with the coming into force of a provision of this Act;
 - (b) different provision for different areas and for different purposes.
 
-#### 62. Short title[^key-3e7281413b1a473e5cdc4ea5f2d4f611]
+#### 62. Short title[^c-3e7281413b1a473e5cdc4ea5f2d4f611]
 
 This Act may be referred to as—
 
@@ -1486,11 +1486,11 @@ This Act may be referred to as—
 
 (introduced by section 4(2))
 
-**1.**[^key-fff746f0a352dabdfbf12107a0727aa8] The Development of Tourism Act [1969 (c. 51)](https://www.legislation.gov.uk/ukpga/1969/51) is amended as follows.
+**1.**[^c-fff746f0a352dabdfbf12107a0727aa8] The Development of Tourism Act [1969 (c. 51)](https://www.legislation.gov.uk/ukpga/1969/51) is amended as follows.
 
-**2.**[^key-ee50480d11c7f5f418d621f42a16c6b4] In section 1(2)(b), for “National Assembly for Wales” substitute “Welsh Ministers”.
+**2.**[^c-ee50480d11c7f5f418d621f42a16c6b4] In section 1(2)(b), for “National Assembly for Wales” substitute “Welsh Ministers”.
 
-**3.**[^key-d24149b9838e038176979835567f88fb] In section 2—
+**3.**[^c-d24149b9838e038176979835567f88fb] In section 2—
 
 - (a) in the words after subsection (1)(b)—
   - (i) for “, VisitScotland and the National Assembly for Wales” substitute “and VisitScotland”;
@@ -1514,20 +1514,20 @@ This Act may be referred to as—
 
   > (10) See Part 2 of the Development of Tourism and Regulation of Visitor Accommodation (Wales) Act [2026 (asc 00)](https://www.legislation.gov.uk/asc/2026/10) for the corresponding functions of the Welsh Ministers in relation to promoting the development of tourism in Wales.
 
-**4.**[^key-adebc68b93fc5f209f055ccbd7f537d3] In section 3—
+**4.**[^c-adebc68b93fc5f209f055ccbd7f537d3] In section 3—
 
 - (a) in subsection (1), for “National Assembly for Wales”, in both places it occurs, substitute “Welsh Ministers”;
 - (b) in subsection (4), for “National Assembly for Wales” substitute “Welsh Ministers”;
 - (c) in subsection (5), for “National Assembly for Wales” substitute “Welsh Ministers”.
 
-**5.**[^key-58ed435a06c808b8497a6c451e616ce7] Omit section 4A.
+**5.**[^c-58ed435a06c808b8497a6c451e616ce7] Omit section 4A.
 
-**6.**[^key-fd8e0a71b3bdae2b97f5f7a5671fcf14] In section 5(1)—
+**6.**[^c-fd8e0a71b3bdae2b97f5f7a5671fcf14] In section 5(1)—
 
 - (a) for “, VisitScotland and the National Assembly for Wales” substitute “and VisitScotland”;
 - (b) for “, Scotland and Wales” substitute “and Scotland”.
 
-**7.**[^key-6866cb7fa48b0292992d451cf18a0739] In Schedule 2—
+**7.**[^c-6866cb7fa48b0292992d451cf18a0739] In Schedule 2—
 
 - (a) in paragraph 1(1A)—
   - (i) for “National Assembly for Wales” substitute “Welsh Ministers”;
@@ -1547,13 +1547,13 @@ This Act may be referred to as—
 
 (introduced by section 14(3))
 
-### 1. Amendments to the Visitor Accommodation (Register and Levy) Etc. (Wales) Act [2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5)[^key-eaab55934d912568b86053218208e33e]
+### 1. Amendments to the Visitor Accommodation (Register and Levy) Etc. (Wales) Act [2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5)[^c-eaab55934d912568b86053218208e33e]
 
 The Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 is amended as follows.
 
-**2.**[^key-07816bb8267adc2404a5a0a76259cc99] In section 3 (meaning of “**visitor accommodation provider**”), in subsection (5)(b) after “time” insert “(and regardless of whether there is‍ a statement in the person’s entry in the register under paragraph 2A(b) of Schedule 1 that the person is not providing or offering to provide visitor accommodation)”.
+**2.**[^c-07816bb8267adc2404a5a0a76259cc99] In section 3 (meaning of “**visitor accommodation provider**”), in subsection (5)(b) after “time” insert “(and regardless of whether there is‍ a statement in the person’s entry in the register under paragraph 2A(b) of Schedule 1 that the person is not providing or offering to provide visitor accommodation)”.
 
-**3.**[^key-29c64f10e01b4533a87ec18b3849f058] In section 4 (register of visitor accommodation providers)—‍
+**3.**[^c-29c64f10e01b4533a87ec18b3849f058] In section 4 (register of visitor accommodation providers)—‍
 
 - (a) in subsection (4)—
   - (i) the words “the information contained in the register by virtue of Schedule 1” become paragraph (a);
@@ -1572,7 +1572,7 @@ The Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 is amended a
 
     .
 
-**4.**[^key-18f1a7b402a490c29b3b9ef416f5f75b] In section 6 (applications to be registered)—
+**4.**[^c-18f1a7b402a490c29b3b9ef416f5f75b] In section 6 (applications to be registered)—
 
 - (a) in subsection (1) for “14” substitute “14A”;
 - (b) in subsection (3)(b) after “registration” insert—
@@ -1584,14 +1584,14 @@ The Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 is amended a
 
   .
 
-**5.**[^key-d0f03e9140f5356ec00c0ff743d405d5] In section 8 (power to register persons where no application has been made to WRA), after subsection (3) insert—
+**5.**[^c-d0f03e9140f5356ec00c0ff743d405d5] In section 8 (power to register persons where no application has been made to WRA), after subsection (3) insert—
 
 > (3A) If WRA registers a person under subsection (1), WRA must‍ issue a notice to the person specifying—
 >
 > - (a) a registration number for the person, and
 > - (b) a registration number in respect of each premises at which the person provides, or offers to provide, visitor accommodation.
 
-**6.**[^key-9df3cab78b39733e0423a9f3bf7aeb12] In section 9 (duty to notify WRA of changes and inaccuracies)—
+**6.**[^c-9df3cab78b39733e0423a9f3bf7aeb12] In section 9 (duty to notify WRA of changes and inaccuracies)—
 
 - (a) in subsection (2)(b), after “register” insert “(including, where the VAP wishes to be registered in respect of different or additional premises or in relation to different or additional visitor accommodation, the information relating to the premises or accommodation required to be contained in the register under Schedule 1)”;
 - (b) in subsection (3)(b)—
@@ -1604,7 +1604,7 @@ The Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 is amended a
 
     .‍
 
-**7.**[^key-5c6a00bfb4ef2811acb66a156423286b] In section 11 (power to change the register where no notice has been given to WRA)—
+**7.**[^c-5c6a00bfb4ef2811acb66a156423286b] In section 11 (power to change the register where no notice has been given to WRA)—
 
 - (a) after subsection (3) insert—
 
@@ -1622,7 +1622,7 @@ The Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 is amended a
 
   ‍
 
-**8.**[^key-b65ec4401792462ffde9e594ac4559d3] In section 14 (removal of a person from the register on application to WRA)—
+**8.**[^c-b65ec4401792462ffde9e594ac4559d3] In section 14 (removal of a person from the register on application to WRA)—
 
 - (a) for subsection (1) substitute—
 
@@ -1631,7 +1631,7 @@ The Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 is amended a
   ;
 - (b) omit subsection (5).
 
-**9.**[^key-82122b01d6c8ccc610d6b27a45901462] After section 14 insert—
+**9.**[^c-82122b01d6c8ccc610d6b27a45901462] After section 14 insert—
 
 > **Requirement for certain persons to apply for removal from the register**
 >
@@ -1662,7 +1662,7 @@ The Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 is amended a
 >
 > (4) For the purposes of this Part, a person has not provided or offered to provide visitor accommodation at any premises if that person has not, in the course of trade or business, provided or offered to provide visitor accommodation at premises in Wales that the person occupies.
 
-**10.**[^key-2b44cb30811640f43b297643047f359b] In section 15 (penalties where a person fails to apply for removal from the register), in subsection (1)—‍
+**10.**[^c-2b44cb30811640f43b297643047f359b] In section 15 (penalties where a person fails to apply for removal from the register), in subsection (1)—‍
 
 - (a) for “14(1)” substitute “14A(1) or (2)”;
 - (b) in subsection (2), after “the person” insert “is not a licensed VAP and the person”;
@@ -1673,12 +1673,12 @@ The Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 is amended a
   > - (a) the period beginning with the day on which a person applies for a visitor accommodation licence under‍ Part 3 of the Development of Tourism and Regulation of Visitor Accommodation (Wales) Act 2026 (“**the 2026 Act**”), and ending on the day on which the application is determined;
   > - (b) the period beginning with the day on which a decision relating to the grant or revocation of a visitor accommodation licence becomes subject to an appeal under section 29 of the 2026 Act, and ending on the day the appeal is finally determined or withdrawn.
 
-**11.**[^key-285c77a082b36960426d1972430377bd] In section 16 (power to remove a person from the register when no application has been made)—
+**11.**[^c-285c77a082b36960426d1972430377bd] In section 16 (power to remove a person from the register when no application has been made)—
 
 - (a) in subsection (1) for “14(1)” substitute‍ ”14A”;
 - (b) in subsection (4)(a), for “the person ceased to be a VAP” substitute “on which the person last provided or (if later) offered to provide visitor accommodation”.‍
 
-**12.**[^key-83980e75102f14eb4b60dc7f2f873837] In section 21 (double jeopardy)—
+**12.**[^c-83980e75102f14eb4b60dc7f2f873837] In section 21 (double jeopardy)—
 
 - (a) the words “has been convicted of an offence in relation to it” become paragraph (a);
 - (b) after that paragraph insert
@@ -1687,7 +1687,7 @@ The Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 is amended a
   >
   > - (b) in relation to it, pays the sum specified in a penalty notice given to the person under section 55 of the Development of Tourism and Regulation of Visitor Accommodation (Wales) Act [2026 (asc 00)](https://www.legislation.gov.uk/asc/2026/10) (and the notice is not subsequently withdrawn).
 
-**13.**[^key-36ee6b7a42f97751bed6d090dd4adfa2] In section 26 (powers to make further or different provision), in subsection (2), after paragraph (b) insert
+**13.**[^c-36ee6b7a42f97751bed6d090dd4adfa2] In section 26 (powers to make further or different provision), in subsection (2), after paragraph (b) insert
 
 > ;
 >
@@ -1695,9 +1695,9 @@ The Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 is amended a
 
 .
 
-**14.**[^key-327030766d22c8c46bc264f37fe419f2] In section 38 (meaning of “accounting period”: annual returns), in subsection (4)(b), for “do so” substitute “be a VAP”.
+**14.**[^c-327030766d22c8c46bc264f37fe419f2] In section 38 (meaning of “accounting period”: annual returns), in subsection (4)(b), for “do so” substitute “be a VAP”.
 
-**15.**[^key-f8f93860b3ffcc4848221c32c04a4409] In Schedule 1 (information to be included in the register of visitor accommodation providers)—
+**15.**[^c-f8f93860b3ffcc4848221c32c04a4409] In Schedule 1 (information to be included in the register of visitor accommodation providers)—
 
 - (a) in paragraph 2—
   - (i) for “at which the VAP provides, or offers to provide, visitor accommodation” substitute “in respect of which the VAP is registered”;
@@ -1715,7 +1715,7 @@ The Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 is amended a
 
   > - (c) “regulated visitor accommodation means visitor accommodation falling within section 5(1)(a) of the Development of Tourism and Regulation of Visitor Accommodation (Wales) Act [2026 (asc 00)](https://www.legislation.gov.uk/asc/2026/10) (self-catering accommodation that is self-contained, and is in a building, or mobile home, vessel or other vehicle).
 
-### 16. Amendments to the Tax Collection and Management (Wales) Act [2016 (anaw 6)](https://www.legislation.gov.uk/anaw/2016/6)[^key-c3f2f264add8e45849d0ca8c7dfd89c6]
+### 16. Amendments to the Tax Collection and Management (Wales) Act [2016 (anaw 6)](https://www.legislation.gov.uk/anaw/2016/6)[^c-c3f2f264add8e45849d0ca8c7dfd89c6]
 
 (1) The Tax Collection and Management (Wales) Act 2016 is amended as follows.
 
@@ -1733,174 +1733,174 @@ The Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 is amended a
 
 ## Annotations
 
-[^key-3991bbc172e7b03482aaf911e2e14b98]: Commencement: S. 1 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-3991bbc172e7b03482aaf911e2e14b98]: Commencement: S. 1 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-a820f54ca69c042ab7ffa26d1bc31aac]: Commencement: S. 2 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-a820f54ca69c042ab7ffa26d1bc31aac]: Commencement: S. 2 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-63aa1026ec0a0967ba07abf85d998e20]: Commencement: S. 3 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-63aa1026ec0a0967ba07abf85d998e20]: Commencement: S. 3 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-e2beb36ff2d34fceb763228b0daef980]: Commencement: S. 4 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-e2beb36ff2d34fceb763228b0daef980]: Commencement: S. 4 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-b96554546caba6ab83b90bb65d37ad5b]: Commencement: S. 5 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-b96554546caba6ab83b90bb65d37ad5b]: Commencement: S. 5 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-ff9e425b4b4bb02d5424358721605d39]: Commencement: S. 6 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-ff9e425b4b4bb02d5424358721605d39]: Commencement: S. 6 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-868e2acbdacb2a63437cea6bab1badfb]: Commencement: S. 7 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-868e2acbdacb2a63437cea6bab1badfb]: Commencement: S. 7 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-bf8f4a798d5315badf6118dbc7f9abff]: Commencement: S. 8 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-bf8f4a798d5315badf6118dbc7f9abff]: Commencement: S. 8 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-e302b5f7c44b1ef9c8c7f6ee06758046]: Commencement: S. 9 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-e302b5f7c44b1ef9c8c7f6ee06758046]: Commencement: S. 9 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-bedc02f06d38c6ff3d05d20ceec251a1]: Commencement: S. 10 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-bedc02f06d38c6ff3d05d20ceec251a1]: Commencement: S. 10 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-35bb873f6014d1767060a64c259d8aa1]: Commencement: S. 11 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-35bb873f6014d1767060a64c259d8aa1]: Commencement: S. 11 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-e663b56e40540afef17febbdbc155675]: Commencement: S. 12 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-e663b56e40540afef17febbdbc155675]: Commencement: S. 12 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-f187f6cde4e688399b0f94ec18198885]: Commencement: S. 13 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-f187f6cde4e688399b0f94ec18198885]: Commencement: S. 13 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-ff0d75c28f3b74d655840bf6fc2ec324]: Commencement: S. 14 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-ff0d75c28f3b74d655840bf6fc2ec324]: Commencement: S. 14 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-7d2ad3a3c881e7f8388da4eb85818bcf]: Commencement: S. 15 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-7d2ad3a3c881e7f8388da4eb85818bcf]: Commencement: S. 15 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-37d38649e471f1772abc010bbb20a02a]: Commencement: S. 16 in force at 5.3.2029, see [s. 61(2)(a)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/a)
+[^c-37d38649e471f1772abc010bbb20a02a]: Commencement: S. 16 in force at 5.3.2029, see [s. 61(2)(a)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/a)
 
-[^key-456573b6ae1a94495764ac6716cb0f93]: Commencement: S. 17 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-456573b6ae1a94495764ac6716cb0f93]: Commencement: S. 17 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-6ccc8105d369c8b7f95ab8fef5b5ea13]: Commencement: S. 18 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-6ccc8105d369c8b7f95ab8fef5b5ea13]: Commencement: S. 18 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-c0ade423e3657af1aa95608148075872]: Commencement: S. 19 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-c0ade423e3657af1aa95608148075872]: Commencement: S. 19 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-0f1c6eb810532dc43f29529b55d41e51]: Commencement: S. 20 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-0f1c6eb810532dc43f29529b55d41e51]: Commencement: S. 20 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-265ff86296427d5f3db256c6009eb2ac]: Commencement: S. 21 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-265ff86296427d5f3db256c6009eb2ac]: Commencement: S. 21 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-70aad00e09538e0d3e6e889e856249d3]: Commencement: S. 22 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-70aad00e09538e0d3e6e889e856249d3]: Commencement: S. 22 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-295e763b91d904e62b151d7124f7f4a0]: Commencement: S. 23 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-295e763b91d904e62b151d7124f7f4a0]: Commencement: S. 23 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-9e60e89beadf7e672d1021df6a8c8a63]: Commencement: S. 24 in force at 5.3.2029, see [s. 61(2)(a)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/a)
+[^c-9e60e89beadf7e672d1021df6a8c8a63]: Commencement: S. 24 in force at 5.3.2029, see [s. 61(2)(a)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/a)
 
-[^key-e3c7aaa1a71b5192570ffa5b5d22fa0f]: Commencement: S. 25(1)(2) in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-e3c7aaa1a71b5192570ffa5b5d22fa0f]: Commencement: S. 25(1)(2) in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-be6196f3e755e980b408d33a6fedba15]: Commencement: S. 25(3)-(5) in force at 5.3.2029, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-be6196f3e755e980b408d33a6fedba15]: Commencement: S. 25(3)-(5) in force at 5.3.2029, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-45727c128523cc1574007396a7671735]: Commencement: S. 26 in force at 5.3.2029, see [s. 61(2)(a)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/a)
+[^c-45727c128523cc1574007396a7671735]: Commencement: S. 26 in force at 5.3.2029, see [s. 61(2)(a)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/a)
 
-[^key-c577e2c69c6a94d590c8a551f8e0f971]: Commencement: S. 27 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-c577e2c69c6a94d590c8a551f8e0f971]: Commencement: S. 27 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-7129f34d479245218e9f6eeadc65cc14]: Commencement: S. 28 in force at 5.3.2029, see [s. 61(2)(a)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/a)
+[^c-7129f34d479245218e9f6eeadc65cc14]: Commencement: S. 28 in force at 5.3.2029, see [s. 61(2)(a)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/a)
 
-[^key-e219460b425f05fb4b22d6c6d003ce86]: Commencement: S. 29 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-e219460b425f05fb4b22d6c6d003ce86]: Commencement: S. 29 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-ea66944efd18c3709356af41c39fb788]: Commencement: S. 30 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-ea66944efd18c3709356af41c39fb788]: Commencement: S. 30 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-51ba3f334c44a30c0be9964698a0a683]: Commencement: S. 31 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-51ba3f334c44a30c0be9964698a0a683]: Commencement: S. 31 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-aba33ec8eb713cfa9ec4e0114dbeea2f]: Commencement: S. 32 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-aba33ec8eb713cfa9ec4e0114dbeea2f]: Commencement: S. 32 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-6d8157404bfeb4f55bcfe096fdb4c641]: Commencement: S. 33 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-6d8157404bfeb4f55bcfe096fdb4c641]: Commencement: S. 33 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-153c148f73863bcda4fec846044a5294]: Commencement: S. 34 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-153c148f73863bcda4fec846044a5294]: Commencement: S. 34 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-2d61900d1b253eceb685bcaf8a70d8d2]: Commencement: S. 35 in force at 5.3.2029, see [s. 61(2)(a)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/a)
+[^c-2d61900d1b253eceb685bcaf8a70d8d2]: Commencement: S. 35 in force at 5.3.2029, see [s. 61(2)(a)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/a)
 
-[^key-c9481dd3c010e7685cba1d9c0e580e9b]: Commencement: S. 36 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-c9481dd3c010e7685cba1d9c0e580e9b]: Commencement: S. 36 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-a481f8518b3ca17e198cb78b28ef5553]: Commencement: S. 37 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-a481f8518b3ca17e198cb78b28ef5553]: Commencement: S. 37 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-769e2c01f5c5c8b5ed2f3abda11fb1e1]: Commencement: S. 38 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-769e2c01f5c5c8b5ed2f3abda11fb1e1]: Commencement: S. 38 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-f4316370c66726f491757832c97e58b9]: Commencement: S. 39 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-f4316370c66726f491757832c97e58b9]: Commencement: S. 39 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-846eb42b14a37d563707b17e53b707a3]: Commencement: S. 40 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-846eb42b14a37d563707b17e53b707a3]: Commencement: S. 40 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-d7d8706fe38b632e825f3d9f5f7edf23]: Commencement: S. 41 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-d7d8706fe38b632e825f3d9f5f7edf23]: Commencement: S. 41 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-23a4968f9c25fb6cefd6bbf1a4a4a35e]: Commencement: S. 42 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-23a4968f9c25fb6cefd6bbf1a4a4a35e]: Commencement: S. 42 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-2b658a9c778a518de06200b11fcbebbf]: Commencement: S. 43 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-2b658a9c778a518de06200b11fcbebbf]: Commencement: S. 43 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-18bd1922841ae5a8c1af2aadc2b9b817]: Commencement: S. 44 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-18bd1922841ae5a8c1af2aadc2b9b817]: Commencement: S. 44 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-fc67b2c42feaba69512a71d037013e6e]: Commencement: S. 45 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-fc67b2c42feaba69512a71d037013e6e]: Commencement: S. 45 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-7743ed6ae9833f48133ef1ab772f41ab]: Commencement: S. 46 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-7743ed6ae9833f48133ef1ab772f41ab]: Commencement: S. 46 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-6ae8b6b2fe4d4e3cf527a5790afa6bf8]: Commencement: S. 47 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-6ae8b6b2fe4d4e3cf527a5790afa6bf8]: Commencement: S. 47 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-3bd5ab64f75e7c04b788a7c219352bff]: Commencement: S. 48 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-3bd5ab64f75e7c04b788a7c219352bff]: Commencement: S. 48 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-ff7073a4f17d3c994ba2102810526cf5]: Commencement: S. 49 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-ff7073a4f17d3c994ba2102810526cf5]: Commencement: S. 49 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-a505801d54b6ba4581ec01629856fab3]: Commencement: S. 50 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-a505801d54b6ba4581ec01629856fab3]: Commencement: S. 50 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-155494fc03aa190f9d6dfef369930f79]: Commencement: S. 51 in force at 5.3.2029, see [s. 61(2)(a)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/a)
+[^c-155494fc03aa190f9d6dfef369930f79]: Commencement: S. 51 in force at 5.3.2029, see [s. 61(2)(a)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/a)
 
-[^key-123e75b157152ce166eacdbce946b38e]: Commencement: S. 52 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-123e75b157152ce166eacdbce946b38e]: Commencement: S. 52 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-991565562fe5cce67f0a15a960d8f413]: Commencement: S. 53 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-991565562fe5cce67f0a15a960d8f413]: Commencement: S. 53 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-0d8f81c0941c465e986e22b3f629d862]: Commencement: S. 54 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-0d8f81c0941c465e986e22b3f629d862]: Commencement: S. 54 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-0baca417fd86af11774c097155787770]: Commencement: S. 55 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-0baca417fd86af11774c097155787770]: Commencement: S. 55 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-6a45d42c6ecb2aeee40de348fadaa573]: Commencement: S. 56 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-6a45d42c6ecb2aeee40de348fadaa573]: Commencement: S. 56 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-1b7856316bedde491d91a02efe19bc47]: Commencement: S. 57 in force at 28.4.2026, see [s. 61(1)](https://www.legislation.gov.uk/asc/2026/10/section/61/1)
+[^c-1b7856316bedde491d91a02efe19bc47]: Commencement: S. 57 in force at 28.4.2026, see [s. 61(1)](https://www.legislation.gov.uk/asc/2026/10/section/61/1)
 
-[^key-cf8df11ae2bedbb9bd0167dcb7018b9b]: Commencement: S. 58 in force at 28.4.2026, see [s. 61(1)](https://www.legislation.gov.uk/asc/2026/10/section/61/1)
+[^c-cf8df11ae2bedbb9bd0167dcb7018b9b]: Commencement: S. 58 in force at 28.4.2026, see [s. 61(1)](https://www.legislation.gov.uk/asc/2026/10/section/61/1)
 
-[^key-1d4aedae71ffa88f02215acb0b86a0f2]: Commencement: S. 59 in force at 28.4.2026, see [s. 61(1)](https://www.legislation.gov.uk/asc/2026/10/section/61/1)
+[^c-1d4aedae71ffa88f02215acb0b86a0f2]: Commencement: S. 59 in force at 28.4.2026, see [s. 61(1)](https://www.legislation.gov.uk/asc/2026/10/section/61/1)
 
-[^key-d2586e56eff231bc18906e75267bbbbc]: Commencement: S. 60 in force at 28.4.2026, see [s. 61(1)](https://www.legislation.gov.uk/asc/2026/10/section/61/1)
+[^c-d2586e56eff231bc18906e75267bbbbc]: Commencement: S. 60 in force at 28.4.2026, see [s. 61(1)](https://www.legislation.gov.uk/asc/2026/10/section/61/1)
 
-[^key-17ac94fc22f2f451203cd08f2f5ae96b]: Commencement: S. 61 in force at 28.4.2026, see [s. 61(1)](https://www.legislation.gov.uk/asc/2026/10/section/61/1)
+[^c-17ac94fc22f2f451203cd08f2f5ae96b]: Commencement: S. 61 in force at 28.4.2026, see [s. 61(1)](https://www.legislation.gov.uk/asc/2026/10/section/61/1)
 
-[^key-3e7281413b1a473e5cdc4ea5f2d4f611]: Commencement: S. 62 in force at 28.4.2026, see [s. 61(1)](https://www.legislation.gov.uk/asc/2026/10/section/61/1)
+[^c-3e7281413b1a473e5cdc4ea5f2d4f611]: Commencement: S. 62 in force at 28.4.2026, see [s. 61(1)](https://www.legislation.gov.uk/asc/2026/10/section/61/1)
 
-[^key-fff746f0a352dabdfbf12107a0727aa8]: Commencement: Sch. 1 para. 1 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-fff746f0a352dabdfbf12107a0727aa8]: Commencement: Sch. 1 para. 1 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-ee50480d11c7f5f418d621f42a16c6b4]: Commencement: Sch. 1 para. 2 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-ee50480d11c7f5f418d621f42a16c6b4]: Commencement: Sch. 1 para. 2 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-d24149b9838e038176979835567f88fb]: Commencement: Sch. 1 para. 3 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-d24149b9838e038176979835567f88fb]: Commencement: Sch. 1 para. 3 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-adebc68b93fc5f209f055ccbd7f537d3]: Commencement: Sch. 1 para. 4 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-adebc68b93fc5f209f055ccbd7f537d3]: Commencement: Sch. 1 para. 4 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-58ed435a06c808b8497a6c451e616ce7]: Commencement: Sch. 1 para. 5 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-58ed435a06c808b8497a6c451e616ce7]: Commencement: Sch. 1 para. 5 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-fd8e0a71b3bdae2b97f5f7a5671fcf14]: Commencement: Sch. 1 para. 6 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-fd8e0a71b3bdae2b97f5f7a5671fcf14]: Commencement: Sch. 1 para. 6 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-6866cb7fa48b0292992d451cf18a0739]: Commencement: Sch. 1 para. 7 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-6866cb7fa48b0292992d451cf18a0739]: Commencement: Sch. 1 para. 7 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-eaab55934d912568b86053218208e33e]: Commencement: Sch. 2 para. 1 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-eaab55934d912568b86053218208e33e]: Commencement: Sch. 2 para. 1 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-07816bb8267adc2404a5a0a76259cc99]: Commencement: Sch. 2 para. 2 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-07816bb8267adc2404a5a0a76259cc99]: Commencement: Sch. 2 para. 2 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-29c64f10e01b4533a87ec18b3849f058]: Commencement: Sch. 2 para. 3 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-29c64f10e01b4533a87ec18b3849f058]: Commencement: Sch. 2 para. 3 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-18f1a7b402a490c29b3b9ef416f5f75b]: Commencement: Sch. 2 para. 4 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-18f1a7b402a490c29b3b9ef416f5f75b]: Commencement: Sch. 2 para. 4 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-d0f03e9140f5356ec00c0ff743d405d5]: Commencement: Sch. 2 para. 5 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-d0f03e9140f5356ec00c0ff743d405d5]: Commencement: Sch. 2 para. 5 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-9df3cab78b39733e0423a9f3bf7aeb12]: Commencement: Sch. 2 para. 6 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-9df3cab78b39733e0423a9f3bf7aeb12]: Commencement: Sch. 2 para. 6 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-5c6a00bfb4ef2811acb66a156423286b]: Commencement: Sch. 2 para. 7 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-5c6a00bfb4ef2811acb66a156423286b]: Commencement: Sch. 2 para. 7 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-b65ec4401792462ffde9e594ac4559d3]: Commencement: Sch. 2 para. 8 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-b65ec4401792462ffde9e594ac4559d3]: Commencement: Sch. 2 para. 8 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-82122b01d6c8ccc610d6b27a45901462]: Commencement: Sch. 2 para. 9 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-82122b01d6c8ccc610d6b27a45901462]: Commencement: Sch. 2 para. 9 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-2b44cb30811640f43b297643047f359b]: Commencement: Sch. 2 para. 10 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-2b44cb30811640f43b297643047f359b]: Commencement: Sch. 2 para. 10 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-285c77a082b36960426d1972430377bd]: Commencement: Sch. 2 para. 11 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-285c77a082b36960426d1972430377bd]: Commencement: Sch. 2 para. 11 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-83980e75102f14eb4b60dc7f2f873837]: Commencement: Sch. 2 para. 12 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-83980e75102f14eb4b60dc7f2f873837]: Commencement: Sch. 2 para. 12 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-36ee6b7a42f97751bed6d090dd4adfa2]: Commencement: Sch. 2 para. 13 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-36ee6b7a42f97751bed6d090dd4adfa2]: Commencement: Sch. 2 para. 13 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-327030766d22c8c46bc264f37fe419f2]: Commencement: Sch. 2 para. 14 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-327030766d22c8c46bc264f37fe419f2]: Commencement: Sch. 2 para. 14 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-f8f93860b3ffcc4848221c32c04a4409]: Commencement: Sch. 2 para. 15 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-f8f93860b3ffcc4848221c32c04a4409]: Commencement: Sch. 2 para. 15 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
 
-[^key-c3f2f264add8e45849d0ca8c7dfd89c6]: Commencement: Sch. 2 para. 16 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)
+[^c-c3f2f264add8e45849d0ca8c7dfd89c6]: Commencement: Sch. 2 para. 16 in force at 4.3.2030, see [s. 61(2)(b)](https://www.legislation.gov.uk/asc/2026/10/section/61/2/b)

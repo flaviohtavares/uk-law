@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45ZB. Access to information on the register[^key-15675619a673cec09f727c089a5f8c5e]
+## 45ZB. Access to information on the register[^c-15675619a673cec09f727c089a5f8c5e]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) form a business relationship with the trust; or
 - (b) enter into a transaction with the trust in relation to which the relevant person is required to apply customer due diligence measures under regulation 27.
 
-(3) The Commissioners must make the accessible information available to a person who makes a written request about a type A trust , a type B trust or a type C trust[^key-5e1bcfb5abe09f624f1c7eace6e2f6a6] (within the meaning given in regulation 45ZA(2)), where the trustees of that trust have a controlling interest in a third country entity.
+(3) The Commissioners must make the accessible information available to a person who makes a written request about a type A trust , a type B trust or a type C trust[^c-5e1bcfb5abe09f624f1c7eace6e2f6a6] (within the meaning given in regulation 45ZA(2)), where the trustees of that trust have a controlling interest in a third country entity.
 
 (4) The Commissioners may—
 
@@ -56,7 +56,7 @@ summary: ''
 
 and must inform the person who made the request of their decision.
 
-(8) For the purposes of this regulation, the “accessible information” means the details specified in paragraph (9) or (10) which are held on the register in relation to a beneficial owner of a type A trust , a type B trust or a type C trust[^key-6365b8ff4b1ec6dd4efe3ebcd4f67e8d] (within the meaning given in regulation 45ZA(2)), or in relation to an individual referred to as a potential beneficiary in a document from the settlor relating to the trust such as a letter of wishes.
+(8) For the purposes of this regulation, the “accessible information” means the details specified in paragraph (9) or (10) which are held on the register in relation to a beneficial owner of a type A trust , a type B trust or a type C trust[^c-6365b8ff4b1ec6dd4efe3ebcd4f67e8d] (within the meaning given in regulation 45ZA(2)), or in relation to an individual referred to as a potential beneficiary in a document from the settlor relating to the trust such as a letter of wishes.
 
 (9) The details are, in relation to an individual—
 
@@ -74,26 +74,26 @@ and must inform the person who made the request of their decision.
 
 (11) For the purposes of this regulation, the Commissioners must take account of the following when determining whether a person has a legitimate interest in the beneficial ownership of a trust—
 
-- (a) whether the person is involved in an investigation into money laundering, terrorist financing or proliferation financing[^key-1d840b13a2708e8cbbbd45f6c2842940];
-- (b) whether the person is making the request for accessible information in order to further an investigation into a specified suspected instance of money laundering, terrorist financing or proliferation financing[^key-36df61c9037c325db40fddadff71e64d];
+- (a) whether the person is involved in an investigation into money laundering, terrorist financing or proliferation financing[^c-1d840b13a2708e8cbbbd45f6c2842940];
+- (b) whether the person is making the request for accessible information in order to further an investigation into a specified suspected instance of money laundering, terrorist financing or proliferation financing[^c-36df61c9037c325db40fddadff71e64d];
 - (c) whether the disclosure of the information to that person would be likely to prejudice—
   - (i) any criminal investigation or criminal proceedings;
   - (ii) any other investigation mentioned in section 342(1) of the Proceeds of Crime Act 2002 (offences of prejudicing investigation); or
   - (iii) any investigation by an appropriate officer (within the meaning given in regulation 87(10)) into a potential contravention of a relevant requirement,
 
   which is or are being, or is or are about to be, conducted;
-- (d) whether, having regard to the information produced by the person making the request, it is reasonable for that person to suspect that the trust is being used for money laundering, terrorist financing or proliferation financing[^key-02876d5a6b9cbe323f7ac318bf63acf7].
+- (d) whether, having regard to the information produced by the person making the request, it is reasonable for that person to suspect that the trust is being used for money laundering, terrorist financing or proliferation financing[^c-02876d5a6b9cbe323f7ac318bf63acf7].
 
 ## Annotations
 
-[^key-15675619a673cec09f727c089a5f8c5e]: Textual amendment: [Reg. 45ZB](https://www.legislation.gov.uk/uksi/2017/692/regulation/45ZB) inserted (10.3.2022) by [The Money Laundering and Terrorist Financing (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/991)](https://www.legislation.gov.uk/uksi/2020/991), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/4), [7(4)](https://www.legislation.gov.uk/uksi/2020/991/regulation/7/4)
+[^c-15675619a673cec09f727c089a5f8c5e]: Textual amendment: [Reg. 45ZB](https://www.legislation.gov.uk/uksi/2017/692/regulation/45ZB) inserted (10.3.2022) by [The Money Laundering and Terrorist Financing (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/991)](https://www.legislation.gov.uk/uksi/2020/991), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/4), [7(4)](https://www.legislation.gov.uk/uksi/2020/991/regulation/7/4)
 
-[^key-5e1bcfb5abe09f624f1c7eace6e2f6a6]: Textual amendment: Words in [reg. 45ZB(3)](https://www.legislation.gov.uk/uksi/2017/692/regulation/45ZB/3) substituted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2026/621/regulation/27)
+[^c-5e1bcfb5abe09f624f1c7eace6e2f6a6]: Textual amendment: Words in [reg. 45ZB(3)](https://www.legislation.gov.uk/uksi/2017/692/regulation/45ZB/3) substituted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2026/621/regulation/27)
 
-[^key-6365b8ff4b1ec6dd4efe3ebcd4f67e8d]: Textual amendment: Words in [reg. 45ZB(8)](https://www.legislation.gov.uk/uksi/2017/692/regulation/45ZB/8) substituted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2026/621/regulation/27)
+[^c-6365b8ff4b1ec6dd4efe3ebcd4f67e8d]: Textual amendment: Words in [reg. 45ZB(8)](https://www.legislation.gov.uk/uksi/2017/692/regulation/45ZB/8) substituted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2026/621/regulation/27)
 
-[^key-1d840b13a2708e8cbbbd45f6c2842940]: Textual amendment: Words in [reg. 45ZB(11)(a)](https://www.legislation.gov.uk/uksi/2017/692/regulation/45ZB/11/a) substituted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [6(8)(d)](https://www.legislation.gov.uk/uksi/2022/860/regulation/6/8/d)
+[^c-1d840b13a2708e8cbbbd45f6c2842940]: Textual amendment: Words in [reg. 45ZB(11)(a)](https://www.legislation.gov.uk/uksi/2017/692/regulation/45ZB/11/a) substituted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [6(8)(d)](https://www.legislation.gov.uk/uksi/2022/860/regulation/6/8/d)
 
-[^key-36df61c9037c325db40fddadff71e64d]: Textual amendment: Words in [reg. 45ZB(11)(b)](https://www.legislation.gov.uk/uksi/2017/692/regulation/45ZB/11/b) substituted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [6(8)(d)](https://www.legislation.gov.uk/uksi/2022/860/regulation/6/8/d)
+[^c-36df61c9037c325db40fddadff71e64d]: Textual amendment: Words in [reg. 45ZB(11)(b)](https://www.legislation.gov.uk/uksi/2017/692/regulation/45ZB/11/b) substituted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [6(8)(d)](https://www.legislation.gov.uk/uksi/2022/860/regulation/6/8/d)
 
-[^key-02876d5a6b9cbe323f7ac318bf63acf7]: Textual amendment: Words in [reg. 45ZB(11)(d)](https://www.legislation.gov.uk/uksi/2017/692/regulation/45ZB/11/d) substituted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [6(8)(d)](https://www.legislation.gov.uk/uksi/2022/860/regulation/6/8/d)
+[^c-02876d5a6b9cbe323f7ac318bf63acf7]: Textual amendment: Words in [reg. 45ZB(11)(d)](https://www.legislation.gov.uk/uksi/2017/692/regulation/45ZB/11/d) substituted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [6(8)(d)](https://www.legislation.gov.uk/uksi/2022/860/regulation/6/8/d)

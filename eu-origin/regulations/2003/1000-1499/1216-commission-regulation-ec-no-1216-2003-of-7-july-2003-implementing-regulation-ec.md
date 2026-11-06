@@ -38,68 +38,68 @@ implementing Regulation (EC) No 450/2003 of the European Parliament and of the C
 
 (Text with EEA relevance) (revoked)
 
-[^key-00aa721fe1a13044815f8d74329a7a6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-00aa721fe1a13044815f8d74329a7a6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Transmission and adjustment procedures[^key-00aa721fe1a13044815f8d74329a7a6f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Quality[^key-00aa721fe1a13044815f8d74329a7a6f]
+## Article 1. Transmission and adjustment procedures[^c-00aa721fe1a13044815f8d74329a7a6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Transition periods[^key-00aa721fe1a13044815f8d74329a7a6f]
+## Article 2. Quality[^c-00aa721fe1a13044815f8d74329a7a6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Coverage of NACE Rev. 2 sections O to S[^key-00aa721fe1a13044815f8d74329a7a6f]
+## Article 3. Transition periods[^c-00aa721fe1a13044815f8d74329a7a6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Chaining of the index[^key-00aa721fe1a13044815f8d74329a7a6f]
+## Article 4. Coverage of NACE Rev. 2 sections O to S[^c-00aa721fe1a13044815f8d74329a7a6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Derogations[^key-00aa721fe1a13044815f8d74329a7a6f]
+## Article 5. Chaining of the index[^c-00aa721fe1a13044815f8d74329a7a6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Entry into force[^key-00aa721fe1a13044815f8d74329a7a6f]
+## Article 6. Derogations[^c-00aa721fe1a13044815f8d74329a7a6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-00aa721fe1a13044815f8d74329a7a6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I[^key-00aa721fe1a13044815f8d74329a7a6f]
+## Article 7. Entry into force[^c-00aa721fe1a13044815f8d74329a7a6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-00aa721fe1a13044815f8d74329a7a6f]
+[^c-00aa721fe1a13044815f8d74329a7a6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I[^c-00aa721fe1a13044815f8d74329a7a6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-00aa721fe1a13044815f8d74329a7a6f]
+## ANNEX II[^c-00aa721fe1a13044815f8d74329a7a6f]
 
-[^key-00aa721fe1a13044815f8d74329a7a6f] 1.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX III[^c-00aa721fe1a13044815f8d74329a7a6f]
+
+[^c-00aa721fe1a13044815f8d74329a7a6f] 1.
 
 The feasibility study to assess how the quarterly labour cost indices can be obtained for NACE sections L, M, N and O
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-00aa721fe1a13044815f8d74329a7a6f] 2.
+[^c-00aa721fe1a13044815f8d74329a7a6f] 2.
 
 The feasibility study to assess how the index estimating total labour costs excluding bonuses can be obtained
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV[^key-00aa721fe1a13044815f8d74329a7a6f]
+## ANNEX IV[^c-00aa721fe1a13044815f8d74329a7a6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX V — Derogations[^key-00aa721fe1a13044815f8d74329a7a6f]
+## ANNEX V — Derogations[^c-00aa721fe1a13044815f8d74329a7a6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-00aa721fe1a13044815f8d74329a7a6f]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 36](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/36); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-00aa721fe1a13044815f8d74329a7a6f]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 36](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/36); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

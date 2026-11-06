@@ -82,7 +82,7 @@ HAS ADOPTED THIS REGULATION:
 
 ## Article 1. Subject Matter and Scope[^c000001]
 
-1. This Regulation sets out the requirements for technical arrangements for the interoperability and, where practicable, harmonisation of spatial data sets and spatial data services corresponding to the themes listed in Annexes 1, 2 and 3 to Commission Regulation (EC) No. 1205/2008[^key-f78cb6a13c6fc910c8e43bb24bc0a73a].
+1. This Regulation sets out the requirements for technical arrangements for the interoperability and, where practicable, harmonisation of spatial data sets and spatial data services corresponding to the themes listed in Annexes 1, 2 and 3 to Commission Regulation (EC) No. 1205/2008[^c-f78cb6a13c6fc910c8e43bb24bc0a73a].
 
 2. This Regulation does not apply to the network services falling within the scope of Commission Regulation (EC) No 976/2009[^f00002].
 
@@ -91,8 +91,8 @@ HAS ADOPTED THIS REGULATION:
 For the purposes of this Regulation, the following definitions as well as the theme-specific definitions set out in the Annexes shall apply:[^c000002]
 
 - 1.. ‘abstract type’ means a type that cannot be instantiated, but which may have attributes and association roles,
-- 2.. ‘association role’ means a value or object, to which a type has a relationship between spatial objects[^key-2391a1916950e52735ac0b612aa21a5a],
-- 3.. ‘attribute’ means a characteristic which may have an impact on the environment[^key-485ed4219a5a65e06454402d29b9bd2e],
+- 2.. ‘association role’ means a value or object, to which a type has a relationship between spatial objects[^c-2391a1916950e52735ac0b612aa21a5a],
+- 3.. ‘attribute’ means a characteristic which may have an impact on the environment[^c-485ed4219a5a65e06454402d29b9bd2e],
 - 4.. [^c000003]...
 - 5.. ‘code list’ means an open enumeration that can be extended,
 - 6.. ‘data type’ means a descriptor of a set of values that lack identity, in accordance with ISO/TS 19103:2005,
@@ -109,7 +109,7 @@ For the purposes of this Regulation, the following definitions as well as the th
 - 17.. ‘style’ means a mapping from spatial object types and their properties and constraints to parameterized symbols used in drawing maps,
 - 18.. ‘sub-type of’ means a relationship between a more specific type and a more general type, where the more specific type is fully consistent with the more general type and contains additional information, as adapted from ISO/TS 19103:2005,
 - 19.. ‘type’ means spatial object type or data type,
-- 20.. ‘voidable’ means that, for an attribute or association role a value of ‘void’ may be made available if no corresponding value is contained in the spatial data sets maintained by the appropriate authority[^key-0637dfc42323a9af8d2e41e3b220474d] or no corresponding value can be derived from existing values at reasonable costs. If an attribute or association role is not voidable, the table cell specifying its voidability is left blank,
+- 20.. ‘voidable’ means that, for an attribute or association role a value of ‘void’ may be made available if no corresponding value is contained in the spatial data sets maintained by the appropriate authority[^c-0637dfc42323a9af8d2e41e3b220474d] or no corresponding value can be derived from existing values at reasonable costs. If an attribute or association role is not voidable, the table cell specifying its voidability is left blank,
 - 21.. ‘property’ means attribute or association role,[^c000004]
 - 22.. ‘union type’ means a type consisting of one and only one of several alternatives (listed as member attributes), in accordance with ISO/TS 19103:2005,
 - 23.. ‘association class’ means a type that defines additional properties on a relationship between two other types,
@@ -131,18 +131,18 @@ For the purposes of this Regulation, the following definitions as well as the th
 - 36.. ‘conformant spatial data set’ means a spatial data set which fulfils the requirements of this Regulation,
 - 37.. ‘operation’ means an action supported by a spatial data service,
 - 38.. ‘interface’ means the named set of operations that characterise the behaviour of an entity as defined by ISO 19119:2005.
-- 39.. “[^key-5aad648dd10bc5e8ebf27bcd1fb39e79]**appropriate authority**” means—
+- 39.. “[^c-5aad648dd10bc5e8ebf27bcd1fb39e79]**appropriate authority**” means—
   - in relation to England and Wales and Northern Ireland, the Secretary of State;
   - in relation to Scotland, the Scottish Ministers;
 - 40.. any reference to a protected site designated under, or in relation to, Natura 2000 is to be read as a reference to a site which formed part of the Natura 2000 network immediately before exit day or which forms part of any similar or equivalent network under the legislation of any part of the United Kingdom after exit day.
 
 ## Article 3. Common Types
 
-Types that are common to several of the themes listed in Annexes 1, 2 and 3 to Commission Regulation (EC) No 1205/2008[^key-11f80e5bd6ad3d591141045357010a86] shall conform to the definitions and constraints and include the attributes and association roles set out in Annex I.
+Types that are common to several of the themes listed in Annexes 1, 2 and 3 to Commission Regulation (EC) No 1205/2008[^c-11f80e5bd6ad3d591141045357010a86] shall conform to the definitions and constraints and include the attributes and association roles set out in Annex I.
 
 ## Article 4. Types for the Exchange and Classification of Spatial Objects
 
-1. For the exchange and classification of spatial objects from data sets falling within regulation 4 of the INSPIRE Regulations 2009 or, as the case may be, regulation 5 of the INSPIRE (Scotland) Regulations 2009, public authorities[^key-af88ed4b0fd62065ca4a887f3b7cb64d] shall use the spatial object types and associated data types, enumerations and code lists that are defined in Annexes II, III and IV for the themes the data sets relate to.
+1. For the exchange and classification of spatial objects from data sets falling within regulation 4 of the INSPIRE Regulations 2009 or, as the case may be, regulation 5 of the INSPIRE (Scotland) Regulations 2009, public authorities[^c-af88ed4b0fd62065ca4a887f3b7cb64d] shall use the spatial object types and associated data types, enumerations and code lists that are defined in Annexes II, III and IV for the themes the data sets relate to.
 
 2. Spatial object types and data types shall comply with the definitions and constraints and include the attributes and association roles set out in the Annexes.
 
@@ -187,7 +187,7 @@ For the purposes of points (b), (c) and (d), in addition to the allowed values, 
 
 ## Article 8. Updates
 
-1. The appropriate authority[^key-e1dfeeca407d627586555eb5013a1193] shall make available updates of data on a regular basis.
+1. The appropriate authority[^c-e1dfeeca407d627586555eb5013a1193] shall make available updates of data on a regular basis.
 
 2. All updates shall be made at the latest 6 months after the change was applied in the source data set, unless a different period is specified for a specific spatial data theme in the Annexes.
 
@@ -209,7 +209,7 @@ For the purposes of points (b), (c) and (d), in addition to the allowed values, 
 
 ## Article 11. Temporal Reference Systems
 
-1. The default temporal reference system referred to in point 5 of part B of Annex 4[^key-2a090402c3fc5ee29cf00a3ad76c8229] to Commission Regulation (EC) No 1205/2008[^f00004] shall be used, unless other temporal reference systems are specified for a specific spatial data theme in the Annexes.
+1. The default temporal reference system referred to in point 5 of part B of Annex 4[^c-2a090402c3fc5ee29cf00a3ad76c8229] to Commission Regulation (EC) No 1205/2008[^f00004] shall be used, unless other temporal reference systems are specified for a specific spatial data theme in the Annexes.
 
 2. If other temporal reference systems are used, these shall be specified in the data set metadata.
 
@@ -276,7 +276,7 @@ The method used to spatially represent geographic information.
 - (c) the spatial object type shall include the relevant attribute and code list, in parentheses;
 - (d) one example of a layer shall be given.
 
-## Article 14a. Requirements for invocable spatial data services[^key-043530c7115a8d81271779b5737d2407]
+## Article 14a. Requirements for invocable spatial data services[^c-043530c7115a8d81271779b5737d2407]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -284,7 +284,7 @@ The method used to spatially represent geographic information.
 
 The invocable spatial data services relating to the data contained in at least one conformant spatial data set shall fulfil the interoperability requirements set out in Annexes V and VI and, where practicable, the harmonisation requirements set-out in Annex VII.
 
-## Article 15. Entry into force[^key-b392dd578b99c33b0b1c65e67faa96e0]
+## Article 15. Entry into force[^c-b392dd578b99c33b0b1c65e67faa96e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1270,7 +1270,7 @@ The allowed values for this code list comprise the values of the following code 
 - Soil Derived Object Parameter Name (SoilDerivedObjectParameterNameValue): Soil-related properties that can be derived from soil and other data, as specified in Section 3.3.9 of Annex IV.
 - Soil Profile Parameter Name (SoilProfileParameterNameValue): Properties that can be observed to characterize the soil profile, as specified in Section 3.3.12 of Annex IV.
 - Soil Site Parameter Name (SoilSiteParameterNameValue): Properties that can be observed to characterize the soil site, as specified in Section 3.3.13 of Annex IV.
-- EU Air Quality Reference Component (EU\_AirQualityReferenceComponentValue): Definitions of phenomena regarding air quality [^key-c63a67dda8dc7c02a9e9d3a70fce31e1]..., as specified in Section 13.2.1.1 of Annex IV.
+- EU Air Quality Reference Component (EU\_AirQualityReferenceComponentValue): Definitions of phenomena regarding air quality [^c-c63a67dda8dc7c02a9e9d3a70fce31e1]..., as specified in Section 13.2.1.1 of Annex IV.
 - WMO GRIB Code and Flags Table 4.2 (GRIB\_CodeTable4\_2Value): Definitions of phenomena observed in meteorology, as specified in Section 13.2.1.2 of Annex IV.
 - BODC P01 Parameter Usage (BODC\_P01ParameterUsageValue): Definitions of phenomena observed in oceanography, as specified in Section 14.2.1.1 of Annex IV.
 
@@ -1476,7 +1476,7 @@ The package Activity Complex contains the spatial object type Activity Complex.
 
 Activity Complex (ActivityComplex)
 
-A single unit, both technically and economically, under the management control of a legal entity (operator), covering activities listed in the UK Standard Industrial Classification of Economic Activities 2007 (SIC 2007), which came into effect on 1st January 2008 and was published in December 2009[^key-5d75d6e0b828d7f3cc0ae2db9fbb2efd]. Activity Complex must represent the whole area, at the same or different geographical location, managed by the same operator including all infrastructure, equipment and materials.
+A single unit, both technically and economically, under the management control of a legal entity (operator), covering activities listed in the UK Standard Industrial Classification of Economic Activities 2007 (SIC 2007), which came into effect on 1st January 2008 and was published in December 2009[^c-5d75d6e0b828d7f3cc0ae2db9fbb2efd]. Activity Complex must represent the whole area, at the same or different geographical location, managed by the same operator including all infrastructure, equipment and materials.
 
 **Attributes of the spatial object type ActivityComplex**
 
@@ -1586,9 +1586,9 @@ Classification of economic activities.
 
 The allowed values for this code list comprise the values of the following code lists or other code lists specified by data providers:
 
-- the UK Standard Industrial Classification of Economic Activities 2007 (SIC 2007);[^key-0d4b4fd24937c8edb9dee0fc5fb3b44c]
-- EU Waste Statistics Economic Activity Classification (EconomicActivityWasteStatisticsValue): Classification of economic activities according to the table in paragraph 1.1 of[^key-420746c2696d5ac6d99a9fe0e9a327a5] Section 8 of Annex I of Regulation (EC) No 2150/2002[^f00008].
-- EU Waste Recovery Disposal Classification (WasteRecoveryDisposalValue): Classification of waste recovery and disposal operations according to Annexes I and II of Directive 2008/98/EC (as in force immediately before exit day)[^key-c62d1838c0d1e95337715b51f59d120f] of the European Parliament and of the Council[^f00009].
+- the UK Standard Industrial Classification of Economic Activities 2007 (SIC 2007);[^c-0d4b4fd24937c8edb9dee0fc5fb3b44c]
+- EU Waste Statistics Economic Activity Classification (EconomicActivityWasteStatisticsValue): Classification of economic activities according to the table in paragraph 1.1 of[^c-420746c2696d5ac6d99a9fe0e9a327a5] Section 8 of Annex I of Regulation (EC) No 2150/2002[^f00008].
+- EU Waste Recovery Disposal Classification (WasteRecoveryDisposalValue): Classification of waste recovery and disposal operations according to Annexes I and II of Directive 2008/98/EC (as in force immediately before exit day)[^c-c62d1838c0d1e95337715b51f59d120f] of the European Parliament and of the Council[^f00009].
 
 8.1.3.2.
 
@@ -1596,10 +1596,10 @@ Input Or Output (InputOutputValue)
 
 Classification of inputs or outputs.
 
-The allowed values for this code list comprise the values of [^key-b11f9a3c124a2a4d2f07a81f6f1a41d7]... code lists specified by data providers.
+The allowed values for this code list comprise the values of [^c-b11f9a3c124a2a4d2f07a81f6f1a41d7]... code lists specified by data providers.
 
-- [^key-b02b4c9a38b8ab3c5a4a54e54cd32c31]...
-- [^key-b02b4c9a38b8ab3c5a4a54e54cd32c31]...
+- [^c-b02b4c9a38b8ab3c5a4a54e54cd32c31]...
+- [^c-b02b4c9a38b8ab3c5a4a54e54cd32c31]...
 
 8.2.
 
@@ -1607,7 +1607,7 @@ The allowed values for this code list comprise the values of [^key-b11f9a3c124a2
 
 If a data provider uses a sub-type of ActivityComplex to make available information on the status, physical capacity, permissions and/or additional information, the relevant code lists and data types (ConditionOfFacilityValue, Capacity, Permission, ActivityComplexDescription) included in the package Activity Complex shall be used.
 
-## ANNEX II — REQUIREMENTS FOR SPATIAL DATA THEMES LISTED IN Annex 1 to Commission Regulation (EC) No. 1205/2008[^key-0cb9a94ff368e4380e02cd07056e6fa9]
+## ANNEX II — REQUIREMENTS FOR SPATIAL DATA THEMES LISTED IN Annex 1 to Commission Regulation (EC) No. 1205/2008[^c-0cb9a94ff368e4380e02cd07056e6fa9]
 
 1\.
 
@@ -1681,7 +1681,7 @@ For the vertical component, one of the following coordinate reference systems sh
 Exceptions, where other coordinate reference systems than those listed in 1.3.1, 1.3.2 or 1.3.3 may be used, are:
 
 - 1.. Other coordinate reference systems may be specified for specific spatial data themes in this Annex.
-- 2.. [^key-3c9ef4a762b2a6aa8440fe6fb9b4607c]...
+- 2.. [^c-3c9ef4a762b2a6aa8440fe6fb9b4607c]...
 
 The geodetic codes and parameters needed to describe these coordinate reference systems and to allow conversion and transformation operations shall be documented and an identifier shall be created, according to EN ISO 19111 and ISO 19127.
 
@@ -1724,7 +1724,7 @@ In addition to the definitions set out in Article 2, the following definitions s
 Either of the grids with fixed and unambiguously defined locations defined in Sections 2.2.1 and 2.2.2 shall be used as a geo-referencing framework to make gridded data available in INSPIRE, unless one of the following conditions holds:
 
 - ((1)) Other grids may be specified for specific spatial data themes in Annexes II-IV. In this case, data exchanged using such a theme-specific grid shall use standards in which the grid definition is either included with the data, or linked by reference.
-- ((2)) [^key-cfa3ba466ba8b9997ee219fef869fa6a]...
+- ((2)) [^c-cfa3ba466ba8b9997ee219fef869fa6a]...
 
 2.2.1.
 
@@ -1848,7 +1848,7 @@ Any real world entity referred to by one or several proper nouns.
 | geometry | Geometry associated to the named place. This data specification does not restrict the geometry types. | GM\_Object |  |
 | inspireId | External object identifier of the spatial object. | Identifier |  |
 | leastDetailedViewingResolution | Resolution, expressed as the inverse of an indicative scale or a ground distance, above which the named place and its associated name(s) should no longer be displayed in a basic viewing service. | MD\_Resolution | voidable |
-| localType | Characterisation of the kind of entity designated by geographical name(s), as defined by the data provider[^key-366df6804d7d2eb79feb49cf7d314429].... | LocalisedCharacterString | voidable |
+| localType | Characterisation of the kind of entity designated by geographical name(s), as defined by the data provider[^c-366df6804d7d2eb79feb49cf7d314429].... | LocalisedCharacterString | voidable |
 | mostDetailedViewingResolution | Resolution, expressed as the inverse of an indicative scale or a ground distance, below which the named place and its associated name(s) should no longer be displayed in a basic viewing service. | MD\_Resolution | voidable |
 | name | Name of the named place. | GeographicalName |  |
 | relatedSpatialObject | Identifier of a spatial object representing the same entity but appearing in other themes of INSPIRE, if any. | Identifier | voidable |
@@ -1974,14 +1974,14 @@ The allowed values for this code list comprise only the values in the table belo
 
 | Value | Definition |
 | --- | --- |
-| administrativeUnit | Units of administration, dividing areas where jurisdiction is exercised under local, regional or national government[^key-4b5efb50cf10c042698f040b7be9f2fd], separated by administrative boundaries. |
+| administrativeUnit | Units of administration, dividing areas where jurisdiction is exercised under local, regional or national government[^c-4b5efb50cf10c042698f040b7be9f2fd], separated by administrative boundaries. |
 | building | Geographical location of buildings. |
 | hydrography | Hydrographic elements, including marine areas and all other water bodies and items related to them, including river basins and sub-basins. |
 | landcover | Physical and biological cover of the earth's surface including artificial surfaces, agricultural areas, forests, (semi-)natural areas, wetlands. |
 | landform | Geomorphologic terrain feature. |
 | other | A spatial object not included in the other types of the code list. |
 | populatedPlace | A place inhabited by people. |
-| protectedSite | Area designated or managed within a framework of international and national[^key-770bbd59922c38df336036808e72a68a] legislation to achieve specific conservation objectives. |
+| protectedSite | Area designated or managed within a framework of international and national[^c-770bbd59922c38df336036808e72a68a] legislation to achieve specific conservation objectives. |
 | transportNetwork | Road, rail, air, water and cable transport networks and related infrastructure. Includes links between different networks. |
 
 3.3.5.
@@ -2065,7 +2065,7 @@ A line of demarcation between administrative units.
 
 Administrative Unit (AdministrativeUnit)
 
-Unit of administration where jurisdiction is exercised under local, regional or national government[^key-9ab9c94e3da27c5c8a524eda574fca83].
+Unit of administration where jurisdiction is exercised under local, regional or national government[^c-9ab9c94e3da27c5c8a524eda574fca83].
 
 **Attributes of the spatial object type AdministrativeUnit**
 
@@ -2320,7 +2320,7 @@ The allowed values for this code list comprise only the values specified in the 
 
 1\.
 
-Each instance of spatial object type AdministrativeUnit, except for the country level unit representing the appropriate authority[^key-dab13af4861961ee2846f10940f6a443], shall refer exactly to one unit at a higher level of administrative hierarchy. This correspondence shall be expressed by the upperLevelUnit association role of AdministrativeUnit spatial object type.
+Each instance of spatial object type AdministrativeUnit, except for the country level unit representing the appropriate authority[^c-dab13af4861961ee2846f10940f6a443], shall refer exactly to one unit at a higher level of administrative hierarchy. This correspondence shall be expressed by the upperLevelUnit association role of AdministrativeUnit spatial object type.
 
 2\.
 
@@ -2479,7 +2479,7 @@ This type is abstract.
 
 *Administrative Unit Name (AdminUnitName)*
 
-An address component which represents the name of a unit of administration where jurisdiction is exercised under local, regional or national government[^key-63f32de339185bc076bac94708421d10].
+An address component which represents the name of a unit of administration where jurisdiction is exercised under local, regional or national government[^c-63f32de339185bc076bac94708421d10].
 
 This type is a sub-type of AddressComponent.
 
@@ -2578,7 +2578,7 @@ Representation of an address spatial object for use in external application sche
 | Attribute | Definition | Type | Voidability |
 | --- | --- | --- | --- |
 | addressArea | The name or names of a geographic area or locality that groups a number of addressable objects for addressing purposes, without being an administrative unit. | GeographicalName | voidable |
-| adminUnit | The name or names of a unit of administration where jurisdiction is exercised under local, regional or national government[^key-1e7ba33951484c49541b5e7eb865f0dd]. | GeographicalName |  |
+| adminUnit | The name or names of a unit of administration where jurisdiction is exercised under local, regional or national government[^c-1e7ba33951484c49541b5e7eb865f0dd]. | GeographicalName |  |
 | locatorDesignator | A number or a sequence of characters which allows a user or an application to interpret, parse and format the locator within the relevant scope. A locator may include more locator designators. | CharacterString |  |
 | locatorName | Proper noun(s) applied to the real world entity identified by the locator. | GeographicalName |  |
 | postCode | A code created and maintained for postal purposes to identify a subdivision of addresses and postal delivery points. | CharacterString | voidable |
@@ -2861,7 +2861,7 @@ The following spatial object types shall be used for the exchange and classifica
 
 Cadastral Parcels shall always be made available.
 
-Basic property units shall be made available by the appropriate authority[^key-bf72b5d83278494df51124cc0ff5459a] where unique cadastral references are given only for basic property units and not for parcels.
+Basic property units shall be made available by the appropriate authority[^c-bf72b5d83278494df51124cc0ff5459a] where unique cadastral references are given only for basic property units and not for parcels.
 
 Cadastral boundaries shall be made available by the appropriate authority where absolute positional accuracy information is recorded for the cadastral boundary.
 
@@ -2973,7 +2973,7 @@ Intermediary areas used in order to divide national territory into cadastral par
 | inspireId | External object identifier of spatial object. | Identifier |  |
 | label | Text commonly used to display the cadastral zoning identification. | CharacterString |  |
 | level | Level of the cadastral zoning in the national cadastral hierarchy. | CadastralZoningLevelValue | voidable |
-| levelName | Name of the level of the cadastral zoning in the national cadastral hierarchy[^key-53140f357d9cb652e7a76859960619cb].... | LocalisedCharacterString | voidable |
+| levelName | Name of the level of the cadastral zoning in the national cadastral hierarchy[^c-53140f357d9cb652e7a76859960619cb].... | LocalisedCharacterString | voidable |
 | name | Name of the cadastral zoning. | GeographicalName | voidable |
 | nationalCadastalZoningReference | Thematic identifier at national level, generally the full national code of the cadastral zoning. | CharacterString |  |
 | originalMapScaleDenominator | The denominator in the scale of the original paper map (if any) to whose extent the cadastral zoning corresponds. | Integer | voidable |
@@ -4343,7 +4343,7 @@ This type is a sub-type of TransportLinkSet.
 
 | Attribute | Definition | Type | Voidability |
 | --- | --- | --- | --- |
-| railwayLineCode | A code assigned to a railway line which is unique [^key-16604aeb9f124fc548e2488bd46c6cd3].... | CharacterString | voidable |
+| railwayLineCode | A code assigned to a railway line which is unique [^c-16604aeb9f124fc548e2488bd46c6cd3].... | CharacterString | voidable |
 
 7.6.1.7.
 
@@ -4824,7 +4824,7 @@ This type is a sub-type of TransportProperty.
 | speedLimitMinMaxType | Indicates if the speed limit is maximum or minimum and if it is recommended. | SpeedLimitMinMaxValue |  |
 | speedLimitSource | Source for speed limit. | SpeedLimitSourceValue | voidable |
 | speedLimitValue | Value for speed limit. | Velocity |  |
-| startLane | Index of the first lane to which speed limit applies, where[^key-0c131bbeb6fd64d1f3acc2d3d879e27a] the index 1 refers to the leftmost lane, and the index is incremented to the right. | Integer | voidable |
+| startLane | Index of the first lane to which speed limit applies, where[^c-0c131bbeb6fd64d1f3acc2d3d879e27a] the index 1 refers to the leftmost lane, and the index is incremented to the right. | Integer | voidable |
 | validityPeriod | Period during which the speed limit is valid. | TM\_Period | voidable |
 | vehicleType | Vehicle type the speed limit is restricted to. | VehicleTypeValue | voidable |
 | weatherCondition | Weather condition the speed limit is dependent on. | WeatherConditionValue | voidable |
@@ -5476,7 +5476,7 @@ Transport Networks centreline representations and nodes shall always be located 
 
 2\.
 
-Connectivity between Transport Networks across state borders and – where applicable – also across regional borders (and data sets) [^key-bedd8c166d88e94855d22458542064bf]... shall be established and maintained by the respective authorities, using the cross-border connectivity mechanisms provided by the NetworkConnection type.
+Connectivity between Transport Networks across state borders and – where applicable – also across regional borders (and data sets) [^c-bedd8c166d88e94855d22458542064bf]... shall be established and maintained by the respective authorities, using the cross-border connectivity mechanisms provided by the NetworkConnection type.
 
 7.9.2.
 
@@ -6406,11 +6406,11 @@ Hydrography links, centrelines and nodes shall always be located within the exte
 
 2\.
 
-Connectivity between hydrographic networks across state borders and – where applicable – also across regional borders (and data sets) [^key-c188a8daebade05fd6667a976710a447]... shall be established and maintained by the respective authorities, using the cross-border connectivity mechanisms provided by the NetworkConnection type.
+Connectivity between hydrographic networks across state borders and – where applicable – also across regional borders (and data sets) [^c-c188a8daebade05fd6667a976710a447]... shall be established and maintained by the respective authorities, using the cross-border connectivity mechanisms provided by the NetworkConnection type.
 
 3\.
 
-All attribution of objects in this schema shall be the same as the equivalent property of that object , if any, that was used for reporting under Directive 2000/60/EC immediately before exit day[^key-fb9dc6aa7711141120ba5d55bcbfe578].
+All attribution of objects in this schema shall be the same as the equivalent property of that object , if any, that was used for reporting under Directive 2000/60/EC immediately before exit day[^c-fb9dc6aa7711141120ba5d55bcbfe578].
 
 8.7.2.
 
@@ -6422,7 +6422,7 @@ If a geographical name is used as a unique hydrologic ID for an object in this s
 
 2\.
 
-The localId attribute of the external object identifier of a spatial object shall be the same as the ID , if any, that was used for reporting under Directive 2000/60/EC immediately before exit day[^key-26fa1d40d111665ab665e5d412ba3896].
+The localId attribute of the external object identifier of a spatial object shall be the same as the ID , if any, that was used for reporting under Directive 2000/60/EC immediately before exit day[^c-26fa1d40d111665ab665e5d412ba3896].
 
 8.7.3.
 
@@ -6454,7 +6454,7 @@ In a hydrographic network data set which contains nodes, these nodes shall only 
 
 4\.
 
-The geometry shall be the same as the geometry , if any, that was used for reporting under Directive 2000/60/EC immediately before exit day[^key-7c8b3a0af6af4ab2184fae6a457f36a0].
+The geometry shall be the same as the geometry , if any, that was used for reporting under Directive 2000/60/EC immediately before exit day[^c-7c8b3a0af6af4ab2184fae6a457f36a0].
 
 8.7.5.
 
@@ -6523,7 +6523,7 @@ The following spatial object types shall be used for the exchange and classifica
 
 *Protected Site (ProtectedSite)*
 
-An area designated or managed within a framework of international and national[^key-f7e372bc5bfa440a406ffe1ebbb5d2e0] legislation to achieve specific conservation objectives.
+An area designated or managed within a framework of international and national[^c-f7e372bc5bfa440a406ffe1ebbb5d2e0] legislation to achieve specific conservation objectives.
 
 **Attributes of the spatial object type ProtectedSite**
 
@@ -6591,7 +6591,7 @@ The protected site classification based on the purpose of protection.
 
 The scheme used to assign a designation to the Protected Sites.
 
-Data publishers may use additional codes to those set out in the list below[^key-7370eae31a013b71ba26a55552f5fc11].
+Data publishers may use additional codes to those set out in the list below[^c-7370eae31a013b71ba26a55552f5fc11].
 
 **Values for the code list DesignationSchemeValue**
 
@@ -6600,7 +6600,7 @@ Data publishers may use additional codes to those set out in the list below[^key
 | emeraldNetwork | The Protected Site has a designation under the Emerald Network. |
 | IUCN | The Protected Site has a classification using the International Union for Conservation of Nature classification scheme. |
 | nationalMonumentsRecord | The Protected Site has a classification using the National Monuments Record classification scheme. |
-| [^key-41f5b1722cbd83e6cb9e29165a093af1]. . . | [^key-41f5b1722cbd83e6cb9e29165a093af1]. . . |
+| [^c-41f5b1722cbd83e6cb9e29165a093af1]. . . | [^c-41f5b1722cbd83e6cb9e29165a093af1]. . . |
 | ramsar | The Protected Site has a designation under the Ramsar Convention. |
 | UNESCOManAndBiosphereProgramme | The Protected Site has a designation under UNESCO Man and Biosphere programme. |
 | UNESCOWorldHeritage | The Protected Site has a designation under UNESCO World Heritage Convention. |
@@ -6672,7 +6672,7 @@ The allowed values for this code list comprise only the values in the table belo
 
 *Natura2000 Designation (Natura2000DesignationValue)*
 
-A code list for the Natura2000 designation scheme[^key-e1ba8da06cc26b42e89aaf8fdb7f94c6]....
+A code list for the Natura2000 designation scheme[^c-e1ba8da06cc26b42e89aaf8fdb7f94c6]....
 
 This type is a sub-type of DesignationValue.
 
@@ -6748,7 +6748,7 @@ The allowed values for this code list comprise only the values in the table belo
 | --- | --- | --- |
 | PS.ProtectedSite | Protected Sites | ProtectedSite |
 
-## ANNEX III — REQUIREMENTS FOR SPATIAL DATA THEMES LISTED IN Annex 2 to Commission Regulation (EC) No. 1205/2008[^key-1b6aa590459d069838e7fe4152b80ed8]
+## ANNEX III — REQUIREMENTS FOR SPATIAL DATA THEMES LISTED IN Annex 2 to Commission Regulation (EC) No. 1205/2008[^c-1b6aa590459d069838e7fe4152b80ed8]
 
 1\.
 
@@ -7221,7 +7221,7 @@ For measuring the depth of the sea floor in marine areas without an appreciable 
 
 (3)
 
-The height of the reference level to which the depth of the floor of an inland water body is measured shall be referred to a gravity-related vertical reference system. This shall be the European Vertical Reference System (EVRS) for the areas within the geographical scope of EVRS, or the gravity-related vertical reference system identified by the appropriate authority[^key-1d13b027f68cd99bb8594972a6f5adb5] outside the scope of EVRS.
+The height of the reference level to which the depth of the floor of an inland water body is measured shall be referred to a gravity-related vertical reference system. This shall be the European Vertical Reference System (EVRS) for the areas within the geographical scope of EVRS, or the gravity-related vertical reference system identified by the appropriate authority[^c-1d13b027f68cd99bb8594972a6f5adb5] outside the scope of EVRS.
 
 (4)
 
@@ -9215,7 +9215,7 @@ The allowed values for this code list comprise the values specified in the table
 
 [^f00014][^f00015][^f00016][^f00017][^f00018]
 
-## ANNEX IV — REQUIREMENTS FOR SPATIAL DATA THEMES LISTED IN Annex 3 to Commission Regulation (EC) No. 1205/2008[^key-dbf046864befaac88b2d3395595edfdf]
+## ANNEX IV — REQUIREMENTS FOR SPATIAL DATA THEMES LISTED IN Annex 3 to Commission Regulation (EC) No. 1205/2008[^c-dbf046864befaac88b2d3395595edfdf]
 
 1\.
 
@@ -9579,7 +9579,7 @@ At least the geometry of statistical units, for which statistical data are made 
 
 (2)
 
-[^key-59402eb24a6094f7deb19e3e5b35c26b]...
+[^c-59402eb24a6094f7deb19e3e5b35c26b]...
 
 (3)
 
@@ -11328,7 +11328,7 @@ The package planned land use contains the following spatial object types:
 
 Official Documentation (OfficialDocumentation)
 
-The official documentation that composes the spatial plan; it may be composed of the applicable legislation, the regulations, cartographic elements, descriptive elements that may be associated with the complete spatial plan, a zoning element or a supplementary regulation. The[^key-9bebfeb9ac2dcd35588436e69624ed64] textual regulation will be part of the data set (and can be put in the regulationText attribute) or[^key-ea36cd117ebd0c9e8a1a48fdf25b3f80] the text will not be part of the data set and will be referenced via a reference to a document or a legal act. At least one of the three voidable values shall be provided.
+The official documentation that composes the spatial plan; it may be composed of the applicable legislation, the regulations, cartographic elements, descriptive elements that may be associated with the complete spatial plan, a zoning element or a supplementary regulation. The[^c-9bebfeb9ac2dcd35588436e69624ed64] textual regulation will be part of the data set (and can be put in the regulationText attribute) or[^c-ea36cd117ebd0c9e8a1a48fdf25b3f80] the text will not be part of the data set and will be referenced via a reference to a document or a legal act. At least one of the three voidable values shall be provided.
 
 **Attributes of the spatial object type OfficialDocumentation**
 
@@ -11347,7 +11347,7 @@ At least one of the attributes legislationCitation, regulationText or planDocume
 
 Spatial Plan (SpatialPlan)
 
-A set of documents that indicates a strategic direction for the development of a given geographic area, states the policies, priorities, programmes and land allocations that will implement the strategic direction and influences the distribution of people and activities in spaces of various scales. Spatial plans may be developed for urban planning, regional planning, environmental planning, landscape planning, national spatial plans[^key-19ea378793faccaf0ce69b236d395c27]....
+A set of documents that indicates a strategic direction for the development of a given geographic area, states the policies, priorities, programmes and land allocations that will implement the strategic direction and influences the distribution of people and activities in spaces of various scales. Spatial plans may be developed for urban planning, regional planning, environmental planning, landscape planning, national spatial plans[^c-19ea378793faccaf0ce69b236d395c27]....
 
 **Attributes of the spatial object type SpatialPlan**
 
@@ -11362,7 +11362,7 @@ A set of documents that indicates a strategic direction for the development of a
 | validFrom | First date at which this spatial plan is valid in reality. | DateTime | voidable |
 | validTo | The time from which the spatial plan no longer exists in the real world. | DateTime | voidable |
 | alternativeTitle | Alternative (unofficial) title of the spatial plan. | CharacterString | voidable |
-| planTypeName | Name of the type of plan [^key-77843b97d658d7fbdee344dc1b5499fa].... | PlanTypeNameValue |  |
+| planTypeName | Name of the type of plan [^c-77843b97d658d7fbdee344dc1b5499fa].... | PlanTypeNameValue |  |
 | processStepGeneral | General indication of the step of the planning process that the plan is undergoing. | ProcessStepGeneralValue | voidable |
 | backgroundMap | Identification of the background map that has been used for constructing this plan. | BackgroundMapValue | voidable |
 | ordinance | Reference to relevant administrative ordinance. | OrdinanceValue | voidable |
@@ -11570,7 +11570,7 @@ The allowed values for this code list comprise only the values specified in the 
 </tbody>
 </table>
 
-[^key-eac7d956eb59b46118f4a7150a1429da][^f00021][^key-b39c39987f9b94667126dc1da26fb73b][^key-53e20da853911d0e8b65a8a06cf1666d]
+[^c-eac7d956eb59b46118f4a7150a1429da][^f00021][^c-b39c39987f9b94667126dc1da26fb73b][^c-53e20da853911d0e8b65a8a06cf1666d]
 
 4.7.3.2.
 
@@ -11611,7 +11611,7 @@ The allowed values for this code list comprise only the values specified in the 
 
 Plan Type Name (PlanTypeNameValue)
 
-[^key-b61485041ac1dfac54e449841a53f92a]... The allowed values for this code list comprise any values defined by data providers.
+[^c-b61485041ac1dfac54e449841a53f92a]... The allowed values for this code list comprise any values defined by data providers.
 
 4.7.3.5.
 
@@ -11649,11 +11649,11 @@ Where a zone has been established to regulate planned land use and defined withi
 
 (4)
 
-Based on the INSPIRE horizontal coordinate reference system, each appropriate authority[^key-e646058ec0751a39a13daba8061bbc8c] shall define a projection or a set of projections suitable for working with the underlying cadastral parcels on national territory and cross-border areas where applicable for a SpatialPlan. A projection is suitable if it offers few linear alterations (ideally less than 50 cm per 500 m) and so enables users to measure distances and surfaces in meaningful way. This projection or set of projections has to be defined in agreement with neighbouring countries. This projection or set of projections must be well documented to allow the conversion from and to the common Coordinate Reference System. The documentation shall be provided according to ISO 19111, which states how a projected coordinate reference system must be described.
+Based on the INSPIRE horizontal coordinate reference system, each appropriate authority[^c-e646058ec0751a39a13daba8061bbc8c] shall define a projection or a set of projections suitable for working with the underlying cadastral parcels on national territory and cross-border areas where applicable for a SpatialPlan. A projection is suitable if it offers few linear alterations (ideally less than 50 cm per 500 m) and so enables users to measure distances and surfaces in meaningful way. This projection or set of projections has to be defined in agreement with neighbouring countries. This projection or set of projections must be well documented to allow the conversion from and to the common Coordinate Reference System. The documentation shall be provided according to ISO 19111, which states how a projected coordinate reference system must be described.
 
 (5)
 
-The use of the common metadata element ‘Spatial Resolution’ (according to Section 6.2 of part B of Annex 4[^key-4eda3f2b651e917df8f7600b8093f89a] to Regulation (EC) No 1205/2008) shall be restricted to providing a resolution distance.
+The use of the common metadata element ‘Spatial Resolution’ (according to Section 6.2 of part B of Annex 4[^c-4eda3f2b651e917df8f7600b8093f89a] to Regulation (EC) No 1205/2008) shall be restricted to providing a resolution distance.
 
 (6)
 
@@ -11778,7 +11778,7 @@ This type is a sub-type of HealthStatisticalData.
 
 *Health Services Statistic (HealthServicesStatistic)*
 
-Health Care/Services statistical data on NUTS 1 and 2 level and municipality , where “ NUTS 1 ” and “NUTS 2” mean the regions or areas of the United Kingdom within the columns headed “NUTS 1” and “NUTS 2” in the table for the United Kingdom in Annex I to Regulation (EC) No. 1059/2003[^key-027f51b4bc0f5519147f4c5fb6c5fc8e].
+Health Care/Services statistical data on NUTS 1 and 2 level and municipality , where “ NUTS 1 ” and “NUTS 2” mean the regions or areas of the United Kingdom within the columns headed “NUTS 1” and “NUTS 2” in the table for the United Kingdom in Annex I to Regulation (EC) No. 1059/2003[^c-027f51b4bc0f5519147f4c5fb6c5fc8e].
 
 This type is a sub-type of HealthStatisticalData.
 
@@ -12934,7 +12934,7 @@ The package Administrative and Social Governmental Services contains the spatial
 
 Governmental Service (GovernmentalService)
 
-Administrative and social governmental services such as public administrations, civil protection sites, schools and hospitals provided by Public Administrative Bodies or by private institutions as far as they are covered by the INSPIRE Regulations 2009 or, as the case may be, the INSPIRE (Scotland) Regulations 2009[^key-2fc852cc28d7940492f379a008e7701a]. This scope is mapped to the values of the corresponding code list ServiceTypeValue.
+Administrative and social governmental services such as public administrations, civil protection sites, schools and hospitals provided by Public Administrative Bodies or by private institutions as far as they are covered by the INSPIRE Regulations 2009 or, as the case may be, the INSPIRE (Scotland) Regulations 2009[^c-2fc852cc28d7940492f379a008e7701a]. This scope is mapped to the values of the corresponding code list ServiceTypeValue.
 
 **Attributes of the spatial object type GovernmentalService**
 
@@ -13677,8 +13677,8 @@ AGRICULTURAL AND AQUACULTURE FACILITIES
 
 In addition to the definitions set out in Article 2, the following definition shall apply:
 
-- ((1)) ‘Agriculture’ means the set of process and activities consisting in cultivating soils, producing crops and rearing animals; it includes harvesting, milking, breeding animals and keeping animals for farming purposes , and[^key-fd94433f57b5a80aad30f89ea70feca9] maintaining the land in good agricultural and environmental condition shall be considered as an agricultural activity.
-- ((2)) ‘Livestock’ refers to animals being bred and/or raised for use or profit (covered by the activities defined under codes A.01.4 (animal production) and A.01.5 (mixed farming) of the UK Standard Industrial Classification of Economic Activities 2007 (SIC 2007)[^key-b707ae731b47082ea6527dc91d31290a]).
+- ((1)) ‘Agriculture’ means the set of process and activities consisting in cultivating soils, producing crops and rearing animals; it includes harvesting, milking, breeding animals and keeping animals for farming purposes , and[^c-fd94433f57b5a80aad30f89ea70feca9] maintaining the land in good agricultural and environmental condition shall be considered as an agricultural activity.
+- ((2)) ‘Livestock’ refers to animals being bred and/or raised for use or profit (covered by the activities defined under codes A.01.4 (animal production) and A.01.5 (mixed farming) of the UK Standard Industrial Classification of Economic Activities 2007 (SIC 2007)[^c-b707ae731b47082ea6527dc91d31290a]).
 - ((3)) ‘Aquaculture’ means the set of activities and techniques related to the production, breeding and treatment of fish, molluscs, seaweed and other kinds of aquatic resources (vegetables or animal).
 
 9.2.
@@ -13942,7 +13942,7 @@ The allowed values for this code list comprise the values of the following code 
 | 100+ | 100 | 100 and more |
 
 - Age By Year (AgeByYearValue): Code values for age by year classification items, including one value for each one-year interval. The first value shall be ‘0-1’ with the label ‘0-1’ and the definition ‘0 to less than 1 year’, and the last value shall be ‘100+’ with label ‘100+’ and the definition ‘100 years or older’.
-- NACE Code (NACECodeValue): Classification of economic activities according to Eurostat NACE, as specified in Annex I (NACE Rev. 2) to[^key-dd449aa7c8aef567adccba2c4910346b] Regulation (EC) No 1893/2006 of the European Parliament and of the Council and narrower values defined by data providers.
+- NACE Code (NACECodeValue): Classification of economic activities according to Eurostat NACE, as specified in Annex I (NACE Rev. 2) to[^c-dd449aa7c8aef567adccba2c4910346b] Regulation (EC) No 1893/2006 of the European Parliament and of the Council and narrower values defined by data providers.
 - Gender (GenderValue): Gender of a person or group of persons, as specified in Section 4.6 of Annex I.
 
 10.3.3.
@@ -14118,7 +14118,7 @@ The allowed values for this code list comprise the values specified in the table
 </tbody>
 </table>
 
-[^key-70d9d47dcfe53d6f15dc14088bb42349][^key-cbec75c949e4cc4c5c9bd52d9d6b4d5f][^key-3d4b3600b8c1198640a3d49218cee6af][^f00025][^key-e5bf3ba08558da202f2bb268b2322eb0][^key-4eb6724a18e39cc2a3c4c7a67b65eae8][^key-3d743f9c62761314369646e8b05f7b21][^key-fee0c8bfbb8b992491289e63a9fa9028][^key-737d9ea22693ae0888cd5ebc301c0068][^key-358a30e6bf5b25a8155582d6277f299f][^key-ae6a9ca9a484bd29a8884d16f6ff0fe8][^key-09e81fe7f814da8516b38f88bba69fe6]
+[^c-70d9d47dcfe53d6f15dc14088bb42349][^c-cbec75c949e4cc4c5c9bd52d9d6b4d5f][^c-3d4b3600b8c1198640a3d49218cee6af][^f00025][^c-e5bf3ba08558da202f2bb268b2322eb0][^c-4eb6724a18e39cc2a3c4c7a67b65eae8][^c-3d743f9c62761314369646e8b05f7b21][^c-fee0c8bfbb8b992491289e63a9fa9028][^c-737d9ea22693ae0888cd5ebc301c0068][^c-358a30e6bf5b25a8155582d6277f299f][^c-ae6a9ca9a484bd29a8884d16f6ff0fe8][^c-09e81fe7f814da8516b38f88bba69fe6]
 
 11.3.2.
 
@@ -14173,7 +14173,7 @@ If the geometries of the spatial objects in a ManagementRestrictionOrRegulationZ
 Data providers shall include the following keywords in addition to the mandatory keywords defined in Regulation (EC) 1205/2008:
 
 - ((a)) One or several keywords describing the high-level classification of the zone type(s) included in the data set, as defined in ZoneTypeCode code list.
-- ((b)) One or several keywords describing the official document number(s) of the legal instrument(s) under which the zone(s) included in the data set is (are) established. [^key-ee70f0b69780057c4a8087aacffa5a31]...
+- ((b)) One or several keywords describing the official document number(s) of the legal instrument(s) under which the zone(s) included in the data set is (are) established. [^c-ee70f0b69780057c4a8087aacffa5a31]...
 
 11.4.2.
 
@@ -14757,7 +14757,7 @@ The types specified for the spatial data themes Atmospheric Conditions and Meteo
 
 EU Air Quality Reference Component (EU\_AirQualityReferenceComponentValue)
 
-Definitions of phenomena regarding air quality [^key-0bba46d4a2204b1e753df53899fa8ae8]....
+Definitions of phenomena regarding air quality [^c-0bba46d4a2204b1e753df53899fa8ae8]....
 
 The allowed values for this code list comprise any values defined by data providers.
 
@@ -14787,7 +14787,7 @@ Data related to the themes Atmospheric Conditions or Meteorological Geographical
 
 (3)
 
-The observed property of an OM\_Observation shall be identified by an identifier from [^key-3b89eb160135fb5f4e36dcc255b95ae2]... the WMO GRIB Code & Flags Table 4.2, the Climate and Forecast Standard Names vocabularies or another appropriate vocabulary.
+The observed property of an OM\_Observation shall be identified by an identifier from [^c-3b89eb160135fb5f4e36dcc255b95ae2]... the WMO GRIB Code & Flags Table 4.2, the Climate and Forecast Standard Names vocabularies or another appropriate vocabulary.
 
 13.4.
 
@@ -15285,8 +15285,8 @@ Codes used to define the various bio-geographical regions.
 
 The allowed values for this code list comprise the values of the following code lists or other code lists defined by data providers:
 
-- Environmental Stratification Classification (EnvironmentalStratificationClassificationValue): Codes for the climatic stratification of the environment in the European[^key-31dec6482ada5dbc3a2247faae20134f] Union, as specified in Metzger, M.J., Shkaruba, A.D., Jongman, R.H.G. & Bunce, R.G.H., *Descriptions of the European Environmental Zones and Strata* . Alterra, Wageningen, 2012.
-- [^key-59177ee61c30335157f5de54d4f73e7b]...
+- Environmental Stratification Classification (EnvironmentalStratificationClassificationValue): Codes for the climatic stratification of the environment in the European[^c-31dec6482ada5dbc3a2247faae20134f] Union, as specified in Metzger, M.J., Shkaruba, A.D., Jongman, R.H.G. & Bunce, R.G.H., *Descriptions of the European Environmental Zones and Strata* . Alterra, Wageningen, 2012.
+- [^c-59177ee61c30335157f5de54d4f73e7b]...
 - Natura 2000 And Emerald Bio-geographical Region Classification (Natura2000AndEmeraldBio-geographicalRegionClassificationValue): Codes for the classification of bio-geographical regions, as specified in the Code List for Bio-geographical Regions, Europe 2011, published on the web site of the European Environment Agency.
 - Natural Vegetation Classification (NaturalVegetationClassificationValue): Codes for the natural vegetation classification, as specified in the main formations in Bohn, U., Gollub, G., and Hettwer, C., *Map of the natural vegetation of Europe: scale 1:2,500,000, Part 2: Legend* , Bundesamt für Naturschutz (German Federal Agency for Nature conservation), Bonn, 2000.
 
@@ -15435,8 +15435,8 @@ Values used in the Pan-European habitat classification schemes.
 The allowed values for this code list comprise the values of the following code lists:
 
 - EUNIS Habitat Type Code (EunisHabitatTypeCodeValue): Classification of habitat types according to the EUNIS Biodiversity database, as specified in the EUNIS habitat types classification published on the web site of the European Environment Agency.
-- Habitats Directive Code (HabitatsDirectiveCodeValue): Classification of habitat types according to the code list set out in[^key-ef80131c9344c7204d1fd6162dfa5949] Annex I to Directive 92/43/EEC (as in force immediately before exit day)[^key-851ff39f09acedb77984ae5105700de0].
-- Marine Strategy Framework Directive Code (MarineStrategyFrameworkDirectiveCodeValue): Classification of habitat types according to table 1 of Annex III to Directive 2008/56/EC (as in force immediately before exit day)[^key-b89db58ddd727d4d0723bd4ed8bbeee7].
+- Habitats Directive Code (HabitatsDirectiveCodeValue): Classification of habitat types according to the code list set out in[^c-ef80131c9344c7204d1fd6162dfa5949] Annex I to Directive 92/43/EEC (as in force immediately before exit day)[^c-851ff39f09acedb77984ae5105700de0].
+- Marine Strategy Framework Directive Code (MarineStrategyFrameworkDirectiveCodeValue): Classification of habitat types according to table 1 of Annex III to Directive 2008/56/EC (as in force immediately before exit day)[^c-b89db58ddd727d4d0723bd4ed8bbeee7].
 
 17.4.3.
 
@@ -15451,8 +15451,8 @@ The allowed values for this code list comprise only the values specified in the 
 | Value | Name | Definition |
 | --- | --- | --- |
 | eunis | Eunis | EUNIS habitat classification. |
-| habitats[^key-285c4a7ed9405993c50414f3b3c8335e]... | Habitats [^key-285c4a7ed9405993c50414f3b3c8335e]... | Classification of habitats according to the code list set out in Annex I to Directive 92/43/EEC (as in force immediately before exit day)[^key-dc013bc07eaceb1e1e9ac7e9f48fd38e]. |
-| marineStrategyFramework[^key-285c4a7ed9405993c50414f3b3c8335e]... | Marine strategy framework [^key-285c4a7ed9405993c50414f3b3c8335e]... | Classification of habitats according to table 1 of Annex III to Directive 2008/56/EC (as in force immediately before exit day)[^key-1fe690c8e8e263732d8c13d99b06f7e8]. |
+| habitats[^c-285c4a7ed9405993c50414f3b3c8335e]... | Habitats [^c-285c4a7ed9405993c50414f3b3c8335e]... | Classification of habitats according to the code list set out in Annex I to Directive 92/43/EEC (as in force immediately before exit day)[^c-dc013bc07eaceb1e1e9ac7e9f48fd38e]. |
+| marineStrategyFramework[^c-285c4a7ed9405993c50414f3b3c8335e]... | Marine strategy framework [^c-285c4a7ed9405993c50414f3b3c8335e]... | Classification of habitats according to table 1 of Annex III to Directive 2008/56/EC (as in force immediately before exit day)[^c-1fe690c8e8e263732d8c13d99b06f7e8]. |
 
 17.4.4.
 
@@ -15650,7 +15650,7 @@ The allowed values for this code list comprise any values defined by data provid
 Data providers may use the values specified for one of the following code lists in the INSPIRE Technical Guidance document on Species Distribution:
 
 - General Counting Unit (GeneralCountingUnitValue): The unit used to express a counted or estimated number indicating the abundance within a SpeciesAggregationUnit (e.g. occurrences or the population size).
-- Article 17 Counting Unit (Article17CountingUnitValue): Any unit (“the pre-exit reporting unit”) that was used immediately before exit day for the purpose of[^key-df8320d9b5f17a9c52e9601c5db3dd09] reporting pursuant to Article 17 of Directive 92/43/EEC (as in force immediately before exit day), or any unit that is similar to, and which conveys the same information as, the pre-exit reporting unit[^key-c396d5919f76d243f7347301686ff557]. This unit expresses a counted or estimated number indicating the abundance within a species distribution unit (e.g. occurrences or the population size).
+- Article 17 Counting Unit (Article17CountingUnitValue): Any unit (“the pre-exit reporting unit”) that was used immediately before exit day for the purpose of[^c-df8320d9b5f17a9c52e9601c5db3dd09] reporting pursuant to Article 17 of Directive 92/43/EEC (as in force immediately before exit day), or any unit that is similar to, and which conveys the same information as, the pre-exit reporting unit[^c-c396d5919f76d243f7347301686ff557]. This unit expresses a counted or estimated number indicating the abundance within a species distribution unit (e.g. occurrences or the population size).
 
 18.4.3.
 
@@ -15716,7 +15716,7 @@ The allowed values for this code list comprise the values of the following code 
 
 - EU-Nomen Code (EuNomenCodeValue): Reference lists containing the EU-Nomen species identifiers, as specified in the Pan-European Species directories Infrastructure available through the EU-Nomen portal.
 - EUNIS Species Code (EunisSpeciesCodeValue): Reference lists containing the EUNIS species identifiers, as specified in EUNIS Biodiversity database published on the web site of the European Environment Agency.
-- [^key-04e589b19dbaf49f2e01bdcc8449164b]...
+- [^c-04e589b19dbaf49f2e01bdcc8449164b]...
 
 18.4.8.
 
@@ -15732,7 +15732,7 @@ The allowed values for this code list comprise only the values specified in the 
 | --- | --- | --- |
 | eunomen | Eunomen | Names and taxonomic concepts as defined by the Pan European Species Inventory, published by the EU-Nomen portal. |
 | eunis | Eunis | Names and taxonomic concepts as defined by the EUNIS Species list. |
-| nature[^key-9bd8c2bbaea5921cf2a49b11fad394da] | Nature [^key-8ddf404b3f8ff54c9797da01c26d5bab]... | Names and taxonomic concepts as defined by the species lists set out in Annexes I, II and III to Directive 2009/147/EC (Birds Directive) and Annexes I, II, IV and V to Directive 92/43/EEC (Habitats Directive), as each was in force immediately before exit day[^key-8ed48783e6e48f28fd08e609bb617fec]. |
+| nature[^c-9bd8c2bbaea5921cf2a49b11fad394da] | Nature [^c-8ddf404b3f8ff54c9797da01c26d5bab]... | Names and taxonomic concepts as defined by the species lists set out in Annexes I, II and III to Directive 2009/147/EC (Birds Directive) and Annexes I, II, IV and V to Directive 92/43/EEC (Habitats Directive), as each was in force immediately before exit day[^c-8ed48783e6e48f28fd08e609bb617fec]. |
 
 18.4.9.
 
@@ -15796,7 +15796,7 @@ In addition to the definitions set out in Article 2, the following definitions s
 - ((5)) ‘fossil fuels’ means a form of non-renewable primary energy formed by natural processes such as the anaerobic decomposition of buried dead organisms, which contains high percentages of carbon and includes coal, crude oil, and natural gas.
 - ((6)) ‘primary energy’ means energy that has not been subjected to any conversion or transformation process.
 - ((7)) ‘non-renewable energy’ means natural resources which, due to long-term formation, cannot be produced, grown, generated, or used on a scale which can sustain its consumption rate.
-- ((8)) ‘energy from renewable sources’ means energy from renewable non-fossil sources, namely wind, solar, aerothermal, geothermal, hydrothermal and ocean energy, hydropower, biomass, landfill gas, sewage treatment plant gas and biogases[^key-a4a538084c3bd9dcba1b5462174b60ad]....
+- ((8)) ‘energy from renewable sources’ means energy from renewable non-fossil sources, namely wind, solar, aerothermal, geothermal, hydrothermal and ocean energy, hydropower, biomass, landfill gas, sewage treatment plant gas and biogases[^c-a4a538084c3bd9dcba1b5462174b60ad]....
 - ((9)) ‘waste as energy resources’ means a fuel that may consist of many different materials coming from combustible industrial, institutional, hospital and household waste such as rubber, plastics, waste fossil oils and other similar commodities. It is either solid or liquid in form, renewable or non-renewable, biodegradable or non-biodegradable.
 
 19.2.
@@ -17040,7 +17040,7 @@ The probability of a harmonised spatial data service to be available shall be 98
 
 Output encoding
 
-A harmonised spatial data service returning spatial objects in the scope of the INSPIRE Regulations 2009 or, as the case may be, the INSPIRE (Scotland) Regulations 2009[^key-877d24050ec0eae532025288515c365b] shall encode those spatial objects according to this regulation.
+A harmonised spatial data service returning spatial objects in the scope of the INSPIRE Regulations 2009 or, as the case may be, the INSPIRE (Scotland) Regulations 2009[^c-877d24050ec0eae532025288515c365b] shall encode those spatial objects according to this regulation.
 
 ### PART B — Metadata Elements
 
@@ -17133,19 +17133,19 @@ Two language parameters shall be provided:
 
 [^c000001]: Textual amendment: Substituted by [Commission Regulation (EU) No 1312/2014 of 10 December 2014 amending Regulation (EU) No 1089/2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data services](https://www.legislation.gov.uk/eur/2014/1312).
 
-[^key-f78cb6a13c6fc910c8e43bb24bc0a73a]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2010/1089/article/1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f78cb6a13c6fc910c8e43bb24bc0a73a]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2010/1089/article/1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00002]: Footnote: Commission Regulation (EC) No 976/2009 of[^c000001] 19 October 2009 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards the Network Services ( [OJ L 274, 20.10.2009, p. 9](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.274.01.0009.01.ENG) ).
 
 [^c000002]: Textual amendment: Substituted by [Commission Regulation (EU) No 1253/2013 of 21 October 2013 amending Regulation (EU) No 1089/2010 implementing Directive 2007/2/EC as regards interoperability of spatial data sets and services](https://www.legislation.gov.uk/eur/2013/1253).
 
-[^key-2391a1916950e52735ac0b612aa21a5a]: Textual amendment: Words in [Art. 2(2)](https://www.legislation.gov.uk/eur/2010/1089/article/2/2) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(3)(a)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2391a1916950e52735ac0b612aa21a5a]: Textual amendment: Words in [Art. 2(2)](https://www.legislation.gov.uk/eur/2010/1089/article/2/2) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(3)(a)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-485ed4219a5a65e06454402d29b9bd2e]: Textual amendment: Words in [Art. 2(3)](https://www.legislation.gov.uk/eur/2010/1089/article/2/3) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(3)(b)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-485ed4219a5a65e06454402d29b9bd2e]: Textual amendment: Words in [Art. 2(3)](https://www.legislation.gov.uk/eur/2010/1089/article/2/3) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(3)(b)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000003]: Textual amendment: Deleted by [Commission Regulation (EU) No 1253/2013 of 21 October 2013 amending Regulation (EU) No 1089/2010 implementing Directive 2007/2/EC as regards interoperability of spatial data sets and services](https://www.legislation.gov.uk/eur/2013/1253).
 
-[^key-0637dfc42323a9af8d2e41e3b220474d]: Textual amendment: Words in [Art. 2(20)](https://www.legislation.gov.uk/eur/2010/1089/article/2/20) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(3)(c)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0637dfc42323a9af8d2e41e3b220474d]: Textual amendment: Words in [Art. 2(20)](https://www.legislation.gov.uk/eur/2010/1089/article/2/20) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(3)(c)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000004]: Textual amendment: Inserted by [Commission Regulation (EU) No 1253/2013 of 21 October 2013 amending Regulation (EU) No 1089/2010 implementing Directive 2007/2/EC as regards interoperability of spatial data sets and services](https://www.legislation.gov.uk/eur/2013/1253).
 
@@ -17153,101 +17153,101 @@ Two language parameters shall be provided:
 
 [^f00003]: Footnote: Commission Regulation (EC) No 1205/2008 of[^c000005] 3 December 2008 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards metadata ( [OJ L 326, 4.12.2008, p. 12](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.326.01.0012.01.ENG) )
 
-[^key-5aad648dd10bc5e8ebf27bcd1fb39e79]: Textual amendment: [Art. 2(39)](https://www.legislation.gov.uk/eur/2010/1089/article/2/39)[(40)](https://www.legislation.gov.uk/eur/2010/1089/article/2/40) inserted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(3)(d)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/3/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5aad648dd10bc5e8ebf27bcd1fb39e79]: Textual amendment: [Art. 2(39)](https://www.legislation.gov.uk/eur/2010/1089/article/2/39)[(40)](https://www.legislation.gov.uk/eur/2010/1089/article/2/40) inserted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(3)(d)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/3/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-11f80e5bd6ad3d591141045357010a86]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/2010/1089/article/3) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(4)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-11f80e5bd6ad3d591141045357010a86]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/2010/1089/article/3) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(4)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-af88ed4b0fd62065ca4a887f3b7cb64d]: Textual amendment: Words in [Art. 4](https://www.legislation.gov.uk/eur/2010/1089/article/4) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(5)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-af88ed4b0fd62065ca4a887f3b7cb64d]: Textual amendment: Words in [Art. 4](https://www.legislation.gov.uk/eur/2010/1089/article/4) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(5)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000006]: Textual amendment: Substituted by [Commission Regulation (EU) No 102/2011 of 4 February 2011 amending Regulation (EU) No 1089/2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services](https://www.legislation.gov.uk/eur/2011/102).
 
 [^c000007]: Textual amendment: Deleted by [Commission Regulation (EU) No 102/2011 of 4 February 2011 amending Regulation (EU) No 1089/2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services](https://www.legislation.gov.uk/eur/2011/102).
 
-[^key-e1dfeeca407d627586555eb5013a1193]: Textual amendment: Words in [Art. 8](https://www.legislation.gov.uk/eur/2010/1089/article/8) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(6)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e1dfeeca407d627586555eb5013a1193]: Textual amendment: Words in [Art. 8](https://www.legislation.gov.uk/eur/2010/1089/article/8) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(6)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2a090402c3fc5ee29cf00a3ad76c8229]: Textual amendment: Words in [Art. 11](https://www.legislation.gov.uk/eur/2010/1089/article/11) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(7)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2a090402c3fc5ee29cf00a3ad76c8229]: Textual amendment: Words in [Art. 11](https://www.legislation.gov.uk/eur/2010/1089/article/11) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(7)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00004]: Footnote: [OJ L 326, 4.12.2008, p. 12](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.326.01.0012.01.ENG).
 
 [^f00005]: Footnote: [OJ L 274, 20.10.2009, p. 9](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.274.01.0009.01.ENG).
 
-[^key-043530c7115a8d81271779b5737d2407]: Textual amendment: [Art. 14a](https://www.legislation.gov.uk/eur/2010/1089/article/14a) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(8)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-043530c7115a8d81271779b5737d2407]: Textual amendment: [Art. 14a](https://www.legislation.gov.uk/eur/2010/1089/article/14a) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(8)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b392dd578b99c33b0b1c65e67faa96e0]: Textual amendment: [Art. 15](https://www.legislation.gov.uk/eur/2010/1089/article/15) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(9)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b392dd578b99c33b0b1c65e67faa96e0]: Textual amendment: [Art. 15](https://www.legislation.gov.uk/eur/2010/1089/article/15) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(9)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_bfbe95d6-3884-4712-f8d5-7fab54c19108]: Textual amendment: Words in signaure omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(9)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000008]: Textual amendment: Inserted by [Commission Regulation (EU) No 102/2011 of 4 February 2011 amending Regulation (EU) No 1089/2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services](https://www.legislation.gov.uk/eur/2011/102).
 
-[^key-c63a67dda8dc7c02a9e9d3a70fce31e1]: Textual amendment: Words in [Annex 1 para. 7.3.3.1](https://www.legislation.gov.uk/eur/2010/1089/annex/1/paragraph/7.3.3.1) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(10)(a)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/10/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c63a67dda8dc7c02a9e9d3a70fce31e1]: Textual amendment: Words in [Annex 1 para. 7.3.3.1](https://www.legislation.gov.uk/eur/2010/1089/annex/1/paragraph/7.3.3.1) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(10)(a)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/10/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5d75d6e0b828d7f3cc0ae2db9fbb2efd]: Textual amendment: Words in [Annex 1 para. 8.1.1.1](https://www.legislation.gov.uk/eur/2010/1089/annex/1/paragraph/8.1.1.1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(10)(b)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/10/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5d75d6e0b828d7f3cc0ae2db9fbb2efd]: Textual amendment: Words in [Annex 1 para. 8.1.1.1](https://www.legislation.gov.uk/eur/2010/1089/annex/1/paragraph/8.1.1.1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(10)(b)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/10/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0d4b4fd24937c8edb9dee0fc5fb3b44c]: Textual amendment: Words in [Annex 1 para. 8.1.3.1](https://www.legislation.gov.uk/eur/2010/1089/annex/1/paragraph/8.1.3.1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(10)(c)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/10/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0d4b4fd24937c8edb9dee0fc5fb3b44c]: Textual amendment: Words in [Annex 1 para. 8.1.3.1](https://www.legislation.gov.uk/eur/2010/1089/annex/1/paragraph/8.1.3.1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(10)(c)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/10/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-420746c2696d5ac6d99a9fe0e9a327a5]: Textual amendment: Words in [Annex 1 para. 8.1.3.1](https://www.legislation.gov.uk/eur/2010/1089/annex/1/paragraph/8.1.3.1) inserted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(10)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/10/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-420746c2696d5ac6d99a9fe0e9a327a5]: Textual amendment: Words in [Annex 1 para. 8.1.3.1](https://www.legislation.gov.uk/eur/2010/1089/annex/1/paragraph/8.1.3.1) inserted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(10)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/10/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00008]: Footnote: [OJ L 332, 9.12.2002, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.332.01.0001.01.ENG)[^c000004] .
 
-[^key-c62d1838c0d1e95337715b51f59d120f]: Textual amendment: Words in [Annex 1 para. 8.1.3.1](https://www.legislation.gov.uk/eur/2010/1089/annex/1/paragraph/8.1.3.1) inserted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(10)(c)(iii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/10/c/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c62d1838c0d1e95337715b51f59d120f]: Textual amendment: Words in [Annex 1 para. 8.1.3.1](https://www.legislation.gov.uk/eur/2010/1089/annex/1/paragraph/8.1.3.1) inserted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(10)(c)(iii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/10/c/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00009]: Footnote: [OJ L 312, 22.11.2008, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.312.01.0003.01.ENG) .
 
-[^key-b11f9a3c124a2a4d2f07a81f6f1a41d7]: Textual amendment: Words in [Annex 1 para. 8.1.3.2](https://www.legislation.gov.uk/eur/2010/1089/annex/1/paragraph/8.1.3.2) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(10)(d)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/10/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b11f9a3c124a2a4d2f07a81f6f1a41d7]: Textual amendment: Words in [Annex 1 para. 8.1.3.2](https://www.legislation.gov.uk/eur/2010/1089/annex/1/paragraph/8.1.3.2) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(10)(d)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/10/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b02b4c9a38b8ab3c5a4a54e54cd32c31]: Textual amendment: Words in [Annex 1 para. 8.1.3.2](https://www.legislation.gov.uk/eur/2010/1089/annex/1/paragraph/8.1.3.2) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(10)(d)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/10/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b02b4c9a38b8ab3c5a4a54e54cd32c31]: Textual amendment: Words in [Annex 1 para. 8.1.3.2](https://www.legislation.gov.uk/eur/2010/1089/annex/1/paragraph/8.1.3.2) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(10)(d)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/10/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0cb9a94ff368e4380e02cd07056e6fa9]: Textual amendment: Words in Annex 2 heading substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(a)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0cb9a94ff368e4380e02cd07056e6fa9]: Textual amendment: Words in Annex 2 heading substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(a)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3c9ef4a762b2a6aa8440fe6fb9b4607c]: Textual amendment: [Annex 2 para. 1.3.4(2)](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/1.3.4/2) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(b)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3c9ef4a762b2a6aa8440fe6fb9b4607c]: Textual amendment: [Annex 2 para. 1.3.4(2)](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/1.3.4/2) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(b)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cfa3ba466ba8b9997ee219fef869fa6a]: Textual amendment: [Annex 2 para. 2.2(2)](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/2.2/2) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(c)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cfa3ba466ba8b9997ee219fef869fa6a]: Textual amendment: [Annex 2 para. 2.2(2)](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/2.2/2) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(c)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-366df6804d7d2eb79feb49cf7d314429]: Textual amendment: Words in [Annex 2 para. 3.1.1](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/3.1.1) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(d)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-366df6804d7d2eb79feb49cf7d314429]: Textual amendment: Words in [Annex 2 para. 3.1.1](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/3.1.1) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(d)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4b5efb50cf10c042698f040b7be9f2fd]: Textual amendment: Words in [Annex 2 para. 3.3.4](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/3.3.4) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(e)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/e/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4b5efb50cf10c042698f040b7be9f2fd]: Textual amendment: Words in [Annex 2 para. 3.3.4](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/3.3.4) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(e)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/e/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-770bbd59922c38df336036808e72a68a]: Textual amendment: Words in [Annex 2 para. 3.3.4](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/3.3.4) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(e)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/e/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-770bbd59922c38df336036808e72a68a]: Textual amendment: Words in [Annex 2 para. 3.3.4](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/3.3.4) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(e)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/e/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9ab9c94e3da27c5c8a524eda574fca83]: Textual amendment: Words in [Annex 2 para. 4.2.1.2](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/4.2.1.2) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(f)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9ab9c94e3da27c5c8a524eda574fca83]: Textual amendment: Words in [Annex 2 para. 4.2.1.2](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/4.2.1.2) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(f)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dab13af4861961ee2846f10940f6a443]: Textual amendment: Words in [Annex 2 para. 4.4(1)](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/4.4/1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(g)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dab13af4861961ee2846f10940f6a443]: Textual amendment: Words in [Annex 2 para. 4.4(1)](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/4.4/1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(g)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00012]: Footnote: One layer shall be made available for each code list value, in accordance with Art. 14(3).[^c000002]
 
-[^key-63f32de339185bc076bac94708421d10]: Textual amendment: Words in [Annex 2 para. 5.2.4](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/5.2.4) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(h)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/h); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-63f32de339185bc076bac94708421d10]: Textual amendment: Words in [Annex 2 para. 5.2.4](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/5.2.4) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(h)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/h); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1e7ba33951484c49541b5e7eb865f0dd]: Textual amendment: Words in [Annex 2 para. 5.3.2](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/5.3.2) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1e7ba33951484c49541b5e7eb865f0dd]: Textual amendment: Words in [Annex 2 para. 5.3.2](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/5.3.2) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bf72b5d83278494df51124cc0ff5459a]: Textual amendment: Words in [Annex 2 para. 6.1](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/6.1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(j)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/j); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bf72b5d83278494df51124cc0ff5459a]: Textual amendment: Words in [Annex 2 para. 6.1](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/6.1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(j)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/j); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-53140f357d9cb652e7a76859960619cb]: Textual amendment: Words in [Annex 2 para. 6.1.4](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/6.1.4) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(k)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/k); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-53140f357d9cb652e7a76859960619cb]: Textual amendment: Words in [Annex 2 para. 6.1.4](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/6.1.4) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(k)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/k); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-16604aeb9f124fc548e2488bd46c6cd3]: Textual amendment: Words in [Annex 2 para. 7.6.1.6](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/7.6.1.6) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(l)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/l); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-16604aeb9f124fc548e2488bd46c6cd3]: Textual amendment: Words in [Annex 2 para. 7.6.1.6](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/7.6.1.6) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(l)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/l); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0c131bbeb6fd64d1f3acc2d3d879e27a]: Textual amendment: Words in [Annex 2 para. 7.7.1.15](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/7.7.1.15) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(m)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/m); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0c131bbeb6fd64d1f3acc2d3d879e27a]: Textual amendment: Words in [Annex 2 para. 7.7.1.15](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/7.7.1.15) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(m)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/m); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bedd8c166d88e94855d22458542064bf]: Textual amendment: Words in [Annex 2 para. 7.9.1](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/7.9.1) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(n)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/n); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bedd8c166d88e94855d22458542064bf]: Textual amendment: Words in [Annex 2 para. 7.9.1](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/7.9.1) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(n)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/n); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c188a8daebade05fd6667a976710a447]: Textual amendment: Words in [Annex 2 para. 8.7.1](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/8.7.1) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(o)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/o/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c188a8daebade05fd6667a976710a447]: Textual amendment: Words in [Annex 2 para. 8.7.1](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/8.7.1) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(o)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/o/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fb9dc6aa7711141120ba5d55bcbfe578]: Textual amendment: Words in [Annex 2 para. 8.7.1](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/8.7.1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(o)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/o/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fb9dc6aa7711141120ba5d55bcbfe578]: Textual amendment: Words in [Annex 2 para. 8.7.1](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/8.7.1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(o)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/o/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-26fa1d40d111665ab665e5d412ba3896]: Textual amendment: Words in [Annex 2 para. 8.7.2](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/8.7.2) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(p)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/p); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-26fa1d40d111665ab665e5d412ba3896]: Textual amendment: Words in [Annex 2 para. 8.7.2](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/8.7.2) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(p)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/p); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7c8b3a0af6af4ab2184fae6a457f36a0]: Textual amendment: Words in [Annex 2 para. 8.7.4](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/8.7.4) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(q)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/q); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7c8b3a0af6af4ab2184fae6a457f36a0]: Textual amendment: Words in [Annex 2 para. 8.7.4](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/8.7.4) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(q)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/q); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f7e372bc5bfa440a406ffe1ebbb5d2e0]: Textual amendment: Words in [Annex 2 para. 9.1.1](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/9.1.1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(r)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/r); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f7e372bc5bfa440a406ffe1ebbb5d2e0]: Textual amendment: Words in [Annex 2 para. 9.1.1](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/9.1.1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(r)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/r); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7370eae31a013b71ba26a55552f5fc11]: Textual amendment: Words in [Annex 2 para. 9.4.1](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/9.4.1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(s)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/s/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7370eae31a013b71ba26a55552f5fc11]: Textual amendment: Words in [Annex 2 para. 9.4.1](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/9.4.1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(s)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/s/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-41f5b1722cbd83e6cb9e29165a093af1]: Textual amendment: Words in [Annex 2 para. 9.4.1](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/9.4.1) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(s)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/s/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-41f5b1722cbd83e6cb9e29165a093af1]: Textual amendment: Words in [Annex 2 para. 9.4.1](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/9.4.1) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(s)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/s/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e1ba8da06cc26b42e89aaf8fdb7f94c6]: Textual amendment: Words in [Annex 2 para. 9.4.5](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/9.4.5) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(t)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/t); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e1ba8da06cc26b42e89aaf8fdb7f94c6]: Textual amendment: Words in [Annex 2 para. 9.4.5](https://www.legislation.gov.uk/eur/2010/1089/annex/2/paragraph/9.4.5) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(11)(t)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/11/t); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1b6aa590459d069838e7fe4152b80ed8]: Textual amendment: Words in Annex 3 heading substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(12)(a)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/12/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1b6aa590459d069838e7fe4152b80ed8]: Textual amendment: Words in Annex 3 heading substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(12)(a)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/12/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1d13b027f68cd99bb8594972a6f5adb5]: Textual amendment: Words in [Annex 3 para. 1.7.5](https://www.legislation.gov.uk/eur/2010/1089/annex/3/paragraph/1.7.5) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(12)(b)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/12/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1d13b027f68cd99bb8594972a6f5adb5]: Textual amendment: Words in [Annex 3 para. 1.7.5](https://www.legislation.gov.uk/eur/2010/1089/annex/3/paragraph/1.7.5) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(12)(b)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/12/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00014]: Footnote: One layer shall be made available for each code list value, in accordance with Art. 14(3).
 
@@ -17259,77 +17259,77 @@ Two language parameters shall be provided:
 
 [^f00018]: Footnote: One layer shall be made available for each code list value, in accordance with Art. 14(3).
 
-[^key-dbf046864befaac88b2d3395595edfdf]: Textual amendment: Words in Annex 4 heading substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(a)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dbf046864befaac88b2d3395595edfdf]: Textual amendment: Words in Annex 4 heading substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(a)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-59402eb24a6094f7deb19e3e5b35c26b]: Textual amendment: Annex 4 para. 1.5(2) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(b)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-59402eb24a6094f7deb19e3e5b35c26b]: Textual amendment: Annex 4 para. 1.5(2) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(b)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00019]: Footnote: One layer shall be made available for each code list value, in accordance with Art. 14(3).
 
 [^f00020]: Footnote: One layer shall be made available for each code list value, in accordance with Art. 14(3).
 
-[^key-9bebfeb9ac2dcd35588436e69624ed64]: Textual amendment: Word in [Annex 4 para. 4.7.1.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/4.7.1.1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(c)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9bebfeb9ac2dcd35588436e69624ed64]: Textual amendment: Word in [Annex 4 para. 4.7.1.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/4.7.1.1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(c)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ea36cd117ebd0c9e8a1a48fdf25b3f80]: Textual amendment: Word in [Annex 4 para. 4.7.1.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/4.7.1.1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ea36cd117ebd0c9e8a1a48fdf25b3f80]: Textual amendment: Word in [Annex 4 para. 4.7.1.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/4.7.1.1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-19ea378793faccaf0ce69b236d395c27]: Textual amendment: Words in [Annex 4 para. 4.7.1.2](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/4.7.1.2) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(d)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-19ea378793faccaf0ce69b236d395c27]: Textual amendment: Words in [Annex 4 para. 4.7.1.2](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/4.7.1.2) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(d)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-77843b97d658d7fbdee344dc1b5499fa]: Textual amendment: Words in [Annex 4 para. 4.7.1.2](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/4.7.1.2) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(d)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-77843b97d658d7fbdee344dc1b5499fa]: Textual amendment: Words in [Annex 4 para. 4.7.1.2](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/4.7.1.2) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(d)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-eac7d956eb59b46118f4a7150a1429da]: Textual amendment: Words in Annex 4 para. 4.7.3.1 substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(e)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/e/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eac7d956eb59b46118f4a7150a1429da]: Textual amendment: Words in Annex 4 para. 4.7.3.1 substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(e)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/e/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00021]: Footnote: [OJ L 154, 21.6.2003, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.154.01.0001.01.ENG).
 
-[^key-b39c39987f9b94667126dc1da26fb73b]: Textual amendment: Words in Annex 4 para. 4.7.3.1 substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(e)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/e/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b39c39987f9b94667126dc1da26fb73b]: Textual amendment: Words in Annex 4 para. 4.7.3.1 substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(e)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/e/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-53e20da853911d0e8b65a8a06cf1666d]: Textual amendment: Word in Annex 4 para. 4.7.3.1 substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(e)(iii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/e/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-53e20da853911d0e8b65a8a06cf1666d]: Textual amendment: Word in Annex 4 para. 4.7.3.1 substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(e)(iii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/e/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b61485041ac1dfac54e449841a53f92a]: Textual amendment: Words in [Annex 4 para. 4.7.3.4](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/4.7.3.4) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(f)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b61485041ac1dfac54e449841a53f92a]: Textual amendment: Words in [Annex 4 para. 4.7.3.4](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/4.7.3.4) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(f)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e646058ec0751a39a13daba8061bbc8c]: Textual amendment: Words in [Annex 4 para. 4.8](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/4.8) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(g)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/g/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e646058ec0751a39a13daba8061bbc8c]: Textual amendment: Words in [Annex 4 para. 4.8](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/4.8) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(g)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/g/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4eda3f2b651e917df8f7600b8093f89a]: Textual amendment: Words in [Annex 4 para. 4.8](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/4.8) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(g)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/g/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4eda3f2b651e917df8f7600b8093f89a]: Textual amendment: Words in [Annex 4 para. 4.8](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/4.8) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(g)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/g/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-027f51b4bc0f5519147f4c5fb6c5fc8e]: Textual amendment: Words in [Annex 4 para. 5.1.5](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/5.1.5) inserted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(h)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/h); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-027f51b4bc0f5519147f4c5fb6c5fc8e]: Textual amendment: Words in [Annex 4 para. 5.1.5](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/5.1.5) inserted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(h)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/h); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2fc852cc28d7940492f379a008e7701a]: Textual amendment: Words in [Annex 4 para. 6.9.1.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/6.9.1.1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2fc852cc28d7940492f379a008e7701a]: Textual amendment: Words in [Annex 4 para. 6.9.1.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/6.9.1.1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00022]: Footnote: One layer shall be made available for each code list value, in accordance with Art. 14(3).
 
 [^f00023]: Footnote: One layer shall be made available for each code list value, in accordance with Art. 14(3).
 
-[^key-fd94433f57b5a80aad30f89ea70feca9]: Textual amendment: Words in [Annex 4 para. 9.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/9.1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(j)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/j/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fd94433f57b5a80aad30f89ea70feca9]: Textual amendment: Words in [Annex 4 para. 9.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/9.1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(j)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/j/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b707ae731b47082ea6527dc91d31290a]: Textual amendment: Words in [Annex 4 para. 9.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/9.1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(j)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/j/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b707ae731b47082ea6527dc91d31290a]: Textual amendment: Words in [Annex 4 para. 9.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/9.1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(j)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/j/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00024]: Footnote: [OJ L 321, 1.12.2008, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.321.01.0001.01.ENG) .
 
-[^key-dd449aa7c8aef567adccba2c4910346b]: Textual amendment: Words in [Annex 4 para. 10.3.2](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/10.3.2) inserted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(k)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/k); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dd449aa7c8aef567adccba2c4910346b]: Textual amendment: Words in [Annex 4 para. 10.3.2](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/10.3.2) inserted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(k)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/k); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-70d9d47dcfe53d6f15dc14088bb42349]: Textual amendment: Words in [Annex 4 para. 11.3.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/11.3.1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(l)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/l/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-70d9d47dcfe53d6f15dc14088bb42349]: Textual amendment: Words in [Annex 4 para. 11.3.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/11.3.1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(l)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/l/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cbec75c949e4cc4c5c9bd52d9d6b4d5f]: Textual amendment: Words in [Annex 4 para. 11.3.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/11.3.1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(l)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/l/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cbec75c949e4cc4c5c9bd52d9d6b4d5f]: Textual amendment: Words in [Annex 4 para. 11.3.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/11.3.1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(l)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/l/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3d4b3600b8c1198640a3d49218cee6af]: Textual amendment: Words in [Annex 4 para. 11.3.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/11.3.1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(l)(iii)(aa)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/l/iii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3d4b3600b8c1198640a3d49218cee6af]: Textual amendment: Words in [Annex 4 para. 11.3.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/11.3.1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(l)(iii)(aa)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/l/iii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00025]: Footnote: [OJ L 312, 22.11.2008, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.312.01.0003.01.ENG).
 
-[^key-e5bf3ba08558da202f2bb268b2322eb0]: Textual amendment: Words in [Annex 4 para. 11.3.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/11.3.1) inserted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(l)(iii)(bb)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/l/iii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e5bf3ba08558da202f2bb268b2322eb0]: Textual amendment: Words in [Annex 4 para. 11.3.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/11.3.1) inserted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(l)(iii)(bb)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/l/iii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4eb6724a18e39cc2a3c4c7a67b65eae8]: Textual amendment: Words in [Annex 4 para. 11.3.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/11.3.1) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(l)(iv)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/l/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4eb6724a18e39cc2a3c4c7a67b65eae8]: Textual amendment: Words in [Annex 4 para. 11.3.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/11.3.1) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(l)(iv)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/l/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3d743f9c62761314369646e8b05f7b21]: Textual amendment: Words in [Annex 4 para. 11.3.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/11.3.1) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(l)(v)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/l/v); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3d743f9c62761314369646e8b05f7b21]: Textual amendment: Words in [Annex 4 para. 11.3.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/11.3.1) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(l)(v)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/l/v); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fee0c8bfbb8b992491289e63a9fa9028]: Textual amendment: Words in [Annex 4 para. 11.3.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/11.3.1) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(l)(vi)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/l/vi); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fee0c8bfbb8b992491289e63a9fa9028]: Textual amendment: Words in [Annex 4 para. 11.3.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/11.3.1) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(l)(vi)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/l/vi); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-737d9ea22693ae0888cd5ebc301c0068]: Textual amendment: Words in [Annex 4 para. 11.3.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/11.3.1) inserted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(l)(vii)(aa)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/l/vii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-737d9ea22693ae0888cd5ebc301c0068]: Textual amendment: Words in [Annex 4 para. 11.3.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/11.3.1) inserted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(l)(vii)(aa)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/l/vii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-358a30e6bf5b25a8155582d6277f299f]: Textual amendment: Words in [Annex 4 para. 11.3.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/11.3.1) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(l)(vii)(bb)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/l/vii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-358a30e6bf5b25a8155582d6277f299f]: Textual amendment: Words in [Annex 4 para. 11.3.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/11.3.1) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(l)(vii)(bb)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/l/vii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ae6a9ca9a484bd29a8884d16f6ff0fe8]: Textual amendment: Words in [Annex 4 para. 11.3.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/11.3.1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(l)(viii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/l/viii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ae6a9ca9a484bd29a8884d16f6ff0fe8]: Textual amendment: Words in [Annex 4 para. 11.3.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/11.3.1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(l)(viii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/l/viii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-09e81fe7f814da8516b38f88bba69fe6]: Textual amendment: Words in [Annex 4 para. 11.3.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/11.3.1) omted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(l)(ix)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/l/ix); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-09e81fe7f814da8516b38f88bba69fe6]: Textual amendment: Words in [Annex 4 para. 11.3.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/11.3.1) omted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(l)(ix)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/l/ix); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ee70f0b69780057c4a8087aacffa5a31]: Textual amendment: Words in [Annex 4 para. 11.4.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/11.4.1) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(m)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/m); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ee70f0b69780057c4a8087aacffa5a31]: Textual amendment: Words in [Annex 4 para. 11.4.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/11.4.1) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(m)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/m); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00029]: Footnote: One layer shall be made available for each code list value, in accordance with Art. 14(3).
 
@@ -17337,40 +17337,40 @@ Two language parameters shall be provided:
 
 [^f00031]: Footnote: One layer shall be made available for each code list value, in accordance with Art. 14(3).
 
-[^key-0bba46d4a2204b1e753df53899fa8ae8]: Textual amendment: Words in [Annex 4 para. 13.2.1.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/13.2.1.1) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(n)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/n); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0bba46d4a2204b1e753df53899fa8ae8]: Textual amendment: Words in [Annex 4 para. 13.2.1.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/13.2.1.1) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(n)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/n); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3b89eb160135fb5f4e36dcc255b95ae2]: Textual amendment: Words in [Annex 4 para. 13.3](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/13.3) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(o)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/o); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3b89eb160135fb5f4e36dcc255b95ae2]: Textual amendment: Words in [Annex 4 para. 13.3](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/13.3) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(o)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/o); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-31dec6482ada5dbc3a2247faae20134f]: Textual amendment: Word in [Annex 4 para. 16.2.3](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/16.2.3) inserted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(p)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/p/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-31dec6482ada5dbc3a2247faae20134f]: Textual amendment: Word in [Annex 4 para. 16.2.3](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/16.2.3) inserted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(p)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/p/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-59177ee61c30335157f5de54d4f73e7b]: Textual amendment: Words in [Annex 4 para. 16.2.3](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/16.2.3) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(p)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/p/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-59177ee61c30335157f5de54d4f73e7b]: Textual amendment: Words in [Annex 4 para. 16.2.3](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/16.2.3) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(p)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/p/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ef80131c9344c7204d1fd6162dfa5949]: Textual amendment: Words in [Annex 4 para. 17.4.2](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/17.4.2) inserted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(q)(i)(aa)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/q/i/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ef80131c9344c7204d1fd6162dfa5949]: Textual amendment: Words in [Annex 4 para. 17.4.2](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/17.4.2) inserted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(q)(i)(aa)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/q/i/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-851ff39f09acedb77984ae5105700de0]: Textual amendment: Words in [Annex 4 para. 17.4.2](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/17.4.2) inserted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(q)(i)(bb)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/q/i/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-851ff39f09acedb77984ae5105700de0]: Textual amendment: Words in [Annex 4 para. 17.4.2](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/17.4.2) inserted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(q)(i)(bb)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/q/i/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b89db58ddd727d4d0723bd4ed8bbeee7]: Textual amendment: Words in [Annex 4 para. 17.4.2](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/17.4.2) inserted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(q)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/q/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b89db58ddd727d4d0723bd4ed8bbeee7]: Textual amendment: Words in [Annex 4 para. 17.4.2](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/17.4.2) inserted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(q)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/q/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-285c4a7ed9405993c50414f3b3c8335e]: Textual amendment: Words in [Annex 4 para. 17.4.3](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/17.4.3) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(r)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/r/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-285c4a7ed9405993c50414f3b3c8335e]: Textual amendment: Words in [Annex 4 para. 17.4.3](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/17.4.3) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(r)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/r/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dc013bc07eaceb1e1e9ac7e9f48fd38e]: Textual amendment: Words in [Annex 4 para. 17.4.3](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/17.4.3) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(r)(ii)(aa)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/r/ii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dc013bc07eaceb1e1e9ac7e9f48fd38e]: Textual amendment: Words in [Annex 4 para. 17.4.3](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/17.4.3) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(r)(ii)(aa)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/r/ii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1fe690c8e8e263732d8c13d99b06f7e8]: Textual amendment: Words in [Annex 4 para. 17.4.3](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/17.4.3) inserted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(r)(ii)(bb)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/r/ii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1fe690c8e8e263732d8c13d99b06f7e8]: Textual amendment: Words in [Annex 4 para. 17.4.3](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/17.4.3) inserted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(r)(ii)(bb)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/r/ii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-df8320d9b5f17a9c52e9601c5db3dd09]: Textual amendment: Words in [Annex 4 para. 18.4.2](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/18.4.2) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(s)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/s/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-df8320d9b5f17a9c52e9601c5db3dd09]: Textual amendment: Words in [Annex 4 para. 18.4.2](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/18.4.2) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(s)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/s/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c396d5919f76d243f7347301686ff557]: Textual amendment: Words in [Annex 4 para. 18.4.2](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/18.4.2) inserted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(s)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/s/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c396d5919f76d243f7347301686ff557]: Textual amendment: Words in [Annex 4 para. 18.4.2](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/18.4.2) inserted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(s)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/s/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-04e589b19dbaf49f2e01bdcc8449164b]: Textual amendment: Words in [Annex 4 para. 18.4.7](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/18.4.7) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(t)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/t); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-04e589b19dbaf49f2e01bdcc8449164b]: Textual amendment: Words in [Annex 4 para. 18.4.7](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/18.4.7) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(t)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/t); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9bd8c2bbaea5921cf2a49b11fad394da]: Textual amendment: Word in [Annex 4 para. 18.4.8](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/18.4.8) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(u)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/u/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9bd8c2bbaea5921cf2a49b11fad394da]: Textual amendment: Word in [Annex 4 para. 18.4.8](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/18.4.8) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(u)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/u/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8ddf404b3f8ff54c9797da01c26d5bab]: Textual amendment: Word in [Annex 4 para. 18.4.8](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/18.4.8) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(u)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/u/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8ddf404b3f8ff54c9797da01c26d5bab]: Textual amendment: Word in [Annex 4 para. 18.4.8](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/18.4.8) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(u)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/u/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8ed48783e6e48f28fd08e609bb617fec]: Textual amendment: Words in [Annex 4 para. 18.4.8](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/18.4.8) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(u)(iii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/u/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8ed48783e6e48f28fd08e609bb617fec]: Textual amendment: Words in [Annex 4 para. 18.4.8](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/18.4.8) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(u)(iii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/u/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00033]: Footnote: One layer shall be made available for each code list value, in accordance with Art. 14(3).
 
-[^key-a4a538084c3bd9dcba1b5462174b60ad]: Textual amendment: Words in [Annex 4 para. 19.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/19.1) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(v)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/v); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a4a538084c3bd9dcba1b5462174b60ad]: Textual amendment: Words in [Annex 4 para. 19.1](https://www.legislation.gov.uk/eur/2010/1089/annex/4/paragraph/19.1) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(13)(v)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/13/v); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-877d24050ec0eae532025288515c365b]: Textual amendment: Words in [Annex 7 para. 2](https://www.legislation.gov.uk/eur/2010/1089/annex/7/paragraph/2) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(14)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-877d24050ec0eae532025288515c365b]: Textual amendment: Words in [Annex 7 para. 2](https://www.legislation.gov.uk/eur/2010/1089/annex/7/paragraph/2) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [13(14)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/13/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

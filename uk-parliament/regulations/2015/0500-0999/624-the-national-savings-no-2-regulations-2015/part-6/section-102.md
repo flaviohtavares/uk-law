@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Modifications[^key-a07a8d0f7e953750d7ada0d7032fb070]
+## 102. Modifications[^c-a07a8d0f7e953750d7ada0d7032fb070]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ In Schedule 1 of the Contracting Out (Functions Relating to National Savings) Or
 
 ## Annotations
 
-[^key-a07a8d0f7e953750d7ada0d7032fb070]: Commencement: Reg. 102 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-a07a8d0f7e953750d7ada0d7032fb070]: Commencement: Reg. 102 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
 
 [^f00050]: Footnote: [S.I. 1998/1449](https://www.legislation.gov.uk/uksi/1998/1449).

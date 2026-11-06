@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 134. Power to board and inspect vessels and marine installations[^key-8302bdf3e85d9c3a18a561c6c22028af]
+## 134. Power to board and inspect vessels and marine installations[^c-8302bdf3e85d9c3a18a561c6c22028af]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8302bdf3e85d9c3a18a561c6c22028af]: Commencement: [S. 134](https://www.legislation.gov.uk/asp/2010/5/section/134) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(e)](https://www.legislation.gov.uk/ssi/2010/230/article/2/e)
+[^c-8302bdf3e85d9c3a18a561c6c22028af]: Commencement: [S. 134](https://www.legislation.gov.uk/asp/2010/5/section/134) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(e)](https://www.legislation.gov.uk/ssi/2010/230/article/2/e)

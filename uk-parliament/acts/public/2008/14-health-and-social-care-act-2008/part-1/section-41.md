@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Liquidators etc.[^c1942180][^key-5a6598a51acdb65d5a8002a7f9ccd621]
+## 41. Liquidators etc.[^c1942180][^c-5a6598a51acdb65d5a8002a7f9ccd621]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 [^c1942180]: Commencement: S. 41 partly in force; S. 41 in force for specified purposes at Royal Assent, see [s. 170](https://www.legislation.gov.uk/ukpga/2008/14/section/170)
 
-[^key-5a6598a51acdb65d5a8002a7f9ccd621]: Commencement: S. 41 in force at 11.12.2009 in so far as not already in force by [S.I. 2009/3023](https://www.legislation.gov.uk/uksi/2009/3023), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/3023/article/2/d) (with [arts. 3-17](https://www.legislation.gov.uk/uksi/2009/3023/article/3)) (as amended (8.2.2010) by [S.I. 2010/47](https://www.legislation.gov.uk/uksi/2010/47), art. 2)
+[^c-5a6598a51acdb65d5a8002a7f9ccd621]: Commencement: S. 41 in force at 11.12.2009 in so far as not already in force by [S.I. 2009/3023](https://www.legislation.gov.uk/uksi/2009/3023), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/3023/article/2/d) (with [arts. 3-17](https://www.legislation.gov.uk/uksi/2009/3023/article/3)) (as amended (8.2.2010) by [S.I. 2010/47](https://www.legislation.gov.uk/uksi/2010/47), art. 2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12E. Regulations under sections 12A to 12D: supplementary provision[^key-557e0b6140ae6e22b58b787b21f3f609]
+## 12E. Regulations under sections 12A to 12D: supplementary provision[^c-557e0b6140ae6e22b58b787b21f3f609]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-557e0b6140ae6e22b58b787b21f3f609]: Textual amendment: Ss. 12A-12E and cross-heading inserted (15.6.2020) by [Mobile Homes Act 2013 (c. 14)](https://www.legislation.gov.uk/ukpga/2013/14), [ss. 8](https://www.legislation.gov.uk/ukpga/2013/14/section/8), [15(2)](https://www.legislation.gov.uk/ukpga/2013/14/section/15/2) (as amended by [S.I. 2014/1900](https://www.legislation.gov.uk/uksi/2014/1900), Sch. 1 para. 17); [S.I. 2020/565](https://www.legislation.gov.uk/uksi/2020/565), [art. 2](https://www.legislation.gov.uk/uksi/2020/565/article/2)
+[^c-557e0b6140ae6e22b58b787b21f3f609]: Textual amendment: Ss. 12A-12E and cross-heading inserted (15.6.2020) by [Mobile Homes Act 2013 (c. 14)](https://www.legislation.gov.uk/ukpga/2013/14), [ss. 8](https://www.legislation.gov.uk/ukpga/2013/14/section/8), [15(2)](https://www.legislation.gov.uk/ukpga/2013/14/section/15/2) (as amended by [S.I. 2014/1900](https://www.legislation.gov.uk/uksi/2014/1900), Sch. 1 para. 17); [S.I. 2020/565](https://www.legislation.gov.uk/uksi/2020/565), [art. 2](https://www.legislation.gov.uk/uksi/2020/565/article/2)

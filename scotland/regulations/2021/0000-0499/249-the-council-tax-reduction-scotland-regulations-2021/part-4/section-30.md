@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Sending documents by electronic communication[^key-70558bafe1b49870e6f9e596983ec775]
+## 30. Sending documents by electronic communication[^c-70558bafe1b49870e6f9e596983ec775]
 
 *Extent: S*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-70558bafe1b49870e6f9e596983ec775]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2021/249/regulation/30) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-70558bafe1b49870e6f9e596983ec775]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2021/249/regulation/30) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00144]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by paragraph 158 of schedule 17 of the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).

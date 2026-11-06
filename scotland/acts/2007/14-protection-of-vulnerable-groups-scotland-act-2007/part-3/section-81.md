@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-2626e27381391e23b5d9fee8cc7cf2b8] Section 120 of the 1997 Act is amended as follows—
+(1)[^c-2626e27381391e23b5d9fee8cc7cf2b8] Section 120 of the 1997 Act is amended as follows—
 
 - (a) in subsection (2), for “section 120A and regulations under subsection (3)” substitute “ sections 120ZB and 120A ”,
 - (b) subsection (3) is repealed.
 
-(2)[^key-7a575a4fc13905bbcd62ecdf208e59bd] Before section 120A of the 1997 Act insert—
+(2)[^c-7a575a4fc13905bbcd62ecdf208e59bd] Before section 120A of the 1997 Act insert—
 
 > **120ZB. Regulations about registration**
 >
@@ -60,13 +60,13 @@ summary: ''
 
 .
 
-(3)[^key-2626e27381391e23b5d9fee8cc7cf2b8] Section 124A of the 1997 Act is amended as follows—
+(3)[^c-2626e27381391e23b5d9fee8cc7cf2b8] Section 124A of the 1997 Act is amended as follows—
 
 - (a) in subsection (1), for “section 120(3)(b)” substitute “ section 120ZB(2)(h) ”, and
 - (b) in subsection (3), for “section 120(3)(ac)” substitute “ section 120ZB(2)(j) ”.
 
 ## Annotations
 
-[^key-2626e27381391e23b5d9fee8cc7cf2b8]: Commencement: [S. 81(1)](https://www.legislation.gov.uk/asp/2007/14/section/81/1)[(3)](https://www.legislation.gov.uk/asp/2007/14/section/81/3) in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/157/article/4))
+[^c-2626e27381391e23b5d9fee8cc7cf2b8]: Commencement: [S. 81(1)](https://www.legislation.gov.uk/asp/2007/14/section/81/1)[(3)](https://www.legislation.gov.uk/asp/2007/14/section/81/3) in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/157/article/4))
 
-[^key-7a575a4fc13905bbcd62ecdf208e59bd]: Commencement: [S. 81(2)](https://www.legislation.gov.uk/asp/2007/14/section/81/2) in force at 12.10.2010 by [S.S.I. 2010/344](https://www.legislation.gov.uk/ssi/2010/344), [art. 2(a)(iv)](https://www.legislation.gov.uk/ssi/2010/344/article/2/a/iv)
+[^c-7a575a4fc13905bbcd62ecdf208e59bd]: Commencement: [S. 81(2)](https://www.legislation.gov.uk/asp/2007/14/section/81/2) in force at 12.10.2010 by [S.S.I. 2010/344](https://www.legislation.gov.uk/ssi/2010/344), [art. 2(a)(iv)](https://www.legislation.gov.uk/ssi/2010/344/article/2/a/iv)

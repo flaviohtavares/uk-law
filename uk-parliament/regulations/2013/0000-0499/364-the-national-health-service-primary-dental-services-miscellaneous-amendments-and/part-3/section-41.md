@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Amendment of Schedule 5[^key-4f18041e2184f2dd98d250a99a5b3e63]
+## 41. Amendment of Schedule 5[^c-4f18041e2184f2dd98d250a99a5b3e63]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Omit Schedule 5 (modification of patient provisions where the contractor is a Pr
 
 ## Annotations
 
-[^key-4f18041e2184f2dd98d250a99a5b3e63]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2013/364/regulation/41) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-4f18041e2184f2dd98d250a99a5b3e63]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2013/364/regulation/41) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

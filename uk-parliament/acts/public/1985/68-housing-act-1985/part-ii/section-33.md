@@ -35,10 +35,10 @@ summary: ''
 
 (4) References in this section to the purchaser or lessee include references to his successors in title and any person deriving title under him or his successors in title.
 
-(5)[^key-dc10022f36d801aaee77e24ca01e347d] The Secretary of State shall consult the Regulator of Social Housing before deciding whether to consent under this section to anything within the Regulator’s remit.
+(5)[^c-dc10022f36d801aaee77e24ca01e347d] The Secretary of State shall consult the Regulator of Social Housing before deciding whether to consent under this section to anything within the Regulator’s remit.
 
 ## Annotations
 
 [^c19027251]: Textual amendment: Words in s. 33(2) inserted (18.1.2005) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [ss.197(2)(5)](https://www.legislation.gov.uk/ukpga/2004/34/section/197/2/5), [270(3)(a)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/3/a)
 
-[^key-dc10022f36d801aaee77e24ca01e347d]: Textual amendment: [S. 33(5)](https://www.legislation.gov.uk/ukpga/1985/68/section/33/5) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2010/844/schedule/2/paragraph/13)
+[^c-dc10022f36d801aaee77e24ca01e347d]: Textual amendment: [S. 33(5)](https://www.legislation.gov.uk/ukpga/1985/68/section/33/5) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2010/844/schedule/2/paragraph/13)

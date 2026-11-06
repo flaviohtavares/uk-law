@@ -26,10 +26,10 @@ Section 103
 
 #### Introduction
 
-**1.**[^key-3d1c8ee5ead4cb204646d6a9e7528766] (1) In this Schedule “**regulations**” means regulations which are made—
+**1.**[^c-3d1c8ee5ead4cb204646d6a9e7528766] (1) In this Schedule “**regulations**” means regulations which are made—
 
 - (a) in connection with the Convention specified in section 103(1), and
-- (b) under section 103(1) [^key-2aeca7892e0ff3e4138cb1ca805ae77e]....
+- (b) under section 103(1) [^c-2aeca7892e0ff3e4138cb1ca805ae77e]....
 
 (2) An expression used in this Schedule and in the Convention has the same meaning in this Schedule as in the Convention.
 
@@ -40,7 +40,7 @@ Section 103
 
 #### General
 
-**2.**[^key-91916f0793b3cef528548cea75e9fedf] Regulations may—
+**2.**[^c-91916f0793b3cef528548cea75e9fedf] Regulations may—
 
 - (a) make provision enabling a right or duty arising under the Convention to be enforced;
 - (b) deal with any matter arising out of or related to the Convention;
@@ -63,7 +63,7 @@ Section 103
 
 #### Changes to Convention
 
-**3.**[^key-e615bb1eef7d7337d5d8867464db47de] (1) Regulations may make provision about modification of the Convention in accordance with its provisions.
+**3.**[^c-e615bb1eef7d7337d5d8867464db47de] (1) Regulations may make provision about modification of the Convention in accordance with its provisions.
 
 (2) In particular, the regulations may—
 
@@ -78,7 +78,7 @@ Section 103
 - (a) the validation of a technical standard, and
 - (b) the adoption of a uniform technical prescription.
 
-**4.**[^key-842454420113b225db6750dd7615f8ef] Regulations may make provision about the publication of—
+**4.**[^c-842454420113b225db6750dd7615f8ef] Regulations may make provision about the publication of—
 
 - (a) a change to the list of parties to the Convention;
 - (b) a declaration, objection or reservation by a party to the Convention;
@@ -87,7 +87,7 @@ Section 103
 
 #### Imposition of conditions
 
-**5.**[^key-bb8b6989cd19505f7d9200e7f3ef58a9] (1) Regulations may specify conditions which must be satisfied before a person may—
+**5.**[^c-bb8b6989cd19505f7d9200e7f3ef58a9] (1) Regulations may specify conditions which must be satisfied before a person may—
 
 - (a) exercise a right under the Convention, or
 - (b) do something to which the Convention applies.
@@ -103,7 +103,7 @@ Section 103
 
 #### Sanctions
 
-**6.**[^key-1c8220d59494af81513edb308e7dc339] (1) Regulations may provide a criminal or other sanction in connection with a duty arising under the Convention or the regulations.
+**6.**[^c-1c8220d59494af81513edb308e7dc339] (1) Regulations may provide a criminal or other sanction in connection with a duty arising under the Convention or the regulations.
 
 (2) But regulations may not create a criminal offence which—
 
@@ -120,7 +120,7 @@ Section 103
 
 #### Related legal proceedings
 
-**7.**[^key-bd6039cb978d9fb0d5f916ee73ea9fe2] (1) Regulations may make provision designed to prevent double recovery.
+**7.**[^c-bd6039cb978d9fb0d5f916ee73ea9fe2] (1) Regulations may make provision designed to prevent double recovery.
 
 (2) In particular, regulations may require or enable a court to—
 
@@ -129,13 +129,13 @@ Section 103
 
 #### Enforcement of judgments
 
-**8.**[^key-6d64fc2a4cdc41921cb55dacad3aa3b1] (1) Regulations may make provision about the enforcement of judgments.
+**8.**[^c-6d64fc2a4cdc41921cb55dacad3aa3b1] (1) Regulations may make provision about the enforcement of judgments.
 
 (2) The regulations may, in particular, make provision about the application of Part I of the Foreign Judgments (Reciprocal Enforcement) Act 1933 (c. 13).
 
 #### Special drawing rights
 
-**9.**[^key-f41d40d6068c746f9f25d05f57e82d53] (1) Regulations may make provision for the conversion of special drawing rights into sterling in connection with the application of the Convention or the regulations to legal proceedings.
+**9.**[^c-f41d40d6068c746f9f25d05f57e82d53] (1) Regulations may make provision for the conversion of special drawing rights into sterling in connection with the application of the Convention or the regulations to legal proceedings.
 
 (2) Regulations may, in particular—
 
@@ -146,33 +146,33 @@ Section 103
 
 #### Saving
 
-**10.**[^key-b653bf5fda7dd783876fea7cdea03d53] This Schedule is without prejudice to the generality of—
+**10.**[^c-b653bf5fda7dd783876fea7cdea03d53] This Schedule is without prejudice to the generality of—
 
-- (a) section 103(1), [^key-a1135e13548518e96be8f00a7be89a9a]...
-- (b)[^key-a1135e13548518e96be8f00a7be89a9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) section 103(1), [^c-a1135e13548518e96be8f00a7be89a9a]...
+- (b)[^c-a1135e13548518e96be8f00a7be89a9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3d1c8ee5ead4cb204646d6a9e7528766]: Commencement: Sch. 6 para. 1 in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(hh)](https://www.legislation.gov.uk/uksi/2004/827/article/3/hh)
+[^c-3d1c8ee5ead4cb204646d6a9e7528766]: Commencement: Sch. 6 para. 1 in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(hh)](https://www.legislation.gov.uk/uksi/2004/827/article/3/hh)
 
-[^key-2aeca7892e0ff3e4138cb1ca805ae77e]: Textual amendment: Words in [Sch. 6 para. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2003/20/schedule/6/paragraph/1/1/b) repealed (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2020/1447/schedule) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/9/2))
+[^c-2aeca7892e0ff3e4138cb1ca805ae77e]: Textual amendment: Words in [Sch. 6 para. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2003/20/schedule/6/paragraph/1/1/b) repealed (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2020/1447/schedule) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/9/2))
 
-[^key-91916f0793b3cef528548cea75e9fedf]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2003/20/schedule/6/paragraph/2) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(hh)](https://www.legislation.gov.uk/uksi/2004/827/article/3/hh)
+[^c-91916f0793b3cef528548cea75e9fedf]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2003/20/schedule/6/paragraph/2) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(hh)](https://www.legislation.gov.uk/uksi/2004/827/article/3/hh)
 
-[^key-e615bb1eef7d7337d5d8867464db47de]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2003/20/schedule/6/paragraph/3) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(hh)](https://www.legislation.gov.uk/uksi/2004/827/article/3/hh)
+[^c-e615bb1eef7d7337d5d8867464db47de]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2003/20/schedule/6/paragraph/3) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(hh)](https://www.legislation.gov.uk/uksi/2004/827/article/3/hh)
 
-[^key-842454420113b225db6750dd7615f8ef]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2003/20/schedule/6/paragraph/4) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(hh)](https://www.legislation.gov.uk/uksi/2004/827/article/3/hh)
+[^c-842454420113b225db6750dd7615f8ef]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2003/20/schedule/6/paragraph/4) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(hh)](https://www.legislation.gov.uk/uksi/2004/827/article/3/hh)
 
-[^key-bb8b6989cd19505f7d9200e7f3ef58a9]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2003/20/schedule/6/paragraph/5) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(hh)](https://www.legislation.gov.uk/uksi/2004/827/article/3/hh)
+[^c-bb8b6989cd19505f7d9200e7f3ef58a9]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2003/20/schedule/6/paragraph/5) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(hh)](https://www.legislation.gov.uk/uksi/2004/827/article/3/hh)
 
-[^key-1c8220d59494af81513edb308e7dc339]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2003/20/schedule/6/paragraph/6) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(hh)](https://www.legislation.gov.uk/uksi/2004/827/article/3/hh)
+[^c-1c8220d59494af81513edb308e7dc339]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2003/20/schedule/6/paragraph/6) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(hh)](https://www.legislation.gov.uk/uksi/2004/827/article/3/hh)
 
-[^key-bd6039cb978d9fb0d5f916ee73ea9fe2]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2003/20/schedule/6/paragraph/7) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(hh)](https://www.legislation.gov.uk/uksi/2004/827/article/3/hh)
+[^c-bd6039cb978d9fb0d5f916ee73ea9fe2]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2003/20/schedule/6/paragraph/7) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(hh)](https://www.legislation.gov.uk/uksi/2004/827/article/3/hh)
 
-[^key-6d64fc2a4cdc41921cb55dacad3aa3b1]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2003/20/schedule/6/paragraph/8) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(hh)](https://www.legislation.gov.uk/uksi/2004/827/article/3/hh)
+[^c-6d64fc2a4cdc41921cb55dacad3aa3b1]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2003/20/schedule/6/paragraph/8) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(hh)](https://www.legislation.gov.uk/uksi/2004/827/article/3/hh)
 
-[^key-f41d40d6068c746f9f25d05f57e82d53]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2003/20/schedule/6/paragraph/9) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(hh)](https://www.legislation.gov.uk/uksi/2004/827/article/3/hh)
+[^c-f41d40d6068c746f9f25d05f57e82d53]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2003/20/schedule/6/paragraph/9) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(hh)](https://www.legislation.gov.uk/uksi/2004/827/article/3/hh)
 
-[^key-b653bf5fda7dd783876fea7cdea03d53]: Commencement: Sch. 6 para. 10 in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(hh)](https://www.legislation.gov.uk/uksi/2004/827/article/3/hh)
+[^c-b653bf5fda7dd783876fea7cdea03d53]: Commencement: Sch. 6 para. 10 in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(hh)](https://www.legislation.gov.uk/uksi/2004/827/article/3/hh)
 
-[^key-a1135e13548518e96be8f00a7be89a9a]: Textual amendment: Sch. 6 para. 10(b) and word repealed (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2020/1447/schedule) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/9/2))
+[^c-a1135e13548518e96be8f00a7be89a9a]: Textual amendment: Sch. 6 para. 10(b) and word repealed (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2020/1447/schedule) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/9/2))

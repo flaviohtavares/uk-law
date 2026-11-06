@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159A. Disclosure of information[^key-a2ba46e573ec47503ab1290fea529c15]
+## 159A. Disclosure of information[^c-a2ba46e573ec47503ab1290fea529c15]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2ba46e573ec47503ab1290fea529c15]: Textual amendment: S. 159A inserted (4.2.2011) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 22(2)](https://www.legislation.gov.uk/ukpga/2006/49/section/22/2), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10); [S.I. 2011/19](https://www.legislation.gov.uk/uksi/2011/19), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/19/article/2/a)
+[^c-a2ba46e573ec47503ab1290fea529c15]: Textual amendment: S. 159A inserted (4.2.2011) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 22(2)](https://www.legislation.gov.uk/ukpga/2006/49/section/22/2), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10); [S.I. 2011/19](https://www.legislation.gov.uk/uksi/2011/19), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/19/article/2/a)

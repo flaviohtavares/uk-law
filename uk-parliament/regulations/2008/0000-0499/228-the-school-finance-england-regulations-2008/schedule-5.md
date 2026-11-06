@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — CONTENTS OF SCHEMES[^key-5e2077d07ee46d7eac32f1d2ddb72ade]
+## SCHEDULE 5 — CONTENTS OF SCHEMES[^c-5e2077d07ee46d7eac32f1d2ddb72ade]
 
 *Extent: E+W*
 
@@ -130,7 +130,7 @@ The matters referred to in regulation 26, being matters connected with the finan
 
 ## Annotations
 
-[^key-5e2077d07ee46d7eac32f1d2ddb72ade]: Commencement: Sch. 5 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-5e2077d07ee46d7eac32f1d2ddb72ade]: Commencement: Sch. 5 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
 
 [^f00086]: Footnote: Section 49(4) is amended by section 215 of, and paragraph 100 of Schedule 21 to the 2002 Act.
 

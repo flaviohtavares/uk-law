@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Disapplication of measures to a regulated place[^key-bbad19cce6f4cf61de8d96572c140767]
+## 18. Disapplication of measures to a regulated place[^c-bbad19cce6f4cf61de8d96572c140767]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ This Part does not apply to a regulated place.
 
 ## Annotations
 
-[^key-bbad19cce6f4cf61de8d96572c140767]: Commencement: Reg. 18 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-bbad19cce6f4cf61de8d96572c140767]: Commencement: Reg. 18 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

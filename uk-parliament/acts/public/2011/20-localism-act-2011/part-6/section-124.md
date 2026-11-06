@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-8f45ec2a3d5504bcaea43323a2cb6369] In the Town and Country Planning Act 1990 after section 171B insert—
+(1)[^c-8f45ec2a3d5504bcaea43323a2cb6369] In the Town and Country Planning Act 1990 after section 171B insert—
 
 > **171BA. Time limits in cases involving concealment**
 >
@@ -82,7 +82,7 @@ summary: ''
 >
 > (3) In this section “**planning enforcement order**” means an order under section 171BA(1).
 
-(2)[^key-eb4befee0ea6a6ee576a39df1ab190ff][^key-c4ab14ed0b83750bc1995529a8c3d817] In section 188 of the Town and Country Planning Act 1990 (register of enforcement and stop notices)—
+(2)[^c-eb4befee0ea6a6ee576a39df1ab190ff][^c-c4ab14ed0b83750bc1995529a8c3d817] In section 188 of the Town and Country Planning Act 1990 (register of enforcement and stop notices)—
 
 - (a) in subsection (1) (matters to which registers apply) before paragraph (a) insert—
 
@@ -101,7 +101,7 @@ summary: ''
   , and
 - (e) in the heading after “and stop notices” insert “ and other enforcement action ”.
 
-(3)[^key-8f45ec2a3d5504bcaea43323a2cb6369] In section 191 of the Town and Country Planning Act 1990 (certificate of lawfulness of existing use or development) after subsection (3) insert—
+(3)[^c-8f45ec2a3d5504bcaea43323a2cb6369] In section 191 of the Town and Country Planning Act 1990 (certificate of lawfulness of existing use or development) after subsection (3) insert—
 
 > (3A) In determining for the purposes of this section whether the time for taking enforcement action in respect of a matter has expired, that time is to be taken not to have expired if—
 >
@@ -111,8 +111,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8f45ec2a3d5504bcaea43323a2cb6369]: Commencement: [S. 124(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/124/1)[(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/124/3) in force at 6.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(b)](https://www.legislation.gov.uk/uksi/2012/628/article/8/b) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [arts. 18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)
+[^c-8f45ec2a3d5504bcaea43323a2cb6369]: Commencement: [S. 124(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/124/1)[(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/124/3) in force at 6.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(b)](https://www.legislation.gov.uk/uksi/2012/628/article/8/b) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [arts. 18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)
 
-[^key-eb4befee0ea6a6ee576a39df1ab190ff]: Commencement: [S. 124(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/124/2) in force at 15.1.2012 for specified purposes by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(i)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-eb4befee0ea6a6ee576a39df1ab190ff]: Commencement: [S. 124(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/124/2) in force at 15.1.2012 for specified purposes by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(i)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
 
-[^key-c4ab14ed0b83750bc1995529a8c3d817]: Commencement: [S. 124(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/124/2) in force at 6.4.2012 in so far as not already in force by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(b)](https://www.legislation.gov.uk/uksi/2012/628/article/8/b) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [arts. 18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)
+[^c-c4ab14ed0b83750bc1995529a8c3d817]: Commencement: [S. 124(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/124/2) in force at 6.4.2012 in so far as not already in force by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(b)](https://www.legislation.gov.uk/uksi/2012/628/article/8/b) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [arts. 18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)

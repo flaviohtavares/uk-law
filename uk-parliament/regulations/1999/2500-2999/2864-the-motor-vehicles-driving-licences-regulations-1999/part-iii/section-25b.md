@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25B. Applications for safe road use tests[^key-21332c9c4e369fef958a351c0c8c60e9]
+## 25B. Applications for safe road use tests[^c-21332c9c4e369fef958a351c0c8c60e9]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21332c9c4e369fef958a351c0c8c60e9]: Textual amendment: Reg. 25B inserted (1.5.2010) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2010 (S.I. 2010/1203)](https://www.legislation.gov.uk/uksi/2010/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1203/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2010/1203/regulation/11)
+[^c-21332c9c4e369fef958a351c0c8c60e9]: Textual amendment: Reg. 25B inserted (1.5.2010) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2010 (S.I. 2010/1203)](https://www.legislation.gov.uk/uksi/2010/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1203/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2010/1203/regulation/11)

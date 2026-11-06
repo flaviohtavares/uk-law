@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Destruction of fingerprints[^key-4b64add17a4175b25afb03a00dae6a89]
+## 36. Destruction of fingerprints[^c-4b64add17a4175b25afb03a00dae6a89]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b64add17a4175b25afb03a00dae6a89]: Textual amendment: [S. 36](https://www.legislation.gov.uk/ukpga/2001/24/section/36) repealed (1.7.2021) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 18](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/18); [S.I. 2021/771](https://www.legislation.gov.uk/uksi/2021/771), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/771/regulation/2/c)
+[^c-4b64add17a4175b25afb03a00dae6a89]: Textual amendment: [S. 36](https://www.legislation.gov.uk/ukpga/2001/24/section/36) repealed (1.7.2021) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 18](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/18); [S.I. 2021/771](https://www.legislation.gov.uk/uksi/2021/771), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/771/regulation/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. EC companies seeking to carry on reinsurance business[^key-7909a52baa907254712ab3ecd225c0d0]
+## 98. EC companies seeking to carry on reinsurance business[^c-7909a52baa907254712ab3ecd225c0d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7909a52baa907254712ab3ecd225c0d0]: Commencement: Art. 98 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-7909a52baa907254712ab3ecd225c0d0]: Commencement: Art. 98 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

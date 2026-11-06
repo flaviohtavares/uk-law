@@ -39,50 +39,50 @@ An Act to make further provision with respect to the welfare of livestock; to pr
 
 *Extent: E+W+S*
 
-### 1. Prevention of unnecessary pain and distress for livestock.[^key-b3638e6b9378bd35cb9b8efdc86c4df1][^key-235d2d251d3c5c90ce756b90568b697f]
+### 1. Prevention of unnecessary pain and distress for livestock.[^c-b3638e6b9378bd35cb9b8efdc86c4df1][^c-235d2d251d3c5c90ce756b90568b697f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Regulations with respect to the welfare of livestock.[^key-b3638e6b9378bd35cb9b8efdc86c4df1][^c3516291][^c4308171][^key-235d2d251d3c5c90ce756b90568b697f]
+### 2. Regulations with respect to the welfare of livestock.[^c-b3638e6b9378bd35cb9b8efdc86c4df1][^c3516291][^c4308171][^c-235d2d251d3c5c90ce756b90568b697f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Codes of recommendations for the welfare of livestock.[^key-b3638e6b9378bd35cb9b8efdc86c4df1][^c3516311][^c4308191][^key-235d2d251d3c5c90ce756b90568b697f]
+### 3. Codes of recommendations for the welfare of livestock.[^c-b3638e6b9378bd35cb9b8efdc86c4df1][^c3516311][^c4308191][^c-235d2d251d3c5c90ce756b90568b697f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4 (Extent: E+W) (affected by repeal, see note). Expenditure on free advice on the welfare of livestock.[^key-235d2d251d3c5c90ce756b90568b697f]
+### 4 (Extent: E+W) (affected by repeal, see note). Expenditure on free advice on the welfare of livestock.[^c-235d2d251d3c5c90ce756b90568b697f]
 
 *Extent: S*
 
-Without prejudice to the generality of his powers to incur expenditure under the enactments relating to the eradication and prevention of diseases of animals, the Minister may, with the approval of the Treasury, spend such sums as he thinks fit on the giving of advice, free of charge to persons concerned with livestock on matters relating to the welfare of livestock. *(Extent: E+W)* *(affected by repeal, see note)*[^key-235d2d251d3c5c90ce756b90568b697f]
+Without prejudice to the generality of his powers to incur expenditure under the enactments relating to the eradication and prevention of diseases of animals, the Minister may, with the approval of the Treasury, spend such sums as he thinks fit on the giving of advice, free of charge to persons concerned with livestock on matters relating to the welfare of livestock. *(Extent: E+W)* *(affected by repeal, see note)*[^c-235d2d251d3c5c90ce756b90568b697f]
 
-### 5 (Extent: E+W) (affected by repeal, see note). Extension of classes of operations in which anaesthetics must be used.[^c3516331][^c4308211][^key-235d2d251d3c5c90ce756b90568b697f]
-
-*Extent: S*
-
-The Ministers may, after consultation with the Royal College of Veterinary Surgeons and with such persons appearing to the Ministers to represent any other interests concerned as the Ministers consider appropriate, by order provide that paragraphs 7 and 8 of Schedule 1 to the *(Extent: E+W)* *(affected by repeal, see note)*[^key-235d2d251d3c5c90ce756b90568b697f] [^c3516341]Protection of Animals (Anaesthetics) Act 1954 (which exempt certain minor operations from the requirement to use anaesthetics imposed by that Act) shall not permit the performance, either in any circumstances or in such circumstances as may be specified in the order, of such operations as may be so specified. *(Extent: E+W)* *(affected by repeal, see note)*[^key-235d2d251d3c5c90ce756b90568b697f]
-
-### 6. Powers of entry, etc.[^key-b3638e6b9378bd35cb9b8efdc86c4df1][^key-235d2d251d3c5c90ce756b90568b697f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 7. Punishment of offences under Part I.[^key-b3638e6b9378bd35cb9b8efdc86c4df1][^key-235d2d251d3c5c90ce756b90568b697f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 8. Interpretation etc. of Part I.[^key-235d2d251d3c5c90ce756b90568b697f]
+### 5 (Extent: E+W) (affected by repeal, see note). Extension of classes of operations in which anaesthetics must be used.[^c3516331][^c4308211][^c-235d2d251d3c5c90ce756b90568b697f]
 
 *Extent: S*
 
-(1)[^c3516381] In this Part of this Act— *(affected by repeal, see note)*[^key-b3638e6b9378bd35cb9b8efdc86c4df1]
+The Ministers may, after consultation with the Royal College of Veterinary Surgeons and with such persons appearing to the Ministers to represent any other interests concerned as the Ministers consider appropriate, by order provide that paragraphs 7 and 8 of Schedule 1 to the *(Extent: E+W)* *(affected by repeal, see note)*[^c-235d2d251d3c5c90ce756b90568b697f] [^c3516341]Protection of Animals (Anaesthetics) Act 1954 (which exempt certain minor operations from the requirement to use anaesthetics imposed by that Act) shall not permit the performance, either in any circumstances or in such circumstances as may be specified in the order, of such operations as may be so specified. *(Extent: E+W)* *(affected by repeal, see note)*[^c-235d2d251d3c5c90ce756b90568b697f]
 
-- [^key-082a546837b4871f93a3343d494f94fd]...
-- “livestock” means any creature kept for the production of food, wool, skin or fur or for use in the farming of land or for such purpose as the Minister may by order specify. *(affected by repeal, see note)*[^key-b3638e6b9378bd35cb9b8efdc86c4df1]
+### 6. Powers of entry, etc.[^c-b3638e6b9378bd35cb9b8efdc86c4df1][^c-235d2d251d3c5c90ce756b90568b697f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Punishment of offences under Part I.[^c-b3638e6b9378bd35cb9b8efdc86c4df1][^c-235d2d251d3c5c90ce756b90568b697f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Interpretation etc. of Part I.[^c-235d2d251d3c5c90ce756b90568b697f]
+
+*Extent: S*
+
+(1)[^c3516381] In this Part of this Act— *(affected by repeal, see note)*[^c-b3638e6b9378bd35cb9b8efdc86c4df1]
+
+- [^c-082a546837b4871f93a3343d494f94fd]...
+- “livestock” means any creature kept for the production of food, wool, skin or fur or for use in the farming of land or for such purpose as the Minister may by order specify. *(affected by repeal, see note)*[^c-b3638e6b9378bd35cb9b8efdc86c4df1]
 
 (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-cb5b38629cbc8700bafd0e8dedd16df6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-cb5b38629cbc8700bafd0e8dedd16df6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -115,7 +115,7 @@ The Ministers may, after consultation with the Royal College of Veterinary Surge
 - (a) in the case of such an acquisition, unless the date on which notice to treat in respect of the interest to be acquired is served or treated as served on the tenant by the acquiring authority is after the initial date; and
 - (b) where in the case of such a taking of possession prior notice of the taking of possession is by virtue of any enactment required to be served on the tenant by the acquiring authority, unless the date on which the notice is so served is after the initial date.
 
-(4)[^key-d58a14776bc32436b07834a0dd3d4687] If a person is entitled in respect of the same interest in land to a payment both—
+(4)[^c-d58a14776bc32436b07834a0dd3d4687] If a person is entitled in respect of the same interest in land to a payment both—
 
 - (a) by virtue of subsection (1), and
 - (b) under section 33B of the Land Compensation Act 1973 (additional loss payment for agricultural land),
@@ -265,16 +265,16 @@ whether or not the conditions specified in paragraphs (a) to (c) of subsection (
 
 #### 45. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c3517961]
 
-#### 46. Further functions of agricultural wages committees.[^c3517971][^key-3e1f70a7a5d6cd59fa63cb6c32aa7868]
+#### 46. Further functions of agricultural wages committees.[^c3517971][^c-3e1f70a7a5d6cd59fa63cb6c32aa7868]
 
 *Extent: E+W+S*
 
-(1) The Minister may by regulations— *(affected by repeal, see note)*[^key-3e1f70a7a5d6cd59fa63cb6c32aa7868]
+(1) The Minister may by regulations— *(affected by repeal, see note)*[^c-3e1f70a7a5d6cd59fa63cb6c32aa7868]
 
-- (a) provide that the functions under the *(affected by repeal, see note)*[^key-3e1f70a7a5d6cd59fa63cb6c32aa7868] [^c3517981]Agricultural Wages Act 1948 of agricultural wages 0committees established in pursuance of that Act shall include such further functions as the Minister considers appropriate for the purpose of enabling or requiring those committees to give effect to orders made or which may be made by the Agricultural Wages Board for England and Wales under that Act and (without prejudice to the generality of the foregoing provisions in this paragraph) to determine whether any person is a member of any special class of workers as defined in such an order; *(affected by repeal, see note)*[^key-3e1f70a7a5d6cd59fa63cb6c32aa7868]
-- (b) make provision with respect to the procedure to be followed in connection with the exercise of the further functions aforesaid and provide that section 15 of that Act (which relates to evidence of resolutions and orders) shall apply with such modifications as the Minister considers appropriate to decisions made in the exercise of those functions. *(affected by repeal, see note)*[^key-3e1f70a7a5d6cd59fa63cb6c32aa7868]
+- (a) provide that the functions under the *(affected by repeal, see note)*[^c-3e1f70a7a5d6cd59fa63cb6c32aa7868] [^c3517981]Agricultural Wages Act 1948 of agricultural wages 0committees established in pursuance of that Act shall include such further functions as the Minister considers appropriate for the purpose of enabling or requiring those committees to give effect to orders made or which may be made by the Agricultural Wages Board for England and Wales under that Act and (without prejudice to the generality of the foregoing provisions in this paragraph) to determine whether any person is a member of any special class of workers as defined in such an order; *(affected by repeal, see note)*[^c-3e1f70a7a5d6cd59fa63cb6c32aa7868]
+- (b) make provision with respect to the procedure to be followed in connection with the exercise of the further functions aforesaid and provide that section 15 of that Act (which relates to evidence of resolutions and orders) shall apply with such modifications as the Minister considers appropriate to decisions made in the exercise of those functions. *(affected by repeal, see note)*[^c-3e1f70a7a5d6cd59fa63cb6c32aa7868]
 
-(2) In this section “ *(affected by repeal, see note)*[^key-3e1f70a7a5d6cd59fa63cb6c32aa7868]**functions *(affected by repeal, see note)*[^key-3e1f70a7a5d6cd59fa63cb6c32aa7868]**” means powers and duties. *(affected by repeal, see note)*[^key-3e1f70a7a5d6cd59fa63cb6c32aa7868]
+(2) In this section “ *(affected by repeal, see note)*[^c-3e1f70a7a5d6cd59fa63cb6c32aa7868]**functions *(affected by repeal, see note)*[^c-3e1f70a7a5d6cd59fa63cb6c32aa7868]**” means powers and duties. *(affected by repeal, see note)*[^c-3e1f70a7a5d6cd59fa63cb6c32aa7868]
 
 (3)[^c3517991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -344,7 +344,7 @@ and any sums received by the Minister or the Ministers by virtue of this Act sha
 
 (1) This Act may be cited as the Agriculture (Miscellaneous Provisions) Act 1968.
 
-(2)[^key-101ca41bfd3701b4274587c9cc2e12ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-101ca41bfd3701b4274587c9cc2e12ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) This Act, except Part IV and sections 10, 13, 47 and 48, extends to Scotland, and sections 11, 14 and 16 and Part III of this Act extend to Scotland only.
 
@@ -383,7 +383,7 @@ they shall dismiss the application; and if the tribunal do not dismiss the appli
 **5.** The enactments aforesaid are—
 
 - (a) Part I and section 32 of the [^c3518161]Land Compensation Act 1961;
-- (b) the following provisions of the [^c3518171]Compulsory Purchase Act 1965, that is to say, sections 6, 9, 11, 12, 20(4) and (5), 22 (except subsection (4)) and 26; in Schedule 1, paragraphs 6 to 8 and 10; Schedule 2 [^key-90c9f2b5978682f3faa14fd47c157b5a]...;
+- (b) the following provisions of the [^c3518171]Compulsory Purchase Act 1965, that is to say, sections 6, 9, 11, 12, 20(4) and (5), 22 (except subsection (4)) and 26; in Schedule 1, paragraphs 6 to 8 and 10; Schedule 2 [^c-90c9f2b5978682f3faa14fd47c157b5a]...;
 - (c) any provision of the Lands Clauses Acts or of any other enactment or any instrument having effect by virtue of an enactment, being a provision corresponding to a provision mentioned in sub-paragraph (b) of this paragraph.
 
 ## SCHEDULE 4 . . .[^c3518181]
@@ -461,9 +461,9 @@ Section 52.
 
     Pt. I (ss. 1-8): transfer of functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-b3638e6b9378bd35cb9b8efdc86c4df1]: Textual amendment: Pt. 1 (except ss. 4, 5 and s. 8(1)(3) for specified purposes) repealed (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [s. 55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1), [sch. 2 para. 8(1)](https://www.legislation.gov.uk/asp/2006/11/schedule/2/paragraph/8/1) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2006/482/article/4/2)[(3)](https://www.legislation.gov.uk/ssi/2006/482/article/4/3))
+[^c-b3638e6b9378bd35cb9b8efdc86c4df1]: Textual amendment: Pt. 1 (except ss. 4, 5 and s. 8(1)(3) for specified purposes) repealed (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [s. 55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1), [sch. 2 para. 8(1)](https://www.legislation.gov.uk/asp/2006/11/schedule/2/paragraph/8/1) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2006/482/article/4/2)[(3)](https://www.legislation.gov.uk/ssi/2006/482/article/4/3))
 
-[^key-235d2d251d3c5c90ce756b90568b697f]: Textual amendment: Pt. 1 repealed (E.W.) (27.3.2007 for W. and 6.4.2007 for E. except for the repeals of ss. 2, 3, 6, 7, 8, 1.10.2007 for E. and 24.10.2007 for W. in so far as not already in force) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/45/schedule/4) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(m)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/m); [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/m); [S.I. 2007/2711](https://www.legislation.gov.uk/uksi/2007/2711), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2007/2711/article/2/b/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/2711/article/3)); [S.I. 2007/3065](https://www.legislation.gov.uk/uksi/2007/3065), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2007/3065/article/2/b/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/3065/article/3))
+[^c-235d2d251d3c5c90ce756b90568b697f]: Textual amendment: Pt. 1 repealed (E.W.) (27.3.2007 for W. and 6.4.2007 for E. except for the repeals of ss. 2, 3, 6, 7, 8, 1.10.2007 for E. and 24.10.2007 for W. in so far as not already in force) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/45/schedule/4) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(m)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/m); [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/m); [S.I. 2007/2711](https://www.legislation.gov.uk/uksi/2007/2711), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2007/2711/article/2/b/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/2711/article/3)); [S.I. 2007/3065](https://www.legislation.gov.uk/uksi/2007/3065), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2007/3065/article/2/b/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/3065/article/3))
 
 [^c3516291]: Modification: S. 2: power to transfer functions conferred (27.12.1999) by [S.I. 1999/3141](https://www.legislation.gov.uk/uksi/1999/3141), [arts. 2(1)(5)](https://www.legislation.gov.uk/uksi/1999/3141/article/2/1/5), [3](https://www.legislation.gov.uk/uksi/1999/3141/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1999/3141/schedule)
 
@@ -481,9 +481,9 @@ Section 52.
 
 [^c3516381]: Modification: S. 8(1) (definition of “livestock”) extended by [S. I. 1980/593](https://www.legislation.gov.uk/uksi/1980/593), [art. 2](https://www.legislation.gov.uk/uksi/1980/593/article/2)
 
-[^key-082a546837b4871f93a3343d494f94fd]: Textual amendment: Words in s. 8(1) repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-082a546837b4871f93a3343d494f94fd]: Textual amendment: Words in s. 8(1) repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
-[^key-cb5b38629cbc8700bafd0e8dedd16df6]: Textual amendment: [S. 8(3)](https://www.legislation.gov.uk/ukpga/1968/34/section/8/3) repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-cb5b38629cbc8700bafd0e8dedd16df6]: Textual amendment: [S. 8(3)](https://www.legislation.gov.uk/ukpga/1968/34/section/8/3) repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
 [^c3516451]: Textual amendment: Part II (ss. 9-17) repealed (S.) (25.9.1991) by [Agricultural Holdings (Scotland) Act 1991 (c. 55, SIF 2:3)](https://www.legislation.gov.uk/ukpga/1991/55), [ss. 88(2)](https://www.legislation.gov.uk/ukpga/1991/55/section/88/2), [89(2)](https://www.legislation.gov.uk/ukpga/1991/55/section/89/2), [Sch. 13 Pt.I](https://www.legislation.gov.uk/ukpga/1991/55/schedule/13/part/I) (with [s. 45(3)](https://www.legislation.gov.uk/ukpga/1991/55/section/45/3), [Sch. 12 paras. 1](https://www.legislation.gov.uk/ukpga/1991/55/schedule/12/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/1991/55/schedule/12/paragraph/3))
 
@@ -507,7 +507,7 @@ Section 52.
 
 [^c3517001]: Textual amendment: S. 12(1A) inserted (1.9.1995) by [1995 c. 8](https://www.legislation.gov.uk/ukpga/1995/8), [ss. 40](https://www.legislation.gov.uk/ukpga/1995/8/section/40), [41(2)](https://www.legislation.gov.uk/ukpga/1995/8/section/41/2), [Sch. para. 23](https://www.legislation.gov.uk/ukpga/1995/8/schedule/paragraph/23) (with [s. 37](https://www.legislation.gov.uk/ukpga/1995/8/section/37)).
 
-[^key-d58a14776bc32436b07834a0dd3d4687]: Textual amendment: [S. 12(4)](https://www.legislation.gov.uk/ukpga/1968/34/section/12/4) inserted (31.10.2004) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2004/5/schedule/7/paragraph/4) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/d)
+[^c-d58a14776bc32436b07834a0dd3d4687]: Textual amendment: [S. 12(4)](https://www.legislation.gov.uk/ukpga/1968/34/section/12/4) inserted (31.10.2004) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2004/5/schedule/7/paragraph/4) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/d)
 
 [^c3517071]: Textual amendment: Words substituted (E.W.) by [Agricultural Holdings Act 1986 (c.5, SIF 2:3)](https://www.legislation.gov.uk/ukpga/1986/5), [ss. 99](https://www.legislation.gov.uk/ukpga/1986/5/section/99), [100](https://www.legislation.gov.uk/ukpga/1986/5/section/100), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/1986/5/schedule/13/paragraph/3), [Sch. 14 para. 45](https://www.legislation.gov.uk/ukpga/1986/5/schedule/14/paragraph/45)
 
@@ -579,7 +579,7 @@ Section 52.
 
     S. 46: transfer of functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-3e1f70a7a5d6cd59fa63cb6c32aa7868]: Textual amendment: [S. 46](https://www.legislation.gov.uk/ukpga/1968/34/section/46) repealed (1.10.2013 for E.) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/20/paragraph/2); [S.I. 2013/1455](https://www.legislation.gov.uk/uksi/2013/1455), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/1455/article/3/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1455/schedule/2) (with [art. 4(2)(4)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/2/4)) (as amended (7.9.2013) by [S.I. 2013/2271](https://www.legislation.gov.uk/uksi/2013/2271), [art. 2](https://www.legislation.gov.uk/uksi/2013/2271/article/2)); s. 46 repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-3e1f70a7a5d6cd59fa63cb6c32aa7868]: Textual amendment: [S. 46](https://www.legislation.gov.uk/ukpga/1968/34/section/46) repealed (1.10.2013 for E.) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/20/paragraph/2); [S.I. 2013/1455](https://www.legislation.gov.uk/uksi/2013/1455), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/1455/article/3/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1455/schedule/2) (with [art. 4(2)(4)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/2/4)) (as amended (7.9.2013) by [S.I. 2013/2271](https://www.legislation.gov.uk/uksi/2013/2271), [art. 2](https://www.legislation.gov.uk/uksi/2013/2271/article/2)); s. 46 repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
 [^c3517981]: Marginal citation: [1948 c. 47](https://www.legislation.gov.uk/ukpga/1948/47).
 
@@ -597,7 +597,7 @@ Section 52.
 
 [^c3518051]: Textual amendment: Words repealed by [Post Office Act 1969 (c. 48)](https://www.legislation.gov.uk/ukpga/1969/48), [Sch. 11 Pt. II](https://www.legislation.gov.uk/ukpga/1969/48/schedule/11/part/II)
 
-[^key-101ca41bfd3701b4274587c9cc2e12ce]: Textual amendment: [S. 54(2)](https://www.legislation.gov.uk/ukpga/1968/34/section/54/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 1
+[^c-101ca41bfd3701b4274587c9cc2e12ce]: Textual amendment: [S. 54(2)](https://www.legislation.gov.uk/ukpga/1968/34/section/54/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 1
 
 [^c3518061]: Textual amendment: Words repealed by [Northern Ireland Constitution Act 1973 (c. 36)](https://www.legislation.gov.uk/ukpga/1973/36), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1973/36/schedule/6/part/I)
 
@@ -611,7 +611,7 @@ Section 52.
 
 [^c3518171]: Marginal citation: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56).
 
-[^key-90c9f2b5978682f3faa14fd47c157b5a]: Textual amendment: Words in [Sch. 3 para. 5(b)](https://www.legislation.gov.uk/ukpga/1968/34/schedule/3/paragraph/5/b) omitted (13.7.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 16 para. 8](https://www.legislation.gov.uk/ukpga/2016/22/schedule/16/paragraph/8); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/j)
+[^c-90c9f2b5978682f3faa14fd47c157b5a]: Textual amendment: Words in [Sch. 3 para. 5(b)](https://www.legislation.gov.uk/ukpga/1968/34/schedule/3/paragraph/5/b) omitted (13.7.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 16 para. 8](https://www.legislation.gov.uk/ukpga/2016/22/schedule/16/paragraph/8); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/j)
 
 [^c3518181]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ukpga/1968/34/schedule/4) repealed (S.) (25.9.1991) by [Agricultural Holdings (Scotland) Act 1991 (c. 55, SIF 2:3)](https://www.legislation.gov.uk/ukpga/1991/55), [ss. 88(2)](https://www.legislation.gov.uk/ukpga/1991/55/section/88/2), [89(2)](https://www.legislation.gov.uk/ukpga/1991/55/section/89/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/1991/55/schedule/13), [Pt. I](https://www.legislation.gov.uk/ukpga/1991/55/part/I) (with [s. 45(3)](https://www.legislation.gov.uk/ukpga/1991/55/section/45/3), [Sch. 12 paras. 1](https://www.legislation.gov.uk/ukpga/1991/55/schedule/12/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/1991/55/schedule/12/paragraph/3))
 

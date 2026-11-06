@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 180. Exemptions from offence under section 179[^key-cf27b9fd9cd3bd4ce6bd0606c42a876a][^key-cdd3cd545743292a32add8bf99e1fdd5]
+## 180. Exemptions from offence under section 179[^c-cf27b9fd9cd3bd4ce6bd0606c42a876a][^c-cdd3cd545743292a32add8bf99e1fdd5]
 
 *Extent: E+W+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cf27b9fd9cd3bd4ce6bd0606c42a876a]: Commencement: S. 180 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-cf27b9fd9cd3bd4ce6bd0606c42a876a]: Commencement: S. 180 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-cdd3cd545743292a32add8bf99e1fdd5]: Commencement: [S. 180](https://www.legislation.gov.uk/ukpga/2023/50/section/180) in force at 31.1.2024 by [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
+[^c-cdd3cd545743292a32add8bf99e1fdd5]: Commencement: [S. 180](https://www.legislation.gov.uk/ukpga/2023/50/section/180) in force at 31.1.2024 by [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)

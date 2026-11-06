@@ -23,7 +23,7 @@ summary: ''
 (1) This regulation applies to a person (“H”) if—
 
 - (a) H is the holder of a UK marketing authorisation;
-- (b) H has benefited from one or more rewards or incentives under Article 37 or 38[^key-6663cdf4137cb8ad4fd7e1199effba8b] of the Paediatric Regulation in relation to the product to which the authorisation relates, and
+- (b) H has benefited from one or more rewards or incentives under Article 37 or 38[^c-6663cdf4137cb8ad4fd7e1199effba8b] of the Paediatric Regulation in relation to the product to which the authorisation relates, and
 - (c) all of the periods of protection provided pursuant to those Articles have expired in relation to H.
 
 (2) H is guilty of an offence if H ceases to supply the product without previously in accordance with Article 35 of the Paediatric Regulation —
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6663cdf4137cb8ad4fd7e1199effba8b]: Textual amendment: Words in reg. 89(1)(b) substituted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 90A](https://www.legislation.gov.uk/uksi/2019/775/regulation/90A) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 67](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/67))
+[^c-6663cdf4137cb8ad4fd7e1199effba8b]: Textual amendment: Words in reg. 89(1)(b) substituted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 90A](https://www.legislation.gov.uk/uksi/2019/775/regulation/90A) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 67](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/67))

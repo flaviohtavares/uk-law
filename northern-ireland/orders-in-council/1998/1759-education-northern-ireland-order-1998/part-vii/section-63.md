@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 63. Maintenance and other grants to grant-maintained integrated schools[^key-f45fcb9e94880678df06307be4545260]
+## 63. Maintenance and other grants to grant-maintained integrated schools[^c-f45fcb9e94880678df06307be4545260]
 
 *Extent: N.I.*
 
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f45fcb9e94880678df06307be4545260]: Commencement: [Art. 63](https://www.legislation.gov.uk/nisi/1998/1759/article/63) in operation at 1.4.2016 by [S.R. 2016/207](https://www.legislation.gov.uk/nisr/2016/207), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/207/article/2/a)
+[^c-f45fcb9e94880678df06307be4545260]: Commencement: [Art. 63](https://www.legislation.gov.uk/nisi/1998/1759/article/63) in operation at 1.4.2016 by [S.R. 2016/207](https://www.legislation.gov.uk/nisr/2016/207), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/207/article/2/a)
 
 [^M_F_700939af-6012-48c0-8e38-e877a402c18c]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b) (but this amendment cannot take effect until the commencement of [S.I. 1998/1759](https://www.legislation.gov.uk/uksi/1998/1759), [art. 63](https://www.legislation.gov.uk/uksi/1998/1759/article/63))
 

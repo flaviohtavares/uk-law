@@ -16,26 +16,26 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Modifications to Monitoring and Reporting Regulation 2018[^key-40cb68050a30b9cf2fe7463d694d0d86]
+## SCHEDULE 4 — Modifications to Monitoring and Reporting Regulation 2018[^c-40cb68050a30b9cf2fe7463d694d0d86]
 
 *Extent: E+W+S+N.I.*
 
 Article 24
 
-**1.**[^key-6163b6c013983a2a24fe0ab21f2d7eaf] The Monitoring and Reporting Regulation 2018[^key-83ba59900919bd9d5154ccd11ce06ebb] is to be read as if—
+**1.**[^c-6163b6c013983a2a24fe0ab21f2d7eaf] The Monitoring and Reporting Regulation 2018[^c-83ba59900919bd9d5154ccd11ce06ebb] is to be read as if—
 
 - (a) for “competent authority” in each place it occurs there were substituted “ regulator ”;
-- (aa)[^key-2b2351301370c0e404c68c5ffa87018c] for “greenhouse gas emissions permit” in each place there were substituted “ permit ”;
+- (aa)[^c-2b2351301370c0e404c68c5ffa87018c] for “greenhouse gas emissions permit” in each place there were substituted “ permit ”;
 - (b) Articles 10, 52, 57, 70, 74, 75, 76 and 77 were omitted; and
 - (c) the words “This Regulation shall be binding in its entirety and directly applicable in all Member States”, immediately following Article 78, were omitted,
 
 and subject to the following additional modifications.
 
-**2.**[^key-0095a9896ec02f697d8595b833e2dd18] Article 1 is to be read as if for the words from “pursuant to” to the end there were substituted “ for the purposes of the 2020 Order ”.
+**2.**[^c-0095a9896ec02f697d8595b833e2dd18] Article 1 is to be read as if for the words from “pursuant to” to the end there were substituted “ for the purposes of the 2020 Order ”.
 
-**3.**[^key-67a8a8f1ad635aa2902a32d8998313f7] Article 2 is to be read as if for the words from “greenhouse gas emissions” to the end of the first subparagraph there were substituted “ specified emissions (as defined in the 2020 Order) from regulated activities, activity data from installations, CO<sub>2 </sub>emissions from aviation activity and tonne-kilometre data from aviation activity ”.
+**3.**[^c-67a8a8f1ad635aa2902a32d8998313f7] Article 2 is to be read as if for the words from “greenhouse gas emissions” to the end of the first subparagraph there were substituted “ specified emissions (as defined in the 2020 Order) from regulated activities, activity data from installations, CO<sub>2 </sub>emissions from aviation activity and tonne-kilometre data from aviation activity ”.
 
-**4.**[^key-f87b31ec88465b348c7938417444a0e8] Article 3 is to be read as if—
+**4.**[^c-f87b31ec88465b348c7938417444a0e8] Article 3 is to be read as if—
 
 - (a) in the words before point (1), for “the following definitions” there were substituted “ except where the context otherwise requires, terms defined in the Greenhouse Gas Emissions Trading Scheme Order 2020 have the meanings given by that Order and the following additional definitions ”;
 - (b) before point (1), there were inserted—
@@ -53,7 +53,7 @@ and subject to the following additional modifications.
   > (2a) ‘the 2020 Order’ means the Greenhouse Gas Emissions Trading Scheme Order 2020;
 
   ;
-- (e)[^key-c330c289a121feb6e61eaf93b33e4e47] after point (5), there were inserted—
+- (e)[^c-c330c289a121feb6e61eaf93b33e4e47] after point (5), there were inserted—
 
   > (5a) ‘Implementing Regulation (EU) 2018/2067’ or ‘Commission Implementing Regulation (EU) 2018/2067’ means the Verification Regulation 2018 (as defined in the 2020 Order);
   >
@@ -73,13 +73,13 @@ and subject to the following additional modifications.
 
   .
 
-**5.**[^key-b72274d48e4e703ed0ffa3ab4d6b1661] Article 4 is to be read as if for “under Directive [2003/87/EC](https://www.legislation.gov.uk/eudr/2003/87)” there were substituted “ for the purposes of the Greenhouse Gas Emissions Trading Scheme Order 2020 ”.
+**5.**[^c-b72274d48e4e703ed0ffa3ab4d6b1661] Article 4 is to be read as if for “under Directive [2003/87/EC](https://www.legislation.gov.uk/eudr/2003/87)” there were substituted “ for the purposes of the Greenhouse Gas Emissions Trading Scheme Order 2020 ”.
 
-**6.**[^key-c0d40e05953227fd062e4671eb7af922] Article 5 is to be read as if for the words from “activities listed” to “that Directive” there were substituted “ regulated activities and aviation activity ”.
+**6.**[^c-c0d40e05953227fd062e4671eb7af922] Article 5 is to be read as if for the words from “activities listed” to “that Directive” there were substituted “ regulated activities and aviation activity ”.
 
-**7.**[^key-fd2bdf0e2177fe51bf50d5107b846c82] Article 9 is to be read as if for “Article 15 of Directive [2003/87/EC](https://www.legislation.gov.uk/eudr/2003/87)” there were substituted “ Commission Implementing Regulation (EU) No 2018/2067 ”.
+**7.**[^c-fd2bdf0e2177fe51bf50d5107b846c82] Article 9 is to be read as if for “Article 15 of Directive [2003/87/EC](https://www.legislation.gov.uk/eudr/2003/87)” there were substituted “ Commission Implementing Regulation (EU) No 2018/2067 ”.
 
-**8.**[^key-0b6e03f00b9ff3527e868c77bdc17fc5] Article 12 is to be read as if—
+**8.**[^c-0b6e03f00b9ff3527e868c77bdc17fc5] Article 12 is to be read as if—
 
 - (a) paragraph 3 were omitted;
 - (b) after paragraph 2 there were inserted—
@@ -93,7 +93,7 @@ and subject to the following additional modifications.
 
   .
 
-**9.**[^key-3516189ae481d551d1bc5be9baebf727] Article 13 is to be read as if—
+**9.**[^c-3516189ae481d551d1bc5be9baebf727] Article 13 is to be read as if—
 
 - (a) for paragraph 1 there were substituted—
 
@@ -102,11 +102,11 @@ and subject to the following additional modifications.
   ;
 - (b) in paragraph 2, for “Member States” there were substituted “ The regulator ”.
 
-**10.**[^key-c2413b4c67365c33b4f76dc4470d3b5b] Article 14(1) is to be read as if “in accordance with Article 7 of Directive [2003/87/EC](https://www.legislation.gov.uk/eudr/2003/87)” were omitted.
+**10.**[^c-c2413b4c67365c33b4f76dc4470d3b5b] Article 14(1) is to be read as if “in accordance with Article 7 of Directive [2003/87/EC](https://www.legislation.gov.uk/eudr/2003/87)” were omitted.
 
-**11.**[^key-465f021cbe06bedc958a40866fefccbc] Article 15 is to be read as if—
+**11.**[^c-465f021cbe06bedc958a40866fefccbc] Article 15 is to be read as if—
 
-- (za)[^key-65d62c110e43c0cfe1f293081333862d] for paragraph 1 there were substituted—
+- (za)[^c-65d62c110e43c0cfe1f293081333862d] for paragraph 1 there were substituted—
 
   > **1.**
   >
@@ -123,9 +123,9 @@ and subject to the following additional modifications.
   - (i) in point (a)(ii), for “calculation methods as laid down in Annex III” there were substituted “ the calculation methods referred to in Article 53(2) ”;
   - (ii) in point (a)(iv), for “Article 28a(6) of Directive [2003/87/EC](https://www.legislation.gov.uk/eudr/2003/87)” there were substituted “ article 33(2) of the 2020 Order ”.
 
-**12.**[^key-b7223fb07f2c6f3a360c818c0521e6e4] Article 16(1) is to be read as if for the words from “shall carry out” to the end there were substituted “ must use, in parallel, both the modified and the original monitoring plan to carry out all monitoring and reporting, according to both plans, and must keep the results of both monitoring approaches in their records ”.
+**12.**[^c-b7223fb07f2c6f3a360c818c0521e6e4] Article 16(1) is to be read as if for the words from “shall carry out” to the end there were substituted “ must use, in parallel, both the modified and the original monitoring plan to carry out all monitoring and reporting, according to both plans, and must keep the results of both monitoring approaches in their records ”.
 
-**13.**[^key-5e145782c08cdd83c0e5dd21c21708bf] Article 18 is to be read as if—
+**13.**[^c-5e145782c08cdd83c0e5dd21c21708bf] Article 18 is to be read as if—
 
 - (a) in paragraph 1, for “EUR 20” there were substituted “ £20 ”;
 - (b) in paragraph 3(c)—
@@ -135,17 +135,17 @@ and subject to the following additional modifications.
   - (i) for “EUR 2000” there were substituted “ £2000 ”;
   - (ii) for “EUR 500” there were substituted “ £500 ”.
 
-**14.**[^key-8660fdcc158d251e66f51990fd709d77] Article 19(3) is to be read as if—
+**14.**[^c-8660fdcc158d251e66f51990fd709d77] Article 19(3) is to be read as if—
 
 - (a) after point (b) there were inserted—
 
   > - (ba) marginal source streams, where the source streams selected by the operator jointly account for less than 10 tonnes of fossil CO<sub>2</sub> per year;
 
   ;
-- (aa)[^key-1ea0451c13738ff99c821254c0cbaee8] in point (c) for “points (a) and (b)” there were substituted “points (a), (b) and (ba)”;
+- (aa)[^c-1ea0451c13738ff99c821254c0cbaee8] in point (c) for “points (a) and (b)” there were substituted “points (a), (b) and (ba)”;
 - (b) in the final subparagraph, for “or a *de minimis* source stream” there were substituted “ , a *de minimis* source stream or a marginal source stream ”.
 
-**15.**[^key-950734e297c2b310dff5a4c7af053bc7] Article 20 is to be read as if—
+**15.**[^c-950734e297c2b310dff5a4c7af053bc7] Article 20 is to be read as if—
 
 - (a) in paragraph 1, in the second subparagraph—
   - (i) after “belonging to” there were inserted “ regulated ”;
@@ -154,14 +154,14 @@ and subject to the following additional modifications.
   - (i) in the first subparagraph, for “within the meaning of Directive [2009/31/EC](https://www.legislation.gov.uk/eudr/2009/31)” there were substituted “ containing a storage site permitted in accordance with the CCS licensing regime ”;
   - (ii) in the second subparagraph, for “pursuant to Article 16 of Directive [2009/31/EC](https://www.legislation.gov.uk/eudr/2009/31) have been taken”, there were substituted “ have been taken in accordance with the CCS licensing regime ”.
 
-**16.**[^key-7ed8a6fd5d76739ef6598bdd6a567e99] Article 26(3) is to be read as if after “source streams” there were inserted “ and marginal source streams ”.
+**16.**[^c-7ed8a6fd5d76739ef6598bdd6a567e99] Article 26(3) is to be read as if after “source streams” there were inserted “ and marginal source streams ”.
 
-**17.**[^key-db4cf11fe2970ae0d07cd9511e419af3] Article 31(1)(b) is to be read as if for “Member State” there were substituted “ United Kingdom ”.
+**17.**[^c-db4cf11fe2970ae0d07cd9511e419af3] Article 31(1)(b) is to be read as if for “Member State” there were substituted “ United Kingdom ”.
 
-**18.**[^key-bf5d293b24da381200d868a99a41f81e] Article 38 is to be read as if—
+**18.**[^c-bf5d293b24da381200d868a99a41f81e] Article 38 is to be read as if—
 
-- (a) in paragraph 2, after “zero” there were inserted “, but , subject to paragraph 2a,[^key-322f23e693c4380ef2f637087afb7ab0] the emission factor for bioliquids shall be zero only if the sustainability criteria set out in Article 17(2) to (5) of Directive [2009/28/EC](https://www.legislation.gov.uk/eudr/2009/28) have been fulfilled”;
-- (aa) after paragraph 2 there were inserted—[^key-c52d1320207bcecddcf8230f3ef6011d]
+- (a) in paragraph 2, after “zero” there were inserted “, but , subject to paragraph 2a,[^c-322f23e693c4380ef2f637087afb7ab0] the emission factor for bioliquids shall be zero only if the sustainability criteria set out in Article 17(2) to (5) of Directive [2009/28/EC](https://www.legislation.gov.uk/eudr/2009/28) have been fulfilled”;
+- (aa) after paragraph 2 there were inserted—[^c-c52d1320207bcecddcf8230f3ef6011d]
 
   > **2a.** The emission factor for category 1 tallow or category 2 tallow may be treated as zero where the tallow concerned is used to produce heat that is used at the operator’s installation (including heat used to generate electricity at the installation, but only if the electricity is used at the installation).
   >
@@ -171,24 +171,24 @@ and subject to the following additional modifications.
   > - (b) “**category 2 tallow**” means tallow that is category 2 material under Article 9 of that Regulation;
 - (b) in paragraph 4, after “*de minimis*” there were inserted “ or marginal ”.
 
-**19.**[^key-9fcab0ee125e38c21e2a10d34e69c210] Article 39 is to be read as if—
+**19.**[^c-9fcab0ee125e38c21e2a10d34e69c210] Article 39 is to be read as if—
 
 - (a) in paragraph 2, the third subparagraph were omitted;
-- (b)[^key-6b3434dd4c50a4b28852c802b851705f] paragraph 3 were omitted.
+- (b)[^c-6b3434dd4c50a4b28852c802b851705f] paragraph 3 were omitted.
 
-**20.**[^key-80ce4f89cd6a00c4b98fbcd64a854c13] Article 42(1) is to be read as if, in the second subparagraph, “, standards published by the Commission” were omitted.
+**20.**[^c-80ce4f89cd6a00c4b98fbcd64a854c13] Article 42(1) is to be read as if, in the second subparagraph, “, standards published by the Commission” were omitted.
 
-**20A.**[^key-98f5013b1e47bb7e95b10b43da521430] Article 43(4)(c) is to be read as if for “Commission” there were substituted “UK ETS authority”.
+**20A.**[^c-98f5013b1e47bb7e95b10b43da521430] Article 43(4)(c) is to be read as if for “Commission” there were substituted “UK ETS authority”.
 
-**21.**[^key-23eefaa5883fe7b94ff23655185b7d24] Article 47(1) is to be read as if for “Annex I to Directive [2003/87/EC](https://www.legislation.gov.uk/eudr/2003/87)” there were substituted “ paragraph 3 of Schedule 2 to the 2020 Order ”.
+**21.**[^c-23eefaa5883fe7b94ff23655185b7d24] Article 47(1) is to be read as if for “Annex I to Directive [2003/87/EC](https://www.legislation.gov.uk/eudr/2003/87)” there were substituted “ paragraph 3 of Schedule 2 to the 2020 Order ”.
 
-**22.**[^key-aa749d05dc560f0ccebef11ae7794160] Article 48(2) is to be read as if—
+**22.**[^c-aa749d05dc560f0ccebef11ae7794160] Article 48(2) is to be read as if—
 
 - (a) for “activities covered by Annex I to Directive [2003/87/EC](https://www.legislation.gov.uk/eudr/2003/87) or included pursuant to Article 24 of that Directive” there were substituted “ regulated activities ”;
 - (b) for “activity covered by that Directive” there were substituted “ regulated activity ”;
 - (c) for “not covered by that Directive” there were substituted “ not covered by the 2020 Order ”.
 
-**23.**[^key-2cd7ced14f304ef17e7b7bc487f333a6] Article 49 is to be read as if—
+**23.**[^c-2cd7ced14f304ef17e7b7bc487f333a6] Article 49 is to be read as if—
 
 - (a) in paragraph 1—
   - (i) in the words before point (a), for “activities covered by Annex I to Directive [2003/87/EC](https://www.legislation.gov.uk/eudr/2003/87)” there were substituted “ regulated activities ”;
@@ -200,9 +200,9 @@ and subject to the following additional modifications.
     > In its annual emissions report, the operator of the receiving installation shall provide the name, address and contact information of a contact person for the transferring installation.
 
     .
-- (c)[^key-e0caf3ea4e28ddbfe9374ff2526d7b5e] in paragraph 3 in the first subparagraph after “expressed as the quantity of CO<sub>2</sub> transferred.” there were inserted “(But see subsection B.2 of section 21 of Annex 4, which provides for the use of a calculation-based methodology instead of a measurement-based methodology.)”.
+- (c)[^c-e0caf3ea4e28ddbfe9374ff2526d7b5e] in paragraph 3 in the first subparagraph after “expressed as the quantity of CO<sub>2</sub> transferred.” there were inserted “(But see subsection B.2 of section 21 of Annex 4, which provides for the use of a calculation-based methodology instead of a measurement-based methodology.)”.
 
-**24.**[^key-a36997b8e2f51214d961c5f552ec6964] Article 50 is to be read as if—
+**24.**[^c-a36997b8e2f51214d961c5f552ec6964] Article 50 is to be read as if—
 
 - (a) in paragraph 1—
   - (i) in the first subparagraph, for “activities covered by Annex I to Directive [2003/87/EC](https://www.legislation.gov.uk/eudr/2003/87) for which that Annex specifies N<sub>2</sub>O as relevant” there were substituted “ regulated activities in respect of which N<sub>2</sub>O emissions are specified emissions (as defined in the 2020 Order) ”;
@@ -215,17 +215,17 @@ and subject to the following additional modifications.
 
   .
 
-**25.**[^key-5ec0269840395db842152e901be0c61b] Article 51 is to be read as if—
+**25.**[^c-5ec0269840395db842152e901be0c61b] Article 51 is to be read as if—
 
 - (a) in paragraph 1, for “activities for all flights included in Annex I to Directive [2003/87/EC](https://www.legislation.gov.uk/eudr/2003/87) that are” there were substituted “ activity that is ”;
 - (b) paragraphs 2 to 4 were omitted.
 
-**26.**[^key-01f5914e7e1757c474bff969f50bba7b] Article 53 is to be read as if—
+**26.**[^c-01f5914e7e1757c474bff969f50bba7b] Article 53 is to be read as if—
 
 - (a) in paragraph 2, for “section 1 of Annex III” there were substituted “ Appendix 2 to Annex 16, Volume IV to the Chicago Convention ”[^c24438371] ;
 - (b) in paragraph 3, for “section 1 of Annex III” there were substituted “ Appendix 2 to Annex 16, Volume IV to the Chicago Convention ”.
 
-**27.**[^key-bacdfce90fe85e6b19e0f2b3632e4f88] Article 54 is to be read as if for the whole Article there were substituted—
+**27.**[^c-bacdfce90fe85e6b19e0f2b3632e4f88] Article 54 is to be read as if for the whole Article there were substituted—
 
 > **Article 54 — Specific provisions for biofuels**
 >
@@ -235,19 +235,19 @@ and subject to the following additional modifications.
 >
 > **3.** Where purchased biofuel batches are not physically delivered to a specific aircraft, the aircraft operator shall not use analyses to determine the biomass fraction of the fuels used. In such a case, the aircraft operator may determine the biomass fraction using purchase records of biofuel of equivalent energy content, provided that the aircraft operator provides evidence to the satisfaction of the regulator that there is no double counting of the same biofuel quantity, in particular that the biofuel purchased is not claimed to be used by anyone else.
 >
-> **4.** Where a biofuel meets the sustainability criteria [^key-ac805d9ad189d55e59f76add8e6a7d75]..., the emission factor of the biofuel shall be zero; and for the purpose of determining whether the sustainability criteria are met, the biofuel (wherever supplied) must be treated as supplied in the United Kingdom.
+> **4.** Where a biofuel meets the sustainability criteria [^c-ac805d9ad189d55e59f76add8e6a7d75]..., the emission factor of the biofuel shall be zero; and for the purpose of determining whether the sustainability criteria are met, the biofuel (wherever supplied) must be treated as supplied in the United Kingdom.
 >
-> **5.** Where a biofuel does not meet the sustainability criteria[^key-701c674ce64493d495ad4a87e4d16483], the carbon content of the biofuel shall be treated as fossil carbon.
+> **5.** Where a biofuel does not meet the sustainability criteria[^c-701c674ce64493d495ad4a87e4d16483], the carbon content of the biofuel shall be treated as fossil carbon.
 >
-> **6.**[^key-8aff59fbe8d1bb7428dc10f5c855be16] In this Article, “**sustainability criteria**”, in relation to biofuel, means the sustainability criteria (within the meaning of the Renewable Transport Fuel Obligations Order 2007) that applied for the purposes of that Order on the date of purchase of the biofuel.
+> **6.**[^c-8aff59fbe8d1bb7428dc10f5c855be16] In this Article, “**sustainability criteria**”, in relation to biofuel, means the sustainability criteria (within the meaning of the Renewable Transport Fuel Obligations Order 2007) that applied for the purposes of that Order on the date of purchase of the biofuel.
 
 .
 
-**28.**[^key-6fea3b4ca2c68d8a64cbbbb5aedd6fce] Article 55(2) is to be read as if for “Commission” there were substituted “ UK ETS authority ”.
+**28.**[^c-6fea3b4ca2c68d8a64cbbbb5aedd6fce] Article 55(2) is to be read as if for “Commission” there were substituted “ UK ETS authority ”.
 
-**29.**[^key-82a13aee41c8263dc611a8cfee43a275] Article 58(1) is to be read as if the second subparagraph were omitted.
+**29.**[^c-82a13aee41c8263dc611a8cfee43a275] Article 58(1) is to be read as if the second subparagraph were omitted.
 
-**30.**[^key-211d69f13776055e44e4beba04b2b76f] Article 68 is to be read as if for the whole Article there were substituted—
+**30.**[^c-211d69f13776055e44e4beba04b2b76f] Article 68 is to be read as if for the whole Article there were substituted—
 
 > **Article 68 — Obligations for reporting**
 >
@@ -255,30 +255,30 @@ and subject to the following additional modifications.
 
 .
 
-**31.**[^key-f11f64465df17b41261cd2aecde7e185] Article 71 is to be read as if—
+**31.**[^c-f11f64465df17b41261cd2aecde7e185] Article 71 is to be read as if—
 
 - (a) the first sentence were omitted;
 - (b) for “With regard to the application of the exception, as specified in Article 4(2)(d) of Directive [2003/4/EC](https://www.legislation.gov.uk/eudr/2003/4)”, there were substituted “ With regard to the potential application in relation to emission reports of the exemption in section 43 of the Freedom of Information Act 2000 [^c24438391], the exception in regulation 12(5)(e) of the Environmental Information Regulations 2004 [^c24438401] or the exception in regulation 10(5)(e) of the Environmental Information (Scotland) Regulations 2004 [^c24438411] ”.
 
-**31A.**[^key-2ce4b4a4ffde2f14edac48e642eb6596] Article 72(1) is to be read as if for the first subparagraph there were substituted—
+**31A.**[^c-2ce4b4a4ffde2f14edac48e642eb6596] Article 72(1) is to be read as if for the first subparagraph there were substituted—
 
 > Total annual emissions of each of the greenhouse gases CO<sub>2</sub>, N<sub>2</sub>O and PFCs shall be reported as rounded tonnes of CO<sub>2</sub> or CO<sub>2(e)</sub>. The total annual emissions of the installation shall be calculated as the sum of these three rounded values.
 
 .
 
-**32.**[^key-e96a33f84bddcd92901594260cd6df52] Article 72(3) is to be read as if “calculating the distance and payload pursuant to Article 57 and” were omitted.
+**32.**[^c-e96a33f84bddcd92901594260cd6df52] Article 72(3) is to be read as if “calculating the distance and payload pursuant to Article 57 and” were omitted.
 
-**33.**[^key-bdc8b5c29ad686f6a6cbadd2e9e7b5d1] Article 73 is to be read as if—
+**33.**[^c-bdc8b5c29ad686f6a6cbadd2e9e7b5d1] Article 73 is to be read as if—
 
 - (a) in the words before point (a), for the words from “Each activity” to “aircraft operator” there were substituted “ Each regulated activity carried out by an operator and each aviation activity carried out by an aircraft operator ”;
 - (b) points (b) and (c) were omitted;
-- (c)[^key-435f34f2c55891820258aabe7c5ebb91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-435f34f2c55891820258aabe7c5ebb91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**34.**[^key-45d9755beaf2e2070ba5ac967fe68c8a] Article 78 is to be read as if the words from “However” to the end were omitted.
+**34.**[^c-45d9755beaf2e2070ba5ac967fe68c8a] Article 78 is to be read as if the words from “However” to the end were omitted.
 
-**35.**[^key-f33fc00b572fb96bcf5c46d9ecf89be7] Annex 1 is to be read as if—
+**35.**[^c-f33fc00b572fb96bcf5c46d9ecf89be7] Annex 1 is to be read as if—
 
-- (a)[^key-da2cc7dbfb80589ae262e3778bbefc1f] in section 1—
+- (a)[^c-da2cc7dbfb80589ae262e3778bbefc1f] in section 1—
   - (i) in point (1)(a)—
     - (aa) in the opening words “a description of the installation and activities carried out by the installation to be monitored, containing” were omitted;
     - (bb) in point (i) for “description” there were substituted “list”;
@@ -288,16 +288,16 @@ and subject to the following additional modifications.
   - (i) in point (a), “the administering Member State,” were omitted;
   - (ii) in point (d), for “covered by Annex I to Directive [2003/87/EC](https://www.legislation.gov.uk/eudr/2003/87)” there were substituted “ an aviation activity ”;
   - (iii) in point (k), for “Article 28a(6) of Directive [2003/87/EC](https://www.legislation.gov.uk/eudr/2003/87)” there were substituted “ article 33(2) of the 2020 Order ”;
-- (c)[^key-f08c7f792e4101d7ccee85badbd3eb0e] in section 2, in point 2—
+- (c)[^c-f08c7f792e4101d7ccee85badbd3eb0e] in section 2, in point 2—
   - (i) in point (b)(i) “(Method A or Method B)” were omitted;
   - (ii) after point (e) there were inserted—
 
-    > - (f) where applicable, a description of the procedure used to assess if biofuels meet the sustainability criteria (as defined in Article 54(6))[^key-affa5a407151f045b85a3ad82169ef8b];
+    > - (f) where applicable, a description of the procedure used to assess if biofuels meet the sustainability criteria (as defined in Article 54(6))[^c-affa5a407151f045b85a3ad82169ef8b];
     > - (g) where applicable, a description of the procedure used to determine biofuel quantities based on purchase records in accordance with Article 54(3).
 
     .
 
-**36.**[^key-a54fec56dee0ba59516aa8d7f059f68c] Annex 2 is to be read as if—
+**36.**[^c-a54fec56dee0ba59516aa8d7f059f68c] Annex 2 is to be read as if—
 
 - (a) in section 2—
   - (i) in the first subparagraph before section 2.1—
@@ -343,11 +343,11 @@ and subject to the following additional modifications.
     ;
 - (c) section 5 were omitted.
 
-**37.**[^key-49340a83cd2815a13d85144545c272cc] Annex 3 is to be read as if section 1 were omitted.
+**37.**[^c-49340a83cd2815a13d85144545c272cc] Annex 3 is to be read as if section 1 were omitted.
 
-**38.**[^key-0f80a0bbd23af4631ded82a05918cc09] Annex 4 is to be read as if—
+**38.**[^c-0f80a0bbd23af4631ded82a05918cc09] Annex 4 is to be read as if—
 
-- (a)[^key-1bcfb1d1655b6cb2bbb6e797dbcef55e] in section 1—
+- (a)[^c-1bcfb1d1655b6cb2bbb6e797dbcef55e] in section 1—
   - (i) in subsection A for “all activities as listed in Annex I to [Directive 2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087) or included in the Union system under Article 24 of that Directive” there were substituted “all regulated activities”;
   - (ii) in subsection C.2 in the first subparagraph for “section 5” there were substituted “section 4”;
 - (aa) in each of the headings of sections 2 to 20 for “Annex I to [Directive 2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087)” there were substituted “Schedule 2 to the Greenhouse Gas Emissions Trading Scheme Order 2020”;
@@ -396,7 +396,7 @@ and subject to the following additional modifications.
   - (i) in subsection A, in the first subparagraph, for “Directive [2009/31/EC](https://www.legislation.gov.uk/eudr/2009/31)” there were substituted “ the CCS licensing regime ”;
   - (ii) in subsection A, in the second subparagraph, after “with”, there were inserted “ domestic legislation which immediately before IP completion day implemented ”;
   - (iii) in subsection B.3, in the definition of “T<sub>end</sub>”, after “with”, there were inserted “ domestic legislation which immediately before IP completion day implemented ”.
-- (f)[^key-457d18651026d2f434b47386adb4f268] after section 23 there were inserted—
+- (f)[^c-457d18651026d2f434b47386adb4f268] after section 23 there were inserted—
 
   > **24.** UPSTREAM GHG REMOVAL AS LISTED IN SCHEDULE 2 TO THE GREENHOUSE GAS EMISSIONS TRADING SCHEME ORDER 2020
   >
@@ -495,7 +495,7 @@ and subject to the following additional modifications.
   >   | --- | --- |
   >   | “Vented emissions from upstream GHG removal (as defined in paragraph 3(6A) of Schedule 2 to the 2020 Order) | At least weekly” |
 
-**38A.**[^key-d07473f40e817f2b8326684535f907e9] Annex 5 is to be read as if in Table 1 in the eighth row (scrubbing (urea))—
+**38A.**[^c-d07473f40e817f2b8326684535f907e9] Annex 5 is to be read as if in Table 1 in the eighth row (scrubbing (urea))—
 
 - (a) in the entry in the column headed “net calorific value” for “1” there were substituted “n.a.”;
 - (b) in the entry in the column headed “oxidation factor” for “1” there were substituted “n.a.”;
@@ -512,18 +512,18 @@ and subject to the following additional modifications.
 
 (2) The modifications made by sub-paragraph (1) have effect in relation to the 2023 and subsequent scheme years.
 
-**39.**[^key-d3634c74b815a87daeb21fbcc4dba85f] Section 2(7) of Annex 9 is to be read as if—
+**39.**[^c-d3634c74b815a87daeb21fbcc4dba85f] Section 2(7) of Annex 9 is to be read as if—
 
 - (a) in point (c)—
   - (i) after “storage permit”, there were inserted “ for the storage site ”;
   - (ii) for “Article 9 of Directive [2009/31/EC](https://www.legislation.gov.uk/eudr/2009/31)” there were substituted “ the CCS licensing regime ”;
 - (b) in each of points (d), (e) and (f), after “with”, there were inserted “ domestic legislation which immediately before IP completion day implemented ”.
 
-**40.**[^key-51e338b5bef158589cb3abafa5d0b543] Annex 10 is to be read as if—
+**40.**[^c-51e338b5bef158589cb3abafa5d0b543] Annex 10 is to be read as if—
 
 - (a) in the heading, for “68(3)” there were substituted “ 68 ”;
 - (b) in section 1—
-  - (ai)[^key-7e102bdaa3fef7d6e7d8c202df1c04db] for point (1) there were substituted—
+  - (ai)[^c-7e102bdaa3fef7d6e7d8c202df1c04db] for point (1) there were substituted—
 
     > (1) Name and address of the installation and details of the following:
     >
@@ -534,18 +534,18 @@ and subject to the following additional modifications.
 
     ;
   - (i) in point (6), for “Information” there were substituted “ Subject to the subparagraph after point (13), information ”;
-  - (ia)[^key-e4412c02f9454b3a103428577b999f2c] in point (8)(g) for “as recognised in accordance with the acts adopted pursuant to Article 19(3) of [Directive 2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087)” there were substituted “in the registry”;
+  - (ia)[^c-e4412c02f9454b3a103428577b999f2c] in point (8)(g) for “as recognised in accordance with the acts adopted pursuant to Article 19(3) of [Directive 2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087)” there were substituted “in the registry”;
   - (ii) in the subparagraph after point (13), at the end there were inserted “Emissions occurring from marginal source streams may be reported in an aggregate manner.”;
   - (iii) in the final subparagraph, after “with”, there were inserted “ domestic legislation which immediately before IP completion day implemented ”;
 - (c) in section 2—
   - (i) in point (1), after “Directive [2003/87/EC](https://www.legislation.gov.uk/eudr/2003/87)”, there were inserted “(read as if references in that Annex to “its administering Member State” and “in the administering Member State” were omitted and as if references to “aviation activities listed in Annex I” were references to “aviation activity”)”;
   - (ii) in point (6), for “aviation activities covered by Annex I to Directive [2003/87/EC](https://www.legislation.gov.uk/eudr/2003/87)” there were substituted “ aviation activity ”;
   - (iii) in point (9), for “Member State” there were substituted “ state ”;
-  - (iiia)[^key-7d5c859ee613b0e5a7eba22517f4a8d5] for point (12) there were substituted—
+  - (iiia)[^c-7d5c859ee613b0e5a7eba22517f4a8d5] for point (12) there were substituted—
 
     > (12) Memo-items:
     >
-    > - (a) amount of biofuels used during the reporting year (in tonnes or m<sup>3</sup>) listed per fuel type, and whether the biofuels meet the sustainability criteria (as defined in Article 54(6))[^key-ad36b703d82d484694e4202da28077ca];
+    > - (a) amount of biofuels used during the reporting year (in tonnes or m<sup>3</sup>) listed per fuel type, and whether the biofuels meet the sustainability criteria (as defined in Article 54(6))[^c-ad36b703d82d484694e4202da28077ca];
     > - (b) the net calorific value of biofuels and alternative fuels;
 
     ;
@@ -557,101 +557,101 @@ and subject to the following additional modifications.
 
 ## Annotations
 
-[^key-40cb68050a30b9cf2fe7463d694d0d86]: Textual amendment: Words in Sch. 4 heading substituted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [35(2)](https://www.legislation.gov.uk/uksi/2020/1557/article/35/2)
+[^c-40cb68050a30b9cf2fe7463d694d0d86]: Textual amendment: Words in Sch. 4 heading substituted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [35(2)](https://www.legislation.gov.uk/uksi/2020/1557/article/35/2)
 
-[^key-6163b6c013983a2a24fe0ab21f2d7eaf]: Commencement: Sch. 4 para. 1 in force at 12.11.2020, see art. 2(1)
+[^c-6163b6c013983a2a24fe0ab21f2d7eaf]: Commencement: Sch. 4 para. 1 in force at 12.11.2020, see art. 2(1)
 
-[^key-83ba59900919bd9d5154ccd11ce06ebb]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/1) substituted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [35(3)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/35/3/a)
+[^c-83ba59900919bd9d5154ccd11ce06ebb]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/1) substituted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [35(3)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/35/3/a)
 
-[^key-2b2351301370c0e404c68c5ffa87018c]: Textual amendment: [Sch. 4 para. 1(aa)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/1/aa) inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [35(3)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/35/3/b)
+[^c-2b2351301370c0e404c68c5ffa87018c]: Textual amendment: [Sch. 4 para. 1(aa)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/1/aa) inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [35(3)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/35/3/b)
 
-[^key-0095a9896ec02f697d8595b833e2dd18]: Commencement: Sch. 4 para. 2 in force at 12.11.2020, see art. 2(1)
+[^c-0095a9896ec02f697d8595b833e2dd18]: Commencement: Sch. 4 para. 2 in force at 12.11.2020, see art. 2(1)
 
-[^key-67a8a8f1ad635aa2902a32d8998313f7]: Commencement: Sch. 4 para. 3 in force at 12.11.2020, see art. 2(1)
+[^c-67a8a8f1ad635aa2902a32d8998313f7]: Commencement: Sch. 4 para. 3 in force at 12.11.2020, see art. 2(1)
 
-[^key-f87b31ec88465b348c7938417444a0e8]: Commencement: Sch. 4 para. 4 in force at 12.11.2020, see art. 2(1)
+[^c-f87b31ec88465b348c7938417444a0e8]: Commencement: Sch. 4 para. 4 in force at 12.11.2020, see art. 2(1)
 
-[^key-c330c289a121feb6e61eaf93b33e4e47]: Textual amendment: Sch. 4 para. 4(e) substituted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [35(4)](https://www.legislation.gov.uk/uksi/2020/1557/article/35/4)
+[^c-c330c289a121feb6e61eaf93b33e4e47]: Textual amendment: Sch. 4 para. 4(e) substituted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [35(4)](https://www.legislation.gov.uk/uksi/2020/1557/article/35/4)
 
 [^c24438331]: Marginal citation: [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32).
 
 [^c24438341]: Marginal citation: OJ No. L 140, 5.6.2009, p. 114.
 
-[^key-b72274d48e4e703ed0ffa3ab4d6b1661]: Commencement: Sch. 4 para. 5 in force at 12.11.2020, see art. 2(1)
+[^c-b72274d48e4e703ed0ffa3ab4d6b1661]: Commencement: Sch. 4 para. 5 in force at 12.11.2020, see art. 2(1)
 
-[^key-c0d40e05953227fd062e4671eb7af922]: Commencement: Sch. 4 para. 6 in force at 12.11.2020, see art. 2(1)
+[^c-c0d40e05953227fd062e4671eb7af922]: Commencement: Sch. 4 para. 6 in force at 12.11.2020, see art. 2(1)
 
-[^key-fd2bdf0e2177fe51bf50d5107b846c82]: Commencement: Sch. 4 para. 7 in force at 12.11.2020, see art. 2(1)
+[^c-fd2bdf0e2177fe51bf50d5107b846c82]: Commencement: Sch. 4 para. 7 in force at 12.11.2020, see art. 2(1)
 
-[^key-0b6e03f00b9ff3527e868c77bdc17fc5]: Textual amendment: [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/8) substituted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [22(2)](https://www.legislation.gov.uk/uksi/2021/1455/article/22/2)
+[^c-0b6e03f00b9ff3527e868c77bdc17fc5]: Textual amendment: [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/8) substituted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [22(2)](https://www.legislation.gov.uk/uksi/2021/1455/article/22/2)
 
-[^key-3516189ae481d551d1bc5be9baebf727]: Commencement: Sch. 4 para. 9 in force at 12.11.2020, see art. 2(1)
+[^c-3516189ae481d551d1bc5be9baebf727]: Commencement: Sch. 4 para. 9 in force at 12.11.2020, see art. 2(1)
 
-[^key-c2413b4c67365c33b4f76dc4470d3b5b]: Commencement: Sch. 4 para. 10 in force at 12.11.2020, see art. 2(1)
+[^c-c2413b4c67365c33b4f76dc4470d3b5b]: Commencement: Sch. 4 para. 10 in force at 12.11.2020, see art. 2(1)
 
-[^key-465f021cbe06bedc958a40866fefccbc]: Commencement: Sch. 4 para. 11 in force at 12.11.2020, see art. 2(1)
+[^c-465f021cbe06bedc958a40866fefccbc]: Commencement: Sch. 4 para. 11 in force at 12.11.2020, see art. 2(1)
 
-[^key-65d62c110e43c0cfe1f293081333862d]: Textual amendment: [Sch. 4 para. 11(za)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/11/za) inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [35(5)](https://www.legislation.gov.uk/uksi/2020/1557/article/35/5)
+[^c-65d62c110e43c0cfe1f293081333862d]: Textual amendment: [Sch. 4 para. 11(za)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/11/za) inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [35(5)](https://www.legislation.gov.uk/uksi/2020/1557/article/35/5)
 
-[^key-b7223fb07f2c6f3a360c818c0521e6e4]: Commencement: Sch. 4 para. 12 in force at 12.11.2020, see art. 2(1)
+[^c-b7223fb07f2c6f3a360c818c0521e6e4]: Commencement: Sch. 4 para. 12 in force at 12.11.2020, see art. 2(1)
 
-[^key-5e145782c08cdd83c0e5dd21c21708bf]: Commencement: Sch. 4 para. 13 in force at 12.11.2020, see art. 2(1)
+[^c-5e145782c08cdd83c0e5dd21c21708bf]: Commencement: Sch. 4 para. 13 in force at 12.11.2020, see art. 2(1)
 
-[^key-8660fdcc158d251e66f51990fd709d77]: Commencement: Sch. 4 para. 14 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-8660fdcc158d251e66f51990fd709d77]: Commencement: Sch. 4 para. 14 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-1ea0451c13738ff99c821254c0cbaee8]: Textual amendment: [Sch. 4 para. 14(aa)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/14/aa) inserted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [22(3)](https://www.legislation.gov.uk/uksi/2021/1455/article/22/3)
+[^c-1ea0451c13738ff99c821254c0cbaee8]: Textual amendment: [Sch. 4 para. 14(aa)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/14/aa) inserted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [22(3)](https://www.legislation.gov.uk/uksi/2021/1455/article/22/3)
 
-[^key-950734e297c2b310dff5a4c7af053bc7]: Commencement: Sch. 4 para. 15 in force at 12.11.2020, see art. 2(1)
+[^c-950734e297c2b310dff5a4c7af053bc7]: Commencement: Sch. 4 para. 15 in force at 12.11.2020, see art. 2(1)
 
-[^key-7ed8a6fd5d76739ef6598bdd6a567e99]: Commencement: Sch. 4 para. 16 in force at 12.11.2020, see art. 2(1)
+[^c-7ed8a6fd5d76739ef6598bdd6a567e99]: Commencement: Sch. 4 para. 16 in force at 12.11.2020, see art. 2(1)
 
-[^key-db4cf11fe2970ae0d07cd9511e419af3]: Commencement: Sch. 4 para. 17 in force at 12.11.2020, see art. 2(1)
+[^c-db4cf11fe2970ae0d07cd9511e419af3]: Commencement: Sch. 4 para. 17 in force at 12.11.2020, see art. 2(1)
 
-[^key-bf5d293b24da381200d868a99a41f81e]: Commencement: Sch. 4 para. 18 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-bf5d293b24da381200d868a99a41f81e]: Commencement: Sch. 4 para. 18 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-322f23e693c4380ef2f637087afb7ab0]: Textual amendment: Words in [Sch. 4 para. 18(a)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/18/a) inserted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [13(2)(a)](https://www.legislation.gov.uk/uksi/2022/1173/article/13/2/a)
+[^c-322f23e693c4380ef2f637087afb7ab0]: Textual amendment: Words in [Sch. 4 para. 18(a)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/18/a) inserted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [13(2)(a)](https://www.legislation.gov.uk/uksi/2022/1173/article/13/2/a)
 
-[^key-c52d1320207bcecddcf8230f3ef6011d]: Textual amendment: [Sch. 4 para. 18(aa)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/18/aa) inserted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [13(2)(b)](https://www.legislation.gov.uk/uksi/2022/1173/article/13/2/b)
+[^c-c52d1320207bcecddcf8230f3ef6011d]: Textual amendment: [Sch. 4 para. 18(aa)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/18/aa) inserted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [13(2)(b)](https://www.legislation.gov.uk/uksi/2022/1173/article/13/2/b)
 
-[^key-9fcab0ee125e38c21e2a10d34e69c210]: Commencement: Sch. 4 para. 19 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-9fcab0ee125e38c21e2a10d34e69c210]: Commencement: Sch. 4 para. 19 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-6b3434dd4c50a4b28852c802b851705f]: Textual amendment: [Sch. 4 para. 19(b)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/19/b) substituted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [13(3)](https://www.legislation.gov.uk/uksi/2022/1173/article/13/3)
+[^c-6b3434dd4c50a4b28852c802b851705f]: Textual amendment: [Sch. 4 para. 19(b)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/19/b) substituted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [13(3)](https://www.legislation.gov.uk/uksi/2022/1173/article/13/3)
 
-[^key-80ce4f89cd6a00c4b98fbcd64a854c13]: Commencement: Sch. 4 para. 20 in force at 12.11.2020, see art. 2(1)
+[^c-80ce4f89cd6a00c4b98fbcd64a854c13]: Commencement: Sch. 4 para. 20 in force at 12.11.2020, see art. 2(1)
 
-[^key-98f5013b1e47bb7e95b10b43da521430]: Textual amendment: [Sch. 4 para. 20A](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/20A) inserted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [22(4)](https://www.legislation.gov.uk/uksi/2021/1455/article/22/4)
+[^c-98f5013b1e47bb7e95b10b43da521430]: Textual amendment: [Sch. 4 para. 20A](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/20A) inserted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [22(4)](https://www.legislation.gov.uk/uksi/2021/1455/article/22/4)
 
-[^key-23eefaa5883fe7b94ff23655185b7d24]: Commencement: Sch. 4 para. 21 in force at 12.11.2020, see art. 2(1)
+[^c-23eefaa5883fe7b94ff23655185b7d24]: Commencement: Sch. 4 para. 21 in force at 12.11.2020, see art. 2(1)
 
-[^key-aa749d05dc560f0ccebef11ae7794160]: Commencement: Sch. 4 para. 22 in force at 12.11.2020, see art. 2(1)
+[^c-aa749d05dc560f0ccebef11ae7794160]: Commencement: Sch. 4 para. 22 in force at 12.11.2020, see art. 2(1)
 
-[^key-2cd7ced14f304ef17e7b7bc487f333a6]: Commencement: Sch. 4 para. 23 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-2cd7ced14f304ef17e7b7bc487f333a6]: Commencement: Sch. 4 para. 23 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-e0caf3ea4e28ddbfe9374ff2526d7b5e]: Textual amendment: [Sch. 4 para. 23(c)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/23/c) inserted (1.1.2024) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2023 (S.I. 2023/850)](https://www.legislation.gov.uk/uksi/2023/850), [arts. 2](https://www.legislation.gov.uk/uksi/2023/850/article/2), [8(2)](https://www.legislation.gov.uk/uksi/2023/850/article/8/2)
+[^c-e0caf3ea4e28ddbfe9374ff2526d7b5e]: Textual amendment: [Sch. 4 para. 23(c)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/23/c) inserted (1.1.2024) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2023 (S.I. 2023/850)](https://www.legislation.gov.uk/uksi/2023/850), [arts. 2](https://www.legislation.gov.uk/uksi/2023/850/article/2), [8(2)](https://www.legislation.gov.uk/uksi/2023/850/article/8/2)
 
-[^key-a36997b8e2f51214d961c5f552ec6964]: Commencement: Sch. 4 para. 24 in force at 12.11.2020, see art. 2(1)
+[^c-a36997b8e2f51214d961c5f552ec6964]: Commencement: Sch. 4 para. 24 in force at 12.11.2020, see art. 2(1)
 
-[^key-5ec0269840395db842152e901be0c61b]: Commencement: Sch. 4 para. 25 in force at 12.11.2020, see art. 2(1)
+[^c-5ec0269840395db842152e901be0c61b]: Commencement: Sch. 4 para. 25 in force at 12.11.2020, see art. 2(1)
 
-[^key-01f5914e7e1757c474bff969f50bba7b]: Commencement: Sch. 4 para. 26 in force at 12.11.2020, see art. 2(1)
+[^c-01f5914e7e1757c474bff969f50bba7b]: Commencement: Sch. 4 para. 26 in force at 12.11.2020, see art. 2(1)
 
 [^c24438371]: Marginal citation: 1st Edition, October 2018, available electronically at https://www.icao.int/environmental-protection/CORSIA/Pages/SARPs-Annex-16-Volume-IV.aspx or in paper form from the International Civil Aviation Organisation, 999 Robert-Bourassa Boulevard, Montreal, Quebec, Canada H3C 5H7.
 
-[^key-bacdfce90fe85e6b19e0f2b3632e4f88]: Textual amendment: [Sch. 4 para. 27](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/27) substituted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [22(5)](https://www.legislation.gov.uk/uksi/2021/1455/article/22/5)
+[^c-bacdfce90fe85e6b19e0f2b3632e4f88]: Textual amendment: [Sch. 4 para. 27](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/27) substituted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [22(5)](https://www.legislation.gov.uk/uksi/2021/1455/article/22/5)
 
-[^key-ac805d9ad189d55e59f76add8e6a7d75]: Textual amendment: Words in [Sch. 4 para. 27](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/27) omitted (1.1.2023) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [13(4)(a)](https://www.legislation.gov.uk/uksi/2022/1173/article/13/4/a)
+[^c-ac805d9ad189d55e59f76add8e6a7d75]: Textual amendment: Words in [Sch. 4 para. 27](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/27) omitted (1.1.2023) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [13(4)(a)](https://www.legislation.gov.uk/uksi/2022/1173/article/13/4/a)
 
-[^key-701c674ce64493d495ad4a87e4d16483]: Textual amendment: Words in [Sch. 4 para. 27](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/27) substituted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [13(4)(b)](https://www.legislation.gov.uk/uksi/2022/1173/article/13/4/b)
+[^c-701c674ce64493d495ad4a87e4d16483]: Textual amendment: Words in [Sch. 4 para. 27](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/27) substituted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [13(4)(b)](https://www.legislation.gov.uk/uksi/2022/1173/article/13/4/b)
 
-[^key-8aff59fbe8d1bb7428dc10f5c855be16]: Textual amendment: Words in [Sch. 4 para. 27](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/27) inserted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [13(4)(c)](https://www.legislation.gov.uk/uksi/2022/1173/article/13/4/c)
+[^c-8aff59fbe8d1bb7428dc10f5c855be16]: Textual amendment: Words in [Sch. 4 para. 27](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/27) inserted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [13(4)(c)](https://www.legislation.gov.uk/uksi/2022/1173/article/13/4/c)
 
-[^key-6fea3b4ca2c68d8a64cbbbb5aedd6fce]: Commencement: Sch. 4 para. 28 in force at 12.11.2020, see art. 2(1)
+[^c-6fea3b4ca2c68d8a64cbbbb5aedd6fce]: Commencement: Sch. 4 para. 28 in force at 12.11.2020, see art. 2(1)
 
-[^key-82a13aee41c8263dc611a8cfee43a275]: Commencement: Sch. 4 para. 29 in force at 12.11.2020, see art. 2(1)
+[^c-82a13aee41c8263dc611a8cfee43a275]: Commencement: Sch. 4 para. 29 in force at 12.11.2020, see art. 2(1)
 
-[^key-211d69f13776055e44e4beba04b2b76f]: Commencement: Sch. 4 para. 30 in force at 12.11.2020, see art. 2(1)
+[^c-211d69f13776055e44e4beba04b2b76f]: Commencement: Sch. 4 para. 30 in force at 12.11.2020, see art. 2(1)
 
-[^key-f11f64465df17b41261cd2aecde7e185]: Commencement: Sch. 4 para. 31 in force at 12.11.2020, see art. 2(1)
+[^c-f11f64465df17b41261cd2aecde7e185]: Commencement: Sch. 4 para. 31 in force at 12.11.2020, see art. 2(1)
 
 [^c24438391]: Marginal citation: [2000 c. 36](https://www.legislation.gov.uk/ukpga/2000/36).
 
@@ -659,44 +659,44 @@ and subject to the following additional modifications.
 
 [^c24438411]: Marginal citation: [S.S.I. 2004/520](https://www.legislation.gov.uk/ssi/2004/520), to which there are amendments not relevant to this Order.
 
-[^key-2ce4b4a4ffde2f14edac48e642eb6596]: Textual amendment: Sch. 4 para. 31A inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [35(6)](https://www.legislation.gov.uk/uksi/2020/1557/article/35/6)
+[^c-2ce4b4a4ffde2f14edac48e642eb6596]: Textual amendment: Sch. 4 para. 31A inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [35(6)](https://www.legislation.gov.uk/uksi/2020/1557/article/35/6)
 
-[^key-e96a33f84bddcd92901594260cd6df52]: Commencement: Sch. 4 para. 32 in force at 12.11.2020, see art. 2(1)
+[^c-e96a33f84bddcd92901594260cd6df52]: Commencement: Sch. 4 para. 32 in force at 12.11.2020, see art. 2(1)
 
-[^key-bdc8b5c29ad686f6a6cbadd2e9e7b5d1]: Commencement: Sch. 4 para. 33 in force at 12.11.2020, see art. 2(1)
+[^c-bdc8b5c29ad686f6a6cbadd2e9e7b5d1]: Commencement: Sch. 4 para. 33 in force at 12.11.2020, see art. 2(1)
 
-[^key-435f34f2c55891820258aabe7c5ebb91]: Textual amendment: [Sch. 4 para. 33(c)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/33/c) omitted (31.12.2020) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [35(7)](https://www.legislation.gov.uk/uksi/2020/1557/article/35/7)
+[^c-435f34f2c55891820258aabe7c5ebb91]: Textual amendment: [Sch. 4 para. 33(c)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/33/c) omitted (31.12.2020) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [35(7)](https://www.legislation.gov.uk/uksi/2020/1557/article/35/7)
 
-[^key-45d9755beaf2e2070ba5ac967fe68c8a]: Commencement: Sch. 4 para. 34 in force at 12.11.2020, see art. 2(1)
+[^c-45d9755beaf2e2070ba5ac967fe68c8a]: Commencement: Sch. 4 para. 34 in force at 12.11.2020, see art. 2(1)
 
-[^key-f33fc00b572fb96bcf5c46d9ecf89be7]: Commencement: Sch. 4 para. 35 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-f33fc00b572fb96bcf5c46d9ecf89be7]: Commencement: Sch. 4 para. 35 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-da2cc7dbfb80589ae262e3778bbefc1f]: Textual amendment: [Sch. 4 para. 35(a)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/35/a) substituted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [13(5)(a)](https://www.legislation.gov.uk/uksi/2022/1173/article/13/5/a)
+[^c-da2cc7dbfb80589ae262e3778bbefc1f]: Textual amendment: [Sch. 4 para. 35(a)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/35/a) substituted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [13(5)(a)](https://www.legislation.gov.uk/uksi/2022/1173/article/13/5/a)
 
-[^key-f08c7f792e4101d7ccee85badbd3eb0e]: Textual amendment: [Sch. 4 para. 35(c)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/35/c) substituted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [22(6)](https://www.legislation.gov.uk/uksi/2021/1455/article/22/6)
+[^c-f08c7f792e4101d7ccee85badbd3eb0e]: Textual amendment: [Sch. 4 para. 35(c)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/35/c) substituted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [22(6)](https://www.legislation.gov.uk/uksi/2021/1455/article/22/6)
 
-[^key-affa5a407151f045b85a3ad82169ef8b]: Textual amendment: Words in [Sch. 4 para. 35(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/35/c/ii) substituted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [13(5)(b)](https://www.legislation.gov.uk/uksi/2022/1173/article/13/5/b)
+[^c-affa5a407151f045b85a3ad82169ef8b]: Textual amendment: Words in [Sch. 4 para. 35(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/35/c/ii) substituted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [13(5)(b)](https://www.legislation.gov.uk/uksi/2022/1173/article/13/5/b)
 
-[^key-a54fec56dee0ba59516aa8d7f059f68c]: Textual amendment: [Sch. 4 para. 36](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/36) substituted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [22(7)](https://www.legislation.gov.uk/uksi/2021/1455/article/22/7) (with [art. 28](https://www.legislation.gov.uk/uksi/2021/1455/article/28))
+[^c-a54fec56dee0ba59516aa8d7f059f68c]: Textual amendment: [Sch. 4 para. 36](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/36) substituted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [22(7)](https://www.legislation.gov.uk/uksi/2021/1455/article/22/7) (with [art. 28](https://www.legislation.gov.uk/uksi/2021/1455/article/28))
 
-[^key-49340a83cd2815a13d85144545c272cc]: Commencement: Sch. 4 para. 37 in force at 12.11.2020, see art. 2(1)
+[^c-49340a83cd2815a13d85144545c272cc]: Commencement: Sch. 4 para. 37 in force at 12.11.2020, see art. 2(1)
 
-[^key-0f80a0bbd23af4631ded82a05918cc09]: Commencement: Sch. 4 para. 38 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-0f80a0bbd23af4631ded82a05918cc09]: Commencement: Sch. 4 para. 38 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-1bcfb1d1655b6cb2bbb6e797dbcef55e]: Textual amendment: Sch. 4 para. 38(a)-(ag) substituted for Sch. 4 para. 38(a)(aa) (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [22(8)](https://www.legislation.gov.uk/uksi/2021/1455/article/22/8) (with [art. 28](https://www.legislation.gov.uk/uksi/2021/1455/article/28))
+[^c-1bcfb1d1655b6cb2bbb6e797dbcef55e]: Textual amendment: Sch. 4 para. 38(a)-(ag) substituted for Sch. 4 para. 38(a)(aa) (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [22(8)](https://www.legislation.gov.uk/uksi/2021/1455/article/22/8) (with [art. 28](https://www.legislation.gov.uk/uksi/2021/1455/article/28))
 
-[^key-457d18651026d2f434b47386adb4f268]: Textual amendment: Sch. 4 para. 38(f) inserted (1.1.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/2/b), [29(2)](https://www.legislation.gov.uk/uksi/2024/1366/article/29/2)
+[^c-457d18651026d2f434b47386adb4f268]: Textual amendment: Sch. 4 para. 38(f) inserted (1.1.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/2/b), [29(2)](https://www.legislation.gov.uk/uksi/2024/1366/article/29/2)
 
-[^key-d07473f40e817f2b8326684535f907e9]: Textual amendment: [Sch. 4 paras. 38A](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/38A), [38B](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/38B) inserted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [13(6)](https://www.legislation.gov.uk/uksi/2022/1173/article/13/6)
+[^c-d07473f40e817f2b8326684535f907e9]: Textual amendment: [Sch. 4 paras. 38A](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/38A), [38B](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/38B) inserted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [13(6)](https://www.legislation.gov.uk/uksi/2022/1173/article/13/6)
 
-[^key-d3634c74b815a87daeb21fbcc4dba85f]: Commencement: Sch. 4 para. 39 in force at 12.11.2020, see art. 2(1)
+[^c-d3634c74b815a87daeb21fbcc4dba85f]: Commencement: Sch. 4 para. 39 in force at 12.11.2020, see art. 2(1)
 
-[^key-51e338b5bef158589cb3abafa5d0b543]: Commencement: Sch. 4 para. 40 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-51e338b5bef158589cb3abafa5d0b543]: Commencement: Sch. 4 para. 40 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-7e102bdaa3fef7d6e7d8c202df1c04db]: Textual amendment: Sch. 4 para. 40(b)(ai) inserted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [22(9)(a)(i)](https://www.legislation.gov.uk/uksi/2021/1455/article/22/9/a/i)
+[^c-7e102bdaa3fef7d6e7d8c202df1c04db]: Textual amendment: Sch. 4 para. 40(b)(ai) inserted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [22(9)(a)(i)](https://www.legislation.gov.uk/uksi/2021/1455/article/22/9/a/i)
 
-[^key-e4412c02f9454b3a103428577b999f2c]: Textual amendment: Sch. 4 para. 40(b)(ia) inserted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [22(9)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/1455/article/22/9/a/ii)
+[^c-e4412c02f9454b3a103428577b999f2c]: Textual amendment: Sch. 4 para. 40(b)(ia) inserted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [22(9)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/1455/article/22/9/a/ii)
 
-[^key-7d5c859ee613b0e5a7eba22517f4a8d5]: Textual amendment: Sch. 4 para. 40(c)(iiia) inserted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [22(9)(b)](https://www.legislation.gov.uk/uksi/2021/1455/article/22/9/b)
+[^c-7d5c859ee613b0e5a7eba22517f4a8d5]: Textual amendment: Sch. 4 para. 40(c)(iiia) inserted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [22(9)(b)](https://www.legislation.gov.uk/uksi/2021/1455/article/22/9/b)
 
-[^key-ad36b703d82d484694e4202da28077ca]: Textual amendment: Words in [Sch. 4 para. 40(c)(iiia)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/40/c/iiia) substituted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [13(7)](https://www.legislation.gov.uk/uksi/2022/1173/article/13/7)
+[^c-ad36b703d82d484694e4202da28077ca]: Textual amendment: Words in [Sch. 4 para. 40(c)(iiia)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/4/paragraph/40/c/iiia) substituted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [13(7)](https://www.legislation.gov.uk/uksi/2022/1173/article/13/7)

@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Bovine Products (Restriction on Placing on the Market) (No. 2) Regulations (Northern Ireland) 2005 (revoked)[^key-7006993853e7dedd082a78ac6cf7cb3e]
+The Bovine Products (Restriction on Placing on the Market) (No. 2) Regulations (Northern Ireland) 2005 (revoked)[^c-7006993853e7dedd082a78ac6cf7cb3e]
 
 Made
 
@@ -41,51 +41,51 @@ Coming into operation
 
 1st January 2006
 
-[^key-7006993853e7dedd082a78ac6cf7cb3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7006993853e7dedd082a78ac6cf7cb3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7006993853e7dedd082a78ac6cf7cb3e]
+## 1. Citation and commencement[^c-7006993853e7dedd082a78ac6cf7cb3e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-7006993853e7dedd082a78ac6cf7cb3e]
+## 2. Interpretation[^c-7006993853e7dedd082a78ac6cf7cb3e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition on marketing of certain products derived from older bovine animals[^key-7006993853e7dedd082a78ac6cf7cb3e]
+## 3. Prohibition on marketing of certain products derived from older bovine animals[^c-7006993853e7dedd082a78ac6cf7cb3e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Application of various provisions of the Food Safety (Northern Ireland) Order 1991[^key-7006993853e7dedd082a78ac6cf7cb3e]
+## 4. Application of various provisions of the Food Safety (Northern Ireland) Order 1991[^c-7006993853e7dedd082a78ac6cf7cb3e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Inspection and seizure of suspected products[^key-7006993853e7dedd082a78ac6cf7cb3e]
+## 5. Inspection and seizure of suspected products[^c-7006993853e7dedd082a78ac6cf7cb3e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Offences and penalties[^key-7006993853e7dedd082a78ac6cf7cb3e]
+## 6. Offences and penalties[^c-7006993853e7dedd082a78ac6cf7cb3e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Enforcement[^key-7006993853e7dedd082a78ac6cf7cb3e]
+## 7. Enforcement[^c-7006993853e7dedd082a78ac6cf7cb3e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of the Animal By-Products (Identification) Regulations (Northern Ireland) 1999[^key-7006993853e7dedd082a78ac6cf7cb3e]
+## 8. Amendment of the Animal By-Products (Identification) Regulations (Northern Ireland) 1999[^c-7006993853e7dedd082a78ac6cf7cb3e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Revocation[^key-7006993853e7dedd082a78ac6cf7cb3e]
+## 9. Revocation[^c-7006993853e7dedd082a78ac6cf7cb3e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7006993853e7dedd082a78ac6cf7cb3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7006993853e7dedd082a78ac6cf7cb3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — DEFINITIONS OF COMMUNITY LEGISLATION[^key-7006993853e7dedd082a78ac6cf7cb3e]
+## SCHEDULE — DEFINITIONS OF COMMUNITY LEGISLATION[^c-7006993853e7dedd082a78ac6cf7cb3e]
 
 Regulation 2(1)
 
@@ -93,8 +93,8 @@ Regulation 2(1)
 
 **May not be in force at this date. Check the source.**
 
-[^key-7006993853e7dedd082a78ac6cf7cb3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7006993853e7dedd082a78ac6cf7cb3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7006993853e7dedd082a78ac6cf7cb3e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/515) revoked (1.1.2009) by [The Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2008 (S.R. 2008/508)](https://www.legislation.gov.uk/nisr/2008/508), [regs. 1](https://www.legislation.gov.uk/nisr/2008/508/regulation/1), [20(a)](https://www.legislation.gov.uk/nisr/2008/508/regulation/20/a)
+[^c-7006993853e7dedd082a78ac6cf7cb3e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/515) revoked (1.1.2009) by [The Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2008 (S.R. 2008/508)](https://www.legislation.gov.uk/nisr/2008/508), [regs. 1](https://www.legislation.gov.uk/nisr/2008/508/regulation/1), [20(a)](https://www.legislation.gov.uk/nisr/2008/508/regulation/20/a)

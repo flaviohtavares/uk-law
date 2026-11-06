@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Technical competence – transitional provisions[^key-c36de4a4e97a88f2bff67129c9953d66]
+## 4. Technical competence – transitional provisions[^c-c36de4a4e97a88f2bff67129c9953d66]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c36de4a4e97a88f2bff67129c9953d66]: Textual amendment: Reg. 4 revoked (17.8.2015) by [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/301)](https://www.legislation.gov.uk/nisr/2015/301), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/301/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2015/301/regulation/2/3)
+[^c-c36de4a4e97a88f2bff67129c9953d66]: Textual amendment: Reg. 4 revoked (17.8.2015) by [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/301)](https://www.legislation.gov.uk/nisr/2015/301), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/301/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2015/301/regulation/2/3)

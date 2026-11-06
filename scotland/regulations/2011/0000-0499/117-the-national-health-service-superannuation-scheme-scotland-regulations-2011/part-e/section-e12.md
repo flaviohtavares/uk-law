@@ -117,7 +117,7 @@ and the retirement lump sum will be calculated as described in regulation E13.
 
     before the member reaches normal benefit age; and
   - (c) that, through no fault on the part of the member, it is not possible for the member to receive before the member reaches normal benefit age;
-- “[^key-c76a4fdb8b8a21b16784f3126bfa225e]**NHS employment**” does not include employment with an employing authority in respect of which—
+- “[^c-c76a4fdb8b8a21b16784f3126bfa225e]**NHS employment**” does not include employment with an employing authority in respect of which—
   - (a) a member is eligible to join the 2008 Section, or
   - (b) a member, other than a member who is no longer required to pay contributions pursuant to regulation D1(26) or (27) (contributions by members), is eligible to join the 2015 Scheme and that member’s service in this Section does not qualify as, or has ceased to be, pensionable service to which paragraphs 1(2)(i) and (ii) or paragraphs 2(2)(i) and (2)(ii) of Schedule 7 (final salary link) to the 2013 Act applies;
 - “**permanently**” means the period until normal benefit age; and
@@ -131,4 +131,4 @@ and the retirement lump sum will be calculated as described in regulation E13.
 
 ## Annotations
 
-[^key-c76a4fdb8b8a21b16784f3126bfa225e]: Textual amendment: Words in [reg. E12(16)](https://www.legislation.gov.uk/ssi/2011/117/regulation/E12/16) substituted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/5), [12](https://www.legislation.gov.uk/ssi/2024/272/regulation/12)
+[^c-c76a4fdb8b8a21b16784f3126bfa225e]: Textual amendment: Words in [reg. E12(16)](https://www.legislation.gov.uk/ssi/2011/117/regulation/E12/16) substituted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/5), [12](https://www.legislation.gov.uk/ssi/2024/272/regulation/12)

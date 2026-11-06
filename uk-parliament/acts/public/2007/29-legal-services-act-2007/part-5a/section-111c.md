@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 111C. Provision of information relating to economic crime by other persons[^key-c8c57bb4639c4012352379746653e604]
+## 111C. Provision of information relating to economic crime by other persons[^c-c8c57bb4639c4012352379746653e604]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8c57bb4639c4012352379746653e604]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/ukpga/2007/29/part/5A) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 210(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/210/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z64)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z64)
+[^c-c8c57bb4639c4012352379746653e604]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/ukpga/2007/29/part/5A) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 210(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/210/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z64)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z64)

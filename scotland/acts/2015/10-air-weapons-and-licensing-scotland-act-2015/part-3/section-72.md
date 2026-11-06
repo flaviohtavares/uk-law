@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Interpretation of provisions relating to metal dealers etc.[^key-94413ce694c122bc7daf3a0b181fe367]
+## 72. Interpretation of provisions relating to metal dealers etc.[^c-94413ce694c122bc7daf3a0b181fe367]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94413ce694c122bc7daf3a0b181fe367]: Commencement: S. 72 in force at 1.9.2016 in so far as not already in force by [S.S.I. 2016/85](https://www.legislation.gov.uk/ssi/2016/85), [art. 2](https://www.legislation.gov.uk/ssi/2016/85/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/85/schedule) (with [arts. 4](https://www.legislation.gov.uk/ssi/2016/85/article/4), [6](https://www.legislation.gov.uk/ssi/2016/85/article/6))
+[^c-94413ce694c122bc7daf3a0b181fe367]: Commencement: S. 72 in force at 1.9.2016 in so far as not already in force by [S.S.I. 2016/85](https://www.legislation.gov.uk/ssi/2016/85), [art. 2](https://www.legislation.gov.uk/ssi/2016/85/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/85/schedule) (with [arts. 4](https://www.legislation.gov.uk/ssi/2016/85/article/4), [6](https://www.legislation.gov.uk/ssi/2016/85/article/6))

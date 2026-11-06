@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Offender aged under 16: duties to give reasons where order not made in respect of parent or guardian[^key-75d5b7cda36c2cb445d3891c2a6fbe6a]
+## 53. Offender aged under 16: duties to give reasons where order not made in respect of parent or guardian[^c-75d5b7cda36c2cb445d3891c2a6fbe6a]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75d5b7cda36c2cb445d3891c2a6fbe6a]: Commencement: S. 53 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-75d5b7cda36c2cb445d3891c2a6fbe6a]: Commencement: S. 53 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

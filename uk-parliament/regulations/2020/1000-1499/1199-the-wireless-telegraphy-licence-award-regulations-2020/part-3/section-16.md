@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Determination of a bidder's eligibility limit for the first principal stage round[^key-e0dfa19b35d3ede9b3a066b4dbbb1e80]
+## 16. Determination of a bidder's eligibility limit for the first principal stage round[^c-e0dfa19b35d3ede9b3a066b4dbbb1e80]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0dfa19b35d3ede9b3a066b4dbbb1e80]: Commencement: Reg. 16 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-e0dfa19b35d3ede9b3a066b4dbbb1e80]: Commencement: Reg. 16 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

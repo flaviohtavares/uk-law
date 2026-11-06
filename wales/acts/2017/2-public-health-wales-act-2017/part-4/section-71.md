@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Approval certificates[^key-5094c6b48c37c7698920f255cd4e3a5d][^key-cbaf6104027c083fe6eb84082f81c3ef]
+## 71. Approval certificates[^c-5094c6b48c37c7698920f255cd4e3a5d][^c-cbaf6104027c083fe6eb84082f81c3ef]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5094c6b48c37c7698920f255cd4e3a5d]: Commencement: [S. 71](https://www.legislation.gov.uk/anaw/2017/2/section/71) in force at 13.9.2024 for specified purposes by [S.I. 2024/938](https://www.legislation.gov.uk/wsi/2024/938), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2024/938/article/2/1/g)
+[^c-5094c6b48c37c7698920f255cd4e3a5d]: Commencement: [S. 71](https://www.legislation.gov.uk/anaw/2017/2/section/71) in force at 13.9.2024 for specified purposes by [S.I. 2024/938](https://www.legislation.gov.uk/wsi/2024/938), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2024/938/article/2/1/g)
 
-[^key-cbaf6104027c083fe6eb84082f81c3ef]: Commencement: [S. 71](https://www.legislation.gov.uk/anaw/2017/2/section/71) in force at 29.11.2024 in so far as not already in force by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(n)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/n) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-cbaf6104027c083fe6eb84082f81c3ef]: Commencement: [S. 71](https://www.legislation.gov.uk/anaw/2017/2/section/71) in force at 29.11.2024 in so far as not already in force by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(n)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/n) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))

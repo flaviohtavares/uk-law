@@ -211,111 +211,111 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 >
 > (5) This section does not limit the circumstances in which information may be supplied apart from this section.
 
-### 3. Authorities administering housing benefit or council tax benefit.[^c11261351][^key-d059dfa2ab9083d814e8826117115022]
+### 3. Authorities administering housing benefit or council tax benefit.[^c11261351][^c-d059dfa2ab9083d814e8826117115022]
 
 *Extent: E+W+S*
 
-After section 122B of the *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a] [^c11261361]Social Security Administration Act 1992 (inserted by section 2(1)) insert— *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+After section 122B of the *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a] [^c11261361]Social Security Administration Act 1992 (inserted by section 2(1)) insert— *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 
-> **Authorities administering housing benefit or council tax benefit (affected by repeal, see note)[^key-7af1436db6375724bfe755488915e25a]**
+> **Authorities administering housing benefit or council tax benefit (affected by repeal, see note)[^c-7af1436db6375724bfe755488915e25a]**
 >
-> **122C. Supply of information to authorities administering benefit. (affected by repeal, see note)[^key-7af1436db6375724bfe755488915e25a]**
+> **122C. Supply of information to authorities administering benefit. (affected by repeal, see note)[^c-7af1436db6375724bfe755488915e25a]**
 >
-> (1) This section applies to information relating to social security which is held— *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+> (1) This section applies to information relating to social security which is held— *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 >
-> - (a) by the Secretary of State or the Northern Ireland Department; or *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
-> - (b) by a person providing services to the Secretary of State or the Northern Ireland Department in connection with the provision of those services. *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+> - (a) by the Secretary of State or the Northern Ireland Department; or *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
+> - (b) by a person providing services to the Secretary of State or the Northern Ireland Department in connection with the provision of those services. *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 >
-> (2) Information to which this section applies may be supplied to— *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+> (2) Information to which this section applies may be supplied to— *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 >
-> - (a) an authority administering housing benefit or council tax benefit; or *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
-> - (b) a person authorised to exercise any function of such an authority relating to such a benefit, *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+> - (a) an authority administering housing benefit or council tax benefit; or *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
+> - (b) a person authorised to exercise any function of such an authority relating to such a benefit, *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 >
-> for use in the administration of such a benefit. *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+> for use in the administration of such a benefit. *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 >
-> (3) But where information to which this section applies has been supplied to the Secretary of State, the Northern Ireland Department or the person providing services under section 122 or 122B above, it may only be supplied under subsection (2) above— *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+> (3) But where information to which this section applies has been supplied to the Secretary of State, the Northern Ireland Department or the person providing services under section 122 or 122B above, it may only be supplied under subsection (2) above— *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 >
-> - (a) for use in the prevention, detection, investigation or prosecution of offences relating to housing benefit or council tax benefit; or *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
-> - (b) for use in checking the accuracy of information relating to housing benefit or to council tax benefit and (where appropriate) amending or supplementing such information. *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+> - (a) for use in the prevention, detection, investigation or prosecution of offences relating to housing benefit or council tax benefit; or *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
+> - (b) for use in checking the accuracy of information relating to housing benefit or to council tax benefit and (where appropriate) amending or supplementing such information. *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 >
-> (4) The Secretary of State or the Northern Ireland Department— *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+> (4) The Secretary of State or the Northern Ireland Department— *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 >
-> - (a) may impose conditions on the use of information supplied under subsection (2) above; and *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
-> - (b) may charge a reasonable fee in respect of the cost of supplying information under that subsection. *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+> - (a) may impose conditions on the use of information supplied under subsection (2) above; and *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
+> - (b) may charge a reasonable fee in respect of the cost of supplying information under that subsection. *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 >
-> (5) Where information is supplied to an authority or other person under subsection (2) above, the authority or other person shall have regard to it in the exercise of any function relating to housing benefit or council tax benefit. *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+> (5) Where information is supplied to an authority or other person under subsection (2) above, the authority or other person shall have regard to it in the exercise of any function relating to housing benefit or council tax benefit. *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 >
-> (6) Information supplied under subsection (2) above shall not be supplied by the recipient to any other person or body unless— *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+> (6) Information supplied under subsection (2) above shall not be supplied by the recipient to any other person or body unless— *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 >
-> - (a) it is supplied— *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
->   - (i) by an authority to a person authorised to exercise any function of the authority relating to housing benefit or council tax benefit; or *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
->   - (ii (affected by repeal, see note))[^key-7af1436db6375724bfe755488915e25a] by a person authorised to exercise any function of an authority relating to such a benefit to the authority; *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
-> - (b) it is supplied for the purposes of any civil or criminal proceedings relating to the Contributions and Benefits Act, the *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a] [^c11261371]Jobseekers Act 1995 or this Act or to any provision of Northern Ireland legislation corresponding to any of them; or *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
-> - (c) it is supplied under section 122D or 122E below. *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+> - (a) it is supplied— *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
+>   - (i) by an authority to a person authorised to exercise any function of the authority relating to housing benefit or council tax benefit; or *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
+>   - (ii (affected by repeal, see note))[^c-7af1436db6375724bfe755488915e25a] by a person authorised to exercise any function of an authority relating to such a benefit to the authority; *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
+> - (b) it is supplied for the purposes of any civil or criminal proceedings relating to the Contributions and Benefits Act, the *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a] [^c11261371]Jobseekers Act 1995 or this Act or to any provision of Northern Ireland legislation corresponding to any of them; or *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
+> - (c) it is supplied under section 122D or 122E below. *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 >
-> (7) This section does not limit the circumstances in which information may be supplied apart from this section (in particular by reason of section 122(4) or 122B(4) above). *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+> (7) This section does not limit the circumstances in which information may be supplied apart from this section (in particular by reason of section 122(4) or 122B(4) above). *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 >
-> **122D. Supply of information by authorities administering benefit. (affected by repeal, see note)[^key-7af1436db6375724bfe755488915e25a]**
+> **122D. Supply of information by authorities administering benefit. (affected by repeal, see note)[^c-7af1436db6375724bfe755488915e25a]**
 >
-> (1) The Secretary of State or the Northern Ireland Department may require— *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+> (1) The Secretary of State or the Northern Ireland Department may require— *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 >
-> - (a) an authority administering housing benefit or council tax benefit; or *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
-> - (b) a person authorised to exercise any function of such an authority relating to such a benefit, *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+> - (a) an authority administering housing benefit or council tax benefit; or *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
+> - (b) a person authorised to exercise any function of such an authority relating to such a benefit, *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 >
-> to supply benefit administration information held by the authority or other person to, or to a person providing services to, the Secretary of State or the Northern Ireland Department for use for any purpose relating to social security. *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+> to supply benefit administration information held by the authority or other person to, or to a person providing services to, the Secretary of State or the Northern Ireland Department for use for any purpose relating to social security. *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 >
-> (2) The Secretary of State or the Northern Ireland Department may require— *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+> (2) The Secretary of State or the Northern Ireland Department may require— *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 >
-> - (a) an authority administering housing benefit or council tax benefit; or *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
-> - (b) a person authorised to exercise any function of such an authority relating to such a benefit, *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+> - (a) an authority administering housing benefit or council tax benefit; or *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
+> - (b) a person authorised to exercise any function of such an authority relating to such a benefit, *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 >
-> to supply benefit policy information held by the authority or other person to, or to a person providing services to, the Secretary of State or the Northern Ireland Department. *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+> to supply benefit policy information held by the authority or other person to, or to a person providing services to, the Secretary of State or the Northern Ireland Department. *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 >
-> (3) Information shall be supplied under subsection (1) or (2) above in such manner and form, and in accordance with such requirements, as may be prescribed. *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+> (3) Information shall be supplied under subsection (1) or (2) above in such manner and form, and in accordance with such requirements, as may be prescribed. *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 >
-> (4) In subsection (1) above “ *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]**benefit administration information *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]**”, in relation to an authority or other person, means any information which is relevant to the exercise of any function relating to housing benefit or council tax benefit by the authority or other person. *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+> (4) In subsection (1) above “ *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]**benefit administration information *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]**”, in relation to an authority or other person, means any information which is relevant to the exercise of any function relating to housing benefit or council tax benefit by the authority or other person. *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 >
-> (5) In subsection (2) above “ *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]**benefit policy information *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]**” means any information which may be relevant to the Secretary of State or the Northern Ireland Department— *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+> (5) In subsection (2) above “ *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]**benefit policy information *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]**” means any information which may be relevant to the Secretary of State or the Northern Ireland Department— *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 >
-> - (a) in preparing estimates of likely future expenditure on housing benefit or council tax benefit; or *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
-> - (b) in developing policy relating to housing benefit or council tax benefit. *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+> - (a) in preparing estimates of likely future expenditure on housing benefit or council tax benefit; or *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
+> - (b) in developing policy relating to housing benefit or council tax benefit. *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 >
-> **122E. Supply of information between authorities administering benefit. (affected by repeal, see note)[^key-7af1436db6375724bfe755488915e25a]**
+> **122E. Supply of information between authorities administering benefit. (affected by repeal, see note)[^c-7af1436db6375724bfe755488915e25a]**
 >
-> (1) This section applies to benefit administration information which is held by— *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+> (1) This section applies to benefit administration information which is held by— *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 >
-> - (a) an authority administering housing benefit or council tax benefit; or *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
-> - (b) a person authorised to exercise any function of such an authority relating to such a benefit. *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+> - (a) an authority administering housing benefit or council tax benefit; or *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
+> - (b) a person authorised to exercise any function of such an authority relating to such a benefit. *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 >
-> (2) Information to which this section applies may be supplied to another such authority or person— *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+> (2) Information to which this section applies may be supplied to another such authority or person— *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 >
-> - (a) for use in the prevention, detection, investigation or prosecution of offences relating to housing benefit or council tax benefit; or *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
-> - (b) for use in checking the accuracy of information relating to housing benefit or to council tax benefit and (where appropriate) amending or supplementing such information. *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+> - (a) for use in the prevention, detection, investigation or prosecution of offences relating to housing benefit or council tax benefit; or *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
+> - (b) for use in checking the accuracy of information relating to housing benefit or to council tax benefit and (where appropriate) amending or supplementing such information. *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 >
-> (3) The Secretary of State or the Northern Ireland Department may require information to which this section applies and which is of a prescribed description to be supplied in prescribed circumstances to another such authority or person for use in the administration of housing benefit or council tax benefit. *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+> (3) The Secretary of State or the Northern Ireland Department may require information to which this section applies and which is of a prescribed description to be supplied in prescribed circumstances to another such authority or person for use in the administration of housing benefit or council tax benefit. *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 >
-> (4) Information shall be supplied under subsection (3) above in such manner and form, and in accordance with such requirements, as may be prescribed. *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+> (4) Information shall be supplied under subsection (3) above in such manner and form, and in accordance with such requirements, as may be prescribed. *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 >
-> (5) Where information supplied under subsection (2) or (3) above has been used in amending or supplementing other information, it is lawful for it to be— *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+> (5) Where information supplied under subsection (2) or (3) above has been used in amending or supplementing other information, it is lawful for it to be— *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 >
-> - (a) supplied to any person or body to whom that other information could be supplied; or *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
-> - (b) used for any purpose for which that other information could be used. *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+> - (a) supplied to any person or body to whom that other information could be supplied; or *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
+> - (b) used for any purpose for which that other information could be used. *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 >
-> (6) In this section “ *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]**benefit administration information *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]**”, in relation to an authority or other person, means any information which is relevant to the exercise of any function relating to housing benefit or council tax benefit by the authority or other person. *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+> (6) In this section “ *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]**benefit administration information *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]**”, in relation to an authority or other person, means any information which is relevant to the exercise of any function relating to housing benefit or council tax benefit by the authority or other person. *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 >
-> (7) This section does not limit the circumstances in which information may be supplied apart from this section. *(affected by repeal, see note)*[^key-7af1436db6375724bfe755488915e25a]
+> (7) This section does not limit the circumstances in which information may be supplied apart from this section. *(affected by repeal, see note)*[^c-7af1436db6375724bfe755488915e25a]
 
 ### 4. Unauthorised disclosure by officials.
 
 *Extent: E+W+S*
 
-(1) In Schedule 4 to the *(affected by repeal, see note)*[^key-3acb52c1fc35c8dcc7a0bd19baa1b2f1] [^c11261381]Social Security Administration Act 1992 (persons who may commit an offence under section 123 of that Act), after the entries headed “ *(affected by repeal, see note)*[^key-3acb52c1fc35c8dcc7a0bd19baa1b2f1]*Other public departments and offices *(affected by repeal, see note)*[^key-3acb52c1fc35c8dcc7a0bd19baa1b2f1]*” insert— *(affected by repeal, see note)*[^key-3acb52c1fc35c8dcc7a0bd19baa1b2f1]
+(1) In Schedule 4 to the *(affected by repeal, see note)*[^c-3acb52c1fc35c8dcc7a0bd19baa1b2f1] [^c11261381]Social Security Administration Act 1992 (persons who may commit an offence under section 123 of that Act), after the entries headed “ *(affected by repeal, see note)*[^c-3acb52c1fc35c8dcc7a0bd19baa1b2f1]*Other public departments and offices *(affected by repeal, see note)*[^c-3acb52c1fc35c8dcc7a0bd19baa1b2f1]*” insert— *(affected by repeal, see note)*[^c-3acb52c1fc35c8dcc7a0bd19baa1b2f1]
 
-> Local authorities etc. *(affected by repeal, see note)*[^key-3acb52c1fc35c8dcc7a0bd19baa1b2f1]
+> Local authorities etc. *(affected by repeal, see note)*[^c-3acb52c1fc35c8dcc7a0bd19baa1b2f1]
 >
-> - A member, officer or employee of an authority administering housing benefit or council tax benefit. *(affected by repeal, see note)*[^key-3acb52c1fc35c8dcc7a0bd19baa1b2f1]
-> - A person authorised to exercise any function of such an authority relating to such a benefit or any employee of such a person. *(affected by repeal, see note)*[^key-3acb52c1fc35c8dcc7a0bd19baa1b2f1]
-> - A person authorised under section 139A(1) of this Act to consider and report to the Secretary of State on the administration of housing benefit or council tax benefit. *(affected by repeal, see note)*[^key-3acb52c1fc35c8dcc7a0bd19baa1b2f1]
+> - A member, officer or employee of an authority administering housing benefit or council tax benefit. *(affected by repeal, see note)*[^c-3acb52c1fc35c8dcc7a0bd19baa1b2f1]
+> - A person authorised to exercise any function of such an authority relating to such a benefit or any employee of such a person. *(affected by repeal, see note)*[^c-3acb52c1fc35c8dcc7a0bd19baa1b2f1]
+> - A person authorised under section 139A(1) of this Act to consider and report to the Secretary of State on the administration of housing benefit or council tax benefit. *(affected by repeal, see note)*[^c-3acb52c1fc35c8dcc7a0bd19baa1b2f1]
 
 (2) In section 123 of that Act (offence of unauthorised disclosure by certain persons of information relating to particular persons), in subsection (8) (persons employed in audit of expenditure)—
 
@@ -341,48 +341,48 @@ After section 122B of the *(affected by repeal, see note)*[^key-7af1436db6375724
 
 ### 5. Overseeing of administration by Secretary of State.
 
-After section 139 of the *(affected by repeal, see note)*[^key-08c814a8d638812e359288dcf63bcb0a] [^c11261401]Social Security Administration Act 1992 insert— *(affected by repeal, see note)*[^key-08c814a8d638812e359288dcf63bcb0a]
+After section 139 of the *(affected by repeal, see note)*[^c-08c814a8d638812e359288dcf63bcb0a] [^c11261401]Social Security Administration Act 1992 insert— *(affected by repeal, see note)*[^c-08c814a8d638812e359288dcf63bcb0a]
 
-> **Reports (affected by repeal, see note)[^key-08c814a8d638812e359288dcf63bcb0a]**
+> **Reports (affected by repeal, see note)[^c-08c814a8d638812e359288dcf63bcb0a]**
 >
-> **139A. Persons to report on administration. (affected by repeal, see note)[^key-08c814a8d638812e359288dcf63bcb0a]**
+> **139A. Persons to report on administration. (affected by repeal, see note)[^c-08c814a8d638812e359288dcf63bcb0a]**
 >
-> (1) The Secretary of State may authorise persons to consider and report to him on the administration by authorities of housing benefit and council tax benefit and, in particular, their performance in the prevention and detection of fraud relating to those benefits. *(affected by repeal, see note)*[^key-08c814a8d638812e359288dcf63bcb0a]
+> (1) The Secretary of State may authorise persons to consider and report to him on the administration by authorities of housing benefit and council tax benefit and, in particular, their performance in the prevention and detection of fraud relating to those benefits. *(affected by repeal, see note)*[^c-08c814a8d638812e359288dcf63bcb0a]
 >
-> (2) A person may be authorised under subsection (1) above on such terms and for such period as the Secretary of State thinks fit and may be authorised to act generally or in relation to a specified authority or authorities. *(affected by repeal, see note)*[^key-08c814a8d638812e359288dcf63bcb0a]
+> (2) A person may be authorised under subsection (1) above on such terms and for such period as the Secretary of State thinks fit and may be authorised to act generally or in relation to a specified authority or authorities. *(affected by repeal, see note)*[^c-08c814a8d638812e359288dcf63bcb0a]
 >
-> (3) In sections 139B and 139C below— *(affected by repeal, see note)*[^key-08c814a8d638812e359288dcf63bcb0a]
+> (3) In sections 139B and 139C below— *(affected by repeal, see note)*[^c-08c814a8d638812e359288dcf63bcb0a]
 >
-> - “**benefit *(affected by repeal, see note)*[^key-08c814a8d638812e359288dcf63bcb0a]**” means housing benefit or council tax benefit; and *(affected by repeal, see note)*[^key-08c814a8d638812e359288dcf63bcb0a]
-> - “**authority *(affected by repeal, see note)*[^key-08c814a8d638812e359288dcf63bcb0a]**” means an authority which is administering either of those benefits. *(affected by repeal, see note)*[^key-08c814a8d638812e359288dcf63bcb0a]
+> - “**benefit *(affected by repeal, see note)*[^c-08c814a8d638812e359288dcf63bcb0a]**” means housing benefit or council tax benefit; and *(affected by repeal, see note)*[^c-08c814a8d638812e359288dcf63bcb0a]
+> - “**authority *(affected by repeal, see note)*[^c-08c814a8d638812e359288dcf63bcb0a]**” means an authority which is administering either of those benefits. *(affected by repeal, see note)*[^c-08c814a8d638812e359288dcf63bcb0a]
 >
-> **139B. Powers of investigation. (affected by repeal, see note)[^key-08c814a8d638812e359288dcf63bcb0a]**
+> **139B. Powers of investigation. (affected by repeal, see note)[^c-08c814a8d638812e359288dcf63bcb0a]**
 >
-> (1) A person authorised under section 139A(1) above— *(affected by repeal, see note)*[^key-08c814a8d638812e359288dcf63bcb0a]
+> (1) A person authorised under section 139A(1) above— *(affected by repeal, see note)*[^c-08c814a8d638812e359288dcf63bcb0a]
 >
-> - (a) has a right of access at all reasonable times to any document relating to the administration of benefit; *(affected by repeal, see note)*[^key-08c814a8d638812e359288dcf63bcb0a]
-> - (b) is entitled to require from any person holding or accountable for any such document such information and explanation as he thinks necessary; and *(affected by repeal, see note)*[^key-08c814a8d638812e359288dcf63bcb0a]
-> - (c) is entitled, if he thinks it necessary, to require any such person to produce any such document or to attend before him in person to give such information or explanation. *(affected by repeal, see note)*[^key-08c814a8d638812e359288dcf63bcb0a]
+> - (a) has a right of access at all reasonable times to any document relating to the administration of benefit; *(affected by repeal, see note)*[^c-08c814a8d638812e359288dcf63bcb0a]
+> - (b) is entitled to require from any person holding or accountable for any such document such information and explanation as he thinks necessary; and *(affected by repeal, see note)*[^c-08c814a8d638812e359288dcf63bcb0a]
+> - (c) is entitled, if he thinks it necessary, to require any such person to produce any such document or to attend before him in person to give such information or explanation. *(affected by repeal, see note)*[^c-08c814a8d638812e359288dcf63bcb0a]
 >
-> (2) A person authorised under section 139A(1) above is entitled to require any officer or member of an authority or any person involved in the administration of benefit for an authority— *(affected by repeal, see note)*[^key-08c814a8d638812e359288dcf63bcb0a]
+> (2) A person authorised under section 139A(1) above is entitled to require any officer or member of an authority or any person involved in the administration of benefit for an authority— *(affected by repeal, see note)*[^c-08c814a8d638812e359288dcf63bcb0a]
 >
-> - (a) to give him such information and explanation relating to the administration of benefit as he thinks necessary; and *(affected by repeal, see note)*[^key-08c814a8d638812e359288dcf63bcb0a]
-> - (b) if he thinks it necessary, to require any such person to attend before him in person to give the information or explanation. *(affected by repeal, see note)*[^key-08c814a8d638812e359288dcf63bcb0a]
+> - (a) to give him such information and explanation relating to the administration of benefit as he thinks necessary; and *(affected by repeal, see note)*[^c-08c814a8d638812e359288dcf63bcb0a]
+> - (b) if he thinks it necessary, to require any such person to attend before him in person to give the information or explanation. *(affected by repeal, see note)*[^c-08c814a8d638812e359288dcf63bcb0a]
 >
-> (3) A person who without reasonable excuse fails to comply with a requirement under subsection (1) or (2) above is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale. *(affected by repeal, see note)*[^key-08c814a8d638812e359288dcf63bcb0a]
+> (3) A person who without reasonable excuse fails to comply with a requirement under subsection (1) or (2) above is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale. *(affected by repeal, see note)*[^c-08c814a8d638812e359288dcf63bcb0a]
 >
-> (4) A person authorised under section 139A(1) above may— *(affected by repeal, see note)*[^key-08c814a8d638812e359288dcf63bcb0a]
+> (4) A person authorised under section 139A(1) above may— *(affected by repeal, see note)*[^c-08c814a8d638812e359288dcf63bcb0a]
 >
-> - (a) require any document or information which is to be given to him under subsection (1) or (2) above to be given in any form reasonably specified by him; and *(affected by repeal, see note)*[^key-08c814a8d638812e359288dcf63bcb0a]
-> - (b) take copies of any document produced to him. *(affected by repeal, see note)*[^key-08c814a8d638812e359288dcf63bcb0a]
+> - (a) require any document or information which is to be given to him under subsection (1) or (2) above to be given in any form reasonably specified by him; and *(affected by repeal, see note)*[^c-08c814a8d638812e359288dcf63bcb0a]
+> - (b) take copies of any document produced to him. *(affected by repeal, see note)*[^c-08c814a8d638812e359288dcf63bcb0a]
 >
-> (5) In this section “ *(affected by repeal, see note)*[^key-08c814a8d638812e359288dcf63bcb0a]**document *(affected by repeal, see note)*[^key-08c814a8d638812e359288dcf63bcb0a]**” means anything in which information of any description is recorded. *(affected by repeal, see note)*[^key-08c814a8d638812e359288dcf63bcb0a]
+> (5) In this section “ *(affected by repeal, see note)*[^c-08c814a8d638812e359288dcf63bcb0a]**document *(affected by repeal, see note)*[^c-08c814a8d638812e359288dcf63bcb0a]**” means anything in which information of any description is recorded. *(affected by repeal, see note)*[^c-08c814a8d638812e359288dcf63bcb0a]
 >
-> **139C. Reports. (affected by repeal, see note)[^key-08c814a8d638812e359288dcf63bcb0a]**
+> **139C. Reports. (affected by repeal, see note)[^c-08c814a8d638812e359288dcf63bcb0a]**
 >
-> (1) A report about an authority by a person authorised under section 139A(1) above may include recommendations about improvements which could be made by that authority in its administration of benefit and, in particular, in the prevention and detection of fraud relating to benefit. *(affected by repeal, see note)*[^key-08c814a8d638812e359288dcf63bcb0a]
+> (1) A report about an authority by a person authorised under section 139A(1) above may include recommendations about improvements which could be made by that authority in its administration of benefit and, in particular, in the prevention and detection of fraud relating to benefit. *(affected by repeal, see note)*[^c-08c814a8d638812e359288dcf63bcb0a]
 >
-> (2) When the Secretary of State receives a report about an authority from a person authorised under section 139A(1) above, he shall send a copy to the authority. *(affected by repeal, see note)*[^key-08c814a8d638812e359288dcf63bcb0a]
+> (2) When the Secretary of State receives a report about an authority from a person authorised under section 139A(1) above, he shall send a copy to the authority. *(affected by repeal, see note)*[^c-08c814a8d638812e359288dcf63bcb0a]
 
 ### 6. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c11261421]
 
@@ -429,147 +429,147 @@ After section 139 of the *(affected by repeal, see note)*[^key-08c814a8d638812e3
 
 ### 8. Directions by Secretary of State.
 
-After section 139C of the *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a] [^c11261441]Social Security Administration Act 1992 (inserted by section 5) insert— *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+After section 139C of the *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a] [^c11261441]Social Security Administration Act 1992 (inserted by section 5) insert— *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 
-> **Directions by Secretary of State (affected by repeal, see note)[^key-5bc42b9b3c268e73df6544db553d7b9a]**
+> **Directions by Secretary of State (affected by repeal, see note)[^c-5bc42b9b3c268e73df6544db553d7b9a]**
 >
-> **139D. Directions. (affected by repeal, see note)[^key-5bc42b9b3c268e73df6544db553d7b9a]**
+> **139D. Directions. (affected by repeal, see note)[^c-5bc42b9b3c268e73df6544db553d7b9a]**
 >
-> (1) This section applies where— *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> (1) This section applies where— *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> - (a) a copy of a report has been sent to an authority under section 139C(2) above; *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
-> - (b) a copy of a report has been sent to an authority under section 18(3) of the *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a] [^c11261451]Local Government Finance Act 1982 and to the Secretary of State under section 28AC(2) of that Act; *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
-> - (c) a copy of a report relating to the administration of benefit has been sent to a local authority under section 102(2) of the *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a] [^c11261461]Local Government (Scotland) Act 1973 and to the Secretary of State and section 103(1) of that Act has been complied with; or *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
-> - (d) a copy of a report has been sent to an authority under section 28AB(7) of the *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a] [^c11261471]Local Government Finance Act 1982 or section 105A(7) of the *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a] [^c11261481]Local Government (Scotland) Act 1973. *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> - (a) a copy of a report has been sent to an authority under section 139C(2) above; *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
+> - (b) a copy of a report has been sent to an authority under section 18(3) of the *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a] [^c11261451]Local Government Finance Act 1982 and to the Secretary of State under section 28AC(2) of that Act; *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
+> - (c) a copy of a report relating to the administration of benefit has been sent to a local authority under section 102(2) of the *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a] [^c11261461]Local Government (Scotland) Act 1973 and to the Secretary of State and section 103(1) of that Act has been complied with; or *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
+> - (d) a copy of a report has been sent to an authority under section 28AB(7) of the *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a] [^c11261471]Local Government Finance Act 1982 or section 105A(7) of the *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a] [^c11261481]Local Government (Scotland) Act 1973. *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> (2) The Secretary of State may invite the authority to consider the report and to submit proposals for— *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> (2) The Secretary of State may invite the authority to consider the report and to submit proposals for— *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> - (a) improving its performance in relation to the prevention and detection of fraud relating to benefit or otherwise in relation to the administration of benefit; and *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
-> - (b) remedying any failings identified by the report. *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> - (a) improving its performance in relation to the prevention and detection of fraud relating to benefit or otherwise in relation to the administration of benefit; and *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
+> - (b) remedying any failings identified by the report. *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> (3) After considering the report and any proposals made by the authority in response to it, the Secretary of State may give directions to the authority as to— *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> (3) After considering the report and any proposals made by the authority in response to it, the Secretary of State may give directions to the authority as to— *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> - (a) standards which the authority is to attain in the prevention and detection of fraud relating to benefit or otherwise in the administration of benefit; and *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
-> - (b) the time within which the standards are to be attained. *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> - (a) standards which the authority is to attain in the prevention and detection of fraud relating to benefit or otherwise in the administration of benefit; and *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
+> - (b) the time within which the standards are to be attained. *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> (4) When giving directions to an authority under subsection (3) above, the Secretary of State may make recommendations to the authority setting out any course of action which he thinks it might take to attain the standards which it is directed to attain. *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> (4) When giving directions to an authority under subsection (3) above, the Secretary of State may make recommendations to the authority setting out any course of action which he thinks it might take to attain the standards which it is directed to attain. *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> (5) In this section “ *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]**benefit *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]**” means housing benefit or council tax benefit. *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> (5) In this section “ *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]**benefit *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]**” means housing benefit or council tax benefit. *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 
 ### 9. Enforcement of directions.
 
-After section 139D of the *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a] [^c11261491]Social Security Administration Act 1992 (inserted by section 8) insert— *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+After section 139D of the *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a] [^c11261491]Social Security Administration Act 1992 (inserted by section 8) insert— *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 
-> **139E. Information about attainment of standards. (affected by repeal, see note)[^key-5bc42b9b3c268e73df6544db553d7b9a]**
+> **139E. Information about attainment of standards. (affected by repeal, see note)[^c-5bc42b9b3c268e73df6544db553d7b9a]**
 >
-> (1) Where directions have been given to an authority under section 139D(3) above, the Secretary of State may require the authority to supply to him any information which he considers may assist him in deciding— *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> (1) Where directions have been given to an authority under section 139D(3) above, the Secretary of State may require the authority to supply to him any information which he considers may assist him in deciding— *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> - (a) whether the authority has attained the standards which it has been directed to attain; or *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
-> - (b) whether the authority is likely to attain those standards within the time specified in the directions. *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> - (a) whether the authority has attained the standards which it has been directed to attain; or *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
+> - (b) whether the authority is likely to attain those standards within the time specified in the directions. *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> (2) Information shall be supplied under subsection (1) above in such manner and form as the Secretary of State may require. *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> (2) Information shall be supplied under subsection (1) above in such manner and form as the Secretary of State may require. *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> **139F. Enforcement notices. (affected by repeal, see note)[^key-5bc42b9b3c268e73df6544db553d7b9a]**
+> **139F. Enforcement notices. (affected by repeal, see note)[^c-5bc42b9b3c268e73df6544db553d7b9a]**
 >
-> (1) Where directions have been given to an authority under section 139D(3) above and the Secretary of State— *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> (1) Where directions have been given to an authority under section 139D(3) above and the Secretary of State— *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> - (a) is not satisfied that the authority has attained the standards which it has been directed to attain; or *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
-> - (b) is not satisfied that the authority is likely to attain those standards within the time specified in the directions, *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> - (a) is not satisfied that the authority has attained the standards which it has been directed to attain; or *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
+> - (b) is not satisfied that the authority is likely to attain those standards within the time specified in the directions, *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> he may serve on the authority a written notice under this section. *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> he may serve on the authority a written notice under this section. *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> (2) The notice shall— *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> (2) The notice shall— *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> - (a) identify the directions and state why the Secretary of State is not satisfied as mentioned in paragraph (a) or (b) of subsection (1) above; and *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
-> - (b) require the authority to submit a written response to the Secretary of State within a time specified in the notice. *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> - (a) identify the directions and state why the Secretary of State is not satisfied as mentioned in paragraph (a) or (b) of subsection (1) above; and *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
+> - (b) require the authority to submit a written response to the Secretary of State within a time specified in the notice. *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> (3) If any person (other than the authority) carrying out work relating to the administration of benefit may be affected by any determination which may be made under section 139G below, the authority shall— *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> (3) If any person (other than the authority) carrying out work relating to the administration of benefit may be affected by any determination which may be made under section 139G below, the authority shall— *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> - (a) consult that person before submitting its response; and *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
-> - (b) include in its response any relevant observations made by that person. *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> - (a) consult that person before submitting its response; and *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
+> - (b) include in its response any relevant observations made by that person. *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> (4) The authority’s response shall either— *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> (4) The authority’s response shall either— *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> - (a) state that the authority has attained the standards, or is likely to attain them within the time specified in the directions, and justify that statement; or *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
-> - (b) state that the authority has not attained the standards, or is not likely to attain them within that time, and (if the authority wishes) give reasons why a determination under section 139G below should not be made or should not include any particular provision. *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> - (a) state that the authority has attained the standards, or is likely to attain them within the time specified in the directions, and justify that statement; or *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
+> - (b) state that the authority has not attained the standards, or is not likely to attain them within that time, and (if the authority wishes) give reasons why a determination under section 139G below should not be made or should not include any particular provision. *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> (5) The notice may relate to any one or more matters covered by the directions. *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> (5) The notice may relate to any one or more matters covered by the directions. *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> (6) The serving of a notice under this section relating to any directions or matter does not prevent the serving of further notices under this section relating to the same directions or matter. *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> (6) The serving of a notice under this section relating to any directions or matter does not prevent the serving of further notices under this section relating to the same directions or matter. *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> (7) In this section “ *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]**benefit *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]**” means housing benefit or council tax benefit. *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> (7) In this section “ *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]**benefit *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]**” means housing benefit or council tax benefit. *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> **139G. Enforcement determinations. (affected by repeal, see note)[^key-5bc42b9b3c268e73df6544db553d7b9a]**
+> **139G. Enforcement determinations. (affected by repeal, see note)[^c-5bc42b9b3c268e73df6544db553d7b9a]**
 >
-> (1) Where, after the time specified in the notice under section 139F above has expired, the Secretary of State— *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> (1) Where, after the time specified in the notice under section 139F above has expired, the Secretary of State— *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> - (a) is not satisfied that the authority has attained the standards in question; or *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
-> - (b) is not satisfied that the authority is likely to attain those standards within the time specified in the directions, *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> - (a) is not satisfied that the authority has attained the standards in question; or *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
+> - (b) is not satisfied that the authority is likely to attain those standards within the time specified in the directions, *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> he may make a determination under this section. *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> he may make a determination under this section. *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> (2) The determination may be made whether or not the authority has responded to the notice under section 139F above. *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> (2) The determination may be made whether or not the authority has responded to the notice under section 139F above. *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> (3) The determination shall be designed to secure the attainment of the standards in question and— *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> (3) The determination shall be designed to secure the attainment of the standards in question and— *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> - (a) shall include provision such as is specified in subsection (4) below; and *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
-> - (b) may also include provision such as is specified in subsection (5) below. *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> - (a) shall include provision such as is specified in subsection (4) below; and *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
+> - (b) may also include provision such as is specified in subsection (5) below. *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> (4) The provision referred to in paragraph (a) of subsection (3) above is provision that the authority must comply with specified requirements as to inviting, preparing, considering and accepting bids to carry out any work which— *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> (4) The provision referred to in paragraph (a) of subsection (3) above is provision that the authority must comply with specified requirements as to inviting, preparing, considering and accepting bids to carry out any work which— *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> - (a) falls to be carried out in pursuance of the authority’s functions relating to the administration of benefit; and *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
-> - (b) is of a description specified in the determination. *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> - (a) falls to be carried out in pursuance of the authority’s functions relating to the administration of benefit; and *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
+> - (b) is of a description specified in the determination. *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> (5) The provision referred to in paragraph (b) of that subsection is provision of any one or more of the following kinds relating to the work, or any specified category of the work, to which the determination relates— *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> (5) The provision referred to in paragraph (b) of that subsection is provision of any one or more of the following kinds relating to the work, or any specified category of the work, to which the determination relates— *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> - (a) provision that it may not be carried out by the authority; *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
-> - (b) provision that it may not be carried out by any person (other than the authority) who has been carrying it out; and *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
-> - (c) provision that any contract made by the authority with any person for carrying it out shall include terms requiring a level of performance which will secure, or contribute to securing, the attainment of the standards in question. *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> - (a) provision that it may not be carried out by the authority; *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
+> - (b) provision that it may not be carried out by any person (other than the authority) who has been carrying it out; and *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
+> - (c) provision that any contract made by the authority with any person for carrying it out shall include terms requiring a level of performance which will secure, or contribute to securing, the attainment of the standards in question. *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> (6) In this section “ *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]**benefit *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]**” means housing benefit or council tax benefit. *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> (6) In this section “ *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]**benefit *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]**” means housing benefit or council tax benefit. *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> **139H. Enforcement determinations: supplementary. (affected by repeal, see note)[^key-5bc42b9b3c268e73df6544db553d7b9a]**
+> **139H. Enforcement determinations: supplementary. (affected by repeal, see note)[^c-5bc42b9b3c268e73df6544db553d7b9a]**
 >
-> (1) The provisions included in a determination under section 139G above shall take effect from a date specified in the determination; and different dates may be specified in relation to different provisions. *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> (1) The provisions included in a determination under section 139G above shall take effect from a date specified in the determination; and different dates may be specified in relation to different provisions. *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> (2) The making of a determination under section 139G above in relation to any directions does not prevent the making of further determinations under that section in relation to the same directions. *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> (2) The making of a determination under section 139G above in relation to any directions does not prevent the making of further determinations under that section in relation to the same directions. *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> (3) The provision included in a determination by virtue of section 139G(3) above may include— *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> (3) The provision included in a determination by virtue of section 139G(3) above may include— *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> - (a) requirements that the Secretary of State be satisfied as to any specified matter; and *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
-> - (b) requirements that the Secretary of State authorise or consent to any specified matter. *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> - (a) requirements that the Secretary of State be satisfied as to any specified matter; and *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
+> - (b) requirements that the Secretary of State authorise or consent to any specified matter. *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> (4) The provision so included may also include provision as to the time at which any contract for the carrying out of work to which the determination relates (and which is not previously discharged) is to be taken to be frustrated by the determination. *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> (4) The provision so included may also include provision as to the time at which any contract for the carrying out of work to which the determination relates (and which is not previously discharged) is to be taken to be frustrated by the determination. *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> (5) A determination under section 139G above shall have effect in spite of any enactment under or by virtue of which an authority is required or authorised to carry out any work to which the determination relates. *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> (5) A determination under section 139G above shall have effect in spite of any enactment under or by virtue of which an authority is required or authorised to carry out any work to which the determination relates. *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> (6) A determination under section 139G above may make provision having effect, in relation to the work to which it relates, instead of any requirement which (apart from the determination) would have effect in relation to that work under or by virtue of the *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a] [^c11261501]Local Government Act 1988. *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> (6) A determination under section 139G above may make provision having effect, in relation to the work to which it relates, instead of any requirement which (apart from the determination) would have effect in relation to that work under or by virtue of the *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a] [^c11261501]Local Government Act 1988. *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 
 ### 10. Adjustment of subsidy.
 
-In section 140B of the *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a] [^c11261511]Social Security Administration Act 1992 (calculation of amount of subsidy in respect of housing benefit and council tax benefit), for subsections (4) and (5) substitute— *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+In section 140B of the *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a] [^c11261511]Social Security Administration Act 1992 (calculation of amount of subsidy in respect of housing benefit and council tax benefit), for subsections (4) and (5) substitute— *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 
-> (4) The Secretary of State may— *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> (4) The Secretary of State may— *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> - (a) pay as part of subsidy an additional amount specified by, or calculated in a manner specified by, the order; or *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
-> - (b) deduct from the amount which would otherwise be payable by way of subsidy an amount specified by, or calculated in a manner specified by, the order. *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> - (a) pay as part of subsidy an additional amount specified by, or calculated in a manner specified by, the order; or *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
+> - (b) deduct from the amount which would otherwise be payable by way of subsidy an amount specified by, or calculated in a manner specified by, the order. *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> (4A) The additional amounts which may be paid by virtue of subsection (4)(a) above include amounts in respect of— *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> (4A) The additional amounts which may be paid by virtue of subsection (4)(a) above include amounts in respect of— *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> - (a) the costs of administering the relevant benefit; or *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
-> - (b) success in preventing or detecting fraud relating to the relevant benefit or action to be taken with a view to preventing or detecting such fraud. *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> - (a) the costs of administering the relevant benefit; or *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
+> - (b) success in preventing or detecting fraud relating to the relevant benefit or action to be taken with a view to preventing or detecting such fraud. *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> (5) The Secretary of State may— *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> (5) The Secretary of State may— *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> - (a) where an application is made by an authority on his invitation, pay to the authority as part of the subsidy such additional amount as he considers appropriate in respect of— *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
->   - (i) success in preventing or detecting fraud relating to the relevant benefit; or *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
->   - (ii (affected by repeal, see note))[^key-5bc42b9b3c268e73df6544db553d7b9a] action to be taken with a view to preventing or detecting such fraud; or *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
-> - (b) deduct from the subsidy which would otherwise be payable to an authority such amount as he considers it unreasonable to pay by way of subsidy. *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> - (a) where an application is made by an authority on his invitation, pay to the authority as part of the subsidy such additional amount as he considers appropriate in respect of— *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
+>   - (i) success in preventing or detecting fraud relating to the relevant benefit; or *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
+>   - (ii (affected by repeal, see note))[^c-5bc42b9b3c268e73df6544db553d7b9a] action to be taken with a view to preventing or detecting such fraud; or *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
+> - (b) deduct from the subsidy which would otherwise be payable to an authority such amount as he considers it unreasonable to pay by way of subsidy. *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> (5A) The amounts which may be deducted by virtue of subsection (4)(b) or (5)(b) above include amounts in respect of— *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> (5A) The amounts which may be deducted by virtue of subsection (4)(b) or (5)(b) above include amounts in respect of— *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 >
-> - (a) a failure to comply with directions under section 139D(3) above; and *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
-> - (b) other failures in preventing or detecting fraud relating to the relevant benefit. *(affected by repeal, see note)*[^key-5bc42b9b3c268e73df6544db553d7b9a]
+> - (a) a failure to comply with directions under section 139D(3) above; and *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
+> - (b) other failures in preventing or detecting fraud relating to the relevant benefit. *(affected by repeal, see note)*[^c-5bc42b9b3c268e73df6544db553d7b9a]
 
 ## Investigations relating to housing benefit and council tax benefit
 
@@ -945,7 +945,7 @@ Section 22.
 
 **2.**[^c11261961] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.** In section 75(1) of that Act (recovery of overpayments of housing benefit), after “housing benefit” insert *(affected by repeal, see note)*[^key-66beeeb9f4ad3295fa34fa7143b0737b] “ determined in accordance with regulations to have been ” *(affected by repeal, see note)*[^key-66beeeb9f4ad3295fa34fa7143b0737b].
+**3.** In section 75(1) of that Act (recovery of overpayments of housing benefit), after “housing benefit” insert *(affected by repeal, see note)*[^c-66beeeb9f4ad3295fa34fa7143b0737b] “ determined in accordance with regulations to have been ” *(affected by repeal, see note)*[^c-66beeeb9f4ad3295fa34fa7143b0737b].
 
 *Extent: E+W*
 
@@ -963,13 +963,13 @@ Section 22.
 
 **6.** In section 123(2)(b) and (9)(d) of that Act (offence of unauthorised disclosure: Northern Ireland), for “Schedule 3” substitute “ Schedule 4 ”.
 
-**7.** (1)[^key-c2158f7aafae042c6e5bb9503db1d5da] Section 140B of that Act (calculation of amount of subsidy in respect of housing benefit and council tax benefit) is amended as follows. *(affected by repeal, see note)*[^key-c2158f7aafae042c6e5bb9503db1d5da]
+**7.** (1)[^c-c2158f7aafae042c6e5bb9503db1d5da] Section 140B of that Act (calculation of amount of subsidy in respect of housing benefit and council tax benefit) is amended as follows. *(affected by repeal, see note)*[^c-c2158f7aafae042c6e5bb9503db1d5da]
 
-(2) In subsection (1), for “calculated in the manner specified by” substitute *(affected by repeal, see note)*[^key-c2158f7aafae042c6e5bb9503db1d5da] “ determined in accordance with an ” *(affected by repeal, see note)*[^key-c2158f7aafae042c6e5bb9503db1d5da].
+(2) In subsection (1), for “calculated in the manner specified by” substitute *(affected by repeal, see note)*[^c-c2158f7aafae042c6e5bb9503db1d5da] “ determined in accordance with an ” *(affected by repeal, see note)*[^c-c2158f7aafae042c6e5bb9503db1d5da].
 
-(3)[^key-8ca5b3490956a5e7ce0897008d3c2ad0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8ca5b3490956a5e7ce0897008d3c2ad0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-8ca5b3490956a5e7ce0897008d3c2ad0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-8ca5b3490956a5e7ce0897008d3c2ad0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **8.** In section 164 of that Act (destination of repayments etc.), after subsection (7) insert—
 
@@ -1066,21 +1066,21 @@ Section 22.
 
 [^c11261351]: Commencement: S. 3 partly in force; s. 3 not in force at Royal Assent, see s. 25; s. 3 in force at 1.7.1997 (except insertion of s. 122E(3) and (4)) by [S.I. 1997/1577](https://www.legislation.gov.uk/uksi/1997/1577), [art. 2](https://www.legislation.gov.uk/uksi/1997/1577/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1997/1577/schedule)
 
-[^key-d059dfa2ab9083d814e8826117115022]: Commencement: S. 3 in force at 2.3.2004 in so far as not already in force by [S.I. 2004/564](https://www.legislation.gov.uk/uksi/2004/564), [art. 2](https://www.legislation.gov.uk/uksi/2004/564/article/2)
+[^c-d059dfa2ab9083d814e8826117115022]: Commencement: S. 3 in force at 2.3.2004 in so far as not already in force by [S.I. 2004/564](https://www.legislation.gov.uk/uksi/2004/564), [art. 2](https://www.legislation.gov.uk/uksi/2004/564/article/2)
 
-[^key-7af1436db6375724bfe755488915e25a]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1997/47/section/3) repealed (1.4.2013 for specified purposes) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/1); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 8(c)](https://www.legislation.gov.uk/uksi/2013/358/article/8/c), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/358/schedule/4) (with [art. 9](https://www.legislation.gov.uk/uksi/2013/358/article/9), [Sch. 5](https://www.legislation.gov.uk/uksi/2013/358/schedule/5))
+[^c-7af1436db6375724bfe755488915e25a]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1997/47/section/3) repealed (1.4.2013 for specified purposes) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/1); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 8(c)](https://www.legislation.gov.uk/uksi/2013/358/article/8/c), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/358/schedule/4) (with [art. 9](https://www.legislation.gov.uk/uksi/2013/358/article/9), [Sch. 5](https://www.legislation.gov.uk/uksi/2013/358/schedule/5))
 
 [^c11261361]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
 
 [^c11261371]: Marginal citation: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18).
 
-[^key-3acb52c1fc35c8dcc7a0bd19baa1b2f1]: Textual amendment: [S. 4(1)](https://www.legislation.gov.uk/ukpga/1997/47/section/4/1) repealed (1.4.2013 for specified purposes) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/1); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 8(c)](https://www.legislation.gov.uk/uksi/2013/358/article/8/c), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/358/schedule/4) (with [art. 9](https://www.legislation.gov.uk/uksi/2013/358/article/9), [Sch. 5](https://www.legislation.gov.uk/uksi/2013/358/schedule/5))
+[^c-3acb52c1fc35c8dcc7a0bd19baa1b2f1]: Textual amendment: [S. 4(1)](https://www.legislation.gov.uk/ukpga/1997/47/section/4/1) repealed (1.4.2013 for specified purposes) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/1); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 8(c)](https://www.legislation.gov.uk/uksi/2013/358/article/8/c), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/358/schedule/4) (with [art. 9](https://www.legislation.gov.uk/uksi/2013/358/article/9), [Sch. 5](https://www.legislation.gov.uk/uksi/2013/358/schedule/5))
 
 [^c11261381]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
 
 [^c11261391]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
 
-[^key-08c814a8d638812e359288dcf63bcb0a]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1997/47/section/5) repealed (1.4.2013 for specified purposes) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/1); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 8(c)](https://www.legislation.gov.uk/uksi/2013/358/article/8/c), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/358/schedule/4) (with [art. 9](https://www.legislation.gov.uk/uksi/2013/358/article/9), [Sch. 5](https://www.legislation.gov.uk/uksi/2013/358/schedule/5))
+[^c-08c814a8d638812e359288dcf63bcb0a]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1997/47/section/5) repealed (1.4.2013 for specified purposes) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/1); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 8(c)](https://www.legislation.gov.uk/uksi/2013/358/article/8/c), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/358/schedule/4) (with [art. 9](https://www.legislation.gov.uk/uksi/2013/358/article/9), [Sch. 5](https://www.legislation.gov.uk/uksi/2013/358/schedule/5))
 
 [^c11261401]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
 
@@ -1088,7 +1088,7 @@ Section 22.
 
 [^c11261431]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
 
-[^key-5bc42b9b3c268e73df6544db553d7b9a]: Textual amendment: [Ss. 8-10](https://www.legislation.gov.uk/ukpga/1997/47/section/8) repealed (1.4.2013 for specified purposes) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/1); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 8(c)](https://www.legislation.gov.uk/uksi/2013/358/article/8/c), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/358/schedule/4) (with [art. 9](https://www.legislation.gov.uk/uksi/2013/358/article/9), [Sch. 5](https://www.legislation.gov.uk/uksi/2013/358/schedule/5))
+[^c-5bc42b9b3c268e73df6544db553d7b9a]: Textual amendment: [Ss. 8-10](https://www.legislation.gov.uk/ukpga/1997/47/section/8) repealed (1.4.2013 for specified purposes) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/1); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 8(c)](https://www.legislation.gov.uk/uksi/2013/358/article/8/c), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/358/schedule/4) (with [art. 9](https://www.legislation.gov.uk/uksi/2013/358/article/9), [Sch. 5](https://www.legislation.gov.uk/uksi/2013/358/schedule/5))
 
 [^c11261441]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
 
@@ -1200,13 +1200,13 @@ Section 22.
 
 [^c11261961]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/1997/47/schedule/1/paragraph/2) repealed (29.11.1999) by [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14), [s. 86(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/86/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/1998/14/schedule/8); [S.I. 1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/3178/article/2/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/3178/schedule/1) (subject to transitional provisions in [Schs. 21-23](https://www.legislation.gov.uk/uksi/1999/3178/schedule/21))
 
-[^key-66beeeb9f4ad3295fa34fa7143b0737b]: Textual amendment: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/1997/47/schedule/1/paragraph/3) repealed (1.4.2013 for specified purposes) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/1); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 8(c)](https://www.legislation.gov.uk/uksi/2013/358/article/8/c), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/358/schedule/4) (with [art. 9](https://www.legislation.gov.uk/uksi/2013/358/article/9), [Sch. 5](https://www.legislation.gov.uk/uksi/2013/358/schedule/5))
+[^c-66beeeb9f4ad3295fa34fa7143b0737b]: Textual amendment: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/1997/47/schedule/1/paragraph/3) repealed (1.4.2013 for specified purposes) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/1); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 8(c)](https://www.legislation.gov.uk/uksi/2013/358/article/8/c), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/358/schedule/4) (with [art. 9](https://www.legislation.gov.uk/uksi/2013/358/article/9), [Sch. 5](https://www.legislation.gov.uk/uksi/2013/358/schedule/5))
 
 [^c11261981]: Textual amendment: [Sch. 1 para. 4(4)](https://www.legislation.gov.uk/ukpga/1997/47/schedule/1/paragraph/4/4) repealed (2.4.2001) by [2000 c. 19](https://www.legislation.gov.uk/ukpga/2000/19), [s. 85](https://www.legislation.gov.uk/ukpga/2000/19/section/85), [Sch. 9 Pt. VI](https://www.legislation.gov.uk/ukpga/2000/19/schedule/9/part/VI) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2001/1252](https://www.legislation.gov.uk/uksi/2001/1252), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2001/1252/article/2/1/e)
 
-[^key-c2158f7aafae042c6e5bb9503db1d5da]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/1997/47/schedule/1/paragraph/7) repealed (1.4.2013 for specified purposes) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/1); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 8(c)](https://www.legislation.gov.uk/uksi/2013/358/article/8/c), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/358/schedule/4) (with [art. 9](https://www.legislation.gov.uk/uksi/2013/358/article/9), [Sch. 5](https://www.legislation.gov.uk/uksi/2013/358/schedule/5))
+[^c-c2158f7aafae042c6e5bb9503db1d5da]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/1997/47/schedule/1/paragraph/7) repealed (1.4.2013 for specified purposes) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/1); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 8(c)](https://www.legislation.gov.uk/uksi/2013/358/article/8/c), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/358/schedule/4) (with [art. 9](https://www.legislation.gov.uk/uksi/2013/358/article/9), [Sch. 5](https://www.legislation.gov.uk/uksi/2013/358/schedule/5))
 
-[^key-8ca5b3490956a5e7ce0897008d3c2ad0]: Textual amendment: Sch. 1 para. 7(3)(4) repealed (18.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 2(h)(ii)](https://www.legislation.gov.uk/uksi/2003/2938/article/2/h/ii) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-8ca5b3490956a5e7ce0897008d3c2ad0]: Textual amendment: Sch. 1 para. 7(3)(4) repealed (18.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 2(h)(ii)](https://www.legislation.gov.uk/uksi/2003/2938/article/2/h/ii) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
 
 [^c11261991]: Textual amendment: [Sch. 1 para. 12(3)](https://www.legislation.gov.uk/ukpga/1997/47/schedule/1/paragraph/12/3) repealed (9.9.2002) by [2002 c. 22](https://www.legislation.gov.uk/ukpga/2002/22), [s. 54](https://www.legislation.gov.uk/ukpga/2002/22/section/54), [Sch. 8](https://www.legislation.gov.uk/ukpga/2002/22/schedule/8) Pt. (1); [S.I. 2002/2256](https://www.legislation.gov.uk/uksi/2002/2256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2002/2256/article/2/c), [Sch.](https://www.legislation.gov.uk/uksi/2002/2256/schedule)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. The effect of the dumped goods or subsidised imports on prices[^key-e213fd469d49f404670b51d1974667b1]
+## 32. The effect of the dumped goods or subsidised imports on prices[^c-e213fd469d49f404670b51d1974667b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In considering, for the purpose of regulation 30(2)(b), the effect of the dumped
 
 ## Annotations
 
-[^key-e213fd469d49f404670b51d1974667b1]: Commencement: Reg. 32 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-e213fd469d49f404670b51d1974667b1]: Commencement: Reg. 32 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

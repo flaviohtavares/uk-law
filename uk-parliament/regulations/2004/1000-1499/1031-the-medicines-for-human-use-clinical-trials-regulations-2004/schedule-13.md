@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 13 — Transitional provisions relating to EU Exit[^key-7fcf10dbe5334c65b49c76d23d769ddb]
+## SCHEDULE 13 — Transitional provisions relating to EU Exit[^c-7fcf10dbe5334c65b49c76d23d769ddb]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ Regulation 56
 
 ## Annotations
 
-[^key-7fcf10dbe5334c65b49c76d23d769ddb]: Textual amendment: [Sch. 13](https://www.legislation.gov.uk/uksi/2004/1031/schedule/13) inserted (31.12.2020) by [The Medicines for Human Use (Clinical Trials) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/744)](https://www.legislation.gov.uk/uksi/2019/744), [regs. 1](https://www.legislation.gov.uk/uksi/2019/744/regulation/1), [26](https://www.legislation.gov.uk/uksi/2019/744/regulation/26) (as amended by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2020/1488/schedule/1/paragraph/10/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7fcf10dbe5334c65b49c76d23d769ddb]: Textual amendment: [Sch. 13](https://www.legislation.gov.uk/uksi/2004/1031/schedule/13) inserted (31.12.2020) by [The Medicines for Human Use (Clinical Trials) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/744)](https://www.legislation.gov.uk/uksi/2019/744), [regs. 1](https://www.legislation.gov.uk/uksi/2019/744/regulation/1), [26](https://www.legislation.gov.uk/uksi/2019/744/regulation/26) (as amended by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2020/1488/schedule/1/paragraph/10/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

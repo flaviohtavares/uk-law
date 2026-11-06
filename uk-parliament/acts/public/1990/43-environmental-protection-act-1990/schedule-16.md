@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-### Part I — Enactments Relating to Processes[^c13754311][^key-6f0321d3d84c4dc9fdd2382e604c233a]
+### Part I — Enactments Relating to Processes[^c13754311][^c-6f0321d3d84c4dc9fdd2382e604c233a]
 
 | Chapter | Short title | Extent of repeal |
 | --- | --- | --- |
@@ -32,7 +32,7 @@ summary: ''
 | 1968 c. 62. | Clean Air Act 1968. | Section 11. |
 | 1972 c. 70. | Local Government Act 1972. | In section 180(3), paragraph (b). |
 | 1973 c. 65. | Local Government (Scotland) Act 1973. | In section 142(2), paragraph (b). |
-| 1974 c. 37. *(Extent: S)* *(affected by repeal, see note)*[^key-a50e7262c283421757ace5c93a2e3cf3] | Health and Safety at Work *(Extent: S)* *(affected by repeal, see note)*[^key-a50e7262c283421757ace5c93a2e3cf3] etc. *(Extent: S)* *(affected by repeal, see note)*[^key-a50e7262c283421757ace5c93a2e3cf3] Act 1974. *(Extent: S)* *(affected by repeal, see note)*[^key-a50e7262c283421757ace5c93a2e3cf3] | Section 1(1)(d) and the word “and” preceding it. *(Extent: S)* *(affected by repeal, see note)*[^key-a50e7262c283421757ace5c93a2e3cf3] |
+| 1974 c. 37. *(Extent: S)* *(affected by repeal, see note)*[^c-a50e7262c283421757ace5c93a2e3cf3] | Health and Safety at Work *(Extent: S)* *(affected by repeal, see note)*[^c-a50e7262c283421757ace5c93a2e3cf3] etc. *(Extent: S)* *(affected by repeal, see note)*[^c-a50e7262c283421757ace5c93a2e3cf3] Act 1974. *(Extent: S)* *(affected by repeal, see note)*[^c-a50e7262c283421757ace5c93a2e3cf3] | Section 1(1)(d) and the word “and” preceding it. *(Extent: S)* *(affected by repeal, see note)*[^c-a50e7262c283421757ace5c93a2e3cf3] |
 |  |  | Section 5. |
 | 1974 c. 40. | Control of Pollution Act 1974. | In section 76(4), the words “or work subject to the Alkali Act”. |
 |  |  | In section 78(1), the words “or work subject to the Alkali Act”. |
@@ -45,7 +45,7 @@ summary: ''
 
 *Note:* The repeal of the Alkali, &c. Works Regulation Act 1906 does not extend to Northern Ireland.
 
-### Part II — Enactments Relating to Waste on Land[^c13754321][^key-f740cca9fcda31956ee8ad6face9a11e][^key-6bdb57ec3e7008182ad19f9b44deef74]
+### Part II — Enactments Relating to Waste on Land[^c13754321][^c-f740cca9fcda31956ee8ad6face9a11e][^c-6bdb57ec3e7008182ad19f9b44deef74]
 
 | Chapter | Short title | Extent of repeal |
 | --- | --- | --- |
@@ -177,7 +177,7 @@ summary: ''
 |  |  | In section 39(6), the words “and their undertakings statutory undertakings”.Section 39(7) and (8). |
 | 1990 c. 11. | Planning (Consequential Provisions) Act 1990. | In Schedule 2, paragraph 82(2). |
 
-### Part VIII — Enactments Relating to Deposits at Sea[^key-fa16c44b77c22efac1313e2d1b0bd1a0]
+### Part VIII — Enactments Relating to Deposits at Sea[^c-fa16c44b77c22efac1313e2d1b0bd1a0]
 
 | Chapter | Short title | Extent of repeal |
 | --- | --- | --- |
@@ -200,17 +200,17 @@ summary: ''
 
 [^c13754311]: Textual amendment: Sch. 16 Pt. I partly in force; Sch. 16 Pt. I not in force at Royal Assent see 164(3); repeal in Sch. 16 Pt. I relating to [1906 c. 14](https://www.legislation.gov.uk/ukpga/1906/14) in force for certain purposes at 1.12.1994 by [S.I. 1994/2854](https://www.legislation.gov.uk/uksi/1994/2854), [art. 2](https://www.legislation.gov.uk/uksi/1994/2854/article/2) and in force (E.W.) at 16.12.1996 insofar as not already in force by [S.I. 1996/3056](https://www.legislation.gov.uk/uksi/1996/3056), [art. 2](https://www.legislation.gov.uk/uksi/1996/3056/article/2); repeals in Sch. 16 Pt. I relating to [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37) and [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43) in force (E.W.) at 16.12.1996 by [S.I. 1996/3056](https://www.legislation.gov.uk/uksi/1996/3056), [art. 2](https://www.legislation.gov.uk/uksi/1996/3056/article/2).
 
-[^key-6f0321d3d84c4dc9fdd2382e604c233a]: Commencement: [Sch. 16 Pt. I](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/I) in force at 1.4.2015 for specified purposes for S. by [S.S.I. 2015/72](https://www.legislation.gov.uk/ssi/2015/72), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/72/article/2/1)
+[^c-6f0321d3d84c4dc9fdd2382e604c233a]: Commencement: [Sch. 16 Pt. I](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/I) in force at 1.4.2015 for specified purposes for S. by [S.S.I. 2015/72](https://www.legislation.gov.uk/ssi/2015/72), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/72/article/2/1)
 
-[^key-a50e7262c283421757ace5c93a2e3cf3]: Textual amendment: Words in Sch. 16 Pt. I repealed (S.) (26.2.2015) by [The Regulatory Reform (Scotland) Act 2014 (Consequential Modifications) Order 2015 (S.I. 2015/374)](https://www.legislation.gov.uk/uksi/2015/374), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/374/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2015/374/article/5/3)
+[^c-a50e7262c283421757ace5c93a2e3cf3]: Textual amendment: Words in Sch. 16 Pt. I repealed (S.) (26.2.2015) by [The Regulatory Reform (Scotland) Act 2014 (Consequential Modifications) Order 2015 (S.I. 2015/374)](https://www.legislation.gov.uk/uksi/2015/374), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/374/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2015/374/article/5/3)
 
 [^M_F_d5e521e8-8ed8-48b8-e6bf-afe91c928696]: Textual amendment: Words in Sch. 16 Pt. I repealed (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), s. 61(2), sch. 3 para. 23(f); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), art. 2(1)(2), sch.
 
 [^c13754321]: Commencement: Sch. 16 Pt. II partly in force; Sch. 16 Pt. II not in force at Royal Assent, see s. 164(3); Sch. 16 Pt. II in force for certain purposes at 31.5.1991 by [S.I. 1991/1319](https://www.legislation.gov.uk/uksi/1991/1319); Sch. 16 Pt. II in force for certain further purposes at 1.4.1992 by [S.I. 1991/2829](https://www.legislation.gov.uk/uksi/1991/2829) and [S.I. 1992/266](https://www.legislation.gov.uk/uksi/1992/266); Sch. 16 Pt. II in force for certain further purposes at 1.5.1994 and other ascertainable dates for limited purposes by [S.I. 1994/1096](https://www.legislation.gov.uk/uksi/1994/1096), [arts. 2(1)(2)(3)](https://www.legislation.gov.uk/uksi/1994/1096/article/2/1/2/3), [3](https://www.legislation.gov.uk/uksi/1994/1096/article/3) (as amended by [S.I. 1994/2487](https://www.legislation.gov.uk/uksi/1994/2487), [art. 2](https://www.legislation.gov.uk/uksi/1994/2487/article/2) and [S.I. 1994/3234](https://www.legislation.gov.uk/uksi/1994/3234), [art. 2](https://www.legislation.gov.uk/uksi/1994/3234/article/2))
 
-[^key-f740cca9fcda31956ee8ad6face9a11e]: Commencement: Sch. 16 Pt. 2 in force at 1.4.2012 for specified purposes by [S.I. 2012/898](https://www.legislation.gov.uk/uksi/2012/898), [art. 2](https://www.legislation.gov.uk/uksi/2012/898/article/2)
+[^c-f740cca9fcda31956ee8ad6face9a11e]: Commencement: Sch. 16 Pt. 2 in force at 1.4.2012 for specified purposes by [S.I. 2012/898](https://www.legislation.gov.uk/uksi/2012/898), [art. 2](https://www.legislation.gov.uk/uksi/2012/898/article/2)
 
-[^key-6bdb57ec3e7008182ad19f9b44deef74]: Commencement: [Sch. 16 Pt. II](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/II) in force at 1.4.2015 for specified purposes for S. by [S.S.I. 2015/72](https://www.legislation.gov.uk/ssi/2015/72), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/72/article/2/2)
+[^c-6bdb57ec3e7008182ad19f9b44deef74]: Commencement: [Sch. 16 Pt. II](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/II) in force at 1.4.2015 for specified purposes for S. by [S.S.I. 2015/72](https://www.legislation.gov.uk/ssi/2015/72), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/72/article/2/2)
 
 [^c13754331]: Commencement: [Sch. 16](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16), [Pt. IV](https://www.legislation.gov.uk/ukpga/1990/43/part/IV) in force at 1.4.1991, see [s. 164(3)](https://www.legislation.gov.uk/ukpga/1990/43/section/164/3) and [S.I. 1991/1042](https://www.legislation.gov.uk/uksi/1991/1042), [art. 2](https://www.legislation.gov.uk/uksi/1991/1042/article/2)
 
@@ -218,6 +218,6 @@ summary: ''
 
 [^c13754351]: Commencement: [Sch. 16 Pt. VII](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/VII) partly in force; [Sch. 16 Pt. VII](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/VII) not in force at Royal Assent see [s. 164(3)](https://www.legislation.gov.uk/ukpga/1990/43/section/164/3); repeals relating to the Planning (Hazardous Substance) Act 1990 in Sch. 16 Pt. VII in force at 1.1.1992 by [S.I. 1991/2829](https://www.legislation.gov.uk/uksi/1991/2829), [art. 3](https://www.legislation.gov.uk/uksi/1991/2829/article/3); repeals relating to the Town and Country Planning (Scotland) Act 1972 in Sch. 16 Pt. VII in force at 18.2.1993 by [S.I. 1993/274](https://www.legislation.gov.uk/uksi/1993/274), [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/274/article/2/1); repeal in the Housing and Planning Act 1986 in Sch. 16 Pt. VII in force at 1.5.1993 by [S.I. 1993/274](https://www.legislation.gov.uk/uksi/1993/274), [art. 3](https://www.legislation.gov.uk/uksi/1993/274/article/3)
 
-[^key-fa16c44b77c22efac1313e2d1b0bd1a0]: Commencement: [Sch. 16 Pt. VIII](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/VIII) in force at 1.4.2015 for specified purposes for S. by [S.S.I. 2015/72](https://www.legislation.gov.uk/ssi/2015/72), [art. 2(3)](https://www.legislation.gov.uk/ssi/2015/72/article/2/3)
+[^c-fa16c44b77c22efac1313e2d1b0bd1a0]: Commencement: [Sch. 16 Pt. VIII](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/VIII) in force at 1.4.2015 for specified purposes for S. by [S.S.I. 2015/72](https://www.legislation.gov.uk/ssi/2015/72), [art. 2(3)](https://www.legislation.gov.uk/ssi/2015/72/article/2/3)
 
 [^c13754361]: Commencement: [Sch. 16 Pt. IX](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/IX) wholly in force; [Sch. 16 Pt. IX](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/IX) partly in force at Royal Assent see [s. 164(2)](https://www.legislation.gov.uk/ukpga/1990/43/section/164/2); [sch. 16 Pt. IX](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/IX) partly in force at 1.4.1992 by S.I 1992/266, art. 3; repeals in Sch. 16 Pt. IX relating to the Criminal Justice Act 1982 and the Criminal Justice Act 1988 in force at 18.2.1993 by [S.I. 1993/274](https://www.legislation.gov.uk/uksi/1993/274), [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/274/article/2/1)

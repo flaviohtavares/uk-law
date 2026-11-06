@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Withdrawal of plan in absence of direction[^key-718ad6525843bdaf615e49a42b50193e]
+## 28. Withdrawal of plan in absence of direction[^c-718ad6525843bdaf615e49a42b50193e]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-718ad6525843bdaf615e49a42b50193e]: Commencement: S. 28 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-718ad6525843bdaf615e49a42b50193e]: Commencement: S. 28 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4CA. Further powers relating to subsidence and water discharge[^key-6d1fa888b52dc00d557b482dfd65f76d]
+## 4CA. Further powers relating to subsidence and water discharge[^c-6d1fa888b52dc00d557b482dfd65f76d]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d1fa888b52dc00d557b482dfd65f76d]: Textual amendment: [S. 4CA](https://www.legislation.gov.uk/ukpga/1994/21/section/4CA) inserted (26.3.2015) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 115(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/115/1), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2015/880](https://www.legislation.gov.uk/uksi/2015/880), [art. 2](https://www.legislation.gov.uk/uksi/2015/880/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/880/schedule)
+[^c-6d1fa888b52dc00d557b482dfd65f76d]: Textual amendment: [S. 4CA](https://www.legislation.gov.uk/ukpga/1994/21/section/4CA) inserted (26.3.2015) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 115(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/115/1), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2015/880](https://www.legislation.gov.uk/uksi/2015/880), [art. 2](https://www.legislation.gov.uk/uksi/2015/880/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/880/schedule)

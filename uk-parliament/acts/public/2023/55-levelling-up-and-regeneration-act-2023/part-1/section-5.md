@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Changes to mission progress methodology and metrics or target dates[^key-d3b0b1c1bee5c030ea65d8949c2ef410]
+## 5. Changes to mission progress methodology and metrics or target dates[^c-d3b0b1c1bee5c030ea65d8949c2ef410]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3b0b1c1bee5c030ea65d8949c2ef410]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/55/section/5) in force at 26.12.2023, see [s. 255(1)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/1/b)
+[^c-d3b0b1c1bee5c030ea65d8949c2ef410]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/55/section/5) in force at 26.12.2023, see [s. 255(1)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Power to direct the scheme administrator[^key-64f8ce03be40f26d8fb611c9fe1a9c77][^key-64f8ce03be40f26d8fb611c9fe1a9c77]
+## 59. Power to direct the scheme administrator[^c-64f8ce03be40f26d8fb611c9fe1a9c77][^c-64f8ce03be40f26d8fb611c9fe1a9c77]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64f8ce03be40f26d8fb611c9fe1a9c77]: Commencement: Reg. 59 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
+[^c-64f8ce03be40f26d8fb611c9fe1a9c77]: Commencement: Reg. 59 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)

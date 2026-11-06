@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 57. Application of landlord and tenant law[^key-59342a67e8a9ee7f19a9f89d4a61bfc8]
+## 57. Application of landlord and tenant law[^c-59342a67e8a9ee7f19a9f89d4a61bfc8]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59342a67e8a9ee7f19a9f89d4a61bfc8]: Commencement: Art. 57 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-59342a67e8a9ee7f19a9f89d4a61bfc8]: Commencement: Art. 57 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

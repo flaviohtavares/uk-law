@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Specified capital grants—local authorities in England[^key-e3aa52b2628429d307fe426d5b67b9e8]
+## 54. Specified capital grants—local authorities in England[^c-e3aa52b2628429d307fe426d5b67b9e8]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e3aa52b2628429d307fe426d5b67b9e8]: Commencement: Reg. 54 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-e3aa52b2628429d307fe426d5b67b9e8]: Commencement: Reg. 54 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00046]: Footnote: Part VIII of the Act, including sections 101 and 132, was repealed by section 147 of, and Part I of Schedule 3 to, the 1996 Act with savings in respect of applications for grant of the descriptions mentioned in section 101 made before the commencement of Part I of the 1996 Act (see section 102(2) of that Act).

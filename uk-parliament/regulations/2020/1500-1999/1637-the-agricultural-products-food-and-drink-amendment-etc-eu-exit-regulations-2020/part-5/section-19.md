@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Commission Implementing Regulation (EU) No 716/2013[^key-3f771af693433b11dea43ac30cbbc40d]
+## 19. Commission Implementing Regulation (EU) No 716/2013[^c-3f771af693433b11dea43ac30cbbc40d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In Commission Implementing Regulation (EU) No 716/2013 laying down rules for the
 
 ## Annotations
 
-[^key-3f771af693433b11dea43ac30cbbc40d]: Commencement: Reg. 19 in force at 31.12.2020, see reg. 1(7)
+[^c-3f771af693433b11dea43ac30cbbc40d]: Commencement: Reg. 19 in force at 31.12.2020, see reg. 1(7)
 
 [^c24414381]: Marginal citation: EUR 2013/716; prospective amendments were included in [S.I. 2019/865](https://www.legislation.gov.uk/uksi/2019/865). They would have come into force on IP completion day. They are omitted by regulation 6 of this instrument and replaced, in relation to Great Britain, on IP completion day with the amendments in regulation 19 of this instrument.

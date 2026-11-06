@@ -22,7 +22,7 @@ summary: ''
 
 (1) A person who pursuant to regulation 6(8) requests the Welsh Ministers to make a screening direction (a “person making a request”) must submit with the request—
 
-- (a) a copy of the request to the relevant planning authority or specified person[^key-853f8b809d777e1cd3d97c524e605a09] under regulation 6(1) and the documents which accompanied it;
+- (a) a copy of the request to the relevant planning authority or specified person[^c-853f8b809d777e1cd3d97c524e605a09] under regulation 6(1) and the documents which accompanied it;
 - (b) a copy of any notification received under regulation 6(5) and of any response sent;
 - (c) a copy of any screening opinion received from the authority or specified person and of any accompanying statement of reasons; and
 - (d) any representations that the person wishes to make.
@@ -50,4 +50,4 @@ in either case, from the date on which the person making the request submits the
 
 ## Annotations
 
-[^key-853f8b809d777e1cd3d97c524e605a09]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/wsi/2017/567/regulation/7) inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [12(9)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/9) (with [reg. 12(44)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/44))
+[^c-853f8b809d777e1cd3d97c524e605a09]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/wsi/2017/567/regulation/7) inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [12(9)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/9) (with [reg. 12(44)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/44))

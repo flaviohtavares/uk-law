@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Government departments[^key-27553addbf39070d67ca595d7e21cf3e]
+## 11. Government departments[^c-27553addbf39070d67ca595d7e21cf3e]
 
 *Extent: E+W+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-27553addbf39070d67ca595d7e21cf3e]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2013/2605/article/11) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-27553addbf39070d67ca595d7e21cf3e]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2013/2605/article/11) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
 
 [^f00006]: Footnote: [1947 c. 44](https://www.legislation.gov.uk/ukpga/1947/44).

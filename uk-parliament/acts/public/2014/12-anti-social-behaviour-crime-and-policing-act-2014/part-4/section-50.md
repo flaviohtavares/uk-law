@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Forfeiture of item used in commission of offence[^key-198b2ed02a9e247d0e3705b7887bf132]
+## 50. Forfeiture of item used in commission of offence[^c-198b2ed02a9e247d0e3705b7887bf132]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-198b2ed02a9e247d0e3705b7887bf132]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2014/12/section/50) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)
+[^c-198b2ed02a9e247d0e3705b7887bf132]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2014/12/section/50) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)

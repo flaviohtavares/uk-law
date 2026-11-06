@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Active membership[^key-8aba69f005458fc7267d572116ba9c0d]
+## 28. Active membership[^c-8aba69f005458fc7267d572116ba9c0d]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ A person (P) is an active member of this scheme if—
 
 ## Annotations
 
-[^key-8aba69f005458fc7267d572116ba9c0d]: Commencement: Reg. 28 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-8aba69f005458fc7267d572116ba9c0d]: Commencement: Reg. 28 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Contributions during trade dispute absence[^key-ba4f32d1305e52bc16eb9986705e5eb1]
+## 20. Contributions during trade dispute absence[^c-ba4f32d1305e52bc16eb9986705e5eb1]
 
 *Extent: E+W+S*
 
@@ -54,7 +54,7 @@ and, in determining that difference, any guarantee payments under Part 3 of the 
 
 ## Annotations
 
-[^key-ba4f32d1305e52bc16eb9986705e5eb1]: Commencement: Reg. 20 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-ba4f32d1305e52bc16eb9986705e5eb1]: Commencement: Reg. 20 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
 [^f00029]: Footnote: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18).
 

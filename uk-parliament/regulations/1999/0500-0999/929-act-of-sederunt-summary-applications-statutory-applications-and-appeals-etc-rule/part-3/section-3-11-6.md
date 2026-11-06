@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.11.6. Amendment of pleadings[^key-a6889b414c61ddfbe8a72331d4e3ecd2]
+## 3.11.6. Amendment of pleadings[^c-a6889b414c61ddfbe8a72331d4e3ecd2]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6889b414c61ddfbe8a72331d4e3ecd2]: Commencement: Rule 3.11.6 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-a6889b414c61ddfbe8a72331d4e3ecd2]: Commencement: Rule 3.11.6 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

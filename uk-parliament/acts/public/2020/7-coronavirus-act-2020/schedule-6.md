@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — Temporary registration of social workers: Scotland[^key-0b9e8d0001a1ec8518ddbd237588474b]
+## SCHEDULE 6 — Temporary registration of social workers: Scotland[^c-0b9e8d0001a1ec8518ddbd237588474b]
 
 *Extent: S*
 
@@ -24,14 +24,14 @@ summary: ''
 
 Section 7
 
-### Regulation of Care (Scotland) Act 2001[^key-0b9e8d0001a1ec8518ddbd237588474b]
+### Regulation of Care (Scotland) Act 2001[^c-0b9e8d0001a1ec8518ddbd237588474b]
 
-**1.**[^key-0b9e8d0001a1ec8518ddbd237588474b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-0b9e8d0001a1ec8518ddbd237588474b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Social workers and social service workers in care services[^key-0b9e8d0001a1ec8518ddbd237588474b]
+### Social workers and social service workers in care services[^c-0b9e8d0001a1ec8518ddbd237588474b]
 
-**2.**[^key-0b9e8d0001a1ec8518ddbd237588474b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-0b9e8d0001a1ec8518ddbd237588474b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0b9e8d0001a1ec8518ddbd237588474b]: Textual amendment: Sch. 6 expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-0b9e8d0001a1ec8518ddbd237588474b]: Textual amendment: Sch. 6 expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))

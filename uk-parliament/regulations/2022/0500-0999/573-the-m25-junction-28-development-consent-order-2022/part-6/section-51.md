@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Set off for enhancement in value of retained land[^key-3ca9b3d876183c96e9faa482d5f76ce5]
+## 51. Set off for enhancement in value of retained land[^c-3ca9b3d876183c96e9faa482d5f76ce5]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ which will accrue to that person by reason of the construction of the authorised
 
 ## Annotations
 
-[^key-3ca9b3d876183c96e9faa482d5f76ce5]: Commencement: Art. 51 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
+[^c-3ca9b3d876183c96e9faa482d5f76ce5]: Commencement: Art. 51 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)

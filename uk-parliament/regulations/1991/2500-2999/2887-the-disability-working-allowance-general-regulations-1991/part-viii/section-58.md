@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 58. Amendment of the Family Credit (General) Regulations 1987[^key-faf7dca2fecaa46d7024f3c5fb1ba3e5]
+## 58. Amendment of the Family Credit (General) Regulations 1987[^c-faf7dca2fecaa46d7024f3c5fb1ba3e5]
 
 *Extent: E+W+S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-faf7dca2fecaa46d7024f3c5fb1ba3e5]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/1991/2887/regulation/58) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
+[^c-faf7dca2fecaa46d7024f3c5fb1ba3e5]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/1991/2887/regulation/58) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
 
 [^f00077]: Footnote: [S.I. 1987/1973](https://www.legislation.gov.uk/uksi/1987/1973).

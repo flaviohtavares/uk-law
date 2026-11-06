@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 554Z8. Cases where consideration given for relevant step[^key-74da80b2f7ea0e3932fdd24e546bc6fe]
+## 554Z8. Cases where consideration given for relevant step[^c-74da80b2f7ea0e3932fdd24e546bc6fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ summary: ''
 
 - (a) the relevant step is a step within section 554C(1)(b) or (c) or (e) or 554D and does not also involve a sum of money,
 - (b) the relevant step is for consideration given by A in the form of the payment of a sum of money to P by A, ...
-- (c) the payment is made before, or at or about, the time the relevant step is taken, and[^key-9390dd4394fce9737f25999d03b827da]
+- (c) the payment is made before, or at or about, the time the relevant step is taken, and[^c-9390dd4394fce9737f25999d03b827da]
 - (d) there is no connection (direct or indirect) between the payment and a tax avoidance arrangement.
 
 (6) The value of the relevant step (after any reductions under sections 554Z4 to 554Z6) is reduced (but not below nil) by—
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)
+[^c-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)
 
-[^key-9390dd4394fce9737f25999d03b827da]: Textual amendment: S. 554Z8(5)(d) and word inserted (with effect in accordance with s. 18(9) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 18(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/18/3)
+[^c-9390dd4394fce9737f25999d03b827da]: Textual amendment: S. 554Z8(5)(d) and word inserted (with effect in accordance with s. 18(9) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 18(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/18/3)

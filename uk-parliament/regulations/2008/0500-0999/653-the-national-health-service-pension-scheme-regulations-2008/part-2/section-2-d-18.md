@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) A member may elect to allocate a part of the annual amount of the member’s pension under this Section of[^key-318de7d442bd496fcf2d3592efeab597] the Scheme for the provision of a pension after the member’s death for a single person who is the member’s spouse or civil partner or another person who is the member’s dependant within the meaning of paragraph 15 of Schedule 28 to the 2004 Act if conditions A and B are met.
+(1) A member may elect to allocate a part of the annual amount of the member’s pension under this Section of[^c-318de7d442bd496fcf2d3592efeab597] the Scheme for the provision of a pension after the member’s death for a single person who is the member’s spouse or civil partner or another person who is the member’s dependant within the meaning of paragraph 15 of Schedule 28 to the 2004 Act if conditions A and B are met.
 
 (2) Condition A is that the member has not become entitled to the payment of any pension under this Section of the Scheme other than a pension payable under regulation 2.D.5 (partial retirement: members aged at least 55).
 
@@ -52,4 +52,4 @@ for the purposes of paragraphs (5) to (7) the member is treated as entitled to t
 
 ## Annotations
 
-[^key-318de7d442bd496fcf2d3592efeab597]: Textual amendment: Words in [reg. 2.D.18](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.18) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)
+[^c-318de7d442bd496fcf2d3592efeab597]: Textual amendment: Words in [reg. 2.D.18](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.18) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)

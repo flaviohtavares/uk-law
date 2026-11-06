@@ -37,9 +37,9 @@ summary: ''
 - (a) begins with the offender’s release from custody; and
 - (b) continues after that time for such period of not less than two years as may be specified in the order.
 
-(4) A travel restriction order may contain a direction to the offender to deliver up, or cause to be delivered up, to the court any UK[^key-89ebc3358a48573e4f14b0318ff1bb0b] passport held by him; and where such a direction is given, the court shall send any passport[^key-ff01389685395ba4049c71e1e2337e3e] delivered up in pursuance of the direction to the Secretary of State at such address as the Secretary of State may determine.
+(4) A travel restriction order may contain a direction to the offender to deliver up, or cause to be delivered up, to the court any UK[^c-89ebc3358a48573e4f14b0318ff1bb0b] passport held by him; and where such a direction is given, the court shall send any passport[^c-ff01389685395ba4049c71e1e2337e3e] delivered up in pursuance of the direction to the Secretary of State at such address as the Secretary of State may determine.
 
-(5) Where the offender’s passport[^key-671cc4acd507db13cd39784756ecce90] is held by the Secretary of State by reason of the making of any direction contained in a travel restriction order, the Secretary of State (without prejudice to any other power or duty of his to retain the passport)—
+(5) Where the offender’s passport[^c-671cc4acd507db13cd39784756ecce90] is held by the Secretary of State by reason of the making of any direction contained in a travel restriction order, the Secretary of State (without prejudice to any other power or duty of his to retain the passport)—
 
 - (a) may retain it for so long as the prohibition imposed by the order applies to the offender, and is not for the time being suspended; and
 - (b) shall not return the passport after the prohibition has ceased to apply, or when it is suspended, except where the passport has not expired and an application for its return is made to him by the offender.
@@ -54,14 +54,14 @@ summary: ''
 - (a) a release on bail; nor
 - (b) a temporary release for a fixed period.
 
-(8)[^key-7d59bfe2d97ae7ff3985e02689e7a527] In this section “**UK passport**” means a United Kingdom passport within the meaning of the Immigration Act 1971 (see section 33(1)).
+(8)[^c-7d59bfe2d97ae7ff3985e02689e7a527] In this section “**UK passport**” means a United Kingdom passport within the meaning of the Immigration Act 1971 (see section 33(1)).
 
 ## Annotations
 
-[^key-89ebc3358a48573e4f14b0318ff1bb0b]: Textual amendment: Words in s. 33(4) substituted (21.1.2011) by [Identity Documents Act 2010 (c. 40)](https://www.legislation.gov.uk/ukpga/2010/40), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2010/40/section/14/2), [Sch. para. 16(2)(a)](https://www.legislation.gov.uk/ukpga/2010/40/schedule/paragraph/16/2/a)
+[^c-89ebc3358a48573e4f14b0318ff1bb0b]: Textual amendment: Words in s. 33(4) substituted (21.1.2011) by [Identity Documents Act 2010 (c. 40)](https://www.legislation.gov.uk/ukpga/2010/40), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2010/40/section/14/2), [Sch. para. 16(2)(a)](https://www.legislation.gov.uk/ukpga/2010/40/schedule/paragraph/16/2/a)
 
-[^key-ff01389685395ba4049c71e1e2337e3e]: Textual amendment: Words in s. 33(4) substituted (21.1.2011) by [Identity Documents Act 2010 (c. 40)](https://www.legislation.gov.uk/ukpga/2010/40), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2010/40/section/14/2), [Sch. para. 16(2)(b)](https://www.legislation.gov.uk/ukpga/2010/40/schedule/paragraph/16/2/b)
+[^c-ff01389685395ba4049c71e1e2337e3e]: Textual amendment: Words in s. 33(4) substituted (21.1.2011) by [Identity Documents Act 2010 (c. 40)](https://www.legislation.gov.uk/ukpga/2010/40), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2010/40/section/14/2), [Sch. para. 16(2)(b)](https://www.legislation.gov.uk/ukpga/2010/40/schedule/paragraph/16/2/b)
 
-[^key-671cc4acd507db13cd39784756ecce90]: Textual amendment: Word in s. 33(5) substituted (21.1.2011) by [Identity Documents Act 2010 (c. 40)](https://www.legislation.gov.uk/ukpga/2010/40), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2010/40/section/14/2), [Sch. para. 16(3)](https://www.legislation.gov.uk/ukpga/2010/40/schedule/paragraph/16/3)
+[^c-671cc4acd507db13cd39784756ecce90]: Textual amendment: Word in s. 33(5) substituted (21.1.2011) by [Identity Documents Act 2010 (c. 40)](https://www.legislation.gov.uk/ukpga/2010/40), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2010/40/section/14/2), [Sch. para. 16(3)](https://www.legislation.gov.uk/ukpga/2010/40/schedule/paragraph/16/3)
 
-[^key-7d59bfe2d97ae7ff3985e02689e7a527]: Textual amendment: S. 33(8) substituted (21.1.2011) by [Identity Documents Act 2010 (c. 40)](https://www.legislation.gov.uk/ukpga/2010/40), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2010/40/section/14/2), [Sch. para. 16(4)](https://www.legislation.gov.uk/ukpga/2010/40/schedule/paragraph/16/4)
+[^c-7d59bfe2d97ae7ff3985e02689e7a527]: Textual amendment: S. 33(8) substituted (21.1.2011) by [Identity Documents Act 2010 (c. 40)](https://www.legislation.gov.uk/ukpga/2010/40), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2010/40/section/14/2), [Sch. para. 16(4)](https://www.legislation.gov.uk/ukpga/2010/40/schedule/paragraph/16/4)

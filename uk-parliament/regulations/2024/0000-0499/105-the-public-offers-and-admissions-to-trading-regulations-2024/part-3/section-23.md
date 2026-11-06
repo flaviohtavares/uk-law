@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. General requirements to be met by a prospectus or MTF admission prospectus[^key-1fd13d94e78bbabc128b2e9e224859f4]
+## 23. General requirements to be met by a prospectus or MTF admission prospectus[^c-1fd13d94e78bbabc128b2e9e224859f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1fd13d94e78bbabc128b2e9e224859f4]: Commencement: Reg. 23 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-1fd13d94e78bbabc128b2e9e224859f4]: Commencement: Reg. 23 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)

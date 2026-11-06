@@ -45,11 +45,11 @@ Coming into force
 
 The Lord Chancellor, being a Minister designated[^f00001] for the purpose of section 2(2) of the European Communities Act 1972[^f00002] in relation to a direct right of action against the insurer of the person responsible by any person claiming compensation in respect of loss or injury caused by a motor vehicle or trailer, in exercise of the powers conferred by that section, makes the following Regulations:
 
-## 1. Citation and commencement[^key-de40e46cfdbe1b8af1f2310d69f474dc]
+## 1. Citation and commencement[^c-de40e46cfdbe1b8af1f2310d69f474dc]
 
 These Regulations may be cited as the European Communities (Rights against Insurers) Regulations 2002 and shall come into force on 19th January 2003.
 
-## 2. Interpretation[^key-d67bf4b40724429c703cba5c4be77bb6]
+## 2. Interpretation[^c-d67bf4b40724429c703cba5c4be77bb6]
 
 (1) In these Regulations—
 
@@ -57,7 +57,7 @@ These Regulations may be cited as the European Communities (Rights against Insur
 - “the 1988 Act” means the Road Traffic Act 1988[^f00004];
 - “accident” means an accident on a road or other public place in the United Kingdom caused by, or arising out of, the use of any insured vehicle;
 - “entitled party” means any person who is—
-  - (a) a resident of a Member State, the United Kingdom or Gibraltar[^key-fd051ae4aeb455bb048c2208acae03c9]; or
+  - (a) a resident of a Member State, the United Kingdom or Gibraltar[^c-fd051ae4aeb455bb048c2208acae03c9]; or
   - (b) a resident of any other State which is a Contracting Party to the Agreement on the European Economic Area signed at Oporto on 2nd May 1992[^f00005] and the Protocol adjusting the Agreement signed at Brussels on 17th March 1993;
 - “insured person” means a person insured under a policy of insurance satisfying the conditions set out in paragraph (3) of this regulation;
 - “vehicle” means any motor vehicle intended for travel on land and propelled by mechanical power, but not running on rails, and any trailer whether or not coupled, which is normally based (within the meaning of paragraph (2) of this regulation) in the United Kingdom.
@@ -70,7 +70,7 @@ These Regulations may be cited as the European Communities (Rights against Insur
 
 (3) For the purposes of these Regulations, a vehicle is insured if there is in force in relation to the use of that vehicle on a road or other public place in the United Kingdom by the insured person a policy of insurance (including a covering note) which fulfils the requirements of section 145 of the 1988 Act[^f00006] or article 92 of the 1981 Order[^f00007].
 
-## 3. Right of action[^key-aa357b20fa9d6a1a16fe27f9bf493648]
+## 3. Right of action[^c-aa357b20fa9d6a1a16fe27f9bf493648]
 
 (1) Paragraph (2) of this regulation applies where an entitled party has a cause of action against an insured person in tort or (as the case may be) delict, and that cause of action arises out of an accident.
 
@@ -100,15 +100,15 @@ As these Regulations give effect, in part, to the Fourth Motor Insurance Directi
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). By virtue of the amendment of section 1(2) of the European Communities Act 1972 by section 1 of the European Economic Area Act [1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51) regulations may be made under section 2(2) of the European Communities Act 1972 to implement obligations of the United Kingdom created or arising by or under the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 (Cm 2073) and the Protocol adjusting the Agreement signed at Brussels on 17th March 1993 (Cm 2183).
 
-[^key-de40e46cfdbe1b8af1f2310d69f474dc]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2002/3061/regulation/1) in force at 19.1.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/3061/regulation/1)
+[^c-de40e46cfdbe1b8af1f2310d69f474dc]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2002/3061/regulation/1) in force at 19.1.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/3061/regulation/1)
 
-[^key-d67bf4b40724429c703cba5c4be77bb6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2002/3061/regulation/2) in force at 19.1.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/3061/regulation/1)
+[^c-d67bf4b40724429c703cba5c4be77bb6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2002/3061/regulation/2) in force at 19.1.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/3061/regulation/1)
 
 [^f00003]: Footnote: S.I. [1981/154 (NI 1)](https://www.legislation.gov.uk/nisi/1981/154).
 
 [^f00004]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
 
-[^key-fd051ae4aeb455bb048c2208acae03c9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2002/3061/regulation/2/1) inserted (31.12.2020) by [The Motor Vehicles (Compulsory Insurance and Rights Against Insurers) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/945)](https://www.legislation.gov.uk/uksi/2020/945), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/945/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2020/945/regulation/3)
+[^c-fd051ae4aeb455bb048c2208acae03c9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2002/3061/regulation/2/1) inserted (31.12.2020) by [The Motor Vehicles (Compulsory Insurance and Rights Against Insurers) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/945)](https://www.legislation.gov.uk/uksi/2020/945), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/945/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2020/945/regulation/3)
 
 [^f00005]: Footnote: Directive [2000/26/EC](https://www.legislation.gov.uk/european/directive/2000/0026) was added to Annex IX of the European Economic Area Agreement by Decision No. 4/2001 of the European Economic Area Joint Committee which came into force on 1st September 2001 (OJ No. L66, 8/3/2001, p. 46).
 
@@ -116,4 +116,4 @@ As these Regulations give effect, in part, to the Fourth Motor Insurance Directi
 
 [^f00007]: Footnote: Article 92, the relevant amending instruments are [SR 1989/84](https://www.legislation.gov.uk/nisr/1989/84), [1993/57](https://www.legislation.gov.uk/nisr/1939/57) and [2000/331](https://www.legislation.gov.uk/nisr/2000/331)
 
-[^key-aa357b20fa9d6a1a16fe27f9bf493648]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2002/3061/regulation/3) in force at 19.1.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/3061/regulation/1)
+[^c-aa357b20fa9d6a1a16fe27f9bf493648]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2002/3061/regulation/3) in force at 19.1.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/3061/regulation/1)

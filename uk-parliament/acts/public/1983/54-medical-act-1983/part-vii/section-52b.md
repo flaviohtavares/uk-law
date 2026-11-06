@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52B. Annual reports of the MPTS[^key-22ac150a3adbdf8de6f23ba6c15305de]
+## 52B. Annual reports of the MPTS[^c-22ac150a3adbdf8de6f23ba6c15305de]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22ac150a3adbdf8de6f23ba6c15305de]: Textual amendment: [S. 52B](https://www.legislation.gov.uk/ukpga/1983/54/section/52B) inserted (31.12.2015) by [The General Medical Council (Fitness to Practise and Over-arching Objective) and the Professional Standards Authority for Health and Social Care (References to Court) Order 2015 (S.I. 2015/794)](https://www.legislation.gov.uk/uksi/2015/794), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3), [20](https://www.legislation.gov.uk/uksi/2015/794/article/20); [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(l)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/l)
+[^c-22ac150a3adbdf8de6f23ba6c15305de]: Textual amendment: [S. 52B](https://www.legislation.gov.uk/ukpga/1983/54/section/52B) inserted (31.12.2015) by [The General Medical Council (Fitness to Practise and Over-arching Objective) and the Professional Standards Authority for Health and Social Care (References to Court) Order 2015 (S.I. 2015/794)](https://www.legislation.gov.uk/uksi/2015/794), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3), [20](https://www.legislation.gov.uk/uksi/2015/794/article/20); [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(l)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/l)

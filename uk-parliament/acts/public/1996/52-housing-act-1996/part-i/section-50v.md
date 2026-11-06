@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50V (Extent: W). Appeal (Extent: W)[^key-aaa4612424a6e64b62e0bd06cc8b4aff]
+## 50V (Extent: W). Appeal (Extent: W)[^c-aaa4612424a6e64b62e0bd06cc8b4aff]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ A registered social landlord who is given a compensation notice may appeal to th
 
 ## Annotations
 
-[^key-aaa4612424a6e64b62e0bd06cc8b4aff]: Textual amendment: S. 50V inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 71](https://www.legislation.gov.uk/mwa/2011/5/section/71), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(n)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/n)
+[^c-aaa4612424a6e64b62e0bd06cc8b4aff]: Textual amendment: S. 50V inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 71](https://www.legislation.gov.uk/mwa/2011/5/section/71), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(n)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/n)

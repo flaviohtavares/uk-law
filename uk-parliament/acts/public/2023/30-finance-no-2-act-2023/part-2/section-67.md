@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Simultaneous mergers[^M_I_892195d7-6a08-4b72-a132-fbfada0bc01b][^key-889e24477c51ccbde258e174e38fa295]
+## 67. Simultaneous mergers[^M_I_892195d7-6a08-4b72-a132-fbfada0bc01b][^c-889e24477c51ccbde258e174e38fa295]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 [^M_I_892195d7-6a08-4b72-a132-fbfada0bc01b]: Commencement: S. 67 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-889e24477c51ccbde258e174e38fa295]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2023/30/section/67) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-889e24477c51ccbde258e174e38fa295]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2023/30/section/67) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

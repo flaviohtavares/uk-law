@@ -31,7 +31,7 @@ summary: ''
 
 POSTAL SERVICES
 
-The Postal Services (EC Directive) Regulations 2002 (revoked)[^key-6163df8664444e54170ea206b58b539a]
+The Postal Services (EC Directive) Regulations 2002 (revoked)[^c-6163df8664444e54170ea206b58b539a]
 
 Made
 
@@ -51,48 +51,48 @@ Remainder
 
 1st January 2003
 
-[^key-6163df8664444e54170ea206b58b539a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6163df8664444e54170ea206b58b539a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, purpose and commencement[^key-6163df8664444e54170ea206b58b539a]
+## 1. Citation, purpose and commencement[^c-6163df8664444e54170ea206b58b539a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Postal Services Act 2000[^key-6163df8664444e54170ea206b58b539a]
+## 2. Amendments to the Postal Services Act 2000[^c-6163df8664444e54170ea206b58b539a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-6163df8664444e54170ea206b58b539a]
+## 3.[^c-6163df8664444e54170ea206b58b539a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-6163df8664444e54170ea206b58b539a]
+## 4.[^c-6163df8664444e54170ea206b58b539a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-6163df8664444e54170ea206b58b539a]
+## 5.[^c-6163df8664444e54170ea206b58b539a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-6163df8664444e54170ea206b58b539a]
+## 6.[^c-6163df8664444e54170ea206b58b539a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-6163df8664444e54170ea206b58b539a]
+## 7.[^c-6163df8664444e54170ea206b58b539a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendments taking effect from 1st January 2006[^key-6163df8664444e54170ea206b58b539a]
+## 8. Amendments taking effect from 1st January 2006[^c-6163df8664444e54170ea206b58b539a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6163df8664444e54170ea206b58b539a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6163df8664444e54170ea206b58b539a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6163df8664444e54170ea206b58b539a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6163df8664444e54170ea206b58b539a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6163df8664444e54170ea206b58b539a]: Textual amendment: Regulations revoked (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2085/schedule/2)
+[^c-6163df8664444e54170ea206b58b539a]: Textual amendment: Regulations revoked (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2085/schedule/2)

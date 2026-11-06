@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 76. Enforcement of special directions[^key-eb6e2297f3b5e4c70468f360f52d92c8]
+## 76. Enforcement of special directions[^c-eb6e2297f3b5e4c70468f360f52d92c8]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb6e2297f3b5e4c70468f360f52d92c8]: Commencement: Art. 76 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-eb6e2297f3b5e4c70468f360f52d92c8]: Commencement: Art. 76 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

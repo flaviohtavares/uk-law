@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Super-majority requirement: amendments relating to procedure etc[^c22718121][^key-84491a6aa61022f033c1a6e814df5c7b]
+## 10. Super-majority requirement: amendments relating to procedure etc[^c22718121][^c-84491a6aa61022f033c1a6e814df5c7b]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 [^c22718121]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2017/4/section/10) in force for specified purposes at 31.3.2017, see [s. 71(2)(c)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/2/c)
 
-[^key-84491a6aa61022f033c1a6e814df5c7b]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2017/4/section/10) in force at 1.4.2018 in so far as not already in force by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/c)
+[^c-84491a6aa61022f033c1a6e814df5c7b]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2017/4/section/10) in force at 1.4.2018 in so far as not already in force by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/c)

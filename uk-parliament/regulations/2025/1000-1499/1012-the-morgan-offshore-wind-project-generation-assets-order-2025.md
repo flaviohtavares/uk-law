@@ -53,11 +53,11 @@ The Secretary of State, in exercise of the powers conferred by sections 114, 115
 
 ## PART 1 — Preliminary
 
-### 1. Citation and commencement[^key-d7e57f16fcce044dccf3c7a899971a80]
+### 1. Citation and commencement[^c-d7e57f16fcce044dccf3c7a899971a80]
 
 This Order may be cited as the Morgan Offshore Wind Project Generation Assets Order 2025 and comes into force on 22nd September 2025.
 
-### 2. Interpretation[^key-1d462a148eb0ed479d384d7e81201b6d]
+### 2. Interpretation[^c-1d462a148eb0ed479d384d7e81201b6d]
 
 (1) Except for Schedule 3 (deemed marine licence under the 2009 Act – Licence 1: Wind Turbine Generators and Associated Infrastructure) and Schedule 4 (deemed marine licence under the 2009 Act – Licence 2: Offshore Substation Platforms and Interconnector Cables), which are subject to the definitions in those Schedules, in this Order—
 
@@ -129,7 +129,7 @@ This Order may be cited as the Morgan Offshore Wind Project Generation Assets Or
 
 ## PART 2 — Principal Powers
 
-### 3. Development consent etc. granted by the Order[^key-0884130d4988c18c6ec3354ed292562f]
+### 3. Development consent etc. granted by the Order[^c-0884130d4988c18c6ec3354ed292562f]
 
 Subject to the provisions of this Order and to the requirements in Schedule 2 the undertaker is granted—
 
@@ -138,23 +138,23 @@ Subject to the provisions of this Order and to the requirements in Schedule 2 th
 
 to be carried out within the Order limits.
 
-### 4. Operation of generating station[^key-85b686219df85fc8a41541ead1899682]
+### 4. Operation of generating station[^c-85b686219df85fc8a41541ead1899682]
 
 (1) The undertaker is authorised to use and operate the authorised development for which development consent is granted by this Order.
 
 (2) Paragraph (1) does not relieve the undertaker of any requirement to obtain any permit or licence under any legislation that may be required from time to time to authorise the operation of the authorised development.
 
-### 5. Deemed marine licences under the 2009 Act[^key-5cfbfa3e28759a2c975ce44c66fa59bb]
+### 5. Deemed marine licences under the 2009 Act[^c-5cfbfa3e28759a2c975ce44c66fa59bb]
 
 The marine licences set out in Schedules 3 and 4 are deemed to have been granted to the undertaker under Part 4 (marine licensing) of the 2009 Act for the licensed activities specified in Part 1 of each licence and subject to the conditions specified in Part 2 of each licence.
 
-### 6. Power to maintain the authorised project[^key-8a6a8b7091695e116a3ea3d054aa87c1]
+### 6. Power to maintain the authorised project[^c-8a6a8b7091695e116a3ea3d054aa87c1]
 
 (1) Subject to paragraph (2), the undertaker may at any time maintain the authorised project, except to the extent that this Order or an agreement made under this Order provides otherwise.
 
 (2) Paragraph (1) does not relieve the undertaker of any requirement to obtain any further licence under Part 4 (marine licensing) of the 2009 Act for the licensable activities not authorised by licence 1 or licence 2.
 
-### 7. Benefit of the Order[^key-54435de3aac7d066169b6d75a8d23512]
+### 7. Benefit of the Order[^c-54435de3aac7d066169b6d75a8d23512]
 
 (1) Subject to this article, the provisions of this Order have effect solely for the benefit of the undertaker.
 
@@ -199,31 +199,31 @@ except where paragraph (6) applies, in which case the consent of the Secretary o
 
 (10) The notice specified under paragraph (8) must be signed by the undertaker and the person to whom the benefit of the powers will be transferred or granted as specified in that notice.
 
-(11) Section 72(7) and (8) of the 2009 Act do not apply to a transfer or grant of the benefit of the provisions of deemed marine licence 1 or licence 2 to another person by the undertaker pursuant to an agreement under this article, save that the MMO may amend deemed marine licence 1 or licence 2[^key-cad97d9436d53f5a86dd149418013931] to include the name of a transferee or lessee under this article.
+(11) Section 72(7) and (8) of the 2009 Act do not apply to a transfer or grant of the benefit of the provisions of deemed marine licence 1 or licence 2 to another person by the undertaker pursuant to an agreement under this article, save that the MMO may amend deemed marine licence 1 or licence 2[^c-cad97d9436d53f5a86dd149418013931] to include the name of a transferee or lessee under this article.
 
 ## PART 3 — Miscellaneous and general
 
-### 8. Abatement of works abandoned or decayed[^key-a2f77e6d9c825a1e2c3a7e19d9e9ef52]
+### 8. Abatement of works abandoned or decayed[^c-a2f77e6d9c825a1e2c3a7e19d9e9ef52]
 
 Where the scheduled works or any part of them are abandoned or allowed to fall into decay, the Secretary of State may, following consultation with the undertaker, issue a written notice requiring the undertaker at its own expense either to repair, make safe and restore one or any of the scheduled works or any relevant part of them, or to remove them or any relevant part of them, and without prejudice to any notice served under section 105(2) (requirement to prepare decommissioning programmes) of the 2004 Act[^f00009], restore the site to a safe and proper condition, to such an extent and within such limits as may be specified in the notice.
 
-### 9. Saving provisions for Trinity House[^key-445e4f3da239697a32a5f1689ceedfaa]
+### 9. Saving provisions for Trinity House[^c-445e4f3da239697a32a5f1689ceedfaa]
 
 Nothing in this Order prejudices or derogates from any of the rights, duties or privileges of Trinity House.
 
-### 10. Crown rights[^key-a8c5a679a2174da47feb52c9a5933b1f]
+### 10. Crown rights[^c-a8c5a679a2174da47feb52c9a5933b1f]
 
 (1) Nothing in this Order affects prejudicially any estate, right, power, privilege, authority or exemption of the Crown and in particular, nothing in this Order authorises the undertaker or any licensee to use, enter upon or in any manner interfere with any rights of any description belonging to His Majesty in right of the Crown and forming part of The Crown Estate without the consent in writing of the Crown Estate Commissioners.
 
 (2) A consent under paragraph (1) may be given unconditionally or subject to terms and conditions; and is deemed to have been given in writing where it is sent electronically.
 
-### 11. Certification of plans, etc.[^key-be1d8ec55f0b4986fc57723b837f671c]
+### 11. Certification of plans, etc.[^c-be1d8ec55f0b4986fc57723b837f671c]
 
 (1) The undertaker must, as soon as practicable after the making of this Order, submit to the Secretary of State copies of all documents listed in Schedule 5 for certification that they are true copies of the documents referred to in this Order.
 
 (2) A plan or document so certified is admissible in any proceedings as evidence of the contents of the document of which it is a copy.
 
-### 12. Service of notices[^key-3a4a040f2f94c66a1e2b580f3b0bf4c5]
+### 12. Service of notices[^c-3a4a040f2f94c66a1e2b580f3b0bf4c5]
 
 (1) A notice or other document required or authorised to be served for the purposes of this Order may be served—
 
@@ -274,7 +274,7 @@ Articles 3 and 4
 
 ### PART 1 — Authorised Development
 
-**1.**[^key-c4f5c3b29128e8e54952581980435b68] A nationally significant infrastructure project as defined in sections 14 (nationally significant infrastructure projects: general) and 15 (generating stations) of the 2008 Act located in the Irish Sea approximately 36 kilometres from the coast of north-west England comprising an offshore wind generating station with an electrical output capacity of over 100MW.
+**1.**[^c-c4f5c3b29128e8e54952581980435b68] A nationally significant infrastructure project as defined in sections 14 (nationally significant infrastructure projects: general) and 15 (generating stations) of the 2008 Act located in the Irish Sea approximately 36 kilometres from the coast of north-west England comprising an offshore wind generating station with an electrical output capacity of over 100MW.
 
 *Work No. 1*—
 
@@ -296,7 +296,7 @@ In connection with the scheduled works and to the extent that they do not otherw
 - (g) the use of extracted seabed material within gravity base foundations; and
 - (h) lighting.
 
-**2.**[^key-baae47ad27e83d687610629b423cef4d] The grid coordinates for the scheduled works are as shown on the order limits and grid coordinates plan and as specified below—
+**2.**[^c-baae47ad27e83d687610629b423cef4d] The grid coordinates for the scheduled works are as shown on the order limits and grid coordinates plan and as specified below—
 
 | Point ID | Latitude | Longitude |
 | --- | --- | --- |
@@ -378,7 +378,7 @@ In connection with the scheduled works and to the extent that they do not otherw
 
 ### PART 2 — Ancillary Works
 
-**3.**[^key-2ff46a4ee0b7fc060f5a94156e49f025] Works within the Order limits which fall within the scope of the work assessed by the environmental statement comprising—
+**3.**[^c-2ff46a4ee0b7fc060f5a94156e49f025] Works within the Order limits which fall within the scope of the work assessed by the environmental statement comprising—
 
 - (a) temporary landing places, moorings or other means of accommodating vessels in the construction and/or maintenance of the authorised development; and
 - (b) buoys, beacons, fenders and other navigational warning or ship impact protection works.
@@ -387,11 +387,11 @@ In connection with the scheduled works and to the extent that they do not otherw
 
 Article 3
 
-### 1. Time limits[^key-11116ad8f85aecce6faf58b8d45d16c4]
+### 1. Time limits[^c-11116ad8f85aecce6faf58b8d45d16c4]
 
 The authorised development must commence no later than the expiration of seven years beginning with the date this Order comes into force.
 
-### 2. Design parameters[^key-281e7d136b47cd165a703c666597ff64]
+### 2. Design parameters[^c-281e7d136b47cd165a703c666597ff64]
 
 (1) The wind turbine generators to be constructed as part of the authorised development must be located within the area shown on the works plan.
 
@@ -399,7 +399,7 @@ The authorised development must commence no later than the expiration of seven y
 
 (3) The authorised development must be constructed in accordance with the parameters assessed in the environmental statement and set out in Table 1.
 
-(4) The undertaker may not undertake Work No. 1 in a manner which would[^key-14fe1cc872bd1a255951e97eca31ec3b] give rise to any materially new or materially different environmental effects to those identified in the environmental statement based upon the maximum design scenarios set out in Table 3.5 of the environmental statement.
+(4) The undertaker may not undertake Work No. 1 in a manner which would[^c-14fe1cc872bd1a255951e97eca31ec3b] give rise to any materially new or materially different environmental effects to those identified in the environmental statement based upon the maximum design scenarios set out in Table 3.5 of the environmental statement.
 
 (5) References to the location of an offshore surface structure in Table 1 is a reference to the centre point of that structure.
 
@@ -441,7 +441,7 @@ The authorised development must commence no later than the expiration of seven y
   | Maximum volume of cable protection (inter-array and interconnector) (m<sup>3</sup>) | 852,600 |
   | Maximum total seabed footprint area for cable protection (inter-array and interconnector) (m<sup>2</sup>) | 548,800 |
 
-### 3. Aviation safety[^key-d83b99ec1dd685ace7f89f5745865e0d]
+### 3. Aviation safety[^c-d83b99ec1dd685ace7f89f5745865e0d]
 
 (1) The undertaker must exhibit such lights, with such shape, colour and character and at such times as are required by Air Navigation Order 2016 and/or determined necessary for aviation safety in consultation with the Defence Infrastructure Organisation Safeguarding and as directed by the Civil Aviation Authority. Lighting installed specifically to meet Ministry of Defence aviation safety requirements must remain operational for the life of the authorised development unless otherwise agreed with the Ministry of Defence.
 
@@ -450,14 +450,14 @@ The authorised development must commence no later than the expiration of seven y
 - (a) the date of the commencement of construction of the scheduled works;
 - (b) the date any wind turbine generators are brought into use;
 - (c) the maximum height of any construction equipment to be used;
-- (d) the maximum heights of any wind turbine generator, and offshore substation platform to be constructed; and[^key-87e424a2c4724034380fdc1aac376fd0]
-- (e) the latitude and longitude of each wind turbine generator, and offshore substation platform to be constructed;[^key-6926db580341def962e04a591bd4295e]
+- (d) the maximum heights of any wind turbine generator, and offshore substation platform to be constructed; and[^c-87e424a2c4724034380fdc1aac376fd0]
+- (e) the latitude and longitude of each wind turbine generator, and offshore substation platform to be constructed;[^c-6926db580341def962e04a591bd4295e]
 
-(3) The Defence Infrastructure Organisation must be notified[^key-a8b88576453e010fe73a670dd80e80dc] of any changes to the information supplied under this paragraph and of the completion of the construction of the scheduled works.
+(3) The Defence Infrastructure Organisation must be notified[^c-a8b88576453e010fe73a670dd80e80dc] of any changes to the information supplied under this paragraph and of the completion of the construction of the scheduled works.
 
 (3) The lights installed in accordance with paragraph (1) will be operated at the lowest permissible lighting intensity level.
 
-### 4. St Anne’s and Lowther Hill Primary Surveillance Radar[^key-62a28a00bfd8c0875f7b1b4c19d01461]
+### 4. St Anne’s and Lowther Hill Primary Surveillance Radar[^c-62a28a00bfd8c0875f7b1b4c19d01461]
 
 (1) No part of any wind turbine generator shall be erected as part of the authorised development until a primary radar mitigation scheme agreed in advance with the operator has been submitted to and approved in writing by the Secretary of State in order to avoid the impact of the development on the primary radar of the operator located at St Anne’s and Lowther Hill Primary Surveillance Radar and associated air traffic management operations.
 
@@ -468,7 +468,7 @@ The authorised development must commence no later than the expiration of seven y
 - (a) “**operator**” means NATS (En Route) plc, incorporated under the Companies Act (4129273) whose registered office is 4000 Parkway, Whiteley, Fareham, Hants PO15 7FL or such other organisation licensed from time to time under sections 5 and 6 of the Transport Act 2000 to provide air traffic services to the relevant managed area (within the meaning of section 40 of that Act); and
 - (b) “primary radar mitigation scheme” or “**scheme**” means a detailed scheme agreed with the operator which sets out the measures to be taken to avoid at all times the impact of the development on the St Anne’s and Lowther Hill Primary Surveillance Radar and air traffic management operations of the operator.
 
-### 5. Operation of Warton Aerodrome (Air traffic services)[^key-84913a55efeb17f043c17642daadc50b]
+### 5. Operation of Warton Aerodrome (Air traffic services)[^c-84913a55efeb17f043c17642daadc50b]
 
 (1) No part of any wind turbine generator shall be erected as part of the authorised development until—
 
@@ -481,7 +481,7 @@ The authorised development must commence no later than the expiration of seven y
 
 (3) The undertaker shall be solely responsible for the costs of—
 
-- (a) implementing the approved ATS mitigation scheme prior to the erection of any part of any wind turbine generator [^key-c4f95d6b9b6b7cbf1a0424c1db77d715]... forming part of the authorised development;
+- (a) implementing the approved ATS mitigation scheme prior to the erection of any part of any wind turbine generator [^c-c4f95d6b9b6b7cbf1a0424c1db77d715]... forming part of the authorised development;
 - (b) thereafter maintaining, repairing and replacing, including without limitation resolving any failure (howsoever caused) of the approved ATS mitigation scheme throughout the lifetime of the authorised development (including the period during which the authorised development is being decommissioned in accordance with the decommissioning programme approved pursuant to requirement 10); and
 - (c) in the event of any amendment being made to the authorised development which gives rise to adverse impacts on the operation of Warton Aerodrome which are new or different to those identified by the environmental statement, working with the CAA and the operator in good faith to agree any additional mitigation measures required to prevent or remove such adverse impacts throughout the lifetime of the authorised development (including the period during which the authorised development is being decommissioned in accordance with the decommissioning programme approved pursuant to requirement 10), together with the costs of implementing and maintaining on an ongoing basis those additional mitigation measures.
 
@@ -492,17 +492,17 @@ The authorised development must commence no later than the expiration of seven y
   - (a) the Aerodrome’s ability to provide and deliver on an uninterrupted basis—
     - (i) national sovereign defence capabilities;
     - (ii) safe airport operational and air traffic services that are fit for purpose for both civil and military aircraft operations; and
-    - (iii) any other operational requirements which are identified by the operator; and[^key-036cc9980c636727094bb774cfb8b340]
+    - (iii) any other operational requirements which are identified by the operator; and[^c-036cc9980c636727094bb774cfb8b340]
   - (b) the Aerodrome’s IFP, MSA, DF, VHF and UHF communication systems;
 - “**CAA**” means the Civil Aviation Authority constituted by the Civil Aviation Act 1982;
 - “**DF**” means direction finding;
 - “**IFP**” means instrument flight procedures;
 - “**MSA**” means minimum sector altitude;
-- “**operator**” means BAE Systems (Operations) Limited (incorporated in England and Wales with company number 01996687, whose registered office is at Victory Point, Lyon Way, Frimley, Camberley, Surrey, GU16 7EX) or such other organisation as is licensed from time to time under sections 5 and 6 of the Transport Act 2000 to provide air traffic services at Warton Aerodrome or any [^key-9dae4a2e28cd5163f86e30a26731ef33]... organisation employed by BAE Systems (Operations) Limited to provide an air traffic service at Warton Aerodrome;
+- “**operator**” means BAE Systems (Operations) Limited (incorporated in England and Wales with company number 01996687, whose registered office is at Victory Point, Lyon Way, Frimley, Camberley, Surrey, GU16 7EX) or such other organisation as is licensed from time to time under sections 5 and 6 of the Transport Act 2000 to provide air traffic services at Warton Aerodrome or any [^c-9dae4a2e28cd5163f86e30a26731ef33]... organisation employed by BAE Systems (Operations) Limited to provide an air traffic service at Warton Aerodrome;
 - “**UHF**” means ultra high frequency; and
 - “**VHF**” means very high frequency.
 
-### 6. Warton Aerodrome Primary Surveillance Rader[^key-d93696a1b3bede5c89dc1d5ed8c67be8]
+### 6. Warton Aerodrome Primary Surveillance Rader[^c-d93696a1b3bede5c89dc1d5ed8c67be8]
 
 (1) No part of any wind turbine generator shall be erected as part of the authorised development until a radar mitigation scheme has been submitted to and approved in writing by the Secretary of State, in consultation with the Ministry of Defence and the operator.
 
@@ -510,7 +510,7 @@ The authorised development must commence no later than the expiration of seven y
 
 - (a) the proposed mitigation solution has been subject to technical and operational assessment and, in particular, has undergone ‘in-situ’ testing in line with the requirements of (and for the time period(s) specified in) the approved radar mitigation scheme;
 - (b) the performance criteria required to be met by the proposed mitigation solution, as specified in the approved radar mitigation scheme, have been met; and
-- (c) the approved radar mitigation scheme has been implemented by the operator (the costs of which shall be the sole responsibility of the undertaker in accordance with sub-paragraph (4)[^key-af306ffb1c86a810671a4ea3c050479b](a)).
+- (c) the approved radar mitigation scheme has been implemented by the operator (the costs of which shall be the sole responsibility of the undertaker in accordance with sub-paragraph (4)[^c-af306ffb1c86a810671a4ea3c050479b](a)).
 
 (3) The approved radar mitigation scheme must remain in place and be complied with for so long as any of the wind turbine generators erected as part of the authorised development are operational and provided that the PSR remains an operational requirement of the Ministry of Defence or the operator (or both).
 
@@ -524,12 +524,12 @@ The authorised development must commence no later than the expiration of seven y
 
 - “**approved radar mitigation scheme**” means the radar mitigation scheme as approved by the Secretary of State in accordance with sub-paragraph (1);
 - “**Ministry of Defence**” means the Ministry of Defence as represented by Defence Infrastructure Organisation – DIO Safeguarding, DIO Head Office, St George’s House, DMS Whittington, Litchfield, Staffordshire, WS14 9PY or any successor body;
-- “**operator**” means BAE Systems (Operations) Limited (incorporated in England and Wales with company number[^key-974ea9e62720e11c8c14ac15bac45607] 01996687 whose registered office is Victory Point, Lyon Way, Frimley, Camberley, Surrey, GU16 7EX) or such other organisation as is licensed from time to time under sections 5 and 6 of the Transport Act 2000 to provide air traffic services for Warton Aerodrome or any [^key-3683c32d1bd81ca40f52b1afccd95414]... organisation employed by BAE Systems (Operations) Limited to provide an air traffic service at Warton Aerodrome;
+- “**operator**” means BAE Systems (Operations) Limited (incorporated in England and Wales with company number[^c-974ea9e62720e11c8c14ac15bac45607] 01996687 whose registered office is Victory Point, Lyon Way, Frimley, Camberley, Surrey, GU16 7EX) or such other organisation as is licensed from time to time under sections 5 and 6 of the Transport Act 2000 to provide air traffic services for Warton Aerodrome or any [^c-3683c32d1bd81ca40f52b1afccd95414]... organisation employed by BAE Systems (Operations) Limited to provide an air traffic service at Warton Aerodrome;
 - “**PSR**” means the primary surveillance radar at Warton Aerodrome or any upgrade thereto or replacement thereof;
 - “**PSR air traffic control operations**” means the air traffic control operations, including both civil and military aircraft operations, of the Ministry of Defence or the operator (or both) which are reliant upon the PSR; and
 - “**radar mitigation scheme**” means a scheme designed to prevent or remove any adverse impacts arising from the authorised development upon the operation of the PSR or the PSR air traffic control operations.
 
-### 7. Operation of Walney Aerodrome (Air traffic services)[^key-c4913dbf969ead8665cbe8182374fd15]
+### 7. Operation of Walney Aerodrome (Air traffic services)[^c-c4913dbf969ead8665cbe8182374fd15]
 
 (1) No part of any wind turbine generator shall be erected as part of the authorised development until—
 
@@ -538,11 +538,11 @@ The authorised development must commence no later than the expiration of seven y
   - (i) approved in writing an ATS mitigation scheme; and
   - (ii) confirmed in writing that he is satisfied that the approved ATS mitigation scheme has been implemented by the operator (the costs of which shall be the sole responsibility of the undertaker in accordance with sub-paragraph (3)(a)).
 
-(2) The approved ATS mitigation scheme[^key-4f558c8da7ba66e8dd0599030b76dbe9] must remain in place and be complied with for the lifetime of the authorised development (including the period during which the authorised development is being decommissioned in accordance with the decommissioning programme approved pursuant to requirement 10).
+(2) The approved ATS mitigation scheme[^c-4f558c8da7ba66e8dd0599030b76dbe9] must remain in place and be complied with for the lifetime of the authorised development (including the period during which the authorised development is being decommissioned in accordance with the decommissioning programme approved pursuant to requirement 10).
 
 (3) The undertaker shall be solely responsible for the costs of—
 
-- (a) implementing the approved ATS mitigation scheme prior to the erection of any part of any wind turbine generator [^key-945153b3677e91b9cc01a85db63c36c6]... forming part of the authorised development;
+- (a) implementing the approved ATS mitigation scheme prior to the erection of any part of any wind turbine generator [^c-945153b3677e91b9cc01a85db63c36c6]... forming part of the authorised development;
 - (b) thereafter maintaining, repairing and replacing, including without limitation resolving any failure (howsoever caused) of the approved ATS mitigation scheme throughout the lifetime of the authorised development (including the period during which the authorised development is being decommissioned in accordance with the decommissioning programme approved pursuant to requirement 10); and
 - (c) in the event of any amendment being made to the authorised development which gives rise to adverse impacts on the operation of Walney Aerodrome which are new or different to those identified by the environmental statement, working with the CAA and the operator in good faith to agree any additional mitigation measures required to prevent or remove such adverse impacts throughout the lifetime of the authorised development (including the period during which the authorised development is being decommissioned in accordance with the decommissioning programme approved pursuant to requirement 10), together with the costs of implementing and maintaining on an ongoing basis those additional mitigation measures.
 
@@ -554,14 +554,14 @@ The authorised development must commence no later than the expiration of seven y
     - (i) national sovereign defence capabilities;
     - (ii) safe airport operational and air traffic services that are fit for purpose for both civil and military aircraft operations; and
     - (iii) any other operational requirements which are identified by the operator; and
-  - (b) the Aerodrome’s IFP, MSA and VHF communication systems, [^key-edb3d6a7f272a9b7fe3f24f5d43abbf3]...;
+  - (b) the Aerodrome’s IFP, MSA and VHF communication systems, [^c-edb3d6a7f272a9b7fe3f24f5d43abbf3]...;
 - “**CAA**” means the Civil Aviation Authority constituted by the Civil Aviation Act 1982;
 - “**IFP**” means instrument flight procedures;
 - “**MSA**” means minimum sector altitude;
 - “**operator**” means BAE Systems Marine Limited (incorporated in England and Wales with company number 00229770, whose registered office is at Victory Point, Lyon Way, Frimley, Camberley, Surrey GU16 7EX) or such other organisation as is licensed from time to time under sections 5 and 6 of the Transport Act 2000 to provide air traffic services at Walney Aerodrome or any organisation employed by BAE Systems Marine Limited to provide an air traffic service at Walney Aerodrome; and
 - “**VHF**” means very high frequency.
 
-### 8. Air traffic services at Isle of Man Airport[^key-c84da79b4fbbc10762afa1daf476609b]
+### 8. Air traffic services at Isle of Man Airport[^c-c84da79b4fbbc10762afa1daf476609b]
 
 (1) No part of any wind turbine generator shall be erected as part of the authorised development until the Secretary of State, having consulted with the operator and the Isle of Man Civil Aviation Administration, confirms in writing that either—
 
@@ -575,14 +575,14 @@ The authorised development must commence no later than the expiration of seven y
 - “**appropriate mitigation scheme**” means a scheme agreed with the operator which sets out measures taken to prevent or remove any adverse impacts of the authorised development on the Isle of Man Primary Surveillance Radar and air traffic management operations and the operator’s ability to provide safe and efficient air traffic services for Isle of Man Airport during the life of the authorised development; and
 - “**operator**” means Isle of Man Airport or such other organisation as is licensed from time to time to provide air traffic services for Isle of Man Airport.
 
-### 9. Operation of Blackpool Airport[^key-79ebbdfabe0b0752ff567e195837d0fa]
+### 9. Operation of Blackpool Airport[^c-79ebbdfabe0b0752ff567e195837d0fa]
 
-(1) No part of any wind turbine generator shall be erected as part of the authorised development until the Secretary of State, having consulted with the operator[^key-6dc57fac41d2735730f3ad8ac05adcf7] and the Civil Aviation Authority, confirms in writing that it is satisfied that—
+(1) No part of any wind turbine generator shall be erected as part of the authorised development until the Secretary of State, having consulted with the operator[^c-6dc57fac41d2735730f3ad8ac05adcf7] and the Civil Aviation Authority, confirms in writing that it is satisfied that—
 
 - (a) appropriate mitigation will be implemented and maintained throughout the lifetime of the authorised development; and
 - (b) appropriate arrangements have been put in place with the operator to ensure that such appropriate mitigation is so implemented prior to construction of any wind turbine generator and thereafter maintained.
 
-(2) The undertaker shall thereafter comply with all obligations contained within the approved [^key-5ce2f410345077b49958b13f2b950c67]... mitigation for the lifetime of the authorised development.
+(2) The undertaker shall thereafter comply with all obligations contained within the approved [^c-5ce2f410345077b49958b13f2b950c67]... mitigation for the lifetime of the authorised development.
 
 (3) For the purposes of this requirement—
 
@@ -590,15 +590,15 @@ The authorised development must commence no later than the expiration of seven y
 - “**approved mitigation**” means the appropriate mitigation agreed with the Civil Aviation Authority and the operator and confirmed by the Secretary of State in accordance with sub-paragraph (1); and
 - “**operator**” means Blackpool Airport Operations Limited (incorporated in England and Wales with company number 09307995 and whose registered office is Number One Bickerstaffe Square, Talbot Road, Blackpool, FY1 3AH), or such other organisation as is licensed from time to time under sections 5 and 6 of the Transport Act 2000 to provide air traffic services for Blackpool Airport.
 
-### 10. Decommissioning[^key-b1149e5dce23e401e158de1c28e51971]
+### 10. Decommissioning[^c-b1149e5dce23e401e158de1c28e51971]
 
 No works may commence until a written decommissioning programme in compliance with any notice served upon the undertaker by the Secretary of State pursuant to section 105(2) (requirement to prepare decommissioning programmes) of the 2004 Act has been submitted to the Secretary of State.
 
-### 11. Requirement for written approval[^key-b0f3f34bfc4c0e96c6dd58b194b1a4c9]
+### 11. Requirement for written approval[^c-b0f3f34bfc4c0e96c6dd58b194b1a4c9]
 
 Where under any of the above requirements the approval or agreement of the Secretary of State or another person is required, that approval or agreement must be given in writing.
 
-### 12. Amendments to approved details[^key-4268d3630ba1936d9585ee21a997f7ef]
+### 12. Amendments to approved details[^c-4268d3630ba1936d9585ee21a997f7ef]
 
 With respect to any requirement which requires the authorised project to be carried out in accordance with the details approved under this Schedule, the approved details are taken to include any amendments that may subsequently be approved or agreed by the person responsible for the original approval.
 
@@ -608,7 +608,7 @@ Article 5
 
 ### PART 1 — Licensed marine activities
 
-#### 1. Interpretation[^key-4c4b0936ea09ba5ab7626530ad33f904]
+#### 1. Interpretation[^c-4c4b0936ea09ba5ab7626530ad33f904]
 
 (1) In this licence—
 
@@ -684,7 +684,7 @@ Article 5
 - “**UKHO**” means the United Kingdom Hydrographic Office of Admiralty Way, Taunton, Somerset, TA1 2DN;
 - “**undertaker**” means Morgan Offshore Wind Limited (company registration number: 13497271) whose registered office address is Chertsey Road, Sunbury on Thames, Middlesex, United Kingdom, TW16 7BP;
 - “**vessel**” means every description of vessel, however propelled or moved, and includes a non-displacement craft, a personal watercraft, a seaplane on the surface of the water, a hydrofoil vessel, a hovercraft or any other amphibious vehicle and any other thing constructed or adapted for movement through, in, on or over water and which is at the time in, on or over water;
-- “**wind turbine generator**” means a structure comprising a tower, rotor with three blades connected at the hub, nacelle and ancillary electrical and other equipment which may include J-tube(s), transition piece, access and rest platforms, access ladders, boat access systems, corrosion protection systems, fenders and maintenance equipment, helicopter landing facilities and other associated equipment including communications equipment, fixed to a foundation or transition piece; and[^key-1f96dfe12744161fe1b475d29b081387]
+- “**wind turbine generator**” means a structure comprising a tower, rotor with three blades connected at the hub, nacelle and ancillary electrical and other equipment which may include J-tube(s), transition piece, access and rest platforms, access ladders, boat access systems, corrosion protection systems, fenders and maintenance equipment, helicopter landing facilities and other associated equipment including communications equipment, fixed to a foundation or transition piece; and[^c-1f96dfe12744161fe1b475d29b081387]
 - “**works plan**” means the plans certified as the works plan by the Secretary of State under article 11 (certification of plans, etc.) of this Order.
 
 (2) In this licence a reference to any statute, order, regulation or similar instrument is a reference to a statute, order, regulation or instrument as amended by any subsequent statute, order, regulation or instrument or as contained in any subsequent re-enactment.
@@ -806,7 +806,7 @@ Article 5
 
   Tel: 01823 337 900
 
-#### 2. Details of licensed marine activities[^key-92696bfc55290dc0e7b64fc8eae3024c]
+#### 2. Details of licensed marine activities[^c-92696bfc55290dc0e7b64fc8eae3024c]
 
 Subject to the conditions, this licence authorises the undertaker (and any agent or contractor acting on their behalf) to carry out the following licensable marine activities under section 66(1) (licensable marine activities) of the 2009 Act—
 
@@ -819,7 +819,7 @@ Subject to the conditions, this licence authorises the undertaker (and any agent
 - (g) the use of extracted seabed material within gravity base foundations; and
 - (h) the disposal of up to 15,694,606 cubic metres of inert material of natural origin within the Order limits produced during construction drilling or seabed preparation for foundation works, cable works and boulder clearance works at disposal site reference IS155 within the extent of the Order limits seaward of MHWS, unless otherwise agreed in writing with the MMO.
 
-**3.**[^key-487fcef0a77816450e9e83f2b747405c] Such activities are authorised in relation to the construction, maintenance and operation of the authorised scheme being—
+**3.**[^c-487fcef0a77816450e9e83f2b747405c] Such activities are authorised in relation to the construction, maintenance and operation of the authorised scheme being—
 
 *Work No. 1*— an offshore wind generating station comprising—
 
@@ -843,7 +843,7 @@ In connection with the licenced activities in Work Nos. 1 to 3 and to the extent
 - (i) lighting; and
 - (j) buoys, beacons, fenders and other navigational warning or ship impact protection works.
 
-**4.**[^key-448c88f2fc6fc8820fca34324c15706a] The substances and objects authorised for deposit at sea are—
+**4.**[^c-448c88f2fc6fc8820fca34324c15706a] The substances and objects authorised for deposit at sea are—
 
 - (a) iron, steel, copper and aluminium;
 - (b) stone and rock;
@@ -853,7 +853,7 @@ In connection with the licenced activities in Work Nos. 1 to 3 and to the extent
 - (f) material extracted from within the Order limits during construction drilling or seabed preparation for foundation works and cable sandwave preparation works; and
 - (g) marine coatings, other chemicals and timber.
 
-**5.**[^key-0a5b4ea1ae867b56672d381e7f64c279] The grid coordinates for Work No. 1, Work No. 2 and Work No. 3 are as shown on the order limits and grid coordinates plan and as specified below—
+**5.**[^c-0a5b4ea1ae867b56672d381e7f64c279] The grid coordinates for Work No. 1, Work No. 2 and Work No. 3 are as shown on the order limits and grid coordinates plan and as specified below—
 
 | Point | Latitude | Longitude |
 | --- | --- | --- |
@@ -933,21 +933,21 @@ In connection with the licenced activities in Work Nos. 1 to 3 and to the extent
 | 74 | 53° 58′ 34.172″ N | 3° 47′ 19.232″ W |
 | 75 | 53° 56′ 34.760″ N | 3° 47′ 14.121″ W |
 
-**6.**[^key-e6b8a409e2381562df6b850df34e3bda] This marine licence remains in force until the authorised scheme has been decommissioned in accordance with a programme approved by the Secretary of State under section 106 (approval of decommissioning programmes) of the 2004 Act including any modification to the programme under section 108 (reviews and revisions of decommissioning programmes) of the 2004 Act, and the completion of such programme has been confirmed by the Secretary of State in writing.
+**6.**[^c-e6b8a409e2381562df6b850df34e3bda] This marine licence remains in force until the authorised scheme has been decommissioned in accordance with a programme approved by the Secretary of State under section 106 (approval of decommissioning programmes) of the 2004 Act including any modification to the programme under section 108 (reviews and revisions of decommissioning programmes) of the 2004 Act, and the completion of such programme has been confirmed by the Secretary of State in writing.
 
-**7.**[^key-ab305b3e1cd3bc8c63538d63a9d7c235] The provisions of section 72 (variation, suspension, revocation and transfer) of the 2009 Act apply to this licence except that the provisions of section 72(7) and (8) relating to the transfer of the licence apply only to a transfer not falling within article 7 (benefit of order) of the Order.
+**7.**[^c-ab305b3e1cd3bc8c63538d63a9d7c235] The provisions of section 72 (variation, suspension, revocation and transfer) of the 2009 Act apply to this licence except that the provisions of section 72(7) and (8) relating to the transfer of the licence apply only to a transfer not falling within article 7 (benefit of order) of the Order.
 
-**8.**[^key-ad6dd8da4af24d8c2ae5b9aff94c07c3] With respect to any condition which requires the licensed activities be carried out in accordance with the details, plans or schemes approved under this licence, the approved details, plans or schemes are taken to include any amendments that may subsequently be approved in writing by the MMO.
+**8.**[^c-ad6dd8da4af24d8c2ae5b9aff94c07c3] With respect to any condition which requires the licensed activities be carried out in accordance with the details, plans or schemes approved under this licence, the approved details, plans or schemes are taken to include any amendments that may subsequently be approved in writing by the MMO.
 
-**9.**[^key-304e1541cd61b27e4ead511a18ebc778] Any amendments to or variations from the approved details, plans or schemes must be in accordance with the principles and assessments set out in the environmental statements. Such agreement may only be given where it has been demonstrated to the satisfaction of the MMO that it is unlikely to or will not give rise to any materially new or materially different environmental effects from those assessed in the environmental statement.
+**9.**[^c-304e1541cd61b27e4ead511a18ebc778] Any amendments to or variations from the approved details, plans or schemes must be in accordance with the principles and assessments set out in the environmental statements. Such agreement may only be given where it has been demonstrated to the satisfaction of the MMO that it is unlikely to or will not give rise to any materially new or materially different environmental effects from those assessed in the environmental statement.
 
 ### PART 2 — Conditions
 
-#### 10. Design parameters[^key-0f9e68bfc19c162f1e5f6b4285dc4142]
+#### 10. Design parameters[^c-0f9e68bfc19c162f1e5f6b4285dc4142]
 
 (1) The authorised scheme must be constructed in accordance with the parameters assessed in the environmental statement and set out in Table 2.
 
-(2) The undertaker may not undertake Work No. 1 in a manner which would[^key-51c41ed0cdb7f81836da8958c2dd39fd] give rise to any materially new or materially different environmental effects to those identified in the environmental statement based upon the maximum design scenarios set out in Table 3.5 of the environmental statement.
+(2) The undertaker may not undertake Work No. 1 in a manner which would[^c-51c41ed0cdb7f81836da8958c2dd39fd] give rise to any materially new or materially different environmental effects to those identified in the environmental statement based upon the maximum design scenarios set out in Table 3.5 of the environmental statement.
 
 (3) References to the location of an offshore surface structure in Table 2 is a reference to the centre point of that structure.
 
@@ -984,11 +984,11 @@ Table 2
 | Maximum volume of cable protection (inter-array and interconnector) (m<sup>3</sup>) | 852,600 |
 | Maximum total seabed footprint area for cable protection (m<sup>2</sup>) | 548,800 |
 
-**11.**[^key-30f2ff5c7071d306515171dd638f8f5b] The total number of offshore substation platforms forming part of the authorised scheme in this licence and the authorised scheme in licence 2 taken together must not exceed four (whether constructed under this licence or licence 2).
+**11.**[^c-30f2ff5c7071d306515171dd638f8f5b] The total number of offshore substation platforms forming part of the authorised scheme in this licence and the authorised scheme in licence 2 taken together must not exceed four (whether constructed under this licence or licence 2).
 
-**12.**[^key-b5b7a4779be99d32f327eb12fb48865e] The total length of interconnector cables forming part of the authorised scheme in this licence and the authorised scheme in licence 2 taken together must not exceed 60 kilometres (whether constructed under this licence or licence 2).
+**12.**[^c-b5b7a4779be99d32f327eb12fb48865e] The total length of interconnector cables forming part of the authorised scheme in this licence and the authorised scheme in licence 2 taken together must not exceed 60 kilometres (whether constructed under this licence or licence 2).
 
-#### 13. Maintenance of the authorised scheme[^key-a5d132a38d55905aab9c8814c3b09fdd]
+#### 13. Maintenance of the authorised scheme[^c-a5d132a38d55905aab9c8814c3b09fdd]
 
 (1) The undertaker may at any time maintain the authorised scheme, except to the extent that this licence or an agreement made under this licence provides otherwise.
 
@@ -1016,17 +1016,17 @@ Table 2
 - (a) Include a review of licenced activities undertaken during the preceding five years with reference to the reports submitted in accordance with sub-paragraph (5) of this licence; and
 - (b) Reconfirm the applicability of the methodologies and frequencies of the licensable activities permitted by this licence for the remaining duration of this licence.
 
-#### 14. Extension of time periods[^key-5e0f6ee586eb8c12f7f6a34239f60c68]
+#### 14. Extension of time periods[^c-5e0f6ee586eb8c12f7f6a34239f60c68]
 
 Any time period given in this licence to either the undertaker or the MMO may be extended with the agreement of the other party such agreement not to be unreasonably withheld or delayed.
 
-#### 15. Notifications and inspections[^key-f38592041d387ab51ac4e1a4c2659d2e]
+#### 15. Notifications and inspections[^c-f38592041d387ab51ac4e1a4c2659d2e]
 
 (1) The undertaker must ensure that—
 
 - (a) a copy of this licence (issued as part of the grant of the Order) and any subsequent amendments or revisions to it is provided to—
   - (i) all agents and contractors notified to the MMO in accordance with condition 26;
-  - (ii) the masters and transport managers responsible for the vessels notified to the MMO in accordance with condition 26; and[^key-f2bf2ef71e9455ec054fd2d832b6d029]
+  - (ii) the masters and transport managers responsible for the vessels notified to the MMO in accordance with condition 26; and[^c-f2bf2ef71e9455ec054fd2d832b6d029]
 - (b) within 28 days of receipt of a copy of this licence those persons referred to in paragraph (a) must confirm receipt of this licence in writing to the MMO.
 
 (2) Only those persons and vessels notified to the MMO in accordance with condition 26 are permitted to carry out the licensed activities.
@@ -1062,7 +1062,7 @@ and confirmation of notification must be provided to the MMO within five days.
 
 (13) The undertaker must ensure that the MMO, the MMO Local Office, local fishermen’s organisations, and the Source Data Receipt Team at the UKHO Taunton, Somerset, TA1 2DN (sdr@ukho.gov.uk) are notified within five days of each instance of cable repair, replacement or protection replenishment activity.
 
-#### 16. Aids to navigation[^key-3b1fb7c9fda0d39d0579295f2e5558d0]
+#### 16. Aids to navigation[^c-3b1fb7c9fda0d39d0579295f2e5558d0]
 
 (1) The undertaker must during the period from commencement of construction of the authorised scheme to completion of decommissioning exhibit such lights, marks, sounds, signals and other aids to navigation, and take such other steps for the prevention of danger to navigation, as Trinity House may from time to time direct.
 
@@ -1078,11 +1078,11 @@ and confirmation of notification must be provided to the MMO within five days.
 
 (5) In the event that the provisions of condition 15(11) are invoked, the undertaker must lay down such buoys, exhibit such lights and take such other steps for preventing danger to navigation as directed by Trinity House.
 
-#### 17. Colouring of structures[^key-41209506e88c740a274aafabce75521b]
+#### 17. Colouring of structures[^c-41209506e88c740a274aafabce75521b]
 
 Except as otherwise required by Trinity House the undertaker must paint all structures forming part of the authorised scheme yellow (colour code RAL 1023) from at least HAT to a height as directed by Trinity House. Unless the MMO otherwise directs, the undertaker must paint the remainder of the structures grey (colour code RAL 7035).
 
-#### 18. Chemicals, drilling and debris[^key-d813fb41cdcfe1c84424caee7b23d7d5]
+#### 18. Chemicals, drilling and debris[^c-d813fb41cdcfe1c84424caee7b23d7d5]
 
 (1) The undertaker must ensure that any coatings and treatments are suitable for use in the marine environment and are used in accordance with guidelines approved by the Health and Safety Executive and the Environment Agency Pollution Prevention Control Guidelines.
 
@@ -1106,13 +1106,13 @@ Except as otherwise required by Trinity House the undertaker must paint all stru
 
 (11) On receipt of notification of the dropped object procedure form the MMO may require relevant surveys to be carried out by the undertaker (such as side scan sonar) if reasonable to do so and the MMO may require obstructions to be removed from the marine environment at the undertaker’s expense if reasonable to do so.
 
-#### 19. Force Majeure[^key-01af22a74be4f0f231efdb7e04526550]
+#### 19. Force Majeure[^c-01af22a74be4f0f231efdb7e04526550]
 
 (1) If due to stress of weather or any other cause beyond the reasonable control of the master of a vessel, and which the master of a vessel by the exercise of reasonable diligence is unable to prevent, avoid or remove, the master of a vessel determines that it is necessary to deposit the authorised deposits within or outside of the Order limits because the safety of human life or of the vessel is threatened, within 48 hours the undertaker must notify full details of the circumstances of the deposit to the MMO.
 
 (2) The unauthorised deposits must be removed at the expense of the undertaker unless written approval is obtained from the MMO.
 
-#### 20. Pre-construction plans and documentation[^key-d1eda568812bd48cbd2438aa8682244c]
+#### 20. Pre-construction plans and documentation[^c-d1eda568812bd48cbd2438aa8682244c]
 
 (1) The licensed activities or any phase of those activities must not commence until the following (insofar as relevant to that activity or phase of activity) have been submitted to and approved in writing by the MMO, in consultation with Trinity House, the MCA and UKHO as appropriate—
 
@@ -1153,7 +1153,7 @@ Except as otherwise required by Trinity House the undertaker must paint all stru
     - (bb) the quantities being used and the frequency of use;
     - (cc) the physical, chemical, and ecotoxicological properties;
     - (dd) waste management and disposal arrangements;
-  - (iv)[^key-d62d23dc2485d331386eca57f04312c8] the appointment and responsibilities of a fisheries liaison officer;
+  - (iv)[^c-d62d23dc2485d331386eca57f04312c8] the appointment and responsibilities of a fisheries liaison officer;
   - (v) a fisheries liaison and coexistence plan (which accords with the outline fisheries liaison and co-existence plan) to ensure relevant fishing fleets are notified of commencement of licensed activities pursuant to condition 15 and to address the interaction of the licensed activities with fishing activities;
   - (vi) measures to minimise disturbance to marine mammals and rafting birds from transiting vessels; and
   - (vii) measures to minimise the potential spread of invasive non-native species;
@@ -1174,11 +1174,11 @@ Except as otherwise required by Trinity House the undertaker must paint all stru
 
 (3) Pre-commencement surveys and archaeological investigations and pre-commencement material operations which involve intrusive seabed works must only take place in accordance with a specific written scheme of investigation (which must accord with the details set out in the outline offshore written scheme of investigation), which has been submitted to and approved by the MMO.
 
-**21.**[^key-a6c29b26a6720bc98f5a6d22611a53d6] (1) Each programme, statement, plan, protocol or scheme required to be approved under condition 20 must be submitted for approval at least six months before the intended commencement of licensed activities, except where otherwise stated or unless otherwise agreed in writing by the MMO.
+**21.**[^c-a6c29b26a6720bc98f5a6d22611a53d6] (1) Each programme, statement, plan, protocol or scheme required to be approved under condition 20 must be submitted for approval at least six months before the intended commencement of licensed activities, except where otherwise stated or unless otherwise agreed in writing by the MMO.
 
 (2) The licensed activities must be carried out in accordance with the plans, protocols, statements, schemes and details approved under condition 20, unless otherwise agreed in writing by MMO.
 
-#### 22. Underwater Sound Management Strategy[^key-798b2abc0e43a62f2ceb97fb523263e3]
+#### 22. Underwater Sound Management Strategy[^c-798b2abc0e43a62f2ceb97fb523263e3]
 
 (1) No driven or part-driven piling activities shall commence or low order UXO clearance can take place until an underwater sound management strategy for those activities, which accords with the outline underwater sound management strategy, has been submitted to and approved in writing by the MMO in consultation with the relevant statutory nature conservation body.
 
@@ -1192,7 +1192,7 @@ Except as otherwise required by Trinity House the undertaker must paint all stru
 
 (6) The driven or part-driven piling activities and low order UXO clearance must be carried out in accordance with the approved underwater sound management strategy, unless otherwise agreed in writing by the MMO.
 
-#### 23. Low order unexploded ordnance clearance[^key-6c7adb28874831092bf54f22a865aecc]
+#### 23. Low order unexploded ordnance clearance[^c-6c7adb28874831092bf54f22a865aecc]
 
 (1) No low order unexploded ordnance clearance can take place until the following have been submitted to and approved in writing by the MMO in consultation with the relevant statutory nature conservation body and, in respect of the method statement, the MCA—
 
@@ -1222,7 +1222,7 @@ Except as otherwise required by Trinity House the undertaker must paint all stru
 
 (7) No high order unexploded ordnance clearance is permitted by this marine licence.
 
-#### 24. Marine Noise Registry[^key-e15d19816313d0e1a94f2901c5c9f020]
+#### 24. Marine Noise Registry[^c-e15d19816313d0e1a94f2901c5c9f020]
 
 (1) In the event that driven or part–driven pile foundations are proposed to be used as part of the foundation installation the undertaker must provide the following information to the Marine Noise Registry—
 
@@ -1239,11 +1239,11 @@ Except as otherwise required by Trinity House the undertaker must paint all stru
 - (a) “**Marine Noise Registry**” means the database of impulsive noise generating activities in UK seas maintained by Joint Nature Conservation Committee;
 - (b) “Forward Look” and “Close Out” requirements are as set out in the ‘UK Marine Noise Registry: Information Document, Version 1 (May 2016)’ or any updated information document.
 
-#### 25. Offshore safety management[^key-1893ce34f879588496bf9509f9a44031]
+#### 25. Offshore safety management[^c-1893ce34f879588496bf9509f9a44031]
 
 No part of the authorised scheme may commence until the MMO, in consultation with the MCA, has confirmed in writing that the undertaker has taken into account and, so far as is applicable to that stage of the project, adequately addressed all MCA recommendations as appropriate to the authorised scheme contained within MGN654 “Offshore Renewable Energy Installations (OREIs) – Guidance on UK Navigational Practice, Safety and Emergency Response Issues” (or any equivalent guidance that replaces or supersedes it) and its annexes.
 
-#### 26. Reporting of engaged agents, contractors and vessels[^key-cffcee8b9e54f4312254e79f749f764e]
+#### 26. Reporting of engaged agents, contractors and vessels[^c-cffcee8b9e54f4312254e79f749f764e]
 
 (1) The undertaker must provide the following information in writing to the MMO, unless otherwise agreed in writing by the MMO—
 
@@ -1254,7 +1254,7 @@ No part of the authorised scheme may commence until the MMO, in consultation wit
 
 (3) Any changes to the supplied details must be notified to the MMO in writing at least 24 hours before the agent, contractor or vessel engages in the licensed activities.
 
-#### 27. Pre-construction monitoring and surveys[^key-1b365318b895ae08db8c4f8a2d28bd6c]
+#### 27. Pre-construction monitoring and surveys[^c-1b365318b895ae08db8c4f8a2d28bd6c]
 
 (1) The undertaker must, in discharging condition 20(1)(c) submit a monitoring plan or plans in accordance with the offshore in principle monitoring plan for written approval by the MMO in consultation with the relevant statutory nature conservation body, which must contain details of proposed monitoring and surveys, including methodologies and timings, and a proposed format and content for a pre-construction baseline report.
 
@@ -1266,7 +1266,7 @@ No part of the authorised scheme may commence until the MMO, in consultation wit
 
 (5) The undertaker must carry out the surveys specified within the monitoring plan or plans in accordance with that plan or plans, unless otherwise agreed in writing by the MMO in consultation with the relevant statutory nature conservation body.
 
-#### 28. Construction monitoring[^key-dfc4fccc0f55308b7b9fdb8f4adad5ec]
+#### 28. Construction monitoring[^c-dfc4fccc0f55308b7b9fdb8f4adad5ec]
 
 (1) The undertaker must, in discharging condition 20(1)(c) for each stage of construction, submit details (which accord with the offshore in principle monitoring plan) for approval in writing by the MMO in consultation with the relevant statutory nature conservation bodies of any proposed monitoring, including methodologies and timings, to be carried out during the construction of the authorised scheme. The monitoring proposals must specify each monitoring proposal’s objectives and explain how it will assist in either informing a useful and valid comparison with the pre-construction position and/or will enable the validation or otherwise of key predictions in the environmental statement.
 
@@ -1286,7 +1286,7 @@ No part of the authorised scheme may commence until the MMO, in consultation wit
 
 (7) The undertaker must carry out the surveys specified in the offshore monitoring plan in accordance with that plan, including any further underwater sound monitoring required in writing by the MMO under sub-paragraph (4), unless otherwise agreed in writing by the MMO in consultation with the relevant statutory nature conservation body.
 
-#### 29. Post-construction monitoring[^key-80d0177bd9b7bf20453a4bc8bb303197]
+#### 29. Post-construction monitoring[^c-80d0177bd9b7bf20453a4bc8bb303197]
 
 (1) The undertaker must, in discharging condition 20(1)(c) submit details (which accord with the offshore in principle monitoring plan) for approval in writing by the MMO in consultation with relevant statutory nature conservation bodies of proposed post-construction monitoring, including methodologies and timings, and a proposed format, content and timings for providing reports on the results.
 
@@ -1301,7 +1301,7 @@ No part of the authorised scheme may commence until the MMO, in consultation wit
 
 (5) Following the installation of cables, details of cable monitoring required under 20(1)(d)(i) must be updated with the results of the post installation surveys.
 
-#### 30. Reporting of scour and cable protection[^key-d44c6382100ba99097766f46b79e9748]
+#### 30. Reporting of scour and cable protection[^c-d44c6382100ba99097766f46b79e9748]
 
 (1) Not more than four months following completion of the construction of the authorised scheme, the undertaker must provide the MMO and the relevant statutory nature conservation bodies with a report setting out details of the cable protection and scour protection used for the authorised scheme.
 
@@ -1313,7 +1313,7 @@ No part of the authorised scheme may commence until the MMO, in consultation wit
 
 (3) Any cable protection (other than the replenishment or replacement of existing cable protection) authorised under this licence must be deployed within 10 years from the date of completion of construction (as reported in the close-out report under condition 31) unless otherwise agreed by the MMO in writing.
 
-#### 31. Completion of construction[^key-59de82f95320891f8edd65dd47d98205]
+#### 31. Completion of construction[^c-59de82f95320891f8edd65dd47d98205]
 
 (1) The undertaker must submit a close-out report to the MMO, MCA, Trinity House, the UKHO and the relevant statutory nature conservation body within four months of the date of completion of construction. The close out report must confirm the date of completion of construction and must include the following details—
 
@@ -1325,7 +1325,7 @@ No part of the authorised scheme may commence until the MMO, in consultation wit
 
 (2) Following completion of construction, no further construction activities can be undertaken under this licence.
 
-#### 32. Requirement for written approval[^key-85178b6a1febc646ac6cd8877da9ada2]
+#### 32. Requirement for written approval[^c-85178b6a1febc646ac6cd8877da9ada2]
 
 Where under any of the above conditions the approval or agreement of the MMO is required, that approval or agreement must be given in writing.
 
@@ -1335,7 +1335,7 @@ Article 5
 
 ### PART 1 — Licensed marine activities
 
-#### 1. Interpretation[^key-346e4b3890af38b9d6c5b24a59caf62f]
+#### 1. Interpretation[^c-346e4b3890af38b9d6c5b24a59caf62f]
 
 (1) In this licence—
 
@@ -1527,7 +1527,7 @@ Article 5
 
   Tel: 01823 337 900
 
-#### 2. Details of licensed marine activities[^key-1ea53b831ed3af49dda9e2d3c23e1571]
+#### 2. Details of licensed marine activities[^c-1ea53b831ed3af49dda9e2d3c23e1571]
 
 Subject to the conditions, this licence authorises the undertaker (and any agent or contractor acting on their behalf) to carry out the following licensable marine activities under section 66(1) (licensable marine activities) of the 2009 Act—
 
@@ -1540,7 +1540,7 @@ Subject to the conditions, this licence authorises the undertaker (and any agent
 - (g) the use of extracted seabed material within gravity base foundations; and
 - (h) the disposal of up to 1,253,915 cubic metres of inert material of natural origin within the Order limits produced during construction drilling or seabed preparation for foundation works, cable works and boulder clearance works at disposal site reference IS155 within the extent of the Order limits seaward of MHWS, unless otherwise agreed in writing with the MMO.
 
-**3.**[^key-6ccacda163d8b22e940e50a68429ad24] Such activities are authorised in relation to the construction, maintenance and operation of the authorised scheme being—
+**3.**[^c-6ccacda163d8b22e940e50a68429ad24] Such activities are authorised in relation to the construction, maintenance and operation of the authorised scheme being—
 
 *Work No. 2*— up to four offshore substation platforms (all or any of which may alternatively be constructed under licence 1); and
 
@@ -1559,7 +1559,7 @@ In connection with the licenced activities in Work Nos. 2 and 3 and to the exten
 - (i) lighting; and
 - (j) buoys, beacons, fenders and other navigational warning or ship impact protection works.
 
-**4.**[^key-a5d84a46feadb3b8b89ee4d2b830e40c] The substances and objects authorised for deposit at sea are—
+**4.**[^c-a5d84a46feadb3b8b89ee4d2b830e40c] The substances and objects authorised for deposit at sea are—
 
 - (a) iron, steel, copper and aluminium;
 - (b) stone and rock;
@@ -1569,7 +1569,7 @@ In connection with the licenced activities in Work Nos. 2 and 3 and to the exten
 - (f) material extracted from within the Order limits during construction drilling or seabed preparation for foundation works and cable sandwave preparation works; and
 - (g) marine coatings, other chemicals and timber.
 
-**5.**[^key-b0ec0549a7868a433909de6f466799ac] The grid coordinates for Work No. 2 and Work No. 3 are as shown on the order limits and grid coordinates plan and as specified below—
+**5.**[^c-b0ec0549a7868a433909de6f466799ac] The grid coordinates for Work No. 2 and Work No. 3 are as shown on the order limits and grid coordinates plan and as specified below—
 
 | Point | Latitude | Longitude |
 | --- | --- | --- |
@@ -1649,17 +1649,17 @@ In connection with the licenced activities in Work Nos. 2 and 3 and to the exten
 | 74 | 53° 58′ 34.172″ N | 3° 47′ 19.232″ W |
 | 75 | 53° 56′ 34.760″ N | 3° 47′ 14.121″ W |
 
-**6.**[^key-19254bb66b1c1ac58136fc9039aef956] This marine licence remains in force until the authorised scheme has been decommissioned in accordance with a programme approved by the Secretary of State under section 106 (approval of decommissioning programmes) of the 2004 Act including any modification to the programme under section 108 (reviews and revisions of decommissioning programmes) of the 2004 Act, and the completion of such programme has been confirmed by the Secretary of State in writing.
+**6.**[^c-19254bb66b1c1ac58136fc9039aef956] This marine licence remains in force until the authorised scheme has been decommissioned in accordance with a programme approved by the Secretary of State under section 106 (approval of decommissioning programmes) of the 2004 Act including any modification to the programme under section 108 (reviews and revisions of decommissioning programmes) of the 2004 Act, and the completion of such programme has been confirmed by the Secretary of State in writing.
 
-**7.**[^key-5e75effcdef94a0f7a7301c10e96d545] The provisions of section 72 (variation, suspension, revocation and transfer) of the 2009 Act apply to this licence except that the provisions of section 72(7) and (8) relating to the transfer of the licence apply only to a transfer not falling within article 7 (benefit of order) of the Order.
+**7.**[^c-5e75effcdef94a0f7a7301c10e96d545] The provisions of section 72 (variation, suspension, revocation and transfer) of the 2009 Act apply to this licence except that the provisions of section 72(7) and (8) relating to the transfer of the licence apply only to a transfer not falling within article 7 (benefit of order) of the Order.
 
-**8.**[^key-c2bebd6f4538b0f0c7def7ed4ad2ec4d] With respect to any condition which requires the licensed activities be carried out in accordance with the details, plans or schemes approved under this licence, the approved details, plans or schemes are taken to include any amendments that may subsequently be approved in writing by the MMO.
+**8.**[^c-c2bebd6f4538b0f0c7def7ed4ad2ec4d] With respect to any condition which requires the licensed activities be carried out in accordance with the details, plans or schemes approved under this licence, the approved details, plans or schemes are taken to include any amendments that may subsequently be approved in writing by the MMO.
 
-**9.**[^key-c7bc7ee471ce30cad2607503471b9c8f] Any amendments to or variations from the approved details, plans or schemes must be in accordance with the principles and assessments set out in the environmental statements. Such agreement may only be given where it has been demonstrated to the satisfaction of the MMO that it is unlikely to or will not give rise to any materially new or materially different environmental effects from those assessed in the environmental statement.
+**9.**[^c-c7bc7ee471ce30cad2607503471b9c8f] Any amendments to or variations from the approved details, plans or schemes must be in accordance with the principles and assessments set out in the environmental statements. Such agreement may only be given where it has been demonstrated to the satisfaction of the MMO that it is unlikely to or will not give rise to any materially new or materially different environmental effects from those assessed in the environmental statement.
 
 ### PART 2 — Conditions
 
-#### 10. Design parameters[^key-41d0adeb05c734be170054ec37a4437f]
+#### 10. Design parameters[^c-41d0adeb05c734be170054ec37a4437f]
 
 (1) The authorised scheme must be constructed in accordance with the parameters assessed in the environmental statement and set out in Table 3.
 
@@ -1685,11 +1685,11 @@ Table 3
 | Maximum volume of cable protection (interconnector) (m<sup>3</sup>) | 210,000 |
 | Maximum total seabed footprint area for cable protection (interconnector) (m<sup>2</sup>) | 130,000 |
 
-**11.**[^key-eb6875a27bb83b20eee6fb116512ca53] The total number of offshore substation platforms forming part of the authorised scheme in this licence and the authorised scheme in licence 1 taken together must not exceed four (whether constructed under this licence or licence 1).
+**11.**[^c-eb6875a27bb83b20eee6fb116512ca53] The total number of offshore substation platforms forming part of the authorised scheme in this licence and the authorised scheme in licence 1 taken together must not exceed four (whether constructed under this licence or licence 1).
 
-**12.**[^key-288cf4c7877392d56668d741c7e9cdf6] The total length of interconnector cables forming part of the authorised scheme in this licence and the authorised scheme in licence 1 taken together must not exceed 60 kilometres (whether constructed under this licence or licence 1).
+**12.**[^c-288cf4c7877392d56668d741c7e9cdf6] The total length of interconnector cables forming part of the authorised scheme in this licence and the authorised scheme in licence 1 taken together must not exceed 60 kilometres (whether constructed under this licence or licence 1).
 
-#### 13. Maintenance of the authorised scheme[^key-ff0a39cd2dc88a43f64085dc270fb04b]
+#### 13. Maintenance of the authorised scheme[^c-ff0a39cd2dc88a43f64085dc270fb04b]
 
 (1) The undertaker may at any time maintain the authorised scheme, except to the extent that this licence or an agreement made under this licence provides otherwise.
 
@@ -1717,11 +1717,11 @@ Table 3
 - (a) Include a review of licenced activities undertaken during the preceding five years with reference to the reports submitted in accordance with sub-paragraph (5) of this licence; and
 - (b) Reconfirm the applicability of the methodologies and frequencies of the licensable activities permitted by this licence for the remaining duration of this licence.
 
-#### 14. Extension of time periods[^key-61a3201ae2acd2917777eee4618e5067]
+#### 14. Extension of time periods[^c-61a3201ae2acd2917777eee4618e5067]
 
 Any time period given in this licence to either the undertaker or the MMO may be extended with the agreement of the other party such agreement not to be unreasonably withheld or delayed.
 
-#### 15. Notifications and inspections[^key-7382bf7790bacaae71f9f20e5d6abd41]
+#### 15. Notifications and inspections[^c-7382bf7790bacaae71f9f20e5d6abd41]
 
 (1) The undertaker must ensure that—
 
@@ -1763,7 +1763,7 @@ and confirmation of notification must be provided to the MMO within five days.
 
 (13) The undertaker must ensure that the MMO, the MMO Local Office, local fishermen’s organisations, and the Source Data Receipt Team at the UKHO Taunton, Somerset, TA1 2DN (sdr@ukho.gov.uk) are notified within five days of each instance of cable repair, replacement or protection replenishment activity.
 
-#### 16. Aids to navigation[^key-56aa77a8b1df24c824afcac44e5d4ab5]
+#### 16. Aids to navigation[^c-56aa77a8b1df24c824afcac44e5d4ab5]
 
 (1) The undertaker must during the period from commencement of construction of the authorised scheme to completion of decommissioning exhibit such lights, marks, sounds, signals and other aids to navigation, and take such other steps for the prevention of danger to navigation, as Trinity House may from time to time direct.
 
@@ -1779,11 +1779,11 @@ and confirmation of notification must be provided to the MMO within five days.
 
 (5) In the event that the provisions of condition 15(11) are invoked, the undertaker must lay down such buoys, exhibit such lights and take such other steps for preventing danger to navigation as directed by Trinity House.
 
-#### 17. Colouring of structures[^key-dabd674040d34dd817db0a5f6f9be9d7]
+#### 17. Colouring of structures[^c-dabd674040d34dd817db0a5f6f9be9d7]
 
 Except as otherwise required by Trinity House the undertaker must paint all structures forming part of the authorised scheme yellow (colour code RAL 1023) from at least HAT to a height as directed by Trinity House. Unless the MMO otherwise directs, the undertaker must paint the remainder of the structures grey (colour code RAL 7035).
 
-#### 18. Chemicals, drilling and debris[^key-5b1d823567c88b7bc9dc56f92ca5b649]
+#### 18. Chemicals, drilling and debris[^c-5b1d823567c88b7bc9dc56f92ca5b649]
 
 (1) The undertaker must ensure that any coatings and treatments are suitable for use in the marine environment and are used in accordance with guidelines approved by the Health and Safety Executive and the Environment Agency Pollution Prevention Control Guidelines.
 
@@ -1807,13 +1807,13 @@ Except as otherwise required by Trinity House the undertaker must paint all stru
 
 (11) On receipt of notification of the dropped object procedure form the MMO may require relevant surveys to be carried out by the undertaker (such as side scan sonar) if reasonable to do so and the MMO may require obstructions to be removed from the marine environment at the undertaker’s expense if reasonable to do so.
 
-#### 19. Force Majeure[^key-808980fea91096e595ffeed3e932605c]
+#### 19. Force Majeure[^c-808980fea91096e595ffeed3e932605c]
 
 (1) If due to stress of weather or any other cause beyond the reasonable control of the master of a vessel, and which the master of a vessel by the exercise of reasonable diligence is unable to prevent, avoid or remove, the master of a vessel determines that it is necessary to deposit the authorised deposits within or outside of the Order limits because the safety of human life or of the vessel is threatened, within 48 hours the undertaker must notify full details of the circumstances of the deposit to the MMO.
 
 (2) The unauthorised deposits must be removed at the expense of the undertaker unless written approval is obtained from the MMO.
 
-#### 20. Pre-construction plans and documentation[^key-e749aaafe66052e94f1a491a6f5c9ce1]
+#### 20. Pre-construction plans and documentation[^c-e749aaafe66052e94f1a491a6f5c9ce1]
 
 (1) The licensed activities or any phase of those activities must not commence until the following (insofar as relevant to that activity or phase of activity) have been submitted to and approved in writing by the MMO, in consultation with Trinity House, the MCA and UKHO as appropriate—
 
@@ -1831,8 +1831,8 @@ Except as otherwise required by Trinity House the undertaker must paint all stru
   - (iii) an indicative written construction programme for all offshore substation platforms forming part of the authorised scheme and licenced activities;
 - (c) a monitoring plan (which accords with the offshore in principle monitoring plan) to include details of proposed pre-construction surveys, baseline report format and content, construction monitoring, post-construction monitoring and related reporting in accordance with conditions 27, 28 and 29 to be submitted to the MMO in accordance with the following—
   - (i) at least six months prior to the first survey, detail of the pre-construction surveys and an outline of all proposed monitoring;
-  - (ii) at least six months prior to commencement of construction, detail on construction monitoring ; and[^key-20d5e31ede414e615b36135fa54d53f4]
-  - (iii) at least six months prior to completion of construction, details of operational monitoring, if required; [^key-079ab33d07e02cb3446bfad4ebf89de6]...
+  - (ii) at least six months prior to commencement of construction, detail on construction monitoring ; and[^c-20d5e31ede414e615b36135fa54d53f4]
+  - (iii) at least six months prior to completion of construction, details of operational monitoring, if required; [^c-079ab33d07e02cb3446bfad4ebf89de6]...
 
   unless otherwise agreed in writing with the MMO.
 - (d) an offshore construction method statement (which accords with the outline offshore construction method statement) in accordance with the construction methods assessed in the environmental statement, including details of—
@@ -1854,7 +1854,7 @@ Except as otherwise required by Trinity House the undertaker must paint all stru
     - (bb) the quantities being used and the frequency of use;
     - (cc) the physical, chemical, and ecotoxicological properties;
     - (dd) waste management and disposal arrangements;
-  - (iv)[^key-cb7a6903d57694f7c36146530e245653] the appointment and responsibilities of a fisheries liaison officer;
+  - (iv)[^c-cb7a6903d57694f7c36146530e245653] the appointment and responsibilities of a fisheries liaison officer;
   - (v) a fisheries liaison and coexistence plan (which accords with the outline fisheries liaison and co-existence plan) to ensure relevant fishing fleets are notified of commencement of licensed activities pursuant to condition 15 and to address the interaction of the licensed activities with fishing activities;
   - (vi) measures to minimise disturbance to marine mammals and rafting birds from transiting vessels; and
   - (vii) measures to minimise the potential spread of invasive non-native species.
@@ -1875,11 +1875,11 @@ Except as otherwise required by Trinity House the undertaker must paint all stru
 
 (3) Pre-commencement surveys and archaeological investigations and pre-commencement material operations which involve intrusive seabed works must only take place in accordance with a specific written scheme of investigation (which must accord with the details set out in the outline offshore written scheme of investigation) which has been submitted to and approved by the MMO.
 
-**21.**[^key-b2187ea7504eb44a7a74921cfff75b6d] (1) Each programme, statement, plan, protocol or scheme required to be approved under condition 20 must be submitted for approval at least six months before the intended commencement of licensed activities, except where otherwise stated or unless otherwise agreed in writing by the MMO.
+**21.**[^c-b2187ea7504eb44a7a74921cfff75b6d] (1) Each programme, statement, plan, protocol or scheme required to be approved under condition 20 must be submitted for approval at least six months before the intended commencement of licensed activities, except where otherwise stated or unless otherwise agreed in writing by the MMO.
 
 (2) The licensed activities must be carried out in accordance with the plans, protocols, statements, schemes and details approved under condition 20, unless otherwise agreed in writing by MMO.
 
-#### 22. Underwater Sound Management Strategy[^key-ba08533c33f7150aef1948dc5faed5c8]
+#### 22. Underwater Sound Management Strategy[^c-ba08533c33f7150aef1948dc5faed5c8]
 
 (1) No driven or part-driven piling activities shall commence or low order UXO clearance can take place until an underwater sound management strategy for those activities, which accords with the outline underwater sound management strategy, has been submitted to, and approved in writing, by the MMO in consultation with the relevant statutory nature conservation body.
 
@@ -1893,7 +1893,7 @@ Except as otherwise required by Trinity House the undertaker must paint all stru
 
 (6) The driven or part-driven piling activities and low order UXO clearance must be carried out in accordance with the approved underwater sound management strategy, unless otherwise agreed in writing by the MMO.
 
-#### 23. Low order unexploded ordnance clearance[^key-231360510dba7a8cc9483324686aed43]
+#### 23. Low order unexploded ordnance clearance[^c-231360510dba7a8cc9483324686aed43]
 
 (1) No low order unexploded ordnance clearance can take place until the following have been submitted to and approved in writing by the MMO in consultation with the relevant statutory nature conservation body and, in respect of the method statement, the MCA—
 
@@ -1923,7 +1923,7 @@ Except as otherwise required by Trinity House the undertaker must paint all stru
 
 (7) No high order unexploded ordnance clearance is permitted by this marine licence.
 
-#### 24. Marine Noise Registry[^key-43bc57e21786b5fbcc1332ef38ad4d53]
+#### 24. Marine Noise Registry[^c-43bc57e21786b5fbcc1332ef38ad4d53]
 
 (1) In the event that driven or part–driven pile foundations are proposed to be used as part of the foundation installation the undertaker must provide the following information to the Marine Noise Registry—
 
@@ -1940,11 +1940,11 @@ Except as otherwise required by Trinity House the undertaker must paint all stru
 - (a) “**Marine Noise Registry**” means the database of impulsive noise generating activities in UK seas maintained by Joint Nature Conservation Committee;
 - (b) “Forward Look” and “Close Out” requirements are as set out in the ‘UK Marine Noise Registry: Information Document, Version 1 (May 2016)’ or any updated information document.
 
-#### 25. Offshore safety management[^key-1d073c541fd3781cc0de5459c72d0f87]
+#### 25. Offshore safety management[^c-1d073c541fd3781cc0de5459c72d0f87]
 
 No part of the authorised scheme may commence until the MMO, in consultation with the MCA, has confirmed in writing that the undertaker has taken into account and, so far as is applicable to that stage of the project, adequately addressed all MCA recommendations as appropriate to the authorised scheme contained within MGN654 “Offshore Renewable Energy Installations (OREIs) – Guidance on UK Navigational Practice, Safety and Emergency Response Issues” (or any equivalent guidance that replaces or supersedes it) and its annexes.
 
-#### 26. Reporting of engaged agents, contractors and vessels[^key-22dd4152c9b4ef26fbecba4007c7a132]
+#### 26. Reporting of engaged agents, contractors and vessels[^c-22dd4152c9b4ef26fbecba4007c7a132]
 
 (1) The undertaker must provide the following information in writing to the MMO, unless otherwise agreed in writing by the MMO—
 
@@ -1955,7 +1955,7 @@ No part of the authorised scheme may commence until the MMO, in consultation wit
 
 (3) Any changes to the supplied details must be notified to the MMO in writing at least 24 hours before the agent, contractor or vessel engages in the licensed activities.
 
-#### 27. Pre-construction monitoring and surveys[^key-27609a0e7c67ca060b11a7701ccbcbce]
+#### 27. Pre-construction monitoring and surveys[^c-27609a0e7c67ca060b11a7701ccbcbce]
 
 (1) The undertaker must, in discharging condition 20(1)(c) submit a monitoring plan or plans in accordance with the offshore in principle monitoring plan for written approval by the MMO in consultation with the relevant statutory nature conservation body, which must contain details of proposed monitoring and surveys, including methodologies and timings, and a proposed format and content for a pre-construction baseline report.
 
@@ -1967,7 +1967,7 @@ No part of the authorised scheme may commence until the MMO, in consultation wit
 
 (5) The undertaker must carry out the surveys specified within the monitoring plan or plans in accordance with that plan or plans, unless otherwise agreed in writing by the MMO in consultation with the relevant statutory nature conservation body.
 
-#### 28. Construction monitoring[^key-01b98afbe57ba7acf2257eac357a226d]
+#### 28. Construction monitoring[^c-01b98afbe57ba7acf2257eac357a226d]
 
 (1) The undertaker must, in discharging condition 20(1)(c) for each stage of construction, submit details (which accord with the offshore in principle monitoring plan) for approval in writing by the MMO in consultation with the relevant statutory nature conservation bodies of any proposed monitoring, including methodologies and timings, to be carried out during the construction of the authorised scheme. The monitoring proposals must specify each monitoring proposal’s objectives and explain how it will assist in either informing a useful and valid comparison with the pre-construction position and/or will enable the validation or otherwise of key predictions in the environmental statement.
 
@@ -1987,7 +1987,7 @@ No part of the authorised scheme may commence until the MMO, in consultation wit
 
 (7) The undertaker must carry out the surveys specified in the offshore monitoring plan in accordance with that plan, including any further underwater sound monitoring required in writing by the MMO under sub-paragraph (4), unless otherwise agreed in writing by the MMO in consultation with the relevant statutory nature conservation body.
 
-#### 29. Post-construction monitoring[^key-29a25cd51aeb612635b37bd099810329]
+#### 29. Post-construction monitoring[^c-29a25cd51aeb612635b37bd099810329]
 
 (1) The undertaker must, in discharging condition 20(1)(c) submit details (which accord with the offshore in principle monitoring plan) for approval in writing by the MMO in consultation with relevant statutory nature conservation bodies of proposed post-construction monitoring, including methodologies and timings, and a proposed format, content and timings for providing reports on the results.
 
@@ -2002,7 +2002,7 @@ No part of the authorised scheme may commence until the MMO, in consultation wit
 
 (5) Following the installation of cables, details of cable monitoring required under 20(1)(d)(i) must be updated with the results of the post installation surveys.
 
-#### 30. Reporting of scour and cable protection[^key-dea7f1887e7fffed2650670148db608f]
+#### 30. Reporting of scour and cable protection[^c-dea7f1887e7fffed2650670148db608f]
 
 (1) Not more than four months following completion of the construction of the authorised scheme, the undertaker must provide the MMO and the relevant statutory nature conservation bodies with a report setting out details of the cable protection and scour protection used for the authorised scheme.
 
@@ -2014,7 +2014,7 @@ No part of the authorised scheme may commence until the MMO, in consultation wit
 
 (3) Any cable protection (other than the replenishment or replacement of existing cable protection) authorised under this licence must be deployed within 10 years from the date of completion of construction (as reported in the close-out report under condition 31) unless otherwise agreed by the MMO in writing.
 
-#### 31. Completion of construction[^key-2b88aa592b18e9918195f22e3efbf1df]
+#### 31. Completion of construction[^c-2b88aa592b18e9918195f22e3efbf1df]
 
 (1) The undertaker must submit a close-out report to the MMO, MCA, Trinity House, the UKHO and the relevant statutory nature conservation body within four months of the date of completion of construction. The close out report must confirm the date of completion of construction and must include the following details—
 
@@ -2026,7 +2026,7 @@ No part of the authorised scheme may commence until the MMO, in consultation wit
 
 (2) Following completion of construction, no further construction activities can be undertaken under this licence.
 
-#### 32. Requirement for written approval[^key-9adc218f85e609ae2cc5316fb0d5629d]
+#### 32. Requirement for written approval[^c-9adc218f85e609ae2cc5316fb0d5629d]
 
 Where under any of the above conditions the approval or agreement of the MMO is required, that approval or agreement must be given in writing.
 
@@ -2034,7 +2034,7 @@ Where under any of the above conditions the approval or agreement of the MMO is 
 
 Article 11
 
-**1.**[^key-9b42b47fc48321c9d0de4bd390ede0d8] The following documents are the list referred to in article 11—
+**1.**[^c-9b42b47fc48321c9d0de4bd390ede0d8] The following documents are the list referred to in article 11—
 
 Table 4
 
@@ -2164,9 +2164,9 @@ A copy of the plans referred to in this Order and certified in accordance with a
 
 [^f00003]: Footnote: [S.I. 2017/572](https://www.legislation.gov.uk/uksi/2017/572).
 
-[^key-d7e57f16fcce044dccf3c7a899971a80]: Commencement: Art. 1 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-d7e57f16fcce044dccf3c7a899971a80]: Commencement: Art. 1 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-1d462a148eb0ed479d384d7e81201b6d]: Commencement: Art. 2 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-1d462a148eb0ed479d384d7e81201b6d]: Commencement: Art. 2 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
 [^f00004]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
 
@@ -2176,95 +2176,95 @@ A copy of the plans referred to in this Order and certified in accordance with a
 
 [^f00007]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-0884130d4988c18c6ec3354ed292562f]: Commencement: Art. 3 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-0884130d4988c18c6ec3354ed292562f]: Commencement: Art. 3 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-85b686219df85fc8a41541ead1899682]: Commencement: Art. 4 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-85b686219df85fc8a41541ead1899682]: Commencement: Art. 4 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-5cfbfa3e28759a2c975ce44c66fa59bb]: Commencement: Art. 5 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-5cfbfa3e28759a2c975ce44c66fa59bb]: Commencement: Art. 5 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-8a6a8b7091695e116a3ea3d054aa87c1]: Commencement: Art. 6 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-8a6a8b7091695e116a3ea3d054aa87c1]: Commencement: Art. 6 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-54435de3aac7d066169b6d75a8d23512]: Commencement: Art. 7 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-54435de3aac7d066169b6d75a8d23512]: Commencement: Art. 7 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
 [^f00008]: Footnote: Section 6 was amended by sections 89, 136, 198, 143 and 145, Part 1 of Schedule 23 and paragraphs 3 and 5 of Schedule 19 to the Energy Act [2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), sections 72 and 121 and Schedule 1 to the Energy Act [2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), sections 166, 186, 334 and 205 to the Energy Act [2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704). There are other amendments to section 6 which are not relevant to the Order.
 
-[^key-cad97d9436d53f5a86dd149418013931]: Textual amendment: Words in [art. 7(11)](https://www.legislation.gov.uk/uksi/2025/1012/article/7/11) substituted (9.4.2026) by [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
+[^c-cad97d9436d53f5a86dd149418013931]: Textual amendment: Words in [art. 7(11)](https://www.legislation.gov.uk/uksi/2025/1012/article/7/11) substituted (9.4.2026) by [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
 
-[^key-a2f77e6d9c825a1e2c3a7e19d9e9ef52]: Commencement: Art. 8 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-a2f77e6d9c825a1e2c3a7e19d9e9ef52]: Commencement: Art. 8 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
 [^f00009]: Footnote: Section 105 was amended by section 69 of the Energy Act [2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32).
 
-[^key-445e4f3da239697a32a5f1689ceedfaa]: Commencement: Art. 9 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-445e4f3da239697a32a5f1689ceedfaa]: Commencement: Art. 9 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-a8c5a679a2174da47feb52c9a5933b1f]: Commencement: Art. 10 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-a8c5a679a2174da47feb52c9a5933b1f]: Commencement: Art. 10 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-be1d8ec55f0b4986fc57723b837f671c]: Commencement: Art. 11 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-be1d8ec55f0b4986fc57723b837f671c]: Commencement: Art. 11 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-3a4a040f2f94c66a1e2b580f3b0bf4c5]: Commencement: Art. 12 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-3a4a040f2f94c66a1e2b580f3b0bf4c5]: Commencement: Art. 12 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
 [^f00010]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-c4f5c3b29128e8e54952581980435b68]: Commencement: Sch. 1 para. 1 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-c4f5c3b29128e8e54952581980435b68]: Commencement: Sch. 1 para. 1 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-baae47ad27e83d687610629b423cef4d]: Commencement: Sch. 1 para. 2 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-baae47ad27e83d687610629b423cef4d]: Commencement: Sch. 1 para. 2 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-2ff46a4ee0b7fc060f5a94156e49f025]: Commencement: Sch. 1 para. 3 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-2ff46a4ee0b7fc060f5a94156e49f025]: Commencement: Sch. 1 para. 3 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-11116ad8f85aecce6faf58b8d45d16c4]: Commencement: Sch. 2 para. 1 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-11116ad8f85aecce6faf58b8d45d16c4]: Commencement: Sch. 2 para. 1 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-281e7d136b47cd165a703c666597ff64]: Commencement: Sch. 2 para. 2 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-281e7d136b47cd165a703c666597ff64]: Commencement: Sch. 2 para. 2 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-14fe1cc872bd1a255951e97eca31ec3b]: Textual amendment: Words in [Sch. 2 para. 2(4)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/2/paragraph/2/4) substituted (9.4.2026) by [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
+[^c-14fe1cc872bd1a255951e97eca31ec3b]: Textual amendment: Words in [Sch. 2 para. 2(4)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/2/paragraph/2/4) substituted (9.4.2026) by [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
 
-[^key-d83b99ec1dd685ace7f89f5745865e0d]: Commencement: Sch. 2 para. 3 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-d83b99ec1dd685ace7f89f5745865e0d]: Commencement: Sch. 2 para. 3 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-87e424a2c4724034380fdc1aac376fd0]: Textual amendment: Word in [Sch. 2 para. 3(2)(d)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/2/paragraph/3/2/d) inserted (9.4.2026) by [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
+[^c-87e424a2c4724034380fdc1aac376fd0]: Textual amendment: Word in [Sch. 2 para. 3(2)(d)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/2/paragraph/3/2/d) inserted (9.4.2026) by [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
 
-[^key-6926db580341def962e04a591bd4295e]: Textual amendment: Word and semicolon in [Sch. 2 para. 3(2)(e)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/2/paragraph/3/2/e) substituted (9.4.2026) by virtue of [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
+[^c-6926db580341def962e04a591bd4295e]: Textual amendment: Word and semicolon in [Sch. 2 para. 3(2)(e)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/2/paragraph/3/2/e) substituted (9.4.2026) by virtue of [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
 
-[^key-a8b88576453e010fe73a670dd80e80dc]: Textual amendment: Words in [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/2/paragraph/3/3) substituted (9.4.2026) by virtue of [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
+[^c-a8b88576453e010fe73a670dd80e80dc]: Textual amendment: Words in [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/2/paragraph/3/3) substituted (9.4.2026) by virtue of [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
 
-[^key-62a28a00bfd8c0875f7b1b4c19d01461]: Commencement: Sch. 2 para. 4 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-62a28a00bfd8c0875f7b1b4c19d01461]: Commencement: Sch. 2 para. 4 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-84913a55efeb17f043c17642daadc50b]: Commencement: Sch. 2 para. 5 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-84913a55efeb17f043c17642daadc50b]: Commencement: Sch. 2 para. 5 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-c4f95d6b9b6b7cbf1a0424c1db77d715]: Textual amendment: Words in [Sch. 2 para. 5(3)(a)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/2/paragraph/5/3/a) omitted (9.4.2026) by virtue of [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
+[^c-c4f95d6b9b6b7cbf1a0424c1db77d715]: Textual amendment: Words in [Sch. 2 para. 5(3)(a)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/2/paragraph/5/3/a) omitted (9.4.2026) by virtue of [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
 
-[^key-036cc9980c636727094bb774cfb8b340]: Textual amendment: Words in [Sch. 2 para. 5(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/2/paragraph/5/4/a/iii) substituted (9.4.2026) by [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
+[^c-036cc9980c636727094bb774cfb8b340]: Textual amendment: Words in [Sch. 2 para. 5(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/2/paragraph/5/4/a/iii) substituted (9.4.2026) by [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
 
-[^key-9dae4a2e28cd5163f86e30a26731ef33]: Textual amendment: Word in [Sch. 2 para. 5(4)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/2/paragraph/5/4) omitted (9.4.2026) by virtue of [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
+[^c-9dae4a2e28cd5163f86e30a26731ef33]: Textual amendment: Word in [Sch. 2 para. 5(4)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/2/paragraph/5/4) omitted (9.4.2026) by virtue of [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
 
-[^key-d93696a1b3bede5c89dc1d5ed8c67be8]: Commencement: Sch. 2 para. 6 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-d93696a1b3bede5c89dc1d5ed8c67be8]: Commencement: Sch. 2 para. 6 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-af306ffb1c86a810671a4ea3c050479b]: Textual amendment: Word in [Sch. 2 para. 6(2)(c)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/2/paragraph/6/2/c) substituted (9.4.2026) by [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
+[^c-af306ffb1c86a810671a4ea3c050479b]: Textual amendment: Word in [Sch. 2 para. 6(2)(c)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/2/paragraph/6/2/c) substituted (9.4.2026) by [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
 
-[^key-974ea9e62720e11c8c14ac15bac45607]: Textual amendment: Words in [Sch. 2 para. 6(5)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/2/paragraph/6/5) substituted (9.4.2026) by [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
+[^c-974ea9e62720e11c8c14ac15bac45607]: Textual amendment: Words in [Sch. 2 para. 6(5)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/2/paragraph/6/5) substituted (9.4.2026) by [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
 
-[^key-3683c32d1bd81ca40f52b1afccd95414]: Textual amendment: Word in [Sch. 2 para. 6(5)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/2/paragraph/6/5) omitted (9.4.2026) by virtue of [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
+[^c-3683c32d1bd81ca40f52b1afccd95414]: Textual amendment: Word in [Sch. 2 para. 6(5)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/2/paragraph/6/5) omitted (9.4.2026) by virtue of [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
 
-[^key-c4913dbf969ead8665cbe8182374fd15]: Commencement: Sch. 2 para. 7 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-c4913dbf969ead8665cbe8182374fd15]: Commencement: Sch. 2 para. 7 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-4f558c8da7ba66e8dd0599030b76dbe9]: Textual amendment: Words in [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/2/paragraph/7/2) substituted (9.4.2026) by [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
+[^c-4f558c8da7ba66e8dd0599030b76dbe9]: Textual amendment: Words in [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/2/paragraph/7/2) substituted (9.4.2026) by [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
 
-[^key-945153b3677e91b9cc01a85db63c36c6]: Textual amendment: Words in [Sch. 2 para. 7(3)(a)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/2/paragraph/7/3/a) omitted (9.4.2026) by virtue of [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
+[^c-945153b3677e91b9cc01a85db63c36c6]: Textual amendment: Words in [Sch. 2 para. 7(3)(a)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/2/paragraph/7/3/a) omitted (9.4.2026) by virtue of [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
 
-[^key-edb3d6a7f272a9b7fe3f24f5d43abbf3]: Textual amendment: Words in [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/2/paragraph/7/4) omitted (9.4.2026) by virtue of [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
+[^c-edb3d6a7f272a9b7fe3f24f5d43abbf3]: Textual amendment: Words in [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/2/paragraph/7/4) omitted (9.4.2026) by virtue of [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
 
-[^key-c84da79b4fbbc10762afa1daf476609b]: Commencement: Sch. 2 para. 8 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-c84da79b4fbbc10762afa1daf476609b]: Commencement: Sch. 2 para. 8 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-79ebbdfabe0b0752ff567e195837d0fa]: Commencement: Sch. 2 para. 9 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-79ebbdfabe0b0752ff567e195837d0fa]: Commencement: Sch. 2 para. 9 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-6dc57fac41d2735730f3ad8ac05adcf7]: Textual amendment: Word in [Sch. 2 para. 9(1)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/2/paragraph/9/1) substituted (9.4.2026) by [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
+[^c-6dc57fac41d2735730f3ad8ac05adcf7]: Textual amendment: Word in [Sch. 2 para. 9(1)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/2/paragraph/9/1) substituted (9.4.2026) by [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
 
-[^key-5ce2f410345077b49958b13f2b950c67]: Textual amendment: Word in [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/2/paragraph/9/2) omitted (9.4.2026) by virtue of [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
+[^c-5ce2f410345077b49958b13f2b950c67]: Textual amendment: Word in [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/2/paragraph/9/2) omitted (9.4.2026) by virtue of [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
 
-[^key-b1149e5dce23e401e158de1c28e51971]: Commencement: Sch. 2 para. 10 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-b1149e5dce23e401e158de1c28e51971]: Commencement: Sch. 2 para. 10 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-b0f3f34bfc4c0e96c6dd58b194b1a4c9]: Commencement: Sch. 2 para. 11 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-b0f3f34bfc4c0e96c6dd58b194b1a4c9]: Commencement: Sch. 2 para. 11 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-4268d3630ba1936d9585ee21a997f7ef]: Commencement: Sch. 2 para. 12 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-4268d3630ba1936d9585ee21a997f7ef]: Commencement: Sch. 2 para. 12 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-4c4b0936ea09ba5ab7626530ad33f904]: Commencement: Sch. 3 para. 1 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-4c4b0936ea09ba5ab7626530ad33f904]: Commencement: Sch. 3 para. 1 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
 [^f00011]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
 
@@ -2276,77 +2276,77 @@ A copy of the plans referred to in this Order and certified in accordance with a
 
 [^f00015]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-1f96dfe12744161fe1b475d29b081387]: Textual amendment: Word in [Sch. 3 para. 1(1)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/3/paragraph/1/1) inserted (9.4.2026) by [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
+[^c-1f96dfe12744161fe1b475d29b081387]: Textual amendment: Word in [Sch. 3 para. 1(1)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/3/paragraph/1/1) inserted (9.4.2026) by [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
 
-[^key-92696bfc55290dc0e7b64fc8eae3024c]: Commencement: Sch. 3 para. 2 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-92696bfc55290dc0e7b64fc8eae3024c]: Commencement: Sch. 3 para. 2 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-487fcef0a77816450e9e83f2b747405c]: Commencement: Sch. 3 para. 3 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-487fcef0a77816450e9e83f2b747405c]: Commencement: Sch. 3 para. 3 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-448c88f2fc6fc8820fca34324c15706a]: Commencement: Sch. 3 para. 4 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-448c88f2fc6fc8820fca34324c15706a]: Commencement: Sch. 3 para. 4 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-0a5b4ea1ae867b56672d381e7f64c279]: Commencement: Sch. 3 para. 5 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-0a5b4ea1ae867b56672d381e7f64c279]: Commencement: Sch. 3 para. 5 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-e6b8a409e2381562df6b850df34e3bda]: Commencement: Sch. 3 para. 6 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-e6b8a409e2381562df6b850df34e3bda]: Commencement: Sch. 3 para. 6 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-ab305b3e1cd3bc8c63538d63a9d7c235]: Commencement: Sch. 3 para. 7 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-ab305b3e1cd3bc8c63538d63a9d7c235]: Commencement: Sch. 3 para. 7 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-ad6dd8da4af24d8c2ae5b9aff94c07c3]: Commencement: Sch. 3 para. 8 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-ad6dd8da4af24d8c2ae5b9aff94c07c3]: Commencement: Sch. 3 para. 8 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-304e1541cd61b27e4ead511a18ebc778]: Commencement: Sch. 3 para. 9 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-304e1541cd61b27e4ead511a18ebc778]: Commencement: Sch. 3 para. 9 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-0f9e68bfc19c162f1e5f6b4285dc4142]: Commencement: Sch. 3 para. 10 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-0f9e68bfc19c162f1e5f6b4285dc4142]: Commencement: Sch. 3 para. 10 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-51c41ed0cdb7f81836da8958c2dd39fd]: Textual amendment: Words in [Sch. 3 para. 10(2)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/3/paragraph/10/2) substituted (9.4.2026) by [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
+[^c-51c41ed0cdb7f81836da8958c2dd39fd]: Textual amendment: Words in [Sch. 3 para. 10(2)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/3/paragraph/10/2) substituted (9.4.2026) by [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
 
-[^key-30f2ff5c7071d306515171dd638f8f5b]: Commencement: Sch. 3 para. 11 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-30f2ff5c7071d306515171dd638f8f5b]: Commencement: Sch. 3 para. 11 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-b5b7a4779be99d32f327eb12fb48865e]: Commencement: Sch. 3 para. 12 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-b5b7a4779be99d32f327eb12fb48865e]: Commencement: Sch. 3 para. 12 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-a5d132a38d55905aab9c8814c3b09fdd]: Commencement: Sch. 3 para. 13 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-a5d132a38d55905aab9c8814c3b09fdd]: Commencement: Sch. 3 para. 13 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-5e0f6ee586eb8c12f7f6a34239f60c68]: Commencement: Sch. 3 para. 14 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-5e0f6ee586eb8c12f7f6a34239f60c68]: Commencement: Sch. 3 para. 14 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-f38592041d387ab51ac4e1a4c2659d2e]: Commencement: Sch. 3 para. 15 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-f38592041d387ab51ac4e1a4c2659d2e]: Commencement: Sch. 3 para. 15 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-f2bf2ef71e9455ec054fd2d832b6d029]: Textual amendment: Word in [Sch. 3 para. 15(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/3/paragraph/15/1/a/ii) inserted (9.4.2026) by [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
+[^c-f2bf2ef71e9455ec054fd2d832b6d029]: Textual amendment: Word in [Sch. 3 para. 15(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/3/paragraph/15/1/a/ii) inserted (9.4.2026) by [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
 
-[^key-3b1fb7c9fda0d39d0579295f2e5558d0]: Commencement: Sch. 3 para. 16 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-3b1fb7c9fda0d39d0579295f2e5558d0]: Commencement: Sch. 3 para. 16 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-41209506e88c740a274aafabce75521b]: Commencement: Sch. 3 para. 17 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-41209506e88c740a274aafabce75521b]: Commencement: Sch. 3 para. 17 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-d813fb41cdcfe1c84424caee7b23d7d5]: Commencement: Sch. 3 para. 18 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-d813fb41cdcfe1c84424caee7b23d7d5]: Commencement: Sch. 3 para. 18 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-01af22a74be4f0f231efdb7e04526550]: Commencement: Sch. 3 para. 19 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-01af22a74be4f0f231efdb7e04526550]: Commencement: Sch. 3 para. 19 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-d1eda568812bd48cbd2438aa8682244c]: Commencement: Sch. 3 para. 20 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-d1eda568812bd48cbd2438aa8682244c]: Commencement: Sch. 3 para. 20 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-d62d23dc2485d331386eca57f04312c8]: Textual amendment: Sch. 3 para. 20(1)(ee)-(hh) renumbered as Sch. 3 para. 20(1)(e)(iv)-(vii) (9.4.2026) by [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
+[^c-d62d23dc2485d331386eca57f04312c8]: Textual amendment: Sch. 3 para. 20(1)(ee)-(hh) renumbered as Sch. 3 para. 20(1)(e)(iv)-(vii) (9.4.2026) by [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
 
-[^key-a6c29b26a6720bc98f5a6d22611a53d6]: Commencement: Sch. 3 para. 21 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-a6c29b26a6720bc98f5a6d22611a53d6]: Commencement: Sch. 3 para. 21 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-798b2abc0e43a62f2ceb97fb523263e3]: Commencement: Sch. 3 para. 22 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-798b2abc0e43a62f2ceb97fb523263e3]: Commencement: Sch. 3 para. 22 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-6c7adb28874831092bf54f22a865aecc]: Commencement: Sch. 3 para. 23 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-6c7adb28874831092bf54f22a865aecc]: Commencement: Sch. 3 para. 23 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-e15d19816313d0e1a94f2901c5c9f020]: Commencement: Sch. 3 para. 24 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-e15d19816313d0e1a94f2901c5c9f020]: Commencement: Sch. 3 para. 24 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-1893ce34f879588496bf9509f9a44031]: Commencement: Sch. 3 para. 25 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-1893ce34f879588496bf9509f9a44031]: Commencement: Sch. 3 para. 25 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-cffcee8b9e54f4312254e79f749f764e]: Commencement: Sch. 3 para. 26 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-cffcee8b9e54f4312254e79f749f764e]: Commencement: Sch. 3 para. 26 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-1b365318b895ae08db8c4f8a2d28bd6c]: Commencement: Sch. 3 para. 27 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-1b365318b895ae08db8c4f8a2d28bd6c]: Commencement: Sch. 3 para. 27 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-dfc4fccc0f55308b7b9fdb8f4adad5ec]: Commencement: Sch. 3 para. 28 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-dfc4fccc0f55308b7b9fdb8f4adad5ec]: Commencement: Sch. 3 para. 28 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-80d0177bd9b7bf20453a4bc8bb303197]: Commencement: Sch. 3 para. 29 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-80d0177bd9b7bf20453a4bc8bb303197]: Commencement: Sch. 3 para. 29 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-d44c6382100ba99097766f46b79e9748]: Commencement: Sch. 3 para. 30 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-d44c6382100ba99097766f46b79e9748]: Commencement: Sch. 3 para. 30 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-59de82f95320891f8edd65dd47d98205]: Commencement: Sch. 3 para. 31 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-59de82f95320891f8edd65dd47d98205]: Commencement: Sch. 3 para. 31 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-85178b6a1febc646ac6cd8877da9ada2]: Commencement: Sch. 3 para. 32 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-85178b6a1febc646ac6cd8877da9ada2]: Commencement: Sch. 3 para. 32 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-346e4b3890af38b9d6c5b24a59caf62f]: Commencement: Sch. 4 para. 1 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-346e4b3890af38b9d6c5b24a59caf62f]: Commencement: Sch. 4 para. 1 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
 [^f00016]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
 
@@ -2358,72 +2358,72 @@ A copy of the plans referred to in this Order and certified in accordance with a
 
 [^f00020]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-1ea53b831ed3af49dda9e2d3c23e1571]: Commencement: Sch. 4 para. 2 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-1ea53b831ed3af49dda9e2d3c23e1571]: Commencement: Sch. 4 para. 2 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-6ccacda163d8b22e940e50a68429ad24]: Commencement: Sch. 4 para. 3 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-6ccacda163d8b22e940e50a68429ad24]: Commencement: Sch. 4 para. 3 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-a5d84a46feadb3b8b89ee4d2b830e40c]: Commencement: Sch. 4 para. 4 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-a5d84a46feadb3b8b89ee4d2b830e40c]: Commencement: Sch. 4 para. 4 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-b0ec0549a7868a433909de6f466799ac]: Commencement: Sch. 4 para. 5 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-b0ec0549a7868a433909de6f466799ac]: Commencement: Sch. 4 para. 5 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-19254bb66b1c1ac58136fc9039aef956]: Commencement: Sch. 4 para. 6 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-19254bb66b1c1ac58136fc9039aef956]: Commencement: Sch. 4 para. 6 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-5e75effcdef94a0f7a7301c10e96d545]: Commencement: Sch. 4 para. 7 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-5e75effcdef94a0f7a7301c10e96d545]: Commencement: Sch. 4 para. 7 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-c2bebd6f4538b0f0c7def7ed4ad2ec4d]: Commencement: Sch. 4 para. 8 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-c2bebd6f4538b0f0c7def7ed4ad2ec4d]: Commencement: Sch. 4 para. 8 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-c7bc7ee471ce30cad2607503471b9c8f]: Commencement: Sch. 4 para. 9 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-c7bc7ee471ce30cad2607503471b9c8f]: Commencement: Sch. 4 para. 9 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-41d0adeb05c734be170054ec37a4437f]: Commencement: Sch. 4 para. 10 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-41d0adeb05c734be170054ec37a4437f]: Commencement: Sch. 4 para. 10 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-eb6875a27bb83b20eee6fb116512ca53]: Commencement: Sch. 4 para. 11 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-eb6875a27bb83b20eee6fb116512ca53]: Commencement: Sch. 4 para. 11 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-288cf4c7877392d56668d741c7e9cdf6]: Commencement: Sch. 4 para. 12 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-288cf4c7877392d56668d741c7e9cdf6]: Commencement: Sch. 4 para. 12 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-ff0a39cd2dc88a43f64085dc270fb04b]: Commencement: Sch. 4 para. 13 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-ff0a39cd2dc88a43f64085dc270fb04b]: Commencement: Sch. 4 para. 13 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-61a3201ae2acd2917777eee4618e5067]: Commencement: Sch. 4 para. 14 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-61a3201ae2acd2917777eee4618e5067]: Commencement: Sch. 4 para. 14 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-7382bf7790bacaae71f9f20e5d6abd41]: Commencement: Sch. 4 para. 15 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-7382bf7790bacaae71f9f20e5d6abd41]: Commencement: Sch. 4 para. 15 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-56aa77a8b1df24c824afcac44e5d4ab5]: Commencement: Sch. 4 para. 16 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-56aa77a8b1df24c824afcac44e5d4ab5]: Commencement: Sch. 4 para. 16 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-dabd674040d34dd817db0a5f6f9be9d7]: Commencement: Sch. 4 para. 17 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-dabd674040d34dd817db0a5f6f9be9d7]: Commencement: Sch. 4 para. 17 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-5b1d823567c88b7bc9dc56f92ca5b649]: Commencement: Sch. 4 para. 18 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-5b1d823567c88b7bc9dc56f92ca5b649]: Commencement: Sch. 4 para. 18 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-808980fea91096e595ffeed3e932605c]: Commencement: Sch. 4 para. 19 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-808980fea91096e595ffeed3e932605c]: Commencement: Sch. 4 para. 19 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-e749aaafe66052e94f1a491a6f5c9ce1]: Commencement: Sch. 4 para. 20 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-e749aaafe66052e94f1a491a6f5c9ce1]: Commencement: Sch. 4 para. 20 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-20d5e31ede414e615b36135fa54d53f4]: Textual amendment: Word in [Sch. 4 para. 20(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/4/paragraph/20/1/c/ii) inserted (9.4.2026) by [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
+[^c-20d5e31ede414e615b36135fa54d53f4]: Textual amendment: Word in [Sch. 4 para. 20(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/4/paragraph/20/1/c/ii) inserted (9.4.2026) by [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
 
-[^key-079ab33d07e02cb3446bfad4ebf89de6]: Textual amendment: Word in [Sch. 4 para. 20(1)(c)(iii)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/4/paragraph/20/1/c/iii) omitted (9.4.2026) by virtue of [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
+[^c-079ab33d07e02cb3446bfad4ebf89de6]: Textual amendment: Word in [Sch. 4 para. 20(1)(c)(iii)](https://www.legislation.gov.uk/uksi/2025/1012/schedule/4/paragraph/20/1/c/iii) omitted (9.4.2026) by virtue of [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
 
-[^key-cb7a6903d57694f7c36146530e245653]: Textual amendment: Sch. 4 para. 20(1)(ee)-(hh) renumbered as Sch. 4 para. 20(1)(e)(iv)-(vii) (9.4.2026) by [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
+[^c-cb7a6903d57694f7c36146530e245653]: Textual amendment: Sch. 4 para. 20(1)(ee)-(hh) renumbered as Sch. 4 para. 20(1)(e)(iv)-(vii) (9.4.2026) by [The Morgan Offshore Wind Project Generation Assets (Correction) Order 2026 (S.I. 2026/441)](https://www.legislation.gov.uk/uksi/2026/441), [art. 1](https://www.legislation.gov.uk/uksi/2026/441/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/441/schedule)
 
-[^key-b2187ea7504eb44a7a74921cfff75b6d]: Commencement: Sch. 4 para. 21 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-b2187ea7504eb44a7a74921cfff75b6d]: Commencement: Sch. 4 para. 21 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-ba08533c33f7150aef1948dc5faed5c8]: Commencement: Sch. 4 para. 22 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-ba08533c33f7150aef1948dc5faed5c8]: Commencement: Sch. 4 para. 22 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-231360510dba7a8cc9483324686aed43]: Commencement: Sch. 4 para. 23 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-231360510dba7a8cc9483324686aed43]: Commencement: Sch. 4 para. 23 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-43bc57e21786b5fbcc1332ef38ad4d53]: Commencement: Sch. 4 para. 24 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-43bc57e21786b5fbcc1332ef38ad4d53]: Commencement: Sch. 4 para. 24 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-1d073c541fd3781cc0de5459c72d0f87]: Commencement: Sch. 4 para. 25 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-1d073c541fd3781cc0de5459c72d0f87]: Commencement: Sch. 4 para. 25 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-22dd4152c9b4ef26fbecba4007c7a132]: Commencement: Sch. 4 para. 26 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-22dd4152c9b4ef26fbecba4007c7a132]: Commencement: Sch. 4 para. 26 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-27609a0e7c67ca060b11a7701ccbcbce]: Commencement: Sch. 4 para. 27 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-27609a0e7c67ca060b11a7701ccbcbce]: Commencement: Sch. 4 para. 27 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-01b98afbe57ba7acf2257eac357a226d]: Commencement: Sch. 4 para. 28 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-01b98afbe57ba7acf2257eac357a226d]: Commencement: Sch. 4 para. 28 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-29a25cd51aeb612635b37bd099810329]: Commencement: Sch. 4 para. 29 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-29a25cd51aeb612635b37bd099810329]: Commencement: Sch. 4 para. 29 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-dea7f1887e7fffed2650670148db608f]: Commencement: Sch. 4 para. 30 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-dea7f1887e7fffed2650670148db608f]: Commencement: Sch. 4 para. 30 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-2b88aa592b18e9918195f22e3efbf1df]: Commencement: Sch. 4 para. 31 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-2b88aa592b18e9918195f22e3efbf1df]: Commencement: Sch. 4 para. 31 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-9adc218f85e609ae2cc5316fb0d5629d]: Commencement: Sch. 4 para. 32 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-9adc218f85e609ae2cc5316fb0d5629d]: Commencement: Sch. 4 para. 32 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
 
-[^key-9b42b47fc48321c9d0de4bd390ede0d8]: Commencement: Sch. 5 para. 1 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)
+[^c-9b42b47fc48321c9d0de4bd390ede0d8]: Commencement: Sch. 5 para. 1 in force at 22.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1012/article/1)

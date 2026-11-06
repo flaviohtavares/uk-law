@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-76e7096bae5bded7a4f34e02868a0699][^key-0645ba728dbf13cca29ac70ae2365de7] Section 14A of the Child Support Act 1991 (offences relating to information) is amended as follows.
+(1)[^c-76e7096bae5bded7a4f34e02868a0699][^c-0645ba728dbf13cca29ac70ae2365de7] Section 14A of the Child Support Act 1991 (offences relating to information) is amended as follows.
 
-(2)[^key-d9d3930e312a1719085385b0a204316a] For subsection (3A) substitute—
+(2)[^c-d9d3930e312a1719085385b0a204316a] For subsection (3A) substitute—
 
 > (3A) In the case of regulations under section 14 which require a person liable to make payments of child support maintenance to notify—
 >
@@ -31,7 +31,7 @@ summary: ''
 >
 > a person who fails to comply with the requirement is guilty of an offence.
 
-(3)[^key-cfa7f2e529e762b21783d5e4f7310f76] After subsection (5) insert—
+(3)[^c-cfa7f2e529e762b21783d5e4f7310f76] After subsection (5) insert—
 
 > (6) In England and Wales, an information relating to an offence under subsection (2) may be tried by a magistrates' court if it is laid within the period of 12 months beginning with the commission of the offence.
 >
@@ -41,10 +41,10 @@ summary: ''
 
 ## Annotations
 
-[^key-76e7096bae5bded7a4f34e02868a0699]: Commencement: S. 55(1) in force at 14.1.2010 for specified purposes by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(3)](https://www.legislation.gov.uk/uksi/2010/45/article/2/3)
+[^c-76e7096bae5bded7a4f34e02868a0699]: Commencement: S. 55(1) in force at 14.1.2010 for specified purposes by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(3)](https://www.legislation.gov.uk/uksi/2010/45/article/2/3)
 
-[^key-0645ba728dbf13cca29ac70ae2365de7]: Commencement: S. 55(1) in force at 8.10.2012 in so far as not already in force by [S.I. 2012/2523](https://www.legislation.gov.uk/uksi/2012/2523), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2012/2523/article/2/1/d)
+[^c-0645ba728dbf13cca29ac70ae2365de7]: Commencement: S. 55(1) in force at 8.10.2012 in so far as not already in force by [S.I. 2012/2523](https://www.legislation.gov.uk/uksi/2012/2523), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2012/2523/article/2/1/d)
 
-[^key-d9d3930e312a1719085385b0a204316a]: Commencement: S. 55(2) in force at 8.10.2012 by [S.I. 2012/2523](https://www.legislation.gov.uk/uksi/2012/2523), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2012/2523/article/2/1/d)
+[^c-d9d3930e312a1719085385b0a204316a]: Commencement: S. 55(2) in force at 8.10.2012 by [S.I. 2012/2523](https://www.legislation.gov.uk/uksi/2012/2523), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2012/2523/article/2/1/d)
 
-[^key-cfa7f2e529e762b21783d5e4f7310f76]: Commencement: S. 55(3) in force at 14.1.2010 by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(3)](https://www.legislation.gov.uk/uksi/2010/45/article/2/3)
+[^c-cfa7f2e529e762b21783d5e4f7310f76]: Commencement: S. 55(3) in force at 14.1.2010 by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(3)](https://www.legislation.gov.uk/uksi/2010/45/article/2/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Amendments relating to the judiciary[^key-7528f8bcf9cc631154a8c911aae1b83c][^key-3c0d4ac09d75d2b1a7fa5276cfb13781]
+## 97. Amendments relating to the judiciary[^c-7528f8bcf9cc631154a8c911aae1b83c][^c-3c0d4ac09d75d2b1a7fa5276cfb13781]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7528f8bcf9cc631154a8c911aae1b83c]: Commencement: S. 97 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-7528f8bcf9cc631154a8c911aae1b83c]: Commencement: S. 97 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-3c0d4ac09d75d2b1a7fa5276cfb13781]: Commencement: S. 97 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
+[^c-3c0d4ac09d75d2b1a7fa5276cfb13781]: Commencement: S. 97 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 212. Repeals: Digital Economy Act 2017[^key-ced08207dcf4115e4f4b0e3feb8e14ac]
+## 212. Repeals: Digital Economy Act 2017[^c-ced08207dcf4115e4f4b0e3feb8e14ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ced08207dcf4115e4f4b0e3feb8e14ac]: Commencement: S. 212 in force at Royal Assent, see [s. 240(z1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z1)
+[^c-ced08207dcf4115e4f4b0e3feb8e14ac]: Commencement: S. 212 in force at Royal Assent, see [s. 240(z1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z1)

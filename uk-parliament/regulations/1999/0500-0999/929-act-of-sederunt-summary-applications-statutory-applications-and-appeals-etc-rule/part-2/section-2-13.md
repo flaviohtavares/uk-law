@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.13. Service where address of person is not known[^key-ab9f0f52f95c9e746e4e540d4f35f955]
+## 2.13. Service where address of person is not known[^c-ab9f0f52f95c9e746e4e540d4f35f955]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ and any period of notice contained in the warrant of citation shall run from the
 
 ## Annotations
 
-[^key-ab9f0f52f95c9e746e4e540d4f35f955]: Commencement: Rule 2.13 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-ab9f0f52f95c9e746e4e540d4f35f955]: Commencement: Rule 2.13 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

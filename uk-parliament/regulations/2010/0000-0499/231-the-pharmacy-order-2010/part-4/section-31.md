@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 31. Voluntary removal from the Register[^key-33b30f1461862002ec19dbc850ac929f][^key-51b3bbf77a3f7e5cb7acd67a25a3ea9d]
+## 31. Voluntary removal from the Register[^c-33b30f1461862002ec19dbc850ac929f][^c-51b3bbf77a3f7e5cb7acd67a25a3ea9d]
 
 *Extent: E+W+S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-33b30f1461862002ec19dbc850ac929f]: Commencement: Art. 31 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-33b30f1461862002ec19dbc850ac929f]: Commencement: Art. 31 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-51b3bbf77a3f7e5cb7acd67a25a3ea9d]: Commencement: [Art. 31](https://www.legislation.gov.uk/uksi/2010/231/article/31) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-51b3bbf77a3f7e5cb7acd67a25a3ea9d]: Commencement: [Art. 31](https://www.legislation.gov.uk/uksi/2010/231/article/31) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)

@@ -99,7 +99,7 @@ HAS ADOPTED THIS DECISION:
 
 3. The individual eco-innovation code to be entered into type-approval documentation to be used for the innovative technology approved through this Implementing Decision shall be ‘7’.
 
-**Article 2.**[^key-a15c4a62733ce291ab15858f7eac6a64] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-a15c4a62733ce291ab15858f7eac6a64] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Done at Brussels, 18 November 2014.
 
@@ -393,7 +393,7 @@ Where the CO<sub>2</sub> emission savings, as a result of the calculation using 
 
 [^f00005]: Footnote: Commission Regulation (EC) No 692/2008 of 18 July 2008 implementing and amending Regulation (EC) No 715/2007 of the European Parliament and of the Council on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information ([OJ L 199, 28.7.2008, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.199.01.0001.01.ENG)).
 
-[^key-a15c4a62733ce291ab15858f7eac6a64]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2014/806/article/2) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/550)](https://www.legislation.gov.uk/uksi/2019/550), [regs. 1](https://www.legislation.gov.uk/uksi/2019/550/regulation/1), [12(2)](https://www.legislation.gov.uk/uksi/2019/550/regulation/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a15c4a62733ce291ab15858f7eac6a64]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2014/806/article/2) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/550)](https://www.legislation.gov.uk/uksi/2019/550), [regs. 1](https://www.legislation.gov.uk/uksi/2019/550/regulation/1), [12(2)](https://www.legislation.gov.uk/uksi/2019/550/regulation/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00006]: Footnote: IEC 61215. Crystalline silicon terrestrial photovoltaic (PV) modules — Design qualification and type-approval. Reference number IEC 61215:2005(E).
 

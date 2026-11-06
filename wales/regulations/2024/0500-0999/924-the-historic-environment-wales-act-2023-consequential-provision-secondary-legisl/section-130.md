@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**130.**[^key-d4ce85311947a320e9f41f9b18adf26b] In regulation 6(2) and regulation 7(2)(c), for “section 2A of the 1990 Act” substitute “section 78 of the 2023 Act”.
+**130.**[^c-d4ce85311947a320e9f41f9b18adf26b] In regulation 6(2) and regulation 7(2)(c), for “section 2A of the 1990 Act” substitute “section 78 of the 2023 Act”.
 
 ## Annotations
 
-[^key-d4ce85311947a320e9f41f9b18adf26b]: Commencement: [Reg. 130](https://www.legislation.gov.uk/wsi/2024/924/regulation/130) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-d4ce85311947a320e9f41f9b18adf26b]: Commencement: [Reg. 130](https://www.legislation.gov.uk/wsi/2024/924/regulation/130) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

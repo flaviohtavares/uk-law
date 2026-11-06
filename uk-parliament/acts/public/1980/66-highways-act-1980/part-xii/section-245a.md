@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 245A. Acquisition of land by Secretary of State , strategic highways company or Assembly for buildings etc. needed for traffic management purposes[^c18852201][^key-8f77d104bb8f47755880e50da3d805bc]
+## 245A. Acquisition of land by Secretary of State , strategic highways company or Assembly for buildings etc. needed for traffic management purposes[^c18852201][^c-8f77d104bb8f47755880e50da3d805bc]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) for use by, or in connection with the activities of, traffic officers in England; or
 - (b) for other purposes connected with the management of traffic on highways in England for which he is the highway authority.
 
-(1A)[^key-75931b65b26411c1db2d86c36257a9ac] A strategic highways company may acquire land in England which in its opinion is required for the provision of any buildings or facilities which are needed—
+(1A)[^c-75931b65b26411c1db2d86c36257a9ac] A strategic highways company may acquire land in England which in its opinion is required for the provision of any buildings or facilities which are needed—
 
 - (a) for use by, or in connection with the activities of, traffic officers in the area for which it is appointed in accordance with Part 1 of the Infrastructure Act 2015; or
 - (b) for other purposes connected with the management of traffic on highways in that area and for which it is the highway authority.
@@ -39,6 +39,6 @@ summary: ''
 
 [^c18852201]: Textual amendment: S. 245A inserted (4.10.2004 for E. for specified purposes, 1.5.2009 for W. for specified purposes and otherwise prosp.) by [Traffic Management Act 2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18), [ss. 13](https://www.legislation.gov.uk/ukpga/2004/18/section/13), [99](https://www.legislation.gov.uk/ukpga/2004/18/section/99) (with [s. 38](https://www.legislation.gov.uk/ukpga/2004/18/section/38)); [S.I. 2004/2380](https://www.legislation.gov.uk/uksi/2004/2380), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/2380/article/2/b); [S.I. 2009/1095](https://www.legislation.gov.uk/uksi/2009/1095), [art. 2](https://www.legislation.gov.uk/uksi/2009/1095/article/2)
 
-[^key-8f77d104bb8f47755880e50da3d805bc]: Textual amendment: Words in s. 245A heading inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 47(3)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/47/3); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-8f77d104bb8f47755880e50da3d805bc]: Textual amendment: Words in s. 245A heading inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 47(3)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/47/3); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
-[^key-75931b65b26411c1db2d86c36257a9ac]: Textual amendment: [S. 245A(1A)](https://www.legislation.gov.uk/ukpga/1980/66/section/245A/1A) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 47(2)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/47/2); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-75931b65b26411c1db2d86c36257a9ac]: Textual amendment: [S. 245A(1A)](https://www.legislation.gov.uk/ukpga/1980/66/section/245A/1A) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 47(2)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/47/2); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)

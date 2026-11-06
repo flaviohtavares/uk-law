@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. The Independent Anti-slavery Commissioner[^key-5ee8a0439cb1685bbd16d02177c1b355]
+## 40. The Independent Anti-slavery Commissioner[^c-5ee8a0439cb1685bbd16d02177c1b355]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ee8a0439cb1685bbd16d02177c1b355]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2015/30/section/40) in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/c)
+[^c-5ee8a0439cb1685bbd16d02177c1b355]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2015/30/section/40) in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/c)

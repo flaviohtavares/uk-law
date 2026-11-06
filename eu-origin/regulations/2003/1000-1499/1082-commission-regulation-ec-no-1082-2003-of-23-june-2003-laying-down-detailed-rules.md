@@ -95,9 +95,9 @@ HAS ADOPTED THIS REGULATION:
   - ((i)) the proper keeping of the holding register, as provided for by Commission Regulation (EC) No 2629/97[^f00006];
   - ((ii)) the proper keeping of passports of the animals present in the holding, as provided for by Regulation (EC) No 2629/97;
 - (f) proper communication of the data to the competent authority;
-- (g) other criteria to be defined by the appropriate Minister[^key-b57cea41da4412c69eec7a06cbaaab54].
+- (g) other criteria to be defined by the appropriate Minister[^c-b57cea41da4412c69eec7a06cbaaab54].
 
-5. Each inspection shall be the subject of a report standardised by the competent authority[^key-cee717464ab5af1d86e24e184206aec8] setting out the results of the controls and any unsatisfactory findings, the reason for the control and the persons present. The keeper or his representative shall be given the opportunity to sign the report and, as appropriate, to give his observations on its content.
+5. Each inspection shall be the subject of a report standardised by the competent authority[^c-cee717464ab5af1d86e24e184206aec8] setting out the results of the controls and any unsatisfactory findings, the reason for the control and the persons present. The keeper or his representative shall be given the opportunity to sign the report and, as appropriate, to give his observations on its content.
 
 6. Copies of the reports referred to in paragraph 5 shall, where they reveal infringements of Regulation (EC) No 1760/2000, be sent without delay to the competent authorities responsible for the implementation of Commission Regulation (EC) No 2419/2001[^f00007].
 
@@ -107,7 +107,7 @@ However, where the number of animals on the holding exceeds 20, the competent au
 
 **Article 4.** On-the-spot checks shall in general be unannounced. Where advance warning is given, it shall be limited to the strict minimum necessary and as a general rule shall not exceed 48 hours.
 
-**Article 5.**[^key-68e4760fcfb5776ffe5c5674804e5d70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-68e4760fcfb5776ffe5c5674804e5d70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Article 6.** Regulation (EC) No 2630/97 is repealed.
 
@@ -117,23 +117,23 @@ References to the repealed Regulation shall be construed as references to this R
 
 [^M_F_c053ea78-08ca-4667-c681-16dedffb013e]...
 
-## ANNEX I — Report on the results of checks carried out in accordance with Title I of Regulation (EC) No 1760/2000[^key-5f337073798992b339716bc4f1b24f97]
+## ANNEX I — Report on the results of checks carried out in accordance with Title I of Regulation (EC) No 1760/2000[^c-5f337073798992b339716bc4f1b24f97]
 
 **No longer in force.**
 
-[^key-5f337073798992b339716bc4f1b24f97]1.
+[^c-5f337073798992b339716bc4f1b24f97]1.
 
 General information on holdings and animals
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f337073798992b339716bc4f1b24f97]2.
+[^c-5f337073798992b339716bc4f1b24f97]2.
 
 Non-Compliance with Regulation (EC) No 1760/2000
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f337073798992b339716bc4f1b24f97]3.
+[^c-5f337073798992b339716bc4f1b24f97]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -188,14 +188,14 @@ Correlation table
 
 [^f00006]: Footnote: [OJ L 354, 30.12.1997, p. 19](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1997.354.01.0019.01.ENG).
 
-[^key-b57cea41da4412c69eec7a06cbaaab54]: Textual amendment: Words in [Art. 2(4)(g)](https://www.legislation.gov.uk/eur/2003/1082/article/2/4/g) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2019/814/regulation/5/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b57cea41da4412c69eec7a06cbaaab54]: Textual amendment: Words in [Art. 2(4)(g)](https://www.legislation.gov.uk/eur/2003/1082/article/2/4/g) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2019/814/regulation/5/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cee717464ab5af1d86e24e184206aec8]: Textual amendment: Words in [Art. 2(5)](https://www.legislation.gov.uk/eur/2003/1082/article/2/5) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2019/814/regulation/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cee717464ab5af1d86e24e184206aec8]: Textual amendment: Words in [Art. 2(5)](https://www.legislation.gov.uk/eur/2003/1082/article/2/5) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2019/814/regulation/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00007]: Footnote: [OJ L 327, 12.12.2001, p. 11](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2001.327.01.0011.01.ENG).
 
-[^key-68e4760fcfb5776ffe5c5674804e5d70]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eur/2003/1082/article/5) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2019/814/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-68e4760fcfb5776ffe5c5674804e5d70]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eur/2003/1082/article/5) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2019/814/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_c053ea78-08ca-4667-c681-16dedffb013e]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2019/814/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5f337073798992b339716bc4f1b24f97]: Textual amendment: [Annex 1](https://www.legislation.gov.uk/eur/2003/1082/annex/I) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [5(5)](https://www.legislation.gov.uk/uksi/2019/814/regulation/5/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5f337073798992b339716bc4f1b24f97]: Textual amendment: [Annex 1](https://www.legislation.gov.uk/eur/2003/1082/annex/I) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [5(5)](https://www.legislation.gov.uk/uksi/2019/814/regulation/5/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

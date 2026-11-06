@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 134. Use by local housing authority of certain information[^key-8d376b6b8bc5b3334aa433240f7e07b3]
+## 134. Use by local housing authority of certain information[^c-8d376b6b8bc5b3334aa433240f7e07b3]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d376b6b8bc5b3334aa433240f7e07b3]: Commencement: [S. 134](https://www.legislation.gov.uk/ukpga/2025/26/section/134) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)
+[^c-8d376b6b8bc5b3334aa433240f7e07b3]: Commencement: [S. 134](https://www.legislation.gov.uk/ukpga/2025/26/section/134) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)

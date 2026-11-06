@@ -32,7 +32,7 @@ summary: ''
 
 Town And Country Planning, England
 
-The Town and Country Planning (Development Management Procedure) (England) (Amendment No. 2) Order 2013 (revoked)[^key-fb6226af3e4a2f71fd69a1a01b34ba08]
+The Town and Country Planning (Development Management Procedure) (England) (Amendment No. 2) Order 2013 (revoked)[^c-fb6226af3e4a2f71fd69a1a01b34ba08]
 
 Made
 
@@ -46,67 +46,67 @@ Coming into force
 
 1st October 2013
 
-[^key-fb6226af3e4a2f71fd69a1a01b34ba08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb6226af3e4a2f71fd69a1a01b34ba08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-fb6226af3e4a2f71fd69a1a01b34ba08]
+## 1. Citation, commencement and application[^c-fb6226af3e4a2f71fd69a1a01b34ba08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Town and Country Planning (Development Management Procedure) (England) Order 2010[^key-fb6226af3e4a2f71fd69a1a01b34ba08]
+## 2. Amendments to the Town and Country Planning (Development Management Procedure) (England) Order 2010[^c-fb6226af3e4a2f71fd69a1a01b34ba08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provisions[^key-fb6226af3e4a2f71fd69a1a01b34ba08]
+## 3. Transitional provisions[^c-fb6226af3e4a2f71fd69a1a01b34ba08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fb6226af3e4a2f71fd69a1a01b34ba08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb6226af3e4a2f71fd69a1a01b34ba08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-fb6226af3e4a2f71fd69a1a01b34ba08]
+## SCHEDULE 1[^c-fb6226af3e4a2f71fd69a1a01b34ba08]
 
 Article 2(5)
 
-> **SCHEDULE 1A — Minor commercial development uses[^key-fb6226af3e4a2f71fd69a1a01b34ba08]**
+> **SCHEDULE 1A — Minor commercial development uses[^c-fb6226af3e4a2f71fd69a1a01b34ba08]**
 >
 > Article 2(1)
 >
-> **1. Shops[^key-fb6226af3e4a2f71fd69a1a01b34ba08]**
+> **1. Shops[^c-fb6226af3e4a2f71fd69a1a01b34ba08]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2. Financial and professional services[^key-fb6226af3e4a2f71fd69a1a01b34ba08]**
+> **2. Financial and professional services[^c-fb6226af3e4a2f71fd69a1a01b34ba08]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3. Restaurants and cafes[^key-fb6226af3e4a2f71fd69a1a01b34ba08]**
+> **3. Restaurants and cafes[^c-fb6226af3e4a2f71fd69a1a01b34ba08]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4. Drinking establishments[^key-fb6226af3e4a2f71fd69a1a01b34ba08]**
+> **4. Drinking establishments[^c-fb6226af3e4a2f71fd69a1a01b34ba08]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5. Hot food takeaways[^key-fb6226af3e4a2f71fd69a1a01b34ba08]**
+> **5. Hot food takeaways[^c-fb6226af3e4a2f71fd69a1a01b34ba08]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-fb6226af3e4a2f71fd69a1a01b34ba08]
+## SCHEDULE 2[^c-fb6226af3e4a2f71fd69a1a01b34ba08]
 
 Article 2(6)(a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3[^key-fb6226af3e4a2f71fd69a1a01b34ba08]
+## SCHEDULE 3[^c-fb6226af3e4a2f71fd69a1a01b34ba08]
 
 Article 2(6)(b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4[^key-fb6226af3e4a2f71fd69a1a01b34ba08]
+## SCHEDULE 4[^c-fb6226af3e4a2f71fd69a1a01b34ba08]
 
 Article 2(7)
 
@@ -114,8 +114,8 @@ Article 2(7)
 
 **May not be in force at this date. Check the source.**
 
-[^key-fb6226af3e4a2f71fd69a1a01b34ba08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb6226af3e4a2f71fd69a1a01b34ba08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fb6226af3e4a2f71fd69a1a01b34ba08]: Textual amendment: Order revoked (15.4.2015) by [The Town and Country Planning (Development Management Procedure) (England) Order 2015 (S.I. 2015/595)](https://www.legislation.gov.uk/uksi/2015/595), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/595/article/1/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2015/595/schedule/9) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/595/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2015/595/article/1/4), [47](https://www.legislation.gov.uk/uksi/2015/595/article/47))
+[^c-fb6226af3e4a2f71fd69a1a01b34ba08]: Textual amendment: Order revoked (15.4.2015) by [The Town and Country Planning (Development Management Procedure) (England) Order 2015 (S.I. 2015/595)](https://www.legislation.gov.uk/uksi/2015/595), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/595/article/1/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2015/595/schedule/9) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/595/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2015/595/article/1/4), [47](https://www.legislation.gov.uk/uksi/2015/595/article/47))

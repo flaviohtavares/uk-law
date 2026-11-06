@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46A. Prescribed form for canvass[^key-b87b048998bd1db75b6d960e2ab914ff]
+## 46A. Prescribed form for canvass[^c-b87b048998bd1db75b6d960e2ab914ff]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b87b048998bd1db75b6d960e2ab914ff]: Textual amendment: [Reg. 46A](https://www.legislation.gov.uk/uksi/2008/1741/regulation/46A) revoked (6.7.2020) by [The Representation of the People (Form of Canvass) (Northern Ireland) Regulations 2020 (S.I. 2020/580)](https://www.legislation.gov.uk/uksi/2020/580), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/580/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2020/580/regulation/7/a)
+[^c-b87b048998bd1db75b6d960e2ab914ff]: Textual amendment: [Reg. 46A](https://www.legislation.gov.uk/uksi/2008/1741/regulation/46A) revoked (6.7.2020) by [The Representation of the People (Form of Canvass) (Northern Ireland) Regulations 2020 (S.I. 2020/580)](https://www.legislation.gov.uk/uksi/2020/580), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/580/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2020/580/regulation/7/a)

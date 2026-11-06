@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Amount of the fee loan[^key-dfe77b8daba731f0e287e48ad751d346]
+## 23. Amount of the fee loan[^c-dfe77b8daba731f0e287e48ad751d346]
 
 *Extent: N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfe77b8daba731f0e287e48ad751d346]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2007/195/regulation/23) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-dfe77b8daba731f0e287e48ad751d346]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2007/195/regulation/23) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 274. Application of Chapter 12[^key-d607e5373522591456ec1343ef919df3]
+## 274. Application of Chapter 12[^c-d607e5373522591456ec1343ef919df3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Chapter applies in relation to decisions of the court under the Regulations
 
 ## Annotations
 
-[^key-d607e5373522591456ec1343ef919df3]: Commencement: [Rule 274](https://www.legislation.gov.uk/uksi/2011/1301/rule/274) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-d607e5373522591456ec1343ef919df3]: Commencement: [Rule 274](https://www.legislation.gov.uk/uksi/2011/1301/rule/274) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

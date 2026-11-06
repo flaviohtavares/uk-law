@@ -42,15 +42,15 @@ Coming into force
 
 The Secretary of State has consulted in accordance with section 21(3) of the Terrorism Prevention and Investigation Measures Act 2011[^f00001].
 
-The Secretary of State makes the following Order in exercise of the power conferred by section 21(2)(c) of that Act.[^key-ab08b152420a3432b054b651e5a5476c]
+The Secretary of State makes the following Order in exercise of the power conferred by section 21(2)(c) of that Act.[^c-ab08b152420a3432b054b651e5a5476c]
 
-In accordance with section 21(4) of that Act, a draft of this Order was laid before Parliament and approved by resolution of each House of Parliament:[^key-ab08b152420a3432b054b651e5a5476c]
+In accordance with section 21(4) of that Act, a draft of this Order was laid before Parliament and approved by resolution of each House of Parliament:[^c-ab08b152420a3432b054b651e5a5476c]
 
-## 1. Citation and commencement[^key-1b8bd4d6ffe43d6e61ef16be6fafba17]
+## 1. Citation and commencement[^c-1b8bd4d6ffe43d6e61ef16be6fafba17]
 
 This Order may be cited as the Terrorism Prevention and Investigation Measures Act 2011 (Continuation) Order 2016 and comes into force on 13th December 2016.
 
-## 2. Continuation of TPIM powers[^key-028bd715d7d95657ec2b4705bcc0c476]
+## 2. Continuation of TPIM powers[^c-028bd715d7d95657ec2b4705bcc0c476]
 
 The Secretary of State’s TPIM powers are not to expire at the time they would otherwise expire under section 21(1) of the Terrorism Prevention and Investigation Measures Act 2011 but will continue in force until the end of 13th December 2021.
 
@@ -72,8 +72,8 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00001]: Footnote: [2011 c.23](https://www.legislation.gov.uk/ukpga/2011/23)
 
-[^key-ab08b152420a3432b054b651e5a5476c]: Modification: [Order](https://www.legislation.gov.uk/uksi/2016/1166) modified (13.12.2021) by [The Terrorism Prevention and Investigation Measures Act 2011 (Continuation) Order 2021 (S.I. 2021/1386)](https://www.legislation.gov.uk/uksi/2021/1386), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1386/article/1/1), [2](https://www.legislation.gov.uk/uksi/2021/1386/article/2)
+[^c-ab08b152420a3432b054b651e5a5476c]: Modification: [Order](https://www.legislation.gov.uk/uksi/2016/1166) modified (13.12.2021) by [The Terrorism Prevention and Investigation Measures Act 2011 (Continuation) Order 2021 (S.I. 2021/1386)](https://www.legislation.gov.uk/uksi/2021/1386), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1386/article/1/1), [2](https://www.legislation.gov.uk/uksi/2021/1386/article/2)
 
-[^key-1b8bd4d6ffe43d6e61ef16be6fafba17]: Commencement: Art. 1 in force at 13.12.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1166/article/1)
+[^c-1b8bd4d6ffe43d6e61ef16be6fafba17]: Commencement: Art. 1 in force at 13.12.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1166/article/1)
 
-[^key-028bd715d7d95657ec2b4705bcc0c476]: Commencement: Art. 2 in force at 13.12.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1166/article/1)
+[^c-028bd715d7d95657ec2b4705bcc0c476]: Commencement: Art. 2 in force at 13.12.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1166/article/1)

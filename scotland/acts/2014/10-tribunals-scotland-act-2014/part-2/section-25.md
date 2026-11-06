@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Assignment to post[^key-95013bf15368855c483c5a3ada060f09]
+## 25. Assignment to post[^c-95013bf15368855c483c5a3ada060f09]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95013bf15368855c483c5a3ada060f09]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2014/10/section/25) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-95013bf15368855c483c5a3ada060f09]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2014/10/section/25) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

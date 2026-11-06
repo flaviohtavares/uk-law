@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Bearer shares[^key-e973663efccc8fa0e030701e7848dd95]
+## 48. Bearer shares[^c-e973663efccc8fa0e030701e7848dd95]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ An open-ended investment company may, if its instrument of incorporation so prov
 
 ## Annotations
 
-[^key-e973663efccc8fa0e030701e7848dd95]: Commencement: [Reg. 48](https://www.legislation.gov.uk/nisr/2004/335/regulation/48) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-e973663efccc8fa0e030701e7848dd95]: Commencement: [Reg. 48](https://www.legislation.gov.uk/nisr/2004/335/regulation/48) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

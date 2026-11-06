@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 134. Meaning of “eligible child”[^key-253b73309d13dfd3463a495fb7112210]
+## 134. Meaning of “eligible child”[^c-253b73309d13dfd3463a495fb7112210]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-253b73309d13dfd3463a495fb7112210]: Commencement: Reg. 134 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-253b73309d13dfd3463a495fb7112210]: Commencement: Reg. 134 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

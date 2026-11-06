@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Options under this Chapter[^key-509ef0d1e85b97628f95c3d2319c3311]
+## 72. Options under this Chapter[^c-509ef0d1e85b97628f95c3d2319c3311]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ The options under this Chapter are—
 
 ## Annotations
 
-[^key-509ef0d1e85b97628f95c3d2319c3311]: Commencement: [Reg. 72](https://www.legislation.gov.uk/uksi/2015/182/regulation/72) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-509ef0d1e85b97628f95c3d2319c3311]: Commencement: [Reg. 72](https://www.legislation.gov.uk/uksi/2015/182/regulation/72) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

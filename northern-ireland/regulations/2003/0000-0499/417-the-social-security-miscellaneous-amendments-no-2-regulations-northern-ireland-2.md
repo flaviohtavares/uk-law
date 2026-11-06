@@ -39,7 +39,7 @@ Coming into operation in accordance with regulation 1(1)
 
 The Department for Social Development, in exercise of the powers conferred on it by sections 122(1)(a) and (d), 129(2) and (4), 131(1), 132(3) and (4)(b) and 171(1), (3) to (6) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Articles 6(5), 14(1), (2) and (4)(b) and 36(2) of the Jobseekers (Northern Ireland) Order 1995[^f00002], and now vested in it[^f00003], and of all other powers enabling it in that behalf, with the consent of the Department of Finance and Personnel[^f00004], in so far as regulations 3 and 5 are concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of those regulations should not be referred to it[^f00005], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-6ca8c59677b0c7603046da8d977319c2][^key-6ca8c59677b0c7603046da8d977319c2]
+## 1. Citation, commencement and interpretation[^c-6ca8c59677b0c7603046da8d977319c2][^c-6ca8c59677b0c7603046da8d977319c2]
 
 (1) These Regulations may be cited as the Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2003 and shall come into operation –
 
@@ -48,7 +48,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Income Support (General) Regulations[^key-f90cdf026aa9e5c40c2bdaed485955c5][^key-f90cdf026aa9e5c40c2bdaed485955c5]
+## 2. Amendment of the Income Support (General) Regulations[^c-f90cdf026aa9e5c40c2bdaed485955c5][^c-f90cdf026aa9e5c40c2bdaed485955c5]
 
 (1) The Income Support (General) Regulations (Northern Ireland) 1987[^f00007] shall be amended in accordance with paragraphs (2) to (5).
 
@@ -110,11 +110,11 @@ The Department for Social Development, in exercise of the powers conferred on it
 
   .
 
-## 3. Amendment of the Housing Benefit (General) Regulations[^key-220dd27996ac77f025e2c12d0187b373]
+## 3. Amendment of the Housing Benefit (General) Regulations[^c-220dd27996ac77f025e2c12d0187b373]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Jobseeker’s Allowance Regulations[^key-7f898454b2c528bb058007a254363003][^key-7f898454b2c528bb058007a254363003]
+## 4. Amendment of the Jobseeker’s Allowance Regulations[^c-7f898454b2c528bb058007a254363003][^c-7f898454b2c528bb058007a254363003]
 
 (1) The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00030] shall be amended in accordance with paragraphs (2) to (5).
 
@@ -191,7 +191,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
   .
 
-## 5. Amendment of the Housing Benefit (State Pension Credit) Regulations[^key-8adb55674593c3aea41db5c8ef04d5f6]
+## 5. Amendment of the Housing Benefit (State Pension Credit) Regulations[^c-8adb55674593c3aea41db5c8ef04d5f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -247,11 +247,11 @@ These Regulations do not impose any charge on business.
 
 [^f00005]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-6ca8c59677b0c7603046da8d977319c2]: Commencement: Reg. 1 in operation at 1.10.2003, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2003/417/regulation/1/1/a)
+[^c-6ca8c59677b0c7603046da8d977319c2]: Commencement: Reg. 1 in operation at 1.10.2003, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2003/417/regulation/1/1/a)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-f90cdf026aa9e5c40c2bdaed485955c5]: Commencement: Reg. 2 in operation at 1.10.2003, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2003/417/regulation/1/1/a)
+[^c-f90cdf026aa9e5c40c2bdaed485955c5]: Commencement: Reg. 2 in operation at 1.10.2003, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2003/417/regulation/1/1/a)
 
 [^f00007]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318), [S.R. 1989 No. 366](https://www.legislation.gov.uk/nisr/1989/366), [S.R. 1990 No. 346](https://www.legislation.gov.uk/nisr/1990/346), [S.R. 1998 No. 2](https://www.legislation.gov.uk/nisr/1998/2), [S.R. 2002 Nos. 322](https://www.legislation.gov.uk/nisr/2002/322) and [323](https://www.legislation.gov.uk/nisr/2002/323) and [S.R. 2003 Nos. 154](https://www.legislation.gov.uk/nisr/2003/154) and [195](https://www.legislation.gov.uk/nisr/2003/195)
 
@@ -277,9 +277,9 @@ These Regulations do not impose any charge on business.
 
 [^f00018]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265); Article 15A was inserted by Article 3 of the Personal Social Services (Direct Payments) (Northern Ireland) Order 1996 ([S.I. 1996/1923 (N.I. 19)](https://www.legislation.gov.uk/nisi/1996/1923))
 
-[^key-220dd27996ac77f025e2c12d0187b373]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2003/417/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-220dd27996ac77f025e2c12d0187b373]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2003/417/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-7f898454b2c528bb058007a254363003]: Commencement: Reg. 4 in operation at 1.10.2003, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2003/417/regulation/1/1/a)
+[^c-7f898454b2c528bb058007a254363003]: Commencement: Reg. 4 in operation at 1.10.2003, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2003/417/regulation/1/1/a)
 
 [^f00030]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Regulations are [S.R. 1998 No. 2](https://www.legislation.gov.uk/nisr/1998/2), [S.R. 2000 Nos. 74](https://www.legislation.gov.uk/nisr/2000/74) and [350](https://www.legislation.gov.uk/nisr/2000/350), [S.R. 2002 Nos. 322](https://www.legislation.gov.uk/nisr/2002/322) and [323](https://www.legislation.gov.uk/nisr/2002/323) and [S.R. 2003 Nos. 154](https://www.legislation.gov.uk/nisr/2003/154) and [195](https://www.legislation.gov.uk/nisr/2003/195)
 
@@ -305,4 +305,4 @@ These Regulations do not impose any charge on business.
 
 [^f00041]: Footnote: Paragraph 55 was added by regulation 3(4)(b) of [S.R. 2003 No. 154](https://www.legislation.gov.uk/nisr/2003/154)
 
-[^key-8adb55674593c3aea41db5c8ef04d5f6]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2003/417/regulation/5) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-8adb55674593c3aea41db5c8ef04d5f6]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2003/417/regulation/5) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))

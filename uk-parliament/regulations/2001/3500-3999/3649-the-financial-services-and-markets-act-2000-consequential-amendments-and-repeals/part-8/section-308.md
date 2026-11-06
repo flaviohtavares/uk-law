@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 308. Restriction on disclosure of information by members of Serious Fraud Office[^key-5c7a7ae60b33904e05708e1939eb91a6]
+## 308. Restriction on disclosure of information by members of Serious Fraud Office[^c-5c7a7ae60b33904e05708e1939eb91a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ For paragraphs (e) to (k) of section 3(6)[^f00234] of the Criminal Justice Act 1
 
 ## Annotations
 
-[^key-5c7a7ae60b33904e05708e1939eb91a6]: Commencement: Art. 308 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-5c7a7ae60b33904e05708e1939eb91a6]: Commencement: Art. 308 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00234]: Footnote: Paragraph (e) to (k) of section 3(6), have been amended by the Criminal Justice Act [1993 (c. 36)](https://www.legislation.gov.uk/ukpga/1993/36), Schedule 6 Pt. I; the Criminal Justice Act [1998 (c. 33)](https://www.legislation.gov.uk/ukpga/1998/33), Schedule 15, paragraph 111; and [S.I. 1994/1696](https://www.legislation.gov.uk/uksi/1994/1696), Schedule 8, paragraph 16.

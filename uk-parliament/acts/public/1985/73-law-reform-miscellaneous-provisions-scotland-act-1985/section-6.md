@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Supplementary and transitional provisions relating to sections 4 and 5.[^c1004318][^key-23d1b9a206cc7c8efe58762f0585a7b8]
+## 6. Supplementary and transitional provisions relating to sections 4 and 5.[^c1004318][^c-23d1b9a206cc7c8efe58762f0585a7b8]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
     S. 6 excluded (1.8.2000) by [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33), [s. 149(3)(e)](https://www.legislation.gov.uk/ukpga/1999/33/section/149/3/e); [S.I. 2000/1985](https://www.legislation.gov.uk/uksi/2000/1985), [art. 2](https://www.legislation.gov.uk/uksi/2000/1985/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/1985/schedule)
 
-[^key-23d1b9a206cc7c8efe58762f0585a7b8]: Modification: Ss. 4-7 excluded by 2002 c. 29, s. 269A(5) (as inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 29(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/29/5), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/l))
+[^c-23d1b9a206cc7c8efe58762f0585a7b8]: Modification: Ss. 4-7 excluded by 2002 c. 29, s. 269A(5) (as inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 29(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/29/5), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/l))

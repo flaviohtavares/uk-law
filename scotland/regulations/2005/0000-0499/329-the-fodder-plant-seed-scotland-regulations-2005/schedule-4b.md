@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 4B — Requirements for preservation mixtures[^key-6a606c126db6b7934529eb8fdb4b50a3]
+## SCHEDULE 4B — Requirements for preservation mixtures[^c-6a606c126db6b7934529eb8fdb4b50a3]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ Regulation 8A(4)
 
 ## Annotations
 
-[^key-6a606c126db6b7934529eb8fdb4b50a3]: Textual amendment: [Sch. 4B](https://www.legislation.gov.uk/ssi/2005/329/schedule/4B) inserted (10.2.2012) by [The Fodder Plant Seed (Scotland) Amendment Regulations 2012 (S.S.I. 2012/5)](https://www.legislation.gov.uk/ssi/2012/5), [regs. 1](https://www.legislation.gov.uk/ssi/2012/5/regulation/1), [10](https://www.legislation.gov.uk/ssi/2012/5/regulation/10), [sch.](https://www.legislation.gov.uk/ssi/2012/5/schedule)
+[^c-6a606c126db6b7934529eb8fdb4b50a3]: Textual amendment: [Sch. 4B](https://www.legislation.gov.uk/ssi/2005/329/schedule/4B) inserted (10.2.2012) by [The Fodder Plant Seed (Scotland) Amendment Regulations 2012 (S.S.I. 2012/5)](https://www.legislation.gov.uk/ssi/2012/5), [regs. 1](https://www.legislation.gov.uk/ssi/2012/5/regulation/1), [10](https://www.legislation.gov.uk/ssi/2012/5/regulation/10), [sch.](https://www.legislation.gov.uk/ssi/2012/5/schedule)

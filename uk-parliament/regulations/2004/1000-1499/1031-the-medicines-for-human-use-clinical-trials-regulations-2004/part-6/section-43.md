@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-989530b9f1b768545751e6bc175787f6] Subject to paragraphs (4) and (5), the holder of a manufacturing authorisation must have at his disposal the services of at least one qualified person—
+(1)[^c-989530b9f1b768545751e6bc175787f6] Subject to paragraphs (4) and (5), the holder of a manufacturing authorisation must have at his disposal the services of at least one qualified person—
 
 - (a) where the manufacturing authorisation relates wholly to the import of an investigational medicinal product into Great Britain from an approved country for import, who must operate and be ordinarily resident in either the United Kingdom or an approved country for import, or
-- (b) in any other case, who must operate and be ordinarily resident in the United Kingdom, except, in relation to a EAMS medicinal product, to the extent that conditions attached to the scientific opinion in respect of that product in accordance with regulation 167C(2)(c) of the 2012 Regulations provide otherwise,[^key-64cbbfd50bb8856077ed12550606de08] and
+- (b) in any other case, who must operate and be ordinarily resident in the United Kingdom, except, in relation to a EAMS medicinal product, to the extent that conditions attached to the scientific opinion in respect of that product in accordance with regulation 167C(2)(c) of the 2012 Regulations provide otherwise,[^c-64cbbfd50bb8856077ed12550606de08] and
 
-who is responsible for carrying out the duties referred to in paragraph (1A) or[^key-d7c3eca1238cb3a719c1b4dc8a8bb577] 2.
+who is responsible for carrying out the duties referred to in paragraph (1A) or[^c-d7c3eca1238cb3a719c1b4dc8a8bb577] 2.
 
-(1A)[^key-d9dd1cc32f53705d8035640aed0f11af] The qualified person is responsible for ensuring that, in relation to an EAMS medicinal product, if conditions attached to the scientific opinion in respect of that product in accordance with regulation 167C(2)(c) of the 2012 Regulations require the qualified person to carry out any duties in respect of that product, that qualified person carries out those duties.
+(1A)[^c-d9dd1cc32f53705d8035640aed0f11af] The qualified person is responsible for ensuring that, in relation to an EAMS medicinal product, if conditions attached to the scientific opinion in respect of that product in accordance with regulation 167C(2)(c) of the 2012 Regulations require the qualified person to carry out any duties in respect of that product, that qualified person carries out those duties.
 
 (2) Subject to paragraphs (2A) and (2C), the qualified person is responsible for ensuring that—
 
@@ -53,7 +53,7 @@ who is responsible for carrying out the duties referred to in paragraph (1A) or[
 (2A) The qualified person is not responsible for carrying out the controls in paragraph (2) where—
 
 - (a) the product is imported into Great Britain from a country that is included on the list referred to in regulation 43A (“approved country for import”); and
-- (b) the qualified person ensures that there is appropriate evidence to confirm that each production batch has been certified as provided for in Article 62 of the EU Regulation[^key-4df3c13f3bab6af7e0a42bf47b327ac3], or such equivalent certification procedure as applies in the approved country for import.
+- (b) the qualified person ensures that there is appropriate evidence to confirm that each production batch has been certified as provided for in Article 62 of the EU Regulation[^c-4df3c13f3bab6af7e0a42bf47b327ac3], or such equivalent certification procedure as applies in the approved country for import.
 
 (2B) The licensing authority must publish guidance on the evidence that it considers to be appropriate for the purposes of paragraph (2A)(b).
 
@@ -62,7 +62,7 @@ who is responsible for carrying out the duties referred to in paragraph (1A) or[
 - (a) an investigational medicinal product—
   - (i) which has a marketing authorization other than a UKMA(GB), is imported into Northern Ireland as a comparator product; or
   - (ii) which has a marketing authorization, or has been approved for marketing in another country, is imported into Great Britain as a comparator product; and
-- (b) documentation cannot be obtained certifying that each production batch has been manufactured and checked in accordance with standards of good manufacturing practice at least equivalent to those laid down in Commission Directive [2003/94/EC](https://www.legislation.gov.uk/european/directive/2003/0094) in respect of Great Britain or Commission Delegated Regulation 2017/1569 in respect of Northern Ireland[^key-d502ae574a25fb824298ec9990016ca7].
+- (b) documentation cannot be obtained certifying that each production batch has been manufactured and checked in accordance with standards of good manufacturing practice at least equivalent to those laid down in Commission Directive [2003/94/EC](https://www.legislation.gov.uk/european/directive/2003/0094) in respect of Great Britain or Commission Delegated Regulation 2017/1569 in respect of Northern Ireland[^c-d502ae574a25fb824298ec9990016ca7].
 
 (2D) Where paragraph (2) does not apply by virtue of paragraph (2C), the qualified person is responsible for ensuring that each production batch has undergone all relevant analyses, tests or checks necessary to confirm its quality in accordance with the request, particulars and documents submitted to the licensing authority under regulation 17.
 
@@ -75,9 +75,9 @@ who is responsible for carrying out the duties referred to in paragraph (1A) or[
 
 (3) A qualified person shall perform his functions under these Regulations in accordance with the Code of Practice for Qualified Persons in the Pharmaceutical Industry, published jointly by the Institute of Biology, the Royal Pharmaceutical Society of Great Britain and the Royal Society of Chemistry in March 2004 [^c5389471].
 
-(4) If the holder of the authorisation satisfies the requirements as to qualifications and experience specified in paragraph (a) or (b) of the definition of “**qualified person**” in regulation 2(1), he may act as the qualified person in accordance with paragraph (1A) or[^key-7999d08af16589fc94ba30075d147fdb] (2) for the purposes of that authorisation.
+(4) If the holder of the authorisation satisfies the requirements as to qualifications and experience specified in paragraph (a) or (b) of the definition of “**qualified person**” in regulation 2(1), he may act as the qualified person in accordance with paragraph (1A) or[^c-7999d08af16589fc94ba30075d147fdb] (2) for the purposes of that authorisation.
 
-(5)[^key-a86eb8ae2f5da1befdd2b27e57915420] For the purposes of this paragraph, but without prejudice to paragraph (6) below, the holder of the authorisation may regard a person as satisfying the provisions of Schedule 7 to the 2012 Regulations[^key-474ed9dbec9c7f6213a2dc455b03d56d], as respects formal qualifications if—
+(5)[^c-a86eb8ae2f5da1befdd2b27e57915420] For the purposes of this paragraph, but without prejudice to paragraph (6) below, the holder of the authorisation may regard a person as satisfying the provisions of Schedule 7 to the 2012 Regulations[^c-474ed9dbec9c7f6213a2dc455b03d56d], as respects formal qualifications if—
 
 - (a) in relation to the obligation in paragraph (1)(a), he is already named as a qualified person in respect of an authorisation issued in an approved country for import; or
 - (b) he produces evidence that—
@@ -91,7 +91,7 @@ who is responsible for carrying out the duties referred to in paragraph (1A) or[
 (6) Where, after giving the holder of the authorisation and the person acting as a qualified person the opportunity of making representations to them (orally or in writing), the licensing authority are of the opinion that—
 
 - (a) the person so acting does not satisfy—
-  - (i) the provisions of Schedule 7 to the 2012 Regulations[^key-45596c9a05acc5c9cf2a67e2feb6b137] as respects qualifications and experience, or
+  - (i) the provisions of Schedule 7 to the 2012 Regulations[^c-45596c9a05acc5c9cf2a67e2feb6b137] as respects qualifications and experience, or
   - (ii) the requirements as to qualifications and experience specified in paragraph (b) of the definition of “**qualified person**” in regulation 2(1); or
 - (b) he is failing to carry out the duties referred to in paragraph (2) adequately or at all,
 
@@ -99,24 +99,24 @@ and have notified the holder of the authorisation accordingly in writing, the ho
 
 ## Annotations
 
-[^key-989530b9f1b768545751e6bc175787f6]: Textual amendment: Reg. 43(1)-(2F) substituted for [reg. 43(1)(2)](https://www.legislation.gov.uk/uksi/2004/1031/regulation/43/1) by 2019/744, reg. 18(a) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2020/1488/schedule/1/paragraph/4))
+[^c-989530b9f1b768545751e6bc175787f6]: Textual amendment: Reg. 43(1)-(2F) substituted for [reg. 43(1)(2)](https://www.legislation.gov.uk/uksi/2004/1031/regulation/43/1) by 2019/744, reg. 18(a) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2020/1488/schedule/1/paragraph/4))
 
-[^key-64cbbfd50bb8856077ed12550606de08]: Textual amendment: Words in reg. 43(1)(b) inserted (15.4.2022) by [The Human Medicines (Amendments Relating to the Early Access to Medicines Scheme) Regulations 2022 (S.I. 2022/352)](https://www.legislation.gov.uk/uksi/2022/352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/352/regulation/1/2), [17(2)(a)](https://www.legislation.gov.uk/uksi/2022/352/regulation/17/2/a) (with [reg. 19](https://www.legislation.gov.uk/uksi/2022/352/regulation/19))
+[^c-64cbbfd50bb8856077ed12550606de08]: Textual amendment: Words in reg. 43(1)(b) inserted (15.4.2022) by [The Human Medicines (Amendments Relating to the Early Access to Medicines Scheme) Regulations 2022 (S.I. 2022/352)](https://www.legislation.gov.uk/uksi/2022/352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/352/regulation/1/2), [17(2)(a)](https://www.legislation.gov.uk/uksi/2022/352/regulation/17/2/a) (with [reg. 19](https://www.legislation.gov.uk/uksi/2022/352/regulation/19))
 
-[^key-d7c3eca1238cb3a719c1b4dc8a8bb577]: Textual amendment: Words in reg. 43(1) inserted (15.4.2022) by [The Human Medicines (Amendments Relating to the Early Access to Medicines Scheme) Regulations 2022 (S.I. 2022/352)](https://www.legislation.gov.uk/uksi/2022/352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/352/regulation/1/2), [17(2)(b)](https://www.legislation.gov.uk/uksi/2022/352/regulation/17/2/b) (with [reg. 19](https://www.legislation.gov.uk/uksi/2022/352/regulation/19))
+[^c-d7c3eca1238cb3a719c1b4dc8a8bb577]: Textual amendment: Words in reg. 43(1) inserted (15.4.2022) by [The Human Medicines (Amendments Relating to the Early Access to Medicines Scheme) Regulations 2022 (S.I. 2022/352)](https://www.legislation.gov.uk/uksi/2022/352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/352/regulation/1/2), [17(2)(b)](https://www.legislation.gov.uk/uksi/2022/352/regulation/17/2/b) (with [reg. 19](https://www.legislation.gov.uk/uksi/2022/352/regulation/19))
 
-[^key-d9dd1cc32f53705d8035640aed0f11af]: Textual amendment: Reg. 43(1A) inserted (15.4.2022) by [The Human Medicines (Amendments Relating to the Early Access to Medicines Scheme) Regulations 2022 (S.I. 2022/352)](https://www.legislation.gov.uk/uksi/2022/352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/352/regulation/1/2), [17(3)](https://www.legislation.gov.uk/uksi/2022/352/regulation/17/3) (with [reg. 19](https://www.legislation.gov.uk/uksi/2022/352/regulation/19))
+[^c-d9dd1cc32f53705d8035640aed0f11af]: Textual amendment: Reg. 43(1A) inserted (15.4.2022) by [The Human Medicines (Amendments Relating to the Early Access to Medicines Scheme) Regulations 2022 (S.I. 2022/352)](https://www.legislation.gov.uk/uksi/2022/352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/352/regulation/1/2), [17(3)](https://www.legislation.gov.uk/uksi/2022/352/regulation/17/3) (with [reg. 19](https://www.legislation.gov.uk/uksi/2022/352/regulation/19))
 
-[^key-4df3c13f3bab6af7e0a42bf47b327ac3]: Textual amendment: Words in reg. 43(2A)(b) substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [30(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/30/2)
+[^c-4df3c13f3bab6af7e0a42bf47b327ac3]: Textual amendment: Words in reg. 43(2A)(b) substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [30(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/30/2)
 
-[^key-d502ae574a25fb824298ec9990016ca7]: Textual amendment: Words in reg. 43(2C)(b) inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [30(3)](https://www.legislation.gov.uk/uksi/2025/538/regulation/30/3)
+[^c-d502ae574a25fb824298ec9990016ca7]: Textual amendment: Words in reg. 43(2C)(b) inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [30(3)](https://www.legislation.gov.uk/uksi/2025/538/regulation/30/3)
 
 [^c5389471]: Marginal citation: A copy of the Code of Practice may be obtained by writing to the Institute of Biology, 20 Queensbury Place, London SW7 2DZ, the Royal Pharmaceutical Society of Great Britain, 1 Lambeth High Street, London SE1 7JN or the Royal Society of Chemistry, Burlington House, Piccadilly, London W1V 0BN.
 
-[^key-7999d08af16589fc94ba30075d147fdb]: Textual amendment: Words in reg. 43(4) inserted (15.4.2022) by [The Human Medicines (Amendments Relating to the Early Access to Medicines Scheme) Regulations 2022 (S.I. 2022/352)](https://www.legislation.gov.uk/uksi/2022/352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/352/regulation/1/2), [17(4)](https://www.legislation.gov.uk/uksi/2022/352/regulation/17/4) (with [reg. 19](https://www.legislation.gov.uk/uksi/2022/352/regulation/19))
+[^c-7999d08af16589fc94ba30075d147fdb]: Textual amendment: Words in reg. 43(4) inserted (15.4.2022) by [The Human Medicines (Amendments Relating to the Early Access to Medicines Scheme) Regulations 2022 (S.I. 2022/352)](https://www.legislation.gov.uk/uksi/2022/352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/352/regulation/1/2), [17(4)](https://www.legislation.gov.uk/uksi/2022/352/regulation/17/4) (with [reg. 19](https://www.legislation.gov.uk/uksi/2022/352/regulation/19))
 
-[^key-a86eb8ae2f5da1befdd2b27e57915420]: Textual amendment: Reg. 43(5) substituted (31.12.2020) by S.I. 2019/744, reg. 18(b) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2020/1488/schedule/1/paragraph/4))
+[^c-a86eb8ae2f5da1befdd2b27e57915420]: Textual amendment: Reg. 43(5) substituted (31.12.2020) by S.I. 2019/744, reg. 18(b) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2020/1488/schedule/1/paragraph/4))
 
-[^key-474ed9dbec9c7f6213a2dc455b03d56d]: Textual amendment: Words in reg. 43(5) substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [30(4)](https://www.legislation.gov.uk/uksi/2025/538/regulation/30/4)
+[^c-474ed9dbec9c7f6213a2dc455b03d56d]: Textual amendment: Words in reg. 43(5) substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [30(4)](https://www.legislation.gov.uk/uksi/2025/538/regulation/30/4)
 
-[^key-45596c9a05acc5c9cf2a67e2feb6b137]: Textual amendment: Words in reg. 43(6)(a)(i) substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [30(5)](https://www.legislation.gov.uk/uksi/2025/538/regulation/30/5)
+[^c-45596c9a05acc5c9cf2a67e2feb6b137]: Textual amendment: Words in reg. 43(6)(a)(i) substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [30(5)](https://www.legislation.gov.uk/uksi/2025/538/regulation/30/5)

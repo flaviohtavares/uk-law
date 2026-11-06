@@ -42,7 +42,7 @@ the tenant may, unless he has been subsequently notified by the landlord of a di
 
 (4) Subsections (2) and (3) apply to notices in proceedings under Chapter I or II as they apply to notices required or authorised to be given under that Chapter.
 
-(5) Any notice which is given under Chapter I or II by any tenants or tenant must be signed by or on behalf of each of the tenants, or (as the case may be) by or on behalf of the tenant, by whom it is given.[^key-4d179bb16b9b0e1ba6f5e42bdfa56947]
+(5) Any notice which is given under Chapter I or II by any tenants or tenant must be signed by or on behalf of each of the tenants, or (as the case may be) by or on behalf of the tenant, by whom it is given.[^c-4d179bb16b9b0e1ba6f5e42bdfa56947]
 
 (6) The Secretary of State may by regulations prescribe—
 
@@ -55,4 +55,4 @@ the tenant may, unless he has been subsequently notified by the landlord of a di
 
 [^c17025561]: Marginal citation: [1987 c. 31](https://www.legislation.gov.uk/ukpga/1987/31).
 
-[^key-4d179bb16b9b0e1ba6f5e42bdfa56947]: Textual amendment: Words in [s. 99(5)](https://www.legislation.gov.uk/ukpga/1993/28/section/99/5) substituted for s. 99(5)(a)(b) (1.12.2014) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [ss. 140(1)](https://www.legislation.gov.uk/anaw/2014/7/section/140/1), [145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3); [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)
+[^c-4d179bb16b9b0e1ba6f5e42bdfa56947]: Textual amendment: Words in [s. 99(5)](https://www.legislation.gov.uk/ukpga/1993/28/section/99/5) substituted for s. 99(5)(a)(b) (1.12.2014) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [ss. 140(1)](https://www.legislation.gov.uk/anaw/2014/7/section/140/1), [145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3); [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Claimants of compensation for effects of development[^key-854c371723d8c74693bd9f4805fadbf4]
+## 135. Claimants of compensation for effects of development[^c-854c371723d8c74693bd9f4805fadbf4]
 
 *Extent: E+W*
 
@@ -60,7 +60,7 @@ summary: ''
 > - (b) a claim under Part 1 of the Land Compensation Act 1973 (compensation for depreciation of land value by physical factors caused by use of public works);
 > - (c) a claim under section 152(3).
 
-(8)[^key-435064d6793e2bb3fe2d9e5dcb8157fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-435064d6793e2bb3fe2d9e5dcb8157fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) In section 57(6) (meaning of “relevant claim” in section 57(4)) after paragraph (b) insert
 
@@ -79,6 +79,6 @@ summary: ''
 
 ## Annotations
 
-[^key-854c371723d8c74693bd9f4805fadbf4]: Commencement: S. 135 in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
+[^c-854c371723d8c74693bd9f4805fadbf4]: Commencement: S. 135 in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
 
-[^key-435064d6793e2bb3fe2d9e5dcb8157fa]: Textual amendment: S. 135(8) omitted (24.7.2026) by virtue of [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 6(11)(b)(iii)](https://www.legislation.gov.uk/ukpga/2025/34/section/6/11/b/iii), [118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/641/regulation/6))
+[^c-435064d6793e2bb3fe2d9e5dcb8157fa]: Textual amendment: S. 135(8) omitted (24.7.2026) by virtue of [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 6(11)(b)(iii)](https://www.legislation.gov.uk/ukpga/2025/34/section/6/11/b/iii), [118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/641/regulation/6))

@@ -35,22 +35,22 @@ concerning the authorisation of cumin tincture (*Cuminum cyminum* L.) as a feed 
 
 (Text with EEA relevance) (revoked)
 
-[^key-1ae303451fbe39d409d8449d5167d44f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1ae303451fbe39d409d8449d5167d44f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Authorisation[^key-1ae303451fbe39d409d8449d5167d44f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Entry into force[^key-1ae303451fbe39d409d8449d5167d44f]
+## Article 1. Authorisation[^c-1ae303451fbe39d409d8449d5167d44f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ae303451fbe39d409d8449d5167d44f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 2. Entry into force[^c-1ae303451fbe39d409d8449d5167d44f]
 
-## ANNEX[^key-1ae303451fbe39d409d8449d5167d44f]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-1ae303451fbe39d409d8449d5167d44f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-1ae303451fbe39d409d8449d5167d44f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1ae303451fbe39d409d8449d5167d44f]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 298](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/298) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-1ae303451fbe39d409d8449d5167d44f]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 298](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/298) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

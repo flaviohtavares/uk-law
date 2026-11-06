@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by section 143(1) and (2) of, and paragraphs 4(2)(a) and 10(6) of Schedule 4ZA to, the Local Government Finance Act 1988[^f00001].
 
-## 1. Citation, extent, application, commencement and interpretation[^key-c5f3e9553d97869d07f20cf229eb998f]
+## 1. Citation, extent, application, commencement and interpretation[^c-c5f3e9553d97869d07f20cf229eb998f]
 
 (1) These Regulations may be cited as the Non-Domestic Rating (Small Business Rate Relief) (England) Regulations 2023.
 
@@ -59,7 +59,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - “**A**” has the meaning given in paragraph 10(2) of Schedule 4ZA to the Act;
 - “**the Act**” means the Local Government Finance Act 1988.
 
-## 2. Conditions for relief[^key-05ece01d6be2ed8e1935990f8a87a07c]
+## 2. Conditions for relief[^c-05ece01d6be2ed8e1935990f8a87a07c]
 
 (1) For the purposes of paragraph 4(2)(a) of Schedule 4ZA to the Act (occupied hereditaments: chargeable amount), the conditions to be satisfied are that on the chargeable day concerned—
 
@@ -68,7 +68,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (2) In determining whether the ratepayer occupies only one hereditament in England (“hereditament A”), the ratepayer’s occupation of any other hereditament in England (“hereditament B”) is disregarded where the conditions in either paragraph (3) or (4) are satisfied.
 
-(3)[^key-aa57b0c720d4f44583c8c10f9ad9f74d] The conditions are that—
+(3)[^c-aa57b0c720d4f44583c8c10f9ad9f74d] The conditions are that—
 
 - (a) the ratepayer’s occupation of hereditament B started on a date after that ratepayer started to occupy hereditament A, and
 - (b) on the chargeable day concerned—
@@ -85,7 +85,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
   - (ii) where hereditament A is situated outside Greater London, £19,999, and
 - (c) the chargeable amount as regards hereditament B is not calculated in accordance with paragraph 4(1)(a) of Schedule 4ZA to the Act.
 
-## 3. Amount of E[^key-e19ca071d3811721f7e13d00a54b1ea8]
+## 3. Amount of E[^c-e19ca071d3811721f7e13d00a54b1ea8]
 
 (1) For the purposes of paragraph 10(6) of Schedule 4ZA to the Act, the amount of E is found in accordance with paragraphs (2) to (3).
 
@@ -97,7 +97,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (4) Amounts calculated in accordance with paragraph (3) must be calculated to three decimal places only.
 
-## 4. Amendment of the Non-Domestic Rating (Reliefs, Thresholds and Amendment) (England) Order 2017[^key-9a9b49bd707dba1b6212527cc3d290c7]
+## 4. Amendment of the Non-Domestic Rating (Reliefs, Thresholds and Amendment) (England) Order 2017[^c-9a9b49bd707dba1b6212527cc3d290c7]
 
 (1) The Non-Domestic Rating (Reliefs, Thresholds and Amendment) (England) Order 2017[^f00003] is amended as follows.
 
@@ -135,14 +135,14 @@ An impact assessment has not been produced for this instrument because it amends
 
 [^f00001]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41). Schedule 4ZA was inserted by section 1 of the Non-Domestic Rating Act [2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53). See paragraph 11 of Schedule 4ZA for the definition of “the appropriate national authority”. See section 146(6) for the definition of “prescribed”.
 
-[^key-c5f3e9553d97869d07f20cf229eb998f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2023/1250/regulation/1) in force at 1.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/1250/regulation/1/3)
+[^c-c5f3e9553d97869d07f20cf229eb998f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2023/1250/regulation/1) in force at 1.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/1250/regulation/1/3)
 
-[^key-05ece01d6be2ed8e1935990f8a87a07c]: Commencement: Reg. 2 in force at 1.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/1250/regulation/1/3)
+[^c-05ece01d6be2ed8e1935990f8a87a07c]: Commencement: Reg. 2 in force at 1.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/1250/regulation/1/3)
 
-[^key-aa57b0c720d4f44583c8c10f9ad9f74d]: Textual amendment: Reg. 2(3) substituted (1.4.2026) by [The Non-Domestic Rating (Small Business Rate Relief and Demand Notices) (England) (Amendment) Regulations 2026 (S.I. 2026/17)](https://www.legislation.gov.uk/uksi/2026/17), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/17/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2026/17/regulation/2)
+[^c-aa57b0c720d4f44583c8c10f9ad9f74d]: Textual amendment: Reg. 2(3) substituted (1.4.2026) by [The Non-Domestic Rating (Small Business Rate Relief and Demand Notices) (England) (Amendment) Regulations 2026 (S.I. 2026/17)](https://www.legislation.gov.uk/uksi/2026/17), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/17/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2026/17/regulation/2)
 
-[^key-e19ca071d3811721f7e13d00a54b1ea8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/1250/regulation/3) in force at 1.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/1250/regulation/1/3)
+[^c-e19ca071d3811721f7e13d00a54b1ea8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/1250/regulation/3) in force at 1.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/1250/regulation/1/3)
 
-[^key-9a9b49bd707dba1b6212527cc3d290c7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/1250/regulation/4) in force at 1.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/1250/regulation/1/3)
+[^c-9a9b49bd707dba1b6212527cc3d290c7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/1250/regulation/4) in force at 1.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/1250/regulation/1/3)
 
 [^f00003]: Footnote: [S.I. 2017/102](https://www.legislation.gov.uk/uksi/2017/102).

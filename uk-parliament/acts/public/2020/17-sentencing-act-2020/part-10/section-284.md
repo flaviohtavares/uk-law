@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 284. Required life sentence where second offence committed before 4 April 2005[^key-884689071aba6f5dfabac375670cfa10]
+## 284. Required life sentence where second offence committed before 4 April 2005[^c-884689071aba6f5dfabac375670cfa10]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ see section 109 of the Powers of Criminal Courts (Sentencing) Act 2000 (life sen
 
 ## Annotations
 
-[^key-884689071aba6f5dfabac375670cfa10]: Commencement: S. 284 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-884689071aba6f5dfabac375670cfa10]: Commencement: S. 284 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

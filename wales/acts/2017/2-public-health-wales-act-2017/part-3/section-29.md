@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Consequential amendments[^key-ec9a67654b92c1996083e39adcff2ba5]
+## 29. Consequential amendments[^c-ec9a67654b92c1996083e39adcff2ba5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ For amendments consequential on this Chapter, see Schedule 2.
 
 ## Annotations
 
-[^key-ec9a67654b92c1996083e39adcff2ba5]: Commencement: [S. 29](https://www.legislation.gov.uk/anaw/2017/2/section/29) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
+[^c-ec9a67654b92c1996083e39adcff2ba5]: Commencement: [S. 29](https://www.legislation.gov.uk/anaw/2017/2/section/29) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)

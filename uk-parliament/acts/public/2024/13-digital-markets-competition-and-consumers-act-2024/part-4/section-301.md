@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 301. Accreditation criteria[^key-4434cfcb9e06196a2fd9ad25fda63502][^key-b854d96a3efc247f3bd7db223df7bac6]
+## 301. Accreditation criteria[^c-4434cfcb9e06196a2fd9ad25fda63502][^c-b854d96a3efc247f3bd7db223df7bac6]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4434cfcb9e06196a2fd9ad25fda63502]: Commencement: S. 301 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-4434cfcb9e06196a2fd9ad25fda63502]: Commencement: S. 301 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
-[^key-b854d96a3efc247f3bd7db223df7bac6]: Commencement: [S. 301](https://www.legislation.gov.uk/ukpga/2024/13/section/301) in force at 6.4.2026 in so far as not already in force by [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/2)
+[^c-b854d96a3efc247f3bd7db223df7bac6]: Commencement: [S. 301](https://www.legislation.gov.uk/ukpga/2024/13/section/301) in force at 6.4.2026 in so far as not already in force by [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/2)

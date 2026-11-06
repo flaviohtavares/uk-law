@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 262A. First-year tax credits[^key-56a158b408ac81c8efadf408d2959f9e]
+## 262A. First-year tax credits[^c-56a158b408ac81c8efadf408d2959f9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56a158b408ac81c8efadf408d2959f9e]: Textual amendment: [S. 262A](https://www.legislation.gov.uk/ukpga/2001/2/section/262A) repealed (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(1)(c)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/1/c)
+[^c-56a158b408ac81c8efadf408d2959f9e]: Textual amendment: [S. 262A](https://www.legislation.gov.uk/ukpga/2001/2/section/262A) repealed (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(1)(c)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/1/c)

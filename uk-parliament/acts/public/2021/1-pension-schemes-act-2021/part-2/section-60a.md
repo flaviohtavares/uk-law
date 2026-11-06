@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60A. Failure of unconnected multiple employer schemes to commence operation[^key-28b6c896de87f833466844ded3494551]
+## 60A. Failure of unconnected multiple employer schemes to commence operation[^c-28b6c896de87f833466844ded3494551]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28b6c896de87f833466844ded3494551]: Textual amendment: [S. 60A](https://www.legislation.gov.uk/ukpga/2021/1/section/60A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2026/151/regulation/6)
+[^c-28b6c896de87f833466844ded3494551]: Textual amendment: [S. 60A](https://www.legislation.gov.uk/ukpga/2021/1/section/60A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2026/151/regulation/6)

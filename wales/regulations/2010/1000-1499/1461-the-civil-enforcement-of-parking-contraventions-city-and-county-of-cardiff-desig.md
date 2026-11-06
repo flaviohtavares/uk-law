@@ -51,11 +51,11 @@ The Welsh Ministers have consulted the chief officer of the South Wales Police i
 
 Accordingly, the Welsh Ministers make this Order.
 
-## 1. Citation and commencement[^key-c384a89922855d77035e06083e1e4d40]
+## 1. Citation and commencement[^c-c384a89922855d77035e06083e1e4d40]
 
 This Order may be cited as the Civil Enforcement of Parking Contraventions (City and County of Cardiff) Designation Order 2010 and shall come into force on 5 July 2010.
 
-## 2. Designation of civil enforcement area and special enforcement area[^key-86fc93c39dd785131c47b22e7406d6ce]
+## 2. Designation of civil enforcement area and special enforcement area[^c-86fc93c39dd785131c47b22e7406d6ce]
 
 The Welsh Ministers designate the area described in the Schedule as—
 
@@ -68,7 +68,7 @@ Minister for the Economy and Transport, one of the Welsh Ministers
 
 19 May 2010
 
-## SCHEDULE — Area designated as a civil enforcement area for parking contraventions and a special enforcement area[^key-2e6731d969ed5f4281b041a0d019f65e][^key-a1ec6fae74333d3f41063093a07e2349]
+## SCHEDULE — Area designated as a civil enforcement area for parking contraventions and a special enforcement area[^c-2e6731d969ed5f4281b041a0d019f65e][^c-a1ec6fae74333d3f41063093a07e2349]
 
 Article 2
 
@@ -89,10 +89,10 @@ This Order designates the area described in the Schedule as a civil enforcement 
 
 [^f00002]: Footnote: These powers are exercisable by the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act 2006, pursuant to which the Welsh Ministers are the 'appropriate national authority' as regards Wales under section 92(1) of the Traffic Management Act 2004.
 
-[^key-c384a89922855d77035e06083e1e4d40]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2010/1461/article/1) in force at 5.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1461/article/1)
+[^c-c384a89922855d77035e06083e1e4d40]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2010/1461/article/1) in force at 5.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1461/article/1)
 
-[^key-86fc93c39dd785131c47b22e7406d6ce]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2010/1461/article/2) in force at 5.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1461/article/1)
+[^c-86fc93c39dd785131c47b22e7406d6ce]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2010/1461/article/2) in force at 5.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1461/article/1)
 
-[^key-2e6731d969ed5f4281b041a0d019f65e]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2010/1461/schedule) in force at 5.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1461/article/1)
+[^c-2e6731d969ed5f4281b041a0d019f65e]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2010/1461/schedule) in force at 5.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1461/article/1)
 
-[^key-a1ec6fae74333d3f41063093a07e2349]: Textual amendment: [Sch.](https://www.legislation.gov.uk/wsi/2010/1461/schedule) substituted (7.11.2014) by [The Civil Enforcement of Parking Contraventions (City and County of Cardiff) Designation (Amendment) Order 2014 (S.I. 2014/2722)](https://www.legislation.gov.uk/wsi/2014/2722), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2014/2722/article/1/2), [2](https://www.legislation.gov.uk/wsi/2014/2722/article/2), [Sch.](https://www.legislation.gov.uk/wsi/2014/2722/schedule)
+[^c-a1ec6fae74333d3f41063093a07e2349]: Textual amendment: [Sch.](https://www.legislation.gov.uk/wsi/2010/1461/schedule) substituted (7.11.2014) by [The Civil Enforcement of Parking Contraventions (City and County of Cardiff) Designation (Amendment) Order 2014 (S.I. 2014/2722)](https://www.legislation.gov.uk/wsi/2014/2722), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2014/2722/article/1/2), [2](https://www.legislation.gov.uk/wsi/2014/2722/article/2), [Sch.](https://www.legislation.gov.uk/wsi/2014/2722/schedule)

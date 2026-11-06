@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 446. Interpretation of article 12: assets of Libya[^key-7ee3940f97869183b9d50d38508af778]
+## 446. Interpretation of article 12: assets of Libya[^c-7ee3940f97869183b9d50d38508af778]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ee3940f97869183b9d50d38508af778]: Commencement: Art. 446 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-7ee3940f97869183b9d50d38508af778]: Commencement: Art. 446 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

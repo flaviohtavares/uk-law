@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50B. Connected persons: application of section 48[^M_C_3f5461fe-62d1-43a9-f5e5-7215870d346f][^key-70bb3d48a6076cfc35149d4cc4d0074d]
+## 50B. Connected persons: application of section 48[^M_C_3f5461fe-62d1-43a9-f5e5-7215870d346f][^c-70bb3d48a6076cfc35149d4cc4d0074d]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 [^M_C_3f5461fe-62d1-43a9-f5e5-7215870d346f]: Modification: S. 50B modified by 1988 c. 1, s. 578A(5) (as inserted (with effect in accordance with Sch. 11 paras. 65-67 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 62(7)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/62/7))
 
-[^key-70bb3d48a6076cfc35149d4cc4d0074d]: Textual amendment: Ss. 50A, 50B inserted (with effect in accordance with Sch. 11 paras. 65-67 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 39](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/39)
+[^c-70bb3d48a6076cfc35149d4cc4d0074d]: Textual amendment: Ss. 50A, 50B inserted (with effect in accordance with Sch. 11 paras. 65-67 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 39](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/39)

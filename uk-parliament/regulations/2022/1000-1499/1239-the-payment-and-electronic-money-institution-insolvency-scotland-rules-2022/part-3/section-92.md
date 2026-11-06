@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 92. Proxy-holder with financial interest[^key-0a95c9ba2824fab7cd02be557c73abca]
+## 92. Proxy-holder with financial interest[^c-0a95c9ba2824fab7cd02be557c73abca]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a95c9ba2824fab7cd02be557c73abca]: Commencement: Rule 92 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-0a95c9ba2824fab7cd02be557c73abca]: Commencement: Rule 92 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

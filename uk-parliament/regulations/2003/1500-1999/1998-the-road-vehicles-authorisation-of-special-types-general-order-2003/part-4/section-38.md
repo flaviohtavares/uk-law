@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Vehicles for tests, trials or non-UK use etc: requirements as to length[^key-78c1ec43d9e8c965b04d6742e28eee29]
+## 38. Vehicles for tests, trials or non-UK use etc: requirements as to length[^c-78c1ec43d9e8c965b04d6742e28eee29]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78c1ec43d9e8c965b04d6742e28eee29]: Commencement: Art. 38 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-78c1ec43d9e8c965b04d6742e28eee29]: Commencement: Art. 38 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

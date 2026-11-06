@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Information and advice[^key-f808a43f904c642861d4cabf5607c79b]
+## 53. Information and advice[^c-f808a43f904c642861d4cabf5607c79b]
 
 *Extent: E+W*
 
@@ -30,9 +30,9 @@ summary: ''
 
 (3) Advice under subsection (2) may in particular include advice on any changes that the Commission thinks should be made to—
 
-- (a) regulations under section 20 (regulation of regulated activities), or[^key-e4f6a1b4550037defc90ac70108f7f81]
+- (a) regulations under section 20 (regulation of regulated activities), or[^c-e4f6a1b4550037defc90ac70108f7f81]
 - (b) a code of practice under section 21 (code of practice relating to health care associated infections), or
-- (c)[^key-f68d7e25047ce03e9a22e0fe97f2c8c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-f68d7e25047ce03e9a22e0fe97f2c8c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) When requested to do so by the Secretary of State, the Commission must give the Secretary of State such advice or information in connection with a matter mentioned in subsection (1) as may be specified in the request.
 
@@ -43,8 +43,8 @@ summary: ''
 
 ## Annotations
 
-[^key-f808a43f904c642861d4cabf5607c79b]: Commencement: S. 53 in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/20)
+[^c-f808a43f904c642861d4cabf5607c79b]: Commencement: S. 53 in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/20)
 
-[^key-e4f6a1b4550037defc90ac70108f7f81]: Textual amendment: Word in s. 53(3)(a) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 17 para. 12(3)(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/17/paragraph/12/3/a); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-e4f6a1b4550037defc90ac70108f7f81]: Textual amendment: Word in s. 53(3)(a) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 17 para. 12(3)(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/17/paragraph/12/3/a); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-f68d7e25047ce03e9a22e0fe97f2c8c6]: Textual amendment: S. 53(3)(c) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 17 para. 12(3)(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/17/paragraph/12/3/b); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-f68d7e25047ce03e9a22e0fe97f2c8c6]: Textual amendment: S. 53(3)(c) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 17 para. 12(3)(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/17/paragraph/12/3/b); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

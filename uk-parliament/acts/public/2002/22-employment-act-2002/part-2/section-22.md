@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Employment tribunals[^key-091591d7fea94185996f26fbe73b2099]
+## 22. Employment tribunals[^c-091591d7fea94185996f26fbe73b2099]
 
 *Extent: E+W+S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-091591d7fea94185996f26fbe73b2099]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2002/22/section/22) in force at 9.7.2004 by [S.I. 2004/1717](https://www.legislation.gov.uk/uksi/2004/1717), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/1717/article/2/1)
+[^c-091591d7fea94185996f26fbe73b2099]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2002/22/section/22) in force at 9.7.2004 by [S.I. 2004/1717](https://www.legislation.gov.uk/uksi/2004/1717), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/1717/article/2/1)

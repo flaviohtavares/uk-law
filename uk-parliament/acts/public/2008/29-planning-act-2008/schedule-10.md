@@ -24,7 +24,7 @@ Section 196
 
 ### Town and Country Planning Act 1990 (c. 8)
 
-**1.**[^key-29fe7aea551db26ec8099d7a909093ab][^key-b301043d015922f2339be656cbe9ab7f] TCPA 1990 is amended as follows.
+**1.**[^c-29fe7aea551db26ec8099d7a909093ab][^c-b301043d015922f2339be656cbe9ab7f] TCPA 1990 is amended as follows.
 
 **Not yet in force.**
 
@@ -35,30 +35,30 @@ Section 196
 > - (a) an application for planning permission referred to a Planning Inquiry Commission under section 101; or
 > - (b) an application referred to the Secretary of State under this section instead of being dealt with by a local planning authority in England.
 
-**3.**[^key-b91ade1d435f70a66da7e11fcb759354] In section 78(5) (appeals against failure to take planning decisions)—
+**3.**[^c-b91ade1d435f70a66da7e11fcb759354] In section 78(5) (appeals against failure to take planning decisions)—
 
 - (a) for “79(1)” substitute “ 79(1) and (3) ”, and
 - (b) for “and 288(10)(b)” substitute “ , 288(10)(b) and 319A(7)(b) ”.
 
-**4.**[^key-961999965cef9ba52cab962292003e1b] In section 79 (determination of appeals under section 78) for subsection (3) substitute—
+**4.**[^c-961999965cef9ba52cab962292003e1b] In section 79 (determination of appeals under section 78) for subsection (3) substitute—
 
 > (3) Subsection (2) does not apply to—
 >
 > - (a) an appeal referred to a Planning Inquiry Commission under section 101; or
 > - (b) an appeal against a decision of a local planning authority in England.
 
-**5.**[^key-90b40c4b75a09c91def03ef0bc89e4c6] In section 175 (supplementary provisions about appeals against enforcement notices) after subsection (3) insert—
+**5.**[^c-90b40c4b75a09c91def03ef0bc89e4c6] In section 175 (supplementary provisions about appeals against enforcement notices) after subsection (3) insert—
 
 > (3A) Subsection (3) does not apply to an appeal against an enforcement notice issued by a local planning authority in England.
 
-**6.**[^key-3623769d75add0775edd7fb9798d95b3] In section 176(4) (determination of appeals: disapplication of section 175(3))—
+**6.**[^c-3623769d75add0775edd7fb9798d95b3] In section 176(4) (determination of appeals: disapplication of section 175(3))—
 
 - (a) after “If” insert “ section 175(3) would otherwise apply and ”, and
 - (b) after “subsection (3)” insert “ of this section ”.
 
-**7.**[^key-e2cf7f83f2fba4aa795a1aa34fc3d054] In section 195(5) (appeals against failure to give decision on application under section 191 or 192) for “section 288(10)(b)” substitute “ sections 196(1A), 288(10)(b) and 319A(7)(d) ”.
+**7.**[^c-e2cf7f83f2fba4aa795a1aa34fc3d054] In section 195(5) (appeals against failure to give decision on application under section 191 or 192) for “section 288(10)(b)” substitute “ sections 196(1A), 288(10)(b) and 319A(7)(d) ”.
 
-**8.**[^key-e8443da5b407b12c8df5af96deb987db] (1) Amend section 196 (further provision as to appeals to Secretary of State under section 195) as follows.
+**8.**[^c-e8443da5b407b12c8df5af96deb987db] (1) Amend section 196 (further provision as to appeals to Secretary of State under section 195) as follows.
 
 (2) After subsection (1) insert—
 
@@ -76,11 +76,11 @@ Section 196
 
 (3) In subsection (6) for “such an appeal is brought” substitute “ an appeal is brought under subsection (1) ”.
 
-**10.**[^key-d0484522cc1001ee7da902d3886c53f0][^key-5cf7e674da883de0e5cba6a25c2124c8] In section 322 (orders as to costs of parties where no local inquiry held) after subsection (1) insert—
+**10.**[^c-d0484522cc1001ee7da902d3886c53f0][^c-5cf7e674da883de0e5cba6a25c2124c8] In section 322 (orders as to costs of parties where no local inquiry held) after subsection (1) insert—
 
 > (1A) This section also applies to proceedings under this Act to which section 319A applies.
 
-**11.**[^key-bf0c44cc26dc56d0b42ada1ee2ddd640][^key-200fe795499ed8c3b993191fa480b325] In section 322A (orders as to costs: supplementary) after subsection (1) insert—
+**11.**[^c-bf0c44cc26dc56d0b42ada1ee2ddd640][^c-200fe795499ed8c3b993191fa480b325] In section 322A (orders as to costs: supplementary) after subsection (1) insert—
 
 > (1A) This section also applies where—
 >
@@ -88,7 +88,7 @@ Section 196
 > - (b) the inquiry or hearing does not take place; and
 > - (c) if it had taken place, the Secretary of State or a person appointed by the Secretary of State would have had power to make an order under section 250(5) of the Local Government Act 1972 requiring any party to pay any costs of any other party.
 
-**12.**[^key-3c678da9d9d5dfb3499cdd653e32794d][^key-d2a7e8e1c4a50e90ccd5a4ce5baafab1] (1) Amend section 323 (procedure on certain appeals and applications) as follows.
+**12.**[^c-3c678da9d9d5dfb3499cdd653e32794d][^c-d2a7e8e1c4a50e90ccd5a4ce5baafab1] (1) Amend section 323 (procedure on certain appeals and applications) as follows.
 
 (2) After subsection (1) insert—
 
@@ -98,7 +98,7 @@ Section 196
 
 (4) In subsection (2)(a) for “such an inquiry or hearing” substitute “ an inquiry or hearing to which rules under section 9 of the Tribunals and Inquiries Act 1992 would apply ”.
 
-**13.**[^key-439ba7b222c6d844d9afec73f9235433][^key-274ed910281556656a03b3343ee12483] (1) Amend section 333 (regulations and orders) as follows.
+**13.**[^c-439ba7b222c6d844d9afec73f9235433][^c-274ed910281556656a03b3343ee12483] (1) Amend section 333 (regulations and orders) as follows.
 
 (2) In subsection (4) for “and 319” substitute “ , 319 and 319A(9) ”.
 
@@ -106,7 +106,7 @@ Section 196
 
 > (5A) No order may be made under section 319A(9) unless a draft of the instrument containing the order has been laid before, and approved by resolution of, each House of Parliament.
 
-**14.**[^key-6c7492757c565fbfa6e084ad73677a07][^key-1ecbd1fe98009dd531fb457e826393d3] (1) Amend Schedule 6 (determination of certain appeals by person appointed by Secretary of State) as follows.
+**14.**[^c-6c7492757c565fbfa6e084ad73677a07][^c-1ecbd1fe98009dd531fb457e826393d3] (1) Amend Schedule 6 (determination of certain appeals by person appointed by Secretary of State) as follows.
 
 (2) In paragraph 2 for sub-paragraph (5) substitute—
 
@@ -252,38 +252,38 @@ Section 196
 
 ## Annotations
 
-[^key-29fe7aea551db26ec8099d7a909093ab]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/1) in force at 6.4.2009 for specified purposes for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(j)](https://www.legislation.gov.uk/uksi/2009/400/article/3/j)
+[^c-29fe7aea551db26ec8099d7a909093ab]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/1) in force at 6.4.2009 for specified purposes for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(j)](https://www.legislation.gov.uk/uksi/2009/400/article/3/j)
 
-[^key-b301043d015922f2339be656cbe9ab7f]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/1) in force at 25.4.2024 for specified purposes by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/452/regulation/2/b)
+[^c-b301043d015922f2339be656cbe9ab7f]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/1) in force at 25.4.2024 for specified purposes by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/452/regulation/2/b)
 
-[^key-b91ade1d435f70a66da7e11fcb759354]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/3) in force at 6.4.2009 for specified purposes for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(j)](https://www.legislation.gov.uk/uksi/2009/400/article/3/j)
+[^c-b91ade1d435f70a66da7e11fcb759354]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/3) in force at 6.4.2009 for specified purposes for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(j)](https://www.legislation.gov.uk/uksi/2009/400/article/3/j)
 
-[^key-961999965cef9ba52cab962292003e1b]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/4) in force at 6.4.2009 for specified purposes for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(j)](https://www.legislation.gov.uk/uksi/2009/400/article/3/j)
+[^c-961999965cef9ba52cab962292003e1b]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/4) in force at 6.4.2009 for specified purposes for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(j)](https://www.legislation.gov.uk/uksi/2009/400/article/3/j)
 
-[^key-90b40c4b75a09c91def03ef0bc89e4c6]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/5) in force at 6.4.2009 for specified purposes for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(j)](https://www.legislation.gov.uk/uksi/2009/400/article/3/j)
+[^c-90b40c4b75a09c91def03ef0bc89e4c6]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/5) in force at 6.4.2009 for specified purposes for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(j)](https://www.legislation.gov.uk/uksi/2009/400/article/3/j)
 
-[^key-3623769d75add0775edd7fb9798d95b3]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/6) in force at 6.4.2009 for specified purposes for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(j)](https://www.legislation.gov.uk/uksi/2009/400/article/3/j)
+[^c-3623769d75add0775edd7fb9798d95b3]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/6) in force at 6.4.2009 for specified purposes for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(j)](https://www.legislation.gov.uk/uksi/2009/400/article/3/j)
 
-[^key-e2cf7f83f2fba4aa795a1aa34fc3d054]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/7) in force at 25.4.2024 for specified purposes by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/452/regulation/2/b)
+[^c-e2cf7f83f2fba4aa795a1aa34fc3d054]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/7) in force at 25.4.2024 for specified purposes by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/452/regulation/2/b)
 
-[^key-e8443da5b407b12c8df5af96deb987db]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/8) in force at 25.4.2024 for specified purposes by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/452/regulation/2/b)
+[^c-e8443da5b407b12c8df5af96deb987db]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/8) in force at 25.4.2024 for specified purposes by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/452/regulation/2/b)
 
-[^key-d0484522cc1001ee7da902d3886c53f0]: Commencement: [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/10) in force at 6.4.2009 for specified purposes for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(j)](https://www.legislation.gov.uk/uksi/2009/400/article/3/j)
+[^c-d0484522cc1001ee7da902d3886c53f0]: Commencement: [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/10) in force at 6.4.2009 for specified purposes for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(j)](https://www.legislation.gov.uk/uksi/2009/400/article/3/j)
 
-[^key-5cf7e674da883de0e5cba6a25c2124c8]: Commencement: [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/10) in force at 25.4.2024 for specified purposes by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/452/regulation/2/b)
+[^c-5cf7e674da883de0e5cba6a25c2124c8]: Commencement: [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/10) in force at 25.4.2024 for specified purposes by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/452/regulation/2/b)
 
-[^key-bf0c44cc26dc56d0b42ada1ee2ddd640]: Commencement: [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/11) in force at 6.4.2009 for specified purposes for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(j)](https://www.legislation.gov.uk/uksi/2009/400/article/3/j)
+[^c-bf0c44cc26dc56d0b42ada1ee2ddd640]: Commencement: [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/11) in force at 6.4.2009 for specified purposes for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(j)](https://www.legislation.gov.uk/uksi/2009/400/article/3/j)
 
-[^key-200fe795499ed8c3b993191fa480b325]: Commencement: [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/11) in force at 25.4.2024 for specified purposes by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/452/regulation/2/b)
+[^c-200fe795499ed8c3b993191fa480b325]: Commencement: [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/11) in force at 25.4.2024 for specified purposes by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/452/regulation/2/b)
 
-[^key-3c678da9d9d5dfb3499cdd653e32794d]: Commencement: [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/12) in force at 6.4.2009 for specified purposes for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(j)](https://www.legislation.gov.uk/uksi/2009/400/article/3/j)
+[^c-3c678da9d9d5dfb3499cdd653e32794d]: Commencement: [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/12) in force at 6.4.2009 for specified purposes for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(j)](https://www.legislation.gov.uk/uksi/2009/400/article/3/j)
 
-[^key-d2a7e8e1c4a50e90ccd5a4ce5baafab1]: Commencement: [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/12) in force at 25.4.2024 for specified purposes by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/452/regulation/2/b)
+[^c-d2a7e8e1c4a50e90ccd5a4ce5baafab1]: Commencement: [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/12) in force at 25.4.2024 for specified purposes by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/452/regulation/2/b)
 
-[^key-439ba7b222c6d844d9afec73f9235433]: Commencement: [Sch. 10 para. 13](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/13) in force at 6.4.2009 for specified purposes for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(j)](https://www.legislation.gov.uk/uksi/2009/400/article/3/j)
+[^c-439ba7b222c6d844d9afec73f9235433]: Commencement: [Sch. 10 para. 13](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/13) in force at 6.4.2009 for specified purposes for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(j)](https://www.legislation.gov.uk/uksi/2009/400/article/3/j)
 
-[^key-274ed910281556656a03b3343ee12483]: Commencement: [Sch. 10 para. 13](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/13) in force at 25.4.2024 for specified purposes by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/452/regulation/2/b)
+[^c-274ed910281556656a03b3343ee12483]: Commencement: [Sch. 10 para. 13](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/13) in force at 25.4.2024 for specified purposes by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/452/regulation/2/b)
 
-[^key-6c7492757c565fbfa6e084ad73677a07]: Commencement: [Sch. 10 para. 14](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/14) in force at 6.4.2009 for specified purposes for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(j)](https://www.legislation.gov.uk/uksi/2009/400/article/3/j)
+[^c-6c7492757c565fbfa6e084ad73677a07]: Commencement: [Sch. 10 para. 14](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/14) in force at 6.4.2009 for specified purposes for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(j)](https://www.legislation.gov.uk/uksi/2009/400/article/3/j)
 
-[^key-1ecbd1fe98009dd531fb457e826393d3]: Commencement: [Sch. 10 para. 14](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/14) in force at 25.4.2024 for specified purposes by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/452/regulation/2/b)
+[^c-1ecbd1fe98009dd531fb457e826393d3]: Commencement: [Sch. 10 para. 14](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/14) in force at 25.4.2024 for specified purposes by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/452/regulation/2/b)

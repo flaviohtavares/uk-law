@@ -26,7 +26,7 @@ summary: ''
 
 The notice shall be given in writing in the prescribed manner, and shall include a statement of the grounds of opposition.
 
-(2A)[^key-43aba03d97c560284f7199ebe577cd68] Where a notice of opposition is filed on the basis of one or more earlier trade marks or other earlier rights—
+(2A)[^c-43aba03d97c560284f7199ebe577cd68] Where a notice of opposition is filed on the basis of one or more earlier trade marks or other earlier rights—
 
 - (a) the rights (if plural) must all belong to the same proprietor;
 - (b) the notice may be filed on the basis of part, or the totality, of the goods or services in respect of which the earlier right is protected or applied for.
@@ -41,4 +41,4 @@ A person who makes observations does not thereby become a party to the proceedin
 
 [^c1130354]: Commencement: S. 38 wholly in force at 31.10.1994; s. 38 not in force at Royal Assent see s. 109; s. 38(1)(2) in force for certain purposes at 29.9.1994 and at 31.10.1994 insofar as s. 38 not already in force by [S.I. 1994/2550](https://www.legislation.gov.uk/uksi/1994/2550), [art. 2](https://www.legislation.gov.uk/uksi/1994/2550/article/2), [3(1)](https://www.legislation.gov.uk/uksi/1994/2550/article/3/1), [Sch.](https://www.legislation.gov.uk/uksi/1994/2550/schedule)
 
-[^key-43aba03d97c560284f7199ebe577cd68]: Textual amendment: S. 38(2A)(2B) inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [19(2)](https://www.legislation.gov.uk/uksi/2018/825/regulation/19/2) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
+[^c-43aba03d97c560284f7199ebe577cd68]: Textual amendment: S. 38(2A)(2B) inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [19(2)](https://www.legislation.gov.uk/uksi/2018/825/regulation/19/2) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))

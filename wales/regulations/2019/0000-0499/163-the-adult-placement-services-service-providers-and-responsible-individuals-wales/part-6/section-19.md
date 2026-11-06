@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Language and communication[^key-b4d64bd9a11f6a1bdd45d9ad41036668]
+## 19. Language and communication[^c-b4d64bd9a11f6a1bdd45d9ad41036668]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4d64bd9a11f6a1bdd45d9ad41036668]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2019/163/regulation/19) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)
+[^c-b4d64bd9a11f6a1bdd45d9ad41036668]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2019/163/regulation/19) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)

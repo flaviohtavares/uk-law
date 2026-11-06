@@ -31,7 +31,7 @@ summary: ''
 
 CENSUS
 
-The Census Regulations (Northern Ireland) 2000 (revoked)[^key-d3bb75983e1f1585a0a050ea2a596008]
+The Census Regulations (Northern Ireland) 2000 (revoked)[^c-d3bb75983e1f1585a0a050ea2a596008]
 
 Made
 
@@ -41,95 +41,95 @@ Coming into force
 
 26th June 2000
 
-[^key-d3bb75983e1f1585a0a050ea2a596008]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3bb75983e1f1585a0a050ea2a596008]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d3bb75983e1f1585a0a050ea2a596008]
+## 1. Citation and commencement[^c-d3bb75983e1f1585a0a050ea2a596008]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-d3bb75983e1f1585a0a050ea2a596008]
+## 2. Interpretation[^c-d3bb75983e1f1585a0a050ea2a596008]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Census districts, enumeration districts and census areas[^key-d3bb75983e1f1585a0a050ea2a596008]
+## 3. Census districts, enumeration districts and census areas[^c-d3bb75983e1f1585a0a050ea2a596008]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Appointment of Officers[^key-d3bb75983e1f1585a0a050ea2a596008]
+## 4. Appointment of Officers[^c-d3bb75983e1f1585a0a050ea2a596008]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Undertaking[^key-d3bb75983e1f1585a0a050ea2a596008]
+## 5. Undertaking[^c-d3bb75983e1f1585a0a050ea2a596008]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Forms of return[^key-d3bb75983e1f1585a0a050ea2a596008]
+## 6. Forms of return[^c-d3bb75983e1f1585a0a050ea2a596008]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Supply of forms and other documents for census enumerators[^key-d3bb75983e1f1585a0a050ea2a596008]
+## 7. Supply of forms and other documents for census enumerators[^c-d3bb75983e1f1585a0a050ea2a596008]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Delivery of forms of return[^key-d3bb75983e1f1585a0a050ea2a596008]
+## 8. Delivery of forms of return[^c-d3bb75983e1f1585a0a050ea2a596008]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Individual returns in households[^key-d3bb75983e1f1585a0a050ea2a596008]
+## 9. Individual returns in households[^c-d3bb75983e1f1585a0a050ea2a596008]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Information to be provided by census enumerators[^key-d3bb75983e1f1585a0a050ea2a596008]
+## 10. Information to be provided by census enumerators[^c-d3bb75983e1f1585a0a050ea2a596008]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Information to be provided by persons in charge of premises or vessels[^key-d3bb75983e1f1585a0a050ea2a596008]
+## 11. Information to be provided by persons in charge of premises or vessels[^c-d3bb75983e1f1585a0a050ea2a596008]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Return of completed forms of return[^key-d3bb75983e1f1585a0a050ea2a596008]
+## 12. Return of completed forms of return[^c-d3bb75983e1f1585a0a050ea2a596008]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Follow-up action[^key-d3bb75983e1f1585a0a050ea2a596008]
+## 13. Follow-up action[^c-d3bb75983e1f1585a0a050ea2a596008]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Further duties of census enumerators, census team leaders and census district managers[^key-d3bb75983e1f1585a0a050ea2a596008]
+## 14. Further duties of census enumerators, census team leaders and census district managers[^c-d3bb75983e1f1585a0a050ea2a596008]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Giving of information[^key-d3bb75983e1f1585a0a050ea2a596008]
+## 15. Giving of information[^c-d3bb75983e1f1585a0a050ea2a596008]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Safe custody of forms and documents[^key-d3bb75983e1f1585a0a050ea2a596008]
+## 16. Safe custody of forms and documents[^c-d3bb75983e1f1585a0a050ea2a596008]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Revocation[^key-d3bb75983e1f1585a0a050ea2a596008]
+## 17. Revocation[^c-d3bb75983e1f1585a0a050ea2a596008]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d3bb75983e1f1585a0a050ea2a596008]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3bb75983e1f1585a0a050ea2a596008]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Form of Undertaking to be given by Officers[^key-d3bb75983e1f1585a0a050ea2a596008]
+## SCHEDULE 1 — Form of Undertaking to be given by Officers[^c-d3bb75983e1f1585a0a050ea2a596008]
 
 Regulation 5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-d3bb75983e1f1585a0a050ea2a596008]
+## SCHEDULE 2[^c-d3bb75983e1f1585a0a050ea2a596008]
 
 Regulation 6
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Forms of Return for 2001 Census[^key-d3bb75983e1f1585a0a050ea2a596008]
+## SCHEDULE 3 — Forms of Return for 2001 Census[^c-d3bb75983e1f1585a0a050ea2a596008]
 
 Regulation 6
 
@@ -137,8 +137,8 @@ Regulation 6
 
 **May not be in force at this date. Check the source.**
 
-[^key-d3bb75983e1f1585a0a050ea2a596008]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3bb75983e1f1585a0a050ea2a596008]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d3bb75983e1f1585a0a050ea2a596008]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/198) revoked (26.7.2010) by [The Census Regulations (Northern Ireland) 2010 (revoked) 2010 (S.R. 2010/218)](https://www.legislation.gov.uk/nisr/2010/218), [regs. 1](https://www.legislation.gov.uk/nisr/2010/218/regulation/1), [3](https://www.legislation.gov.uk/nisr/2010/218/regulation/3)
+[^c-d3bb75983e1f1585a0a050ea2a596008]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/198) revoked (26.7.2010) by [The Census Regulations (Northern Ireland) 2010 (revoked) 2010 (S.R. 2010/218)](https://www.legislation.gov.uk/nisr/2010/218), [regs. 1](https://www.legislation.gov.uk/nisr/2010/218/regulation/1), [3](https://www.legislation.gov.uk/nisr/2010/218/regulation/3)

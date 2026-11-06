@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## G3. Payments to be debited[^key-4c8414e2b1750cb1f6921544b3d5b6fd]
+## G3. Payments to be debited[^c-4c8414e2b1750cb1f6921544b3d5b6fd]
 
 *Extent: N.I.*
 
@@ -33,6 +33,6 @@ There shall be debited to the account all sums paid during the financial year by
 
 ## Annotations
 
-[^key-4c8414e2b1750cb1f6921544b3d5b6fd]: Commencement: Reg. G3 in operation at 2.11.1998, see reg. A1
+[^c-4c8414e2b1750cb1f6921544b3d5b6fd]: Commencement: Reg. G3 in operation at 2.11.1998, see reg. A1
 
 [^f00030]: Footnote: [1971 c. 35 (N.I.)](https://www.legislation.gov.uk/apni/1971/35). Part 1 of the Act has been amended by Article 23(1) of, and paragraphs 8 to 10 of Schedule 6 to the Superannuation (Northern Ireland) Order 1972 ([S.I. 1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073)); Articles 5(2) and (3) of the Pensions (Increase) (Northern Ireland) Order 1974 ([S.I. 1974/1267 (N.I.2)](https://www.legislation.gov.uk/nisi/1974/1267)); Article 74(2) of, and Schedule 6 to the Social Security Pensions (Northern Ireland) Order 1975 ([S.I.1975/1503 (N.I. 15)](https://www.legislation.gov.uk/nisi/1975/1503)) and Article 2 of the [Pensions Increase (Reduction of Qualifying Age) Order 1972 (S.R. & O. (N.I.) 1972 No. 264))](https://www.legislation.gov.uk/nisro/1972/264). *See also* Articles 69 and 69A of the Social Security Pensions (Northern Ireland) Order 1975 ([S.I. 1975/1503 (N.I. 15)](https://www.legislation.gov.uk/nisi/1975/1503)) which have effect as if they were contained in Part V of that Act. Article 69A was inserted by the Social Security (Northern Ireland) Order 1979 ([S.I. 1979/396 (N.I. 5)](https://www.legislation.gov.uk/nisi/1979/396)) Article 10(3) Part I of the Act has also been amended by the Pensions (Miscellaneous Provisions) (Northern Ireland) Order 1990 ([S.I. 1990/1509 (N.I. 13)](https://www.legislation.gov.uk/nisi/1990/1509))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 541. Interest on unpaid levies[^key-9b4a64f4652dbed2080b302a960bf165]
+## 541. Interest on unpaid levies[^c-9b4a64f4652dbed2080b302a960bf165]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ The National Park Authorities (Levies) (England) Regulations 1996 are amended as
 
 ## Annotations
 
-[^key-9b4a64f4652dbed2080b302a960bf165]: Commencement: Art. 541 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-9b4a64f4652dbed2080b302a960bf165]: Commencement: Art. 541 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00344]: Footnote: Regulation 8(3) was amended by [S.I. 1998/1129](https://www.legislation.gov.uk/uksi/1998/1129).

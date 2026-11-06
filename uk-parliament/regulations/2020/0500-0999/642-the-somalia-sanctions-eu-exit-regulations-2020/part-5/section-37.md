@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Import of charcoal[^key-ce023381fcb47b0e55e402c2cbc2fb5e]
+## 37. Import of charcoal[^c-ce023381fcb47b0e55e402c2cbc2fb5e]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce023381fcb47b0e55e402c2cbc2fb5e]: Commencement: Reg. 37 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
+[^c-ce023381fcb47b0e55e402c2cbc2fb5e]: Commencement: Reg. 37 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)

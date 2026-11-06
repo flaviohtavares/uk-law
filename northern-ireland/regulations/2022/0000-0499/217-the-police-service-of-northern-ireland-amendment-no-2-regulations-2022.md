@@ -44,17 +44,17 @@ The Department of Justice, in exercise of the powers conferred by sections 25(1)
 
 In accordance with sections 25(8) and 26(6) of that Act the Department has consulted the Northern Ireland Policing Board and the Police Association for Northern Ireland before making these Regulations.
 
-## 1. Citation and commencement[^key-e846c66ba29161a5072014d636631f75]
+## 1. Citation and commencement[^c-e846c66ba29161a5072014d636631f75]
 
 These Regulations may be cited as the Police Service of Northern Ireland (Amendment) (No. 2) Regulations 2022 and shall come into operation on 17th September 2022.
 
-## 2. Amendment of the Police Service of Northern Ireland Regulations 2005[^key-a0a93050e989a9f9a564930cf03523e9]
+## 2. Amendment of the Police Service of Northern Ireland Regulations 2005[^c-a0a93050e989a9f9a564930cf03523e9]
 
 (1) The Police Service of Northern Ireland Regulations 2005[^f00003] shall be amended in accordance with paragraph (2).
 
 (2) In regulation 3(1) in paragraph (a) of the definition of “public holiday”, for 2022 only, after “last Monday in August,” insert “19th September,”.
 
-## 3. Amendment of the Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Injury Benefit) Regulations 2006[^key-ad872c4b7f3d9a5426e71468dc4d5a68]
+## 3. Amendment of the Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Injury Benefit) Regulations 2006[^c-ad872c4b7f3d9a5426e71468dc4d5a68]
 
 (1) The Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Injury Benefit) Regulations 2006[^f00004] shall be amended in accordance with paragraph (2).
 
@@ -78,12 +78,12 @@ These Regulations amend the Police Service of Northern Ireland Regulations 2005 
 
 [^f00002]: Footnote: Article 5 of and paragraphs 9 and 10 of Schedule 3 to the Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order ([S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976)) transferred the regulation making powers of the Secretary of State to the Department of Justice.
 
-[^key-e846c66ba29161a5072014d636631f75]: Commencement: Reg. 1 in operation at 17.9.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/217/regulation/1)
+[^c-e846c66ba29161a5072014d636631f75]: Commencement: Reg. 1 in operation at 17.9.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/217/regulation/1)
 
-[^key-a0a93050e989a9f9a564930cf03523e9]: Commencement: Reg. 2 in operation at 17.9.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/217/regulation/1)
+[^c-a0a93050e989a9f9a564930cf03523e9]: Commencement: Reg. 2 in operation at 17.9.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/217/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2005 No. 547](https://www.legislation.gov.uk/nisr/2005/547). Relevant amendments are made by [S.R. 2022 No. 129](https://www.legislation.gov.uk/nisr/2022/129).
 
-[^key-ad872c4b7f3d9a5426e71468dc4d5a68]: Commencement: Reg. 3 in operation at 17.9.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/217/regulation/1)
+[^c-ad872c4b7f3d9a5426e71468dc4d5a68]: Commencement: Reg. 3 in operation at 17.9.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/217/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2006 No. 268](https://www.legislation.gov.uk/nisr/2006/268). Relevant amendments are made by [S.R. 2022 No. 129](https://www.legislation.gov.uk/nisr/2022/129).

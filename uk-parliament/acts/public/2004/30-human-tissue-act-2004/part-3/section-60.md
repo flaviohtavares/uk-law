@@ -27,7 +27,7 @@ summary: ''
 
 (2) The remaining provisions of this Act shall come into force on such day as the Secretary of State may appoint by order made by statutory instrument, and different days may be so appointed for different purposes.
 
-(3) Before exercising the power under subsection (2) in relation to the coming into force in England and Wales of any provision of this Act, except section 47, the Secretary of State shall consult the Welsh Ministers[^key-08923ccbbe77c2d618e92d95a46375b3].
+(3) Before exercising the power under subsection (2) in relation to the coming into force in England and Wales of any provision of this Act, except section 47, the Secretary of State shall consult the Welsh Ministers[^c-08923ccbbe77c2d618e92d95a46375b3].
 
 (4) Before exercising the power under subsection (2) in relation to the coming into force in Northern Ireland of any provision of this Act, except section 47, the Secretary of State shall consult the relevant Northern Ireland department.
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08923ccbbe77c2d618e92d95a46375b3]: Textual amendment: Words in [s. 60(3)](https://www.legislation.gov.uk/ukpga/2004/30/section/60/3) substituted (1.12.2015) by [Human Transplantation (Wales) Act 2013 (anaw 5)](https://www.legislation.gov.uk/anaw/2013/5), [ss. 16(10)](https://www.legislation.gov.uk/anaw/2013/5/section/16/10), [21(1)](https://www.legislation.gov.uk/anaw/2013/5/section/21/1) (with [s. 14](https://www.legislation.gov.uk/anaw/2013/5/section/14)); [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(e)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/e)
+[^c-08923ccbbe77c2d618e92d95a46375b3]: Textual amendment: Words in [s. 60(3)](https://www.legislation.gov.uk/ukpga/2004/30/section/60/3) substituted (1.12.2015) by [Human Transplantation (Wales) Act 2013 (anaw 5)](https://www.legislation.gov.uk/anaw/2013/5), [ss. 16(10)](https://www.legislation.gov.uk/anaw/2013/5/section/16/10), [21(1)](https://www.legislation.gov.uk/anaw/2013/5/section/21/1) (with [s. 14](https://www.legislation.gov.uk/anaw/2013/5/section/14)); [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(e)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/e)

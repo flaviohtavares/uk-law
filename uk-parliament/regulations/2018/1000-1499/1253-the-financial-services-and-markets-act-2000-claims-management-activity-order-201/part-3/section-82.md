@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 82. Duration of temporary permission[^key-a71effb901ea555556ace22bf2908feb][^key-355a6302f190a368fe581de2767b0469]
+## 82. Duration of temporary permission[^c-a71effb901ea555556ace22bf2908feb][^c-355a6302f190a368fe581de2767b0469]
 
 *Extent: E+W+S*
 
@@ -81,6 +81,6 @@ the date on which the period of 30 days, beginning with the date on which the FC
 
 ## Annotations
 
-[^key-a71effb901ea555556ace22bf2908feb]: Commencement: Art. 82 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-a71effb901ea555556ace22bf2908feb]: Commencement: Art. 82 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-355a6302f190a368fe581de2767b0469]: Commencement: [Art. 82](https://www.legislation.gov.uk/uksi/2018/1253/article/82) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-355a6302f190a368fe581de2767b0469]: Commencement: [Art. 82](https://www.legislation.gov.uk/uksi/2018/1253/article/82) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)

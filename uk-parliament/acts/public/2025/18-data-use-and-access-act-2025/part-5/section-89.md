@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Joint processing by intelligence services and competent authorities[^key-103676c6528c0968de8a453afb5e3284][^key-d557bcf446f4d51be8349fb1e239ad26]
+## 89. Joint processing by intelligence services and competent authorities[^c-103676c6528c0968de8a453afb5e3284][^c-d557bcf446f4d51be8349fb1e239ad26]
 
 *Extent: E+W+S+N.I.*
 
@@ -165,6 +165,6 @@ summary: ''
 
 ## Annotations
 
-[^key-103676c6528c0968de8a453afb5e3284]: Commencement: S. 89 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-103676c6528c0968de8a453afb5e3284]: Commencement: S. 89 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-d557bcf446f4d51be8349fb1e239ad26]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2025/18/section/89) in force at 17.11.2025 in so far as not already in force by [S.I. 2025/996](https://www.legislation.gov.uk/uksi/2025/996), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2025/996/regulation/2/2/a)
+[^c-d557bcf446f4d51be8349fb1e239ad26]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2025/18/section/89) in force at 17.11.2025 in so far as not already in force by [S.I. 2025/996](https://www.legislation.gov.uk/uksi/2025/996), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2025/996/regulation/2/2/a)

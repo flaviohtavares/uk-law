@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 98. Option for pension credit member to commute whole pension (serious ill-health)[^key-96a0399b61aa57d4869e8b690df74787]
+## 98. Option for pension credit member to commute whole pension (serious ill-health)[^c-96a0399b61aa57d4869e8b690df74787]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96a0399b61aa57d4869e8b690df74787]: Commencement: [Reg. 98](https://www.legislation.gov.uk/nisr/2014/290/regulation/98) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-96a0399b61aa57d4869e8b690df74787]: Commencement: [Reg. 98](https://www.legislation.gov.uk/nisr/2014/290/regulation/98) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

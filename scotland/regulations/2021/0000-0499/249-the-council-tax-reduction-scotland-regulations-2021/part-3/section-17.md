@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Persons treated as being in Great Britain[^key-90c92eab6f6972eed4d39dde60d175f0]
+## 17. Persons treated as being in Great Britain[^c-90c92eab6f6972eed4d39dde60d175f0]
 
 *Extent: S*
 
@@ -50,7 +50,7 @@ summary: ''
 
 ## Annotations
 
-[^key-90c92eab6f6972eed4d39dde60d175f0]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2021/249/regulation/17) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-90c92eab6f6972eed4d39dde60d175f0]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2021/249/regulation/17) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00124]: Footnote: [2006 c.52](https://www.legislation.gov.uk/ukpga/2006/52). Section 374 was relevantly amended by section 44 of the Defence Reform Act [2014 (c.20)](https://www.legislation.gov.uk/ukpga/2014/20).
 

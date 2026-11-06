@@ -24,7 +24,7 @@ Section 38
 
 ### Illegal working closure notices
 
-**1.**[^key-4aeec9e1cfd8f10c89bcb7dc98e1f0db] (1) An immigration officer of at least the rank of chief immigration officer may issue an illegal working closure notice in respect of premises if satisfied on reasonable grounds that the conditions in sub-paragraphs (3) and (6) are met.
+**1.**[^c-4aeec9e1cfd8f10c89bcb7dc98e1f0db] (1) An immigration officer of at least the rank of chief immigration officer may issue an illegal working closure notice in respect of premises if satisfied on reasonable grounds that the conditions in sub-paragraphs (3) and (6) are met.
 
 (2) An illegal working closure notice is a notice which prohibits, for a period specified in the notice—
 
@@ -89,7 +89,7 @@ that the notice is going to be issued.
 
 (13) The Secretary of State may by regulations amend sub-paragraph (1) to change the rank specified in that sub-paragraph.
 
-**2.**[^key-e991cdcafe96afe1d670a251afc61878] (1) An illegal working closure notice must—
+**2.**[^c-e991cdcafe96afe1d670a251afc61878] (1) An illegal working closure notice must—
 
 - (a) identify the premises;
 - (b) explain the effect of the notice;
@@ -115,7 +115,7 @@ that the notice is going to be issued.
 
 ### Cancellation of illegal working closure notices
 
-**3.**[^key-815a7bc539b49bcf3f9727e765e53519] (1) An immigration officer may by the issue of a cancellation notice cancel an illegal working closure notice if—
+**3.**[^c-815a7bc539b49bcf3f9727e765e53519] (1) An immigration officer may by the issue of a cancellation notice cancel an illegal working closure notice if—
 
 - (a) the immigration officer considers that the condition in paragraph 1(3) or (6) is not met, or
 - (b) the employer shows in relation to the employment of each illegal worker that if a penalty notice were given under section 15 of the 2006 Act the employer would be excused under subsection (3) of that section from paying the penalty.
@@ -127,7 +127,7 @@ that the notice is going to be issued.
 
 ### Service of notices
 
-**4.**[^key-30bdf662335f6ccac7fa33f49d5adf0d] (1) A notice under paragraph 1, 2 or 3 must be served by an immigration officer.
+**4.**[^c-30bdf662335f6ccac7fa33f49d5adf0d] (1) A notice under paragraph 1, 2 or 3 must be served by an immigration officer.
 
 (2) The immigration officer must if possible—
 
@@ -143,7 +143,7 @@ that the notice is going to be issued.
 
 ### Illegal working compliance orders
 
-**5.**[^key-38b5575da08609dfcca35ab3c3056302] (1) Whenever an illegal working closure notice is issued an application must be made to the court for an illegal working compliance order (unless the notice has been cancelled under paragraph 3).
+**5.**[^c-38b5575da08609dfcca35ab3c3056302] (1) Whenever an illegal working closure notice is issued an application must be made to the court for an illegal working compliance order (unless the notice has been cancelled under paragraph 3).
 
 (2) An application for an illegal working compliance order must be made by an immigration officer.
 
@@ -181,7 +181,7 @@ that the notice is going to be issued.
 
 (11) The court must notify the relevant licensing authority if it makes an illegal working compliance order in relation to premises in England and Wales in respect of which a premises licence is in force.
 
-### Prescribed checks and documents[^key-2fce16fc4b780e6ea0729ba777ad3ac2]
+### Prescribed checks and documents[^c-2fce16fc4b780e6ea0729ba777ad3ac2]
 
 **5A.** (1) Regulations under paragraph 5(6)(b) or (c) may, in particular—
 
@@ -195,7 +195,7 @@ that the notice is going to be issued.
 
 ### Illegal working compliance orders: adjournment of hearing
 
-**6.**[^key-4eb7f7af2c99801a4488ae147597f9b8] (1) This paragraph applies where an application has been made under paragraph 5 for an illegal working compliance order.
+**6.**[^c-4eb7f7af2c99801a4488ae147597f9b8] (1) This paragraph applies where an application has been made under paragraph 5 for an illegal working compliance order.
 
 (2) The court may adjourn the hearing of the application for a period of not more than 14 days to enable any person who has an interest in the premises to show why an illegal working compliance order should not be made.
 
@@ -203,7 +203,7 @@ that the notice is going to be issued.
 
 ### Extension of illegal working compliance orders
 
-**7.**[^key-e623807ea5340bfd061b731dbea50b6d] (1) An immigration officer may apply to the court for an extension (or further extension) of the period for which any provision of an illegal working compliance order is in force.
+**7.**[^c-e623807ea5340bfd061b731dbea50b6d] (1) An immigration officer may apply to the court for an extension (or further extension) of the period for which any provision of an illegal working compliance order is in force.
 
 (2) The court may grant an application under this paragraph only if it is satisfied, on the balance of probabilities, that it is necessary to grant it to prevent an employer operating at the premises from employing an illegal worker.
 
@@ -223,7 +223,7 @@ requiring the person to appear before the court to respond to the application.
 
 ### Variation or discharge of illegal working compliance orders
 
-**8.**[^key-9676116821b091855d39307398a61f2a] (1) An application may be made to the court under this paragraph—
+**8.**[^c-9676116821b091855d39307398a61f2a] (1) An application may be made to the court under this paragraph—
 
 - (a) by an immigration officer for an illegal working compliance order to be varied or discharged,
 - (b) by a person on whom the illegal working closure notice was served under paragraph 4, or by any other person who has an interest in the premises, for an illegal working compliance order to be varied or discharged.
@@ -242,7 +242,7 @@ requiring the person to appear before the court to respond to the application.
 
 ### Notice and orders: appeals
 
-**9.**[^key-27e2eb560b4d77045abda9926987194f] (1) An appeal against a decision—
+**9.**[^c-27e2eb560b4d77045abda9926987194f] (1) An appeal against a decision—
 
 - (a) to make, extend or vary an illegal working compliance order;
 - (b) not to discharge an illegal working compliance order;
@@ -272,7 +272,7 @@ may be made by an immigration officer.
 
 ### Notices and orders: enforcement
 
-**10.**[^key-5b156504968457b1a4a656459f84ead8] (1) Where access to premises is prohibited or restricted by virtue of an illegal working closure notice or an illegal working compliance order an immigration officer or a constable may enter the premises and do anything necessary to secure the premises against entry.
+**10.**[^c-5b156504968457b1a4a656459f84ead8] (1) Where access to premises is prohibited or restricted by virtue of an illegal working closure notice or an illegal working compliance order an immigration officer or a constable may enter the premises and do anything necessary to secure the premises against entry.
 
 (2) A person acting under sub-paragraph (1) may use reasonable force.
 
@@ -280,7 +280,7 @@ may be made by an immigration officer.
 
 ### Notices and orders: offences
 
-**11.**[^key-679bf7374c9e5c90bc2388d888670622] (1) A person who without reasonable excuse remains on or enters premises in contravention of an illegal working closure notice commits an offence.
+**11.**[^c-679bf7374c9e5c90bc2388d888670622] (1) A person who without reasonable excuse remains on or enters premises in contravention of an illegal working closure notice commits an offence.
 
 (2) A person who without reasonable excuse contravenes an illegal working compliance order commits an offence.
 
@@ -296,7 +296,7 @@ may be made by an immigration officer.
 
 ### Access to other premises
 
-**12.**[^key-264f4119177a2c3dc840c29aa7ccf664] (1) Where—
+**12.**[^c-264f4119177a2c3dc840c29aa7ccf664] (1) Where—
 
 - (a) access to premises is prohibited or restricted by a provision of an illegal working compliance order,
 - (b) those premises are part of a building or structure, and
@@ -316,7 +316,7 @@ an occupier or owner of that other part may apply to the court for an order unde
 
 ### Reimbursement of costs
 
-**13.**[^key-2528627b509910e3ff27214e26658014] (1) Where the Secretary of State incurs expenditure for the purpose of clearing, securing or maintaining premises in respect of which an illegal working compliance order is in force, the Secretary of State may apply to the court for an order under this paragraph.
+**13.**[^c-2528627b509910e3ff27214e26658014] (1) Where the Secretary of State incurs expenditure for the purpose of clearing, securing or maintaining premises in respect of which an illegal working compliance order is in force, the Secretary of State may apply to the court for an order under this paragraph.
 
 (2) On an application under this paragraph the court may make whatever order it thinks appropriate for the reimbursement (in full or in part) by the owner or occupier of the premises of the expenditure mentioned in sub-paragraph (1).
 
@@ -326,7 +326,7 @@ an occupier or owner of that other part may apply to the court for an order unde
 
 ### Exemption from liability
 
-**14.**[^key-2164d71748eb19d809a10c3665a79eff] (1) Each of the following—
+**14.**[^c-2164d71748eb19d809a10c3665a79eff] (1) Each of the following—
 
 - (a) the Secretary of State,
 - (b) an immigration officer,
@@ -343,7 +343,7 @@ is not liable for damages in proceedings for judicial review or the tort of negl
 
 ### Compensation
 
-**15.**[^key-aa4e834ce308fcc62de717bd6bb6b6a3] (1) A person who claims to have incurred financial loss in consequence of an illegal working closure notice, other than one cancelled under paragraph 3(1)(b), may apply to the court for compensation.
+**15.**[^c-aa4e834ce308fcc62de717bd6bb6b6a3] (1) A person who claims to have incurred financial loss in consequence of an illegal working closure notice, other than one cancelled under paragraph 3(1)(b), may apply to the court for compensation.
 
 (2) An application under this paragraph may not be heard unless it is made before the end of the period of 3 months starting with the day on which the notice ceases to have effect.
 
@@ -355,7 +355,7 @@ is not liable for damages in proceedings for judicial review or the tort of negl
 
 ### Guidance
 
-**16.**[^key-a142954733dca6e7fdc1657b7cb8ffb9] (1) The Secretary of State may issue guidance about the exercise of functions under this Schedule.
+**16.**[^c-a142954733dca6e7fdc1657b7cb8ffb9] (1) The Secretary of State may issue guidance about the exercise of functions under this Schedule.
 
 (2) The Secretary of State may revise any guidance issued under this paragraph.
 
@@ -368,7 +368,7 @@ is not liable for damages in proceedings for judicial review or the tort of negl
 
 ### Interpretation
 
-**17.**[^key-d980bc795bafcd62baba601b91f456ac] (1) In this Schedule—
+**17.**[^c-d980bc795bafcd62baba601b91f456ac] (1) In this Schedule—
 
 - “court”, except where the context otherwise requires, means—
   - (a) in relation to premises in England and Wales or Northern Ireland, the magistrates' court;
@@ -393,46 +393,46 @@ is not liable for damages in proceedings for judicial review or the tort of negl
 
 ### Amendment of Licensing Act 2003
 
-**18.**[^key-df1644887fce4e0d90e9d03e11bf5ab5] After section 167(1) of the Licensing Act 2003 insert—
+**18.**[^c-df1644887fce4e0d90e9d03e11bf5ab5] After section 167(1) of the Licensing Act 2003 insert—
 
 > (1A) This section also applies where a court has made an illegal working compliance order under Schedule 6 to the Immigration Act 2016 and the relevant licensing authority has accordingly received a notice under that Schedule.
 
 ## Annotations
 
-[^key-4aeec9e1cfd8f10c89bcb7dc98e1f0db]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/1) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j) (with [reg. 7](https://www.legislation.gov.uk/uksi/2016/1037/regulation/7))
+[^c-4aeec9e1cfd8f10c89bcb7dc98e1f0db]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/1) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j) (with [reg. 7](https://www.legislation.gov.uk/uksi/2016/1037/regulation/7))
 
-[^key-e991cdcafe96afe1d670a251afc61878]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/2) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)
+[^c-e991cdcafe96afe1d670a251afc61878]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/2) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)
 
-[^key-815a7bc539b49bcf3f9727e765e53519]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/3) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)
+[^c-815a7bc539b49bcf3f9727e765e53519]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/3) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)
 
-[^key-30bdf662335f6ccac7fa33f49d5adf0d]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/4) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)
+[^c-30bdf662335f6ccac7fa33f49d5adf0d]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/4) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)
 
-[^key-38b5575da08609dfcca35ab3c3056302]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/5) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)
+[^c-38b5575da08609dfcca35ab3c3056302]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/5) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)
 
-[^key-2fce16fc4b780e6ea0729ba777ad3ac2]: Textual amendment: [Sch. 6 para. 5A](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/5A) inserted (19.6.2025 for specified purposes, 1.12.2025 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 55(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/55/3), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h); [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)
+[^c-2fce16fc4b780e6ea0729ba777ad3ac2]: Textual amendment: [Sch. 6 para. 5A](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/5A) inserted (19.6.2025 for specified purposes, 1.12.2025 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 55(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/55/3), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h); [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)
 
-[^key-4eb7f7af2c99801a4488ae147597f9b8]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/6) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)
+[^c-4eb7f7af2c99801a4488ae147597f9b8]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/6) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)
 
-[^key-e623807ea5340bfd061b731dbea50b6d]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/7) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)
+[^c-e623807ea5340bfd061b731dbea50b6d]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/7) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)
 
-[^key-9676116821b091855d39307398a61f2a]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/8) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)
+[^c-9676116821b091855d39307398a61f2a]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/8) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)
 
-[^key-27e2eb560b4d77045abda9926987194f]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/9) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)
+[^c-27e2eb560b4d77045abda9926987194f]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/9) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)
 
-[^key-5b156504968457b1a4a656459f84ead8]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/10) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)
+[^c-5b156504968457b1a4a656459f84ead8]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/10) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)
 
-[^key-679bf7374c9e5c90bc2388d888670622]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/11) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)
+[^c-679bf7374c9e5c90bc2388d888670622]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/11) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)
 
-[^key-264f4119177a2c3dc840c29aa7ccf664]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/12) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)
+[^c-264f4119177a2c3dc840c29aa7ccf664]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/12) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)
 
-[^key-2528627b509910e3ff27214e26658014]: Commencement: [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/13) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)
+[^c-2528627b509910e3ff27214e26658014]: Commencement: [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/13) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)
 
-[^key-2164d71748eb19d809a10c3665a79eff]: Commencement: [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/14) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)
+[^c-2164d71748eb19d809a10c3665a79eff]: Commencement: [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/14) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)
 
-[^key-aa4e834ce308fcc62de717bd6bb6b6a3]: Commencement: [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/15) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)
+[^c-aa4e834ce308fcc62de717bd6bb6b6a3]: Commencement: [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/15) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)
 
-[^key-a142954733dca6e7fdc1657b7cb8ffb9]: Commencement: [Sch. 6 para. 16](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/16) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)
+[^c-a142954733dca6e7fdc1657b7cb8ffb9]: Commencement: [Sch. 6 para. 16](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/16) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)
 
-[^key-d980bc795bafcd62baba601b91f456ac]: Commencement: [Sch. 6 para. 17](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/17) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)
+[^c-d980bc795bafcd62baba601b91f456ac]: Commencement: [Sch. 6 para. 17](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/17) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)
 
-[^key-df1644887fce4e0d90e9d03e11bf5ab5]: Commencement: [Sch. 6 para. 18](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/18) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)
+[^c-df1644887fce4e0d90e9d03e11bf5ab5]: Commencement: [Sch. 6 para. 18](https://www.legislation.gov.uk/ukpga/2016/19/schedule/6/paragraph/18) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/j)

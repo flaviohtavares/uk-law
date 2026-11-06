@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Modification of the relevant benefit year[^key-728f1c70e27da7b4d9224ef7f1994f43]
+## 14. Modification of the relevant benefit year[^c-728f1c70e27da7b4d9224ef7f1994f43]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ but would satisfy both of those conditions if the modified definition of “rele
 
 ## Annotations
 
-[^key-728f1c70e27da7b4d9224ef7f1994f43]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2016/219/regulation/14) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-728f1c70e27da7b4d9224ef7f1994f43]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2016/219/regulation/14) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

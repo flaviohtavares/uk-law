@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Warrant to place a caveat[^key-fd46a85b6fefc24cc9a8933572dcf666]
+## 67. Warrant to place a caveat[^c-fd46a85b6fefc24cc9a8933572dcf666]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd46a85b6fefc24cc9a8933572dcf666]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2012/5/section/67) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-fd46a85b6fefc24cc9a8933572dcf666]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2012/5/section/67) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

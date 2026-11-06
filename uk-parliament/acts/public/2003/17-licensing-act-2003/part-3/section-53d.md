@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 53D. Interim steps pending section 53C decision coming into effect[^key-f317375144b71b3e121440ba5b260a75]
+## 53D. Interim steps pending section 53C decision coming into effect[^c-f317375144b71b3e121440ba5b260a75]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ and for this purpose the conditions of the licence are modified if any of them i
 
 ## Annotations
 
-[^key-f317375144b71b3e121440ba5b260a75]: Textual amendment: S. 53D inserted (31.1.2017 for specified purposes, 6.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 137(5)](https://www.legislation.gov.uk/ukpga/2017/3/section/137/5), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e) (with [s. 137(8)](https://www.legislation.gov.uk/ukpga/2017/3/section/137/8)); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/399/regulation/3/c)
+[^c-f317375144b71b3e121440ba5b260a75]: Textual amendment: S. 53D inserted (31.1.2017 for specified purposes, 6.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 137(5)](https://www.legislation.gov.uk/ukpga/2017/3/section/137/5), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e) (with [s. 137(8)](https://www.legislation.gov.uk/ukpga/2017/3/section/137/8)); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/399/regulation/3/c)

@@ -41,7 +41,7 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety[^f00001] in exercise of the powers conferred on it by Articles 62, 98, 106 and 107(6) of, and Schedule 15 to, the Health and Personal Social Services (Northern Ireland) Order 1972[^f00002] and of all other powers enabling it in that behalf, with the approval of the Department of Finance and Personnel, and after consultation with such organisations as appeared to the Department to be representative of medical practitioners practising as ophthalmic medical practitioners, and ophthalmic opticians, as required by Article 62(3) of the said Order, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-57f4d3d53ddf01398c9cb66ea206822a]
+## 1. Citation, commencement and interpretation[^c-57f4d3d53ddf01398c9cb66ea206822a]
 
 (1) These Regulations may be cited as the Optical Charges and Payments and General Ophthalmic Services (Amendment No. 2) Regulations (Northern Ireland) 2003 and shall come into operation on 6th October 2003.
 
@@ -50,7 +50,7 @@ The Department of Health, Social Services and Public Safety[^f00001] in exercise
 - “the Optical Regulations” means the Health and Personal Social Services (Optical Charges and Payments) Regulations (Northern Ireland) 1997[^f00003]; and
 - “the Ophthalmic Regulations” means the Health and Personal Social Services (General Ophthalmic Services) Regulations (Northern Ireland) 1986[^f00004].
 
-## 2. Amendment of the Optical Regulations[^key-0ed122cfbcc063d1a8e7d4d0325804a7]
+## 2. Amendment of the Optical Regulations[^c-0ed122cfbcc063d1a8e7d4d0325804a7]
 
 (1) The Optical Regulations are amended as follows.
 
@@ -67,7 +67,7 @@ The Department of Health, Social Services and Public Safety[^f00001] in exercise
   ; and
 - (b) in paragraph (4), in sub-paragraph (a) (definition of family), for “sub-paragraphs (b) and (f)”, there is substituted “sub-paragraphs (b), (f) and (m)”.
 
-## 3. Amendment of the Ophthalmic Regulations[^key-f09ae25fa39247b0b7b1edf2b73eae1a]
+## 3. Amendment of the Ophthalmic Regulations[^c-f09ae25fa39247b0b7b1edf2b73eae1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -97,14 +97,14 @@ These Regulations make amendments to the Health and Personal Social Services (Op
 
 [^f00002]: Footnote: S.I. [1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265); relevant amending instruments are S.I. [1984/1158 (N.I. 8)](https://www.legislation.gov.uk/nisi/1984/1158) – Article 3 and Schedules 1 and 6; S.I. [1988/2249 (N.I. 24)](https://www.legislation.gov.uk/nisi/1988/2249) – Article 8; S.I. [1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194) – Article 34 and Schedule 5
 
-[^key-57f4d3d53ddf01398c9cb66ea206822a]: Commencement: Reg. 1 in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/424/regulation/1/1)
+[^c-57f4d3d53ddf01398c9cb66ea206822a]: Commencement: Reg. 1 in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/424/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1997 No. 191](https://www.legislation.gov.uk/nisr/1997/191); relevant amending instrument is [S.R. 2003 No. 176](https://www.legislation.gov.uk/nisr/2003/176)
 
 [^f00004]: Footnote: [S.R. 1986 No. 163](https://www.legislation.gov.uk/nisr/1986/163); relevant amending Regulations are [S.R. 1989 No. 113](https://www.legislation.gov.uk/nisr/1989/113), [S.R. 1995 No. 115](https://www.legislation.gov.uk/nisr/1995/115), [S.R. 1996 No. 416](https://www.legislation.gov.uk/nisr/1996/416), [S.R. 1999 Nos. 112](https://www.legislation.gov.uk/nisr/1999/112) and [394](https://www.legislation.gov.uk/nisr/1999/394), [S.R. 2001 No. 339](https://www.legislation.gov.uk/nisr/2001/339), [S.R. 2002 No. 85](https://www.legislation.gov.uk/nisr/2002/85) and [S.R. 2003 No. 176](https://www.legislation.gov.uk/nisr/2003/176)
 
-[^key-0ed122cfbcc063d1a8e7d4d0325804a7]: Commencement: Reg. 2 in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/424/regulation/1/1)
+[^c-0ed122cfbcc063d1a8e7d4d0325804a7]: Commencement: Reg. 2 in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/424/regulation/1/1)
 
 [^f00005]: Footnote: [2002 c. 14 (N.I.)](https://www.legislation.gov.uk/nia/2002/14)
 
-[^key-f09ae25fa39247b0b7b1edf2b73eae1a]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2003/424/regulation/3) revoked (9.11.2007) by [General Ophthalmic Services Regulations (Northern Ireland) 2007 (S.R. 2007/436)](https://www.legislation.gov.uk/nisr/2007/436), [regs. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1), [23(1)](https://www.legislation.gov.uk/nisr/2007/436/regulation/23/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2007/436/schedule/3) (with [reg. 23(2)](https://www.legislation.gov.uk/nisr/2007/436/regulation/23/2))
+[^c-f09ae25fa39247b0b7b1edf2b73eae1a]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2003/424/regulation/3) revoked (9.11.2007) by [General Ophthalmic Services Regulations (Northern Ireland) 2007 (S.R. 2007/436)](https://www.legislation.gov.uk/nisr/2007/436), [regs. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1), [23(1)](https://www.legislation.gov.uk/nisr/2007/436/regulation/23/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2007/436/schedule/3) (with [reg. 23(2)](https://www.legislation.gov.uk/nisr/2007/436/regulation/23/2))

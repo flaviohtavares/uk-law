@@ -48,11 +48,11 @@ In accordance with Article 47(3A) of the Food Safety (Northern Ireland) Order 19
 
 As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00005] there has been open and transparent public consultation during the preparation and evaluation of these Regulations.
 
-## 1. Citation and commencement[^key-fabd1afd54433c52665738a704640c8d]
+## 1. Citation and commencement[^c-fabd1afd54433c52665738a704640c8d]
 
 These Regulations may be cited as the Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) Regulations (Northern Ireland) 2009 and come into operation on 1st January 2010.
 
-## 2. Interpretation[^key-f0d55a4c6d227c5c52c624f8febb5c98]
+## 2. Interpretation[^c-f0d55a4c6d227c5c52c624f8febb5c98]
 
 (1) In these Regulations—
 
@@ -68,7 +68,7 @@ These Regulations may be cited as the Food for Particular Nutritional Uses (Addi
 
 (5) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 3. Offences, penalties and execution and enforcement[^key-63860f9a98e6f228cabf5ab767dba671]
+## 3. Offences, penalties and execution and enforcement[^c-63860f9a98e6f228cabf5ab767dba671]
 
 (1) Any person who contravenes any of the specified provisions shall be guilty of an offence.
 
@@ -76,7 +76,7 @@ These Regulations may be cited as the Food for Particular Nutritional Uses (Addi
 
 (3) Each district council shall execute and enforce these Regulations within its district.
 
-## 4. Application of various Articles of the Food Safety (Northern Ireland) Order 1991[^key-1b8d880e288ea0857211b2a8979594e0]
+## 4. Application of various Articles of the Food Safety (Northern Ireland) Order 1991[^c-1b8d880e288ea0857211b2a8979594e0]
 
 The following provisions of the Order shall apply for the purposes of these Regulations with the modification that any reference in those provisions to the Order or Part thereof shall be construed as a reference to these Regulations—
 
@@ -89,7 +89,7 @@ The following provisions of the Order shall apply for the purposes of these Regu
 - (g) Article 36(1) (punishment of offences), in so far as it relates to offences under Article 34(1) as applied by paragraph (e); and
 - (h) Article 36(2) and (3), in so far as it relates to offences under Article 34(2) as applied by paragraph (f).
 
-## 5. Amendment to the Tryptophan in Food Regulations (Northern Ireland) 2005[^key-c4c71be77b82866d21c876b810c809dc]
+## 5. Amendment to the Tryptophan in Food Regulations (Northern Ireland) 2005[^c-c4c71be77b82866d21c876b810c809dc]
 
 (1) The Tryptophan in Food Regulations (Northern Ireland) 2005[^f00007] are amended in accordance with paragraphs 2 and 3.
 
@@ -105,7 +105,7 @@ The following provisions of the Order shall apply for the purposes of these Regu
 
 .
 
-## 6. Revocation[^key-c93288d30eaee021245ac8dd817b615f]
+## 6. Revocation[^c-c93288d30eaee021245ac8dd817b615f]
 
 The following Regulations are revoked—
 
@@ -119,7 +119,7 @@ Christine Jendoubi
 
 A senior officer of the Department of Health, Social Services and Public Safety
 
-## THE SCHEDULE — Specified Provisions[^key-76ce0def150136294f6103acd37dde2a]
+## THE SCHEDULE — Specified Provisions[^c-76ce0def150136294f6103acd37dde2a]
 
 Regulations 2(1) and 3(1)
 
@@ -160,21 +160,21 @@ Article 3(2) of the Commission Regulation refers to the competent authorities re
 
 [^f00005]: Footnote: OJ No. L31, 1.2.2002, p.1, as last amended by Regulation [(EC) 596/2009](https://www.legislation.gov.uk/european/regulation/2009/0596) of the European Parliament and of the Council adapting a number of instruments subject to the procedure referred to in Article 251 of the Treaty to Council Decision [1999/468/EC](https://www.legislation.gov.uk/european/decision/1999/0468) with regard to the regulatory procedure with scrutiny: Adaptation to the regulatory procedure with scrutiny – Part Four (OJ No. L188, 18.7.2009, p.14)
 
-[^key-fabd1afd54433c52665738a704640c8d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2009/398/regulation/1) in operation at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/398/regulation/1)
+[^c-fabd1afd54433c52665738a704640c8d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2009/398/regulation/1) in operation at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/398/regulation/1)
 
-[^key-f0d55a4c6d227c5c52c624f8febb5c98]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/398/regulation/2) in operation at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/398/regulation/1)
+[^c-f0d55a4c6d227c5c52c624f8febb5c98]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/398/regulation/2) in operation at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/398/regulation/1)
 
 [^f00006]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-63860f9a98e6f228cabf5ab767dba671]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/398/regulation/3) in operation at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/398/regulation/1)
+[^c-63860f9a98e6f228cabf5ab767dba671]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/398/regulation/3) in operation at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/398/regulation/1)
 
-[^key-1b8d880e288ea0857211b2a8979594e0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2009/398/regulation/4) in operation at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/398/regulation/1)
+[^c-1b8d880e288ea0857211b2a8979594e0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2009/398/regulation/4) in operation at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/398/regulation/1)
 
-[^key-c4c71be77b82866d21c876b810c809dc]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2009/398/regulation/5) in operation at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/398/regulation/1)
+[^c-c4c71be77b82866d21c876b810c809dc]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2009/398/regulation/5) in operation at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/398/regulation/1)
 
 [^f00007]: Footnote: [S.R. 2005 No. 440](https://www.legislation.gov.uk/nisr/2005/440)
 
-[^key-c93288d30eaee021245ac8dd817b615f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2009/398/regulation/6) in operation at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/398/regulation/1)
+[^c-c93288d30eaee021245ac8dd817b615f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2009/398/regulation/6) in operation at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/398/regulation/1)
 
 [^f00008]: Footnote: [S.R. 2002 No. 264](https://www.legislation.gov.uk/nisr/2002/264)
 
@@ -182,6 +182,6 @@ Article 3(2) of the Commission Regulation refers to the competent authorities re
 
 [^f00010]: Footnote: [S.R. 2006 No. 481](https://www.legislation.gov.uk/nisr/2006/481)
 
-[^key-76ce0def150136294f6103acd37dde2a]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2009/398/schedule) in operation at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/398/regulation/1)
+[^c-76ce0def150136294f6103acd37dde2a]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2009/398/schedule) in operation at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/398/regulation/1)
 
 [^f00011]: Footnote: OJ No. L124, 20.5.2009, p.21

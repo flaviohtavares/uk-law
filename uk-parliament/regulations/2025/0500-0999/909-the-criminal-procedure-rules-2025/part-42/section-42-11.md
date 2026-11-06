@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42.11. Notice of appeal[^key-23f5d2101534f4d1a7b4c2c2b4e81d4b]
+## 42.11. Notice of appeal[^c-23f5d2101534f4d1a7b4c2c2b4e81d4b]
 
 *Extent: E+W*
 
@@ -65,7 +65,7 @@ summary: ''
 
 ## Annotations
 
-[^key-23f5d2101534f4d1a7b4c2c2b4e81d4b]: Commencement: [Rule 42.11](https://www.legislation.gov.uk/uksi/2025/909/rule/42.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-23f5d2101534f4d1a7b4c2c2b4e81d4b]: Commencement: [Rule 42.11](https://www.legislation.gov.uk/uksi/2025/909/rule/42.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00997]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 31 was amended by section 74 of, and paragraphs 1 and 16 of Schedule 8 to, the Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27) and section 3 of the Serious Crime Act [2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9).
 

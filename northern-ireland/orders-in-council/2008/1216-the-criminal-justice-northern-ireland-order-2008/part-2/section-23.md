@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) A court which sentences an offender to a determinate custodial sentence of 12 months or more in respect of any offence may, when passing sentence, recommend to the Department of Justice[^c22092071] particular conditions which in its view should be included in any licence granted to the offender under Article 17 , 19 or 20A[^key-10f58542ec133e60fd21b3998f31de9b] on release from prison.
+(1) A court which sentences an offender to a determinate custodial sentence of 12 months or more in respect of any offence may, when passing sentence, recommend to the Department of Justice[^c22092071] particular conditions which in its view should be included in any licence granted to the offender under Article 17 , 19 or 20A[^c-10f58542ec133e60fd21b3998f31de9b] on release from prison.
 
 (2) In exercising the powers under Article 24 in respect of an offender, the Department of Justice shall have regard to any recommendation under paragraph (1).
 
@@ -32,4 +32,4 @@ summary: ''
 
 [^c22092071]: Textual amendment: Words in [art. 23(1)(2)](https://www.legislation.gov.uk/nisi/2008/1216/article/23/1/2) substituted (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2010/976/article/6/2), [Sch. 5 para. 18](https://www.legislation.gov.uk/uksi/2010/976/schedule/5/paragraph/18) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 
-[^key-10f58542ec133e60fd21b3998f31de9b]: Textual amendment: Words in [art. 23(1)](https://www.legislation.gov.uk/nisi/2008/1216/article/23/1) substituted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 74(7)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/74/7)
+[^c-10f58542ec133e60fd21b3998f31de9b]: Textual amendment: Words in [art. 23(1)](https://www.legislation.gov.uk/nisi/2008/1216/article/23/1) substituted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 74(7)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/74/7)

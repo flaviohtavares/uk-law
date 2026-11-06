@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## F1. Payment of transfer values[^key-57291f374bb74ea52cfc3b92227495d6]
+## F1. Payment of transfer values[^c-57291f374bb74ea52cfc3b92227495d6]
 
 *Extent: N.I.*
 
@@ -53,6 +53,6 @@ and has not applied for payment of any benefit.
 
 ## Annotations
 
-[^key-57291f374bb74ea52cfc3b92227495d6]: Commencement: Reg. F1 in operation at 2.11.1998, see reg. A1
+[^c-57291f374bb74ea52cfc3b92227495d6]: Commencement: Reg. F1 in operation at 2.11.1998, see reg. A1
 
 [^f00028]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)

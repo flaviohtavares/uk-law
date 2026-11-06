@@ -31,7 +31,7 @@ summary: ''
 
 LOCAL GOVERNMENT, WALES
 
-The Local Authorities (Changing Executive Arrangements and Alternative Arrangements) (Wales) Regulations 2004 (revoked)[^key-9890d1a38fb109e6b5a70de551caf911]
+The Local Authorities (Changing Executive Arrangements and Alternative Arrangements) (Wales) Regulations 2004 (revoked)[^c-9890d1a38fb109e6b5a70de551caf911]
 
 Made
 
@@ -41,62 +41,62 @@ Coming into force
 
 9 December 2004
 
-[^key-9890d1a38fb109e6b5a70de551caf911]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9890d1a38fb109e6b5a70de551caf911]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Name, commencement, application and interpretation[^key-9890d1a38fb109e6b5a70de551caf911]
+## 1. Name, commencement, application and interpretation[^c-9890d1a38fb109e6b5a70de551caf911]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Proposals[^key-9890d1a38fb109e6b5a70de551caf911]
+## 2. Proposals[^c-9890d1a38fb109e6b5a70de551caf911]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Drawing up proposals[^key-9890d1a38fb109e6b5a70de551caf911]
+## 3. Drawing up proposals[^c-9890d1a38fb109e6b5a70de551caf911]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Directions[^key-9890d1a38fb109e6b5a70de551caf911]
+## 4. Directions[^c-9890d1a38fb109e6b5a70de551caf911]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Requirement to hold a referendum[^key-9890d1a38fb109e6b5a70de551caf911]
+## 5. Requirement to hold a referendum[^c-9890d1a38fb109e6b5a70de551caf911]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Information to be sent to the Assembly[^key-9890d1a38fb109e6b5a70de551caf911]
+## 6. Information to be sent to the Assembly[^c-9890d1a38fb109e6b5a70de551caf911]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Proposals not requiring a referendum[^key-9890d1a38fb109e6b5a70de551caf911]
+## 7. Proposals not requiring a referendum[^c-9890d1a38fb109e6b5a70de551caf911]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Proposals requiring a referendum[^key-9890d1a38fb109e6b5a70de551caf911]
+## 8. Proposals requiring a referendum[^c-9890d1a38fb109e6b5a70de551caf911]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Requirements for a resolution[^key-9890d1a38fb109e6b5a70de551caf911]
+## 9. Requirements for a resolution[^c-9890d1a38fb109e6b5a70de551caf911]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Publicity for arrangements[^key-9890d1a38fb109e6b5a70de551caf911]
+## 10. Publicity for arrangements[^c-9890d1a38fb109e6b5a70de551caf911]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Pre-commencement consultation[^key-9890d1a38fb109e6b5a70de551caf911]
+## 11. Pre-commencement consultation[^c-9890d1a38fb109e6b5a70de551caf911]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Revocation[^key-9890d1a38fb109e6b5a70de551caf911]
+## 12. Revocation[^c-9890d1a38fb109e6b5a70de551caf911]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9890d1a38fb109e6b5a70de551caf911]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9890d1a38fb109e6b5a70de551caf911]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9890d1a38fb109e6b5a70de551caf911]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9890d1a38fb109e6b5a70de551caf911]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9890d1a38fb109e6b5a70de551caf911]: Textual amendment: Regulations revoked (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [s. 36(4)(b)](https://www.legislation.gov.uk/mwa/2011/4/section/36/4/b), [Sch. 4](https://www.legislation.gov.uk/mwa/2011/4/schedule/4) Pt. B (with s. 36(5)-(8))
+[^c-9890d1a38fb109e6b5a70de551caf911]: Textual amendment: Regulations revoked (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [s. 36(4)(b)](https://www.legislation.gov.uk/mwa/2011/4/section/36/4/b), [Sch. 4](https://www.legislation.gov.uk/mwa/2011/4/schedule/4) Pt. B (with s. 36(5)-(8))

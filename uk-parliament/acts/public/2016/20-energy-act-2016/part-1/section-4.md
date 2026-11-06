@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Transfer of staff to the OGA[^key-ba5b5d089ea99143ff8c9781b51cc6d0]
+## 4. Transfer of staff to the OGA[^c-ba5b5d089ea99143ff8c9781b51cc6d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba5b5d089ea99143ff8c9781b51cc6d0]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2016/20/section/4) in force at 12.7.2016 by [S.I. 2016/602](https://www.legislation.gov.uk/uksi/2016/602), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2016/602/regulation/3/c) (as substituted by S.I. 2016/710, reg. 2)
+[^c-ba5b5d089ea99143ff8c9781b51cc6d0]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2016/20/section/4) in force at 12.7.2016 by [S.I. 2016/602](https://www.legislation.gov.uk/uksi/2016/602), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2016/602/regulation/3/c) (as substituted by S.I. 2016/710, reg. 2)

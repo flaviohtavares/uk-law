@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Interpretation of Part 11[^key-7cfff3c183d44121985e57b2b481c803]
+## 80. Interpretation of Part 11[^c-7cfff3c183d44121985e57b2b481c803]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7cfff3c183d44121985e57b2b481c803]: Commencement: Reg. 80 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-7cfff3c183d44121985e57b2b481c803]: Commencement: Reg. 80 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

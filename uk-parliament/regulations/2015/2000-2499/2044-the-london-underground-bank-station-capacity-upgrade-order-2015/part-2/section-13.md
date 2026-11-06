@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Temporary stopping up and diversion of streets[^key-a1bd754f5f7eeeb26057221904818a93]
+## 13. Temporary stopping up and diversion of streets[^c-a1bd754f5f7eeeb26057221904818a93]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1bd754f5f7eeeb26057221904818a93]: Commencement: Art. 13 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-a1bd754f5f7eeeb26057221904818a93]: Commencement: Art. 13 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)

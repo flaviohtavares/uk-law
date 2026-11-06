@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 51. Power of court to rectify register[^key-47d8c0d7aa918f25aa5f7414eceddda4]
+## 51. Power of court to rectify register[^c-47d8c0d7aa918f25aa5f7414eceddda4]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47d8c0d7aa918f25aa5f7414eceddda4]: Commencement: [Reg. 51](https://www.legislation.gov.uk/nisr/2004/335/regulation/51) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-47d8c0d7aa918f25aa5f7414eceddda4]: Commencement: [Reg. 51](https://www.legislation.gov.uk/nisr/2004/335/regulation/51) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

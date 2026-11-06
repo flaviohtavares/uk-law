@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Amendment of the Health Education and Improvement Wales Regulations 2017 (Welsh language text)[^key-50b272ef7d34b493a49a36ad76b27da4]
+## 93. Amendment of the Health Education and Improvement Wales Regulations 2017 (Welsh language text)[^c-50b272ef7d34b493a49a36ad76b27da4]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50b272ef7d34b493a49a36ad76b27da4]: Commencement: [Reg. 93](https://www.legislation.gov.uk/uksi/2023/1071/regulation/93) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-50b272ef7d34b493a49a36ad76b27da4]: Commencement: [Reg. 93](https://www.legislation.gov.uk/uksi/2023/1071/regulation/93) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)

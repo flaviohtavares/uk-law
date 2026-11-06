@@ -30,9 +30,9 @@ summary: ''
 (1A) In paragraphs (1) and (1ZA) “**relevant law-enforcement authority**” means—
 
 - (a) a police force;
-- (b) the National Crime Agency[^key-af7caa07aea62b816cb693bcb4e9e748];
-- (ba)[^key-fee2acd241db67228caed02d426dd3ac] the tri-service serious crime unit;
-- (c) a public authority (not falling within sub-paragraph (a) to (ba)[^key-fcc624a7b576fc8a4af00bb56f84c31c]) with functions in any part of the British Islands which consist of or include the investigation of crimes or the charging of offenders;
+- (b) the National Crime Agency[^c-af7caa07aea62b816cb693bcb4e9e748];
+- (ba)[^c-fee2acd241db67228caed02d426dd3ac] the tri-service serious crime unit;
+- (c) a public authority (not falling within sub-paragraph (a) to (ba)[^c-fcc624a7b576fc8a4af00bb56f84c31c]) with functions in any part of the British Islands which consist of or include the investigation of crimes or the charging of offenders;
 - (d) any person with functions in any country or territory outside the United Kingdom which—
   - (i) correspond to those of a police force; or
   - (ii) otherwise consist of or include the investigation of conduct contrary to the law of that country or territory, or the apprehension of persons guilty of such conduct;
@@ -49,7 +49,7 @@ summary: ''
 - (b) any police force maintained under section 2 of the Police Act 1996 (c. 16);
 - (c) the metropolitan police force;
 - (d) the City of London police force;
-- (e) the Police Service of Scotland;[^key-2b2ab4223aaf4a9cbb7db3ac08923325]
+- (e) the Police Service of Scotland;[^c-2b2ab4223aaf4a9cbb7db3ac08923325]
 - (f) the Ministry of Defence Police;
 - (g) the Royal Navy Regulating Branch;
 - (h) the Royal Military Police;
@@ -60,7 +60,7 @@ summary: ''
 - (m) the salaried police force of the Island of Guernsey;
 - (n) the Isle of Man Constabulary.
 
-(1BA)[^key-3a84067bbb235b6fa5c49e3dc0794495] In paragraph (1A) “tri-service serious crime unit” means the unit described in section 375(1A) of the Armed Forces Act 2006.
+(1BA)[^c-3a84067bbb235b6fa5c49e3dc0794495] In paragraph (1A) “tri-service serious crime unit” means the unit described in section 375(1A) of the Armed Forces Act 2006.
 
 (1C) Where—
 
@@ -105,12 +105,12 @@ the fingerprints or impressions of footwear or, as the case may be, those sample
 
 [^c20427821]: Textual amendment: Art. 63A(1)-(1D) substituted (1.3.2007) for art. 63A(1)(1A) by [Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/288 (N.I. 2))](https://www.legislation.gov.uk/nisi/2007/288), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2007/288/article/1/2), [34(2)](https://www.legislation.gov.uk/nisi/2007/288/article/34/2)
 
-[^key-af7caa07aea62b816cb693bcb4e9e748]: Textual amendment: Words in art. 63A(1A)(b) substituted (19.5.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/798/article/1/3), [6(2)](https://www.legislation.gov.uk/uksi/2015/798/article/6/2)
+[^c-af7caa07aea62b816cb693bcb4e9e748]: Textual amendment: Words in art. 63A(1A)(b) substituted (19.5.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/798/article/1/3), [6(2)](https://www.legislation.gov.uk/uksi/2015/798/article/6/2)
 
-[^key-fee2acd241db67228caed02d426dd3ac]: Textual amendment: [Art. 63A(1A)(ba)](https://www.legislation.gov.uk/nisi/1989/1341/article/63A/1A/ba) inserted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in operation) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/2/2/a); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)
+[^c-fee2acd241db67228caed02d426dd3ac]: Textual amendment: [Art. 63A(1A)(ba)](https://www.legislation.gov.uk/nisi/1989/1341/article/63A/1A/ba) inserted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in operation) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/2/2/a); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)
 
-[^key-fcc624a7b576fc8a4af00bb56f84c31c]: Textual amendment: Words in [art. 63A(1A)(c)](https://www.legislation.gov.uk/nisi/1989/1341/article/63A/1A/c) substituted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in operation) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/2/2/b); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)
+[^c-fcc624a7b576fc8a4af00bb56f84c31c]: Textual amendment: Words in [art. 63A(1A)(c)](https://www.legislation.gov.uk/nisi/1989/1341/article/63A/1A/c) substituted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in operation) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/2/2/b); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)
 
-[^key-2b2ab4223aaf4a9cbb7db3ac08923325]: Textual amendment: Art. 63A(1B)(e) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 70](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/70)
+[^c-2b2ab4223aaf4a9cbb7db3ac08923325]: Textual amendment: Art. 63A(1B)(e) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 70](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/70)
 
-[^key-3a84067bbb235b6fa5c49e3dc0794495]: Textual amendment: [Art. 63A(1BA)](https://www.legislation.gov.uk/nisi/1989/1341/article/63A/1BA) inserted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in operation) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 2(3)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/2/3); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)
+[^c-3a84067bbb235b6fa5c49e3dc0794495]: Textual amendment: [Art. 63A(1BA)](https://www.legislation.gov.uk/nisi/1989/1341/article/63A/1BA) inserted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in operation) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 2(3)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/2/3); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)

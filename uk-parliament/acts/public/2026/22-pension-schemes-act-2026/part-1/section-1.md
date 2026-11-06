@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Asset pool companies[^key-dbaf54ebde88172110fc34abdedde681]
+## 1. Asset pool companies[^c-dbaf54ebde88172110fc34abdedde681]
 
 *Extent: E+W+S*
 
@@ -85,4 +85,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbaf54ebde88172110fc34abdedde681]: Commencement: S. 1 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-dbaf54ebde88172110fc34abdedde681]: Commencement: S. 1 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

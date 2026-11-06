@@ -41,7 +41,7 @@ summary: ''
   - (iv) section 1217MA(3) or 1217MC(9) of that Act (losses of theatrical trade),
   - (v) section 1217SA(3) or 1217SC(9) of that Act (losses of orchestral trade),
   - (vi) section 1218ZDA(3) or 1218ZDC(9) of that Act (losses of museum or gallery exhibition trade),
-  - (vii)[^key-ce5f9e555144d85fa266e2cce6a4e5cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (vii)[^c-ce5f9e555144d85fa266e2cce6a4e5cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (viii) section 269ZJ(1) (insurance companies: shock losses),
   - (ix) section 304(7) (certain losses of ring fence trades), or
   - (x) section 356NJ(2) (pre-1 April 2017 loss arising from oil contractor activities);
@@ -56,15 +56,15 @@ summary: ''
 - (a) the amount given by paragraph (1) of step 1 in section 269ZF(3) in determining the company’s qualifying trading profits and qualifying non-trading profits for the period, less
 - (b) the amount given by paragraph (1) of step 2 in section 269ZF(3) in determining those profits for the period.
 
-(4)[^key-b7d8c62a141a08ba4713e4ca1f554d6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-b7d8c62a141a08ba4713e4ca1f554d6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) Subsection (2) is to be ignored if subsection (3)[^key-9863f9af0ddea7daff7df204d9371939] applies.
+(5) Subsection (2) is to be ignored if subsection (3)[^c-9863f9af0ddea7daff7df204d9371939] applies.
 
 ## Annotations
 
 [^M_C_9bf630ca-bcde-4688-84d4-52520760970b]: Modification: S. 188ED excluded (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 194(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/194/2)
 
-[^key-ce5f9e555144d85fa266e2cce6a4e5cc]: Textual amendment: [S. 188ED(2)(a)(vii)](https://www.legislation.gov.uk/ukpga/2010/4/section/188ED/2/a/vii) omitted (20.3.2025 for the purposes of corporation tax in relation to accounting periods beginning on or after 1.4.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 6(5)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/6/5), [12(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/2) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [17](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/17), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-ce5f9e555144d85fa266e2cce6a4e5cc]: Textual amendment: [S. 188ED(2)(a)(vii)](https://www.legislation.gov.uk/ukpga/2010/4/section/188ED/2/a/vii) omitted (20.3.2025 for the purposes of corporation tax in relation to accounting periods beginning on or after 1.4.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 6(5)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/6/5), [12(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/2) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [17](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/17), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
 
 [^M_F_9eed70a1-fe1d-4ef7-c1f1-9950e9351115]: Textual amendment: Word in s. 188ED(3) substituted (with effect in accordance with Sch. 10 para. 32 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 10 para. 25(2)(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/10/paragraph/25/2/a)
 
@@ -72,6 +72,6 @@ summary: ''
 
 [^M_F_5d24243c-6b9b-40f3-f107-1ceccc02878f]: Textual amendment: S. 188ED(3A) inserted (with effect in accordance with Sch. 10 para. 32 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 10 para. 25(3)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/10/paragraph/25/3)
 
-[^key-b7d8c62a141a08ba4713e4ca1f554d6a]: Textual amendment: S. 188ED(4) omitted (with effect in accordance with Sch. 10 para. 32 of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 10 para. 3(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/10/paragraph/3/a)
+[^c-b7d8c62a141a08ba4713e4ca1f554d6a]: Textual amendment: S. 188ED(4) omitted (with effect in accordance with Sch. 10 para. 32 of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 10 para. 3(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/10/paragraph/3/a)
 
-[^key-9863f9af0ddea7daff7df204d9371939]: Textual amendment: Word in s. 188ED(5) substituted (with effect in accordance with Sch. 10 para. 32 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 10 para. 3(b)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/10/paragraph/3/b)
+[^c-9863f9af0ddea7daff7df204d9371939]: Textual amendment: Word in s. 188ED(5) substituted (with effect in accordance with Sch. 10 para. 32 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 10 para. 3(b)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/10/paragraph/3/b)

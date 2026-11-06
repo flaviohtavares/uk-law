@@ -43,9 +43,9 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1
 
-The Secretary of State makes these Regulations in exercise of the powers conferred by sections 33(1) and (2), 75(7), and 125(7) and (8) of the Care Act 2014[^f00001].[^key-ef10a2cff2c86cb6fb9fa3ff91e6bc57]
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 33(1) and (2), 75(7), and 125(7) and (8) of the Care Act 2014[^f00001].[^c-ef10a2cff2c86cb6fb9fa3ff91e6bc57]
 
-## 1. Citation, commencement and interpretation[^key-07ae05272aaea822e3115eef167ffb44]
+## 1. Citation, commencement and interpretation[^c-07ae05272aaea822e3115eef167ffb44]
 
 (1) These Regulations may be cited as the Care and Support (Direct Payments) Regulations 2014 and, subject to paragraph (2), come into force immediately after section 33(1) of the Care Act 2014 comes fully into force[^f00002].
 
@@ -54,13 +54,13 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 (3) In these Regulations—
 
 - “the Act” means the Care Act 2014;
-- “care home” has the meaning given by section 3 of the Care Standards Act 2000[^f00003] , or a place at which a care home service, within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016, is provided wholly or mainly to adults[^key-e879fbf4a91903e1db0c88833930fa9b].
+- “care home” has the meaning given by section 3 of the Care Standards Act 2000[^f00003] , or a place at which a care home service, within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016, is provided wholly or mainly to adults[^c-e879fbf4a91903e1db0c88833930fa9b].
 
-## 2. Cases where a local authority must not meet needs by making a direct payment[^key-6925d36be802b94097d8c9e4d7e11d7d]
+## 2. Cases where a local authority must not meet needs by making a direct payment[^c-6925d36be802b94097d8c9e4d7e11d7d]
 
 A local authority[^f00004] must not meet needs by making a direct payment[^f00005] if the adult[^f00006] whose needs are to be met is a person to whom Schedule 1 applies.
 
-## 3. Conditions which must apply to the making of direct payments[^key-e761f8f121d6ae563331ddf4e61cfd2c]
+## 3. Conditions which must apply to the making of direct payments[^c-e761f8f121d6ae563331ddf4e61cfd2c]
 
 (1) Direct payments must be made subject to the condition that they must not be used to pay any person mentioned in paragraph (3) to meet the needs of the adult in respect of whose needs the direct payment is made.
 
@@ -102,7 +102,7 @@ A local authority[^f00004] must not meet needs by making a direct payment[^f0000
 - (c) an individual who is not a person mentioned in paragraph (3); or
 - (d) an individual who is not a friend of the adult who is involved in the provision of care for the adult.
 
-## 4. Conditions which may apply to the making of direct payments[^key-d017c0e66d925ba394933c5614c37545]
+## 4. Conditions which may apply to the making of direct payments[^c-d017c0e66d925ba394933c5614c37545]
 
 (1) A local authority may make a direct payment subject to other conditions.
 
@@ -120,7 +120,7 @@ A local authority[^f00004] must not meet needs by making a direct payment[^f0000
     - (bb) the conditions upon which it is made are complied with, or
   - (ii) in a format which is not reasonably practicable for the adult or authorised person to provide.
 
-## 5. Steps which a local authority must take before making a direct payment under section 32 of the Act[^key-f87c307e2b4c8032c8f0b9f09e2d0dd7]
+## 5. Steps which a local authority must take before making a direct payment under section 32 of the Act[^c-f87c307e2b4c8032c8f0b9f09e2d0dd7]
 
 (1) A local authority must take the steps in paragraph (2) before it can be satisfied that condition 5 in section 32 of the Act is met (the local authority to be satisfied that making direct payments to the authorised person is an appropriate way to meet the needs in question).
 
@@ -138,13 +138,13 @@ A local authority[^f00004] must not meet needs by making a direct payment[^f0000
   - (i) in respect of the authorised person if he or she is an individual who is neither a person mentioned in regulation 3(3) nor a friend of the adult who is involved in the provision of care for the adult; and
   - (ii) (in a case where the authorised person is a body corporate or an unincorporated body of persons) in respect of the individual who will, on behalf of that body, have overall responsibility for the day to day management of the adult’s direct payments.
 
-## 6. Maximum periods of accommodation in a care home which may be secured by means of a direct payment[^key-0fc92ca8ec514400156f2039d282d647]
+## 6. Maximum periods of accommodation in a care home which may be secured by means of a direct payment[^c-0fc92ca8ec514400156f2039d282d647]
 
 (1) A local authority may not make a direct payment for the provision of accommodation in a care home for an adult for a period of more than 4 consecutive weeks in any 12 month period, unless the local authority is one that is mentioned in Schedule 2.
 
 (2) In calculating the period of 4 weeks mentioned in paragraph (1), a period of accommodation in a care home of less than 4 weeks shall be added to any succeeding period in such accommodation where the two periods are separated by a period of less than 4 weeks but not otherwise.
 
-## 7. Review of direct payments[^key-845d758f4d70d0c5ee58a1184adb9c63]
+## 7. Review of direct payments[^c-845d758f4d70d0c5ee58a1184adb9c63]
 
 (1) A local authority must conduct a review for the purpose of ascertaining whether the making of direct payments is an appropriate way to meet the adult’s needs—
 
@@ -177,7 +177,7 @@ A local authority[^f00004] must not meet needs by making a direct payment[^f0000
   - (i) the person who is authorised under the Mental Capacity Act 2005 to make decisions about the adult’s needs for care and support, or
   - (ii) where there is no such person, any person who appears to the authority to be interested in the adult’s welfare.
 
-## 8. Making of direct payments for an adult who no longer has capacity to request the making of direct payments[^key-49bf32852efed8e0e047b6aab2ae2c1b]
+## 8. Making of direct payments for an adult who no longer has capacity to request the making of direct payments[^c-49bf32852efed8e0e047b6aab2ae2c1b]
 
 (1) For the purpose of ascertaining whether section 33(4) (termination of direct payments) of the Act applies, an adult who lacks capacity to request the making of direct payments may nonetheless be regarded by a local authority as having capacity to do so in the circumstances in paragraph (2).
 
@@ -186,7 +186,7 @@ A local authority[^f00004] must not meet needs by making a direct payment[^f0000
 - (a) the authority is satisfied that the adult’s lack of capacity to make the request is temporary; and
 - (b) another person who appears to the authority to be capable of managing a direct payment is prepared to accept and manage such payments on behalf of the adult during the period of the adult’s incapacity.
 
-## 9. Making of direct payments for an adult who no longer lacks capacity to request the making of direct payments[^key-24f598a3a2a02d5c751e3003169ad626]
+## 9. Making of direct payments for an adult who no longer lacks capacity to request the making of direct payments[^c-24f598a3a2a02d5c751e3003169ad626]
 
 (1) For the purpose of ascertaining whether section 32(1)(b) of the Act ceases to apply, an adult who no longer lacks capacity to request the making of direct payments may nonetheless be regarded by a local authority as lacking capacity to do so in the circumstances in paragraph (2).
 
@@ -195,11 +195,11 @@ A local authority[^f00004] must not meet needs by making a direct payment[^f0000
 - (a) the authority is satisfied that the adult’s capacity to request the authority to meet the needs to which the adult’s personal budget[^f00012] relates by making a direct payment is temporary; and
 - (b) the direct payments made during the period that the adult has the capacity to make such a request are made subject to an additional condition that the authorised person shall allow the adult to manage the direct payments themselves for any period in respect of which the authority is satisfied that the adult has the capacity to request the making of direct payments.
 
-## 10. Harmonisation with payments made under other legislation[^key-39f2201857cdba7e58c6fda12ab365ed]
+## 10. Harmonisation with payments made under other legislation[^c-39f2201857cdba7e58c6fda12ab365ed]
 
 Where a direct payment is made for an adult for whom payments are made under section 12A (direct payments for health care) of the National Health Service Act 2006[^f00013] (“the 2006 Act”), the local authority must take reasonable steps to co-ordinate the systems, processes and requirements which it applies or imposes in relation to the direct payment with those which apply in relation to the payments made under the 2006 Act with a view to minimising the administrative or other burdens which they place on the adult for whom, or the nominated or authorised person to whom, the local authority makes the direct payment.
 
-## 11. Direct payments in respect of after-care under the Mental Health Act 1983[^key-a2dc2481f109d242611ae3b48a0b9858]
+## 11. Direct payments in respect of after-care under the Mental Health Act 1983[^c-a2dc2481f109d242611ae3b48a0b9858]
 
 (1) In respect of a direct payment to discharge the duty of a local authority under section 117 (after-care) of the 1983 Act[^f00014], these Regulations apply with the following modifications—
 
@@ -234,16 +234,16 @@ Department of Health
 
 20th October 2014
 
-## SCHEDULE 1 — Adults Whose Needs the Local Authority Must Not Meet By Making Direct Payments[^key-d8df740820927c2f7a720e0add89ba29]
+## SCHEDULE 1 — Adults Whose Needs the Local Authority Must Not Meet By Making Direct Payments[^c-d8df740820927c2f7a720e0add89ba29]
 
 Regulation 2
 
-[^key-d8df740820927c2f7a720e0add89ba29]
+[^c-d8df740820927c2f7a720e0add89ba29]
 
 This Schedule applies to a person if they are—
 
-- (a) subject to a drug rehabilitation requirement, as defined by section 209 of the Criminal Justice Act 2003 (“the 2003 Act”) or paragraph 19 of Schedule 9 to the Sentencing Code (drug rehabilitation requirement)[^key-2be712a6787350d6c75aea632be869df], specified in a community order (as defined by section 177 of the 2003 Act or section 200 of the Sentencing Code (community order)[^key-405b8be311ce5912a5bbd0a640d27cb2], or a suspended sentence order (as defined by section 189[^f00017] of that Act or section 286 of that Code[^key-eb0ce8737c37eac3914a2ac5bf5a612a]);
-- (b) subject to an alcohol treatment requirement, as defined by section 212 of the 2003 Act or paragraph 23 of Schedule 9 to the Sentencing Code[^key-9549a061594d46bf831dcb1c95fbf3d8], specified in a community order (as defined by section 177 of that Act or section 200 of that Code[^key-4362c6ad78bdb81ce853dcaa05f4de6a]), or a suspended sentence order (as defined by section 189 of that Act or section 286 of that Code[^key-3bb41e3a28883e81e752fc2cbb9d6f42]);
+- (a) subject to a drug rehabilitation requirement, as defined by section 209 of the Criminal Justice Act 2003 (“the 2003 Act”) or paragraph 19 of Schedule 9 to the Sentencing Code (drug rehabilitation requirement)[^c-2be712a6787350d6c75aea632be869df], specified in a community order (as defined by section 177 of the 2003 Act or section 200 of the Sentencing Code (community order)[^c-405b8be311ce5912a5bbd0a640d27cb2], or a suspended sentence order (as defined by section 189[^f00017] of that Act or section 286 of that Code[^c-eb0ce8737c37eac3914a2ac5bf5a612a]);
+- (b) subject to an alcohol treatment requirement, as defined by section 212 of the 2003 Act or paragraph 23 of Schedule 9 to the Sentencing Code[^c-9549a061594d46bf831dcb1c95fbf3d8], specified in a community order (as defined by section 177 of that Act or section 200 of that Code[^c-4362c6ad78bdb81ce853dcaa05f4de6a]), or a suspended sentence order (as defined by section 189 of that Act or section 286 of that Code[^c-3bb41e3a28883e81e752fc2cbb9d6f42]);
 - (c) released from prison on licence—
   - (i) under Chapter 6 of Part 12 (sentencing: release, licenses and recall) of the 2003 Act [^f00019] or Chapter 2 of Part 2 (effect of custodial sentences: life sentences) of the Crime (Sentences) Act 1997 (“the 1997 Act”)[^f00020], subject to a non standard licence condition requiring the offender to undertake offending behaviour work to address drug or alcohol related behaviour; or
   - (ii) subject to a drug testing requirement under section 64 (as amended by the Offender Rehabilitation Act 2014) (release on licence etc: drug testing)[^f00021] or a drug appointment requirement under section 64A (release on licence etc: drug appointment) of the Criminal Justice and Courts Services Act 2000[^f00022];
@@ -253,28 +253,28 @@ This Schedule applies to a person if they are—
 - (g) required to submit to treatment for their drug or alcohol dependency by virtue of a requirement of a community payback or probation order within the meaning of sections 227 to 230 of the Criminal Procedure (Scotland) Act 1995[^f00026] or subject to a drug treatment and testing order within the meaning of section 234B[^f00027] of that Act; or
 - (h) released on licence under section 22 or section 26 of the Prisons (Scotland) Act 1989 (release on licence etc)[^f00028] or under section 1 (release of short-term, long-term and life prisoners) or 1AA (release of certain sexual offenders) of the Prisoners and Criminal Proceedings (Scotland) Act 1993[^f00029] and subject to a condition that they submit to treatment for their drug or alcohol dependency.
 
-## SCHEDULE 2 — List Of Local Authorities Who Are Not Prohibited From Making A Direct Payment For The Purpose Of Securing Long Term Care In A Care Home[^key-af6ec634b5bd595b6385f8856b6c2c39]
+## SCHEDULE 2 — List Of Local Authorities Who Are Not Prohibited From Making A Direct Payment For The Purpose Of Securing Long Term Care In A Care Home[^c-af6ec634b5bd595b6385f8856b6c2c39]
 
 Regulation 6(1)
 
-[^key-af6ec634b5bd595b6385f8856b6c2c39]
+[^c-af6ec634b5bd595b6385f8856b6c2c39]
 
 - Bristol City Council
 - Cornwall Council
-- [^key-050ddaeffc00b33950cd9e6a5388f541]...
+- [^c-050ddaeffc00b33950cd9e6a5388f541]...
 - Gateshead Council
 - Hertfordshire County Council
 - Hull City Council
 - Lincolnshire County Council
 - London Borough of Enfield
-- [^key-61685596d2901104521912ea7e325d1e]...
+- [^c-61685596d2901104521912ea7e325d1e]...
 - London Borough of Redbridge
-- [^key-b376c076555201a163b7adb6acf180f1]...
+- [^c-b376c076555201a163b7adb6acf180f1]...
 - Milton Keynes Council
 - Norfolk County Council
 - North Lincolnshire Council
 - Nottinghamshire County Council
-- [^key-0061ebb0fa34b2114eb931b92671ad65]...
+- [^c-0061ebb0fa34b2114eb931b92671ad65]...
 - Stockport Council
 - Surrey County Council
 
@@ -306,17 +306,17 @@ A separate impact assessment has not been prepared for these Regulations. These 
 
 [^f00001]: Footnote: [2014 c.23](https://www.legislation.gov.uk/ukpga/2014/23). The powers to make regulations are exercisable by the Secretary of State, *see* section 125(1). Section 75(7) of the Act provides that a local authority may discharge its duty under section 117 (after care) of the Mental Health Act [1983 (c.20)](https://www.legislation.gov.uk/ukpga/1983/20) by making direct payments and that section of, and paragraph 1(10) of Schedule 4 to, the Act modify section 33(2) accordingly.
 
-[^key-ef10a2cff2c86cb6fb9fa3ff91e6bc57]: Modification: Regulations applied (with modifications) (1.4.2015) by [The Care and Support (Children’s Carers) Regulations 2015 (S.I. 2015/305)](https://www.legislation.gov.uk/uksi/2015/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/305/regulation/1/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/2015/305/regulation/2/3/d)
+[^c-ef10a2cff2c86cb6fb9fa3ff91e6bc57]: Modification: Regulations applied (with modifications) (1.4.2015) by [The Care and Support (Children’s Carers) Regulations 2015 (S.I. 2015/305)](https://www.legislation.gov.uk/uksi/2015/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/305/regulation/1/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/2015/305/regulation/2/3/d)
 
-[^key-07ae05272aaea822e3115eef167ffb44]: Commencement: Reg. 1 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2871/regulation/1/1)
+[^c-07ae05272aaea822e3115eef167ffb44]: Commencement: Reg. 1 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2871/regulation/1/1)
 
 [^f00002]: Footnote: Section 33(1) was commenced for the purpose of making regulations by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473).
 
 [^f00003]: Footnote: [2000 c.14](https://www.legislation.gov.uk/ukpga/2000/14). Section 3 was amended by the Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14), Schedule 5(1), paragraph 4(2) and (3).
 
-[^key-e879fbf4a91903e1db0c88833930fa9b]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2871/regulation/1/3) inserted (W.) (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/uksi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/48/regulation/1/2), [Sch. 1 para. 31(2)](https://www.legislation.gov.uk/uksi/2018/48/schedule/1/paragraph/31/2)
+[^c-e879fbf4a91903e1db0c88833930fa9b]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2871/regulation/1/3) inserted (W.) (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/uksi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/48/regulation/1/2), [Sch. 1 para. 31(2)](https://www.legislation.gov.uk/uksi/2018/48/schedule/1/paragraph/31/2)
 
-[^key-6925d36be802b94097d8c9e4d7e11d7d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/2871/regulation/2) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2871/regulation/1/1)
+[^c-6925d36be802b94097d8c9e4d7e11d7d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/2871/regulation/2) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2871/regulation/1/1)
 
 [^f00004]: Footnote: *See* section 1(4) of the Act as to the meaning of “local authority”; the definition is limited to local authorities in England.
 
@@ -324,55 +324,55 @@ A separate impact assessment has not been prepared for these Regulations. These 
 
 [^f00006]: Footnote: *See* section 2(8) for the meaning of “adult”.
 
-[^key-e761f8f121d6ae563331ddf4e61cfd2c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/2871/regulation/3) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2871/regulation/1/1)
+[^c-e761f8f121d6ae563331ddf4e61cfd2c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/2871/regulation/3) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2871/regulation/1/1)
 
 [^f00007]: Footnote: *See* section 32(4) of the Act for the meaning of “authorised person”.
 
 [^f00008]: Footnote: [1997 c.50](https://www.legislation.gov.uk/ukpga/1997/50); section 113B was inserted by section 163(2) of the Serious Organised Crime and Police Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15) and was amended by the Safeguarding Vulnerable Groups Act [2006 (c.47)](https://www.legislation.gov.uk/ukpga/2006/47), Schedule 9, paragraph 14(1) and (3); the Armed Forces Act [2006 (c.52)](https://www.legislation.gov.uk/ukpga/2006/52), Schedule 16, paragraph 149; the Protection of Vulnerable Groups (Scotland) Act [2007 (asp 14)](https://www.legislation.gov.uk/asp/2007/14), sections 79(1) and 80; the Policing and Crime Act [2009 (c.26)](https://www.legislation.gov.uk/ukpga/2009/26), sections 97(2) and 112(2) and Schedule 8, Part 8; the Criminal Justice and Licensing (Scotland) Act [2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), section 108(1) and (2); the Protection of Freedoms Act [2012 (c.9)](https://www.legislation.gov.uk/ukpga/2012/9), sections 79(2)(b), 80(1), 82(1), 82(2) and (3) and Schedule 9, paragraphs 35 and 37 and Schedule 10, Parts 5 and 6; the [Crime and Courts Act 2013 (c.22 )](https://www.legislation.gov.uk/ukpga/2013/22), Schedule 8, Part 2, paragraphs 55 and 60; and by [S.I. 2009/203](https://www.legislation.gov.uk/uksi/2009/203), [S.I. 2010/1146](https://www.legislation.gov.uk/uksi/2010/1146) and [2012/3006](https://www.legislation.gov.uk/uksi/2012/3006).
 
-[^key-d017c0e66d925ba394933c5614c37545]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/2871/regulation/4) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2871/regulation/1/1)
+[^c-d017c0e66d925ba394933c5614c37545]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/2871/regulation/4) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2871/regulation/1/1)
 
-[^key-f87c307e2b4c8032c8f0b9f09e2d0dd7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/2871/regulation/5) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2871/regulation/1/1)
+[^c-f87c307e2b4c8032c8f0b9f09e2d0dd7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/2871/regulation/5) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2871/regulation/1/1)
 
 [^f00009]: Footnote: [2005 c.9](https://www.legislation.gov.uk/ukpga/2005/9).
 
 [^f00010]: Footnote: Section 80(2) of the Act provides that a reference in Part 1 to having or lacking capacity is to be interpreted in accordance with the Mental Capacity Act 2005.
 
-[^key-0fc92ca8ec514400156f2039d282d647]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/2871/regulation/6) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2871/regulation/1/1)
+[^c-0fc92ca8ec514400156f2039d282d647]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/2871/regulation/6) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2871/regulation/1/1)
 
-[^key-845d758f4d70d0c5ee58a1184adb9c63]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/2871/regulation/7) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2871/regulation/1/1)
+[^c-845d758f4d70d0c5ee58a1184adb9c63]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/2871/regulation/7) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2871/regulation/1/1)
 
 [^f00011]: Footnote: *See* section 10(3) of the Act as to the meaning of “carer”.
 
-[^key-49bf32852efed8e0e047b6aab2ae2c1b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/2871/regulation/8) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2871/regulation/1/1)
+[^c-49bf32852efed8e0e047b6aab2ae2c1b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/2871/regulation/8) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2871/regulation/1/1)
 
-[^key-24f598a3a2a02d5c751e3003169ad626]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2014/2871/regulation/9) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2871/regulation/1/1)
+[^c-24f598a3a2a02d5c751e3003169ad626]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2014/2871/regulation/9) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2871/regulation/1/1)
 
 [^f00012]: Footnote: *See* section 26 of the Act as to the meaning of “personal budget”.
 
-[^key-39f2201857cdba7e58c6fda12ab365ed]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2014/2871/regulation/10) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2871/regulation/1/1)
+[^c-39f2201857cdba7e58c6fda12ab365ed]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2014/2871/regulation/10) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2871/regulation/1/1)
 
 [^f00013]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41); section 12A was inserted by the Health Act [2009 (c.21)](https://www.legislation.gov.uk/ukpga/2009/21), section 11 and amended by the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7), Schedule 4,paragraph 10 and [S.I. 2013/1563](https://www.legislation.gov.uk/uksi/2013/1563).
 
-[^key-a2dc2481f109d242611ae3b48a0b9858]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2014/2871/regulation/11) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2871/regulation/1/2)
+[^c-a2dc2481f109d242611ae3b48a0b9858]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2014/2871/regulation/11) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2871/regulation/1/2)
 
 [^f00014]: Footnote: [1983 c.20](https://www.legislation.gov.uk/ukpga/1983/20); section 117 was amended by the Health Authorities Act [1995 (c.17)](https://www.legislation.gov.uk/ukpga/1995/17) Schedule 1, paragraphs 107(1) and (8)(b); the Mental Health (Patients in the Community) Act [1995 (c.52)](https://www.legislation.gov.uk/ukpga/1995/52), Schedule 1, paragraph 15; the Crime (Sentences) Act [1997 (c.43)](https://www.legislation.gov.uk/ukpga/1997/43), Schedule 4, paragraph 12(17); the National Health Service Reform and Health Care Professions Act [2002 (c.17)](https://www.legislation.gov.uk/ukpga/2002/17), Schedule 2, paragraphs 42 and 47; the Mental Health Act [2007 (c.12)](https://www.legislation.gov.uk/ukpga/2007/12), Schedule 3, paragraphs 1 and 24 and Schedule 11, Part 5; the Health Act [2009 (c.21)](https://www.legislation.gov.uk/ukpga/2009/21), Schedule 1, paragraph 3; the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7), section 40(1) to (4); and by [S.I. 2007/961](https://www.legislation.gov.uk/uksi/2007/961)and is prosectively amended by section 75 of the Act.
 
-[^key-d8df740820927c2f7a720e0add89ba29]: Commencement: Sch. 1 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2871/regulation/1/1)
+[^c-d8df740820927c2f7a720e0add89ba29]: Commencement: Sch. 1 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2871/regulation/1/1)
 
-[^key-2be712a6787350d6c75aea632be869df]: Textual amendment: Words in Sch. 1 substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 424(2)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/424/2/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-2be712a6787350d6c75aea632be869df]: Textual amendment: Words in Sch. 1 substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 424(2)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/424/2/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-405b8be311ce5912a5bbd0a640d27cb2]: Textual amendment: Words in Sch. 1 substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 424(2)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/424/2/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-405b8be311ce5912a5bbd0a640d27cb2]: Textual amendment: Words in Sch. 1 substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 424(2)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/424/2/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^f00017]: Footnote: Section 189 was amended by the 2012 Act, section 68(1) to (5) and [S.I. 2005/643](https://www.legislation.gov.uk/uksi/2005/643).
 
-[^key-eb0ce8737c37eac3914a2ac5bf5a612a]: Textual amendment: Words in Sch. 1 inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 424(2)(c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/424/2/c) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-eb0ce8737c37eac3914a2ac5bf5a612a]: Textual amendment: Words in Sch. 1 inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 424(2)(c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/424/2/c) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-9549a061594d46bf831dcb1c95fbf3d8]: Textual amendment: Words in Sch. 1 substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 424(3)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/424/3/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-9549a061594d46bf831dcb1c95fbf3d8]: Textual amendment: Words in Sch. 1 substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 424(3)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/424/3/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-4362c6ad78bdb81ce853dcaa05f4de6a]: Textual amendment: Words in Sch. 1 inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 424(3)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/424/3/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-4362c6ad78bdb81ce853dcaa05f4de6a]: Textual amendment: Words in Sch. 1 inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 424(3)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/424/3/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-3bb41e3a28883e81e752fc2cbb9d6f42]: Textual amendment: Words in Sch. 1 inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 424(3)(c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/424/3/c) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-3bb41e3a28883e81e752fc2cbb9d6f42]: Textual amendment: Words in Sch. 1 inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 424(3)(c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/424/3/c) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^f00019]: Footnote: Section 245 was repealed by the 2012 Act, Schedule 10, paragraph 22. Section 246 was amended by the Armed Forces Act [2006 (c.52)](https://www.legislation.gov.uk/ukpga/2006/52) (“the 2006 Act”), Schedule 16, paragraph 221; the 2008 Act, section 24; the 2012 Act, sections 110 to 112, Schedule 10, paragraph 23, Schedule 20, paragraph 5 and Schedule 14, paragraph 7; Section 246A was inserted by the 2012 Act, section 125. Section 247 was amended by the 2008 Act, Schedule 28(2), paragraph 1 and the 2012 Act, Schedule 17, paragraph 3. Section 248 was amended by the 2012 Act, section 116. Section 149 was amended by the 2012 Act, Schedule 10, paragraph 24, Schedule 14, paragraph 8 and Schedule 17, paragraph 4. Section 250 was amended by the 2012 Act, sections 111 and 117, Schedule 10, paragraph 25, Schedule 14, paragraph 9, Schedule 20, paragraph 6; the Offender Management Act [2007 (c.21)](https://www.legislation.gov.uk/ukpga/2007/21), section 28; the Domestic Violence Crime and Victims Act [2004 (c.28)](https://www.legislation.gov.uk/ukpga/2004/28) Schedule 6, paragraph 5. Section 252 was amended by the 2006 Act, Schedule 16, paragraph 224 of the 2012 Act, Schedule 10, paragraph 27. Section 253 was amended by the 2012 Act, section 114 and Schedule 10, paragraph 28 and [S.I. 2008/912](https://www.legislation.gov.uk/uksi/2008/912).
 
@@ -396,12 +396,12 @@ A separate impact assessment has not been prepared for these Regulations. These 
 
 [^f00029]: Footnote: [1993 c.9](https://www.legislation.gov.uk/ukpga/1993/9). Section 1 was amended by paragraph 98 of Schedule 8 to the Crime and Disorder Act 1998, section 1(2) of the Convention Rights (Compliance) (Scotland) Act [2001 (asp 7)](https://www.legislation.gov.uk/asp/2001/7) and section 15(2) of the Management of Offenders etc (Scotland) Act [2005 (asp 14)](https://www.legislation.gov.uk/asp/2005/14) (“MOSA”). Section 1AA was inserted by section 15(3) of MOSA.
 
-[^key-af6ec634b5bd595b6385f8856b6c2c39]: Commencement: Sch. 2 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2871/regulation/1/1)
+[^c-af6ec634b5bd595b6385f8856b6c2c39]: Commencement: Sch. 2 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2871/regulation/1/1)
 
-[^key-050ddaeffc00b33950cd9e6a5388f541]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2014/2871/schedule/2) omitted (1.4.2015) by virtue of [The Care and Support (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/644)](https://www.legislation.gov.uk/uksi/2015/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/644/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2015/644/regulation/6/a)
+[^c-050ddaeffc00b33950cd9e6a5388f541]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2014/2871/schedule/2) omitted (1.4.2015) by virtue of [The Care and Support (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/644)](https://www.legislation.gov.uk/uksi/2015/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/644/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2015/644/regulation/6/a)
 
-[^key-61685596d2901104521912ea7e325d1e]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2014/2871/schedule/2) omitted (1.4.2015) by virtue of [The Care and Support (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/644)](https://www.legislation.gov.uk/uksi/2015/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/644/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2015/644/regulation/6/b)
+[^c-61685596d2901104521912ea7e325d1e]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2014/2871/schedule/2) omitted (1.4.2015) by virtue of [The Care and Support (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/644)](https://www.legislation.gov.uk/uksi/2015/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/644/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2015/644/regulation/6/b)
 
-[^key-b376c076555201a163b7adb6acf180f1]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2014/2871/schedule/2) omitted (1.4.2015) by virtue of [The Care and Support (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/644)](https://www.legislation.gov.uk/uksi/2015/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/644/regulation/1/2), [6(c)](https://www.legislation.gov.uk/uksi/2015/644/regulation/6/c)
+[^c-b376c076555201a163b7adb6acf180f1]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2014/2871/schedule/2) omitted (1.4.2015) by virtue of [The Care and Support (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/644)](https://www.legislation.gov.uk/uksi/2015/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/644/regulation/1/2), [6(c)](https://www.legislation.gov.uk/uksi/2015/644/regulation/6/c)
 
-[^key-0061ebb0fa34b2114eb931b92671ad65]: Textual amendment: Words in Sch. 2 omitted (1.4.2016) by virtue of [The Care and Support (Direct Payments) (Amendment) Regulations 2016 (S.I. 2016/167)](https://www.legislation.gov.uk/uksi/2016/167), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/167/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2016/167/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/167/regulation/3))
+[^c-0061ebb0fa34b2114eb931b92671ad65]: Textual amendment: Words in Sch. 2 omitted (1.4.2016) by virtue of [The Care and Support (Direct Payments) (Amendment) Regulations 2016 (S.I. 2016/167)](https://www.legislation.gov.uk/uksi/2016/167), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/167/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2016/167/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/167/regulation/3))

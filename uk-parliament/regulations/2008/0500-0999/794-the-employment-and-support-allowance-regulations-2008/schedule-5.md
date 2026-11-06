@@ -83,7 +83,7 @@ Regulation 69
 </tbody>
 </table>
 
-[^c1919034][^c1919035][^key-3cb6368c83c6d062f0d47dec8547ea4a][^key-885397783fa970ff5f9ace572bcbbc04][^key-0e7e07e91ff8ef41a2345b2d9b024622][^key-4d4afbc2b846a63409e6c43d1e417fea][^key-d6157537fb742f030182c2f2dd2b6771][^c1919036]
+[^c1919034][^c1919035][^c-3cb6368c83c6d062f0d47dec8547ea4a][^c-885397783fa970ff5f9ace572bcbbc04][^c-0e7e07e91ff8ef41a2345b2d9b024622][^c-4d4afbc2b846a63409e6c43d1e417fea][^c-d6157537fb742f030182c2f2dd2b6771][^c1919036]
 
 ### PART 2 — Amounts prescribed for the purposes of sections 2(1) and 4(2) of the Act
 
@@ -101,7 +101,7 @@ Regulation 69
 </tbody>
 </table>
 
-[^key-3367fb9f9e50e74da9455656c09bb5f9][^c1919037][^c1919038][^c1919039][^c1919040][^key-df704c44d9fea5eca0cd8b73f3afca65][^key-4bb036d758d8e9822980322d226a8782]
+[^c-3367fb9f9e50e74da9455656c09bb5f9][^c1919037][^c1919038][^c1919039][^c1919040][^c-df704c44d9fea5eca0cd8b73f3afca65][^c-4bb036d758d8e9822980322d226a8782]
 
 ## Annotations
 
@@ -109,19 +109,19 @@ Regulation 69
 
 [^c1919035]: Textual amendment: [1990 c. 35](https://www.legislation.gov.uk/ukpga/1990/35).
 
-[^key-3cb6368c83c6d062f0d47dec8547ea4a]: Textual amendment: Words in Sch. 5 Pt. 1 para. 4 substituted (31.10.2011) by [The Social Security (Work-focused Interviews for Lone Parents and Partners) (Amendment) Regulations 2011 (S.I. 2011/2428)](https://www.legislation.gov.uk/uksi/2011/2428), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2428/regulation/1), [5(6)(a)](https://www.legislation.gov.uk/uksi/2011/2428/regulation/5/6/a)
+[^c-3cb6368c83c6d062f0d47dec8547ea4a]: Textual amendment: Words in Sch. 5 Pt. 1 para. 4 substituted (31.10.2011) by [The Social Security (Work-focused Interviews for Lone Parents and Partners) (Amendment) Regulations 2011 (S.I. 2011/2428)](https://www.legislation.gov.uk/uksi/2011/2428), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2428/regulation/1), [5(6)(a)](https://www.legislation.gov.uk/uksi/2011/2428/regulation/5/6/a)
 
-[^key-885397783fa970ff5f9ace572bcbbc04]: Textual amendment: Words in Sch. 5 Pt. 1 para. 5 substituted (31.10.2011) by [The Social Security (Work-focused Interviews for Lone Parents and Partners) (Amendment) Regulations 2011 (S.I. 2011/2428)](https://www.legislation.gov.uk/uksi/2011/2428), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2428/regulation/1), [5(6)(a)](https://www.legislation.gov.uk/uksi/2011/2428/regulation/5/6/a)
+[^c-885397783fa970ff5f9ace572bcbbc04]: Textual amendment: Words in Sch. 5 Pt. 1 para. 5 substituted (31.10.2011) by [The Social Security (Work-focused Interviews for Lone Parents and Partners) (Amendment) Regulations 2011 (S.I. 2011/2428)](https://www.legislation.gov.uk/uksi/2011/2428), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2428/regulation/1), [5(6)(a)](https://www.legislation.gov.uk/uksi/2011/2428/regulation/5/6/a)
 
-[^key-0e7e07e91ff8ef41a2345b2d9b024622]: Textual amendment: Words in Sch. 5 Pt. 1 para. 6 substituted (31.10.2011) by [The Social Security (Work-focused Interviews for Lone Parents and Partners) (Amendment) Regulations 2011 (S.I. 2011/2428)](https://www.legislation.gov.uk/uksi/2011/2428), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2428/regulation/1), [5(6)(b)](https://www.legislation.gov.uk/uksi/2011/2428/regulation/5/6/b)
+[^c-0e7e07e91ff8ef41a2345b2d9b024622]: Textual amendment: Words in Sch. 5 Pt. 1 para. 6 substituted (31.10.2011) by [The Social Security (Work-focused Interviews for Lone Parents and Partners) (Amendment) Regulations 2011 (S.I. 2011/2428)](https://www.legislation.gov.uk/uksi/2011/2428), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2428/regulation/1), [5(6)(b)](https://www.legislation.gov.uk/uksi/2011/2428/regulation/5/6/b)
 
-[^key-4d4afbc2b846a63409e6c43d1e417fea]: Textual amendment: Words in Sch. 5 Pt. 1 para. 7 substituted (31.10.2011) by [The Social Security (Work-focused Interviews for Lone Parents and Partners) (Amendment) Regulations 2011 (S.I. 2011/2428)](https://www.legislation.gov.uk/uksi/2011/2428), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2428/regulation/1), [5(6)(b)](https://www.legislation.gov.uk/uksi/2011/2428/regulation/5/6/b)
+[^c-4d4afbc2b846a63409e6c43d1e417fea]: Textual amendment: Words in Sch. 5 Pt. 1 para. 7 substituted (31.10.2011) by [The Social Security (Work-focused Interviews for Lone Parents and Partners) (Amendment) Regulations 2011 (S.I. 2011/2428)](https://www.legislation.gov.uk/uksi/2011/2428), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2428/regulation/1), [5(6)(b)](https://www.legislation.gov.uk/uksi/2011/2428/regulation/5/6/b)
 
-[^key-d6157537fb742f030182c2f2dd2b6771]: Textual amendment: Word in Sch. 5 para. 9(2)(b) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2008/2428/regulation/15)
+[^c-d6157537fb742f030182c2f2dd2b6771]: Textual amendment: Word in Sch. 5 para. 9(2)(b) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2008/2428/regulation/15)
 
 [^c1919036]: Textual amendment: [S.I. 2000/636](https://www.legislation.gov.uk/uksi/2000/636), the relevant amending instruments are [S.I. 2002/2497](https://www.legislation.gov.uk/uksi/2002/2497) and [S.I. 2003/2274](https://www.legislation.gov.uk/uksi/2003/2274).
 
-[^key-3367fb9f9e50e74da9455656c09bb5f9]: Textual amendment: Words in Sch. 5 Pt. 2 substituted (25.3.2010) by [The Social Security (Persons Serving a Sentence of Imprisonment Detained in Hospital) Regulations 2010 (S.I. 2010/442)](https://www.legislation.gov.uk/uksi/2010/442), [regs. 1](https://www.legislation.gov.uk/uksi/2010/442/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2010/442/regulation/5/4/a)
+[^c-3367fb9f9e50e74da9455656c09bb5f9]: Textual amendment: Words in Sch. 5 Pt. 2 substituted (25.3.2010) by [The Social Security (Persons Serving a Sentence of Imprisonment Detained in Hospital) Regulations 2010 (S.I. 2010/442)](https://www.legislation.gov.uk/uksi/2010/442), [regs. 1](https://www.legislation.gov.uk/uksi/2010/442/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2010/442/regulation/5/4/a)
 
 [^c1919037]: Textual amendment: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20); section 45A was inserted by the [Crime (Sentences) Act 1977 (c. 43)](https://www.legislation.gov.uk/ukpga/1977/43), [section 46](https://www.legislation.gov.uk/ukpga/1977/43/section/46), and amended by the [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [Schedule 32](https://www.legislation.gov.uk/ukpga/2003/44/schedule/32), [paragraphs 37](https://www.legislation.gov.uk/ukpga/2003/44/paragraph/37) and 39 and Schedule 37, Part 7.
 
@@ -131,6 +131,6 @@ Regulation 69
 
 [^c1919040]: Textual amendment: 2003 asp. 13.
 
-[^key-df704c44d9fea5eca0cd8b73f3afca65]: Textual amendment: Word in Sch. 5 Pt. 2 inserted (25.3.2010) by [The Social Security (Persons Serving a Sentence of Imprisonment Detained in Hospital) Regulations 2010 (S.I. 2010/442)](https://www.legislation.gov.uk/uksi/2010/442), [regs. 1](https://www.legislation.gov.uk/uksi/2010/442/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2010/442/regulation/5/4/b)
+[^c-df704c44d9fea5eca0cd8b73f3afca65]: Textual amendment: Word in Sch. 5 Pt. 2 inserted (25.3.2010) by [The Social Security (Persons Serving a Sentence of Imprisonment Detained in Hospital) Regulations 2010 (S.I. 2010/442)](https://www.legislation.gov.uk/uksi/2010/442), [regs. 1](https://www.legislation.gov.uk/uksi/2010/442/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2010/442/regulation/5/4/b)
 
-[^key-4bb036d758d8e9822980322d226a8782]: Textual amendment: Word in Sch. 5 Pt. 2 para. 13 substituted (29.10.2013) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2013 (S.I. 2013/2536)](https://www.legislation.gov.uk/uksi/2013/2536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/1/1), [13(35)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/13/35)
+[^c-4bb036d758d8e9822980322d226a8782]: Textual amendment: Word in Sch. 5 Pt. 2 para. 13 substituted (29.10.2013) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2013 (S.I. 2013/2536)](https://www.legislation.gov.uk/uksi/2013/2536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/1/1), [13(35)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/13/35)

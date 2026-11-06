@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Moving motor vehicles parked contrary to parking prohibitions[^key-00675e0258c41ad98d2f24090821605c]
+## 62. Moving motor vehicles parked contrary to parking prohibitions[^c-00675e0258c41ad98d2f24090821605c]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00675e0258c41ad98d2f24090821605c]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2019/17/section/62) in force at 11.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-00675e0258c41ad98d2f24090821605c]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2019/17/section/62) in force at 11.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 119a. Derogation from Regulation (EU) No 966/2012[^key-ed8426c081c4bca588c2410c17bfe4be]
+## Article 119a. Derogation from Regulation (EU) No 966/2012[^c-ed8426c081c4bca588c2410c17bfe4be]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed8426c081c4bca588c2410c17bfe4be]: Textual amendment: [Arts. 118-121](https://www.legislation.gov.uk/eur/2013/1306/article/118) omitted (31.12.2020 in so far as they relate to common organisation of the markets and rural development measures) by virtue of [The Common Agricultural Policy (Financing, Management and Monitoring) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/763)](https://www.legislation.gov.uk/uksi/2019/763), [regs. 1](https://www.legislation.gov.uk/uksi/2019/763/regulation/1), [10(4)](https://www.legislation.gov.uk/uksi/2019/763/regulation/10/4) (as substituted by [S.I. 2020/1445](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [3(10)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/3/10/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ed8426c081c4bca588c2410c17bfe4be]: Textual amendment: [Arts. 118-121](https://www.legislation.gov.uk/eur/2013/1306/article/118) omitted (31.12.2020 in so far as they relate to common organisation of the markets and rural development measures) by virtue of [The Common Agricultural Policy (Financing, Management and Monitoring) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/763)](https://www.legislation.gov.uk/uksi/2019/763), [regs. 1](https://www.legislation.gov.uk/uksi/2019/763/regulation/1), [10(4)](https://www.legislation.gov.uk/uksi/2019/763/regulation/10/4) (as substituted by [S.I. 2020/1445](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [3(10)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/3/10/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 9 — Undertakings by non- United Kingdom manufacturers[^key-cc9c80babe62f05020e5b5bb64a8fa3e]
+## SCHEDULE 9 — Undertakings by non- United Kingdom manufacturers[^c-cc9c80babe62f05020e5b5bb64a8fa3e]
 
 *Extent: E+W+S+N.I.*
 
 Regulation 50(4)
 
-**1.** The manufacturer must provide and maintain such staff, premises and plant as are necessary for the carrying out in accordance with the UK[^key-cf93a4d9fb670c361b6d2d139199a1f8] marketing authorisation of such stages of the manufacture and assembly of the medicinal products to which the authorisation relates as are undertaken by the manufacturer.
+**1.** The manufacturer must provide and maintain such staff, premises and plant as are necessary for the carrying out in accordance with the UK[^c-cf93a4d9fb670c361b6d2d139199a1f8] marketing authorisation of such stages of the manufacture and assembly of the medicinal products to which the authorisation relates as are undertaken by the manufacturer.
 
 **2.** The manufacturer must provide and maintain such staff, premises, equipment and facilities for the handling, storage and distribution of the medicinal products to which the UK marketing authorisation relates and which the manufacturer handles, stores or distributes as are necessary to avoid deterioration of the medicinal products.
 
@@ -77,6 +77,6 @@ except where the manufacturer is authorised by the licensing authority to destro
 
 ## Annotations
 
-[^key-cc9c80babe62f05020e5b5bb64a8fa3e]: Textual amendment: Words in [Sch. 9](https://www.legislation.gov.uk/uksi/2012/1916/schedule/9) heading substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [52(2)](https://www.legislation.gov.uk/uksi/2019/775/regulation/52/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cc9c80babe62f05020e5b5bb64a8fa3e]: Textual amendment: Words in [Sch. 9](https://www.legislation.gov.uk/uksi/2012/1916/schedule/9) heading substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [52(2)](https://www.legislation.gov.uk/uksi/2019/775/regulation/52/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cf93a4d9fb670c361b6d2d139199a1f8]: Textual amendment: Word in [Sch. 9](https://www.legislation.gov.uk/uksi/2012/1916/schedule/9) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [52(3)](https://www.legislation.gov.uk/uksi/2019/775/regulation/52/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cf93a4d9fb670c361b6d2d139199a1f8]: Textual amendment: Word in [Sch. 9](https://www.legislation.gov.uk/uksi/2012/1916/schedule/9) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [52(3)](https://www.legislation.gov.uk/uksi/2019/775/regulation/52/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

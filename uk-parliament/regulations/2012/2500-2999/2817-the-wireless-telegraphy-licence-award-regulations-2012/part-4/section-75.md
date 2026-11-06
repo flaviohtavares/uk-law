@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Assignment of numbered 800 MHz paired frequency lots in the case where 800 MHz paired frequency lots were included in only one winning principal stage bid[^key-27d960698803ade7e8fa5e60fb34e9f1]
+## 75. Assignment of numbered 800 MHz paired frequency lots in the case where 800 MHz paired frequency lots were included in only one winning principal stage bid[^c-27d960698803ade7e8fa5e60fb34e9f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27d960698803ade7e8fa5e60fb34e9f1]: Commencement: Reg. 75 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-27d960698803ade7e8fa5e60fb34e9f1]: Commencement: Reg. 75 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

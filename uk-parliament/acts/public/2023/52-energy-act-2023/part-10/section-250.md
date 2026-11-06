@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 250. Power to make energy performance regulations[^key-f3cd46268a0958f445f7f516708d2764]
+## 250. Power to make energy performance regulations[^c-f3cd46268a0958f445f7f516708d2764]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3cd46268a0958f445f7f516708d2764]: Commencement: [S. 250](https://www.legislation.gov.uk/ukpga/2023/52/section/250) in force at 26.12.2023, see [s. 334(3)(h)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/h)
+[^c-f3cd46268a0958f445f7f516708d2764]: Commencement: [S. 250](https://www.legislation.gov.uk/ukpga/2023/52/section/250) in force at 26.12.2023, see [s. 334(3)(h)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/h)

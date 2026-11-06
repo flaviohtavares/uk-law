@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 138. Surrender for non-disclosure[^key-984a8e1bbecd387b1ad15571bf3f913e]
+## 138. Surrender for non-disclosure[^c-984a8e1bbecd387b1ad15571bf3f913e]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-984a8e1bbecd387b1ad15571bf3f913e]: Commencement: Rule 138 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-984a8e1bbecd387b1ad15571bf3f913e]: Commencement: Rule 138 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

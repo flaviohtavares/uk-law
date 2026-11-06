@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**258.**[^key-6561dc32a40a20b82b46154c61463093] The Criminal Justice and Immigration Act 2008 is amended as follows.
+**258.**[^c-6561dc32a40a20b82b46154c61463093] The Criminal Justice and Immigration Act 2008 is amended as follows.
 
 ## Annotations
 
-[^key-6561dc32a40a20b82b46154c61463093]: Commencement: Reg. 258 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-6561dc32a40a20b82b46154c61463093]: Commencement: Reg. 258 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

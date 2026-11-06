@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88A. HGV road user levy: transitional provision for end of exempt period[^key-ea88dfbc99bc866b1d471baa76eedd3d]
+## 88A. HGV road user levy: transitional provision for end of exempt period[^c-ea88dfbc99bc866b1d471baa76eedd3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,4 +69,4 @@ where—
 
 ## Annotations
 
-[^key-ea88dfbc99bc866b1d471baa76eedd3d]: Textual amendment: [S. 88A](https://www.legislation.gov.uk/ukpga/2020/14/section/88A) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 326(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/326/2)
+[^c-ea88dfbc99bc866b1d471baa76eedd3d]: Textual amendment: [S. 88A](https://www.legislation.gov.uk/ukpga/2020/14/section/88A) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 326(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/326/2)

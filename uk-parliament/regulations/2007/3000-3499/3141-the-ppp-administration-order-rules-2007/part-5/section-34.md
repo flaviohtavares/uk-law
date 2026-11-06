@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Disposal of charged property, etc[^key-affdd8d808bbf3fdc8ed4b0ab7bd56a6]
+## 34. Disposal of charged property, etc[^c-affdd8d808bbf3fdc8ed4b0ab7bd56a6]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-affdd8d808bbf3fdc8ed4b0ab7bd56a6]: Commencement: [Rule 34](https://www.legislation.gov.uk/uksi/2007/3141/rule/34) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-affdd8d808bbf3fdc8ed4b0ab7bd56a6]: Commencement: [Rule 34](https://www.legislation.gov.uk/uksi/2007/3141/rule/34) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

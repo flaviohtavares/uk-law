@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Amount of fixed penalty: organising an event[^key-42c9bf4a4a1ab53edcfd9dadf6ff47bb]
+## 50. Amount of fixed penalty: organising an event[^c-42c9bf4a4a1ab53edcfd9dadf6ff47bb]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42c9bf4a4a1ab53edcfd9dadf6ff47bb]: Commencement: Reg. 50 in force at 20.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3)
+[^c-42c9bf4a4a1ab53edcfd9dadf6ff47bb]: Commencement: Reg. 50 in force at 20.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3)

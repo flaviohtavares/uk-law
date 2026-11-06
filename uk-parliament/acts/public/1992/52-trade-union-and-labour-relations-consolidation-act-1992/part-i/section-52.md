@@ -20,23 +20,23 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) The scrutineer’s report on the election shall state , so far as relevant[^key-ba5c6c5c156ad86d35df52a8d14dc16c]—
+(1) The scrutineer’s report on the election shall state , so far as relevant[^c-ba5c6c5c156ad86d35df52a8d14dc16c]—
 
-- (a)[^key-378cff7a583aa9c8e2876669c1f5c840] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (aa)[^key-133db1e9cbd2d46044ac2d2d81859c2c] the means of voting by which votes have been cast at the election,
+- (a)[^c-378cff7a583aa9c8e2876669c1f5c840] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (aa)[^c-133db1e9cbd2d46044ac2d2d81859c2c] the means of voting by which votes have been cast at the election,
 - (ab) the number of persons who were entitled to vote at the election,
 - (b) the number of voting papers returned to the scrutineer,
-- (ba)[^key-4ee9dcd5999e845195e001663a0d0adc] the number of electronic voting forms submitted,
+- (ba)[^c-4ee9dcd5999e845195e001663a0d0adc] the number of electronic voting forms submitted,
 - (c) the number of valid votes cast in the election for each candidate, [^c14514231]. . .
-- (d) the number of spoiled or otherwise invalid voting papers returned and electronic voting forms submitted[^key-46ccc38e3e1296851dabc76bd3a5c5bc] ,[^c14514241] [^key-4f57aa9f3a10a2a14638927d8d568b8e]...
+- (d) the number of spoiled or otherwise invalid voting papers returned and electronic voting forms submitted[^c-46ccc38e3e1296851dabc76bd3a5c5bc] ,[^c14514241] [^c-4f57aa9f3a10a2a14638927d8d568b8e]...
 - (e) the name of the person (or of each of the persons) appointed under section 51A or, if no person was so appointed, that fact,
-- (f)[^key-648999b66624cd2a4034ea28fe1996e5] the number of submitted electronic voting forms which were discounted by the scrutineer following a request from the person who submitted the electronic voting form, and
+- (f)[^c-648999b66624cd2a4034ea28fe1996e5] the number of submitted electronic voting forms which were discounted by the scrutineer following a request from the person who submitted the electronic voting form, and
 - (g) the changes made to permissions to access and edit the electronic voting system during the election.
 
 (2) The report shall also state whether the scrutineer is satisfied—
 
 - (a) that there are no reasonable grounds for believing that there was any contravention of a requirement imposed by or under any enactment in relation to the election,
-- (b) that the arrangements made (whether by him or any other person)[^c14514251] with respect to the following matters, so far as relevant, included all such security arrangements as were reasonably practicable for the purpose of minimising the risk that any unfairness or malpractice might occur—[^key-c7cc2d669e194b6c369d6405a8ec6e1a]
+- (b) that the arrangements made (whether by him or any other person)[^c14514251] with respect to the following matters, so far as relevant, included all such security arrangements as were reasonably practicable for the purpose of minimising the risk that any unfairness or malpractice might occur—[^c-c7cc2d669e194b6c369d6405a8ec6e1a]
   - (i) the production, storage, distribution, return or other handling of the voting papers used at the election;
   - (ii) the production, distribution and storage of voting access methods and the maintenance of the electronic voting system;
   - (iii) the counting of the votes,
@@ -73,27 +73,27 @@ but shall not state the name of any member or candidate who has requested such a
 
 ## Annotations
 
-[^key-ba5c6c5c156ad86d35df52a8d14dc16c]: Textual amendment: Words in s. 52(1) inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(10)(a)(i)](https://www.legislation.gov.uk/uksi/2026/881/article/3/10/a/i) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-ba5c6c5c156ad86d35df52a8d14dc16c]: Textual amendment: Words in s. 52(1) inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(10)(a)(i)](https://www.legislation.gov.uk/uksi/2026/881/article/3/10/a/i) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
-[^key-378cff7a583aa9c8e2876669c1f5c840]: Textual amendment: S. 52(1)(a) omitted (25.8.2026) by virtue of [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(10)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/881/article/3/10/a/ii) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-378cff7a583aa9c8e2876669c1f5c840]: Textual amendment: S. 52(1)(a) omitted (25.8.2026) by virtue of [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(10)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/881/article/3/10/a/ii) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
-[^key-133db1e9cbd2d46044ac2d2d81859c2c]: Textual amendment: S. 52(1)(aa)(ab) inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(10)(a)(iii)](https://www.legislation.gov.uk/uksi/2026/881/article/3/10/a/iii) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-133db1e9cbd2d46044ac2d2d81859c2c]: Textual amendment: S. 52(1)(aa)(ab) inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(10)(a)(iii)](https://www.legislation.gov.uk/uksi/2026/881/article/3/10/a/iii) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
-[^key-4ee9dcd5999e845195e001663a0d0adc]: Textual amendment: S. 52(1)(ba) inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(10)(a)(iv)](https://www.legislation.gov.uk/uksi/2026/881/article/3/10/a/iv) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-4ee9dcd5999e845195e001663a0d0adc]: Textual amendment: S. 52(1)(ba) inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(10)(a)(iv)](https://www.legislation.gov.uk/uksi/2026/881/article/3/10/a/iv) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
 [^c14514231]: Textual amendment: Word in s. 52(1)(c) repealed (30.8.1993) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s. 51](https://www.legislation.gov.uk/ukpga/1993/19/section/51), [Sch.10](https://www.legislation.gov.uk/ukpga/1993/19/schedule/10); [S.I. 1993/1908](https://www.legislation.gov.uk/uksi/1993/1908), [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1908/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1993/1908/schedule/1)
 
-[^key-46ccc38e3e1296851dabc76bd3a5c5bc]: Textual amendment: Words in s. 52(1)(d) inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(10)(a)(v)](https://www.legislation.gov.uk/uksi/2026/881/article/3/10/a/v) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-46ccc38e3e1296851dabc76bd3a5c5bc]: Textual amendment: Words in s. 52(1)(d) inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(10)(a)(v)](https://www.legislation.gov.uk/uksi/2026/881/article/3/10/a/v) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
 [^c14514241]: Textual amendment: S. 52(1)(e) andword inserted (30.8.1993) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s. 2(2)(a)](https://www.legislation.gov.uk/ukpga/1993/19/section/2/2/a); [S.I. 1993/1908](https://www.legislation.gov.uk/uksi/1993/1908), [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1908/article/2/1), [Sch.1](https://www.legislation.gov.uk/uksi/1993/1908/schedule/1)
 
-[^key-4f57aa9f3a10a2a14638927d8d568b8e]: Textual amendment: Word in s. 52(1) omitted (25.8.2026) by virtue of [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(10)(a)(vi)](https://www.legislation.gov.uk/uksi/2026/881/article/3/10/a/vi) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-4f57aa9f3a10a2a14638927d8d568b8e]: Textual amendment: Word in s. 52(1) omitted (25.8.2026) by virtue of [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(10)(a)(vi)](https://www.legislation.gov.uk/uksi/2026/881/article/3/10/a/vi) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
-[^key-648999b66624cd2a4034ea28fe1996e5]: Textual amendment: S. 52(1)(f)(g) inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(10)(a)(vii)](https://www.legislation.gov.uk/uksi/2026/881/article/3/10/a/vii) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-648999b66624cd2a4034ea28fe1996e5]: Textual amendment: S. 52(1)(f)(g) inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(10)(a)(vii)](https://www.legislation.gov.uk/uksi/2026/881/article/3/10/a/vii) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
 [^c14514251]: Textual amendment: Words in s. 52(2)(b) inserted (30.8.1993) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s. 2(2)(b)](https://www.legislation.gov.uk/ukpga/1993/19/section/2/2/b); [S.I. 1993/1908](https://www.legislation.gov.uk/uksi/1993/1908), [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1908/article/2/1), [Sch.1](https://www.legislation.gov.uk/uksi/1993/1908/schedule/1)
 
-[^key-c7cc2d669e194b6c369d6405a8ec6e1a]: Textual amendment: Words in s. 52(2)(b) substituted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(10)(b)](https://www.legislation.gov.uk/uksi/2026/881/article/3/10/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-c7cc2d669e194b6c369d6405a8ec6e1a]: Textual amendment: Words in s. 52(2)(b) substituted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(10)(b)](https://www.legislation.gov.uk/uksi/2026/881/article/3/10/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
 [^c14514261]: Textual amendment: S. 52(2A) inserted (30.8.1993) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1993/19/section/1/2); [S.I. 1993/1908](https://www.legislation.gov.uk/uksi/1993/1908), [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1908/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1993/1908/schedule/1)
 

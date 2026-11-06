@@ -30,7 +30,7 @@ summary: ''
 
 Education
 
-[^key-58c8bd1462bbb004d0b6a96576090644]The Education (Levels of Progression for Key Stages 1, 2 and 3) (Transitional) Order (Northern Ireland) 2010 (revoked)
+[^c-58c8bd1462bbb004d0b6a96576090644]The Education (Levels of Progression for Key Stages 1, 2 and 3) (Transitional) Order (Northern Ireland) 2010 (revoked)
 
 Made
 
@@ -70,4 +70,4 @@ Coming into operation
 
 ## Annotations
 
-[^key-58c8bd1462bbb004d0b6a96576090644]: Textual amendment: Rules revoked (10.1.2013 for specified purposes, 1.8.2013 in so far as not already in operation) by [The Education (Levels of Progression for Key Stages 1, 2 and 3) Order (Northern Ireland) 2012 (S.R. 2012/444)](https://www.legislation.gov.uk/nisr/2012/444), [arts. 1](https://www.legislation.gov.uk/nisr/2012/444/article/1), [5](https://www.legislation.gov.uk/nisr/2012/444/article/5)
+[^c-58c8bd1462bbb004d0b6a96576090644]: Textual amendment: Rules revoked (10.1.2013 for specified purposes, 1.8.2013 in so far as not already in operation) by [The Education (Levels of Progression for Key Stages 1, 2 and 3) Order (Northern Ireland) 2012 (S.R. 2012/444)](https://www.legislation.gov.uk/nisr/2012/444), [arts. 1](https://www.legislation.gov.uk/nisr/2012/444/article/1), [5](https://www.legislation.gov.uk/nisr/2012/444/article/5)

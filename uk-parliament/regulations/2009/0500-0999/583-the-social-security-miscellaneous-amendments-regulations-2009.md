@@ -205,7 +205,7 @@ before “Scottish Enterprise” insert “ Skills Development Scotland, ”.
   ;
 - (b) in paragraph 67 [^c1960226] omit “the Community Care (Direct Payments) Act 1996,”.
 
-## 3. Amendment of the Social Security Claims and Payments Regulations 1987[^key-f03af54f664e5c6f6002b0fb0e23687f]
+## 3. Amendment of the Social Security Claims and Payments Regulations 1987[^c-f03af54f664e5c6f6002b0fb0e23687f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -992,7 +992,7 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^c1960226]: Marginal citation: Inserted by [S.I. 2003/2279](https://www.legislation.gov.uk/uksi/2003/2279).
 
-[^key-f03af54f664e5c6f6002b0fb0e23687f]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/583/regulation/3) revoked (1.4.2017) by [The Social Security (Fees Payable by Qualifying Lenders) (Amendment) Regulations 2017 (S.I. 2017/270)](https://www.legislation.gov.uk/uksi/2017/270), [regs. 1](https://www.legislation.gov.uk/uksi/2017/270/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/270/regulation/4), [Sch.](https://www.legislation.gov.uk/uksi/2017/270/schedule)
+[^c-f03af54f664e5c6f6002b0fb0e23687f]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/583/regulation/3) revoked (1.4.2017) by [The Social Security (Fees Payable by Qualifying Lenders) (Amendment) Regulations 2017 (S.I. 2017/270)](https://www.legislation.gov.uk/uksi/2017/270), [regs. 1](https://www.legislation.gov.uk/uksi/2017/270/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/270/regulation/4), [Sch.](https://www.legislation.gov.uk/uksi/2017/270/schedule)
 
 [^c1960228]: Marginal citation: The definition of “starting rate” was inserted by [S.I. 2007/2618](https://www.legislation.gov.uk/uksi/2007/2618).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Requirement to notify persons[^key-a0f69633999d496f1367768e94e77240]
+## 49. Requirement to notify persons[^c-a0f69633999d496f1367768e94e77240]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a0f69633999d496f1367768e94e77240]: Commencement: Reg. 49 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-a0f69633999d496f1367768e94e77240]: Commencement: Reg. 49 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
 [^f00041]: Footnote: “**local authority**” has the meaning given in section 69(1) of the Space Industry Act 2018.
 

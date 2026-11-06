@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 199. Penalties for offences[^key-f285228f3e51182693eb666649e9622b]
+## 199. Penalties for offences[^c-f285228f3e51182693eb666649e9622b]
 
 *Extent: E+W*
 
 (1) The Sea Fish (Conservation) Act 1967 (c. 84) is amended as follows.
 
-(2)[^key-ead9d11264fb840f4c9818f7be386d61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ead9d11264fb840f4c9818f7be386d61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 15 (powers of British sea-fishery officers for enforcement of that Act)—
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f285228f3e51182693eb666649e9622b]: Commencement: S. 199 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/8)
+[^c-f285228f3e51182693eb666649e9622b]: Commencement: S. 199 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/8)
 
-[^key-ead9d11264fb840f4c9818f7be386d61]: Textual amendment: [S. 199(2)](https://www.legislation.gov.uk/ukpga/2009/23/section/199/2) omitted (12.3.2015) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 102(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/102/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-ead9d11264fb840f4c9818f7be386d61]: Textual amendment: [S. 199(2)](https://www.legislation.gov.uk/ukpga/2009/23/section/199/2) omitted (12.3.2015) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 102(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/102/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

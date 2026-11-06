@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**100.**[^key-c07334061914d4969d3fbb897e340590] In regulation 11(2)(b)(iii), for “section 12 of the Listed Buildings Act” substitute “section 94 of the 2023 Act”.
+**100.**[^c-c07334061914d4969d3fbb897e340590] In regulation 11(2)(b)(iii), for “section 12 of the Listed Buildings Act” substitute “section 94 of the 2023 Act”.
 
 ## Annotations
 
-[^key-c07334061914d4969d3fbb897e340590]: Commencement: [Reg. 100](https://www.legislation.gov.uk/wsi/2024/924/regulation/100) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-c07334061914d4969d3fbb897e340590]: Commencement: [Reg. 100](https://www.legislation.gov.uk/wsi/2024/924/regulation/100) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

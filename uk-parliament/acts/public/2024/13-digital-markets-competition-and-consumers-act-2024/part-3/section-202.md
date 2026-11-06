@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 202. Appeals[^key-30af8ec574b6a457cbbb85c53b3e87f8][^key-38b08b980813991785c0230b2b8d0130]
+## 202. Appeals[^c-30af8ec574b6a457cbbb85c53b3e87f8][^c-38b08b980813991785c0230b2b8d0130]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,6 +72,6 @@ the penalty or compensation is not required to be paid until after the appeal is
 
 ## Annotations
 
-[^key-30af8ec574b6a457cbbb85c53b3e87f8]: Commencement: S. 202 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-30af8ec574b6a457cbbb85c53b3e87f8]: Commencement: S. 202 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-38b08b980813991785c0230b2b8d0130]: Commencement: [S. 202](https://www.legislation.gov.uk/ukpga/2024/13/section/202) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-38b08b980813991785c0230b2b8d0130]: Commencement: [S. 202](https://www.legislation.gov.uk/ukpga/2024/13/section/202) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

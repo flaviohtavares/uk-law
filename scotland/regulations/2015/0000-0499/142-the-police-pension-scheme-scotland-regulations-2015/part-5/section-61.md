@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Closure of retirement account[^key-44112e20c1f3accd927c481db4324422]
+## 61. Closure of retirement account[^c-44112e20c1f3accd927c481db4324422]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The scheme manager must close a retirement account if—
 
 ## Annotations
 
-[^key-44112e20c1f3accd927c481db4324422]: Commencement: Reg. 61 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-44112e20c1f3accd927c481db4324422]: Commencement: Reg. 61 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

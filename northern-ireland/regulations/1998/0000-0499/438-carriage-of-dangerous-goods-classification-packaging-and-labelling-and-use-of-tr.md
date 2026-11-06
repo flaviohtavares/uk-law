@@ -30,30 +30,30 @@ summary: ''
 
 HEALTH AND SAFETY
 
-Carriage of Dangerous Goods (Classification, Packaging and Labelling) and Use of Transportable Pressure Receptacles (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^key-196dc7ca941e657f9d68dfe55f90b824]
+Carriage of Dangerous Goods (Classification, Packaging and Labelling) and Use of Transportable Pressure Receptacles (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^c-196dc7ca941e657f9d68dfe55f90b824]
 
 Made
 
 9th December 1998
 
-[^key-196dc7ca941e657f9d68dfe55f90b824]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-196dc7ca941e657f9d68dfe55f90b824]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation[^key-196dc7ca941e657f9d68dfe55f90b824]
+## 1. Citation[^c-196dc7ca941e657f9d68dfe55f90b824]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Carriage of Dangerous Goody (Classification, Packaging and Labelling) and Use of Transportable Pressure Receptacles Regulations (Northern Ireland) 1997[^key-196dc7ca941e657f9d68dfe55f90b824]
+## 2. Amendment of the Carriage of Dangerous Goody (Classification, Packaging and Labelling) and Use of Transportable Pressure Receptacles Regulations (Northern Ireland) 1997[^c-196dc7ca941e657f9d68dfe55f90b824]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-196dc7ca941e657f9d68dfe55f90b824]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-196dc7ca941e657f9d68dfe55f90b824]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-196dc7ca941e657f9d68dfe55f90b824]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-196dc7ca941e657f9d68dfe55f90b824]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-196dc7ca941e657f9d68dfe55f90b824]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/438) revoked (19.5.2010) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2010 (S.R. 2010/160)](https://www.legislation.gov.uk/nisr/2010/160), [regs. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1), [31](https://www.legislation.gov.uk/nisr/2010/160/regulation/31), [Sch. 6](https://www.legislation.gov.uk/nisr/2010/160/schedule/6)
+[^c-196dc7ca941e657f9d68dfe55f90b824]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/438) revoked (19.5.2010) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2010 (S.R. 2010/160)](https://www.legislation.gov.uk/nisr/2010/160), [regs. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1), [31](https://www.legislation.gov.uk/nisr/2010/160/regulation/31), [Sch. 6](https://www.legislation.gov.uk/nisr/2010/160/schedule/6)

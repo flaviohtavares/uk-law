@@ -43,13 +43,13 @@ Coming into force
 
 8th August 1990
 
-The Secretary of State, in exercise of the powers conferred on him by section 52(2) and (3) of the Health and Safety at Work etc. Act 1974[^f00001] (“the 1974 Act”) and of all other powers enabling him in that behalf and for the purpose of giving effect without modifications to proposals submitted to him by the Health and Safety Commission under section 11(2)(d) of the 1974 Act, after the carrying out by the said Commission of consultations in accordance with section 50(3) of that Act, hereby makes the following Regulations:[^key-52ff93599206eba67472d5dd93491e9f][^key-5da6573099e6ee0f354882e178c7c1b0][^key-e0a8378b195d2c96263b0aa9ae8ea660]
+The Secretary of State, in exercise of the powers conferred on him by section 52(2) and (3) of the Health and Safety at Work etc. Act 1974[^f00001] (“the 1974 Act”) and of all other powers enabling him in that behalf and for the purpose of giving effect without modifications to proposals submitted to him by the Health and Safety Commission under section 11(2)(d) of the 1974 Act, after the carrying out by the said Commission of consultations in accordance with section 50(3) of that Act, hereby makes the following Regulations:[^c-52ff93599206eba67472d5dd93491e9f][^c-5da6573099e6ee0f354882e178c7c1b0][^c-e0a8378b195d2c96263b0aa9ae8ea660]
 
-## 1. Citation and commencement[^key-6b0d9bea9469365ca2b58dd97b1f45b5]
+## 1. Citation and commencement[^c-6b0d9bea9469365ca2b58dd97b1f45b5]
 
 These Regulations may be cited as the Health and Safety (Training for Employment) Regulations 1990, and shall come into force on 8th August 1990.
 
-## 2. Interpretation[^key-29e6e19778c7a7285c66fd2cdabe1c7a]
+## 2. Interpretation[^c-29e6e19778c7a7285c66fd2cdabe1c7a]
 
 In these Regulations, unless the context otherwise requires—
 
@@ -59,7 +59,7 @@ In these Regulations, unless the context otherwise requires—
   - (a) the immediate provider of the work experience or training for employment is an educational establishment and it is provided on a course run by the establishment; or
   - (b) received under a contract of employment.
 
-## 3. Meaning of “work” and “at work”[^key-48cd79a5322991d126133d9da3f3bcb6]
+## 3. Meaning of “work” and “at work”[^c-48cd79a5322991d126133d9da3f3bcb6]
 
 For the purposes of Part I of the 1974 Act—
 
@@ -68,11 +68,11 @@ For the purposes of Part I of the 1974 Act—
 
 and in that connection, in the other relevant statutory provisions, “work” and “at work” shall be construed accordingly.
 
-## 4. Meaning of “employee”, “employer” etc.[^key-21d40fdf4fbc7c36c90b55bee674d490]
+## 4. Meaning of “employee”, “employer” etc.[^c-21d40fdf4fbc7c36c90b55bee674d490]
 
 For the purposes of the relevant statutory provisions a person provided with relevant training shall be treated as being the employee of the person whose undertaking (whether carried on by him for profit or not) is for the time being the immediate provider to that person of the training; and “employee”, “worker”, “employer” and related expressions in those provisions shall be construed accordingly.
 
-## 5. Revocation[^key-a3fc5e8c1316cbf4d73cc1dc4a1d1f24]
+## 5. Revocation[^c-a3fc5e8c1316cbf4d73cc1dc4a1d1f24]
 
 The Health and Safety (Training for Employment) Regulations 1988[^f00002] and the Health and Safety (Training for Employment) (Amendment) Regulations 1989[^f00003] are hereby revoked.
 
@@ -98,21 +98,21 @@ Regulation 5 revokes the Health and Safety (Training for Employment) Regulations
 
 [^f00001]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37); sections 50 and 52 were amended by the Employment Protection Act [1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71), Schedule 15, paragraphs 16 and 17 respectively.
 
-[^key-52ff93599206eba67472d5dd93491e9f]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1990/1380) extended (1.10.1996) by [The Health and Safety (Consultation with Employees) Regulations 1996 (S.I. 1996/1513)](https://www.legislation.gov.uk/uksi/1996/1513), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1513/regulation/1), [10](https://www.legislation.gov.uk/uksi/1996/1513/regulation/10) (with [reg. 12](https://www.legislation.gov.uk/uksi/1996/1513/regulation/12))
+[^c-52ff93599206eba67472d5dd93491e9f]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1990/1380) extended (1.10.1996) by [The Health and Safety (Consultation with Employees) Regulations 1996 (S.I. 1996/1513)](https://www.legislation.gov.uk/uksi/1996/1513), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1513/regulation/1), [10](https://www.legislation.gov.uk/uksi/1996/1513/regulation/10) (with [reg. 12](https://www.legislation.gov.uk/uksi/1996/1513/regulation/12))
 
-[^key-5da6573099e6ee0f354882e178c7c1b0]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1990/1380) extended (15.11.2000) by [The Genetically Modified Organisms(Contained Use) Regulations 2000 (S.I. 2000/2831)](https://www.legislation.gov.uk/uksi/2000/2831), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2831/regulation/1), [26(1)(b)](https://www.legislation.gov.uk/uksi/2000/2831/regulation/26/1/b) (with [reg. 30](https://www.legislation.gov.uk/uksi/2000/2831/regulation/30))
+[^c-5da6573099e6ee0f354882e178c7c1b0]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1990/1380) extended (15.11.2000) by [The Genetically Modified Organisms(Contained Use) Regulations 2000 (S.I. 2000/2831)](https://www.legislation.gov.uk/uksi/2000/2831), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2831/regulation/1), [26(1)(b)](https://www.legislation.gov.uk/uksi/2000/2831/regulation/26/1/b) (with [reg. 30](https://www.legislation.gov.uk/uksi/2000/2831/regulation/30))
 
-[^key-e0a8378b195d2c96263b0aa9ae8ea660]: Modification: Regulations extended (1.10.2014) by [The Genetically Modified Organisms (Contained Use) Regulations 2014 (S.I. 2014/1663)](https://www.legislation.gov.uk/uksi/2014/1663), [reg. 30(2)(b)](https://www.legislation.gov.uk/uksi/2014/1663/regulation/30/2/b) (with [reg. 3(1)(2)](https://www.legislation.gov.uk/uksi/2014/1663/regulation/3/1/2))
+[^c-e0a8378b195d2c96263b0aa9ae8ea660]: Modification: Regulations extended (1.10.2014) by [The Genetically Modified Organisms (Contained Use) Regulations 2014 (S.I. 2014/1663)](https://www.legislation.gov.uk/uksi/2014/1663), [reg. 30(2)(b)](https://www.legislation.gov.uk/uksi/2014/1663/regulation/30/2/b) (with [reg. 3(1)(2)](https://www.legislation.gov.uk/uksi/2014/1663/regulation/3/1/2))
 
-[^key-6b0d9bea9469365ca2b58dd97b1f45b5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1990/1380/regulation/1) in force at 8.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1380/regulation/1)
+[^c-6b0d9bea9469365ca2b58dd97b1f45b5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1990/1380/regulation/1) in force at 8.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1380/regulation/1)
 
-[^key-29e6e19778c7a7285c66fd2cdabe1c7a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1990/1380/regulation/2) in force at 8.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1380/regulation/1)
+[^c-29e6e19778c7a7285c66fd2cdabe1c7a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1990/1380/regulation/2) in force at 8.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1380/regulation/1)
 
-[^key-48cd79a5322991d126133d9da3f3bcb6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1990/1380/regulation/3) in force at 8.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1380/regulation/1)
+[^c-48cd79a5322991d126133d9da3f3bcb6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1990/1380/regulation/3) in force at 8.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1380/regulation/1)
 
-[^key-21d40fdf4fbc7c36c90b55bee674d490]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1990/1380/regulation/4) in force at 8.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1380/regulation/1)
+[^c-21d40fdf4fbc7c36c90b55bee674d490]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1990/1380/regulation/4) in force at 8.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1380/regulation/1)
 
-[^key-a3fc5e8c1316cbf4d73cc1dc4a1d1f24]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1990/1380/regulation/5) in force at 8.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1380/regulation/1)
+[^c-a3fc5e8c1316cbf4d73cc1dc4a1d1f24]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1990/1380/regulation/5) in force at 8.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1380/regulation/1)
 
 [^f00002]: Footnote: S.I. [1988/1222](https://www.legislation.gov.uk/uksi/1988/1222).
 

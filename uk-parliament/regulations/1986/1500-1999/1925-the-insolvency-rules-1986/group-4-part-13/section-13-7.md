@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13.7. “Insolvency proceedings”[^key-0685d81f687aab88a151b3211c0fbd00]
+## 13.7. “Insolvency proceedings”[^c-0685d81f687aab88a151b3211c0fbd00]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0685d81f687aab88a151b3211c0fbd00]: Commencement: Rule 13.7 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-0685d81f687aab88a151b3211c0fbd00]: Commencement: Rule 13.7 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

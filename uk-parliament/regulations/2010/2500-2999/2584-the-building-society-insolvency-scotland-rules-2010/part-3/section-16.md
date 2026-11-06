@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Termination of appointment[^key-7c347196f57ce077e4d5b7c3ca3f31c7]
+## 16. Termination of appointment[^c-7c347196f57ce077e4d5b7c3ca3f31c7]
 
 *Extent: S*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7c347196f57ce077e4d5b7c3ca3f31c7]: Commencement: Rule 16 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-7c347196f57ce077e4d5b7c3ca3f31c7]: Commencement: Rule 16 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^f00013]: Footnote: Rule 4.6(1) was amended by rule 13(b) of [S.I. 2006/734](https://www.legislation.gov.uk/uksi/2006/734).
 

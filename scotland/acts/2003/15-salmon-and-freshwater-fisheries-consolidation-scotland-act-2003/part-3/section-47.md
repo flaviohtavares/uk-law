@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Tenure of office[^key-43b4de18033b6531ba5cabd0e0a9b384]
+## 47. Tenure of office[^c-43b4de18033b6531ba5cabd0e0a9b384]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ as the case may be, and a person appointed under paragraph (b) above shall be an
 
 ## Annotations
 
-[^key-43b4de18033b6531ba5cabd0e0a9b384]: Commencement: S. 47 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-43b4de18033b6531ba5cabd0e0a9b384]: Commencement: S. 47 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

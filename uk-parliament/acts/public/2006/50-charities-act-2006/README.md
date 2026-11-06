@@ -58,13 +58,13 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 6 — The Charity Commission](part-2/section-6.md)
 
-##### ...[^key-1924fc71efc216b88a7aaa8a2aa5af5f]
+##### ...[^c-1924fc71efc216b88a7aaa8a2aa5af5f]
 
 *Extent: E+W*
 
 - [Section 7 — The Commission's objectives, general functions and duties](part-2/section-7.md)
 
-#### ... — ...[^key-1924fc71efc216b88a7aaa8a2aa5af5f][^key-1924fc71efc216b88a7aaa8a2aa5af5f]
+#### ... — ...[^c-1924fc71efc216b88a7aaa8a2aa5af5f][^c-1924fc71efc216b88a7aaa8a2aa5af5f]
 
 *Extent: E+W*
 
@@ -200,7 +200,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 41 — ...](part-2/section-41.md)
 - [Section 42 — ...](part-2/section-42.md)
 
-#### ... — ...[^key-be604e121945c9f6aa6e0a34b1d32584][^key-be604e121945c9f6aa6e0a34b1d32584]
+#### ... — ...[^c-be604e121945c9f6aa6e0a34b1d32584][^c-be604e121945c9f6aa6e0a34b1d32584]
 
 *Extent: E+W*
 
@@ -218,7 +218,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 *Extent: E+W*
 
-#### Chapter 1 — Public charitable collections[^key-27cd538803b05a4bd3e3b16eafab0898]
+#### Chapter 1 — Public charitable collections[^c-27cd538803b05a4bd3e3b16eafab0898]
 
 ##### Preliminary
 
@@ -308,8 +308,8 @@ SCHEDULES
 
 ## Annotations
 
-[^key-1924fc71efc216b88a7aaa8a2aa5af5f]: Textual amendment: Ss. 1-9 repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-1924fc71efc216b88a7aaa8a2aa5af5f]: Textual amendment: Ss. 1-9 repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-be604e121945c9f6aa6e0a34b1d32584]: Textual amendment: Ss. 11-44 repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-be604e121945c9f6aa6e0a34b1d32584]: Textual amendment: Ss. 11-44 repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-27cd538803b05a4bd3e3b16eafab0898]: Modification: Pt. 3 Ch. 1 power to amend or modify conferred by 1993 c. 10, Sch. 1C, paras. 6, 7 (as inserted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/50/schedule/4); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule))
+[^c-27cd538803b05a4bd3e3b16eafab0898]: Modification: Pt. 3 Ch. 1 power to amend or modify conferred by 1993 c. 10, Sch. 1C, paras. 6, 7 (as inserted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/50/schedule/4); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule))

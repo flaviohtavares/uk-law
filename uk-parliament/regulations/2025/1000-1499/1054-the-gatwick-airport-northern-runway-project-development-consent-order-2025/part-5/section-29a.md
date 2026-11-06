@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29A. Power to override easements and other rights[^key-101cc1c7206c32c7ba59d8acb648ac37]
+## 29A. Power to override easements and other rights[^c-101cc1c7206c32c7ba59d8acb648ac37]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ the liability is enforceable against the undertaker.
 
 ## Annotations
 
-[^key-101cc1c7206c32c7ba59d8acb648ac37]: Textual amendment: [Art. 29A](https://www.legislation.gov.uk/uksi/2025/1054/article/29A) inserted (21.1.2026) by [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule)
+[^c-101cc1c7206c32c7ba59d8acb648ac37]: Textual amendment: [Art. 29A](https://www.legislation.gov.uk/uksi/2025/1054/article/29A) inserted (21.1.2026) by [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule)

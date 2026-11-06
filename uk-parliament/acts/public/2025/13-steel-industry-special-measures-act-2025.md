@@ -36,11 +36,11 @@ An Act to make provision about powers to secure the continued and safe use of as
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Meaning of “steel undertaking”[^key-da045ba2fd5ff0b5372243d92c6a55a1]
+## 1. Meaning of “steel undertaking”[^c-da045ba2fd5ff0b5372243d92c6a55a1]
 
 In this Act, “**steel undertaking**” means an undertaking carrying on a business that consists of or includes the manufacture of steel.
 
-## 2. Directions about use of assets[^key-4a18acaaca8223e3713493c751fd6b6e]
+## 2. Directions about use of assets[^c-4a18acaaca8223e3713493c751fd6b6e]
 
 (1) The Secretary of State may give a notice under this section to a steel undertaking if—
 
@@ -85,7 +85,7 @@ must comply with any directions given by the Secretary of State.
 - (d) where the undertaking is any other partnership, a partner;
 - (e) where the undertaking is any other kind of body, a person who exercises functions of management with respect to it.
 
-## 3. Breach of directions: power to take control of assets[^key-24979cbd3bf43710b7cf69017258aa11]
+## 3. Breach of directions: power to take control of assets[^c-24979cbd3bf43710b7cf69017258aa11]
 
 (1) This section applies if the Secretary of State considers that—
 
@@ -118,7 +118,7 @@ must comply with any directions given by the Secretary of State.
 - (a) the steel undertaking, or
 - (b) a group undertaking in relation to the steel undertaking.
 
-## 4. Offences[^key-ee9c20aa8c0f082cb50d15141fa5abb9]
+## 4. Offences[^c-ee9c20aa8c0f082cb50d15141fa5abb9]
 
 (1) A steel undertaking, or a relevant person in relation to such an undertaking, commits an offence if, without reasonable excuse, they fail to comply with a direction under section 2.
 
@@ -133,7 +133,7 @@ must comply with any directions given by the Secretary of State.
 - (a) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine (or both);
 - (b) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court or a fine (or both).
 
-## 5. Injunctions[^key-87f88750fd5ec95dfe41f95214dfb380]
+## 5. Injunctions[^c-87f88750fd5ec95dfe41f95214dfb380]
 
 (1) This section applies where the Secretary of State considers that—
 
@@ -147,7 +147,7 @@ must comply with any directions given by the Secretary of State.
 
 (3) On an application under this section the High Court may grant an injunction (or interim injunction) on such terms as it thinks fit to secure the continued and safe operation of the specified assets.
 
-## 6. Indemnities[^key-f5a2c31867bb760ee2188cf8fa3891f0]
+## 6. Indemnities[^c-f5a2c31867bb760ee2188cf8fa3891f0]
 
 (1) No relevant act by a person is to be regarded as giving rise to any cause of action, or is to be taken into account in respect of any cause of action, against the person.
 
@@ -161,7 +161,7 @@ must comply with any directions given by the Secretary of State.
 - (a) a direction under section 2, or
 - (b) a requirement under section 3(4)(d).
 
-## 7. Compensation scheme[^key-6c897aa8432790915634136dd871f039]
+## 7. Compensation scheme[^c-6c897aa8432790915634136dd871f039]
 
 (1) The Secretary of State may by regulations make provision for paying compensation to a steel undertaking to which a notice has been given under section 2 as a result of the exercise of the Secretary of State’s functions under this Act.
 
@@ -169,14 +169,14 @@ must comply with any directions given by the Secretary of State.
 
 (3) A statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-## 8. Financial provision[^key-1c7abb7b706698194537cc56d0050301]
+## 8. Financial provision[^c-1c7abb7b706698194537cc56d0050301]
 
 There is to be paid out of money provided by Parliament—
 
 - (a) any expenses incurred by the Secretary of State under or by virtue of this Act, and
 - (b) any increase attributable to this Act in the sums payable under any other Act out of money so provided.
 
-## 9. Interpretation[^key-d58b53f40b7fb39860b44eb04bda9286]
+## 9. Interpretation[^c-d58b53f40b7fb39860b44eb04bda9286]
 
 In this Act—
 
@@ -187,7 +187,7 @@ In this Act—
 - “**steel undertaking**” has the meaning given by section 1;
 - “**undertaking**” has the meaning given by section 1161(1) of the Companies Act 2006.
 
-## 10. Extent, commencement and short title[^key-a10dbdc395e10cafadddbc1527dfbe9f]
+## 10. Extent, commencement and short title[^c-a10dbdc395e10cafadddbc1527dfbe9f]
 
 (1) This Act extends to England and Wales only.
 
@@ -197,22 +197,22 @@ In this Act—
 
 ## Annotations
 
-[^key-da045ba2fd5ff0b5372243d92c6a55a1]: Commencement: S. 1 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/13/section/10/2)
+[^c-da045ba2fd5ff0b5372243d92c6a55a1]: Commencement: S. 1 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/13/section/10/2)
 
-[^key-4a18acaaca8223e3713493c751fd6b6e]: Commencement: S. 2 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/13/section/10/2)
+[^c-4a18acaaca8223e3713493c751fd6b6e]: Commencement: S. 2 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/13/section/10/2)
 
-[^key-24979cbd3bf43710b7cf69017258aa11]: Commencement: S. 3 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/13/section/10/2)
+[^c-24979cbd3bf43710b7cf69017258aa11]: Commencement: S. 3 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/13/section/10/2)
 
-[^key-ee9c20aa8c0f082cb50d15141fa5abb9]: Commencement: S. 4 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/13/section/10/2)
+[^c-ee9c20aa8c0f082cb50d15141fa5abb9]: Commencement: S. 4 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/13/section/10/2)
 
-[^key-87f88750fd5ec95dfe41f95214dfb380]: Commencement: S. 5 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/13/section/10/2)
+[^c-87f88750fd5ec95dfe41f95214dfb380]: Commencement: S. 5 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/13/section/10/2)
 
-[^key-f5a2c31867bb760ee2188cf8fa3891f0]: Commencement: S. 6 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/13/section/10/2)
+[^c-f5a2c31867bb760ee2188cf8fa3891f0]: Commencement: S. 6 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/13/section/10/2)
 
-[^key-6c897aa8432790915634136dd871f039]: Commencement: S. 7 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/13/section/10/2)
+[^c-6c897aa8432790915634136dd871f039]: Commencement: S. 7 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/13/section/10/2)
 
-[^key-1c7abb7b706698194537cc56d0050301]: Commencement: S. 8 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/13/section/10/2)
+[^c-1c7abb7b706698194537cc56d0050301]: Commencement: S. 8 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/13/section/10/2)
 
-[^key-d58b53f40b7fb39860b44eb04bda9286]: Commencement: S. 9 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/13/section/10/2)
+[^c-d58b53f40b7fb39860b44eb04bda9286]: Commencement: S. 9 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/13/section/10/2)
 
-[^key-a10dbdc395e10cafadddbc1527dfbe9f]: Commencement: S. 10 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/13/section/10/2)
+[^c-a10dbdc395e10cafadddbc1527dfbe9f]: Commencement: S. 10 in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2025/13/section/10/2)

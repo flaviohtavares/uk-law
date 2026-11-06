@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Duty to secure safety of roads and working places.[^key-172b8e1d1a1b78365cd784c71fd02bc4]
+## 48. Duty to secure safety of roads and working places.[^c-172b8e1d1a1b78365cd784c71fd02bc4]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-172b8e1d1a1b78365cd784c71fd02bc4]: Textual amendment: [S. 48](https://www.legislation.gov.uk/apni/1969/6/section/48) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-172b8e1d1a1b78365cd784c71fd02bc4]: Textual amendment: [S. 48](https://www.legislation.gov.uk/apni/1969/6/section/48) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)

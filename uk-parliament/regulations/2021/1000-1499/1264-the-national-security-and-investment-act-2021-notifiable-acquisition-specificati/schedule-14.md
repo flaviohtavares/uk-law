@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 2
 
-### 1. Interpretation[^key-a695b9347b840f184fd5d4fa7fba86a1]
+### 1. Interpretation[^c-a695b9347b840f184fd5d4fa7fba86a1]
 
 In this Schedule—
 
@@ -54,11 +54,11 @@ In this Schedule—
   - (c) launch site equipment or facilities; and
   - (d) equipment or facilities for transport of satellites, launch vehicles or their component parts between sites.
 
-### 2. Activity – satellite and space technology[^key-fdd3a95ec1def2d47b75b5aa83b5d500]
+### 2. Activity – satellite and space technology[^c-fdd3a95ec1def2d47b75b5aa83b5d500]
 
 A qualifying entity carrying on activities that consist of or include operating, developing, producing, creating or using facilities for any of the activities set out in paragraph 3.
 
-**3.**[^key-d7a97af30b62b07097c17970f6de06ab] The activities referred to in paragraph 2 are—
+**3.**[^c-d7a97af30b62b07097c17970f6de06ab] The activities referred to in paragraph 2 are—
 
 - (a) management of debris in outer space, including sending an object into outer space to remove debris;
 - (b) the provision of—
@@ -85,12 +85,12 @@ A qualifying entity carrying on activities that consist of or include operating,
 
 ## Annotations
 
-[^key-a695b9347b840f184fd5d4fa7fba86a1]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/uksi/2021/1264/schedule/14/paragraph/1) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-a695b9347b840f184fd5d4fa7fba86a1]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/uksi/2021/1264/schedule/14/paragraph/1) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
 
 [^f00047]: Footnote: [1986 c. 38](https://www.legislation.gov.uk/ukpga/1986/38). The definition of “outer space” in section 69 of the Space Industry Act [2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5) also refers to the Outer Space Act 1986. The Outer Space Act 1986 is amended by the Space Industry Act 2018 but does not have any amendments relevant to this definition.
 
 [^f00048]: Footnote: [2018 c. 5](https://www.legislation.gov.uk/ukpga/2018/5).
 
-[^key-fdd3a95ec1def2d47b75b5aa83b5d500]: Commencement: [Sch. 14 para. 2](https://www.legislation.gov.uk/uksi/2021/1264/schedule/14/paragraph/2) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-fdd3a95ec1def2d47b75b5aa83b5d500]: Commencement: [Sch. 14 para. 2](https://www.legislation.gov.uk/uksi/2021/1264/schedule/14/paragraph/2) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
 
-[^key-d7a97af30b62b07097c17970f6de06ab]: Commencement: [Sch. 14 para. 3](https://www.legislation.gov.uk/uksi/2021/1264/schedule/14/paragraph/3) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-d7a97af30b62b07097c17970f6de06ab]: Commencement: [Sch. 14 para. 3](https://www.legislation.gov.uk/uksi/2021/1264/schedule/14/paragraph/3) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — MODEL ARTICLES FOR PRIVATE COMPANIES LIMITED BY SHARES[^key-feb2c705f31533f8070e45eca72e2ca5]
+## SCHEDULE 1 — MODEL ARTICLES FOR PRIVATE COMPANIES LIMITED BY SHARES[^c-feb2c705f31533f8070e45eca72e2ca5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ Regulation 2
 
 ### PART 1 — INTERPRETATION AND LIMITATION OF LIABILITY
 
-#### 1. Defined terms[^key-1cf0c6fd5ead6e1d158ca4c9fa6566f5]
+#### 1. Defined terms[^c-1cf0c6fd5ead6e1d158ca4c9fa6566f5]
 
 In the articles, unless the context requires otherwise—
 
@@ -54,7 +54,7 @@ In the articles, unless the context requires otherwise—
 
 Unless the context otherwise requires, other words or expressions contained in these articles bear the same meaning as in the Companies Act 2006 as in force on the date when these articles become binding on the company.
 
-#### 2. Liability of members[^key-d26ea7a23ea505451126ab0f8fad707c]
+#### 2. Liability of members[^c-d26ea7a23ea505451126ab0f8fad707c]
 
 The liability of the members is limited to the amount, if any, unpaid on the shares held by them.
 
@@ -62,17 +62,17 @@ The liability of the members is limited to the amount, if any, unpaid on the sha
 
 #### DIRECTORS’ POWERS AND RESPONSIBILITIES
 
-##### 3. Directors’ general authority[^key-13717009e824c59b57efb4e644c873fa]
+##### 3. Directors’ general authority[^c-13717009e824c59b57efb4e644c873fa]
 
 Subject to the articles, the directors are responsible for the management of the company’s business, for which purpose they may exercise all the powers of the company.
 
-##### 4. Shareholders’ reserve power[^key-f34c741ecec7b64979209165837455fa]
+##### 4. Shareholders’ reserve power[^c-f34c741ecec7b64979209165837455fa]
 
 (1) The shareholders may, by special resolution, direct the directors to take, or refrain from taking, specified action.
 
 (2) No such special resolution invalidates anything which the directors have done before the passing of the resolution.
 
-##### 5. Directors may delegate[^key-d20556cae484db337e72a30eb341b18b]
+##### 5. Directors may delegate[^c-d20556cae484db337e72a30eb341b18b]
 
 (1) Subject to the articles, the directors may delegate any of the powers which are conferred on them under the articles—
 
@@ -88,7 +88,7 @@ as they think fit.
 
 (3) The directors may revoke any delegation in whole or part, or alter its terms and conditions.
 
-##### 6. Committees[^key-d538339228abf13d8b8b71563ea71ef5]
+##### 6. Committees[^c-d538339228abf13d8b8b71563ea71ef5]
 
 (1) Committees to which the directors delegate any of their powers must follow procedures which are based as far as they are applicable on those provisions of the articles which govern the taking of decisions by directors.
 
@@ -96,7 +96,7 @@ as they think fit.
 
 #### DECISION-MAKING BY DIRECTORS
 
-##### 7. Directors to take decisions collectively[^key-ba3eb51fea0a619a50f09c14ebebb79d]
+##### 7. Directors to take decisions collectively[^c-ba3eb51fea0a619a50f09c14ebebb79d]
 
 (1) The general rule about decision-making by directors is that any decision of the directors must be either a majority decision at a meeting or a decision taken in accordance with article 8.
 
@@ -107,7 +107,7 @@ as they think fit.
 
 the general rule does not apply, and the director may take decisions without regard to any of the provisions of the articles relating to directors’ decision-making.
 
-##### 8. Unanimous decisions[^key-f2a45b80d911f284660b2c53930a4602]
+##### 8. Unanimous decisions[^c-f2a45b80d911f284660b2c53930a4602]
 
 (1) A decision of the directors is taken in accordance with this article when all eligible directors indicate to each other by any means that they share a common view on a matter.
 
@@ -117,7 +117,7 @@ the general rule does not apply, and the director may take decisions without reg
 
 (4) A decision may not be taken in accordance with this article if the eligible directors would not have formed a quorum at such a meeting.
 
-##### 9. Calling a directors’ meeting[^key-519eddb5be14e3b6090d73f9277f5582]
+##### 9. Calling a directors’ meeting[^c-519eddb5be14e3b6090d73f9277f5582]
 
 (1) Any director may call a directors’ meeting by giving notice of the meeting to the directors or by authorising the company secretary (if any) to give such notice.
 
@@ -131,7 +131,7 @@ the general rule does not apply, and the director may take decisions without reg
 
 (4) Notice of a directors’ meeting need not be given to directors who waive their entitlement to notice of that meeting, by giving notice to that effect to the company not more than 7 days after the date on which the meeting is held. Where such notice is given after the meeting has been held, that does not affect the validity of the meeting, or of any business conducted at it.
 
-##### 10. Participation in directors’ meetings[^key-448b9652f38e9a5a93bcdb359dff4955]
+##### 10. Participation in directors’ meetings[^c-448b9652f38e9a5a93bcdb359dff4955]
 
 (1) Subject to the articles, directors participate in a directors’ meeting, or part of a directors’ meeting, when—
 
@@ -142,7 +142,7 @@ the general rule does not apply, and the director may take decisions without reg
 
 (3) If all the directors participating in a meeting are not in the same place, they may decide that the meeting is to be treated as taking place wherever any of them is.
 
-##### 11. Quorum for directors’ meetings[^key-2b6ea9891d693d509d1abdae66d88ef1]
+##### 11. Quorum for directors’ meetings[^c-2b6ea9891d693d509d1abdae66d88ef1]
 
 (1) At a directors’ meeting, unless a quorum is participating, no proposal is to be voted on, except a proposal to call another meeting.
 
@@ -153,7 +153,7 @@ the general rule does not apply, and the director may take decisions without reg
 - (a) to appoint further directors, or
 - (b) to call a general meeting so as to enable the shareholders to appoint further directors.
 
-##### 12. Chairing of directors’ meetings[^key-3c578ec833aab768c63d9ed87223582e]
+##### 12. Chairing of directors’ meetings[^c-3c578ec833aab768c63d9ed87223582e]
 
 (1) The directors may appoint a director to chair their meetings.
 
@@ -163,13 +163,13 @@ the general rule does not apply, and the director may take decisions without reg
 
 (4) If the chairman is not participating in a directors’ meeting within ten minutes of the time at which it was to start, the participating directors must appoint one of themselves to chair it.
 
-##### 13. Casting vote[^key-a659e6399fbc6ec2be974fc73e5a465a]
+##### 13. Casting vote[^c-a659e6399fbc6ec2be974fc73e5a465a]
 
 (1) If the numbers of votes for and against a proposal are equal, the chairman or other director chairing the meeting has a casting vote.
 
 (2) But this does not apply if, in accordance with the articles, the chairman or other director is not to be counted as participating in the decision-making process for quorum or voting purposes.
 
-##### 14. Conflicts of interest[^key-983ffd793c6b2eab40c0a6f1481551cf]
+##### 14. Conflicts of interest[^c-983ffd793c6b2eab40c0a6f1481551cf]
 
 (1) If a proposed decision of the directors is concerned with an actual or proposed transaction or arrangement with the company in which a director is interested, that director is not to be counted as participating in the decision-making process for quorum or voting purposes.
 
@@ -193,17 +193,17 @@ the general rule does not apply, and the director may take decisions without reg
 
 (7) If any question as to the right to participate in the meeting (or part of the meeting) should arise in respect of the chairman, the question is to be decided by a decision of the directors at that meeting, for which purpose the chairman is not to be counted as participating in the meeting (or that part of the meeting) for voting or quorum purposes.
 
-##### 15. Records of decisions to be kept[^key-e5d1f0abb5af1a345ad552f701d3b7b5]
+##### 15. Records of decisions to be kept[^c-e5d1f0abb5af1a345ad552f701d3b7b5]
 
 The directors must ensure that the company keeps a record, in writing, for at least 10 years from the date of the decision recorded, of every unanimous or majority decision taken by the directors.
 
-##### 16. Directors’ discretion to make further rules[^key-6cf775a95b61b91307f80b496d605bef]
+##### 16. Directors’ discretion to make further rules[^c-6cf775a95b61b91307f80b496d605bef]
 
 Subject to the articles, the directors may make any rule which they think fit about how they take decisions, and about how such rules are to be recorded or communicated to directors.
 
 #### APPOINTMENT OF DIRECTORS
 
-##### 17. Methods of appointing directors[^key-343617a794275d7ab7c0ebefd39ee042]
+##### 17. Methods of appointing directors[^c-343617a794275d7ab7c0ebefd39ee042]
 
 (1) Any person who is willing to act as a director, and is permitted by law to do so, may be appointed to be a director—
 
@@ -214,7 +214,7 @@ Subject to the articles, the directors may make any rule which they think fit ab
 
 (3) For the purposes of paragraph (2), where 2 or more shareholders die in circumstances rendering it uncertain who was the last to die, a younger shareholder is deemed to have survived an older shareholder.
 
-##### 18. Termination of director’s appointment[^key-c189a3e3829c0e7c291ffaec74530ac6]
+##### 18. Termination of director’s appointment[^c-c189a3e3829c0e7c291ffaec74530ac6]
 
 A person ceases to be a director as soon as—
 
@@ -222,10 +222,10 @@ A person ceases to be a director as soon as—
 - (b) a bankruptcy order is made against that person;
 - (c) a composition is made with that person’s creditors generally in satisfaction of that person’s debts;
 - (d) a registered medical practitioner who is treating that person gives a written opinion to the company stating that that person has become physically or mentally incapable of acting as a director and may remain so for more than three months;
-- (e)[^key-775a4142316bc4a600533023095ff470] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-775a4142316bc4a600533023095ff470] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) notification is received by the company from the director that the director is resigning from office, and such resignation has taken effect in accordance with its terms.
 
-##### 19. Directors’ remuneration[^key-ea621dcecc4d6f26d22c7882ef1a726d]
+##### 19. Directors’ remuneration[^c-ea621dcecc4d6f26d22c7882ef1a726d]
 
 (1) Directors may undertake any services for the company that the directors decide.
 
@@ -243,7 +243,7 @@ A person ceases to be a director as soon as—
 
 (5) Unless the directors decide otherwise, directors are not accountable to the company for any remuneration which they receive as directors or other officers or employees of the company’s subsidiaries or of any other body corporate in which the company is interested.
 
-##### 20. Directors’ expenses[^key-bd3233b68044a5c8a25b4a25f2ee580b]
+##### 20. Directors’ expenses[^c-bd3233b68044a5c8a25b4a25f2ee580b]
 
 The company may pay any reasonable expenses which the directors properly incur in connection with their attendance at—
 
@@ -257,23 +257,23 @@ or otherwise in connection with the exercise of their powers and the discharge o
 
 #### SHARES
 
-##### 21. All shares to be fully paid up[^key-7ec60e95db03818601d61690e77c7274]
+##### 21. All shares to be fully paid up[^c-7ec60e95db03818601d61690e77c7274]
 
 (1) No share is to be issued for less than the aggregate of its nominal value and any premium to be paid to the company in consideration for its issue.
 
 (2) This does not apply to shares taken on the formation of the company by the subscribers to the company’s memorandum.
 
-##### 22. Powers to issue different classes of share[^key-75999e7879aa002797d6518aba50aef3]
+##### 22. Powers to issue different classes of share[^c-75999e7879aa002797d6518aba50aef3]
 
 (1) Subject to the articles, but without prejudice to the rights attached to any existing share, the company may issue shares with such rights or restrictions as may be determined by ordinary resolution.
 
 (2) The company may issue shares which are to be redeemed, or are liable to be redeemed at the option of the company or the holder, and the directors may determine the terms, conditions and manner of redemption of any such shares.
 
-##### 23. Company not bound by less than absolute interests[^key-6973ac9843697f759af21d6af75af358]
+##### 23. Company not bound by less than absolute interests[^c-6973ac9843697f759af21d6af75af358]
 
 Except as required by law, no person is to be recognised by the company as holding any share upon any trust, and except as otherwise required by law or the articles, the company is not in any way to be bound by or recognise any interest in a share other than the holder’s absolute ownership of it and all the rights attaching to it.
 
-##### 24. Share certificates[^key-e8b7d5fd0ed481c2907031fede72c679]
+##### 24. Share certificates[^c-e8b7d5fd0ed481c2907031fede72c679]
 
 (1) The company must issue each shareholder, free of charge, with one or more certificates in respect of the shares which that shareholder holds.
 
@@ -293,7 +293,7 @@ Except as required by law, no person is to be recognised by the company as holdi
 - (a) have affixed to them the company’s common seal, or
 - (b) be otherwise executed in accordance with the Companies Acts.
 
-##### 25. Replacement share certificates[^key-92b84b40780d6c2bed0ead3c7ecbbe49]
+##### 25. Replacement share certificates[^c-92b84b40780d6c2bed0ead3c7ecbbe49]
 
 (1) If a certificate issued in respect of a shareholder’s shares is—
 
@@ -308,7 +308,7 @@ that shareholder is entitled to be issued with a replacement certificate in resp
 - (b) must return the certificate which is to be replaced to the company if it is damaged or defaced; and
 - (c) must comply with such conditions as to evidence, indemnity and the payment of a reasonable fee as the directors decide.
 
-##### 26. Share transfers[^key-c74bb334e90b11c17a4179834bc6c199]
+##### 26. Share transfers[^c-c74bb334e90b11c17a4179834bc6c199]
 
 (1) Shares may be transferred by means of an instrument of transfer in any usual form or any other form approved by the directors, which is executed by or on behalf of the transferor.
 
@@ -320,7 +320,7 @@ that shareholder is entitled to be issued with a replacement certificate in resp
 
 (5) The directors may refuse to register the transfer of a share, and if they do so, the instrument of transfer must be returned to the transferee with the notice of refusal unless they suspect that the proposed transfer may be fraudulent.
 
-##### 27. Transmission of shares[^key-6aaa6877937c5c5965699d4115f8043d]
+##### 27. Transmission of shares[^c-6aaa6877937c5c5965699d4115f8043d]
 
 (1) If title to a share passes to a transmittee, the company may only recognise the transmittee as having any title to that share.
 
@@ -331,7 +331,7 @@ that shareholder is entitled to be issued with a replacement certificate in resp
 
 (3) But transmittees do not have the right to attend or vote at a general meeting, or agree to a proposed written resolution, in respect of shares to which they are entitled, by reason of the holder’s death or bankruptcy or otherwise, unless they become the holders of those shares.
 
-##### 28. Exercise of transmittees’ rights[^key-bf49f76eadf7d551cd235035e9d06f3b]
+##### 28. Exercise of transmittees’ rights[^c-bf49f76eadf7d551cd235035e9d06f3b]
 
 (1) Transmittees who wish to become the holders of shares to which they have become entitled must notify the company in writing of that wish.
 
@@ -339,13 +339,13 @@ that shareholder is entitled to be issued with a replacement certificate in resp
 
 (3) Any transfer made or executed under this article is to be treated as if it were made or executed by the person from whom the transmittee has derived rights in respect of the share, and as if the event which gave rise to the transmission had not occurred.
 
-##### 29. Transmittees bound by prior notices[^key-0624c919ac478bde8cbb231097d87cb2]
+##### 29. Transmittees bound by prior notices[^c-0624c919ac478bde8cbb231097d87cb2]
 
 If a notice is given to a shareholder in respect of shares and a transmittee is entitled to those shares, the transmittee is bound by the notice if it was given to the shareholder before the transmittee’s name has been entered in the register of members.
 
 #### DIVIDENDS AND OTHER DISTRIBUTIONS
 
-##### 30. Procedure for declaring dividends[^key-888a8d2a57a99c927e579bc524bcc4e6]
+##### 30. Procedure for declaring dividends[^c-888a8d2a57a99c927e579bc524bcc4e6]
 
 (1) The company may by ordinary resolution declare dividends, and the directors may decide to pay interim dividends.
 
@@ -361,7 +361,7 @@ If a notice is given to a shareholder in respect of shares and a transmittee is 
 
 (7) If the directors act in good faith, they do not incur any liability to the holders of shares conferring preferred rights for any loss they may suffer by the lawful payment of an interim dividend on shares with deferred or non-preferred rights.
 
-##### 31. Payment of dividends and other distributions[^key-90a8a663d57ac6969998ce5bf98f1969]
+##### 31. Payment of dividends and other distributions[^c-90a8a663d57ac6969998ce5bf98f1969]
 
 (1) Where a dividend or other sum which is a distribution is payable in respect of a share, it must be paid by one or more of the following means—
 
@@ -376,14 +376,14 @@ If a notice is given to a shareholder in respect of shares and a transmittee is 
 - (b) if the share has two or more joint holders, whichever of them is named first in the register of members; or
 - (c) if the holder is no longer entitled to the share by reason of death or bankruptcy, or otherwise by operation of law, the transmittee.
 
-##### 32. No interest on distributions[^key-e80b30f161c2488e502232684f03ea80]
+##### 32. No interest on distributions[^c-e80b30f161c2488e502232684f03ea80]
 
 The company may not pay interest on any dividend or other sum payable in respect of a share unless otherwise provided by—
 
 - (a) the terms on which the share was issued, or
 - (b) the provisions of another agreement between the holder of that share and the company.
 
-##### 33. Unclaimed distributions[^key-d24c30c5826c56c09436960715e1b155]
+##### 33. Unclaimed distributions[^c-d24c30c5826c56c09436960715e1b155]
 
 (1) All dividends or other sums which are—
 
@@ -401,7 +401,7 @@ may be invested or otherwise made use of by the directors for the benefit of the
 
 the distribution recipient is no longer entitled to that dividend or other sum and it ceases to remain owing by the company.
 
-##### 34. Non-cash distributions[^key-69750b3958fd9a5957b0ce25e0147377]
+##### 34. Non-cash distributions[^c-69750b3958fd9a5957b0ce25e0147377]
 
 (1) Subject to the terms of issue of the share in question, the company may, by ordinary resolution on the recommendation of the directors, decide to pay all or part of a dividend or other distribution payable in respect of a share by transferring non-cash assets of equivalent value (including, without limitation, shares or other securities in any company).
 
@@ -411,7 +411,7 @@ the distribution recipient is no longer entitled to that dividend or other sum a
 - (b) paying cash to any distribution recipient on the basis of that value in order to adjust the rights of recipients; and
 - (c) vesting any assets in trustees.
 
-##### 35. Waiver of distributions[^key-06fab5e0e33a6b5815c8c8f830c4e95a]
+##### 35. Waiver of distributions[^c-06fab5e0e33a6b5815c8c8f830c4e95a]
 
 Distribution recipients may waive their entitlement to a dividend or other distribution payable in respect of a share by giving the company notice in writing to that effect, but if—
 
@@ -422,7 +422,7 @@ the notice is not effective unless it is expressed to be given, and signed, by a
 
 #### CAPITALISATION OF PROFITS
 
-##### 36. Authority to capitalise and appropriation of capitalised sums[^key-b07e0b2b9375c8160ca8cafd5a468066]
+##### 36. Authority to capitalise and appropriation of capitalised sums[^c-b07e0b2b9375c8160ca8cafd5a468066]
 
 (1) Subject to the articles, the directors may, if they are so authorised by an ordinary resolution—
 
@@ -448,7 +448,7 @@ the notice is not effective unless it is expressed to be given, and signed, by a
 
 #### ORGANISATION OF GENERAL MEETINGS
 
-##### 37. Attendance and speaking at general meetings[^key-9a0632740313978d7f7635180ec9b65e]
+##### 37. Attendance and speaking at general meetings[^c-9a0632740313978d7f7635180ec9b65e]
 
 (1) A person is able to exercise the right to speak at a general meeting when that person is in a position to communicate to all those attending the meeting, during the meeting, any information or opinions which that person has on the business of the meeting.
 
@@ -463,11 +463,11 @@ the notice is not effective unless it is expressed to be given, and signed, by a
 
 (5) Two or more persons who are not in the same place as each other attend a general meeting if their circumstances are such that if they have (or were to have) rights to speak and vote at that meeting, they are (or would be) able to exercise them.
 
-##### 38. Quorum for general meetings[^key-353609ac15c631d9c2dc7fb46fbba5bb]
+##### 38. Quorum for general meetings[^c-353609ac15c631d9c2dc7fb46fbba5bb]
 
 No business other than the appointment of the chairman of the meeting is to be transacted at a general meeting if the persons attending it do not constitute a quorum.
 
-##### 39. Chairing general meetings[^key-c3d145412f78f841d6e32ee0ef7ff86d]
+##### 39. Chairing general meetings[^c-c3d145412f78f841d6e32ee0ef7ff86d]
 
 (1) If the directors have appointed a chairman, the chairman shall chair general meetings if present and willing to do so.
 
@@ -480,7 +480,7 @@ must appoint a director or shareholder to chair the meeting, and the appointment
 
 (3) The person chairing a meeting in accordance with this article is referred to as “the chairman of the meeting”.
 
-##### 40. Attendance and speaking by directors and non-shareholders[^key-84483dc212812605f2bf1bf70819b565]
+##### 40. Attendance and speaking by directors and non-shareholders[^c-84483dc212812605f2bf1bf70819b565]
 
 (1) Directors may attend and speak at general meetings, whether or not they are shareholders.
 
@@ -491,7 +491,7 @@ must appoint a director or shareholder to chair the meeting, and the appointment
 
 to attend and speak at a general meeting.
 
-##### 41. Adjournment[^key-ad899b0415949405dadb03da16584f2d]
+##### 41. Adjournment[^c-ad899b0415949405dadb03da16584f2d]
 
 (1) If the persons attending a general meeting within half an hour of the time at which the meeting was due to start do not constitute a quorum, or if during a meeting a quorum ceases to be present, the chairman of the meeting must adjourn it.
 
@@ -516,17 +516,17 @@ to attend and speak at a general meeting.
 
 #### VOTING AT GENERAL MEETINGS
 
-##### 42. Voting: general[^key-dde0d155c14ed7d51452cdc1cfec8a55]
+##### 42. Voting: general[^c-dde0d155c14ed7d51452cdc1cfec8a55]
 
 A resolution put to the vote of a general meeting must be decided on a show of hands unless a poll is duly demanded in accordance with the articles.
 
-##### 43. Errors and disputes[^key-3859449b70c7a32faf068aeae1461e44]
+##### 43. Errors and disputes[^c-3859449b70c7a32faf068aeae1461e44]
 
 (1) No objection may be raised to the qualification of any person voting at a general meeting except at the meeting or adjourned meeting at which the vote objected to is tendered, and every vote not disallowed at the meeting is valid.
 
 (2) Any such objection must be referred to the chairman of the meeting, whose decision is final.
 
-##### 44. Poll votes[^key-6a031a2caeb2b6978a3606591514e6a4]
+##### 44. Poll votes[^c-6a031a2caeb2b6978a3606591514e6a4]
 
 (1) A poll on a resolution may be demanded—
 
@@ -547,7 +547,7 @@ A resolution put to the vote of a general meeting must be decided on a show of h
 
 (4) Polls must be taken immediately and in such manner as the chairman of the meeting directs.
 
-##### 45. Content of proxy notices[^key-5d4a9ba03d3fc2e50b04fb663faa1e0f]
+##### 45. Content of proxy notices[^c-5d4a9ba03d3fc2e50b04fb663faa1e0f]
 
 (1) Proxies may only validly be appointed by a notice in writing (a “proxy notice”) which—
 
@@ -565,7 +565,7 @@ A resolution put to the vote of a general meeting must be decided on a show of h
 - (a) allowing the person appointed under it as a proxy discretion as to how to vote on any ancillary or procedural resolutions put to the meeting, and
 - (b) appointing that person as a proxy in relation to any adjournment of the general meeting to which it relates as well as the meeting itself.
 
-##### 46. Delivery of proxy notices[^key-6e698e1fb766a19b0966591b57d4fdc0]
+##### 46. Delivery of proxy notices[^c-6e698e1fb766a19b0966591b57d4fdc0]
 
 (1) A person who is entitled to attend, speak or vote (either on a show of hands or on a poll) at a general meeting remains so entitled in respect of that meeting or any adjournment of it, even though a valid proxy notice has been delivered to the company by or on behalf of that person.
 
@@ -575,7 +575,7 @@ A resolution put to the vote of a general meeting must be decided on a show of h
 
 (4) If a proxy notice is not executed by the person appointing the proxy, it must be accompanied by written evidence of the authority of the person who executed it to execute it on the appointor’s behalf.
 
-##### 47. Amendments to resolutions[^key-9964056b3c883ace4819c2816203a76e]
+##### 47. Amendments to resolutions[^c-9964056b3c883ace4819c2816203a76e]
 
 (1) An ordinary resolution to be proposed at a general meeting may be amended by ordinary resolution if—
 
@@ -591,7 +591,7 @@ A resolution put to the vote of a general meeting must be decided on a show of h
 
 ### PART 5 — ADMINISTRATIVE ARRANGEMENTS
 
-#### 48. Means of communication to be used[^key-12d082319a0297f47aeb97bbd003610d]
+#### 48. Means of communication to be used[^c-12d082319a0297f47aeb97bbd003610d]
 
 (1) Subject to the articles, anything sent or supplied by or to the company under the articles may be sent or supplied in any way in which the Companies Act 2006 provides for documents or information which are authorised or required by any provision of that Act to be sent or supplied by or to the company.
 
@@ -599,7 +599,7 @@ A resolution put to the vote of a general meeting must be decided on a show of h
 
 (3) A director may agree with the company that notices or documents sent to that director in a particular way are to be deemed to have been received within a specified time of their being sent, and for the specified time to be less than 48 hours.
 
-#### 49. Company seals[^key-e9df1fbbd48d3a202c1146e5914c980c]
+#### 49. Company seals[^c-e9df1fbbd48d3a202c1146e5914c980c]
 
 (1) Any common seal may only be used by the authority of the directors.
 
@@ -613,17 +613,17 @@ A resolution put to the vote of a general meeting must be decided on a show of h
 - (b) the company secretary (if any); or
 - (c) any person authorised by the directors for the purpose of signing documents to which the common seal is applied.
 
-#### 50. No right to inspect accounts and other records[^key-657c7486034d490c4c7d4ee327a64269]
+#### 50. No right to inspect accounts and other records[^c-657c7486034d490c4c7d4ee327a64269]
 
 Except as provided by law or authorised by the directors or an ordinary resolution of the company, no person is entitled to inspect any of the company’s accounting or other records or documents merely by virtue of being a shareholder.
 
-#### 51. Provision for employees on cessation of business[^key-dac5db67a55b81523fa233746baa8c27]
+#### 51. Provision for employees on cessation of business[^c-dac5db67a55b81523fa233746baa8c27]
 
 The directors may decide to make provision for the benefit of persons employed or formerly employed by the company or any of its subsidiaries (other than a director or former director or shadow director) in connection with the cessation or transfer to any person of the whole or part of the undertaking of the company or that subsidiary.
 
 #### DIRECTORS’ INDEMNITY AND INSURANCE
 
-##### 52. Indemnity[^key-6fde7dc1a6d8d8d5e8404cb85fcfeb07]
+##### 52. Indemnity[^c-6fde7dc1a6d8d8d5e8404cb85fcfeb07]
 
 (1) Subject to paragraph (2), a relevant director of the company or an associated company may be indemnified out of the company’s assets against—
 
@@ -638,7 +638,7 @@ The directors may decide to make provision for the benefit of persons employed o
 - (a) companies are associated if one is a subsidiary of the other or both are subsidiaries of the same body corporate, and
 - (b) a “relevant director” means any director or former director of the company or an associated company.
 
-##### 53. Insurance[^key-19b5d784a1507bdac68c3dcea9bfceb3]
+##### 53. Insurance[^c-19b5d784a1507bdac68c3dcea9bfceb3]
 
 (1) The directors may decide to purchase and maintain insurance, at the expense of the company, for the benefit of any relevant director in respect of any relevant loss.
 
@@ -650,112 +650,112 @@ The directors may decide to make provision for the benefit of persons employed o
 
 ## Annotations
 
-[^key-feb2c705f31533f8070e45eca72e2ca5]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1) applied (with modifications) (24.11.2025) by [General Cemetery Act 2025 (c. ii)](https://www.legislation.gov.uk/ukla/2025/2), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2025/2/section/1/2), [3(3)](https://www.legislation.gov.uk/ukla/2025/2/section/3/3)
+[^c-feb2c705f31533f8070e45eca72e2ca5]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1) applied (with modifications) (24.11.2025) by [General Cemetery Act 2025 (c. ii)](https://www.legislation.gov.uk/ukla/2025/2), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2025/2/section/1/2), [3(3)](https://www.legislation.gov.uk/ukla/2025/2/section/3/3)
 
-[^key-1cf0c6fd5ead6e1d158ca4c9fa6566f5]: Commencement: [Sch. 1 art. 1](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/1) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-1cf0c6fd5ead6e1d158ca4c9fa6566f5]: Commencement: [Sch. 1 art. 1](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/1) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-d26ea7a23ea505451126ab0f8fad707c]: Commencement: [Sch. 1 art. 2](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/2) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-d26ea7a23ea505451126ab0f8fad707c]: Commencement: [Sch. 1 art. 2](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/2) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-13717009e824c59b57efb4e644c873fa]: Commencement: [Sch. 1 art. 3](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/3) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-13717009e824c59b57efb4e644c873fa]: Commencement: [Sch. 1 art. 3](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/3) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-f34c741ecec7b64979209165837455fa]: Commencement: [Sch. 1 art. 4](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/4) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-f34c741ecec7b64979209165837455fa]: Commencement: [Sch. 1 art. 4](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/4) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-d20556cae484db337e72a30eb341b18b]: Commencement: [Sch. 1 art. 5](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/5) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-d20556cae484db337e72a30eb341b18b]: Commencement: [Sch. 1 art. 5](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/5) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-d538339228abf13d8b8b71563ea71ef5]: Commencement: [Sch. 1 art. 6](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/6) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-d538339228abf13d8b8b71563ea71ef5]: Commencement: [Sch. 1 art. 6](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/6) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-ba3eb51fea0a619a50f09c14ebebb79d]: Commencement: [Sch. 1 art. 7](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/7) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-ba3eb51fea0a619a50f09c14ebebb79d]: Commencement: [Sch. 1 art. 7](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/7) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-f2a45b80d911f284660b2c53930a4602]: Commencement: [Sch. 1 art. 8](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/8) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-f2a45b80d911f284660b2c53930a4602]: Commencement: [Sch. 1 art. 8](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/8) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-519eddb5be14e3b6090d73f9277f5582]: Commencement: [Sch. 1 art. 9](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/9) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-519eddb5be14e3b6090d73f9277f5582]: Commencement: [Sch. 1 art. 9](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/9) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-448b9652f38e9a5a93bcdb359dff4955]: Commencement: [Sch. 1 art. 10](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/10) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-448b9652f38e9a5a93bcdb359dff4955]: Commencement: [Sch. 1 art. 10](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/10) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-2b6ea9891d693d509d1abdae66d88ef1]: Commencement: [Sch. 1 art. 11](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/11) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-2b6ea9891d693d509d1abdae66d88ef1]: Commencement: [Sch. 1 art. 11](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/11) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-3c578ec833aab768c63d9ed87223582e]: Commencement: [Sch. 1 art. 12](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/12) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-3c578ec833aab768c63d9ed87223582e]: Commencement: [Sch. 1 art. 12](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/12) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-a659e6399fbc6ec2be974fc73e5a465a]: Commencement: [Sch. 1 art. 13](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/13) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-a659e6399fbc6ec2be974fc73e5a465a]: Commencement: [Sch. 1 art. 13](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/13) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-983ffd793c6b2eab40c0a6f1481551cf]: Commencement: [Sch. 1 art. 14](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/14) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-983ffd793c6b2eab40c0a6f1481551cf]: Commencement: [Sch. 1 art. 14](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/14) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-e5d1f0abb5af1a345ad552f701d3b7b5]: Commencement: [Sch. 1 art. 15](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/15) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-e5d1f0abb5af1a345ad552f701d3b7b5]: Commencement: [Sch. 1 art. 15](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/15) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-6cf775a95b61b91307f80b496d605bef]: Commencement: [Sch. 1 art. 16](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/16) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-6cf775a95b61b91307f80b496d605bef]: Commencement: [Sch. 1 art. 16](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/16) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-343617a794275d7ab7c0ebefd39ee042]: Commencement: [Sch. 1 art. 17](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/17) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-343617a794275d7ab7c0ebefd39ee042]: Commencement: [Sch. 1 art. 17](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/17) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-c189a3e3829c0e7c291ffaec74530ac6]: Commencement: [Sch. 1 art. 18](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/18) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-c189a3e3829c0e7c291ffaec74530ac6]: Commencement: [Sch. 1 art. 18](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/18) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-775a4142316bc4a600533023095ff470]: Textual amendment: [Sch. 1 art. 18(e)](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/18/e) omitted (28.4.2013) by virtue of [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [ss. 3(1)(a)](https://www.legislation.gov.uk/ukpga/2013/8/section/3/1/a), [4(1)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/1)
+[^c-775a4142316bc4a600533023095ff470]: Textual amendment: [Sch. 1 art. 18(e)](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/18/e) omitted (28.4.2013) by virtue of [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [ss. 3(1)(a)](https://www.legislation.gov.uk/ukpga/2013/8/section/3/1/a), [4(1)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/1)
 
-[^key-ea621dcecc4d6f26d22c7882ef1a726d]: Commencement: [Sch. 1 art. 19](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/19) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-ea621dcecc4d6f26d22c7882ef1a726d]: Commencement: [Sch. 1 art. 19](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/19) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-bd3233b68044a5c8a25b4a25f2ee580b]: Commencement: [Sch. 1 art. 20](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/20) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-bd3233b68044a5c8a25b4a25f2ee580b]: Commencement: [Sch. 1 art. 20](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/20) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-7ec60e95db03818601d61690e77c7274]: Commencement: [Sch. 1 art. 21](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/21) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-7ec60e95db03818601d61690e77c7274]: Commencement: [Sch. 1 art. 21](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/21) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-75999e7879aa002797d6518aba50aef3]: Commencement: [Sch. 1 art. 22](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/22) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-75999e7879aa002797d6518aba50aef3]: Commencement: [Sch. 1 art. 22](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/22) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-6973ac9843697f759af21d6af75af358]: Commencement: [Sch. 1 art. 23](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/23) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-6973ac9843697f759af21d6af75af358]: Commencement: [Sch. 1 art. 23](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/23) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-e8b7d5fd0ed481c2907031fede72c679]: Commencement: [Sch. 1 art. 24](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/24) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-e8b7d5fd0ed481c2907031fede72c679]: Commencement: [Sch. 1 art. 24](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/24) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-92b84b40780d6c2bed0ead3c7ecbbe49]: Commencement: [Sch. 1 art. 25](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/25) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-92b84b40780d6c2bed0ead3c7ecbbe49]: Commencement: [Sch. 1 art. 25](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/25) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-c74bb334e90b11c17a4179834bc6c199]: Commencement: [Sch. 1 art. 26](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/26) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-c74bb334e90b11c17a4179834bc6c199]: Commencement: [Sch. 1 art. 26](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/26) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-6aaa6877937c5c5965699d4115f8043d]: Commencement: [Sch. 1 art. 27](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/27) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-6aaa6877937c5c5965699d4115f8043d]: Commencement: [Sch. 1 art. 27](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/27) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-bf49f76eadf7d551cd235035e9d06f3b]: Commencement: [Sch. 1 art. 28](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/28) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-bf49f76eadf7d551cd235035e9d06f3b]: Commencement: [Sch. 1 art. 28](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/28) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-0624c919ac478bde8cbb231097d87cb2]: Commencement: [Sch. 1 art. 29](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/29) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-0624c919ac478bde8cbb231097d87cb2]: Commencement: [Sch. 1 art. 29](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/29) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-888a8d2a57a99c927e579bc524bcc4e6]: Commencement: [Sch. 1 art. 30](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/30) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-888a8d2a57a99c927e579bc524bcc4e6]: Commencement: [Sch. 1 art. 30](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/30) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-90a8a663d57ac6969998ce5bf98f1969]: Commencement: [Sch. 1 art. 31](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/31) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-90a8a663d57ac6969998ce5bf98f1969]: Commencement: [Sch. 1 art. 31](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/31) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-e80b30f161c2488e502232684f03ea80]: Commencement: [Sch. 1 art. 32](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/32) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-e80b30f161c2488e502232684f03ea80]: Commencement: [Sch. 1 art. 32](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/32) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-d24c30c5826c56c09436960715e1b155]: Commencement: [Sch. 1 art. 33](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/33) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-d24c30c5826c56c09436960715e1b155]: Commencement: [Sch. 1 art. 33](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/33) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-69750b3958fd9a5957b0ce25e0147377]: Commencement: [Sch. 1 art. 34](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/34) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-69750b3958fd9a5957b0ce25e0147377]: Commencement: [Sch. 1 art. 34](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/34) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-06fab5e0e33a6b5815c8c8f830c4e95a]: Commencement: [Sch. 1 art. 35](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/35) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-06fab5e0e33a6b5815c8c8f830c4e95a]: Commencement: [Sch. 1 art. 35](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/35) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-b07e0b2b9375c8160ca8cafd5a468066]: Commencement: [Sch. 1 art. 36](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/36) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-b07e0b2b9375c8160ca8cafd5a468066]: Commencement: [Sch. 1 art. 36](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/36) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-9a0632740313978d7f7635180ec9b65e]: Commencement: [Sch. 1 art. 37](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/37) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-9a0632740313978d7f7635180ec9b65e]: Commencement: [Sch. 1 art. 37](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/37) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-353609ac15c631d9c2dc7fb46fbba5bb]: Commencement: [Sch. 1 art. 38](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/38) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-353609ac15c631d9c2dc7fb46fbba5bb]: Commencement: [Sch. 1 art. 38](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/38) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-c3d145412f78f841d6e32ee0ef7ff86d]: Commencement: [Sch. 1 art. 39](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/39) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-c3d145412f78f841d6e32ee0ef7ff86d]: Commencement: [Sch. 1 art. 39](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/39) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-84483dc212812605f2bf1bf70819b565]: Commencement: [Sch. 1 art. 40](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/40) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-84483dc212812605f2bf1bf70819b565]: Commencement: [Sch. 1 art. 40](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/40) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-ad899b0415949405dadb03da16584f2d]: Commencement: [Sch. 1 art. 41](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/41) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-ad899b0415949405dadb03da16584f2d]: Commencement: [Sch. 1 art. 41](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/41) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-dde0d155c14ed7d51452cdc1cfec8a55]: Commencement: [Sch. 1 art. 42](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/42) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-dde0d155c14ed7d51452cdc1cfec8a55]: Commencement: [Sch. 1 art. 42](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/42) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-3859449b70c7a32faf068aeae1461e44]: Commencement: [Sch. 1 art. 43](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/43) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-3859449b70c7a32faf068aeae1461e44]: Commencement: [Sch. 1 art. 43](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/43) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-6a031a2caeb2b6978a3606591514e6a4]: Commencement: [Sch. 1 art. 44](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/44) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-6a031a2caeb2b6978a3606591514e6a4]: Commencement: [Sch. 1 art. 44](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/44) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-5d4a9ba03d3fc2e50b04fb663faa1e0f]: Commencement: [Sch. 1 art. 45](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/45) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-5d4a9ba03d3fc2e50b04fb663faa1e0f]: Commencement: [Sch. 1 art. 45](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/45) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-6e698e1fb766a19b0966591b57d4fdc0]: Commencement: [Sch. 1 art. 46](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/46) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-6e698e1fb766a19b0966591b57d4fdc0]: Commencement: [Sch. 1 art. 46](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/46) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-9964056b3c883ace4819c2816203a76e]: Commencement: [Sch. 1 art. 47](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/47) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-9964056b3c883ace4819c2816203a76e]: Commencement: [Sch. 1 art. 47](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/47) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-12d082319a0297f47aeb97bbd003610d]: Commencement: [Sch. 1 art. 48](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/48) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-12d082319a0297f47aeb97bbd003610d]: Commencement: [Sch. 1 art. 48](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/48) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-e9df1fbbd48d3a202c1146e5914c980c]: Commencement: [Sch. 1 art. 49](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/49) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-e9df1fbbd48d3a202c1146e5914c980c]: Commencement: [Sch. 1 art. 49](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/49) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-657c7486034d490c4c7d4ee327a64269]: Commencement: [Sch. 1 art. 50](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/50) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-657c7486034d490c4c7d4ee327a64269]: Commencement: [Sch. 1 art. 50](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/50) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-dac5db67a55b81523fa233746baa8c27]: Commencement: [Sch. 1 art. 51](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/51) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-dac5db67a55b81523fa233746baa8c27]: Commencement: [Sch. 1 art. 51](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/51) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-6fde7dc1a6d8d8d5e8404cb85fcfeb07]: Commencement: [Sch. 1 art. 52](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/52) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-6fde7dc1a6d8d8d5e8404cb85fcfeb07]: Commencement: [Sch. 1 art. 52](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/52) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
 
-[^key-19b5d784a1507bdac68c3dcea9bfceb3]: Commencement: [Sch. 1 art. 53](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/53) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-19b5d784a1507bdac68c3dcea9bfceb3]: Commencement: [Sch. 1 art. 53](https://www.legislation.gov.uk/uksi/2008/3229/schedule/1/paragraph/53) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)

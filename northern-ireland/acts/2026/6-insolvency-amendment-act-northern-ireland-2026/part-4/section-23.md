@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Report by administrative receiver[^key-0b6585b5e27b56656b06a761588516b8]
+## 23. Report by administrative receiver[^c-0b6585b5e27b56656b06a761588516b8]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b6585b5e27b56656b06a761588516b8]: Commencement: S. 23 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-0b6585b5e27b56656b06a761588516b8]: Commencement: S. 23 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

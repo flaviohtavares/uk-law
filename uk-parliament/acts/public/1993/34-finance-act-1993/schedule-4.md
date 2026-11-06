@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Vans[^key-e872e2d2730c8cba6a4e6ddc634d911a]
+## SCHEDULE 4 — Vans[^c-e872e2d2730c8cba6a4e6ddc634d911a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,22 +24,22 @@ summary: ''
 
 Section 73.
 
-**1.**[^key-e872e2d2730c8cba6a4e6ddc634d911a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e872e2d2730c8cba6a4e6ddc634d911a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e872e2d2730c8cba6a4e6ddc634d911a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e872e2d2730c8cba6a4e6ddc634d911a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-e872e2d2730c8cba6a4e6ddc634d911a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e872e2d2730c8cba6a4e6ddc634d911a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-e872e2d2730c8cba6a4e6ddc634d911a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e872e2d2730c8cba6a4e6ddc634d911a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-e872e2d2730c8cba6a4e6ddc634d911a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e872e2d2730c8cba6a4e6ddc634d911a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-e872e2d2730c8cba6a4e6ddc634d911a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-e872e2d2730c8cba6a4e6ddc634d911a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-e872e2d2730c8cba6a4e6ddc634d911a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e872e2d2730c8cba6a4e6ddc634d911a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-e872e2d2730c8cba6a4e6ddc634d911a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-e872e2d2730c8cba6a4e6ddc634d911a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e872e2d2730c8cba6a4e6ddc634d911a]: Textual amendment: Sch. 4 repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-e872e2d2730c8cba6a4e6ddc634d911a]: Textual amendment: Sch. 4 repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))

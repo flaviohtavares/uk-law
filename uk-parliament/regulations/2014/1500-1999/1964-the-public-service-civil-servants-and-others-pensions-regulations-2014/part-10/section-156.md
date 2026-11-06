@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Bulk transfers in[^key-c59891f64f0c7042586dc57b5bf4cc42]
+## 156. Bulk transfers in[^c-c59891f64f0c7042586dc57b5bf4cc42]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c59891f64f0c7042586dc57b5bf4cc42]: Commencement: [Reg. 156](https://www.legislation.gov.uk/uksi/2014/1964/regulation/156) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-c59891f64f0c7042586dc57b5bf4cc42]: Commencement: [Reg. 156](https://www.legislation.gov.uk/uksi/2014/1964/regulation/156) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

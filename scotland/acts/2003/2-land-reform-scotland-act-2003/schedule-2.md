@@ -124,7 +124,7 @@ The Criminal Justice and Public Order Act 1994 is amended as follows.
 
 The Conservation (Natural Habitats, Etc.) Regulations 1994 are amended as follows.
 
-**15.**[^key-cc0cd1cd57b39a4f3a5ad264b5efa9ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-cc0cd1cd57b39a4f3a5ad264b5efa9ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **16.** After regulation 69 there is inserted—
 
@@ -153,4 +153,4 @@ The Conservation (Natural Habitats, Etc.) Regulations 1994 are amended as follow
 
 ## Annotations
 
-[^key-cc0cd1cd57b39a4f3a5ad264b5efa9ba]: Textual amendment: Sch. 2 para. 15 repealed (16.8.2012) by [The Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2012 (S.S.I. 2012/228)](https://www.legislation.gov.uk/ssi/2012/228), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/228/regulation/1/1), [Sch.](https://www.legislation.gov.uk/ssi/2012/228/schedule)
+[^c-cc0cd1cd57b39a4f3a5ad264b5efa9ba]: Textual amendment: Sch. 2 para. 15 repealed (16.8.2012) by [The Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2012 (S.S.I. 2012/228)](https://www.legislation.gov.uk/ssi/2012/228), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/228/regulation/1/1), [Sch.](https://www.legislation.gov.uk/ssi/2012/228/schedule)

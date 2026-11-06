@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25.1. Taking proof in the course of an appeal[^key-6c795bf5b9f9c9eba1a02e704e54a227]
+## 25.1. Taking proof in the course of an appeal[^c-6c795bf5b9f9c9eba1a02e704e54a227]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c795bf5b9f9c9eba1a02e704e54a227]: Commencement: Para. 25.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-6c795bf5b9f9c9eba1a02e704e54a227]: Commencement: Para. 25.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

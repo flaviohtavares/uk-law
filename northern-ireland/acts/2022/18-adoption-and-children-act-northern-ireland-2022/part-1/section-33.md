@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Restrictions on removal[^key-e590622c1c23a14725f57333db913af6]
+## 33. Restrictions on removal[^c-e590622c1c23a14725f57333db913af6]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ is guilty of an offence and liable on summary conviction to imprisonment for a t
 
 ## Annotations
 
-[^key-e590622c1c23a14725f57333db913af6]: Commencement: S. 33 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-e590622c1c23a14725f57333db913af6]: Commencement: S. 33 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

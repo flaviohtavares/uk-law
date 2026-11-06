@@ -46,15 +46,15 @@ Coming into force
 
 The Secretary of State for Work and Pensions, in exercise of the powers conferred by section 45(1) and (2)(b) and section 54(5) and (6) of the Pensions Act 2014[^f00001], makes the following Regulations.
 
-## 1. Citation and commencement[^key-6b80871ed3d846404fbbe3d73aa39d10]
+## 1. Citation and commencement[^c-6b80871ed3d846404fbbe3d73aa39d10]
 
 These Regulations may be cited as the Payment of Pension Levies for Past Periods Regulations 2014 and shall come into force on 8th December 2014.
 
-## 2. Requirement to pay pension levies in respect of past periods[^key-fa16dbb36ced9277dafc6121f124b300]
+## 2. Requirement to pay pension levies in respect of past periods[^c-fa16dbb36ced9277dafc6121f124b300]
 
 So far as relating to the requirement to pay pension levy, the Pensions Act 2004[^f00002], and regulations made under it, shall have effect as if the amendments made by the 2010 regulations had always had effect[^f00003].
 
-## 3. Interest[^key-6310bb67bc23a80a1b8483cbceca45e8]
+## 3. Interest[^c-6310bb67bc23a80a1b8483cbceca45e8]
 
 (1) This regulation applies to any amount of pension levy which becomes payable as a consequence of the coming into force of regulation 2.
 
@@ -68,7 +68,7 @@ So far as relating to the requirement to pay pension levy, the Pensions Act 2004
 
 (6) Where any anniversary of the interest start date falls after 31st October 2014, the interest rate to be applied during the year from that anniversary date is the EU recovery interest rate.
 
-(7) For the purposes of paragraph (6), “EU recovery interest rate” means the rate referred to in Article 9 of [Commission Regulation (EC) No 794/2004 (as it had effect in the United Kingdom immediately prior to IP completion day)](https://www.legislation.gov.uk/european/regulation/2004/0794)[^f00004][^key-437d680c828c732f73fe0d4cb516ffc4].
+(7) For the purposes of paragraph (6), “EU recovery interest rate” means the rate referred to in Article 9 of [Commission Regulation (EC) No 794/2004 (as it had effect in the United Kingdom immediately prior to IP completion day)](https://www.legislation.gov.uk/european/regulation/2004/0794)[^f00004][^c-437d680c828c732f73fe0d4cb516ffc4].
 
 Table 1
 
@@ -121,16 +121,16 @@ Regulation 3 provides for interest to be calculated in accordance with Article 2
 
 [^f00001]: Footnote: [2014 c.19](https://www.legislation.gov.uk/ukpga/2014/19).
 
-[^key-6b80871ed3d846404fbbe3d73aa39d10]: Commencement: Reg. 1 in force at 8.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2939/regulation/1)
+[^c-6b80871ed3d846404fbbe3d73aa39d10]: Commencement: Reg. 1 in force at 8.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2939/regulation/1)
 
-[^key-fa16dbb36ced9277dafc6121f124b300]: Commencement: Reg. 2 in force at 8.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2939/regulation/1)
+[^c-fa16dbb36ced9277dafc6121f124b300]: Commencement: Reg. 2 in force at 8.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2939/regulation/1)
 
 [^f00002]: Footnote: [2004 c.35](https://www.legislation.gov.uk/ukpga/2004/35).
 
 [^f00003]: Footnote: “Pension levy” and “the 2010 regulations” are defined in section 45(3) of the Pensions Act 2014.
 
-[^key-6310bb67bc23a80a1b8483cbceca45e8]: Commencement: Reg. 3 in force at 8.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2939/regulation/1)
+[^c-6310bb67bc23a80a1b8483cbceca45e8]: Commencement: Reg. 3 in force at 8.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2939/regulation/1)
 
 [^f00004]: Footnote: OJ No L140, 30.4.2004, p1. Article 9 was amended by Commission Regulation [(EC) 271/2008](https://www.legislation.gov.uk/european/regulation/2008/0271) (OJ No L82, 25.3.2008, p1). In accordance with Article 10 of Commission Regulation [(EC) 794/2004](https://www.legislation.gov.uk/european/regulation/2004/0794) the rates are published by the European Commission and the rates are calculated in accordance with the Communication from the European Commission dated 19<sup>th</sup> January 2008 (OJ C14 19.01.2008, p6).
 
-[^key-437d680c828c732f73fe0d4cb516ffc4]: Textual amendment: Words in [reg. 3(7)](https://www.legislation.gov.uk/uksi/2014/2939/regulation/3/7) inserted (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2020/1470/schedule/2/paragraph/14/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
+[^c-437d680c828c732f73fe0d4cb516ffc4]: Textual amendment: Words in [reg. 3(7)](https://www.legislation.gov.uk/uksi/2014/2939/regulation/3/7) inserted (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2020/1470/schedule/2/paragraph/14/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))

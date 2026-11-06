@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9B. Zero-rate secondary Class 1 contributions for certain apprentices[^key-f969b9b426ee095bec1039e42c0de016]
+## 9B. Zero-rate secondary Class 1 contributions for certain apprentices[^c-f969b9b426ee095bec1039e42c0de016]
 
 *Extent: N.I.*
 
@@ -51,4 +51,4 @@ That threshold is to be the amount specified for that year by regulations made b
 
 ## Annotations
 
-[^key-f969b9b426ee095bec1039e42c0de016]: Textual amendment: [S. 9B](https://www.legislation.gov.uk/ukpga/1992/7/section/9B) inserted (12.4.2015 for specified purposes, 6.4.2016 in so far as not already in force) by [National Insurance Contributions Act 2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5), [s. 1(9)](https://www.legislation.gov.uk/ukpga/2015/5/section/1/9)[(11)](https://www.legislation.gov.uk/ukpga/2015/5/section/1/11/a)
+[^c-f969b9b426ee095bec1039e42c0de016]: Textual amendment: [S. 9B](https://www.legislation.gov.uk/ukpga/1992/7/section/9B) inserted (12.4.2015 for specified purposes, 6.4.2016 in so far as not already in force) by [National Insurance Contributions Act 2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5), [s. 1(9)](https://www.legislation.gov.uk/ukpga/2015/5/section/1/9)[(11)](https://www.legislation.gov.uk/ukpga/2015/5/section/1/11/a)

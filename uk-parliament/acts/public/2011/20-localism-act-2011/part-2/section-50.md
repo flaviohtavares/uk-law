@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. The EU financial sanctions to which Part 2 applies[^key-a62eb623db9a9822c312895665668965]
+## 50. The EU financial sanctions to which Part 2 applies[^c-a62eb623db9a9822c312895665668965]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ this Part applies to that EU financial sanction as if it did not include that pa
 
 ## Annotations
 
-[^key-a62eb623db9a9822c312895665668965]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2011/20/section/50) in force at 31.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 5](https://www.legislation.gov.uk/uksi/2012/1008/article/5)
+[^c-a62eb623db9a9822c312895665668965]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2011/20/section/50) in force at 31.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 5](https://www.legislation.gov.uk/uksi/2012/1008/article/5)

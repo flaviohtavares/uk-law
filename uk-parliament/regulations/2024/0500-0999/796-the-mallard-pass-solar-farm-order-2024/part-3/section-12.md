@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Claimed public right of way[^key-72d0ce71fb597f1f3bc22c7baa7ac580]
+## 12. Claimed public right of way[^c-72d0ce71fb597f1f3bc22c7baa7ac580]
 
 *Extent: E+W*
 
@@ -40,19 +40,19 @@ summary: ''
 
 (8) In this article—
 
-- “**definitive map**” has the meaning given to it by section 53(1) of the Wildlife and Countryside Act 1981; and[^key-240987bf0740eb0dc32d5717fcada9e9]
-- “**surveying authority**” has the meaning given to it by section 66(1)[^f00039] (interpretation of Part III) of the Wildlife and Countryside Act 1981 [^key-f4431e08864aa357b97ca7c12f53b962]...
+- “**definitive map**” has the meaning given to it by section 53(1) of the Wildlife and Countryside Act 1981; and[^c-240987bf0740eb0dc32d5717fcada9e9]
+- “**surveying authority**” has the meaning given to it by section 66(1)[^f00039] (interpretation of Part III) of the Wildlife and Countryside Act 1981 [^c-f4431e08864aa357b97ca7c12f53b962]...
 
-  [^key-f4431e08864aa357b97ca7c12f53b962]....
+  [^c-f4431e08864aa357b97ca7c12f53b962]....
 
 ## Annotations
 
-[^key-72d0ce71fb597f1f3bc22c7baa7ac580]: Commencement: Art. 12 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-72d0ce71fb597f1f3bc22c7baa7ac580]: Commencement: Art. 12 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
 [^f00038]: Footnote: Section 53 was amended by Schedule 5 to the Countryside and Rights of Way Act [2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37) and by section 70(1) of the Natural Environment and Rural Communities Act [2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16).
 
-[^key-240987bf0740eb0dc32d5717fcada9e9]: Textual amendment: Word in art. 12(8) inserted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)
+[^c-240987bf0740eb0dc32d5717fcada9e9]: Textual amendment: Word in art. 12(8) inserted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)
 
 [^f00039]: Footnote: Section 66 was amended by sections 1, 2 and 7 of, and paragraph 7(6) of Schedule 3 to, the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51). There are other amendments to this section that are not relevant to this Order.
 
-[^key-f4431e08864aa357b97ca7c12f53b962]: Textual amendment: Words in art. 12(8) omitted (1.11.2024) by virtue of [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)
+[^c-f4431e08864aa357b97ca7c12f53b962]: Textual amendment: Words in art. 12(8) omitted (1.11.2024) by virtue of [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)

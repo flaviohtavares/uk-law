@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 160. Variation of, or addition to, the list[^key-fca2292aab885542a767c177a4a90f1d]
+## 160. Variation of, or addition to, the list[^c-fca2292aab885542a767c177a4a90f1d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.200 of the 1986 Rules.
 
 ## Annotations
 
-[^key-fca2292aab885542a767c177a4a90f1d]: Commencement: Rule 160 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-fca2292aab885542a767c177a4a90f1d]: Commencement: Rule 160 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

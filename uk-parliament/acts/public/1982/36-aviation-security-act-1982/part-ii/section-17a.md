@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17A. Copies of directions etc for CAA[^key-6e28d6882ef42b66bba12f5d4567f026]
+## 17A. Copies of directions etc for CAA[^c-6e28d6882ef42b66bba12f5d4567f026]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e28d6882ef42b66bba12f5d4567f026]: Textual amendment: S. 17A inserted (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 11 para. 12(1)](https://www.legislation.gov.uk/ukpga/2012/19/schedule/11/paragraph/12/1) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17), [Sch. 11 para. 12(2)](https://www.legislation.gov.uk/ukpga/2012/19/schedule/11/paragraph/12/2)); [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/262/article/3/a)
+[^c-6e28d6882ef42b66bba12f5d4567f026]: Textual amendment: S. 17A inserted (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 11 para. 12(1)](https://www.legislation.gov.uk/ukpga/2012/19/schedule/11/paragraph/12/1) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17), [Sch. 11 para. 12(2)](https://www.legislation.gov.uk/ukpga/2012/19/schedule/11/paragraph/12/2)); [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/262/article/3/a)

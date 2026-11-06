@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Acquisition of subsoil, etc., only[^key-a57dd6e8db812a787d0778c0ae772172]
+## 27. Acquisition of subsoil, etc., only[^c-a57dd6e8db812a787d0778c0ae772172]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a57dd6e8db812a787d0778c0ae772172]: Commencement: Art. 27 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-a57dd6e8db812a787d0778c0ae772172]: Commencement: Art. 27 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
 
 [^f00096]: Footnote: Section 153(4A) was inserted by section 200(1) and (2) of the Housing and Planning Act 2016.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 61. Application of enactments[^key-b12aa529dc2e2c86344d7263fe6c97f0]
+## 61. Application of enactments[^c-b12aa529dc2e2c86344d7263fe6c97f0]
 
 *Extent: E+W+S*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b12aa529dc2e2c86344d7263fe6c97f0]: Commencement: Art. 61 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-b12aa529dc2e2c86344d7263fe6c97f0]: Commencement: Art. 61 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
 
 [^f00028]: Footnote: 1897 60 & 61 Vict. c. ciii.
 

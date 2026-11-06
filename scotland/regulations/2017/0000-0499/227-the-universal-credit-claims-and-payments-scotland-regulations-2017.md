@@ -48,7 +48,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with sections 29(4) and 30(3) of the Scotland Act 2016[^f00002], they have consulted the Secretary of State.
 
-## 1. Citation, commencement and interpretation[^key-fa09f5847d0cf1ae080d181b462fee4a]
+## 1. Citation, commencement and interpretation[^c-fa09f5847d0cf1ae080d181b462fee4a]
 
 (1) These Regulations may be cited as the Universal Credit (Claims and Payments) (Scotland) Regulations 2017 and come into force on 4th October 2017.
 
@@ -58,7 +58,7 @@ In accordance with sections 29(4) and 30(3) of the Scotland Act 2016[^f00002], t
 - “housing costs element” has the meaning in regulation 25 of the Universal Credit Regulations 2013[^f00004], but does not include a housing costs element calculated under schedule 5 of those Regulations (housing costs element for owner-occupiers);
 - “Scottish UC applicant or recipient” means a person applying for universal credit, or awarded universal credit, who resides in Scotland (and any one of the members of a couple living in Scotland who jointly make a claim for, or have been awarded, universal credit).
 
-## 2. Persons to be able to request twice-monthly payments[^key-7731a7a2a52ea99083d47f1ea6259a49]
+## 2. Persons to be able to request twice-monthly payments[^c-7731a7a2a52ea99083d47f1ea6259a49]
 
 (1) Despite regulation 47(1) of the 2013 Claims and Payments Regulations (universal credit generally to be paid monthly in arrears), a Scottish UC applicant or recipient may request at any time to receive future payments of universal credit twice-monthly in arrears, where that is more frequent than the payments that would otherwise be made.
 
@@ -71,13 +71,13 @@ In accordance with sections 29(4) and 30(3) of the Scotland Act 2016[^f00002], t
 
 (4) Nothing in this regulation restricts the ability of the Secretary of State to arrange for payments of universal credit to be made twice-monthly, or more or less frequently than twice-monthly, in any case or class of case.
 
-## 3. Persons to be advised that they can request twice-monthly payments[^key-f86c0f9f4086a71074f326bcbc3c2fda]
+## 3. Persons to be advised that they can request twice-monthly payments[^c-f86c0f9f4086a71074f326bcbc3c2fda]
 
 (1) Every person entitled to request twice-monthly payments under regulation 2(1) must be advised that he or she can so request and be given information about the implications of that choice.
 
 (2) Paragraph (1) does not apply where the Secretary of State is arranging, or has arranged, for payments of universal credit to be made twice-monthly, or more frequently than twice-monthly.
 
-## 4. Tenants to be able to request direct payments for rent and services[^key-604840b119efee8d426621497a181b49]
+## 4. Tenants to be able to request direct payments for rent and services[^c-604840b119efee8d426621497a181b49]
 
 (1) A Scottish UC applicant or recipient whose award of universal credit will include, or includes, a housing costs element in respect of a rent payment or service charge payment may request at any time to have an amount of universal credit paid directly to the person to whom those payments are due.
 
@@ -97,15 +97,15 @@ In accordance with sections 29(4) and 30(3) of the Scotland Act 2016[^f00002], t
 
 (6) Nothing in this regulation restricts the ability of the Secretary of State to direct that payments of universal credit be made to a person other than a claimant under regulation 58 of the 2013 Claims and Payments Regulations (payment to another person on the claimant’s behalf) or to make deductions and payments in accordance with the provisions of schedule 6 of those Regulations.
 
-## 5. Tenants to be advised that they can request direct payments for rent and services[^key-aa71ef4aefbaa9b28270e338b7aca1f2]
+## 5. Tenants to be advised that they can request direct payments for rent and services[^c-aa71ef4aefbaa9b28270e338b7aca1f2]
 
 (1) Every person entitled to request direct payments under regulation 4(1) must be advised that he or she can request to have an amount of universal credit paid directly, as described in that regulation.
 
 (2) Paragraph (1) does not apply where the Secretary of State is arranging, or has arranged, for universal credit to be paid directly.
 
-## 6. Applications for, and awards of, universal credit to which these Regulations do not apply[^key-f212fe3b5890315e69494cd56ab5e7b8]
+## 6. Applications for, and awards of, universal credit to which these Regulations do not apply[^c-f212fe3b5890315e69494cd56ab5e7b8]
 
-(1) Other than as described in paragraph (1A),[^key-e7a6bdfde3f4624d8d556cbb36e3f8c1] these Regulations have no effect in relation to—
+(1) Other than as described in paragraph (1A),[^c-e7a6bdfde3f4624d8d556cbb36e3f8c1] these Regulations have no effect in relation to—
 
 - (a) an award of universal credit which has been made before 4th October 2017;
 - (b) an application made before that date for such an award or an award made as a result of such an application;
@@ -113,12 +113,12 @@ In accordance with sections 29(4) and 30(3) of the Scotland Act 2016[^f00002], t
 - (d) an application for such an award which will not be administered on that system if granted;
 - (e) an award of universal credit which is administered on that system only as a result of a decision of the Secretary of State to transfer the administration of that award to that system from another system operated by the Secretary of State.
 
-(1A)[^key-2fa49992eb3b2e2180e5acc161fa36bb] From 31st January 2018, regulations 1, 2 and 4 have effect in relation to the awards and applications described in paragraph (1), unless it is an award or application to which either of the following conditions applies—
+(1A)[^c-2fa49992eb3b2e2180e5acc161fa36bb] From 31st January 2018, regulations 1, 2 and 4 have effect in relation to the awards and applications described in paragraph (1), unless it is an award or application to which either of the following conditions applies—
 
 - (a) an award of universal credit which is not administered on the digital service computer system operated by the Secretary of State in digital service areas;
 - (b) an application for such an award which will not be administered on that system if granted.
 
-(2) For the purposes of paragraphs (1)(c) and (1A)(a),[^key-13de5a9d812d32e11a2c1b5bb5cc8b29] “digital service area” has the meaning given in regulation 5(3) of the Universal Credit (Digital Service) Amendment Regulations 2014[^f00005].
+(2) For the purposes of paragraphs (1)(c) and (1A)(a),[^c-13de5a9d812d32e11a2c1b5bb5cc8b29] “digital service area” has the meaning given in regulation 5(3) of the Universal Credit (Digital Service) Amendment Regulations 2014[^f00005].
 
 JEANE FREEMAN
 
@@ -154,26 +154,26 @@ Regulation 6 provides that these flexibilities only apply where the person’s a
 
 [^f00002]: Footnote: [2016 c.11](https://www.legislation.gov.uk/ukpga/2016/11).
 
-[^key-fa09f5847d0cf1ae080d181b462fee4a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/227/regulation/1) in force at 4.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/227/regulation/1/1)
+[^c-fa09f5847d0cf1ae080d181b462fee4a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/227/regulation/1) in force at 4.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/227/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 2013/380](https://www.legislation.gov.uk/uksi/2013/380).
 
 [^f00004]: Footnote: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376).
 
-[^key-7731a7a2a52ea99083d47f1ea6259a49]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/227/regulation/2) in force at 4.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/227/regulation/1/1)
+[^c-7731a7a2a52ea99083d47f1ea6259a49]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/227/regulation/2) in force at 4.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/227/regulation/1/1)
 
-[^key-f86c0f9f4086a71074f326bcbc3c2fda]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2017/227/regulation/3) in force at 4.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/227/regulation/1/1)
+[^c-f86c0f9f4086a71074f326bcbc3c2fda]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2017/227/regulation/3) in force at 4.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/227/regulation/1/1)
 
-[^key-604840b119efee8d426621497a181b49]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2017/227/regulation/4) in force at 4.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/227/regulation/1/1)
+[^c-604840b119efee8d426621497a181b49]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2017/227/regulation/4) in force at 4.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/227/regulation/1/1)
 
-[^key-aa71ef4aefbaa9b28270e338b7aca1f2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2017/227/regulation/5) in force at 4.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/227/regulation/1/1)
+[^c-aa71ef4aefbaa9b28270e338b7aca1f2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2017/227/regulation/5) in force at 4.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/227/regulation/1/1)
 
-[^key-f212fe3b5890315e69494cd56ab5e7b8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2017/227/regulation/6) in force at 4.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/227/regulation/1/1)
+[^c-f212fe3b5890315e69494cd56ab5e7b8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2017/227/regulation/6) in force at 4.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/227/regulation/1/1)
 
-[^key-e7a6bdfde3f4624d8d556cbb36e3f8c1]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/ssi/2017/227/regulation/6/1) inserted (31.1.2018) by [The Universal Credit (Claims and Payments) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/436)](https://www.legislation.gov.uk/ssi/2017/436), [regs. 1](https://www.legislation.gov.uk/ssi/2017/436/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2017/436/regulation/2/2)
+[^c-e7a6bdfde3f4624d8d556cbb36e3f8c1]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/ssi/2017/227/regulation/6/1) inserted (31.1.2018) by [The Universal Credit (Claims and Payments) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/436)](https://www.legislation.gov.uk/ssi/2017/436), [regs. 1](https://www.legislation.gov.uk/ssi/2017/436/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2017/436/regulation/2/2)
 
-[^key-2fa49992eb3b2e2180e5acc161fa36bb]: Textual amendment: [Reg. 6(1A)](https://www.legislation.gov.uk/ssi/2017/227/regulation/6/1A) inserted (31.1.2018) by [The Universal Credit (Claims and Payments) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/436)](https://www.legislation.gov.uk/ssi/2017/436), [regs. 1](https://www.legislation.gov.uk/ssi/2017/436/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2017/436/regulation/2/3)
+[^c-2fa49992eb3b2e2180e5acc161fa36bb]: Textual amendment: [Reg. 6(1A)](https://www.legislation.gov.uk/ssi/2017/227/regulation/6/1A) inserted (31.1.2018) by [The Universal Credit (Claims and Payments) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/436)](https://www.legislation.gov.uk/ssi/2017/436), [regs. 1](https://www.legislation.gov.uk/ssi/2017/436/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2017/436/regulation/2/3)
 
-[^key-13de5a9d812d32e11a2c1b5bb5cc8b29]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/ssi/2017/227/regulation/6/2) substituted (31.1.2018) by [The Universal Credit (Claims and Payments) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/436)](https://www.legislation.gov.uk/ssi/2017/436), [regs. 1](https://www.legislation.gov.uk/ssi/2017/436/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2017/436/regulation/2/4)
+[^c-13de5a9d812d32e11a2c1b5bb5cc8b29]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/ssi/2017/227/regulation/6/2) substituted (31.1.2018) by [The Universal Credit (Claims and Payments) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/436)](https://www.legislation.gov.uk/ssi/2017/436), [regs. 1](https://www.legislation.gov.uk/ssi/2017/436/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2017/436/regulation/2/4)
 
 [^f00005]: Footnote: [S.I. 2014/2887](https://www.legislation.gov.uk/uksi/2014/2887), as substituted by [S.I. 2015/1754](https://www.legislation.gov.uk/uksi/2015/1754).

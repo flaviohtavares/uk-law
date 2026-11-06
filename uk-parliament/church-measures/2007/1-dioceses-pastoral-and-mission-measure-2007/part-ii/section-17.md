@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 17. Provisions with respect to filling of suffragan sees[^key-fff21682b1426b61d58d72792fb48eff]
+## 17. Provisions with respect to filling of suffragan sees[^c-fff21682b1426b61d58d72792fb48eff]
 
 *Extent: E*
 
@@ -39,10 +39,10 @@ then the bishop may petition Her Majesty to exercise her powers to appoint a suf
 
 (7) Section 18(4) to (8) below shall apply to a proposal to which subsection (4) above applies as it applies to a draft scheme under that section.
 
-(8) Nothing in this section shall apply to the see of the suffragan bishop of Dover [^key-7d2425c567d1b0eadde647b85e54b6ec]....
+(8) Nothing in this section shall apply to the see of the suffragan bishop of Dover [^c-7d2425c567d1b0eadde647b85e54b6ec]....
 
 ## Annotations
 
-[^key-fff21682b1426b61d58d72792fb48eff]: Commencement: S. 17 in force at 1.1.2011 by [2010 No. 4](https://www.legislation.gov.uk/ukci/2010/4), [art. 2(b)](https://www.legislation.gov.uk/ukci/2010/4/article/2/b)
+[^c-fff21682b1426b61d58d72792fb48eff]: Commencement: S. 17 in force at 1.1.2011 by [2010 No. 4](https://www.legislation.gov.uk/ukci/2010/4), [art. 2(b)](https://www.legislation.gov.uk/ukci/2010/4/article/2/b)
 
-[^key-7d2425c567d1b0eadde647b85e54b6ec]: Textual amendment: Words in [s. 17(8)](https://www.legislation.gov.uk/ukcm/2007/1/section/17/8) repealed (17.11.2014) by [Bishops and Priests (Consecration and Ordination of Women) Measure 2014 (No. 2)](https://www.legislation.gov.uk/ukcm/2014/2), [s. 4(2)](https://www.legislation.gov.uk/ukcm/2014/2/section/4/2), [Sch.](https://www.legislation.gov.uk/ukcm/2014/2/schedule); [2014 No. 5](https://www.legislation.gov.uk/ukci/2014/5), [art. 2](https://www.legislation.gov.uk/ukci/2014/5/article/2)
+[^c-7d2425c567d1b0eadde647b85e54b6ec]: Textual amendment: Words in [s. 17(8)](https://www.legislation.gov.uk/ukcm/2007/1/section/17/8) repealed (17.11.2014) by [Bishops and Priests (Consecration and Ordination of Women) Measure 2014 (No. 2)](https://www.legislation.gov.uk/ukcm/2014/2), [s. 4(2)](https://www.legislation.gov.uk/ukcm/2014/2/section/4/2), [Sch.](https://www.legislation.gov.uk/ukcm/2014/2/schedule); [2014 No. 5](https://www.legislation.gov.uk/ukci/2014/5), [art. 2](https://www.legislation.gov.uk/ukci/2014/5/article/2)

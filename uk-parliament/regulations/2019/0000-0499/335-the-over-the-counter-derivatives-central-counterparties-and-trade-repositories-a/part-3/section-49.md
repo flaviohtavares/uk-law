@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Default procedures[^key-fdd9333fce5d179db6d31b46146881b0]
+## 49. Default procedures[^c-fdd9333fce5d179db6d31b46146881b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 48, in paragraph 3, for the words from “ESMA” to the end of the p
 
 ## Annotations
 
-[^key-fdd9333fce5d179db6d31b46146881b0]: Commencement: Reg. 49 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-fdd9333fce5d179db6d31b46146881b0]: Commencement: Reg. 49 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)

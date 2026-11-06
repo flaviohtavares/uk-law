@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Note on register where entry refused or removed: duration[^key-6269029a053f4fa2f0173723cc37b08c][^key-50e1754f734689746abc8267fe0b4d3a]
+## 42. Note on register where entry refused or removed: duration[^c-6269029a053f4fa2f0173723cc37b08c][^c-50e1754f734689746abc8267fe0b4d3a]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6269029a053f4fa2f0173723cc37b08c]: Commencement: S. 42 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-6269029a053f4fa2f0173723cc37b08c]: Commencement: S. 42 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-50e1754f734689746abc8267fe0b4d3a]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2025/13/section/42) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-50e1754f734689746abc8267fe0b4d3a]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2025/13/section/42) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. Minor and consequential amendments relating to Part 5[^key-c96c2f040184520f6ffaa360a2c50db0][^key-496ae643714a4ef8d8621f904d5960c0]
+## 160. Minor and consequential amendments relating to Part 5[^c-c96c2f040184520f6ffaa360a2c50db0][^c-496ae643714a4ef8d8621f904d5960c0]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 14 (which contains further amendments related to the provisions of this
 
 ## Annotations
 
-[^key-c96c2f040184520f6ffaa360a2c50db0]: Commencement: [S. 160](https://www.legislation.gov.uk/ukpga/2008/14/section/160) in force at 1.10.2008 for specified purposes by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 7(1)(b)](https://www.legislation.gov.uk/uksi/2008/2497/article/7/1/b)
+[^c-c96c2f040184520f6ffaa360a2c50db0]: Commencement: [S. 160](https://www.legislation.gov.uk/ukpga/2008/14/section/160) in force at 1.10.2008 for specified purposes by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 7(1)(b)](https://www.legislation.gov.uk/uksi/2008/2497/article/7/1/b)
 
-[^key-496ae643714a4ef8d8621f904d5960c0]: Commencement: [S. 160](https://www.legislation.gov.uk/ukpga/2008/14/section/160) in force at 1.1.2009 for specified purposes by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 7(2)(c)](https://www.legislation.gov.uk/uksi/2008/2497/article/7/2/c)
+[^c-496ae643714a4ef8d8621f904d5960c0]: Commencement: [S. 160](https://www.legislation.gov.uk/ukpga/2008/14/section/160) in force at 1.1.2009 for specified purposes by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 7(2)(c)](https://www.legislation.gov.uk/uksi/2008/2497/article/7/2/c)

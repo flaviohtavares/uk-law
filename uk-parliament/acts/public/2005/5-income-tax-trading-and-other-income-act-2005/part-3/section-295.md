@@ -30,7 +30,7 @@ must not exceed the amount referred to in subsection (2).
 (2) The amount mentioned in subsection (1) is the difference between—
 
 - (a) the unreduced amount of the taxed receipt, and
-- (b)[^key-7216d44e78729795dee0b68beb1a76d1] the total of the amounts mentioned in subsection (3).
+- (b)[^c-7216d44e78729795dee0b68beb1a76d1] the total of the amounts mentioned in subsection (3).
 
 (3) Those amounts are—
 
@@ -40,4 +40,4 @@ must not exceed the amount referred to in subsection (2).
 
 ## Annotations
 
-[^key-7216d44e78729795dee0b68beb1a76d1]: Textual amendment: S. 295(2)(b)(3) substituted for s. 295(2)(b) (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 622](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/622) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-7216d44e78729795dee0b68beb1a76d1]: Textual amendment: S. 295(2)(b)(3) substituted for s. 295(2)(b) (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 622](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/622) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

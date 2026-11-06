@@ -74,13 +74,13 @@ The General Pharmaceutical Council, in exercise of the powers conferred by secti
 
 ### PART 1 — General
 
-#### 1. Citation and commencement[^key-5b2ad4fd0aa613f7c162a3c95671f7b6]
+#### 1. Citation and commencement[^c-5b2ad4fd0aa613f7c162a3c95671f7b6]
 
 (1) These Rules may be cited as the General Pharmaceutical Council (Registration) Rules 2010 and, except as provided for by paragraph (2), come into force on 27th September 2010.
 
 (2) Rules 11, 13, 24 and 26 of these Rules come into force on 4th January 2011.
 
-#### 2. Interpretation[^key-9a925b7f36624d07ae8207bd672e3263]
+#### 2. Interpretation[^c-9a925b7f36624d07ae8207bd672e3263]
 
 In these Rules—
 
@@ -94,9 +94,9 @@ In these Rules—
 - “representative” means a representative within the meaning given in section 72(4) of the Act[^f00008] (representative of pharmacist in case of death or disability); and
 - “responsible pharmacist” has the meaning given in section 72A of the Act[^f00009] (the responsible pharmacist).
 
-#### 3. Service of documents[^key-68ab3f8798861df7f1c2279bdba97f85]
+#### 3. Service of documents[^c-68ab3f8798861df7f1c2279bdba97f85]
 
-(1) Subject to paragraph (2), any notice, demand or document required to be served by the Registrar must be in writing and must be served by sending it by a postal service or another delivery service (including [^key-3537e12c89107974fc2b69703244adb3]... by electronic mail to an electronic mail address notified to the Registrar as an address for communications) or by leaving it at—
+(1) Subject to paragraph (2), any notice, demand or document required to be served by the Registrar must be in writing and must be served by sending it by a postal service or another delivery service (including [^c-3537e12c89107974fc2b69703244adb3]... by electronic mail to an electronic mail address notified to the Registrar as an address for communications) or by leaving it at—
 
 - (a) in the case of a registrant, at the registrant’s home address in the Register;
 - (b) in the case of a person who is not a registrant, to that person at that person’s last known home address; or
@@ -114,7 +114,7 @@ In these Rules—
 
 (4) Where a notice, demand or document has been sent by electronic mail or left at an address, it is to be treated as having been served on the day on which it was sent by electronic mail or left at that address.
 
-#### 4. Fees[^key-6521d6672dbe98bd90b21a73cf662cc1]
+#### 4. Fees[^c-6521d6672dbe98bd90b21a73cf662cc1]
 
 (1) The Registrar may decide, at the Registrar’s discretion—
 
@@ -125,7 +125,7 @@ In these Rules—
 
 ### PART 2 — The Register
 
-#### 5. The keeping of the Register[^key-56622b489929a2a2ac43cf3e76aa2bf1]
+#### 5. The keeping of the Register[^c-56622b489929a2a2ac43cf3e76aa2bf1]
 
 (1) The Register is to be kept and maintained—
 
@@ -171,7 +171,7 @@ the Registrar must ensure that an appropriate alteration is made to that registr
 
 the Registrar must ensure that an appropriate alteration is made to Part 3 of the Register removing from that part of the Register the entry relating to each of the premises to which the direction relates (once the direction has taken effect).
 
-#### 6. Content of the Register: registrants[^key-99726accd3480c5e7c6b726e7b47097a]
+#### 6. Content of the Register: registrants[^c-99726accd3480c5e7c6b726e7b47097a]
 
 (1) The Register must, in respect of each registrant who is entered in it, contain the following information—
 
@@ -197,7 +197,7 @@ the Registrar must ensure that an appropriate alteration is made to Part 3 of th
 
 (5) The Registrar must only record a title to be included in the Register by virtue of paragraph (1)(a) (other than Mr, Mrs, Miss or Ms) where the Registrar is satisfied as to the authenticity of the title claimed.
 
-#### 7. Content of the Register: registered pharmacies[^key-9607bac82a860ce4b922d66345692fde]
+#### 7. Content of the Register: registered pharmacies[^c-9607bac82a860ce4b922d66345692fde]
 
 (1) The Register must, in respect of any premises entered in Part 3 of the Register, contain the following information—
 
@@ -227,7 +227,7 @@ the Registrar must ensure that an appropriate alteration is made to Part 3 of th
 
 (5) The Registrar may not disclose the home address of a registrant who is a person carrying on a retail pharmacy business at a registered pharmacy or of the superintendent pharmacist in relation to a registered pharmacy in any list published by the Council under article 19(7) of the Order.
 
-#### 8. Duty to notify Registrar of changes to information: registrants[^key-580966a6815de21d165259b97112f431]
+#### 8. Duty to notify Registrar of changes to information: registrants[^c-580966a6815de21d165259b97112f431]
 
 (1) A registrant must notify the Registrar of—
 
@@ -236,7 +236,7 @@ the Registrar must ensure that an appropriate alteration is made to Part 3 of th
 
 (2) For the purposes of paragraph (1), the registrant must give notice to the Registrar of any change of information in writing before the expiry of the period of one month beginning with the date on which the change occurred.
 
-#### 8A. Duty to provide information about indemnity arrangements: registrants[^key-0c9ad888198884075becd1da3a186855]
+#### 8A. Duty to provide information about indemnity arrangements: registrants[^c-0c9ad888198884075becd1da3a186855]
 
 (1) A registrant entered in Part 1 or, as the case may be, Part 2 of the Register must provide such information as the Registrar may require by notice in writing for the purposes of determining whether, at any time, there is in force an indemnity arrangement which provides appropriate cover in relation to the registrant or to registrants of a particular description.
 
@@ -262,11 +262,11 @@ the Registrar must ensure that an appropriate alteration is made to Part 3 of th
 
 ### PART 3 — Applications relating to Parts 1 and 2 of the Register
 
-#### 9. Applications: general[^key-e68bb60a08a280464fcbbead7f268a08]
+#### 9. Applications: general[^c-e68bb60a08a280464fcbbead7f268a08]
 
 The Council may make such provision as it considers appropriate for applications under this Part to be made on line to the Registrar.
 
-#### 10. Entry in the Register[^key-587a202d262af324825d572b1c323eef]
+#### 10. Entry in the Register[^c-587a202d262af324825d572b1c323eef]
 
 (1) Subject to the following paragraphs, applicants for entry in Part 1 or, as the case may be, Part 2 of the Register must apply to the Registrar using the relevant application form which must be in such form as the Council may from time to time determine.
 
@@ -277,12 +277,12 @@ The Council may make such provision as it considers appropriate for applications
   - (ii) specify—
     - (aa) the part of the Register in which entry is sought,
     - (bb) whether the applicant has previously been entered in the Register, or part of the Register,
-  - (cc)[^key-9ef1e5874de7c90772aacc516f9574a7] whether there is in force in relation to that applicant, or will be as necessary for the purpose of complying with article 32 of the Order, appropriate cover under an indemnity arrangement,
+  - (cc)[^c-9ef1e5874de7c90772aacc516f9574a7] whether there is in force in relation to that applicant, or will be as necessary for the purpose of complying with article 32 of the Order, appropriate cover under an indemnity arrangement,
   - (iii) declare that the applicant—
     - (aa) agrees, upon entry to the Register, to adhere to any standards set by the Council under article 43(1)(b) of the Order relating to the continuing professional development that it is necessary for a registrant to maintain in order to have an entry in Part 1 or, as the case may be, Part 2 of the Register renewed,
-    - (bb) agrees, upon entry in the Register, to adhere to any standards set by the Council under article 48(1)(a) of the Order relating to the conduct, ethics and performance expected of registrants, [^key-1e9aa7cad7a6000e198bc1fdfc2f47bc]...
+    - (bb) agrees, upon entry in the Register, to adhere to any standards set by the Council under article 48(1)(a) of the Order relating to the conduct, ethics and performance expected of registrants, [^c-1e9aa7cad7a6000e198bc1fdfc2f47bc]...
     - (cc) understands that, in the event that the applicant is found to have given false or misleading information in connection with the application, the applicant’s entry in the Register may be removed from the Register,
-    - (dd)[^key-ba1213d3115cbe1dd0d46d5227d7eaca] understands that, upon entry in the Register, the applicant cannot practise as a pharmacist or, as the case may be, a pharmacy technician unless there is in force an indemnity arrangement which provides appropriate cover in relation to the applicant, and
+    - (dd)[^c-ba1213d3115cbe1dd0d46d5227d7eaca] understands that, upon entry in the Register, the applicant cannot practise as a pharmacist or, as the case may be, a pharmacy technician unless there is in force an indemnity arrangement which provides appropriate cover in relation to the applicant, and
     - (ee) agrees, in the event that there is in force in relation to the applicant no such arrangement, to inform the Registrar in writing of that fact within 7 days of the cessation of appropriate cover under any such arrangement and understands that the applicant’s entry may be removed from the Register,
   - (iv) provide the necessary supporting documents referred to in paragraph (3),
   - (v) sign and date the application, and
@@ -292,36 +292,36 @@ The Council may make such provision as it considers appropriate for applications
 (3) An applicant for entry in Part 1 or 2 of the Register must provide to the Registrar, together with the applicant’s application form—
 
 - (a) evidence of the applicant’s identity in the form of—
-  - (i) the applicant’s passport (or a copy of the passport[^key-4a45033ffe5eb1d7239c674edea04be8] to which paragraph (3A) applies[^key-4b7ce6c1292bd5d45f80a4a4f0e3fc53]) or another document which is considered acceptable by the Registrar as proof of the applicant’s identity, and
+  - (i) the applicant’s passport (or a copy of the passport[^c-4a45033ffe5eb1d7239c674edea04be8] to which paragraph (3A) applies[^c-4b7ce6c1292bd5d45f80a4a4f0e3fc53]) or another document which is considered acceptable by the Registrar as proof of the applicant’s identity, and
   - (ii) a photograph which is signed and dated by a legal or health care professional, justice of the peace or person of standing in the community who has known the applicant for at least two years and who certifies that the photograph is a true likeness of the applicant;
-- (b)[^key-203f2799be0434aaac7b5dbab2b39f49] where the applicant wishes to use a registered name which is different from the name given on the applicant’s evidence of identity—
+- (b)[^c-203f2799be0434aaac7b5dbab2b39f49] where the applicant wishes to use a registered name which is different from the name given on the applicant’s evidence of identity—
   - (i) a certificate demonstrating the change of name (or a copy of the certificate which meets whichever of the conditions set out in paragraph (3B)(a) or (b) is applicable), or
   - (ii) evidence of the change of name in the form of a statutory declaration;
 - (c) evidence of the applicant’s date of birth in the form of—
-  - (i) the applicant’s passport (or a copy of the passport[^key-396a48e218f42b5206b4347efea95bb2] to which paragraph (3A) applies[^key-5e2fb3ff6cce92b28db085d05231ee5d]) or other document considered acceptable under paragraph (3)(a)(i), and
+  - (i) the applicant’s passport (or a copy of the passport[^c-396a48e218f42b5206b4347efea95bb2] to which paragraph (3A) applies[^c-5e2fb3ff6cce92b28db085d05231ee5d]) or other document considered acceptable under paragraph (3)(a)(i), and
   - (ii) either—
-    - (aa)[^key-73f90222b99b8a31582dd683f01ae2e7] the applicant’s birth certificate (or a copy of the certificate which meets whichever of the conditions set out in paragraph (3B)(a) or (b) is applicable), or
+    - (aa)[^c-73f90222b99b8a31582dd683f01ae2e7] the applicant’s birth certificate (or a copy of the certificate which meets whichever of the conditions set out in paragraph (3B)(a) or (b) is applicable), or
     - (bb) a statutory declaration;
 - (d) evidence of the applicant’s nationality in the form of—
-  - (i) the applicant’s passport (or a copy of the passport[^key-94350b97156b18bfc88de9695821a4e1] to which paragraph (3A) applies[^key-326733a76fea663f3d5e3325e0c13385]), or
+  - (i) the applicant’s passport (or a copy of the passport[^c-94350b97156b18bfc88de9695821a4e1] to which paragraph (3A) applies[^c-326733a76fea663f3d5e3325e0c13385]), or
   - (ii) any other documentation that is acceptable to the Registrar;
-- (e)[^key-bae36d0a31e7538bf4ba3a93c9fc6629] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-70a53dc30875bf47bfa16560bdd7785b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-bae36d0a31e7538bf4ba3a93c9fc6629] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-70a53dc30875bf47bfa16560bdd7785b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) evidence that the applicant is appropriately qualified as a pharmacist or a pharmacy technician within the meaning of article 21(1) or, as the case may be, 22(1) of the Order;
-- (ga)[^key-c50c866fef596a86def3fa68a0b5dc15] evidence (including where appropriate a self-declaration in the form determined by the Council which is signed and dated by the applicant) that there is in force in relation to the applicant, or will be as necessary for the purpose of complying with article 32 of the Order, appropriate cover under an indemnity arrangement;
-- (h)[^key-aab4891310ecb0e0aef7960d697b6b41] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (i)[^key-e6715ff9b1e5f5d3ea50034036c1e5a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ga)[^c-c50c866fef596a86def3fa68a0b5dc15] evidence (including where appropriate a self-declaration in the form determined by the Council which is signed and dated by the applicant) that there is in force in relation to the applicant, or will be as necessary for the purpose of complying with article 32 of the Order, appropriate cover under an indemnity arrangement;
+- (h)[^c-aab4891310ecb0e0aef7960d697b6b41] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-e6715ff9b1e5f5d3ea50034036c1e5a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (j) as regards the good physical and mental health of the applicant—
-  - (i)[^key-d22566549894bf075dd122b1b787e75d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (ii) [^key-1323374b6547f4ecacd358a228efb7ac]... a self declaration in the form determined by the Council from time to time, of the applicant’s good physical and mental health, which is signed and dated by the applicant; [^key-aa5f693f7d7daa73aa303b57ae60a432]...
+  - (i)[^c-d22566549894bf075dd122b1b787e75d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) [^c-1323374b6547f4ecacd358a228efb7ac]... a self declaration in the form determined by the Council from time to time, of the applicant’s good physical and mental health, which is signed and dated by the applicant; [^c-aa5f693f7d7daa73aa303b57ae60a432]...
 - (k) as regards the good character or repute of the applicant—
-  - (i)[^key-ae8d95e48d49fcfba44e6fba6e8e46b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (ii) [^key-44b85059af09c097bb159b55d31bad21]... a self declaration, in the form determined by the Council from time to time, of the applicant’s good character or repute which states whether any of the matters set out in article 51(1)(e) to (n) of the Order exist in relation to the applicant and which is signed and dated by the applicant ; and[^key-b74e3b916a29a55a9d02fd3ff17771c1]
+  - (i)[^c-ae8d95e48d49fcfba44e6fba6e8e46b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) [^c-44b85059af09c097bb159b55d31bad21]... a self declaration, in the form determined by the Council from time to time, of the applicant’s good character or repute which states whether any of the matters set out in article 51(1)(e) to (n) of the Order exist in relation to the applicant and which is signed and dated by the applicant ; and[^c-b74e3b916a29a55a9d02fd3ff17771c1]
 - (l) evidence, information or documents demonstrating that the applicant has the necessary knowledge of English for the purpose of complying with article 20(1)(a)(iia) of the Order.
 
-(3ZA)[^key-e74d2e129ed6eead1eaa327a3a159c68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3ZA)[^c-e74d2e129ed6eead1eaa327a3a159c68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3A)[^key-b8bec631991f3cf4c263a63c1d0ebdb3][^key-c484af6a58d86f27b0cf3abc13132788] This paragraph applies to a copy of—
+(3A)[^c-b8bec631991f3cf4c263a63c1d0ebdb3][^c-c484af6a58d86f27b0cf3abc13132788] This paragraph applies to a copy of—
 
 - (a) a United Kingdom passport within the meaning of the Immigration Act 1971 (whether or not the front cover of the passport is included in the copy); or
 - (b) any other passport,
@@ -335,17 +335,17 @@ which is certified by a notary, solicitor or Commissioner for Oaths as a true co
 
 (4) The applicant must also provide such additional documents, information or evidence as the Registrar may reasonably require for the purposes of verifying the information in, or determining, the application.
 
-(5) The following may, in particular, be required under paragraph (4)—[^key-3421d923ce35ce3bf9b187dd32af3915]
+(5) The following may, in particular, be required under paragraph (4)—[^c-3421d923ce35ce3bf9b187dd32af3915]
 
-- (a) a completed and signed application form and authorisation for the Registrar to obtain a certificate of enhanced disclosure from the Secretary of State [^key-0c739e9b5ef3de8c3d9b94ad9ba76a90]...;
-- (b) where the applicant has previously obtained a certificate of standard or enhanced disclosure from the Secretary of State or, as the case may be, the Scottish Ministers for the purpose of applying to be entered on a list of performers or providers of pharmaceutical services as part of the health service, that certificate (or a true copy of it certified by a notary, solicitor or Commissioner for Oaths)[^key-8808bbcf4b9f88e2de9ea2620207d8d2];
+- (a) a completed and signed application form and authorisation for the Registrar to obtain a certificate of enhanced disclosure from the Secretary of State [^c-0c739e9b5ef3de8c3d9b94ad9ba76a90]...;
+- (b) where the applicant has previously obtained a certificate of standard or enhanced disclosure from the Secretary of State or, as the case may be, the Scottish Ministers for the purpose of applying to be entered on a list of performers or providers of pharmaceutical services as part of the health service, that certificate (or a true copy of it certified by a notary, solicitor or Commissioner for Oaths)[^c-8808bbcf4b9f88e2de9ea2620207d8d2];
 - (c) where the applicant has been the subject of a determination by a regulatory body that the applicant’s fitness to practise is impaired, or a determination to the same effect, details of any investigations, the proceedings and the outcome;
 - (d) where the applicant is included in a barred list within the meaning of the Safeguarding Vulnerable Groups Act 2006[^f00011] or the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^f00012] or is included in the children’s or the adults’ list within the meaning of the Protection of Vulnerable Groups (Scotland) Act 2007[^f00013], details of that inclusion;
 - (e) in the case of an applicant who qualified or has practised as a pharmacist or pharmacy technician outside Great Britain, a certificate of good standing or current professional status issued no more than three months prior to the date of the application—
   - (i) by the appropriate authority of the country in which the applicant qualified, and
-  - (ii) by the appropriate authority of every country in which the applicant has practised within the five years immediately preceding the date of the application; [^key-d8f631310f1337a62fbecfa0f6acc71c]...
-- (f) in the case of an applicant who obtained a degree in the United Kingdom, confirmation from the university that awarded the degree that nothing adverse is known about the applicant ;[^key-2c40c8f35d8205f8e85508ae3efa957e] [^key-eb9caee7104c7ab9a7ec1392ffb14512]...
-- (g) a disclosure request and any existing disclosure record ; and[^key-4f968a8917b85153b9f1f0f05708eb46]
+  - (ii) by the appropriate authority of every country in which the applicant has practised within the five years immediately preceding the date of the application; [^c-d8f631310f1337a62fbecfa0f6acc71c]...
+- (f) in the case of an applicant who obtained a degree in the United Kingdom, confirmation from the university that awarded the degree that nothing adverse is known about the applicant ;[^c-2c40c8f35d8205f8e85508ae3efa957e] [^c-eb9caee7104c7ab9a7ec1392ffb14512]...
+- (g) a disclosure request and any existing disclosure record ; and[^c-4f968a8917b85153b9f1f0f05708eb46]
 - (h) in the case of an applicant who provided the evidence referred to in paragraph (3)(ga) by way of a self-declaration—
   - (i) a copy of any insurance policy or other arrangement indemnifying the applicant which is in force, or the details of any such policy or arrangement which will be in force, in relation to the applicant, and
   - (ii) a description of the activities which the applicant intends to undertake when practising as a pharmacist or, as the case may be, a pharmacy technician.
@@ -369,9 +369,9 @@ which is certified by a notary, solicitor or Commissioner for Oaths as a true co
 
 (11) The Registrar must refuse an application under this rule if the applicant has not paid, or has not made arrangements with the Registrar to pay by direct debit, the prescribed fees in respect of the application.
 
-(12)[^key-d7c7da777df161864ddac03088e19b46] [^key-ff32d697b1ca5899f3107a5aaf3a3268]...“disclosure record” and “disclosure request” have the meaning given by section 97(1) (general interpretation) of the Protection of Vulnerable Groups (Scotland) Act 2007.”
+(12)[^c-d7c7da777df161864ddac03088e19b46] [^c-ff32d697b1ca5899f3107a5aaf3a3268]...“disclosure record” and “disclosure request” have the meaning given by section 97(1) (general interpretation) of the Protection of Vulnerable Groups (Scotland) Act 2007.”
 
-#### 11. Renewal of an entry in the Register[^key-77263e9ebb80da351a6e3a11f7e72c56]
+#### 11. Renewal of an entry in the Register[^c-77263e9ebb80da351a6e3a11f7e72c56]
 
 (1) Subject to the following paragraphs, applicants for the renewal of an entry in Part 1 or, as the case may be, Part 2 of the Register must apply to the Registrar using the relevant application form which must be in such form as the Council may from time to time determine.
 
@@ -384,14 +384,14 @@ which is certified by a notary, solicitor or Commissioner for Oaths as a true co
 - (a) require the registrant to—
   - (i) provide the registrant’s full name, home address and contact details (including a telephone number and electronic mail address, where possible),
   - (ii) provide the number of the entry in Part 1 or, as the case may be, Part 2 of the Register to which the application relates,
-  - (iia)[^key-95d31927e07ec7f34645c73afcf826c1] specify whether[^key-a7fa2d27e03c743f9fbefc21aa2505b7] that there is in force in relation to the registrant, or will be as necessary for the purpose of complying with article 32 of the Order, appropriate cover under an indemnity arrangement,
-  - (iib)[^key-4813f61465abd3d9509793cd1ba300b8] declare that the registrant understands that the registrant cannot practise as a pharmacist or, as the case may be, a pharmacy technician unless there is in force an indemnity arrangement which provides appropriate cover in relation to the registrant,
+  - (iia)[^c-95d31927e07ec7f34645c73afcf826c1] specify whether[^c-a7fa2d27e03c743f9fbefc21aa2505b7] that there is in force in relation to the registrant, or will be as necessary for the purpose of complying with article 32 of the Order, appropriate cover under an indemnity arrangement,
+  - (iib)[^c-4813f61465abd3d9509793cd1ba300b8] declare that the registrant understands that the registrant cannot practise as a pharmacist or, as the case may be, a pharmacy technician unless there is in force an indemnity arrangement which provides appropriate cover in relation to the registrant,
   - (iic) declare that the registrant agrees, in the event that there is in force in relation to the registrant no such arrangement, to inform the Registrar in writing of that fact within 7 days of the cessation of appropriate cover under any such arrangement and understands that the registrant’s entry may be removed from the Register,
   - (iii) declare that the registrant agrees to adhere to any standards set by the Council under article 43(1)(b) of the Order relating to the continuing professional development that it is necessary for a registrant to maintain in order to have an entry in Part 1 or, as the case may be, Part 2 of the Register renewed,
-  - (iv) declare the registrant’s intention to adhere to the standards set by the Council under article 48(1)(a) of the Order relating to the conduct, ethics and performance expected of registrants, [^key-1211769345936a93b30579b8ae0175da]...
+  - (iv) declare the registrant’s intention to adhere to the standards set by the Council under article 48(1)(a) of the Order relating to the conduct, ethics and performance expected of registrants, [^c-1211769345936a93b30579b8ae0175da]...
   - (v) specify—
     - (aa) whether any of the matters referred to in article 51(1)(e) to (n) of the Order exist in relation to the registrant which have not previously been notified to the Council, or
-    - (bb) whether, in relation to the registrant, there have been any findings of impairment of the registrant’s fitness to practise made by a regulatory body which have not previously been notified to the Council or, prior to 27th September 2010, to the Society, and—[^key-b2c54666567842fb2b335f0850f418e5]
+    - (bb) whether, in relation to the registrant, there have been any findings of impairment of the registrant’s fitness to practise made by a regulatory body which have not previously been notified to the Council or, prior to 27th September 2010, to the Society, and—[^c-b2c54666567842fb2b335f0850f418e5]
   - (vi) specify whether the registrant holds evidence, information or documents demonstrating that the registrant has the necessary knowledge of English for the purpose of complying with article 20(2)(a)(iia) of the Order;
 - (b) include a demand that the registrant pay the prescribed fees in respect of the application;
 - (c) inform the registrant that—
@@ -401,12 +401,12 @@ which is certified by a notary, solicitor or Commissioner for Oaths as a true co
 
 (5) If a registrant has not received an application form for the renewal of the registrant’s entry in Part 1 or, as the case may be, Part 2 of the Register by the beginning of the period of three months before the date on which the registrant’s entry in the Register would cease to be valid if not renewed, the registrant must notify the Registrar accordingly.
 
-(5A)[^key-733beb6aaa0e1fbbff165381daf1f9ad] The registrant must also provide such additional documents, information or evidence as the Registrar may reasonably require for the purposes of verifying the information in, or determining, the application.
+(5A)[^c-733beb6aaa0e1fbbff165381daf1f9ad] The registrant must also provide such additional documents, information or evidence as the Registrar may reasonably require for the purposes of verifying the information in, or determining, the application.
 
 (6) Except as provided for by paragraph (7), the Registrar must refuse an application under this rule—
 
 - (a) if it is not received by the Registrar within the time limit specified in paragraph (2);
-- (b) if it is not accompanied by the necessary supporting documents, information and evidence as mentioned in the application form or subsequently required by the Registrar[^key-3dd08ca1e63b058e8c65563a15c8bb5a]; or
+- (b) if it is not accompanied by the necessary supporting documents, information and evidence as mentioned in the application form or subsequently required by the Registrar[^c-3dd08ca1e63b058e8c65563a15c8bb5a]; or
 - (c) if the applicant has not paid, or has not made arrangements with the Registrar to pay by direct debit, the prescribed fee in respect of the application.
 
 (7) If there is an ongoing fitness to practise investigation, or there are ongoing fitness to practise proceedings, in respect of a registrant who—
@@ -416,7 +416,7 @@ which is certified by a notary, solicitor or Commissioner for Oaths as a true co
 
 the Registrar may not remove the registrant’s entry from the relevant part of the Register in accordance with article 25(3) of the Order except in cases where the Registrar considers that the public interest would be best served by so doing.
 
-#### 12. Annotations made to an entry in the Register[^key-9ff7125219eb46e282f5be84429ba8f5]
+#### 12. Annotations made to an entry in the Register[^c-9ff7125219eb46e282f5be84429ba8f5]
 
 (1) Subject to the following paragraphs, a registrant entered in Part 1 or, as the case may be, Part 2 of the Register may apply to the Registrar to have an annotation in respect of a specialisation made to the registrant’s entry in the relevant part of the Register.
 
@@ -429,8 +429,8 @@ the Registrar may not remove the registrant’s entry from the relevant part of 
   - (ii) specify whether the application relates to an entry in Part 1 or Part 2 of the Register,
   - (iii) specify the number of the entry in the Register to which the application relates,
   - (iv) specify the type of specialisation which is to be the subject matter of the annotation,
-  - (v) provide evidence which is sufficient in the opinion of the Registrar to demonstrate that the applicant meets such standards of proficiency for the safe and effective practice of pharmacy as are set in rules under article 27(1)(e) of the Order, [^key-09dac56ca0d9f3b226d798e8392e1dd8]...
-  - (va)[^key-91cb569355f31a3458406ff37b852573] specify whether, if an annotation in respect of a specialisation were to be made to the applicant’s entry, there would be in force an indemnity arrangement which provides appropriate cover in relation to the applicant, and
+  - (v) provide evidence which is sufficient in the opinion of the Registrar to demonstrate that the applicant meets such standards of proficiency for the safe and effective practice of pharmacy as are set in rules under article 27(1)(e) of the Order, [^c-09dac56ca0d9f3b226d798e8392e1dd8]...
+  - (va)[^c-91cb569355f31a3458406ff37b852573] specify whether, if an annotation in respect of a specialisation were to be made to the applicant’s entry, there would be in force an indemnity arrangement which provides appropriate cover in relation to the applicant, and
   - (vi) provide any other necessary supporting documents, information or evidence as mentioned in the application form;
 - (b) include a demand that the registrant pay the prescribed fee in respect of the application; and
 - (c) require the applicant to sign and date the application.
@@ -448,7 +448,7 @@ the Registrar may not remove the registrant’s entry from the relevant part of 
 - (a) if it is not accompanied by the necessary supporting documents, information or evidence as mentioned in the application form or subsequently required by the Registrar; or
 - (b) if the applicant has not paid, or has not made arrangements with the Registrar to pay by direct debit, the prescribed fee in respect of the application.
 
-#### 13. Renewal of an annotation made to an entry in the Register[^key-b730b14a73e63c217cb9c7de2a471138]
+#### 13. Renewal of an annotation made to an entry in the Register[^c-b730b14a73e63c217cb9c7de2a471138]
 
 (1) Subject to the following paragraphs, applicants for the renewal of an annotation in respect of a specialisation made to an entry in Part 1 or, as the case may be, Part 2 of the Register may apply to the Registrar.
 
@@ -463,7 +463,7 @@ the Registrar may not remove the registrant’s entry from the relevant part of 
   - (i) provide the applicant’s full name, home address and contact details (including a telephone number and electronic mail address, where possible),
   - (ii) specify whether the application relates to an entry in Part 1 or Part 2 of the Register,
   - (iii) specify the number of the entry in the Register to which the application relates,
-  - (iiia)[^key-26ae9786ce1361c9b69cec2c60a75426] specify whether, if an annotation in respect of a specialisation were to be renewed, there would be in force an indemnity arrangement which provides appropriate cover in relation to the applicant,
+  - (iiia)[^c-26ae9786ce1361c9b69cec2c60a75426] specify whether, if an annotation in respect of a specialisation were to be renewed, there would be in force an indemnity arrangement which provides appropriate cover in relation to the applicant,
   - (iv) provide any other necessary supporting documents, information or evidence as mentioned in the application, and
   - (v) sign and date the application.
 
@@ -472,12 +472,12 @@ the Registrar may not remove the registrant’s entry from the relevant part of 
 (6) The Registrar must refuse any application under this rule—
 
 - (a) if it is not received by the Registrar within the time limit specified in paragraph (2);
-- (b) if it is not accompanied by the necessary supporting documents, information or evidence as mentioned in the application form or subsequently required by the Registrar[^key-bdd42299cdb0a131a46227cf845a18f6]; or
+- (b) if it is not accompanied by the necessary supporting documents, information or evidence as mentioned in the application form or subsequently required by the Registrar[^c-bdd42299cdb0a131a46227cf845a18f6]; or
 - (c) if the applicant has not paid, or has not made arrangements with the Registrar to pay by direct debit, the prescribed fee in respect of the application.
 
 (7) If a registrant with an annotation in respect of a specialisation made to an entry in Part 1 or, as the case may be, Part 2 of the Register has not received an application form for the renewal of that annotation by the beginning of the period of three months before the date on which the registrant’s entry in the Register would cease to be valid if not renewed, the registrant must notify the Registrar accordingly.
 
-#### 14. Voluntary removal of an entry or annotation from the Register[^key-566a8f23d2e69484ba3a2c75091f30ec]
+#### 14. Voluntary removal of an entry or annotation from the Register[^c-566a8f23d2e69484ba3a2c75091f30ec]
 
 (1) Subject to the following paragraphs, applicants for the voluntary removal of an entry from Part 1 or, as the case may be, Part 2 of the Register, or the voluntary removal of an annotation in respect of a specialisation made to such an entry, may apply to the Registrar.
 
@@ -506,7 +506,7 @@ the Registrar may not remove the registrant’s entry from the relevant part of 
 
 (7) Where the Registrar grants an application under this rule, the Registrar must make an appropriate alteration to Part 1 or, as the case may be, Part 2 of the Register to remove the entry, or the annotation made to the entry, from the relevant part of the Register and must publish that fact on the Council’s website.
 
-#### 15. Voluntary removal: supplementary provision[^key-e87e5beff578df803798f7bd8bb9a1e6]
+#### 15. Voluntary removal: supplementary provision[^c-e87e5beff578df803798f7bd8bb9a1e6]
 
 (1) Where the Registrar becomes aware that an application for the voluntary removal of an entry from Part 1 or, as the case may be, Part 2 of the Register—
 
@@ -522,7 +522,7 @@ the Registrar must revoke the decision to grant the application and must restore
 
 (3) Paragraph (2) does not apply to an entry in Part 1 or, as the case may be, Part 2 of the Register which has ceased to be valid by virtue of article 25(3) of the Order before the Registrar became aware of a matter referred to in paragraph (1)(a) or (b).
 
-#### 16. Restoration of an entry in the Register[^key-264eabdc6b7835ac4ecf2f9641ac8a76]
+#### 16. Restoration of an entry in the Register[^c-264eabdc6b7835ac4ecf2f9641ac8a76]
 
 (1) Subject to the following paragraphs, applicants for the restoration of an entry to Part 1 or, as the case may be, Part 2 of the Register may apply to the Registrar.
 
@@ -536,19 +536,19 @@ the Registrar must revoke the decision to grant the application and must restore
 - (a) require the applicant (“A”) to—
   - (i) specify—
     - (aa) the applicant’s full name, home address and contact details (including a telephone number and electronic mail address, where possible),
-    - (ab)[^key-d12dd32c8c86cac1f4af636b33e07b3d] whether there is in force in relation to that applicant, or will be as necessary for the purpose of complying with article 32 of the Order, appropriate cover under an indemnity arrangement,
+    - (ab)[^c-d12dd32c8c86cac1f4af636b33e07b3d] whether there is in force in relation to that applicant, or will be as necessary for the purpose of complying with article 32 of the Order, appropriate cover under an indemnity arrangement,
     - (bb) the part of the Register to which the application relates, and
     - (cc) the number of the entry in the Register to which the application relates,
   - (ii) declare—
     - (aa) that A agrees, upon A’s entry being restored to the Register, to adhere to any standards set by the Council under article 43(1)(b) of the Order relating to the continuing professional development that it is necessary for a registrant to maintain in order to have an entry in Part 1 or, as the case may be, Part 2 of the Register renewed;
-    - (bb) A’s intention to adhere to the standards set by the Council under article 48(1)(a) of the Order relating to the conduct, ethics and performance expected of registrants, [^key-ccefdcb616bea2731624b01a8af209b2]...
+    - (bb) A’s intention to adhere to the standards set by the Council under article 48(1)(a) of the Order relating to the conduct, ethics and performance expected of registrants, [^c-ccefdcb616bea2731624b01a8af209b2]...
     - (cc) that A is not aware of any investigation by any enforcement or regulatory body, or proceedings brought by such a body, that relate to A’s fitness to practise, or of any act or omission on A’s part that might render A liable to an allegation being referred to the Council that A’s fitness to practise is impaired,
-    - (dd)[^key-7da5946ad186143d74728cc57529eb10] that A understands that, upon A’s entry being restored to the Register, A cannot practise as a pharmacist or, as the case may be, a pharmacy technician unless there is in force an indemnity arrangement which provides appropriate cover in relation to A, and
+    - (dd)[^c-7da5946ad186143d74728cc57529eb10] that A understands that, upon A’s entry being restored to the Register, A cannot practise as a pharmacist or, as the case may be, a pharmacy technician unless there is in force an indemnity arrangement which provides appropriate cover in relation to A, and
     - (ee) that A agrees, in the event that there is in force in relation to A no such arrangement, to inform the Registrar in writing of that fact within 7 days of the cessation of appropriate cover under any such arrangement and understands that A’s entry may be removed from the Register,
   - (iii) specify—
-    - (aa) whether any of the matters referred to in article 51(1)(e) to (n) of the Order exist in relation to A[^key-f15d3e39f7638074c641c2bb24c93fa0] which have not previously been notified to the Council; or
-    - (bb) whether, in relation to A, there have been any findings of impairment of A’s[^key-598b27548782397b2d7fc00c71d4ebcc] fitness to practise made by a regulatory body which have not previously been notified to the Council or, prior to 27th September 2010, to the Society, [^key-e30cd305643cdea23d22350df0c24b56]...
-  - (iiia)[^key-db7884c929510cc1319097c963e58d1f] specify whether A holds evidence, information or documents demonstrating that A has the necessary knowledge of English for the purpose of complying with article 20(1)(a)(iia) of the Order, and
+    - (aa) whether any of the matters referred to in article 51(1)(e) to (n) of the Order exist in relation to A[^c-f15d3e39f7638074c641c2bb24c93fa0] which have not previously been notified to the Council; or
+    - (bb) whether, in relation to A, there have been any findings of impairment of A’s[^c-598b27548782397b2d7fc00c71d4ebcc] fitness to practise made by a regulatory body which have not previously been notified to the Council or, prior to 27th September 2010, to the Society, [^c-e30cd305643cdea23d22350df0c24b56]...
+  - (iiia)[^c-db7884c929510cc1319097c963e58d1f] specify whether A holds evidence, information or documents demonstrating that A has the necessary knowledge of English for the purpose of complying with article 20(1)(a)(iia) of the Order, and
   - (iv) provide any necessary supporting documents, information or evidence as mentioned in the application form;
 - (b) include a demand that the applicant pay the prescribed fees in respect of the application; and
 - (c) require the applicant to sign and date the application.
@@ -577,7 +577,7 @@ and, where necessary, the Registrar may determine the additional education, trai
 - (a) is still to be treated as having been entered in that part of the Register; and
 - (b) is valid for the same period as the period for which the entry would have been valid, or would have been treated as valid, under article 25 of the Order had it not been removed from the Register by the Registrar.
 
-#### 17. Restoration of an annotation made to an entry in the Register[^key-302f75910e8b28141ace6b719025fde7]
+#### 17. Restoration of an annotation made to an entry in the Register[^c-302f75910e8b28141ace6b719025fde7]
 
 (1) Subject to the following paragraphs, applicants for the restoration of an annotation in respect of a specialisation made to an entry in Part 1 or, as the case may be, Part 2 of the Register may apply to the Registrar.
 
@@ -591,7 +591,7 @@ and, where necessary, the Registrar may determine the additional education, trai
 - (a) require the applicant to—
   - (i) specify—
     - (aa) the applicant’s full name, home address and contact details (including a telephone number and electronic mail address, where possible),
-    - (ab)[^key-2267212b2cd2817e7662cf1424528cb5] whether, if an annotation in respect of a specialisation were to be restored to the applicant’s entry, there would be in force an indemnity arrangement which provides appropriate cover in relation to the applicant,
+    - (ab)[^c-2267212b2cd2817e7662cf1424528cb5] whether, if an annotation in respect of a specialisation were to be restored to the applicant’s entry, there would be in force an indemnity arrangement which provides appropriate cover in relation to the applicant,
     - (bb) the part of the Register to which the application relates, and
     - (cc) the number of the entry in the Register to which the application relates, and
   - (ii) provide any other necessary supporting documents, information or evidence as mentioned in the application form;
@@ -617,13 +617,13 @@ and, where necessary, the Registrar may determine the additional education, trai
 - (b) if an annotation to the applicant’s entry in Part 1 or, as the case may be, Part 2 of the Register was removed from the relevant part of Register because of a failure to provide any document, information or evidence and that document, information or evidence is not included in the application; or
 - (c) if A has not paid, or has not made arrangements with the Registrar to pay by direct debit, the prescribed fee in respect of the application.
 
-### PART 4 — Fraudulent and incorrect entries: Parts 1 and 2 of the Register[^key-126bcf90e3c36a068af38a233fd65ac4]
+### PART 4 — Fraudulent and incorrect entries: Parts 1 and 2 of the Register[^c-126bcf90e3c36a068af38a233fd65ac4]
 
-#### 18. Notice of Intention to Remove: stage 1[^key-89d932d2fdfcd46ed9c36ba2e5d7f083]
+#### 18. Notice of Intention to Remove: stage 1[^c-89d932d2fdfcd46ed9c36ba2e5d7f083]
 
 (1) Paragraph (2) applies where the Registrar has reasonable grounds for believing—
 
-- (a) that the entry of a registrant (“R”) in Part 1 or, as the case may be, Part 2 [^key-998dc16c5011c638e66b2ddcbe604157]... of the Register may have been fraudulently procured or incorrectly made; or
+- (a) that the entry of a registrant (“R”) in Part 1 or, as the case may be, Part 2 [^c-998dc16c5011c638e66b2ddcbe604157]... of the Register may have been fraudulently procured or incorrectly made; or
 - (b) that R’s fitness to practise was impaired at the time when R was entered in the relevant part of the Register and R had not informed the Registrar of the relevant matter before R’s name was entered in that part of the Register.
 
 (2) In the circumstances set out in paragraph (1), the Registrar—
@@ -638,7 +638,7 @@ and, where necessary, the Registrar may determine the additional education, trai
 (5) The Notice of Intention to Remove must—
 
 - (a) set out the grounds for believing that—
-  - (i) R’s entry in Part 1 or, as the case may be, Part 2 [^key-23975bd0ecc9f686ea46ada6c12acb08]... of the Register may have been fraudulently procured or incorrectly made, or
+  - (i) R’s entry in Part 1 or, as the case may be, Part 2 [^c-23975bd0ecc9f686ea46ada6c12acb08]... of the Register may have been fraudulently procured or incorrectly made, or
   - (ii) R’s fitness was impaired at the time of R’s entry in the relevant part of the Register and R had not informed the Registrar of the relevant matter before R’s name was entered in that part of the Register;
 - (b) be accompanied by copies of any evidence that is in a form which can be copied and on which the Registrar would rely in any proceedings under this Part to remove R’s entry from the relevant part of the Register;
 - (c) invite R to submit written representations and any relevant evidence to the Registrar no later than 28 days after service of the Notice, as to why R’s entry in the relevant part of the Register should not be removed;
@@ -650,9 +650,9 @@ and, where necessary, the Registrar may determine the additional education, trai
 - (a) any matter referred to in article 51(1)(e) to (n) of the Order which exists in relation to R; or
 - (b) any adverse report relating to R’s physical or mental health.
 
-#### 19. Subsequent action by Registrar: stage 2[^key-635fb2b338fac28ec74766f63384b3ed]
+#### 19. Subsequent action by Registrar: stage 2[^c-635fb2b338fac28ec74766f63384b3ed]
 
-(1) Where the Registrar has issued a Notice of Intention to Remove and has not received any representations from R within the period stipulated in rule 18(5)(c), the Registrar must remove R’s entry from Part 1 or, as the case may be, Part 2 [^key-a427521a716d5880994a147fc99a5017]... of the Register.
+(1) Where the Registrar has issued a Notice of Intention to Remove and has not received any representations from R within the period stipulated in rule 18(5)(c), the Registrar must remove R’s entry from Part 1 or, as the case may be, Part 2 [^c-a427521a716d5880994a147fc99a5017]... of the Register.
 
 (2) Where the Registrar receives representations from R within the period stipulated in rule 18(5)(c), the Registrar—
 
@@ -666,7 +666,7 @@ and, where necessary, the Registrar may determine the additional education, trai
 
 (4) Where the Registrar is minded to determine that—
 
-- (a) R’s entry in Part 1 or, as the case may be, Part 2 [^key-f4ce7d5eb93e4fc825491cdbee6c7999]... of the Register was fraudulently procured or incorrectly made; or
+- (a) R’s entry in Part 1 or, as the case may be, Part 2 [^c-f4ce7d5eb93e4fc825491cdbee6c7999]... of the Register was fraudulently procured or incorrectly made; or
 - (b) R’s fitness to practise was impaired at the time R’s name was entered in the relevant part of the Register and R had not informed the Registrar about the relevant matter before R’s name was entered in that part of the Register,
 
 if the Registrar is minded to rely, when making that determination, on evidence that was obtained as a result of the Registrar’s further inquiries, paragraph (5) applies, but in all other cases, the Registrar must determine the matter in accordance with rule 20(1)(b) or (2).
@@ -674,9 +674,9 @@ if the Registrar is minded to rely, when making that determination, on evidence 
 (5) Where this paragraph applies, the Registrar must send to R the additional evidence on which the Registrar is minded to rely, and if R has not already requested a hearing or is not entitled to one, invite R, no later than 28 days after service of the additional evidence—
 
 - (a) to submit written representations and any relevant additional evidence to the Registrar; or
-- (b) except in cases where the Registrar has reasonable grounds for believing that R’s entry in Part 1 or, as the case may be, Part 2 [^key-0339951186a6a64e6a5e8e563fa72142]... of the Register was incorrectly made, invite R once again to indicate whether or not R wishes the matter to be considered at a hearing.
+- (b) except in cases where the Registrar has reasonable grounds for believing that R’s entry in Part 1 or, as the case may be, Part 2 [^c-0339951186a6a64e6a5e8e563fa72142]... of the Register was incorrectly made, invite R once again to indicate whether or not R wishes the matter to be considered at a hearing.
 
-#### 20. Decisions in contested cases: stage 3[^key-c2286758b0f7287324f4db09217222f8]
+#### 20. Decisions in contested cases: stage 3[^c-c2286758b0f7287324f4db09217222f8]
 
 (1) The Registrar must determine the matter if R does not request a hearing or is not entitled to one—
 
@@ -690,7 +690,7 @@ if the Registrar is minded to rely, when making that determination, on evidence 
 
 (3) Where the Registrar determines that—
 
-- (a) R’s entry in Part 1 or, as the case may be, Part 2 [^key-ff7c3366550e00036b4254d5f795bb96]...of the Register was fraudulently procured or incorrectly made; or
+- (a) R’s entry in Part 1 or, as the case may be, Part 2 [^c-ff7c3366550e00036b4254d5f795bb96]...of the Register was fraudulently procured or incorrectly made; or
 - (b) R’s fitness to practise was impaired at the time R’s name was entered in the relevant part of the Register and R had not informed the Registrar of the relevant matter before R’s name was entered in that part of the Register,
 
 the Registrar must remove R’s entry from the relevant part of the Register, in accordance with article 29(3) or 30(1) of the Order, whichever is appropriate in R’s case.
@@ -704,11 +704,11 @@ the Registrar must close the matter and notify R accordingly.
 
 ### PART 5 — Applications relating to Part 3 of the Register
 
-#### 21. Applications: general[^key-f49147d5b6607b54c44a13b7dd777c9a]
+#### 21. Applications: general[^c-f49147d5b6607b54c44a13b7dd777c9a]
 
 The Council may make such provision as it considers appropriate for applications under this Part to be made on line to the Registrar.
 
-#### 22. Entry of premises in the Register[^key-c57f23db18d1e6856be77f77d480cb96]
+#### 22. Entry of premises in the Register[^c-c57f23db18d1e6856be77f77d480cb96]
 
 (1) Subject to the following paragraphs, applicants for the entry of premises in Part 3 of the Register may apply to the Registrar using the relevant application form which must be in such form as the Council may from time to time determine.
 
@@ -755,7 +755,7 @@ The Council may make such provision as it considers appropriate for applications
 - (a) it is not accompanied by the necessary supporting documents, information or evidence as mentioned in the application form or subsequently required by the Registrar; or
 - (b) the applicant has not paid, or has not made arrangements with the Registrar to pay by direct debit, the prescribed fee in respect of the application.
 
-#### 23. Variation or revocation of conditions of entry of premises entered in the Register[^key-9e69ccf5d1167c0124a832b5efeef642]
+#### 23. Variation or revocation of conditions of entry of premises entered in the Register[^c-9e69ccf5d1167c0124a832b5efeef642]
 
 (1) Subject to the following paragraphs, applicants for variation or revocation of any of the conditions to which an entry of premises entered in Part 3 of the Register is subject may apply to the Registrar using the relevant application form which must be in such form as the Council may from time to time determine.
 
@@ -800,7 +800,7 @@ The Council may make such provision as it considers appropriate for applications
 - (a) the Registrar must ensure that an appropriate alteration to the Register is made to record any variation or revocation of a condition (or conditions) to which the entry of the premises entered in Part 3 of the Register is subject; and
 - (b) the Registrar may charge a fee, of such amount as may reasonably be determined by the Registrar in the circumstances of the application, in connection with the cost of making an appropriate alteration to the Register.
 
-#### 24. Renewal of an entry of premises entered in the Register[^key-c9d0193a03002d64b3fd1b5626d7a1ef]
+#### 24. Renewal of an entry of premises entered in the Register[^c-c9d0193a03002d64b3fd1b5626d7a1ef]
 
 (1) Subject to the following paragraphs, applicants for the renewal of an entry of premises entered in Part 3 of the Register may apply to the Registrar using the relevant application form which must be in such form as the Council may from time to time determine.
 
@@ -859,7 +859,7 @@ The Council may make such provision as it considers appropriate for applications
 - (a) the Registrar has received an application under this rule for the renewal of an entry of premises entered in Part 3 of the Register before the end of the period specified in paragraph (2); and
 - (b) the Registrar has not determined the application before the date on which the entry in Part 3 of the Register to which the application relates would cease to be valid if not renewed.
 
-#### 25. Annotations made to an entry of premises entered in the Register[^key-a3776716a88a399f013189b42a4b05c4]
+#### 25. Annotations made to an entry of premises entered in the Register[^c-a3776716a88a399f013189b42a4b05c4]
 
 (1) Subject to the following paragraphs, applicants may apply to the Registrar for an annotation in respect of a specialisation to be made to an entry of premises entered in Part 3 of the Register using the relevant application form which must be in such form as the Council may from time to time determine.
 
@@ -894,7 +894,7 @@ The Council may make such provision as it considers appropriate for applications
 - (a) if it is not accompanied by the necessary supporting documents, information or evidence as mentioned in the application form or subsequently required by the Registrar; or
 - (b) if the applicant has not paid, or has not made arrangements with the Registrar to pay by direct debit, the prescribed fee in respect of the application.
 
-#### 26. Renewal of an annotation made to an entry of premises entered in the Register[^key-3ca06b00e94a4ed8785b66984d6b943c]
+#### 26. Renewal of an annotation made to an entry of premises entered in the Register[^c-3ca06b00e94a4ed8785b66984d6b943c]
 
 (1) Subject to the following paragraphs, applicants for the renewal of an annotation in respect of a specialisation made to an entry of premises entered in Part 3 of the Register may apply to the Registrar using the relevant application form which must be in such form as the Council may from time to time determine.
 
@@ -931,7 +931,7 @@ The Council may make such provision as it considers appropriate for applications
 - (b) if it is not accompanied by the necessary supporting documents, information or evidence as mentioned in the application form or subsequently required by the Registrar; or
 - (c) if the applicant has not paid, or has not made arrangements with the Registrar to pay by direct debit, the prescribed fee in respect of the application.
 
-#### 27. Voluntary removal of an entry of premises or an annotation from the Register[^key-f8791a9fec9ee3bb18fa0e118876df6c]
+#### 27. Voluntary removal of an entry of premises or an annotation from the Register[^c-f8791a9fec9ee3bb18fa0e118876df6c]
 
 (1) Subject to the following paragraphs, applicants for the voluntary removal of an entry of premises entered in Part 3 of the Register from that part of the Register, or for the removal of an annotation in respect of a specialisation made to such an entry, may apply to the Registrar using the relevant application form which must be in such form as the Council may from time to time determine.
 
@@ -966,7 +966,7 @@ The Council may make such provision as it considers appropriate for applications
 
 (6) Where the Registrar grants an application under this rule, the Registrar must ensure that an appropriate alteration is made to Part 3 of the Register removing the entry or, as the case may be, the annotation in respect of a specialisation made to the entry, from that part of the Register.
 
-#### 28. Restoration of an entry of premises entered in the Register: general[^key-eb914fbed8f7e46b93808ef6287409e8]
+#### 28. Restoration of an entry of premises entered in the Register: general[^c-eb914fbed8f7e46b93808ef6287409e8]
 
 (1) Subject to the following paragraphs, applicants for the restoration of an entry of premises entered in Part 3 of the Register that has been removed from that part of the Register—
 
@@ -1020,7 +1020,7 @@ may apply to the Registrar to have the entry restored to Part 3 of the Register 
 - (c) if the applicant has not paid, or has not made arrangements with the Registrar to pay by direct debit, the prescribed fee in respect of the application; or
 - (d) if the Registrar considers that restoring the entry of the premises to Part 3 of the Register would prejudice the health, safety or well-being of members of the public.
 
-#### 29. Restoration of an entry of premises in the Register: change of ownership[^key-93a4fb1f5f54eb07c7d6bfbd4b646ba1]
+#### 29. Restoration of an entry of premises in the Register: change of ownership[^c-93a4fb1f5f54eb07c7d6bfbd4b646ba1]
 
 (1) Subject to the following paragraphs, applicants for the restoration of an entry of premises entered in Part 3 of the Register to that part of the Register may, where the entry has been removed from the Register under section 74H of the Act (change of ownership of retail pharmacy business: Great Britain), apply to the Registrar to have the entry restored to Part 3 of the Register using the relevant application form which must be in such form as the Council may from time to time determine.
 
@@ -1068,7 +1068,7 @@ may apply to the Registrar to have the entry restored to Part 3 of the Register 
 - (c) if the applicant has not paid, or has not made arrangements with the Registrar to pay by direct debit, the prescribed fee in respect of the application; or
 - (d) if the Registrar considers that restoring the entry of the premises to Part 3 of the Register would prejudice the health, safety or well-being of members of the public.
 
-#### 30. Restoration of annotations made to an entry of premises in the Register[^key-b6f0adbf41ff08c3a77210e873328265]
+#### 30. Restoration of annotations made to an entry of premises in the Register[^c-b6f0adbf41ff08c3a77210e873328265]
 
 (1) Paragraph (2) applies—
 
@@ -1115,7 +1115,7 @@ may apply to the Registrar to have the entry restored to Part 3 of the Register 
 
 ### PART 6 — Fraudulent and incorrect entries: Part 3 of the Register
 
-#### 31. Notice of Intention to Remove: stage 1[^key-2ec6fc53b1ca35b2343901a3947a6602]
+#### 31. Notice of Intention to Remove: stage 1[^c-2ec6fc53b1ca35b2343901a3947a6602]
 
 (1) Paragraph (2) applies where the Registrar has reasonable grounds for believing that an entry of premises entered in Part 3 of the Register may have been fraudulently procured or incorrectly made.
 
@@ -1134,7 +1134,7 @@ may apply to the Registrar to have the entry restored to Part 3 of the Register 
 - (d) inform P that should P fail to submit written representations to the Registrar within the period stipulated in sub-paragraph (c), the entry of the premises entered in Part 3 of the Register will be removed from that part of the Register; and
 - (e) except in cases where the Registrar has reasonable grounds for believing that the entry of the premises entered in Part 3 of the Register was incorrectly made, invite P to indicate whether or not P wishes the matter to be considered at a hearing.
 
-#### 32. Subsequent action by Registrar: stage 2[^key-e8aebc31872a9bcf06972499e181a63e]
+#### 32. Subsequent action by Registrar: stage 2[^c-e8aebc31872a9bcf06972499e181a63e]
 
 (1) Where the Registrar has issued a Notice of Intention to Remove and has not received any representations from P within the period stipulated in rule 31(4)(c), the Registrar must remove the entry of the premises from Part 3 of the Register.
 
@@ -1152,7 +1152,7 @@ may apply to the Registrar to have the entry restored to Part 3 of the Register 
 - (a) to submit written representations and any relevant additional evidence to the Registrar; or
 - (b) except in cases where the Registrar has reasonable grounds for believing that the entry of the premises entered in Part 3 of the Register was incorrectly made, invite P once again to indicate whether or not P wishes the matter to be considered at a hearing.
 
-#### 33. Decisions in contested cases: stage 3[^key-c6714b11b9998c63534b274b87f963be]
+#### 33. Decisions in contested cases: stage 3[^c-c6714b11b9998c63534b274b87f963be]
 
 (1) The Registrar must determine the matter if P does not request a hearing or is not entitled to one—
 
@@ -1208,9 +1208,9 @@ Part 6 contains a procedure to be followed by the Registrar for dealing with ent
 
 [^f00005]: Footnote: [S.I.2010/231](https://www.legislation.gov.uk/uksi/2010/231).
 
-[^key-5b2ad4fd0aa613f7c162a3c95671f7b6]: Commencement: [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/1) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
+[^c-5b2ad4fd0aa613f7c162a3c95671f7b6]: Commencement: [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/1) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
 
-[^key-9a925b7f36624d07ae8207bd672e3263]: Commencement: [Sch. rule 2](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/2) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
+[^c-9a925b7f36624d07ae8207bd672e3263]: Commencement: [Sch. rule 2](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/2) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
 
 [^f00006]: Footnote: These Rules are Scheduled to [S.I.2010/1615](https://www.legislation.gov.uk/uksi/2010/1615).
 
@@ -1220,83 +1220,83 @@ Part 6 contains a procedure to be followed by the Registrar for dealing with ent
 
 [^f00009]: Footnote: Section 72A was inserted by section 30(1) of the Health Act [2006 (c.28)](https://www.legislation.gov.uk/ukpga/2006/28) as from 1 October 2009.
 
-[^key-68ab3f8798861df7f1c2279bdba97f85]: Commencement: [Sch. rule 3](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/3) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
+[^c-68ab3f8798861df7f1c2279bdba97f85]: Commencement: [Sch. rule 3](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/3) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
 
-[^key-3537e12c89107974fc2b69703244adb3]: Textual amendment: Words in [Sch. rule 3(1)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/3/1) omitted (4.3.2021) by virtue of [The General Pharmaceutical Council (Coronavirus) (Amendment) Rules Order of Council 2021 (S.I. 2021/26)](https://www.legislation.gov.uk/uksi/2021/26), [art. 1](https://www.legislation.gov.uk/uksi/2021/26/article/1), [Sch. rule 5](https://www.legislation.gov.uk/uksi/2021/26/schedule/rule/5)
+[^c-3537e12c89107974fc2b69703244adb3]: Textual amendment: Words in [Sch. rule 3(1)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/3/1) omitted (4.3.2021) by virtue of [The General Pharmaceutical Council (Coronavirus) (Amendment) Rules Order of Council 2021 (S.I. 2021/26)](https://www.legislation.gov.uk/uksi/2021/26), [art. 1](https://www.legislation.gov.uk/uksi/2021/26/article/1), [Sch. rule 5](https://www.legislation.gov.uk/uksi/2021/26/schedule/rule/5)
 
-[^key-6521d6672dbe98bd90b21a73cf662cc1]: Commencement: [Sch. rule 4](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/4) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
+[^c-6521d6672dbe98bd90b21a73cf662cc1]: Commencement: [Sch. rule 4](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/4) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
 
-[^key-56622b489929a2a2ac43cf3e76aa2bf1]: Commencement: [Sch. rule 5](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/5) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
+[^c-56622b489929a2a2ac43cf3e76aa2bf1]: Commencement: [Sch. rule 5](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/5) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
 
 [^f00010]: Footnote: Subsection (1) of section 80 of the Act was substituted by paragraph 1(14) of Schedule 4 to the Pharmacy Order 2010.
 
-[^key-99726accd3480c5e7c6b726e7b47097a]: Commencement: [Sch. rule 6](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/6) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
+[^c-99726accd3480c5e7c6b726e7b47097a]: Commencement: [Sch. rule 6](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/6) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
 
-[^key-9607bac82a860ce4b922d66345692fde]: Commencement: [Sch. rule 7](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/7) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
+[^c-9607bac82a860ce4b922d66345692fde]: Commencement: [Sch. rule 7](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/7) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
 
-[^key-580966a6815de21d165259b97112f431]: Commencement: [Sch. rule 8](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/8) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
+[^c-580966a6815de21d165259b97112f431]: Commencement: [Sch. rule 8](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/8) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
 
-[^key-0c9ad888198884075becd1da3a186855]: Textual amendment: [Sch. rule 8A](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/8A) inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 3](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/3)
+[^c-0c9ad888198884075becd1da3a186855]: Textual amendment: [Sch. rule 8A](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/8A) inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 3](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/3)
 
-[^key-e68bb60a08a280464fcbbead7f268a08]: Commencement: [Sch. rule 9](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/9) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
+[^c-e68bb60a08a280464fcbbead7f268a08]: Commencement: [Sch. rule 9](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/9) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
 
-[^key-587a202d262af324825d572b1c323eef]: Commencement: [Sch. rule 10](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/10) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
+[^c-587a202d262af324825d572b1c323eef]: Commencement: [Sch. rule 10](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/10) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
 
-[^key-9ef1e5874de7c90772aacc516f9574a7]: Textual amendment: [Sch. rule 10(2)(a)(ii)(cc)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/article/10/2/a/ii) inserted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 1 para. 39(a)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/1/paragraph/39/a)
+[^c-9ef1e5874de7c90772aacc516f9574a7]: Textual amendment: [Sch. rule 10(2)(a)(ii)(cc)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/article/10/2/a/ii) inserted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 1 para. 39(a)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/1/paragraph/39/a)
 
-[^key-1e9aa7cad7a6000e198bc1fdfc2f47bc]: Textual amendment: Word in [Sch. rule 10(2)(a)(iii)(bb)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/2/a/iii/bb) omitted (21.11.2016) by virtue of [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 4(2)(a)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/rule/4/2/a)
+[^c-1e9aa7cad7a6000e198bc1fdfc2f47bc]: Textual amendment: Word in [Sch. rule 10(2)(a)(iii)(bb)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/2/a/iii/bb) omitted (21.11.2016) by virtue of [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 4(2)(a)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/rule/4/2/a)
 
-[^key-ba1213d3115cbe1dd0d46d5227d7eaca]: Textual amendment: [Sch. rules 10(2)(a)(iii)(dd)(ee)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/2/a/iii/dd/ee) inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 4(2)(b)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/rule/4/2/b)
+[^c-ba1213d3115cbe1dd0d46d5227d7eaca]: Textual amendment: [Sch. rules 10(2)(a)(iii)(dd)(ee)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/2/a/iii/dd/ee) inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 4(2)(b)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/rule/4/2/b)
 
-[^key-4a45033ffe5eb1d7239c674edea04be8]: Textual amendment: Words in [Sch. rule 10(3)(a)(i)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/article/10/3/a/i) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [art. 1](https://www.legislation.gov.uk/uksi/2012/3171/article/1), [Sch. rule 25(3)(a)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/article/25/3/a)
+[^c-4a45033ffe5eb1d7239c674edea04be8]: Textual amendment: Words in [Sch. rule 10(3)(a)(i)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/article/10/3/a/i) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [art. 1](https://www.legislation.gov.uk/uksi/2012/3171/article/1), [Sch. rule 25(3)(a)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/article/25/3/a)
 
-[^key-4b7ce6c1292bd5d45f80a4a4f0e3fc53]: Textual amendment: Words in [Sch. rule 10(3)(a)(i)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/3/a/i) substituted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 4(3)(a)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/4/3/a)
+[^c-4b7ce6c1292bd5d45f80a4a4f0e3fc53]: Textual amendment: Words in [Sch. rule 10(3)(a)(i)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/3/a/i) substituted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 4(3)(a)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/4/3/a)
 
-[^key-203f2799be0434aaac7b5dbab2b39f49]: Textual amendment: [Sch. rule 10(3)(b)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/article/10/3/b) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [art. 1](https://www.legislation.gov.uk/uksi/2012/3171/article/1), [Sch. rule 25(4)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/article/25/4)
+[^c-203f2799be0434aaac7b5dbab2b39f49]: Textual amendment: [Sch. rule 10(3)(b)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/article/10/3/b) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [art. 1](https://www.legislation.gov.uk/uksi/2012/3171/article/1), [Sch. rule 25(4)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/article/25/4)
 
-[^key-396a48e218f42b5206b4347efea95bb2]: Textual amendment: Words in [Sch. rule. 10(3)(c)(i)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/article/10/3/c/i) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [art. 1](https://www.legislation.gov.uk/uksi/2012/3171/article/1), [Sch. rule 25(3)(b)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/article/25/3/b)
+[^c-396a48e218f42b5206b4347efea95bb2]: Textual amendment: Words in [Sch. rule. 10(3)(c)(i)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/article/10/3/c/i) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [art. 1](https://www.legislation.gov.uk/uksi/2012/3171/article/1), [Sch. rule 25(3)(b)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/article/25/3/b)
 
-[^key-5e2fb3ff6cce92b28db085d05231ee5d]: Textual amendment: Words in [Sch. rule 10(3)(c)(i)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/3/c/i) substituted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 4(3)(a)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/4/3/a)
+[^c-5e2fb3ff6cce92b28db085d05231ee5d]: Textual amendment: Words in [Sch. rule 10(3)(c)(i)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/3/c/i) substituted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 4(3)(a)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/4/3/a)
 
-[^key-73f90222b99b8a31582dd683f01ae2e7]: Textual amendment: [Sch. rule 10(3)(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/article/10/3/aa) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [art. 1](https://www.legislation.gov.uk/uksi/2012/3171/article/1), [Sch. rule 25(5)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/article/25/5)
+[^c-73f90222b99b8a31582dd683f01ae2e7]: Textual amendment: [Sch. rule 10(3)(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/article/10/3/aa) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [art. 1](https://www.legislation.gov.uk/uksi/2012/3171/article/1), [Sch. rule 25(5)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/article/25/5)
 
-[^key-94350b97156b18bfc88de9695821a4e1]: Textual amendment: Words in [Sch. rule 10(3)(d)(i)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/article/10/3/d/i) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [art. 1](https://www.legislation.gov.uk/uksi/2012/3171/article/1), [Sch. rule 25(3)(c)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/article/25/3/c)
+[^c-94350b97156b18bfc88de9695821a4e1]: Textual amendment: Words in [Sch. rule 10(3)(d)(i)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/article/10/3/d/i) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [art. 1](https://www.legislation.gov.uk/uksi/2012/3171/article/1), [Sch. rule 25(3)(c)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/article/25/3/c)
 
-[^key-326733a76fea663f3d5e3325e0c13385]: Textual amendment: Words in [Sch. rule 10(3)(d)(i)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/3/d/i) substituted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 4(3)(a)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/4/3/a)
+[^c-326733a76fea663f3d5e3325e0c13385]: Textual amendment: Words in [Sch. rule 10(3)(d)(i)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/3/d/i) substituted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 4(3)(a)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/4/3/a)
 
-[^key-bae36d0a31e7538bf4ba3a93c9fc6629]: Textual amendment: [Sch. rule 10(3)(e)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/3/e) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/2/a/i) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bae36d0a31e7538bf4ba3a93c9fc6629]: Textual amendment: [Sch. rule 10(3)(e)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/3/e) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/2/a/i) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-70a53dc30875bf47bfa16560bdd7785b]: Textual amendment: [Sch. rule 10(3)(f)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/3/f) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/2/a/i) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-70a53dc30875bf47bfa16560bdd7785b]: Textual amendment: [Sch. rule 10(3)(f)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/3/f) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/2/a/i) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c50c866fef596a86def3fa68a0b5dc15]: Textual amendment: [Sch. rule 10(3)(ga)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/article/10/3/ga) inserted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 1 rule 39(b)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/1/paragraph/39/b)
+[^c-c50c866fef596a86def3fa68a0b5dc15]: Textual amendment: [Sch. rule 10(3)(ga)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/article/10/3/ga) inserted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 1 rule 39(b)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/1/paragraph/39/b)
 
-[^key-aab4891310ecb0e0aef7960d697b6b41]: Textual amendment: [Sch. rule 10(3)(h)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/3/h) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/2/a/i) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aab4891310ecb0e0aef7960d697b6b41]: Textual amendment: [Sch. rule 10(3)(h)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/3/h) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/2/a/i) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e6715ff9b1e5f5d3ea50034036c1e5a1]: Textual amendment: [Sch. rule 10(3)(i)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/3/i) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/2/a/i) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e6715ff9b1e5f5d3ea50034036c1e5a1]: Textual amendment: [Sch. rule 10(3)(i)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/3/i) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/2/a/i) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d22566549894bf075dd122b1b787e75d]: Textual amendment: [Sch. rule 10(3)(j)(i)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/3/j/i) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(2)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/2/a/ii/aa) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d22566549894bf075dd122b1b787e75d]: Textual amendment: [Sch. rule 10(3)(j)(i)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/3/j/i) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(2)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/2/a/ii/aa) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1323374b6547f4ecacd358a228efb7ac]: Textual amendment: Words in [Sch. rule 10(3)(j)(ii)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/3/j/ii) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(2)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/2/a/ii/bb) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1323374b6547f4ecacd358a228efb7ac]: Textual amendment: Words in [Sch. rule 10(3)(j)(ii)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/3/j/ii) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(2)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/2/a/ii/bb) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-aa5f693f7d7daa73aa303b57ae60a432]: Textual amendment: Word in [Sch. rule 10(3)(j)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/3/j) omitted (21.11.2016) by virtue of [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 4(3)(b)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/4/3/b)
+[^c-aa5f693f7d7daa73aa303b57ae60a432]: Textual amendment: Word in [Sch. rule 10(3)(j)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/3/j) omitted (21.11.2016) by virtue of [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 4(3)(b)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/4/3/b)
 
-[^key-ae8d95e48d49fcfba44e6fba6e8e46b8]: Textual amendment: [Sch. rule 10(3)(k)(i)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/3/k/i) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(2)(a)(iii)(aa)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/2/a/iii/aa) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ae8d95e48d49fcfba44e6fba6e8e46b8]: Textual amendment: [Sch. rule 10(3)(k)(i)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/3/k/i) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(2)(a)(iii)(aa)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/2/a/iii/aa) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-44b85059af09c097bb159b55d31bad21]: Textual amendment: Words in [Sch. rule 10(3)(k)(ii)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/3/k/ii) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(2)(a)(iii)(bb)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/2/a/iii/bb) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-44b85059af09c097bb159b55d31bad21]: Textual amendment: Words in [Sch. rule 10(3)(k)(ii)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/3/k/ii) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(2)(a)(iii)(bb)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/2/a/iii/bb) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b74e3b916a29a55a9d02fd3ff17771c1]: Textual amendment: [Sch. rule 10(3)(l)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/3/l) and word inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 4(3)(c)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/4/3/c)
+[^c-b74e3b916a29a55a9d02fd3ff17771c1]: Textual amendment: [Sch. rule 10(3)(l)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/3/l) and word inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 4(3)(c)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/4/3/c)
 
-[^key-e74d2e129ed6eead1eaa327a3a159c68]: Textual amendment: [Sch. rule 10(3ZA)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/3ZA) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(2)(b)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/2/b) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e74d2e129ed6eead1eaa327a3a159c68]: Textual amendment: [Sch. rule 10(3ZA)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/3ZA) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(2)(b)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/2/b) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b8bec631991f3cf4c263a63c1d0ebdb3]: Textual amendment: [Sch. rule 10(3A)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/3A) substituted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 4(4)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/4/4)
+[^c-b8bec631991f3cf4c263a63c1d0ebdb3]: Textual amendment: [Sch. rule 10(3A)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/3A) substituted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 4(4)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/4/4)
 
-[^key-c484af6a58d86f27b0cf3abc13132788]: Textual amendment: [Sch. rule 10(3A)(3B)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/3A/3B) inserted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [art. 1](https://www.legislation.gov.uk/uksi/2012/3171/article/1), [Sch. rule 25(6)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/rule/25/6)
+[^c-c484af6a58d86f27b0cf3abc13132788]: Textual amendment: [Sch. rule 10(3A)(3B)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/3A/3B) inserted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [art. 1](https://www.legislation.gov.uk/uksi/2012/3171/article/1), [Sch. rule 25(6)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/rule/25/6)
 
-[^key-3421d923ce35ce3bf9b187dd32af3915]: Textual amendment: Words in [Sch. rule 10(5)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/5) substituted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 4(5)(a)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/4/5/a)
+[^c-3421d923ce35ce3bf9b187dd32af3915]: Textual amendment: Words in [Sch. rule 10(5)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/5) substituted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 4(5)(a)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/4/5/a)
 
-[^key-0c739e9b5ef3de8c3d9b94ad9ba76a90]: Textual amendment: Words in [Sch. rule 10(5)(a)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/5/a) omitted (28.2.2011) by virtue of [The Protection of Vulnerable Groups (Scotland) Act 2007 (Consequential Provisions) Order 2010 (S.I. 2010/2660)](https://www.legislation.gov.uk/uksi/2010/2660), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2660/article/1), [23(a)(i)](https://www.legislation.gov.uk/uksi/2010/2660/article/23/a/i); [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)
+[^c-0c739e9b5ef3de8c3d9b94ad9ba76a90]: Textual amendment: Words in [Sch. rule 10(5)(a)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/5/a) omitted (28.2.2011) by virtue of [The Protection of Vulnerable Groups (Scotland) Act 2007 (Consequential Provisions) Order 2010 (S.I. 2010/2660)](https://www.legislation.gov.uk/uksi/2010/2660), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2660/article/1), [23(a)(i)](https://www.legislation.gov.uk/uksi/2010/2660/article/23/a/i); [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)
 
-[^key-8808bbcf4b9f88e2de9ea2620207d8d2]: Textual amendment: Words in [Sch. rule 10(5)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/article/10/5) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [art. 1](https://www.legislation.gov.uk/uksi/2012/3171/article/1), [Sch. rule 25(7)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/article/25/7)
+[^c-8808bbcf4b9f88e2de9ea2620207d8d2]: Textual amendment: Words in [Sch. rule 10(5)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/article/10/5) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [art. 1](https://www.legislation.gov.uk/uksi/2012/3171/article/1), [Sch. rule 25(7)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/article/25/7)
 
 [^f00011]: Footnote: [2006 c.47](https://www.legislation.gov.uk/ukpga/2006/47).
 
@@ -1304,112 +1304,112 @@ Part 6 contains a procedure to be followed by the Registrar for dealing with ent
 
 [^f00013]: Footnote: [2007 asp 14](https://www.legislation.gov.uk/asp/2007/14).
 
-[^key-d8f631310f1337a62fbecfa0f6acc71c]: Textual amendment: Word in [Sch. rule 10(5)(e)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/5/e) omitted (28.2.2011) by virtue of [The Protection of Vulnerable Groups (Scotland) Act 2007 (Consequential Provisions) Order 2010 (S.I. 2010/2660)](https://www.legislation.gov.uk/uksi/2010/2660), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2660/article/1), [23(a)(ii)](https://www.legislation.gov.uk/uksi/2010/2660/article/23/a/ii); [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)
+[^c-d8f631310f1337a62fbecfa0f6acc71c]: Textual amendment: Word in [Sch. rule 10(5)(e)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/5/e) omitted (28.2.2011) by virtue of [The Protection of Vulnerable Groups (Scotland) Act 2007 (Consequential Provisions) Order 2010 (S.I. 2010/2660)](https://www.legislation.gov.uk/uksi/2010/2660), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2660/article/1), [23(a)(ii)](https://www.legislation.gov.uk/uksi/2010/2660/article/23/a/ii); [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)
 
-[^key-2c40c8f35d8205f8e85508ae3efa957e]: Textual amendment: [Sch. rule 10(5)(g)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/5/g) and word inserted (28.2.2011) by [The Protection of Vulnerable Groups (Scotland) Act 2007 (Consequential Provisions) Order 2010 (S.I. 2010/2660)](https://www.legislation.gov.uk/uksi/2010/2660), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2660/article/1), [23(a)(iii)](https://www.legislation.gov.uk/uksi/2010/2660/article/23/a/iii); [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)
+[^c-2c40c8f35d8205f8e85508ae3efa957e]: Textual amendment: [Sch. rule 10(5)(g)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/5/g) and word inserted (28.2.2011) by [The Protection of Vulnerable Groups (Scotland) Act 2007 (Consequential Provisions) Order 2010 (S.I. 2010/2660)](https://www.legislation.gov.uk/uksi/2010/2660), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2660/article/1), [23(a)(iii)](https://www.legislation.gov.uk/uksi/2010/2660/article/23/a/iii); [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)
 
-[^key-eb9caee7104c7ab9a7ec1392ffb14512]: Textual amendment: Word in [Sch. rule 10(5)(f)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/5/f) omitted (21.11.2016) by virtue of [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 4(5)(b)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/4/5/b)
+[^c-eb9caee7104c7ab9a7ec1392ffb14512]: Textual amendment: Word in [Sch. rule 10(5)(f)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/5/f) omitted (21.11.2016) by virtue of [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 4(5)(b)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/4/5/b)
 
-[^key-4f968a8917b85153b9f1f0f05708eb46]: Textual amendment: [Sch. rule 10(5)(h)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/5/h) and word inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 4(5)(c)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/4/5/c)
+[^c-4f968a8917b85153b9f1f0f05708eb46]: Textual amendment: [Sch. rule 10(5)(h)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/5/h) and word inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 4(5)(c)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/4/5/c)
 
-[^key-d7c7da777df161864ddac03088e19b46]: Textual amendment: [Sch. rule 10(12)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/12) substituted (28.2.2011) by [The Protection of Vulnerable Groups (Scotland) Act 2007 (Consequential Provisions) Order 2010 (S.I. 2010/2660)](https://www.legislation.gov.uk/uksi/2010/2660), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2660/article/1), [23(b)](https://www.legislation.gov.uk/uksi/2010/2660/article/23/b); [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)
+[^c-d7c7da777df161864ddac03088e19b46]: Textual amendment: [Sch. rule 10(12)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/12) substituted (28.2.2011) by [The Protection of Vulnerable Groups (Scotland) Act 2007 (Consequential Provisions) Order 2010 (S.I. 2010/2660)](https://www.legislation.gov.uk/uksi/2010/2660), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2660/article/1), [23(b)](https://www.legislation.gov.uk/uksi/2010/2660/article/23/b); [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)
 
-[^key-ff32d697b1ca5899f3107a5aaf3a3268]: Textual amendment: Words in [Sch. rule 10(12)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/12) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(2)(c)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/2/c) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ff32d697b1ca5899f3107a5aaf3a3268]: Textual amendment: Words in [Sch. rule 10(12)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/10/12) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(2)(c)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/2/c) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-77263e9ebb80da351a6e3a11f7e72c56]: Commencement: Sch. rule 11 in force at 4.1.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/2)
+[^c-77263e9ebb80da351a6e3a11f7e72c56]: Commencement: Sch. rule 11 in force at 4.1.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/2)
 
-[^key-95d31927e07ec7f34645c73afcf826c1]: Textual amendment: [Sch. rule 11(4)(a)(iia)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/article/11/4/a) inserted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 1 rule 40](https://www.legislation.gov.uk/uksi/2014/1887/schedule/1/paragraph/40)
+[^c-95d31927e07ec7f34645c73afcf826c1]: Textual amendment: [Sch. rule 11(4)(a)(iia)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/article/11/4/a) inserted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 1 rule 40](https://www.legislation.gov.uk/uksi/2014/1887/schedule/1/paragraph/40)
 
-[^key-a7fa2d27e03c743f9fbefc21aa2505b7]: Textual amendment: Words in [Sch. rule 11(4)(a)(iia)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/11/4/a/iia) substituted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 5(2)(a)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/rule/5/2/a)
+[^c-a7fa2d27e03c743f9fbefc21aa2505b7]: Textual amendment: Words in [Sch. rule 11(4)(a)(iia)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/11/4/a/iia) substituted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 5(2)(a)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/rule/5/2/a)
 
-[^key-4813f61465abd3d9509793cd1ba300b8]: Textual amendment: [Sch. rule 11(4)(a)(iib)(iic)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/11/4/a/iib/iic) inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 5(2)(b)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/rule/5/2/b)
+[^c-4813f61465abd3d9509793cd1ba300b8]: Textual amendment: [Sch. rule 11(4)(a)(iib)(iic)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/11/4/a/iib/iic) inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 5(2)(b)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/rule/5/2/b)
 
-[^key-1211769345936a93b30579b8ae0175da]: Textual amendment: Word in [Sch. rule 11(4)(iv)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/11/4/iv) omitted (21.11.2016) by virtue of [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. para. 5(2)(c)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/5/2/c)
+[^c-1211769345936a93b30579b8ae0175da]: Textual amendment: Word in [Sch. rule 11(4)(iv)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/11/4/iv) omitted (21.11.2016) by virtue of [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. para. 5(2)(c)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/5/2/c)
 
-[^key-b2c54666567842fb2b335f0850f418e5]: Textual amendment: [Sch. rule 11(4)(a)(vi)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/11/4/a/vi) and word inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 5(2)(d)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/5/2/d)
+[^c-b2c54666567842fb2b335f0850f418e5]: Textual amendment: [Sch. rule 11(4)(a)(vi)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/11/4/a/vi) and word inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 5(2)(d)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/5/2/d)
 
-[^key-733beb6aaa0e1fbbff165381daf1f9ad]: Textual amendment: [Sch. rule 11(5A)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/11/5A) inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 5(3)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/5/3)
+[^c-733beb6aaa0e1fbbff165381daf1f9ad]: Textual amendment: [Sch. rule 11(5A)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/11/5A) inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 5(3)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/5/3)
 
-[^key-3dd08ca1e63b058e8c65563a15c8bb5a]: Textual amendment: Words in [Sch. rule 11(6)(b)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/11/6/b) inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 5(4)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/5/4)
+[^c-3dd08ca1e63b058e8c65563a15c8bb5a]: Textual amendment: Words in [Sch. rule 11(6)(b)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/11/6/b) inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 5(4)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/5/4)
 
-[^key-9ff7125219eb46e282f5be84429ba8f5]: Commencement: [Sch. rule 12](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/12) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
+[^c-9ff7125219eb46e282f5be84429ba8f5]: Commencement: [Sch. rule 12](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/12) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
 
-[^key-09dac56ca0d9f3b226d798e8392e1dd8]: Textual amendment: Word in [Sch. rule 12(3)(a)(v)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/12/3/a/v) omitted (21.11.2016) by virtue of [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 6(a)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/6/a)
+[^c-09dac56ca0d9f3b226d798e8392e1dd8]: Textual amendment: Word in [Sch. rule 12(3)(a)(v)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/12/3/a/v) omitted (21.11.2016) by virtue of [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 6(a)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/6/a)
 
-[^key-91cb569355f31a3458406ff37b852573]: Textual amendment: [Sch. rule 12(3)(a)(va)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/12/3/a/va) inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 6(b)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/rule/6/b)
+[^c-91cb569355f31a3458406ff37b852573]: Textual amendment: [Sch. rule 12(3)(a)(va)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/12/3/a/va) inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 6(b)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/rule/6/b)
 
-[^key-b730b14a73e63c217cb9c7de2a471138]: Commencement: Sch. rule 13 in force at 4.1.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/2)
+[^c-b730b14a73e63c217cb9c7de2a471138]: Commencement: Sch. rule 13 in force at 4.1.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/2)
 
-[^key-26ae9786ce1361c9b69cec2c60a75426]: Textual amendment: [Sch. rule 13(4)(b)(iiia)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/13/4/b/iiia) inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 7(2)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/rule/7/2)
+[^c-26ae9786ce1361c9b69cec2c60a75426]: Textual amendment: [Sch. rule 13(4)(b)(iiia)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/13/4/b/iiia) inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 7(2)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/rule/7/2)
 
-[^key-bdd42299cdb0a131a46227cf845a18f6]: Textual amendment: Words in [Sch. rule 13(6)(b)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/13/6/b) inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 7(3)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/7/3)
+[^c-bdd42299cdb0a131a46227cf845a18f6]: Textual amendment: Words in [Sch. rule 13(6)(b)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/13/6/b) inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 7(3)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/7/3)
 
-[^key-566a8f23d2e69484ba3a2c75091f30ec]: Commencement: [Sch. rule 14](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/14) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
+[^c-566a8f23d2e69484ba3a2c75091f30ec]: Commencement: [Sch. rule 14](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/14) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
 
-[^key-e87e5beff578df803798f7bd8bb9a1e6]: Commencement: [Sch. rule 15](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/15) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
+[^c-e87e5beff578df803798f7bd8bb9a1e6]: Commencement: [Sch. rule 15](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/15) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
 
-[^key-264eabdc6b7835ac4ecf2f9641ac8a76]: Commencement: [Sch. rule 16](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/16) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
+[^c-264eabdc6b7835ac4ecf2f9641ac8a76]: Commencement: [Sch. rule 16](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/16) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
 
-[^key-d12dd32c8c86cac1f4af636b33e07b3d]: Textual amendment: [Sch. rule 16(3)(a)(i)(ab)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/article/16/3/a/i) inserted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 1 rule 41](https://www.legislation.gov.uk/uksi/2014/1887/schedule/1/paragraph/41)
+[^c-d12dd32c8c86cac1f4af636b33e07b3d]: Textual amendment: [Sch. rule 16(3)(a)(i)(ab)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/article/16/3/a/i) inserted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 1 rule 41](https://www.legislation.gov.uk/uksi/2014/1887/schedule/1/paragraph/41)
 
-[^key-ccefdcb616bea2731624b01a8af209b2]: Textual amendment: Word in [Sch. rule 16(3)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/16/3/a/ii/bb) omitted (21.11.2016) by virtue of [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 8(2)(a)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/rule/8/2/a)
+[^c-ccefdcb616bea2731624b01a8af209b2]: Textual amendment: Word in [Sch. rule 16(3)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/16/3/a/ii/bb) omitted (21.11.2016) by virtue of [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 8(2)(a)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/rule/8/2/a)
 
-[^key-7da5946ad186143d74728cc57529eb10]: Textual amendment: [Sch. rule 16(3)(a)(ii)(dd)(ee)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/16/3/a/ii/dd/ee) inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 8(2)(b)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/rule/8/2/b)
+[^c-7da5946ad186143d74728cc57529eb10]: Textual amendment: [Sch. rule 16(3)(a)(ii)(dd)(ee)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/16/3/a/ii/dd/ee) inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 8(2)(b)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/rule/8/2/b)
 
-[^key-f15d3e39f7638074c641c2bb24c93fa0]: Textual amendment: Word in [Sch. rule 16(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/16/3/a/iii) [(aa)(bb)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/16/3/aa) substituted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 8(2)(c)(i)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/8/2/c/i)
+[^c-f15d3e39f7638074c641c2bb24c93fa0]: Textual amendment: Word in [Sch. rule 16(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/16/3/a/iii) [(aa)(bb)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/16/3/aa) substituted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 8(2)(c)(i)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/8/2/c/i)
 
-[^key-598b27548782397b2d7fc00c71d4ebcc]: Textual amendment: Word in [Sch. rule 16(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/16/3/a/iii)[(bb)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/16/3/bb) substituted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 8(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/8/2/c/ii)
+[^c-598b27548782397b2d7fc00c71d4ebcc]: Textual amendment: Word in [Sch. rule 16(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/16/3/a/iii)[(bb)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/16/3/bb) substituted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 8(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/8/2/c/ii)
 
-[^key-e30cd305643cdea23d22350df0c24b56]: Textual amendment: Word in [Sch. rule 16(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/16/3/a/iii)[(bb)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/16/3/bb) omitted (21.11.2016) by virtue of [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 8(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/8/2/c/iii)
+[^c-e30cd305643cdea23d22350df0c24b56]: Textual amendment: Word in [Sch. rule 16(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/16/3/a/iii)[(bb)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/16/3/bb) omitted (21.11.2016) by virtue of [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 8(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/8/2/c/iii)
 
-[^key-db7884c929510cc1319097c963e58d1f]: Textual amendment: [Sch. rule 16(3)(a)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/16/3/a)[(iiia)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/16/3/iiia) inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 8(2)(d)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/8/2/d)
+[^c-db7884c929510cc1319097c963e58d1f]: Textual amendment: [Sch. rule 16(3)(a)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/16/3/a)[(iiia)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/16/3/iiia) inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 8(2)(d)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/8/2/d)
 
-[^key-302f75910e8b28141ace6b719025fde7]: Commencement: [Sch. rule 17](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/17) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
+[^c-302f75910e8b28141ace6b719025fde7]: Commencement: [Sch. rule 17](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/17) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
 
-[^key-2267212b2cd2817e7662cf1424528cb5]: Textual amendment: [Sch. rule 17(3)(a)(i)(ab)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/17/3/a/i/ab) inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 9](https://www.legislation.gov.uk/uksi/2016/1008/schedule/rule/9)
+[^c-2267212b2cd2817e7662cf1424528cb5]: Textual amendment: [Sch. rule 17(3)(a)(i)(ab)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/17/3/a/i/ab) inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [art. 1](https://www.legislation.gov.uk/uksi/2016/1008/article/1), [Sch. rule 9](https://www.legislation.gov.uk/uksi/2016/1008/schedule/rule/9)
 
-[^key-126bcf90e3c36a068af38a233fd65ac4]: Textual amendment: Words in [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2010/1617/schedule/part/4) heading substituted (31.12.2020) by [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(3)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/3) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-126bcf90e3c36a068af38a233fd65ac4]: Textual amendment: Words in [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2010/1617/schedule/part/4) heading substituted (31.12.2020) by [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(3)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/3) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-89d932d2fdfcd46ed9c36ba2e5d7f083]: Commencement: [Sch. rule 18](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/18) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
+[^c-89d932d2fdfcd46ed9c36ba2e5d7f083]: Commencement: [Sch. rule 18](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/18) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
 
-[^key-998dc16c5011c638e66b2ddcbe604157]: Textual amendment: Words in [Sch. rule 18(1)(a)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/18/1/a) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(4)(a)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/4/a) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-998dc16c5011c638e66b2ddcbe604157]: Textual amendment: Words in [Sch. rule 18(1)(a)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/18/1/a) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(4)(a)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/4/a) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-23975bd0ecc9f686ea46ada6c12acb08]: Textual amendment: Words in [Sch. rule 18(5)(a)(i)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/18/5/a/i) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(4)(b)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/4/b) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-23975bd0ecc9f686ea46ada6c12acb08]: Textual amendment: Words in [Sch. rule 18(5)(a)(i)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/18/5/a/i) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(4)(b)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/4/b) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-635fb2b338fac28ec74766f63384b3ed]: Commencement: [Sch. rule 19](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/19) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
+[^c-635fb2b338fac28ec74766f63384b3ed]: Commencement: [Sch. rule 19](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/19) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
 
-[^key-a427521a716d5880994a147fc99a5017]: Textual amendment: Words in [Sch. rule 19(1)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/19/1) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(5)(a)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/5/a) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a427521a716d5880994a147fc99a5017]: Textual amendment: Words in [Sch. rule 19(1)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/19/1) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(5)(a)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/5/a) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f4ce7d5eb93e4fc825491cdbee6c7999]: Textual amendment: Words in [Sch. rule 19(4)(a)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/19/4/a) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(5)(b)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/5/b) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f4ce7d5eb93e4fc825491cdbee6c7999]: Textual amendment: Words in [Sch. rule 19(4)(a)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/19/4/a) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(5)(b)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/5/b) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0339951186a6a64e6a5e8e563fa72142]: Textual amendment: Words in [Sch. rule 19(5)(b)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/19/5/b) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(5)(c)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/5/c) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0339951186a6a64e6a5e8e563fa72142]: Textual amendment: Words in [Sch. rule 19(5)(b)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/19/5/b) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(5)(c)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/5/c) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c2286758b0f7287324f4db09217222f8]: Commencement: [Sch. rule 20](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/20) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
+[^c-c2286758b0f7287324f4db09217222f8]: Commencement: [Sch. rule 20](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/20) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
 
-[^key-ff7c3366550e00036b4254d5f795bb96]: Textual amendment: Words in [Sch. rule 20(3)(a)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/20/3/a) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(6)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/6) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ff7c3366550e00036b4254d5f795bb96]: Textual amendment: Words in [Sch. rule 20(3)(a)](https://www.legislation.gov.uk/uksi/2010/1617/schedule/rule/20/3/a) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 39(6)](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/39/6) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f49147d5b6607b54c44a13b7dd777c9a]: Commencement: [Sch. rule 21](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/21) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
+[^c-f49147d5b6607b54c44a13b7dd777c9a]: Commencement: [Sch. rule 21](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/21) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
 
-[^key-c57f23db18d1e6856be77f77d480cb96]: Commencement: [Sch. rule 22](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/22) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
+[^c-c57f23db18d1e6856be77f77d480cb96]: Commencement: [Sch. rule 22](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/22) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
 
-[^key-9e69ccf5d1167c0124a832b5efeef642]: Commencement: [Sch. rule 23](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/23) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
+[^c-9e69ccf5d1167c0124a832b5efeef642]: Commencement: [Sch. rule 23](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/23) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
 
-[^key-c9d0193a03002d64b3fd1b5626d7a1ef]: Commencement: Sch. rule 24 in force at 4.1.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/2)
+[^c-c9d0193a03002d64b3fd1b5626d7a1ef]: Commencement: Sch. rule 24 in force at 4.1.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/2)
 
-[^key-a3776716a88a399f013189b42a4b05c4]: Commencement: [Sch. rule 25](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/25) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
+[^c-a3776716a88a399f013189b42a4b05c4]: Commencement: [Sch. rule 25](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/25) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
 
-[^key-3ca06b00e94a4ed8785b66984d6b943c]: Commencement: Sch. rule 26 in force at 4.1.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/2)
+[^c-3ca06b00e94a4ed8785b66984d6b943c]: Commencement: Sch. rule 26 in force at 4.1.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/2)
 
-[^key-f8791a9fec9ee3bb18fa0e118876df6c]: Commencement: [Sch. rule 27](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/27) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
+[^c-f8791a9fec9ee3bb18fa0e118876df6c]: Commencement: [Sch. rule 27](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/27) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
 
-[^key-eb914fbed8f7e46b93808ef6287409e8]: Commencement: [Sch. rule 28](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/28) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
+[^c-eb914fbed8f7e46b93808ef6287409e8]: Commencement: [Sch. rule 28](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/28) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
 
-[^key-93a4fb1f5f54eb07c7d6bfbd4b646ba1]: Commencement: [Sch. rule 29](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/29) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
+[^c-93a4fb1f5f54eb07c7d6bfbd4b646ba1]: Commencement: [Sch. rule 29](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/29) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
 
-[^key-b6f0adbf41ff08c3a77210e873328265]: Commencement: [Sch. rule 30](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/30) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
+[^c-b6f0adbf41ff08c3a77210e873328265]: Commencement: [Sch. rule 30](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/30) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
 
-[^key-2ec6fc53b1ca35b2343901a3947a6602]: Commencement: [Sch. rule 31](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/31) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
+[^c-2ec6fc53b1ca35b2343901a3947a6602]: Commencement: [Sch. rule 31](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/31) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
 
-[^key-e8aebc31872a9bcf06972499e181a63e]: Commencement: [Sch. rule 32](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/32) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
+[^c-e8aebc31872a9bcf06972499e181a63e]: Commencement: [Sch. rule 32](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/32) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
 
-[^key-c6714b11b9998c63534b274b87f963be]: Commencement: [Sch. rule 33](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/33) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)
+[^c-c6714b11b9998c63534b274b87f963be]: Commencement: [Sch. rule 33](https://www.legislation.gov.uk/uksi/2010/1617/schedule/paragraph/33) in force at 27.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1617/article/1/1)

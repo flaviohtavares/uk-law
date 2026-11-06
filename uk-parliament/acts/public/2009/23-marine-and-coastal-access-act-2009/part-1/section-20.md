@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Agreements with certain harbour authorities[^key-2747ef592af28f3e7890c35bf5741efe]
+## 20. Agreements with certain harbour authorities[^c-2747ef592af28f3e7890c35bf5741efe]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2747ef592af28f3e7890c35bf5741efe]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2009/23/section/20) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/2)
+[^c-2747ef592af28f3e7890c35bf5741efe]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2009/23/section/20) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/2)

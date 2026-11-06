@@ -39,7 +39,7 @@ The Minister for the Cabinet Office makes these Regulations in exercise of the p
 
 These Regulations are made with the consent of the Welsh Ministers in accordance with section 127(3) of that Act.
 
-## 1. Citation, extent and interpretation[^key-d72d76770ecacac821d8ab1ed07eecce]
+## 1. Citation, extent and interpretation[^c-d72d76770ecacac821d8ab1ed07eecce]
 
 (1) These Regulations may be cited as the Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) Regulations 2024.
 
@@ -53,17 +53,17 @@ These Regulations are made with the consent of the Welsh Ministers in accordance
 - “**the 2016 CC Regulations**” means the Concession Contract Regulations 2016[^f00004];
 - “**the 2016 UC Regulations**” means the Utilities Contracts Regulations 2016[^f00005].
 
-## 2. Provisions coming into force[^key-31bc7a306a571b23fc9f6f1f46ace104]
+## 2. Provisions coming into force[^c-31bc7a306a571b23fc9f6f1f46ace104]
 
 (1) Subsections (2), (3) and (4) of section 115 of the Act come into force the day after the day on which these Regulations are made.
 
-(2) The provisions of the Act set out in the Schedule come into force on 24th February 2025[^key-b96dd7145a1bc43145d5b5b6ff608b09].
+(2) The provisions of the Act set out in the Schedule come into force on 24th February 2025[^c-b96dd7145a1bc43145d5b5b6ff608b09].
 
-## 3. Saving provisions relating to the 2011 Regulations[^key-58127bddb4ff43114e22ea3d3bc9577b]
+## 3. Saving provisions relating to the 2011 Regulations[^c-58127bddb4ff43114e22ea3d3bc9577b]
 
 (1) Despite the revocation of the 2011 Regulations by section 119(1) of, and paragraph 4 of Schedule 11 to, the Act, those Regulations continue to apply in respect of procurement procedures, contracts and framework agreements in any of the circumstances described in paragraph (2).
 
-(2) The circumstances are that, with reference to the 2011 Regulations, before 24th February 2025[^key-23018277ffc516c351215f84a12d5de7]—
+(2) The circumstances are that, with reference to the 2011 Regulations, before 24th February 2025[^c-23018277ffc516c351215f84a12d5de7]—
 
 - (a) a contracting authority has awarded the contract or concluded the framework agreement;
 - (b) a contracting authority has sought offers in relation to a proposed Part B services contract or a framework agreement in respect of which only Part B services contracts can be based or awarded, other than one excluded by virtue of regulation 7 or 9, for any services referred to in sub-paragraph (c), (d) or (e) of regulation 6(1);
@@ -76,7 +76,7 @@ These Regulations are made with the consent of the Welsh Ministers in accordance
 
 (4) Terms used in this regulation have the same meaning as in the 2011 Regulations[^f00006] as they had effect immediately before 24th February 2025.
 
-## 4. Transitional provisions relating to repeat services or works under a contract awarded under the 2011 Regulations[^key-6db4472c67d7eeda09bef19f234a7556]
+## 4. Transitional provisions relating to repeat services or works under a contract awarded under the 2011 Regulations[^c-6db4472c67d7eeda09bef19f234a7556]
 
 (1) This regulation applies for the purposes of determining whether a contracting authority may award a public contract directly under section 41 of the Act (direct award in special cases) in a case where—
 
@@ -103,13 +103,13 @@ These Regulations are made with the consent of the Welsh Ministers in accordance
 - “**existing services or works**” means services or works already supplied, or contracted to be supplied, to the contracting authority;
 - “**existing supplier**” means the supplier that has already supplied, or contracted to supply, the existing services or works.
 
-## 5. Saving provisions relating to the 2015 Regulations[^key-428f9469d92b1a63140fde09a3d6fe0d]
+## 5. Saving provisions relating to the 2015 Regulations[^c-428f9469d92b1a63140fde09a3d6fe0d]
 
-(1) Despite the revocation of the 2015 Regulations by section 119(1) of, and paragraph 5 of Schedule 11 to, the Act, those Regulations continue to apply, as modified by paragraph (4)(b) , (c), (d) and (e)[^key-97dde8ab012d7f74d2d2239094af920f], in respect of procurement procedures, contracts, framework agreements and dynamic purchasing systems in any of the circumstances described in paragraphs (2) and (3).
+(1) Despite the revocation of the 2015 Regulations by section 119(1) of, and paragraph 5 of Schedule 11 to, the Act, those Regulations continue to apply, as modified by paragraph (4)(b) , (c), (d) and (e)[^c-97dde8ab012d7f74d2d2239094af920f], in respect of procurement procedures, contracts, framework agreements and dynamic purchasing systems in any of the circumstances described in paragraphs (2) and (3).
 
 (2) The circumstances in this paragraph are that, with reference to the 2015 Regulations, before 26th May 2023, a sub-central contracting authority submitted for publication in accordance with regulation 51 (publication on the UK e-notification service) a prior information notice as a call for competition in accordance with regulation 26(9).
 
-(3) The circumstances in this paragraph are that, with reference to the 2015 Regulations, before 24th February 2025[^key-ec0b8c0855177b97268f1ddba8ce8f0d]—
+(3) The circumstances in this paragraph are that, with reference to the 2015 Regulations, before 24th February 2025[^c-ec0b8c0855177b97268f1ddba8ce8f0d]—
 
 - (a) a contracting authority has awarded the contract, concluded the framework agreement or established the dynamic purchasing system;
 - (b) a contracting authority has contacted an economic operator in order to commence the negotiated procedure without prior publication in any of the specific cases and circumstances set out in regulation 32;
@@ -125,32 +125,32 @@ These Regulations are made with the consent of the Welsh Ministers in accordance
 
 - (a) the Act does not apply;
 - (b) the period of validity of a dynamic purchasing system under regulation 34 of those Regulations—
-  - (i) may not be changed after 23rd February 2026[^key-71736f5c1944e9ef7cd756964a3958e7], and
-  - (ii) expires (if it has not already done so) at the end of 23rd February 2029[^key-6c9b627e458e3143e8f149c269333c92];
+  - (i) may not be changed after 23rd February 2026[^c-71736f5c1944e9ef7cd756964a3958e7], and
+  - (ii) expires (if it has not already done so) at the end of 23rd February 2029[^c-6c9b627e458e3143e8f149c269333c92];
 - (c) regulation 113 of those Regulations (payment of undisputed invoices within 30 days by contracting authorities, contractors and subcontractors) is to be read as if—
   - (i) in paragraph (7), in the words before sub-paragraph (a)—
-    - (aa) for “Every financial year” there were substituted “In every period, the first being the period beginning with 24th February 2025 and ending with 30th September 2025[^key-6672ce2c13319c3cc5c5043624acecd8] and subsequent periods being each subsequent successive period of six months”, and
+    - (aa) for “Every financial year” there were substituted “In every period, the first being the period beginning with 24th February 2025 and ending with 30th September 2025[^c-6672ce2c13319c3cc5c5043624acecd8] and subsequent periods being each subsequent successive period of six months”, and
     - (bb) after “preceding”, for “financial year” there were substituted “period”,
   - (ii) in paragraph (8)(b), for “financial year” there were substituted “period”, and
-  - (iii) in paragraph (11), the definition of “financial year” were omitted ;[^key-84e135b8caec49974730c55703c2ec33]
+  - (iii) in paragraph (11), the definition of “financial year” were omitted ;[^c-84e135b8caec49974730c55703c2ec33]
 - (d) in relation to framework agreements, Schedule 4A to the 2015 Regulations (international trade agreements) is to be read as if, at the end was inserted—
 
   > Strategic Partnership and Cooperation Agreement between the United Kingdom of Great Britain and Northern Ireland and the Republic of Kazakhstan signed at Astana on 24th April 2024.
   >
   > Agreement on Partnership and Cooperation between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Republic of Iraq signed at London on 14th January 2025.
   >
-  > Comprehensive Economic and Trade Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Republic of India, signed at Buckinghamshire on 24th July 2025.[^key-183a6e60ce5c036b0d1154aab5be2b30]
+  > Comprehensive Economic and Trade Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Republic of India, signed at Buckinghamshire on 24th July 2025.[^c-183a6e60ce5c036b0d1154aab5be2b30]
 
   ;
 - (e) in relation to dynamic purchasing systems, Schedule 4A to the 2015 Regulations is to be read as if, at the end was inserted—
 
   > Agreement on Partnership and Cooperation between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Republic of Iraq signed at London on 14th January 2025.
   >
-  > Comprehensive Economic and Trade Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Republic of India, signed at Buckinghamshire on 24th July 2025.[^key-1f34ec6272a47cfa0204815bd1a1e518]
+  > Comprehensive Economic and Trade Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Republic of India, signed at Buckinghamshire on 24th July 2025.[^c-1f34ec6272a47cfa0204815bd1a1e518]
 
 (5) Terms used in this regulation have the same meaning as in the 2015 Regulations[^f00007] as they had effect immediately before 24th February 2025.
 
-## 6. Transitional provisions relating to repeat services or works supplied under a contract awarded under the 2015 Regulations[^key-9177edf6e8293f11ed59669e19e9016a]
+## 6. Transitional provisions relating to repeat services or works supplied under a contract awarded under the 2015 Regulations[^c-9177edf6e8293f11ed59669e19e9016a]
 
 (1) This regulation applies for the purposes of determining whether a contracting authority may award a public contract directly under section 41 of the Act (direct award in special cases) in a case where—
 
@@ -177,9 +177,9 @@ These Regulations are made with the consent of the Welsh Ministers in accordance
 - “**existing services or works**” means services or works already supplied, or contracted to be supplied, to the contracting authority;
 - “**existing supplier**” means the supplier that has already supplied, or contracted to supply, the existing services or works.
 
-## 7. Saving provisions relating to the 2016 CC Regulations[^key-2c2e8ac34a236b6e7412a79ee7214334]
+## 7. Saving provisions relating to the 2016 CC Regulations[^c-2c2e8ac34a236b6e7412a79ee7214334]
 
-(1) Despite the revocation of the 2016 CC Regulations by section 119(1) of, and paragraph 6 of Schedule 11 to, the Act, those Regulations continue to apply in respect of procurement procedures and contracts where, with reference to those Regulations, before 24th February 2025[^key-40ee93e66cbe0a04c932e1ca76795fef], a contracting authority has—
+(1) Despite the revocation of the 2016 CC Regulations by section 119(1) of, and paragraph 6 of Schedule 11 to, the Act, those Regulations continue to apply in respect of procurement procedures and contracts where, with reference to those Regulations, before 24th February 2025[^c-40ee93e66cbe0a04c932e1ca76795fef], a contracting authority has—
 
 - (a) awarded the contract, or
 - (b) submitted—
@@ -192,13 +192,13 @@ These Regulations are made with the consent of the Welsh Ministers in accordance
 
 (3) Terms used in paragraph (1) have the same meaning as in the 2016 CC Regulations[^f00008] as they had effect immediately before 24th February 2025.
 
-## 8. Saving provisions relating to the 2016 UC Regulations[^key-601b26f236e73498f6dbbd94ae3ce6a4]
+## 8. Saving provisions relating to the 2016 UC Regulations[^c-601b26f236e73498f6dbbd94ae3ce6a4]
 
-(1) Despite the revocation of the 2016 UC Regulations by section 119(1) of, and paragraph 7 of Schedule 11 to, the Act, those Regulations continue to apply , as modified by paragraph 4(b), (c), (d) and (e),[^key-3cf8a0d2e222c28c1ba183cb1e96659c] in respect of procurement procedures, contracts, framework agreements , dynamic purchasing systems and qualification systems[^key-6ab504c4063f4d5e05f4ef874e055de9] in any of the circumstances described in paragraphs (2) and (3).
+(1) Despite the revocation of the 2016 UC Regulations by section 119(1) of, and paragraph 7 of Schedule 11 to, the Act, those Regulations continue to apply , as modified by paragraph 4(b), (c), (d) and (e),[^c-3cf8a0d2e222c28c1ba183cb1e96659c] in respect of procurement procedures, contracts, framework agreements , dynamic purchasing systems and qualification systems[^c-6ab504c4063f4d5e05f4ef874e055de9] in any of the circumstances described in paragraphs (2) and (3).
 
 (2) The circumstances in this paragraph are that, with reference to the 2016 UC Regulations, before 26th May 2023, a utility submitted for publication in accordance with regulation 71 (publication on the UK e-notification service) a periodic indicative notice as a call for competition in accordance with regulation 44(4)(a)[^f00009].
 
-(3) The circumstances in this paragraph are that, with reference to the 2016 UC Regulations, before 24th February 2025[^key-e33ff91aed39da0e799ab359d70de9d6]—
+(3) The circumstances in this paragraph are that, with reference to the 2016 UC Regulations, before 24th February 2025[^c-e33ff91aed39da0e799ab359d70de9d6]—
 
 - (a) a utility has awarded the contract, concluded the framework agreement or established the dynamic purchasing system;
 - (b) a utility has contacted an economic operator in respect of a proposed contract to which regulation 33 (contracts subject to special arrangements) applies;
@@ -212,29 +212,29 @@ These Regulations are made with the consent of the Welsh Ministers in accordance
 
 - (a) the Act does not apply;
 - (b) the period of validity of a dynamic purchasing system under regulation 52 of the 2016 UC Regulations—
-  - (i) may not be changed after 23rd February 2026[^key-4f77e0f27761dbedaf6d2de3a5a09276], and
-  - (ii) expires (if it has not already done so) at the end of 23rd February 2029[^key-d67efa37260cb33480e762533d8389c9];
+  - (i) may not be changed after 23rd February 2026[^c-4f77e0f27761dbedaf6d2de3a5a09276], and
+  - (ii) expires (if it has not already done so) at the end of 23rd February 2029[^c-d67efa37260cb33480e762533d8389c9];
 - (c) the period of validity of a qualification system under regulation 68 of the 2016 UC Regulations—
   - (i) may not be changed after 23rd February 2026, and
-  - (ii) expires (if it has not already done so) at the end of 23rd February 2029 ;[^key-94f137f310a527cc4ca822fe4c00690d]
+  - (ii) expires (if it has not already done so) at the end of 23rd February 2029 ;[^c-94f137f310a527cc4ca822fe4c00690d]
 - (d) in relation to framework agreements, Schedule 3 to the 2016 UC Regulations (international trade agreements) is to be read as if, at the end was inserted—
 
   > Strategic Partnership and Cooperation Agreement between the United Kingdom of Great Britain and Northern Ireland and the Republic of Kazakhstan signed at Astana on 24th April 2024.
   >
   > Agreement on Partnership and Cooperation between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Republic of Iraq signed at London on 14th January 2025.
   >
-  > Comprehensive Economic and Trade Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Republic of India, signed at Buckinghamshire on 24th July 2025.[^key-ec75b123a2fc0bc45b95dc2dc21675f0]
+  > Comprehensive Economic and Trade Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Republic of India, signed at Buckinghamshire on 24th July 2025.[^c-ec75b123a2fc0bc45b95dc2dc21675f0]
 
   ;
 - (e) in relation to dynamic purchasing systems and qualification systems, Schedule 3 to the 2016 UC Regulations is to be read as if, at the end was inserted—
 
   > Agreement on Partnership and Cooperation between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Republic of Iraq signed at London on 14th January 2025.
   >
-  > Comprehensive Economic and Trade Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Republic of India, signed at Buckinghamshire on 24th July 2025.[^key-835230f908992598df29eed8e0f5ae1c]
+  > Comprehensive Economic and Trade Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Republic of India, signed at Buckinghamshire on 24th July 2025.[^c-835230f908992598df29eed8e0f5ae1c]
 
 (5) Terms used in this regulation have the same meaning as in the 2016 UC Regulations[^f00010] as they had effect immediately before 24th February 2025.
 
-## 9. Transitional provisions relating to repeat services or works previously supplied under a contract awarded under the 2016 UC Regulations[^key-202b0c132b04515095e98879f447409d]
+## 9. Transitional provisions relating to repeat services or works previously supplied under a contract awarded under the 2016 UC Regulations[^c-202b0c132b04515095e98879f447409d]
 
 (1) This regulation applies for the purposes of determining whether a contracting authority may award a public contract directly under section 41 of the Act (direct award in special cases) in a case where—
 
@@ -269,11 +269,11 @@ Cabinet Office
 
 22nd May 2024
 
-## Schedule — Provisions of the Procurement Act 2023 coming into force on 24th February 2025[^key-fef61ba8298f2fd442bf9d12dd0f4d9c][^key-f5264596bf31b40206a8395c84e28296]
+## Schedule — Provisions of the Procurement Act 2023 coming into force on 24th February 2025[^c-fef61ba8298f2fd442bf9d12dd0f4d9c][^c-f5264596bf31b40206a8395c84e28296]
 
 Regulation 2(2)
 
-[^key-fef61ba8298f2fd442bf9d12dd0f4d9c]
+[^c-fef61ba8298f2fd442bf9d12dd0f4d9c]
 
 - Section 1 (procurement and covered procurement).
 - Section 2 (contracting authorities).
@@ -359,7 +359,7 @@ Regulation 2(2)
 - In section 89 (treaty state suppliers), subsections (2), (5) and (6).
 - Section 90 (treaty state suppliers: non-discrimination).
 - Section 92 (trade disputes).
-- Section 93 (pipeline notices).[^key-439261e31eba8675fce6da4d7847c659]
+- Section 93 (pipeline notices).[^c-439261e31eba8675fce6da4d7847c659]
 - Section 94 (general exemptions from duties to publish or disclose information).
 - In section 95 (notices, documents and information: regulations and online system), subsections (4) and (5).
 - Section 96 (electronic communications).
@@ -375,7 +375,7 @@ Regulation 2(2)
 - Section 107 (Part 9 proceedings and closed material procedure).
 - Section 108 (procurement investigations).
 - Section 109 (recommendations following procurement investigations).
-- Section 110[^key-9919ee612dbc78bc3d7ea4f8f9e52d6a] (guidance following procurement investigations).
+- Section 110[^c-9919ee612dbc78bc3d7ea4f8f9e52d6a] (guidance following procurement investigations).
 - Section 112 (Northern Ireland department: restrictions on the exercise of powers).
 - In section 116 (disapplication of duty in section 17 of the Local Government Act 1988), subsection (1).
 - Section 118 (concurrent powers and the Government of Wales Act 2006).
@@ -443,7 +443,7 @@ The following provisions of the Procurement Act 2023 have been brought into forc
 
 [^f00001]: Footnote: [2023 c. 54](https://www.legislation.gov.uk/ukpga/2023/54). For the meaning of “Minister of the Crown”, see section 123(1) and the definition in the Ministers of the Crown Act [1975 (c. 26)](https://www.legislation.gov.uk/ukpga/1975/26) to which that provision cross-refers.
 
-[^key-d72d76770ecacac821d8ab1ed07eecce]: Commencement: Reg. 1 in force at made date
+[^c-d72d76770ecacac821d8ab1ed07eecce]: Commencement: Reg. 1 in force at made date
 
 [^f00002]: Footnote: [S.I. 2011/1848](https://www.legislation.gov.uk/uksi/2011/1848), amended by [S.I. 2011/2053](https://www.legislation.gov.uk/uksi/2011/2053), [2013/1431](https://www.legislation.gov.uk/uksi/2013/1431), [2015/102](https://www.legislation.gov.uk/uksi/2015/102), [2016/275](https://www.legislation.gov.uk/uksi/2016/275), [696](https://www.legislation.gov.uk/uksi/2016/696), [2017/692](https://www.legislation.gov.uk/uksi/2017/692), [2019/624](https://www.legislation.gov.uk/uksi/2019/624), [697](https://www.legislation.gov.uk/uksi/2019/697), [2020/1450](https://www.legislation.gov.uk/uksi/2020/1450), [2021/1221](https://www.legislation.gov.uk/uksi/2021/1221) and by [S.S.I. 2012/88](https://www.legislation.gov.uk/ssi/2012/88), [89](https://www.legislation.gov.uk/ssi/2012/89), [2015/446](https://www.legislation.gov.uk/ssi/2015/446).
 
@@ -453,74 +453,74 @@ The following provisions of the Procurement Act 2023 have been brought into forc
 
 [^f00005]: Footnote: [S.I. 2016/274](https://www.legislation.gov.uk/uksi/2016/274), amended by [S.I. 2016/696](https://www.legislation.gov.uk/uksi/2016/696), [2019/489](https://www.legislation.gov.uk/uksi/2019/489), [624](https://www.legislation.gov.uk/uksi/2019/624), [2020/1319](https://www.legislation.gov.uk/uksi/2020/1319), [2021/573](https://www.legislation.gov.uk/uksi/2021/573), [787](https://www.legislation.gov.uk/uksi/2021/787), [872](https://www.legislation.gov.uk/uksi/2021/872), [1221](https://www.legislation.gov.uk/uksi/2021/1221), [1300](https://www.legislation.gov.uk/uksi/2021/1300), [2022/766](https://www.legislation.gov.uk/uksi/2022/766), [2023/484](https://www.legislation.gov.uk/uksi/2023/484), [567 (W. 88)](https://www.legislation.gov.uk/wsi/2023/567), [1117](https://www.legislation.gov.uk/uksi/2023/1117) and [1169](https://www.legislation.gov.uk/uksi/2023/1169).
 
-[^key-31bc7a306a571b23fc9f6f1f46ace104]: Commencement: Reg. 2 in force at made date
+[^c-31bc7a306a571b23fc9f6f1f46ace104]: Commencement: Reg. 2 in force at made date
 
-[^key-b96dd7145a1bc43145d5b5b6ff608b09]: Textual amendment: Words in reg. 2(2) substituted (17.9.2024) by [The Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) (Amendment) Regulations 2024 (S.I. 2024/959)](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/2)
+[^c-b96dd7145a1bc43145d5b5b6ff608b09]: Textual amendment: Words in reg. 2(2) substituted (17.9.2024) by [The Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) (Amendment) Regulations 2024 (S.I. 2024/959)](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/2)
 
-[^key-58127bddb4ff43114e22ea3d3bc9577b]: Commencement: Reg. 3 in force at made date
+[^c-58127bddb4ff43114e22ea3d3bc9577b]: Commencement: Reg. 3 in force at made date
 
-[^key-23018277ffc516c351215f84a12d5de7]: Textual amendment: Words in reg. 3 substituted (17.9.2024) by [The Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) (Amendment) Regulations 2024 (S.I. 2024/959)](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/3)
+[^c-23018277ffc516c351215f84a12d5de7]: Textual amendment: Words in reg. 3 substituted (17.9.2024) by [The Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) (Amendment) Regulations 2024 (S.I. 2024/959)](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/3)
 
 [^f00006]: Footnote: For the meaning of “competitive dialogue procedure”, “contract notice”, “framework agreement”, “negotiated procedure”, “Part B services contract” and “restricted procedure”, see regulation 3(1) to (3), for the meaning of “contracting authority”, see regulation 4, and for the meaning of “economic operator”, see regulation 5(1) of the 2011 Regulations.
 
-[^key-6db4472c67d7eeda09bef19f234a7556]: Commencement: Reg. 4 in force at made date
+[^c-6db4472c67d7eeda09bef19f234a7556]: Commencement: Reg. 4 in force at made date
 
-[^key-428f9469d92b1a63140fde09a3d6fe0d]: Commencement: Reg. 5 in force at made date
+[^c-428f9469d92b1a63140fde09a3d6fe0d]: Commencement: Reg. 5 in force at made date
 
-[^key-97dde8ab012d7f74d2d2239094af920f]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2024/716/regulation/5/1) substituted (30.12.2025) by [The Procurement Act 2023 (Specified International Agreements and Saving Provision) (Amendment) Regulations 2025 (S.I. 2025/1337)](https://www.legislation.gov.uk/uksi/2025/1337), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1337/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2025/1337/regulation/3/2/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1337/regulation/4))
+[^c-97dde8ab012d7f74d2d2239094af920f]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2024/716/regulation/5/1) substituted (30.12.2025) by [The Procurement Act 2023 (Specified International Agreements and Saving Provision) (Amendment) Regulations 2025 (S.I. 2025/1337)](https://www.legislation.gov.uk/uksi/2025/1337), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1337/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2025/1337/regulation/3/2/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1337/regulation/4))
 
-[^key-ec0b8c0855177b97268f1ddba8ce8f0d]: Textual amendment: Words in reg. 5 substituted (17.9.2024) by [The Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) (Amendment) Regulations 2024 (S.I. 2024/959)](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/4/a)
+[^c-ec0b8c0855177b97268f1ddba8ce8f0d]: Textual amendment: Words in reg. 5 substituted (17.9.2024) by [The Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) (Amendment) Regulations 2024 (S.I. 2024/959)](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/4/a)
 
-[^key-71736f5c1944e9ef7cd756964a3958e7]: Textual amendment: Words in reg. 5(4)(b)(i) substituted (17.9.2024) by [The Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) (Amendment) Regulations 2024 (S.I. 2024/959)](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/4/b)
+[^c-71736f5c1944e9ef7cd756964a3958e7]: Textual amendment: Words in reg. 5(4)(b)(i) substituted (17.9.2024) by [The Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) (Amendment) Regulations 2024 (S.I. 2024/959)](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/4/b)
 
-[^key-6c9b627e458e3143e8f149c269333c92]: Textual amendment: Words in reg. 5(4)(b)(ii) substituted (17.9.2024) by [The Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) (Amendment) Regulations 2024 (S.I. 2024/959)](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/4/c)
+[^c-6c9b627e458e3143e8f149c269333c92]: Textual amendment: Words in reg. 5(4)(b)(ii) substituted (17.9.2024) by [The Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) (Amendment) Regulations 2024 (S.I. 2024/959)](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/4/c)
 
-[^key-6672ce2c13319c3cc5c5043624acecd8]: Textual amendment: Words in reg. 5(4)(c)(i)(aa) substituted (17.9.2024) by [The Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) (Amendment) Regulations 2024 (S.I. 2024/959)](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(4)(d)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/4/d)
+[^c-6672ce2c13319c3cc5c5043624acecd8]: Textual amendment: Words in reg. 5(4)(c)(i)(aa) substituted (17.9.2024) by [The Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) (Amendment) Regulations 2024 (S.I. 2024/959)](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(4)(d)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/4/d)
 
-[^key-84e135b8caec49974730c55703c2ec33]: Textual amendment: [Reg. 5(d)](https://www.legislation.gov.uk/uksi/2024/716/regulation/5/d)[(e)](https://www.legislation.gov.uk/uksi/2024/716/regulation/5/e) inserted (30.12.2025) by [The Procurement Act 2023 (Specified International Agreements and Saving Provision) (Amendment) Regulations 2025 (S.I. 2025/1337)](https://www.legislation.gov.uk/uksi/2025/1337), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1337/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2025/1337/regulation/3/2/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1337/regulation/4))
+[^c-84e135b8caec49974730c55703c2ec33]: Textual amendment: [Reg. 5(d)](https://www.legislation.gov.uk/uksi/2024/716/regulation/5/d)[(e)](https://www.legislation.gov.uk/uksi/2024/716/regulation/5/e) inserted (30.12.2025) by [The Procurement Act 2023 (Specified International Agreements and Saving Provision) (Amendment) Regulations 2025 (S.I. 2025/1337)](https://www.legislation.gov.uk/uksi/2025/1337), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1337/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2025/1337/regulation/3/2/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1337/regulation/4))
 
-[^key-183a6e60ce5c036b0d1154aab5be2b30]: Textual amendment: Words in [reg. 5(4)(d)](https://www.legislation.gov.uk/uksi/2024/716/regulation/5/4/d) inserted (30.3.2026) by [The Procurement Act 2023 (Specified International Agreements and Saving Provision) (Amendment) Regulations 2026 (S.I. 2026/297)](https://www.legislation.gov.uk/uksi/2026/297), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/297/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2026/297/regulation/4/2/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/297/regulation/6))
+[^c-183a6e60ce5c036b0d1154aab5be2b30]: Textual amendment: Words in [reg. 5(4)(d)](https://www.legislation.gov.uk/uksi/2024/716/regulation/5/4/d) inserted (30.3.2026) by [The Procurement Act 2023 (Specified International Agreements and Saving Provision) (Amendment) Regulations 2026 (S.I. 2026/297)](https://www.legislation.gov.uk/uksi/2026/297), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/297/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2026/297/regulation/4/2/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/297/regulation/6))
 
-[^key-1f34ec6272a47cfa0204815bd1a1e518]: Textual amendment: Words in [reg. 5(4)(e)](https://www.legislation.gov.uk/uksi/2024/716/regulation/5/4/e) inserted (30.3.2026) by [The Procurement Act 2023 (Specified International Agreements and Saving Provision) (Amendment) Regulations 2026 (S.I. 2026/297)](https://www.legislation.gov.uk/uksi/2026/297), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/297/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2026/297/regulation/4/2/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/297/regulation/6))
+[^c-1f34ec6272a47cfa0204815bd1a1e518]: Textual amendment: Words in [reg. 5(4)(e)](https://www.legislation.gov.uk/uksi/2024/716/regulation/5/4/e) inserted (30.3.2026) by [The Procurement Act 2023 (Specified International Agreements and Saving Provision) (Amendment) Regulations 2026 (S.I. 2026/297)](https://www.legislation.gov.uk/uksi/2026/297), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/297/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2026/297/regulation/4/2/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/297/regulation/6))
 
 [^f00007]: Footnote: For the meaning of “call for competition”, “contest notice”, “contract notice”, “contracting authority”, “Contracts Finder”, “dynamic purchasing system”, “economic operator”, “framework agreement”, “negotiated procedure” and “sub-central contracting authority”, see regulation 2(1) of the 2015 Regulations. For the meaning of “contract award opportunity”, “the UK e-notification service” and “voluntary transparency notice”, see, respectively, regulations 110(6), 51(5) and 99(4) (as amended by [S.I. 2020/1319](https://www.legislation.gov.uk/uksi/2020/1319)), of those Regulations.
 
-[^key-9177edf6e8293f11ed59669e19e9016a]: Commencement: Reg. 6 in force at made date
+[^c-9177edf6e8293f11ed59669e19e9016a]: Commencement: Reg. 6 in force at made date
 
-[^key-2c2e8ac34a236b6e7412a79ee7214334]: Commencement: Reg. 7 in force at made date
+[^c-2c2e8ac34a236b6e7412a79ee7214334]: Commencement: Reg. 7 in force at made date
 
-[^key-40ee93e66cbe0a04c932e1ca76795fef]: Textual amendment: Words in reg. 7 substituted (17.9.2024) by [The Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) (Amendment) Regulations 2024 (S.I. 2024/959)](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/5)
+[^c-40ee93e66cbe0a04c932e1ca76795fef]: Textual amendment: Words in reg. 7 substituted (17.9.2024) by [The Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) (Amendment) Regulations 2024 (S.I. 2024/959)](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/5)
 
 [^f00008]: Footnote: For the meaning of ”prior information notice”, see regulation 2(1) of the 2016 CC Regulations. For the meaning of “concession notice” and “contracting authority” see, respectively, regulations 6 and 4 of those Regulations.
 
-[^key-601b26f236e73498f6dbbd94ae3ce6a4]: Commencement: Reg. 8 in force at made date
+[^c-601b26f236e73498f6dbbd94ae3ce6a4]: Commencement: Reg. 8 in force at made date
 
-[^key-3cf8a0d2e222c28c1ba183cb1e96659c]: Textual amendment: Words in reg. 8(1) inserted (30.12.2025) by [The Procurement Act 2023 (Specified International Agreements and Saving Provision) (Amendment) Regulations 2025 (S.I. 2025/1337)](https://www.legislation.gov.uk/uksi/2025/1337), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1337/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2025/1337/regulation/3/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1337/regulation/4))
+[^c-3cf8a0d2e222c28c1ba183cb1e96659c]: Textual amendment: Words in reg. 8(1) inserted (30.12.2025) by [The Procurement Act 2023 (Specified International Agreements and Saving Provision) (Amendment) Regulations 2025 (S.I. 2025/1337)](https://www.legislation.gov.uk/uksi/2025/1337), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1337/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2025/1337/regulation/3/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1337/regulation/4))
 
-[^key-6ab504c4063f4d5e05f4ef874e055de9]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2024/716/regulation/8/1) substituted (30.3.2026) by [The Procurement Act 2023 (Specified International Agreements and Saving Provision) (Amendment) Regulations 2026 (S.I. 2026/297)](https://www.legislation.gov.uk/uksi/2026/297), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/297/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2026/297/regulation/4/3/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2026/297/regulation/7))
+[^c-6ab504c4063f4d5e05f4ef874e055de9]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2024/716/regulation/8/1) substituted (30.3.2026) by [The Procurement Act 2023 (Specified International Agreements and Saving Provision) (Amendment) Regulations 2026 (S.I. 2026/297)](https://www.legislation.gov.uk/uksi/2026/297), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/297/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2026/297/regulation/4/3/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2026/297/regulation/7))
 
 [^f00009]: Footnote: Regulation 44(4)(a) was revoked by [S.I. 2023/484](https://www.legislation.gov.uk/uksi/2023/484) and by [S.I. 2023/567 (W. 88)](https://www.legislation.gov.uk/wsi/2023/567). For transitional provisions, see regulation 5 of each S.I.
 
-[^key-e33ff91aed39da0e799ab359d70de9d6]: Textual amendment: Words in reg. 8 substituted (17.9.2024) by [The Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) (Amendment) Regulations 2024 (S.I. 2024/959)](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/6/a)
+[^c-e33ff91aed39da0e799ab359d70de9d6]: Textual amendment: Words in reg. 8 substituted (17.9.2024) by [The Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) (Amendment) Regulations 2024 (S.I. 2024/959)](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/6/a)
 
-[^key-4f77e0f27761dbedaf6d2de3a5a09276]: Textual amendment: Words in reg. 8 substituted (17.9.2024) by [The Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) (Amendment) Regulations 2024 (S.I. 2024/959)](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/6/b)
+[^c-4f77e0f27761dbedaf6d2de3a5a09276]: Textual amendment: Words in reg. 8 substituted (17.9.2024) by [The Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) (Amendment) Regulations 2024 (S.I. 2024/959)](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/6/b)
 
-[^key-d67efa37260cb33480e762533d8389c9]: Textual amendment: Words in reg. 8 substituted (17.9.2024) by [The Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) (Amendment) Regulations 2024 (S.I. 2024/959)](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(6)(c)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/6/c)
+[^c-d67efa37260cb33480e762533d8389c9]: Textual amendment: Words in reg. 8 substituted (17.9.2024) by [The Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) (Amendment) Regulations 2024 (S.I. 2024/959)](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(6)(c)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/6/c)
 
-[^key-94f137f310a527cc4ca822fe4c00690d]: Textual amendment: Reg. 8(4)(d)(e) inserted (30.12.2025) by [The Procurement Act 2023 (Specified International Agreements and Saving Provision) (Amendment) Regulations 2025 (S.I. 2025/1337)](https://www.legislation.gov.uk/uksi/2025/1337), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1337/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2025/1337/regulation/3/3/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1337/regulation/4))
+[^c-94f137f310a527cc4ca822fe4c00690d]: Textual amendment: Reg. 8(4)(d)(e) inserted (30.12.2025) by [The Procurement Act 2023 (Specified International Agreements and Saving Provision) (Amendment) Regulations 2025 (S.I. 2025/1337)](https://www.legislation.gov.uk/uksi/2025/1337), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1337/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2025/1337/regulation/3/3/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1337/regulation/4))
 
-[^key-ec75b123a2fc0bc45b95dc2dc21675f0]: Textual amendment: Words in [reg. 8(4)(d)](https://www.legislation.gov.uk/uksi/2024/716/regulation/8/4/d) inserted (30.3.2026) by [The Procurement Act 2023 (Specified International Agreements and Saving Provision) (Amendment) Regulations 2026 (S.I. 2026/297)](https://www.legislation.gov.uk/uksi/2026/297), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/297/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2026/297/regulation/4/3/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2026/297/regulation/7))
+[^c-ec75b123a2fc0bc45b95dc2dc21675f0]: Textual amendment: Words in [reg. 8(4)(d)](https://www.legislation.gov.uk/uksi/2024/716/regulation/8/4/d) inserted (30.3.2026) by [The Procurement Act 2023 (Specified International Agreements and Saving Provision) (Amendment) Regulations 2026 (S.I. 2026/297)](https://www.legislation.gov.uk/uksi/2026/297), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/297/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2026/297/regulation/4/3/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2026/297/regulation/7))
 
-[^key-835230f908992598df29eed8e0f5ae1c]: Textual amendment: Words in [reg. 8(4)(e)](https://www.legislation.gov.uk/uksi/2024/716/regulation/8/4/e) inserted (30.3.2026) by [The Procurement Act 2023 (Specified International Agreements and Saving Provision) (Amendment) Regulations 2026 (S.I. 2026/297)](https://www.legislation.gov.uk/uksi/2026/297), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/297/regulation/1/2), [4(3)(c)](https://www.legislation.gov.uk/uksi/2026/297/regulation/4/3/c) (with [reg. 7](https://www.legislation.gov.uk/uksi/2026/297/regulation/7))
+[^c-835230f908992598df29eed8e0f5ae1c]: Textual amendment: Words in [reg. 8(4)(e)](https://www.legislation.gov.uk/uksi/2024/716/regulation/8/4/e) inserted (30.3.2026) by [The Procurement Act 2023 (Specified International Agreements and Saving Provision) (Amendment) Regulations 2026 (S.I. 2026/297)](https://www.legislation.gov.uk/uksi/2026/297), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/297/regulation/1/2), [4(3)(c)](https://www.legislation.gov.uk/uksi/2026/297/regulation/4/3/c) (with [reg. 7](https://www.legislation.gov.uk/uksi/2026/297/regulation/7))
 
 [^f00010]: Footnote: For the meaning of “call for competition”, “contest notice”, “contract notice”, “dynamic purchasing system”, “economic operator”, “framework agreement”, “periodic indicative notice” and “utilities”, see regulation 2(1) of the 2016 UC Regulations. For the meaning of “UK e-notification service”, see regulation 71(6) of those Regulations and regulation 51(5) of the 2015 Regulations. For the meaning of “negotiated procedure” and “qualification system”, see regulation 2(2) of the 2016 Regulations.
 
-[^key-202b0c132b04515095e98879f447409d]: Commencement: Reg. 9 in force at made date
+[^c-202b0c132b04515095e98879f447409d]: Commencement: Reg. 9 in force at made date
 
-[^key-fef61ba8298f2fd442bf9d12dd0f4d9c]: Commencement: Sch. in force at made date
+[^c-fef61ba8298f2fd442bf9d12dd0f4d9c]: Commencement: Sch. in force at made date
 
-[^key-f5264596bf31b40206a8395c84e28296]: Textual amendment: Words in Sch. heading substituted (17.9.2024) by [The Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) (Amendment) Regulations 2024 (S.I. 2024/959)](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a)
+[^c-f5264596bf31b40206a8395c84e28296]: Textual amendment: Words in Sch. heading substituted (17.9.2024) by [The Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) (Amendment) Regulations 2024 (S.I. 2024/959)](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a)
 
-[^key-439261e31eba8675fce6da4d7847c659]: Textual amendment: Words in Sch. inserted (17.9.2024) by [The Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) (Amendment) Regulations 2024 (S.I. 2024/959)](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/b)
+[^c-439261e31eba8675fce6da4d7847c659]: Textual amendment: Words in Sch. inserted (17.9.2024) by [The Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) (Amendment) Regulations 2024 (S.I. 2024/959)](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/b)
 
-[^key-9919ee612dbc78bc3d7ea4f8f9e52d6a]: Textual amendment: Word in Sch. substituted (17.9.2024) by [The Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) (Amendment) Regulations 2024 (S.I. 2024/959)](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(c)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/c)
+[^c-9919ee612dbc78bc3d7ea4f8f9e52d6a]: Textual amendment: Word in Sch. substituted (17.9.2024) by [The Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) (Amendment) Regulations 2024 (S.I. 2024/959)](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(c)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 89. Performance indicators and performance standards[^key-f93d6edbbe00f70d76e93a5e5573fbb8]
+## 89. Performance indicators and performance standards[^c-f93d6edbbe00f70d76e93a5e5573fbb8]
 
 *Extent: N.I.*
 
@@ -49,4 +49,4 @@ as appear to the Department to be appropriate.
 
 ## Annotations
 
-[^key-f93d6edbbe00f70d76e93a5e5573fbb8]: Commencement: S. 89 in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-f93d6edbbe00f70d76e93a5e5573fbb8]: Commencement: S. 89 in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)

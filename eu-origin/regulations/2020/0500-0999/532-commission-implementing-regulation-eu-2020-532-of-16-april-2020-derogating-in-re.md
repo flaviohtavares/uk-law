@@ -170,7 +170,7 @@ As regards point (k) of the first subparagraph, for the measures provided for in
 
 3. Member States that have already decided to reduce the control rates for certain schemes to 3 % in accordance with Article 36 of Implementing Regulation (EU) No 809/2014, may further reduce the percentages set out for those schemes in paragraph 2 of this Article to 1 %.
 
-4. The results of the checks carried out in accordance with paragraphs 2 and 3 of this Article shall not be taken into account in respect of the following claim year for the purposes of Articles 35 and 36 of Implementing Regulation (EU) No 809/2014. However, the increase in control rates that should have been applied in claim year 2020 in accordance with Article 35 of that Regulation, shall be applied by means of a corresponding increase in claim year 2021. *(affected by repeal, see note)*[^key-9a86d0a596eb4bd71b6c2203b1cbb3f0]
+4. The results of the checks carried out in accordance with paragraphs 2 and 3 of this Article shall not be taken into account in respect of the following claim year for the purposes of Articles 35 and 36 of Implementing Regulation (EU) No 809/2014. However, the increase in control rates that should have been applied in claim year 2020 in accordance with Article 35 of that Regulation, shall be applied by means of a corresponding increase in claim year 2021. *(affected by repeal, see note)*[^c-9a86d0a596eb4bd71b6c2203b1cbb3f0]
 
 5. For the purpose of applying the control rates set out in points (a), (e), (i) and (j) of the first subparagraph of paragraph 2, Member States shall give priority to areas other than those of permanent grassland and/or permanent crops.
 
@@ -321,7 +321,7 @@ This Regulation shall be binding in its entirety and directly applicable in all 
 
 [^f00019]: Footnote: Regulation (EU) No 1305/2013 of the European Parliament and of the Council of 17 December 2013 on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) and repealing Council Regulation (EC) No 1698/2005 ([OJ L 347, 20.12.2013, p. 487](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.347.01.0487.01.ENG)).
 
-[^key-9a86d0a596eb4bd71b6c2203b1cbb3f0]: Textual amendment: Words in Art. 4(4) omitted (S.) (1.1.2021) by virtue of [The Common Agricultural Policy (Simplifications and Improvements) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/349)](https://www.legislation.gov.uk/ssi/2020/349), [regs. 1](https://www.legislation.gov.uk/ssi/2020/349/regulation/1), [8(2)](https://www.legislation.gov.uk/ssi/2020/349/regulation/8/2)
+[^c-9a86d0a596eb4bd71b6c2203b1cbb3f0]: Textual amendment: Words in Art. 4(4) omitted (S.) (1.1.2021) by virtue of [The Common Agricultural Policy (Simplifications and Improvements) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/349)](https://www.legislation.gov.uk/ssi/2020/349), [regs. 1](https://www.legislation.gov.uk/ssi/2020/349/regulation/1), [8(2)](https://www.legislation.gov.uk/ssi/2020/349/regulation/8/2)
 
 [^c000001]: Textual amendment: Inserted by [Commission Implementing Regulation (EU) 2020/2086 of 14 December 2020 amending Implementing Regulation (EU) 2020/532 as regards a derogation from Implementing Regulation (EU) No 809/2014 for checks by monitoring relating to aid applications for area-related aid schemes and payment claims for area-related support measures](https://www.legislation.gov.uk/eur/2020/2086).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 203A. Action after inspection[^key-54c9c0e6a4a4c0f7362963308623d074]
+## 203A. Action after inspection[^c-54c9c0e6a4a4c0f7362963308623d074]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54c9c0e6a4a4c0f7362963308623d074]: Textual amendment: [S. 203A](https://www.legislation.gov.uk/ukpga/2008/17/section/203A) inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 30(4)](https://www.legislation.gov.uk/ukpga/2023/36/section/30/4), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(q)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/q)
+[^c-54c9c0e6a4a4c0f7362963308623d074]: Textual amendment: [S. 203A](https://www.legislation.gov.uk/ukpga/2008/17/section/203A) inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 30(4)](https://www.legislation.gov.uk/ukpga/2023/36/section/30/4), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(q)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/q)

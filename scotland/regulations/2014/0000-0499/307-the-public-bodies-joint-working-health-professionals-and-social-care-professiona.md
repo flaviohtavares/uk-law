@@ -48,13 +48,13 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 68(1) of the Public Bodies (Joint Working) (Scotland) Act 2014[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and interpretation[^key-d61a58279a09b3006031448c7378035e]
+## 1. Citation, commencement and interpretation[^c-d61a58279a09b3006031448c7378035e]
 
 (1) These Regulations may be cited as the Public Bodies (Joint Working) (Health Professionals and Social Care Professionals) (Scotland) Regulations 2014 and come into force on 12th December 2014.
 
 (2) In these Regulations “the 2014 Act” means the Public Bodies (Joint Working) (Scotland) Act 2014.
 
-## 2. Prescribed descriptions of health professionals[^key-3cf431dc7e581055b9b850c44cdd3842]
+## 2. Prescribed descriptions of health professionals[^c-3cf431dc7e581055b9b850c44cdd3842]
 
 The descriptions of persons prescribed for the definition of “health professionals” for the purpose of section 68(1) of the 2014 Act are—
 
@@ -65,11 +65,11 @@ The descriptions of persons prescribed for the definition of “health professio
 - (e) persons included in the register of osteopaths maintained by the Registrar of Osteopaths under section 2(3) (duty of Registrar to establish and maintain a register) of the Osteopaths Act 1993[^f00006];
 - (f) persons included in the register of chiropractors maintained by the Registrar of Chiropractors under section 2(3) (duty of Registrar to establish and maintain a register) of the Chiropractors Act 1994[^f00007];
 - (g) persons included in Parts 1 or 4 (pharmacists) or Parts 2 or 5 (pharmacy technicians) of the register maintained by the Registrar of the General Pharmaceutical Council under article 19(1) (establishment and maintenance of register) of the Pharmacy Order 2010[^f00008];
-- (h) persons included in the register of qualified nurses and midwives maintained by the Nursing and Midwifery Council under article 5(1) (establishment and maintenance of register) of the Nursing and Midwifery Order 2001[^f00009]; [^key-464dcf1871800e8afa3f1ed1c4a3fb05]...
-- (i) persons included in the register of members of the relevant professions maintained by the Health and Care Professions Council under article 5(1) (establishment and maintenance of register) of the Health and Social Work Professions Order 2001[^f00010]; or[^key-61799f53dc3be199311aba2e57b2eb21]
+- (h) persons included in the register of qualified nurses and midwives maintained by the Nursing and Midwifery Council under article 5(1) (establishment and maintenance of register) of the Nursing and Midwifery Order 2001[^f00009]; [^c-464dcf1871800e8afa3f1ed1c4a3fb05]...
+- (i) persons included in the register of members of the relevant professions maintained by the Health and Care Professions Council under article 5(1) (establishment and maintenance of register) of the Health and Social Work Professions Order 2001[^f00010]; or[^c-61799f53dc3be199311aba2e57b2eb21]
 - (j) persons included in the register kept under article 5 of the Anaesthesia Associates and Physician Associates Order 2024.
 
-## 3. Prescribed descriptions of social care professionals[^key-4911cdadfec71bc06930466907133fa4]
+## 3. Prescribed descriptions of social care professionals[^c-4911cdadfec71bc06930466907133fa4]
 
 The descriptions of persons prescribed for the definition of “social care professionals” for the purpose of section 68(1) of the 2014 Act are—
 
@@ -101,9 +101,9 @@ Regulation 3 sets out prescribed descriptions of social care professionals. In c
 
 [^f00001]: Footnote: [2014 asp 9](https://www.legislation.gov.uk/asp/2014/9). Section 68(1) contains a definition of “prescribed” which is relevant to the exercise of the powers under which these Regulations are made.
 
-[^key-d61a58279a09b3006031448c7378035e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2014/307/regulation/1) in force at 12.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/307/regulation/1/1)
+[^c-d61a58279a09b3006031448c7378035e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2014/307/regulation/1) in force at 12.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/307/regulation/1/1)
 
-[^key-3cf431dc7e581055b9b850c44cdd3842]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2014/307/regulation/2) in force at 12.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/307/regulation/1/1)
+[^c-3cf431dc7e581055b9b850c44cdd3842]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2014/307/regulation/2) in force at 12.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/307/regulation/1/1)
 
 [^f00002]: Footnote: [1983 c.54](https://www.legislation.gov.uk/ukpga/1983/54); section 2(1) was amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914).
 
@@ -121,13 +121,13 @@ Regulation 3 sets out prescribed descriptions of social care professionals. In c
 
 [^f00009]: Footnote: [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253).
 
-[^key-464dcf1871800e8afa3f1ed1c4a3fb05]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/ssi/2014/307/regulation/2) omitted (13.12.2024) by virtue of [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 5 para. 22(a)](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/22/a)
+[^c-464dcf1871800e8afa3f1ed1c4a3fb05]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/ssi/2014/307/regulation/2) omitted (13.12.2024) by virtue of [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 5 para. 22(a)](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/22/a)
 
 [^f00010]: Footnote: [S.I. 2002/254](https://www.legislation.gov.uk/uksi/2002/254). The title of the Order was substituted by section 213(6) of the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7) and article 1(1) was amended by section 213(4) of that Act.
 
-[^key-61799f53dc3be199311aba2e57b2eb21]: Textual amendment: [Reg. 2(j)](https://www.legislation.gov.uk/ssi/2014/307/regulation/2/j) and word inserted (13.12.2024) by [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 5 para. 22(b)](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/22/b)
+[^c-61799f53dc3be199311aba2e57b2eb21]: Textual amendment: [Reg. 2(j)](https://www.legislation.gov.uk/ssi/2014/307/regulation/2/j) and word inserted (13.12.2024) by [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 5 para. 22(b)](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/22/b)
 
-[^key-4911cdadfec71bc06930466907133fa4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2014/307/regulation/3) in force at 12.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/307/regulation/1/1)
+[^c-4911cdadfec71bc06930466907133fa4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2014/307/regulation/3) in force at 12.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/307/regulation/1/1)
 
 [^f00011]: Footnote: [2001 asp 8](https://www.legislation.gov.uk/asp/2001/8); section 44 was amended by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).
 

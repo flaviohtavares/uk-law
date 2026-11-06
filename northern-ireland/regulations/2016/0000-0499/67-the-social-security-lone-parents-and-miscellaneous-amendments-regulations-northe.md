@@ -48,7 +48,7 @@ The Secretary of State for Work and Pensions makes the following Regulations in 
 
 Those powers are exercisable by the Secretary of State by virtue of Article 4(1)(b) of the Welfare Reform (Northern Ireland) Order 2015.
 
-## 1. Citation, commencement and interpretation[^key-1825405f05f40350d3f24d006d5830cb]
+## 1. Citation, commencement and interpretation[^c-1825405f05f40350d3f24d006d5830cb]
 
 (1) These Regulations may be cited as the Social Security (Lone Parents and Miscellaneous Amendments) Regulations (Northern Ireland) 2016.
 
@@ -65,7 +65,7 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 
 (5) The Interpretation Act (Northern Ireland) 1954[^f00008] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Income Support Regulations[^key-1487f4f535b55f201a0b004b0779ec4e]
+## 2. Amendment of the Income Support Regulations[^c-1487f4f535b55f201a0b004b0779ec4e]
 
 In Schedule 1B[^f00009] (prescribed categories of person) of the Income Support Regulations for paragraph 1 substitute—
 
@@ -80,7 +80,7 @@ In Schedule 1B[^f00009] (prescribed categories of person) of the Income Support 
 
 .
 
-## 3. Amendment of the Jobseeker’s Allowance Regulations[^key-2bbfcd1a757fc5644274e7c3de950b31]
+## 3. Amendment of the Jobseeker’s Allowance Regulations[^c-2bbfcd1a757fc5644274e7c3de950b31]
 
 (1) The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00010] are amended in accordance with paragraphs (2) and (3).
 
@@ -106,19 +106,19 @@ In Schedule 1B[^f00009] (prescribed categories of person) of the Income Support 
 
 .
 
-## 4. Amendment of the Lone Parents Regulations[^key-fc86b4864cf22e4534eb6d2b43231f96]
+## 4. Amendment of the Lone Parents Regulations[^c-fc86b4864cf22e4534eb6d2b43231f96]
 
 In regulation 2ZA(1)(c) of the Lone Parents Regulations (requirement for certain lone parents to take part in an interview)[^f00013] for “4, 5 or 6” in both places where it occurs substitute “4”.
 
-## 5. Amendment of the Work-focused Interviews Regulations[^key-291eac1c48e727655d8fb76a2db37fd8]
+## 5. Amendment of the Work-focused Interviews Regulations[^c-291eac1c48e727655d8fb76a2db37fd8]
 
 In regulation 3A(1)(c) of the Work-focused Interviews Regulations (requirement for certain lone parents to take part in an interview)[^f00014] for “4, 5 or 6” in both places where it occurs substitute “4”.
 
-## 6. Amendment of the Employment and Support Allowance Regulations[^key-3aafce63c086dfb3f18658469a896e2d]
+## 6. Amendment of the Employment and Support Allowance Regulations[^c-3aafce63c086dfb3f18658469a896e2d]
 
 In regulation 7(1)(c)(iii) of the Employment and Support Allowance Regulations (Northern Ireland) 2008[^f00015] (circumstances where the condition that the assessment phase has ended before entitlement to the support component or work-related activity component arises does not apply) for “2008” substitute “2016”.
 
-## 7. Savings and transitional provisions applicable to certain lone parents following a full-time course[^key-a26bbd1437b96830d67f258d81e7460a]
+## 7. Savings and transitional provisions applicable to certain lone parents following a full-time course[^c-a26bbd1437b96830d67f258d81e7460a]
 
 (1) This regulation applies to a lone parent if the following conditions are met.
 
@@ -149,7 +149,7 @@ In regulation 7(1)(c)(iii) of the Employment and Support Allowance Regulations (
 - “period of study” has the same meaning as in regulation 2(1) of the Income Support Regulations;
 - “specified day” means 16th January 2017.
 
-## 8. Revocations[^key-0caa66c6f6ea1e910ec44435c8b4a470]
+## 8. Revocations[^c-0caa66c6f6ea1e910ec44435c8b4a470]
 
 The following regulations are revoked—
 
@@ -170,7 +170,7 @@ Department for Work and Pensions
 
 Regulation 1(3)
 
-### 1. Application and interpretation[^key-7eb785ed13cba1b27c0ded3c1c5b5a46]
+### 1. Application and interpretation[^c-7eb785ed13cba1b27c0ded3c1c5b5a46]
 
 (1) A lone parent falls within this Schedule if—
 
@@ -195,7 +195,7 @@ Regulation 1(3)
 - “voluntary interview appointment” means an appointment for a lone parent who falls within this Schedule to attend an interview voluntarily for the purpose of discussing the changes to income support entitlement for lone parents which are made by these Regulations; and
 - “work-focused interview” means a work-focused interview conducted in accordance with regulations made under section 2A(1) of the Social Security Administration (Northern Ireland) Act 1992.
 
-### 2. Lone Parent responsible for a child who has attained the age of 6 before 16th January 2017[^key-2a9459ab3070ae638f2485b1701fc1e9]
+### 2. Lone Parent responsible for a child who has attained the age of 6 before 16th January 2017[^c-2a9459ab3070ae638f2485b1701fc1e9]
 
 (1) This paragraph applies to a lone parent who falls within this Schedule if, before the commencement day, the lone parent is responsible for and a member of the same household as—
 
@@ -204,7 +204,7 @@ Regulation 1(3)
 
 (2) Subject to paragraphs 6 and 7, regulations 2, 4 and 5 come into operation in relation to a lone parent to whom this paragraph applies on the first day of the benefit week in which a requirement to take part in a work-focused interview would, apart from these Regulations, next have arisen in relation to the lone parent on or after 16th January 2017.
 
-### 3. Lone Parent responsible for a child who attains the age of 6 after 15th January 2017 and before 17th April 2017[^key-c5f4af9deefaef3e7145960c4d7db71c]
+### 3. Lone Parent responsible for a child who attains the age of 6 after 15th January 2017 and before 17th April 2017[^c-c5f4af9deefaef3e7145960c4d7db71c]
 
 (1) This paragraph applies to a lone parent who falls within this Schedule if, on the commencement day, the lone parent is responsible for and a member of the same household as—
 
@@ -213,7 +213,7 @@ Regulation 1(3)
 
 (2) Subject to paragraphs 6 and 7, regulations 2, 4 and 5 come into operation in relation to a lone parent to whom this paragraph applies at the end of the last day of the benefit week in which the child in question attains the age of 6.
 
-### 4. Lone Parent responsible for a child who attains the age of 5 after 16th April 2016 and before 17th April 2017[^key-a0f4f0e7119e4ba2c59a1d37429f2488]
+### 4. Lone Parent responsible for a child who attains the age of 5 after 16th April 2016 and before 17th April 2017[^c-a0f4f0e7119e4ba2c59a1d37429f2488]
 
 (1) This paragraph applies to a lone parent who falls within this Schedule if, on the commencement day, the lone parent is responsible for and a member of the same household as—
 
@@ -222,16 +222,16 @@ Regulation 1(3)
 
 (2) Subject to paragraphs 6 and 7, regulations 2, 4 and 5 come into operation in relation to a lone parent to whom this paragraph applies on the first day of the first benefit week in which a requirement to take part in a work-focused interview would, apart from these Regulations, next have arisen in relation to the lone parent on or after 17th April 2017.
 
-### 5. Lone Parent responsible for a child who attains the age of 5 after 16th April 2017 and before 17th July 2017[^key-ef6a4d6708cec63d0a34a7e46286ca1f][^key-dc8a8675ccf6c122625c9ea713ec5462]
+### 5. Lone Parent responsible for a child who attains the age of 5 after 16th April 2017 and before 17th July 2017[^c-ef6a4d6708cec63d0a34a7e46286ca1f][^c-dc8a8675ccf6c122625c9ea713ec5462]
 
 (1) This paragraph applies to a lone parent who falls within this Schedule if, on the commencement day, the lone parent is responsible for and a member of the same household as—
 
-- (a) a single child who attains the age of 5 after 16th April 2017[^key-9aafa176b9aeb1b2b0474b631f11e061] and before 17th July 2017; or
+- (a) a single child who attains the age of 5 after 16th April 2017[^c-9aafa176b9aeb1b2b0474b631f11e061] and before 17th July 2017; or
 - (b) more than one child, the youngest of whom attains the age of 5 after 16th April 2017 and before 17th July 2017.
 
 (2) Subject to paragraphs 6 and 7, regulations 2, 4 and 5 come into operation in relation to a lone parent to whom this paragraph applies at the end of the last day of the benefit week in which the child in question attains the age of 5.
 
-### 6. Circumstances where the Department is not satisfied that a decision has been made in relation to the lone parent’s claim for child tax credit at the time of the voluntary interview appointment[^key-8610e32a490bf8fb46c42263b815587a]
+### 6. Circumstances where the Department is not satisfied that a decision has been made in relation to the lone parent’s claim for child tax credit at the time of the voluntary interview appointment[^c-8610e32a490bf8fb46c42263b815587a]
 
 (1) Where sub-paragraph (2) applies, regulation 2 comes into operation in relation to a lone parent at the end of the period of 4 weeks beginning with the day mentioned in sub-paragraph (2) of paragraphs 2, 3, 4 or 5, as would be applicable to the lone parent apart from this paragraph (“the relevant day”).
 
@@ -241,7 +241,7 @@ Regulation 1(3)
 - (b) at the time of the voluntary interview appointment, the lone parent has claimed, or is treated as having made a claim for, child tax credit; and
 - (c) the Department is not satisfied that a decision has been made in relation to that claim at the time of the voluntary interview appointment.
 
-### 7. Lone parents not invited to a voluntary interview during the two month period before the relevant day[^key-0a0735f85ea7ec15fdd2150047ef7241]
+### 7. Lone parents not invited to a voluntary interview during the two month period before the relevant day[^c-0a0735f85ea7ec15fdd2150047ef7241]
 
 Where a lone parent to whom this Schedule applies has not been invited in writing, before the day mentioned in sub-paragraph (2) of paragraphs 2, 3, 4 or 5, as would be applicable to the lone parent apart from this paragraph (“the relevant day”), to attend a voluntary interview appointment regulations 2, 4 and 5 come into operation in relation to the lone parent at the end of a period of 6 weeks beginning with the date in which the Department invites the lone parent in writing to attend a voluntary interview appointment.
 
@@ -277,7 +277,7 @@ The Schedule makes provision for the changes to paragraph 1 of Schedule 1B to th
 
 [^f00004]: Footnote: [2007 c. 2 (N.I)](https://www.legislation.gov.uk/nia/2007/2).
 
-[^key-1825405f05f40350d3f24d006d5830cb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2016/67/regulation/1) in operation at 16.1.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2)
+[^c-1825405f05f40350d3f24d006d5830cb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2016/67/regulation/1) in operation at 16.1.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2)
 
 [^f00005]: Footnote: S. R. [1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199) and [S.R. 2008 No. 478](https://www.legislation.gov.uk/nisr/2008/478).
 
@@ -287,11 +287,11 @@ The Schedule makes provision for the changes to paragraph 1 of Schedule 1B to th
 
 [^f00008]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
-[^key-1487f4f535b55f201a0b004b0779ec4e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2016/67/regulation/2) in operation at 16.1.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2)
+[^c-1487f4f535b55f201a0b004b0779ec4e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2016/67/regulation/2) in operation at 16.1.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2)
 
 [^f00009]: Footnote: Schedule 1B was inserted by regulation 22 of [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199) and paragraph 1 was substituted by regulation 2 and amended by regulation 4 of [S.R. 2008 No. 478](https://www.legislation.gov.uk/nisr/2008/478).
 
-[^key-2bbfcd1a757fc5644274e7c3de950b31]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2016/67/regulation/3) in operation at 16.1.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2)
+[^c-2bbfcd1a757fc5644274e7c3de950b31]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2016/67/regulation/3) in operation at 16.1.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2)
 
 [^f00010]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Regulations are [S.R. 1998 No. 198](https://www.legislation.gov.uk/nisr/1998/198).
 
@@ -299,46 +299,46 @@ The Schedule makes provision for the changes to paragraph 1 of Schedule 1B to th
 
 [^f00012]: Footnote: Regulation 21A was inserted by regulation 5 of [S.R. 1998 No. 198](https://www.legislation.gov.uk/nisr/1998/198).
 
-[^key-fc86b4864cf22e4534eb6d2b43231f96]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2016/67/regulation/4) in operation at 16.1.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2)
+[^c-fc86b4864cf22e4534eb6d2b43231f96]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2016/67/regulation/4) in operation at 16.1.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2)
 
 [^f00013]: Footnote: Regulation 2ZA was inserted by regulation 5(3) of [S.R. 2008 No. 478](https://www.legislation.gov.uk/nisr/2008/478) and paragraph (1)(c) was amended by regulation 13(2)(b) of [S.R. 2011 No. 357](https://www.legislation.gov.uk/nisr/2011/357).
 
-[^key-291eac1c48e727655d8fb76a2db37fd8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2016/67/regulation/5) in operation at 16.1.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2)
+[^c-291eac1c48e727655d8fb76a2db37fd8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2016/67/regulation/5) in operation at 16.1.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2)
 
 [^f00014]: Footnote: Regulation 3A was inserted by regulation 8(3) and amended by regulations 9 and 10 of [S.R. 2008 No. 478](https://www.legislation.gov.uk/nisr/2008/478) and paragraph (1) was amended by regulation 15(2) of [S.R. 2011 No. 357](https://www.legislation.gov.uk/nisr/2011/357).
 
-[^key-3aafce63c086dfb3f18658469a896e2d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2016/67/regulation/6) in operation at 16.1.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2)
+[^c-3aafce63c086dfb3f18658469a896e2d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2016/67/regulation/6) in operation at 16.1.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2)
 
 [^f00015]: Footnote: [S.R. 2008 No. 280](https://www.legislation.gov.uk/nisr/2008/280); regulation 7(1)(c) was added by regulation 12(b) of [S.R. 2008 No. 478](https://www.legislation.gov.uk/nisr/2008/478).
 
-[^key-a26bbd1437b96830d67f258d81e7460a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2016/67/regulation/7) in operation at 16.1.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2)
+[^c-a26bbd1437b96830d67f258d81e7460a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2016/67/regulation/7) in operation at 16.1.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2)
 
 [^f00016]: Footnote: [1950 c. 29](https://www.legislation.gov.uk/ukpga/1950/29).
 
-[^key-0caa66c6f6ea1e910ec44435c8b4a470]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2016/67/regulation/8) in operation at 16.1.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2)
+[^c-0caa66c6f6ea1e910ec44435c8b4a470]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2016/67/regulation/8) in operation at 16.1.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2)
 
 [^f00017]: Footnote: [S.R. 2008 No. 478](https://www.legislation.gov.uk/nisr/2008/478).
 
 [^f00018]: Footnote: [S.R. 2011 No. 357](https://www.legislation.gov.uk/nisr/2011/357).
 
-[^key-7eb785ed13cba1b27c0ded3c1c5b5a46]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2016/67/schedule/paragraph/1) in operation at 16.1.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2)
+[^c-7eb785ed13cba1b27c0ded3c1c5b5a46]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2016/67/schedule/paragraph/1) in operation at 16.1.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2)
 
 [^f00019]: Footnote: The definition of “benefit week” was amended by regulation 2(a) of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318).
 
 [^f00020]: Footnote: [2002. c.21](https://www.legislation.gov.uk/nisr/2002/21).
 
-[^key-2a9459ab3070ae638f2485b1701fc1e9]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2016/67/schedule/paragraph/2) in operation at 16.1.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2)
+[^c-2a9459ab3070ae638f2485b1701fc1e9]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2016/67/schedule/paragraph/2) in operation at 16.1.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2)
 
-[^key-c5f4af9deefaef3e7145960c4d7db71c]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2016/67/schedule/paragraph/3) in operation at 16.1.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2)
+[^c-c5f4af9deefaef3e7145960c4d7db71c]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2016/67/schedule/paragraph/3) in operation at 16.1.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2)
 
-[^key-a0f4f0e7119e4ba2c59a1d37429f2488]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2016/67/schedule/paragraph/4) in operation at 16.1.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2)
+[^c-a0f4f0e7119e4ba2c59a1d37429f2488]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2016/67/schedule/paragraph/4) in operation at 16.1.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2)
 
-[^key-ef6a4d6708cec63d0a34a7e46286ca1f]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2016/67/schedule/paragraph/5) in operation at 16.1.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2)
+[^c-ef6a4d6708cec63d0a34a7e46286ca1f]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2016/67/schedule/paragraph/5) in operation at 16.1.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2)
 
-[^key-dc8a8675ccf6c122625c9ea713ec5462]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/nisr/2016/67/schedule/paragraph/5) heading substituted (16.1.2017) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/432)](https://www.legislation.gov.uk/nisr/2016/432), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/432/regulation/1), [5(a)](https://www.legislation.gov.uk/nisr/2016/432/regulation/5/a)
+[^c-dc8a8675ccf6c122625c9ea713ec5462]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/nisr/2016/67/schedule/paragraph/5) heading substituted (16.1.2017) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/432)](https://www.legislation.gov.uk/nisr/2016/432), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/432/regulation/1), [5(a)](https://www.legislation.gov.uk/nisr/2016/432/regulation/5/a)
 
-[^key-9aafa176b9aeb1b2b0474b631f11e061]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/nisr/2016/67/schedule/paragraph/5) substituted (16.1.2017) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/432)](https://www.legislation.gov.uk/nisr/2016/432), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/432/regulation/1), [5(b)](https://www.legislation.gov.uk/nisr/2016/432/regulation/5/b)
+[^c-9aafa176b9aeb1b2b0474b631f11e061]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/nisr/2016/67/schedule/paragraph/5) substituted (16.1.2017) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/432)](https://www.legislation.gov.uk/nisr/2016/432), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/432/regulation/1), [5(b)](https://www.legislation.gov.uk/nisr/2016/432/regulation/5/b)
 
-[^key-8610e32a490bf8fb46c42263b815587a]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nisr/2016/67/schedule/paragraph/6) in operation at 16.1.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2)
+[^c-8610e32a490bf8fb46c42263b815587a]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nisr/2016/67/schedule/paragraph/6) in operation at 16.1.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2)
 
-[^key-0a0735f85ea7ec15fdd2150047ef7241]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/nisr/2016/67/schedule/paragraph/7) in operation at 16.1.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2)
+[^c-0a0735f85ea7ec15fdd2150047ef7241]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/nisr/2016/67/schedule/paragraph/7) in operation at 16.1.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2)

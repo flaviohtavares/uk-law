@@ -50,11 +50,11 @@ In accordance with section 54(1) of that Act, they have shared a draft of the Re
 
 In accordance with section 54(2) of that Act, they have consulted and shared a draft of the Regulations with the persons mentioned in section 54(2)(a)(i) to (vi) and have considered any representations made.
 
-## 1. Citation and commencement[^key-18c967bb3817bc0111152633eb1e693e]
+## 1. Citation and commencement[^c-18c967bb3817bc0111152633eb1e693e]
 
 These Regulations may be cited as the Police Service of Scotland (Police Cadets) Regulations 2013 and come into force on 1st April 2013.
 
-## 2. Police cadets[^key-d7fb3ef69c3abbaef754e00ec1e140e3]
+## 2. Police cadets[^c-d7fb3ef69c3abbaef754e00ec1e140e3]
 
 (1) The Regulations mentioned in the Schedule, so far as not already revoked, are revoked.
 
@@ -124,7 +124,7 @@ Edinburgh
 
 Regulation 2
 
-### PART 1 — INSTRUMENTS REVOKED[^key-63cf38d94e6f1f1ec76c6bfb4142a5c7]
+### PART 1 — INSTRUMENTS REVOKED[^c-63cf38d94e6f1f1ec76c6bfb4142a5c7]
 
 |  |
 | --- |
@@ -142,7 +142,7 @@ Regulation 2
 | Police Cadets (Scotland) Amendment Regulations 1986 ([S.I. 1986/121](https://www.legislation.gov.uk/uksi/1986/121)) |
 | Police Cadets (Scotland) Amendment Regulations 1997 ([S.I. 1997/2791](https://www.legislation.gov.uk/uksi/1997/2791)) |
 
-### PART 2 — INSTRUMENTS REVOKED WITH SAVING[^key-df646fa3c24a608d6a39fd2aa049ab29]
+### PART 2 — INSTRUMENTS REVOKED WITH SAVING[^c-df646fa3c24a608d6a39fd2aa049ab29]
 
 |  |
 | --- |
@@ -161,7 +161,7 @@ Regulation 2
 
 ### PART 3 — INSTRUMENT REVOKED WITH PARTIAL SAVING
 
-**1.**[^key-2de31aa4f006b817e8d401dab892493d] The Police (Minimum Age for Appointment) (Scotland)[^key-31cfafed895f5ed2713df3631cef2264] Regulations 2006[^f00004] so far as they amend the Police Cadets (Scotland) Regulations 1968.
+**1.**[^c-2de31aa4f006b817e8d401dab892493d] The Police (Minimum Age for Appointment) (Scotland)[^c-31cfafed895f5ed2713df3631cef2264] Regulations 2006[^f00004] so far as they amend the Police Cadets (Scotland) Regulations 1968.
 
 EXPLANATORY NOTE
 
@@ -175,20 +175,20 @@ Regulation 2 and the Schedule revoke all the subordinate legislation in relation
 
 [^f00001]: Footnote: [2012 asp 8](https://www.legislation.gov.uk/asp/2012/8).
 
-[^key-18c967bb3817bc0111152633eb1e693e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2013/42/regulation/1) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/42/regulation/1)
+[^c-18c967bb3817bc0111152633eb1e693e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2013/42/regulation/1) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/42/regulation/1)
 
-[^key-d7fb3ef69c3abbaef754e00ec1e140e3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2013/42/regulation/2) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/42/regulation/1)
+[^c-d7fb3ef69c3abbaef754e00ec1e140e3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2013/42/regulation/2) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/42/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1968/208](https://www.legislation.gov.uk/uksi/1968/208); as amended by [S.I. 1969/1820](https://www.legislation.gov.uk/uksi/1969/1820), [1970/424](https://www.legislation.gov.uk/uksi/1970/424), [1971/185](https://www.legislation.gov.uk/uksi/1971/185), [1972/778](https://www.legislation.gov.uk/uksi/1972/778), [1974/1248](https://www.legislation.gov.uk/uksi/1974/1248), [1976/621](https://www.legislation.gov.uk/uksi/1976/621), [1978/999](https://www.legislation.gov.uk/uksi/1978/999), [1982/1768](https://www.legislation.gov.uk/uksi/1982/1768), [1983/318](https://www.legislation.gov.uk/uksi/1983/318), [1984/2029](https://www.legislation.gov.uk/uksi/1984/2029), [1987/1878](https://www.legislation.gov.uk/uksi/1987/1878), [1997/2791](https://www.legislation.gov.uk/uksi/1997/2791) and [S.S.I. 2006/552](https://www.legislation.gov.uk/ssi/2006/552).
 
 [^f00003]: Footnote: [1967 c.77](https://www.legislation.gov.uk/ukpga/1967/77).
 
-[^key-63cf38d94e6f1f1ec76c6bfb4142a5c7]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2013/42/schedule/part/1) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/42/regulation/1)
+[^c-63cf38d94e6f1f1ec76c6bfb4142a5c7]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2013/42/schedule/part/1) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/42/regulation/1)
 
-[^key-df646fa3c24a608d6a39fd2aa049ab29]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2013/42/schedule/part/2) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/42/regulation/1)
+[^c-df646fa3c24a608d6a39fd2aa049ab29]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2013/42/schedule/part/2) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/42/regulation/1)
 
-[^key-2de31aa4f006b817e8d401dab892493d]: Commencement: [Sch. Pt. 3 para. 1](https://www.legislation.gov.uk/ssi/2013/42/schedule/part/3/paragraph/1) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/42/regulation/1)
+[^c-2de31aa4f006b817e8d401dab892493d]: Commencement: [Sch. Pt. 3 para. 1](https://www.legislation.gov.uk/ssi/2013/42/schedule/part/3/paragraph/1) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/42/regulation/1)
 
-[^key-31cfafed895f5ed2713df3631cef2264]: Textual amendment: Word in [Sch. Pt. 3 para. 1](https://www.legislation.gov.uk/ssi/2013/42/schedule/part/3/paragraph/1) inserted (18.5.2013) by [The Police Service of Scotland (Amendment) (No. 2) Regulations 2013 (S.S.I. 2013/125)](https://www.legislation.gov.uk/ssi/2013/125), [regs. 1](https://www.legislation.gov.uk/ssi/2013/125/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2013/125/regulation/3/2)
+[^c-31cfafed895f5ed2713df3631cef2264]: Textual amendment: Word in [Sch. Pt. 3 para. 1](https://www.legislation.gov.uk/ssi/2013/42/schedule/part/3/paragraph/1) inserted (18.5.2013) by [The Police Service of Scotland (Amendment) (No. 2) Regulations 2013 (S.S.I. 2013/125)](https://www.legislation.gov.uk/ssi/2013/125), [regs. 1](https://www.legislation.gov.uk/ssi/2013/125/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2013/125/regulation/3/2)
 
 [^f00004]: Footnote: [S.S.I. 2006/552](https://www.legislation.gov.uk/ssi/2006/552).

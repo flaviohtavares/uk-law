@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Opting out after the first three months[^key-4c7645b315e161c5cbb3f60f79478f65]
+## 16. Opting out after the first three months[^c-4c7645b315e161c5cbb3f60f79478f65]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c7645b315e161c5cbb3f60f79478f65]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2015/19/regulation/16) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-4c7645b315e161c5cbb3f60f79478f65]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2015/19/regulation/16) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

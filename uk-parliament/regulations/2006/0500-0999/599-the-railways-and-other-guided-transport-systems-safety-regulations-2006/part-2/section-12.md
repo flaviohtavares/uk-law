@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Before the expiry of a safety authorisation the holder of that safety authorisation may apply to the Office of Rail and Road[^key-fad49a6d4d91877b47bdb769efe4a6f0] for a further safety authorisation to be issued for the infrastructure in question.
+(1) Before the expiry of a safety authorisation the holder of that safety authorisation may apply to the Office of Rail and Road[^c-fad49a6d4d91877b47bdb769efe4a6f0] for a further safety authorisation to be issued for the infrastructure in question.
 
 (2) An application for a further safety authorisation shall set out particulars of any changes to any information sent to the Office of Rail and Road in respect of the operation in question which remains relevant to that operation.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fad49a6d4d91877b47bdb769efe4a6f0]: Textual amendment: Words in reg. 12 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 6(i)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/6/i)
+[^c-fad49a6d4d91877b47bdb769efe4a6f0]: Textual amendment: Words in reg. 12 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 6(i)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/6/i)

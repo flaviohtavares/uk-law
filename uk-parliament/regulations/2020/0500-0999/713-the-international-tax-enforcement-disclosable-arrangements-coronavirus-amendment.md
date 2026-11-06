@@ -32,7 +32,7 @@ summary: ''
 
 Taxes
 
-The International Tax Enforcement (Disclosable Arrangements) (Coronavirus) (Amendment) Regulations 2020 (revoked)[^key-b1da8421716cf4e70d974b33244e5382]
+The International Tax Enforcement (Disclosable Arrangements) (Coronavirus) (Amendment) Regulations 2020 (revoked)[^c-b1da8421716cf4e70d974b33244e5382]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force
 
 30th July 2020
 
-[^key-b1da8421716cf4e70d974b33244e5382]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b1da8421716cf4e70d974b33244e5382]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b1da8421716cf4e70d974b33244e5382]
+## 1. Citation and commencement[^c-b1da8421716cf4e70d974b33244e5382]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the International Tax Enforcement (Disclosable Arrangements) Regulations 2020[^key-b1da8421716cf4e70d974b33244e5382]
+## 2. Amendment of the International Tax Enforcement (Disclosable Arrangements) Regulations 2020[^c-b1da8421716cf4e70d974b33244e5382]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b1da8421716cf4e70d974b33244e5382]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b1da8421716cf4e70d974b33244e5382]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b1da8421716cf4e70d974b33244e5382]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b1da8421716cf4e70d974b33244e5382]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b1da8421716cf4e70d974b33244e5382]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/713) revoked (28.3.2023) by [The International Tax Enforcement (Disclosable Arrangements) Regulations 2023 (S.I. 2023/38)](https://www.legislation.gov.uk/uksi/2023/38), [regs. 1](https://www.legislation.gov.uk/uksi/2023/38/regulation/1), [21(b)](https://www.legislation.gov.uk/uksi/2023/38/regulation/21/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/38/regulation/5))
+[^c-b1da8421716cf4e70d974b33244e5382]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/713) revoked (28.3.2023) by [The International Tax Enforcement (Disclosable Arrangements) Regulations 2023 (S.I. 2023/38)](https://www.legislation.gov.uk/uksi/2023/38), [regs. 1](https://www.legislation.gov.uk/uksi/2023/38/regulation/1), [21(b)](https://www.legislation.gov.uk/uksi/2023/38/regulation/21/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/38/regulation/5))

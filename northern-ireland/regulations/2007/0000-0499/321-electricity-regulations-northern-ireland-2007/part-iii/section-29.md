@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Interim arrangements pending review of determination[^key-15eebf38225560c001764dc047c27473]
+## 29. Interim arrangements pending review of determination[^c-15eebf38225560c001764dc047c27473]
 
 *Extent: N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 (4) No application under sub-paragraph (2) may be made after the end of the period of 14 days beginning with the day on which the relevant application under regulation 23(1) is made.
 
-**30.**[^key-5014df574965c1951554769503d331ca] (1) This regulation applies where—
+**30.**[^c-5014df574965c1951554769503d331ca] (1) This regulation applies where—
 
 - (a) a person makes an application under regulation 23(1) for the review of a determination, and
 - (b) the Authority has made a property arrangements scheme in relation to the property, rights or liabilities to which the determination relates.
@@ -51,11 +51,11 @@ make such interim arrangements as it thinks fit with respect to the property, ri
 
 (4) No application under paragraph (2) may be made after the end of the period of 7 days beginning with the day on which the application under regulation 23(1) is made.
 
-**31.**[^key-c740549f60be52547d1c64d1431a5b5d] In exercising its powers under regulation 29 or 30, the Competition Appeal Tribunal shall have regard, in particular, to what is necessary or expedient for compliance purposes.
+**31.**[^c-c740549f60be52547d1c64d1431a5b5d] In exercising its powers under regulation 29 or 30, the Competition Appeal Tribunal shall have regard, in particular, to what is necessary or expedient for compliance purposes.
 
-**32.**[^key-0ef1852d7b488466a27f43e6dd5dd691] Regulations 29 and 30 are without prejudice to any powers of the Competition Appeal Tribunal to make orders on an interim basis under rules under section 15 of the Enterprise Act 2002.
+**32.**[^c-0ef1852d7b488466a27f43e6dd5dd691] Regulations 29 and 30 are without prejudice to any powers of the Competition Appeal Tribunal to make orders on an interim basis under rules under section 15 of the Enterprise Act 2002.
 
-**33.**[^key-4c9f24152ef2852e50a816832a581dc0] (1) If an order under regulation 29 or 30 is registered in the High Court, it shall be enforceable as an order of the High Court.
+**33.**[^c-4c9f24152ef2852e50a816832a581dc0] (1) If an order under regulation 29 or 30 is registered in the High Court, it shall be enforceable as an order of the High Court.
 
 (2) An order under regulation 29 or 30 may be registered by a person entitled to any right under the interim arrangements for which the order makes provision.
 
@@ -65,12 +65,12 @@ make such interim arrangements as it thinks fit with respect to the property, ri
 
 ## Annotations
 
-[^key-15eebf38225560c001764dc047c27473]: Commencement: Reg. 29 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)
+[^c-15eebf38225560c001764dc047c27473]: Commencement: Reg. 29 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)
 
-[^key-5014df574965c1951554769503d331ca]: Commencement: Reg. 30 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)
+[^c-5014df574965c1951554769503d331ca]: Commencement: Reg. 30 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)
 
-[^key-c740549f60be52547d1c64d1431a5b5d]: Commencement: Reg. 31 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)
+[^c-c740549f60be52547d1c64d1431a5b5d]: Commencement: Reg. 31 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)
 
-[^key-0ef1852d7b488466a27f43e6dd5dd691]: Commencement: Reg. 32 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)
+[^c-0ef1852d7b488466a27f43e6dd5dd691]: Commencement: Reg. 32 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)
 
-[^key-4c9f24152ef2852e50a816832a581dc0]: Commencement: Reg. 33 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)
+[^c-4c9f24152ef2852e50a816832a581dc0]: Commencement: Reg. 33 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)

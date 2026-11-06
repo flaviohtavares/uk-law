@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Repeal of competition scrutiny power[^key-9a0130e3ac113b96e674fdab96840865]
+## 21. Repeal of competition scrutiny power[^c-9a0130e3ac113b96e674fdab96840865]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Section 95 of FSMA 2000 (competition scrutiny) is repealed.
 
 ## Annotations
 
-[^key-9a0130e3ac113b96e674fdab96840865]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2012/21/section/21) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-9a0130e3ac113b96e674fdab96840865]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2012/21/section/21) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

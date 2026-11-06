@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Statement of purpose[^key-bdb93e9292dda3e3c8b94aee7c51f3b0]
+## 3. Statement of purpose[^c-bdb93e9292dda3e3c8b94aee7c51f3b0]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bdb93e9292dda3e3c8b94aee7c51f3b0]: Commencement: Reg. 3 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-bdb93e9292dda3e3c8b94aee7c51f3b0]: Commencement: Reg. 3 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)

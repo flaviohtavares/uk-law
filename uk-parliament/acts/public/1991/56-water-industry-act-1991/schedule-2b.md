@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2B — SEWERAGE LICENCES: AUTHORISATIONS[^key-72c5549d8d9e79ab706fe4cdcfa176c3]
+## SCHEDULE 2B — SEWERAGE LICENCES: AUTHORISATIONS[^c-72c5549d8d9e79ab706fe4cdcfa176c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72c5549d8d9e79ab706fe4cdcfa176c3]: Textual amendment: [Sch. 2B](https://www.legislation.gov.uk/ukpga/1991/56/schedule/2B) inserted (1.1.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/2014/21/schedule/3); [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 3(e)](https://www.legislation.gov.uk/uksi/2015/1938/article/3/e)
+[^c-72c5549d8d9e79ab706fe4cdcfa176c3]: Textual amendment: [Sch. 2B](https://www.legislation.gov.uk/ukpga/1991/56/schedule/2B) inserted (1.1.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/2014/21/schedule/3); [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 3(e)](https://www.legislation.gov.uk/uksi/2015/1938/article/3/e)

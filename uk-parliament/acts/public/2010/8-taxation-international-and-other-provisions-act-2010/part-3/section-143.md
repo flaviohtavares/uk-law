@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Taking account of special withholding tax in calculating income or gains[^key-a7dc2a1bc26b9ac8f077771cebe0d4cb]
+## 143. Taking account of special withholding tax in calculating income or gains[^c-a7dc2a1bc26b9ac8f077771cebe0d4cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ no deduction is to be made for special withholding tax in respect of which a cla
 
 ## Annotations
 
-[^key-a7dc2a1bc26b9ac8f077771cebe0d4cb]: Modification: S. 143 applied (with modifications) (coming into force in accordance with s. 218(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 36 para. 16(6)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/36/paragraph/16/6)
+[^c-a7dc2a1bc26b9ac8f077771cebe0d4cb]: Modification: S. 143 applied (with modifications) (coming into force in accordance with s. 218(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 36 para. 16(6)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/36/paragraph/16/6)

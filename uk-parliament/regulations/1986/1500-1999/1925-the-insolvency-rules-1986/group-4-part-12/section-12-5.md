@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12.5. Evidence of proceedings at meetings[^key-87af1a87caf813f87e6bd22ca93ba840]
+## 12.5. Evidence of proceedings at meetings[^c-87af1a87caf813f87e6bd22ca93ba840]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87af1a87caf813f87e6bd22ca93ba840]: Commencement: [Rule 12.5](https://www.legislation.gov.uk/uksi/1986/1925/rule/12.5) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-87af1a87caf813f87e6bd22ca93ba840]: Commencement: [Rule 12.5](https://www.legislation.gov.uk/uksi/1986/1925/rule/12.5) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

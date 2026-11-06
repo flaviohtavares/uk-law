@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Review of determination made under section 25[^key-0aac56a99e460cacd482dbbfc4276983]
+## 26. Review of determination made under section 25[^c-0aac56a99e460cacd482dbbfc4276983]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0aac56a99e460cacd482dbbfc4276983]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2021/15/section/26) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-0aac56a99e460cacd482dbbfc4276983]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2021/15/section/26) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

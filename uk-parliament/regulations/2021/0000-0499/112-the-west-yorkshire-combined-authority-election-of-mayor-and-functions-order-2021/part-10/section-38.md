@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Continuity[^key-2a6ad3ac14b4ae4a041bf0ff1d8ac1f4]
+## 38. Continuity[^c-2a6ad3ac14b4ae4a041bf0ff1d8ac1f4]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ has effect as if made or done by or in relation to the Combined Authority.
 
 ## Annotations
 
-[^key-2a6ad3ac14b4ae4a041bf0ff1d8ac1f4]: Commencement: [Art. 38](https://www.legislation.gov.uk/uksi/2021/112/article/38) in force at 10.5.2021, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4)
+[^c-2a6ad3ac14b4ae4a041bf0ff1d8ac1f4]: Commencement: [Art. 38](https://www.legislation.gov.uk/uksi/2021/112/article/38) in force at 10.5.2021, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4)

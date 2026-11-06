@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Ban on sales of snus etc[^key-16b382defb01684ee2b6a9a931d4c016]
+## 78. Ban on sales of snus etc[^c-16b382defb01684ee2b6a9a931d4c016]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ After Article 4E of the Health and Personal Social Services (Northern Ireland) O
 
 ## Annotations
 
-[^key-16b382defb01684ee2b6a9a931d4c016]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2026/18/section/78) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-16b382defb01684ee2b6a9a931d4c016]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2026/18/section/78) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 170. Scheme manager to be scheme administrator for purposes of Part 4 of Finance Act 2004[^key-fa9114a801a2df85531679a5afb8a0e2]
+## 170. Scheme manager to be scheme administrator for purposes of Part 4 of Finance Act 2004[^c-fa9114a801a2df85531679a5afb8a0e2]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The scheme manager is appointed to be responsible for all functions that are fun
 
 ## Annotations
 
-[^key-fa9114a801a2df85531679a5afb8a0e2]: Commencement: [Reg. 170](https://www.legislation.gov.uk/nisr/2014/290/regulation/170) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-fa9114a801a2df85531679a5afb8a0e2]: Commencement: [Reg. 170](https://www.legislation.gov.uk/nisr/2014/290/regulation/170) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

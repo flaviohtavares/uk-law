@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Application within the territorial sea or a designated area[^key-50ec60420e84fdfbc94f41e5ebb0a424]
+## 4. Application within the territorial sea or a designated area[^c-50ec60420e84fdfbc94f41e5ebb0a424]
 
 *Extent: N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-50ec60420e84fdfbc94f41e5ebb0a424]: Commencement: Reg. 4 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-50ec60420e84fdfbc94f41e5ebb0a424]: Commencement: Reg. 4 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
 [^f00026]: Footnote: [S.R. 1995 No. 491](https://www.legislation.gov.uk/nisr/1995/491), as amended by [S.R. 1999 No. 150](https://www.legislation.gov.uk/nisr/1999/150), [S.R. 2000 No. 388](https://www.legislation.gov.uk/nisr/2000/388) and [S.R. 2015 No. 223](https://www.legislation.gov.uk/nisr/2015/223)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Registration[^key-757287caa268364f1caac67c6bfe9c4f]
+## 14. Registration[^c-757287caa268364f1caac67c6bfe9c4f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ If the registrar is satisfied that the requirements of this Act as to registrati
 
 ## Annotations
 
-[^key-757287caa268364f1caac67c6bfe9c4f]: Modification: S. 14 applied (with modifications) by S.I. 2004/2326 reg. 87(1) (as substituted (1.10.2014) by [The European Economic Interest Grouping and European Public Limited-Liability Company (Amendment) Regulations 2014 (S.I. 2014/2382)](https://www.legislation.gov.uk/uksi/2014/2382), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2382/regulation/1), [32](https://www.legislation.gov.uk/uksi/2014/2382/regulation/32))
+[^c-757287caa268364f1caac67c6bfe9c4f]: Modification: S. 14 applied (with modifications) by S.I. 2004/2326 reg. 87(1) (as substituted (1.10.2014) by [The European Economic Interest Grouping and European Public Limited-Liability Company (Amendment) Regulations 2014 (S.I. 2014/2382)](https://www.legislation.gov.uk/uksi/2014/2382), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2382/regulation/1), [32](https://www.legislation.gov.uk/uksi/2014/2382/regulation/32))

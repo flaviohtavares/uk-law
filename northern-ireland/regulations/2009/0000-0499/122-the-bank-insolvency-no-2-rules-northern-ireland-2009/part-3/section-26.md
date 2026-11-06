@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Termination of appointment[^key-54ec2c1cf8b0a2fb255fc45d98bf4b9a]
+## 26. Termination of appointment[^c-54ec2c1cf8b0a2fb255fc45d98bf4b9a]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54ec2c1cf8b0a2fb255fc45d98bf4b9a]: Commencement: Rule 26 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-54ec2c1cf8b0a2fb255fc45d98bf4b9a]: Commencement: Rule 26 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

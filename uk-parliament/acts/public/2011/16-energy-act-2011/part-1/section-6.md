@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Consents and redress etc[^key-ed22942995c6e90f1dfbcf4e5c60816e]
+## 6. Consents and redress etc[^c-ed22942995c6e90f1dfbcf4e5c60816e]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed22942995c6e90f1dfbcf4e5c60816e]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2011/16/section/6) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/ii)
+[^c-ed22942995c6e90f1dfbcf4e5c60816e]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2011/16/section/6) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/ii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 81. Power to make further provision about designation of groups of companies[^key-3d851ae1fe18a0ab5bcce489ff7b615c]
+## 81. Power to make further provision about designation of groups of companies[^c-3d851ae1fe18a0ab5bcce489ff7b615c]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d851ae1fe18a0ab5bcce489ff7b615c]: Commencement: [S. 81](https://www.legislation.gov.uk/anaw/2017/3/section/81) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(w)](https://www.legislation.gov.uk/wsi/2018/35/article/2/w)
+[^c-3d851ae1fe18a0ab5bcce489ff7b615c]: Commencement: [S. 81](https://www.legislation.gov.uk/anaw/2017/3/section/81) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(w)](https://www.legislation.gov.uk/wsi/2018/35/article/2/w)

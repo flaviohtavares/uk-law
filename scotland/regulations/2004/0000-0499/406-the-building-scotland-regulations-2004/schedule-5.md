@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 5 — BUILDING STANDARDS APPLICABLE TO DESIGN AND CONSTRUCTION[^key-aa285e4d4af6d0dcc6ab2c139fcc7dc2]
+## SCHEDULE 5 — BUILDING STANDARDS APPLICABLE TO DESIGN AND CONSTRUCTION[^c-aa285e4d4af6d0dcc6ab2c139fcc7dc2]
 
 *Extent: S*
 
@@ -56,7 +56,7 @@ Every building must be designed and constructed in such a way that in the event 
 
 #### 2.4. Cavities
 
-Every building must be designed and constructed in such a way that in the event of an outbreak of fire within the building, the [^key-f979d1f75d6cbb36a459993104e66a61]... spread of fire and smoke within cavities[^key-511cc8ef17d2513db361934d76c56bb4] in its structure and fabric is inhibited.
+Every building must be designed and constructed in such a way that in the event of an outbreak of fire within the building, the [^c-f979d1f75d6cbb36a459993104e66a61]... spread of fire and smoke within cavities[^c-511cc8ef17d2513db361934d76c56bb4] in its structure and fabric is inhibited.
 
 #### 2.5. Internal linings
 
@@ -90,11 +90,11 @@ Every building must be designed and constructed in such a way that in the event 
 
 [^M_F_c4af6ae0-eee8-4462-f29e-9f8a76733098]...
 
-#### 2.12. Fire and rescue service access[^key-bfc4d00e3a851cb401e6ebc6558b3337]
+#### 2.12. Fire and rescue service access[^c-bfc4d00e3a851cb401e6ebc6558b3337]
 
 Every building must be accessible to the fire and rescue service.
 
-#### 2.13. Fire and rescue service water supply[^key-6598db44fa663b948e4a1b041e563027]
+#### 2.13. Fire and rescue service water supply[^c-6598db44fa663b948e4a1b041e563027]
 
 Every building must be provided with a water supply for use by the fire and rescue service.
 
@@ -102,7 +102,7 @@ Every building must be provided with a water supply for use by the fire and resc
 
 This standard does not apply to domestic buildings.
 
-#### 2.14. Fire and rescue service facilities[^key-497b74db93078d79f8e95204d6a36c82]
+#### 2.14. Fire and rescue service facilities[^c-497b74db93078d79f8e95204d6a36c82]
 
 Every building must be designed and constructed in such a way that facilities are provided to assist fire-fighting or rescue operations.
 
@@ -120,11 +120,11 @@ This standard applies only to a building which–
 - (d) forms the whole or part of a sheltered housing complex; [^M_F_9030c532-d78b-4818-9f94-fa297fb1a113]...
 - (e) is a school building , other than a building forming part of an existing school or an extension to a school building where it is not reasonably practicable to install an automatic fire suppression system in that building or extension[^M_F_065a69f3-925d-45cf-fb82-73a583f3df9f].
 - (f)[^M_F_903180cd-4ec4-4aa2-db2e-5bb09be420fe] is a building containing a flat or maisonette,
-- (g) is a social housing dwelling, [^key-d4247069de17a0ca0acd4bacccd0063b]...
+- (g) is a social housing dwelling, [^c-d4247069de17a0ca0acd4bacccd0063b]...
 - (h) is a shared multi-occupancy residential building,
-- (i)[^key-a6f278bce21686f4f81b6c408d74e8f2] is a traditionally constructed residential building with 15 or more rooms used for sleeping accommodation.
+- (i)[^c-a6f278bce21686f4f81b6c408d74e8f2] is a traditionally constructed residential building with 15 or more rooms used for sleeping accommodation.
 
-**Interpretation of this standard[^key-6c6f42f954f1a244368753401aa3a7a6]**
+**Interpretation of this standard[^c-6c6f42f954f1a244368753401aa3a7a6]**
 
 In this standard—
 
@@ -218,7 +218,7 @@ Every building must be designed and constructed in such a way that it can be hea
 
 This standard applies only to a dwelling.
 
-#### 3.14. Ventilation[^key-e0883b1325dc26c6d0559771efa0d5cc]
+#### 3.14. Ventilation[^c-e0883b1325dc26c6d0559771efa0d5cc]
 
 Every building must be designed and constructed in such a way that ventilation is provided so that the air quality inside the building is not a threat to the building or the health of the occupants.
 
@@ -303,7 +303,7 @@ This standard applies only to a flat or maisonette[^M_F_c87276ce-12c7-4886-89a9-
 
 Every building must be designed and constructed in such a way that there will not be a threat to the health and safety of people from a dungstead and farm effluent tank.
 
-#### 3.27. Water efficiency[^key-653fabd580d740c3d75ca67b99a9e63b]
+#### 3.27. Water efficiency[^c-653fabd580d740c3d75ca67b99a9e63b]
 
 Every building must be designed and constructed in such a way that sanitary facilities with water efficient fittings which are designed for the prevention of undue consumption of water are installed.
 
@@ -311,7 +311,7 @@ Every building must be designed and constructed in such a way that sanitary faci
 
 This standard applies only to dwellings.
 
-#### 3.28. Overheating risk[^key-d695caba73309f30d574fe900cb4dae9]
+#### 3.28. Overheating risk[^c-d695caba73309f30d574fe900cb4dae9]
 
 Every building must be designed and constructed in such a way that the risk to the health of the occupants from overheating is reduced.
 
@@ -435,7 +435,7 @@ This standard does not apply to a liquefied petroleum gas storage container, or 
 
 Every building accessible to vehicular traffic must be designed and constructed in such a way that every change in level is guarded.
 
-#### 4.13. Security[^key-8e2a3215d98140e1417c2650cffede7d]
+#### 4.13. Security[^c-8e2a3215d98140e1417c2650cffede7d]
 
 Every building must be designed and constructed in such a way that doors and windows, vulnerable to unlawful entry, can be secured to deter housebreaking and protect the safety and welfare of occupants.
 
@@ -443,7 +443,7 @@ Every building must be designed and constructed in such a way that doors and win
 
 This standard applies only to domestic buildings.
 
-#### 4.14. Gigabit-ready physical infrastructure for electronic communications networks[^key-a3870b1909f047eb0829c80905ab19ac]
+#### 4.14. Gigabit-ready physical infrastructure for electronic communications networks[^c-a3870b1909f047eb0829c80905ab19ac]
 
 Every building and building unit must be designed and constructed in such a way that—
 
@@ -478,7 +478,7 @@ In this standard—
 
 ### SECTION 5: — NOISE
 
-#### 5.1. Noise separation[^key-ba32ee2daa774fea97a4887cea3c34b1]
+#### 5.1. Noise separation[^c-ba32ee2daa774fea97a4887cea3c34b1]
 
 Every building, which is divided into more than one area of different occupation, must be designed and constructed in such a way to limit the transmission of source noise from normal domestic type activities, between such areas, to a level that will not threaten the health of, or cause inconvenience to the building occupants.
 
@@ -504,14 +504,14 @@ This standard only applies to a wall or floor forming an apartment in a dwelling
 
 ### SECTION 6: — ENERGY
 
-#### 6.1. Energy demand ...[^key-0bfee7893ea334969ff0b390085d2b56][^key-2b5473cf4fde6b8cf5e3fe5e83028a61]
+#### 6.1. Energy demand ...[^c-0bfee7893ea334969ff0b390085d2b56][^c-2b5473cf4fde6b8cf5e3fe5e83028a61]
 
 Every building must be designed and constructed in such a way that–
 
-- (a)[^key-5ffcc4e0e84650ad9660f417c436ba8e] the energy performance is estimated in accordance with a methodology of calculation approved under regulation 7(a) of the Energy Performance of Buildings (Scotland) Regulations 2008 [^M_F_39e15ce5-cc98-4807-9a8c-a84657066777]; [^key-b0e18afb9da54b471b2b6a0b74251602]...
-- (b)[^key-ab620ad1778180249d01f43df9c5f2bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-c9900eda235da2bfb754c6e79bb031c8] it is a nearly zero-energy building.
-- (d)[^key-e3b4690f925f861227632ed0d6fbfa84] it is capable of reducing the energy demand of the building.
+- (a)[^c-5ffcc4e0e84650ad9660f417c436ba8e] the energy performance is estimated in accordance with a methodology of calculation approved under regulation 7(a) of the Energy Performance of Buildings (Scotland) Regulations 2008 [^M_F_39e15ce5-cc98-4807-9a8c-a84657066777]; [^c-b0e18afb9da54b471b2b6a0b74251602]...
+- (b)[^c-ab620ad1778180249d01f43df9c5f2bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-c9900eda235da2bfb754c6e79bb031c8] it is a nearly zero-energy building.
+- (d)[^c-e3b4690f925f861227632ed0d6fbfa84] it is capable of reducing the energy demand of the building.
 
 **Interpretation of this standard[^M_F_9eb70d51-da1a-410c-b9b4-3267dce58399]**
 
@@ -522,7 +522,7 @@ In this standard—
 
 **Limitation**
 
-(1)[^key-2ac92d2b2bc303b028ca10d1e4f88a1f] [^key-9dd2ab434bc0d731300fe089d6988000]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-2ac92d2b2bc303b028ca10d1e4f88a1f] [^c-9dd2ab434bc0d731300fe089d6988000]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) This standard does not apply to—
 
@@ -532,7 +532,7 @@ In this standard—
   - (iii) alterations to buildings involving the fit-out of the building shell which is the subject of a continuing requirement;
 - (b) conversions of buildings;
 - (c) non-domestic buildings and buildings that are ancillary to a dwelling that are stand-alone having an area less than 50 square metres;
-- (d) buildings, which will not be heated or cooled other than by heating provided solely for the purpose of frost protection; [^key-c4cb26c3f8abf8a08fb5b4443958b73e]...
+- (d) buildings, which will not be heated or cooled other than by heating provided solely for the purpose of frost protection; [^c-c4cb26c3f8abf8a08fb5b4443958b73e]...
 - (e) limited life buildings which have an intended life of less than 2 years.
 
 #### 6.2. Building insulation envelope
@@ -587,7 +587,7 @@ This standard does not apply to–
 Every building must be designed and constructed in such a way that–
 
 - (a) the form and fabric of the building minimises the use of mechanical ventilating or cooling systems for cooling purposes; and
-- (b) [^key-7c5508051520caa847d4dfe58b6996dc]... the ventilating and cooling systems installed are energy efficient and are capable of being controlled to achieve optimum energy efficiency.
+- (b) [^c-7c5508051520caa847d4dfe58b6996dc]... the ventilating and cooling systems installed are energy efficient and are capable of being controlled to achieve optimum energy efficiency.
 
 **Limitation**
 
@@ -595,7 +595,7 @@ This standard does not apply to buildings which do not use fuel or power for ven
 
 #### 6.7. Commissioning building services
 
-Every building must be designed and constructed in such a way that energy supply systems , control systems[^key-ec68dce59886f4ce19d4cfcaf174a129] and building services which use fuel or power for heating, lighting, ventilating and cooling the internal environment and heating the water, are commissioned to achieve effective operation and[^key-88409d04493959a20a50ca1797d25e2c] optimum energy efficiency.
+Every building must be designed and constructed in such a way that energy supply systems , control systems[^c-ec68dce59886f4ce19d4cfcaf174a129] and building services which use fuel or power for heating, lighting, ventilating and cooling the internal environment and heating the water, are commissioned to achieve effective operation and[^c-88409d04493959a20a50ca1797d25e2c] optimum energy efficiency.
 
 **Limitation**
 
@@ -628,7 +628,7 @@ This standard does not apply to–
 
 Every building must be designed and constructed in such a way that–
 
-- (a)[^key-71c93e28836c260e198c0a70b3d559d7] an energy performance certificate for the building is affixed to the building; and
+- (a)[^c-71c93e28836c260e198c0a70b3d559d7] an energy performance certificate for the building is affixed to the building; and
 - (c) the energy performance certificate is displayed in a prominent place within the building.
 
 **Limitation**
@@ -647,7 +647,7 @@ Every building must be designed and constructed in such a way that–
 
 #### 6.10. Metering
 
-Every building must be designed and constructed in such a way that each building, or[^key-1d5a23f3a57938c1934d18d0b2de0bc8] part of a building designed for different occupation is fitted with fuel and power[^key-fa4da4891b86acab4acc144ebbd3eb2e] meters.
+Every building must be designed and constructed in such a way that each building, or[^c-1d5a23f3a57938c1934d18d0b2de0bc8] part of a building designed for different occupation is fitted with fuel and power[^c-fa4da4891b86acab4acc144ebbd3eb2e] meters.
 
 **Limitation**
 
@@ -658,7 +658,7 @@ This standard does not apply to–
 - (c) heating fired by solid fuel or biomass; or
 - (d) heating for individual dwellings fired by LPG or oil.
 
-#### 6.11. Heating and hot water – direct emission heating system[^key-12e18ec93b58f5101d700ab0ef64f729]
+#### 6.11. Heating and hot water – direct emission heating system[^c-12e18ec93b58f5101d700ab0ef64f729]
 
 Every building must be designed and constructed in such a way that the means by which space within the building is heated or cooled and by which hot water is made available in the building is not by means of a direct emission heating system.
 
@@ -669,10 +669,10 @@ This standard does not apply to—
 - (a) alterations to, or extension of, a pre-2024 building,
 - (b) emergency heating,
 - (c) heating provided solely for the purpose of frost protection.
-- (d)[^key-0037e14f2d5a15754304920930b15f05] a bioenergy or peat heating system,
+- (d)[^c-0037e14f2d5a15754304920930b15f05] a bioenergy or peat heating system,
 - (e) secondary heating.
 
-**Interpretation of this standard[^key-aa4ee432968b8bf8007e426eba227ed5]**
+**Interpretation of this standard[^c-aa4ee432968b8bf8007e426eba227ed5]**
 
 In this standard—
 
@@ -686,14 +686,14 @@ In this standard—
 - “**main heating system**” in relation to a building, means the heating or hot water service system designed and installed to be the means by which the demand for space heating and hot water is met during normal operation of the building,
 - “**secondary heating**” in relation to a building, means a fixed combustion appliance installation which is designed to provide space heating or hot water in addition to that provided by the main heating system of the building.
 
-### SECTION 7: — SUSTAINABILITY[^key-39b229f2986c92bd8461672a77d8c5cd]
+### SECTION 7: — SUSTAINABILITY[^c-39b229f2986c92bd8461672a77d8c5cd]
 
 #### 7.1. Statement of sustainability
 
 Every building must be designed and constructed in such a way that—
 
-- (a) with regard to a dwelling or school building containing classrooms[^key-06374351b996e7b17c8a63d9d376fdba], a level of sustainability specified by the Scottish Ministers in respect of carbon dioxide emissions, resource use, building flexibility, adaptability and occupant well-being is achieved;
-- (b) with regard to a non-domestic building, other than a school building containing classrooms,[^key-659fd32df5dd076c9f73871ab7367c09] a level of sustainability specified by the Scottish Ministers in respect of carbon dioxide emissions is achieved; and
+- (a) with regard to a dwelling or school building containing classrooms[^c-06374351b996e7b17c8a63d9d376fdba], a level of sustainability specified by the Scottish Ministers in respect of carbon dioxide emissions, resource use, building flexibility, adaptability and occupant well-being is achieved;
+- (b) with regard to a non-domestic building, other than a school building containing classrooms,[^c-659fd32df5dd076c9f73871ab7367c09] a level of sustainability specified by the Scottish Ministers in respect of carbon dioxide emissions is achieved; and
 - (c) a statement of the level of sustainability achieved is affixed to the dwelling or non-domestic building.
 
 **Limitation**
@@ -707,7 +707,7 @@ This standard does not apply to—
 - (e) buildings intended to have a life not exceeding the period specified in regulation 6; or
 - (f) conservatories.
 
-#### 7.2. Electric vehicle charging[^key-bf8b536517809edf830af6e082fd8bad]
+#### 7.2. Electric vehicle charging[^c-bf8b536517809edf830af6e082fd8bad]
 
 Every building must be designed and constructed in such a way that provision for the charging of electric vehicles is made where car parking spaces are located within the building or the curtilage of the building.
 
@@ -731,21 +731,21 @@ In this standard—
 
 ## Annotations
 
-[^key-aa285e4d4af6d0dcc6ab2c139fcc7dc2]: Textual amendment: Schs. 1-6 substituted (1.5.2007) by [The Building (Scotland) Amendment Regulations 2006 (S.S.I. 2006/534)](https://www.legislation.gov.uk/ssi/2006/534), [regs. 1](https://www.legislation.gov.uk/ssi/2006/534/regulation/1), [2(c)](https://www.legislation.gov.uk/ssi/2006/534/regulation/2/c), [sch.](https://www.legislation.gov.uk/ssi/2006/534/schedule) (with [regs. 3](https://www.legislation.gov.uk/ssi/2006/534/regulation/3), [4](https://www.legislation.gov.uk/ssi/2006/534/regulation/4))
+[^c-aa285e4d4af6d0dcc6ab2c139fcc7dc2]: Textual amendment: Schs. 1-6 substituted (1.5.2007) by [The Building (Scotland) Amendment Regulations 2006 (S.S.I. 2006/534)](https://www.legislation.gov.uk/ssi/2006/534), [regs. 1](https://www.legislation.gov.uk/ssi/2006/534/regulation/1), [2(c)](https://www.legislation.gov.uk/ssi/2006/534/regulation/2/c), [sch.](https://www.legislation.gov.uk/ssi/2006/534/schedule) (with [regs. 3](https://www.legislation.gov.uk/ssi/2006/534/regulation/3), [4](https://www.legislation.gov.uk/ssi/2006/534/regulation/4))
 
-[^key-f979d1f75d6cbb36a459993104e66a61]: Textual amendment: Word in [sch. 5 para. 2.4](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/2.4) omitted (1.10.2019) by virtue of [The Building (Scotland) Amendment Regulations 2019 (S.S.I. 2019/210)](https://www.legislation.gov.uk/ssi/2019/210), [regs. 1](https://www.legislation.gov.uk/ssi/2019/210/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2019/210/regulation/2/2/a)
+[^c-f979d1f75d6cbb36a459993104e66a61]: Textual amendment: Word in [sch. 5 para. 2.4](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/2.4) omitted (1.10.2019) by virtue of [The Building (Scotland) Amendment Regulations 2019 (S.S.I. 2019/210)](https://www.legislation.gov.uk/ssi/2019/210), [regs. 1](https://www.legislation.gov.uk/ssi/2019/210/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2019/210/regulation/2/2/a)
 
-[^key-511cc8ef17d2513db361934d76c56bb4]: Textual amendment: Word in [sch. 5 para. 2.4](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/2.4) substituted (1.10.2019) by [The Building (Scotland) Amendment Regulations 2019 (S.S.I. 2019/210)](https://www.legislation.gov.uk/ssi/2019/210), [regs. 1](https://www.legislation.gov.uk/ssi/2019/210/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2019/210/regulation/2/2/b)
+[^c-511cc8ef17d2513db361934d76c56bb4]: Textual amendment: Word in [sch. 5 para. 2.4](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/2.4) substituted (1.10.2019) by [The Building (Scotland) Amendment Regulations 2019 (S.S.I. 2019/210)](https://www.legislation.gov.uk/ssi/2019/210), [regs. 1](https://www.legislation.gov.uk/ssi/2019/210/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2019/210/regulation/2/2/b)
 
 [^M_F_ca1b1662-0b2b-485d-dad8-74f2e8e43fcb]: Textual amendment: Words in sch. 5 para. 2.7 inserted (1.6.2022) by [The Building (Scotland) Amendment Regulations 2022 (S.S.I. 2022/136)](https://www.legislation.gov.uk/ssi/2022/136), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/275/regulation/1/2), [5](https://www.legislation.gov.uk/ssi/2020/275/regulation/5) (with [reg. 6](https://www.legislation.gov.uk/ssi/2020/275/regulation/6))
 
 [^M_F_c4af6ae0-eee8-4462-f29e-9f8a76733098]: Textual amendment: Sch. 5 para. 2.11: limitation omitted (1.10.2010) by virtue of [The Building (Scotland) Amendment Regulations 2010 (S.S.I. 2010/32)](https://www.legislation.gov.uk/ssi/2010/32), [regs. 1](https://www.legislation.gov.uk/ssi/2010/32/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2010/32/regulation/2/3/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2010/32/regulation/3))
 
-[^key-bfc4d00e3a851cb401e6ebc6558b3337]: Textual amendment: [Sch. 5 para. 2.12](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/2.12) substituted (1.10.2010) by [The Building (Scotland) Amendment Regulations 2010 (S.S.I. 2010/32)](https://www.legislation.gov.uk/ssi/2010/32), [regs. 1](https://www.legislation.gov.uk/ssi/2010/32/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2010/32/regulation/2/3/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2010/32/regulation/3))
+[^c-bfc4d00e3a851cb401e6ebc6558b3337]: Textual amendment: [Sch. 5 para. 2.12](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/2.12) substituted (1.10.2010) by [The Building (Scotland) Amendment Regulations 2010 (S.S.I. 2010/32)](https://www.legislation.gov.uk/ssi/2010/32), [regs. 1](https://www.legislation.gov.uk/ssi/2010/32/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2010/32/regulation/2/3/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2010/32/regulation/3))
 
-[^key-6598db44fa663b948e4a1b041e563027]: Textual amendment: [Sch. 5 para. 2.13](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/2.13) substituted (1.10.2010) by [The Building (Scotland) Amendment Regulations 2010 (S.S.I. 2010/32)](https://www.legislation.gov.uk/ssi/2010/32), [regs. 1](https://www.legislation.gov.uk/ssi/2010/32/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/ssi/2010/32/regulation/2/3/c) (with [reg. 3](https://www.legislation.gov.uk/ssi/2010/32/regulation/3))
+[^c-6598db44fa663b948e4a1b041e563027]: Textual amendment: [Sch. 5 para. 2.13](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/2.13) substituted (1.10.2010) by [The Building (Scotland) Amendment Regulations 2010 (S.S.I. 2010/32)](https://www.legislation.gov.uk/ssi/2010/32), [regs. 1](https://www.legislation.gov.uk/ssi/2010/32/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/ssi/2010/32/regulation/2/3/c) (with [reg. 3](https://www.legislation.gov.uk/ssi/2010/32/regulation/3))
 
-[^key-497b74db93078d79f8e95204d6a36c82]: Textual amendment: Words in [sch. 5 para. 2.14](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/2.14) heading inserted (1.10.2010) by [The Building (Scotland) Amendment Regulations 2010 (S.S.I. 2010/32)](https://www.legislation.gov.uk/ssi/2010/32), [regs. 1](https://www.legislation.gov.uk/ssi/2010/32/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/ssi/2010/32/regulation/2/3/d) (with [reg. 3](https://www.legislation.gov.uk/ssi/2010/32/regulation/3))
+[^c-497b74db93078d79f8e95204d6a36c82]: Textual amendment: Words in [sch. 5 para. 2.14](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/2.14) heading inserted (1.10.2010) by [The Building (Scotland) Amendment Regulations 2010 (S.S.I. 2010/32)](https://www.legislation.gov.uk/ssi/2010/32), [regs. 1](https://www.legislation.gov.uk/ssi/2010/32/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/ssi/2010/32/regulation/2/3/d) (with [reg. 3](https://www.legislation.gov.uk/ssi/2010/32/regulation/3))
 
 [^M_F_e158ad30-3a6d-44a4-e08e-900b338d8d8e]: Textual amendment: Sch. 5 para. 2.15 substituted (1.10.2010) by [The Building (Scotland) Amendment Regulations 2010 (S.S.I. 2010/32)](https://www.legislation.gov.uk/ssi/2010/32), [regs. 1](https://www.legislation.gov.uk/ssi/2010/32/regulation/1), [2(3)(e)](https://www.legislation.gov.uk/ssi/2010/32/regulation/2/3/e) (with [reg. 3](https://www.legislation.gov.uk/ssi/2010/32/regulation/3))
 
@@ -757,21 +757,21 @@ In this standard—
 
 [^M_F_903180cd-4ec4-4aa2-db2e-5bb09be420fe]: Textual amendment: Word in sch. 5 para. 2.15 inserted (1.3.2021) by virtue of [The Building (Scotland) Amendment Regulations 2020 (S.S.I. 2020/275)](https://www.legislation.gov.uk/ssi/2020/275), [regs. 1](https://www.legislation.gov.uk/ssi/2020/275/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/ssi/2020/275/regulation/2/3/c)
 
-[^key-d4247069de17a0ca0acd4bacccd0063b]: Textual amendment: Word in [sch. 5 para. 2.15](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/2.15) omitted (6.4.2026) by virtue of [The Building (Scotland) Amendment Regulations 2025 (S.S.I. 2025/312)](https://www.legislation.gov.uk/ssi/2025/312), [regs. 1](https://www.legislation.gov.uk/ssi/2025/312/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2025/312/regulation/2/3/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2025/312/regulation/3))
+[^c-d4247069de17a0ca0acd4bacccd0063b]: Textual amendment: Word in [sch. 5 para. 2.15](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/2.15) omitted (6.4.2026) by virtue of [The Building (Scotland) Amendment Regulations 2025 (S.S.I. 2025/312)](https://www.legislation.gov.uk/ssi/2025/312), [regs. 1](https://www.legislation.gov.uk/ssi/2025/312/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2025/312/regulation/2/3/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2025/312/regulation/3))
 
-[^key-a6f278bce21686f4f81b6c408d74e8f2]: Textual amendment: [Sch. 5 para. 2.15(i)](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/2.15/i) inserted (6.4.2026) by [The Building (Scotland) Amendment Regulations 2025 (S.S.I. 2025/312)](https://www.legislation.gov.uk/ssi/2025/312), [regs. 1](https://www.legislation.gov.uk/ssi/2025/312/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2025/312/regulation/2/3/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2025/312/regulation/3))
+[^c-a6f278bce21686f4f81b6c408d74e8f2]: Textual amendment: [Sch. 5 para. 2.15(i)](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/2.15/i) inserted (6.4.2026) by [The Building (Scotland) Amendment Regulations 2025 (S.S.I. 2025/312)](https://www.legislation.gov.uk/ssi/2025/312), [regs. 1](https://www.legislation.gov.uk/ssi/2025/312/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2025/312/regulation/2/3/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2025/312/regulation/3))
 
-[^key-6c6f42f954f1a244368753401aa3a7a6]: Textual amendment: Words in [sch. 5 para. 2.15](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/2.15) inserted (6.4.2026) by [The Building (Scotland) Amendment Regulations 2025 (S.S.I. 2025/312)](https://www.legislation.gov.uk/ssi/2025/312), [regs. 1](https://www.legislation.gov.uk/ssi/2025/312/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2025/312/regulation/2/3/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2025/312/regulation/3))
+[^c-6c6f42f954f1a244368753401aa3a7a6]: Textual amendment: Words in [sch. 5 para. 2.15](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/2.15) inserted (6.4.2026) by [The Building (Scotland) Amendment Regulations 2025 (S.S.I. 2025/312)](https://www.legislation.gov.uk/ssi/2025/312), [regs. 1](https://www.legislation.gov.uk/ssi/2025/312/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2025/312/regulation/2/3/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2025/312/regulation/3))
 
-[^key-e0883b1325dc26c6d0559771efa0d5cc]: Textual amendment: [Sch. 5 para. 3.14](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/3.14) substituted (1.10.2010) by [The Building (Scotland) Amendment Regulations 2010 (S.S.I. 2010/32)](https://www.legislation.gov.uk/ssi/2010/32), [regs. 1](https://www.legislation.gov.uk/ssi/2010/32/regulation/1), [2(3)(f)](https://www.legislation.gov.uk/ssi/2010/32/regulation/2/3/f) (with [reg. 3](https://www.legislation.gov.uk/ssi/2010/32/regulation/3))
+[^c-e0883b1325dc26c6d0559771efa0d5cc]: Textual amendment: [Sch. 5 para. 3.14](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/3.14) substituted (1.10.2010) by [The Building (Scotland) Amendment Regulations 2010 (S.S.I. 2010/32)](https://www.legislation.gov.uk/ssi/2010/32), [regs. 1](https://www.legislation.gov.uk/ssi/2010/32/regulation/1), [2(3)(f)](https://www.legislation.gov.uk/ssi/2010/32/regulation/2/3/f) (with [reg. 3](https://www.legislation.gov.uk/ssi/2010/32/regulation/3))
 
 [^M_F_aaa51002-5b41-4950-950b-1f76f42876d1]: Textual amendment: Sch. 5 para. 3.15: limitation omitted (1.10.2010) by virtue of [The Building (Scotland) Amendment Regulations 2010 (S.S.I. 2010/32)](https://www.legislation.gov.uk/ssi/2010/32), [regs. 1](https://www.legislation.gov.uk/ssi/2010/32/regulation/1), [2(3)(g)](https://www.legislation.gov.uk/ssi/2010/32/regulation/2/3/g) (with [reg. 3](https://www.legislation.gov.uk/ssi/2010/32/regulation/3))
 
 [^M_F_c87276ce-12c7-4886-89a9-6e540a4a4b80]: Textual amendment: Words in Sch. 5 para. 3.25 substituted (1.10.2013) by [The Building (Miscellaneous Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/143)](https://www.legislation.gov.uk/ssi/2013/143), [regs. 1](https://www.legislation.gov.uk/ssi/2013/143/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2013/143/regulation/2/2/b) (with [reg. 5](https://www.legislation.gov.uk/ssi/2013/143/regulation/5))
 
-[^key-653fabd580d740c3d75ca67b99a9e63b]: Textual amendment: [Sch. 5 para. 3.27](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/3.27) inserted (1.10.2013) by [The Building (Miscellaneous Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/143)](https://www.legislation.gov.uk/ssi/2013/143), [regs. 1](https://www.legislation.gov.uk/ssi/2013/143/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2013/143/regulation/2/2/c) (with [reg. 5](https://www.legislation.gov.uk/ssi/2013/143/regulation/5))
+[^c-653fabd580d740c3d75ca67b99a9e63b]: Textual amendment: [Sch. 5 para. 3.27](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/3.27) inserted (1.10.2013) by [The Building (Miscellaneous Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/143)](https://www.legislation.gov.uk/ssi/2013/143), [regs. 1](https://www.legislation.gov.uk/ssi/2013/143/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2013/143/regulation/2/2/c) (with [reg. 5](https://www.legislation.gov.uk/ssi/2013/143/regulation/5))
 
-[^key-d695caba73309f30d574fe900cb4dae9]: Textual amendment: [Sch. 5 para. 3.28](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/3.28) inserted (1.2.2023) by [The Building (Scotland) Amendment Regulations 2022 (S.S.I. 2022/136)](https://www.legislation.gov.uk/ssi/2022/136), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/3), [9(a)](https://www.legislation.gov.uk/ssi/2022/136/regulation/9/a) (with [reg. 11](https://www.legislation.gov.uk/ssi/2022/136/regulation/11)) (as amended by [S.S.I. 2022/340](https://www.legislation.gov.uk/ssi/2022/340), [reg. 2](https://www.legislation.gov.uk/ssi/2022/340/regulation/2))
+[^c-d695caba73309f30d574fe900cb4dae9]: Textual amendment: [Sch. 5 para. 3.28](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/3.28) inserted (1.2.2023) by [The Building (Scotland) Amendment Regulations 2022 (S.S.I. 2022/136)](https://www.legislation.gov.uk/ssi/2022/136), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/3), [9(a)](https://www.legislation.gov.uk/ssi/2022/136/regulation/9/a) (with [reg. 11](https://www.legislation.gov.uk/ssi/2022/136/regulation/11)) (as amended by [S.S.I. 2022/340](https://www.legislation.gov.uk/ssi/2022/340), [reg. 2](https://www.legislation.gov.uk/ssi/2022/340/regulation/2))
 
 [^M_F_73f013d4-5b2c-4af8-c063-dafaf6e151f8]: Textual amendment: [1954 c. 70](https://www.legislation.gov.uk/ukpga/1954/70), as extended by the [Mines and Quarries (Tips) Act 1969 (c. 10)](https://www.legislation.gov.uk/ukpga/1969/10), and the [Mines Management Act 1971 (c. 20)](https://www.legislation.gov.uk/ukpga/1971/20) and as amended by the [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4).
 
@@ -779,39 +779,39 @@ In this standard—
 
 [^M_F_fe441a2e-32fc-42b4-a642-aaf52114ea77]: Textual amendment: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
 
-[^key-8e2a3215d98140e1417c2650cffede7d]: Textual amendment: [Sch. 5 para. 4.13](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/4.13) inserted (1.10.2010) by [The Building (Scotland) Amendment Regulations 2010 (S.S.I. 2010/32)](https://www.legislation.gov.uk/ssi/2010/32), [regs. 1](https://www.legislation.gov.uk/ssi/2010/32/regulation/1), [2(3)(h)](https://www.legislation.gov.uk/ssi/2010/32/regulation/2/3/h) (with [reg. 3](https://www.legislation.gov.uk/ssi/2010/32/regulation/3))
+[^c-8e2a3215d98140e1417c2650cffede7d]: Textual amendment: [Sch. 5 para. 4.13](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/4.13) inserted (1.10.2010) by [The Building (Scotland) Amendment Regulations 2010 (S.S.I. 2010/32)](https://www.legislation.gov.uk/ssi/2010/32), [regs. 1](https://www.legislation.gov.uk/ssi/2010/32/regulation/1), [2(3)(h)](https://www.legislation.gov.uk/ssi/2010/32/regulation/2/3/h) (with [reg. 3](https://www.legislation.gov.uk/ssi/2010/32/regulation/3))
 
-[^key-a3870b1909f047eb0829c80905ab19ac]: Textual amendment: Sch. 5 para. 4.14 substituted (1.1.2025) by [The Building (Scotland) Amendment Regulations 2024 (S.S.I. 2024/247)](https://www.legislation.gov.uk/ssi/2024/247), [regs. 1](https://www.legislation.gov.uk/ssi/2024/247/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2024/247/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/247/regulation/3))
+[^c-a3870b1909f047eb0829c80905ab19ac]: Textual amendment: Sch. 5 para. 4.14 substituted (1.1.2025) by [The Building (Scotland) Amendment Regulations 2024 (S.S.I. 2024/247)](https://www.legislation.gov.uk/ssi/2024/247), [regs. 1](https://www.legislation.gov.uk/ssi/2024/247/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2024/247/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/247/regulation/3))
 
-[^key-ba32ee2daa774fea97a4887cea3c34b1]: Textual amendment: Sch. 5 paras. 5.1, 5.2 substituted for sch. 5 para. 5.1 (1.10.2010) by [The Building (Scotland) Amendment Regulations 2010 (S.S.I. 2010/32)](https://www.legislation.gov.uk/ssi/2010/32), [regs. 1](https://www.legislation.gov.uk/ssi/2010/32/regulation/1), [2(3)(i)](https://www.legislation.gov.uk/ssi/2010/32/regulation/2/3/i) (with [reg. 3](https://www.legislation.gov.uk/ssi/2010/32/regulation/3))
+[^c-ba32ee2daa774fea97a4887cea3c34b1]: Textual amendment: Sch. 5 paras. 5.1, 5.2 substituted for sch. 5 para. 5.1 (1.10.2010) by [The Building (Scotland) Amendment Regulations 2010 (S.S.I. 2010/32)](https://www.legislation.gov.uk/ssi/2010/32), [regs. 1](https://www.legislation.gov.uk/ssi/2010/32/regulation/1), [2(3)(i)](https://www.legislation.gov.uk/ssi/2010/32/regulation/2/3/i) (with [reg. 3](https://www.legislation.gov.uk/ssi/2010/32/regulation/3))
 
-[^key-0bfee7893ea334969ff0b390085d2b56]: Textual amendment: [Sch. 5 para. 6.1 heading](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/crossheading/energy) substituted (1.2.2023) by [The Building (Scotland) Amendment Regulations 2022 (S.S.I. 2022/136)](https://www.legislation.gov.uk/ssi/2022/136), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/3), [9(b)(i)](https://www.legislation.gov.uk/ssi/2022/136/regulation/9/b/i) (with [reg. 11](https://www.legislation.gov.uk/ssi/2022/136/regulation/11)) (as amended by [S.S.I. 2022/340](https://www.legislation.gov.uk/ssi/2022/340), [reg. 2](https://www.legislation.gov.uk/ssi/2022/340/regulation/2))
+[^c-0bfee7893ea334969ff0b390085d2b56]: Textual amendment: [Sch. 5 para. 6.1 heading](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/crossheading/energy) substituted (1.2.2023) by [The Building (Scotland) Amendment Regulations 2022 (S.S.I. 2022/136)](https://www.legislation.gov.uk/ssi/2022/136), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/3), [9(b)(i)](https://www.legislation.gov.uk/ssi/2022/136/regulation/9/b/i) (with [reg. 11](https://www.legislation.gov.uk/ssi/2022/136/regulation/11)) (as amended by [S.S.I. 2022/340](https://www.legislation.gov.uk/ssi/2022/340), [reg. 2](https://www.legislation.gov.uk/ssi/2022/340/regulation/2))
 
-[^key-2b5473cf4fde6b8cf5e3fe5e83028a61]: Textual amendment: Words in [sch. 5 para. 6.1](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/6.1) heading omitted (1.4.2024) by virtue of [The Building (Scotland) Amendment Regulations 2023 (S.S.I. 2023/177)](https://www.legislation.gov.uk/ssi/2023/177), [regs. 1](https://www.legislation.gov.uk/ssi/2023/177/regulation/1), [4(a)(i)](https://www.legislation.gov.uk/ssi/2023/177/regulation/4/a/i) (with [reg. 6](https://www.legislation.gov.uk/ssi/2023/177/regulation/6))
+[^c-2b5473cf4fde6b8cf5e3fe5e83028a61]: Textual amendment: Words in [sch. 5 para. 6.1](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/6.1) heading omitted (1.4.2024) by virtue of [The Building (Scotland) Amendment Regulations 2023 (S.S.I. 2023/177)](https://www.legislation.gov.uk/ssi/2023/177), [regs. 1](https://www.legislation.gov.uk/ssi/2023/177/regulation/1), [4(a)(i)](https://www.legislation.gov.uk/ssi/2023/177/regulation/4/a/i) (with [reg. 6](https://www.legislation.gov.uk/ssi/2023/177/regulation/6))
 
-[^key-5ffcc4e0e84650ad9660f417c436ba8e]: Textual amendment: [Sch. 5 para. 6.1(a)](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/6.1/a) substituted (1.10.2010) by [The Building (Scotland) Amendment Regulations 2010 (S.S.I. 2010/32)](https://www.legislation.gov.uk/ssi/2010/32), [regs. 1](https://www.legislation.gov.uk/ssi/2010/32/regulation/1), [2(3)(j)(i)](https://www.legislation.gov.uk/ssi/2010/32/regulation/2/3/j/i) (with [reg. 3](https://www.legislation.gov.uk/ssi/2010/32/regulation/3))
+[^c-5ffcc4e0e84650ad9660f417c436ba8e]: Textual amendment: [Sch. 5 para. 6.1(a)](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/6.1/a) substituted (1.10.2010) by [The Building (Scotland) Amendment Regulations 2010 (S.S.I. 2010/32)](https://www.legislation.gov.uk/ssi/2010/32), [regs. 1](https://www.legislation.gov.uk/ssi/2010/32/regulation/1), [2(3)(j)(i)](https://www.legislation.gov.uk/ssi/2010/32/regulation/2/3/j/i) (with [reg. 3](https://www.legislation.gov.uk/ssi/2010/32/regulation/3))
 
 [^M_F_39e15ce5-cc98-4807-9a8c-a84657066777]: Textual amendment: [S.S.I. 2008/309](https://www.legislation.gov.uk/ssi/2008/309).
 
-[^key-b0e18afb9da54b471b2b6a0b74251602]: Textual amendment: Word in [sch. 5 para. 6.1.(a)](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/6.1./a) omitted (with application in accordance with reg. 1(2) of the amending S.S.I.) by virtue of [The Building (Energy Performance of Buildings) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/71)](https://www.legislation.gov.uk/ssi/2016/71), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2016/71/regulation/1/3), [2(3)(a)](https://www.legislation.gov.uk/ssi/2016/71/regulation/2/3/a)
+[^c-b0e18afb9da54b471b2b6a0b74251602]: Textual amendment: Word in [sch. 5 para. 6.1.(a)](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/6.1./a) omitted (with application in accordance with reg. 1(2) of the amending S.S.I.) by virtue of [The Building (Energy Performance of Buildings) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/71)](https://www.legislation.gov.uk/ssi/2016/71), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2016/71/regulation/1/3), [2(3)(a)](https://www.legislation.gov.uk/ssi/2016/71/regulation/2/3/a)
 
-[^key-ab620ad1778180249d01f43df9c5f2bd]: Textual amendment: [Sch. 5 para. 6.1(b)](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/6.1/b) omitted (1.4.2024) by virtue of [The Building (Scotland) Amendment Regulations 2023 (S.S.I. 2023/177)](https://www.legislation.gov.uk/ssi/2023/177), [regs. 1](https://www.legislation.gov.uk/ssi/2023/177/regulation/1), [4(a)(ii)](https://www.legislation.gov.uk/ssi/2023/177/regulation/4/a/ii) (with [reg. 6](https://www.legislation.gov.uk/ssi/2023/177/regulation/6))
+[^c-ab620ad1778180249d01f43df9c5f2bd]: Textual amendment: [Sch. 5 para. 6.1(b)](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/6.1/b) omitted (1.4.2024) by virtue of [The Building (Scotland) Amendment Regulations 2023 (S.S.I. 2023/177)](https://www.legislation.gov.uk/ssi/2023/177), [regs. 1](https://www.legislation.gov.uk/ssi/2023/177/regulation/1), [4(a)(ii)](https://www.legislation.gov.uk/ssi/2023/177/regulation/4/a/ii) (with [reg. 6](https://www.legislation.gov.uk/ssi/2023/177/regulation/6))
 
-[^key-c9900eda235da2bfb754c6e79bb031c8]: Textual amendment: [Sch. 5 para. 6.1.(c)](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/6.1./c) and word inserted (with application in accordance with reg. 1(2) of the amending S.S.I.) by [The Building (Energy Performance of Buildings) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/71)](https://www.legislation.gov.uk/ssi/2016/71), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2016/71/regulation/1/3), [2(3)(b)](https://www.legislation.gov.uk/ssi/2016/71/regulation/2/3/b)
+[^c-c9900eda235da2bfb754c6e79bb031c8]: Textual amendment: [Sch. 5 para. 6.1.(c)](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/6.1./c) and word inserted (with application in accordance with reg. 1(2) of the amending S.S.I.) by [The Building (Energy Performance of Buildings) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/71)](https://www.legislation.gov.uk/ssi/2016/71), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2016/71/regulation/1/3), [2(3)(b)](https://www.legislation.gov.uk/ssi/2016/71/regulation/2/3/b)
 
-[^key-e3b4690f925f861227632ed0d6fbfa84]: Textual amendment: [Sch. 5 para. 6.1(d)](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/6.1/d) inserted (1.2.2023) by [The Building (Scotland) Amendment Regulations 2022 (S.S.I. 2022/136)](https://www.legislation.gov.uk/ssi/2022/136), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/3), [9(b)(iii)](https://www.legislation.gov.uk/ssi/2022/136/regulation/9/b/iii) (with [reg. 11](https://www.legislation.gov.uk/ssi/2022/136/regulation/11)) (as amended by [S.S.I. 2022/340](https://www.legislation.gov.uk/ssi/2022/340), [reg. 2](https://www.legislation.gov.uk/ssi/2022/340/regulation/2))
+[^c-e3b4690f925f861227632ed0d6fbfa84]: Textual amendment: [Sch. 5 para. 6.1(d)](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/6.1/d) inserted (1.2.2023) by [The Building (Scotland) Amendment Regulations 2022 (S.S.I. 2022/136)](https://www.legislation.gov.uk/ssi/2022/136), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/3), [9(b)(iii)](https://www.legislation.gov.uk/ssi/2022/136/regulation/9/b/iii) (with [reg. 11](https://www.legislation.gov.uk/ssi/2022/136/regulation/11)) (as amended by [S.S.I. 2022/340](https://www.legislation.gov.uk/ssi/2022/340), [reg. 2](https://www.legislation.gov.uk/ssi/2022/340/regulation/2))
 
 [^M_F_9eb70d51-da1a-410c-b9b4-3267dce58399]: Textual amendment: Words in sch. 5 para. 6.1 inserted (with application in accordance with reg. 1(2) of the amending S.S.I.) by [The Building (Energy Performance of Buildings) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/71)](https://www.legislation.gov.uk/ssi/2016/71), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2016/71/regulation/1/3), [2(3)(c)](https://www.legislation.gov.uk/ssi/2016/71/regulation/2/3/c)
 
 [^M_F_1220e7b3-d67e-4175-c8b1-b02b8d1fc014]: Textual amendment: [S.S.I. 2008/309](https://www.legislation.gov.uk/ssi/2008/309). Regulation 7 was substituted by [S.S.I. 2012/315](https://www.legislation.gov.uk/ssi/2012/315).
 
-[^key-2ac92d2b2bc303b028ca10d1e4f88a1f]: Textual amendment: Words in [sch. 5 para. 6.1](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/6.1) substituted (1.2.2023) by [The Building (Scotland) Amendment Regulations 2022 (S.S.I. 2022/136)](https://www.legislation.gov.uk/ssi/2022/136), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/3), [9(b)(iv)(aa)](https://www.legislation.gov.uk/ssi/2022/136/regulation/9/b/iv/aa) (with [reg. 11](https://www.legislation.gov.uk/ssi/2022/136/regulation/11)) (as amended by [S.S.I. 2022/340](https://www.legislation.gov.uk/ssi/2022/340), [reg. 2](https://www.legislation.gov.uk/ssi/2022/340/regulation/2))
+[^c-2ac92d2b2bc303b028ca10d1e4f88a1f]: Textual amendment: Words in [sch. 5 para. 6.1](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/6.1) substituted (1.2.2023) by [The Building (Scotland) Amendment Regulations 2022 (S.S.I. 2022/136)](https://www.legislation.gov.uk/ssi/2022/136), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/3), [9(b)(iv)(aa)](https://www.legislation.gov.uk/ssi/2022/136/regulation/9/b/iv/aa) (with [reg. 11](https://www.legislation.gov.uk/ssi/2022/136/regulation/11)) (as amended by [S.S.I. 2022/340](https://www.legislation.gov.uk/ssi/2022/340), [reg. 2](https://www.legislation.gov.uk/ssi/2022/340/regulation/2))
 
-[^key-9dd2ab434bc0d731300fe089d6988000]: Textual amendment: Words in sch. 5 para. 6.1 omitted (1.4.2024) by virtue of [The Building (Scotland) Amendment Regulations 2023 (S.S.I. 2023/177)](https://www.legislation.gov.uk/ssi/2023/177), [regs. 1](https://www.legislation.gov.uk/ssi/2023/177/regulation/1), [4(a)(iii)](https://www.legislation.gov.uk/ssi/2023/177/regulation/4/a/iii) (with [reg. 6](https://www.legislation.gov.uk/ssi/2023/177/regulation/6))
+[^c-9dd2ab434bc0d731300fe089d6988000]: Textual amendment: Words in sch. 5 para. 6.1 omitted (1.4.2024) by virtue of [The Building (Scotland) Amendment Regulations 2023 (S.S.I. 2023/177)](https://www.legislation.gov.uk/ssi/2023/177), [regs. 1](https://www.legislation.gov.uk/ssi/2023/177/regulation/1), [4(a)(iii)](https://www.legislation.gov.uk/ssi/2023/177/regulation/4/a/iii) (with [reg. 6](https://www.legislation.gov.uk/ssi/2023/177/regulation/6))
 
 [^M_F_5bf35987-350f-43f2-fda3-943b2a883c99]: Textual amendment: Words in Sch. 5 para. 6.1 substituted (1.10.2015) by [The Building (Scotland) Amendment Regulations 2014 (S.S.I. 2014/219)](https://www.legislation.gov.uk/ssi/2014/219), [regs. 1](https://www.legislation.gov.uk/ssi/2014/219/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2014/219/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/219/regulation/3))
 
-[^key-c4cb26c3f8abf8a08fb5b4443958b73e]: Textual amendment: Word in [sch. 5 para. 6.1](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/6.1) omitted (1.2.2023) by virtue of [The Building (Scotland) Amendment Regulations 2022 (S.S.I. 2022/136)](https://www.legislation.gov.uk/ssi/2022/136), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/3), [9(b)(iv)(bb)](https://www.legislation.gov.uk/ssi/2022/136/regulation/9/b/iv/bb) (with [reg. 11](https://www.legislation.gov.uk/ssi/2022/136/regulation/11)) (as amended by [S.S.I. 2022/340](https://www.legislation.gov.uk/ssi/2022/340), [reg. 2](https://www.legislation.gov.uk/ssi/2022/340/regulation/2))
+[^c-c4cb26c3f8abf8a08fb5b4443958b73e]: Textual amendment: Word in [sch. 5 para. 6.1](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/6.1) omitted (1.2.2023) by virtue of [The Building (Scotland) Amendment Regulations 2022 (S.S.I. 2022/136)](https://www.legislation.gov.uk/ssi/2022/136), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/3), [9(b)(iv)(bb)](https://www.legislation.gov.uk/ssi/2022/136/regulation/9/b/iv/bb) (with [reg. 11](https://www.legislation.gov.uk/ssi/2022/136/regulation/11)) (as amended by [S.S.I. 2022/340](https://www.legislation.gov.uk/ssi/2022/340), [reg. 2](https://www.legislation.gov.uk/ssi/2022/340/regulation/2))
 
 [^M_F_5be41d24-8079-42c4-9642-7669c76db2ec]: Textual amendment: Words in Sch. 5 para. 6.3 omitted (1.10.2015) by virtue of [The Building (Scotland) Amendment Regulations 2015 (S.S.I. 2015/218)](https://www.legislation.gov.uk/ssi/2015/218), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2015/218/regulation/1/3), [3(2)](https://www.legislation.gov.uk/ssi/2015/218/regulation/3/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2015/218/regulation/4))
 
@@ -819,15 +819,15 @@ In this standard—
 
 [^M_F_bfe8a5b4-010d-4d57-c768-1ed70ebb166b]: Textual amendment: Sch. 5 para. 6.5: limitation substituted (1.10.2010) by [The Building (Scotland) Amendment Regulations 2010 (S.S.I. 2010/32)](https://www.legislation.gov.uk/ssi/2010/32), [regs. 1](https://www.legislation.gov.uk/ssi/2010/32/regulation/1), [2(3)(l)](https://www.legislation.gov.uk/ssi/2010/32/regulation/2/3/l) (with [reg. 3](https://www.legislation.gov.uk/ssi/2010/32/regulation/3))
 
-[^key-7c5508051520caa847d4dfe58b6996dc]: Textual amendment: Words in [sch. 5 para. 6.6(b)](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/6.6/b) omitted (1.10.2010) by virtue of [The Building (Scotland) Amendment Regulations 2010 (S.S.I. 2010/32)](https://www.legislation.gov.uk/ssi/2010/32), [regs. 1](https://www.legislation.gov.uk/ssi/2010/32/regulation/1), [2(3)(m)](https://www.legislation.gov.uk/ssi/2010/32/regulation/2/3/m) (with [reg. 3](https://www.legislation.gov.uk/ssi/2010/32/regulation/3))
+[^c-7c5508051520caa847d4dfe58b6996dc]: Textual amendment: Words in [sch. 5 para. 6.6(b)](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/6.6/b) omitted (1.10.2010) by virtue of [The Building (Scotland) Amendment Regulations 2010 (S.S.I. 2010/32)](https://www.legislation.gov.uk/ssi/2010/32), [regs. 1](https://www.legislation.gov.uk/ssi/2010/32/regulation/1), [2(3)(m)](https://www.legislation.gov.uk/ssi/2010/32/regulation/2/3/m) (with [reg. 3](https://www.legislation.gov.uk/ssi/2010/32/regulation/3))
 
-[^key-ec68dce59886f4ce19d4cfcaf174a129]: Textual amendment: Words in [sch. 5 para. 6.7](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/6.7) inserted (1.2.2023) by [The Building (Scotland) Amendment Regulations 2022 (S.S.I. 2022/136)](https://www.legislation.gov.uk/ssi/2022/136), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/3), [9(c)(i)](https://www.legislation.gov.uk/ssi/2022/136/regulation/9/c/i) (with [reg. 11](https://www.legislation.gov.uk/ssi/2022/136/regulation/11)) (as amended by [S.S.I. 2022/340](https://www.legislation.gov.uk/ssi/2022/340), [reg. 2](https://www.legislation.gov.uk/ssi/2022/340/regulation/2))
+[^c-ec68dce59886f4ce19d4cfcaf174a129]: Textual amendment: Words in [sch. 5 para. 6.7](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/6.7) inserted (1.2.2023) by [The Building (Scotland) Amendment Regulations 2022 (S.S.I. 2022/136)](https://www.legislation.gov.uk/ssi/2022/136), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/3), [9(c)(i)](https://www.legislation.gov.uk/ssi/2022/136/regulation/9/c/i) (with [reg. 11](https://www.legislation.gov.uk/ssi/2022/136/regulation/11)) (as amended by [S.S.I. 2022/340](https://www.legislation.gov.uk/ssi/2022/340), [reg. 2](https://www.legislation.gov.uk/ssi/2022/340/regulation/2))
 
-[^key-88409d04493959a20a50ca1797d25e2c]: Textual amendment: Words in [sch. 5 para. 6.7](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/6.7) inserted (1.2.2023) by [The Building (Scotland) Amendment Regulations 2022 (S.S.I. 2022/136)](https://www.legislation.gov.uk/ssi/2022/136), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/3), [9(c)(ii)](https://www.legislation.gov.uk/ssi/2022/136/regulation/9/c/ii) (with [reg. 11](https://www.legislation.gov.uk/ssi/2022/136/regulation/11)) (as amended by [S.S.I. 2022/340](https://www.legislation.gov.uk/ssi/2022/340), [reg. 2](https://www.legislation.gov.uk/ssi/2022/340/regulation/2))
+[^c-88409d04493959a20a50ca1797d25e2c]: Textual amendment: Words in [sch. 5 para. 6.7](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/6.7) inserted (1.2.2023) by [The Building (Scotland) Amendment Regulations 2022 (S.S.I. 2022/136)](https://www.legislation.gov.uk/ssi/2022/136), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/136/regulation/1/3), [9(c)(ii)](https://www.legislation.gov.uk/ssi/2022/136/regulation/9/c/ii) (with [reg. 11](https://www.legislation.gov.uk/ssi/2022/136/regulation/11)) (as amended by [S.S.I. 2022/340](https://www.legislation.gov.uk/ssi/2022/340), [reg. 2](https://www.legislation.gov.uk/ssi/2022/340/regulation/2))
 
 [^M_F_2499fd30-164b-45c6-d28f-adbc037b5260]: Textual amendment: Sch. 5 para. 6.8: words omitted (1.10.2010) by virtue of [The Building (Scotland) Amendment Regulations 2010 (S.S.I. 2010/32)](https://www.legislation.gov.uk/ssi/2010/32), [regs. 1](https://www.legislation.gov.uk/ssi/2010/32/regulation/1), [2(3)(n)](https://www.legislation.gov.uk/ssi/2010/32/regulation/2/3/n) (with [reg. 3](https://www.legislation.gov.uk/ssi/2010/32/regulation/3))
 
-[^key-71c93e28836c260e198c0a70b3d559d7]: Textual amendment: Sch. 5 para. 6.9(a) substituted for para. 6.9(a)(b) (4.1.2009) by [The Building (Scotland) Amendment Regulations 2008 (S.S.I. 2008/310)](https://www.legislation.gov.uk/ssi/2008/310), [regs. 1](https://www.legislation.gov.uk/ssi/2008/310/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2008/310/regulation/2/4)
+[^c-71c93e28836c260e198c0a70b3d559d7]: Textual amendment: Sch. 5 para. 6.9(a) substituted for para. 6.9(a)(b) (4.1.2009) by [The Building (Scotland) Amendment Regulations 2008 (S.S.I. 2008/310)](https://www.legislation.gov.uk/ssi/2008/310), [regs. 1](https://www.legislation.gov.uk/ssi/2008/310/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2008/310/regulation/2/4)
 
 [^M_F_aaeae51e-e6b0-44ac-f145-eadb24413117]: Textual amendment: Words in Sch. 5 para. 6.9 substituted (1.10.2015) by [The Building (Scotland) Amendment Regulations 2014 (S.S.I. 2014/219)](https://www.legislation.gov.uk/ssi/2014/219), [regs. 1](https://www.legislation.gov.uk/ssi/2014/219/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2014/219/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/219/regulation/3))
 
@@ -835,24 +835,24 @@ In this standard—
 
 [^M_F_c269225c-95b7-4914-fe3a-7c229cd4c7bc]: Textual amendment: Word in Sch. 5 para. 6.9 substituted (9.7.2015) by [The Building (Scotland) Amendment Regulations 2015 (S.S.I. 2015/218)](https://www.legislation.gov.uk/ssi/2015/218), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/218/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2015/218/regulation/2/2)
 
-[^key-1d5a23f3a57938c1934d18d0b2de0bc8]: Textual amendment: Words in [sch. 5 para. 6.10](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/6.10) inserted (1.10.2010) by [The Building (Scotland) Amendment Regulations 2010 (S.S.I. 2010/32)](https://www.legislation.gov.uk/ssi/2010/32), [regs. 1](https://www.legislation.gov.uk/ssi/2010/32/regulation/1), [2(3)(o)(i)](https://www.legislation.gov.uk/ssi/2010/32/regulation/2/3/o/i) (with [reg. 3](https://www.legislation.gov.uk/ssi/2010/32/regulation/3))
+[^c-1d5a23f3a57938c1934d18d0b2de0bc8]: Textual amendment: Words in [sch. 5 para. 6.10](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/6.10) inserted (1.10.2010) by [The Building (Scotland) Amendment Regulations 2010 (S.S.I. 2010/32)](https://www.legislation.gov.uk/ssi/2010/32), [regs. 1](https://www.legislation.gov.uk/ssi/2010/32/regulation/1), [2(3)(o)(i)](https://www.legislation.gov.uk/ssi/2010/32/regulation/2/3/o/i) (with [reg. 3](https://www.legislation.gov.uk/ssi/2010/32/regulation/3))
 
-[^key-fa4da4891b86acab4acc144ebbd3eb2e]: Textual amendment: Words in [sch. 5 para. 6.10](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/6.10) substituted (1.10.2010) by [The Building (Scotland) Amendment Regulations 2010 (S.S.I. 2010/32)](https://www.legislation.gov.uk/ssi/2010/32), [regs. 1](https://www.legislation.gov.uk/ssi/2010/32/regulation/1), [2(3)(o)(ii)](https://www.legislation.gov.uk/ssi/2010/32/regulation/2/3/o/ii) (with [reg. 3](https://www.legislation.gov.uk/ssi/2010/32/regulation/3))
+[^c-fa4da4891b86acab4acc144ebbd3eb2e]: Textual amendment: Words in [sch. 5 para. 6.10](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/6.10) substituted (1.10.2010) by [The Building (Scotland) Amendment Regulations 2010 (S.S.I. 2010/32)](https://www.legislation.gov.uk/ssi/2010/32), [regs. 1](https://www.legislation.gov.uk/ssi/2010/32/regulation/1), [2(3)(o)(ii)](https://www.legislation.gov.uk/ssi/2010/32/regulation/2/3/o/ii) (with [reg. 3](https://www.legislation.gov.uk/ssi/2010/32/regulation/3))
 
 [^M_F_4ada9d88-c3e5-4b12-fc38-c654490137f2]: Textual amendment: Words in Sch. 5 para. 6.10 omitted (1.10.2010) by virtue of [The Building (Scotland) Amendment Regulations 2010 (S.S.I. 2010/32)](https://www.legislation.gov.uk/ssi/2010/32), [regs. 1](https://www.legislation.gov.uk/ssi/2010/32/regulation/1), [2(3)(o)(iii)](https://www.legislation.gov.uk/ssi/2010/32/regulation/2/3/o/iii) (with [reg. 3](https://www.legislation.gov.uk/ssi/2010/32/regulation/3))
 
-[^key-12e18ec93b58f5101d700ab0ef64f729]: Textual amendment: Sch. 5 para. 6.11 inserted (1.4.2024) by [The Building (Scotland) Amendment Regulations 2023 (S.S.I. 2023/177)](https://www.legislation.gov.uk/ssi/2023/177), [regs. 1](https://www.legislation.gov.uk/ssi/2023/177/regulation/1), [4(b)](https://www.legislation.gov.uk/ssi/2023/177/regulation/4/b) (with [reg. 6](https://www.legislation.gov.uk/ssi/2023/177/regulation/6))
+[^c-12e18ec93b58f5101d700ab0ef64f729]: Textual amendment: Sch. 5 para. 6.11 inserted (1.4.2024) by [The Building (Scotland) Amendment Regulations 2023 (S.S.I. 2023/177)](https://www.legislation.gov.uk/ssi/2023/177), [regs. 1](https://www.legislation.gov.uk/ssi/2023/177/regulation/1), [4(b)](https://www.legislation.gov.uk/ssi/2023/177/regulation/4/b) (with [reg. 6](https://www.legislation.gov.uk/ssi/2023/177/regulation/6))
 
-[^key-0037e14f2d5a15754304920930b15f05]: Textual amendment: Words in sch. 5 para. 6.11 inserted (1.1.2025) by [The Building (Scotland) Amendment (No. 2) Regulations 2024 (S.S.I. 2024/327)](https://www.legislation.gov.uk/ssi/2024/327), [regs. 1](https://www.legislation.gov.uk/ssi/2024/327/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2024/327/regulation/2/2/a)
+[^c-0037e14f2d5a15754304920930b15f05]: Textual amendment: Words in sch. 5 para. 6.11 inserted (1.1.2025) by [The Building (Scotland) Amendment (No. 2) Regulations 2024 (S.S.I. 2024/327)](https://www.legislation.gov.uk/ssi/2024/327), [regs. 1](https://www.legislation.gov.uk/ssi/2024/327/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2024/327/regulation/2/2/a)
 
-[^key-aa4ee432968b8bf8007e426eba227ed5]: Textual amendment: Words in sch. 5 para. 6.11 substituted (1.1.2025) by [The Building (Scotland) Amendment (No. 2) Regulations 2024 (S.S.I. 2024/327)](https://www.legislation.gov.uk/ssi/2024/327), [regs. 1](https://www.legislation.gov.uk/ssi/2024/327/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2024/327/regulation/2/2/b)
+[^c-aa4ee432968b8bf8007e426eba227ed5]: Textual amendment: Words in sch. 5 para. 6.11 substituted (1.1.2025) by [The Building (Scotland) Amendment (No. 2) Regulations 2024 (S.S.I. 2024/327)](https://www.legislation.gov.uk/ssi/2024/327), [regs. 1](https://www.legislation.gov.uk/ssi/2024/327/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2024/327/regulation/2/2/b)
 
-[^key-39b229f2986c92bd8461672a77d8c5cd]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/ssi/2004/406/schedule/5) Section 7 inserted (1.5.2011) by [The Building (Scotland) Amendment Regulations 2011 (S.S.I. 2011/120)](https://www.legislation.gov.uk/ssi/2011/120), [regs. 1](https://www.legislation.gov.uk/ssi/2011/120/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2011/120/regulation/2/4)
+[^c-39b229f2986c92bd8461672a77d8c5cd]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/ssi/2004/406/schedule/5) Section 7 inserted (1.5.2011) by [The Building (Scotland) Amendment Regulations 2011 (S.S.I. 2011/120)](https://www.legislation.gov.uk/ssi/2011/120), [regs. 1](https://www.legislation.gov.uk/ssi/2011/120/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2011/120/regulation/2/4)
 
-[^key-06374351b996e7b17c8a63d9d376fdba]: Textual amendment: Words in [sch. 5 para. 7.1(a)](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/7.1/a) inserted (1.10.2013) by [The Building (Miscellaneous Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/143)](https://www.legislation.gov.uk/ssi/2013/143), [regs. 1](https://www.legislation.gov.uk/ssi/2013/143/regulation/1), [2(2)(d)(i)](https://www.legislation.gov.uk/ssi/2013/143/regulation/2/2/d/i) (with [reg. 5](https://www.legislation.gov.uk/ssi/2013/143/regulation/5))
+[^c-06374351b996e7b17c8a63d9d376fdba]: Textual amendment: Words in [sch. 5 para. 7.1(a)](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/7.1/a) inserted (1.10.2013) by [The Building (Miscellaneous Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/143)](https://www.legislation.gov.uk/ssi/2013/143), [regs. 1](https://www.legislation.gov.uk/ssi/2013/143/regulation/1), [2(2)(d)(i)](https://www.legislation.gov.uk/ssi/2013/143/regulation/2/2/d/i) (with [reg. 5](https://www.legislation.gov.uk/ssi/2013/143/regulation/5))
 
-[^key-659fd32df5dd076c9f73871ab7367c09]: Textual amendment: Words in [sch. 5 para. 7.1(b)](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/7.1/b) inserted (1.10.2013) by [The Building (Miscellaneous Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/143)](https://www.legislation.gov.uk/ssi/2013/143), [regs. 1](https://www.legislation.gov.uk/ssi/2013/143/regulation/1), [2(2)(d)(ii)](https://www.legislation.gov.uk/ssi/2013/143/regulation/2/2/d/ii) (with [reg. 5](https://www.legislation.gov.uk/ssi/2013/143/regulation/5))
+[^c-659fd32df5dd076c9f73871ab7367c09]: Textual amendment: Words in [sch. 5 para. 7.1(b)](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/7.1/b) inserted (1.10.2013) by [The Building (Miscellaneous Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/143)](https://www.legislation.gov.uk/ssi/2013/143), [regs. 1](https://www.legislation.gov.uk/ssi/2013/143/regulation/1), [2(2)(d)(ii)](https://www.legislation.gov.uk/ssi/2013/143/regulation/2/2/d/ii) (with [reg. 5](https://www.legislation.gov.uk/ssi/2013/143/regulation/5))
 
 [^M_F_41c558ce-92e9-47b4-ff06-59f7a1274ca1]: Textual amendment: Words in Sch. 5 para. 7.1 omitted (1.10.2013) by virtue of [The Building (Miscellaneous Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/143)](https://www.legislation.gov.uk/ssi/2013/143), [regs. 1](https://www.legislation.gov.uk/ssi/2013/143/regulation/1), [2(2)(d)(iii)](https://www.legislation.gov.uk/ssi/2013/143/regulation/2/2/d/iii) (with [reg. 5](https://www.legislation.gov.uk/ssi/2013/143/regulation/5))
 
-[^key-bf8b536517809edf830af6e082fd8bad]: Textual amendment: [Sch. 5 para. 7.2](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/7.2) inserted (5.6.2023) by [The Building (Scotland) Amendment (No. 2) Regulations 2022 (S.S.I. 2022/349)](https://www.legislation.gov.uk/ssi/2022/349), [regs. 1](https://www.legislation.gov.uk/ssi/2022/349/regulation/1), [3](https://www.legislation.gov.uk/ssi/2022/349/regulation/3) (with [reg. 5](https://www.legislation.gov.uk/ssi/2022/349/regulation/5)) (as amended by [S.S.I. 2023/65](https://www.legislation.gov.uk/ssi/2023/65), [regs. 1](https://www.legislation.gov.uk/ssi/2023/65/regulation/1), [2](https://www.legislation.gov.uk/ssi/2023/65/regulation/2))
+[^c-bf8b536517809edf830af6e082fd8bad]: Textual amendment: [Sch. 5 para. 7.2](https://www.legislation.gov.uk/ssi/2004/406/schedule/5/paragraph/7.2) inserted (5.6.2023) by [The Building (Scotland) Amendment (No. 2) Regulations 2022 (S.S.I. 2022/349)](https://www.legislation.gov.uk/ssi/2022/349), [regs. 1](https://www.legislation.gov.uk/ssi/2022/349/regulation/1), [3](https://www.legislation.gov.uk/ssi/2022/349/regulation/3) (with [reg. 5](https://www.legislation.gov.uk/ssi/2022/349/regulation/5)) (as amended by [S.S.I. 2023/65](https://www.legislation.gov.uk/ssi/2023/65), [regs. 1](https://www.legislation.gov.uk/ssi/2023/65/regulation/1), [2](https://www.legislation.gov.uk/ssi/2023/65/regulation/2))

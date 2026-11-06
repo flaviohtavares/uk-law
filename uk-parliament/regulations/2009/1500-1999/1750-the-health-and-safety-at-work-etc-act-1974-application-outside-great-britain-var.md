@@ -32,7 +32,7 @@ summary: ''
 
 Health And Safety
 
-The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2009 (revoked)[^key-36ba5df501878e06ff0a636cc7ef6a10]
+The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2009 (revoked)[^c-36ba5df501878e06ff0a636cc7ef6a10]
 
 Made
 
@@ -52,22 +52,22 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-36ba5df501878e06ff0a636cc7ef6a10]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-36ba5df501878e06ff0a636cc7ef6a10]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-36ba5df501878e06ff0a636cc7ef6a10]
+## 1. Citation and commencement[^c-36ba5df501878e06ff0a636cc7ef6a10]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Variation of the Health and Safety at Work etc. Act 1974 (Application outside Great Britain) Order 2001[^key-36ba5df501878e06ff0a636cc7ef6a10]
+## 2. Variation of the Health and Safety at Work etc. Act 1974 (Application outside Great Britain) Order 2001[^c-36ba5df501878e06ff0a636cc7ef6a10]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-36ba5df501878e06ff0a636cc7ef6a10]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-36ba5df501878e06ff0a636cc7ef6a10]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-36ba5df501878e06ff0a636cc7ef6a10]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-36ba5df501878e06ff0a636cc7ef6a10]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-36ba5df501878e06ff0a636cc7ef6a10]: Textual amendment: Order revoked (6.4.2011) by The Health and Safety at [Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2011 (S.I. 2011/745)](https://www.legislation.gov.uk/uksi/2011/745), [arts. 1](https://www.legislation.gov.uk/uksi/2011/745/article/1), [2](https://www.legislation.gov.uk/uksi/2011/745/article/2)
+[^c-36ba5df501878e06ff0a636cc7ef6a10]: Textual amendment: Order revoked (6.4.2011) by The Health and Safety at [Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2011 (S.I. 2011/745)](https://www.legislation.gov.uk/uksi/2011/745), [arts. 1](https://www.legislation.gov.uk/uksi/2011/745/article/1), [2](https://www.legislation.gov.uk/uksi/2011/745/article/2)

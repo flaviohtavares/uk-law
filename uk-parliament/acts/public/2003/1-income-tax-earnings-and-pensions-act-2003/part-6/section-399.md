@@ -23,9 +23,9 @@ summary: ''
 (1) This section applies if—
 
 - (a) an amount consisting of, or including, an amount representing the benefit of a loan (“a taxable amount”) counts as employment income of an individual in a tax year under section 394(1), or
-- (b) the person who is (or any of the persons who are) the responsible person in relation to[^key-16e801ba57b269ef7f12f0f31c04a813] a scheme is charged to tax on a taxable amount ... under section 394(2).
+- (b) the person who is (or any of the persons who are) the responsible person in relation to[^c-16e801ba57b269ef7f12f0f31c04a813] a scheme is charged to tax on a taxable amount ... under section 394(2).
 
-(2) The individual or the responsible person[^key-83e94127615787271a6d9227b363235e] is to be treated for all purposes of the Tax Acts (other than this Chapter) as having paid interest on the loan in the tax year equal to the amount representing the cash equivalent of the loan.
+(2) The individual or the responsible person[^c-83e94127615787271a6d9227b363235e] is to be treated for all purposes of the Tax Acts (other than this Chapter) as having paid interest on the loan in the tax year equal to the amount representing the cash equivalent of the loan.
 
 (3) The interest is to be treated—
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-16e801ba57b269ef7f12f0f31c04a813]: Textual amendment: Words in s. 399(1) substituted (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [ss. 249(9)](https://www.legislation.gov.uk/ukpga/2004/12/section/249/9), [284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-16e801ba57b269ef7f12f0f31c04a813]: Textual amendment: Words in s. 399(1) substituted (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [ss. 249(9)](https://www.legislation.gov.uk/ukpga/2004/12/section/249/9), [284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
 
-[^key-83e94127615787271a6d9227b363235e]: Textual amendment: Words in s. 399(2) substituted (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [ss. 249(10)](https://www.legislation.gov.uk/ukpga/2004/12/section/249/10), [284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-83e94127615787271a6d9227b363235e]: Textual amendment: Words in s. 399(2) substituted (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [ss. 249(10)](https://www.legislation.gov.uk/ukpga/2004/12/section/249/10), [284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))

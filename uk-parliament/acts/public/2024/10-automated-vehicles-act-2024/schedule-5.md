@@ -24,7 +24,7 @@ summary: ''
 
 Section 81(4)
 
-### 1. Duty to enforce[^key-1dd0413b7d1e9bf6e56a9c7d066220fd]
+### 1. Duty to enforce[^c-1dd0413b7d1e9bf6e56a9c7d066220fd]
 
 *Extent: E+W+S*
 
@@ -34,7 +34,7 @@ Section 81(4)
 
 (2) Sub-paragraph (1) does not authorise the Secretary of State to bring criminal proceedings in Scotland.
 
-### 2. Application of consumer enforcement powers[^key-71bb7e84405266cc5a311ef13feb41a8]
+### 2. Application of consumer enforcement powers[^c-71bb7e84405266cc5a311ef13feb41a8]
 
 In paragraph 10 of Schedule 5 to the Consumer Rights Act 2015 (enforcement responsibilities attracting investigatory powers under that Schedule), at the appropriate place insert—
 
@@ -42,7 +42,7 @@ In paragraph 10 of Schedule 5 to the Consumer Rights Act 2015 (enforcement respo
 
 .
 
-### 3. Out-of-court undertakings[^key-a7f455e227f905ab59891cea6f0b7c11]
+### 3. Out-of-court undertakings[^c-a7f455e227f905ab59891cea6f0b7c11]
 
 *Extent: E+W+S*
 
@@ -52,7 +52,7 @@ In paragraph 10 of Schedule 5 to the Consumer Rights Act 2015 (enforcement respo
 
 (3) The Secretary of State must publish details of any undertaking accepted under this paragraph.
 
-### 4. Civil injunctions[^key-e0581a6f532f9e582c1704b4c6a2df57]
+### 4. Civil injunctions[^c-e0581a6f532f9e582c1704b4c6a2df57]
 
 *Extent: E+W+S*
 
@@ -90,7 +90,7 @@ and is so exercisable for the purpose of eliminating any continuing effect of th
   - (b) a sheriff or the Court of Session, in Scotland;
 - “**injunction**” is to be read, in the application of this paragraph in Scotland, as “interdict”.
 
-### 5. Time limit for prosecution[^key-a4972b64d5233969af4078b002f65f72]
+### 5. Time limit for prosecution[^c-a4972b64d5233969af4078b002f65f72]
 
 *Extent: E+W+S*
 
@@ -106,12 +106,12 @@ and is so exercisable for the purpose of eliminating any continuing effect of th
 
 ## Annotations
 
-[^key-1dd0413b7d1e9bf6e56a9c7d066220fd]: Commencement: Sch. 5 para. 1 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-1dd0413b7d1e9bf6e56a9c7d066220fd]: Commencement: Sch. 5 para. 1 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
 
-[^key-71bb7e84405266cc5a311ef13feb41a8]: Commencement: Sch. 5 para. 2 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-71bb7e84405266cc5a311ef13feb41a8]: Commencement: Sch. 5 para. 2 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
 
-[^key-a7f455e227f905ab59891cea6f0b7c11]: Commencement: Sch. 5 para. 3 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-a7f455e227f905ab59891cea6f0b7c11]: Commencement: Sch. 5 para. 3 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
 
-[^key-e0581a6f532f9e582c1704b4c6a2df57]: Commencement: Sch. 5 para. 4 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-e0581a6f532f9e582c1704b4c6a2df57]: Commencement: Sch. 5 para. 4 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
 
-[^key-a4972b64d5233969af4078b002f65f72]: Commencement: Sch. 5 para. 5 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-a4972b64d5233969af4078b002f65f72]: Commencement: Sch. 5 para. 5 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Power of the Scottish Ministers to require the provision of evidence[^key-81ed68f7a03b8e51558f56460b040fa1]
+## 79. Power of the Scottish Ministers to require the provision of evidence[^c-81ed68f7a03b8e51558f56460b040fa1]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81ed68f7a03b8e51558f56460b040fa1]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2021/15/section/79) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-81ed68f7a03b8e51558f56460b040fa1]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2021/15/section/79) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

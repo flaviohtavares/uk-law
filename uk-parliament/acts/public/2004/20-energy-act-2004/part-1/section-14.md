@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Annual reports[^key-fc8f1e391906fbce9a9f24fcdb0eec23]
+## 14. Annual reports[^c-fc8f1e391906fbce9a9f24fcdb0eec23]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ it must also send a copy of that report to the Scottish Ministers.
 - (d) a report on every change occurring during that year in the identity of persons with control of designated installations, designated sites and designated facilities;
 - (e) a report of every significant change during that year to the contractual arrangements of the NDA that are in force with respect to the carrying out (whether or not during that year) of decommissioning or cleaning-up work;
 - (f) a report on the extent to which the NDA has implemented its plan for that year;
-- (g) a report of the NDA’s dealings during that year with the Office for Nuclear Regulation,[^key-6cff73c9ba4af4b3df0018626bac99fa] the Health and Safety Executive, the Environment Agency, the Natural Resources Body for Wales[^key-1248de6f405455931af234ad305f3fb3] and the Scottish Environment Protection Agency;
+- (g) a report of the NDA’s dealings during that year with the Office for Nuclear Regulation,[^c-6cff73c9ba4af4b3df0018626bac99fa] the Health and Safety Executive, the Environment Agency, the Natural Resources Body for Wales[^c-1248de6f405455931af234ad305f3fb3] and the Scottish Environment Protection Agency;
 - (h) a report containing an assessment of the performance in relation to safety and environmental matters of the persons (other than the NDA itself) who have control of designated installations, designated sites and designated facilities;
 - (i) a report of the NDA’s dealings during that year with such persons with responsibilities in relation to nuclear security as have been nominated for the purposes of this subsection by the Secretary of State; and
 - (j) any other matters which the NDA is directed by the Secretary of State to include in that report.
@@ -73,8 +73,8 @@ anything falling within subsection (10).
 
 ## Annotations
 
-[^key-fc8f1e391906fbce9a9f24fcdb0eec23]: Commencement: S. 14 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-fc8f1e391906fbce9a9f24fcdb0eec23]: Commencement: S. 14 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-6cff73c9ba4af4b3df0018626bac99fa]: Textual amendment: Words in s. 14(3)(g) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 78](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/78); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-6cff73c9ba4af4b3df0018626bac99fa]: Textual amendment: Words in s. 14(3)(g) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 78](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/78); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-1248de6f405455931af234ad305f3fb3]: Textual amendment: Words in s. 14(3)(g) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 426](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/426) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-1248de6f405455931af234ad305f3fb3]: Textual amendment: Words in s. 14(3)(g) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 426](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/426) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Straddle carriers: recognised category[^key-55882d27f2b3f08dcae6f9ddc7ef0026]
+## 45. Straddle carriers: recognised category[^c-55882d27f2b3f08dcae6f9ddc7ef0026]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Straddle carriers are a recognised category of special vehicles.
 
 ## Annotations
 
-[^key-55882d27f2b3f08dcae6f9ddc7ef0026]: Commencement: Art. 45 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-55882d27f2b3f08dcae6f9ddc7ef0026]: Commencement: Art. 45 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

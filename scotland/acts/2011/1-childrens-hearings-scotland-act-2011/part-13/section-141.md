@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 141. Preparation of report in circumstances relating to permanence order or adoption[^key-91bd38e36b9bfaaae797e8b674ac660f]
+## 141. Preparation of report in circumstances relating to permanence order or adoption[^c-91bd38e36b9bfaaae797e8b674ac660f]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91bd38e36b9bfaaae797e8b674ac660f]: Commencement: S. 141 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-91bd38e36b9bfaaae797e8b674ac660f]: Commencement: S. 141 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

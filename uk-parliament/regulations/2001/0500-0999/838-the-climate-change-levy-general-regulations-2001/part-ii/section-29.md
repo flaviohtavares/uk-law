@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Set-off[^key-248414b53ca5325d39f9cf4e43e062ce]
+## 29. Set-off[^c-248414b53ca5325d39f9cf4e43e062ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-248414b53ca5325d39f9cf4e43e062ce]: Commencement: Reg. 29 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-248414b53ca5325d39f9cf4e43e062ce]: Commencement: Reg. 29 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)

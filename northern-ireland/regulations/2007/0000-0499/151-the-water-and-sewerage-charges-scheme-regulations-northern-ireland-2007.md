@@ -31,7 +31,7 @@ summary: ''
 
 water and sewerage
 
-The Water and Sewerage Charges Scheme Regulations (Northern Ireland) 2007 (revoked)[^key-2ca82f3ce612d9973680eb1f8dc12c1f]
+The Water and Sewerage Charges Scheme Regulations (Northern Ireland) 2007 (revoked)[^c-2ca82f3ce612d9973680eb1f8dc12c1f]
 
 Made
 
@@ -41,48 +41,48 @@ Coming into operation
 
 1st April 2007
 
-[^key-2ca82f3ce612d9973680eb1f8dc12c1f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ca82f3ce612d9973680eb1f8dc12c1f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2ca82f3ce612d9973680eb1f8dc12c1f]
+## 1. Citation and commencement[^c-2ca82f3ce612d9973680eb1f8dc12c1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-2ca82f3ce612d9973680eb1f8dc12c1f]
+## 2. Interpretation[^c-2ca82f3ce612d9973680eb1f8dc12c1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Special provision to be included in charges schemes[^key-2ca82f3ce612d9973680eb1f8dc12c1f]
+## 3. Special provision to be included in charges schemes[^c-2ca82f3ce612d9973680eb1f8dc12c1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Assistance to be provided to qualifying consumers[^key-2ca82f3ce612d9973680eb1f8dc12c1f]
+## 4. Assistance to be provided to qualifying consumers[^c-2ca82f3ce612d9973680eb1f8dc12c1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Calculation of period for payment of affordability tariff[^key-2ca82f3ce612d9973680eb1f8dc12c1f]
+## 5. Calculation of period for payment of affordability tariff[^c-2ca82f3ce612d9973680eb1f8dc12c1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Charging by reference to volume[^key-2ca82f3ce612d9973680eb1f8dc12c1f]
+## 6. Charging by reference to volume[^c-2ca82f3ce612d9973680eb1f8dc12c1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Requisitions and adoptions of water mains or sewers for existing dwellings[^key-2ca82f3ce612d9973680eb1f8dc12c1f]
+## 7. Requisitions and adoptions of water mains or sewers for existing dwellings[^c-2ca82f3ce612d9973680eb1f8dc12c1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Grants by the Department for the purpose of providing special assistance under Article 202 of the Order[^key-2ca82f3ce612d9973680eb1f8dc12c1f]
+## 8. Grants by the Department for the purpose of providing special assistance under Article 202 of the Order[^c-2ca82f3ce612d9973680eb1f8dc12c1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2ca82f3ce612d9973680eb1f8dc12c1f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ca82f3ce612d9973680eb1f8dc12c1f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2ca82f3ce612d9973680eb1f8dc12c1f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ca82f3ce612d9973680eb1f8dc12c1f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2ca82f3ce612d9973680eb1f8dc12c1f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/151) revoked (25.5.2007) by [The Water and Sewerage Charges Scheme (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/280)](https://www.legislation.gov.uk/nisr/2007/280), [reg. 9](https://www.legislation.gov.uk/nisr/2007/280/regulation/9)
+[^c-2ca82f3ce612d9973680eb1f8dc12c1f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/151) revoked (25.5.2007) by [The Water and Sewerage Charges Scheme (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/280)](https://www.legislation.gov.uk/nisr/2007/280), [reg. 9](https://www.legislation.gov.uk/nisr/2007/280/regulation/9)

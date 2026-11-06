@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Viability report[^key-992beb56a00edc877f19731738357487]
+## 33. Viability report[^c-992beb56a00edc877f19731738357487]
 
 *Extent: N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-992beb56a00edc877f19731738357487]: Commencement: Reg. 33 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-992beb56a00edc877f19731738357487]: Commencement: Reg. 33 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)

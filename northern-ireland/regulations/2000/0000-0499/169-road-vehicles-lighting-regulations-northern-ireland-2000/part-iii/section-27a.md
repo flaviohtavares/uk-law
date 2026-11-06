@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27A. Requirements about the use of illuminable signs, warning lights and roof bars on school buses[^key-763736e82cc8aa54cf4e09bdba180565]
+## 27A. Requirements about the use of illuminable signs, warning lights and roof bars on school buses[^c-763736e82cc8aa54cf4e09bdba180565]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ A person shall not use or cause or permit to be used on a road a bus which is be
 
 ## Annotations
 
-[^key-763736e82cc8aa54cf4e09bdba180565]: Textual amendment: [Reg. 27A](https://www.legislation.gov.uk/nisr/2000/169/regulation/27A) inserted (24.3.2011) by [The Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/49)](https://www.legislation.gov.uk/nisr/2011/49), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/49/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2011/49/regulation/5)
+[^c-763736e82cc8aa54cf4e09bdba180565]: Textual amendment: [Reg. 27A](https://www.legislation.gov.uk/nisr/2000/169/regulation/27A) inserted (24.3.2011) by [The Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/49)](https://www.legislation.gov.uk/nisr/2011/49), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/49/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2011/49/regulation/5)

@@ -34,8 +34,8 @@ summary: ''
 (3) The matters set out in paragraph (2) shall be completed—
 
 - (a) in the case of a production installation, before completion of its design; and
-- (b) in the case of a non-production installation, before it is moved into internal waters[^key-304adec4b089d67dabb2644091ce55f4] with a view to its being operated there.
+- (b) in the case of a non-production installation, before it is moved into internal waters[^c-304adec4b089d67dabb2644091ce55f4] with a view to its being operated there.
 
 ## Annotations
 
-[^key-304adec4b089d67dabb2644091ce55f4]: Textual amendment: Words in Regulations substituted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 34(1)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/1) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 13 para. 34(2)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-304adec4b089d67dabb2644091ce55f4]: Textual amendment: Words in Regulations substituted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 34(1)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/1) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 13 para. 34(2)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))

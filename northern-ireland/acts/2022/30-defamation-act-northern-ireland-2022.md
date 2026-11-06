@@ -38,7 +38,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## Defences
 
-### 1. Truth[^key-3e6e67a1bbb33eff32d964eaa8934960]
+### 1. Truth[^c-3e6e67a1bbb33eff32d964eaa8934960]
 
 (1) It is a defence to an action for defamation for the defendant to show that the imputation conveyed by the statement complained of is substantially true.
 
@@ -48,7 +48,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (4) The common law defence of justification is abolished and, accordingly, section 5 of the Defamation Act (Northern Ireland) 1955 (justification) is repealed.
 
-### 2. Honest opinion[^key-c2ab37d03777c34ba34fa8b5b4c6a8bc]
+### 2. Honest opinion[^c-c2ab37d03777c34ba34fa8b5b4c6a8bc]
 
 (1) It is a defence to an action for defamation for the defendant to show that the following conditions are met.
 
@@ -74,7 +74,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (8) The common law defence of fair comment is abolished and, accordingly, section 6 of the Defamation Act (Northern Ireland) 1955 (fair comment) is repealed.
 
-### 3. Publication on matter of public interest[^key-7d0b54ec8e18c3572b34a03357a7388a]
+### 3. Publication on matter of public interest[^c-7d0b54ec8e18c3572b34a03357a7388a]
 
 (1) It is a defence to an action for defamation for the defendant to show that—
 
@@ -91,7 +91,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (6) The common law defence known as the Reynolds defence is abolished.
 
-### 4. Peer-reviewed statement in scientific or academic journal etc[^key-cad7367e7ff0d3e4d3a7194ba54d8aa2]
+### 4. Peer-reviewed statement in scientific or academic journal etc[^c-cad7367e7ff0d3e4d3a7194ba54d8aa2]
 
 (1) The publication of a statement in a scientific or academic journal (whether published in electronic form or otherwise) is privileged if the following conditions are met.
 
@@ -118,7 +118,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (8) The reference in subsection (3)(a) to “the editor of the journal” is to be read, in the case of a journal with more than one editor, as a reference to the editor or editors who were responsible for deciding to publish the statement concerned.
 
-### 5. Reports etc protected by privilege[^key-66e0d282049513fa9bdd9f200a2e3f06]
+### 5. Reports etc protected by privilege[^c-66e0d282049513fa9bdd9f200a2e3f06]
 
 (1) For subsection (3) of section 14 of the Defamation Act 1996 (reports of court proceedings absolutely privileged) substitute—
 
@@ -206,7 +206,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## Jurisdiction
 
-### 6. Action against a person not domiciled in the UK[^key-018278c9899ad050feb8e1e516165959]
+### 6. Action against a person not domiciled in the UK[^c-018278c9899ad050feb8e1e516165959]
 
 (1) This section applies to an action for defamation against a person who is not domiciled in the United Kingdom.
 
@@ -218,13 +218,13 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## Trial by jury
 
-### 7. Trial to be without a jury unless the court orders otherwise[^key-e5eec83dcb7efa2b1a8892c14e54db14]
+### 7. Trial to be without a jury unless the court orders otherwise[^c-e5eec83dcb7efa2b1a8892c14e54db14]
 
 In section 62(1) of the Judicature (Northern Ireland) Act 1978 (trial with and without jury), omit paragraphs (a) and (b).
 
 ## Summary of court judgment
 
-### 8. Power of court to order a summary of its judgment to be published[^key-b3fa656e0a208b195a055400c2fae1f3]
+### 8. Power of court to order a summary of its judgment to be published[^c-b3fa656e0a208b195a055400c2fae1f3]
 
 (1) Where a court gives judgment for the plaintiff in an action for defamation the court may order the defendant to publish a summary of the judgment.
 
@@ -238,13 +238,13 @@ In section 62(1) of the Judicature (Northern Ireland) Act 1978 (trial with and w
 
 ## Powers of the court
 
-### 9. Powers of the court[^key-b39e2fa036c0eb443ec68b90f60aa98f]
+### 9. Powers of the court[^c-b39e2fa036c0eb443ec68b90f60aa98f]
 
 This Act does not affect any power of a court that exists apart from this Act.
 
 ## Slander
 
-### 10. Special damage[^key-5d63348ac3b90f0b51acefdc46e02ec2]
+### 10. Special damage[^c-5d63348ac3b90f0b51acefdc46e02ec2]
 
 (1) The Slander of Women Act 1891 is repealed.
 
@@ -252,7 +252,7 @@ This Act does not affect any power of a court that exists apart from this Act.
 
 ## Review of defamation law
 
-### 11. Review of defamation law[^key-ea7d0ee1ece06b76233034719dd493ba]
+### 11. Review of defamation law[^c-ea7d0ee1ece06b76233034719dd493ba]
 
 (1) The Department must keep under review all relevant developments pertaining to the law of defamation as it considers appropriate.
 
@@ -265,7 +265,7 @@ This Act does not affect any power of a court that exists apart from this Act.
 
 ## General provisions
 
-### 12. Interpretation[^key-8d71544c90b231b580f9bb0362a03dd7]
+### 12. Interpretation[^c-8d71544c90b231b580f9bb0362a03dd7]
 
 In this Act—
 
@@ -273,7 +273,7 @@ In this Act—
 - “publish” and “**publication**”, in relation to a statement, have the meaning they have for the purposes of the law of defamation generally;
 - “**statement**” means words, pictures, visual images, gestures or any other method of signifying meaning.
 
-### 13. Consequential amendments and savings etc[^key-133923ba9f379c72fb5aa5deff9cd8e3]
+### 13. Consequential amendments and savings etc[^c-133923ba9f379c72fb5aa5deff9cd8e3]
 
 (1) Article 9 of the Rehabilitation of Offenders (Northern Ireland) Order 1978 is amended in accordance with subsections (2) and (3).
 
@@ -289,42 +289,42 @@ In this Act—
 
 (7) In determining for the purposes of subsection (7)(a) of section 2 whether a person would have a defence under section 3 to any action for defamation, the operation of subsection (5) of this section is to be ignored.
 
-### 14. Commencement[^key-c9ea314008ffb0d9992ba4e2dd8fceb1]
+### 14. Commencement[^c-c9ea314008ffb0d9992ba4e2dd8fceb1]
 
 This Act comes into operation on the day after the day on which it receives Royal Assent.
 
-### 15. Short title[^key-ca4286d0cfc125659e0501686825fd26]
+### 15. Short title[^c-ca4286d0cfc125659e0501686825fd26]
 
 This Act may be cited as the Defamation Act (Northern Ireland) 2022.
 
 ## Annotations
 
-[^key-3e6e67a1bbb33eff32d964eaa8934960]: Commencement: S. 1 in operation at 7.6.2022, see [s. 14](https://www.legislation.gov.uk/nia/2022/30/section/14)
+[^c-3e6e67a1bbb33eff32d964eaa8934960]: Commencement: S. 1 in operation at 7.6.2022, see [s. 14](https://www.legislation.gov.uk/nia/2022/30/section/14)
 
-[^key-c2ab37d03777c34ba34fa8b5b4c6a8bc]: Commencement: S. 2 in operation at 7.6.2022, see [s. 14](https://www.legislation.gov.uk/nia/2022/30/section/14)
+[^c-c2ab37d03777c34ba34fa8b5b4c6a8bc]: Commencement: S. 2 in operation at 7.6.2022, see [s. 14](https://www.legislation.gov.uk/nia/2022/30/section/14)
 
-[^key-7d0b54ec8e18c3572b34a03357a7388a]: Commencement: S. 3 in operation at 7.6.2022, see [s. 14](https://www.legislation.gov.uk/nia/2022/30/section/14)
+[^c-7d0b54ec8e18c3572b34a03357a7388a]: Commencement: S. 3 in operation at 7.6.2022, see [s. 14](https://www.legislation.gov.uk/nia/2022/30/section/14)
 
-[^key-cad7367e7ff0d3e4d3a7194ba54d8aa2]: Commencement: S. 4 in operation at 7.6.2022, see [s. 14](https://www.legislation.gov.uk/nia/2022/30/section/14)
+[^c-cad7367e7ff0d3e4d3a7194ba54d8aa2]: Commencement: S. 4 in operation at 7.6.2022, see [s. 14](https://www.legislation.gov.uk/nia/2022/30/section/14)
 
-[^key-66e0d282049513fa9bdd9f200a2e3f06]: Commencement: S. 5 in operation at 7.6.2022, see [s. 14](https://www.legislation.gov.uk/nia/2022/30/section/14)
+[^c-66e0d282049513fa9bdd9f200a2e3f06]: Commencement: S. 5 in operation at 7.6.2022, see [s. 14](https://www.legislation.gov.uk/nia/2022/30/section/14)
 
-[^key-018278c9899ad050feb8e1e516165959]: Commencement: S. 6 in operation at 7.6.2022, see [s. 14](https://www.legislation.gov.uk/nia/2022/30/section/14)
+[^c-018278c9899ad050feb8e1e516165959]: Commencement: S. 6 in operation at 7.6.2022, see [s. 14](https://www.legislation.gov.uk/nia/2022/30/section/14)
 
-[^key-e5eec83dcb7efa2b1a8892c14e54db14]: Commencement: S. 7 in operation at 7.6.2022, see [s. 14](https://www.legislation.gov.uk/nia/2022/30/section/14)
+[^c-e5eec83dcb7efa2b1a8892c14e54db14]: Commencement: S. 7 in operation at 7.6.2022, see [s. 14](https://www.legislation.gov.uk/nia/2022/30/section/14)
 
-[^key-b3fa656e0a208b195a055400c2fae1f3]: Commencement: S. 8 in operation at 7.6.2022, see [s. 14](https://www.legislation.gov.uk/nia/2022/30/section/14)
+[^c-b3fa656e0a208b195a055400c2fae1f3]: Commencement: S. 8 in operation at 7.6.2022, see [s. 14](https://www.legislation.gov.uk/nia/2022/30/section/14)
 
-[^key-b39e2fa036c0eb443ec68b90f60aa98f]: Commencement: S. 9 in operation at 7.6.2022, see [s. 14](https://www.legislation.gov.uk/nia/2022/30/section/14)
+[^c-b39e2fa036c0eb443ec68b90f60aa98f]: Commencement: S. 9 in operation at 7.6.2022, see [s. 14](https://www.legislation.gov.uk/nia/2022/30/section/14)
 
-[^key-5d63348ac3b90f0b51acefdc46e02ec2]: Commencement: S. 10 in operation at 7.6.2022, see [s. 14](https://www.legislation.gov.uk/nia/2022/30/section/14)
+[^c-5d63348ac3b90f0b51acefdc46e02ec2]: Commencement: S. 10 in operation at 7.6.2022, see [s. 14](https://www.legislation.gov.uk/nia/2022/30/section/14)
 
-[^key-ea7d0ee1ece06b76233034719dd493ba]: Commencement: S. 11 in operation at 7.6.2022, see [s. 14](https://www.legislation.gov.uk/nia/2022/30/section/14)
+[^c-ea7d0ee1ece06b76233034719dd493ba]: Commencement: S. 11 in operation at 7.6.2022, see [s. 14](https://www.legislation.gov.uk/nia/2022/30/section/14)
 
-[^key-8d71544c90b231b580f9bb0362a03dd7]: Commencement: S. 12 in operation at 7.6.2022, see [s. 14](https://www.legislation.gov.uk/nia/2022/30/section/14)
+[^c-8d71544c90b231b580f9bb0362a03dd7]: Commencement: S. 12 in operation at 7.6.2022, see [s. 14](https://www.legislation.gov.uk/nia/2022/30/section/14)
 
-[^key-133923ba9f379c72fb5aa5deff9cd8e3]: Commencement: S. 13 in operation at 7.6.2022, see [s. 14](https://www.legislation.gov.uk/nia/2022/30/section/14)
+[^c-133923ba9f379c72fb5aa5deff9cd8e3]: Commencement: S. 13 in operation at 7.6.2022, see [s. 14](https://www.legislation.gov.uk/nia/2022/30/section/14)
 
-[^key-c9ea314008ffb0d9992ba4e2dd8fceb1]: Commencement: S. 14 in operation at 7.6.2022, see [s. 14](https://www.legislation.gov.uk/nia/2022/30/section/14)
+[^c-c9ea314008ffb0d9992ba4e2dd8fceb1]: Commencement: S. 14 in operation at 7.6.2022, see [s. 14](https://www.legislation.gov.uk/nia/2022/30/section/14)
 
-[^key-ca4286d0cfc125659e0501686825fd26]: Commencement: S. 15 in operation at 7.6.2022, see [s. 14](https://www.legislation.gov.uk/nia/2022/30/section/14)
+[^c-ca4286d0cfc125659e0501686825fd26]: Commencement: S. 15 in operation at 7.6.2022, see [s. 14](https://www.legislation.gov.uk/nia/2022/30/section/14)

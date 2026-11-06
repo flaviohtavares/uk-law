@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Descriptions of full retirement pension[^key-452a9ea211211a18fe8065367d7c2f73]
+## 79. Descriptions of full retirement pension[^c-452a9ea211211a18fe8065367d7c2f73]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ For the purpose of this Part, the descriptions of full retirement pension are—
 
 ## Annotations
 
-[^key-452a9ea211211a18fe8065367d7c2f73]: Commencement: Reg. 79 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-452a9ea211211a18fe8065367d7c2f73]: Commencement: Reg. 79 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

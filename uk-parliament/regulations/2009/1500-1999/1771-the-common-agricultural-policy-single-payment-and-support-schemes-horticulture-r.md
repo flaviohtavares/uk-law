@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture, England
 
-The Common Agricultural Policy Single Payment and Support Schemes (Horticulture) Regulations 2009 (revoked)[^key-9523edcefe3a9d2ad3703969f15c36e2]
+The Common Agricultural Policy Single Payment and Support Schemes (Horticulture) Regulations 2009 (revoked)[^c-9523edcefe3a9d2ad3703969f15c36e2]
 
 Made
 
@@ -46,35 +46,35 @@ Coming into force
 
 31st July 2009
 
-[^key-9523edcefe3a9d2ad3703969f15c36e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9523edcefe3a9d2ad3703969f15c36e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-9523edcefe3a9d2ad3703969f15c36e2]
+## 1. Title, commencement and application[^c-9523edcefe3a9d2ad3703969f15c36e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-9523edcefe3a9d2ad3703969f15c36e2]
+## 2. Interpretation[^c-9523edcefe3a9d2ad3703969f15c36e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Horticulture[^key-9523edcefe3a9d2ad3703969f15c36e2]
+## 3. Horticulture[^c-9523edcefe3a9d2ad3703969f15c36e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Regions[^key-9523edcefe3a9d2ad3703969f15c36e2]
+## 4. Regions[^c-9523edcefe3a9d2ad3703969f15c36e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Minimum size of holding[^key-9523edcefe3a9d2ad3703969f15c36e2]
+## 5. Minimum size of holding[^c-9523edcefe3a9d2ad3703969f15c36e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9523edcefe3a9d2ad3703969f15c36e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9523edcefe3a9d2ad3703969f15c36e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-9523edcefe3a9d2ad3703969f15c36e2]EXPLANATORY NOTE
+[^c-9523edcefe3a9d2ad3703969f15c36e2]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -88,4 +88,4 @@ An impact assessment on the options for allocating Single Payment Scheme entitle
 
 ## Annotations
 
-[^key-9523edcefe3a9d2ad3703969f15c36e2]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy Basic Payment and Support Schemes (England) Regulations 2014 (S.I. 2014/3259)](https://www.legislation.gov.uk/uksi/2014/3259), [reg. 15(1)(a)](https://www.legislation.gov.uk/uksi/2014/3259/regulation/15/1/a)
+[^c-9523edcefe3a9d2ad3703969f15c36e2]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy Basic Payment and Support Schemes (England) Regulations 2014 (S.I. 2014/3259)](https://www.legislation.gov.uk/uksi/2014/3259), [reg. 15(1)(a)](https://www.legislation.gov.uk/uksi/2014/3259/regulation/15/1/a)

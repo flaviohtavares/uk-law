@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Measures applicable in respect of a temporary control zone[^key-597d6118ac3c5019547766bb1e6c15f8]
+## 16. Measures applicable in respect of a temporary control zone[^c-597d6118ac3c5019547766bb1e6c15f8]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-597d6118ac3c5019547766bb1e6c15f8]: Commencement: Reg. 16 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-597d6118ac3c5019547766bb1e6c15f8]: Commencement: Reg. 16 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

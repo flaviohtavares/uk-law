@@ -34,7 +34,7 @@ summary: ''
 - (f) section 230(1) to (4) and (6) and paragraphs 53 and 59 of Schedule 15 (Part 7: consequential provision etc.);
 - (g) section 231(1), (3) and (4) and Part 4 of Schedule 15 (abolition of the Office of the Health Professions Adjudicator);
 - (h) section 279(1) and (3) and Part 2 of Schedule 20 (abolition of the Appointments Commission);
-- (i)[^key-6cef8508d5c44628cae55751b2f02137] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-6cef8508d5c44628cae55751b2f02137] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (j) this Part.
 
 (4) Sections 128 to 133 (health special administration) extend to England and Wales and Scotland.
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6cef8508d5c44628cae55751b2f02137]: Textual amendment: [S. 308(3)(i)](https://www.legislation.gov.uk/ukpga/2012/7/section/308/3/i) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 89(1)(b)](https://www.legislation.gov.uk/ukpga/2022/31/section/89/1/b), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-6cef8508d5c44628cae55751b2f02137]: Textual amendment: [S. 308(3)(i)](https://www.legislation.gov.uk/ukpga/2012/7/section/308/3/i) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 89(1)(b)](https://www.legislation.gov.uk/ukpga/2022/31/section/89/1/b), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Assessments only to be required where necessary[^key-d8895c3d7db26d55c7e46024dde3fccc]
+## 14. Assessments only to be required where necessary[^c-d8895c3d7db26d55c7e46024dde3fccc]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ It is implicit in the principle (expressed in section 1(d)) that respect for the
 
 ## Annotations
 
-[^key-d8895c3d7db26d55c7e46024dde3fccc]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2018/9/section/14) in force at 17.1.2022 by [S.S.I. 2021/474](https://www.legislation.gov.uk/ssi/2021/474), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2021/474/regulation/2/c)
+[^c-d8895c3d7db26d55c7e46024dde3fccc]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2018/9/section/14) in force at 17.1.2022 by [S.S.I. 2021/474](https://www.legislation.gov.uk/ssi/2021/474), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2021/474/regulation/2/c)

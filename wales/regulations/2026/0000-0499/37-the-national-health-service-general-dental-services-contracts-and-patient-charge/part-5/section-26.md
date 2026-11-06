@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Appeal against application of regulation 25[^key-218ea30bbdfa75f46dabe30c6bec8a29]
+## 26. Appeal against application of regulation 25[^c-218ea30bbdfa75f46dabe30c6bec8a29]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A contractor who is subject to a financial adjustment or to whom financial recov
 
 ## Annotations
 
-[^key-218ea30bbdfa75f46dabe30c6bec8a29]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2026/37/regulation/26) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-218ea30bbdfa75f46dabe30c6bec8a29]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2026/37/regulation/26) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

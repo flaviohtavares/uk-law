@@ -37,13 +37,13 @@ Made
 
 The Secretary of State makes the following Order in exercise of the powers conferred by sections 60(b), 61(2) and 61(8) of the Crime and Courts Act 2013[^f00001].
 
-## 1. Citation and interpretation[^key-41764166f38728d33f3369f526374b68]
+## 1. Citation and interpretation[^c-41764166f38728d33f3369f526374b68]
 
 (1) This Order may be cited as the Crime and Courts Act 2013 (Commencement No. 17, Transitional and Savings Provisions) Order 2017.
 
 (2) In this Order “the Act” means the Crime and Courts Act 2013.
 
-## 2. Provisions coming into force on 13th March 2017[^key-506745b45c6b6ab181558baf55f94142]
+## 2. Provisions coming into force on 13th March 2017[^c-506745b45c6b6ab181558baf55f94142]
 
 (1) Subject to articles 3 and 4, the following provisions of the Act come into force on 13th March 2017 in relation to the local justice areas[^f00002] specified in paragraph (2)—
 
@@ -55,15 +55,15 @@ The Secretary of State makes the following Order in exercise of the powers confe
 - (a) East London, and
 - (b) North London.
 
-## 3. Period for which the provisions of the Act remain in force[^key-46357778aac7b937ad456649f1886283]
+## 3. Period for which the provisions of the Act remain in force[^c-46357778aac7b937ad456649f1886283]
 
-Subject to article 4, the provisions of the Act brought into force by article 2 cease to be in force at the end of 12th March 2019[^key-a4755356e3272f14a48b344561ab08d5].
+Subject to article 4, the provisions of the Act brought into force by article 2 cease to be in force at the end of 12th March 2019[^c-a4755356e3272f14a48b344561ab08d5].
 
-## 4. Transitional and savings provisions[^key-ab8598a75a4b4d7e8ac85159b09165ca]
+## 4. Transitional and savings provisions[^c-ab8598a75a4b4d7e8ac85159b09165ca]
 
 (1) The provisions of the Act brought into force by article 2 do not apply in relation to electronic monitoring requirements imposed by a court in accordance with section 215 of the Criminal Justice Act 2003[^f00004] in the areas specified in article 2(2) before 13th March 2017.
 
-(2) Article 3 does not affect the continued application after 12th March 2019[^key-96008dd6fc8fd8392a9c6587a4374c99] of an electronic monitoring requirement imposed by a court in the areas specified in article 2(2) on or after 13th March 2017 and before or on 12th March 2019 and the provisions brought into force by article 2 shall continue to have effect after 12th March 2019 in relation to any such requirements imposed during that period.
+(2) Article 3 does not affect the continued application after 12th March 2019[^c-96008dd6fc8fd8392a9c6587a4374c99] of an electronic monitoring requirement imposed by a court in the areas specified in article 2(2) on or after 13th March 2017 and before or on 12th March 2019 and the provisions brought into force by article 2 shall continue to have effect after 12th March 2019 in relation to any such requirements imposed during that period.
 
 Sam Gyimah
 
@@ -235,20 +235,20 @@ The following provisions of the Crime and Courts Act 2013 have been brought into
 
 [^f00001]: Footnote: [2013 c. 22](https://www.legislation.gov.uk/ukpga/2013/22). There are amendments to section 61, but none are relevant to this Order.
 
-[^key-41764166f38728d33f3369f526374b68]: Commencement: Art. 1 in force at made date
+[^c-41764166f38728d33f3369f526374b68]: Commencement: Art. 1 in force at made date
 
-[^key-506745b45c6b6ab181558baf55f94142]: Commencement: Art. 2 in force at made date
+[^c-506745b45c6b6ab181558baf55f94142]: Commencement: Art. 2 in force at made date
 
 [^f00002]: Footnote: Local justice areas were established by [S.I. 2005/554](https://www.legislation.gov.uk/uksi/2005/554), which was amended by [S.I. 2011/1168](https://www.legislation.gov.uk/uksi/2011/1168); there are other amending instruments but none are relevant.
 
 [^f00003]: Footnote: [S.I. 2016/962](https://www.legislation.gov.uk/uksi/2016/962) brought section 44 of, and Part 4 of Schedule 16 to, the Act into force on 17th October 2016 for specified periods and in relation to specified areas in England.
 
-[^key-46357778aac7b937ad456649f1886283]: Commencement: Art. 3 in force at made date
+[^c-46357778aac7b937ad456649f1886283]: Commencement: Art. 3 in force at made date
 
-[^key-a4755356e3272f14a48b344561ab08d5]: Textual amendment: Word in art. 3 substituted (12.3.2018 at 10 p.m.) by [The Crime and Courts Act 2013 (Commencement No. 17, Transitional and Savings Provisions) (Amendment) Order 2018 (S.I. 2018/357)](https://www.legislation.gov.uk/uksi/2018/357), [arts. 1](https://www.legislation.gov.uk/uksi/2018/357/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2018/357/article/2/a)
+[^c-a4755356e3272f14a48b344561ab08d5]: Textual amendment: Word in art. 3 substituted (12.3.2018 at 10 p.m.) by [The Crime and Courts Act 2013 (Commencement No. 17, Transitional and Savings Provisions) (Amendment) Order 2018 (S.I. 2018/357)](https://www.legislation.gov.uk/uksi/2018/357), [arts. 1](https://www.legislation.gov.uk/uksi/2018/357/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2018/357/article/2/a)
 
-[^key-ab8598a75a4b4d7e8ac85159b09165ca]: Commencement: Art. 4 in force at made date
+[^c-ab8598a75a4b4d7e8ac85159b09165ca]: Commencement: Art. 4 in force at made date
 
 [^f00004]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44); section 215 was amended by section 76(6) of the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10) solely for the purposes of a pilot in relation to the local justice areas specified in [S.I. 2016/286](https://www.legislation.gov.uk/uksi/2016/286) with respect to alcohol abstinence monitoring requirements.
 
-[^key-96008dd6fc8fd8392a9c6587a4374c99]: Textual amendment: Word in art. 4(2) substituted (12.3.2018 at 10 p.m.) by [The Crime and Courts Act 2013 (Commencement No. 17, Transitional and Savings Provisions) (Amendment) Order 2018 (S.I. 2018/357)](https://www.legislation.gov.uk/uksi/2018/357), [arts. 1](https://www.legislation.gov.uk/uksi/2018/357/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2018/357/article/2/b)
+[^c-96008dd6fc8fd8392a9c6587a4374c99]: Textual amendment: Word in art. 4(2) substituted (12.3.2018 at 10 p.m.) by [The Crime and Courts Act 2013 (Commencement No. 17, Transitional and Savings Provisions) (Amendment) Order 2018 (S.I. 2018/357)](https://www.legislation.gov.uk/uksi/2018/357), [arts. 1](https://www.legislation.gov.uk/uksi/2018/357/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2018/357/article/2/b)

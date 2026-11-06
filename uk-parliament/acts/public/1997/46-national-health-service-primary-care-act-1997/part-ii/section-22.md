@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-6bae1e833123aecbe2f1b5a88948d7d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-6bae1e833123aecbe2f1b5a88948d7d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In the 1978 Act, after section 17D, insert—
 
@@ -88,7 +88,7 @@ summary: ''
 
 [^c12086691]: Commencement: S. 22 partly in force; s. 22 not in force at Royal Assent see s. 41; s. 22(2) in force for certain purposes at 5.3.2001 (S.) by [S.S.I. 2001/58](https://www.legislation.gov.uk/ssi/2001/58), [art. 2](https://www.legislation.gov.uk/ssi/2001/58/article/2)
 
-[^key-6bae1e833123aecbe2f1b5a88948d7d0]: Textual amendment: S. 22(1) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-6bae1e833123aecbe2f1b5a88948d7d0]: Textual amendment: S. 22(1) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
 [^M_F_547083a9-26bb-438e-ef48-54c4e6644455]: Textual amendment: S. 22(2): s. 17E(6) to be inserted into the 1978 Act omitted (30.9.2005 as notified in the London Gazette dated 26.8.2005) by virtue of [The General and Specialist Medical Practice (Education, Training and Qualifications) Order 2003 (S.I. 2003/1250)](https://www.legislation.gov.uk/uksi/2003/1250), [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2003/1250/article/1/2/3), [Sch. 9 para. 6(c)(ii)](https://www.legislation.gov.uk/uksi/2003/1250/schedule/9/paragraph/6/c/ii)
 

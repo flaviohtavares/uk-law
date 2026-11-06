@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 221. Control of advertisements regulations[^key-eaddeaf4e4e54d703721dd2837beb7bc]
+## 221. Control of advertisements regulations[^c-eaddeaf4e4e54d703721dd2837beb7bc]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eaddeaf4e4e54d703721dd2837beb7bc]: Commencement: S. 221 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-eaddeaf4e4e54d703721dd2837beb7bc]: Commencement: S. 221 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

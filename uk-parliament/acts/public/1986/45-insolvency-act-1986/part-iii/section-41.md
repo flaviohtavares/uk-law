@@ -27,7 +27,7 @@ summary: ''
 
 the court may, on an application made for the purpose, make an order directing the receiver or manager (as the case may be) to make good the default within such time as may be specified in the order.
 
-(2)[^key-bff66b6738923747f8cd0b1e97bff0c7] In the case of the default mentioned in subsection (1)(a), application to the court may be made by any member or creditor of the company or by the registrar of companies; and in the case of the default mentioned in subsection (1)(b), the application shall be made by the liquidator.
+(2)[^c-bff66b6738923747f8cd0b1e97bff0c7] In the case of the default mentioned in subsection (1)(a), application to the court may be made by any member or creditor of the company or by the registrar of companies; and in the case of the default mentioned in subsection (1)(b), the application shall be made by the liquidator.
 
 In either case the court’s order may provide that all costs of and incidental to the application shall be borne by the receiver or manager, as the case may be.
 
@@ -37,4 +37,4 @@ In either case the court’s order may provide that all costs of and incidental 
 
 [^c15570771]: Modification: S. 41(1)(a) amended (1.12.2001) by [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8), [s. 363(3)](https://www.legislation.gov.uk/ukpga/2000/8/section/363/3); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 
-[^key-bff66b6738923747f8cd0b1e97bff0c7]: Modification: S. 41(2) modified (E.W.) (31.1.2019) by [The Further Education Bodies (Insolvency) Regulations 2019 (S.I. 2019/138)](https://www.legislation.gov.uk/uksi/2019/138), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2019/138/regulation/8) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/2), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2019/138/regulation/3/a/ii))
+[^c-bff66b6738923747f8cd0b1e97bff0c7]: Modification: S. 41(2) modified (E.W.) (31.1.2019) by [The Further Education Bodies (Insolvency) Regulations 2019 (S.I. 2019/138)](https://www.legislation.gov.uk/uksi/2019/138), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2019/138/regulation/8) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/2), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2019/138/regulation/3/a/ii))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164. Secure 16 to 19 Academies[^key-f9004f41def688abc9122e8191c2aa1b]
+## 164. Secure 16 to 19 Academies[^c-f9004f41def688abc9122e8191c2aa1b]
 
 *Extent: E+W*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f9004f41def688abc9122e8191c2aa1b]: Commencement: S. 164 in force at Royal Assent, see [s. 208(4)(t)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/t)
+[^c-f9004f41def688abc9122e8191c2aa1b]: Commencement: S. 164 in force at Royal Assent, see [s. 208(4)(t)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/t)

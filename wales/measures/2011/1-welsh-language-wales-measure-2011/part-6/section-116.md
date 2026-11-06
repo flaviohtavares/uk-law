@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 116. Discontinuing investigations[^key-a0fcd1bac5d43ff24dc1fbf946738975]
+## 116. Discontinuing investigations[^c-a0fcd1bac5d43ff24dc1fbf946738975]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0fcd1bac5d43ff24dc1fbf946738975]: Commencement: [S. 116](https://www.legislation.gov.uk/mwa/2011/1/section/116) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(k)](https://www.legislation.gov.uk/wsi/2012/969/article/2/k)
+[^c-a0fcd1bac5d43ff24dc1fbf946738975]: Commencement: [S. 116](https://www.legislation.gov.uk/mwa/2011/1/section/116) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(k)](https://www.legislation.gov.uk/wsi/2012/969/article/2/k)

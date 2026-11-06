@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Restrictions on acting for residents[^key-a167f0191f5f7dcc3023a44267582ae4]
+## 20. Restrictions on acting for residents[^c-a167f0191f5f7dcc3023a44267582ae4]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a167f0191f5f7dcc3023a44267582ae4]: Commencement: Reg. 20 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
+[^c-a167f0191f5f7dcc3023a44267582ae4]: Commencement: Reg. 20 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)

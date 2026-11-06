@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Adult dependency increases[^key-97a91ffe98dd25eb3d18e0b972a9433a]
+## 11. Adult dependency increases[^c-97a91ffe98dd25eb3d18e0b972a9433a]
 
 *Extent: S*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-97a91ffe98dd25eb3d18e0b972a9433a]: Commencement: Art. 11 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-97a91ffe98dd25eb3d18e0b972a9433a]: Commencement: Art. 11 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00012]: Footnote: Section 83 was repealed by the 2007 Act, Schedule 7(2), paragraph 1 but is subject to savings specified in section 4 of that Act.
 

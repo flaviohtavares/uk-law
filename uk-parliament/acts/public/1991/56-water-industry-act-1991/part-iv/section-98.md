@@ -43,7 +43,7 @@ summary: ''
 - (a) the owner of any premises in that locality;
 - (b) the occupier of any premises in that locality;
 - (c) any local authority within whose area the whole or any part of that locality is situated;
-- (ca)[^key-eed9084b94ee55a9a78ddc7974bc433b] where the whole or any part of that locality is situated within a Mayoral development area, the Mayoral development corporation;
+- (ca)[^c-eed9084b94ee55a9a78ddc7974bc433b] where the whole or any part of that locality is situated within a Mayoral development area, the Mayoral development corporation;
 - (d) where the whole or any part of that locality is situated in a new town, within the meaning of the [^c13219251]New Towns Act 1981—
   - (i) the new towns residuary body[^c20593471]; and
   - (ii) [^c13219261]. . . the development corporation for the new town [^c13219261]. . .;
@@ -61,7 +61,7 @@ summary: ''
   - (ii) the development corporation for the new town; and
 - (e) where those premises are situated within an area designated as an urban development area under Part 16 of the Local Government, Planning and Land Act 1980, the urban development corporation.
 
-(2B)[^key-cf23ccbd8f52f2fdd9885724c2b68f8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2B)[^c-cf23ccbd8f52f2fdd9885724c2b68f8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The duty of a sewerage undertaker under this section to provide a public sewer or, as the case may be, a lateral drain[^c19809951] shall be owed to the person who requires the provision of the sewer or lateral drain[^c19809991] or , as the case may be, to each of the persons who joins in doing so.
 
@@ -76,7 +76,7 @@ summary: ''
 
 [^c19809821]: Textual amendment: S. 98(1A) inserted (28.5.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 95(2)](https://www.legislation.gov.uk/ukpga/2003/37/section/95/2), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/641/article/4/b) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 
-[^key-eed9084b94ee55a9a78ddc7974bc433b]: Textual amendment: S. 98(2)(ca) inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(l)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/l), [Sch. 22 para. 42](https://www.legislation.gov.uk/ukpga/2011/20/schedule/22/paragraph/42)
+[^c-eed9084b94ee55a9a78ddc7974bc433b]: Textual amendment: S. 98(2)(ca) inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(l)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/l), [Sch. 22 para. 42](https://www.legislation.gov.uk/ukpga/2011/20/schedule/22/paragraph/42)
 
 [^c13219251]: Marginal citation: [1981 c. 64](https://www.legislation.gov.uk/ukpga/1981/64).
 
@@ -90,7 +90,7 @@ summary: ''
 
 [^c20593511]: Textual amendment: Words in s. 98(2A)(d)(i) substituted (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 56](https://www.legislation.gov.uk/ukpga/2008/17/section/56), [325](https://www.legislation.gov.uk/ukpga/2008/17/section/325), [Sch. 8 para. 58(b)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/58/b); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(w)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/w) (with savings and transitional provisions in [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-cf23ccbd8f52f2fdd9885724c2b68f8f]: Textual amendment: [S. 98(2B)](https://www.legislation.gov.uk/ukpga/1991/56/section/98/2B) omitted (E.) (31.10.2021) by virtue of [The Water and Sewerage Undertakers (Exit from Non-household Retail Market) (Consequential Provision) Regulations 2021 (S.I. 2021/1208)](https://www.legislation.gov.uk/uksi/2021/1208), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1208/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2021/1208/regulation/2/6)
+[^c-cf23ccbd8f52f2fdd9885724c2b68f8f]: Textual amendment: [S. 98(2B)](https://www.legislation.gov.uk/ukpga/1991/56/section/98/2B) omitted (E.) (31.10.2021) by virtue of [The Water and Sewerage Undertakers (Exit from Non-household Retail Market) (Consequential Provision) Regulations 2021 (S.I. 2021/1208)](https://www.legislation.gov.uk/uksi/2021/1208), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1208/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2021/1208/regulation/2/6)
 
 [^c19809951]: Textual amendment: Words in s. 98(3) inserted (28.5.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 95(4)](https://www.legislation.gov.uk/ukpga/2003/37/section/95/4), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/641/article/4/b) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 

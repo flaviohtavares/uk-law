@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Information about performance standards of local authorities etc[^key-cfc43cb58570fcc76bca3c76d441804b]
+## 156. Information about performance standards of local authorities etc[^c-cfc43cb58570fcc76bca3c76d441804b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In the Audit Commission Act 1998 (c. 18), omit sections 44 to 47 (publication of
 
 ## Annotations
 
-[^key-cfc43cb58570fcc76bca3c76d441804b]: Commencement: S. 156 in force at 1.4.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 4(e)](https://www.legislation.gov.uk/uksi/2008/172/article/4/e)
+[^c-cfc43cb58570fcc76bca3c76d441804b]: Commencement: S. 156 in force at 1.4.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 4(e)](https://www.legislation.gov.uk/uksi/2008/172/article/4/e)

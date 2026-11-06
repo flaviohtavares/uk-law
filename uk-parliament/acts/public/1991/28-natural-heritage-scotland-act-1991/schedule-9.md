@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 9 — Compensation in respect of drought orders[^key-d8ee6b6d0c84512f9ea2d8deefbe7d2f]
+## SCHEDULE 9 — Compensation in respect of drought orders[^c-d8ee6b6d0c84512f9ea2d8deefbe7d2f]
 
 *Extent: S*
 
@@ -24,24 +24,24 @@ Section 20.
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-d8ee6b6d0c84512f9ea2d8deefbe7d2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d8ee6b6d0c84512f9ea2d8deefbe7d2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**2.**[^key-d8ee6b6d0c84512f9ea2d8deefbe7d2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d8ee6b6d0c84512f9ea2d8deefbe7d2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**3.**[^key-d8ee6b6d0c84512f9ea2d8deefbe7d2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d8ee6b6d0c84512f9ea2d8deefbe7d2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**4.**[^key-d8ee6b6d0c84512f9ea2d8deefbe7d2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d8ee6b6d0c84512f9ea2d8deefbe7d2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**5.**[^key-d8ee6b6d0c84512f9ea2d8deefbe7d2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d8ee6b6d0c84512f9ea2d8deefbe7d2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d8ee6b6d0c84512f9ea2d8deefbe7d2f]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/ukpga/1991/28/schedule/9) repealed (10.6.2013) by [Water Resources (Scotland) Act 2013 (asp 5)](https://www.legislation.gov.uk/asp/2013/5), [s. 56(1)](https://www.legislation.gov.uk/asp/2013/5/section/56/1)[(2)](https://www.legislation.gov.uk/asp/2013/5/section/56/2), [Sch. 4 para. 1(2)(c)](https://www.legislation.gov.uk/asp/2013/5/schedule/4/paragraph/1/2/c); [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-d8ee6b6d0c84512f9ea2d8deefbe7d2f]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/ukpga/1991/28/schedule/9) repealed (10.6.2013) by [Water Resources (Scotland) Act 2013 (asp 5)](https://www.legislation.gov.uk/asp/2013/5), [s. 56(1)](https://www.legislation.gov.uk/asp/2013/5/section/56/1)[(2)](https://www.legislation.gov.uk/asp/2013/5/section/56/2), [Sch. 4 para. 1(2)(c)](https://www.legislation.gov.uk/asp/2013/5/schedule/4/paragraph/1/2/c); [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)

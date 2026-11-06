@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. Protection from actions for defamation[^key-67c07feb187d1c30083b860bac894c8c][^key-438c7f8fb652739b80b2eb4f1d96ed34][^key-438c7f8fb652739b80b2eb4f1d96ed34]
+## 70. Protection from actions for defamation[^c-67c07feb187d1c30083b860bac894c8c][^c-438c7f8fb652739b80b2eb4f1d96ed34][^c-438c7f8fb652739b80b2eb4f1d96ed34]
 
 *Extent: S*
 
@@ -42,6 +42,6 @@ After section 46 of the 2006 Act, insert—
 
 ## Annotations
 
-[^key-67c07feb187d1c30083b860bac894c8c]: Commencement: S. 70 in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-67c07feb187d1c30083b860bac894c8c]: Commencement: S. 70 in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
 
-[^key-438c7f8fb652739b80b2eb4f1d96ed34]: Modification: Pt. 1 Ch. 10 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order 2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [16(1)-(4)](https://www.legislation.gov.uk/ssi/2013/121/article/16/1)
+[^c-438c7f8fb652739b80b2eb4f1d96ed34]: Modification: Pt. 1 Ch. 10 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order 2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [16(1)-(4)](https://www.legislation.gov.uk/ssi/2013/121/article/16/1)

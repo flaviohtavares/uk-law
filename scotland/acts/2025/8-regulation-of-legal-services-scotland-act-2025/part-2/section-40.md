@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Offence of pretending to be an authorised legal business[^key-0f41ef384a98d8e220d5acb8a1166dd6][^key-bd87f647fde9f3faba32873be3aafdcb]
+## 40. Offence of pretending to be an authorised legal business[^c-0f41ef384a98d8e220d5acb8a1166dd6][^c-bd87f647fde9f3faba32873be3aafdcb]
 
 *Extent: S*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0f41ef384a98d8e220d5acb8a1166dd6]: Commencement: S. 40 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-0f41ef384a98d8e220d5acb8a1166dd6]: Commencement: S. 40 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-bd87f647fde9f3faba32873be3aafdcb]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2025/8/section/40) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-bd87f647fde9f3faba32873be3aafdcb]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2025/8/section/40) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

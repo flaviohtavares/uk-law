@@ -41,7 +41,7 @@ summary: ''
 
 (6) Regulations may, in particular—
 
-- (a) make provision for account to be taken of the income, assets, needs and outgoings not only of the person himself but also of his spouse or civil partner[^key-068e5d8bdc2cae9b8af3fd8100f38f33] , any person living with him or intending to live with him and any person on whom he is dependent or who is dependent on him;
+- (a) make provision for account to be taken of the income, assets, needs and outgoings not only of the person himself but also of his spouse or civil partner[^c-068e5d8bdc2cae9b8af3fd8100f38f33] , any person living with him or intending to live with him and any person on whom he is dependent or who is dependent on him;
 - (b) make provision for amounts specified in or determined under the regulations to be taken into account for particular purposes.
 
 (7) Regulations may apply for the purposes of this Article, subject to such modifications as may be prescribed, any other statutory means-testing regime as it has effect from time to time.
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-068e5d8bdc2cae9b8af3fd8100f38f33]: Textual amendment: Words in [art. 61(6)](https://www.legislation.gov.uk/nisi/2003/412/article/61/6) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [145(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/145/3) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-068e5d8bdc2cae9b8af3fd8100f38f33]: Textual amendment: Words in [art. 61(6)](https://www.legislation.gov.uk/nisi/2003/412/article/61/6) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [145(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/145/3) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))

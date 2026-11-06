@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Enforcement powers[^key-d22ebbb88913f1169915b68c64665fef]
+## 4. Enforcement powers[^c-d22ebbb88913f1169915b68c64665fef]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 1 (enforcement powers) has effect.
 
 ## Annotations
 
-[^key-d22ebbb88913f1169915b68c64665fef]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2014/22/section/4) in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/c)
+[^c-d22ebbb88913f1169915b68c64665fef]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2014/22/section/4) in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/c)

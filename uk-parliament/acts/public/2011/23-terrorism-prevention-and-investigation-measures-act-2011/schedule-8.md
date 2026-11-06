@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — Transitional and saving provision[^key-64cb9c7f4f5677e525005a2ce0e7d2be][^key-b9bf995fbcbcbe41f60bccf0f1229b5b]
+## SCHEDULE 8 — Transitional and saving provision[^c-64cb9c7f4f5677e525005a2ce0e7d2be][^c-b9bf995fbcbcbe41f60bccf0f1229b5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -106,7 +106,7 @@ as if that period were a PTA review year.
 - “**PTA 2005**” means the Prevention of Terrorism Act 2005;
 - “**transitional period**” means the period of 42 days that begins with the day of commencement.
 
-### 10A. Appointments measure[^key-522595a6d9d5581cebaf3f8fa71b1532]
+### 10A. Appointments measure[^c-522595a6d9d5581cebaf3f8fa71b1532]
 
 (1) The Secretary of State may impose a requirement for the individual—
 
@@ -120,8 +120,8 @@ as if that period were a PTA review year.
 
 ## Annotations
 
-[^key-64cb9c7f4f5677e525005a2ce0e7d2be]: Textual amendment: Words in Sch. 6 para. 14 substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2) , [Sch. 2 para. 64(3)(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/64/3/b)
+[^c-64cb9c7f4f5677e525005a2ce0e7d2be]: Textual amendment: Words in Sch. 6 para. 14 substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2) , [Sch. 2 para. 64(3)(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/64/3/b)
 
-[^key-b9bf995fbcbcbe41f60bccf0f1229b5b]: Textual amendment: Word in Sch. 6 para. 10(1)(a)(ii) inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 24 para. 32(a)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/24/paragraph/32/a) (with [s. 135(4)](https://www.legislation.gov.uk/ukpga/2012/10/section/135/4)); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(f)](https://www.legislation.gov.uk/uksi/2013/453/article/4/f)
+[^c-b9bf995fbcbcbe41f60bccf0f1229b5b]: Textual amendment: Word in Sch. 6 para. 10(1)(a)(ii) inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 24 para. 32(a)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/24/paragraph/32/a) (with [s. 135(4)](https://www.legislation.gov.uk/ukpga/2012/10/section/135/4)); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(f)](https://www.legislation.gov.uk/uksi/2013/453/article/4/f)
 
-[^key-522595a6d9d5581cebaf3f8fa71b1532]: Textual amendment: Sch. 1 para. 10A and preceding cross-heading inserted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6) , [ss. 19](https://www.legislation.gov.uk/ukpga/2015/6/section/19) , [52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5)
+[^c-522595a6d9d5581cebaf3f8fa71b1532]: Textual amendment: Sch. 1 para. 10A and preceding cross-heading inserted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6) , [ss. 19](https://www.legislation.gov.uk/ukpga/2015/6/section/19) , [52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5)

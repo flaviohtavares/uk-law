@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Police and crime commissioners to issue police and crime plans[^key-464ec4c1fcc28728cd287615dd517f09][^key-7e7106385b6735d00652823ca22e2f80][^key-9edab88e2a30c9b9604814557990a81f]
+## 5. Police and crime commissioners to issue police and crime plans[^c-464ec4c1fcc28728cd287615dd517f09][^c-7e7106385b6735d00652823ca22e2f80][^c-9edab88e2a30c9b9604814557990a81f]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ summary: ''
 
 (5E) Subsection (5B)(b) does not apply to a joint police and crime plan.
 
-(6)[^key-ca03298266dcdab8ae4b794a8ccd8bf6] Before issuing or varying a police and crime plan, a police and crime commissioner must—
+(6)[^c-ca03298266dcdab8ae4b794a8ccd8bf6] Before issuing or varying a police and crime plan, a police and crime commissioner must—
 
 - (a) prepare a draft of the plan or variation,
 - (b) consult the relevant chief constable in preparing the draft plan or variation,
@@ -55,11 +55,11 @@ summary: ''
 - (e) give the panel a response to any such report or recommendations, and
 - (f) publish any such response.
 
-(7)[^key-ca03298266dcdab8ae4b794a8ccd8bf6] In complying with subsection (6)(c), the police and crime commissioner must ensure that the relevant police and crime panel has a reasonable amount of time to exercise its functions under section 28(3).
+(7)[^c-ca03298266dcdab8ae4b794a8ccd8bf6] In complying with subsection (6)(c), the police and crime commissioner must ensure that the relevant police and crime panel has a reasonable amount of time to exercise its functions under section 28(3).
 
-(8)[^key-ca03298266dcdab8ae4b794a8ccd8bf6] A police and crime commissioner must consult the relevant chief constable before issuing or varying a police and crime plan if, and to the extent that, the plan or variation is different from the draft prepared in accordance with subsection (6).
+(8)[^c-ca03298266dcdab8ae4b794a8ccd8bf6] A police and crime commissioner must consult the relevant chief constable before issuing or varying a police and crime plan if, and to the extent that, the plan or variation is different from the draft prepared in accordance with subsection (6).
 
-(9)[^key-ca03298266dcdab8ae4b794a8ccd8bf6] A police and crime commissioner must—
+(9)[^c-ca03298266dcdab8ae4b794a8ccd8bf6] A police and crime commissioner must—
 
 - (a) keep the police and crime plan under review, and
 - (b) in particular, review the police and crime plan in the light of—
@@ -68,14 +68,14 @@ summary: ''
 
 and exercise the powers under subsection (3) or (4) accordingly.
 
-(10)[^key-ca03298266dcdab8ae4b794a8ccd8bf6] A police and crime commissioner who issues or varies a police and crime plan must—
+(10)[^c-ca03298266dcdab8ae4b794a8ccd8bf6] A police and crime commissioner who issues or varies a police and crime plan must—
 
 - (a) send a copy of the issued plan, or the variation, to the relevant chief constable and to each of the other persons and bodies that are, for the purposes of section 5 of the Crime and Disorder Act 1998, responsible authorities in relation to local government areas that are wholly or partly within the relevant police area, and
 - (b) publish a copy of the issued plan, or the variation.
 
-(11)[^key-ca03298266dcdab8ae4b794a8ccd8bf6] The duty under subsection (10) to send or publish a copy of the variation may instead be satisfied by sending or publishing a copy of the plan as varied.
+(11)[^c-ca03298266dcdab8ae4b794a8ccd8bf6] The duty under subsection (10) to send or publish a copy of the variation may instead be satisfied by sending or publishing a copy of the plan as varied.
 
-(12)[^key-ca03298266dcdab8ae4b794a8ccd8bf6] It is for the commissioner to determine the manner in which—
+(12)[^c-ca03298266dcdab8ae4b794a8ccd8bf6] It is for the commissioner to determine the manner in which—
 
 - (a) a response to a report or recommendations is to be published in accordance with subsection (6)(f), and
 - (b) a copy of the plan or variation is to be published in accordance with subsection (10) (b).
@@ -87,12 +87,12 @@ and exercise the powers under subsection (3) or (4) accordingly.
 
 ## Annotations
 
-[^key-464ec4c1fcc28728cd287615dd517f09]: Commencement: S. 5 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)
+[^c-464ec4c1fcc28728cd287615dd517f09]: Commencement: S. 5 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)
 
-[^key-7e7106385b6735d00652823ca22e2f80]: Modification: [S. 5](https://www.legislation.gov.uk/ukpga/2011/13/section/5) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/18)
+[^c-7e7106385b6735d00652823ca22e2f80]: Modification: [S. 5](https://www.legislation.gov.uk/ukpga/2011/13/section/5) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/18)
 
-[^key-9edab88e2a30c9b9604814557990a81f]: Modification: [S. 5](https://www.legislation.gov.uk/ukpga/2011/13/section/5) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 18](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/18)
+[^c-9edab88e2a30c9b9604814557990a81f]: Modification: [S. 5](https://www.legislation.gov.uk/ukpga/2011/13/section/5) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 18](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/18)
 
 [^M_F_8af88cb8-5b92-4545-ea73-eb9fc0b747d1]: Textual amendment: S. 5(5A)-(5E) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 88](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/88); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
-[^key-ca03298266dcdab8ae4b794a8ccd8bf6]: Modification: [S. 5(6)-(12)](https://www.legislation.gov.uk/ukpga/2011/13/section/5/6) applied (with modifications) by [2004 c. 21](https://www.legislation.gov.uk/ukpga/2004/21), [Sch. A2 para. 3](https://www.legislation.gov.uk/ukpga/2004/21/schedule/A2/paragraph/3) (as inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/13); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38))
+[^c-ca03298266dcdab8ae4b794a8ccd8bf6]: Modification: [S. 5(6)-(12)](https://www.legislation.gov.uk/ukpga/2011/13/section/5/6) applied (with modifications) by [2004 c. 21](https://www.legislation.gov.uk/ukpga/2004/21), [Sch. A2 para. 3](https://www.legislation.gov.uk/ukpga/2004/21/schedule/A2/paragraph/3) (as inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/13); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38))

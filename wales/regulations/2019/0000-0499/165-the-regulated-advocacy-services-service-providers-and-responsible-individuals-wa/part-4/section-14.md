@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Records of advocacy plans[^key-d64539115449e3d79fcffa151362809c]
+## 14. Records of advocacy plans[^c-d64539115449e3d79fcffa151362809c]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ The service provider must—
 
 ## Annotations
 
-[^key-d64539115449e3d79fcffa151362809c]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2019/165/regulation/14) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
+[^c-d64539115449e3d79fcffa151362809c]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2019/165/regulation/14) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)

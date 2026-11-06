@@ -32,7 +32,7 @@ summary: ''
 
 Corporation Tax
 
-The Hybrid and Other Mismatches (Financial Instrument: Exclusions) Regulations 2019 (revoked)[^key-f5b428f4f2053971f40d3f6425f638df]
+The Hybrid and Other Mismatches (Financial Instrument: Exclusions) Regulations 2019 (revoked)[^c-f5b428f4f2053971f40d3f6425f638df]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 29th November 2019
 
-[^key-f5b428f4f2053971f40d3f6425f638df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f5b428f4f2053971f40d3f6425f638df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and effect[^key-f5b428f4f2053971f40d3f6425f638df]
+## 1. Citation, commencement and effect[^c-f5b428f4f2053971f40d3f6425f638df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-f5b428f4f2053971f40d3f6425f638df]
+## 2. Interpretation[^c-f5b428f4f2053971f40d3f6425f638df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exclusions from the meaning of “financial instrument”[^key-f5b428f4f2053971f40d3f6425f638df]
+## 3. Exclusions from the meaning of “financial instrument”[^c-f5b428f4f2053971f40d3f6425f638df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5b428f4f2053971f40d3f6425f638df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f5b428f4f2053971f40d3f6425f638df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f5b428f4f2053971f40d3f6425f638df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f5b428f4f2053971f40d3f6425f638df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f5b428f4f2053971f40d3f6425f638df]: Textual amendment: Regulations revoked (1.1.2020) by [The Hybrid and Other Mismatches (Financial Instruments: Excluded Instruments) Regulations 2019 (S.I. 2019/1345)](https://www.legislation.gov.uk/uksi/2019/1345), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1345/regulation/1), [3](https://www.legislation.gov.uk/uksi/2019/1345/regulation/3)
+[^c-f5b428f4f2053971f40d3f6425f638df]: Textual amendment: Regulations revoked (1.1.2020) by [The Hybrid and Other Mismatches (Financial Instruments: Excluded Instruments) Regulations 2019 (S.I. 2019/1345)](https://www.legislation.gov.uk/uksi/2019/1345), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1345/regulation/1), [3](https://www.legislation.gov.uk/uksi/2019/1345/regulation/3)

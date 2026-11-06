@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 90. Increase in eligible child’s pension where there is no surviving partner[^key-aaf2f38c606aabb69083e05f01aa5aaa]
+## 90. Increase in eligible child’s pension where there is no surviving partner[^c-aaf2f38c606aabb69083e05f01aa5aaa]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aaf2f38c606aabb69083e05f01aa5aaa]: Commencement: [Reg. 90](https://www.legislation.gov.uk/ssi/2015/19/regulation/90) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-aaf2f38c606aabb69083e05f01aa5aaa]: Commencement: [Reg. 90](https://www.legislation.gov.uk/ssi/2015/19/regulation/90) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

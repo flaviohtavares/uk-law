@@ -30,7 +30,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Security (Great Britain Reciprocal Arrangements) (Amendment) Regulations (Northern Ireland) 1999 (revoked)[^key-d5b4c3b6ff63ba51484897b82e26f359]
+The Social Security (Great Britain Reciprocal Arrangements) (Amendment) Regulations (Northern Ireland) 1999 (revoked)[^c-d5b4c3b6ff63ba51484897b82e26f359]
 
 Made
 
@@ -40,27 +40,27 @@ Coming into operation
 
 1st September 1999
 
-[^key-d5b4c3b6ff63ba51484897b82e26f359]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d5b4c3b6ff63ba51484897b82e26f359]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-d5b4c3b6ff63ba51484897b82e26f359]
+## 1. Citation, commencement and interpretation[^c-d5b4c3b6ff63ba51484897b82e26f359]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Adaptation of the Social Security Contributions and Benefits (Northern Ireland) Act 1992, the Social Security Administration (Northern Ireland) Act 1992, the Jobseekers (Northern Ireland) Order 1995 and the Social Security (Northern Ireland) Order 1998 and variation of the Principal Arrangements[^key-d5b4c3b6ff63ba51484897b82e26f359]
+## 2. Adaptation of the Social Security Contributions and Benefits (Northern Ireland) Act 1992, the Social Security Administration (Northern Ireland) Act 1992, the Jobseekers (Northern Ireland) Order 1995 and the Social Security (Northern Ireland) Order 1998 and variation of the Principal Arrangements[^c-d5b4c3b6ff63ba51484897b82e26f359]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d5b4c3b6ff63ba51484897b82e26f359]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d5b4c3b6ff63ba51484897b82e26f359]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-d5b4c3b6ff63ba51484897b82e26f359]
+## SCHEDULE[^c-d5b4c3b6ff63ba51484897b82e26f359]
 
 Regulation 2(1)
 
-### No. 1 — The Secretary of State for Social Security, with the consent of the Treasury, to the Department of Health and Social Services for Northern Ireland[^key-d5b4c3b6ff63ba51484897b82e26f359]
+### No. 1 — The Secretary of State for Social Security, with the consent of the Treasury, to the Department of Health and Social Services for Northern Ireland[^c-d5b4c3b6ff63ba51484897b82e26f359]
 
 22nd July 1999
 
@@ -70,24 +70,24 @@ I refer to the Memorandum of Reciprocal Arrangements relating to social security
 
 The Secretary of State for Social Security, with the consent of the Treasury, proposes the following amendments to the Memorandum:
 
-**1.**[^key-d5b4c3b6ff63ba51484897b82e26f359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d5b4c3b6ff63ba51484897b82e26f359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d5b4c3b6ff63ba51484897b82e26f359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d5b4c3b6ff63ba51484897b82e26f359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d5b4c3b6ff63ba51484897b82e26f359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d5b4c3b6ff63ba51484897b82e26f359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d5b4c3b6ff63ba51484897b82e26f359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d5b4c3b6ff63ba51484897b82e26f359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-d5b4c3b6ff63ba51484897b82e26f359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d5b4c3b6ff63ba51484897b82e26f359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### No. 2 — The Department of Health and Social Services for Northern Ireland, with the consent of the Department of Finance and Personnel, to the Secretary of State for Social Security[^key-d5b4c3b6ff63ba51484897b82e26f359]
+### No. 2 — The Department of Health and Social Services for Northern Ireland, with the consent of the Department of Finance and Personnel, to the Secretary of State for Social Security[^c-d5b4c3b6ff63ba51484897b82e26f359]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d5b4c3b6ff63ba51484897b82e26f359]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d5b4c3b6ff63ba51484897b82e26f359]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d5b4c3b6ff63ba51484897b82e26f359]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/350) revoked (6.4.2016) by [The Social Security (Great Britain Reciprocal Arrangements) Regulations (Northern Ireland) 2016 (S.R. 2016/149)](https://www.legislation.gov.uk/nisr/2016/149), [reg. 3(1)(b)](https://www.legislation.gov.uk/nisr/2016/149/regulation/3/1/b)
+[^c-d5b4c3b6ff63ba51484897b82e26f359]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/350) revoked (6.4.2016) by [The Social Security (Great Britain Reciprocal Arrangements) Regulations (Northern Ireland) 2016 (S.R. 2016/149)](https://www.legislation.gov.uk/nisr/2016/149), [reg. 3(1)(b)](https://www.legislation.gov.uk/nisr/2016/149/regulation/3/1/b)

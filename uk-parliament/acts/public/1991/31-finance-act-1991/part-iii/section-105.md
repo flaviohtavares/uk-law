@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Restriction of expenditure relief by reference to payments under abandonment guarantees.[^key-51d0c11d2342e50b046a8c7f83ce799e]
+## 105. Restriction of expenditure relief by reference to payments under abandonment guarantees.[^c-51d0c11d2342e50b046a8c7f83ce799e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-51d0c11d2342e50b046a8c7f83ce799e]: Textual amendment: [S. 105](https://www.legislation.gov.uk/ukpga/1991/31/section/105) omitted (with effect in relation to expenditure incurred on or after 17.7.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 31 para. 5(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/31/paragraph/5/2) (with [Sch. 31 para. 23](https://www.legislation.gov.uk/ukpga/2013/29/schedule/31/paragraph/23))
+[^c-51d0c11d2342e50b046a8c7f83ce799e]: Textual amendment: [S. 105](https://www.legislation.gov.uk/ukpga/1991/31/section/105) omitted (with effect in relation to expenditure incurred on or after 17.7.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 31 para. 5(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/31/paragraph/5/2) (with [Sch. 31 para. 23](https://www.legislation.gov.uk/ukpga/2013/29/schedule/31/paragraph/23))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 99. Compulsory acquisition of land for development etc[^key-1384fe07a11f98b322f27aeec77641d5]
+## 99. Compulsory acquisition of land for development etc[^c-1384fe07a11f98b322f27aeec77641d5]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1384fe07a11f98b322f27aeec77641d5]: Commencement: S. 99 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)
+[^c-1384fe07a11f98b322f27aeec77641d5]: Commencement: S. 99 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)

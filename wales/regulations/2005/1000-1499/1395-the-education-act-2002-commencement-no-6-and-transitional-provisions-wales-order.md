@@ -37,15 +37,15 @@ Made
 
 The National Assembly for Wales, in exercise of the power conferred upon it by section 216 (4)(b) and (5) of the Education Act 2002[^f00001], hereby makes the following Order:
 
-## 1. Title and application[^key-580a4fd79250c143c0d32cff8d044ee6]
+## 1. Title and application[^c-580a4fd79250c143c0d32cff8d044ee6]
 
 The title of this Order is the Education Act 2002 (Commencement No.6 and Transitional Provisions) (Wales) Order 2005.
 
-## 2.[^key-92f51989f07408447d9fe7522274e840]
+## 2.[^c-92f51989f07408447d9fe7522274e840]
 
 Provisions brought into force by this Order are brought into force in relation to Wales.
 
-## 3. Interpretation[^key-00193ea1cf4763f047baba345f26b980]
+## 3. Interpretation[^c-00193ea1cf4763f047baba345f26b980]
 
 (1) In this Order —
 
@@ -54,11 +54,11 @@ Provisions brought into force by this Order are brought into force in relation t
 
 (2) In this Order, unless otherwise stated, references to sections and Schedules are references to sections of and Schedules to the 2002 Act.
 
-## 4. Appointed day[^key-2b7edabc91874a54d551160a814b1d1c]
+## 4. Appointed day[^c-2b7edabc91874a54d551160a814b1d1c]
 
 The day appointed for the coming into force of the provisions specified in the Schedule to this Order is 31 May 2005.
 
-## 5. Transitional Provisions[^key-ef9c7dcf8bfe1402734c3c1777b7f2ff]
+## 5. Transitional Provisions[^c-ef9c7dcf8bfe1402734c3c1777b7f2ff]
 
 (1) The amendments made by paragraph 3 of Schedule 4 are not to apply in relation to the admission of children in a school year earlier than 2007-2008.
 
@@ -82,7 +82,7 @@ The Presiding Officer of the National Assembly
 
 24 May 2005
 
-## THE SCHEDULE — Provisions coming into force on 31 May 2005[^key-74d3d086e742bcc28b46a25d1eea3c09]
+## THE SCHEDULE — Provisions coming into force on 31 May 2005[^c-74d3d086e742bcc28b46a25d1eea3c09]
 
 Article 4
 
@@ -254,22 +254,22 @@ Various provisions of the Education Act 2002 have been brought into force in rel
 
 [^f00001]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32).
 
-[^key-580a4fd79250c143c0d32cff8d044ee6]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2005/1395/article/1) in force at made date
+[^c-580a4fd79250c143c0d32cff8d044ee6]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2005/1395/article/1) in force at made date
 
-[^key-92f51989f07408447d9fe7522274e840]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2005/1395/article/2) in force at made date
+[^c-92f51989f07408447d9fe7522274e840]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2005/1395/article/2) in force at made date
 
-[^key-00193ea1cf4763f047baba345f26b980]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2005/1395/article/3) in force at made date
+[^c-00193ea1cf4763f047baba345f26b980]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2005/1395/article/3) in force at made date
 
 [^f00002]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31).
 
-[^key-2b7edabc91874a54d551160a814b1d1c]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2005/1395/article/4) in force at made date
+[^c-2b7edabc91874a54d551160a814b1d1c]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2005/1395/article/4) in force at made date
 
-[^key-ef9c7dcf8bfe1402734c3c1777b7f2ff]: Commencement: [Art. 5](https://www.legislation.gov.uk/wsi/2005/1395/article/5) in force at made date
+[^c-ef9c7dcf8bfe1402734c3c1777b7f2ff]: Commencement: [Art. 5](https://www.legislation.gov.uk/wsi/2005/1395/article/5) in force at made date
 
 [^f00003]: Footnote: [1974 c. 7](https://www.legislation.gov.uk/ukpga/1974/7).
 
 [^f00004]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-74d3d086e742bcc28b46a25d1eea3c09]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2005/1395/schedule) in force at made date
+[^c-74d3d086e742bcc28b46a25d1eea3c09]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2005/1395/schedule) in force at made date
 
 [^f00005]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31).

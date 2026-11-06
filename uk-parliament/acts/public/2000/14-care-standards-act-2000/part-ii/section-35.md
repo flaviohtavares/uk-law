@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Death of registered person.[^c12426431][^c21097291][^key-a2fdec861f29e8a6bf138bd46adab60c][^key-94e5c7fb318787895503f512aa5a16bb][^key-8fea573be3638368fba80de3945c693b]
+## 35. Death of registered person.[^c12426431][^c21097291][^c-a2fdec861f29e8a6bf138bd46adab60c][^c-94e5c7fb318787895503f512aa5a16bb][^c-8fea573be3638368fba80de3945c693b]
 
 *Extent: E+W*
 
@@ -36,8 +36,8 @@ summary: ''
 
 [^c21097291]: Modification: S. 35 applied (with modifications) (E.) (2.8.2004) by [The Care Standards Act 2000 (Extension of the Application of Part 2 to Adult Placement Schemes) (England) Regulations 2004 (S.I. 2004/1972)](https://www.legislation.gov.uk/uksi/2004/1972), [regs. 2(2)(h)](https://www.legislation.gov.uk/uksi/2004/1972/regulation/2/2/h), [3](https://www.legislation.gov.uk/uksi/2004/1972/regulation/3)
 
-[^key-a2fdec861f29e8a6bf138bd46adab60c]: Modification: S. 35 applied (with modifications) (4.3.2013) by [The Care Standards Act 2000 (Extension of the Application of Part 2 to Holiday Schemes for Disabled Children) (England) Regulations 2013 (S.I. 2013/253)](https://www.legislation.gov.uk/uksi/2013/253), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/253/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2013/253/regulation/2/1)[(2)(m)](https://www.legislation.gov.uk/uksi/2013/253/regulation/2/2/m), [Sch.](https://www.legislation.gov.uk/uksi/2013/253/schedule)
+[^c-a2fdec861f29e8a6bf138bd46adab60c]: Modification: S. 35 applied (with modifications) (4.3.2013) by [The Care Standards Act 2000 (Extension of the Application of Part 2 to Holiday Schemes for Disabled Children) (England) Regulations 2013 (S.I. 2013/253)](https://www.legislation.gov.uk/uksi/2013/253), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/253/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2013/253/regulation/2/1)[(2)(m)](https://www.legislation.gov.uk/uksi/2013/253/regulation/2/2/m), [Sch.](https://www.legislation.gov.uk/uksi/2013/253/schedule)
 
-[^key-94e5c7fb318787895503f512aa5a16bb]: Modification: S. 35 applied (with modifications) (31.3.2017) by [The Care Standards Act 2000 (Extension of the Application of Part 2 to Private Dental Practices) (Wales) Regulations 2017 (S.I. 2017/200)](https://www.legislation.gov.uk/wsi/2017/200), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/200/regulation/1/2), [3(2)(m)](https://www.legislation.gov.uk/wsi/2017/200/regulation/3/2/m), [Sch.](https://www.legislation.gov.uk/wsi/2017/200/schedule)
+[^c-94e5c7fb318787895503f512aa5a16bb]: Modification: S. 35 applied (with modifications) (31.3.2017) by [The Care Standards Act 2000 (Extension of the Application of Part 2 to Private Dental Practices) (Wales) Regulations 2017 (S.I. 2017/200)](https://www.legislation.gov.uk/wsi/2017/200), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/200/regulation/1/2), [3(2)(m)](https://www.legislation.gov.uk/wsi/2017/200/regulation/3/2/m), [Sch.](https://www.legislation.gov.uk/wsi/2017/200/schedule)
 
-[^key-8fea573be3638368fba80de3945c693b]: Modification: [S. 35](https://www.legislation.gov.uk/ukpga/2000/14/section/35) applied (with modifications) (8.8.2022) by [The Care Standards Act 2000 (Extension of the Application of Part 2 to Supported Accommodation) (England) Regulations 2022 (S.I. 2022/808)](https://www.legislation.gov.uk/uksi/2022/808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/808/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2022/808/regulation/3/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/808/schedule)
+[^c-8fea573be3638368fba80de3945c693b]: Modification: [S. 35](https://www.legislation.gov.uk/ukpga/2000/14/section/35) applied (with modifications) (8.8.2022) by [The Care Standards Act 2000 (Extension of the Application of Part 2 to Supported Accommodation) (England) Regulations 2022 (S.I. 2022/808)](https://www.legislation.gov.uk/uksi/2022/808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/808/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2022/808/regulation/3/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/808/schedule)

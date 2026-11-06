@@ -39,7 +39,7 @@ summary: ''
   - (i) as a condition of an authorisation; or
   - (ii) in compliance with a requirement imposed by or under these Regulations;
 - (l) with intent to deceive, forges or uses an authorisation or a document issued or authorised to be issued under a condition of a registration or permit or required for any purpose under a condition of such a registration or permit or makes or possesses a document so closely resembling any such authorisation or document so as to be likely to deceive; or
-- (la)[^key-ae09a92e731f1e4321ef5947a2cc23d6] knowingly causes false information or, information falsely purporting to be a copy or reproduction of information, to be contained in the register required to be maintained by SEPA under regulation 38 of these Regulations.
+- (la)[^c-ae09a92e731f1e4321ef5947a2cc23d6] knowingly causes false information or, information falsely purporting to be a copy or reproduction of information, to be contained in the register required to be maintained by SEPA under regulation 38 of these Regulations.
 - (m) causes or permits any other person to commit an offence under sub-paragraphs (a) to (k).
 
 (2) A person commits an offence if the person—
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae09a92e731f1e4321ef5947a2cc23d6]: Textual amendment: [Reg. 69(1)(la)](https://www.legislation.gov.uk/ssi/2018/219/regulation/69/1/la) inserted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [34](https://www.legislation.gov.uk/ssi/2025/165/regulation/34) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-ae09a92e731f1e4321ef5947a2cc23d6]: Textual amendment: [Reg. 69(1)(la)](https://www.legislation.gov.uk/ssi/2018/219/regulation/69/1/la) inserted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [34](https://www.legislation.gov.uk/ssi/2025/165/regulation/34) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

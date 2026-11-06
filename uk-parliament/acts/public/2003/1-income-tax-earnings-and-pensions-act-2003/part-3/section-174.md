@@ -67,11 +67,11 @@ A loan made by a person having a material interest in—
 
 (6) For the purposes of this section a person (“X”) is a relative of another (“Y”) if X is—
 
-- (a) Y’s spouse or civil partner[^key-cc86009e655c34c0e3cb277fa0f39172] ,
+- (a) Y’s spouse or civil partner[^c-cc86009e655c34c0e3cb277fa0f39172] ,
 - (b) a parent, child or remoter relation in the direct line either of Y or of Y’s spouse or civil partner ,
 - (c) a brother or sister of Y or of Y’s spouse or civil partner , or
 - (d) the spouse or civil partner of a person falling within paragraph (b) or (c).
 
 ## Annotations
 
-[^key-cc86009e655c34c0e3cb277fa0f39172]: Textual amendment: Words in s. 174(6) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [141](https://www.legislation.gov.uk/uksi/2005/3229/regulation/141)
+[^c-cc86009e655c34c0e3cb277fa0f39172]: Textual amendment: Words in s. 174(6) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [141](https://www.legislation.gov.uk/uksi/2005/3229/regulation/141)

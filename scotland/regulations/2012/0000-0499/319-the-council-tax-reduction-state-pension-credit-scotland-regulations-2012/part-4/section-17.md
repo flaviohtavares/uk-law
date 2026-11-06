@@ -46,7 +46,7 @@ summary: ''
 - (e) “**mariner**” means a person who is employed under a contract of service as a master or member of the crew of any ship or vessel or in any other capacity on board any ship or vessel where—
   - (i) the employment in that other capacity is for the purposes of that ship or vessel or its crew or any passengers or cargo or mails carried by the ship or vessel; and
   - (ii) the contract is entered into in the United Kingdom with a view to its performance (in whole or in part) while the ship or vessel is on its voyage; and
-- (f) “**prescribed area**” means any area over which Norway or any member State of the European Union [^key-f0f533dbaf535c43719a979ba1ff1e09]... exercises sovereign rights for the purpose of exploring the seabed and subsoil and exploiting their natural resources, being an area outside the territorial seas of Norway or that member State, or any other area which is from time to time specified under section 10(8) of the Petroleum Act 1998.
+- (f) “**prescribed area**” means any area over which Norway or any member State of the European Union [^c-f0f533dbaf535c43719a979ba1ff1e09]... exercises sovereign rights for the purpose of exploring the seabed and subsoil and exploiting their natural resources, being an area outside the territorial seas of Norway or that member State, or any other area which is from time to time specified under section 10(8) of the Petroleum Act 1998.
 
 ## Annotations
 
@@ -54,4 +54,4 @@ summary: ''
 
 [^c21458921]: Marginal citation: [1964 c.29](https://www.legislation.gov.uk/ukpga/1964/29).
 
-[^key-f0f533dbaf535c43719a979ba1ff1e09]: Textual amendment: Words in [reg. 17(4)(f)](https://www.legislation.gov.uk/ssi/2012/319/regulation/17/4/f) omitted (1.4.2021) by virtue of [The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2021 (S.S.I. 2021/51)](https://www.legislation.gov.uk/ssi/2021/51), [regs. 1](https://www.legislation.gov.uk/ssi/2021/51/regulation/1), [9](https://www.legislation.gov.uk/ssi/2021/51/regulation/9)
+[^c-f0f533dbaf535c43719a979ba1ff1e09]: Textual amendment: Words in [reg. 17(4)(f)](https://www.legislation.gov.uk/ssi/2012/319/regulation/17/4/f) omitted (1.4.2021) by virtue of [The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2021 (S.S.I. 2021/51)](https://www.legislation.gov.uk/ssi/2021/51), [regs. 1](https://www.legislation.gov.uk/ssi/2021/51/regulation/1), [9](https://www.legislation.gov.uk/ssi/2021/51/regulation/9)

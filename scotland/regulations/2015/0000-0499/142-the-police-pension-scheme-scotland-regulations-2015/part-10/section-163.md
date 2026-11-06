@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 163. Payment of member contributions for unpaid leave[^key-64ea07f78aef4b47238a0b6b443b5628]
+## 163. Payment of member contributions for unpaid leave[^c-64ea07f78aef4b47238a0b6b443b5628]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64ea07f78aef4b47238a0b6b443b5628]: Commencement: Reg. 163 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-64ea07f78aef4b47238a0b6b443b5628]: Commencement: Reg. 163 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

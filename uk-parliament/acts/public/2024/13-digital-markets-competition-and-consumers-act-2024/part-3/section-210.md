@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 210. Rules[^key-0d0641807eb4ede4f51166f92bf1e246][^key-28fc0fd7407ca15e506b8c5562096779]
+## 210. Rules[^c-0d0641807eb4ede4f51166f92bf1e246][^c-28fc0fd7407ca15e506b8c5562096779]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0d0641807eb4ede4f51166f92bf1e246]: Commencement: S. 210 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-0d0641807eb4ede4f51166f92bf1e246]: Commencement: S. 210 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
-[^key-28fc0fd7407ca15e506b8c5562096779]: Commencement: [S. 210](https://www.legislation.gov.uk/ukpga/2024/13/section/210) in force at 6.4.2025 in so far as not already in force by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-28fc0fd7407ca15e506b8c5562096779]: Commencement: [S. 210](https://www.legislation.gov.uk/ukpga/2024/13/section/210) in force at 6.4.2025 in so far as not already in force by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

@@ -48,7 +48,7 @@ summary: ''
 - (c) communicate at any time to any person any information obtained in a polling station as to the candidate for whom a voter in that station is about to vote or has voted, or as to the number or other unique identifying mark on the back of the ballot paper given to a voter at that station;
 - (d) directly or indirectly induce a voter to display the ballot paper after the voter has marked it so as to make known to any person the name of the candidate for whom the voter has or has not voted.
 
-(5A)[^key-1128d0b51bc2fdafec34f6b36b712af3] No person may—
+(5A)[^c-1128d0b51bc2fdafec34f6b36b712af3] No person may—
 
 - (a) except for some purpose authorised by law, obtain or attempt to obtain information, or communicate at any time to any other person any information, as to the number or other unique identifying mark on the back of a ballot paper sent to a person for voting by post at a PCC election;
 - (b) except for some purpose authorised by law, obtain or attempt to obtain information, or communicate at any time to any other person any information, as to the official mark on a ballot paper sent to a person for voting by post at a PCC election;
@@ -93,4 +93,4 @@ summary: ''
 
 [^c21343591]: Marginal citation: [2000 c.41](https://www.legislation.gov.uk/ukpga/2000/41). Sections 6A to 6D were inserted by section 29 of the Electoral Administration Act 2006 and section 6A(5) was amended by paragraphs 89 and 92 of [S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388) and paragraph 10 of Schedule 10 to the [Police Reform and Social Responsibility Act 2011 (c.13)](https://www.legislation.gov.uk/ukpga/2011/13).
 
-[^key-1128d0b51bc2fdafec34f6b36b712af3]: Textual amendment: [Art. 22(5A)-(5F)](https://www.legislation.gov.uk/uksi/2012/1917/article/22/5A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/8/3)
+[^c-1128d0b51bc2fdafec34f6b36b712af3]: Textual amendment: [Art. 22(5A)-(5F)](https://www.legislation.gov.uk/uksi/2012/1917/article/22/5A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/8/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule A1 — Processing in reliance on relevant international law[^key-cef4c775a0b9e54df85f16deac5eafea]
+## Schedule A1 — Processing in reliance on relevant international law[^c-cef4c775a0b9e54df85f16deac5eafea]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ This condition is met where the processing is necessary for the purposes of resp
 
 ## Annotations
 
-[^key-cef4c775a0b9e54df85f16deac5eafea]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/ukpga/2018/12/schedule/A1) inserted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 72(8)](https://www.legislation.gov.uk/ukpga/2025/18/section/72/8), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/b)
+[^c-cef4c775a0b9e54df85f16deac5eafea]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/ukpga/2018/12/schedule/A1) inserted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 72(8)](https://www.legislation.gov.uk/ukpga/2025/18/section/72/8), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 215. Right to appeal against maintenance of land notice[^key-126a61b71a8505b40f63865e353f97e9]
+## 215. Right to appeal against maintenance of land notice[^c-126a61b71a8505b40f63865e353f97e9]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-126a61b71a8505b40f63865e353f97e9]: Commencement: S. 215 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-126a61b71a8505b40f63865e353f97e9]: Commencement: S. 215 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

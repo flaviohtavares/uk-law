@@ -48,24 +48,24 @@ The Commissioners for Her Majesty’s Revenue and Customs, in exercise of the po
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and interpretation[^key-e18639a29277578b76e242cdb2494fb4]
+### 1. Citation, commencement and interpretation[^c-e18639a29277578b76e242cdb2494fb4]
 
 (1) These Regulations may be cited as the Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) Regulations 2006 and shall come into force on 6<sup>th</sup> April 2006.
 
 (2) In these Regulations—
 
 - “the Act” means the Finance Act 2004 any reference (without more) to a numbered section or Schedule is a reference, as the case requires, to the section of, or Schedule to, the Act which bears that number;
-- [^key-cedfe1510ee95bd33e666308348886c0]...
+- [^c-cedfe1510ee95bd33e666308348886c0]...
 - “recognised overseas pension scheme” has the meaning given by section 150(8); and
 - “relevant non-UK scheme” has the same meaning given by paragraph 1(5) of Schedule 34.
-- “Ring-fenced transfer fund” and “ring-fenced taxable asset transfer fund” have the meaning given in regulations 3B and 3C respectively.[^key-b03f3e2dc0889aeb965013f3d7a4b8f3]
-- “taxable property” has the meaning in Schedule 29A to the Act;[^key-d8672d39bfd66e26b358788a11aa228a]
+- “Ring-fenced transfer fund” and “ring-fenced taxable asset transfer fund” have the meaning given in regulations 3B and 3C respectively.[^c-b03f3e2dc0889aeb965013f3d7a4b8f3]
+- “taxable property” has the meaning in Schedule 29A to the Act;[^c-d8672d39bfd66e26b358788a11aa228a]
 - “taxable property provisions” has the meaning in paragraph 1(3) of that Schedule; and
 - “transfer member” of a scheme has the meaning in paragraph 1(8) of Schedule 34 to the Act.
 
 ## PART 2 — Application and computation of UK tax charges
 
-### 2. Computation of a member’s UK tax-relieved fund under a relevant non-UK scheme[^key-c22c2cf13a0dce47c5626cd3ca7ffeb1]
+### 2. Computation of a member’s UK tax-relieved fund under a relevant non-UK scheme[^c-c22c2cf13a0dce47c5626cd3ca7ffeb1]
 
 The amount of a member’s UK tax-relieved fund under a relevant non-UK scheme is the aggregate of—
 
@@ -74,30 +74,30 @@ The amount of a member’s UK tax-relieved fund under a relevant non-UK scheme i
 
 assuming that section 229(3) did not apply.
 
-### 3. Computation of a member’s relevant transfer fund[^key-b85ca6595871188654d9d63ea20ddff9]
+### 3. Computation of a member’s relevant transfer fund[^c-b85ca6595871188654d9d63ea20ddff9]
 
-(1)[^key-37d81d8e60ed31b3f29763da28c7b689] The amount of a member’s relevant transfer fund under a relevant non-UK scheme (that scheme being referred to here as “the RNUKS”) is the sum of—
+(1)[^c-37d81d8e60ed31b3f29763da28c7b689] The amount of a member’s relevant transfer fund under a relevant non-UK scheme (that scheme being referred to here as “the RNUKS”) is the sum of—
 
-- (a) the amount crystallised [^key-0a95c5e14462863f434f3897a82e7a8f]... on the transfer from a UK registered pension[^key-c1020085074ed56d530d8e4734fc56a4] scheme to the RNUKS; and
+- (a) the amount crystallised [^c-0a95c5e14462863f434f3897a82e7a8f]... on the transfer from a UK registered pension[^c-c1020085074ed56d530d8e4734fc56a4] scheme to the RNUKS; and
 - (b) so much of the member’s UK tax-relieved fund under any other relevant non-UK scheme as has been transferred to the RNUKS but has not been subject to the unauthorised payments charge; and
 - (c) so much of the member’s relevant transfer fund under any other relevant non-UK scheme as has been transferred to the RNUKS—
-  - (i) without being subject to the unauthorised payments charge; [^key-d14f104bc680e8cfe66d02e866893c57]...
-  - (ii)[^key-d14f104bc680e8cfe66d02e866893c57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) without being subject to the unauthorised payments charge; [^c-d14f104bc680e8cfe66d02e866893c57]...
+  - (ii)[^c-d14f104bc680e8cfe66d02e866893c57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-42b66b53f86913510085bf09c04bd335] For the purposes of this regulation, the “amount crystallised” on a transfer from a UK registered scheme to a relevant non-UK scheme is the aggregate of the amount of any sums transferred and the market value of any assets transferred.
+(2)[^c-42b66b53f86913510085bf09c04bd335] For the purposes of this regulation, the “amount crystallised” on a transfer from a UK registered scheme to a relevant non-UK scheme is the aggregate of the amount of any sums transferred and the market value of any assets transferred.
 
-### 3A. Computation of a member’s taxable asset transfer fund[^key-e0a95b5e05ad6b406003feb9f462a4c5]
+### 3A. Computation of a member’s taxable asset transfer fund[^c-e0a95b5e05ad6b406003feb9f462a4c5]
 
 (1) The amount of a member’s taxable asset transfer fund under a relevant non-UK scheme (“the RNUKS”) is the sum of—
 
-- (a) the amount crystallised [^key-f34dd1a903649bbff683e193de8a398f]... on the transfer from a UK registered pension scheme to the RNUKS; and
+- (a) the amount crystallised [^c-f34dd1a903649bbff683e193de8a398f]... on the transfer from a UK registered pension scheme to the RNUKS; and
 - (b) so much of the member’s taxable asset transfer fund under any other relevant non-UK scheme as has been transferred to the RNUKS without being subject to the unauthorised payments charge.
 
 (2) Accordingly, the member’s taxable asset transfer fund (“TATF”) shall form part of the member’s relevant transfer fund (“RTF”), except in a case where the member’s RTF consists solely of a UK tax-relieved fund which has been transferred to the RNUKS.
 
-(3)[^key-4b86c2864b80644b559d8351c83f3440] For the purposes of this regulation, the “amount crystallised” on a transfer from a UK registered pension scheme to a relevant non-UK scheme is the aggregate of the amount of any sums transferred and the market value of any assets transferred.
+(3)[^c-4b86c2864b80644b559d8351c83f3440] For the purposes of this regulation, the “amount crystallised” on a transfer from a UK registered pension scheme to a relevant non-UK scheme is the aggregate of the amount of any sums transferred and the market value of any assets transferred.
 
-### 3B. Computation of the member’s ring-fenced transfer fund[^key-b62d57edf54de264b37801eaa8d3b10a]
+### 3B. Computation of the member’s ring-fenced transfer fund[^c-b62d57edf54de264b37801eaa8d3b10a]
 
 The amount of a member’s ring-fenced transfer fund (“RFTF”) under a RNUKS is the aggregate of the sums and market value of the assets transferred as a result of the original relevant transfer or subsequent relevant transfer as has been transferred to the RNUKS without being subject to the unauthorised payments charge.
 
@@ -108,14 +108,14 @@ The amount of the member’s ring-fenced taxable asset transfer fund (“RFTATF�
 - (a) the aggregate of the sums and market value of the assets transferred as a result of an original relevant transfer from a registered pension scheme to that RNUKS, and
 - (b) so much of the member’s RFTATF under any other RNUKS as has been transferred to that RNUKS without being subject to the unauthorised payments charge.
 
-### 4. Attributing payments to particular funds under a relevant non-UK scheme[^key-55f72bb784911956d7339a3410e87e87]
+### 4. Attributing payments to particular funds under a relevant non-UK scheme[^c-55f72bb784911956d7339a3410e87e87]
 
-(1) This regulation applies to determine to which part of a relevant non-UK scheme a payment to, or in respect of, a member made before 6th April 2017[^key-62d02957acb87b7c9d28f5ecd83d6f39] is referable.
+(1) This regulation applies to determine to which part of a relevant non-UK scheme a payment to, or in respect of, a member made before 6th April 2017[^c-62d02957acb87b7c9d28f5ecd83d6f39] is referable.
 
 (2) It shall be assumed that—
 
 - (a) payments made by the scheme to or in respect of the member are made out of the member’s UK tax-relieved fund in priority to any other fund under that scheme; and
-- (b) the amount of the member’s UK tax-relieved fund is reduced (but not below nil)[^key-3f238f440e44094ef12b259a36ea6666] by the amount paid out of the scheme.
+- (b) the amount of the member’s UK tax-relieved fund is reduced (but not below nil)[^c-3f238f440e44094ef12b259a36ea6666] by the amount paid out of the scheme.
 
 (3) If the member’s UK tax-relieved fund is nil, or has been reduced to nil, the following Rules apply (with an earlier Rule applying in preference to a later Rule).[^M_F_2288226e-41ee-4180-eb31-c8dd27a1f971]
 
@@ -143,7 +143,7 @@ The amount of the member’s ring-fenced taxable asset transfer fund (“RFTATF�
   - (a) where the member has both an RTF and a TATF, and the amount of his RTF exceeds the amount of his TATF, such payments shall, to the extent of that excess, be treated as made out of his RTF (but not his TATF) and as reducing the RTF, and subject thereto
   - (b) such payments are made out of the member’s RTF and TATF in priority to any other fund under that scheme, and reduce (but not below nil) the amount of the RTF and TATF.
 
-(3A)[^key-59ff431bf41231bf6935ffccab2996fa] If both the member’s UK tax-relieved fund and RTF are nil, or have been reduced to nil, the following Rules apply (with an earlier Rule applying in preference to a later Rule), subject to the provisions in paragraph (3B).
+(3A)[^c-59ff431bf41231bf6935ffccab2996fa] If both the member’s UK tax-relieved fund and RTF are nil, or have been reduced to nil, the following Rules apply (with an earlier Rule applying in preference to a later Rule), subject to the provisions in paragraph (3B).
 
 Rule 1
 
@@ -174,9 +174,9 @@ So far as the member’s RFTF and RFTATF are not represented by appropriated ass
 
 (3B) Where a member has more than one RFTF under the RNUKS, paragraph (3A) applies in order of priority from the RFTF with the earliest key date to the RFTF with the latest key date.
 
-(4)[^M_F_55ebabba-98db-4438-d6e3-507521e0d989] In paragraphs (3) and (3A)[^key-538c0d6694a489a40a8c0c58546fb2b8], references to payments made or treated as made by virtue of section 174A include references to payments treated as made by regulations under paragraph 37 of Schedule 29A, or paragraph 7A of Schedule 34, to the Act.
+(4)[^M_F_55ebabba-98db-4438-d6e3-507521e0d989] In paragraphs (3) and (3A)[^c-538c0d6694a489a40a8c0c58546fb2b8], references to payments made or treated as made by virtue of section 174A include references to payments treated as made by regulations under paragraph 37 of Schedule 29A, or paragraph 7A of Schedule 34, to the Act.
 
-### 4ZA. Fund depletion[^key-8965ea426b5b7fcd9cddcef5629e2693]
+### 4ZA. Fund depletion[^c-8965ea426b5b7fcd9cddcef5629e2693]
 
 (1) This regulation applies to determine when a member’s UK tax-relieved fund, RTF, taxable asset transfer fund (“TATF)”, RFTF and RFTATF will be reduced.
 
@@ -236,7 +236,7 @@ where P is the amount of the pension which will be payable to the individual in 
 
 as are applied in (or in connection with) the purchase or provision of a dependants’ scheme pension.
 
-(9) If the dependants’ scheme pension is related to the member’s scheme pension (in accordance with section 278B[^key-52629a0034aa63965487f374767e429f]) then the amount of the deduction is nil.
+(9) If the dependants’ scheme pension is related to the member’s scheme pension (in accordance with section 278B[^c-52629a0034aa63965487f374767e429f]) then the amount of the deduction is nil.
 
 (10) If the dependants’ scheme pension is funded (in whole or in part) by the application of sums or assets representing the whole or part of—
 
@@ -425,25 +425,25 @@ regulation 4ZB(4) is treated as including the amount of the pension debit that d
 - (a) designated before 6th April 2017 for the payment of a drawdown pension, or
 - (b) applied before 6th April 2017 towards the provision of a scheme pension.
 
-### 4A. Taxable property provisions to apply to a transfer member of a relevant non-UK scheme (to payments referable to his taxable asset transfer fund or ring-fenced taxable asset transfer fund)[^key-7c320de21dcbcfb089c7c2ebbf44fe5f][^key-e06475e70c9363a9bdf519f4b627b7f6]
+### 4A. Taxable property provisions to apply to a transfer member of a relevant non-UK scheme (to payments referable to his taxable asset transfer fund or ring-fenced taxable asset transfer fund)[^c-7c320de21dcbcfb089c7c2ebbf44fe5f][^c-e06475e70c9363a9bdf519f4b627b7f6]
 
 The—
 
 - (a) taxable property provisions, and
 - (b) regulations made under paragraph 37 of Schedule 29A or paragraph 7A of Schedule 34,
 
-apply to a transfer member of a relevant non-UK scheme, in relation to payments treated as made by those provisions or regulations which are referable to the member’s taxable asset transfer fund or RFTATF[^key-33827b1ad598fcf855ec84208d6f3c97] under the scheme, but subject to the modifications in regulations 4B to 4D.
+apply to a transfer member of a relevant non-UK scheme, in relation to payments treated as made by those provisions or regulations which are referable to the member’s taxable asset transfer fund or RFTATF[^c-33827b1ad598fcf855ec84208d6f3c97] under the scheme, but subject to the modifications in regulations 4B to 4D.
 
 ### 4B. Unauthorised payments charge to apply (in lieu of scheme chargeable payment)
 
 (1) The scheme chargeable payment provisions in sections 185A to 185I shall not apply to a relevant non-UK scheme.
 
-(2) But, during such time as an appropriated asset forms the whole or part of a transfer member’s TATF or RFTATF[^key-20e8074854caa8af67aab17c3a9569ee]—
+(2) But, during such time as an appropriated asset forms the whole or part of a transfer member’s TATF or RFTATF[^c-20e8074854caa8af67aab17c3a9569ee]—
 
 - (a) the scheme shall be treated as making unauthorised payments to that member equal in amount to the scheme chargeable payments (in respect of income and gains) which would have been computed in accordance with those sections, and
 - (b) the transfer member shall be liable to pay the unauthorised payments charge in respect of such payments.
 
-(3) Where the scheme’s interest in taxable property is not wholly referable to the transfer member’s TATF or RFTATF[^key-17f308aadcfc425a1d2e1565e348de63], the amount of the unauthorised payment shall be proportionately reduced.
+(3) Where the scheme’s interest in taxable property is not wholly referable to the transfer member’s TATF or RFTATF[^c-17f308aadcfc425a1d2e1565e348de63], the amount of the unauthorised payment shall be proportionately reduced.
 
 ### 4C. Modification of paragraph 15 of Schedule 29A
 
@@ -469,57 +469,57 @@ Paragraph 15 of Schedule 29A applies to the transfer member of a relevant non-UK
 
 ## PART 3
 
-### 5. Modifications to Part 4 of the Finance Act 2004 in respect of relevant non-UK schemes[^key-8773a78fd17c7296ebbf11faf26b1ae6]
+### 5. Modifications to Part 4 of the Finance Act 2004 in respect of relevant non-UK schemes[^c-8773a78fd17c7296ebbf11faf26b1ae6]
 
-Part 4 of the Finance Act 2004 shall be modified in respect of relevant non-UK schemes, within the meaning of paragraph 1(5) of Schedule 34, in accordance with the following provisions of this Part[^key-426117c2b43bc4bc7e6fb399983422f1] .
+Part 4 of the Finance Act 2004 shall be modified in respect of relevant non-UK schemes, within the meaning of paragraph 1(5) of Schedule 34, in accordance with the following provisions of this Part[^c-426117c2b43bc4bc7e6fb399983422f1] .
 
-### 6. Modification of section 165[^key-fe2221b6f0258aa095f560b96056d3c9]
+### 6. Modification of section 165[^c-fe2221b6f0258aa095f560b96056d3c9]
 
 In section 165 (pension rules)—
 
-- (a) in subsection (1), in pension rule 4 omit from “but a scheme pension” to the end, [^key-6ef6c391fcf51ddf6dd3106ac6255adf]...
-- (b)[^key-6ef6c391fcf51ddf6dd3106ac6255adf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) in subsection (1), in pension rule 4 omit from “but a scheme pension” to the end, [^c-6ef6c391fcf51ddf6dd3106ac6255adf]...
+- (b)[^c-6ef6c391fcf51ddf6dd3106ac6255adf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Modification of section 167[^key-6a79c085694f3daebfe40015ebcd63b8]
+### 7. Modification of section 167[^c-6a79c085694f3daebfe40015ebcd63b8]
 
 In section 167 (pension death benefit rules)—
 
-- (a) in subsection (1), in pension death benefit rule 3 omit from “but a dependants’ scheme pension” to the end, [^key-eb055a40e4d15e0af4559eb7b6568d98]...
-- (b)[^key-eb055a40e4d15e0af4559eb7b6568d98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) in subsection (1), in pension death benefit rule 3 omit from “but a dependants’ scheme pension” to the end, [^c-eb055a40e4d15e0af4559eb7b6568d98]...
+- (b)[^c-eb055a40e4d15e0af4559eb7b6568d98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Modification of section 227[^key-00cbb723694f0c3a83cb6f06c050ecd7]
+### 8. Modification of section 227[^c-00cbb723694f0c3a83cb6f06c050ecd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Modification of section 231[^key-3b85fe1d6e29b0dfe9f255ce9f3f0e32]
+### 9. Modification of section 231[^c-3b85fe1d6e29b0dfe9f255ce9f3f0e32]
 
 In section 231—
 
-- (a)[^key-658976a115d13870ced0a40734aa15bf] in subsection (3) for “the consumer prices index” substitute “the relevant index”; and
+- (a)[^c-658976a115d13870ced0a40734aa15bf] in subsection (3) for “the consumer prices index” substitute “the relevant index”; and
 - (b) at the end add—
 
-  > (4)[^key-aaa6b1ab161450f65b2fe0d566c2edc9] In this section “the relevant index” means—
+  > (4)[^c-aaa6b1ab161450f65b2fe0d566c2edc9] In this section “the relevant index” means—
   >
   > - (a) if there is an index of the movement of consumer prices maintained, or officially recognised, by the government of the country or territory in which the recognised overseas scheme is established, that index, or
   > - (b) if there is no such index, the consumer prices index.
 
   .
 
-### 10. Modification of section 235[^key-eda6927245a0cc36a963d275b65367d9]
+### 10. Modification of section 235[^c-eda6927245a0cc36a963d275b65367d9]
 
 In section 235—
 
-- (a)[^key-7b8631d371571d05b55ce738c879b879] in subsection (3) for “the consumer prices index” substitute “the relevant index”; and
+- (a)[^c-7b8631d371571d05b55ce738c879b879] in subsection (3) for “the consumer prices index” substitute “the relevant index”; and
 - (b) at the end of the section add—
 
-  > (4)[^key-99521ce665734481303d72be49d640e2] In this section “the relevant index” means—
+  > (4)[^c-99521ce665734481303d72be49d640e2] In this section “the relevant index” means—
   >
   > - (a) if there is an index of the movement of consumer prices maintained, or officially recognised, by the government of the country or territory in which the recognised overseas scheme is established, that index, or
   > - (b) if there is no such index, the consumer prices index.
 
   .
 
-### 11. Modification of section 275[^key-a9a02fb7c4aec7f059d7dcd9810cee53]
+### 11. Modification of section 275[^c-a9a02fb7c4aec7f059d7dcd9810cee53]
 
 (1) In the heading of section 275 at the end add “and Non-EEA annuity provider”.
 
@@ -534,31 +534,31 @@ In section 235—
 
 .
 
-### 12. Modification of section 276[^key-8e57b74da2a9620ccf0126f5f152a987]
+### 12. Modification of section 276[^c-8e57b74da2a9620ccf0126f5f152a987]
 
 In section 276(2) for “scheme administrator” substitute “scheme manager”.
 
-### 13. Modification of section 279[^key-e1a53c68a72a785086f514132efb9cbd]
+### 13. Modification of section 279[^c-e1a53c68a72a785086f514132efb9cbd]
 
 (1) Section 279(1) shall be modified as follows.
 
 (2) At the appropriate points in the alphabetical list insert—
 
-> - “applicable pension scheme”, in relation to a pension sharing order in respect of a member’s spouse, ex-spouse, civil partner or former civil partner[^key-064b49e8e3a7aaaf747a499b25db9ef8], means a scheme which is—
+> - “applicable pension scheme”, in relation to a pension sharing order in respect of a member’s spouse, ex-spouse, civil partner or former civil partner[^c-064b49e8e3a7aaaf747a499b25db9ef8], means a scheme which is—
 >   - (a) a recognised overseas pension scheme within the meaning of this Part; or
 >   - (b) a scheme which is recognised for tax purposes under the law of either the country or territory in which it is situate or that of the country or territory in which the pension sharing order is made;
 
 ;[^f00002] and
 
 > - “ex-spouse”, in relation to a member, means the other party to a marriage with the member that has been dissolved or annulled;
-> - “former civil partner” in relation to a member means the other party to a civil partnership with the member that has been dissolved or annulled.[^key-b8abff74f9f6b6f1da9a6d46a69a1dbf]
+> - “former civil partner” in relation to a member means the other party to a civil partnership with the member that has been dissolved or annulled.[^c-b8abff74f9f6b6f1da9a6d46a69a1dbf]
 
 ;
 
 (3) For the definitions of “pension credit” and “pension debit” substitute—
 
 > - “pension credit” and “pension debit” mean respectively the amount by which—
->   - (a) the entitlement of a member’s spouse, ex-spouse, civil partner or former civil partner[^key-cea9e55318bf1e1c071d0a6f63637248] under an applicable pension scheme, is increased; and
+>   - (a) the entitlement of a member’s spouse, ex-spouse, civil partner or former civil partner[^c-cea9e55318bf1e1c071d0a6f63637248] under an applicable pension scheme, is increased; and
 >   - (b) the entitlement of a member under a qualifying recognised overseas pension scheme is decreased,
 >
 >   pursuant to a pension sharing order;.
@@ -567,11 +567,11 @@ In section 276(2) for “scheme administrator” substitute “scheme manager”
 
 (4) For the definition of “pension sharing order or provision” substitute—
 
-> - “pension sharing order” means an order of a court, by virtue of which amounts are transferred from a recognised overseas pension scheme of a member to an applicable pension scheme of that member’s spouse, ex-spouse, civil partner or former civil partner[^key-43abcdc582024f86c5584e296e9091d0], in or in connection with proceedings relating to the dissolution or annulment of the marriage or civil partnership[^key-1582475d27b889bfa217c340e94996e5] of the parties;
+> - “pension sharing order” means an order of a court, by virtue of which amounts are transferred from a recognised overseas pension scheme of a member to an applicable pension scheme of that member’s spouse, ex-spouse, civil partner or former civil partner[^c-43abcdc582024f86c5584e296e9091d0], in or in connection with proceedings relating to the dissolution or annulment of the marriage or civil partnership[^c-1582475d27b889bfa217c340e94996e5] of the parties;
 
 .
 
-### 14. Modification of Schedule 28[^key-9e4c181933e5c0c0b6678f1489e68b0d]
+### 14. Modification of Schedule 28[^c-9e4c181933e5c0c0b6678f1489e68b0d]
 
 (1) Schedule 28 is modified as follows.
 
@@ -590,18 +590,18 @@ The provisions are—
 
 - (a) paragraph 1(a);
 - (b) paragraph 2 (in each place where the expression occurs);
-- (ba)[^key-5efbe24f9d7d6992b47b4eb214fbb7b7] paragraphs 8C and 8D (in each place where the expression occurs);
-- (c)[^key-16aa92b541513e53e0ab3188a2003373] paragraph 10 (in each place where the expression occurs);
-- (ca)[^key-dd043a87fc776d2ca249ced4b5f7b178] paragraph 10A (in each place where the expression occurs);
+- (ba)[^c-5efbe24f9d7d6992b47b4eb214fbb7b7] paragraphs 8C and 8D (in each place where the expression occurs);
+- (c)[^c-16aa92b541513e53e0ab3188a2003373] paragraph 10 (in each place where the expression occurs);
+- (ca)[^c-dd043a87fc776d2ca249ced4b5f7b178] paragraph 10A (in each place where the expression occurs);
 - (cb) paragraph 10B (in each place where the expression occurs);
 - (d) paragraph 13(3);
-- (da)[^key-1d9e9221d3f01f18818b8fdb829f69e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (da)[^c-1d9e9221d3f01f18818b8fdb829f69e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) paragraph 16(1) and (2);
-- (ea)[^key-c36e357139b4241c612308bfa966419b] paragraphs 22C and 22D (in each place where the expression occurs);
-- (f)[^key-76ac1439cae6a39431b775505563ff7d] paragraph 24 (in each place where the expression occurs);
-- (fa)[^key-6f4f75b2f6c72053e3151511bf8031d7] paragraph 24A (in each place where the expression occurs);
+- (ea)[^c-c36e357139b4241c612308bfa966419b] paragraphs 22C and 22D (in each place where the expression occurs);
+- (f)[^c-76ac1439cae6a39431b775505563ff7d] paragraph 24 (in each place where the expression occurs);
+- (fa)[^c-6f4f75b2f6c72053e3151511bf8031d7] paragraph 24A (in each place where the expression occurs);
 - (fb) paragraph 24B (in each place where the expression occurs);
-- (fc)[^key-d2cb84bfe31cd1c430cf453069ac1107] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (fc)[^c-d2cb84bfe31cd1c430cf453069ac1107] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) paragraph 27(3).
 
 (4) Omit paragraphs 3(1)(b), 6(1)(c), 17(1)(b) and 20(1)(c).
@@ -620,21 +620,21 @@ The provisions are—
 
 .
 
-### 15. Modification of Schedule 29[^key-11ffec1dbbef10c9e4556f56e9448930]
+### 15. Modification of Schedule 29[^c-11ffec1dbbef10c9e4556f56e9448930]
 
 (1) Schedule 29 is modified as follows.
 
-(1A)[^key-c6259f83772bfbe62352c1eb92497e92] In paragraph 3C (pension commencement excess lump sum)—
+(1A)[^c-c6259f83772bfbe62352c1eb92497e92] In paragraph 3C (pension commencement excess lump sum)—
 
 - (a) in sub-paragraph (1), after paragraph (c) insert—
 
-  > - (ca) it is not paid from the relevant transfer fund , or ring-fenced transfer fund,[^key-a7f6181744c0cef2e278e4f36f8533f3] of a qualifying recognised overseas pension scheme;
+  > - (ca) it is not paid from the relevant transfer fund , or ring-fenced transfer fund,[^c-a7f6181744c0cef2e278e4f36f8533f3] of a qualifying recognised overseas pension scheme;
   > - (cb) it is not paid from the UK tax-relieved fund of a relevant non-UK scheme.
 
   ;
-- (b) after sub-paragraph (5)[^key-17f00ddfdf91439f880dd5a2a47e3db0] insert—
+- (b) after sub-paragraph (5)[^c-17f00ddfdf91439f880dd5a2a47e3db0] insert—
 
-  > (6)[^key-d298376135617d255c26bb115c1974bf] Expressions used in sub-paragraph (1)(ca) and (cb) have the same meaning as in Schedule 34 (non-UK schemes: application of certain charges).
+  > (6)[^c-d298376135617d255c26bb115c1974bf] Expressions used in sub-paragraph (1)(ca) and (cb) have the same meaning as in Schedule 34 (non-UK schemes: application of certain charges).
 
 (1B) In paragraph 4 (serious ill-health lump sum)—
 
@@ -662,31 +662,31 @@ The provisions are—
 >
 > (7) In sub-paragraph (5) “**transfer member**” has the meaning given by paragraph 1(8) of Schedule 34 (non-UK schemes).
 
-(2)[^key-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3A)[^key-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4A)[^key-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4A)[^c-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9A)[^key-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9A)[^c-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Modification of Schedule 32[^key-509e535eba092a1033bc561ab5fe281e]
+### 16. Modification of Schedule 32[^c-509e535eba092a1033bc561ab5fe281e]
 
 In paragraph 11(6) of Schedule 32—
 
@@ -699,7 +699,7 @@ In paragraph 11(6) of Schedule 32—
 
   .
 
-### 17. Modification of Schedule 34[^key-5aa125880ca3708f0b5f318081a29233]
+### 17. Modification of Schedule 34[^c-5aa125880ca3708f0b5f318081a29233]
 
 In Schedule 34 after paragraph 19 add—
 
@@ -709,16 +709,16 @@ In Schedule 34 after paragraph 19 add—
 >
 > - (a) the member payment provisions to a payment made (or treated by this Part as made) to or in respect of—
 >   - (i) a relieved member of a relevant non-UK scheme, or
->   - (ii) a transfer member of such a scheme; and[^key-a812785a311cef8b56f016d5046c88d7]
-> - (b) the annual allowance provisions in relation to an individual who is a currently-relieved member of a currently-relieved non-UK scheme; [^key-e43de81519ba59beba100db9cd38a193]...
-> - (c)[^key-e43de81519ba59beba100db9cd38a193] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>   - (ii) a transfer member of such a scheme; and[^c-a812785a311cef8b56f016d5046c88d7]
+> - (b) the annual allowance provisions in relation to an individual who is a currently-relieved member of a currently-relieved non-UK scheme; [^c-e43de81519ba59beba100db9cd38a193]...
+> - (c)[^c-e43de81519ba59beba100db9cd38a193] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > (2) If it appears to an officer of Revenue and Customs that, by reason of some non-compliance with the requirements set out in this Part, which in the officer’s view does not materially affect the nature of a payment, the payment, or the member in respect of whom it is payable, would be treated less favourably by the strict application of the provisions mentioned in paragraph (1) than in the officer’s view is appropriate, sub-paragraph (3) applies.
 >
 > (3) If this sub-paragraph applies, an officer of Revenue and Customs—
 >
 > - (a) may decide, and
-> - (b) if requested to do so by a member falling within any of the descriptions in paragraphs (a) and (b)[^key-f16188c07870527349a609ffadd21bfc] of sub-paragraph (1), shall decide,
+> - (b) if requested to do so by a member falling within any of the descriptions in paragraphs (a) and (b)[^c-f16188c07870527349a609ffadd21bfc] of sub-paragraph (1), shall decide,
 >
 > whether, notwithstanding the non-compliance referred to in sub-paragraph (2), the treatment which, but for that non-compliance, would have applied under this Part should apply to the payment or the member (as the case may be).
 >
@@ -727,7 +727,7 @@ In Schedule 34 after paragraph 19 add—
 > (4) An officer of Revenue and Customs shall not make a decision under sub-paragraph (3) that, notwithstanding the difference referred to in sub-paragraph (2), the provisions of this Part shall apply to the payment or the member unless—
 >
 > - (a) it appears to the officer that the effect of the decision would be to reduce the total cumulative tax liability in respect of the charges mentioned in subparagraph (1) of the member whose tax liability would be affected by it, taking one year with another;
-> - (b) the officer has first given at least 28 days' notice of his intention to make the decision to the member whose tax liability would be[^key-63e629dbc25798f78dcbde2ae70c0c74] affected by it; and
+> - (b) the officer has first given at least 28 days' notice of his intention to make the decision to the member whose tax liability would be[^c-63e629dbc25798f78dcbde2ae70c0c74] affected by it; and
 > - (c) the member has—
 >   - (i) consented to the making of the decision; or
 >   - (ii) failed to respond to the notice within the period specified in paragraph (b).
@@ -758,9 +758,9 @@ In Schedule 34 after paragraph 19 add—
 
 .
 
-## Part 4[^key-a69256e2a4ef89370d2c62b0d47c3648]
+## Part 4[^c-a69256e2a4ef89370d2c62b0d47c3648]
 
-### 18. Modifications of Chapter 15A of ITEPA 2003 in respect of relevant non-UK schemes[^key-e8f4bad6a3768c1fef0b4b437e558f87]
+### 18. Modifications of Chapter 15A of ITEPA 2003 in respect of relevant non-UK schemes[^c-e8f4bad6a3768c1fef0b4b437e558f87]
 
 (1) Paragraph (2) applies where an uncrystallised funds pension lump sum is paid to a transfer member of a recognised overseas pension scheme.
 
@@ -803,150 +803,150 @@ A regulatory impact assessment in respect of the provisions of Part 4 of the Fin
 
 [^f00001]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12). The functions of the Commissioners of Inland Revenue, including those under which this instrument is made, were transferred to the Commissioners for Her Majesty’s Revenue and Customs by section 5 of the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11).
 
-[^key-e18639a29277578b76e242cdb2494fb4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2006/207/regulation/1) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
+[^c-e18639a29277578b76e242cdb2494fb4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2006/207/regulation/1) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
 
-[^key-cedfe1510ee95bd33e666308348886c0]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/2) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/2), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+[^c-cedfe1510ee95bd33e666308348886c0]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/2) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/2), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
 
-[^key-b03f3e2dc0889aeb965013f3d7a4b8f3]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/2) inserted (retrospective to 9.3.2017) by [The Pension Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2018 (S.I. 2018/373)](https://www.legislation.gov.uk/uksi/2018/373), [regs. 1](https://www.legislation.gov.uk/uksi/2018/373/regulation/1), [2](https://www.legislation.gov.uk/uksi/2018/373/regulation/2), [5](https://www.legislation.gov.uk/uksi/2018/373/regulation/5)
+[^c-b03f3e2dc0889aeb965013f3d7a4b8f3]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/2) inserted (retrospective to 9.3.2017) by [The Pension Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2018 (S.I. 2018/373)](https://www.legislation.gov.uk/uksi/2018/373), [regs. 1](https://www.legislation.gov.uk/uksi/2018/373/regulation/1), [2](https://www.legislation.gov.uk/uksi/2018/373/regulation/2), [5](https://www.legislation.gov.uk/uksi/2018/373/regulation/5)
 
-[^key-d8672d39bfd66e26b358788a11aa228a]: Textual amendment: Words in reg. 1(2) inserted (retrospective to 6.4.2006) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes)(Amendment) Regulations 2006 (S.I. 2006/1960)](https://www.legislation.gov.uk/uksi/2006/1960/contents/made), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1960/regulation/1/made), [3](https://www.legislation.gov.uk/uksi/2006/1960/regulation/3)
+[^c-d8672d39bfd66e26b358788a11aa228a]: Textual amendment: Words in reg. 1(2) inserted (retrospective to 6.4.2006) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes)(Amendment) Regulations 2006 (S.I. 2006/1960)](https://www.legislation.gov.uk/uksi/2006/1960/contents/made), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1960/regulation/1/made), [3](https://www.legislation.gov.uk/uksi/2006/1960/regulation/3)
 
-[^key-c22c2cf13a0dce47c5626cd3ca7ffeb1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2006/207/regulation/2) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
+[^c-c22c2cf13a0dce47c5626cd3ca7ffeb1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2006/207/regulation/2) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
 
-[^key-b85ca6595871188654d9d63ea20ddff9]: Commencement: Reg. 3 in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
+[^c-b85ca6595871188654d9d63ea20ddff9]: Commencement: Reg. 3 in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
 
-[^key-37d81d8e60ed31b3f29763da28c7b689]: Textual amendment: Reg. 3 renumbered as reg. 3(1) (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(3)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/3/a), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+[^c-37d81d8e60ed31b3f29763da28c7b689]: Textual amendment: Reg. 3 renumbered as reg. 3(1) (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(3)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/3/a), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
 
-[^key-0a95c5e14462863f434f3897a82e7a8f]: Textual amendment: Words in reg. 3(1)(a) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/3/b/i), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+[^c-0a95c5e14462863f434f3897a82e7a8f]: Textual amendment: Words in reg. 3(1)(a) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/3/b/i), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
 
-[^key-c1020085074ed56d530d8e4734fc56a4]: Textual amendment: Word in reg. 3(1)(a) inserted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/3/b/ii), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+[^c-c1020085074ed56d530d8e4734fc56a4]: Textual amendment: Word in reg. 3(1)(a) inserted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/3/b/ii), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
 
-[^key-d14f104bc680e8cfe66d02e866893c57]: Textual amendment: Reg. 3(c)(ii) and word omitted (retrospective to 6.4.2006) by virtue of [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes)(Amendment) Regulations 2006 (S.I. 2006/1960)](https://www.legislation.gov.uk/uksi/2006/1960/contents/made), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1960/regulation/1/made), [4](https://www.legislation.gov.uk/uksi/2006/1960/regulation/4/made)
+[^c-d14f104bc680e8cfe66d02e866893c57]: Textual amendment: Reg. 3(c)(ii) and word omitted (retrospective to 6.4.2006) by virtue of [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes)(Amendment) Regulations 2006 (S.I. 2006/1960)](https://www.legislation.gov.uk/uksi/2006/1960/contents/made), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1960/regulation/1/made), [4](https://www.legislation.gov.uk/uksi/2006/1960/regulation/4/made)
 
-[^key-42b66b53f86913510085bf09c04bd335]: Textual amendment: Reg. 3(2) inserted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(3)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/3/c), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+[^c-42b66b53f86913510085bf09c04bd335]: Textual amendment: Reg. 3(2) inserted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(3)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/3/c), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
 
-[^key-e0a95b5e05ad6b406003feb9f462a4c5]: Textual amendment: Reg. 3A inserted (retrospective to 6.4.2006) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes)(Amendment) Regulations 2006 (S.I. 2006/1960)](https://www.legislation.gov.uk/uksi/2006/1960/contents/made), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1960/regulation/1/made), [5](https://www.legislation.gov.uk/uksi/2006/1960/regulation/5/made)
+[^c-e0a95b5e05ad6b406003feb9f462a4c5]: Textual amendment: Reg. 3A inserted (retrospective to 6.4.2006) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes)(Amendment) Regulations 2006 (S.I. 2006/1960)](https://www.legislation.gov.uk/uksi/2006/1960/contents/made), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1960/regulation/1/made), [5](https://www.legislation.gov.uk/uksi/2006/1960/regulation/5/made)
 
-[^key-f34dd1a903649bbff683e193de8a398f]: Textual amendment: Words in reg. 3A(1)(a) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(4)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/4/a), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+[^c-f34dd1a903649bbff683e193de8a398f]: Textual amendment: Words in reg. 3A(1)(a) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(4)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/4/a), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
 
-[^key-4b86c2864b80644b559d8351c83f3440]: Textual amendment: Reg. 3A(3) inserted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(4)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/4/b), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+[^c-4b86c2864b80644b559d8351c83f3440]: Textual amendment: Reg. 3A(3) inserted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(4)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/4/b), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
 
-[^key-b62d57edf54de264b37801eaa8d3b10a]: Textual amendment: [Reg. 3B](https://www.legislation.gov.uk/uksi/2006/207/regulation/3B) inserted (retrospective to 9.3.2017) by [The Pension Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2018 (S.I. 2018/373)](https://www.legislation.gov.uk/uksi/2018/373), [regs. 1](https://www.legislation.gov.uk/uksi/2018/373/regulation/1), [2](https://www.legislation.gov.uk/uksi/2018/373/regulation/2), [6](https://www.legislation.gov.uk/uksi/2018/373/regulation/6)
+[^c-b62d57edf54de264b37801eaa8d3b10a]: Textual amendment: [Reg. 3B](https://www.legislation.gov.uk/uksi/2006/207/regulation/3B) inserted (retrospective to 9.3.2017) by [The Pension Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2018 (S.I. 2018/373)](https://www.legislation.gov.uk/uksi/2018/373), [regs. 1](https://www.legislation.gov.uk/uksi/2018/373/regulation/1), [2](https://www.legislation.gov.uk/uksi/2018/373/regulation/2), [6](https://www.legislation.gov.uk/uksi/2018/373/regulation/6)
 
-[^key-55f72bb784911956d7339a3410e87e87]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2006/207/regulation/4) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
+[^c-55f72bb784911956d7339a3410e87e87]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2006/207/regulation/4) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
 
-[^key-62d02957acb87b7c9d28f5ecd83d6f39]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/4/1) inserted (retrospective to 9.3.2017) by [The Pension Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2018 (S.I. 2018/373)](https://www.legislation.gov.uk/uksi/2018/373), [regs. 1](https://www.legislation.gov.uk/uksi/2018/373/regulation/1), [2](https://www.legislation.gov.uk/uksi/2018/373/regulation/2), [7(a)](https://www.legislation.gov.uk/uksi/2018/373/regulation/7/a)
+[^c-62d02957acb87b7c9d28f5ecd83d6f39]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/4/1) inserted (retrospective to 9.3.2017) by [The Pension Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2018 (S.I. 2018/373)](https://www.legislation.gov.uk/uksi/2018/373), [regs. 1](https://www.legislation.gov.uk/uksi/2018/373/regulation/1), [2](https://www.legislation.gov.uk/uksi/2018/373/regulation/2), [7(a)](https://www.legislation.gov.uk/uksi/2018/373/regulation/7/a)
 
-[^key-3f238f440e44094ef12b259a36ea6666]: Textual amendment: Words in [Reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2006/207/regulation/4) inserted (retrospective to 6.4.2006) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes)(Amendment) Regulations 2006 (S.I. 2006/1960)](https://www.legislation.gov.uk/uksi/2006/1960/contents/made), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1960/regulation/1/made), [6](https://www.legislation.gov.uk/uksi/2006/1960/regulation/6/made)
+[^c-3f238f440e44094ef12b259a36ea6666]: Textual amendment: Words in [Reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2006/207/regulation/4) inserted (retrospective to 6.4.2006) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes)(Amendment) Regulations 2006 (S.I. 2006/1960)](https://www.legislation.gov.uk/uksi/2006/1960/contents/made), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1960/regulation/1/made), [6](https://www.legislation.gov.uk/uksi/2006/1960/regulation/6/made)
 
 [^M_F_2288226e-41ee-4180-eb31-c8dd27a1f971]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2006/207/regulation/4/1) substituted (retrospective to 6.4.2006) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2006 (S.I. 2006/1960)](https://www.legislation.gov.uk/uksi/2006/1960), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1960/regulation/1), [7](https://www.legislation.gov.uk/uksi/2006/1960/regulation/7)
 
-[^key-59ff431bf41231bf6935ffccab2996fa]: Textual amendment: [Reg. 4(3A)](https://www.legislation.gov.uk/uksi/2006/207/regulation/4/3A)[(3B)](https://www.legislation.gov.uk/uksi/2006/207/regulation/4/3B) inserted (retrospective to 9.3.2017) by [The Pension Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2018 (S.I. 2018/373)](https://www.legislation.gov.uk/uksi/2018/373), [regs. 1](https://www.legislation.gov.uk/uksi/2018/373/regulation/1), [2](https://www.legislation.gov.uk/uksi/2018/373/regulation/2), [7(b)](https://www.legislation.gov.uk/uksi/2018/373/regulation/7/b)
+[^c-59ff431bf41231bf6935ffccab2996fa]: Textual amendment: [Reg. 4(3A)](https://www.legislation.gov.uk/uksi/2006/207/regulation/4/3A)[(3B)](https://www.legislation.gov.uk/uksi/2006/207/regulation/4/3B) inserted (retrospective to 9.3.2017) by [The Pension Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2018 (S.I. 2018/373)](https://www.legislation.gov.uk/uksi/2018/373), [regs. 1](https://www.legislation.gov.uk/uksi/2018/373/regulation/1), [2](https://www.legislation.gov.uk/uksi/2018/373/regulation/2), [7(b)](https://www.legislation.gov.uk/uksi/2018/373/regulation/7/b)
 
 [^M_F_55ebabba-98db-4438-d6e3-507521e0d989]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/uksi/2006/207/regulation/4) inserted (retrospective to 6.4.2006) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2006 (S.I. 2006/1960)](https://www.legislation.gov.uk/uksi/2006/1960), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1960/regulation/1), [8](https://www.legislation.gov.uk/uksi/2006/1960/regulation/8)
 
-[^key-538c0d6694a489a40a8c0c58546fb2b8]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/uksi/2006/207/regulation/4/4) substituted (retrospective to 9.3.2017) by [The Pension Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2018 (S.I. 2018/373)](https://www.legislation.gov.uk/uksi/2018/373), [regs. 1](https://www.legislation.gov.uk/uksi/2018/373/regulation/1), [2](https://www.legislation.gov.uk/uksi/2018/373/regulation/2), [7(c)](https://www.legislation.gov.uk/uksi/2018/373/regulation/7/c)
+[^c-538c0d6694a489a40a8c0c58546fb2b8]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/uksi/2006/207/regulation/4/4) substituted (retrospective to 9.3.2017) by [The Pension Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2018 (S.I. 2018/373)](https://www.legislation.gov.uk/uksi/2018/373), [regs. 1](https://www.legislation.gov.uk/uksi/2018/373/regulation/1), [2](https://www.legislation.gov.uk/uksi/2018/373/regulation/2), [7(c)](https://www.legislation.gov.uk/uksi/2018/373/regulation/7/c)
 
-[^key-8965ea426b5b7fcd9cddcef5629e2693]: Textual amendment: [Regs. 4ZA-4ZF](https://www.legislation.gov.uk/uksi/2006/207/regulation/4ZA) inserted (retrospective to 6.4.2017) by [The Pension Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2018 (S.I. 2018/373)](https://www.legislation.gov.uk/uksi/2018/373), [regs. 1](https://www.legislation.gov.uk/uksi/2018/373/regulation/1), [3](https://www.legislation.gov.uk/uksi/2018/373/regulation/3), [8](https://www.legislation.gov.uk/uksi/2018/373/regulation/8)
+[^c-8965ea426b5b7fcd9cddcef5629e2693]: Textual amendment: [Regs. 4ZA-4ZF](https://www.legislation.gov.uk/uksi/2006/207/regulation/4ZA) inserted (retrospective to 6.4.2017) by [The Pension Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2018 (S.I. 2018/373)](https://www.legislation.gov.uk/uksi/2018/373), [regs. 1](https://www.legislation.gov.uk/uksi/2018/373/regulation/1), [3](https://www.legislation.gov.uk/uksi/2018/373/regulation/3), [8](https://www.legislation.gov.uk/uksi/2018/373/regulation/8)
 
-[^key-52629a0034aa63965487f374767e429f]: Textual amendment: Words in [reg. 4ZB(9)](https://www.legislation.gov.uk/uksi/2006/207/regulation/4ZB/9) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(5)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/5), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+[^c-52629a0034aa63965487f374767e429f]: Textual amendment: Words in [reg. 4ZB(9)](https://www.legislation.gov.uk/uksi/2006/207/regulation/4ZB/9) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(5)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/5), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
 
-[^key-7c320de21dcbcfb089c7c2ebbf44fe5f]: Textual amendment: Regs. 4A-4D inserted (retrospective to 6.4.2006) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes)(Amendment) Regulations 2006 (S.I. 2006/1960)](https://www.legislation.gov.uk/uksi/2006/1960/contents/made), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1960/regulation/1/made), [9](https://www.legislation.gov.uk/uksi/2006/1960/regulation/9/made)
+[^c-7c320de21dcbcfb089c7c2ebbf44fe5f]: Textual amendment: Regs. 4A-4D inserted (retrospective to 6.4.2006) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes)(Amendment) Regulations 2006 (S.I. 2006/1960)](https://www.legislation.gov.uk/uksi/2006/1960/contents/made), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1960/regulation/1/made), [9](https://www.legislation.gov.uk/uksi/2006/1960/regulation/9/made)
 
-[^key-e06475e70c9363a9bdf519f4b627b7f6]: Textual amendment: Words in [reg. 4A](https://www.legislation.gov.uk/uksi/2006/207/regulation/4A) title inserted (retrospective to 9.3.2017) by [The Pension Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2018 (S.I. 2018/373)](https://www.legislation.gov.uk/uksi/2018/373), [regs. 1](https://www.legislation.gov.uk/uksi/2018/373/regulation/1), [2](https://www.legislation.gov.uk/uksi/2018/373/regulation/2), [9(a)](https://www.legislation.gov.uk/uksi/2018/373/regulation/9/a)
+[^c-e06475e70c9363a9bdf519f4b627b7f6]: Textual amendment: Words in [reg. 4A](https://www.legislation.gov.uk/uksi/2006/207/regulation/4A) title inserted (retrospective to 9.3.2017) by [The Pension Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2018 (S.I. 2018/373)](https://www.legislation.gov.uk/uksi/2018/373), [regs. 1](https://www.legislation.gov.uk/uksi/2018/373/regulation/1), [2](https://www.legislation.gov.uk/uksi/2018/373/regulation/2), [9(a)](https://www.legislation.gov.uk/uksi/2018/373/regulation/9/a)
 
-[^key-33827b1ad598fcf855ec84208d6f3c97]: Textual amendment: Words in [reg. 4A](https://www.legislation.gov.uk/uksi/2006/207/regulation/4A) inserted (retrospective to 9.3.2017) by [The Pension Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2018 (S.I. 2018/373)](https://www.legislation.gov.uk/uksi/2018/373), [regs. 1](https://www.legislation.gov.uk/uksi/2018/373/regulation/1), [2](https://www.legislation.gov.uk/uksi/2018/373/regulation/2), [9(b)](https://www.legislation.gov.uk/uksi/2018/373/regulation/9/b)
+[^c-33827b1ad598fcf855ec84208d6f3c97]: Textual amendment: Words in [reg. 4A](https://www.legislation.gov.uk/uksi/2006/207/regulation/4A) inserted (retrospective to 9.3.2017) by [The Pension Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2018 (S.I. 2018/373)](https://www.legislation.gov.uk/uksi/2018/373), [regs. 1](https://www.legislation.gov.uk/uksi/2018/373/regulation/1), [2](https://www.legislation.gov.uk/uksi/2018/373/regulation/2), [9(b)](https://www.legislation.gov.uk/uksi/2018/373/regulation/9/b)
 
-[^key-20e8074854caa8af67aab17c3a9569ee]: Textual amendment: Words in [reg. 4B(2)](https://www.legislation.gov.uk/uksi/2006/207/regulation/4B/2) inserted (retrospective to 9.3.2017) by [The Pension Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2018 (S.I. 2018/373)](https://www.legislation.gov.uk/uksi/2018/373), [regs. 1](https://www.legislation.gov.uk/uksi/2018/373/regulation/1), [2](https://www.legislation.gov.uk/uksi/2018/373/regulation/2), [10](https://www.legislation.gov.uk/uksi/2018/373/regulation/10)
+[^c-20e8074854caa8af67aab17c3a9569ee]: Textual amendment: Words in [reg. 4B(2)](https://www.legislation.gov.uk/uksi/2006/207/regulation/4B/2) inserted (retrospective to 9.3.2017) by [The Pension Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2018 (S.I. 2018/373)](https://www.legislation.gov.uk/uksi/2018/373), [regs. 1](https://www.legislation.gov.uk/uksi/2018/373/regulation/1), [2](https://www.legislation.gov.uk/uksi/2018/373/regulation/2), [10](https://www.legislation.gov.uk/uksi/2018/373/regulation/10)
 
-[^key-17f308aadcfc425a1d2e1565e348de63]: Textual amendment: Words in [reg. 4B(3)](https://www.legislation.gov.uk/uksi/2006/207/regulation/4B/3) inserted (retrospective to 9.3.2017) by [The Pension Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2018 (S.I. 2018/373)](https://www.legislation.gov.uk/uksi/2018/373), [regs. 1](https://www.legislation.gov.uk/uksi/2018/373/regulation/1), [2](https://www.legislation.gov.uk/uksi/2018/373/regulation/2), [10](https://www.legislation.gov.uk/uksi/2018/373/regulation/10)
+[^c-17f308aadcfc425a1d2e1565e348de63]: Textual amendment: Words in [reg. 4B(3)](https://www.legislation.gov.uk/uksi/2006/207/regulation/4B/3) inserted (retrospective to 9.3.2017) by [The Pension Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2018 (S.I. 2018/373)](https://www.legislation.gov.uk/uksi/2018/373), [regs. 1](https://www.legislation.gov.uk/uksi/2018/373/regulation/1), [2](https://www.legislation.gov.uk/uksi/2018/373/regulation/2), [10](https://www.legislation.gov.uk/uksi/2018/373/regulation/10)
 
-[^key-8773a78fd17c7296ebbf11faf26b1ae6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2006/207/regulation/5) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
+[^c-8773a78fd17c7296ebbf11faf26b1ae6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2006/207/regulation/5) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
 
-[^key-426117c2b43bc4bc7e6fb399983422f1]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2006/207/regulation/5) substituted (with effect in accordance with Sch. 1 para. 96(16)(a) of the amending Act) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 96(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/96/2) (with [Sch. 1 para. 96(16)(b)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/96/16/b))
+[^c-426117c2b43bc4bc7e6fb399983422f1]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2006/207/regulation/5) substituted (with effect in accordance with Sch. 1 para. 96(16)(a) of the amending Act) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 96(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/96/2) (with [Sch. 1 para. 96(16)(b)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/96/16/b))
 
-[^key-fe2221b6f0258aa095f560b96056d3c9]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2006/207/regulation/6) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2012 (S.I. 2012/1795)](https://www.legislation.gov.uk/uksi/2012/1795), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1795/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2012/1795/regulation/3)
+[^c-fe2221b6f0258aa095f560b96056d3c9]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2006/207/regulation/6) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2012 (S.I. 2012/1795)](https://www.legislation.gov.uk/uksi/2012/1795), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1795/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2012/1795/regulation/3)
 
-[^key-6ef6c391fcf51ddf6dd3106ac6255adf]: Textual amendment: [Reg. 6(b)](https://www.legislation.gov.uk/uksi/2006/207/regulation/6/b) and word omitted (6.4.2015) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 33(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/4)
+[^c-6ef6c391fcf51ddf6dd3106ac6255adf]: Textual amendment: [Reg. 6(b)](https://www.legislation.gov.uk/uksi/2006/207/regulation/6/b) and word omitted (6.4.2015) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 33(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/4)
 
-[^key-6a79c085694f3daebfe40015ebcd63b8]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2006/207/regulation/7) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2012 (S.I. 2012/1795)](https://www.legislation.gov.uk/uksi/2012/1795), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1795/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2012/1795/regulation/4)
+[^c-6a79c085694f3daebfe40015ebcd63b8]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2006/207/regulation/7) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2012 (S.I. 2012/1795)](https://www.legislation.gov.uk/uksi/2012/1795), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1795/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2012/1795/regulation/4)
 
-[^key-eb055a40e4d15e0af4559eb7b6568d98]: Textual amendment: [Reg. 7(b)](https://www.legislation.gov.uk/uksi/2006/207/regulation/7/b) and word omitted (6.4.2015) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 33(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/4)
+[^c-eb055a40e4d15e0af4559eb7b6568d98]: Textual amendment: [Reg. 7(b)](https://www.legislation.gov.uk/uksi/2006/207/regulation/7/b) and word omitted (6.4.2015) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 33(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/4)
 
-[^key-00cbb723694f0c3a83cb6f06c050ecd7]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2006/207/regulation/8) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Registered Pension Schemes (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/1751)](https://www.legislation.gov.uk/uksi/2011/1751), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/12/2)
+[^c-00cbb723694f0c3a83cb6f06c050ecd7]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2006/207/regulation/8) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Registered Pension Schemes (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/1751)](https://www.legislation.gov.uk/uksi/2011/1751), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/12/2)
 
-[^key-3b85fe1d6e29b0dfe9f255ce9f3f0e32]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2006/207/regulation/9) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
+[^c-3b85fe1d6e29b0dfe9f255ce9f3f0e32]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2006/207/regulation/9) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
 
-[^key-658976a115d13870ced0a40734aa15bf]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2006/207/regulation/9) substituted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Registered Pension Schemes (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/1751)](https://www.legislation.gov.uk/uksi/2011/1751), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1), [12(3)(a)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/12/3/a)
+[^c-658976a115d13870ced0a40734aa15bf]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2006/207/regulation/9) substituted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Registered Pension Schemes (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/1751)](https://www.legislation.gov.uk/uksi/2011/1751), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1), [12(3)(a)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/12/3/a)
 
-[^key-aaa6b1ab161450f65b2fe0d566c2edc9]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2006/207/regulation/9) substituted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Registered Pension Schemes (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/1751)](https://www.legislation.gov.uk/uksi/2011/1751), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1), [12(3)(b)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/12/3/b)
+[^c-aaa6b1ab161450f65b2fe0d566c2edc9]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2006/207/regulation/9) substituted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Registered Pension Schemes (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/1751)](https://www.legislation.gov.uk/uksi/2011/1751), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1), [12(3)(b)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/12/3/b)
 
-[^key-eda6927245a0cc36a963d275b65367d9]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2006/207/regulation/10) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
+[^c-eda6927245a0cc36a963d275b65367d9]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2006/207/regulation/10) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
 
-[^key-7b8631d371571d05b55ce738c879b879]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2006/207/regulation/10) substituted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Registered Pension Schemes (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/1751)](https://www.legislation.gov.uk/uksi/2011/1751), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1), [12(4)(a)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/12/4/a)
+[^c-7b8631d371571d05b55ce738c879b879]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2006/207/regulation/10) substituted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Registered Pension Schemes (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/1751)](https://www.legislation.gov.uk/uksi/2011/1751), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1), [12(4)(a)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/12/4/a)
 
-[^key-99521ce665734481303d72be49d640e2]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2006/207/regulation/10) substituted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Registered Pension Schemes (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/1751)](https://www.legislation.gov.uk/uksi/2011/1751), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1), [12(4)(b)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/12/4/b)
+[^c-99521ce665734481303d72be49d640e2]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2006/207/regulation/10) substituted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Registered Pension Schemes (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/1751)](https://www.legislation.gov.uk/uksi/2011/1751), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1), [12(4)(b)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/12/4/b)
 
-[^key-a9a02fb7c4aec7f059d7dcd9810cee53]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2006/207/regulation/11) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
+[^c-a9a02fb7c4aec7f059d7dcd9810cee53]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2006/207/regulation/11) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
 
-[^key-8e57b74da2a9620ccf0126f5f152a987]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2006/207/regulation/12) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
+[^c-8e57b74da2a9620ccf0126f5f152a987]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2006/207/regulation/12) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
 
-[^key-e1a53c68a72a785086f514132efb9cbd]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2006/207/regulation/13) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
+[^c-e1a53c68a72a785086f514132efb9cbd]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2006/207/regulation/13) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
 
-[^key-064b49e8e3a7aaaf747a499b25db9ef8]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2006/207/regulation/13/2) substituted for word (22.2.2007) by [The Tax and Civil Partnership Regulations 2007 (S.I. 2007/493)](https://www.legislation.gov.uk/uksi/2007/493), [regs. 1](https://www.legislation.gov.uk/uksi/2007/493/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2007/493/regulation/3/2/a)
+[^c-064b49e8e3a7aaaf747a499b25db9ef8]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2006/207/regulation/13/2) substituted for word (22.2.2007) by [The Tax and Civil Partnership Regulations 2007 (S.I. 2007/493)](https://www.legislation.gov.uk/uksi/2007/493), [regs. 1](https://www.legislation.gov.uk/uksi/2007/493/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2007/493/regulation/3/2/a)
 
 [^f00002]: Footnote: *See*, in relation to overseas schemes recognised for the purposes of Part 4, the Pension Schemes (Categories of Country and Requirements for Overseas Pension Schemes and Recognised Overseas Pension Schemes) Regulations 2004.
 
-[^key-b8abff74f9f6b6f1da9a6d46a69a1dbf]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2006/207/regulation/13/2) added (22.2.2007) by [The Tax and Civil Partnership Regulations 2007 (S.I. 2007/493)](https://www.legislation.gov.uk/uksi/2007/493), [regs. 1](https://www.legislation.gov.uk/uksi/2007/493/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2007/493/regulation/3/2/b)
+[^c-b8abff74f9f6b6f1da9a6d46a69a1dbf]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2006/207/regulation/13/2) added (22.2.2007) by [The Tax and Civil Partnership Regulations 2007 (S.I. 2007/493)](https://www.legislation.gov.uk/uksi/2007/493), [regs. 1](https://www.legislation.gov.uk/uksi/2007/493/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2007/493/regulation/3/2/b)
 
-[^key-cea9e55318bf1e1c071d0a6f63637248]: Textual amendment: Words in [reg. 13(3)(a)](https://www.legislation.gov.uk/uksi/2006/207/regulation/13/3/a) substituted for word (22.2.2007) by [The Tax and Civil Partnership Regulations 2007 (S.I. 2007/493)](https://www.legislation.gov.uk/uksi/2007/493), [regs. 1](https://www.legislation.gov.uk/uksi/2007/493/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2007/493/regulation/3/3)
+[^c-cea9e55318bf1e1c071d0a6f63637248]: Textual amendment: Words in [reg. 13(3)(a)](https://www.legislation.gov.uk/uksi/2006/207/regulation/13/3/a) substituted for word (22.2.2007) by [The Tax and Civil Partnership Regulations 2007 (S.I. 2007/493)](https://www.legislation.gov.uk/uksi/2007/493), [regs. 1](https://www.legislation.gov.uk/uksi/2007/493/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2007/493/regulation/3/3)
 
-[^key-43abcdc582024f86c5584e296e9091d0]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/uksi/2006/207/regulation/13/4) substituted for word (22.2.2007) by [The Tax and Civil Partnership Regulations 2007 (S.I. 2007/493)](https://www.legislation.gov.uk/uksi/2007/493), [regs. 1](https://www.legislation.gov.uk/uksi/2007/493/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2007/493/regulation/3/4/a)
+[^c-43abcdc582024f86c5584e296e9091d0]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/uksi/2006/207/regulation/13/4) substituted for word (22.2.2007) by [The Tax and Civil Partnership Regulations 2007 (S.I. 2007/493)](https://www.legislation.gov.uk/uksi/2007/493), [regs. 1](https://www.legislation.gov.uk/uksi/2007/493/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2007/493/regulation/3/4/a)
 
-[^key-1582475d27b889bfa217c340e94996e5]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/uksi/2006/207/regulation/13/4) inserted (22.2.2007) by [The Tax and Civil Partnership Regulations 2007 (S.I. 2007/493)](https://www.legislation.gov.uk/uksi/2007/493), [regs. 1](https://www.legislation.gov.uk/uksi/2007/493/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2007/493/regulation/3/4/b)
+[^c-1582475d27b889bfa217c340e94996e5]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/uksi/2006/207/regulation/13/4) inserted (22.2.2007) by [The Tax and Civil Partnership Regulations 2007 (S.I. 2007/493)](https://www.legislation.gov.uk/uksi/2007/493), [regs. 1](https://www.legislation.gov.uk/uksi/2007/493/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2007/493/regulation/3/4/b)
 
-[^key-9e4c181933e5c0c0b6678f1489e68b0d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2006/207/regulation/14) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
+[^c-9e4c181933e5c0c0b6678f1489e68b0d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2006/207/regulation/14) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
 
-[^key-5efbe24f9d7d6992b47b4eb214fbb7b7]: Textual amendment: [Reg. 14(3)(ba)](https://www.legislation.gov.uk/uksi/2006/207/regulation/14/3/ba) inserted (6.4.2015) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 33(3)(a)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/3/a), [(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/4) (with [Sch. 1 para. 33(5)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/5))
+[^c-5efbe24f9d7d6992b47b4eb214fbb7b7]: Textual amendment: [Reg. 14(3)(ba)](https://www.legislation.gov.uk/uksi/2006/207/regulation/14/3/ba) inserted (6.4.2015) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 33(3)(a)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/3/a), [(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/4) (with [Sch. 1 para. 33(5)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/5))
 
-[^key-16aa92b541513e53e0ab3188a2003373]: Textual amendment: [Reg. 14(3)(c)](https://www.legislation.gov.uk/uksi/2006/207/regulation/14/3/c) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2012 (S.I. 2012/1795)](https://www.legislation.gov.uk/uksi/2012/1795), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1795/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2012/1795/regulation/5/2)
+[^c-16aa92b541513e53e0ab3188a2003373]: Textual amendment: [Reg. 14(3)(c)](https://www.legislation.gov.uk/uksi/2006/207/regulation/14/3/c) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2012 (S.I. 2012/1795)](https://www.legislation.gov.uk/uksi/2012/1795), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1795/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2012/1795/regulation/5/2)
 
-[^key-dd043a87fc776d2ca249ced4b5f7b178]: Textual amendment: [Reg. 14(3)(ca)](https://www.legislation.gov.uk/uksi/2006/207/regulation/14/3/ca)[(cb)](https://www.legislation.gov.uk/uksi/2006/207/regulation/14/3/cb) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2012 (S.I. 2012/1795)](https://www.legislation.gov.uk/uksi/2012/1795), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1795/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2012/1795/regulation/5/3)
+[^c-dd043a87fc776d2ca249ced4b5f7b178]: Textual amendment: [Reg. 14(3)(ca)](https://www.legislation.gov.uk/uksi/2006/207/regulation/14/3/ca)[(cb)](https://www.legislation.gov.uk/uksi/2006/207/regulation/14/3/cb) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2012 (S.I. 2012/1795)](https://www.legislation.gov.uk/uksi/2012/1795), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1795/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2012/1795/regulation/5/3)
 
-[^key-1d9e9221d3f01f18818b8fdb829f69e9]: Textual amendment: [Reg. 14(3)(da)](https://www.legislation.gov.uk/uksi/2006/207/regulation/14/3/da) omitted (6.4.2015) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 33(3)(b)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/3/b), [(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/4)
+[^c-1d9e9221d3f01f18818b8fdb829f69e9]: Textual amendment: [Reg. 14(3)(da)](https://www.legislation.gov.uk/uksi/2006/207/regulation/14/3/da) omitted (6.4.2015) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 33(3)(b)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/3/b), [(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/4)
 
-[^key-c36e357139b4241c612308bfa966419b]: Textual amendment: [Reg. 14(3)(ea)](https://www.legislation.gov.uk/uksi/2006/207/regulation/14/3/ea) inserted (6.4.2015) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 33(3)(c)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/3/c), [(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/4) (with [Sch. 1 para. 33(5)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/5))
+[^c-c36e357139b4241c612308bfa966419b]: Textual amendment: [Reg. 14(3)(ea)](https://www.legislation.gov.uk/uksi/2006/207/regulation/14/3/ea) inserted (6.4.2015) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 33(3)(c)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/3/c), [(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/4) (with [Sch. 1 para. 33(5)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/5))
 
-[^key-76ac1439cae6a39431b775505563ff7d]: Textual amendment: [Reg. 14(3)(f)](https://www.legislation.gov.uk/uksi/2006/207/regulation/14/3/f) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2012 (S.I. 2012/1795)](https://www.legislation.gov.uk/uksi/2012/1795), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1795/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2012/1795/regulation/5/5)
+[^c-76ac1439cae6a39431b775505563ff7d]: Textual amendment: [Reg. 14(3)(f)](https://www.legislation.gov.uk/uksi/2006/207/regulation/14/3/f) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2012 (S.I. 2012/1795)](https://www.legislation.gov.uk/uksi/2012/1795), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1795/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2012/1795/regulation/5/5)
 
-[^key-6f4f75b2f6c72053e3151511bf8031d7]: Textual amendment: [Reg. 14(3)(fa)-(fc)](https://www.legislation.gov.uk/uksi/2006/207/regulation/14/3/fa) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2012 (S.I. 2012/1795)](https://www.legislation.gov.uk/uksi/2012/1795), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1795/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2012/1795/regulation/5/6)
+[^c-6f4f75b2f6c72053e3151511bf8031d7]: Textual amendment: [Reg. 14(3)(fa)-(fc)](https://www.legislation.gov.uk/uksi/2006/207/regulation/14/3/fa) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2012 (S.I. 2012/1795)](https://www.legislation.gov.uk/uksi/2012/1795), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1795/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2012/1795/regulation/5/6)
 
-[^key-d2cb84bfe31cd1c430cf453069ac1107]: Textual amendment: [Reg. 14(3)(fc)](https://www.legislation.gov.uk/uksi/2006/207/regulation/14/3/fc) omitted (6.4.2015) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 33(3)(d)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/3/d), [(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/4)
+[^c-d2cb84bfe31cd1c430cf453069ac1107]: Textual amendment: [Reg. 14(3)(fc)](https://www.legislation.gov.uk/uksi/2006/207/regulation/14/3/fc) omitted (6.4.2015) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 33(3)(d)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/3/d), [(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/4)
 
-[^key-11ffec1dbbef10c9e4556f56e9448930]: Commencement: Reg. 15 in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
+[^c-11ffec1dbbef10c9e4556f56e9448930]: Commencement: Reg. 15 in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
 
-[^key-c6259f83772bfbe62352c1eb92497e92]: Textual amendment: Reg. 15(1A)-(1C) inserted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(6)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/6/a), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+[^c-c6259f83772bfbe62352c1eb92497e92]: Textual amendment: Reg. 15(1A)-(1C) inserted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(6)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/6/a), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
 
-[^key-a7f6181744c0cef2e278e4f36f8533f3]: Textual amendment: Words in [reg. 15(1A)(a)](https://www.legislation.gov.uk/uksi/2006/207/regulation/15/1A/a) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [22(2)(a)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/22/2/a)
+[^c-a7f6181744c0cef2e278e4f36f8533f3]: Textual amendment: Words in [reg. 15(1A)(a)](https://www.legislation.gov.uk/uksi/2006/207/regulation/15/1A/a) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [22(2)(a)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/22/2/a)
 
-[^key-17f00ddfdf91439f880dd5a2a47e3db0]: Textual amendment: Word in [reg. 15(1A)(b)](https://www.legislation.gov.uk/uksi/2006/207/regulation/15/1A/b) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [22(2)(b)(i)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/22/2/b/i)
+[^c-17f00ddfdf91439f880dd5a2a47e3db0]: Textual amendment: Word in [reg. 15(1A)(b)](https://www.legislation.gov.uk/uksi/2006/207/regulation/15/1A/b) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [22(2)(b)(i)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/22/2/b/i)
 
-[^key-d298376135617d255c26bb115c1974bf]: Textual amendment: Words in [reg. 15(1A)(b)](https://www.legislation.gov.uk/uksi/2006/207/regulation/15/1A/b) renumbered (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [22(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/22/2/b/ii)
+[^c-d298376135617d255c26bb115c1974bf]: Textual amendment: Words in [reg. 15(1A)(b)](https://www.legislation.gov.uk/uksi/2006/207/regulation/15/1A/b) renumbered (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [22(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/22/2/b/ii)
 
-[^key-d0ea40b9909f76ac78664865c4af7d2b]: Textual amendment: Reg. 15(2)-(10) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(6)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/6/b), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+[^c-d0ea40b9909f76ac78664865c4af7d2b]: Textual amendment: Reg. 15(2)-(10) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(6)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/6/b), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
 
-[^key-509e535eba092a1033bc561ab5fe281e]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2006/207/regulation/16) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
+[^c-509e535eba092a1033bc561ab5fe281e]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2006/207/regulation/16) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
 
-[^key-5aa125880ca3708f0b5f318081a29233]: Commencement: Reg. 17 in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
+[^c-5aa125880ca3708f0b5f318081a29233]: Commencement: Reg. 17 in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
 
-[^key-a812785a311cef8b56f016d5046c88d7]: Textual amendment: Word in reg. 17 inserted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(7)(a)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/7/a/i), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+[^c-a812785a311cef8b56f016d5046c88d7]: Textual amendment: Word in reg. 17 inserted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(7)(a)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/7/a/i), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
 
-[^key-e43de81519ba59beba100db9cd38a193]: Textual amendment: Words in reg. 17 omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(7)(a)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/7/a/ii), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+[^c-e43de81519ba59beba100db9cd38a193]: Textual amendment: Words in reg. 17 omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(7)(a)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/7/a/ii), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
 
-[^key-f16188c07870527349a609ffadd21bfc]: Textual amendment: Words in reg. 17 substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(7)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/7/b), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+[^c-f16188c07870527349a609ffadd21bfc]: Textual amendment: Words in reg. 17 substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(7)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/7/b), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
 
-[^key-63e629dbc25798f78dcbde2ae70c0c74]: Textual amendment: Word in reg. 17 substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(7)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/7/c), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+[^c-63e629dbc25798f78dcbde2ae70c0c74]: Textual amendment: Word in reg. 17 substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(7)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/7/c), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
 
-[^key-a69256e2a4ef89370d2c62b0d47c3648]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2006/207/part/4) inserted (with effect in accordance with Sch. 1 para. 96(16)(a) of the amending Act) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 96(15)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/96/15) (with [Sch. 1 para. 96(16)(b)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/96/16/b))
+[^c-a69256e2a4ef89370d2c62b0d47c3648]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2006/207/part/4) inserted (with effect in accordance with Sch. 1 para. 96(16)(a) of the amending Act) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 96(15)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/96/15) (with [Sch. 1 para. 96(16)(b)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/96/16/b))
 
-[^key-e8f4bad6a3768c1fef0b4b437e558f87]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2006/207/regulation/18) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(8)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/8), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+[^c-e8f4bad6a3768c1fef0b4b437e558f87]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2006/207/regulation/18) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(8)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/8), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))

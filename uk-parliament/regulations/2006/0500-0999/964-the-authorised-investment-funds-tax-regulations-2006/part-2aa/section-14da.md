@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14DA. Tax treatment of long-term asset funds[^key-0f1c10a04226240dbd515a7ae36b1f13]
+## 14DA. Tax treatment of long-term asset funds[^c-0f1c10a04226240dbd515a7ae36b1f13]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f1c10a04226240dbd515a7ae36b1f13]: Textual amendment: [Pt. 2AA](https://www.legislation.gov.uk/uksi/2006/964/part/2AA) inserted (9.12.2021) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2021 (S.I. 2021/1270)](https://www.legislation.gov.uk/uksi/2021/1270), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1270/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2021/1270/regulation/3/2)
+[^c-0f1c10a04226240dbd515a7ae36b1f13]: Textual amendment: [Pt. 2AA](https://www.legislation.gov.uk/uksi/2006/964/part/2AA) inserted (9.12.2021) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2021 (S.I. 2021/1270)](https://www.legislation.gov.uk/uksi/2021/1270), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1270/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2021/1270/regulation/3/2)

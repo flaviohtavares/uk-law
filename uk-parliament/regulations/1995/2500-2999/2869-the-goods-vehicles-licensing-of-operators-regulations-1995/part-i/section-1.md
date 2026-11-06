@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Commencement and citation[^key-f5eb3f9923df5368f49841e41d934470]
+## 1. Commencement and citation[^c-f5eb3f9923df5368f49841e41d934470]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Goods Vehicles (Licensing of Operators) Re
 
 ## Annotations
 
-[^key-f5eb3f9923df5368f49841e41d934470]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1) in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-f5eb3f9923df5368f49841e41d934470]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1) in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)

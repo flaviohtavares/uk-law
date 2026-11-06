@@ -58,7 +58,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-1a450e2b1211b7ec23d76a05dd918a57][^key-1a450e2b1211b7ec23d76a05dd918a57]
+### 1. Citation and commencement[^c-1a450e2b1211b7ec23d76a05dd918a57][^c-1a450e2b1211b7ec23d76a05dd918a57]
 
 (1) These Regulations may be cited as the Animals, Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020.
 
@@ -70,7 +70,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 ## PART 2 — Amendment of secondary legislation in exercise of powers under section 2(2) of the European Communities Act 1972
 
-### 2. Amendment of the Official Feed and Food Controls (Scotland) Regulations 2009[^key-f4286a6a230378962e670df9bc5fee28][^key-f4286a6a230378962e670df9bc5fee28]
+### 2. Amendment of the Official Feed and Food Controls (Scotland) Regulations 2009[^c-f4286a6a230378962e670df9bc5fee28][^c-f4286a6a230378962e670df9bc5fee28]
 
 (1) The Official Feed and Food Controls (Scotland) Regulations 2009[^f00005] are amended as follows.
 
@@ -82,7 +82,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 .
 
-### 3. Amendment of the Trade in Animals and Related Products (Scotland) Regulations 2012[^key-30ce67acd811ad63e25d34cd2aae5f32][^key-30ce67acd811ad63e25d34cd2aae5f32]
+### 3. Amendment of the Trade in Animals and Related Products (Scotland) Regulations 2012[^c-30ce67acd811ad63e25d34cd2aae5f32][^c-30ce67acd811ad63e25d34cd2aae5f32]
 
 (1) The Trade in Animals and Related Products (Scotland) Regulations 2012[^f00007] are amended as follows.
 
@@ -94,7 +94,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 .
 
-### 4. Amendment of the Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2020[^key-39c3a1793c6081b4734e82a912a7a357][^key-39c3a1793c6081b4734e82a912a7a357]
+### 4. Amendment of the Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2020[^c-39c3a1793c6081b4734e82a912a7a357][^c-39c3a1793c6081b4734e82a912a7a357]
 
 (1) The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2020[^f00008] are amended as follows.
 
@@ -121,7 +121,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 ## PART 3 — Amendment of EU exit secondary legislation
 
-### 5. Amendment of the Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020[^key-39635f98276376ab15f2d17b9be2ac2f]
+### 5. Amendment of the Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020[^c-39635f98276376ab15f2d17b9be2ac2f]
 
 (1) The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020[^f00017] are amended as follows.
 
@@ -150,7 +150,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 ## PART 4 — Amendment of retained direct EU legislation
 
-### 6. Amendment of Commission [Decision 2000/572/EC](https://www.legislation.gov.uk/european/decision/2000/0572) laying down the animal and public health and veterinary certification conditions for imports of meat preparations into the Community from third countries[^key-2a219482adccec1a469b82db4d5062b7]
+### 6. Amendment of Commission [Decision 2000/572/EC](https://www.legislation.gov.uk/european/decision/2000/0572) laying down the animal and public health and veterinary certification conditions for imports of meat preparations into the Community from third countries[^c-2a219482adccec1a469b82db4d5062b7]
 
 (1) Commission [Decision 2000/572/EC](https://www.legislation.gov.uk/european/decision/2000/0572)[^f00018] laying down the animal and public health and veterinary certification conditions for imports of meat preparations into the Community from third countries is amended as follows.
 
@@ -158,7 +158,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 (3) In Article 3, in the words before point 1, after “meat preparations” insert “from a third country”.
 
-(4)[^key-f2d58655f7a125b28578139df85ba96e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f2d58655f7a125b28578139df85ba96e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 MAIRI GOUGEON
 
@@ -194,19 +194,19 @@ A Business and Regulatory Impact Assessment has not been produced for this instr
 
 [^f00004]: Footnote: OJ L 31, 1.2.2002, p.1, to which there are no relevant amendments to Article 9.
 
-[^key-1a450e2b1211b7ec23d76a05dd918a57]: Commencement: Reg. 1 in force at 29.12.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/455/regulation/1/2)
+[^c-1a450e2b1211b7ec23d76a05dd918a57]: Commencement: Reg. 1 in force at 29.12.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/455/regulation/1/2)
 
-[^key-f4286a6a230378962e670df9bc5fee28]: Commencement: Reg. 2 in force at 29.12.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/455/regulation/1/2)
+[^c-f4286a6a230378962e670df9bc5fee28]: Commencement: Reg. 2 in force at 29.12.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/455/regulation/1/2)
 
 [^f00005]: Footnote: [S.S.I. 2009/446](https://www.legislation.gov.uk/ssi/2009/446).
 
 [^f00006]: Footnote: OJ L 95, 7.4.2017, p.1.
 
-[^key-30ce67acd811ad63e25d34cd2aae5f32]: Commencement: Reg. 3 in force at 29.12.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/455/regulation/1/2)
+[^c-30ce67acd811ad63e25d34cd2aae5f32]: Commencement: Reg. 3 in force at 29.12.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/455/regulation/1/2)
 
 [^f00007]: Footnote: [S.S.I. 2012/177](https://www.legislation.gov.uk/ssi/2012/177).
 
-[^key-39c3a1793c6081b4734e82a912a7a357]: Commencement: Reg. 4 in force at 29.12.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/455/regulation/1/2)
+[^c-39c3a1793c6081b4734e82a912a7a357]: Commencement: Reg. 4 in force at 29.12.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/455/regulation/1/2)
 
 [^f00008]: Footnote: [S.S.I. 2020/398](https://www.legislation.gov.uk/ssi/2020/398).
 
@@ -226,14 +226,14 @@ A Business and Regulatory Impact Assessment has not been produced for this instr
 
 [^f00016]: Footnote: OJ L 321, 12.12.2019, p.104.
 
-[^key-39635f98276376ab15f2d17b9be2ac2f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2020/455/regulation/5) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/455/regulation/1/3)
+[^c-39635f98276376ab15f2d17b9be2ac2f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2020/455/regulation/5) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/455/regulation/1/3)
 
 [^f00017]: Footnote: [S.S.I. 2020/372](https://www.legislation.gov.uk/ssi/2020/372).
 
-[^key-2a219482adccec1a469b82db4d5062b7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2020/455/regulation/6) in force at 31.12.2020, see [reg. 1(4)](https://www.legislation.gov.uk/ssi/2020/455/regulation/1/4)
+[^c-2a219482adccec1a469b82db4d5062b7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2020/455/regulation/6) in force at 31.12.2020, see [reg. 1(4)](https://www.legislation.gov.uk/ssi/2020/455/regulation/1/4)
 
 [^f00018]: Footnote: EUDN 2000/572, as amended by [S.I. 2020/1462](https://www.legislation.gov.uk/uksi/2020/1462).
 
 [^f00019]: Footnote: [S.I. 2020/1462](https://www.legislation.gov.uk/uksi/2020/1462).
 
-[^key-f2d58655f7a125b28578139df85ba96e]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/ssi/2020/455/regulation/6/4) revoked (30.4.2024) by [The Meat Preparations (Import Conditions) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/81)](https://www.legislation.gov.uk/ssi/2024/81), [regs. 1](https://www.legislation.gov.uk/ssi/2024/81/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2024/81/regulation/3/a)
+[^c-f2d58655f7a125b28578139df85ba96e]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/ssi/2020/455/regulation/6/4) revoked (30.4.2024) by [The Meat Preparations (Import Conditions) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/81)](https://www.legislation.gov.uk/ssi/2024/81), [regs. 1](https://www.legislation.gov.uk/ssi/2024/81/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2024/81/regulation/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Class D: persons who are not pensioners whose income is greater than the applicable amount[^key-598a75e3a2cad8bcfb5ac16fb9d88ebf]
+## 25. Class D: persons who are not pensioners whose income is greater than the applicable amount[^c-598a75e3a2cad8bcfb5ac16fb9d88ebf]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ On any day class D consists of any person who is not a pensioner—
 
 ## Annotations
 
-[^key-598a75e3a2cad8bcfb5ac16fb9d88ebf]: Commencement: Reg. 25 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-598a75e3a2cad8bcfb5ac16fb9d88ebf]: Commencement: Reg. 25 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)

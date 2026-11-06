@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION, ENGLAND
 
-The Education (National Curriculum) (Foundation Stage Profile Assessment Arrangements) (England) Order 2003 (revoked)[^key-bd14df23e1de69ecbca8b7abccc52732]
+The Education (National Curriculum) (Foundation Stage Profile Assessment Arrangements) (England) Order 2003 (revoked)[^c-bd14df23e1de69ecbca8b7abccc52732]
 
 Made
 
@@ -41,76 +41,76 @@ Coming into force
 
 1st June 2003
 
-[^key-bd14df23e1de69ecbca8b7abccc52732]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bd14df23e1de69ecbca8b7abccc52732]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-bd14df23e1de69ecbca8b7abccc52732]
+## 1. Citation, commencement and application[^c-bd14df23e1de69ecbca8b7abccc52732]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-bd14df23e1de69ecbca8b7abccc52732]
+## 2. Interpretation[^c-bd14df23e1de69ecbca8b7abccc52732]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Timing of assessment[^key-bd14df23e1de69ecbca8b7abccc52732]
+## 3. Timing of assessment[^c-bd14df23e1de69ecbca8b7abccc52732]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Practitioner assessment[^key-bd14df23e1de69ecbca8b7abccc52732]
+## 4. Practitioner assessment[^c-bd14df23e1de69ecbca8b7abccc52732]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Monitoring of assessment arrangements[^key-bd14df23e1de69ecbca8b7abccc52732]
+## 5. Monitoring of assessment arrangements[^c-bd14df23e1de69ecbca8b7abccc52732]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Provision of information to parents[^key-bd14df23e1de69ecbca8b7abccc52732]
+## 6. Provision of information to parents[^c-bd14df23e1de69ecbca8b7abccc52732]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Provision of information to the local education authority and to a child’s new school[^key-bd14df23e1de69ecbca8b7abccc52732]
+## 7. Provision of information to the local education authority and to a child’s new school[^c-bd14df23e1de69ecbca8b7abccc52732]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Provision of information by the local education authority to the Secretary of State[^key-bd14df23e1de69ecbca8b7abccc52732]
+## 8. Provision of information by the local education authority to the Secretary of State[^c-bd14df23e1de69ecbca8b7abccc52732]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bd14df23e1de69ecbca8b7abccc52732]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bd14df23e1de69ecbca8b7abccc52732]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## THE SCHEDULE[^key-bd14df23e1de69ecbca8b7abccc52732]
+## THE SCHEDULE[^c-bd14df23e1de69ecbca8b7abccc52732]
 
 Articles 6, 7 and 8
 
-### PART 1 — INFORMATION TO BE PROVIDED TO PARENTS[^key-bd14df23e1de69ecbca8b7abccc52732]
+### PART 1 — INFORMATION TO BE PROVIDED TO PARENTS[^c-bd14df23e1de69ecbca8b7abccc52732]
 
-**1.**[^key-bd14df23e1de69ecbca8b7abccc52732] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-bd14df23e1de69ecbca8b7abccc52732] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-bd14df23e1de69ecbca8b7abccc52732] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-bd14df23e1de69ecbca8b7abccc52732] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — NOTIFICATIONS TO BE GIVEN TO THE RELEVANT LOCAL EDUCATION AUTHORITY AND TO A CHILD'S NEW SCHOOL[^key-bd14df23e1de69ecbca8b7abccc52732]
+### PART 2 — NOTIFICATIONS TO BE GIVEN TO THE RELEVANT LOCAL EDUCATION AUTHORITY AND TO A CHILD'S NEW SCHOOL[^c-bd14df23e1de69ecbca8b7abccc52732]
 
-**3.**[^key-bd14df23e1de69ecbca8b7abccc52732] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-bd14df23e1de69ecbca8b7abccc52732] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-bd14df23e1de69ecbca8b7abccc52732] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-bd14df23e1de69ecbca8b7abccc52732] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-bd14df23e1de69ecbca8b7abccc52732] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-bd14df23e1de69ecbca8b7abccc52732] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-bd14df23e1de69ecbca8b7abccc52732] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-bd14df23e1de69ecbca8b7abccc52732] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — NOTIFICATIONS TO BE GIVEN TO THE SECRETARY OF STATE BY RELEVANT LOCAL EDUCATION AUTHORITIES[^key-bd14df23e1de69ecbca8b7abccc52732]
+### PART 3 — NOTIFICATIONS TO BE GIVEN TO THE SECRETARY OF STATE BY RELEVANT LOCAL EDUCATION AUTHORITIES[^c-bd14df23e1de69ecbca8b7abccc52732]
 
-**7.**[^key-bd14df23e1de69ecbca8b7abccc52732] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-bd14df23e1de69ecbca8b7abccc52732] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-bd14df23e1de69ecbca8b7abccc52732] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-bd14df23e1de69ecbca8b7abccc52732] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-bd14df23e1de69ecbca8b7abccc52732]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bd14df23e1de69ecbca8b7abccc52732]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bd14df23e1de69ecbca8b7abccc52732]: Textual amendment: Order lapsed by virtue of repeal of power conferring provision [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32), [s. 87(2)](https://www.legislation.gov.uk/ukpga/2002/32/section/87/2) (1.9.2008) by [Childcare Act 2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21), [s. 109(2)](https://www.legislation.gov.uk/ukpga/2006/21/section/109/2), [Sch. 1 para. 10(3)](https://www.legislation.gov.uk/ukpga/2006/21/schedule/1/paragraph/10/3), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/21/schedule/3/part/1); [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1))
+[^c-bd14df23e1de69ecbca8b7abccc52732]: Textual amendment: Order lapsed by virtue of repeal of power conferring provision [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32), [s. 87(2)](https://www.legislation.gov.uk/ukpga/2002/32/section/87/2) (1.9.2008) by [Childcare Act 2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21), [s. 109(2)](https://www.legislation.gov.uk/ukpga/2006/21/section/109/2), [Sch. 1 para. 10(3)](https://www.legislation.gov.uk/ukpga/2006/21/schedule/1/paragraph/10/3), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/21/schedule/3/part/1); [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1))

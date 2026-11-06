@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 473A. Connected policies or contracts treated as single policy or contract[^key-b903c30a9dd1a2f784792b8463b17113]
+## 473A. Connected policies or contracts treated as single policy or contract[^c-b903c30a9dd1a2f784792b8463b17113]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ A and the other policies or contracts are (as a result of this subsection) to be
 
 ## Annotations
 
-[^key-b903c30a9dd1a2f784792b8463b17113]: Textual amendment: S. 473A inserted (with effect in accordance with s. 11(4)-(6) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 11(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/11/1)
+[^c-b903c30a9dd1a2f784792b8463b17113]: Textual amendment: S. 473A inserted (with effect in accordance with s. 11(4)-(6) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 11(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/11/1)

@@ -32,7 +32,7 @@ summary: ''
 
 Registers And Records
 
-The Fees in the Registers of Scotland Amendment Order 2010 (revoked)[^key-6cb073f8433eeea72a2e8b2c06773e5c]
+The Fees in the Registers of Scotland Amendment Order 2010 (revoked)[^c-6cb073f8433eeea72a2e8b2c06773e5c]
 
 Made
 
@@ -42,120 +42,120 @@ Coming into force
 
 10th January 2011
 
-[^key-6cb073f8433eeea72a2e8b2c06773e5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6cb073f8433eeea72a2e8b2c06773e5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6cb073f8433eeea72a2e8b2c06773e5c]
+## 1. Citation and commencement[^c-6cb073f8433eeea72a2e8b2c06773e5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Fees in the Register of Scotland Order 1995[^key-6cb073f8433eeea72a2e8b2c06773e5c]
+## 2. Amendment of the Fees in the Register of Scotland Order 1995[^c-6cb073f8433eeea72a2e8b2c06773e5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6cb073f8433eeea72a2e8b2c06773e5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6cb073f8433eeea72a2e8b2c06773e5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — REPLACEMENT SCHEDULE TO THE FEES IN THE REGISTERS OF SCOTLAND ORDER 1995[^key-6cb073f8433eeea72a2e8b2c06773e5c]
+## SCHEDULE — REPLACEMENT SCHEDULE TO THE FEES IN THE REGISTERS OF SCOTLAND ORDER 1995[^c-6cb073f8433eeea72a2e8b2c06773e5c]
 
 Article 2
 
-> **SCHEDULE — TABLE OF FEES IN THE REGISTERS OF SCOTLAND[^key-6cb073f8433eeea72a2e8b2c06773e5c]**
+> **SCHEDULE — TABLE OF FEES IN THE REGISTERS OF SCOTLAND[^c-6cb073f8433eeea72a2e8b2c06773e5c]**
 >
 > Article 3
 >
-> **PART I — LAND REGISTER OF SCOTLAND[^key-6cb073f8433eeea72a2e8b2c06773e5c]**
+> **PART I — LAND REGISTER OF SCOTLAND[^c-6cb073f8433eeea72a2e8b2c06773e5c]**
 >
-> **1.**[^key-6cb073f8433eeea72a2e8b2c06773e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-6cb073f8433eeea72a2e8b2c06773e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-6cb073f8433eeea72a2e8b2c06773e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-6cb073f8433eeea72a2e8b2c06773e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-6cb073f8433eeea72a2e8b2c06773e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-6cb073f8433eeea72a2e8b2c06773e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART II — REGISTER OF SASINES RECORDING FEES[^key-6cb073f8433eeea72a2e8b2c06773e5c]**
->
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **PART III — FEES FOR REGISTRATIONS AND RECORDINGS IN THE LAND REGISTER OF SCOTLAND AND THE REGISTER OF SASINES[^key-6cb073f8433eeea72a2e8b2c06773e5c]**
+> **PART II — REGISTER OF SASINES RECORDING FEES[^c-6cb073f8433eeea72a2e8b2c06773e5c]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART IV — TABLES OF FEES[^key-6cb073f8433eeea72a2e8b2c06773e5c]**
->
-> **TABLE A[^key-6cb073f8433eeea72a2e8b2c06773e5c]**
+> **PART III — FEES FOR REGISTRATIONS AND RECORDINGS IN THE LAND REGISTER OF SCOTLAND AND THE REGISTER OF SASINES[^c-6cb073f8433eeea72a2e8b2c06773e5c]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **TABLE B (ARTL System applications)[^key-6cb073f8433eeea72a2e8b2c06773e5c]**
+> **PART IV — TABLES OF FEES[^c-6cb073f8433eeea72a2e8b2c06773e5c]**
+>
+> **TABLE A[^c-6cb073f8433eeea72a2e8b2c06773e5c]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART V — REGISTER OF INHIBITIONS AND ADJUDICATIONS[^key-6cb073f8433eeea72a2e8b2c06773e5c]**
->
-> **REGISTRATION FEES[^key-6cb073f8433eeea72a2e8b2c06773e5c]**
+> **TABLE B (ARTL System applications)[^c-6cb073f8433eeea72a2e8b2c06773e5c]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART VI — REGISTER OF DEEDS ETC., REGISTER OF PROTESTS AND REGISTER OF JUDGMENTS[^key-6cb073f8433eeea72a2e8b2c06773e5c]**
+> **PART V — REGISTER OF INHIBITIONS AND ADJUDICATIONS[^c-6cb073f8433eeea72a2e8b2c06773e5c]**
 >
-> **REGISTRATION FEES[^key-6cb073f8433eeea72a2e8b2c06773e5c]**
->
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **PART VII — REGISTER OF THE GREAT SEAL[^key-6cb073f8433eeea72a2e8b2c06773e5c]**
->
-> **REGISTRATION FEES[^key-6cb073f8433eeea72a2e8b2c06773e5c]**
+> **REGISTRATION FEES[^c-6cb073f8433eeea72a2e8b2c06773e5c]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART VIII — REGISTER OF THE CACHET SEAL[^key-6cb073f8433eeea72a2e8b2c06773e5c]**
+> **PART VI — REGISTER OF DEEDS ETC., REGISTER OF PROTESTS AND REGISTER OF JUDGMENTS[^c-6cb073f8433eeea72a2e8b2c06773e5c]**
+>
+> **REGISTRATION FEES[^c-6cb073f8433eeea72a2e8b2c06773e5c]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART IX — REGISTER OF THE QUARTER SEAL[^key-6cb073f8433eeea72a2e8b2c06773e5c]**
+> **PART VII — REGISTER OF THE GREAT SEAL[^c-6cb073f8433eeea72a2e8b2c06773e5c]**
 >
-> **REGISTRATION FEES[^key-6cb073f8433eeea72a2e8b2c06773e5c]**
->
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **PART X — OTHER FEES[^key-6cb073f8433eeea72a2e8b2c06773e5c]**
+> **REGISTRATION FEES[^c-6cb073f8433eeea72a2e8b2c06773e5c]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART XI — FEES APPLICABLE TO ALL REGISTERS[^key-6cb073f8433eeea72a2e8b2c06773e5c]**
->
-> **1.**[^key-6cb073f8433eeea72a2e8b2c06773e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **1.**[^key-6cb073f8433eeea72a2e8b2c06773e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **2.**[^key-6cb073f8433eeea72a2e8b2c06773e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **3.**[^key-6cb073f8433eeea72a2e8b2c06773e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **1.**[^key-6cb073f8433eeea72a2e8b2c06773e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **2.**[^key-6cb073f8433eeea72a2e8b2c06773e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **3.**[^key-6cb073f8433eeea72a2e8b2c06773e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **2.**[^key-6cb073f8433eeea72a2e8b2c06773e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **3.**[^key-6cb073f8433eeea72a2e8b2c06773e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **Breakdown of data extraction costs by registration county[^key-6cb073f8433eeea72a2e8b2c06773e5c]**
+> **PART VIII — REGISTER OF THE CACHET SEAL[^c-6cb073f8433eeea72a2e8b2c06773e5c]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **REPORTS[^key-6cb073f8433eeea72a2e8b2c06773e5c]**
+> **PART IX — REGISTER OF THE QUARTER SEAL[^c-6cb073f8433eeea72a2e8b2c06773e5c]**
+>
+> **REGISTRATION FEES[^c-6cb073f8433eeea72a2e8b2c06773e5c]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **PART X — OTHER FEES[^c-6cb073f8433eeea72a2e8b2c06773e5c]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **PART XI — FEES APPLICABLE TO ALL REGISTERS[^c-6cb073f8433eeea72a2e8b2c06773e5c]**
+>
+> **1.**[^c-6cb073f8433eeea72a2e8b2c06773e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **1.**[^c-6cb073f8433eeea72a2e8b2c06773e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **2.**[^c-6cb073f8433eeea72a2e8b2c06773e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **3.**[^c-6cb073f8433eeea72a2e8b2c06773e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **1.**[^c-6cb073f8433eeea72a2e8b2c06773e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **2.**[^c-6cb073f8433eeea72a2e8b2c06773e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **3.**[^c-6cb073f8433eeea72a2e8b2c06773e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **2.**[^c-6cb073f8433eeea72a2e8b2c06773e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **3.**[^c-6cb073f8433eeea72a2e8b2c06773e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **Breakdown of data extraction costs by registration county[^c-6cb073f8433eeea72a2e8b2c06773e5c]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **REPORTS[^c-6cb073f8433eeea72a2e8b2c06773e5c]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6cb073f8433eeea72a2e8b2c06773e5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6cb073f8433eeea72a2e8b2c06773e5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6cb073f8433eeea72a2e8b2c06773e5c]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2010/404) revoked (8.12.2014) by [The Registers of Scotland (Fees) Order 2014 (S.S.I. 2014/188)](https://www.legislation.gov.uk/ssi/2014/188), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/188/article/1/2), [5](https://www.legislation.gov.uk/ssi/2014/188/article/5), [sch. 2](https://www.legislation.gov.uk/ssi/2014/188/schedule/2)
+[^c-6cb073f8433eeea72a2e8b2c06773e5c]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2010/404) revoked (8.12.2014) by [The Registers of Scotland (Fees) Order 2014 (S.S.I. 2014/188)](https://www.legislation.gov.uk/ssi/2014/188), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/188/article/1/2), [5](https://www.legislation.gov.uk/ssi/2014/188/article/5), [sch. 2](https://www.legislation.gov.uk/ssi/2014/188/schedule/2)

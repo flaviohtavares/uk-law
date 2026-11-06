@@ -33,7 +33,7 @@ An Act to consolidate the Charities Act 1993 and other enactments which relate t
 
 \[14th December 2011\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-2928553be75e421c240eeea7987b20e6][^key-bfbf09be4e12f433fe1cc23afed85d5e]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-2928553be75e421c240eeea7987b20e6][^c-bfbf09be4e12f433fe1cc23afed85d5e]
 
 ## Contents
 
@@ -141,7 +141,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 40 — Power to alter sum specified in s.39(1)](part-4/section-40.md)
 - [Section 41 — Offences](part-4/section-41.md)
 
-#### Names and working names[^key-5ddc8abb22357d38bf91cba3c2ec7f85]
+#### Names and working names[^c-5ddc8abb22357d38bf91cba3c2ec7f85]
 
 - [Section 42 — Power to require name or working name to be changed](part-4/section-42.md)
 - [Section 43 — Duty of charity trustees on receiving direction under s.42](part-4/section-43.md)
@@ -213,7 +213,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 74 — Restriction on expenditure on promoting Bills](part-6/section-74.md)
 - [Section 75 — Further powers to alter application of charitable property](part-6/section-75.md)
 
-#### Power of the court and the Commission to make schemes[^key-0dc01b9891fb1bcb224636ce294a4b0f]
+#### Power of the court and the Commission to make schemes[^c-0dc01b9891fb1bcb224636ce294a4b0f]
 
 - [Section 75ZA — Power of the court and the Commission to make schemes](part-6/section-75za.md)
 
@@ -274,7 +274,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 103 — Further provisions relating to common deposit schemes and funds](part-6/section-103.md)
 - [Section 104 — Meaning of “Scottish recognised body” and “Northern Ireland charity”](part-6/section-104.md)
 
-#### Total return investment[^key-21b85094e8cb0e6e2a5c7c1314b7a90b]
+#### Total return investment[^c-21b85094e8cb0e6e2a5c7c1314b7a90b]
 
 - [Section 104A — Investment of endowment fund on total return basis](part-6/section-104a.md)
 - [Section 104AA — Total return investment: social investments](part-6/section-104aa.md)
@@ -342,7 +342,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 127 — Release of charity rentcharges](part-7/section-127.md)
 - [Section 128 — Power to alter sum specified in s.127(2)](part-7/section-128.md)
 
-#### Advice etc from charity trustees, officers and employees[^key-53d849d37b8641673b3177f338f1a6b3]
+#### Advice etc from charity trustees, officers and employees[^c-53d849d37b8641673b3177f338f1a6b3]
 
 - [Section 128A — Advice etc from charity trustees, officers and employees](part-7/section-128a.md)
 
@@ -350,7 +350,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 129 — Interpretation](part-7/section-129.md)
 
-### Part 8 — Charity accounts, reports and returns[^key-6553ff08ab87f2955001587dcdc80a8d]
+### Part 8 — Charity accounts, reports and returns[^c-6553ff08ab87f2955001587dcdc80a8d]
 
 *Extent: E+W*
 
@@ -470,7 +470,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 184 — Civil consequences of acting while disqualified](part-9/section-184.md)
 - [Section 184A — Sections 183 and 184: participation in corporate decisions](part-9/section-184a.md)
 
-#### Invalid appointment of charity trustee[^key-33b6a61bf611ad9dedad286159c5e46d]
+#### Invalid appointment of charity trustee[^c-33b6a61bf611ad9dedad286159c5e46d]
 
 - [Section 184B — Power to confirm trustee appointments etc](part-9/section-184b.md)
 
@@ -642,7 +642,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 265 — Meaning of “incorporated body” and “relevant charity”](part-12/section-265.md)
 - [Section 266 — Effect of provisions relating to vesting or transfer of property](part-12/section-266.md)
 
-### Part 13 — Powers to amend trusts and use capital[^key-474eb353efce1e36a34904801d2d49b4]
+### Part 13 — Powers to amend trusts and use capital[^c-474eb353efce1e36a34904801d2d49b4]
 
 *Extent: E+W*
 
@@ -666,23 +666,23 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 279 — Replacement of purposes in accordance with s.275](part-13/section-279.md)
 - [Section 280 — Power to modify powers or procedures of unincorporated charity](part-13/section-280.md)
 
-#### Unincorporated charity’s general power to amend[^key-8d5128527baf9f9f2ebd5639d42af403]
+#### Unincorporated charity’s general power to amend[^c-8d5128527baf9f9f2ebd5639d42af403]
 
 - [Section 280A — Amendment of the trusts of an unincorporated charity](part-13/section-280a.md)
 - [Section 280B — S. 280A: supplementary provision](part-13/section-280b.md)
 
-#### Charity established etc by Royal charter: general power to amend[^key-e2145f8f55028513eba2e25e7db915cb]
+#### Charity established etc by Royal charter: general power to amend[^c-e2145f8f55028513eba2e25e7db915cb]
 
 - [Section 280C — Power to amend Royal charter](part-13/section-280c.md)
 
-#### Powers of ... charities to spend capital[^key-2590de452932c3fdfe45cbfd8aa993a7]
+#### Powers of ... charities to spend capital[^c-2590de452932c3fdfe45cbfd8aa993a7]
 
 - [Section 281 — Power of ... charities to spend capital: general](part-13/section-281.md)
 - [Section 282 — Resolution to spend larger fund ...](part-13/section-282.md)
 - [Section 283 — Notice of, and information about, s.282 resolution](part-13/section-283.md)
 - [Section 284 — When and how s.282 resolution takes effect](part-13/section-284.md)
 
-#### Power to borrow from permanent endowment[^key-9eb9be259e9953b2b724d25fca1cee2a]
+#### Power to borrow from permanent endowment[^c-9eb9be259e9953b2b724d25fca1cee2a]
 
 - [Section 284A — Power to borrow from permanent endowment: general](part-13/section-284a.md)
 - [Section 284B — Calculation of the “permitted amount”](part-13/section-284b.md)
@@ -694,7 +694,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 285 — Power to alter sums etc specified in this Part](part-13/section-285.md)
 - [Section 286 — Effect of provisions relating to vesting or transfer of property](part-13/section-286.md)
 
-### Part 14 — Special trusts[^key-7a9b63e30d99ce5aab10aec74201d366]
+### Part 14 — Special trusts[^c-7a9b63e30d99ce5aab10aec74201d366]
 
 *Extent: E+W*
 
@@ -707,7 +707,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 291 — When and how s.289 resolution takes effect](part-14/section-291.md)
 - [Section 292 — Power to alter sum specified in s.289](part-14/section-292.md)
 
-### PART 14A — SOCIAL INVESTMENTS[^key-0491c66dccba46479a332dfbead7bc05]
+### PART 14A — SOCIAL INVESTMENTS[^c-0491c66dccba46479a332dfbead7bc05]
 
 - [Section 292A — Meaning of “social investment”](part-14a/section-292a.md)
 - [Section 292B — General power to make social investments](part-14a/section-292b.md)
@@ -772,7 +772,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 317 — Appeal from Tribunal](part-17/section-317.md)
 - [Section 318 — Intervention by Attorney General](part-17/section-318.md)
 
-#### CHAPTER 2 — Appeals and applications to Tribunal[^key-ec7017ec5b41903c8aa49b132cde8370][^key-854bf1a323c284dea8c2fbc04df8c806][^key-b7ca669f26890df3864bd59f8864236f]
+#### CHAPTER 2 — Appeals and applications to Tribunal[^c-ec7017ec5b41903c8aa49b132cde8370][^c-854bf1a323c284dea8c2fbc04df8c806][^c-b7ca669f26890df3864bd59f8864236f]
 
 - [Section 319 — Appeals: general](part-17/section-319.md)
 - [Section 320 — Appeals: orders under s.52](part-17/section-320.md)
@@ -796,7 +796,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 *Extent: E+W*
 
-#### Limited power to make ex gratia payments[^key-7bf507ca6cef725c401c11d008dae025]
+#### Limited power to make ex gratia payments[^c-7bf507ca6cef725c401c11d008dae025]
 
 - [Section 331A — Limited power for charity trustees to make ex gratia payments etc](part-18/section-331a.md)
 - [Section 331B — Power to alter sums specified in s.331A](part-18/section-331b.md)
@@ -807,7 +807,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 333 — Conferral of authority to execute documents](part-18/section-333.md)
 - [Section 334 — Transfer and evidence of title to property vested in trustees](part-18/section-334.md)
 
-#### Trustee of charitable trust: status as trust corporation[^key-9515f8824ca9243255b8e33fd986329a]
+#### Trustee of charitable trust: status as trust corporation[^c-9515f8824ca9243255b8e33fd986329a]
 
 - [Section 334A — Status of certain trustees of charitable trusts](part-18/section-334a.md)
 
@@ -872,42 +872,42 @@ SCHEDULES
 
 ## Annotations
 
-[^key-2928553be75e421c240eeea7987b20e6]: Modification: Act: functions transferred (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 10(2)(g)](https://www.legislation.gov.uk/uksi/2016/997/article/10/2/g) (with [arts. 10(3)](https://www.legislation.gov.uk/uksi/2016/997/article/10/3), [11](https://www.legislation.gov.uk/uksi/2016/997/article/11), [12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-2928553be75e421c240eeea7987b20e6]: Modification: Act: functions transferred (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 10(2)(g)](https://www.legislation.gov.uk/uksi/2016/997/article/10/2/g) (with [arts. 10(3)](https://www.legislation.gov.uk/uksi/2016/997/article/10/3), [11](https://www.legislation.gov.uk/uksi/2016/997/article/11), [12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-bfbf09be4e12f433fe1cc23afed85d5e]: Modification: Act applied (N.I.) (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [ss. 48(1)(a)](https://www.legislation.gov.uk/ukpga/2018/5/section/48/1/a), [70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 86](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/86) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-bfbf09be4e12f433fe1cc23afed85d5e]: Modification: Act applied (N.I.) (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [ss. 48(1)(a)](https://www.legislation.gov.uk/ukpga/2018/5/section/48/1/a), [70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 86](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/86) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-5ddc8abb22357d38bf91cba3c2ec7f85]: Textual amendment: [S. 42 cross-heading](https://www.legislation.gov.uk/ukpga/2011/25/part/5/crossheading/inquiries-instituted-by-commission) substituted (14.6.2023) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 2 para. 31](https://www.legislation.gov.uk/ukpga/2022/6/schedule/2/paragraph/31); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 20(n)](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/20/n)
+[^c-5ddc8abb22357d38bf91cba3c2ec7f85]: Textual amendment: [S. 42 cross-heading](https://www.legislation.gov.uk/ukpga/2011/25/part/5/crossheading/inquiries-instituted-by-commission) substituted (14.6.2023) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 2 para. 31](https://www.legislation.gov.uk/ukpga/2022/6/schedule/2/paragraph/31); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 20(n)](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/20/n)
 
-[^key-0dc01b9891fb1bcb224636ce294a4b0f]: Textual amendment: [S. 75ZA](https://www.legislation.gov.uk/ukpga/2011/25/section/75ZA) and cross-heading inserted (31.10.2022) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 8](https://www.legislation.gov.uk/ukpga/2022/6/section/8), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/5)
+[^c-0dc01b9891fb1bcb224636ce294a4b0f]: Textual amendment: [S. 75ZA](https://www.legislation.gov.uk/ukpga/2011/25/section/75ZA) and cross-heading inserted (31.10.2022) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 8](https://www.legislation.gov.uk/ukpga/2022/6/section/8), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/5)
 
-[^key-21b85094e8cb0e6e2a5c7c1314b7a90b]: Textual amendment: [Ss. 104A](https://www.legislation.gov.uk/ukpga/2011/25/section/104A), [104B](https://www.legislation.gov.uk/ukpga/2011/25/section/104B) inserted (6.4.2013 for specified purposes, 1.1.2014 in so far as not already in force) by [Trusts (Capital and Income) Act 2013 (c. 1)](https://www.legislation.gov.uk/ukpga/2013/1), [ss. 4](https://www.legislation.gov.uk/ukpga/2013/1/section/4), [5(3)](https://www.legislation.gov.uk/ukpga/2013/1/section/5/3); [S.I. 2013/676](https://www.legislation.gov.uk/uksi/2013/676), [art. 3](https://www.legislation.gov.uk/uksi/2013/676/article/3); [S.I. 2013/2461](https://www.legislation.gov.uk/uksi/2013/2461), [art. 2](https://www.legislation.gov.uk/uksi/2013/2461/article/2)
+[^c-21b85094e8cb0e6e2a5c7c1314b7a90b]: Textual amendment: [Ss. 104A](https://www.legislation.gov.uk/ukpga/2011/25/section/104A), [104B](https://www.legislation.gov.uk/ukpga/2011/25/section/104B) inserted (6.4.2013 for specified purposes, 1.1.2014 in so far as not already in force) by [Trusts (Capital and Income) Act 2013 (c. 1)](https://www.legislation.gov.uk/ukpga/2013/1), [ss. 4](https://www.legislation.gov.uk/ukpga/2013/1/section/4), [5(3)](https://www.legislation.gov.uk/ukpga/2013/1/section/5/3); [S.I. 2013/676](https://www.legislation.gov.uk/uksi/2013/676), [art. 3](https://www.legislation.gov.uk/uksi/2013/676/article/3); [S.I. 2013/2461](https://www.legislation.gov.uk/uksi/2013/2461), [art. 2](https://www.legislation.gov.uk/uksi/2013/2461/article/2)
 
-[^key-53d849d37b8641673b3177f338f1a6b3]: Textual amendment: [S. 128A](https://www.legislation.gov.uk/ukpga/2011/25/section/128A) and cross-heading inserted (14.6.2023) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 21(2)](https://www.legislation.gov.uk/ukpga/2022/6/section/21/2), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/10)
+[^c-53d849d37b8641673b3177f338f1a6b3]: Textual amendment: [S. 128A](https://www.legislation.gov.uk/ukpga/2011/25/section/128A) and cross-heading inserted (14.6.2023) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 21(2)](https://www.legislation.gov.uk/ukpga/2022/6/section/21/2), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/10)
 
-[^key-6553ff08ab87f2955001587dcdc80a8d]: Modification: Pt. 8 applied (with modifications) (2.1.2013) by [The Charitable Incorporated Organisations (Insolvency and Dissolution) Regulations 2012 (S.I. 2012/3013)](https://www.legislation.gov.uk/uksi/2012/3013), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3013/regulation/1), [41](https://www.legislation.gov.uk/uksi/2012/3013/regulation/41)
+[^c-6553ff08ab87f2955001587dcdc80a8d]: Modification: Pt. 8 applied (with modifications) (2.1.2013) by [The Charitable Incorporated Organisations (Insolvency and Dissolution) Regulations 2012 (S.I. 2012/3013)](https://www.legislation.gov.uk/uksi/2012/3013), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3013/regulation/1), [41](https://www.legislation.gov.uk/uksi/2012/3013/regulation/41)
 
-[^key-33b6a61bf611ad9dedad286159c5e46d]: Textual amendment: S. 184B and cross-heading inserted (7.3.2024) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 29](https://www.legislation.gov.uk/ukpga/2022/6/section/29), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/6)
+[^c-33b6a61bf611ad9dedad286159c5e46d]: Textual amendment: S. 184B and cross-heading inserted (7.3.2024) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 29](https://www.legislation.gov.uk/ukpga/2022/6/section/29), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/6)
 
-[^key-474eb353efce1e36a34904801d2d49b4]: Textual amendment: Pt. 13 heading substituted (14.6.2023) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2022/6/schedule/2/paragraph/19); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 20(e)](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/20/e)
+[^c-474eb353efce1e36a34904801d2d49b4]: Textual amendment: Pt. 13 heading substituted (14.6.2023) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2022/6/schedule/2/paragraph/19); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 20(e)](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/20/e)
 
-[^key-8d5128527baf9f9f2ebd5639d42af403]: Textual amendment: Ss. 280A, 280B and cross-heading inserted (7.3.2024) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2022/6/section/3/2), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4) (with [s. 3(3)](https://www.legislation.gov.uk/ukpga/2022/6/section/3/3)); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2024/265/regulation/8))
+[^c-8d5128527baf9f9f2ebd5639d42af403]: Textual amendment: Ss. 280A, 280B and cross-heading inserted (7.3.2024) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2022/6/section/3/2), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4) (with [s. 3(3)](https://www.legislation.gov.uk/ukpga/2022/6/section/3/3)); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2024/265/regulation/8))
 
-[^key-e2145f8f55028513eba2e25e7db915cb]: Textual amendment: S. 280C and cross-heading inserted (31.10.2022) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 4](https://www.legislation.gov.uk/ukpga/2022/6/section/4), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/1)
+[^c-e2145f8f55028513eba2e25e7db915cb]: Textual amendment: S. 280C and cross-heading inserted (31.10.2022) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 4](https://www.legislation.gov.uk/ukpga/2022/6/section/4), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/1)
 
-[^key-2590de452932c3fdfe45cbfd8aa993a7]: Textual amendment: Word in s. 281 cross-heading omitted (14.6.2023) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/ukpga/2022/6/schedule/2/paragraph/16/2); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 20(b)](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/20/b)
+[^c-2590de452932c3fdfe45cbfd8aa993a7]: Textual amendment: Word in s. 281 cross-heading omitted (14.6.2023) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/ukpga/2022/6/schedule/2/paragraph/16/2); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 20(b)](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/20/b)
 
-[^key-9eb9be259e9953b2b724d25fca1cee2a]: Textual amendment: [Ss. 284A-284D](https://www.legislation.gov.uk/ukpga/2011/25/section/284A) and cross-heading inserted (14.6.2023) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2022/6/section/12/2), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/4)
+[^c-9eb9be259e9953b2b724d25fca1cee2a]: Textual amendment: [Ss. 284A-284D](https://www.legislation.gov.uk/ukpga/2011/25/section/284A) and cross-heading inserted (14.6.2023) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2022/6/section/12/2), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/4)
 
-[^key-7a9b63e30d99ce5aab10aec74201d366]: Textual amendment: [Pt. 14](https://www.legislation.gov.uk/ukpga/2011/25/part/14) omitted (14.6.2023) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 14(1)](https://www.legislation.gov.uk/ukpga/2022/6/section/14/1), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/6) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/643/regulation/5))
+[^c-7a9b63e30d99ce5aab10aec74201d366]: Textual amendment: [Pt. 14](https://www.legislation.gov.uk/ukpga/2011/25/part/14) omitted (14.6.2023) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 14(1)](https://www.legislation.gov.uk/ukpga/2022/6/section/14/1), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/6) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/643/regulation/5))
 
-[^key-0491c66dccba46479a332dfbead7bc05]: Textual amendment: Pt. 14A inserted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 15(1)](https://www.legislation.gov.uk/ukpga/2016/4/section/15/1), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/k)
+[^c-0491c66dccba46479a332dfbead7bc05]: Textual amendment: Pt. 14A inserted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 15(1)](https://www.legislation.gov.uk/ukpga/2016/4/section/15/1), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/k)
 
-[^key-ec7017ec5b41903c8aa49b132cde8370]: Modification: Pt. 17 Ch. 2 applied by 1969 c. 22, s. 4(8A) (as substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 17(1)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/17/1) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8)))
+[^c-ec7017ec5b41903c8aa49b132cde8370]: Modification: Pt. 17 Ch. 2 applied by 1969 c. 22, s. 4(8A) (as substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 17(1)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/17/1) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8)))
 
-[^key-854bf1a323c284dea8c2fbc04df8c806]: Modification: Pt. 17 Ch. 2 applied by 1987 c. 3, s. 5(8B) (as substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 47(2)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/47/2) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8)))
+[^c-854bf1a323c284dea8c2fbc04df8c806]: Modification: Pt. 17 Ch. 2 applied by 1987 c. 3, s. 5(8B) (as substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 47(2)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/47/2) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8)))
 
-[^key-b7ca669f26890df3864bd59f8864236f]: Modification: Pt. 17 Ch. 2 applied by 1987 c. 15, s. 4(2) (as substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 48](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/48) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8)))
+[^c-b7ca669f26890df3864bd59f8864236f]: Modification: Pt. 17 Ch. 2 applied by 1987 c. 15, s. 4(2) (as substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 48](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/48) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8)))
 
-[^key-7bf507ca6cef725c401c11d008dae025]: Textual amendment: Ss. 331A, 331B and cross-heading inserted (27.11.2025 for specified purposes) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 15](https://www.legislation.gov.uk/ukpga/2022/6/section/15), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2025/1191](https://www.legislation.gov.uk/uksi/2025/1191), [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2025/1191/regulation/3/1/a)[(2)](https://www.legislation.gov.uk/uksi/2025/1191/regulation/3/2)
+[^c-7bf507ca6cef725c401c11d008dae025]: Textual amendment: Ss. 331A, 331B and cross-heading inserted (27.11.2025 for specified purposes) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 15](https://www.legislation.gov.uk/ukpga/2022/6/section/15), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2025/1191](https://www.legislation.gov.uk/uksi/2025/1191), [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2025/1191/regulation/3/1/a)[(2)](https://www.legislation.gov.uk/uksi/2025/1191/regulation/3/2)
 
-[^key-9515f8824ca9243255b8e33fd986329a]: Textual amendment: [S. 334A](https://www.legislation.gov.uk/ukpga/2011/25/section/334A) and cross-heading inserted (31.10.2022) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 32(1)](https://www.legislation.gov.uk/ukpga/2022/6/section/32/1), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4) (with [s. 32(2)](https://www.legislation.gov.uk/ukpga/2022/6/section/32/2)); [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/7)
+[^c-9515f8824ca9243255b8e33fd986329a]: Textual amendment: [S. 334A](https://www.legislation.gov.uk/ukpga/2011/25/section/334A) and cross-heading inserted (31.10.2022) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 32(1)](https://www.legislation.gov.uk/ukpga/2022/6/section/32/1), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4) (with [s. 32(2)](https://www.legislation.gov.uk/ukpga/2022/6/section/32/2)); [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Claims made before 6th October 2003[^key-8cee0912877d099d2d32f6b88ee5d8e7]
+## 21. Claims made before 6th October 2003[^c-8cee0912877d099d2d32f6b88ee5d8e7]
 
 *Extent: N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8cee0912877d099d2d32f6b88ee5d8e7]: Commencement: Reg. 21 in operation at 6.4.2003, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/a)
+[^c-8cee0912877d099d2d32f6b88ee5d8e7]: Commencement: Reg. 21 in operation at 6.4.2003, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/a)
 
 [^f00095]: Footnote: [2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4)

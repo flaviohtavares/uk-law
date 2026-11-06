@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. False or misleading information[^key-7be1b86ae4715a1cbd2596da6b300ad5]
+## 39. False or misleading information[^c-7be1b86ae4715a1cbd2596da6b300ad5]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ commits an offence.
 
 ## Annotations
 
-[^key-7be1b86ae4715a1cbd2596da6b300ad5]: Commencement: [S. 39](https://www.legislation.gov.uk/anaw/2014/7/section/39) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(u)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/u)
+[^c-7be1b86ae4715a1cbd2596da6b300ad5]: Commencement: [S. 39](https://www.legislation.gov.uk/anaw/2014/7/section/39) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(u)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/u)

@@ -22,7 +22,7 @@ summary: ''
 
 Article 14
 
-### PART 1 — HIGHWAYS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-709afb5d69e7061849df6586b99d0619]
+### PART 1 — HIGHWAYS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-709afb5d69e7061849df6586b99d0619]
 
 | *(1)*<br>*Highway to be stopped up* | *(2)*<br>*Extent of stopping up* | *(3)*<br>*New highway to be substituted* |
 | --- | --- | --- |
@@ -75,10 +75,10 @@ Article 14
 | FP251 | Existing section of public right of way, between points 38/P and 38/N as shown on sheet 42 of the rights of way and access plans. | A new public right of way between points 45/3 and 45/4 as shown on sheet 42 of the rights of way and access plans. |
 | FP230 | Existing section of public right of way, between point 39/B on sheet 42 and point 39/A on sheet 43, as shown on sheets 42 and 43 of the rights of way and access plans. | A new public right of way between points 39/2, 39/3, 39/5 and 39/6 as shown on sheet 43 of the rights of way and access plans. |
 | BR183 | Existing section of public right of way, between points 41/F and 41/G as shown on sheet 45 of the rights of way and access plans. | A new public right of way between points 37/28 and 37/29 as shown on sheet 45 of the rights of way and access plans. |
-| M25 northbound off-slip to M25 junction 29 | Existing section of public road, between points 37/E and 37/N as shown on sheet 45 of the rights of way and access plans. | A new road as shown on sheets 42,[^key-8682c0da0f942c0a404275c4f8cdb6ca] 43, 44 and 45 between points 37/5 on sheet 42 and 37/16 on sheet 45 of the rights of way and access plans. |
+| M25 northbound off-slip to M25 junction 29 | Existing section of public road, between points 37/E and 37/N as shown on sheet 45 of the rights of way and access plans. | A new road as shown on sheets 42,[^c-8682c0da0f942c0a404275c4f8cdb6ca] 43, 44 and 45 between points 37/5 on sheet 42 and 37/16 on sheet 45 of the rights of way and access plans. |
 | Footway in the highway verge of the M25 Junction 29 roundabout | Existing section of footway, between points 41/C and 41/D as shown on sheets 45 of the rights of way and access plans. | - (a) A new public right of way and footbridge between points 45/8 and 45/7 on sheet 45;<br>- (b) a footway/cycle track in the highway verge of the M25 junction 29 roundabout and A127 eastbound off-slip between points 37/25 and 37/26 on sheet 45; and<br>- (c) a new public right of way and footbridge between points 45/5, 45/9, 45/6 and 45/20,<br>as shown on sheet 45 of the rights of way and access plans. |
 
-### PART 2 — HIGHWAYS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS NOT TO BE PROVIDED[^key-3382d518905bc40dd1d1feb0d166b2e1]
+### PART 2 — HIGHWAYS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS NOT TO BE PROVIDED[^c-3382d518905bc40dd1d1feb0d166b2e1]
 
 | *(1)*<br>*Highway to be stopped up* | *(2)*<br>*Extent of stopping up* |
 | --- | --- |
@@ -97,7 +97,7 @@ Article 14
 | FP251 | Existing section of public right of way between points 38/L and 38/M as shown on sheet 42 of the rights of way and access plans. |
 | Layby on northern side of Ockendon Road to the west of FP230 and the M25 | Existing section of public road, between points 39/C and 39/D as shown on sheet 42 of the rights of way and access plans. |
 
-### PART 3 — OTHER STREETS OR PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-14ac6706a8c6e341f5adbfbde2132286]
+### PART 3 — OTHER STREETS OR PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-14ac6706a8c6e341f5adbfbde2132286]
 
 | *(1)*<br>*Street or private means of access to be stopped up* | *(2)*<br>*Extent of stopping up* | *(3)*<br>*New street or private means of access to be substituted* |
 | --- | --- | --- |
@@ -116,7 +116,7 @@ Article 14
 | Green Lane | Existing private means of access, between points 33/A and 33/B as shown on sheet 33 of the rights of way and access plans. | A new private means of access between points 33/1 and 33/4 as shown on sheet 33 of the rights of way and access plans. |
 | Private means of access to pylon adjacent to M25 | Existing private means of access, between points 41/C and 41/E as shown on sheet 45 of the rights of way and access plans. | A new private means of access as shown on sheets 44 and 45 between points 41/4 and 41/5 on sheet 45 of the rights of way and access plans. |
 
-### PART 4 — OTHER STREETS OR PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS NOT TO BE PROVIDED[^key-ab40bd318027a0e254da24755aaf1f5f]
+### PART 4 — OTHER STREETS OR PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS NOT TO BE PROVIDED[^c-ab40bd318027a0e254da24755aaf1f5f]
 
 | *(1)*<br>*Street or private means of access to be stopped up* | *(2)*<br>*Extent of stopping up* |
 | --- | --- |
@@ -134,12 +134,12 @@ Article 14
 
 ## Annotations
 
-[^key-709afb5d69e7061849df6586b99d0619]: Commencement: Sch. 4 Pt. 1 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-709afb5d69e7061849df6586b99d0619]: Commencement: Sch. 4 Pt. 1 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-8682c0da0f942c0a404275c4f8cdb6ca]: Textual amendment: Word in [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2025/462/schedule/4/part/1) inserted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
+[^c-8682c0da0f942c0a404275c4f8cdb6ca]: Textual amendment: Word in [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2025/462/schedule/4/part/1) inserted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
 
-[^key-3382d518905bc40dd1d1feb0d166b2e1]: Commencement: Sch. 4 Pt. 2 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-3382d518905bc40dd1d1feb0d166b2e1]: Commencement: Sch. 4 Pt. 2 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-14ac6706a8c6e341f5adbfbde2132286]: Commencement: Sch. 4 Pt. 3 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-14ac6706a8c6e341f5adbfbde2132286]: Commencement: Sch. 4 Pt. 3 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-ab40bd318027a0e254da24755aaf1f5f]: Commencement: Sch. 4 Pt. 4 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-ab40bd318027a0e254da24755aaf1f5f]: Commencement: Sch. 4 Pt. 4 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)

@@ -202,7 +202,7 @@ section 2 shall apply as modified by sub-paragraphs (3) and (4).
 
 *Extent: E+W*
 
-**10.**[^key-b3712a7c11af458fb1d46ee304ad2068] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-b3712a7c11af458fb1d46ee304ad2068] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Discharge of existing orders
 
@@ -710,7 +710,7 @@ and shall, on making any of those orders, discharge the criminal care order.
 
 (6) The maximum period which may be specified in an order made under sub-paragraph (4)(d) is six months and such an order may stipulate that the child shall not live with a named person.
 
-(7)[^key-f010ffe919fc1618c718de370b54c6ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-f010ffe919fc1618c718de370b54c6ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In sub-paragraph (4) “**appropriate person**” means—
 
@@ -806,7 +806,7 @@ and shall, on making any of those orders, discharge the criminal care order.
 
 [^c15184791]: Commencement: [Sch. 14 para. 9](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/9) wholly in force at 14.10.1991 see [s. 108(2)(3)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/2/3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
-[^key-b3712a7c11af458fb1d46ee304ad2068]: Textual amendment: [Sch. 14 para. 10](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/10) omitted (22.4.2014) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 41](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/41); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-b3712a7c11af458fb1d46ee304ad2068]: Textual amendment: [Sch. 14 para. 10](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/10) omitted (22.4.2014) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 41](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/41); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
 
 [^c15184841]: Commencement: [Sch. 14 para. 11](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/11) wholly in force at 14.10.1991 see [s. 108(2)(3)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/2/3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
@@ -998,7 +998,7 @@ and shall, on making any of those orders, discharge the criminal care order.
 
 [^c15186111]: Textual amendment: Words in Sch. 14 para. 36(5)(b) substituted (14.10.1991) by [Courts and Legal Services Act 1990 (c. 41, SIF 76:1)](https://www.legislation.gov.uk/ukpga/1990/41), [s. 116](https://www.legislation.gov.uk/ukpga/1990/41/section/116), [Sch. 16 para. 33(6)](https://www.legislation.gov.uk/ukpga/1990/41/schedule/16/paragraph/33/6); [S.I. 1991/1883](https://www.legislation.gov.uk/uksi/1991/1883), [art. 3](https://www.legislation.gov.uk/uksi/1991/1883/article/3),Sch.
 
-[^key-f010ffe919fc1618c718de370b54c6ff]: Textual amendment: [Sch. 14 para. 36(7)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/36/7) repealed (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-f010ffe919fc1618c718de370b54c6ff]: Textual amendment: [Sch. 14 para. 36(7)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/36/7) repealed (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
 [^c15186131]: Commencement: [Sch. 14 para. 37](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/37) wholly in force at 14.10.1991 see [s. 108(2)(3)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/2/3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 

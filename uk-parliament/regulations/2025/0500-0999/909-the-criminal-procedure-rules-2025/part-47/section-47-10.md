@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.10. Application for a production order under the Police and Criminal Evidence Act 1984[^key-1aaac557cd0a2c246d5bad8acf4e51f6]
+## 47.10. Application for a production order under the Police and Criminal Evidence Act 1984[^c-1aaac557cd0a2c246d5bad8acf4e51f6]
 
 *Extent: E+W*
 
@@ -62,7 +62,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1aaac557cd0a2c246d5bad8acf4e51f6]: Commencement: Rule 47.10 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-1aaac557cd0a2c246d5bad8acf4e51f6]: Commencement: Rule 47.10 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01140]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60); paragraph 2 of Schedule 1 was amended by sections 111 and 113 of, and paragraph 43 of Schedule 7 to, the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15).
 

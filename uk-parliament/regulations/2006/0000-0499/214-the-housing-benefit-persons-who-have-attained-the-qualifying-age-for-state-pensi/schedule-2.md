@@ -18,7 +18,7 @@ summary: ''
 
 Regulation 14
 
-**1.**[^key-5feea85a38091167d2628c2f9c7fd831] An excluded tenancy is any tenancy to which any of the following paragraphs applies.
+**1.**[^c-5feea85a38091167d2628c2f9c7fd831] An excluded tenancy is any tenancy to which any of the following paragraphs applies.
 
 **2.** (1) Subject to sub-paragraphs (2) and (3), where a rent officer has made a determination, which relates to the tenancy in question or any other tenancy of the same dwelling this paragraph applies to—
 
@@ -39,19 +39,19 @@ Regulation 14
   - (i) a child, who is a member of the household occupying the dwelling, has attained the age of 10 years;
   - (ii) a young person, who is a member of the household occupying that dwelling, has attained the age of 16 years; or
   - (iii) there is a change in the composition of the household occupying the dwelling.
-- (e)[^key-a9291d1c4be1b855dc0db0c83123601c] any person mentioned in paragraph 1A(a) of Schedule 2 to the Rent Officers Order becomes or ceases to be a person who requires overnight care where that affects the size criteria, as set out in that Schedule to that Order, applicable in the claimant’s case;
-- (f)[^key-abede84ccb5d79828a1c54a2725a7744] the claimant or the claimant’s partner becomes, or ceases to be, a qualifying parent or carer where that affects the size criteria, as set out in Schedule 2 to the Rent Officers Order, applicable in the claimant’s case.
-- (g)[^key-f8be08f153bb9f6a204dcd21f399b31b] an occupier becomes or ceases to be a child who cannot share a bedroom or a member of a couple who cannot share a bedroom[^key-3ab7c4adbc1726dc3a8a9c44f96ce981] where that affects the size criteria, as set out in Schedule 2 to the Rent Officers Order, applicable in the claimant’s case.
+- (e)[^c-a9291d1c4be1b855dc0db0c83123601c] any person mentioned in paragraph 1A(a) of Schedule 2 to the Rent Officers Order becomes or ceases to be a person who requires overnight care where that affects the size criteria, as set out in that Schedule to that Order, applicable in the claimant’s case;
+- (f)[^c-abede84ccb5d79828a1c54a2725a7744] the claimant or the claimant’s partner becomes, or ceases to be, a qualifying parent or carer where that affects the size criteria, as set out in Schedule 2 to the Rent Officers Order, applicable in the claimant’s case.
+- (g)[^c-f8be08f153bb9f6a204dcd21f399b31b] an occupier becomes or ceases to be a child who cannot share a bedroom or a member of a couple who cannot share a bedroom[^c-3ab7c4adbc1726dc3a8a9c44f96ce981] where that affects the size criteria, as set out in Schedule 2 to the Rent Officers Order, applicable in the claimant’s case.
 
-(4)[^key-dbb8a7119ecf07115c28db12740ed328] For the purposes of sub-paragraph (3)(d)(iii) it does not amount to a change in the composition of the household where a son, daughter, step-son or step-daughter of the claimant or the claimant’s partner who is the claimant’s non-dependant ceases to occupy the dwelling as their home because they become a member of the armed forces away on operations, or subsequently resumes occupying the dwelling as their home on ceasing to be a member of the armed forces away on operations.
+(4)[^c-dbb8a7119ecf07115c28db12740ed328] For the purposes of sub-paragraph (3)(d)(iii) it does not amount to a change in the composition of the household where a son, daughter, step-son or step-daughter of the claimant or the claimant’s partner who is the claimant’s non-dependant ceases to occupy the dwelling as their home because they become a member of the armed forces away on operations, or subsequently resumes occupying the dwelling as their home on ceasing to be a member of the armed forces away on operations.
 
-**3.** (1)[^key-c4b2ffcf88feb7cda6c6fc9a97c37c3a] Subject to sub-paragraphs (1A) and (2)[^key-5efefafcfa96a77fde1bec6947b33b26], this paragraph applies where the landlord is—
+**3.** (1)[^c-c4b2ffcf88feb7cda6c6fc9a97c37c3a] Subject to sub-paragraphs (1A) and (2)[^c-5efefafcfa96a77fde1bec6947b33b26], this paragraph applies where the landlord is—
 
 - (a) a registered housing association;
 - (b) a county council, with regard to gypsies’ and travellers’ caravan or mobile home sites and caravans or mobile homes provided on those sites; or
 - (c) a housing authority, with regard to caravan or mobile home sites or houseboat moorings, payments in respect of which are to take the form of a rent allowance in accordance with regulation 72A(3).
 
-(1A)[^key-53c819f7100c8c4b27db88949eab5623] In relation to a profit-making registered provider of social housing, sub-paragraph (1)(a) only applies to its social housing (within the meaning of sections 68 to 77 of the Housing and Regeneration Act 2008).
+(1A)[^c-53c819f7100c8c4b27db88949eab5623] In relation to a profit-making registered provider of social housing, sub-paragraph (1)(a) only applies to its social housing (within the meaning of sections 68 to 77 of the Housing and Regeneration Act 2008).
 
 (2) Sub-paragraph (1) does not apply where the local authority considers that—
 
@@ -86,7 +86,7 @@ Regulation 14
 
 **8.** This paragraph applies to a tenancy at a low rent within the meaning of Part 1 of the Landlord and Tenant Act 1954 or Schedule 10 to the Local Government and Housing Act 1989.
 
-**9.** This paragraph applies to a tenancy of any dwelling which is a bail hostel or probation hostel approved by the Secretary of State under section 13 of the Offender Management Act 2007[^key-8dae4b1fd724c660c68d43b6a5f9deb6].
+**9.** This paragraph applies to a tenancy of any dwelling which is a bail hostel or probation hostel approved by the Secretary of State under section 13 of the Offender Management Act 2007[^c-8dae4b1fd724c660c68d43b6a5f9deb6].
 
 **10.** This paragraph applies to a tenancy of a housing action trust established under Part 3 of the Housing Act 1988.
 
@@ -120,22 +120,22 @@ and—
 
 ## Annotations
 
-[^key-5feea85a38091167d2628c2f9c7fd831]: Textual amendment: Sch. 2 substituted (with application in accordance with reg. 1(5)(6)(7) of the amending S.I.) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/3), [18](https://www.legislation.gov.uk/uksi/2007/2869/regulation/18)
+[^c-5feea85a38091167d2628c2f9c7fd831]: Textual amendment: Sch. 2 substituted (with application in accordance with reg. 1(5)(6)(7) of the amending S.I.) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/3), [18](https://www.legislation.gov.uk/uksi/2007/2869/regulation/18)
 
-[^key-a9291d1c4be1b855dc0db0c83123601c]: Textual amendment: [Sch. 2 para. 2(3)(e)](https://www.legislation.gov.uk/uksi/2006/214/schedule/2/paragraph/2/3/e) substituted (1.4.2017) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/213)](https://www.legislation.gov.uk/uksi/2017/213), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/213/regulation/1/1), [5(5)(a)](https://www.legislation.gov.uk/uksi/2017/213/regulation/5/5/a)
+[^c-a9291d1c4be1b855dc0db0c83123601c]: Textual amendment: [Sch. 2 para. 2(3)(e)](https://www.legislation.gov.uk/uksi/2006/214/schedule/2/paragraph/2/3/e) substituted (1.4.2017) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/213)](https://www.legislation.gov.uk/uksi/2017/213), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/213/regulation/1/1), [5(5)(a)](https://www.legislation.gov.uk/uksi/2017/213/regulation/5/5/a)
 
-[^key-abede84ccb5d79828a1c54a2725a7744]: Textual amendment: Sch. 2 para. 2(3)(f) added (1.4.2013) by [The Housing Benefit (Amendment) Regulations 2013 (S.I. 2013/665)](https://www.legislation.gov.uk/uksi/2013/665), [regs. 1](https://www.legislation.gov.uk/uksi/2013/665/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2013/665/regulation/3/6/a)
+[^c-abede84ccb5d79828a1c54a2725a7744]: Textual amendment: Sch. 2 para. 2(3)(f) added (1.4.2013) by [The Housing Benefit (Amendment) Regulations 2013 (S.I. 2013/665)](https://www.legislation.gov.uk/uksi/2013/665), [regs. 1](https://www.legislation.gov.uk/uksi/2013/665/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2013/665/regulation/3/6/a)
 
-[^key-f8be08f153bb9f6a204dcd21f399b31b]: Textual amendment: Sch. 2 para. 2(3)(g) added (4.12.2013) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2828)](https://www.legislation.gov.uk/uksi/2013/2828), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2828/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2013/2828/regulation/3/5)
+[^c-f8be08f153bb9f6a204dcd21f399b31b]: Textual amendment: Sch. 2 para. 2(3)(g) added (4.12.2013) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2828)](https://www.legislation.gov.uk/uksi/2013/2828), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2828/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2013/2828/regulation/3/5)
 
-[^key-3ab7c4adbc1726dc3a8a9c44f96ce981]: Textual amendment: Words in [Sch. 2 para. 2(3)(g)](https://www.legislation.gov.uk/uksi/2006/214/schedule/2/paragraph/2/3/g) inserted (1.4.2017) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/213)](https://www.legislation.gov.uk/uksi/2017/213), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/213/regulation/1/1), [5(5)(b)](https://www.legislation.gov.uk/uksi/2017/213/regulation/5/5/b)
+[^c-3ab7c4adbc1726dc3a8a9c44f96ce981]: Textual amendment: Words in [Sch. 2 para. 2(3)(g)](https://www.legislation.gov.uk/uksi/2006/214/schedule/2/paragraph/2/3/g) inserted (1.4.2017) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/213)](https://www.legislation.gov.uk/uksi/2017/213), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/213/regulation/1/1), [5(5)(b)](https://www.legislation.gov.uk/uksi/2017/213/regulation/5/5/b)
 
-[^key-dbb8a7119ecf07115c28db12740ed328]: Textual amendment: Sch. 2 para. 2(4) added (1.4.2013) by [The Housing Benefit (Amendment) Regulations 2013 (S.I. 2013/665)](https://www.legislation.gov.uk/uksi/2013/665), [regs. 1](https://www.legislation.gov.uk/uksi/2013/665/regulation/1), [3(6)(b)](https://www.legislation.gov.uk/uksi/2013/665/regulation/3/6/b)
+[^c-dbb8a7119ecf07115c28db12740ed328]: Textual amendment: Sch. 2 para. 2(4) added (1.4.2013) by [The Housing Benefit (Amendment) Regulations 2013 (S.I. 2013/665)](https://www.legislation.gov.uk/uksi/2013/665), [regs. 1](https://www.legislation.gov.uk/uksi/2013/665/regulation/1), [3(6)(b)](https://www.legislation.gov.uk/uksi/2013/665/regulation/3/6/b)
 
-[^key-c4b2ffcf88feb7cda6c6fc9a97c37c3a]: Textual amendment: Sch. 2 para. 3 substituted (6.4.2009) by [The Housing Benefit and Council Tax Benefit (Amendment) (No. 2) Regulations 2008 (S.I. 2008/2824)](https://www.legislation.gov.uk/uksi/2008/2824), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2824/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2008/2824/regulation/3/3)[(4)](https://www.legislation.gov.uk/uksi/2008/2824/regulation/3/4)
+[^c-c4b2ffcf88feb7cda6c6fc9a97c37c3a]: Textual amendment: Sch. 2 para. 3 substituted (6.4.2009) by [The Housing Benefit and Council Tax Benefit (Amendment) (No. 2) Regulations 2008 (S.I. 2008/2824)](https://www.legislation.gov.uk/uksi/2008/2824), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2824/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2008/2824/regulation/3/3)[(4)](https://www.legislation.gov.uk/uksi/2008/2824/regulation/3/4)
 
-[^key-5efefafcfa96a77fde1bec6947b33b26]: Textual amendment: Words in Sch. 2 para. 3(1) substituted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) (No. 2) Order 2010 (S.I. 2010/671)](https://www.legislation.gov.uk/uksi/2010/671), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/671/article/1/2), [Sch. 1 para. 60](https://www.legislation.gov.uk/uksi/2010/671/schedule/1/paragraph/60) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/671/schedule/2)); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), art. 2
+[^c-5efefafcfa96a77fde1bec6947b33b26]: Textual amendment: Words in Sch. 2 para. 3(1) substituted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) (No. 2) Order 2010 (S.I. 2010/671)](https://www.legislation.gov.uk/uksi/2010/671), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/671/article/1/2), [Sch. 1 para. 60](https://www.legislation.gov.uk/uksi/2010/671/schedule/1/paragraph/60) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/671/schedule/2)); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), art. 2
 
-[^key-53c819f7100c8c4b27db88949eab5623]: Textual amendment: Sch. 2 para. 3(1A) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) (No. 2) Order 2010 (S.I. 2010/671)](https://www.legislation.gov.uk/uksi/2010/671), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/671/article/1/2), [Sch. 1 para. 61](https://www.legislation.gov.uk/uksi/2010/671/schedule/1/paragraph/61) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/671/schedule/2)); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), art. 2
+[^c-53c819f7100c8c4b27db88949eab5623]: Textual amendment: Sch. 2 para. 3(1A) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) (No. 2) Order 2010 (S.I. 2010/671)](https://www.legislation.gov.uk/uksi/2010/671), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/671/article/1/2), [Sch. 1 para. 61](https://www.legislation.gov.uk/uksi/2010/671/schedule/1/paragraph/61) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/671/schedule/2)); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), art. 2
 
-[^key-8dae4b1fd724c660c68d43b6a5f9deb6]: Textual amendment: Words in Sch. 2 para. 9 substituted (17.11.2008) by [The Social Security (Miscellaneous Amendments) (No.6) Regulations 2008 (S.I. 2008/2767)](https://www.legislation.gov.uk/uksi/2008/2767), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/1/2), [7(6)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/7/6), [(8)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/7/8)
+[^c-8dae4b1fd724c660c68d43b6a5f9deb6]: Textual amendment: Words in Sch. 2 para. 9 substituted (17.11.2008) by [The Social Security (Miscellaneous Amendments) (No.6) Regulations 2008 (S.I. 2008/2767)](https://www.legislation.gov.uk/uksi/2008/2767), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/1/2), [7(6)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/7/6), [(8)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/7/8)

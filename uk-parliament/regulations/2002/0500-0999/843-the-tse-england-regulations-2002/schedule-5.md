@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — APPLICATION OF PART IV OF THE REGULATIONS TO SCHEME ANIMALS[^key-ecc59272cd32d39f2a51cf2f544cfb64]
+## SCHEDULE 5 — APPLICATION OF PART IV OF THE REGULATIONS TO SCHEME ANIMALS[^c-ecc59272cd32d39f2a51cf2f544cfb64]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Regulation 30(4)
 
 ## Annotations
 
-[^key-ecc59272cd32d39f2a51cf2f544cfb64]: Textual amendment: Regulations revoked (1.3.2006) by [The Transmissible Spongiform Encephalopathies Regulations 2006 (S.I. 2006/68)](https://www.legislation.gov.uk/uksi/2006/68), [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2006/68/schedule/7)
+[^c-ecc59272cd32d39f2a51cf2f544cfb64]: Textual amendment: Regulations revoked (1.3.2006) by [The Transmissible Spongiform Encephalopathies Regulations 2006 (S.I. 2006/68)](https://www.legislation.gov.uk/uksi/2006/68), [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2006/68/schedule/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Participation in a hearing[^key-abe403999b76c82bb769bce0d35b4cc8]
+## 31. Participation in a hearing[^c-abe403999b76c82bb769bce0d35b4cc8]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-abe403999b76c82bb769bce0d35b4cc8]: Commencement: [Reg. 31](https://www.legislation.gov.uk/wsi/2017/544/regulation/31) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-abe403999b76c82bb769bce0d35b4cc8]: Commencement: [Reg. 31](https://www.legislation.gov.uk/wsi/2017/544/regulation/31) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)

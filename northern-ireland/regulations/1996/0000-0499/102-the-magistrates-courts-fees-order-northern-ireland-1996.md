@@ -40,11 +40,11 @@ Coming into operation
 
 The Lord Chancellor, in exercise of the powers conferred on him by section 116(1) and (4) of the Judicature (Northern Ireland) Act 1978[^f00001], after consultation with the Lord Chief Justice, and with the concurrence of the Treasury, hereby makes the following Order:—
 
-## 1. Citation and commencement[^key-ad7ab4e26845a2e3f37ecafee2b0a2a4]
+## 1. Citation and commencement[^c-ad7ab4e26845a2e3f37ecafee2b0a2a4]
 
 This Order may be cited as the Magistrates' Courts Fees Order (Northern Ireland) 1996 and shall come into operation on 1st April 1996.
 
-## 2. Interpretation[^key-59655caa5cd1f2848a4d92af1a130403]
+## 2. Interpretation[^c-59655caa5cd1f2848a4d92af1a130403]
 
 In this Order, unless the context otherwise requires:
 
@@ -54,11 +54,11 @@ In this Order, unless the context otherwise requires:
 - (d) expressions used in the Magistrates' Courts Rules have the same meanings as in those Rules;
 - (e) Schedules 1 and 2 mean Schedules 1 and 2 respectively to this Order.
 
-## 3. Revocation[^key-4b0886b1255a189d0d4ec7f81d5893b6]
+## 3. Revocation[^c-4b0886b1255a189d0d4ec7f81d5893b6]
 
 The Magistrates' Courts Fees Order (Northern Ireland) 1994[^f00004] and the Magistrates' Courts Fees (Amendment) Order (Northern Ireland) 1995[^f00005] are hereby revoked.
 
-## 4. Magistrates' courts fees[^key-b6c3f92217357f98c9d97cbdf10e0145]
+## 4. Magistrates' courts fees[^c-b6c3f92217357f98c9d97cbdf10e0145]
 
 (1) Subject to paragraph (3) the fees set out in Schedule 1 shall be payable in respect of the items set out opposite thereto.
 
@@ -68,7 +68,7 @@ The Magistrates' Courts Fees Order (Northern Ireland) 1994[^f00004] and the Magi
 
 (4) For the purpose of any enactment relating to the recovery of costs or fees any fee which would but for paragraph (3) have been paid shall be deemed to have been paid.
 
-## 5. Manner in which fees are to be taken[^key-acc36eb2d9b439eb7227e7b591ded438]
+## 5. Manner in which fees are to be taken[^c-acc36eb2d9b439eb7227e7b591ded438]
 
 (1) The fees prescribed in Schedule 1 shall be taken in cash.
 
@@ -78,7 +78,7 @@ The Magistrates' Courts Fees Order (Northern Ireland) 1994[^f00004] and the Magi
 
 (4) Paragraphs (2) and (3) shall not apply to the fees payable in connection with the issue of proceedings under Article 32 of the Rates (Northern Ireland) Order 1977[^f00006].
 
-## 6. Fees for service of summonses and processes[^key-84d76f2091b8f0d6d66257c50c025418]
+## 6. Fees for service of summonses and processes[^c-84d76f2091b8f0d6d66257c50c025418]
 
 (1) The fees set out in Schedule 2 shall be payable for the service of summonses and processes.
 
@@ -88,7 +88,7 @@ The Magistrates' Courts Fees Order (Northern Ireland) 1994[^f00004] and the Magi
 
 (4) The fee payable for the service of a summons or process under Schedule 2 shall be deemed to cover the cost of postage under Rule 13(2)(*a*) or (9)(*a*) of the Magistrates' Courts Rules and for the advice of delivery of the registered or recorded delivery envelope.
 
-## 7. Fees not required[^key-1b6dda73b447cf53dcaf41684f201614]
+## 7. Fees not required[^c-1b6dda73b447cf53dcaf41684f201614]
 
 Notwithstanding anything in Article 4 and Schedule 1 a fee shall not be required to be paid in respect of:—
 
@@ -97,11 +97,11 @@ Notwithstanding anything in Article 4 and Schedule 1 a fee shall not be required
 - (c) a copy order under either Rule 5(1) or Rule 9(5) of the Magistrates' Courts (Maintenance and Affiliation) Rules (Northern Ireland) 1966[^f00007]; or
 - (d) a certified copy order under Rule 6 of the Magistrates' Courts (Suspension of Disqualification for Driving) Rules (Northern Ireland) 1968[^f00008].
 
-## 8. Fee on warrant of commitment or distress[^key-87b1f72d2596c0dde9d8ada36b2fc8ec]
+## 8. Fee on warrant of commitment or distress[^c-87b1f72d2596c0dde9d8ada36b2fc8ec]
 
 There shall be added to the total of any sum due under a warrant of commitment or distress issued to the Royal Ulster Constabulary (other than a warrant of commitment issued by virtue of Article 93 of the Order at the time of the defendant’s conviction) the sum of £5 towards the cost of issuing and executing the warrant.
 
-## 9. Application of fees[^key-4f5b71ca55bcb59a6d90c58842de6823]
+## 9. Application of fees[^c-4f5b71ca55bcb59a6d90c58842de6823]
 
 All fees received by virtue of Schedule 1 shall, unless otherwise appropriated in aid, be paid into the Consolidated Fund.
 
@@ -119,7 +119,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 Dated 14th March 1996
 
-## SCHEDULE 1 — Court Fees[^key-c7202eb2ef49f86bad33a3903206eb4e]
+## SCHEDULE 1 — Court Fees[^c-c7202eb2ef49f86bad33a3903206eb4e]
 
 Article 4
 
@@ -245,7 +245,7 @@ H. Applications under the Child Support (Northern Ireland) Order 1991
 | *Extent: E+W+S+N.I.*<br>**54.** A summons on an application for a liability order under Article 33(2) | £12·00 |
 | *Extent: E+W+S+N.I.*<br>**55.** A summons or warrant under Regulation 29 of the Child Support (Collection and Enforcement) Regulations (Northern Ireland) 1992 | £12·00 |
 
-## SCHEDULE 2 — Fees Payable for Service of a Summons or Process[^key-fc41aa9d7ffddbbe3dc296e98d23cd8b]
+## SCHEDULE 2 — Fees Payable for Service of a Summons or Process[^c-fc41aa9d7ffddbbe3dc296e98d23cd8b]
 
 Article 6
 
@@ -268,38 +268,38 @@ This Order revokes and replaces the Magistrates' Courts Fees Order (Northern Ire
 
 [^f00001]: Footnote: [1978 c. 23](https://www.legislation.gov.uk/ukpga/1978/23)
 
-[^key-ad7ab4e26845a2e3f37ecafee2b0a2a4]: Commencement: Art. 1 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/102/article/1)
+[^c-ad7ab4e26845a2e3f37ecafee2b0a2a4]: Commencement: Art. 1 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/102/article/1)
 
-[^key-59655caa5cd1f2848a4d92af1a130403]: Commencement: Art. 2 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/102/article/1)
+[^c-59655caa5cd1f2848a4d92af1a130403]: Commencement: Art. 2 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/102/article/1)
 
 [^f00002]: Footnote: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675)
 
 [^f00003]: Footnote: [S.R. 1984 No. 225](https://www.legislation.gov.uk/nisr/1984/225)
 
-[^key-4b0886b1255a189d0d4ec7f81d5893b6]: Commencement: Art. 3 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/102/article/1)
+[^c-4b0886b1255a189d0d4ec7f81d5893b6]: Commencement: Art. 3 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/102/article/1)
 
 [^f00004]: Footnote: [S.R. 1994 No. 279](https://www.legislation.gov.uk/nisr/1994/279)
 
 [^f00005]: Footnote: [S.R. 1995 No. 222](https://www.legislation.gov.uk/nisr/1995/222)
 
-[^key-b6c3f92217357f98c9d97cbdf10e0145]: Commencement: Art. 4 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/102/article/1)
+[^c-b6c3f92217357f98c9d97cbdf10e0145]: Commencement: Art. 4 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/102/article/1)
 
-[^key-acc36eb2d9b439eb7227e7b591ded438]: Commencement: Art. 5 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/102/article/1)
+[^c-acc36eb2d9b439eb7227e7b591ded438]: Commencement: Art. 5 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/102/article/1)
 
 [^f00006]: Footnote: [S.I. 1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157)
 
-[^key-84d76f2091b8f0d6d66257c50c025418]: Commencement: Art. 6 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/102/article/1)
+[^c-84d76f2091b8f0d6d66257c50c025418]: Commencement: Art. 6 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/102/article/1)
 
-[^key-1b6dda73b447cf53dcaf41684f201614]: Commencement: Art. 7 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/102/article/1)
+[^c-1b6dda73b447cf53dcaf41684f201614]: Commencement: Art. 7 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/102/article/1)
 
 [^f00007]: Footnote: [S.R. & O. (N.I.) 1966 No. 292](https://www.legislation.gov.uk/nisro/1966/292)
 
 [^f00008]: Footnote: [S.R. & O. (N.I.) 1968 No. 175](https://www.legislation.gov.uk/nisro/1968/175)
 
-[^key-87b1f72d2596c0dde9d8ada36b2fc8ec]: Commencement: Art. 8 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/102/article/1)
+[^c-87b1f72d2596c0dde9d8ada36b2fc8ec]: Commencement: Art. 8 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/102/article/1)
 
-[^key-4f5b71ca55bcb59a6d90c58842de6823]: Commencement: Art. 9 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/102/article/1)
+[^c-4f5b71ca55bcb59a6d90c58842de6823]: Commencement: Art. 9 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/102/article/1)
 
-[^key-c7202eb2ef49f86bad33a3903206eb4e]: Commencement: Sch. 1 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/102/article/1)
+[^c-c7202eb2ef49f86bad33a3903206eb4e]: Commencement: Sch. 1 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/102/article/1)
 
-[^key-fc41aa9d7ffddbbe3dc296e98d23cd8b]: Commencement: Sch. 2 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/102/article/1)
+[^c-fc41aa9d7ffddbbe3dc296e98d23cd8b]: Commencement: Sch. 2 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/102/article/1)

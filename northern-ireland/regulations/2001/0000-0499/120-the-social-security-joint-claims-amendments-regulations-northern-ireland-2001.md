@@ -41,7 +41,7 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by Articles 3(2C), 6(5), 7(3) and 36(2) of, and paragraph 8A(1) of Schedule 1 to, the Jobseekers (Northern Ireland) Order 1995[^f00001], sections 22(5), 122(1)(*d*), 132(4)(*b*) and 171(1) and (3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00002], and Articles 9(1)(*c*), 11, 13(1)(*b*) and 74(1) and (3) of, and paragraph 9 of Schedule 3 to, the Social Security (Northern Ireland) Order 1998[^f00003], sections 5(1)(*j*) and 165 (1) and (4) of the Social Security Administration (Northern Ireland) Act 1992[^f00004], and now vested in it[^f00005], and of all other powers enabling it in that behalf, with the consent of the Department of Finance and Personnel[^f00006] in so far as regulation 6 is concerned, by this statutory rule, which contains only regulations made by virtue of, or consequential upon, Article 56 of, and Schedule 7 to, the Welfare Reform and Pensions (Northern Ireland) Order 1999[^f00007] and which is made before the end of the period of six months beginning with the coming into operation of those provisions[^f00008], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-4c71ff2e328d6a448970882dbcafcbb3]
+## 1. Citation, commencement and interpretation[^c-4c71ff2e328d6a448970882dbcafcbb3]
 
 (1) These Regulations shall be cited as the Social Security (Joint Claims Amendments) Regulations (Northern Ireland) 2001 and shall, subject to paragraph (2), come into operation on 19th March 2001.
 
@@ -49,23 +49,23 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00010] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Jobseeker’s Allowance Regulations[^key-0ecd948360ba7da3985b0a89ec2f0568][^key-0766c09c4ca94875b76ade9070ef742b]
+## 2. Amendment of the Jobseeker’s Allowance Regulations[^c-0ecd948360ba7da3985b0a89ec2f0568][^c-0766c09c4ca94875b76ade9070ef742b]
 
-(1)[^key-0ecd948360ba7da3985b0a89ec2f0568] The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00011] shall be amended in accordance with paragraphs (2) to (7).
+(1)[^c-0ecd948360ba7da3985b0a89ec2f0568] The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00011] shall be amended in accordance with paragraphs (2) to (7).
 
-(2)[^key-0ecd948360ba7da3985b0a89ec2f0568] In regulation 3A(1)[^f00012] (prescribed description of a joint-claim couple for the purposes of Article 3(4) of the Order), after “where at least one member” there shall be inserted “is aged 18 or over and”.
+(2)[^c-0ecd948360ba7da3985b0a89ec2f0568] In regulation 3A(1)[^f00012] (prescribed description of a joint-claim couple for the purposes of Article 3(4) of the Order), after “where at least one member” there shall be inserted “is aged 18 or over and”.
 
-(3)[^key-0ecd948360ba7da3985b0a89ec2f0568] In regulation 3D(1)[^f00013] (further circumstances in which a joint-claim couple may be entitled to a joint-claim jobseeker’s allowance), for sub-paragraph (*c*) there shall be substituted the following sub-paragraph—
+(3)[^c-0ecd948360ba7da3985b0a89ec2f0568] In regulation 3D(1)[^f00013] (further circumstances in which a joint-claim couple may be entitled to a joint-claim jobseeker’s allowance), for sub-paragraph (*c*) there shall be substituted the following sub-paragraph—
 
 > - (c) the other member satisfies the condition in Article 3(2)(*e*) and (*h*) of the Order but is not required to satisfy the other conditions in Article 3(2B)(*b*)[^f00014] of the Order because, subject to paragraph (3), he is a person to whom any paragraph in Schedule A1[^f00015] applies, and
 
 .
 
-(4)[^key-0ecd948360ba7da3985b0a89ec2f0568] In regulation 3E(2)[^f00016] (entitlement of a member of a joint-claim couple to a jobseeker’s allowance without a claim being made jointly by the couple), in both sub-paragraphs (*g*) and (*k*), for “more than 16 hours” there shall be substituted “16 hours or more”.
+(4)[^c-0ecd948360ba7da3985b0a89ec2f0568] In regulation 3E(2)[^f00016] (entitlement of a member of a joint-claim couple to a jobseeker’s allowance without a claim being made jointly by the couple), in both sub-paragraphs (*g*) and (*k*), for “more than 16 hours” there shall be substituted “16 hours or more”.
 
-(5)[^key-0766c09c4ca94875b76ade9070ef742b] At the end of regulation 47(4)(*b*)(ii)[^f00017] (jobseeking period), there shall be added “or on which the claimant is a member of a joint-claim couple and a joint-claim jobseeker’s allowance is not payable or is reduced because he is subject to sanctions by virtue of Article 22A[^f00018] of the Order”.
+(5)[^c-0766c09c4ca94875b76ade9070ef742b] At the end of regulation 47(4)(*b*)(ii)[^f00017] (jobseeking period), there shall be added “or on which the claimant is a member of a joint-claim couple and a joint-claim jobseeker’s allowance is not payable or is reduced because he is subject to sanctions by virtue of Article 22A[^f00018] of the Order”.
 
-(6)[^key-0ecd948360ba7da3985b0a89ec2f0568] In Schedule A1 (categories of members of a joint-claim couple who are not required to satisfy the conditions in Article 3(2B)(*b*) of the Order)—
+(6)[^c-0ecd948360ba7da3985b0a89ec2f0568] In Schedule A1 (categories of members of a joint-claim couple who are not required to satisfy the conditions in Article 3(2B)(*b*) of the Order)—
 
 - (a) in the heading, for “Regulation 3D(1)(*c*)(iii)” there shall be substituted “Regulation 3D(1)(*c*)”;
 - (b) for paragraph 2(1) and (2) there shall be substituted the following sub-paragraphs—
@@ -96,9 +96,9 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 
   .
 
-(7)[^key-0ecd948360ba7da3985b0a89ec2f0568] In the first column of paragraph 20M(4)(i) of Schedule 1[^f00019] (applicable amounts), for “20I(3)” there shall be substituted “20I(4)”.
+(7)[^c-0ecd948360ba7da3985b0a89ec2f0568] In the first column of paragraph 20M(4)(i) of Schedule 1[^f00019] (applicable amounts), for “20I(3)” there shall be substituted “20I(4)”.
 
-## 3. Amendment of the Social Security (Credits) Regulations[^key-6b0870930d403ce5a80d0116001e6fd2]
+## 3. Amendment of the Social Security (Credits) Regulations[^c-6b0870930d403ce5a80d0116001e6fd2]
 
 In regulation 8A(5) of the Social Security (Credits) Regulations (Northern Ireland) 1975[^f00020] (credits for unemployment)—
 
@@ -113,7 +113,7 @@ In regulation 8A(5) of the Social Security (Credits) Regulations (Northern Irela
 
   .
 
-## 4. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-acbd3eb979e8fd690ce3fd4def5b2d1d]
+## 4. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^c-acbd3eb979e8fd690ce3fd4def5b2d1d]
 
 In the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00022]—
 
@@ -140,7 +140,7 @@ In the Social Security and Child Support (Decisions and Appeals) Regulations (No
 
     .
 
-## 5. Amendment of the Social Security (Claims and Payments) Regulations[^key-7702a1b2ea67f462ab3d5a117ad1f693][^key-8a531e7c21d57e6aa38851dc6ed5eb66]
+## 5. Amendment of the Social Security (Claims and Payments) Regulations[^c-7702a1b2ea67f462ab3d5a117ad1f693][^c-8a531e7c21d57e6aa38851dc6ed5eb66]
 
 After regulation 30 of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00026] (payments on death), there shall be inserted the following regulation—
 
@@ -156,7 +156,7 @@ After regulation 30 of the Social Security (Claims and Payments) Regulations (No
 
 .
 
-## 6. Amendment of the Housing Benefit (General) Regulations[^key-672967ea196dd85069018834911fef1e]
+## 6. Amendment of the Housing Benefit (General) Regulations[^c-672967ea196dd85069018834911fef1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -221,15 +221,15 @@ These Regulations do not impose any charge on business.
 
 [^f00008]: Footnote: *See* section 150(5)(*b*) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-4c71ff2e328d6a448970882dbcafcbb3]: Commencement: Reg. 1 in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/120/regulation/1/1)
+[^c-4c71ff2e328d6a448970882dbcafcbb3]: Commencement: Reg. 1 in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/120/regulation/1/1)
 
 [^f00009]: Footnote: [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
 
 [^f00010]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-0ecd948360ba7da3985b0a89ec2f0568]: Commencement: Reg. 2(1)-(4)(6)(7) in operation at 19.3.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/120/regulation/1/2)
+[^c-0ecd948360ba7da3985b0a89ec2f0568]: Commencement: Reg. 2(1)-(4)(6)(7) in operation at 19.3.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/120/regulation/1/2)
 
-[^key-0766c09c4ca94875b76ade9070ef742b]: Commencement: Reg. 2(5) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/120/regulation/1/1)
+[^c-0766c09c4ca94875b76ade9070ef742b]: Commencement: Reg. 2(5) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/120/regulation/1/1)
 
 [^f00011]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Regulations are [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358) and [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
 
@@ -249,13 +249,13 @@ These Regulations do not impose any charge on business.
 
 [^f00019]: Footnote: Paragraph 20M was inserted by regulation 2(5) of, and paragraph 53(4) of Schedule 2 to, [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
 
-[^key-6b0870930d403ce5a80d0116001e6fd2]: Commencement: Reg. 3 in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/120/regulation/1/1)
+[^c-6b0870930d403ce5a80d0116001e6fd2]: Commencement: Reg. 3 in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/120/regulation/1/1)
 
 [^f00020]: Footnote: [S.R. 1975 No. 113](https://www.legislation.gov.uk/nisr/1975/113); regulation 8A was inserted by regulation 2(6) of [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430)
 
 [^f00021]: Footnote: Regulation 146C was inserted by regulation 2(3) of [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
 
-[^key-acbd3eb979e8fd690ce3fd4def5b2d1d]: Commencement: Reg. 4 in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/120/regulation/1/1)
+[^c-acbd3eb979e8fd690ce3fd4def5b2d1d]: Commencement: Reg. 4 in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/120/regulation/1/1)
 
 [^f00022]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162); relevant amending Regulations are [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215)
 
@@ -265,12 +265,12 @@ These Regulations do not impose any charge on business.
 
 [^f00025]: Footnote: Article 5A was inserted by Article 56 of, and paragraph 5(2) of Schedule 7 to, the Welfare Reform and Pensions (Northern Ireland) Order 1999
 
-[^key-7702a1b2ea67f462ab3d5a117ad1f693]: Commencement: Reg. 5 in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/120/regulation/1/1)
+[^c-7702a1b2ea67f462ab3d5a117ad1f693]: Commencement: Reg. 5 in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/120/regulation/1/1)
 
-[^key-8a531e7c21d57e6aa38851dc6ed5eb66]: Modification: [Reg. 5](https://www.legislation.gov.uk/nisr/2001/120/regulation/5) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-8a531e7c21d57e6aa38851dc6ed5eb66]: Modification: [Reg. 5](https://www.legislation.gov.uk/nisr/2001/120/regulation/5) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^f00026]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465)
 
 [^f00027]: Footnote: Article 5B was inserted by Article 56 of, and paragraph 5(2) of Schedule 7 to, the Welfare Reform and Pensions (Northern Ireland) Order 1999
 
-[^key-672967ea196dd85069018834911fef1e]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2001/120/regulation/6) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-672967ea196dd85069018834911fef1e]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2001/120/regulation/6) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))

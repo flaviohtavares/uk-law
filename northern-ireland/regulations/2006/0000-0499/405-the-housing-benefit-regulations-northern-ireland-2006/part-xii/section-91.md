@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 91. Payment to be made to a person entitled[^key-48689ce65d4feb5d650bb083298fdc9e]
+## 91. Payment to be made to a person entitled[^c-48689ce65d4feb5d650bb083298fdc9e]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48689ce65d4feb5d650bb083298fdc9e]: Commencement: [Reg. 91](https://www.legislation.gov.uk/nisr/2006/405/regulation/91) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-48689ce65d4feb5d650bb083298fdc9e]: Commencement: [Reg. 91](https://www.legislation.gov.uk/nisr/2006/405/regulation/91) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)

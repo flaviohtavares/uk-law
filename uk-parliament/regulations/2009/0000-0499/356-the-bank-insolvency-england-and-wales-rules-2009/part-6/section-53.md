@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Entitlement to vote (creditors)[^key-237e5d4069c2a57f2898edd10adc88b7]
+## 53. Entitlement to vote (creditors)[^c-237e5d4069c2a57f2898edd10adc88b7]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-237e5d4069c2a57f2898edd10adc88b7]: Commencement: Rule 53 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-237e5d4069c2a57f2898edd10adc88b7]: Commencement: Rule 53 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00020]: Footnote: Rule 4.67) was amended by [S.I. 2002/1307](https://www.legislation.gov.uk/uksi/2002/1307).

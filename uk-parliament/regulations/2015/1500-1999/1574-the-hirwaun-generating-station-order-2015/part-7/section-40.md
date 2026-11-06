@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Guarantees in respect of payment of compensation[^key-223a4d31d9aa8b87cae84ce1259b44bd]
+## 40. Guarantees in respect of payment of compensation[^c-223a4d31d9aa8b87cae84ce1259b44bd]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-223a4d31d9aa8b87cae84ce1259b44bd]: Commencement: Art. 40 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-223a4d31d9aa8b87cae84ce1259b44bd]: Commencement: Art. 40 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)

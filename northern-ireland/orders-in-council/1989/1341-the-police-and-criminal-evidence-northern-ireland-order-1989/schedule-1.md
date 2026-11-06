@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 1 — SPECIAL PROCEDURE[^key-8d0034c48c0e0d49d898de96e8ddb7aa][^key-d58031e5df5f5dae59003d7a5fe6e602]
+## SCHEDULE 1 — SPECIAL PROCEDURE[^c-8d0034c48c0e0d49d898de96e8ddb7aa][^c-d58031e5df5f5dae59003d7a5fe6e602]
 
 *Extent: N.I.*
 
@@ -115,9 +115,9 @@ he may issue a warrant authorising a constable to enter and search the premises 
 
 ## Annotations
 
-[^key-8d0034c48c0e0d49d898de96e8ddb7aa]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisi/1989/1341/schedule/1) applied (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [3-6](https://www.legislation.gov.uk/uksi/2026/117/regulation/3), [8](https://www.legislation.gov.uk/uksi/2026/117/regulation/8), [9(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/9/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/117/schedule/1)
+[^c-8d0034c48c0e0d49d898de96e8ddb7aa]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisi/1989/1341/schedule/1) applied (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [3-6](https://www.legislation.gov.uk/uksi/2026/117/regulation/3), [8](https://www.legislation.gov.uk/uksi/2026/117/regulation/8), [9(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/9/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/117/schedule/1)
 
-[^key-d58031e5df5f5dae59003d7a5fe6e602]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisi/1989/1341/schedule/1) applied (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [12-15](https://www.legislation.gov.uk/uksi/2026/117/regulation/12), [17](https://www.legislation.gov.uk/uksi/2026/117/regulation/17), [18(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/18/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/117/schedule/2)
+[^c-d58031e5df5f5dae59003d7a5fe6e602]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisi/1989/1341/schedule/1) applied (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [12-15](https://www.legislation.gov.uk/uksi/2026/117/regulation/12), [17](https://www.legislation.gov.uk/uksi/2026/117/regulation/17), [18(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/18/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/117/schedule/2)
 
 [^c20464411]: Textual amendment: Words in [Sch. 1 para. 2(a)(i)](https://www.legislation.gov.uk/nisi/1989/1341/schedule/1/paragraph/2/a/i) substituted (1.3.2007) by [Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/288 (N.I. 2))](https://www.legislation.gov.uk/nisi/2007/288), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2007/288/article/1/2), [8(2)](https://www.legislation.gov.uk/nisi/2007/288/article/8/2)
 

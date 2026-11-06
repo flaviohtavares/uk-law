@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. General interpretation[^key-d7965361b1cd68126e69e3e79bdee5e2]
+## 2. General interpretation[^c-d7965361b1cd68126e69e3e79bdee5e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 - “the 1998 Act” means the Police (Northern Ireland) Act 1998[^f00002];
 - “the 2002 Act” means the Police Reform Act 2002[^f00003];
 - “the Appeals Tribunals Regulations” means the Regulations set out in Schedule 5;
-- “[^key-77552a22f9ba2cbf36da7bc3b2102b5f]**the Barred List and Advisory List Regulations 2026**” means the Ministry of Defence Police (Barred List and Advisory List) Regulations 2026;
+- “[^c-77552a22f9ba2cbf36da7bc3b2102b5f]**the Barred List and Advisory List Regulations 2026**” means the Ministry of Defence Police (Barred List and Advisory List) Regulations 2026;
 - “the Commissioner” means the officer known as the Police Investigations and Review Commissioner, established under section 33 of the Police, Public Order and Criminal Justice (Scotland) Act 2006[^f00004];
 - “complainant” means a person who makes a complaint, or on behalf of whom a complaint is made, where that complaint is being or has been investigated under external procedures established for England and Wales, Northern Ireland or Scotland;
 - “complaint” means an expression of dissatisfaction about the conduct of an MDP officer which has been investigated under external procedures established for England and Wales, Northern Ireland or Scotland;
@@ -48,14 +48,14 @@ summary: ''
 - “MDP” means Ministry of Defence Police;
 - “**the MDP barred list**” has the meaning given in section 211 of the Crime and Policing Act 2026;
 - “MDP officer” means a member of the MDP;
-- “[^key-a2275ac1089828ba6b68d4704e06aac4]**MDP staff member**” means a staff member who is under the direction and control of the chief constable;
+- “[^c-a2275ac1089828ba6b68d4704e06aac4]**MDP staff member**” means a staff member who is under the direction and control of the chief constable;
 - “Ombudsman” means the Police Ombudsman for Northern Ireland[^f00010];
 - “the Performance Regulations” means the Regulations set out in Schedule 4;
 - “pre-commencement allegation” means an allegation against an MDP officer which came to the attention of a relevant authority before the coming into force of these Regulations;
 - “relevant force” has the meaning given in section 2B(3) of the 1987 Act[^f00011];
 - “relevant lawyer” has the meaning given in section 4(4) of the 1987 Act;
 - “staff member” means any person other than an MDP officer who is employed by the Secretary of State for Defence;
-- “[^key-dd0fa6bc5e7485dfffb62fad16d1c936]**the Vetting Regulations**” means the Ministry of Defence Police (Vetting) Regulations 2026;
+- “[^c-dd0fa6bc5e7485dfffb62fad16d1c936]**the Vetting Regulations**” means the Ministry of Defence Police (Vetting) Regulations 2026;
 - “senior officer” means a member of the MDP holding a rank above that of chief superintendent;
 - “working day” means any day other than—
   - (a) a Saturday or Sunday,
@@ -64,13 +64,13 @@ summary: ''
 
 ## Annotations
 
-[^key-d7965361b1cd68126e69e3e79bdee5e2]: Commencement: Reg. 2 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-d7965361b1cd68126e69e3e79bdee5e2]: Commencement: Reg. 2 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
 [^f00002]: Footnote: [1998 c. 32](https://www.legislation.gov.uk/ukpga/1998/32).
 
 [^f00003]: Footnote: [2002 c. 30](https://www.legislation.gov.uk/ukpga/2002/30).
 
-[^key-77552a22f9ba2cbf36da7bc3b2102b5f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2020/1087/regulation/2) inserted (21.9.2026) by [The Ministry of Defence Police (Barred List and Advisory List) Regulations 2026 (S.I. 2026/769)](https://www.legislation.gov.uk/uksi/2026/769), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/769/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2026/769/regulation/14)
+[^c-77552a22f9ba2cbf36da7bc3b2102b5f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2020/1087/regulation/2) inserted (21.9.2026) by [The Ministry of Defence Police (Barred List and Advisory List) Regulations 2026 (S.I. 2026/769)](https://www.legislation.gov.uk/uksi/2026/769), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/769/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2026/769/regulation/14)
 
 [^f00004]: Footnote: [2006 asp. 10](https://www.legislation.gov.uk/asp/2006/10). Section 33 was amended by section 61 of the Police and Fire Reform (Scotland) Act [2020 (asp. 8)](https://www.legislation.gov.uk/asp/2020/8).
 
@@ -84,12 +84,12 @@ summary: ''
 
 [^f00009]: Footnote: [2006 asp. 10](https://www.legislation.gov.uk/asp/2006/10).
 
-[^key-a2275ac1089828ba6b68d4704e06aac4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/1087/regulation/2/1) inserted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2026/1021/regulation/3)
+[^c-a2275ac1089828ba6b68d4704e06aac4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/1087/regulation/2/1) inserted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2026/1021/regulation/3)
 
 [^f00010]: Footnote: The Police Ombudsman for Northern Ireland is established by s. 51 of the Police (Northern Ireland) Act [1998 (c. 32)](https://www.legislation.gov.uk/ukpga/1998/32).
 
 [^f00011]: Footnote: Section 2B was inserted by section 78 of the Police Reform Act [2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30) and the definition of “relevant force” was amended by paragraph 5 of Schedule 14 and paragraph 1 of Schedule 23 to the Energy Act [2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [S.I. 2013/602](https://www.legislation.gov.uk/uksi/2013/602).
 
-[^key-dd0fa6bc5e7485dfffb62fad16d1c936]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2020/1087/regulation/2) inserted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2026/428/regulation/32)
+[^c-dd0fa6bc5e7485dfffb62fad16d1c936]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2020/1087/regulation/2) inserted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2026/428/regulation/32)
 
 [^f00012]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).

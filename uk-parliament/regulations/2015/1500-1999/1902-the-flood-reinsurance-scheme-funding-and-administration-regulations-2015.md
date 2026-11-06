@@ -48,14 +48,14 @@ A draft of these Regulations has been laid before and approved by a resolution o
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-7545537ca7ecd7859d469daed83463df]
+### 1. Citation and commencement[^c-7545537ca7ecd7859d469daed83463df]
 
 These Regulations—
 
 - (a) may be cited as the Flood Reinsurance (Scheme Funding and Administration) Regulations 2015; and
 - (b) come into force on the day after the day on which they were made.
 
-### 2. Interpretation[^key-8f0dc7f533a8856d6efcd6008cb27ac2]
+### 2. Interpretation[^c-8f0dc7f533a8856d6efcd6008cb27ac2]
 
 In these Regulations—
 
@@ -79,7 +79,7 @@ In these Regulations—
 
 ## PART 2 — Definitions for the purposes of the Act
 
-### 3. Definition of “relevant insurer”[^key-f719ab80cf185a4f18ece67563234fde]
+### 3. Definition of “relevant insurer”[^c-f719ab80cf185a4f18ece67563234fde]
 
 (1) For the purposes of Part 4 of the Act, an insurer[^f00006] is a relevant insurer in a financial year if the insurer—
 
@@ -92,7 +92,7 @@ In these Regulations—
 
 (2) For the purposes of paragraph (1)(b), an insurer who falls within paragraph (1)(b)(i) shall be taken to fall within paragraph (1)(b)(ii), unless the contrary is shown by the insurer to the reasonable satisfaction of the FR Scheme administrator.
 
-### 4. Definition of “flood”[^key-82dceed44711536d72be527ab3ec3580]
+### 4. Definition of “flood”[^c-82dceed44711536d72be527ab3ec3580]
 
 (1) For the purposes of sections 64 to 69 of the Act, “flood” means water, from any source external to a building, which enters a building—
 
@@ -108,7 +108,7 @@ In these Regulations—
 - (a) the gradual seepage or percolation of water into a building (such as rising damp);
 - (b) water escaping from a water main, drain, sewer, pipe or other thing inside a building, unless such escape was solely the consequence of a flood falling within paragraph (1).
 
-### 5. Definition of “household premises”[^key-d9666354efdc2261bb9d0c7447e5e2b3]
+### 5. Definition of “household premises”[^c-d9666354efdc2261bb9d0c7447e5e2b3]
 
 For the purposes of sections 64 to 69 of the Act, “household premises” means—
 
@@ -119,7 +119,7 @@ For the purposes of sections 64 to 69 of the Act, “household premises” means
 
 ## PART 3 — FR Scheme Funding
 
-### 6. Gross written premium[^key-7f8337bbafefe0fca28b8f4870d2cfc9]
+### 6. Gross written premium[^c-7f8337bbafefe0fca28b8f4870d2cfc9]
 
 (1) For the purposes of this Part, a relevant insurer’s “gross written premium” means the aggregate sterling amount paid or payable by, or on behalf of, holders of home insurance for the relevant risk element of home insurance, before the deduction of any amount (including commission), but after the deduction of insurance premium tax[^f00009].
 
@@ -138,11 +138,11 @@ For the purposes of sections 64 to 69 of the Act, “household premises” means
 - (a) a dwelling;
 - (b) the contents of a dwelling.
 
-### 7. Provision of information by relevant insurers[^key-f504de5774bfd71994145b3702727c33]
+### 7. Provision of information by relevant insurers[^c-f504de5774bfd71994145b3702727c33]
 
 Within 30 days of receipt of a written request, a relevant insurer must provide to the FR Scheme administrator such information as the FR Scheme administrator may request relating to the gross written premium for that relevant insurer for the preceding calendar year.
 
-### 8. Calculation of the levy[^key-20663b007695dc65302063b82c62ea6b]
+### 8. Calculation of the levy[^c-20663b007695dc65302063b82c62ea6b]
 
 (1) A relevant insurer must pay to the FR Scheme administrator a levy for each financial year from (and including) the financial year commencing 1st April 2016, calculated in accordance with the following formula—
 
@@ -150,7 +150,7 @@ Within 30 days of receipt of a written request, a relevant insurer must provide 
 
 (2) For the purposes of the formula in paragraph (1)—
 
-- (a) “TL” means the total levy of £160 million[^key-901aeb1c8560ea5aa427577f2dbde455];
+- (a) “TL” means the total levy of £160 million[^c-901aeb1c8560ea5aa427577f2dbde455];
 - (b) “X” means the relevant insurer’s gross written premium for the preceding calendar year unless paragraph (3) applies, in which case, “X” is determined in accordance with that paragraph; and
 - (c) “Y” means the sum of all relevant insurers’ “X” for the preceding calendar year.
 
@@ -158,7 +158,7 @@ Within 30 days of receipt of a written request, a relevant insurer must provide 
 
 (4) The FR Scheme administrator must calculate the levy payable under paragraph (1) by a relevant insurer on the basis of the information reasonably available at the time a request for an instalment is made under regulation 9(1) or (2).
 
-### 9. Payment of the levy by instalments and adjustments to instalments[^key-250282c4b913940cfbc37ddee6bd78b8]
+### 9. Payment of the levy by instalments and adjustments to instalments[^c-250282c4b913940cfbc37ddee6bd78b8]
 
 (1) For each financial year, the levy under regulation 8 is due on 1st April and is payable by each relevant insurer by such instalments and at such times as the FR Scheme administrator thinks fit and no later than 30 days following a request in writing by the FR Scheme administrator.
 
@@ -166,18 +166,18 @@ Within 30 days of receipt of a written request, a relevant insurer must provide 
 
 (3) No adjustments to instalments may be made more than 2 years after the date on which the levy becomes due under paragraphs (1) or (2).
 
-### 10. Payment of additional levy or contributions[^key-cd7c66b638a7040f2e5030c288aeed96]
+### 10. Payment of additional levy or contributions[^c-cd7c66b638a7040f2e5030c288aeed96]
 
 (1) A relevant insurer must pay by levy any additional amount requested in writing from time to time by the FR Scheme administrator in accordance with the FR Scheme and regulation 11.
 
 (2) The obligation in paragraph (1) does not apply if the relevant insurer has received a request from the FR Scheme administrator to pay the additional amount by way of contribution, and such contribution has been paid by the relevant insurer in accordance with the requirements of the FR Scheme administrator.
 
-### 11. Requirements for request of additional levy or contributions[^key-8aa42267a8972814f336616c61f5ce10]
+### 11. Requirements for request of additional levy or contributions[^c-8aa42267a8972814f336616c61f5ce10]
 
 (1) When making a request for payment of the levy under regulation 10(1), or when making a request for the contribution referred to in regulation 10(2), the FR Scheme administrator must ensure that—
 
 - (a) the total additional amount requested from all relevant insurers at any one time is no more than the amount that the FR Scheme administrator considers—
-  - (i) necessary to comply with any obligation which the FR Scheme administrator is subject to under or by virtue of the Financial Services and Markets Act 2000, or any obligation arising from assimilated direct[^key-ba79f9e946d6993e481a69b58ed4d77d] legislation; or
+  - (i) necessary to comply with any obligation which the FR Scheme administrator is subject to under or by virtue of the Financial Services and Markets Act 2000, or any obligation arising from assimilated direct[^c-ba79f9e946d6993e481a69b58ed4d77d] legislation; or
   - (ii) appropriate for the prudent management of the FR Scheme;
 - (b) the amount requested from a relevant insurer shall be calculated in accordance with the following formula—
 
@@ -190,7 +190,7 @@ Within 30 days of receipt of a written request, a relevant insurer must provide 
 
 (3) Within 30 days of each request, the FR Scheme administrator must notify the Secretary of State of the amount requested and the reasons for the request.
 
-### 12. Adjustments to payments of additional amounts[^key-551023ac65cff33cd6df8a3e24bd78f2]
+### 12. Adjustments to payments of additional amounts[^c-551023ac65cff33cd6df8a3e24bd78f2]
 
 (1) The FR Scheme administrator must—
 
@@ -199,7 +199,7 @@ Within 30 days of receipt of a written request, a relevant insurer must provide 
 
 (2) No adjustments to the amounts requested may be made more than 2 years after the date on which the request for the levy or contribution was made.
 
-### 13. Application of levy or contributions collected[^key-6005be29376f38662665be4db7dee6d1]
+### 13. Application of levy or contributions collected[^c-6005be29376f38662665be4db7dee6d1]
 
 (1) The FR Scheme administrator must only use the levy collected under regulation 8 or 10(1), or any contribution referred to in regulation 10(2), for—
 
@@ -210,7 +210,7 @@ Within 30 days of receipt of a written request, a relevant insurer must provide 
 
 (3) Paragraph (2) does not affect the requirement in regulation 12(1)(b) to make an adjustment.
 
-### 14. Recovery of amounts due as a civil debt[^key-766d3e6f5a875f026659e1c8c35c322c]
+### 14. Recovery of amounts due as a civil debt[^c-766d3e6f5a875f026659e1c8c35c322c]
 
 (1) This regulation applies where a sum payable by a relevant insurer under regulation 8 or 10(1) remains unpaid 30 days after the date of the request in writing referred to in regulation 9(1) or (2), 10(1) or 12(1)(b).
 
@@ -218,7 +218,7 @@ Within 30 days of receipt of a written request, a relevant insurer must provide 
 
 ## PART 4 — Reinsurance Premium Thresholds
 
-### 15. FR Scheme reinsurance premium thresholds: England and Scotland[^key-529a6be3c442aeaa2097e6584b29bbc2]
+### 15. FR Scheme reinsurance premium thresholds: England and Scotland[^c-529a6be3c442aeaa2097e6584b29bbc2]
 
 (1) This regulation applies where—
 
@@ -234,7 +234,7 @@ Within 30 days of receipt of a written request, a relevant insurer must provide 
 - (a) the relevant valuation band for household premises in England shall be the same as set out in section 5(2) of the Local Government Finance Act 1992[^f00010];
 - (b) the relevant valuation band for household premises in Scotland shall be the same as set out in section 74(2) of the Local Government Finance Act 1992.
 
-### 16. FR Scheme reinsurance premium thresholds: Wales[^key-6583605cfafd7b330d5717e49d21ced3]
+### 16. FR Scheme reinsurance premium thresholds: Wales[^c-6583605cfafd7b330d5717e49d21ced3]
 
 (1) This regulation applies where—
 
@@ -247,7 +247,7 @@ Within 30 days of receipt of a written request, a relevant insurer must provide 
 
 (4) For the purposes of paragraphs (2) and (3), the relevant valuation band for household premises in Wales shall be the same as set out in section 5(3) of the Local Government Finance Act 1992[^f00011].
 
-### 17. FR Scheme reinsurance premium thresholds: Northern Ireland[^key-0a44fcdafb01272358298e4348aeb29b]
+### 17. FR Scheme reinsurance premium thresholds: Northern Ireland[^c-0a44fcdafb01272358298e4348aeb29b]
 
 (1) This regulation applies where—
 
@@ -271,14 +271,14 @@ Within 30 days of receipt of a written request, a relevant insurer must provide 
 | Values exceeding £260,000 but not exceeding £450,000 | 7 |
 | Values exceeding £450,000 | 8 |
 
-### 18. Relevant valuation band or Flood Re category for household premises[^key-ce8c9f0c8cb13631fd6f08bce96182f3]
+### 18. Relevant valuation band or Flood Re category for household premises[^c-ce8c9f0c8cb13631fd6f08bce96182f3]
 
 For the purposes of regulations 15(4), 16(4) and 17(4) the relevant valuation band or Flood Re category for relevant household premises is—
 
 - (a) in a case within paragraph (a) of the definition of “household premises”, the valuation band or Flood Re category applicable to the dwelling; and
 - (b) in a case within paragraph (b) of that definition, the valuation band or Flood Re category applicable to the residential unit occupied by the holder of the combined policy, buildings policy or contents policy for the household premises.
 
-### 19. Calculation of reinsurance premium thresholds[^key-f62b23fa49d9a2830624fd998fe728cb]
+### 19. Calculation of reinsurance premium thresholds[^c-f62b23fa49d9a2830624fd998fe728cb]
 
 (1) For the financial year commencing on 1st April 2017, and each subsequent financial year, each amount set out in Tables 1, 2 and 3 in the Schedule is to be substituted with an amount calculated in accordance with the following formula—
 
@@ -295,7 +295,7 @@ With the resulting figure being stated to two decimal places and rounded to the 
 
 ## PART 5 — FR Scheme Administration
 
-### 20. Exercise of the FR Scheme administrator’s functions[^key-367da385933aa9d39f82250d4d2ad482]
+### 20. Exercise of the FR Scheme administrator’s functions[^c-367da385933aa9d39f82250d4d2ad482]
 
 The FR Scheme administrator must have regard to the following in discharging its functions—
 
@@ -303,7 +303,7 @@ The FR Scheme administrator must have regard to the following in discharging its
 - (b) the need to act in the public interest; and
 - (c) the need to ensure propriety and regularity in the operation of the FR Scheme.
 
-### 21. Restrictions on the exercise of the FR Scheme administrator’s functions[^key-84545207fae0a2a84a989a4df10ecdc6]
+### 21. Restrictions on the exercise of the FR Scheme administrator’s functions[^c-84545207fae0a2a84a989a4df10ecdc6]
 
 (1) When discharging its functions, the FR Scheme administrator must comply with the following conditions—
 
@@ -314,7 +314,7 @@ The FR Scheme administrator must have regard to the following in discharging its
 
 (2) For the purposes of paragraph (1)(a), “borrowed amount” means the total amount outstanding at the end of a financial year in respect of any sums borrowed by the FR Scheme administrator, and includes any bank loans or overdraft, or other temporary borrowing (including amounts which the FR Scheme administrator owes to suppliers in respect of products or services acquired), but does not include contributions, or any amounts owed by the FR Scheme administrator in respect of any contract of reinsurance.
 
-### 22. Transition to risk reflective pricing of flood insurance[^key-ae3d1b4e2d98b1c3b7ebfe12bd525f6c]
+### 22. Transition to risk reflective pricing of flood insurance[^c-ae3d1b4e2d98b1c3b7ebfe12bd525f6c]
 
 (1) The FR Scheme administrator must have regard to the need to manage, over the period of operation of the FR Scheme, the transition to risk-reflective pricing of flood insurance for household premises.
 
@@ -330,7 +330,7 @@ The FR Scheme administrator must have regard to the following in discharging its
 
 (5) The FR Scheme administrator must publish the transition plan and any subsequent updated transition plan by placing it on its website.
 
-### 23. The Responsible Officer[^key-cb2e266fbc5f57605af96ad3ef73d230]
+### 23. The Responsible Officer[^c-cb2e266fbc5f57605af96ad3ef73d230]
 
 (1) The FR Scheme administrator must designate the person who acts as its Chief Executive Officer as the responsible officer of the FR Scheme.
 
@@ -342,7 +342,7 @@ The FR Scheme administrator must have regard to the following in discharging its
 - (d) accountability to Parliament in respect of any reports laid under regulation 24;
 - (e) the laying of a copy of the audited accounts of the FR Scheme and the annual report of its auditor before Parliament, no later than 3 months after the end of the financial year to which those accounts and annual report apply.
 
-### 24. Powers of the Comptroller and Auditor General[^key-30b86572089c25a26b95fa072f7e3f34]
+### 24. Powers of the Comptroller and Auditor General[^c-30b86572089c25a26b95fa072f7e3f34]
 
 (1) The Comptroller and Auditor General may carry out examinations into—
 
@@ -355,11 +355,11 @@ The FR Scheme administrator must have regard to the following in discharging its
 
 (4) The Comptroller and Auditor General may lay any reports on examinations carried out under paragraph (1) before Parliament.
 
-### 25. Provision of information by the FR Scheme administrator[^key-04420ccc361807a9caf3bc6756b66bad]
+### 25. Provision of information by the FR Scheme administrator[^c-04420ccc361807a9caf3bc6756b66bad]
 
 If, and in so far as, the FR Scheme has an effect on public accounts, the FR Scheme administrator must provide to the Secretary of State any information in relation to the FR Scheme which the Secretary of State reasonably requires for the purposes of government accounting.
 
-### 26. Provision of information to relevant insurers[^key-466d2d55d2dbb6a6c830b6fe5c227fa6]
+### 26. Provision of information to relevant insurers[^c-466d2d55d2dbb6a6c830b6fe5c227fa6]
 
 By 1st April of each year, the FR Scheme administrator must provide the following information to relevant insurers who have effected a buildings policy, contents policy or combined policy reinsured under the FR Scheme in the immediately preceding financial year, for the purposes of enabling those insurers to supply that information to holders of those policies—
 
@@ -367,7 +367,7 @@ By 1st April of each year, the FR Scheme administrator must provide the followin
 - (b) general information about the FR Scheme; and
 - (c) general information about the estimated impact of the transition referred to in regulation 22(1) on the cost of those insurance policies.
 
-### 27. Review and report on the FR Scheme[^key-59dd8b36bd1aa93cc6ec8839de3d4358]
+### 27. Review and report on the FR Scheme[^c-59dd8b36bd1aa93cc6ec8839de3d4358]
 
 (1) During each review period, the FR Scheme administrator must produce at least one report which—
 
@@ -388,7 +388,7 @@ By 1st April of each year, the FR Scheme administrator must provide the followin
 
 (6) In this regulation, “review period” means the period of 5 years ending 31st March 2021 and each successive period of 5 years.
 
-### 28. Report on the total amount of contributions requested[^key-7e87ab75c0dc5c1a42ac833fa7542b49]
+### 28. Report on the total amount of contributions requested[^c-7e87ab75c0dc5c1a42ac833fa7542b49]
 
 (1) If the total net additional amount by way of contribution requested by the FR Scheme administrator exceeds £100 million at any time, the FR Scheme administrator must produce a report to the Secretary of State which—
 
@@ -401,7 +401,7 @@ By 1st April of each year, the FR Scheme administrator must provide the followin
 
 ## PART 6 — Amendment of the Act
 
-**29.**[^key-29720538c128456169e1353476233138] In section 69 of the Act (disclosure of HMRC council tax information), in subsection (3)(d), for “Land and Property” substitute “Address”.
+**29.**[^c-29720538c128456169e1353476233138] In section 69 of the Act (disclosure of HMRC council tax information), in subsection (3)(d), for “Land and Property” substitute “Address”.
 
 We consent
 
@@ -417,7 +417,7 @@ Parliamentary Under Secretary of State
 
 Department for Environment, Food and Rural Affairs
 
-## SCHEDULE — Reinsurance Premium Thresholds[^key-a92bb8f7fcd2382b4ba1516737788c45]
+## SCHEDULE — Reinsurance Premium Thresholds[^c-a92bb8f7fcd2382b4ba1516737788c45]
 
 Regulations 15, 16 and 17
 
@@ -521,9 +521,9 @@ As a tax measure, an Impact Assessment (IA) is not required alongside these Regu
 
 [^f00001]: Footnote: [2014 c.21](https://www.legislation.gov.uk/ukpga/2014/21).
 
-[^key-7545537ca7ecd7859d469daed83463df]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
+[^c-7545537ca7ecd7859d469daed83463df]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
 
-[^key-8f0dc7f533a8856d6efcd6008cb27ac2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1902/regulation/2) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
+[^c-8f0dc7f533a8856d6efcd6008cb27ac2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1902/regulation/2) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
 
 [^f00002]: Footnote: [S.I. 2015/1875](https://www.legislation.gov.uk/uksi/2015/1875)
 
@@ -533,7 +533,7 @@ As a tax measure, an Impact Assessment (IA) is not required alongside these Regu
 
 [^f00005]: Footnote: [1968 c.52](https://www.legislation.gov.uk/ukpga/1968/52). Section 13(2) was amended by [S.I. 2006/2374](https://www.legislation.gov.uk/uksi/2006/2374) and [S.I. 2007/3163](https://www.legislation.gov.uk/uksi/2007/3163).
 
-[^key-f719ab80cf185a4f18ece67563234fde]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1902/regulation/3) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
+[^c-f719ab80cf185a4f18ece67563234fde]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1902/regulation/3) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
 
 [^f00006]: Footnote: For the definition of insurer, see section 82(1) of the Act.
 
@@ -541,66 +541,66 @@ As a tax measure, an Impact Assessment (IA) is not required alongside these Regu
 
 [^f00008]: Footnote: [1982 c.xiv](https://www.legislation.gov.uk/ukla/1982/14).
 
-[^key-82dceed44711536d72be527ab3ec3580]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/1902/regulation/4) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
+[^c-82dceed44711536d72be527ab3ec3580]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/1902/regulation/4) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
 
-[^key-d9666354efdc2261bb9d0c7447e5e2b3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/1902/regulation/5) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
+[^c-d9666354efdc2261bb9d0c7447e5e2b3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/1902/regulation/5) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
 
-[^key-7f8337bbafefe0fca28b8f4870d2cfc9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/1902/regulation/6) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
+[^c-7f8337bbafefe0fca28b8f4870d2cfc9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/1902/regulation/6) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
 
 [^f00009]: Footnote: Insurance premium tax is charged on receipt of an insurance premium by a relevant insurer under a taxable insurance contract on or after 1st October 1994. Insurance premium tax was established by sections 48 to 74 of, and Schedules 6A, 7 and 7A to, the Finance Act [1994 (c.9)](https://www.legislation.gov.uk/ukpga/1994/9).
 
-[^key-f504de5774bfd71994145b3702727c33]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/1902/regulation/7) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
+[^c-f504de5774bfd71994145b3702727c33]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/1902/regulation/7) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
 
-[^key-20663b007695dc65302063b82c62ea6b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/1902/regulation/8) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
+[^c-20663b007695dc65302063b82c62ea6b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/1902/regulation/8) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
 
-[^key-901aeb1c8560ea5aa427577f2dbde455]: Textual amendment: Sum in [reg. 8(2)(a)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/8/2/a) substituted (1.4.2025) by [The Flood Reinsurance (Amendment) Regulations 2025 (S.I. 2025/373)](https://www.legislation.gov.uk/uksi/2025/373), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/373/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2025/373/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/373/regulation/2/2))
+[^c-901aeb1c8560ea5aa427577f2dbde455]: Textual amendment: Sum in [reg. 8(2)(a)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/8/2/a) substituted (1.4.2025) by [The Flood Reinsurance (Amendment) Regulations 2025 (S.I. 2025/373)](https://www.legislation.gov.uk/uksi/2025/373), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/373/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2025/373/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/373/regulation/2/2))
 
-[^key-250282c4b913940cfbc37ddee6bd78b8]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/1902/regulation/9) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
+[^c-250282c4b913940cfbc37ddee6bd78b8]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/1902/regulation/9) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
 
-[^key-cd7c66b638a7040f2e5030c288aeed96]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/1902/regulation/10) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
+[^c-cd7c66b638a7040f2e5030c288aeed96]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/1902/regulation/10) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
 
-[^key-8aa42267a8972814f336616c61f5ce10]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/1902/regulation/11) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
+[^c-8aa42267a8972814f336616c61f5ce10]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/1902/regulation/11) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
 
-[^key-ba79f9e946d6993e481a69b58ed4d77d]: Textual amendment: Words in [reg. 11(1)(a)(i)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/11/1/a/i) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 37](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/37)
+[^c-ba79f9e946d6993e481a69b58ed4d77d]: Textual amendment: Words in [reg. 11(1)(a)(i)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/11/1/a/i) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 37](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/37)
 
-[^key-551023ac65cff33cd6df8a3e24bd78f2]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/1902/regulation/12) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
+[^c-551023ac65cff33cd6df8a3e24bd78f2]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/1902/regulation/12) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
 
-[^key-6005be29376f38662665be4db7dee6d1]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/1902/regulation/13) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
+[^c-6005be29376f38662665be4db7dee6d1]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/1902/regulation/13) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
 
-[^key-766d3e6f5a875f026659e1c8c35c322c]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/1902/regulation/14) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
+[^c-766d3e6f5a875f026659e1c8c35c322c]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/1902/regulation/14) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
 
-[^key-529a6be3c442aeaa2097e6584b29bbc2]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2015/1902/regulation/15) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
+[^c-529a6be3c442aeaa2097e6584b29bbc2]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2015/1902/regulation/15) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
 
 [^f00010]: Footnote: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14).
 
-[^key-6583605cfafd7b330d5717e49d21ced3]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2015/1902/regulation/16) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
+[^c-6583605cfafd7b330d5717e49d21ced3]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2015/1902/regulation/16) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
 
 [^f00011]: Footnote: Section 5(3) of the Local Government Finance Act 1992 was amended by [S.I. 2003/3046](https://www.legislation.gov.uk/uksi/2003/3046).
 
-[^key-0a44fcdafb01272358298e4348aeb29b]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2015/1902/regulation/17) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
+[^c-0a44fcdafb01272358298e4348aeb29b]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2015/1902/regulation/17) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
 
-[^key-ce8c9f0c8cb13631fd6f08bce96182f3]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2015/1902/regulation/18) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
+[^c-ce8c9f0c8cb13631fd6f08bce96182f3]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2015/1902/regulation/18) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
 
-[^key-f62b23fa49d9a2830624fd998fe728cb]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2015/1902/regulation/19) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
+[^c-f62b23fa49d9a2830624fd998fe728cb]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2015/1902/regulation/19) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
 
-[^key-367da385933aa9d39f82250d4d2ad482]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2015/1902/regulation/20) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
+[^c-367da385933aa9d39f82250d4d2ad482]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2015/1902/regulation/20) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
 
-[^key-84545207fae0a2a84a989a4df10ecdc6]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/1902/regulation/21) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
+[^c-84545207fae0a2a84a989a4df10ecdc6]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/1902/regulation/21) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
 
-[^key-ae3d1b4e2d98b1c3b7ebfe12bd525f6c]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2015/1902/regulation/22) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
+[^c-ae3d1b4e2d98b1c3b7ebfe12bd525f6c]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2015/1902/regulation/22) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
 
-[^key-cb2e266fbc5f57605af96ad3ef73d230]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2015/1902/regulation/23) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
+[^c-cb2e266fbc5f57605af96ad3ef73d230]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2015/1902/regulation/23) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
 
-[^key-30b86572089c25a26b95fa072f7e3f34]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2015/1902/regulation/24) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
+[^c-30b86572089c25a26b95fa072f7e3f34]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2015/1902/regulation/24) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
 
-[^key-04420ccc361807a9caf3bc6756b66bad]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2015/1902/regulation/25) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
+[^c-04420ccc361807a9caf3bc6756b66bad]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2015/1902/regulation/25) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
 
-[^key-466d2d55d2dbb6a6c830b6fe5c227fa6]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2015/1902/regulation/26) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
+[^c-466d2d55d2dbb6a6c830b6fe5c227fa6]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2015/1902/regulation/26) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
 
-[^key-59dd8b36bd1aa93cc6ec8839de3d4358]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2015/1902/regulation/27) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
+[^c-59dd8b36bd1aa93cc6ec8839de3d4358]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2015/1902/regulation/27) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
 
-[^key-7e87ab75c0dc5c1a42ac833fa7542b49]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2015/1902/regulation/28) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
+[^c-7e87ab75c0dc5c1a42ac833fa7542b49]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2015/1902/regulation/28) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
 
-[^key-29720538c128456169e1353476233138]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2015/1902/regulation/29) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
+[^c-29720538c128456169e1353476233138]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2015/1902/regulation/29) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
 
-[^key-a92bb8f7fcd2382b4ba1516737788c45]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2015/1902/schedule) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)
+[^c-a92bb8f7fcd2382b4ba1516737788c45]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2015/1902/schedule) in force at 11.11.2015, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b)

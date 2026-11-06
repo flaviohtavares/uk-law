@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Amendment of Health Professions (Parts of and Entries in the Register) Order of Council 2003[^key-f0a54f140188969ca9ee1f6a87f6c686]
+## 3. Amendment of Health Professions (Parts of and Entries in the Register) Order of Council 2003[^c-f0a54f140188969ca9ee1f6a87f6c686]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f0a54f140188969ca9ee1f6a87f6c686]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2012/1479/article/3) in force at 1.8.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1479/article/1/2)
+[^c-f0a54f140188969ca9ee1f6a87f6c686]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2012/1479/article/3) in force at 1.8.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1479/article/1/2)
 
 [^f00003]: Footnote: [S.I. 2003/1571](https://www.legislation.gov.uk/uksi/2003/1571). Schedule 1 has been amended by [S.I. 2004/2033](https://www.legislation.gov.uk/uksi/2004/2033) and [2522](https://www.legislation.gov.uk/uksi/2004/2522), [2009/1182](https://www.legislation.gov.uk/uksi/2009/1182) and [2010/233](https://www.legislation.gov.uk/uksi/2010/233).

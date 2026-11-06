@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173. Provision of services by IFC authorities[^key-fa06489f40d74d51e5b4461574704ac1]
+## 173. Provision of services by IFC authorities[^c-fa06489f40d74d51e5b4461574704ac1]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa06489f40d74d51e5b4461574704ac1]: Commencement: [S. 173](https://www.legislation.gov.uk/ukpga/2009/23/section/173) in force at 1.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/g)
+[^c-fa06489f40d74d51e5b4461574704ac1]: Commencement: [S. 173](https://www.legislation.gov.uk/ukpga/2009/23/section/173) in force at 1.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/g)

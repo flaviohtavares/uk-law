@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Housing Benefit (Decisions and Appeals) Regulations (Northern Ireland) 2001[^key-142087798135f897ab85a7aa650f6edb]
+## 97. Housing Benefit (Decisions and Appeals) Regulations (Northern Ireland) 2001[^c-142087798135f897ab85a7aa650f6edb]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ In regulation 1(2) of the Housing Benefit (Decisions and Appeals) Regulations (N
 
 ## Annotations
 
-[^key-142087798135f897ab85a7aa650f6edb]: Commencement: Reg. 97 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-142087798135f897ab85a7aa650f6edb]: Commencement: Reg. 97 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00160]: Footnote: [S.R. (N.I.) 2001/213](https://www.legislation.gov.uk/nisr/2001/213). In regulation 1(2), the definition of “couple” was inserted by regulation 8 of [S.R. (N.I.) 2005/539](https://www.legislation.gov.uk/nisr/2005/539).

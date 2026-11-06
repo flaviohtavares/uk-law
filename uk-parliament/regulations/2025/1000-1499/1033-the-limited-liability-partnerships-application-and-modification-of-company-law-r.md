@@ -44,13 +44,13 @@ In accordance with sections 17(4) and (5)(b) and (d) of that Act[^f00002], a dra
 
 ## Part 1 — Introductory provisions
 
-### 1. Citation, commencement and extent[^key-b24913d09bfff674ec4bcdd38394df92]
+### 1. Citation, commencement and extent[^c-b24913d09bfff674ec4bcdd38394df92]
 
 (1) These Regulations may be cited as the Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025.
 
-(2) Subject to paragraphs (3) and (4), these Regulations come into force on 18th November 2025 (the date that section 167M of the Companies Act 2006 (prohibition on director acting unless ID verified) came fully into force)[^key-436694d9a7450395cfa7a9e489ff0bf8].
+(2) Subject to paragraphs (3) and (4), these Regulations come into force on 18th November 2025 (the date that section 167M of the Companies Act 2006 (prohibition on director acting unless ID verified) came fully into force)[^c-436694d9a7450395cfa7a9e489ff0bf8].
 
-(3) The following provisions come into force on 18th November 2025 (immediately after section 790LA of the 2006 Act (duty to notify registrar of confirmed persons with significant control) came fully into force)[^key-b284776eb34cf333dde8009b79ef5cdf]—
+(3) The following provisions come into force on 18th November 2025 (immediately after section 790LA of the 2006 Act (duty to notify registrar of confirmed persons with significant control) came fully into force)[^c-b284776eb34cf333dde8009b79ef5cdf]—
 
 - (a) regulation 5 (amendments to Part 1A (incorporation), except so far as it applies subsection (1A) of section 12A of the 2006 Act to LLPs;
 - (b) paragraph (3)(b) of regulation 7 (amendments to Part 8 (annual confirmation by LLP of accuracy of information on register));
@@ -69,7 +69,7 @@ In accordance with sections 17(4) and (5)(b) and (d) of that Act[^f00002], a dra
 
 (5) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-### 2. Interpretation[^key-296a8dc2160f9a460eb0849e46a971f1]
+### 2. Interpretation[^c-296a8dc2160f9a460eb0849e46a971f1]
 
 In these Regulations—
 
@@ -80,7 +80,7 @@ In these Regulations—
 
 ## Part 2 — Amendments to the 2000 Act
 
-### 3. Amendments to the 2000 Act[^key-dc572e423f32048d22f174e89a734ef8]
+### 3. Amendments to the 2000 Act[^c-dc572e423f32048d22f174e89a734ef8]
 
 (1) The 2000 Act is amended as follows.
 
@@ -142,11 +142,11 @@ In these Regulations—
 
 ## Part 3 — Amendments to the Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009
 
-### 4. Amendments to the Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009[^key-9286959b2223c0005c4939d32816caa4]
+### 4. Amendments to the Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009[^c-9286959b2223c0005c4939d32816caa4]
 
 The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009[^f00013] are amended in accordance with regulations 5 to 10.
 
-### 5. Amendments to Part 1A (incorporation)[^key-0d5b5fdceba3ccd3ea78de2525de9697]
+### 5. Amendments to Part 1A (incorporation)[^c-0d5b5fdceba3ccd3ea78de2525de9697]
 
 For regulation 3A (statement of initial significant control) substitute—
 
@@ -197,7 +197,7 @@ For regulation 3A (statement of initial significant control) substitute—
 
 .
 
-### 6. Amendments to Part 5 (an LLP’s members)[^key-0ac930cf6a3e70534ef778c2339b0b2f]
+### 6. Amendments to Part 5 (an LLP’s members)[^c-0ac930cf6a3e70534ef778c2339b0b2f]
 
 (1) For the heading of Chapter 1 of Part 5 (an LLP’s members) substitute “Information about members”.
 
@@ -390,7 +390,7 @@ For regulation 3A (statement of initial significant control) substitute—
 
 (4) Omit regulations 18 (requirements for register of members) and 18A (option to keep information on the central register).
 
-### 7. Amendments to Part 8 (annual confirmation by LLP of accuracy of information on register)[^key-aed11ee64eb14aa69169bf528c021aeb]
+### 7. Amendments to Part 8 (annual confirmation by LLP of accuracy of information on register)[^c-aed11ee64eb14aa69169bf528c021aeb]
 
 (1) Regulation 30 is amended in accordance with this regulation.
 
@@ -417,7 +417,7 @@ For regulation 3A (statement of initial significant control) substitute—
 
   .
 
-### 8. Amendments to Part 8A (an LLP’s register of people with significant control)[^key-9ceaeacca8e14865c4ed8840dfb60768]
+### 8. Amendments to Part 8A (an LLP’s register of people with significant control)[^c-9ceaeacca8e14865c4ed8840dfb60768]
 
 (1) In regulation 31A (overview), in section 790A of the 2006 Act as applied to LLPs by that regulation―
 
@@ -589,7 +589,7 @@ For regulation 3A (statement of initial significant control) substitute—
 
   .
 
-### 9. Amendments to Part 15 (the registrar of companies)[^key-bc28986bf954b06458c5e428f8e54ea0]
+### 9. Amendments to Part 15 (the registrar of companies)[^c-bc28986bf954b06458c5e428f8e54ea0]
 
 (1) In regulation 64 (annotation and unique identifiers), in section 1082 of the 2006 Act as applied to LLPs by that regulation[^f00014], at the end insert—
 
@@ -658,7 +658,7 @@ For regulation 3A (statement of initial significant control) substitute—
 
 .
 
-### 10. Amendments to Part 17 (supplementary provisions and interpretation)[^key-0a466517dddeaf36bbc6c6bf9b0947d4]
+### 10. Amendments to Part 17 (supplementary provisions and interpretation)[^c-0a466517dddeaf36bbc6c6bf9b0947d4]
 
 In regulation 74 (LLP records), in section 1136(2) of the 2006 Act as applied to LLPs by that regulation, omit the following wording—
 
@@ -668,7 +668,7 @@ In regulation 74 (LLP records), in section 1136(2) of the 2006 Act as applied to
 
 ## Part 4 — Amendments to the Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016
 
-### 11. Amendments to the Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016[^key-e671b34fc6a8c1b8e32f29eb1b516da2]
+### 11. Amendments to the Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016[^c-e671b34fc6a8c1b8e32f29eb1b516da2]
 
 (1) Schedule 2 to the Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016[^f00015] (application of the PSC Regulations) is amended in accordance with this regulation.
 
@@ -719,11 +719,11 @@ In regulation 74 (LLP records), in section 1136(2) of the 2006 Act as applied to
 
 ## Part 5 — Transitional provisions
 
-### 12. Interpretation[^key-b3f9c69d1919bdcd9d0b5ca922fb9c8d]
+### 12. Interpretation[^c-b3f9c69d1919bdcd9d0b5ca922fb9c8d]
 
-In this Part “**relevant day**” means 18th November 2025 (the date that section 43 of the Economic Crime and Corporate Transparency Act 2023 (prohibition on director acting unless ID verified) came into force)[^key-51b9182d4f47454c8ff64a5085bdbcb4].
+In this Part “**relevant day**” means 18th November 2025 (the date that section 43 of the Economic Crime and Corporate Transparency Act 2023 (prohibition on director acting unless ID verified) came into force)[^c-51b9182d4f47454c8ff64a5085bdbcb4].
 
-### 13. Notification of changes concerning LLP members to the registrar[^key-b10955d6824eef796dd04ce433c48148]
+### 13. Notification of changes concerning LLP members to the registrar[^c-b10955d6824eef796dd04ce433c48148]
 
 (1) This regulation applies where, at the end of the day before the relevant day, an LLP was under a duty to give a section 9 notice or section 167D notice but had not given it.
 
@@ -746,7 +746,7 @@ In this Part “**relevant day**” means 18th November 2025 (the date that sect
 
 (5) The references in this regulation to sections 167D, 167G and 167H of the 2006 Act are to those sections as applied to LLPs by the Limited Liability Partnerships (Application of the Companies Act 2006) Regulations 2009.
 
-### 14. Notification of changes concerning people with significant control to the registrar[^key-4a6b8ed2ee893f0ffddbe5ea102ea877]
+### 14. Notification of changes concerning people with significant control to the registrar[^c-4a6b8ed2ee893f0ffddbe5ea102ea877]
 
 (1) This regulation applies where, at the end of the day before the relevant day, an LLP—
 
@@ -781,7 +781,7 @@ In this Part “**relevant day**” means 18th November 2025 (the date that sect
 
 (6) The references in this regulation to the provisions of the PSC Regulations are to those provisions as applied to LLPs by regulation 4 of, and Schedule 2 to, the Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016.
 
-### 15. Notification of changes: savings in relation to additional matters[^key-353f7cfd0abecf1d0b87b594e2f788b0]
+### 15. Notification of changes: savings in relation to additional matters[^c-353f7cfd0abecf1d0b87b594e2f788b0]
 
 (1) This regulation applies to an LLP which—
 
@@ -808,7 +808,7 @@ In this Part “**relevant day**” means 18th November 2025 (the date that sect
 
 (8) The references in this regulation to the provisions of the PSC Regulations are to those provisions as applied to LLPs by regulation 4 of, and Schedule 2 to, the Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016.
 
-### 16. Identity verification of LLP members[^key-58536aab6256c725aa0bca90fa30b22d][^key-3c6d9c655703f243573fdd2e4682a864]
+### 16. Identity verification of LLP members[^c-58536aab6256c725aa0bca90fa30b22d][^c-3c6d9c655703f243573fdd2e4682a864]
 
 (1) This regulation applies in relation to an individual who became a member of an LLP before the relevant day.
 
@@ -871,21 +871,21 @@ A full impact assessment has not been prepared for this instrument because the m
 
 [^f00002]: Footnote: Section 17(5)(b) was amended by the Limited Liability Partnerships (Application of Companies Act 2006) Regulations ([S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804)) and the Corporate Insolvency and Governance Act [2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12).
 
-[^key-b24913d09bfff674ec4bcdd38394df92]: Commencement: Reg. 1 comes into force in accordance with reg. 1(2)
+[^c-b24913d09bfff674ec4bcdd38394df92]: Commencement: Reg. 1 comes into force in accordance with reg. 1(2)
 
-[^key-436694d9a7450395cfa7a9e489ff0bf8]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/2) substituted (23.1.2026) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 7) Regulations 2026 (S.I. 2026/57)](https://www.legislation.gov.uk/uksi/2026/57), [reg. 3(3)(a)(i)](https://www.legislation.gov.uk/uksi/2026/57/regulation/3/3/a/i)
+[^c-436694d9a7450395cfa7a9e489ff0bf8]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/2) substituted (23.1.2026) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 7) Regulations 2026 (S.I. 2026/57)](https://www.legislation.gov.uk/uksi/2026/57), [reg. 3(3)(a)(i)](https://www.legislation.gov.uk/uksi/2026/57/regulation/3/3/a/i)
 
-[^key-b284776eb34cf333dde8009b79ef5cdf]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/3) substituted (23.1.2026) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 7) Regulations 2026 (S.I. 2026/57)](https://www.legislation.gov.uk/uksi/2026/57), [reg. 3(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/57/regulation/3/3/a/ii)
+[^c-b284776eb34cf333dde8009b79ef5cdf]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/3) substituted (23.1.2026) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 7) Regulations 2026 (S.I. 2026/57)](https://www.legislation.gov.uk/uksi/2026/57), [reg. 3(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/57/regulation/3/3/a/ii)
 
 [^f00005]: Footnote: Section 167G was inserted by section 51 of, and paragraph 3 of Schedule 2, the Economic Crime and Corporate Transparency Act 2023.
 
-[^key-296a8dc2160f9a460eb0849e46a971f1]: Commencement: Reg. 2 comes into force in accordance with reg. 1(2)
+[^c-296a8dc2160f9a460eb0849e46a971f1]: Commencement: Reg. 2 comes into force in accordance with reg. 1(2)
 
 [^f00006]: Footnote: [2000 c. 12](https://www.legislation.gov.uk/ukpga/2000/12). Section 2(2)(e) was amended by the Limited Liability Partnerships (Register of People with Significant Control) Regulations ([S.I. 2016/340](https://www.legislation.gov.uk/uksi/2016/340)). Section 2(2ZA) was inserted by the Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 ([S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804)). Section 2(5) of, and paragraph 4(2) of the Schedule to, that Act were inserted by the Limited Liability Partnerships (Application of Company Law) Regulations 2024 ([S.I. 2024/234](https://www.legislation.gov.uk/uksi/2024/234)). Other amendments have been made but none are relevant.
 
 [^f00007]: Footnote: [S.I. 2016/339](https://www.legislation.gov.uk/uksi/2016/339).
 
-[^key-dc572e423f32048d22f174e89a734ef8]: Commencement: Reg. 3 comes into force in accordance with reg. 1(2)(4)(a)-(c)
+[^c-dc572e423f32048d22f174e89a734ef8]: Commencement: Reg. 3 comes into force in accordance with reg. 1(2)(4)(a)-(c)
 
 [^f00008]: Footnote: Section 1110A was inserted by section 65 of the Economic Crime and Corporate Transparency Act 2023.
 
@@ -897,38 +897,38 @@ A full impact assessment has not been prepared for this instrument because the m
 
 [^f00012]: Footnote: Section 159A was inserted by section 40 of the Economic Crime and Corporate Transparency Act 2023.
 
-[^key-9286959b2223c0005c4939d32816caa4]: Commencement: Reg. 4 comes into force in accordance with reg. 1(2)
+[^c-9286959b2223c0005c4939d32816caa4]: Commencement: Reg. 4 comes into force in accordance with reg. 1(2)
 
 [^f00013]: Footnote: [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804).
 
-[^key-0d5b5fdceba3ccd3ea78de2525de9697]: Commencement: Reg. 5 comes into force in accordance with reg. 1(2)(3)(a)(4)(d)
+[^c-0d5b5fdceba3ccd3ea78de2525de9697]: Commencement: Reg. 5 comes into force in accordance with reg. 1(2)(3)(a)(4)(d)
 
-[^key-0ac930cf6a3e70534ef778c2339b0b2f]: Commencement: Reg. 6 comes into force in accordance with reg. 1(2)(4)(e)
+[^c-0ac930cf6a3e70534ef778c2339b0b2f]: Commencement: Reg. 6 comes into force in accordance with reg. 1(2)(4)(e)
 
-[^key-aed11ee64eb14aa69169bf528c021aeb]: Commencement: Reg. 7 comes into force in accordance with reg. 1(2)(3)(b)
+[^c-aed11ee64eb14aa69169bf528c021aeb]: Commencement: Reg. 7 comes into force in accordance with reg. 1(2)(3)(b)
 
-[^key-9ceaeacca8e14865c4ed8840dfb60768]: Commencement: Reg. 8 comes into force in accordance with reg. 1(2)(3)(c)
+[^c-9ceaeacca8e14865c4ed8840dfb60768]: Commencement: Reg. 8 comes into force in accordance with reg. 1(2)(3)(c)
 
-[^key-bc28986bf954b06458c5e428f8e54ea0]: Commencement: Reg. 9 comes into force in accordance with reg. 1(2)
+[^c-bc28986bf954b06458c5e428f8e54ea0]: Commencement: Reg. 9 comes into force in accordance with reg. 1(2)
 
 [^f00014]: Footnote: Regulation 64 was amended by the Unique Identifiers (Application of Company Law) Regulations 2025 ([S.I. 2025/49](https://www.legislation.gov.uk/uksi/2025/49)).
 
-[^key-0a466517dddeaf36bbc6c6bf9b0947d4]: Commencement: Reg. 10 comes into force in accordance with reg. 1(2)
+[^c-0a466517dddeaf36bbc6c6bf9b0947d4]: Commencement: Reg. 10 comes into force in accordance with reg. 1(2)
 
-[^key-e671b34fc6a8c1b8e32f29eb1b516da2]: Commencement: Reg. 11 comes into force in accordance with reg. 1(2)(3)(d)
+[^c-e671b34fc6a8c1b8e32f29eb1b516da2]: Commencement: Reg. 11 comes into force in accordance with reg. 1(2)(3)(d)
 
 [^f00015]: Footnote: [S.I. 2016/340](https://www.legislation.gov.uk/uksi/2016/340); relevant amending instruments are [S.I. 2017/693](https://www.legislation.gov.uk/uksi/2017/693), [2024/1377](https://www.legislation.gov.uk/uksi/2024/1377).
 
-[^key-b3f9c69d1919bdcd9d0b5ca922fb9c8d]: Commencement: Reg. 12 comes into force in accordance with reg. 1(2)
+[^c-b3f9c69d1919bdcd9d0b5ca922fb9c8d]: Commencement: Reg. 12 comes into force in accordance with reg. 1(2)
 
-[^key-51b9182d4f47454c8ff64a5085bdbcb4]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12) substituted (23.1.2026) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 7) Regulations 2026 (S.I. 2026/57)](https://www.legislation.gov.uk/uksi/2026/57), [reg. 3(3)(b)](https://www.legislation.gov.uk/uksi/2026/57/regulation/3/3/b)
+[^c-51b9182d4f47454c8ff64a5085bdbcb4]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12) substituted (23.1.2026) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 7) Regulations 2026 (S.I. 2026/57)](https://www.legislation.gov.uk/uksi/2026/57), [reg. 3(3)(b)](https://www.legislation.gov.uk/uksi/2026/57/regulation/3/3/b)
 
-[^key-b10955d6824eef796dd04ce433c48148]: Commencement: Reg. 13 comes into force in accordance with reg. 1(2)
+[^c-b10955d6824eef796dd04ce433c48148]: Commencement: Reg. 13 comes into force in accordance with reg. 1(2)
 
-[^key-4a6b8ed2ee893f0ffddbe5ea102ea877]: Commencement: Reg. 14 comes into force in accordance with reg. 1(2)
+[^c-4a6b8ed2ee893f0ffddbe5ea102ea877]: Commencement: Reg. 14 comes into force in accordance with reg. 1(2)
 
-[^key-353f7cfd0abecf1d0b87b594e2f788b0]: Commencement: Reg. 15 comes into force in accordance with reg. 1(2)(3)(f)
+[^c-353f7cfd0abecf1d0b87b594e2f788b0]: Commencement: Reg. 15 comes into force in accordance with reg. 1(2)(3)(f)
 
-[^key-58536aab6256c725aa0bca90fa30b22d]: Commencement: Reg. 16 comes into force in accordance with reg. 1(2)
+[^c-58536aab6256c725aa0bca90fa30b22d]: Commencement: Reg. 16 comes into force in accordance with reg. 1(2)
 
-[^key-3c6d9c655703f243573fdd2e4682a864]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/16) substituted (18.11.2025) by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2025/1116/regulation/9); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
+[^c-3c6d9c655703f243573fdd2e4682a864]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/16) substituted (18.11.2025) by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2025/1116/regulation/9); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)

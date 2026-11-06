@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 103. Time limits for Revenue Scotland assessments[^key-77aa56f99fa1632aef148bd2ee29daf5]
+## 103. Time limits for Revenue Scotland assessments[^c-77aa56f99fa1632aef148bd2ee29daf5]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-77aa56f99fa1632aef148bd2ee29daf5]: Commencement: [S. 103](https://www.legislation.gov.uk/asp/2014/16/section/103) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-77aa56f99fa1632aef148bd2ee29daf5]: Commencement: [S. 103](https://www.legislation.gov.uk/asp/2014/16/section/103) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

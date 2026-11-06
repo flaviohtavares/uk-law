@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 304. Electronic submission of information where rule 303 does not apply[^key-ebf0f928e8e648f9ae5d4737f151a31a]
+## 304. Electronic submission of information where rule 303 does not apply[^c-ebf0f928e8e648f9ae5d4737f151a31a]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ebf0f928e8e648f9ae5d4737f151a31a]: Commencement: [Rule 304](https://www.legislation.gov.uk/uksi/2011/1301/rule/304) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-ebf0f928e8e648f9ae5d4737f151a31a]: Commencement: [Rule 304](https://www.legislation.gov.uk/uksi/2011/1301/rule/304) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

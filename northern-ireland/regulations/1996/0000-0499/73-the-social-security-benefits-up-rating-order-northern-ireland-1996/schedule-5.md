@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 5 — Part IV of Schedule 2 to the Income Support Regulations as amended by this Order[^key-bbd357a1f16a3c750117cd9151ca4d9f]
+## SCHEDULE 5 — Part IV of Schedule 2 to the Income Support Regulations as amended by this Order[^c-bbd357a1f16a3c750117cd9151ca4d9f]
 
 *Extent: N.I.*
 
@@ -51,4 +51,4 @@ Article 18(5)
 
 ## Annotations
 
-[^key-bbd357a1f16a3c750117cd9151ca4d9f]: Commencement: Sch. 5 comes into force in accordance with art. 1(1)(h)
+[^c-bbd357a1f16a3c750117cd9151ca4d9f]: Commencement: Sch. 5 comes into force in accordance with art. 1(1)(h)

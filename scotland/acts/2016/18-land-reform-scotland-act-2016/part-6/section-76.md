@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76. Net annual value of deer forests[^key-3ea39aa9511733b7896bf54122943fbe]
+## 76. Net annual value of deer forests[^c-3ea39aa9511733b7896bf54122943fbe]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ea39aa9511733b7896bf54122943fbe]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2016/18/section/76) in force at 28.6.2016 by [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/193/article/3))
+[^c-3ea39aa9511733b7896bf54122943fbe]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2016/18/section/76) in force at 28.6.2016 by [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/193/article/3))

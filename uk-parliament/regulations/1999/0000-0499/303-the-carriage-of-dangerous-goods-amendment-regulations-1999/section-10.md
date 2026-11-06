@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Amendments to the Carriage of Dangerous Goods by Road Regulations 1996[^key-67c6e565b98436c5e552958a0718d6bf]
+## 10. Amendments to the Carriage of Dangerous Goods by Road Regulations 1996[^c-67c6e565b98436c5e552958a0718d6bf]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67c6e565b98436c5e552958a0718d6bf]: Textual amendment: Regulations revoked (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 14](https://www.legislation.gov.uk/uksi/2004/568/schedule/14)
+[^c-67c6e565b98436c5e552958a0718d6bf]: Textual amendment: Regulations revoked (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 14](https://www.legislation.gov.uk/uksi/2004/568/schedule/14)

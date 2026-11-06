@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 63. Duty to notify changes of circumstances[^key-c40e8c41227df4b8cfc654bdc6581cf8]
+## 63. Duty to notify changes of circumstances[^c-c40e8c41227df4b8cfc654bdc6581cf8]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c40e8c41227df4b8cfc654bdc6581cf8]: Commencement: Reg. 63 in force at 23.11.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-c40e8c41227df4b8cfc654bdc6581cf8]: Commencement: Reg. 63 in force at 23.11.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

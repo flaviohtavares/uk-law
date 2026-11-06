@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety makes the following Regulations in exercise of the powers conferred on it by Articles 17 (1) (a) and (b) and 48 (2) of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003[^f00001].
 
-## 1. Citation, and commencement[^key-241de794cd0e3140506e020032321887]
+## 1. Citation, and commencement[^c-241de794cd0e3140506e020032321887]
 
 These Regulations may be cited as the Regulation and Improvement Authority (Registration) (Amendment) Regulations (Northern Ireland) 2007 and shall come into operation on 30th April 2007.
 
-## 2. Amendment of the Regulation and Improvement Authority (Registration) Regulations (Northern Ireland) 2005[^key-e999feb1a1979c459867c03242382742]
+## 2. Amendment of the Regulation and Improvement Authority (Registration) Regulations (Northern Ireland) 2005[^c-e999feb1a1979c459867c03242382742]
 
 (1) The Regulation and Improvement Authority (Registration) Regulations (Northern Ireland) 2005[^f00002] shall be amended in accordance with paragraphs (2) to (5).
 
@@ -91,7 +91,7 @@ These Regulations may be cited as the Regulation and Improvement Authority (Regi
   >
   > - (a) a criminal record certificate—
   >   - (i) which has been issued under section 113A of the Police Act 1997; and
-  >   - (ii) the application for which was countersigned by the RQIA[^key-c37b79a26d1aa3abbf4406aae4797e16] ;
+  >   - (ii) the application for which was countersigned by the RQIA[^c-c37b79a26d1aa3abbf4406aae4797e16] ;
   > - (b) an enhanced criminal record certificate—
   >   - (i) which has been issued under section 113B of that Act; and
   >   - (ii) the application for which was signed by the RQIA .
@@ -147,9 +147,9 @@ In relation to the each of the above description of establishments and agencies,
 
 [^f00001]: Footnote: S.I. [2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431)
 
-[^key-241de794cd0e3140506e020032321887]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/222/regulation/1) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/222/regulation/1)
+[^c-241de794cd0e3140506e020032321887]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/222/regulation/1) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/222/regulation/1)
 
-[^key-e999feb1a1979c459867c03242382742]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/222/regulation/2) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/222/regulation/1)
+[^c-e999feb1a1979c459867c03242382742]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/222/regulation/2) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/222/regulation/1)
 
 [^f00002]: Footnote: [S.R. 2005/99](https://www.legislation.gov.uk/nisr/2005/99)
 
@@ -163,4 +163,4 @@ In relation to the each of the above description of establishments and agencies,
 
 [^f00007]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50)
 
-[^key-c37b79a26d1aa3abbf4406aae4797e16]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(b)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/b) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-c37b79a26d1aa3abbf4406aae4797e16]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(b)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/b) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))

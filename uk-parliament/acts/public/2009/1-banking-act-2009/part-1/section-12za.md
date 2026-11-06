@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12ZA. Asset management vehicle[^key-11896676224b47b3aabcf0eadc6ec8be]
+## 12ZA. Asset management vehicle[^c-11896676224b47b3aabcf0eadc6ec8be]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ to an asset management vehicle.
 
 ## Annotations
 
-[^key-11896676224b47b3aabcf0eadc6ec8be]: Textual amendment: S. 12ZA inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [19](https://www.legislation.gov.uk/uksi/2014/3329/article/19)
+[^c-11896676224b47b3aabcf0eadc6ec8be]: Textual amendment: S. 12ZA inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [19](https://www.legislation.gov.uk/uksi/2014/3329/article/19)

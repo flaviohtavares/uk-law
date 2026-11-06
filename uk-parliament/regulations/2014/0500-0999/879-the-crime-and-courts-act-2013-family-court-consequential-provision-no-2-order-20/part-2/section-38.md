@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**38.**[^key-963265f5e5cada871004396e8889e7a2] In section 8—
+**38.**[^c-963265f5e5cada871004396e8889e7a2] In section 8—
 
 - (a) in subsection (2), omit “in the High Court under Part I of the Maintenance Orders Act 1958 or to an order which is for the time being registered”;
 - (b) in subsection (3)—
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-963265f5e5cada871004396e8889e7a2]: Commencement: Art. 38 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-963265f5e5cada871004396e8889e7a2]: Commencement: Art. 38 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

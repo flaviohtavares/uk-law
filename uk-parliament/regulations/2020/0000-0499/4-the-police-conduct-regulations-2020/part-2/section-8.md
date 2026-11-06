@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Legal and other representation[^key-a3750aa3697b0fb6f76223accce03b9f]
+## 8. Legal and other representation[^c-a3750aa3697b0fb6f76223accce03b9f]
 
 *Extent: E+W*
 
@@ -33,9 +33,9 @@ summary: ''
 - (a) a police officer or police staff member of the police force concerned, or
 - (b) at a misconduct hearing or an accelerated misconduct hearing only, a relevant lawyer (whether or not the officer concerned chooses to be legally represented).
 
-(6) Subject to paragraph (7), the appropriate authority may appoint a person to advise the person conducting or chairing a misconduct meeting or an[^key-3c72dca3b8e2ab9ee5cc41f3cc388cb9] appeal meeting.
+(6) Subject to paragraph (7), the appropriate authority may appoint a person to advise the person conducting or chairing a misconduct meeting or an[^c-3c72dca3b8e2ab9ee5cc41f3cc388cb9] appeal meeting.
 
-(7) [^key-8c78812823681e34f5890c211fb5970e]... The person appointed under paragraph (6) must not be a relevant lawyer.
+(7) [^c-8c78812823681e34f5890c211fb5970e]... The person appointed under paragraph (6) must not be a relevant lawyer.
 
 (8) The circumstances in which the Independent Office for Police Conduct is a relevant authority for the purpose of section 84(5) of the 1996 Act (power to prescribe in regulations, in relation to representation at proceedings, circumstances in which the relevant authority includes the Independent Office for Police Conduct) are prescribed as being where the Director General has made a decision under regulation 24(1) to present the case.
 
@@ -43,8 +43,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a3750aa3697b0fb6f76223accce03b9f]: Commencement: Reg. 8 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-a3750aa3697b0fb6f76223accce03b9f]: Commencement: Reg. 8 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-3c72dca3b8e2ab9ee5cc41f3cc388cb9]: Textual amendment: Words in [reg. 8(6)](https://www.legislation.gov.uk/uksi/2020/4/regulation/8/6) substituted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/2/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-3c72dca3b8e2ab9ee5cc41f3cc388cb9]: Textual amendment: Words in [reg. 8(6)](https://www.legislation.gov.uk/uksi/2020/4/regulation/8/6) substituted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/2/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
 
-[^key-8c78812823681e34f5890c211fb5970e]: Textual amendment: Words in [reg. 8(7)](https://www.legislation.gov.uk/uksi/2020/4/regulation/8/7) omitted (7.5.2024) by virtue of [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/2/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-8c78812823681e34f5890c211fb5970e]: Textual amendment: Words in [reg. 8(7)](https://www.legislation.gov.uk/uksi/2020/4/regulation/8/7) omitted (7.5.2024) by virtue of [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/2/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))

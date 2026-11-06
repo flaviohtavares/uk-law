@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Initial determination of schools budget[^key-941c403489655cdbc2ab9450cac8ac2f]
+## 5. Initial determination of schools budget[^c-941c403489655cdbc2ab9450cac8ac2f]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-941c403489655cdbc2ab9450cac8ac2f]: Commencement: Reg. 5 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-941c403489655cdbc2ab9450cac8ac2f]: Commencement: Reg. 5 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)

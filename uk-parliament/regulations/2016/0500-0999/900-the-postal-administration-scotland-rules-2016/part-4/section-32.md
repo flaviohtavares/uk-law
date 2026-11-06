@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Resolutions[^key-c1ad5f8b150aed3c2445282dd2a07a82]
+## 32. Resolutions[^c-c1ad5f8b150aed3c2445282dd2a07a82]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1ad5f8b150aed3c2445282dd2a07a82]: Commencement: Rule 32 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-c1ad5f8b150aed3c2445282dd2a07a82]: Commencement: Rule 32 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

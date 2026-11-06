@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Electronic communications[^key-78253f0fc80eae25e50ea6dcbe955cf2]
+## 48. Electronic communications[^c-78253f0fc80eae25e50ea6dcbe955cf2]
 
 *Extent: E+W+S+N.I.*
 
 In the heading to Chapter 4 of Part 10 (mandatory use of electronic communications), after “communications” insert “: specified information”.
 
-**49.**[^key-4b260b317815ad34646cc7b994d055e1] After Chapter 4 of Part 10 insert—
+**49.**[^c-4b260b317815ad34646cc7b994d055e1] After Chapter 4 of Part 10 insert—
 
 > **CHAPTER 4A — Mandatory use of electronic communications: real time returns of information about relevant payments of tax and associated matters**
 >
@@ -38,6 +38,6 @@ In the heading to Chapter 4 of Part 10 (mandatory use of electronic communicatio
 
 ## Annotations
 
-[^key-78253f0fc80eae25e50ea6dcbe955cf2]: Commencement: Reg. 48 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-78253f0fc80eae25e50ea6dcbe955cf2]: Commencement: Reg. 48 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
 
-[^key-4b260b317815ad34646cc7b994d055e1]: Commencement: Reg. 49 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-4b260b317815ad34646cc7b994d055e1]: Commencement: Reg. 49 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

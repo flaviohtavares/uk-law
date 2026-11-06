@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Duty to consult and plan in relation to day care and out of school care[^key-3d95d97d11821e3b7ec518e543c74855]
+## 55. Duty to consult and plan in relation to day care and out of school care[^c-3d95d97d11821e3b7ec518e543c74855]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d95d97d11821e3b7ec518e543c74855]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2014/8/section/55) in force at 1.8.2014 by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)
+[^c-3d95d97d11821e3b7ec518e543c74855]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2014/8/section/55) in force at 1.8.2014 by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)

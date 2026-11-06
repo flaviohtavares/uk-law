@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.12. Application for compliance order[^key-94bc51ee7bc304b8eaf47efcccbc567b]
+## 33.12. Application for compliance order[^c-94bc51ee7bc304b8eaf47efcccbc567b]
 
 *Extent: E+W*
 
@@ -67,6 +67,6 @@ summary: ''
 
 ## Annotations
 
-[^key-94bc51ee7bc304b8eaf47efcccbc567b]: Commencement: [Rule 33.12](https://www.legislation.gov.uk/uksi/2025/909/rule/33.12) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-94bc51ee7bc304b8eaf47efcccbc567b]: Commencement: [Rule 33.12](https://www.legislation.gov.uk/uksi/2025/909/rule/33.12) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00801]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 13A was inserted by section 7 of the Serious Crime Act [2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Payment on behalf of members of lifetime allowance charge[^key-e7674835de978e20e2274a19e1faa4a6]
+## 156. Payment on behalf of members of lifetime allowance charge[^c-e7674835de978e20e2274a19e1faa4a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e7674835de978e20e2274a19e1faa4a6]: Commencement: [Reg. 156](https://www.legislation.gov.uk/uksi/2015/182/regulation/156) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-e7674835de978e20e2274a19e1faa4a6]: Commencement: [Reg. 156](https://www.legislation.gov.uk/uksi/2015/182/regulation/156) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
 
 [^f00064]: Footnote: Section 216(1) was amended by the Finance Act [2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7) Schedule 10 paragraphs 1, 31 and 42, the Finance Act [2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25) Schedule 23 paragraphs 1 and 30, the Finance Act [2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9) Schedule 29 paragraphs 1, 4 and 5 and the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11) Schedule 16 paragraphs 43, 62 and 73.

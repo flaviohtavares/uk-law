@@ -37,27 +37,27 @@ Made
 
 The Welsh Ministers make this Order in exercise of the power conferred on them by section 94(3) of the Water Act 2014[^f00001].
 
-## 1. Title and interpretation[^key-89a9b56d5fa56f28cdddb42feed51bd5]
+## 1. Title and interpretation[^c-89a9b56d5fa56f28cdddb42feed51bd5]
 
 (1) The title of this Order is the Water Act 2014 (Commencement No. 10) Order 2017.
 
 (2) In this Order “the 2014 Act” (“*Deddf 2014*”) means the Water Act 2014.
 
-## 2. Provisions of the 2014 Act coming into force on the day after the day on which this Order is made[^key-a34486dcacf5136aabc75a70a8afd128]
+## 2. Provisions of the 2014 Act coming into force on the day after the day on which this Order is made[^c-a34486dcacf5136aabc75a70a8afd128]
 
 The following provisions of the 2014 Act, so far as not already in force, come into force on the day after the day on which this Order is made—
 
 - (a) section 17 (rules about charges for connections etc); and
 - (b) section 38 (guidance relating to rules about charges).
 
-## 3. Provisions of the 2014 Act coming into force on 1 April 2019[^key-dbcc607faa12abd7435d5af42fd9fefc]
+## 3. Provisions of the 2014 Act coming into force on 1 April 2019[^c-dbcc607faa12abd7435d5af42fd9fefc]
 
 The following provisions of the 2014 Act come into force on 1 April 2019—
 
 - (a) section 8 (bulk supply of water by water undertakers) so far as not already in force;
 - (b) section 9 (main connections into sewerage systems);
-- (c)[^key-7d3100481508f694017cd272d6504502] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-7d3100481508f694017cd272d6504502] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-7d3100481508f694017cd272d6504502] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-7d3100481508f694017cd272d6504502] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Hannah Blythyn
 
@@ -211,10 +211,10 @@ The following provisions of the 2014 Act have been or will be brought into force
 
 [^f00001]: Footnote: [2014 c. 21](https://www.legislation.gov.uk/ukpga/2014/21). The Welsh Ministers are the appropriate authority under section 94(3) of the 2014 Act for these purposes by virtue of the table in paragraph 1 of Schedule 12 to the 2014 Act.
 
-[^key-89a9b56d5fa56f28cdddb42feed51bd5]: Commencement: Art. 1 in force at made date
+[^c-89a9b56d5fa56f28cdddb42feed51bd5]: Commencement: Art. 1 in force at made date
 
-[^key-a34486dcacf5136aabc75a70a8afd128]: Commencement: Art. 2 in force at made date
+[^c-a34486dcacf5136aabc75a70a8afd128]: Commencement: Art. 2 in force at made date
 
-[^key-dbcc607faa12abd7435d5af42fd9fefc]: Commencement: Art. 3 in force at made date
+[^c-dbcc607faa12abd7435d5af42fd9fefc]: Commencement: Art. 3 in force at made date
 
-[^key-7d3100481508f694017cd272d6504502]: Textual amendment: [Art. 3(c)(d)](https://www.legislation.gov.uk/wsi/2017/1288/article/3/c/d) omitted (26.3.2019) by virtue of [The Water Act 2014 (Commencement No. 10) (Amendment) Order 2019 (S.I. 2019/706)](https://www.legislation.gov.uk/wsi/2019/706), [art. 2](https://www.legislation.gov.uk/wsi/2019/706/article/2)
+[^c-7d3100481508f694017cd272d6504502]: Textual amendment: [Art. 3(c)(d)](https://www.legislation.gov.uk/wsi/2017/1288/article/3/c/d) omitted (26.3.2019) by virtue of [The Water Act 2014 (Commencement No. 10) (Amendment) Order 2019 (S.I. 2019/706)](https://www.legislation.gov.uk/wsi/2019/706), [art. 2](https://www.legislation.gov.uk/wsi/2019/706/article/2)

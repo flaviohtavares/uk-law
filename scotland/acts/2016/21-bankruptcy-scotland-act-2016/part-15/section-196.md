@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 196. Moratorium on diligence: notice of intention to make debtor application under section 6[^key-b6758344fb848a6e24ea3551c8f67748]
+## 196. Moratorium on diligence: notice of intention to make debtor application under section 6[^c-b6758344fb848a6e24ea3551c8f67748]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6758344fb848a6e24ea3551c8f67748]: Commencement: S. 196 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-b6758344fb848a6e24ea3551c8f67748]: Commencement: S. 196 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Saving provisions for Trinity House[^key-142517507beecd2f7ae9adc335b8bad7]
+## 9. Saving provisions for Trinity House[^c-142517507beecd2f7ae9adc335b8bad7]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Nothing in this Order prejudices or derogates from any of the rights, duties or 
 
 ## Annotations
 
-[^key-142517507beecd2f7ae9adc335b8bad7]: Commencement: Art. 9 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-142517507beecd2f7ae9adc335b8bad7]: Commencement: Art. 9 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)

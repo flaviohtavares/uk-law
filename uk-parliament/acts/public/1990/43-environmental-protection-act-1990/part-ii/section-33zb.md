@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33ZB. Fixed penalty notices for contravention of section 33(1)(a): Wales[^key-55cb3337cd099b10ca40dd3e93abfade]
+## 33ZB. Fixed penalty notices for contravention of section 33(1)(a): Wales[^c-55cb3337cd099b10ca40dd3e93abfade]
 
 *Extent: E+W*
 
@@ -71,4 +71,4 @@ is evidence of the facts stated.
 
 ## Annotations
 
-[^key-55cb3337cd099b10ca40dd3e93abfade]: Textual amendment: S. 33ZB inserted (E.W.) (25.10.2017) by [The Unauthorised Deposit of Waste (Fixed Penalties) (Wales) Regulations 2017 (S.I. 2017/1024)](https://www.legislation.gov.uk/wsi/2017/1024), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/1024/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2017/1024/regulation/2/2)
+[^c-55cb3337cd099b10ca40dd3e93abfade]: Textual amendment: S. 33ZB inserted (E.W.) (25.10.2017) by [The Unauthorised Deposit of Waste (Fixed Penalties) (Wales) Regulations 2017 (S.I. 2017/1024)](https://www.legislation.gov.uk/wsi/2017/1024), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/1024/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2017/1024/regulation/2/2)

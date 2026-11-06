@@ -159,7 +159,7 @@ and the persons nominated by each diocesan education committee shall, as equitab
 - (h) the duties of oﬃcers;
 - (i) such other matters connected with the conduct of business as the Council thinks ﬁt.
 
-(2) Articles 95(1) to (5), 96, 97 and 98 of the principal Order shall apply in relation to the Council (but not a committee or sub‐committee of the Council) as they apply in relation to the Authority[^key-c9eaa1f9dd0129b0080c4bcc4e3ac22a] .
+(2) Articles 95(1) to (5), 96, 97 and 98 of the principal Order shall apply in relation to the Council (but not a committee or sub‐committee of the Council) as they apply in relation to the Authority[^c-c9eaa1f9dd0129b0080c4bcc4e3ac22a] .
 
 **10.** The common seal of the Council shall, when applied to a document, be attested by the signatures of any two members of the Council authorised by the Council to act for that purpose.
 
@@ -277,7 +277,7 @@ as the Department may, with the approval of the Department of Finance and Person
 
 [^c17612181]: Textual amendment: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-c9eaa1f9dd0129b0080c4bcc4e3ac22a]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-c9eaa1f9dd0129b0080c4bcc4e3ac22a]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c17612191]: Textual amendment: [1998 NI 13](https://www.legislation.gov.uk/1998/ni13)
 

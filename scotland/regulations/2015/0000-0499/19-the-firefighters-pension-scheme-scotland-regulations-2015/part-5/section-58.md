@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Entitlement to retirement pension[^key-0ee46c2df6e39d7349881afd8c261c8f]
+## 58. Entitlement to retirement pension[^c-0ee46c2df6e39d7349881afd8c261c8f]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ee46c2df6e39d7349881afd8c261c8f]: Commencement: [Reg. 58](https://www.legislation.gov.uk/ssi/2015/19/regulation/58) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-0ee46c2df6e39d7349881afd8c261c8f]: Commencement: [Reg. 58](https://www.legislation.gov.uk/ssi/2015/19/regulation/58) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

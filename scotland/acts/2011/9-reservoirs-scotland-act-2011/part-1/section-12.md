@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Controlled reservoirs not required to be registered under the 1975 Act[^key-59491a2d8131ccb45e72f29f05548a1d]
+## 12. Controlled reservoirs not required to be registered under the 1975 Act[^c-59491a2d8131ccb45e72f29f05548a1d]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59491a2d8131ccb45e72f29f05548a1d]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2011/9/section/12) in force at 1.1.2015 for specified purposes by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)
+[^c-59491a2d8131ccb45e72f29f05548a1d]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2011/9/section/12) in force at 1.1.2015 for specified purposes by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257. Short title[^key-a3f6a86e2ba8edfa55c8cd42eee87146]
+## 257. Short title[^c-a3f6a86e2ba8edfa55c8cd42eee87146]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Crime and Policing Act 2026.
 
 ## Annotations
 
-[^key-a3f6a86e2ba8edfa55c8cd42eee87146]: Commencement: S. 257 in force at Royal Assent, see [s. 255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)
+[^c-a3f6a86e2ba8edfa55c8cd42eee87146]: Commencement: S. 257 in force at Royal Assent, see [s. 255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)

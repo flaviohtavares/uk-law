@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Powers of Secretary of State in connection with Chapter 1[^key-e830e7776da3b55100481213428dc150][^key-f8c74846e978c5d01508ab9fabaef674]
+## 30. Powers of Secretary of State in connection with Chapter 1[^c-e830e7776da3b55100481213428dc150][^c-f8c74846e978c5d01508ab9fabaef674]
 
 *Extent: E+W*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e830e7776da3b55100481213428dc150]: Commencement: S. 30 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
+[^c-e830e7776da3b55100481213428dc150]: Commencement: S. 30 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
 
-[^key-f8c74846e978c5d01508ab9fabaef674]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2025/26/section/30) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-f8c74846e978c5d01508ab9fabaef674]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2025/26/section/30) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)

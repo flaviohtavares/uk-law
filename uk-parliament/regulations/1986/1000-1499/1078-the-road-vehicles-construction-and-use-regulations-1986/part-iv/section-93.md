@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 93. Use of sidecars[^key-b760ca87e74bad26c4f2a87695a1daba]
+## 93. Use of sidecars[^c-b760ca87e74bad26c4f2a87695a1daba]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ No person shall use or cause or permit to be used on a road any two-wheeled moto
 
 ## Annotations
 
-[^key-b760ca87e74bad26c4f2a87695a1daba]: Commencement: [Reg. 93](https://www.legislation.gov.uk/uksi/1986/1078/regulation/93) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-b760ca87e74bad26c4f2a87695a1daba]: Commencement: [Reg. 93](https://www.legislation.gov.uk/uksi/1986/1078/regulation/93) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

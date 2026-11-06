@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^c20953931][^key-9418daa43a888ca5876b0b86baa56544] Where the doing of a particular act is specifically authorised by an Act of Parliament, whenever passed, then, unless the Act provides otherwise, the doing of that act does not infringe copyright.
+(1)[^c20953931][^c-9418daa43a888ca5876b0b86baa56544] Where the doing of a particular act is specifically authorised by an Act of Parliament, whenever passed, then, unless the Act provides otherwise, the doing of that act does not infringe copyright.
 
 (2) Subsection (1) applies in relation to an enactment contained in Northern Ireland legislation as it applies in relation to an Act of Parliament.
 
@@ -32,4 +32,4 @@ summary: ''
 
 [^c20953931]: Modification: S. 50(1) modified (1.3.2010) by [The Scottish Register of Tartans Act 2008 (Consequential Modifications) Order 2010 (S.I. 2010/180)](https://www.legislation.gov.uk/uksi/2010/180), [art. 2(3)](https://www.legislation.gov.uk/uksi/2010/180/article/2/3) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2010/180/article/2/4))
 
-[^key-9418daa43a888ca5876b0b86baa56544]: Modification: S. 50(1) modified (26.2.2015) by [The Regulatory Reform (Scotland) Act 2014 (Consequential Modifications) Order 2015 (S.I. 2015/374)](https://www.legislation.gov.uk/uksi/2015/374), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/374/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2015/374/article/3/3) (with [art. 3(4)](https://www.legislation.gov.uk/uksi/2015/374/article/3/4))
+[^c-9418daa43a888ca5876b0b86baa56544]: Modification: S. 50(1) modified (26.2.2015) by [The Regulatory Reform (Scotland) Act 2014 (Consequential Modifications) Order 2015 (S.I. 2015/374)](https://www.legislation.gov.uk/uksi/2015/374), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/374/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2015/374/article/3/3) (with [art. 3(4)](https://www.legislation.gov.uk/uksi/2015/374/article/3/4))

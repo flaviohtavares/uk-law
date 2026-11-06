@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 100. Excepted payments[^key-ae45d9934b726e3135374ba3c1d50d63]
+## 100. Excepted payments[^c-ae45d9934b726e3135374ba3c1d50d63]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ in respect of expenses reasonably incurred by the adoption agency in connection 
 
 ## Annotations
 
-[^key-ae45d9934b726e3135374ba3c1d50d63]: Commencement: S. 100 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-ae45d9934b726e3135374ba3c1d50d63]: Commencement: S. 100 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

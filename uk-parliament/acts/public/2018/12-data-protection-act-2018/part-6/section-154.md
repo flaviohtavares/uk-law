@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Powers of entry and inspection[^key-2f908b9fefb61f6ccda52c5f821ade6a]
+## 154. Powers of entry and inspection[^c-2f908b9fefb61f6ccda52c5f821ade6a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 15 makes provision about powers of entry and inspection.
 
 ## Annotations
 
-[^key-2f908b9fefb61f6ccda52c5f821ade6a]: Commencement: S. 154 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/f)
+[^c-2f908b9fefb61f6ccda52c5f821ade6a]: Commencement: S. 154 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/f)

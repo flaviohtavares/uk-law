@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Banked allowances: pool VRTS participants[^key-6809f01a2e32554113a7edb4283bf716]
+## 48. Banked allowances: pool VRTS participants[^c-6809f01a2e32554113a7edb4283bf716]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6809f01a2e32554113a7edb4283bf716]: Commencement: Art. 48 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-6809f01a2e32554113a7edb4283bf716]: Commencement: Art. 48 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

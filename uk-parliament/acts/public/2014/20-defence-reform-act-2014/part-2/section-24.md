@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Reports on qualifying defence contracts[^key-73e038a550b8cce7383417ae33dcacb7][^key-f60fcdd11513dd130e397da8e0c357ae]
+## 24. Reports on qualifying defence contracts[^c-73e038a550b8cce7383417ae33dcacb7][^c-f60fcdd11513dd130e397da8e0c357ae]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-73e038a550b8cce7383417ae33dcacb7]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2014/20/section/24) in force at 14.7.2014 for specified purposes by [S.I. 2014/1751](https://www.legislation.gov.uk/uksi/2014/1751), [art. 4(i)](https://www.legislation.gov.uk/uksi/2014/1751/article/4/i)
+[^c-73e038a550b8cce7383417ae33dcacb7]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2014/20/section/24) in force at 14.7.2014 for specified purposes by [S.I. 2014/1751](https://www.legislation.gov.uk/uksi/2014/1751), [art. 4(i)](https://www.legislation.gov.uk/uksi/2014/1751/article/4/i)
 
-[^key-f60fcdd11513dd130e397da8e0c357ae]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2014/20/section/24) in force at 5.12.2014 in so far as not already in force by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/c)
+[^c-f60fcdd11513dd130e397da8e0c357ae]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2014/20/section/24) in force at 5.12.2014 in so far as not already in force by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/c)

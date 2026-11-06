@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Powers to take fingerprints etc. from dependants[^key-00c31749b748a18a3c5bbe3e294ac48f]
+## 57. Powers to take fingerprints etc. from dependants[^c-00c31749b748a18a3c5bbe3e294ac48f]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00c31749b748a18a3c5bbe3e294ac48f]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2016/19/section/57) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/j)
+[^c-00c31749b748a18a3c5bbe3e294ac48f]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2016/19/section/57) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/j)

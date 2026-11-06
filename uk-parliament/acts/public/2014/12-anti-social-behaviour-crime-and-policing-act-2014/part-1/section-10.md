@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Issue of arrest warrant[^key-4eb5c1710e826f64be2e35c54c885d26]
+## 10. Issue of arrest warrant[^c-4eb5c1710e826f64be2e35c54c885d26]
 
 *Extent: E+W*
 
-(1) If the person who applied for an injunction under this Part[^key-85403cf97e08f51830ca8f1f88d2bfc4] thinks that the respondent is in breach of any of its provisions, the person may apply for the issue of a warrant for the respondent's arrest.
+(1) If the person who applied for an injunction under this Part[^c-85403cf97e08f51830ca8f1f88d2bfc4] thinks that the respondent is in breach of any of its provisions, the person may apply for the issue of a warrant for the respondent's arrest.
 
 (2) The application must be made to—
 
@@ -35,10 +35,10 @@ summary: ''
 
 (5) A warrant issued by a judge of the county court must require the respondent to be brought before that court.
 
-(6) A warrant issued by a justice of the peace must require the respondent to be brought before the youth court that granted the injunction.[^key-c09ff32f0bd2b927edd158b011395095]
+(6) A warrant issued by a justice of the peace must require the respondent to be brought before the youth court that granted the injunction.[^c-c09ff32f0bd2b927edd158b011395095]
 
-- (a)[^key-8e512584d9156468341295d44ee9d92b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-bcb0eec99f0551d097ffed12000dd648] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-8e512584d9156468341295d44ee9d92b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-bcb0eec99f0551d097ffed12000dd648] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) A constable who arrests a person under a warrant issued under this section must inform the person who applied for the injunction.
 
@@ -46,14 +46,14 @@ summary: ''
 
 ## Annotations
 
-[^key-4eb5c1710e826f64be2e35c54c885d26]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2014/12/section/10) in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/373/article/4/a)
+[^c-4eb5c1710e826f64be2e35c54c885d26]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2014/12/section/10) in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/373/article/4/a)
 
-[^key-85403cf97e08f51830ca8f1f88d2bfc4]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/10/1) substituted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 1 para. 12(2)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/1/paragraph/12/2) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/2/3)); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/g)
+[^c-85403cf97e08f51830ca8f1f88d2bfc4]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/10/1) substituted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 1 para. 12(2)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/1/paragraph/12/2) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/2/3)); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/g)
 
 [^M_F_777cbfcc-a14b-4742-f067-e7f5d80bfccb]: Textual amendment: [S. 10(2)(a)-(b)](https://www.legislation.gov.uk/ukpga/2014/12/section/10/2/a) substituted for s. 10(2)(a)-(c) 26.10.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 1 para. 12(3)(b)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/1/paragraph/12/3/b) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/2/3)); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/g)
 
-[^key-c09ff32f0bd2b927edd158b011395095]: Textual amendment: Words in [s. 10(6)](https://www.legislation.gov.uk/ukpga/2014/12/section/10/6) substituted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 1 para. 12(4)(a)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/1/paragraph/12/4/a) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/2/3)); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/g)
+[^c-c09ff32f0bd2b927edd158b011395095]: Textual amendment: Words in [s. 10(6)](https://www.legislation.gov.uk/ukpga/2014/12/section/10/6) substituted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 1 para. 12(4)(a)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/1/paragraph/12/4/a) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/2/3)); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/g)
 
-[^key-8e512584d9156468341295d44ee9d92b]: Textual amendment: [S. 10(6)(a)](https://www.legislation.gov.uk/ukpga/2014/12/section/10/6/a) omitted (26.10.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 1 para. 12(4)(b)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/1/paragraph/12/4/b) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/2/3)); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/g)
+[^c-8e512584d9156468341295d44ee9d92b]: Textual amendment: [S. 10(6)(a)](https://www.legislation.gov.uk/ukpga/2014/12/section/10/6/a) omitted (26.10.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 1 para. 12(4)(b)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/1/paragraph/12/4/b) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/2/3)); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/g)
 
-[^key-bcb0eec99f0551d097ffed12000dd648]: Textual amendment: [S. 10(6)(b)](https://www.legislation.gov.uk/ukpga/2014/12/section/10/6/b) omitted (26.10.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 1 para. 12(4)(b)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/1/paragraph/12/4/b) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/2/3)); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/g)
+[^c-bcb0eec99f0551d097ffed12000dd648]: Textual amendment: [S. 10(6)(b)](https://www.legislation.gov.uk/ukpga/2014/12/section/10/6/b) omitted (26.10.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 1 para. 12(4)(b)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/1/paragraph/12/4/b) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/2/3)); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/g)

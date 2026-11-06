@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Section 8B(1) to (3) of the Immigration Act 1971: directions[^key-7c3151eed4ee68e16dff0f88bdf1740c]
+## 38. Section 8B(1) to (3) of the Immigration Act 1971: directions[^c-7c3151eed4ee68e16dff0f88bdf1740c]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c3151eed4ee68e16dff0f88bdf1740c]: Commencement: Reg. 38 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
+[^c-7c3151eed4ee68e16dff0f88bdf1740c]: Commencement: Reg. 38 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)

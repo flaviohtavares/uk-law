@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Date to which passing of sentence may be deferred[^key-b63a4c26a0a72a6e05c480f5ad081fa1]
+## 5. Date to which passing of sentence may be deferred[^c-b63a4c26a0a72a6e05c480f5ad081fa1]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b63a4c26a0a72a6e05c480f5ad081fa1]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2026/2/section/5) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-b63a4c26a0a72a6e05c480f5ad081fa1]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2026/2/section/5) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82. Licence holder's duty to notify Licensing Board of convictions[^key-0b45781a9007d2d6150f54f1c44a2227]
+## 82. Licence holder's duty to notify Licensing Board of convictions[^c-0b45781a9007d2d6150f54f1c44a2227]
 
 *Extent: S*
 
 (1) This section applies where a personal licence holder is convicted of a relevant or foreign offence.
 
-(2)[^key-6ed802bfeaac2fde7ed78edb950a956b] The licence holder must, no later than one month after the date of the conviction, give notice of the conviction to—
+(2)[^c-6ed802bfeaac2fde7ed78edb950a956b] The licence holder must, no later than one month after the date of the conviction, give notice of the conviction to—
 
 - (a) the Licensing Board which issued the personal licence held by the licence holder, and
 - (b) if different, the Licensing Board for the area in which are situated any licensed premises in which the licence holder is working.
@@ -49,6 +49,6 @@ the receiving Board must give notice of the conviction to the other Board.
 
 ## Annotations
 
-[^key-0b45781a9007d2d6150f54f1c44a2227]: Commencement: S. 82 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-0b45781a9007d2d6150f54f1c44a2227]: Commencement: S. 82 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
 
-[^key-6ed802bfeaac2fde7ed78edb950a956b]: Modification: S. 82(2) modified (1.2.2008) by [Licensing (Relevant Offences) (Scotland) Regulations 2007 (S.S.I. 2007/513)](https://www.legislation.gov.uk/ssi/2007/513), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/513/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2007/513/regulation/3)
+[^c-6ed802bfeaac2fde7ed78edb950a956b]: Modification: S. 82(2) modified (1.2.2008) by [Licensing (Relevant Offences) (Scotland) Regulations 2007 (S.S.I. 2007/513)](https://www.legislation.gov.uk/ssi/2007/513), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/513/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2007/513/regulation/3)

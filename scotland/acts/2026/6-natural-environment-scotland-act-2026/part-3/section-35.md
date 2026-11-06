@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Requirement to be fit and competent for certain authorisations[^key-8c79f0fcfd038511e4c861553cf5b2db][^key-60046757048cb1677bb115d8d9bd0180]
+## 35. Requirement to be fit and competent for certain authorisations[^c-8c79f0fcfd038511e4c861553cf5b2db][^c-60046757048cb1677bb115d8d9bd0180]
 
 *Extent: S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8c79f0fcfd038511e4c861553cf5b2db]: Commencement: S. 35 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-8c79f0fcfd038511e4c861553cf5b2db]: Commencement: S. 35 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
 
-[^key-60046757048cb1677bb115d8d9bd0180]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2026/6/section/35) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(v)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/v)
+[^c-60046757048cb1677bb115d8d9bd0180]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2026/6/section/35) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(v)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/v)

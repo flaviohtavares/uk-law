@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Minister of Finance and Personnel shall, before the beginning of each financial year, lay before the Assembly a draft budget, that is to say, a programme of expenditure proposals for that year which has been agreed by the Executive Committee in accordance with paragraph 20 of Strand One of the Belfast Agreement.
 
-(1A)[^key-09dd7cc3426803f07b0e2f008ff4d586] At least 14 days before laying a draft budget for a financial year, the Minister of Finance and Personnel must lay before the Assembly a statement specifying the amount of UK funding for that year notified to the Minister by the Secretary of State.
+(1A)[^c-09dd7cc3426803f07b0e2f008ff4d586] At least 14 days before laying a draft budget for a financial year, the Minister of Finance and Personnel must lay before the Assembly a statement specifying the amount of UK funding for that year notified to the Minister by the Secretary of State.
 
 (1B) At the same time as laying a draft budget for a financial year, the Minister of Finance and Personnel must lay before the Assembly a statement showing that the amount of UK funding required by the draft budget does not exceed the amount specified under subsection (1A) for that year.
 
@@ -34,10 +34,10 @@ summary: ''
 
 (2) The Assembly may, with cross-community support, approve a draft budget laid before them with or without modification.
 
-(3)[^key-08d892444f5b6b9f18a33ca1e6f57411] In this section references to UK funding, in relation to a financial year, are to funding from such sources as are specified in the notification mentioned in subsection (1A) in relation to that year.
+(3)[^c-08d892444f5b6b9f18a33ca1e6f57411] In this section references to UK funding, in relation to a financial year, are to funding from such sources as are specified in the notification mentioned in subsection (1A) in relation to that year.
 
 ## Annotations
 
-[^key-09dd7cc3426803f07b0e2f008ff4d586]: Textual amendment: S. 64(1A)-(1E) inserted (4.7.2016) by [Northern Ireland (Stormont Agreement and Implementation Plan) Act 2016 (c. 13)](https://www.legislation.gov.uk/ukpga/2016/13), [ss. 9(2)](https://www.legislation.gov.uk/ukpga/2016/13/section/9/2), [11(3)](https://www.legislation.gov.uk/ukpga/2016/13/section/11/3)
+[^c-09dd7cc3426803f07b0e2f008ff4d586]: Textual amendment: S. 64(1A)-(1E) inserted (4.7.2016) by [Northern Ireland (Stormont Agreement and Implementation Plan) Act 2016 (c. 13)](https://www.legislation.gov.uk/ukpga/2016/13), [ss. 9(2)](https://www.legislation.gov.uk/ukpga/2016/13/section/9/2), [11(3)](https://www.legislation.gov.uk/ukpga/2016/13/section/11/3)
 
-[^key-08d892444f5b6b9f18a33ca1e6f57411]: Textual amendment: S. 64(3) inserted (4.7.2016) by [Northern Ireland (Stormont Agreement and Implementation Plan) Act 2016 (c. 13)](https://www.legislation.gov.uk/ukpga/2016/13), [ss. 9(3)](https://www.legislation.gov.uk/ukpga/2016/13/section/9/3), [11(3)](https://www.legislation.gov.uk/ukpga/2016/13/section/11/3)
+[^c-08d892444f5b6b9f18a33ca1e6f57411]: Textual amendment: S. 64(3) inserted (4.7.2016) by [Northern Ireland (Stormont Agreement and Implementation Plan) Act 2016 (c. 13)](https://www.legislation.gov.uk/ukpga/2016/13), [ss. 9(3)](https://www.legislation.gov.uk/ukpga/2016/13/section/9/3), [11(3)](https://www.legislation.gov.uk/ukpga/2016/13/section/11/3)

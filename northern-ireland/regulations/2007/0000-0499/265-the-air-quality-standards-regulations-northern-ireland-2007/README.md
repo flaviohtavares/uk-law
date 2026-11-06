@@ -31,7 +31,7 @@ summary: ''
 
 environmental protection
 
-The Air Quality Standards Regulations (Northern Ireland) 2007 (revoked)[^key-2dd3a80c56069de5b9eb65e90811aba8]
+The Air Quality Standards Regulations (Northern Ireland) 2007 (revoked)[^c-2dd3a80c56069de5b9eb65e90811aba8]
 
 Made
 
@@ -41,11 +41,11 @@ Coming into operation
 
 *28th May 2007*
 
-[^key-2dd3a80c56069de5b9eb65e90811aba8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2dd3a80c56069de5b9eb65e90811aba8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — General[^key-2dd3a80c56069de5b9eb65e90811aba8]
+### PART 1 — General[^c-2dd3a80c56069de5b9eb65e90811aba8]
 
 *Extent: N.I.*
 
@@ -55,13 +55,13 @@ Coming into operation
 - [Section 2 — Definitions and interpretation](part-1/section-2.md)
 - [Section 3 — Responsibility for implementation of the Air Framework Directive](part-1/section-3.md)
 
-### PART 2 — Group A and Group B pollutants and ozone[^key-2dd3a80c56069de5b9eb65e90811aba8]
+### PART 2 — Group A and Group B pollutants and ozone[^c-2dd3a80c56069de5b9eb65e90811aba8]
 
 *Extent: N.I.*
 
 **No longer in force.**
 
-#### CHAPTER 1 — Air Quality Standards[^key-2dd3a80c56069de5b9eb65e90811aba8]
+#### CHAPTER 1 — Air Quality Standards[^c-2dd3a80c56069de5b9eb65e90811aba8]
 
 *Extent: N.I.*
 
@@ -71,7 +71,7 @@ Coming into operation
 - [Section 5 — Zones and agglomerations](part-2/section-5.md)
 - [Section 6 — Air quality standards](part-2/section-6.md)
 
-#### CHAPTER 2 — Attainment of air quality standards[^key-2dd3a80c56069de5b9eb65e90811aba8]
+#### CHAPTER 2 — Attainment of air quality standards[^c-2dd3a80c56069de5b9eb65e90811aba8]
 
 *Extent: N.I.*
 
@@ -81,7 +81,7 @@ Coming into operation
 - [Section 8 — Improvement plans](part-2/section-8.md)
 - [Section 9 — Other improvement measures](part-2/section-9.md)
 
-#### CHAPTER 3 — Maintenance of air quality standards and action plans[^key-2dd3a80c56069de5b9eb65e90811aba8]
+#### CHAPTER 3 — Maintenance of air quality standards and action plans[^c-2dd3a80c56069de5b9eb65e90811aba8]
 
 *Extent: N.I.*
 
@@ -90,7 +90,7 @@ Coming into operation
 - [Section 10 — Maintenance of air quality standards](part-2/section-10.md)
 - [Section 11 — Action plans](part-2/section-11.md)
 
-#### CHAPTER 4 — Assessment[^key-2dd3a80c56069de5b9eb65e90811aba8]
+#### CHAPTER 4 — Assessment[^c-2dd3a80c56069de5b9eb65e90811aba8]
 
 *Extent: N.I.*
 
@@ -102,7 +102,7 @@ Coming into operation
 - [Section 15 — Sampling points](part-2/section-15.md)
 - [Section 16 — Other assessment requirements](part-2/section-16.md)
 
-### PART 3 — Other pollutants and background monitoring[^key-2dd3a80c56069de5b9eb65e90811aba8]
+### PART 3 — Other pollutants and background monitoring[^c-2dd3a80c56069de5b9eb65e90811aba8]
 
 *Extent: N.I.*
 
@@ -113,7 +113,7 @@ Coming into operation
 - [Section 19 — Monitoring of polycyclic aromatic hydrocarbons](part-3/section-19.md)
 - [Section 20 — Background monitoring](part-3/section-20.md)
 
-### PART 4 — Public information and participation[^key-2dd3a80c56069de5b9eb65e90811aba8]
+### PART 4 — Public information and participation[^c-2dd3a80c56069de5b9eb65e90811aba8]
 
 *Extent: N.I.*
 
@@ -128,7 +128,7 @@ Coming into operation
 - [Section 27 — Information on action and improvement plans](part-4/section-27.md)
 - [Section 28 — Public participation in improvement plans](part-4/section-28.md)
 
-### PART 5 — Final and miscellaneous provisions[^key-2dd3a80c56069de5b9eb65e90811aba8]
+### PART 5 — Final and miscellaneous provisions[^c-2dd3a80c56069de5b9eb65e90811aba8]
 
 *Extent: N.I.*
 
@@ -154,14 +154,14 @@ Coming into operation
 
 **No longer in force.**
 
-[^key-2dd3a80c56069de5b9eb65e90811aba8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2dd3a80c56069de5b9eb65e90811aba8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-2dd3a80c56069de5b9eb65e90811aba8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2dd3a80c56069de5b9eb65e90811aba8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2dd3a80c56069de5b9eb65e90811aba8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/265) revoked (11.6.2010) by [The Air Quality Standards Regulations (Northern Ireland) 2010 (S.R. 2010/188)](https://www.legislation.gov.uk/nisr/2010/188), [regs. 1](https://www.legislation.gov.uk/nisr/2010/188/regulation/1), [30](https://www.legislation.gov.uk/nisr/2010/188/regulation/30)
+[^c-2dd3a80c56069de5b9eb65e90811aba8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/265) revoked (11.6.2010) by [The Air Quality Standards Regulations (Northern Ireland) 2010 (S.R. 2010/188)](https://www.legislation.gov.uk/nisr/2010/188), [regs. 1](https://www.legislation.gov.uk/nisr/2010/188/regulation/1), [30](https://www.legislation.gov.uk/nisr/2010/188/regulation/30)

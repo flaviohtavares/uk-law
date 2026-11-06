@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 141. Annual rate of surviving adult pension: long-term[^key-efbcdb02e1a2e6f345686e7ece23a9b4]
+## 141. Annual rate of surviving adult pension: long-term[^c-efbcdb02e1a2e6f345686e7ece23a9b4]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-efbcdb02e1a2e6f345686e7ece23a9b4]: Commencement: [Reg. 141](https://www.legislation.gov.uk/ssi/2014/292/regulation/141) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-efbcdb02e1a2e6f345686e7ece23a9b4]: Commencement: [Reg. 141](https://www.legislation.gov.uk/ssi/2014/292/regulation/141) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

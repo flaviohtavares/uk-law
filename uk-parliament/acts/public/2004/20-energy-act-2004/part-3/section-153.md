@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Extraterritorial application of Gas Act 1986[^key-6d8b8ef8fee35120cdff722838596247]
+## 153. Extraterritorial application of Gas Act 1986[^c-6d8b8ef8fee35120cdff722838596247]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ After section 64 of the Gas Act 1986 (c. 44) insert—
 
 ## Annotations
 
-[^key-6d8b8ef8fee35120cdff722838596247]: Commencement: [S. 153](https://www.legislation.gov.uk/ukpga/2004/20/section/153) in force at 14.8.2006 by [S.I. 2006/1964](https://www.legislation.gov.uk/uksi/2006/1964), [art. 2](https://www.legislation.gov.uk/uksi/2006/1964/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/1964/schedule)
+[^c-6d8b8ef8fee35120cdff722838596247]: Commencement: [S. 153](https://www.legislation.gov.uk/ukpga/2004/20/section/153) in force at 14.8.2006 by [S.I. 2006/1964](https://www.legislation.gov.uk/uksi/2006/1964), [art. 2](https://www.legislation.gov.uk/uksi/2006/1964/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/1964/schedule)

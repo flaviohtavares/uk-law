@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29A. Interpretation, translation for persons other than the appellant[^key-2625acb72c138a26cfe1bfbf3d19ad98]
+## 29A. Interpretation, translation for persons other than the appellant[^c-2625acb72c138a26cfe1bfbf3d19ad98]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2625acb72c138a26cfe1bfbf3d19ad98]: Textual amendment: [Rule 29A](https://www.legislation.gov.uk/uksi/2009/1211/rule/29A) inserted (16.11.2015) by [The Armed Forces (Service Courts Rules) (Amendment) Rules 2015 (S.I. 2015/1812)](https://www.legislation.gov.uk/uksi/2015/1812), [rules 1](https://www.legislation.gov.uk/uksi/2015/1812/rule/1), [4](https://www.legislation.gov.uk/uksi/2015/1812/rule/4)
+[^c-2625acb72c138a26cfe1bfbf3d19ad98]: Textual amendment: [Rule 29A](https://www.legislation.gov.uk/uksi/2009/1211/rule/29A) inserted (16.11.2015) by [The Armed Forces (Service Courts Rules) (Amendment) Rules 2015 (S.I. 2015/1812)](https://www.legislation.gov.uk/uksi/2015/1812), [rules 1](https://www.legislation.gov.uk/uksi/2015/1812/rule/1), [4](https://www.legislation.gov.uk/uksi/2015/1812/rule/4)

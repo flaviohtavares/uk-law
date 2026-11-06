@@ -25,7 +25,7 @@ summary: ''
 - (a) that person has been assessed as being competent and fit to carry out that work following an assessment by an assessor;
 - (b) there is an accurate and up to date record in writing of that person's competence and fitness which references any criteria for determining competence and fitness against which that assessment of competence was made;
 - (c) the record, or an accurate summary of the record referred to in sub-paragraph (b) is available for inspection, on reasonable request, by any other controller of safety critical work or any operator who may be affected by any safety critical work carried out or to be carried out by that person, for the purposes of establishing that person's competence and fitness to carry out safety critical work; and
-- (d) there are in place suitable and sufficient[^key-980d98696302d6b1d7fb776892ff9e16] arrangements for monitoring the competence and fitness of that person.
+- (d) there are in place suitable and sufficient[^c-980d98696302d6b1d7fb776892ff9e16] arrangements for monitoring the competence and fitness of that person.
 
 (2) Every controller of safety critical work shall without unreasonable delay review any person's competence or fitness assessment where—
 
@@ -38,4 +38,4 @@ and where, as a result of any such review a reassessment of competence or fitnes
 
 ## Annotations
 
-[^key-980d98696302d6b1d7fb776892ff9e16]: Textual amendment: Words in [reg. 24(1)(d)](https://www.legislation.gov.uk/uksi/2006/599/regulation/24/1/d) inserted (21.5.2013) by [The Railways and Other Guided Transport Systems (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/950)](https://www.legislation.gov.uk/uksi/2013/950), [regs. 1](https://www.legislation.gov.uk/uksi/2013/950/regulation/1), [3(10)](https://www.legislation.gov.uk/uksi/2013/950/regulation/3/10)
+[^c-980d98696302d6b1d7fb776892ff9e16]: Textual amendment: Words in [reg. 24(1)(d)](https://www.legislation.gov.uk/uksi/2006/599/regulation/24/1/d) inserted (21.5.2013) by [The Railways and Other Guided Transport Systems (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/950)](https://www.legislation.gov.uk/uksi/2013/950), [regs. 1](https://www.legislation.gov.uk/uksi/2013/950/regulation/1), [3(10)](https://www.legislation.gov.uk/uksi/2013/950/regulation/3/10)

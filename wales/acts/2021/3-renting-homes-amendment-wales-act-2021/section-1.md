@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Landlord's notice under periodic standard contract: minimum notice period[^key-78fee81e81c82f5e3beab5af290e4dc0]
+## 1. Landlord's notice under periodic standard contract: minimum notice period[^c-78fee81e81c82f5e3beab5af290e4dc0]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78fee81e81c82f5e3beab5af290e4dc0]: Commencement: [S. 1](https://www.legislation.gov.uk/asc/2021/3/section/1) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)
+[^c-78fee81e81c82f5e3beab5af290e4dc0]: Commencement: [S. 1](https://www.legislation.gov.uk/asc/2021/3/section/1) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)

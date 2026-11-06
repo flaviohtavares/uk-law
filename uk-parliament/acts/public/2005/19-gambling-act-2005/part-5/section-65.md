@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Nature of licence[^key-db6a924b6c60dc1ce719f4a0f0ef546f][^key-e1f6e585bac667309e250f830e864ec8]
+## 65. Nature of licence[^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-e1f6e585bac667309e250f830e864ec8]
 
 *Extent: E+W+S*
 
-(1)[^key-53459a865342e1dc5179345233a69db1][^key-38059c893ac7570b97a651e9cd1dd239] The Commission may issue operating licences in accordance with the provisions of this Part.
+(1)[^c-53459a865342e1dc5179345233a69db1][^c-38059c893ac7570b97a651e9cd1dd239] The Commission may issue operating licences in accordance with the provisions of this Part.
 
-(2)[^key-dc9d7a1849b98387a7f0b93f933bdfaf] An operating licence is a licence which states that it authorises the licensee—
+(2)[^c-dc9d7a1849b98387a7f0b93f933bdfaf] An operating licence is a licence which states that it authorises the licensee—
 
 - (a) to operate a casino (a “casino operating licence”),
 - (b) to provide facilities for playing bingo (a “bingo operating licence”),
@@ -35,24 +35,24 @@ summary: ''
 - (i) to manufacture, supply, install or adapt gambling software (a “gambling software operating licence”), or
 - (j) to promote a lottery (a “lottery operating licence”).
 
-(3)[^key-53459a865342e1dc5179345233a69db1][^key-38059c893ac7570b97a651e9cd1dd239] The issue of an operating licence does not affect the application of section 37.
+(3)[^c-53459a865342e1dc5179345233a69db1][^c-38059c893ac7570b97a651e9cd1dd239] The issue of an operating licence does not affect the application of section 37.
 
-(4)[^key-53459a865342e1dc5179345233a69db1][^key-38059c893ac7570b97a651e9cd1dd239] The Secretary of State may by order amend subsection (2) so as to—
+(4)[^c-53459a865342e1dc5179345233a69db1][^c-38059c893ac7570b97a651e9cd1dd239] The Secretary of State may by order amend subsection (2) so as to—
 
 - (a) add a kind of operating licence,
 - (b) remove a kind of operating licence, or
 - (c) vary a kind of operating licence.
 
-(5)[^key-53459a865342e1dc5179345233a69db1][^key-38059c893ac7570b97a651e9cd1dd239] An order under subsection (4) may, in particular, make consequential amendment of this Part (or a provision of this Act or another enactment that relates to this Part).
+(5)[^c-53459a865342e1dc5179345233a69db1][^c-38059c893ac7570b97a651e9cd1dd239] An order under subsection (4) may, in particular, make consequential amendment of this Part (or a provision of this Act or another enactment that relates to this Part).
 
 ## Annotations
 
-[^key-db6a924b6c60dc1ce719f4a0f0ef546f]: Modification: Pt. 5 modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 para. 72](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/72)
+[^c-db6a924b6c60dc1ce719f4a0f0ef546f]: Modification: Pt. 5 modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 para. 72](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/72)
 
-[^key-e1f6e585bac667309e250f830e864ec8]: Modification: Pt. 5 modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 para. 50](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/50)
+[^c-e1f6e585bac667309e250f830e864ec8]: Modification: Pt. 5 modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 para. 50](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/50)
 
-[^key-53459a865342e1dc5179345233a69db1]: Commencement: S. 65(1) (3)-(5) in force at 1.1.2007 for specified purposes by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3272/schedule/1) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4))
+[^c-53459a865342e1dc5179345233a69db1]: Commencement: S. 65(1) (3)-(5) in force at 1.1.2007 for specified purposes by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3272/schedule/1) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4))
 
-[^key-38059c893ac7570b97a651e9cd1dd239]: Commencement: [S. 65(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/65/1) [(3)-(5)](https://www.legislation.gov.uk/ukpga/2005/19/section/65/3) in force at 1.9.2007 in so far as not already in force by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by S.I. 2007/2169, arts. 3, 6, Sch.)
+[^c-38059c893ac7570b97a651e9cd1dd239]: Commencement: [S. 65(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/65/1) [(3)-(5)](https://www.legislation.gov.uk/ukpga/2005/19/section/65/3) in force at 1.9.2007 in so far as not already in force by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by S.I. 2007/2169, arts. 3, 6, Sch.)
 
-[^key-dc9d7a1849b98387a7f0b93f933bdfaf]: Commencement: S. 65(2) in force at 1.10.2005 by [S.I. 2005/2455](https://www.legislation.gov.uk/uksi/2005/2455), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2455/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/2455/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2455/article/3))
+[^c-dc9d7a1849b98387a7f0b93f933bdfaf]: Commencement: S. 65(2) in force at 1.10.2005 by [S.I. 2005/2455](https://www.legislation.gov.uk/uksi/2005/2455), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2455/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/2455/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2455/article/3))

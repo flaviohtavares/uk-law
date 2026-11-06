@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48B. Alternative finance arrangements: alternative finance investment bond: effects[^key-4e28db8b89831522182cbb7a8d00f54d]
+## 48B. Alternative finance arrangements: alternative finance investment bond: effects[^c-4e28db8b89831522182cbb7a8d00f54d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e28db8b89831522182cbb7a8d00f54d]: Textual amendment: S. 48B repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 paras. 214](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/214), 304, [Sch. 10 Pts. 7, 13](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/7) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-4e28db8b89831522182cbb7a8d00f54d]: Textual amendment: S. 48B repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 paras. 214](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/214), 304, [Sch. 10 Pts. 7, 13](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/7) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Determination of preliminary point of law.[^c833517][^c2085240][^c2085652][^c2085771][^c2086226][^key-4799049f92856ccc8093454a231f9ad4]
+## 45. Determination of preliminary point of law.[^c833517][^c2085240][^c2085652][^c2085771][^c2086226][^c-4799049f92856ccc8093454a231f9ad4]
 
 *Extent: E+W+N.I.*
 
@@ -27,13 +27,13 @@ An agreement to dispense with reasons for the tribunal’s award shall be consid
 (2) An application under this section shall not be considered unless—
 
 - (a) it is made with the agreement of all the other parties to the proceedings, or
-- (b) it is made with the permission of the tribunal [^key-b2c9b1e500d31e1e7a2924ce7c2ad6a9]...
+- (b) it is made with the permission of the tribunal [^c-b2c9b1e500d31e1e7a2924ce7c2ad6a9]...
 
-(3) The application shall identify the question of law to be determined [^key-fd2a50c1928a136e7d017d0df93aa6db]....
+(3) The application shall identify the question of law to be determined [^c-fd2a50c1928a136e7d017d0df93aa6db]....
 
 (4) Unless otherwise agreed by the parties, the arbitral tribunal may continue the arbitral proceedings and make an award while an application to the court under this section is pending.
 
-(5) Unless the court gives leave, no appeal lies from a decision of the court whether either condition specified in subsection (2) is[^key-ee7e6c023216293cb7470b528566d8d4] met.
+(5) Unless the court gives leave, no appeal lies from a decision of the court whether either condition specified in subsection (2) is[^c-ee7e6c023216293cb7470b528566d8d4] met.
 
 (6) The decision of the court on the question of law shall be treated as a judgment of the court for the purposes of an appeal.
 
@@ -51,10 +51,10 @@ But no appeal lies without the leave of the court which shall not be given unles
 
 [^c2086226]: Modification: S. 45 applied (with modifications) (N.I.) (21.5.2006) by [The Labour Relations Agency (Flexible Working) Arbitration Scheme Order (Northern Ireland) 2006 (S.R. 2006/206)](https://www.legislation.gov.uk/nisr/2006/206), [arts. 2](https://www.legislation.gov.uk/nisr/2006/206/article/2), [3](https://www.legislation.gov.uk/nisr/2006/206/article/3), [Sch. para. 93](https://www.legislation.gov.uk/nisr/2006/206/schedule/paragraph/93)
 
-[^key-4799049f92856ccc8093454a231f9ad4]: Modification: S. 45 applied (with modifications) (N.I.) (27.9.2012) by [The Labour Relations Agency Arbitration Scheme Order (Northern Ireland) 2012 (S.R. 2012/301)](https://www.legislation.gov.uk/nisr/2012/301), [art. 1](https://www.legislation.gov.uk/nisr/2012/301/article/1), [Sch. para. 89](https://www.legislation.gov.uk/nisr/2012/301/schedule/paragraph/89)
+[^c-4799049f92856ccc8093454a231f9ad4]: Modification: S. 45 applied (with modifications) (N.I.) (27.9.2012) by [The Labour Relations Agency Arbitration Scheme Order (Northern Ireland) 2012 (S.R. 2012/301)](https://www.legislation.gov.uk/nisr/2012/301), [art. 1](https://www.legislation.gov.uk/nisr/2012/301/article/1), [Sch. para. 89](https://www.legislation.gov.uk/nisr/2012/301/schedule/paragraph/89)
 
-[^key-b2c9b1e500d31e1e7a2924ce7c2ad6a9]: Textual amendment: Words in s. 45(2)(b) omitted (1.8.2025) by virtue of [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 14(3)(a)](https://www.legislation.gov.uk/ukpga/2025/4/section/14/3/a), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-b2c9b1e500d31e1e7a2924ce7c2ad6a9]: Textual amendment: Words in s. 45(2)(b) omitted (1.8.2025) by virtue of [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 14(3)(a)](https://www.legislation.gov.uk/ukpga/2025/4/section/14/3/a), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
 
-[^key-fd2a50c1928a136e7d017d0df93aa6db]: Textual amendment: Words in s. 45(3) omitted (1.8.2025) by virtue of [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 14(3)(b)](https://www.legislation.gov.uk/ukpga/2025/4/section/14/3/b), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-fd2a50c1928a136e7d017d0df93aa6db]: Textual amendment: Words in s. 45(3) omitted (1.8.2025) by virtue of [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 14(3)(b)](https://www.legislation.gov.uk/ukpga/2025/4/section/14/3/b), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
 
-[^key-ee7e6c023216293cb7470b528566d8d4]: Textual amendment: Words in s. 45(5) substituted (1.8.2025) by [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 14(3)(c)](https://www.legislation.gov.uk/ukpga/2025/4/section/14/3/c), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-ee7e6c023216293cb7470b528566d8d4]: Textual amendment: Words in s. 45(5) substituted (1.8.2025) by [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 14(3)(c)](https://www.legislation.gov.uk/ukpga/2025/4/section/14/3/c), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)

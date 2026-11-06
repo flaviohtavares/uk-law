@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Right of entry[^key-8774b0732e1ad4c3208b5c972d2e762e]
+## 121. Right of entry[^c-8774b0732e1ad4c3208b5c972d2e762e]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8774b0732e1ad4c3208b5c972d2e762e]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2013/32/section/121) in force at 30.4.2015 by [S.I. 2015/817](https://www.legislation.gov.uk/uksi/2015/817), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/817/article/2/a)
+[^c-8774b0732e1ad4c3208b5c972d2e762e]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2013/32/section/121) in force at 30.4.2015 by [S.I. 2015/817](https://www.legislation.gov.uk/uksi/2015/817), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/817/article/2/a)

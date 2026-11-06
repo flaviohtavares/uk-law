@@ -33,7 +33,7 @@ A Measure of the General Synod of the Church of England to provide for any liabi
 
 \[3rd April 2025\]
 
-## 1. Existing liabilities on title or under contract[^key-148d2d4dcf8e92fb5cf4cdf0353dbab2][^key-5d308122166337ca5374fb0a48a5c918]
+## 1. Existing liabilities on title or under contract[^c-148d2d4dcf8e92fb5cf4cdf0353dbab2][^c-5d308122166337ca5374fb0a48a5c918]
 
 (1) Where, immediately before the commencement of this section, a liability of the Church Commissioners to repair the chancel of a church had effect as an interest in or over land or as a contractual obligation, the liability—
 
@@ -48,7 +48,7 @@ A Measure of the General Synod of the Church of England to provide for any liabi
 
 (5) The references to the Church Commissioners include a reference to a subsidiary of the Commissioners.
 
-## 2. Existing statutory liabilities[^key-06be478d4801ebeeeb873b7aeca7d554][^key-df5e979c9f08bbb74e8785e07dc4876a]
+## 2. Existing statutory liabilities[^c-06be478d4801ebeeeb873b7aeca7d554][^c-df5e979c9f08bbb74e8785e07dc4876a]
 
 (1) The liability of the Church Commissioners under each of the Acts mentioned in subsection (2) continues to have effect and be enforceable after the commencement of section 1 as it did immediately before the commencement of that section.
 
@@ -70,7 +70,7 @@ A Measure of the General Synod of the Church of England to provide for any liabi
 
 (4) The reference in section 1(3) to an instrument does not include an Act mentioned in subsection (2).
 
-## 3. Future liabilities[^key-c0910b5767f468e4d94e1ceab6fd1127][^key-42f2b5ad251364402ff8ba1cdc0f9221]
+## 3. Future liabilities[^c-c0910b5767f468e4d94e1ceab6fd1127][^c-42f2b5ad251364402ff8ba1cdc0f9221]
 
 (1) Where, after the commencement of this section, the Church Commissioners acquire land and, immediately before the acquisition, a liability to repair the chancel of a church had effect as an interest in or over that land, the liability—
 
@@ -83,7 +83,7 @@ A Measure of the General Synod of the Church of England to provide for any liabi
 
 (4) The references to the Church Commissioners include a reference to a subsidiary of the Commissioners.
 
-## 4. Liabilities on cathedrals[^key-4657727d24b41155e282829a5a1a626b][^key-81e632c197a4fa993391d1881281a3a5]
+## 4. Liabilities on cathedrals[^c-4657727d24b41155e282829a5a1a626b][^c-81e632c197a4fa993391d1881281a3a5]
 
 (1) Any liability of the Chapter of a cathedral to repair the chancel of a church in respect of which the Church Commissioners had, before the commencement of this section, been making grants under section 28(6) of the [Cathedrals Measure 2021](https://www.legislation.gov.uk/ukcm/2021/2) and that had effect immediately before that commencement (whether or not as an interest in or over land)—
 
@@ -96,7 +96,7 @@ A Measure of the General Synod of the Church of England to provide for any liabi
 
 (4) Section 28(6) of the [Cathedrals Measure 2021](https://www.legislation.gov.uk/ukcm/2021/2) ceases to have effect.
 
-## 5. Supplementary matters[^key-b2f8ee84ca327e609dbe5f746fe3ae74][^key-373f30b1ece4ca2d55f52d8c7c64f145]
+## 5. Supplementary matters[^c-b2f8ee84ca327e609dbe5f746fe3ae74][^c-373f30b1ece4ca2d55f52d8c7c64f145]
 
 (1) A duty or liability imposed by this Measure is enforceable under the Chancel Repairs Act 1932.
 
@@ -112,7 +112,7 @@ A Measure of the General Synod of the Church of England to provide for any liabi
 - “**land**” includes mines and minerals, whether or not held apart from the surface, with “mines and minerals” having the meaning given in section 205(1)(ix) of the Law of Property Act 1925, and
 - “**subsidiary**” has the same meaning as in the [Companies Act 2006](https://www.legislation.gov.uk/ukpga/2006/46) (see section 1159 of that Act).
 
-## 6. Short title, commencement and extent[^key-df90b333c070eb8a986b07429fa3fbb2]
+## 6. Short title, commencement and extent[^c-df90b333c070eb8a986b07429fa3fbb2]
 
 (1) This Measure may be cited as the Chancel Repair (Church Commissioners’ Liability) Measure 2025.
 
@@ -129,24 +129,24 @@ A Measure of the General Synod of the Church of England to provide for any liabi
 
 ## Annotations
 
-[^key-148d2d4dcf8e92fb5cf4cdf0353dbab2]: Commencement: S. 1 not in force at Royal Assent, see [s. 6(3)](https://www.legislation.gov.uk/ukcm/2025/1/section/6/3)
+[^c-148d2d4dcf8e92fb5cf4cdf0353dbab2]: Commencement: S. 1 not in force at Royal Assent, see [s. 6(3)](https://www.legislation.gov.uk/ukcm/2025/1/section/6/3)
 
-[^key-5d308122166337ca5374fb0a48a5c918]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2025/1/section/1) in force at 1.10.2025 by [S.I. 2025/1041](https://www.legislation.gov.uk/uksi/2025/1041), [art. 2](https://www.legislation.gov.uk/uksi/2025/1041/article/2)
+[^c-5d308122166337ca5374fb0a48a5c918]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2025/1/section/1) in force at 1.10.2025 by [S.I. 2025/1041](https://www.legislation.gov.uk/uksi/2025/1041), [art. 2](https://www.legislation.gov.uk/uksi/2025/1041/article/2)
 
-[^key-06be478d4801ebeeeb873b7aeca7d554]: Commencement: S. 2 not in force at Royal Assent, see [s. 6(3)](https://www.legislation.gov.uk/ukcm/2025/1/section/6/3)
+[^c-06be478d4801ebeeeb873b7aeca7d554]: Commencement: S. 2 not in force at Royal Assent, see [s. 6(3)](https://www.legislation.gov.uk/ukcm/2025/1/section/6/3)
 
-[^key-df5e979c9f08bbb74e8785e07dc4876a]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2025/1/section/2) in force at 1.10.2025 by [S.I. 2025/1041](https://www.legislation.gov.uk/uksi/2025/1041), [art. 2](https://www.legislation.gov.uk/uksi/2025/1041/article/2)
+[^c-df5e979c9f08bbb74e8785e07dc4876a]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2025/1/section/2) in force at 1.10.2025 by [S.I. 2025/1041](https://www.legislation.gov.uk/uksi/2025/1041), [art. 2](https://www.legislation.gov.uk/uksi/2025/1041/article/2)
 
-[^key-c0910b5767f468e4d94e1ceab6fd1127]: Commencement: S. 3 not in force at Royal Assent, see [s. 6(3)](https://www.legislation.gov.uk/ukcm/2025/1/section/6/3)
+[^c-c0910b5767f468e4d94e1ceab6fd1127]: Commencement: S. 3 not in force at Royal Assent, see [s. 6(3)](https://www.legislation.gov.uk/ukcm/2025/1/section/6/3)
 
-[^key-42f2b5ad251364402ff8ba1cdc0f9221]: Commencement: [S. 3](https://www.legislation.gov.uk/ukcm/2025/1/section/3) in force at 1.10.2025 by [S.I. 2025/1041](https://www.legislation.gov.uk/uksi/2025/1041), [art. 2](https://www.legislation.gov.uk/uksi/2025/1041/article/2)
+[^c-42f2b5ad251364402ff8ba1cdc0f9221]: Commencement: [S. 3](https://www.legislation.gov.uk/ukcm/2025/1/section/3) in force at 1.10.2025 by [S.I. 2025/1041](https://www.legislation.gov.uk/uksi/2025/1041), [art. 2](https://www.legislation.gov.uk/uksi/2025/1041/article/2)
 
-[^key-4657727d24b41155e282829a5a1a626b]: Commencement: S. 4 not in force at Royal Assent, see [s. 6(3)](https://www.legislation.gov.uk/ukcm/2025/1/section/6/3)
+[^c-4657727d24b41155e282829a5a1a626b]: Commencement: S. 4 not in force at Royal Assent, see [s. 6(3)](https://www.legislation.gov.uk/ukcm/2025/1/section/6/3)
 
-[^key-81e632c197a4fa993391d1881281a3a5]: Commencement: [S. 4](https://www.legislation.gov.uk/ukcm/2025/1/section/4) in force at 1.10.2025 by [S.I. 2025/1041](https://www.legislation.gov.uk/uksi/2025/1041), [art. 2](https://www.legislation.gov.uk/uksi/2025/1041/article/2)
+[^c-81e632c197a4fa993391d1881281a3a5]: Commencement: [S. 4](https://www.legislation.gov.uk/ukcm/2025/1/section/4) in force at 1.10.2025 by [S.I. 2025/1041](https://www.legislation.gov.uk/uksi/2025/1041), [art. 2](https://www.legislation.gov.uk/uksi/2025/1041/article/2)
 
-[^key-b2f8ee84ca327e609dbe5f746fe3ae74]: Commencement: S. 5 not in force at Royal Assent, see [s. 6(3)](https://www.legislation.gov.uk/ukcm/2025/1/section/6/3)
+[^c-b2f8ee84ca327e609dbe5f746fe3ae74]: Commencement: S. 5 not in force at Royal Assent, see [s. 6(3)](https://www.legislation.gov.uk/ukcm/2025/1/section/6/3)
 
-[^key-373f30b1ece4ca2d55f52d8c7c64f145]: Commencement: [S. 5](https://www.legislation.gov.uk/ukcm/2025/1/section/5) in force at 1.10.2025 by [S.I. 2025/1041](https://www.legislation.gov.uk/uksi/2025/1041), [art. 2](https://www.legislation.gov.uk/uksi/2025/1041/article/2)
+[^c-373f30b1ece4ca2d55f52d8c7c64f145]: Commencement: [S. 5](https://www.legislation.gov.uk/ukcm/2025/1/section/5) in force at 1.10.2025 by [S.I. 2025/1041](https://www.legislation.gov.uk/uksi/2025/1041), [art. 2](https://www.legislation.gov.uk/uksi/2025/1041/article/2)
 
-[^key-df90b333c070eb8a986b07429fa3fbb2]: Commencement: S. 6 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukcm/2025/1/section/6/2)
+[^c-df90b333c070eb8a986b07429fa3fbb2]: Commencement: S. 6 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukcm/2025/1/section/6/2)

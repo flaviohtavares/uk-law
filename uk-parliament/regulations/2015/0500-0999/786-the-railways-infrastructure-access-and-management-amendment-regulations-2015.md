@@ -32,7 +32,7 @@ summary: ''
 
 Transport
 
-The Railways Infrastructure (Access and Management) (Amendment) Regulations 2015 (revoked)[^key-65763bc8ae657cb4a95c8e1138e857ef]
+The Railways Infrastructure (Access and Management) (Amendment) Regulations 2015 (revoked)[^c-65763bc8ae657cb4a95c8e1138e857ef]
 
 Made
 
@@ -44,48 +44,48 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-65763bc8ae657cb4a95c8e1138e857ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65763bc8ae657cb4a95c8e1138e857ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and extent[^key-65763bc8ae657cb4a95c8e1138e857ef]
+## 1. Citation, commencement, interpretation and extent[^c-65763bc8ae657cb4a95c8e1138e857ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Railway Infrastructure (Access and Management) Regulations 2005[^key-65763bc8ae657cb4a95c8e1138e857ef]
+## 2. Amendment of the Railway Infrastructure (Access and Management) Regulations 2005[^c-65763bc8ae657cb4a95c8e1138e857ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-65763bc8ae657cb4a95c8e1138e857ef]
+## 3. Interpretation[^c-65763bc8ae657cb4a95c8e1138e857ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Scope[^key-65763bc8ae657cb4a95c8e1138e857ef]
+## 4. Scope[^c-65763bc8ae657cb4a95c8e1138e857ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Establishing, determining and collecting the charges[^key-65763bc8ae657cb4a95c8e1138e857ef]
+## 5. Establishing, determining and collecting the charges[^c-65763bc8ae657cb4a95c8e1138e857ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Capacity allocation[^key-65763bc8ae657cb4a95c8e1138e857ef]
+## 6. Capacity allocation[^c-65763bc8ae657cb4a95c8e1138e857ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. International cooperation[^key-65763bc8ae657cb4a95c8e1138e857ef]
+## 7. International cooperation[^c-65763bc8ae657cb4a95c8e1138e857ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Enforcement[^key-65763bc8ae657cb4a95c8e1138e857ef]
+## 8. Enforcement[^c-65763bc8ae657cb4a95c8e1138e857ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-65763bc8ae657cb4a95c8e1138e857ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65763bc8ae657cb4a95c8e1138e857ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-65763bc8ae657cb4a95c8e1138e857ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65763bc8ae657cb4a95c8e1138e857ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-65763bc8ae657cb4a95c8e1138e857ef]: Textual amendment: Regulations revoked (29.7.2016) by [The Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016 (S.I. 2016/645)](https://www.legislation.gov.uk/uksi/2016/645), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2016/645/regulation/2/1/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4))
+[^c-65763bc8ae657cb4a95c8e1138e857ef]: Textual amendment: Regulations revoked (29.7.2016) by [The Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016 (S.I. 2016/645)](https://www.legislation.gov.uk/uksi/2016/645), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2016/645/regulation/2/1/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4))

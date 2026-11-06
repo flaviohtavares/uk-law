@@ -122,7 +122,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
   - (v) an order for possession of a dwelling-house let under an introductory tenancy;
 - (b) conducting (or deciding whether to commence) criminal proceedings for any offence;
 - (c) deciding whether to withhold consent to a mutual exchange of secure tenancies on Ground 2A or 2B in Schedule 3A to the 1983 Order (withholding of consent where order in force or application pending in connection with anti-social behaviour etc.);
-- (d) deciding whether a secure tenant is entitled to exercise a right under a scheme for house sales under Article 3 [^key-7a3043f30901b5716704c8d2aa2c0992]... of the 1983 Order, where (in accordance with that scheme) that right depends on any behaviour of the tenant;
+- (d) deciding whether a secure tenant is entitled to exercise a right under a scheme for house sales under Article 3 [^c-7a3043f30901b5716704c8d2aa2c0992]... of the 1983 Order, where (in accordance with that scheme) that right depends on any behaviour of the tenant;
 - (e) (where the information is disclosed to the Executive) deciding whether—
   - (i) to treat an applicant for an allocation of housing accommodation as ineligible for such an allocation by virtue of Article 22A(6) of the Housing (Northern Ireland) Order 1981 (ineligibility due to unacceptable behaviour), or
   - (ii) to treat an applicant for assistance under Part 2 of the Housing (Northern Ireland) Order 1988 as ineligible for that assistance by virtue of Article 7A(5) of that Order (ineligibility due to unacceptable behaviour);
@@ -186,4 +186,4 @@ This Act may be cited as the Housing (Amendment) Act (Northern Ireland) 2016.
 
 ## Annotations
 
-[^key-7a3043f30901b5716704c8d2aa2c0992]: Textual amendment: Words in [s. 2(7)(d)](https://www.legislation.gov.uk/nia/2016/17/section/2/7/d) omitted (29.8.2022) by virtue of [Housing (Amendment) Act (Northern Ireland) 2020 (c. 5)](https://www.legislation.gov.uk/nia/2020/5), [s. 10(1)](https://www.legislation.gov.uk/nia/2020/5/section/10/1), [Sch. para. 2](https://www.legislation.gov.uk/nia/2020/5/schedule/paragraph/2) (with [s. 7(2)](https://www.legislation.gov.uk/nia/2020/5/section/7/2))
+[^c-7a3043f30901b5716704c8d2aa2c0992]: Textual amendment: Words in [s. 2(7)(d)](https://www.legislation.gov.uk/nia/2016/17/section/2/7/d) omitted (29.8.2022) by virtue of [Housing (Amendment) Act (Northern Ireland) 2020 (c. 5)](https://www.legislation.gov.uk/nia/2020/5), [s. 10(1)](https://www.legislation.gov.uk/nia/2020/5/section/10/1), [Sch. para. 2](https://www.legislation.gov.uk/nia/2020/5/schedule/paragraph/2) (with [s. 7(2)](https://www.legislation.gov.uk/nia/2020/5/section/7/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Water quality standards[^key-a7786d8d1d9951ac014b32d348812108]
+## 14. Water quality standards[^c-a7786d8d1d9951ac014b32d348812108]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7786d8d1d9951ac014b32d348812108]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2017/282/regulation/14) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-a7786d8d1d9951ac014b32d348812108]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2017/282/regulation/14) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

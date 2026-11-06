@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 110. Minor and consequential amendments and repeals[^c20880191][^key-8b81fd94497ede12438bfa16f68b7413][^key-5232c9749dab7d7819d697792d7b2b99]
+## 110. Minor and consequential amendments and repeals[^c20880191][^c-8b81fd94497ede12438bfa16f68b7413][^c-5232c9749dab7d7819d697792d7b2b99]
 
 *Extent: N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 [^c20880191]: Commencement: S. 110 partly in force; s. 110 in force for specified purposes at 5.5.2011 and 5.7.2011 see s. 111(1)(h)(i)(2)(c)(d); s. 110 in operation for specified purposes at 5.7.2011 by [S.R. 2011/224](https://www.legislation.gov.uk/nisr/2011/224), [art. 2(h)](https://www.legislation.gov.uk/nisr/2011/224/article/2/h); s. 110 in operation for specified purposes at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(g)](https://www.legislation.gov.uk/nisr/2011/370/article/3/g)
 
-[^key-8b81fd94497ede12438bfa16f68b7413]: Commencement: [S. 110](https://www.legislation.gov.uk/nia/2011/24/section/110) in operation at 1.1.2012 for specified purposes by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(g)](https://www.legislation.gov.uk/nisr/2011/370/article/3/g)
+[^c-8b81fd94497ede12438bfa16f68b7413]: Commencement: [S. 110](https://www.legislation.gov.uk/nia/2011/24/section/110) in operation at 1.1.2012 for specified purposes by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(g)](https://www.legislation.gov.uk/nisr/2011/370/article/3/g)
 
-[^key-5232c9749dab7d7819d697792d7b2b99]: Commencement: [S. 110](https://www.legislation.gov.uk/nia/2011/24/section/110) in operation at 1.4.2012 for specified purposes by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(c)](https://www.legislation.gov.uk/nisr/2012/142/article/2/c)
+[^c-5232c9749dab7d7819d697792d7b2b99]: Commencement: [S. 110](https://www.legislation.gov.uk/nia/2011/24/section/110) in operation at 1.4.2012 for specified purposes by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(c)](https://www.legislation.gov.uk/nisr/2012/142/article/2/c)

@@ -22,16 +22,16 @@ summary: ''
 
 Regulation 39
 
-**1.**[^key-50953f45bec65db2a93320782f077796] In this Schedule, “registered manager” and “registered provider”, in relation to a children’s home, have the meaning given in regulation 2 (interpretation) of the Children’s Homes Regulations 2001.
+**1.**[^c-50953f45bec65db2a93320782f077796] In this Schedule, “registered manager” and “registered provider”, in relation to a children’s home, have the meaning given in regulation 2 (interpretation) of the Children’s Homes Regulations 2001.
 
-**2.**[^key-f68a6c6377b0c1395b28b932e241146c] This paragraph applies where, immediately before 1st July 2013, a person was—
+**2.**[^c-f68a6c6377b0c1395b28b932e241146c] This paragraph applies where, immediately before 1st July 2013, a person was—
 
 - (a) a registered provider; or
 - (b) a registered manager,
 
 in respect of a children’s home that satisfied the definition of a scheme and was carried on solely as such.
 
-**3.**[^key-991040cf47fae25b6926b5c0ba9b505f] Where paragraph 2(a) applies, the person who was a registered provider in respect of the children’s home may carry on the scheme as if it were a children’s home under Part 2 of the Act until 31st December 2013 if—
+**3.**[^c-991040cf47fae25b6926b5c0ba9b505f] Where paragraph 2(a) applies, the person who was a registered provider in respect of the children’s home may carry on the scheme as if it were a children’s home under Part 2 of the Act until 31st December 2013 if—
 
 - (a) that person notifies HMCI in writing of—
   - (i) their wish to cancel their registration in respect of the home and instead to be registered in respect of a scheme under Part 2 of the Act;
@@ -40,29 +40,29 @@ in respect of a children’s home that satisfied the definition of a scheme and 
   - (iv) their agreement to notify HMCI in writing, without delay, of any change to the information in sub-paragraphs (ii) or (iii); and
 - (b) HMCI receives that notification before 1st August 2013.
 
-**4.**[^key-6f8cbcba1aa756ec5af0888132113eb9] This paragraph applies where—
+**4.**[^c-6f8cbcba1aa756ec5af0888132113eb9] This paragraph applies where—
 
 - (a) paragraph 2(b) applies; and
 - (b) HMCI receives a notification in accordance with paragraph 3.
 
-**5.**[^key-8adc72f7e63ef21b8910b27f51a4fdd1] Where paragraph 4 applies, the person who was a registered manager in respect of the children’s home may continue to manage the scheme as if it were a children’s home under Part 2 of the Act until 31st December 2013 if—
+**5.**[^c-8adc72f7e63ef21b8910b27f51a4fdd1] Where paragraph 4 applies, the person who was a registered manager in respect of the children’s home may continue to manage the scheme as if it were a children’s home under Part 2 of the Act until 31st December 2013 if—
 
 - (a) that person notifies HMCI in writing of their wish to cancel their registration in respect of the home and instead to be registered as the manager in respect of a scheme under Part 2 of the Act; and
 - (b) HMCI receives that notification before 1st August 2013.
 
-**6.**[^key-5941600258409e7056910896cbe80891] HMCI may treat—
+**6.**[^c-5941600258409e7056910896cbe80891] HMCI may treat—
 
 - (a) a notification provided in accordance with paragraph 3 or 5 as an application for—
   - (i) the cancellation of the registration of the registered provider and, as the case may be, the registered manager in respect of the children’s home;
   - (ii) the registration of the registered provider and, as the case may be, the registered manager of that children’s home in respect of the scheme;
 - (b) notification of the matters in paragraph 3(a)(ii) and (iii) as conditions which have been agreed with the applicant for the purposes of section 19 (notice of decisions) of the Act.
 
-**7.**[^key-842869c04ce5293e4ff5cdb038e73134] This paragraph applies where—
+**7.**[^c-842869c04ce5293e4ff5cdb038e73134] This paragraph applies where—
 
 - (a) paragraph 2 applies; and
 - (b) HMCI receives a notification in accordance with paragraph 3 or 5.
 
-**8.**[^key-ca9caad205aff34e9faccbd69cf1e829] Where paragraph 7 applies—
+**8.**[^c-ca9caad205aff34e9faccbd69cf1e829] Where paragraph 7 applies—
 
 - (a) section 11(1) of the Act (requirement to register) does not apply until 1st January 2014;
 - (b) the requirement under section 12(2) of the Act that an application for registration must be accompanied by a fee does not apply;
@@ -74,18 +74,18 @@ in respect of a children’s home that satisfied the definition of a scheme and 
 
 ## Annotations
 
-[^key-50953f45bec65db2a93320782f077796]: Commencement: Sch. 10 para. 1 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-50953f45bec65db2a93320782f077796]: Commencement: Sch. 10 para. 1 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
 
-[^key-f68a6c6377b0c1395b28b932e241146c]: Commencement: Sch. 10 para. 2 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-f68a6c6377b0c1395b28b932e241146c]: Commencement: Sch. 10 para. 2 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
 
-[^key-991040cf47fae25b6926b5c0ba9b505f]: Commencement: Sch. 10 para. 3 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-991040cf47fae25b6926b5c0ba9b505f]: Commencement: Sch. 10 para. 3 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
 
-[^key-6f8cbcba1aa756ec5af0888132113eb9]: Commencement: Sch. 10 para. 4 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-6f8cbcba1aa756ec5af0888132113eb9]: Commencement: Sch. 10 para. 4 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
 
-[^key-8adc72f7e63ef21b8910b27f51a4fdd1]: Commencement: Sch. 10 para. 5 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-8adc72f7e63ef21b8910b27f51a4fdd1]: Commencement: Sch. 10 para. 5 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
 
-[^key-5941600258409e7056910896cbe80891]: Commencement: Sch. 10 para. 6 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-5941600258409e7056910896cbe80891]: Commencement: Sch. 10 para. 6 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
 
-[^key-842869c04ce5293e4ff5cdb038e73134]: Commencement: Sch. 10 para. 7 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-842869c04ce5293e4ff5cdb038e73134]: Commencement: Sch. 10 para. 7 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
 
-[^key-ca9caad205aff34e9faccbd69cf1e829]: Commencement: Sch. 10 para. 8 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-ca9caad205aff34e9faccbd69cf1e829]: Commencement: Sch. 10 para. 8 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)

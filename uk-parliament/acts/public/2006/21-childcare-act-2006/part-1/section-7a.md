@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7A. Discharge of duty under section 7[^key-4338d2bbfaa212551ccaad7900b987b6]
+## 7A. Discharge of duty under section 7[^c-4338d2bbfaa212551ccaad7900b987b6]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4338d2bbfaa212551ccaad7900b987b6]: Textual amendment: [S. 7A](https://www.legislation.gov.uk/ukpga/2006/21/section/7A) inserted (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 87(2)](https://www.legislation.gov.uk/ukpga/2014/6/section/87/2), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 5(d)](https://www.legislation.gov.uk/uksi/2014/889/article/5/d)
+[^c-4338d2bbfaa212551ccaad7900b987b6]: Textual amendment: [S. 7A](https://www.legislation.gov.uk/ukpga/2006/21/section/7A) inserted (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 87(2)](https://www.legislation.gov.uk/ukpga/2014/6/section/87/2), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 5(d)](https://www.legislation.gov.uk/uksi/2014/889/article/5/d)

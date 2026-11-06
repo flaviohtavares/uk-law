@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Lead local authorities: duty to maintain a register[^key-5690544afe862afbe0a65b96211a66fd]
+## 21. Lead local authorities: duty to maintain a register[^c-5690544afe862afbe0a65b96211a66fd]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5690544afe862afbe0a65b96211a66fd]: Commencement: S. 21 in force at 6.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2011/694/article/4/1/c)
+[^c-5690544afe862afbe0a65b96211a66fd]: Commencement: S. 21 in force at 6.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2011/694/article/4/1/c)

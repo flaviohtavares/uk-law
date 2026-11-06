@@ -50,11 +50,11 @@ In accordance with paragraphs 1(1)(d) and 2(1)(c) of that Schedule they have rec
 
 In accordance with paragraphs 1(3) and 2(3) of that Schedule they have consulted the chief constable of the Police Service of Scotland.
 
-## 1. Citation and commencement[^key-374e007c28a49ea508ef5353fd20f4a4]
+## 1. Citation and commencement[^c-374e007c28a49ea508ef5353fd20f4a4]
 
 This Order may be cited as the Road Traffic (Permitted Parking Area and Special Parking Area) (Inverclyde Council) Designation Order 2014 and comes into force on 6th October 2014.
 
-## 2. Interpretation[^key-5f319408c1833bbe249dbd79268fba10]
+## 2. Interpretation[^c-5f319408c1833bbe249dbd79268fba10]
 
 In this Order—
 
@@ -62,22 +62,22 @@ In this Order—
 - “the 1991 Act” means the Road Traffic Act 1991; and
 - “the parking area” means the area designated as a permitted parking area and a special parking area by article 3.
 
-## 3. Designation as permitted parking area and special parking area[^key-e2b9901518abf95377020bbcb5820a08]
+## 3. Designation as permitted parking area and special parking area[^c-e2b9901518abf95377020bbcb5820a08]
 
 That part of the Inverclyde local government area[^f00003] specified in Schedule 1 is designated as—
 
 - (a) a permitted parking area; and
 - (b) a special parking area.
 
-## 4. Modifications and application of Part II of the 1991 Act[^key-9acc8777ed217da33e303658dd9aa5e9]
+## 4. Modifications and application of Part II of the 1991 Act[^c-9acc8777ed217da33e303658dd9aa5e9]
 
 Sections 66, 69 to 74, 79 and 82 of, and Schedule 6 to, the 1991 Act apply in relation to the parking area subject to the modifications specified in Schedule 2.
 
-## 5. Modifications of the 1984 Act[^key-ade2b7618054d0fa9c2dc18b80acc927]
+## 5. Modifications of the 1984 Act[^c-ade2b7618054d0fa9c2dc18b80acc927]
 
 The 1984 Act is modified in relation to the parking area as specified in Schedule 3.
 
-## 6. Disapplication of schedule 1 of the Tribunals and Inquiries Act 1992[^key-a85c7c85b6e8e259e822faab8e84aee6]
+## 6. Disapplication of schedule 1 of the Tribunals and Inquiries Act 1992[^c-a85c7c85b6e8e259e822faab8e84aee6]
 
 The reference in paragraph 40(b) of schedule 1 of the Tribunals and Inquiries Act 1992 to a parking adjudicator appointed under section 73(3) of the 1991 Act does not apply in relation to the parking area.
 
@@ -91,11 +91,11 @@ Edinburgh
 
 11th June 2014
 
-## SCHEDULE 1 — SPECIFICATION OF PARKING AREA[^key-d90f04e59df7bbb0d22de6c81568b1c5]
+## SCHEDULE 1 — SPECIFICATION OF PARKING AREA[^c-d90f04e59df7bbb0d22de6c81568b1c5]
 
 Article 3
 
-[^key-d90f04e59df7bbb0d22de6c81568b1c5]
+[^c-d90f04e59df7bbb0d22de6c81568b1c5]
 
 The Inverclyde local government area, with the exception of—
 
@@ -106,7 +106,7 @@ The Inverclyde local government area, with the exception of—
 
 Article 4
 
-**1.**[^key-5132276514e64d01ae0b0ecffb82d94e] (1) Section 66 is modified as follows.
+**1.**[^c-5132276514e64d01ae0b0ecffb82d94e] (1) Section 66 is modified as follows.
 
 (2) In subsection (1) omit “in a designated parking place”.
 
@@ -128,7 +128,7 @@ Article 4
 
 .
 
-**2.**[^key-4719c35aac49e095fdf30ad426f72f8a] (1) Section 69 is modified as follows.
+**2.**[^c-4719c35aac49e095fdf30ad426f72f8a] (1) Section 69 is modified as follows.
 
 (2) In subsection (1)—
 
@@ -137,7 +137,7 @@ Article 4
 
 (3) In subsection (8) for the words from “London” to the end substitute “parking authority”.
 
-**3.**[^key-430c10926c97bbbb7b9b7725a6836a90] (1) Section 71 is modified as follows.
+**3.**[^c-430c10926c97bbbb7b9b7725a6836a90] (1) Section 71 is modified as follows.
 
 (2) In subsection (1) for “a London” substitute “the parking”.
 
@@ -153,7 +153,7 @@ Article 4
 
 .
 
-(4)[^key-e0c691b0c2c730d199b5f3b02b6c9afa] In subsection (8)—
+(4)[^c-e0c691b0c2c730d199b5f3b02b6c9afa] In subsection (8)—
 
 - (a) in paragraph (a) for “a parking adjudicator” substitute “the First-tier Tribunal”; and
 - (b) in paragraph (b)—
@@ -161,7 +161,7 @@ Article 4
   - (ii) for “costs” substitute “expenses”; and
   - (iii) for “him” substitute “it”.
 
-**3A.**[^key-8d77a3548823d8141ee09972ba2a380d] (1) Section 72 (appeals to parking adjudicator in relation to decisions under section 71) is modified as follows.
+**3A.**[^c-8d77a3548823d8141ee09972ba2a380d] (1) Section 72 (appeals to parking adjudicator in relation to decisions under section 71) is modified as follows.
 
 (2) In subsection (1) for “a parking adjudicator” in both places where it occurs substitute “the First-tier Tribunal”.
 
@@ -169,13 +169,13 @@ Article 4
 
 (4) The heading of the section becomes “Appeals to the First-tier tribunal in relation to decisions under section 71”.
 
-**4.**[^key-46810ef6dc196bafcb01649f2c8c84cf] (1) Section 73 is modified as follows.
+**4.**[^c-46810ef6dc196bafcb01649f2c8c84cf] (1) Section 73 is modified as follows.
 
-(2) Omit subsections (1), (1A) , (2), (3), (4), (5), (6), (7), (8), (9), (10), (11), (12), (13) and (14)[^key-6abcfc5e148fe2730d46a6435bf6ea27].
+(2) Omit subsections (1), (1A) , (2), (3), (4), (5), (6), (7), (8), (9), (10), (11), (12), (13) and (14)[^c-6abcfc5e148fe2730d46a6435bf6ea27].
 
-(3)[^key-a91688a52a6b7dbf07d32ffac9036907] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a91688a52a6b7dbf07d32ffac9036907] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-ec2f83cc16c63cebadbd7fd2fe619d03] After subsection (3) insert—
+(4)[^c-ec2f83cc16c63cebadbd7fd2fe619d03] After subsection (3) insert—
 
 > (3A) The parking authority must meet the costs incurred by the Scottish Courts and Tribunals Service—
 >
@@ -186,19 +186,19 @@ Article 4
 
 .
 
-(5)[^key-0c711c424dfd89113592ff236da483ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-0c711c424dfd89113592ff236da483ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-fcc521ccef35492b742adfe1842f0089] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-fcc521ccef35492b742adfe1842f0089] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-60e9e8a349e192a2ad38d224e30a965e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-60e9e8a349e192a2ad38d224e30a965e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-f7ef4a425bed7899b03fcca3813fd4b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-f7ef4a425bed7899b03fcca3813fd4b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-f5c63829233009bd90e6eb27afbb7c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-f5c63829233009bd90e6eb27afbb7c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-5583e908de68e63acab82327e5cce425] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-5583e908de68e63acab82327e5cce425] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-4a75022bd80a6d03b0f85837a8693f47] In subsection (17)—
+(11)[^c-4a75022bd80a6d03b0f85837a8693f47] In subsection (17)—
 
 - (a) for “Joint Committee”, wherever it occurs, substitute “parking authority”;
 - (b) for “each parking adjudicator” substitute “the First-tier Tribunal and the Upper Tribunal”; and
@@ -208,11 +208,11 @@ Article 4
 
 - (a) for “Joint Committee” substitute “parking authority”; and
 - (b) for “the Secretary of State” substitute “the Scottish Ministers”.
-- (c)[^key-a872801a3cc97a6eb37eaab8c3ba7b69] for “parking adjudicators” substitute “First-tier Tribunal and the Upper Tribunal”.
+- (c)[^c-a872801a3cc97a6eb37eaab8c3ba7b69] for “parking adjudicators” substitute “First-tier Tribunal and the Upper Tribunal”.
 
-(13)[^key-c44a4bb8a26b1abd761abf93d7b53941] The heading of the section becomes “Parking Authority Costs and Administration”.
+(13)[^c-c44a4bb8a26b1abd761abf93d7b53941] The heading of the section becomes “Parking Authority Costs and Administration”.
 
-**5.**[^key-f6efc0dc3fb752c5897b321780ac35b6] For section 74 substitute—
+**5.**[^c-f6efc0dc3fb752c5897b321780ac35b6] For section 74 substitute—
 
 > **74. Fixing of certain parking and other charges for parking area**
 >
@@ -230,13 +230,13 @@ Article 4
 
 .
 
-**6.**[^key-7de85585b04f732b171ccfec60858911] (1) Section 82 is modified as follows.
+**6.**[^c-7de85585b04f732b171ccfec60858911] (1) Section 82 is modified as follows.
 
 (2) For subsection (1) substitute—
 
 > (1) In this section and sections 66, 69 to 74 and 79 of, and Schedule 6 to, this Act[^f00005]—
 >
-> - “First-tier Tribunal” means the First-tier Tribunal for Scotland;[^key-c46c8e76399d29ebaccc3ef9b1073527]
+> - “First-tier Tribunal” means the First-tier Tribunal for Scotland;[^c-c46c8e76399d29ebaccc3ef9b1073527]
 > - “hiring agreement” and “vehicle‑hire firm” have the same meanings as in section 66 of the Road Traffic Offenders Act 1988[^f00006];
 > - “immobilisation device” has the same meaning as in section 104(9) of the Road Traffic Regulation Act 1984[^f00007];
 > - “parking area” means the area designated as a permitted parking area and a special parking area by the Road Traffic (Permitted Parking Area and Special Parking Area) (Inverclyde Council) Designation Order 2014[^f00008];
@@ -245,9 +245,9 @@ Article 4
 >   - (a) in relation to a parking place which was provided or authorised under section 32(1) of the Road Traffic Regulation Act 1984, the local authority as defined by section 32(4)(a) of that Act in relation to the parking place;
 >   - (b) in any other case, the traffic authority (other than the Scottish Ministers) as defined by section 121A[^f00010] of that Act;
 > - “penalty charge” means a penalty charge which is payable by virtue of paragraph 3(1) and (2) of Schedule 3 to this Act;
-> - “prescribed” means prescribed by regulations made by the Scottish Ministers; [^key-2963db3a2bb033dc456c70a97c4129c4]...
-> - “traffic commissioner” means the traffic commissioner appointed for the Scottish Traffic Area under section 4 of the Public Passenger Vehicles Act 1981[^f00011]; and[^key-01077b5ba4aa42bd18e37cd440eee4b2]
-> - “Upper Tribunal” means the Upper Tribunal for Scotland;[^key-a63c56af5b769bd6c478daae4fdeffa2]
+> - “prescribed” means prescribed by regulations made by the Scottish Ministers; [^c-2963db3a2bb033dc456c70a97c4129c4]...
+> - “traffic commissioner” means the traffic commissioner appointed for the Scottish Traffic Area under section 4 of the Public Passenger Vehicles Act 1981[^f00011]; and[^c-01077b5ba4aa42bd18e37cd440eee4b2]
+> - “Upper Tribunal” means the Upper Tribunal for Scotland;[^c-a63c56af5b769bd6c478daae4fdeffa2]
 
 .
 
@@ -257,7 +257,7 @@ Article 4
 
 (5) In subsection (7) for “either House of Parliament” substitute “the Scottish Parliament”.
 
-**7.**[^key-8790f76d020f9bd382ba68bdf79d0e8e] (1) Schedule 6 is modified as follows.
+**7.**[^c-8790f76d020f9bd382ba68bdf79d0e8e] (1) Schedule 6 is modified as follows.
 
 (2) In paragraph 1(1) for “London authority concerned” substitute “parking authority”.
 
@@ -274,8 +274,8 @@ Article 4
 (5) In paragraph 4—
 
 - (a) For “London authority concerned” substitute “parking authority”;
-- (aa)[^key-fe19bf3d7fd87ef0873daeff82ede4fe] for “a parking adjudicator”, wherever it occurs, substitute “the First-tier Tribunal”;
-- (b)[^key-606d7658bc337030084eda8235fd79da] in subparagraph (b)—
+- (aa)[^c-fe19bf3d7fd87ef0873daeff82ede4fe] for “a parking adjudicator”, wherever it occurs, substitute “the First-tier Tribunal”;
+- (b)[^c-606d7658bc337030084eda8235fd79da] in subparagraph (b)—
   - (i) for “a parking adjudicator’s” substitute “the First-tier Tribunal’s”;
   - (ii) for “costs” substitute “expenses”; and
   - (iii) for “him” substitute “it”; and
@@ -284,30 +284,30 @@ Article 4
 (6) In paragraph 5—
 
 - (a) in subparagraph (1)—
-  - (i) for “an authority” substitute “the parking authority”; [^key-83d25a7fb14ae947d2c9506a5c0ca915]...
-  - (ia)[^key-718553361e44adae9bced4bc1be73932] for “a parking adjudicator” substitute “the First-tier Tribunal”; and
+  - (i) for “an authority” substitute “the parking authority”; [^c-83d25a7fb14ae947d2c9506a5c0ca915]...
+  - (ia)[^c-718553361e44adae9bced4bc1be73932] for “a parking adjudicator” substitute “the First-tier Tribunal”; and
   - (ii) for “authority’s decision” substitute “parking authority’s decision”;
-- (b)[^key-46dd3f8c423546b9b1b2044cdbd176e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-46dd3f8c423546b9b1b2044cdbd176e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-46dd3f8c423546b9b1b2044cdbd176e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-46dd3f8c423546b9b1b2044cdbd176e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In paragraph 6—
 
-- (a) in subparagraph (1) for “authority serving the notice” substitute “parking authority”; [^key-328893104824a9b67761685eb1e11543]...
-- (b) in subparagraph (2)(b)(ii) for “authority concerned” substitute “parking authority”;[^key-6400caed8a09babea690bff883d35038]
-- (c)[^key-d00bd0924eaef757c57fc863584276b7] in subparagraph (2)(c) for “adjudicator’s” substitute “First-tier Tribunal’s”; and
+- (a) in subparagraph (1) for “authority serving the notice” substitute “parking authority”; [^c-328893104824a9b67761685eb1e11543]...
+- (b) in subparagraph (2)(b)(ii) for “authority concerned” substitute “parking authority”;[^c-6400caed8a09babea690bff883d35038]
+- (c)[^c-d00bd0924eaef757c57fc863584276b7] in subparagraph (2)(c) for “adjudicator’s” substitute “First-tier Tribunal’s”; and
 - (d) in subparagraph (3) for “adjudicator” substitute “First-tier Tribunal” and for “his” substitute “its”.
 
 (8) In paragraph 7 for the words from “authority concerned” to the end substitute “parking authority may recover the increased charge as if the charge certificate were an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court in any sheriffdom in Scotland”.
 
-(9) Omit paragraphs 8 and 9[^key-0a2f5517e11fe75869f316aa46a4d2f5].
+(9) Omit paragraphs 8 and 9[^c-0a2f5517e11fe75869f316aa46a4d2f5].
 
 ## SCHEDULE 3 — MODIFICATIONS OF THE ROAD TRAFFIC REGULATION ACT 1984
 
 Article 5
 
-**1.**[^key-0e200f3993bb61844ea4e0c5142db769] In section 46(1A) for “Greater London” substitute “the parking area”[^f00012].
+**1.**[^c-0e200f3993bb61844ea4e0c5142db769] In section 46(1A) for “Greater London” substitute “the parking area”[^f00012].
 
-**2.**[^key-7051b63a0aa23d697c7d09b6f541a3fe] (1) Section 55 is modified as follows.
+**2.**[^c-7051b63a0aa23d697c7d09b6f541a3fe] (1) Section 55 is modified as follows.
 
 (2) For subsection (1) substitute—
 
@@ -322,12 +322,12 @@ Article 5
 
 (3) Omit subsections (3A) and (3B)[^f00013].
 
-**3.**[^key-3fa8072a32bf43ec8c4f5a0bcdae983f] In section 63A(4)—
+**3.**[^c-3fa8072a32bf43ec8c4f5a0bcdae983f] In section 63A(4)—
 
 - (a) for “Greater London” substitute “the parking area”; and
 - (b) for “Greater London Authority” substitute “Scottish Ministers”[^f00014].
 
-**4.**[^key-dd6480b1f549918570476d6998f0756c] (1) Section 101 is modified as follows.
+**4.**[^c-dd6480b1f549918570476d6998f0756c] (1) Section 101 is modified as follows.
 
 (2) Omit subsection (4).
 
@@ -337,7 +337,7 @@ Article 5
 
 (5) In subsection (5A) for “Greater London” substitute “the parking area”[^f00016].
 
-**5.**[^key-8a2714a7092062da0bca16ea696242bd] (1) Section 102 is modified as follows.
+**5.**[^c-8a2714a7092062da0bca16ea696242bd] (1) Section 102 is modified as follows.
 
 (2) For subsection (1) substitute—
 
@@ -359,9 +359,9 @@ Article 5
 
 (7) In subsection (8)(b) of the definition of “appropriate authority” for the words “outside Greater London” substitute “within the parking area”.
 
-**6.**[^key-204ee72e7d6853a7c7574fb6c1454977] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-204ee72e7d6853a7c7574fb6c1454977] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-1679cdffab990abe457685873d8c7abd] In section 142(1)—
+**7.**[^c-1679cdffab990abe457685873d8c7abd] In section 142(1)—
 
 - (a) after the definition of “owner” insert—
 
@@ -386,67 +386,67 @@ Enforcement will be carried out by parking attendants provided under section 63A
 
 [^f00001]: Footnote: [1991 c.40](https://www.legislation.gov.uk/ukpga/1991/40); paragraphs 1(1) and 2(1) of Schedule 3 were relevantly amended by the Local Government etc. (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39), paragraph 171, Schedule 13. The functions of the Secretary of State under that Schedule, so far as they are exercisable within devolved competence, were transferred to the Scottish Ministers by section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-374e007c28a49ea508ef5353fd20f4a4]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
+[^c-374e007c28a49ea508ef5353fd20f4a4]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
 
-[^key-5f319408c1833bbe249dbd79268fba10]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2014/169/article/2) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
+[^c-5f319408c1833bbe249dbd79268fba10]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2014/169/article/2) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
 
 [^f00002]: Footnote: [1984 c.27](https://www.legislation.gov.uk/ukpga/1984/27).
 
-[^key-e2b9901518abf95377020bbcb5820a08]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2014/169/article/3) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
+[^c-e2b9901518abf95377020bbcb5820a08]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2014/169/article/3) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
 
 [^f00003]: Footnote: Inverclyde local government area was established by section 1(2) and (4) of, and Schedule 1 to, the Local Government etc. (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-9acc8777ed217da33e303658dd9aa5e9]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2014/169/article/4) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
+[^c-9acc8777ed217da33e303658dd9aa5e9]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2014/169/article/4) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
 
-[^key-ade2b7618054d0fa9c2dc18b80acc927]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2014/169/article/5) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
+[^c-ade2b7618054d0fa9c2dc18b80acc927]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2014/169/article/5) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
 
-[^key-a85c7c85b6e8e259e822faab8e84aee6]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/ssi/2014/169/article/6) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(2)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/2) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+[^c-a85c7c85b6e8e259e822faab8e84aee6]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/ssi/2014/169/article/6) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(2)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/2) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
 
-[^key-d90f04e59df7bbb0d22de6c81568b1c5]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2014/169/schedule/1) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
+[^c-d90f04e59df7bbb0d22de6c81568b1c5]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2014/169/schedule/1) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
 
-[^key-5132276514e64d01ae0b0ecffb82d94e]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/1) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
+[^c-5132276514e64d01ae0b0ecffb82d94e]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/1) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
 
-[^key-4719c35aac49e095fdf30ad426f72f8a]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/2) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
+[^c-4719c35aac49e095fdf30ad426f72f8a]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/2) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
 
-[^key-430c10926c97bbbb7b9b7725a6836a90]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/3) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
+[^c-430c10926c97bbbb7b9b7725a6836a90]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/3) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
 
-[^key-e0c691b0c2c730d199b5f3b02b6c9afa]: Textual amendment: [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/3/4) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(a)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/a) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+[^c-e0c691b0c2c730d199b5f3b02b6c9afa]: Textual amendment: [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/3/4) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(a)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/a) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
 
-[^key-8d77a3548823d8141ee09972ba2a380d]: Textual amendment: [Sch. 2 para. 3A](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/3A) inserted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(b)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/b) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+[^c-8d77a3548823d8141ee09972ba2a380d]: Textual amendment: [Sch. 2 para. 3A](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/3A) inserted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(b)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/b) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
 
-[^key-46810ef6dc196bafcb01649f2c8c84cf]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/4) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
+[^c-46810ef6dc196bafcb01649f2c8c84cf]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/4) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
 
-[^key-6abcfc5e148fe2730d46a6435bf6ea27]: Textual amendment: Words in [sch. 2 para. 4(2)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/4/2) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(c)(i)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/c/i) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+[^c-6abcfc5e148fe2730d46a6435bf6ea27]: Textual amendment: Words in [sch. 2 para. 4(2)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/4/2) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(c)(i)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/c/i) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
 
-[^key-a91688a52a6b7dbf07d32ffac9036907]: Textual amendment: [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/4/3) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/c/ii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+[^c-a91688a52a6b7dbf07d32ffac9036907]: Textual amendment: [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/4/3) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/c/ii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
 
-[^key-ec2f83cc16c63cebadbd7fd2fe619d03]: Textual amendment: [Sch. 2 para. 4(4)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/4/4) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(c)(iii)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/c/iii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+[^c-ec2f83cc16c63cebadbd7fd2fe619d03]: Textual amendment: [Sch. 2 para. 4(4)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/4/4) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(c)(iii)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/c/iii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
 
-[^key-0c711c424dfd89113592ff236da483ba]: Textual amendment: [Sch. 2 para. 4(5)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/4/5) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/c/ii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+[^c-0c711c424dfd89113592ff236da483ba]: Textual amendment: [Sch. 2 para. 4(5)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/4/5) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/c/ii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
 
-[^key-fcc521ccef35492b742adfe1842f0089]: Textual amendment: [Sch. 2 para. 4(6)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/4/6) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/c/ii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+[^c-fcc521ccef35492b742adfe1842f0089]: Textual amendment: [Sch. 2 para. 4(6)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/4/6) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/c/ii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
 
-[^key-60e9e8a349e192a2ad38d224e30a965e]: Textual amendment: [Sch. 2 para. 4(7)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/4/7) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/c/ii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+[^c-60e9e8a349e192a2ad38d224e30a965e]: Textual amendment: [Sch. 2 para. 4(7)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/4/7) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/c/ii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
 
-[^key-f7ef4a425bed7899b03fcca3813fd4b3]: Textual amendment: [Sch. 2 para. 4(8)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/4/8) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/c/ii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+[^c-f7ef4a425bed7899b03fcca3813fd4b3]: Textual amendment: [Sch. 2 para. 4(8)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/4/8) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/c/ii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
 
-[^key-f5c63829233009bd90e6eb27afbb7c12]: Textual amendment: [Sch. 2 para. 4(9)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/4/9) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/c/ii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+[^c-f5c63829233009bd90e6eb27afbb7c12]: Textual amendment: [Sch. 2 para. 4(9)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/4/9) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/c/ii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
 
-[^key-5583e908de68e63acab82327e5cce425]: Textual amendment: [Sch. 2 para. 4(10)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/4/10) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/c/ii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+[^c-5583e908de68e63acab82327e5cce425]: Textual amendment: [Sch. 2 para. 4(10)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/4/10) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/c/ii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
 
-[^key-4a75022bd80a6d03b0f85837a8693f47]: Textual amendment: [Sch. 2 para. 4(11)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/4/11) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(c)(iv)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/c/iv) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+[^c-4a75022bd80a6d03b0f85837a8693f47]: Textual amendment: [Sch. 2 para. 4(11)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/4/11) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(c)(iv)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/c/iv) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
 
-[^key-a872801a3cc97a6eb37eaab8c3ba7b69]: Textual amendment: [Sch. 2 para. 4(12)(c)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/4/12) inserted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(c)(v)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/c/v) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+[^c-a872801a3cc97a6eb37eaab8c3ba7b69]: Textual amendment: [Sch. 2 para. 4(12)(c)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/4/12) inserted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(c)(v)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/c/v) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
 
-[^key-c44a4bb8a26b1abd761abf93d7b53941]: Textual amendment: [Sch. 2 para. 4(13)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/4/13) inserted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(c)(vi)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/c/vi) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+[^c-c44a4bb8a26b1abd761abf93d7b53941]: Textual amendment: [Sch. 2 para. 4(13)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/4/13) inserted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(c)(vi)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/c/vi) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
 
-[^key-f6efc0dc3fb752c5897b321780ac35b6]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/5) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
+[^c-f6efc0dc3fb752c5897b321780ac35b6]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/5) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
 
-[^key-7de85585b04f732b171ccfec60858911]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/6) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
+[^c-7de85585b04f732b171ccfec60858911]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/6) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
 
 [^f00005]: Footnote: Road Traffic Act [1991 c.40](https://www.legislation.gov.uk/ukpga/1991/40).
 
-[^key-c46c8e76399d29ebaccc3ef9b1073527]: Textual amendment: Words in [sch. 2 para. 6(2)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/6/2) inserted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(d)(i)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/d/i) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+[^c-c46c8e76399d29ebaccc3ef9b1073527]: Textual amendment: Words in [sch. 2 para. 6(2)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/6/2) inserted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(d)(i)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/d/i) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
 
 [^f00006]: Footnote: [1988 c.53](https://www.legislation.gov.uk/ukpga/1988/53).
 
@@ -458,54 +458,54 @@ Enforcement will be carried out by parking attendants provided under section 63A
 
 [^f00010]: Footnote: Section 121A was inserted by the New Roads and Street Works Act [1991 (c.22)](https://www.legislation.gov.uk/ukpga/1991/22).
 
-[^key-2963db3a2bb033dc456c70a97c4129c4]: Textual amendment: Word in [sch. 2 para. 6(2)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/6/2) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(d)(ii)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/d/ii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+[^c-2963db3a2bb033dc456c70a97c4129c4]: Textual amendment: Word in [sch. 2 para. 6(2)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/6/2) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(d)(ii)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/d/ii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
 
 [^f00011]: Footnote: [1981 c.14](https://www.legislation.gov.uk/ukpga/1981/14).
 
-[^key-01077b5ba4aa42bd18e37cd440eee4b2]: Textual amendment: [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/6/2) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(d)(iii)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/d/iii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+[^c-01077b5ba4aa42bd18e37cd440eee4b2]: Textual amendment: [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/6/2) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(d)(iii)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/d/iii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
 
-[^key-a63c56af5b769bd6c478daae4fdeffa2]: Textual amendment: Words in [sch. 2 para. 6(2)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/6/2) inserted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(d)(iv)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/d/iv) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+[^c-a63c56af5b769bd6c478daae4fdeffa2]: Textual amendment: Words in [sch. 2 para. 6(2)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/6/2) inserted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(d)(iv)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/d/iv) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
 
-[^key-8790f76d020f9bd382ba68bdf79d0e8e]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/7) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
+[^c-8790f76d020f9bd382ba68bdf79d0e8e]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/7) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
 
-[^key-fe19bf3d7fd87ef0873daeff82ede4fe]: Textual amendment: [Sch. 2 para. 7(5)(aa)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/7/5) inserted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(e)(i)(aa)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/e/i/aa) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+[^c-fe19bf3d7fd87ef0873daeff82ede4fe]: Textual amendment: [Sch. 2 para. 7(5)(aa)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/7/5) inserted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(e)(i)(aa)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/e/i/aa) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
 
-[^key-606d7658bc337030084eda8235fd79da]: Textual amendment: [Sch. 2 para. 7(5)(b)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/7/5) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(e)(i)(bb)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/e/i/bb) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+[^c-606d7658bc337030084eda8235fd79da]: Textual amendment: [Sch. 2 para. 7(5)(b)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/7/5) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(e)(i)(bb)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/e/i/bb) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
 
-[^key-83d25a7fb14ae947d2c9506a5c0ca915]: Textual amendment: Word in [sch. 2 para. 7(6)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/7/6) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(e)(ii)(aa)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/e/ii/aa) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+[^c-83d25a7fb14ae947d2c9506a5c0ca915]: Textual amendment: Word in [sch. 2 para. 7(6)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/7/6) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(e)(ii)(aa)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/e/ii/aa) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
 
-[^key-718553361e44adae9bced4bc1be73932]: Textual amendment: [Sch. 2 para. 7(6)(a)(ia)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/7/6) inserted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(e)(ii)(bb)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/e/ii/bb) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+[^c-718553361e44adae9bced4bc1be73932]: Textual amendment: [Sch. 2 para. 7(6)(a)(ia)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/7/6) inserted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(e)(ii)(bb)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/e/ii/bb) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
 
-[^key-46dd3f8c423546b9b1b2044cdbd176e6]: Textual amendment: [Sch. 2 para. 7(6)(b)(c)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/7/6) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(e)(ii)(cc)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/e/ii/cc) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+[^c-46dd3f8c423546b9b1b2044cdbd176e6]: Textual amendment: [Sch. 2 para. 7(6)(b)(c)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/7/6) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(e)(ii)(cc)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/e/ii/cc) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
 
-[^key-328893104824a9b67761685eb1e11543]: Textual amendment: Word in [sch. 2 para. 7(7)(a)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/7/7) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(e)(iii)(aa)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/e/iii/aa) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+[^c-328893104824a9b67761685eb1e11543]: Textual amendment: Word in [sch. 2 para. 7(7)(a)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/7/7) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(e)(iii)(aa)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/e/iii/aa) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
 
-[^key-6400caed8a09babea690bff883d35038]: Textual amendment: Semicolon in [sch. 2 para. 7(7)(b)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/7/7) substituted for full stop (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(e)(iii)(bb)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/e/iii/bb) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+[^c-6400caed8a09babea690bff883d35038]: Textual amendment: Semicolon in [sch. 2 para. 7(7)(b)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/7/7) substituted for full stop (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(e)(iii)(bb)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/e/iii/bb) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
 
-[^key-d00bd0924eaef757c57fc863584276b7]: Textual amendment: [Sch. 2 para. 7(7)(c)(d)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/7/7) inserted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(e)(iii)(cc)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/e/iii/cc) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+[^c-d00bd0924eaef757c57fc863584276b7]: Textual amendment: [Sch. 2 para. 7(7)(c)(d)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/7/7) inserted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(e)(iii)(cc)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/e/iii/cc) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
 
-[^key-0a2f5517e11fe75869f316aa46a4d2f5]: Textual amendment: Words in [sch. 2 para. 7(9)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/7/9) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(e)(iv)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/e/iv) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+[^c-0a2f5517e11fe75869f316aa46a4d2f5]: Textual amendment: Words in [sch. 2 para. 7(9)](https://www.legislation.gov.uk/ssi/2014/169/schedule/2/paragraph/7/9) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(3)(e)(iv)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/3/e/iv) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
 
-[^key-0e200f3993bb61844ea4e0c5142db769]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2014/169/schedule/3/paragraph/1) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
+[^c-0e200f3993bb61844ea4e0c5142db769]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2014/169/schedule/3/paragraph/1) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
 
 [^f00012]: Footnote: Section 46(1A) was inserted by the Road Traffic Act 1991 (“the 1991 Act”), section 64(2).
 
-[^key-7051b63a0aa23d697c7d09b6f541a3fe]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2014/169/schedule/3/paragraph/2) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
+[^c-7051b63a0aa23d697c7d09b6f541a3fe]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2014/169/schedule/3/paragraph/2) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
 
 [^f00013]: Footnote: Sections 55 (3A) and (3B) were inserted by the 1991 Act, Schedule 7, paragraph 5.
 
-[^key-3fa8072a32bf43ec8c4f5a0bcdae983f]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2014/169/schedule/3/paragraph/3) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
+[^c-3fa8072a32bf43ec8c4f5a0bcdae983f]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2014/169/schedule/3/paragraph/3) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
 
 [^f00014]: Footnote: Section 63A was inserted by the 1991 Act, section 44(1).
 
-[^key-dd6480b1f549918570476d6998f0756c]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2014/169/schedule/3/paragraph/4) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
+[^c-dd6480b1f549918570476d6998f0756c]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2014/169/schedule/3/paragraph/4) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
 
 [^f00015]: Footnote: Section 101(4A) was inserted by the 1991 Act, section 67(4).
 
 [^f00016]: Footnote: Section 101(5A) was inserted by the 1991 Act, section 67(6).
 
-[^key-8a2714a7092062da0bca16ea696242bd]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ssi/2014/169/schedule/3/paragraph/5) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
+[^c-8a2714a7092062da0bca16ea696242bd]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ssi/2014/169/schedule/3/paragraph/5) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
 
-[^key-204ee72e7d6853a7c7574fb6c1454977]: Textual amendment: [Sch. 3 para. 6](https://www.legislation.gov.uk/ssi/2014/169/schedule/3/paragraph/6) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(4)(a)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/4/a) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+[^c-204ee72e7d6853a7c7574fb6c1454977]: Textual amendment: [Sch. 3 para. 6](https://www.legislation.gov.uk/ssi/2014/169/schedule/3/paragraph/6) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 8(4)(a)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/8/4/a) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
 
-[^key-1679cdffab990abe457685873d8c7abd]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ssi/2014/169/schedule/3/paragraph/7) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)
+[^c-1679cdffab990abe457685873d8c7abd]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ssi/2014/169/schedule/3/paragraph/7) in force at 6.10.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/169/article/1)

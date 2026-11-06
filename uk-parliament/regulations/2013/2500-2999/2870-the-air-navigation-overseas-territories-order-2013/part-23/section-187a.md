@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 187A. Application of certain provisions of this Order to Anguilla[^key-9437155a6c63660251d9dc664b513816]
+## 187A. Application of certain provisions of this Order to Anguilla[^c-9437155a6c63660251d9dc664b513816]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ Insofar as they did not previously have effect in Anguilla, the following provis
 
 ## Annotations
 
-[^key-9437155a6c63660251d9dc664b513816]: Textual amendment: [Art. 187A](https://www.legislation.gov.uk/uksi/2013/2870/article/187A) inserted (26.5.2021) by [The Air Navigation (Overseas Territories) (Amendment) Order 2021 (S.I. 2021/524)](https://www.legislation.gov.uk/uksi/2021/524), [arts. 1](https://www.legislation.gov.uk/uksi/2021/524/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/524/article/2/2)
+[^c-9437155a6c63660251d9dc664b513816]: Textual amendment: [Art. 187A](https://www.legislation.gov.uk/uksi/2013/2870/article/187A) inserted (26.5.2021) by [The Air Navigation (Overseas Territories) (Amendment) Order 2021 (S.I. 2021/524)](https://www.legislation.gov.uk/uksi/2021/524), [arts. 1](https://www.legislation.gov.uk/uksi/2021/524/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/524/article/2/2)

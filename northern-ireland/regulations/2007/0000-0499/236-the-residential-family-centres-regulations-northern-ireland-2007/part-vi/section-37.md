@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. Compliance with regulations[^key-dc3e273ec6d174917ab2932967c26e8c]
+## 37. Compliance with regulations[^c-dc3e273ec6d174917ab2932967c26e8c]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where there is more than one registered person in respect of a residential famil
 
 ## Annotations
 
-[^key-dc3e273ec6d174917ab2932967c26e8c]: Commencement: Reg. 37 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
+[^c-dc3e273ec6d174917ab2932967c26e8c]: Commencement: Reg. 37 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 151. Disqualification from dividend[^key-f0a7e45e201f1edf9723e8ab5cd9c4dd]
+## 151. Disqualification from dividend[^c-f0a7e45e201f1edf9723e8ab5cd9c4dd]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0a7e45e201f1edf9723e8ab5cd9c4dd]: Commencement: Rule 151 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-f0a7e45e201f1edf9723e8ab5cd9c4dd]: Commencement: Rule 151 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

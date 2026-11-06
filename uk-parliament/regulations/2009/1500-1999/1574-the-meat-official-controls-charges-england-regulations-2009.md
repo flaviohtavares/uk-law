@@ -62,10 +62,10 @@ These Regulations may be cited as the Meat (Official Controls Charges) (England)
 
 - “**accounting period**” means a period of less than a year determined by the Agency;
 - “**the Agency**” means the Food Standards Agency;
-- “**audit**” has the meaning given to it in Article 3 (30) of Regulation 2017/625[^key-e566aaa78d23360ef8e2b69e7240c20a];
+- “**audit**” has the meaning given to it in Article 3 (30) of Regulation 2017/625[^c-e566aaa78d23360ef8e2b69e7240c20a];
 - “**controls**” means those official controls performed by the Agency—
-  - (a) pursuant to Regulation 2017/625, Regulation 2019/624 and Regulation 2019/627[^key-f9f861e1e76ee61646a73fe0832ee0c5], at slaughterhouses, game-handling establishments and cutting plants, for the verification of compliance with the provisions of Regulation 853/2004 in so far as they apply in relation to meat of domestic ungulates, meat from poultry and lagomorphs, meat of farmed game and meat of wild game;
-  - (b) pursuant to[^key-1494ad6aa9fd1a2604e3d97c213562db] Regulation 2017/625, Regulation 2019/624 and Regulation 2019/627[^key-e92e9bf34257d665d7e9be5256d85349], at slaughterhouses, for the verification of compliance with the provisions of Council Regulation[^key-e70794a3e9fa1216a794aa72d713890b] [(EC) No 1099/2009](https://www.legislation.gov.uk/eur/2009/1099) and the Welfare of Animals at the Time of Killing (England) Regulations 2015 in so far as they apply in relation to animals slaughtered there for human consumption;
+  - (a) pursuant to Regulation 2017/625, Regulation 2019/624 and Regulation 2019/627[^c-f9f861e1e76ee61646a73fe0832ee0c5], at slaughterhouses, game-handling establishments and cutting plants, for the verification of compliance with the provisions of Regulation 853/2004 in so far as they apply in relation to meat of domestic ungulates, meat from poultry and lagomorphs, meat of farmed game and meat of wild game;
+  - (b) pursuant to[^c-1494ad6aa9fd1a2604e3d97c213562db] Regulation 2017/625, Regulation 2019/624 and Regulation 2019/627[^c-e92e9bf34257d665d7e9be5256d85349], at slaughterhouses, for the verification of compliance with the provisions of Council Regulation[^c-e70794a3e9fa1216a794aa72d713890b] [(EC) No 1099/2009](https://www.legislation.gov.uk/eur/2009/1099) and the Welfare of Animals at the Time of Killing (England) Regulations 2015 in so far as they apply in relation to animals slaughtered there for human consumption;
   - (c) in relation to domestic ungulates slaughtered outside the slaughterhouse, pursuant to Chapter VI of Section I of Annex III to Regulation 853/2004;
   - (d) in relation to poultry slaughtered on farm, pursuant to Chapter VI of Section II of Annex III to Regulation 853/2004; and
   - (e) in relation to—
@@ -75,10 +75,10 @@ These Regulations may be cited as the Meat (Official Controls Charges) (England)
 
     slaughtered at the place of origin, pursuant to Section III of Annex III to Regulation 853/2004;
 - “**cutting plant**” means an establishment which is used for boning and/or cutting up fresh meat for placing on the market and which —
-  - (a) is approved or conditionally approved under Article 148 of Regulation 2017/625[^key-8150d199f654e84d7e346b53969c4ea0]; or
+  - (a) is approved or conditionally approved under Article 148 of Regulation 2017/625[^c-8150d199f654e84d7e346b53969c4ea0]; or
   - (b) (although lacking the approval or conditional approval that it requires under Article 4.3 of Regulation 853/2004) was, on 31st December 2005, operating as licensed cutting premises under the Fresh Meat (Hygiene and Inspection) Regulations 1995 [^c19746841] or the Poultry Meat, Farmed Game Bird Meat and Rabbit Meat (Hygiene and Inspection) Regulations 1995 [^c19746851];
 - “**cutting up**” has the meaning that it bears in Regulation 853/2004 and “**cut up**” shall be construed accordingly;
-- “Directive 2004/41”, “Regulation 178/2002”, “Regulation 852/2004”, “Regulation 853/2004”, “Regulation 1688/2005”, “Regulation 2073/2005”, “Regulation 2074/2005”, “Regulation 2015/1375”, “Regulation 2017/185”, “Regulation 2017/625”, “Regulation 2019/624” and “Regulation 2019/627” have the meanings respectively given to them in Schedule 1;[^key-76624456c7ffce416e9d029138285b1e]
+- “Directive 2004/41”, “Regulation 178/2002”, “Regulation 852/2004”, “Regulation 853/2004”, “Regulation 1688/2005”, “Regulation 2073/2005”, “Regulation 2074/2005”, “Regulation 2015/1375”, “Regulation 2017/185”, “Regulation 2017/625”, “Regulation 2019/624” and “Regulation 2019/627” have the meanings respectively given to them in Schedule 1;[^c-76624456c7ffce416e9d029138285b1e]
 - “**domestic ungulates**” has the meaning given to it in point 1.2 of Annex I to Regulation 853/2004;
 - “**establishment**” has the meaning given to it in Article 2.1(c) of Regulation 852/2004;
 - “**farmed game**” has the meaning given to it in point 1.6 of Annex I to Regulation 853/2004;
@@ -86,29 +86,29 @@ These Regulations may be cited as the Meat (Official Controls Charges) (England)
 - “**fresh meat**” has the meaning given to it in point 1.10 of Annex I to Regulation 853/2004;
 - “**game**” has the meaning that it bears in Regulation 853/2004;
 - “**game-handling establishment**” means any establishment in which game and game meat obtained after hunting are prepared for placing on the market and which —
-  - (a) is approved or conditionally approved under Article 148 of Regulation 2017/625[^key-84263eb4b20ab775017340e887b3ced5]; or
+  - (a) is approved or conditionally approved under Article 148 of Regulation 2017/625[^c-84263eb4b20ab775017340e887b3ced5]; or
   - (b) (although lacking the approval or conditional approval that it requires under Article 4.3 of Regulation 853/2004) was, on 31<sup>st</sup> December 2005, operating as a licensed wild game processing facility under the Wild Game (Hygiene and Inspection) Regulations 1995 [^c19746861];
 - “**game meat**” has the meaning that it bears in Regulation 853/2004;
 - “**inspector**” means an official veterinarian, an official auxiliary or any other person appointed by the Agency for the purpose of performing controls;
 - “**lagomorphs**” has the meaning given to it in point 1.4 of Annex I to Regulation 853/2004;
 - “**meat**” has the meaning given to it in point 1.1 of Annex I to Regulation 853/2004;
-- “**official auxiliary**” has the meaning given to it in Article 3 (49) of Regulation 2017/625[^key-3b61051f2702ae51ebc4cabcbaca59da];
-- “**official controls**” shall be construed in accordance with the definition of “official control” in Article 2(1) of Regulation 2017/625[^key-32a6555554c3508e0afea2aa78660ba6];
+- “**official auxiliary**” has the meaning given to it in Article 3 (49) of Regulation 2017/625[^c-3b61051f2702ae51ebc4cabcbaca59da];
+- “**official controls**” shall be construed in accordance with the definition of “official control” in Article 2(1) of Regulation 2017/625[^c-32a6555554c3508e0afea2aa78660ba6];
 - “**official controls charge**” means the charge calculated in accordance with Schedule 2 and notified in accordance with regulation 3(1), (2) or (3);
-- “**official veterinarian**” has the meaning given to it in Article 3(32) of Regulation 2017/625[^key-ed73fc38957ec7b8c53df3058135c273];
+- “**official veterinarian**” has the meaning given to it in Article 3(32) of Regulation 2017/625[^c-ed73fc38957ec7b8c53df3058135c273];
 - “**operator**” means a food business operator who is carrying on a food business at any premises, or his duly authorised representative;
 - “**place of origin**” has the meaning that it bears in point 3 of Section III of Annex III to Regulation 853/2004;
 - “**placing on the market**” has the meaning given to it in Article 3.8 of Regulation 178/2002;
 - “**poultry**” has the meaning given to it in point 1.3 of Annex I to Regulation 853/2004;
 - “**premises**” means any slaughterhouse, game–handling establishment, cutting plant, place that is outside the slaughterhouse for the purposes of Chapter VI of Section I of Annex III to Regulation 853/2004, farm or place of origin;
 - “**slaughterhouse**” means an establishment used for slaughtering and dressing animals, the meat of which is intended for human consumption and which —
-  - (a) is approved or conditionally approved under Article 148 of Regulation 2017/625[^key-a6a17a3c0c571a1aa777200971d5a574]; or
+  - (a) is approved or conditionally approved under Article 148 of Regulation 2017/625[^c-a6a17a3c0c571a1aa777200971d5a574]; or
   - (b) (although lacking the approval or conditional approval that it requires under Article 4.3 of Regulation 853/2004) was, on 31st December 2005, operating as a licensed slaughterhouse under the Fresh Meat (Hygiene and Inspection) Regulations 1995 or the Poultry Meat, Farmed Game Bird Meat and Rabbit Meat (Hygiene and Inspection) Regulations 1995;
 - “**time costs**” means, in relation to any establishment for any accounting period, the costs calculated in accordance with paragraphs 7 to 9 of Schedule 2;
 - “**verification**” means checking, by examination and provision of objective evidence; and
 - “**wild game**” has the meaning given to it in point 1.5 of Annex I to Regulation 853/2004.
 
-(2)[^key-1c1e8bd50c26134e038e7e0c5b689bc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1c1e8bd50c26134e038e7e0c5b689bc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 3. Charges
 
@@ -172,7 +172,7 @@ Minister of State,
 
 Department of Health
 
-## SCHEDULE 1 — DEFINITIONS OF LEGISLATION[^key-544d7692b4963a84f47978b46363fa86][^key-cd38f18382ebbb02f09084def6b12789]
+## SCHEDULE 1 — DEFINITIONS OF LEGISLATION[^c-544d7692b4963a84f47978b46363fa86][^c-cd38f18382ebbb02f09084def6b12789]
 
 “Directive 2004/41” means [Directive 2004/41/EC](https://www.legislation.gov.uk/eudr/2004/0041) of the European Parliament and of the Council repealing certain Directives concerning food hygiene and health conditions for the production and placing on the market of certain products of animal origin intended for human consumption and amending Council Directives [89/662/EEC](https://www.legislation.gov.uk/eudr/1989/662) and [92/118/EEC](https://www.legislation.gov.uk/eudr/1992/118) and Council [Decision 95/408/EC](https://www.legislation.gov.uk/eud/1995/0408);
 
@@ -253,7 +253,7 @@ the operator may request that the matter that is the subject of that decision be
 
 (9) Where, pursuant to sub-paragraph (7)(b)(ii), a person nominated pursuant to sub-paragraph (7)(a) determines that a decision made by the Agency pursuant to sub-paragraph (3) was incorrect, the Agency shall refund to the operator the payment made by him in accordance with sub-paragraph (3).
 
-**6.** Nothing in paragraph 4 or 5 shall restrict the Agency in the performance of such controls as it considers necessary in order to ensure that the objectives of Regulation 2017/625[^key-f4c8c84558dae46e8651b432a0993d5a] are achieved and that the obligation specified in Article 9(1)[^key-d09060fc405941b9a1dd1baf8e727206] of that Regulation is fulfilled.
+**6.** Nothing in paragraph 4 or 5 shall restrict the Agency in the performance of such controls as it considers necessary in order to ensure that the objectives of Regulation 2017/625[^c-f4c8c84558dae46e8651b432a0993d5a] are achieved and that the obligation specified in Article 9(1)[^c-d09060fc405941b9a1dd1baf8e727206] of that Regulation is fulfilled.
 
 ### 7. Time costs
 
@@ -277,7 +277,7 @@ shall be counted as if it were time when the inspector was exercising controls.
 
 **10.** The Agency shall determine the hourly rate applicable to inspectors, and may determine different rates for different inspectors or different classes of inspector, having regard to the level of qualifications and experience of different inspectors or classes of inspector and to the cost of exercising controls by different inspectors or classes of inspector.
 
-**11.** The hourly rate for any inspector or class of inspector shall be calculated so as to reflect such proportion of the costs of the items listed in Articles 81 and 82 of Regulation 2017/625[^key-e6a17790d76a26bce7810ddabebe823a] incurred by that inspector or class of inspector in exercising controls (excluding any payments or allowances taken into account pursuant to paragraph 8) as the Agency considers it appropriate to apportion to that hourly rate.
+**11.** The hourly rate for any inspector or class of inspector shall be calculated so as to reflect such proportion of the costs of the items listed in Articles 81 and 82 of Regulation 2017/625[^c-e6a17790d76a26bce7810ddabebe823a] incurred by that inspector or class of inspector in exercising controls (excluding any payments or allowances taken into account pursuant to paragraph 8) as the Agency considers it appropriate to apportion to that hourly rate.
 
 **12.** The Agency may vary any rate determined pursuant to paragraph 10 where, having regard to variations in the costs referred to in paragraph 11, it appears to it to be necessary to do so.
 
@@ -320,46 +320,46 @@ shall be counted as if it were time when the inspector was exercising controls.
 
 [^c19746821]: Marginal citation: OJ No. L31, 1.2.2002, p.1, as last amended by Commission Regulation (EC) No. 202/2008 amending Regulation (EC) No. 178/2002 of the European Parliament and of the Council as regards the number and names of the permanent Scientific Panels of the European Food Safety Authority (OJ No. L60, 5.3.2008, p.17).
 
-[^key-e566aaa78d23360ef8e2b69e7240c20a]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (England) (Amendment) Regulations 2019 (S.I. 2019/1475)](https://www.legislation.gov.uk/uksi/2019/1475), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1475/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2019/1475/regulation/3/a)
+[^c-e566aaa78d23360ef8e2b69e7240c20a]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (England) (Amendment) Regulations 2019 (S.I. 2019/1475)](https://www.legislation.gov.uk/uksi/2019/1475), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1475/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2019/1475/regulation/3/a)
 
-[^key-f9f861e1e76ee61646a73fe0832ee0c5]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (England) (Amendment) Regulations 2019 (S.I. 2019/1475)](https://www.legislation.gov.uk/uksi/2019/1475), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1475/regulation/1), [3(b)(i)](https://www.legislation.gov.uk/uksi/2019/1475/regulation/3/b/i)
+[^c-f9f861e1e76ee61646a73fe0832ee0c5]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (England) (Amendment) Regulations 2019 (S.I. 2019/1475)](https://www.legislation.gov.uk/uksi/2019/1475), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1475/regulation/1), [3(b)(i)](https://www.legislation.gov.uk/uksi/2019/1475/regulation/3/b/i)
 
-[^key-1494ad6aa9fd1a2604e3d97c213562db]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/1574/regulation/2/1) inserted (5.11.2015) by The Welfare of Animals at the [Time of Killing (England) Regulations 2015 (S.I. 2015/1782)](https://www.legislation.gov.uk/uksi/2015/1782), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/1/4), [Sch. 6 para. 4(2)(a)](https://www.legislation.gov.uk/uksi/2015/1782/schedule/6/paragraph/4/2/a)
+[^c-1494ad6aa9fd1a2604e3d97c213562db]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/1574/regulation/2/1) inserted (5.11.2015) by The Welfare of Animals at the [Time of Killing (England) Regulations 2015 (S.I. 2015/1782)](https://www.legislation.gov.uk/uksi/2015/1782), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/1/4), [Sch. 6 para. 4(2)(a)](https://www.legislation.gov.uk/uksi/2015/1782/schedule/6/paragraph/4/2/a)
 
-[^key-e92e9bf34257d665d7e9be5256d85349]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (England) (Amendment) Regulations 2019 (S.I. 2019/1475)](https://www.legislation.gov.uk/uksi/2019/1475), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1475/regulation/1), [3(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1475/regulation/3/b/ii)
+[^c-e92e9bf34257d665d7e9be5256d85349]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (England) (Amendment) Regulations 2019 (S.I. 2019/1475)](https://www.legislation.gov.uk/uksi/2019/1475), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1475/regulation/1), [3(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1475/regulation/3/b/ii)
 
-[^key-e70794a3e9fa1216a794aa72d713890b]: Textual amendment: Words in reg. 2(1) substituted (5.11.2015) by virtue of [The Welfare of Animals at the Time of Killing (England) Regulations 2015 (S.I. 2015/1782)](https://www.legislation.gov.uk/uksi/2015/1782), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/1/4), [Sch. 6 para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2015/1782/schedule/6/paragraph/4/2/b)
+[^c-e70794a3e9fa1216a794aa72d713890b]: Textual amendment: Words in reg. 2(1) substituted (5.11.2015) by virtue of [The Welfare of Animals at the Time of Killing (England) Regulations 2015 (S.I. 2015/1782)](https://www.legislation.gov.uk/uksi/2015/1782), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/1/4), [Sch. 6 para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2015/1782/schedule/6/paragraph/4/2/b)
 
-[^key-8150d199f654e84d7e346b53969c4ea0]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (England) (Amendment) Regulations 2019 (S.I. 2019/1475)](https://www.legislation.gov.uk/uksi/2019/1475), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1475/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2019/1475/regulation/3/c)
+[^c-8150d199f654e84d7e346b53969c4ea0]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (England) (Amendment) Regulations 2019 (S.I. 2019/1475)](https://www.legislation.gov.uk/uksi/2019/1475), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1475/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2019/1475/regulation/3/c)
 
 [^c19746841]: Marginal citation: [S.I. 1995/539](https://www.legislation.gov.uk/uksi/1995/539), revoked with effect from 1st January 2006 by [S.I. 2005/2059](https://www.legislation.gov.uk/uksi/2005/2059)
 
 [^c19746851]: Marginal citation: [S.I. 1995/540](https://www.legislation.gov.uk/uksi/1995/540), revoked with effect from 1st January 2006 by [S.I. 2005/2059](https://www.legislation.gov.uk/uksi/2005/2059).
 
-[^key-76624456c7ffce416e9d029138285b1e]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (England) (Amendment) Regulations 2019 (S.I. 2019/1475)](https://www.legislation.gov.uk/uksi/2019/1475), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1475/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2019/1475/regulation/3/d)
+[^c-76624456c7ffce416e9d029138285b1e]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (England) (Amendment) Regulations 2019 (S.I. 2019/1475)](https://www.legislation.gov.uk/uksi/2019/1475), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1475/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2019/1475/regulation/3/d)
 
-[^key-84263eb4b20ab775017340e887b3ced5]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (England) (Amendment) Regulations 2019 (S.I. 2019/1475)](https://www.legislation.gov.uk/uksi/2019/1475), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1475/regulation/1), [3(e)](https://www.legislation.gov.uk/uksi/2019/1475/regulation/3/e)
+[^c-84263eb4b20ab775017340e887b3ced5]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (England) (Amendment) Regulations 2019 (S.I. 2019/1475)](https://www.legislation.gov.uk/uksi/2019/1475), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1475/regulation/1), [3(e)](https://www.legislation.gov.uk/uksi/2019/1475/regulation/3/e)
 
 [^c19746861]: Marginal citation: S.1. 1995/2148, revoked with effect from 1st January 2006 by [S.I. 2005/2059](https://www.legislation.gov.uk/uksi/2005/2059).
 
-[^key-3b61051f2702ae51ebc4cabcbaca59da]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (England) (Amendment) Regulations 2019 (S.I. 2019/1475)](https://www.legislation.gov.uk/uksi/2019/1475), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1475/regulation/1), [3(f)](https://www.legislation.gov.uk/uksi/2019/1475/regulation/3/f)
+[^c-3b61051f2702ae51ebc4cabcbaca59da]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (England) (Amendment) Regulations 2019 (S.I. 2019/1475)](https://www.legislation.gov.uk/uksi/2019/1475), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1475/regulation/1), [3(f)](https://www.legislation.gov.uk/uksi/2019/1475/regulation/3/f)
 
-[^key-32a6555554c3508e0afea2aa78660ba6]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (England) (Amendment) Regulations 2019 (S.I. 2019/1475)](https://www.legislation.gov.uk/uksi/2019/1475), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1475/regulation/1), [3(g)](https://www.legislation.gov.uk/uksi/2019/1475/regulation/3/g)
+[^c-32a6555554c3508e0afea2aa78660ba6]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (England) (Amendment) Regulations 2019 (S.I. 2019/1475)](https://www.legislation.gov.uk/uksi/2019/1475), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1475/regulation/1), [3(g)](https://www.legislation.gov.uk/uksi/2019/1475/regulation/3/g)
 
-[^key-ed73fc38957ec7b8c53df3058135c273]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (England) (Amendment) Regulations 2019 (S.I. 2019/1475)](https://www.legislation.gov.uk/uksi/2019/1475), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1475/regulation/1), [3(h)](https://www.legislation.gov.uk/uksi/2019/1475/regulation/3/h)
+[^c-ed73fc38957ec7b8c53df3058135c273]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (England) (Amendment) Regulations 2019 (S.I. 2019/1475)](https://www.legislation.gov.uk/uksi/2019/1475), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1475/regulation/1), [3(h)](https://www.legislation.gov.uk/uksi/2019/1475/regulation/3/h)
 
-[^key-a6a17a3c0c571a1aa777200971d5a574]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (England) (Amendment) Regulations 2019 (S.I. 2019/1475)](https://www.legislation.gov.uk/uksi/2019/1475), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1475/regulation/1), [3(i)](https://www.legislation.gov.uk/uksi/2019/1475/regulation/3/i)
+[^c-a6a17a3c0c571a1aa777200971d5a574]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (England) (Amendment) Regulations 2019 (S.I. 2019/1475)](https://www.legislation.gov.uk/uksi/2019/1475), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1475/regulation/1), [3(i)](https://www.legislation.gov.uk/uksi/2019/1475/regulation/3/i)
 
-[^key-1c1e8bd50c26134e038e7e0c5b689bc9]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2009/1574/regulation/2/2) omitted (31.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/4/2)
+[^c-1c1e8bd50c26134e038e7e0c5b689bc9]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2009/1574/regulation/2/2) omitted (31.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/4/2)
 
 [^c19746871]: Marginal citation: [S.I](https://www.legislation.gov.uk/uksi/2009/1574/section/I). 2008/447.
 
-[^key-544d7692b4963a84f47978b46363fa86]: Textual amendment: Sch. 1 substituted (14.12.2019) by [The Meat (Official Controls Charges) (England) (Amendment) Regulations 2019 (S.I. 2019/1475)](https://www.legislation.gov.uk/uksi/2019/1475), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1475/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/1475/schedule)
+[^c-544d7692b4963a84f47978b46363fa86]: Textual amendment: Sch. 1 substituted (14.12.2019) by [The Meat (Official Controls Charges) (England) (Amendment) Regulations 2019 (S.I. 2019/1475)](https://www.legislation.gov.uk/uksi/2019/1475), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1475/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/1475/schedule)
 
-[^key-cd38f18382ebbb02f09084def6b12789]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2009/1574/schedule/1) heading substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/4/3)
+[^c-cd38f18382ebbb02f09084def6b12789]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2009/1574/schedule/1) heading substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/4/3)
 
-[^key-f4c8c84558dae46e8651b432a0993d5a]: Textual amendment: Words in Sch. 2 para. 6 substituted (14.12.2019) by [The Meat (Official Controls Charges) (England) (Amendment) Regulations 2019 (S.I. 2019/1475)](https://www.legislation.gov.uk/uksi/2019/1475), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1475/regulation/1), [5(a)(i)](https://www.legislation.gov.uk/uksi/2019/1475/regulation/5/a/i)
+[^c-f4c8c84558dae46e8651b432a0993d5a]: Textual amendment: Words in Sch. 2 para. 6 substituted (14.12.2019) by [The Meat (Official Controls Charges) (England) (Amendment) Regulations 2019 (S.I. 2019/1475)](https://www.legislation.gov.uk/uksi/2019/1475), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1475/regulation/1), [5(a)(i)](https://www.legislation.gov.uk/uksi/2019/1475/regulation/5/a/i)
 
-[^key-d09060fc405941b9a1dd1baf8e727206]: Textual amendment: Words in Sch. 2 para. 6 substituted (14.12.2019) by [The Meat (Official Controls Charges) (England) (Amendment) Regulations 2019 (S.I. 2019/1475)](https://www.legislation.gov.uk/uksi/2019/1475), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1475/regulation/1), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1475/regulation/5/a/ii)
+[^c-d09060fc405941b9a1dd1baf8e727206]: Textual amendment: Words in Sch. 2 para. 6 substituted (14.12.2019) by [The Meat (Official Controls Charges) (England) (Amendment) Regulations 2019 (S.I. 2019/1475)](https://www.legislation.gov.uk/uksi/2019/1475), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1475/regulation/1), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1475/regulation/5/a/ii)
 
-[^key-e6a17790d76a26bce7810ddabebe823a]: Textual amendment: Words in Sch. 2 para. 11 substituted (14.12.2019) by [The Meat (Official Controls Charges) (England) (Amendment) Regulations 2019 (S.I. 2019/1475)](https://www.legislation.gov.uk/uksi/2019/1475), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1475/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2019/1475/regulation/5/b)
+[^c-e6a17790d76a26bce7810ddabebe823a]: Textual amendment: Words in Sch. 2 para. 11 substituted (14.12.2019) by [The Meat (Official Controls Charges) (England) (Amendment) Regulations 2019 (S.I. 2019/1475)](https://www.legislation.gov.uk/uksi/2019/1475), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1475/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2019/1475/regulation/5/b)

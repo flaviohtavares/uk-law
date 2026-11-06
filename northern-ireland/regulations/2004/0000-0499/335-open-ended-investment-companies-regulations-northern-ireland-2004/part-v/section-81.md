@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 81. Jurisdiction and procedure in respect of offences[^key-f1252e3893ff735de4cdce218ae6e46f]
+## 81. Jurisdiction and procedure in respect of offences[^c-f1252e3893ff735de4cdce218ae6e46f]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Section 403 of the Act (jurisdiction and procedure in respect of offences) appli
 
 ## Annotations
 
-[^key-f1252e3893ff735de4cdce218ae6e46f]: Commencement: [Reg. 81](https://www.legislation.gov.uk/nisr/2004/335/regulation/81) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-f1252e3893ff735de4cdce218ae6e46f]: Commencement: [Reg. 81](https://www.legislation.gov.uk/nisr/2004/335/regulation/81) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

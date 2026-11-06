@@ -33,7 +33,7 @@ This Statutory Rule has been made to correct an error in [SR 2003/383](https://w
 
 FOOD
 
-The Honey (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^key-9217b8d6a95982b8b45e7eb59d0b8e79]
+The Honey (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^c-9217b8d6a95982b8b45e7eb59d0b8e79]
 
 Made
 
@@ -43,24 +43,24 @@ Coming into operation
 
 5th September 2005
 
-[^key-9217b8d6a95982b8b45e7eb59d0b8e79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9217b8d6a95982b8b45e7eb59d0b8e79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9217b8d6a95982b8b45e7eb59d0b8e79]
+## 1. Citation and commencement[^c-9217b8d6a95982b8b45e7eb59d0b8e79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Honey Regulations (Northern Ireland) 2003[^key-9217b8d6a95982b8b45e7eb59d0b8e79]
+## 2. Amendments to the Honey Regulations (Northern Ireland) 2003[^c-9217b8d6a95982b8b45e7eb59d0b8e79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-9217b8d6a95982b8b45e7eb59d0b8e79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-9217b8d6a95982b8b45e7eb59d0b8e79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9217b8d6a95982b8b45e7eb59d0b8e79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9217b8d6a95982b8b45e7eb59d0b8e79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9217b8d6a95982b8b45e7eb59d0b8e79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9217b8d6a95982b8b45e7eb59d0b8e79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9217b8d6a95982b8b45e7eb59d0b8e79]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/385) revoked (24.6.2015) by [The Honey Regulations (Northern Ireland) 2015 (S.R. 2015/261)](https://www.legislation.gov.uk/nisr/2015/261), [reg. 20(1)(b)](https://www.legislation.gov.uk/nisr/2015/261/regulation/20/1/b)
+[^c-9217b8d6a95982b8b45e7eb59d0b8e79]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/385) revoked (24.6.2015) by [The Honey Regulations (Northern Ireland) 2015 (S.R. 2015/261)](https://www.legislation.gov.uk/nisr/2015/261), [reg. 20(1)(b)](https://www.legislation.gov.uk/nisr/2015/261/regulation/20/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Stopping up of streets and extinguishments of rights[^key-05b50836a96805ea901317c089d4812b]
+## 7. Stopping up of streets and extinguishments of rights[^c-05b50836a96805ea901317c089d4812b]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-05b50836a96805ea901317c089d4812b]: Commencement: Art. 7 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-05b50836a96805ea901317c089d4812b]: Commencement: Art. 7 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
 
 [^f00013]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).

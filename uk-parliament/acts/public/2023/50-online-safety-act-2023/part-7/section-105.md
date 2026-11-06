@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Investigations[^key-27f609695617dfc40436dffe9c6c19c3][^key-353f509f09e94f390bfbe720b82de30a]
+## 105. Investigations[^c-27f609695617dfc40436dffe9c6c19c3][^c-353f509f09e94f390bfbe720b82de30a]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-27f609695617dfc40436dffe9c6c19c3]: Commencement: S. 105 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-27f609695617dfc40436dffe9c6c19c3]: Commencement: S. 105 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-353f509f09e94f390bfbe720b82de30a]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2023/50/section/105) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z9)
+[^c-353f509f09e94f390bfbe720b82de30a]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2023/50/section/105) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Power to restrict charges or impose requirements in relation to schemes[^key-0633dd184fe8846c1de02aa2955675fc]
+## 43. Power to restrict charges or impose requirements in relation to schemes[^c-0633dd184fe8846c1de02aa2955675fc]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ Schedule 18 permits the Secretary of State to make regulations—
 
 ## Annotations
 
-[^key-0633dd184fe8846c1de02aa2955675fc]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2014/19/section/43) in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(f)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/f)
+[^c-0633dd184fe8846c1de02aa2955675fc]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2014/19/section/43) in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(f)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/f)

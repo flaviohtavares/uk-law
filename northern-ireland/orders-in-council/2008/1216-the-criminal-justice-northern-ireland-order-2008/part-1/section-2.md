@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: N.I.*
 
-The Interpretation Act (Northern Ireland) 1954 (c. 33) applies to this Order as it applies to an Act of the Assembly ; and in this Order, “[^key-b4d1189fbb7b7a4e395ec42808f37632]**statutory provision**” has the same meaning as in that Act .
+The Interpretation Act (Northern Ireland) 1954 (c. 33) applies to this Order as it applies to an Act of the Assembly ; and in this Order, “[^c-b4d1189fbb7b7a4e395ec42808f37632]**statutory provision**” has the same meaning as in that Act .
 
 ## Annotations
 
-[^key-b4d1189fbb7b7a4e395ec42808f37632]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/nisi/2008/1216/article/2) inserted (1.6.2018) by [Justice Act (Northern Ireland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [ss. 29(9)](https://www.legislation.gov.uk/nia/2016/21/section/29/9), [61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2) (with [s. 29(12)](https://www.legislation.gov.uk/nia/2016/21/section/29/12)); [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)
+[^c-b4d1189fbb7b7a4e395ec42808f37632]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/nisi/2008/1216/article/2) inserted (1.6.2018) by [Justice Act (Northern Ireland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [ss. 29(9)](https://www.legislation.gov.uk/nia/2016/21/section/29/9), [61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2) (with [s. 29(12)](https://www.legislation.gov.uk/nia/2016/21/section/29/12)); [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)

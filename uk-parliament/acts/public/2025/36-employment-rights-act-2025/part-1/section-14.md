@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Policy about allocating tips etc: consultation and review[^key-3a14ae697557647f442be5f23a28b410]
+## 14. Policy about allocating tips etc: consultation and review[^c-3a14ae697557647f442be5f23a28b410]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a14ae697557647f442be5f23a28b410]: Commencement: S. 14 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-3a14ae697557647f442be5f23a28b410]: Commencement: S. 14 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)

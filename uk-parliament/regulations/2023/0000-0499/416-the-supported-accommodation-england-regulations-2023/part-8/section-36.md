@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Amendments to the Care Planning, Placement and Case Review (England) Regulations 2010[^key-afdebcaf821e0c7348e30d81a8b460c3]
+## 36. Amendments to the Care Planning, Placement and Case Review (England) Regulations 2010[^c-afdebcaf821e0c7348e30d81a8b460c3]
 
 *Extent: E+W*
 
@@ -69,7 +69,7 @@ summary: ''
 
 ## Annotations
 
-[^key-afdebcaf821e0c7348e30d81a8b460c3]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2023/416/regulation/36) in force at 28.10.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/3)
+[^c-afdebcaf821e0c7348e30d81a8b460c3]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2023/416/regulation/36) in force at 28.10.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/3)
 
 [^f00027]: Footnote: Section 3 was amended in relation to England by the Health and Social Care Act 2008, Schedule 5, paragraph 4(3).
 

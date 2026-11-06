@@ -32,7 +32,7 @@ summary: ''
 
 Seeds, England
 
-The Seed Potatoes (England) (Amendment) Regulations 2010 (revoked)[^key-14526cfeb72c17136fe349ffe4e96a30]
+The Seed Potatoes (England) (Amendment) Regulations 2010 (revoked)[^c-14526cfeb72c17136fe349ffe4e96a30]
 
 Made
 
@@ -46,23 +46,23 @@ Coming into force
 
 1st July 2010
 
-[^key-14526cfeb72c17136fe349ffe4e96a30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-14526cfeb72c17136fe349ffe4e96a30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-14526cfeb72c17136fe349ffe4e96a30]
+## 1. Title and commencement[^c-14526cfeb72c17136fe349ffe4e96a30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Seed Potatoes (England) Regulations 2006[^key-14526cfeb72c17136fe349ffe4e96a30]
+## 2. Amendments to the Seed Potatoes (England) Regulations 2006[^c-14526cfeb72c17136fe349ffe4e96a30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-14526cfeb72c17136fe349ffe4e96a30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-14526cfeb72c17136fe349ffe4e96a30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-14526cfeb72c17136fe349ffe4e96a30]EXPLANATORY NOTE
+[^c-14526cfeb72c17136fe349ffe4e96a30]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -74,4 +74,4 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 ## Annotations
 
-[^key-14526cfeb72c17136fe349ffe4e96a30]: Textual amendment: Regulations revoked (1.1.2016) by [The Seed Potatoes (England) Regulations 2015 (S.I. 2015/1953)](https://www.legislation.gov.uk/uksi/2015/1953), [regs. 1(1), 25(2)(d)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/25/2/d) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/1/3))
+[^c-14526cfeb72c17136fe349ffe4e96a30]: Textual amendment: Regulations revoked (1.1.2016) by [The Seed Potatoes (England) Regulations 2015 (S.I. 2015/1953)](https://www.legislation.gov.uk/uksi/2015/1953), [regs. 1(1), 25(2)(d)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/25/2/d) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/1/3))

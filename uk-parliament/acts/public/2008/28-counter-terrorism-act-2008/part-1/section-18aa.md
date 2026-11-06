@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18AA. Retention of material from INTERPOL[^key-9ec433fc1402f4bdec32cbb3820b826b]
+## 18AA. Retention of material from INTERPOL[^c-9ec433fc1402f4bdec32cbb3820b826b]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ec433fc1402f4bdec32cbb3820b826b]: Textual amendment: [Ss. 18AA](https://www.legislation.gov.uk/ukpga/2008/28/section/18AA), [18AB](https://www.legislation.gov.uk/ukpga/2008/28/section/18AB) inserted (19.6.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 128(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/128/3), [142(2)(f)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/f) (with [s. 128(5)-(8)](https://www.legislation.gov.uk/ukpga/2025/18/section/128/5))
+[^c-9ec433fc1402f4bdec32cbb3820b826b]: Textual amendment: [Ss. 18AA](https://www.legislation.gov.uk/ukpga/2008/28/section/18AA), [18AB](https://www.legislation.gov.uk/ukpga/2008/28/section/18AB) inserted (19.6.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 128(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/128/3), [142(2)(f)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/f) (with [s. 128(5)-(8)](https://www.legislation.gov.uk/ukpga/2025/18/section/128/5))

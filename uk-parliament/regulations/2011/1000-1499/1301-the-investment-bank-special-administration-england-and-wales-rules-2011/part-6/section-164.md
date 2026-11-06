@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 164. Mutual credit and set-off[^key-fde605a2598385cb72b6c680daa1b683]
+## 164. Mutual credit and set-off[^c-fde605a2598385cb72b6c680daa1b683]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fde605a2598385cb72b6c680daa1b683]: Commencement: [Rule 164](https://www.legislation.gov.uk/uksi/2011/1301/rule/164) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-fde605a2598385cb72b6c680daa1b683]: Commencement: [Rule 164](https://www.legislation.gov.uk/uksi/2011/1301/rule/164) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

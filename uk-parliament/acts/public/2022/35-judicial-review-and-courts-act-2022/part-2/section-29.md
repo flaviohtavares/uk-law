@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Duty to make support available for those who require it[^key-f5bae3f92461b41696c3bab052f4a9e2][^key-72328917773b94d1dd343df8dbdaddbe]
+## 29. Duty to make support available for those who require it[^c-f5bae3f92461b41696c3bab052f4a9e2][^c-72328917773b94d1dd343df8dbdaddbe]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Lord Chancellor must arrange for the provision of such support as the Lord C
 
 ## Annotations
 
-[^key-f5bae3f92461b41696c3bab052f4a9e2]: Commencement: S. 29 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-f5bae3f92461b41696c3bab052f4a9e2]: Commencement: S. 29 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-72328917773b94d1dd343df8dbdaddbe]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2022/35/section/29) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
+[^c-72328917773b94d1dd343df8dbdaddbe]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2022/35/section/29) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)

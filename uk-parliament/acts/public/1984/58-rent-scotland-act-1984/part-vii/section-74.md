@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: S*
 
-(1) The provisions of this section apply where a Part VII contract has been referred to the First-tier Tribunal[^key-1e77e91d193ad2c277c09193eb0541c7] and the period at the end of which a notice to quit will take effect has been determined by section 71 above or extended under section 72 above.
+(1) The provisions of this section apply where a Part VII contract has been referred to the First-tier Tribunal[^c-1e77e91d193ad2c277c09193eb0541c7] and the period at the end of which a notice to quit will take effect has been determined by section 71 above or extended under section 72 above.
 
-(2) If, in a case where this section applies, it appears to the First-tier Tribunal[^key-baae413ae8cca3bf740c18971f1ec453], on an application made by the lessor for a direction under this section,—
+(2) If, in a case where this section applies, it appears to the First-tier Tribunal[^c-baae413ae8cca3bf740c18971f1ec453], on an application made by the lessor for a direction under this section,—
 
 - (a) that the lessee has not complied with the terms of the contract, or
 - (b) that the lessee or any person residing or lodging with him has been guilty of conduct which is a nuisance or annoyance to adjoining occupiers or as been convicted of using the dwelling-house, or allowing the dwelling-house to be used, for an immoral or illegal purpose, or
@@ -35,6 +35,6 @@ the First-tier Tribunal may direct that the period referred to in subsection (1)
 
 ## Annotations
 
-[^key-1e77e91d193ad2c277c09193eb0541c7]: Textual amendment: Words in [s. 74(1)](https://www.legislation.gov.uk/ukpga/1984/58/section/74/1) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337)](https://www.legislation.gov.uk/ssi/2016/337), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2), [sch. 2 para. 1(21)(a)](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/1/21/a) (with [sch. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1))
+[^c-1e77e91d193ad2c277c09193eb0541c7]: Textual amendment: Words in [s. 74(1)](https://www.legislation.gov.uk/ukpga/1984/58/section/74/1) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337)](https://www.legislation.gov.uk/ssi/2016/337), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2), [sch. 2 para. 1(21)(a)](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/1/21/a) (with [sch. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1))
 
-[^key-baae413ae8cca3bf740c18971f1ec453]: Textual amendment: Words in [s. 74(2)](https://www.legislation.gov.uk/ukpga/1984/58/section/74/2) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337)](https://www.legislation.gov.uk/ssi/2016/337), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2), [sch. 2 para. 1(21)(b)](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/1/21/b) (with [sch. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1))
+[^c-baae413ae8cca3bf740c18971f1ec453]: Textual amendment: Words in [s. 74(2)](https://www.legislation.gov.uk/ukpga/1984/58/section/74/2) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337)](https://www.legislation.gov.uk/ssi/2016/337), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2), [sch. 2 para. 1(21)(b)](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/1/21/b) (with [sch. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1))

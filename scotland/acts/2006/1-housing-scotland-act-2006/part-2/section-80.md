@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Terms of loan[^key-6997997054c275484c33dfdc86991be0]
+## 80. Terms of loan[^c-6997997054c275484c33dfdc86991be0]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6997997054c275484c33dfdc86991be0]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2006/1/section/80) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-6997997054c275484c33dfdc86991be0]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2006/1/section/80) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

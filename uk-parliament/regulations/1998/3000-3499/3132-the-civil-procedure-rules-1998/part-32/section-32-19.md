@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32.19. Notice to admit or produce documents[^key-a42c257e8923a3dc3109fd148c26a9d0]
+## 32.19. Notice to admit or produce documents[^c-a42c257e8923a3dc3109fd148c26a9d0]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ whichever is later.
 
 ## Annotations
 
-[^key-a42c257e8923a3dc3109fd148c26a9d0]: Commencement: [Rule 32.19](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.19) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-a42c257e8923a3dc3109fd148c26a9d0]: Commencement: [Rule 32.19](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.19) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

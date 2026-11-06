@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Education in exercise of the powers conferred on it by Article 7(1)(*b*), (2)(*a*)(ii) and (6) of the Education Reform (Northern Ireland) Order 1989[^f00001] and of every other power enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation and commencement[^key-5f98d40203c2317df4edffd999f41e22]
+## 1. Citation and commencement[^c-5f98d40203c2317df4edffd999f41e22]
 
 This Order may be cited as the Education (Assessment Arrangements for Key Stage 3) Order (Northern Ireland) 1997 and shall come into operation on 20th October 1997.
 
-## 2. Revocations[^key-fd39c73cf03bcfe028137066f02b85f3]
+## 2. Revocations[^c-fd39c73cf03bcfe028137066f02b85f3]
 
 The following Orders are hereby revoked—
 
@@ -55,13 +55,13 @@ The following Orders are hereby revoked—
 - (c) the Education (Assessment Arrangements for Key Stage 3) (Amendment No. 2) Order (Northern Ireland) 1997[^f00004]; and
 - (d) the Education (Assessment Arrangements for Key Stage 3) (Amendment No. 3) Order (Northern Ireland) 1997[^f00005].
 
-## 3. Application[^key-db844ea88572766bee28cf2352387976]
+## 3. Application[^c-db844ea88572766bee28cf2352387976]
 
 (1) Subject to paragraph (2) the provisions of this Order shall apply in respect of pupils in grant-aided schools who are in the third year of the third key stage.
 
 (2) This Order shall not have effect in relation to a pupil in respect of whom a board is maintaining a statement of special educational needs under Article 16 of the 1996 Order and who, on the making of an assessment of his special educational needs, has been assessed by that board under Article 15 of that Order as having severe learning difficulties.
 
-## 4. Interpretation[^key-92c82adf2bc093d0ae2ee8ca7e3a87b3]
+## 4. Interpretation[^c-92c82adf2bc093d0ae2ee8ca7e3a87b3]
 
 In this Order—
 
@@ -73,13 +73,13 @@ In this Order—
 - “the 1989 Order” means the Education Reform (Northern Ireland) Order 1989; and
 - “the 1996 Order” means the Education (Northern Ireland) Order 1996[^f00008].
 
-## 5. Duty to carry out assessment[^key-d55617b11cff4fa31372f3bdaf113ddb]
+## 5. Duty to carry out assessment[^c-d55617b11cff4fa31372f3bdaf113ddb]
 
 (1) It shall be the duty of the principal of the school to make arrangements for an assessment of each pupil’s attainment in the relevant subjects specified in paragraph (2) to be carried out in accordance with the provisions of this Order.
 
 (2) Each pupil shall be assessed in English, Mathematics and Science at or near the end of the third key stage for the purpose of ascertaining what he has achieved in relation to the attainment targets for that key stage.
 
-## 6. Assessment by teachers[^key-31d810d73932366ca57806e053536767]
+## 6. Assessment by teachers[^c-31d810d73932366ca57806e053536767]
 
 (1) In relation to each relevant subject, each pupil shall be assessed by a teacher in accordance with this Article in the period commencing on 1st January and ending on a date in the same school year specified in the Assessment Document (both dates inclusive) and a record of the results shall be made by that teacher not later than a date specified in the Assessment Document.
 
@@ -89,11 +89,11 @@ In this Order—
 
 (4) In making an assessment of a pupil under this Article a teacher may take into account any previous assessment of that pupil (whether or not made by that teacher).
 
-## 7. Information to be provided to the Council[^key-5d8b9a726f7563d1d35bb69f78d8d452]
+## 7. Information to be provided to the Council[^c-5d8b9a726f7563d1d35bb69f78d8d452]
 
 It shall be the duty of the principal of the school, in respect of each pupil, to send notification to the Council comprising the information, in the form and by the dates, specified in the Assessment Document.
 
-## 8. Calculation of pupils' levels of attainment[^key-7222d5479ad8a2f1109e50dfdff31688]
+## 8. Calculation of pupils' levels of attainment[^c-7222d5479ad8a2f1109e50dfdff31688]
 
 (1) Subject to paragraph (2) each pupil’s level of attainment in each relevant subject shall be calculated in accordance with the arrangements specified in the Assessment Document and the Council shall send notification to the school comprising the following information—
 
@@ -109,7 +109,7 @@ It shall be the duty of the principal of the school, in respect of each pupil, t
 
 (3) Where the average calculated under paragraph (2) is not a whole number it shall be rounded to the nearest whole number, the fraction of one half being rounded upwards to the next whole number.
 
-## 9. External tests[^key-479dc851b00c8c67774f9bf6a0062200]
+## 9. External tests[^c-479dc851b00c8c67774f9bf6a0062200]
 
 (1) Subject to Article 10(4) and (5) it shall be the duty of the principal of the school to make arrangements for each pupil to take tests set by the Council in each relevant subject at a date and time and in accordance with arrangements specified in the Assessment Document.
 
@@ -119,7 +119,7 @@ It shall be the duty of the principal of the school, in respect of each pupil, t
 - (b) the percentage of pupils at the school in the third year of the third key stage achieving each level of attainment; and
 - (c) the percentage of all pupils in Northern Ireland in the third year of the third key stage achieving each level of attainment.
 
-## 10. Exemptions[^key-6e2210106ae304db01de2120965b3998]
+## 10. Exemptions[^c-6e2210106ae304db01de2120965b3998]
 
 (1) Where, under Article 14 (development work and experiments), 15 (exceptions by regulations), 16 (pupils with statements of special educational needs) or 17 (temporary exceptions for individual pupils) of the 1989 Order, a pupil has been exempted from one or more attainment targets in a relevant subject that pupil shall be assessed by a teacher in accordance with Article 6 only in relation to the remaining attainment targets in that subject and where a pupil has been exempted from a relevant subject as a whole Article 5 shall not apply in respect of that subject.
 
@@ -143,7 +143,7 @@ Assistant Secretary
 
 Article 4
 
-### Part 1[^key-fea0eb088c0a3b0ba769fd2baca97dd2]
+### Part 1[^c-fea0eb088c0a3b0ba769fd2baca97dd2]
 
 - English
   - Key Stages 3 and 4
@@ -155,7 +155,7 @@ Article 4
   - Key Stages 3 and 4
   - Programmes of Study and Attainment Targets[^f00011]
 
-### Part 2[^key-009a56ee74bb906aaa49ec5952942e82]
+### Part 2[^c-009a56ee74bb906aaa49ec5952942e82]
 
 - The Curriculum (Programme of Study and Attainment Targets in English at Key Stages 3 and 4) Order (Northern Ireland) 1996[^f00012]
 - The Curriculum (Programme of Study and Attainment Targets in Mathematics at Key Stages 3 and 4) Order (Northern Ireland) 1996[^f00013]
@@ -177,9 +177,9 @@ The Order also provides for other matters of detail of the assessment arrangemen
 
 [^f00001]: Footnote: S.I. [1989/2406 (N.I. 20)](https://www.legislation.gov.uk/nisi/1989/2406); Article 7(2) was amended by S.I. [1996/274 (N.I. 1)](https://www.legislation.gov.uk/nisi/1996/274) Article 35(2)
 
-[^key-5f98d40203c2317df4edffd999f41e22]: Commencement: Art. 1 in operation at 20.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/422/article/1)
+[^c-5f98d40203c2317df4edffd999f41e22]: Commencement: Art. 1 in operation at 20.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/422/article/1)
 
-[^key-fd39c73cf03bcfe028137066f02b85f3]: Commencement: Art. 2 in operation at 20.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/422/article/1)
+[^c-fd39c73cf03bcfe028137066f02b85f3]: Commencement: Art. 2 in operation at 20.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/422/article/1)
 
 [^f00002]: Footnote: [S.R. 1996 No. 364](https://www.legislation.gov.uk/nisr/1996/364)
 
@@ -189,9 +189,9 @@ The Order also provides for other matters of detail of the assessment arrangemen
 
 [^f00005]: Footnote: [S.R. 1997 No. 203](https://www.legislation.gov.uk/nisr/1997/203)
 
-[^key-db844ea88572766bee28cf2352387976]: Commencement: Art. 3 in operation at 20.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/422/article/1)
+[^c-db844ea88572766bee28cf2352387976]: Commencement: Art. 3 in operation at 20.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/422/article/1)
 
-[^key-92c82adf2bc093d0ae2ee8ca7e3a87b3]: Commencement: Art. 4 in operation at 20.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/422/article/1)
+[^c-92c82adf2bc093d0ae2ee8ca7e3a87b3]: Commencement: Art. 4 in operation at 20.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/422/article/1)
 
 [^f00006]: Footnote: ISBN 0 337 04326 4
 
@@ -199,19 +199,19 @@ The Order also provides for other matters of detail of the assessment arrangemen
 
 [^f00008]: Footnote: S.I. [1996/274 (N.I. 1)](https://www.legislation.gov.uk/nisi/1996/274)
 
-[^key-d55617b11cff4fa31372f3bdaf113ddb]: Commencement: Art. 5 in operation at 20.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/422/article/1)
+[^c-d55617b11cff4fa31372f3bdaf113ddb]: Commencement: Art. 5 in operation at 20.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/422/article/1)
 
-[^key-31d810d73932366ca57806e053536767]: Commencement: Art. 6 in operation at 20.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/422/article/1)
+[^c-31d810d73932366ca57806e053536767]: Commencement: Art. 6 in operation at 20.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/422/article/1)
 
-[^key-5d8b9a726f7563d1d35bb69f78d8d452]: Commencement: Art. 7 in operation at 20.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/422/article/1)
+[^c-5d8b9a726f7563d1d35bb69f78d8d452]: Commencement: Art. 7 in operation at 20.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/422/article/1)
 
-[^key-7222d5479ad8a2f1109e50dfdff31688]: Commencement: Art. 8 in operation at 20.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/422/article/1)
+[^c-7222d5479ad8a2f1109e50dfdff31688]: Commencement: Art. 8 in operation at 20.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/422/article/1)
 
-[^key-479dc851b00c8c67774f9bf6a0062200]: Commencement: Art. 9 in operation at 20.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/422/article/1)
+[^c-479dc851b00c8c67774f9bf6a0062200]: Commencement: Art. 9 in operation at 20.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/422/article/1)
 
-[^key-6e2210106ae304db01de2120965b3998]: Commencement: Art. 10 in operation at 20.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/422/article/1)
+[^c-6e2210106ae304db01de2120965b3998]: Commencement: Art. 10 in operation at 20.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/422/article/1)
 
-[^key-fea0eb088c0a3b0ba769fd2baca97dd2]: Commencement: Sch. Pt. 1 in operation at 20.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/422/article/1)
+[^c-fea0eb088c0a3b0ba769fd2baca97dd2]: Commencement: Sch. Pt. 1 in operation at 20.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/422/article/1)
 
 [^f00009]: Footnote: ISBN 0 337 04293 4
 
@@ -219,7 +219,7 @@ The Order also provides for other matters of detail of the assessment arrangemen
 
 [^f00011]: Footnote: ISBN 0 337 04295 0
 
-[^key-009a56ee74bb906aaa49ec5952942e82]: Commencement: Sch. Pt. 2 in operation at 20.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/422/article/1)
+[^c-009a56ee74bb906aaa49ec5952942e82]: Commencement: Sch. Pt. 2 in operation at 20.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/422/article/1)
 
 [^f00012]: Footnote: [S.R. 1996 No. 340](https://www.legislation.gov.uk/nisr/1996/340)
 

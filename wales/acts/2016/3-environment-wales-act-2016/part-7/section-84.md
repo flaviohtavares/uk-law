@@ -37,11 +37,11 @@ summary: ''
 
 (4) In section 143 (orders and regulations)—
 
-- (a)[^key-8ffc8f441f14e067d7ce158a0aa6a221] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-8ffc8f441f14e067d7ce158a0aa6a221] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) omit subsection (4A).
 
 (5) In Schedule 7 to the Local Government Act 2003 (c. 26), omit paragraph 24(4).
 
 ## Annotations
 
-[^key-8ffc8f441f14e067d7ce158a0aa6a221]: Textual amendment: [S. 84(4)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/84/4/a) omitted (16.11.2024) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(g)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/g), [Sch. para. 20(2)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/20/2)
+[^c-8ffc8f441f14e067d7ce158a0aa6a221]: Textual amendment: [S. 84(4)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/84/4/a) omitted (16.11.2024) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(g)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/g), [Sch. para. 20(2)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/20/2)

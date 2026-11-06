@@ -43,7 +43,7 @@ and the conditions in subsection (2) are, or subsequently become, satisfied.
 
 shall be taken to have effect in the case of the company, so far as relating to that contract, in relation to that accounting period and any subsequent accounting periods.
 
-(4A)[^key-5742424a846d06e84a93f762e8808ebf] In relation to a subsequent accounting period ending on or after 1 April 2009, the reference in subsection (4)(c) to Schedule 26 is to be read as a reference to Part 7 of the Corporation Tax Act 2009.
+(4A)[^c-5742424a846d06e84a93f762e8808ebf] In relation to a subsequent accounting period ending on or after 1 April 2009, the reference in subsection (4)(c) to Schedule 26 is to be read as a reference to Part 7 of the Corporation Tax Act 2009.
 
 (5) Where—
 
@@ -81,4 +81,4 @@ have the same meaning as in Chapter 2 of Part 4 of the Finance Act 1994 (c. 9), 
 
 ## Annotations
 
-[^key-5742424a846d06e84a93f762e8808ebf]: Textual amendment: [S. 177(4A)](https://www.legislation.gov.uk/ukpga/2003/14/section/177/4A) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 564](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/564) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-5742424a846d06e84a93f762e8808ebf]: Textual amendment: [S. 177(4A)](https://www.legislation.gov.uk/ukpga/2003/14/section/177/4A) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 564](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/564) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

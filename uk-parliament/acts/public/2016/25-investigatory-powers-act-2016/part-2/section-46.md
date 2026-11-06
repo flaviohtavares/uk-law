@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Interception by businesses etc. for monitoring and record-keeping purposes[^key-d15593e572467942be599322cf111864]
+## 46. Interception by businesses etc. for monitoring and record-keeping purposes[^c-d15593e572467942be599322cf111864]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d15593e572467942be599322cf111864]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2016/25/section/46) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(p)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/p)
+[^c-d15593e572467942be599322cf111864]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2016/25/section/46) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(p)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/p)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9U. Article 9T exclusion:absence of holding out etc.[^key-8c1e6456b1778ff000e35bb879e9c9a3]
+## 9U. Article 9T exclusion:absence of holding out etc.[^c-8c1e6456b1778ff000e35bb879e9c9a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c1e6456b1778ff000e35bb879e9c9a3]: Textual amendment: [Pt. 2 Ch. 2B](https://www.legislation.gov.uk/uksi/2001/544/part/2/chapter/2B) inserted (25.2.2026 for specified purposes) by [The Financial Services and Markets Act 2000 (Cryptoassets) Regulations 2026 (S.I. 2026/102)](https://www.legislation.gov.uk/uksi/2026/102), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/2/3), [40(5)](https://www.legislation.gov.uk/uksi/2026/102/regulation/40/5) (with [regs. 53-56](https://www.legislation.gov.uk/uksi/2026/102/regulation/53))
+[^c-8c1e6456b1778ff000e35bb879e9c9a3]: Textual amendment: [Pt. 2 Ch. 2B](https://www.legislation.gov.uk/uksi/2001/544/part/2/chapter/2B) inserted (25.2.2026 for specified purposes) by [The Financial Services and Markets Act 2000 (Cryptoassets) Regulations 2026 (S.I. 2026/102)](https://www.legislation.gov.uk/uksi/2026/102), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/2/3), [40(5)](https://www.legislation.gov.uk/uksi/2026/102/regulation/40/5) (with [regs. 53-56](https://www.legislation.gov.uk/uksi/2026/102/regulation/53))

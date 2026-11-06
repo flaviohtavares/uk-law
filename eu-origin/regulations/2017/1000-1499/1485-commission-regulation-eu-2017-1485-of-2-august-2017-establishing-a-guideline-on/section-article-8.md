@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. TSOs responsible for specifying the terms and conditions or methodologies in accordance with this Regulation shall publish them on the internet following approval by the regulatory authority[^key-f8cb0d68317acc0c82f07cb0d7a79369] or, where no such approval is required, following their specification, except where such information is considered confidential in accordance with Article 12.
+1. TSOs responsible for specifying the terms and conditions or methodologies in accordance with this Regulation shall publish them on the internet following approval by the regulatory authority[^c-f8cb0d68317acc0c82f07cb0d7a79369] or, where no such approval is required, following their specification, except where such information is considered confidential in accordance with Article 12.
 
 2. The publication shall also concern:
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8cb0d68317acc0c82f07cb0d7a79369]: Textual amendment: Words in [Art. 8(1)](https://www.legislation.gov.uk/eur/2017/1485/article/8/1) substituted (E.W.S.) (31.12.2020) by [The Electricity Network Codes and Guidelines (System Operation and Connection) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/533)](https://www.legislation.gov.uk/uksi/2019/533), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/533/regulation/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2019/533/schedule/1/paragraph/9) (as amended by [S.I. 2020/1016](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/6/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f8cb0d68317acc0c82f07cb0d7a79369]: Textual amendment: Words in [Art. 8(1)](https://www.legislation.gov.uk/eur/2017/1485/article/8/1) substituted (E.W.S.) (31.12.2020) by [The Electricity Network Codes and Guidelines (System Operation and Connection) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/533)](https://www.legislation.gov.uk/uksi/2019/533), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/533/regulation/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2019/533/schedule/1/paragraph/9) (as amended by [S.I. 2020/1016](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/6/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

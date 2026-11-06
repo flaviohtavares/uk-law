@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12.4. Notices[^key-68e5fa33b522bb4d55027f56e3269860]
+## 12.4. Notices[^c-68e5fa33b522bb4d55027f56e3269860]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ that the notice was duly posted.
 
 ## Annotations
 
-[^key-68e5fa33b522bb4d55027f56e3269860]: Commencement: [Rule 12.4](https://www.legislation.gov.uk/uksi/1986/1925/rule/12.4) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-68e5fa33b522bb4d55027f56e3269860]: Commencement: [Rule 12.4](https://www.legislation.gov.uk/uksi/1986/1925/rule/12.4) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

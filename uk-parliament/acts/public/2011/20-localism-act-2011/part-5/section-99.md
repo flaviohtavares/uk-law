@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Compensation[^c2116511][^key-0111e4ed2e1419bffd14ae5fa2bc861c]
+## 99. Compensation[^c2116511][^c-0111e4ed2e1419bffd14ae5fa2bc861c]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 [^c2116511]: Commencement: S. 99 in force for specified purposes at Royal Assent see [s. 240(5)(f)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/f)
 
-[^key-0111e4ed2e1419bffd14ae5fa2bc861c]: Commencement: S. 99 in force at 21.9.2012 for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)
+[^c-0111e4ed2e1419bffd14ae5fa2bc861c]: Commencement: S. 99 in force at 21.9.2012 for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)

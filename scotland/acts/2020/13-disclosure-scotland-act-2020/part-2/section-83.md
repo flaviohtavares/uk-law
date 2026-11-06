@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Application for removal from list[^key-178d85936a2e0990cda88447b276e807]
+## 83. Application for removal from list[^c-178d85936a2e0990cda88447b276e807]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-178d85936a2e0990cda88447b276e807]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2020/13/section/83) in force at 10.12.2021 by [S.S.I. 2021/380](https://www.legislation.gov.uk/ssi/2021/380), [reg. 2](https://www.legislation.gov.uk/ssi/2021/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/380/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2021/380/regulation/4))
+[^c-178d85936a2e0990cda88447b276e807]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2020/13/section/83) in force at 10.12.2021 by [S.S.I. 2021/380](https://www.legislation.gov.uk/ssi/2021/380), [reg. 2](https://www.legislation.gov.uk/ssi/2021/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/380/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2021/380/regulation/4))

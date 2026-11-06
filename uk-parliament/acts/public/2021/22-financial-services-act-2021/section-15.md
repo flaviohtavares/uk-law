@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Orderly cessation of Article 23A benchmarks[^key-493223c6ab73dbfced0a61e8e872d171]
+## 15. Orderly cessation of Article 23A benchmarks[^c-493223c6ab73dbfced0a61e8e872d171]
 
 *Extent: E+W+S+N.I.*
 
@@ -151,4 +151,4 @@ summary: ''
 
 ## Annotations
 
-[^key-493223c6ab73dbfced0a61e8e872d171]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2021/22/section/15) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/h)
+[^c-493223c6ab73dbfced0a61e8e872d171]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2021/22/section/15) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/h)

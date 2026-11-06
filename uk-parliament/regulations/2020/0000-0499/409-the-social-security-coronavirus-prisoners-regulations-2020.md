@@ -50,17 +50,17 @@ In accordance with section 173(1)(a) of the Social Security Administration Act 1
 
 In accordance with section 176(2)(a) of the Social Security Administration Act 1992 it appears to the Secretary of State that by reason of the urgency of this matter it is inexpedient to consult with representative bodies.
 
-## 1. Citation and commencement[^key-93a0e219a941e61cc320fb9afd05411d]
+## 1. Citation and commencement[^c-93a0e219a941e61cc320fb9afd05411d]
 
 These Regulations may be cited as the Social Security (Coronavirus) (Prisoners) Regulations 2020 and come into force on 8th April 2020.
 
-## 1A. Interpretation[^key-57f2f2c4650472f242131e2b19ab1e60]
+## 1A. Interpretation[^c-57f2f2c4650472f242131e2b19ab1e60]
 
 In these Regulations “coronavirus disease” means COVID-19 (the official designation of the disease which can be caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)).
 
-## 2. Income Support, Jobseeker's Allowance, State Pension Credit, Employment and Support Allowance and Universal Credit – definition of prisoner[^key-38660dd54502551a4bdeb8bba226e720]
+## 2. Income Support, Jobseeker's Allowance, State Pension Credit, Employment and Support Allowance and Universal Credit – definition of prisoner[^c-38660dd54502551a4bdeb8bba226e720]
 
-(1) Where the Secretary of State is satisfied that it is expedient as a result of coronavirus disease and in such cases as the Secretary of State determines,[^key-a467895bafaf8c9fb9ad6f35482e93e5] the Regulations in paragraph (2) are to be read as if the definition of “prisoner” did not include a person on temporary release in accordance with the provisions of the Prison Act 1952.
+(1) Where the Secretary of State is satisfied that it is expedient as a result of coronavirus disease and in such cases as the Secretary of State determines,[^c-a467895bafaf8c9fb9ad6f35482e93e5] the Regulations in paragraph (2) are to be read as if the definition of “prisoner” did not include a person on temporary release in accordance with the provisions of the Prison Act 1952.
 
 (2) The Regulations are—
 
@@ -70,32 +70,32 @@ In these Regulations “coronavirus disease” means COVID-19 (the official desi
 - (d) the Employment and Support Allowance Regulations 2008 [^c24050181]; and
 - (e) the Universal Credit Regulations 2013 [^c24050191].
 
-## 3. Income Support, Jobseeker's Allowance, State Pension Credit and Employment and Support Allowance – persons treated as being or not being members of the same household[^key-29fa927c00d24ca720fa9cde0969b529]
+## 3. Income Support, Jobseeker's Allowance, State Pension Credit and Employment and Support Allowance – persons treated as being or not being members of the same household[^c-29fa927c00d24ca720fa9cde0969b529]
 
-(1) Where the Secretary of State is satisfied that it is expedient as a result of coronavirus disease and in such cases as the Secretary of State determines,[^key-87b0f670a15d066a5f8f08d9bbc83a33] the following provisions are to be read as if the words “the Prison Act 1952 or” were omitted—
+(1) Where the Secretary of State is satisfied that it is expedient as a result of coronavirus disease and in such cases as the Secretary of State determines,[^c-87b0f670a15d066a5f8f08d9bbc83a33] the following provisions are to be read as if the words “the Prison Act 1952 or” were omitted—
 
 - (a) regulation 16(3)(b)(ii) of the Income Support (General) Regulations 1987 [^c24050201];
 - (b) regulation 5(1)(c)(iii) of the State Pension Credit Regulations 2002; and
 - (c) regulation 156(4)(b)(ii) of the Employment and Support Allowance Regulations 2008.
 
-(2) Where the Secretary of State is satisfied that it is expedient as a result of coronavirus disease and in such cases as the Secretary of State determines,[^key-4e866baf6cec7cfef3897c4b4214268f] regulation 78(3)(b)(ii) of the Jobseeker's Allowance Regulations 1996 [^c24050211] is to be read as if the words “the provisions of the Prison Act 1952 or” were omitted.
+(2) Where the Secretary of State is satisfied that it is expedient as a result of coronavirus disease and in such cases as the Secretary of State determines,[^c-4e866baf6cec7cfef3897c4b4214268f] regulation 78(3)(b)(ii) of the Jobseeker's Allowance Regulations 1996 [^c24050211] is to be read as if the words “the provisions of the Prison Act 1952 or” were omitted.
 
-## 4. Jobseeker's Allowance – availability for employment[^key-4b7f87ebe593514352152e6ce24008a6]
+## 4. Jobseeker's Allowance – availability for employment[^c-4b7f87ebe593514352152e6ce24008a6]
 
-Where the Secretary of State is satisfied that it is expedient as a result of coronavirus disease and in such cases as the Secretary of State determines,[^key-d07f39bde906e23f681de3304bc78822] regulation 15(1)(b) of the Jobseeker's Allowance Regulations 1996 is to be read as if the words “the provisions of the Prison Act 1952 or” were omitted.
+Where the Secretary of State is satisfied that it is expedient as a result of coronavirus disease and in such cases as the Secretary of State determines,[^c-d07f39bde906e23f681de3304bc78822] regulation 15(1)(b) of the Jobseeker's Allowance Regulations 1996 is to be read as if the words “the provisions of the Prison Act 1952 or” were omitted.
 
-## 5. Housing Benefit – modification of the rule on whether a person is or is not to be treated as occupying a dwelling as their home[^key-257274f76687ce044a1f8181ee67aaf4]
+## 5. Housing Benefit – modification of the rule on whether a person is or is not to be treated as occupying a dwelling as their home[^c-257274f76687ce044a1f8181ee67aaf4]
 
-For the purposes of entitlement to housing benefit, where the Secretary of State is satisfied that it is expedient as a result of coronavirus disease and in such cases as the Secretary of State determines,[^key-3a4091719a746ccfb87b30aed1b36d3e] the following provisions are to be read as if the words “the Prison Act 1952 or” were omitted—
+For the purposes of entitlement to housing benefit, where the Secretary of State is satisfied that it is expedient as a result of coronavirus disease and in such cases as the Secretary of State determines,[^c-3a4091719a746ccfb87b30aed1b36d3e] the following provisions are to be read as if the words “the Prison Act 1952 or” were omitted—
 
 - (a) regulation 7(14) of the Housing Benefit Regulations 2006 [^c24050221]; and
 - (b) regulation 7(14) of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006 [^c24050231].
 
-## 6. Expiry[^key-b65e0ba159828802c8343e5866b711fd]
+## 6. Expiry[^c-b65e0ba159828802c8343e5866b711fd]
 
 (1) The Secretary of State must keep the operation of these Regulations under review.
 
-(2) These Regulations cease to have effect on 31st August 2021[^key-5a717195d7fbb06e03663196def6c660].
+(2) These Regulations cease to have effect on 31st August 2021[^c-5a717195d7fbb06e03663196def6c660].
 
 Signed by the authority of the Secretary of State for Work and Pensions
 
@@ -135,13 +135,13 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24050141]: Marginal citation: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-93a0e219a941e61cc320fb9afd05411d]: Commencement: Reg. 1 in force at 8.4.2020, see reg. 1
+[^c-93a0e219a941e61cc320fb9afd05411d]: Commencement: Reg. 1 in force at 8.4.2020, see reg. 1
 
-[^key-57f2f2c4650472f242131e2b19ab1e60]: Textual amendment: Reg. 1A inserted (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/476)](https://www.legislation.gov.uk/uksi/2021/476), [regs. 1](https://www.legislation.gov.uk/uksi/2021/476/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2021/476/regulation/4/2)
+[^c-57f2f2c4650472f242131e2b19ab1e60]: Textual amendment: Reg. 1A inserted (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/476)](https://www.legislation.gov.uk/uksi/2021/476), [regs. 1](https://www.legislation.gov.uk/uksi/2021/476/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2021/476/regulation/4/2)
 
-[^key-38660dd54502551a4bdeb8bba226e720]: Commencement: Reg. 2 in force at 8.4.2020, see reg. 1
+[^c-38660dd54502551a4bdeb8bba226e720]: Commencement: Reg. 2 in force at 8.4.2020, see reg. 1
 
-[^key-a467895bafaf8c9fb9ad6f35482e93e5]: Textual amendment: Words in reg. 2(1) inserted (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/476)](https://www.legislation.gov.uk/uksi/2021/476), [regs. 1](https://www.legislation.gov.uk/uksi/2021/476/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2021/476/regulation/4/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2021/476/regulation/4/4/a)
+[^c-a467895bafaf8c9fb9ad6f35482e93e5]: Textual amendment: Words in reg. 2(1) inserted (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/476)](https://www.legislation.gov.uk/uksi/2021/476), [regs. 1](https://www.legislation.gov.uk/uksi/2021/476/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2021/476/regulation/4/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2021/476/regulation/4/4/a)
 
 [^c24050151]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967). *See* regulation 21. Relevant amending instruments are [S.I. 1995/516](https://www.legislation.gov.uk/uksi/1995/516), 1998/563 and 2005/2078.
 
@@ -153,28 +153,28 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24050191]: Marginal citation: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376). *See* regulation 2. There are no relevant amending instruments.
 
-[^key-29fa927c00d24ca720fa9cde0969b529]: Commencement: Reg. 3 in force at 8.4.2020, see reg. 1
+[^c-29fa927c00d24ca720fa9cde0969b529]: Commencement: Reg. 3 in force at 8.4.2020, see reg. 1
 
-[^key-87b0f670a15d066a5f8f08d9bbc83a33]: Textual amendment: Words in reg. 3(1) inserted (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/476)](https://www.legislation.gov.uk/uksi/2021/476), [regs. 1](https://www.legislation.gov.uk/uksi/2021/476/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2021/476/regulation/4/3)[(4)(b)](https://www.legislation.gov.uk/uksi/2021/476/regulation/4/4/b)
+[^c-87b0f670a15d066a5f8f08d9bbc83a33]: Textual amendment: Words in reg. 3(1) inserted (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/476)](https://www.legislation.gov.uk/uksi/2021/476), [regs. 1](https://www.legislation.gov.uk/uksi/2021/476/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2021/476/regulation/4/3)[(4)(b)](https://www.legislation.gov.uk/uksi/2021/476/regulation/4/4/b)
 
 [^c24050201]: Marginal citation: Regulation 16(3)(b)(ii) was substituted by [S.I. 1996/1944](https://www.legislation.gov.uk/uksi/1996/1944).
 
-[^key-4e866baf6cec7cfef3897c4b4214268f]: Textual amendment: Words in reg. 3(2) inserted (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/476)](https://www.legislation.gov.uk/uksi/2021/476), [regs. 1](https://www.legislation.gov.uk/uksi/2021/476/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2021/476/regulation/4/3)[(4)(b)](https://www.legislation.gov.uk/uksi/2021/476/regulation/4/4/b)
+[^c-4e866baf6cec7cfef3897c4b4214268f]: Textual amendment: Words in reg. 3(2) inserted (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/476)](https://www.legislation.gov.uk/uksi/2021/476), [regs. 1](https://www.legislation.gov.uk/uksi/2021/476/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2021/476/regulation/4/3)[(4)(b)](https://www.legislation.gov.uk/uksi/2021/476/regulation/4/4/b)
 
 [^c24050211]: Marginal citation: Regulation 78(3)(b)(ii) was substituted by [S.I. 1996/1517](https://www.legislation.gov.uk/uksi/1996/1517).
 
-[^key-4b7f87ebe593514352152e6ce24008a6]: Commencement: Reg. 4 in force at 8.4.2020, see reg. 1
+[^c-4b7f87ebe593514352152e6ce24008a6]: Commencement: Reg. 4 in force at 8.4.2020, see reg. 1
 
-[^key-d07f39bde906e23f681de3304bc78822]: Textual amendment: Words in reg. 4 inserted (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/476)](https://www.legislation.gov.uk/uksi/2021/476), [regs. 1](https://www.legislation.gov.uk/uksi/2021/476/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2021/476/regulation/4/3)[(4)(c)](https://www.legislation.gov.uk/uksi/2021/476/regulation/4/4/c)
+[^c-d07f39bde906e23f681de3304bc78822]: Textual amendment: Words in reg. 4 inserted (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/476)](https://www.legislation.gov.uk/uksi/2021/476), [regs. 1](https://www.legislation.gov.uk/uksi/2021/476/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2021/476/regulation/4/3)[(4)(c)](https://www.legislation.gov.uk/uksi/2021/476/regulation/4/4/c)
 
-[^key-257274f76687ce044a1f8181ee67aaf4]: Commencement: Reg. 5 in force at 8.4.2020, see reg. 1
+[^c-257274f76687ce044a1f8181ee67aaf4]: Commencement: Reg. 5 in force at 8.4.2020, see reg. 1
 
-[^key-3a4091719a746ccfb87b30aed1b36d3e]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2020/409/regulation/5) inserted (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/476)](https://www.legislation.gov.uk/uksi/2021/476), [regs. 1](https://www.legislation.gov.uk/uksi/2021/476/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2021/476/regulation/4/5)
+[^c-3a4091719a746ccfb87b30aed1b36d3e]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2020/409/regulation/5) inserted (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/476)](https://www.legislation.gov.uk/uksi/2021/476), [regs. 1](https://www.legislation.gov.uk/uksi/2021/476/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2021/476/regulation/4/5)
 
 [^c24050221]: Marginal citation: [S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213). There are no relevant amending instruments.
 
 [^c24050231]: Marginal citation: [S.I. 2006/214](https://www.legislation.gov.uk/uksi/2006/214). There are no relevant amending instruments.
 
-[^key-b65e0ba159828802c8343e5866b711fd]: Commencement: Reg. 6 in force at 8.4.2020, see reg. 1
+[^c-b65e0ba159828802c8343e5866b711fd]: Commencement: Reg. 6 in force at 8.4.2020, see reg. 1
 
-[^key-5a717195d7fbb06e03663196def6c660]: Textual amendment: Words in reg. 6(2) substituted (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/476)](https://www.legislation.gov.uk/uksi/2021/476), [regs. 1](https://www.legislation.gov.uk/uksi/2021/476/regulation/1), [4(6)](https://www.legislation.gov.uk/uksi/2021/476/regulation/4/6)
+[^c-5a717195d7fbb06e03663196def6c660]: Textual amendment: Words in reg. 6(2) substituted (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/476)](https://www.legislation.gov.uk/uksi/2021/476), [regs. 1](https://www.legislation.gov.uk/uksi/2021/476/regulation/1), [4(6)](https://www.legislation.gov.uk/uksi/2021/476/regulation/4/6)

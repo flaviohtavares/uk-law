@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Amendment of regulation 36[^key-340d25757e4206f3b0a9f7e1701eb6cc]
+## 25. Amendment of regulation 36[^c-340d25757e4206f3b0a9f7e1701eb6cc]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-340d25757e4206f3b0a9f7e1701eb6cc]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2006/2910/regulation/25) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-340d25757e4206f3b0a9f7e1701eb6cc]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2006/2910/regulation/25) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)

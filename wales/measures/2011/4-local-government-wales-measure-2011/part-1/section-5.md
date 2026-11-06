@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Annual reports by members of a local authority[^key-351f3f7211ae758749ae4cdec4805328]
+## 5. Annual reports by members of a local authority[^c-351f3f7211ae758749ae4cdec4805328]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-351f3f7211ae758749ae4cdec4805328]: Commencement: [S. 5](https://www.legislation.gov.uk/mwa/2011/4/section/5) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(a)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/a)
+[^c-351f3f7211ae758749ae4cdec4805328]: Commencement: [S. 5](https://www.legislation.gov.uk/mwa/2011/4/section/5) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(a)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/a)

@@ -26,17 +26,17 @@ Section 1
 
 #### The provision of regulated entertainment
 
-**1.** (1)[^key-21f2d8e78ac8d2881e900efa6d474522] For the purposes of this Act, the “**provision of regulated entertainment**” means the provision of entertainment of a description falling within paragraph 2 where the conditions in sub-paragraphs (2) and (3) are satisfied.
+**1.** (1)[^c-21f2d8e78ac8d2881e900efa6d474522] For the purposes of this Act, the “**provision of regulated entertainment**” means the provision of entertainment of a description falling within paragraph 2 where the conditions in sub-paragraphs (2) and (3) are satisfied.
 
-(2) The first condition is that the entertainment is [^key-430999026dfd078fc7d7981f40b4bc63]... provided—
+(2) The first condition is that the entertainment is [^c-430999026dfd078fc7d7981f40b4bc63]... provided—
 
 - (a) to any extent for members of the public or a section of the public,
 - (b) exclusively for members of a club which is a qualifying club in relation to the provision of regulated entertainment, or for members of such a club and their guests, or
 - (c) in any case not falling within paragraph (a) or (b), for consideration and with a view to profit.
 
-(3)[^key-a2eca9123bb389d81f10b33664ade275] The second condition is that the premises on which the entertainment is provided are made available for the purpose, or for purposes which include the purpose, of enabling the entertainment concerned to take place.
+(3)[^c-a2eca9123bb389d81f10b33664ade275] The second condition is that the premises on which the entertainment is provided are made available for the purpose, or for purposes which include the purpose, of enabling the entertainment concerned to take place.
 
-(4)[^key-adeeb0fb0dcb326c3295e46cb2524d6f] For the purposes of sub-paragraph (2)(c), entertainment is to be regarded as provided for consideration only if any charge—
+(4)[^c-adeeb0fb0dcb326c3295e46cb2524d6f] For the purposes of sub-paragraph (2)(c), entertainment is to be regarded as provided for consideration only if any charge—
 
 - (a) is made by or on behalf of any person concerned in the organisation or management of that entertainment, and
 - (b) is paid by or on behalf of some or all of the persons for whom that entertainment is provided.
@@ -47,7 +47,7 @@ Section 1
 
 - (a) chooses the music to be performed or played,
 - (b) determines the manner in which he performs or plays it,
-- (c)[^key-45123f354ad53f0704f320327dc1b779] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-45123f354ad53f0704f320327dc1b779] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) This paragraph is subject to Part 2 of this Schedule (exemptions).
 
@@ -64,9 +64,9 @@ Section 1
 - (g) a performance of dance,
 - (h) entertainment of a similar description to that falling within paragraph (e), (f) or (g),
 
-where the following conditions are satisfied (so far as relevant)[^key-dc323cfc7ef0c8a5f190b669fac25b49].
+where the following conditions are satisfied (so far as relevant)[^c-dc323cfc7ef0c8a5f190b669fac25b49].
 
-(1A)[^key-1181159bcc62f2cdfea7d9bdaf67e7ea] The first condition is that the entertainment—
+(1A)[^c-1181159bcc62f2cdfea7d9bdaf67e7ea] The first condition is that the entertainment—
 
 - (a) takes place in the presence of an audience, and
 - (b) is provided for the purpose, or for purposes which include the purpose, of entertaining that audience.
@@ -92,17 +92,17 @@ where the following conditions are satisfied (so far as relevant)[^key-dc323cfc7
 
 (1E) So much of any entertainment of a description specified in paragraphs (a) to (h) of sub-paragraph (1) as does not satisfy the conditions in sub-paragraphs (1A) to (1D) (so far as relevant) is not to be regarded as falling within sub-paragraph (1).
 
-(2) Any reference in in this paragraph[^key-4985b27b4247d767809eeba3f7693c26] to an audience includes a reference to spectators.
+(2) Any reference in in this paragraph[^c-4985b27b4247d767809eeba3f7693c26] to an audience includes a reference to spectators.
 
 (3) This paragraph is subject to Part 3 of this Schedule (interpretation).
 
 #### Entertainment facilities
 
-**3.**[^key-e6b4bb24b1feced2b088f5d43cb5ec7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e6b4bb24b1feced2b088f5d43cb5ec7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Power to amend Schedule
 
-**4.**[^key-378b528e02197fb73a315f3adb5de5cb] The Secretary of State may by order amend this Schedule for the purposes of modifying the descriptions of entertainment specified in paragraph 2, and for this purpose “**modify**” includes adding, varying or removing any description.
+**4.**[^c-378b528e02197fb73a315f3adb5de5cb] The Secretary of State may by order amend this Schedule for the purposes of modifying the descriptions of entertainment specified in paragraph 2, and for this purpose “**modify**” includes adding, varying or removing any description.
 
 ### Part 2 — Exemptions
 
@@ -118,7 +118,7 @@ where the following conditions are satisfied (so far as relevant)[^key-dc323cfc7
 
 **6.** The provision of entertainment consisting of the exhibition of a film is not to be regarded as the provision of regulated entertainment for the purposes of this Act if it consists of or forms part of an exhibit put on show for any purposes of a museum or art gallery.
 
-#### Film exhibitions: community premises[^key-c7bf04fa5aea8e6d8f8690b73f87954a]
+#### Film exhibitions: community premises[^c-c7bf04fa5aea8e6d8f8690b73f87954a]
 
 **6A.** (1) The provision of entertainment consisting of the exhibition of a film at community premises is not to be regarded as the provision of regulated entertainment for the purposes of this Act if the following conditions are satisfied.
 
@@ -153,17 +153,17 @@ where the following conditions are satisfied (so far as relevant)[^key-dc323cfc7
   - (a) a person who is for the time being entitled to dispose of the fee simple in the premises, whether in possession or in reversion, or
   - (b) a person who holds or is entitled to the rents and profits of the premises under a lease which (when granted) was for a term of not less than 3 years.
 
-#### Music and film incidental to certain other activities[^key-874424f2b1626c044d3cfb2499ed26ef]
+#### Music and film incidental to certain other activities[^c-874424f2b1626c044d3cfb2499ed26ef]
 
-**7.**[^key-f08a9248d2be09d4e7011553d5a8ff2e] The provision of entertainment consisting of the performance of live music, the playing of recorded music or the exhibition of a film[^key-ab4fc350da3848987a8d052844b077ef] is not to be regarded as the provision of regulated entertainment for the purposes of this Act to the extent that it is incidental to some other activity which is not itself a description of entertainment falling within paragraph 2.
+**7.**[^c-f08a9248d2be09d4e7011553d5a8ff2e] The provision of entertainment consisting of the performance of live music, the playing of recorded music or the exhibition of a film[^c-ab4fc350da3848987a8d052844b077ef] is not to be regarded as the provision of regulated entertainment for the purposes of this Act to the extent that it is incidental to some other activity which is not itself a description of entertainment falling within paragraph 2.
 
 #### Use of television or radio receivers
 
-**8.** The provision of any entertainment [^key-ba4067d6d6e28e9efad3bd461b206c70]... is not to be regarded as the provision of regulated entertainment for the purposes of this Act to the extent that it consists of the simultaneous reception and playing of a programme included in a programme service within the meaning of the Broadcasting Act 1990 (c. 42).
+**8.** The provision of any entertainment [^c-ba4067d6d6e28e9efad3bd461b206c70]... is not to be regarded as the provision of regulated entertainment for the purposes of this Act to the extent that it consists of the simultaneous reception and playing of a programme included in a programme service within the meaning of the Broadcasting Act 1990 (c. 42).
 
 #### Religious services, places of worship etc.
 
-**9.** The provision of any entertainment [^key-cece0e4acb4dea2abe65c9adffbc6ae4]...—
+**9.** The provision of any entertainment [^c-cece0e4acb4dea2abe65c9adffbc6ae4]...—
 
 - (a) for the purposes of, or for purposes incidental to, a religious meeting or service, or
 - (b) at a place of public religious worship,
@@ -172,7 +172,7 @@ is not to be regarded as the provision of regulated entertainment for the purpos
 
 #### Garden fêtes, etc.
 
-**10.** (1) The provision of any entertainment [^key-396efe0e0812ce45a919882bca82eb82]... at a garden fête, or at a function or event of a similar character, is not to be regarded as the provision of regulated entertainment for the purposes of this Act.
+**10.** (1) The provision of any entertainment [^c-396efe0e0812ce45a919882bca82eb82]... at a garden fête, or at a function or event of a similar character, is not to be regarded as the provision of regulated entertainment for the purposes of this Act.
 
 (2) But sub-paragraph (1) does not apply if the fête, function or event is promoted with a view to applying the whole or part of its proceeds for purposes of private gain.
 
@@ -180,10 +180,10 @@ is not to be regarded as the provision of regulated entertainment for the purpos
 
 #### Morris dancing etc.
 
-**11.** The provision of any entertainment [^key-6e9ba814ce7f7a094af81a0f93e10517]... is not to be regarded as the provision of regulated entertainment for the purposes of this Act to the extent that it consists of the provision of—
+**11.** The provision of any entertainment [^c-6e9ba814ce7f7a094af81a0f93e10517]... is not to be regarded as the provision of regulated entertainment for the purposes of this Act to the extent that it consists of the provision of—
 
-- (a) a performance of morris dancing or any dancing of a similar nature or the playing of live or recorded music that forms[^key-72f1705ab81f88d89a4f0a3843b5dc30] an integral part of such a performance , or
-- (b)[^key-b5d9e97373b6d7aaf6ef3fef5aeb76a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) a performance of morris dancing or any dancing of a similar nature or the playing of live or recorded music that forms[^c-72f1705ab81f88d89a4f0a3843b5dc30] an integral part of such a performance , or
+- (b)[^c-b5d9e97373b6d7aaf6ef3fef5aeb76a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Sexual entertainment venues[^c21017781]
 
@@ -203,7 +203,7 @@ is not to be regarded as the provision of regulated entertainment for the purpos
 
 (3) The provision of entertainment consisting of the performance of live music or the playing of recorded music is not to be regarded as the provision of regulated entertainment for the purposes of this Act to the extent that it is an integral part of such provision of relevant entertainment as falls within sub-paragraph (1) or (2).
 
-(4)[^key-6b02f5759331d1066f33b59dd4516c79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-6b02f5759331d1066f33b59dd4516c79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In this paragraph—
 
@@ -213,14 +213,14 @@ is not to be regarded as the provision of regulated entertainment for the purpos
 
 #### Vehicles in motion
 
-**12.** The provision of any entertainment [^key-2ec94273322cb58663b125b7522324c8]...—
+**12.** The provision of any entertainment [^c-2ec94273322cb58663b125b7522324c8]...—
 
 - (a) on premises consisting of or forming part of a vehicle, and
 - (b) at a time when the vehicle is not permanently or temporarily parked,
 
 is not to be regarded as the provision of regulated entertainment for the purposes of this Act.
 
-#### Entertainment provided by health care providers, local authorities and school proprietors[^key-bb3efacd3600fa23ec9694b1b140f2a3]
+#### Entertainment provided by health care providers, local authorities and school proprietors[^c-bb3efacd3600fa23ec9694b1b140f2a3]
 
 **12ZA.** (1) The provision of any entertainment by or on behalf of a health care provider, local authority or school proprietor is not to be regarded as the provision of regulated entertainment for the purposes of this Act if the conditions in sub-paragraphs (2) to (5) are satisfied.
 
@@ -278,7 +278,7 @@ is not to be regarded as the provision of regulated entertainment for the purpos
 
 (8) Paragraph 12ZA(6) (meaning of “relevant property interest”) applies for the purposes of this paragraph as it applies for the purposes of paragraph 12ZA.
 
-#### Music in licensed venues[^key-d21a09a50c3f986fad3ffd78981966d9]
+#### Music in licensed venues[^c-d21a09a50c3f986fad3ffd78981966d9]
 
 **12A.** (1) The provision of entertainment consisting of one or both of the following is not to be regarded as the provision of regulated entertainment for the purposes of this Act if the conditions in sub-paragraph (2) are satisfied—
 
@@ -290,22 +290,22 @@ is not to be regarded as the provision of regulated entertainment for the purpos
 - (a) the requirements of section 177A(1) are satisfied, and
 - (b) conditions are not included in the premises licence or club premises certificate referred to in section 177A(1)(a) by virtue of section 177A(3) or (4).
 
-#### Live music in workplaces[^key-2e9db969b7497d405f90c98cc4c945c1]
+#### Live music in workplaces[^c-2e9db969b7497d405f90c98cc4c945c1]
 
 **12B.** The provision of entertainment consisting of a performance of live music is not to be regarded as the provision of regulated entertainment for the purposes of this Act, provided that—
 
 - (a) the place where the performance is provided is not licensed under this Act (or is so licensed only for the provision of late night refreshment) but is a workplace as defined in regulation 2(1) of the Workplace (Health, Safety and Welfare) Regulations 1992,
-- (b) the performance takes place in the presence of an audience of no more than 500[^key-fbd5fdd9a84ae3d52014375c89813075] persons, and
+- (b) the performance takes place in the presence of an audience of no more than 500[^c-fbd5fdd9a84ae3d52014375c89813075] persons, and
 - (c) the performance takes place between 8am and 11pm on the same day.
 
-#### Live unamplified music[^key-6f5ea5c819dec59c348bc087ba6c3aeb]
+#### Live unamplified music[^c-6f5ea5c819dec59c348bc087ba6c3aeb]
 
 **12C.** The provision of entertainment consisting of a performance of live music is not (subject to section 177A(3) and (4)) to be regarded as the provision of regulated entertainment for the purposes of this Act provided that the music—
 
 - (a) is unamplified; and
 - (b) takes place between 8am and 11pm on the same day.
 
-#### Circuses[^key-fe3db8badd22f6f6b7ce7e6beb5172fe]
+#### Circuses[^c-fe3db8badd22f6f6b7ce7e6beb5172fe]
 
 **12D.** (1) The provision of any entertainment that consists of or forms part of a performance by a travelling circus is not to be regarded as the provision of regulated entertainment for the purposes of this Act if the conditions in sub-paragraphs (2) to (5) are satisfied.
 
@@ -361,20 +361,20 @@ is not to be regarded as the provision of regulated entertainment for the purpos
 (2) In this paragraph—
 
 - “**building**” means any roofed structure (other than a structure with a roof which may be opened or closed) and includes a vehicle, vessel or moveable structure,
-- “**sporting event**” means any contest, exhibition or display of any sport other than a boxing or wrestling entertainment[^key-ffa0ab2ca1d082dd82ec92e9c5c6e838], and
+- “**sporting event**” means any contest, exhibition or display of any sport other than a boxing or wrestling entertainment[^c-ffa0ab2ca1d082dd82ec92e9c5c6e838], and
 - “**sport**” includes—
   - (a) any game in which physical skill is the predominant factor, and
   - (b) any form of physical recreation which is also engaged in for purposes of competition or display.
 
 #### Boxing or wrestling entertainments
 
-**17.** A “boxing or wrestling entertainment” is any contest, exhibition or display of boxing or wrestling, or which combines boxing or wrestling with one or more martial arts[^key-831596f0ce0ff1dbc7f724c988aa7aa3].
+**17.** A “boxing or wrestling entertainment” is any contest, exhibition or display of boxing or wrestling, or which combines boxing or wrestling with one or more martial arts[^c-831596f0ce0ff1dbc7f724c988aa7aa3].
 
 #### Music
 
 **18.** “**Music**” includes vocal or instrumental music or any combination of the two.
 
-#### Health care providers and hospitals[^key-962f2624bc3b9ed3e95ebfcfb27e71bb]
+#### Health care providers and hospitals[^c-962f2624bc3b9ed3e95ebfcfb27e71bb]
 
 **19.** (1) “Health care provider” means a person providing any form of health care services for individuals.
 
@@ -423,70 +423,70 @@ is not to be regarded as the provision of regulated entertainment for the purpos
 
 ## Annotations
 
-[^key-21f2d8e78ac8d2881e900efa6d474522]: Textual amendment: Sch. 1 para. 1(1) substituted (1.10.2012) by [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/2/2), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
+[^c-21f2d8e78ac8d2881e900efa6d474522]: Textual amendment: Sch. 1 para. 1(1) substituted (1.10.2012) by [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/2/2), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
 
-[^key-430999026dfd078fc7d7981f40b4bc63]: Textual amendment: Words in Sch. 1 para. 1(2) omitted (1.10.2012) by virtue of [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2012/2/section/2/3), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
+[^c-430999026dfd078fc7d7981f40b4bc63]: Textual amendment: Words in Sch. 1 para. 1(2) omitted (1.10.2012) by virtue of [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2012/2/section/2/3), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
 
-[^key-a2eca9123bb389d81f10b33664ade275]: Textual amendment: Sch. 1 para. 1(3) substituted (1.10.2012) by [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 2(4)](https://www.legislation.gov.uk/ukpga/2012/2/section/2/4), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
+[^c-a2eca9123bb389d81f10b33664ade275]: Textual amendment: Sch. 1 para. 1(3) substituted (1.10.2012) by [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 2(4)](https://www.legislation.gov.uk/ukpga/2012/2/section/2/4), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
 
-[^key-adeeb0fb0dcb326c3295e46cb2524d6f]: Textual amendment: Sch. 1 para. 1(4) substituted (1.10.2012) by [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 2(5)](https://www.legislation.gov.uk/ukpga/2012/2/section/2/5), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
+[^c-adeeb0fb0dcb326c3295e46cb2524d6f]: Textual amendment: Sch. 1 para. 1(4) substituted (1.10.2012) by [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 2(5)](https://www.legislation.gov.uk/ukpga/2012/2/section/2/5), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
 
-[^key-45123f354ad53f0704f320327dc1b779]: Textual amendment: Sch. 1 para. 1(6)(c) omitted (1.10.2012) by virtue of [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 2(6)](https://www.legislation.gov.uk/ukpga/2012/2/section/2/6), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
+[^c-45123f354ad53f0704f320327dc1b779]: Textual amendment: Sch. 1 para. 1(6)(c) omitted (1.10.2012) by virtue of [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 2(6)](https://www.legislation.gov.uk/ukpga/2012/2/section/2/6), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
 
-[^key-dc323cfc7ef0c8a5f190b669fac25b49]: Textual amendment: Words in Sch. 1 para. 2(1) substituted (27.6.2013) by [The Licensing Act 2003 (Descriptions of Entertainment) (Amendment) Order 2013 (S.I. 2013/1578)](https://www.legislation.gov.uk/uksi/2013/1578), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1578/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/1578/article/2/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/1578/article/5))
+[^c-dc323cfc7ef0c8a5f190b669fac25b49]: Textual amendment: Words in Sch. 1 para. 2(1) substituted (27.6.2013) by [The Licensing Act 2003 (Descriptions of Entertainment) (Amendment) Order 2013 (S.I. 2013/1578)](https://www.legislation.gov.uk/uksi/2013/1578), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1578/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/1578/article/2/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/1578/article/5))
 
-[^key-1181159bcc62f2cdfea7d9bdaf67e7ea]: Textual amendment: Sch. 1 para. 2(1A)-(1E) inserted (27.6.2013) by [The Licensing Act 2003 (Descriptions of Entertainment) (Amendment) Order 2013 (S.I. 2013/1578)](https://www.legislation.gov.uk/uksi/2013/1578), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1578/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/1578/article/2/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/1578/article/5))
+[^c-1181159bcc62f2cdfea7d9bdaf67e7ea]: Textual amendment: Sch. 1 para. 2(1A)-(1E) inserted (27.6.2013) by [The Licensing Act 2003 (Descriptions of Entertainment) (Amendment) Order 2013 (S.I. 2013/1578)](https://www.legislation.gov.uk/uksi/2013/1578), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1578/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/1578/article/2/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/1578/article/5))
 
-[^key-4985b27b4247d767809eeba3f7693c26]: Textual amendment: Words in Sch. 1 para. 2(2) substituted (27.6.2013) by [The Licensing Act 2003 (Descriptions of Entertainment) (Amendment) Order 2013 (S.I. 2013/1578)](https://www.legislation.gov.uk/uksi/2013/1578), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1578/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2013/1578/article/2/4) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/1578/article/5))
+[^c-4985b27b4247d767809eeba3f7693c26]: Textual amendment: Words in Sch. 1 para. 2(2) substituted (27.6.2013) by [The Licensing Act 2003 (Descriptions of Entertainment) (Amendment) Order 2013 (S.I. 2013/1578)](https://www.legislation.gov.uk/uksi/2013/1578), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1578/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2013/1578/article/2/4) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/1578/article/5))
 
-[^key-e6b4bb24b1feced2b088f5d43cb5ec7c]: Textual amendment: Sch. 1 para. 3 omitted (1.10.2012) by virtue of [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 2(7)](https://www.legislation.gov.uk/ukpga/2012/2/section/2/7), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
+[^c-e6b4bb24b1feced2b088f5d43cb5ec7c]: Textual amendment: Sch. 1 para. 3 omitted (1.10.2012) by virtue of [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 2(7)](https://www.legislation.gov.uk/ukpga/2012/2/section/2/7), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
 
-[^key-378b528e02197fb73a315f3adb5de5cb]: Textual amendment: Sch. 1 para. 4 substituted (1.10.2012) by [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 2(8)](https://www.legislation.gov.uk/ukpga/2012/2/section/2/8), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
+[^c-378b528e02197fb73a315f3adb5de5cb]: Textual amendment: Sch. 1 para. 4 substituted (1.10.2012) by [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 2(8)](https://www.legislation.gov.uk/ukpga/2012/2/section/2/8), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
 
-[^key-c7bf04fa5aea8e6d8f8690b73f87954a]: Textual amendment: Sch. 1 para. 6A and cross-heading inserted (6.4.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 76](https://www.legislation.gov.uk/ukpga/2015/20/section/76), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/994/article/3/c)
+[^c-c7bf04fa5aea8e6d8f8690b73f87954a]: Textual amendment: Sch. 1 para. 6A and cross-heading inserted (6.4.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 76](https://www.legislation.gov.uk/ukpga/2015/20/section/76), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/994/article/3/c)
 
-[^key-874424f2b1626c044d3cfb2499ed26ef]: Textual amendment: Words in Sch. 1 para. 7 cross-heading inserted (6.4.2015) by [The Legislative Reform (Entertainment Licensing) Order 2014 (S.I. 2014/3253)](https://www.legislation.gov.uk/uksi/2014/3253), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/3253/article/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2014/3253/article/3/2/a)
+[^c-874424f2b1626c044d3cfb2499ed26ef]: Textual amendment: Words in Sch. 1 para. 7 cross-heading inserted (6.4.2015) by [The Legislative Reform (Entertainment Licensing) Order 2014 (S.I. 2014/3253)](https://www.legislation.gov.uk/uksi/2014/3253), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/3253/article/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2014/3253/article/3/2/a)
 
-[^key-f08a9248d2be09d4e7011553d5a8ff2e]: Textual amendment: Sch. 1 para. 7 substituted (1.10.2012) by [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 2(9)](https://www.legislation.gov.uk/ukpga/2012/2/section/2/9), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
+[^c-f08a9248d2be09d4e7011553d5a8ff2e]: Textual amendment: Sch. 1 para. 7 substituted (1.10.2012) by [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 2(9)](https://www.legislation.gov.uk/ukpga/2012/2/section/2/9), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
 
-[^key-ab4fc350da3848987a8d052844b077ef]: Textual amendment: Words in Sch. 1 para. 7 substituted (6.4.2015) by [The Legislative Reform (Entertainment Licensing) Order 2014 (S.I. 2014/3253)](https://www.legislation.gov.uk/uksi/2014/3253), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/3253/article/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2014/3253/article/3/2/b)
+[^c-ab4fc350da3848987a8d052844b077ef]: Textual amendment: Words in Sch. 1 para. 7 substituted (6.4.2015) by [The Legislative Reform (Entertainment Licensing) Order 2014 (S.I. 2014/3253)](https://www.legislation.gov.uk/uksi/2014/3253), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/3253/article/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2014/3253/article/3/2/b)
 
-[^key-ba4067d6d6e28e9efad3bd461b206c70]: Textual amendment: Words in Sch. 1 para. 8 omitted (1.10.2012) by virtue of [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 2(10)](https://www.legislation.gov.uk/ukpga/2012/2/section/2/10), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
+[^c-ba4067d6d6e28e9efad3bd461b206c70]: Textual amendment: Words in Sch. 1 para. 8 omitted (1.10.2012) by virtue of [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 2(10)](https://www.legislation.gov.uk/ukpga/2012/2/section/2/10), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
 
-[^key-cece0e4acb4dea2abe65c9adffbc6ae4]: Textual amendment: Words in Sch. 1 para. 9 omitted (1.10.2012) by virtue of [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 2(11)](https://www.legislation.gov.uk/ukpga/2012/2/section/2/11), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
+[^c-cece0e4acb4dea2abe65c9adffbc6ae4]: Textual amendment: Words in Sch. 1 para. 9 omitted (1.10.2012) by virtue of [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 2(11)](https://www.legislation.gov.uk/ukpga/2012/2/section/2/11), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
 
-[^key-396efe0e0812ce45a919882bca82eb82]: Textual amendment: Words in Sch. 1 para. 10(1) omitted (1.10.2012) by virtue of [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 2(12)](https://www.legislation.gov.uk/ukpga/2012/2/section/2/12), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
+[^c-396efe0e0812ce45a919882bca82eb82]: Textual amendment: Words in Sch. 1 para. 10(1) omitted (1.10.2012) by virtue of [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 2(12)](https://www.legislation.gov.uk/ukpga/2012/2/section/2/12), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
 
 [^c21005361]: Textual amendment: Words in Sch. 1 para. 10(3) substituted (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [ss. 356](https://www.legislation.gov.uk/ukpga/2005/19/section/356), [358](https://www.legislation.gov.uk/ukpga/2005/19/section/358), [Sch. 16 para. 20(3)](https://www.legislation.gov.uk/ukpga/2005/19/schedule/16/paragraph/20/3) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354), [Sch. 16 para. 21](https://www.legislation.gov.uk/ukpga/2005/19/schedule/16/paragraph/21)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)
 
-[^key-6e9ba814ce7f7a094af81a0f93e10517]: Textual amendment: Words in Sch. 1 para. 11 omitted (1.10.2012) by virtue of [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 2(13)(a)](https://www.legislation.gov.uk/ukpga/2012/2/section/2/13/a), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
+[^c-6e9ba814ce7f7a094af81a0f93e10517]: Textual amendment: Words in Sch. 1 para. 11 omitted (1.10.2012) by virtue of [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 2(13)(a)](https://www.legislation.gov.uk/ukpga/2012/2/section/2/13/a), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
 
-[^key-72f1705ab81f88d89a4f0a3843b5dc30]: Textual amendment: Words in Sch. 1 para. 11(a) substituted (1.10.2012) by [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/3/2), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
+[^c-72f1705ab81f88d89a4f0a3843b5dc30]: Textual amendment: Words in Sch. 1 para. 11(a) substituted (1.10.2012) by [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/3/2), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
 
-[^key-b5d9e97373b6d7aaf6ef3fef5aeb76a7]: Textual amendment: Sch. 1 para. 11(b) omitted (1.10.2012) by virtue of [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 2(13)(b)](https://www.legislation.gov.uk/ukpga/2012/2/section/2/13/b), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
+[^c-b5d9e97373b6d7aaf6ef3fef5aeb76a7]: Textual amendment: Sch. 1 para. 11(b) omitted (1.10.2012) by virtue of [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 2(13)(b)](https://www.legislation.gov.uk/ukpga/2012/2/section/2/13/b), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
 
 [^c21017781]: Textual amendment: Sch. 1 para. 11A inserted (6.4.2010 for E. and 8.5.2010 for W.) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 112](https://www.legislation.gov.uk/ukpga/2009/26/section/112), [116](https://www.legislation.gov.uk/ukpga/2009/26/section/116), [Sch. 7 para. 23](https://www.legislation.gov.uk/ukpga/2009/26/schedule/7/paragraph/23); [S.I. 2010/722](https://www.legislation.gov.uk/uksi/2010/722), [art. 3](https://www.legislation.gov.uk/uksi/2010/722/article/3) (with [arts. 4-12](https://www.legislation.gov.uk/uksi/2010/722/article/4)); [S.I. 2010/999](https://www.legislation.gov.uk/uksi/2010/999), [art. 3](https://www.legislation.gov.uk/uksi/2010/999/article/3); [S.I. 2010/1375](https://www.legislation.gov.uk/uksi/2010/1375), [art. 3](https://www.legislation.gov.uk/uksi/2010/1375/article/3) (with transitional provisions and savings in [S.I. 2010/1395](https://www.legislation.gov.uk/uksi/2010/1395), [arts. 3](https://www.legislation.gov.uk/uksi/2010/1395/article/3), [10](https://www.legislation.gov.uk/uksi/2010/1395/article/10))
 
-[^key-6b02f5759331d1066f33b59dd4516c79]: Textual amendment: Sch. 1 para. 11A(4) omitted (1.10.2012) by virtue of [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 2(14)](https://www.legislation.gov.uk/ukpga/2012/2/section/2/14), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
+[^c-6b02f5759331d1066f33b59dd4516c79]: Textual amendment: Sch. 1 para. 11A(4) omitted (1.10.2012) by virtue of [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 2(14)](https://www.legislation.gov.uk/ukpga/2012/2/section/2/14), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
 
-[^key-2ec94273322cb58663b125b7522324c8]: Textual amendment: Words in Sch. 1 para. 12 omitted (1.10.2012) by virtue of [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 2(15)](https://www.legislation.gov.uk/ukpga/2012/2/section/2/15), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
+[^c-2ec94273322cb58663b125b7522324c8]: Textual amendment: Words in Sch. 1 para. 12 omitted (1.10.2012) by virtue of [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 2(15)](https://www.legislation.gov.uk/ukpga/2012/2/section/2/15), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
 
-[^key-bb3efacd3600fa23ec9694b1b140f2a3]: Textual amendment: Sch. 1 paras. 12ZA, 12ZB inserted (6.4.2015) by [The Legislative Reform (Entertainment Licensing) Order 2014 (S.I. 2014/3253)](https://www.legislation.gov.uk/uksi/2014/3253), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/3253/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2014/3253/article/3/3)
+[^c-bb3efacd3600fa23ec9694b1b140f2a3]: Textual amendment: Sch. 1 paras. 12ZA, 12ZB inserted (6.4.2015) by [The Legislative Reform (Entertainment Licensing) Order 2014 (S.I. 2014/3253)](https://www.legislation.gov.uk/uksi/2014/3253), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/3253/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2014/3253/article/3/3)
 
-[^key-d21a09a50c3f986fad3ffd78981966d9]: Textual amendment: Sch. 1 para. 12A substituted (6.4.2015) by [The Legislative Reform (Entertainment Licensing) Order 2014 (S.I. 2014/3253)](https://www.legislation.gov.uk/uksi/2014/3253), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/3253/article/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2014/3253/article/3/4)
+[^c-d21a09a50c3f986fad3ffd78981966d9]: Textual amendment: Sch. 1 para. 12A substituted (6.4.2015) by [The Legislative Reform (Entertainment Licensing) Order 2014 (S.I. 2014/3253)](https://www.legislation.gov.uk/uksi/2014/3253), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/3253/article/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2014/3253/article/3/4)
 
-[^key-2e9db969b7497d405f90c98cc4c945c1]: Textual amendment: Sch. 1 para. 12B and cross-heading inserted (1.10.2012) by [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 3(4)](https://www.legislation.gov.uk/ukpga/2012/2/section/3/4), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
+[^c-2e9db969b7497d405f90c98cc4c945c1]: Textual amendment: Sch. 1 para. 12B and cross-heading inserted (1.10.2012) by [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 3(4)](https://www.legislation.gov.uk/ukpga/2012/2/section/3/4), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
 
-[^key-fbd5fdd9a84ae3d52014375c89813075]: Textual amendment: Word in Sch. 1 para. 12B(b) substituted (6.4.2015) by [The Legislative Reform (Entertainment Licensing) Order 2014 (S.I. 2014/3253)](https://www.legislation.gov.uk/uksi/2014/3253), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/3253/article/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2014/3253/article/3/5)
+[^c-fbd5fdd9a84ae3d52014375c89813075]: Textual amendment: Word in Sch. 1 para. 12B(b) substituted (6.4.2015) by [The Legislative Reform (Entertainment Licensing) Order 2014 (S.I. 2014/3253)](https://www.legislation.gov.uk/uksi/2014/3253), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/3253/article/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2014/3253/article/3/5)
 
-[^key-6f5ea5c819dec59c348bc087ba6c3aeb]: Textual amendment: Sch. 1 para. 12C and cross-heading inserted (1.10.2012) by [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 3(5)](https://www.legislation.gov.uk/ukpga/2012/2/section/3/5), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
+[^c-6f5ea5c819dec59c348bc087ba6c3aeb]: Textual amendment: Sch. 1 para. 12C and cross-heading inserted (1.10.2012) by [Live Music Act 2012 (c. 2)](https://www.legislation.gov.uk/ukpga/2012/2), [ss. 3(5)](https://www.legislation.gov.uk/ukpga/2012/2/section/3/5), [4(2)](https://www.legislation.gov.uk/ukpga/2012/2/section/4/2); [S.I. 2012/2115](https://www.legislation.gov.uk/uksi/2012/2115), [art. 2](https://www.legislation.gov.uk/uksi/2012/2115/article/2)
 
-[^key-fe3db8badd22f6f6b7ce7e6beb5172fe]: Textual amendment: Sch. 1 paras. 12D, 12E inserted (6.4.2015) by [The Legislative Reform (Entertainment Licensing) Order 2014 (S.I. 2014/3253)](https://www.legislation.gov.uk/uksi/2014/3253), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/3253/article/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2014/3253/article/3/6)
+[^c-fe3db8badd22f6f6b7ce7e6beb5172fe]: Textual amendment: Sch. 1 paras. 12D, 12E inserted (6.4.2015) by [The Legislative Reform (Entertainment Licensing) Order 2014 (S.I. 2014/3253)](https://www.legislation.gov.uk/uksi/2014/3253), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/3253/article/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2014/3253/article/3/6)
 
-[^key-ffa0ab2ca1d082dd82ec92e9c5c6e838]: Textual amendment: Words in Sch. 1 para. 16(2) inserted (27.6.2013) by [The Licensing Act 2003 (Descriptions of Entertainment) (Amendment) Order 2013 (S.I. 2013/1578)](https://www.legislation.gov.uk/uksi/2013/1578), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1578/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/1578/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/1578/article/5))
+[^c-ffa0ab2ca1d082dd82ec92e9c5c6e838]: Textual amendment: Words in Sch. 1 para. 16(2) inserted (27.6.2013) by [The Licensing Act 2003 (Descriptions of Entertainment) (Amendment) Order 2013 (S.I. 2013/1578)](https://www.legislation.gov.uk/uksi/2013/1578), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1578/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/1578/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/1578/article/5))
 
-[^key-831596f0ce0ff1dbc7f724c988aa7aa3]: Textual amendment: Words in Sch. 1 para. 17 inserted (27.6.2013) by [The Licensing Act 2003 (Descriptions of Entertainment) (Amendment) Order 2013 (S.I. 2013/1578)](https://www.legislation.gov.uk/uksi/2013/1578), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1578/article/1/1), [4](https://www.legislation.gov.uk/uksi/2013/1578/article/4) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/1578/article/5))
+[^c-831596f0ce0ff1dbc7f724c988aa7aa3]: Textual amendment: Words in Sch. 1 para. 17 inserted (27.6.2013) by [The Licensing Act 2003 (Descriptions of Entertainment) (Amendment) Order 2013 (S.I. 2013/1578)](https://www.legislation.gov.uk/uksi/2013/1578), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1578/article/1/1), [4](https://www.legislation.gov.uk/uksi/2013/1578/article/4) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/1578/article/5))
 
-[^key-962f2624bc3b9ed3e95ebfcfb27e71bb]: Textual amendment: Sch. 1 paras. 19-21 and cross-headings inserted (6.4.2015) by [The Legislative Reform (Entertainment Licensing) Order 2014 (S.I. 2014/3253)](https://www.legislation.gov.uk/uksi/2014/3253), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/3253/article/1/1), [4](https://www.legislation.gov.uk/uksi/2014/3253/article/4)
+[^c-962f2624bc3b9ed3e95ebfcfb27e71bb]: Textual amendment: Sch. 1 paras. 19-21 and cross-headings inserted (6.4.2015) by [The Legislative Reform (Entertainment Licensing) Order 2014 (S.I. 2014/3253)](https://www.legislation.gov.uk/uksi/2014/3253), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/3253/article/1/1), [4](https://www.legislation.gov.uk/uksi/2014/3253/article/4)
 
 [^M_F_41a57027-aa23-417c-df74-17a9834bb06e]: Textual amendment: Words in Sch. 1 para. 21(1)(d) inserted (30.4.2021) by [Curriculum and Assessment (Wales) Act 2021 (asc 4)](https://www.legislation.gov.uk/asc/2021/4), [s. 84(1)](https://www.legislation.gov.uk/asc/2021/4/section/84/1), [Sch. 2 para. 48](https://www.legislation.gov.uk/asc/2021/4/schedule/2/paragraph/48) (with savings and transitional provisions in [S.I. 2022/111](https://www.legislation.gov.uk/uksi/2022/111), [regs. 1](https://www.legislation.gov.uk/uksi/2022/111/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/111/regulation/3))

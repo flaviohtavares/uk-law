@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Group accounts[^key-0c4b63518e9b73e011610e5d9319fcfb]
+## 9. Group accounts[^c-0c4b63518e9b73e011610e5d9319fcfb]
 
 *Extent: E+W+S+N.I.*
 
@@ -114,6 +114,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0c4b63518e9b73e011610e5d9319fcfb]: Commencement: Reg. 9 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-0c4b63518e9b73e011610e5d9319fcfb]: Commencement: Reg. 9 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
 
 [^f00028]: Footnote: OJ No L 340, 22.12.07, p.66, as last amended by Commission Delegated Regulation (EU) 2015/1605.

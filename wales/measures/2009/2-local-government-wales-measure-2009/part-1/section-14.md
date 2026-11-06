@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Use of performance information[^key-0c12eb417057cabd4c9f3e50dc2e176e]
+## 14. Use of performance information[^c-0c12eb417057cabd4c9f3e50dc2e176e]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c12eb417057cabd4c9f3e50dc2e176e]: Commencement: [S. 14](https://www.legislation.gov.uk/mwa/2009/2/section/14) in force at 1.4.2011 in so far as not already in force by [S.I. 2009/3272](https://www.legislation.gov.uk/wsi/2009/3272), [art. 4](https://www.legislation.gov.uk/wsi/2009/3272/article/4), [Sch. 3](https://www.legislation.gov.uk/wsi/2009/3272/schedule/3)
+[^c-0c12eb417057cabd4c9f3e50dc2e176e]: Commencement: [S. 14](https://www.legislation.gov.uk/mwa/2009/2/section/14) in force at 1.4.2011 in so far as not already in force by [S.I. 2009/3272](https://www.legislation.gov.uk/wsi/2009/3272), [art. 4](https://www.legislation.gov.uk/wsi/2009/3272/article/4), [Sch. 3](https://www.legislation.gov.uk/wsi/2009/3272/schedule/3)

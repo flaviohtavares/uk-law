@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58A. Procedure if no Form P45 and code not known where payment is a relevant lump sum payment[^key-3707690a9d1907611b079ebe597d2da3]
+## 58A. Procedure if no Form P45 and code not known where payment is a relevant lump sum payment[^c-3707690a9d1907611b079ebe597d2da3]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3707690a9d1907611b079ebe597d2da3]: Textual amendment: [Reg. 58A](https://www.legislation.gov.uk/uksi/2003/2682/regulation/58A) inserted (6.4.2013 with application in relation to the tax year 2013-14 and subsequent tax years) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2013 (S.I. 2013/521)](https://www.legislation.gov.uk/uksi/2013/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/521/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2013/521/regulation/13)
+[^c-3707690a9d1907611b079ebe597d2da3]: Textual amendment: [Reg. 58A](https://www.legislation.gov.uk/uksi/2003/2682/regulation/58A) inserted (6.4.2013 with application in relation to the tax year 2013-14 and subsequent tax years) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2013 (S.I. 2013/521)](https://www.legislation.gov.uk/uksi/2013/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/521/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2013/521/regulation/13)

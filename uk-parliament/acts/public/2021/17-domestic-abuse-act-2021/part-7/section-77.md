@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Guidance about the disclosure of information by police forces[^key-d665156a0d4194d6f9f730a81752eee9]
+## 77. Guidance about the disclosure of information by police forces[^c-d665156a0d4194d6f9f730a81752eee9]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d665156a0d4194d6f9f730a81752eee9]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2021/17/section/77) in force at 5.4.2023 by [S.I. 2023/406](https://www.legislation.gov.uk/uksi/2023/406), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/406/regulation/2/b)
+[^c-d665156a0d4194d6f9f730a81752eee9]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2021/17/section/77) in force at 5.4.2023 by [S.I. 2023/406](https://www.legislation.gov.uk/uksi/2023/406), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/406/regulation/2/b)

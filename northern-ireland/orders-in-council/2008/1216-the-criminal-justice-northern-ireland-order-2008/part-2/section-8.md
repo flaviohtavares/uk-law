@@ -22,7 +22,7 @@ summary: ''
 
 (1) This Article applies where a court passes—
 
-- (a) a sentence of imprisonment for a determinate term, other than a serious terrorism sentence,[^key-6946f59d90c674616076b03db9bb0490] an extended custodial sentence or an[^key-bf59ee3e4b4552643ea225a6f3006291] Article 15A sentence[^key-498719e814ecd836ba3a773d9ee7e26c], or
+- (a) a sentence of imprisonment for a determinate term, other than a serious terrorism sentence,[^c-6946f59d90c674616076b03db9bb0490] an extended custodial sentence or an[^c-bf59ee3e4b4552643ea225a6f3006291] Article 15A sentence[^c-498719e814ecd836ba3a773d9ee7e26c], or
 - (b) a sentence of detention in a young offenders centre
 
 in respect of an offence committed after the commencement of this Article.
@@ -44,8 +44,8 @@ in respect of an offence committed after the commencement of this Article.
 
 [^c21495511]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisi/2008/1216/article/8) wholly in operation at 1.4.2009, see [art. 1(4)](https://www.legislation.gov.uk/nisi/2008/1216/article/1/4) and [S.R. 2009/120](https://www.legislation.gov.uk/nisr/2009/120), [art. 2](https://www.legislation.gov.uk/nisr/2009/120/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2009/120/schedule/1) (subject to [Sch. 2 paras. 2(1)(5)](https://www.legislation.gov.uk/nisr/2009/120/schedule/2/paragraph/2/1/5), [4](https://www.legislation.gov.uk/nisr/2009/120/schedule/2/paragraph/4))
 
-[^key-6946f59d90c674616076b03db9bb0490]: Textual amendment: Words in [art. 8(1)(a)](https://www.legislation.gov.uk/nisi/2008/1216/article/8/1/a) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(v)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/v), [Sch. 13 para. 66(6)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/66/6)
+[^c-6946f59d90c674616076b03db9bb0490]: Textual amendment: Words in [art. 8(1)(a)](https://www.legislation.gov.uk/nisi/2008/1216/article/8/1/a) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(v)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/v), [Sch. 13 para. 66(6)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/66/6)
 
-[^key-bf59ee3e4b4552643ea225a6f3006291]: Textual amendment: Words in [art. 8(1)(a)](https://www.legislation.gov.uk/nisi/2008/1216/article/8/1/a) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 72(5)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/72/5)
+[^c-bf59ee3e4b4552643ea225a6f3006291]: Textual amendment: Words in [art. 8(1)(a)](https://www.legislation.gov.uk/nisi/2008/1216/article/8/1/a) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 72(5)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/72/5)
 
-[^key-498719e814ecd836ba3a773d9ee7e26c]: Textual amendment: Words in [art. 8(1)(a)](https://www.legislation.gov.uk/nisi/2008/1216/article/8/1/a) substituted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/ukpga/2026/2/schedule/2/paragraph/5/3)
+[^c-498719e814ecd836ba3a773d9ee7e26c]: Textual amendment: Words in [art. 8(1)(a)](https://www.legislation.gov.uk/nisi/2008/1216/article/8/1/a) substituted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/ukpga/2026/2/schedule/2/paragraph/5/3)

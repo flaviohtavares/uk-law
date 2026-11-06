@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Consultation[^key-b85da9207c80a8c3746fd0f0c8a015d3]
+## 114. Consultation[^c-b85da9207c80a8c3746fd0f0c8a015d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Before making regulations under this Part the Secretary of State must consult an
 
 ## Annotations
 
-[^key-b85da9207c80a8c3746fd0f0c8a015d3]: Commencement: S. 114 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)
+[^c-b85da9207c80a8c3746fd0f0c8a015d3]: Commencement: S. 114 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)

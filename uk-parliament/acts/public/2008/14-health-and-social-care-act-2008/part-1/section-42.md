@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Death of registered person[^c1942181][^key-c94a5dff0fbaa696de2056d863b84005]
+## 42. Death of registered person[^c1942181][^c-c94a5dff0fbaa696de2056d863b84005]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c1942181]: Commencement: S. 42 partly in force; S. 42 in force for specified purposes at Royal Assent, see [s. 170](https://www.legislation.gov.uk/ukpga/2008/14/section/170)
 
-[^key-c94a5dff0fbaa696de2056d863b84005]: Commencement: S. 42 in force at 11.12.2009 in so far as not already in force by [S.I. 2009/3023](https://www.legislation.gov.uk/uksi/2009/3023), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/3023/article/2/d) (with [arts. 3-17](https://www.legislation.gov.uk/uksi/2009/3023/article/3)) (as amended (8.2.2010) by [S.I. 2010/47](https://www.legislation.gov.uk/uksi/2010/47), art. 2)
+[^c-c94a5dff0fbaa696de2056d863b84005]: Commencement: S. 42 in force at 11.12.2009 in so far as not already in force by [S.I. 2009/3023](https://www.legislation.gov.uk/uksi/2009/3023), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/3023/article/2/d) (with [arts. 3-17](https://www.legislation.gov.uk/uksi/2009/3023/article/3)) (as amended (8.2.2010) by [S.I. 2010/47](https://www.legislation.gov.uk/uksi/2010/47), art. 2)

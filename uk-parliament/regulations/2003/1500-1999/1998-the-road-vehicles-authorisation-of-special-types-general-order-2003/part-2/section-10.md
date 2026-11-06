@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Part 2 vehicles and Part 2 vehicle-combinations: recognised categories and defined terms[^key-b1e623bea668dcdd45d7f000c449f563]
+## 10. Part 2 vehicles and Part 2 vehicle-combinations: recognised categories and defined terms[^c-b1e623bea668dcdd45d7f000c449f563]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1e623bea668dcdd45d7f000c449f563]: Commencement: Art. 10 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-b1e623bea668dcdd45d7f000c449f563]: Commencement: Art. 10 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

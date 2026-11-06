@@ -75,13 +75,13 @@ The measures provided for in this Regulation are in accordance with the opinion 
 
 HAS ADOPTED THIS REGULATION:
 
-**Article 1.** The version of the nomenclature of countries and territories for [^key-aa512cf20813d6ca61463945ca6362a0]... and statistics of trade [^key-aa512cf20813d6ca61463945ca6362a0]... which shall be valid as from 1 January 2013 is set out in the Annex hereto.
+**Article 1.** The version of the nomenclature of countries and territories for [^c-aa512cf20813d6ca61463945ca6362a0]... and statistics of trade [^c-aa512cf20813d6ca61463945ca6362a0]... which shall be valid as from 1 January 2013 is set out in the Annex hereto.
 
 **Article 2.** Regulation (EC) No 1833/2006 is repealed with effect from 1 January 2013.
 
 **Article 3.** This Regulation shall enter into force on 1 January 2013.
 
-[^key-7062776b97c7f4c4f4914c897439d8a3]...
+[^c-7062776b97c7f4c4f4914c897439d8a3]...
 
 Done at Brussels, 27 November 2012.
 
@@ -93,7 +93,7 @@ José Manuel Barroso
 
 ## ANNEX
 
-**NOMENCLATURE OF COUNTRIES AND TERRITORIES FOR [^key-fca4a6afd7542ec923a0e734a690688b]... AND STATISTICS OF TRADE [^key-fca4a6afd7542ec923a0e734a690688b]...**
+**NOMENCLATURE OF COUNTRIES AND TERRITORIES FOR [^c-fca4a6afd7542ec923a0e734a690688b]... AND STATISTICS OF TRADE [^c-fca4a6afd7542ec923a0e734a690688b]...**
 
 *(Version valid with effect from 1 January 2013)*
 
@@ -361,7 +361,7 @@ José Manuel Barroso
 </tbody>
 </table>
 
-[^f00003][^key-f38c6aabb76f57036c7aca760f00ed0b][^key-f38c6aabb76f57036c7aca760f00ed0b][^key-f38c6aabb76f57036c7aca760f00ed0b][^key-9d71d881b97e0cf74d602cd6707a4b3c][^key-ef17a571a66d6dfc6273174979eec91e]
+[^f00003][^c-f38c6aabb76f57036c7aca760f00ed0b][^c-f38c6aabb76f57036c7aca760f00ed0b][^c-f38c6aabb76f57036c7aca760f00ed0b][^c-9d71d881b97e0cf74d602cd6707a4b3c][^c-ef17a571a66d6dfc6273174979eec91e]
 
 ## Annotations
 
@@ -369,16 +369,16 @@ José Manuel Barroso
 
 [^f00002]: Footnote: [OJ L 354, 14.12.2006, p. 19](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.354.01.0019.01.ENG).
 
-[^key-aa512cf20813d6ca61463945ca6362a0]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2012/1106/article/1) omitted (31.12.2020) by virtue of [The Statistics of Trade (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/47)](https://www.legislation.gov.uk/uksi/2019/47), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/47/regulation/1/4), [13(2)(a)](https://www.legislation.gov.uk/uksi/2019/47/regulation/13/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aa512cf20813d6ca61463945ca6362a0]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2012/1106/article/1) omitted (31.12.2020) by virtue of [The Statistics of Trade (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/47)](https://www.legislation.gov.uk/uksi/2019/47), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/47/regulation/1/4), [13(2)(a)](https://www.legislation.gov.uk/uksi/2019/47/regulation/13/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7062776b97c7f4c4f4914c897439d8a3]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2012/1106/signature) omitted (31.12.2020) by virtue of [The Statistics of Trade (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/47)](https://www.legislation.gov.uk/uksi/2019/47), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/47/regulation/1/4), [13(2)(b)](https://www.legislation.gov.uk/uksi/2019/47/regulation/13/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7062776b97c7f4c4f4914c897439d8a3]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2012/1106/signature) omitted (31.12.2020) by virtue of [The Statistics of Trade (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/47)](https://www.legislation.gov.uk/uksi/2019/47), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/47/regulation/1/4), [13(2)(b)](https://www.legislation.gov.uk/uksi/2019/47/regulation/13/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fca4a6afd7542ec923a0e734a690688b]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2012/1106/annex) heading omitted (31.12.2020) by virtue of [The Statistics of Trade (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/47)](https://www.legislation.gov.uk/uksi/2019/47), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/47/regulation/1/4), [13(3)(a)](https://www.legislation.gov.uk/uksi/2019/47/regulation/13/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fca4a6afd7542ec923a0e734a690688b]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2012/1106/annex) heading omitted (31.12.2020) by virtue of [The Statistics of Trade (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/47)](https://www.legislation.gov.uk/uksi/2019/47), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/47/regulation/1/4), [13(3)(a)](https://www.legislation.gov.uk/uksi/2019/47/regulation/13/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00003]: Footnote: Provisional code that does not affect the definitive denomination of the country to be attributed after the conclusion of the negotiations currently taking place in the United Nations.
 
-[^key-f38c6aabb76f57036c7aca760f00ed0b]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2012/1106/annex) omitted (31.12.2020) by virtue of [The Statistics of Trade (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/47)](https://www.legislation.gov.uk/uksi/2019/47), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/47/regulation/1/4), [13(3)(b)(i)](https://www.legislation.gov.uk/uksi/2019/47/regulation/13/3/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f38c6aabb76f57036c7aca760f00ed0b]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2012/1106/annex) omitted (31.12.2020) by virtue of [The Statistics of Trade (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/47)](https://www.legislation.gov.uk/uksi/2019/47), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/47/regulation/1/4), [13(3)(b)(i)](https://www.legislation.gov.uk/uksi/2019/47/regulation/13/3/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9d71d881b97e0cf74d602cd6707a4b3c]: Textual amendment: Word in [Annex](https://www.legislation.gov.uk/eur/2012/1106/annex) substituted (31.12.2020) by [The Statistics of Trade (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/47)](https://www.legislation.gov.uk/uksi/2019/47), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/47/regulation/1/4), [13(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/47/regulation/13/3/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9d71d881b97e0cf74d602cd6707a4b3c]: Textual amendment: Word in [Annex](https://www.legislation.gov.uk/eur/2012/1106/annex) substituted (31.12.2020) by [The Statistics of Trade (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/47)](https://www.legislation.gov.uk/uksi/2019/47), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/47/regulation/1/4), [13(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/47/regulation/13/3/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ef17a571a66d6dfc6273174979eec91e]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2012/1106/annex) substituted (31.12.2020) by [The Statistics of Trade (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/47)](https://www.legislation.gov.uk/uksi/2019/47), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/47/regulation/1/4), [13(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/47/regulation/13/3/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ef17a571a66d6dfc6273174979eec91e]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2012/1106/annex) substituted (31.12.2020) by [The Statistics of Trade (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/47)](https://www.legislation.gov.uk/uksi/2019/47), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/47/regulation/1/4), [13(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/47/regulation/13/3/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

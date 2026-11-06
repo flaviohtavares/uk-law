@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. Surrender for non–disclosure[^key-7801a60591e050c0ae96d5ee59ca1a74]
+## 79. Surrender for non–disclosure[^c-7801a60591e050c0ae96d5ee59ca1a74]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.96 of the 1986 Rules. Ignore paragraph (3)[^f00031].
 
 ## Annotations
 
-[^key-7801a60591e050c0ae96d5ee59ca1a74]: Commencement: Rule 79 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-7801a60591e050c0ae96d5ee59ca1a74]: Commencement: Rule 79 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00031]: Footnote: Paragraph (3) was inserted by [S.I. 2002/1307](https://www.legislation.gov.uk/uksi/2002/1307).

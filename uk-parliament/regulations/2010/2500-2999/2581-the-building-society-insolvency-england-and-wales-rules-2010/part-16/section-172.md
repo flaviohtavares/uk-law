@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 172. Litigation expenses and property subject to a floating charge–general application[^key-378846c7b23818403be0690567d8ac0c]
+## 172. Litigation expenses and property subject to a floating charge–general application[^c-378846c7b23818403be0690567d8ac0c]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.218A[^f00063] of the 1986 Rules.
 
 ## Annotations
 
-[^key-378846c7b23818403be0690567d8ac0c]: Commencement: Rule 172 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-378846c7b23818403be0690567d8ac0c]: Commencement: Rule 172 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00063]: Footnote: Rules 4.218A to E were inserted by [S.I. 2008/737](https://www.legislation.gov.uk/uksi/2008/737).

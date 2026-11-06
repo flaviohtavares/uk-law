@@ -90,7 +90,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 *Extent: E+W+S*
 
-(1)[^key-dd4514af67091532e7cd3589f378cc1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-dd4514af67091532e7cd3589f378cc1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Regulations purporting to be made under section 42(b) of the 1977 Act and made before the passing of this Act shall be treated as being and always having been valid.
 
@@ -140,7 +140,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 *Extent: E+W+S*
 
-(1) On a determination of remuneration for any of the descriptions of services mentioned in section 164(1) of the National Health Service Act 2006, or section 76(1) or 88(1) of the National Health Service (Wales) Act 2006[^key-d5cbcb26b533d78dcc7d5b613338f6b3] or section 28A(1) of the 1978 Act or any category of services falling within such a description the determining authority may adjust the amount of the remuneration in either or both of the following ways—
+(1) On a determination of remuneration for any of the descriptions of services mentioned in section 164(1) of the National Health Service Act 2006, or section 76(1) or 88(1) of the National Health Service (Wales) Act 2006[^c-d5cbcb26b533d78dcc7d5b613338f6b3] or section 28A(1) of the 1978 Act or any category of services falling within such a description the determining authority may adjust the amount of the remuneration in either or both of the following ways—
 
 - (a) by deducting an amount to take account of any overpayment;
 - (b) by adding an amount to take account of any underpayment,
@@ -157,20 +157,20 @@ if it appears to the authority that an earlier determination was unsatisfactory.
 - “**overpayment**” means the aggregate of any amounts which were properly paid under the earlier determination but which in the authority’s opinion were paid because that determination was unsatisfactory, exclusive of any portion of that aggregate in respect of which a deduction under subsection (1) above has already been made; and
 - “**underpayment**” means the aggregate of any amounts which in the authority’s opinion would have been paid under the earlier determination if that determination had not been unsatisfactory, exclusive of any portion of that aggregate in respect of which an addition under subsection (1) above has already been made.
 
-(5) If the later determination is of remuneration for a category of services falling within one of the descriptions of services mentioned in section 164(1) of the National Health Service Act 2006, or section 76(1) or 88(1) of the National Health Service (Wales) Act 2006[^key-732ee68b46c70dcba4aeae239d0ec3db] or section 28A(1) of the 1978 Act, it is immaterial whether the earlier determination was of remuneration for the same category of services or for any other category of services falling within the same description.
+(5) If the later determination is of remuneration for a category of services falling within one of the descriptions of services mentioned in section 164(1) of the National Health Service Act 2006, or section 76(1) or 88(1) of the National Health Service (Wales) Act 2006[^c-732ee68b46c70dcba4aeae239d0ec3db] or section 28A(1) of the 1978 Act, it is immaterial whether the earlier determination was of remuneration for the same category of services or for any other category of services falling within the same description.
 
-(6) In subsection (7) of section 43B of the 1977 Act and of section 28B of the 1978 Act— *(affected by repeal, see note)*[^key-3ad6d550da8b516b13836b42cac43876]
+(6) In subsection (7) of section 43B of the 1977 Act and of section 28B of the 1978 Act— *(affected by repeal, see note)*[^c-3ad6d550da8b516b13836b42cac43876]
 
-- (a) in paragraph (a), for the words “a kind to which the determination will relate” there shall be substituted the words *(affected by repeal, see note)*[^key-3ad6d550da8b516b13836b42cac43876] “ the description to which the determination will relate or of any category falling within that description ” *(affected by repeal, see note)*[^key-3ad6d550da8b516b13836b42cac43876]; and *(affected by repeal, see note)*[^key-3ad6d550da8b516b13836b42cac43876]
-- (b) the following paragraph shall be substituted for paragraph (d)— *(affected by repeal, see note)*[^key-3ad6d550da8b516b13836b42cac43876]
+- (a) in paragraph (a), for the words “a kind to which the determination will relate” there shall be substituted the words *(affected by repeal, see note)*[^c-3ad6d550da8b516b13836b42cac43876] “ the description to which the determination will relate or of any category falling within that description ” *(affected by repeal, see note)*[^c-3ad6d550da8b516b13836b42cac43876]; and *(affected by repeal, see note)*[^c-3ad6d550da8b516b13836b42cac43876]
+- (b) the following paragraph shall be substituted for paragraph (d)— *(affected by repeal, see note)*[^c-3ad6d550da8b516b13836b42cac43876]
 
-  > - (d) the extent to which it is desirable to encourage the provision, either generally or in particular places, of the description or category of services to which the determination will relate; *(affected by repeal, see note)*[^key-3ad6d550da8b516b13836b42cac43876]
+  > - (d) the extent to which it is desirable to encourage the provision, either generally or in particular places, of the description or category of services to which the determination will relate; *(affected by repeal, see note)*[^c-3ad6d550da8b516b13836b42cac43876]
 
   .
 
-(7) The following subsection shall be inserted after each of those subsections— *(affected by repeal, see note)*[^key-3ad6d550da8b516b13836b42cac43876]
+(7) The following subsection shall be inserted after each of those subsections— *(affected by repeal, see note)*[^c-3ad6d550da8b516b13836b42cac43876]
 
-> (8) If the determination is of remuneration for a category of services falling within one of the descriptions of services mentioned in subsection (1) of the preceding section, the reference in subsection (7)(a) above to a category of services is a reference to the same category of services or to any other category of services falling within the same description. *(affected by repeal, see note)*[^key-3ad6d550da8b516b13836b42cac43876]
+> (8) If the determination is of remuneration for a category of services falling within one of the descriptions of services mentioned in subsection (1) of the preceding section, the reference in subsection (7)(a) above to a category of services is a reference to the same category of services or to any other category of services falling within the same description. *(affected by repeal, see note)*[^c-3ad6d550da8b516b13836b42cac43876]
 
 .
 
@@ -229,7 +229,7 @@ An Order in Council under paragraph 1(1)(b) of Schedule 1 to the [^c788838]North
 
 (2) In this Act—
 
-- [^key-03c92c676d422242f44c07ed63857c18]...**[^key-03c92c676d422242f44c07ed63857c18]...**[^key-03c92c676d422242f44c07ed63857c18]...[^c788839][^key-03c92c676d422242f44c07ed63857c18]...
+- [^c-03c92c676d422242f44c07ed63857c18]...**[^c-03c92c676d422242f44c07ed63857c18]...**[^c-03c92c676d422242f44c07ed63857c18]...[^c788839][^c-03c92c676d422242f44c07ed63857c18]...
 - “**the 1978 Act**” means the [^c788840]National Health Service (Scotland) Act 1978.
 
 (3) Section 21(1) of the [^c788841]Health Services Act 1980 and paragraph 54 of Schedule 1 to that Act shall cease to have effect.
@@ -261,17 +261,17 @@ shall come into force on such day as the Secretary of State may by order made by
 
 [^c788837]: Marginal citation: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37).
 
-[^key-dd4514af67091532e7cd3589f378cc1e]: Textual amendment: [S. 3(1)](https://www.legislation.gov.uk/ukpga/1986/66/section/3/1) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-dd4514af67091532e7cd3589f378cc1e]: Textual amendment: [S. 3(1)](https://www.legislation.gov.uk/ukpga/1986/66/section/3/1) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
-[^key-d5cbcb26b533d78dcc7d5b613338f6b3]: Textual amendment: Words in s. 4(1) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 94(a)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/94/a) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+[^c-d5cbcb26b533d78dcc7d5b613338f6b3]: Textual amendment: Words in s. 4(1) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 94(a)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/94/a) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
 
-[^key-732ee68b46c70dcba4aeae239d0ec3db]: Textual amendment: Words in s. 4(5) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 94(b)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/94/b) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+[^c-732ee68b46c70dcba4aeae239d0ec3db]: Textual amendment: Words in s. 4(5) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 94(b)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/94/b) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
 
-[^key-3ad6d550da8b516b13836b42cac43876]: Textual amendment: [S. 4(6)](https://www.legislation.gov.uk/ukpga/1986/66/section/4/6)[(7)](https://www.legislation.gov.uk/ukpga/1986/66/section/4/7) repealed (E.W.) (1.3.2007 immediately before the National Health Service Act 2006 comes into force) by [National Health Service (Pre - consolidation Amendments) Order 2006 (S.I. 2006/1407)](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1407/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
+[^c-3ad6d550da8b516b13836b42cac43876]: Textual amendment: [S. 4(6)](https://www.legislation.gov.uk/ukpga/1986/66/section/4/6)[(7)](https://www.legislation.gov.uk/ukpga/1986/66/section/4/7) repealed (E.W.) (1.3.2007 immediately before the National Health Service Act 2006 comes into force) by [National Health Service (Pre - consolidation Amendments) Order 2006 (S.I. 2006/1407)](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1407/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
 
 [^c788838]: Marginal citation: [1974 c. 28](https://www.legislation.gov.uk/ukpga/1974/28).
 
-[^key-03c92c676d422242f44c07ed63857c18]: Textual amendment: Words in [s. 8(2)](https://www.legislation.gov.uk/ukpga/1986/66/section/8/2) omitted (1.3.2007) by virtue of [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 95](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/95) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+[^c-03c92c676d422242f44c07ed63857c18]: Textual amendment: Words in [s. 8(2)](https://www.legislation.gov.uk/ukpga/1986/66/section/8/2) omitted (1.3.2007) by virtue of [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 95](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/95) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
 
 [^c788839]: Marginal citation: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49).
 

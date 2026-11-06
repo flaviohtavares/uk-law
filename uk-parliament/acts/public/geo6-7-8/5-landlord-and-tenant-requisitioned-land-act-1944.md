@@ -43,7 +43,7 @@ An Act to regulate the rights of the parties to leases of requisitioned land wit
 
 (1) Where possession of any such land taken as aforesaid at any time after the twenty-fourth day of August, nineteen hundred and thirty-nine, is or has at any time since that date been given up during the currency of the lease, and compensation in respect of the taking possession thereof becomes or has become payable for any such damage as aforesaid to any person other that the tenant, then if the tenant incurs expenditure in making good any of that damage, he may recover from that person an amount equal to the expenditure so incurred, not exceeding so much of the compensation payable to that person as may be agreed by the tenant and that person or, in default of agreement, as may be determined by the court, to be payable in respect of that damage.
 
-(2) Subject to the provisions of section one hundred and fifteen of the[^c591719] [^c591720]County Courts Act 1959 (which provides for the removal into the High Court of any proceedings commenced in a county court), the jurisdiction of the court under this section shall be exercised in England and Wales by the county court and in Northern Ireland[^key-a1dead22d4d96f5ef216009f4c788424] by a county court.
+(2) Subject to the provisions of section one hundred and fifteen of the[^c591719] [^c591720]County Courts Act 1959 (which provides for the removal into the High Court of any proceedings commenced in a county court), the jurisdiction of the court under this section shall be exercised in England and Wales by the county court and in Northern Ireland[^c-a1dead22d4d96f5ef216009f4c788424] by a county court.
 
 (3) This section shall, in its application to Scotland, have effect as if for subsection (2) thereof there were substituted the following subsection:—
 
@@ -92,7 +92,7 @@ This Act may be cited as the Landlord and Tenant (Requisitioned Land) Act 1944 a
 
 [^c591720]: Marginal citation: [1959 c. 22](https://www.legislation.gov.uk/ukpga/1959/22).
 
-[^key-a1dead22d4d96f5ef216009f4c788424]: Textual amendment: Words in s. 2(2) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 98](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/98); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-a1dead22d4d96f5ef216009f4c788424]: Textual amendment: Words in s. 2(2) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 98](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/98); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c591722]: Marginal citation: [1959 c. 22](https://www.legislation.gov.uk/ukpga/1959/22).
 

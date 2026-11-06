@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 128. Negotiable instruments[^key-57aca07ef23b02f43693d2c7026ad16c]
+## 128. Negotiable instruments[^c-57aca07ef23b02f43693d2c7026ad16c]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Unless the administrator allows, a proof in respect of money owed on a bill of e
 
 ## Annotations
 
-[^key-57aca07ef23b02f43693d2c7026ad16c]: Commencement: [Rule 128](https://www.legislation.gov.uk/nisr/2026/11/rule/128) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-57aca07ef23b02f43693d2c7026ad16c]: Commencement: [Rule 128](https://www.legislation.gov.uk/nisr/2026/11/rule/128) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

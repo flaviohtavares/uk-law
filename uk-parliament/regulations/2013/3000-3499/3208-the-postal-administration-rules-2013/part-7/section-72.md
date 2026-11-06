@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72. Proof altered after payment of dividend[^key-8ca4332e8a4bff028c3320141984d954]
+## 72. Proof altered after payment of dividend[^c-8ca4332e8a4bff028c3320141984d954]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ca4332e8a4bff028c3320141984d954]: Commencement: [Rule 72](https://www.legislation.gov.uk/uksi/2013/3208/rule/72) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-8ca4332e8a4bff028c3320141984d954]: Commencement: [Rule 72](https://www.legislation.gov.uk/uksi/2013/3208/rule/72) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

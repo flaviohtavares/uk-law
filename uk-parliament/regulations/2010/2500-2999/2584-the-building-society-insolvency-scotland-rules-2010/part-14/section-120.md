@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 120. Forms for use in insolvency proceedings[^key-7ef302a541c4b5ac5e841c8bbb26ef32]
+## 120. Forms for use in insolvency proceedings[^c-7ef302a541c4b5ac5e841c8bbb26ef32]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ The forms contained in Schedule 5[^f00056] to the 1986 Rules shall be used, with
 
 ## Annotations
 
-[^key-7ef302a541c4b5ac5e841c8bbb26ef32]: Commencement: Rule 120 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-7ef302a541c4b5ac5e841c8bbb26ef32]: Commencement: Rule 120 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^f00056]: Footnote: Schedule 5 was amended by rules 14 and 15 of [S.I. 2009/662(S.1)](https://www.legislation.gov.uk/uksi/2009/662).

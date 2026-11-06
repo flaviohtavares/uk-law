@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Calculation of income and capital of students[^key-7c86bcabcc6f242b0117da24bd2bb840]
+## 13. Calculation of income and capital of students[^c-7c86bcabcc6f242b0117da24bd2bb840]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The provisions of Chapters II to VI of this Part (income and capital) shall have
 
 ## Annotations
 
-[^key-7c86bcabcc6f242b0117da24bd2bb840]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1991/2887/regulation/13) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
+[^c-7c86bcabcc6f242b0117da24bd2bb840]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1991/2887/regulation/13) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)

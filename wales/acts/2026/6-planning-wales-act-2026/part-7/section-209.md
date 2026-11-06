@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 209. Powers to enter land, take steps required by order and recover costs[^key-afb2cc1c8f0b16abb33bb1ccc75c220c]
+## 209. Powers to enter land, take steps required by order and recover costs[^c-afb2cc1c8f0b16abb33bb1ccc75c220c]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-afb2cc1c8f0b16abb33bb1ccc75c220c]: Commencement: S. 209 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-afb2cc1c8f0b16abb33bb1ccc75c220c]: Commencement: S. 209 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

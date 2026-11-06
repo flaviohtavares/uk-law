@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Power of arrest in anticipation of commission of service offence[^key-7e1110f8a89106b5594abc7a3d78a8e4][^key-db5c408563efb4c8820c52f3e03cc926]
+## 69. Power of arrest in anticipation of commission of service offence[^c-7e1110f8a89106b5594abc7a3d78a8e4][^c-db5c408563efb4c8820c52f3e03cc926]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7e1110f8a89106b5594abc7a3d78a8e4]: Commencement: S. 69 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-7e1110f8a89106b5594abc7a3d78a8e4]: Commencement: S. 69 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-db5c408563efb4c8820c52f3e03cc926]: Commencement: S. 69 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-db5c408563efb4c8820c52f3e03cc926]: Commencement: S. 69 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

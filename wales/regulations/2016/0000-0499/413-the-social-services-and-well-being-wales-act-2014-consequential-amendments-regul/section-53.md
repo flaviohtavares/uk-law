@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**53.**[^key-ab03b3c2e703798ffc950b0ae51a5db2] The Social Security Act 1989 is amended as follows.
+**53.**[^c-ab03b3c2e703798ffc950b0ae51a5db2] The Social Security Act 1989 is amended as follows.
 
 ## Annotations
 
-[^key-ab03b3c2e703798ffc950b0ae51a5db2]: Commencement: Reg. 53 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-ab03b3c2e703798ffc950b0ae51a5db2]: Commencement: Reg. 53 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

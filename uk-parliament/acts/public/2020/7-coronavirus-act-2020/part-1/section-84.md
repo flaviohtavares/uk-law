@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Postponement of General Synod elections[^key-e300133bef568c105a5a8de6401ff887]
+## 84. Postponement of General Synod elections[^c-e300133bef568c105a5a8de6401ff887]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e300133bef568c105a5a8de6401ff887]: Textual amendment: S. 84 expires (17.7.2021) by [The Coronavirus Act 2020 (Early Expiry) Regulations 2021 (S.I. 2021/856)](https://www.legislation.gov.uk/uksi/2021/856), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/856/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2021/856/regulation/3/2))
+[^c-e300133bef568c105a5a8de6401ff887]: Textual amendment: S. 84 expires (17.7.2021) by [The Coronavirus Act 2020 (Early Expiry) Regulations 2021 (S.I. 2021/856)](https://www.legislation.gov.uk/uksi/2021/856), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/856/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2021/856/regulation/3/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97.[^key-6d03aa189422931f5787fc2e66043421]
+## 97.[^c-6d03aa189422931f5787fc2e66043421]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 742 (interpretation: transfer of assets abroad), in subsection (9)(a)
 
 ## Annotations
 
-[^key-6d03aa189422931f5787fc2e66043421]: Commencement: Reg. 97 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-6d03aa189422931f5787fc2e66043421]: Commencement: Reg. 97 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

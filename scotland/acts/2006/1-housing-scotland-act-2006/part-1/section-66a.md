@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66A. Appeals in relation to section 52[^key-5f4da030d63a2a1420de483c8a7b1456]
+## 66A. Appeals in relation to section 52[^c-5f4da030d63a2a1420de483c8a7b1456]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ may appeal to the First-tier Tribunal within 6 months of being notified of that 
 
 ## Annotations
 
-[^key-5f4da030d63a2a1420de483c8a7b1456]: Textual amendment: [S. 66A](https://www.legislation.gov.uk/asp/2006/1/section/66A) inserted (1.12.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 18(1)](https://www.legislation.gov.uk/asp/2014/14/section/18/1), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)
+[^c-5f4da030d63a2a1420de483c8a7b1456]: Textual amendment: [S. 66A](https://www.legislation.gov.uk/asp/2006/1/section/66A) inserted (1.12.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 18(1)](https://www.legislation.gov.uk/asp/2014/14/section/18/1), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. The Town and Country Planning (Determination of Procedure) (Wales) Order 2014[^key-530c513bd05b75a1dc3c44add5411ceb]
+## 62. The Town and Country Planning (Determination of Procedure) (Wales) Order 2014[^c-530c513bd05b75a1dc3c44add5411ceb]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ In the Town and Country Planning (Determination of Procedure) (Wales) Order 2014
 
 ## Annotations
 
-[^key-530c513bd05b75a1dc3c44add5411ceb]: Commencement: [Reg. 62](https://www.legislation.gov.uk/wsi/2024/924/regulation/62) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-530c513bd05b75a1dc3c44add5411ceb]: Commencement: [Reg. 62](https://www.legislation.gov.uk/wsi/2024/924/regulation/62) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00037]: Footnote: [S.I. 2014/2773 (W. 280)](https://www.legislation.gov.uk/wsi/2014/2773).

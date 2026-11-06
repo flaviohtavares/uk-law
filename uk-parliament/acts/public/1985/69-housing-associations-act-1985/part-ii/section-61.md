@@ -24,7 +24,7 @@ summary: ''
 
 (2) In this section “**hire-purchase agreement**” means a hire-purchase agreement or conditional sale agreement within the meaning of the [^c11838141]Consumer Credit Act 1974.
 
-(3)[^c11838151] This section does not apply where the housing association is —[^key-6f8691bc2f42a6dade69f334f7ab116a]
+(3)[^c11838151] This section does not apply where the housing association is —[^c-6f8691bc2f42a6dade69f334f7ab116a]
 
 - (a) a private registered provider of social housing, or
 - (b) a registered social landlord (for which corresponding provision is made by section 22 of the Housing Act 1996).
@@ -37,4 +37,4 @@ summary: ''
 
 [^c11838151]: Textual amendment: S. 61(3) inserted (E.W.) (1.10.1996) by [S.I. 1996/2325](https://www.legislation.gov.uk/uksi/1996/2325), [art. 5(1)](https://www.legislation.gov.uk/uksi/1996/2325/article/5/1), [Sch. 2 para. 15(23)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/15/23)
 
-[^key-6f8691bc2f42a6dade69f334f7ab116a]: Textual amendment: Words in [s. 61(3)](https://www.legislation.gov.uk/ukpga/1985/69/section/61/3) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 43](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/43) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+[^c-6f8691bc2f42a6dade69f334f7ab116a]: Textual amendment: Words in [s. 61(3)](https://www.legislation.gov.uk/ukpga/1985/69/section/61/3) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 43](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/43) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))

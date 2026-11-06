@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 183. Publicising advocacy services in care homes[^key-1e77abe3daa2d46b31c3e962ec484161]
+## 183. Publicising advocacy services in care homes[^c-1e77abe3daa2d46b31c3e962ec484161]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e77abe3daa2d46b31c3e962ec484161]: Textual amendment: S. 183 repealed (2.4.2018) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 31](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/31); [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(h)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/h), [Sch.](https://www.legislation.gov.uk/wsi/2017/1326/schedule) (with [art. 6](https://www.legislation.gov.uk/wsi/2017/1326/article/6))
+[^c-1e77abe3daa2d46b31c3e962ec484161]: Textual amendment: S. 183 repealed (2.4.2018) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 31](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/31); [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(h)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/h), [Sch.](https://www.legislation.gov.uk/wsi/2017/1326/schedule) (with [art. 6](https://www.legislation.gov.uk/wsi/2017/1326/article/6))

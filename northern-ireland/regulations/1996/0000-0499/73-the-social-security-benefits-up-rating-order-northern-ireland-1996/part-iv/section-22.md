@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Transitional provisions[^key-5dd0180e6e281a24cc72d28284cf98eb]
+## 22. Transitional provisions[^c-5dd0180e6e281a24cc72d28284cf98eb]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Notwithstanding the increases of the sums payable in respect of family credit an
 
 ## Annotations
 
-[^key-5dd0180e6e281a24cc72d28284cf98eb]: Commencement: Art. 22 in operation at 9.4.1996, see [art. 1(1)(e)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/e)
+[^c-5dd0180e6e281a24cc72d28284cf98eb]: Commencement: Art. 22 in operation at 9.4.1996, see [art. 1(1)(e)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/e)

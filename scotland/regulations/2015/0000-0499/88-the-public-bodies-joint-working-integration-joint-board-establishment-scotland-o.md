@@ -48,11 +48,11 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 9(2) of the Public Bodies (Joint Working) (Scotland) Act 2014[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-32cd257e8a47cef65420f8b99b43bf40]
+## 1. Citation and commencement[^c-32cd257e8a47cef65420f8b99b43bf40]
 
 This Order may be cited as the Public Bodies (Joint Working) (Integration Joint Board Establishment) (Scotland) Order 2015 and comes into force on 1st April 2015.
 
-## 2. Establishment of integration joint boards[^key-26815efd55b1aa893db63e65a28b29f5]
+## 2. Establishment of integration joint boards[^c-26815efd55b1aa893db63e65a28b29f5]
 
 An integration joint board specified in column 1 of the Schedule is established for the area specified in the corresponding entry in column 2 of the Schedule.
 
@@ -66,7 +66,7 @@ Edinburgh
 
 26th February 2015
 
-## SCHEDULE — Integration Joint Boards[^key-c7a104791ec5387355577cd60d0f2acb]
+## SCHEDULE — Integration Joint Boards[^c-c7a104791ec5387355577cd60d0f2acb]
 
 Article 2
 
@@ -108,7 +108,7 @@ Article 2
 </tbody>
 </table>
 
-[^key-979d65b8b39c65c59657fc76f34ba08d][^key-1662ed0436f683d891ae6939c351064b][^key-cd13deb31723e7173a660e762ef9d016]
+[^c-979d65b8b39c65c59657fc76f34ba08d][^c-1662ed0436f683d891ae6939c351064b][^c-cd13deb31723e7173a660e762ef9d016]
 
 EXPLANATORY NOTE
 
@@ -122,14 +122,14 @@ Article 2, together with the Schedule, makes provision for the establishment of 
 
 [^f00001]: Footnote: [2014 asp 9](https://www.legislation.gov.uk/asp/2014/9).
 
-[^key-32cd257e8a47cef65420f8b99b43bf40]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2015/88/article/1) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/88/article/1)
+[^c-32cd257e8a47cef65420f8b99b43bf40]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2015/88/article/1) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/88/article/1)
 
-[^key-26815efd55b1aa893db63e65a28b29f5]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2015/88/article/2) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/88/article/1)
+[^c-26815efd55b1aa893db63e65a28b29f5]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2015/88/article/2) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/88/article/1)
 
-[^key-c7a104791ec5387355577cd60d0f2acb]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2015/88/schedule) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/88/article/1)
+[^c-c7a104791ec5387355577cd60d0f2acb]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2015/88/schedule) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/88/article/1)
 
-[^key-979d65b8b39c65c59657fc76f34ba08d]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2015/88/schedule) inserted (27.6.2015) by [The Public Bodies (Joint Working) (Integration Joint Board Establishment) (Scotland) Amendment Order 2015 (S.S.I. 2015/222)](https://www.legislation.gov.uk/ssi/2015/222), [arts. 1](https://www.legislation.gov.uk/ssi/2015/222/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2015/222/article/2/2)
+[^c-979d65b8b39c65c59657fc76f34ba08d]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2015/88/schedule) inserted (27.6.2015) by [The Public Bodies (Joint Working) (Integration Joint Board Establishment) (Scotland) Amendment Order 2015 (S.S.I. 2015/222)](https://www.legislation.gov.uk/ssi/2015/222), [arts. 1](https://www.legislation.gov.uk/ssi/2015/222/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2015/222/article/2/2)
 
-[^key-1662ed0436f683d891ae6939c351064b]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2015/88/schedule) inserted (21.9.2015) by [The Public Bodies (Joint Working) (Integration Joint Board Establishment) (Scotland) Amendment (No. 2) Order 2015 (S.S.I. 2015/266)](https://www.legislation.gov.uk/ssi/2015/266), [arts. 1](https://www.legislation.gov.uk/ssi/2015/266/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2015/266/article/2/2)
+[^c-1662ed0436f683d891ae6939c351064b]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2015/88/schedule) inserted (21.9.2015) by [The Public Bodies (Joint Working) (Integration Joint Board Establishment) (Scotland) Amendment (No. 2) Order 2015 (S.S.I. 2015/266)](https://www.legislation.gov.uk/ssi/2015/266), [arts. 1](https://www.legislation.gov.uk/ssi/2015/266/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2015/266/article/2/2)
 
-[^key-cd13deb31723e7173a660e762ef9d016]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2015/88/schedule) inserted (6.2.2016) by [The Public Bodies (Joint Working) (Integration Joint Board Establishment) (Scotland) Amendment Order 2016 (S.S.I. 2016/2)](https://www.legislation.gov.uk/ssi/2016/2), [arts. 1](https://www.legislation.gov.uk/ssi/2016/2/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2016/2/article/2/2)
+[^c-cd13deb31723e7173a660e762ef9d016]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2015/88/schedule) inserted (6.2.2016) by [The Public Bodies (Joint Working) (Integration Joint Board Establishment) (Scotland) Amendment Order 2016 (S.S.I. 2016/2)](https://www.legislation.gov.uk/ssi/2016/2), [arts. 1](https://www.legislation.gov.uk/ssi/2016/2/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2016/2/article/2/2)

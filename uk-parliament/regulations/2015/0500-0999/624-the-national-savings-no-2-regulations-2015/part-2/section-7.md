@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Making payments[^key-7231b3148710b4f50e55fd5e1360b4a6]
+## 7. Making payments[^c-7231b3148710b4f50e55fd5e1360b4a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ is deemed to be a payment made to a person entitled to receive payment in relati
 
 ## Annotations
 
-[^key-7231b3148710b4f50e55fd5e1360b4a6]: Commencement: Reg. 7 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-7231b3148710b4f50e55fd5e1360b4a6]: Commencement: Reg. 7 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

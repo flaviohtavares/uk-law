@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Other exemptions[^key-77dd1965648a9069b3715284589242c1][^key-e024a7b6aa494d05f49e2c105f339508]
+## 64. Other exemptions[^c-77dd1965648a9069b3715284589242c1][^c-e024a7b6aa494d05f49e2c105f339508]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-77dd1965648a9069b3715284589242c1]: Commencement: S. 64 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-77dd1965648a9069b3715284589242c1]: Commencement: S. 64 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-e024a7b6aa494d05f49e2c105f339508]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2022/23/section/64) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-e024a7b6aa494d05f49e2c105f339508]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2022/23/section/64) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

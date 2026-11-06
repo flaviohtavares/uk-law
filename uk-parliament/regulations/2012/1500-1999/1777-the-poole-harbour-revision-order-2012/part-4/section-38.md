@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Commissioners’ accounts[^key-0768d38cc29f0a5254d658d422a551a3]
+## 38. Commissioners’ accounts[^c-0768d38cc29f0a5254d658d422a551a3]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0768d38cc29f0a5254d658d422a551a3]: Commencement: Art. 38 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-0768d38cc29f0a5254d658d422a551a3]: Commencement: Art. 38 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

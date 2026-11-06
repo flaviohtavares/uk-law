@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Amendment of article 14 (entitlement to resettlement grants) of the EDP Order 2005[^key-aeb2659d396668c720277fa0e0e3f2ed]
+## 21. Amendment of article 14 (entitlement to resettlement grants) of the EDP Order 2005[^c-aeb2659d396668c720277fa0e0e3f2ed]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ Article 14(1) of the EDP Order 2005 is amended by, after paragraph (d), insertin
 
 ## Annotations
 
-[^key-aeb2659d396668c720277fa0e0e3f2ed]: Commencement: Reg. 21 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-aeb2659d396668c720277fa0e0e3f2ed]: Commencement: Reg. 21 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)

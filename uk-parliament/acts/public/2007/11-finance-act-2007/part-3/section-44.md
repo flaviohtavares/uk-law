@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Transfers of business by friendly societies to insurance companies etc[^key-2456881c1d6787f0f036e6909289cba2]
+## 44. Transfers of business by friendly societies to insurance companies etc[^c-2456881c1d6787f0f036e6909289cba2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2456881c1d6787f0f036e6909289cba2]: Textual amendment: [S. 44](https://www.legislation.gov.uk/ukpga/2007/11/section/44) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 18 para. 23(e)(i)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/18/paragraph/23/e/i)
+[^c-2456881c1d6787f0f036e6909289cba2]: Textual amendment: [S. 44](https://www.legislation.gov.uk/ukpga/2007/11/section/44) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 18 para. 23(e)(i)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/18/paragraph/23/e/i)

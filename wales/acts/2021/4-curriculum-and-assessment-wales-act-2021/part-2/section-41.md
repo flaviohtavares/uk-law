@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Pupils and children with additional learning needs[^key-e5893e2ee94d6d40950193815b21dd72][^key-a373daf06e2d798127b081b00602226f][^key-1d57194497954d0cdac4b731366a9015][^key-067811f23a91cc0ca21a5d322e4682dd][^key-da300d7a4984f60516e9a9a3b1fd496a]
+## 41. Pupils and children with additional learning needs[^c-e5893e2ee94d6d40950193815b21dd72][^c-a373daf06e2d798127b081b00602226f][^c-1d57194497954d0cdac4b731366a9015][^c-067811f23a91cc0ca21a5d322e4682dd][^c-da300d7a4984f60516e9a9a3b1fd496a]
 
 *Extent: E+W*
 
@@ -47,12 +47,12 @@ summary: ''
 
 ## Annotations
 
-[^key-e5893e2ee94d6d40950193815b21dd72]: Commencement: [S. 41](https://www.legislation.gov.uk/asc/2021/4/section/41) in force at 1.9.2022 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 5(1)](https://www.legislation.gov.uk/wsi/2022/652/article/5/1)[(2)(c)](https://www.legislation.gov.uk/wsi/2022/652/article/5/2/c), [Sch.](https://www.legislation.gov.uk/wsi/2022/652/schedule)
+[^c-e5893e2ee94d6d40950193815b21dd72]: Commencement: [S. 41](https://www.legislation.gov.uk/asc/2021/4/section/41) in force at 1.9.2022 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 5(1)](https://www.legislation.gov.uk/wsi/2022/652/article/5/1)[(2)(c)](https://www.legislation.gov.uk/wsi/2022/652/article/5/2/c), [Sch.](https://www.legislation.gov.uk/wsi/2022/652/schedule)
 
-[^key-a373daf06e2d798127b081b00602226f]: Commencement: [S. 41](https://www.legislation.gov.uk/asc/2021/4/section/41) in force at 1.9.2023 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 6(1)](https://www.legislation.gov.uk/wsi/2022/652/article/6/1)[(2)(c)](https://www.legislation.gov.uk/wsi/2022/652/article/6/2/c)
+[^c-a373daf06e2d798127b081b00602226f]: Commencement: [S. 41](https://www.legislation.gov.uk/asc/2021/4/section/41) in force at 1.9.2023 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 6(1)](https://www.legislation.gov.uk/wsi/2022/652/article/6/1)[(2)(c)](https://www.legislation.gov.uk/wsi/2022/652/article/6/2/c)
 
-[^key-1d57194497954d0cdac4b731366a9015]: Commencement: [S. 41](https://www.legislation.gov.uk/asc/2021/4/section/41) in force at 1.9.2024 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 7(c)](https://www.legislation.gov.uk/wsi/2022/652/article/7/c)
+[^c-1d57194497954d0cdac4b731366a9015]: Commencement: [S. 41](https://www.legislation.gov.uk/asc/2021/4/section/41) in force at 1.9.2024 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 7(c)](https://www.legislation.gov.uk/wsi/2022/652/article/7/c)
 
-[^key-067811f23a91cc0ca21a5d322e4682dd]: Commencement: [S. 41](https://www.legislation.gov.uk/asc/2021/4/section/41) in force at 1.9.2025 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 8(a)](https://www.legislation.gov.uk/wsi/2022/652/article/8/a)
+[^c-067811f23a91cc0ca21a5d322e4682dd]: Commencement: [S. 41](https://www.legislation.gov.uk/asc/2021/4/section/41) in force at 1.9.2025 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 8(a)](https://www.legislation.gov.uk/wsi/2022/652/article/8/a)
 
-[^key-da300d7a4984f60516e9a9a3b1fd496a]: Commencement: [S. 41](https://www.legislation.gov.uk/asc/2021/4/section/41) in force at 1.9.2026 in so far as not already in force by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(a)](https://www.legislation.gov.uk/wsi/2022/652/article/9/a)
+[^c-da300d7a4984f60516e9a9a3b1fd496a]: Commencement: [S. 41](https://www.legislation.gov.uk/asc/2021/4/section/41) in force at 1.9.2026 in so far as not already in force by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(a)](https://www.legislation.gov.uk/wsi/2022/652/article/9/a)

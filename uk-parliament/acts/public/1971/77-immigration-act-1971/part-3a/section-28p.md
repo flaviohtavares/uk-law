@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28P. Hot pursuit of ships in United Kingdom waters[^key-5a988c4ca2a9354185024e11cc2a88df][^key-e32a409eea1527d2ebb24bad82f763ab]
+## 28P. Hot pursuit of ships in United Kingdom waters[^c-5a988c4ca2a9354185024e11cc2a88df][^c-e32a409eea1527d2ebb24bad82f763ab]
 
 *Extent: E+W+S+N.I.*
 
-(1) An English and Welsh constable[^key-0e7e03196ae3a80d94a18ef62abe9dbf] may exercise Part 1 powers in relation to a ship in Scotland waters or in Northern Ireland waters if—
+(1) An English and Welsh constable[^c-0e7e03196ae3a80d94a18ef62abe9dbf] may exercise Part 1 powers in relation to a ship in Scotland waters or in Northern Ireland waters if—
 
 - (a) the ship is pursued there,
 - (b) immediately before the pursuit of the ship, the ship was in England and Wales waters, and
@@ -31,7 +31,7 @@ summary: ''
 - (a) for the purpose mentioned in subsection (2)(a) of section 28M, and
 - (b) (if relevant) in accordance with subsections (3) and (4) of that section.
 
-(3) A Scottish constable[^key-3438db3859617ba388d5128015f9d89a] may exercise Part 2 powers in relation to a ship in England and Wales waters or in Northern Ireland waters if—
+(3) A Scottish constable[^c-3438db3859617ba388d5128015f9d89a] may exercise Part 2 powers in relation to a ship in England and Wales waters or in Northern Ireland waters if—
 
 - (a) the ship is pursued there,
 - (b) immediately before the pursuit of the ship, the ship was in Scotland waters, and
@@ -42,7 +42,7 @@ summary: ''
 - (a) for the purpose mentioned in subsection (2)(a) of section 28N, and
 - (b) (if relevant) in accordance with subsections (3) and (4) of that section.
 
-(5) A Northern Ireland constable[^key-ff1e0371416f028f7cefd5d0c759d22e] may exercise Part 3 powers in relation to a ship in England and Wales waters or in Scotland waters if—
+(5) A Northern Ireland constable[^c-ff1e0371416f028f7cefd5d0c759d22e] may exercise Part 3 powers in relation to a ship in England and Wales waters or in Scotland waters if—
 
 - (a) the ship is pursued there,
 - (b) immediately before the pursuit of the ship, the ship was in Northern Ireland waters, and
@@ -67,18 +67,18 @@ summary: ''
 
 changes during the course of the pursuit.
 
-(10) Nothing in this Part affects any other legal right of hot pursuit that a constable [^key-a258decf5f9e11276b13eaec2a6d3d71]... may have.
+(10) Nothing in this Part affects any other legal right of hot pursuit that a constable [^c-a258decf5f9e11276b13eaec2a6d3d71]... may have.
 
 ## Annotations
 
-[^key-5a988c4ca2a9354185024e11cc2a88df]: Modification: Ss. 24-29: amendment to earlier affecting S.I. 1993/1797, Sch. 1 Pt. 1 (11.10.2017 coming into force in accordance with art. 1) by [The Immigration (Jersey) (Amendment) Order 2017 (S.I. 2017/981)](https://www.legislation.gov.uk/uksi/2017/981), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2017/981/schedule/part/1/paragraph/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2017/981/article/6))
+[^c-5a988c4ca2a9354185024e11cc2a88df]: Modification: Ss. 24-29: amendment to earlier affecting S.I. 1993/1797, Sch. 1 Pt. 1 (11.10.2017 coming into force in accordance with art. 1) by [The Immigration (Jersey) (Amendment) Order 2017 (S.I. 2017/981)](https://www.legislation.gov.uk/uksi/2017/981), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2017/981/schedule/part/1/paragraph/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2017/981/article/6))
 
-[^key-e32a409eea1527d2ebb24bad82f763ab]: Textual amendment: Pt. 3A inserted (31.5.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 14 para. 7](https://www.legislation.gov.uk/ukpga/2016/19/schedule/14/paragraph/7); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/603/regulation/2/d)
+[^c-e32a409eea1527d2ebb24bad82f763ab]: Textual amendment: Pt. 3A inserted (31.5.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 14 para. 7](https://www.legislation.gov.uk/ukpga/2016/19/schedule/14/paragraph/7); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/603/regulation/2/d)
 
-[^key-0e7e03196ae3a80d94a18ef62abe9dbf]: Textual amendment: Words in [s. 28P(1)](https://www.legislation.gov.uk/ukpga/1971/77/section/28P/1) substituted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 7 para. 6(a)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/6/a); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
+[^c-0e7e03196ae3a80d94a18ef62abe9dbf]: Textual amendment: Words in [s. 28P(1)](https://www.legislation.gov.uk/ukpga/1971/77/section/28P/1) substituted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 7 para. 6(a)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/6/a); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
 
-[^key-3438db3859617ba388d5128015f9d89a]: Textual amendment: Words in [s. 28P(3)](https://www.legislation.gov.uk/ukpga/1971/77/section/28P/3) substituted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 7 para. 6(b)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/6/b); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
+[^c-3438db3859617ba388d5128015f9d89a]: Textual amendment: Words in [s. 28P(3)](https://www.legislation.gov.uk/ukpga/1971/77/section/28P/3) substituted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 7 para. 6(b)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/6/b); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
 
-[^key-ff1e0371416f028f7cefd5d0c759d22e]: Textual amendment: Words in [s. 28P(5)](https://www.legislation.gov.uk/ukpga/1971/77/section/28P/5) substituted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 7 para. 6(c)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/6/c); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
+[^c-ff1e0371416f028f7cefd5d0c759d22e]: Textual amendment: Words in [s. 28P(5)](https://www.legislation.gov.uk/ukpga/1971/77/section/28P/5) substituted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 7 para. 6(c)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/6/c); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
 
-[^key-a258decf5f9e11276b13eaec2a6d3d71]: Textual amendment: Words in [s. 28P(10)](https://www.legislation.gov.uk/ukpga/1971/77/section/28P/10) omitted (28.6.2022) by virtue of [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 7 para. 6(d)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/6/d); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
+[^c-a258decf5f9e11276b13eaec2a6d3d71]: Textual amendment: Words in [s. 28P(10)](https://www.legislation.gov.uk/ukpga/1971/77/section/28P/10) omitted (28.6.2022) by virtue of [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 7 para. 6(d)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/6/d); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))

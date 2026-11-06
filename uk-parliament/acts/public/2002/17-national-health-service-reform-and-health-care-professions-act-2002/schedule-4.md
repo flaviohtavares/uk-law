@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Local Health Boards[^key-bb93eccf52dc6ff6e5a223477cf6d6b6]
+## SCHEDULE 4 — Local Health Boards[^c-bb93eccf52dc6ff6e5a223477cf6d6b6]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Section 6(2)
 
 ## Annotations
 
-[^key-bb93eccf52dc6ff6e5a223477cf6d6b6]: Textual amendment: Sch. 4 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-bb93eccf52dc6ff6e5a223477cf6d6b6]: Textual amendment: Sch. 4 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))

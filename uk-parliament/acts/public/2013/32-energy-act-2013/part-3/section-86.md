@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Inquiries: payments and charges[^key-ce743f4c4569da779f93aae7c14c0990]
+## 86. Inquiries: payments and charges[^c-ce743f4c4569da779f93aae7c14c0990]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce743f4c4569da779f93aae7c14c0990]: Commencement: S. 86 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-ce743f4c4569da779f93aae7c14c0990]: Commencement: S. 86 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)

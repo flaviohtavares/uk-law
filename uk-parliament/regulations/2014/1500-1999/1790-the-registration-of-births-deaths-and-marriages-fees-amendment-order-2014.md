@@ -32,7 +32,7 @@ summary: ''
 
 Registration Of Births, Deaths And Marriages Etc., England And Wales
 
-The Registration of Births, Deaths and Marriages (Fees) (Amendment) Order 2014 (revoked)[^key-93d8a008ea8f65bfefb0808c1b8cccc9]
+The Registration of Births, Deaths and Marriages (Fees) (Amendment) Order 2014 (revoked)[^c-93d8a008ea8f65bfefb0808c1b8cccc9]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st September 2014
 
-[^key-93d8a008ea8f65bfefb0808c1b8cccc9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-93d8a008ea8f65bfefb0808c1b8cccc9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-93d8a008ea8f65bfefb0808c1b8cccc9]
+## 1. Citation and commencement[^c-93d8a008ea8f65bfefb0808c1b8cccc9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Registration of Births, Deaths and Marriages (Fees) Order 2010[^key-93d8a008ea8f65bfefb0808c1b8cccc9]
+## 2. Amendment of the Registration of Births, Deaths and Marriages (Fees) Order 2010[^c-93d8a008ea8f65bfefb0808c1b8cccc9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-93d8a008ea8f65bfefb0808c1b8cccc9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-93d8a008ea8f65bfefb0808c1b8cccc9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-93d8a008ea8f65bfefb0808c1b8cccc9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-93d8a008ea8f65bfefb0808c1b8cccc9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-93d8a008ea8f65bfefb0808c1b8cccc9]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/1790) revoked (5.10.2016) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016 (S.I. 2016/911)](https://www.legislation.gov.uk/uksi/2016/911), [reg. 1](https://www.legislation.gov.uk/uksi/2016/911/regulation/1), [Sch. 2 para. 1 Table](https://www.legislation.gov.uk/uksi/2016/911/schedule/2/paragraph/1)
+[^c-93d8a008ea8f65bfefb0808c1b8cccc9]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/1790) revoked (5.10.2016) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016 (S.I. 2016/911)](https://www.legislation.gov.uk/uksi/2016/911), [reg. 1](https://www.legislation.gov.uk/uksi/2016/911/regulation/1), [Sch. 2 para. 1 Table](https://www.legislation.gov.uk/uksi/2016/911/schedule/2/paragraph/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 371CEA. Section 371CE: meaning of “group treasury company”[^key-743877f32fb292da0d5760c6229421cd][^key-629ada2c8a18d82affe2c0e203fa8e18]
+## 371CEA. Section 371CE: meaning of “group treasury company”[^c-743877f32fb292da0d5760c6229421cd][^c-629ada2c8a18d82affe2c0e203fa8e18]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,6 +63,6 @@ before any deduction (whether for expenses or otherwise).
 
 ## Annotations
 
-[^key-743877f32fb292da0d5760c6229421cd]: Textual amendment: [S. 371CEA](https://www.legislation.gov.uk/ukpga/2010/8/section/371CEA) inserted (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 21(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/21/3)
+[^c-743877f32fb292da0d5760c6229421cd]: Textual amendment: [S. 371CEA](https://www.legislation.gov.uk/ukpga/2010/8/section/371CEA) inserted (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 21(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/21/3)
 
-[^key-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))
+[^c-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))

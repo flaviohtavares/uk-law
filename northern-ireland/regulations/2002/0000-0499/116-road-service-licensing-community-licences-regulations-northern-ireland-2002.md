@@ -33,7 +33,7 @@ EUROPEAN COMMUNITIES
 
 ROAD TRAFFIC AND VEHICLES
 
-Road Service Licensing (Community Licences) Regulations (Northern Ireland) 2002 (revoked)[^key-a359c6146d510bc54e2d2f4e6ae7dc26]
+Road Service Licensing (Community Licences) Regulations (Northern Ireland) 2002 (revoked)[^c-a359c6146d510bc54e2d2f4e6ae7dc26]
 
 Made
 
@@ -43,58 +43,58 @@ Coming into operation
 
 1st May 2002
 
-[^key-a359c6146d510bc54e2d2f4e6ae7dc26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a359c6146d510bc54e2d2f4e6ae7dc26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-a359c6146d510bc54e2d2f4e6ae7dc26]
+## 1. Citation, commencement and interpretation[^c-a359c6146d510bc54e2d2f4e6ae7dc26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Use of public service vehicles without Community licence[^key-a359c6146d510bc54e2d2f4e6ae7dc26]
+## 2. Use of public service vehicles without Community licence[^c-a359c6146d510bc54e2d2f4e6ae7dc26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Competent authority[^key-a359c6146d510bc54e2d2f4e6ae7dc26]
+## 3. Competent authority[^c-a359c6146d510bc54e2d2f4e6ae7dc26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Entitlement to the issue of a Community licence[^key-a359c6146d510bc54e2d2f4e6ae7dc26]
+## 4. Entitlement to the issue of a Community licence[^c-a359c6146d510bc54e2d2f4e6ae7dc26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Right of appeal[^key-a359c6146d510bc54e2d2f4e6ae7dc26]
+## 5. Right of appeal[^c-a359c6146d510bc54e2d2f4e6ae7dc26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Effect of failure to comply with conditions governing use of Community licence[^key-a359c6146d510bc54e2d2f4e6ae7dc26]
+## 6. Effect of failure to comply with conditions governing use of Community licence[^c-a359c6146d510bc54e2d2f4e6ae7dc26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Authorised inspecting officers[^key-a359c6146d510bc54e2d2f4e6ae7dc26]
+## 7. Authorised inspecting officers[^c-a359c6146d510bc54e2d2f4e6ae7dc26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Return of documents[^key-a359c6146d510bc54e2d2f4e6ae7dc26]
+## 8. Return of documents[^c-a359c6146d510bc54e2d2f4e6ae7dc26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Supply of information[^key-a359c6146d510bc54e2d2f4e6ae7dc26]
+## 9. Supply of information[^c-a359c6146d510bc54e2d2f4e6ae7dc26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Death, bankruptcy etc. of holder of Community licence[^key-a359c6146d510bc54e2d2f4e6ae7dc26]
+## 10. Death, bankruptcy etc. of holder of Community licence[^c-a359c6146d510bc54e2d2f4e6ae7dc26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of the Road Traffic (Northern Ireland) Order 1981[^key-a359c6146d510bc54e2d2f4e6ae7dc26]
+## 11. Amendment of the Road Traffic (Northern Ireland) Order 1981[^c-a359c6146d510bc54e2d2f4e6ae7dc26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a359c6146d510bc54e2d2f4e6ae7dc26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a359c6146d510bc54e2d2f4e6ae7dc26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a359c6146d510bc54e2d2f4e6ae7dc26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a359c6146d510bc54e2d2f4e6ae7dc26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a359c6146d510bc54e2d2f4e6ae7dc26]: Textual amendment: Regulations revoked (13.1.2014) by [The Road Service Licensing (Community Licences) Regulations (Northern Ireland) 2013 (S.R. 2013/287)](https://www.legislation.gov.uk/nisr/2013/287), [regs. 1](https://www.legislation.gov.uk/nisr/2013/287/regulation/1), [16(a)](https://www.legislation.gov.uk/nisr/2013/287/regulation/16)
+[^c-a359c6146d510bc54e2d2f4e6ae7dc26]: Textual amendment: Regulations revoked (13.1.2014) by [The Road Service Licensing (Community Licences) Regulations (Northern Ireland) 2013 (S.R. 2013/287)](https://www.legislation.gov.uk/nisr/2013/287), [regs. 1](https://www.legislation.gov.uk/nisr/2013/287/regulation/1), [16(a)](https://www.legislation.gov.uk/nisr/2013/287/regulation/16)

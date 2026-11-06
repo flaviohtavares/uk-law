@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Exception for the national minimum wage[^key-a4d09ee59b3a1134e92573aef8eb6bbf]
+## 33. Exception for the national minimum wage[^c-a4d09ee59b3a1134e92573aef8eb6bbf]
 
 *Extent: N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a4d09ee59b3a1134e92573aef8eb6bbf]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2006/261/regulation/33) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-a4d09ee59b3a1134e92573aef8eb6bbf]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2006/261/regulation/33) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00025]: Footnote: [1998 c. 39](https://www.legislation.gov.uk/ukpga/1998/39). The hourly rate is prescribed in regulation 11 of the National Minimum Wage Regulations 1999 (S.I. [1999/584](https://www.legislation.gov.uk/uksi/1999/584)) and that rate has most recently been amended by regulation 2 of the National Minimum Wage Regulations (Amendment) Regulations 2005 (S.I. [2005/2019](https://www.legislation.gov.uk/uksi/2005/2019))
 

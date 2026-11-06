@@ -22,7 +22,7 @@ summary: ''
 
 Article 2
 
-### 1. Interpretation[^key-ac23f78f573cf227ef702e9b4eb12809]
+### 1. Interpretation[^c-ac23f78f573cf227ef702e9b4eb12809]
 
 (1) In this Schedule unless the context requires otherwise—
 
@@ -61,33 +61,33 @@ Article 2
 
 (4) Where this Schedule requires the authorised development to be carried out in accordance or general accordance with the details approved by the highway authority or by the relevant planning authority, the approved details are to be taken to include any amendments that may subsequently be approved in writing by the highway authority or by the relevant planning authority.
 
-### 2. Time limits[^key-7fedcd8845598caa2f4d695358806f6f]
+### 2. Time limits[^c-7fedcd8845598caa2f4d695358806f6f]
 
 (1) The authorised development must be commenced within 5 years of the date of this Order.
 
-(2) If any proceedings are begun to challenge the validity of this Order, the period specified in paragraph (1) is extended by[^key-930d88f95bf66f9a81557b6756e9d726] —
+(2) If any proceedings are begun to challenge the validity of this Order, the period specified in paragraph (1) is extended by[^c-930d88f95bf66f9a81557b6756e9d726] —
 
 - (a) a period equivalent to the period beginning with the day the application is made and ending on the day it is withdrawn or finally determined, or
 - (b) if shorter, one year.
 
-(3) An application is not finally determined for the purposes of paragraph (2)(a)[^key-037405a6c147dcb4444d1383de15e7d0] if an appeal in respect of the application—
+(3) An application is not finally determined for the purposes of paragraph (2)(a)[^c-037405a6c147dcb4444d1383de15e7d0] if an appeal in respect of the application—
 
 - (a) could be brought (ignoring any possibility of an appeal out of time with permission), or
 - (b) has been made and not withdrawn or finally determined.
 
-### 3. Design drawings[^key-2e7cb3dd757256f864c59ec41f22c443]
+### 3. Design drawings[^c-2e7cb3dd757256f864c59ec41f22c443]
 
 (1) The authorised development must be carried out in general accordance with the design drawings.
 
 (2) The authorised development will not be in general accordance with the design drawings to the extent that any departure from the design drawings gives rise to any materially new or materially different environmental effects from those assessed in the environmental statement.
 
-### 4. Stages of authorised development[^key-1325dbcacfc80e1cc61f8e5c713b45a1]
+### 4. Stages of authorised development[^c-1325dbcacfc80e1cc61f8e5c713b45a1]
 
 (1) The authorised development may not commence until a written scheme setting out the stages of the authorised development has been submitted to the relevant planning authority, which scheme may subsequently be amended from time to time as notified to the relevant planning authority.
 
 (2) The authorised development must be constructed in accordance with the written scheme setting out the stages of the authorised development submitted under paragraph (1).
 
-### 5. Construction management plans[^key-f07a99af011db3eaee15c2e965f7a893]
+### 5. Construction management plans[^c-f07a99af011db3eaee15c2e965f7a893]
 
 (1) All construction works for the authorised development must be carried out in accordance with the construction management plans referred to in paragraph (2), unless otherwise agreed with the relevant planning authority or the highway authority, as may be appropriate to the relevant plan, scheme or strategy concerned.
 
@@ -102,7 +102,7 @@ Article 2
 
 (3) For the avoidance of doubt, all pre-commencement works must be carried out in accordance with the construction management plans and the outline soil management plan.
 
-### 6. Construction management plans to be approved[^key-109df3dfb1abc10d97b6d519848ce4fc]
+### 6. Construction management plans to be approved[^c-109df3dfb1abc10d97b6d519848ce4fc]
 
 (1) No stage of the authorised development may commence until, for that stage, the following plans, schemes and strategies as relevant to that stage to minimise the impacts of construction works have been submitted to and approved by the relevant planning authority—
 
@@ -122,7 +122,7 @@ Article 2
 
 (5) The lighting scheme referred to in paragraph 1(d) must contain written details of the temporary and permanent external lighting to be installed, and any external lighting must be installed in accordance with the details approved by the relevant planning authority under paragraph (1).
 
-### 7. Construction hours[^key-ff77987f04fdb223c973459910e90bc3]
+### 7. Construction hours[^c-ff77987f04fdb223c973459910e90bc3]
 
 (1) Subject to paragraphs (2) and (3) construction works may only take place between 0700 and 1900 Mondays to Fridays and between 0800 and 1700 on Saturdays, Sundays and Bank Holidays.
 
@@ -140,7 +140,7 @@ Article 2
 - (h) start up and close down activities, which may take place one hour immediately prior to or one hour immediately after the core working hours; and
 - (i) security monitoring.
 
-### 8. Landscaping at Overton, Tadcaster and Monk Fryston[^key-c18969d37b392660ddbfbb774d885c76]
+### 8. Landscaping at Overton, Tadcaster and Monk Fryston[^c-c18969d37b392660ddbfbb774d885c76]
 
 (1) Unless otherwise agreed with the relevant planning authority, no stage of the authorised development in connection with the non-linear works at Overton, Tadcaster and Monk Fryston may commence until, where relevant for that stage, a landscape strategy that accords with the outline landscape mitigation strategy has been submitted to and approved by the relevant planning authority.
 
@@ -155,7 +155,7 @@ Article 2
 
 (4) Any landscape planting, including trees or shrubs planted as part of a landscape strategy that, within a period of five years after planting, is removed, dies or becomes in the opinion of the relevant planning authority seriously damaged or diseased, must be replaced in the first available planting season with a specimen of the same species and size as that originally planted, unless otherwise approved by the relevant planning authority.
 
-### 9. Retention and protection of existing trees[^key-878a97646ffce659979d50289c491a2f]
+### 9. Retention and protection of existing trees[^c-878a97646ffce659979d50289c491a2f]
 
 (1) No stage of the authorised development may commence until, for that stage, a tree and hedgerow protection strategy (THPS) as referred to in requirement 6 (construction management plans to be approved) and prepared in accordance with the Arboricultural Impact Assessment report (Document 5.3.3I) and BS 5837:2012 (Trees in relation to design, demolition and construction) identifying the trees and groups of trees to be retained during that stage has been submitted to and approved by the relevant planning authority.
 
@@ -168,11 +168,11 @@ Article 2
 
 (3) The relevant stage of the authorised development must not commence until the approved protection measures referred to in paragraph (1) are in place, and they must thereafter be maintained during the construction of the relevant stage of the authorised development unless otherwise agreed in writing with the relevant planning authority.
 
-### 10. Replacement planting[^key-830147a5d56835716136a2536ab2135a]
+### 10. Replacement planting[^c-830147a5d56835716136a2536ab2135a]
 
-(1) Subject to paragraph (2), unless otherwise agreed with the relevant planning authority, no stage of the authorised development may commence until, where relevant for that stage, a replacement planting scheme in accordance with the principles contained in the code of construction practice which replaces the trees and hedgerows identified to be removed in the tree and hedgerow protection strategy approved under Requirement 9 (retention and protection of existing trees)[^key-213493ec63cdc9c8d01f6177803d0068], has been submitted to and approved by the relevant planning authority.
+(1) Subject to paragraph (2), unless otherwise agreed with the relevant planning authority, no stage of the authorised development may commence until, where relevant for that stage, a replacement planting scheme in accordance with the principles contained in the code of construction practice which replaces the trees and hedgerows identified to be removed in the tree and hedgerow protection strategy approved under Requirement 9 (retention and protection of existing trees)[^c-213493ec63cdc9c8d01f6177803d0068], has been submitted to and approved by the relevant planning authority.
 
-(2) Paragraph (1) does not apply in connection with the non-linear works at Overton, Tadcaster and Monk Fryston to the extent that replacement planting is included in the landscape strategy under Requirement 8 (landscaping at Overton, Tadcaster and Monk Fryston)[^key-8004311d0f94eb414af97b09924f6f87].
+(2) Paragraph (1) does not apply in connection with the non-linear works at Overton, Tadcaster and Monk Fryston to the extent that replacement planting is included in the landscape strategy under Requirement 8 (landscaping at Overton, Tadcaster and Monk Fryston)[^c-8004311d0f94eb414af97b09924f6f87].
 
 (3) The scheme for replacement planting submitted under paragraph (1) must include details appropriate for the relevant stage, including—
 
@@ -184,13 +184,13 @@ Article 2
 
 (5) Any replacement planting, including trees and hedgerows planted as part of an approved replacement planting scheme that, within a period of five years after planting, is removed, dies or becomes in the opinion of the relevant planning authority seriously damaged or diseased, must be replaced in the first available planting season with a specimen of the same species and size as that originally planted, unless otherwise approved by the relevant planning authority.
 
-### 11. Reinstatement schemes[^key-03b9261c561a0993ddf8c34f0e74b377]
+### 11. Reinstatement schemes[^c-03b9261c561a0993ddf8c34f0e74b377]
 
 (1) Subject to paragraph (2), any land within the Order limits which is used temporarily for construction is to be reinstated to its former condition, or such condition as the relevant planning authority may approve, within twelve months of completion of construction of the stage of authorised development for which it was required, or such further time as may be approved by the relevant planning authority.
 
 (2) The requirement to reinstate the land to its former condition is subject to the provisions of articles 36 (temporary use of land by National Grid), 37 (temporary use of land by NPG), 38 (temporary use of land by NGN) and article 39 (temporary use of land for maintaining the authorised development).
 
-### 12. Contamination of land or groundwater and controlled waters[^key-cf63f9317122e80ea20ee1908af86eb2]
+### 12. Contamination of land or groundwater and controlled waters[^c-cf63f9317122e80ea20ee1908af86eb2]
 
 (1) If during any stage of the authorised development, contamination within the Order limits is identified as a result of the confirmatory ground investigations or unexpected contamination discovery procedures described in chapter 10, Geology and Hydrogeology, of the environmental statement (Document 5.4.10) and the code of construction practice, and this contamination is considered to present a significant possibility of significant harm to persons or pollution of controlled waters or the environment then, except in the case of emergency, no further development in the vicinity of the contamination may be carried out until a written scheme to identify the extent of the contamination and any mitigation or remedial measures to be taken to render the land fit for its intended purpose has been submitted to and approved by the relevant planning authority, following consultation with the Environment Agency.
 
@@ -198,21 +198,21 @@ Article 2
 
 (3) In this requirement (contamination of land or groundwater and controlled waters), “**controlled waters**” has the same meaning as in Part 2A of the Environmental Protection Act 1990[^f00081].
 
-### 13. Removal of temporary bridges and culverts[^key-7495bac44cf75e1c29a9d8dcee79b6b5]
+### 13. Removal of temporary bridges and culverts[^c-7495bac44cf75e1c29a9d8dcee79b6b5]
 
 Any temporary bridge or culvert required in connection with any stage of the authorised development must be removed within twelve months of completion of the construction of that stage of authorised development for which it was required, or such further time that may subsequently be approved by the relevant planning authority, after consultation with the Environment Agency or the relevant drainage authority as appropriate.
 
-### 14. Highway works[^key-c5a358b829ab74523d2c6595e9fa90ad]
+### 14. Highway works[^c-c5a358b829ab74523d2c6595e9fa90ad]
 
 (1) No work to construct or temporarily alter any new or existing means of access to a highway to be used by vehicular traffic may commence until written details of the design and layout of that means of access has been submitted to and approved by the relevant highway authority.
 
 (2) The highway accesses must be constructed in accordance with the details approved under paragraph (1) unless otherwise agreed in writing with the relevant highway authority.
 
-### 15. Removal of existing overhead line[^key-dd145692084ce31376a95d28a1aadee2]
+### 15. Removal of existing overhead line[^c-dd145692084ce31376a95d28a1aadee2]
 
 All sections of existing overhead line to be dismantled must be removed no later than 12 months after the authorised development is first brought into operational use unless otherwise agreed in writing with the relevant planning authority.
 
-### 16. Decommissioning[^key-f9c4370881eb82f6e7542e4ebb798cba]
+### 16. Decommissioning[^c-f9c4370881eb82f6e7542e4ebb798cba]
 
 (1) In the event that, at some future date, the authorised development, or any part of it, is to be decommissioned, a written scheme of decommissioning must be submitted for approval by the relevant planning authority at least six months prior to any decommissioning works.
 
@@ -220,11 +220,11 @@ All sections of existing overhead line to be dismantled must be removed no later
 
 (3) This requirement (decommissioning) does not apply to the authorised development and associated development described in Schedule 1 (authorised development) for the dismantling and removal of existing infrastructure or apparatus.
 
-### 17. Clearance over the River Ouse[^key-d0f5565b68558c36b506067709d47a8f]
+### 17. Clearance over the River Ouse[^c-d0f5565b68558c36b506067709d47a8f]
 
 No part of any overhead electric line shall be installed or maintained directly above the River Ouse at a height of less than 10 metres above the mean high water level of that river.
 
-### 18. Approval of details having regard to the Design Approach to Site Specific Infrastructure[^key-fee9c100acd496b712bedca687aad635]
+### 18. Approval of details having regard to the Design Approach to Site Specific Infrastructure[^c-fee9c100acd496b712bedca687aad635]
 
 (1) Any permanent buildings (including relocated buildings) and the acoustic enclosures at—
 
@@ -233,7 +233,7 @@ No part of any overhead electric line shall be installed or maintained directly 
 
 must not be commenced until details of the external colour and surface finish of the permanent buildings and the external colour of the acoustic enclosures have been submitted to and approved by the relevant planning authority.
 
-(2)[^key-e344cbb152aa27a15c9a0de2288ae946] Any permanent site security fencing for a non-linear work at
+(2)[^c-e344cbb152aa27a15c9a0de2288ae946] Any permanent site security fencing for a non-linear work at
 
 - (a) Shipton Tee Cable Sealing End Compounds;
 - (b) Overton Substation;
@@ -242,74 +242,74 @@ must not be commenced until details of the external colour and surface finish of
 
 must not be commenced until details of the colour or type of the fencing, which must comply with Technical Specification TS2.10.02 Perimeter Security, has been submitted to and approved by the relevant planning authority.
 
-(3) Any details to be approved under paragraphs[^key-532c486e6c3a2384d56e9722526772a1] (1) and (2) must be produced having regard to the design approach to site specific infrastructure and must be implemented as approved.
+(3) Any details to be approved under paragraphs[^c-532c486e6c3a2384d56e9722526772a1] (1) and (2) must be produced having regard to the design approach to site specific infrastructure and must be implemented as approved.
 
-### 19. Site specific mitigation scheme[^key-df75b41df8574cbb33a0fb68d02dd3cf]
+### 19. Site specific mitigation scheme[^c-df75b41df8574cbb33a0fb68d02dd3cf]
 
 (1) No part of Work No. 10 that affects the Travellers’ Encampment may commence until a scheme to mitigate the impacts of construction activities arising from those works, including noise, dust, vibration, and visual effects (including from lighting), has been submitted to and approved in writing by the relevant planning authority.
 
-(2) The scheme referred to in paragraph[^key-889ef0ae056d5af8a66d92dd7635d644] (1) must include the approach to liaison for the Travellers’ Encampment during the construction period.
+(2) The scheme referred to in paragraph[^c-889ef0ae056d5af8a66d92dd7635d644] (1) must include the approach to liaison for the Travellers’ Encampment during the construction period.
 
-(3)[^key-88f5b0456bec8de541b8ab40b50206e4] In the event that significant effects of noise or vibration are identified on receptors SEL16 and SEL17 as shown within the Noise and Vibration Figures (Document 5.4.14), the scheme referred to in paragraph (1) must include mitigation measures to reduce the significant effects as far as practicable.
+(3)[^c-88f5b0456bec8de541b8ab40b50206e4] In the event that significant effects of noise or vibration are identified on receptors SEL16 and SEL17 as shown within the Noise and Vibration Figures (Document 5.4.14), the scheme referred to in paragraph (1) must include mitigation measures to reduce the significant effects as far as practicable.
 
-(4) The construction works for that part of Work No. 10 which affects the Travellers’ Encampment must be carried out in accordance with the approved scheme referred to in paragraph[^key-80304064ff0cf23a832acc33966ea6b3] above, unless otherwise agreed with the relevant planning authority.
+(4) The construction works for that part of Work No. 10 which affects the Travellers’ Encampment must be carried out in accordance with the approved scheme referred to in paragraph[^c-80304064ff0cf23a832acc33966ea6b3] above, unless otherwise agreed with the relevant planning authority.
 
 ## Annotations
 
-[^key-ac23f78f573cf227ef702e9b4eb12809]: Commencement: Sch. 3 para. 1 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-ac23f78f573cf227ef702e9b4eb12809]: Commencement: Sch. 3 para. 1 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-7fedcd8845598caa2f4d695358806f6f]: Commencement: Sch. 3 para. 2 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-7fedcd8845598caa2f4d695358806f6f]: Commencement: Sch. 3 para. 2 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-930d88f95bf66f9a81557b6756e9d726]: Textual amendment: Words in [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/uksi/2024/393/schedule/3/paragraph/2/2) substituted (12.6.2024) by [The National Grid (Yorkshire Green Energy Enablement Project) (Corrections) Order 2024 (S.I. 2024/811)](https://www.legislation.gov.uk/uksi/2024/811), [art. 1](https://www.legislation.gov.uk/uksi/2024/811/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/811/schedule/1)
+[^c-930d88f95bf66f9a81557b6756e9d726]: Textual amendment: Words in [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/uksi/2024/393/schedule/3/paragraph/2/2) substituted (12.6.2024) by [The National Grid (Yorkshire Green Energy Enablement Project) (Corrections) Order 2024 (S.I. 2024/811)](https://www.legislation.gov.uk/uksi/2024/811), [art. 1](https://www.legislation.gov.uk/uksi/2024/811/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/811/schedule/1)
 
-[^key-037405a6c147dcb4444d1383de15e7d0]: Textual amendment: Words in [Sch. 3 para. 2(3)](https://www.legislation.gov.uk/uksi/2024/393/schedule/3/paragraph/2/3) substituted (12.6.2024) by [The National Grid (Yorkshire Green Energy Enablement Project) (Corrections) Order 2024 (S.I. 2024/811)](https://www.legislation.gov.uk/uksi/2024/811), [art. 1](https://www.legislation.gov.uk/uksi/2024/811/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/811/schedule/1)
+[^c-037405a6c147dcb4444d1383de15e7d0]: Textual amendment: Words in [Sch. 3 para. 2(3)](https://www.legislation.gov.uk/uksi/2024/393/schedule/3/paragraph/2/3) substituted (12.6.2024) by [The National Grid (Yorkshire Green Energy Enablement Project) (Corrections) Order 2024 (S.I. 2024/811)](https://www.legislation.gov.uk/uksi/2024/811), [art. 1](https://www.legislation.gov.uk/uksi/2024/811/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/811/schedule/1)
 
-[^key-2e7cb3dd757256f864c59ec41f22c443]: Commencement: Sch. 3 para. 3 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-2e7cb3dd757256f864c59ec41f22c443]: Commencement: Sch. 3 para. 3 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-1325dbcacfc80e1cc61f8e5c713b45a1]: Commencement: Sch. 3 para. 4 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-1325dbcacfc80e1cc61f8e5c713b45a1]: Commencement: Sch. 3 para. 4 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-f07a99af011db3eaee15c2e965f7a893]: Commencement: Sch. 3 para. 5 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-f07a99af011db3eaee15c2e965f7a893]: Commencement: Sch. 3 para. 5 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-109df3dfb1abc10d97b6d519848ce4fc]: Commencement: Sch. 3 para. 6 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-109df3dfb1abc10d97b6d519848ce4fc]: Commencement: Sch. 3 para. 6 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-ff77987f04fdb223c973459910e90bc3]: Commencement: Sch. 3 para. 7 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-ff77987f04fdb223c973459910e90bc3]: Commencement: Sch. 3 para. 7 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-c18969d37b392660ddbfbb774d885c76]: Commencement: Sch. 3 para. 8 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-c18969d37b392660ddbfbb774d885c76]: Commencement: Sch. 3 para. 8 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-878a97646ffce659979d50289c491a2f]: Commencement: Sch. 3 para. 9 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-878a97646ffce659979d50289c491a2f]: Commencement: Sch. 3 para. 9 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-830147a5d56835716136a2536ab2135a]: Commencement: Sch. 3 para. 10 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-830147a5d56835716136a2536ab2135a]: Commencement: Sch. 3 para. 10 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-213493ec63cdc9c8d01f6177803d0068]: Textual amendment: Words in [Sch. 3 para. 10(1)](https://www.legislation.gov.uk/uksi/2024/393/schedule/3/paragraph/10/1) inserted (12.6.2024) by [The National Grid (Yorkshire Green Energy Enablement Project) (Corrections) Order 2024 (S.I. 2024/811)](https://www.legislation.gov.uk/uksi/2024/811), [art. 1](https://www.legislation.gov.uk/uksi/2024/811/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/811/schedule/1)
+[^c-213493ec63cdc9c8d01f6177803d0068]: Textual amendment: Words in [Sch. 3 para. 10(1)](https://www.legislation.gov.uk/uksi/2024/393/schedule/3/paragraph/10/1) inserted (12.6.2024) by [The National Grid (Yorkshire Green Energy Enablement Project) (Corrections) Order 2024 (S.I. 2024/811)](https://www.legislation.gov.uk/uksi/2024/811), [art. 1](https://www.legislation.gov.uk/uksi/2024/811/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/811/schedule/1)
 
-[^key-8004311d0f94eb414af97b09924f6f87]: Textual amendment: Words in [Sch. 3 para. 10(2)](https://www.legislation.gov.uk/uksi/2024/393/schedule/3/paragraph/10/2) inserted (12.6.2024) by [The National Grid (Yorkshire Green Energy Enablement Project) (Corrections) Order 2024 (S.I. 2024/811)](https://www.legislation.gov.uk/uksi/2024/811), [art. 1](https://www.legislation.gov.uk/uksi/2024/811/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/811/schedule/1)
+[^c-8004311d0f94eb414af97b09924f6f87]: Textual amendment: Words in [Sch. 3 para. 10(2)](https://www.legislation.gov.uk/uksi/2024/393/schedule/3/paragraph/10/2) inserted (12.6.2024) by [The National Grid (Yorkshire Green Energy Enablement Project) (Corrections) Order 2024 (S.I. 2024/811)](https://www.legislation.gov.uk/uksi/2024/811), [art. 1](https://www.legislation.gov.uk/uksi/2024/811/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/811/schedule/1)
 
-[^key-03b9261c561a0993ddf8c34f0e74b377]: Commencement: Sch. 3 para. 11 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-03b9261c561a0993ddf8c34f0e74b377]: Commencement: Sch. 3 para. 11 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-cf63f9317122e80ea20ee1908af86eb2]: Commencement: Sch. 3 para. 12 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-cf63f9317122e80ea20ee1908af86eb2]: Commencement: Sch. 3 para. 12 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
 [^f00081]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 
-[^key-7495bac44cf75e1c29a9d8dcee79b6b5]: Commencement: Sch. 3 para. 13 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-7495bac44cf75e1c29a9d8dcee79b6b5]: Commencement: Sch. 3 para. 13 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-c5a358b829ab74523d2c6595e9fa90ad]: Commencement: Sch. 3 para. 14 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-c5a358b829ab74523d2c6595e9fa90ad]: Commencement: Sch. 3 para. 14 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-dd145692084ce31376a95d28a1aadee2]: Commencement: Sch. 3 para. 15 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-dd145692084ce31376a95d28a1aadee2]: Commencement: Sch. 3 para. 15 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-f9c4370881eb82f6e7542e4ebb798cba]: Commencement: Sch. 3 para. 16 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-f9c4370881eb82f6e7542e4ebb798cba]: Commencement: Sch. 3 para. 16 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-d0f5565b68558c36b506067709d47a8f]: Commencement: Sch. 3 para. 17 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-d0f5565b68558c36b506067709d47a8f]: Commencement: Sch. 3 para. 17 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-fee9c100acd496b712bedca687aad635]: Commencement: Sch. 3 para. 18 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-fee9c100acd496b712bedca687aad635]: Commencement: Sch. 3 para. 18 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-e344cbb152aa27a15c9a0de2288ae946]: Textual amendment: Words in [Sch. 3 para. 18(2)](https://www.legislation.gov.uk/uksi/2024/393/schedule/3/paragraph/18/2) substituted (12.6.2024) by [The National Grid (Yorkshire Green Energy Enablement Project) (Corrections) Order 2024 (S.I. 2024/811)](https://www.legislation.gov.uk/uksi/2024/811), [art. 1](https://www.legislation.gov.uk/uksi/2024/811/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/811/schedule/1)
+[^c-e344cbb152aa27a15c9a0de2288ae946]: Textual amendment: Words in [Sch. 3 para. 18(2)](https://www.legislation.gov.uk/uksi/2024/393/schedule/3/paragraph/18/2) substituted (12.6.2024) by [The National Grid (Yorkshire Green Energy Enablement Project) (Corrections) Order 2024 (S.I. 2024/811)](https://www.legislation.gov.uk/uksi/2024/811), [art. 1](https://www.legislation.gov.uk/uksi/2024/811/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/811/schedule/1)
 
-[^key-532c486e6c3a2384d56e9722526772a1]: Textual amendment: Words in [Sch. 3 para. 18(3)](https://www.legislation.gov.uk/uksi/2024/393/schedule/3/paragraph/18/2) substituted (12.6.2024) by [The National Grid (Yorkshire Green Energy Enablement Project) (Corrections) Order 2024 (S.I. 2024/811)](https://www.legislation.gov.uk/uksi/2024/811), [art. 1](https://www.legislation.gov.uk/uksi/2024/811/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/811/schedule/1)
+[^c-532c486e6c3a2384d56e9722526772a1]: Textual amendment: Words in [Sch. 3 para. 18(3)](https://www.legislation.gov.uk/uksi/2024/393/schedule/3/paragraph/18/2) substituted (12.6.2024) by [The National Grid (Yorkshire Green Energy Enablement Project) (Corrections) Order 2024 (S.I. 2024/811)](https://www.legislation.gov.uk/uksi/2024/811), [art. 1](https://www.legislation.gov.uk/uksi/2024/811/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/811/schedule/1)
 
-[^key-df75b41df8574cbb33a0fb68d02dd3cf]: Commencement: Sch. 3 para. 19 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-df75b41df8574cbb33a0fb68d02dd3cf]: Commencement: Sch. 3 para. 19 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-889ef0ae056d5af8a66d92dd7635d644]: Textual amendment: Words in [Sch. 3 para. 19(2)](https://www.legislation.gov.uk/uksi/2024/393/schedule/3/paragraph/19/2) substituted (12.6.2024) by [The National Grid (Yorkshire Green Energy Enablement Project) (Corrections) Order 2024 (S.I. 2024/811)](https://www.legislation.gov.uk/uksi/2024/811), [art. 1](https://www.legislation.gov.uk/uksi/2024/811/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/811/schedule/1)
+[^c-889ef0ae056d5af8a66d92dd7635d644]: Textual amendment: Words in [Sch. 3 para. 19(2)](https://www.legislation.gov.uk/uksi/2024/393/schedule/3/paragraph/19/2) substituted (12.6.2024) by [The National Grid (Yorkshire Green Energy Enablement Project) (Corrections) Order 2024 (S.I. 2024/811)](https://www.legislation.gov.uk/uksi/2024/811), [art. 1](https://www.legislation.gov.uk/uksi/2024/811/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/811/schedule/1)
 
-[^key-88f5b0456bec8de541b8ab40b50206e4]: Textual amendment: [Sch. 3 para. 19(3)](https://www.legislation.gov.uk/uksi/2024/393/schedule/3/paragraph/19/3) substituted (12.6.2024) by [The National Grid (Yorkshire Green Energy Enablement Project) (Corrections) Order 2024 (S.I. 2024/811)](https://www.legislation.gov.uk/uksi/2024/811), [art. 1](https://www.legislation.gov.uk/uksi/2024/811/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/811/schedule/1)
+[^c-88f5b0456bec8de541b8ab40b50206e4]: Textual amendment: [Sch. 3 para. 19(3)](https://www.legislation.gov.uk/uksi/2024/393/schedule/3/paragraph/19/3) substituted (12.6.2024) by [The National Grid (Yorkshire Green Energy Enablement Project) (Corrections) Order 2024 (S.I. 2024/811)](https://www.legislation.gov.uk/uksi/2024/811), [art. 1](https://www.legislation.gov.uk/uksi/2024/811/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/811/schedule/1)
 
-[^key-80304064ff0cf23a832acc33966ea6b3]: Textual amendment: Words in [Sch. 3 para. 19(4)](https://www.legislation.gov.uk/uksi/2024/393/schedule/3/paragraph/19/4) substituted (12.6.2024) by [The National Grid (Yorkshire Green Energy Enablement Project) (Corrections) Order 2024 (S.I. 2024/811)](https://www.legislation.gov.uk/uksi/2024/811), [art. 1](https://www.legislation.gov.uk/uksi/2024/811/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/811/schedule/1)
+[^c-80304064ff0cf23a832acc33966ea6b3]: Textual amendment: Words in [Sch. 3 para. 19(4)](https://www.legislation.gov.uk/uksi/2024/393/schedule/3/paragraph/19/4) substituted (12.6.2024) by [The National Grid (Yorkshire Green Energy Enablement Project) (Corrections) Order 2024 (S.I. 2024/811)](https://www.legislation.gov.uk/uksi/2024/811), [art. 1](https://www.legislation.gov.uk/uksi/2024/811/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/811/schedule/1)

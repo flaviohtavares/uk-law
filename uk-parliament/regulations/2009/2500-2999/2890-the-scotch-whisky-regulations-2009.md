@@ -99,7 +99,7 @@ Accordingly, the Secretary of State makes the following Regulations.
 - “Single Grain Scotch Whisky” means a Scotch Whisky that has been distilled at a single distillery except—
   - (a) Single Malt Scotch Whisky; or
   - (b) a Blended Scotch Whisky;
-- “Blended Malt Scotch Whisky” means a blend of two or more Single Malt Scotch Whiskies distilled at more than one distillery, or a blend of single malt whisky distillates produced in accordance with the requirements of paragraph (1)(a) and (b) and to which paragraph (1)(c) to (i) will subsequently apply[^key-c79e79b88c796e54e1f97f2dc023721b];
+- “Blended Malt Scotch Whisky” means a blend of two or more Single Malt Scotch Whiskies distilled at more than one distillery, or a blend of single malt whisky distillates produced in accordance with the requirements of paragraph (1)(a) and (b) and to which paragraph (1)(c) to (i) will subsequently apply[^c-c79e79b88c796e54e1f97f2dc023721b];
 - “Blended Grain Scotch Whisky” means a blend of two or more Single Grain Scotch Whiskies that have been distilled at more than one distillery; and
 - “Blended Scotch Whisky” means a blend of one or more Single Malt Scotch Whiskies with one or more Single Grain Scotch Whiskies.
 
@@ -134,7 +134,7 @@ Accordingly, the Secretary of State makes the following Regulations.
 - “penalty” means the amount specified in a penalty notice;
 - “penalty notice” means a notice offering the opportunity, by payment, in accordance with these Regulations, of a specified amount, to discharge any liability to be convicted of the penalty offence to which the notice relates;
 - “penalty offence” means an offence for which a penalty notice may be given under regulation 32;
-- “permitted place”, in relation to a place where a whisky has been matured in Scotland, means any place in Scotland to which a whisky (or whisky distillate) that had previously been matured in an excise warehouse in Scotland is moved for a purpose mentioned in sub-paragraph (a), (b), (c), (d) or (f) of regulation 16(2) of the Excise Warehousing (Etc.) Regulations 1988[^f00010] , or any premises in respect of which a person is approved under section 82 of the Finance (No. 2) Act 2023[^key-793059d95e33d52b14e26d4aaeb64d06];
+- “permitted place”, in relation to a place where a whisky has been matured in Scotland, means any place in Scotland to which a whisky (or whisky distillate) that had previously been matured in an excise warehouse in Scotland is moved for a purpose mentioned in sub-paragraph (a), (b), (c), (d) or (f) of regulation 16(2) of the Excise Warehousing (Etc.) Regulations 1988[^f00010] , or any premises in respect of which a person is approved under section 82 of the Finance (No. 2) Act 2023[^c-793059d95e33d52b14e26d4aaeb64d06];
 - “port health authority” means—
   - (a) in relation to the London port health district (within the meaning given by section 7(1) of the Public Health (Control of Disease) Act 1984[^f00011]), the Common Council of the City of London; and
   - (b) in relation to any port health district constituted by order under section 2(3) of that Act, the port health authority for that district;
@@ -143,7 +143,7 @@ Accordingly, the Secretary of State makes the following Regulations.
 - “protected locality” means a locality mentioned in regulation 10(5);
 - “protected region” means a region mentioned in regulation 10(6);
 - “[Regulation (EC) No 110/2008](https://www.legislation.gov.uk/european/regulation/2008/0110)” means [Regulation (EC) No 110/2008](https://www.legislation.gov.uk/european/regulation/2008/0110)[^f00012] of the European Parliament and of the Council on the definition, description, presentation, labelling and the protection of geographical indications of spirit drinks and repealing Council Regulation [(EEC) No 1576/89](https://www.legislation.gov.uk/european/regulation/1989/1576);
-- “[^key-d0a3c7cd81ab0f2ac1c6da6466343f6b][Regulation (EU) 2019/787](https://www.legislation.gov.uk/eur/2019/787)” means [Regulation (EU) 2019/787](https://www.legislation.gov.uk/eur/2019/787) of the European Parliament and of the Council on the definition, description, presentation and labelling of spirit drinks, the use of the names of spirit drinks in the presentation and labelling of other foodstuffs, the protection of geographical indications for spirit drinks, the use of ethyl alcohol and distillates of agricultural origin in alcoholic beverages, and repealing Regulation [(EC) No 110/2008](https://www.legislation.gov.uk/european/regulation/2008/0110);
+- “[^c-d0a3c7cd81ab0f2ac1c6da6466343f6b][Regulation (EU) 2019/787](https://www.legislation.gov.uk/eur/2019/787)” means [Regulation (EU) 2019/787](https://www.legislation.gov.uk/eur/2019/787) of the European Parliament and of the Council on the definition, description, presentation and labelling of spirit drinks, the use of the names of spirit drinks in the presentation and labelling of other foodstuffs, the protection of geographical indications for spirit drinks, the use of ethyl alcohol and distillates of agricultural origin in alcoholic beverages, and repealing Regulation [(EC) No 110/2008](https://www.legislation.gov.uk/european/regulation/2008/0110);
 - “relevant court” means—
   - (a) in relation to England, Northern Ireland and Wales, a magistrates’ court; and
   - (b) in relation to Scotland, a sheriff court;
@@ -190,7 +190,7 @@ Accordingly, the Secretary of State makes the following Regulations.
 - (c) Blended Grain Scotch Whisky; or
 - (d) Blended Scotch Whisky.
 
-(2)[^key-a4096c1379a5e0bb449c110717e58788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a4096c1379a5e0bb449c110717e58788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) On and after 23rd November 2012 a person must not move any Single Malt Scotch Whisky from Scotland to another country except in a bottle (made of any inert material) that is labelled for retail sale.
 
@@ -323,7 +323,7 @@ A person must not label, package, sell, advertise or promote any Scotch Whisky i
 
 (2) It is for a person seeking to rely on paragraph (1) in relation to any whisky or whisky-based drink to prove that the drink was labelled or packaged on or before 22nd November 2011.
 
-## 14. Transitional provisions relating to advertising and promotion[^key-7c99c3c10fc7a681cf856cb8f0985957]
+## 14. Transitional provisions relating to advertising and promotion[^c-7c99c3c10fc7a681cf856cb8f0985957]
 
 *Extent: E+W+S+N.I.*
 
@@ -537,7 +537,7 @@ Each enforcement authority must give such assistance and information to any othe
 
 *Extent: E+W+S+N.I.*
 
-(1) If an authorised officer (“O”) has reasonable grounds for believing that any person (“P”) is failing to comply with regulation 5, 6, 7(1) or (3)[^key-b9c6827f2da5d1c862bc1b69c92e633f], 8(6) or (7), 9(6), 10(4), 11 or 12, O may give P a notice (“an improvement notice”) that—
+(1) If an authorised officer (“O”) has reasonable grounds for believing that any person (“P”) is failing to comply with regulation 5, 6, 7(1) or (3)[^c-b9c6827f2da5d1c862bc1b69c92e633f], 8(6) or (7), 9(6), 10(4), 11 or 12, O may give P a notice (“an improvement notice”) that—
 
 - (a) states O’s grounds for believing this;
 - (b) specifies the matter that constitutes the failure to comply with these Regulations;
@@ -604,7 +604,7 @@ Each enforcement authority must give such assistance and information to any othe
 
 *Extent: E+W+S+N.I.*
 
-A person is guilty of an offence if they contravene, or fail to comply with regulation 5, 6, 7(1) or (3)[^key-5810407b2bc51476997947eb3a3ca583], 8(6) or (7), 9(6), 10(4), 11, 12, 20(3), (4), (9) or (10), 22(2) or 26.
+A person is guilty of an offence if they contravene, or fail to comply with regulation 5, 6, 7(1) or (3)[^c-5810407b2bc51476997947eb3a3ca583], 8(6) or (7), 9(6), 10(4), 11, 12, 20(3), (4), (9) or (10), 22(2) or 26.
 
 ## 28. Fines
 
@@ -655,7 +655,7 @@ Where the commission by one person (“A”) of an offence under these Regulatio
 
 *Extent: E+W+S+N.I.*
 
-An enforcement authority that has reason to believe that a person has committed an offence under regulation 27 (“the relevant offence”) in relation to a contravention or failure to comply with regulation 5, 6, 7(1) or (3)[^key-d4ffbf577f67be2c911cacfbb9e8b6bb], 8(6) or (7), 9(6), 10(4), 11, 12, 20(3), (4), (9) or (10) or 22(2) may give a penalty notice to that person.
+An enforcement authority that has reason to believe that a person has committed an offence under regulation 27 (“the relevant offence”) in relation to a contravention or failure to comply with regulation 5, 6, 7(1) or (3)[^c-d4ffbf577f67be2c911cacfbb9e8b6bb], 8(6) or (7), 9(6), 10(4), 11, 12, 20(3), (4), (9) or (10) or 22(2) may give a penalty notice to that person.
 
 ## 33. Contents and form of penalty notice
 
@@ -722,11 +722,11 @@ Penalties paid to an enforcement authority must be paid into the Consolidated Fu
 
 *Extent: E+W+S+N.I.*
 
-(1) If the Court of Session is satisfied, on the application of a person mentioned in paragraph (4), that any person has contravened regulation 5, 6, 7(1) or (3)[^key-22d3dbe9b30fd94e17b1271a60fe0a00], 8(6) or (7), 9(6), 10(4), 11 or 12, in Scotland, the Court may grant an interdict prohibiting such contravention.
+(1) If the Court of Session is satisfied, on the application of a person mentioned in paragraph (4), that any person has contravened regulation 5, 6, 7(1) or (3)[^c-22d3dbe9b30fd94e17b1271a60fe0a00], 8(6) or (7), 9(6), 10(4), 11 or 12, in Scotland, the Court may grant an interdict prohibiting such contravention.
 
 (2) If the High Court is satisfied, on the application of a person mentioned in paragraph (4), that any person has contravened regulation 6, 8(6) or (7), 9(6), 10(4), 11 or 12 in England, Northern Ireland or Wales, the Court may grant an injunction prohibiting such contravention.
 
-(3) If the High Court is satisfied, on the application of a person mentioned in paragraph (4), that any person has contravened regulation 7(1) or (3)[^key-ec4579d96fbc01be0204f6664a65db24] in a case where regulation 7(4)(b) applies and the person arranging the movement of the whisky is in England, Northern Ireland or Wales, the Court may grant an injunction prohibiting such contravention.
+(3) If the High Court is satisfied, on the application of a person mentioned in paragraph (4), that any person has contravened regulation 7(1) or (3)[^c-ec4579d96fbc01be0204f6664a65db24] in a case where regulation 7(4)(b) applies and the person arranging the movement of the whisky is in England, Northern Ireland or Wales, the Court may grant an injunction prohibiting such contravention.
 
 (4) The persons are—
 
@@ -961,7 +961,7 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00006]: Footnote: [S.I. 1988/1852 (N.I. 19)](https://www.legislation.gov.uk/nisi/1988/1852).
 
-[^key-c79e79b88c796e54e1f97f2dc023721b]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2009/2890/regulation/3/2) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [37](https://www.legislation.gov.uk/uksi/2018/942/regulation/37)
+[^c-c79e79b88c796e54e1f97f2dc023721b]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2009/2890/regulation/3/2) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [37](https://www.legislation.gov.uk/uksi/2018/942/regulation/37)
 
 [^f00007]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2), to which there are amendments not relevant to these Regulations.
 
@@ -971,15 +971,15 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00010]: Footnote: [S.I. 1988/809](https://www.legislation.gov.uk/uksi/1988/809).
 
-[^key-793059d95e33d52b14e26d4aaeb64d06]: Textual amendment: Words in reg. 4(1) inserted (1.2.2025) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Consequential Amendments and Modifications, Revocations, Savings and Transitional Arrangements) Regulations 2025 (S.I. 2025/96)](https://www.legislation.gov.uk/uksi/2025/96), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/96/regulation/1/2), [Sch. 2 para. 8(2)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/8/2)
+[^c-793059d95e33d52b14e26d4aaeb64d06]: Textual amendment: Words in reg. 4(1) inserted (1.2.2025) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Consequential Amendments and Modifications, Revocations, Savings and Transitional Arrangements) Regulations 2025 (S.I. 2025/96)](https://www.legislation.gov.uk/uksi/2025/96), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/96/regulation/1/2), [Sch. 2 para. 8(2)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/8/2)
 
 [^f00011]: Footnote: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22).
 
 [^f00012]: Footnote: OJ L 39, 13.2.2008, p 16, as last amended by Regulation [(EC) No 1334/2008](https://www.legislation.gov.uk/european/regulation/2008/1334) of the European Parliament and of the Council (OJ No L 354, 31.12.2008, p 34).
 
-[^key-d0a3c7cd81ab0f2ac1c6da6466343f6b]: Textual amendment: Words in reg. 4 inserted (31.10.2019) by [The Spirit Drinks and Scotch Whisky (Amendment) Regulations 2019 (S.I. 2019/1289)](https://www.legislation.gov.uk/uksi/2019/1289), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1289/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2019/1289/regulation/3/2/a)
+[^c-d0a3c7cd81ab0f2ac1c6da6466343f6b]: Textual amendment: Words in reg. 4 inserted (31.10.2019) by [The Spirit Drinks and Scotch Whisky (Amendment) Regulations 2019 (S.I. 2019/1289)](https://www.legislation.gov.uk/uksi/2019/1289), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1289/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2019/1289/regulation/3/2/a)
 
-[^key-a4096c1379a5e0bb449c110717e58788]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2009/2890/regulation/7/2) omitted (31.10.2019) by virtue of [The Spirit Drinks and Scotch Whisky (Amendment) Regulations 2019 (S.I. 2019/1289)](https://www.legislation.gov.uk/uksi/2019/1289), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1289/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/1289/regulation/3/3)
+[^c-a4096c1379a5e0bb449c110717e58788]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2009/2890/regulation/7/2) omitted (31.10.2019) by virtue of [The Spirit Drinks and Scotch Whisky (Amendment) Regulations 2019 (S.I. 2019/1289)](https://www.legislation.gov.uk/uksi/2019/1289), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1289/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/1289/regulation/3/3)
 
 [^f00013]: Footnote: [S.S.I. 2006/378](https://www.legislation.gov.uk/ssi/2006/378).
 
@@ -987,7 +987,7 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00015]: Footnote: [S.S.I. 2006/481](https://www.legislation.gov.uk/ssi/2006/481).
 
-[^key-7c99c3c10fc7a681cf856cb8f0985957]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2009/2890/regulation/14) omitted (31.10.2019) by virtue of [The Spirit Drinks and Scotch Whisky (Amendment) Regulations 2019 (S.I. 2019/1289)](https://www.legislation.gov.uk/uksi/2019/1289), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1289/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2019/1289/regulation/3/4)
+[^c-7c99c3c10fc7a681cf856cb8f0985957]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2009/2890/regulation/14) omitted (31.10.2019) by virtue of [The Spirit Drinks and Scotch Whisky (Amendment) Regulations 2019 (S.I. 2019/1289)](https://www.legislation.gov.uk/uksi/2019/1289), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1289/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2019/1289/regulation/3/4)
 
 [^f00016]: Footnote: [S.I. 2008/3206](https://www.legislation.gov.uk/uksi/2008/3206).
 
@@ -995,14 +995,14 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00018]: Footnote: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
 
-[^key-b9c6827f2da5d1c862bc1b69c92e633f]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/uksi/2009/2890/regulation/22) substituted (31.10.2019) by [The Spirit Drinks and Scotch Whisky (Amendment) Regulations 2019 (S.I. 2019/1289)](https://www.legislation.gov.uk/uksi/2019/1289), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1289/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2019/1289/regulation/3/5)
+[^c-b9c6827f2da5d1c862bc1b69c92e633f]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/uksi/2009/2890/regulation/22) substituted (31.10.2019) by [The Spirit Drinks and Scotch Whisky (Amendment) Regulations 2019 (S.I. 2019/1289)](https://www.legislation.gov.uk/uksi/2019/1289), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1289/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2019/1289/regulation/3/5)
 
-[^key-5810407b2bc51476997947eb3a3ca583]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/uksi/2009/2890/regulation/27) substituted (31.10.2019) by [The Spirit Drinks and Scotch Whisky (Amendment) Regulations 2019 (S.I. 2019/1289)](https://www.legislation.gov.uk/uksi/2019/1289), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1289/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2019/1289/regulation/3/6)
+[^c-5810407b2bc51476997947eb3a3ca583]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/uksi/2009/2890/regulation/27) substituted (31.10.2019) by [The Spirit Drinks and Scotch Whisky (Amendment) Regulations 2019 (S.I. 2019/1289)](https://www.legislation.gov.uk/uksi/2019/1289), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1289/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2019/1289/regulation/3/6)
 
-[^key-d4ffbf577f67be2c911cacfbb9e8b6bb]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/uksi/2009/2890/regulation/32) substituted (31.10.2019) by [The Spirit Drinks and Scotch Whisky (Amendment) Regulations 2019 (S.I. 2019/1289)](https://www.legislation.gov.uk/uksi/2019/1289), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1289/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2019/1289/regulation/3/7)
+[^c-d4ffbf577f67be2c911cacfbb9e8b6bb]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/uksi/2009/2890/regulation/32) substituted (31.10.2019) by [The Spirit Drinks and Scotch Whisky (Amendment) Regulations 2019 (S.I. 2019/1289)](https://www.legislation.gov.uk/uksi/2019/1289), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1289/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2019/1289/regulation/3/7)
 
-[^key-22d3dbe9b30fd94e17b1271a60fe0a00]: Textual amendment: Words in [reg. 40(1)](https://www.legislation.gov.uk/uksi/2009/2890/regulation/40/1) substituted (31.10.2019) by [The Spirit Drinks and Scotch Whisky (Amendment) Regulations 2019 (S.I. 2019/1289)](https://www.legislation.gov.uk/uksi/2019/1289), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1289/regulation/1), [3(8)](https://www.legislation.gov.uk/uksi/2019/1289/regulation/3/8)
+[^c-22d3dbe9b30fd94e17b1271a60fe0a00]: Textual amendment: Words in [reg. 40(1)](https://www.legislation.gov.uk/uksi/2009/2890/regulation/40/1) substituted (31.10.2019) by [The Spirit Drinks and Scotch Whisky (Amendment) Regulations 2019 (S.I. 2019/1289)](https://www.legislation.gov.uk/uksi/2019/1289), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1289/regulation/1), [3(8)](https://www.legislation.gov.uk/uksi/2019/1289/regulation/3/8)
 
-[^key-ec4579d96fbc01be0204f6664a65db24]: Textual amendment: Words in [reg. 40(3)](https://www.legislation.gov.uk/uksi/2009/2890/regulation/40/3) substituted (31.10.2019) by [The Spirit Drinks and Scotch Whisky (Amendment) Regulations 2019 (S.I. 2019/1289)](https://www.legislation.gov.uk/uksi/2019/1289), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1289/regulation/1), [3(8)](https://www.legislation.gov.uk/uksi/2019/1289/regulation/3/8)
+[^c-ec4579d96fbc01be0204f6664a65db24]: Textual amendment: Words in [reg. 40(3)](https://www.legislation.gov.uk/uksi/2009/2890/regulation/40/3) substituted (31.10.2019) by [The Spirit Drinks and Scotch Whisky (Amendment) Regulations 2019 (S.I. 2019/1289)](https://www.legislation.gov.uk/uksi/2019/1289), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1289/regulation/1), [3(8)](https://www.legislation.gov.uk/uksi/2019/1289/regulation/3/8)
 
 [^f00019]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

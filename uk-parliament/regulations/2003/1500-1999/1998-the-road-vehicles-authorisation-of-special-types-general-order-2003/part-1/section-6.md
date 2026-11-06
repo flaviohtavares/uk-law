@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Interpretation: forward or rearward projections of loads and their measurement[^key-3f114fb80019cbe31c20a1b4b637c1d3]
+## 6. Interpretation: forward or rearward projections of loads and their measurement[^c-3f114fb80019cbe31c20a1b4b637c1d3]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f114fb80019cbe31c20a1b4b637c1d3]: Commencement: Art. 6 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-3f114fb80019cbe31c20a1b4b637c1d3]: Commencement: Art. 6 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

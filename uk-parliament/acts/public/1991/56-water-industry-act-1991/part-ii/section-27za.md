@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27ZA. Power to require information for purpose of monitoring[^key-7f494d51ef2404d04a236a16fbbdb705]
+## 27ZA. Power to require information for purpose of monitoring[^c-7f494d51ef2404d04a236a16fbbdb705]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f494d51ef2404d04a236a16fbbdb705]: Textual amendment: [S. 27ZA](https://www.legislation.gov.uk/ukpga/1991/56/section/27ZA) inserted (10.5.2022 for specified purposes) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 85](https://www.legislation.gov.uk/ukpga/2021/30/section/85), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)[(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/4) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/518/regulation/1/2), [2(e)](https://www.legislation.gov.uk/uksi/2022/518/regulation/2/e)
+[^c-7f494d51ef2404d04a236a16fbbdb705]: Textual amendment: [S. 27ZA](https://www.legislation.gov.uk/ukpga/1991/56/section/27ZA) inserted (10.5.2022 for specified purposes) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 85](https://www.legislation.gov.uk/ukpga/2021/30/section/85), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)[(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/4) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/518/regulation/1/2), [2(e)](https://www.legislation.gov.uk/uksi/2022/518/regulation/2/e)

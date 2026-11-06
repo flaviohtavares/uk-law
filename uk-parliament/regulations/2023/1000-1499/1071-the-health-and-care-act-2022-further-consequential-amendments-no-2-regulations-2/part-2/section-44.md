@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Amendment of the National Health Service (General Dental Services) (Scotland) Regulations 2010[^key-74aedbd7b7f2542c9fcfbdc35820b4c4]
+## 44. Amendment of the National Health Service (General Dental Services) (Scotland) Regulations 2010[^c-74aedbd7b7f2542c9fcfbdc35820b4c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-74aedbd7b7f2542c9fcfbdc35820b4c4]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2023/1071/regulation/44) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-74aedbd7b7f2542c9fcfbdc35820b4c4]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2023/1071/regulation/44) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00035]: Footnote: [S.S.I. 2010/208](https://www.legislation.gov.uk/ssi/2010/208), amended by [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235); there are other amending instruments but none is relevant.

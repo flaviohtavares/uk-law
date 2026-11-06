@@ -33,9 +33,9 @@ A measure passed by the National Assembly of the Church of England. To provide f
 
 \[8th July 1931\]
 
-[^c8878731]Whereas theChannel Islands are perpetually annexed and united to the Diocese of Winchester and have no direct representation in the House of Laity or in the Diocesan Conference of the Diocese of Winchester, and it is expedient that they should have such direct representation, and that the procedure for effecting the same should be adapted to the special conditions prevailing in those islands:[^key-77387f45be14214599c83c5d5a05f472][^key-e3147b4c70b488f9c3012f1c1d7fd335]
+[^c8878731]Whereas theChannel Islands are perpetually annexed and united to the Diocese of Winchester and have no direct representation in the House of Laity or in the Diocesan Conference of the Diocese of Winchester, and it is expedient that they should have such direct representation, and that the procedure for effecting the same should be adapted to the special conditions prevailing in those islands:[^c-77387f45be14214599c83c5d5a05f472][^c-e3147b4c70b488f9c3012f1c1d7fd335]
 
-## 1. Interpretation.[^key-6cf6ede1286a06c76efe2f8d252edb46][^key-28782e1dcfb98d52e74f5b51d8b9f166]
+## 1. Interpretation.[^c-6cf6ede1286a06c76efe2f8d252edb46][^c-28782e1dcfb98d52e74f5b51d8b9f166]
 
 In this Measure—
 
@@ -56,19 +56,19 @@ The Deanery Synod[^c8878821] of each Island shall—
 - (b) elect representatives both clerical and lay to the Diocesan Synod[^c8878841] in accordance with directions given by that conference; and
 - (c) elect, through its lay members, one member of the House of Laity.
 
-## 4. Qualification of electors.[^key-6dbf95a8136567dc45fbd07f3ca0ea75][^key-ee057a1249c89f9aec8284a876b9abee][^c8878851]
+## 4. Qualification of electors.[^c-6dbf95a8136567dc45fbd07f3ca0ea75][^c-ee057a1249c89f9aec8284a876b9abee][^c8878851]
 
 A lay person shall be entitled to have his name entered on the church electoral roll of either Island, if he—
 
 - (a) is baptised;
-- (b)[^key-835c3bb53f7fe299efe32847e281ca84] is either—
+- (b)[^c-835c3bb53f7fe299efe32847e281ca84] is either—
   - (i) a member of the Church of England or of a Church in communion with it, or
   - (ii) a member of the Church of England and a member in good standing of a Church which is not in communion with it but subscribes to the doctrine of the Holy Trinity;
-- (c) is aged 16 or over[^key-0d1b2306b00dc8fe4fb1b0fed32694bb];
+- (c) is aged 16 or over[^c-0d1b2306b00dc8fe4fb1b0fed32694bb];
 - (d) is resident in the Island; and
 - (e) has signed the form of application for enrolment set out in the Schedule to this Measure.
 
-## 5. †Election of lay representatives on Decanal Conferences.[^key-08174740862da7f7823bb687f6535cad][^key-153f4d27b40bfe5f59d425eede00b6e2][^c8878861]
+## 5. †Election of lay representatives on Decanal Conferences.[^c-08174740862da7f7823bb687f6535cad][^c-153f4d27b40bfe5f59d425eede00b6e2][^c8878861]
 
 Lay representatives on the Deanery Synod[^c8878871] of each Island shall be elected annually, not later in the year than in Easter week or in the following week, by the persons whose names are entered upon the church electoral roll of that Island. The number of such representatives, the manner of their election, and the areas which they are to represent, shall be determined for each Island by the Deanery Synod.
 
@@ -84,9 +84,9 @@ Subject to the provisions of this Measure, the Deanery Synod[^c8878931] shall ha
 
 This Measure may be cited as the Channel Islands (Representation) Measure 1931.
 
-## SCHEDULE[^key-6f487ca343e7b341842a312edd30126a][^key-0f81cc6c9c23263407acc4e682d6bbe4]
+## SCHEDULE[^c-6f487ca343e7b341842a312edd30126a][^c-0f81cc6c9c23263407acc4e682d6bbe4]
 
-[^key-6f487ca343e7b341842a312edd30126a][^key-0f81cc6c9c23263407acc4e682d6bbe4]
+[^c-6f487ca343e7b341842a312edd30126a][^c-0f81cc6c9c23263407acc4e682d6bbe4]
 
 Application for Enrolment on Church Electoral Roll[^c8878951]
 
@@ -96,7 +96,7 @@ of (Full postal address)
 
 declare:—
 
-- (i)[^key-08be2c5210dcd6607c4800703eb4849d] I am baptised.
+- (i)[^c-08be2c5210dcd6607c4800703eb4849d] I am baptised.
 - (ii) I am a member of the Church of England
 
   or
@@ -121,13 +121,13 @@ Date
 
 [^c8878731]: Modification: Power to modify Act conferred by [Synodical Government Measure 1969 (No. 2)](https://www.legislation.gov.uk/ukcm/1969/2), [s. 9(5)](https://www.legislation.gov.uk/ukcm/1969/2/section/9/5)
 
-[^key-77387f45be14214599c83c5d5a05f472]: Modification: [Measure](https://www.legislation.gov.uk/ukcm/Geo5/21-22/5) modified (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Attachment of Jersey to the Diocese of Salisbury Order 2022 (S.I. 2022/867)](https://www.legislation.gov.uk/uksi/2022/867), [art. 4(4)](https://www.legislation.gov.uk/uksi/2022/867/article/4/4)
+[^c-77387f45be14214599c83c5d5a05f472]: Modification: [Measure](https://www.legislation.gov.uk/ukcm/Geo5/21-22/5) modified (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Attachment of Jersey to the Diocese of Salisbury Order 2022 (S.I. 2022/867)](https://www.legislation.gov.uk/uksi/2022/867), [art. 4(4)](https://www.legislation.gov.uk/uksi/2022/867/article/4/4)
 
-[^key-e3147b4c70b488f9c3012f1c1d7fd335]: Modification: [Measure](https://www.legislation.gov.uk/ukcm/Geo5/21-22/5) modified (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Channel Islands (Attachment of the Bailiwick of Guernsey to the Diocese of Salisbury) Order 2022 (S.I. 2022/1180)](https://www.legislation.gov.uk/uksi/2022/1180), [art. 6(5)](https://www.legislation.gov.uk/uksi/2022/1180/article/6/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/1180/article/3))
+[^c-e3147b4c70b488f9c3012f1c1d7fd335]: Modification: [Measure](https://www.legislation.gov.uk/ukcm/Geo5/21-22/5) modified (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Channel Islands (Attachment of the Bailiwick of Guernsey to the Diocese of Salisbury) Order 2022 (S.I. 2022/1180)](https://www.legislation.gov.uk/uksi/2022/1180), [art. 6(5)](https://www.legislation.gov.uk/uksi/2022/1180/article/6/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/1180/article/3))
 
-[^key-6cf6ede1286a06c76efe2f8d252edb46]: Modification: [S. 1](https://www.legislation.gov.uk/ukcm/Geo5/21-22/5/section/1) modified (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Attachment of Jersey to the Diocese of Salisbury Order 2022 (S.I. 2022/867)](https://www.legislation.gov.uk/uksi/2022/867), [art. 4(2)](https://www.legislation.gov.uk/uksi/2022/867/article/4/2)
+[^c-6cf6ede1286a06c76efe2f8d252edb46]: Modification: [S. 1](https://www.legislation.gov.uk/ukcm/Geo5/21-22/5/section/1) modified (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Attachment of Jersey to the Diocese of Salisbury Order 2022 (S.I. 2022/867)](https://www.legislation.gov.uk/uksi/2022/867), [art. 4(2)](https://www.legislation.gov.uk/uksi/2022/867/article/4/2)
 
-[^key-28782e1dcfb98d52e74f5b51d8b9f166]: Modification: [S. 1](https://www.legislation.gov.uk/ukcm/Geo5/21-22/5/section/1) modified (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Channel Islands (Attachment of the Bailiwick of Guernsey to the Diocese of Salisbury) Order 2022 (S.I. 2022/1180)](https://www.legislation.gov.uk/uksi/2022/1180), [art. 6(2)](https://www.legislation.gov.uk/uksi/2022/1180/article/6/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/1180/article/3))
+[^c-28782e1dcfb98d52e74f5b51d8b9f166]: Modification: [S. 1](https://www.legislation.gov.uk/ukcm/Geo5/21-22/5/section/1) modified (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Channel Islands (Attachment of the Bailiwick of Guernsey to the Diocese of Salisbury) Order 2022 (S.I. 2022/1180)](https://www.legislation.gov.uk/uksi/2022/1180), [art. 6(2)](https://www.legislation.gov.uk/uksi/2022/1180/article/6/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/1180/article/3))
 
 [^c8878741]: Textual amendment: Words substituted by virtue of [Synodical Government Measure 1969 (No. 2)](https://www.legislation.gov.uk/ukcm/1969/2), [s. 4(7)](https://www.legislation.gov.uk/ukcm/1969/2/section/4/7)
 
@@ -141,19 +141,19 @@ Date
 
 [^c8878841]: Textual amendment: Words substituted by virtue of [Synodical Government Measure 1969 (No. 2)](https://www.legislation.gov.uk/ukcm/1969/2), [s. 4(7)](https://www.legislation.gov.uk/ukcm/1969/2/section/4/7)
 
-[^key-6dbf95a8136567dc45fbd07f3ca0ea75]: Modification: [S. 4](https://www.legislation.gov.uk/ukcm/Geo5/21-22/5/section/4) modified (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Attachment of Jersey to the Diocese of Salisbury Order 2022 (S.I. 2022/867)](https://www.legislation.gov.uk/uksi/2022/867), [art. 4(5)(6)](https://www.legislation.gov.uk/uksi/2022/867/article/4/5)
+[^c-6dbf95a8136567dc45fbd07f3ca0ea75]: Modification: [S. 4](https://www.legislation.gov.uk/ukcm/Geo5/21-22/5/section/4) modified (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Attachment of Jersey to the Diocese of Salisbury Order 2022 (S.I. 2022/867)](https://www.legislation.gov.uk/uksi/2022/867), [art. 4(5)(6)](https://www.legislation.gov.uk/uksi/2022/867/article/4/5)
 
-[^key-ee057a1249c89f9aec8284a876b9abee]: Modification: [S. 4](https://www.legislation.gov.uk/ukcm/Geo5/21-22/5/section/4) modified (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Channel Islands (Attachment of the Bailiwick of Guernsey to the Diocese of Salisbury) Order 2022 (S.I. 2022/1180)](https://www.legislation.gov.uk/uksi/2022/1180), [art. 6(6)(7)](https://www.legislation.gov.uk/uksi/2022/1180/article/6/6) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/1180/article/3))
+[^c-ee057a1249c89f9aec8284a876b9abee]: Modification: [S. 4](https://www.legislation.gov.uk/ukcm/Geo5/21-22/5/section/4) modified (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Channel Islands (Attachment of the Bailiwick of Guernsey to the Diocese of Salisbury) Order 2022 (S.I. 2022/1180)](https://www.legislation.gov.uk/uksi/2022/1180), [art. 6(6)(7)](https://www.legislation.gov.uk/uksi/2022/1180/article/6/6) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/1180/article/3))
 
 [^c8878851]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukcm/Geo5/21-22/5/section/4) substituted by [S.I. 1970/1117](https://www.legislation.gov.uk/uksi/1970/1117)
 
-[^key-835c3bb53f7fe299efe32847e281ca84]: Textual amendment: [S. 4(b)](https://www.legislation.gov.uk/ukcm/Geo5/21-22/5/section/4/b) substituted (coming into force in accordance with S.I. 2022/1180, art. 4) by [Channel Islands Measure 2020 (No. 2)](https://www.legislation.gov.uk/ukcm/2020/2), [ss. 4(1)](https://www.legislation.gov.uk/ukcm/2020/2/section/4/1), [5(3)](https://www.legislation.gov.uk/ukcm/2020/2/section/5/3); [S.I. 2022/1180](https://www.legislation.gov.uk/uksi/2022/1180), [art. 4](https://www.legislation.gov.uk/uksi/2022/1180/article/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/1180/article/3))
+[^c-835c3bb53f7fe299efe32847e281ca84]: Textual amendment: [S. 4(b)](https://www.legislation.gov.uk/ukcm/Geo5/21-22/5/section/4/b) substituted (coming into force in accordance with S.I. 2022/1180, art. 4) by [Channel Islands Measure 2020 (No. 2)](https://www.legislation.gov.uk/ukcm/2020/2), [ss. 4(1)](https://www.legislation.gov.uk/ukcm/2020/2/section/4/1), [5(3)](https://www.legislation.gov.uk/ukcm/2020/2/section/5/3); [S.I. 2022/1180](https://www.legislation.gov.uk/uksi/2022/1180), [art. 4](https://www.legislation.gov.uk/uksi/2022/1180/article/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/1180/article/3))
 
-[^key-0d1b2306b00dc8fe4fb1b0fed32694bb]: Textual amendment: Words in [s. 4(c)](https://www.legislation.gov.uk/ukcm/Geo5/21-22/5/section/4/c) substituted (coming into force in accordance with S.I. 2022/1180, art. 4) by [Channel Islands Measure 2020 (No. 2)](https://www.legislation.gov.uk/ukcm/2020/2), [ss. 4(2)](https://www.legislation.gov.uk/ukcm/2020/2/section/4/2), [5(3)](https://www.legislation.gov.uk/ukcm/2020/2/section/5/3); [S.I. 2022/1180](https://www.legislation.gov.uk/uksi/2022/1180), [art. 4](https://www.legislation.gov.uk/uksi/2022/1180/article/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/1180/article/3))
+[^c-0d1b2306b00dc8fe4fb1b0fed32694bb]: Textual amendment: Words in [s. 4(c)](https://www.legislation.gov.uk/ukcm/Geo5/21-22/5/section/4/c) substituted (coming into force in accordance with S.I. 2022/1180, art. 4) by [Channel Islands Measure 2020 (No. 2)](https://www.legislation.gov.uk/ukcm/2020/2), [ss. 4(2)](https://www.legislation.gov.uk/ukcm/2020/2/section/4/2), [5(3)](https://www.legislation.gov.uk/ukcm/2020/2/section/5/3); [S.I. 2022/1180](https://www.legislation.gov.uk/uksi/2022/1180), [art. 4](https://www.legislation.gov.uk/uksi/2022/1180/article/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/1180/article/3))
 
-[^key-08174740862da7f7823bb687f6535cad]: Modification: [S. 5](https://www.legislation.gov.uk/ukcm/Geo5/21-22/5/section/5) modified (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Attachment of Jersey to the Diocese of Salisbury Order 2022 (S.I. 2022/867)](https://www.legislation.gov.uk/uksi/2022/867), [art. 4(7)](https://www.legislation.gov.uk/uksi/2022/867/article/4/7)
+[^c-08174740862da7f7823bb687f6535cad]: Modification: [S. 5](https://www.legislation.gov.uk/ukcm/Geo5/21-22/5/section/5) modified (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Attachment of Jersey to the Diocese of Salisbury Order 2022 (S.I. 2022/867)](https://www.legislation.gov.uk/uksi/2022/867), [art. 4(7)](https://www.legislation.gov.uk/uksi/2022/867/article/4/7)
 
-[^key-153f4d27b40bfe5f59d425eede00b6e2]: Modification: [S. 5](https://www.legislation.gov.uk/ukcm/Geo5/21-22/5/section/5) modified (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Channel Islands (Attachment of the Bailiwick of Guernsey to the Diocese of Salisbury) Order 2022 (S.I. 2022/1180)](https://www.legislation.gov.uk/uksi/2022/1180), [art. 6(8)](https://www.legislation.gov.uk/uksi/2022/1180/article/6/8) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/1180/article/3))
+[^c-153f4d27b40bfe5f59d425eede00b6e2]: Modification: [S. 5](https://www.legislation.gov.uk/ukcm/Geo5/21-22/5/section/5) modified (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Channel Islands (Attachment of the Bailiwick of Guernsey to the Diocese of Salisbury) Order 2022 (S.I. 2022/1180)](https://www.legislation.gov.uk/uksi/2022/1180), [art. 6(8)](https://www.legislation.gov.uk/uksi/2022/1180/article/6/8) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/1180/article/3))
 
 [^c8878861]: Modification: † unreliable marginal note
 
@@ -171,10 +171,10 @@ Date
 
 [^c8878941]: Textual amendment: Words substituted by virtue of [Synodical Government Measure 1969 (No. 2)](https://www.legislation.gov.uk/ukcm/1969/2), [s. 4(7)](https://www.legislation.gov.uk/ukcm/1969/2/section/4/7)
 
-[^key-6f487ca343e7b341842a312edd30126a]: Modification: [Sch.](https://www.legislation.gov.uk/ukcm/Geo5/21-22/5/schedule) modified (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Attachment of Jersey to the Diocese of Salisbury Order 2022 (S.I. 2022/867)](https://www.legislation.gov.uk/uksi/2022/867), [art. 4(8)](https://www.legislation.gov.uk/uksi/2022/867/article/4/8)
+[^c-6f487ca343e7b341842a312edd30126a]: Modification: [Sch.](https://www.legislation.gov.uk/ukcm/Geo5/21-22/5/schedule) modified (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Attachment of Jersey to the Diocese of Salisbury Order 2022 (S.I. 2022/867)](https://www.legislation.gov.uk/uksi/2022/867), [art. 4(8)](https://www.legislation.gov.uk/uksi/2022/867/article/4/8)
 
-[^key-0f81cc6c9c23263407acc4e682d6bbe4]: Modification: [Sch.](https://www.legislation.gov.uk/ukcm/Geo5/21-22/5/schedule) modified (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Channel Islands (Attachment of the Bailiwick of Guernsey to the Diocese of Salisbury) Order 2022 (S.I. 2022/1180)](https://www.legislation.gov.uk/uksi/2022/1180), [art. 6(9)](https://www.legislation.gov.uk/uksi/2022/1180/article/6/9) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/1180/article/3))
+[^c-0f81cc6c9c23263407acc4e682d6bbe4]: Modification: [Sch.](https://www.legislation.gov.uk/ukcm/Geo5/21-22/5/schedule) modified (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Channel Islands (Attachment of the Bailiwick of Guernsey to the Diocese of Salisbury) Order 2022 (S.I. 2022/1180)](https://www.legislation.gov.uk/uksi/2022/1180), [art. 6(9)](https://www.legislation.gov.uk/uksi/2022/1180/article/6/9) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/1180/article/3))
 
 [^c8878951]: Textual amendment: Form substituted by [S.I. 1970/1117](https://www.legislation.gov.uk/uksi/1970/1117)
 
-[^key-08be2c5210dcd6607c4800703eb4849d]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/ukcm/Geo5/21-22/5/schedule) Form substituted (coming into force in accordance with [S.I. 2022/1180](https://www.legislation.gov.uk/uksi/2022/1180), [art. 4](https://www.legislation.gov.uk/uksi/2022/1180/article/4)) by [Channel Islands Measure 2020 (No. 2)](https://www.legislation.gov.uk/ukcm/2020/2), [ss. 4(3)](https://www.legislation.gov.uk/ukcm/2020/2/section/4/3), [5(3)](https://www.legislation.gov.uk/ukcm/2020/2/section/5/3); [S.I. 2022/1180](https://www.legislation.gov.uk/uksi/2022/1180), [art. 4](https://www.legislation.gov.uk/uksi/2022/1180/article/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/1180/article/3))
+[^c-08be2c5210dcd6607c4800703eb4849d]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/ukcm/Geo5/21-22/5/schedule) Form substituted (coming into force in accordance with [S.I. 2022/1180](https://www.legislation.gov.uk/uksi/2022/1180), [art. 4](https://www.legislation.gov.uk/uksi/2022/1180/article/4)) by [Channel Islands Measure 2020 (No. 2)](https://www.legislation.gov.uk/ukcm/2020/2), [ss. 4(3)](https://www.legislation.gov.uk/ukcm/2020/2/section/4/3), [5(3)](https://www.legislation.gov.uk/ukcm/2020/2/section/5/3); [S.I. 2022/1180](https://www.legislation.gov.uk/uksi/2022/1180), [art. 4](https://www.legislation.gov.uk/uksi/2022/1180/article/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/1180/article/3))

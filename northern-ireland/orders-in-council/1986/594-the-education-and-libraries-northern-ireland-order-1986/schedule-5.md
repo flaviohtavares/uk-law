@@ -43,7 +43,7 @@ Article 11(2).
 (2) Of the voting members of the Board of Governors—
 
 - (a) four-ninths shall be nominated by the nominating trustees in such manner as the scheme of management of the school may provide, and at least one of the persons so nominated shall, at the time of his nomination, be a parent of a registered pupil at[^c19598151] the school;
-- (b) two-ninths shall be nominated by the Authority[^key-b411148a1ff6ad3f10e8cd22b37183f6] ;
+- (b) two-ninths shall be nominated by the Authority[^c-b411148a1ff6ad3f10e8cd22b37183f6] ;
 - (c) one-ninth shall be nominated by the Head of the Department;
 - (d) one-ninth shall be elected by parents of registered pupils at[^c19598171] the school from amongst the parents of such pupils;
 - (e) one-ninth shall be elected by assistant teachers at the school from amongst such assistant teachers.
@@ -91,7 +91,7 @@ Article 11(2).
 **7.** (1) In this Schedule—
 
 - “assistant teacher” has the meaning assigned to it by paragraph 7 of Schedule 4;
-- [^key-8fa87f0c98c1b5cd1769d47f32f22036]...
+- [^c-8fa87f0c98c1b5cd1769d47f32f22036]...
 - “nominating trustees”, in relation to a school, means such persons as the scheme of management may provide.
 
 (2) Where two or more schools are grouped under one Board of Governors this Schedule shall apply to those schools with such modifications as may be necessary and in particular—
@@ -108,7 +108,7 @@ Article 11(2).
 
 [^c19598151]: Textual amendment: Words in Sch. 5 para. 2(2)(a) substituted (23.3.2007) by [Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11))](https://www.legislation.gov.uk/nisi/2006/1915), [arts. 1(4)(c)](https://www.legislation.gov.uk/nisi/2006/1915/article/1/4/c), [44(1)](https://www.legislation.gov.uk/nisi/2006/1915/article/44/1), [Sch. 2 para. 28(a)](https://www.legislation.gov.uk/nisi/2006/1915/schedule/2/paragraph/28/a); [S.R. 2007/197](https://www.legislation.gov.uk/nisr/2007/197), [art. 2(a)](https://www.legislation.gov.uk/nisr/2007/197/article/2/a)
 
-[^key-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c19598171]: Textual amendment: Words in Sch. 5 para. 2(2)(d) substituted (23.3.2007) by [Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11))](https://www.legislation.gov.uk/nisi/2006/1915), [arts. 1(4)(c)](https://www.legislation.gov.uk/nisi/2006/1915/article/1/4/c), [44(1)](https://www.legislation.gov.uk/nisi/2006/1915/article/44/1), [Sch. 2 para. 27(b)](https://www.legislation.gov.uk/nisi/2006/1915/schedule/2/paragraph/27/b); [S.R. 2007/197](https://www.legislation.gov.uk/nisr/2007/197), [art. 2(a)](https://www.legislation.gov.uk/nisr/2007/197/article/2/a)
 
@@ -116,6 +116,6 @@ Article 11(2).
 
 [^c19598191]: Textual amendment: Words in Sch. 5 para. 3(2)(c) substituted (23.03.2007) by [Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11))](https://www.legislation.gov.uk/nisi/2006/1915), [arts. 1(4)(c)](https://www.legislation.gov.uk/nisi/2006/1915/article/1/4/c), [44(1)](https://www.legislation.gov.uk/nisi/2006/1915/article/44/1), [Sch. 2 para. 27(b)](https://www.legislation.gov.uk/nisi/2006/1915/schedule/2/paragraph/27/b); [S.R. 2007/197](https://www.legislation.gov.uk/nisr/2007/197), [art. 2(a)](https://www.legislation.gov.uk/nisr/2007/197/article/2/a)
 
-[^key-8fa87f0c98c1b5cd1769d47f32f22036]: Textual amendment: Words in Sch. 5 para. 7(1) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-8fa87f0c98c1b5cd1769d47f32f22036]: Textual amendment: Words in Sch. 5 para. 7(1) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c19598201]: Textual amendment: Words in Sch. 5 para. 7(2)(b) substituted (23.3.2007) by [Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11))](https://www.legislation.gov.uk/nisi/2006/1915), [arts. 1(4)(c)](https://www.legislation.gov.uk/nisi/2006/1915/article/1/4/c), [44(1)](https://www.legislation.gov.uk/nisi/2006/1915/article/44/1), [Sch. 2 para. 28(a)](https://www.legislation.gov.uk/nisi/2006/1915/schedule/2/paragraph/28/a); [S.R. 2007/197](https://www.legislation.gov.uk/nisr/2007/197), [art. 2(a)](https://www.legislation.gov.uk/nisr/2007/197/article/2/a)

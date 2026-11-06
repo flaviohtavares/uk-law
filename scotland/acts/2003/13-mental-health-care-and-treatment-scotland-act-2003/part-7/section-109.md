@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 109. Ancillary powers of Tribunal[^key-8546f1556ac28ddfe628f63bb0ddcffc][^key-647bc7ef42034aa7bea0823973303902]
+## 109. Ancillary powers of Tribunal[^c-8546f1556ac28ddfe628f63bb0ddcffc][^c-647bc7ef42034aa7bea0823973303902]
 
 *Extent: S*
 
@@ -35,6 +35,6 @@ to prepare and submit to the Tribunal reports on such matters as may be prescrib
 
 ## Annotations
 
-[^key-8546f1556ac28ddfe628f63bb0ddcffc]: Commencement: S. 109 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
+[^c-8546f1556ac28ddfe628f63bb0ddcffc]: Commencement: S. 109 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
 
-[^key-647bc7ef42034aa7bea0823973303902]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2003/13/section/109) in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-647bc7ef42034aa7bea0823973303902]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2003/13/section/109) in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

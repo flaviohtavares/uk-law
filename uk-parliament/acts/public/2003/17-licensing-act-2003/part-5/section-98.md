@@ -22,12 +22,12 @@ summary: ''
 
 (1) A licensable activity is a permitted temporary activity by virtue of this Part if—
 
-- (a)[^key-866cb18e1db6a8795863365976c6e000] it is carried out in accordance with—
+- (a)[^c-866cb18e1db6a8795863365976c6e000] it is carried out in accordance with—
   - (i) a notice given in accordance with section 100, and
   - (ii) any conditions imposed under section 106A, and
 - (b) the following conditions are satisfied.
 
-(2) The first condition is that the requirements of section 102 (acknowledgement of notice)[^key-2dd1b777e8665e2580a75a579ddce13b] are met in relation to the notice.
+(2) The first condition is that the requirements of section 102 (acknowledgement of notice)[^c-2dd1b777e8665e2580a75a579ddce13b] are met in relation to the notice.
 
 (3) The second condition is that the notice has not been withdrawn under this Part.
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-866cb18e1db6a8795863365976c6e000]: Textual amendment: [S. 98(1)(a)](https://www.legislation.gov.uk/ukpga/2003/17/section/98/1/a) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 113(2)](https://www.legislation.gov.uk/ukpga/2011/13/section/113/2), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 113(6)](https://www.legislation.gov.uk/ukpga/2011/13/section/113/6)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-866cb18e1db6a8795863365976c6e000]: Textual amendment: [S. 98(1)(a)](https://www.legislation.gov.uk/ukpga/2003/17/section/98/1/a) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 113(2)](https://www.legislation.gov.uk/ukpga/2011/13/section/113/2), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 113(6)](https://www.legislation.gov.uk/ukpga/2011/13/section/113/6)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
 
-[^key-2dd1b777e8665e2580a75a579ddce13b]: Textual amendment: Words in [s. 98(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/98/2) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 114(2)](https://www.legislation.gov.uk/ukpga/2011/13/section/114/2), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 114(13)](https://www.legislation.gov.uk/ukpga/2011/13/section/114/13)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-2dd1b777e8665e2580a75a579ddce13b]: Textual amendment: Words in [s. 98(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/98/2) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 114(2)](https://www.legislation.gov.uk/ukpga/2011/13/section/114/2), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 114(13)](https://www.legislation.gov.uk/ukpga/2011/13/section/114/13)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)

@@ -46,7 +46,7 @@ summary: ''
 
 (7) An objection may not be made on the grounds mentioned in paragraphs (b) or (c) of subsection (4) in a counter-notice to a blight notice served by virtue of paragraphs 8 or 9 of Schedule 14.
 
-(7A)[^key-6a1fc9cf2cc62a1f2625204fc993f51c] An objection may not be made on the ground mentioned in paragraph (b) of subsection (4) in a counter-notice to a blight notice served by virtue of paragraph 18 of Schedule 14.
+(7A)[^c-6a1fc9cf2cc62a1f2625204fc993f51c] An objection may not be made on the ground mentioned in paragraph (b) of subsection (4) in a counter-notice to a blight notice served by virtue of paragraph 18 of Schedule 14.
 
 (8) In this section, “**relevant powers**”, in relation to blighted land falling within any paragraph of Schedule 14, means any powers under which the appropriate authority are or could be authorised—
 
@@ -57,4 +57,4 @@ and “**the relevant purposes**”, in relation to any such land, means the pur
 
 ## Annotations
 
-[^key-6a1fc9cf2cc62a1f2625204fc993f51c]: Textual amendment: S. 102(7A) inserted (6.4.2009 for specified purposes, 1.3.2010 in so far as not already in force) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 176(5)](https://www.legislation.gov.uk/ukpga/2008/29/section/176/5), [241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 4(a)](https://www.legislation.gov.uk/uksi/2009/400/article/4/a), S.I. 2010/101, art. 5 (with art. 6)
+[^c-6a1fc9cf2cc62a1f2625204fc993f51c]: Textual amendment: S. 102(7A) inserted (6.4.2009 for specified purposes, 1.3.2010 in so far as not already in force) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 176(5)](https://www.legislation.gov.uk/ukpga/2008/29/section/176/5), [241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 4(a)](https://www.legislation.gov.uk/uksi/2009/400/article/4/a), S.I. 2010/101, art. 5 (with art. 6)

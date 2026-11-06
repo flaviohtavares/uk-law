@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Declaration of intent[^key-3a2822a5496ace496c726fea04b4dd1f]
+## 25. Declaration of intent[^c-3a2822a5496ace496c726fea04b4dd1f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where, at the time when the application for registration is made, the ownership 
 
 ## Annotations
 
-[^key-3a2822a5496ace496c726fea04b4dd1f]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1993/3138/regulation/25) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-3a2822a5496ace496c726fea04b4dd1f]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1993/3138/regulation/25) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

@@ -207,7 +207,7 @@ Given the scope of the amendments that are being made herein to Regulation (EC) 
 
 HAVE ADOPTED THIS REGULATION:
 
-## Article 1. Subject matter and scope[^key-ec765247f2562707e19fecdfa26f3731]
+## Article 1. Subject matter and scope[^c-ec765247f2562707e19fecdfa26f3731]
 
 1. This Regulation aims at—
 
@@ -224,7 +224,7 @@ HAVE ADOPTED THIS REGULATION:
 
 except for Article 19(4) which applies to all storage facilities.
 
-## Article 2. Definitions[^key-307c514d4d9433508f2de54b53adb10d]
+## Article 2. Definitions[^c-307c514d4d9433508f2de54b53adb10d]
 
 In this Regulation—
 
@@ -299,25 +299,25 @@ In this Regulation—
 - “**upstream pipeline network**” means any pipeline or network of pipelines operated or constructed as part of an oil or gas production project, or used to convey natural gas from one or more such projects to a processing plant or terminal or final coastal landing terminal;
 - “**wholesale customer**” means a person other than a transmission system operator or distribution system operator who purchases natural gas for the purpose of resale inside or outside the system where the person is established.
 
-## Article 3. Certification of transmission system operators[^key-9a45e6931a9cb77cc72ab9c5b4e84d0c]
+## Article 3. Certification of transmission system operators[^c-9a45e6931a9cb77cc72ab9c5b4e84d0c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. European network of transmission system operators for gas[^key-9a45e6931a9cb77cc72ab9c5b4e84d0c]
+## Article 4. European network of transmission system operators for gas[^c-9a45e6931a9cb77cc72ab9c5b4e84d0c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Establishment of the ENTSO for Gas[^key-9a45e6931a9cb77cc72ab9c5b4e84d0c]
+## Article 5. Establishment of the ENTSO for Gas[^c-9a45e6931a9cb77cc72ab9c5b4e84d0c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Establishment of provision corresponding to network codes[^key-4a0ba9f0ec367888f894cd1bb2e15065]
+## Article 6. Establishment of provision corresponding to network codes[^c-4a0ba9f0ec367888f894cd1bb2e15065]
 
 1. In this Article—
 
 - (a) “**the Withdrawal Act**” means the European Union (Withdrawal) Act 2018;
 - (b) “**corresponding provision**”, in relation to a relevant provision, has the meaning given by paragraphs 2 and 3;
-- (c) “deficiency” is to be interpreted in accordance with subsections (2) to (4) and subsection (9) of section 8 of the Withdrawal Act (with references in those subsections to assimilated[^key-330d3a6b7f10a461ef2114487f1f0736] law being read as if they included references to relevant provisions);
+- (c) “deficiency” is to be interpreted in accordance with subsections (2) to (4) and subsection (9) of section 8 of the Withdrawal Act (with references in those subsections to assimilated[^c-330d3a6b7f10a461ef2114487f1f0736] law being read as if they included references to relevant provisions);
 - (d) a “**gas network code**” means a network code adopted by the Commission before IP completion day, under this Article as it has effect in EU law;
 - (e) “**national authority**” means—
   - (i) the Secretary of State, in relation to Great Britain;
@@ -360,16 +360,16 @@ arising from the withdrawal of the United Kingdom from the EU.
 
 8. A gas network code which has effect in domestic law by virtue of provision made under paragraph 5(b) (as modified under this Regulation or by other domestic law from time to time) is to be treated as—
 
-- (a) assimilated[^key-9dc059a3abe9046aae3ecb37a7a57020] law, for the purposes of—
+- (a) assimilated[^c-9dc059a3abe9046aae3ecb37a7a57020] law, for the purposes of—
   - (i) section 6 of the Withdrawal Act (interpretation of assimilated law);
   - (ii) section 15(2) of, and Part 2 of Schedule 5 to, the Withdrawal Act (rules of evidence);
-- (b) assimilated direct minor[^key-289928e499ba56cd71330ec4e35b2747] legislation, for the purposes of—
+- (b) assimilated direct minor[^c-289928e499ba56cd71330ec4e35b2747] legislation, for the purposes of—
   - (i) section 7(3) of the Withdrawal Act (status of assimilated law);
   - (ii) paragraph 30 of Schedule 8 to the Withdrawal Act (Human Rights Act 1998).
 
 9. No regulations may be made under this Article after the end of the period of two years beginning with IP completion day.
 
-## Article 7. Amendments of network codes[^key-bd94919e36d8b7c8e351396af80a935a]
+## Article 7. Amendments of network codes[^c-bd94919e36d8b7c8e351396af80a935a]
 
 1. A national authority may, by regulations, amend a gas network code.
 
@@ -387,37 +387,37 @@ arising from the withdrawal of the United Kingdom from the EU.
 
 5. In this Article, “**gas network code**” and “**national authority**” have the same meanings as in Article 6.
 
-## Article 8. Tasks of the ENTSO for Gas[^key-3e9a4a7d92c0751c0bd7cee4c0213309]
+## Article 8. Tasks of the ENTSO for Gas[^c-3e9a4a7d92c0751c0bd7cee4c0213309]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Monitoring by the Agency[^key-3e9a4a7d92c0751c0bd7cee4c0213309]
+## Article 9. Monitoring by the Agency[^c-3e9a4a7d92c0751c0bd7cee4c0213309]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Consultations[^key-3e9a4a7d92c0751c0bd7cee4c0213309]
+## Article 10. Consultations[^c-3e9a4a7d92c0751c0bd7cee4c0213309]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Costs[^key-3e9a4a7d92c0751c0bd7cee4c0213309]
+## Article 11. Costs[^c-3e9a4a7d92c0751c0bd7cee4c0213309]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Regional cooperation of transmission system operators[^key-3e9a4a7d92c0751c0bd7cee4c0213309]
+## Article 12. Regional cooperation of transmission system operators[^c-3e9a4a7d92c0751c0bd7cee4c0213309]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 13. Tariffs for access to networks
 
-1. Tariffs, or the methodologies used to calculate them, applied by the transmission system operators and approved by the national regulatory authority[^key-0d59aca7c47b50ffb835b746036a611e][^key-5bd023b762a9f344ea45010c65ca3515]..., shall be transparent, take into account the need for system integrity and its improvement and reflect the actual costs incurred, insofar as such costs correspond to those of an efficient and structurally comparable network operator and are transparent, whilst including an appropriate return on investments, and, where appropriate, taking account of the benchmarking of tariffs by the national regulatory authority. Tariffs, or the methodologies used to calculate them, shall be applied in a non-discriminatory manner.
+1. Tariffs, or the methodologies used to calculate them, applied by the transmission system operators and approved by the national regulatory authority[^c-0d59aca7c47b50ffb835b746036a611e][^c-5bd023b762a9f344ea45010c65ca3515]..., shall be transparent, take into account the need for system integrity and its improvement and reflect the actual costs incurred, insofar as such costs correspond to those of an efficient and structurally comparable network operator and are transparent, whilst including an appropriate return on investments, and, where appropriate, taking account of the benchmarking of tariffs by the national regulatory authority. Tariffs, or the methodologies used to calculate them, shall be applied in a non-discriminatory manner.
 
-Tariffs[^key-e1df2f787248cf3d402b0e9fb3f141ae] may also be determined through market-based arrangements, such as auctions, provided that such arrangements and the revenues arising therefrom are approved by the national[^key-774a0c7f2725d9ccb116dc86a088f54d] regulatory authority.
+Tariffs[^c-e1df2f787248cf3d402b0e9fb3f141ae] may also be determined through market-based arrangements, such as auctions, provided that such arrangements and the revenues arising therefrom are approved by the national[^c-774a0c7f2725d9ccb116dc86a088f54d] regulatory authority.
 
 Tariffs, or the methodologies used to calculate them, shall facilitate efficient gas trade and competition, while at the same time avoiding cross-subsidies between network users and providing incentives for investment and maintaining or creating interoperability for transmission networks.
 
-Tariffs for network users shall be non-discriminatory and set separately for every entry point into or exit point out of the transmission system. Cost-allocation mechanisms and rate setting methodology regarding entry points and exit points shall be approved by the national regulatory authority[^key-728d3d9b711093cc8c2ea823f42c95de]. The national regulatory authority must ensure that network charges are not[^key-99178b9295b8da9e14d4858d398c1d9c] calculated on the basis of contract paths.
+Tariffs for network users shall be non-discriminatory and set separately for every entry point into or exit point out of the transmission system. Cost-allocation mechanisms and rate setting methodology regarding entry points and exit points shall be approved by the national regulatory authority[^c-728d3d9b711093cc8c2ea823f42c95de]. The national regulatory authority must ensure that network charges are not[^c-99178b9295b8da9e14d4858d398c1d9c] calculated on the basis of contract paths.
 
-2. Tariffs for network access shall neither restrict market liquidity nor distort trade across borders of different transmission systems. [^key-b819768bd9fed0c423ceaa16bf57c1dd]...
+2. Tariffs for network access shall neither restrict market liquidity nor distort trade across borders of different transmission systems. [^c-b819768bd9fed0c423ceaa16bf57c1dd]...
 
 ## Article 14. Third-party access services concerning transmission system operators
 
@@ -427,7 +427,7 @@ Tariffs for network users shall be non-discriminatory and set separately for eve
 - (b) provide both firm and interruptible third-party access services. The price of interruptible capacity shall reflect the probability of interruption;
 - (c) offer to network users both long and short-term services.
 
-In regard to point (a) of the first subparagraph, where a transmission system operator offers the same service to different customers, it shall do so under equivalent contractual terms and conditions, either using harmonised transport contracts or a common network code approved by the national regulatory[^key-99c6b57bfcb4874b73cb02c18465f245] authority [^key-7d0f850c0739ba23cfc1382eff88d504]....
+In regard to point (a) of the first subparagraph, where a transmission system operator offers the same service to different customers, it shall do so under equivalent contractual terms and conditions, either using harmonised transport contracts or a common network code approved by the national regulatory[^c-99c6b57bfcb4874b73cb02c18465f245] authority [^c-7d0f850c0739ba23cfc1382eff88d504]....
 
 2. Transport contracts signed with non-standard start dates or with a shorter duration than a standard annual transport contract shall not result in arbitrarily higher or lower tariffs that do not reflect the market value of the service, in accordance with the principles laid down in Article 13(1).
 
@@ -464,7 +464,7 @@ In regard to point (a) of the first subparagraph, where a transmission system op
 
 - (a) provide appropriate economic signals for the efficient and maximum use of technical capacity, facilitate investment in new infrastructure and facilitate cross-border exchanges in natural gas;
 - (b) be compatible with the market mechanisms including spot markets and trading hubs, while being flexible and capable of adapting to evolving market circumstances; and
-- (c)[^key-aee3865a506f1b4c1d1b0cc350c44928] be compatible with the network access systems of—
+- (c)[^c-aee3865a506f1b4c1d1b0cc350c44928] be compatible with the network access systems of—
   - (i) the other part of the United Kingdom and connected member States; and
   - (ii) if the national regulatory authority so directs, connected third countries;
 
@@ -473,11 +473,11 @@ In regard to point (a) of the first subparagraph, where a transmission system op
 - (a) in the event of contractual congestion, the transmission system operator shall offer unused capacity on the primary market at least on a day-ahead and interruptible basis; and
 - (b) network users who wish to re-sell or sublet their unused contracted capacity on the secondary market shall be entitled to do so.
 
-[^key-d605c4bf38e5bd5aea5313a8edf1047c]...
+[^c-d605c4bf38e5bd5aea5313a8edf1047c]...
 
-4. In the event that physical congestion exists, non-discriminatory, transparent capacity-allocation mechanisms shall be applied by the transmission system operator or, as appropriate, by the national regulatory authority[^key-c3bd5108061feada6b43745b9c6f8d27].
+4. In the event that physical congestion exists, non-discriminatory, transparent capacity-allocation mechanisms shall be applied by the transmission system operator or, as appropriate, by the national regulatory authority[^c-c3bd5108061feada6b43745b9c6f8d27].
 
-5. Transmission system operators shall regularly assess market demand for new investment. When planning new investments, transmission system operators shall assess market demand and take into account security of supply. When assessing market demand, transmission system operators shall consult the holder of a licence under section 7AA of the Gas Act 1986.[^key-681cb1eb847a364a5b48329ae4f13da5]
+5. Transmission system operators shall regularly assess market demand for new investment. When planning new investments, transmission system operators shall assess market demand and take into account security of supply. When assessing market demand, transmission system operators shall consult the holder of a licence under section 7AA of the Gas Act 1986.[^c-681cb1eb847a364a5b48329ae4f13da5]
 
 ## Article 17. Principles of capacity-allocation mechanisms and congestion-management procedures concerning storage and LNG facilities
 
@@ -498,11 +498,11 @@ In regard to point (a) of the first subparagraph, where a transmission system op
 
 1. The transmission system operator shall make public detailed information regarding the services it offers and the relevant conditions applied, together with the technical information necessary for network users to gain effective network access.
 
-2. In order to ensure transparent, objective and non-discriminatory tariffs and facilitate efficient utilisation of the gas network, transmission system operators [^key-9ef0cdd3c2e21b7e773e668fdcafd5a2]... shall publish reasonably and sufficiently detailed information on tariff derivation, methodology and structure.
+2. In order to ensure transparent, objective and non-discriminatory tariffs and facilitate efficient utilisation of the gas network, transmission system operators [^c-9ef0cdd3c2e21b7e773e668fdcafd5a2]... shall publish reasonably and sufficiently detailed information on tariff derivation, methodology and structure.
 
 3. For the services provided, each transmission system operator shall make public information on technical, contracted and available capacities on a numerical basis for all relevant points including entry and exit points on a regular and rolling basis and in a user-friendly and standardised manner.
 
-4. The relevant points of a transmission system on which the information is to be made public shall be approved by the national regulatory authority[^key-2c8cb3aa4ef42e2c96f9d80423fc9aac] after consultation with network users.
+4. The relevant points of a transmission system on which the information is to be made public shall be approved by the national regulatory authority[^c-2c8cb3aa4ef42e2c96f9d80423fc9aac] after consultation with network users.
 
 5. The transmission system operator shall always disclose the information required by this Regulation in a meaningful, quantifiably clear and easily accessible manner and on a non-discriminatory basis.
 
@@ -526,11 +526,11 @@ In cases in which a storage system user is the only user of a storage facility, 
 
 The second subparagraph shall apply without prejudice to the obligations of communication to and publication by the transmission system operator referred to in the first subparagraph, unless the aggregated data are identical to the individual storage system data for which the national regulatory authority has approved non-publication.
 
-5. In order to ensure transparent, objective and non-discriminatory tariffs and facilitate efficient utilisation of the infrastructures, the LNG and storage facility operators [^key-a2d265c6a1879cd2402272644e11f0c6]... shall make public sufficiently detailed information on tariff derivation, the methodologies and the structure of tariffs for infrastructure under regulated third-party access.
+5. In order to ensure transparent, objective and non-discriminatory tariffs and facilitate efficient utilisation of the infrastructures, the LNG and storage facility operators [^c-a2d265c6a1879cd2402272644e11f0c6]... shall make public sufficiently detailed information on tariff derivation, the methodologies and the structure of tariffs for infrastructure under regulated third-party access.
 
 ## Article 20. Record keeping by system operators
 
-Transmission system operators, storage system operators and LNG system operators shall keep at the disposal of the national authorities, including the national regulatory authority, the national regulatory authority and the Competition and Markets Authority[^key-ee9ebff1cf67bbf3ac8a29bdd00c3f3f], all information referred to in Articles 18 and 19, and in Part 3 of Annex I for a period of five years.
+Transmission system operators, storage system operators and LNG system operators shall keep at the disposal of the national authorities, including the national regulatory authority, the national regulatory authority and the Competition and Markets Authority[^c-ee9ebff1cf67bbf3ac8a29bdd00c3f3f], all information referred to in Articles 18 and 19, and in Part 3 of Annex I for a period of five years.
 
 ## Article 21. Balancing rules and imbalance charges
 
@@ -546,7 +546,7 @@ No charge shall be made for the provision of information under this paragraph.
 
 Any calculation methodology for imbalance charges as well as the final tariffs shall be made public by the competent authorities or the transmission system operator, as appropriate.
 
-4.[^key-7f1d57f42c46554ddd82c1f2d135cca4] Transmission system operators must, in order to facilitate gas trade, endeavour to harmonise balancing regimes and streamline structures and levels of balancing charges with those of transmission systems—
+4.[^c-7f1d57f42c46554ddd82c1f2d135cca4] Transmission system operators must, in order to facilitate gas trade, endeavour to harmonise balancing regimes and streamline structures and levels of balancing charges with those of transmission systems—
 
 - (a) in the other part of the United Kingdom and connected member States; and
 - (b) if the national regulatory authority so directs, in connected third countries.
@@ -555,39 +555,39 @@ Any calculation methodology for imbalance charges as well as the final tariffs s
 
 Each transmission, storage and LNG system operator shall take reasonable steps to allow capacity rights to be freely tradable and to facilitate such trade in a transparent and non-discriminatory manner. Every such operator shall develop harmonised transport, LNG facility and storage contracts and procedures on the primary market to facilitate secondary trade of capacity and shall recognise the transfer of primary capacity rights where notified by system users.
 
-The harmonised transport, LNG facility and storage contracts and procedures shall be notified to the national regulatory authority[^key-8b8c2a442be52a8d63b5a19b7c60c0b9].
+The harmonised transport, LNG facility and storage contracts and procedures shall be notified to the national regulatory authority[^c-8b8c2a442be52a8d63b5a19b7c60c0b9].
 
-## Article 23. Amendment of Annex I[^key-1cd77ac9daaa9f6eb84961a37f586d25]
+## Article 23. Amendment of Annex I[^c-1cd77ac9daaa9f6eb84961a37f586d25]
 
 1. A national authority may, by regulations, amend Annex I to this Regulation.
 
 2. In this Article, “**national authority**” has the same meaning as in Article 6.
 
-## Article 24. The national regulatory authority[^key-2425e34d3451ddffe9498b01062e7c39]
+## Article 24. The national regulatory authority[^c-2425e34d3451ddffe9498b01062e7c39]
 
-When carrying out its[^key-4ef0a7bf08d23df257efefce8f4ab48b] responsibilities under this Regulation, the national regulatory authority[^key-5f4241474cbccee5803faba3c6ba782a] shall ensure compliance with this Regulation [^key-8020af406031a5b5ae69b60ba2a478c0]....
+When carrying out its[^c-4ef0a7bf08d23df257efefce8f4ab48b] responsibilities under this Regulation, the national regulatory authority[^c-5f4241474cbccee5803faba3c6ba782a] shall ensure compliance with this Regulation [^c-8020af406031a5b5ae69b60ba2a478c0]....
 
-[^key-1980131942e502c0846f1a7a683bbf16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1980131942e502c0846f1a7a683bbf16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 25. Provision of information
 
-[^key-2b3e393ceb31e68e416ce1f913d9070e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b3e393ceb31e68e416ce1f913d9070e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 The Commission shall set a reasonable time limit within which the information is to be provided, taking into account the complexity of the information required and the urgency with which the information is needed.
 
-## Article 26. Right of Member States to provide for more detailed measures[^key-2b3e393ceb31e68e416ce1f913d9070e]
+## Article 26. Right of Member States to provide for more detailed measures[^c-2b3e393ceb31e68e416ce1f913d9070e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 27. Penalties[^key-2b3e393ceb31e68e416ce1f913d9070e]
+## Article 27. Penalties[^c-2b3e393ceb31e68e416ce1f913d9070e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 28. Committee procedure[^key-fbec73aa5017eb1595356d94be675196]
+## Article 28. Committee procedure[^c-fbec73aa5017eb1595356d94be675196]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 28A. Regulations made by the Secretary of State: consultation and procedure[^key-83173e0fd97517bf8eb435d3ddc1d1b5]
+## Article 28A. Regulations made by the Secretary of State: consultation and procedure[^c-83173e0fd97517bf8eb435d3ddc1d1b5]
 
 1. Any power to make regulations conferred on the Secretary of State by this Regulation is exercisable by statutory instrument.
 
@@ -624,13 +624,13 @@ The Commission shall set a reasonable time limit within which the information is
 
 4. In this Article, “**the Northern Ireland department**” has the same meaning as in Article 6.
 
-## Article 29. Commission report[^key-63f94d02e460d3de0f561860da976bd5]
+## Article 29. Commission report[^c-63f94d02e460d3de0f561860da976bd5]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 30. Derogations and exemptions[^key-a820c66793952a8c6e933355c529fcb5]
+## Article 30. Derogations and exemptions[^c-a820c66793952a8c6e933355c529fcb5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -653,7 +653,7 @@ This Regulation, except for Article 19(4), does not apply to any of the infrastr
 
 ## Article 31. Repeal
 
- References made to Regulation[^key-3f81eeab06cbec71649411d620cd710b] [(EC) No. 1775/2005](https://www.legislation.gov.uk/eur/2005/1775) in assimilated direct[^key-997dda4146d0b75739ac6ac2cec6e339] legislation are to be construed as references to this Regulation and read in accordance with the correlation table in Annex II.
+ References made to Regulation[^c-3f81eeab06cbec71649411d620cd710b] [(EC) No. 1775/2005](https://www.legislation.gov.uk/eur/2005/1775) in assimilated direct[^c-997dda4146d0b75739ac6ac2cec6e339] legislation are to be construed as references to this Regulation and read in accordance with the correlation table in Annex II.
 
 ## Article 32. Entry into force[^c000004]
 
@@ -661,7 +661,7 @@ This Regulation shall enter into force on the 20th day following its publication
 
 It shall apply from 3 March 2011.
 
-[^key-8fd3e6a1ecb3875a89872d235130d83d]...
+[^c-8fd3e6a1ecb3875a89872d235130d83d]...
 
 ## ANNEX I — GUIDELINES ON
 
@@ -687,7 +687,7 @@ Transmission system operators shall implement standardised nomination and re-nom
 
 5\.
 
-Transmission system operators shall harmonise formalised request procedures and response times according to best industry practice with the aim of minimising response times. They shall provide for online screen-based capacity booking and confirmation systems and nomination and re-nomination procedures [^key-97a36ce90ea8c2fea8d8c608751990f7]....
+Transmission system operators shall harmonise formalised request procedures and response times according to best industry practice with the aim of minimising response times. They shall provide for online screen-based capacity booking and confirmation systems and nomination and re-nomination procedures [^c-97a36ce90ea8c2fea8d8c608751990f7]....
 
 6\.
 
@@ -699,7 +699,7 @@ Information requests that require extraordinary or excessive expenses such as fe
 
 8\.
 
-Transmission system operators shall cooperate with other transmission system operators , and endeavour to cooperate with non-UK TSOs in connected member States and connected third countries,[^key-cd48111cc3616bbed0cab01a102b932d] in coordinating the maintenance of their respective networks in order to minimise any disruption of transmission services to network users and transmission system operators in other areas and in order to ensure equal benefits with respect to security of supply including in relation to transit.
+Transmission system operators shall cooperate with other transmission system operators , and endeavour to cooperate with non-UK TSOs in connected member States and connected third countries,[^c-cd48111cc3616bbed0cab01a102b932d] in coordinating the maintenance of their respective networks in order to minimise any disruption of transmission services to network users and transmission system operators in other areas and in order to ensure equal benefits with respect to security of supply including in relation to transit.
 
 9\.
 
@@ -741,7 +741,7 @@ Network users shall be advised about the type of circumstance that could affect 
 
 Should difficulties in meeting contractual delivery obligations arise due to system integrity reasons, transmission system operators should notify network users and seek a non-discriminatory solution without delay.
 
-Transmission system operators shall consult network users regarding procedures prior to their implementation and agree them with the national[^key-3b35a1b1376e472677229a68f7ad2e4e] regulatory authority.
+Transmission system operators shall consult network users regarding procedures prior to their implementation and agree them with the national[^c-3b35a1b1376e472677229a68f7ad2e4e] regulatory authority.
 
 2.2.[^c000005]
 
@@ -753,18 +753,18 @@ General Provisions
 
 1\.
 
-The provisions of point 2.2 shall apply to interconnection points between adjacent entry-exit systems, irrespective of whether they are physical or virtual, between Great Britain or Northern Ireland and—[^key-721951fd8f0631d589926dbce1d93630]
+The provisions of point 2.2 shall apply to interconnection points between adjacent entry-exit systems, irrespective of whether they are physical or virtual, between Great Britain or Northern Ireland and—[^c-721951fd8f0631d589926dbce1d93630]
 
 - (a) the other part of the United Kingdom or a connected member State; or
 - (b) if the national regulatory authority so directs, a connected third country,
 
 in so far as the points are subject to booking procedures by users.
 
-[^key-cfbe0bad2cfc1f8059358738fc60e07b]...
+[^c-cfbe0bad2cfc1f8059358738fc60e07b]...
 
 2\.
 
-[^key-517b8c8ccf7990a66917067255472344]...
+[^c-517b8c8ccf7990a66917067255472344]...
 
 3\.
 
@@ -772,7 +772,7 @@ Any additional capacity made available through the application of one of the con
 
 4\.
 
-[^key-245211ab0dedbd40c38749c3c60faf97]...
+[^c-245211ab0dedbd40c38749c3c60faf97]...
 
 2.2.2.
 
@@ -780,7 +780,7 @@ Capacity increase through oversubscription and buy-back scheme
 
 1\.
 
-Transmission system operators shall propose and, after approval by the national regulatory authority, implement an incentive-based oversubscription and buy-back scheme in order to offer additional capacity on a firm basis. Before implementation, the national regulatory authority shall consult with the national regulatory authorities of connected countries or territories[^key-097443b43a464016c3b6bbc35378c03d] and take account of the those[^key-85287b8a33730c43a23901d5348df0bb] authorities’ opinions. Additional capacity is defined as the firm capacity offered in addition to the technical capacity of an interconnection point calculated on the basis of Article 16(1) of this Regulation.
+Transmission system operators shall propose and, after approval by the national regulatory authority, implement an incentive-based oversubscription and buy-back scheme in order to offer additional capacity on a firm basis. Before implementation, the national regulatory authority shall consult with the national regulatory authorities of connected countries or territories[^c-097443b43a464016c3b6bbc35378c03d] and take account of the those[^c-85287b8a33730c43a23901d5348df0bb] authorities’ opinions. Additional capacity is defined as the firm capacity offered in addition to the technical capacity of an interconnection point calculated on the basis of Article 16(1) of this Regulation.
 
 2\.
 
@@ -788,7 +788,7 @@ The oversubscription and buy-back scheme shall provide transmission system opera
 
 3\.
 
-The oversubscription and buy-back scheme shall be based on an incentive regime reflecting the risks of transmission system operators in offering additional capacity. The scheme shall be structured in such a way that revenues from selling additional capacity and costs arising from the buy-back scheme or measures pursuant to paragraph 6 are shared between the transmission system operators and the network users. The national regulatory authority[^key-33913ae9efd844f9f5992a4f8f8ff4ad] shall decide on the distribution of revenues and costs between the transmission system operator and the network user.
+The oversubscription and buy-back scheme shall be based on an incentive regime reflecting the risks of transmission system operators in offering additional capacity. The scheme shall be structured in such a way that revenues from selling additional capacity and costs arising from the buy-back scheme or measures pursuant to paragraph 6 are shared between the transmission system operators and the network users. The national regulatory authority[^c-33913ae9efd844f9f5992a4f8f8ff4ad] shall decide on the distribution of revenues and costs between the transmission system operator and the network user.
 
 4\.
 
@@ -816,7 +816,7 @@ Firm day-ahead use-it-or-lose-it mechanism
 
 1\.
 
-The national regulatory authority[^key-37ef683deb95bd3848eea8e6db0448dd] shall require transmission system operators to apply at least the rules laid down in paragraph 3 per network user at interconnection points with respect to altering the initial nomination if [^key-67bb11b89433784b3c88b7edadf8132f]... at interconnection points demand exceeded offer, at the reserve price when auctions are used, in the course of capacity allocation procedures in the most recent year for which the national regulatory authority has the relevant information[^key-2b2235763775bbea4803265f0f910f19] for products for use in either that year or in one of the subsequent two years,
+The national regulatory authority[^c-37ef683deb95bd3848eea8e6db0448dd] shall require transmission system operators to apply at least the rules laid down in paragraph 3 per network user at interconnection points with respect to altering the initial nomination if [^c-67bb11b89433784b3c88b7edadf8132f]... at interconnection points demand exceeded offer, at the reserve price when auctions are used, in the course of capacity allocation procedures in the most recent year for which the national regulatory authority has the relevant information[^c-2b2235763775bbea4803265f0f910f19] for products for use in either that year or in one of the subsequent two years,
 
 - ((a)) for at least three firm capacity products with a duration of one month or
 - ((b)) for at least two firm capacity products with a duration of one quarter or
@@ -825,7 +825,7 @@ The national regulatory authority[^key-37ef683deb95bd3848eea8e6db0448dd] shall r
 
 2\.
 
-If the national regulatory authority considers[^key-34af66b3fa94691327f1f5d786581695] that a situation as defined in paragraph 1 is unlikely to reoccur in the following three years, for example as a result of capacity becoming available from physical expansion of the network or termination of long-term contracts, the relevant national regulatory authority[^key-9b9df2f4838cf5bc75b5ed77a2432259] may decide to terminate the firm day-ahead use-it-or-lose-it mechanism.
+If the national regulatory authority considers[^c-34af66b3fa94691327f1f5d786581695] that a situation as defined in paragraph 1 is unlikely to reoccur in the following three years, for example as a result of capacity becoming available from physical expansion of the network or termination of long-term contracts, the relevant national regulatory authority[^c-9b9df2f4838cf5bc75b5ed77a2432259] may decide to terminate the firm day-ahead use-it-or-lose-it mechanism.
 
 3\.
 
@@ -837,15 +837,15 @@ The original holder of the contracted capacity may renominate the restricted par
 
 5\.
 
-Paragraph 3 shall not apply to network users [^key-0d3e7e76ef33cab40251c857165042ee]... holding less than 10 % of the average technical capacity in the preceding year at the interconnection point. For this purpose, any capacity which is held by a person controlled by a network user is to be treated as capacity held by that network user.[^key-1d6e95dabfd0b8c2413212ca9cf8fd2e]
+Paragraph 3 shall not apply to network users [^c-0d3e7e76ef33cab40251c857165042ee]... holding less than 10 % of the average technical capacity in the preceding year at the interconnection point. For this purpose, any capacity which is held by a person controlled by a network user is to be treated as capacity held by that network user.[^c-1d6e95dabfd0b8c2413212ca9cf8fd2e]
 
 6\.
 
-On interconnection points where a firm day-ahead use-it-or-lose-it mechanism in accordance with paragraph 3 is applied, an evaluation of the relationship with the oversubscription and buy-back scheme pursuant to point 2.2.2 shall be carried out by the national regulatory authority, which may result in a decision by the national regulatory authority not to apply the provisions of point 2.2.2 at those interconnection points. [^key-2071103b1f2c02d0f99e0e541defd873]...
+On interconnection points where a firm day-ahead use-it-or-lose-it mechanism in accordance with paragraph 3 is applied, an evaluation of the relationship with the oversubscription and buy-back scheme pursuant to point 2.2.2 shall be carried out by the national regulatory authority, which may result in a decision by the national regulatory authority not to apply the provisions of point 2.2.2 at those interconnection points. [^c-2071103b1f2c02d0f99e0e541defd873]...
 
 7\.
 
-The[^key-8df53a6be4c3d8568437a7eaebc06cab] national regulatory authority may decide to implement a firm day-ahead use-it-or-lose-it mechanism pursuant to paragraph 3 on an interconnection point. Before adopting its decision, the national regulatory authority shall consult with the national regulatory authorities of connected countries or territories[^key-f9098db556d68c2402a080ab7f945a18]. In adopting its decision the national regulatory authority shall take account of those[^key-3309163146fae3d407128c41867f7319] authorities’ opinions.
+The[^c-8df53a6be4c3d8568437a7eaebc06cab] national regulatory authority may decide to implement a firm day-ahead use-it-or-lose-it mechanism pursuant to paragraph 3 on an interconnection point. Before adopting its decision, the national regulatory authority shall consult with the national regulatory authorities of connected countries or territories[^c-f9098db556d68c2402a080ab7f945a18]. In adopting its decision the national regulatory authority shall take account of those[^c-3309163146fae3d407128c41867f7319] authorities’ opinions.
 
 2.2.4.
 
@@ -859,7 +859,7 @@ Long-term use-it-or-lose-it mechanism
 
 1\.
 
-The national regulatory authority[^key-1d1e22d45f143e807cfd66b792b603e3] shall require transmission system operators to partially or fully withdraw systematically underutilised contracted capacity on an interconnection point by a network user where that user has not sold or offered under reasonable conditions its unused capacity and where other network users request firm capacity. Contracted capacity is considered to be systematically underutilised in particular if:
+The national regulatory authority[^c-1d1e22d45f143e807cfd66b792b603e3] shall require transmission system operators to partially or fully withdraw systematically underutilised contracted capacity on an interconnection point by a network user where that user has not sold or offered under reasonable conditions its unused capacity and where other network users request firm capacity. Contracted capacity is considered to be systematically underutilised in particular if:
 
 - ((a)) the network user uses less than on average 80 % of its contracted capacity both from 1 April until 30 September and from 1 October until 31 March with an effective contract duration of more than one year for which no proper justification could be provided; or
 - ((b)) the network user systematically nominates close to 100 % of its contracted capacity and renominates downwards with a view to circumventing the rules laid down in point 2.2.3(3).
@@ -874,7 +874,7 @@ Withdrawal shall result in the network user losing its contracted capacity parti
 
 4\.
 
-Transmission system operators shall regularly provide the national regulatory authority[^key-5bb54bb70769975a4999936685b5143b] with all the data necessary to monitor the extent to which contracted capacities with effective contract duration of more than one year or recurring quarters covering at least two years are used.
+Transmission system operators shall regularly provide the national regulatory authority[^c-5bb54bb70769975a4999936685b5143b] with all the data necessary to monitor the extent to which contracted capacities with effective contract duration of more than one year or recurring quarters covering at least two years are used.
 
 3.[^c000007]
 
@@ -896,10 +896,10 @@ Transmission system operators (TSOs) shall provide all information referred to u
 - ((b)) on a regular/rolling basis; the frequency shall be according to the changes that take place and the duration of the service;
 - ((c)) in a user-friendly manner;
 - ((d)) in a clear, quantifiable, easily accessible way and on a non-discriminatory basis;
-- ((e)) in a downloadable format that has been agreed between transmission system operators and the national regulatory authority[^key-901ff328a06f4d3b59bc1081b38b8f3b][^key-d8740d303cee66c10f737f95b74638b5]... and that allows for quantitative analyses;
+- ((e)) in a downloadable format that has been agreed between transmission system operators and the national regulatory authority[^c-901ff328a06f4d3b59bc1081b38b8f3b][^c-d8740d303cee66c10f737f95b74638b5]... and that allows for quantitative analyses;
 - ((f)) in consistent units, in particular kWh (with a combustion reference temperature of 298,15 K) shall be the unit for energy content and m<sup> 3 </sup> (at 273,15 K and 1,01325 bar) shall be the unit for volume. The constant conversion factor to energy content shall be provided. In addition to the format above, publication in other units is also possible;
-- ((g)) [^key-f5f230b78c26c0b50a88837b1fac517c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- ((h)) [^key-f5f230b78c26c0b50a88837b1fac517c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ((g)) [^c-f5f230b78c26c0b50a88837b1fac517c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ((h)) [^c-f5f230b78c26c0b50a88837b1fac517c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2)
 
@@ -937,10 +937,10 @@ Transmission system operators shall publish at least the following information a
 
 Relevant points shall include at least:
 
-- ((a)) all entry and exit points to and from a transmission network operated by a transmission system operator, with the exception of exit points connected to a single final customer, and with the exception of entry points linked directly to a production facility of a single producer that is located within Great Britain or Northern Ireland[^key-d5533e79dbdbfcc8e1f7e9e53d5483fe];
+- ((a)) all entry and exit points to and from a transmission network operated by a transmission system operator, with the exception of exit points connected to a single final customer, and with the exception of entry points linked directly to a production facility of a single producer that is located within Great Britain or Northern Ireland[^c-d5533e79dbdbfcc8e1f7e9e53d5483fe];
 - ((b)) all entry and exit points connecting balancing zones of transmission system operators;
 - ((c)) all points connecting the network of a transmission system operator with an LNG terminal, physical gas hubs, storage and production facilities, unless these production facilities are exempted under (a);
-- ((d)) all points connecting the network of a given transmission system operator to infrastructure necessary for providing ancillary services [^key-174f2840f050dacc937191566ec47929]....
+- ((d)) all points connecting the network of a given transmission system operator to infrastructure necessary for providing ancillary services [^c-174f2840f050dacc937191566ec47929]....
 
 (2)
 
@@ -956,7 +956,7 @@ Where points between two or more transmission operators are managed solely by th
 
 (1)
 
-At all relevant points, transmission system operators shall publish the information as listed in paragraphs (a) to (k)[^key-bc43e620a46853f23ff47ea69d1eea2c], for all services and ancillary services provided (in particular information on blending, ballasting and conversion). This information shall be published on a numerical basis, in hourly or daily periods, equal to the smallest reference period for capacity booking and (re-)nomination and the smallest settlement period for which imbalance charges are calculated. If the smallest reference period is different from a daily period, information as listed in paragraphs (a) to (k) shall be made available also for the daily period. This information and updates shall be published as soon as available to the system operator (‘near real time’).
+At all relevant points, transmission system operators shall publish the information as listed in paragraphs (a) to (k)[^c-bc43e620a46853f23ff47ea69d1eea2c], for all services and ancillary services provided (in particular information on blending, ballasting and conversion). This information shall be published on a numerical basis, in hourly or daily periods, equal to the smallest reference period for capacity booking and (re-)nomination and the smallest settlement period for which imbalance charges are calculated. If the smallest reference period is different from a daily period, information as listed in paragraphs (a) to (k) shall be made available also for the daily period. This information and updates shall be published as soon as available to the system operator (‘near real time’).
 
 - ((a)) the technical capacity for flows in both directions;
 - ((b)) the total contracted firm and interruptible capacity in both directions;
@@ -969,7 +969,7 @@ At all relevant points, transmission system operators shall publish the informat
 - ((i)) in the case of auctions, where and when firm capacity products with a duration of one month or longer have cleared at prices higher than the reserve price;
 - ((j)) where and when no firm capacity product with a duration of one month or longer has been offered in the regular allocation process;
 - ((k)) total capacity made available through the application of the congestion-management procedures laid down in points 2.2.2, 2.2.3, 2.2.4 and 2.2.5 per applied congestion-management procedure;
-- ((l)) [^key-d84cec9668e32ef507feb8c228f04725]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ((l)) [^c-d84cec9668e32ef507feb8c228f04725]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2)[^c000006]
 
@@ -1032,7 +1032,7 @@ Transmission system operators shall provide user-friendly instruments for calcul
 
 (7)
 
-Transmission system operators shall keep at the disposal of the relevant national authorities, for at least 5 years, effective records of all capacity contracts and all other relevant information in relation to calculating and providing access to available capacities, in particular individual nominations and interruptions. Transmission system operators must keep documentation of all relevant information under point 3.3(4) and (5) for at least 5 years and make them available to the national[^key-c559e4fd68eaed222cee88067ffcafac] regulatory authority upon request. Both parties shall respect commercial confidentiality.
+Transmission system operators shall keep at the disposal of the relevant national authorities, for at least 5 years, effective records of all capacity contracts and all other relevant information in relation to calculating and providing access to available capacities, in particular individual nominations and interruptions. Transmission system operators must keep documentation of all relevant information under point 3.3(4) and (5) for at least 5 years and make them available to the national[^c-c559e4fd68eaed222cee88067ffcafac] regulatory authority upon request. Both parties shall respect commercial confidentiality.
 
 ## ANNEX II — CORRELATION TABLE
 
@@ -1040,16 +1040,16 @@ Transmission system operators shall keep at the disposal of the relevant nationa
 | --- | --- |
 | Article 1 | Article 1 |
 | Article 2 | Article 2 |
-| [^key-5166de181008534d74399d5f97f05490]. . . | [^key-5166de181008534d74399d5f97f05490]. . |
-| [^key-5166de181008534d74399d5f97f05490]. . . | [^key-5166de181008534d74399d5f97f05490]. . |
-| [^key-5166de181008534d74399d5f97f05490]. . . | [^key-5166de181008534d74399d5f97f05490]. . |
+| [^c-5166de181008534d74399d5f97f05490]. . . | [^c-5166de181008534d74399d5f97f05490]. . |
+| [^c-5166de181008534d74399d5f97f05490]. . . | [^c-5166de181008534d74399d5f97f05490]. . |
+| [^c-5166de181008534d74399d5f97f05490]. . . | [^c-5166de181008534d74399d5f97f05490]. . |
 | — | Article 6 |
 | — | Article 7 |
-| [^key-5166de181008534d74399d5f97f05490]. . . | [^key-5166de181008534d74399d5f97f05490]. . |
-| [^key-5166de181008534d74399d5f97f05490]. . . | [^key-5166de181008534d74399d5f97f05490]. . |
-| [^key-5166de181008534d74399d5f97f05490]. . . | [^key-5166de181008534d74399d5f97f05490]. . . |
-| [^key-5166de181008534d74399d5f97f05490]. . . | [^key-5166de181008534d74399d5f97f05490]. . . |
-| [^key-5166de181008534d74399d5f97f05490]. . . | [^key-5166de181008534d74399d5f97f05490]. . . |
+| [^c-5166de181008534d74399d5f97f05490]. . . | [^c-5166de181008534d74399d5f97f05490]. . |
+| [^c-5166de181008534d74399d5f97f05490]. . . | [^c-5166de181008534d74399d5f97f05490]. . |
+| [^c-5166de181008534d74399d5f97f05490]. . . | [^c-5166de181008534d74399d5f97f05490]. . . |
+| [^c-5166de181008534d74399d5f97f05490]. . . | [^c-5166de181008534d74399d5f97f05490]. . . |
+| [^c-5166de181008534d74399d5f97f05490]. . . | [^c-5166de181008534d74399d5f97f05490]. . . |
 | Article 3 | Article 13 |
 | Article 4 | Article 14 |
 | — | Article 15 |
@@ -1060,13 +1060,13 @@ Transmission system operators shall keep at the disposal of the relevant nationa
 | — | Article 20 |
 | Article 7 | Article 21 |
 | Article 8 | Article 22 |
-| [^key-5166de181008534d74399d5f97f05490]. . . | [^key-5166de181008534d74399d5f97f05490]. . . |
+| [^c-5166de181008534d74399d5f97f05490]. . . | [^c-5166de181008534d74399d5f97f05490]. . . |
 | Article 10 | Article 24 |
-| [^key-5166de181008534d74399d5f97f05490]. . . | [^key-5166de181008534d74399d5f97f05490]. . . |
-| [^key-5166de181008534d74399d5f97f05490]. . . | [^key-5166de181008534d74399d5f97f05490]. . . |
+| [^c-5166de181008534d74399d5f97f05490]. . . | [^c-5166de181008534d74399d5f97f05490]. . . |
+| [^c-5166de181008534d74399d5f97f05490]. . . | [^c-5166de181008534d74399d5f97f05490]. . . |
 | Article 13 | Article 27 |
-| [^key-5166de181008534d74399d5f97f05490]. . . | [^key-5166de181008534d74399d5f97f05490]. . . |
-| [^key-5166de181008534d74399d5f97f05490]. . . | [^key-5166de181008534d74399d5f97f05490]. . . |
+| [^c-5166de181008534d74399d5f97f05490]. . . | [^c-5166de181008534d74399d5f97f05490]. . . |
+| [^c-5166de181008534d74399d5f97f05490]. . . | [^c-5166de181008534d74399d5f97f05490]. . . |
 | Article 16 | Article 30 |
 | — | Article 31 |
 | Article 17 | Article 32 |
@@ -1090,160 +1090,160 @@ Transmission system operators shall keep at the disposal of the relevant nationa
 
 [^f00008]: Footnote: [OJ L 184, 17.7.1999, p. 23](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1999.184.01.0023.01.ENG).
 
-[^key-ec765247f2562707e19fecdfa26f3731]: Textual amendment: Art. 1 substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ec765247f2562707e19fecdfa26f3731]: Textual amendment: Art. 1 substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-307c514d4d9433508f2de54b53adb10d]: Textual amendment: Art. 2 substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-307c514d4d9433508f2de54b53adb10d]: Textual amendment: Art. 2 substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9a45e6931a9cb77cc72ab9c5b4e84d0c]: Textual amendment: Arts. 3-5 omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9a45e6931a9cb77cc72ab9c5b4e84d0c]: Textual amendment: Arts. 3-5 omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4a0ba9f0ec367888f894cd1bb2e15065]: Textual amendment: Art. 6 substituted (31.12.2020) by [The Electricity and Gas (Powers to Make Subordinate Legislation) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1286)](https://www.legislation.gov.uk/uksi/2018/1286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1286/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2018/1286/regulation/10) (as amended by [S.I. 2020/1016](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/2/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4a0ba9f0ec367888f894cd1bb2e15065]: Textual amendment: Art. 6 substituted (31.12.2020) by [The Electricity and Gas (Powers to Make Subordinate Legislation) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1286)](https://www.legislation.gov.uk/uksi/2018/1286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1286/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2018/1286/regulation/10) (as amended by [S.I. 2020/1016](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/2/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-330d3a6b7f10a461ef2114487f1f0736]: Textual amendment: Word in [Art. 6(1)(c)](https://www.legislation.gov.uk/eur/2009/715/article/6/1/c) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 12(2)(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/12/2/a)
+[^c-330d3a6b7f10a461ef2114487f1f0736]: Textual amendment: Word in [Art. 6(1)(c)](https://www.legislation.gov.uk/eur/2009/715/article/6/1/c) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 12(2)(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/12/2/a)
 
-[^key-9dc059a3abe9046aae3ecb37a7a57020]: Textual amendment: Word in [Art. 6(8)](https://www.legislation.gov.uk/eur/2009/715/article/6/8) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 12(2)(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/12/2/b)
+[^c-9dc059a3abe9046aae3ecb37a7a57020]: Textual amendment: Word in [Art. 6(8)](https://www.legislation.gov.uk/eur/2009/715/article/6/8) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 12(2)(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/12/2/b)
 
-[^key-289928e499ba56cd71330ec4e35b2747]: Textual amendment: Words in [Art. 6(8)(b)](https://www.legislation.gov.uk/eur/2009/715/article/6/8/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 12(3)](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/12/3)
+[^c-289928e499ba56cd71330ec4e35b2747]: Textual amendment: Words in [Art. 6(8)(b)](https://www.legislation.gov.uk/eur/2009/715/article/6/8/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 12(3)](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/12/3)
 
-[^key-bd94919e36d8b7c8e351396af80a935a]: Textual amendment: Art. 7 substituted (31.12.2020) by [The Electricity and Gas (Powers to Make Subordinate Legislation) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1286)](https://www.legislation.gov.uk/uksi/2018/1286), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1286/regulation/1/2/b), [11](https://www.legislation.gov.uk/uksi/2018/1286/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bd94919e36d8b7c8e351396af80a935a]: Textual amendment: Art. 7 substituted (31.12.2020) by [The Electricity and Gas (Powers to Make Subordinate Legislation) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1286)](https://www.legislation.gov.uk/uksi/2018/1286), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1286/regulation/1/2/b), [11](https://www.legislation.gov.uk/uksi/2018/1286/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3e9a4a7d92c0751c0bd7cee4c0213309]: Textual amendment: Arts. 8-12 omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3e9a4a7d92c0751c0bd7cee4c0213309]: Textual amendment: Arts. 8-12 omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0d59aca7c47b50ffb835b746036a611e]: Textual amendment: Words in Art. 13(1) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 5(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/5/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0d59aca7c47b50ffb835b746036a611e]: Textual amendment: Words in Art. 13(1) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 5(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/5/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5bd023b762a9f344ea45010c65ca3515]: Textual amendment: Words in Art. 13(1) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 5(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/5/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5bd023b762a9f344ea45010c65ca3515]: Textual amendment: Words in Art. 13(1) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 5(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/5/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e1df2f787248cf3d402b0e9fb3f141ae]: Textual amendment: Word in Art. 13(1) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 5(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/5/2/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e1df2f787248cf3d402b0e9fb3f141ae]: Textual amendment: Word in Art. 13(1) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 5(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/5/2/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-774a0c7f2725d9ccb116dc86a088f54d]: Textual amendment: Word in Art. 13(1) inserted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 5(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/5/2/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-774a0c7f2725d9ccb116dc86a088f54d]: Textual amendment: Word in Art. 13(1) inserted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 5(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/5/2/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-728d3d9b711093cc8c2ea823f42c95de]: Textual amendment: Word in Art. 13(1) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 5(2)(c)(i)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/5/2/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-728d3d9b711093cc8c2ea823f42c95de]: Textual amendment: Word in Art. 13(1) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 5(2)(c)(i)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/5/2/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-99178b9295b8da9e14d4858d398c1d9c]: Textual amendment: Words in Art. 13(1) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 5(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/5/2/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-99178b9295b8da9e14d4858d398c1d9c]: Textual amendment: Words in Art. 13(1) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 5(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/5/2/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b819768bd9fed0c423ceaa16bf57c1dd]: Textual amendment: Words in Art. 13(2) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b819768bd9fed0c423ceaa16bf57c1dd]: Textual amendment: Words in Art. 13(2) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-99c6b57bfcb4874b73cb02c18465f245]: Textual amendment: Words in Art. 14(1) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-99c6b57bfcb4874b73cb02c18465f245]: Textual amendment: Words in Art. 14(1) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7d0f850c0739ba23cfc1382eff88d504]: Textual amendment: Words in Art. 14(1) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7d0f850c0739ba23cfc1382eff88d504]: Textual amendment: Words in Art. 14(1) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-aee3865a506f1b4c1d1b0cc350c44928]: Textual amendment: Art. 16(2)(c) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aee3865a506f1b4c1d1b0cc350c44928]: Textual amendment: Art. 16(2)(c) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d605c4bf38e5bd5aea5313a8edf1047c]: Textual amendment: Words in Art. 16(3) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d605c4bf38e5bd5aea5313a8edf1047c]: Textual amendment: Words in Art. 16(3) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c3bd5108061feada6b43745b9c6f8d27]: Textual amendment: Words in Art. 16(4) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c3bd5108061feada6b43745b9c6f8d27]: Textual amendment: Words in Art. 16(4) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-681cb1eb847a364a5b48329ae4f13da5]: Textual amendment: Words in Art. 16(5) inserted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [39](https://www.legislation.gov.uk/uksi/2024/706/regulation/39); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
+[^c-681cb1eb847a364a5b48329ae4f13da5]: Textual amendment: Words in Art. 16(5) inserted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [39](https://www.legislation.gov.uk/uksi/2024/706/regulation/39); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
 
-[^key-9ef0cdd3c2e21b7e773e668fdcafd5a2]: Textual amendment: Words in Art. 18(2) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 8(2)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9ef0cdd3c2e21b7e773e668fdcafd5a2]: Textual amendment: Words in Art. 18(2) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 8(2)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2c8cb3aa4ef42e2c96f9d80423fc9aac]: Textual amendment: Words in Art. 18(4) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 8(3)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2c8cb3aa4ef42e2c96f9d80423fc9aac]: Textual amendment: Words in Art. 18(4) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 8(3)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a2d265c6a1879cd2402272644e11f0c6]: Textual amendment: Words in Art. 19(5) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a2d265c6a1879cd2402272644e11f0c6]: Textual amendment: Words in Art. 19(5) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ee9ebff1cf67bbf3ac8a29bdd00c3f3f]: Textual amendment: Words in Art. 20 substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ee9ebff1cf67bbf3ac8a29bdd00c3f3f]: Textual amendment: Words in Art. 20 substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7f1d57f42c46554ddd82c1f2d135cca4]: Textual amendment: Art. 21(4) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7f1d57f42c46554ddd82c1f2d135cca4]: Textual amendment: Art. 21(4) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8b8c2a442be52a8d63b5a19b7c60c0b9]: Textual amendment: Words in Art. 22 substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8b8c2a442be52a8d63b5a19b7c60c0b9]: Textual amendment: Words in Art. 22 substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1cd77ac9daaa9f6eb84961a37f586d25]: Textual amendment: Art. 23 substituted (31.12.2020) by [The Electricity and Gas (Powers to Make Subordinate Legislation) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1286)](https://www.legislation.gov.uk/uksi/2018/1286), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1286/regulation/1/2/b), [12](https://www.legislation.gov.uk/uksi/2018/1286/regulation/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1cd77ac9daaa9f6eb84961a37f586d25]: Textual amendment: Art. 23 substituted (31.12.2020) by [The Electricity and Gas (Powers to Make Subordinate Legislation) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1286)](https://www.legislation.gov.uk/uksi/2018/1286), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1286/regulation/1/2/b), [12](https://www.legislation.gov.uk/uksi/2018/1286/regulation/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2425e34d3451ddffe9498b01062e7c39]: Textual amendment: Art. 24 heading substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2425e34d3451ddffe9498b01062e7c39]: Textual amendment: Art. 24 heading substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4ef0a7bf08d23df257efefce8f4ab48b]: Textual amendment: Word in Art. 24 substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 13(3)(a)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/13/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4ef0a7bf08d23df257efefce8f4ab48b]: Textual amendment: Word in Art. 24 substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 13(3)(a)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/13/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5f4241474cbccee5803faba3c6ba782a]: Textual amendment: Words in Art. 24 substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 13(3)(b)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/13/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5f4241474cbccee5803faba3c6ba782a]: Textual amendment: Words in Art. 24 substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 13(3)(b)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/13/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8020af406031a5b5ae69b60ba2a478c0]: Textual amendment: Words in Art. 24 omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 13(3)(c)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/13/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8020af406031a5b5ae69b60ba2a478c0]: Textual amendment: Words in Art. 24 omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 13(3)(c)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/13/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1980131942e502c0846f1a7a683bbf16]: Textual amendment: Words in Art. 24 omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 13(4)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/13/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1980131942e502c0846f1a7a683bbf16]: Textual amendment: Words in Art. 24 omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 13(4)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/13/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2b3e393ceb31e68e416ce1f913d9070e]: Textual amendment: Arts. 25-27 omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2b3e393ceb31e68e416ce1f913d9070e]: Textual amendment: Arts. 25-27 omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fbec73aa5017eb1595356d94be675196]: Textual amendment: Art. 28 omitted (31.12.2020) by virtue of [The Electricity and Gas (Powers to Make Subordinate Legislation) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1286)](https://www.legislation.gov.uk/uksi/2018/1286), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1286/regulation/1/2/b), [13](https://www.legislation.gov.uk/uksi/2018/1286/regulation/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fbec73aa5017eb1595356d94be675196]: Textual amendment: Art. 28 omitted (31.12.2020) by virtue of [The Electricity and Gas (Powers to Make Subordinate Legislation) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1286)](https://www.legislation.gov.uk/uksi/2018/1286), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1286/regulation/1/2/b), [13](https://www.legislation.gov.uk/uksi/2018/1286/regulation/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-83173e0fd97517bf8eb435d3ddc1d1b5]: Textual amendment: Arts. 28A, 28B inserted (31.12.2020) by [The Electricity and Gas (Powers to Make Subordinate Legislation) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1286)](https://www.legislation.gov.uk/uksi/2018/1286), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1286/regulation/1/2/b), [14](https://www.legislation.gov.uk/uksi/2018/1286/regulation/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-83173e0fd97517bf8eb435d3ddc1d1b5]: Textual amendment: Arts. 28A, 28B inserted (31.12.2020) by [The Electricity and Gas (Powers to Make Subordinate Legislation) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1286)](https://www.legislation.gov.uk/uksi/2018/1286), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1286/regulation/1/2/b), [14](https://www.legislation.gov.uk/uksi/2018/1286/regulation/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-63f94d02e460d3de0f561860da976bd5]: Textual amendment: Art. 29 omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-63f94d02e460d3de0f561860da976bd5]: Textual amendment: Art. 29 omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a820c66793952a8c6e933355c529fcb5]: Textual amendment: Arts. 30A, 30B substituted for Art. 30 (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a820c66793952a8c6e933355c529fcb5]: Textual amendment: Arts. 30A, 30B substituted for Art. 30 (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3f81eeab06cbec71649411d620cd710b]: Textual amendment: Words in Art. 31 substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3f81eeab06cbec71649411d620cd710b]: Textual amendment: Words in Art. 31 substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-997dda4146d0b75739ac6ac2cec6e339]: Textual amendment: Words in [Art. 31](https://www.legislation.gov.uk/eur/2009/715/article/31) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 12(4)](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/12/4)
+[^c-997dda4146d0b75739ac6ac2cec6e339]: Textual amendment: Words in [Art. 31](https://www.legislation.gov.uk/eur/2009/715/article/31) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 12(4)](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/12/4)
 
 [^c000004]: Editorial: Substituted by [Corrigendum to Regulation (EC) No 715/2009 of the European Parliament and of the Council of 13 July 2009 on conditions for access to the natural gas transmission networks and repealing Regulation (EC) No 1775/2005 (Official Journal of the European Union L 211 of 14 August 2009)](https://www.legislation.gov.uk/eur/2009/715/pdfs/eurcs_20090715_en_001.pdf).
 
-[^key-8fd3e6a1ecb3875a89872d235130d83d]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8fd3e6a1ecb3875a89872d235130d83d]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-97a36ce90ea8c2fea8d8c608751990f7]: Textual amendment: Words in Annex 1 point 1.5 omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(2)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-97a36ce90ea8c2fea8d8c608751990f7]: Textual amendment: Words in Annex 1 point 1.5 omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(2)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cd48111cc3616bbed0cab01a102b932d]: Textual amendment: Words in Annex 1 point 1.8 inserted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(3)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cd48111cc3616bbed0cab01a102b932d]: Textual amendment: Words in Annex 1 point 1.8 inserted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(3)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3b35a1b1376e472677229a68f7ad2e4e]: Textual amendment: Word in Annex 1 point 2.1.6 inserted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(4)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3b35a1b1376e472677229a68f7ad2e4e]: Textual amendment: Word in Annex 1 point 2.1.6 inserted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(4)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000005]: Textual amendment: Substituted by [Commission Decision of 24 August 2012 on amending Annex I to Regulation (EC) No 715/2009 of the European Parliament and of the Council on conditions for access to the natural gas transmission networks (Text with EEA relevance) (2012/490/EU)](https://www.legislation.gov.uk/eudn/2012/490).
 
-[^key-721951fd8f0631d589926dbce1d93630]: Textual amendment: Words in Annex 1 point 2.2.1 substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(5)(a)(i)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/5/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-721951fd8f0631d589926dbce1d93630]: Textual amendment: Words in Annex 1 point 2.2.1 substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(5)(a)(i)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/5/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cfbe0bad2cfc1f8059358738fc60e07b]: Textual amendment: Words in Annex 1 point 2.2.1(1) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/5/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cfbe0bad2cfc1f8059358738fc60e07b]: Textual amendment: Words in Annex 1 point 2.2.1(1) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/5/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-517b8c8ccf7990a66917067255472344]: Textual amendment: Annex 1 point 2.2.1(2) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(5)(b)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-517b8c8ccf7990a66917067255472344]: Textual amendment: Annex 1 point 2.2.1(2) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(5)(b)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-245211ab0dedbd40c38749c3c60faf97]: Textual amendment: Words in Annex 1 point 2.2.1(4) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(5)(c)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-245211ab0dedbd40c38749c3c60faf97]: Textual amendment: Words in Annex 1 point 2.2.1(4) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(5)(c)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-097443b43a464016c3b6bbc35378c03d]: Textual amendment: Words in Annex 1 point 2.2.2(1) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(6)(a)(i)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/6/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-097443b43a464016c3b6bbc35378c03d]: Textual amendment: Words in Annex 1 point 2.2.2(1) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(6)(a)(i)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/6/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-85287b8a33730c43a23901d5348df0bb]: Textual amendment: Word in Annex 1 point 2.2.2(1) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/6/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-85287b8a33730c43a23901d5348df0bb]: Textual amendment: Word in Annex 1 point 2.2.2(1) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/6/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-33913ae9efd844f9f5992a4f8f8ff4ad]: Textual amendment: Words in Annex 1 point 2.2.2(3) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(6)(b)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-33913ae9efd844f9f5992a4f8f8ff4ad]: Textual amendment: Words in Annex 1 point 2.2.2(3) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(6)(b)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-37ef683deb95bd3848eea8e6db0448dd]: Textual amendment: Words in Annex 1 point 2.2.3(1) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(7)(a)(i)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/7/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-37ef683deb95bd3848eea8e6db0448dd]: Textual amendment: Words in Annex 1 point 2.2.3(1) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(7)(a)(i)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/7/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-67bb11b89433784b3c88b7edadf8132f]: Textual amendment: Words in Annex 1 point 2.2.3(1) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/7/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-67bb11b89433784b3c88b7edadf8132f]: Textual amendment: Words in Annex 1 point 2.2.3(1) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/7/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2b2235763775bbea4803265f0f910f19]: Textual amendment: Words in Annex 1 point 2.23(1) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(7)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/7/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2b2235763775bbea4803265f0f910f19]: Textual amendment: Words in Annex 1 point 2.23(1) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(7)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/7/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-34af66b3fa94691327f1f5d786581695]: Textual amendment: Words in Annex 1 point 2.23(2) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(7)(b)(i)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/7/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-34af66b3fa94691327f1f5d786581695]: Textual amendment: Words in Annex 1 point 2.23(2) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(7)(b)(i)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/7/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9b9df2f4838cf5bc75b5ed77a2432259]: Textual amendment: Words in Annex 1 point 2.232(2) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/7/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9b9df2f4838cf5bc75b5ed77a2432259]: Textual amendment: Words in Annex 1 point 2.232(2) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/7/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0d3e7e76ef33cab40251c857165042ee]: Textual amendment: Words in Annex 1 point 2.23(5) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(7)(c)(i)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/7/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0d3e7e76ef33cab40251c857165042ee]: Textual amendment: Words in Annex 1 point 2.23(5) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(7)(c)(i)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/7/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1d6e95dabfd0b8c2413212ca9cf8fd2e]: Textual amendment: Words in Annex 1 point 2.23(5) inserted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(7)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/7/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1d6e95dabfd0b8c2413212ca9cf8fd2e]: Textual amendment: Words in Annex 1 point 2.23(5) inserted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(7)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/7/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2071103b1f2c02d0f99e0e541defd873]: Textual amendment: Words in Annex 1 point 2.23(6) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(7)(d)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/7/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2071103b1f2c02d0f99e0e541defd873]: Textual amendment: Words in Annex 1 point 2.23(6) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(7)(d)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/7/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8df53a6be4c3d8568437a7eaebc06cab]: Textual amendment: Word in Annex 1 point 2.23(7) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(7)(e)(i)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/7/e/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8df53a6be4c3d8568437a7eaebc06cab]: Textual amendment: Word in Annex 1 point 2.23(7) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(7)(e)(i)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/7/e/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f9098db556d68c2402a080ab7f945a18]: Textual amendment: Words in Annex 1 point 2.232(7) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(7)(e)(ii)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/7/e/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f9098db556d68c2402a080ab7f945a18]: Textual amendment: Words in Annex 1 point 2.232(7) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(7)(e)(ii)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/7/e/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3309163146fae3d407128c41867f7319]: Textual amendment: Word in Annex 1 point 2.23(7) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(7)(e)(iii)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/7/e/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3309163146fae3d407128c41867f7319]: Textual amendment: Word in Annex 1 point 2.23(7) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(7)(e)(iii)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/7/e/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1d1e22d45f143e807cfd66b792b603e3]: Textual amendment: Words in Annex 1 point 2.2.5(1) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(8)(a)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1d1e22d45f143e807cfd66b792b603e3]: Textual amendment: Words in Annex 1 point 2.2.5(1) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(8)(a)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5bb54bb70769975a4999936685b5143b]: Textual amendment: Words in Annex 1 point 2.2.5(4) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(8)(b)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5bb54bb70769975a4999936685b5143b]: Textual amendment: Words in Annex 1 point 2.2.5(4) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(8)(b)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000007]: Textual amendment: Substituted by [Commission Decision of 10 November 2010 amending Chapter 3 of Annex I to Regulation (EC) No 715/2009 of the European Parliament and of the Council on conditions for access to the natural gas transmission networks (Text with EEA relevance) (2010/685/EU)](https://www.legislation.gov.uk/eudn/2010/685).
 
-[^key-901ff328a06f4d3b59bc1081b38b8f3b]: Textual amendment: Word in Annex 1 point 3.1.1(e) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(9)(a)(i)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/9/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-901ff328a06f4d3b59bc1081b38b8f3b]: Textual amendment: Word in Annex 1 point 3.1.1(e) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(9)(a)(i)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/9/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d8740d303cee66c10f737f95b74638b5]: Textual amendment: Words in Annex 1 point 3.1.1(e) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(9)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/9/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d8740d303cee66c10f737f95b74638b5]: Textual amendment: Words in Annex 1 point 3.1.1(e) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(9)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/9/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f5f230b78c26c0b50a88837b1fac517c]: Textual amendment: Annex 1 point 3.1.1(g)(h) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(9)(b)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f5f230b78c26c0b50a88837b1fac517c]: Textual amendment: Annex 1 point 3.1.1(g)(h) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(9)(b)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d5533e79dbdbfcc8e1f7e9e53d5483fe]: Textual amendment: Words in Annex 1 point 3.2(1)(a) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(10)(a)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/10/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d5533e79dbdbfcc8e1f7e9e53d5483fe]: Textual amendment: Words in Annex 1 point 3.2(1)(a) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(10)(a)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/10/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-174f2840f050dacc937191566ec47929]: Textual amendment: Words in Annex 1 point 3.2(1)(d) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(10)(b)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/10/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-174f2840f050dacc937191566ec47929]: Textual amendment: Words in Annex 1 point 3.2(1)(d) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(10)(b)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/10/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bc43e620a46853f23ff47ea69d1eea2c]: Textual amendment: Words in Annex 1 point 3.3(1) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(11)(a)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bc43e620a46853f23ff47ea69d1eea2c]: Textual amendment: Words in Annex 1 point 3.3(1) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(11)(a)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000008]: Textual amendment: Inserted by [Commission Decision of 24 August 2012 on amending Annex I to Regulation (EC) No 715/2009 of the European Parliament and of the Council on conditions for access to the natural gas transmission networks (Text with EEA relevance) (2012/490/EU)](https://www.legislation.gov.uk/eudn/2012/490).
 
-[^key-d84cec9668e32ef507feb8c228f04725]: Textual amendment: Annex 1(l) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(11)(b)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d84cec9668e32ef507feb8c228f04725]: Textual amendment: Annex 1(l) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(11)(b)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000006]: Textual amendment: Substituted by [Commission Decision (EU) 2015/715 of 30 April 2015 amending Annex I to Regulation (EC) No 715/2009 of the European Parliament and of the Council on conditions for access to the natural gas transmission networks (Text with EEA relevance)](https://www.legislation.gov.uk/eudn/2015/715).
 
-[^key-c559e4fd68eaed222cee88067ffcafac]: Textual amendment: Word in Annex 1 point 3.4(7) inserted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(12)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c559e4fd68eaed222cee88067ffcafac]: Textual amendment: Word in Annex 1 point 3.4(7) inserted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 19(12)](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/19/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5166de181008534d74399d5f97f05490]: Textual amendment: Words in Annex 2 omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5166de181008534d74399d5f97f05490]: Textual amendment: Words in Annex 2 omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2019/530/schedule/2/paragraph/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

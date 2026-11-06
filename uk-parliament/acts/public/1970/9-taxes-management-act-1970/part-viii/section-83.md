@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Responsibilities and indemnification of persons in whose name a non-resident person is chargeable.[^key-c96988f96586590a78d6bc483c1f220e]
+## 83. Responsibilities and indemnification of persons in whose name a non-resident person is chargeable.[^c-c96988f96586590a78d6bc483c1f220e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c96988f96586590a78d6bc483c1f220e]: Textual amendment: Ss. 78-85 repealed (with effect in accordance with Sch. 29 Pt. 8(16) Note 5 of the amending Act) by [Finance Act 1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), [Sch. 29 Pt. 8(16)](https://www.legislation.gov.uk/ukpga/1995/4/schedule/29/part/VIII/16)
+[^c-c96988f96586590a78d6bc483c1f220e]: Textual amendment: Ss. 78-85 repealed (with effect in accordance with Sch. 29 Pt. 8(16) Note 5 of the amending Act) by [Finance Act 1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), [Sch. 29 Pt. 8(16)](https://www.legislation.gov.uk/ukpga/1995/4/schedule/29/part/VIII/16)

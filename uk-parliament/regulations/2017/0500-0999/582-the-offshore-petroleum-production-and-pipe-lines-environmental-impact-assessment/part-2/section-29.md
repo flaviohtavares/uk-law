@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. New regulation 3A (exempt pipe-line works)[^key-7c0207a6551a2df47d81313c41deee03]
+## 29. New regulation 3A (exempt pipe-line works)[^c-7c0207a6551a2df47d81313c41deee03]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ After regulation 3, insert—
 
 ## Annotations
 
-[^key-7c0207a6551a2df47d81313c41deee03]: Commencement: Reg. 29 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-7c0207a6551a2df47d81313c41deee03]: Commencement: Reg. 29 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)

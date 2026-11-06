@@ -249,7 +249,7 @@ Article 3(2)
 
 (1) A scheme under section 15 [^c134161] may be limited so as to apply only to Northern Ireland fishing boats.
 
-(2)[^key-9327a747c0b53b0ccc6cf459c64378b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9327a747c0b53b0ccc6cf459c64378b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Those functions shall, despite their transfer, be exercisable by the person by whom they were exercisable immediately before the transfer as well as by the Department of Agriculture and Rural Development.
 
@@ -274,9 +274,9 @@ Article 3(2)
 - (a) sections 15(1) and 16(3) shall have effect with the substitution of “the Department of Finance and Personnel” for “the Treasury”, and
 - (b) section 16(6) shall have effect with the substitution for the reference to the Comptroller and Auditor General of a reference to the Comptroller and Auditor General for Northern Ireland.
 
-### 3. Function under section 30 of the Fisheries Act 1981 ...[^key-252b6bbd506b5ec29209557d0feea5d8]
+### 3. Function under section 30 of the Fisheries Act 1981 ...[^c-252b6bbd506b5ec29209557d0feea5d8]
 
-(1) The function conferred by section 30(2) of making provision by order for the enforcement of any assimilated[^key-05c7d0d4ef4622a4912b6b8200c64745][^key-438949f6cef6f6d0cc905a0d89cd9f3e] restriction or assimilated obligation relating to sea fishing—
+(1) The function conferred by section 30(2) of making provision by order for the enforcement of any assimilated[^c-05c7d0d4ef4622a4912b6b8200c64745][^c-438949f6cef6f6d0cc905a0d89cd9f3e] restriction or assimilated obligation relating to sea fishing—
 
 - (a) within the Northern Ireland zone, and
 - (b) outside that zone in relation to Northern Ireland fishing boats,
@@ -314,7 +314,7 @@ Orders under section 5 of the Sea Fisheries Act 1968 [^c134201] may make provisi
 
 - (a) in relation to British fishing boats other than Northern Ireland fishing boats, within the Northern Ireland zone,
 - (b) in relation to Northern Ireland fishing boats outside the Northern Ireland zone,
-- (c) in relation to any boat, for the purpose of implementing an assimilated[^key-b363b41a90b9fb053608c002b08df6b8][^key-f104b2bb04f4c0c692858f5b66c901e4] obligation,
+- (c) in relation to any boat, for the purpose of implementing an assimilated[^c-b363b41a90b9fb053608c002b08df6b8][^c-f104b2bb04f4c0c692858f5b66c901e4] obligation,
 
 it shall, despite its transfer under sub-paragraph (1), be exercisable by the person by whom it was exercisable immediately before the transfer as well as by the Department of Agriculture and Rural Development.
 
@@ -460,23 +460,23 @@ As a consequence of these functions being transferred to the Department of Agric
 
 [^c134161]: Marginal citation: [Section 15](https://www.legislation.gov.uk/uksi/2002/790/section/15) was amended by the Consequential Modifications Order art.4, Sch.2, para.68.
 
-[^key-9327a747c0b53b0ccc6cf459c64378b1]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2002/790/schedule/2/paragraph/2) omitted (23.11.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(1)(c)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/1/c), [Sch. 6 para. 4(2)(e)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/6/paragraph/4/2/e) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-9327a747c0b53b0ccc6cf459c64378b1]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2002/790/schedule/2/paragraph/2) omitted (23.11.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(1)(c)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/1/c), [Sch. 6 para. 4(2)(e)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/6/paragraph/4/2/e) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^c134181]: Marginal citation: [S.I. 1979/1573 (N.I. 12)](https://www.legislation.gov.uk/nisi/1979/1573).
 
-[^key-252b6bbd506b5ec29209557d0feea5d8]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2002/790/schedule/2/paragraph/3) heading omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2019/746/regulation/6/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-252b6bbd506b5ec29209557d0feea5d8]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2002/790/schedule/2/paragraph/3) heading omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2019/746/regulation/6/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-05c7d0d4ef4622a4912b6b8200c64745]: Textual amendment: Word in [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/uksi/2002/790/schedule/2/paragraph/3/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 48(2)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/48/2)
+[^c-05c7d0d4ef4622a4912b6b8200c64745]: Textual amendment: Word in [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/uksi/2002/790/schedule/2/paragraph/3/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 48(2)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/48/2)
 
-[^key-438949f6cef6f6d0cc905a0d89cd9f3e]: Textual amendment: Words in [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/uksi/2002/790/schedule/2/paragraph/3/1) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2019/746/regulation/6/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-438949f6cef6f6d0cc905a0d89cd9f3e]: Textual amendment: Words in [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/uksi/2002/790/schedule/2/paragraph/3/1) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2019/746/regulation/6/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c134191]: Marginal citation: [1962 c.31](https://www.legislation.gov.uk/ukpga/1962/31). Section 17 was amended by the Sea Fish (Conservation) Act 1967 s.25(1), Sch. and the Fishery Limits Act 1976 s.2(8). \[A\] relevant amendment\[s\] to the definition of “the Ministers” in section 33(2) \[was\] \[were\] made by the Consequential Modifications Order art.4, Sch.2, para.33 \[and the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 (S.I. 2002/)\].
 
 [^c134201]: Marginal citation: [1968 c.77](https://www.legislation.gov.uk/ukpga/1968/77). Relevant amendments to the Sea Fisheries Act 1968 include the transfer of functions under that Act by the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), the Scotland Act 1998 (Concurrent Functions) Order 1999 [S.I. 1999/1592](https://www.legislation.gov.uk/uksi/1999/1592) art.3, Sch.1, the [Scotland Act 1998 (Modification of Functions) Order 1999 (S.I. 1999/1756)](https://www.legislation.gov.uk/uksi/1999/1756), the [Consequential Modifications Order, the Government of Wales Act 1998 (c.38)](https://www.legislation.gov.uk/ukpga/1998/38), the [National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)](https://www.legislation.gov.uk/uksi/1999/672) art.2, Sch.1, the [Transfer of Functions (Agriculture and Fisheries) Order 2000 (S.I. 2000/1812)](https://www.legislation.gov.uk/uksi/2000/1812) \[and the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 (S.I.2002/)\]. Section 5 was amended by the [Fishery Limits Act 1976 (c.86)](https://www.legislation.gov.uk/ukpga/1976/86) ss.4, 5, 9, Sch.1 para.3, Sch.2, para.17, the [Fisheries Act 1981 (c.29)](https://www.legislation.gov.uk/ukpga/1981/29) s.24(2), and the Consequential Modifications Order art.4, Sch.2, para.48(2).
 
-[^key-b363b41a90b9fb053608c002b08df6b8]: Textual amendment: Words in [Sch. 3 para. 3(2)(c)](https://www.legislation.gov.uk/uksi/2002/790/schedule/3/paragraph/3/2/c) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 48(3)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/48/3)
+[^c-b363b41a90b9fb053608c002b08df6b8]: Textual amendment: Words in [Sch. 3 para. 3(2)(c)](https://www.legislation.gov.uk/uksi/2002/790/schedule/3/paragraph/3/2/c) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 48(3)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/48/3)
 
-[^key-f104b2bb04f4c0c692858f5b66c901e4]: Textual amendment: Words in [Sch. 3 para. 3(2)(c)](https://www.legislation.gov.uk/uksi/2002/790/schedule/3/paragraph/3/2/c) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2019/746/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f104b2bb04f4c0c692858f5b66c901e4]: Textual amendment: Words in [Sch. 3 para. 3(2)(c)](https://www.legislation.gov.uk/uksi/2002/790/schedule/3/paragraph/3/2/c) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2019/746/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c134211]: Marginal citation: [Section 18](https://www.legislation.gov.uk/uksi/2002/790/section/18) was amended by the [Sea Fish Industry Act 1970 (c.11)](https://www.legislation.gov.uk/ukpga/1970/11) s.61, Sch.6 and the Consequential Modifications Order art.4, Sch.2, para.48(2).
 

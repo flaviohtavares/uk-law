@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Determination of the winning assignment stage bids for numbered 800 MHz paired frequency lots[^key-b3910724124f8f8f3ab1764f64e5300a]
+## 103. Determination of the winning assignment stage bids for numbered 800 MHz paired frequency lots[^c-b3910724124f8f8f3ab1764f64e5300a]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3910724124f8f8f3ab1764f64e5300a]: Commencement: Reg. 103 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-b3910724124f8f8f3ab1764f64e5300a]: Commencement: Reg. 103 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

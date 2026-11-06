@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Joint ITA-London charging schemes[^key-6e93ffa7f76755cc2744a2af3e9c65d6][^key-60dea711663753d9edefc058e5bc5246]
+## 108. Joint ITA-London charging schemes[^c-6e93ffa7f76755cc2744a2af3e9c65d6][^c-60dea711663753d9edefc058e5bc5246]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ After section 166 of the TA 2000 (joint local-London charging schemes) insert—
 
 ## Annotations
 
-[^key-6e93ffa7f76755cc2744a2af3e9c65d6]: Commencement: S. 108 in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-6e93ffa7f76755cc2744a2af3e9c65d6]: Commencement: S. 108 in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-60dea711663753d9edefc058e5bc5246]: Commencement: S. 108 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(j)](https://www.legislation.gov.uk/uksi/2009/579/article/2/j)
+[^c-60dea711663753d9edefc058e5bc5246]: Commencement: S. 108 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(j)](https://www.legislation.gov.uk/uksi/2009/579/article/2/j)

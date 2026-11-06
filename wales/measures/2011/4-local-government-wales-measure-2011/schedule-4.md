@@ -22,7 +22,7 @@ summary: ''
 
 (*introduced by section 176(2)*)
 
-### PART A: — STRENGTHENING LOCAL DEMOCRACY (PART 1 OF THE MEASURE)[^key-4b906f2e41681eb20fb03bff23ac142c]
+### PART A: — STRENGTHENING LOCAL DEMOCRACY (PART 1 OF THE MEASURE)[^c-4b906f2e41681eb20fb03bff23ac142c]
 
 | *Reference* | *Extent of repeal* |
 | --- | --- |
@@ -47,7 +47,7 @@ summary: ''
 | --- | --- |
 | Local Government Act 2000 | Section 30. |
 
-### PART D: — OVERVIEW AND SCRUTINY (PART 6 OF THE MEASURE)[^key-de48b5116dda60a9ece2ae25dd6fec0f]
+### PART D: — OVERVIEW AND SCRUTINY (PART 6 OF THE MEASURE)[^c-de48b5116dda60a9ece2ae25dd6fec0f]
 
 | *Reference* | *Extent of repeal* |
 | --- | --- |
@@ -59,7 +59,7 @@ summary: ''
 | --- | --- |
 | Local Government Act 1972 | Sections 28 to 29B. |
 
-### PART F: — MEMBERS: PAYMENTS AND PENSIONS (PART 8 OF THE MEASURE)[^key-4c20bfdb951e1329bac5392e8468603d]
+### PART F: — MEMBERS: PAYMENTS AND PENSIONS (PART 8 OF THE MEASURE)[^c-4c20bfdb951e1329bac5392e8468603d]
 
 | *Reference* | *Extent of repeal or revocation* |
 | --- | --- |
@@ -74,8 +74,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4b906f2e41681eb20fb03bff23ac142c]: Commencement: [Sch. 4 Pt. A](https://www.legislation.gov.uk/mwa/2011/4/schedule/4/part/A) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(2)(m)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/2/m)
+[^c-4b906f2e41681eb20fb03bff23ac142c]: Commencement: [Sch. 4 Pt. A](https://www.legislation.gov.uk/mwa/2011/4/schedule/4/part/A) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(2)(m)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/2/m)
 
-[^key-de48b5116dda60a9ece2ae25dd6fec0f]: Commencement: [Sch. 4 Pt. D](https://www.legislation.gov.uk/mwa/2011/4/schedule/4/part/D) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(2)(m)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/2/m)
+[^c-de48b5116dda60a9ece2ae25dd6fec0f]: Commencement: [Sch. 4 Pt. D](https://www.legislation.gov.uk/mwa/2011/4/schedule/4/part/D) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(2)(m)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/2/m)
 
-[^key-4c20bfdb951e1329bac5392e8468603d]: Commencement: [Sch. 4 Pt. F](https://www.legislation.gov.uk/mwa/2011/4/schedule/4/part/F) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(2)(m)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/2/m) (with [art. 3](https://www.legislation.gov.uk/wsi/2012/1187/article/3))
+[^c-4c20bfdb951e1329bac5392e8468603d]: Commencement: [Sch. 4 Pt. F](https://www.legislation.gov.uk/mwa/2011/4/schedule/4/part/F) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(2)(m)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/2/m) (with [art. 3](https://www.legislation.gov.uk/wsi/2012/1187/article/3))

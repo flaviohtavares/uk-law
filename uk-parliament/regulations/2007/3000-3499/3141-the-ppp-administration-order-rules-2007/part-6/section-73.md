@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Right of audience[^key-b42a0db8d0779a23f8c4364bf4e0add7]
+## 73. Right of audience[^c-b42a0db8d0779a23f8c4364bf4e0add7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Rights of audience in PPP administration proceedings are the same as obtain in i
 
 ## Annotations
 
-[^key-b42a0db8d0779a23f8c4364bf4e0add7]: Commencement: [Rule 73](https://www.legislation.gov.uk/uksi/2007/3141/rule/73) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-b42a0db8d0779a23f8c4364bf4e0add7]: Commencement: [Rule 73](https://www.legislation.gov.uk/uksi/2007/3141/rule/73) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 242. Provisions for pardons and criminal records of women prosecuted under abortion law[^key-167ebde69fba052c4c242bf849adaeb6]
+## 242. Provisions for pardons and criminal records of women prosecuted under abortion law[^c-167ebde69fba052c4c242bf849adaeb6]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-167ebde69fba052c4c242bf849adaeb6]: Commencement: S. 242 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-167ebde69fba052c4c242bf849adaeb6]: Commencement: S. 242 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

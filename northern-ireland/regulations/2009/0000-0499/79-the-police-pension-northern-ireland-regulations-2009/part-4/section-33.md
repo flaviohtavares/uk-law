@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Pension debit members - personal awards[^key-e6d55fcbe03363f0dba9b9265bd6baf5]
+## 33. Pension debit members - personal awards[^c-e6d55fcbe03363f0dba9b9265bd6baf5]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ Where a pension debit member is entitled to an award under regulation 24, 26, 29
 
 ## Annotations
 
-[^key-e6d55fcbe03363f0dba9b9265bd6baf5]: Commencement: Reg. 33 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-e6d55fcbe03363f0dba9b9265bd6baf5]: Commencement: Reg. 33 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

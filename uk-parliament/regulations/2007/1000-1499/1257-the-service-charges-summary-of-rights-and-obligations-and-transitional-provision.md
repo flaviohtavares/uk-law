@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State for Communities and Local Government, in exercise of the powers conferred by section 21B of the Landlord and Tenant Act 1985[^f00001] and section 178 of the Commonhold and Leasehold Reform Act 2002[^f00002], makes the following Regulations:
 
-## 1. Citation and commencement[^key-907abd42817dc2f3855a20004bcc3508]
+## 1. Citation and commencement[^c-907abd42817dc2f3855a20004bcc3508]
 
 These Regulations may be cited as the Service Charges (Summary of Rights and Obligations, and Transitional Provision) (England) Regulations 2007 and shall come into force on the 1st October 2007.
 
-## 2. Application[^key-7a56abe7f23e8b02aeb0586ecb87def8]
+## 2. Application[^c-7a56abe7f23e8b02aeb0586ecb87def8]
 
 (1) Subject to regulation 4, these Regulations apply where, on or after 1st October 2007, a demand for payment of a service charge[^f00003] is served in relation to a dwelling[^f00004].
 
@@ -61,7 +61,7 @@ These Regulations may be cited as the Service Charges (Summary of Rights and Obl
 - (a) the lease is not a long lease within section 26 of the Landlord and Tenant Act 1985; and
 - (b) the landlord is a local authority, a National Park Authority or a new town corporation.
 
-## 3. Form and content of summary of rights and obligations[^key-1035c693ed8c4a62fed771109492ce98]
+## 3. Form and content of summary of rights and obligations[^c-1035c693ed8c4a62fed771109492ce98]
 
 Where these Regulations apply the summary of rights and obligations which must accompany a demand for the payment of a service charge must be legible in a typewritten or printed form of at least 10 point, and must contain—
 
@@ -72,7 +72,7 @@ Where these Regulations apply the summary of rights and obligations which must a
   >
   > (2) Your lease sets out your obligations to pay service charges to your landlord in addition to your rent. Service charges are amounts payable for services, repairs, maintenance, improvements, insurance or the landlord’s costs of management, to the extent that the costs have been reasonably incurred.
   >
-  > (3) You have the right to ask the First-tier Tribunal[^key-88b72505704323cc96f75e77af567d77] to determine whether you are liable to pay service charges for services, repairs, maintenance, improvements, insurance or management. You may make a request before or after you have paid the service charge. If the tribunal determines that the service charge is payable, the tribunal may also determine—
+  > (3) You have the right to ask the First-tier Tribunal[^c-88b72505704323cc96f75e77af567d77] to determine whether you are liable to pay service charges for services, repairs, maintenance, improvements, insurance or management. You may make a request before or after you have paid the service charge. If the tribunal determines that the service charge is payable, the tribunal may also determine—
   >
   > - who should pay the service charge and who it should be paid to;
   > - the amount;
@@ -87,7 +87,7 @@ Where these Regulations apply the summary of rights and obligations which must a
   >
   > (4) If your lease allows your landlord to recover costs incurred or that may be incurred in legal proceedings as service charges, you may ask the court or tribunal, before which those proceedings were brought, to rule that your landlord may not do so.
   >
-  > (5)[^key-1b14b00d96484b0ea5428c26df9a613f] Where you seek a determination from the First-tier Tribunal, you will have to pay an application fee and, where the matter proceeds to an oral hearing, a hearing fee, unless you qualify for fee remission or exemption. Making such an application may incur additional costs, such as professional fees, which you may have to pay.
+  > (5)[^c-1b14b00d96484b0ea5428c26df9a613f] Where you seek a determination from the First-tier Tribunal, you will have to pay an application fee and, where the matter proceeds to an oral hearing, a hearing fee, unless you qualify for fee remission or exemption. Making such an application may incur additional costs, such as professional fees, which you may have to pay.
   >
   > (6) The First-tier Tribunal and the Upper Tribunal (in determining an appeal against a decision of the First-tier Tribunal) have the power to award costs in accordance with section 29 of the Tribunals, Courts and Enforcement Act 2007.
   >
@@ -95,9 +95,9 @@ Where these Regulations apply the summary of rights and obligations which must a
   >
   > - proposes works on a building or any other premises that will cost you or any other tenant more than £250, or
   > - proposes to enter into an agreement for works or services which will last for more than 12 months and will cost you or any other tenant more than £100 in any 12 month accounting period,
-  > - your contribution will be limited to these amounts unless your landlord has properly consulted on the proposed works or agreement or the First-tier Tribunal[^key-98883d9decfe355121d6566cde461845] has agreed that consultation is not required.
+  > - your contribution will be limited to these amounts unless your landlord has properly consulted on the proposed works or agreement or the First-tier Tribunal[^c-98883d9decfe355121d6566cde461845] has agreed that consultation is not required.
   >
-  > (8) You have the right to apply to the First-tier Tribunal[^key-1f908a09f6d51f60815ad891ba474c9a] to ask it to determine whether your lease should be varied on the grounds that it does not make satisfactory provision in respect of the calculation of a service charge payable under the lease.
+  > (8) You have the right to apply to the First-tier Tribunal[^c-1f908a09f6d51f60815ad891ba474c9a] to ask it to determine whether your lease should be varied on the grounds that it does not make satisfactory provision in respect of the calculation of a service charge payable under the lease.
   >
   > (9) You have the right to write to your landlord to request a written summary of the costs which make up the service charges. The summary must—
   >
@@ -114,7 +114,7 @@ Where these Regulations apply the summary of rights and obligations which must a
 
   .
 
-## 4. Transitional provision[^key-4a506a99b262dd47c1f4b71c2f01d71f]
+## 4. Transitional provision[^c-4a506a99b262dd47c1f4b71c2f01d71f]
 
 The following provisions apply where a demand (“the first demand”) for the payment of service charges was served prior to 1st October 2007—
 
@@ -147,9 +147,9 @@ A Regulatory Impact Assessment has been prepared in relation to these Regulation
 
 [^f00002]: Footnote: [2002 c.15](https://www.legislation.gov.uk/ukpga/2002/15).
 
-[^key-907abd42817dc2f3855a20004bcc3508]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2007/1257/regulation/1) in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1257/regulation/1)
+[^c-907abd42817dc2f3855a20004bcc3508]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2007/1257/regulation/1) in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1257/regulation/1)
 
-[^key-7a56abe7f23e8b02aeb0586ecb87def8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2007/1257/regulation/2) in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1257/regulation/1)
+[^c-7a56abe7f23e8b02aeb0586ecb87def8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2007/1257/regulation/2) in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1257/regulation/1)
 
 [^f00003]: Footnote: For the meaning of “service charge”, *see* section 18 of the Landlord and Tenant Act [1985 (c.70)](https://www.legislation.gov.uk/ukpga/1985/70). Section 18 was amended by section 41 of the Landlord and Tenant Act [1987 (c.31)](https://www.legislation.gov.uk/ukpga/1987/31) and section 150 of the Commonhold and Leasehold Reform Act 2002.
 
@@ -157,16 +157,16 @@ A Regulatory Impact Assessment has been prepared in relation to these Regulation
 
 [^f00005]: Footnote: For the meaning of “lease”, *see* section 36 of the Landlord and Tenant Act 1985.
 
-[^key-1035c693ed8c4a62fed771109492ce98]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2007/1257/regulation/3) in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1257/regulation/1)
+[^c-1035c693ed8c4a62fed771109492ce98]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2007/1257/regulation/3) in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1257/regulation/1)
 
-[^key-88b72505704323cc96f75e77af567d77]: Textual amendment: Words in reg. 3 substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 40(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/40/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-88b72505704323cc96f75e77af567d77]: Textual amendment: Words in reg. 3 substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 40(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/40/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-1b14b00d96484b0ea5428c26df9a613f]: Textual amendment: Words in reg. 3 substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 40(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/40/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-1b14b00d96484b0ea5428c26df9a613f]: Textual amendment: Words in reg. 3 substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 40(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/40/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-98883d9decfe355121d6566cde461845]: Textual amendment: Words in reg. 3 substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 40(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/40/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-98883d9decfe355121d6566cde461845]: Textual amendment: Words in reg. 3 substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 40(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/40/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-1f908a09f6d51f60815ad891ba474c9a]: Textual amendment: Words in reg. 3 substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 40(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/40/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-1f908a09f6d51f60815ad891ba474c9a]: Textual amendment: Words in reg. 3 substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 40(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/40/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-4a506a99b262dd47c1f4b71c2f01d71f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2007/1257/regulation/4) in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1257/regulation/1)
+[^c-4a506a99b262dd47c1f4b71c2f01d71f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2007/1257/regulation/4) in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1257/regulation/1)
 
 [^f00006]: Footnote: [1985 c.70](https://www.legislation.gov.uk/ukpga/1985/70).

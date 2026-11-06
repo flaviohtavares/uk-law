@@ -37,7 +37,7 @@ supplementing Regulation (EU) No 575/2013 of the European Parliament and of the 
 
 (Text with EEA relevance)
 
-[^key-7dc0374825dcb3ab7abea1a0eb75b0d7][^key-9da93e590d09bcd587de774fa5fcbf4c]
+[^c-7dc0374825dcb3ab7abea1a0eb75b0d7][^c-9da93e590d09bcd587de774fa5fcbf4c]
 
 THE EUROPEAN COMMISSION,
 
@@ -152,8 +152,8 @@ This Regulation lays down rules concerning:
 - ((c)) the applicable forms and nature of indirect funding of capital instruments, according to Article 28(5) of Regulation (EU) No 575/2013;
 - ((d)) the nature of limitations on redemption necessary where the refusal by the institution of the redemption of own funds instruments is prohibited under applicable national law, according to Article 29(6) of Regulation (EU) No 575/2013;
 - ((e)) the further specification of the concept of gain on sale according to Article 32(2) of Regulation (EU) No 575/2013;
-- ((f)) [^key-c48049deeca62fea92863bc58e661067]...
-- ((g)) [^key-845f5c117a47706469a6f00f5ae274cc]...
+- ((f)) [^c-c48049deeca62fea92863bc58e661067]...
+- ((g)) [^c-845f5c117a47706469a6f00f5ae274cc]...
 - ((h)) the form and nature of incentives to redeem, the nature of a write-up of an Additional Tier 1 instrument following a write-down of the principal amount on a temporary basis and the procedures and timing surrounding trigger events, features of instruments that could hinder recapitalisation and use of special purpose entities, according to Article 52(2) of Regulation (EU) No 575/2013;
 - ((i)) the extent of conservatism required in estimates used as an alternative to the calculation of underlying exposures for indirect holdings arising from index holdings, according to Article 76(4) of Regulation (EU) No 575/2013;
 - ((j)) certain detailed conditions that need to be met before a supervisory permission for reducing own funds can be given, and the relevant process, according to Article 78(5) of Regulation (EU) No 575/2013;
@@ -517,7 +517,7 @@ Subsection 4
 3. The extent of the limitations on redemption included in the provisions governing the instruments shall be determined by the institution on the basis of the prudential situation of the institution at any time, having regard to in particular, but not limited to:
 
 - (a) the overall financial, liquidity and solvency situation of the institution;
-- (b) the amount of Common Equity Tier 1 capital, Tier 1 and total capital compared to the total risk exposure amount calculated in accordance with the requirements laid down in point (a) of Article 92(1) of Regulation (EU) No 575/2013, the specific own funds requirements referred to in Article 104(1)(a) of Directive 2013/36/EU and the combined buffer defined in the Capital Buffers Part of the PRA rulebook[^key-53016e11ff5a59a9fa482a67f1d51639].
+- (b) the amount of Common Equity Tier 1 capital, Tier 1 and total capital compared to the total risk exposure amount calculated in accordance with the requirements laid down in point (a) of Article 92(1) of Regulation (EU) No 575/2013, the specific own funds requirements referred to in Article 104(1)(a) of Directive 2013/36/EU and the combined buffer defined in the Capital Buffers Part of the PRA rulebook[^c-53016e11ff5a59a9fa482a67f1d51639].
 
 #### Article 11. Limitations on redemption of capital instruments issued by mutuals, savings institutions, cooperative societies and similar institutions for the purposes of Article 29(2)(b) of Regulation (EU) No 575/2013 and Article 78(3) of Regulation (EU) No 575/2013
 
@@ -544,79 +544,79 @@ Subsection 4
 
 ### SECTION 3 — Deductions from Common Equity Tier 1 items
 
-#### Article 13. Deduction of losses for the current financial year for the purposes of Article 36(1)(a) of Regulation (EU) No 575/2013[^key-10456813eed63532bb656ebbffafd6e6]
+#### Article 13. Deduction of losses for the current financial year for the purposes of Article 36(1)(a) of Regulation (EU) No 575/2013[^c-10456813eed63532bb656ebbffafd6e6]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 13a. Deduction of software assets that are classified as intangible assets for accounting purposes for the purposes of Article 36(1), point (b), of Regulation (EU) No 575/2013[^key-10456813eed63532bb656ebbffafd6e6]
+#### Article 13a. Deduction of software assets that are classified as intangible assets for accounting purposes for the purposes of Article 36(1), point (b), of Regulation (EU) No 575/2013[^c-10456813eed63532bb656ebbffafd6e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 14. Deductions of deferred tax assets that rely on future profitability for the purposes of Article 36(1)(c) of Regulation (EU) No 575/2013[^key-10456813eed63532bb656ebbffafd6e6]
+#### Article 14. Deductions of deferred tax assets that rely on future profitability for the purposes of Article 36(1)(c) of Regulation (EU) No 575/2013[^c-10456813eed63532bb656ebbffafd6e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 15. Deduction of defined benefit pension fund assets for the purposes of Article 36(1)(e) of Regulation (EU) No 575/2013 and Article 41(1)(b) of Regulation (EU) No 575/2013[^key-10456813eed63532bb656ebbffafd6e6]
+#### Article 15. Deduction of defined benefit pension fund assets for the purposes of Article 36(1)(e) of Regulation (EU) No 575/2013 and Article 41(1)(b) of Regulation (EU) No 575/2013[^c-10456813eed63532bb656ebbffafd6e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 15a. Indirect holdings for the purposes of Article 36(1)(f),(h) and (i) of Regulation (EU) No 575/2013[^key-10456813eed63532bb656ebbffafd6e6]
+#### Article 15a. Indirect holdings for the purposes of Article 36(1)(f),(h) and (i) of Regulation (EU) No 575/2013[^c-10456813eed63532bb656ebbffafd6e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 15b. Synthetic holdings for the purposes of Article 36(1)(f),(h) and (i) of Regulation (EU) No 575/2013[^key-10456813eed63532bb656ebbffafd6e6]
+#### Article 15b. Synthetic holdings for the purposes of Article 36(1)(f),(h) and (i) of Regulation (EU) No 575/2013[^c-10456813eed63532bb656ebbffafd6e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 15c. Calculation of indirect holdings for the purposes of points (f),(h) and (i) of Article 36(1) of Regulation (EU) No 575/2013[^key-10456813eed63532bb656ebbffafd6e6]
+#### Article 15c. Calculation of indirect holdings for the purposes of points (f),(h) and (i) of Article 36(1) of Regulation (EU) No 575/2013[^c-10456813eed63532bb656ebbffafd6e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 15d. Default approach for the calculation of indirect holdings for the purposes of points (f),(h) and (i) of Article 36(1) of Regulation (EU) No 575/2013[^key-10456813eed63532bb656ebbffafd6e6]
+#### Article 15d. Default approach for the calculation of indirect holdings for the purposes of points (f),(h) and (i) of Article 36(1) of Regulation (EU) No 575/2013[^c-10456813eed63532bb656ebbffafd6e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 15e. Structure-based approach for the calculation of indirect holdings for the purposes of points (f), (h) and (i) of Article 36(1) of Regulation (EU) No 575/2013[^key-10456813eed63532bb656ebbffafd6e6]
+#### Article 15e. Structure-based approach for the calculation of indirect holdings for the purposes of points (f), (h) and (i) of Article 36(1) of Regulation (EU) No 575/2013[^c-10456813eed63532bb656ebbffafd6e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 15f. Calculation of synthetic holdings for the purposes of points (f),(h) and (i) of Article 36(1) of Regulation (EU) No 575/2013[^key-10456813eed63532bb656ebbffafd6e6]
+#### Article 15f. Calculation of synthetic holdings for the purposes of points (f),(h) and (i) of Article 36(1) of Regulation (EU) No 575/2013[^c-10456813eed63532bb656ebbffafd6e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 15g. Calculation of significant investments for the purposes of Article 36(1)(i) of Regulation (EU) No 575/2013[^key-10456813eed63532bb656ebbffafd6e6]
+#### Article 15g. Calculation of significant investments for the purposes of Article 36(1)(i) of Regulation (EU) No 575/2013[^c-10456813eed63532bb656ebbffafd6e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 15h. Holdings of Additional Tier 1 and Tier 2[^key-10456813eed63532bb656ebbffafd6e6]
+#### Article 15h. Holdings of Additional Tier 1 and Tier 2[^c-10456813eed63532bb656ebbffafd6e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 15i. Order and maximum amount of deductions of indirect holdings of own funds instruments of financial sector entities[^key-10456813eed63532bb656ebbffafd6e6]
+#### Article 15i. Order and maximum amount of deductions of indirect holdings of own funds instruments of financial sector entities[^c-10456813eed63532bb656ebbffafd6e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 15j. Goodwill[^key-10456813eed63532bb656ebbffafd6e6]
+#### Article 15j. Goodwill[^c-10456813eed63532bb656ebbffafd6e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 16. Deductions of foreseeable tax charges for the purposes of Article 36(1)(l) and Article 56(f) of Regulation (EU) No 575/2013[^key-10456813eed63532bb656ebbffafd6e6]
+#### Article 16. Deductions of foreseeable tax charges for the purposes of Article 36(1)(l) and Article 56(f) of Regulation (EU) No 575/2013[^c-10456813eed63532bb656ebbffafd6e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### SECTION 4 — Other deductions for Common Equity Tier 1, additional Tier 1 and Tier 2 items
 
-#### Article 17. Other deductions for capital instruments of financial institutions for the purposes of Article 36(3) of Regulation (EU) No 575/2013[^key-10456813eed63532bb656ebbffafd6e6]
+#### Article 17. Other deductions for capital instruments of financial institutions for the purposes of Article 36(3) of Regulation (EU) No 575/2013[^c-10456813eed63532bb656ebbffafd6e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 18. Capital instruments of third country insurance and reinsurance undertakings for the purposes of Article 36(3) of Regulation (EU) No 575/2013[^key-10456813eed63532bb656ebbffafd6e6]
+#### Article 18. Capital instruments of third country insurance and reinsurance undertakings for the purposes of Article 36(3) of Regulation (EU) No 575/2013[^c-10456813eed63532bb656ebbffafd6e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 19. Capital instruments of undertakings excluded from the scope of Directive 2009/138/EC for the purposes of Article 36(3) of Regulation (EU) No 575/2013[^key-10456813eed63532bb656ebbffafd6e6]
+#### Article 19. Capital instruments of undertakings excluded from the scope of Directive 2009/138/EC for the purposes of Article 36(3) of Regulation (EU) No 575/2013[^c-10456813eed63532bb656ebbffafd6e6]
 
 **No longer in force.**
 
@@ -753,7 +753,7 @@ Sustainable for the income capacity of the institution under point (a) of Articl
 
 - (a) For Common Equity Tier 1 instruments, that amount shall not exceed the lower of the following amounts:
   - ((1)) 3 % of the amount of the relevant issuance;
-  - ((2)) 10 % of the amount by which Common Equity Tier 1 capital exceeds the sum of the Common Equity Tier 1 capital requirements pursuant to Article 92 of Regulation (EU) No 575/2013, the specific own funds requirements referred to in Article 104(1)(a) of Directive 2013/36/EU and the combined buffer defined in the Capital Buffers Part of the PRA rulebook[^key-ecd6c33020b6a8b0c95c9a80bced60e3] .
+  - ((2)) 10 % of the amount by which Common Equity Tier 1 capital exceeds the sum of the Common Equity Tier 1 capital requirements pursuant to Article 92 of Regulation (EU) No 575/2013, the specific own funds requirements referred to in Article 104(1)(a) of Directive 2013/36/EU and the combined buffer defined in the Capital Buffers Part of the PRA rulebook[^c-ecd6c33020b6a8b0c95c9a80bced60e3] .
 - (b) For Additional Tier 1 instrument or Tier 2 instruments, that predetermined amount shall not exceed the lower of the following amounts:
   - ((1)) 10 % of the amount of the relevant issuance;
   - ((2)) or 3 % of the total amount of outstanding Additional Tier 1 instruments or Tier 2 instruments, as applicable.
@@ -919,9 +919,9 @@ This Regulation shall be binding in its entirety and directly applicable in all 
 
 ## Annotations
 
-[^key-7dc0374825dcb3ab7abea1a0eb75b0d7]: Modification: The “appropriate regulator” has power to make such provision as they consider appropriate by means of an instrument in writing to prevent, remedy or mitigate any failure of the provisions of this Regulation to operate effectively or any other deficiency arising from the withdrawal of the United Kingdom from the EU, see The Financial Regulators' Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1115), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1115/regulation/2), [3](https://www.legislation.gov.uk/uksi/2018/1115/regulation/3), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2018/1115/schedule/part/4) (with saving on [I](https://www.legislation.gov.uk/uksi/2018/1115/schedule/part/I)P completion day by S.I. 2019/680, [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-7dc0374825dcb3ab7abea1a0eb75b0d7]: Modification: The “appropriate regulator” has power to make such provision as they consider appropriate by means of an instrument in writing to prevent, remedy or mitigate any failure of the provisions of this Regulation to operate effectively or any other deficiency arising from the withdrawal of the United Kingdom from the EU, see The Financial Regulators' Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1115), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1115/regulation/2), [3](https://www.legislation.gov.uk/uksi/2018/1115/regulation/3), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2018/1115/schedule/part/4) (with saving on [I](https://www.legislation.gov.uk/uksi/2018/1115/schedule/part/I)P completion day by S.I. 2019/680, [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-9da93e590d09bcd587de774fa5fcbf4c]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-9da93e590d09bcd587de774fa5fcbf4c]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^f00001]: Footnote: [OJ L 176, 27.6.2013, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.176.01.0001.01.ENG).
 
@@ -933,9 +933,9 @@ This Regulation shall be binding in its entirety and directly applicable in all 
 
 [^f00005]: Footnote: Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) ([OJ L 335, 17.12.2009, p.1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.335.01.0001.01.ENG)).
 
-[^key-c48049deeca62fea92863bc58e661067]: Textual amendment: [Art. 1(f)](https://www.legislation.gov.uk/eur/2014/241/article/1/f) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [13(3)(a)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/13/3/a)
+[^c-c48049deeca62fea92863bc58e661067]: Textual amendment: [Art. 1(f)](https://www.legislation.gov.uk/eur/2014/241/article/1/f) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [13(3)(a)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/13/3/a)
 
-[^key-845f5c117a47706469a6f00f5ae274cc]: Textual amendment: [Art. 1(g)](https://www.legislation.gov.uk/eur/2014/241/article/1/g) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [13(3)(a)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/13/3/a)
+[^c-845f5c117a47706469a6f00f5ae274cc]: Textual amendment: [Art. 1(g)](https://www.legislation.gov.uk/eur/2014/241/article/1/g) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [13(3)(a)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/13/3/a)
 
 [^c000002]: Textual amendment: Substituted by [Commission Delegated Regulation (EU) 2015/923 of 11 March 2015 amending Delegated Regulation (EU) No 241/2014 supplementing Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to regulatory technical standards for own funds requirements for institutions (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2015/923).
 
@@ -951,11 +951,11 @@ This Regulation shall be binding in its entirety and directly applicable in all 
 
 [^f00009]: Footnote: Directive 2002/87/EC of the European Parliament and of the Council of 16 December 2002 on the supplementary supervision of credit institutions, insurance undertakings and investment firms in a financial conglomerate ([OJ L 35, 11.2.2003, p.1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.035.01.0001.01.ENG)).
 
-[^key-53016e11ff5a59a9fa482a67f1d51639]: Textual amendment: Words in [Art. 10(3)(b)](https://www.legislation.gov.uk/eur/2014/241/article/10/3/b) (as previously modified on IP completion day by the PRA's Technical Standards (Capital Requirements) (EU Exit) (No.3) Instrument 2019 dated 9.4.2019) substituted (30.11.2025) by [The Financial Services and Markets Act 2023 (Capital Buffers and Macro-prudential Measures) (Consequential Amendments) Regulations 2025 (S.I. 2025/1023)](https://www.legislation.gov.uk/uksi/2025/1023), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1023/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2025/1023/regulation/6/2)
+[^c-53016e11ff5a59a9fa482a67f1d51639]: Textual amendment: Words in [Art. 10(3)(b)](https://www.legislation.gov.uk/eur/2014/241/article/10/3/b) (as previously modified on IP completion day by the PRA's Technical Standards (Capital Requirements) (EU Exit) (No.3) Instrument 2019 dated 9.4.2019) substituted (30.11.2025) by [The Financial Services and Markets Act 2023 (Capital Buffers and Macro-prudential Measures) (Consequential Amendments) Regulations 2025 (S.I. 2025/1023)](https://www.legislation.gov.uk/uksi/2025/1023), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1023/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2025/1023/regulation/6/2)
 
-[^key-10456813eed63532bb656ebbffafd6e6]: Textual amendment: [Arts. 13-19](https://www.legislation.gov.uk/eur/2014/241/article/13) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [13(3)(b)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/13/3/b)
+[^c-10456813eed63532bb656ebbffafd6e6]: Textual amendment: [Arts. 13-19](https://www.legislation.gov.uk/eur/2014/241/article/13) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [13(3)(b)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/13/3/b)
 
-[^key-ecd6c33020b6a8b0c95c9a80bced60e3]: Textual amendment: Words in [Art. 29(3)(a)(2)](https://www.legislation.gov.uk/eur/2014/241/article/29/3/a) (as previously modified on IP completion day by the PRA's Technical Standards (Capital Requirements) (EU Exit) (No.3) Instrument 2019 dated 9.4.2019 substituted (30.11.2025) by [The Financial Services and Markets Act 2023 (Capital Buffers and Macro-prudential Measures) (Consequential Amendments) Regulations 2025 (S.I. 2025/1023)](https://www.legislation.gov.uk/uksi/2025/1023), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1023/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2025/1023/regulation/6/3)
+[^c-ecd6c33020b6a8b0c95c9a80bced60e3]: Textual amendment: Words in [Art. 29(3)(a)(2)](https://www.legislation.gov.uk/eur/2014/241/article/29/3/a) (as previously modified on IP completion day by the PRA's Technical Standards (Capital Requirements) (EU Exit) (No.3) Instrument 2019 dated 9.4.2019 substituted (30.11.2025) by [The Financial Services and Markets Act 2023 (Capital Buffers and Macro-prudential Measures) (Consequential Amendments) Regulations 2025 (S.I. 2025/1023)](https://www.legislation.gov.uk/uksi/2025/1023), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1023/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2025/1023/regulation/6/3)
 
 [^c000006]: Textual amendment: Inserted by [Commission Delegated Regulation (EU) 2015/488 of 4 September 2014 amending Delegated Regulation (EU) No 241/2014 as regards own funds requirements for firms based on fixed overheads (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2015/488).
 

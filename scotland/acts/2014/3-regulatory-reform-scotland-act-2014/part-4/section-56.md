@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Application for street trader's licence: food businesses[^key-bd7542e7a9002af7c9e0cb93f98757f7]
+## 56. Application for street trader's licence: food businesses[^c-bd7542e7a9002af7c9e0cb93f98757f7]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ In section 39 of the Civic Government (Scotland) Act 1982 (street traders' licen
 
 ## Annotations
 
-[^key-bd7542e7a9002af7c9e0cb93f98757f7]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2014/3/section/56) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2014/160/article/3))
+[^c-bd7542e7a9002af7c9e0cb93f98757f7]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2014/3/section/56) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2014/160/article/3))

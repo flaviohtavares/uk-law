@@ -159,7 +159,7 @@ shall be liable on conviction on indictment to imprisonment for a term not excee
 
 (3) [^c20994341]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-7cb064a2eef796fcdbe8fa4885ff86bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-7cb064a2eef796fcdbe8fa4885ff86bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 8. Abduction and unlawful detention.
 
@@ -190,7 +190,7 @@ shall be liable on conviction on indictment to imprisonment for a term not excee
 (2A)[^c20994401] But the defence under subsection (2) is not available to the person so charged if—
 
 - (a) that person has previously been charged by the police with a relevant sexual offence;[^c20995281]. . .
-- (aa)[^c20995321] that person has a previous conviction for a relevant foreign offence committed against a person under the age of 16 and the court considers it appropriate for the conviction to have that effect[^key-f8c6a11ceb518a831a1cdf7faec44b6b]; or
+- (aa)[^c20995321] that person has a previous conviction for a relevant foreign offence committed against a person under the age of 16 and the court considers it appropriate for the conviction to have that effect[^c-f8c6a11ceb518a831a1cdf7faec44b6b]; or
 - (b) there is in force in respect of that person a risk of sexual harm order.
 
 (3) In subsection (2A) above—[^c20994431]
@@ -307,7 +307,7 @@ shall be guilty of an offence.
 
 [^c18964911]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Power of search.[^key-3497ffa128239ac2ebf61a72b510b4a7]
+#### 16. Power of search.[^c-3497ffa128239ac2ebf61a72b510b4a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -380,13 +380,13 @@ the relevant area of a designated sports ground at any time during the period of
 
 the relevant area of a designated sports ground at any time during the period of a designated sporting event, shall be guilty of an offence and liable on summary conviction to imprisonment for a period not exceeding 60 days or to a fine not exceeding level 3 on the standard scale or both.
 
-(3)[^key-be45f1e14dd3d542a9102741feff8a73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-be45f1e14dd3d542a9102741feff8a73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-44dd7c702346b86352deb5ea92b815cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-44dd7c702346b86352deb5ea92b815cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-58d56aabbd775c74ad572f790227bd4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-58d56aabbd775c74ad572f790227bd4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-2ac1d83d44484ac98ab364cd42281a5e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-2ac1d83d44484ac98ab364cd42281a5e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Any person who—
 
@@ -397,7 +397,7 @@ the relevant area of a designated sports ground at any time during the period of
 
 (8) In this section—
 
-- [^key-0fae10dc0c471ae478f829283588e285]...
+- [^c-0fae10dc0c471ae478f829283588e285]...
 - “**controlled container**” means any bottle, can or other portable container, whether open or sealed, which is, or was, in its original manufactured state, capable of containing liquid and is made from such material or is of such construction, or is so adapted, that if it were thrown at or propelled against a person it would be capable of causing some injury to that person; but the term does not include a container holding a medicinal product or veterinary medicinal product[^c18969301] for a medicinal purpose.
 - “**medicinal product**”and “**medicinal purpose**” have the meanings assigned to those terms by section 130 of the [^c10977971]Medicines Act 1968.
 - “[^c18969321]**veterinary medicinal product**” has the meaning assigned to that term by regulation 2 of the Veterinary Medicines Regulations 2006.
@@ -428,7 +428,7 @@ In this Part of this Act, unless the context otherwise requires—
 - “**designated**” means designated by the Secretary of State by order under section 18 of this Act, and “**designated sporting event**” includes a sporting event designated under section 9(3)(a) of the [^c10978031]Sporting Events (Control of Alcohol) Etc. Act 1985;
 - “**keeper**”, in relation to a vehicle, means the person having the duty to take out a licence for it under section 1(1) of the [^c10978041]Vehicles Excise and Registration Act 1994;
 - “[^c10978051]**motor vehicle**” means a mechanically propelled vehicle intended or adapted for use on roads;
-- “**period of a designated sporting event**” means the period commencing two hours before the start and ending one hour after the end of a designated sporting event, except that where the event is advertised as to start at a particular time but is delayed or postponed it[^key-9a633863faab167483d0633a831db74c] includes, and where for any reason an event does not take place it means, the period commencing two hours before and ending one hour after, that particular time;
+- “**period of a designated sporting event**” means the period commencing two hours before the start and ending one hour after the end of a designated sporting event, except that where the event is advertised as to start at a particular time but is delayed or postponed it[^c-9a633863faab167483d0633a831db74c] includes, and where for any reason an event does not take place it means, the period commencing two hours before and ending one hour after, that particular time;
 - “**public service vehicle**” has the same meaning as in the [^c10978061]Public Passenger Vehicles Act 1981 and “**operator**” in relation to such a vehicle means—
   - (a) the driver if he owns the vehicle; and
   - (b) in any other case the person for whom the driver works (whether under a contract of employment or any other description of contract personally to do work);
@@ -449,9 +449,9 @@ In this Part of this Act, unless the context otherwise requires—
 
 (1) This Part of this Act applies to the investigation of Revenue and Customs offences.
 
-(2) [^key-b476dcdd4168c20def8b91f7552a797a]... in this Part of this Act, a “Revenue and Customs offence” is an offence which relates to a matter in relation to which Her Majesty's Revenue and Customs have functions [^key-b476dcdd4168c20def8b91f7552a797a]...
+(2) [^c-b476dcdd4168c20def8b91f7552a797a]... in this Part of this Act, a “Revenue and Customs offence” is an offence which relates to a matter in relation to which Her Majesty's Revenue and Customs have functions [^c-b476dcdd4168c20def8b91f7552a797a]...
 
-(3)[^key-6c580b4ba40885e2ee5ea7626c993410] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-6c580b4ba40885e2ee5ea7626c993410] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Production orders
 
@@ -779,25 +779,25 @@ fails, without reasonable excuse, to do so, shall be guilty of an offence and li
 
 (2) A person mentioned in paragraph (b) of subsection (1) of section 23M of this Act who, having been required under that subsection to give the information mentioned in subsection (2) of that section, fails, without reasonable excuse, to do so, shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
 
-(3)[^key-3862ef9af6560259f5d24b43519c2fa4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3862ef9af6560259f5d24b43519c2fa4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 24. Detention and questioning : Revenue and Customs, immigration and nationality offences[^key-d9e17d4ed24566fc086923a961cfa0ac][^c19789541][^key-5a15909dfc86a73504af7ef3b322769f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 24A. Extension of period of detention under section 24[^key-d9e17d4ed24566fc086923a961cfa0ac]
+#### 24. Detention and questioning : Revenue and Customs, immigration and nationality offences[^c-d9e17d4ed24566fc086923a961cfa0ac][^c19789541][^c-5a15909dfc86a73504af7ef3b322769f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 24B. Extension under section 24A: procedure[^key-d9e17d4ed24566fc086923a961cfa0ac]
+#### 24A. Extension of period of detention under section 24[^c-d9e17d4ed24566fc086923a961cfa0ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 25. Right to have someone informed when detained.[^key-d9e17d4ed24566fc086923a961cfa0ac]
+#### 24B. Extension under section 24A: procedure[^c-d9e17d4ed24566fc086923a961cfa0ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 25A. Right of suspects to have access to a solicitor[^key-d9e17d4ed24566fc086923a961cfa0ac]
+#### 25. Right to have someone informed when detained.[^c-d9e17d4ed24566fc086923a961cfa0ac]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 25A. Right of suspects to have access to a solicitor[^c-d9e17d4ed24566fc086923a961cfa0ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -854,7 +854,7 @@ and when a person has been detained in pursuance of a warrant under subsection (
 
 only if a registered medical practitioner is of the opinion that there are no medical reasons for not making such a requirement; and, if a requirement to provide a specimen of blood is made, the specimen may be taken only by a registered medical practitioner.
 
-(7A)[^key-15b41ba169afebd49deadffdee189b31] An officer may use reasonable force in exercising any power conferred by this section, except as regards a requirement under subsection (2).
+(7A)[^c-15b41ba169afebd49deadffdee189b31] An officer may use reasonable force in exercising any power conferred by this section, except as regards a requirement under subsection (2).
 
 (7B) Sections 3 and 6(1), (2) and (8) of the Criminal Justice (Scotland) Act 2016 (giving and recording of information) apply in relation to a person detained by an officer under this section in connection with the commission of a relevant offence as they apply in relation to a person arrested by the officer in respect of that offence.
 
@@ -875,7 +875,7 @@ only if a registered medical practitioner is of the opinion that there are no me
 
 ### Power of arrest[^c19790151]
 
-#### 26A. Power of arrest[^key-89f8ba1034bd6867570cbb1927b4899f]
+#### 26A. Power of arrest[^c-89f8ba1034bd6867570cbb1927b4899f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -886,16 +886,16 @@ only if a registered medical practitioner is of the opinion that there are no me
 (1) In this Part of this Act—
 
 - “**authorised officer**” means an officer acting with the authority (which may be general or specific) of the Commissioners for Her Majesty's Revenue and Customs;
-- [^key-1dd1f5f87e4c47fd5325be2c7f5bba27]...
-- [^key-dd7c6ef536acec1e968d9866fc0de322]...
-- [^key-1dd1f5f87e4c47fd5325be2c7f5bba27]...
+- [^c-1dd1f5f87e4c47fd5325be2c7f5bba27]...
+- [^c-dd7c6ef536acec1e968d9866fc0de322]...
+- [^c-1dd1f5f87e4c47fd5325be2c7f5bba27]...
 - “**office of Revenue and Customs**” means premises wholly or partly occupied by Her Majesty's Revenue and Customs; and
-- “[^key-3e538c411cf3be77d8f5e03c01f99633]**officer**” means an officer of Revenue and Customs;
+- “[^c-3e538c411cf3be77d8f5e03c01f99633]**officer**” means an officer of Revenue and Customs;
 
-(2) In any proceedings (whether civil or criminal) under or arising from this Part of this Act—[^key-bc004a0d18228cdbc7844f5fbc3dc376]
+(2) In any proceedings (whether civil or criminal) under or arising from this Part of this Act—[^c-bc004a0d18228cdbc7844f5fbc3dc376]
 
-- (a) a certificate of the Commissioners for Her Majesty's Revenue and Customs that an officer of Revenue of Customs, [^key-50ee197a925978d033214a10273af0a2]...
-- (b)[^key-50ee197a925978d033214a10273af0a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) a certificate of the Commissioners for Her Majesty's Revenue and Customs that an officer of Revenue of Customs, [^c-50ee197a925978d033214a10273af0a2]...
+- (b)[^c-50ee197a925978d033214a10273af0a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 had authority to exercise a power or function conferred by a provision of this Part shall be conclusive proof of that fact.
 
@@ -929,7 +929,7 @@ had authority to exercise a power or function conferred by a provision of this P
 
 he may give a direction under this section.
 
-(2)[^key-eb27da9021f9db90023ca6c47cd4986d] The Lord Advocate may also give a direction under this section by virtue of section 15(4) of the Crime (International Co-operation) Act 2003 or on a request made by the Attorney-General of the Isle of Man, Jersey or Guernsey acting under legislation corresponding to this Part of this Act.
+(2)[^c-eb27da9021f9db90023ca6c47cd4986d] The Lord Advocate may also give a direction under this section by virtue of section 15(4) of the Crime (International Co-operation) Act 2003 or on a request made by the Attorney-General of the Isle of Man, Jersey or Guernsey acting under legislation corresponding to this Part of this Act.
 
 (3) Where a direction is given under this section, this Part of this Act shall apply as regards the investigation of the offence; and any person (other than a constable) nominated by the Lord Advocate either generally or in respect of a particular case (in this Part of this Act referred to as “**a nominated officer**”) shall be entitled to exercise the powers and functions conferred by this Part of this Act.
 
@@ -1163,7 +1163,7 @@ but not otherwise.
 
 #### 44. False statements and declarations.
 
-(1)[^key-6295a609e0bd79f45dc7e63e7e61fa2d] Any person who—
+(1)[^c-6295a609e0bd79f45dc7e63e7e61fa2d] Any person who—
 
 - (a) is required or authorised by law to make a statement on oath for any purpose; and
 - (b) being lawfully sworn, wilfully makes a statement which is material for that purpose and which he knows to be false or does not believe to be true,
@@ -1274,13 +1274,13 @@ or by any person who was purporting to act in any such capacity, he as well as t
 (1) Any person who [^c20995651]. . . has with him in any public place any offensive weapon shall be guilty of an offence, and shall be liable—
 
 - (a) on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum, or both;
-- (b) on conviction on indictment, to imprisonment for a term not exceeding 5[^key-4bea0003713c82d995bfad6d35305596] years or a fine, or both.
+- (b) on conviction on indictment, to imprisonment for a term not exceeding 5[^c-4bea0003713c82d995bfad6d35305596] years or a fine, or both.
 
 (1A)[^c20995681] It is a defence for a person charged with an offence under subsection (1) to show that the person had a reasonable excuse or lawful authority for having the weapon with the person in the public place.
 
 (2) Where any person is convicted of an offence under subsection (1) above the court may make an order for the forfeiture or disposal of any weapon in respect of which the offence was committed.
 
-(3)[^key-e66e99a50122d77ef796acaa8565b938] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-e66e99a50122d77ef796acaa8565b938] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4)[^c20995701] In this section—
 
@@ -1306,7 +1306,7 @@ or by any person who was purporting to act in any such capacity, he as well as t
 
 shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-(3)[^key-218d6a7394ddae6cdbf30907f461262b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-218d6a7394ddae6cdbf30907f461262b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In this section, “**offensive weapon**” has the same meaning as in the said section 47.
 
@@ -1315,7 +1315,7 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 (1) Subject to subsections (4) and (5) below, any person who has an article to which this section applies with him in a public place shall be guilty of an offence and liable—
 
 - (a) on summary conviction, to imprisonment for a term not exceeding twelve[^c18971941] months or a fine not exceeding the statutory maximum or both; and
-- (b) on conviction on indictment, to imprisonment for a term not exceeding 5[^key-8e9a75cb7b043e3967aa052d7d060de2] years or a fine or both.
+- (b) on conviction on indictment, to imprisonment for a term not exceeding 5[^c-8e9a75cb7b043e3967aa052d7d060de2] years or a fine or both.
 
 (2) Subject to subsection (3) below, this section applies to any article which has a blade or is sharply pointed.
 
@@ -1352,10 +1352,10 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 - (a) under subsection (1) above shall be liable—
   - (i) on summary conviction to imprisonment for a term not exceeding twelve[^c18971981] months, or a fine not exceeding the statutory maximum, or both;
-  - (ii) on conviction on indictment, to imprisonment for a term not exceeding 5[^key-d9b58f29c18136115826fb3d0649c3b2] years, or a fine, or both;
+  - (ii) on conviction on indictment, to imprisonment for a term not exceeding 5[^c-d9b58f29c18136115826fb3d0649c3b2] years, or a fine, or both;
 - (b) under subsection (2) above shall be liable—
   - (i) on summary conviction, to imprisonment for a term not exceeding six months, or a fine not exceeding the statutory maximum, or both;
-  - (ii) on conviction on indictment, to imprisonment for a term not exceeding 5[^key-264dc3fffe34f55c638a9ab057eba25d] years, or a fine, or both.
+  - (ii) on conviction on indictment, to imprisonment for a term not exceeding 5[^c-264dc3fffe34f55c638a9ab057eba25d] years, or a fine, or both.
 
 (6) In this section and section 49B of this Act, “**school premises**” means land used for the purposes of a school excluding any land occupied solely as a dwelling by a person employed at the school; and “**school**” has the meaning given by section 135(1) of the [^c10978541]Education (Scotland) Act 1980.
 
@@ -1396,14 +1396,14 @@ commits an offence.
 (6) A person guilty of an offence under subsection (1) is liable—
 
 - (a) on summary conviction, to imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum or both,
-- (b) on conviction on indictment, to imprisonment for a term not exceeding 5[^key-439823358056a206d0bc917ab529620e] years or a fine or both.
+- (b) on conviction on indictment, to imprisonment for a term not exceeding 5[^c-439823358056a206d0bc917ab529620e] years or a fine or both.
 
 (7) In this section—
 
 - “**offensive weapon**” has the meaning given by section 47(4),
 - “**prison**” includes—
   - (a) any prison other than a naval, military or air force prison,
-  - (b) [^key-f305a3488f715de427685a28fc044103]...
+  - (b) [^c-f305a3488f715de427685a28fc044103]...
   - (c) a young offenders institution (within the meaning of paragraph (b) of that subsection), and
   - (d) secure accommodation within the meaning of section 93(1) of the Children (Scotland) Act 1995 (c. 36).
 
@@ -1413,7 +1413,7 @@ commits an offence.
 
 (2) A constable who detains a person under subsection (1) above shall inform him of the reason for his detention.
 
-(3)[^key-c2c56c46ea174f990f98b7b36a5fb4e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c2c56c46ea174f990f98b7b36a5fb4e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Any person who—
 
@@ -1422,13 +1422,13 @@ commits an offence.
 
 shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 4[^c20995861] on the standard scale.
 
-(5)[^key-a907e5f95ce7fafb283ea893b2a5fa9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-a907e5f95ce7fafb283ea893b2a5fa9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Racially-aggravated harassment[^c10978581]
 
 *Extent: S*
 
-#### 50A. Racially-aggravated harassment.[^key-59f03a16fa95ffc4232dfa09edade640]
+#### 50A. Racially-aggravated harassment.[^c-59f03a16fa95ffc4232dfa09edade640]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1594,7 +1594,7 @@ Acts of Parliament
 
 [^c20994341]: Textual amendment: S. 7(2)(3) repealed (1.12.2010) by [Sexual Offences (Scotland) Act 2009 (asp 9)](https://www.legislation.gov.uk/asp/2009/9), [ss. 61(2)](https://www.legislation.gov.uk/asp/2009/9/section/61/2), [62(2)](https://www.legislation.gov.uk/asp/2009/9/section/62/2), [sch. 6](https://www.legislation.gov.uk/asp/2009/9/schedule/6); [S.S.I. 2010/357](https://www.legislation.gov.uk/ssi/2010/357), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/357/article/2/a)
 
-[^key-7cb064a2eef796fcdbe8fa4885ff86bc]: Textual amendment: [S. 7(4)](https://www.legislation.gov.uk/ukpga/1995/39/section/7/4) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [sch. 2 para. 12(a)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/12/a); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-7cb064a2eef796fcdbe8fa4885ff86bc]: Textual amendment: [S. 7(4)](https://www.legislation.gov.uk/ukpga/1995/39/section/7/4) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [sch. 2 para. 12(a)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/12/a); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
 
 [^c18964441]: Textual amendment: [S. 8(1)(2)](https://www.legislation.gov.uk/ukpga/1995/39/section/8/1/2) repealed (27.6.2003) by [Criminal Justice (Scotland) Act 2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7), [ss. 19(2)(a)](https://www.legislation.gov.uk/asp/2003/7/section/19/2/a), [89](https://www.legislation.gov.uk/asp/2003/7/section/89); [S.S.I. 2003/288](https://www.legislation.gov.uk/ssi/2003/288), [art. 2](https://www.legislation.gov.uk/ssi/2003/288/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2003/288/schedule)
 
@@ -1608,7 +1608,7 @@ Acts of Parliament
 
 [^c20995321]: Textual amendment: S. 9(2A)(aa) inserted (13.12.2010 for specified purposes) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 71(1)](https://www.legislation.gov.uk/asp/2010/13/section/71/1), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 4 para. 11(2)(b)](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/11/2/b); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
 
-[^key-f8c6a11ceb518a831a1cdf7faec44b6b]: Textual amendment: Words in s. 9(2A)(aa) inserted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [12](https://www.legislation.gov.uk/ssi/2020/339/regulation/12) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))
+[^c-f8c6a11ceb518a831a1cdf7faec44b6b]: Textual amendment: Words in s. 9(2A)(aa) inserted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [12](https://www.legislation.gov.uk/ssi/2020/339/regulation/12) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))
 
 [^c20994431]: Textual amendment: Words in s. 9(3) substituted (1.12.2010) by [Sexual Offences (Scotland) Act 2009 (asp 9)](https://www.legislation.gov.uk/asp/2009/9), [ss. 61(1)](https://www.legislation.gov.uk/asp/2009/9/section/61/1), [62(2)](https://www.legislation.gov.uk/asp/2009/9/section/62/2), [sch. 5 para. 1(4)(c)](https://www.legislation.gov.uk/asp/2009/9/schedule/5/paragraph/1/4/c); [S.S.I. 2010/357](https://www.legislation.gov.uk/ssi/2010/357), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/357/article/2/a)
 
@@ -1650,7 +1650,7 @@ Acts of Parliament
 
 [^c18964911]: Textual amendment: [S. 15](https://www.legislation.gov.uk/ukpga/1995/39/section/15) repealed (27.6.2003) by [Criminal Justice (Scotland) Act 2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7), [ss. 19(2)(b)](https://www.legislation.gov.uk/asp/2003/7/section/19/2/b), [89](https://www.legislation.gov.uk/asp/2003/7/section/89); [S.S.I. 2003/288](https://www.legislation.gov.uk/ssi/2003/288), [art. 2](https://www.legislation.gov.uk/ssi/2003/288/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2003/288/schedule)
 
-[^key-3497ffa128239ac2ebf61a72b510b4a7]: Textual amendment: [S. 16](https://www.legislation.gov.uk/ukpga/1995/39/section/16) repealed (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 7 para. 22](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/22); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-3497ffa128239ac2ebf61a72b510b4a7]: Textual amendment: [S. 16](https://www.legislation.gov.uk/ukpga/1995/39/section/16) repealed (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 7 para. 22](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/22); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
 [^c20994271]: Textual amendment: [S. 16A](https://www.legislation.gov.uk/ukpga/1995/39/section/16A) repealed (1.12.2010) by [Sexual Offences (Scotland) Act 2009 (asp 9)](https://www.legislation.gov.uk/asp/2009/9), [ss. 61(2)](https://www.legislation.gov.uk/asp/2009/9/section/61/2), [62(2)](https://www.legislation.gov.uk/asp/2009/9/section/62/2), [sch. 6](https://www.legislation.gov.uk/asp/2009/9/schedule/6); [S.S.I. 2010/357](https://www.legislation.gov.uk/ssi/2010/357), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/357/article/2/a)
 
@@ -1662,15 +1662,15 @@ Acts of Parliament
 
 [^c10977961]: Textual amendment: Word in [s. 19(3)](https://www.legislation.gov.uk/ukpga/1995/39/section/19/3) substituted (1.8.1997) by [1997 c. 48](https://www.legislation.gov.uk/ukpga/1997/48), [s. 62(1)](https://www.legislation.gov.uk/ukpga/1997/48/section/62/1), [Sch. 1 para. 18(4)](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/18/4); [S.I. 1997/1712](https://www.legislation.gov.uk/uksi/1997/1712), [art. 3](https://www.legislation.gov.uk/uksi/1997/1712/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1997/1712/schedule)
 
-[^key-be45f1e14dd3d542a9102741feff8a73]: Textual amendment: [S. 20(3)](https://www.legislation.gov.uk/ukpga/1995/39/section/20/3) repealed (6.6.2023) by [The Fireworks and Pyrotechnic Articles (Scotland) Act 2022 (Consequential Modifications, Saving and Transitional Provisions) Regulations 2023 (S.S.I. 2023/157)](https://www.legislation.gov.uk/ssi/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/157/regulation/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2023/157/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/157/regulation/3))
+[^c-be45f1e14dd3d542a9102741feff8a73]: Textual amendment: [S. 20(3)](https://www.legislation.gov.uk/ukpga/1995/39/section/20/3) repealed (6.6.2023) by [The Fireworks and Pyrotechnic Articles (Scotland) Act 2022 (Consequential Modifications, Saving and Transitional Provisions) Regulations 2023 (S.S.I. 2023/157)](https://www.legislation.gov.uk/ssi/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/157/regulation/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2023/157/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/157/regulation/3))
 
-[^key-44dd7c702346b86352deb5ea92b815cb]: Textual amendment: [S. 20(4)](https://www.legislation.gov.uk/ukpga/1995/39/section/20/4) repealed (6.6.2023) by [The Fireworks and Pyrotechnic Articles (Scotland) Act 2022 (Consequential Modifications, Saving and Transitional Provisions) Regulations 2023 (S.S.I. 2023/157)](https://www.legislation.gov.uk/ssi/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/157/regulation/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2023/157/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/157/regulation/3))
+[^c-44dd7c702346b86352deb5ea92b815cb]: Textual amendment: [S. 20(4)](https://www.legislation.gov.uk/ukpga/1995/39/section/20/4) repealed (6.6.2023) by [The Fireworks and Pyrotechnic Articles (Scotland) Act 2022 (Consequential Modifications, Saving and Transitional Provisions) Regulations 2023 (S.S.I. 2023/157)](https://www.legislation.gov.uk/ssi/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/157/regulation/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2023/157/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/157/regulation/3))
 
-[^key-58d56aabbd775c74ad572f790227bd4b]: Textual amendment: [S. 20(5)](https://www.legislation.gov.uk/ukpga/1995/39/section/20/5) repealed (6.6.2023) by [The Fireworks and Pyrotechnic Articles (Scotland) Act 2022 (Consequential Modifications, Saving and Transitional Provisions) Regulations 2023 (S.S.I. 2023/157)](https://www.legislation.gov.uk/ssi/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/157/regulation/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2023/157/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/157/regulation/3))
+[^c-58d56aabbd775c74ad572f790227bd4b]: Textual amendment: [S. 20(5)](https://www.legislation.gov.uk/ukpga/1995/39/section/20/5) repealed (6.6.2023) by [The Fireworks and Pyrotechnic Articles (Scotland) Act 2022 (Consequential Modifications, Saving and Transitional Provisions) Regulations 2023 (S.S.I. 2023/157)](https://www.legislation.gov.uk/ssi/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/157/regulation/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2023/157/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/157/regulation/3))
 
-[^key-2ac1d83d44484ac98ab364cd42281a5e]: Textual amendment: [S. 20(6)](https://www.legislation.gov.uk/ukpga/1995/39/section/20/6) repealed (6.6.2023) by [The Fireworks and Pyrotechnic Articles (Scotland) Act 2022 (Consequential Modifications, Saving and Transitional Provisions) Regulations 2023 (S.S.I. 2023/157)](https://www.legislation.gov.uk/ssi/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/157/regulation/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2023/157/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/157/regulation/3))
+[^c-2ac1d83d44484ac98ab364cd42281a5e]: Textual amendment: [S. 20(6)](https://www.legislation.gov.uk/ukpga/1995/39/section/20/6) repealed (6.6.2023) by [The Fireworks and Pyrotechnic Articles (Scotland) Act 2022 (Consequential Modifications, Saving and Transitional Provisions) Regulations 2023 (S.S.I. 2023/157)](https://www.legislation.gov.uk/ssi/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/157/regulation/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2023/157/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/157/regulation/3))
 
-[^key-0fae10dc0c471ae478f829283588e285]: Textual amendment: Words in [s. 20(8)](https://www.legislation.gov.uk/ukpga/1995/39/section/20/8) repealed (6.6.2023) by [The Fireworks and Pyrotechnic Articles (Scotland) Act 2022 (Consequential Modifications, Saving and Transitional Provisions) Regulations 2023 (S.S.I. 2023/157)](https://www.legislation.gov.uk/ssi/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/157/regulation/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2023/157/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/157/regulation/3))
+[^c-0fae10dc0c471ae478f829283588e285]: Textual amendment: Words in [s. 20(8)](https://www.legislation.gov.uk/ukpga/1995/39/section/20/8) repealed (6.6.2023) by [The Fireworks and Pyrotechnic Articles (Scotland) Act 2022 (Consequential Modifications, Saving and Transitional Provisions) Regulations 2023 (S.S.I. 2023/157)](https://www.legislation.gov.uk/ssi/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/157/regulation/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2023/157/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/157/regulation/3))
 
 [^c18969301]: Textual amendment: [S. 20(8)](https://www.legislation.gov.uk/ukpga/1995/39/section/20/8): words in definition of "controlled container" inserted (1.10.2006) by [The Veterinary Medicines Regulations 2006 (S.I. 2006/2407)](https://www.legislation.gov.uk/uksi/2006/2407), [reg. 44(3)](https://www.legislation.gov.uk/uksi/2006/2407/regulation/44/3), [Sch. 9 Pt. 1 para. 11(a)](https://www.legislation.gov.uk/uksi/2006/2407/schedule/9/part/1/paragraph/11/a) (with [regs. 2(4)](https://www.legislation.gov.uk/uksi/2006/2407/regulation/2/4), [3](https://www.legislation.gov.uk/uksi/2006/2407/regulation/3))
 
@@ -1690,7 +1690,7 @@ Acts of Parliament
 
 [^c10978051]: Textual amendment: Definition inserted (1.8.1997) by [1997 c. 48](https://www.legislation.gov.uk/ukpga/1997/48), [s. 62(1)](https://www.legislation.gov.uk/ukpga/1997/48/section/62/1), [Sch. 1 para. 18(6)](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/18/6); [S.I. 1997/1712](https://www.legislation.gov.uk/uksi/1997/1712), [art. 3](https://www.legislation.gov.uk/uksi/1997/1712/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1997/1712/schedule)
 
-[^key-9a633863faab167483d0633a831db74c]: Textual amendment: Word in [s. 23](https://www.legislation.gov.uk/ukpga/1995/39/section/23) substituted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 7 para. 23](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/23); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-9a633863faab167483d0633a831db74c]: Textual amendment: Word in [s. 23](https://www.legislation.gov.uk/ukpga/1995/39/section/23) substituted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 7 para. 23](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/23); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
 [^c10978061]: Marginal citation: [1981 c.14](https://www.legislation.gov.uk/ukpga/1981/14).
 
@@ -1700,23 +1700,23 @@ Acts of Parliament
 
 [^c19500321]: Textual amendment: Ss. 23A-23P and cross-headings inserted (1.12.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 85](https://www.legislation.gov.uk/ukpga/2007/11/section/85), [Sch. 23 paras. 3](https://www.legislation.gov.uk/ukpga/2007/11/schedule/23/paragraph/3), [14](https://www.legislation.gov.uk/ukpga/2007/11/schedule/23/paragraph/14); [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 3](https://www.legislation.gov.uk/uksi/2007/3166/article/3)
 
-[^key-b476dcdd4168c20def8b91f7552a797a]: Textual amendment: Words in s. 23A(2) omitted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by virtue of [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 18(2)(a)](https://www.legislation.gov.uk/ukpga/2017/22/section/18/2/a), [58(4)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/4)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6)
+[^c-b476dcdd4168c20def8b91f7552a797a]: Textual amendment: Words in s. 23A(2) omitted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by virtue of [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 18(2)(a)](https://www.legislation.gov.uk/ukpga/2017/22/section/18/2/a), [58(4)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/4)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6)
 
-[^key-6c580b4ba40885e2ee5ea7626c993410]: Textual amendment: S. 23A(3) omitted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by virtue of [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 18(2)(b)](https://www.legislation.gov.uk/ukpga/2017/22/section/18/2/b), [58(4)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/4)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6)
+[^c-6c580b4ba40885e2ee5ea7626c993410]: Textual amendment: S. 23A(3) omitted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by virtue of [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 18(2)(b)](https://www.legislation.gov.uk/ukpga/2017/22/section/18/2/b), [58(4)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/4)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6)
 
-[^key-3862ef9af6560259f5d24b43519c2fa4]: Textual amendment: S. 23P(3) repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(c)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/c), [16(3)](https://www.legislation.gov.uk/uksi/2018/46/article/16/3) (with [art. 16(2)](https://www.legislation.gov.uk/uksi/2018/46/article/16/2))
+[^c-3862ef9af6560259f5d24b43519c2fa4]: Textual amendment: S. 23P(3) repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(c)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/c), [16(3)](https://www.legislation.gov.uk/uksi/2018/46/article/16/3) (with [art. 16(2)](https://www.legislation.gov.uk/uksi/2018/46/article/16/2))
 
-[^key-d9e17d4ed24566fc086923a961cfa0ac]: Textual amendment: Ss. 24-25A repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(c)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/c), [16(4)](https://www.legislation.gov.uk/uksi/2018/46/article/16/4) (with [art. 16(2)](https://www.legislation.gov.uk/uksi/2018/46/article/16/2))
+[^c-d9e17d4ed24566fc086923a961cfa0ac]: Textual amendment: Ss. 24-25A repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(c)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/c), [16(4)](https://www.legislation.gov.uk/uksi/2018/46/article/16/4) (with [art. 16(2)](https://www.legislation.gov.uk/uksi/2018/46/article/16/2))
 
 [^c19789541]: Textual amendment: S. 24: heading substituted (1.12.2007) by virtue of [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 85](https://www.legislation.gov.uk/ukpga/2007/11/section/85), [Sch. 23 paras. 4(f)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/23/paragraph/4/f), [14](https://www.legislation.gov.uk/ukpga/2007/11/schedule/23/paragraph/14); [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 3](https://www.legislation.gov.uk/uksi/2007/3166/article/3)
 
-[^key-5a15909dfc86a73504af7ef3b322769f]: Textual amendment: Words in s. 24 substituted (25.6.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 21 para. 45(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/45/2) (with [Sch. 21 paras. 40](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/40), [49(1)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/49/1)); [S.I. 2013/1042](https://www.legislation.gov.uk/uksi/2013/1042), [art. 4(l)](https://www.legislation.gov.uk/uksi/2013/1042/article/4/l)
+[^c-5a15909dfc86a73504af7ef3b322769f]: Textual amendment: Words in s. 24 substituted (25.6.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 21 para. 45(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/45/2) (with [Sch. 21 paras. 40](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/40), [49(1)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/49/1)); [S.I. 2013/1042](https://www.legislation.gov.uk/uksi/2013/1042), [art. 4(l)](https://www.legislation.gov.uk/uksi/2013/1042/article/4/l)
 
 [^c19771771]: Editorial: The insertion of the new heading "Detention and questioning of suspects and witnesses" in Pt. III on 1.12.2007 gives rise to a change in the structure of this legislation on SLD which breaks the continuity of historical versions of the existing provisions which are now brought under that new heading.
 
 [^c19790011]: Textual amendment: Words in s. 26 substituted (1.12.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 85](https://www.legislation.gov.uk/ukpga/2007/11/section/85), [Sch. 23 paras. 6](https://www.legislation.gov.uk/ukpga/2007/11/schedule/23/paragraph/6), [14](https://www.legislation.gov.uk/ukpga/2007/11/schedule/23/paragraph/14); [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 3](https://www.legislation.gov.uk/uksi/2007/3166/article/3)
 
-[^key-15b41ba169afebd49deadffdee189b31]: Textual amendment: S. 26(7A)-(7D) substituted for s. 26(8)-(10) (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(c)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/c), [16(5)](https://www.legislation.gov.uk/uksi/2018/46/article/16/5) (with [art. 16(2)](https://www.legislation.gov.uk/uksi/2018/46/article/16/2))
+[^c-15b41ba169afebd49deadffdee189b31]: Textual amendment: S. 26(7A)-(7D) substituted for s. 26(8)-(10) (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(c)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/c), [16(5)](https://www.legislation.gov.uk/uksi/2018/46/article/16/5) (with [art. 16(2)](https://www.legislation.gov.uk/uksi/2018/46/article/16/2))
 
 [^c19771831]: Marginal citation: [1971 c. 38](https://www.legislation.gov.uk/ukpga/1971/38).
 
@@ -1726,21 +1726,21 @@ Acts of Parliament
 
 [^c19790151]: Textual amendment: Ss. 26A, 26B and cross-headings inserted (1.12.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 85](https://www.legislation.gov.uk/ukpga/2007/11/section/85), [Sch. 23 paras. 7](https://www.legislation.gov.uk/ukpga/2007/11/schedule/23/paragraph/7), [14](https://www.legislation.gov.uk/ukpga/2007/11/schedule/23/paragraph/14); [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 3](https://www.legislation.gov.uk/uksi/2007/3166/article/3)
 
-[^key-89f8ba1034bd6867570cbb1927b4899f]: Textual amendment: S. 26A repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(c)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/c), [16(6)](https://www.legislation.gov.uk/uksi/2018/46/article/16/6) (with [art. 16(2)](https://www.legislation.gov.uk/uksi/2018/46/article/16/2))
+[^c-89f8ba1034bd6867570cbb1927b4899f]: Textual amendment: S. 26A repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(c)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/c), [16(6)](https://www.legislation.gov.uk/uksi/2018/46/article/16/6) (with [art. 16(2)](https://www.legislation.gov.uk/uksi/2018/46/article/16/2))
 
-[^key-1dd1f5f87e4c47fd5325be2c7f5bba27]: Textual amendment: Words in s. 26B(1) repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(c)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/c), [16(7)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/16/7/a) (with [art. 16(2)](https://www.legislation.gov.uk/uksi/2018/46/article/16/2))
+[^c-1dd1f5f87e4c47fd5325be2c7f5bba27]: Textual amendment: Words in s. 26B(1) repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(c)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/c), [16(7)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/16/7/a) (with [art. 16(2)](https://www.legislation.gov.uk/uksi/2018/46/article/16/2))
 
-[^key-dd7c6ef536acec1e968d9866fc0de322]: Textual amendment: Words in s. 26B(1) omitted (12.7.2016) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 56(6)](https://www.legislation.gov.uk/ukpga/2016/19/section/56/6), [94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/i)
+[^c-dd7c6ef536acec1e968d9866fc0de322]: Textual amendment: Words in s. 26B(1) omitted (12.7.2016) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 56(6)](https://www.legislation.gov.uk/ukpga/2016/19/section/56/6), [94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/i)
 
-[^key-3e538c411cf3be77d8f5e03c01f99633]: Textual amendment: Words in s. 26B(1) substituted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(c)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/c), [16(7)(b)](https://www.legislation.gov.uk/uksi/2018/46/article/16/7/b) (with [art. 16(2)](https://www.legislation.gov.uk/uksi/2018/46/article/16/2))
+[^c-3e538c411cf3be77d8f5e03c01f99633]: Textual amendment: Words in s. 26B(1) substituted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(c)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/c), [16(7)(b)](https://www.legislation.gov.uk/uksi/2018/46/article/16/7/b) (with [art. 16(2)](https://www.legislation.gov.uk/uksi/2018/46/article/16/2))
 
-[^key-bc004a0d18228cdbc7844f5fbc3dc376]: Textual amendment: Words in s. 26B(2) substituted (25.6.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 21 para. 48(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/48/b) (with [Sch. 21 para. 40](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/40)); [S.I. 2013/1042](https://www.legislation.gov.uk/uksi/2013/1042), [art. 4(l)](https://www.legislation.gov.uk/uksi/2013/1042/article/4/l)
+[^c-bc004a0d18228cdbc7844f5fbc3dc376]: Textual amendment: Words in s. 26B(2) substituted (25.6.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 21 para. 48(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/48/b) (with [Sch. 21 para. 40](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/40)); [S.I. 2013/1042](https://www.legislation.gov.uk/uksi/2013/1042), [art. 4(l)](https://www.legislation.gov.uk/uksi/2013/1042/article/4/l)
 
-[^key-50ee197a925978d033214a10273af0a2]: Textual amendment: S. 26B(2)(b) and word repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(c)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/c), [16(7)(c)](https://www.legislation.gov.uk/uksi/2018/46/article/16/7/c) (with [art. 16(2)](https://www.legislation.gov.uk/uksi/2018/46/article/16/2))
+[^c-50ee197a925978d033214a10273af0a2]: Textual amendment: S. 26B(2)(b) and word repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(c)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/c), [16(7)(c)](https://www.legislation.gov.uk/uksi/2018/46/article/16/7/c) (with [art. 16(2)](https://www.legislation.gov.uk/uksi/2018/46/article/16/2))
 
 [^c20993671]: Textual amendment: S. 26C inserted (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/24/1), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
 
-[^key-eb27da9021f9db90023ca6c47cd4986d]: Textual amendment: [S. 27(2)](https://www.legislation.gov.uk/ukpga/1995/39/section/27/2) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [78](https://www.legislation.gov.uk/uksi/2019/742/regulation/78) (with [reg. 84](https://www.legislation.gov.uk/uksi/2019/742/regulation/84)) ( as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [27](https://www.legislation.gov.uk/uksi/2020/1408/regulation/27)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eb27da9021f9db90023ca6c47cd4986d]: Textual amendment: [S. 27(2)](https://www.legislation.gov.uk/ukpga/1995/39/section/27/2) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [78](https://www.legislation.gov.uk/uksi/2019/742/regulation/78) (with [reg. 84](https://www.legislation.gov.uk/uksi/2019/742/regulation/84)) ( as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [27](https://www.legislation.gov.uk/uksi/2020/1408/regulation/27)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c10978211]: Textual amendment: [S. 28(5A)](https://www.legislation.gov.uk/ukpga/1995/39/section/28/5A) inserted ((E.W.N.I.) 14.4.2000 and (S.) 1.1.2001) by [1999 c. 23](https://www.legislation.gov.uk/ukpga/1999/23), [s. 59](https://www.legislation.gov.uk/ukpga/1999/23/section/59), [Sch. 3 para. 25](https://www.legislation.gov.uk/ukpga/1999/23/schedule/3/paragraph/25) (with [Sch. 7 para. 5(2)](https://www.legislation.gov.uk/ukpga/1999/23/schedule/7/paragraph/5/2)); [S.I. 2000/1034](https://www.legislation.gov.uk/uksi/2000/1034), [art. 2](https://www.legislation.gov.uk/uksi/2000/1034/article/2); [S.S.I. 2000/445](https://www.legislation.gov.uk/ssi/2000/445), [art. 2](https://www.legislation.gov.uk/ssi/2000/445/article/2)
 
@@ -1802,7 +1802,7 @@ Acts of Parliament
 
 [^c10978431]: Marginal citation: [1987 c.41](https://www.legislation.gov.uk/ukpga/1987/41).
 
-[^key-6295a609e0bd79f45dc7e63e7e61fa2d]: Modification: S. 44(1) modified (31.7.2017) by [The Criminal Justice (European Investigation Order) Regulations 2017 (S.I. 2017/730)](https://www.legislation.gov.uk/uksi/2017/730), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/730/regulation/1/1), [36(7)(c)](https://www.legislation.gov.uk/uksi/2017/730/regulation/36/7/c), [37(6)(c)](https://www.legislation.gov.uk/uksi/2017/730/regulation/37/6/c) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/730/regulation/3), [36(1)](https://www.legislation.gov.uk/uksi/2017/730/regulation/36/1), [37(1)](https://www.legislation.gov.uk/uksi/2017/730/regulation/37/1))
+[^c-6295a609e0bd79f45dc7e63e7e61fa2d]: Modification: S. 44(1) modified (31.7.2017) by [The Criminal Justice (European Investigation Order) Regulations 2017 (S.I. 2017/730)](https://www.legislation.gov.uk/uksi/2017/730), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/730/regulation/1/1), [36(7)(c)](https://www.legislation.gov.uk/uksi/2017/730/regulation/36/7/c), [37(6)(c)](https://www.legislation.gov.uk/uksi/2017/730/regulation/37/6/c) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/730/regulation/3), [36(1)](https://www.legislation.gov.uk/uksi/2017/730/regulation/36/1), [37(1)](https://www.legislation.gov.uk/uksi/2017/730/regulation/37/1))
 
 [^c10978441]: Marginal citation: [1975 c.34](https://www.legislation.gov.uk/ukpga/1975/34).
 
@@ -1816,19 +1816,19 @@ Acts of Parliament
 
 [^c20995651]: Textual amendment: Words in s. 47(1) repealed (13.12.2010 for specified purposes) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 37(2)(a)](https://www.legislation.gov.uk/asp/2010/13/section/37/2/a), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
 
-[^key-4bea0003713c82d995bfad6d35305596]: Textual amendment: Word in s. 47(1)(b) substituted (10.3.2016) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 84(2)](https://www.legislation.gov.uk/asp/2016/1/section/84/2), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/95](https://www.legislation.gov.uk/ssi/2016/95), [art. 2](https://www.legislation.gov.uk/ssi/2016/95/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/95/article/3))
+[^c-4bea0003713c82d995bfad6d35305596]: Textual amendment: Word in s. 47(1)(b) substituted (10.3.2016) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 84(2)](https://www.legislation.gov.uk/asp/2016/1/section/84/2), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/95](https://www.legislation.gov.uk/ssi/2016/95), [art. 2](https://www.legislation.gov.uk/ssi/2016/95/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/95/article/3))
 
 [^c20995681]: Textual amendment: S. 47(1A) inserted (13.12.2010 for specified purposes) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 37(2)(b)](https://www.legislation.gov.uk/asp/2010/13/section/37/2/b), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
 
-[^key-e66e99a50122d77ef796acaa8565b938]: Textual amendment: [S. 47(3)](https://www.legislation.gov.uk/ukpga/1995/39/section/47/3) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [sch. 2 para. 12(b)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/12/b); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-e66e99a50122d77ef796acaa8565b938]: Textual amendment: [S. 47(3)](https://www.legislation.gov.uk/ukpga/1995/39/section/47/3) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [sch. 2 para. 12(b)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/12/b); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
 
 [^c20995701]: Textual amendment: S. 47(4) substituted (13.12.2010 for specified purposes) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 37(2)(c)](https://www.legislation.gov.uk/asp/2010/13/section/37/2/c), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
 
-[^key-218d6a7394ddae6cdbf30907f461262b]: Textual amendment: [S. 48(3)](https://www.legislation.gov.uk/ukpga/1995/39/section/48/3) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [sch. 2 para. 12(c)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/12/c); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-218d6a7394ddae6cdbf30907f461262b]: Textual amendment: [S. 48(3)](https://www.legislation.gov.uk/ukpga/1995/39/section/48/3) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [sch. 2 para. 12(c)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/12/c); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
 
 [^c18971941]: Textual amendment: Word in s. 49(1)(a) substituted (1.9.2006) by [Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10)](https://www.legislation.gov.uk/asp/2006/10), [ss. 73(2)](https://www.legislation.gov.uk/asp/2006/10/section/73/2), [104](https://www.legislation.gov.uk/asp/2006/10/section/104); [S.S.I. 2006/432](https://www.legislation.gov.uk/ssi/2006/432), [art. 2(d)](https://www.legislation.gov.uk/ssi/2006/432/article/2/d)
 
-[^key-8e9a75cb7b043e3967aa052d7d060de2]: Textual amendment: Word in [s. 49(1)(b)](https://www.legislation.gov.uk/ukpga/1995/39/section/49/1/b) substituted (10.3.2016) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 84(3)](https://www.legislation.gov.uk/asp/2016/1/section/84/3), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/95](https://www.legislation.gov.uk/ssi/2016/95), [art. 2](https://www.legislation.gov.uk/ssi/2016/95/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/95/article/3))
+[^c-8e9a75cb7b043e3967aa052d7d060de2]: Textual amendment: Word in [s. 49(1)(b)](https://www.legislation.gov.uk/ukpga/1995/39/section/49/1/b) substituted (10.3.2016) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 84(3)](https://www.legislation.gov.uk/asp/2016/1/section/84/3), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/95](https://www.legislation.gov.uk/ssi/2016/95), [art. 2](https://www.legislation.gov.uk/ssi/2016/95/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/95/article/3))
 
 [^c20995721]: Textual amendment: Words in s. 49(4) substituted (13.12.2010 for specified purposes) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 37(3)(a)](https://www.legislation.gov.uk/asp/2010/13/section/37/3/a), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
 
@@ -1846,9 +1846,9 @@ Acts of Parliament
 
 [^c18971981]: Textual amendment: Word in s. 49A(5)(a)(i) substituted (1.9.2006) by [Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10)](https://www.legislation.gov.uk/asp/2006/10), [ss. 73(4)](https://www.legislation.gov.uk/asp/2006/10/section/73/4), [104](https://www.legislation.gov.uk/asp/2006/10/section/104); [S.S.I. 2006/432](https://www.legislation.gov.uk/ssi/2006/432), [art. 2(d)](https://www.legislation.gov.uk/ssi/2006/432/article/2/d)
 
-[^key-d9b58f29c18136115826fb3d0649c3b2]: Textual amendment: Word in [s. 49A(5)(a)(ii)](https://www.legislation.gov.uk/ukpga/1995/39/section/49A/5/a/ii) substituted (10.3.2016) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 84(4)(a)](https://www.legislation.gov.uk/asp/2016/1/section/84/4/a), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/95](https://www.legislation.gov.uk/ssi/2016/95), [art. 2](https://www.legislation.gov.uk/ssi/2016/95/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/95/article/3))
+[^c-d9b58f29c18136115826fb3d0649c3b2]: Textual amendment: Word in [s. 49A(5)(a)(ii)](https://www.legislation.gov.uk/ukpga/1995/39/section/49A/5/a/ii) substituted (10.3.2016) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 84(4)(a)](https://www.legislation.gov.uk/asp/2016/1/section/84/4/a), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/95](https://www.legislation.gov.uk/ssi/2016/95), [art. 2](https://www.legislation.gov.uk/ssi/2016/95/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/95/article/3))
 
-[^key-264dc3fffe34f55c638a9ab057eba25d]: Textual amendment: Word in [s. 49A(5)(b)(ii)](https://www.legislation.gov.uk/ukpga/1995/39/section/49A/5/b/ii) substituted (10.3.2016) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 84(4)(b)](https://www.legislation.gov.uk/asp/2016/1/section/84/4/b), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/95](https://www.legislation.gov.uk/ssi/2016/95), [art. 2](https://www.legislation.gov.uk/ssi/2016/95/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/95/article/3))
+[^c-264dc3fffe34f55c638a9ab057eba25d]: Textual amendment: Word in [s. 49A(5)(b)(ii)](https://www.legislation.gov.uk/ukpga/1995/39/section/49A/5/b/ii) substituted (10.3.2016) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 84(4)(b)](https://www.legislation.gov.uk/asp/2016/1/section/84/4/b), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/95](https://www.legislation.gov.uk/ssi/2016/95), [art. 2](https://www.legislation.gov.uk/ssi/2016/95/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/95/article/3))
 
 [^c10978541]: Marginal citation: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44).
 
@@ -1858,18 +1858,18 @@ Acts of Parliament
 
 [^c20995821]: Textual amendment: Words in s. 49C(2) substituted (13.12.2010 for specified purposes) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 37(5)](https://www.legislation.gov.uk/asp/2010/13/section/37/5), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
 
-[^key-439823358056a206d0bc917ab529620e]: Textual amendment: Word in [s. 49C(6)(b)](https://www.legislation.gov.uk/ukpga/1995/39/section/49C/6/b) substituted (10.3.2016) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 84(5)](https://www.legislation.gov.uk/asp/2016/1/section/84/5), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/95](https://www.legislation.gov.uk/ssi/2016/95), [art. 2](https://www.legislation.gov.uk/ssi/2016/95/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/95/article/3))
+[^c-439823358056a206d0bc917ab529620e]: Textual amendment: Word in [s. 49C(6)(b)](https://www.legislation.gov.uk/ukpga/1995/39/section/49C/6/b) substituted (10.3.2016) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 84(5)](https://www.legislation.gov.uk/asp/2016/1/section/84/5), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/95](https://www.legislation.gov.uk/ssi/2016/95), [art. 2](https://www.legislation.gov.uk/ssi/2016/95/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/95/article/3))
 
-[^key-f305a3488f715de427685a28fc044103]: Textual amendment: [S. 49C(7)(b)](https://www.legislation.gov.uk/ukpga/1995/39/section/49C/7/b) repealed (28.8.2024) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [s. 38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3), [sch. para. 15(2)](https://www.legislation.gov.uk/asp/2024/5/schedule/paragraph/15/2); [S.S.I. 2024/211](https://www.legislation.gov.uk/ssi/2024/211), [reg. 2(j)(ii)](https://www.legislation.gov.uk/ssi/2024/211/regulation/2/j/ii) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/211/regulation/3))
+[^c-f305a3488f715de427685a28fc044103]: Textual amendment: [S. 49C(7)(b)](https://www.legislation.gov.uk/ukpga/1995/39/section/49C/7/b) repealed (28.8.2024) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [s. 38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3), [sch. para. 15(2)](https://www.legislation.gov.uk/asp/2024/5/schedule/paragraph/15/2); [S.S.I. 2024/211](https://www.legislation.gov.uk/ssi/2024/211), [reg. 2(j)(ii)](https://www.legislation.gov.uk/ssi/2024/211/regulation/2/j/ii) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/211/regulation/3))
 
-[^key-c2c56c46ea174f990f98b7b36a5fb4e8]: Textual amendment: S. 50(3) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [sch. 2 para. 12(d)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/12/d); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-c2c56c46ea174f990f98b7b36a5fb4e8]: Textual amendment: S. 50(3) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [sch. 2 para. 12(d)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/12/d); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
 
 [^c20995861]: Textual amendment: Word in s. 50(4) substituted (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 37(6)](https://www.legislation.gov.uk/asp/2010/13/section/37/6), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
 
-[^key-a907e5f95ce7fafb283ea893b2a5fa9f]: Textual amendment: S. 50(5) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [sch. 2 para. 12(d)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/12/d); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-a907e5f95ce7fafb283ea893b2a5fa9f]: Textual amendment: S. 50(5) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [sch. 2 para. 12(d)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/12/d); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
 
 [^c10978581]: Textual amendment: Crossheading inserted (30.9.1998) by [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37), [s. 33](https://www.legislation.gov.uk/ukpga/1998/37/section/33); [S.I. 1998/2327](https://www.legislation.gov.uk/uksi/1998/2327), [art. 2(x)](https://www.legislation.gov.uk/uksi/1998/2327/article/2/x)
 
-[^key-59f03a16fa95ffc4232dfa09edade640]: Textual amendment: [S. 50A](https://www.legislation.gov.uk/ukpga/1995/39/section/50A) repealed (1.4.2024) by [Hate Crime and Public Order (Scotland) Act 2021 (asp 14)](https://www.legislation.gov.uk/asp/2021/14), [s. 21(2)](https://www.legislation.gov.uk/asp/2021/14/section/21/2), [sch. 2 para. 2](https://www.legislation.gov.uk/asp/2021/14/schedule/2/paragraph/2); [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+[^c-59f03a16fa95ffc4232dfa09edade640]: Textual amendment: [S. 50A](https://www.legislation.gov.uk/ukpga/1995/39/section/50A) repealed (1.4.2024) by [Hate Crime and Public Order (Scotland) Act 2021 (asp 14)](https://www.legislation.gov.uk/asp/2021/14), [s. 21(2)](https://www.legislation.gov.uk/asp/2021/14/section/21/2), [sch. 2 para. 2](https://www.legislation.gov.uk/asp/2021/14/schedule/2/paragraph/2); [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
 
 [^c10978601]: Marginal citation: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).

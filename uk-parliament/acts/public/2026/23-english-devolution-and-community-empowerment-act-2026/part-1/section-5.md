@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Combined authorities and CCAs: functions generally[^key-bba3db23ab43e10b259f346208116536]
+## 5. Combined authorities and CCAs: functions generally[^c-bba3db23ab43e10b259f346208116536]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bba3db23ab43e10b259f346208116536]: Commencement: S. 5 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-bba3db23ab43e10b259f346208116536]: Commencement: S. 5 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

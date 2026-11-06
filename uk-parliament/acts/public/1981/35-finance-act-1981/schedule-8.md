@@ -144,7 +144,7 @@ Section 11(1).
 
 #### Attenuation charge for distilled spirits
 
-**13.**[^key-3c121240df175265af209ba56d982fc1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-3c121240df175265af209ba56d982fc1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Distillers’ warehouses
 
@@ -178,11 +178,11 @@ Section 11(1).
 
 #### Drawback on British compounds and spirits of wine
 
-**16.**[^key-e802b2f8a0216dddefbdb1a06dac81c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-e802b2f8a0216dddefbdb1a06dac81c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Restrictions on distillers and rectifiers
 
-**17.**[^key-43d9e9e97b73606042cc3ad9290ad0d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-43d9e9e97b73606042cc3ad9290ad0d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Spirits consignment and advice notes
 
@@ -198,7 +198,7 @@ Section 11(1).
 
 #### Restrictions on wholesalers of spirits
 
-**21.**[^key-301c96be28d5c2ae7d75ca6ff1c5152c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-301c96be28d5c2ae7d75ca6ff1c5152c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Methylated spirits
 
@@ -227,9 +227,9 @@ Section 11(1).
 
 #### The Licensing Act 1964[^c1606430]
 
-**24.**[^key-007e5aeb6689b240db0e8b35a59f5e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-007e5aeb6689b240db0e8b35a59f5e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-0facac7c9d9a10f76e2eac9b1e14db19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-0facac7c9d9a10f76e2eac9b1e14db19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **26—28.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c1606432]
 
@@ -253,7 +253,7 @@ Section 11(1).
 
 [^c1606423]: Textual amendment: [Sch. 8 para. 12(c)](https://www.legislation.gov.uk/ukpga/1981/35/schedule/8/paragraph/12/c) repealed (1.1.1995) by [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9), [ss. 19](https://www.legislation.gov.uk/ukpga/1994/9/section/19), [258](https://www.legislation.gov.uk/ukpga/1994/9/section/258), [Sch. 26 Pt. III](https://www.legislation.gov.uk/ukpga/1994/9/schedule/26/part/III); [S.I. 1994/2679](https://www.legislation.gov.uk/uksi/1994/2679),art. 3
 
-[^key-3c121240df175265af209ba56d982fc1]: Textual amendment: [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/1981/35/schedule/8/paragraph/13) repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 1(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/1/1)
+[^c-3c121240df175265af209ba56d982fc1]: Textual amendment: [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/1981/35/schedule/8/paragraph/13) repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 1(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/1/1)
 
 [^c1606425]: Textual amendment: [Sch. 8 paras. 2(b)](https://www.legislation.gov.uk/ukpga/1981/35/schedule/8/paragraph/2/b), [14(b)](https://www.legislation.gov.uk/ukpga/1981/35/schedule/8/paragraph/14/b) repealed by [Finance Act 1986 (c. 41, SIF 40:1)](https://www.legislation.gov.uk/ukpga/1986/41), [s. 114](https://www.legislation.gov.uk/ukpga/1986/41/section/114), [Sch. 23 Pt. I](https://www.legislation.gov.uk/ukpga/1986/41/schedule/23/part/I)
 
@@ -263,16 +263,16 @@ Section 11(1).
 
 [^c1606428]: Textual amendment: [Sch. 8 para. 15(c)](https://www.legislation.gov.uk/ukpga/1981/35/schedule/8/paragraph/15/c) and the preceding “and” repealed (1.1.1995) by [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9), [ss. 19](https://www.legislation.gov.uk/ukpga/1994/9/section/19), [258](https://www.legislation.gov.uk/ukpga/1994/9/section/258), [Sch. 26 Pt. III](https://www.legislation.gov.uk/ukpga/1994/9/schedule/26/part/III); [S.I. 1994/2679](https://www.legislation.gov.uk/uksi/1994/2679), [art. 3](https://www.legislation.gov.uk/uksi/1994/2679/article/3)
 
-[^key-e802b2f8a0216dddefbdb1a06dac81c4]: Textual amendment: [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/1981/35/schedule/8/paragraph/16) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 187(2)(b)](https://www.legislation.gov.uk/ukpga/2012/14/section/187/2/b)
+[^c-e802b2f8a0216dddefbdb1a06dac81c4]: Textual amendment: [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/1981/35/schedule/8/paragraph/16) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 187(2)(b)](https://www.legislation.gov.uk/ukpga/2012/14/section/187/2/b)
 
-[^key-43d9e9e97b73606042cc3ad9290ad0d5]: Textual amendment: [Sch. 8 para. 17](https://www.legislation.gov.uk/ukpga/1981/35/schedule/8/paragraph/17) repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 1(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/1/1)
+[^c-43d9e9e97b73606042cc3ad9290ad0d5]: Textual amendment: [Sch. 8 para. 17](https://www.legislation.gov.uk/ukpga/1981/35/schedule/8/paragraph/17) repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 1(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/1/1)
 
-[^key-301c96be28d5c2ae7d75ca6ff1c5152c]: Textual amendment: [Sch. 8 para. 21](https://www.legislation.gov.uk/ukpga/1981/35/schedule/8/paragraph/21) repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 1(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/1/1)
+[^c-301c96be28d5c2ae7d75ca6ff1c5152c]: Textual amendment: [Sch. 8 para. 21](https://www.legislation.gov.uk/ukpga/1981/35/schedule/8/paragraph/21) repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 1(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/1/1)
 
 [^c1606430]: Marginal citation: [1964 c. 26](https://www.legislation.gov.uk/ukpga/1964/26).
 
-[^key-007e5aeb6689b240db0e8b35a59f5e9c]: Textual amendment: Sch. 8 para. 24 repealed (E.W.) by [Licensing (Retail Sales) Act 1988 (c. 25, SIF 68A:1)](https://www.legislation.gov.uk/ukpga/1988/25), [s. 3(c)](https://www.legislation.gov.uk/ukpga/1988/25/section/3/c)and (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-007e5aeb6689b240db0e8b35a59f5e9c]: Textual amendment: Sch. 8 para. 24 repealed (E.W.) by [Licensing (Retail Sales) Act 1988 (c. 25, SIF 68A:1)](https://www.legislation.gov.uk/ukpga/1988/25), [s. 3(c)](https://www.legislation.gov.uk/ukpga/1988/25/section/3/c)and (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
-[^key-0facac7c9d9a10f76e2eac9b1e14db19]: Textual amendment: [Sch. 8 para. 25](https://www.legislation.gov.uk/ukpga/1981/35/schedule/8/paragraph/25) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-0facac7c9d9a10f76e2eac9b1e14db19]: Textual amendment: [Sch. 8 para. 25](https://www.legislation.gov.uk/ukpga/1981/35/schedule/8/paragraph/25) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
 [^c1606432]: Textual amendment: [Sch. 8 paras. 26–28](https://www.legislation.gov.uk/ukpga/1981/35/schedule/8/paragraph/26) repealed by [S.I. 1990/594](https://www.legislation.gov.uk/uksi/1990/594), (N.I.6), art. 90(4), Sch. 13

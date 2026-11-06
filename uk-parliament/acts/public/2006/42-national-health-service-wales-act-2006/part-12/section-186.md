@@ -26,8 +26,8 @@ summary: ''
 
 (3) The Welsh Ministers may by order vary Schedule 11—
 
-- (a) by adding any description or other provision in connection with a relevant body or services provided by, or under arrangements made by, a relevant body, [^key-e15233ddcce388c1c7d58f62e45211cc]...
-- (ab)[^key-e6dcffdbdd6ea8ae020b973c7d126ca1] by adding any description or other provision in connection with a direct payment service provider or services provided by, or under arrangements made by, a direct payment service provider, or
+- (a) by adding any description or other provision in connection with a relevant body or services provided by, or under arrangements made by, a relevant body, [^c-e15233ddcce388c1c7d58f62e45211cc]...
+- (ab)[^c-e6dcffdbdd6ea8ae020b973c7d126ca1] by adding any description or other provision in connection with a direct payment service provider or services provided by, or under arrangements made by, a direct payment service provider, or
 - (b) by deleting or varying any description or other provision specified or contained in that Schedule.
 
 (4) The Welsh Ministers may exercise the power conferred by subsection (3) by amending any Part of Schedule 11, with or without amendment of any other Part.
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e15233ddcce388c1c7d58f62e45211cc]: Textual amendment: Word in s. 186(3)(a) omitted (1.1.2026) by virtue of [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 2 para. 3(3)(a)](https://www.legislation.gov.uk/asc/2025/1/schedule/2/paragraph/3/3/a); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/b)
+[^c-e15233ddcce388c1c7d58f62e45211cc]: Textual amendment: Word in s. 186(3)(a) omitted (1.1.2026) by virtue of [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 2 para. 3(3)(a)](https://www.legislation.gov.uk/asc/2025/1/schedule/2/paragraph/3/3/a); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/b)
 
-[^key-e6dcffdbdd6ea8ae020b973c7d126ca1]: Textual amendment: S. 186(3)(ab) inserted (1.1.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 2 para. 3(3)(b)](https://www.legislation.gov.uk/asc/2025/1/schedule/2/paragraph/3/3/b); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/b)
+[^c-e6dcffdbdd6ea8ae020b973c7d126ca1]: Textual amendment: S. 186(3)(ab) inserted (1.1.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 2 para. 3(3)(b)](https://www.legislation.gov.uk/asc/2025/1/schedule/2/paragraph/3/3/b); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/b)

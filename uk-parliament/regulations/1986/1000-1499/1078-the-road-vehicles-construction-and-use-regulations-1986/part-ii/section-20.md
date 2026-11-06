@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. General requirement as to wheels and tracks[^key-5d5272e51e98f594b243ad26de1aaa6b]
+## 20. General requirement as to wheels and tracks[^c-5d5272e51e98f594b243ad26de1aaa6b]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Every motor cycle and invalid carriage shall be a wheeled vehicle, and every oth
 
 ## Annotations
 
-[^key-5d5272e51e98f594b243ad26de1aaa6b]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1986/1078/regulation/20) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-5d5272e51e98f594b243ad26de1aaa6b]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1986/1078/regulation/20) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

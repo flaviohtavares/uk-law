@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21C. Interest rate on plan 5 loans[^key-27afe3bcaf2580b11834627ebbca4a0b]
+## 21C. Interest rate on plan 5 loans[^c-27afe3bcaf2580b11834627ebbca4a0b]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,10 +29,10 @@ summary: ''
 - (a) calculated on the outstanding principal of the loan daily, and
 - (b) added to the outstanding principal of the loan monthly.
 
-(4)[^key-775faea62438ac4c557e680cfd3bb923] This regulation is subject to regulation 20BA (interest rate cap: plan 2, plan 3 and plan 5 loans).
+(4)[^c-775faea62438ac4c557e680cfd3bb923] This regulation is subject to regulation 20BA (interest rate cap: plan 2, plan 3 and plan 5 loans).
 
 ## Annotations
 
-[^key-27afe3bcaf2580b11834627ebbca4a0b]: Textual amendment: [Reg. 21C](https://www.legislation.gov.uk/uksi/2009/470/regulation/21C) inserted (6.4.2023) by [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [28](https://www.legislation.gov.uk/uksi/2022/1335/regulation/28)
+[^c-27afe3bcaf2580b11834627ebbca4a0b]: Textual amendment: [Reg. 21C](https://www.legislation.gov.uk/uksi/2009/470/regulation/21C) inserted (6.4.2023) by [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [28](https://www.legislation.gov.uk/uksi/2022/1335/regulation/28)
 
-[^key-775faea62438ac4c557e680cfd3bb923]: Textual amendment: [Reg. 21C(4)](https://www.legislation.gov.uk/uksi/2009/470/regulation/21C/4) substituted (1.12.2023) by [The Education (Student Loans) (Repayment) (Amendment) (No. 3) Regulations 2023 (S.I. 2023/1184)](https://www.legislation.gov.uk/uksi/2023/1184), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1184/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2023/1184/regulation/3/5)
+[^c-775faea62438ac4c557e680cfd3bb923]: Textual amendment: [Reg. 21C(4)](https://www.legislation.gov.uk/uksi/2009/470/regulation/21C/4) substituted (1.12.2023) by [The Education (Student Loans) (Repayment) (Amendment) (No. 3) Regulations 2023 (S.I. 2023/1184)](https://www.legislation.gov.uk/uksi/2023/1184), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1184/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2023/1184/regulation/3/5)

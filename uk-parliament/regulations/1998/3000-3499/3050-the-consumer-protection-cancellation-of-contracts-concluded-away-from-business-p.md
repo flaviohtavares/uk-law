@@ -44,9 +44,9 @@ Coming into force
 
 The Secretary of State, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] as respects measures relating to consumer protection, in exercise of the powers conferred on him by that section, makes the following Regulations:–
 
-**1.**[^key-7acebbfea439f3607cbad076d710beac] These Regulations may be cited as the Consumer Protection (Cancellation of Contracts Concluded away from Business Premises) (Amendment) Regulations 1998 and shall come into force on 31st December 1998.
+**1.**[^c-7acebbfea439f3607cbad076d710beac] These Regulations may be cited as the Consumer Protection (Cancellation of Contracts Concluded away from Business Premises) (Amendment) Regulations 1998 and shall come into force on 31st December 1998.
 
-**2.**[^key-74ecb2038794b5ef2de9dfde7bb77244] The Consumer Protection (Cancellation of Contracts Concluded away from Business Premises) Regulations 1987[^f00003] are amended as follows–
+**2.**[^c-74ecb2038794b5ef2de9dfde7bb77244] The Consumer Protection (Cancellation of Contracts Concluded away from Business Premises) Regulations 1987[^f00003] are amended as follows–
 
 - (a) in regulation 2(1), by adding the following after the definition of “consumer”–
 
@@ -178,9 +178,9 @@ A Regulatory Impact Assessment of the costs and benefits which will result from 
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-7acebbfea439f3607cbad076d710beac]: Commencement: Reg. 1 in force at 31.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/3050/regulation/1)
+[^c-7acebbfea439f3607cbad076d710beac]: Commencement: Reg. 1 in force at 31.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/3050/regulation/1)
 
-[^key-74ecb2038794b5ef2de9dfde7bb77244]: Commencement: Reg. 2 in force at 31.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/3050/regulation/1)
+[^c-74ecb2038794b5ef2de9dfde7bb77244]: Commencement: Reg. 2 in force at 31.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/3050/regulation/1)
 
 [^f00003]: Footnote: S.I. [1987/2117](https://www.legislation.gov.uk/uksi/1987/2117), amended by S.I. [1988/958](https://www.legislation.gov.uk/uksi/1988/958).
 

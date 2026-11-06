@@ -39,8 +39,8 @@ summary: ''
 
 (8) And, in such a case, a member of the group of companies is a member of the consortium if the member beneficially owns some of the consortium company's ordinary share capital.
 
-(9) “**Commercial association of companies**” means a company together with such of its associated companies (as defined in section 449 of CTA 2010[^key-2521532165f7efe4d25e619abc76ceb9]) as carry on businesses that are of such a nature that the businesses of the company and the associated companies, taken together, may be reasonably considered to make up a single composite undertaking.
+(9) “**Commercial association of companies**” means a company together with such of its associated companies (as defined in section 449 of CTA 2010[^c-2521532165f7efe4d25e619abc76ceb9]) as carry on businesses that are of such a nature that the businesses of the company and the associated companies, taken together, may be reasonably considered to make up a single composite undertaking.
 
 ## Annotations
 
-[^key-2521532165f7efe4d25e619abc76ceb9]: Textual amendment: Words in s. 1004(9) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 665](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/665) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-2521532165f7efe4d25e619abc76ceb9]: Textual amendment: Words in s. 1004(9) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 665](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/665) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

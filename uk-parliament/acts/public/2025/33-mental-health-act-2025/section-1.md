@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Principles to inform decisions[^key-f37b2998c029e4816b15a3c80dfa1bcd]
+## 1. Principles to inform decisions[^c-f37b2998c029e4816b15a3c80dfa1bcd]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ In section 118 of the Mental Health Act 1983 (duty to prepare code of practice, 
 
 ## Annotations
 
-[^key-f37b2998c029e4816b15a3c80dfa1bcd]: Commencement: S. 1 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-f37b2998c029e4816b15a3c80dfa1bcd]: Commencement: S. 1 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

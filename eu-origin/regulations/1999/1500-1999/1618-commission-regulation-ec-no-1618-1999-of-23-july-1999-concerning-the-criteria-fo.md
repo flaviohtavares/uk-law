@@ -31,10 +31,10 @@ Commission Regulation (EC) No 1618/1999
 
 of 23 July 1999 concerning the criteria for the evaluation of quality of structural business statistics (Text with EEA relevance) (revoked)
 
-[^key-d620eb11d8e74c140f9c6d67dc5d1db6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d620eb11d8e74c140f9c6d67dc5d1db6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-d620eb11d8e74c140f9c6d67dc5d1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-d620eb11d8e74c140f9c6d67dc5d1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d620eb11d8e74c140f9c6d67dc5d1db6]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d620eb11d8e74c140f9c6d67dc5d1db6]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

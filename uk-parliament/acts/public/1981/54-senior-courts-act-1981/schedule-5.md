@@ -186,7 +186,7 @@ Section 152(1).
 
 ### HEARING AID COUNCIL ACT 1968 (c. 50)
 
-#### ...[^key-cdc2f0fdc975afaf8edcf63639f31645]
+#### ...[^c-cdc2f0fdc975afaf8edcf63639f31645]
 
 - [^c12338571]
 
@@ -319,7 +319,7 @@ Section 152(1).
 
 *Extent: E+W*
 
-- [^key-ee4e04575e8bc9f3f9fd83c05cb4b257]...
+- [^c-ee4e04575e8bc9f3f9fd83c05cb4b257]...
 
 ### INSURANCE BROKERS (REGISTRATION) ACT 1977 (c. 46)
 
@@ -471,7 +471,7 @@ Section 152(1).
 
 [^c12338561]: Marginal citation: [1967 c. 80](https://www.legislation.gov.uk/ukpga/1967/80).
 
-[^key-cdc2f0fdc975afaf8edcf63639f31645]: Textual amendment: Sch. 5 entry repealed (1.4.2010) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 15 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/2); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 4(2)(d)](https://www.legislation.gov.uk/uksi/2010/708/article/4/2/d)
+[^c-cdc2f0fdc975afaf8edcf63639f31645]: Textual amendment: Sch. 5 entry repealed (1.4.2010) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 15 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/2); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 4(2)(d)](https://www.legislation.gov.uk/uksi/2010/708/article/4/2/d)
 
 [^c12338571]: Marginal citation: [1925 c. 49](https://www.legislation.gov.uk/ukpga/1925/49).
 
@@ -499,7 +499,7 @@ Section 152(1).
 
 [^c20644251]: Textual amendment: Sch. 5: para. 2 of entry repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(3)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/3), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)(bb)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa/bb)
 
-[^key-ee4e04575e8bc9f3f9fd83c05cb4b257]: Textual amendment: Words in Sch. 5 repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 141](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/141); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-ee4e04575e8bc9f3f9fd83c05cb4b257]: Textual amendment: Words in Sch. 5 repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 141](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/141); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c12338711]: Textual amendment: Entry repealed by [Medical Act 1983 (c. 54, SIF 83:1)](https://www.legislation.gov.uk/ukpga/1983/54), [s. 36(2)(3)](https://www.legislation.gov.uk/ukpga/1983/54/section/36/2/3), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1983/54/schedule/7/part/I)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. English apprenticeships: funding arrangements[^key-5a69bee2732516e34f6f58e1f2e0eada]
+## 4. English apprenticeships: funding arrangements[^c-5a69bee2732516e34f6f58e1f2e0eada]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a69bee2732516e34f6f58e1f2e0eada]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2015/20/section/4) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(b)](https://www.legislation.gov.uk/uksi/2015/994/article/6/b)
+[^c-5a69bee2732516e34f6f58e1f2e0eada]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2015/20/section/4) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(b)](https://www.legislation.gov.uk/uksi/2015/994/article/6/b)

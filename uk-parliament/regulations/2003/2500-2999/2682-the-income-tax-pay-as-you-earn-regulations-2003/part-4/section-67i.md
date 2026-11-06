@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67I. Penalty: failure to comply with regulation 67B or 67D[^key-bd34a6c50e9054748fb9f29bb73ba145]
+## 67I. Penalty: failure to comply with regulation 67B or 67D[^c-bd34a6c50e9054748fb9f29bb73ba145]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ as the case may be, is liable to a penalty of the amount set out in paragraph (2
 
 ## Annotations
 
-[^key-bd34a6c50e9054748fb9f29bb73ba145]: Textual amendment: [Regs. 67I-67K](https://www.legislation.gov.uk/uksi/2003/2682/regulation/67I) and cross-heading inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Tax (Pay As You Earn) (Amendment No. 3) Regulations 2014 (S.I. 2014/2396)](https://www.legislation.gov.uk/uksi/2014/2396), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2396/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/2396/regulation/2)
+[^c-bd34a6c50e9054748fb9f29bb73ba145]: Textual amendment: [Regs. 67I-67K](https://www.legislation.gov.uk/uksi/2003/2682/regulation/67I) and cross-heading inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Tax (Pay As You Earn) (Amendment No. 3) Regulations 2014 (S.I. 2014/2396)](https://www.legislation.gov.uk/uksi/2014/2396), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2396/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/2396/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30.[^key-7b816d143b484ee3150b81c33916b203]
+## 30.[^c-7b816d143b484ee3150b81c33916b203]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 137 (interests in land), in the opening words of subsection (3), afte
 
 ## Annotations
 
-[^key-7b816d143b484ee3150b81c33916b203]: Commencement: Reg. 30 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-7b816d143b484ee3150b81c33916b203]: Commencement: Reg. 30 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

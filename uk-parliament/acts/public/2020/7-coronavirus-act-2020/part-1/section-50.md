@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Power to suspend port operations[^key-1066012154b8c4d5bde13183f1238c96]
+## 50. Power to suspend port operations[^c-1066012154b8c4d5bde13183f1238c96]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1066012154b8c4d5bde13183f1238c96]: Textual amendment: [S. 50](https://www.legislation.gov.uk/ukpga/2020/7/section/50) expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-1066012154b8c4d5bde13183f1238c96]: Textual amendment: [S. 50](https://www.legislation.gov.uk/ukpga/2020/7/section/50) expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))

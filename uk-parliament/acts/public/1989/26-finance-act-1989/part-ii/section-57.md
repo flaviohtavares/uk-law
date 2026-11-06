@@ -35,7 +35,7 @@ summary: ''
 - (j) make provision with respect to appeals against decisions of the Board with respect to certification or the revocation of certification under section 56 above;
 - (k)[^c13111681] make provision generally as to administration in connection with sections 54 to 56 above.
 
-(2)[^key-d90fb0156f55d61cd22549a19373dfbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d90fb0156f55d61cd22549a19373dfbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The following provisions of the Taxes Management Act 1970, namely—
 
@@ -74,7 +74,7 @@ shall apply in relation to an amount which is paid to any person by the Board as
 
 [^c13111691]: Textual amendment: S. 57(1)(aa) inserted (29.4.1996) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 129(3)](https://www.legislation.gov.uk/ukpga/1996/8/section/129/3)
 
-[^key-d90fb0156f55d61cd22549a19373dfbc]: Textual amendment: [S. 57(2)](https://www.legislation.gov.uk/ukpga/1989/26/section/57/2) omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 60(c)](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/60/c)
+[^c-d90fb0156f55d61cd22549a19373dfbc]: Textual amendment: [S. 57(2)](https://www.legislation.gov.uk/ukpga/1989/26/section/57/2) omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 60(c)](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/60/c)
 
 [^c13111721]: Textual amendment: S. 57(3)(a) substituted (29.4.1996 with effect as mentioned in [Sch. 18 para. 17](https://www.legislation.gov.uk/ukpga/1996/8/schedule/18/paragraph/17) of the amending Act) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 132](https://www.legislation.gov.uk/ukpga/1996/8/section/132), [Sch. 18 para. 12(2)(a)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/18/paragraph/12/2/a)
 

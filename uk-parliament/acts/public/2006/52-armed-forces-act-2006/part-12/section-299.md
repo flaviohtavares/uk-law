@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 299. Duty to receive prisoners[^key-8c52c286454fe363645f86979fd87b6d][^key-e20017786729f79bfd73af7dd9e53ecd][^key-ba742e2fb567e1d1a63e73f950842d97]
+## 299. Duty to receive prisoners[^c-8c52c286454fe363645f86979fd87b6d][^c-e20017786729f79bfd73af7dd9e53ecd][^c-ba742e2fb567e1d1a63e73f950842d97]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,8 +27,8 @@ The governor of a prison in England or Wales must—
 
 ## Annotations
 
-[^key-8c52c286454fe363645f86979fd87b6d]: Commencement: S. 299 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-8c52c286454fe363645f86979fd87b6d]: Commencement: S. 299 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-e20017786729f79bfd73af7dd9e53ecd]: Commencement: S. 299 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-e20017786729f79bfd73af7dd9e53ecd]: Commencement: S. 299 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-ba742e2fb567e1d1a63e73f950842d97]: Modification: S. 299 extended by S.I. 1999/1736, Sch. 8 para. 6(3) (as amended (31.10.2009) by [The Armed Forces Act 2006 (Consequential Amendments) Order 2009 (S.I. 2009/2054)](https://www.legislation.gov.uk/uksi/2009/2054), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/2054/article/1/2), [Sch. 1 para. 21(6)(f)](https://www.legislation.gov.uk/uksi/2009/2054/schedule/1/paragraph/21/6/f))
+[^c-ba742e2fb567e1d1a63e73f950842d97]: Modification: S. 299 extended by S.I. 1999/1736, Sch. 8 para. 6(3) (as amended (31.10.2009) by [The Armed Forces Act 2006 (Consequential Amendments) Order 2009 (S.I. 2009/2054)](https://www.legislation.gov.uk/uksi/2009/2054), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/2054/article/1/2), [Sch. 1 para. 21(6)(f)](https://www.legislation.gov.uk/uksi/2009/2054/schedule/1/paragraph/21/6/f))

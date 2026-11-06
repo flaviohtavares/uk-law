@@ -31,7 +31,7 @@ summary: ''
 
 HEALTH AND PERSONAL SOCIAL SERVICES
 
-Provision of Health Services to Persons not Ordinarily Resident Regulations (Northern Ireland) 2005 (revoked)[^key-169bc70736d2a4f5a83f41de5b6c4f5c]
+Provision of Health Services to Persons not Ordinarily Resident Regulations (Northern Ireland) 2005 (revoked)[^c-169bc70736d2a4f5a83f41de5b6c4f5c]
 
 Made
 
@@ -41,67 +41,67 @@ Coming into operation
 
 10th January 2006
 
-[^key-169bc70736d2a4f5a83f41de5b6c4f5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-169bc70736d2a4f5a83f41de5b6c4f5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-169bc70736d2a4f5a83f41de5b6c4f5c]
+## 1. Citation and commencement[^c-169bc70736d2a4f5a83f41de5b6c4f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-169bc70736d2a4f5a83f41de5b6c4f5c]
+## 2. Interpretation[^c-169bc70736d2a4f5a83f41de5b6c4f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2A. Visitors to whom services forming part of health services shall be available[^key-169bc70736d2a4f5a83f41de5b6c4f5c]
+## 2A. Visitors to whom services forming part of health services shall be available[^c-169bc70736d2a4f5a83f41de5b6c4f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Visitors exempt from charges[^key-169bc70736d2a4f5a83f41de5b6c4f5c]
+## 3. Visitors exempt from charges[^c-169bc70736d2a4f5a83f41de5b6c4f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Services exempted from charges[^key-169bc70736d2a4f5a83f41de5b6c4f5c]
+## 4. Services exempted from charges[^c-169bc70736d2a4f5a83f41de5b6c4f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Exemption from charges during long term visits by United Kingdom pensioners[^key-169bc70736d2a4f5a83f41de5b6c4f5c]
+## 5. Exemption from charges during long term visits by United Kingdom pensioners[^c-169bc70736d2a4f5a83f41de5b6c4f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Exemption from charges for treatment the need for which arose during the visit[^key-169bc70736d2a4f5a83f41de5b6c4f5c]
+## 6. Exemption from charges for treatment the need for which arose during the visit[^c-169bc70736d2a4f5a83f41de5b6c4f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Exemption from charges for treatment provided to a member of the forces of the North Atlantic Treaty Organisations[^key-169bc70736d2a4f5a83f41de5b6c4f5c]
+## 7. Exemption from charges for treatment provided to a member of the forces of the North Atlantic Treaty Organisations[^c-169bc70736d2a4f5a83f41de5b6c4f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Transitional provisions[^key-169bc70736d2a4f5a83f41de5b6c4f5c]
+## 8. Transitional provisions[^c-169bc70736d2a4f5a83f41de5b6c4f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8A. Exemption from charges for exceptional humanitarian reasons[^key-169bc70736d2a4f5a83f41de5b6c4f5c]
+## 8A. Exemption from charges for exceptional humanitarian reasons[^c-169bc70736d2a4f5a83f41de5b6c4f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8B. General health services available to visiting patients under Directive 2011/24/EU[^key-169bc70736d2a4f5a83f41de5b6c4f5c]
+## 8B. General health services available to visiting patients under Directive 2011/24/EU[^c-169bc70736d2a4f5a83f41de5b6c4f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Revocation[^key-169bc70736d2a4f5a83f41de5b6c4f5c]
+## 9. Revocation[^c-169bc70736d2a4f5a83f41de5b6c4f5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-169bc70736d2a4f5a83f41de5b6c4f5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-169bc70736d2a4f5a83f41de5b6c4f5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — DISEASES FOR THE TREATMENT OF WHICH NO CHARGE IS TO BE MADE[^key-169bc70736d2a4f5a83f41de5b6c4f5c]
+## SCHEDULE 1 — DISEASES FOR THE TREATMENT OF WHICH NO CHARGE IS TO BE MADE[^c-169bc70736d2a4f5a83f41de5b6c4f5c]
 
 Regulation 4(5)(d)
 
-### Notifiable Diseases[^key-169bc70736d2a4f5a83f41de5b6c4f5c]
+### Notifiable Diseases[^c-169bc70736d2a4f5a83f41de5b6c4f5c]
 
 - Public Health Act (Northern Ireland) 1967
 - Public Health Notifiable Diseases Order (Northern Ireland) 1990
@@ -140,7 +140,7 @@ Regulation 4(5)(d)
 - Whooping cough
 - Yellow fever
 
-## SCHEDULE 2 — COUNTRIES OR TERRITORIES IN RESPECT OF WHICH THE UNITED KINGDOM GOVERNMENT HAS ENTERED INTO A RECIPROCAL AGREEMENT[^key-169bc70736d2a4f5a83f41de5b6c4f5c]
+## SCHEDULE 2 — COUNTRIES OR TERRITORIES IN RESPECT OF WHICH THE UNITED KINGDOM GOVERNMENT HAS ENTERED INTO A RECIPROCAL AGREEMENT[^c-169bc70736d2a4f5a83f41de5b6c4f5c]
 
 Regulations 3(p), (q), 6(c) and (e)
 
@@ -148,8 +148,8 @@ Regulations 3(p), (q), 6(c) and (e)
 
 **May not be in force at this date. Check the source.**
 
-[^key-169bc70736d2a4f5a83f41de5b6c4f5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-169bc70736d2a4f5a83f41de5b6c4f5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-169bc70736d2a4f5a83f41de5b6c4f5c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/551) revoked (23.2.2015) by [Provision of Health Services to Persons Not Ordinarily Resident Regulations (Northern Ireland) 2015 (S.R. 2015/27)](https://www.legislation.gov.uk/nisr/2015/27), [reg. 27(a)](https://www.legislation.gov.uk/nisr/2015/27/regulation/27/a)
+[^c-169bc70736d2a4f5a83f41de5b6c4f5c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/551) revoked (23.2.2015) by [Provision of Health Services to Persons Not Ordinarily Resident Regulations (Northern Ireland) 2015 (S.R. 2015/27)](https://www.legislation.gov.uk/nisr/2015/27), [reg. 27(a)](https://www.legislation.gov.uk/nisr/2015/27/regulation/27/a)

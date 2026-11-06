@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Restrictions on proceedings pending the conclusion of an investigation[^key-248085bdf47eb80393b2e43755595384]
+## 54. Restrictions on proceedings pending the conclusion of an investigation[^c-248085bdf47eb80393b2e43755595384]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-248085bdf47eb80393b2e43755595384]: Commencement: Reg. 54 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-248085bdf47eb80393b2e43755595384]: Commencement: Reg. 54 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

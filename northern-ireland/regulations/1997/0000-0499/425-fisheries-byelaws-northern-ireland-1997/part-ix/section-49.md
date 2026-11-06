@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**49.**[^key-541553718e3a17687a1b1a8bca77aad8] The maximum length of a single wall set net or trammel net used for the taking of coarse fish on Upper and Lower Lough Erne which may be used at any time by any one licence-holder shall be 460 metres of net as hung whether used as one or more nets.
+**49.**[^c-541553718e3a17687a1b1a8bca77aad8] The maximum length of a single wall set net or trammel net used for the taking of coarse fish on Upper and Lower Lough Erne which may be used at any time by any one licence-holder shall be 460 metres of net as hung whether used as one or more nets.
 
 ## Annotations
 
-[^key-541553718e3a17687a1b1a8bca77aad8]: Commencement: S. 49 in operation at 1.11.1997, see byelaw 1
+[^c-541553718e3a17687a1b1a8bca77aad8]: Commencement: S. 49 in operation at 1.11.1997, see byelaw 1

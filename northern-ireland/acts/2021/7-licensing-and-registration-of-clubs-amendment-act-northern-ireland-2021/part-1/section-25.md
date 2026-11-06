@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Code of practice[^key-553214b4393a410aa3a5f6efd478e61f][^key-dd73555fd6a8955c1f1ef02779562b50]
+## 25. Code of practice[^c-553214b4393a410aa3a5f6efd478e61f][^c-dd73555fd6a8955c1f1ef02779562b50]
 
 *Extent: N.I.*
 
@@ -84,6 +84,6 @@ summary: ''
 
 ## Annotations
 
-[^key-553214b4393a410aa3a5f6efd478e61f]: Commencement: S. 25 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-553214b4393a410aa3a5f6efd478e61f]: Commencement: S. 25 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-dd73555fd6a8955c1f1ef02779562b50]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2021/7/section/25) in operation at 1.10.2022 by [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)
+[^c-dd73555fd6a8955c1f1ef02779562b50]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2021/7/section/25) in operation at 1.10.2022 by [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)

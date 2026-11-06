@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 3A — OFFENCES: MODE OF TRIAL AND MAXIMUM PENALTY[^key-c63014e6c7bfbfea71800a2d42aa9962][^key-26f7634a58918f755be14c37c7609b8c][^c20802251]
+## SCHEDULE 3A — OFFENCES: MODE OF TRIAL AND MAXIMUM PENALTY[^c-c63014e6c7bfbfea71800a2d42aa9962][^c-26f7634a58918f755be14c37c7609b8c][^c20802251]
 
 *Extent: N.I.*
 
-[^key-c63014e6c7bfbfea71800a2d42aa9962][^key-26f7634a58918f755be14c37c7609b8c]
+[^c-c63014e6c7bfbfea71800a2d42aa9962][^c-26f7634a58918f755be14c37c7609b8c]
 
 The mode of trial and maximum penalty applicable to each offence listed in the first column of the following table are as set out opposite that offence in the subsequent columns of the table.
 
@@ -43,8 +43,8 @@ The mode of trial and maximum penalty applicable to each offence listed in the f
 
 ## Annotations
 
-[^key-c63014e6c7bfbfea71800a2d42aa9962]: Modification: [Sch. 3A](https://www.legislation.gov.uk/nisi/1978/1039/schedule/3A) applied (with modifications) (21.10.2016) by [The Making Available on the Market and Supervision of Transfers of Explosives Regulations (Northern Ireland) 2016 (S.R. 2016/366)](https://www.legislation.gov.uk/nisr/2016/366), [reg. 1](https://www.legislation.gov.uk/nisr/2016/366/regulation/1), [Sch. 2 paras. 6(a)](https://www.legislation.gov.uk/nisr/2016/366/schedule/2/paragraph/6/a), [7](https://www.legislation.gov.uk/nisr/2016/366/schedule/2/paragraph/7) (with [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/nisr/2016/366/schedule/2/paragraph/7/2))
+[^c-c63014e6c7bfbfea71800a2d42aa9962]: Modification: [Sch. 3A](https://www.legislation.gov.uk/nisi/1978/1039/schedule/3A) applied (with modifications) (21.10.2016) by [The Making Available on the Market and Supervision of Transfers of Explosives Regulations (Northern Ireland) 2016 (S.R. 2016/366)](https://www.legislation.gov.uk/nisr/2016/366), [reg. 1](https://www.legislation.gov.uk/nisr/2016/366/regulation/1), [Sch. 2 paras. 6(a)](https://www.legislation.gov.uk/nisr/2016/366/schedule/2/paragraph/6/a), [7](https://www.legislation.gov.uk/nisr/2016/366/schedule/2/paragraph/7) (with [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/nisr/2016/366/schedule/2/paragraph/7/2))
 
-[^key-26f7634a58918f755be14c37c7609b8c]: Modification: [Sch. 3A](https://www.legislation.gov.uk/nisi/1978/1039/schedule/3A) applied (with modifications) (30.7.2018) by [The Cableway Installations Regulations 2018 (S.I. 2018/816)](https://www.legislation.gov.uk/uksi/2018/816), [regs. 1](https://www.legislation.gov.uk/uksi/2018/816/regulation/1), [22(1)-(3)](https://www.legislation.gov.uk/uksi/2018/816/regulation/22/1) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/816/regulation/4))
+[^c-26f7634a58918f755be14c37c7609b8c]: Modification: [Sch. 3A](https://www.legislation.gov.uk/nisi/1978/1039/schedule/3A) applied (with modifications) (30.7.2018) by [The Cableway Installations Regulations 2018 (S.I. 2018/816)](https://www.legislation.gov.uk/uksi/2018/816), [regs. 1](https://www.legislation.gov.uk/uksi/2018/816/regulation/1), [22(1)-(3)](https://www.legislation.gov.uk/uksi/2018/816/regulation/22/1) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/816/regulation/4))
 
 [^c20802251]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/nisi/1978/1039/schedule/3A) inserted (16.1.2009) by [Health and Safety (Offences) Act 2008 (c. 20)](https://www.legislation.gov.uk/ukpga/2008/20), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2008/20/section/1/4), [3(2)](https://www.legislation.gov.uk/ukpga/2008/20/section/3/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/20/schedule/2) (with [s. 3(3)](https://www.legislation.gov.uk/ukpga/2008/20/section/3/3))

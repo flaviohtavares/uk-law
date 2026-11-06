@@ -31,7 +31,7 @@ summary: ''
 
 FINANCIAL SERVICES AND MARKETS
 
-The Financial Services (EEA Passport Rights) Regulations 2001 (revoked)[^key-375ab262be12ef259902941f3fcde58d]
+The Financial Services (EEA Passport Rights) Regulations 2001 (revoked)[^c-375ab262be12ef259902941f3fcde58d]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 30th April 2001
 
-[^key-375ab262be12ef259902941f3fcde58d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-375ab262be12ef259902941f3fcde58d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-375ab262be12ef259902941f3fcde58d]
+## 1. Citation and commencement[^c-375ab262be12ef259902941f3fcde58d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Financial Services and Markets Act 2000[^key-375ab262be12ef259902941f3fcde58d]
+## 2. Amendment of the Financial Services and Markets Act 2000[^c-375ab262be12ef259902941f3fcde58d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-375ab262be12ef259902941f3fcde58d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-375ab262be12ef259902941f3fcde58d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-375ab262be12ef259902941f3fcde58d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-375ab262be12ef259902941f3fcde58d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-375ab262be12ef259902941f3fcde58d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2001/1376) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
+[^c-375ab262be12ef259902941f3fcde58d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2001/1376) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 192. Approval for persons to furnish reports[^key-083ee39e60e24b48b6bff57ef47bec98]
+## 192. Approval for persons to furnish reports[^c-083ee39e60e24b48b6bff57ef47bec98]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Governor may approve a person as qualified to provide reports, and may accep
 
 ## Annotations
 
-[^key-083ee39e60e24b48b6bff57ef47bec98]: Commencement: [Art. 192](https://www.legislation.gov.uk/uksi/2013/2870/article/192) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-083ee39e60e24b48b6bff57ef47bec98]: Commencement: [Art. 192](https://www.legislation.gov.uk/uksi/2013/2870/article/192) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Adjournment in absence of chair[^key-73be7872cc905b912139e95583d26baa]
+## 46. Adjournment in absence of chair[^c-73be7872cc905b912139e95583d26baa]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73be7872cc905b912139e95583d26baa]: Commencement: Rule 46 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-73be7872cc905b912139e95583d26baa]: Commencement: Rule 46 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

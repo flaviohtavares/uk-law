@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Remote monitoring of released prisoners[^key-a097e563898158742dee3181800f31fd]
+## 40. Remote monitoring of released prisoners[^c-a097e563898158742dee3181800f31fd]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a097e563898158742dee3181800f31fd]: Textual amendment: [S. 40](https://www.legislation.gov.uk/asp/2003/7/section/40) repealed (17.5.2022) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [s. 63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2), [sch. 1 para. 9(2)](https://www.legislation.gov.uk/asp/2019/14/schedule/1/paragraph/9/2); [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(l)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/l) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2), [3(6)](https://www.legislation.gov.uk/ssi/2022/94/regulation/3/6))
+[^c-a097e563898158742dee3181800f31fd]: Textual amendment: [S. 40](https://www.legislation.gov.uk/asp/2003/7/section/40) repealed (17.5.2022) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [s. 63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2), [sch. 1 para. 9(2)](https://www.legislation.gov.uk/asp/2019/14/schedule/1/paragraph/9/2); [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(l)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/l) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2), [3(6)](https://www.legislation.gov.uk/ssi/2022/94/regulation/3/6))

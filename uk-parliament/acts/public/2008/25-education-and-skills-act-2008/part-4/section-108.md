@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Duty to inspect certain registered institutions at prescribed intervals[^key-1642bddfd12052adfab66646a36e2029]
+## 108. Duty to inspect certain registered institutions at prescribed intervals[^c-1642bddfd12052adfab66646a36e2029]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1642bddfd12052adfab66646a36e2029]: Commencement: S. 108 in force at 19.6.2009 for specified purposes by [S.I. 2009/1513](https://www.legislation.gov.uk/uksi/2009/1513), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/1513/article/2/2)
+[^c-1642bddfd12052adfab66646a36e2029]: Commencement: S. 108 in force at 19.6.2009 for specified purposes by [S.I. 2009/1513](https://www.legislation.gov.uk/uksi/2009/1513), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/1513/article/2/2)

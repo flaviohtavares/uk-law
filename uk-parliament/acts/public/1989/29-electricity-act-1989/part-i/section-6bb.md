@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6BB. Designation of a delivery body[^key-684ee78b8001339c7193481a10487fb4]
+## 6BB. Designation of a delivery body[^c-684ee78b8001339c7193481a10487fb4]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-684ee78b8001339c7193481a10487fb4]: Textual amendment: Ss. 6BA, 6BB inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/2)
+[^c-684ee78b8001339c7193481a10487fb4]: Textual amendment: Ss. 6BA, 6BB inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/2)

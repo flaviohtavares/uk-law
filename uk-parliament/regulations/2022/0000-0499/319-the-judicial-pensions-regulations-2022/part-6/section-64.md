@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Restriction on total amount of pension that may be allocated[^key-6f6ab7c6b8e6e5b0e217d2eab221281d]
+## 64. Restriction on total amount of pension that may be allocated[^c-6f6ab7c6b8e6e5b0e217d2eab221281d]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f6ab7c6b8e6e5b0e217d2eab221281d]: Commencement: Reg. 64 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-6f6ab7c6b8e6e5b0e217d2eab221281d]: Commencement: Reg. 64 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

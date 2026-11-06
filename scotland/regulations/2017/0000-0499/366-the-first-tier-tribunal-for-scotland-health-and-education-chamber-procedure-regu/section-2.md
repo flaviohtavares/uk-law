@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Application of the Rules set out in the schedule[^key-35dac04fbbf8abf5c88e7b4c4b83c2eb]
+## 2. Application of the Rules set out in the schedule[^c-35dac04fbbf8abf5c88e7b4c4b83c2eb]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ The Rules in the schedule apply to proceedings before the First-tier Tribunal fo
 
 ## Annotations
 
-[^key-35dac04fbbf8abf5c88e7b4c4b83c2eb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/366/regulation/2) in force at 12.1.2018, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/366/regulation/1/2)
+[^c-35dac04fbbf8abf5c88e7b4c4b83c2eb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/366/regulation/2) in force at 12.1.2018, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/366/regulation/1/2)
 
 [^f00002]: Footnote: S.S.I. 2018/   .

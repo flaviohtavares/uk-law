@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 154A. Liability of personal representatives[^key-e2f008f41bee58a441f3db931eecb6e4]
+## 154A. Liability of personal representatives[^c-e2f008f41bee58a441f3db931eecb6e4]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2f008f41bee58a441f3db931eecb6e4]: Textual amendment: S. 154A inserted (25.1.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 56](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/56); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 2(b)(ii)](https://www.legislation.gov.uk/wsi/2018/34/article/2/b/ii)
+[^c-e2f008f41bee58a441f3db931eecb6e4]: Textual amendment: S. 154A inserted (25.1.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 56](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/56); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 2(b)(ii)](https://www.legislation.gov.uk/wsi/2018/34/article/2/b/ii)

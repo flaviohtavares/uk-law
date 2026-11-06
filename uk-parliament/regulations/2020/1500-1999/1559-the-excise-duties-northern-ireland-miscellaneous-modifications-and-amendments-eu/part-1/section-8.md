@@ -18,15 +18,15 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**8.**[^key-91b1960676a678e6c5f0d07ba36523e1] In regulation 6—
+**8.**[^c-91b1960676a678e6c5f0d07ba36523e1] In regulation 6—
 
 - (a) for “the United Kingdom” (in each place it occurs) substitute “Northern Ireland”;
 - (b) insert “in Northern Ireland” in the following places—
   - (i) in paragraph (1)(a) after “duty suspension arrangement”;
   - (ii) in paragraph (1)(b) after “duty suspension arrangement”;
-  - (iii)[^key-959e13c4932e09b35d180be538693673] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (iv)[^key-959e13c4932e09b35d180be538693673] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-a0e4802b45a9510c1e3f7658fb3a80ba] in paragraph (1)(c), for “are produced” substitute “are produced or processed in Northern Ireland”;
+  - (iii)[^c-959e13c4932e09b35d180be538693673] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv)[^c-959e13c4932e09b35d180be538693673] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-a0e4802b45a9510c1e3f7658fb3a80ba] in paragraph (1)(c), for “are produced” substitute “are produced or processed in Northern Ireland”;
 - (d) for paragraph (1)(d) substitute—
 
   > - (d) are charged with duty at—
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-91b1960676a678e6c5f0d07ba36523e1]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
+[^c-91b1960676a678e6c5f0d07ba36523e1]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
 
-[^key-959e13c4932e09b35d180be538693673]: Textual amendment: Reg. 8(b)(iii)(iv) omitted (13.2.2023) by virtue of [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/4/a)
+[^c-959e13c4932e09b35d180be538693673]: Textual amendment: Reg. 8(b)(iii)(iv) omitted (13.2.2023) by virtue of [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/4/a)
 
-[^key-a0e4802b45a9510c1e3f7658fb3a80ba]: Textual amendment: Regs. 8(c)-(e) substituted for reg. 8(c) (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/4/b)
+[^c-a0e4802b45a9510c1e3f7658fb3a80ba]: Textual amendment: Regs. 8(c)-(e) substituted for reg. 8(c) (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/4/b)

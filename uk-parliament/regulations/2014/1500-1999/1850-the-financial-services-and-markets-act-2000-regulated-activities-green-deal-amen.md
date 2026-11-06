@@ -46,7 +46,7 @@ The Scottish Ministers and the Welsh Ministers have been consulted in accordance
 
 Accordingly, the Secretary of State makes the following Order, in exercise of the power conferred by section 30 of the Energy Act 2011.
 
-## 1. Citation, commencement, application and extent[^key-76929f2d903e48f64c08cbbd0fd3b34a]
+## 1. Citation, commencement, application and extent[^c-76929f2d903e48f64c08cbbd0fd3b34a]
 
 (1) This Order may be cited as the Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014.
 
@@ -56,11 +56,11 @@ Accordingly, the Secretary of State makes the following Order, in exercise of th
 
 (4) This Order extends to England and Wales and Scotland only.
 
-## 2. Amendments to the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^key-b4895c31f2991390e7b6c547a69ef369]
+## 2. Amendments to the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^c-b4895c31f2991390e7b6c547a69ef369]
 
 The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^f00003] is amended as follows.
 
-## 3. Amendments to article 3[^key-3014f8cfacfab93e6c42a0d2f2e80350]
+## 3. Amendments to article 3[^c-3014f8cfacfab93e6c42a0d2f2e80350]
 
 (1) Article 3(1) (interpretation)[^f00004] is amended as follows.
 
@@ -100,14 +100,14 @@ The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^f
 
   .
 
-## 4. Amendments to article 39I[^key-bebf38706e9b6d2625203ddb64225e66]
+## 4. Amendments to article 39I[^c-bebf38706e9b6d2625203ddb64225e66]
 
 In article 39I(3) (activities carried on by certain energy suppliers)[^f00005]—
 
 - (a) omit sub-paragraph (a); and
 - (b) in sub-paragraph (b), for “that Act” substitute “the Energy Act 2011”.
 
-## 5. Amendment to article 60B[^key-f32e37b187f3fb0570a98d9649740ed6]
+## 5. Amendment to article 60B[^c-f32e37b187f3fb0570a98d9649740ed6]
 
 In article 60B(3) (regulated credit agreements)[^f00006], for the definition of “credit agreement” substitute—
 
@@ -117,7 +117,7 @@ In article 60B(3) (regulated credit agreements)[^f00006], for the definition of 
 
 .
 
-## 6. Amendments to article 60C[^key-0a792be16c7ee35538c2cbacda698c29]
+## 6. Amendments to article 60C[^c-0a792be16c7ee35538c2cbacda698c29]
 
 For article 60C(4)(c) (exempt agreements: exemptions relating to the nature of the agreement)[^f00007] substitute—
 
@@ -125,11 +125,11 @@ For article 60C(4)(c) (exempt agreements: exemptions relating to the nature of t
 
 .
 
-## 7. Amendment to article 60F[^key-d87beb1dbc8bd282e5bba1fe0d852200]
+## 7. Amendment to article 60F[^c-d87beb1dbc8bd282e5bba1fe0d852200]
 
 In article 60F(2)(a) (exempt agreements: exemptions relating to number of repayments to be made)[^f00008], after “for fixed-sum credit” insert “, other than a green deal plan”.
 
-## 8. Amendments to article 60L[^key-8fd85f075041c15a4ea9a130cc97ba93]
+## 8. Amendments to article 60L[^c-8fd85f075041c15a4ea9a130cc97ba93]
 
 (1) Article 60L (interpretation of Chapter 14A etc)[^f00009] is amended as follows.
 
@@ -154,11 +154,11 @@ In article 60F(2)(a) (exempt agreements: exemptions relating to number of repaym
 
 .
 
-## 9. Amendment to article 60LA[^key-6c17b96ca755f9c86332b96a7725a19f]
+## 9. Amendment to article 60LA[^c-6c17b96ca755f9c86332b96a7725a19f]
 
 In article 60LA(3) (meaning of consumer etc.)[^f00010], after “in article 60L” insert “or, where the credit agreement is a green deal plan, article 60LB”.
 
-## 10. Insertion of new article 60LB[^key-c130fc41851b05647bd6af2efe68e5d3]
+## 10. Insertion of new article 60LB[^c-c130fc41851b05647bd6af2efe68e5d3]
 
 After article 60LA (meaning of consumer etc.) insert—
 
@@ -212,7 +212,7 @@ After article 60LA (meaning of consumer etc.) insert—
 
 .
 
-## 11. Meaning of “borrower” in relation to green deal plans[^key-a956c7fdf89e89bb1517162c8039d87c]
+## 11. Meaning of “borrower” in relation to green deal plans[^c-a956c7fdf89e89bb1517162c8039d87c]
 
 After Schedule 4 (relevant text of the insurance mediation directive)[^f00012] insert the following Schedule—
 
@@ -234,7 +234,7 @@ After Schedule 4 (relevant text of the insurance mediation directive)[^f00012] i
 > | Article 60LA | improver<br>first bill payer<br>current bill payer<br>previous bill payer |
 > | Article 60M[^f00020] | improver<br>first bill payer<br>current bill payer<br>previous bill payer |
 
-## 12. Transitional provision in relation to this Order[^key-dde4ee7c34caaae8fa42302209e92caf]
+## 12. Transitional provision in relation to this Order[^c-dde4ee7c34caaae8fa42302209e92caf]
 
 (1) This article makes provision in connection with the application of the provisions of the Consumer Credit Act 1974 (the “**1974 Act**”) to a green deal plan which—
 
@@ -286,45 +286,45 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00002]: Footnote: Section 30 was amended by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881), article 28 and paragraph 17 of the Schedule.
 
-[^key-76929f2d903e48f64c08cbbd0fd3b34a]: Commencement: Art. 1 in force at 15.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2)
+[^c-76929f2d903e48f64c08cbbd0fd3b34a]: Commencement: Art. 1 in force at 15.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2)
 
-[^key-b4895c31f2991390e7b6c547a69ef369]: Commencement: Art. 2 in force at 15.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2)
+[^c-b4895c31f2991390e7b6c547a69ef369]: Commencement: Art. 2 in force at 15.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2)
 
 [^f00003]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544). [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544) was amended by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881) and [S.I. 2014/366](https://www.legislation.gov.uk/uksi/2014/366).
 
-[^key-3014f8cfacfab93e6c42a0d2f2e80350]: Commencement: Art. 3 in force at 15.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2)
+[^c-3014f8cfacfab93e6c42a0d2f2e80350]: Commencement: Art. 3 in force at 15.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2)
 
 [^f00004]: Footnote: Article 3(1) was amended by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881), articles 2 and 3 and [S.I. 2014/366](https://www.legislation.gov.uk/uksi/2014/366), article 2.
 
-[^key-bebf38706e9b6d2625203ddb64225e66]: Commencement: Art. 4 in force at 15.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2)
+[^c-bebf38706e9b6d2625203ddb64225e66]: Commencement: Art. 4 in force at 15.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2)
 
 [^f00005]: Footnote: Article 39I was inserted by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881), articles 2 and 5.
 
-[^key-f32e37b187f3fb0570a98d9649740ed6]: Commencement: Art. 5 in force at 15.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2)
+[^c-f32e37b187f3fb0570a98d9649740ed6]: Commencement: Art. 5 in force at 15.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2)
 
 [^f00006]: Footnote: Article 60B was inserted by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881), articles 2 and 6.
 
-[^key-0a792be16c7ee35538c2cbacda698c29]: Commencement: Art. 6 in force at 15.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2)
+[^c-0a792be16c7ee35538c2cbacda698c29]: Commencement: Art. 6 in force at 15.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2)
 
 [^f00007]: Footnote: Article 60C was inserted by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881), articles 2 and 6.
 
-[^key-d87beb1dbc8bd282e5bba1fe0d852200]: Commencement: Art. 7 in force at 15.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2)
+[^c-d87beb1dbc8bd282e5bba1fe0d852200]: Commencement: Art. 7 in force at 15.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2)
 
 [^f00008]: Footnote: Article 60F was inserted by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881), articles 2 and 6.
 
-[^key-8fd85f075041c15a4ea9a130cc97ba93]: Commencement: Art. 8 in force at 15.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2)
+[^c-8fd85f075041c15a4ea9a130cc97ba93]: Commencement: Art. 8 in force at 15.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2)
 
 [^f00009]: Footnote: Article 60L was inserted by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881), articles 2 and 6 and amended by [S.I. 2014/366](https://www.legislation.gov.uk/uksi/2014/366), article 2.
 
-[^key-6c17b96ca755f9c86332b96a7725a19f]: Commencement: Art. 9 in force at 15.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2)
+[^c-6c17b96ca755f9c86332b96a7725a19f]: Commencement: Art. 9 in force at 15.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2)
 
 [^f00010]: Footnote: Article 60LA was inserted by [S.I. 2014/366](https://www.legislation.gov.uk/uksi/2014/366).
 
-[^key-c130fc41851b05647bd6af2efe68e5d3]: Commencement: Art. 10 in force at 15.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2)
+[^c-c130fc41851b05647bd6af2efe68e5d3]: Commencement: Art. 10 in force at 15.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2)
 
 [^f00011]: Footnote: [1974 c.39](https://www.legislation.gov.uk/ukpga/1974/39). Section 61 was amended by [S.I. 2004/3236](https://www.legislation.gov.uk/uksi/2004/3236), article 2.
 
-[^key-a956c7fdf89e89bb1517162c8039d87c]: Commencement: Art. 11 in force at 15.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2)
+[^c-a956c7fdf89e89bb1517162c8039d87c]: Commencement: Art. 11 in force at 15.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2)
 
 [^f00012]: Footnote: Schedule 4 was inserted by [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476), articles 2 and 12.
 
@@ -344,7 +344,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00020]: Footnote: Article 60M was inserted by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881), articles 2 and 6.
 
-[^key-dde4ee7c34caaae8fa42302209e92caf]: Commencement: Art. 12 in force at 15.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2)
+[^c-dde4ee7c34caaae8fa42302209e92caf]: Commencement: Art. 12 in force at 15.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2)
 
 [^f00021]: Footnote: Section 55 was amended by [S.I. 2010/1010](https://www.legislation.gov.uk/uksi/2010/1010), regulations 2 and 16.
 

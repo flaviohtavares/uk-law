@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 328. Offenders assisting investigations and prosecutions: powers of the CMA[^key-24d289252d05dff8e123f9a8a8e0a553][^key-19203f3669f87334f8a2530f2d8ff977]
+## 328. Offenders assisting investigations and prosecutions: powers of the CMA[^c-24d289252d05dff8e123f9a8a8e0a553][^c-19203f3669f87334f8a2530f2d8ff977]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-24d289252d05dff8e123f9a8a8e0a553]: Commencement: S. 328 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-24d289252d05dff8e123f9a8a8e0a553]: Commencement: S. 328 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-19203f3669f87334f8a2530f2d8ff977]: Commencement: [S. 328](https://www.legislation.gov.uk/ukpga/2024/13/section/328) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(5)(c)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/5/c)
+[^c-19203f3669f87334f8a2530f2d8ff977]: Commencement: [S. 328](https://www.legislation.gov.uk/ukpga/2024/13/section/328) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(5)(c)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/5/c)

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**171.**[^key-88d22db245ee216b6ddb59260a4578a0] In section 22 (regulation of establishments and agencies)—
+**171.**[^c-88d22db245ee216b6ddb59260a4578a0] In section 22 (regulation of establishments and agencies)—
 
 - (a) for subsection (2)(e)[^f00176] substitute—
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-88d22db245ee216b6ddb59260a4578a0]: Commencement: Reg. 171 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-88d22db245ee216b6ddb59260a4578a0]: Commencement: Reg. 171 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00176]: Footnote: Section 22(2)(e) was amended by the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), Schedule 1, paragraph 11.

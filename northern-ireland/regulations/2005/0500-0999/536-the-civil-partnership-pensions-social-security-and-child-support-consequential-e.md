@@ -43,11 +43,11 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred on it by sections 254(3) and (5), 258 and 259 of the Civil Partnership Act 2004[^f00001], and of all other powers enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation and commencement[^key-be53d960ca1a8fdea316360c4946b949]
+## 1. Citation and commencement[^c-be53d960ca1a8fdea316360c4946b949]
 
 This Order may be cited as the Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 and shall come into operation on 5th December 2005.
 
-## 2. Amendment of legislation[^key-a3a41ac65900d0d212d7e690cf9210b8]
+## 2. Amendment of legislation[^c-a3a41ac65900d0d212d7e690cf9210b8]
 
 (1) Schedule 1, which contains amendments of legislation relating to pension sharing on divorce etc., shall have effect.
 
@@ -59,7 +59,7 @@ This Order may be cited as the Civil Partnership (Pensions, Social Security and 
 
 (5) Schedule 5, which contains transitory provisions relating to child support, shall have effect.
 
-## 3. Transitional provision relating to housing benefit[^key-1f87d43481ae7dfdf471d8e07c3abef0]
+## 3. Transitional provision relating to housing benefit[^c-1f87d43481ae7dfdf471d8e07c3abef0]
 
 (1) Paragraph (2) applies in the case of a claimant who is a member of a couple who live together as if they were civil partners on or after 5th December 2005, in respect of whom there is an award of housing benefit on 5th December 2005.
 
@@ -96,7 +96,7 @@ Department for Social Development
 
 Article 2(1)
 
-### 1. Pensions on Divorce etc. (Provision of Information) Regulations[^key-13f1cacdcd0ea24ddc508f60474f2c56]
+### 1. Pensions on Divorce etc. (Provision of Information) Regulations[^c-13f1cacdcd0ea24ddc508f60474f2c56]
 
 (1) The Pensions on Divorce etc. (Provision of Information) Regulations (Northern Ireland) 2000[^f00008] shall be amended in accordance with sub-paragraphs (2) to (5).
 
@@ -120,7 +120,7 @@ Article 2(1)
 
 (5) In regulation 10(5)(a) (provision of information after receipt of an earmarking order), after “divorce” there shall be inserted “or dissolution of a civil partnership”.
 
-### 2. Pensions on Divorce etc. (Charging) Regulations[^key-14d38a05146959ecb08dc527f4f3763b]
+### 2. Pensions on Divorce etc. (Charging) Regulations[^c-14d38a05146959ecb08dc527f4f3763b]
 
 (1) The Pensions on Divorce etc. (Charging) Regulations (Northern Ireland) 2000[^f00010] shall be amended in accordance with sub-paragraphs (2) and (3).
 
@@ -134,23 +134,23 @@ Article 2(1)
 
 (3) In regulation 6(2)(b) (additional amounts recoverable in respect of pension sharing activity), for “his spouse” there shall be substituted “the member’s spouse or civil partner”.
 
-### 3. Pension Sharing (Valuation) Regulations[^key-d01abf9b0bc6f1dac893af05a0483f15]
+### 3. Pension Sharing (Valuation) Regulations[^c-d01abf9b0bc6f1dac893af05a0483f15]
 
 In regulation 2(1)(b) of the Pension Sharing (Valuation) Regulations (Northern Ireland) 2000[^f00012] (rights under a pension arrangement which are not shareable), after “by virtue of being the widow, widower” there shall be inserted “, surviving civil partner”.
 
-### 4. Pension Sharing (Implementation and Discharge of Liability) Regulations[^key-e79d4163556aa899df8cc7bd819719f4]
+### 4. Pension Sharing (Implementation and Discharge of Liability) Regulations[^c-e79d4163556aa899df8cc7bd819719f4]
 
 In regulation 15(2)(b) of the Pension Sharing (Implementation and Discharge of Liability) Regulations (Northern Ireland) 2000[^f00013] (disqualification as a destination for pension credit – annuity contracts and insurance policies), for “widow or widower” there shall be substituted “widow, widower or surviving civil partner”.
 
-### 5. Pension Sharing (Pension Credit Benefit) Regulations[^key-39314a9a615c80d07d9201450de6e183]
+### 5. Pension Sharing (Pension Credit Benefit) Regulations[^c-39314a9a615c80d07d9201450de6e183]
 
 In regulation 15(2)(a) of the Pension Sharing (Pension Credit Benefit) Regulations (Northern Ireland) 2000[^f00014] (further conditions on which liability may be discharged), for “widow or widower” there shall be substituted “widow, widower or surviving civil partner”.
 
-### 6. Pension Sharing (Safeguarded Rights) Regulations[^key-87d684f5939efefe486a6a9f0ea720e2]
+### 6. Pension Sharing (Safeguarded Rights) Regulations[^c-87d684f5939efefe486a6a9f0ea720e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Sharing of State Scheme Rights (Provision of Information and Valuation) Regulations[^key-7072ba4eda4193fdcacd99d468d08555]
+### 7. Sharing of State Scheme Rights (Provision of Information and Valuation) Regulations[^c-7072ba4eda4193fdcacd99d468d08555]
 
 (1) The Sharing of State Scheme Rights (Provision of Information and Valuation) Regulations (Northern Ireland) 2000[^f00016] shall be amended in accordance with sub-paragraphs (2) and (3).
 
@@ -169,7 +169,7 @@ In regulation 15(2)(a) of the Pension Sharing (Pension Credit Benefit) Regulatio
 
 Article 2(2)
 
-### 1. Personal Pension Schemes (Disclosure of Information) Regulations[^key-db053bf94f905e8a27c5fd3db4e7a2fb]
+### 1. Personal Pension Schemes (Disclosure of Information) Regulations[^c-db053bf94f905e8a27c5fd3db4e7a2fb]
 
 (1) The Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1987[^f00017] shall be amended in accordance with sub-paragraphs (2) to (4).
 
@@ -184,7 +184,7 @@ Article 2(2)
   - (ii) after “surviving spouse” there shall be inserted “or surviving civil partner”;
 - (b) in sub-paragraph (5)(a), after “not married” there shall be inserted “or in a civil partnership”.
 
-### 2. Occupational Pension Schemes (Preservation of Benefit) Regulations[^key-40e1c957a4144db3d61813f244e35f7c]
+### 2. Occupational Pension Schemes (Preservation of Benefit) Regulations[^c-40e1c957a4144db3d61813f244e35f7c]
 
 In regulation 19 of the Occupational Pension Schemes (Preservation of Benefit) Regulations (Northern Ireland) 1991[^f00019] (widows, widowers and dependants)—
 
@@ -192,11 +192,11 @@ In regulation 19 of the Occupational Pension Schemes (Preservation of Benefit) R
 - (b) after “if the person is married to,” there shall be inserted “in a civil partnership with,”;
 - (c) after “or (as the case may be)” there shall be inserted “in a civil partnership with, or”.
 
-### 3. Occupational Pension Schemes (Revaluation) Regulations[^key-5494dcb286b9fc01c4b9a66a7a933d4c]
+### 3. Occupational Pension Schemes (Revaluation) Regulations[^c-5494dcb286b9fc01c4b9a66a7a933d4c]
 
 In regulation 7(4) of the Occupational Pension Schemes (Revaluation) Regulations (Northern Ireland) 1991[^f00020] (commutation, forfeiture and surrender), for “widow or widower” there shall be substituted “widow, widower or surviving civil partner”.
 
-### 4. Occupational Pension Schemes (Internal Dispute Resolution Procedures) Regulations[^key-5c4ee6dcc8382ca25ea135a1494580cb]
+### 4. Occupational Pension Schemes (Internal Dispute Resolution Procedures) Regulations[^c-5c4ee6dcc8382ca25ea135a1494580cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -204,7 +204,7 @@ In regulation 7(4) of the Occupational Pension Schemes (Revaluation) Regulations
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Occupational Pension Schemes (Disclosure of Information) Regulations[^key-5710e4b17457d3dbfe2b1dcbf9e9856b]
+### 6. Occupational Pension Schemes (Disclosure of Information) Regulations[^c-5710e4b17457d3dbfe2b1dcbf9e9856b]
 
 (1) The Occupational Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1997[^f00023] shall be amended in accordance with sub-paragraphs (2) to (6).
 
@@ -223,7 +223,7 @@ In regulation 7(4) of the Occupational Pension Schemes (Revaluation) Regulations
   - (ii) after “surviving spouse” there shall be inserted “or, as the case may be, a surviving civil partner”;
 - (b) in sub-paragraph (5)(a), after “not married” there shall be inserted “or not in a civil partnership”.
 
-### 7. Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations[^key-3d9acb46f000d066a29ac85c805f1483]
+### 7. Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations[^c-3d9acb46f000d066a29ac85c805f1483]
 
 (1) The Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations (Northern Ireland) 1997[^f00025] shall be amended in accordance with sub-paragraphs (2) and (3).
 
@@ -234,11 +234,11 @@ In regulation 7(4) of the Occupational Pension Schemes (Revaluation) Regulations
 
 (3) In regulation 6(1)(a) (forfeiture of occupational pension), for “widow or widower” there shall be substituted “widow, widower or surviving civil partner”.
 
-### 8. Stakeholder Pension Schemes Regulations[^key-05159d53ab63b63eabf7c6c19dc3f432]
+### 8. Stakeholder Pension Schemes Regulations[^c-05159d53ab63b63eabf7c6c19dc3f432]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Occupational and Personal Pension Schemes (Bankruptcy) Regulations[^key-b9edf7f69b8f607555d2c1e52e44d0d5]
+### 9. Occupational and Personal Pension Schemes (Bankruptcy) Regulations[^c-b9edf7f69b8f607555d2c1e52e44d0d5]
 
 In regulation 7(2) of the Occupational and Personal Pension Schemes (Bankruptcy) Regulations (Northern Ireland) 2002[^f00028] (calculation and verification of rights under pension arrangements)—
 
@@ -249,24 +249,24 @@ In regulation 7(2) of the Occupational and Personal Pension Schemes (Bankruptcy)
 
 Article 2(3)
 
-### 1. Social Security (Benefit) (Married Women and Widows Special Provisions) Regulations[^key-dc3d139fb42a08bf15459590aa3a3072]
+### 1. Social Security (Benefit) (Married Women and Widows Special Provisions) Regulations[^c-dc3d139fb42a08bf15459590aa3a3072]
 
 In regulation 3(1) of the Social Security (Benefit) (Married Women and Widows Special Provisions) (Northern Ireland) Regulations 1975[^f00029] (modifications, in relation to widows, of provisions with respect to short-term incapacity benefit and maternity allowance) after “by reason of remarriage” there shall be inserted “, the formation of a civil partnership”.
 
-### 2. Social Security (Employed Earners' Employments for Industrial Injuries Purposes) Regulations[^key-3cbd3ac73f7f90fed9c8c528953fe90c]
+### 2. Social Security (Employed Earners' Employments for Industrial Injuries Purposes) Regulations[^c-3cbd3ac73f7f90fed9c8c528953fe90c]
 
 In Schedule 1 to the Social Security (Employed Earners' Employments for Industrial Injuries Purposes) Regulations (Northern Ireland) 1975[^f00030], in paragraph 1 of Part II (employments not to be treated as employed earners' employments for industrial injuries purposes)—
 
 - (a) after “spouse” there shall be inserted “or civil partner”;
 - (b) in sub-paragraph (a), after “spouse's” there shall be inserted “or civil partner's”.
 
-### 3. Social Security (Hospital In-Patients) Regulations[^key-d20cb7f4e787ad015d8e1bfa38cd0249]
+### 3. Social Security (Hospital In-Patients) Regulations[^c-d20cb7f4e787ad015d8e1bfa38cd0249]
 
 (1) The Social Security (Hospital In-Patients) Regulations (Northern Ireland) 1975[^f00031] shall be amended in accordance with sub-paragraphs (2) to (8).
 
 (2) In regulation 2(3)(b) (interpretation), for “husband or wife” there shall be substituted “husband, wife or civil partner”.
 
-(3)[^key-5f7facf0182b5fb5663b19293689e0d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5f7facf0182b5fb5663b19293689e0d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In regulation 9(ii)[^f00033] (circumstances in which dependency benefit is to be adjusted), for “husband or wife” there shall be substituted “husband, wife or civil partner”.
 
@@ -278,7 +278,7 @@ In Schedule 1 to the Social Security (Employed Earners' Employments for Industri
 
 (8) In Schedule 1 (beneficiary to be regarded as having a dependant if any of these benefits is or would be payable), in paragraph (c)[^f00037], after “spouse” there shall be inserted “or civil partner”.
 
-### 4. Social Security (Credits) Regulations[^key-059407c5f2e5ecac122efc55a7d7b148]
+### 4. Social Security (Credits) Regulations[^c-059407c5f2e5ecac122efc55a7d7b148]
 
 (1) The Social Security (Credits) Regulations (Northern Ireland) 1975[^f00038] shall be amended in accordance with sub-paragraphs (2) to (4).
 
@@ -291,11 +291,11 @@ In Schedule 1 to the Social Security (Employed Earners' Employments for Industri
 
 (4) In regulation 8C(2)[^f00042] (credits on termination of bereavement benefits), after “remarriage” there shall be inserted “, forming a civil partnership,”.
 
-### 5. Social Security (Invalid Care Allowance) Regulations[^key-115d2951ed153dc6e841d1c4a06d589c]
+### 5. Social Security (Invalid Care Allowance) Regulations[^c-115d2951ed153dc6e841d1c4a06d589c]
 
 In regulation 9(3)(c) of the Social Security (Invalid Care Allowance) Regulations (Northern Ireland) 1976[^f00043] (conditions relating to residence and presence in Northern Ireland), after “spouse,” there shall be inserted “civil partner,”.
 
-### 6. Social Security Benefit (Dependency) Regulations[^key-eaeef5ad38472a55b6745ba167ce0e31]
+### 6. Social Security Benefit (Dependency) Regulations[^c-eaeef5ad38472a55b6745ba167ce0e31]
 
 (1) The Social Security Benefit (Dependency) Regulations (Northern Ireland) 1977[^f00044] shall be amended in accordance with sub-paragraphs (2) to (7).
 
@@ -361,11 +361,11 @@ In regulation 9(3)(c) of the Social Security (Invalid Care Allowance) Regulation
 - (c) in paragraph 4(a)(ii), after “spouses” there shall be inserted “or civil partners”;
 - (d) in paragraph 7(a)[^f00058], after “a spouse” there shall be inserted “or civil partner”.
 
-### 7. Social Security Benefit (Persons Residing Together) Regulations[^key-eebb23c0d704fba7ddd68b5708e02451]
+### 7. Social Security Benefit (Persons Residing Together) Regulations[^c-eebb23c0d704fba7ddd68b5708e02451]
 
 In regulation 2(2) of the Social Security Benefit (Persons Residing Together) Regulations (Northern Ireland) 1977[^f00059] (circumstances in which a person is to be treated as residing or not residing with another person or in which persons are to be treated as residing or not residing together), after “spouses” there shall be inserted “or civil partners”.
 
-### 8. Social Security Benefit (Persons Abroad) Regulations[^key-f075e9b75334c8477018f91b81084f35]
+### 8. Social Security Benefit (Persons Abroad) Regulations[^c-f075e9b75334c8477018f91b81084f35]
 
 (1) The Social Security Benefit (Persons Abroad) Regulations (Northern Ireland) 1978[^f00060] shall be amended in accordance with sub-paragraphs (2) to (5).
 
@@ -405,7 +405,7 @@ In regulation 2(2) of the Social Security Benefit (Persons Residing Together) Re
 - (b) after “spouse” (in each place where it occurs) there shall be inserted “or civil partner”;
 - (c) for “the husband or wife” there shall be substituted “the husband, wife or civil partner”.
 
-### 9. Social Security (Overlapping Benefits) Regulations[^key-665bda99d6cd28546999f7d7eceee70d]
+### 9. Social Security (Overlapping Benefits) Regulations[^c-665bda99d6cd28546999f7d7eceee70d]
 
 (1) The Social Security (Overlapping Benefits) Regulations (Northern Ireland) 1979[^f00069] shall be amended in accordance with sub-paragraphs (2) to (4).
 
@@ -418,7 +418,7 @@ In regulation 2(2) of the Social Security Benefit (Persons Residing Together) Re
 
 (4) In Schedule 1 (personal benefits which are required to be adjusted by reference to benefits not under Chapters I and II of Part II of the Act), in Column (2) in paragraph 4[^f00071], after “surviving spouse” there shall be inserted “or surviving civil partner”.
 
-### 10. Social Security (Widow’s Benefit and Retirement Pensions) Regulations[^key-56287bafc17e48cbabb57cb5d7fb2d8b]
+### 10. Social Security (Widow’s Benefit and Retirement Pensions) Regulations[^c-56287bafc17e48cbabb57cb5d7fb2d8b]
 
 (1) The Social Security (Widow’s Benefit and Retirement Pensions) Regulations (Northern Ireland) 1979[^f00072] shall be amended in accordance with sub-paragraphs (2) to (5).
 
@@ -484,7 +484,7 @@ In regulation 2(2) of the Social Security Benefit (Persons Residing Together) Re
   - (i) after “in which the marriage took place” (in each place where it occurs) there shall be inserted “or the civil partnership was formed”, and
   - (ii) for “in which the marriage terminated” (in each place where it occurs) there shall be substituted “in which the marriage or civil partnership terminated”.
 
-### 11. Social Security (Widow’s Benefit, Retirement Pensions and Other Benefits) (Transitional) Regulations[^key-dd3817d3341e43a826f9229c0bf6f4ab]
+### 11. Social Security (Widow’s Benefit, Retirement Pensions and Other Benefits) (Transitional) Regulations[^c-dd3817d3341e43a826f9229c0bf6f4ab]
 
 In regulation 12 of the Social Security (Widow’s Benefit, Retirement Pensions and Other Benefits) (Transitional) Regulations (Northern Ireland) 1979[^f00076] (provision relating to increase of retirement pension where pensioner’s deceased spouse had deferred retirement)—
 
@@ -493,7 +493,7 @@ In regulation 12 of the Social Security (Widow’s Benefit, Retirement Pensions 
 - (c) after “whose spouse dies on or after 6th April 1979” there shall be inserted “or whose civil partner dies on or after 5th December 2005”;
 - (d) for “that date” there shall be substituted “6th April 1979”.
 
-### 12. Income Support (General) Regulations[^key-f07070053bc110b36eb8f1fd774bae5d]
+### 12. Income Support (General) Regulations[^c-f07070053bc110b36eb8f1fd774bae5d]
 
 (1) The Income Support (General) Regulations (Northern Ireland) 1987[^f00077] shall be amended in accordance with sub-paragraphs (2) to (9).
 
@@ -511,7 +511,7 @@ In regulation 12 of the Social Security (Widow’s Benefit, Retirement Pensions 
   >   and for the purposes of paragraph (d), two people of the same sex are to be regarded as living together as if they were civil partners if, but only if, they would be regarded as living together as husband and wife were they instead two people of the opposite sex;;
 
   ;
-- (c)[^key-4661f7837ed923df35c1fdac3f22ee32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-4661f7837ed923df35c1fdac3f22ee32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In regulation 21(3) (special cases), in paragraph (c) of the definition of “partner of a person subject to immigration control”[^f00079] for “his” there shall be substituted “the member's”.
 
@@ -526,14 +526,14 @@ In regulation 12 of the Social Security (Widow’s Benefit, Retirement Pensions 
 
   .
 
-(5)[^key-895c5c6d2141b03d3b688871aa16f4e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-895c5c6d2141b03d3b688871aa16f4e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In Schedule 1B[^f00083] (prescribed categories of person), in paragraph 16A[^f00084] (certain persons aged between 55 and 60 whose spouse has died)—
 
 - (a) in the heading, after “spouse” there shall be inserted “or civil partner”;
 - (b) in sub-paragraph (b), after “9th April 2006” there shall be inserted “or whose civil partner died during the period beginning on and including 5th December 2005 and ending on 9th April 2006”.
 
-(7)[^key-44d0f6b26d82e952e3053fff7c070bba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-44d0f6b26d82e952e3053fff7c070bba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In Schedule 9 (sums to be disregarded in the calculation of income other than earnings)—
 
@@ -543,11 +543,11 @@ In regulation 12 of the Social Security (Widow’s Benefit, Retirement Pensions 
   - (ii) in sub-paragraph (3)[^f00088], after “estranged or divorced” there shall be inserted “or, where the partner or former partner and that person have formed a civil partnership, the civil partnership has not been dissolved or, if either of them has died, had not been dissolved at the time of the death”,
   - (iii) in sub-paragraph (4)(a), after “estranged or divorced” there shall be inserted “or with whom he has formed a civil partnership that has not been dissolved”, and
   - (iv) in sub-paragraph (5)(a), after “estranged or divorced” there shall be inserted “or with whom he had formed a civil partnership that had not been dissolved”;
-- (c)[^key-3c30d0860db1b6d1304d36bffdf847d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-3c30d0860db1b6d1304d36bffdf847d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) in paragraph 55[^f00090], for “widows or widowers” there shall be substituted “surviving spouses and surviving civil partners”;
 - (e) in paragraph 56(1)[^f00091]—
   - (i) in head (a), for “widow or widower” there shall be substituted “widow, widower or surviving civil partner”, and
-  - (ii)[^key-9aac0c547befa6fb9022ce947325f392] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-9aac0c547befa6fb9022ce947325f392] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) In Schedule 10 (capital to be disregarded)—
 
@@ -561,15 +561,15 @@ In regulation 12 of the Social Security (Widow’s Benefit, Retirement Pensions 
 - (d) in paragraph 57(c) and (d)[^f00096], after “deceased spouse” there shall be inserted “or deceased civil partner”;
 - (e) in paragraph 61[^f00097], after “deceased spouse” (in each place where it occurs) there shall be inserted “or deceased civil partner”.
 
-### 13. Housing Benefit (General) Regulations[^key-02ab83ad28a43486ccd268699d419875][^key-4827a27c7458b38790e126005fe9eb64]
+### 13. Housing Benefit (General) Regulations[^c-02ab83ad28a43486ccd268699d419875][^c-4827a27c7458b38790e126005fe9eb64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14.[^key-35c3d0088c830a6592e8dcc71e0591f6][^key-83947e0ad40ffc9a9b33775731b9ae9c]
+### 14.[^c-35c3d0088c830a6592e8dcc71e0591f6][^c-83947e0ad40ffc9a9b33775731b9ae9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Social Security (Claims and Payments) Regulations[^key-a8a862c1dd2553888e63370662e3d7af]
+### 15. Social Security (Claims and Payments) Regulations[^c-a8a862c1dd2553888e63370662e3d7af]
 
 (1) The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00122] shall be amended in accordance with sub-paragraphs (2) to (8).
 
@@ -601,27 +601,27 @@ In regulation 12 of the Social Security (Widow’s Benefit, Retirement Pensions 
 
 (8) In regulation 35(2)(a)[^f00130] (payment to a partner as alternative payee), for “of a married or unmarried” there shall be substituted “member of a”.
 
-### 16. Housing Benefit (Supply of Information) Regulations[^key-c364ebeae37f062b780f2165919dc1ad]
+### 16. Housing Benefit (Supply of Information) Regulations[^c-c364ebeae37f062b780f2165919dc1ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Social Security (Payments on account, Overpayments and Recovery) Regulations[^key-8dcc63919c75874eb33c2d68b9dd758c]
+### 17. Social Security (Payments on account, Overpayments and Recovery) Regulations[^c-8dcc63919c75874eb33c2d68b9dd758c]
 
 In regulation 17 of the Social Security (Payments on account, Overpayments and Recovery) Regulations (Northern Ireland) 1988[^f00132] (recovery from couples), for “a married or unmarried couple” (in each place where it occurs) there shall be substituted “a couple”.
 
-### 18. Social Security (Attendance Allowance) Regulations[^key-ddd6e0df151e90dc23296aeb4a2b3ba2]
+### 18. Social Security (Attendance Allowance) Regulations[^c-ddd6e0df151e90dc23296aeb4a2b3ba2]
 
 In regulation 2(2)(c) of the Social Security (Attendance Allowance) Regulations (Northern Ireland) 1992[^f00133] (conditions as to residence and presence in Northern Ireland), after “spouse,” there shall be inserted “civil partner,”.
 
-### 19. Social Security (Disability Living Allowance) Regulations[^key-7f2c863fd9574e0ecb22c0b673f09b14]
+### 19. Social Security (Disability Living Allowance) Regulations[^c-7f2c863fd9574e0ecb22c0b673f09b14]
 
 In regulation 2(2)(c) of the Social Security (Disability Living Allowance) Regulations (Northern Ireland) 1992[^f00134] (conditions as to residence and presence in Northern Ireland), after “spouse,” there shall be inserted “civil partner,”.
 
-### 20. Social Security (Incapacity Benefit) Regulations[^key-92978f3f1b29612fc8161add0af4003a]
+### 20. Social Security (Incapacity Benefit) Regulations[^c-92978f3f1b29612fc8161add0af4003a]
 
 In regulation 15(4)(a) of the Social Security (Incapacity Benefit) Regulations (Northern Ireland) 1994[^f00135] (conditions relating to residence or presence), after “spouse,” there shall be inserted “civil partner,”.
 
-### 21. Social Security (Incapacity Benefit – Increases for Dependants) Regulations[^key-4d1d09af3a0f913161d3de28d4d8a443]
+### 21. Social Security (Incapacity Benefit – Increases for Dependants) Regulations[^c-4d1d09af3a0f913161d3de28d4d8a443]
 
 (1) The Social Security (Incapacity Benefit – Increases for Dependants) Regulations (Northern Ireland) 1994[^f00136] shall be amended in accordance with sub-paragraphs (2) to (5).
 
@@ -644,7 +644,7 @@ In regulation 15(4)(a) of the Social Security (Incapacity Benefit) Regulations (
 
 (5) In regulation 14(1) (disqualification for receipt of increases in cases of imprisonment and absence abroad), after “the spouse” there shall be inserted “or civil partner”.
 
-### 22. Social Security (Incapacity for Work) (General) Regulations[^key-c4a59f6dd9557a930dc2c069b9c78c9d]
+### 22. Social Security (Incapacity for Work) (General) Regulations[^c-c4a59f6dd9557a930dc2c069b9c78c9d]
 
 In regulation 2(1) of the Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995[^f00139] (interpretation)—
 
@@ -662,7 +662,7 @@ In regulation 2(1) of the Social Security (Incapacity for Work) (General) Regula
   ;
 - (c) in the definition of “relative”[^f00140], for “a spouse or, in the case of an unmarried couple, the other member of that couple” there shall be substituted “the other member of a couple”.
 
-### 23. Jobseeker’s Allowance Regulations[^key-2f0f3cafcfa6e7ce14b5d4e3613e09a4]
+### 23. Jobseeker’s Allowance Regulations[^c-2f0f3cafcfa6e7ce14b5d4e3613e09a4]
 
 (1) The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00141] shall be amended in accordance with sub-paragraphs (2) to (13).
 
@@ -706,7 +706,7 @@ In regulation 2(1) of the Social Security (Incapacity for Work) (General) Regula
 
   .
 
-(7)[^key-433a487e9d52107a3c0d2ba79e146951] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-433a487e9d52107a3c0d2ba79e146951] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In regulation 140(1) (meaning of “person in hardship”)—
 
@@ -726,21 +726,21 @@ In regulation 2(1) of the Social Security (Incapacity for Work) (General) Regula
 (11) In Schedule 1 (applicable amounts)—
 
 - (a) in column (1) in paragraph 1(3)(a)(iv) and (iva)[^f00149], after “married” there shall be inserted “or civil partners”;
-- (b)[^key-d2a813fdc6dd07c97bb44e7c24de0ffb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-d2a813fdc6dd07c97bb44e7c24de0ffb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (12) In Schedule 6 (sums to be disregarded in the calculation of income other than earnings)—
 
-- (a)[^key-3c8484d7c132f2641e0f0482519981c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-3c8484d7c132f2641e0f0482519981c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph 41—
   - (i) in sub-paragraph (2)(a), after “estranged or divorced” there shall be inserted “or with whom he has formed a civil partnership that has not been dissolved or, where that person has died, had not been dissolved at the time of that person’s death”,
   - (ii) in sub-paragraph (3), after “estranged or divorced” there shall be inserted “or, where the partner or former partner and that person have formed a civil partnership, the civil partnership has not been dissolved or, if either of them has died, had not been dissolved at the time of the death”,
   - (iii) in sub-paragraph (4)(a), after “estranged or divorced” there shall be inserted “or with whom he has formed a civil partnership that has not been dissolved”, and
   - (iv) in sub-paragraph (5)(a), after “estranged or divorced” there shall be inserted “or with whom he had formed a civil partnership that had not been dissolved”;
-- (c)[^key-20bc1649e940a46c3a2d82a5249e38a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-20bc1649e940a46c3a2d82a5249e38a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) in paragraph 54[^f00153], for “widows or widowers” there shall be substituted “surviving spouses and surviving civil partners”;
 - (e) in paragraph 55(1)[^f00154]—
   - (i) in head (a), for “widow or widower” there shall be substituted “widow, widower or surviving civil partner”, and
-  - (ii)[^key-74307e3f57cf39719157480eaf7241e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-74307e3f57cf39719157480eaf7241e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (13) In Schedule 7 (capital to be disregarded)—
 
@@ -754,11 +754,11 @@ In regulation 2(1) of the Social Security (Incapacity for Work) (General) Regula
 - (d) in paragraph 51(c) and (d)[^f00156], after “deceased spouse” there shall be inserted “or deceased civil partner”;
 - (e) in paragraph 54[^f00157], after “deceased spouse” (in each place where it occurs) there shall be inserted “or deceased civil partner”.
 
-### 24. Social Security Benefits (Maintenance Payments and Consequential Amendments) Regulations[^key-54e161389ee35df702360e2695711e88]
+### 24. Social Security Benefits (Maintenance Payments and Consequential Amendments) Regulations[^c-54e161389ee35df702360e2695711e88]
 
 In regulation 2(b) of the Social Security Benefits (Maintenance Payments and Consequential Amendments) Regulations (Northern Ireland) 1996[^f00158] (interpretation for the purposes of section 72A of the Act), after “spouse” there shall be inserted “or civil partner”.
 
-### 25. Social Security (Child Maintenance Bonus) Regulations[^key-a6f5627874783ee4b70dcb96c82d8f65]
+### 25. Social Security (Child Maintenance Bonus) Regulations[^c-a6f5627874783ee4b70dcb96c82d8f65]
 
 (1) The Social Security (Child Maintenance Bonus) Regulations (Northern Ireland) 1996[^f00159] shall be amended in accordance with sub-paragraphs (2) and (3).
 
@@ -779,18 +779,18 @@ In regulation 2(b) of the Social Security Benefits (Maintenance Payments and Con
 
 (3) In regulation 7(2)[^f00160] (death of a person with care of a child) for “or the spouse of any of the preceding persons or, if that person is one of an unmarried couple, the other member of that couple” there shall be substituted “or if any of the preceding persons is one member of a couple, the other member of that couple”.
 
-### 26. Social Fund Winter Fuel Payment Regulations[^key-705eb5f8143eefae765ddc6dd9e5cb0a]
+### 26. Social Fund Winter Fuel Payment Regulations[^c-705eb5f8143eefae765ddc6dd9e5cb0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Social Security (Claims and Information) Regulations[^key-fb2df64eafe3792ad5db23bf7fb20abc]
+### 27. Social Security (Claims and Information) Regulations[^c-fb2df64eafe3792ad5db23bf7fb20abc]
 
 In regulation 13(4) of the Social Security (Claims and Information) Regulations (Northern Ireland) 2001[^f00162] (partners of claimants)—
 
 - (a) for “a married or unmarried couple” there shall be substituted “a couple”;
 - (b) after “also a member” there shall be inserted “, and “couple” has the same meaning as in regulation 1(2) of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996”[^f00163].
 
-### 28. Social Security (Loss of Benefit) Regulations[^key-3524c7cf79a3d73d3351183614a93e22]
+### 28. Social Security (Loss of Benefit) Regulations[^c-3524c7cf79a3d73d3351183614a93e22]
 
 (1) The Social Security (Loss of Benefit) Regulations (Northern Ireland) 2002[^f00164] shall be amended in accordance with sub-paragraphs (2) and (3).
 
@@ -807,7 +807,7 @@ In regulation 13(4) of the Social Security (Claims and Information) Regulations 
 
 (3) In regulation 11(2)(a) (application of Part and meaning of “couple in hardship”) for “the woman member of the joint-claim couple is pregnant” there shall be substituted “at least one member of the joint-claim couple is a woman who is pregnant”.
 
-### 29. Tax Credits (Appeals) Regulations[^key-25b0211d3b899440dddf3a96f4ac1f02]
+### 29. Tax Credits (Appeals) Regulations[^c-25b0211d3b899440dddf3a96f4ac1f02]
 
 (1) The Tax Credits (Appeals) Regulations (Northern Ireland) 2002[^f00165] shall be amended in accordance with sub-paragraphs (2) and (3).
 
@@ -832,7 +832,7 @@ In regulation 13(4) of the Social Security (Claims and Information) Regulations 
 
 (3) In regulation 9(2)(b) (composition of appeal tribunals), for “a married or unmarried couple” there shall be substituted “a couple”.
 
-### 30. State Pension Credit Regulations[^key-29456d70bfe97a7f2bd9183d93727f10]
+### 30. State Pension Credit Regulations[^c-29456d70bfe97a7f2bd9183d93727f10]
 
 (1) The State Pension Credit Regulations (Northern Ireland) 2003[^f00166] shall be amended in accordance with sub-paragraphs (2) to (6).
 
@@ -858,11 +858,11 @@ In regulation 13(4) of the Social Security (Claims and Information) Regulations 
 (4) In Schedule 4 (amounts to be disregarded in the calculation of income other than earnings)—
 
 - (a) in paragraph 1(c)[^f00168], for “widow or widower” there shall be substituted “surviving spouse or surviving civil partner”;
-- (b)[^key-1fc489c55aff339994d2a2262378b10c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-1fc489c55aff339994d2a2262378b10c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in paragraph 5[^f00170], for “widows or widowers” there shall be substituted “surviving spouses and surviving civil partners”;
 - (d) in paragraph 6(1)[^f00171]—
   - (i) in head (a), for “widow or widower” there shall be substituted “widow, widower or surviving civil partner”, and
-  - (ii)[^key-db70cc8f6856bf28e2b95fd17940a56c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-db70cc8f6856bf28e2b95fd17940a56c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) in paragraph 12, after “spouse” there shall be inserted “or civil partner”.
 
 (5) In Schedule 5 (income from capital)—
@@ -879,7 +879,7 @@ In regulation 13(4) of the Social Security (Claims and Information) Regulations 
 
 (6) In Schedule 6 (sums disregarded from claimant’s earnings), in paragraph 4A(1)(b)[^f00172], for “married or unmarried couples” there shall be substituted “couples”.
 
-### 31. Social Security (Work-focused Interviews for Partners) Regulations[^key-8b229344360c7a945dfaf3aba8cc5f4e]
+### 31. Social Security (Work-focused Interviews for Partners) Regulations[^c-8b229344360c7a945dfaf3aba8cc5f4e]
 
 In regulation 1(2) of the Social Security (Work-focused Interviews for Partners) Regulations (Northern Ireland) 2003[^f00173] (interpretation), after the definition of “claimant” there shall be inserted the following definition—
 
@@ -897,23 +897,23 @@ In regulation 1(2) of the Social Security (Work-focused Interviews for Partners)
 
 Article 2(4)
 
-### 1. Child Support (Information, Evidence and Disclosure) Regulations[^key-d2dfb83ab4e90743f2f691c01211aaf9]
+### 1. Child Support (Information, Evidence and Disclosure) Regulations[^c-d2dfb83ab4e90743f2f691c01211aaf9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Child Support (Maintenance Assessments and Special Cases) Regulations[^key-cdbbd2cda415ef96bc282b9d6389190b]
+### 2. Child Support (Maintenance Assessments and Special Cases) Regulations[^c-cdbbd2cda415ef96bc282b9d6389190b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Child Support (Collection and Enforcement) Regulations[^key-7fcf86b9f6ebefa764d71efd7cd59da7]
+### 3. Child Support (Collection and Enforcement) Regulations[^c-7fcf86b9f6ebefa764d71efd7cd59da7]
 
 In regulation 8(5)(c)(ii) of the Child Support (Collection and Enforcement) Regulations (Northern Ireland) 1992[^f00181] (interpretation of this Part), after “widow,” there shall be inserted “surviving civil partner,”.
 
-### 4. Child Support (Collection and Enforcement of Other Forms of Maintenance) Regulations[^key-476f090416cf610478fbd100b3d7faef]
+### 4. Child Support (Collection and Enforcement of Other Forms of Maintenance) Regulations[^c-476f090416cf610478fbd100b3d7faef]
 
 In regulation 2(b) of the Child Support (Collection and Enforcement of Other Forms of Maintenance) Regulations (Northern Ireland) 1992[^f00182] (periodical payments and categories of person prescribed for the purposes of Article 30 of the Order), for “or former spouse” there shall be substituted “, civil partner, former spouse or former civil partner”.
 
-### 5. Child Support (Maintenance Arrangements and Jurisdiction) Regulations[^key-89b942aba3f916aefa516e08c1787ddb]
+### 5. Child Support (Maintenance Arrangements and Jurisdiction) Regulations[^c-89b942aba3f916aefa516e08c1787ddb]
 
 In regulation 3(1) of the Child Support (Maintenance Arrangements and Jurisdiction) Regulations (Northern Ireland) 1992[^f00183] (relationship between maintenance assessments and certain court orders), at the end there shall be added the following sub-paragraph—
 
@@ -921,15 +921,15 @@ In regulation 3(1) of the Child Support (Maintenance Arrangements and Jurisdicti
 
 .
 
-### 6. Child Support Departure Direction and Consequential Amendments Regulations[^key-fe9ff7e0610c814eefc2a654a6e84dd3]
+### 6. Child Support Departure Direction and Consequential Amendments Regulations[^c-fe9ff7e0610c814eefc2a654a6e84dd3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Child Support (Maintenance Calculations and Special Cases) Regulations[^key-fe9ff7e0610c814eefc2a654a6e84dd3]
+### 7. Child Support (Maintenance Calculations and Special Cases) Regulations[^c-fe9ff7e0610c814eefc2a654a6e84dd3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Child Support (Variations) Regulations[^key-fe9ff7e0610c814eefc2a654a6e84dd3]
+### 8. Child Support (Variations) Regulations[^c-fe9ff7e0610c814eefc2a654a6e84dd3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -937,7 +937,7 @@ In regulation 3(1) of the Child Support (Maintenance Arrangements and Jurisdicti
 
 Article 2(5)
 
-### 1. Transitory provisions[^key-4b14ca3543f195b7b0c0b1a3da9cb685]
+### 1. Transitory provisions[^c-4b14ca3543f195b7b0c0b1a3da9cb685]
 
 In this Schedule—
 
@@ -947,7 +947,7 @@ In this Schedule—
 - “maintenance assessment” has the same meaning as it has in Article 2(2) of the 1991 Order (interpretation) as read with any regulations in operation under that Article;
 - “an old scheme case” means any type of case which is not one in relation to which 3rd March 2003 is the day appointed for the coming into operation of Part I and section 67 (so far as it relates to Part I of Schedule 9) of, and Schedules 1 to 3 and Part I of Schedule 9 to, the 2000 Act in so far as they are not already in operation in relation to that type of case.
 
-**2.**[^key-45e5bbcbac73b57f5ae6b8d3a15c77c4] (1) This paragraph applies to an old scheme case, until the day on which Part I and section 67 (so far as it relates to Part I of Schedule 9) of, and Schedules 1 to 3 and Part I of Schedule 9 to, the 2000 Act in so far as they are not already in operation in relation to that type of case come into operation in relation to that type of case.
+**2.**[^c-45e5bbcbac73b57f5ae6b8d3a15c77c4] (1) This paragraph applies to an old scheme case, until the day on which Part I and section 67 (so far as it relates to Part I of Schedule 9) of, and Schedules 1 to 3 and Part I of Schedule 9 to, the 2000 Act in so far as they are not already in operation in relation to that type of case come into operation in relation to that type of case.
 
 (2) Where this paragraph applies, paragraph 44(7) to (11) of Schedule 15 to the Act (duration of continuing orders in favour of children, and age limit on making certain orders in their favour) shall apply as if—
 
@@ -1083,11 +1083,11 @@ Schedule 5 makes transitory provision in relation to those child support cases f
 
 [^f00001]: Footnote: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33); subsection (3) of section 254 applies in accordance with subsection (2), and subsection (5) applies section 171(3), (5) and (6) of the Social Security Contributions and Benefits (Northern Ireland) Act [1992 (c. 7)](https://www.legislation.gov.uk/ukpga/1992/7) to the exercise of the power under section 259
 
-[^key-be53d960ca1a8fdea316360c4946b949]: Commencement: Art. 1 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-be53d960ca1a8fdea316360c4946b949]: Commencement: Art. 1 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
-[^key-a3a41ac65900d0d212d7e690cf9210b8]: Commencement: Art. 2 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-a3a41ac65900d0d212d7e690cf9210b8]: Commencement: Art. 2 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
-[^key-1f87d43481ae7dfdf471d8e07c3abef0]: Commencement: Art. 3 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-1f87d43481ae7dfdf471d8e07c3abef0]: Commencement: Art. 3 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00002]: Footnote: Paragraph (2) was amended by regulation 19(2)(a) of [S.R. 2003 No. 197](https://www.legislation.gov.uk/nisr/2003/197)
 
@@ -1101,83 +1101,83 @@ Schedule 5 makes transitory provision in relation to those child support cases f
 
 [^f00007]: Footnote: [2002 c. 14 (N.I.)](https://www.legislation.gov.uk/nia/2002/14)
 
-[^key-13f1cacdcd0ea24ddc508f60474f2c56]: Commencement: Sch. 1 para. 1 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-13f1cacdcd0ea24ddc508f60474f2c56]: Commencement: Sch. 1 para. 1 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00008]: Footnote: [S.R. 2000 No. 142](https://www.legislation.gov.uk/nisr/2000/142); to which there are amendments not relevant to this Order
 
 [^f00009]: Footnote: Sub-paragraph (a)(ia) is inserted by paragraph 108(2) of Schedule 29 to the Civil Partnership Act 2004
 
-[^key-14d38a05146959ecb08dc527f4f3763b]: Commencement: Sch. 1 para. 2 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-14d38a05146959ecb08dc527f4f3763b]: Commencement: Sch. 1 para. 2 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00010]: Footnote: [S.R. 2000 No. 143](https://www.legislation.gov.uk/nisr/2000/143); relevant amending Regulations are [S.R. 2000 No. 335](https://www.legislation.gov.uk/nisr/2000/335)
 
 [^f00011]: Footnote: Paragraph (8) was substituted by regulation 9(3) of [S.R. 2000 No. 335](https://www.legislation.gov.uk/nisr/2000/335)
 
-[^key-d01abf9b0bc6f1dac893af05a0483f15]: Commencement: Sch. 1 para. 3 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-d01abf9b0bc6f1dac893af05a0483f15]: Commencement: Sch. 1 para. 3 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00012]: Footnote: [S.R. 2000 No. 144](https://www.legislation.gov.uk/nisr/2000/144)
 
-[^key-e79d4163556aa899df8cc7bd819719f4]: Commencement: Sch. 1 para. 4 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-e79d4163556aa899df8cc7bd819719f4]: Commencement: Sch. 1 para. 4 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00013]: Footnote: [S.R. 2000 No. 145](https://www.legislation.gov.uk/nisr/2000/145)
 
-[^key-39314a9a615c80d07d9201450de6e183]: Commencement: Sch. 1 para. 5 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-39314a9a615c80d07d9201450de6e183]: Commencement: Sch. 1 para. 5 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00014]: Footnote: [S.R. 2000 No. 146](https://www.legislation.gov.uk/nisr/2000/146)
 
-[^key-87d684f5939efefe486a6a9f0ea720e2]: Textual amendment: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2005/536/schedule/1/paragraph/6) revoked (6.4.2009) by [The Pensions (2008 Acts) (Consequential Provisions) Order (Northern Ireland) 2009 (S.R. 2009/113)](https://www.legislation.gov.uk/nisr/2009/113), [arts. 1](https://www.legislation.gov.uk/nisr/2009/113/article/1), [12](https://www.legislation.gov.uk/nisr/2009/113/article/12), [Sch.](https://www.legislation.gov.uk/nisr/2009/113/schedule)
+[^c-87d684f5939efefe486a6a9f0ea720e2]: Textual amendment: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2005/536/schedule/1/paragraph/6) revoked (6.4.2009) by [The Pensions (2008 Acts) (Consequential Provisions) Order (Northern Ireland) 2009 (S.R. 2009/113)](https://www.legislation.gov.uk/nisr/2009/113), [arts. 1](https://www.legislation.gov.uk/nisr/2009/113/article/1), [12](https://www.legislation.gov.uk/nisr/2009/113/article/12), [Sch.](https://www.legislation.gov.uk/nisr/2009/113/schedule)
 
-[^key-7072ba4eda4193fdcacd99d468d08555]: Commencement: Sch. 1 para. 7 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-7072ba4eda4193fdcacd99d468d08555]: Commencement: Sch. 1 para. 7 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00016]: Footnote: [S.R. 2000 No. 362](https://www.legislation.gov.uk/nisr/2000/362)
 
-[^key-db053bf94f905e8a27c5fd3db4e7a2fb]: Commencement: Sch. 2 para. 1 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-db053bf94f905e8a27c5fd3db4e7a2fb]: Commencement: Sch. 2 para. 1 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00017]: Footnote: [S.R. 1987 No. 288](https://www.legislation.gov.uk/nisr/1987/288); relevant amending Regulations are [S.R. 2002 No. 410](https://www.legislation.gov.uk/nisr/2002/410)
 
 [^f00018]: Footnote: Paragraph 2A was inserted by regulation 2(4) of [S.R. 2002 No. 410](https://www.legislation.gov.uk/nisr/2002/410)
 
-[^key-40e1c957a4144db3d61813f244e35f7c]: Commencement: Sch. 2 para. 2 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-40e1c957a4144db3d61813f244e35f7c]: Commencement: Sch. 2 para. 2 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00019]: Footnote: [S.R. 1991 No. 37](https://www.legislation.gov.uk/nisr/1991/37)
 
-[^key-5494dcb286b9fc01c4b9a66a7a933d4c]: Commencement: Sch. 2 para. 3 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-5494dcb286b9fc01c4b9a66a7a933d4c]: Commencement: Sch. 2 para. 3 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00020]: Footnote: [S.R. 1991 No. 38](https://www.legislation.gov.uk/nisr/1991/38); regulation 7(4) was amended by paragraph 27(9) of Schedule 2 to [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
 
-[^key-5c4ee6dcc8382ca25ea135a1494580cb]: Textual amendment: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2005/536/schedule/2/paragraph/4) revoked (6.4.2008) by [The Occupational Pension Schemes (Internal Dispute Resolution Procedures) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/116)](https://www.legislation.gov.uk/nisr/2008/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/116/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2008/116/regulation/7), [Sch.](https://www.legislation.gov.uk/nisr/2008/116/schedule)
+[^c-5c4ee6dcc8382ca25ea135a1494580cb]: Textual amendment: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2005/536/schedule/2/paragraph/4) revoked (6.4.2008) by [The Occupational Pension Schemes (Internal Dispute Resolution Procedures) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/116)](https://www.legislation.gov.uk/nisr/2008/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/116/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2008/116/regulation/7), [Sch.](https://www.legislation.gov.uk/nisr/2008/116/schedule)
 
 [^M_F_59c2c786-8a80-4685-b640-09707df73829]: Textual amendment: Sch. 2 para. 5 revoked (6.4.2006) by [The Occupational Pension Schemes (Modification of Schemes) Regulations (Northern Ireland) 2006 (S.R. 2006/149)](https://www.legislation.gov.uk/nisr/2006/149), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/149/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2006/149/schedule)
 
-[^key-5710e4b17457d3dbfe2b1dcbf9e9856b]: Commencement: Sch. 2 para. 6 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-5710e4b17457d3dbfe2b1dcbf9e9856b]: Commencement: Sch. 2 para. 6 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00023]: Footnote: ()[S.R. 1997 No. 98](https://www.legislation.gov.uk/nisr/1997/98); relevant amending Regulations are [S.R. 2002 No. 410](https://www.legislation.gov.uk/nisr/2002/410)
 
 [^f00024]: Footnote: ()Paragraph 6ZA was inserted by regulation 3(4) of [S.R. 2002 No. 410](https://www.legislation.gov.uk/nisr/2002/410)
 
-[^key-3d9acb46f000d066a29ac85c805f1483]: Commencement: Sch. 2 para. 7 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-3d9acb46f000d066a29ac85c805f1483]: Commencement: Sch. 2 para. 7 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00025]: Footnote: ()[S.R. 1997 No. 153](https://www.legislation.gov.uk/nisr/1997/153); to which there are amendments not relevant to this Order
 
-[^key-05159d53ab63b63eabf7c6c19dc3f432]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2005/536/schedule/2/paragraph/8) revoked (1.12.2010) by [The Occupational, Personal and Stakeholder Pension Schemes (Disclosure of Information) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/373)](https://www.legislation.gov.uk/nisr/2010/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/373/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2010/373/regulation/5), [Sch. 2](https://www.legislation.gov.uk/nisr/2010/373/schedule/2)
+[^c-05159d53ab63b63eabf7c6c19dc3f432]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2005/536/schedule/2/paragraph/8) revoked (1.12.2010) by [The Occupational, Personal and Stakeholder Pension Schemes (Disclosure of Information) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/373)](https://www.legislation.gov.uk/nisr/2010/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/373/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2010/373/regulation/5), [Sch. 2](https://www.legislation.gov.uk/nisr/2010/373/schedule/2)
 
-[^key-b9edf7f69b8f607555d2c1e52e44d0d5]: Commencement: Sch. 2 para. 9 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-b9edf7f69b8f607555d2c1e52e44d0d5]: Commencement: Sch. 2 para. 9 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00028]: Footnote: [S.R. 2002 No. 127](https://www.legislation.gov.uk/nisr/2002/127)
 
-[^key-dc3d139fb42a08bf15459590aa3a3072]: Commencement: Sch. 3 para. 1 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-dc3d139fb42a08bf15459590aa3a3072]: Commencement: Sch. 3 para. 1 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00029]: Footnote: [S.R. 1975 No. 19](https://www.legislation.gov.uk/nisr/1975/19); regulation 3(1) was amended by regulation 3(1) of [S.R. 1978 No. 102](https://www.legislation.gov.uk/nisr/1978/102), regulation 2(a) of [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150) and regulation 2(a) of [S.R. 1996 No. 289](https://www.legislation.gov.uk/nisr/1996/289)
 
-[^key-3cbd3ac73f7f90fed9c8c528953fe90c]: Commencement: Sch. 3 para. 2 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-3cbd3ac73f7f90fed9c8c528953fe90c]: Commencement: Sch. 3 para. 2 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00030]: Footnote: [S.R. 1975 No. 90](https://www.legislation.gov.uk/nisr/1975/90); to which there are amendments not relevant to this Order
 
-[^key-d20cb7f4e787ad015d8e1bfa38cd0249]: Commencement: Sch. 3 para. 3 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-d20cb7f4e787ad015d8e1bfa38cd0249]: Commencement: Sch. 3 para. 3 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00031]: Footnote: [S.R. 1975 No. 109](https://www.legislation.gov.uk/nisr/1975/109); relevant amending regulations are [S.R. 1977 No. 316](https://www.legislation.gov.uk/nisr/1977/316), [S.R. 1987 Nos. 12](https://www.legislation.gov.uk/nisr/1987/12) and [391](https://www.legislation.gov.uk/nisr/1987/391) and [S.R. 2003 No. 261](https://www.legislation.gov.uk/nisr/2003/261)
 
-[^key-5f7facf0182b5fb5663b19293689e0d3]: Textual amendment: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/3) revoked (coming into force in accordance with of the amending Rule) by [The Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005 (S.R. 2005/580)](https://www.legislation.gov.uk/nisr/2005/580), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/580/schedule/1)
+[^c-5f7facf0182b5fb5663b19293689e0d3]: Textual amendment: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/3) revoked (coming into force in accordance with of the amending Rule) by [The Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005 (S.R. 2005/580)](https://www.legislation.gov.uk/nisr/2005/580), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/580/schedule/1)
 
 [^f00033]: Footnote: Regulation 9 was substituted by regulation 4 of [S.R. 1977 No. 316](https://www.legislation.gov.uk/nisr/1977/316) and amended by regulation 2(7) of [S.R. 2003 No. 261](https://www.legislation.gov.uk/nisr/2003/261)
 
@@ -1189,7 +1189,7 @@ Schedule 5 makes transitory provision in relation to those child support cases f
 
 [^f00037]: Footnote: Paragraph (c) was substituted by regulation 2(7)(b) of [S.R. 1987 No. 12](https://www.legislation.gov.uk/nisr/1987/12)
 
-[^key-059407c5f2e5ecac122efc55a7d7b148]: Commencement: Sch. 3 para. 4 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-059407c5f2e5ecac122efc55a7d7b148]: Commencement: Sch. 3 para. 4 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00038]: Footnote: [S.R. 1975 No. 113](https://www.legislation.gov.uk/nisr/1975/113); relevant amending Regulations are [S.R. 1976 No. 99](https://www.legislation.gov.uk/nisr/1976/99), [S.R. 1987 No. 153](https://www.legislation.gov.uk/nisr/1987/153), [S.R. 1988 No. 326](https://www.legislation.gov.uk/nisr/1988/326), [S.R. 1995 No. 479](https://www.legislation.gov.uk/nisr/1995/479), [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108), [S.R. 2002 No. 323](https://www.legislation.gov.uk/nisr/2002/323) and [S.R. 2003 No. 195](https://www.legislation.gov.uk/nisr/2003/195)
 
@@ -1201,11 +1201,11 @@ Schedule 5 makes transitory provision in relation to those child support cases f
 
 [^f00042]: Footnote: Regulation 8C was inserted by regulation 3(7) of [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108)
 
-[^key-115d2951ed153dc6e841d1c4a06d589c]: Commencement: Sch. 3 para. 5 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-115d2951ed153dc6e841d1c4a06d589c]: Commencement: Sch. 3 para. 5 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00043]: Footnote: [S.R. 1976 No. 99](https://www.legislation.gov.uk/nisr/1976/99); regulation 9(3) was substituted by regulation 17(2) of [S.R. 1977 No. 73](https://www.legislation.gov.uk/nisr/1977/73)
 
-[^key-eaeef5ad38472a55b6745ba167ce0e31]: Commencement: Sch. 3 para. 6 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-eaeef5ad38472a55b6745ba167ce0e31]: Commencement: Sch. 3 para. 6 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00044]: Footnote: [S.R. 1977 No. 74](https://www.legislation.gov.uk/nisr/1977/74); relevant amending Regulations are [S.R. 1977 No. 90](https://www.legislation.gov.uk/nisr/1977/90), [S.R. 1980 No. 144](https://www.legislation.gov.uk/nisr/1980/144), [S.R. 1983 No. 193](https://www.legislation.gov.uk/nisr/1983/193), [S.R. 1984 Nos. 373](https://www.legislation.gov.uk/nisr/1984/373) and [382](https://www.legislation.gov.uk/nisr/1984/382), [S.R. 1985 No. 229](https://www.legislation.gov.uk/nisr/1985/229), [S.R. 1988 No. 138](https://www.legislation.gov.uk/nisr/1988/138), [S.R. 1992 No. 521](https://www.legislation.gov.uk/nisr/1992/521), [S.R. 1994 No. 485](https://www.legislation.gov.uk/nisr/1994/485), [S.R. 1996 Nos. 289](https://www.legislation.gov.uk/nisr/1996/289) and [520](https://www.legislation.gov.uk/nisr/1996/520), and [S.R. 2003 No. 213](https://www.legislation.gov.uk/nisr/2003/213)
 
@@ -1237,11 +1237,11 @@ Schedule 5 makes transitory provision in relation to those child support cases f
 
 [^f00058]: Footnote: Paragraph 7(a) was substituted by regulation 5(a) of [S.R. 1988 No. 138](https://www.legislation.gov.uk/nisr/1988/138)
 
-[^key-eebb23c0d704fba7ddd68b5708e02451]: Commencement: Sch. 3 para. 7 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-eebb23c0d704fba7ddd68b5708e02451]: Commencement: Sch. 3 para. 7 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00059]: Footnote: [S.R. 1977 No. 166](https://www.legislation.gov.uk/nisr/1977/166); regulation 2(2) was substituted by regulation 9 of [S.R. 1983 No. 36](https://www.legislation.gov.uk/nisr/1983/36) and amended by regulation 11 of, and Schedule 2 to, [S.R. 1984 No. 317](https://www.legislation.gov.uk/nisr/1984/317), regulation 8 of [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150) and regulation 6 of [S.R. 1996 No. 289](https://www.legislation.gov.uk/nisr/1996/289)
 
-[^key-f075e9b75334c8477018f91b81084f35]: Commencement: Sch. 3 para. 8 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-f075e9b75334c8477018f91b81084f35]: Commencement: Sch. 3 para. 8 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00060]: Footnote: [S.R. 1978 No. 114](https://www.legislation.gov.uk/nisr/1978/114); relevant amending instruments are [S.R. 1979 No. 392](https://www.legislation.gov.uk/nisr/1979/392), S.I. [1986/1888 (N.I. 18)](https://www.legislation.gov.uk/nisi/1986/1888), [S.R. 1989 No. 373](https://www.legislation.gov.uk/nisr/1989/373), [S.R. 1994 Nos. 45](https://www.legislation.gov.uk/nisr/1994/45) and [269](https://www.legislation.gov.uk/nisr/1994/269) and [S.R. 2001 Nos. 108](https://www.legislation.gov.uk/nisr/2001/108) and [287](https://www.legislation.gov.uk/nisr/2001/287)
 
@@ -1261,7 +1261,7 @@ Schedule 5 makes transitory provision in relation to those child support cases f
 
 [^f00068]: Footnote: Paragraph (6) was substituted by regulation 4(6) of [S.R. 1979 No. 392](https://www.legislation.gov.uk/nisr/1979/392) and amended by regulation 6(3)(d) of [S.R. 1989 No. 373](https://www.legislation.gov.uk/nisr/1989/373)
 
-[^key-665bda99d6cd28546999f7d7eceee70d]: Commencement: Sch. 3 para. 9 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-665bda99d6cd28546999f7d7eceee70d]: Commencement: Sch. 3 para. 9 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00069]: Footnote: [S.R. 1979 No. 242](https://www.legislation.gov.uk/nisr/1979/242); relevant amending instruments are [S.R. 1983 No. 36](https://www.legislation.gov.uk/nisr/1983/36), S.I. [1986/1888 (N.I. 18)](https://www.legislation.gov.uk/nisi/1986/1888) and [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150)
 
@@ -1269,7 +1269,7 @@ Schedule 5 makes transitory provision in relation to those child support cases f
 
 [^f00071]: Footnote: Paragraph 4 was amended by regulation 12(3)(a) of [S.R. 1983 No. 36](https://www.legislation.gov.uk/nisr/1983/36)
 
-[^key-56287bafc17e48cbabb57cb5d7fb2d8b]: Commencement: Sch. 3 para. 10 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-56287bafc17e48cbabb57cb5d7fb2d8b]: Commencement: Sch. 3 para. 10 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00072]: Footnote: [S.R. 1979 No. 243](https://www.legislation.gov.uk/nisr/1979/243); relevant amending Regulations are [S.R. 2001 Nos. 108](https://www.legislation.gov.uk/nisr/2001/108) and [148](https://www.legislation.gov.uk/nisr/2001/148)
 
@@ -1279,27 +1279,27 @@ Schedule 5 makes transitory provision in relation to those child support cases f
 
 [^f00075]: Footnote: Regulation 16ZA was inserted by regulation 2(2) of [S.R. 2001 No. 148](https://www.legislation.gov.uk/nisr/2001/148)
 
-[^key-dd3817d3341e43a826f9229c0bf6f4ab]: Commencement: Sch. 3 para. 11 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-dd3817d3341e43a826f9229c0bf6f4ab]: Commencement: Sch. 3 para. 11 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00076]: Footnote: [S.R. 1979 No. 244](https://www.legislation.gov.uk/nisr/1979/244); regulation 12 was amended by regulation 9(2) of [S.R. 1989 No. 373](https://www.legislation.gov.uk/nisr/1989/373)
 
-[^key-f07070053bc110b36eb8f1fd774bae5d]: Commencement: Sch. 3 para. 12 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-f07070053bc110b36eb8f1fd774bae5d]: Commencement: Sch. 3 para. 12 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00077]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1988 Nos. 146](https://www.legislation.gov.uk/nisr/1988/146) and [193](https://www.legislation.gov.uk/nisr/1988/193), [S.R. 1991 No. 204](https://www.legislation.gov.uk/nisr/1991/204), [S.R. 1992 No. 201](https://www.legislation.gov.uk/nisr/1992/201), [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327), [S.R. 1995 No. 410](https://www.legislation.gov.uk/nisr/1995/410), [S.R. 1996 Nos. 199](https://www.legislation.gov.uk/nisr/1996/199) and [405](https://www.legislation.gov.uk/nisr/1996/405), [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81), [S.R. 1999 No. 317](https://www.legislation.gov.uk/nisr/1999/317), [S.R. 2000 Nos. 71](https://www.legislation.gov.uk/nisr/2000/71) and [260](https://www.legislation.gov.uk/nisr/2000/260), [S.R. 2001 Nos. 4](https://www.legislation.gov.uk/nisr/2001/4), [278](https://www.legislation.gov.uk/nisr/2001/278), and [392](https://www.legislation.gov.uk/nisr/2001/392), [S.R. 2002 No. 128](https://www.legislation.gov.uk/nisr/2002/128) and [S.R. 2003 No. 154](https://www.legislation.gov.uk/nisr/2003/154)
 
-[^key-4661f7837ed923df35c1fdac3f22ee32]: Textual amendment: [Sch. 3 para. 12(2)(c)](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/12/2/c) revoked (5.1.2009) by [The Social Security (Miscellaneous Amendments No. 7) Regulations (Northern Ireland) 2008 (S.R. 2008/498)](https://www.legislation.gov.uk/nisr/2008/498), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/498/schedule)
+[^c-4661f7837ed923df35c1fdac3f22ee32]: Textual amendment: [Sch. 3 para. 12(2)(c)](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/12/2/c) revoked (5.1.2009) by [The Social Security (Miscellaneous Amendments No. 7) Regulations (Northern Ireland) 2008 (S.R. 2008/498)](https://www.legislation.gov.uk/nisr/2008/498), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/498/schedule)
 
 [^f00079]: Footnote: The definition of “partner of a person subject to immigration control” was substituted by regulation 5(4)(a) of [S.R. 2000 No. 71](https://www.legislation.gov.uk/nisr/2000/71)
 
 [^f00080]: Footnote: The definition of “payment” was amended by regulation 24 of [S.R. 1988 No. 146](https://www.legislation.gov.uk/nisr/1988/146)
 
-[^key-895c5c6d2141b03d3b688871aa16f4e5]: Textual amendment: [Sch. 3 para. 12(5)](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/12/5) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
+[^c-895c5c6d2141b03d3b688871aa16f4e5]: Textual amendment: [Sch. 3 para. 12(5)](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/12/5) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
 
 [^f00083]: Footnote: Schedule 1B was inserted by regulation 22 of [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199)
 
 [^f00084]: Footnote: Paragraph 16A was inserted by regulation 2(2) of [S.R. 2000 No. 260](https://www.legislation.gov.uk/nisr/2000/260) for the period from 9th April 2001 to 9th April 2006 only
 
-[^key-44d0f6b26d82e952e3053fff7c070bba]: Textual amendment: [Sch. 3 para. 12(7)](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/12/7) revoked (1.10.2007) by [The Social Security (Miscellaneous Amendments No. 5) Regulations (Northern Ireland) 2007 (S.R. 2007/396)](https://www.legislation.gov.uk/nisr/2007/396), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/1), [Sch. reg. 11](https://www.legislation.gov.uk/nisr/2007/396/schedule/regulation/11)
+[^c-44d0f6b26d82e952e3053fff7c070bba]: Textual amendment: [Sch. 3 para. 12(7)](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/12/7) revoked (1.10.2007) by [The Social Security (Miscellaneous Amendments No. 5) Regulations (Northern Ireland) 2007 (S.R. 2007/396)](https://www.legislation.gov.uk/nisr/2007/396), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/1), [Sch. reg. 11](https://www.legislation.gov.uk/nisr/2007/396/schedule/regulation/11)
 
 [^f00086]: Footnote: Paragraph 16 was substituted by regulation 5(3) of [S.R. 1995 No. 410](https://www.legislation.gov.uk/nisr/1995/410) and sub-paragraph (1) was amended by regulation 2(5)(b) of [S.R. 2002 No. 128](https://www.legislation.gov.uk/nisr/2002/128)
 
@@ -1307,13 +1307,13 @@ Schedule 5 makes transitory provision in relation to those child support cases f
 
 [^f00088]: Footnote: Sub-paragraph (3) was amended by regulation 5(7)(b)(iii) of [S.R. 1992 No. 201](https://www.legislation.gov.uk/nisr/1992/201)
 
-[^key-3c30d0860db1b6d1304d36bffdf847d1]: Textual amendment: [Sch. 3 para. 12(8)(c)](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/12/8/c) revoked (5.1.2009) by [The Social Security (Miscellaneous Amendments No. 7) Regulations (Northern Ireland) 2008 (S.R. 2008/498)](https://www.legislation.gov.uk/nisr/2008/498), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/498/schedule)
+[^c-3c30d0860db1b6d1304d36bffdf847d1]: Textual amendment: [Sch. 3 para. 12(8)(c)](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/12/8/c) revoked (5.1.2009) by [The Social Security (Miscellaneous Amendments No. 7) Regulations (Northern Ireland) 2008 (S.R. 2008/498)](https://www.legislation.gov.uk/nisr/2008/498), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/498/schedule)
 
 [^f00090]: Footnote: Paragraph 55 was added by regulation 2(10)(b) of [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327) and amended by regulation 2(5)(c) of [S.R. 2002 No. 128](https://www.legislation.gov.uk/nisr/2002/128)
 
 [^f00091]: Footnote: Paragraph 56(1) was added by regulation 2(10)(b) of [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327) and amended by regulation 2(5)(d) and (e) of [S.R. 2002 No. 128](https://www.legislation.gov.uk/nisr/2002/128)
 
-[^key-9aac0c547befa6fb9022ce947325f392]: Textual amendment: [Sch. 3 para. 12(8)(e)(ii)](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/12/8/e/ii) revoked (5.1.2009) by [The Social Security (Miscellaneous Amendments No. 7) Regulations (Northern Ireland) 2008 (S.R. 2008/498)](https://www.legislation.gov.uk/nisr/2008/498), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/498/schedule)
+[^c-9aac0c547befa6fb9022ce947325f392]: Textual amendment: [Sch. 3 para. 12(8)(e)(ii)](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/12/8/e/ii) revoked (5.1.2009) by [The Social Security (Miscellaneous Amendments No. 7) Regulations (Northern Ireland) 2008 (S.R. 2008/498)](https://www.legislation.gov.uk/nisr/2008/498), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/498/schedule)
 
 [^f00092]: Footnote: Paragraph 4(b) was amended by regulation 3(a) of [S.R. 1988 No. 193](https://www.legislation.gov.uk/nisr/1988/193)
 
@@ -1327,15 +1327,15 @@ Schedule 5 makes transitory provision in relation to those child support cases f
 
 [^f00097]: Footnote: Paragraph 61 was added by regulation 2(a) of [S.R. 2001 No. 392](https://www.legislation.gov.uk/nisr/2001/392)
 
-[^key-02ab83ad28a43486ccd268699d419875]: Textual amendment: [Sch. 3 para. 13](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/13) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-02ab83ad28a43486ccd268699d419875]: Textual amendment: [Sch. 3 para. 13](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/13) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-4827a27c7458b38790e126005fe9eb64]: Commencement: Sch. 3 para. 13 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-4827a27c7458b38790e126005fe9eb64]: Commencement: Sch. 3 para. 13 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
-[^key-35c3d0088c830a6592e8dcc71e0591f6]: Textual amendment: [Sch. 3 para. 14](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/14) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-35c3d0088c830a6592e8dcc71e0591f6]: Textual amendment: [Sch. 3 para. 14](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/14) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-83947e0ad40ffc9a9b33775731b9ae9c]: Commencement: Sch. 3 para. 14 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-83947e0ad40ffc9a9b33775731b9ae9c]: Commencement: Sch. 3 para. 14 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
-[^key-a8a862c1dd2553888e63370662e3d7af]: Commencement: Sch. 3 para. 15 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-a8a862c1dd2553888e63370662e3d7af]: Commencement: Sch. 3 para. 15 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00122]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending Regulations are [S.R. 1989 No. 373](https://www.legislation.gov.uk/nisr/1989/373), [S.R. 1996 Nos. 354](https://www.legislation.gov.uk/nisr/1996/354) and [449](https://www.legislation.gov.uk/nisr/1996/449), [S.R. 2002 No. 327](https://www.legislation.gov.uk/nisr/2002/327), [S.R. 2003 No.191](https://www.legislation.gov.uk/nisr/2003/191) and [S.R. 2004 No. 378](https://www.legislation.gov.uk/nisr/2004/378)
 
@@ -1355,25 +1355,25 @@ Schedule 5 makes transitory provision in relation to those child support cases f
 
 [^f00130]: Footnote: Paragraph (2) was added by regulation 2(3) of [S.R. 2002 No. 327](https://www.legislation.gov.uk/nisr/2002/327)
 
-[^key-c364ebeae37f062b780f2165919dc1ad]: Textual amendment: [Sch. 3 para. 16](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/16) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-c364ebeae37f062b780f2165919dc1ad]: Textual amendment: [Sch. 3 para. 16](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/16) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-8dcc63919c75874eb33c2d68b9dd758c]: Commencement: Sch. 3 para. 17 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-8dcc63919c75874eb33c2d68b9dd758c]: Commencement: Sch. 3 para. 17 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00132]: Footnote: [S.R. 1988 No. 142](https://www.legislation.gov.uk/nisr/1988/142); regulation 17 was amended by regulation 14(8) of [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6), regulation 15(5) of [S.R. 1996 No. 289](https://www.legislation.gov.uk/nisr/1996/289) and regulation 26(5) and (6) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191)
 
-[^key-ddd6e0df151e90dc23296aeb4a2b3ba2]: Commencement: Sch. 3 para. 18 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-ddd6e0df151e90dc23296aeb4a2b3ba2]: Commencement: Sch. 3 para. 18 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00133]: Footnote: [S.R. 1992 No. 20](https://www.legislation.gov.uk/nisr/1992/20)
 
-[^key-7f2c863fd9574e0ecb22c0b673f09b14]: Commencement: Sch. 3 para. 19 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-7f2c863fd9574e0ecb22c0b673f09b14]: Commencement: Sch. 3 para. 19 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00134]: Footnote: [S.R. 1992 No. 32](https://www.legislation.gov.uk/nisr/1992/32)
 
-[^key-92978f3f1b29612fc8161add0af4003a]: Commencement: Sch. 3 para. 20 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-92978f3f1b29612fc8161add0af4003a]: Commencement: Sch. 3 para. 20 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00135]: Footnote: [S.R. 1994 No. 461](https://www.legislation.gov.uk/nisr/1994/461); regulation 15 was added by regulation 2(5) of [S.R. 2000 No. 404](https://www.legislation.gov.uk/nisr/2000/404)
 
-[^key-4d1d09af3a0f913161d3de28d4d8a443]: Commencement: Sch. 3 para. 21 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-4d1d09af3a0f913161d3de28d4d8a443]: Commencement: Sch. 3 para. 21 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00136]: Footnote: [S.R. 1994 No. 485](https://www.legislation.gov.uk/nisr/1994/485); relevant amending regulations are [S.R. 2003 No. 213](https://www.legislation.gov.uk/nisr/2003/213)
 
@@ -1381,13 +1381,13 @@ Schedule 5 makes transitory provision in relation to those child support cases f
 
 [^f00138]: Footnote: Paragraph (1) was amended by regulation 2(7)(c) of [S.R. 2003 No. 213](https://www.legislation.gov.uk/nisr/2003/213)
 
-[^key-c4a59f6dd9557a930dc2c069b9c78c9d]: Commencement: Sch. 3 para. 22 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-c4a59f6dd9557a930dc2c069b9c78c9d]: Commencement: Sch. 3 para. 22 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00139]: Footnote: [S.R. 1995 No. 41](https://www.legislation.gov.uk/nisr/1995/41); relevant amending Regulations are [S.R. 1996 No. 601](https://www.legislation.gov.uk/nisr/1996/601)
 
 [^f00140]: Footnote: The definition of “relative” was inserted by regulation 4(2)(c) of [S.R. 1996 No. 601](https://www.legislation.gov.uk/nisr/1996/601)
 
-[^key-2f0f3cafcfa6e7ce14b5d4e3613e09a4]: Commencement: Sch. 3 para. 23 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-2f0f3cafcfa6e7ce14b5d4e3613e09a4]: Commencement: Sch. 3 para. 23 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00141]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Regulations are [S.R. 1996 Nos. 356](https://www.legislation.gov.uk/nisr/1996/356) and [503](https://www.legislation.gov.uk/nisr/1996/503), [S.R.1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81), [S.R. 1999 No. 317](https://www.legislation.gov.uk/nisr/1999/317) and [428 (C. 32)](https://www.legislation.gov.uk/nisr/1999/428), [S.R. 2000 Nos. 71](https://www.legislation.gov.uk/nisr/2000/71), [260](https://www.legislation.gov.uk/nisr/2000/260) and [350](https://www.legislation.gov.uk/nisr/2000/350), [S.R. 2001 Nos. 4](https://www.legislation.gov.uk/nisr/2001/4), [278](https://www.legislation.gov.uk/nisr/2001/278) and [392](https://www.legislation.gov.uk/nisr/2001/392), [S.R. 2002 No. 128](https://www.legislation.gov.uk/nisr/2002/128) and [S.R. 2003 No. 154](https://www.legislation.gov.uk/nisr/2003/154)
 
@@ -1399,7 +1399,7 @@ Schedule 5 makes transitory provision in relation to those child support cases f
 
 [^f00145]: Footnote: The definition of “partner of a person subject to immigration control” was substituted by regulation 10(3)(a) of [S.R. 2000 No. 71](https://www.legislation.gov.uk/nisr/2000/71)
 
-[^key-433a487e9d52107a3c0d2ba79e146951]: Textual amendment: [Sch. 3 para. 23(7)](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/23/7) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
+[^c-433a487e9d52107a3c0d2ba79e146951]: Textual amendment: [Sch. 3 para. 23(7)](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/23/7) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
 
 [^f00147]: Footnote: Sub-paragraph (c) was amended by Article 9(5)(i) of [S.R. 1999 No. 428 (C. 32)](https://www.legislation.gov.uk/nisr/1999/428)
 
@@ -1407,17 +1407,17 @@ Schedule 5 makes transitory provision in relation to those child support cases f
 
 [^f00149]: Footnote: Paragraphs (iv) and (iva) were substituted by regulation 16(b) of [S.R. 1996 No. 356](https://www.legislation.gov.uk/nisr/1996/356)
 
-[^key-d2a813fdc6dd07c97bb44e7c24de0ffb]: Textual amendment: [Sch. 3 para. 23(11)(b)](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/23/11/b) revoked (1.10.2007) by [The Social Security (Miscellaneous Amendments No. 5) Regulations (Northern Ireland) 2007 (S.R. 2007/396)](https://www.legislation.gov.uk/nisr/2007/396), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/1), [Sch. reg. 11](https://www.legislation.gov.uk/nisr/2007/396/schedule/regulation/11)
+[^c-d2a813fdc6dd07c97bb44e7c24de0ffb]: Textual amendment: [Sch. 3 para. 23(11)(b)](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/23/11/b) revoked (1.10.2007) by [The Social Security (Miscellaneous Amendments No. 5) Regulations (Northern Ireland) 2007 (S.R. 2007/396)](https://www.legislation.gov.uk/nisr/2007/396), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/1), [Sch. reg. 11](https://www.legislation.gov.uk/nisr/2007/396/schedule/regulation/11)
 
-[^key-3c8484d7c132f2641e0f0482519981c2]: Textual amendment: [Sch. 3 para. 23(12)(a)](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/23/12/a) revoked (5.1.2009) by [The Social Security (Miscellaneous Amendments No. 7) Regulations (Northern Ireland) 2008 (S.R. 2008/498)](https://www.legislation.gov.uk/nisr/2008/498), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/498/schedule)
+[^c-3c8484d7c132f2641e0f0482519981c2]: Textual amendment: [Sch. 3 para. 23(12)(a)](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/23/12/a) revoked (5.1.2009) by [The Social Security (Miscellaneous Amendments No. 7) Regulations (Northern Ireland) 2008 (S.R. 2008/498)](https://www.legislation.gov.uk/nisr/2008/498), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/498/schedule)
 
-[^key-20bc1649e940a46c3a2d82a5249e38a0]: Textual amendment: [Sch. 3 para. 23(12)(c)](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/23/12/c) revoked (5.1.2009) by [The Social Security (Miscellaneous Amendments No. 7) Regulations (Northern Ireland) 2008 (S.R. 2008/498)](https://www.legislation.gov.uk/nisr/2008/498), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/498/schedule)
+[^c-20bc1649e940a46c3a2d82a5249e38a0]: Textual amendment: [Sch. 3 para. 23(12)(c)](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/23/12/c) revoked (5.1.2009) by [The Social Security (Miscellaneous Amendments No. 7) Regulations (Northern Ireland) 2008 (S.R. 2008/498)](https://www.legislation.gov.uk/nisr/2008/498), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/498/schedule)
 
 [^f00153]: Footnote: Paragraph 54 was amended by regulation 4(5)(c) of [S.R. 2002 No. 128](https://www.legislation.gov.uk/nisr/2002/128)
 
 [^f00154]: Footnote: Paragraph 55(1) was amended by regulation 4(5)(d) and (e) of [S.R. 2002 No. 128](https://www.legislation.gov.uk/nisr/2002/128)
 
-[^key-74307e3f57cf39719157480eaf7241e0]: Textual amendment: [Sch. 3 para. 23(12)(e)(ii)](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/23/12/e/ii) revoked (5.1.2009) by [The Social Security (Miscellaneous Amendments No. 7) Regulations (Northern Ireland) 2008 (S.R. 2008/498)](https://www.legislation.gov.uk/nisr/2008/498), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/498/schedule)
+[^c-74307e3f57cf39719157480eaf7241e0]: Textual amendment: [Sch. 3 para. 23(12)(e)(ii)](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/23/12/e/ii) revoked (5.1.2009) by [The Social Security (Miscellaneous Amendments No. 7) Regulations (Northern Ireland) 2008 (S.R. 2008/498)](https://www.legislation.gov.uk/nisr/2008/498), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/498/schedule)
 
 [^f00155]: Footnote: Paragraph 5 was amended by regulation 3(4)(a) of [S.R. 2003 No. 154](https://www.legislation.gov.uk/nisr/2003/154)
 
@@ -1425,33 +1425,33 @@ Schedule 5 makes transitory provision in relation to those child support cases f
 
 [^f00157]: Footnote: Paragraph 54 was added by regulation 2(c) of [S.R. 2001 No. 392](https://www.legislation.gov.uk/nisr/2001/392)
 
-[^key-54e161389ee35df702360e2695711e88]: Commencement: Sch. 3 para. 24 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-54e161389ee35df702360e2695711e88]: Commencement: Sch. 3 para. 24 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00158]: Footnote: [S.R. 1996 No. 202](https://www.legislation.gov.uk/nisr/1996/202)
 
-[^key-a6f5627874783ee4b70dcb96c82d8f65]: Commencement: Sch. 3 para. 25 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-a6f5627874783ee4b70dcb96c82d8f65]: Commencement: Sch. 3 para. 25 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00159]: Footnote: [S.R. 1996 No. 622](https://www.legislation.gov.uk/nisr/1996/622); relevant amending Regulations are [S.R. 2001 No. 25](https://www.legislation.gov.uk/nisr/2001/25) and [S.R. 2003 No. 57](https://www.legislation.gov.uk/nisr/2003/57)
 
 [^f00160]: Footnote: Regulations 2 to 13 were revoked by regulation 4 of [S.R. 2001 No. 25](https://www.legislation.gov.uk/nisr/2001/25) as substituted by regulation 2 of [S.R. 2003 No. 57](https://www.legislation.gov.uk/nisr/2003/57) from, in relation to any particular case, the date on which section 22 of the Child Support, Pensions and Social Security Act (Northern Ireland) [2000 (c. 4)](https://www.legislation.gov.uk/nia/2000/4) comes into operation in relation to that type of case
 
-[^key-705eb5f8143eefae765ddc6dd9e5cb0a]: Textual amendment: [Sch. 3 para. 26](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/26) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2024 (S.R. 2024/160)](https://www.legislation.gov.uk/nisr/2024/160), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/160/regulation/1/1), [7(1)](https://www.legislation.gov.uk/nisr/2024/160/regulation/7/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2024/160/schedule/2)
+[^c-705eb5f8143eefae765ddc6dd9e5cb0a]: Textual amendment: [Sch. 3 para. 26](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/26) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2024 (S.R. 2024/160)](https://www.legislation.gov.uk/nisr/2024/160), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/160/regulation/1/1), [7(1)](https://www.legislation.gov.uk/nisr/2024/160/regulation/7/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2024/160/schedule/2)
 
-[^key-fb2df64eafe3792ad5db23bf7fb20abc]: Commencement: Sch. 3 para. 27 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-fb2df64eafe3792ad5db23bf7fb20abc]: Commencement: Sch. 3 para. 27 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00162]: Footnote: [S.R. 2001 No. 175](https://www.legislation.gov.uk/nisr/2001/175)
 
 [^f00163]: Footnote: The definition of “couple” in regulation 1(2) is substituted by paragraph 23(2)(b) of this Schedule
 
-[^key-3524c7cf79a3d73d3351183614a93e22]: Commencement: Sch. 3 para. 28 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-3524c7cf79a3d73d3351183614a93e22]: Commencement: Sch. 3 para. 28 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00164]: Footnote: [S.R. 2002 No. 79](https://www.legislation.gov.uk/nisr/2002/79); to which there are amendments not relevant to this Order
 
-[^key-25b0211d3b899440dddf3a96f4ac1f02]: Commencement: Sch. 3 para. 29 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-25b0211d3b899440dddf3a96f4ac1f02]: Commencement: Sch. 3 para. 29 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00165]: Footnote: [S.R. 2002 No. 403](https://www.legislation.gov.uk/nisr/2002/403)
 
-[^key-29456d70bfe97a7f2bd9183d93727f10]: Commencement: Sch. 3 para. 30 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-29456d70bfe97a7f2bd9183d93727f10]: Commencement: Sch. 3 para. 30 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00166]: Footnote: [S.R. 2003 No. 28](https://www.legislation.gov.uk/nisr/2003/28); relevant amending Regulations are [S.R. 2003 Nos. 191](https://www.legislation.gov.uk/nisr/2003/191) and [421](https://www.legislation.gov.uk/nisr/2003/421) and S.I. [2003/2175](https://www.legislation.gov.uk/uksi/2003/2175)
 
@@ -1459,39 +1459,39 @@ Schedule 5 makes transitory provision in relation to those child support cases f
 
 [^f00168]: Footnote: Paragraph 1(c) was amended by regulation 2(10)(a) of [S.R. 2003 No. 421](https://www.legislation.gov.uk/nisr/2003/421)
 
-[^key-1fc489c55aff339994d2a2262378b10c]: Textual amendment: [Sch. 3 para. 30(4)(b)](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/30/4/b) revoked (5.1.2009) by [The Social Security (Miscellaneous Amendments No. 7) Regulations (Northern Ireland) 2008 (S.R. 2008/498)](https://www.legislation.gov.uk/nisr/2008/498), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/498/schedule)
+[^c-1fc489c55aff339994d2a2262378b10c]: Textual amendment: [Sch. 3 para. 30(4)(b)](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/30/4/b) revoked (5.1.2009) by [The Social Security (Miscellaneous Amendments No. 7) Regulations (Northern Ireland) 2008 (S.R. 2008/498)](https://www.legislation.gov.uk/nisr/2008/498), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/498/schedule)
 
 [^f00170]: Footnote: Paragraph 5 was amended by regulation 2(10)(c) of [S.R. 2003 No. 421](https://www.legislation.gov.uk/nisr/2003/421)
 
 [^f00171]: Footnote: Paragraph 6(1) was amended by regulation 2(10)(d) and (e) of [S.R. 2003 No. 421](https://www.legislation.gov.uk/nisr/2003/421)
 
-[^key-db70cc8f6856bf28e2b95fd17940a56c]: Textual amendment: [Sch. 3 para. 30(4)(d)(ii)](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/30/4/d/ii) revoked (5.1.2009) by [The Social Security (Miscellaneous Amendments No. 7) Regulations (Northern Ireland) 2008 (S.R. 2008/498)](https://www.legislation.gov.uk/nisr/2008/498), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/498/schedule)
+[^c-db70cc8f6856bf28e2b95fd17940a56c]: Textual amendment: [Sch. 3 para. 30(4)(d)(ii)](https://www.legislation.gov.uk/nisr/2005/536/schedule/3/paragraph/30/4/d/ii) revoked (5.1.2009) by [The Social Security (Miscellaneous Amendments No. 7) Regulations (Northern Ireland) 2008 (S.R. 2008/498)](https://www.legislation.gov.uk/nisr/2008/498), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/498/schedule)
 
 [^f00172]: Footnote: Paragraph 4A was inserted by regulation 23(10)(b) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191)
 
-[^key-8b229344360c7a945dfaf3aba8cc5f4e]: Commencement: Sch. 3 para. 31 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-8b229344360c7a945dfaf3aba8cc5f4e]: Commencement: Sch. 3 para. 31 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00173]: Footnote: [S.R. 2003 No. 405](https://www.legislation.gov.uk/nisr/2003/405)
 
-[^key-d2dfb83ab4e90743f2f691c01211aaf9]: Textual amendment: [Sch. 4 para. 1](https://www.legislation.gov.uk/nisr/2005/536/schedule/4/paragraph/1) revoked (27.10.2008) by [The Child Support Information Regulations (Northern Ireland) 2008 (S.R. 2008/403)](https://www.legislation.gov.uk/nisr/2008/403), [reg. 1](https://www.legislation.gov.uk/nisr/2008/403/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/403/schedule) (with [reg. 15(2)](https://www.legislation.gov.uk/nisr/2008/403/regulation/15/2))
+[^c-d2dfb83ab4e90743f2f691c01211aaf9]: Textual amendment: [Sch. 4 para. 1](https://www.legislation.gov.uk/nisr/2005/536/schedule/4/paragraph/1) revoked (27.10.2008) by [The Child Support Information Regulations (Northern Ireland) 2008 (S.R. 2008/403)](https://www.legislation.gov.uk/nisr/2008/403), [reg. 1](https://www.legislation.gov.uk/nisr/2008/403/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/403/schedule) (with [reg. 15(2)](https://www.legislation.gov.uk/nisr/2008/403/regulation/15/2))
 
-[^key-cdbbd2cda415ef96bc282b9d6389190b]: Textual amendment: [Sch. 4 para. 2](https://www.legislation.gov.uk/nisr/2005/536/schedule/4/paragraph/2) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
+[^c-cdbbd2cda415ef96bc282b9d6389190b]: Textual amendment: [Sch. 4 para. 2](https://www.legislation.gov.uk/nisr/2005/536/schedule/4/paragraph/2) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
 
-[^key-7fcf86b9f6ebefa764d71efd7cd59da7]: Commencement: Sch. 4 para. 3 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-7fcf86b9f6ebefa764d71efd7cd59da7]: Commencement: Sch. 4 para. 3 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00181]: Footnote: [S.R. 1992 No. 390](https://www.legislation.gov.uk/nisr/1992/390)
 
-[^key-476f090416cf610478fbd100b3d7faef]: Commencement: Sch. 4 para. 4 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-476f090416cf610478fbd100b3d7faef]: Commencement: Sch. 4 para. 4 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00182]: Footnote: [S.R. 1992 No. 465](https://www.legislation.gov.uk/nisr/1992/465); regulation 2(b) is amended by regulation 4(2) of [S.R. 2001 No. 15](https://www.legislation.gov.uk/nisr/2001/15) from a date determined in accordance with regulation 1(3) of those Regulations
 
-[^key-89b942aba3f916aefa516e08c1787ddb]: Commencement: Sch. 4 para. 5 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-89b942aba3f916aefa516e08c1787ddb]: Commencement: Sch. 4 para. 5 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00183]: Footnote: [S.R. 1992 No. 466](https://www.legislation.gov.uk/nisr/1992/466); regulation 3(1) was substituted by regulation 7(4)(a) of [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162) and amended by regulation 7 of [S.R. 1998 No. 8](https://www.legislation.gov.uk/nisr/1998/8)
 
-[^key-fe9ff7e0610c814eefc2a654a6e84dd3]: Textual amendment: [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/nisr/2005/536/schedule/4/paragraph/6) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
+[^c-fe9ff7e0610c814eefc2a654a6e84dd3]: Textual amendment: [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/nisr/2005/536/schedule/4/paragraph/6) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
 
-[^key-4b14ca3543f195b7b0c0b1a3da9cb685]: Commencement: Sch. 5 para. 1 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-4b14ca3543f195b7b0c0b1a3da9cb685]: Commencement: Sch. 5 para. 1 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
 
 [^f00189]: Footnote: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33)
 
@@ -1499,4 +1499,4 @@ Schedule 5 makes transitory provision in relation to those child support cases f
 
 [^f00191]: Footnote: S.I. [1991/2628 (N.I. 23)](https://www.legislation.gov.uk/nisi/1991/2628)
 
-[^key-45e5bbcbac73b57f5ae6b8d3a15c77c4]: Commencement: Sch. 5 para. 2 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)
+[^c-45e5bbcbac73b57f5ae6b8d3a15c77c4]: Commencement: Sch. 5 para. 2 in operation at 5.12.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/536/article/1)

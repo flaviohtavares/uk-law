@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 131. Interpretation[^key-d395c3a386ea5ccd96ce15291fbbbacd]
+## 131. Interpretation[^c-d395c3a386ea5ccd96ce15291fbbbacd]
 
 *Extent: N.I.*
 
@@ -25,11 +25,11 @@ summary: ''
 - “academic year” means the period of 12 months beginning on 1st January, 1st April, 1st July or 1st September according to whether the course in question begins in the winter, the spring, the summer or the autumn respectively but if students are required to begin attending the course during August or September and to continue attending through the autumn, the academic year of the course is to be considered to begin in the autumn rather than the summer;
 - “access funds” means—
   - (a) grants made under Article 30 of the Education and Libraries (Northern Ireland) Order 1993[^f00120], or grants, loans or other payments made under Article 5 of the Further Education (Northern Ireland) Order 1997[^f00121] in each case being grants, or grants, loans or other payments, as the case may be, made for the purpose of assisting students in financial difficulties;
-  - (b) grants made under section 68 of the Further and Higher Education Act 1992[^f00122] or section 74 of the Higher Education and Research Act 2017[^key-18db40f065ad7c4704c6992f2c1137bc] for the purpose of providing funds on a discretionary basis to be paid to students;
+  - (b) grants made under section 68 of the Further and Higher Education Act 1992[^f00122] or section 74 of the Higher Education and Research Act 2017[^c-18db40f065ad7c4704c6992f2c1137bc] for the purpose of providing funds on a discretionary basis to be paid to students;
   - (c) grants made under sections 73(a) and (c) and 74(1) of the Education (Scotland) Act 1980[^f00123];
   - (d) discretionary payments, known as “learner support funds”, which are made available to students in further education by institutions out of funds provided by the Learning and Skills Council for England under sections 5, 6 and 9 of the Learning and Skills Act 2000[^f00124]; or
   - (e) Financial Contingency Funds made available by the Welsh Ministers;
-- “contribution” means—[^key-bcc9bd85bbe54aea205d7dd759aa2e84]
+- “contribution” means—[^c-bcc9bd85bbe54aea205d7dd759aa2e84]
   - (a) any contribution in respect of the income of a student or any person which the Department, the Scottish Ministers or an education authority takes into account in ascertaining the amount of a student’s grant or student loan; or
   - (b) any sums, which in determining the amount of a student’s allowance or bursary in Scotland under the Education (Scotland) Act 1980, the Scottish Ministers or education authority takes into account being sums which the Scottish Ministers or education authority considers that it is reasonable for the following persons to contribute towards the holder’s expenses—
     - (i) the holder of the allowance or bursary,
@@ -49,7 +49,7 @@ summary: ''
 - “grant income” means—
   - (a) any income by way of a grant;
   - (b) in the case of a student, other than one to whom paragraph (c) refers, any contribution which has been assessed whether or not it has been paid;
-  - (c) in the case of a student who is a lone parent , is a person who has no partner and who is responsible for and a member of the same household as a young person[^key-5c31f91e47d51dabc9a7268d79a58a00] or is a person to whom Part 4 applies, any contribution which has been assessed and which has been paid,
+  - (c) in the case of a student who is a lone parent , is a person who has no partner and who is responsible for and a member of the same household as a young person[^c-5c31f91e47d51dabc9a7268d79a58a00] or is a person to whom Part 4 applies, any contribution which has been assessed and which has been paid,
 
   and any such contribution which is paid by way of a covenant is to be treated as part of the student’s grant income;
 - “period of experience” means a period of work experience which forms part of a sandwich course;
@@ -59,7 +59,7 @@ summary: ''
     - (i) the day before the start of the next year of the course in a case where the student’s grant or loan is assessed at a rate appropriate to the student’s studying throughout the year or, if the claimant does not have a grant or loan, where a loan would have been assessed at such a rate had the claimant had one, or
     - (ii) in any other case the day before the start of the normal summer vacation appropriate to the student’s course;
   - (c) in the final year of a course of study of more than one year, the period beginning with that year’s start and ending with the last day of the course;
-- “postgraduate loan” means a loan to a student undertaking a postgraduate master’s degree course or a postgraduate doctoral degree course pursuant to regulations made under section 22 of the Teaching and Higher Education Act 1998;[^key-dd00eeda51196e95c1d0a376d28ebd4c]
+- “postgraduate loan” means a loan to a student undertaking a postgraduate master’s degree course or a postgraduate doctoral degree course pursuant to regulations made under section 22 of the Teaching and Higher Education Act 1998;[^c-dd00eeda51196e95c1d0a376d28ebd4c]
 - “sandwich course” has the meaning given by regulation 2(8) of the Education (Student Support) Regulations (Northern Ireland) 2007[^f00130], regulation 2(9) of the Education (Student Support) Regulations 2008[^f00131] or regulation 4(2) of the Education (Student Loans) (Scotland) Regulations 2007[^f00132];
 - “standard maintenance grant” means—
   - (a) except where paragraph (b) or (c) applies, in the case of a student attending or undertaking a course of study at the University of London or an establishment within the area comprising the City of London and the Metropolitan Police District, the amount specified for the time being in paragraph 2(2)(a) of Schedule 6 to the Students Awards Regulations[^f00133] for such a student;
@@ -85,7 +85,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d395c3a386ea5ccd96ce15291fbbbacd]: Commencement: [Reg. 131](https://www.legislation.gov.uk/nisr/2008/280/regulation/131) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-d395c3a386ea5ccd96ce15291fbbbacd]: Commencement: [Reg. 131](https://www.legislation.gov.uk/nisr/2008/280/regulation/131) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
 
 [^f00120]: Footnote: [S.I. 1993/2810 (N.I. 12)](https://www.legislation.gov.uk/nisi/1993/2810); Article 30 was amended by Schedule 4 to the Further Education (Northern Ireland) Order 1997 ([S.I. 1997/1772 (N.I. 15)](https://www.legislation.gov.uk/nisi/1997/1772)) and Article 11(2) of the Colleges of Education (Northern Ireland) Order 2005 ([S.I. 2005/1963 (N.I. 13)](https://www.legislation.gov.uk/nisi/2005/1963))
 
@@ -93,13 +93,13 @@ summary: ''
 
 [^f00122]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13)
 
-[^key-18db40f065ad7c4704c6992f2c1137bc]: Textual amendment: Words in [reg. 131(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/131/1) inserted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [29](https://www.legislation.gov.uk/uksi/2019/1027/regulation/29)
+[^c-18db40f065ad7c4704c6992f2c1137bc]: Textual amendment: Words in [reg. 131(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/131/1) inserted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [29](https://www.legislation.gov.uk/uksi/2019/1027/regulation/29)
 
 [^f00123]: Footnote: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44); section 74(1) was amended by paragraph 8(17) of Schedule 10 to the Self-Governing Schools etc. (Scotland) Act [1989 (c. 39)](https://www.legislation.gov.uk/ukpga/1989/39)
 
 [^f00124]: Footnote: [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21); section 5 was amended by section 178(2) of the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), section 6 was amended by section 34(7) of the Special Educational Needs and Disability Act [2001 (c. 10)](https://www.legislation.gov.uk/ukpga/2001/10) and section 9 was amended by section 176(2) of the Education and Inspections Act [2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40)
 
-[^key-bcc9bd85bbe54aea205d7dd759aa2e84]: Textual amendment: Words in [reg. 131(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/131/1) substituted (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [8(6)](https://www.legislation.gov.uk/nisr/2009/92/regulation/8/6)
+[^c-bcc9bd85bbe54aea205d7dd759aa2e84]: Textual amendment: Words in [reg. 131(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/131/1) substituted (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [8(6)](https://www.legislation.gov.uk/nisr/2009/92/regulation/8/6)
 
 [^f00125]: Footnote: Article 3 was amended by Schedule 9 to the Education Reform (Northern Ireland) Order [1989 (N.I. 20)](https://www.legislation.gov.uk/nisi/1989/2406))
 
@@ -111,9 +111,9 @@ summary: ''
 
 [^f00129]: Footnote: Section 138 was substituted by section 2(2) the Child Benefit Act [2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6)
 
-[^key-5c31f91e47d51dabc9a7268d79a58a00]: Textual amendment: Words in [reg. 131(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/131/1) inserted (31.10.2011) by [The Social Security (Work-focused Interviews for Lone Parents and Partners) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/368)](https://www.legislation.gov.uk/nisr/2011/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/368/regulation/1/1), [5(4)](https://www.legislation.gov.uk/nisr/2011/368/regulation/5/4)
+[^c-5c31f91e47d51dabc9a7268d79a58a00]: Textual amendment: Words in [reg. 131(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/131/1) inserted (31.10.2011) by [The Social Security (Work-focused Interviews for Lone Parents and Partners) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/368)](https://www.legislation.gov.uk/nisr/2011/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/368/regulation/1/1), [5(4)](https://www.legislation.gov.uk/nisr/2011/368/regulation/5/4)
 
-[^key-dd00eeda51196e95c1d0a376d28ebd4c]: Textual amendment: Words in [reg. 131(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/131/1) inserted (15.7.2020) by [The Social Security (Income and Capital) (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/108)](https://www.legislation.gov.uk/nisr/2020/108), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/108/regulation/1/1), [7(6)](https://www.legislation.gov.uk/nisr/2020/108/regulation/7/6)
+[^c-dd00eeda51196e95c1d0a376d28ebd4c]: Textual amendment: Words in [reg. 131(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/131/1) inserted (15.7.2020) by [The Social Security (Income and Capital) (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/108)](https://www.legislation.gov.uk/nisr/2020/108), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/108/regulation/1/1), [7(6)](https://www.legislation.gov.uk/nisr/2020/108/regulation/7/6)
 
 [^f00130]: Footnote: [S.R. 2007 No. 195](https://www.legislation.gov.uk/nisr/2007/195)
 

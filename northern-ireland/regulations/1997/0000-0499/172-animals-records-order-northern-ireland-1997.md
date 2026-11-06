@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Agriculture, in exercise of the powers conferred on it by Articles 44 and 60(1) of the Diseases of Animals (Northern Ireland) Order 1981[^f00001] and of every other power enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation and commencement[^key-21de416d450fc93dfd9558fc547f1ece]
+## 1. Citation and commencement[^c-21de416d450fc93dfd9558fc547f1ece]
 
 This Order may be cited as the Animals (Records) Order (Northern Ireland) 1997 and shall come into operation on 1st May 1997.
 
-## 2. Interpretation[^key-94a4999708ca3e3fc7341143b753dc6e]
+## 2. Interpretation[^c-94a4999708ca3e3fc7341143b753dc6e]
 
 In this Order—
 
@@ -56,7 +56,7 @@ In this Order—
 - “market” means a market place, sale-yard or any other premises or place to which animals are brought from any other place and exposed for sale and includes any place, lairage or parking area adjoining a market and used in connection with it;
 - “market operator” means the person for the time being responsible for managing the reception or the sale of animals in a market.
 
-## 3. Bovine animals[^key-76fd3d5983c11c4973058af314c17185]
+## 3. Bovine animals[^c-76fd3d5983c11c4973058af314c17185]
 
 (1) Subject to the provisions of Articles 5 and 6 the owner or person in charge of bovine animals shall keep a record of the particulars of each bovine animal as specified in the several columns of the form set out in Schedule 1.
 
@@ -75,7 +75,7 @@ In this Order—
 - (c) the name and address of the person who presented that bovine animal for sale; and
 - (d) the name and address of the purchaser, if any, of that bovine animal.
 
-## 4. Goats, sheep or swine[^key-be8800ebb94f57e30c9f8e88c8a3d71b]
+## 4. Goats, sheep or swine[^c-be8800ebb94f57e30c9f8e88c8a3d71b]
 
 (1) Subject to the provisions of Articles 5 and 6, the owner or person in charge of goats or swine shall keep a record of the particulars of such goats or swine as specified in the several columns of the form set out in Schedule 2.
 
@@ -90,7 +90,7 @@ In this Order—
 - (c) the name and address of the person who presented such goats, sheep or swine for sale; and
 - (d) the name and address of the purchaser, if any, of such goats, sheep or swine.
 
-## 5. Purchase of animals intended for slaughter or export to a place outside Northern Ireland[^key-57a551c2c2d3360aecead5ec9bb2c617]
+## 5. Purchase of animals intended for slaughter or export to a place outside Northern Ireland[^c-57a551c2c2d3360aecead5ec9bb2c617]
 
 (1) The provisions of Articles 3(1) and (2) and 4(1), (2) and (3) shall not apply to a person who purchases an animal intended for—
 
@@ -108,11 +108,11 @@ within 7 days of such purchase.
 
 (3) A record required by paragraph (2) shall be made within 48 hours of either the slaughter or the export from Northern Ireland of each animal.
 
-## 6. Exemption for market operators[^key-f4b7beae393a66853566c5c4360860d1]
+## 6. Exemption for market operators[^c-f4b7beae393a66853566c5c4360860d1]
 
 The provisions of Articles 3(1) and (2) and 4(1), (2) and (3) shall not apply to a market operator engaged in the purchase or sale of animals in so far as he is engaged in such purchase or sale in the ordinary course of his business as a market operator.
 
-## 7. Making and retention of records[^key-d3c910caef43ca53aed56468e33ff317]
+## 7. Making and retention of records[^c-d3c910caef43ca53aed56468e33ff317]
 
 (1) A record required by this Order to be kept shall be made in permanent and legible form.
 
@@ -130,14 +130,14 @@ The provisions of Articles 3(1) and (2) and 4(1), (2) and (3) shall not apply to
 - (a) report in writing such occurrence to the Department; and
 - (b) make a new record in respect of every animal in his possession at the time of the discovery of that loss, theft or destruction.
 
-## 8. Transitional and saving provisions[^key-de09f776257a4f92e3b96f366a83ed5f]
+## 8. Transitional and saving provisions[^c-de09f776257a4f92e3b96f366a83ed5f]
 
 Notwithstanding the provisions of the Movement of Animals (Records) Order (Northern Ireland) 1980[^f00005] as in operation immediately before the commencement of this Order—
 
 - (a) any entry made in a record in respect of bovine animals and required to be kept by a person by that Order shall, if made on or after 1st February 1988, be retained by him for a period of 10 years after the making of the last entry in the record and the provisions of Article 7(4) of that Order relating to the production, inspection and taking of extracts, shall apply to that entry until the expiration of that period of 10 years; and
 - (b) any entry made in a record in respect of goats, sheep or swine required to be kept by a person by that Order shall, if made on or after 1st May 1996 be retained by him for a period of 3 years after the making of the last entry in the record and the provisions of Article 7(4) of that Order relating to the production, inspection and taking of extracts, shall apply to that entry until the expiration of that period of 3 years.
 
-## 9. Revocations[^key-5d03dcf584b308a5eba1df4f23a01068]
+## 9. Revocations[^c-5d03dcf584b308a5eba1df4f23a01068]
 
 The following Orders are hereby revoked—
 
@@ -153,7 +153,7 @@ Assistant Secretary
 
 20th March 1997.
 
-## SCHEDULE 1 — Herd Record for Bovine Animals[^key-7d15c079ccd92c49b674588ca6f6a530]
+## SCHEDULE 1 — Herd Record for Bovine Animals[^c-7d15c079ccd92c49b674588ca6f6a530]
 
 Article 3(1)
 
@@ -168,7 +168,7 @@ Article 3(1)
 </tbody>
 </table>
 
-## SCHEDULE 2 — Herd Record for Goats/Swine (each species to be detailed on a separate form[^key-1ba309c48e48cf95482157620a90b1d6]
+## SCHEDULE 2 — Herd Record for Goats/Swine (each species to be detailed on a separate form[^c-1ba309c48e48cf95482157620a90b1d6]
 
 Article 4(1)
 
@@ -183,7 +183,7 @@ Article 4(1)
 </tbody>
 </table>
 
-## SCHEDULE 3 — Flock Record for Sheep[^key-469a23eb188c91b8e0a26fabd051fd24]
+## SCHEDULE 3 — Flock Record for Sheep[^c-469a23eb188c91b8e0a26fabd051fd24]
 
 Article 4(2)
 
@@ -218,9 +218,9 @@ The main changes to the 1980 Order are as follows:
 
 [^f00001]: Footnote: [S.I. 1981/1115 (N.I. 22)](https://www.legislation.gov.uk/nisi/1981/1115) Article 60(1) was amended by [S.I. 1994/1891 (N.I. 6)](https://www.legislation.gov.uk/nisi/1994/1891) Art. 23
 
-[^key-21de416d450fc93dfd9558fc547f1ece]: Commencement: Art. 1 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/172/article/1)
+[^c-21de416d450fc93dfd9558fc547f1ece]: Commencement: Art. 1 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/172/article/1)
 
-[^key-94a4999708ca3e3fc7341143b753dc6e]: Commencement: Art. 2 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/172/article/1)
+[^c-94a4999708ca3e3fc7341143b753dc6e]: Commencement: Art. 2 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/172/article/1)
 
 [^f00002]: Footnote: *See* [S.R. 1994 No. 199](https://www.legislation.gov.uk/nisr/1994/199), Schedule
 
@@ -228,28 +228,28 @@ The main changes to the 1980 Order are as follows:
 
 [^f00004]: Footnote: [S.R. & O. (N.I.) 1964 No. 31](https://www.legislation.gov.uk/nisro/1964/31); relevant amending order is [S.R. 1986 No. 48](https://www.legislation.gov.uk/nisr/1986/48)
 
-[^key-76fd3d5983c11c4973058af314c17185]: Commencement: Art. 3 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/172/article/1)
+[^c-76fd3d5983c11c4973058af314c17185]: Commencement: Art. 3 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/172/article/1)
 
-[^key-be8800ebb94f57e30c9f8e88c8a3d71b]: Commencement: Art. 4 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/172/article/1)
+[^c-be8800ebb94f57e30c9f8e88c8a3d71b]: Commencement: Art. 4 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/172/article/1)
 
-[^key-57a551c2c2d3360aecead5ec9bb2c617]: Commencement: Art. 5 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/172/article/1)
+[^c-57a551c2c2d3360aecead5ec9bb2c617]: Commencement: Art. 5 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/172/article/1)
 
-[^key-f4b7beae393a66853566c5c4360860d1]: Commencement: Art. 6 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/172/article/1)
+[^c-f4b7beae393a66853566c5c4360860d1]: Commencement: Art. 6 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/172/article/1)
 
-[^key-d3c910caef43ca53aed56468e33ff317]: Commencement: Art. 7 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/172/article/1)
+[^c-d3c910caef43ca53aed56468e33ff317]: Commencement: Art. 7 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/172/article/1)
 
-[^key-de09f776257a4f92e3b96f366a83ed5f]: Commencement: Art. 8 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/172/article/1)
+[^c-de09f776257a4f92e3b96f366a83ed5f]: Commencement: Art. 8 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/172/article/1)
 
 [^f00005]: Footnote: [S.R. 1980 No. 195](https://www.legislation.gov.uk/nisr/1980/195)
 
-[^key-5d03dcf584b308a5eba1df4f23a01068]: Commencement: Art. 9 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/172/article/1)
+[^c-5d03dcf584b308a5eba1df4f23a01068]: Commencement: Art. 9 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/172/article/1)
 
 [^f00006]: Footnote: [S.R. 1982 No. 218](https://www.legislation.gov.uk/nisr/1982/218)
 
 [^f00007]: Footnote: [S.R. 1991 No. 9](https://www.legislation.gov.uk/nisr/1991/9)
 
-[^key-7d15c079ccd92c49b674588ca6f6a530]: Commencement: Sch. 1 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/172/article/1)
+[^c-7d15c079ccd92c49b674588ca6f6a530]: Commencement: Sch. 1 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/172/article/1)
 
-[^key-1ba309c48e48cf95482157620a90b1d6]: Commencement: Sch. 2 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/172/article/1)
+[^c-1ba309c48e48cf95482157620a90b1d6]: Commencement: Sch. 2 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/172/article/1)
 
-[^key-469a23eb188c91b8e0a26fabd051fd24]: Commencement: Sch. 3 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/172/article/1)
+[^c-469a23eb188c91b8e0a26fabd051fd24]: Commencement: Sch. 3 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/172/article/1)

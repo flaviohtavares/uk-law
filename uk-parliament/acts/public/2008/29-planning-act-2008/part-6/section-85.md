@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Decisions made by the Council on the application[^key-ae322e4f3b944015d6cbee4b6afa18e3]
+## 85. Decisions made by the Council on the application[^c-ae322e4f3b944015d6cbee4b6afa18e3]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae322e4f3b944015d6cbee4b6afa18e3]: Textual amendment: Ss. 84, 85 and cross-heading repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 36](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/36), [Sch. 25 Pt. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/20); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7](https://www.legislation.gov.uk/uksi/2012/628/article/7)
+[^c-ae322e4f3b944015d6cbee4b6afa18e3]: Textual amendment: Ss. 84, 85 and cross-heading repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 36](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/36), [Sch. 25 Pt. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/20); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7](https://www.legislation.gov.uk/uksi/2012/628/article/7)

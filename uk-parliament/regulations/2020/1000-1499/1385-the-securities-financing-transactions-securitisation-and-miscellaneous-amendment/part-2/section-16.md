@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Notification of a decision to impose requirements under regulation 15[^key-97726262f89e7c3c3cacc32988405f9b]
+## 16. Notification of a decision to impose requirements under regulation 15[^c-97726262f89e7c3c3cacc32988405f9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ it must give P written notice.
 
 ## Annotations
 
-[^key-97726262f89e7c3c3cacc32988405f9b]: Commencement: Reg. 16 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)
+[^c-97726262f89e7c3c3cacc32988405f9b]: Commencement: Reg. 16 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)

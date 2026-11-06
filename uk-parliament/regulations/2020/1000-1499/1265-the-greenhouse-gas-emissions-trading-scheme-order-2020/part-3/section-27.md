@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Installations: requirement to surrender allowances[^key-362d16e3afcf6eded7ae91726c454808]
+## 27. Installations: requirement to surrender allowances[^c-362d16e3afcf6eded7ae91726c454808]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where the operator of an installation holds a greenhouse gas emissions permit, t
 
 ## Annotations
 
-[^key-362d16e3afcf6eded7ae91726c454808]: Commencement: Art. 27 in force at 12.11.2020, see art. 2(1)
+[^c-362d16e3afcf6eded7ae91726c454808]: Commencement: Art. 27 in force at 12.11.2020, see art. 2(1)

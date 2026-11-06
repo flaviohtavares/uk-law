@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 4 — Rainbow Trout Waters where there is no Annual Close Season for Angling for Rainbow Trout[^key-bd55c8282b9faccb1026ed190be15d73]
+## SCHEDULE 4 — Rainbow Trout Waters where there is no Annual Close Season for Angling for Rainbow Trout[^c-bd55c8282b9faccb1026ed190be15d73]
 
 *Extent: N.I.*
 
@@ -86,4 +86,4 @@ Byelaw 76
 
 ## Annotations
 
-[^key-bd55c8282b9faccb1026ed190be15d73]: Commencement: Sch. 4 in operation at 1.11.1997, see [s. 1](https://www.legislation.gov.uk/nisr/1997/425/section/1)
+[^c-bd55c8282b9faccb1026ed190be15d73]: Commencement: Sch. 4 in operation at 1.11.1997, see [s. 1](https://www.legislation.gov.uk/nisr/1997/425/section/1)

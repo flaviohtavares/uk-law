@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Termination of guardianship[^key-c395b21e870a75d4618057923a161be6][^key-9e42afe06801a192874b0fdabc4035c7]
+## 48. Termination of guardianship[^c-c395b21e870a75d4618057923a161be6][^c-9e42afe06801a192874b0fdabc4035c7]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c395b21e870a75d4618057923a161be6]: Commencement: S. 48 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-c395b21e870a75d4618057923a161be6]: Commencement: S. 48 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-9e42afe06801a192874b0fdabc4035c7]: Commencement: [S. 48](https://www.legislation.gov.uk/asc/2023/3/section/48) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-9e42afe06801a192874b0fdabc4035c7]: Commencement: [S. 48](https://www.legislation.gov.uk/asc/2023/3/section/48) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

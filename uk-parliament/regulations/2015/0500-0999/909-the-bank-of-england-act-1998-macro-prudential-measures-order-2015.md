@@ -57,7 +57,7 @@ This Order may be cited as the Bank of England Act 1998 (Macro-prudential Measur
 - “**annual income**” means the amount of the annual income (gross or net of tax and national insurance) verified by the lender when deciding to provide credit to the borrower;
 - “**borrower**” means an individual who receives credit; and includes an individual acting jointly with others, and an individual acting as a trustee who receives credit jointly with other trustees;
 - “**cost benefit analysis**” means—
-  - (a) an analysis of the costs and benefits of any change in rules made pursuant to Part 9A or section 192XA[^key-d035acead83164e27ee46db101c4d522] of the Financial Services and Markets Act 2000 [^c22479171] to give effect to a subsequent direction; and
+  - (a) an analysis of the costs and benefits of any change in rules made pursuant to Part 9A or section 192XA[^c-d035acead83164e27ee46db101c4d522] of the Financial Services and Markets Act 2000 [^c22479171] to give effect to a subsequent direction; and
   - (b) where the costs and benefits can reasonably be estimated and it is reasonably practicable to produce an estimate, an estimate of those costs and of those benefits;
 - “**credit**” includes a cash loan, and any other form of financial accommodation;
 - “**debt-to-income ratio**” means the ratio, calculated by the lender when deciding to enter into a relevant mortgage contract, of the borrower's total relevant debt to the borrower's annual income;
@@ -126,12 +126,12 @@ The measures listed in the first column of the table (and any measures falling w
 - (b) the Financial Policy Committee subsequently revokes the first direction; and
 - (c) within a reasonable period of time after the revocation of the first direction, the Financial Policy Committee gives another direction to the PRA or the FCA under section 9H of the 1998 Act (“the subsequent direction”) which is in substance identical to the first direction except in relation to the values specified in the direction.
 
-(2) To the extent that the subsequent direction is implemented by way of rules pursuant to Part 9A or section 192XA[^key-dacc81df3be4b3b543688d904569cd18] of the Financial Services and Markets Act 2000 then—
+(2) To the extent that the subsequent direction is implemented by way of rules pursuant to Part 9A or section 192XA[^c-dacc81df3be4b3b543688d904569cd18] of the Financial Services and Markets Act 2000 then—
 
 - (a) sections 138I, 138K, and 139A(3) of the Financial Services and Markets Act 2000 do not apply to the FCA, but the FCA must undertake and publish, at the same time as the subsequent direction is implemented, a cost benefit analysis relating to changes implemented pursuant to the subsequent direction; and
 - (b) sections 138J and 138K of the Financial Services and Markets Act 2000 do not apply to the PRA, but the PRA must undertake and publish, at the same time as the subsequent direction is implemented, a cost benefit analysis relating to changes implemented pursuant to the subsequent direction.
 
-## 5. Review[^key-46f344ee68945953e901ceb0b91890d4]
+## 5. Review[^c-46f344ee68945953e901ceb0b91890d4]
 
 (1)  The Treasury must from time to time—
 
@@ -179,7 +179,7 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^c22479161]: Marginal citation: Inserted by section 4 of the Financial Services Act 2012.
 
-[^key-d035acead83164e27ee46db101c4d522]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/909/article/2/1) inserted (21.7.2021) by [The Bank of England Act 1998 (Macro-prudential Measures) (Amendment) Order 2021 (S.I. 2021/869)](https://www.legislation.gov.uk/uksi/2021/869), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/869/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2021/869/article/3/2)
+[^c-d035acead83164e27ee46db101c4d522]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/909/article/2/1) inserted (21.7.2021) by [The Bank of England Act 1998 (Macro-prudential Measures) (Amendment) Order 2021 (S.I. 2021/869)](https://www.legislation.gov.uk/uksi/2021/869), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/869/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2021/869/article/3/2)
 
 [^c22479171]: Marginal citation: Inserted by section 24 of the Financial Services Act 2012.
 
@@ -207,6 +207,6 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^c22479291]: Marginal citation: Inserted by SI 2013/1881, articles 2 and 6.
 
-[^key-dacc81df3be4b3b543688d904569cd18]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/2015/909/article/4/2) inserted (21.7.2021) by [The Bank of England Act 1998 (Macro-prudential Measures) (Amendment) Order 2021 (S.I. 2021/869)](https://www.legislation.gov.uk/uksi/2021/869), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/869/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2021/869/article/3/3)
+[^c-dacc81df3be4b3b543688d904569cd18]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/2015/909/article/4/2) inserted (21.7.2021) by [The Bank of England Act 1998 (Macro-prudential Measures) (Amendment) Order 2021 (S.I. 2021/869)](https://www.legislation.gov.uk/uksi/2021/869), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/869/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2021/869/article/3/3)
 
-[^key-46f344ee68945953e901ceb0b91890d4]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2015/909/article/5) inserted (21.7.2021) by [The Bank of England Act 1998 (Macro-prudential Measures) (Amendment) Order 2021 (S.I. 2021/869)](https://www.legislation.gov.uk/uksi/2021/869), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/869/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2021/869/article/3/4)
+[^c-46f344ee68945953e901ceb0b91890d4]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2015/909/article/5) inserted (21.7.2021) by [The Bank of England Act 1998 (Macro-prudential Measures) (Amendment) Order 2021 (S.I. 2021/869)](https://www.legislation.gov.uk/uksi/2021/869), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/869/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2021/869/article/3/4)

@@ -28,9 +28,9 @@ summary: ''
 
 (2) “Relevant persons” are—
 
-- (a) the Bank; [^key-4b4c66e90e5bcb0882893928c24e97ce]...
+- (a) the Bank; [^c-4b4c66e90e5bcb0882893928c24e97ce]...
 - (b) persons who are employed by, or act on behalf of, the Bank.
-- (c)[^key-6ed7a895850bc4bbd4f47cf1f24791f8] a resolution administrator appointed under section 62B of the Banking Act 2009; and
+- (c)[^c-6ed7a895850bc4bbd4f47cf1f24791f8] a resolution administrator appointed under section 62B of the Banking Act 2009; and
 - (d) a temporary manager appointed under section 71C of the Financial Services and Markets Act 2000.
 
 (3) The specified enactments are—
@@ -42,9 +42,9 @@ summary: ''
 
 ## Annotations
 
-[^key-4b4c66e90e5bcb0882893928c24e97ce]: Textual amendment: Word in art. 217(2)(a) omitted (16.12.2016) by virtue of [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [41(15)(a)](https://www.legislation.gov.uk/uksi/2016/1239/article/41/15/a)
+[^c-4b4c66e90e5bcb0882893928c24e97ce]: Textual amendment: Word in art. 217(2)(a) omitted (16.12.2016) by virtue of [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [41(15)(a)](https://www.legislation.gov.uk/uksi/2016/1239/article/41/15/a)
 
-[^key-6ed7a895850bc4bbd4f47cf1f24791f8]: Textual amendment: Art. 217(2)(c)(d) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [41(15)(b)](https://www.legislation.gov.uk/uksi/2016/1239/article/41/15/b)
+[^c-6ed7a895850bc4bbd4f47cf1f24791f8]: Textual amendment: Art. 217(2)(c)(d) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [41(15)(b)](https://www.legislation.gov.uk/uksi/2016/1239/article/41/15/b)
 
 [^c22308571]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 

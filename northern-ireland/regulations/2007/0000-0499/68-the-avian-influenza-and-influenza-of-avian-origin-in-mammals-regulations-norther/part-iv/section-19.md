@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Restrictions on confirmation of highly pathogenic avian influenza[^key-9a45c89f12b96c9d0447b41dbb7c2eb5]
+## 19. Restrictions on confirmation of highly pathogenic avian influenza[^c-9a45c89f12b96c9d0447b41dbb7c2eb5]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a45c89f12b96c9d0447b41dbb7c2eb5]: Commencement: Reg. 19 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-9a45c89f12b96c9d0447b41dbb7c2eb5]: Commencement: Reg. 19 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

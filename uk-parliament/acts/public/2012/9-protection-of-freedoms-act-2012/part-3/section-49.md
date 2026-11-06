@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Alteration or replacement of code[^key-bb98bddbb41cf86f7d1d68f5fa0af1a3]
+## 49. Alteration or replacement of code[^c-bb98bddbb41cf86f7d1d68f5fa0af1a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb98bddbb41cf86f7d1d68f5fa0af1a3]: Commencement: S. 49 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(s)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/s)
+[^c-bb98bddbb41cf86f7d1d68f5fa0af1a3]: Commencement: S. 49 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(s)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/s)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Sections 34 to 37: supplementary[^key-fce143d879f25b8730a2628d9b98df74]
+## 38. Sections 34 to 37: supplementary[^c-fce143d879f25b8730a2628d9b98df74]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fce143d879f25b8730a2628d9b98df74]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2017/4/section/38) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g)
+[^c-fce143d879f25b8730a2628d9b98df74]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2017/4/section/38) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Reply by respondent[^key-2ac148b79f4a05264582d691c99d125e]
+## 9. Reply by respondent[^c-2ac148b79f4a05264582d691c99d125e]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ac148b79f4a05264582d691c99d125e]: Commencement: Reg. 9 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-2ac148b79f4a05264582d691c99d125e]: Commencement: Reg. 9 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

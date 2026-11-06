@@ -34,7 +34,7 @@ Immigration
 
 Nationality
 
-The Immigration and Nationality (Fees)(Amendment) Regulations 2008 (revoked)[^key-f6504db436eb576533b76290152fe364]
+The Immigration and Nationality (Fees)(Amendment) Regulations 2008 (revoked)[^c-f6504db436eb576533b76290152fe364]
 
 Made
 
@@ -42,24 +42,24 @@ Made
 
 Coming into force in accordance with regulation 1
 
-[^key-f6504db436eb576533b76290152fe364]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f6504db436eb576533b76290152fe364]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f6504db436eb576533b76290152fe364]
+## 1. Citation and commencement[^c-f6504db436eb576533b76290152fe364]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-f6504db436eb576533b76290152fe364]
+## 2. Amendment[^c-f6504db436eb576533b76290152fe364]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f6504db436eb576533b76290152fe364]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f6504db436eb576533b76290152fe364]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f6504db436eb576533b76290152fe364]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f6504db436eb576533b76290152fe364]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f6504db436eb576533b76290152fe364]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/544) revoked (6.4.2009) by [The Immigration and Nationality (Fees) Regulations 2009 (S.I. 2009/816)](https://www.legislation.gov.uk/uksi/2009/816), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/816/regulation/1/1), [32(b)](https://www.legislation.gov.uk/uksi/2009/816/regulation/32/b)
+[^c-f6504db436eb576533b76290152fe364]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/544) revoked (6.4.2009) by [The Immigration and Nationality (Fees) Regulations 2009 (S.I. 2009/816)](https://www.legislation.gov.uk/uksi/2009/816), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/816/regulation/1/1), [32(b)](https://www.legislation.gov.uk/uksi/2009/816/regulation/32/b)

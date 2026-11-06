@@ -93,7 +93,7 @@ HAS ADOPTED THIS DECISION:
 
 **Article 1.** The BAT conclusions for the tanning of hides and skins are set out in the Annex to this Decision.
 
-## Article 2. Application and Interpretation[^key-5c5bdd743b9d886395a372ead99d6aff]
+## Article 2. Application and Interpretation[^c-5c5bdd743b9d886395a372ead99d6aff]
 
 (1.) The BAT conclusions referred to in Article 1 apply in the United Kingdom.
 
@@ -746,7 +746,7 @@ See Table 6.
 
 [^f00003]: Footnote: http://circa.europa.eu/Public/irc/env/ied/library?l=/ied\_art\_13\_forum/opinions\_article
 
-[^key-5c5bdd743b9d886395a372ead99d6aff]: Textual amendment: Art. 2 substituted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/9/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5c5bdd743b9d886395a372ead99d6aff]: Textual amendment: Art. 2 substituted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/9/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00004]: Footnote: [OJ L 135, 30.5.1991, p. 40](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1991.135.01.0040.01.ENG).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 308. Duty of trader to notify consumer of ADR arrangements etc[^key-35937beffa5ecb7550fa810bd74dd86f][^key-c65c8b14c1e48c5af40b33a15fcc1a57]
+## 308. Duty of trader to notify consumer of ADR arrangements etc[^c-35937beffa5ecb7550fa810bd74dd86f][^c-c65c8b14c1e48c5af40b33a15fcc1a57]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-35937beffa5ecb7550fa810bd74dd86f]: Commencement: S. 308 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-35937beffa5ecb7550fa810bd74dd86f]: Commencement: S. 308 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-c65c8b14c1e48c5af40b33a15fcc1a57]: Commencement: [S. 308](https://www.legislation.gov.uk/ukpga/2024/13/section/308) in force at 6.4.2026 by [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/2)
+[^c-c65c8b14c1e48c5af40b33a15fcc1a57]: Commencement: [S. 308](https://www.legislation.gov.uk/ukpga/2024/13/section/308) in force at 6.4.2026 by [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/2)

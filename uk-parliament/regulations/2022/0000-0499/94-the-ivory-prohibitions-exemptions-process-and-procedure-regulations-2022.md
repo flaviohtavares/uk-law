@@ -54,11 +54,11 @@ The Secretary of State has consulted the Welsh Ministers, the Scottish Ministers
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-0603a82db1991fecbe813c6889898aa6]
+### 1. Citation and commencement[^c-0603a82db1991fecbe813c6889898aa6]
 
 These Regulations may be cited as the Ivory Prohibitions (Exemptions) (Process and Procedure) Regulations 2022 and come into force on 24th February 2022.
 
-### 2. Interpretation[^key-4b63d55d38f918936682590af09fae4f]
+### 2. Interpretation[^c-4b63d55d38f918936682590af09fae4f]
 
 In these Regulations—
 
@@ -70,7 +70,7 @@ In these Regulations—
 
 ## PART 2 — Exemption for outstandingly valuable and important pre-1918 items
 
-### 3. Prescribed institutions[^key-8de01a2297c36b34dfbfb8c4f6998676]
+### 3. Prescribed institutions[^c-8de01a2297c36b34dfbfb8c4f6998676]
 
 (1) The institutions specified in the Schedule are prescribed for the purposes of section 2(5) of the Act.
 
@@ -85,7 +85,7 @@ In these Regulations—
 
 (4) Where an assessor assesses any item in accordance with section 3(3) of the Act, no duty of care is owed by the prescribed institution or the assessor in respect of that assessment to any person other than the Secretary of State.
 
-### 4. Additional information to be provided with an application for an exemption certificate[^key-c2445b054b98a04044396b356d8927fc]
+### 4. Additional information to be provided with an application for an exemption certificate[^c-c2445b054b98a04044396b356d8927fc]
 
 (1) This regulation specifies the information additional to that specified in section 3(1)(a) to (f) of the Act which the applicant must provide to the Secretary of State on making an application for an exemption certificate.
 
@@ -110,11 +110,11 @@ In these Regulations—
 
 (7) Where the applicant intends to sell or hire out the item, the applicant must provide confirmation of that intention.
 
-### 5. Fee for an application for an exemption certificate[^key-67fd3a7c5744276ab5f7f5876b3799d9]
+### 5. Fee for an application for an exemption certificate[^c-67fd3a7c5744276ab5f7f5876b3799d9]
 
 The fee prescribed under section 3(1)(h) of the Act (fee in respect of an application for an exemption certificate) is £250 per item.
 
-### 6. Information in relation to dealing in an item in respect of which an exemption certificate was issued to a different person[^key-8f2ce5e13c0f488a53faad0356aeaa51]
+### 6. Information in relation to dealing in an item in respect of which an exemption certificate was issued to a different person[^c-8f2ce5e13c0f488a53faad0356aeaa51]
 
 (1) This regulation applies where a person (“**P**”) intends to deal in an item in respect of which an exemption certificate was issued to a different person (as described in section 4(7) of the Act).
 
@@ -133,11 +133,11 @@ The fee prescribed under section 3(1)(h) of the Act (fee in respect of an applic
 
 (3) In this regulation, “**relevant information**” has the meaning specified in section 4(8) of the Act.
 
-### 7. Fee in relation to dealing in an item in respect of which an exemption certificate was issued to a different person[^key-042f47ccf07dac021a51b7c714b878ec]
+### 7. Fee in relation to dealing in an item in respect of which an exemption certificate was issued to a different person[^c-042f47ccf07dac021a51b7c714b878ec]
 
 The fee prescribed under section 4(7)(b) of the Act (fee in relation to dealing in an item in respect of which an exemption certificate was issued to a different person) is £20 per item.
 
-### 8. Appeal against refusal or revocation of an exemption certificate[^key-0ff03006021d3a643bd1459a17bde567]
+### 8. Appeal against refusal or revocation of an exemption certificate[^c-0ff03006021d3a643bd1459a17bde567]
 
 (1) Where an application for an exemption certificate is refused or an exemption certificate is revoked, the owner of the item concerned may by notice in writing require the Secretary of State to disclose—
 
@@ -171,7 +171,7 @@ a fresh application for an exemption certificate in respect of the same item may
 
 (9) Paragraphs (7) and (8) are subject to any contrary direction of a court or tribunal.
 
-### 9. Unopposed appeals[^key-a1ff8b4cd71a64def5416ea80153b6d4]
+### 9. Unopposed appeals[^c-a1ff8b4cd71a64def5416ea80153b6d4]
 
 (1) This regulation applies where—
 
@@ -184,7 +184,7 @@ a fresh application for an exemption certificate in respect of the same item may
 
 ## PART 3 — Other exemptions
 
-### 10. Information to be provided with an application for registration[^key-f6e7f668404cc6e31fef2fb1877e718f]
+### 10. Information to be provided with an application for registration[^c-f6e7f668404cc6e31fef2fb1877e718f]
 
 (1) This regulation specifies the information additional to that specified in section 10(1) of the Act (registration), which the applicant must provide to the Secretary of State on making an application for registration of an item.
 
@@ -200,7 +200,7 @@ a fresh application for an exemption certificate in respect of the same item may
 
 (5) Where the applicant intends to sell or hire out the item, confirmation of that intention.
 
-### 11. Fees to be provided with an application for registration[^key-f016040e28d499ef4d0ebf8544a20468]
+### 11. Fees to be provided with an application for registration[^c-f016040e28d499ef4d0ebf8544a20468]
 
 The fees prescribed under section 10(1)(g) of the Act (fee for registration of an item under section 10) are—
 
@@ -221,17 +221,17 @@ Department of the Environment, Food and Rural Affairs
 
 Regulation 3
 
-**1.**[^key-700dbea1d957861ad6e7865e14dfeffe] The following institutions are prescribed under section 2(5) of the Act—
+**1.**[^c-700dbea1d957861ad6e7865e14dfeffe] The following institutions are prescribed under section 2(5) of the Act—
 
-- (a) the Ashmolean Museum of Art and Archaeology , University of Oxford[^key-b340f68c1a09e84a39eee561d62e58dc];
-- (b) Glasgow Life Museums[^key-6bdef75320e866d40bd8984229ff8e85];
-- (c) the Horniman Museum and Gardens[^key-d723ec3daf784bceaed213aaf9528476];
+- (a) the Ashmolean Museum of Art and Archaeology , University of Oxford[^c-b340f68c1a09e84a39eee561d62e58dc];
+- (b) Glasgow Life Museums[^c-6bdef75320e866d40bd8984229ff8e85];
+- (c) the Horniman Museum and Gardens[^c-d723ec3daf784bceaed213aaf9528476];
 - (d) Manchester Museum; the University of Manchester;
 - (e) the National Maritime Museum;
 - (f) National Museums Scotland;
-- (g) Royal Armouries[^key-c7cc0a5c8a63c909b5919ffdfcc1aef0];
-- (h) University of Cambridge Museums and Botanic Gardens[^key-2bb5ee14cb163bf42f5a2eab0710cd15];
-- (i) the Victoria and Albert Museum ;[^key-0ccbd68f29dcf2db1c4d09db410c8d75]
+- (g) Royal Armouries[^c-c7cc0a5c8a63c909b5919ffdfcc1aef0];
+- (h) University of Cambridge Museums and Botanic Gardens[^c-2bb5ee14cb163bf42f5a2eab0710cd15];
+- (i) the Victoria and Albert Museum ;[^c-0ccbd68f29dcf2db1c4d09db410c8d75]
 - (j) National Museums and Galleries on Merseyside;
 - (k) National Museums and Galleries of Northern Ireland;
 - (l) National Museum of Wales.
@@ -256,40 +256,40 @@ An impact assessment was produced for the Ivory Bill and is available on www.leg
 
 [^f00003]: Footnote: The definition of “the Northern Ireland department” is given by section 38(1) of the Ivory Act 2018.
 
-[^key-0603a82db1991fecbe813c6889898aa6]: Commencement: Reg. 1 in force at 24.2.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/94/regulation/1)
+[^c-0603a82db1991fecbe813c6889898aa6]: Commencement: Reg. 1 in force at 24.2.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/94/regulation/1)
 
-[^key-4b63d55d38f918936682590af09fae4f]: Commencement: Reg. 2 in force at 24.2.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/94/regulation/1)
+[^c-4b63d55d38f918936682590af09fae4f]: Commencement: Reg. 2 in force at 24.2.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/94/regulation/1)
 
-[^key-8de01a2297c36b34dfbfb8c4f6998676]: Commencement: Reg. 3 in force at 24.2.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/94/regulation/1)
+[^c-8de01a2297c36b34dfbfb8c4f6998676]: Commencement: Reg. 3 in force at 24.2.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/94/regulation/1)
 
-[^key-c2445b054b98a04044396b356d8927fc]: Commencement: Reg. 4 in force at 24.2.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/94/regulation/1)
+[^c-c2445b054b98a04044396b356d8927fc]: Commencement: Reg. 4 in force at 24.2.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/94/regulation/1)
 
-[^key-67fd3a7c5744276ab5f7f5876b3799d9]: Commencement: Reg. 5 in force at 24.2.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/94/regulation/1)
+[^c-67fd3a7c5744276ab5f7f5876b3799d9]: Commencement: Reg. 5 in force at 24.2.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/94/regulation/1)
 
-[^key-8f2ce5e13c0f488a53faad0356aeaa51]: Commencement: Reg. 6 in force at 24.2.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/94/regulation/1)
+[^c-8f2ce5e13c0f488a53faad0356aeaa51]: Commencement: Reg. 6 in force at 24.2.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/94/regulation/1)
 
-[^key-042f47ccf07dac021a51b7c714b878ec]: Commencement: Reg. 7 in force at 24.2.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/94/regulation/1)
+[^c-042f47ccf07dac021a51b7c714b878ec]: Commencement: Reg. 7 in force at 24.2.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/94/regulation/1)
 
-[^key-0ff03006021d3a643bd1459a17bde567]: Commencement: Reg. 8 in force at 24.2.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/94/regulation/1)
+[^c-0ff03006021d3a643bd1459a17bde567]: Commencement: Reg. 8 in force at 24.2.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/94/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2009/1976](https://www.legislation.gov.uk/uksi/2009/1976). There are amendments to regulation 22, but none is relevant.
 
-[^key-a1ff8b4cd71a64def5416ea80153b6d4]: Commencement: Reg. 9 in force at 24.2.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/94/regulation/1)
+[^c-a1ff8b4cd71a64def5416ea80153b6d4]: Commencement: Reg. 9 in force at 24.2.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/94/regulation/1)
 
-[^key-f6e7f668404cc6e31fef2fb1877e718f]: Commencement: Reg. 10 in force at 24.2.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/94/regulation/1)
+[^c-f6e7f668404cc6e31fef2fb1877e718f]: Commencement: Reg. 10 in force at 24.2.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/94/regulation/1)
 
-[^key-f016040e28d499ef4d0ebf8544a20468]: Commencement: Reg. 11 in force at 24.2.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/94/regulation/1)
+[^c-f016040e28d499ef4d0ebf8544a20468]: Commencement: Reg. 11 in force at 24.2.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/94/regulation/1)
 
-[^key-700dbea1d957861ad6e7865e14dfeffe]: Commencement: Sch. para. 1 in force at 24.2.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/94/regulation/1)
+[^c-700dbea1d957861ad6e7865e14dfeffe]: Commencement: Sch. para. 1 in force at 24.2.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/94/regulation/1)
 
-[^key-b340f68c1a09e84a39eee561d62e58dc]: Textual amendment: Words in [Sch. para. 1(a)](https://www.legislation.gov.uk/uksi/2022/94/schedule/paragraph/1/a) inserted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2025/9/regulation/3/2/a)
+[^c-b340f68c1a09e84a39eee561d62e58dc]: Textual amendment: Words in [Sch. para. 1(a)](https://www.legislation.gov.uk/uksi/2022/94/schedule/paragraph/1/a) inserted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2025/9/regulation/3/2/a)
 
-[^key-6bdef75320e866d40bd8984229ff8e85]: Textual amendment: Words in [Sch. para. 1(b)](https://www.legislation.gov.uk/uksi/2022/94/schedule/paragraph/1/b) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2025/9/regulation/3/2/b)
+[^c-6bdef75320e866d40bd8984229ff8e85]: Textual amendment: Words in [Sch. para. 1(b)](https://www.legislation.gov.uk/uksi/2022/94/schedule/paragraph/1/b) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2025/9/regulation/3/2/b)
 
-[^key-d723ec3daf784bceaed213aaf9528476]: Textual amendment: Words in [Sch. para. 1(c)](https://www.legislation.gov.uk/uksi/2022/94/schedule/paragraph/1/c) inserted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2025/9/regulation/3/2/c)
+[^c-d723ec3daf784bceaed213aaf9528476]: Textual amendment: Words in [Sch. para. 1(c)](https://www.legislation.gov.uk/uksi/2022/94/schedule/paragraph/1/c) inserted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2025/9/regulation/3/2/c)
 
-[^key-c7cc0a5c8a63c909b5919ffdfcc1aef0]: Textual amendment: Words in [Sch. para. 1(g)](https://www.legislation.gov.uk/uksi/2022/94/schedule/paragraph/1/g) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [3(2)(d)](https://www.legislation.gov.uk/uksi/2025/9/regulation/3/2/d)
+[^c-c7cc0a5c8a63c909b5919ffdfcc1aef0]: Textual amendment: Words in [Sch. para. 1(g)](https://www.legislation.gov.uk/uksi/2022/94/schedule/paragraph/1/g) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [3(2)(d)](https://www.legislation.gov.uk/uksi/2025/9/regulation/3/2/d)
 
-[^key-2bb5ee14cb163bf42f5a2eab0710cd15]: Textual amendment: Words in [Sch. para. 1(h)](https://www.legislation.gov.uk/uksi/2022/94/schedule/paragraph/1/h) inserted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [3(2)(e)](https://www.legislation.gov.uk/uksi/2025/9/regulation/3/2/e)
+[^c-2bb5ee14cb163bf42f5a2eab0710cd15]: Textual amendment: Words in [Sch. para. 1(h)](https://www.legislation.gov.uk/uksi/2022/94/schedule/paragraph/1/h) inserted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [3(2)(e)](https://www.legislation.gov.uk/uksi/2025/9/regulation/3/2/e)
 
-[^key-0ccbd68f29dcf2db1c4d09db410c8d75]: Textual amendment: [Sch. paras. 1(j)-(l)](https://www.legislation.gov.uk/uksi/2022/94/schedule/paragraph/1/j) inserted (15.5.2025) by [The Ivory Prohibitions (Exemptions) (Process and Procedure) (Amendment) Regulations 2025 (S.I. 2025/510)](https://www.legislation.gov.uk/uksi/2025/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/510/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/510/regulation/2/2)
+[^c-0ccbd68f29dcf2db1c4d09db410c8d75]: Textual amendment: [Sch. paras. 1(j)-(l)](https://www.legislation.gov.uk/uksi/2022/94/schedule/paragraph/1/j) inserted (15.5.2025) by [The Ivory Prohibitions (Exemptions) (Process and Procedure) (Amendment) Regulations 2025 (S.I. 2025/510)](https://www.legislation.gov.uk/uksi/2025/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/510/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/510/regulation/2/2)

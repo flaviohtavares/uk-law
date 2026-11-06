@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Amendment of regulation 8 (availability of directions, determinations etc. for inspection)[^key-0f3d092d37ddeefb06f9e45118675714]
+## 32. Amendment of regulation 8 (availability of directions, determinations etc. for inspection)[^c-0f3d092d37ddeefb06f9e45118675714]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In regulation 8—
 
 ## Annotations
 
-[^key-0f3d092d37ddeefb06f9e45118675714]: Commencement: Reg. 32 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-0f3d092d37ddeefb06f9e45118675714]: Commencement: Reg. 32 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)

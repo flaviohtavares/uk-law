@@ -287,7 +287,7 @@ Regulation 11
 
 In this Schedule—
 
-- “**permit**” has the meaning given to “environmental permit” in regulation 13(1) of the Environmental Permitting (England and Wales) Regulations 2016[^key-4bd4b138178e1749403775a35759974a] and includes a marine licence granted under Part 4 of the Marine and Coastal Access Act 2009 [^c22643131];
+- “**permit**” has the meaning given to “environmental permit” in regulation 13(1) of the Environmental Permitting (England and Wales) Regulations 2016[^c-4bd4b138178e1749403775a35759974a] and includes a marine licence granted under Part 4 of the Marine and Coastal Access Act 2009 [^c22643131];
 - “**standard rule**” means any rule published under regulation 26(5) of the Environmental Permitting (England and Wales) Regulations 2016.
 
 *(This note is not part of the Regulations)*
@@ -368,6 +368,6 @@ An impact assessment has not been done for this instrument as no impact on busin
 
 [^c22643111]: Marginal citation: OJ No L 370, 30.12.2014, p.44.
 
-[^key-4bd4b138178e1749403775a35759974a]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2015/1360/schedule/2/paragraph/3) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 93](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/93) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-4bd4b138178e1749403775a35759974a]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2015/1360/schedule/2/paragraph/3) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 93](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/93) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
 [^c22643131]: Marginal citation: [2009 c.23](https://www.legislation.gov.uk/ukpga/2009/23).

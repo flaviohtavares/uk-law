@@ -60,7 +60,7 @@ In these Regulations—
 
 “EEA Agreement" means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 [^c17862511], as adjusted by the Protocol signed at Brussels on 17th March 1993 [^c17862521]; and
 
-“[^key-c1c6a8bddf0f59e67293f5dfe24f4b80]EEA state” means a member State, Iceland, Liechtenstein or Norway.
+“[^c-c1c6a8bddf0f59e67293f5dfe24f4b80]EEA state” means a member State, Iceland, Liechtenstein or Norway.
 
 ### 3. Implementation of Directive, &c.
 
@@ -453,9 +453,9 @@ The new provisions relating to duration of copyright apply—
 
 - (a) to copyright works made after commencement;
 - (b) to existing works which first qualify for copyright protection after commencement;
-- (c) to existing copyright works, subject to Regulation 15 (general saving for any longer period applicable under 1988 provisions); [^key-09ba1645e0658c7f7f358544d11aa973]...
-- (d) to existing works in which copyright expired before 31st December 1995 but which were on 1st July 1995 protected in an EEA state[^key-4ec8d19a2dd6d29d75b22ebaeb8419be] under legislation relating to copyright or related rights ; and[^key-041c7a1d9f2970907707e69e8e56c28c]
-- (e)[^key-9076c45cae9076aa1e4b06a298bd1d80] to existing works which qualify for copyright protection as a result of the disapplication of paragraph 6(1) of Schedule 1 to the 1988 Act by sub-paragraph (1A) of paragraph 6 of Schedule 1 to the 1988 Act.
+- (c) to existing copyright works, subject to Regulation 15 (general saving for any longer period applicable under 1988 provisions); [^c-09ba1645e0658c7f7f358544d11aa973]...
+- (d) to existing works in which copyright expired before 31st December 1995 but which were on 1st July 1995 protected in an EEA state[^c-4ec8d19a2dd6d29d75b22ebaeb8419be] under legislation relating to copyright or related rights ; and[^c-041c7a1d9f2970907707e69e8e56c28c]
+- (e)[^c-9076c45cae9076aa1e4b06a298bd1d80] to existing works which qualify for copyright protection as a result of the disapplication of paragraph 6(1) of Schedule 1 to the 1988 Act by sub-paragraph (1A) of paragraph 6 of Schedule 1 to the 1988 Act.
 
 #### 17. Extended and revived copyright
 
@@ -551,11 +551,11 @@ shall continue to have effect during the period of any extended copyright, subje
 
 (6) It is not an infringement of any moral right to do anything which by virtue of this Regulation is not an infringement of copyright.
 
-#### 24. Revived copyright: use as of right subject to reasonable royalty[^key-906fb15e8ad71b9cd9622428bbdc37fa]
+#### 24. Revived copyright: use as of right subject to reasonable royalty[^c-906fb15e8ad71b9cd9622428bbdc37fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 25. Revived copyright: application to Copyright Tribunal[^key-78e5e332e1205740ed87184caac5f230]
+#### 25. Revived copyright: application to Copyright Tribunal[^c-78e5e332e1205740ed87184caac5f230]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -595,7 +595,7 @@ The new provisions relating to the duration of rights under Part II of the 1988 
   - (i) in which rights under Part II of the 1988 Act expired after the commencement of that Part and before 31st December 1995, or
   - (ii) which were protected by earlier enactments relating to the protection of performers and in which rights under that Part did not arise by reason only that the performance was given at a date such that the rights would have ceased to subsist before the commencement of that Part,
 
-  but which were on 1st July 1995 protected in an EEA state[^key-ad5c671223588e623a37dd104fdb33b8] under legislation relating to copyright or related rights.
+  but which were on 1st July 1995 protected in an EEA state[^c-ad5c671223588e623a37dd104fdb33b8] under legislation relating to copyright or related rights.
 
 #### 30. Extended and revived performance rights
 
@@ -657,11 +657,11 @@ shall continue to subsist during the period of any extended performance rights, 
 - (a) in relation to the period after the commencement of the 1988 Act, to rights under Part II of that Act subsisting in relation to the performance, and
 - (b) in relation to earlier periods, to the consent of the performer being required under earlier enactments relating to the protection of performers.
 
-#### 34. Revived performance rights: use as of right subject to reasonable remuneration[^key-471589dae21b44e0621f7c7733b646b8]
+#### 34. Revived performance rights: use as of right subject to reasonable remuneration[^c-471589dae21b44e0621f7c7733b646b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 35. Revived performance rights: application to Copyright Tribunal[^key-b7aeef158e461f01f15603f3e429d935]
+#### 35. Revived performance rights: application to Copyright Tribunal[^c-b7aeef158e461f01f15603f3e429d935]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -671,17 +671,17 @@ shall continue to subsist during the period of any extended performance rights, 
 
 (1) For the purpose of the new provisions relating to the term of copyright protection applicable to a work of which the country of origin is not an EEA state and of which the author is not a national of an EEA state—
 
-- (a) a work first published before 1st July 1995 shall be treated as published in an EEA state if it was on that date regarded under the law of the United Kingdom or an EEA state[^key-b6722c42f0093183bd1a93733e307f04] as having been published in that state;
+- (a) a work first published before 1st July 1995 shall be treated as published in an EEA state if it was on that date regarded under the law of the United Kingdom or an EEA state[^c-b6722c42f0093183bd1a93733e307f04] as having been published in that state;
 - (b) an unpublished film made before 1st July 1995 shall be treated as originating in an EEA state if it was on that date regarded under the law of the United Kingdom or an EEA state as a film whose maker had his headquarters in, or was domiciled or resident in, that state; and
 - (c) the author of a work made before 1st July 1995 shall be treated as an EEA national if he was on that date regarded under the law of the United Kingdom or an EEA state as a national of that state.
 
 The references above to the law of an EEA state are to the law of that state having effect for the purposes of rights corresponding to those provided for in Part I of the 1988 Act.
 
-(2) For the purposes of the new provisions relating to the term of protection applicable to a performance where the performer is not a national of an EEA state, the performer of a performance given before 1st July 1995 shall be treated as an EEA national if he was on that date regarded under the law of the United Kingdom or an EEA state[^key-910b5c9a755f4dadd5063e1582b0f9c0] as a national of that state.
+(2) For the purposes of the new provisions relating to the term of protection applicable to a performance where the performer is not a national of an EEA state, the performer of a performance given before 1st July 1995 shall be treated as an EEA national if he was on that date regarded under the law of the United Kingdom or an EEA state[^c-910b5c9a755f4dadd5063e1582b0f9c0] as a national of that state.
 
 The reference above to the law of an EEA state is to the law of that state having effect for the purposes of rights corresponding to those provided for in Part II of the 1988 Act.
 
-(3)[^key-d3c5e2510220a5a4196ffa5171f04cce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d3c5e2510220a5a4196ffa5171f04cce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Ian Taylor,
 
@@ -763,7 +763,7 @@ Part III of the Regulations (which contains the transitional provisions and savi
 
 [^c17862521]: Marginal citation: CM 2183.
 
-[^key-c1c6a8bddf0f59e67293f5dfe24f4b80]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1995/3297/regulation/2) substituted (29.4.2006) by [The Intellectual Property (Enforcement, etc.) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028), [reg. 1](https://www.legislation.gov.uk/uksi/2006/1028/regulation/1), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2006/1028/schedule/3/paragraph/1)
+[^c-c1c6a8bddf0f59e67293f5dfe24f4b80]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1995/3297/regulation/2) substituted (29.4.2006) by [The Intellectual Property (Enforcement, etc.) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028), [reg. 1](https://www.legislation.gov.uk/uksi/2006/1028/regulation/1), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2006/1028/schedule/3/paragraph/1)
 
 [^c17862531]: Marginal citation: O.J. No. L290, 24.11.93, p.9.
 
@@ -773,26 +773,26 @@ Part III of the Regulations (which contains the transitional provisions and savi
 
 [^c17862561]: Marginal citation: [1988 c. 48](https://www.legislation.gov.uk/ukpga/1988/48).
 
-[^key-09ba1645e0658c7f7f358544d11aa973]: Textual amendment: Word in reg. 16(c) omitted (6.4.2017) by virtue of [The Copyright (Amendment) Regulations 2016 (S.I. 2016/1210)](https://www.legislation.gov.uk/uksi/2016/1210), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1210/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2016/1210/regulation/3/2/a)
+[^c-09ba1645e0658c7f7f358544d11aa973]: Textual amendment: Word in reg. 16(c) omitted (6.4.2017) by virtue of [The Copyright (Amendment) Regulations 2016 (S.I. 2016/1210)](https://www.legislation.gov.uk/uksi/2016/1210), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1210/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2016/1210/regulation/3/2/a)
 
-[^key-4ec8d19a2dd6d29d75b22ebaeb8419be]: Textual amendment: Words in reg. 16(d) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [26(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/26/2) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4ec8d19a2dd6d29d75b22ebaeb8419be]: Textual amendment: Words in reg. 16(d) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [26(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/26/2) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-041c7a1d9f2970907707e69e8e56c28c]: Textual amendment: Word in reg. 16(d) substituted (6.4.2017) by [The Copyright (Amendment) Regulations 2016 (S.I. 2016/1210)](https://www.legislation.gov.uk/uksi/2016/1210), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1210/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2016/1210/regulation/3/2/b)
+[^c-041c7a1d9f2970907707e69e8e56c28c]: Textual amendment: Word in reg. 16(d) substituted (6.4.2017) by [The Copyright (Amendment) Regulations 2016 (S.I. 2016/1210)](https://www.legislation.gov.uk/uksi/2016/1210), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1210/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2016/1210/regulation/3/2/b)
 
-[^key-9076c45cae9076aa1e4b06a298bd1d80]: Textual amendment: Reg. 16(e) inserted (6.4.2017) by [The Copyright (Amendment) Regulations 2016 (S.I. 2016/1210)](https://www.legislation.gov.uk/uksi/2016/1210), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1210/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2016/1210/regulation/3/2/c)
+[^c-9076c45cae9076aa1e4b06a298bd1d80]: Textual amendment: Reg. 16(e) inserted (6.4.2017) by [The Copyright (Amendment) Regulations 2016 (S.I. 2016/1210)](https://www.legislation.gov.uk/uksi/2016/1210), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1210/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2016/1210/regulation/3/2/c)
 
-[^key-906fb15e8ad71b9cd9622428bbdc37fa]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/uksi/1995/3297/regulation/24) revoked (6.4.2017) by [The Copyright (Amendment) Regulations 2016 (S.I. 2016/1210)](https://www.legislation.gov.uk/uksi/2016/1210), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1210/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2016/1210/regulation/3/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/1210/regulation/4))
+[^c-906fb15e8ad71b9cd9622428bbdc37fa]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/uksi/1995/3297/regulation/24) revoked (6.4.2017) by [The Copyright (Amendment) Regulations 2016 (S.I. 2016/1210)](https://www.legislation.gov.uk/uksi/2016/1210), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1210/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2016/1210/regulation/3/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/1210/regulation/4))
 
-[^key-78e5e332e1205740ed87184caac5f230]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/uksi/1995/3297/regulation/25) revoked (6.4.2017) by [The Copyright (Amendment) Regulations 2016 (S.I. 2016/1210)](https://www.legislation.gov.uk/uksi/2016/1210), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1210/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2016/1210/regulation/3/4)
+[^c-78e5e332e1205740ed87184caac5f230]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/uksi/1995/3297/regulation/25) revoked (6.4.2017) by [The Copyright (Amendment) Regulations 2016 (S.I. 2016/1210)](https://www.legislation.gov.uk/uksi/2016/1210), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1210/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2016/1210/regulation/3/4)
 
-[^key-ad5c671223588e623a37dd104fdb33b8]: Textual amendment: Words in reg. 29(d) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [26(3)](https://www.legislation.gov.uk/uksi/2019/605/regulation/26/3) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ad5c671223588e623a37dd104fdb33b8]: Textual amendment: Words in reg. 29(d) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [26(3)](https://www.legislation.gov.uk/uksi/2019/605/regulation/26/3) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-471589dae21b44e0621f7c7733b646b8]: Textual amendment: [Reg. 34](https://www.legislation.gov.uk/uksi/1995/3297/regulation/34) revoked (6.4.2017) by [The Copyright (Amendment) Regulations 2016 (S.I. 2016/1210)](https://www.legislation.gov.uk/uksi/2016/1210), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1210/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2016/1210/regulation/3/5) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/1210/regulation/5))
+[^c-471589dae21b44e0621f7c7733b646b8]: Textual amendment: [Reg. 34](https://www.legislation.gov.uk/uksi/1995/3297/regulation/34) revoked (6.4.2017) by [The Copyright (Amendment) Regulations 2016 (S.I. 2016/1210)](https://www.legislation.gov.uk/uksi/2016/1210), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1210/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2016/1210/regulation/3/5) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/1210/regulation/5))
 
-[^key-b7aeef158e461f01f15603f3e429d935]: Textual amendment: [Reg. 35](https://www.legislation.gov.uk/uksi/1995/3297/regulation/35) revoked (6.4.2017) by [The Copyright (Amendment) Regulations 2016 (S.I. 2016/1210)](https://www.legislation.gov.uk/uksi/2016/1210), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1210/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2016/1210/regulation/3/6)
+[^c-b7aeef158e461f01f15603f3e429d935]: Textual amendment: [Reg. 35](https://www.legislation.gov.uk/uksi/1995/3297/regulation/35) revoked (6.4.2017) by [The Copyright (Amendment) Regulations 2016 (S.I. 2016/1210)](https://www.legislation.gov.uk/uksi/2016/1210), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1210/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2016/1210/regulation/3/6)
 
-[^key-b6722c42f0093183bd1a93733e307f04]: Textual amendment: Words in reg. 36(1) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [26(4)(a)](https://www.legislation.gov.uk/uksi/2019/605/regulation/26/4/a) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b6722c42f0093183bd1a93733e307f04]: Textual amendment: Words in reg. 36(1) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [26(4)(a)](https://www.legislation.gov.uk/uksi/2019/605/regulation/26/4/a) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-910b5c9a755f4dadd5063e1582b0f9c0]: Textual amendment: Words in reg. 36(2) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [26(4)(a)](https://www.legislation.gov.uk/uksi/2019/605/regulation/26/4/a) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-910b5c9a755f4dadd5063e1582b0f9c0]: Textual amendment: Words in reg. 36(2) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [26(4)(a)](https://www.legislation.gov.uk/uksi/2019/605/regulation/26/4/a) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d3c5e2510220a5a4196ffa5171f04cce]: Textual amendment: Reg. 36(3) omitted (31.12.2020) by virtue of [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [26(4)(b)](https://www.legislation.gov.uk/uksi/2019/605/regulation/26/4/b) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d3c5e2510220a5a4196ffa5171f04cce]: Textual amendment: Reg. 36(3) omitted (31.12.2020) by virtue of [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [26(4)(b)](https://www.legislation.gov.uk/uksi/2019/605/regulation/26/4/b) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

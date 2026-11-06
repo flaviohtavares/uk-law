@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Co-operation between Secretary of State and other public authorities[^key-b1a0b88c8f0cacb91cece3a5b28e8ba7]
+## 64. Co-operation between Secretary of State and other public authorities[^c-b1a0b88c8f0cacb91cece3a5b28e8ba7]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1a0b88c8f0cacb91cece3a5b28e8ba7]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2018/5/section/64) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 104](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/104) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-b1a0b88c8f0cacb91cece3a5b28e8ba7]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2018/5/section/64) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 104](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/104) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))

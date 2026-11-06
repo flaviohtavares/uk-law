@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42A. Crown Application: Part 1[^key-0a57d3a2c4c763bf4cb255f36d498c8b]
+## 42A. Crown Application: Part 1[^c-0a57d3a2c4c763bf4cb255f36d498c8b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Part 1 of this Act does not bind the Crown.
 
 ## Annotations
 
-[^key-0a57d3a2c4c763bf4cb255f36d498c8b]: Textual amendment: [S. 42A](https://www.legislation.gov.uk/anaw/2014/7/section/42A) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [34(6)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/34/6)
+[^c-0a57d3a2c4c763bf4cb255f36d498c8b]: Textual amendment: [S. 42A](https://www.legislation.gov.uk/anaw/2014/7/section/42A) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [34(6)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/34/6)

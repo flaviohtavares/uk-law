@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Ancillary provisions[^key-71a5fc7667fa4b9b6412a444e2594f22]
+## 90. Ancillary provisions[^c-71a5fc7667fa4b9b6412a444e2594f22]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 10 makes further provision about the contents of a section 87 order.
 
 ## Annotations
 
-[^key-71a5fc7667fa4b9b6412a444e2594f22]: Commencement: S. 90 in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-71a5fc7667fa4b9b6412a444e2594f22]: Commencement: S. 90 in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

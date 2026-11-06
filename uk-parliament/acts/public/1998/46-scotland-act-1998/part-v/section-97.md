@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Assistance for registered political parties in the Parliament.[^key-dc21601455134e2e949c98d923702b4c]
+## 97. Assistance for registered political parties in the Parliament.[^c-dc21601455134e2e949c98d923702b4c]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc21601455134e2e949c98d923702b4c]: Textual amendment: S. 97 substituted (S.) (22.5.2021) by [Scottish Parliament (Assistance for Political Parties) Act 2021 (asp 7)](https://www.legislation.gov.uk/asp/2021/7), [ss. 1](https://www.legislation.gov.uk/asp/2021/7/section/1), [4](https://www.legislation.gov.uk/asp/2021/7/section/4) (with [s. 3](https://www.legislation.gov.uk/asp/2021/7/section/3))
+[^c-dc21601455134e2e949c98d923702b4c]: Textual amendment: S. 97 substituted (S.) (22.5.2021) by [Scottish Parliament (Assistance for Political Parties) Act 2021 (asp 7)](https://www.legislation.gov.uk/asp/2021/7), [ss. 1](https://www.legislation.gov.uk/asp/2021/7/section/1), [4](https://www.legislation.gov.uk/asp/2021/7/section/4) (with [s. 3](https://www.legislation.gov.uk/asp/2021/7/section/3))

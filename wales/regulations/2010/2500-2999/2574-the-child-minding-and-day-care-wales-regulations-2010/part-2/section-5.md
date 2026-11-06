@@ -25,7 +25,7 @@ A certificate of registration given to an applicant under section 28(2)(b) of th
 - (a) the name, address and telephone number of the appropriate office;
 - (b) the name of the person who has been registered;
 - (c) in the case of a person registered as a provider of day care, the address at which the day care is to be provided;
-- (d)[^key-cadc26815a79f92a8c0dad41257a57c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-cadc26815a79f92a8c0dad41257a57c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) where the registration is subject to any conditions, details of the conditions;
 - (f) the date of registration;
 - (g) a statement that if the child minding or day care, as the case may be, is not provided in accordance with the conditions imposed the registration may be cancelled by the Welsh Ministers;
@@ -33,4 +33,4 @@ A certificate of registration given to an applicant under section 28(2)(b) of th
 
 ## Annotations
 
-[^key-cadc26815a79f92a8c0dad41257a57c4]: Textual amendment: [Reg. 5(d)](https://www.legislation.gov.uk/wsi/2010/2574/regulation/5/d) omitted (1.4.2016) by virtue of [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2016/87/regulation/4)
+[^c-cadc26815a79f92a8c0dad41257a57c4]: Textual amendment: [Reg. 5(d)](https://www.legislation.gov.uk/wsi/2010/2574/regulation/5/d) omitted (1.4.2016) by virtue of [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2016/87/regulation/4)

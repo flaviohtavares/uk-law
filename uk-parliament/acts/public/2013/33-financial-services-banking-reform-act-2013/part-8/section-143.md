@@ -28,9 +28,9 @@ summary: ''
 (2) Subsection (3) applies to a statutory instrument that contains (with or without other provisions)—
 
 - (a) regulations under section 7 (building societies: power to make provision about ring-fencing);
-- (aa)[^key-4a62b6fea9c87a492326148920b4767a] regulations under section 41(2C) (meaning of “**digital settlement asset**”);
+- (aa)[^c-4a62b6fea9c87a492326148920b4767a] regulations under section 41(2C) (meaning of “**digital settlement asset**”);
 - (b) an order under section 41(4) (meaning of “payment system”);
-- (ba)[^key-a948b59b009aed4455516ef6425b4231] regulations under section 102B (matters to consider when imposing generally applicable requirements);
+- (ba)[^c-a948b59b009aed4455516ef6425b4231] regulations under section 102B (matters to consider when imposing generally applicable requirements);
 - (bb) regulations under section 104F (power to require imposition of generally applicable requirements);
 - (c) an order under section 145 (power to make further consequential amendments) that amends or repeals primary legislation;
 - (d) an order under paragraph 6 of Schedule 6 (conduct of FMI administration).
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4a62b6fea9c87a492326148920b4767a]: Textual amendment: [S. 143(2)(aa)](https://www.legislation.gov.uk/ukpga/2013/33/section/143/2/aa) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a), [Sch. 6 para. 48](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/48)
+[^c-4a62b6fea9c87a492326148920b4767a]: Textual amendment: [S. 143(2)(aa)](https://www.legislation.gov.uk/ukpga/2013/33/section/143/2/aa) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a), [Sch. 6 para. 48](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/48)
 
-[^key-a948b59b009aed4455516ef6425b4231]: Textual amendment: [S. 143(2)(ba)](https://www.legislation.gov.uk/ukpga/2013/33/section/143/2/ba)[(bb)](https://www.legislation.gov.uk/ukpga/2013/33/section/143/2/bb) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/10); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(vi)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/vi)
+[^c-a948b59b009aed4455516ef6425b4231]: Textual amendment: [S. 143(2)(ba)](https://www.legislation.gov.uk/ukpga/2013/33/section/143/2/ba)[(bb)](https://www.legislation.gov.uk/ukpga/2013/33/section/143/2/bb) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/10); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(vi)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/vi)

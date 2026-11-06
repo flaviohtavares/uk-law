@@ -24,7 +24,7 @@ The following Table shows provisions defining or otherwise explaining expression
 
 |  |  |
 | --- | --- |
-| accessible copy (in paragraphs 3A to 3E of Schedule 2)[^key-27e110d9720754589c9716f71bbed03a] | paragraph 3E(4) of Schedule 2 |
+| accessible copy (in paragraphs 3A to 3E of Schedule 2)[^c-27e110d9720754589c9716f71bbed03a] | paragraph 3E(4) of Schedule 2 |
 | assignment (in Scotland)[^c20327251] | section 211(1) (and section 177); |
 | broadcast (and related expressions) | section 211 (and section 6) |
 | business | section 211(1) (and section 178) |
@@ -69,7 +69,7 @@ The following Table shows provisions defining or otherwise explaining expression
 
 [^c20314881]: Textual amendment: Ss. 206-212 become Pt. 2 Ch. 4 (1.2.2006) by virtue of [The Performances (Moral Rights, etc.) Regulations 2006 (S.I. 2006/18)](https://www.legislation.gov.uk/uksi/2006/18), [reg. 4(7)](https://www.legislation.gov.uk/uksi/2006/18/regulation/4/7) (with [reg. 8](https://www.legislation.gov.uk/uksi/2006/18/regulation/8))
 
-[^key-27e110d9720754589c9716f71bbed03a]: Textual amendment: Words in s. 212 inserted (1.6.2014) by [The Copyright and Rights in Performances (Disability) Regulations 2014 (S.I. 2014/1384)](https://www.legislation.gov.uk/uksi/2014/1384), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2014/1384/schedule/paragraph/5)
+[^c-27e110d9720754589c9716f71bbed03a]: Textual amendment: Words in s. 212 inserted (1.6.2014) by [The Copyright and Rights in Performances (Disability) Regulations 2014 (S.I. 2014/1384)](https://www.legislation.gov.uk/uksi/2014/1384), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2014/1384/schedule/paragraph/5)
 
 [^c20327251]: Textual amendment: S. 212: entry inserted (1.2.2006) by [The Performances (Moral Rights, etc.) Regulations 2006 (S.I. 2006/18)](https://www.legislation.gov.uk/uksi/2006/18), [reg. 2](https://www.legislation.gov.uk/uksi/2006/18/regulation/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2006/18/schedule/paragraph/7) (with [reg. 8](https://www.legislation.gov.uk/uksi/2006/18/regulation/8))
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 72. Determination of relevant existing complaints[^key-7e10ea51bbab8397ce660186cf36a9c6][^key-0edc5fb7f97011e5dd67b18b47e83f5d]
+## 72. Determination of relevant existing complaints[^c-7e10ea51bbab8397ce660186cf36a9c6][^c-0edc5fb7f97011e5dd67b18b47e83f5d]
 
 *Extent: E+W+S*
 
@@ -41,9 +41,9 @@ summary: ''
 
 ## Annotations
 
-[^key-7e10ea51bbab8397ce660186cf36a9c6]: Commencement: Art. 72 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-7e10ea51bbab8397ce660186cf36a9c6]: Commencement: Art. 72 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-0edc5fb7f97011e5dd67b18b47e83f5d]: Commencement: [Art. 72](https://www.legislation.gov.uk/uksi/2018/1253/article/72) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-0edc5fb7f97011e5dd67b18b47e83f5d]: Commencement: [Art. 72](https://www.legislation.gov.uk/uksi/2018/1253/article/72) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00107]: Footnote: Section 228 was amended by the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), section 39 and [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881).
 

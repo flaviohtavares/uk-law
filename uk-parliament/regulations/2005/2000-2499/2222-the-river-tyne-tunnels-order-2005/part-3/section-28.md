@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Temporary use of land for maintenance of works[^key-b7f9fe6b3a42a191b148d2b71d12d091]
+## 28. Temporary use of land for maintenance of works[^c-b7f9fe6b3a42a191b148d2b71d12d091]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7f9fe6b3a42a191b148d2b71d12d091]: Commencement: Art. 28 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-b7f9fe6b3a42a191b148d2b71d12d091]: Commencement: Art. 28 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)

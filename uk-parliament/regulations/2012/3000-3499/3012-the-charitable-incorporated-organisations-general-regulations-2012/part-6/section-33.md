@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Delegation and appointment of nominees etc. by charity trustees[^key-f4a548346e3319ea31d4ce30b5819970]
+## 33. Delegation and appointment of nominees etc. by charity trustees[^c-f4a548346e3319ea31d4ce30b5819970]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f4a548346e3319ea31d4ce30b5819970]: Commencement: Reg. 33 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-f4a548346e3319ea31d4ce30b5819970]: Commencement: Reg. 33 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
 
 [^f00008]: Footnote: [2000 c. 29](https://www.legislation.gov.uk/ukpga/2000/29). There are amendments to the Act not relevant to these Regulations.

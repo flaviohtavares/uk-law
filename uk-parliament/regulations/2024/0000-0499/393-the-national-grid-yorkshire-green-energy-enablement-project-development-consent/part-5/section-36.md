@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Temporary use of land by National Grid[^key-3f07a336bcd9c5a3b499141abe41f764]
+## 36. Temporary use of land by National Grid[^c-3f07a336bcd9c5a3b499141abe41f764]
 
 *Extent: E+W+S*
 
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3f07a336bcd9c5a3b499141abe41f764]: Commencement: Art. 36 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-3f07a336bcd9c5a3b499141abe41f764]: Commencement: Art. 36 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
 [^f00071]: Footnote: [2017 c. 20](https://www.legislation.gov.uk/ukpga/2017/20).

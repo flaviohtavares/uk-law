@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-655dbf07f3df48e0d0d2cfc63c18730d] In the Proceeds of Crime Act 2002 (c. 29), after section 245 insert—
+(1)[^c-655dbf07f3df48e0d0d2cfc63c18730d] In the Proceeds of Crime Act 2002 (c. 29), after section 245 insert—
 
 > **Property freezing orders (England and Wales and Northern Ireland)**
 >
@@ -109,7 +109,7 @@ summary: ''
 >
 > (4) Before exercising any power conferred by this section, the court must (as well as giving the parties to any of the proceedings concerned an opportunity to be heard) give such an opportunity to any person who may be affected by the court's decision.
 
-(2)[^key-c7f800e0e198110695d85455d3e3e4ae] In the Proceeds of Crime Act 2002 (c. 29), after section 255 insert—
+(2)[^c-c7f800e0e198110695d85455d3e3e4ae] In the Proceeds of Crime Act 2002 (c. 29), after section 255 insert—
 
 > **Prohibitory property orders (Scotland)**
 >
@@ -220,6 +220,6 @@ summary: ''
 
 ## Annotations
 
-[^key-655dbf07f3df48e0d0d2cfc63c18730d]: Commencement: [S. 98(1)](https://www.legislation.gov.uk/ukpga/2005/15/section/98/1) in force at 1.1.2006 by [S.I. 2005/3136](https://www.legislation.gov.uk/uksi/2005/3136), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/3136/article/3/a)
+[^c-655dbf07f3df48e0d0d2cfc63c18730d]: Commencement: [S. 98(1)](https://www.legislation.gov.uk/ukpga/2005/15/section/98/1) in force at 1.1.2006 by [S.I. 2005/3136](https://www.legislation.gov.uk/uksi/2005/3136), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/3136/article/3/a)
 
-[^key-c7f800e0e198110695d85455d3e3e4ae]: Commencement: [S. 98(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/98/2) in force at 1.1.2006 by [S.I. 2005/3136](https://www.legislation.gov.uk/uksi/2005/3136), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/3136/article/2/a)
+[^c-c7f800e0e198110695d85455d3e3e4ae]: Commencement: [S. 98(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/98/2) in force at 1.1.2006 by [S.I. 2005/3136](https://www.legislation.gov.uk/uksi/2005/3136), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/3136/article/2/a)

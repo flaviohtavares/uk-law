@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Discretionary housing payments[^key-7711d6cf27e4e8a483bccda224afebe6]
+## 25. Discretionary housing payments[^c-7711d6cf27e4e8a483bccda224afebe6]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ In Section F1 of Part 2 of Schedule 5 to the Scotland Act 1998, in the Exception
 
 ## Annotations
 
-[^key-7711d6cf27e4e8a483bccda224afebe6]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2016/11/section/25) in force at 1.4.2017 by [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 4](https://www.legislation.gov.uk/uksi/2016/759/regulation/4)
+[^c-7711d6cf27e4e8a483bccda224afebe6]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2016/11/section/25) in force at 1.4.2017 by [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 4](https://www.legislation.gov.uk/uksi/2016/759/regulation/4)

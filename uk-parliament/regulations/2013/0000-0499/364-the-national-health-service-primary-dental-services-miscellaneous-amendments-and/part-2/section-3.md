@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Amendment of regulation 2[^key-fc9a227b333cb39965ef6f2f94b79546]
+## 3. Amendment of regulation 2[^c-fc9a227b333cb39965ef6f2f94b79546]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc9a227b333cb39965ef6f2f94b79546]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/364/regulation/3) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-fc9a227b333cb39965ef6f2f94b79546]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/364/regulation/3) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Section 105 (insurance business transfer schemes)[^key-b6c3a087c85b0a4d88d8ce4af6939c21]
+## 32. Section 105 (insurance business transfer schemes)[^c-b6c3a087c85b0a4d88d8ce4af6939c21]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 (2) In subsection (1)—
 
 - (a) in paragraph (a) for “one of the conditions” substitute “ the condition ”;
-- (b) in paragraph (b) for “an EEA State” substitute “ the United Kingdom or Gibraltar[^key-4251b5ae74016293452646591b5603c8] ”.
+- (b) in paragraph (b) for “an EEA State” substitute “ the United Kingdom or Gibraltar[^c-4251b5ae74016293452646591b5603c8] ”.
 
 (3) For subsection (2) [^c23657541] substitute—
 
@@ -45,9 +45,9 @@ summary: ''
 
 ## Annotations
 
-[^key-b6c3a087c85b0a4d88d8ce4af6939c21]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-b6c3a087c85b0a4d88d8ce4af6939c21]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-4251b5ae74016293452646591b5603c8]: Textual amendment: Words in reg. 32(2)(b) inserted (31.12.2020 immediately before IP completion day) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/3), [9(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/9/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4251b5ae74016293452646591b5603c8]: Textual amendment: Words in reg. 32(2)(b) inserted (31.12.2020 immediately before IP completion day) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/3), [9(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/9/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23657541]: Marginal citation: Subsection (2) was amended by [S.I. 2007/3253](https://www.legislation.gov.uk/uksi/2007/3253) and paragraph 2 of Schedule 1 to the Financial Services (Banking Reform) Act 2013.
 

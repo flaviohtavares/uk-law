@@ -32,7 +32,7 @@ summary: ''
 
 Overseas Territories
 
-The Libya (Restrictive Measures) (Overseas Territories) (Amendment) Order 2011 (revoked)[^key-5578c90870b74483670a59bcc89b4809]
+The Libya (Restrictive Measures) (Overseas Territories) (Amendment) Order 2011 (revoked)[^c-5578c90870b74483670a59bcc89b4809]
 
 Made
 
@@ -52,24 +52,24 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-5578c90870b74483670a59bcc89b4809]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5578c90870b74483670a59bcc89b4809]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and application[^key-5578c90870b74483670a59bcc89b4809]
+## 1. Citation, commencement, extent and application[^c-5578c90870b74483670a59bcc89b4809]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the principal Order[^key-5578c90870b74483670a59bcc89b4809]
+## 2. Amendments to the principal Order[^c-5578c90870b74483670a59bcc89b4809]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5578c90870b74483670a59bcc89b4809]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5578c90870b74483670a59bcc89b4809]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5578c90870b74483670a59bcc89b4809]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5578c90870b74483670a59bcc89b4809]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5578c90870b74483670a59bcc89b4809]: Textual amendment: Order revoked (15.1.2021) by [The Libya (Sanctions) (Overseas Territories) Order 2021 (S.I. 2021/37)](https://www.legislation.gov.uk/uksi/2021/37), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/37/regulation/1/1), [5(1)(b)](https://www.legislation.gov.uk/uksi/2021/37/regulation/5/1/b)
+[^c-5578c90870b74483670a59bcc89b4809]: Textual amendment: Order revoked (15.1.2021) by [The Libya (Sanctions) (Overseas Territories) Order 2021 (S.I. 2021/37)](https://www.legislation.gov.uk/uksi/2021/37), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/37/regulation/1/1), [5(1)(b)](https://www.legislation.gov.uk/uksi/2021/37/regulation/5/1/b)

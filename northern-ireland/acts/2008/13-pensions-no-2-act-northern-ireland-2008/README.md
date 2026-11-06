@@ -38,9 +38,9 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## Contents
 
-### PART 1 — PENSION SCHEME MEMBERSHIP FOR JOBHOLDERS[^key-295e4dd8d1f46032118beafb1e305989]
+### PART 1 — PENSION SCHEME MEMBERSHIP FOR JOBHOLDERS[^c-295e4dd8d1f46032118beafb1e305989]
 
-#### CHAPTER 1 — EMPLOYERS' DUTIES[^key-295e4dd8d1f46032118beafb1e305989]
+#### CHAPTER 1 — EMPLOYERS' DUTIES[^c-295e4dd8d1f46032118beafb1e305989]
 
 *Extent: N.I.*
 
@@ -70,7 +70,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 - [Section 11 — Information to be given to the Pensions Regulator](part-1/section-11.md)
 - [Section 12 — Introduction of employers' duties](part-1/section-12.md)
 
-##### Qualifying earnings and earnings trigger[^key-f507f61a02d021176a4a613481c80097]
+##### Qualifying earnings and earnings trigger[^c-f507f61a02d021176a4a613481c80097]
 
 *Extent: N.I.*
 
@@ -199,7 +199,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 *Extent: N.I.*
 
-##### Exceptions[^key-de78c426201d9e3e676c675ad00429ac]
+##### Exceptions[^c-de78c426201d9e3e676c675ad00429ac]
 
 - [Section 69A — Power to create exceptions from the employer duties etc.](part-1/section-69a.md)
 
@@ -311,8 +311,8 @@ SCHEDULES
 
 ## Annotations
 
-[^key-295e4dd8d1f46032118beafb1e305989]: Modification: Pt. 1 applied (with modifications) (1.7.2012) by [The Automatic Enrolment (Offshore Employment) Order 2012 (S.I. 2012/1388)](https://www.legislation.gov.uk/uksi/2012/1388), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1388/article/1/1), [2](https://www.legislation.gov.uk/uksi/2012/1388/article/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1388/article/5))
+[^c-295e4dd8d1f46032118beafb1e305989]: Modification: Pt. 1 applied (with modifications) (1.7.2012) by [The Automatic Enrolment (Offshore Employment) Order 2012 (S.I. 2012/1388)](https://www.legislation.gov.uk/uksi/2012/1388), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1388/article/1/1), [2](https://www.legislation.gov.uk/uksi/2012/1388/article/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1388/article/5))
 
-[^key-f507f61a02d021176a4a613481c80097]: Textual amendment: S. 13 crossheading substituted (7.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 9(2)](https://www.legislation.gov.uk/nia/2012/3/section/9/2), [34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3); [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(d)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/d)
+[^c-f507f61a02d021176a4a613481c80097]: Textual amendment: S. 13 crossheading substituted (7.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 9(2)](https://www.legislation.gov.uk/nia/2012/3/section/9/2), [34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3); [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(d)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/d)
 
-[^key-de78c426201d9e3e676c675ad00429ac]: Textual amendment: S. 69A and preceding cross-heading inserted (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 37(2)](https://www.legislation.gov.uk/nia/2015/5/section/37/2), [53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/c)
+[^c-de78c426201d9e3e676c675ad00429ac]: Textual amendment: S. 69A and preceding cross-heading inserted (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 37(2)](https://www.legislation.gov.uk/nia/2015/5/section/37/2), [53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/c)

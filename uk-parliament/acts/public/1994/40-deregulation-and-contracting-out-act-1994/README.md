@@ -33,7 +33,7 @@ An Act to amend, and make provision for the amendment of, statutory provisions a
 
 \[3rd November 1994\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-f76d096291c5886e6eb5bdb3b48a2777]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-f76d096291c5886e6eb5bdb3b48a2777]
 
 ## Contents
 
@@ -134,7 +134,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 67 — Disqualification of PSV operators.](part-i/section-67.md)
 - [Section 68 — Chapter IV: minor and consequential amendments.](part-i/section-68.md)
 
-### Part II — Contracting Out[^c1365737][^key-a037072aee28191e2493cdc236f795bf][^key-38f5bdb04bc9d54e60499adfcbd6ce97][^key-c788917f9cc9c5736142dd53a566f197][^key-3d0ad41ec0b1acd95963a4419b0765b9]
+### Part II — Contracting Out[^c1365737][^c-a037072aee28191e2493cdc236f795bf][^c-38f5bdb04bc9d54e60499adfcbd6ce97][^c-c788917f9cc9c5736142dd53a566f197][^c-3d0ad41ec0b1acd95963a4419b0765b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -195,7 +195,7 @@ SCHEDULES
 
 ## Annotations
 
-[^key-f76d096291c5886e6eb5bdb3b48a2777]: Modification: Act transitional provisions for effects of SI 2002/3150 (N.I.) (5.9.2003) by [The Company Directors Disqualification (2002 Order) (Transitional Provisions) Order (Northern Ireland) 2003 (S.R. 2003/346)](https://www.legislation.gov.uk/nisr/2003/346), [arts. 3-6](https://www.legislation.gov.uk/nisr/2003/346/article/3)
+[^c-f76d096291c5886e6eb5bdb3b48a2777]: Modification: Act transitional provisions for effects of SI 2002/3150 (N.I.) (5.9.2003) by [The Company Directors Disqualification (2002 Order) (Transitional Provisions) Order (Northern Ireland) 2003 (S.R. 2003/346)](https://www.legislation.gov.uk/nisr/2003/346), [arts. 3-6](https://www.legislation.gov.uk/nisr/2003/346/article/3)
 
 [^c1365720]: Textual amendment: [Pt. I Chapter III](https://www.legislation.gov.uk/ukpga/1994/40/part/I) (ss. 41-57) repealed (1.1.1996) by [1995 c. 23](https://www.legislation.gov.uk/ukpga/1995/23), [s. 60(2)](https://www.legislation.gov.uk/ukpga/1995/23/section/60/2), [Sch. 8 Pt. I](https://www.legislation.gov.uk/ukpga/1995/23/schedule/8/part/I) (with [ss. 54](https://www.legislation.gov.uk/ukpga/1995/23/section/54), [55](https://www.legislation.gov.uk/ukpga/1995/23/section/55)); [S.I. 1995/2181](https://www.legislation.gov.uk/uksi/1995/2181), [art. 2](https://www.legislation.gov.uk/uksi/1995/2181/article/2) (with transitional provisions in [Sch.](https://www.legislation.gov.uk/uksi/1995/2181/schedule))
 
@@ -205,10 +205,10 @@ SCHEDULES
 
     Pt. 2 (ss. 69-79) modified (1.10.2001 (W.) 25.3.2002 (E.) for specified purposes, otherwise*prosp.*) by [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14), [ss. 67(7)](https://www.legislation.gov.uk/ukpga/2000/14/section/67/7), [122](https://www.legislation.gov.uk/ukpga/2000/14/section/122); [S.I. 2001/2538](https://www.legislation.gov.uk/uksi/2001/2538), [art. 2(2)(4)(a)](https://www.legislation.gov.uk/uksi/2001/2538/article/2/2/4/a); [S.I. 2002/1245](https://www.legislation.gov.uk/uksi/2002/1245), [art. 2](https://www.legislation.gov.uk/uksi/2002/1245/article/2)
 
-[^key-a037072aee28191e2493cdc236f795bf]: Modification: Pt. 2 modified (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [ss. 1(7)](https://www.legislation.gov.uk/ukpga/2003/21/section/1/7), [411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-a037072aee28191e2493cdc236f795bf]: Modification: Pt. 2 modified (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [ss. 1(7)](https://www.legislation.gov.uk/ukpga/2003/21/section/1/7), [411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-38f5bdb04bc9d54e60499adfcbd6ce97]: Modification: Pt. 2 applied (with modifications) (E.W.) (22.7.2004) by [The Chilterns Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1778)](https://www.legislation.gov.uk/uksi/2004/1778), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1778/article/1), [34](https://www.legislation.gov.uk/uksi/2004/1778/article/34)
+[^c-38f5bdb04bc9d54e60499adfcbd6ce97]: Modification: Pt. 2 applied (with modifications) (E.W.) (22.7.2004) by [The Chilterns Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1778)](https://www.legislation.gov.uk/uksi/2004/1778), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1778/article/1), [34](https://www.legislation.gov.uk/uksi/2004/1778/article/34)
 
-[^key-c788917f9cc9c5736142dd53a566f197]: Modification: Pt. 2 modified (E.W.) (22.7.2004) by [The Cotswolds Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1777)](https://www.legislation.gov.uk/uksi/2004/1777), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1777/article/1), [34](https://www.legislation.gov.uk/uksi/2004/1777/article/34)
+[^c-c788917f9cc9c5736142dd53a566f197]: Modification: Pt. 2 modified (E.W.) (22.7.2004) by [The Cotswolds Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1777)](https://www.legislation.gov.uk/uksi/2004/1777), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1777/article/1), [34](https://www.legislation.gov.uk/uksi/2004/1777/article/34)
 
-[^key-3d0ad41ec0b1acd95963a4419b0765b9]: Modification: Pt. 2 modified (2.12.2019) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 46(4)](https://www.legislation.gov.uk/ukpga/2017/16/section/46/4), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/f)
+[^c-3d0ad41ec0b1acd95963a4419b0765b9]: Modification: Pt. 2 modified (2.12.2019) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 46(4)](https://www.legislation.gov.uk/ukpga/2017/16/section/46/4), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/f)

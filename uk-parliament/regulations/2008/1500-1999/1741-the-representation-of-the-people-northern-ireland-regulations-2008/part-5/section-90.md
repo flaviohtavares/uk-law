@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 90. Abandoned poll[^key-d83152a7a0108760918ef3e853bfa357]
+## 90. Abandoned poll[^c-d83152a7a0108760918ef3e853bfa357]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ Where a poll is abandoned or countermanded after postal ballot papers have been 
 
 ## Annotations
 
-[^key-d83152a7a0108760918ef3e853bfa357]: Modification: [Reg. 90](https://www.legislation.gov.uk/uksi/2008/1741/regulation/90) modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 8 para. 49](https://www.legislation.gov.uk/ukpga/2011/1/schedule/8/paragraph/49)
+[^c-d83152a7a0108760918ef3e853bfa357]: Modification: [Reg. 90](https://www.legislation.gov.uk/uksi/2008/1741/regulation/90) modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 8 para. 49](https://www.legislation.gov.uk/ukpga/2011/1/schedule/8/paragraph/49)

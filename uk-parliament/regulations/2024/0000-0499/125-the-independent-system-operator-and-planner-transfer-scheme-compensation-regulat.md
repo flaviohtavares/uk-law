@@ -46,15 +46,15 @@ Coming into force
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by sections 174 and 331(2)(b) of, and paragraphs 8(4) and 8(5) of Schedule 9 to, the Energy Act 2023[^f00001].
 
-## 1. Citation, commencement and extent[^key-e178a040fd837b020639e8aa9b38b955]
+## 1. Citation, commencement and extent[^c-e178a040fd837b020639e8aa9b38b955]
 
 (1) These Regulations may be cited as the Independent System Operator and Planner Transfer Scheme Compensation Regulations 2024.
 
-(2) These Regulations come into force on 5th March 2024[^key-15e178c9605e080f8a8c916ccdaed52f].
+(2) These Regulations come into force on 5th March 2024[^c-15e178c9605e080f8a8c916ccdaed52f].
 
 (3) These Regulations extend to England and Wales and Scotland.
 
-## 2. Interpretation[^key-f7e9fe06ee4f4ef470f3be695b4a5b0f]
+## 2. Interpretation[^c-f7e9fe06ee4f4ef470f3be695b4a5b0f]
 
 (1) In these Regulations—
 
@@ -73,7 +73,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (2) A reference in these Regulations to a Schedule is to that Schedule to the Act.
 
-## 3. Absence of agreement regarding compensation[^key-45fd9436ba40bd88b148bf2e3db32ebc]
+## 3. Absence of agreement regarding compensation[^c-45fd9436ba40bd88b148bf2e3db32ebc]
 
 (1) There is an absence of agreement regarding compensation, for the purpose of paragraph 8(2)(b) of Schedule 9, when the conditions in paragraph (2) are satisfied.
 
@@ -85,7 +85,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (3) A written notice by the transferor agreeing to the transfer offer may not contain modifications to the transfer offer.
 
-## 4. Transfer offers and draft offers[^key-48515fcf7a4c8ca8ac3685e5f2f49d4f]
+## 4. Transfer offers and draft offers[^c-48515fcf7a4c8ca8ac3685e5f2f49d4f]
 
 (1) Draft offers and transfer offers must be in writing.
 
@@ -95,7 +95,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (4) Where the Secretary of State makes a draft offer or a transfer offer, the Secretary of State is under no obligation to make a transfer scheme, or to enter into contractual arrangements, on the terms set out in the draft offer or transfer offer.
 
-## 5. Transfer documents[^key-af58e938d7afc08024e553db52b9eb98]
+## 5. Transfer documents[^c-af58e938d7afc08024e553db52b9eb98]
 
 In these Regulations “**transfer documents**” means a set of documents comprising—
 
@@ -106,7 +106,7 @@ In these Regulations “**transfer documents**” means a set of documents compr
 
 from which the proposed compensation can be assessed.
 
-## 6. Absence of agreement regarding valuer[^key-d2a4d8b6d826ec7198a6fc895ac3225a]
+## 6. Absence of agreement regarding valuer[^c-d2a4d8b6d826ec7198a6fc895ac3225a]
 
 (1) There is an absence of agreement regarding appointment of a valuer for the purpose of paragraph 8(3)(b) of Schedule 9 when the conditions in paragraphs (2) and (3) are satisfied.
 
@@ -121,7 +121,7 @@ from which the proposed compensation can be assessed.
 
 (4) The conditions in paragraphs (2) and (3) may be satisfied before there is absence of agreement regarding compensation under regulation 3.
 
-## 7. Proposals for and appointment of a valuer[^key-285593abc0c7929d902606ce6a40aa97]
+## 7. Proposals for and appointment of a valuer[^c-285593abc0c7929d902606ce6a40aa97]
 
 (1) In proposing or appointing a valuer the Secretary of State and the transferor must have regard to—
 
@@ -134,7 +134,7 @@ from which the proposed compensation can be assessed.
 
 (2) The valuer may be an individual or an organisation.
 
-## 8. Procedure for valuer compensation determination and valuation party representations[^key-38af22334a715f634e40b30b8e00d8b5]
+## 8. Procedure for valuer compensation determination and valuation party representations[^c-38af22334a715f634e40b30b8e00d8b5]
 
 (1) In making a compensation determination the valuer must—
 
@@ -179,7 +179,7 @@ from which the proposed compensation can be assessed.
 
 (14) If the valuer considers that revision may be necessary, the valuer must provide a draft of the revision to the valuation parties and grant the valuation parties the opportunity to respond in writing within a period of 5 working days beginning on the day after that on which the draft revision is provided, before re-issuing the compensation determination, which may include revisions.
 
-## 9. Factors applicable to compensation determination[^key-eb76eddefdd05ffb3e01c1cbd6b5a8da]
+## 9. Factors applicable to compensation determination[^c-eb76eddefdd05ffb3e01c1cbd6b5a8da]
 
 (1) In making a compensation determination the valuer must have regard to—
 
@@ -207,7 +207,7 @@ from which the proposed compensation can be assessed.
 
 (3) The compensation determination may conclude that the compensation that the transferor is entitled to is higher or lower than or the same as the level set out in the valuation documents.
 
-## 10. Information required by the valuer[^key-75e6b5ecb8cf689d370d627a79270684]
+## 10. Information required by the valuer[^c-75e6b5ecb8cf689d370d627a79270684]
 
 (1) The valuation parties must provide the valuer with such information and assistance, within such period, as the valuer reasonably requires to make a compensation determination.
 
@@ -217,11 +217,11 @@ from which the proposed compensation can be assessed.
 
 (4) A valuation party that provides any information or document to the valuer under paragraph (1) or makes any representations to the valuer, must at the same time also provide the other valuation party with a copy or other means of accessing the relevant information, document or representations.
 
-## 11. Transfer scheme compensation[^key-7f36d1a120147616a32ad1c153544123]
+## 11. Transfer scheme compensation[^c-7f36d1a120147616a32ad1c153544123]
 
 If the Secretary of State makes a transfer scheme based on transfer documents within six months of a valuer providing a compensation determination relating to materially the same transfer documents (including with any adjustments to them of the nature recommended by the valuer in the compensation determination pursuant to regulation 8(5)(c)), then the compensation to which the transferor is entitled is as set out in the compensation determination, unless the valuation parties agree otherwise.
 
-## 12. Independent valuer remuneration[^key-2e0a2d020e3f5d87fc5f706b022dd510]
+## 12. Independent valuer remuneration[^c-2e0a2d020e3f5d87fc5f706b022dd510]
 
 (1) It is the responsibility of the Secretary of State to pay the valuer’s remuneration and expenses.
 
@@ -261,11 +261,11 @@ A full Impact Assessment has not been published in support of this instrument, 
 
 [^f00001]: Footnote: [2023 c. 52](https://www.legislation.gov.uk/ukpga/2023/52).
 
-[^key-e178a040fd837b020639e8aa9b38b955]: Commencement: Reg. 1 in force at 5.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/125/regulation/1/2) (as amended by [S.I. 2024/134](https://www.legislation.gov.uk/uksi/2024/134), [reg. 2](https://www.legislation.gov.uk/uksi/2024/134/regulation/2))
+[^c-e178a040fd837b020639e8aa9b38b955]: Commencement: Reg. 1 in force at 5.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/125/regulation/1/2) (as amended by [S.I. 2024/134](https://www.legislation.gov.uk/uksi/2024/134), [reg. 2](https://www.legislation.gov.uk/uksi/2024/134/regulation/2))
 
-[^key-15e178c9605e080f8a8c916ccdaed52f]: Textual amendment: Words in reg. 1(2) substituted (4.3.2024) by [The Independent System Operator and Planner Transfer Scheme Compensation (Amendment) Regulations 2024 (S.I. 2024/134)](https://www.legislation.gov.uk/uksi/2024/134), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/134/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2024/134/regulation/2)
+[^c-15e178c9605e080f8a8c916ccdaed52f]: Textual amendment: Words in reg. 1(2) substituted (4.3.2024) by [The Independent System Operator and Planner Transfer Scheme Compensation (Amendment) Regulations 2024 (S.I. 2024/134)](https://www.legislation.gov.uk/uksi/2024/134), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/134/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2024/134/regulation/2)
 
-[^key-f7e9fe06ee4f4ef470f3be695b4a5b0f]: Commencement: Reg. 2 in force at 5.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/125/regulation/1/2) (as amended by [S.I. 2024/134](https://www.legislation.gov.uk/uksi/2024/134), [reg. 2](https://www.legislation.gov.uk/uksi/2024/134/regulation/2))
+[^c-f7e9fe06ee4f4ef470f3be695b4a5b0f]: Commencement: Reg. 2 in force at 5.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/125/regulation/1/2) (as amended by [S.I. 2024/134](https://www.legislation.gov.uk/uksi/2024/134), [reg. 2](https://www.legislation.gov.uk/uksi/2024/134/regulation/2))
 
 [^f00002]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 6(1)(b) was substituted by section 136(1) of the Energy Act [2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20).
 
@@ -275,24 +275,24 @@ A full Impact Assessment has not been published in support of this instrument, 
 
 [^f00005]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-45fd9436ba40bd88b148bf2e3db32ebc]: Commencement: Reg. 3 in force at 5.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/125/regulation/1/2) (as amended by [S.I. 2024/134](https://www.legislation.gov.uk/uksi/2024/134), [reg. 2](https://www.legislation.gov.uk/uksi/2024/134/regulation/2))
+[^c-45fd9436ba40bd88b148bf2e3db32ebc]: Commencement: Reg. 3 in force at 5.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/125/regulation/1/2) (as amended by [S.I. 2024/134](https://www.legislation.gov.uk/uksi/2024/134), [reg. 2](https://www.legislation.gov.uk/uksi/2024/134/regulation/2))
 
-[^key-48515fcf7a4c8ca8ac3685e5f2f49d4f]: Commencement: Reg. 4 in force at 5.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/125/regulation/1/2) (as amended by [S.I. 2024/134](https://www.legislation.gov.uk/uksi/2024/134), [reg. 2](https://www.legislation.gov.uk/uksi/2024/134/regulation/2))
+[^c-48515fcf7a4c8ca8ac3685e5f2f49d4f]: Commencement: Reg. 4 in force at 5.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/125/regulation/1/2) (as amended by [S.I. 2024/134](https://www.legislation.gov.uk/uksi/2024/134), [reg. 2](https://www.legislation.gov.uk/uksi/2024/134/regulation/2))
 
-[^key-af58e938d7afc08024e553db52b9eb98]: Commencement: Reg. 5 in force at 5.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/125/regulation/1/2) (as amended by [S.I. 2024/134](https://www.legislation.gov.uk/uksi/2024/134), [reg. 2](https://www.legislation.gov.uk/uksi/2024/134/regulation/2))
+[^c-af58e938d7afc08024e553db52b9eb98]: Commencement: Reg. 5 in force at 5.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/125/regulation/1/2) (as amended by [S.I. 2024/134](https://www.legislation.gov.uk/uksi/2024/134), [reg. 2](https://www.legislation.gov.uk/uksi/2024/134/regulation/2))
 
-[^key-d2a4d8b6d826ec7198a6fc895ac3225a]: Commencement: Reg. 6 in force at 5.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/125/regulation/1/2) (as amended by [S.I. 2024/134](https://www.legislation.gov.uk/uksi/2024/134), [reg. 2](https://www.legislation.gov.uk/uksi/2024/134/regulation/2))
+[^c-d2a4d8b6d826ec7198a6fc895ac3225a]: Commencement: Reg. 6 in force at 5.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/125/regulation/1/2) (as amended by [S.I. 2024/134](https://www.legislation.gov.uk/uksi/2024/134), [reg. 2](https://www.legislation.gov.uk/uksi/2024/134/regulation/2))
 
-[^key-285593abc0c7929d902606ce6a40aa97]: Commencement: Reg. 7 in force at 5.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/125/regulation/1/2) (as amended by [S.I. 2024/134](https://www.legislation.gov.uk/uksi/2024/134), [reg. 2](https://www.legislation.gov.uk/uksi/2024/134/regulation/2))
+[^c-285593abc0c7929d902606ce6a40aa97]: Commencement: Reg. 7 in force at 5.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/125/regulation/1/2) (as amended by [S.I. 2024/134](https://www.legislation.gov.uk/uksi/2024/134), [reg. 2](https://www.legislation.gov.uk/uksi/2024/134/regulation/2))
 
-[^key-38af22334a715f634e40b30b8e00d8b5]: Commencement: Reg. 8 in force at 5.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/125/regulation/1/2) (as amended by [S.I. 2024/134](https://www.legislation.gov.uk/uksi/2024/134), [reg. 2](https://www.legislation.gov.uk/uksi/2024/134/regulation/2))
+[^c-38af22334a715f634e40b30b8e00d8b5]: Commencement: Reg. 8 in force at 5.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/125/regulation/1/2) (as amended by [S.I. 2024/134](https://www.legislation.gov.uk/uksi/2024/134), [reg. 2](https://www.legislation.gov.uk/uksi/2024/134/regulation/2))
 
 [^f00006]: Footnote: Available online at https://www.rics.org/content/dam/ricsglobal/documents/standards/ivsc\_effective\_31\_jan\_2022.pdf, starting at page 22. For information on how to obtain a hard copy, contact NESO@energysecurity.gov.uk.
 
-[^key-eb76eddefdd05ffb3e01c1cbd6b5a8da]: Commencement: Reg. 9 in force at 5.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/125/regulation/1/2) (as amended by [S.I. 2024/134](https://www.legislation.gov.uk/uksi/2024/134), [reg. 2](https://www.legislation.gov.uk/uksi/2024/134/regulation/2))
+[^c-eb76eddefdd05ffb3e01c1cbd6b5a8da]: Commencement: Reg. 9 in force at 5.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/125/regulation/1/2) (as amended by [S.I. 2024/134](https://www.legislation.gov.uk/uksi/2024/134), [reg. 2](https://www.legislation.gov.uk/uksi/2024/134/regulation/2))
 
-[^key-75e6b5ecb8cf689d370d627a79270684]: Commencement: Reg. 10 in force at 5.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/125/regulation/1/2) (as amended by [S.I. 2024/134](https://www.legislation.gov.uk/uksi/2024/134), [reg. 2](https://www.legislation.gov.uk/uksi/2024/134/regulation/2))
+[^c-75e6b5ecb8cf689d370d627a79270684]: Commencement: Reg. 10 in force at 5.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/125/regulation/1/2) (as amended by [S.I. 2024/134](https://www.legislation.gov.uk/uksi/2024/134), [reg. 2](https://www.legislation.gov.uk/uksi/2024/134/regulation/2))
 
-[^key-7f36d1a120147616a32ad1c153544123]: Commencement: Reg. 11 in force at 5.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/125/regulation/1/2) (as amended by [S.I. 2024/134](https://www.legislation.gov.uk/uksi/2024/134), [reg. 2](https://www.legislation.gov.uk/uksi/2024/134/regulation/2))
+[^c-7f36d1a120147616a32ad1c153544123]: Commencement: Reg. 11 in force at 5.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/125/regulation/1/2) (as amended by [S.I. 2024/134](https://www.legislation.gov.uk/uksi/2024/134), [reg. 2](https://www.legislation.gov.uk/uksi/2024/134/regulation/2))
 
-[^key-2e0a2d020e3f5d87fc5f706b022dd510]: Commencement: Reg. 12 in force at 5.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/125/regulation/1/2) (as amended by [S.I. 2024/134](https://www.legislation.gov.uk/uksi/2024/134), [reg. 2](https://www.legislation.gov.uk/uksi/2024/134/regulation/2))
+[^c-2e0a2d020e3f5d87fc5f706b022dd510]: Commencement: Reg. 12 in force at 5.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/125/regulation/1/2) (as amended by [S.I. 2024/134](https://www.legislation.gov.uk/uksi/2024/134), [reg. 2](https://www.legislation.gov.uk/uksi/2024/134/regulation/2))

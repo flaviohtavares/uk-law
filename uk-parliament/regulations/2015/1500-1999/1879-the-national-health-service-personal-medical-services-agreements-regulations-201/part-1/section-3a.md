@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3A. Variation of core hours while a disease is or in anticipation of a disease being imminently pandemic etc.[^key-12f3a5ba9b5fae74a75a95e2a0afc715]
+## 3A. Variation of core hours while a disease is or in anticipation of a disease being imminently pandemic etc.[^c-12f3a5ba9b5fae74a75a95e2a0afc715]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) pandemic; and
 - (b) a serious risk or potentially a serious risk to human health,
 
-NHS England[^key-9520329cffeb7671913a444ac58ebf84] *(Extent: E)*[^key-fd7f34073e0082e9f0b53fa483ab60c2] with the agreement of the Secretary of State has made an announcement *(Extent: E)* to the effect that the core hours of contractors in the area specified in the announcement are to include Good Friday and bank holidays in the circumstances specified, and for the duration of the period specified, in the announcement.
+NHS England[^c-9520329cffeb7671913a444ac58ebf84] *(Extent: E)*[^c-fd7f34073e0082e9f0b53fa483ab60c2] with the agreement of the Secretary of State has made an announcement *(Extent: E)* to the effect that the core hours of contractors in the area specified in the announcement are to include Good Friday and bank holidays in the circumstances specified, and for the duration of the period specified, in the announcement.
 
 (2) In these Regulations, in the circumstances described in paragraph (1), “out of hours period means—
 
@@ -34,8 +34,8 @@ NHS England[^key-9520329cffeb7671913a444ac58ebf84] *(Extent: E)*[^key-fd7f34073e
 
 ## Annotations
 
-[^key-12f3a5ba9b5fae74a75a95e2a0afc715]: Textual amendment: Regs. 3A, 3B inserted (27.3.2020) by [The National Health Service (Amendments Relating to the Provision of Primary Care Services During a Pandemic etc.) Regulations 2020 (S.I. 2020/351)](https://www.legislation.gov.uk/uksi/2020/351), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/351/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2020/351/regulation/19)
+[^c-12f3a5ba9b5fae74a75a95e2a0afc715]: Textual amendment: Regs. 3A, 3B inserted (27.3.2020) by [The National Health Service (Amendments Relating to the Provision of Primary Care Services During a Pandemic etc.) Regulations 2020 (S.I. 2020/351)](https://www.legislation.gov.uk/uksi/2020/351), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/351/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2020/351/regulation/19)
 
-[^key-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-fd7f34073e0082e9f0b53fa483ab60c2]: Textual amendment: Words in reg. 3A(1) substituted (E.) (1.10.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/2)
+[^c-fd7f34073e0082e9f0b53fa483ab60c2]: Textual amendment: Words in reg. 3A(1) substituted (E.) (1.10.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/2)

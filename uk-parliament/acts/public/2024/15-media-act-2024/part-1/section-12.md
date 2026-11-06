@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Quotas: further provision about their fulfilment[^key-374177aaf696dc7401e84730b092085b][^key-071520f4e87a3a73e47c436a26fd754e][^key-b2cc6b383b39ec4d407e6638307d8896]
+## 12. Quotas: further provision about their fulfilment[^c-374177aaf696dc7401e84730b092085b][^c-071520f4e87a3a73e47c436a26fd754e][^c-b2cc6b383b39ec4d407e6638307d8896]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,8 +61,8 @@ After section 278B of the Communications Act 2003 (as inserted by section 11) in
 
 ## Annotations
 
-[^key-374177aaf696dc7401e84730b092085b]: Commencement: S. 12 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
+[^c-374177aaf696dc7401e84730b092085b]: Commencement: S. 12 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
 
-[^key-071520f4e87a3a73e47c436a26fd754e]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2024/15/section/12) in force at 23.8.2024 for specified purposes by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule)
+[^c-071520f4e87a3a73e47c436a26fd754e]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2024/15/section/12) in force at 23.8.2024 for specified purposes by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule)
 
-[^key-b2cc6b383b39ec4d407e6638307d8896]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2024/15/section/12) in force at 1.1.2026 in so far as not already in force by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/l)
+[^c-b2cc6b383b39ec4d407e6638307d8896]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2024/15/section/12) in force at 1.1.2026 in so far as not already in force by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/l)

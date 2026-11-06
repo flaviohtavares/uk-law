@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Offences by bodies corporate etc.[^key-ff3097dd7ab5a31c567145ceb81f5ea8]
+## 89. Offences by bodies corporate etc.[^c-ff3097dd7ab5a31c567145ceb81f5ea8]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ that individual as well as the body corporate, partnership or, as the case may b
 
 ## Annotations
 
-[^key-ff3097dd7ab5a31c567145ceb81f5ea8]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2007/14/section/89) in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)
+[^c-ff3097dd7ab5a31c567145ceb81f5ea8]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2007/14/section/89) in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)

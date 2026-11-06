@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 178. Forms for use in postal administration proceedings[^key-2de4816bdb6f36fd0be3934aee7b3f4d]
+## 178. Forms for use in postal administration proceedings[^c-2de4816bdb6f36fd0be3934aee7b3f4d]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2de4816bdb6f36fd0be3934aee7b3f4d]: Commencement: [Rule 178](https://www.legislation.gov.uk/uksi/2013/3208/rule/178) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-2de4816bdb6f36fd0be3934aee7b3f4d]: Commencement: [Rule 178](https://www.legislation.gov.uk/uksi/2013/3208/rule/178) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

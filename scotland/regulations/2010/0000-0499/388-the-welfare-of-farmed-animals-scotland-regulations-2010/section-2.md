@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Interpretation[^key-9f07ad996bf41244995174e4afb1c464]
+## 2. Interpretation[^c-9f07ad996bf41244995174e4afb1c464]
 
 *Extent: S*
 
@@ -37,11 +37,11 @@ summary: ''
 - “person responsible” means a person responsible for an animal in terms of section 18 of the Animal Health and Welfare (Scotland) Act 2006 and includes a keeper and a food business operator; and
 - “pig” means an animal of the porcine species of any age, kept for breeding or fattening.
 
-(2)[^key-60a589a8e2564a6720c0ed787eb48c95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-60a589a8e2564a6720c0ed787eb48c95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9f07ad996bf41244995174e4afb1c464]: Commencement: Reg. 2 in force at 5.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/388/regulation/1)
+[^c-9f07ad996bf41244995174e4afb1c464]: Commencement: Reg. 2 in force at 5.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/388/regulation/1)
 
 [^f00002]: Footnote: This includes Codes of Recommendations issued under section 3 of the Agriculture (Miscellaneous Provisions) Act [1968 (c.34)](https://www.legislation.gov.uk/ukpga/1968/34) and saved by article 4(2) of the Animal Health and Welfare (Scotland) Act 2006 (Commencement No. 1, Savings and Transitional Provisions) Order 2006 ([S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482)).
 
@@ -51,4 +51,4 @@ summary: ''
 
 [^f00005]: Footnote: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39), amended by the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), section 120(1) and Schedule 22, paragraph 232(1).
 
-[^key-60a589a8e2564a6720c0ed787eb48c95]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/ssi/2010/388/regulation/2/2) omitted (31.12.2020) by virtue of [The Animal Welfare (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/34)](https://www.legislation.gov.uk/ssi/2019/34), [regs. 1](https://www.legislation.gov.uk/ssi/2019/34/regulation/1), [5(2)](https://www.legislation.gov.uk/ssi/2019/34/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-60a589a8e2564a6720c0ed787eb48c95]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/ssi/2010/388/regulation/2/2) omitted (31.12.2020) by virtue of [The Animal Welfare (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/34)](https://www.legislation.gov.uk/ssi/2019/34), [regs. 1](https://www.legislation.gov.uk/ssi/2019/34/regulation/1), [5(2)](https://www.legislation.gov.uk/ssi/2019/34/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

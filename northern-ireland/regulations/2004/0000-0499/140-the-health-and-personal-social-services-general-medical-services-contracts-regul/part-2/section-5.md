@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. General condition relating to all contracts[^key-ece8c0196709e6fa794b6c117850660e]
+## 5. General condition relating to all contracts[^c-ece8c0196709e6fa794b6c117850660e]
 
 *Extent: N.I.*
 
@@ -45,13 +45,13 @@ summary: ''
 - (h) he has been convicted of an offence referred to in Schedule 1 to the Children and Young Persons Act (Northern Ireland) 1968[^f00035], Schedule 1 to the Children and Young Persons Act 1933[^f00036] (offences against children and young persons with respect to which special provisions of this Act apply) or Schedule 1 to the Criminal Procedure (Scotland) Act 1955 (offences against children under the age of 17 years to which special provisions apply)[^f00037], committed on or after 29th March 2004;
 - (i) he has –
   - (i) been adjudged bankrupt or had sequestration of his estate awarded unless (in either case) he has been discharged or the bankruptcy order has been annulled;
-  - (ii) been made the subject of a bankruptcy restrictions order or an interim bankruptcy restrictions order under Schedule 4A to the Insolvency Act 1986[^f00038] or Schedule 2A to the Insolvency (Northern Ireland) Order 1989[^key-51f5135587e95131b3db9ec8fc7283d5] or a debt relief restrictions order or an interim debt relief restrictions order under Schedule 4ZB to the Insolvency Act 1986 or Schedule 2ZB to the Insolvency (Northern Ireland) Order 1989[^key-3a282d6d56a4d9e736205a513b50ff15] unless that order has ceased to have effect or has been annulled, or
+  - (ii) been made the subject of a bankruptcy restrictions order or an interim bankruptcy restrictions order under Schedule 4A to the Insolvency Act 1986[^f00038] or Schedule 2A to the Insolvency (Northern Ireland) Order 1989[^c-51f5135587e95131b3db9ec8fc7283d5] or a debt relief restrictions order or an interim debt relief restrictions order under Schedule 4ZB to the Insolvency Act 1986 or Schedule 2ZB to the Insolvency (Northern Ireland) Order 1989[^c-3a282d6d56a4d9e736205a513b50ff15] unless that order has ceased to have effect or has been annulled, or
   - (iii) made a composition or arrangement with, or granted a trust deed for, his creditors unless he has been discharged in respect of it;
-- (ia)[^key-335db74261e3caadf0784fe1286a9158] become a person in relation to whom a moratorium period under a debt relief order made under Part 7A of the Insolvency Act 1986 or Part 7A of the Insolvency (Northern Ireland) Order 1989 applies;
+- (ia)[^c-335db74261e3caadf0784fe1286a9158] become a person in relation to whom a moratorium period under a debt relief order made under Part 7A of the Insolvency Act 1986 or Part 7A of the Insolvency (Northern Ireland) Order 1989 applies;
 - (j) an administrator, administrative receiver or receiver is appointed in respect of him;
-- (k) within the period of five years prior to signing the contract or commencement of the contract, whichever is the earlier,[^key-548a64a1f55d94bb531ecd6045058adb] he has been –
+- (k) within the period of five years prior to signing the contract or commencement of the contract, whichever is the earlier,[^c-548a64a1f55d94bb531ecd6045058adb] he has been –
   - (i) removed from the office of charity trustee or trustee for a charity by an order made by the Charity Commissioners or the High Court on the grounds of any misconduct or mismanagement in the administration of the charity for which he was responsible or to which he was privy, or which he by his conduct contributed to or facilitated; or
-  - (ii) removed under section 7 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990[^f00039] (powers of the Court of Session to deal with management of charities) or under section 34 of the Charities and Trustee Investment (Scotland) Act 2005 (powers of Court of Session)[^key-8687122bdf7d9c3e113bcecbf6128140] , from being concerned in the management or control of any body; or
+  - (ii) removed under section 7 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990[^f00039] (powers of the Court of Session to deal with management of charities) or under section 34 of the Charities and Trustee Investment (Scotland) Act 2005 (powers of Court of Session)[^c-8687122bdf7d9c3e113bcecbf6128140] , from being concerned in the management or control of any body; or
 - (l) he is subject to a disqualification order under the Companies Directors Disqualification (Northern Ireland) Order 2002[^f00040], the Company Directors Disqualification Act 1986[^f00041], or to an order made under section 429(2)(b) of the Insolvency Act 1986 (failure to pay under county court administration order).
 
 (3) A person shall not fall within paragraph (2)(b) where the Board is satisfied that the disqualification or suspension from practising is imposed by a licensing body outside the United Kingdom and it does not make the person unsuitable to be –
@@ -78,7 +78,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ece8c0196709e6fa794b6c117850660e]: Commencement: Reg. 5 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-ece8c0196709e6fa794b6c117850660e]: Commencement: Reg. 5 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
 [^f00035]: Footnote: [c. 34 (N.I)](https://www.legislation.gov.uk/apni/1968/34)
 
@@ -88,17 +88,17 @@ summary: ''
 
 [^f00038]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45). Schedule 4A was inserted by section 257 of and Schedule 20 to the Enterprise Act [2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40)
 
-[^key-51f5135587e95131b3db9ec8fc7283d5]: Textual amendment: Words in [reg. 5(2)(i)(ii)](https://www.legislation.gov.uk/nisr/2004/140/regulation/5/2/i/ii) inserted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2013/59/regulation/4/2)
+[^c-51f5135587e95131b3db9ec8fc7283d5]: Textual amendment: Words in [reg. 5(2)(i)(ii)](https://www.legislation.gov.uk/nisr/2004/140/regulation/5/2/i/ii) inserted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2013/59/regulation/4/2)
 
-[^key-3a282d6d56a4d9e736205a513b50ff15]: Textual amendment: Words in [reg. 5(2)(i)(ii)](https://www.legislation.gov.uk/nisr/2004/140/regulation/5/2/i/ii) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 38(2)(b)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/38/2/b)
+[^c-3a282d6d56a4d9e736205a513b50ff15]: Textual amendment: Words in [reg. 5(2)(i)(ii)](https://www.legislation.gov.uk/nisr/2004/140/regulation/5/2/i/ii) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 38(2)(b)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/38/2/b)
 
-[^key-335db74261e3caadf0784fe1286a9158]: Textual amendment: [Reg. 5(2)(ia)](https://www.legislation.gov.uk/nisr/2004/140/regulation/5/2/ia) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 38(2)(a)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/38/2/a)
+[^c-335db74261e3caadf0784fe1286a9158]: Textual amendment: [Reg. 5(2)(ia)](https://www.legislation.gov.uk/nisr/2004/140/regulation/5/2/ia) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 38(2)(a)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/38/2/a)
 
-[^key-548a64a1f55d94bb531ecd6045058adb]: Textual amendment: Words in [reg. 5(2)(k)](https://www.legislation.gov.uk/nisr/2004/140/regulation/5/2/k) inserted (15.8.2006) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/319)](https://www.legislation.gov.uk/nisr/2006/319), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/319/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2006/319/regulation/3)
+[^c-548a64a1f55d94bb531ecd6045058adb]: Textual amendment: Words in [reg. 5(2)(k)](https://www.legislation.gov.uk/nisr/2004/140/regulation/5/2/k) inserted (15.8.2006) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/319)](https://www.legislation.gov.uk/nisr/2006/319), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/319/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2006/319/regulation/3)
 
 [^f00039]: Footnote: [1990 c. 40](https://www.legislation.gov.uk/ukpga/1990/40)
 
-[^key-8687122bdf7d9c3e113bcecbf6128140]: Textual amendment: Words in [reg. 5(2)(k)(ii)](https://www.legislation.gov.uk/nisr/2004/140/regulation/5/2/k/ii) inserted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2013/59/regulation/4/3)
+[^c-8687122bdf7d9c3e113bcecbf6128140]: Textual amendment: Words in [reg. 5(2)(k)(ii)](https://www.legislation.gov.uk/nisr/2004/140/regulation/5/2/k/ii) inserted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2013/59/regulation/4/3)
 
 [^f00040]: Footnote: [S.I. 2002/3150 (N.I. 4)](https://www.legislation.gov.uk/nisi/2002/3150)
 

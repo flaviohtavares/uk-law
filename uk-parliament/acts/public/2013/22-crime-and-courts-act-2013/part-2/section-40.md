@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Awards of costs[^key-9f523a9646b00e5a0aebb157f4947442]
+## 40. Awards of costs[^c-9f523a9646b00e5a0aebb157f4947442]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f523a9646b00e5a0aebb157f4947442]: Textual amendment: [S. 40](https://www.legislation.gov.uk/ukpga/2013/22/section/40) omitted (24.7.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 50(2)](https://www.legislation.gov.uk/ukpga/2024/15/section/50/2), [55(2)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/2)
+[^c-9f523a9646b00e5a0aebb157f4947442]: Textual amendment: [S. 40](https://www.legislation.gov.uk/ukpga/2013/22/section/40) omitted (24.7.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 50(2)](https://www.legislation.gov.uk/ukpga/2024/15/section/50/2), [55(2)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/2)

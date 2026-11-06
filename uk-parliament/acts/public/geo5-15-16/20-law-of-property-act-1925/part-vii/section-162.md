@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 162. Restrictions on the perpetuity rule.[^key-7c70d61d99b46e4826a33917344e8b5c]
+## 162. Restrictions on the perpetuity rule.[^c-7c70d61d99b46e4826a33917344e8b5c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c70d61d99b46e4826a33917344e8b5c]: Textual amendment: [S. 162](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/162) repealed (6.4.2010) by [Perpetuities and Accumulations Act 2009 (c. 18)](https://www.legislation.gov.uk/ukpga/2009/18), [ss. 4(b)](https://www.legislation.gov.uk/ukpga/2009/18/section/4/b), [22(2)](https://www.legislation.gov.uk/ukpga/2009/18/section/22/2), [Schs.](https://www.legislation.gov.uk/ukpga/2009/18/schedule) (with [s. 15(1)](https://www.legislation.gov.uk/ukpga/2009/18/section/15/1)[(4)](https://www.legislation.gov.uk/ukpga/2009/18/section/15/4)[17](https://www.legislation.gov.uk/ukpga/2009/18/section/17)[18](https://www.legislation.gov.uk/ukpga/2009/18/section/18)); [S.I. 2010/37](https://www.legislation.gov.uk/uksi/2010/37), [art. 2](https://www.legislation.gov.uk/uksi/2010/37/article/2)
+[^c-7c70d61d99b46e4826a33917344e8b5c]: Textual amendment: [S. 162](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/162) repealed (6.4.2010) by [Perpetuities and Accumulations Act 2009 (c. 18)](https://www.legislation.gov.uk/ukpga/2009/18), [ss. 4(b)](https://www.legislation.gov.uk/ukpga/2009/18/section/4/b), [22(2)](https://www.legislation.gov.uk/ukpga/2009/18/section/22/2), [Schs.](https://www.legislation.gov.uk/ukpga/2009/18/schedule) (with [s. 15(1)](https://www.legislation.gov.uk/ukpga/2009/18/section/15/1)[(4)](https://www.legislation.gov.uk/ukpga/2009/18/section/15/4)[17](https://www.legislation.gov.uk/ukpga/2009/18/section/17)[18](https://www.legislation.gov.uk/ukpga/2009/18/section/18)); [S.I. 2010/37](https://www.legislation.gov.uk/uksi/2010/37), [art. 2](https://www.legislation.gov.uk/uksi/2010/37/article/2)

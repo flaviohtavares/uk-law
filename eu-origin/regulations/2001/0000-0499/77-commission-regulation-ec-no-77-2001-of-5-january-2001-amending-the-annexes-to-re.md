@@ -31,10 +31,10 @@ Commission Regulation (EC) No 77/2001
 
 of 5 January 2001 amending the Annexes to Regulation (EC) No 1547/1999 and Council Regulation (EC) No 1420/1999 as regards shipments of certain types of waste to Albania, Brazil, Bulgaria, Burundi, Jamaica, Morocco, Nigeria, Peru, Romania, Tunisia and Zimbabwe (Text with EEA relevance) (revoked)
 
-[^key-57a0b72288a2a02dd4fde94c39d78902]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-57a0b72288a2a02dd4fde94c39d78902]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-57a0b72288a2a02dd4fde94c39d78902] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-57a0b72288a2a02dd4fde94c39d78902] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-57a0b72288a2a02dd4fde94c39d78902]: Textual amendment: Regulation revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)
+[^c-57a0b72288a2a02dd4fde94c39d78902]: Textual amendment: Regulation revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)

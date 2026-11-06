@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Amendment to regulation 201[^key-9ff6b77d72d937d4ea7ffa7d584b35e9]
+## 92. Amendment to regulation 201[^c-9ff6b77d72d937d4ea7ffa7d584b35e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ In regulation 201(2) (submission and evaluation of final study reports for requi
 
 ## Annotations
 
-[^key-9ff6b77d72d937d4ea7ffa7d584b35e9]: Commencement: [Reg. 92](https://www.legislation.gov.uk/uksi/2024/832/regulation/92) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-9ff6b77d72d937d4ea7ffa7d584b35e9]: Commencement: [Reg. 92](https://www.legislation.gov.uk/uksi/2024/832/regulation/92) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00102]: Footnote: Paragraph (2) was amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

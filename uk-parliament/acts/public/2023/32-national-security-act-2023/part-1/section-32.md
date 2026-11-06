@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Meaning of “foreign power”[^key-c933d082c3b20a6c6ccb1e5a6d6ec070][^key-a4ae0101fb571975a8fb65f184c5c382]
+## 32. Meaning of “foreign power”[^c-c933d082c3b20a6c6ccb1e5a6d6ec070][^c-a4ae0101fb571975a8fb65f184c5c382]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c933d082c3b20a6c6ccb1e5a6d6ec070]: Commencement: S. 32 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-c933d082c3b20a6c6ccb1e5a6d6ec070]: Commencement: S. 32 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-a4ae0101fb571975a8fb65f184c5c382]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2023/32/section/32) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-a4ae0101fb571975a8fb65f184c5c382]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2023/32/section/32) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)

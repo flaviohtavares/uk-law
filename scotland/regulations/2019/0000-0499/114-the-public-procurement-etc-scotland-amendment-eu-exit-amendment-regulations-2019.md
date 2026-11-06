@@ -34,7 +34,7 @@ Exiting The European Union
 
 Public Procurement
 
-The Public Procurement etc. (Scotland) (Amendment) (EU Exit) Amendment Regulations 2019 (revoked)[^key-d820e72c001cb176fbd33fd32cbf4275]
+The Public Procurement etc. (Scotland) (Amendment) (EU Exit) Amendment Regulations 2019 (revoked)[^c-d820e72c001cb176fbd33fd32cbf4275]
 
 Made
 
@@ -42,15 +42,15 @@ Made
 
 Coming into force in accordance with regulation 1
 
-[^key-d820e72c001cb176fbd33fd32cbf4275]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d820e72c001cb176fbd33fd32cbf4275]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-d820e72c001cb176fbd33fd32cbf4275]
+## 1. Citation and commencement[^c-d820e72c001cb176fbd33fd32cbf4275]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Public Procurement etc. (Scotland) (Amendment) (EU Exit) Regulations 2019[^key-d820e72c001cb176fbd33fd32cbf4275]
+## 2. Amendment of the Public Procurement etc. (Scotland) (Amendment) (EU Exit) Regulations 2019[^c-d820e72c001cb176fbd33fd32cbf4275]
 
 **No longer in force.**
 
@@ -78,4 +78,4 @@ Regulation 2(2) of these Regulations also amends the first SSI so that provision
 
 ## Annotations
 
-[^key-d820e72c001cb176fbd33fd32cbf4275]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/2/2/b)
+[^c-d820e72c001cb176fbd33fd32cbf4275]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/2/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 276. False claim of status as creditors[^key-39b528c8a10a6bff4e8fa8760d76f576]
+## 276. False claim of status as creditors[^c-39b528c8a10a6bff4e8fa8760d76f576]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 12.20 of the 1991 Rules.
 
 ## Annotations
 
-[^key-39b528c8a10a6bff4e8fa8760d76f576]: Commencement: Rule 276 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-39b528c8a10a6bff4e8fa8760d76f576]: Commencement: Rule 276 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

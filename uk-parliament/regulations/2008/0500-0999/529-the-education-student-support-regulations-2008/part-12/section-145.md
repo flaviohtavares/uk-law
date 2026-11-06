@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Conversion of status[^key-4750d41355a39ce0fa9546f69a4223e0]
+## 145. Conversion of status[^c-4750d41355a39ce0fa9546f69a4223e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -96,4 +96,4 @@ must not exceed the maximum amount of support determined to be payable to the st
 
 ## Annotations
 
-[^key-4750d41355a39ce0fa9546f69a4223e0]: Commencement: Reg. 145 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-4750d41355a39ce0fa9546f69a4223e0]: Commencement: Reg. 145 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

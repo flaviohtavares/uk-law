@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 133A. Information requirements[^key-05229ff337de4dac63f0e0d9744516e5]
+## 133A. Information requirements[^c-05229ff337de4dac63f0e0d9744516e5]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05229ff337de4dac63f0e0d9744516e5]: Textual amendment: [Reg. 133A](https://www.legislation.gov.uk/nisr/2009/373/regulation/133A) inserted (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [35](https://www.legislation.gov.uk/nisr/2017/7/regulation/35)
+[^c-05229ff337de4dac63f0e0d9744516e5]: Textual amendment: [Reg. 133A](https://www.legislation.gov.uk/nisr/2009/373/regulation/133A) inserted (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [35](https://www.legislation.gov.uk/nisr/2017/7/regulation/35)

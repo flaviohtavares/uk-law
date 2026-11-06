@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Stamp duty and stamp duty reserve tax: meaning of unit trust scheme[^key-b3e50e806cb477a4047f6e703b8193fc]
+## 104. Stamp duty and stamp duty reserve tax: meaning of unit trust scheme[^c-b3e50e806cb477a4047f6e703b8193fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3e50e806cb477a4047f6e703b8193fc]: Commencement: Art. 104 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-b3e50e806cb477a4047f6e703b8193fc]: Commencement: Art. 104 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

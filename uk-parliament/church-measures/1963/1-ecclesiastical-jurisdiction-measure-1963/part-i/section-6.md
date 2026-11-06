@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 6. Jurisdiction of the consistory court.[^key-c8a48d1af7bbf7d796c64ee5ed6bc494]
+## 6. Jurisdiction of the consistory court.[^c-c8a48d1af7bbf7d796c64ee5ed6bc494]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8a48d1af7bbf7d796c64ee5ed6bc494]: Textual amendment: S. 6 repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukcm/2018/3/schedule/1/paragraph/9), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-c8a48d1af7bbf7d796c64ee5ed6bc494]: Textual amendment: S. 6 repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukcm/2018/3/schedule/1/paragraph/9), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

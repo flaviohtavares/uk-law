@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Accounts rules and trust accounts rules.[^c13347991][^c13348002][^key-6df8b8249493020ebc103391d7818bb8]
+## 32. Accounts rules and trust accounts rules.[^c13347991][^c13348002][^c-6df8b8249493020ebc103391d7818bb8]
 
 *Extent: E+W*
 
@@ -47,7 +47,7 @@ summary: ''
 
 [^c13348002]: Modification: [S. 32](https://www.legislation.gov.uk/ukpga/1974/47/section/32) extended (22.5.2000) by [S.I. 2000/1119](https://www.legislation.gov.uk/uksi/2000/1119), [regs. 1](https://www.legislation.gov.uk/uksi/2000/1119/regulation/1), [37(3)](https://www.legislation.gov.uk/uksi/2000/1119/regulation/37/3), [Sch. 4 para. 1(3)](https://www.legislation.gov.uk/uksi/2000/1119/schedule/4/paragraph/1/3) (as amended (1.7.2009) by [The Legal Services Act 2007 (Registered European Lawyers) Order 2009 (S.I. 2009/1587)](https://www.legislation.gov.uk/uksi/2009/1587), [art. 3(4)](https://www.legislation.gov.uk/uksi/2009/1587/article/3/4))
 
-[^key-6df8b8249493020ebc103391d7818bb8]: Modification: [S. 32](https://www.legislation.gov.uk/ukpga/1974/47/section/32) applied (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [25](https://www.legislation.gov.uk/uksi/2024/1379/regulation/25)
+[^c-6df8b8249493020ebc103391d7818bb8]: Modification: [S. 32](https://www.legislation.gov.uk/ukpga/1974/47/section/32) applied (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [25](https://www.legislation.gov.uk/uksi/2024/1379/regulation/25)
 
 [^c19656731]: Textual amendment: Word in [s. 32(1)](https://www.legislation.gov.uk/ukpga/1974/47/section/32/1) substituted (31.3.2009) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 177](https://www.legislation.gov.uk/ukpga/2007/29/section/177), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 16 para. 32(2)(a)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/16/paragraph/32/2/a) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2009/503/article/2/b/i)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 246. Overview[^key-4d7d5de1c66c516bace28db7b5b04a26]
+## 246. Overview[^c-4d7d5de1c66c516bace28db7b5b04a26]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This group of sections gives the regulator various powers in relation to the man
 
 ## Annotations
 
-[^key-4d7d5de1c66c516bace28db7b5b04a26]: Commencement: S. 246 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-4d7d5de1c66c516bace28db7b5b04a26]: Commencement: S. 246 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))

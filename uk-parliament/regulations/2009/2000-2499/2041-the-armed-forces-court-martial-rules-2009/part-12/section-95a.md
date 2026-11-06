@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95A. Video recorded cross-examination or re-examination[^key-9fef6b9d8bc0bbe7b2514115fd10294d]
+## 95A. Video recorded cross-examination or re-examination[^c-9fef6b9d8bc0bbe7b2514115fd10294d]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9fef6b9d8bc0bbe7b2514115fd10294d]: Textual amendment: [Rule 95A](https://www.legislation.gov.uk/uksi/2009/2041/rule/95A) inserted (4.7.2022) by [The Armed Forces (Service Court Rules) (Amendment) Rules 2022 (S.I. 2022/605)](https://www.legislation.gov.uk/uksi/2022/605), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/605/rule/1/2), [14](https://www.legislation.gov.uk/uksi/2022/605/rule/14)
+[^c-9fef6b9d8bc0bbe7b2514115fd10294d]: Textual amendment: [Rule 95A](https://www.legislation.gov.uk/uksi/2009/2041/rule/95A) inserted (4.7.2022) by [The Armed Forces (Service Court Rules) (Amendment) Rules 2022 (S.I. 2022/605)](https://www.legislation.gov.uk/uksi/2022/605), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/605/rule/1/2), [14](https://www.legislation.gov.uk/uksi/2022/605/rule/14)

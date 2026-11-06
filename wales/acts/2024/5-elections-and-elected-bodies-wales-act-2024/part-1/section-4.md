@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Provision connected to the duty to register eligible local government electors[^key-30e5192da1cc48531b3ab8383be8c40f]
+## 4. Provision connected to the duty to register eligible local government electors[^c-30e5192da1cc48531b3ab8383be8c40f]
 
 *Extent: E+W*
 
@@ -79,4 +79,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30e5192da1cc48531b3ab8383be8c40f]: Commencement: S. 4 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-30e5192da1cc48531b3ab8383be8c40f]: Commencement: S. 4 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)

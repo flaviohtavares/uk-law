@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119A. Power to require information from landlords and agents.[^key-eefa31d7b9ac8215df3db4ba67db16c4][^c14900901][^c14900891]
+## 119A. Power to require information from landlords and agents.[^c-eefa31d7b9ac8215df3db4ba67db16c4][^c14900901][^c14900891]
 
 *Extent: N.I.*
 
@@ -47,7 +47,7 @@ may require any appropriate person to supply information of a prescribed descrip
 
 ## Annotations
 
-[^key-eefa31d7b9ac8215df3db4ba67db16c4]: Modification: [S. 119A](https://www.legislation.gov.uk/ukpga/1992/8/section/119A) extended (6.4.2003) by [The Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. 1999/3147)](https://www.legislation.gov.uk/nisi/1999/3147), [art. 1(2)](https://www.legislation.gov.uk/nisi/1999/3147/article/1/2), [Sch. 8 para. 32(1)](https://www.legislation.gov.uk/nisi/1999/3147/schedule/8/paragraph/32/1), [(2)(c)](https://www.legislation.gov.uk/nisi/1999/3147/schedule/8/paragraph/32/2/c); [S.R. 2003/204](https://www.legislation.gov.uk/nisr/2003/204), [art. 2](https://www.legislation.gov.uk/nisr/2003/204/article/2)
+[^c-eefa31d7b9ac8215df3db4ba67db16c4]: Modification: [S. 119A](https://www.legislation.gov.uk/ukpga/1992/8/section/119A) extended (6.4.2003) by [The Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. 1999/3147)](https://www.legislation.gov.uk/nisi/1999/3147), [art. 1(2)](https://www.legislation.gov.uk/nisi/1999/3147/article/1/2), [Sch. 8 para. 32(1)](https://www.legislation.gov.uk/nisi/1999/3147/schedule/8/paragraph/32/1), [(2)(c)](https://www.legislation.gov.uk/nisi/1999/3147/schedule/8/paragraph/32/2/c); [S.R. 2003/204](https://www.legislation.gov.uk/nisr/2003/204), [art. 2](https://www.legislation.gov.uk/nisr/2003/204/article/2)
 
 [^c14900901]: Modification: [S. 119A](https://www.legislation.gov.uk/ukpga/1992/8/section/119A): functions modified (*prosp.*) by [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147), [arts. 1(2)](https://www.legislation.gov.uk/nisi/1999/3147/article/1/2), [67](https://www.legislation.gov.uk/nisi/1999/3147/article/67), [Sch. 8 para. 32](https://www.legislation.gov.uk/nisi/1999/3147/schedule/8/paragraph/32) (with [art. 75](https://www.legislation.gov.uk/nisi/1999/3147/article/75))
 

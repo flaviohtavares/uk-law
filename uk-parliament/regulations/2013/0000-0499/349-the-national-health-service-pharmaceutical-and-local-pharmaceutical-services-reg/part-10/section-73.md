@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] may remove an NHS chemist (C) from a pharmaceutical list, or remove the listing of particular listed chemist premises in relation to C, if C—
+(1) NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] may remove an NHS chemist (C) from a pharmaceutical list, or remove the listing of particular listed chemist premises in relation to C, if C—
 
 - (a) fails to take the steps set out in a remedial notice that C must take, to the satisfaction of NHS England, in order to remedy the breach, and NHS England is satisfied that it is necessary to remove C from the pharmaceutical list, or remove the listing of particular listed chemist premises in relation to C—
   - (i) to protect the safety of any persons to whom C may provide pharmaceutical services, or
@@ -44,7 +44,7 @@ summary: ''
 
 (5) NHS England must not remove C, or chemist premises listed in relation to C, from a pharmaceutical list under paragraph (1) because—
 
-- (a) C has simply ceased to provide pharmaceutical services at or from[^key-7459ad779137a7e6a95a218da4dadd08] particular listed chemist premises (regulation 74 applies in those circumstances); or
+- (a) C has simply ceased to provide pharmaceutical services at or from[^c-7459ad779137a7e6a95a218da4dadd08] particular listed chemist premises (regulation 74 applies in those circumstances); or
 - (b) of failure to provide, or to provide to a reasonable standard, a directed service, unless C is required to provide that service pursuant to a condition imposed by virtue of regulation 66(1) or (3) to (5) (and the removal is justifiable and proportionate etc.).
 
 (6) Where NHS England is considering removing C, or removing the listing of particular chemist premises listed in relation to C, from a pharmaceutical list under paragraph (1), it must—
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-7459ad779137a7e6a95a218da4dadd08]: Textual amendment: Words in [reg. 73(5)(a)](https://www.legislation.gov.uk/uksi/2013/349/regulation/73/5/a) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [45](https://www.legislation.gov.uk/uksi/2025/989/regulation/45)
+[^c-7459ad779137a7e6a95a218da4dadd08]: Textual amendment: Words in [reg. 73(5)(a)](https://www.legislation.gov.uk/uksi/2013/349/regulation/73/5/a) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [45](https://www.legislation.gov.uk/uksi/2025/989/regulation/45)

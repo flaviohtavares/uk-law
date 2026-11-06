@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Invitations and directions for proposals for single tier of local government[^key-1340a807cee2d2f7394efc6625532a78]
+## 2. Invitations and directions for proposals for single tier of local government[^c-1340a807cee2d2f7394efc6625532a78]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ but a proposal is not a combined proposal if it includes any Type B or C proposa
 
 ## Annotations
 
-[^key-1340a807cee2d2f7394efc6625532a78]: Commencement: S. 2 in force at 1.11.2007 for E. by [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/a)
+[^c-1340a807cee2d2f7394efc6625532a78]: Commencement: S. 2 in force at 1.11.2007 for E. by [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/a)

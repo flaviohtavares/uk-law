@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 242. Compensation[^key-d9c704db896a42cfdedd08395020fbc8]
+## 242. Compensation[^c-d9c704db896a42cfdedd08395020fbc8]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9c704db896a42cfdedd08395020fbc8]: Commencement: S. 242 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-d9c704db896a42cfdedd08395020fbc8]: Commencement: S. 242 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

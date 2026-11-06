@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Call out of members of reserve forces[^key-d825865a27fed45473b1987b45771ff5]
+## 45. Call out of members of reserve forces[^c-d825865a27fed45473b1987b45771ff5]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d825865a27fed45473b1987b45771ff5]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2014/20/section/45) in force at 1.10.2014 by [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
+[^c-d825865a27fed45473b1987b45771ff5]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2014/20/section/45) in force at 1.10.2014 by [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)

@@ -54,7 +54,7 @@ In this Act “**animal**” means any mammal.
 
 (1) This Act may be cited as the Animals (Cruel Poisons) Act, 1962.
 
-(2) This Act [^key-c68d1f84597570839008b3abdc81f311]... and the Protection of Animals (Scotland) Acts, 1912 to 1960, may be cited together as the Protection of Animals (Scotland) Acts, 1912 to 1962.
+(2) This Act [^c-c68d1f84597570839008b3abdc81f311]... and the Protection of Animals (Scotland) Acts, 1912 to 1960, may be cited together as the Protection of Animals (Scotland) Acts, 1912 to 1962.
 
 (3) This Act shall not extend to Northern Ireland.
 
@@ -72,4 +72,4 @@ In this Act “**animal**” means any mammal.
 
 [^c627276]: Marginal citation: [1912 c. 14](https://www.legislation.gov.uk/ukpga/1912/14).
 
-[^key-c68d1f84597570839008b3abdc81f311]: Textual amendment: Words in s. 4(2) repealed (27.3.2007 for W., 6.4.2007 for E.) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/45/schedule/4) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(m)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/m); [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/m)
+[^c-c68d1f84597570839008b3abdc81f311]: Textual amendment: Words in s. 4(2) repealed (27.3.2007 for W., 6.4.2007 for E.) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/45/schedule/4) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(m)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/m); [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/m)

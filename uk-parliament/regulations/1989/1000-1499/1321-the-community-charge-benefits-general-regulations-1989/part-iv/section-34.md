@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Capital jointly held[^key-e1aa096e0fd23f088a0dc17578e0a720]
+## 34. Capital jointly held[^c-e1aa096e0fd23f088a0dc17578e0a720]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Except where a claimant possesses capital which is disregarded under regulation 
 
 ## Annotations
 
-[^key-e1aa096e0fd23f088a0dc17578e0a720]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/1989/1321/regulation/34) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-e1aa096e0fd23f088a0dc17578e0a720]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/1989/1321/regulation/34) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)

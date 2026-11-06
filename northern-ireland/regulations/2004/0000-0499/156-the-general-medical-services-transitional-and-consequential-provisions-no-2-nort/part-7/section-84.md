@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 84. Functions of Local Medical Committees[^key-5e1ce14169c547f7c95de5695427cb97]
+## 84. Functions of Local Medical Committees[^c-5e1ce14169c547f7c95de5695427cb97]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ the Local Medical Committee that had the matter referred to it shall be deemed t
 
 ## Annotations
 
-[^key-5e1ce14169c547f7c95de5695427cb97]: Commencement: Art. 84 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-5e1ce14169c547f7c95de5695427cb97]: Commencement: Art. 84 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

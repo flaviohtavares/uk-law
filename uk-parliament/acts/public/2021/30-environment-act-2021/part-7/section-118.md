@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Conservation covenants[^key-37e051bb54e44e70f449e83617cdb8f7][^key-09c3f69fd830efbd987f598d8799050e]
+## 118. Conservation covenants[^c-37e051bb54e44e70f449e83617cdb8f7][^c-09c3f69fd830efbd987f598d8799050e]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-37e051bb54e44e70f449e83617cdb8f7]: Commencement: S. 118 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-37e051bb54e44e70f449e83617cdb8f7]: Commencement: S. 118 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-09c3f69fd830efbd987f598d8799050e]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2021/30/section/118) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)
+[^c-09c3f69fd830efbd987f598d8799050e]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2021/30/section/118) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)

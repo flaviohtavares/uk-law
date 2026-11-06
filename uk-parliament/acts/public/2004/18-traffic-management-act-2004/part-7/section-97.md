@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 97. Financial provision[^key-120a38ac98ac84efe91b6eba374111a6]
+## 97. Financial provision[^c-120a38ac98ac84efe91b6eba374111a6]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-120a38ac98ac84efe91b6eba374111a6]: Commencement: S. 97 in force at 4.10.2004 for E. by [S.I. 2004/2380](https://www.legislation.gov.uk/uksi/2004/2380), [art. 2(g)](https://www.legislation.gov.uk/uksi/2004/2380/article/2/g)
+[^c-120a38ac98ac84efe91b6eba374111a6]: Commencement: S. 97 in force at 4.10.2004 for E. by [S.I. 2004/2380](https://www.legislation.gov.uk/uksi/2004/2380), [art. 2(g)](https://www.legislation.gov.uk/uksi/2004/2380/article/2/g)

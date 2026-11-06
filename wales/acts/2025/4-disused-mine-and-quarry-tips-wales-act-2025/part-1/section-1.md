@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. The Disused Tips Authority for Wales[^key-b4c393215529259ce067d6e7333c0a8d]
+## 1. The Disused Tips Authority for Wales[^c-b4c393215529259ce067d6e7333c0a8d]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4c393215529259ce067d6e7333c0a8d]: Commencement: S. 1 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
+[^c-b4c393215529259ce067d6e7333c0a8d]: Commencement: S. 1 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)

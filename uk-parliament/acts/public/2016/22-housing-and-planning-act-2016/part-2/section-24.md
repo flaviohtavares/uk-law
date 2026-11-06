@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Saving for illegal contracts[^key-72d006644e666a9271b5c2374f29705f]
+## 24. Saving for illegal contracts[^c-72d006644e666a9271b5c2374f29705f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A breach of a banning order does not affect the validity or enforceability of an
 
 ## Annotations
 
-[^key-72d006644e666a9271b5c2374f29705f]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2016/22/section/24) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)
+[^c-72d006644e666a9271b5c2374f29705f]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2016/22/section/24) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Setting of performance targets.[^key-b28fbc0b12b609d1f21106b93645bb3b]
+## 38. Setting of performance targets.[^c-b28fbc0b12b609d1f21106b93645bb3b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b28fbc0b12b609d1f21106b93645bb3b]: Textual amendment: S. 38 omitted (22.11.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 81(a)](https://www.legislation.gov.uk/ukpga/2011/13/section/81/a), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)
+[^c-b28fbc0b12b609d1f21106b93645bb3b]: Textual amendment: S. 38 omitted (22.11.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 81(a)](https://www.legislation.gov.uk/ukpga/2011/13/section/81/a), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)

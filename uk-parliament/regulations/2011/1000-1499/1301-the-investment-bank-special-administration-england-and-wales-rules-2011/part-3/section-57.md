@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Expenses of statement of affairs[^key-fd30eac615419a685ddb8c150978c0cc]
+## 57. Expenses of statement of affairs[^c-fd30eac615419a685ddb8c150978c0cc]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd30eac615419a685ddb8c150978c0cc]: Commencement: [Rule 57](https://www.legislation.gov.uk/uksi/2011/1301/rule/57) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-fd30eac615419a685ddb8c150978c0cc]: Commencement: [Rule 57](https://www.legislation.gov.uk/uksi/2011/1301/rule/57) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

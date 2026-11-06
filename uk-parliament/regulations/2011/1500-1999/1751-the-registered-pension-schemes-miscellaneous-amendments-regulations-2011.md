@@ -46,7 +46,7 @@ Coming into force
 
 The Commissioners for Her Majesty’s Revenue and Customs make the following Regulations in exercise of the powers conferred by sections 164(1)(f) and (2), 177, 254(4)(b), 273A(1) and (2), paragraphs 3(1)(d), 14(2) and 17(1)(c) of Schedule 28, paragraph 1(6) of Schedule 29, paragraph 12 of Schedule 34 and section 282(A1) of the Finance Act 2004[^f00001], as the latter section has effect under paragraph 108 of Schedule 16 to the Finance Act 2011[^f00002] and now exercisable by them[^f00003].
 
-## 1. Citation, commencement and effect[^key-f20346f2849ac65bfe72600c426547c3]
+## 1. Citation, commencement and effect[^c-f20346f2849ac65bfe72600c426547c3]
 
 (1) These Regulations may be cited as the Registered Pension Schemes (Miscellaneous Amendments) Regulations 2011 and come into force on 11th August 2011.
 
@@ -62,7 +62,7 @@ The Commissioners for Her Majesty’s Revenue and Customs make the following Reg
 
 (7) The amendments made by regulation 12(3) and (4) have effect in relation to pension input periods[^f00004] ending in the tax year 2011-12 and subsequent tax years.
 
-## 2. Amendment of the Pension Benefits (Insurance Company Liable as Scheme Administrator) Regulations 2006[^key-a5d302b76dbe4061c9b5e60157e3e4f6]
+## 2. Amendment of the Pension Benefits (Insurance Company Liable as Scheme Administrator) Regulations 2006[^c-a5d302b76dbe4061c9b5e60157e3e4f6]
 
 (1) The Pension Benefits (Insurance Company Liable as Scheme Administrator) Regulations 2006[^f00005] are amended as follows.
 
@@ -72,11 +72,11 @@ The Commissioners for Her Majesty’s Revenue and Customs make the following Reg
 
 .
 
-## 3. Amendment of the Registered Pension Schemes (Authorised Surplus Payments) Regulations 2006[^key-16d714bc5c7187b791594a30fbbcb5a8]
+## 3. Amendment of the Registered Pension Schemes (Authorised Surplus Payments) Regulations 2006[^c-16d714bc5c7187b791594a30fbbcb5a8]
 
 The Registered Pension Schemes (Authorised Surplus Payments) Regulations 2006[^f00006] are amended as follows.
 
-**4.**[^key-b6d1d3365c2b78781ee387578f234cba] For regulation 2(4) (payments falling within section 37 or 76 of the Pensions Act 1995) substitute—
+**4.**[^c-b6d1d3365c2b78781ee387578f234cba] For regulation 2(4) (payments falling within section 37 or 76 of the Pensions Act 1995) substitute—
 
 > (4) A payment made by an occupational pension scheme to a sponsoring employer solely in respect of the death of a member is an authorised surplus payment if—
 >
@@ -85,7 +85,7 @@ The Registered Pension Schemes (Authorised Surplus Payments) Regulations 2006[^f
 
 .
 
-**5.**[^key-70e1022cef425222d5e3c845bb6f20eb] For regulation 3(2) (payments falling outside section 37 or 76 of the Pensions Act 1995) substitute—
+**5.**[^c-70e1022cef425222d5e3c845bb6f20eb] For regulation 3(2) (payments falling outside section 37 or 76 of the Pensions Act 1995) substitute—
 
 > (2) A payment made by an occupational pension scheme to a sponsoring employer solely in respect of the death of a member is an authorised surplus payment if—
 >
@@ -94,7 +94,7 @@ The Registered Pension Schemes (Authorised Surplus Payments) Regulations 2006[^f
 
 .
 
-## 6. Amendment of the Registered Pension Schemes (Relevant Annuities) Regulations 2006[^key-2d6c261c7cfa2a2596babce3b80d9c77]
+## 6. Amendment of the Registered Pension Schemes (Relevant Annuities) Regulations 2006[^c-2d6c261c7cfa2a2596babce3b80d9c77]
 
 (1) The Registered Pension Schemes (Relevant Annuities) Regulations 2006[^f00007] are amended as follows.
 
@@ -124,13 +124,13 @@ The Registered Pension Schemes (Authorised Surplus Payments) Regulations 2006[^f
 
   .
 
-## 7. Amendment of the Registered Pension Schemes (Meaning of Pension Commencement Lump Sum) Regulations 2006[^key-cec46346ce068d47bc0fcea81295a38a]
+## 7. Amendment of the Registered Pension Schemes (Meaning of Pension Commencement Lump Sum) Regulations 2006[^c-cec46346ce068d47bc0fcea81295a38a]
 
 (1) The Registered Pension Schemes (Meaning of Pension Commencement Lump Sum) Regulations 2006[^f00008] are amended as follows.
 
 (2) In regulation 4 (circumstances in which the Regulations apply), for the words “even though” to “not met” substitute “even though the condition in paragraph 1(1)(c) of Schedule 29 to the Finance Act 2004 is not met”.
 
-## 8. Amendment of the Registered Pension Schemes (Authorised Payments) Regulations 2009[^key-0b10e85532ea23e66c6285c9a651dbb0]
+## 8. Amendment of the Registered Pension Schemes (Authorised Payments) Regulations 2009[^c-0b10e85532ea23e66c6285c9a651dbb0]
 
 (1) The Registered Pension Schemes (Authorised Payments) Regulations 2009[^f00009] are amended as follows.
 
@@ -145,13 +145,13 @@ The Registered Pension Schemes (Authorised Surplus Payments) Regulations 2006[^f
 
 (3) Omit regulation 9 (payments to or in respect of members who were untraceable).
 
-(4)[^key-cf38af3b404a54cb7893ead9178aa3c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-cf38af3b404a54cb7893ead9178aa3c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In regulations 11(1)(a) (de minimis rule for pension schemes) and 12(1)(c) (payments by larger pensions schemes) omit “, but has not reached the age of 75”.
 
 (6) Omit regulation 16(1)(b) (payments of arrears of pension after death).
 
-## 9. Amendment of the Registered Pension Schemes (Accounting and Assessment) Regulations 2005[^key-ad7341501b9abb629668a0cc70531d5d]
+## 9. Amendment of the Registered Pension Schemes (Accounting and Assessment) Regulations 2005[^c-ad7341501b9abb629668a0cc70531d5d]
 
 (1) The Registered Pension Schemes (Accounting and Assessment) Regulations 2005[^f00011] are amended as follows.
 
@@ -161,7 +161,7 @@ The Registered Pension Schemes (Authorised Surplus Payments) Regulations 2006[^f
 > | --- | --- |
 > | Charge under section 227[^f00012] of the Act (annual allowance charge). | 1\. The title, name and national insurance number of each individual in relation to whom the scheme administrator becomes liable to an annual allowance charge under section 237B(7)[^f00013] of the Act.<br>2\. The date on which the scheme administrator becomes liable to the annual allowance charge.<br>3\. The amount of tax to which the scheme administrator became jointly liable in respect of each individual under section 237B(7) of the Act. |
 
-## 10. Amendment of the Registered Pension Schemes (Prescribed Manner of Determining Amount of Annuities) Regulations 2006[^key-d49783c400ea3d556b1c5b366182cfff]
+## 10. Amendment of the Registered Pension Schemes (Prescribed Manner of Determining Amount of Annuities) Regulations 2006[^c-d49783c400ea3d556b1c5b366182cfff]
 
 (1) The Registered Pension Schemes (Prescribed Manner of Determining Amount of Annuities) Regulations 2006 (“the principal Regulations”)[^f00014] are amended as follows.
 
@@ -170,14 +170,14 @@ The Registered Pension Schemes (Authorised Surplus Payments) Regulations 2006[^f
 - (a) in condition 1, for “(a) to (d)” substitute “(a) to (c)”; and
 - (b) in condition 2, for “5” substitute “3”.
 
-**11.**[^key-46c3268a5847f2c061c3b5b17032c33d] Where the amount of—
+**11.**[^c-46c3268a5847f2c061c3b5b17032c33d] Where the amount of—
 
 - (a) a member’s lifetime annuity; or
 - (b) a dependant’s annuity
 
 has been determined in accordance with regulation 2 or 3 of the principal Regulations before the coming into force of these Regulations, the amendment made by regulation 10(2)(b) has effect from the date of the next review of the value of the sums and assets which are applied towards the provision of the annuity by the insurance company by whom the annuity is provided.
 
-## 12. Amendment of the Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) Regulations 2006[^key-439f74f056d44c9737e37b7fed0c8556]
+## 12. Amendment of the Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) Regulations 2006[^c-439f74f056d44c9737e37b7fed0c8556]
 
 (1) The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) Regulations 2006[^f00015] are amended as follows.
 
@@ -265,39 +265,39 @@ A Tax Information and Impact Note covering this instrument was published on 9th 
 
 [^f00003]: Footnote: The functions of the Commissioners of Inland Revenue were transferred to the Commissioners for Her Majesty’s Revenue and Customs by section 5(1) of the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11). Section 50(1) of that Act provides that, in so far as it is appropriate in consequence of section 5, a reference, however expressed, to the Commissioners of Inland Revenue is to be read as a reference to the Commissioners for Her Majesty’s Revenue and Customs.
 
-[^key-f20346f2849ac65bfe72600c426547c3]: Commencement: Reg. 1 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
+[^c-f20346f2849ac65bfe72600c426547c3]: Commencement: Reg. 1 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
 
 [^f00004]: Footnote: Pension input periods are defined in section 238 of the Finance Act 2004.
 
-[^key-a5d302b76dbe4061c9b5e60157e3e4f6]: Commencement: Reg. 2 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
+[^c-a5d302b76dbe4061c9b5e60157e3e4f6]: Commencement: Reg. 2 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 2006/136](https://www.legislation.gov.uk/uksi/2006/136), to which there are amendments not relevant to these Regulations.
 
-[^key-16d714bc5c7187b791594a30fbbcb5a8]: Commencement: Reg. 3 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
+[^c-16d714bc5c7187b791594a30fbbcb5a8]: Commencement: Reg. 3 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 2006/574](https://www.legislation.gov.uk/uksi/2006/574).
 
-[^key-b6d1d3365c2b78781ee387578f234cba]: Commencement: Reg. 4 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
+[^c-b6d1d3365c2b78781ee387578f234cba]: Commencement: Reg. 4 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
 
-[^key-70e1022cef425222d5e3c845bb6f20eb]: Commencement: Reg. 5 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
+[^c-70e1022cef425222d5e3c845bb6f20eb]: Commencement: Reg. 5 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
 
-[^key-2d6c261c7cfa2a2596babce3b80d9c77]: Commencement: Reg. 6 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
+[^c-2d6c261c7cfa2a2596babce3b80d9c77]: Commencement: Reg. 6 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 2006/129](https://www.legislation.gov.uk/uksi/2006/129).
 
-[^key-cec46346ce068d47bc0fcea81295a38a]: Commencement: Reg. 7 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
+[^c-cec46346ce068d47bc0fcea81295a38a]: Commencement: Reg. 7 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
 
 [^f00008]: Footnote: [S.I. 2006/135](https://www.legislation.gov.uk/uksi/2006/135), amended by [S.I. 2007/3533](https://www.legislation.gov.uk/uksi/2007/3533).
 
-[^key-0b10e85532ea23e66c6285c9a651dbb0]: Commencement: Reg. 8 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
+[^c-0b10e85532ea23e66c6285c9a651dbb0]: Commencement: Reg. 8 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
 
 [^f00009]: Footnote: [S.I. 2009/1171](https://www.legislation.gov.uk/uksi/2009/1171).
 
 [^f00010]: Footnote: Paragraph 15A was inserted by paragraph 44(3) of Schedule 16 to the Finance Act 2011.
 
-[^key-cf38af3b404a54cb7893ead9178aa3c6]: Textual amendment: Reg. 8(4) omitted (with effect in accordance with s. 42(10) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 42(7)](https://www.legislation.gov.uk/ukpga/2014/26/section/42/7)
+[^c-cf38af3b404a54cb7893ead9178aa3c6]: Textual amendment: Reg. 8(4) omitted (with effect in accordance with s. 42(10) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 42(7)](https://www.legislation.gov.uk/ukpga/2014/26/section/42/7)
 
-[^key-ad7341501b9abb629668a0cc70531d5d]: Commencement: Reg. 9 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
+[^c-ad7341501b9abb629668a0cc70531d5d]: Commencement: Reg. 9 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
 
 [^f00011]: Footnote: [S.I. 2005/3454](https://www.legislation.gov.uk/uksi/2005/3454) amended by [S.I. 2011/302](https://www.legislation.gov.uk/uksi/2011/302).
 
@@ -305,12 +305,12 @@ A Tax Information and Impact Note covering this instrument was published on 9th 
 
 [^f00013]: Footnote: Section 237B was inserted by paragraph 15 of Schedule 17 to Finance Act 2011.
 
-[^key-d49783c400ea3d556b1c5b366182cfff]: Commencement: Reg. 10 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
+[^c-d49783c400ea3d556b1c5b366182cfff]: Commencement: Reg. 10 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
 
 [^f00014]: Footnote: [S.I. 2006/568](https://www.legislation.gov.uk/uksi/2006/568).
 
-[^key-46c3268a5847f2c061c3b5b17032c33d]: Commencement: Reg. 11 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
+[^c-46c3268a5847f2c061c3b5b17032c33d]: Commencement: Reg. 11 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
 
-[^key-439f74f056d44c9737e37b7fed0c8556]: Commencement: Reg. 12 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
+[^c-439f74f056d44c9737e37b7fed0c8556]: Commencement: Reg. 12 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
 
 [^f00015]: Footnote: [S.I. 2006/207](https://www.legislation.gov.uk/uksi/2006/207), to which there are amendments not relevant to these Regulations.

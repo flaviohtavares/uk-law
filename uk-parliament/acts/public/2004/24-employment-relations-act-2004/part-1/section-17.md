@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Unfair practices: power to make provision about periods before notice of ballot[^key-b1689ec53c7d457caccaf5e267ae8fcd]
+## 17. Unfair practices: power to make provision about periods before notice of ballot[^c-b1689ec53c7d457caccaf5e267ae8fcd]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ After paragraph 166A of Schedule A1 to the 1992 Act (which is inserted by sectio
 
 ## Annotations
 
-[^key-b1689ec53c7d457caccaf5e267ae8fcd]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2004/24/section/17) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule)
+[^c-b1689ec53c7d457caccaf5e267ae8fcd]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2004/24/section/17) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule)

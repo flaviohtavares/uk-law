@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 217. Content of youth diversion orders[^key-2135152ef155c81b0f77b5c8cd1f8778]
+## 217. Content of youth diversion orders[^c-2135152ef155c81b0f77b5c8cd1f8778]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,4 +85,4 @@ The order may in particular contain provision of a kind mentioned in subsections
 
 ## Annotations
 
-[^key-2135152ef155c81b0f77b5c8cd1f8778]: Commencement: S. 217 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-2135152ef155c81b0f77b5c8cd1f8778]: Commencement: S. 217 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

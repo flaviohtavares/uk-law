@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Calculation of “retirement index adjustment”[^key-503fd2d022931fea9f6381ccd0c9ed81]
+## 32. Calculation of “retirement index adjustment”[^c-503fd2d022931fea9f6381ccd0c9ed81]
 
 *Extent: N.I.*
 
-(1) Subject to regulation 32A, the[^key-72fb0e815aeca09d02e0f53864068cb1] [^key-c8b9f064c6c0c5009ecef07429faa951]... retirement index adjustment for an amount of accrued pension is—
+(1) Subject to regulation 32A, the[^c-72fb0e815aeca09d02e0f53864068cb1] [^c-c8b9f064c6c0c5009ecef07429faa951]... retirement index adjustment for an amount of accrued pension is—
 
 [formula: see source](https://www.legislation.gov.uk/nisr/2014/290)
 
@@ -46,8 +46,8 @@ where—
 
 ## Annotations
 
-[^key-503fd2d022931fea9f6381ccd0c9ed81]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2014/290/regulation/32) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-503fd2d022931fea9f6381ccd0c9ed81]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2014/290/regulation/32) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
-[^key-72fb0e815aeca09d02e0f53864068cb1]: Textual amendment: Words in [reg. 32(1)](https://www.legislation.gov.uk/nisr/2014/290/regulation/32/1) inserted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [15(a)](https://www.legislation.gov.uk/nisr/2022/67/regulation/15/a)
+[^c-72fb0e815aeca09d02e0f53864068cb1]: Textual amendment: Words in [reg. 32(1)](https://www.legislation.gov.uk/nisr/2014/290/regulation/32/1) inserted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [15(a)](https://www.legislation.gov.uk/nisr/2022/67/regulation/15/a)
 
-[^key-c8b9f064c6c0c5009ecef07429faa951]: Textual amendment: Word in [reg. 32(1)](https://www.legislation.gov.uk/nisr/2014/290/regulation/32/1) omitted (with effect in accordance with of the amending Rule) by virtue of [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [15(a)](https://www.legislation.gov.uk/nisr/2022/67/regulation/15/a)
+[^c-c8b9f064c6c0c5009ecef07429faa951]: Textual amendment: Word in [reg. 32(1)](https://www.legislation.gov.uk/nisr/2014/290/regulation/32/1) omitted (with effect in accordance with of the amending Rule) by virtue of [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [15(a)](https://www.legislation.gov.uk/nisr/2022/67/regulation/15/a)

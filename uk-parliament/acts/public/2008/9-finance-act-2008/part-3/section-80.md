@@ -30,11 +30,11 @@ summary: ''
 
 (4) In subsection (2), for “Subsection (1) is” substitute “ Subsections (1) and (1A) are ”.
 
-(5)[^key-4efb08417cc2e5b8f19bd4c3b7637753] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-4efb08417cc2e5b8f19bd4c3b7637753] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-4efb08417cc2e5b8f19bd4c3b7637753] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-4efb08417cc2e5b8f19bd4c3b7637753] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-4efb08417cc2e5b8f19bd4c3b7637753] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-4efb08417cc2e5b8f19bd4c3b7637753] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) The amendments made by this section have effect in relation to chargeable periods—
 
@@ -68,4 +68,4 @@ Where x would be a figure with more than 2 decimal places, it is to be rounded u
 
 ## Annotations
 
-[^key-4efb08417cc2e5b8f19bd4c3b7637753]: Textual amendment: S. 80(5)-(7) omitted (with effect in accordance with s. 57(8)-(9) of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 57(7)](https://www.legislation.gov.uk/ukpga/2011/11/section/57/7)
+[^c-4efb08417cc2e5b8f19bd4c3b7637753]: Textual amendment: S. 80(5)-(7) omitted (with effect in accordance with s. 57(8)-(9) of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 57(7)](https://www.legislation.gov.uk/ukpga/2011/11/section/57/7)

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: S*
 
-**4E.**[^key-344206386d4e1845bacbe970395babd2] (1) If the Authority is of the opinion that a discharge of water from a coal mine into or on to any land or into the water environment has caused, is causing or is likely to cause—
+**4E.**[^c-344206386d4e1845bacbe970395babd2] (1) If the Authority is of the opinion that a discharge of water from a coal mine into or on to any land or into the water environment has caused, is causing or is likely to cause—
 
 - (a) serious pollution of the environment; or
 - (b) danger to life or health,
@@ -81,4 +81,4 @@ any entry to those premises by virtue of this section shall (except in an emerge
 
 ## Annotations
 
-[^key-344206386d4e1845bacbe970395babd2]: Textual amendment: Ss. 4D-4F inserted (20.6.2005) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [ss. 30(1)](https://www.legislation.gov.uk/asp/2005/3/section/30/1), [37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2005/351/schedule/1)
+[^c-344206386d4e1845bacbe970395babd2]: Textual amendment: Ss. 4D-4F inserted (20.6.2005) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [ss. 30(1)](https://www.legislation.gov.uk/asp/2005/3/section/30/1), [37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2005/351/schedule/1)

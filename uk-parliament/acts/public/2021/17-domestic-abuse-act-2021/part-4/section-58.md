@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Domestic abuse local partnership boards[^key-c529cabb857342a3b0703c1c4fe52ebc]
+## 58. Domestic abuse local partnership boards[^c-c529cabb857342a3b0703c1c4fe52ebc]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c529cabb857342a3b0703c1c4fe52ebc]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2021/17/section/58) in force at 1.10.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/2/e)
+[^c-c529cabb857342a3b0703c1c4fe52ebc]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2021/17/section/58) in force at 1.10.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/2/e)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The FCA[^key-3e4eb04b65e89eb5f622d8f7cf8e1291] may make rules (“**scheme particulars rules**”) requiring the manager of an authorised unit trust scheme—
+(1) The FCA[^c-3e4eb04b65e89eb5f622d8f7cf8e1291] may make rules (“**scheme particulars rules**”) requiring the manager of an authorised unit trust scheme—
 
 - (a) to submit scheme particulars to the FCA; and
 - (b) to publish scheme particulars or make them available to the public on request.
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e4eb04b65e89eb5f622d8f7cf8e1291]: Textual amendment: Word in ss. 242-252A substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 9(1)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/2) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-3e4eb04b65e89eb5f622d8f7cf8e1291]: Textual amendment: Word in ss. 242-252A substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 9(1)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/2) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

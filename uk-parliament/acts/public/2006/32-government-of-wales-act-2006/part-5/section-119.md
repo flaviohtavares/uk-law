@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Statement of estimated payments[^key-59c2b3cc9baf557149abf7973eae52df]
+## 119. Statement of estimated payments[^c-59c2b3cc9baf557149abf7973eae52df]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59c2b3cc9baf557149abf7973eae52df]: Textual amendment: S. 119 omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 13(1)](https://www.legislation.gov.uk/ukpga/2017/4/section/13/1), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/d)
+[^c-59c2b3cc9baf557149abf7973eae52df]: Textual amendment: S. 119 omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 13(1)](https://www.legislation.gov.uk/ukpga/2017/4/section/13/1), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/d)

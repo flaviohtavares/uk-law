@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Deemed registration of visiting EEA nurses and midwives[^key-94c2893948d3fbe578549b952f78d7e0]
+## 11. Deemed registration of visiting EEA nurses and midwives[^c-94c2893948d3fbe578549b952f78d7e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94c2893948d3fbe578549b952f78d7e0]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/uksi/2002/253/article/11) omitted (3.12.2007) by virtue of [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [161](https://www.legislation.gov.uk/uksi/2007/3101/regulation/161)
+[^c-94c2893948d3fbe578549b952f78d7e0]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/uksi/2002/253/article/11) omitted (3.12.2007) by virtue of [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [161](https://www.legislation.gov.uk/uksi/2007/3101/regulation/161)

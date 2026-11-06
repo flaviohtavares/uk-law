@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 181. Allowances in respect of education or training[^key-548f545bc0ea4007f659a36498a43066][^key-a381ee372d4271570af4480ce94385d7]
+## 181. Allowances in respect of education or training[^c-548f545bc0ea4007f659a36498a43066][^c-a381ee372d4271570af4480ce94385d7]
 
 *Extent: E+W*
 
@@ -41,14 +41,14 @@ summary: ''
 (4) In this section and section 182—
 
 - “**governing body**”—
-  - (a) in relation to a pupil referral unit, means the local authority[^key-379c0a8ab791aad4cda0b42dbea5f020] who maintain the unit, and
+  - (a) in relation to a pupil referral unit, means the local authority[^c-379c0a8ab791aad4cda0b42dbea5f020] who maintain the unit, and
   - (b) in relation to an institution within the further education sector, has the meaning given by section 90 of the Further and Higher Education Act 1992 (c. 13);
 - “**maintained school**” means a community, foundation or voluntary school, a community or foundation special school or a pupil referral unit.
 
 ## Annotations
 
-[^key-548f545bc0ea4007f659a36498a43066]: Commencement: S. 181 in force at 1.9.2003 for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)
+[^c-548f545bc0ea4007f659a36498a43066]: Commencement: S. 181 in force at 1.9.2003 for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)
 
-[^key-a381ee372d4271570af4480ce94385d7]: Commencement: S. 181 in force at 1.9.2003 except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 4](https://www.legislation.gov.uk/uksi/2003/1667/article/4)
+[^c-a381ee372d4271570af4480ce94385d7]: Commencement: S. 181 in force at 1.9.2003 except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 4](https://www.legislation.gov.uk/uksi/2003/1667/article/4)
 
-[^key-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
+[^c-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)

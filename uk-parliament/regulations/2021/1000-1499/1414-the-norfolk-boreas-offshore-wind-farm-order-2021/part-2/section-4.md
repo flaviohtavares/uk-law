@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Limits of deviation[^key-347bcb130bd8d3bd882195293fe465df]
+## 4. Limits of deviation[^c-347bcb130bd8d3bd882195293fe465df]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ In the event that the undertaker carries out the overhead line modification as p
 
 ## Annotations
 
-[^key-347bcb130bd8d3bd882195293fe465df]: Commencement: Art. 4 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
+[^c-347bcb130bd8d3bd882195293fe465df]: Commencement: Art. 4 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)

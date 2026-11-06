@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 161. Application for the exercise of court’s powers under Article 155[^key-6f84a7eac1b3519dd51cca43572516c4]
+## 161. Application for the exercise of court’s powers under Article 155[^c-6f84a7eac1b3519dd51cca43572516c4]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f84a7eac1b3519dd51cca43572516c4]: Commencement: [Rule 161](https://www.legislation.gov.uk/nisr/2026/11/rule/161) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-6f84a7eac1b3519dd51cca43572516c4]: Commencement: [Rule 161](https://www.legislation.gov.uk/nisr/2026/11/rule/161) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

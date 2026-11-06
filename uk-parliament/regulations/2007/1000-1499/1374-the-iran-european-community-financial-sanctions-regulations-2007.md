@@ -52,7 +52,7 @@ These Regulations make provision for a purpose mentioned in that section and it 
 
 ## PART 1 — Preliminary and general
 
-### 1. Citation, commencement, extent and application[^key-2296f6029aa80c07848545cb5a28bd4d]
+### 1. Citation, commencement, extent and application[^c-2296f6029aa80c07848545cb5a28bd4d]
 
 (1) These Regulations may be cited as the Iran (European Community Financial Sanctions) Regulations 2007 and come into force on 3rd May 2007.
 
@@ -63,7 +63,7 @@ These Regulations make provision for a purpose mentioned in that section and it 
 - (a) a British citizen, a British overseas territories citizen, a British Overseas citizen, a British subject, a British National (Overseas) or a British protected person; or
 - (b) a body incorporated or constituted under the law of any part of the United Kingdom.
 
-### 2. Interpretation[^key-a801fe33523685ab93089143f1424de6]
+### 2. Interpretation[^c-a801fe33523685ab93089143f1424de6]
 
 (1) In these Regulations—
 
@@ -97,7 +97,7 @@ These Regulations make provision for a purpose mentioned in that section and it 
 
 ## PART 2 — Designated persons and directions
 
-### 3. Designated persons[^key-ed0002d9ea22f69c2773dd67cbc124f8]
+### 3. Designated persons[^c-ed0002d9ea22f69c2773dd67cbc124f8]
 
 (1) For the purposes of these Regulations—
 
@@ -108,7 +108,7 @@ is a designated person.
 
 (2) In this Part “direction” (other than in regulation 4(2)(b)) means a direction given by the Treasury under regulation 4(1).
 
-### 4. Treasury’s power to designate persons[^key-16d1ebdc4ef28b9b02724d661324b36b]
+### 4. Treasury’s power to designate persons[^c-16d1ebdc4ef28b9b02724d661324b36b]
 
 (1) Where any condition in paragraph (2) is satisfied, the Treasury may give a direction that a person identified in the direction is designated for the purposes of these Regulations.
 
@@ -120,7 +120,7 @@ is a designated person.
 
 (3) The Treasury may vary or revoke a direction at any time.
 
-### 5. Directions: further provisions[^key-75f5984f21a19a578a4009c9e94ac878]
+### 5. Directions: further provisions[^c-75f5984f21a19a578a4009c9e94ac878]
 
 (1) Where the Treasury give a direction they must—
 
@@ -137,7 +137,7 @@ is a designated person.
 
 ## PART 3 — Prohibitions and licences
 
-### 6. Freezing funds and economic resources of designated persons[^key-20479bb727248b1b001a183ce42f3438]
+### 6. Freezing funds and economic resources of designated persons[^c-20479bb727248b1b001a183ce42f3438]
 
 (1) A person (including the designated person) must not deal with funds or economic resources owned, held or controlled by a designated person unless he does so under the authority of a licence granted under regulation 10.
 
@@ -153,7 +153,7 @@ is a designated person.
   - (iii) make any other change that would enable use, including portfolio management; and
 - (b) in respect of economic resources, use to obtain funds, goods or services in any way, including (but not limited to) by selling, hiring or mortgaging the resources.
 
-### 7. Making funds or economic resources available to designated persons etc.[^key-a30adc6c5d9fd885e6772779f0a7be7d]
+### 7. Making funds or economic resources available to designated persons etc.[^c-a30adc6c5d9fd885e6772779f0a7be7d]
 
 (1) A person must not make funds or economic resources available, directly or indirectly, to or for the benefit of a designated person unless he does so under the authority of a licence granted under regulation 10.
 
@@ -161,7 +161,7 @@ is a designated person.
 
 (3) In proceedings for an offence under this regulation, it is a defence for a person to show that he did not know and had no reasonable cause to suspect that he was making funds or economic resources available, directly or indirectly, to or for the benefit of a designated person.
 
-### 8. Exceptions[^key-763f9d51507c264c7adb7545645e7eb2]
+### 8. Exceptions[^c-763f9d51507c264c7adb7545645e7eb2]
 
 (1) A person is not guilty of an offence under regulation 6 or 7 if he credits a frozen account with—
 
@@ -174,14 +174,14 @@ is a designated person.
 
 (4) In this regulation “frozen account” means an account with a relevant institution which is held or controlled by a designated person.
 
-### 9. Circumventing prohibitions etc.[^key-435e5051e7f575111abb419f5715ba44]
+### 9. Circumventing prohibitions etc.[^c-435e5051e7f575111abb419f5715ba44]
 
 A person is guilty of an offence if he participates, knowingly and intentionally, in activities the object or effect of which is, directly or indirectly, to—
 
 - (a) circumvent a prohibition in regulation 6(1) or 7(1), or
 - (b) enable or facilitate the commission of an offence under regulation 6 or 7.
 
-### 10. Licences[^key-2d9d27f1ba87b21aa3e51d65e707ac70]
+### 10. Licences[^c-2d9d27f1ba87b21aa3e51d65e707ac70]
 
 (1) The Treasury may grant a licence to exempt acts specified in the licence from the prohibition in regulation 6(1) or 7(1).
 
@@ -204,11 +204,11 @@ A person is guilty of an offence if he participates, knowingly and intentionally
 
 ## PART 4 — Miscellaneous
 
-### 11. Evidence and information[^key-c45c843cbbcc75e7056304be68e6bc4e]
+### 11. Evidence and information[^c-c45c843cbbcc75e7056304be68e6bc4e]
 
 The Schedule (which contains further provisions about evidence and information) has effect.
 
-### 12. Penalties[^key-9ce35fccbe481b8aa167e3d6efa02e24]
+### 12. Penalties[^c-9ce35fccbe481b8aa167e3d6efa02e24]
 
 (1) A person guilty of an offence under regulation 6, 7, 9 or 10 or paragraph 4(b) or (d) of the Schedule is liable—
 
@@ -229,7 +229,7 @@ The Schedule (which contains further provisions about evidence and information) 
 
 the officer as well as the body corporate is guilty of the offence and is liable to be proceeded against and punished accordingly.
 
-### 13. Proceedings[^key-5f89cdb5a8d1d18256e00eb8ca1558e8]
+### 13. Proceedings[^c-5f89cdb5a8d1d18256e00eb8ca1558e8]
 
 (1) Proceedings against any person for an offence may be taken before the appropriate court in the United Kingdom having jurisdiction in the place where that person is for the time being.
 
@@ -268,7 +268,7 @@ the officer as well as the body corporate is guilty of the offence and is liable
 
 (10) In this regulation, “offence” means an offence under these Regulations.
 
-### 14. Notices[^key-edb0f7f0cb8513b5059008a4430ff81f]
+### 14. Notices[^c-edb0f7f0cb8513b5059008a4430ff81f]
 
 (1) This regulation has effect in relation to any notice to be given to a person by the Treasury under regulation 5(1)(b) or 10(4)(a).
 
@@ -279,13 +279,13 @@ the officer as well as the body corporate is guilty of the offence and is liable
 
 (3) Where the Treasury do not have an address for the person, they must make arrangements for the notice to be given to him at the first available opportunity.
 
-### 15. Functions of the Treasury[^key-53c85c8d2296c2d2dcfda46b85cb8269]
+### 15. Functions of the Treasury[^c-53c85c8d2296c2d2dcfda46b85cb8269]
 
 (1) The Treasury may, to such extent and subject to such restrictions and conditions as they may think proper, delegate or authorise the delegation of any of their functions under these Regulations (except regulation 4) to any person or description of persons.
 
 (2) References in these Regulations to the Treasury are to be construed accordingly.
 
-### 16. The Crown[^key-6856814da39e317d4bbc6d40f6aef8cf]
+### 16. The Crown[^c-6856814da39e317d4bbc6d40f6aef8cf]
 
 (1) These Regulations bind the Crown, subject to the following provisions of this regulation.
 
@@ -293,11 +293,11 @@ the officer as well as the body corporate is guilty of the offence and is liable
 
 (3) Nothing in this regulation affects Her Majesty in her private capacity; and this is to be construed as if section 38(3) of the Crown Proceedings Act 1947[^f00011] (meaning of Her Majesty in her private capacity) were contained in these Regulations.
 
-### 17. Transitional provisions[^key-b9b9490c3231b79b9d14e9b17f5083bb]
+### 17. Transitional provisions[^c-b9b9490c3231b79b9d14e9b17f5083bb]
 
 In relation to an offence under these Regulations committed before the commencement of section 283 of and paragraph 3 of Schedule 27 to the Criminal Justice Act 2003[^f00012] (enabling powers: alteration of maximum penalties), the reference in regulation 12(1)(b)(i) to 12 months and the reference in regulation 12(2)(a) to 51 weeks shall have effect as if each were a reference to three months.
 
-### 18. Amendments to the Iran (Financial Sanctions) Order 2007[^key-f2b18d9cff9a14695fb7b55988228eec]
+### 18. Amendments to the Iran (Financial Sanctions) Order 2007[^c-f2b18d9cff9a14695fb7b55988228eec]
 
 (1) The Iran (Financial Sanctions) Order 2007[^f00013] is amended in accordance with paragraphs (2) to (7).
 
@@ -335,13 +335,13 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 Regulation 11
 
-**1.**[^key-49f1c0610c18868f746d923c3d5ffff1] The Treasury must take such steps as they consider appropriate to cooperate with any domestic or international investigation relating to the funds, economic resources or financial transactions of—
+**1.**[^c-49f1c0610c18868f746d923c3d5ffff1] The Treasury must take such steps as they consider appropriate to cooperate with any domestic or international investigation relating to the funds, economic resources or financial transactions of—
 
 - (a) any designated person;
 - (b) any person acting on behalf or at the direction of a designated person; and
 - (c) any person owned or controlled by a designated person.
 
-**2.**[^key-29b7abd3590d23d29e7d9d9f0877be23] (1) A relevant institution must as soon as practicable inform the Treasury if it knows or suspects that a relevant person—
+**2.**[^c-29b7abd3590d23d29e7d9d9f0877be23] (1) A relevant institution must as soon as practicable inform the Treasury if it knows or suspects that a relevant person—
 
 - (a) is a designated person;
 - (b) is acting on behalf or at the direction of a designated person;
@@ -364,7 +364,7 @@ Regulation 11
 - (b) a person who has been a customer of the institution at any time on or after 20th April 2007 [^f00014]; or
 - (c) a person with whom the institution has had dealings in the course of its business since that date.
 
-**3.**[^key-3ebaab8e5af5564b3903b80b584b1a7c] (1) The Treasury may request any person in or resident in the United Kingdom to give to them any information or to produce to them any document in his possession or control which they may require for the purpose of—
+**3.**[^c-3ebaab8e5af5564b3903b80b584b1a7c] (1) The Treasury may request any person in or resident in the United Kingdom to give to them any information or to produce to them any document in his possession or control which they may require for the purpose of—
 
 - (a) ensuring compliance with or detecting evasion of these Regulations;
 - (b) obtaining evidence of the commission of an offence under these Regulations;
@@ -381,16 +381,16 @@ Regulation 11
 
 (4) Nothing in this paragraph shall be taken to require any person who has acted as counsel or solicitor for any person to give or produce any privileged information or document in his possession in that capacity.
 
-**4.**[^key-88c9ceba1ffd16d62b85f15bff2f5d20] A person is guilty of an offence if he—
+**4.**[^c-88c9ceba1ffd16d62b85f15bff2f5d20] A person is guilty of an offence if he—
 
 - (a) without reasonable excuse refuses or fails within the time and in the manner specified (or, if no time has been specified, within a reasonable time) to comply with any request made under paragraph 3;
 - (b) knowingly or recklessly gives any information or produces any document which is false in a material particular in response to such a request;
 - (c) otherwise wilfully obstructs the Treasury in the exercise of their powers under this Schedule; or
 - (d) with intent to evade the provisions of this Schedule, destroys, mutilates, defaces, conceals or removes any document.
 
-**5.**[^key-608563e5f60a2c92ce73e75a96cdbb2f] Where a person is convicted of an offence under paragraph 4(a), the court may make an order requiring him, within such period as may be specified in the order, to give the requested information or to produce the requested document.
+**5.**[^c-608563e5f60a2c92ce73e75a96cdbb2f] Where a person is convicted of an offence under paragraph 4(a), the court may make an order requiring him, within such period as may be specified in the order, to give the requested information or to produce the requested document.
 
-**6.**[^key-c2c6df0e61a74a9163da27bf1ed5f62c] (1) The Treasury may only disclose any information given or document produced under this Schedule (including any copy or extract made of any such document)—
+**6.**[^c-c2c6df0e61a74a9163da27bf1ed5f62c] (1) The Treasury may only disclose any information given or document produced under this Schedule (including any copy or extract made of any such document)—
 
 - (a) to a police officer;
 - (b) to any person holding or acting in any office under or in the service of—
@@ -410,7 +410,7 @@ Regulation 11
 
 (2) In this paragraph, “in his own right” means not merely in the capacity as a servant or agent of another person.
 
-**7.**[^key-4c7f49c6336ebde1f2ef333225e8a89d] An action done under this Schedule is not to be treated as a breach of any restriction imposed by statute or otherwise.
+**7.**[^c-4c7f49c6336ebde1f2ef333225e8a89d] An action done under this Schedule is not to be treated as a breach of any restriction imposed by statute or otherwise.
 
 EXPLANATORY NOTE
 
@@ -452,9 +452,9 @@ A partial regulatory impact assessment of the effect that this instrument will h
 
 [^f00003]: Footnote: See paragraph 1A of Schedule 2 to the European Communities Act 1972, as inserted by section 28 of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51).
 
-[^key-2296f6029aa80c07848545cb5a28bd4d]: Commencement: Reg. 1 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
+[^c-2296f6029aa80c07848545cb5a28bd4d]: Commencement: Reg. 1 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
 
-[^key-a801fe33523685ab93089143f1424de6]: Commencement: Reg. 2 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
+[^c-a801fe33523685ab93089143f1424de6]: Commencement: Reg. 2 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
 
 [^f00004]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 
@@ -464,62 +464,62 @@ A partial regulatory impact assessment of the effect that this instrument will h
 
 [^f00007]: Footnote: As amended by [S.I.2003/2066](https://www.legislation.gov.uk/uksi/2003/2066).
 
-[^key-ed0002d9ea22f69c2773dd67cbc124f8]: Commencement: Reg. 3 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
+[^c-ed0002d9ea22f69c2773dd67cbc124f8]: Commencement: Reg. 3 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
 
 [^f00008]: Footnote: Council Decision [2007/242/EC](https://www.legislation.gov.uk/european/decision/2007/0242) of 23rd April 2007 (OJ L 106, 24.4.07, p.51) establishes the list in Annex V of the EC Regulation.
 
-[^key-16d1ebdc4ef28b9b02724d661324b36b]: Commencement: Reg. 4 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
+[^c-16d1ebdc4ef28b9b02724d661324b36b]: Commencement: Reg. 4 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
 
-[^key-75f5984f21a19a578a4009c9e94ac878]: Commencement: Reg. 5 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
+[^c-75f5984f21a19a578a4009c9e94ac878]: Commencement: Reg. 5 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
 
-[^key-20479bb727248b1b001a183ce42f3438]: Commencement: Reg. 6 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
+[^c-20479bb727248b1b001a183ce42f3438]: Commencement: Reg. 6 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
 
-[^key-a30adc6c5d9fd885e6772779f0a7be7d]: Commencement: Reg. 7 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
+[^c-a30adc6c5d9fd885e6772779f0a7be7d]: Commencement: Reg. 7 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
 
-[^key-763f9d51507c264c7adb7545645e7eb2]: Commencement: Reg. 8 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
+[^c-763f9d51507c264c7adb7545645e7eb2]: Commencement: Reg. 8 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
 
-[^key-435e5051e7f575111abb419f5715ba44]: Commencement: Reg. 9 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
+[^c-435e5051e7f575111abb419f5715ba44]: Commencement: Reg. 9 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
 
-[^key-2d9d27f1ba87b21aa3e51d65e707ac70]: Commencement: Reg. 10 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
+[^c-2d9d27f1ba87b21aa3e51d65e707ac70]: Commencement: Reg. 10 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
 
-[^key-c45c843cbbcc75e7056304be68e6bc4e]: Commencement: Reg. 11 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
+[^c-c45c843cbbcc75e7056304be68e6bc4e]: Commencement: Reg. 11 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
 
-[^key-9ce35fccbe481b8aa167e3d6efa02e24]: Commencement: Reg. 12 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
+[^c-9ce35fccbe481b8aa167e3d6efa02e24]: Commencement: Reg. 12 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
 
-[^key-5f89cdb5a8d1d18256e00eb8ca1558e8]: Commencement: Reg. 13 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
+[^c-5f89cdb5a8d1d18256e00eb8ca1558e8]: Commencement: Reg. 13 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
 
 [^f00009]: Footnote: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46).
 
 [^f00010]: Footnote: [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341), to which there are amendments not relevant to these Regulations.
 
-[^key-edb0f7f0cb8513b5059008a4430ff81f]: Commencement: Reg. 14 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
+[^c-edb0f7f0cb8513b5059008a4430ff81f]: Commencement: Reg. 14 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
 
-[^key-53c85c8d2296c2d2dcfda46b85cb8269]: Commencement: Reg. 15 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
+[^c-53c85c8d2296c2d2dcfda46b85cb8269]: Commencement: Reg. 15 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
 
-[^key-6856814da39e317d4bbc6d40f6aef8cf]: Commencement: Reg. 16 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
+[^c-6856814da39e317d4bbc6d40f6aef8cf]: Commencement: Reg. 16 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
 
 [^f00011]: Footnote: [1947 c.44](https://www.legislation.gov.uk/ukpga/1947/44).
 
-[^key-b9b9490c3231b79b9d14e9b17f5083bb]: Commencement: Reg. 17 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
+[^c-b9b9490c3231b79b9d14e9b17f5083bb]: Commencement: Reg. 17 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
 
 [^f00012]: Footnote: [2003 c.44](https://www.legislation.gov.uk/ukpga/2003/44).
 
-[^key-f2b18d9cff9a14695fb7b55988228eec]: Commencement: Reg. 18 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
+[^c-f2b18d9cff9a14695fb7b55988228eec]: Commencement: Reg. 18 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
 
 [^f00013]: Footnote: [S.I. 2007/281](https://www.legislation.gov.uk/uksi/2007/281).
 
-[^key-49f1c0610c18868f746d923c3d5ffff1]: Commencement: Sch. para. 1 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
+[^c-49f1c0610c18868f746d923c3d5ffff1]: Commencement: Sch. para. 1 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
 
-[^key-29b7abd3590d23d29e7d9d9f0877be23]: Commencement: Sch. para. 2 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
+[^c-29b7abd3590d23d29e7d9d9f0877be23]: Commencement: Sch. para. 2 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
 
 [^f00014]: Footnote: This is the date on which the EC Regulation came into force.
 
-[^key-3ebaab8e5af5564b3903b80b584b1a7c]: Commencement: Sch. para. 3 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
+[^c-3ebaab8e5af5564b3903b80b584b1a7c]: Commencement: Sch. para. 3 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
 
-[^key-88c9ceba1ffd16d62b85f15bff2f5d20]: Commencement: Sch. para. 4 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
+[^c-88c9ceba1ffd16d62b85f15bff2f5d20]: Commencement: Sch. para. 4 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
 
-[^key-608563e5f60a2c92ce73e75a96cdbb2f]: Commencement: Sch. para. 5 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
+[^c-608563e5f60a2c92ce73e75a96cdbb2f]: Commencement: Sch. para. 5 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
 
-[^key-c2c6df0e61a74a9163da27bf1ed5f62c]: Commencement: Sch. para. 6 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
+[^c-c2c6df0e61a74a9163da27bf1ed5f62c]: Commencement: Sch. para. 6 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
 
-[^key-4c7f49c6336ebde1f2ef333225e8a89d]: Commencement: Sch. para. 7 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)
+[^c-4c7f49c6336ebde1f2ef333225e8a89d]: Commencement: Sch. para. 7 in force at 3.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1374/regulation/1/1)

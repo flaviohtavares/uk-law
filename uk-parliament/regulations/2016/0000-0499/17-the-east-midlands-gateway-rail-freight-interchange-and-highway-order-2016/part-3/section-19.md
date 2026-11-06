@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Clearways and no waiting[^key-b747b6c080459ebc9acb8f087c5b78f5]
+## 19. Clearways and no waiting[^c-b747b6c080459ebc9acb8f087c5b78f5]
 
 *Extent: E+W+S*
 
@@ -31,7 +31,7 @@ summary: ''
 - (a) to render it unlawful to cause or permit a vehicle to wait on any part of the carriageway or verge, for so long as may be necessary to enable that vehicle to be used in connection with—
   - (i) the removal of any obstruction to traffic;
   - (ii) the maintenance, improvement, reconstruction or operation of the carriageway or verge;
-  - (iii) the laying, erection, inspection, maintenance, alteration, repair, renewal or removal in or near the carriageway or verge of any sewer, main pipe, conduit, wire, cable or other apparatus for the supply of gas, water, electricity or any electronic communications apparatus within the meaning given in paragraph 5 of the electronic communications code set out in Schedule 3A to the Communications Act 2003[^key-17b4d99ae4a9fb3ee66071e33114a078]; or
+  - (iii) the laying, erection, inspection, maintenance, alteration, repair, renewal or removal in or near the carriageway or verge of any sewer, main pipe, conduit, wire, cable or other apparatus for the supply of gas, water, electricity or any electronic communications apparatus within the meaning given in paragraph 5 of the electronic communications code set out in Schedule 3A to the Communications Act 2003[^c-17b4d99ae4a9fb3ee66071e33114a078]; or
   - (iv) any building operation or demolition;
 - (b) in relation to a vehicle being used—
   - (i) for police, ambulance, fire and rescue authority or traffic officer purposes;
@@ -58,9 +58,9 @@ summary: ''
 
 ## Annotations
 
-[^key-b747b6c080459ebc9acb8f087c5b78f5]: Commencement: Art. 19 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-b747b6c080459ebc9acb8f087c5b78f5]: Commencement: Art. 19 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-17b4d99ae4a9fb3ee66071e33114a078]: Textual amendment: Words in [art. 19(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2016/17/article/19/4/a/iii) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 3 para. 11(2)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/3/paragraph/11/2)
+[^c-17b4d99ae4a9fb3ee66071e33114a078]: Textual amendment: Words in [art. 19(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2016/17/article/19/4/a/iii) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 3 para. 11(2)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/3/paragraph/11/2)
 
 [^f00026]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
 

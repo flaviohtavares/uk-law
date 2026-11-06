@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: S*
 
-[^key-b4adfc1c54f36054f088c5b99677d687]*(not yet in force: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .)*
+[^c-b4adfc1c54f36054f088c5b99677d687]*(not yet in force: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .)*
 
 ## Annotations
 
 [^c21031851]: Textual amendment: S. 74A inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 203](https://www.legislation.gov.uk/asp/2010/13/section/203), [206](https://www.legislation.gov.uk/asp/2010/13/section/206), [Sch. 7 para. 81](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/81); S.S.I. 2011/178, art. 2, Sch.
 
-[^key-b4adfc1c54f36054f088c5b99677d687]: Textual amendment: S. 74A repealed (1.4.2016) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 40(5)(b)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/40/5/b); [S.S.I. 2016/13](https://www.legislation.gov.uk/ssi/2016/13), [art. 2](https://www.legislation.gov.uk/ssi/2016/13/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/13/schedule)
+[^c-b4adfc1c54f36054f088c5b99677d687]: Textual amendment: S. 74A repealed (1.4.2016) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 40(5)(b)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/40/5/b); [S.S.I. 2016/13](https://www.legislation.gov.uk/ssi/2016/13), [art. 2](https://www.legislation.gov.uk/ssi/2016/13/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/13/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Power of magistrates' court to remit case to another magistrates' court for sentence[^key-6d14060b4d4f7835ce5bfdf18d0bf8f4]
+## 28. Power of magistrates' court to remit case to another magistrates' court for sentence[^c-6d14060b4d4f7835ce5bfdf18d0bf8f4]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ This is subject to subsection (7).
 
 ## Annotations
 
-[^key-6d14060b4d4f7835ce5bfdf18d0bf8f4]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2020/17/section/28) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-6d14060b4d4f7835ce5bfdf18d0bf8f4]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2020/17/section/28) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

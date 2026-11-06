@@ -30,7 +30,7 @@ summary: ''
 
 AGRICULTURE
 
-Feeding Stuffs (Amendment) Regulations (Northern Ireland) 1999 (revoked)[^key-24831eac85236b0f7fa926db0fa49d18]
+Feeding Stuffs (Amendment) Regulations (Northern Ireland) 1999 (revoked)[^c-24831eac85236b0f7fa926db0fa49d18]
 
 Made
 
@@ -40,46 +40,46 @@ Coming into operation
 
 29th July 1999
 
-[^key-24831eac85236b0f7fa926db0fa49d18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-24831eac85236b0f7fa926db0fa49d18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-24831eac85236b0f7fa926db0fa49d18]
+## 1. Citation, commencement and interpretation[^c-24831eac85236b0f7fa926db0fa49d18]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Feeding Stuffs Regulations (Northern Ireland) 1995[^key-24831eac85236b0f7fa926db0fa49d18]
+## 2. Amendment of the Feeding Stuffs Regulations (Northern Ireland) 1995[^c-24831eac85236b0f7fa926db0fa49d18]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-24831eac85236b0f7fa926db0fa49d18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-24831eac85236b0f7fa926db0fa49d18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-24831eac85236b0f7fa926db0fa49d18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-24831eac85236b0f7fa926db0fa49d18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-24831eac85236b0f7fa926db0fa49d18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-24831eac85236b0f7fa926db0fa49d18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-24831eac85236b0f7fa926db0fa49d18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-24831eac85236b0f7fa926db0fa49d18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Schedule — Provisions to be substituted for Part II of Schedule 5 to the Feeding Stuffs Regulations (Northern Ireland) 1995[^key-24831eac85236b0f7fa926db0fa49d18]
+## Schedule — Provisions to be substituted for Part II of Schedule 5 to the Feeding Stuffs Regulations (Northern Ireland) 1995[^c-24831eac85236b0f7fa926db0fa49d18]
 
 Regulation 5(b)
 
-### PART II — FEED MATERIALS[^key-24831eac85236b0f7fa926db0fa49d18]
+### PART II — FEED MATERIALS[^c-24831eac85236b0f7fa926db0fa49d18]
 
-#### Chapter A[^key-24831eac85236b0f7fa926db0fa49d18]
+#### Chapter A[^c-24831eac85236b0f7fa926db0fa49d18]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### CHAPTER B[^key-24831eac85236b0f7fa926db0fa49d18]
+#### CHAPTER B[^c-24831eac85236b0f7fa926db0fa49d18]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-24831eac85236b0f7fa926db0fa49d18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-24831eac85236b0f7fa926db0fa49d18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-24831eac85236b0f7fa926db0fa49d18]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/287) revoked (2.4.2001) by [Feeding Stuffs Regulations (Northern Ireland) 2001 (S.R. 2001/47)](https://www.legislation.gov.uk/nisr/2001/47), [regs. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1), [24](https://www.legislation.gov.uk/nisr/2001/47/regulation/24)
+[^c-24831eac85236b0f7fa926db0fa49d18]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/287) revoked (2.4.2001) by [Feeding Stuffs Regulations (Northern Ireland) 2001 (S.R. 2001/47)](https://www.legislation.gov.uk/nisr/2001/47), [regs. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1), [24](https://www.legislation.gov.uk/nisr/2001/47/regulation/24)

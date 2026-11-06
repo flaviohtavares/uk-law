@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Officers' initial functions[^key-630f607240365480eec0c5beb28134eb][^key-3335bf36402517ac0e139366edab3ec5][^key-cc252a4a9bc0f65f0d70f8371db466c8][^key-9794faa9521ed53d94e6ccb8cd622bb7][^key-c8de9a44cbefd1b0eff76d3e08239d7b][^key-b991554c9baa56617b991e8ba07a6922]
+## 6. Officers' initial functions[^c-630f607240365480eec0c5beb28134eb][^c-3335bf36402517ac0e139366edab3ec5][^c-cc252a4a9bc0f65f0d70f8371db466c8][^c-9794faa9521ed53d94e6ccb8cd622bb7][^c-c8de9a44cbefd1b0eff76d3e08239d7b][^c-b991554c9baa56617b991e8ba07a6922]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,14 +37,14 @@ summary: ''
 
 ## Annotations
 
-[^key-630f607240365480eec0c5beb28134eb]: Commencement: S. 6 in force at 18.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/b)
+[^c-630f607240365480eec0c5beb28134eb]: Commencement: S. 6 in force at 18.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/b)
 
-[^key-3335bf36402517ac0e139366edab3ec5]: Modification: S. 6 restricted (8.11.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 84(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/2)[(3)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/3)[(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5); [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3166/article/2/c)
+[^c-3335bf36402517ac0e139366edab3ec5]: Modification: S. 6 restricted (8.11.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 84(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/2)[(3)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/3)[(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5); [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3166/article/2/c)
 
-[^key-cc252a4a9bc0f65f0d70f8371db466c8]: Modification: S. 6 restricted (15.2.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 12 para. 31](https://www.legislation.gov.uk/ukpga/2007/27/schedule/12/paragraph/31); [S.I. 2008/219](https://www.legislation.gov.uk/uksi/2008/219), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/219/article/2/b)
+[^c-cc252a4a9bc0f65f0d70f8371db466c8]: Modification: S. 6 restricted (15.2.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 12 para. 31](https://www.legislation.gov.uk/ukpga/2007/27/schedule/12/paragraph/31); [S.I. 2008/219](https://www.legislation.gov.uk/uksi/2008/219), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/219/article/2/b)
 
-[^key-9794faa9521ed53d94e6ccb8cd622bb7]: Modification: S. 6 modified (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 11(7)(b)](https://www.legislation.gov.uk/ukpga/2009/11/section/11/7/b), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
+[^c-9794faa9521ed53d94e6ccb8cd622bb7]: Modification: S. 6 modified (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 11(7)(b)](https://www.legislation.gov.uk/ukpga/2009/11/section/11/7/b), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
 
-[^key-c8de9a44cbefd1b0eff76d3e08239d7b]: Modification: S. 6 modified (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 3(8)(b)](https://www.legislation.gov.uk/ukpga/2009/11/section/3/8/b), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
+[^c-c8de9a44cbefd1b0eff76d3e08239d7b]: Modification: S. 6 modified (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 3(8)(b)](https://www.legislation.gov.uk/ukpga/2009/11/section/3/8/b), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
 
-[^key-b991554c9baa56617b991e8ba07a6922]: Modification: Ss. 6, 7 restricted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 48 para. 22](https://www.legislation.gov.uk/ukpga/2013/29/schedule/48/paragraph/22)
+[^c-b991554c9baa56617b991e8ba07a6922]: Modification: Ss. 6, 7 restricted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 48 para. 22](https://www.legislation.gov.uk/ukpga/2013/29/schedule/48/paragraph/22)

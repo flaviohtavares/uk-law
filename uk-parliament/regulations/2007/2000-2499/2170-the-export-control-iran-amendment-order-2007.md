@@ -32,7 +32,7 @@ summary: ''
 
 CUSTOMS
 
-The Export Control (Iran) (Amendment) Order 2007 (revoked)[^key-aea1e45585a02214857d4a4b059569eb]
+The Export Control (Iran) (Amendment) Order 2007 (revoked)[^c-aea1e45585a02214857d4a4b059569eb]
 
 Made
 
@@ -46,50 +46,50 @@ Coming into force
 
 27th July 2007
 
-[^key-aea1e45585a02214857d4a4b059569eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aea1e45585a02214857d4a4b059569eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-aea1e45585a02214857d4a4b059569eb]
+## 1.[^c-aea1e45585a02214857d4a4b059569eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-aea1e45585a02214857d4a4b059569eb]
+## 2.[^c-aea1e45585a02214857d4a4b059569eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aea1e45585a02214857d4a4b059569eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aea1e45585a02214857d4a4b059569eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — AMENDMENT OF EXPORT CONTROL (IRAN) ORDER 2007[^key-aea1e45585a02214857d4a4b059569eb]
+## SCHEDULE — AMENDMENT OF EXPORT CONTROL (IRAN) ORDER 2007[^c-aea1e45585a02214857d4a4b059569eb]
 
 Article 2
 
-**1.**[^key-aea1e45585a02214857d4a4b059569eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-aea1e45585a02214857d4a4b059569eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-aea1e45585a02214857d4a4b059569eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-aea1e45585a02214857d4a4b059569eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-aea1e45585a02214857d4a4b059569eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-aea1e45585a02214857d4a4b059569eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-aea1e45585a02214857d4a4b059569eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-aea1e45585a02214857d4a4b059569eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-aea1e45585a02214857d4a4b059569eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-aea1e45585a02214857d4a4b059569eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-aea1e45585a02214857d4a4b059569eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-aea1e45585a02214857d4a4b059569eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-aea1e45585a02214857d4a4b059569eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-aea1e45585a02214857d4a4b059569eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-aea1e45585a02214857d4a4b059569eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-aea1e45585a02214857d4a4b059569eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-aea1e45585a02214857d4a4b059569eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-aea1e45585a02214857d4a4b059569eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-aea1e45585a02214857d4a4b059569eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-aea1e45585a02214857d4a4b059569eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-aea1e45585a02214857d4a4b059569eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aea1e45585a02214857d4a4b059569eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aea1e45585a02214857d4a4b059569eb]: Textual amendment: Order revoked (13.6.2011) by [The Export Control (Iran) Order 2011 (S.I. 2011/1297)](https://www.legislation.gov.uk/uksi/2011/1297), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1297/article/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/2011/1297/article/2/1/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/1297/article/4))
+[^c-aea1e45585a02214857d4a4b059569eb]: Textual amendment: Order revoked (13.6.2011) by [The Export Control (Iran) Order 2011 (S.I. 2011/1297)](https://www.legislation.gov.uk/uksi/2011/1297), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1297/article/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/2011/1297/article/2/1/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/1297/article/4))

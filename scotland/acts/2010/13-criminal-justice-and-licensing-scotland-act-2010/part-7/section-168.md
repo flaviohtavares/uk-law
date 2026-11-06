@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 168. Criminal responsibility of persons with mental disorder[^key-73e133ab832a9ef93531209a6f297638]
+## 168. Criminal responsibility of persons with mental disorder[^c-73e133ab832a9ef93531209a6f297638]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ Before section 52 of the 1995 Act insert—
 
 ## Annotations
 
-[^key-73e133ab832a9ef93531209a6f297638]: Commencement: [S. 168](https://www.legislation.gov.uk/asp/2010/13/section/168) in force at 25.6.2012 with application in accordance with art. 3 by [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2012/160/article/4))
+[^c-73e133ab832a9ef93531209a6f297638]: Commencement: [S. 168](https://www.legislation.gov.uk/asp/2010/13/section/168) in force at 25.6.2012 with application in accordance with art. 3 by [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2012/160/article/4))

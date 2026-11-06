@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13B. Supply of date of birth lists to police forces and restrictions on use[^key-9fd4ae04e50a57e48e2a32ca8f7469d9]
+## 13B. Supply of date of birth lists to police forces and restrictions on use[^c-9fd4ae04e50a57e48e2a32ca8f7469d9]
 
 *Extent: N.I.*
 
@@ -57,4 +57,4 @@ as they apply to the persons referred to in that paragraph.
 
 ## Annotations
 
-[^key-9fd4ae04e50a57e48e2a32ca8f7469d9]: Textual amendment: Regs. 13A, 13B inserted (N.I.) (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/14/1)
+[^c-9fd4ae04e50a57e48e2a32ca8f7469d9]: Textual amendment: Regs. 13A, 13B inserted (N.I.) (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/14/1)

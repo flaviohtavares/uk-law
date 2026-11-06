@@ -41,17 +41,17 @@ Coming into operation
 
 The Department of Enterprise, Trade & Investment, in exercise of the powers conferred by Articles 10(3) and 64 of the Electricity (Northern Ireland) Order[^f00001] and of every other power enabling it in that behalf hereby makes the following Regulations:
 
-## 1. Citation and Commencement[^key-f0ce1dce29a4c946f13c12977d071cb8]
+## 1. Citation and Commencement[^c-f0ce1dce29a4c946f13c12977d071cb8]
 
 These Regulations may be cited as the Electricity (Applications for Licences and Extensions of Licences) (No. 2) Regulations (Northern Ireland) 2007 and shall come into operation on 24th May 2007.
 
-## 2. Interpretation[^key-1744ca0a0493e5dac3d8016b674c30ad]
+## 2. Interpretation[^c-1744ca0a0493e5dac3d8016b674c30ad]
 
 In these Regulations—
 
 - “the Order” means the Electricity (Northern Ireland) Order 1992;
 - “application” means an application for a licence or for an extension;
-- “distribution licence” means a licence under Article 10(1)(bb) of the Order;[^key-ec929f30975636011629b5f021fe1e47]
+- “distribution licence” means a licence under Article 10(1)(bb) of the Order;[^c-ec929f30975636011629b5f021fe1e47]
 - “extension” means an extension, under Article 10(2)(b) of the Order, of a private electricity supply licence;
 - “generating licence” means a licence under Article 10(1)(a) of the Order;
 - “private electricity supply licence” means a licence under Article 10(2)(a) of the Order;
@@ -59,7 +59,7 @@ In these Regulations—
 - “transmission licence” means a licence under Article 10(1)(b)[^f00002] of the Order;
 - “SEM operator licence” means a licence under Article 10(1)(d)[^f00003] of the Order.
 
-## 3. Form of applications[^key-dfef3554b43f1b10908f031c23d5d477]
+## 3. Form of applications[^c-dfef3554b43f1b10908f031c23d5d477]
 
 (1) An application for a public electricity supply licence shall be in the form, and shall contain the particulars, specified in Part I of Schedule 1.
 
@@ -71,9 +71,9 @@ In these Regulations—
 
 (5) An application for a SEM operator licence shall be in the form, and shall contain the particulars specified in Part I of Schedule 5.
 
-(6)[^key-1cc1e459c6ef0dd8959dfe059bf2531a] An application for a distribution licence shall be in the form, and shall contain the particulars, specified in Part I of Schedule 6.
+(6)[^c-1cc1e459c6ef0dd8959dfe059bf2531a] An application for a distribution licence shall be in the form, and shall contain the particulars, specified in Part I of Schedule 6.
 
-## 4. Documents to accompany applications[^key-50a2af2bf74aef2a177f0915b47bf8f3]
+## 4. Documents to accompany applications[^c-50a2af2bf74aef2a177f0915b47bf8f3]
 
 (1) An application for a public electricity supply licence shall be accompanied by the documents and particulars specified in Part II of Schedule 1.
 
@@ -85,19 +85,19 @@ In these Regulations—
 
 (5) An application for a SEM operator licence shall be accompanied by the documents and particulars specified in Part II of Schedule 5.
 
-(6)[^key-e41d35bed1476f8a895d1821dfd185f8] An application for a distribution licence shall be in the form, and shall contain the particulars, specified in Part I of Schedule 6.
+(6)[^c-e41d35bed1476f8a895d1821dfd185f8] An application for a distribution licence shall be in the form, and shall contain the particulars, specified in Part I of Schedule 6.
 
-## 5. Lodgement of applications[^key-5ed8641aacb99ca75ddbf9d2dfc069c9]
+## 5. Lodgement of applications[^c-5ed8641aacb99ca75ddbf9d2dfc069c9]
 
 All applications shall be delivered to or sent by prepaid post to the Authority at its principal office.
 
-## 6. Manner of publishing applications[^key-0ed85908e57c0a84e124c5c4d1170d6a]
+## 6. Manner of publishing applications[^c-0ed85908e57c0a84e124c5c4d1170d6a]
 
 (1) A copy of the application shall be published by the applicant—
 
 - (a) in the Belfast Gazette; and
 - (b) in a newspaper or newspapers circulating—
-  - (i) in the case of a public electricity supply licence, a transmission licence , a distribution licence[^key-3f94c7b60da8da7a9219cf84a7724685] or a SEM operator licence, in each part of the area to which the application relates;
+  - (i) in the case of a public electricity supply licence, a transmission licence , a distribution licence[^c-3f94c7b60da8da7a9219cf84a7724685] or a SEM operator licence, in each part of the area to which the application relates;
   - (ii) in the case of a private electricity supply licence or an extension, in the area which includes the premises specified or described in the application; and
   - (iii) in the case of a generating licence, in every area in which is or may be located any generating station to be operated under the licence.
 
@@ -105,9 +105,9 @@ All applications shall be delivered to or sent by prepaid post to the Authority 
 
 (3) A copy of the Belfast Gazette and of each newspaper in which the application is published shall be delivered to or sent by prepaid post to the Authority at its principal office.
 
-## 7. Fees payable with applications[^key-f09184a61c33cc045374a736b93a028d]
+## 7. Fees payable with applications[^c-f09184a61c33cc045374a736b93a028d]
 
-(1) The fee payable with an application for a public electricity supply, transmission or , distribution[^key-05d6b9d1f98e58d7afe3099478d32312] SEM operator licence shall be £500.00.
+(1) The fee payable with an application for a public electricity supply, transmission or , distribution[^c-05d6b9d1f98e58d7afe3099478d32312] SEM operator licence shall be £500.00.
 
 (2) The fee payable with an application for a private electricity supply licence or generating licence shall be £100.00.
 
@@ -115,7 +115,7 @@ All applications shall be delivered to or sent by prepaid post to the Authority 
 
 (4) All fees shall be paid when the application is lodged.
 
-## 8. Revocation[^key-d4d577b735238240c568d991ca13ca12]
+## 8. Revocation[^c-d4d577b735238240c568d991ca13ca12]
 
 The Electricity (Applications for Licences and Extensions of Licences) Regulations (Northern Ireland) 2007[^f00004] are hereby revoked.
 
@@ -131,13 +131,13 @@ Department of Enterprise, Trade and Investment
 
 Regulations 3(1) and 4(1)
 
-### PART I[^key-ee3db12ad600297ef2f304dee0f31330]
+### PART I[^c-ee3db12ad600297ef2f304dee0f31330]
 
 ### PART II — DOCUMENTS AND PARTICLARS TO ACCOMPANY AN APPLICATION FOR A PUBLIC ELECTRICITY SUPPLY LICENCE
 
-**1.**[^key-93298711efe88fcd0e96dcf909d211a8] Current statements of the accounts kept by the applicant in respect of any undertaking carried on by him, showing the financial state of affairs of that undertaking and its profit or loss, and the statements for the most recent period, together with copies of the latest audited annual accounts where such have been prepared.
+**1.**[^c-93298711efe88fcd0e96dcf909d211a8] Current statements of the accounts kept by the applicant in respect of any undertaking carried on by him, showing the financial state of affairs of that undertaking and its profit or loss, and the statements for the most recent period, together with copies of the latest audited annual accounts where such have been prepared.
 
-**2.**[^key-a08854b3902a7e2d8c293cb491b5711b] An outline statement of the business proposals, for that business of the applicant to which the application relates, for the next five years, which includes:
+**2.**[^c-a08854b3902a7e2d8c293cb491b5711b] An outline statement of the business proposals, for that business of the applicant to which the application relates, for the next five years, which includes:
 
 - (a) particulars of the person or persons from whom the applicant intends to acquire the electricity which he will supply, and particulars of the arrangements made for the transmission and distribution of that electricity;
 - (b) forecast annual maximum demand (MW) to be supplied, giving a breakdown of the demand for each type of customer, eg. industrial, commercial etc. and energy (GWh) to be supplied;
@@ -146,13 +146,13 @@ Regulations 3(1) and 4(1)
 
 Regulations 3(2) and 4(2)
 
-### PART I[^key-76cad14e5c366f36627938427be1e71a]
+### PART I[^c-76cad14e5c366f36627938427be1e71a]
 
 ### PART II — DOCUMENTS AND PARTICULARS TO ACCOMPANY AN APPLICATION OR EXTENSION FOR A PRIVATE ELECTRICITY SUPPLY LICENCE
 
-**1.**[^key-350c8ec6059ef63b12367860960d3e9d] Current statements of the accounts kept by the applicant in respect of any undertaking carried on by him, showing the financial state of affairs of that undertaking and its profit or loss, and the statements for the most recent period, together with copies of the latest audited annual accounts where such have been prepared.
+**1.**[^c-350c8ec6059ef63b12367860960d3e9d] Current statements of the accounts kept by the applicant in respect of any undertaking carried on by him, showing the financial state of affairs of that undertaking and its profit or loss, and the statements for the most recent period, together with copies of the latest audited annual accounts where such have been prepared.
 
-**2.**[^key-5a173fff1819509221f2e75c01032d9f] An outline statement of the business proposals, for that business of the applicant to which the application relates, for the next five years, which includes:
+**2.**[^c-5a173fff1819509221f2e75c01032d9f] An outline statement of the business proposals, for that business of the applicant to which the application relates, for the next five years, which includes:
 
 - (a) particulars of the person or persons from whom the applicant intends to acquire the electricity which he will supply, and particulars of the arrangements made for the transmission and distribution of that electricity and approximate number and expected maximum demand of customers;
 - (b) the total number of premises to be supplied, giving a breakdown for each type of customer, eg, industrial, commercial, etc.;
@@ -165,9 +165,9 @@ Regulations 3(2) and 4(2)
 - (f) single line diagram of the distribution system showing what is to be constructed and what is already in existence; and
 - (g) where the applicant is applying for an extension the annual quantity of electricity supplied by the applicant under all existing licences.
 
-**3.**[^key-b67bd5fcdb6f629d85d46a4047118e67] Details of any expected subsequent capital outflows including major decommissioning costs.
+**3.**[^c-b67bd5fcdb6f629d85d46a4047118e67] Details of any expected subsequent capital outflows including major decommissioning costs.
 
-**4.**[^key-edd67f8159c38200112fd7a053657d39] Estimates of net annual cash flows for subsequent periods sufficient to demonstrate the financial security and feasibility of the project(s) to which the application relates.
+**4.**[^c-edd67f8159c38200112fd7a053657d39] Estimates of net annual cash flows for subsequent periods sufficient to demonstrate the financial security and feasibility of the project(s) to which the application relates.
 
 ## SCHEDULE 3 — PART 1
 
@@ -175,26 +175,26 @@ Regulations 3(3) and 4(3)
 
 ### PART II — DOCUMENTS AND PARTICULARS TO ACCOMPANY AN APPLICATION FOR A TRANSMISSION LICENCE
 
-**1.**[^key-4c91cd66f2332cb6a93f5ee233b989ab] Current statements of the accounts kept by the applicant in respect of any undertaking carried on by him, showing the financial state of affairs of that undertaking and its profit or loss, and the statements for the most recent period, together with copies of the latest audited annual accounts where such have been prepared.
+**1.**[^c-4c91cd66f2332cb6a93f5ee233b989ab] Current statements of the accounts kept by the applicant in respect of any undertaking carried on by him, showing the financial state of affairs of that undertaking and its profit or loss, and the statements for the most recent period, together with copies of the latest audited annual accounts where such have been prepared.
 
-**2.**[^key-8cba29cef80656f0aadb1722b3c3df19] An outline statement of the business proposals, for the business of the applicant to which the application relates, for the next five years which includes:
+**2.**[^c-8cba29cef80656f0aadb1722b3c3df19] An outline statement of the business proposals, for the business of the applicant to which the application relates, for the next five years which includes:
 
 - (a) particulars of the person or persons from whom, and the points at which, the applicant expects to receive the electricity which he will transmit; particulars of transmission of the electricity; particulars of the expected points of off-take, and quantities;
-- (b) interconnections to other transmission systems or distribution systems[^key-e1f953a2159a7e31327f5498579c63d0] ;
+- (b) interconnections to other transmission systems or distribution systems[^c-e1f953a2159a7e31327f5498579c63d0] ;
 - (c) proposed metering arrangements;
 - (d) schedule of generating plant owned by the applicant including;
   - (i) pumped storage
   - (ii) clutched gas turbine generators/synchronous compensators;
 - (e) forecast annual maximum demands in his transmission system (GW) and energy (GWh) to be transmitted;
 - (f) summary large scale map, together with detailed maps providing information on areas where activities are concentrated as necessary;
-- (g) a single line diagram of the transmission system showing all transmission voltage levels and distinguishing from overhead lines, electric lines which are or will be placed underground; [^key-aac3fa7ead5d3c47d35fd232887018eb]...
+- (g) a single line diagram of the transmission system showing all transmission voltage levels and distinguishing from overhead lines, electric lines which are or will be placed underground; [^c-aac3fa7ead5d3c47d35fd232887018eb]...
 - (h) annual forecasts of costs, sales and revenues and project financing, stating the assumptions underlying the figures provided.
 
-**3.**[^key-dc143a159da5b736aa173e5b392ac59b] Details of any expected subsequent substantial capital outflows including major decommissioning costs.
+**3.**[^c-dc143a159da5b736aa173e5b392ac59b] Details of any expected subsequent substantial capital outflows including major decommissioning costs.
 
-**4.**[^key-0803374390c6f71b92fcd529186e3ae9] Estimates of net annual cash flows for subsequent period sufficient to demonstrate the financial security and feasibility of the project(s) to which the application relates.
+**4.**[^c-0803374390c6f71b92fcd529186e3ae9] Estimates of net annual cash flows for subsequent period sufficient to demonstrate the financial security and feasibility of the project(s) to which the application relates.
 
-**5.**[^key-8f417d7350eb1ed89c777510cbcff684] For the purposes of paragraph 2(a) any reference to the transmission of electricity by the applicant is a reference to his participation in such transmission.
+**5.**[^c-8f417d7350eb1ed89c777510cbcff684] For the purposes of paragraph 2(a) any reference to the transmission of electricity by the applicant is a reference to his participation in such transmission.
 
 ## SCHEDULE 4 — PART 1
 
@@ -202,9 +202,9 @@ Regulations 3(4) and 4(4)
 
 ### PART II — DOCUMENTS AND PARTICULARS TO ACCOMPANY AN APPLICATION FOR A GENERATING LICENCE
 
-**1.**[^key-eceafe0003fc86ea6cae6b5aa6dc1171] Current statements of the accounts kept by the applicant in respect of any undertaking carried on by him, showing the financial state of affairs of that undertaking and its profit or loss and the statements for the most recent period, together with copies of the latest audited annual accounts where such have been prepared.
+**1.**[^c-eceafe0003fc86ea6cae6b5aa6dc1171] Current statements of the accounts kept by the applicant in respect of any undertaking carried on by him, showing the financial state of affairs of that undertaking and its profit or loss and the statements for the most recent period, together with copies of the latest audited annual accounts where such have been prepared.
 
-**2.**[^key-f5d019bd257b66bf04c622caa64b4675] An outline statement of the business proposals, for that business of the applicant to which the application relates, for the next five years which includes;
+**2.**[^c-f5d019bd257b66bf04c622caa64b4675] An outline statement of the business proposals, for that business of the applicant to which the application relates, for the next five years which includes;
 
 - (a) particulars of the person or persons to whom the applicant intends to provide electricity and particulars of the distribution of that electricity, including details of lines to be constructed;
 - (b) the maximum power (MW) expected to be available from each generating station at any one time and the aggregate power (MW) expected to be available from each generating station during any year, excluding in each case such wattage as is expected to be consumed at the station;
@@ -213,9 +213,9 @@ Regulations 3(4) and 4(4)
 - (e) map or maps sufficient to identify the location of all generating stations to which the application relates; and
 - (f) annual forecasts of costs, sales and revenues and project financing, stating the assumptions underlying the figures provided.
 
-**3.**[^key-2300615356b25ad6bee731acc465b377] Details of any expected subsequent substantial capital outflows including major decommissioning costs.
+**3.**[^c-2300615356b25ad6bee731acc465b377] Details of any expected subsequent substantial capital outflows including major decommissioning costs.
 
-**4.**[^key-c32d341dfaf5f5ab36e6114d2d4789e7] Estimates of net annual cash flows for subsequent periods sufficient to demonstrate the financial security and feasibility of the project(s) to which the application relates.
+**4.**[^c-c32d341dfaf5f5ab36e6114d2d4789e7] Estimates of net annual cash flows for subsequent periods sufficient to demonstrate the financial security and feasibility of the project(s) to which the application relates.
 
 ## SCHEDULE 5
 
@@ -223,25 +223,25 @@ Regulations 3(5) and 4(5)
 
 ### PART II — Documents and Particulars to Accompany an application for a SEM Operator Licence
 
-**1.**[^key-39b9e194e8796f58c7d179f4ae860462] Current statements of the accounts kept by the applicant in respect of any undertaking carried on by him, showing the financial state of affairs of that undertaking and its profit or loss, and the statement for the most recent period, together with copies of the latest audited annual accounts where such have been prepared.
+**1.**[^c-39b9e194e8796f58c7d179f4ae860462] Current statements of the accounts kept by the applicant in respect of any undertaking carried on by him, showing the financial state of affairs of that undertaking and its profit or loss, and the statement for the most recent period, together with copies of the latest audited annual accounts where such have been prepared.
 
-**2.**[^key-be115038543e6c51a91d4686d6b8c23d] An outline statement of the business proposals, for that business of the applicant to which the application relates, for the next five years, which includes:
+**2.**[^c-be115038543e6c51a91d4686d6b8c23d] An outline statement of the business proposals, for that business of the applicant to which the application relates, for the next five years, which includes:
 
 - (a) particulars of the person or persons the applicant intends to oversee within the SEM in Northern Ireland
 - (b) the total estimated number of participants to be administered
 - (c) annual forecasts of costs and revenues and project financing stating the assumptions underlying the figures provided.
 
-**3.**[^key-ae30d0df95a3ab22d90360dc6674ef52] Details of any expected subsequent capital outflows.
+**3.**[^c-ae30d0df95a3ab22d90360dc6674ef52] Details of any expected subsequent capital outflows.
 
-**4.**[^key-2d89a69ae8f94b6b4a87e72874559ec4] Estimates of net annual cash flows for subsequent periods sufficient to demonstrate the financial security and feasibility of the project(s) to which the application relates.
+**4.**[^c-2d89a69ae8f94b6b4a87e72874559ec4] Estimates of net annual cash flows for subsequent periods sufficient to demonstrate the financial security and feasibility of the project(s) to which the application relates.
 
-**5.**[^key-134d74dfd4f417a66edc5bae79c56afd] Application fee £500.
+**5.**[^c-134d74dfd4f417a66edc5bae79c56afd] Application fee £500.
 
-**6.**[^key-ace81de0003864467c2d2347379641c2] A copy of the application to be published in the Belfast Gazette and in a newspaper or newspapers circulating in Northern Ireland. A copy of the Belfast Gazette and of each newspaper in which the application is published shall be delivered to or sent by prepaid post to the Northern Ireland Authority for Utility Regulation, Queens House, 14 Queen Street, BELFAST BT1 6ER.
+**6.**[^c-ace81de0003864467c2d2347379641c2] A copy of the application to be published in the Belfast Gazette and in a newspaper or newspapers circulating in Northern Ireland. A copy of the Belfast Gazette and of each newspaper in which the application is published shall be delivered to or sent by prepaid post to the Northern Ireland Authority for Utility Regulation, Queens House, 14 Queen Street, BELFAST BT1 6ER.
 
-**7.**[^key-99f50fdfbad9b8e6290f28036191566f] Name(s) of person or persons to contact regarding information contained in or accompanying this application.
+**7.**[^c-99f50fdfbad9b8e6290f28036191566f] Name(s) of person or persons to contact regarding information contained in or accompanying this application.
 
-## SCHEDULE 6 — Electricity Distribution Licence Application and Further Requirements[^key-eb7cbeb0ac0e6bf00caa409da61c16a4]
+## SCHEDULE 6 — Electricity Distribution Licence Application and Further Requirements[^c-eb7cbeb0ac0e6bf00caa409da61c16a4]
 
 [image: see source](https://www.legislation.gov.uk/nisr/2007/289/images/nisr_20070289_en_002)
 
@@ -300,88 +300,88 @@ For this purpose the Electricity (Applications for Licences and Extensions of Li
 
 [^f00001]: Footnote: [S.I. 1992/231 (N.I. 1)](https://www.legislation.gov.uk/nisi/1992/231)
 
-[^key-f0ce1dce29a4c946f13c12977d071cb8]: Commencement: Reg. 1 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
+[^c-f0ce1dce29a4c946f13c12977d071cb8]: Commencement: Reg. 1 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
 
-[^key-1744ca0a0493e5dac3d8016b674c30ad]: Commencement: Reg. 2 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
+[^c-1744ca0a0493e5dac3d8016b674c30ad]: Commencement: Reg. 2 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
 
-[^key-ec929f30975636011629b5f021fe1e47]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/289/regulation/2) inserted (15.4.2011) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 (S.R. 2011/155)](https://www.legislation.gov.uk/nisr/2011/155), [regs. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1), [33(a)](https://www.legislation.gov.uk/nisr/2011/155/regulation/33/a)
+[^c-ec929f30975636011629b5f021fe1e47]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/289/regulation/2) inserted (15.4.2011) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 (S.R. 2011/155)](https://www.legislation.gov.uk/nisr/2011/155), [regs. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1), [33(a)](https://www.legislation.gov.uk/nisr/2011/155/regulation/33/a)
 
 [^f00002]: Footnote: as amended by Article 28 of the Energy (Northern Ireland) Order 2003
 
 [^f00003]: Footnote: as amended by Article 4 of the Electricity (Single Wholesale Market) (Northern Ireland) Order 2007
 
-[^key-dfef3554b43f1b10908f031c23d5d477]: Commencement: Reg. 3 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
+[^c-dfef3554b43f1b10908f031c23d5d477]: Commencement: Reg. 3 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
 
-[^key-1cc1e459c6ef0dd8959dfe059bf2531a]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/nisr/2007/289/regulation/3/6) inserted (15.4.2011) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 (S.R. 2011/155)](https://www.legislation.gov.uk/nisr/2011/155), [regs. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1), [33(b)](https://www.legislation.gov.uk/nisr/2011/155/regulation/33/b)
+[^c-1cc1e459c6ef0dd8959dfe059bf2531a]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/nisr/2007/289/regulation/3/6) inserted (15.4.2011) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 (S.R. 2011/155)](https://www.legislation.gov.uk/nisr/2011/155), [regs. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1), [33(b)](https://www.legislation.gov.uk/nisr/2011/155/regulation/33/b)
 
-[^key-50a2af2bf74aef2a177f0915b47bf8f3]: Commencement: Reg. 4 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
+[^c-50a2af2bf74aef2a177f0915b47bf8f3]: Commencement: Reg. 4 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
 
-[^key-e41d35bed1476f8a895d1821dfd185f8]: Textual amendment: [Reg. 4(6)](https://www.legislation.gov.uk/nisr/2007/289/regulation/4/6) inserted (15.4.2011) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 (S.R. 2011/155)](https://www.legislation.gov.uk/nisr/2011/155), [regs. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1), [33(c)](https://www.legislation.gov.uk/nisr/2011/155/regulation/33/c)
+[^c-e41d35bed1476f8a895d1821dfd185f8]: Textual amendment: [Reg. 4(6)](https://www.legislation.gov.uk/nisr/2007/289/regulation/4/6) inserted (15.4.2011) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 (S.R. 2011/155)](https://www.legislation.gov.uk/nisr/2011/155), [regs. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1), [33(c)](https://www.legislation.gov.uk/nisr/2011/155/regulation/33/c)
 
-[^key-5ed8641aacb99ca75ddbf9d2dfc069c9]: Commencement: Reg. 5 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
+[^c-5ed8641aacb99ca75ddbf9d2dfc069c9]: Commencement: Reg. 5 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
 
-[^key-0ed85908e57c0a84e124c5c4d1170d6a]: Commencement: Reg. 6 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
+[^c-0ed85908e57c0a84e124c5c4d1170d6a]: Commencement: Reg. 6 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
 
-[^key-3f94c7b60da8da7a9219cf84a7724685]: Textual amendment: Words in [reg. 6(1)(b)(i)](https://www.legislation.gov.uk/nisr/2007/289/regulation/6/1/b/i) inserted (15.4.2011) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 (S.R. 2011/155)](https://www.legislation.gov.uk/nisr/2011/155), [regs. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1), [33(d)](https://www.legislation.gov.uk/nisr/2011/155/regulation/33/d)
+[^c-3f94c7b60da8da7a9219cf84a7724685]: Textual amendment: Words in [reg. 6(1)(b)(i)](https://www.legislation.gov.uk/nisr/2007/289/regulation/6/1/b/i) inserted (15.4.2011) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 (S.R. 2011/155)](https://www.legislation.gov.uk/nisr/2011/155), [regs. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1), [33(d)](https://www.legislation.gov.uk/nisr/2011/155/regulation/33/d)
 
-[^key-f09184a61c33cc045374a736b93a028d]: Commencement: Reg. 7 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
+[^c-f09184a61c33cc045374a736b93a028d]: Commencement: Reg. 7 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
 
-[^key-05d6b9d1f98e58d7afe3099478d32312]: Textual amendment: Word in [reg. 7(1)](https://www.legislation.gov.uk/nisr/2007/289/regulation/7/1) inserted (15.4.2011) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 (S.R. 2011/155)](https://www.legislation.gov.uk/nisr/2011/155), [regs. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1), [33(e)](https://www.legislation.gov.uk/nisr/2011/155/regulation/33/e)
+[^c-05d6b9d1f98e58d7afe3099478d32312]: Textual amendment: Word in [reg. 7(1)](https://www.legislation.gov.uk/nisr/2007/289/regulation/7/1) inserted (15.4.2011) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 (S.R. 2011/155)](https://www.legislation.gov.uk/nisr/2011/155), [regs. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1), [33(e)](https://www.legislation.gov.uk/nisr/2011/155/regulation/33/e)
 
-[^key-d4d577b735238240c568d991ca13ca12]: Commencement: Reg. 8 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
+[^c-d4d577b735238240c568d991ca13ca12]: Commencement: Reg. 8 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2007 No. 285](https://www.legislation.gov.uk/nisr/2007/285)
 
-[^key-ee3db12ad600297ef2f304dee0f31330]: Commencement: Sch. 1 Pt. I in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
+[^c-ee3db12ad600297ef2f304dee0f31330]: Commencement: Sch. 1 Pt. I in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
 
-[^key-93298711efe88fcd0e96dcf909d211a8]: Commencement: Sch. 1 para. 1 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
+[^c-93298711efe88fcd0e96dcf909d211a8]: Commencement: Sch. 1 para. 1 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
 
-[^key-a08854b3902a7e2d8c293cb491b5711b]: Commencement: Sch. 1 para. 2 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
+[^c-a08854b3902a7e2d8c293cb491b5711b]: Commencement: Sch. 1 para. 2 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
 
-[^key-76cad14e5c366f36627938427be1e71a]: Commencement: Sch. 2 Pt. I in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
+[^c-76cad14e5c366f36627938427be1e71a]: Commencement: Sch. 2 Pt. I in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
 
-[^key-350c8ec6059ef63b12367860960d3e9d]: Commencement: Sch. 2 para. 1 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
+[^c-350c8ec6059ef63b12367860960d3e9d]: Commencement: Sch. 2 para. 1 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
 
-[^key-5a173fff1819509221f2e75c01032d9f]: Commencement: Sch. 2 para. 2 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
+[^c-5a173fff1819509221f2e75c01032d9f]: Commencement: Sch. 2 para. 2 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
 
-[^key-b67bd5fcdb6f629d85d46a4047118e67]: Commencement: Sch. 2 para. 3 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
+[^c-b67bd5fcdb6f629d85d46a4047118e67]: Commencement: Sch. 2 para. 3 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
 
-[^key-edd67f8159c38200112fd7a053657d39]: Commencement: Sch. 2 para. 4 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
+[^c-edd67f8159c38200112fd7a053657d39]: Commencement: Sch. 2 para. 4 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
 
-[^key-4c91cd66f2332cb6a93f5ee233b989ab]: Commencement: Sch. 3 para. 1 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
+[^c-4c91cd66f2332cb6a93f5ee233b989ab]: Commencement: Sch. 3 para. 1 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
 
-[^key-8cba29cef80656f0aadb1722b3c3df19]: Commencement: Sch. 3 para. 2 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
+[^c-8cba29cef80656f0aadb1722b3c3df19]: Commencement: Sch. 3 para. 2 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
 
-[^key-e1f953a2159a7e31327f5498579c63d0]: Textual amendment: Words in [Sch. 3 Pt. II para. 2(b)](https://www.legislation.gov.uk/nisr/2007/289/schedule/3/part/II/paragraph/2/b) inserted (15.4.2011) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 (S.R. 2011/155)](https://www.legislation.gov.uk/nisr/2011/155), [regs. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1), [33(f)(i)](https://www.legislation.gov.uk/nisr/2011/155/regulation/33/f/i)
+[^c-e1f953a2159a7e31327f5498579c63d0]: Textual amendment: Words in [Sch. 3 Pt. II para. 2(b)](https://www.legislation.gov.uk/nisr/2007/289/schedule/3/part/II/paragraph/2/b) inserted (15.4.2011) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 (S.R. 2011/155)](https://www.legislation.gov.uk/nisr/2011/155), [regs. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1), [33(f)(i)](https://www.legislation.gov.uk/nisr/2011/155/regulation/33/f/i)
 
-[^key-aac3fa7ead5d3c47d35fd232887018eb]: Textual amendment: Word in [Sch. 3 Pt. II para. 2(g)](https://www.legislation.gov.uk/nisr/2007/289/schedule/3/part/II/paragraph/2/g) omitted (15.4.2011) by virtue of [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 (S.R. 2011/155)](https://www.legislation.gov.uk/nisr/2011/155), [regs. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1), [33(f)(ii)](https://www.legislation.gov.uk/nisr/2011/155/regulation/33/f/ii)
+[^c-aac3fa7ead5d3c47d35fd232887018eb]: Textual amendment: Word in [Sch. 3 Pt. II para. 2(g)](https://www.legislation.gov.uk/nisr/2007/289/schedule/3/part/II/paragraph/2/g) omitted (15.4.2011) by virtue of [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 (S.R. 2011/155)](https://www.legislation.gov.uk/nisr/2011/155), [regs. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1), [33(f)(ii)](https://www.legislation.gov.uk/nisr/2011/155/regulation/33/f/ii)
 
-[^key-dc143a159da5b736aa173e5b392ac59b]: Commencement: Sch. 3 para. 3 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
+[^c-dc143a159da5b736aa173e5b392ac59b]: Commencement: Sch. 3 para. 3 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
 
-[^key-0803374390c6f71b92fcd529186e3ae9]: Commencement: Sch. 3 para. 4 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
+[^c-0803374390c6f71b92fcd529186e3ae9]: Commencement: Sch. 3 para. 4 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
 
-[^key-8f417d7350eb1ed89c777510cbcff684]: Commencement: Sch. 3 para. 5 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
+[^c-8f417d7350eb1ed89c777510cbcff684]: Commencement: Sch. 3 para. 5 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
 
-[^key-eceafe0003fc86ea6cae6b5aa6dc1171]: Commencement: Sch. 4 para. 1 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
+[^c-eceafe0003fc86ea6cae6b5aa6dc1171]: Commencement: Sch. 4 para. 1 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
 
-[^key-f5d019bd257b66bf04c622caa64b4675]: Commencement: Sch. 4 para. 2 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
+[^c-f5d019bd257b66bf04c622caa64b4675]: Commencement: Sch. 4 para. 2 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
 
-[^key-2300615356b25ad6bee731acc465b377]: Commencement: Sch. 4 para. 3 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
+[^c-2300615356b25ad6bee731acc465b377]: Commencement: Sch. 4 para. 3 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
 
-[^key-c32d341dfaf5f5ab36e6114d2d4789e7]: Commencement: Sch. 4 para. 4 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
+[^c-c32d341dfaf5f5ab36e6114d2d4789e7]: Commencement: Sch. 4 para. 4 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
 
-[^key-39b9e194e8796f58c7d179f4ae860462]: Commencement: Sch. 5 para. 1 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
+[^c-39b9e194e8796f58c7d179f4ae860462]: Commencement: Sch. 5 para. 1 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
 
-[^key-be115038543e6c51a91d4686d6b8c23d]: Commencement: Sch. 5 para. 2 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
+[^c-be115038543e6c51a91d4686d6b8c23d]: Commencement: Sch. 5 para. 2 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
 
-[^key-ae30d0df95a3ab22d90360dc6674ef52]: Commencement: Sch. 5 para. 3 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
+[^c-ae30d0df95a3ab22d90360dc6674ef52]: Commencement: Sch. 5 para. 3 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
 
-[^key-2d89a69ae8f94b6b4a87e72874559ec4]: Commencement: Sch. 5 para. 4 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
+[^c-2d89a69ae8f94b6b4a87e72874559ec4]: Commencement: Sch. 5 para. 4 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
 
-[^key-134d74dfd4f417a66edc5bae79c56afd]: Commencement: Sch. 5 para. 5 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
+[^c-134d74dfd4f417a66edc5bae79c56afd]: Commencement: Sch. 5 para. 5 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
 
-[^key-ace81de0003864467c2d2347379641c2]: Commencement: Sch. 5 para. 6 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
+[^c-ace81de0003864467c2d2347379641c2]: Commencement: Sch. 5 para. 6 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
 
-[^key-99f50fdfbad9b8e6290f28036191566f]: Commencement: Sch. 5 para. 7 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
+[^c-99f50fdfbad9b8e6290f28036191566f]: Commencement: Sch. 5 para. 7 in operation at 24.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/289/regulation/1)
 
-[^key-eb7cbeb0ac0e6bf00caa409da61c16a4]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/nisr/2007/289/schedule/6) inserted (15.4.2011) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 (S.R. 2011/155)](https://www.legislation.gov.uk/nisr/2011/155), [regs. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1), [33(g)](https://www.legislation.gov.uk/nisr/2011/155/regulation/33/g), [Sch. 2](https://www.legislation.gov.uk/nisr/2011/155/schedule/2)
+[^c-eb7cbeb0ac0e6bf00caa409da61c16a4]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/nisr/2007/289/schedule/6) inserted (15.4.2011) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 (S.R. 2011/155)](https://www.legislation.gov.uk/nisr/2011/155), [regs. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1), [33(g)](https://www.legislation.gov.uk/nisr/2011/155/regulation/33/g), [Sch. 2](https://www.legislation.gov.uk/nisr/2011/155/schedule/2)

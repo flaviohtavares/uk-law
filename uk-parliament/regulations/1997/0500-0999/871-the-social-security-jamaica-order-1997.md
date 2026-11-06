@@ -55,7 +55,7 @@ And Whereas by Article 17 of the Protocol it is provided that the Protocol shall
 
 And Whereas by section 179(1)(a) and (2) of the Social Security Administration Act 1992[^c17237911] it is provided that Her Majesty may by Order in Council make provision for modifying or adapting that Act and the Social Security Contributions and Benefits Act 1992[^c17237921] in their application to cases affected by agreements with the Governments of countries outside the United Kingdom providing for reciprocity in matters specified in the said section:
 
-Now, therefore, Her Majesty, in pursuance of section 179(1)(a) and (2) of the Social Security Administration Act 1992 and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—[^key-b2eebccff0db478230762b4995c0d6a9][^key-4ca6c4e377ea32b438dadb84a9b2c16d][^key-958ece05847d2c61e71569ba97b6b6db][^key-4da95dd1ff7fe8a8dac13aecd17f77ba]
+Now, therefore, Her Majesty, in pursuance of section 179(1)(a) and (2) of the Social Security Administration Act 1992 and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—[^c-b2eebccff0db478230762b4995c0d6a9][^c-4ca6c4e377ea32b438dadb84a9b2c16d][^c-958ece05847d2c61e71569ba97b6b6db][^c-4da95dd1ff7fe8a8dac13aecd17f77ba]
 
 ## 1. Citation and commencement
 
@@ -75,9 +75,9 @@ N. H. Nicholls
 
 Clerk of the Privy Council
 
-## SCHEDULE 1 — CONVENTION BETWEEN THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND AND THE GOVERNMENT OF JAMAICA ON SOCIAL SECURITY[^key-b68140ca119839fe7bcda3c572c95e1a]
+## SCHEDULE 1 — CONVENTION BETWEEN THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND AND THE GOVERNMENT OF JAMAICA ON SOCIAL SECURITY[^c-b68140ca119839fe7bcda3c572c95e1a]
 
-[^key-b68140ca119839fe7bcda3c572c95e1a]
+[^c-b68140ca119839fe7bcda3c572c95e1a]
 
 The Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Jamaica;
 
@@ -630,9 +630,9 @@ This Convention shall remain in force for an indefinite period. Either Party may
 
 In the event of the termination of this Convention and unless a new Convention containing provisions regulating the matter is made, any right to benefit acquired by a person in accordance with this Convention shall be maintained and negotiations shall take place for the settlement of any other rights then in course of acquisition by virtue of its provisions.
 
-## SCHEDULE 2 — PROTOCOL — ARRANGEMENTS FOR THE IMPLEMENTATION OF THE CONVENTION ON SOCIAL SECURITY BETWEEN THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND AND JAMAICA[^key-b68140ca119839fe7bcda3c572c95e1a]
+## SCHEDULE 2 — PROTOCOL — ARRANGEMENTS FOR THE IMPLEMENTATION OF THE CONVENTION ON SOCIAL SECURITY BETWEEN THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND AND JAMAICA[^c-b68140ca119839fe7bcda3c572c95e1a]
 
-[^key-b68140ca119839fe7bcda3c572c95e1a]
+[^c-b68140ca119839fe7bcda3c572c95e1a]
 
 The Government of the United Kingdom and the Government of Jamaica, with the aim of improving the administrative efficiency, cost effectiveness and financial integrity of their social security programmes as they apply to persons covered by the Convention hereby agree to the Administrative Arrangements and Programmes of Mutual Assistance contained in this Protocol:
 
@@ -891,7 +891,7 @@ Any disagreement regarding the interpretation or application of this Protocol or
 
 (3) The competent authorities of either Party may terminate programmes of assistance by providing written notification to the competent authorities of the other Party. Such notice of termination shall not affect either Party’s rights or obligations under the Convention, or those arising under this Protocol.
 
-## SCHEDULE 3 — EXCHANGE OF NOTES BETWEEN THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND AND THE GOVERNMENT OF JAMAICA[^key-b68140ca119839fe7bcda3c572c95e1a]
+## SCHEDULE 3 — EXCHANGE OF NOTES BETWEEN THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND AND THE GOVERNMENT OF JAMAICA[^c-b68140ca119839fe7bcda3c572c95e1a]
 
 ### \[NO. 1\]
 
@@ -935,13 +935,13 @@ This Order does not impose any costs on business.
 
 [^c17237921]: Marginal citation: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-b2eebccff0db478230762b4995c0d6a9]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1997/871) modified (9.4.2001) by [Social Security (Reciprocal Agreements) Order 2001 (S.I. 2001/407)](https://www.legislation.gov.uk/uksi/2001/407), [art. 2](https://www.legislation.gov.uk/uksi/2001/407/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/407/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/407/schedule/2)
+[^c-b2eebccff0db478230762b4995c0d6a9]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1997/871) modified (9.4.2001) by [Social Security (Reciprocal Agreements) Order 2001 (S.I. 2001/407)](https://www.legislation.gov.uk/uksi/2001/407), [art. 2](https://www.legislation.gov.uk/uksi/2001/407/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/407/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/407/schedule/2)
 
-[^key-4ca6c4e377ea32b438dadb84a9b2c16d]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1997/871) modified (22.2.2012) by [The Social Security (Reciprocal Agreements) Order 2012 (S.I. 2012/360)](https://www.legislation.gov.uk/uksi/2012/360), [arts. 1](https://www.legislation.gov.uk/uksi/2012/360/article/1), [2](https://www.legislation.gov.uk/uksi/2012/360/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/360/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/360/schedule/2)
+[^c-4ca6c4e377ea32b438dadb84a9b2c16d]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1997/871) modified (22.2.2012) by [The Social Security (Reciprocal Agreements) Order 2012 (S.I. 2012/360)](https://www.legislation.gov.uk/uksi/2012/360), [arts. 1](https://www.legislation.gov.uk/uksi/2012/360/article/1), [2](https://www.legislation.gov.uk/uksi/2012/360/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/360/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/360/schedule/2)
 
-[^key-958ece05847d2c61e71569ba97b6b6db]: Modification: [Order](https://www.legislation.gov.uk/uksi/1997/871) modified (6.4.2016) by [The Social Security (Reciprocal Agreements) Order 2016 (S.I. 2016/158)](https://www.legislation.gov.uk/uksi/2016/158), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/158/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/158/schedule/2)
+[^c-958ece05847d2c61e71569ba97b6b6db]: Modification: [Order](https://www.legislation.gov.uk/uksi/1997/871) modified (6.4.2016) by [The Social Security (Reciprocal Agreements) Order 2016 (S.I. 2016/158)](https://www.legislation.gov.uk/uksi/2016/158), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/158/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/158/schedule/2)
 
-[^key-4da95dd1ff7fe8a8dac13aecd17f77ba]: Modification: [Order](https://www.legislation.gov.uk/uksi/1997/871) modified (6.4.2017) by [The Social Security (Reciprocal Agreements) Order 2017 (S.I. 2017/159)](https://www.legislation.gov.uk/uksi/2017/159), [art. 1](https://www.legislation.gov.uk/uksi/2017/159/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/159/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/159/schedule/2)
+[^c-4da95dd1ff7fe8a8dac13aecd17f77ba]: Modification: [Order](https://www.legislation.gov.uk/uksi/1997/871) modified (6.4.2017) by [The Social Security (Reciprocal Agreements) Order 2017 (S.I. 2017/159)](https://www.legislation.gov.uk/uksi/2017/159), [art. 1](https://www.legislation.gov.uk/uksi/2017/159/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/159/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/159/schedule/2)
 
 [^c17237931]: Marginal citation: [S.I. 1972/1587](https://www.legislation.gov.uk/uksi/1972/1587).
 
@@ -953,4 +953,4 @@ This Order does not impose any costs on business.
 
 [^c17237971]: Marginal citation: [S.I. 1995/767](https://www.legislation.gov.uk/uksi/1995/767).
 
-[^key-b68140ca119839fe7bcda3c572c95e1a]: Modification: [Schs. 1-3](https://www.legislation.gov.uk/uksi/1997/871/schedule/1) modified (5.12.2005) by [Social Security (Reciprocal Agreements) Order 2005 (S.I. 2005/2765)](https://www.legislation.gov.uk/uksi/2005/2765), [art. 1](https://www.legislation.gov.uk/uksi/2005/2765/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2765/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2765/schedule/2)
+[^c-b68140ca119839fe7bcda3c572c95e1a]: Modification: [Schs. 1-3](https://www.legislation.gov.uk/uksi/1997/871/schedule/1) modified (5.12.2005) by [Social Security (Reciprocal Agreements) Order 2005 (S.I. 2005/2765)](https://www.legislation.gov.uk/uksi/2005/2765), [art. 1](https://www.legislation.gov.uk/uksi/2005/2765/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2765/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2765/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 150. Grant by Welsh Ministers for repair or maintenance of building, garden etc.[^key-6db190fc0ed4fc5b6b0bb4da2fea294b][^key-d4ae5256b4f7cf7bd1b0124910144766]
+## 150. Grant by Welsh Ministers for repair or maintenance of building, garden etc.[^c-6db190fc0ed4fc5b6b0bb4da2fea294b][^c-d4ae5256b4f7cf7bd1b0124910144766]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6db190fc0ed4fc5b6b0bb4da2fea294b]: Commencement: S. 150 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-6db190fc0ed4fc5b6b0bb4da2fea294b]: Commencement: S. 150 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-d4ae5256b4f7cf7bd1b0124910144766]: Commencement: [S. 150](https://www.legislation.gov.uk/asc/2023/3/section/150) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-d4ae5256b4f7cf7bd1b0124910144766]: Commencement: [S. 150](https://www.legislation.gov.uk/asc/2023/3/section/150) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

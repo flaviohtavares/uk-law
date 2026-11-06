@@ -63,15 +63,15 @@ In accordance with the requirements of paragraph 8(3) of Schedule 8, and paragra
 
 Accordingly, the Secretary of State[^f00003] makes this Order.
 
-## 1. Citation and commencement[^key-174bec881664eeaaf520f1721827c88d]
+## 1. Citation and commencement[^c-174bec881664eeaaf520f1721827c88d]
 
 This Order may be cited as the Bus Lane Contraventions (Approved Local Authorities) (England) (Amendment) and Civil Enforcement of Parking Contraventions Designation (No. 2) Order 2012 and comes into force on 30th November 2012.
 
-## 2. Revocation of previous orders[^key-4c60bf5b514374dff4b7234d6e7925cf]
+## 2. Revocation of previous orders[^c-4c60bf5b514374dff4b7234d6e7925cf]
 
 The Road Traffic (Permitted Parking Area and Special Parking Area) (City of Salford) Order 2001[^f00004] is revoked.
 
-## 3. Designation of civil enforcement areas and special enforcement areas under the Traffic Management Act 2004[^key-11231f086338358d260b37d7fb9e26d6]
+## 3. Designation of civil enforcement areas and special enforcement areas under the Traffic Management Act 2004[^c-11231f086338358d260b37d7fb9e26d6]
 
 (1) The Secretary of State designates each of the areas mentioned in paragraph (2) as—
 
@@ -84,7 +84,7 @@ The Road Traffic (Permitted Parking Area and Special Parking Area) (City of Salf
 - (b) the part of the area of The Lincolnshire County Council specified in Schedules 2 and 3; and
 - (c) the part of the area of the Council of the City of Salford specified in Schedule 4.
 
-## 4. Amendment of the Bus Lane Contraventions (Approved Local Authorities) (England) Order 2005[^key-0dd0e3f0e70318d338f28d282babf394]
+## 4. Amendment of the Bus Lane Contraventions (Approved Local Authorities) (England) Order 2005[^c-0dd0e3f0e70318d338f28d282babf394]
 
 (1) The Bus Lane Contraventions (Approved Local Authorities) (England) Order 2005[^f00005] is amended as follows.
 
@@ -106,11 +106,11 @@ Department for Transport
 
 SCHEDULES
 
-## SCHEDULE 1 — The part of the area of The Buckinghamshire County Council designated as a civil enforcement area for parking contraventions and as a special enforcement area[^key-60af87b422bd36db795612db1a09c1f7]
+## SCHEDULE 1 — The part of the area of The Buckinghamshire County Council designated as a civil enforcement area for parking contraventions and as a special enforcement area[^c-60af87b422bd36db795612db1a09c1f7]
 
 Article 3(2)(a)
 
-[^key-60af87b422bd36db795612db1a09c1f7]
+[^c-60af87b422bd36db795612db1a09c1f7]
 
 The whole of the area of South Bucks District Council[^f00006] except—
 
@@ -118,13 +118,13 @@ The whole of the area of South Bucks District Council[^f00006] except—
 - (b) the entire length of the M4 within the District, including its on and off slip roads;
 - (c) the entire length of the M40 within the District, including its on and off slip roads and all roundabouts;
 - (d) the entire length of the A40 within the District, from its transition to the M40 at junction 1 at Ordnance Survey national grid reference point TQ0474185737 to the Boundary with the London Borough of Hillingdon at Ordnance Survey national grid reference point TQ0567585630 including its on and off slip roads; and
-- (e)[^key-3e8b3fcff2def3820da3e15f25f40d29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-3e8b3fcff2def3820da3e15f25f40d29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — The part of the area of The Lincolnshire County Council designated as a civil enforcement area for parking contraventions and as a special enforcement area[^key-2a4470f491bbba8812794b5411842d92]
+## SCHEDULE 2 — The part of the area of The Lincolnshire County Council designated as a civil enforcement area for parking contraventions and as a special enforcement area[^c-2a4470f491bbba8812794b5411842d92]
 
 Article 3(2)(b)
 
-[^key-2a4470f491bbba8812794b5411842d92]
+[^c-2a4470f491bbba8812794b5411842d92]
 
 The whole of the area of the Lincolnshire County Council except—
 
@@ -186,7 +186,7 @@ The whole of the area of the Lincolnshire County Council except—
   - (xliv) Pottergate Close from the junction with the A607 Grantham Road at Ordnance Survey national grid reference point SK9773064945 to the end of the cul-de-sac at Ordnance Survey national grid reference point SK9797564955 as illustrated in Map 9 in Schedule 3; and
   - (xlv) Pollyplatt Lane from the junction with Norfolk Crescent at Ordnance Survey national grid reference point SK9634179021 to the junction with the A15 at Ordnance Survey national grid reference point SK9729279142 as illustrated in Map 10 in Schedule 3.
 
-## SCHEDULE 3[^key-7993823faefdcecfa8d4fc94afaf71a8]
+## SCHEDULE 3[^c-7993823faefdcecfa8d4fc94afaf71a8]
 
 Article 3(2)(b)
 
@@ -230,11 +230,11 @@ Map 10
 
 [image: see source](https://www.legislation.gov.uk/uksi/2012/2659/images/uksi_20122659_en_010)
 
-## SCHEDULE 4 — The part of the area of the Council of the City of Salford designated as a civil enforcement area for parking contraventions and as a special enforcement area[^key-68b2219d67212e490a8b7749ca393ba4]
+## SCHEDULE 4 — The part of the area of the Council of the City of Salford designated as a civil enforcement area for parking contraventions and as a special enforcement area[^c-68b2219d67212e490a8b7749ca393ba4]
 
 Article 3(2)(c)
 
-[^key-68b2219d67212e490a8b7749ca393ba4]
+[^c-68b2219d67212e490a8b7749ca393ba4]
 
 The whole of the area of the Council of the City of Salford except—
 
@@ -265,26 +265,26 @@ An impact assessment has not been produced as no impact on the private or volunt
 
 [^f00003]: Footnote: The Secretary of State is, by virtue of section 92 of the Traffic Management Act 2004, the ‘appropriate national authority’ as regards England for the purposes of Part 6 of that Act.
 
-[^key-174bec881664eeaaf520f1721827c88d]: Commencement: Art. 1 in force at 30.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2659/article/1)
+[^c-174bec881664eeaaf520f1721827c88d]: Commencement: Art. 1 in force at 30.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2659/article/1)
 
-[^key-4c60bf5b514374dff4b7234d6e7925cf]: Commencement: Art. 2 in force at 30.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2659/article/1)
+[^c-4c60bf5b514374dff4b7234d6e7925cf]: Commencement: Art. 2 in force at 30.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2659/article/1)
 
 [^f00004]: Footnote: [S.I. 2001/894](https://www.legislation.gov.uk/uksi/2001/894).
 
-[^key-11231f086338358d260b37d7fb9e26d6]: Commencement: Art. 3 in force at 30.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2659/article/1)
+[^c-11231f086338358d260b37d7fb9e26d6]: Commencement: Art. 3 in force at 30.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2659/article/1)
 
-[^key-0dd0e3f0e70318d338f28d282babf394]: Commencement: Art. 4 in force at 30.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2659/article/1)
+[^c-0dd0e3f0e70318d338f28d282babf394]: Commencement: Art. 4 in force at 30.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2659/article/1)
 
 [^f00005]: Footnote: [S.I. 2005/2755](https://www.legislation.gov.uk/uksi/2005/2755), amended by [S.I. 2005/3406](https://www.legislation.gov.uk/uksi/2005/3406), [2006/593](https://www.legislation.gov.uk/uksi/2006/593), [2006/1447](https://www.legislation.gov.uk/uksi/2006/1447), [2006/1516](https://www.legislation.gov.uk/uksi/2006/1516), [2006/2632](https://www.legislation.gov.uk/uksi/2006/2632), [2006/2820](https://www.legislation.gov.uk/uksi/2006/2820), [2006/3212](https://www.legislation.gov.uk/uksi/2006/3212), [2006/3419](https://www.legislation.gov.uk/uksi/2006/3419), [2006/3425](https://www.legislation.gov.uk/uksi/2006/3425), [2007/551](https://www.legislation.gov.uk/uksi/2007/551), [2007/647](https://www.legislation.gov.uk/uksi/2007/647), [2007/1512](https://www.legislation.gov.uk/uksi/2007/1512), [2007/1585](https://www.legislation.gov.uk/uksi/2007/1585), [2007/2323](https://www.legislation.gov.uk/uksi/2007/2323), [2007/2536](https://www.legislation.gov.uk/uksi/2007/2536), [2007/2838](https://www.legislation.gov.uk/uksi/2007/2838), [2007/3554](https://www.legislation.gov.uk/uksi/2007/3554), [2010/99](https://www.legislation.gov.uk/uksi/2010/99), [2010/2790](https://www.legislation.gov.uk/uksi/2010/2790) and [2012/846](https://www.legislation.gov.uk/uksi/2012/846).
 
-[^key-60af87b422bd36db795612db1a09c1f7]: Commencement: Sch. 1 in force at 30.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2659/article/1)
+[^c-60af87b422bd36db795612db1a09c1f7]: Commencement: Sch. 1 in force at 30.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2659/article/1)
 
 [^f00006]: Footnote: South Bucks District Council changed its name from Beaconsfield District Council by a Notice of Motion on 1 April 1980.
 
-[^key-3e8b3fcff2def3820da3e15f25f40d29]: Textual amendment: [Sch. 1 para.](https://www.legislation.gov.uk/uksi/2012/2659/schedule/1/paragraph) (e) omitted (3.4.2017) by virtue of [The Civil Enforcement of Parking Contraventions Designation and Consequential Amendment Order 2017 (S.I. 2017/272)](https://www.legislation.gov.uk/uksi/2017/272), [arts. 1](https://www.legislation.gov.uk/uksi/2017/272/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2017/272/article/3/2)
+[^c-3e8b3fcff2def3820da3e15f25f40d29]: Textual amendment: [Sch. 1 para.](https://www.legislation.gov.uk/uksi/2012/2659/schedule/1/paragraph) (e) omitted (3.4.2017) by virtue of [The Civil Enforcement of Parking Contraventions Designation and Consequential Amendment Order 2017 (S.I. 2017/272)](https://www.legislation.gov.uk/uksi/2017/272), [arts. 1](https://www.legislation.gov.uk/uksi/2017/272/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2017/272/article/3/2)
 
-[^key-2a4470f491bbba8812794b5411842d92]: Commencement: Sch. 2 in force at 30.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2659/article/1)
+[^c-2a4470f491bbba8812794b5411842d92]: Commencement: Sch. 2 in force at 30.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2659/article/1)
 
-[^key-7993823faefdcecfa8d4fc94afaf71a8]: Commencement: Sch. 3 in force at 30.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2659/article/1)
+[^c-7993823faefdcecfa8d4fc94afaf71a8]: Commencement: Sch. 3 in force at 30.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2659/article/1)
 
-[^key-68b2219d67212e490a8b7749ca393ba4]: Commencement: Sch. 4 in force at 30.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2659/article/1)
+[^c-68b2219d67212e490a8b7749ca393ba4]: Commencement: Sch. 4 in force at 30.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2659/article/1)

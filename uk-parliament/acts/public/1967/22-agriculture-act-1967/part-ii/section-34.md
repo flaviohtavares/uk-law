@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Power to vary rates, and extend scope, of grants for agricultural investment.[^key-22e0145932cd822c018aecaf984503af]
+## 34. Power to vary rates, and extend scope, of grants for agricultural investment.[^c-22e0145932cd822c018aecaf984503af]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22e0145932cd822c018aecaf984503af]: Textual amendment: [S. 34](https://www.legislation.gov.uk/ukpga/1967/22/section/34) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-22e0145932cd822c018aecaf984503af]: Textual amendment: [S. 34](https://www.legislation.gov.uk/ukpga/1967/22/section/34) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1

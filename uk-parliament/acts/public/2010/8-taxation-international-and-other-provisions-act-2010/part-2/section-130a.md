@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130A. Interpreting provision about UK taxation of pensions etc[^key-77a100823d55cff024d81c22d8407154]
+## 130A. Interpreting provision about UK taxation of pensions etc[^c-77a100823d55cff024d81c22d8407154]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ are not to be subject to United Kingdom tax.
 
 ## Annotations
 
-[^key-77a100823d55cff024d81c22d8407154]: Textual amendment: S. 130A inserted (with effect in accordance with s. 72(2) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 72(1)](https://www.legislation.gov.uk/ukpga/2011/11/section/72/1)
+[^c-77a100823d55cff024d81c22d8407154]: Textual amendment: S. 130A inserted (with effect in accordance with s. 72(2) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 72(1)](https://www.legislation.gov.uk/ukpga/2011/11/section/72/1)

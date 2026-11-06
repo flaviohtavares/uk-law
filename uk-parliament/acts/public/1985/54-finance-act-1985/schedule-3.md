@@ -28,7 +28,7 @@ summary: ''
 
 ### Spirits: attenuation charge
 
-**2.**[^key-31a919953a17184ddcb6fcde96f849c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-31a919953a17184ddcb6fcde96f849c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Determination of beer duty
 
@@ -42,7 +42,7 @@ summary: ''
 
 [^c10034771]: Marginal citation: [1979 c. 4](https://www.legislation.gov.uk/ukpga/1979/4).
 
-[^key-31a919953a17184ddcb6fcde96f849c9]: Textual amendment: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/1985/54/schedule/3/paragraph/2) repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 1(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/1/1)
+[^c-31a919953a17184ddcb6fcde96f849c9]: Textual amendment: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/1985/54/schedule/3/paragraph/2) repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 1(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/1/1)
 
 [^c10034781]: Textual amendment: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/1985/54/schedule/3/paragraph/3) repealed (1.5.1993 for specified purposes and 1.6.1993 otherwise) by [Finance Act 1991 (c. 31, SIF 40:1)](https://www.legislation.gov.uk/ukpga/1991/31), [ss. 7](https://www.legislation.gov.uk/ukpga/1991/31/section/7), [123](https://www.legislation.gov.uk/ukpga/1991/31/section/123), [Sch. 19 Pt. II](https://www.legislation.gov.uk/ukpga/1991/31/schedule/19/part/II); [S.I. 1993/1152](https://www.legislation.gov.uk/uksi/1993/1152), [art. 2](https://www.legislation.gov.uk/uksi/1993/1152/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1993/1152/schedule/1) (with [arts. 3-7](https://www.legislation.gov.uk/uksi/1993/1152/article/3))
 

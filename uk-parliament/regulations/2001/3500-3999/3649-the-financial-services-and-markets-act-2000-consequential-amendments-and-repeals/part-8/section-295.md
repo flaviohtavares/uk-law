@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 295. Administrative expenses of garnishees and others[^key-eeabbc421ac2c3fc0143501e44e38901]
+## 295. Administrative expenses of garnishees and others[^c-eeabbc421ac2c3fc0143501e44e38901]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-eeabbc421ac2c3fc0143501e44e38901]: Commencement: Art. 295 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-eeabbc421ac2c3fc0143501e44e38901]: Commencement: Art. 295 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00218]: Footnote: Subsection (1) was substituted by the Administration of Justice Act [1985 (c. 61)](https://www.legislation.gov.uk/ukpga/1985/61), s.52(2).
 

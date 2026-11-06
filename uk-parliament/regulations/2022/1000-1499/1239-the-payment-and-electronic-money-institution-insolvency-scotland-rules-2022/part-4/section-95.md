@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 95. Expenses to be paid out of the institution’s assets[^key-015a9e599060a02f7fd38648f57e8b99]
+## 95. Expenses to be paid out of the institution’s assets[^c-015a9e599060a02f7fd38648f57e8b99]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-015a9e599060a02f7fd38648f57e8b99]: Commencement: Rule 95 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-015a9e599060a02f7fd38648f57e8b99]: Commencement: Rule 95 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

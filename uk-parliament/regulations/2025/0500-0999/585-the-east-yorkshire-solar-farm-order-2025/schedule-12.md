@@ -22,7 +22,7 @@ summary: ''
 
 Article 40
 
-### PART 1 — DOCUMENTS FORMING THE ENVIRONMENTAL STATEMENT TO BE CERTIFIED[^key-9abbbf404fef9a69592b3f47b3ae254c]
+### PART 1 — DOCUMENTS FORMING THE ENVIRONMENTAL STATEMENT TO BE CERTIFIED[^c-9abbbf404fef9a69592b3f47b3ae254c]
 
 | *(1)*<br>*Document name* | *(2)*<br>*Document reference* | *(3)*<br>*Revision number* | *(4)*<br>*Date* | *(5)*<br>*Examination Library Reference* |
 | --- | --- | --- | --- | --- |
@@ -30,7 +30,7 @@ Article 40
 | Technical Appendices | EN010143/APP/6.2 | 0 | 16 November 2023 | APP-071 to APP-132 |
 | Figures | EN010143/APP/6.3 | 0 | 16 November 2023 | APP-133 to APP-229 |
 
-### PART 2 — EXAMINATION DOCUMENTS FORMING PART OF THE ENVIRONMENTAL STATEMENT TO BE CERTIFIED[^key-bc658537ad6ff6261c878ca828c39108]
+### PART 2 — EXAMINATION DOCUMENTS FORMING PART OF THE ENVIRONMENTAL STATEMENT TO BE CERTIFIED[^c-bc658537ad6ff6261c878ca828c39108]
 
 | *(1)*<br>*Document name* | *(2)*<br>*Document reference* | *(3)*<br>*Revision number* | *(4)*<br>*Date* | *(5)*<br>*Examination Library Reference* |
 | --- | --- | --- | --- | --- |
@@ -70,7 +70,7 @@ Article 40
 | Framework site waste management plan | EN010143/APP/6.2 | 0 | 16 November 2023 | APP-124 |
 | Framework surface water drainage strategy | EN010143/APP/6.2 | 1 | 18 June 2024 | REP1-021 |
 
-### PART 3 — OTHER DOCUMENTS TO BE CERTIFIED[^key-c10824dee942ecfc859d7bae50bdd715]
+### PART 3 — OTHER DOCUMENTS TO BE CERTIFIED[^c-c10824dee942ecfc859d7bae50bdd715]
 
 | *(1)*<br>*Document name* | *(2)*<br>*Document reference* | *(3)*<br>*Revision number* | *(4)*<br>*Date* | *(5)*<br>*Examination Library Reference* |
 | --- | --- | --- | --- | --- |
@@ -92,8 +92,8 @@ Article 40
 
 ## Annotations
 
-[^key-9abbbf404fef9a69592b3f47b3ae254c]: Commencement: Sch. 12 Pt. 1 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
+[^c-9abbbf404fef9a69592b3f47b3ae254c]: Commencement: Sch. 12 Pt. 1 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
 
-[^key-bc658537ad6ff6261c878ca828c39108]: Commencement: Sch. 12 Pt. 2 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
+[^c-bc658537ad6ff6261c878ca828c39108]: Commencement: Sch. 12 Pt. 2 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
 
-[^key-c10824dee942ecfc859d7bae50bdd715]: Commencement: Sch. 12 Pt. 3 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
+[^c-c10824dee942ecfc859d7bae50bdd715]: Commencement: Sch. 12 Pt. 3 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)

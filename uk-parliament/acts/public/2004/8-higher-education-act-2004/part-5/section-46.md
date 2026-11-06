@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Exclusion of visitor’s jurisdiction in relation to staff disputes[^key-1632665b496032b1d9ac46d4f86eb14e][^key-6a4dee0085f89611801149a03f9511f0]
+## 46. Exclusion of visitor’s jurisdiction in relation to staff disputes[^c-1632665b496032b1d9ac46d4f86eb14e][^c-6a4dee0085f89611801149a03f9511f0]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1632665b496032b1d9ac46d4f86eb14e]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2004/8/section/46) in force for W. at 1.1.2005 by [S.I. 2004/3144](https://www.legislation.gov.uk/wsi/2004/3144), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2004/3144/schedule/part/2) (with [art. 6](https://www.legislation.gov.uk/wsi/2004/3144/article/6))
+[^c-1632665b496032b1d9ac46d4f86eb14e]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2004/8/section/46) in force for W. at 1.1.2005 by [S.I. 2004/3144](https://www.legislation.gov.uk/wsi/2004/3144), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2004/3144/schedule/part/2) (with [art. 6](https://www.legislation.gov.uk/wsi/2004/3144/article/6))
 
-[^key-6a4dee0085f89611801149a03f9511f0]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2004/8/section/46) in force for E. at 1.1.2005 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 4](https://www.legislation.gov.uk/uksi/2004/2781/article/4) (with [art. 5](https://www.legislation.gov.uk/uksi/2004/2781/article/5))
+[^c-6a4dee0085f89611801149a03f9511f0]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2004/8/section/46) in force for E. at 1.1.2005 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 4](https://www.legislation.gov.uk/uksi/2004/2781/article/4) (with [art. 5](https://www.legislation.gov.uk/uksi/2004/2781/article/5))

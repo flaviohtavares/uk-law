@@ -33,7 +33,7 @@ Section 31
 (2) This sub-paragraph is satisfied if it is necessary to make the services available to the legal person under this Part because failure to do so would be a breach of—
 
 - (a) the person's Convention rights (within the meaning of the Human Rights Act 1998), or
-- (b) any rights of the person to the provision of legal services that are assimilated enforceable rights[^key-d2c0dc23b7ffe20075bcc67d27ef855d].
+- (b) any rights of the person to the provision of legal services that are assimilated enforceable rights[^c-d2c0dc23b7ffe20075bcc67d27ef855d].
 
 (3) This sub-paragraph is satisfied if it is appropriate to make the services available to the legal person under this Part, in the particular circumstances of the case, having regard to any risk that failure to do so would be such a breach.
 
@@ -145,4 +145,4 @@ and the conditions in sub-paragraph (2) are met.
 
 ## Annotations
 
-[^key-d2c0dc23b7ffe20075bcc67d27ef855d]: Textual amendment: Words in [Sch. 3 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/3/paragraph/2/2/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 75(5)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/75/5)
+[^c-d2c0dc23b7ffe20075bcc67d27ef855d]: Textual amendment: Words in [Sch. 3 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/3/paragraph/2/2/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 75(5)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/75/5)

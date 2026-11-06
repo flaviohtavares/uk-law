@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Corporate plan of Qualifications Scotland[^key-ef41fcd37e6b6ab152e9ba574dbcf785][^key-5d4106167b53eabab9847eb1eba7c5ea]
+## 16. Corporate plan of Qualifications Scotland[^c-ef41fcd37e6b6ab152e9ba574dbcf785][^c-5d4106167b53eabab9847eb1eba7c5ea]
 
 *Extent: S*
 
@@ -73,6 +73,6 @@ on how Qualifications Scotland can, in the exercise of its functions, align with
 
 ## Annotations
 
-[^key-ef41fcd37e6b6ab152e9ba574dbcf785]: Commencement: S. 16 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-ef41fcd37e6b6ab152e9ba574dbcf785]: Commencement: S. 16 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-5d4106167b53eabab9847eb1eba7c5ea]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2025/11/section/16) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2026/2/regulation/3))
+[^c-5d4106167b53eabab9847eb1eba7c5ea]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2025/11/section/16) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2026/2/regulation/3))

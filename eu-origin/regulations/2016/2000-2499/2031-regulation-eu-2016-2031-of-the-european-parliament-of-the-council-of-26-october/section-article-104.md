@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 104. Information items, format and deadlines of notifications, and notifications in the case of suspected presence of pests[^key-7da6dc2aec6c21df85b2e4a891b11775]
+## Article 104. Information items, format and deadlines of notifications, and notifications in the case of suspected presence of pests[^c-7da6dc2aec6c21df85b2e4a891b11775]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7da6dc2aec6c21df85b2e4a891b11775]: Textual amendment: [Art. 104](https://www.legislation.gov.uk/eur/2016/2031/article/104) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [32](https://www.legislation.gov.uk/uksi/2020/1482/regulation/32) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-7da6dc2aec6c21df85b2e4a891b11775]: Textual amendment: [Art. 104](https://www.legislation.gov.uk/eur/2016/2031/article/104) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [32](https://www.legislation.gov.uk/uksi/2020/1482/regulation/32) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

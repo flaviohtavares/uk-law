@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 207. Operation of multi-purpose interconnectors: independence[^key-2b6d1c6399714dab97cdc69e872ed08f]
+## 207. Operation of multi-purpose interconnectors: independence[^c-2b6d1c6399714dab97cdc69e872ed08f]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b6d1c6399714dab97cdc69e872ed08f]: Commencement: S. 207 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-2b6d1c6399714dab97cdc69e872ed08f]: Commencement: S. 207 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)

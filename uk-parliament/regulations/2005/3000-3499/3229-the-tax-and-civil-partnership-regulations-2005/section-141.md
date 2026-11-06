@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141.[^key-a02fa94e1705c19d83a736875fb991ee]
+## 141.[^c-a02fa94e1705c19d83a736875fb991ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 174 (employment-related loans), in subsection (6), after “spouse”
 
 ## Annotations
 
-[^key-a02fa94e1705c19d83a736875fb991ee]: Commencement: Reg. 141 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-a02fa94e1705c19d83a736875fb991ee]: Commencement: Reg. 141 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

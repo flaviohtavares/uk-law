@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 77. Admissibility of inspection and surveillance reports[^key-a676c032d8397c29d628e1efb9ea02f1]
+## Article 77. Admissibility of inspection and surveillance reports[^c-a676c032d8397c29d628e1efb9ea02f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a676c032d8397c29d628e1efb9ea02f1]: Textual amendment: [Art. 77](https://www.legislation.gov.uk/eur/2009/1224/article/77) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [4(76)](https://www.legislation.gov.uk/uksi/2019/739/regulation/4/76); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a676c032d8397c29d628e1efb9ea02f1]: Textual amendment: [Art. 77](https://www.legislation.gov.uk/eur/2009/1224/article/77) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [4(76)](https://www.legislation.gov.uk/uksi/2019/739/regulation/4/76); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Child trust funds: safeguards for children's interests[^c22547921][^key-2bcdbd9a3311dd77ea86967d2ff5e29d]
+## 63. Child trust funds: safeguards for children's interests[^c22547921][^c-2bcdbd9a3311dd77ea86967d2ff5e29d]
 
 *Extent: E+W+S*
 
@@ -63,4 +63,4 @@ After section 7B of the Child Trust Funds Act 2004 (as inserted by section 62) i
 
 [^c22547921]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2015/20/section/63) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-2bcdbd9a3311dd77ea86967d2ff5e29d]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2015/20/section/63) in force at 6.4.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/994/article/3/b)
+[^c-2bcdbd9a3311dd77ea86967d2ff5e29d]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2015/20/section/63) in force at 6.4.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/994/article/3/b)

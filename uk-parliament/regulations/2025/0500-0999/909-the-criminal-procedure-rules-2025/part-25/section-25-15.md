@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25.15. Conviction or acquittal without a jury[^key-fa93e53510448a28090c8142b9e577f5]
+## 25.15. Conviction or acquittal without a jury[^c-fa93e53510448a28090c8142b9e577f5]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-fa93e53510448a28090c8142b9e577f5]: Commencement: [Rule 25.15](https://www.legislation.gov.uk/uksi/2025/909/rule/25.15) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-fa93e53510448a28090c8142b9e577f5]: Commencement: [Rule 25.15](https://www.legislation.gov.uk/uksi/2025/909/rule/25.15) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00615]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44).
 

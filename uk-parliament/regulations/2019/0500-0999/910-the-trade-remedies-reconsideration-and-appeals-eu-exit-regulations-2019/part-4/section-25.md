@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25.[^key-d87ba282aa19f447a2fe075439a90c4f]
+## 25.[^c-d87ba282aa19f447a2fe075439a90c4f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation 13 (reconsideration by the TRA) has effect as if, in paragraph (8), f
 
 ## Annotations
 
-[^key-d87ba282aa19f447a2fe075439a90c4f]: Commencement: Reg. 25 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)
+[^c-d87ba282aa19f447a2fe075439a90c4f]: Commencement: Reg. 25 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Review of risk assessments[^key-c4b179cee51433a09926fa44f8d95eab]
+## 11. Review of risk assessments[^c-c4b179cee51433a09926fa44f8d95eab]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ which is relevant for the protection of human health and was not previously take
 
 ## Annotations
 
-[^key-c4b179cee51433a09926fa44f8d95eab]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2017/282/regulation/11) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-c4b179cee51433a09926fa44f8d95eab]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2017/282/regulation/11) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

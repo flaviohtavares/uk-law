@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — SCHEDULED WORKS[^key-1d14f7d149349c0ae9774cc57718585c]
+## SCHEDULE 1 — SCHEDULED WORKS[^c-1d14f7d149349c0ae9774cc57718585c]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ Articles 2 and 6
 
 ### In the City of London -
 
-[^key-1d14f7d149349c0ae9774cc57718585c]
+[^c-1d14f7d149349c0ae9774cc57718585c]
 
 Work No.1 - A railway 662 metres in length in tunnel, being a realignment of part of the southbound railway of the Company’s Northern Line, commencing by a junction with the southbound railway beneath a point 16 metres north of the junction of Gresham Street with Lothbury, passing in a southerly direction and terminating by a junction with the southbound railway beneath a point 39 metres south of the bridge carrying King William Street over Lower Thames Street.
 
@@ -86,4 +86,4 @@ Work No. 24 - A tunnel for operational services linking Work No 10 to the propos
 
 ## Annotations
 
-[^key-1d14f7d149349c0ae9774cc57718585c]: Commencement: Sch. 1 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-1d14f7d149349c0ae9774cc57718585c]: Commencement: Sch. 1 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)

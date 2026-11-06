@@ -86,7 +86,7 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 - (b) remove any means of access constructed in pursuance of that consent and make good any damage to the road; and
 - (c) recover from that person any expenses thereby reasonably incurred by it.
 
-(13)[^key-93eebc62cce81e34884a388650bc7c82] In this Article—
+(13)[^c-93eebc62cce81e34884a388650bc7c82] In this Article—
 
 - [^c16867551]“agricultural land” has the same meaning as in the Agriculture Act (Northern Ireland) 1949;
 - “constructing a means of access” includes forming, laying out or altering that means of access;
@@ -95,6 +95,6 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 ## Annotations
 
-[^key-93eebc62cce81e34884a388650bc7c82]: Textual amendment: Words in art. 80(13) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern-Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 66](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/66) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2) as amended (16.3.2016) by S.R. 2016/159, art. 2)
+[^c-93eebc62cce81e34884a388650bc7c82]: Textual amendment: Words in art. 80(13) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern-Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 66](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/66) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2) as amended (16.3.2016) by S.R. 2016/159, art. 2)
 
 [^c16867551]: Textual amendment: [1949 c. 2 (N.I.)](https://www.legislation.gov.uk/apni/1949/2)

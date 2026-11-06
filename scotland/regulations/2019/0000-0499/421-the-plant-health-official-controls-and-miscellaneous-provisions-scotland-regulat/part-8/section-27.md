@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Notification requirements in relation to Tomato brown rugose fruit virus and Rose Rosette virus[^key-6c7fb7c0573908e06678e27c76f06428]
+## 27. Notification requirements in relation to Tomato brown rugose fruit virus and Rose Rosette virus[^c-6c7fb7c0573908e06678e27c76f06428]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c7fb7c0573908e06678e27c76f06428]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/ssi/2019/421/regulation/27) omitted (27.6.2020) by virtue of [The Plant Health (Official Controls and Miscellaneous Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/176)](https://www.legislation.gov.uk/ssi/2020/176), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/176/regulation/1/1), [12](https://www.legislation.gov.uk/ssi/2020/176/regulation/12)
+[^c-6c7fb7c0573908e06678e27c76f06428]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/ssi/2019/421/regulation/27) omitted (27.6.2020) by virtue of [The Plant Health (Official Controls and Miscellaneous Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/176)](https://www.legislation.gov.uk/ssi/2020/176), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/176/regulation/1/1), [12](https://www.legislation.gov.uk/ssi/2020/176/regulation/12)

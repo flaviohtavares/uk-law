@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. New road crossings[^key-d79e04567659b42bdf13fcbe15f7e6c4]
+## 18. New road crossings[^c-d79e04567659b42bdf13fcbe15f7e6c4]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d79e04567659b42bdf13fcbe15f7e6c4]: Commencement: Art. 18 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-d79e04567659b42bdf13fcbe15f7e6c4]: Commencement: Art. 18 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
 [^f00022]: Footnote: [1992 c. 42](https://www.legislation.gov.uk/ukpga/1992/42). As amended by [S.I. 1995/1541](https://www.legislation.gov.uk/uksi/1995/1541), [1998/2226](https://www.legislation.gov.uk/uksi/1998/2226), [2003/3199](https://www.legislation.gov.uk/uksi/2003/3199) and [2006/958](https://www.legislation.gov.uk/uksi/2006/958).

@@ -50,7 +50,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and extent[^key-268e70a7765c395e4e10a8f00ab5a8d9]
+### 1. Citation, commencement and extent[^c-268e70a7765c395e4e10a8f00ab5a8d9]
 
 (1) These Regulations may be cited as the Civil Legal Aid (Amendment) (EU Exit) Regulations 2019 and come into force on exit day.
 
@@ -58,7 +58,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 ## PART 2 — Amendment of primary legislation
 
-### 2. Amendment of the Access to Justice (Northern Ireland) Order 2003[^key-81f07aab78e8704ad48c06a0590f5cea]
+### 2. Amendment of the Access to Justice (Northern Ireland) Order 2003[^c-81f07aab78e8704ad48c06a0590f5cea]
 
 (1) The Access to Justice (Northern Ireland) Order 2003 [^c23626351] is amended as follows.
 
@@ -66,7 +66,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 (3) Omit paragraph 2(d)(xx) (cross-border disputes) of Schedule 2.
 
-### 3. Amendment of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^key-1301a9e0b7410266b36f70375055e425]
+### 3. Amendment of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^c-1301a9e0b7410266b36f70375055e425]
 
 (1) The Legal Aid, Sentencing and Punishment of Offenders Act 2012 [^c23626361] is amended as follows.
 
@@ -86,7 +86,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 ## PART 3 — Amendment of subordinate legislation
 
-### 4. Amendment of the Civil Legal Aid (Procedure) Regulations 2012[^key-049a399d25157cca01b18703fbe6e520]
+### 4. Amendment of the Civil Legal Aid (Procedure) Regulations 2012[^c-049a399d25157cca01b18703fbe6e520]
 
 (1) The Civil Legal Aid (Procedure) Regulations 2012 [^c23626371] are amended as follows.
 
@@ -94,7 +94,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 (3) In regulation 31(3) (applications for licensed work), for “European Union”, substitute “ United Kingdom ”.
 
-### 5. Amendment of the Civil Legal Aid (Merits Criteria) Regulations 2013[^key-c1c6e284945b61b6227aee881c18b065]
+### 5. Amendment of the Civil Legal Aid (Merits Criteria) Regulations 2013[^c-c1c6e284945b61b6227aee881c18b065]
 
 (1) The Civil Legal Aid (Merits Criteria) Regulations 2013 [^c23626381] are amended as follows.
 
@@ -102,7 +102,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 (3) Omit regulation 31 (cross-border disputes).
 
-### 6. Amendment of the Civil Legal Aid (Financial Resources and Payment for Services) Regulations 2013[^key-bd8ae4680c2a3198d230db66ba6098f8]
+### 6. Amendment of the Civil Legal Aid (Financial Resources and Payment for Services) Regulations 2013[^c-bd8ae4680c2a3198d230db66ba6098f8]
 
 (1) The Civil Legal Aid (Financial Resources and Payment for Services) Regulations 2013 [^c23626391] are amended as follows.
 
@@ -114,13 +114,13 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 (5) In regulation 44(2) and (3) (contributions), omit “or 6(3)”.
 
-### 7. Amendment of the Civil Legal Services (Financial) Regulations (Northern Ireland) 2015[^key-58764f9cd21f19bd8105282717dee4b1]
+### 7. Amendment of the Civil Legal Services (Financial) Regulations (Northern Ireland) 2015[^c-58764f9cd21f19bd8105282717dee4b1]
 
 In the Civil Legal Services (Financial) Regulations (Northern Ireland) 2015 [^c23626401], omit regulation 9 (waiver of eligibility limits and contributions in cross-border disputes).
 
 ## PART 4 — Transitional Provisions
 
-### 8. Transitional provision – England and Wales[^key-b92c94a028cd4ef88296e16a0bcf6825]
+### 8. Transitional provision – England and Wales[^c-b92c94a028cd4ef88296e16a0bcf6825]
 
 (1) The amendments made by regulations 3(5) and 4 to 6 do not apply to an application for civil legal services falling within paragraph (2).
 
@@ -128,7 +128,7 @@ In the Civil Legal Services (Financial) Regulations (Northern Ireland) 2015 [^c2
 
 - (a) submitted to the Director in accordance with Article 13(1)(b) of the Cross-Border Legal Aid Directive, reading that Article as if the United Kingdom were a member State, which—
   - (i) is made using the standard form for legal aid applications established under Article 16 of the Cross-Border Legal Aid Directive, and
-  - (ii) received by the Director before IP completion day[^key-cf1ff091d98a75bb971dbb0428ed3624],
+  - (ii) received by the Director before IP completion day[^c-cf1ff091d98a75bb971dbb0428ed3624],
 - (b) transmitted to the Director by a transmitting authority and received by the Director before 5.00pm on the fifteenth day after the day on which IP completion day falls, or
 - (c) not falling within sub-paragraph (a) or (b), and—
   - (i) it is an application for Controlled Work, and the application is signed and dated on or before the day on which IP completion day falls,
@@ -161,7 +161,7 @@ In the Civil Legal Services (Financial) Regulations (Northern Ireland) 2015 [^c2
   > - (a) in order to determine whether an individual is domiciled in the member State whose courts are seised of a matter, the internal law of that member State shall be applied;
   > - (b) if an individual is not domiciled in the member State whose courts are seised of the matter, then, in order to determine whether the party is domiciled in another member State, the internal law of that member State shall be applied
 
-(3A)[^key-df6dae6e0a41f6c7e294adbcf1f67376] Nothing in these Regulations affects the application of paragraph 1(a) of Article 69 of the withdrawal agreement and legislation amended or revoked by these Regulations continues to have effect for the purposes of that paragraph as if the amendments or revocations had not been made.
+(3A)[^c-df6dae6e0a41f6c7e294adbcf1f67376] Nothing in these Regulations affects the application of paragraph 1(a) of Article 69 of the withdrawal agreement and legislation amended or revoked by these Regulations continues to have effect for the purposes of that paragraph as if the amendments or revocations had not been made.
 
 (4) In this regulation—
 
@@ -177,7 +177,7 @@ In the Civil Legal Services (Financial) Regulations (Northern Ireland) 2015 [^c2
 - “**transmitting authority**” has the meaning given in Article 14(1) of the Cross-Border Legal Aid Directive; and
 - “**working day**” means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday in England and Wales under the Banking and Financial Dealings Act 1971 [^c23626431].
 
-### 9. Transitional provision – Northern Ireland[^key-fc306a4810c7b9cc0f1e56a8f6f6b49f]
+### 9. Transitional provision – Northern Ireland[^c-fc306a4810c7b9cc0f1e56a8f6f6b49f]
 
 (1) The amendments made by regulation 2(3) and 7 do not apply to an application for civil legal services falling within paragraph (2).
 
@@ -185,7 +185,7 @@ In the Civil Legal Services (Financial) Regulations (Northern Ireland) 2015 [^c2
 
 - (a) submitted to the Director in accordance with Article 13(1)(b) of the Cross-Border Legal Aid Directive, reading that Article as if the United Kingdom were a member State, which—
   - (i) is made using the standard form for legal aid applications established under Article 16 of the Cross-Border Legal Aid Directive, and
-  - (ii) received by the Director before IP completion day[^key-b3d818ea45b9b59c0932a6783300dec3],
+  - (ii) received by the Director before IP completion day[^c-b3d818ea45b9b59c0932a6783300dec3],
 - (b) transmitted to the Director by a transmitting authority and received by the Director before 5.00pm on the fifteenth day after the day on which IP completion day falls, or
 - (c) not falling within sub-paragraph (a) or (b), and—
   - (i) the application is for advice and assistance, and the application is signed and dated on or before the day on which IP completion day falls,
@@ -204,7 +204,7 @@ In the Civil Legal Services (Financial) Regulations (Northern Ireland) 2015 [^c2
   > - (a) in order to determine whether an individual is domiciled in the member State whose courts are seised of a matter, the internal law of that member State shall be applied;
   > - (b) if an individual is not domiciled in the member State whose courts are seised of the matter, then, in order to determine whether the party is domiciled in another member State, the internal law of that member State shall be applied.
 
-(3A)[^key-6e6f07bfedb807109b8d88e8c9d948ac] Nothing in these Regulations affects the application of paragraph 1(a) of Article 69 of the withdrawal agreement and legislation amended or revoked by these Regulations continues to have effect for the purposes of that paragraph as if the amendments or revocations had not been made.
+(3A)[^c-6e6f07bfedb807109b8d88e8c9d948ac] Nothing in these Regulations affects the application of paragraph 1(a) of Article 69 of the withdrawal agreement and legislation amended or revoked by these Regulations continues to have effect for the purposes of that paragraph as if the amendments or revocations had not been made.
 
 (4) In this regulation–
 
@@ -233,49 +233,49 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c23626341]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-268e70a7765c395e4e10a8f00ab5a8d9]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-268e70a7765c395e4e10a8f00ab5a8d9]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-81f07aab78e8704ad48c06a0590f5cea]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-81f07aab78e8704ad48c06a0590f5cea]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23626351]: Marginal citation: [S.I. 2003/435 (N.I. 10)](https://www.legislation.gov.uk/nisi/2003/435), as amended by Schedule 2 to the Legal Aid and Coroners' Courts Act (Northern Ireland) 2014 ([2014 c. 11 (N.I.))](https://www.legislation.gov.uk/nia/2014/11) and [S.I. 2014/3298](https://www.legislation.gov.uk/uksi/2014/3298); there are other amending instruments but none is relevant.
 
-[^key-1301a9e0b7410266b36f70375055e425]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-1301a9e0b7410266b36f70375055e425]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23626361]: Marginal citation: [2012 c.10](https://www.legislation.gov.uk/ukpga/2012/10).
 
-[^key-049a399d25157cca01b18703fbe6e520]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-049a399d25157cca01b18703fbe6e520]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23626371]: Marginal citation: [S.I. 2012/3098](https://www.legislation.gov.uk/uksi/2012/3098); amended by [S.I. 2018/803](https://www.legislation.gov.uk/uksi/2018/803); there are other amending instruments but none is relevant.
 
-[^key-c1c6e284945b61b6227aee881c18b065]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-c1c6e284945b61b6227aee881c18b065]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23626381]: Marginal citation: [S.I. 2013/104](https://www.legislation.gov.uk/uksi/2013/104), to which there are amendments not relevant to these Regulations.
 
-[^key-bd8ae4680c2a3198d230db66ba6098f8]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-bd8ae4680c2a3198d230db66ba6098f8]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23626391]: Marginal citation: [S.I. 2013/480](https://www.legislation.gov.uk/uksi/2013/480), to which there are amendments not relevant to these Regulations.
 
-[^key-58764f9cd21f19bd8105282717dee4b1]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-58764f9cd21f19bd8105282717dee4b1]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23626401]: Marginal citation: S.R. [2015 No. 196](https://www.legislation.gov.uk/ukcm/2015/196) (N.I.); amended by S.R. [2016 No. 338](https://www.legislation.gov.uk/ukcm/2016/338) (N.I.); there are other amending instruments but none is relevant.
 
-[^key-b92c94a028cd4ef88296e16a0bcf6825]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-b92c94a028cd4ef88296e16a0bcf6825]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-cf1ff091d98a75bb971dbb0428ed3624]: Textual amendment: Words in reg. 8(2)(3) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/7/2/a)
+[^c-cf1ff091d98a75bb971dbb0428ed3624]: Textual amendment: Words in reg. 8(2)(3) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/7/2/a)
 
 [^c23626411]: Marginal citation: [S.I. 2000/516](https://www.legislation.gov.uk/uksi/2000/516). Relevant amendments are [S.I. 2004/2899](https://www.legislation.gov.uk/uksi/2004/2899) and 2007/1655. This instrument has been revoked by paragraph 51 of Schedule 5 to the [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c.10)](https://www.legislation.gov.uk/ukpga/2012/10), subject to consequential, transitional and savings provisions set out in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534).
 
-[^key-df6dae6e0a41f6c7e294adbcf1f67376]: Textual amendment: Reg. 8(3A) inserted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/7/3)
+[^c-df6dae6e0a41f6c7e294adbcf1f67376]: Textual amendment: Reg. 8(3A) inserted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/7/3)
 
 [^c23626421]: Marginal citation: OJ No. L 26, 31.1.2003, p. 41-47; original reference, “2002/8/EC”, corrected by OJ No. L 32, 7.2.2003, p. 15.
 
 [^c23626431]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-fc306a4810c7b9cc0f1e56a8f6f6b49f]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-fc306a4810c7b9cc0f1e56a8f6f6b49f]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-b3d818ea45b9b59c0932a6783300dec3]: Textual amendment: Words in reg. 9(2)(3) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/7/2/b)
+[^c-b3d818ea45b9b59c0932a6783300dec3]: Textual amendment: Words in reg. 9(2)(3) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/7/2/b)
 
-[^key-6e6f07bfedb807109b8d88e8c9d948ac]: Textual amendment: Reg. 9(3A) inserted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/7/4)
+[^c-6e6f07bfedb807109b8d88e8c9d948ac]: Textual amendment: Reg. 9(3A) inserted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/7/4)
 
 [^c23626441]: Marginal citation: [2014 c.11 (N.I.)](https://www.legislation.gov.uk/nia/2014/11).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1ZA — Patient choice: undertakings by integrated care boards[^key-1879c5e11c837c9984a1c8bca70d6785]
+## SCHEDULE 1ZA — Patient choice: undertakings by integrated care boards[^c-1879c5e11c837c9984a1c8bca70d6785]
 
 *Extent: E+W*
 
@@ -74,4 +74,4 @@ Where NHS England is satisfied that an integrated care board which has given an 
 
 ## Annotations
 
-[^key-1879c5e11c837c9984a1c8bca70d6785]: Textual amendment: [Sch. 1ZA](https://www.legislation.gov.uk/ukpga/2006/41/schedule/1ZA) inserted (1.1.2024) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 11](https://www.legislation.gov.uk/ukpga/2022/31/schedule/11); [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/3/d)
+[^c-1879c5e11c837c9984a1c8bca70d6785]: Textual amendment: [Sch. 1ZA](https://www.legislation.gov.uk/ukpga/2006/41/schedule/1ZA) inserted (1.1.2024) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 11](https://www.legislation.gov.uk/ukpga/2022/31/schedule/11); [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/3/d)

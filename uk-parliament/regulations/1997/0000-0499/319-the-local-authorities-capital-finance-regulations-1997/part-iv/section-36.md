@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Leases of other descriptions[^key-509f7051deefadea562777817dcd4186]
+## 36. Leases of other descriptions[^c-509f7051deefadea562777817dcd4186]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-509f7051deefadea562777817dcd4186]: Commencement: Reg. 36 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-509f7051deefadea562777817dcd4186]: Commencement: Reg. 36 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

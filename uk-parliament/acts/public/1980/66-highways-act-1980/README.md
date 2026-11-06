@@ -31,7 +31,7 @@ Highways Act 1980
 
 An Act to consolidate the Highways Acts 1959 to 1971 and related enactments, with amendments to give effect to recommendations of the Law Commission.
 
-\[13th November 1980\][^c13417681][^c13417571][^c13417581][^c13417591][^c13417601][^c13417611][^c13417621][^c13417631][^c13417751][^c18588121][^c20488361][^c21456691][^c21738261][^key-7f632b54faa08c0df899f3e553738e86][^key-572fcbddfd875012fcccf61a2042d56c][^key-a46833c3a4a85988efcb6a005cccf229]
+\[13th November 1980\][^c13417681][^c13417571][^c13417581][^c13417591][^c13417601][^c13417611][^c13417621][^c13417631][^c13417751][^c18588121][^c20488361][^c21456691][^c21738261][^c-7f632b54faa08c0df899f3e553738e86][^c-572fcbddfd875012fcccf61a2042d56c][^c-a46833c3a4a85988efcb6a005cccf229]
 
 ## Contents
 
@@ -324,7 +324,7 @@ An Act to consolidate the Highways Acts 1959 to 1971 and related enactments, wit
 - [Section 104 — Mitigating nuisance of dust.](part-v/section-104.md)
 - [Section 105 — Power to improve road-ferries.](part-v/section-105.md)
 
-### PART VA — ENVIRONMENTAL IMPACT ASSESSMENTS[^key-6cfac443a378f62804a98135a98aa236][^c13422031]
+### PART VA — ENVIRONMENTAL IMPACT ASSESSMENTS[^c-6cfac443a378f62804a98135a98aa236][^c13422031]
 
 *Extent: E+W*
 
@@ -1013,11 +1013,11 @@ SCHEDULES
 
 [^c21738261]: Modification: Act excluded (1.2.2011) by [The River Mersey (Mersey Gateway Bridge) Order 2011 (S.I. 2011/41)](https://www.legislation.gov.uk/uksi/2011/41), [arts. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1), [11(3)](https://www.legislation.gov.uk/uksi/2011/41/article/11/3) (with [arts. 3(5)](https://www.legislation.gov.uk/uksi/2011/41/article/3/5), [51](https://www.legislation.gov.uk/uksi/2011/41/article/51), [Sch. 10 paras. 68](https://www.legislation.gov.uk/uksi/2011/41/schedule/10/paragraph/68), [85](https://www.legislation.gov.uk/uksi/2011/41/schedule/10/paragraph/85))
 
-[^key-7f632b54faa08c0df899f3e553738e86]: Modification: Act: transfer of functions (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 2](https://www.legislation.gov.uk/uksi/2012/1659/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/1659/schedule/1) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-7f632b54faa08c0df899f3e553738e86]: Modification: Act: transfer of functions (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 2](https://www.legislation.gov.uk/uksi/2012/1659/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/1659/schedule/1) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
-[^key-572fcbddfd875012fcccf61a2042d56c]: Modification: Act applied (with modifications) (18.2.2014) by [London Local Authorities and Transport for London Act 2013 (c. v)](https://www.legislation.gov.uk/ukla/2013/5), [s. 6](https://www.legislation.gov.uk/ukla/2013/5/section/6)
+[^c-572fcbddfd875012fcccf61a2042d56c]: Modification: Act applied (with modifications) (18.2.2014) by [London Local Authorities and Transport for London Act 2013 (c. v)](https://www.legislation.gov.uk/ukla/2013/5), [s. 6](https://www.legislation.gov.uk/ukla/2013/5/section/6)
 
-[^key-a46833c3a4a85988efcb6a005cccf229]: Modification: Act functions made exercisable as specified (E.) (1.4.2015) by [The Delegation of Functions (Strategic Highways Companies) (England) Regulations 2015 (S.I. 2015/378)](https://www.legislation.gov.uk/uksi/2015/378), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/378/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2015/378/regulation/3), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2015/378/schedule/1/paragraph/1)
+[^c-a46833c3a4a85988efcb6a005cccf229]: Modification: Act functions made exercisable as specified (E.) (1.4.2015) by [The Delegation of Functions (Strategic Highways Companies) (England) Regulations 2015 (S.I. 2015/378)](https://www.legislation.gov.uk/uksi/2015/378), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/378/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2015/378/regulation/3), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2015/378/schedule/1/paragraph/1)
 
 [^c13418761]: Textual amendment: [S. 14A](https://www.legislation.gov.uk/ukpga/1980/66/section/14A) and crossheading inserted (12.1.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s.260](https://www.legislation.gov.uk/ukpga/1999/29/section/260) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 1999/3434](https://www.legislation.gov.uk/uksi/1999/3434), [art.2](https://www.legislation.gov.uk/uksi/1999/3434/article/2)
 
@@ -1027,7 +1027,7 @@ SCHEDULES
 
 [^c13421601]: Textual amendment: Ss. 90G-90I and cross-heading inserted (16.5.1992) by [Traffic Calming Act 1992 (c. 30)](https://www.legislation.gov.uk/ukpga/1992/30), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/1992/30/section/1/2), [3](https://www.legislation.gov.uk/ukpga/1992/30/section/3), [Sch. 1](https://www.legislation.gov.uk/ukpga/1992/30/schedule/1)
 
-[^key-6cfac443a378f62804a98135a98aa236]: Modification: [Pt. 5A](https://www.legislation.gov.uk/ukpga/1980/66/part/5A) power to amend or repeal conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-6cfac443a378f62804a98135a98aa236]: Modification: [Pt. 5A](https://www.legislation.gov.uk/ukpga/1980/66/part/5A) power to amend or repeal conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
 [^c13422031]: Textual amendment: Pt. VA substituted (13.3.1999) by [S.I. 1999/369](https://www.legislation.gov.uk/uksi/1999/369), [reg.2](https://www.legislation.gov.uk/uksi/1999/369/regulation/2)
 

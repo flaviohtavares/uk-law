@@ -46,11 +46,11 @@ The Department of Agriculture and Rural Development, being designated[^f00001] f
 
 ## PART I — INTRODUCTION
 
-### 1. Citation and commencement[^key-1d1d0032a791c7385159d04f57ac3822]
+### 1. Citation and commencement[^c-1d1d0032a791c7385159d04f57ac3822]
 
 These Regulations may be cited as the Swine Vesicular Disease Regulations (Northern Ireland) 2009 and come into operation on 30th June 2009.
 
-### 2. Interpretation[^key-7976c1266f4057f6a86e9dab80dd13cd]
+### 2. Interpretation[^c-7976c1266f4057f6a86e9dab80dd13cd]
 
 (1) In these Regulations—
 
@@ -67,13 +67,13 @@ These Regulations may be cited as the Swine Vesicular Disease Regulations (North
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-### 3. References to occupier[^key-a888f2727c08321130ecefae075d2015]
+### 3. References to occupier[^c-a888f2727c08321130ecefae075d2015]
 
 (1) Subject to regulation 4 any notice or declaration required or authorised under these Regulations to be served on the occupier of premises may be served on a person appearing to the person serving the notice or declaration to have day-to-day responsibility for the premises or for any pigs on the premises.
 
 (2) Where a notice or declaration has been served on a person referred to in paragraph (1), any reference in these Regulations to an occupier shall be read as being a reference to that person.
 
-### 4. Notices and declarations[^key-90fc211d8756a75251b7efcca416da22]
+### 4. Notices and declarations[^c-90fc211d8756a75251b7efcca416da22]
 
 (1) Any notice or declaration required or authorised under these Regulations to be served on any person shall be in writing and may be amended, suspended or revoked in writing at any time.
 
@@ -85,7 +85,7 @@ These Regulations may be cited as the Swine Vesicular Disease Regulations (North
 
 (3) If the name or address of any occupier of premises on whom a notice or declaration is to be served under these Regulations cannot, after reasonable inquiry, be ascertained, the notice or declaration may be served by leaving it conspicuously affixed to a building or object on the premises.
 
-### 5. Licences[^key-449610306e2f1604cfc4c759fbfc9aaf]
+### 5. Licences[^c-449610306e2f1604cfc4c759fbfc9aaf]
 
 (1) A licence granted under these Regulations shall be in writing and may be—
 
@@ -116,25 +116,25 @@ and failure to do so is an offence.
 
 (5) If a pig has been moved to premises under a licence, a veterinary inspector may serve a notice on the occupier of the premises of destination imposing such movement restrictions relating to pigs on those premises as are necessary to prevent the risk of spreading swine vesicular disease virus, and failure to comply with such a notice is an offence.
 
-### 6. Disinfection[^key-547548c98ecf8567de64bf444e17c899]
+### 6. Disinfection[^c-547548c98ecf8567de64bf444e17c899]
 
 Disinfection under these Regulations shall be carried out with a disinfectant which is—
 
 - (a) approved under the Diseases of Animals (Approval of Disinfectants) Order (Northern Ireland) 2008 [^f00005]; and
 - (b) used in accordance with the manufacturer’s instructions or recommendations (if any) and in particular, if use is recommended before any date, used before that date.
 
-### 7. Application[^key-f6dfd22e43da0b30dd8386990b23a6d2]
+### 7. Application[^c-f6dfd22e43da0b30dd8386990b23a6d2]
 
 (1) These Regulations shall not apply to—
 
 - (a) anything done under the terms of a licence granted under the Specified Animal Pathogens Order (Northern Ireland) 2008[^f00006],
-- (b)[^key-e782eabdc4da29c250d92851304f2ce3] any border control post within the meaning of, and for so long as it remains approved for the purposes of, regulation 11 of the Trade in Animals and Related Products Regulations (Northern Ireland) 2011.
+- (b)[^c-e782eabdc4da29c250d92851304f2ce3] any border control post within the meaning of, and for so long as it remains approved for the purposes of, regulation 11 of the Trade in Animals and Related Products Regulations (Northern Ireland) 2011.
 
 (2) Parts III and IV of these Regulations do not apply in any period during which action is being taken under the Foot-and-Mouth Disease Regulations (Northern Ireland) 2006[^f00008].
 
 ## PART II — NOTIFICATION OF SUSPICION OF SWINE VESICULAR DISEASE
 
-### 8. Notification of suspicion of disease[^key-ab6026bbe3168bb8222296625f445722]
+### 8. Notification of suspicion of disease[^c-ab6026bbe3168bb8222296625f445722]
 
 (1) A person who—
 
@@ -157,11 +157,11 @@ shall immediately notify the Department.
 
 ### CHAPTER 1 — Scope of Part III and initial controls
 
-#### 9. Scope of Part III[^key-8651a3734bbfb6d5e596d6f1979d3a32]
+#### 9. Scope of Part III[^c-8651a3734bbfb6d5e596d6f1979d3a32]
 
 This Part applies to all premises other than slaughterhouses.
 
-#### 10. Initial controls following notification[^key-4f0af2967eb9f87d2ffd14ece116327b]
+#### 10. Initial controls following notification[^c-4f0af2967eb9f87d2ffd14ece116327b]
 
 (1) This regulation shall apply where the Department is notified under regulation 8(1) of a suspect pig or carcase and a veterinary inspector considers that further investigation relating to the possible presence of swine vesicular disease is necessary.
 
@@ -188,7 +188,7 @@ takes all necessary biosecurity precautions to reduce the risk of spreading swin
 
 ### CHAPTER 2 — Action on suspicion of disease and declaration of infected premises
 
-#### 11. Imposing measures on suspicion of disease[^key-feee0e27a668f8d33ef4d9341f42a544]
+#### 11. Imposing measures on suspicion of disease[^c-feee0e27a668f8d33ef4d9341f42a544]
 
 Where an inspector suspects that a pig that is or has been infected with swine vesicular disease virus is on any premises (whether or not following a notification under these Regulations), or premises are contaminated with swine vesicular disease virus the inspector shall—
 
@@ -196,7 +196,7 @@ Where an inspector suspects that a pig that is or has been infected with swine v
 - (b) impose the measures in Schedule 1, and
 - (c) ensure that warning signs prohibiting entry are erected at suitable points around the premises.
 
-#### 12. Epidemiological inquiry[^key-e7aa3e7b43270e1418690bac9d84e206]
+#### 12. Epidemiological inquiry[^c-e7aa3e7b43270e1418690bac9d84e206]
 
 A veterinary inspector shall begin an epidemiological inquiry to establish—
 
@@ -208,7 +208,7 @@ A veterinary inspector shall begin an epidemiological inquiry to establish—
 
 and shall continue the inquiry until these have been established so far as is practicable or the possibility of disease has been discounted.
 
-#### 13. Measures following suspicion[^key-9cb0c2f23b2a112afd852649be843b6f]
+#### 13. Measures following suspicion[^c-9cb0c2f23b2a112afd852649be843b6f]
 
 (1) This regulation shall apply where a veterinary inspector suspects that swine vesicular disease virus exists on any premises but this suspicion does not arise out of the fact that the premises have an epidemiological link with infected premises.
 
@@ -237,7 +237,7 @@ and the Department shall remove the measures in Schedule 1 once all seropositive
 
 (7) If the tests at paragraphs (3) and (4) demonstrate that there is no swine vesicular disease virus in a pig or on the premises and that there are no seropositive pigs on the premises the veterinary inspector shall remove the measures in Schedule 1.
 
-#### 14. Measures following suspicion – contact premises[^key-bdaec3112f837e1cf152e1e184686a7b]
+#### 14. Measures following suspicion – contact premises[^c-bdaec3112f837e1cf152e1e184686a7b]
 
 (1) This regulation applies where a veterinary inspector suspects that swine vesicular disease virus exists on any premises and this suspicion arises out of the fact that the premises have an epidemiological link with infected premises.
 
@@ -259,7 +259,7 @@ and the Department shall remove the measures in Schedule 1 once all seropositive
 
 (7) The Department shall remove the measures when satisfied that the actions notified to the occupier have been carried out.
 
-#### 15. Declaration of infected premises where premises are close to a confirmed outbreak[^key-ff1de975ae19938f98c2bb6859c5e7bb]
+#### 15. Declaration of infected premises where premises are close to a confirmed outbreak[^c-ff1de975ae19938f98c2bb6859c5e7bb]
 
 If pigs on any premises show clinical signs of swine vesicular disease and there are infected premises sufficiently close to the premises for the Department to be satisfied that the premises are also infected a veterinary inspector shall—
 
@@ -269,7 +269,7 @@ If pigs on any premises show clinical signs of swine vesicular disease and there
 
 without declaring the premises to be suspect premises.
 
-#### 16. Suspicion relating to pigs living in the wild[^key-41d5a53da4f051e3b6da5fb4db80575c]
+#### 16. Suspicion relating to pigs living in the wild[^c-41d5a53da4f051e3b6da5fb4db80575c]
 
 (1) This regulation applies where a veterinary inspector suspects that a pig living in the wild is infected with swine vesicular disease virus.
 
@@ -277,7 +277,7 @@ without declaring the premises to be suspect premises.
 
 (3) Where a veterinary inspector concludes that swine vesicular disease virus is likely to be present in a pig living in the wild, the Department shall take appropriate action to minimise the risk of that virus spreading to domestic pigs.
 
-#### 17. Conditions and warning signs[^key-f1515bbd62ef9b11e5843c705525ab2f]
+#### 17. Conditions and warning signs[^c-f1515bbd62ef9b11e5843c705525ab2f]
 
 (1) It is an offence not to comply with any of the measures in Schedule 1.
 
@@ -289,7 +289,7 @@ without declaring the premises to be suspect premises.
 
 (5) A veterinary inspector may only authorise the removal of the warning signs when the measures in Schedule 1 are revoked.
 
-#### 18. Separate production units[^key-fd97c8c3b611db7cb88675588b85fcaa]
+#### 18. Separate production units[^c-fd97c8c3b611db7cb88675588b85fcaa]
 
 (1) The Department may by notice served on the occupier of any premises (other than infected premises) declare that they are to be regarded as two or more separate production units if the Chief Veterinary Officer advises that in his opinion the premises comply with the requirements of Article 7 of Council Directive [92/119/EEC](https://www.legislation.gov.uk/european/directive/1992/0119)[^f00009].
 
@@ -302,11 +302,11 @@ without declaring the premises to be suspect premises.
 
 ### CHAPTER 3 — Killing pigs and initial cleansing and disinfection
 
-#### 19. Killing pigs on the infected premises[^key-d1d6bd8b6ac4a50d42219f26e57170ec]
+#### 19. Killing pigs on the infected premises[^c-d1d6bd8b6ac4a50d42219f26e57170ec]
 
 The Department shall immediately on declaring infected premises, kill all the pigs on the premises.
 
-#### 20. Removal of carcases and initial cleansing[^key-a032b2163d15c7a6dd27a09302bb4252]
+#### 20. Removal of carcases and initial cleansing[^c-a032b2163d15c7a6dd27a09302bb4252]
 
 (1) The Department shall—
 
@@ -320,13 +320,13 @@ The Department shall immediately on declaring infected premises, kill all the pi
 
 and ensure that disinfectant remains on the treated surfaces for at least 24 hours.
 
-#### 21. Conservation and related measures[^key-43858ff3ff0485c7601d56e743513247]
+#### 21. Conservation and related measures[^c-43858ff3ff0485c7601d56e743513247]
 
 (1) The Department may decide not to kill pigs—
 
 - (a) kept in—
   - (i) a zoo or wildlife park; or
-  - (ii) premises approved for the purposes of trade to the EU[^key-8a3405dfffecd4dc737b8a0024c069d4] in porcine semen, ova or embryos;
+  - (ii) premises approved for the purposes of trade to the EU[^c-8a3405dfffecd4dc737b8a0024c069d4] in porcine semen, ova or embryos;
 - (b) kept for—
   - (i) display;
   - (ii) educational purposes;
@@ -337,7 +337,7 @@ and ensure that disinfectant remains on the treated surfaces for at least 24 hou
 
 ### CHAPTER 4 — Removal of measures in Schedule 1 from infected premises
 
-#### 22. Removal of restrictions from infected premises[^key-d8e76c6558448a2f187ee362f4b9c0b6]
+#### 22. Removal of restrictions from infected premises[^c-d8e76c6558448a2f187ee362f4b9c0b6]
 
 (1) Unless otherwise provided for in these Regulations, a veterinary inspector may not serve a notice on the occupier revoking the measures in Schedule 1 on infected premises until the Department is satisfied that sufficient time has elapsed for the virus to have decayed naturally to the extent that it will no longer infect pigs.
 
@@ -346,11 +346,11 @@ and ensure that disinfectant remains on the treated surfaces for at least 24 hou
 - (a) the premises have been cleansed and disinfected to the satisfaction of the veterinary inspector, and
 - (b) the premises have been tested for the existence of swine vesicular disease virus using sentinel pigs with negative results.
 
-#### 23. Cleansing and disinfection[^key-1323e3af3e69ee3777ecece5aa2b5f63]
+#### 23. Cleansing and disinfection[^c-1323e3af3e69ee3777ecece5aa2b5f63]
 
 Cleansing and disinfection shall be carried out in such a way as to minimise the risk of spread or survival of swine vesicular disease virus.
 
-#### 24. Method of cleansing and disinfection[^key-aff8426e42ae3bd884f3ff6f7ee6d68b]
+#### 24. Method of cleansing and disinfection[^c-aff8426e42ae3bd884f3ff6f7ee6d68b]
 
 (1) The cleansing and disinfection shall be carried out in accordance with a notice served on the occupier by a veterinary inspector.
 
@@ -361,7 +361,7 @@ Cleansing and disinfection shall be carried out in such a way as to minimise the
 - (c) spraying all surfaces with disinfectant (or treating them with a flame gun) and repeating after 14 days; and
 - (d) repairing damaged floors and walls.
 
-#### 25. Testing with sentinel pigs[^key-856af6bfe010ae4f93e39661004f4bfe]
+#### 25. Testing with sentinel pigs[^c-856af6bfe010ae4f93e39661004f4bfe]
 
 (1) After cleansing and disinfection have been carried out in accordance with the notice, a veterinary inspector shall certify in writing that the cleansing and disinfection has been carried out in a satisfactory manner.
 
@@ -387,7 +387,7 @@ Cleansing and disinfection shall be carried out in such a way as to minimise the
 - (d) a veterinary inspector shall clinically examine all the sentinel pigs, and sample and carry out a serological test on a statistically valid number of sentinel pigs, at the earliest 28 days after the arrival of the last sentinel pig; and
 - (e) even if none of the sentinel pigs shows clinical signs of swine vesicular disease a veterinary inspector may not revoke the restrictions until 60 days after the arrival of the last sentinel pig.
 
-#### 26. Secondary cleansing and disinfection[^key-2de61296139d754182423e9b6aace700]
+#### 26. Secondary cleansing and disinfection[^c-2de61296139d754182423e9b6aace700]
 
 (1) Irrespective of whether or not pigs are to be brought on to the premises again, the Department may serve a notice on an occupier requiring that secondary cleansing and disinfection of the premises is carried out as specified in the notice, and failure to comply with the notice is an offence.
 
@@ -397,7 +397,7 @@ Cleansing and disinfection shall be carried out in such a way as to minimise the
 
 ## PART IV — SLAUGHTERHOUSES
 
-### 27. Controls in a slaughterhouse following notification[^key-529988d4ba80fa478c4597796b9b6ab1]
+### 27. Controls in a slaughterhouse following notification[^c-529988d4ba80fa478c4597796b9b6ab1]
 
 (1) This regulation applies where—
 
@@ -417,7 +417,7 @@ and failure to do so is an offence
 
 (4) Subject to regulation 28 these controls shall continue to apply until a veterinary inspector has confirmed that they shall cease to have effect.
 
-### 28. Action following the imposition of controls[^key-a6037ecded759377887a16812e93f0e4]
+### 28. Action following the imposition of controls[^c-a6037ecded759377887a16812e93f0e4]
 
 (1) After the imposition of the controls following notification of suspicion of swine vesicular disease in a slaughterhouse a veterinary inspector shall immediately examine the suspect pigs or carcases at the slaughterhouse.
 
@@ -444,7 +444,7 @@ are slaughtered separately from other pigs, and the carcases stored separately f
 
 ## PART V — AREA CONTROLS
 
-### 29. Protection, surveillance and movement restriction zones[^key-ad69cacbbde2637593be188906f8bfb9]
+### 29. Protection, surveillance and movement restriction zones[^c-ad69cacbbde2637593be188906f8bfb9]
 
 (1) This regulation applies where the Department confirms premises as infected premises.
 
@@ -482,7 +482,7 @@ are slaughtered separately from other pigs, and the carcases stored separately f
 
 (10) Nothing in paragraph (8) shall deem any part of a premises lying outside Northern Ireland to be within a protection, surveillance or movement restriction zone.
 
-### 30. Movement restriction zones[^key-d3d7b7c592acd74014828612ca9b349b]
+### 30. Movement restriction zones[^c-d3d7b7c592acd74014828612ca9b349b]
 
 (1) A movement restriction zone—
 
@@ -491,7 +491,7 @@ are slaughtered separately from other pigs, and the carcases stored separately f
 
 (2) It is an offence to move a pig off any premises in the movement restriction zone except in accordance with a licence granted by the Department.
 
-### 31. Declaration of protection zones and surveillance zones on confirmation of the disease in Northern Ireland[^key-fe243672643bf51a557ae11935471976]
+### 31. Declaration of protection zones and surveillance zones on confirmation of the disease in Northern Ireland[^c-fe243672643bf51a557ae11935471976]
 
 (1) A declaration of a zone under this Part—
 
@@ -509,7 +509,7 @@ are slaughtered separately from other pigs, and the carcases stored separately f
 
 (3) Nothing in paragraph (1) shall deem any part of a premises lying outside Northern Ireland to be within a zone
 
-### 32. Declaration of protection zones and surveillance zones on confirmation of the disease in the Republic of Ireland[^key-8ce28feef87cc9f872479eb4eb748ed9]
+### 32. Declaration of protection zones and surveillance zones on confirmation of the disease in the Republic of Ireland[^c-8ce28feef87cc9f872479eb4eb748ed9]
 
 (1) If the Department is satisfied that the disease is present on premises (other than a slaughterhouse) in the Republic of Ireland—
 
@@ -519,7 +519,7 @@ are slaughtered separately from other pigs, and the carcases stored separately f
 (2) If the Department is satisfied that the disease is present at—
 
 - (a) any premises in the Republic of Ireland situated more than ten kilometres from the border with Northern Ireland, or
-- (b) a slaughterhouse or border control post[^key-e28a62b258ea1473a144dc7e98ab5071] in the Republic of Ireland situated within ten kilometres of the border with Northern Ireland,
+- (b) a slaughterhouse or border control post[^c-e28a62b258ea1473a144dc7e98ab5071] in the Republic of Ireland situated within ten kilometres of the border with Northern Ireland,
 
 it may declare an area to be a protection zone, or an area to be a surveillance zone, or both, in Northern Ireland.
 
@@ -531,7 +531,7 @@ it may declare an area to be a protection zone, or an area to be a surveillance 
 - (b) any protection zone extends from that border such that its boundary is at least three kilometres from the infected premises;
 - (c) any surveillance zone extends from that border such that its boundary is at least ten kilometres from the infected premises.
 
-### 33. Publicity[^key-d6ad04b5df1b78b42801accd0c218479]
+### 33. Publicity[^c-d6ad04b5df1b78b42801accd0c218479]
 
 (1) The Department shall publicise—
 
@@ -543,14 +543,14 @@ it may declare an area to be a protection zone, or an area to be a surveillance 
 
 ## PART VI — VACCINATION
 
-### 34. Prohibition on vaccination[^key-7d167ff95115a92031a5dc1fc682c905]
+### 34. Prohibition on vaccination[^c-7d167ff95115a92031a5dc1fc682c905]
 
 It is an offence to vaccinate a pig against swine vesicular disease except—
 
 - (a) in accordance with regulation 35, or
 - (b) under the authority of a licence granted by the Department.
 
-### 35. Vaccination zone[^key-e6d044958ffe0c576bef7cb0941c77e5]
+### 35. Vaccination zone[^c-e6d044958ffe0c576bef7cb0941c77e5]
 
 (1) The Department may declare a vaccination zone in which all occupiers of premises inside the zone containing a pig shall ensure the vaccination of those pigs in accordance with that declaration.
 
@@ -562,7 +562,7 @@ It is an offence to vaccinate a pig against swine vesicular disease except—
 
 (5) Nothing in paragraph (3) shall deem any part of a premises lying outside Northern Ireland to be within a vaccination zone.
 
-### 36. Vaccinated pigs[^key-1f2d7fb3ff4c1f6d3f3d65b41597dde6]
+### 36. Vaccinated pigs[^c-1f2d7fb3ff4c1f6d3f3d65b41597dde6]
 
 (1) A person vaccinating a pig against swine vesicular disease shall ensure that the pig is identified as having been so vaccinated.
 
@@ -574,7 +574,7 @@ It is an offence to vaccinate a pig against swine vesicular disease except—
 
 ## PART VII — INSPECTION, ENFORCEMENT AND MISCELLANEOUS PROVISIONS
 
-### 37. Powers of an inspector[^key-4f8e0a265269fe7590edea55412607fa]
+### 37. Powers of an inspector[^c-4f8e0a265269fe7590edea55412607fa]
 
 (1) An inspector may, on producing a duly authenticated authorisation if required, enter any premises at any reasonable hour for the purpose of enforcing these Regulations, and for these purposes “premises” includes a vehicle or trailer.
 
@@ -593,15 +593,15 @@ It is an offence to vaccinate a pig against swine vesicular disease except—
 
 (3) Where an inspector has entered any premises and it is not reasonably practicable to determine whether documents on those premises are relevant to these Regulations, the inspector may seize them to ascertain whether or not they are relevant.
 
-(4)[^key-35ad06d01a7bddc46db7bd642d8a80a6] An inspector may be accompanied by such other persons as the inspector considers necessary.
+(4)[^c-35ad06d01a7bddc46db7bd642d8a80a6] An inspector may be accompanied by such other persons as the inspector considers necessary.
 
 (5) The following provisions of the Order shall apply as if these Regulations were an order made under the Order—
 
 - (a) Article 46 (general powers of inspectors);
-- (b) Article 46A (powers of inspectors relating to assimilated[^key-8a385ac1b2f84347a8896cea70ebbbe6][^key-96b42bab49fb5dddad5bc36e00a87c96] law or Protocol obligations);
+- (b) Article 46A (powers of inspectors relating to assimilated[^c-8a385ac1b2f84347a8896cea70ebbbe6][^c-96b42bab49fb5dddad5bc36e00a87c96] law or Protocol obligations);
 - (c) Article 48 (power to detain vessels and aircraft).
 
-### 38. Pigs living in the wild[^key-526d1617d229b609a318422923215618]
+### 38. Pigs living in the wild[^c-526d1617d229b609a318422923215618]
 
 A veterinary inspector and, when acting under the direction of a veterinary inspector, an inspector or any officer of the Department or any other person with the necessary expertise may—
 
@@ -612,7 +612,7 @@ A veterinary inspector and, when acting under the direction of a veterinary insp
   - (i) it is not possible to take samples from such a pig without killing it; or
   - (ii) it is spreading or may spread swine vesicular disease to other pigs.
 
-### 39. Notices relating to movement[^key-f453156e0e65cac29d40c7a589c1982f]
+### 39. Notices relating to movement[^c-f453156e0e65cac29d40c7a589c1982f]
 
 (1) If a pig has been moved in contravention of any provision of these Regulations or any licence or notice served under these Regulations, an inspector may serve a notice on the occupier of the premises—
 
@@ -623,7 +623,7 @@ A veterinary inspector and, when acting under the direction of a veterinary insp
 
 (3) Failure to comply with such a notice is an offence.
 
-### 40. Suspension or restriction of rights of way in a protection zone[^key-bf3137ae0923b549baa7fcba8f5c1342]
+### 40. Suspension or restriction of rights of way in a protection zone[^c-bf3137ae0923b549baa7fcba8f5c1342]
 
 (1) With the prior written consent of the Department an inspector may suspend or restrict the exercise of a right of way (including a public footpath) in a protection zone by causing a sign to that effect to be appropriately displayed.
 
@@ -634,15 +634,15 @@ A veterinary inspector and, when acting under the direction of a veterinary insp
 - (a) the protection zone is ended, or
 - (b) all relevant notices are removed under the direction of an inspector.
 
-### 41. Powers of inspectors in case of default[^key-8d6e3b40f5a21876f6262450c20bdd0c]
+### 41. Powers of inspectors in case of default[^c-8d6e3b40f5a21876f6262450c20bdd0c]
 
 If a person fails to comply with a requirement in or under these Regulations, an inspector may take such steps as that inspector considers necessary to ensure the requirement is met at the expense of that person.
 
-### 42. Change of occupier of premises under restriction[^key-71057c1450fe5695887cd0684cc31a10]
+### 42. Change of occupier of premises under restriction[^c-71057c1450fe5695887cd0684cc31a10]
 
 If there is a change of occupier of premises under restriction under these Regulations, the new occupier shall allow the old occupier to enter the premises to feed any animal during the period of restriction and for 7 days following its end, and failure to do so is an offence.
 
-### 43. Obstruction[^key-e937c117f2b78b96015ee322fc4cece2]
+### 43. Obstruction[^c-e937c117f2b78b96015ee322fc4cece2]
 
 (1) A person shall not—
 
@@ -653,14 +653,14 @@ If there is a change of occupier of premises under restriction under these Regul
 
 (2) It is an offence to fail to comply with this regulation.
 
-### 44. Offences and penalties[^key-55d2aab55201616f116aeff130728b9c]
+### 44. Offences and penalties[^c-55d2aab55201616f116aeff130728b9c]
 
 A person guilty of an offence under these Regulations is liable—
 
 - (a) on summary conviction, to a fine not exceeding the statutory maximum or to imprisonment for a term not exceeding three months or both, or
 - (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding six months or both.
 
-### 45. Compensation and proceedings[^key-0921c4c15971cc9ff958e97dda3eb6bc]
+### 45. Compensation and proceedings[^c-0921c4c15971cc9ff958e97dda3eb6bc]
 
 The following provisions of the Order shall apply as if these Regulations were an order made under the Order—
 
@@ -669,14 +669,14 @@ The following provisions of the Order shall apply as if these Regulations were a
 - (c) Article 54 (defences and evidence);
 - (d) Article 55 (extension of time for bringing summary proceedings).
 
-### 46. Exceptional circumstances[^key-0ca1911692ecdf6994424eb2aa1da6a6]
+### 46. Exceptional circumstances[^c-0ca1911692ecdf6994424eb2aa1da6a6]
 
 The Department may for the purpose of ensuring the health or welfare of any animal—
 
 - (a) license a person to carry out any action that is otherwise prohibited under these Regulations; or
 - (b) exempt a person, by notice, from any requirement under these Regulations.
 
-### 47. Revocation[^key-655ae0ad8f91f54893d418bdb7a28614]
+### 47. Revocation[^c-655ae0ad8f91f54893d418bdb7a28614]
 
 The Swine Vesicular Disease Order (Northern Ireland) 1973[^f00010] is hereby revoked.
 
@@ -690,7 +690,7 @@ A senior officer of the Department of Agriculture and Rural Development
 
 Regulations 11, 13, 14, 15, 17 and 22
 
-### 1. Records[^key-187af12ec08914408154ac3ff8331310]
+### 1. Records[^c-187af12ec08914408154ac3ff8331310]
 
 (1) The occupier shall record—
 
@@ -708,33 +708,33 @@ Regulations 11, 13, 14, 15, 17 and 22
 
 (3) The occupier shall keep the records for at least six months.
 
-### 2. Housing or isolation of pigs[^key-78e83c23f0bf57bead7f03c68bcbf9b7]
+### 2. Housing or isolation of pigs[^c-78e83c23f0bf57bead7f03c68bcbf9b7]
 
 The occupier shall ensure that all pigs on the premises are—
 
 - (a) kept in their buildings or, if they are in a field, kept isolated so far as practicable from wild pigs, or
 - (b) confined or isolated as directed by a veterinary inspector.
 
-### 3. Disinfection[^key-93bad826d1593a10899c119ea6528254]
+### 3. Disinfection[^c-93bad826d1593a10899c119ea6528254]
 
 The occupier shall—
 
 - (a) provide and maintain means of disinfection at the entrances to, and exits from, the premises and all buildings on those premises housing pigs, and
 - (b) comply with any directions from a veterinary inspector concerning such means of disinfection.
 
-### 4. Restriction on movement of pigs and other animals[^key-b4d03c0438f3609f7fbeb569bf557227]
+### 4. Restriction on movement of pigs and other animals[^c-b4d03c0438f3609f7fbeb569bf557227]
 
 A person may not move any pig or other animal to or from the premises except under the authority of a licence granted by the Department.
 
-### 5. Restriction on movement of vehicles[^key-2016fab5df782e7f71754f3aa37dfaad]
+### 5. Restriction on movement of vehicles[^c-2016fab5df782e7f71754f3aa37dfaad]
 
 A person may not move any vehicle to or from the premises, except under the authority of a licence granted by the Department.
 
-### 6. Restriction on removal of anything liable to transmit swine vesicular disease[^key-552577fe17a7eb0bb78a69aae040f88e]
+### 6. Restriction on removal of anything liable to transmit swine vesicular disease[^c-552577fe17a7eb0bb78a69aae040f88e]
 
 A person may not remove from the premises any thing (including meat, carcases, animal feed and manure) liable to transmit swine vesicular disease virus, except under the authority of a licence granted by the Department.
 
-### 7. Restriction on a person entering or leaving the premises[^key-d5a4124ffae987555adfdd48f52029b9]
+### 7. Restriction on a person entering or leaving the premises[^c-d5a4124ffae987555adfdd48f52029b9]
 
 A person may not enter or leave the premises, unless—
 
@@ -747,15 +747,15 @@ Regulation 29
 
 ### PART I — Measures in a protection zone
 
-#### 1. Movement of pigs through the protection zone[^key-4f6d37c14681af22cc06b59d57cdab3e]
+#### 1. Movement of pigs through the protection zone[^c-4f6d37c14681af22cc06b59d57cdab3e]
 
 A person may not move pigs through the zone unless they do so without stopping.
 
-#### 2. Movement of pigs on to premises in the protection zone[^key-40718daff8ce2ba98e27fe8fcb2bf512]
+#### 2. Movement of pigs on to premises in the protection zone[^c-40718daff8ce2ba98e27fe8fcb2bf512]
 
 A person may not move pigs on to premises in the zone except under the authority of a licence granted by the Department.
 
-#### 3. Movement of pigs off premises in the protection zone[^key-4f6a442314271d3e0c28e658577ae56d]
+#### 3. Movement of pigs off premises in the protection zone[^c-4f6a442314271d3e0c28e658577ae56d]
 
 (1) A person may not move pigs off premises in the zone except under the authority of a licence granted by the Department.
 
@@ -768,7 +768,7 @@ A person may not move pigs on to premises in the zone except under the authority
 
 (4) Under exceptional circumstances the Department may grant a licence to move a pig direct to other premises located within the protection zone, provided that a veterinary surgeon has inspected all the pigs on the premises, and examined any pigs to be moved, (with no clinical sign of swine vesicular disease) within the 48 hours preceding the movement.
 
-#### 4. Cleansing vehicles[^key-73908990a4d2a0c38b48def551457c3b]
+#### 4. Cleansing vehicles[^c-73908990a4d2a0c38b48def551457c3b]
 
 (1) Vehicles and equipment used within the protection zone to transport—
 
@@ -788,7 +788,7 @@ may not leave the premises of destination without having been cleansed and disin
 
 ### PART II — Measures in a surveillance zone
 
-#### 1. Movement of pigs[^key-4cf66ad9706a137352cf507e2d437548]
+#### 1. Movement of pigs[^c-4cf66ad9706a137352cf507e2d437548]
 
 (1) A person may not move pigs off premises in a surveillance zone except under the authority of a licence granted by the Department.
 
@@ -804,7 +804,7 @@ may not leave the premises of destination without having been cleansed and disin
 - (b) to other premises in the surveillance zone provided that no pigs have moved into the premises of origin in the previous 21 days; or
 - (c) between a holding divided by a highway provided that the sets of premises would be contiguous except for the highway.
 
-#### 2. Cleansing vehicles[^key-35c9fcc8bf7dd45e87dc1d38c97623b9]
+#### 2. Cleansing vehicles[^c-35c9fcc8bf7dd45e87dc1d38c97623b9]
 
 (1) Vehicles and equipment used within the surveillance zone to transport—
 
@@ -853,150 +853,150 @@ Breach of the Regulations is an offence punishable—
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-1d1d0032a791c7385159d04f57ac3822]: Commencement: Reg. 1 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-1d1d0032a791c7385159d04f57ac3822]: Commencement: Reg. 1 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-7976c1266f4057f6a86e9dab80dd13cd]: Commencement: Reg. 2 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-7976c1266f4057f6a86e9dab80dd13cd]: Commencement: Reg. 2 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
 [^f00003]: Footnote: [S.I. 1981/1115 (N.I.22)](https://www.legislation.gov.uk/nisi/1981/1115) as amended by [S.I. 1984/702 (N.I.2)](https://www.legislation.gov.uk/nisi/1984/702) Article 17, [S.I. 1994/1891 (N.I.6)](https://www.legislation.gov.uk/nisi/1994/1891) Articles 20 and 23, [S.R. 1994 No. 11](https://www.legislation.gov.uk/nisr/1994/11), [S.R. 2004 No. 362](https://www.legislation.gov.uk/nisr/2004/362) and [S.R. 2006 No. 41](https://www.legislation.gov.uk/nisr/2006/41)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-a888f2727c08321130ecefae075d2015]: Commencement: Reg. 3 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-a888f2727c08321130ecefae075d2015]: Commencement: Reg. 3 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-90fc211d8756a75251b7efcca416da22]: Commencement: Reg. 4 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-90fc211d8756a75251b7efcca416da22]: Commencement: Reg. 4 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-449610306e2f1604cfc4c759fbfc9aaf]: Commencement: Reg. 5 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-449610306e2f1604cfc4c759fbfc9aaf]: Commencement: Reg. 5 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-547548c98ecf8567de64bf444e17c899]: Commencement: Reg. 6 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-547548c98ecf8567de64bf444e17c899]: Commencement: Reg. 6 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
 [^f00005]: Footnote: [S.R. 2008 No. 272](https://www.legislation.gov.uk/nisr/2008/272)
 
-[^key-f6dfd22e43da0b30dd8386990b23a6d2]: Commencement: Reg. 7 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-f6dfd22e43da0b30dd8386990b23a6d2]: Commencement: Reg. 7 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
 [^f00006]: Footnote: [S.R 2008 No. 336](https://www.legislation.gov.uk/nisr/2008/336)
 
-[^key-e782eabdc4da29c250d92851304f2ce3]: Textual amendment: [Reg. 7(1)(b)](https://www.legislation.gov.uk/nisr/2009/223/regulation/7/1/b) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [19(2)](https://www.legislation.gov.uk/nisr/2019/227/regulation/19/2)
+[^c-e782eabdc4da29c250d92851304f2ce3]: Textual amendment: [Reg. 7(1)(b)](https://www.legislation.gov.uk/nisr/2009/223/regulation/7/1/b) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [19(2)](https://www.legislation.gov.uk/nisr/2019/227/regulation/19/2)
 
 [^f00008]: Footnote: [S.R. 2006 No. 42](https://www.legislation.gov.uk/nisr/2006/42)
 
-[^key-ab6026bbe3168bb8222296625f445722]: Commencement: Reg. 8 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-ab6026bbe3168bb8222296625f445722]: Commencement: Reg. 8 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-8651a3734bbfb6d5e596d6f1979d3a32]: Commencement: Reg. 9 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-8651a3734bbfb6d5e596d6f1979d3a32]: Commencement: Reg. 9 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-4f0af2967eb9f87d2ffd14ece116327b]: Commencement: Reg. 10 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-4f0af2967eb9f87d2ffd14ece116327b]: Commencement: Reg. 10 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-feee0e27a668f8d33ef4d9341f42a544]: Commencement: Reg. 11 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-feee0e27a668f8d33ef4d9341f42a544]: Commencement: Reg. 11 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-e7aa3e7b43270e1418690bac9d84e206]: Commencement: Reg. 12 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-e7aa3e7b43270e1418690bac9d84e206]: Commencement: Reg. 12 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-9cb0c2f23b2a112afd852649be843b6f]: Commencement: Reg. 13 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-9cb0c2f23b2a112afd852649be843b6f]: Commencement: Reg. 13 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-bdaec3112f837e1cf152e1e184686a7b]: Commencement: Reg. 14 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-bdaec3112f837e1cf152e1e184686a7b]: Commencement: Reg. 14 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-ff1de975ae19938f98c2bb6859c5e7bb]: Commencement: Reg. 15 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-ff1de975ae19938f98c2bb6859c5e7bb]: Commencement: Reg. 15 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-41d5a53da4f051e3b6da5fb4db80575c]: Commencement: Reg. 16 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-41d5a53da4f051e3b6da5fb4db80575c]: Commencement: Reg. 16 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-f1515bbd62ef9b11e5843c705525ab2f]: Commencement: Reg. 17 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-f1515bbd62ef9b11e5843c705525ab2f]: Commencement: Reg. 17 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-fd97c8c3b611db7cb88675588b85fcaa]: Commencement: Reg. 18 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-fd97c8c3b611db7cb88675588b85fcaa]: Commencement: Reg. 18 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
 [^f00009]: Footnote: O.J. No. L 62, 15.3.1993, p. 69 as last amended by Council Directive [2008/73/EC](https://www.legislation.gov.uk/european/directive/2008/0073) (O.J. No. L.219, 14.8.2008, p. 40)
 
-[^key-d1d6bd8b6ac4a50d42219f26e57170ec]: Commencement: Reg. 19 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-d1d6bd8b6ac4a50d42219f26e57170ec]: Commencement: Reg. 19 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-a032b2163d15c7a6dd27a09302bb4252]: Commencement: Reg. 20 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-a032b2163d15c7a6dd27a09302bb4252]: Commencement: Reg. 20 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-43858ff3ff0485c7601d56e743513247]: Commencement: Reg. 21 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-43858ff3ff0485c7601d56e743513247]: Commencement: Reg. 21 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-8a3405dfffecd4dc737b8a0024c069d4]: Textual amendment: Words in [reg. 21(1)(a)(ii)](https://www.legislation.gov.uk/nisr/2009/223/regulation/21/1/a/ii) substituted (31.12.2020) by [The Exotic Disease (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/111)](https://www.legislation.gov.uk/uksi/2019/111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/111/regulation/1/1), [13(2)](https://www.legislation.gov.uk/uksi/2019/111/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8a3405dfffecd4dc737b8a0024c069d4]: Textual amendment: Words in [reg. 21(1)(a)(ii)](https://www.legislation.gov.uk/nisr/2009/223/regulation/21/1/a/ii) substituted (31.12.2020) by [The Exotic Disease (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/111)](https://www.legislation.gov.uk/uksi/2019/111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/111/regulation/1/1), [13(2)](https://www.legislation.gov.uk/uksi/2019/111/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d8e76c6558448a2f187ee362f4b9c0b6]: Commencement: Reg. 22 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-d8e76c6558448a2f187ee362f4b9c0b6]: Commencement: Reg. 22 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-1323e3af3e69ee3777ecece5aa2b5f63]: Commencement: Reg. 23 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-1323e3af3e69ee3777ecece5aa2b5f63]: Commencement: Reg. 23 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-aff8426e42ae3bd884f3ff6f7ee6d68b]: Commencement: Reg. 24 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-aff8426e42ae3bd884f3ff6f7ee6d68b]: Commencement: Reg. 24 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-856af6bfe010ae4f93e39661004f4bfe]: Commencement: Reg. 25 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-856af6bfe010ae4f93e39661004f4bfe]: Commencement: Reg. 25 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-2de61296139d754182423e9b6aace700]: Commencement: Reg. 26 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-2de61296139d754182423e9b6aace700]: Commencement: Reg. 26 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-529988d4ba80fa478c4597796b9b6ab1]: Commencement: Reg. 27 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-529988d4ba80fa478c4597796b9b6ab1]: Commencement: Reg. 27 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-a6037ecded759377887a16812e93f0e4]: Commencement: Reg. 28 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-a6037ecded759377887a16812e93f0e4]: Commencement: Reg. 28 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-ad69cacbbde2637593be188906f8bfb9]: Commencement: Reg. 29 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-ad69cacbbde2637593be188906f8bfb9]: Commencement: Reg. 29 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-d3d7b7c592acd74014828612ca9b349b]: Commencement: Reg. 30 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-d3d7b7c592acd74014828612ca9b349b]: Commencement: Reg. 30 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-fe243672643bf51a557ae11935471976]: Commencement: Reg. 31 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-fe243672643bf51a557ae11935471976]: Commencement: Reg. 31 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-8ce28feef87cc9f872479eb4eb748ed9]: Commencement: Reg. 32 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-8ce28feef87cc9f872479eb4eb748ed9]: Commencement: Reg. 32 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-e28a62b258ea1473a144dc7e98ab5071]: Textual amendment: Words in [reg. 32(2)(b)](https://www.legislation.gov.uk/nisr/2009/223/regulation/32/2/b) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [19(3)](https://www.legislation.gov.uk/nisr/2019/227/regulation/19/3)
+[^c-e28a62b258ea1473a144dc7e98ab5071]: Textual amendment: Words in [reg. 32(2)(b)](https://www.legislation.gov.uk/nisr/2009/223/regulation/32/2/b) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [19(3)](https://www.legislation.gov.uk/nisr/2019/227/regulation/19/3)
 
-[^key-d6ad04b5df1b78b42801accd0c218479]: Commencement: Reg. 33 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-d6ad04b5df1b78b42801accd0c218479]: Commencement: Reg. 33 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-7d167ff95115a92031a5dc1fc682c905]: Commencement: Reg. 34 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-7d167ff95115a92031a5dc1fc682c905]: Commencement: Reg. 34 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-e6d044958ffe0c576bef7cb0941c77e5]: Commencement: Reg. 35 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-e6d044958ffe0c576bef7cb0941c77e5]: Commencement: Reg. 35 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-1f2d7fb3ff4c1f6d3f3d65b41597dde6]: Commencement: Reg. 36 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-1f2d7fb3ff4c1f6d3f3d65b41597dde6]: Commencement: Reg. 36 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-4f8e0a265269fe7590edea55412607fa]: Commencement: Reg. 37 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-4f8e0a265269fe7590edea55412607fa]: Commencement: Reg. 37 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-35ad06d01a7bddc46db7bd642d8a80a6]: Textual amendment: [Reg. 37(4)](https://www.legislation.gov.uk/nisr/2009/223/regulation/37/4) substituted (31.12.2020) by [The Exotic Disease (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/111)](https://www.legislation.gov.uk/uksi/2019/111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/111/regulation/1/1), [13(3)](https://www.legislation.gov.uk/uksi/2019/111/regulation/13/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-35ad06d01a7bddc46db7bd642d8a80a6]: Textual amendment: [Reg. 37(4)](https://www.legislation.gov.uk/nisr/2009/223/regulation/37/4) substituted (31.12.2020) by [The Exotic Disease (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/111)](https://www.legislation.gov.uk/uksi/2019/111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/111/regulation/1/1), [13(3)](https://www.legislation.gov.uk/uksi/2019/111/regulation/13/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8a385ac1b2f84347a8896cea70ebbbe6]: Textual amendment: Word in [reg. 37(5)(b)](https://www.legislation.gov.uk/nisr/2009/223/regulation/37/5/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 17](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/17)
+[^c-8a385ac1b2f84347a8896cea70ebbbe6]: Textual amendment: Word in [reg. 37(5)(b)](https://www.legislation.gov.uk/nisr/2009/223/regulation/37/5/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 17](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/17)
 
-[^key-96b42bab49fb5dddad5bc36e00a87c96]: Textual amendment: Words in [reg. 37(5)(b)](https://www.legislation.gov.uk/nisr/2009/223/regulation/37/5/b) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [14](https://www.legislation.gov.uk/nisr/2020/324/regulation/14)
+[^c-96b42bab49fb5dddad5bc36e00a87c96]: Textual amendment: Words in [reg. 37(5)(b)](https://www.legislation.gov.uk/nisr/2009/223/regulation/37/5/b) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [14](https://www.legislation.gov.uk/nisr/2020/324/regulation/14)
 
-[^key-526d1617d229b609a318422923215618]: Commencement: Reg. 38 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-526d1617d229b609a318422923215618]: Commencement: Reg. 38 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-f453156e0e65cac29d40c7a589c1982f]: Commencement: Reg. 39 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-f453156e0e65cac29d40c7a589c1982f]: Commencement: Reg. 39 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-bf3137ae0923b549baa7fcba8f5c1342]: Commencement: Reg. 40 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-bf3137ae0923b549baa7fcba8f5c1342]: Commencement: Reg. 40 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-8d6e3b40f5a21876f6262450c20bdd0c]: Commencement: Reg. 41 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-8d6e3b40f5a21876f6262450c20bdd0c]: Commencement: Reg. 41 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-71057c1450fe5695887cd0684cc31a10]: Commencement: Reg. 42 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-71057c1450fe5695887cd0684cc31a10]: Commencement: Reg. 42 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-e937c117f2b78b96015ee322fc4cece2]: Commencement: Reg. 43 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-e937c117f2b78b96015ee322fc4cece2]: Commencement: Reg. 43 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-55d2aab55201616f116aeff130728b9c]: Commencement: Reg. 44 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-55d2aab55201616f116aeff130728b9c]: Commencement: Reg. 44 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-0921c4c15971cc9ff958e97dda3eb6bc]: Commencement: Reg. 45 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-0921c4c15971cc9ff958e97dda3eb6bc]: Commencement: Reg. 45 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-0ca1911692ecdf6994424eb2aa1da6a6]: Commencement: Reg. 46 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-0ca1911692ecdf6994424eb2aa1da6a6]: Commencement: Reg. 46 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-655ae0ad8f91f54893d418bdb7a28614]: Commencement: Reg. 47 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-655ae0ad8f91f54893d418bdb7a28614]: Commencement: Reg. 47 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
 [^f00010]: Footnote: [S.R. 1973 No. 52](https://www.legislation.gov.uk/nisr/1973/52)
 
-[^key-187af12ec08914408154ac3ff8331310]: Commencement: Sch. 1 para. 1 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-187af12ec08914408154ac3ff8331310]: Commencement: Sch. 1 para. 1 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-78e83c23f0bf57bead7f03c68bcbf9b7]: Commencement: Sch. 1 para. 2 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-78e83c23f0bf57bead7f03c68bcbf9b7]: Commencement: Sch. 1 para. 2 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-93bad826d1593a10899c119ea6528254]: Commencement: Sch. 1 para. 3 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-93bad826d1593a10899c119ea6528254]: Commencement: Sch. 1 para. 3 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-b4d03c0438f3609f7fbeb569bf557227]: Commencement: Sch. 1 para. 4 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-b4d03c0438f3609f7fbeb569bf557227]: Commencement: Sch. 1 para. 4 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-2016fab5df782e7f71754f3aa37dfaad]: Commencement: Sch. 1 para. 5 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-2016fab5df782e7f71754f3aa37dfaad]: Commencement: Sch. 1 para. 5 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-552577fe17a7eb0bb78a69aae040f88e]: Commencement: Sch. 1 para. 6 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-552577fe17a7eb0bb78a69aae040f88e]: Commencement: Sch. 1 para. 6 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-d5a4124ffae987555adfdd48f52029b9]: Commencement: Sch. 1 para. 7 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-d5a4124ffae987555adfdd48f52029b9]: Commencement: Sch. 1 para. 7 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-4f6d37c14681af22cc06b59d57cdab3e]: Commencement: Sch. 2 Pt. 1 para. 1 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-4f6d37c14681af22cc06b59d57cdab3e]: Commencement: Sch. 2 Pt. 1 para. 1 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-40718daff8ce2ba98e27fe8fcb2bf512]: Commencement: Sch. 2 Pt. 1 para. 2 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-40718daff8ce2ba98e27fe8fcb2bf512]: Commencement: Sch. 2 Pt. 1 para. 2 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-4f6a442314271d3e0c28e658577ae56d]: Commencement: Sch. 2 Pt. 1 para. 3 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-4f6a442314271d3e0c28e658577ae56d]: Commencement: Sch. 2 Pt. 1 para. 3 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-73908990a4d2a0c38b48def551457c3b]: Commencement: Sch. 2 Pt. 1 para. 4 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-73908990a4d2a0c38b48def551457c3b]: Commencement: Sch. 2 Pt. 1 para. 4 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
 [^f00011]: Footnote: [S.R. 2007 No. 279](https://www.legislation.gov.uk/nisr/2007/279)
 
-[^key-4cf66ad9706a137352cf507e2d437548]: Commencement: Sch. 2 Pt. 2 para. 1 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-4cf66ad9706a137352cf507e2d437548]: Commencement: Sch. 2 Pt. 2 para. 1 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
 
-[^key-35c9fcc8bf7dd45e87dc1d38c97623b9]: Commencement: Sch. 2 Pt. 2 para. 2 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)
+[^c-35c9fcc8bf7dd45e87dc1d38c97623b9]: Commencement: Sch. 2 Pt. 2 para. 2 in operation at 30.6.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/223/regulation/1)

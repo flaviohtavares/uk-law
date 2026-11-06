@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15A. Registration of greens: statement by owner[^key-b9f4f0fe861ad1caf17433f59f587bf7]
+## 15A. Registration of greens: statement by owner[^c-b9f4f0fe861ad1caf17433f59f587bf7]
 
 *Extent: E+W*
 
-(1) Where the owner of any land [^key-bfbefbc8aefb4ebd817708b08e337f6e]... to which this Part applies deposits with the commons registration authority a statement in the prescribed form, the statement is to be regarded, for the purposes of section 15, as bringing to an end any period during which persons have indulged as of right in lawful sports and pastimes on the land to which the statement relates.
+(1) Where the owner of any land [^c-bfbefbc8aefb4ebd817708b08e337f6e]... to which this Part applies deposits with the commons registration authority a statement in the prescribed form, the statement is to be regarded, for the purposes of section 15, as bringing to an end any period during which persons have indulged as of right in lawful sports and pastimes on the land to which the statement relates.
 
 (2) Subsection (1) does not prevent a new period commencing.
 
@@ -39,14 +39,14 @@ summary: ''
 - (c) as to the fees payable in relation to the depositing of a statement under subsection (1) (including provision for a fee payable under the regulations to be determined by the commons registration authority);
 - (d) as to when a statement under subsection (1) is to be regarded as having been deposited with the commons registration authority.
 
-(8)[^key-ce039e215aeaf686ed035291e7e4ed79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-ce039e215aeaf686ed035291e7e4ed79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) In this section “ **prescribed** ” means prescribed in regulations.
 
 ## Annotations
 
-[^key-b9f4f0fe861ad1caf17433f59f587bf7]: Textual amendment: Ss. 15A , 15B inserted (25.6.2013 for specified purposes, 1.10.2013 in so far as not already in force) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 15](https://www.legislation.gov.uk/ukpga/2013/27/section/15), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 4(b)](https://www.legislation.gov.uk/uksi/2013/1488/article/4/b); S.I. 2013/1766, art. 3(b)
+[^c-b9f4f0fe861ad1caf17433f59f587bf7]: Textual amendment: Ss. 15A , 15B inserted (25.6.2013 for specified purposes, 1.10.2013 in so far as not already in force) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 15](https://www.legislation.gov.uk/ukpga/2013/27/section/15), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 4(b)](https://www.legislation.gov.uk/uksi/2013/1488/article/4/b); S.I. 2013/1766, art. 3(b)
 
-[^key-bfbefbc8aefb4ebd817708b08e337f6e]: Textual amendment: Words in [s. 15A(1)](https://www.legislation.gov.uk/ukpga/2006/26/section/15A/1) omitted (6.9.2015 for specified purposes, 22.10.2018 in so far as not already in force) by virtue of [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 52(2)](https://www.legislation.gov.uk/anaw/2015/4/section/52/2), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2018/1022](https://www.legislation.gov.uk/wsi/2018/1022), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/1022/article/2/a)
+[^c-bfbefbc8aefb4ebd817708b08e337f6e]: Textual amendment: Words in [s. 15A(1)](https://www.legislation.gov.uk/ukpga/2006/26/section/15A/1) omitted (6.9.2015 for specified purposes, 22.10.2018 in so far as not already in force) by virtue of [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 52(2)](https://www.legislation.gov.uk/anaw/2015/4/section/52/2), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2018/1022](https://www.legislation.gov.uk/wsi/2018/1022), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/1022/article/2/a)
 
-[^key-ce039e215aeaf686ed035291e7e4ed79]: Textual amendment: [S. 15A(8)](https://www.legislation.gov.uk/ukpga/2006/26/section/15A/8) omitted (6.9.2015 for specified purposes, 22.10.2018 in so far as not already in force) by virtue of [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 52(3)](https://www.legislation.gov.uk/anaw/2015/4/section/52/3), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2018/1022](https://www.legislation.gov.uk/wsi/2018/1022), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/1022/article/2/a)
+[^c-ce039e215aeaf686ed035291e7e4ed79]: Textual amendment: [S. 15A(8)](https://www.legislation.gov.uk/ukpga/2006/26/section/15A/8) omitted (6.9.2015 for specified purposes, 22.10.2018 in so far as not already in force) by virtue of [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 52(3)](https://www.legislation.gov.uk/anaw/2015/4/section/52/3), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2018/1022](https://www.legislation.gov.uk/wsi/2018/1022), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/1022/article/2/a)

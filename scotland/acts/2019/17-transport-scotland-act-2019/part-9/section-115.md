@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 115. Fencing and lighting of obstructions and excavations[^key-8934aeeabb7fb414ea063a09855ab2ae]
+## 115. Fencing and lighting of obstructions and excavations[^c-8934aeeabb7fb414ea063a09855ab2ae]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8934aeeabb7fb414ea063a09855ab2ae]: Commencement: [S. 115](https://www.legislation.gov.uk/asp/2019/17/section/115) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
+[^c-8934aeeabb7fb414ea063a09855ab2ae]: Commencement: [S. 115](https://www.legislation.gov.uk/asp/2019/17/section/115) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)

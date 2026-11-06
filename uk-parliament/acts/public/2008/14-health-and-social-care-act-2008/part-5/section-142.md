@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Indemnity schemes in connection with provision of health services[^key-986d07d3bdea310b98f613579ab7b974]
+## 142. Indemnity schemes in connection with provision of health services[^c-986d07d3bdea310b98f613579ab7b974]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-986d07d3bdea310b98f613579ab7b974]: Commencement: [S. 142](https://www.legislation.gov.uk/ukpga/2008/14/section/142) in force at 1.10.2008 by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 5](https://www.legislation.gov.uk/uksi/2008/2497/article/5)
+[^c-986d07d3bdea310b98f613579ab7b974]: Commencement: [S. 142](https://www.legislation.gov.uk/ukpga/2008/14/section/142) in force at 1.10.2008 by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 5](https://www.legislation.gov.uk/uksi/2008/2497/article/5)

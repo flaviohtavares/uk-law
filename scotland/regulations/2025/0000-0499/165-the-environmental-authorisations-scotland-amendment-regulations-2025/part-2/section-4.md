@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Amendment of regulation 2(1) (interpretation)[^key-e88bf8af78a9d8a3b15af77559041e75]
+## 4. Amendment of regulation 2(1) (interpretation)[^c-e88bf8af78a9d8a3b15af77559041e75]
 
 *Extent: S*
 
@@ -187,7 +187,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e88bf8af78a9d8a3b15af77559041e75]: Commencement: Reg. 4 in force at 1.6.2025 (subject to reg. 1(5)), see [reg. 1(4)(a)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/a)(5)
+[^c-e88bf8af78a9d8a3b15af77559041e75]: Commencement: Reg. 4 in force at 1.6.2025 (subject to reg. 1(5)), see [reg. 1(4)(a)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/a)(5)
 
 [^f00004]: Footnote: EUD 2000/532, amended by [S.I. 2019/620](https://www.legislation.gov.uk/uksi/2019/620) and [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540).
 

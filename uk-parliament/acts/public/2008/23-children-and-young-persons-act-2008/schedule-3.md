@@ -24,49 +24,49 @@ Section 39
 
 **1.** The 1989 Act is amended in accordance with this Schedule.
 
-**2.**[^key-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**4.**[^key-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-f3f3c64b2fa0fea2499489b974ce79d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **20.** In section 29(8)(c) after “Secretary of State” insert “, the Welsh Ministers ”.
 
-**21.**[^key-650ae8b51541e89de0d388ea48d60931] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-650ae8b51541e89de0d388ea48d60931] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-338e8709481da4c9bb8935eb321f2218] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-338e8709481da4c9bb8935eb321f2218] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **23.** (1) Section 59 is amended as follows.
 
@@ -109,20 +109,20 @@ Section 39
 - (a) the word “such”;
 - (b) the words “as the person making it considers expedient”.
 
-**26.**[^key-4cccc01870d556bfe946f0b5a1ac63a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-4cccc01870d556bfe946f0b5a1ac63a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.**[^key-7f0397f12a4202f40f7e5ed04035725f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-7f0397f12a4202f40f7e5ed04035725f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **28.** In paragraph 7 of Schedule 5 for “Secretary of State” substitute “appropriate national authority ”.
 
 ## Annotations
 
-[^key-f3f3c64b2fa0fea2499489b974ce79d3]: Textual amendment: [Sch. 3 paras. 2-19](https://www.legislation.gov.uk/ukpga/2008/23/schedule/3/paragraph/2) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [267(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/267/a)
+[^c-f3f3c64b2fa0fea2499489b974ce79d3]: Textual amendment: [Sch. 3 paras. 2-19](https://www.legislation.gov.uk/ukpga/2008/23/schedule/3/paragraph/2) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [267(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/267/a)
 
-[^key-650ae8b51541e89de0d388ea48d60931]: Textual amendment: [Sch. 3 para. 21](https://www.legislation.gov.uk/ukpga/2008/23/schedule/3/paragraph/21) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [267(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/267/b)
+[^c-650ae8b51541e89de0d388ea48d60931]: Textual amendment: [Sch. 3 para. 21](https://www.legislation.gov.uk/ukpga/2008/23/schedule/3/paragraph/21) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [267(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/267/b)
 
-[^key-338e8709481da4c9bb8935eb321f2218]: Textual amendment: [Sch. 3 para. 22](https://www.legislation.gov.uk/ukpga/2008/23/schedule/3/paragraph/22) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [267(c)](https://www.legislation.gov.uk/wsi/2016/413/regulation/267/c)
+[^c-338e8709481da4c9bb8935eb321f2218]: Textual amendment: [Sch. 3 para. 22](https://www.legislation.gov.uk/ukpga/2008/23/schedule/3/paragraph/22) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [267(c)](https://www.legislation.gov.uk/wsi/2016/413/regulation/267/c)
 
-[^key-4cccc01870d556bfe946f0b5a1ac63a7]: Textual amendment: [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/2008/23/schedule/3/paragraph/26) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [267(d)](https://www.legislation.gov.uk/wsi/2016/413/regulation/267/d)
+[^c-4cccc01870d556bfe946f0b5a1ac63a7]: Textual amendment: [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/2008/23/schedule/3/paragraph/26) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [267(d)](https://www.legislation.gov.uk/wsi/2016/413/regulation/267/d)
 
-[^key-7f0397f12a4202f40f7e5ed04035725f]: Textual amendment: [Sch. 3 para. 27](https://www.legislation.gov.uk/ukpga/2008/23/schedule/3/paragraph/27) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [267(e)](https://www.legislation.gov.uk/wsi/2016/413/regulation/267/e)
+[^c-7f0397f12a4202f40f7e5ed04035725f]: Textual amendment: [Sch. 3 para. 27](https://www.legislation.gov.uk/ukpga/2008/23/schedule/3/paragraph/27) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [267(e)](https://www.legislation.gov.uk/wsi/2016/413/regulation/267/e)

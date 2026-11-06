@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59A. Part 10A: interpretation[^key-f51426e6fdab03ade6c6903a2e4987a4]
+## 59A. Part 10A: interpretation[^c-f51426e6fdab03ade6c6903a2e4987a4]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In this Part—
 
 ## Annotations
 
-[^key-f51426e6fdab03ade6c6903a2e4987a4]: Textual amendment: Pt. 10A inserted (1.4.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2021 (S.I. 2021/331)](https://www.legislation.gov.uk/uksi/2021/331), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/331/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2021/331/schedule/2/paragraph/1)
+[^c-f51426e6fdab03ade6c6903a2e4987a4]: Textual amendment: Pt. 10A inserted (1.4.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2021 (S.I. 2021/331)](https://www.legislation.gov.uk/uksi/2021/331), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/331/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2021/331/schedule/2/paragraph/1)

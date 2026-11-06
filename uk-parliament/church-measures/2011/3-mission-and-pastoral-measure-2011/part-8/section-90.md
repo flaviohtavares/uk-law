@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 90. Priest in charge to replace incumbent as trustee of certain charities during vacancy in benefice, etc.[^key-50cb9f3014e5e63f37f8c67d73673c0b]
+## 90. Priest in charge to replace incumbent as trustee of certain charities during vacancy in benefice, etc.[^c-50cb9f3014e5e63f37f8c67d73673c0b]
 
 *Extent: E*
 
@@ -24,10 +24,10 @@ summary: ''
 
 (2) Any change under subsection (1) shall take effect without any conveyance or other assurance.
 
-(3) The provisions of this section shall not apply to any fund or property for which provision is made under section 77[^key-7334b0698d984a831c8be679db72c908].
+(3) The provisions of this section shall not apply to any fund or property for which provision is made under section 77[^c-7334b0698d984a831c8be679db72c908].
 
 ## Annotations
 
-[^key-50cb9f3014e5e63f37f8c67d73673c0b]: Commencement: S. 90 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-50cb9f3014e5e63f37f8c67d73673c0b]: Commencement: S. 90 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
-[^key-7334b0698d984a831c8be679db72c908]: Textual amendment: Figure substituted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 19(8)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/19/8); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
+[^c-7334b0698d984a831c8be679db72c908]: Textual amendment: Figure substituted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 19(8)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/19/8); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)

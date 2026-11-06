@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Private rights[^key-f2e8f44c8b5c4ab3563db6dc003dc690]
+## 23. Private rights[^c-f2e8f44c8b5c4ab3563db6dc003dc690]
 
 *Extent: E+W*
 
 (1) Subject to the provisions of this article, all private rights and restrictive covenants over land subject to compulsory acquisition under this Order are extinguished—
 
-- (a) from the date of acquisition of the land, or of the right, or of the benefit of the restrictive covenant by the undertaker, whether compulsorily or by agreement or through the grant of a lease of the land by agreement[^key-afbb56ae1707e27701fc41aedcdbdd0b] ; or
+- (a) from the date of acquisition of the land, or of the right, or of the benefit of the restrictive covenant by the undertaker, whether compulsorily or by agreement or through the grant of a lease of the land by agreement[^c-afbb56ae1707e27701fc41aedcdbdd0b] ; or
 - (b) on the date of entry on the land by the undertaker under section 11(1) (power of entry) of the 1965 Act,
 
 whichever is the earliest.
@@ -61,6 +61,6 @@ whichever is the earliest.
 
 ## Annotations
 
-[^key-f2e8f44c8b5c4ab3563db6dc003dc690]: Commencement: Art. 23 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
+[^c-f2e8f44c8b5c4ab3563db6dc003dc690]: Commencement: Art. 23 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
 
-[^key-afbb56ae1707e27701fc41aedcdbdd0b]: Textual amendment: Words in [art. 23(1)(a)](https://www.legislation.gov.uk/uksi/2025/116/article/23/1/a) inserted (4.6.2025) by [The West Burton Solar Project (Correction) Order 2025 (S.I. 2025/647)](https://www.legislation.gov.uk/uksi/2025/647), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/647/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2025/647/schedule/1) Table
+[^c-afbb56ae1707e27701fc41aedcdbdd0b]: Textual amendment: Words in [art. 23(1)(a)](https://www.legislation.gov.uk/uksi/2025/116/article/23/1/a) inserted (4.6.2025) by [The West Burton Solar Project (Correction) Order 2025 (S.I. 2025/647)](https://www.legislation.gov.uk/uksi/2025/647), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/647/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2025/647/schedule/1) Table

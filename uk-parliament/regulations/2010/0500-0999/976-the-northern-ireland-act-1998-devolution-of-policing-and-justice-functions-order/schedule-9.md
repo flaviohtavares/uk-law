@@ -22,9 +22,9 @@ summary: ''
 
 Article 7
 
-**1.**[^key-cf1a7517d4e87ae49fe54162a96326c3] Amend the Corporate Manslaughter and Corporate Homicide Act 2007[^f00238] as follows.
+**1.**[^c-cf1a7517d4e87ae49fe54162a96326c3] Amend the Corporate Manslaughter and Corporate Homicide Act 2007[^f00238] as follows.
 
-**2.**[^key-19ee781bed31565bfec9d8f498c7eba3] (1) Amend section 15 (procedure, evidence and sentencing) as follows.
+**2.**[^c-19ee781bed31565bfec9d8f498c7eba3] (1) Amend section 15 (procedure, evidence and sentencing) as follows.
 
 (2) In subsection (2), in the definition of “prescribed”, for “prescribed by an order made by the Secretary of State” substitute
 
@@ -39,7 +39,7 @@ Article 7
 
 (4) In subsection (4) after “order” insert “of the Secretary of State”.
 
-**3.**[^key-e5241b376cea51ead9f06df2c065772f] After section 23 insert—
+**3.**[^c-e5241b376cea51ead9f06df2c065772f] After section 23 insert—
 
 > **23A. Powers of Department of Justice in Northern Ireland**
 >
@@ -60,7 +60,7 @@ Article 7
 > - (c) section 22(2);
 > - (d) section 23(3).
 
-**4.**[^key-f4d443b04968cf5ee63ba6e089853dfd] (1) Amend section 24 (orders) as follows.
+**4.**[^c-f4d443b04968cf5ee63ba6e089853dfd] (1) Amend section 24 (orders) as follows.
 
 (2) After subsection (4) insert—
 
@@ -79,7 +79,7 @@ Article 7
 >
 > (10) Section 41(3) of the Interpretation Act (Northern Ireland) 1954[^f00242] applies for the purposes of subsections (7) and (9) in relation to the laying of a draft as it applies in relation to the laying of a statutory document under an enactment.
 
-**5.**[^key-b3d455c06e4a80ed829acc2f32be206c] (1) Amend section 27 (commencement and savings) as follows.
+**5.**[^c-b3d455c06e4a80ed829acc2f32be206c] (1) Amend section 27 (commencement and savings) as follows.
 
 (2) In subsection (1) after “State” insert “(subject to subsection (1A))”.
 
@@ -91,17 +91,17 @@ Article 7
 
 ## Annotations
 
-[^key-cf1a7517d4e87ae49fe54162a96326c3]: Commencement: Sch. 9 para. 1 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-cf1a7517d4e87ae49fe54162a96326c3]: Commencement: Sch. 9 para. 1 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00238]: Footnote: [2007 c. 19](https://www.legislation.gov.uk/ukpga/2007/19), to which there are amendments not relevant to this Order.
 
-[^key-19ee781bed31565bfec9d8f498c7eba3]: Commencement: Sch. 9 para. 2 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-19ee781bed31565bfec9d8f498c7eba3]: Commencement: Sch. 9 para. 2 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-e5241b376cea51ead9f06df2c065772f]: Commencement: Sch. 9 para. 3 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-e5241b376cea51ead9f06df2c065772f]: Commencement: Sch. 9 para. 3 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00239]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47).
 
-[^key-f4d443b04968cf5ee63ba6e089853dfd]: Commencement: Sch. 9 para. 4 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-f4d443b04968cf5ee63ba6e089853dfd]: Commencement: Sch. 9 para. 4 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00240]: Footnote: [S.I. 1979/1573 (N.I. 12)](https://www.legislation.gov.uk/nisi/1979/1573).
 
@@ -109,4 +109,4 @@ Article 7
 
 [^f00242]: Footnote: Section 41(3) was substituted by [S.I. 1999/663](https://www.legislation.gov.uk/uksi/1999/663).
 
-[^key-b3d455c06e4a80ed829acc2f32be206c]: Commencement: Sch. 9 para. 5 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-b3d455c06e4a80ed829acc2f32be206c]: Commencement: Sch. 9 para. 5 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)

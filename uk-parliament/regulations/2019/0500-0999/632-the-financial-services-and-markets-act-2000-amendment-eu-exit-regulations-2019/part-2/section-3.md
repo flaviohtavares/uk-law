@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Section 1A (the Financial Conduct Authority)[^key-efde90c1dabbaf44043d72f194181f5c]
+## 3. Section 1A (the Financial Conduct Authority)[^c-efde90c1dabbaf44043d72f194181f5c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 1A (the Financial Conduct Authority), in subsection (6)(d) for “qua
 
 ## Annotations
 
-[^key-efde90c1dabbaf44043d72f194181f5c]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-efde90c1dabbaf44043d72f194181f5c]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)

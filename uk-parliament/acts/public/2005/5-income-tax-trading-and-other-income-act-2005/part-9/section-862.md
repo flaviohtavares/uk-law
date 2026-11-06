@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-0dced06d5c4b65ef3e5dad209d8f18e4] This section applies if—
+(1)[^c-0dced06d5c4b65ef3e5dad209d8f18e4] This section applies if—
 
 - (a) a person (“the trader”) sells the whole or part of any patent rights in carrying on a trade,
 - (b) by virtue of section 861 amounts are chargeable to income tax under section 587 as profits of one or more persons for the time being carrying on the trade in partnership,
@@ -29,7 +29,7 @@ summary: ''
 
 (2) Any amounts mentioned in subsection (1)(b) which would have been chargeable in any tax year later than that in which the cessation occurred are charged in the tax year in which the cessation occurred.
 
-(3)[^key-41b56df18227075808be52fbb4e8d084] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-41b56df18227075808be52fbb4e8d084] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) If an additional amount is chargeable under subsection (2), the person liable may elect that the amount of income tax payable should be reduced to the amount that would have been payable on the assumptions mentioned in subsection (5).
 
@@ -42,12 +42,12 @@ summary: ''
 
 (6) The election must be made on or before the first anniversary of the normal self-assessment filing date for the tax year in which the cessation occurred.
 
-(7)[^key-2dbcda4163a4001277a3bbc577f9b167] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-2dbcda4163a4001277a3bbc577f9b167] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0dced06d5c4b65ef3e5dad209d8f18e4]: Textual amendment: S. 862(1)(2) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 643(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/643/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-0dced06d5c4b65ef3e5dad209d8f18e4]: Textual amendment: S. 862(1)(2) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 643(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/643/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-41b56df18227075808be52fbb4e8d084]: Textual amendment: S. 862(3) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 643(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/643/3), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-41b56df18227075808be52fbb4e8d084]: Textual amendment: S. 862(3) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 643(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/643/3), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-2dbcda4163a4001277a3bbc577f9b167]: Textual amendment: S. 862(7) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 643(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/643/3), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-2dbcda4163a4001277a3bbc577f9b167]: Textual amendment: S. 862(7) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 643(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/643/3), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

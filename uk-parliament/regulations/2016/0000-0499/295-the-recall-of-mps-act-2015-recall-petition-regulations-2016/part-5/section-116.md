@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Requirement to provide fresh signature following rejection of a postal petition statement: England and Wales and Scotland[^key-1a83ff0eea7a525b4bc707fe8b637a86]
+## 116. Requirement to provide fresh signature following rejection of a postal petition statement: England and Wales and Scotland[^c-1a83ff0eea7a525b4bc707fe8b637a86]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a83ff0eea7a525b4bc707fe8b637a86]: Commencement: Reg. 116 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-1a83ff0eea7a525b4bc707fe8b637a86]: Commencement: Reg. 116 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

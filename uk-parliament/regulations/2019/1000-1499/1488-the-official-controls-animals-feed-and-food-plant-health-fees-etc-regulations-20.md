@@ -52,7 +52,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 1 — General
 
-### 1. Citation, extent, application and commencement[^key-3c43e7f3f40c8e1b11c7b22fccd850cb]
+### 1. Citation, extent, application and commencement[^c-3c43e7f3f40c8e1b11c7b22fccd850cb]
 
 (1) These Regulations may be cited as the Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019, and come into force on 14th December 2019.
 
@@ -60,11 +60,11 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (3) These Regulations apply—
 
-- (a) as regards Part 2, regulations 8, 9 and 10, Part 4[^key-d1ad7a043450e473b42bd32827563a30] and regulation 30 (and this Part so far as it relates to those provisions), in relation to the United Kingdom, and regulation 9A, in relation to England and Wales and Scotland,[^key-7229ece6d9c7ec5d5f2cf63381767656] but only in so far as those provisions apply in relation to organic production and labelling of organic products and use and labelling of protected designations of origin, protected geographical indications and traditional specialities guaranteed;
+- (a) as regards Part 2, regulations 8, 9 and 10, Part 4[^c-d1ad7a043450e473b42bd32827563a30] and regulation 30 (and this Part so far as it relates to those provisions), in relation to the United Kingdom, and regulation 9A, in relation to England and Wales and Scotland,[^c-7229ece6d9c7ec5d5f2cf63381767656] but only in so far as those provisions apply in relation to organic production and labelling of organic products and use and labelling of protected designations of origin, protected geographical indications and traditional specialities guaranteed;
 - (b) as regards regulation 25 (and this regulation so far as it relates to that regulation), in relation to England and Wales;
 - (c) otherwise, in relation to England only.
 
-### 2. Interpretation[^key-4beffaa8472cb94d2c1ee0d891f338b1]
+### 2. Interpretation[^c-4beffaa8472cb94d2c1ee0d891f338b1]
 
 *Extent: E+W*
 
@@ -74,7 +74,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - “**audit**” means an audit of a competent authority carried out for the purposes of Article 6 of the EU Regulation in relation to relevant legislation;
 - “**auditor**” means a person carrying out an audit on behalf of a competent authority;
 - “**designated authority**” means an authority designated by the Secretary of State under regulation 3;
-- “**the EU Official Controls Regulations**” means the EU Regulation and the Implementing Regulations , Delegated Regulations and statutory instruments made under it[^key-e61ca40750cbffae77b78974b5991856] made under it;
+- “**the EU Official Controls Regulations**” means the EU Regulation and the Implementing Regulations , Delegated Regulations and statutory instruments made under it[^c-e61ca40750cbffae77b78974b5991856] made under it;
 - “**the EU Regulation**” means Regulation (EU) 2017/625 of the European Parliament and of the Council of 15th March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products [^c23942651];
 - “**enforcement officer**” means an officer authorised by the Secretary of State or a designated authority to enforce the EU Official Controls Regulations and these Regulations;
 - “**the Feed and Food Regulations**” means the Official Feed and Food Controls (England) Regulations 2009 [^c23942661];
@@ -90,7 +90,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - “**official veterinarian**” means a veterinarian appointed by the Secretary of State and appropriately qualified to carry out official controls and other official activities for the verification of compliance with the rules referred to in Article 1(2);
 - “**other official activities**” means has the meaning given by Article 2(2);
 - “**premises**” includes any means of transport;
-- “**relevant legislation**” means , in Northern Ireland, European and domestic legislation, and in Great Britain,[^key-41cfca05adeaa13b584c27b9f303b6b5] assimilated direct[^key-fd1f1130d14490641fea59659e191919] legislation and domestic legislation legislation governing the areas listed in sub-paragraphs (a) to (f)[^key-2410e3989f917b7beab93f920db0626e], (i) and (j) of Article 1(2), with the exception of food and food safety, feed and feed safety legislation in so far as—
+- “**relevant legislation**” means , in Northern Ireland, European and domestic legislation, and in Great Britain,[^c-41cfca05adeaa13b584c27b9f303b6b5] assimilated direct[^c-fd1f1130d14490641fea59659e191919] legislation and domestic legislation legislation governing the areas listed in sub-paragraphs (a) to (f)[^c-2410e3989f917b7beab93f920db0626e], (i) and (j) of Article 1(2), with the exception of food and food safety, feed and feed safety legislation in so far as—
   - (a) such legislation is defined as “relevant feed law” or “relevant food law” in the Feed and Food Regulations;
   - (b) such legislation involves substances the use or presence of which on crops to produce or process food or feed may result in residues of those substances in food or feed; or
   - (c) it relates to feed additives or medicated feedingstuffs.
@@ -104,7 +104,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (4) Unless the context otherwise requires, any reference in these Regulations to an “Article” or Title is to an Article or Title of the EU Regulation.
 
-### 3. Designations for the purposes of Article 4[^key-95f79c946e5a5d465b7b7f62a7af07ee]
+### 3. Designations for the purposes of Article 4[^c-95f79c946e5a5d465b7b7f62a7af07ee]
 
 *Extent: E+W*
 
@@ -128,15 +128,15 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (6) Where non-compliance has been identified by any designated authority through the application of official controls, it must promptly inform the business operator of the non-compliance.
 
-### 4. Exchange of information[^key-21d2a6def10aa5dbde7956f8750f9b35]
+### 4. Exchange of information[^c-21d2a6def10aa5dbde7956f8750f9b35]
 
 *Extent: E+W*
 
-The Secretary of State and any other designated authorities may disclose information to each other and to other competent authorities [^key-93063c2d5eb0d9c3bb61311e7f85e96a]... for the purposes of applying these Regulations and the EU Official Controls Regulations.
+The Secretary of State and any other designated authorities may disclose information to each other and to other competent authorities [^c-93063c2d5eb0d9c3bb61311e7f85e96a]... for the purposes of applying these Regulations and the EU Official Controls Regulations.
 
 ## PART 2 — Audits and official controls
 
-### 5. Powers of auditors[^key-0b3804037f0c38e22b796fed9a8f4645]
+### 5. Powers of auditors[^c-0b3804037f0c38e22b796fed9a8f4645]
 
 (1) An auditor may exercise the powers in this regulation and carry out an audit in accordance with the EU Official Controls Regulations if so authorised—
 
@@ -155,7 +155,7 @@ The Secretary of State and any other designated authorities may disclose informa
 
 (7) This regulation does not apply where an auditor undertakes an audit in accordance with regulation 7 on behalf of the Agency.
 
-### 6. Powers of the Secretary of State in relation to audits of designated authorities[^key-6eedb9124d9636f3361d8f2d9a91dc22]
+### 6. Powers of the Secretary of State in relation to audits of designated authorities[^c-6eedb9124d9636f3361d8f2d9a91dc22]
 
 (1) The Secretary of State may make a written request to a designated authority to provide information by a specified date about any audits it has carried out or undergone or which it plans to carry out or undergo.
 
@@ -163,7 +163,7 @@ The Secretary of State and any other designated authorities may disclose informa
 
 (3) The designated authority must provide such assistance to that auditor as may reasonably be required in order for the auditor to carry out the audit effectively.
 
-### 7. Powers of the Agency undertaking audits on behalf of the Secretary of State[^key-fa483d77334e640cac56243c7962685a]
+### 7. Powers of the Agency undertaking audits on behalf of the Secretary of State[^c-fa483d77334e640cac56243c7962685a]
 
 (1) Where the Secretary of State arranges for the Agency to undertake an audit, the audit provisions of the Feed and Food Regulations apply as if—
 
@@ -179,11 +179,11 @@ The Secretary of State and any other designated authorities may disclose informa
 
 ## PART 3 — Assistance and co-operation under Title IV and recovery of expenses
 
-### 8. Duties of designated authorities[^key-6b4242e428aae8bad25651a558f02b19]
+### 8. Duties of designated authorities[^c-6b4242e428aae8bad25651a558f02b19]
 
 A designated authority must notify the Secretary of State if it considers that it is unable to undertake action required in any individual case under Title IV (administrative assistance and cooperation) and must provide such information to the Secretary of State as may reasonably be requested.
 
-### 9. Facilitating assistance and co-operation[^key-b0455d3316d269ac5e21e40d3b8f3db0]
+### 9. Facilitating assistance and co-operation[^c-b0455d3316d269ac5e21e40d3b8f3db0]
 
 (1) For the purposes of assisting a competent authority of another member State as provided for in Article 104, or enabling the Secretary of State or a designated authority to do so, an inspector exercising powers under relevant legislation to enter premises or to inspect records may—
 
@@ -195,7 +195,7 @@ A designated authority must notify the Secretary of State if it considers that i
 
 (3) Any person may be required to provide an enforcement officer with such assistance, information or facilities as the officer may reasonably require for the purpose of the execution or enforcement of these Regulations or the EU Official Controls Regulations.
 
-### 9A. Facilitating assistance and co-operation in England and Wales and Scotland in relation to matters falling within Articles 1(2)(i) and 1(2)(j) of the EU Regulation[^key-d94b187de667dd0d15b0f5134145944b]
+### 9A. Facilitating assistance and co-operation in England and Wales and Scotland in relation to matters falling within Articles 1(2)(i) and 1(2)(j) of the EU Regulation[^c-d94b187de667dd0d15b0f5134145944b]
 
 Regulation 9 applies in relation to England and Wales and Scotland insofar as it relates to matters falling within Article 1(2)(i) (organic production and labelling of organic products) and Article 1(2)(j) (use and labelling of protected designations of origin, protected geographical indications and traditional specialities guaranteed) subject to the following modifications—
 
@@ -204,7 +204,7 @@ Regulation 9 applies in relation to England and Wales and Scotland insofar as it
   - (ii) in sub-paragraph (a), for “a competent authority of another country” there were substituted “ another competent authority ”;
 - (b) as if paragraph (2) were omitted.
 
-### 10. Recovery of expenses[^key-4b30f32488e691c3f6169ed9c477777c]
+### 10. Recovery of expenses[^c-4b30f32488e691c3f6169ed9c477777c]
 
 (1) Any expenses incurred by the Secretary of State or a designated authority in carrying out enforcement activities under these Regulations, or measures under Articles 66, 67, 69 or 138, may be recovered from the relevant business operator, and such expenses must be paid on written demand.
 
@@ -215,7 +215,7 @@ Regulation 9 applies in relation to England and Wales and Scotland insofar as it
 
 ## PART 4 — Enforcement and penalties
 
-### 11. Enforcement and prosecution[^key-d5c172dc3daef74f650d3bc375de246e]
+### 11. Enforcement and prosecution[^c-d5c172dc3daef74f650d3bc375de246e]
 
 (1) Enforcement of these Regulations and the EU Official Controls Regulations is the responsibility of the competent authority or a designated authority.
 
@@ -229,7 +229,7 @@ Regulation 9 applies in relation to England and Wales and Scotland insofar as it
 
 (6) The Department for Agriculture, Environment and Rural Affairs may as regards Northern Ireland direct, in relation to cases of a particular description or to a particular case, that these Regulations are to be enforced by that Department instead of a designated authority.
 
-### 12. Powers of enforcement officers[^key-bd4ec928db3c2a0a45301453306d5786]
+### 12. Powers of enforcement officers[^c-bd4ec928db3c2a0a45301453306d5786]
 
 (1) An enforcement officer may—
 
@@ -249,7 +249,7 @@ Regulation 9 applies in relation to England and Wales and Scotland insofar as it
   - (i) provide to the person appearing to be responsible for any records removed from any premises a written receipt identifying those records; and
   - (ii) after deciding that they are no longer required, return anything removed, apart from records or other things to be used as evidence in court proceedings.
 
-### 13. Powers of entry[^key-6ee417587d835037a3b7ea3684905720]
+### 13. Powers of entry[^c-6ee417587d835037a3b7ea3684905720]
 
 (1) An enforcement officer may enter any premises (except any premises used wholly or mainly as a private dwelling) during normal working hours without prior notice, if the officer believes that it is necessary for the purpose of official controls or other official activities under these Regulations or the EU Official Controls Regulations.
 
@@ -284,7 +284,7 @@ Regulation 9 applies in relation to England and Wales and Scotland insofar as it
 - (a) be accompanied by such other persons, up to a maximum of three, as the enforcement officer considers necessary;
 - (b) bring onto the premises such equipment as the enforcement officer considers necessary.
 
-### 14. Offences and penalties[^key-228b271c8f61f3f9e21f5154d8568c68]
+### 14. Offences and penalties[^c-228b271c8f61f3f9e21f5154d8568c68]
 
 (1) A person is guilty of an offence if without reasonable excuse that person obstructs or causes or permits to be obstructed—
 
@@ -306,7 +306,7 @@ Regulation 9 applies in relation to England and Wales and Scotland insofar as it
 - (b) in Scotland, to a fine not exceeding level 5 on the standard scale; or
 - (c) in Northern Ireland, to a fine not exceeding level 5 on the standard scale.
 
-### 15. Offences by bodies corporate[^key-743de44f5a8a1b2a89de51f7f6d4b7ed]
+### 15. Offences by bodies corporate[^c-743de44f5a8a1b2a89de51f7f6d4b7ed]
 
 (1) If an offence under regulation 14 is committed by a body corporate, Scottish partnership or other unincorporated association and is shown to have been committed with the consent or connivance of an officer, or to be attributable to the neglect of such officer, that officer as well as the body corporate, Scottish partnership or other unincorporated association is guilty of the offence and liable to be proceeded against and punished accordingly.
 
@@ -320,7 +320,7 @@ Regulation 9 applies in relation to England and Wales and Scotland insofar as it
 - (b) in relation to a Scottish partnership, a partner;
 - (c) in relation to an unincorporated association other than a Scottish partnership, a person who is concerned in the management or control of the association.
 
-### 16. Time limits for prosecution[^key-ce9a6603cabb2599101c702f2deaed93]
+### 16. Time limits for prosecution[^c-ce9a6603cabb2599101c702f2deaed93]
 
 A prosecution for an offence under this Part may begin no later than the earlier of the expiry of—
 
@@ -329,13 +329,13 @@ A prosecution for an offence under this Part may begin no later than the earlier
 
 ## PART 5 — Consequential amendments to secondary legislation relating to animals, food and trade in England
 
-### 17. Amendment to the Coffee Extracts and Chicory Extracts (England) Regulations 2000[^key-e92518849c08eb96e92f3bcde85812a5]
+### 17. Amendment to the Coffee Extracts and Chicory Extracts (England) Regulations 2000[^c-e92518849c08eb96e92f3bcde85812a5]
 
 *Extent: E+W*
 
 In regulation 7(3) of the Coffee Extracts and Chicory Extracts (England) Regulations 2000 [^c23942711], for “Regulation [(EC) No 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882) of the European Parliament and of the Council on official controls performed to ensure the verification of compliance with feed and food law, animal health and animal welfare rules”, substitute “ Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products [^c23942721] ”.
 
-### 18. Amendment to the Foot-and-Mouth Disease (England) Order 2006[^key-2952686fdf65826e087078d3e8b51173]
+### 18. Amendment to the Foot-and-Mouth Disease (England) Order 2006[^c-2952686fdf65826e087078d3e8b51173]
 
 *Extent: E+W*
 
@@ -346,7 +346,7 @@ In regulation 7(3) of the Coffee Extracts and Chicory Extracts (England) Regulat
 - (a) in the definition of “health marked”, for the words “required by” to the end, substitute “ as defined in Article 3(51) of Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products ”;
 - (b) in the definition of “slaughterhouse”, in paragraph (a), for the words “under” to “rules” substitute “ in accordance with Regulation EU 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products [^c23942741] ”.
 
-### 19. Amendment to the Foot-and-Mouth Disease (Control of Vaccination) (England) Regulations 2006[^key-e46ba1076941cbcdef872c59054c33e8]
+### 19. Amendment to the Foot-and-Mouth Disease (Control of Vaccination) (England) Regulations 2006[^c-e46ba1076941cbcdef872c59054c33e8]
 
 *Extent: E+W*
 
@@ -357,7 +357,7 @@ In regulation 7(3) of the Coffee Extracts and Chicory Extracts (England) Regulat
 - (a) in the definition of “health marked”, for the words “required by” to the end substitute “ as defined in Article 3(51) of Regulation EU 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products ”;
 - (b) in the definition of “slaughterhouse”, in paragraph (c), for the words “under” to “rules”, substitute “ in accordance with Regulation EU 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products ”.
 
-### 20. Amendment to the Avian Influenza (H5N1 in Poultry) (England) Order 2006[^key-8ac4d6940859fd3a7a2cc3e136ff3c41]
+### 20. Amendment to the Avian Influenza (H5N1 in Poultry) (England) Order 2006[^c-8ac4d6940859fd3a7a2cc3e136ff3c41]
 
 *Extent: E+W*
 
@@ -365,7 +365,7 @@ In regulation 7(3) of the Coffee Extracts and Chicory Extracts (England) Regulat
 
 (2) In regulation 11(2)(b)(ii), for the words “Chapter VIII” to the end, substitute “ Article 18 of Regulation EU 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products [^c23942771] ”.
 
-### 21. Amendment to the Avian Influenza (H5N1 in Wild Birds) (England) 2006[^key-6fc0459e8fb53e2707e6cd878938c26c]
+### 21. Amendment to the Avian Influenza (H5N1 in Wild Birds) (England) 2006[^c-6fc0459e8fb53e2707e6cd878938c26c]
 
 *Extent: E+W*
 
@@ -373,13 +373,13 @@ In regulation 7(3) of the Coffee Extracts and Chicory Extracts (England) Regulat
 
 (2) In Schedule 1, in Part 3, in paragraph 9(2) (a), for the words “Sections I, II and III, and Chapters V” to the end substitute “ Article 18 of Regulation EU 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products [^c23942791] ”.
 
-### 22. Amendment to the Welfare of Animals (Transport) (England) Order 2006[^key-7cecaad461f6e419726169dc3238e1eb]
+### 22. Amendment to the Welfare of Animals (Transport) (England) Order 2006[^c-7cecaad461f6e419726169dc3238e1eb]
 
 *Extent: E+W*
 
 In article 20(2) of the Welfare of Animals (Transport) (England) Order 2006 [^c23942801], omit sub-paragraph (j).
 
-### 23. Amendment to the Welfare of Farmed Animals (England) Regulations 2007[^key-86608254bdfcf26b7d5c3e60f1adfc58]
+### 23. Amendment to the Welfare of Farmed Animals (England) Regulations 2007[^c-86608254bdfcf26b7d5c3e60f1adfc58]
 
 *Extent: E+W*
 
@@ -397,7 +397,7 @@ In article 20(2) of the Welfare of Animals (Transport) (England) Order 2006 [^c2
     ;
 - (b) in paragraph 15(1), for “Regulation 854/2004”, substitute “ Regulation (EU) 2017/625 ”.
 
-### 24. Amendment to the Natural Mineral Water, Spring Water and Bottled Drinking Water (England) Regulations 2007[^key-ec7dccb1ae70409362c876fdea891651]
+### 24. Amendment to the Natural Mineral Water, Spring Water and Bottled Drinking Water (England) Regulations 2007[^c-ec7dccb1ae70409362c876fdea891651]
 
 *Extent: E+W*
 
@@ -428,7 +428,7 @@ Schedule 12 to the Natural Mineral Water, Spring Water and Bottled Drinking Wate
 
       .
 
-### 25. Amendment to the Aquatic Animal Health (England and Wales) Regulations 2009[^key-77fe2058800d85b3711b307e3f98f064]
+### 25. Amendment to the Aquatic Animal Health (England and Wales) Regulations 2009[^c-77fe2058800d85b3711b307e3f98f064]
 
 *Extent: E+W*
 
@@ -441,7 +441,7 @@ Regulation 19 of the Aquatic Animal Health (England and Wales) Regulations 2009 
 
   .
 
-### 26. Amendment to the Trade in Animals and Related Products Regulations 2011[^key-863beede91c0ed314670057470f36ddd]
+### 26. Amendment to the Trade in Animals and Related Products Regulations 2011[^c-863beede91c0ed314670057470f36ddd]
 
 *Extent: E+W*
 
@@ -1013,7 +1013,7 @@ Regulation 19 of the Aquatic Animal Health (England and Wales) Regulations 2009 
 
   .
 
-### 27. Amendment to the Veterinary Medicines Regulations 2013[^key-4f89113fc2677b9aca6450697030eb87]
+### 27. Amendment to the Veterinary Medicines Regulations 2013[^c-4f89113fc2677b9aca6450697030eb87]
 
 *Extent: E+W*
 
@@ -1036,7 +1036,7 @@ The Veterinary Medicines Regulations 2013 [^c23943011] are amended as follows—
   - (i) in the Contents, in item 4, for “Regulation [(EC) No 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882)” substitute “ Regulation (EU) 2017/625 ”, and
   - (ii) in paragraph 4, and the heading to that paragraph, for “Regulation [(EC) No 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882)” substitute “ Regulation (EU) 2017/625 ”.
 
-### 28. Amendment to the Welfare of Animals at the Time of Killing (England) Regulations 2015[^key-de922e3a64ebb3601d1c8022f18b335f]
+### 28. Amendment to the Welfare of Animals at the Time of Killing (England) Regulations 2015[^c-de922e3a64ebb3601d1c8022f18b335f]
 
 *Extent: E+W*
 
@@ -1044,13 +1044,13 @@ The Veterinary Medicines Regulations 2013 [^c23943011] are amended as follows—
 
 (2) In regulation 4(1)(c)(iii), for “Article 22(1)” substitute “ Article 138 (actions in the event of established non-compliance) of Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products [^c23943041] ”.
 
-### 29. Amendment to the Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018[^key-1e084ac852bd4504d708fa7522af9408]
+### 29. Amendment to the Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018[^c-1e084ac852bd4504d708fa7522af9408]
 
 *Extent: E+W*
 
 Regulation 38 of the Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 [^c23943051] is revoked.
 
-### 30. Amendment to the Quality Schemes (Agricultural Products and Foodstuffs) Regulations 2018[^key-9f132ec4487388f0c63129472bc94af5]
+### 30. Amendment to the Quality Schemes (Agricultural Products and Foodstuffs) Regulations 2018[^c-9f132ec4487388f0c63129472bc94af5]
 
 The Quality Schemes (Agricultural Products and Foodstuffs) Regulations 2018 [^c23943061] are amended as follows—
 
@@ -1063,13 +1063,13 @@ The Quality Schemes (Agricultural Products and Foodstuffs) Regulations 2018 [^c2
     ; and
 - (b) in regulation 5(2)(a), for “Regulation 882/2004” substitute “ Regulation (EU) 2017/625 ”.
 
-### 31. Amendment to the Carcase Classification and Price Reporting (England) Regulations 2018[^key-22298d52be6d9cdc908bff7ec8a7823f]
+### 31. Amendment to the Carcase Classification and Price Reporting (England) Regulations 2018[^c-22298d52be6d9cdc908bff7ec8a7823f]
 
 *Extent: E+W*
 
 In regulation 2(1) of the Carcase Classification and Price Reporting (England) Regulations 2018 [^c23943071], in the definition of “bovine carcase”, for the words “provided for in Article 5(2)” to the end substitute “ as defined in Article 3(51) of Regulation EU 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products [^c23943081] ”.
 
-### 32. Amendment to the Transmissible Spongiform Encephalopathies (England) Regulations 2018[^key-2c5a6da6382620167668950b7ba28e5a]
+### 32. Amendment to the Transmissible Spongiform Encephalopathies (England) Regulations 2018[^c-2c5a6da6382620167668950b7ba28e5a]
 
 *Extent: E+W*
 
@@ -1090,7 +1090,7 @@ In regulation 2(1) of the Carcase Classification and Price Reporting (England) R
 
 *Extent: E+W*
 
-### 33. The Plant Health (Export Certification) (England) Order 2004[^key-f01edbe058b72bcb670e39b9ebeded67]
+### 33. The Plant Health (Export Certification) (England) Order 2004[^c-f01edbe058b72bcb670e39b9ebeded67]
 
 In the Plant Health (Export Certification) (England) Order 2004 [^c23943111]—
 
@@ -1098,7 +1098,7 @@ In the Plant Health (Export Certification) (England) Order 2004 [^c23943111]—
 - (b) omit article 4;
 - (c) omit Schedule 3.
 
-### 34. The Plant Health (Export Certification) (Forestry) (Great Britain) Order 2004[^key-ff2175968c7d70ede9a6a5d7be9e367b]
+### 34. The Plant Health (Export Certification) (Forestry) (Great Britain) Order 2004[^c-ff2175968c7d70ede9a6a5d7be9e367b]
 
 In the Plant Health (Export Certification) (Forestry) (Great Britain) Order 2004 [^c23943121]—
 
@@ -1106,14 +1106,14 @@ In the Plant Health (Export Certification) (Forestry) (Great Britain) Order 2004
 - (b) omit article 4;
 - (c) omit Schedule 3.
 
-### 35. The Plant Health (Wood Packaging Material Marking) (Forestry) Order 2006[^key-70fed36e4bc84b8c9992a51b27847080]
+### 35. The Plant Health (Wood Packaging Material Marking) (Forestry) Order 2006[^c-70fed36e4bc84b8c9992a51b27847080]
 
 In the Plant Health (Wood Packaging Material Marking) (Forestry) Order 2006 [^c23943131]—
 
 - (a) omit article 7;
 - (b) omit Schedule 1.
 
-### 36. The Plant Health (Fees) (Forestry) (England and Scotland) Regulations 2015[^key-e25a4de715918388a6b442181ace9b1e]
+### 36. The Plant Health (Fees) (Forestry) (England and Scotland) Regulations 2015[^c-e25a4de715918388a6b442181ace9b1e]
 
 (1) The Plant Health (Fees) (Forestry) (England and Scotland) Regulations 2015 [^c23943141] are amended as follows.
 
@@ -1154,7 +1154,7 @@ In the Plant Health (Wood Packaging Material Marking) (Forestry) Order 2006 [^c2
 
   .
 
-### 37.[^key-12a37f15af932bb8f48cab6db5ab4500]
+### 37.[^c-12a37f15af932bb8f48cab6db5ab4500]
 
 After Schedule 4 insert—
 
@@ -1181,7 +1181,7 @@ After Schedule 4 insert—
 
 .
 
-### 38. The Plant Health etc. (Fees) (England) Regulations 2018[^key-3c2b25cdb3eb4e7f45dc02c52ff662a7]
+### 38. The Plant Health etc. (Fees) (England) Regulations 2018[^c-3c2b25cdb3eb4e7f45dc02c52ff662a7]
 
 (1) The Plant Health etc. (Fees) (England) Regulations 2018 [^c23943191] are amended as follows.
 
@@ -1287,7 +1287,7 @@ After Schedule 4 insert—
 
 *Extent: E+W*
 
-### 39. Review[^key-ffd72124c4c3e86c0f9dc0e987554372]
+### 39. Review[^c-ffd72124c4c3e86c0f9dc0e987554372]
 
 (1) The Secretary of State, in relation to England, must from time to time—
 
@@ -1307,7 +1307,7 @@ After Schedule 4 insert—
 
 (5) In this regulation, “**regulatory provision**” has the same meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).
 
-### 40. Revocation[^key-1313de9ddd7fff651bf129499580dcbd]
+### 40. Revocation[^c-1313de9ddd7fff651bf129499580dcbd]
 
 The Official Controls (Animals, Feed and Food) (England) Regulations 2006 [^c23943251] are revoked.
 
@@ -1357,15 +1357,15 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^c23942641]: Marginal citation: [1973 c. 51](https://www.legislation.gov.uk/ukpga/1973/51); [section 56(1)](https://www.legislation.gov.uk/uksi/2019/1488/section/56/1) was amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), and prospectively amended by paragraph 17 of Schedule 8 to the [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) from a date and time to be appointed.
 
-[^key-3c43e7f3f40c8e1b11c7b22fccd850cb]: Commencement: Reg. 1 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-3c43e7f3f40c8e1b11c7b22fccd850cb]: Commencement: Reg. 1 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
-[^key-d1ad7a043450e473b42bd32827563a30]: Textual amendment: Words in [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/3/a) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/5/2/a)
+[^c-d1ad7a043450e473b42bd32827563a30]: Textual amendment: Words in [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/3/a) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/5/2/a)
 
-[^key-7229ece6d9c7ec5d5f2cf63381767656]: Textual amendment: Words in [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/3/a) inserted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/5/2/b)
+[^c-7229ece6d9c7ec5d5f2cf63381767656]: Textual amendment: Words in [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/3/a) inserted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/5/2/b)
 
-[^key-4beffaa8472cb94d2c1ee0d891f338b1]: Commencement: Reg. 2 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-4beffaa8472cb94d2c1ee0d891f338b1]: Commencement: Reg. 2 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
-[^key-e61ca40750cbffae77b78974b5991856]: Textual amendment: Words in reg. 2(1) substituted (sic.) (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/5/3/a)
+[^c-e61ca40750cbffae77b78974b5991856]: Textual amendment: Words in reg. 2(1) substituted (sic.) (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/5/3/a)
 
 [^c23942651]: Marginal citation: OJ No. L 95, 7.4.2017, p.1, amended by Commission Delegated Regulation (EU) 2019/478 (OJ No. L 82, 25.3.2019, p.4).
 
@@ -1375,97 +1375,97 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^c23942681]: Marginal citation: [1954 c. 33](https://www.legislation.gov.uk/ukpga/1954/33).
 
-[^key-41cfca05adeaa13b584c27b9f303b6b5]: Textual amendment: Words in reg. 2(1) substituted (sic.) (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/5/3/b)
+[^c-41cfca05adeaa13b584c27b9f303b6b5]: Textual amendment: Words in reg. 2(1) substituted (sic.) (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/5/3/b)
 
-[^key-fd1f1130d14490641fea59659e191919]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/2/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 45](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/45)
+[^c-fd1f1130d14490641fea59659e191919]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/2/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 45](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/45)
 
-[^key-2410e3989f917b7beab93f920db0626e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/2/1) substituted (14.1.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1), [55](https://www.legislation.gov.uk/uksi/2019/1517/regulation/55)
+[^c-2410e3989f917b7beab93f920db0626e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/2/1) substituted (14.1.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1), [55](https://www.legislation.gov.uk/uksi/2019/1517/regulation/55)
 
 [^c23942691]: Marginal citation: OJ No. L 268, 18.10.2003, p.29, last amended by Regulation (EU) 2019/1381 (OJ No. L231, 6.9.2019, p.1).
 
-[^key-95f79c946e5a5d465b7b7f62a7af07ee]: Commencement: Reg. 3 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-95f79c946e5a5d465b7b7f62a7af07ee]: Commencement: Reg. 3 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
 [^c23942701]: Marginal citation: [S.I. 2015/1782](https://www.legislation.gov.uk/uksi/2015/1782), to which there are amendments not relevant to these Regulations.
 
-[^key-21d2a6def10aa5dbde7956f8750f9b35]: Commencement: Reg. 4 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-21d2a6def10aa5dbde7956f8750f9b35]: Commencement: Reg. 4 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
-[^key-93063c2d5eb0d9c3bb61311e7f85e96a]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2019/1488/regulation/4) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/5/4)
+[^c-93063c2d5eb0d9c3bb61311e7f85e96a]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2019/1488/regulation/4) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/5/4)
 
-[^key-0b3804037f0c38e22b796fed9a8f4645]: Commencement: Reg. 5 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-0b3804037f0c38e22b796fed9a8f4645]: Commencement: Reg. 5 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
-[^key-6eedb9124d9636f3361d8f2d9a91dc22]: Commencement: Reg. 6 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-6eedb9124d9636f3361d8f2d9a91dc22]: Commencement: Reg. 6 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
-[^key-fa483d77334e640cac56243c7962685a]: Commencement: Reg. 7 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-fa483d77334e640cac56243c7962685a]: Commencement: Reg. 7 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
-[^key-6b4242e428aae8bad25651a558f02b19]: Commencement: Reg. 8 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-6b4242e428aae8bad25651a558f02b19]: Commencement: Reg. 8 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
-[^key-b0455d3316d269ac5e21e40d3b8f3db0]: Commencement: Reg. 9 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-b0455d3316d269ac5e21e40d3b8f3db0]: Commencement: Reg. 9 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
-[^key-d94b187de667dd0d15b0f5134145944b]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2019/1488/regulation/9A) inserted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/5/5)
+[^c-d94b187de667dd0d15b0f5134145944b]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2019/1488/regulation/9A) inserted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/5/5)
 
-[^key-4b30f32488e691c3f6169ed9c477777c]: Commencement: Reg. 10 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-4b30f32488e691c3f6169ed9c477777c]: Commencement: Reg. 10 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
-[^key-d5c172dc3daef74f650d3bc375de246e]: Commencement: Reg. 11 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-d5c172dc3daef74f650d3bc375de246e]: Commencement: Reg. 11 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
-[^key-bd4ec928db3c2a0a45301453306d5786]: Commencement: Reg. 12 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-bd4ec928db3c2a0a45301453306d5786]: Commencement: Reg. 12 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
-[^key-6ee417587d835037a3b7ea3684905720]: Commencement: Reg. 13 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-6ee417587d835037a3b7ea3684905720]: Commencement: Reg. 13 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
-[^key-228b271c8f61f3f9e21f5154d8568c68]: Commencement: Reg. 14 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-228b271c8f61f3f9e21f5154d8568c68]: Commencement: Reg. 14 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
-[^key-743de44f5a8a1b2a89de51f7f6d4b7ed]: Commencement: Reg. 15 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-743de44f5a8a1b2a89de51f7f6d4b7ed]: Commencement: Reg. 15 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
-[^key-ce9a6603cabb2599101c702f2deaed93]: Commencement: Reg. 16 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-ce9a6603cabb2599101c702f2deaed93]: Commencement: Reg. 16 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
-[^key-e92518849c08eb96e92f3bcde85812a5]: Commencement: Reg. 17 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-e92518849c08eb96e92f3bcde85812a5]: Commencement: Reg. 17 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
 [^c23942711]: Marginal citation: [S.I. 2000/3323](https://www.legislation.gov.uk/uksi/2000/3323); the relevant amending instrument is [S.I. 2018/575](https://www.legislation.gov.uk/uksi/2018/575).
 
 [^c23942721]: Marginal citation: OJ No. L 95, 7.4.2017, p.1, amended by Commission Delegated Regulation (EU) 2019/478 (OJ No. L 82, 25.3.2019, p.4).
 
-[^key-2952686fdf65826e087078d3e8b51173]: Commencement: Reg. 18 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-2952686fdf65826e087078d3e8b51173]: Commencement: Reg. 18 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
 [^c23942731]: Marginal citation: [S.I. 2006/182](https://www.legislation.gov.uk/uksi/2006/182), to which there are amendments not relevant to these Regulations.
 
 [^c23942741]: Marginal citation: OJ No. L 95, 7.4.2017, p.1, amended by Commission Delegated Regulation (EU) 2019/478 (OJ No. L 82, 25.3.2019, p.4).
 
-[^key-e46ba1076941cbcdef872c59054c33e8]: Commencement: Reg. 19 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-e46ba1076941cbcdef872c59054c33e8]: Commencement: Reg. 19 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
 [^c23942751]: Marginal citation: [S.I. 2006/183](https://www.legislation.gov.uk/uksi/2006/183), to which there are amendments not relevant to these Regulations.
 
-[^key-8ac4d6940859fd3a7a2cc3e136ff3c41]: Commencement: Reg. 20 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-8ac4d6940859fd3a7a2cc3e136ff3c41]: Commencement: Reg. 20 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
 [^c23942761]: Marginal citation: [S.I. 2006/3247](https://www.legislation.gov.uk/uksi/2006/3247), to which there are amendments not relevant to these Regulations.
 
 [^c23942771]: Marginal citation: OJ No. L 95, 7.4.2017, p.1, amended by Commission Delegated Regulation (EU) 2019/478 (OJ No. L 82, 25.3.2019, p.4).
 
-[^key-6fc0459e8fb53e2707e6cd878938c26c]: Commencement: Reg. 21 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-6fc0459e8fb53e2707e6cd878938c26c]: Commencement: Reg. 21 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
 [^c23942781]: Marginal citation: [S.I. 2006/3249](https://www.legislation.gov.uk/uksi/2006/3249), to which there are amendments not relevant to these Regulations.
 
 [^c23942791]: Marginal citation: OJ No. L 95, 7.4.2017, p.1, amended by Commission Delegated Regulation (EU) 2019/478 (OJ No. L 82, 25.3.2019, p.4).
 
-[^key-7cecaad461f6e419726169dc3238e1eb]: Commencement: Reg. 22 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-7cecaad461f6e419726169dc3238e1eb]: Commencement: Reg. 22 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
 [^c23942801]: Marginal citation: [S.I. 2006/3260](https://www.legislation.gov.uk/uksi/2006/3260), to which there are amendments not relevant to these Regulations.
 
-[^key-86608254bdfcf26b7d5c3e60f1adfc58]: Commencement: Reg. 23 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-86608254bdfcf26b7d5c3e60f1adfc58]: Commencement: Reg. 23 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
 [^c23942811]: Marginal citation: [S.I. 2007/2078](https://www.legislation.gov.uk/uksi/2007/2078); the relevant amending instrument is [S.I. 2010/3033](https://www.legislation.gov.uk/uksi/2010/3033). .
 
 [^c23942821]: Marginal citation: OJ No. L 95, 7.4.2017, p.1, amended by Commission Delegated Regulation (EU) 2019/478 (OJ No. L 82, 25.3.2019, p.4).
 
-[^key-ec7dccb1ae70409362c876fdea891651]: Commencement: Reg. 24 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-ec7dccb1ae70409362c876fdea891651]: Commencement: Reg. 24 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
 [^c23942831]: Marginal citation: [S.I. 2007/2785](https://www.legislation.gov.uk/uksi/2007/2785); the relevant amending instruments are [S.I.2018/352](https://www.legislation.gov.uk/uksi/2018/352) and 2019/526.
 
-[^key-77fe2058800d85b3711b307e3f98f064]: Commencement: Reg. 25 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-77fe2058800d85b3711b307e3f98f064]: Commencement: Reg. 25 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
 [^c23942841]: Marginal citation: [S.I. 2009/463](https://www.legislation.gov.uk/uksi/2009/463); to which there are amendments not relevant to these Regulations.
 
 [^c23942851]: Marginal citation: OJ No. L 95, 7.4.2017, p.1, amended by Commission Delegated Regulation (EU) 2019/478 (OJ No. L 82, 25.3.2019, p.4).
 
-[^key-863beede91c0ed314670057470f36ddd]: Commencement: Reg. 26 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-863beede91c0ed314670057470f36ddd]: Commencement: Reg. 26 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
 [^c23942861]: Marginal citation: [S.I. 2011/1197](https://www.legislation.gov.uk/uksi/2011/1197), amended by [S.I. 2012/2897](https://www.legislation.gov.uk/uksi/2012/2897), 2013/2996, 2014/3158, 2018/575 and 1037, 2019/526 and 782.
 
@@ -1497,51 +1497,51 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^c23943001]: Marginal citation: OJ No. L. 317, 4.11.2014, p.35.
 
-[^key-4f89113fc2677b9aca6450697030eb87]: Commencement: Reg. 27 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-4f89113fc2677b9aca6450697030eb87]: Commencement: Reg. 27 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
 [^c23943011]: Marginal citation: [S.I. 2013/2033](https://www.legislation.gov.uk/uksi/2013/2033), to which there are amendments not relevant to these Regulations.
 
 [^c23943021]: Marginal citation: OJ No. L 95, 7.4.2017, p.1, amended by Commission Delegated Regulation (EU) 2019/478 (OJ No. L 82, 25.3.2019, p.4).
 
-[^key-de922e3a64ebb3601d1c8022f18b335f]: Commencement: Reg. 28 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-de922e3a64ebb3601d1c8022f18b335f]: Commencement: Reg. 28 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
 [^c23943031]: Marginal citation: [S.I. 2015/1782](https://www.legislation.gov.uk/uksi/2015/1782), to which there are amendments not relevant to these Regulations.
 
 [^c23943041]: Marginal citation: OJ No. L 95, 7.4.2017, p.1, amended by Commission Delegated Regulation (EU) 2019/478 (OJ No. L 82, 25.3.2019, p.4).
 
-[^key-1e084ac852bd4504d708fa7522af9408]: Commencement: Reg. 29 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-1e084ac852bd4504d708fa7522af9408]: Commencement: Reg. 29 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
 [^c23943051]: Marginal citation: [S.I. 2018/575](https://www.legislation.gov.uk/uksi/2018/575).
 
-[^key-9f132ec4487388f0c63129472bc94af5]: Commencement: Reg. 30 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-9f132ec4487388f0c63129472bc94af5]: Commencement: Reg. 30 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
 [^c23943061]: Marginal citation: [S.I. 2018/1275](https://www.legislation.gov.uk/uksi/2018/1275), to which there are amendments not relevant to these Regulations.
 
-[^key-22298d52be6d9cdc908bff7ec8a7823f]: Commencement: Reg. 31 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-22298d52be6d9cdc908bff7ec8a7823f]: Commencement: Reg. 31 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
 [^c23943071]: Marginal citation: [S.I. 2018/1164](https://www.legislation.gov.uk/uksi/2018/1164).
 
 [^c23943081]: Marginal citation: OJ No. L 95, 7.4.2017, p.1, amended by Commission Delegated Regulation (EU) 2019/478 (OJ No. L 82, 25.3.2019, p.4).
 
-[^key-2c5a6da6382620167668950b7ba28e5a]: Commencement: Reg. 32 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-2c5a6da6382620167668950b7ba28e5a]: Commencement: Reg. 32 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
 [^c23943091]: Marginal citation: [S.I. 2018/731](https://www.legislation.gov.uk/uksi/2018/731), amended by [S.I. 2018/942](https://www.legislation.gov.uk/uksi/2018/942), and 2018/1120.
 
 [^c23943101]: Marginal citation: OJ No. L 95, 7.4.2017, p.1, amended by Commission Delegated Regulation (EU) 2019/478 (OJ No. L 82, 25.3.2019, p.4).
 
-[^key-f01edbe058b72bcb670e39b9ebeded67]: Commencement: Reg. 33 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-f01edbe058b72bcb670e39b9ebeded67]: Commencement: Reg. 33 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
 [^c23943111]: Marginal citation: [S.I. 2004/1404](https://www.legislation.gov.uk/uksi/2004/1404), amended by [S.I. 2005/3480](https://www.legislation.gov.uk/uksi/2005/3480), 2014/609, 2015/382, 2018/286, 2019/1257.
 
-[^key-ff2175968c7d70ede9a6a5d7be9e367b]: Commencement: Reg. 34 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-ff2175968c7d70ede9a6a5d7be9e367b]: Commencement: Reg. 34 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
 [^c23943121]: Marginal citation: [S.I. 2004/1684](https://www.legislation.gov.uk/uksi/2004/1684), amended by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755) (W. 90), 2019/734.
 
-[^key-70fed36e4bc84b8c9992a51b27847080]: Commencement: Reg. 35 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-70fed36e4bc84b8c9992a51b27847080]: Commencement: Reg. 35 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
 [^c23943131]: Marginal citation: [S.I. 2006/2695](https://www.legislation.gov.uk/uksi/2006/2695), amended by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755) (W. 90), 2019/734.
 
-[^key-e25a4de715918388a6b442181ace9b1e]: Commencement: Reg. 36 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-e25a4de715918388a6b442181ace9b1e]: Commencement: Reg. 36 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
 [^c23943141]: Marginal citation: [S.I. 2015/350](https://www.legislation.gov.uk/uksi/2015/350), amended by [S.I. 2019/734](https://www.legislation.gov.uk/uksi/2019/734).
 
@@ -1553,9 +1553,9 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^c23943181]: Marginal citation: OJ No. L 95, 7.4.2017, p.1, amended by Commission Delegated Regulation (EU) 2019/478 (OJ No. L 82, 25.3.2019, p.4).
 
-[^key-12a37f15af932bb8f48cab6db5ab4500]: Commencement: Reg. 37 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-12a37f15af932bb8f48cab6db5ab4500]: Commencement: Reg. 37 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
-[^key-3c2b25cdb3eb4e7f45dc02c52ff662a7]: Commencement: Reg. 38 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-3c2b25cdb3eb4e7f45dc02c52ff662a7]: Commencement: Reg. 38 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
 [^c23943191]: Marginal citation: [S.I. 2018/289](https://www.legislation.gov.uk/uksi/2018/289), amended by [S.I. 2018/510](https://www.legislation.gov.uk/uksi/2018/510), 2019/180, 1257.
 
@@ -1567,10 +1567,10 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^c23943231]: Marginal citation: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23).
 
-[^key-ffd72124c4c3e86c0f9dc0e987554372]: Commencement: Reg. 39 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-ffd72124c4c3e86c0f9dc0e987554372]: Commencement: Reg. 39 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
 [^c23943241]: Marginal citation: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-1313de9ddd7fff651bf129499580dcbd]: Commencement: Reg. 40 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
+[^c-1313de9ddd7fff651bf129499580dcbd]: Commencement: Reg. 40 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1)
 
 [^c23943251]: Marginal citation: [S.I. 2006/3472](https://www.legislation.gov.uk/uksi/2006/3472), amended by [S.I. 2018/575](https://www.legislation.gov.uk/uksi/2018/575).

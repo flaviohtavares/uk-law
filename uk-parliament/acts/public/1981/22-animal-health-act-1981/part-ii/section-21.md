@@ -32,7 +32,7 @@ summary: ''
 
 may, subject to the following provisions of this section, by order provide for the destruction of wild members of that or those species in that area.
 
-(3) Before making an order under this section the Minister shall consult with the appropriate conservation body[^key-f048c578afda6f618e0ab1d32a827888] for the area to which it will apply[^c10345421], and every order so made shall specify—
+(3) Before making an order under this section the Minister shall consult with the appropriate conservation body[^c-f048c578afda6f618e0ab1d32a827888] for the area to which it will apply[^c10345421], and every order so made shall specify—
 
 - (a) the area to which it applies;
 - (b) the disease to which it applies; and
@@ -71,7 +71,7 @@ It shall be the Minister’s duty to ensure that destruction is carried out on a
 (9) In this section and section 22 below—
 
 - “**animals**” includes horses,
-- “[^key-b36d457d34f2876c2a63ca1639f31bb0][^c10345431]**appropriate conservation body**” means Natural England, Scottish Natural Heritage[^c10345451] or the Natural Resources Body for Wales[^key-990cf4249a3a60dca5fdc1d8e016feb9],
+- “[^c-b36d457d34f2876c2a63ca1639f31bb0][^c10345431]**appropriate conservation body**” means Natural England, Scottish Natural Heritage[^c10345451] or the Natural Resources Body for Wales[^c-990cf4249a3a60dca5fdc1d8e016feb9],
 - “**species**” means any species of bird or mammal, except man,
 
 and references to wild members of any species in an area are references to members of the species in the area that are neither domesticated nor held in captivity.
@@ -80,14 +80,14 @@ and references to wild members of any species in an area are references to membe
 
 ## Annotations
 
-[^key-f048c578afda6f618e0ab1d32a827888]: Textual amendment: Words in s. 21(3) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 68(2)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/68/2); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-f048c578afda6f618e0ab1d32a827888]: Textual amendment: Words in s. 21(3) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 68(2)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/68/2); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
 [^c10345421]: Textual amendment: Words in s. 21(3) inserted (1.4.1991) by [Environmental Protection Act 1990 (c. 43, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 132(1)(a)](https://www.legislation.gov.uk/ukpga/1990/43/section/132/1/a), [Sch. 9 para. 10(2)(a)](https://www.legislation.gov.uk/ukpga/1990/43/schedule/9/paragraph/10/2/a); [S.I. 1991/685](https://www.legislation.gov.uk/uksi/1991/685), [art. 3](https://www.legislation.gov.uk/uksi/1991/685/article/3)
 
-[^key-b36d457d34f2876c2a63ca1639f31bb0]: Textual amendment: Words in s. 21(9) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 68(3)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/68/3); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-b36d457d34f2876c2a63ca1639f31bb0]: Textual amendment: Words in s. 21(9) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 68(3)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/68/3); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
 [^c10345431]: Textual amendment: Definition in s. 21(9) inserted (1.4.1991) by [Environmental Protection Act 1990 (c. 43, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 132(1)(a)](https://www.legislation.gov.uk/ukpga/1990/43/section/132/1/a), [Sch. 9 para. 10(2)(b)](https://www.legislation.gov.uk/ukpga/1990/43/schedule/9/paragraph/10/2/b); [S.I. 1991/685](https://www.legislation.gov.uk/uksi/1991/685), [art. 3](https://www.legislation.gov.uk/uksi/1991/685/article/3)
 
 [^c10345451]: Textual amendment: Words in s. 21(9) substituted (1.4.1992) by [Natural Heritage (Scotland) Act 1991 (c. 28, SIF 46:1)](https://www.legislation.gov.uk/ukpga/1991/28), [s. 4](https://www.legislation.gov.uk/ukpga/1991/28/section/4), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/ukpga/1991/28/schedule/2/paragraph/7/2); [S.I. 1991/2633](https://www.legislation.gov.uk/uksi/1991/2633), [art. 4](https://www.legislation.gov.uk/uksi/1991/2633/article/4)
 
-[^key-990cf4249a3a60dca5fdc1d8e016feb9]: Textual amendment: Words in [s. 21(9)](https://www.legislation.gov.uk/ukpga/1981/22/section/21/9) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 180](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/180) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-990cf4249a3a60dca5fdc1d8e016feb9]: Textual amendment: Words in [s. 21(9)](https://www.legislation.gov.uk/ukpga/1981/22/section/21/9) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 180](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/180) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 116. Compensation where agreement or provision is terminated[^key-d19bf9aa151051f6b03006af50349de7][^key-92b97558f024d631823fd8892d17cf17]
+## 116. Compensation where agreement or provision is terminated[^c-d19bf9aa151051f6b03006af50349de7][^c-92b97558f024d631823fd8892d17cf17]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d19bf9aa151051f6b03006af50349de7]: Commencement: S. 116 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-d19bf9aa151051f6b03006af50349de7]: Commencement: S. 116 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-92b97558f024d631823fd8892d17cf17]: Commencement: [S. 116](https://www.legislation.gov.uk/asc/2023/3/section/116) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-92b97558f024d631823fd8892d17cf17]: Commencement: [S. 116](https://www.legislation.gov.uk/asc/2023/3/section/116) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

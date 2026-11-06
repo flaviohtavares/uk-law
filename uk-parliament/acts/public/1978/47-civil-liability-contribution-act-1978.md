@@ -33,13 +33,13 @@ Civil Liability (Contribution) Act 1978
 
 An Act to make new provision for contribution between persons who are jointly or severally, or both jointly and severally, liable for the same damage and in certain other similar cases where two or more persons have paid or may be required to pay compensation for the same damage; and to amend the law relating to proceedings against persons jointly liable for the same debt or jointly or severally, or both jointly and severally, liable for the same damage.
 
-\[31st July 1978\][^c982664][^c982665][^c982666][^c982667][^c982668][^c982669][^key-05d8654174a5be43c27385179c47af33]
+\[31st July 1978\][^c982664][^c982665][^c982666][^c982667][^c982668][^c982669][^c-05d8654174a5be43c27385179c47af33]
 
 ## Proceedings for contribution
 
 *Extent: E+W+N.I.*
 
-### 1. Entitlement to contribution.[^c982671][^c2155717][^key-252150f60ce816d3bbf38e85259bc550][^key-68ae7fd6222ac6e97dffc193d22ae216][^c982670]
+### 1. Entitlement to contribution.[^c982671][^c2155717][^c-252150f60ce816d3bbf38e85259bc550][^c-68ae7fd6222ac6e97dffc193d22ae216][^c982670]
 
 (1) Subject to the following provisions of this section, any person liable in respect of any damage suffered by another person may recover contribution from any other person liable in respect of the same damage (whether jointly with him or otherwise).
 
@@ -55,7 +55,7 @@ An Act to make new provision for contribution between persons who are jointly or
 
 ### 2. Assessment of contribution.[^c2156112]
 
-(1)[^key-19675d445f6d660e210dac8e85db4cfc][^key-7f4e8b4b44ffc6e0d02e7bab251a311e] Subject to subsection (3) below, in any proceedings for contribution under section 1 above the amount of the contribution recoverable from any person shall be such as may be found by the court to be just and equitable having regard to the extent of that person’s responsibility for the damage in question.
+(1)[^c-19675d445f6d660e210dac8e85db4cfc][^c-7f4e8b4b44ffc6e0d02e7bab251a311e] Subject to subsection (3) below, in any proceedings for contribution under section 1 above the amount of the contribution recoverable from any person shall be such as may be found by the court to be just and equitable having regard to the extent of that person’s responsibility for the damage in question.
 
 (2) Subject to subsection (3) below, the court shall have power in any such proceedings to exempt any person from liability to make contribution, or to direct that the contribution to be recovered from any person shall amount to a complete indemnity.
 
@@ -230,23 +230,23 @@ Section 9(2).
 
 [^c982669]: Modification: Act modified (2.10.2000) by [1998 c. 42](https://www.legislation.gov.uk/ukpga/1998/42), [s. 8(5)(b)](https://www.legislation.gov.uk/ukpga/1998/42/section/8/5/b) (with [ss. 7(8)](https://www.legislation.gov.uk/ukpga/1998/42/section/7/8), [22(5)](https://www.legislation.gov.uk/ukpga/1998/42/section/22/5)); [S.I. 2000/1851](https://www.legislation.gov.uk/uksi/2000/1851), [art. 2](https://www.legislation.gov.uk/uksi/2000/1851/article/2)
 
-[^key-05d8654174a5be43c27385179c47af33]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1978/47) excluded (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [ss. 6(5)](https://www.legislation.gov.uk/ukpga/2018/18/section/6/5), [21](https://www.legislation.gov.uk/ukpga/2018/18/section/21); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/a)
+[^c-05d8654174a5be43c27385179c47af33]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1978/47) excluded (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [ss. 6(5)](https://www.legislation.gov.uk/ukpga/2018/18/section/6/5), [21](https://www.legislation.gov.uk/ukpga/2018/18/section/21); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/a)
 
 [^c982671]: Modification: S. 1 restricted by [S.I. 1989/1339 (N.I. 11)](https://www.legislation.gov.uk/nisi/1989/1339), [arts. 13(1)](https://www.legislation.gov.uk/nisi/1989/1339/article/13/1), [76](https://www.legislation.gov.uk/nisi/1989/1339/article/76), [Sch. 2 paras. 1](https://www.legislation.gov.uk/nisi/1989/1339/schedule/2/paragraph/1), [6](https://www.legislation.gov.uk/nisi/1989/1339/schedule/2/paragraph/6), [7](https://www.legislation.gov.uk/nisi/1989/1339/schedule/2/paragraph/7)
 
 [^c2155717]: Modification: S. 1 excluded (E.W.) (25.6.2010) by [The Rail Passengers' Rights and Obligations Regulations 2010 (S.I. 2010/1504)](https://www.legislation.gov.uk/uksi/2010/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1504/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2010/1504/regulation/5/1)
 
-[^key-252150f60ce816d3bbf38e85259bc550]: Modification: S. 1 excluded (25.4.2013 coming into force in accordance with s. 61(7)) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 38(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/38/3), [61(7)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/7)
+[^c-252150f60ce816d3bbf38e85259bc550]: Modification: S. 1 excluded (25.4.2013 coming into force in accordance with s. 61(7)) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 38(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/38/3), [61(7)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/7)
 
-[^key-68ae7fd6222ac6e97dffc193d22ae216]: Modification: S. 1 applied by Competition Act 1998 (c. 41), Sch. 8A para. 41(3)(a) (as inserted (9.3.2017) by [S.I. 2017/385](https://www.legislation.gov.uk/uksi/2017/385), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/385/regulation/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2017/385/schedule/1/paragraph/4) (with [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2017/385/schedule/1/paragraph/5)))
+[^c-68ae7fd6222ac6e97dffc193d22ae216]: Modification: S. 1 applied by Competition Act 1998 (c. 41), Sch. 8A para. 41(3)(a) (as inserted (9.3.2017) by [S.I. 2017/385](https://www.legislation.gov.uk/uksi/2017/385), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/385/regulation/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2017/385/schedule/1/paragraph/4) (with [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2017/385/schedule/1/paragraph/5)))
 
 [^c982670]: Modification: S. 1 amended by [Limitation Act 1980 (c.58, SIF 79)](https://www.legislation.gov.uk/ukpga/1980/58), [s. 10](https://www.legislation.gov.uk/ukpga/1980/58/section/10)
 
 [^c2156112]: Modification: S. 2 excluded (E.W.) (25.6.2010) by [The Rail Passengers' Rights and Obligations Regulations 2010 (S.I. 2010/1504)](https://www.legislation.gov.uk/uksi/2010/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1504/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2010/1504/regulation/5/1)
 
-[^key-19675d445f6d660e210dac8e85db4cfc]: Modification: S. 2(1) modified by Competition Act 1998 (c. 41), Sch. 8A paras. 16(3), 38(4) (as inserted (9.3.2017) by [S.I. 2017/385](https://www.legislation.gov.uk/uksi/2017/385), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/385/regulation/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2017/385/schedule/1/paragraph/4) (with [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2017/385/schedule/1/paragraph/5)))
+[^c-19675d445f6d660e210dac8e85db4cfc]: Modification: S. 2(1) modified by Competition Act 1998 (c. 41), Sch. 8A paras. 16(3), 38(4) (as inserted (9.3.2017) by [S.I. 2017/385](https://www.legislation.gov.uk/uksi/2017/385), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/385/regulation/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2017/385/schedule/1/paragraph/4) (with [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2017/385/schedule/1/paragraph/5)))
 
-[^key-7f4e8b4b44ffc6e0d02e7bab251a311e]: Modification: S. 2(1) applied by Competition Act 1998 (c. 41), Sch. 8A para. 38(4)(a) (as inserted (9.3.2017) by [S.I. 2017/385](https://www.legislation.gov.uk/uksi/2017/385), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/385/regulation/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2017/385/schedule/1/paragraph/4) (with [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2017/385/schedule/1/paragraph/5)))
+[^c-7f4e8b4b44ffc6e0d02e7bab251a311e]: Modification: S. 2(1) applied by Competition Act 1998 (c. 41), Sch. 8A para. 38(4)(a) (as inserted (9.3.2017) by [S.I. 2017/385](https://www.legislation.gov.uk/uksi/2017/385), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/385/regulation/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2017/385/schedule/1/paragraph/4) (with [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2017/385/schedule/1/paragraph/5)))
 
 [^c982672]: Marginal citation: [1945 c. 28](https://www.legislation.gov.uk/ukpga/1945/28).
 

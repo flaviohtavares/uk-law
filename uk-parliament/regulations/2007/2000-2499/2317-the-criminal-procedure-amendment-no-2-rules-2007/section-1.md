@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation, commencement and interpretation[^key-d1aea7b4889aab0b31be117a08bc95ac]
+## 1. Citation, commencement and interpretation[^c-d1aea7b4889aab0b31be117a08bc95ac]
 
 *Extent: E+W*
 
@@ -24,12 +24,12 @@ summary: ''
 
 These Rules may be cited as the Criminal Procedure (Amendment No. 2) Rules 2007 and shall come into force on 1st October 2007.
 
-**2.**[^key-36202dfd67401bac1038d8c9a545899d] In these Rules, a reference to a Part or rule by number alone means the Part or rule so numbered in the Criminal Procedure Rules 2005[^f00002].
+**2.**[^c-36202dfd67401bac1038d8c9a545899d] In these Rules, a reference to a Part or rule by number alone means the Part or rule so numbered in the Criminal Procedure Rules 2005[^f00002].
 
 ## Annotations
 
-[^key-d1aea7b4889aab0b31be117a08bc95ac]: Commencement: Rule 1 in force at 1.10.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/2317/rule/1)
+[^c-d1aea7b4889aab0b31be117a08bc95ac]: Commencement: Rule 1 in force at 1.10.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/2317/rule/1)
 
-[^key-36202dfd67401bac1038d8c9a545899d]: Commencement: Rule 2 in force at 1.10.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/2317/rule/1)
+[^c-36202dfd67401bac1038d8c9a545899d]: Commencement: Rule 2 in force at 1.10.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/2317/rule/1)
 
 [^f00002]: Footnote: S.I. [2005/384](https://www.legislation.gov.uk/uksi/2005/384); amended by S.I. [2006/353](https://www.legislation.gov.uk/uksi/2006/353), [2006/2636](https://www.legislation.gov.uk/uksi/2006/2636), [2007/699](https://www.legislation.gov.uk/uksi/2007/699).

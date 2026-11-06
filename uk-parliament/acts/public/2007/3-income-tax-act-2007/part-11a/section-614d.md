@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 614D. Pre-26 November 1996 schemes and post-25 November 1996 schemes[^key-584e0674b5790fd4b4301297f7148901]
+## 614D. Pre-26 November 1996 schemes and post-25 November 1996 schemes[^c-584e0674b5790fd4b4301297f7148901]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-584e0674b5790fd4b4301297f7148901]: Textual amendment: Pt. 11A Ch. 4 inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2010/8/schedule/3/paragraph/5) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-584e0674b5790fd4b4301297f7148901]: Textual amendment: Pt. 11A Ch. 4 inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2010/8/schedule/3/paragraph/5) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

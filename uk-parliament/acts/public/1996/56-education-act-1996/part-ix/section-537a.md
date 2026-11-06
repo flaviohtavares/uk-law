@@ -23,10 +23,10 @@ summary: ''
 (1) Regulations may make provision requiring—
 
 - (a) the governing body of every school which is—
-  - (i) maintained by a local authority[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41], or
+  - (i) maintained by a local authority[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41], or
   - (ii) a special school which is not maintained by such an authority, and
 - (b) the proprietor of every
-  - (i)[^key-979b557b61164d171089af09838b0aa6] independent school, or[^key-6c2cfd43e68369e8d3d8bf388a32f02c]
+  - (i)[^c-979b557b61164d171089af09838b0aa6] independent school, or[^c-6c2cfd43e68369e8d3d8bf388a32f02c]
   - (ii) alternative provision Academy that is not an independent school,
 
 to provide to the relevant person such individual pupil information as may be prescribed.
@@ -76,8 +76,8 @@ to provide to the relevant person such individual pupil information as may be pr
 
 [^c15253371]: Textual amendment: S. 537A substituted (20.11.1998 with savings as mentioned in art. 5 of the [S.I. 1998/2791](https://www.legislation.gov.uk/uksi/1998/2791)) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(1)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1), [Sch. 30 para.153](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/153) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1998/2791](https://www.legislation.gov.uk/uksi/1998/2791), [arts.3](https://www.legislation.gov.uk/uksi/1998/2791/article/3), [5](https://www.legislation.gov.uk/uksi/1998/2791/article/5)
 
-[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
 
-[^key-979b557b61164d171089af09838b0aa6]: Textual amendment: Words in s. 537A(1)(b) renumbered as s. 537A(1)(b)(i) (1.4.2012) by [The Alternative Provision Academies (Consequential Amendments to Acts) (England) Order 2012 (S.I. 2012/976)](https://www.legislation.gov.uk/uksi/2012/976), [art. 1](https://www.legislation.gov.uk/uksi/2012/976/article/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2012/976/schedule/paragraph/7) (with [art. 3](https://www.legislation.gov.uk/uksi/2012/976/article/3))
+[^c-979b557b61164d171089af09838b0aa6]: Textual amendment: Words in s. 537A(1)(b) renumbered as s. 537A(1)(b)(i) (1.4.2012) by [The Alternative Provision Academies (Consequential Amendments to Acts) (England) Order 2012 (S.I. 2012/976)](https://www.legislation.gov.uk/uksi/2012/976), [art. 1](https://www.legislation.gov.uk/uksi/2012/976/article/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2012/976/schedule/paragraph/7) (with [art. 3](https://www.legislation.gov.uk/uksi/2012/976/article/3))
 
-[^key-6c2cfd43e68369e8d3d8bf388a32f02c]: Textual amendment: S. 537A(1)(b)(ii) and word inserted (1.4.2012) by [The Alternative Provision Academies (Consequential Amendments to Acts) (England) Order 2012 (S.I. 2012/976)](https://www.legislation.gov.uk/uksi/2012/976), [art. 1](https://www.legislation.gov.uk/uksi/2012/976/article/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2012/976/schedule/paragraph/7) (with [art. 3](https://www.legislation.gov.uk/uksi/2012/976/article/3))
+[^c-6c2cfd43e68369e8d3d8bf388a32f02c]: Textual amendment: S. 537A(1)(b)(ii) and word inserted (1.4.2012) by [The Alternative Provision Academies (Consequential Amendments to Acts) (England) Order 2012 (S.I. 2012/976)](https://www.legislation.gov.uk/uksi/2012/976), [art. 1](https://www.legislation.gov.uk/uksi/2012/976/article/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2012/976/schedule/paragraph/7) (with [art. 3](https://www.legislation.gov.uk/uksi/2012/976/article/3))

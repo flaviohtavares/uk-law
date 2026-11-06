@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Supply[^key-34cf43c75eac359889edf094ba001afb]
+## 10. Supply[^c-34cf43c75eac359889edf094ba001afb]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34cf43c75eac359889edf094ba001afb]: Commencement: Reg. 10 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-34cf43c75eac359889edf094ba001afb]: Commencement: Reg. 10 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

@@ -47,11 +47,11 @@ Coming into force
 
 The Minister of Agriculture, Fisheries and Food, being designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community, in exercise of the powers conferred on him by that section, and of all other powers enabling him in that behalf, makes the following Regulations:
 
-## 1. Title, extent and commencement[^key-dc4a849649e2b95323da9691c003a94f]
+## 1. Title, extent and commencement[^c-dc4a849649e2b95323da9691c003a94f]
 
 These Regulations may be cited as the Foot-and-Mouth Disease (Export of Vehicles) (Disinfection of Tyres) (Amendment) (No. 3) Regulations 2001; they extend to the United Kingdom and shall come into force at 11.45 p.m. on 19th April 2001.
 
-## 2. Amendment to the Foot-and-Mouth Disease (Export of Vehicles) (Disinfection of Tyres) Regulations 2001[^key-e2b697c0492cd6ce8b461cec03a03ff0]
+## 2. Amendment to the Foot-and-Mouth Disease (Export of Vehicles) (Disinfection of Tyres) Regulations 2001[^c-e2b697c0492cd6ce8b461cec03a03ff0]
 
 (1) In regulation 1(2) of the Foot-and-Mouth Disease (Export of Vehicles) (Disinfection of Tyres) Regulations 2001[^f00003] for the words “19th April 2001” there shall be substituted the words “18th May 2001”.
 
@@ -79,9 +79,9 @@ The effect of the Regulations is to extend the time that the Foot-and-Mouth Dise
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). See section 57(1) of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) as respects the continued exercisability of the functions by the Minister for the purpose of implementing any Community obligation of the United Kingdom.
 
-[^key-dc4a849649e2b95323da9691c003a94f]: Commencement: Reg. 1 in force at 19.4.2001 at 11.45 p.m., see [reg. 1](https://www.legislation.gov.uk/uksi/2001/1499/regulation/1)
+[^c-dc4a849649e2b95323da9691c003a94f]: Commencement: Reg. 1 in force at 19.4.2001 at 11.45 p.m., see [reg. 1](https://www.legislation.gov.uk/uksi/2001/1499/regulation/1)
 
-[^key-e2b697c0492cd6ce8b461cec03a03ff0]: Commencement: Reg. 2 in force at 19.4.2001 at 11.45 p.m., see [reg. 1](https://www.legislation.gov.uk/uksi/2001/1499/regulation/1)
+[^c-e2b697c0492cd6ce8b461cec03a03ff0]: Commencement: Reg. 2 in force at 19.4.2001 at 11.45 p.m., see [reg. 1](https://www.legislation.gov.uk/uksi/2001/1499/regulation/1)
 
 [^f00003]: Footnote: S.I. [2001/887](https://www.legislation.gov.uk/uksi/2001/887), as last amended by S.I. [2001/1352](https://www.legislation.gov.uk/uksi/2001/1352).
 

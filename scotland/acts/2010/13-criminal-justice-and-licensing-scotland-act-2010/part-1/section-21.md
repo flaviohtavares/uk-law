@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Detention of children convicted on indictment[^key-a66cf599b1d7f48ec262cbd558eaa389]
+## 21. Detention of children convicted on indictment[^c-a66cf599b1d7f48ec262cbd558eaa389]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a66cf599b1d7f48ec262cbd558eaa389]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2010/13/section/21) in force at 1.2.2011 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
+[^c-a66cf599b1d7f48ec262cbd558eaa389]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2010/13/section/21) in force at 1.2.2011 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))

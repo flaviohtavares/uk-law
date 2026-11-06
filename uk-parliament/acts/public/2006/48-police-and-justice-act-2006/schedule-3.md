@@ -24,7 +24,7 @@ Section 5
 
 ### Introduction
 
-**1.**[^key-45479b87f74f17cb5dffffbfa41396e6] In this Schedule—
+**1.**[^c-45479b87f74f17cb5dffffbfa41396e6] In this Schedule—
 
 - “**the 1976 Act**” means the Police Pensions Act 1976 (c. 35);
 - “**1976 Act scheme**” means a pension scheme established by regulations under section 1 of the 1976 Act (pensions for police in Great Britain);
@@ -37,7 +37,7 @@ Section 5
 
 ### Power to merge police pension schemes
 
-**2.**[^key-3ac81b38172ca457ba0d4eabc7269fcd] (1) Regulations may—
+**2.**[^c-3ac81b38172ca457ba0d4eabc7269fcd] (1) Regulations may—
 
 - (a) revoke those provisions of the police pensions regulations that apply to persons who became members of a police pension scheme before 6th April 2006, and
 - (b) make equivalent provision establishing a single pension scheme for the benefit of those persons.
@@ -51,11 +51,11 @@ Section 5
 
 ### Exercise of power to establish merged scheme
 
-**3.**[^key-f4c1c3b90dfaa05a09523f382982e4be] (1) This paragraph applies to the first regulations under this Schedule.
+**3.**[^c-f4c1c3b90dfaa05a09523f382982e4be] (1) This paragraph applies to the first regulations under this Schedule.
 
 (2) The power to make the regulations is exercisable by the Secretary of State with the consent of the Treasury.
 
-(3)[^key-b7e25688ffb4cd7af48837206d0bc045] The Secretary of State shall—
+(3)[^c-b7e25688ffb4cd7af48837206d0bc045] The Secretary of State shall—
 
 - (a) consult with the Police Advisory Board for England and Wales before exercising the power as regards England and Wales;
 - (b) consult with the Police Negotiating Board for Scotland before exercising the power as regards Scotland;
@@ -65,7 +65,7 @@ Section 5
 
 ### Exercise of power to amend merged scheme
 
-**4.**[^key-09a7d494091df6d73c0bd47f5d0b07d6] (1) The power to make amending regulations is exercisable as if—
+**4.**[^c-09a7d494091df6d73c0bd47f5d0b07d6] (1) The power to make amending regulations is exercisable as if—
 
 - (a) any provision of the 1976 Act applying to regulations under section 1 of that Act,
 - (b) any provision of Northern Ireland legislation applying to regulations under section 25(2)(k) of the 1998 Act, and
@@ -77,7 +77,7 @@ applied also to the amending regulations.
 
 ### Application of provisions of other Acts
 
-**5.**[^key-781ef0ff54674f442b18c6f017faad2a] (1) The provisions of—
+**5.**[^c-781ef0ff54674f442b18c6f017faad2a] (1) The provisions of—
 
 - (a) section 8A of the 1976 Act (information in connection with police pensions etc),
 - (b) section 9 of that Act (assignment etc of pension to be void), and
@@ -89,7 +89,7 @@ apply to regulations under this Schedule, so far as relating to persons who are 
 
 ### Transitional provision
 
-**6.**[^key-fdd88d110833fb4e8dd6c6dd8b6d0584] A reference, however expressed, in any document (including an enactment) to—
+**6.**[^c-fdd88d110833fb4e8dd6c6dd8b6d0584] A reference, however expressed, in any document (including an enactment) to—
 
 - (a) regulations under section 1 of the 1976 Act,
 - (b) regulations under section 25(2)(k) of the 1998 Act, or
@@ -99,22 +99,22 @@ is to be read, where the context allows, as including a reference to regulations
 
 ### Continuity of schemes for tax purposes
 
-**7.**[^key-2a0b14f5ae492f4bd46f474f74460a25] A pension scheme established under this Schedule is to be regarded for the purposes of Part 4 of the Finance Act 2004 (c. 12) (taxation of pension schemes etc) as a continuation of each police pension scheme that it replaces, and not as a different scheme.
+**7.**[^c-2a0b14f5ae492f4bd46f474f74460a25] A pension scheme established under this Schedule is to be regarded for the purposes of Part 4 of the Finance Act 2004 (c. 12) (taxation of pension schemes etc) as a continuation of each police pension scheme that it replaces, and not as a different scheme.
 
 ## Annotations
 
-[^key-45479b87f74f17cb5dffffbfa41396e6]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2006/48/schedule/3/paragraph/1) in force at 31.12.2007 by [S.I. 2007/3203](https://www.legislation.gov.uk/uksi/2007/3203), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3203/article/3/b)
+[^c-45479b87f74f17cb5dffffbfa41396e6]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2006/48/schedule/3/paragraph/1) in force at 31.12.2007 by [S.I. 2007/3203](https://www.legislation.gov.uk/uksi/2007/3203), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3203/article/3/b)
 
-[^key-3ac81b38172ca457ba0d4eabc7269fcd]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2006/48/schedule/3/paragraph/2) in force at 31.12.2007 by [S.I. 2007/3203](https://www.legislation.gov.uk/uksi/2007/3203), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3203/article/3/b)
+[^c-3ac81b38172ca457ba0d4eabc7269fcd]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2006/48/schedule/3/paragraph/2) in force at 31.12.2007 by [S.I. 2007/3203](https://www.legislation.gov.uk/uksi/2007/3203), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3203/article/3/b)
 
-[^key-f4c1c3b90dfaa05a09523f382982e4be]: Commencement: Sch. 3 para. 3 in force at 31.12.2007 by [S.I. 2007/3203](https://www.legislation.gov.uk/uksi/2007/3203), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3203/article/3/b)
+[^c-f4c1c3b90dfaa05a09523f382982e4be]: Commencement: Sch. 3 para. 3 in force at 31.12.2007 by [S.I. 2007/3203](https://www.legislation.gov.uk/uksi/2007/3203), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3203/article/3/b)
 
-[^key-b7e25688ffb4cd7af48837206d0bc045]: Textual amendment: [Sch. 3 para. 3(3)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/3/paragraph/3/3) substituted (1.9.2014 for E.W.N.I., 17.8.2023 for S.) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 133(5)](https://www.legislation.gov.uk/ukpga/2014/12/section/133/5), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2125](https://www.legislation.gov.uk/uksi/2014/2125), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2125/article/4/b); [S.I. 2023/829](https://www.legislation.gov.uk/uksi/2023/829), [art. 2(b)](https://www.legislation.gov.uk/uksi/2023/829/article/2/b)
+[^c-b7e25688ffb4cd7af48837206d0bc045]: Textual amendment: [Sch. 3 para. 3(3)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/3/paragraph/3/3) substituted (1.9.2014 for E.W.N.I., 17.8.2023 for S.) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 133(5)](https://www.legislation.gov.uk/ukpga/2014/12/section/133/5), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2125](https://www.legislation.gov.uk/uksi/2014/2125), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2125/article/4/b); [S.I. 2023/829](https://www.legislation.gov.uk/uksi/2023/829), [art. 2(b)](https://www.legislation.gov.uk/uksi/2023/829/article/2/b)
 
-[^key-09a7d494091df6d73c0bd47f5d0b07d6]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2006/48/schedule/3/paragraph/4) in force at 31.12.2007 by [S.I. 2007/3203](https://www.legislation.gov.uk/uksi/2007/3203), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3203/article/3/b)
+[^c-09a7d494091df6d73c0bd47f5d0b07d6]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2006/48/schedule/3/paragraph/4) in force at 31.12.2007 by [S.I. 2007/3203](https://www.legislation.gov.uk/uksi/2007/3203), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3203/article/3/b)
 
-[^key-781ef0ff54674f442b18c6f017faad2a]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2006/48/schedule/3/paragraph/5) in force at 31.12.2007 by [S.I. 2007/3203](https://www.legislation.gov.uk/uksi/2007/3203), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3203/article/3/b)
+[^c-781ef0ff54674f442b18c6f017faad2a]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2006/48/schedule/3/paragraph/5) in force at 31.12.2007 by [S.I. 2007/3203](https://www.legislation.gov.uk/uksi/2007/3203), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3203/article/3/b)
 
-[^key-fdd88d110833fb4e8dd6c6dd8b6d0584]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2006/48/schedule/3/paragraph/6) in force at 31.12.2007 by [S.I. 2007/3203](https://www.legislation.gov.uk/uksi/2007/3203), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3203/article/3/b)
+[^c-fdd88d110833fb4e8dd6c6dd8b6d0584]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2006/48/schedule/3/paragraph/6) in force at 31.12.2007 by [S.I. 2007/3203](https://www.legislation.gov.uk/uksi/2007/3203), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3203/article/3/b)
 
-[^key-2a0b14f5ae492f4bd46f474f74460a25]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2006/48/schedule/3/paragraph/7) in force at 31.12.2007 by [S.I. 2007/3203](https://www.legislation.gov.uk/uksi/2007/3203), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3203/article/3/b)
+[^c-2a0b14f5ae492f4bd46f474f74460a25]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2006/48/schedule/3/paragraph/7) in force at 31.12.2007 by [S.I. 2007/3203](https://www.legislation.gov.uk/uksi/2007/3203), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3203/article/3/b)

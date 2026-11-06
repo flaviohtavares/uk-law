@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Person at a disadvantage in getting a job[^key-228f77c7b5fe6d1e8f6e903307fe20aa]
+## 3. Person at a disadvantage in getting a job[^c-228f77c7b5fe6d1e8f6e903307fe20aa]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-228f77c7b5fe6d1e8f6e903307fe20aa]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1991/2887/regulation/3) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
+[^c-228f77c7b5fe6d1e8f6e903307fe20aa]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1991/2887/regulation/3) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
 
 [^f00015]: Footnote: Section 27B was inserted in the Act by section 7(1) of the Disability Living Allowance and Disability Working Allowance Act [1991 (c. 21)](https://www.legislation.gov.uk/ukpga/1991/21).

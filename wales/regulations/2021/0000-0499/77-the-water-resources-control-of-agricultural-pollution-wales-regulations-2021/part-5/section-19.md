@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Exemptions: crops sown before 15 September[^key-41ea454cc67c5d0218073933ff2aa5af]
+## 19. Exemptions: crops sown before 15 September[^c-41ea454cc67c5d0218073933ff2aa5af]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Spreading organic manure with high readily available nitrogen on tillage land wi
 
 ## Annotations
 
-[^key-41ea454cc67c5d0218073933ff2aa5af]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2021/77/regulation/19) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-41ea454cc67c5d0218073933ff2aa5af]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2021/77/regulation/19) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)

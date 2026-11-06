@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 310. Income payments orders.[^c15579561][^c15579571][^c15579581][^key-4145f209f4dc4a13bc0b52468f9e1ab8]
+## 310. Income payments orders.[^c15579561][^c15579571][^c15579581][^c-4145f209f4dc4a13bc0b52468f9e1ab8]
 
 *Extent: E+W*
 
@@ -49,10 +49,10 @@ summary: ''
 
 (8) This subsection applies to—
 
-- (a) payments by way of guaranteed minimum pension; [^key-a096de1a4ee02aae53589d099aed82e2]...
-- (b)[^key-a096de1a4ee02aae53589d099aed82e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) payments by way of guaranteed minimum pension; [^c-a096de1a4ee02aae53589d099aed82e2]...
+- (b)[^c-a096de1a4ee02aae53589d099aed82e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9) In this section, “**guaranteed minimum pension**” has[^key-08a4af40c92781c1b31c3d7a1b8a6eda] the same meaning as in the Pension Schemes Act 1993.
+(9) In this section, “**guaranteed minimum pension**” has[^c-08a4af40c92781c1b31c3d7a1b8a6eda] the same meaning as in the Pension Schemes Act 1993.
 
 ## Annotations
 
@@ -66,7 +66,7 @@ summary: ''
 
     S. 310 restricted (1.3.2005) by [The Education (Student Support) Regulations 2005 (S.I. 2005/52)](https://www.legislation.gov.uk/uksi/2005/52), [reg. 28(1)](https://www.legislation.gov.uk/uksi/2005/52/regulation/28/1) (with [reg. 3(6)-(9)](https://www.legislation.gov.uk/uksi/2005/52/regulation/3/6))
 
-[^key-4145f209f4dc4a13bc0b52468f9e1ab8]: Modification: S. 310 excluded (16.6.2016) by [The Education (Postgraduate Masters Degree Loans) Regulations 2016 (S.I. 2016/606)](https://www.legislation.gov.uk/uksi/2016/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/606/regulation/1/1), [97(1)(a)](https://www.legislation.gov.uk/uksi/2016/606/regulation/97/1/a)
+[^c-4145f209f4dc4a13bc0b52468f9e1ab8]: Modification: S. 310 excluded (16.6.2016) by [The Education (Postgraduate Masters Degree Loans) Regulations 2016 (S.I. 2016/606)](https://www.legislation.gov.uk/uksi/2016/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/606/regulation/1/1), [97(1)(a)](https://www.legislation.gov.uk/uksi/2016/606/regulation/97/1/a)
 
 [^c18630651]: Textual amendment: Words in s. 310(1) repealed (1.4.2004) by [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40), [ss. 259(2)](https://www.legislation.gov.uk/ukpga/2002/40/section/259/2), [278](https://www.legislation.gov.uk/ukpga/2002/40/section/278), [279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26) (with [s. 249(6)](https://www.legislation.gov.uk/ukpga/2002/40/section/249/6)); [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2093/schedule/2) (subject to [arts. 3-8](https://www.legislation.gov.uk/uksi/2003/2093/article/3) (as amended by [S.I. 2003/2332](https://www.legislation.gov.uk/uksi/2003/2332), [art. 2](https://www.legislation.gov.uk/uksi/2003/2332/article/2)))
 
@@ -80,6 +80,6 @@ summary: ''
 
 [^c15579641]: Textual amendment: Words in s. 310(7) inserted (11.11.1999 for the purpose only of any exercise of power to make regulations, otherwise 29.5.2000) by [1999 c. 30](https://www.legislation.gov.uk/ukpga/1999/30), [ss. 18](https://www.legislation.gov.uk/ukpga/1999/30/section/18), [89(5)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/5), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/1999/30/schedule/2/paragraph/2); [S.I. 2000/1382](https://www.legislation.gov.uk/uksi/2000/1382), [art. 2(e)](https://www.legislation.gov.uk/uksi/2000/1382/article/2/e)
 
-[^key-a096de1a4ee02aae53589d099aed82e2]: Textual amendment: S. 310(8)(b) and word omitted (6.4.2012) by S.I. 2011/1730, art. 3(2) (as substituted) by virtue of [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) (Amendment) Order 2012 (S.I. 2012/709)](https://www.legislation.gov.uk/uksi/2012/709), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/709/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2012/709/article/2/2)
+[^c-a096de1a4ee02aae53589d099aed82e2]: Textual amendment: S. 310(8)(b) and word omitted (6.4.2012) by S.I. 2011/1730, art. 3(2) (as substituted) by virtue of [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) (Amendment) Order 2012 (S.I. 2012/709)](https://www.legislation.gov.uk/uksi/2012/709), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/709/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2012/709/article/2/2)
 
-[^key-08a4af40c92781c1b31c3d7a1b8a6eda]: Textual amendment: Word in s. 310(9) substituted (6.4.2012) by S.I. 2011/1730, art. 3(3) (as substituted) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) (Amendment) Order 2012 (S.I. 2012/709)](https://www.legislation.gov.uk/uksi/2012/709), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/709/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2012/709/article/2/2)
+[^c-08a4af40c92781c1b31c3d7a1b8a6eda]: Textual amendment: Word in s. 310(9) substituted (6.4.2012) by S.I. 2011/1730, art. 3(3) (as substituted) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) (Amendment) Order 2012 (S.I. 2012/709)](https://www.legislation.gov.uk/uksi/2012/709), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/709/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2012/709/article/2/2)

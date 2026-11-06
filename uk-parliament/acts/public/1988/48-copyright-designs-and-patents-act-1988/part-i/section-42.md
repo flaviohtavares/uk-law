@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Copying by librarians etc : replacement copies of works[^key-532e1737b1c459429b996d12db92defb]
+## 42. Copying by librarians etc : replacement copies of works[^c-532e1737b1c459429b996d12db92defb]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ provided that the conditions in subsections (2) and (3) are met.
 
 ## Annotations
 
-[^key-532e1737b1c459429b996d12db92defb]: Textual amendment: Ss. 41-43A substituted (1.6.2014) for ss. 41-43 by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2014/1372/regulation/5/2)
+[^c-532e1737b1c459429b996d12db92defb]: Textual amendment: Ss. 41-43A substituted (1.6.2014) for ss. 41-43 by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2014/1372/regulation/5/2)

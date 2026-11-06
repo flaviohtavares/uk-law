@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 242. Time limits and treatment of financial penalties[^M_I_faec6cea-b48a-4a05-8291-674f60af9326][^key-4c1d731b08f1b2b908f2714ae3965167][^key-1a98efc255cb5bd1b7efea06e025d38b]
+## 242. Time limits and treatment of financial penalties[^M_I_faec6cea-b48a-4a05-8291-674f60af9326][^c-4c1d731b08f1b2b908f2714ae3965167][^c-1a98efc255cb5bd1b7efea06e025d38b]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 [^M_I_faec6cea-b48a-4a05-8291-674f60af9326]: Commencement: S. 242 not in force at Royal Assent, see [s. 249(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/249/2)
 
-[^key-4c1d731b08f1b2b908f2714ae3965167]: Commencement: [S. 242](https://www.legislation.gov.uk/ukpga/2026/11/section/242) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
+[^c-4c1d731b08f1b2b908f2714ae3965167]: Commencement: [S. 242](https://www.legislation.gov.uk/ukpga/2026/11/section/242) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
-[^key-1a98efc255cb5bd1b7efea06e025d38b]: Commencement: [S. 242](https://www.legislation.gov.uk/ukpga/2026/11/section/242) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+[^c-1a98efc255cb5bd1b7efea06e025d38b]: Commencement: [S. 242](https://www.legislation.gov.uk/ukpga/2026/11/section/242) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

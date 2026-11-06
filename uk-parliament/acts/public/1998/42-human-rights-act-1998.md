@@ -33,7 +33,7 @@ Human Rights Act 1998
 
 \[9th November 1998\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-e4d68d195dffd8b4be37add4ee6fba0d][^key-d6f823acbf266c19eb374e367f553fc7]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-e4d68d195dffd8b4be37add4ee6fba0d][^c-d6f823acbf266c19eb374e367f553fc7]
 
 ## Introduction
 
@@ -60,7 +60,7 @@ as read with Articles 16 to 18 of the Convention.
 
 (6) No amendment may be made by an order under subsection (4) so as to come into force before the protocol concerned is in force in relation to the United Kingdom.
 
-### 2. Interpretation of Convention rights.[^key-6c0128e7ff053d6dcd2ff1feb5aaf37e]
+### 2. Interpretation of Convention rights.[^c-6c0128e7ff053d6dcd2ff1feb5aaf37e]
 
 (1) A court or tribunal determining a question which has arisen in connection with a Convention right must take into account any—
 
@@ -83,7 +83,7 @@ whenever made or given, so far as, in the opinion of the court or tribunal, it i
 
 ## Legislation
 
-### 3. Interpretation of legislation.[^key-e4c8df322b4d9d82d28ff86846218ef8]
+### 3. Interpretation of legislation.[^c-e4c8df322b4d9d82d28ff86846218ef8]
 
 (1) So far as it is possible to do so, primary legislation and subordinate legislation must be read and given effect in a way which is compatible with the Convention rights.
 
@@ -115,7 +115,7 @@ it may make a declaration of that incompatibility.
 - (c) the Court Martial Appeal Court[^c18858762];
 - (d) in Scotland, the High Court of Justiciary sitting otherwise than as a trial court or the Court of Session;
 - (e) in England and Wales or Northern Ireland, the High Court or the Court of Appeal.
-- (f)[^c18838751] the Court of Protection, in any matter being dealt with by the President of the Family Division, the President of the Business and Property Division[^key-3d342df6b334d809c279c4129e0887f7] or a puisne judge of the High Court.
+- (f)[^c18838751] the Court of Protection, in any matter being dealt with by the President of the Family Division, the President of the Business and Property Division[^c-3d342df6b334d809c279c4129e0887f7] or a puisne judge of the High Court.
 
 (6) A declaration under this section (“**a declaration of incompatibility**”)—
 
@@ -126,7 +126,7 @@ it may make a declaration of that incompatibility.
 
 (1) Where a court is considering whether to make a declaration of incompatibility, the Crown is entitled to notice in accordance with rules of court.
 
-(2)[^key-863ccd147e3b8d030c316f1e13d55419] In any case to which subsection (1) applies—
+(2)[^c-863ccd147e3b8d030c316f1e13d55419] In any case to which subsection (1) applies—
 
 - (a) a Minister of the Crown (or a person nominated by him),
 - (b) a member of the Scottish Executive,
@@ -146,7 +146,7 @@ is entitled, on giving notice in accordance with rules of court, to be joined as
 
 ## Public authorities
 
-### 6. Acts of public authorities.[^key-16e2a2411992b63e50c15712d34ad518][^key-da3bcaeeaa4a2d10387e7f638c6fc112]
+### 6. Acts of public authorities.[^c-16e2a2411992b63e50c15712d34ad518][^c-da3bcaeeaa4a2d10387e7f638c6fc112]
 
 (1)[^c11199581] It is unlawful for a public authority to act in a way which is incompatible with a Convention right.
 
@@ -158,7 +158,7 @@ is entitled, on giving notice in accordance with rules of court, to be joined as
 (3) In this section “**public authority**” includes—
 
 - (a) a court or tribunal, and
-- (b)[^c19873111][^key-11c4ba9de7a43497275c68383465c0c1][^key-53fc713c04e5157e45f968cf8f5b88a6] any person certain of whose functions are functions of a public nature,
+- (b)[^c19873111][^c-11c4ba9de7a43497275c68383465c0c1][^c-53fc713c04e5157e45f968cf8f5b88a6] any person certain of whose functions are functions of a public nature,
 
 but does not include either House of Parliament or a person exercising functions in connection with proceedings in Parliament.
 
@@ -171,7 +171,7 @@ but does not include either House of Parliament or a person exercising functions
 - (a) introduce in, or lay before, Parliament a proposal for legislation; or
 - (b) make any primary legislation or remedial order.
 
-### 7. Proceedings.[^c19458431][^c18843331][^key-da3bcaeeaa4a2d10387e7f638c6fc112]
+### 7. Proceedings.[^c19458431][^c18843331][^c-da3bcaeeaa4a2d10387e7f638c6fc112]
 
 (1) A person who claims that a public authority has acted (or proposes to act) in a way which is made unlawful by section 6(1) may—
 
@@ -225,7 +225,7 @@ and includes provision made by order under section 1 of the [^c11199621]Courts a
 
 (13) “**The Minister**” includes the Northern Ireland department concerned.
 
-### 7A. Limitation: overseas armed forces proceedings[^key-da3bcaeeaa4a2d10387e7f638c6fc112][^key-68e935cd231e30003161a5ae9f3d6b7d]
+### 7A. Limitation: overseas armed forces proceedings[^c-da3bcaeeaa4a2d10387e7f638c6fc112][^c-68e935cd231e30003161a5ae9f3d6b7d]
 
 (1) A court or tribunal exercising its discretion under section 7(5)(b) in respect of overseas armed forces proceedings must do so—
 
@@ -262,7 +262,7 @@ and includes provision made by order under section 1 of the [^c11199621]Courts a
 
 (9) In this section “**Her Majesty's forces**” has the same meaning as in the Armed Forces Act 2006 (see section 374 of that Act).
 
-### 8. Judicial remedies.[^key-da3bcaeeaa4a2d10387e7f638c6fc112]
+### 8. Judicial remedies.[^c-da3bcaeeaa4a2d10387e7f638c6fc112]
 
 (1) In relation to any act (or proposed act) of a public authority which the court finds is (or would be) unlawful, it may grant such relief or remedy, or make such order, within its powers as it considers just and appropriate.
 
@@ -293,7 +293,7 @@ the court must take into account the principles applied by the European Court of
 - “**damages**” means damages for an unlawful act of a public authority; and
 - “**unlawful**” means unlawful under section 6(1).
 
-### 9. Judicial acts.[^key-da3bcaeeaa4a2d10387e7f638c6fc112]
+### 9. Judicial acts.[^c-da3bcaeeaa4a2d10387e7f638c6fc112]
 
 (1) Proceedings under section 7(1)(a) in respect of a judicial act may be brought only—
 
@@ -303,7 +303,7 @@ the court must take into account the principles applied by the European Court of
 
 (2) That does not affect any rule of law which prevents a court from being the subject of judicial review.
 
-(3)[^key-112cd734f2ebc2877956b6b5b54ac72d] In proceedings under this Act in respect of a judicial act done in good faith, damages may not be awarded otherwise than—
+(3)[^c-112cd734f2ebc2877956b6b5b54ac72d] In proceedings under this Act in respect of a judicial act done in good faith, damages may not be awarded otherwise than—
 
 - (a) to compensate a person to the extent required by Article 5(5) of the Convention, or
 - (b) to compensate a person for a judicial act that is incompatible with Article 6 of the Convention in circumstances where the person is detained and, but for the incompatibility, the person would not have been detained or would not have been detained for so long.
@@ -614,7 +614,7 @@ is exercisable by statutory rule for the purposes of the [^c11199961]Statutory R
 
 (4) Paragraph (b) of subsection (1) of section 7 applies to proceedings brought by or at the instigation of a public authority whenever the act in question took place; but otherwise that subsection does not apply to an act taking place before the coming into force of that section.
 
-(4A)[^key-4a9617286330671aa0fbdd4bd0d32fae] Section 7A (limitation: overseas armed forces proceedings) applies to proceedings brought under section 7(1)(a) on or after the date on which section 7A comes into force, whenever the act in question took place.
+(4A)[^c-4a9617286330671aa0fbdd4bd0d32fae] Section 7A (limitation: overseas armed forces proceedings) applies to proceedings brought under section 7(1)(a) on or after the date on which section 7A comes into force, whenever the act in question took place.
 
 (5) This Act binds the Crown.
 
@@ -932,7 +932,7 @@ Section 18(6).
   - (b) the [^c11200151]Sheriffs’ Pensions (Scotland) Act 1961;
   - (c) the [^c11200161]Judicial Pensions Act 1981; or
   - (d) the [^c11200171]Judicial Pensions and Retirement Act 1993;
-  - (e) the Public Service Pensions Act 2013;[^key-a7f3ff64e4c04beec65163c709365ef1] and
+  - (e) the Public Service Pensions Act 2013;[^c-a7f3ff64e4c04beec65163c709365ef1] and
 - “**pensions order**” means an order made under paragraph 1.
 
 ## Annotations
@@ -943,15 +943,15 @@ Section 18(6).
 
 [^c18822121]: Modification: Act (except ss. 5, 10, 18, 19 and Sch. 4): functions of the Lord Chancellor transferred to the Secretary of State, and all property, rights and liabilities to which the Lord Chancellor is entitled or subject to in connection with any such function transferred to the Secretary of State for Constitutional Affairs (19.8.2003) by [S.I. 2003/1887](https://www.legislation.gov.uk/uksi/2003/1887), [art. 4](https://www.legislation.gov.uk/uksi/2003/1887/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1887/schedule/1)
 
-[^key-e4d68d195dffd8b4be37add4ee6fba0d]: Modification: Act modified (30.1.2020) by [Direct Payments to Farmers (Legislative Continuity) Act 2020 (c. 2)](https://www.legislation.gov.uk/ukpga/2020/2), [ss. 2(8)](https://www.legislation.gov.uk/ukpga/2020/2/section/2/8), [9(3)](https://www.legislation.gov.uk/ukpga/2020/2/section/9/3)
+[^c-e4d68d195dffd8b4be37add4ee6fba0d]: Modification: Act modified (30.1.2020) by [Direct Payments to Farmers (Legislative Continuity) Act 2020 (c. 2)](https://www.legislation.gov.uk/ukpga/2020/2), [ss. 2(8)](https://www.legislation.gov.uk/ukpga/2020/2/section/2/8), [9(3)](https://www.legislation.gov.uk/ukpga/2020/2/section/9/3)
 
-[^key-d6f823acbf266c19eb374e367f553fc7]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1998/42) modified (31.12.2020) by [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 8 para. 30](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/30) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/n)
+[^c-d6f823acbf266c19eb374e367f553fc7]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1998/42) modified (31.12.2020) by [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 8 para. 30](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/30) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/n)
 
 [^c18836901]: Textual amendment: Words in [s. 1(1)(c)](https://www.legislation.gov.uk/ukpga/1998/42/section/1/1/c) substituted (22.6.2004) by [The Human Rights Act 1998 (Amendment) Order 2004 (S. I. 2004/1574)](https://www.legislation.gov.uk/uksi/2004/1574), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/1574/article/2/1)
 
 [^c18822401]: Textual amendment: Words in [s. 1](https://www.legislation.gov.uk/ukpga/1998/42/section/1) substituted (19.8.2003) by [The Secretary of State for Constitutional Affairs Order 2003 (S. I. 2003/1887)](https://www.legislation.gov.uk/uksi/2003/1887), [art. 9](https://www.legislation.gov.uk/uksi/2003/1887/article/9), [Sch. 2 para. 10(1)](https://www.legislation.gov.uk/uksi/2003/1887/schedule/2/paragraph/10/1)
 
-[^key-6c0128e7ff053d6dcd2ff1feb5aaf37e]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/1998/42/section/2) excluded (25.4.2024) by [Safety of Rwanda (Asylum and Immigration) Act 2024 (c. 8)](https://www.legislation.gov.uk/ukpga/2024/8), [ss. 2(5)(b)](https://www.legislation.gov.uk/ukpga/2024/8/section/2/5/b), [3](https://www.legislation.gov.uk/ukpga/2024/8/section/3), [10(1)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/1) (with [ss. 4](https://www.legislation.gov.uk/ukpga/2024/8/section/4), [10(2)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/2))
+[^c-6c0128e7ff053d6dcd2ff1feb5aaf37e]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/1998/42/section/2) excluded (25.4.2024) by [Safety of Rwanda (Asylum and Immigration) Act 2024 (c. 8)](https://www.legislation.gov.uk/ukpga/2024/8), [ss. 2(5)(b)](https://www.legislation.gov.uk/ukpga/2024/8/section/2/5/b), [3](https://www.legislation.gov.uk/ukpga/2024/8/section/3), [10(1)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/1) (with [ss. 4](https://www.legislation.gov.uk/ukpga/2024/8/section/4), [10(2)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/2))
 
 [^c18865851]: Modification: [S. 2(3)(a)](https://www.legislation.gov.uk/ukpga/1998/42/section/2/3/a): functions of the Secretary of State to be exercisable concurrently with the Lord Chancellor (12.1.2006) by [The Transfer of Functions (Lord Chancellor and Secretary of State) Order 2005 (S.I. 2005/3429)](https://www.legislation.gov.uk/uksi/2005/3429), [art. 3(2)](https://www.legislation.gov.uk/uksi/2005/3429/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2005/3429/article/4), [5](https://www.legislation.gov.uk/uksi/2005/3429/article/5))
 
@@ -959,7 +959,7 @@ Section 18(6).
 
 [^c18838481]: Textual amendment: Words in [s. 2(3)(a)](https://www.legislation.gov.uk/ukpga/1998/42/section/2/3/a) inserted (12.1.2006) by [The Transfer of Functions (Lord Chancellor and Secretary of State) Order 2005 (S.I. 2005/3429)](https://www.legislation.gov.uk/uksi/2005/3429), [art. 8](https://www.legislation.gov.uk/uksi/2005/3429/article/8), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2005/3429/schedule/paragraph/3)
 
-[^key-e4c8df322b4d9d82d28ff86846218ef8]: Modification: [S. 3](https://www.legislation.gov.uk/ukpga/1998/42/section/3) excluded (25.4.2024) by [Safety of Rwanda (Asylum and Immigration) Act 2024 (c. 8)](https://www.legislation.gov.uk/ukpga/2024/8), [ss. 2(5)(b)](https://www.legislation.gov.uk/ukpga/2024/8/section/2/5/b), [3](https://www.legislation.gov.uk/ukpga/2024/8/section/3), [10(1)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/1) (with [ss. 4](https://www.legislation.gov.uk/ukpga/2024/8/section/4), [10(2)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/2))
+[^c-e4c8df322b4d9d82d28ff86846218ef8]: Modification: [S. 3](https://www.legislation.gov.uk/ukpga/1998/42/section/3) excluded (25.4.2024) by [Safety of Rwanda (Asylum and Immigration) Act 2024 (c. 8)](https://www.legislation.gov.uk/ukpga/2024/8), [ss. 2(5)(b)](https://www.legislation.gov.uk/ukpga/2024/8/section/2/5/b), [3](https://www.legislation.gov.uk/ukpga/2024/8/section/3), [10(1)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/1) (with [ss. 4](https://www.legislation.gov.uk/ukpga/2024/8/section/4), [10(2)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/2))
 
 [^c18838521]: Textual amendment: S. 4(5)(a) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 40](https://www.legislation.gov.uk/ukpga/2005/4/section/40), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 9 para. 66(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/66/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
@@ -967,9 +967,9 @@ Section 18(6).
 
 [^c18838751]: Textual amendment: S. 4(5)(f) inserted (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [ss. 67(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/67/1), [68(1)-(3)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 43](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/43) (with [ss. 27](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [28](https://www.legislation.gov.uk/ukpga/2005/9/section/28), [29](https://www.legislation.gov.uk/ukpga/2005/9/section/29), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(c)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/c/d)
 
-[^key-3d342df6b334d809c279c4129e0887f7]: Textual amendment: Words in s. 4(5)(f) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/19)
+[^c-3d342df6b334d809c279c4129e0887f7]: Textual amendment: Words in s. 4(5)(f) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/19)
 
-[^key-863ccd147e3b8d030c316f1e13d55419]: Modification: [S. 5(2)](https://www.legislation.gov.uk/ukpga/1998/42/section/5/2) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+[^c-863ccd147e3b8d030c316f1e13d55419]: Modification: [S. 5(2)](https://www.legislation.gov.uk/ukpga/1998/42/section/5/2) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
 
 [^c18843151]: Textual amendment: Words in [s. 5(4)](https://www.legislation.gov.uk/ukpga/1998/42/section/5/4) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 40](https://www.legislation.gov.uk/ukpga/2005/4/section/40), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 9 para. 66(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/66/3); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
@@ -977,17 +977,17 @@ Section 18(6).
 
 [^c18843171]: Textual amendment: Words in [s. 5(5)](https://www.legislation.gov.uk/ukpga/1998/42/section/5/5) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 40](https://www.legislation.gov.uk/ukpga/2005/4/section/40), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 9 para. 66(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/66/3); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
-[^key-16e2a2411992b63e50c15712d34ad518]: Modification: S. 6 excluded (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 8(3)(b)](https://www.legislation.gov.uk/ukpga/2015/7/section/8/3/b), [57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-16e2a2411992b63e50c15712d34ad518]: Modification: S. 6 excluded (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 8(3)(b)](https://www.legislation.gov.uk/ukpga/2015/7/section/8/3/b), [57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
-[^key-da3bcaeeaa4a2d10387e7f638c6fc112]: Modification: [Ss. 6-9](https://www.legislation.gov.uk/ukpga/1998/42/section/6) excluded (25.4.2024) by [Safety of Rwanda (Asylum and Immigration) Act 2024 (c. 8)](https://www.legislation.gov.uk/ukpga/2024/8), [ss. 2(5)(b)](https://www.legislation.gov.uk/ukpga/2024/8/section/2/5/b), [3](https://www.legislation.gov.uk/ukpga/2024/8/section/3), [10(1)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/1) (with [ss. 4](https://www.legislation.gov.uk/ukpga/2024/8/section/4), [10(2)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/2))
+[^c-da3bcaeeaa4a2d10387e7f638c6fc112]: Modification: [Ss. 6-9](https://www.legislation.gov.uk/ukpga/1998/42/section/6) excluded (25.4.2024) by [Safety of Rwanda (Asylum and Immigration) Act 2024 (c. 8)](https://www.legislation.gov.uk/ukpga/2024/8), [ss. 2(5)(b)](https://www.legislation.gov.uk/ukpga/2024/8/section/2/5/b), [3](https://www.legislation.gov.uk/ukpga/2024/8/section/3), [10(1)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/1) (with [ss. 4](https://www.legislation.gov.uk/ukpga/2024/8/section/4), [10(2)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/2))
 
 [^c11199581]: Modification: S. 6(1) applied (2.10.2000) by [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33), [ss. 65(2)](https://www.legislation.gov.uk/ukpga/1999/33/section/65/2), [170(4)](https://www.legislation.gov.uk/ukpga/1999/33/section/170/4); [S.I. 2000/2444](https://www.legislation.gov.uk/uksi/2000/2444), [art. 2](https://www.legislation.gov.uk/uksi/2000/2444/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2444/schedule/1) (subject to transitional provisions in [arts. 3](https://www.legislation.gov.uk/uksi/2000/2444/article/3), [4](https://www.legislation.gov.uk/uksi/2000/2444/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/2444/schedule/2))
 
 [^c19873111]: Modification: S. 6(3)(b) modified (1.12.2008 with exception in art. 2(2) of commencing S.I.) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 145(1)-(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/145/1), [170](https://www.legislation.gov.uk/ukpga/2008/14/section/170) (with [s. 145(5)](https://www.legislation.gov.uk/ukpga/2008/14/section/145/5)); [S.I. 2008/2994](https://www.legislation.gov.uk/uksi/2008/2994), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/2994/article/2/1)
 
-[^key-11c4ba9de7a43497275c68383465c0c1]: Modification: S. 6(3)(b) applied (1.4.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [s. 73(2)](https://www.legislation.gov.uk/ukpga/2014/23/section/73/2)[(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/73/3)[127](https://www.legislation.gov.uk/ukpga/2014/23/section/127); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(r)](https://www.legislation.gov.uk/uksi/2015/993/article/2/r) (with transitional provisions in [S.I. 2015/995](https://www.legislation.gov.uk/uksi/2015/995))
+[^c-11c4ba9de7a43497275c68383465c0c1]: Modification: S. 6(3)(b) applied (1.4.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [s. 73(2)](https://www.legislation.gov.uk/ukpga/2014/23/section/73/2)[(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/73/3)[127](https://www.legislation.gov.uk/ukpga/2014/23/section/127); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(r)](https://www.legislation.gov.uk/uksi/2015/993/article/2/r) (with transitional provisions in [S.I. 2015/995](https://www.legislation.gov.uk/uksi/2015/995))
 
-[^key-53fc713c04e5157e45f968cf8f5b88a6]: Modification: [S. 6(3)(b)](https://www.legislation.gov.uk/ukpga/1998/42/section/6/3/b) modified (6.4.2026) by [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20), [s. 142C](https://www.legislation.gov.uk/ukpga/1983/20/section/142C) (as inserted by [Mental Health Act 2025 (c. 33)](https://www.legislation.gov.uk/ukpga/2025/33), [ss. 51](https://www.legislation.gov.uk/ukpga/2025/33/section/51), [56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3); [S.I. 2026/385](https://www.legislation.gov.uk/uksi/2026/385), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/385/regulation/2/a))
+[^c-53fc713c04e5157e45f968cf8f5b88a6]: Modification: [S. 6(3)(b)](https://www.legislation.gov.uk/ukpga/1998/42/section/6/3/b) modified (6.4.2026) by [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20), [s. 142C](https://www.legislation.gov.uk/ukpga/1983/20/section/142C) (as inserted by [Mental Health Act 2025 (c. 33)](https://www.legislation.gov.uk/ukpga/2025/33), [ss. 51](https://www.legislation.gov.uk/ukpga/2025/33/section/51), [56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3); [S.I. 2026/385](https://www.legislation.gov.uk/uksi/2026/385), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/385/regulation/2/a))
 
 [^c18843261]: Textual amendment: S. 6(4) repealed (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 40](https://www.legislation.gov.uk/ukpga/2005/4/section/40), [146](https://www.legislation.gov.uk/ukpga/2005/4/section/146), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 9 para. 66(4)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/66/4), [Sch. 18 Pt. 5](https://www.legislation.gov.uk/ukpga/2005/4/schedule/18/part/5); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)(f)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d/f)
 
@@ -1005,13 +1005,13 @@ Section 18(6).
 
 [^c18844681]: Modification: S. 7(11): functions of the Secretary of State to be exercisable concurrently with the Lord Chancellor (12.1.2006) by [The Transfer of Functions (Lord Chancellor and Secretary of State) Order 2005 (S.I. 2005/3429)](https://www.legislation.gov.uk/uksi/2005/3429), [art. 3(2)](https://www.legislation.gov.uk/uksi/2005/3429/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2005/3429/article/4), [5](https://www.legislation.gov.uk/uksi/2005/3429/article/5))
 
-[^key-68e935cd231e30003161a5ae9f3d6b7d]: Textual amendment: S. 7A inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [ss. 11(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/11/2), [14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-68e935cd231e30003161a5ae9f3d6b7d]: Textual amendment: S. 7A inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [ss. 11(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/11/2), [14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
 [^c11199631]: Marginal citation: [1940 c. 42](https://www.legislation.gov.uk/ukpga/1940/42).
 
 [^c11199641]: Marginal citation: [1978 c. 47](https://www.legislation.gov.uk/ukpga/1978/47).
 
-[^key-112cd734f2ebc2877956b6b5b54ac72d]: Textual amendment: S. 9(3) substituted (21.10.2020) by [The Human Rights Act 1998 (Remedial) Order 2020 (S.I. 2020/1160)](https://www.legislation.gov.uk/uksi/2020/1160), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1160/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2020/1160/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2020/1160/article/2/2))
+[^c-112cd734f2ebc2877956b6b5b54ac72d]: Textual amendment: S. 9(3) substituted (21.10.2020) by [The Human Rights Act 1998 (Remedial) Order 2020 (S.I. 2020/1160)](https://www.legislation.gov.uk/uksi/2020/1160), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1160/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2020/1160/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2020/1160/article/2/2))
 
 [^c11199671]: Textual amendment: Words in definition s. 9(5) inserted (N.I.)(1.4.2005) by [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26), [s. 10(6)](https://www.legislation.gov.uk/ukpga/2002/26/section/10/6), [Sch. 4 para. 39](https://www.legislation.gov.uk/ukpga/2002/26/schedule/4/paragraph/39); [S.R. 2005/109](https://www.legislation.gov.uk/nisr/2005/109), [art. 2](https://www.legislation.gov.uk/nisr/2005/109/article/2) Sch.
 
@@ -1105,7 +1105,7 @@ Section 18(6).
 
     S. 22(3) power fully exercised: 2.10.2000 appointed for remaining provisions by [S.I. 2000/1851](https://www.legislation.gov.uk/uksi/2000/1851), [art. 2](https://www.legislation.gov.uk/uksi/2000/1851/article/2)
 
-[^key-4a9617286330671aa0fbdd4bd0d32fae]: Textual amendment: S. 22(4A) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [ss. 11(3)](https://www.legislation.gov.uk/ukpga/2021/23/section/11/3), [14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-4a9617286330671aa0fbdd4bd0d32fae]: Textual amendment: S. 22(4A) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [ss. 11(3)](https://www.legislation.gov.uk/ukpga/2021/23/section/11/3), [14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
 [^c20353731]: Textual amendment: S. 22(7) repealed (28.3.2009 for certain purposes and 31.10.2009 otherwise) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 378](https://www.legislation.gov.uk/ukpga/2006/52/section/378), [383](https://www.legislation.gov.uk/ukpga/2006/52/section/383), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3](https://www.legislation.gov.uk/uksi/2009/812/article/3) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
@@ -1123,4 +1123,4 @@ Section 18(6).
 
 [^c11200171]: Marginal citation: [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8).
 
-[^key-a7f3ff64e4c04beec65163c709365ef1]: Textual amendment: Words in Sch. 4 para. 4 inserted (1.4.2014) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 8 para. 26](https://www.legislation.gov.uk/ukpga/2013/25/schedule/8/paragraph/26) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 4(2)(k)](https://www.legislation.gov.uk/uksi/2014/839/article/4/2/k)
+[^c-a7f3ff64e4c04beec65163c709365ef1]: Textual amendment: Words in Sch. 4 para. 4 inserted (1.4.2014) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 8 para. 26](https://www.legislation.gov.uk/ukpga/2013/25/schedule/8/paragraph/26) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 4(2)(k)](https://www.legislation.gov.uk/uksi/2014/839/article/4/2/k)

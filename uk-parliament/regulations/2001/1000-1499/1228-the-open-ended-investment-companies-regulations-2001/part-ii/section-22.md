@@ -29,12 +29,12 @@ summary: ''
 (4) If, having given a warning notice to a person, the Authority decides to refuse approval—
 
 - (a) it must give him a decision notice; and
-- (b) he may refer the matter to the Upper Tribunal[^key-964cf4e560e7c6f611a8a5b6ff230a36].
+- (b) he may refer the matter to the Upper Tribunal[^c-964cf4e560e7c6f611a8a5b6ff230a36].
 
-(5) If, having given a warning notice to a person, the Authority decides to approve the proposal, it must give him a written[^key-b54f1b6107ab27250d6d0abff282d38c] notice.
+(5) If, having given a warning notice to a person, the Authority decides to approve the proposal, it must give him a written[^c-b54f1b6107ab27250d6d0abff282d38c] notice.
 
 ## Annotations
 
-[^key-964cf4e560e7c6f611a8a5b6ff230a36]: Textual amendment: Words in reg. 22(4)(b) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 20](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/20)
+[^c-964cf4e560e7c6f611a8a5b6ff230a36]: Textual amendment: Words in reg. 22(4)(b) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 20](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/20)
 
-[^key-b54f1b6107ab27250d6d0abff282d38c]: Textual amendment: Word in reg. 22(5) substituted (6.4.2005) by [The Open-Ended Investment Companies (Amendment) Regulations 2005 (S.I. 2005/923)](https://www.legislation.gov.uk/uksi/2005/923), [regs. 1](https://www.legislation.gov.uk/uksi/2005/923/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/923/regulation/2/2)
+[^c-b54f1b6107ab27250d6d0abff282d38c]: Textual amendment: Word in reg. 22(5) substituted (6.4.2005) by [The Open-Ended Investment Companies (Amendment) Regulations 2005 (S.I. 2005/923)](https://www.legislation.gov.uk/uksi/2005/923), [regs. 1](https://www.legislation.gov.uk/uksi/2005/923/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/923/regulation/2/2)

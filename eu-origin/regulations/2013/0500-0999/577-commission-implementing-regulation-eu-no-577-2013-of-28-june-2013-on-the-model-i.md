@@ -114,31 +114,31 @@ The measures provided for in this Regulation are in accordance with the opinion 
 
 HAS ADOPTED THIS REGULATION:
 
-## Article 1. Format, layout and language requirements of the declarations referred to in Articles ... 11 and 12 of Regulation (EU) No 576/2013[^key-237ce3def6996632547f7b390b128ff4]
+## Article 1. Format, layout and language requirements of the declarations referred to in Articles ... 11 and 12 of Regulation (EU) No 576/2013[^c-237ce3def6996632547f7b390b128ff4]
 
-1. The declaration[^key-422629deeae71f08935407d57490b56f] referred to in point (a) [^key-cf077b23d8bd3b2c757599aa19799ad0]... of Article 11(2) of Regulation (EU) No 576/2013 shall be drawn up in accordance with the format and layout set out in Part 1 of Annex I to this Regulation and shall comply with the language requirements set out in Part 3 of that Annex.
+1. The declaration[^c-422629deeae71f08935407d57490b56f] referred to in point (a) [^c-cf077b23d8bd3b2c757599aa19799ad0]... of Article 11(2) of Regulation (EU) No 576/2013 shall be drawn up in accordance with the format and layout set out in Part 1 of Annex I to this Regulation and shall comply with the language requirements set out in Part 3 of that Annex.
 
 2. The declaration referred to in point (c) of Article 12(1) of Regulation (EU) No 576/2013 shall be drawn up in accordance with the format and layout set out in Part 2 of Annex I to this Regulation and shall comply with the language requirements set out in Part 3 of that Annex.
 
-## Article 2. Lists of ... third countries referred to in Article 13 of Regulation (EU) No 576/2013[^key-163f3d9c03505360a6c12d3f745c40ce]
+## Article 2. Lists of ... third countries referred to in Article 13 of Regulation (EU) No 576/2013[^c-163f3d9c03505360a6c12d3f745c40ce]
 
-1. The list of [^key-669c8a364bc2531e98b6f98758faaaf4]... third countries referred to in Article 13(1) of Regulation (EU) No 576/2013 is set out in Part 1 of Annex II to this Regulation.
+1. The list of [^c-669c8a364bc2531e98b6f98758faaaf4]... third countries referred to in Article 13(1) of Regulation (EU) No 576/2013 is set out in Part 1 of Annex II to this Regulation.
 
-2. The list of [^key-8856bfb661b5112cac5006052e469549]... third countries referred to in Article 13(2) of Regulation (EU) No 576/2013 is set out in Part 2 of Annex II to this Regulation.
+2. The list of [^c-8856bfb661b5112cac5006052e469549]... third countries referred to in Article 13(2) of Regulation (EU) No 576/2013 is set out in Part 2 of Annex II to this Regulation.
 
-## Article 3. Model of passports for the non-commercial movement of dogs, cats or ferrets[^key-b409bbfd1d24614437d39f7f7cc63f02]
+## Article 3. Model of passports for the non-commercial movement of dogs, cats or ferrets[^c-b409bbfd1d24614437d39f7f7cc63f02]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Pet health certificate for the non-commercial movement into Great Britain of dogs, cats or ferrets[^key-281ba69a9d9bbcfdd524459120a76945][^key-64a64f0ccb594093961e40de23ac544d]
+## Article 4. Pet health certificate for the non-commercial movement into Great Britain of dogs, cats or ferrets[^c-281ba69a9d9bbcfdd524459120a76945][^c-64a64f0ccb594093961e40de23ac544d]
 
-(1.)[^key-c3ab611efcee05b9aef95214bf181475] The pet[^key-e5dbd4299b80c92c8425b2df548d2953] health certificate referred to in Article 25(1) of Regulation (EU) No 576/2013 shall be:
+(1.)[^c-c3ab611efcee05b9aef95214bf181475] The pet[^c-e5dbd4299b80c92c8425b2df548d2953] health certificate referred to in Article 25(1) of Regulation (EU) No 576/2013 shall be:
 
-- ((a)) drawn up in accordance with the model published by the appropriate authority from time to time, in such manner as appears to the appropriate authority to be appropriate;[^key-7cd592bbaa4a23491ffe9b3c4cf837d3]
-- ((b)) [^key-d8d2e82a126de18419aaf4680f2b6da9]...
-- ((c)) supplemented by the written declaration referred to in Article 25(3) of Regulation (EU) No 576/2013 which is drawn up in accordance with the model set out in Section A of Part 3 of Annex 4[^key-494f8abbc95eeff27703aa71753e65ba] and which complies with the additional requirements set out in Section B of Part 3 of that Annex.
+- ((a)) drawn up in accordance with the model published by the appropriate authority from time to time, in such manner as appears to the appropriate authority to be appropriate;[^c-7cd592bbaa4a23491ffe9b3c4cf837d3]
+- ((b)) [^c-d8d2e82a126de18419aaf4680f2b6da9]...
+- ((c)) supplemented by the written declaration referred to in Article 25(3) of Regulation (EU) No 576/2013 which is drawn up in accordance with the model set out in Section A of Part 3 of Annex 4[^c-494f8abbc95eeff27703aa71753e65ba] and which complies with the additional requirements set out in Section B of Part 3 of that Annex.
 
-(2.)[^key-e85bc7a3efc6b7b99dde346424b186ee] Subject to paragraph 3, the pet health certificate referred to in Article 25(1) of Regulation (EU) No 576/2013 is valid for 10 days from the date of issue by the official veterinarian until the date of documentary and identity checks at the travellers’ point of entry.
+(2.)[^c-e85bc7a3efc6b7b99dde346424b186ee] Subject to paragraph 3, the pet health certificate referred to in Article 25(1) of Regulation (EU) No 576/2013 is valid for 10 days from the date of issue by the official veterinarian until the date of documentary and identity checks at the travellers’ point of entry.
 
 (3.) In the case of transport by sea, the period of 10 days referred to in paragraph 2 is extended by an additional period corresponding to the duration of the journey by sea.
 
@@ -152,17 +152,17 @@ This Regulation shall enter into force on the twentieth day following that of it
 
 It shall apply from 29 December 2014.
 
-[^key-cfd7eb653b9fa8aaab4fe5097fd9f327]...
+[^c-cfd7eb653b9fa8aaab4fe5097fd9f327]...
 
-## ANNEX I — Format, layout and language requirements of the declarations — referred to in point (a) ... of Article 11(2) and in point (c) of Article 12(1) of Regulation (EU) No 576/2013[^key-55c0ce7469c0e97a5665821a8742e42a]
+## ANNEX I — Format, layout and language requirements of the declarations — referred to in point (a) ... of Article 11(2) and in point (c) of Article 12(1) of Regulation (EU) No 576/2013[^c-55c0ce7469c0e97a5665821a8742e42a]
 
-[^key-771fb3998eacf4aa8da920fcc17826c7]PART 1
+[^c-771fb3998eacf4aa8da920fcc17826c7]PART 1
 
-**Format and layout of the declaration referred to in point (a) [^key-5e8bb92422ca138c3b096ffff1f39ab8]... of Article 11(2) of Regulation (EU) No 576/2013**
+**Format and layout of the declaration referred to in point (a) [^c-5e8bb92422ca138c3b096ffff1f39ab8]... of Article 11(2) of Regulation (EU) No 576/2013**
 
 [image: see source](https://www.legislation.gov.uk/eur/2013/577/images/eur_20130577_2019-11-01_en_001)
 
-[^key-7b50b7d21f1a744124ef4163edbcef24]PART 2
+[^c-7b50b7d21f1a744124ef4163edbcef24]PART 2
 
 **Format and layout of the declaration referred to in point (c) of Article 12(1) of Regulation (EU) No 576/2013**
 
@@ -170,19 +170,19 @@ It shall apply from 29 December 2014.
 
 PART 3
 
-**Language requirements for the declarations referred to in point (a) [^key-c7aa6eee2825399264c77e4de491b360]... of Article 11(2) and in point (c) of Article 12(1) of Regulation (EU) No 576/2013**
+**Language requirements for the declarations referred to in point (a) [^c-c7aa6eee2825399264c77e4de491b360]... of Article 11(2) and in point (c) of Article 12(1) of Regulation (EU) No 576/2013**
 
-The declarations shall be drawn up in English and may also be drawn up in other languages.[^key-5474a8251048575ff8894dcdf67e427e]
+The declarations shall be drawn up in English and may also be drawn up in other languages.[^c-5474a8251048575ff8894dcdf67e427e]
 
-## ANNEX II — List of ... third countries referred to in Article 13 of Regulation (EU) No 576/2013[^c000001][^key-b8a3edc417b506504b9f6e0e0cf183c4]
+## ANNEX II — List of ... third countries referred to in Article 13 of Regulation (EU) No 576/2013[^c000001][^c-b8a3edc417b506504b9f6e0e0cf183c4]
 
-### PART 1 — List of ... third countries referred to in Article 13(1) of Regulation (EU) No 576/2013[^key-a00fe36a3441d09415e839297873852f][^c000002][^key-6b56578f31fc3b3605e5babeef3cac00]
+### PART 1 — List of ... third countries referred to in Article 13(1) of Regulation (EU) No 576/2013[^c-a00fe36a3441d09415e839297873852f][^c000002][^c-6b56578f31fc3b3605e5babeef3cac00]
 
-| ISO code | [^key-52da2ce6c2610391fd30723e25469faa]... third country |
+| ISO code | [^c-52da2ce6c2610391fd30723e25469faa]... third country |
 | --- | --- |
 | AD | Andorra |
 | CH | Switzerland |
-| EU[^key-6f306c449e0dc21ec700a68e01233325] | EU Member States[^key-4d176fca1f1f39f443c35474edb46199] |
+| EU[^c-6f306c449e0dc21ec700a68e01233325] | EU Member States[^c-4d176fca1f1f39f443c35474edb46199] |
 | FO | Faeroe Islands |
 | GI | Gibraltar |
 | GL | Greenland |
@@ -192,9 +192,9 @@ The declarations shall be drawn up in English and may also be drawn up in other 
 | SM | San Marino |
 | VA | Vatican City State |
 
-### PART 2 — List of ... third countries referred to in Article 13(2) of Regulation (EU) No 576/2013[^key-1be5294145477ecf1f40985a54afa3c6][^key-7fe61dfdc84d10a9356d73f7379643d3]
+### PART 2 — List of ... third countries referred to in Article 13(2) of Regulation (EU) No 576/2013[^c-1be5294145477ecf1f40985a54afa3c6][^c-7fe61dfdc84d10a9356d73f7379643d3]
 
-| ISO code | [^key-d0c1628d8189b61f868f28a2a90b15ad]...third country | Included territories |
+| ISO code | [^c-d0c1628d8189b61f868f28a2a90b15ad]...third country | Included territories |
 | --- | --- | --- |
 | AC | Ascension Island |  |
 | AE | United Arab Emirates |  |
@@ -240,85 +240,85 @@ The declarations shall be drawn up in English and may also be drawn up in other 
 | VU | Vanuatu |  |
 | WF | Wallis and Futuna |  |
 
-## ANNEX III — Models of passports for the non-commercial movement of dogs, cats or ferrets[^key-be3958807800dcba11ad758ad51f37cc]
+## ANNEX III — Models of passports for the non-commercial movement of dogs, cats or ferrets[^c-be3958807800dcba11ad758ad51f37cc]
 
 **No longer in force.**
 
-[^key-be3958807800dcba11ad758ad51f37cc]PART 1
+[^c-be3958807800dcba11ad758ad51f37cc]PART 1
 
 **Model of passport issued in a Member State**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-be3958807800dcba11ad758ad51f37cc]PART 2
+[^c-be3958807800dcba11ad758ad51f37cc]PART 2
 
 **Additional requirements concerning the passport issued in a Member State**
 
-[^key-be3958807800dcba11ad758ad51f37cc]1.
+[^c-be3958807800dcba11ad758ad51f37cc]1.
 
 Format of the passport:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-be3958807800dcba11ad758ad51f37cc]2.
+[^c-be3958807800dcba11ad758ad51f37cc]2.
 
 Cover of the passport:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-be3958807800dcba11ad758ad51f37cc]3.
+[^c-be3958807800dcba11ad758ad51f37cc]3.
 
 Sequences of the headings and numbering of pages of the passport:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-be3958807800dcba11ad758ad51f37cc]4.
+[^c-be3958807800dcba11ad758ad51f37cc]4.
 
 Languages:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-be3958807800dcba11ad758ad51f37cc]5.
+[^c-be3958807800dcba11ad758ad51f37cc]5.
 
 Security features:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-be3958807800dcba11ad758ad51f37cc]PART 3
+[^c-be3958807800dcba11ad758ad51f37cc]PART 3
 
 **Model of passport issued in one of the territories or third countries listed in Part 1 of Annex II to this Regulation**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-be3958807800dcba11ad758ad51f37cc]PART 4
+[^c-be3958807800dcba11ad758ad51f37cc]PART 4
 
 **Additional requirements concerning the passport issued in one of the territories or third countries listed in Part 1 of Annex II to this Regulation**
 
-[^key-be3958807800dcba11ad758ad51f37cc]1.
+[^c-be3958807800dcba11ad758ad51f37cc]1.
 
 Format of the passport:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-be3958807800dcba11ad758ad51f37cc]2.
+[^c-be3958807800dcba11ad758ad51f37cc]2.
 
 Cover of the passport:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-be3958807800dcba11ad758ad51f37cc]3.
+[^c-be3958807800dcba11ad758ad51f37cc]3.
 
 Sequences of the headings and numbering of pages of the passport:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-be3958807800dcba11ad758ad51f37cc]4.
+[^c-be3958807800dcba11ad758ad51f37cc]4.
 
 Languages:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-be3958807800dcba11ad758ad51f37cc]5.
+[^c-be3958807800dcba11ad758ad51f37cc]5.
 
 Security features:
 
@@ -326,53 +326,53 @@ Security features:
 
 ## ANNEX IV
 
-### PART 1 — Model animal health certificate for the non-commercial movement into a Member State from a territory or third country of dogs, cats or ferrets in accordance with Article 5(1) and (2) of Regulation (EU) No 576/2013[^key-a44a82361f0d8ae366dc5182c4fe7d00]
+### PART 1 — Model animal health certificate for the non-commercial movement into a Member State from a territory or third country of dogs, cats or ferrets in accordance with Article 5(1) and (2) of Regulation (EU) No 576/2013[^c-a44a82361f0d8ae366dc5182c4fe7d00]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Explanatory notes for completing the animal health certificates[^key-ed8b7dc910eb10fc0cb1d9ba26e6a3e3]
+### PART 2 — Explanatory notes for completing the animal health certificates[^c-ed8b7dc910eb10fc0cb1d9ba26e6a3e3]
 
 **No longer in force.**
 
-[^key-ed8b7dc910eb10fc0cb1d9ba26e6a3e3](a)
+[^c-ed8b7dc910eb10fc0cb1d9ba26e6a3e3](a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ed8b7dc910eb10fc0cb1d9ba26e6a3e3](b)
+[^c-ed8b7dc910eb10fc0cb1d9ba26e6a3e3](b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ed8b7dc910eb10fc0cb1d9ba26e6a3e3](c)
+[^c-ed8b7dc910eb10fc0cb1d9ba26e6a3e3](c)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ed8b7dc910eb10fc0cb1d9ba26e6a3e3](d)
+[^c-ed8b7dc910eb10fc0cb1d9ba26e6a3e3](d)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ed8b7dc910eb10fc0cb1d9ba26e6a3e3](e)
+[^c-ed8b7dc910eb10fc0cb1d9ba26e6a3e3](e)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ed8b7dc910eb10fc0cb1d9ba26e6a3e3](f)
+[^c-ed8b7dc910eb10fc0cb1d9ba26e6a3e3](f)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ed8b7dc910eb10fc0cb1d9ba26e6a3e3](g)
+[^c-ed8b7dc910eb10fc0cb1d9ba26e6a3e3](g)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 3 — Written declaration referred to in Article 25(3) of of Regulation (EU) No 576/2013
 
-#### Section A — Model of declaration[^key-c96b1d24b22f8471860a3c1fb318a411]
+#### Section A — Model of declaration[^c-c96b1d24b22f8471860a3c1fb318a411]
 
 [image: see source](https://www.legislation.gov.uk/eur/2013/577/images/eur_20130577_2019-11-01_en_058)
 
 #### Section B — Additional requirements for the declaration
 
-The declaration shall be drawn up in English and may also be drawn up in other languages[^key-ab35b585b60599feacdcd0b81320c6c1] and shall be completed in block letters.
+The declaration shall be drawn up in English and may also be drawn up in other languages[^c-ab35b585b60599feacdcd0b81320c6c1] and shall be completed in block letters.
 
 ## Annotations
 
@@ -398,78 +398,78 @@ The declaration shall be drawn up in English and may also be drawn up in other l
 
 [^f00011]: Footnote: [OJ L 55, 25.2.2006, p. 44](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.055.01.0044.01.ENG).
 
-[^key-237ce3def6996632547f7b390b128ff4]: Textual amendment: Word in [Art. 1](https://www.legislation.gov.uk/eur/2013/577/article/1) heading omitted (E.W.S.) (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/2/a)
+[^c-237ce3def6996632547f7b390b128ff4]: Textual amendment: Word in [Art. 1](https://www.legislation.gov.uk/eur/2013/577/article/1) heading omitted (E.W.S.) (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/2/a)
 
-[^key-422629deeae71f08935407d57490b56f]: Textual amendment: Word in [Art. 1(1)](https://www.legislation.gov.uk/eur/2013/577/article/1/1) substituted (E.W.S.) (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/2/b/i)
+[^c-422629deeae71f08935407d57490b56f]: Textual amendment: Word in [Art. 1(1)](https://www.legislation.gov.uk/eur/2013/577/article/1/1) substituted (E.W.S.) (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/2/b/i)
 
-[^key-cf077b23d8bd3b2c757599aa19799ad0]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eur/2013/577/article/1/1) omitted (E.W.S.) (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/2/b/ii)
+[^c-cf077b23d8bd3b2c757599aa19799ad0]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eur/2013/577/article/1/1) omitted (E.W.S.) (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/2/b/ii)
 
-[^key-163f3d9c03505360a6c12d3f745c40ce]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eur/2013/577/article/2) heading omitted (E.W.S.) (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(3)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/3/a)
+[^c-163f3d9c03505360a6c12d3f745c40ce]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eur/2013/577/article/2) heading omitted (E.W.S.) (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(3)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/3/a)
 
-[^key-669c8a364bc2531e98b6f98758faaaf4]: Textual amendment: Words in [Art. 2(1)](https://www.legislation.gov.uk/eur/2013/577/article/2/1) omitted (E.W.S.) (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(3)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/3/b)
+[^c-669c8a364bc2531e98b6f98758faaaf4]: Textual amendment: Words in [Art. 2(1)](https://www.legislation.gov.uk/eur/2013/577/article/2/1) omitted (E.W.S.) (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(3)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/3/b)
 
-[^key-8856bfb661b5112cac5006052e469549]: Textual amendment: Words in [Art. 2(2)](https://www.legislation.gov.uk/eur/2013/577/article/2/2) omitted (E.W.S.) (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(3)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/3/b)
+[^c-8856bfb661b5112cac5006052e469549]: Textual amendment: Words in [Art. 2(2)](https://www.legislation.gov.uk/eur/2013/577/article/2/2) omitted (E.W.S.) (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(3)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/3/b)
 
-[^key-b409bbfd1d24614437d39f7f7cc63f02]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eur/2013/577/article/3) omitted (E.W.S.) (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/4)
+[^c-b409bbfd1d24614437d39f7f7cc63f02]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eur/2013/577/article/3) omitted (E.W.S.) (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/4)
 
-[^key-281ba69a9d9bbcfdd524459120a76945]: Textual amendment: Word in [Art. 4](https://www.legislation.gov.uk/eur/2013/577/article/4) heading substituted (E.W.S.) (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(5)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/5/a/i)
+[^c-281ba69a9d9bbcfdd524459120a76945]: Textual amendment: Word in [Art. 4](https://www.legislation.gov.uk/eur/2013/577/article/4) heading substituted (E.W.S.) (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(5)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/5/a/i)
 
-[^key-64a64f0ccb594093961e40de23ac544d]: Textual amendment: Words in [Art. 4](https://www.legislation.gov.uk/eur/2013/577/article/4) heading substituted (E.W.S.) (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/5/a/ii)
+[^c-64a64f0ccb594093961e40de23ac544d]: Textual amendment: Words in [Art. 4](https://www.legislation.gov.uk/eur/2013/577/article/4) heading substituted (E.W.S.) (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/5/a/ii)
 
-[^key-c3ab611efcee05b9aef95214bf181475]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eur/2013/577/article/4) renumbered as Art. 4(1) (E.W.S.) (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(5)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/5/b)
+[^c-c3ab611efcee05b9aef95214bf181475]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eur/2013/577/article/4) renumbered as Art. 4(1) (E.W.S.) (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(5)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/5/b)
 
-[^key-e5dbd4299b80c92c8425b2df548d2953]: Textual amendment: Word in [Art. 4(1)](https://www.legislation.gov.uk/eur/2013/577/article/4/1) substituted (E.W.S.) (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(5)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/5/c/i)
+[^c-e5dbd4299b80c92c8425b2df548d2953]: Textual amendment: Word in [Art. 4(1)](https://www.legislation.gov.uk/eur/2013/577/article/4/1) substituted (E.W.S.) (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(5)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/5/c/i)
 
-[^key-7cd592bbaa4a23491ffe9b3c4cf837d3]: Textual amendment: Words in [Art. 4(1)(a)](https://www.legislation.gov.uk/eur/2013/577/article/4/1/a) substituted (E.W.S.) (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/5/c/ii)
+[^c-7cd592bbaa4a23491ffe9b3c4cf837d3]: Textual amendment: Words in [Art. 4(1)(a)](https://www.legislation.gov.uk/eur/2013/577/article/4/1/a) substituted (E.W.S.) (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/5/c/ii)
 
-[^key-d8d2e82a126de18419aaf4680f2b6da9]: Textual amendment: [Art. 4(1)(b)](https://www.legislation.gov.uk/eur/2013/577/article/4/1/b) omitted (E.W.S.) (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(5)(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/5/c/iii)
+[^c-d8d2e82a126de18419aaf4680f2b6da9]: Textual amendment: [Art. 4(1)(b)](https://www.legislation.gov.uk/eur/2013/577/article/4/1/b) omitted (E.W.S.) (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(5)(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/5/c/iii)
 
-[^key-494f8abbc95eeff27703aa71753e65ba]: Textual amendment: Words in [Art. 4(1)(c)](https://www.legislation.gov.uk/eur/2013/577/article/4/1/c) substituted (E.W.S.) (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(5)(c)(iv)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/5/c/iv)
+[^c-494f8abbc95eeff27703aa71753e65ba]: Textual amendment: Words in [Art. 4(1)(c)](https://www.legislation.gov.uk/eur/2013/577/article/4/1/c) substituted (E.W.S.) (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(5)(c)(iv)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/5/c/iv)
 
-[^key-e85bc7a3efc6b7b99dde346424b186ee]: Textual amendment: [Art. 4(2)(3)](https://www.legislation.gov.uk/eur/2013/577/article/4/2/3) inserted (E.W.S.) (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(5)(d)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/5/d)
+[^c-e85bc7a3efc6b7b99dde346424b186ee]: Textual amendment: [Art. 4(2)(3)](https://www.legislation.gov.uk/eur/2013/577/article/4/2/3) inserted (E.W.S.) (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(5)(d)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/5/d)
 
-[^key-cfd7eb653b9fa8aaab4fe5097fd9f327]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2013/577/signature) omitted (E.W.S.) (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(6)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/6)
+[^c-cfd7eb653b9fa8aaab4fe5097fd9f327]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2013/577/signature) omitted (E.W.S.) (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(6)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/6)
 
-[^key-55c0ce7469c0e97a5665821a8742e42a]: Textual amendment: Words in [Annex 1](https://www.legislation.gov.uk/eur/2013/577/annex/I) heading omitted (E.W.S.) (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [16(2)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/16/2)
+[^c-55c0ce7469c0e97a5665821a8742e42a]: Textual amendment: Words in [Annex 1](https://www.legislation.gov.uk/eur/2013/577/annex/I) heading omitted (E.W.S.) (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [16(2)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/16/2)
 
-[^key-771fb3998eacf4aa8da920fcc17826c7]: Textual amendment: [Annex 1 Pt. 1](https://www.legislation.gov.uk/eur/2013/577/annex/I/part/1): in the declaration, in the heading to the second column, words “Identification document” substituted for “Passport/Animal health certificate” (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [16(3)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/16/3/b)
+[^c-771fb3998eacf4aa8da920fcc17826c7]: Textual amendment: [Annex 1 Pt. 1](https://www.legislation.gov.uk/eur/2013/577/annex/I/part/1): in the declaration, in the heading to the second column, words “Identification document” substituted for “Passport/Animal health certificate” (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [16(3)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/16/3/b)
 
-[^key-5e8bb92422ca138c3b096ffff1f39ab8]: Textual amendment: Words in [Annex 1 Pt. 1](https://www.legislation.gov.uk/eur/2013/577/annex/I/part/1) heading omitted (E.W.S.) (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [16(3)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/16/3/a)
+[^c-5e8bb92422ca138c3b096ffff1f39ab8]: Textual amendment: Words in [Annex 1 Pt. 1](https://www.legislation.gov.uk/eur/2013/577/annex/I/part/1) heading omitted (E.W.S.) (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [16(3)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/16/3/a)
 
-[^key-7b50b7d21f1a744124ef4163edbcef24]: Textual amendment: [Annex 1 Pt. 2](https://www.legislation.gov.uk/eur/2013/577/annex/I/part/2): in the declaration, in the heading to the second column, word “Pet” substituted for “Animal” (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [16(4)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/16/4)
+[^c-7b50b7d21f1a744124ef4163edbcef24]: Textual amendment: [Annex 1 Pt. 2](https://www.legislation.gov.uk/eur/2013/577/annex/I/part/2): in the declaration, in the heading to the second column, word “Pet” substituted for “Animal” (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [16(4)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/16/4)
 
-[^key-c7aa6eee2825399264c77e4de491b360]: Textual amendment: Words in [Annex 1 Pt. 3](https://www.legislation.gov.uk/eur/2013/577/annex/I/part/3) heading omitted (E.W.S.) (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [16(5)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/16/5/a)
+[^c-c7aa6eee2825399264c77e4de491b360]: Textual amendment: Words in [Annex 1 Pt. 3](https://www.legislation.gov.uk/eur/2013/577/annex/I/part/3) heading omitted (E.W.S.) (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [16(5)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/16/5/a)
 
-[^key-5474a8251048575ff8894dcdf67e427e]: Textual amendment: Words in [Annex 1 Pt. 3](https://www.legislation.gov.uk/eur/2013/577/annex/I/part/3) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [16(5)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/16/5/b)
+[^c-5474a8251048575ff8894dcdf67e427e]: Textual amendment: Words in [Annex 1 Pt. 3](https://www.legislation.gov.uk/eur/2013/577/annex/I/part/3) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [16(5)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/16/5/b)
 
 [^c000001]: Textual amendment: Substituted by [Commission Implementing Regulation (EU) No 1219/2014 of 13 November 2014 amending Annex II to Implementing Regulation (EU) No 577/2013 as regards the list of territories and third countries (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2014/1219).
 
-[^key-b8a3edc417b506504b9f6e0e0cf183c4]: Textual amendment: Words in [Annex 2](https://www.legislation.gov.uk/eur/2013/577/annex/II) heading omitted (E.W.S.) (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(7)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/7/a)
+[^c-b8a3edc417b506504b9f6e0e0cf183c4]: Textual amendment: Words in [Annex 2](https://www.legislation.gov.uk/eur/2013/577/annex/II) heading omitted (E.W.S.) (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(7)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/7/a)
 
-[^key-a00fe36a3441d09415e839297873852f]: Modification: Annex 2 Pt. 1: power to amend conferred (E.W.S.) (31.12.2020) by The Aquatic Animal Health and Alien Species in [Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [8(5)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/8/5/b/i)
+[^c-a00fe36a3441d09415e839297873852f]: Modification: Annex 2 Pt. 1: power to amend conferred (E.W.S.) (31.12.2020) by The Aquatic Animal Health and Alien Species in [Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [8(5)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/8/5/b/i)
 
 [^c000002]: Textual amendment: Substituted by [Commission Implementing Regulation (EU) 2019/1293 of 29 July 2019 amending Implementing Regulation (EU) No 577/2013 as regards the list of territories and third countries in Annex II and the model of animal health certificate for dogs, cats and ferrets set out in Annex IV (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2019/1293).
 
-[^key-6b56578f31fc3b3605e5babeef3cac00]: Textual amendment: Words in [Annex 2 Pt. 1](https://www.legislation.gov.uk/eur/2013/577/annex/II/part/1) heading omitted (E.W.S.) (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(7)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/7/b/i)
+[^c-6b56578f31fc3b3605e5babeef3cac00]: Textual amendment: Words in [Annex 2 Pt. 1](https://www.legislation.gov.uk/eur/2013/577/annex/II/part/1) heading omitted (E.W.S.) (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(7)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/7/b/i)
 
-[^key-6f306c449e0dc21ec700a68e01233325]: Textual amendment: Word in [Annex 2 Pt. 1](https://www.legislation.gov.uk/eur/2013/577/annex/II/part/1) table inserted (E.W.S.) (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(7)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/7/b/ii/bb)
+[^c-6f306c449e0dc21ec700a68e01233325]: Textual amendment: Word in [Annex 2 Pt. 1](https://www.legislation.gov.uk/eur/2013/577/annex/II/part/1) table inserted (E.W.S.) (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(7)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/7/b/ii/bb)
 
-[^key-4d176fca1f1f39f443c35474edb46199]: Textual amendment: Words in [Annex 2 Pt. 1](https://www.legislation.gov.uk/eur/2013/577/annex/II/part/1) table inserted (E.W.S.) (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(7)(b)(ii)(cc)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/7/b/ii/cc)
+[^c-4d176fca1f1f39f443c35474edb46199]: Textual amendment: Words in [Annex 2 Pt. 1](https://www.legislation.gov.uk/eur/2013/577/annex/II/part/1) table inserted (E.W.S.) (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(7)(b)(ii)(cc)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/7/b/ii/cc)
 
-[^key-52da2ce6c2610391fd30723e25469faa]: Textual amendment: Words in [Annex 2 Pt. 1](https://www.legislation.gov.uk/eur/2013/577/annex/II/part/1) table omitted (E.W.S.) (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(7)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/7/b/ii/aa)
+[^c-52da2ce6c2610391fd30723e25469faa]: Textual amendment: Words in [Annex 2 Pt. 1](https://www.legislation.gov.uk/eur/2013/577/annex/II/part/1) table omitted (E.W.S.) (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(7)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/7/b/ii/aa)
 
-[^key-1be5294145477ecf1f40985a54afa3c6]: Modification: [Annex 2 Pt. 2](https://www.legislation.gov.uk/eur/2013/577/annex/II/part/2): power to amend conferred (E.W.S.) (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [8(5)(c)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/8/5/c)
+[^c-1be5294145477ecf1f40985a54afa3c6]: Modification: [Annex 2 Pt. 2](https://www.legislation.gov.uk/eur/2013/577/annex/II/part/2): power to amend conferred (E.W.S.) (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [8(5)(c)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/8/5/c)
 
-[^key-7fe61dfdc84d10a9356d73f7379643d3]: Textual amendment: Words in [Annex 2 Pt. 2](https://www.legislation.gov.uk/eur/2013/577/annex/II/part/2) heading omitted (E.W.S.) (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(7)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/7/c/i)
+[^c-7fe61dfdc84d10a9356d73f7379643d3]: Textual amendment: Words in [Annex 2 Pt. 2](https://www.legislation.gov.uk/eur/2013/577/annex/II/part/2) heading omitted (E.W.S.) (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(7)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/7/c/i)
 
-[^key-d0c1628d8189b61f868f28a2a90b15ad]: Textual amendment: Words in [Annex 2 Pt. 2](https://www.legislation.gov.uk/eur/2013/577/annex/II/part/2) table omitted (E.W.S.) (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(7)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/7/c/ii)
+[^c-d0c1628d8189b61f868f28a2a90b15ad]: Textual amendment: Words in [Annex 2 Pt. 2](https://www.legislation.gov.uk/eur/2013/577/annex/II/part/2) table omitted (E.W.S.) (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(7)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/7/c/ii)
 
-[^key-be3958807800dcba11ad758ad51f37cc]: Textual amendment: Annex 3 omitted (E.W.S.) (31.12.2020) by virtue of The Aquatic Animal Health and Alien Species in [Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(8)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/8)
+[^c-be3958807800dcba11ad758ad51f37cc]: Textual amendment: Annex 3 omitted (E.W.S.) (31.12.2020) by virtue of The Aquatic Animal Health and Alien Species in [Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(8)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/8)
 
-[^key-a44a82361f0d8ae366dc5182c4fe7d00]: Textual amendment: Annex 4 Pt. 1 omitted (E.W.S.) (31.12.2020) by virtue of The Aquatic Animal Health and Alien Species in [Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(9)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/9/a)
+[^c-a44a82361f0d8ae366dc5182c4fe7d00]: Textual amendment: Annex 4 Pt. 1 omitted (E.W.S.) (31.12.2020) by virtue of The Aquatic Animal Health and Alien Species in [Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(9)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/9/a)
 
-[^key-ed8b7dc910eb10fc0cb1d9ba26e6a3e3]: Textual amendment: Annex 4 Pt. 2 omitted (E.W.S.) (31.12.2020) by virtue of The Aquatic Animal Health and Alien Species in [Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(9)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/9/a)
+[^c-ed8b7dc910eb10fc0cb1d9ba26e6a3e3]: Textual amendment: Annex 4 Pt. 2 omitted (E.W.S.) (31.12.2020) by virtue of The Aquatic Animal Health and Alien Species in [Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(9)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/9/a)
 
-[^key-c96b1d24b22f8471860a3c1fb318a411]: Textual amendment: [Annex 4 Pt. 3 s. A](https://www.legislation.gov.uk/eur/2013/577/annex/IV/part/3/section/A): in the table, in the heading to the second column, word “Pet” substituted for “Animal” (E.W.S.) (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(9)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/9/b/i)
+[^c-c96b1d24b22f8471860a3c1fb318a411]: Textual amendment: [Annex 4 Pt. 3 s. A](https://www.legislation.gov.uk/eur/2013/577/annex/IV/part/3/section/A): in the table, in the heading to the second column, word “Pet” substituted for “Animal” (E.W.S.) (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(9)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/9/b/i)
 
-[^key-ab35b585b60599feacdcd0b81320c6c1]: Textual amendment: Words in [Annex 4 Pt. 3 s. B](https://www.legislation.gov.uk/eur/2013/577/annex/IV/part/3/section/B) substituted (E.W.S.) (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(9)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/9/b/ii)
+[^c-ab35b585b60599feacdcd0b81320c6c1]: Textual amendment: Words in [Annex 4 Pt. 3 s. B](https://www.legislation.gov.uk/eur/2013/577/annex/IV/part/3/section/B) substituted (E.W.S.) (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [9(9)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/9/9/b/ii)

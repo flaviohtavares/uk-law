@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Amendment of assimilated direct legislation[^key-4cbd03e6b4555837f93f5216d3000bf3]
+## SCHEDULE 3 — Amendment of assimilated direct legislation[^c-4cbd03e6b4555837f93f5216d3000bf3]
 
 *Extent: E+W+S+N.I.*
 
 Regulation 63
 
-### PART 1 — Revocation of assimilated direct legislation[^key-de8b3567ef1887f738a961d6cbcf6bba]
+### PART 1 — Revocation of assimilated direct legislation[^c-de8b3567ef1887f738a961d6cbcf6bba]
 
-**1.**[^key-f0357ce03f1b5376c83edc5ecad7e1d9] The following instruments are revoked—
+**1.**[^c-f0357ce03f1b5376c83edc5ecad7e1d9] The following instruments are revoked—
 
 - (a) Council Regulation [(EEC) 17/62](https://www.legislation.gov.uk/eur/1962/17): First Regulation implementing Articles 85 and 86 of the Treaty;
 - (b) Council Regulation [(EEC) 19/65](https://www.legislation.gov.uk/eur/1965/19) on the application of Article 85(3) of the Treaty to certain categories of agreements and concerted practices;
@@ -35,14 +35,14 @@ Regulation 63
 - (g) Council Regulation [(EC) No 139/2004](https://www.legislation.gov.uk/eur/2004/139) on the control of concentrations between undertakings;
 - (h) Council Regulation [(EC) 246/2009](https://www.legislation.gov.uk/eur/2009/246) on the application of Article 81(3) of the Treaty to certain categories of agreements, decisions and concerted practices between liner shipping companies (consortia);
 - (i) Council Regulation [(EC) 487/2009](https://www.legislation.gov.uk/eur/2009/487) on the application of Article 81(3) of the Treaty to certain categories of agreements and concerted practices in the air transport sector;
-- (j) Annex 14 to the EEA Agreement insofar as it forms part of domestic law on and after IP completion day[^key-c3a83f8ec2f7a77a396f0a6dc8ce4a20] by virtue of section 3(1) of the European Union (Withdrawal) Act 2018 ;[^key-45f48d29b771964fa47030e6da0d4a71]
+- (j) Annex 14 to the EEA Agreement insofar as it forms part of domestic law on and after IP completion day[^c-c3a83f8ec2f7a77a396f0a6dc8ce4a20] by virtue of section 3(1) of the European Union (Withdrawal) Act 2018 ;[^c-45f48d29b771964fa47030e6da0d4a71]
 - (k) Regulation (EU) 2019/452 of the European Parliament and of the Council of 19 March 2019 establishing a framework for the screening of foreign direct investments into the Union.
 
-**2.**[^key-4864e295599784c06487214cdadc91f1] EU decisions and EU regulations made by the European Commission under the instruments revoked by paragraph 1 (as they form part of domestic law on and after IP completion day[^key-284a6fdc5c84b3c639b55cfeddc6a324] by virtue of section 3(1) of the European Union (Withdrawal) Act 2018) are revoked, with the exception of EU regulations made by the European Commission under the EU regulations specified in paragraph 1(b), (c) and (h).
+**2.**[^c-4864e295599784c06487214cdadc91f1] EU decisions and EU regulations made by the European Commission under the instruments revoked by paragraph 1 (as they form part of domestic law on and after IP completion day[^c-284a6fdc5c84b3c639b55cfeddc6a324] by virtue of section 3(1) of the European Union (Withdrawal) Act 2018) are revoked, with the exception of EU regulations made by the European Commission under the EU regulations specified in paragraph 1(b), (c) and (h).
 
-### PART 2 — Amendment of assimilated Regulations[^key-7d17d6a5d0d46d3f03dad6b904128fb2]
+### PART 2 — Amendment of assimilated Regulations[^c-7d17d6a5d0d46d3f03dad6b904128fb2]
 
-#### 3. Council Regulation [(EC) 169/2009](https://www.legislation.gov.uk/eur/2009/169)[^key-3598261b2725c46bbabc04976880c42e]
+#### 3. Council Regulation [(EC) 169/2009](https://www.legislation.gov.uk/eur/2009/169)[^c-3598261b2725c46bbabc04976880c42e]
 
 (1) Council Regulation [(EC) No 169/2009](https://www.legislation.gov.uk/eur/2009/169) applying rules of competition to transport by rail, road and inland waterway is amended as follows.
 
@@ -60,7 +60,7 @@ Regulation 63
 
 (5) In the words after Article 5, omit the words from “This Regulation shall be binding” to “Member States.”.
 
-#### 4. Commission Regulation [(EC) 906/2009](https://www.legislation.gov.uk/eur/2009/906)[^key-0c1865a509a0fad325ad92d50fc4b292]
+#### 4. Commission Regulation [(EC) 906/2009](https://www.legislation.gov.uk/eur/2009/906)[^c-0c1865a509a0fad325ad92d50fc4b292]
 
 (1) Commission Regulation [(EC) 906/2009](https://www.legislation.gov.uk/eur/2009/906) on the application of Article 81(3) of the Treaty to certain categories of agreements, decisions and concerted practices between liner shipping companies (consortia) is amended as follows.
 
@@ -80,27 +80,27 @@ Regulation 63
 
 (5) In the words after Article 7, omit the words from “This Regulation shall be binding” to “Member States.”.
 
-#### 5. Commission Regulation (EU) 330/2010[^key-839719cffa0c7cc8e93dbf775955a077]
+#### 5. Commission Regulation (EU) 330/2010[^c-839719cffa0c7cc8e93dbf775955a077]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Commission Regulation (EU) 461/2010[^key-839719cffa0c7cc8e93dbf775955a077]
+#### 6. Commission Regulation (EU) 461/2010[^c-839719cffa0c7cc8e93dbf775955a077]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Commission Regulation (EU) 1217/2010[^key-839719cffa0c7cc8e93dbf775955a077]
+#### 7. Commission Regulation (EU) 1217/2010[^c-839719cffa0c7cc8e93dbf775955a077]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Commission Regulation (EU) 1218/2010[^key-839719cffa0c7cc8e93dbf775955a077]
+#### 8. Commission Regulation (EU) 1218/2010[^c-839719cffa0c7cc8e93dbf775955a077]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. Commission Regulation (EU) 316/2014[^key-eca9dcc566b9252dc801079b37b9fb9a]
+#### 9. Commission Regulation (EU) 316/2014[^c-eca9dcc566b9252dc801079b37b9fb9a]
 
 (1) Commission Regulation (EU) 316/2014 on the application of Article 101(3) of the Treaty on the Functioning of the European Union to categories of technology transfer agreements is amended as follows.
 
@@ -125,7 +125,7 @@ Regulation 63
 
 (6) In the words after Article 11, omit the words from “This Regulation shall be binding” to “Member States.”.
 
-#### 10. Effect of certain revocations[^key-5bfa0207bfee72f5efc2bd4b95afdf99]
+#### 10. Effect of certain revocations[^c-5bfa0207bfee72f5efc2bd4b95afdf99]
 
 (1) The revocation of the provisions of Commission Regulations listed in sub-paragraph (2) is not to be read as—
 
@@ -134,8 +134,8 @@ Regulation 63
 
 (2) Those provisions are—
 
-- (a)[^key-ed4d95815ce233916054d84e5ead1093] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-ed4d95815ce233916054d84e5ead1093] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-ed4d95815ce233916054d84e5ead1093] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-ed4d95815ce233916054d84e5ead1093] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) Article 7 of Commission Regulation (EU) 316/2014 on the application of Article 101(3) of the Treaty on the Functioning of the European Union to categories of technology transfer agreements.
 
 (3) The revocation of Article 6 of Commission Regulation (EU) 316/2014 on the application of Article 101(3) of the Treaty on the Functioning of the European Union to categories of technology transfer agreements is not to be read as—
@@ -145,32 +145,32 @@ Regulation 63
 
 ## Annotations
 
-[^key-4cbd03e6b4555837f93f5216d3000bf3]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2019/93/schedule/3) heading substituted (1.3.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 7(3)(a)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/7/3/a)
+[^c-4cbd03e6b4555837f93f5216d3000bf3]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2019/93/schedule/3) heading substituted (1.3.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 7(3)(a)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/7/3/a)
 
-[^key-de8b3567ef1887f738a961d6cbcf6bba]: Textual amendment: Words in [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/part/1) heading substituted (1.3.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 7(3)(b)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/7/3/b)
+[^c-de8b3567ef1887f738a961d6cbcf6bba]: Textual amendment: Words in [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/part/1) heading substituted (1.3.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 7(3)(b)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/7/3/b)
 
-[^key-f0357ce03f1b5376c83edc5ecad7e1d9]: Commencement: Sch. 3 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-f0357ce03f1b5376c83edc5ecad7e1d9]: Commencement: Sch. 3 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-c3a83f8ec2f7a77a396f0a6dc8ce4a20]: Textual amendment: Words in Sch. 3 para. 1(j) substituted (31.12.2020 immediately before IP completion day) by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [34(2)(a)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/34/2/a)
+[^c-c3a83f8ec2f7a77a396f0a6dc8ce4a20]: Textual amendment: Words in Sch. 3 para. 1(j) substituted (31.12.2020 immediately before IP completion day) by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [34(2)(a)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/34/2/a)
 
-[^key-45f48d29b771964fa47030e6da0d4a71]: Textual amendment: Sch. 3 para. 1(k) inserted (31.12.2020 immediately before IP completion day) by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [34(2)(b)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/34/2/b)
+[^c-45f48d29b771964fa47030e6da0d4a71]: Textual amendment: Sch. 3 para. 1(k) inserted (31.12.2020 immediately before IP completion day) by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [34(2)(b)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/34/2/b)
 
-[^key-4864e295599784c06487214cdadc91f1]: Commencement: Sch. 3 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-4864e295599784c06487214cdadc91f1]: Commencement: Sch. 3 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-284a6fdc5c84b3c639b55cfeddc6a324]: Textual amendment: Words in Sch. 3 para. 2 substituted (31.12.2020 immediately before IP completion day) by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [34(3)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/34/3)
+[^c-284a6fdc5c84b3c639b55cfeddc6a324]: Textual amendment: Words in Sch. 3 para. 2 substituted (31.12.2020 immediately before IP completion day) by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [34(3)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/34/3)
 
-[^key-7d17d6a5d0d46d3f03dad6b904128fb2]: Textual amendment: Words in [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/part/2) heading substituted (1.3.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 7(3)(c)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/7/3/c)
+[^c-7d17d6a5d0d46d3f03dad6b904128fb2]: Textual amendment: Words in [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/part/2) heading substituted (1.3.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 7(3)(c)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/7/3/c)
 
-[^key-3598261b2725c46bbabc04976880c42e]: Commencement: Sch. 3 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-3598261b2725c46bbabc04976880c42e]: Commencement: Sch. 3 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-0c1865a509a0fad325ad92d50fc4b292]: Commencement: Sch. 3 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-0c1865a509a0fad325ad92d50fc4b292]: Commencement: Sch. 3 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-839719cffa0c7cc8e93dbf775955a077]: Textual amendment: [Sch. 3 paras. 5-8](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/5) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-839719cffa0c7cc8e93dbf775955a077]: Textual amendment: [Sch. 3 paras. 5-8](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/5) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-eca9dcc566b9252dc801079b37b9fb9a]: Commencement: Sch. 3 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-eca9dcc566b9252dc801079b37b9fb9a]: Commencement: Sch. 3 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-5bfa0207bfee72f5efc2bd4b95afdf99]: Commencement: Sch. 3 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-5bfa0207bfee72f5efc2bd4b95afdf99]: Commencement: Sch. 3 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23883611]: Marginal citation: [1998 c. 41](https://www.legislation.gov.uk/ukpga/1998/41); section 10A is inserted into the Competition Act 1998 by regulation 4 of these Regulations.
 
-[^key-ed4d95815ce233916054d84e5ead1093]: Textual amendment: [Sch. 3 para. 10(2)(a)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/10/2/a)[(b)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/10/2/b) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-ed4d95815ce233916054d84e5ead1093]: Textual amendment: [Sch. 3 para. 10(2)(a)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/10/2/a)[(b)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/10/2/b) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)

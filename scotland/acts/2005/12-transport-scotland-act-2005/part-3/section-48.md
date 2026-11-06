@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Transitional provision for sections 46 and 47[^key-4ebf4dda5dced45572c0f74e6b90621a]
+## 48. Transitional provision for sections 46 and 47[^c-4ebf4dda5dced45572c0f74e6b90621a]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ Nothing in section 46 or 47 of this Act applies—
 
 ## Annotations
 
-[^key-4ebf4dda5dced45572c0f74e6b90621a]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2005/12/section/48) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
+[^c-4ebf4dda5dced45572c0f74e6b90621a]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2005/12/section/48) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)

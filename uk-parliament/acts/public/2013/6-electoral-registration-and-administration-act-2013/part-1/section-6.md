@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Amendment of Parliamentary Constituencies Act 1986[^key-64a8326f78b4c97c66a339bdf8fdd736]
+## 6. Amendment of Parliamentary Constituencies Act 1986[^c-64a8326f78b4c97c66a339bdf8fdd736]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64a8326f78b4c97c66a339bdf8fdd736]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/2013/6/section/6) omitted (14.12.2020) by virtue of [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2), [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2020/25/schedule/paragraph/11) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-64a8326f78b4c97c66a339bdf8fdd736]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/2013/6/section/6) omitted (14.12.2020) by virtue of [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2), [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2020/25/schedule/paragraph/11) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))

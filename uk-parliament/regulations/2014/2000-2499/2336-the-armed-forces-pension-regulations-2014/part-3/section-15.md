@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Payments of benefits to dual capacity members[^key-fdb7e0bb04642f7d966cc5c2bb113600]
+## 15. Payments of benefits to dual capacity members[^c-fdb7e0bb04642f7d966cc5c2bb113600]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fdb7e0bb04642f7d966cc5c2bb113600]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2014/2336/regulation/15) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-fdb7e0bb04642f7d966cc5c2bb113600]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2014/2336/regulation/15) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

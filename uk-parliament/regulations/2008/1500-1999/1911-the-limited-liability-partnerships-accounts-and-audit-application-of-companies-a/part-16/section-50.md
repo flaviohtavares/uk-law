@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-Sections 1125 to 1132 apply to LLPs for the purposes of these Regulations[^key-11a75c1f6da617d801a81b6f2514c661], modified so that they read as follows—
+Sections 1125 to 1132 apply to LLPs for the purposes of these Regulations[^c-11a75c1f6da617d801a81b6f2514c661], modified so that they read as follows—
 
 > **1125. Meaning of “daily default fine**
 >
@@ -116,4 +116,4 @@ The decision under this section of a judge of the High Court, any of the Lords C
 
 ## Annotations
 
-[^key-11a75c1f6da617d801a81b6f2514c661]: Textual amendment: Words in regs. 49-51 inserted (1.10.2009) by virtue of [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 15(4)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/15/4)
+[^c-11a75c1f6da617d801a81b6f2514c661]: Textual amendment: Words in regs. 49-51 inserted (1.10.2009) by virtue of [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 15(4)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/15/4)

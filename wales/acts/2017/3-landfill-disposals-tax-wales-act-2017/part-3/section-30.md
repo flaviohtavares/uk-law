@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Site restoration work: procedure on application for approval[^key-8c1412a2840b5437aac8786772346467]
+## 30. Site restoration work: procedure on application for approval[^c-8c1412a2840b5437aac8786772346467]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c1412a2840b5437aac8786772346467]: Commencement: [S. 30](https://www.legislation.gov.uk/anaw/2017/3/section/30) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(f)](https://www.legislation.gov.uk/wsi/2018/35/article/2/f)
+[^c-8c1412a2840b5437aac8786772346467]: Commencement: [S. 30](https://www.legislation.gov.uk/anaw/2017/3/section/30) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(f)](https://www.legislation.gov.uk/wsi/2018/35/article/2/f)

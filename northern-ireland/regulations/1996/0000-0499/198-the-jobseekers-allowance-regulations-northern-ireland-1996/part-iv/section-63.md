@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 63. Reduced payments under Article 19 of the Order[^key-1c8d4028cdae0e8bd6bb0b7dc1bc6453]
+## 63. Reduced payments under Article 19 of the Order[^c-1c8d4028cdae0e8bd6bb0b7dc1bc6453]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c8d4028cdae0e8bd6bb0b7dc1bc6453]: Commencement: Reg. 63 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-1c8d4028cdae0e8bd6bb0b7dc1bc6453]: Commencement: Reg. 63 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

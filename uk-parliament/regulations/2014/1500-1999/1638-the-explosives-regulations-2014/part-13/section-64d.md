@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64D. Qualifying Northern Ireland Goods[^key-f1470c5bdd6ce51dcdba21d3fb24ca12]
+## 64D. Qualifying Northern Ireland Goods[^c-f1470c5bdd6ce51dcdba21d3fb24ca12]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1470c5bdd6ce51dcdba21d3fb24ca12]: Textual amendment: [Regs. 64A-64D](https://www.legislation.gov.uk/uksi/2014/1638/regulation/64A) inserted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 16 para. 23](https://www.legislation.gov.uk/uksi/2019/696/schedule/16/paragraph/23) (with [Sch. 16 para. 29](https://www.legislation.gov.uk/uksi/2019/696/schedule/16/paragraph/29)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2), [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 10(4)(b)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/10/4/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f1470c5bdd6ce51dcdba21d3fb24ca12]: Textual amendment: [Regs. 64A-64D](https://www.legislation.gov.uk/uksi/2014/1638/regulation/64A) inserted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 16 para. 23](https://www.legislation.gov.uk/uksi/2019/696/schedule/16/paragraph/23) (with [Sch. 16 para. 29](https://www.legislation.gov.uk/uksi/2019/696/schedule/16/paragraph/29)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2), [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 10(4)(b)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/10/4/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

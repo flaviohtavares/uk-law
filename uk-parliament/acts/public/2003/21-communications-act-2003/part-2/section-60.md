@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Modification of documents referred to in numbering conditions[^key-3d5637ef441c923cf34e950a6b78fbf5][^key-f741ecb5b9e9c597c1de4aeb87c7a23e]
+## 60. Modification of documents referred to in numbering conditions[^c-3d5637ef441c923cf34e950a6b78fbf5][^c-f741ecb5b9e9c597c1de4aeb87c7a23e]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ summary: ''
 - (d) giving their reasons for making the proposal; and
 - (e) specifying the period within which representations may be made to OFCOM about their proposal.
 
-(4) That period must be one ending not less than 30 days[^key-e8ad3707923037877e4ac98169b73723] after the day of the publication of the notification.
+(4) That period must be one ending not less than 30 days[^c-e8ad3707923037877e4ac98169b73723] after the day of the publication of the notification.
 
 (5) OFCOM may give effect, with or without modifications, to a proposal with respect to which they have published a notification under subsection (3) only if—
 
@@ -58,8 +58,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3d5637ef441c923cf34e950a6b78fbf5]: Commencement: S. 60 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-3d5637ef441c923cf34e950a6b78fbf5]: Commencement: S. 60 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-f741ecb5b9e9c597c1de4aeb87c7a23e]: Commencement: S. 60 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-f741ecb5b9e9c597c1de4aeb87c7a23e]: Commencement: S. 60 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-e8ad3707923037877e4ac98169b73723]: Textual amendment: Words in s. 60(4) substituted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/20)
+[^c-e8ad3707923037877e4ac98169b73723]: Textual amendment: Words in s. 60(4) substituted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/20)

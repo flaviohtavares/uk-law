@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Master’s power of delivery.[^c10456841][^key-e3c8918e5172a077a428b5078248b9a0]
+## 15. Master’s power of delivery.[^c10456841][^c-e3c8918e5172a077a428b5078248b9a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 - (a) committed any offence under section 9, 11, 12 or 13 of this Act,
 - (b) attempted to commit such an offence, or
-- (c)[^key-770c85ecba8b4a6528cf4658b81e4ba5] aided, abetted, counselled, procured or incited, or been art and part in, the commission of such an offence,
+- (c)[^c-770c85ecba8b4a6528cf4658b81e4ba5] aided, abetted, counselled, procured or incited, or been art and part in, the commission of such an offence,
 
 in relation to any ship other than a warship or other ship used as a naval auxiliary or in customs or police service, he may deliver that person to an appropriate officer in the United Kingdom or any other Convention country.
 
@@ -65,8 +65,8 @@ in relation to any ship other than a warship or other ship used as a naval auxil
 
 [^c10456841]: Modification: [S. 15](https://www.legislation.gov.uk/ukpga/1990/31/section/15) extended (with modifications) (Jersey) (1.1.1997) by [S.I. 1996/2881](https://www.legislation.gov.uk/uksi/1996/2881), [art. 2](https://www.legislation.gov.uk/uksi/1996/2881/article/2), [Sch. Pts. I](https://www.legislation.gov.uk/uksi/1996/2881/schedule/part/I), [II](https://www.legislation.gov.uk/uksi/1996/2881/schedule/part/II)
 
-[^key-e3c8918e5172a077a428b5078248b9a0]: Modification: Ss. 9-43 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the extending S.I.) by [The Maritime Security (Jersey) Order 2014 (S.I. 2014/265)](https://www.legislation.gov.uk/uksi/2014/265), [art. 2](https://www.legislation.gov.uk/uksi/2014/265/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2014/265/schedule)
+[^c-e3c8918e5172a077a428b5078248b9a0]: Modification: Ss. 9-43 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the extending S.I.) by [The Maritime Security (Jersey) Order 2014 (S.I. 2014/265)](https://www.legislation.gov.uk/uksi/2014/265), [art. 2](https://www.legislation.gov.uk/uksi/2014/265/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2014/265/schedule)
 
-[^key-770c85ecba8b4a6528cf4658b81e4ba5]: Modification: [S. 15(2)(c)](https://www.legislation.gov.uk/ukpga/1990/31/section/15/2/c) modified (E.W.) (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 18(b)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/18/b) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
+[^c-770c85ecba8b4a6528cf4658b81e4ba5]: Modification: [S. 15(2)(c)](https://www.legislation.gov.uk/ukpga/1990/31/section/15/2/c) modified (E.W.) (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 18(b)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/18/b) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
 
 [^c10456851]: Textual amendment: Words in [s. 15(8)](https://www.legislation.gov.uk/ukpga/1990/31/section/15/8) substituted (1.1.1996) by [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21), [ss. 314(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/314/2), [316(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/316/2), [Sch. 13 para. 88(3)](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13/paragraph/88/3) (with s. 312(1)

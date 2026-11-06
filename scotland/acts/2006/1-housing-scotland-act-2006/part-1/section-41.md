@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Sale of materials from demolished houses[^key-08ad2606ef28c01102894a247b3627f8]
+## 41. Sale of materials from demolished houses[^c-08ad2606ef28c01102894a247b3627f8]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08ad2606ef28c01102894a247b3627f8]: Commencement: S. 41 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-08ad2606ef28c01102894a247b3627f8]: Commencement: S. 41 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

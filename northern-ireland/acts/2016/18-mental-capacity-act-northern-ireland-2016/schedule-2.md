@@ -24,7 +24,7 @@ Section 25.
 
 ### Part 1 — Preliminary
 
-**1.**[^key-6eaf98494b1d3411329b9764d57bccb0] (1) In this Schedule—
+**1.**[^c-6eaf98494b1d3411329b9764d57bccb0] (1) In this Schedule—
 
 - “**the criteria for authorisation**” has the meaning given by paragraph 2(3);
 - “**the responsible medical practitioner**”, in relation to a person who is an in-patient in a hospital, means the medical practitioner who is in charge of the person's care in the hospital (see also sub-paragraphs (2) and (3)).
@@ -41,7 +41,7 @@ Section 25.
 
 #### Authorisation of detention in hospital for examination etc
 
-**2.**[^key-6fc3a5aff73950eebd7c0b914a5a59aa] (1) The detention of a person in a hospital in circumstances amounting to a deprivation of liberty, for the purposes of examination (or of examination followed by other treatment or care), may be authorised by the making of a report under this paragraph.
+**2.**[^c-6fc3a5aff73950eebd7c0b914a5a59aa] (1) The detention of a person in a hospital in circumstances amounting to a deprivation of liberty, for the purposes of examination (or of examination followed by other treatment or care), may be authorised by the making of a report under this paragraph.
 
 (2) An appropriate healthcare professional (as defined by paragraph 3) may make a report under this paragraph in respect of a person who is 16 or over (“P”) if, in the opinion of the appropriate healthcare professional, the criteria for authorisation are met.
 
@@ -69,7 +69,7 @@ Section 25.
 
 #### Who may make a report under paragraph 2
 
-**3.**[^key-793dd19e4fcd37a17159344680ee0bd7] (1) In paragraph 2 “**an appropriate healthcare professional**” means a person who—
+**3.**[^c-793dd19e4fcd37a17159344680ee0bd7] (1) In paragraph 2 “**an appropriate healthcare professional**” means a person who—
 
 - (a) is of a prescribed description; and
 - (b) is unconnected with P (see section 304).
@@ -81,26 +81,26 @@ Section 25.
 
 #### Medical report
 
-**4.**[^key-ee3a8d32116292e5ef71d2e0a1629e5c] (1) The medical report included in a report under paragraph 2 must be in the prescribed form and must—
+**4.**[^c-ee3a8d32116292e5ef71d2e0a1629e5c] (1) The medical report included in a report under paragraph 2 must be in the prescribed form and must—
 
 - (a) be made by a medical practitioner who is unconnected with P and is permitted by regulations under section 300 to make the report;
 - (b) include a statement by the person making the medical report that in that person's opinion the criteria for authorisation are met; and
 - (c) include any prescribed information.
 
-(2)[^key-1cfa644c592f5aedd3dbe1375407e5ac] The maker of the medical report must have examined P not more than two days *(affected by repeal, see note)*[^key-f749a3114cdcb75d8b2d2340e71c73d7] five days before the date when the medical report is made.
+(2)[^c-1cfa644c592f5aedd3dbe1375407e5ac] The maker of the medical report must have examined P not more than two days *(affected by repeal, see note)*[^c-f749a3114cdcb75d8b2d2340e71c73d7] five days before the date when the medical report is made.
 
 (3) See also sections 54 and 55 (involvement of nominated person and independent mental capacity advocate).
 
 #### Consultation required before report authorising detention is made
 
-**5.**[^key-bf5349178a0748a94c5088acbc7aa766][^key-42a5a18eb23fe3d949938152f1eb9bd4] A person may make a report under paragraph 2 only if the person has personally seen P not more than two days *(affected by repeal, see note)*[^key-c8a3461cbf7aabdaec36875b3440c761] five days before the date on which that report is made.
+**5.**[^c-bf5349178a0748a94c5088acbc7aa766][^c-42a5a18eb23fe3d949938152f1eb9bd4] A person may make a report under paragraph 2 only if the person has personally seen P not more than two days *(affected by repeal, see note)*[^c-c8a3461cbf7aabdaec36875b3440c761] five days before the date on which that report is made.
 
-**6.**[^key-73f72e91ed4450cca52558904dd48d42] (1)[^key-5c2e7a14651eaf690f96adcc1d41e2a4] Where—
+**6.**[^c-73f72e91ed4450cca52558904dd48d42] (1)[^c-5c2e7a14651eaf690f96adcc1d41e2a4] Where—
 
 - (a) it is proposed to make a report under paragraph 2, and
 - (b) P's nominated person objects to the making of the report,
 
-a person may make a report under paragraph 2 in respect of P only if the person has consulted an approved social worker. *(affected by repeal, see note)*[^key-c1f3adaa6e848d82c3ac3aa95751871f] only if—
+a person may make a report under paragraph 2 in respect of P only if the person has consulted an approved social worker. *(affected by repeal, see note)*[^c-c1f3adaa6e848d82c3ac3aa95751871f] only if—
 
 - (a) the person has consulted an approved social worker, or
 - (b) the person considers that it is impractical or would involve undesirable delay to consult an approved social worker, the person has consulted a relevant social worker.
@@ -109,7 +109,7 @@ a person may make a report under paragraph 2 in respect of P only if the person 
 
 #### Information to be given where report authorising detention is made
 
-**7.**[^key-13b4ae4ad266b4b99a2898b4f1778c7d] (1) Where a report under paragraph 2 is made, the person who made the report must as soon as practicable give prescribed information to—
+**7.**[^c-13b4ae4ad266b4b99a2898b4f1778c7d] (1) Where a report under paragraph 2 is made, the person who made the report must as soon as practicable give prescribed information to—
 
 - (a) the managing authority of the hospital specified in the report; and
 - (b) any prescribed person.
@@ -118,7 +118,7 @@ a person may make a report under paragraph 2 in respect of P only if the person 
 
 #### Duration of authorisation: preliminary
 
-**8.**[^key-4b88096a0b086bdf5a00b136e619ed96] (1) An authorisation granted by the making of a report under paragraph 2—
+**8.**[^c-4b88096a0b086bdf5a00b136e619ed96] (1) An authorisation granted by the making of a report under paragraph 2—
 
 - (a) takes effect from the time the report is made; and
 - (b) expires (if not previously revoked) when an event which terminates the authorisation occurs (or, if more than one such event occurs, on the occurrence of the first of those events).
@@ -129,7 +129,7 @@ a person may make a report under paragraph 2 in respect of P only if the person 
 
 #### Expiry where failure to admit P within period required
 
-**9.**[^key-b7d3655d18c4f3922091ebd1525d4c60] (1) If—
+**9.**[^c-b7d3655d18c4f3922091ebd1525d4c60] (1) If—
 
 - (a) at the time when a report under paragraph 2 is made P is not already an in-patient in the hospital specified in the report, and
 - (b) at the end of the period allowed for admission P has not been admitted to that hospital,
@@ -145,7 +145,7 @@ the expiry of that period is an event which terminates the authorisation.
 
 #### Expiry where failure to give P certain information
 
-**10.**[^key-1185b777bcca9e569d8c92d7b9e29ce1] (1) This paragraph applies if—
+**10.**[^c-1185b777bcca9e569d8c92d7b9e29ce1] (1) This paragraph applies if—
 
 - (a) pursuant to a report under paragraph 2, P is admitted to the hospital specified in the report; or
 - (b) P is treated under paragraph 1(5) as so admitted.
@@ -154,7 +154,7 @@ the expiry of that period is an event which terminates the authorisation.
 
 #### Expiry where failure to examine and report on P on admission
 
-**11.**[^key-4c479c6a82397b66289c1da6652f44d6] (1) This paragraph applies where—
+**11.**[^c-4c479c6a82397b66289c1da6652f44d6] (1) This paragraph applies where—
 
 - (a) pursuant to a report under paragraph 2, P is admitted to the hospital specified in the report; or
 - (b) P is treated under paragraph 1(5) as so admitted.
@@ -182,7 +182,7 @@ the expiry of that period is an event which terminates the authorisation.
 
 #### The condition for detention
 
-**12.**[^key-a831f00e1c28ecf3b5cd5023fe4aef3a] (1) This paragraph applies for the purposes of paragraphs 11, 13 and 14.
+**12.**[^c-a831f00e1c28ecf3b5cd5023fe4aef3a] (1) This paragraph applies for the purposes of paragraphs 11, 13 and 14.
 
 (2) The condition referred to in those paragraphs is that—
 
@@ -200,7 +200,7 @@ the expiry of that period is an event which terminates the authorisation.
 
 #### Expiry where no examination and report by suitable medical practitioner within required time
 
-**13.**[^key-131a619d20500a0fd038e43f1ed0d4b2] (1) This paragraph applies where—
+**13.**[^c-131a619d20500a0fd038e43f1ed0d4b2] (1) This paragraph applies where—
 
 - (a) a report under paragraph 11 (an “admission report”) has been made;
 - (b) the admission report was not such as to terminate the authorisation; and
@@ -223,7 +223,7 @@ the expiry of that period is an event which terminates the authorisation.
 
 #### Expiry where no further examination and report on P within 14 days
 
-**14.**[^key-0d92770876c61e32a96a862c5cfbaa80] (1) This paragraph applies where—
+**14.**[^c-0d92770876c61e32a96a862c5cfbaa80] (1) This paragraph applies where—
 
 - (a) either of the following has been made—
   - (i) a report under paragraph 11 by a practitioner within paragraph 11(3)(a) or (b); or
@@ -249,7 +249,7 @@ the expiry of that period is an event which terminates the authorisation.
 
 #### Expiry 14 days after date of further report
 
-**15.**[^key-0c9e3abd21e723baa5e2786e45277843] (1) This paragraph applies where a report under paragraph 14 has been made and the report was not such as to terminate the authorisation.
+**15.**[^c-0c9e3abd21e723baa5e2786e45277843] (1) This paragraph applies where a report under paragraph 14 has been made and the report was not such as to terminate the authorisation.
 
 (2) The expiry of the remaining period allowed is an event which terminates the authorisation.
 
@@ -257,7 +257,7 @@ the expiry of that period is an event which terminates the authorisation.
 
 #### Discharge
 
-**16.**[^key-10ae6db83d543f3f27e0aa81c7d45d1c] (1) If—
+**16.**[^c-10ae6db83d543f3f27e0aa81c7d45d1c] (1) If—
 
 - (a) pursuant to a report under paragraph 2, P is admitted to the hospital specified in the report, or
 - (b) P is treated under paragraph 1(5) as so admitted,
@@ -268,7 +268,7 @@ and P is subsequently discharged from detention, that discharge is an event whic
 
 #### Unreasonable delay in taking certain steps
 
-**17.**[^key-5e638e1c25f525dab48511c3f89a8e59] (1) If—
+**17.**[^c-5e638e1c25f525dab48511c3f89a8e59] (1) If—
 
 - (a) pursuant to a report under paragraph 2, P is admitted to the hospital specified in the report, or
 - (b) P is treated under paragraph 1(5) as so admitted,
@@ -281,7 +281,7 @@ and subsequently there is an unreasonable delay in taking a relevant step, the s
 
 #### Detention covered by authorisation
 
-**18.**[^key-480820b18b56f8289251c807623ed621] (1) This paragraph applies where a report is made under paragraph 2.
+**18.**[^c-480820b18b56f8289251c807623ed621] (1) This paragraph applies where a report is made under paragraph 2.
 
 (2) The authorisation granted by the making of the report authorises—
 
@@ -301,11 +301,11 @@ and subsequently there is an unreasonable delay in taking a relevant step, the s
 
 #### Relationship with other conditions
 
-**19.**[^key-289a935ba72e0eca6737a97ec7399720] For the avoidance of doubt, the fact that a particular measure is authorised by an authorisation under this Schedule does not affect the need for the other conditions of this Part of this Act that apply to be met in respect of any act which is, or is part of, that measure.
+**19.**[^c-289a935ba72e0eca6737a97ec7399720] For the avoidance of doubt, the fact that a particular measure is authorised by an authorisation under this Schedule does not affect the need for the other conditions of this Part of this Act that apply to be met in respect of any act which is, or is part of, that measure.
 
 #### Rectification of reports: correction of administrative errors
 
-**20.**[^key-515b67befb37fcde9285b5e8b016925e] (1) Where a report under this Schedule is incorrect or defective in any respect as a result of an administrative error, the appropriate person may (subject to sub-paragraph (3)) amend the report for the purpose of correcting the error.
+**20.**[^c-515b67befb37fcde9285b5e8b016925e] (1) Where a report under this Schedule is incorrect or defective in any respect as a result of an administrative error, the appropriate person may (subject to sub-paragraph (3)) amend the report for the purpose of correcting the error.
 
 (2) “**The appropriate person**”, in relation to a report (“the relevant report”), means—
 
@@ -323,7 +323,7 @@ and subsequently there is an unreasonable delay in taking a relevant step, the s
 
 #### Rectification of reports: substitution of medical reports
 
-**21.**[^key-71cf9a6c982268f9c0b8c990392d3338] (1) This paragraph applies where—
+**21.**[^c-71cf9a6c982268f9c0b8c990392d3338] (1) This paragraph applies where—
 
 - (a) a report under paragraph 2 (“the authorisation report”) has been made; and
 - (b) at any time before the end of the permitted period it appears to the managing authority that the medical report included in the authorisation report does not comply with the requirements of paragraph 4.
@@ -346,7 +346,7 @@ the authorisation report is valid, and is to be treated as always having been va
 - “**the managing authority**” means the managing authority of the hospital specified in the authorisation report;
 - “**the permitted period**” has the same meaning as in paragraph 20.
 
-**22.**[^key-f4acb1611ab1b9b919455ea1931c4d0d] (1) This paragraph applies where—
+**22.**[^c-f4acb1611ab1b9b919455ea1931c4d0d] (1) This paragraph applies where—
 
 - (a) a report under paragraph 2 (“the authorisation report”) has been made in respect of a person (“P”); and
 - (b) at any time before the end of the permitted period, it appears to the managing authority that a report under paragraph 11, 13 or 14 made in respect of P (“the original report”) does not comply with the requirements of that paragraph (“the relevant paragraph”).
@@ -371,58 +371,58 @@ the authorisation has effect, and is treated as always having had effect, as if 
 
 ## Annotations
 
-[^key-6eaf98494b1d3411329b9764d57bccb0]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/1) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-6eaf98494b1d3411329b9764d57bccb0]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/1) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
 
-[^key-6fc3a5aff73950eebd7c0b914a5a59aa]: Commencement: Sch. 2 para. 2 in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), art. 2)
+[^c-6fc3a5aff73950eebd7c0b914a5a59aa]: Commencement: Sch. 2 para. 2 in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), art. 2)
 
-[^key-793dd19e4fcd37a17159344680ee0bd7]: Commencement: Sch. 2 para. 3 in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), art. 2)
+[^c-793dd19e4fcd37a17159344680ee0bd7]: Commencement: Sch. 2 para. 3 in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), art. 2)
 
-[^key-ee3a8d32116292e5ef71d2e0a1629e5c]: Commencement: Sch. 2 para. 4 in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), art. 2)
+[^c-ee3a8d32116292e5ef71d2e0a1629e5c]: Commencement: Sch. 2 para. 4 in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), art. 2)
 
-[^key-1cfa644c592f5aedd3dbe1375407e5ac]: Modification: [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/4/2) expiry of earlier affecting provision 2020 c. 7, Sch. 11 paras. 3-9 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-1cfa644c592f5aedd3dbe1375407e5ac]: Modification: [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/4/2) expiry of earlier affecting provision 2020 c. 7, Sch. 11 paras. 3-9 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
 
-[^key-f749a3114cdcb75d8b2d2340e71c73d7]: Textual amendment: Words in Sch. 2 para. 4(2) substituted (temp.) (2.4.2020) by virtue of [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(2)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/2), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2020/7/schedule/11/paragraph/6) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88), [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2020/7/schedule/11/paragraph/2)); [S.R. 2020/58](https://www.legislation.gov.uk/nisr/2020/58), [art. 2(e)](https://www.legislation.gov.uk/nisr/2020/58/article/2/e)
+[^c-f749a3114cdcb75d8b2d2340e71c73d7]: Textual amendment: Words in Sch. 2 para. 4(2) substituted (temp.) (2.4.2020) by virtue of [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(2)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/2), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2020/7/schedule/11/paragraph/6) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88), [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2020/7/schedule/11/paragraph/2)); [S.R. 2020/58](https://www.legislation.gov.uk/nisr/2020/58), [art. 2(e)](https://www.legislation.gov.uk/nisr/2020/58/article/2/e)
 
-[^key-bf5349178a0748a94c5088acbc7aa766]: Commencement: Sch. 2 para. 5 in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), art. 2)
+[^c-bf5349178a0748a94c5088acbc7aa766]: Commencement: Sch. 2 para. 5 in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), art. 2)
 
-[^key-42a5a18eb23fe3d949938152f1eb9bd4]: Modification: [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/5) expiry of earlier affecting provision 2020 c. 7, Sch. 11 paras. 3-9 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-42a5a18eb23fe3d949938152f1eb9bd4]: Modification: [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/5) expiry of earlier affecting provision 2020 c. 7, Sch. 11 paras. 3-9 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
 
-[^key-c8a3461cbf7aabdaec36875b3440c761]: Textual amendment: Words in Sch. 2 para. 5 substituted (temp.) (2.4.2020) by virtue of [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(2)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/2), [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2020/7/schedule/11/paragraph/7) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88), [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2020/7/schedule/11/paragraph/2)); [S.R. 2020/58](https://www.legislation.gov.uk/nisr/2020/58), [art. 2(e)](https://www.legislation.gov.uk/nisr/2020/58/article/2/e)
+[^c-c8a3461cbf7aabdaec36875b3440c761]: Textual amendment: Words in Sch. 2 para. 5 substituted (temp.) (2.4.2020) by virtue of [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(2)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/2), [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2020/7/schedule/11/paragraph/7) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88), [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2020/7/schedule/11/paragraph/2)); [S.R. 2020/58](https://www.legislation.gov.uk/nisr/2020/58), [art. 2(e)](https://www.legislation.gov.uk/nisr/2020/58/article/2/e)
 
-[^key-73f72e91ed4450cca52558904dd48d42]: Commencement: Sch. 2 para. 6 in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), art. 2)
+[^c-73f72e91ed4450cca52558904dd48d42]: Commencement: Sch. 2 para. 6 in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), art. 2)
 
-[^key-5c2e7a14651eaf690f96adcc1d41e2a4]: Modification: [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/6/1) expiry of earlier affecting provision 2020 c. 7, Sch. 11 paras. 3-9 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-5c2e7a14651eaf690f96adcc1d41e2a4]: Modification: [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/6/1) expiry of earlier affecting provision 2020 c. 7, Sch. 11 paras. 3-9 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
 
-[^key-c1f3adaa6e848d82c3ac3aa95751871f]: Textual amendment: Words in Sch. 2 para. 6(1) substituted (temp.) (2.4.2020) by virtue of [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(2)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/2), [Sch. 11 para. 8(1)](https://www.legislation.gov.uk/ukpga/2020/7/schedule/11/paragraph/8/1) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88), [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2020/7/schedule/11/paragraph/2)); [S.R. 2020/58](https://www.legislation.gov.uk/nisr/2020/58), [art. 2(e)](https://www.legislation.gov.uk/nisr/2020/58/article/2/e)
+[^c-c1f3adaa6e848d82c3ac3aa95751871f]: Textual amendment: Words in Sch. 2 para. 6(1) substituted (temp.) (2.4.2020) by virtue of [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(2)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/2), [Sch. 11 para. 8(1)](https://www.legislation.gov.uk/ukpga/2020/7/schedule/11/paragraph/8/1) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88), [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2020/7/schedule/11/paragraph/2)); [S.R. 2020/58](https://www.legislation.gov.uk/nisr/2020/58), [art. 2(e)](https://www.legislation.gov.uk/nisr/2020/58/article/2/e)
 
-[^key-13b4ae4ad266b4b99a2898b4f1778c7d]: Commencement: Sch. 2 para. 7 in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), art. 2)
+[^c-13b4ae4ad266b4b99a2898b4f1778c7d]: Commencement: Sch. 2 para. 7 in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), art. 2)
 
-[^key-4b88096a0b086bdf5a00b136e619ed96]: Commencement: Sch. 2 para. 8 in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), art. 2)
+[^c-4b88096a0b086bdf5a00b136e619ed96]: Commencement: Sch. 2 para. 8 in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), art. 2)
 
-[^key-b7d3655d18c4f3922091ebd1525d4c60]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/9) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-b7d3655d18c4f3922091ebd1525d4c60]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/9) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
 
-[^key-1185b777bcca9e569d8c92d7b9e29ce1]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/10) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-1185b777bcca9e569d8c92d7b9e29ce1]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/10) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
 
-[^key-4c479c6a82397b66289c1da6652f44d6]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/11) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-4c479c6a82397b66289c1da6652f44d6]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/11) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
 
-[^key-a831f00e1c28ecf3b5cd5023fe4aef3a]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/12) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-a831f00e1c28ecf3b5cd5023fe4aef3a]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/12) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
 
-[^key-131a619d20500a0fd038e43f1ed0d4b2]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/13) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-131a619d20500a0fd038e43f1ed0d4b2]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/13) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
 
-[^key-0d92770876c61e32a96a862c5cfbaa80]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/14) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-0d92770876c61e32a96a862c5cfbaa80]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/14) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
 
-[^key-0c9e3abd21e723baa5e2786e45277843]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/15) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-0c9e3abd21e723baa5e2786e45277843]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/15) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
 
-[^key-10ae6db83d543f3f27e0aa81c7d45d1c]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/16) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-10ae6db83d543f3f27e0aa81c7d45d1c]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/16) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
 
-[^key-5e638e1c25f525dab48511c3f89a8e59]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/17) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-5e638e1c25f525dab48511c3f89a8e59]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/17) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
 
-[^key-480820b18b56f8289251c807623ed621]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/18) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-480820b18b56f8289251c807623ed621]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/18) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
 
-[^key-289a935ba72e0eca6737a97ec7399720]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/19) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-289a935ba72e0eca6737a97ec7399720]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/19) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
 
-[^key-515b67befb37fcde9285b5e8b016925e]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/20) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-515b67befb37fcde9285b5e8b016925e]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/20) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
 
-[^key-71cf9a6c982268f9c0b8c990392d3338]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/21) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-71cf9a6c982268f9c0b8c990392d3338]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/21) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
 
-[^key-f4acb1611ab1b9b919455ea1931c4d0d]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/22) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-f4acb1611ab1b9b919455ea1931c4d0d]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/nia/2016/18/schedule/2/paragraph/22) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)

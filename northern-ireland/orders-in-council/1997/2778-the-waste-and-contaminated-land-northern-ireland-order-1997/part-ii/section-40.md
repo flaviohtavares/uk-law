@@ -25,7 +25,7 @@ summary: ''
 - (a) there has, in relation to that application, been a contravention of the requirements of any regulations made under Article 39(2)(a); or
 - (b) the applicant or another relevant person has been convicted of a prescribed offence and, in the opinion of the Department, it is undesirable for the applicant to be authorised to transport controlled waste.
 
-(2) Nothing in any regulations under Article 39 shall authorise the Department to revoke any person's registration as a carrier of controlled waste except in accordance with regulations under paragraph (5A) of that Article or[^key-49cb05cd942630e61d0d9a5e0e9e6b3f] where—
+(2) Nothing in any regulations under Article 39 shall authorise the Department to revoke any person's registration as a carrier of controlled waste except in accordance with regulations under paragraph (5A) of that Article or[^c-49cb05cd942630e61d0d9a5e0e9e6b3f] where—
 
 - (a) that person or another relevant person has been convicted of a prescribed offence; and
 - (b) in the opinion of the Department, it is undesirable for the registered carrier to continue to be authorised to transport controlled waste;
@@ -45,4 +45,4 @@ but registration in accordance with any regulations under that Article shall cea
 
 ## Annotations
 
-[^key-49cb05cd942630e61d0d9a5e0e9e6b3f]: Textual amendment: Words in [art. 40(2)](https://www.legislation.gov.uk/nisi/1997/2778/article/40/2) inserted (11.3.2013) by [The Waste (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/611)](https://www.legislation.gov.uk/nisi/2007/611), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/611/article/1/3), [14(7)](https://www.legislation.gov.uk/nisi/2007/611/article/14/7); [S.R. 2013/33](https://www.legislation.gov.uk/nisr/2013/33), [art. 2(c)](https://www.legislation.gov.uk/nisr/2013/33/article/2/c)
+[^c-49cb05cd942630e61d0d9a5e0e9e6b3f]: Textual amendment: Words in [art. 40(2)](https://www.legislation.gov.uk/nisi/1997/2778/article/40/2) inserted (11.3.2013) by [The Waste (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/611)](https://www.legislation.gov.uk/nisi/2007/611), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/611/article/1/3), [14(7)](https://www.legislation.gov.uk/nisi/2007/611/article/14/7); [S.R. 2013/33](https://www.legislation.gov.uk/nisr/2013/33), [art. 2(c)](https://www.legislation.gov.uk/nisr/2013/33/article/2/c)

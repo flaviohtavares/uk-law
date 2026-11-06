@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 93. Right of inspection[^key-9d8a452309463ea3267fd522f88808d7]
+## 93. Right of inspection[^c-9d8a452309463ea3267fd522f88808d7]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d8a452309463ea3267fd522f88808d7]: Commencement: Rule 93 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-9d8a452309463ea3267fd522f88808d7]: Commencement: Rule 93 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

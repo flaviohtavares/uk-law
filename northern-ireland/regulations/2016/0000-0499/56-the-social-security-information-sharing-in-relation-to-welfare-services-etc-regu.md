@@ -111,11 +111,11 @@ The benefits prescribed under Article 120(7)(c) of the 2015 Order are—
 - (b) disability living allowance under section 71 of the Contributions and Benefits Act [^c22826711];
 - (c) income-based jobseeker's allowance within the meaning given in Article 3(4) of the Jobseekers (Northern Ireland) Order 1995 [^c22826721];
 - (d) income-related employment and support allowance payable in accordance with section 1(2)(b) of the Welfare Reform Act (Northern Ireland) 2007 [^c22826731];
-- (e) income support under section 123 of the Contributions and Benefits Act [^c22826741]; [^key-489e7a21920d5ca7863ff94bb376518f]...
-- (f) state pension credit under section 1 of the State Pension Credit Act (Northern Ireland) 2002 [^c22826751]; and[^key-a6088f94daeff2b3f3793d46744392fb]
+- (e) income support under section 123 of the Contributions and Benefits Act [^c22826741]; [^c-489e7a21920d5ca7863ff94bb376518f]...
+- (f) state pension credit under section 1 of the State Pension Credit Act (Northern Ireland) 2002 [^c22826751]; and[^c-a6088f94daeff2b3f3793d46744392fb]
 - (g) personal independence payment under Part 5 of the 2015 Order.
 
-## PART 3 — INFORMATION-SHARING IN RELATION TO WELFARE SERVICES OR HOUSING BENEFIT UNDER ARTICLES 121 TO 123 OF THE 2015 ORDER[^key-306160e3c5da72cccdc04de8e59b3cb5]
+## PART 3 — INFORMATION-SHARING IN RELATION TO WELFARE SERVICES OR HOUSING BENEFIT UNDER ARTICLES 121 TO 123 OF THE 2015 ORDER[^c-306160e3c5da72cccdc04de8e59b3cb5]
 
 ### 5. Supply of relevant information by the Department
 
@@ -154,7 +154,7 @@ The benefits prescribed under Article 120(7)(c) of the 2015 Order are—
 
 ### 6. Holding purposes
 
-(1) The purposes prescribed under Article 121(3) of the 2015 Order in relation to welfare services or housing benefit[^key-e3429332663229d64c7d57bc6ae9ee29], as purposes for which relevant information must be held by a qualifying person in order for them to use or supply it as set out in that paragraph, are any of the following—
+(1) The purposes prescribed under Article 121(3) of the 2015 Order in relation to welfare services or housing benefit[^c-e3429332663229d64c7d57bc6ae9ee29], as purposes for which relevant information must be held by a qualifying person in order for them to use or supply it as set out in that paragraph, are any of the following—
 
 - (a) determining a person's eligibility or continued eligibility for—
   - (i) a disabled person's badge or to avail themselves of concessionary travel under the Northern Ireland Concessionary Fares scheme;
@@ -393,13 +393,13 @@ An impact assessment has not been produced for this instrument as no negative im
 
 [^c22826741]: Marginal citation: Section 123 was amended by paragraph 13(2) to (5) of Schedule 2 and Schedule 3 to the Jobseekers (Northern Ireland) Order 1995, paragraph 26 of Schedule 8 to the Welfare Reform and Pensions (Northern Ireland) Order 1999, paragraph 2 of Schedules 2 and 3 to the [State Pension Credit Act (Northern Ireland) 2002 (c. 14 (N.I.))](https://www.legislation.gov.uk/nia/2002/14), [paragraph 96](https://www.legislation.gov.uk/nia/2002/14/paragraph/96) of Schedule 24 to the [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [paragraph 3(9)](https://www.legislation.gov.uk/ukpga/2004/33/paragraph/3/9) and (10) of Schedule 3 and Schedule 8 to the Welfare Reform Act (Northern Ireland) 2007 and section 3(1) of the [Welfare Reform Act (Northern Ireland) 2010 (c. 13 (N.I.))](https://www.legislation.gov.uk/nia/2010/13)
 
-[^key-489e7a21920d5ca7863ff94bb376518f]: Textual amendment: Word in [reg. 4(e)](https://www.legislation.gov.uk/nisr/2016/56/regulation/4/e) omitted (20.6.2016) by virtue of [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/228)](https://www.legislation.gov.uk/nisr/2016/228), [regs. 1](https://www.legislation.gov.uk/nisr/2016/228/regulation/1), [41(a)](https://www.legislation.gov.uk/nisr/2016/228/regulation/41/a)
+[^c-489e7a21920d5ca7863ff94bb376518f]: Textual amendment: Word in [reg. 4(e)](https://www.legislation.gov.uk/nisr/2016/56/regulation/4/e) omitted (20.6.2016) by virtue of [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/228)](https://www.legislation.gov.uk/nisr/2016/228), [regs. 1](https://www.legislation.gov.uk/nisr/2016/228/regulation/1), [41(a)](https://www.legislation.gov.uk/nisr/2016/228/regulation/41/a)
 
 [^c22826751]: Marginal citation: [2002 c. 14 (N.I.)](https://www.legislation.gov.uk/nia/2002/14)
 
-[^key-a6088f94daeff2b3f3793d46744392fb]: Textual amendment: [Reg. 4(g)](https://www.legislation.gov.uk/nisr/2016/56/regulation/4/g) and word added (20.6.2016) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/228)](https://www.legislation.gov.uk/nisr/2016/228), [regs. 1](https://www.legislation.gov.uk/nisr/2016/228/regulation/1), [41(b)](https://www.legislation.gov.uk/nisr/2016/228/regulation/41/b)
+[^c-a6088f94daeff2b3f3793d46744392fb]: Textual amendment: [Reg. 4(g)](https://www.legislation.gov.uk/nisr/2016/56/regulation/4/g) and word added (20.6.2016) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/228)](https://www.legislation.gov.uk/nisr/2016/228), [regs. 1](https://www.legislation.gov.uk/nisr/2016/228/regulation/1), [41(b)](https://www.legislation.gov.uk/nisr/2016/228/regulation/41/b)
 
-[^key-306160e3c5da72cccdc04de8e59b3cb5]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/nisr/2016/56/part/3) heading inserted (8.11.2021) by [The Social Security (Information-sharing in relation to Welfare Services etc.) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/289)](https://www.legislation.gov.uk/nisr/2021/289), [regs. 1](https://www.legislation.gov.uk/nisr/2021/289/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2021/289/regulation/2/2)
+[^c-306160e3c5da72cccdc04de8e59b3cb5]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/nisr/2016/56/part/3) heading inserted (8.11.2021) by [The Social Security (Information-sharing in relation to Welfare Services etc.) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/289)](https://www.legislation.gov.uk/nisr/2021/289), [regs. 1](https://www.legislation.gov.uk/nisr/2021/289/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2021/289/regulation/2/2)
 
 [^c22826761]: Marginal citation: [S.I. 1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594)
 
@@ -413,7 +413,7 @@ An impact assessment has not been produced for this instrument as no negative im
 
 [^c22826811]: Marginal citation: S.R. [2001 No. 216](https://www.legislation.gov.uk/ukcm/2001/216)
 
-[^key-e3429332663229d64c7d57bc6ae9ee29]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/nisr/2016/56/regulation/6/1) inserted (8.11.2021) by [The Social Security (Information-sharing in relation to Welfare Services etc.) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/289)](https://www.legislation.gov.uk/nisr/2021/289), [regs. 1](https://www.legislation.gov.uk/nisr/2021/289/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2021/289/regulation/2/3)
+[^c-e3429332663229d64c7d57bc6ae9ee29]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/nisr/2016/56/regulation/6/1) inserted (8.11.2021) by [The Social Security (Information-sharing in relation to Welfare Services etc.) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/289)](https://www.legislation.gov.uk/nisr/2021/289), [regs. 1](https://www.legislation.gov.uk/nisr/2021/289/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2021/289/regulation/2/3)
 
 [^c22826821]: Marginal citation: [S.I. 1988/1990 (N.I. 23)](https://www.legislation.gov.uk/nisi/1988/1990)
 

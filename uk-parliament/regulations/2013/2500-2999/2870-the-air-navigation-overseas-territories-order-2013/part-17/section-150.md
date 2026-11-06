@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Prohibition of unlicensed flight information service officers[^key-3e6831ef747c7016bedcef8b39529b8a]
+## 150. Prohibition of unlicensed flight information service officers[^c-3e6831ef747c7016bedcef8b39529b8a]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e6831ef747c7016bedcef8b39529b8a]: Commencement: [Art. 150](https://www.legislation.gov.uk/uksi/2013/2870/article/150) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-3e6831ef747c7016bedcef8b39529b8a]: Commencement: [Art. 150](https://www.legislation.gov.uk/uksi/2013/2870/article/150) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

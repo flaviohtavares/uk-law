@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Where and from when the recall petition may be signed[^key-470e0072d6c4364e22317ece0183e225]
+## 7. Where and from when the recall petition may be signed[^c-470e0072d6c4364e22317ece0183e225]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,10 +32,10 @@ summary: ''
 - (a) that all persons entitled to sign the recall petition have such reasonable facilities for signing it as are practicable in the circumstances, and
 - (b) that, so far as is reasonable and practicable, every place designated is accessible to disabled persons.
 
-(4)[^key-18230650c1a77cf84025233e2a737a0f] The petition officer must designate under subsection (1)(b)— *(affected by repeal, see note)*[^key-18230650c1a77cf84025233e2a737a0f]
+(4)[^c-18230650c1a77cf84025233e2a737a0f] The petition officer must designate under subsection (1)(b)— *(affected by repeal, see note)*[^c-18230650c1a77cf84025233e2a737a0f]
 
-- (a) the day which is the 10th working day after the day on which the officer received the Speaker's notice, or *(affected by repeal, see note)*[^key-18230650c1a77cf84025233e2a737a0f]
-- (b) if it is not reasonably practicable to designate that day, the first subsequent working day that it is reasonably practicable to designate. *(affected by repeal, see note)*[^key-18230650c1a77cf84025233e2a737a0f]
+- (a) the day which is the 10th working day after the day on which the officer received the Speaker's notice, or *(affected by repeal, see note)*[^c-18230650c1a77cf84025233e2a737a0f]
+- (b) if it is not reasonably practicable to designate that day, the first subsequent working day that it is reasonably practicable to designate. *(affected by repeal, see note)*[^c-18230650c1a77cf84025233e2a737a0f]
 
 (4) The petition officer must designate under subsection (1)(b)—
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-470e0072d6c4364e22317ece0183e225]: Commencement: S. 7 in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-470e0072d6c4364e22317ece0183e225]: Commencement: S. 7 in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-18230650c1a77cf84025233e2a737a0f]: Textual amendment: S. 7(4) substituted (temp. until 21.4.2021) (25.3.2020) by virtue of [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [ss. 62(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/62/1), [87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1)
+[^c-18230650c1a77cf84025233e2a737a0f]: Textual amendment: S. 7(4) substituted (temp. until 21.4.2021) (25.3.2020) by virtue of [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [ss. 62(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/62/1), [87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. The proprietorship section of the title sheet[^key-648e033d393b8b31e4c3f2472f14df26]
+## 7. The proprietorship section of the title sheet[^c-648e033d393b8b31e4c3f2472f14df26]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-648e033d393b8b31e4c3f2472f14df26]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2012/5/section/7) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-648e033d393b8b31e4c3f2472f14df26]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2012/5/section/7) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

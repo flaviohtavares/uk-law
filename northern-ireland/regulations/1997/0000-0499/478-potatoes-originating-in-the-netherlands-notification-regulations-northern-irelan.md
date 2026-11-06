@@ -30,7 +30,7 @@ summary: ''
 
 PLANT HEALTH
 
-Potatoes Originating in the Netherlands (Notification) Regulations (Northern Ireland) 1997 (revoked)[^key-25b122a87e26b89eca07f726ed4381f3]
+Potatoes Originating in the Netherlands (Notification) Regulations (Northern Ireland) 1997 (revoked)[^c-25b122a87e26b89eca07f726ed4381f3]
 
 Made
 
@@ -40,44 +40,44 @@ Coming into operation
 
 8th December 1997
 
-[^key-25b122a87e26b89eca07f726ed4381f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25b122a87e26b89eca07f726ed4381f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-25b122a87e26b89eca07f726ed4381f3]
+## 1. Citation and commencement[^c-25b122a87e26b89eca07f726ed4381f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-25b122a87e26b89eca07f726ed4381f3]
+## 2. Revocation[^c-25b122a87e26b89eca07f726ed4381f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-25b122a87e26b89eca07f726ed4381f3]
+## 3. Interpretation[^c-25b122a87e26b89eca07f726ed4381f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Notification of Potatoes originating in the Netherlands[^key-25b122a87e26b89eca07f726ed4381f3]
+## 4. Notification of Potatoes originating in the Netherlands[^c-25b122a87e26b89eca07f726ed4381f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Actions which may be required by an inspector[^key-25b122a87e26b89eca07f726ed4381f3]
+## 5. Actions which may be required by an inspector[^c-25b122a87e26b89eca07f726ed4381f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Fees in respect of the sampling of seed potatoes landed in Northern Ireland[^key-25b122a87e26b89eca07f726ed4381f3]
+## 6. Fees in respect of the sampling of seed potatoes landed in Northern Ireland[^c-25b122a87e26b89eca07f726ed4381f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Offences[^key-25b122a87e26b89eca07f726ed4381f3]
+## 7. Offences[^c-25b122a87e26b89eca07f726ed4381f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-25b122a87e26b89eca07f726ed4381f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25b122a87e26b89eca07f726ed4381f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-25b122a87e26b89eca07f726ed4381f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25b122a87e26b89eca07f726ed4381f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-25b122a87e26b89eca07f726ed4381f3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/478) revoked (13.1.1999) by [Potatoes Originating in the Netherlands (Notification) Regulations (Northern Ireland) 1999 (S.R. 1999/1)](https://www.legislation.gov.uk/nisr/1999/1), [regs. 1](https://www.legislation.gov.uk/nisr/1999/1/regulation/1), [2](https://www.legislation.gov.uk/nisr/1999/1/regulation/2n1)
+[^c-25b122a87e26b89eca07f726ed4381f3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/478) revoked (13.1.1999) by [Potatoes Originating in the Netherlands (Notification) Regulations (Northern Ireland) 1999 (S.R. 1999/1)](https://www.legislation.gov.uk/nisr/1999/1), [regs. 1](https://www.legislation.gov.uk/nisr/1999/1/regulation/1), [2](https://www.legislation.gov.uk/nisr/1999/1/regulation/2n1)

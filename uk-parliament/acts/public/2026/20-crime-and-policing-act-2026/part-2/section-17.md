@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Replacement of content manager[^key-0a4825e03ba49b4ff5f9e0ef388be9cc]
+## 17. Replacement of content manager[^c-0a4825e03ba49b4ff5f9e0ef388be9cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a4825e03ba49b4ff5f9e0ef388be9cc]: Commencement: S. 17 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-0a4825e03ba49b4ff5f9e0ef388be9cc]: Commencement: S. 17 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

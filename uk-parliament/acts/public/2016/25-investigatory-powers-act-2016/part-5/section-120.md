@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Further provision about modifications under section 118[^key-a81355489245ef1d3bc26640438d6143]
+## 120. Further provision about modifications under section 118[^c-a81355489245ef1d3bc26640438d6143]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ Section 122 contains provision about the approval of modifications made in urgen
 
 ## Annotations
 
-[^key-a81355489245ef1d3bc26640438d6143]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2016/25/section/120) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 9(j)](https://www.legislation.gov.uk/uksi/2018/652/regulation/9/j)
+[^c-a81355489245ef1d3bc26640438d6143]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2016/25/section/120) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 9(j)](https://www.legislation.gov.uk/uksi/2018/652/regulation/9/j)

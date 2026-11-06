@@ -22,7 +22,7 @@ summary: ''
 
 In any legal proceedings, a document purporting to be—
 
-- (a)[^key-3bdd7ce6784cf332b89763e495d77ceb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-3bdd7ce6784cf332b89763e495d77ceb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) an extract from the minutes of the proceedings at any meeting of the Board of Governors of a grant‐aided school and to be signed by the chairman or secretary of the Board of Governors[^c17010281];
 - (c) a certificate giving particulars of the attendance of a child at a school and to be signed by the principal of the school; or
 - (d) a certificate issued by a medical officer and to be signed by such an officer;
@@ -31,6 +31,6 @@ shall be received in evidence and shall, unless the contrary is proved, be deeme
 
 ## Annotations
 
-[^key-3bdd7ce6784cf332b89763e495d77ceb]: Textual amendment: Art. 131(a) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-3bdd7ce6784cf332b89763e495d77ceb]: Textual amendment: Art. 131(a) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c17010281]: Textual amendment: [1987 NI 2](https://www.legislation.gov.uk/nisi/1987)

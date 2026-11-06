@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30A. Obligations in Part III which are met by complying with obligations in Directive 90/385[^key-17e3806ce1021b9f93e166c38105db0b]
+## 30A. Obligations in Part III which are met by complying with obligations in Directive 90/385[^c-17e3806ce1021b9f93e166c38105db0b]
 
 *Extent: E+W+S*
 
 (1) In this regulation—
 
-- (a) “the Directive” means Directive 90/385 as it had effect on 25 May 2021[^key-9b93734e8bb7514384757ae2811b0d02] and any reference to an Article or Annex is a reference to that Article or Annex in the Directive [^key-cdbe968acb280a8e4a8e765760caa117]...;
+- (a) “the Directive” means Directive 90/385 as it had effect on 25 May 2021[^c-9b93734e8bb7514384757ae2811b0d02] and any reference to an Article or Annex is a reference to that Article or Annex in the Directive [^c-cdbe968acb280a8e4a8e765760caa117]...;
 - (b) “Regulation 722/2012” means Commission Regulation (EU) 722/2012 as it has effect in EU Law;
 - (c) “CE marking” means the CE marking required by Article 12 and shown in Annex 9;
 - (d) “harmonised standard” is to be construed in accordance with Article 5.
@@ -35,11 +35,11 @@ summary: ''
   - (i) that the device meets the essential requirements set out in Annex I and, where applicable, Regulation (EU) 722/2012, which apply to it; or
   - (ii) that paragraphs (8) and (9) apply;
 - (b) ensures that the relevant conformity assessment procedure that applies to the device, where the device is a device other than those which are custom-made or intended for clinical investigations, has been carried out in accordance with Article 9;
-- (ba)[^key-d68ed67aabe6f86a1511b1fe1d27f2c2] ensures that the certificate issued by a notified body in connection with that conformity assessment procedure is valid by virtue of Article 120(2) of Regulation (EU) 2017/745;
+- (ba)[^c-d68ed67aabe6f86a1511b1fe1d27f2c2] ensures that the certificate issued by a notified body in connection with that conformity assessment procedure is valid by virtue of Article 120(2) of Regulation (EU) 2017/745;
 - (c) ensures that the documentation required by the relevant conformity assessment procedure is drawn up;
 - (d) ensures that the technical and other relevant documentation required by the relevant conformity assessment procedure is prepared in or translated into English;
 - (e) affixes a CE marking and, where applicable, the identification number of the notified body which carried out the relevant conformity assessment on the device in accordance with the procedure set out in Annexes 2, 3, 4 or 5;
-- (f) has drawn up before 26 May 2021[^key-0478e6ef46caa15c0d3562fd99e1e8de] an EU Declaration of Conformity in accordance with Article 9; and
+- (f) has drawn up before 26 May 2021[^c-0478e6ef46caa15c0d3562fd99e1e8de] an EU Declaration of Conformity in accordance with Article 9; and
 - (g) ensures that the declaration of conformity is prepared in or translated into English.
 
 (4) Where paragraph (5) applies, regulations 25 and 28 are treated as being satisfied.
@@ -69,12 +69,12 @@ summary: ''
 
 ## Annotations
 
-[^key-17e3806ce1021b9f93e166c38105db0b]: Textual amendment: Reg. 30A inserted (E.W.S.) (31.12.2020) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/791)](https://www.legislation.gov.uk/uksi/2019/791), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/791/regulation/1/1), [5(8)](https://www.legislation.gov.uk/uksi/2019/791/regulation/5/8) (as amended by [S.I. 2020/1478](https://www.legislation.gov.uk/uksi/2020/1478), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 paras. 2](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/2), [34](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/34)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-17e3806ce1021b9f93e166c38105db0b]: Textual amendment: Reg. 30A inserted (E.W.S.) (31.12.2020) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/791)](https://www.legislation.gov.uk/uksi/2019/791), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/791/regulation/1/1), [5(8)](https://www.legislation.gov.uk/uksi/2019/791/regulation/5/8) (as amended by [S.I. 2020/1478](https://www.legislation.gov.uk/uksi/2020/1478), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 paras. 2](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/2), [34](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/34)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9b93734e8bb7514384757ae2811b0d02]: Textual amendment: Words in [reg. 30A(1)(a)](https://www.legislation.gov.uk/uksi/2002/618/regulation/30A/1/a) inserted (1.7.2023) by [The Medical Devices (Amendment) (Great Britain) Regulations 2023 (S.I. 2023/627)](https://www.legislation.gov.uk/uksi/2023/627), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2023/627/regulation/2/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2023/627/regulation/8/2/a)
+[^c-9b93734e8bb7514384757ae2811b0d02]: Textual amendment: Words in [reg. 30A(1)(a)](https://www.legislation.gov.uk/uksi/2002/618/regulation/30A/1/a) inserted (1.7.2023) by [The Medical Devices (Amendment) (Great Britain) Regulations 2023 (S.I. 2023/627)](https://www.legislation.gov.uk/uksi/2023/627), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2023/627/regulation/2/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2023/627/regulation/8/2/a)
 
-[^key-cdbe968acb280a8e4a8e765760caa117]: Textual amendment: Words in [reg. 30A(1)(a)](https://www.legislation.gov.uk/uksi/2002/618/regulation/30A/1/a) omitted (1.7.2023) by virtue of [The Medical Devices (Amendment) (Great Britain) Regulations 2023 (S.I. 2023/627)](https://www.legislation.gov.uk/uksi/2023/627), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2023/627/regulation/2/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2023/627/regulation/8/2/b)
+[^c-cdbe968acb280a8e4a8e765760caa117]: Textual amendment: Words in [reg. 30A(1)(a)](https://www.legislation.gov.uk/uksi/2002/618/regulation/30A/1/a) omitted (1.7.2023) by virtue of [The Medical Devices (Amendment) (Great Britain) Regulations 2023 (S.I. 2023/627)](https://www.legislation.gov.uk/uksi/2023/627), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2023/627/regulation/2/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2023/627/regulation/8/2/b)
 
-[^key-d68ed67aabe6f86a1511b1fe1d27f2c2]: Textual amendment: [Reg. 30A(3)(ba)](https://www.legislation.gov.uk/uksi/2002/618/regulation/30A/3/ba) inserted (1.7.2023) by [The Medical Devices (Amendment) (Great Britain) Regulations 2023 (S.I. 2023/627)](https://www.legislation.gov.uk/uksi/2023/627), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2023/627/regulation/2/2), [8(3)(a)](https://www.legislation.gov.uk/uksi/2023/627/regulation/8/3/a)
+[^c-d68ed67aabe6f86a1511b1fe1d27f2c2]: Textual amendment: [Reg. 30A(3)(ba)](https://www.legislation.gov.uk/uksi/2002/618/regulation/30A/3/ba) inserted (1.7.2023) by [The Medical Devices (Amendment) (Great Britain) Regulations 2023 (S.I. 2023/627)](https://www.legislation.gov.uk/uksi/2023/627), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2023/627/regulation/2/2), [8(3)(a)](https://www.legislation.gov.uk/uksi/2023/627/regulation/8/3/a)
 
-[^key-0478e6ef46caa15c0d3562fd99e1e8de]: Textual amendment: Words in [reg. 30A(3)(f)](https://www.legislation.gov.uk/uksi/2002/618/regulation/30A/3/f) substituted (1.7.2023) by [The Medical Devices (Amendment) (Great Britain) Regulations 2023 (S.I. 2023/627)](https://www.legislation.gov.uk/uksi/2023/627), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2023/627/regulation/2/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/627/regulation/8/3/b)
+[^c-0478e6ef46caa15c0d3562fd99e1e8de]: Textual amendment: Words in [reg. 30A(3)(f)](https://www.legislation.gov.uk/uksi/2002/618/regulation/30A/3/f) substituted (1.7.2023) by [The Medical Devices (Amendment) (Great Britain) Regulations 2023 (S.I. 2023/627)](https://www.legislation.gov.uk/uksi/2023/627), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2023/627/regulation/2/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/627/regulation/8/3/b)

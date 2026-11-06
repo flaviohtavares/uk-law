@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112A. Section 112: supplementary powers[^key-e9a331783f92d42387aa4c1966fb1f5e][^key-827f75f46044851c75e4679ca297e323][^key-3f62fcf4af36d20094f27b9625e77689][^key-9904be96d2d8bc0fec6d18c275b58da7]
+## 112A. Section 112: supplementary powers[^c-e9a331783f92d42387aa4c1966fb1f5e][^c-827f75f46044851c75e4679ca297e323][^c-3f62fcf4af36d20094f27b9625e77689][^c-9904be96d2d8bc0fec6d18c275b58da7]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,10 +33,10 @@ summary: ''
 
 ## Annotations
 
-[^key-e9a331783f92d42387aa4c1966fb1f5e]: Modification: S. 112A applied (1.4.2017) by [The Raw Tobacco (Approval Scheme) Regulations 2016 (S.I. 2016/1172)](https://www.legislation.gov.uk/uksi/2016/1172), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1172/regulation/1/3), [22](https://www.legislation.gov.uk/uksi/2016/1172/regulation/22), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2016/1172/schedule/2/paragraph/1)
+[^c-e9a331783f92d42387aa4c1966fb1f5e]: Modification: S. 112A applied (1.4.2017) by [The Raw Tobacco (Approval Scheme) Regulations 2016 (S.I. 2016/1172)](https://www.legislation.gov.uk/uksi/2016/1172), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1172/regulation/1/3), [22](https://www.legislation.gov.uk/uksi/2016/1172/regulation/22), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2016/1172/schedule/2/paragraph/1)
 
-[^key-827f75f46044851c75e4679ca297e323]: Modification: S. 112A applied (with modifications) (6.4.2018) by [The Soft Drinks Industry Levy (Enforcement) Regulations 2018 (S.I. 2018/264)](https://www.legislation.gov.uk/uksi/2018/264), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/264/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2018/264/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/264/schedule) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2018/264/regulation/3))
+[^c-827f75f46044851c75e4679ca297e323]: Modification: S. 112A applied (with modifications) (6.4.2018) by [The Soft Drinks Industry Levy (Enforcement) Regulations 2018 (S.I. 2018/264)](https://www.legislation.gov.uk/uksi/2018/264), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/264/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2018/264/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/264/schedule) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2018/264/regulation/3))
 
-[^key-3f62fcf4af36d20094f27b9625e77689]: Modification: S. 112A modified (1.8.2018) by [The Tobacco Products Manufacturing Machinery (Licensing Scheme) Regulations 2018 (S.I. 2018/75)](https://www.legislation.gov.uk/uksi/2018/75), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/75/regulation/1/3), [16(b)](https://www.legislation.gov.uk/uksi/2018/75/regulation/16/b)
+[^c-3f62fcf4af36d20094f27b9625e77689]: Modification: S. 112A modified (1.8.2018) by [The Tobacco Products Manufacturing Machinery (Licensing Scheme) Regulations 2018 (S.I. 2018/75)](https://www.legislation.gov.uk/uksi/2018/75), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/75/regulation/1/3), [16(b)](https://www.legislation.gov.uk/uksi/2018/75/regulation/16/b)
 
-[^key-9904be96d2d8bc0fec6d18c275b58da7]: Textual amendment: S. 112A inserted (1.4.2011) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 29(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/29/2), [Sch. 13 para. 11](https://www.legislation.gov.uk/ukpga/2010/33/schedule/13/paragraph/11); [S.I. 2011/777](https://www.legislation.gov.uk/uksi/2011/777), [art. 2](https://www.legislation.gov.uk/uksi/2011/777/article/2)
+[^c-9904be96d2d8bc0fec6d18c275b58da7]: Textual amendment: S. 112A inserted (1.4.2011) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 29(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/29/2), [Sch. 13 para. 11](https://www.legislation.gov.uk/ukpga/2010/33/schedule/13/paragraph/11); [S.I. 2011/777](https://www.legislation.gov.uk/uksi/2011/777), [art. 2](https://www.legislation.gov.uk/uksi/2011/777/article/2)

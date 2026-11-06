@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Deprivation if conduct seriously prejudicial to vital interests of the UK[^key-38a4270bdb91203a88fc23ebce65c8c2]
+## 66. Deprivation if conduct seriously prejudicial to vital interests of the UK[^c-38a4270bdb91203a88fc23ebce65c8c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38a4270bdb91203a88fc23ebce65c8c2]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2014/22/section/66) in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(t)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/t)
+[^c-38a4270bdb91203a88fc23ebce65c8c2]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2014/22/section/66) in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(t)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/t)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Appropriate sum under section 137(4) of the Local Government Act 1972[^key-04ec14ed5a193392f165ddaa7dca444d][^key-a8fbf325201696c472988a84d0ba5974]
+## 118. Appropriate sum under section 137(4) of the Local Government Act 1972[^c-04ec14ed5a193392f165ddaa7dca444d][^c-a8fbf325201696c472988a84d0ba5974]
 
 *Extent: E+W*
 
@@ -71,6 +71,6 @@ summary: ''
 
 ## Annotations
 
-[^key-04ec14ed5a193392f165ddaa7dca444d]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2003/26/section/118) in force at 27.11.2003 for W. by [S.I. 2003/3034](https://www.legislation.gov.uk/wsi/2003/3034), [art. 2](https://www.legislation.gov.uk/wsi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/wsi/2003/3034/schedule/1/part/I)
+[^c-04ec14ed5a193392f165ddaa7dca444d]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2003/26/section/118) in force at 27.11.2003 for W. by [S.I. 2003/3034](https://www.legislation.gov.uk/wsi/2003/3034), [art. 2](https://www.legislation.gov.uk/wsi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/wsi/2003/3034/schedule/1/part/I)
 
-[^key-a8fbf325201696c472988a84d0ba5974]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2003/26/section/118) in force at 1.4.2004 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-a8fbf325201696c472988a84d0ba5974]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2003/26/section/118) in force at 1.4.2004 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))

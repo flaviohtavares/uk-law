@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Reduction in pension debit member’s benefits[^key-2ca44d76bed7a88eb9732d1c9104fcf3]
+## 75. Reduction in pension debit member’s benefits[^c-2ca44d76bed7a88eb9732d1c9104fcf3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The benefits to which a pension debit member is entitled are subject to the redu
 
 ## Annotations
 
-[^key-2ca44d76bed7a88eb9732d1c9104fcf3]: Commencement: Reg. 75 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-2ca44d76bed7a88eb9732d1c9104fcf3]: Commencement: Reg. 75 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

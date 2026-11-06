@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159. Renewable liquid heating fuel obligations[^key-bf8faefa98dd87ba6ca5794935484859]
+## 159. Renewable liquid heating fuel obligations[^c-bf8faefa98dd87ba6ca5794935484859]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ and “biofuel”, “**blended biofuel**”, “**fossil fuel**” and “**ren
 
 ## Annotations
 
-[^key-bf8faefa98dd87ba6ca5794935484859]: Commencement: S. 159 in force at Royal Assent, see [s. 334(2)(g)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/g)
+[^c-bf8faefa98dd87ba6ca5794935484859]: Commencement: S. 159 in force at Royal Assent, see [s. 334(2)(g)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/g)

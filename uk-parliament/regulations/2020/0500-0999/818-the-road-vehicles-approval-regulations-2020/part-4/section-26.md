@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Interpretation of Part[^key-c8a39a31a88cd48b1d0690304bdae444]
+## 26. Interpretation of Part[^c-c8a39a31a88cd48b1d0690304bdae444]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,7 +45,7 @@ summary: ''
     - (i) a copy of any certificate of conformity issued in respect of the vehicle,
     - (ii) the date of supply, and
     - (iii) the name and address of the purchaser;
-  - (h) whether the trailer is to be kept, or normally kept, at a place in Great Britain, in Northern Ireland, or in either jurisdiction;[^key-9a555b391b4171be3ae9bf6a4689f568]
+  - (h) whether the trailer is to be kept, or normally kept, at a place in Great Britain, in Northern Ireland, or in either jurisdiction;[^c-9a555b391b4171be3ae9bf6a4689f568]
 - “**small trailer**” means a trailer which is not a large trailer.
 
 (2) For the purposes of this regulation—
@@ -60,10 +60,10 @@ summary: ''
 
 ## Annotations
 
-[^key-c8a39a31a88cd48b1d0690304bdae444]: Commencement: Reg. 26 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
+[^c-c8a39a31a88cd48b1d0690304bdae444]: Commencement: Reg. 26 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
 
 [^c24305191]: Marginal citation: [S.I. 1988/1478](https://www.legislation.gov.uk/uksi/1988/1478). Schedule 2 was amended by [S.I. 1991/252](https://www.legislation.gov.uk/uksi/1991/252), 1995/1456, 2001/307, 2002/487, 2003/1816, 2005/2343, 2011/3058 and 2017/849.
 
 [^c24305201]: Marginal citation: S.R. [2003 No. 304](https://www.legislation.gov.uk/ukcm/2003/304). Schedule 2 was amended by S.R. [2013 No. 218](https://www.legislation.gov.uk/ukcm/2013/218) and [2018 No. 86](https://www.legislation.gov.uk/ukcm/2018/86).
 
-[^key-9a555b391b4171be3ae9bf6a4689f568]: Textual amendment: Words in [reg. 26(1)](https://www.legislation.gov.uk/uksi/2020/818/regulation/26/1) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [15(3)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/15/3)
+[^c-9a555b391b4171be3ae9bf6a4689f568]: Textual amendment: Words in [reg. 26(1)](https://www.legislation.gov.uk/uksi/2020/818/regulation/26/1) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [15(3)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/15/3)

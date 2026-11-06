@@ -26,9 +26,9 @@ Section 184
 
 **1.** In Part 8 of CTA 2010 (oil activities), Chapter 7 (reduction of supplementary charge for certain new oil fields) is amended as follows.
 
-**2.**[^key-7ee41fdadc0919d223f3f730cb47aa6e] In section 334 (company's pool of field allowances), for “new oil fields” substitute “ eligible oil fields ”.
+**2.**[^c-7ee41fdadc0919d223f3f730cb47aa6e] In section 334 (company's pool of field allowances), for “new oil fields” substitute “ eligible oil fields ”.
 
-**3.**[^key-befbcb8d2701cf0335506a8fa35e354b] (1) Section 337 (initial licensee to hold a field allowance) is amended as follows.
+**3.**[^c-befbcb8d2701cf0335506a8fa35e354b] (1) Section 337 (initial licensee to hold a field allowance) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -39,17 +39,17 @@ Section 184
 
 (4) The heading of that section becomes “ **Licensee to hold field allowance** ”.
 
-**4.**[^key-5e76424838f5630a401e34598833a66e] In section 338 (holding a field allowance on acquisition of equity share), for “a new oil field” substitute “ an eligible oil field ”.
+**4.**[^c-5e76424838f5630a401e34598833a66e] In section 338 (holding a field allowance on acquisition of equity share), for “a new oil field” substitute “ an eligible oil field ”.
 
-**5.**[^key-763d5f45e645793e7941751ee59c041c] In section 339 (unactivated amount of field allowance), in subsections (1) and (3), for “a new oil field” substitute “ an eligible oil field ”.
+**5.**[^c-763d5f45e645793e7941751ee59c041c] In section 339 (unactivated amount of field allowance), in subsections (1) and (3), for “a new oil field” substitute “ an eligible oil field ”.
 
-**6.**[^key-9f4178ea0b696ce3803d0647500e2ec0] (1) Section 340 (introduction to section 341) is amended as follows.
+**6.**[^c-9f4178ea0b696ce3803d0647500e2ec0] (1) Section 340 (introduction to section 341) is amended as follows.
 
 (2) In subsection (1), for “a new oil field” substitute “ an eligible oil field ”.
 
 (3) In subsection (5), for “the new oil field” substitute “ the field ”.
 
-**7.**[^key-328338fa9a814b7461aa6ac86a14e921] (1) Section 341 (activation of field allowance) is amended as follows.
+**7.**[^c-328338fa9a814b7461aa6ac86a14e921] (1) Section 341 (activation of field allowance) is amended as follows.
 
 (2) In subsection (1), for “the new oil field” substitute “ the eligible oil field ”.
 
@@ -64,11 +64,11 @@ Section 184
 >
 > (6) In a case where the company began to hold two or more field allowances at the same time, the company may determine the order in which the company is to be regarded for the purposes of this section as having begun to hold them.
 
-**8.**[^key-49ef6576c7e1d04d85494cb46c387def] In section 342 (introduction to sections 343 and 344), in subsections (1) and (6), for “a new oil field” substitute “ an eligible oil field ”.
+**8.**[^c-49ef6576c7e1d04d85494cb46c387def] In section 342 (introduction to sections 343 and 344), in subsections (1) and (6), for “a new oil field” substitute “ an eligible oil field ”.
 
-**9.**[^key-4836f494014f26d42e241756115e46f3] In section 343 (reference periods), in subsection (3), for “the new oil field” substitute “ the eligible oil field ”.
+**9.**[^c-4836f494014f26d42e241756115e46f3] In section 343 (reference periods), in subsection (3), for “the new oil field” substitute “ the eligible oil field ”.
 
-**10.**[^key-3830847bdd0ef847d9ac499cf8c0d1c5] (1) Section 344 (activation of field allowance) is amended as follows.
+**10.**[^c-3830847bdd0ef847d9ac499cf8c0d1c5] (1) Section 344 (activation of field allowance) is amended as follows.
 
 (2) In subsection (1), for “the new oil field” substitute “ the eligible oil field ”.
 
@@ -85,7 +85,7 @@ Section 184
 >
 > (7) In a case where the company began to hold two or more field allowances at the same time, the company may determine the order in which the company is to be regarded for the purposes of this section as having begun to hold them.
 
-**11.**[^key-9f1c57bfff1f30700fdbf3f4e1d5045e] (1) Section 345 (introduction to sections 346 and 347) is amended as follows.
+**11.**[^c-9f1c57bfff1f30700fdbf3f4e1d5045e] (1) Section 345 (introduction to sections 346 and 347) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -96,13 +96,13 @@ Section 184
 
 (4) In subsection (6), for “a new oil field” substitute “ an eligible oil field ”.
 
-**12.**[^key-7624596ae6fd6b13f4093d9c6757b968] (1) Section 346 (reduction of field allowance if equity disposed of) is amended as follows.
+**12.**[^c-7624596ae6fd6b13f4093d9c6757b968] (1) Section 346 (reduction of field allowance if equity disposed of) is amended as follows.
 
 (2) In subsection (1), for “the new oil field” (in the first place it occurs) substitute “ the eligible oil field ”.
 
 (3) In the definitions of “E1” and “E2”, for “the new oil field” substitute “ the field ”.
 
-**13.**[^key-ccc262f90de3f68565190c1b4626b753] (1) Section 347 (acquisition of field allowance if equity acquired) is amended as follows.
+**13.**[^c-ccc262f90de3f68565190c1b4626b753] (1) Section 347 (acquisition of field allowance if equity acquired) is amended as follows.
 
 (2) In subsection (1), for “the new oil field” substitute “ the eligible oil field ”.
 
@@ -154,7 +154,7 @@ Section 184
 
 **16.** (1) Section 357 (other definitions) is amended as follows.
 
-(2)[^key-963f77f63f7c53ae268ed02fe062492f] For the definition of “authorisation day” substitute—
+(2)[^c-963f77f63f7c53ae268ed02fe062492f] For the definition of “authorisation day” substitute—
 
 > “**authorisation day**” means—
 >
@@ -169,15 +169,15 @@ Section 184
 
 .
 
-(4)[^key-963f77f63f7c53ae268ed02fe062492f] Omit the definition of “initial licensee”.
+(4)[^c-963f77f63f7c53ae268ed02fe062492f] Omit the definition of “initial licensee”.
 
-(5)[^key-963f77f63f7c53ae268ed02fe062492f] In the definition of “relevant income”, for “a new oil field” substitute “ an eligible oil field ”.
+(5)[^c-963f77f63f7c53ae268ed02fe062492f] In the definition of “relevant income”, for “a new oil field” substitute “ an eligible oil field ”.
 
-**17.**[^key-664fef77f86397826c44712400292d6d] The heading of the Chapter becomes “ REDUCTION OF SUPPLEMENTARY CHARGE FOR ELIGIBLE OIL FIELDS ”.
+**17.**[^c-664fef77f86397826c44712400292d6d] The heading of the Chapter becomes “ REDUCTION OF SUPPLEMENTARY CHARGE FOR ELIGIBLE OIL FIELDS ”.
 
 ### Consequential amendments
 
-**18.**[^key-51ef82dde9cedb32766624dc1e894752] (1) Part 8 of CTA 2010 (oil activities) is amended as follows.
+**18.**[^c-51ef82dde9cedb32766624dc1e894752] (1) Part 8 of CTA 2010 (oil activities) is amended as follows.
 
 (2) In section 270 (overview of Part)—
 
@@ -188,7 +188,7 @@ Section 184
 
 (3) In section 330 (supplementary charge in respect of ring fence trades), in subsection (5), for “certain new oil fields” substitute “ eligible oil fields ”.
 
-**19.**[^key-817e79d34379589f1620f6c679d0c85b] (1) Schedule 4 to CTA 2010 (index of defined expressions) is amended as follows.
+**19.**[^c-817e79d34379589f1620f6c679d0c85b] (1) Schedule 4 to CTA 2010 (index of defined expressions) is amended as follows.
 
 (2) At the appropriate place insert—
 
@@ -206,7 +206,7 @@ Section 184
 
 (3) Omit the entry relating to “initial licensee (in Chapter 7 of Part 8)”.
 
-**20.**[^key-e8a6558c8afeafba55dacd4a7b8f2a26] In section 63 of FA 2011 (reduction of supplementary charge for new oil fields), omit subsection (3).
+**20.**[^c-e8a6558c8afeafba55dacd4a7b8f2a26] In section 63 of FA 2011 (reduction of supplementary charge for new oil fields), omit subsection (3).
 
 ### Commencement
 
@@ -228,36 +228,36 @@ Section 184
 
 ## Annotations
 
-[^key-7ee41fdadc0919d223f3f730cb47aa6e]: Commencement: [Sch. 22 para. 2](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/2) in force at 1.4.2013 for the purposes of the amendment made by that paragraph by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)
+[^c-7ee41fdadc0919d223f3f730cb47aa6e]: Commencement: [Sch. 22 para. 2](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/2) in force at 1.4.2013 for the purposes of the amendment made by that paragraph by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)
 
-[^key-befbcb8d2701cf0335506a8fa35e354b]: Commencement: [Sch. 22 para. 3](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/3) in force at 1.4.2013 for the purposes of the amendments made by that paragraph by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)
+[^c-befbcb8d2701cf0335506a8fa35e354b]: Commencement: [Sch. 22 para. 3](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/3) in force at 1.4.2013 for the purposes of the amendments made by that paragraph by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)
 
-[^key-5e76424838f5630a401e34598833a66e]: Commencement: [Sch. 22 para. 4](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/4) in force at 1.4.2013 for the purposes of the amendment made by that paragraph by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)
+[^c-5e76424838f5630a401e34598833a66e]: Commencement: [Sch. 22 para. 4](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/4) in force at 1.4.2013 for the purposes of the amendment made by that paragraph by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)
 
-[^key-763d5f45e645793e7941751ee59c041c]: Commencement: [Sch. 22 para. 5](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/5) in force at 1.4.2013 for the purposes of the amendments made by that paragraph by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)
+[^c-763d5f45e645793e7941751ee59c041c]: Commencement: [Sch. 22 para. 5](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/5) in force at 1.4.2013 for the purposes of the amendments made by that paragraph by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)
 
-[^key-9f4178ea0b696ce3803d0647500e2ec0]: Commencement: [Sch. 22 para. 6](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/6) in force at 1.4.2013 for the purposes of the amendments made by that paragraph by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)
+[^c-9f4178ea0b696ce3803d0647500e2ec0]: Commencement: [Sch. 22 para. 6](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/6) in force at 1.4.2013 for the purposes of the amendments made by that paragraph by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)
 
-[^key-328338fa9a814b7461aa6ac86a14e921]: Commencement: [Sch. 22 para. 7](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/7) in force at 1.4.2013 for the purposes of the amendments made by that paragraph by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)
+[^c-328338fa9a814b7461aa6ac86a14e921]: Commencement: [Sch. 22 para. 7](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/7) in force at 1.4.2013 for the purposes of the amendments made by that paragraph by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)
 
-[^key-49ef6576c7e1d04d85494cb46c387def]: Commencement: [Sch. 22 para. 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/8) in force at 1.4.2013 for the purposes of the amendments made by that paragraph by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)
+[^c-49ef6576c7e1d04d85494cb46c387def]: Commencement: [Sch. 22 para. 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/8) in force at 1.4.2013 for the purposes of the amendments made by that paragraph by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)
 
-[^key-4836f494014f26d42e241756115e46f3]: Commencement: [Sch. 22 para. 9](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/9) in force at 1.4.2013 for the purposes of the amendment made by that paragraph by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)
+[^c-4836f494014f26d42e241756115e46f3]: Commencement: [Sch. 22 para. 9](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/9) in force at 1.4.2013 for the purposes of the amendment made by that paragraph by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)
 
-[^key-3830847bdd0ef847d9ac499cf8c0d1c5]: Commencement: [Sch. 22 para. 10](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/10) in force at 1.4.2013 for the purposes of the amendments made by that paragraph by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)
+[^c-3830847bdd0ef847d9ac499cf8c0d1c5]: Commencement: [Sch. 22 para. 10](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/10) in force at 1.4.2013 for the purposes of the amendments made by that paragraph by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)
 
-[^key-9f1c57bfff1f30700fdbf3f4e1d5045e]: Commencement: [Sch. 22 para. 11](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/11) in force at 1.4.2013 for the purposes of the amendments made by that paragraph by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)
+[^c-9f1c57bfff1f30700fdbf3f4e1d5045e]: Commencement: [Sch. 22 para. 11](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/11) in force at 1.4.2013 for the purposes of the amendments made by that paragraph by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)
 
-[^key-7624596ae6fd6b13f4093d9c6757b968]: Commencement: [Sch. 22 para. 12](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/12) in force at 1.4.2013 for the purposes of the amendments made by that paragraph by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)
+[^c-7624596ae6fd6b13f4093d9c6757b968]: Commencement: [Sch. 22 para. 12](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/12) in force at 1.4.2013 for the purposes of the amendments made by that paragraph by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)
 
-[^key-ccc262f90de3f68565190c1b4626b753]: Commencement: [Sch. 22 para. 13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/13) in force at 1.4.2013 for the purposes of the amendments made by that paragraph by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)
+[^c-ccc262f90de3f68565190c1b4626b753]: Commencement: [Sch. 22 para. 13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/13) in force at 1.4.2013 for the purposes of the amendments made by that paragraph by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)
 
-[^key-963f77f63f7c53ae268ed02fe062492f]: Commencement: [Sch. 22 para. 16(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/16/2)[(4)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/16/4)[(5)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/16/5) in force at 1.4.2013 for the purposes of the amendments made by those sub-paragraphs by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)
+[^c-963f77f63f7c53ae268ed02fe062492f]: Commencement: [Sch. 22 para. 16(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/16/2)[(4)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/16/4)[(5)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/16/5) in force at 1.4.2013 for the purposes of the amendments made by those sub-paragraphs by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)
 
-[^key-664fef77f86397826c44712400292d6d]: Commencement: [Sch. 22 para. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/17) in force at 1.4.2013 for the purposes of the amendment made by that paragraph by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)
+[^c-664fef77f86397826c44712400292d6d]: Commencement: [Sch. 22 para. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/17) in force at 1.4.2013 for the purposes of the amendment made by that paragraph by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)
 
-[^key-51ef82dde9cedb32766624dc1e894752]: Commencement: [Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/18) in force at 1.4.2013 for the purposes of the amendments made by that paragraph by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)
+[^c-51ef82dde9cedb32766624dc1e894752]: Commencement: [Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/18) in force at 1.4.2013 for the purposes of the amendments made by that paragraph by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)
 
-[^key-817e79d34379589f1620f6c679d0c85b]: Commencement: [Sch. 22 para. 19](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/19) in force at 1.4.2013 for the purposes of the amendments made by that paragraph by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)
+[^c-817e79d34379589f1620f6c679d0c85b]: Commencement: [Sch. 22 para. 19](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/19) in force at 1.4.2013 for the purposes of the amendments made by that paragraph by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)
 
-[^key-e8a6558c8afeafba55dacd4a7b8f2a26]: Commencement: [Sch. 22 para. 20](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/20) in force at 1.4.2013 for the purposes of the amendment made by that paragraph by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)
+[^c-e8a6558c8afeafba55dacd4a7b8f2a26]: Commencement: [Sch. 22 para. 20](https://www.legislation.gov.uk/ukpga/2012/14/schedule/22/paragraph/20) in force at 1.4.2013 for the purposes of the amendment made by that paragraph by [S.I. 2013/744](https://www.legislation.gov.uk/uksi/2013/744), [art. 2](https://www.legislation.gov.uk/uksi/2013/744/article/2)

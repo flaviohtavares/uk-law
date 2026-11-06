@@ -36,7 +36,7 @@ summary: ''
 - (a) any benefits payable otherwise than by virtue of rights which are attributable (directly or indirectly) to a pension credit, and
 - (b) in the case of a salary related occupational pension scheme, any benefits payable by virtue of such rights, to the extent that the rights involve the member being credited by the scheme with notional pensionable service.
 
-(1B)[^key-8c66677dc418c7866b1bb35270a9eb0e] The reference in subsection (1)(a)(iii) to normal pension age is to be read, in relation to a person who is an active or deferred member of a scheme under section 1 or section 32(7) of the Public Service Pensions Act (Northern Ireland) 2014, as—
+(1B)[^c-8c66677dc418c7866b1bb35270a9eb0e] The reference in subsection (1)(a)(iii) to normal pension age is to be read, in relation to a person who is an active or deferred member of a scheme under section 1 or section 32(7) of the Public Service Pensions Act (Northern Ireland) 2014, as—
 
 - (a) the member's normal pension age within the meaning of that Act, or
 - (b) the member's deferred pension age within the meaning of that Act, if that is later.
@@ -61,6 +61,6 @@ In this subsection “active member” and “**deferred member**”, in relatio
 
 [^c11726441]: Textual amendment: S. 79(1A) inserted (1.12.2000) by [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147), [art. 74](https://www.legislation.gov.uk/nisi/1999/3147/article/74), [Sch. 9 para. 20(3)](https://www.legislation.gov.uk/nisi/1999/3147/schedule/9/paragraph/20/3); [S.R. 2000/133](https://www.legislation.gov.uk/nisr/2000/133), [art. 2(3)](https://www.legislation.gov.uk/nisr/2000/133/article/2/3), [Sch. Pt. IV](https://www.legislation.gov.uk/nisr/2000/133/schedule/part/IV)
 
-[^key-8c66677dc418c7866b1bb35270a9eb0e]: Textual amendment: S. 79(1B) inserted (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 8 para. 21](https://www.legislation.gov.uk/nia/2014/2/schedule/8/paragraph/21); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(r)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/r)
+[^c-8c66677dc418c7866b1bb35270a9eb0e]: Textual amendment: S. 79(1B) inserted (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 8 para. 21](https://www.legislation.gov.uk/nia/2014/2/schedule/8/paragraph/21); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(r)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/r)
 
 [^c11726451]: Textual amendment: S. 79(4) added (1.12.2000) by [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147), [art. 74](https://www.legislation.gov.uk/nisi/1999/3147/article/74), [Sch. 9 para. 20(4)](https://www.legislation.gov.uk/nisi/1999/3147/schedule/9/paragraph/20/4); [S.R. 2000/133](https://www.legislation.gov.uk/nisr/2000/133), [art. 2(3)](https://www.legislation.gov.uk/nisr/2000/133/article/2/3), [Sch. Pt. IV](https://www.legislation.gov.uk/nisr/2000/133/schedule/part/IV)

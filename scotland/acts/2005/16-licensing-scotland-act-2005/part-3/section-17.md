@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Premises licence[^key-7d5c40843806ac2efbc8171785fe1ab2]
+## 17. Premises licence[^c-7d5c40843806ac2efbc8171785fe1ab2]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In this Act, “**premises licence**”, in relation to any premises, means a li
 
 ## Annotations
 
-[^key-7d5c40843806ac2efbc8171785fe1ab2]: Commencement: S. 17 in force at 1.5.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)
+[^c-7d5c40843806ac2efbc8171785fe1ab2]: Commencement: S. 17 in force at 1.5.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)

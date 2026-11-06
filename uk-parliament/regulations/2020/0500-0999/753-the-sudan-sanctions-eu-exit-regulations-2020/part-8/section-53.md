@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Procedure for offences by unincorporated bodies[^key-fadd9cb48c21a9b8e185ee20a0f6c669]
+## 53. Procedure for offences by unincorporated bodies[^c-fadd9cb48c21a9b8e185ee20a0f6c669]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-fadd9cb48c21a9b8e185ee20a0f6c669]: Commencement: Reg. 53 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)
+[^c-fadd9cb48c21a9b8e185ee20a0f6c669]: Commencement: Reg. 53 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)
 
 [^c24239701]: Marginal citation: [1925 c.86](https://www.legislation.gov.uk/ukpga/1925/86) as amended by the [Statute Law (Repeals) Act 2004 (c.14)](https://www.legislation.gov.uk/ukpga/2004/14), [section 1(1)](https://www.legislation.gov.uk/ukpga/2004/14/section/1/1) and Schedule 1, Part 17. Other amendments have been made to section 33 that are not relevant to these Regulations.
 

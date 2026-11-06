@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Power to make consequential provision[^key-ce64841bed84a4c43da232509c2d0be2][^key-36928323d441d7ca903b39ae129fc223]
+## 108. Power to make consequential provision[^c-ce64841bed84a4c43da232509c2d0be2][^c-36928323d441d7ca903b39ae129fc223]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,8 +40,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ce64841bed84a4c43da232509c2d0be2]: Commencement: S. 108 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-ce64841bed84a4c43da232509c2d0be2]: Commencement: S. 108 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-36928323d441d7ca903b39ae129fc223]: Commencement: S. 108 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
+[^c-36928323d441d7ca903b39ae129fc223]: Commencement: S. 108 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
 
 [^M_F_d48c5895-5e83-48eb-9ab1-3c172fc1794e]: Textual amendment: [S. 108(6)(b)](https://www.legislation.gov.uk/ukpga/2022/7/section/108/6/b) omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 8(2)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/8/2)

@@ -53,7 +53,7 @@ are satisfied in relation to the area.
 - (b) that some or all of the private sector landlords who have let premises in the area (whether under leases or licences) are failing to take action to combat the problem that it would be appropriate for them to take; and
 - (c) that making a designation will, when combined with other measures taken in the area by the local housing authority, or by other persons together with the local housing authority, lead to a reduction in, or the elimination of, the problem.
 
-  “**Private sector landlord**” does not include a non-profit registered provider of social housing or[^key-4cd7607e0e8107e38c4b8749fb511c69] a registered social landlord within the meaning of Part 1 of the Housing Act 1996 (c. 52).
+  “**Private sector landlord**” does not include a non-profit registered provider of social housing or[^c-4cd7607e0e8107e38c4b8749fb511c69] a registered social landlord within the meaning of Part 1 of the Housing Act 1996 (c. 52).
 
 (7) The appropriate national authority may by order provide for any conditions specified in the order to apply as an additional set of conditions for the purposes of subsection (2).
 
@@ -72,4 +72,4 @@ are satisfied in relation to the area.
 
 [^c683143]: Commencement: S. 80 wholly in force at 25.11.2005; s. 80 in force for certain purposes at Royal Assent see s. 270(2)(b); s. 80 in force for E. at 15.6.2005 by [S.I. 2005/1451](https://www.legislation.gov.uk/uksi/2005/1451), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/1451/article/3/c); s. 80 in force for W. at 25.11.2005 by [S.I. 2005/3237](https://www.legislation.gov.uk/uksi/2005/3237), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/3237/article/2/d)
 
-[^key-4cd7607e0e8107e38c4b8749fb511c69]: Textual amendment: Words in s. 80(6) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 132](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/132) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+[^c-4cd7607e0e8107e38c4b8749fb511c69]: Textual amendment: Words in s. 80(6) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 132](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/132) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))

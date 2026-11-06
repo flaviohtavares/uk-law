@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 2ZZA — PROTECTION OF SUPPLIES UNDER ARTICLE 197B: EXCLUSIONS[^key-e24bf964632c61d2a9bc03ea1c935bb5]
+## SCHEDULE 2ZZA — PROTECTION OF SUPPLIES UNDER ARTICLE 197B: EXCLUSIONS[^c-e24bf964632c61d2a9bc03ea1c935bb5]
 
 *Extent: N.I.*
 
@@ -206,4 +206,4 @@ Article 197B
 
 ## Annotations
 
-[^key-e24bf964632c61d2a9bc03ea1c935bb5]: Textual amendment: [Sch. 2ZZA](https://www.legislation.gov.uk/nisi/1989/2405/schedule/2ZZA) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2020/12/schedule/13/paragraph/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [18(4)](https://www.legislation.gov.uk/ukpga/2020/12/section/18/4))
+[^c-e24bf964632c61d2a9bc03ea1c935bb5]: Textual amendment: [Sch. 2ZZA](https://www.legislation.gov.uk/nisi/1989/2405/schedule/2ZZA) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2020/12/schedule/13/paragraph/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [18(4)](https://www.legislation.gov.uk/ukpga/2020/12/section/18/4))

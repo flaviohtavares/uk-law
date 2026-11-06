@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 511A. Public interest companies: application to court to remove auditor from office[^key-d55dc179c63059ae7ed33a232590888f]
+## 511A. Public interest companies: application to court to remove auditor from office[^c-d55dc179c63059ae7ed33a232590888f]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,10 +39,10 @@ the court may make an order removing the auditor from office.
 
 (6) For the purposes of this section, divergence of opinions on accounting treatments or audit procedures are not to be taken to be proper grounds for removing an auditor from office.
 
-(7)[^key-0091a83d4f961bcddadf0b298e4c9c0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-0091a83d4f961bcddadf0b298e4c9c0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d55dc179c63059ae7ed33a232590888f]: Textual amendment: S. 511A inserted (17.6.2016) by [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [Sch. 3 para. 22(1)](https://www.legislation.gov.uk/uksi/2016/649/schedule/3/paragraph/22/1) (with [reg. 1(12)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/12))
+[^c-d55dc179c63059ae7ed33a232590888f]: Textual amendment: S. 511A inserted (17.6.2016) by [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [Sch. 3 para. 22(1)](https://www.legislation.gov.uk/uksi/2016/649/schedule/3/paragraph/22/1) (with [reg. 1(12)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/12))
 
-[^key-0091a83d4f961bcddadf0b298e4c9c0c]: Textual amendment: S. 511A(7) omitted (with effect in accordance with reg. 1(6)(8) of the amending S.I.) by virtue of [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [12(18)](https://www.legislation.gov.uk/uksi/2017/516/regulation/12/18)
+[^c-0091a83d4f961bcddadf0b298e4c9c0c]: Textual amendment: S. 511A(7) omitted (with effect in accordance with reg. 1(6)(8) of the amending S.I.) by virtue of [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [12(18)](https://www.legislation.gov.uk/uksi/2017/516/regulation/12/18)

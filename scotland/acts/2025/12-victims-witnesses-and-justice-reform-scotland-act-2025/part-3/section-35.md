@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Single victim notification system[^key-918730c478ee400b4e73f3cf9e2ed15c]
+## 35. Single victim notification system[^c-918730c478ee400b4e73f3cf9e2ed15c]
 
 *Extent: S*
 
-(1)[^key-3bba1332355eb55e410824acefbfb4a1] The Criminal Justice (Scotland) Act 2003 is amended by subsections (2) to (4).
+(1)[^c-3bba1332355eb55e410824acefbfb4a1] The Criminal Justice (Scotland) Act 2003 is amended by subsections (2) to (4).
 
 (2) In section 16 (victim’s right to receive information concerning release etc. of offender)—
 
@@ -30,9 +30,9 @@ summary: ''
   - (iii) paragraph (b) is repealed,
 - (b) subsection (4)(a) is repealed.
 
-(3)[^key-62891b9d6355975910e28e989f676904] In section 17 (release on licence: right of victim to receive information and make representations), subsection (12)(b), and the word “or” immediately preceding it, are repealed.
+(3)[^c-62891b9d6355975910e28e989f676904] In section 17 (release on licence: right of victim to receive information and make representations), subsection (12)(b), and the word “or” immediately preceding it, are repealed.
 
-(4)[^key-62891b9d6355975910e28e989f676904] In section 17ZA (release on licence: provision of information to person supporting victim), subsection (5)(b) is repealed.
+(4)[^c-62891b9d6355975910e28e989f676904] In section 17ZA (release on licence: provision of information to person supporting victim), subsection (5)(b) is repealed.
 
 (5) The 2014 Act is amended by subsections (6) to (9).
 
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-918730c478ee400b4e73f3cf9e2ed15c]: Commencement: S. 35 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-918730c478ee400b4e73f3cf9e2ed15c]: Commencement: S. 35 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-3bba1332355eb55e410824acefbfb4a1]: Commencement: S. 35(1) in force at 19.3.2026 for specified purposes by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-3bba1332355eb55e410824acefbfb4a1]: Commencement: S. 35(1) in force at 19.3.2026 for specified purposes by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
 
-[^key-62891b9d6355975910e28e989f676904]: Commencement: S. 35(3)(4) in force at 19.3.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-62891b9d6355975910e28e989f676904]: Commencement: S. 35(3)(4) in force at 19.3.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)

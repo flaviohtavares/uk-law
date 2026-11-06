@@ -32,7 +32,7 @@ summary: ''
 
 Food
 
-The Plastic Materials and Articles in Contact with Food (Scotland) Amendment Regulations 2011 (revoked)[^key-76f39e3e70713c6514e0a4914cad86ed]
+The Plastic Materials and Articles in Contact with Food (Scotland) Amendment Regulations 2011 (revoked)[^c-76f39e3e70713c6514e0a4914cad86ed]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st March 2011
 
-[^key-76f39e3e70713c6514e0a4914cad86ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-76f39e3e70713c6514e0a4914cad86ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-76f39e3e70713c6514e0a4914cad86ed]
+## 1. Citation and commencement[^c-76f39e3e70713c6514e0a4914cad86ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Plastic Materials and Articles in Contact with Food (Scotland) Regulations 2009[^key-76f39e3e70713c6514e0a4914cad86ed]
+## 2. Amendment to the Plastic Materials and Articles in Contact with Food (Scotland) Regulations 2009[^c-76f39e3e70713c6514e0a4914cad86ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-76f39e3e70713c6514e0a4914cad86ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-76f39e3e70713c6514e0a4914cad86ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-76f39e3e70713c6514e0a4914cad86ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-76f39e3e70713c6514e0a4914cad86ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-76f39e3e70713c6514e0a4914cad86ed]: Textual amendment: Regulations revoked (22.12.2012) by The Materials and Articles in Contact with [Food (Scotland) Regulations 2012 (S.S.I. 2012/318)](https://www.legislation.gov.uk/ssi/2012/318), [reg.1](https://www.legislation.gov.uk/ssi/2012/318/regulation/1), [sch. 2](https://www.legislation.gov.uk/ssi/2012/318/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2012/318/regulation/3))
+[^c-76f39e3e70713c6514e0a4914cad86ed]: Textual amendment: Regulations revoked (22.12.2012) by The Materials and Articles in Contact with [Food (Scotland) Regulations 2012 (S.S.I. 2012/318)](https://www.legislation.gov.uk/ssi/2012/318), [reg.1](https://www.legislation.gov.uk/ssi/2012/318/regulation/1), [sch. 2](https://www.legislation.gov.uk/ssi/2012/318/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2012/318/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Emergency safety notices[^key-e5245a8c47ce9747cf144e7275887c3a]
+## 57. Emergency safety notices[^c-e5245a8c47ce9747cf144e7275887c3a]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5245a8c47ce9747cf144e7275887c3a]: Commencement: S. 57 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
+[^c-e5245a8c47ce9747cf144e7275887c3a]: Commencement: S. 57 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)

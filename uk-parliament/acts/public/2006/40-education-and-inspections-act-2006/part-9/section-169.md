@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Prohibition on participation in management of independent school[^key-9ff7e5f6b823908a7550e0e3f9121700]
+## 169. Prohibition on participation in management of independent school[^c-9ff7e5f6b823908a7550e0e3f9121700]
 
 *Extent: E+W*
 
@@ -87,4 +87,4 @@ After section 167 of EA 2002 insert—
 
 ## Annotations
 
-[^key-9ff7e5f6b823908a7550e0e3f9121700]: Commencement: S. 169 in force at 12.10.2009 for W. by [S.I. 2009/2545](https://www.legislation.gov.uk/uksi/2009/2545), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2009/2545/article/3/1/a)
+[^c-9ff7e5f6b823908a7550e0e3f9121700]: Commencement: S. 169 in force at 12.10.2009 for W. by [S.I. 2009/2545](https://www.legislation.gov.uk/uksi/2009/2545), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2009/2545/article/3/1/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 151. Tax-related penalty for failure to comply with information notice or obstruction[^key-50e8a8530c057f5d7543540d278d1dac]
+## 151. Tax-related penalty for failure to comply with information notice or obstruction[^c-50e8a8530c057f5d7543540d278d1dac]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) a person becomes liable to a penalty under section 146,
 - (b) the failure or obstruction continues after the day on which a penalty notice is issued under section 153(1)(b) in respect of the penalty,
 - (c) WRA has reason to believe that, as a result of the failure or obstruction,
-  - (i)[^key-7489c37b301c142d2a3625666b4d43b9] the amount of WRA-collected[^key-fff3af6ed431e746ec4d55fe1114ea14] tax that the person has paid, or is likely to pay, or[^key-d37ad2f295dfaeb5658471c15a8ceb9a]
+  - (i)[^c-7489c37b301c142d2a3625666b4d43b9] the amount of WRA-collected[^c-fff3af6ed431e746ec4d55fe1114ea14] tax that the person has paid, or is likely to pay, or[^c-d37ad2f295dfaeb5658471c15a8ceb9a]
   - (ii) the amount that the person has paid, or is likely to pay in respect of a tax credit,
 
   is significantly less than it would otherwise have been,
@@ -36,7 +36,7 @@ summary: ''
 
 (3) In determining the amount, the Upper Tribunal must have regard to
 
-- (i)[^key-4d3c977c85ef3cc36a8d476d8c65aa98] the amount of WRA-collected tax or[^key-e2e596c3299fc9a7896808e7cd399945]
+- (i)[^c-4d3c977c85ef3cc36a8d476d8c65aa98] the amount of WRA-collected tax or[^c-e2e596c3299fc9a7896808e7cd399945]
 - (ii) the amount in respect of a tax credit,
 
 which has not been, or is not likely to be, paid by the person.
@@ -58,14 +58,14 @@ which has not been, or is not likely to be, paid by the person.
 
 ## Annotations
 
-[^key-50e8a8530c057f5d7543540d278d1dac]: Commencement: S. 151 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(d)](https://www.legislation.gov.uk/wsi/2018/33/article/2/d)
+[^c-50e8a8530c057f5d7543540d278d1dac]: Commencement: S. 151 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(d)](https://www.legislation.gov.uk/wsi/2018/33/article/2/d)
 
-[^key-7489c37b301c142d2a3625666b4d43b9]: Textual amendment: Words in s. 151(1)(c) renumbered as s. 151(1)(c)(i) (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 36(2)(a)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/36/2/a)
+[^c-7489c37b301c142d2a3625666b4d43b9]: Textual amendment: Words in s. 151(1)(c) renumbered as s. 151(1)(c)(i) (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 36(2)(a)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/36/2/a)
 
-[^key-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)
+[^c-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)
 
-[^key-d37ad2f295dfaeb5658471c15a8ceb9a]: Textual amendment: S. 151(1)(c)(ii) and word inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 36(2)(b)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/36/2/b)
+[^c-d37ad2f295dfaeb5658471c15a8ceb9a]: Textual amendment: S. 151(1)(c)(ii) and word inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 36(2)(b)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/36/2/b)
 
-[^key-4d3c977c85ef3cc36a8d476d8c65aa98]: Textual amendment: Words in s. 151(3) renumbered as s. 151(3)(i) (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 36(3)(a)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/36/3/a)
+[^c-4d3c977c85ef3cc36a8d476d8c65aa98]: Textual amendment: Words in s. 151(3) renumbered as s. 151(3)(i) (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 36(3)(a)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/36/3/a)
 
-[^key-e2e596c3299fc9a7896808e7cd399945]: Textual amendment: S. 151(3)(ii) and word inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 36(3)(b)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/36/3/b)
+[^c-e2e596c3299fc9a7896808e7cd399945]: Textual amendment: S. 151(3)(ii) and word inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 36(3)(b)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/36/3/b)

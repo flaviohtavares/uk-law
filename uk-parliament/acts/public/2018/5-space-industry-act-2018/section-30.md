@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Consultation about directions[^key-23f5490d12b40a9bc1b283dc2293622a]
+## 30. Consultation about directions[^c-23f5490d12b40a9bc1b283dc2293622a]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23f5490d12b40a9bc1b283dc2293622a]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2018/5/section/30) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 51](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/51) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-23f5490d12b40a9bc1b283dc2293622a]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2018/5/section/30) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 51](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/51) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))

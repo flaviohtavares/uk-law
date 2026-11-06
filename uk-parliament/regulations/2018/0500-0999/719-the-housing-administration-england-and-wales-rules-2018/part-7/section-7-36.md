@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.36. Right to list of creditors[^key-8d811ffd53eba937c5f18896d696f6fc]
+## 7.36. Right to list of creditors[^c-8d811ffd53eba937c5f18896d696f6fc]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d811ffd53eba937c5f18896d696f6fc]: Commencement: Rule 7.36 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-8d811ffd53eba937c5f18896d696f6fc]: Commencement: Rule 7.36 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

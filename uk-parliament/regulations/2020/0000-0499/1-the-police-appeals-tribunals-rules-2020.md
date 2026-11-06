@@ -46,13 +46,13 @@ Coming into force
 
 [^c23958561]The Secretary of State, in exercise of the powers conferred by sections 85(1) and (3) to (4A) and 88G(4) and (5)(b) of, and paragraph 2A of Schedule 6 to, the Police Act 1996 , makes the following Rules.
 
-In accordance with section 63(3)(a) of the Police Act 1996 [^c23958571], the Secretary of State has supplied a draft of these Rules to the Police Advisory Board for England and Wales and has taken into consideration the representations made by that Board before making these Rules.[^key-35086b0738e3dc73eae946b288de9ab4][^key-8e921a2d54c4f9235676d7713327de8a]
+In accordance with section 63(3)(a) of the Police Act 1996 [^c23958571], the Secretary of State has supplied a draft of these Rules to the Police Advisory Board for England and Wales and has taken into consideration the representations made by that Board before making these Rules.[^c-35086b0738e3dc73eae946b288de9ab4][^c-8e921a2d54c4f9235676d7713327de8a]
 
-## 1. Citation and commencement[^key-3a0c27fa7440c0e942da372b9311f0e6]
+## 1. Citation and commencement[^c-3a0c27fa7440c0e942da372b9311f0e6]
 
 These Rules may be cited as the Police Appeals Tribunals Rules 2020 and come into force on 1st February 2020.
 
-## 2. Revocations and transitional provisions[^key-c0d7c6ff922ad05e858446c735b58110]
+## 2. Revocations and transitional provisions[^c-c0d7c6ff922ad05e858446c735b58110]
 
 (1) Subject to paragraph (2), the following are revoked—
 
@@ -67,14 +67,14 @@ These Rules may be cited as the Police Appeals Tribunals Rules 2020 and come int
 - (c) the Police (Performance) Regulations 2012 [^c23958641], or
 - (d) the Police (Conduct) Regulations 2012 [^c23958651].
 
-## 3. Interpretation and general provision as to written notices or documents[^key-66063514033f1118a9e3ef9d63dd6833]
+## 3. Interpretation and general provision as to written notices or documents[^c-66063514033f1118a9e3ef9d63dd6833]
 
 (1) In these Rules—
 
 - “**the Complaints and Misconduct Regulations**” means the Police (Complaints and Misconduct) Regulations 2020 [^c23958661];
 - “**the Conduct Regulations**” means the Police (Conduct) Regulations 2020 [^c23958671];
 - “**the Performance Regulations**” means the Police (Performance) Regulations 2020 [^c23958681];
-- “[^key-ce1a1612753af46f0f999c16426789b7]**the Vetting Regulations**” means the Police (Vetting) Regulations 2025;
+- “[^c-ce1a1612753af46f0f999c16426789b7]**the Vetting Regulations**” means the Police (Vetting) Regulations 2025;
 - “**appellant**” means a police officer or a former police officer who has given a notice of appeal in accordance with rule 9 or 10;
 - “**chair**” means—
   - (a) for the purposes of rules 10, 13, 14 and 15, a chairman appointed under Schedule 6 to the 1996 Act [^c23958691], and
@@ -82,13 +82,13 @@ These Rules may be cited as the Police Appeals Tribunals Rules 2020 and come int
 - “disciplinary action”—
   - (a) in relation to a police officer, means disciplinary action under the Conduct Regulations;
   - (b) in relation to a former police officer, means a finding that the former officer would have been dismissed if the former officer had not ceased to be a member of a police force or a special constable;
-- “[^key-fb410fa23a43ec5a13e37040937259d6]**original appeal**” means, in relation to a decision which is being appealed to a tribunal in accordance with rule 5A, the appeal to the panel which made the relevant decision;
-- “**original hearing**” means , in relation to a decision which is being appealed to a tribunal in accordance with rule 4, 5 or 6[^key-ff7ff5ead49decf32bbc9e839c98a027] —
+- “[^c-fb410fa23a43ec5a13e37040937259d6]**original appeal**” means, in relation to a decision which is being appealed to a tribunal in accordance with rule 5A, the appeal to the panel which made the relevant decision;
+- “**original hearing**” means , in relation to a decision which is being appealed to a tribunal in accordance with rule 4, 5 or 6[^c-ff7ff5ead49decf32bbc9e839c98a027] —
   - (a) the misconduct hearing or accelerated misconduct hearing under the Conduct Regulations, or
-  - (b) the second stage meeting[^key-898a3e57c6fd7f7cbb4fe46a11d214af] under the Performance Regulations,
+  - (b) the second stage meeting[^c-898a3e57c6fd7f7cbb4fe46a11d214af] under the Performance Regulations,
 
   at or following which the relevant decision was made;
-- “**relevant decision**” means the finding or decision as to the disciplinary action or outcome which may be appealed or is being appealed to a tribunal in accordance with rule 4, 5 , 5A[^key-566e94c42d6525fec388503dbf4ce413] or 6;
+- “**relevant decision**” means the finding or decision as to the disciplinary action or outcome which may be appealed or is being appealed to a tribunal in accordance with rule 4, 5 , 5A[^c-566e94c42d6525fec388503dbf4ce413] or 6;
 - “**relevant local policing body**” means the local policing body [^c23958701] for—
   - (a) the police force of which a police officer who wishes to appeal to a tribunal, or the appellant (where the appellant is a police officer), is a member;
   - (b) the police force for the police area for which—
@@ -119,7 +119,7 @@ These Rules may be cited as the Police Appeals Tribunals Rules 2020 and come int
   - (a) for the purposes of rules 4 to 6, 9 and 10, a police appeals tribunal appointed under Schedule 6 to the 1996 Act, and
   - (b) for the purposes of rules 20 to 22 and 26, in relation to an appeal, the police appeals tribunal appointed under Schedule 6 to the 1996 Act to determine that appeal.
 
-(2) In these Rules, any expression which is also used in the Conduct Regulations , the Performance Regulations or the Vetting Regulations[^key-df3822e946dccf3ae02872523ee2fd93], unless that expression is given a different meaning in paragraph (1), has the same meaning as in those Regulations.
+(2) In these Rules, any expression which is also used in the Conduct Regulations , the Performance Regulations or the Vetting Regulations[^c-df3822e946dccf3ae02872523ee2fd93], unless that expression is given a different meaning in paragraph (1), has the same meaning as in those Regulations.
 
 (3) Where any written notice or document is to be given or supplied to the appellant under these Rules, it must be—
 
@@ -127,7 +127,7 @@ These Rules may be cited as the Police Appeals Tribunals Rules 2020 and come int
 - (b) left with a person at, or sent by recorded delivery to, the appellant's last known address, or
 - (c) given to the appellant in any other manner agreed between the person who is required to give the notice or document and the appellant.
 
-## 4. Circumstances in which a police officer may appeal to a tribunal – Conduct Regulations[^key-03da9cae996d6aa5d01daaded45a6cbc]
+## 4. Circumstances in which a police officer may appeal to a tribunal – Conduct Regulations[^c-03da9cae996d6aa5d01daaded45a6cbc]
 
 (1) Subject to paragraph (3), a police officer to whom paragraph (2) applies may appeal to a tribunal in reliance on one or more of the grounds of appeal referred to in paragraph (4) against one or both of the following—
 
@@ -148,24 +148,24 @@ These Rules may be cited as the Police Appeals Tribunals Rules 2020 and come int
 - (b) that there is evidence that could not reasonably have been considered at the original hearing which could have materially affected the finding or decision on disciplinary action, or
 - (c) that there was a breach of the procedures set out in the Conduct Regulations, the Complaints and Misconduct Regulations or Part 2 of the 2002 Act or unfairness which could have materially affected the finding or decision on disciplinary action.
 
-## 5. Circumstances in which a police officer may appeal to a tribunal – Performance Regulations[^key-c9d3e6546c62c882b5cab04145f0247d]
+## 5. Circumstances in which a police officer may appeal to a tribunal – Performance Regulations[^c-c9d3e6546c62c882b5cab04145f0247d]
 
 (1) Subject to paragraph (3), a police officer to whom paragraph (2) applies may appeal to a tribunal in reliance on one or more of the grounds of appeal referred to in paragraph (6) against one or both of the following—
 
 - (a) a finding referred to in paragraph (2) made under the Performance Regulations;
 - (b) an outcome which is imposed under the Performance Regulations in consequence of that finding and mentioned in paragraph (4) or (5).
 
-(2) This paragraph applies to a police officer against whom a finding of unsatisfactory performance or attendance or gross incompetence has been made at a second stage meeting[^key-8c9c0843262b6682289a55c969828611].
+(2) This paragraph applies to a police officer against whom a finding of unsatisfactory performance or attendance or gross incompetence has been made at a second stage meeting[^c-8c9c0843262b6682289a55c969828611].
 
 (3) A police officer may not appeal to a tribunal against a finding referred to in paragraph (2) where that finding was made following acceptance by the officer that the officer's performance or attendance has been unsatisfactory or that the officer has been grossly incompetent (as the case may be).
 
-(4) Where there has been a finding of unsatisfactory performance or attendance following a second stage meeting[^key-8392b3cd9d58ebc7ccac69b0ce65dad8] which the police officer was required to attend under regulation 30 of the Performance Regulations, the officer may appeal against the following outcomes—
+(4) Where there has been a finding of unsatisfactory performance or attendance following a second stage meeting[^c-8392b3cd9d58ebc7ccac69b0ce65dad8] which the police officer was required to attend under regulation 30 of the Performance Regulations, the officer may appeal against the following outcomes—
 
 - (a) dismissal with notice;
 - (b) reduction in rank;
 - (c) redeployment to alternative duties.
 
-(5) Where there has been a finding of gross incompetence or unsatisfactory performance following a second stage meeting[^key-3ee088090c2cdd7615b617a0bd085580] which the police officer was required to attend under regulation 32 of the Performance Regulations, the officer may appeal against the following outcomes—
+(5) Where there has been a finding of gross incompetence or unsatisfactory performance following a second stage meeting[^c-3ee088090c2cdd7615b617a0bd085580] which the police officer was required to attend under regulation 32 of the Performance Regulations, the officer may appeal against the following outcomes—
 
 - (a) dismissal without notice;
 - (b) reduction in rank;
@@ -178,9 +178,9 @@ These Rules may be cited as the Police Appeals Tribunals Rules 2020 and come int
 - (a) that the finding or outcome imposed was unreasonable;
 - (b) that there is evidence that could not reasonably have been considered at the original meeting which could have materially affected the finding or decision on the outcome;
 - (c) that there was a breach of the procedures set out in the Performance Regulations, the Complaints and Misconduct Regulations or Part 2 of the 2002 Act or unfairness which could have materially affected the finding or decision on the outcome, or
-- (d) that, where the police officer was required to attend the second stage meeting[^key-32fa0d16554fe10e9601c92d921a38a0] under regulation 30 of the Performance Regulations, the officer should not have been required to attend that meeting as it did not, in accordance with regulation 30(6) or 48(10) of those Regulations, concern unsatisfactory performance or attendance similar to or connected with the unsatisfactory performance or attendance referred to in the final written improvement notice.
+- (d) that, where the police officer was required to attend the second stage meeting[^c-32fa0d16554fe10e9601c92d921a38a0] under regulation 30 of the Performance Regulations, the officer should not have been required to attend that meeting as it did not, in accordance with regulation 30(6) or 48(10) of those Regulations, concern unsatisfactory performance or attendance similar to or connected with the unsatisfactory performance or attendance referred to in the final written improvement notice.
 
-## 5A. Circumstances in which a police officer may appeal to a tribunal – Vetting Regulations[^key-1c886755ed88f25baf8777a891b0ad6b]
+## 5A. Circumstances in which a police officer may appeal to a tribunal – Vetting Regulations[^c-1c886755ed88f25baf8777a891b0ad6b]
 
 (1) A police officer may appeal to a tribunal in reliance on one or more of the grounds of appeal referred to in paragraph (2) against any decision under regulation 30 of the Vetting Regulations to confirm a decision to withdraw their vetting clearance.
 
@@ -190,7 +190,7 @@ These Rules may be cited as the Police Appeals Tribunals Rules 2020 and come int
 - (b) that there is evidence that could not reasonably have been considered as part of the withdrawal assessment which could have materially affected the decision, or
 - (c) that there was a breach of the procedures set out in the Vetting Regulations or unfairness which could have materially affected the decision.
 
-## 6. Circumstances in which a former police officer may appeal to a tribunal[^key-4a5dceddc83199e76514f86b60e5ff44]
+## 6. Circumstances in which a former police officer may appeal to a tribunal[^c-4a5dceddc83199e76514f86b60e5ff44]
 
 (1) Subject to paragraph (3), a former police officer to whom paragraph (2) applies may appeal to a tribunal in reliance on one or more of the grounds of appeal referred to in paragraph (4) against one or both of the following—
 
@@ -210,11 +210,11 @@ These Rules may be cited as the Police Appeals Tribunals Rules 2020 and come int
 - (b) that there is evidence that could not reasonably have been considered at the original hearing which could have materially affected the finding or decision to impose disciplinary action, or
 - (c) that there was a breach of the procedures set out in the Conduct Regulations, the Complaints and Misconduct Regulations or Part 2 of the 2002 Act or unfairness which could have materially affected the finding or decision to impose disciplinary action.
 
-## 7. Delegation of functions[^key-ca120ebeea03393ff8c70915a2bdc2b2]
+## 7. Delegation of functions[^c-ca120ebeea03393ff8c70915a2bdc2b2]
 
 The relevant local policing body may, if it considers it appropriate in a particular case, delegate functions in relation to the administration of an appeal to another local policing body.
 
-## 8. The “relevant person” for the purposes of paragraphs 1 and 2 of Schedule 6 to the 1996 Act[^key-420c1fc4cae2c88dfb755cd8ea3e861b]
+## 8. The “relevant person” for the purposes of paragraphs 1 and 2 of Schedule 6 to the 1996 Act[^c-420c1fc4cae2c88dfb755cd8ea3e861b]
 
 For the purposes of paragraphs 1 and 2 of Schedule 6 to the 1996 Act (police appeals tribunals) [^c23958751], “**relevant person**” means—
 
@@ -227,15 +227,15 @@ For the purposes of paragraphs 1 and 2 of Schedule 6 to the 1996 Act (police app
     is appointed as a special constable, or
 - (b) where the body referred to in paragraph (a) has, under rule 7, delegated functions in relation to the administration of the appeal to another local policing body, that other body.
 
-## 9. Notice of appeal[^key-326ac7eadbf8ad524bacc0ff5bf56414]
+## 9. Notice of appeal[^c-326ac7eadbf8ad524bacc0ff5bf56414]
 
 (1) Subject to rule 10, a police officer or a former police officer who wishes to appeal to a tribunal must give notice of the appeal before the end of 10 working days beginning with the first working day after the day on which the officer is first supplied with a written copy of the relevant decision.
 
 (2) The notice of appeal must be given in writing to the relevant local policing body.
 
-(3) Where the officer or former officer wishes to appeal to the tribunal in accordance with rule 4, 5 or 6, the[^key-6fd4d2d28f9983ac7ce7915ab3af6536] officer or former officer may request a transcript of the proceedings (or part of the proceedings) at the original hearing in the officer's or former officer's notice of appeal.
+(3) Where the officer or former officer wishes to appeal to the tribunal in accordance with rule 4, 5 or 6, the[^c-6fd4d2d28f9983ac7ce7915ab3af6536] officer or former officer may request a transcript of the proceedings (or part of the proceedings) at the original hearing in the officer's or former officer's notice of appeal.
 
-## 10. Notice of appeal out of time[^key-4802a25fd8d81cb3d1f842ee94b628da]
+## 10. Notice of appeal out of time[^c-4802a25fd8d81cb3d1f842ee94b628da]
 
 (1) This rule applies where a police officer or a former police officer wishes to give notice of an appeal to a tribunal after the end of the period mentioned in rule 9(1).
 
@@ -254,7 +254,7 @@ For the purposes of paragraphs 1 and 2 of Schedule 6 to the 1996 Act (police app
 
 (6) Where the appeal is not dismissed under paragraph (5), the appeal must proceed and the chair must give directions for the application of rule 13 to the appeal.
 
-## 11. The respondent[^key-44d7a4ecb664b619f30dce073afaafbe]
+## 11. The respondent[^c-44d7a4ecb664b619f30dce073afaafbe]
 
 (1) Where the appellant is—
 
@@ -265,7 +265,7 @@ the respondent must be a person designated by the relevant local policing body.
 
 (2) Where the appellant is any other police officer or other former police officer, the respondent must be the chief officer of police of the relevant police force.
 
-## 12. Presenting of case by Director General[^key-30b6cf7f89da01dfcf643cd8f5ec884e]
+## 12. Presenting of case by Director General[^c-30b6cf7f89da01dfcf643cd8f5ec884e]
 
 (1) Where paragraph (2) applies to an appeal, the Director General must present the case for the respondent.
 
@@ -275,7 +275,7 @@ the respondent must be a person designated by the relevant local policing body.
 
 (4) Where the Director General is presenting the case in accordance with paragraph (1), all references to the respondent in rules 13 (other than paragraph (1)(a)), 14 to 18, 23, 25 and 26 are to be read as if they referred instead to the Director General.
 
-## 13. Procedure on notice of appeal[^key-f6580f2cfc0e3361238fcc76c967469e]
+## 13. Procedure on notice of appeal[^c-f6580f2cfc0e3361238fcc76c967469e]
 
 (1) As soon as reasonably practicable, the relevant local policing body must supply a copy of the notice of appeal—
 
@@ -291,8 +291,8 @@ the respondent must be a person designated by the relevant local policing body.
 
 (3) As soon as reasonably practicable after receipt of a copy of the notice of appeal, and in any event before the end of 15 working days beginning with the first working day after the day of such receipt, the respondent must supply to the relevant person—
 
-- (a) a copy of the relevant decision made at or following the original hearing or original appeal[^key-51c2c5299c089c598672739ca89eeb7d] provided under regulation 43(2) or 63(2) of the  Conduct Regulations,[^key-5ab7d9e269c3304be94297eca72dfcbf] regulation 45(3) of the Performance Regulations or regulation 30(4) of the Vetting Regulations[^key-5e8057e372bdf5c6ce55e1e980d80f87];
-- (b) any documents which were made available to the person or persons conducting the original hearing or original appeal[^key-60a0922a8cf2914443c6e49080c21659], and
+- (a) a copy of the relevant decision made at or following the original hearing or original appeal[^c-51c2c5299c089c598672739ca89eeb7d] provided under regulation 43(2) or 63(2) of the  Conduct Regulations,[^c-5ab7d9e269c3304be94297eca72dfcbf] regulation 45(3) of the Performance Regulations or regulation 30(4) of the Vetting Regulations[^c-5e8057e372bdf5c6ce55e1e980d80f87];
+- (b) any documents which were made available to the person or persons conducting the original hearing or original appeal[^c-60a0922a8cf2914443c6e49080c21659], and
 - (c) a copy of any transcript requested under rule 9(3).
 
 (4) A copy of any such transcript must at the same time be given to the appellant, unless it has been given to the appellant under rule 9(3).
@@ -308,10 +308,10 @@ the respondent must be a person designated by the relevant local policing body.
 
 (6) For the purposes of paragraph (5)(c)—
 
-- (a) an appellant is only permitted to adduce witness evidence where the appellant is relying on the ground of appeal set out in rule 4(4)(b), 5(6)(b) , 5A(2)(b)[^key-94920194bb04d5600d59a41ec476a658] or 6(4)(b);
+- (a) an appellant is only permitted to adduce witness evidence where the appellant is relying on the ground of appeal set out in rule 4(4)(b), 5(6)(b) , 5A(2)(b)[^c-94920194bb04d5600d59a41ec476a658] or 6(4)(b);
 - (b) a “proposed witness” is a person—
   - (i) whom the appellant wishes to call to give evidence at the hearing;
-  - (ii) whose evidence was not and could not reasonably have been considered at the original hearing or as part of the original appeal[^key-57419f52c5d275d181b3650538035159], and
+  - (ii) whose evidence was not and could not reasonably have been considered at the original hearing or as part of the original appeal[^c-57419f52c5d275d181b3650538035159], and
   - (iii) whose evidence could have materially affected the relevant decision.
 
 (7) The appellant must supply the documents mentioned in paragraph (5) before the end of—
@@ -332,16 +332,16 @@ the respondent must be a person designated by the relevant local policing body.
 
 (10) For the purposes of paragraph (9)(c)—
 
-- (a) a respondent is only permitted to adduce witness evidence where the appellant is relying on the ground of appeal set out in rule 4(4)(b), 5(6)(b) , 5A(2)(b)[^key-26d543d5d31a463ccd479210a5f03178] or 6(4)(b);
+- (a) a respondent is only permitted to adduce witness evidence where the appellant is relying on the ground of appeal set out in rule 4(4)(b), 5(6)(b) , 5A(2)(b)[^c-26d543d5d31a463ccd479210a5f03178] or 6(4)(b);
 - (b) a “proposed witness” is a person—
   - (i) whom the respondent wishes to call to give evidence at the hearing, and
-  - (ii) whose evidence is relevant to all or part of the evidence on which the appellant is relying for the purposes of rule 4(4)(b, 5(6)(b) , 5A(2)(b)[^key-87c14b28769dfa08259497ad5be9c5c4], or 6(4)(b).
+  - (ii) whose evidence is relevant to all or part of the evidence on which the appellant is relying for the purposes of rule 4(4)(b, 5(6)(b) , 5A(2)(b)[^c-87c14b28769dfa08259497ad5be9c5c4], or 6(4)(b).
 
 (11) The respondent must at the same time as supplying to the relevant person the documents referred to in paragraph (9)(a) to (d), give the appellant a copy of the documents referred to in paragraph (9)(a), (c) and (d), together with a list of the documents (if any) supplied under paragraph (9)(b).
 
 (12) On receipt of the documents supplied under paragraph (9), the relevant person must give to the chair a copy of the documents supplied under paragraphs (5) and (9).
 
-## 14. Extensions of time limits[^key-2c077081858b775cc61bd40bf46aec12]
+## 14. Extensions of time limits[^c-2c077081858b775cc61bd40bf46aec12]
 
 (1) The appellant or the respondent may apply to the relevant person for an extension of a relevant period.
 
@@ -358,7 +358,7 @@ the respondent must be a person designated by the relevant local policing body.
 
 (6) In this rule, “**relevant period**” means, in relation to an application by the appellant, the period referred to in rule 13(7)(a) or (b) and, in relation to an application by the respondent, the period referred to in rule 13(3) or (9).
 
-## 15. Review of appeal[^key-8e2749fd0441cf0ad35e0872c7bc36d0]
+## 15. Review of appeal[^c-8e2749fd0441cf0ad35e0872c7bc36d0]
 
 (1) Upon receipt of the documents mentioned in rule 13(5) and (9), the chair must determine whether the appeal, or one or more grounds of appeal, must be dismissed under paragraph (2).
 
@@ -375,7 +375,7 @@ the respondent must be a person designated by the relevant local policing body.
 - (a) the notification under paragraph (5) must include the reasons for the determination, and
 - (b) the appeal, or, as the case may be, ground of appeal, must be dismissed.
 
-## 16. Determination of an appeal[^key-70e3f27e7afe06d114996aed14a32e21]
+## 16. Determination of an appeal[^c-70e3f27e7afe06d114996aed14a32e21]
 
 (1) Where an appeal has not been dismissed under rule 15, the chair must determine whether the appeal should be dealt with at a hearing.
 
@@ -386,7 +386,7 @@ the respondent must be a person designated by the relevant local policing body.
 - (a) rules 17 to 26 apply, and
 - (b) the chair must give the appellant and the respondent the chair's name and contact details.
 
-## 17. Power to request disclosure of documents[^key-09fc4f3f7af5d9c124f7e8960fbcac5a]
+## 17. Power to request disclosure of documents[^c-09fc4f3f7af5d9c124f7e8960fbcac5a]
 
 (1) At any time following the provision of the documents mentioned in rule 13(5) and (9), the appellant or the respondent (the “requesting party”) may apply to the chair for disclosure of any document by the other party which is relevant to the appeal.
 
@@ -394,7 +394,7 @@ the respondent must be a person designated by the relevant local policing body.
 
 (3) Where a party does not comply with a request to disclose under paragraph (2), the party must give the chair and the requesting party the reasons for non-disclosure in writing.
 
-## 18. Notice of the hearing[^key-3adee3f3db52055dfb0945570fc9c73c]
+## 18. Notice of the hearing[^c-3adee3f3db52055dfb0945570fc9c73c]
 
 (1) The chair must cause the appellant and the respondent to be given written notice of the date, time and place of the hearing at least 20 working days, or such shorter period as may with the agreement of both parties be determined, before the date of the hearing.
 
@@ -436,7 +436,7 @@ the respondent must be a person designated by the relevant local policing body.
 
 (9) Any written representations made in accordance with paragraph (7) must be provided no later than the date specified by the chair for provision of such representations.
 
-## 19. Legal and other representation[^key-a7ed51b9ff1a4ac2eaff37dbaa6666b5]
+## 19. Legal and other representation[^c-a7ed51b9ff1a4ac2eaff37dbaa6666b5]
 
 (1) The appellant has the right to be represented at a hearing by a relevant lawyer or a police friend.
 
@@ -444,7 +444,7 @@ the respondent must be a person designated by the relevant local policing body.
 
 (3) If an appellant chooses not to be represented, the hearing may take place and the appeal may be determined without the appellant being represented.
 
-(4)[^key-30dda6b09b75c35d833ebca1e46ad09b] The respondent has the right to be represented at a hearing by—
+(4)[^c-30dda6b09b75c35d833ebca1e46ad09b] The respondent has the right to be represented at a hearing by—
 
 - (a) a relevant lawyer;
 - (b) an officer of the relevant police force;
@@ -457,7 +457,7 @@ the respondent must be a person designated by the relevant local policing body.
 
 (7) Paragraph (4) does not apply where the Director General is presenting the case in accordance with rule 12(1).
 
-## 20. Procedure and oral evidence at hearing[^key-347064f8feeb2f228e431d4669bdedd6]
+## 20. Procedure and oral evidence at hearing[^c-347064f8feeb2f228e431d4669bdedd6]
 
 (1) The tribunal must determine the procedure at a hearing and, insofar as it is set out in these Rules, must determine it in accordance with these Rules.
 
@@ -471,7 +471,7 @@ the respondent must be a person designated by the relevant local policing body.
 
 (6) A verbatim record of the evidence given at the hearing must be taken; and the relevant person and, where functions have been delegated under rule 7, the relevant local policing body, must keep that record for a period of at least two years beginning with the day after the date of the end of the hearing.
 
-## 21. Statements in lieu of oral evidence[^key-86383c21681fb3e67eb7c0c7fc418020]
+## 21. Statements in lieu of oral evidence[^c-86383c21681fb3e67eb7c0c7fc418020]
 
 (1) Subject to this rule, the tribunal may admit as evidence a witness statement of a proposed witness supplied under rule 13(5)(c)(ii) or (9)(c)(ii), notwithstanding that the person is not to be called as a witness at the hearing.
 
@@ -481,17 +481,17 @@ the respondent must be a person designated by the relevant local policing body.
 
 (4) This rule does not affect the admissibility of written evidence which would be admissible apart from the provisions of this rule.
 
-## 22. Attendance at hearing[^key-decd2c912d3bd1ca1493e2d81566dc0e]
+## 22. Attendance at hearing[^c-decd2c912d3bd1ca1493e2d81566dc0e]
 
 (1) Subject to rule 25, the hearing of an appeal brought in accordance with rule 4 or 6 must be held in public.
 
 (2) Subject to paragraph (3) and rules 23 and 24, the hearing of an appeal brought in accordance with rule 5 must be held in private.
 
-(2A)[^key-24d71e255e2da70828d639a2f18ce3af] Subject to paragraph (3), the hearing of an appeal brought in accordance with rule 5A must be held in private.
+(2A)[^c-24d71e255e2da70828d639a2f18ce3af] Subject to paragraph (3), the hearing of an appeal brought in accordance with rule 5A must be held in private.
 
-(3) The tribunal may allow a person to attend all or part of the hearing of an appeal brought under rule 5 or 5A[^key-a0dafc09594242a646821b5e6170f000] as an observer for the purposes of training.
+(3) The tribunal may allow a person to attend all or part of the hearing of an appeal brought under rule 5 or 5A[^c-a0dafc09594242a646821b5e6170f000] as an observer for the purposes of training.
 
-## 23. Attendance of complainant and interested person at hearing[^key-868e029f9fff5cced87eb038c56de58b]
+## 23. Attendance of complainant and interested person at hearing[^c-868e029f9fff5cced87eb038c56de58b]
 
 (1) Subject to paragraph (6), this rule applies in relation to a hearing where the relevant decision arose from a complaint to which paragraph 19A of Schedule 3 to the 2002 Act (special procedure where investigation relates to police officer or special constable) [^c23958761] applies.
 
@@ -505,7 +505,7 @@ the respondent must be a person designated by the relevant local policing body.
 
 (6) Paragraphs (3) and (4) do not apply to an appeal brought in accordance with rule 5 or 6.
 
-## 24. Attendance of Director General at hearing[^key-4b2feeb91c3391268cad189a2e86ae14]
+## 24. Attendance of Director General at hearing[^c-4b2feeb91c3391268cad189a2e86ae14]
 
 (1) Subject to paragraphs (3) and (4), this rule applies to a specified appeal.
 
@@ -515,7 +515,7 @@ the respondent must be a person designated by the relevant local policing body.
 
 (4) This rule does not apply if the Director General is presenting the case in accordance with rule 12(1).
 
-## 25. Exclusion from hearing[^key-9ea62bac7e7b0669ac292935c820c155]
+## 25. Exclusion from hearing[^c-9ea62bac7e7b0669ac292935c820c155]
 
 (1) On the application of the appellant or the respondent or otherwise, the chair may require any person to withdraw from all or any part of the hearing.
 
@@ -525,13 +525,13 @@ the respondent must be a person designated by the relevant local policing body.
 
 (4) Before excluding any person under paragraph (1) or imposing any conditions under paragraph (2), the chair must take into account any representations made under rule 18(7)(a) or (b), as the case may be.
 
-## 26. Statement of tribunal's determination[^key-58530a15aecdb18789e9a930672bf740]
+## 26. Statement of tribunal's determination[^c-58530a15aecdb18789e9a930672bf740]
 
 (1) The tribunal must determine whether the ground or grounds of appeal on which the appellant relies have been made out.
 
-(2) Where the tribunal determines that a ground of appeal under rule 4(4)(b) or (c), rule 5(6)(b) or (c) , rule 5A(2)(b) or (c)[^key-a69312ca3370ab23802c303a4e9e5388] or rule 6(4)(b) or (c) has been made out, the tribunal may set aside the relevant decision and remit the matter to be decided again in accordance with the relevant provisions of the Conduct Regulations  , the Performance Regulations or the Vetting Regulations[^key-3b9d4d97348cb3719614fcbd2012b4ff]  (as the case may be).
+(2) Where the tribunal determines that a ground of appeal under rule 4(4)(b) or (c), rule 5(6)(b) or (c) , rule 5A(2)(b) or (c)[^c-a69312ca3370ab23802c303a4e9e5388] or rule 6(4)(b) or (c) has been made out, the tribunal may set aside the relevant decision and remit the matter to be decided again in accordance with the relevant provisions of the Conduct Regulations  , the Performance Regulations or the Vetting Regulations[^c-3b9d4d97348cb3719614fcbd2012b4ff]  (as the case may be).
 
-(3) Where the tribunal remits the matter under paragraph (2) and the relevant decision was the decision of a panel (“the original panel”), the matter must be decided by a fresh panel which is constituted in accordance with the relevant provisions of the Conduct Regulations , the Performance Regulations or the Vetting Regulations[^key-59fc578c7f28ab58940439afb4c00ea5] (as the case may be) but does not contain any of the members of the original panel.
+(3) Where the tribunal remits the matter under paragraph (2) and the relevant decision was the decision of a panel (“the original panel”), the matter must be decided by a fresh panel which is constituted in accordance with the relevant provisions of the Conduct Regulations , the Performance Regulations or the Vetting Regulations[^c-59fc578c7f28ab58940439afb4c00ea5] (as the case may be) but does not contain any of the members of the original panel.
 
 (4) The determination of the tribunal must be based on a simple majority but must not indicate whether it was taken unanimously or by a majority.
 
@@ -574,11 +574,11 @@ the respondent must be a person designated by the relevant local policing body.
 - (a) provided under rule 18(7);
 - (b) made at the hearing.
 
-(17) Paragraphs (11) to (16) do not apply to an appeal brought in accordance with rule 5 or rule 5A[^key-0f9d2551f480d45bf9db3fbdddbf1699].
+(17) Paragraphs (11) to (16) do not apply to an appeal brought in accordance with rule 5 or rule 5A[^c-0f9d2551f480d45bf9db3fbdddbf1699].
 
 (18) In paragraph (3), “**panel**” includes a person who conducted an accelerated misconduct hearing under the Conduct Regulations.
 
-## 27. Amendment of the Police Barred List and Police Advisory List Regulations 2017[^key-3bc0c5abc05787a8f722169a0cbdeb55]
+## 27. Amendment of the Police Barred List and Police Advisory List Regulations 2017[^c-3bc0c5abc05787a8f722169a0cbdeb55]
 
 In regulation 11(2) of the Police Barred List and Police Advisory List Regulations 2017 [^c23958791] (review of publication: consideration by College of Policing of any matter which comes to its attention), for “22(5B) of the Police Appeals Tribunals Rules 2012” substitute “ 26(7) of the Police Appeals Tribunals Rules 2020 ”.
 
@@ -619,13 +619,13 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23958571]: Marginal citation: [Section 63(3)(a)](https://www.legislation.gov.uk/uksi/2020/1/section/63/3/a) was substituted by paragraph 6(2) of Schedule 22 to the Criminal Justice and Immigration Act 2008. There are further amendments to section 63, but none are relevant.
 
-[^key-35086b0738e3dc73eae946b288de9ab4]: Modification: [Rules](https://www.legislation.gov.uk/uksi/2020/1) applied (with modifications) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1)[(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/2), [Sch. 5 para. 59](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/59)
+[^c-35086b0738e3dc73eae946b288de9ab4]: Modification: [Rules](https://www.legislation.gov.uk/uksi/2020/1) applied (with modifications) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1)[(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/2), [Sch. 5 para. 59](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/59)
 
-[^key-8e921a2d54c4f9235676d7713327de8a]: Modification: [Rules](https://www.legislation.gov.uk/uksi/2020/1) applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 58](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/58)
+[^c-8e921a2d54c4f9235676d7713327de8a]: Modification: [Rules](https://www.legislation.gov.uk/uksi/2020/1) applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 58](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/58)
 
-[^key-3a0c27fa7440c0e942da372b9311f0e6]: Commencement: Rule 1 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
+[^c-3a0c27fa7440c0e942da372b9311f0e6]: Commencement: Rule 1 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
 
-[^key-c0d7c6ff922ad05e858446c735b58110]: Commencement: Rule 2 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
+[^c-c0d7c6ff922ad05e858446c735b58110]: Commencement: Rule 2 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
 
 [^c23958581]: Marginal citation: [S.I. 2012/2630](https://www.legislation.gov.uk/uksi/2012/2630), amended by [S.I. 2015/625](https://www.legislation.gov.uk/uksi/2015/625), 2017/1134 and 2017/1250.
 
@@ -643,7 +643,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23958651]: Marginal citation: [S.I. 2012/2632](https://www.legislation.gov.uk/uksi/2012/2632), amended by [S.I. 2014/3347](https://www.legislation.gov.uk/uksi/2014/3347), 2015/626 and 2017/1134 and revoked, subject to transitional provisions, by regulation 3 of [S.I. 2020/4](https://www.legislation.gov.uk/uksi/2020/4).
 
-[^key-66063514033f1118a9e3ef9d63dd6833]: Commencement: Rule 3 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
+[^c-66063514033f1118a9e3ef9d63dd6833]: Commencement: Rule 3 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
 
 [^c23958661]: Marginal citation: [S.I. 2020/2](https://www.legislation.gov.uk/uksi/2020/2).
 
@@ -651,17 +651,17 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23958681]: Marginal citation: [S.I. 2020/3](https://www.legislation.gov.uk/uksi/2020/3).
 
-[^key-ce1a1612753af46f0f999c16426789b7]: Textual amendment: Words in rule 3 inserted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(2)(a)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/2/a)
+[^c-ce1a1612753af46f0f999c16426789b7]: Textual amendment: Words in rule 3 inserted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(2)(a)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/2/a)
 
 [^c23958691]: Marginal citation: [Schedule 6](https://www.legislation.gov.uk/uksi/2020/1/schedule/6) to the Police Act 1996 was amended by paragraph 107(2) of Schedule 27 to the [Greater London Authority Act 1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), [section 125(5)](https://www.legislation.gov.uk/ukpga/1999/29/section/125/5) of the [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [sections 29(6)](https://www.legislation.gov.uk/ukpga/2001/16/section/29/6), [31](https://www.legislation.gov.uk/ukpga/2001/16/section/31) and 41(4) of the Policing and Crime Act 2017 and by regulation 8(2)(c) of [S.I. 2018/226](https://www.legislation.gov.uk/uksi/2018/226).
 
-[^key-fb410fa23a43ec5a13e37040937259d6]: Textual amendment: Words in rule 3 inserted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(2)(b)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/2/b)
+[^c-fb410fa23a43ec5a13e37040937259d6]: Textual amendment: Words in rule 3 inserted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(2)(b)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/2/b)
 
-[^key-ff7ff5ead49decf32bbc9e839c98a027]: Textual amendment: Words in rule 3 inserted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(2)(c)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/2/c)
+[^c-ff7ff5ead49decf32bbc9e839c98a027]: Textual amendment: Words in rule 3 inserted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(2)(c)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/2/c)
 
-[^key-898a3e57c6fd7f7cbb4fe46a11d214af]: Textual amendment: Words in [rule 3(1)](https://www.legislation.gov.uk/uksi/2020/1/rule/3/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [62](https://www.legislation.gov.uk/uksi/2025/558/regulation/62) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-898a3e57c6fd7f7cbb4fe46a11d214af]: Textual amendment: Words in [rule 3(1)](https://www.legislation.gov.uk/uksi/2020/1/rule/3/1) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [62](https://www.legislation.gov.uk/uksi/2025/558/regulation/62) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-566e94c42d6525fec388503dbf4ce413]: Textual amendment: Word in rule 3 inserted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(2)(d)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/2/d)
+[^c-566e94c42d6525fec388503dbf4ce413]: Textual amendment: Word in rule 3 inserted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(2)(d)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/2/d)
 
 [^c23958701]: Marginal citation: See section 101(1) of the Police Act 1996 for the definition of local policing body.
 
@@ -673,104 +673,104 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23958741]: Marginal citation: [Paragraph 18](https://www.legislation.gov.uk/uksi/2020/1/paragraph/18) was amended by paragraphs 1, 11 and 16 of Schedule 12 to the [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), and by paragraphs 9, 15, 18 and 19 of Schedule 5 to the Policing and Crime Act 2017; [paragraph 19](https://www.legislation.gov.uk/uksi/2020/1/paragraph/19) was amended by paragraphs 1, 11 and 17 of Schedule 12 to the Serious Organised Crime and Police Act 2005 and paragraphs 9, 15, 20 and 56 of Schedule 9 to the Policing and Crime Act 2017. There are further amendments to paragraphs 18 and 19, but none are relevant.
 
-[^key-df3822e946dccf3ae02872523ee2fd93]: Textual amendment: Words in rule 3(2) substituted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(2)(e)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/2/e)
+[^c-df3822e946dccf3ae02872523ee2fd93]: Textual amendment: Words in rule 3(2) substituted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(2)(e)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/2/e)
 
-[^key-03da9cae996d6aa5d01daaded45a6cbc]: Commencement: Rule 4 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
+[^c-03da9cae996d6aa5d01daaded45a6cbc]: Commencement: Rule 4 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
 
-[^key-c9d3e6546c62c882b5cab04145f0247d]: Commencement: Rule 5 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
+[^c-c9d3e6546c62c882b5cab04145f0247d]: Commencement: Rule 5 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
 
-[^key-8c9c0843262b6682289a55c969828611]: Textual amendment: Words in rule 5(2) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [63(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/63/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-8c9c0843262b6682289a55c969828611]: Textual amendment: Words in rule 5(2) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [63(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/63/2) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-8392b3cd9d58ebc7ccac69b0ce65dad8]: Textual amendment: Words in rule 5(4) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [63(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/63/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-8392b3cd9d58ebc7ccac69b0ce65dad8]: Textual amendment: Words in rule 5(4) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [63(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/63/3) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-3ee088090c2cdd7615b617a0bd085580]: Textual amendment: Words in rule 5(5) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [63(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/63/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-3ee088090c2cdd7615b617a0bd085580]: Textual amendment: Words in rule 5(5) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [63(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/63/4) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-32fa0d16554fe10e9601c92d921a38a0]: Textual amendment: Words in rule 5(6)(d) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [63(5)](https://www.legislation.gov.uk/uksi/2025/558/regulation/63/5) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
+[^c-32fa0d16554fe10e9601c92d921a38a0]: Textual amendment: Words in rule 5(6)(d) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [63(5)](https://www.legislation.gov.uk/uksi/2025/558/regulation/63/5) (with [reg. 65](https://www.legislation.gov.uk/uksi/2025/558/regulation/65))
 
-[^key-1c886755ed88f25baf8777a891b0ad6b]: Textual amendment: [Rule 5A](https://www.legislation.gov.uk/uksi/2020/1/rule/5A) inserted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(3)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/3)
+[^c-1c886755ed88f25baf8777a891b0ad6b]: Textual amendment: [Rule 5A](https://www.legislation.gov.uk/uksi/2020/1/rule/5A) inserted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(3)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/3)
 
-[^key-4a5dceddc83199e76514f86b60e5ff44]: Commencement: Rule 6 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
+[^c-4a5dceddc83199e76514f86b60e5ff44]: Commencement: Rule 6 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
 
-[^key-ca120ebeea03393ff8c70915a2bdc2b2]: Commencement: Rule 7 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
+[^c-ca120ebeea03393ff8c70915a2bdc2b2]: Commencement: Rule 7 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
 
-[^key-420c1fc4cae2c88dfb755cd8ea3e861b]: Commencement: Rule 8 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
+[^c-420c1fc4cae2c88dfb755cd8ea3e861b]: Commencement: Rule 8 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
 
 [^c23958751]: Marginal citation: [Paragraphs 1](https://www.legislation.gov.uk/uksi/2020/1/paragraph/1) and 2 of Schedule 6 to the Police Act 1996 were amended by section 31 of the Policing and Crime Act 2017.
 
-[^key-326ac7eadbf8ad524bacc0ff5bf56414]: Commencement: Rule 9 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
+[^c-326ac7eadbf8ad524bacc0ff5bf56414]: Commencement: Rule 9 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
 
-[^key-6fd4d2d28f9983ac7ce7915ab3af6536]: Textual amendment: Words in [rule 9(3)](https://www.legislation.gov.uk/uksi/2020/1/rule/9/3) substituted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(4)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/4)
+[^c-6fd4d2d28f9983ac7ce7915ab3af6536]: Textual amendment: Words in [rule 9(3)](https://www.legislation.gov.uk/uksi/2020/1/rule/9/3) substituted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(4)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/4)
 
-[^key-4802a25fd8d81cb3d1f842ee94b628da]: Commencement: Rule 10 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
+[^c-4802a25fd8d81cb3d1f842ee94b628da]: Commencement: Rule 10 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
 
-[^key-44d7a4ecb664b619f30dce073afaafbe]: Commencement: Rule 11 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
+[^c-44d7a4ecb664b619f30dce073afaafbe]: Commencement: Rule 11 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
 
-[^key-30b6cf7f89da01dfcf643cd8f5ec884e]: Commencement: Rule 12 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
+[^c-30b6cf7f89da01dfcf643cd8f5ec884e]: Commencement: Rule 12 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
 
-[^key-f6580f2cfc0e3361238fcc76c967469e]: Commencement: Rule 13 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
+[^c-f6580f2cfc0e3361238fcc76c967469e]: Commencement: Rule 13 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
 
-[^key-51c2c5299c089c598672739ca89eeb7d]: Textual amendment: Words in rule 13(3)(a) inserted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(5)(a)(i)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/5/a/i)
+[^c-51c2c5299c089c598672739ca89eeb7d]: Textual amendment: Words in rule 13(3)(a) inserted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(5)(a)(i)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/5/a/i)
 
-[^key-5ab7d9e269c3304be94297eca72dfcbf]: Textual amendment: Words in rule 13(3)(a) substituted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/5/a/ii)
+[^c-5ab7d9e269c3304be94297eca72dfcbf]: Textual amendment: Words in rule 13(3)(a) substituted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/5/a/ii)
 
-[^key-5e8057e372bdf5c6ce55e1e980d80f87]: Textual amendment: Words in rule 13(3)(a) inserted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(5)(a)(iii)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/5/a/iii)
+[^c-5e8057e372bdf5c6ce55e1e980d80f87]: Textual amendment: Words in rule 13(3)(a) inserted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(5)(a)(iii)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/5/a/iii)
 
-[^key-60a0922a8cf2914443c6e49080c21659]: Textual amendment: Words in rule 13(3)(b) inserted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(5)(b)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/5/b)
+[^c-60a0922a8cf2914443c6e49080c21659]: Textual amendment: Words in rule 13(3)(b) inserted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(5)(b)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/5/b)
 
-[^key-94920194bb04d5600d59a41ec476a658]: Textual amendment: Word in rule 13(6)(a) inserted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(5)(c)(i)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/5/c/i)
+[^c-94920194bb04d5600d59a41ec476a658]: Textual amendment: Word in rule 13(6)(a) inserted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(5)(c)(i)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/5/c/i)
 
-[^key-57419f52c5d275d181b3650538035159]: Textual amendment: Word in rule 13(6)(b)(ii) inserted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/5/c/ii)
+[^c-57419f52c5d275d181b3650538035159]: Textual amendment: Word in rule 13(6)(b)(ii) inserted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/5/c/ii)
 
-[^key-26d543d5d31a463ccd479210a5f03178]: Textual amendment: Word in rule 13(10)(a) inserted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(5)(d)(i)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/5/d/i)
+[^c-26d543d5d31a463ccd479210a5f03178]: Textual amendment: Word in rule 13(10)(a) inserted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(5)(d)(i)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/5/d/i)
 
-[^key-87c14b28769dfa08259497ad5be9c5c4]: Textual amendment: Words in rule 13(10)(b)(ii) inserted (14.5.2025) by virtue of [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(5)(d)(ii)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/5/d/ii)
+[^c-87c14b28769dfa08259497ad5be9c5c4]: Textual amendment: Words in rule 13(10)(b)(ii) inserted (14.5.2025) by virtue of [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(5)(d)(ii)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/5/d/ii)
 
-[^key-2c077081858b775cc61bd40bf46aec12]: Commencement: Rule 14 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
+[^c-2c077081858b775cc61bd40bf46aec12]: Commencement: Rule 14 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
 
-[^key-8e2749fd0441cf0ad35e0872c7bc36d0]: Commencement: Rule 15 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
+[^c-8e2749fd0441cf0ad35e0872c7bc36d0]: Commencement: Rule 15 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
 
-[^key-70e3f27e7afe06d114996aed14a32e21]: Commencement: Rule 16 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
+[^c-70e3f27e7afe06d114996aed14a32e21]: Commencement: Rule 16 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
 
-[^key-09fc4f3f7af5d9c124f7e8960fbcac5a]: Commencement: Rule 17 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
+[^c-09fc4f3f7af5d9c124f7e8960fbcac5a]: Commencement: Rule 17 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
 
-[^key-3adee3f3db52055dfb0945570fc9c73c]: Commencement: Rule 18 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
+[^c-3adee3f3db52055dfb0945570fc9c73c]: Commencement: Rule 18 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
 
-[^key-a7ed51b9ff1a4ac2eaff37dbaa6666b5]: Commencement: Rule 19 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
+[^c-a7ed51b9ff1a4ac2eaff37dbaa6666b5]: Commencement: Rule 19 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
 
-[^key-30dda6b09b75c35d833ebca1e46ad09b]: Modification: [Rule 19(4)](https://www.legislation.gov.uk/uksi/2020/1/rule/19/4) modified (E.) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 58(2)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/58/2)
+[^c-30dda6b09b75c35d833ebca1e46ad09b]: Modification: [Rule 19(4)](https://www.legislation.gov.uk/uksi/2020/1/rule/19/4) modified (E.) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 58(2)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/58/2)
 
-[^key-347064f8feeb2f228e431d4669bdedd6]: Commencement: Rule 20 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
+[^c-347064f8feeb2f228e431d4669bdedd6]: Commencement: Rule 20 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
 
-[^key-86383c21681fb3e67eb7c0c7fc418020]: Commencement: Rule 21 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
+[^c-86383c21681fb3e67eb7c0c7fc418020]: Commencement: Rule 21 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
 
-[^key-decd2c912d3bd1ca1493e2d81566dc0e]: Commencement: Rule 22 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
+[^c-decd2c912d3bd1ca1493e2d81566dc0e]: Commencement: Rule 22 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
 
-[^key-24d71e255e2da70828d639a2f18ce3af]: Textual amendment: [Rule 22(2A)](https://www.legislation.gov.uk/uksi/2020/1/rule/22/2A) inserted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(6)(a)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/6/a)
+[^c-24d71e255e2da70828d639a2f18ce3af]: Textual amendment: [Rule 22(2A)](https://www.legislation.gov.uk/uksi/2020/1/rule/22/2A) inserted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(6)(a)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/6/a)
 
-[^key-a0dafc09594242a646821b5e6170f000]: Textual amendment: Words in [rule 22(3)](https://www.legislation.gov.uk/uksi/2020/1/rule/22/3) inserted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(6)(b)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/6/b)
+[^c-a0dafc09594242a646821b5e6170f000]: Textual amendment: Words in [rule 22(3)](https://www.legislation.gov.uk/uksi/2020/1/rule/22/3) inserted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(6)(b)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/6/b)
 
-[^key-868e029f9fff5cced87eb038c56de58b]: Commencement: Rule 23 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
+[^c-868e029f9fff5cced87eb038c56de58b]: Commencement: Rule 23 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
 
 [^c23958761]: Marginal citation: [Paragraphs 19A to 19E](https://www.legislation.gov.uk/uksi/2020/1/paragraph/19A) were inserted by paragraphs 1, 3 and 5 of Schedule 23 to the Criminal Justice and Immigration Act 2008 and paragraph 19A was substituted for paragraphs 19A to 19E by paragraphs 9 and 21 of Schedule 5 to the Policing and Crime Act 2017.
 
-[^key-4b2feeb91c3391268cad189a2e86ae14]: Commencement: Rule 24 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
+[^c-4b2feeb91c3391268cad189a2e86ae14]: Commencement: Rule 24 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
 
-[^key-9ea62bac7e7b0669ac292935c820c155]: Commencement: Rule 25 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
+[^c-9ea62bac7e7b0669ac292935c820c155]: Commencement: Rule 25 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
 
-[^key-58530a15aecdb18789e9a930672bf740]: Commencement: Rule 26 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
+[^c-58530a15aecdb18789e9a930672bf740]: Commencement: Rule 26 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
 
-[^key-a69312ca3370ab23802c303a4e9e5388]: Textual amendment: Words in rule 26(2) inserted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(7)(a)(i)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/7/a/i)
+[^c-a69312ca3370ab23802c303a4e9e5388]: Textual amendment: Words in rule 26(2) inserted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(7)(a)(i)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/7/a/i)
 
-[^key-3b9d4d97348cb3719614fcbd2012b4ff]: Textual amendment: Words in rule 26(2) substituted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/7/a/ii)
+[^c-3b9d4d97348cb3719614fcbd2012b4ff]: Textual amendment: Words in rule 26(2) substituted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/7/a/ii)
 
-[^key-59fc578c7f28ab58940439afb4c00ea5]: Textual amendment: Words in rule 26(3) substituted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(7)(b)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/7/b)
+[^c-59fc578c7f28ab58940439afb4c00ea5]: Textual amendment: Words in rule 26(3) substituted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(7)(b)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/7/b)
 
 [^c23958771]: Marginal citation: [Section 88G](https://www.legislation.gov.uk/uksi/2020/1/section/88G) was inserted by section 30 of, and Schedule 8 to, the Policing and Crime Act 2017.
 
 [^c23958781]: Marginal citation: [S.I. 2017/1135](https://www.legislation.gov.uk/uksi/2017/1135).
 
-[^key-0f9d2551f480d45bf9db3fbdddbf1699]: Textual amendment: Words in rule 26(17) inserted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(7)(c)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/7/c)
+[^c-0f9d2551f480d45bf9db3fbdddbf1699]: Textual amendment: Words in rule 26(17) inserted (14.5.2025) by [The Police (Vetting) Regulations 2025 (S.I. 2025/502)](https://www.legislation.gov.uk/uksi/2025/502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1), [31(7)(c)](https://www.legislation.gov.uk/uksi/2025/502/regulation/31/7/c)
 
-[^key-3bc0c5abc05787a8f722169a0cbdeb55]: Commencement: Rule 27 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
+[^c-3bc0c5abc05787a8f722169a0cbdeb55]: Commencement: Rule 27 in force at 1.2.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1)
 
 [^c23958791]: Marginal citation: [S.I. 2017/1135](https://www.legislation.gov.uk/uksi/2017/1135).

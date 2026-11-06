@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99.[^key-45328f159781c9750c8ee49c3b530eec]
+## 99.[^c-45328f159781c9750c8ee49c3b530eec]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In section 832 (interpretation of the Tax Acts), in subsection (1) insert at the
 
 ## Annotations
 
-[^key-45328f159781c9750c8ee49c3b530eec]: Commencement: Reg. 99 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-45328f159781c9750c8ee49c3b530eec]: Commencement: Reg. 99 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

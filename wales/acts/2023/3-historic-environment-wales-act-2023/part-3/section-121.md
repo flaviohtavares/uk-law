@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 121. Offence of breaching temporary stop notice[^key-1375807bac0e9bfdc66e3100a66f701d][^key-8eceedc41d52d7e4c1d7b9b4e6275aab]
+## 121. Offence of breaching temporary stop notice[^c-1375807bac0e9bfdc66e3100a66f701d][^c-8eceedc41d52d7e4c1d7b9b4e6275aab]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1375807bac0e9bfdc66e3100a66f701d]: Commencement: S. 121 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-1375807bac0e9bfdc66e3100a66f701d]: Commencement: S. 121 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-8eceedc41d52d7e4c1d7b9b4e6275aab]: Commencement: [S. 121](https://www.legislation.gov.uk/asc/2023/3/section/121) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-8eceedc41d52d7e4c1d7b9b4e6275aab]: Commencement: [S. 121](https://www.legislation.gov.uk/asc/2023/3/section/121) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

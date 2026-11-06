@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Procedure after imposing penalty[^key-3739f2267d27a642c14dc4f97327b44d]
+## 54. Procedure after imposing penalty[^c-3739f2267d27a642c14dc4f97327b44d]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3739f2267d27a642c14dc4f97327b44d]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2012/19/section/54) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-3739f2267d27a642c14dc4f97327b44d]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2012/19/section/54) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

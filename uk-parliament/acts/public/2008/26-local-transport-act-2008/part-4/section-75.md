@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Power to require display of certain information[^c1952759][^key-aa6dd02bbc07ace48fe22ce2d1ab61b2][^key-9005d748934c5e20b7402a9fdc6060b8]
+## 75. Power to require display of certain information[^c1952759][^c-aa6dd02bbc07ace48fe22ce2d1ab61b2][^c-9005d748934c5e20b7402a9fdc6060b8]
 
 *Extent: E+W*
 
@@ -38,7 +38,7 @@ summary: ''
 
 (6) An operator on whom a penalty is imposed by virtue of subsection (3) may appeal to the Upper Tribunal[^M_F_60fcae27-0947-4bff-ebdd-582c4e407bca] against the imposition of the penalty.
 
-[^key-d566d0b2f2d781336292751ca04a3f88]...
+[^c-d566d0b2f2d781336292751ca04a3f88]...
 
 (7) The power to make regulations under this section is exercisable by statutory instrument.
 
@@ -59,10 +59,10 @@ summary: ''
 
 [^c1952759]: Commencement: S. 75 partly in force; s. 75 in force at Royal Assent for certain purposes see s. 134
 
-[^key-aa6dd02bbc07ace48fe22ce2d1ab61b2]: Commencement: S. 75 in force at 9.2.2009 for E. in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-aa6dd02bbc07ace48fe22ce2d1ab61b2]: Commencement: S. 75 in force at 9.2.2009 for E. in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-9005d748934c5e20b7402a9fdc6060b8]: Commencement: S. 75 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(i)](https://www.legislation.gov.uk/uksi/2009/579/article/2/i)
+[^c-9005d748934c5e20b7402a9fdc6060b8]: Commencement: S. 75 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(i)](https://www.legislation.gov.uk/uksi/2009/579/article/2/i)
 
 [^M_F_60fcae27-0947-4bff-ebdd-582c4e407bca]: Textual amendment: Words in s. 75(6) substituted (1.9.2009) by [S.I. 2009/1885](https://www.legislation.gov.uk/uksi/2009/1885), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1885/article/1/1), [Sch. 1 para. 27(a)](https://www.legislation.gov.uk/uksi/2009/1885/schedule/1/paragraph/27/a)
 
-[^key-d566d0b2f2d781336292751ca04a3f88]: Textual amendment: Words in s. 75(6) omitted (1.9.2009) by virtue of [Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885)](https://www.legislation.gov.uk/uksi/2009/1885), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1885/article/1/1), [Sch. 1 para. 27(b)](https://www.legislation.gov.uk/uksi/2009/1885/schedule/1/paragraph/27/b)
+[^c-d566d0b2f2d781336292751ca04a3f88]: Textual amendment: Words in s. 75(6) omitted (1.9.2009) by virtue of [Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885)](https://www.legislation.gov.uk/uksi/2009/1885), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1885/article/1/1), [Sch. 1 para. 27(b)](https://www.legislation.gov.uk/uksi/2009/1885/schedule/1/paragraph/27/b)

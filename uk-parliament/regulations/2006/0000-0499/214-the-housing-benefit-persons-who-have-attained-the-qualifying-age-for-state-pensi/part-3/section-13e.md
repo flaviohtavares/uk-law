@@ -14,10 +14,10 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2006/214
 
-## 13E. Publication of local housing allowances[^key-eb2031beba5bf770cc3a55aa0173faf8]
+## 13E. Publication of local housing allowances[^c-eb2031beba5bf770cc3a55aa0173faf8]
 
 (1) A relevant authority shall take such steps as appear to it to be appropriate for the purpose of securing that information in relation to broad rental market areas falling in whole or in part within its area, and local housing allowances applicable to such broad rental market areas, is brought to the attention of persons who may be entitled to housing benefit from the authority.
 
 ## Annotations
 
-[^key-eb2031beba5bf770cc3a55aa0173faf8]: Textual amendment: Regs. 13C-13E inserted (with application in accordance with reg. 1(5)(6)(7) of the amending S.I.) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2007/2869/regulation/7)
+[^c-eb2031beba5bf770cc3a55aa0173faf8]: Textual amendment: Regs. 13C-13E inserted (with application in accordance with reg. 1(5)(6)(7) of the amending S.I.) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2007/2869/regulation/7)

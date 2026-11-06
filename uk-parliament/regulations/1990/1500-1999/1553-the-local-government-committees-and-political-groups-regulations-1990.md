@@ -47,11 +47,11 @@ The Secretary of State for the Environment, as respects England, and the Secreta
 
 ## PART I — GENERAL
 
-### 1. Citation and commencement[^key-40d5b938835cc6e4a3c370df3744b1df]
+### 1. Citation and commencement[^c-40d5b938835cc6e4a3c370df3744b1df]
 
 These Regulations may be cited as the Local Government (Committees and Political Groups) Regulations 1990 and shall come into force on 1st August 1990.
 
-### 2. Interpretation[^key-11283f680221ec265b13acd832e3e0c3]
+### 2. Interpretation[^c-11283f680221ec265b13acd832e3e0c3]
 
 In these Regulations—
 
@@ -62,11 +62,11 @@ In these Regulations—
 
 ## PART II — VOTING RIGHTS OF MEMBERS
 
-### 3. Interpretation of Part II[^key-dd00eb03200e6593ea52ae740a52b8ad]
+### 3. Interpretation of Part II[^c-dd00eb03200e6593ea52ae740a52b8ad]
 
 In this Part references to an authority are references to a relevant authority within the meaning of section 13(9) of the 1989 Act other than a parish or community council.
 
-### 4. Prescribed functions of authorities where all members of committees discharging those functions may have voting rights[^key-fc752203028dff6f20b8d2dfe75eda36]
+### 4. Prescribed functions of authorities where all members of committees discharging those functions may have voting rights[^c-fc752203028dff6f20b8d2dfe75eda36]
 
 (1) The following functions are prescribed for the purposes of section 13(4)(g) of the 1989 Act—
 
@@ -76,21 +76,21 @@ In this Part references to an authority are references to a relevant authority w
 - (d) any function under section 144 of the 1972 Act[^f00005] or section 33 of the 1989 Act relating to the promotion of tourism;
 - (e) any function under section 145 of the 1972 Act relating to the management of a festival;
 - (f) in the case of a London borough council or the Common Council of the City of London in its capacity as a local authority, police authority or port health authority, the training of staff for the purposes of discharging any function under the Local Authority Social Services Act 1970[^f00006];
-- (g) [^key-5fb0e7dfe9736688a73fbd0a2bdf032f]... any function under regulations made by virtue of section 7 of the Superannuation Act 1972[^f00007]; [^key-5fb0e7dfe9736688a73fbd0a2bdf032f]...
-- (h)[^key-2f6a63ff8aa67a020532f83c9faf61fa] in the case of the council of a county in England, any function of that council mentioned in the Schedule to these Regulations to the extent that it is discharged by a committee the members of which consist solely of members of that council and of members of the council of any district in the county or (as the case may be) a district which has ceased to be in the county pursuant to an order made under section 17 of the Local Government Act 1992 giving effect to a structural change (within the meaning of that Act); and
+- (g) [^c-5fb0e7dfe9736688a73fbd0a2bdf032f]... any function under regulations made by virtue of section 7 of the Superannuation Act 1972[^f00007]; [^c-5fb0e7dfe9736688a73fbd0a2bdf032f]...
+- (h)[^c-2f6a63ff8aa67a020532f83c9faf61fa] in the case of the council of a county in England, any function of that council mentioned in the Schedule to these Regulations to the extent that it is discharged by a committee the members of which consist solely of members of that council and of members of the council of any district in the county or (as the case may be) a district which has ceased to be in the county pursuant to an order made under section 17 of the Local Government Act 1992 giving effect to a structural change (within the meaning of that Act); and
 - (i) in the case of the council of a district, any function of that council mentioned in that Schedule to the extent that it is discharged by a committee the members of which consist solely of members of that council and of members of the council of the county in which the district is situated.
 
-(2) There is prescribed for the purposes of section 13(4)(g) of the 1989 Act in relation to an authority in Wales any education functions (within the meaning of section 579(1) of the Education Act 1996)[^key-77f937873010afb3030b2fec4d436afb] to the extent that they are discharged jointly by all such local education authorities.
+(2) There is prescribed for the purposes of section 13(4)(g) of the 1989 Act in relation to an authority in Wales any education functions (within the meaning of section 579(1) of the Education Act 1996)[^c-77f937873010afb3030b2fec4d436afb] to the extent that they are discharged jointly by all such local education authorities.
 
 (3) For the purposes of paragraph (1)(a) and (e) “management” does not include the determination of the total amount of money which may be expended in any financial year by the authority in respect of the land or festival, as the case may be; and in so far as the functions referred to in paragraph (1)(b) include the managment of houses, they shall be taken to exclude the making of any such determination.
 
-### 5. Sub-committees where persons may have voting rights[^key-81cfd3145b3b05982bf3a8db1cd79a10]
+### 5. Sub-committees where persons may have voting rights[^c-81cfd3145b3b05982bf3a8db1cd79a10]
 
 (1) For the purposes of section 13(3)(b) of the 1989 Act the following cases are prescribed—
 
-- (a) a person appointed to a sub-committee of a committee which is appointed exclusively to discharge any of the functions mentioned or referred to in regulation 4[^key-7fa2e475a6a7cb0654f3d7de5194b38d];
+- (a) a person appointed to a sub-committee of a committee which is appointed exclusively to discharge any of the functions mentioned or referred to in regulation 4[^c-7fa2e475a6a7cb0654f3d7de5194b38d];
 - (b) a person appointed to a sub-committee of a National Parks Committee;
-- (c) a person appointed to a sub-committee prescribed in paragraph (2) (other than in paragraph (2)(b)(i))[^key-81cfc66d5530152e7d5802197e560709]; and
+- (c) a person appointed to a sub-committee prescribed in paragraph (2) (other than in paragraph (2)(b)(i))[^c-81cfc66d5530152e7d5802197e560709]; and
 - (d) without prejudice to sub-paragraph (b), a person appointed to a sub-committee of a committee falling within section 13(4) of the 1989 Act who is a member of the authority which appointed the committee.
 
 (2) For the purposes of section 13(4)(h) of the 1989 Act the following sub-committees are prescribed—
@@ -99,7 +99,7 @@ In this Part references to an authority are references to a relevant authority w
 - (b) a sub-committee appointed by an education committee, as defined in paragraph 4(1) of Schedule 1 to the 1989 Act, where either—
   - (i) no non-voting member of the education committee is appointed as a voting member of the sub-committee; or
   - (ii) the sub-committee is appointed solely to advise that committee or another sub-committee of that committee;
-- (c) a sub-committee appointed exclusively to discharge any function mentioned or referred to in regulation 4(1)[^key-568eb41f45cab7061f2b2225fdfc6a52];
+- (c) a sub-committee appointed exclusively to discharge any function mentioned or referred to in regulation 4(1)[^c-568eb41f45cab7061f2b2225fdfc6a52];
 - (d) the sub-committee referred to in section 25(1) of the Plymouth City Council Act 1987[^f00010]; and
 - (e) without prejudice to regulation 4(1)(a) or sub-paragraph (c) above, in so far as it relates to the management of land under regulation 4(1)(a), the sub-committee established—
   - (i) pursuant to an agreement dated 13th February 1905 between the Mayor, Aldermen and Burgesses of the Borough of Hastings and George Godfrey Gray, Arthur Henry Lucy and William Vandeleur Crake relating to the management of the Hastings and Saint Leonards Museum;
@@ -108,17 +108,17 @@ In this Part references to an authority are references to a relevant authority w
 
 ## PART III — POLITICAL BALANCE AND POLITICAL ASSISTANTS
 
-### 6. Interpretation of Part III[^key-5c18002635e14bb960ad633cfb3cd97e]
+### 6. Interpretation of Part III[^c-5c18002635e14bb960ad633cfb3cd97e]
 
 (1) Unless otherwise stated, regulations 7 to 13 and 15 apply for the purposes of sections 9, 15 and 16 of the 1989 Act.
 
 (2) In the application of regulations 7 to 13 and 15 for the purposes of section 9 of the 1989 Act, “authority” means a relevant authority as defined in section 9(11) in relation to England and Wales.
 
-### 7. Political groups[^key-f0a5b49168148747a22022acc778229f]
+### 7. Political groups[^c-f0a5b49168148747a22022acc778229f]
 
 The members of an authority are to be treated as divided into different political groups when there is at least one political group in existence constituted in accordance with regulation 8.
 
-### 8. Constitution of political groups[^key-18000060a02ca25538ab15c285f971d1]
+### 8. Constitution of political groups[^c-18000060a02ca25538ab15c285f971d1]
 
 (1) A political group shall be treated as constituted when there is delivered to the proper officer a notice in writing which—
 
@@ -133,21 +133,21 @@ The members of an authority are to be treated as divided into different politica
 - (b) the name of the group; and
 - (c) the name of one member of the group who has signed the notice and who is to act as its leader.
 
-(4) A notice under paragraph (1) may specify the name of one other member of the group who has signed the notice and who is authorised to act in the place of the leader in relation to these Regulations (“the representative”)[^key-cfe01d87e5490bb44b73790f8cd120d1].
+(4) A notice under paragraph (1) may specify the name of one other member of the group who has signed the notice and who is authorised to act in the place of the leader in relation to these Regulations (“the representative”)[^c-cfe01d87e5490bb44b73790f8cd120d1].
 
-(5) The name of the group or the name of the person who is the leader or representative[^key-956c4023b6f5c0e52d5898a9812ee48b] may be changed by a further notice in writing delivered to the proper officer and signed—
+(5) The name of the group or the name of the person who is the leader or representative[^c-956c4023b6f5c0e52d5898a9812ee48b] may be changed by a further notice in writing delivered to the proper officer and signed—
 
 - (a) in the case of a change in the name of the group or the representative, by the leader of the group or a majority of the members of the group;
 - (b) in the case of a change of the leader of the group, by a majority of the members of the group.
 
-### 9. Membership of political groups[^key-05bb05df0d00094af26021222c04396d]
+### 9. Membership of political groups[^c-05bb05df0d00094af26021222c04396d]
 
 Subject to regulations 11 and 12, a member of the authority is to be treated as a member of a political group if—
 
 - (a) he has signed a notice in accordance with regulation 8; or
-- (b) he has delivered to the proper officer a notice in writing which is signed by him and by the leader or representative[^key-81cf04bb86a13b233c060078d02fda57] of the group or by a majority of the members of the group, stating that he wishes to join the group.
+- (b) he has delivered to the proper officer a notice in writing which is signed by him and by the leader or representative[^c-81cf04bb86a13b233c060078d02fda57] of the group or by a majority of the members of the group, stating that he wishes to join the group.
 
-### 10. Cessation of membership[^key-a041ac1c3d848db0b8a6df9ed3288a08]
+### 10. Cessation of membership[^c-a041ac1c3d848db0b8a6df9ed3288a08]
 
 A person is to be treated as having ceased to be a member of a political group when—
 
@@ -156,38 +156,38 @@ A person is to be treated as having ceased to be a member of a political group w
 - (c) there is delivered to the proper officer a notice under regulation 8 or 9(b) signed by the person whereby a new political group is constituted or he joins another political group; or
 - (d) there is delivered to the proper officer a notice in writing signed by the majority of the members of the group stating that they no longer wish him to be treated as a member of it.
 
-### 11. Restriction on membership[^key-d9ffdbd63fa082f134f9d69e7fb72378]
+### 11. Restriction on membership[^c-d9ffdbd63fa082f134f9d69e7fb72378]
 
 No person shall be treated as a member of more than one political group at any given time and, accordingly, if a person changes the political group of which he is a member by a notice under regulation 8 or 9 he shall from the date of delivery of that notice be treated—
 
 - (a) in the case of a notice under regulation 8, as a member only of the new political group which is constituted in accordance with that regulation; and
 - (b) in the case of a notice under regulation 9(b), as a member only of the group named in the notice.
 
-### 12. Same political group[^key-3eea626f34dee26aea96d383ad3599ca]
+### 12. Same political group[^c-3eea626f34dee26aea96d383ad3599ca]
 
 The members of two or more political groups constituted in accordance with regulation 8 shall be treated as members of the same political group for the purposes of applying the provisions in section 9 and the principle in section 15(5)(a) of the 1989 Act where more than half of the members of one of those political groups are described in the papers by which they are nominated for election, as belonging to a political group which is described in substantially the same terms in the nomination papers of more than half of the members of another political group.
 
-### 13. Wishes of political groups[^key-6cd967824eb3001190480d733eaac9d5]
+### 13. Wishes of political groups[^c-6cd967824eb3001190480d733eaac9d5]
 
 (1) The wishes of a political group are to be taken as those expressed to the proper officer—
 
-- (a) orally or in writing by the leader or representative[^key-1b5aeed6210d1b05e0bc3a16a63c7d87] of the group; or
+- (a) orally or in writing by the leader or representative[^c-1b5aeed6210d1b05e0bc3a16a63c7d87] of the group; or
 - (b) in a written statement signed by a majority of the members of the group.
 
 (2) In the event that different wishes of a political group are notified in accordance with paragraph (1), the wishes notified in accordance with paragraph (1)(b) shall prevail.
 
-### 14. Notifications[^key-1586799e4ed7d36afeadb0f0c94a9516]
+### 14. Notifications[^c-1586799e4ed7d36afeadb0f0c94a9516]
 
-For the purpose of enabling a political group to express its wishes in accordance with section 16 of the 1989 Act, the proper officer shall notify in writing the leader or, in his absence, the representative[^key-20088f1ffe9ec5ec9cf65aa682036071] of a political group as soon as praticable after—
+For the purpose of enabling a political group to express its wishes in accordance with section 16 of the 1989 Act, the proper officer shall notify in writing the leader or, in his absence, the representative[^c-20088f1ffe9ec5ec9cf65aa682036071] of a political group as soon as praticable after—
 
 - (a) the allocation by the authority or committee to that group of a seat on a body to which section 15 of the 1989 Act applies; or
 - (b) the vacation of a seat on such a body allocated by the authority or committee to that group.
 
-### 15. Appointments where political group fails to express wishes[^key-d2a4375d1a75d19b1b74df670553504f]
+### 15. Appointments where political group fails to express wishes[^c-d2a4375d1a75d19b1b74df670553504f]
 
 Where a political group has failed to express its wishes in relation to the appointment to such a seat as is mentioned in regulation 14 within the period of three weeks beginning with the date on which notice was given under that regulation, the authority or committee may make such appointment to that seat as they think fit.
 
-### 16. Modification of sections 15 and 16 of the 1989 Act[^key-d01b4fa6a0f2a77451a8f6f2726f1ff1]
+### 16. Modification of sections 15 and 16 of the 1989 Act[^c-d01b4fa6a0f2a77451a8f6f2726f1ff1]
 
 (1) In relation to any such case as is described in paragraph 3(2) of Schedule 1 to the 1989 Act, the provisions of sections 15 and 16 of the 1989 Act shall be modified as mentioned in paragraphs (2) and (3).
 
@@ -201,26 +201,26 @@ Where a political group has failed to express its wishes in relation to the appo
 
 ## PART IV — REVIEWS AND ALLOCATIONS OF SEATS
 
-### 16A. Area committees and sub-committees in England[^key-cc67ad9e111e150147661d6a70f31d29][^key-a6947fb3307913a9f850f14a476e1b78]
+### 16A. Area committees and sub-committees in England[^c-cc67ad9e111e150147661d6a70f31d29][^c-a6947fb3307913a9f850f14a476e1b78]
 
-(1)[^key-59215654691b884c7a15c32e2863f669] Section 15 of the 1989 Act shall not apply to any ordinary committee or advisory committee of an authority in England[^key-9f1b017fe57830cd85d600b688b43e98] which is a county, district or London borough council or to a sub-committee of any such ordinary or advisory committee, where–
+(1)[^c-59215654691b884c7a15c32e2863f669] Section 15 of the 1989 Act shall not apply to any ordinary committee or advisory committee of an authority in England[^c-9f1b017fe57830cd85d600b688b43e98] which is a county, district or London borough council or to a sub-committee of any such ordinary or advisory committee, where–
 
 - (a) that committee or sub-committee was established exclusively–
   - (i) to discharge functions of the authority, or
   - (ii) to advise the authority or any committee of the authority,
 
   in respect of part of the area of the authority;
-- (b)[^key-adc869eea95742dc137af220cabf4868] all the voting members of the committee or sub-committee who are members of the council or, in either of the cases falling within paragraph (2) below, of another council have been elected for electoral divisions or wards which are wholly or partly within that part;
+- (b)[^c-adc869eea95742dc137af220cabf4868] all the voting members of the committee or sub-committee who are members of the council or, in either of the cases falling within paragraph (2) below, of another council have been elected for electoral divisions or wards which are wholly or partly within that part;
 - (c) either–
   - (i) the area of that part does not exceed two-fifths of the total area of the authority, or
   - (ii) the population of that part, as estimated by the authority, does not exceed two-fifths of the total population of the area of the authority as so estimated.
 
-(2)[^key-9702806c2762de4490eda02880e7d1d8] The cases mentioned in paragraph (1)(b) above are—
+(2)[^c-9702806c2762de4490eda02880e7d1d8] The cases mentioned in paragraph (1)(b) above are—
 
 - (a) a committee or sub-committee of a county council established in respect of a part of the county comprising the whole or part of one or more districts within the county and whose members include members of the council of the district or, as the case may be, districts; or
 - (b) a committee or sub-committee of a district council whose members include members of the council of the county in which the district is situated.
 
-### 16AA. Area committees and sub-committees in Wales[^key-2bec4865c6884d0907befb913d93634c]
+### 16AA. Area committees and sub-committees in Wales[^c-2bec4865c6884d0907befb913d93634c]
 
 (1) Section 15 of the 1989 Act does not apply to any ordinary committee or advisory committee of an authority in Wales which is a county council or a county borough council, or to a sub-committee of any such ordinary or advisory committee, where—
 
@@ -239,13 +239,13 @@ Where a political group has failed to express its wishes in relation to the appo
 - (a) that the area of that part does not exceed one-half of the total area of the authority;
 - (b) that the population of that part, as estimated by the authority, does not exceed one-half of the total population of the area of the authority as so estimated.
 
-### 16B. Joint area committees of county and district councils[^key-294fc13257d909c4f78fab5348438559]
+### 16B. Joint area committees of county and district councils[^c-294fc13257d909c4f78fab5348438559]
 
 (1) Section 15 of the 1989 Act shall not apply to a joint committee where—
 
 - (a) the relevant authorities appointing the joint committee are the councils of a county in England and of one or more districts in the county;
 - (b) the joint committee is established exclusively to discharge functions in respect of an area comprising the whole or part of one or more such districts;
-- (c)[^key-a89765cfac4d10cbdc9c4899748d0162] at least one member elected for each county electoral division which is wholly or partly within that area is appointed a voting member of the joint committee by the county council which is a relevant authority for the purposes of appointments to that committee;
+- (c)[^c-a89765cfac4d10cbdc9c4899748d0162] at least one member elected for each county electoral division which is wholly or partly within that area is appointed a voting member of the joint committee by the county council which is a relevant authority for the purposes of appointments to that committee;
 - (d) each district council which is a relevant authority for those purposes appoints as voting members at least the same number of members of the district council as has been appointed by the county council in accordance with sub-paragraph (c); but–
   - (i) no district council member may be so appointed unless he is elected for a district ward which is wholly or partly within the area in respect of which the joint committee’s functions are discharged; and
   - (ii) nothing in this sub-paragraph shall require the appointment of any district council member who is not so elected;
@@ -253,7 +253,7 @@ Where a political group has failed to express its wishes in relation to the appo
 
 (2) In this regulation, “joint committee” means a body described in paragraph 2(1)(h) of Schedule 1 to the 1989 Act.
 
-### 17. Review of allocation of seats to political groups[^key-3442229f7324d0b609c9ffd0c38eed99]
+### 17. Review of allocation of seats to political groups[^c-3442229f7324d0b609c9ffd0c38eed99]
 
 The duty under section 15 to review the representation of different political groups shall be performed at the following times which are prescribed for the purposes of section 15(1)(e)—
 
@@ -268,19 +268,19 @@ The duty under section 15 to review the representation of different political gr
   - (i) is signed by a member elected to the authority pursuant to section 89 of the 1972 Act[^f00012]; and
   - (ii) is received by the proper officer not more than one month after the date of the member’s election.
 
-### 18. Reviews — political assistants[^key-b78f65e22541dd54b94d5e35d05ad357]
+### 18. Reviews — political assistants[^c-b78f65e22541dd54b94d5e35d05ad357]
 
 Where a relevant authority as defined in section 9(11) of the 1989 Act in relation to England and Wales makes an appointment to a post for the purposes of section 9 of the 1989 Act the authority shall from time to time review allocations made for the purposes of that section.
 
-### 19. Exceptions to requirements for committees to review arrangements for allocations of seats[^key-c3a5228991d43ac2f29c1b31be74baae]
+### 19. Exceptions to requirements for committees to review arrangements for allocations of seats[^c-c3a5228991d43ac2f29c1b31be74baae]
 
 For the purposes of section 15(2) of the 1989 Act the following cases are prescribed as cases where a committee of an authority shall not be under a duty to review the representation of different political groups on bodies to which the section applies to which it has power from time to time to make appointments—
 
 - (a) where the committee has undertaken such a review in relation to that body following the date of the last meeting of the authority of which it is a committee; and for this purpose an extraordinary meeting, within the meaning of paragraph 3 of Part 1 of Schedule 12 to the 1972 Act, of an authority to which that Part applies shall not be treated as a meeting of that authority;
 - (b) where the committee may only make the appointment by virtue of arrangements made under section 101 of the 1972 Act and the authority of which it is a committee is not required to undertake a review;
-- (c)[^key-4f2fd1a273d95e0592a8b653243bd74a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-4f2fd1a273d95e0592a8b653243bd74a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Procedure for alternative arrangements for review[^key-47f9e32f2dc901586be6a1198982a6b4]
+### 20. Procedure for alternative arrangements for review[^c-47f9e32f2dc901586be6a1198982a6b4]
 
 (1) For the purposes of section 17(1) of the 1989 Act alternative arrangements for appointments to a body shall be approved in the manner prescribed in paragraph (2).
 
@@ -292,14 +292,14 @@ For the purposes of section 15(2) of the 1989 Act the following cases are prescr
 
 ## PART V — POLITICAL BALANCE FOR SUB-COMMITTEES OTHER THAN ORDINARY SUB-COMMITTEES
 
-### 21. Representation of political groups on sub-committees which are not ordinary sub-committees[^key-6cafc6d38279067f3340562f98029ac3][^key-2b027363a3543143c6bf9c6639b63b18]
+### 21. Representation of political groups on sub-committees which are not ordinary sub-committees[^c-6cafc6d38279067f3340562f98029ac3][^c-2b027363a3543143c6bf9c6639b63b18]
 
 For the purposes of securing the appropriate representation of different political groups on sub-committees falling within section 17(4) of the 1989 Act–
 
 - (a) subject to regulation 22, sections 15, 16, 17(1) and (2) of the 1989 Act, Part III of these Regulations and regulation 20 shall apply to a body described in paragraph 2(1)(h) of Schedule 1 to that Act (certain joint committees) as if the body were a relevant authority and as if its sub-committees were ordinary committees of that authority; and
 - (b) subject to regulation 23, those provisions (other than section 15(1) and (6)) shall apply to a body described in paragraph 2(1)(c) of that Schedule (county police authorities) as if the body were an ordinary committee of the council.
 
-### 22. Arrangements for review by joint committees[^key-75278a202e5433cc76e33aa2e7b4cf68]
+### 22. Arrangements for review by joint committees[^c-75278a202e5433cc76e33aa2e7b4cf68]
 
 (1) Where a joint committee has power to make appointments to a sub-committee falling within section 17(4) of the 1989 Act it shall not be under a duty to review the representation of different political groups on that sub-committee at the times mentioned in section 15(1) of the 1989 Act but shall carry out such a review—
 
@@ -308,7 +308,7 @@ For the purposes of securing the appropriate representation of different politic
 
 (2) In paragraph (1) “joint committee” means a body described in paragraph 2(1)(h) of Schedule 1 to the 1989 Act.
 
-### 23. Modifications for county police authorities[^key-e08efa0c7695fa82eb53c46e4acc1734]
+### 23. Modifications for county police authorities[^c-e08efa0c7695fa82eb53c46e4acc1734]
 
 –
 
@@ -344,7 +344,7 @@ Secretary of State for Wales
 
 26th July 1990
 
-## SCHEDULE — PRESCRIBED FUNCTIONS[^key-c05f1511b7abe58d08824840d163c937]
+## SCHEDULE — PRESCRIBED FUNCTIONS[^c-c05f1511b7abe58d08824840d163c937]
 
 Regulation 4(1)(h) and (i)
 
@@ -406,15 +406,15 @@ Part V of the Regulations makes special provision for securing political balance
 
 [^f00001]: Footnote: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
 
-[^key-40d5b938835cc6e4a3c370df3744b1df]: Commencement: Reg. 1 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
+[^c-40d5b938835cc6e4a3c370df3744b1df]: Commencement: Reg. 1 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
 
-[^key-11283f680221ec265b13acd832e3e0c3]: Commencement: Reg. 2 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
+[^c-11283f680221ec265b13acd832e3e0c3]: Commencement: Reg. 2 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
 
 [^f00002]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-dd00eb03200e6593ea52ae740a52b8ad]: Commencement: Reg. 3 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
+[^c-dd00eb03200e6593ea52ae740a52b8ad]: Commencement: Reg. 3 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
 
-[^key-fc752203028dff6f20b8d2dfe75eda36]: Commencement: Reg. 4 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
+[^c-fc752203028dff6f20b8d2dfe75eda36]: Commencement: Reg. 4 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
 
 [^f00003]: Footnote: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68).
 
@@ -424,96 +424,96 @@ Part V of the Regulations makes special provision for securing political balance
 
 [^f00006]: Footnote: [1970 c. 42](https://www.legislation.gov.uk/ukpga/1970/42).
 
-[^key-5fb0e7dfe9736688a73fbd0a2bdf032f]: Textual amendment: Words in [reg. 4(1)(g)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/4/1/g) revoked (2.9.1998) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1998 (S.I. 1998/1918)](https://www.legislation.gov.uk/uksi/1998/1918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1918/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/1998/1918/regulation/3/1/a)
+[^c-5fb0e7dfe9736688a73fbd0a2bdf032f]: Textual amendment: Words in [reg. 4(1)(g)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/4/1/g) revoked (2.9.1998) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1998 (S.I. 1998/1918)](https://www.legislation.gov.uk/uksi/1998/1918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1918/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/1998/1918/regulation/3/1/a)
 
 [^f00007]: Footnote: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11); see S.I. [1986/24](https://www.legislation.gov.uk/uksi/1986/24), amended by S.I. [1986/380](https://www.legislation.gov.uk/uksi/1986/380), [1987/293](https://www.legislation.gov.uk/uksi/1987/293), [1579](https://www.legislation.gov.uk/uksi/1987/1579) and [2110](https://www.legislation.gov.uk/uksi/1987/2110), [1988/466](https://www.legislation.gov.uk/uksi/1988/466) and [1990/1285](https://www.legislation.gov.uk/uksi/1990/1285).
 
-[^key-2f6a63ff8aa67a020532f83c9faf61fa]: Textual amendment: [Reg. 4(1)(h)(i)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/4/1/h/i) substituted for [reg. 4(1)(h)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/4/1/h) (2.9.1998) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1998 (S.I. 1998/1918)](https://www.legislation.gov.uk/uksi/1998/1918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1918/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/1998/1918/regulation/3/1/b)
+[^c-2f6a63ff8aa67a020532f83c9faf61fa]: Textual amendment: [Reg. 4(1)(h)(i)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/4/1/h/i) substituted for [reg. 4(1)(h)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/4/1/h) (2.9.1998) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1998 (S.I. 1998/1918)](https://www.legislation.gov.uk/uksi/1998/1918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1918/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/1998/1918/regulation/3/1/b)
 
-[^key-77f937873010afb3030b2fec4d436afb]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/4/2) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2010/1142/schedule/2/paragraph/1)
+[^c-77f937873010afb3030b2fec4d436afb]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/4/2) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2010/1142/schedule/2/paragraph/1)
 
-[^key-81cfd3145b3b05982bf3a8db1cd79a10]: Commencement: Reg. 5 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
+[^c-81cfd3145b3b05982bf3a8db1cd79a10]: Commencement: Reg. 5 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
 
-[^key-7fa2e475a6a7cb0654f3d7de5194b38d]: Textual amendment: Words in [reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/5/1/a) substituted (31.3.1999) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1999 (S.I. 1999/500)](https://www.legislation.gov.uk/uksi/1999/500), [regs. 1](https://www.legislation.gov.uk/uksi/1999/500/regulation/1), [2(a)(i)](https://www.legislation.gov.uk/uksi/1999/500/regulation/2/a/i)
+[^c-7fa2e475a6a7cb0654f3d7de5194b38d]: Textual amendment: Words in [reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/5/1/a) substituted (31.3.1999) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1999 (S.I. 1999/500)](https://www.legislation.gov.uk/uksi/1999/500), [regs. 1](https://www.legislation.gov.uk/uksi/1999/500/regulation/1), [2(a)(i)](https://www.legislation.gov.uk/uksi/1999/500/regulation/2/a/i)
 
-[^key-81cfc66d5530152e7d5802197e560709]: Textual amendment: Words in [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/5/1/c) inserted (8.7.1991) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1991 (S.I. 1991/1398)](https://www.legislation.gov.uk/uksi/1991/1398), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1398/regulation/1), [4](https://www.legislation.gov.uk/uksi/1991/1398/regulation/4)
+[^c-81cfc66d5530152e7d5802197e560709]: Textual amendment: Words in [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/5/1/c) inserted (8.7.1991) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1991 (S.I. 1991/1398)](https://www.legislation.gov.uk/uksi/1991/1398), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1398/regulation/1), [4](https://www.legislation.gov.uk/uksi/1991/1398/regulation/4)
 
-[^key-568eb41f45cab7061f2b2225fdfc6a52]: Textual amendment: Words in [reg. 5(2)(c)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/5/2/c) substituted (31.3.1999) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1999 (S.I. 1999/500)](https://www.legislation.gov.uk/uksi/1999/500), [regs. 1](https://www.legislation.gov.uk/uksi/1999/500/regulation/1), [2(a)(ii)](https://www.legislation.gov.uk/uksi/1999/500/regulation/2/a/ii)
+[^c-568eb41f45cab7061f2b2225fdfc6a52]: Textual amendment: Words in [reg. 5(2)(c)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/5/2/c) substituted (31.3.1999) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1999 (S.I. 1999/500)](https://www.legislation.gov.uk/uksi/1999/500), [regs. 1](https://www.legislation.gov.uk/uksi/1999/500/regulation/1), [2(a)(ii)](https://www.legislation.gov.uk/uksi/1999/500/regulation/2/a/ii)
 
 [^f00010]: Footnote: [1987 c.iv](https://www.legislation.gov.uk/ukla/1987/4).
 
-[^key-5c18002635e14bb960ad633cfb3cd97e]: Commencement: Reg. 6 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
+[^c-5c18002635e14bb960ad633cfb3cd97e]: Commencement: Reg. 6 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
 
-[^key-f0a5b49168148747a22022acc778229f]: Commencement: Reg. 7 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
+[^c-f0a5b49168148747a22022acc778229f]: Commencement: Reg. 7 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
 
-[^key-18000060a02ca25538ab15c285f971d1]: Commencement: Reg. 8 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
+[^c-18000060a02ca25538ab15c285f971d1]: Commencement: Reg. 8 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
 
-[^key-cfe01d87e5490bb44b73790f8cd120d1]: Textual amendment: Words in [reg. 8(4)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/8/4) substituted (8.7.1991) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1991 (S.I. 1991/1398)](https://www.legislation.gov.uk/uksi/1991/1398), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1398/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/1991/1398/regulation/5/1)
+[^c-cfe01d87e5490bb44b73790f8cd120d1]: Textual amendment: Words in [reg. 8(4)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/8/4) substituted (8.7.1991) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1991 (S.I. 1991/1398)](https://www.legislation.gov.uk/uksi/1991/1398), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1398/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/1991/1398/regulation/5/1)
 
-[^key-956c4023b6f5c0e52d5898a9812ee48b]: Textual amendment: Word in [reg. 8(5)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/8/5) substituted (8.7.1991) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1991 (S.I. 1991/1398)](https://www.legislation.gov.uk/uksi/1991/1398), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1398/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/1991/1398/regulation/5/2)
+[^c-956c4023b6f5c0e52d5898a9812ee48b]: Textual amendment: Word in [reg. 8(5)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/8/5) substituted (8.7.1991) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1991 (S.I. 1991/1398)](https://www.legislation.gov.uk/uksi/1991/1398), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1398/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/1991/1398/regulation/5/2)
 
-[^key-05bb05df0d00094af26021222c04396d]: Commencement: Reg. 9 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
+[^c-05bb05df0d00094af26021222c04396d]: Commencement: Reg. 9 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
 
-[^key-81cf04bb86a13b233c060078d02fda57]: Textual amendment: Word in [reg. 9(b)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/9/b) substituted (8.7.1991) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1991 (S.I. 1991/1398)](https://www.legislation.gov.uk/uksi/1991/1398), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1398/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/1991/1398/regulation/5/2)
+[^c-81cf04bb86a13b233c060078d02fda57]: Textual amendment: Word in [reg. 9(b)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/9/b) substituted (8.7.1991) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1991 (S.I. 1991/1398)](https://www.legislation.gov.uk/uksi/1991/1398), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1398/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/1991/1398/regulation/5/2)
 
-[^key-a041ac1c3d848db0b8a6df9ed3288a08]: Commencement: Reg. 10 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
+[^c-a041ac1c3d848db0b8a6df9ed3288a08]: Commencement: Reg. 10 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
 
-[^key-d9ffdbd63fa082f134f9d69e7fb72378]: Commencement: Reg. 11 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
+[^c-d9ffdbd63fa082f134f9d69e7fb72378]: Commencement: Reg. 11 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
 
-[^key-3eea626f34dee26aea96d383ad3599ca]: Commencement: Reg. 12 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
+[^c-3eea626f34dee26aea96d383ad3599ca]: Commencement: Reg. 12 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
 
-[^key-6cd967824eb3001190480d733eaac9d5]: Commencement: Reg. 13 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
+[^c-6cd967824eb3001190480d733eaac9d5]: Commencement: Reg. 13 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
 
-[^key-1b5aeed6210d1b05e0bc3a16a63c7d87]: Textual amendment: Word in [reg. 13(1)(a)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/13/1/a) substituted (8.7.1991) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1991 (S.I. 1991/1398)](https://www.legislation.gov.uk/uksi/1991/1398), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1398/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/1991/1398/regulation/5/2)
+[^c-1b5aeed6210d1b05e0bc3a16a63c7d87]: Textual amendment: Word in [reg. 13(1)(a)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/13/1/a) substituted (8.7.1991) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1991 (S.I. 1991/1398)](https://www.legislation.gov.uk/uksi/1991/1398), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1398/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/1991/1398/regulation/5/2)
 
-[^key-1586799e4ed7d36afeadb0f0c94a9516]: Commencement: Reg. 14 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
+[^c-1586799e4ed7d36afeadb0f0c94a9516]: Commencement: Reg. 14 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
 
-[^key-20088f1ffe9ec5ec9cf65aa682036071]: Textual amendment: Word in [reg. 14](https://www.legislation.gov.uk/uksi/1990/1553/regulation/14) substituted (8.7.1991) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1991 (S.I. 1991/1398)](https://www.legislation.gov.uk/uksi/1991/1398), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1398/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/1991/1398/regulation/5/2)
+[^c-20088f1ffe9ec5ec9cf65aa682036071]: Textual amendment: Word in [reg. 14](https://www.legislation.gov.uk/uksi/1990/1553/regulation/14) substituted (8.7.1991) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1991 (S.I. 1991/1398)](https://www.legislation.gov.uk/uksi/1991/1398), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1398/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/1991/1398/regulation/5/2)
 
-[^key-d2a4375d1a75d19b1b74df670553504f]: Commencement: Reg. 15 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
+[^c-d2a4375d1a75d19b1b74df670553504f]: Commencement: Reg. 15 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
 
-[^key-d01b4fa6a0f2a77451a8f6f2726f1ff1]: Commencement: Reg. 16 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
+[^c-d01b4fa6a0f2a77451a8f6f2726f1ff1]: Commencement: Reg. 16 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
 
-[^key-cc67ad9e111e150147661d6a70f31d29]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/uksi/1990/1553/regulation/16A) inserted (8.7.1991) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1991 (S.I. 1991/1398)](https://www.legislation.gov.uk/uksi/1991/1398), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1398/regulation/1), [6(1)](https://www.legislation.gov.uk/uksi/1991/1398/regulation/6/1)
+[^c-cc67ad9e111e150147661d6a70f31d29]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/uksi/1990/1553/regulation/16A) inserted (8.7.1991) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1991 (S.I. 1991/1398)](https://www.legislation.gov.uk/uksi/1991/1398), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1398/regulation/1), [6(1)](https://www.legislation.gov.uk/uksi/1991/1398/regulation/6/1)
 
-[^key-a6947fb3307913a9f850f14a476e1b78]: Textual amendment: Words in [reg. 16A](https://www.legislation.gov.uk/uksi/1990/1553/regulation/16A) heading inserted (1.5.2014) by [The Local Government (Committees and Political Groups) (Amendment) (Wales) Regulations 2014 (S.I. 2014/476)](https://www.legislation.gov.uk/wsi/2014/476), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/476/regulation/1/1), [2(2)](https://www.legislation.gov.uk/wsi/2014/476/regulation/2/2)
+[^c-a6947fb3307913a9f850f14a476e1b78]: Textual amendment: Words in [reg. 16A](https://www.legislation.gov.uk/uksi/1990/1553/regulation/16A) heading inserted (1.5.2014) by [The Local Government (Committees and Political Groups) (Amendment) (Wales) Regulations 2014 (S.I. 2014/476)](https://www.legislation.gov.uk/wsi/2014/476), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/476/regulation/1/1), [2(2)](https://www.legislation.gov.uk/wsi/2014/476/regulation/2/2)
 
-[^key-59215654691b884c7a15c32e2863f669]: Textual amendment: Reg. 16A renumbered as reg. 16A(1) (2.9.1998) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1998 (S.I. 1998/1918)](https://www.legislation.gov.uk/uksi/1998/1918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1918/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/1998/1918/regulation/4/1)
+[^c-59215654691b884c7a15c32e2863f669]: Textual amendment: Reg. 16A renumbered as reg. 16A(1) (2.9.1998) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1998 (S.I. 1998/1918)](https://www.legislation.gov.uk/uksi/1998/1918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1918/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/1998/1918/regulation/4/1)
 
-[^key-9f1b017fe57830cd85d600b688b43e98]: Textual amendment: Words in [reg. 16A(1)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/16A/1) inserted (1.5.2014) by [The Local Government (Committees and Political Groups) (Amendment) (Wales) Regulations 2014 (S.I. 2014/476)](https://www.legislation.gov.uk/wsi/2014/476), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/476/regulation/1/1), [2(3)](https://www.legislation.gov.uk/wsi/2014/476/regulation/2/3)
+[^c-9f1b017fe57830cd85d600b688b43e98]: Textual amendment: Words in [reg. 16A(1)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/16A/1) inserted (1.5.2014) by [The Local Government (Committees and Political Groups) (Amendment) (Wales) Regulations 2014 (S.I. 2014/476)](https://www.legislation.gov.uk/wsi/2014/476), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/476/regulation/1/1), [2(3)](https://www.legislation.gov.uk/wsi/2014/476/regulation/2/3)
 
-[^key-adc869eea95742dc137af220cabf4868]: Textual amendment: [Reg. 16A(1)(b)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/16A/1/b) substituted (2.9.1998) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1998 (S.I. 1998/1918)](https://www.legislation.gov.uk/uksi/1998/1918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1918/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/1998/1918/regulation/4/1)
+[^c-adc869eea95742dc137af220cabf4868]: Textual amendment: [Reg. 16A(1)(b)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/16A/1/b) substituted (2.9.1998) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1998 (S.I. 1998/1918)](https://www.legislation.gov.uk/uksi/1998/1918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1918/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/1998/1918/regulation/4/1)
 
-[^key-9702806c2762de4490eda02880e7d1d8]: Textual amendment: [Reg. 16A(2)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/16A/2) added (2.9.1998) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1998 (S.I. 1998/1918)](https://www.legislation.gov.uk/uksi/1998/1918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1918/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/1998/1918/regulation/4/2)
+[^c-9702806c2762de4490eda02880e7d1d8]: Textual amendment: [Reg. 16A(2)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/16A/2) added (2.9.1998) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1998 (S.I. 1998/1918)](https://www.legislation.gov.uk/uksi/1998/1918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1918/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/1998/1918/regulation/4/2)
 
-[^key-2bec4865c6884d0907befb913d93634c]: Textual amendment: [Reg. 16AA](https://www.legislation.gov.uk/uksi/1990/1553/regulation/16AA) inserted (W.) (1.5.2014) by [The Local Government (Committees and Political Groups) (Amendment) (Wales) Regulations 2014 (S.I. 2014/476)](https://www.legislation.gov.uk/wsi/2014/476), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/476/regulation/1/1), [2(4)](https://www.legislation.gov.uk/wsi/2014/476/regulation/2/4)
+[^c-2bec4865c6884d0907befb913d93634c]: Textual amendment: [Reg. 16AA](https://www.legislation.gov.uk/uksi/1990/1553/regulation/16AA) inserted (W.) (1.5.2014) by [The Local Government (Committees and Political Groups) (Amendment) (Wales) Regulations 2014 (S.I. 2014/476)](https://www.legislation.gov.uk/wsi/2014/476), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/476/regulation/1/1), [2(4)](https://www.legislation.gov.uk/wsi/2014/476/regulation/2/4)
 
-[^key-294fc13257d909c4f78fab5348438559]: Textual amendment: [Reg. 16B](https://www.legislation.gov.uk/uksi/1990/1553/regulation/16B) added (2.9.1998) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1998 (S.I. 1998/1918)](https://www.legislation.gov.uk/uksi/1998/1918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1918/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/1998/1918/regulation/4/3)
+[^c-294fc13257d909c4f78fab5348438559]: Textual amendment: [Reg. 16B](https://www.legislation.gov.uk/uksi/1990/1553/regulation/16B) added (2.9.1998) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1998 (S.I. 1998/1918)](https://www.legislation.gov.uk/uksi/1998/1918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1918/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/1998/1918/regulation/4/3)
 
-[^key-a89765cfac4d10cbdc9c4899748d0162]: Textual amendment: [Regs. 16B(c)-(e)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/16B/c) substituted for [reg. 16B(c)(d)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/16B/c) (31.3.1999) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1999 (S.I. 1999/500)](https://www.legislation.gov.uk/uksi/1999/500), [regs. 1](https://www.legislation.gov.uk/uksi/1999/500/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/1999/500/regulation/2/b)
+[^c-a89765cfac4d10cbdc9c4899748d0162]: Textual amendment: [Regs. 16B(c)-(e)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/16B/c) substituted for [reg. 16B(c)(d)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/16B/c) (31.3.1999) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1999 (S.I. 1999/500)](https://www.legislation.gov.uk/uksi/1999/500), [regs. 1](https://www.legislation.gov.uk/uksi/1999/500/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/1999/500/regulation/2/b)
 
-[^key-3442229f7324d0b609c9ffd0c38eed99]: Commencement: Reg. 17 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
+[^c-3442229f7324d0b609c9ffd0c38eed99]: Commencement: Reg. 17 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
 
 [^f00011]: Footnote: Paragraph 1 of Schedule 12 to the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70) was applied to joint authorities by Schedule 14 to the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), and section 10(3) of the Local Government Act [1986 (c. 10)](https://www.legislation.gov.uk/ukpga/1986/10).
 
 [^f00012]: Footnote: Section 89 was amended by the Representation of the People Act [1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2), Schedule 8, paragraph 13, the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50), section 19(6)(c), and the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), Schedule 17.
 
-[^key-b78f65e22541dd54b94d5e35d05ad357]: Commencement: Reg. 18 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
+[^c-b78f65e22541dd54b94d5e35d05ad357]: Commencement: Reg. 18 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
 
-[^key-c3a5228991d43ac2f29c1b31be74baae]: Commencement: Reg. 19 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
+[^c-c3a5228991d43ac2f29c1b31be74baae]: Commencement: Reg. 19 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
 
-[^key-4f2fd1a273d95e0592a8b653243bd74a]: Textual amendment: [Reg. 19(c)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/19/c) omitted (8.7.1991) by virtue of [The Local Government (Committees and Political Groups) (Amendment) Regulations 1991 (S.I. 1991/1398)](https://www.legislation.gov.uk/uksi/1991/1398), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1398/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/1991/1398/regulation/6/2)
+[^c-4f2fd1a273d95e0592a8b653243bd74a]: Textual amendment: [Reg. 19(c)](https://www.legislation.gov.uk/uksi/1990/1553/regulation/19/c) omitted (8.7.1991) by virtue of [The Local Government (Committees and Political Groups) (Amendment) Regulations 1991 (S.I. 1991/1398)](https://www.legislation.gov.uk/uksi/1991/1398), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1398/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/1991/1398/regulation/6/2)
 
-[^key-47f9e32f2dc901586be6a1198982a6b4]: Commencement: Reg. 20 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
+[^c-47f9e32f2dc901586be6a1198982a6b4]: Commencement: Reg. 20 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
 
 [^f00013]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70); there are relevant amendments made by Schedule 16 and 17 to the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51).
 
-[^key-6cafc6d38279067f3340562f98029ac3]: Commencement: Reg. 21 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
+[^c-6cafc6d38279067f3340562f98029ac3]: Commencement: Reg. 21 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
 
-[^key-2b027363a3543143c6bf9c6639b63b18]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/1990/1553/regulation/21) substituted (8.7.1991) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1991 (S.I. 1991/1398)](https://www.legislation.gov.uk/uksi/1991/1398), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1398/regulation/1), [7](https://www.legislation.gov.uk/uksi/1991/1398/regulation/7)
+[^c-2b027363a3543143c6bf9c6639b63b18]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/1990/1553/regulation/21) substituted (8.7.1991) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1991 (S.I. 1991/1398)](https://www.legislation.gov.uk/uksi/1991/1398), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1398/regulation/1), [7](https://www.legislation.gov.uk/uksi/1991/1398/regulation/7)
 
-[^key-75278a202e5433cc76e33aa2e7b4cf68]: Commencement: Reg. 22 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
+[^c-75278a202e5433cc76e33aa2e7b4cf68]: Commencement: Reg. 22 in force at 1.8.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/1553/regulation/1)
 
-[^key-e08efa0c7695fa82eb53c46e4acc1734]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/1990/1553/regulation/23) added (8.7.1991) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1991 (S.I. 1991/1398)](https://www.legislation.gov.uk/uksi/1991/1398), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1398/regulation/1), [8](https://www.legislation.gov.uk/uksi/1991/1398/regulation/8)
+[^c-e08efa0c7695fa82eb53c46e4acc1734]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/1990/1553/regulation/23) added (8.7.1991) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1991 (S.I. 1991/1398)](https://www.legislation.gov.uk/uksi/1991/1398), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1398/regulation/1), [8](https://www.legislation.gov.uk/uksi/1991/1398/regulation/8)
 
-[^key-c05f1511b7abe58d08824840d163c937]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1990/1553/schedule) substituted (2.9.1998) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1998 (S.I. 1998/1918)](https://www.legislation.gov.uk/uksi/1998/1918), [reg. 1](https://www.legislation.gov.uk/uksi/1998/1918/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1998/1918/schedule)
+[^c-c05f1511b7abe58d08824840d163c937]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1990/1553/schedule) substituted (2.9.1998) by [The Local Government (Committees and Political Groups) (Amendment) Regulations 1998 (S.I. 1998/1918)](https://www.legislation.gov.uk/uksi/1998/1918), [reg. 1](https://www.legislation.gov.uk/uksi/1998/1918/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1998/1918/schedule)

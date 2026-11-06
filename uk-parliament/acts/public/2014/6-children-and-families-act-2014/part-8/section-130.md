@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Time off work for ante-natal care: increased amount of award[^key-e78817175fadf5016a638a6e4e636b49]
+## 130. Time off work for ante-natal care: increased amount of award[^c-e78817175fadf5016a638a6e4e636b49]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e78817175fadf5016a638a6e4e636b49]: Commencement: [S. 130](https://www.legislation.gov.uk/ukpga/2014/6/section/130) in force at 1.10.2014 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 4(c)](https://www.legislation.gov.uk/uksi/2014/1640/article/4/c) (with [art. 11](https://www.legislation.gov.uk/uksi/2014/1640/article/11))
+[^c-e78817175fadf5016a638a6e4e636b49]: Commencement: [S. 130](https://www.legislation.gov.uk/ukpga/2014/6/section/130) in force at 1.10.2014 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 4(c)](https://www.legislation.gov.uk/uksi/2014/1640/article/4/c) (with [art. 11](https://www.legislation.gov.uk/uksi/2014/1640/article/11))

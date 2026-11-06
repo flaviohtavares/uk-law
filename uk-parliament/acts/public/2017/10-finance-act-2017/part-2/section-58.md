@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Provisional collection of soft drinks industry levy[^key-202a3f8229de8205bbdeafd9a6c77d70]
+## 58. Provisional collection of soft drinks industry levy[^c-202a3f8229de8205bbdeafd9a6c77d70]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 1 of the Provisional Collection of Taxes Act 1968 (temporary statutor
 
 ## Annotations
 
-[^key-202a3f8229de8205bbdeafd9a6c77d70]: Commencement: S. 58 in force at 6.4.2018 by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)
+[^c-202a3f8229de8205bbdeafd9a6c77d70]: Commencement: S. 58 in force at 6.4.2018 by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)

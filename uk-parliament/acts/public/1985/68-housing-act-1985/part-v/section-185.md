@@ -25,7 +25,7 @@ summary: ''
 (2) For the purpose of determining whether a person would have been a secure tenant and his tenancy a secure tenancy—
 
 - (a) a predecessor of a local authority shall be deemed to have been such an authority, and
-- (b) a housing association shall be deemed to have been registered if it is or was a[^c15067881] private registered provider of social housing or[^key-affc5674f26bdf7ae32afd8291d055ad] registered social landlord at any later time.
+- (b) a housing association shall be deemed to have been registered if it is or was a[^c15067881] private registered provider of social housing or[^c-affc5674f26bdf7ae32afd8291d055ad] registered social landlord at any later time.
 
 ## Annotations
 
@@ -35,4 +35,4 @@ summary: ''
 
 [^c15067881]: Textual amendment: Words in s. 185(2)(b) substituted (1.10.1996) by [S.I. 1996/2325](https://www.legislation.gov.uk/uksi/1996/2325), [art. 5(1)](https://www.legislation.gov.uk/uksi/1996/2325/article/5/1), [Sch. 2 para. 14(16)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/14/16)
 
-[^key-affc5674f26bdf7ae32afd8291d055ad]: Textual amendment: Words in s. 185(2)(b) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 28](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/28) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+[^c-affc5674f26bdf7ae32afd8291d055ad]: Textual amendment: Words in s. 185(2)(b) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 28](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/28) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))

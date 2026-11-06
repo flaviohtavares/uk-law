@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Capital gains tax—adaptation of enactments[^key-9c9ae6ea467d848e42fea2085903c77d]
+## 178. Capital gains tax—adaptation of enactments[^c-9c9ae6ea467d848e42fea2085903c77d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 34(4) (capital gains tax—adaptation of enactments) for the words
 
 ## Annotations
 
-[^key-9c9ae6ea467d848e42fea2085903c77d]: Commencement: Art. 178 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-9c9ae6ea467d848e42fea2085903c77d]: Commencement: Art. 178 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

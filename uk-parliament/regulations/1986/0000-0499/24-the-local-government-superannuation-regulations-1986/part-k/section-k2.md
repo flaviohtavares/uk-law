@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## K2. Application to certain other bodies[^key-96559550f57b0db6d58fa4e4133a91a5]
+## K2. Application to certain other bodies[^c-96559550f57b0db6d58fa4e4133a91a5]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ is to be reported by the committee to the Secretary of State, and has no effect 
 
 ## Annotations
 
-[^key-96559550f57b0db6d58fa4e4133a91a5]: Commencement: [Reg. K2](https://www.legislation.gov.uk/uksi/1986/24/regulation/K2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-96559550f57b0db6d58fa4e4133a91a5]: Commencement: [Reg. K2](https://www.legislation.gov.uk/uksi/1986/24/regulation/K2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

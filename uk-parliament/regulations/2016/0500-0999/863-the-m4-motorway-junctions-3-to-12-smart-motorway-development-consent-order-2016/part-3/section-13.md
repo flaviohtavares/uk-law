@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Permanent stopping up of streets[^key-9c7882fd0d3fa7e0f94cfc03badb1ffc]
+## 13. Permanent stopping up of streets[^c-9c7882fd0d3fa7e0f94cfc03badb1ffc]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c7882fd0d3fa7e0f94cfc03badb1ffc]: Commencement: Art. 13 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)
+[^c-9c7882fd0d3fa7e0f94cfc03badb1ffc]: Commencement: Art. 13 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)

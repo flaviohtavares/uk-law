@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Transitional provision: trade licences[^key-d9dd8f86f707510c60d990f60392cc16]
+## 99. Transitional provision: trade licences[^c-d9dd8f86f707510c60d990f60392cc16]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ and such a licence is referred to in this regulation as “**an existing trade s
 
 ## Annotations
 
-[^key-d9dd8f86f707510c60d990f60392cc16]: Commencement: Reg. 99 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-d9dd8f86f707510c60d990f60392cc16]: Commencement: Reg. 99 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

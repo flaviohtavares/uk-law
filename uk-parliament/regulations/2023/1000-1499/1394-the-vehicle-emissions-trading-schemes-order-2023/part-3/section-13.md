@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Allocation of CRTS allowances[^key-f63cf9fa6fb8504c334f8d7861564d38]
+## 13. Allocation of CRTS allowances[^c-f63cf9fa6fb8504c334f8d7861564d38]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f63cf9fa6fb8504c334f8d7861564d38]: Commencement: Art. 13 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-f63cf9fa6fb8504c334f8d7861564d38]: Commencement: Art. 13 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

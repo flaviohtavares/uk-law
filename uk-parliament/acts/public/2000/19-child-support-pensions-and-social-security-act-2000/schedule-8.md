@@ -28,7 +28,7 @@ Section 83.
 
 ### The Magistrates’ Courts Act 1980 (c.43)
 
-**2.**[^key-509d99d966a90a9521a60fe076779232] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-509d99d966a90a9521a60fe076779232] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Family Law Act 1986 (c.55)
 
@@ -65,7 +65,7 @@ Section 83.
 
 ### The Children Act 1989 (c.41)
 
-**10.**[^key-f61b68beeca6d04f7ed66d7c68f1a303] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-f61b68beeca6d04f7ed66d7c68f1a303] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Child Support Act 1991 (c.48)
 
@@ -94,22 +94,22 @@ Section 83.
 
 ### The Access to Justice Act 1999 (c.22)
 
-**15.**[^key-1acc0b54e32e1cbfd07eb4ae04558131] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-1acc0b54e32e1cbfd07eb4ae04558131] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c11422851]: Marginal citation: [1986 c. 55](https://www.legislation.gov.uk/ukpga/1986/55).
 
-[^key-509d99d966a90a9521a60fe076779232]: Textual amendment: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2000/19/schedule/8/paragraph/2) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-509d99d966a90a9521a60fe076779232]: Textual amendment: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2000/19/schedule/8/paragraph/2) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c11422871]: Marginal citation: [1969 c. 46](https://www.legislation.gov.uk/ukpga/1969/46).
 
 [^c11422881]: Marginal citation: [1986 c. 55](https://www.legislation.gov.uk/ukpga/1986/55).
 
-[^key-f61b68beeca6d04f7ed66d7c68f1a303]: Textual amendment: [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2000/19/schedule/8/paragraph/10) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-f61b68beeca6d04f7ed66d7c68f1a303]: Textual amendment: [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2000/19/schedule/8/paragraph/10) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c11422921]: Marginal citation: [1986 c. 55](https://www.legislation.gov.uk/ukpga/1986/55).
 
 [^c11422931]: Marginal citation: [1986 c. 55](https://www.legislation.gov.uk/ukpga/1986/55).
 
-[^key-1acc0b54e32e1cbfd07eb4ae04558131]: Textual amendment: Sch. 8 para. 15 repealed (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/part/2); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
+[^c-1acc0b54e32e1cbfd07eb4ae04558131]: Textual amendment: Sch. 8 para. 15 repealed (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/part/2); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)

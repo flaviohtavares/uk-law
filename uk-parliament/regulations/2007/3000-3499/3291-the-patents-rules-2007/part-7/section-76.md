@@ -27,8 +27,8 @@ summary: ''
 
 (2) Any person may give notice of opposition—
 
-- (a) in the case of section 75(2), before the end of the period of two weeks beginning immediately after[^key-abb3957cb4dbf280651374d7a3a47fcf] the date of the relevant notice; and
-- (b) in the case of any of the other provisions mentioned in Part 2 of Schedule 3, before the end of the period of four weeks beginning immediately after[^key-f1b12f93d15af309299f4f2bc2e8390f] the date of the relevant notice.
+- (a) in the case of section 75(2), before the end of the period of two weeks beginning immediately after[^c-abb3957cb4dbf280651374d7a3a47fcf] the date of the relevant notice; and
+- (b) in the case of any of the other provisions mentioned in Part 2 of Schedule 3, before the end of the period of four weeks beginning immediately after[^c-f1b12f93d15af309299f4f2bc2e8390f] the date of the relevant notice.
 
 (3) For the purposes of this rule and rule 77—
 
@@ -50,8 +50,8 @@ summary: ''
 
 ## Annotations
 
-[^key-abb3957cb4dbf280651374d7a3a47fcf]: Textual amendment: Words in [rule 76(2)(a)](https://www.legislation.gov.uk/uksi/2007/3291/rule/76/2/a) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
+[^c-abb3957cb4dbf280651374d7a3a47fcf]: Textual amendment: Words in [rule 76(2)(a)](https://www.legislation.gov.uk/uksi/2007/3291/rule/76/2/a) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
 
-[^key-f1b12f93d15af309299f4f2bc2e8390f]: Textual amendment: Words in [rule 76(2)(b)](https://www.legislation.gov.uk/uksi/2007/3291/rule/76/2/b) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
+[^c-f1b12f93d15af309299f4f2bc2e8390f]: Textual amendment: Words in [rule 76(2)(b)](https://www.legislation.gov.uk/uksi/2007/3291/rule/76/2/b) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
 
 [^c19011181]: Marginal citation: OJ No L 157, 9.6.2006, p1.

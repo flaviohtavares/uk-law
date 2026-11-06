@@ -22,7 +22,7 @@ summary: ''
 
 (1) If a justice of the peace or sheriff is satisfied by evidence on oath that there is reasonable ground for suspecting that—
 
-- (a) an activity in respect to which a licence under this Act (other than a knife dealer's licence)[^key-dedb6270bf692511f48353cfbc7c81ed] is required is being carried on in any premises, vehicle, or vessel; and
+- (a) an activity in respect to which a licence under this Act (other than a knife dealer's licence)[^c-dedb6270bf692511f48353cfbc7c81ed] is required is being carried on in any premises, vehicle, or vessel; and
 - (b) no such licence is in force,
 
 he may grant a warrant authorising any constable to enter and search the premises, vehicle or vessel specified in the warrant.
@@ -35,6 +35,6 @@ he may grant a warrant authorising any constable to enter and search the premise
 
 ## Annotations
 
-[^key-dedb6270bf692511f48353cfbc7c81ed]: Textual amendment: Words in s. 6(1)(a) inserted (1.6.2010) by [Custodial Sentences and Weapons (Scotland) Act 2007 (asp 17)](https://www.legislation.gov.uk/asp/2007/17), [ss. 59(2)](https://www.legislation.gov.uk/asp/2007/17/section/59/2), [67(2)](https://www.legislation.gov.uk/asp/2007/17/section/67/2); [S.S.I. 2009/197](https://www.legislation.gov.uk/ssi/2009/197), [art. 2](https://www.legislation.gov.uk/ssi/2009/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/197/schedule)
+[^c-dedb6270bf692511f48353cfbc7c81ed]: Textual amendment: Words in s. 6(1)(a) inserted (1.6.2010) by [Custodial Sentences and Weapons (Scotland) Act 2007 (asp 17)](https://www.legislation.gov.uk/asp/2007/17), [ss. 59(2)](https://www.legislation.gov.uk/asp/2007/17/section/59/2), [67(2)](https://www.legislation.gov.uk/asp/2007/17/section/67/2); [S.S.I. 2009/197](https://www.legislation.gov.uk/ssi/2009/197), [art. 2](https://www.legislation.gov.uk/ssi/2009/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/197/schedule)
 
 [^c13371841]: Textual amendment: Words substituted by virtue of [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [s. 289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G)

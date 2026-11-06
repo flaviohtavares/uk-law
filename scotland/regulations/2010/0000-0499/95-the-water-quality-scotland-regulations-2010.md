@@ -144,11 +144,11 @@ After section 76F of the 1980 Act (general functions of local authorities in rel
 
 .
 
-## 3.[^key-63c7a601c2e477907e8428094d7ff5bc]
+## 3.[^c-63c7a601c2e477907e8428094d7ff5bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-8412cb466d5703caaa43dddd704036e4]
+## 4.[^c-8412cb466d5703caaa43dddd704036e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -156,7 +156,7 @@ After section 76F of the 1980 Act (general functions of local authorities in rel
 
 In section 76L of the 1980 Act (interpretation etc. of Part VIA)—
 
-- (a)[^key-e5cb055b58ac93a2b72b6dd37affa397] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-e5cb055b58ac93a2b72b6dd37affa397] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) after the definition of “private supply” insert—
 
   > - “**relevant water quality issue**” has the meaning given by section 76FA(1) above;
@@ -172,35 +172,35 @@ In section 11 of the Water Industry (Scotland) Act 2002 [^c20192711] (enforcemen
 
 .
 
-## 7. Amendment of the Water Supply (Water Quality) (Scotland) Regulations 2001[^key-e728b923282bfe53c008be4e5876d6fe]
+## 7. Amendment of the Water Supply (Water Quality) (Scotland) Regulations 2001[^c-e728b923282bfe53c008be4e5876d6fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-e728b923282bfe53c008be4e5876d6fe]
+## 8.[^c-e728b923282bfe53c008be4e5876d6fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-e728b923282bfe53c008be4e5876d6fe]
+## 9.[^c-e728b923282bfe53c008be4e5876d6fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-e728b923282bfe53c008be4e5876d6fe]
+## 10.[^c-e728b923282bfe53c008be4e5876d6fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11.[^key-e728b923282bfe53c008be4e5876d6fe]
+## 11.[^c-e728b923282bfe53c008be4e5876d6fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12.[^key-e728b923282bfe53c008be4e5876d6fe]
+## 12.[^c-e728b923282bfe53c008be4e5876d6fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13.[^key-e728b923282bfe53c008be4e5876d6fe]
+## 13.[^c-e728b923282bfe53c008be4e5876d6fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14.[^key-e728b923282bfe53c008be4e5876d6fe]
+## 14.[^c-e728b923282bfe53c008be4e5876d6fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -217,19 +217,19 @@ After regulation 5 of the 2006 Regulations, insert—
 
 .
 
-## 16.[^key-4ca102cac3fbc21e534036fa9c3d7a11]
+## 16.[^c-4ca102cac3fbc21e534036fa9c3d7a11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17.[^key-4ca102cac3fbc21e534036fa9c3d7a11]
+## 17.[^c-4ca102cac3fbc21e534036fa9c3d7a11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18.[^key-4ca102cac3fbc21e534036fa9c3d7a11]
+## 18.[^c-4ca102cac3fbc21e534036fa9c3d7a11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19.[^key-4ca102cac3fbc21e534036fa9c3d7a11]
+## 19.[^c-4ca102cac3fbc21e534036fa9c3d7a11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -298,17 +298,17 @@ Regulation 20 amends regulation 34 of the 2006 Regulations and requires local au
 
 [^c20192701]: Marginal citation: [S.S.I. 2006/209](https://www.legislation.gov.uk/ssi/2006/209).
 
-[^key-63c7a601c2e477907e8428094d7ff5bc]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2010/95/regulation/3) revoked (27.10.2017) by [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [sch. 10 para. 4(a)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/4/a) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-63c7a601c2e477907e8428094d7ff5bc]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2010/95/regulation/3) revoked (27.10.2017) by [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [sch. 10 para. 4(a)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/4/a) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
 
-[^key-8412cb466d5703caaa43dddd704036e4]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2010/95/regulation/4) revoked (27.10.2017) by [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [sch. 10 para. 4(a)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/4/a) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-8412cb466d5703caaa43dddd704036e4]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2010/95/regulation/4) revoked (27.10.2017) by [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [sch. 10 para. 4(a)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/4/a) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
 
-[^key-e5cb055b58ac93a2b72b6dd37affa397]: Textual amendment: [Reg. 5(a)](https://www.legislation.gov.uk/ssi/2010/95/regulation/5/a) revoked (27.10.2017) by [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [sch. 10 para. 4(a)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/4/a) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-e5cb055b58ac93a2b72b6dd37affa397]: Textual amendment: [Reg. 5(a)](https://www.legislation.gov.uk/ssi/2010/95/regulation/5/a) revoked (27.10.2017) by [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [sch. 10 para. 4(a)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/4/a) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
 
 [^c20192711]: Marginal citation: 2002 asp 3.
 
-[^key-e728b923282bfe53c008be4e5876d6fe]: Textual amendment: Regs. 7-14 revoked (1.1.2015) by [The Public Water Supplies (Scotland) Regulations 2014 (S.S.I. 2014/364)](https://www.legislation.gov.uk/ssi/2014/364), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/1), [50(2)(c)](https://www.legislation.gov.uk/ssi/2014/364/regulation/50/2/c) (with [reg. 1(3)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/3)[(4)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/4))
+[^c-e728b923282bfe53c008be4e5876d6fe]: Textual amendment: Regs. 7-14 revoked (1.1.2015) by [The Public Water Supplies (Scotland) Regulations 2014 (S.S.I. 2014/364)](https://www.legislation.gov.uk/ssi/2014/364), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/1), [50(2)(c)](https://www.legislation.gov.uk/ssi/2014/364/regulation/50/2/c) (with [reg. 1(3)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/3)[(4)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/4))
 
-[^key-4ca102cac3fbc21e534036fa9c3d7a11]: Textual amendment: [Regs. 16-19](https://www.legislation.gov.uk/ssi/2010/95/regulation/16) revoked (27.10.2017) by [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [sch. 10 para. 4(a)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/4/a) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-4ca102cac3fbc21e534036fa9c3d7a11]: Textual amendment: [Regs. 16-19](https://www.legislation.gov.uk/ssi/2010/95/regulation/16) revoked (27.10.2017) by [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [sch. 10 para. 4(a)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/4/a) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
 
 [^c20192721]: Marginal citation: O.J. L 330, 5.12.98, p.32.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36A. Meaning of “varied”[^key-c829fc5c09730d26d01a743f2bc32378]
+## 36A. Meaning of “varied”[^c-c829fc5c09730d26d01a743f2bc32378]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c829fc5c09730d26d01a743f2bc32378]: Textual amendment: Reg. 36A inserted (1.3.2020) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/99)](https://www.legislation.gov.uk/uksi/2020/99), [regs. 1](https://www.legislation.gov.uk/uksi/2020/99/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/99/regulation/8)
+[^c-c829fc5c09730d26d01a743f2bc32378]: Textual amendment: Reg. 36A inserted (1.3.2020) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/99)](https://www.legislation.gov.uk/uksi/2020/99), [regs. 1](https://www.legislation.gov.uk/uksi/2020/99/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/99/regulation/8)

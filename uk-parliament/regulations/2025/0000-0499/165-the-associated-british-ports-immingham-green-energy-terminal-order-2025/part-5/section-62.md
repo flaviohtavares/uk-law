@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 62. Procedure regarding certain approvals, etc.[^key-3d09e278bdd7c966242b1a374d945089]
+## 62. Procedure regarding certain approvals, etc.[^c-3d09e278bdd7c966242b1a374d945089]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d09e278bdd7c966242b1a374d945089]: Commencement: Art. 62 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-3d09e278bdd7c966242b1a374d945089]: Commencement: Art. 62 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)

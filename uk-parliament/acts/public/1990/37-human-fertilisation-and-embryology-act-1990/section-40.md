@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Power to enter premises.[^key-c204f06aba7ed336c7d1eaeebc434763]
+## 40. Power to enter premises.[^c-c204f06aba7ed336c7d1eaeebc434763]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c204f06aba7ed336c7d1eaeebc434763]: Textual amendment: [S. 40](https://www.legislation.gov.uk/ukpga/1990/37/section/40) repealed (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 28(3)](https://www.legislation.gov.uk/ukpga/2008/22/section/28/3), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(n)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/n)
+[^c-c204f06aba7ed336c7d1eaeebc434763]: Textual amendment: [S. 40](https://www.legislation.gov.uk/ukpga/1990/37/section/40) repealed (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 28(3)](https://www.legislation.gov.uk/ukpga/2008/22/section/28/3), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(n)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/n)

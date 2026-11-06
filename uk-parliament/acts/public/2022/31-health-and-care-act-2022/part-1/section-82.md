@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Duty to provide assistance to the CMA[^key-d99fa530c5d578baa4a8fdc9cb824450][^key-ee6e48c137e0a8f1d2d2cad95ad773fb]
+## 82. Duty to provide assistance to the CMA[^c-d99fa530c5d578baa4a8fdc9cb824450][^c-ee6e48c137e0a8f1d2d2cad95ad773fb]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d99fa530c5d578baa4a8fdc9cb824450]: Commencement: S. 82 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-d99fa530c5d578baa4a8fdc9cb824450]: Commencement: S. 82 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-ee6e48c137e0a8f1d2d2cad95ad773fb]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2022/31/section/82) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [20](https://www.legislation.gov.uk/uksi/2022/734/regulation/20), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-ee6e48c137e0a8f1d2d2cad95ad773fb]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2022/31/section/82) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [20](https://www.legislation.gov.uk/uksi/2022/734/regulation/20), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

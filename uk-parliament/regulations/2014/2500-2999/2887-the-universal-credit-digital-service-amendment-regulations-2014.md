@@ -47,7 +47,7 @@ Coming into force
 
 [^c2223808][^c2223809]The Secretary of State for Work and Pensions, in exercise of the powers conferred by section 1(1) of the Social Security Administration Act 1992 and sections 4(3), 7(3), 8(3), 9(2), 10(3), 11(4), 12(1) and (3), 19(2)(d), 32(1) and (4), 42(2) and (3) of, and paragraph 3(2) of Schedule 1 to, the Welfare Reform Act 2012 , makes the following Regulations:
 
-In accordance with section 173(1)(b) of the Social Security Administration Act 1992, the Social Security Advisory Committee has agreed that the proposals for these Regulations need not be referred to it.[^key-0ddab57b61f18a8489e79df3dbb8c7ba][^key-6a387d63aed1cf383fcddcb31813f777][^key-e47f958d910dbeae04d4543bfc2fbea6]
+In accordance with section 173(1)(b) of the Social Security Administration Act 1992, the Social Security Advisory Committee has agreed that the proposals for these Regulations need not be referred to it.[^c-0ddab57b61f18a8489e79df3dbb8c7ba][^c-6a387d63aed1cf383fcddcb31813f777][^c-e47f958d910dbeae04d4543bfc2fbea6]
 
 ## 1. Citation and commencement
 
@@ -201,7 +201,7 @@ These Regulations may be cited as the Universal Credit (Digital Service) Amendme
 
 .
 
-## 5. Saving[^key-12f1fb30b39c85b6dfc1da3d1415fd18]
+## 5. Saving[^c-12f1fb30b39c85b6dfc1da3d1415fd18]
 
 (1) The amendments made by these Regulations do not apply to an award of universal credit unless it is—
 
@@ -268,11 +268,11 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^c2223809]: Marginal citation: [2012 c.5](https://www.legislation.gov.uk/ukpga/2012/5).
 
-[^key-0ddab57b61f18a8489e79df3dbb8c7ba]: Modification: Instrument modified (16.2.2015) by [The Welfare Reform Act 2012 (Commencement No. 22 and Transitional and Transitory Provisions) Order 2015 (S.I. 2015/101)](https://www.legislation.gov.uk/uksi/2015/101), [art. 6](https://www.legislation.gov.uk/uksi/2015/101/article/6)
+[^c-0ddab57b61f18a8489e79df3dbb8c7ba]: Modification: Instrument modified (16.2.2015) by [The Welfare Reform Act 2012 (Commencement No. 22 and Transitional and Transitory Provisions) Order 2015 (S.I. 2015/101)](https://www.legislation.gov.uk/uksi/2015/101), [art. 6](https://www.legislation.gov.uk/uksi/2015/101/article/6)
 
-[^key-6a387d63aed1cf383fcddcb31813f777]: Modification: Instrument modified (18.3.2015) by [The Welfare Reform Act 2012 (Commencement No. 23 and Transitional and Transitory Provisions) Order 2015 (S.I. 2015/634)](https://www.legislation.gov.uk/uksi/2015/634), [art. 10](https://www.legislation.gov.uk/uksi/2015/634/article/10) (which modification is revoked (2.12.2015) by S.I. 2015/1930, art. 8)
+[^c-6a387d63aed1cf383fcddcb31813f777]: Modification: Instrument modified (18.3.2015) by [The Welfare Reform Act 2012 (Commencement No. 23 and Transitional and Transitory Provisions) Order 2015 (S.I. 2015/634)](https://www.legislation.gov.uk/uksi/2015/634), [art. 10](https://www.legislation.gov.uk/uksi/2015/634/article/10) (which modification is revoked (2.12.2015) by S.I. 2015/1930, art. 8)
 
-[^key-e47f958d910dbeae04d4543bfc2fbea6]: Modification: Instrument modified (21.9.2015) by [The Welfare Reform Act 2012 (Commencement No. 24 and Transitional and Transitory Provisions and Commencement No. 9 and Transitional and Transitory Provisions (Amendment)) Order 2015 (S.I. 2015/1537)](https://www.legislation.gov.uk/uksi/2015/1537), [art. 7](https://www.legislation.gov.uk/uksi/2015/1537/article/7) (which modification is revoked (2.12.2015) by S.I. 2015/1930, art. 9)
+[^c-e47f958d910dbeae04d4543bfc2fbea6]: Modification: Instrument modified (21.9.2015) by [The Welfare Reform Act 2012 (Commencement No. 24 and Transitional and Transitory Provisions and Commencement No. 9 and Transitional and Transitory Provisions (Amendment)) Order 2015 (S.I. 2015/1537)](https://www.legislation.gov.uk/uksi/2015/1537), [art. 7](https://www.legislation.gov.uk/uksi/2015/1537/article/7) (which modification is revoked (2.12.2015) by S.I. 2015/1930, art. 9)
 
 [^c2223810]: Marginal citation: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376).
 
@@ -288,4 +288,4 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^c2223816]: Marginal citation: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376).
 
-[^key-12f1fb30b39c85b6dfc1da3d1415fd18]: Textual amendment: Reg. 5 substituted (with effect in accordance with reg. 1(3) of the commencing S.I.) by [The Universal Credit and Miscellaneous Amendments Regulations 2015 (S.I. 2015/1754)](https://www.legislation.gov.uk/uksi/2015/1754), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1754/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2015/1754/regulation/20)
+[^c-12f1fb30b39c85b6dfc1da3d1415fd18]: Textual amendment: Reg. 5 substituted (with effect in accordance with reg. 1(3) of the commencing S.I.) by [The Universal Credit and Miscellaneous Amendments Regulations 2015 (S.I. 2015/1754)](https://www.legislation.gov.uk/uksi/2015/1754), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1754/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2015/1754/regulation/20)

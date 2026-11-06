@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2A — Absolute ground for possession for anti-social behaviour: serious offences[^key-13d0a835064b8bccb530ca1a3e2ecb93]
+## SCHEDULE 2A — Absolute ground for possession for anti-social behaviour: serious offences[^c-13d0a835064b8bccb530ca1a3e2ecb93]
 
 *Extent: E+W*
 
@@ -86,7 +86,7 @@ Section 84A(9)
 
 **14.** An offence under section 5 of the Domestic Violence, Crime and Victims Act 2004 (causing or allowing the death of a child or vulnerable adult).
 
-**14A.**[^key-a0580f16b2777eefaf47bed84d56ce95] An offence under section 75A of the Serious Crime Act 2015 (strangulation or suffocation).
+**14A.**[^c-a0580f16b2777eefaf47bed84d56ce95] An offence under section 75A of the Serious Crime Act 2015 (strangulation or suffocation).
 
 ### Sexual offences
 
@@ -155,9 +155,9 @@ Section 84A(9)
 
 **29.** An offence under section 6 of that Act (restrictions of cultivation of cannabis plant) where the cultivation is for profit and the whole or a substantial part of the dwelling-house concerned is used for the cultivation.
 
-### Modern slavery (Extent: W)[^key-5f64a0ee120458d6211fdcee1c6ba06c][^key-0fc178dd166577e7a4938bba4e3fd9a9]
+### Modern slavery (Extent: W)[^c-5f64a0ee120458d6211fdcee1c6ba06c][^c-0fc178dd166577e7a4938bba4e3fd9a9]
 
-**29A (Extent: W).**[^key-5f64a0ee120458d6211fdcee1c6ba06c] An offence under either of the following sections of the Modern Slavery Act 2015— *(Extent: W)*
+**29A (Extent: W).**[^c-5f64a0ee120458d6211fdcee1c6ba06c] An offence under either of the following sections of the Modern Slavery Act 2015— *(Extent: W)*
 
 - (a (Extent: W)) section 1 (slavery, servitude and forced or compulsory labour), *(Extent: W)*
 - (b (Extent: W)) section 2 (human trafficking). *(Extent: W)*
@@ -176,10 +176,10 @@ Section 84A(9)
 
 ## Annotations
 
-[^key-13d0a835064b8bccb530ca1a3e2ecb93]: Textual amendment: Sch. 2A inserted (20.10.2014 for E., 21.10.2014 fro W.) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)(2)(c)(3)(a)](https://www.legislation.gov.uk/ukpga/2014/12/section/185), [Sch. 3](https://www.legislation.gov.uk/ukpga/2014/12/schedule/3) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 2(g)](https://www.legislation.gov.uk/uksi/2014/2590/article/2/g); [S.I. 2014/2830](https://www.legislation.gov.uk/uksi/2014/2830), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/2830/article/2/a)
+[^c-13d0a835064b8bccb530ca1a3e2ecb93]: Textual amendment: Sch. 2A inserted (20.10.2014 for E., 21.10.2014 fro W.) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)(2)(c)(3)(a)](https://www.legislation.gov.uk/ukpga/2014/12/section/185), [Sch. 3](https://www.legislation.gov.uk/ukpga/2014/12/schedule/3) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 2(g)](https://www.legislation.gov.uk/uksi/2014/2590/article/2/g); [S.I. 2014/2830](https://www.legislation.gov.uk/uksi/2014/2830), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/2830/article/2/a)
 
-[^key-a0580f16b2777eefaf47bed84d56ce95]: Textual amendment: [Sch. 2A para. 14A](https://www.legislation.gov.uk/ukpga/1985/68/schedule/2A/paragraph/14A) inserted (7.6.2022) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2021/17/schedule/2/paragraph/2); [S.I. 2022/553](https://www.legislation.gov.uk/uksi/2022/553), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/553/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/553/regulation/3/b)
+[^c-a0580f16b2777eefaf47bed84d56ce95]: Textual amendment: [Sch. 2A para. 14A](https://www.legislation.gov.uk/ukpga/1985/68/schedule/2A/paragraph/14A) inserted (7.6.2022) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2021/17/schedule/2/paragraph/2); [S.I. 2022/553](https://www.legislation.gov.uk/uksi/2022/553), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/553/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/553/regulation/3/b)
 
-[^key-5f64a0ee120458d6211fdcee1c6ba06c]: Textual amendment: Sch. 2A para. 29A and cross-heading inserted (E.) (17.3.2016) by [The Modern Slavery Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/244)](https://www.legislation.gov.uk/uksi/2016/244), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/244/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2016/244/regulation/7)
+[^c-5f64a0ee120458d6211fdcee1c6ba06c]: Textual amendment: Sch. 2A para. 29A and cross-heading inserted (E.) (17.3.2016) by [The Modern Slavery Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/244)](https://www.legislation.gov.uk/uksi/2016/244), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/244/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2016/244/regulation/7)
 
-[^key-0fc178dd166577e7a4938bba4e3fd9a9]: Textual amendment: Sch. 2A para. 29A and cross-heading inserted (W.) (16.2.2016) by [The Housing Act 1985 (Amendment of Schedule 2A) (Serious Offences) (Wales) Order 2016 (S.I. 2016/173)](https://www.legislation.gov.uk/wsi/2016/173), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2016/173/article/1/1), [2(2)](https://www.legislation.gov.uk/wsi/2016/173/article/2/2)
+[^c-0fc178dd166577e7a4938bba4e3fd9a9]: Textual amendment: Sch. 2A para. 29A and cross-heading inserted (W.) (16.2.2016) by [The Housing Act 1985 (Amendment of Schedule 2A) (Serious Offences) (Wales) Order 2016 (S.I. 2016/173)](https://www.legislation.gov.uk/wsi/2016/173), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2016/173/article/1/1), [2(2)](https://www.legislation.gov.uk/wsi/2016/173/article/2/2)

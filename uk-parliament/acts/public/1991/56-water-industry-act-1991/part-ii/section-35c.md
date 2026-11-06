@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35C. Rules under section 35B: procedure[^key-5cc96f4a992b96497079e9845f7654c6]
+## 35C. Rules under section 35B: procedure[^c-5cc96f4a992b96497079e9845f7654c6]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5cc96f4a992b96497079e9845f7654c6]: Textual amendment: [Ss. 35B-35D](https://www.legislation.gov.uk/ukpga/1991/56/section/35B) inserted (24.2.2025) by [Water (Special Measures) Act 2025 (c. 5)](https://www.legislation.gov.uk/ukpga/2025/5), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2025/5/section/1/3), [17(2)(b)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/2/b)
+[^c-5cc96f4a992b96497079e9845f7654c6]: Textual amendment: [Ss. 35B-35D](https://www.legislation.gov.uk/ukpga/1991/56/section/35B) inserted (24.2.2025) by [Water (Special Measures) Act 2025 (c. 5)](https://www.legislation.gov.uk/ukpga/2025/5), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2025/5/section/1/3), [17(2)(b)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/2/b)

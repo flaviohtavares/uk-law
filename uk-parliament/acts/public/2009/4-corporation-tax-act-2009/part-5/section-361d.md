@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 361D. Corporate rescue: debt released shortly after acquisition[^key-23c523322b88cf409314111d286425d8]
+## 361D. Corporate rescue: debt released shortly after acquisition[^c-23c523322b88cf409314111d286425d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23c523322b88cf409314111d286425d8]: Textual amendment: S. 361D inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 37](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/37)
+[^c-23c523322b88cf409314111d286425d8]: Textual amendment: S. 361D inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 37](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/37)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 175. Fluoridation of water supplies[^key-9c0be75c7273a8ceeda65f8ee781e0f4][^key-912262be6d9ddd18784797204fdd1fd8]
+## 175. Fluoridation of water supplies[^c-9c0be75c7273a8ceeda65f8ee781e0f4][^c-912262be6d9ddd18784797204fdd1fd8]
 
 *Extent: E+W*
 
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9c0be75c7273a8ceeda65f8ee781e0f4]: Commencement: S. 175 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-9c0be75c7273a8ceeda65f8ee781e0f4]: Commencement: S. 175 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-912262be6d9ddd18784797204fdd1fd8]: Commencement: [S. 175](https://www.legislation.gov.uk/ukpga/2022/31/section/175) in force at 1.11.2022 for specified purposes by [S.I. 2022/1003](https://www.legislation.gov.uk/uksi/2022/1003), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/1003/regulation/3/a)
+[^c-912262be6d9ddd18784797204fdd1fd8]: Commencement: [S. 175](https://www.legislation.gov.uk/ukpga/2022/31/section/175) in force at 1.11.2022 for specified purposes by [S.I. 2022/1003](https://www.legislation.gov.uk/uksi/2022/1003), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/1003/regulation/3/a)

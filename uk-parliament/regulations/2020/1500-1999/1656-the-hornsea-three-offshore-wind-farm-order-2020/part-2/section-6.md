@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Application and modification of legislative provisions[^key-c9e56885cf63cacc8f4ceba917e8de2e]
+## 6. Application and modification of legislative provisions[^c-c9e56885cf63cacc8f4ceba917e8de2e]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c9e56885cf63cacc8f4ceba917e8de2e]: Commencement: Art. 6 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-c9e56885cf63cacc8f4ceba917e8de2e]: Commencement: Art. 6 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
 [^c24412711]: Marginal citation: [S.I. 1997/1160](https://www.legislation.gov.uk/uksi/1997/1160). Relevant amendments to this instrument have been made by section 73(2) of the [Countryside and Rights of Way Act 2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37) and by [S.I. 2003/2155](https://www.legislation.gov.uk/uksi/2003/2155), [S.I](https://www.legislation.gov.uk/uksi/2003/2155/section/I). 2006/1177, [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307) and [S.I. 2105/377](https://www.legislation.gov.uk/uksi/2105/377).
 

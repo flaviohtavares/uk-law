@@ -24,39 +24,39 @@ Section 79.
 
 ### Definition of “pension business”
 
-**1.**[^key-4419d5a08a142ad06689e5f93298f423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4419d5a08a142ad06689e5f93298f423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Approval of retirement benefit schemes
 
-**2.**[^key-4419d5a08a142ad06689e5f93298f423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4419d5a08a142ad06689e5f93298f423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Discretionary approval of retirement benefit schemes
 
-**3.**[^key-4419d5a08a142ad06689e5f93298f423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4419d5a08a142ad06689e5f93298f423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Non-approved retirement benefit schemes
 
-**4.**[^key-4419d5a08a142ad06689e5f93298f423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4419d5a08a142ad06689e5f93298f423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-4419d5a08a142ad06689e5f93298f423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-4419d5a08a142ad06689e5f93298f423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-4419d5a08a142ad06689e5f93298f423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-4419d5a08a142ad06689e5f93298f423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Charge on pensions commuted in special circumstances
 
-**7.**[^key-4419d5a08a142ad06689e5f93298f423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-4419d5a08a142ad06689e5f93298f423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Charge on unauthorised payments
 
-**8.**[^key-4419d5a08a142ad06689e5f93298f423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-4419d5a08a142ad06689e5f93298f423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Definition of “retirement benefits scheme”
 
-**9.**[^key-4419d5a08a142ad06689e5f93298f423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-4419d5a08a142ad06689e5f93298f423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Interpretation of Chapter I
 
-**10.**[^key-4419d5a08a142ad06689e5f93298f423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-4419d5a08a142ad06689e5f93298f423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Overseas pensions
 
@@ -64,31 +64,31 @@ Section 79.
 
 ### Rules prohibiting surrender or assignment of annuities etc.
 
-**12.**[^key-0cb8f9a3a96678800e7b7a455e224196] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-0cb8f9a3a96678800e7b7a455e224196] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Annuity payable on the death of a member
 
-**13.**[^key-0cb8f9a3a96678800e7b7a455e224196] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-0cb8f9a3a96678800e7b7a455e224196] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Rule in section 636A prohibiting assignment or surrender
 
-**14.**[^key-0cb8f9a3a96678800e7b7a455e224196] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-0cb8f9a3a96678800e7b7a455e224196] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Meaning of “relevant earnings”
 
-**15.**[^key-0cb8f9a3a96678800e7b7a455e224196] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-0cb8f9a3a96678800e7b7a455e224196] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Purchased life annuities
 
-**16.**[^key-0cb8f9a3a96678800e7b7a455e224196] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-0cb8f9a3a96678800e7b7a455e224196] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Interpretation of Part XIV
 
-**17.**[^key-0cb8f9a3a96678800e7b7a455e224196] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-0cb8f9a3a96678800e7b7a455e224196] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Commencement etc.
 
-**18.**[^key-0cb8f9a3a96678800e7b7a455e224196] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-0cb8f9a3a96678800e7b7a455e224196] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -96,6 +96,6 @@ Section 79.
 
     [Sch. 10](https://www.legislation.gov.uk/ukpga/1999/16/schedule/10) applied (S.) (28.1.2002) by [S.I. 1995/365](https://www.legislation.gov.uk/uksi/1995/365), Pt. W para. W14(2) (as inserted (28.1.2002) by [S.S.I. 2001/465](https://www.legislation.gov.uk/ssi/2001/465), [reg. 3](https://www.legislation.gov.uk/ssi/2001/465/regulation/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2001/465/schedule/1))
 
-[^key-4419d5a08a142ad06689e5f93298f423]: Textual amendment: [Sch. 10 paras. 1-10](https://www.legislation.gov.uk/ukpga/1999/16/schedule/10/paragraph/1) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-4419d5a08a142ad06689e5f93298f423]: Textual amendment: [Sch. 10 paras. 1-10](https://www.legislation.gov.uk/ukpga/1999/16/schedule/10/paragraph/1) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
 
-[^key-0cb8f9a3a96678800e7b7a455e224196]: Textual amendment: [Sch. 10 paras. 12-18](https://www.legislation.gov.uk/ukpga/1999/16/schedule/10/paragraph/12) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-0cb8f9a3a96678800e7b7a455e224196]: Textual amendment: [Sch. 10 paras. 12-18](https://www.legislation.gov.uk/ukpga/1999/16/schedule/10/paragraph/12) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))

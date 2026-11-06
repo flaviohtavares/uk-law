@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Lapse of registration[^key-90f50e21ff5d432457c264b64abdb855][^key-f5e468508c55c3198e0932947990c955]
+## 12. Lapse of registration[^c-90f50e21ff5d432457c264b64abdb855][^c-f5e468508c55c3198e0932947990c955]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-90f50e21ff5d432457c264b64abdb855]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2002/253/article/12) in force at 5.3.2004 for specified purposes as notified in the London Gazette (Issue 57218, published 27.2.2004), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/1/3)
+[^c-90f50e21ff5d432457c264b64abdb855]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2002/253/article/12) in force at 5.3.2004 for specified purposes as notified in the London Gazette (Issue 57218, published 27.2.2004), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/1/3)
 
-[^key-f5e468508c55c3198e0932947990c955]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2002/253/article/12) in force at 1.8.2004 in so far as not already in force as notified in the London Gazette (Issue 57361, published 21.7.2004), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/1/3)
+[^c-f5e468508c55c3198e0932947990c955]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2002/253/article/12) in force at 1.8.2004 in so far as not already in force as notified in the London Gazette (Issue 57361, published 21.7.2004), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/1/3)

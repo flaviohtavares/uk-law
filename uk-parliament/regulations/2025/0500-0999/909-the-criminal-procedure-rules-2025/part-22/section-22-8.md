@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22.8. Court’s power to vary requirements under this Part[^key-4893e75b6f2b9fe490854da3adb6f1a5]
+## 22.8. Court’s power to vary requirements under this Part[^c-4893e75b6f2b9fe490854da3adb6f1a5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The court may shorten or extend (even after it has expired) a time limit under t
 
 ## Annotations
 
-[^key-4893e75b6f2b9fe490854da3adb6f1a5]: Commencement: [Rule 22.8](https://www.legislation.gov.uk/uksi/2025/909/rule/22.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-4893e75b6f2b9fe490854da3adb6f1a5]: Commencement: [Rule 22.8](https://www.legislation.gov.uk/uksi/2025/909/rule/22.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

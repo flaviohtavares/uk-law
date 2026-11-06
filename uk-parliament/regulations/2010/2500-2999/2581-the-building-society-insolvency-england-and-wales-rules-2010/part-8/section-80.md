@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80. Surrender for non–disclosure[^key-df4d40ff21675dbe12068b2565f9007d]
+## 80. Surrender for non–disclosure[^c-df4d40ff21675dbe12068b2565f9007d]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.96 of the 1986 Rules. Ignore paragraph (3)[^f00033].
 
 ## Annotations
 
-[^key-df4d40ff21675dbe12068b2565f9007d]: Commencement: Rule 80 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-df4d40ff21675dbe12068b2565f9007d]: Commencement: Rule 80 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00033]: Footnote: Paragraph (3) was inserted by [S.I. 2002/1307](https://www.legislation.gov.uk/uksi/2002/1307).

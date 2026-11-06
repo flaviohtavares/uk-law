@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 338. Effect of blight notice including requirement to purchase unaffected area[^key-6c12f616b97266a1f60796c30e626e3d]
+## 338. Effect of blight notice including requirement to purchase unaffected area[^c-6c12f616b97266a1f60796c30e626e3d]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c12f616b97266a1f60796c30e626e3d]: Commencement: S. 338 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-6c12f616b97266a1f60796c30e626e3d]: Commencement: S. 338 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

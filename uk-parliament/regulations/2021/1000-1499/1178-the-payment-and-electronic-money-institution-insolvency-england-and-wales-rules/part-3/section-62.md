@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Correspondence instead of meetings[^key-30a7156f5288611b3fcc5d86056f6e23]
+## 62. Correspondence instead of meetings[^c-30a7156f5288611b3fcc5d86056f6e23]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30a7156f5288611b3fcc5d86056f6e23]: Commencement: Rule 62 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-30a7156f5288611b3fcc5d86056f6e23]: Commencement: Rule 62 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Transitional provision in relation to the movement of goods between Great Britain and Northern Ireland[^key-96db2e04b0c66fac6bdf8f16a926a8d1]
+## 119. Transitional provision in relation to the movement of goods between Great Britain and Northern Ireland[^c-96db2e04b0c66fac6bdf8f16a926a8d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-96db2e04b0c66fac6bdf8f16a926a8d1]: Commencement: Reg. 119 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-96db2e04b0c66fac6bdf8f16a926a8d1]: Commencement: Reg. 119 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395851]: Marginal citation: Section 6 of VATA was amended by section 26 of, and paragraph 1 of Schedule 3 to, the Finance Act 1996; section 22 of the [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36); sections 24 and 141 of, and Schedule 40 to, the [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23); section 76 of, and paragraph 2 of Schedule 36 to, the [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10); and section 43 of, and paragraph 6 of Schedule 8 to, the TCTA. The latter amendment is not yet in force.

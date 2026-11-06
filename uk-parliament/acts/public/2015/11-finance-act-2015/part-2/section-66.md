@@ -135,8 +135,8 @@ summary: ''
 
 (5) The amendments made by this section have effect in relation to supplies made, and acquisitions and importations taking place, on or after 1 April 2015.
 
-(6)[^key-7eb642ed2a77a241514d6a41dd713312] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-7eb642ed2a77a241514d6a41dd713312] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7eb642ed2a77a241514d6a41dd713312]: Textual amendment: [S. 66(6)](https://www.legislation.gov.uk/ukpga/2015/11/section/66/6) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 7 para. 30](https://www.legislation.gov.uk/ukpga/2022/31/schedule/7/paragraph/30); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-7eb642ed2a77a241514d6a41dd713312]: Textual amendment: [S. 66(6)](https://www.legislation.gov.uk/ukpga/2015/11/section/66/6) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 7 para. 30](https://www.legislation.gov.uk/ukpga/2022/31/schedule/7/paragraph/30); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

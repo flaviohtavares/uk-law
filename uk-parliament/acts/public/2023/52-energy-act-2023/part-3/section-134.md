@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Grant, extension or restriction of gas transporter licence by Secretary of State[^key-3feaebad583cf55955afe15def1455a0]
+## 134. Grant, extension or restriction of gas transporter licence by Secretary of State[^c-3feaebad583cf55955afe15def1455a0]
 
 *Extent: E+W+S*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3feaebad583cf55955afe15def1455a0]: Commencement: [S. 134](https://www.legislation.gov.uk/ukpga/2023/52/section/134) in force at 26.12.2023, see [s. 334(3)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/c)
+[^c-3feaebad583cf55955afe15def1455a0]: Commencement: [S. 134](https://www.legislation.gov.uk/ukpga/2023/52/section/134) in force at 26.12.2023, see [s. 334(3)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/c)

@@ -24,7 +24,7 @@ summary: ''
 
 ### Application for licence
 
-**1.**[^key-fa536b4059a4388b2af6a9346861d41a][^key-ac65fa36c5a8ae6ed0d578320b42fb8e] (1) An application for a water services licence or a sewerage services licence is to be made to the Commission and is—
+**1.**[^c-fa536b4059a4388b2af6a9346861d41a][^c-ac65fa36c5a8ae6ed0d578320b42fb8e] (1) An application for a water services licence or a sewerage services licence is to be made to the Commission and is—
 
 - (a) to be in such form and made in such manner; and
 - (b) to contain such information (including information in the form of a document),
@@ -65,7 +65,7 @@ as the Scottish Ministers may so prescribe.
 
 (11) In an appeal under sub-paragraph (9) or (10), the Court may quash or confirm the Commission's decision to refuse the application or (as the case may be) grant the licence; and the decision of the Court in the appeal is final.
 
-### Applications forwarded by the Water Services Regulation Authority[^key-a9619b9e427272b5383362bd430c6db1]
+### Applications forwarded by the Water Services Regulation Authority[^c-a9619b9e427272b5383362bd430c6db1]
 
 **1A.** (1) The Scottish Ministers may by order make provision about—
 
@@ -122,7 +122,7 @@ before the end of the agreed period for an application of that description.
 
 ### Conditions of licence
 
-**2.**[^key-b65ecdbe8254c2f4fe3430314f61ad68][^key-d6f19dd7f921cf9673f993e997a42b7c] (1) Each water services licence and sewerage services licence—
+**2.**[^c-b65ecdbe8254c2f4fe3430314f61ad68][^c-d6f19dd7f921cf9673f993e997a42b7c] (1) Each water services licence and sewerage services licence—
 
 - (a) is, subject to sub-paragraph (10), to have incorporated in it by reference to the standard conditions such of those conditions as are applicable to it; and
 - (b) may include such ordinary conditions as appear to the Commission to be necessary or expedient for the purposes of or in connection with the activities authorised by the licence.
@@ -192,13 +192,13 @@ at such time, in such manner and in such circumstances, as the Commission consid
 
 ### Conditions: sustainable development
 
-**3.**[^key-e10c7e4840dc7d8f56badac450567807] (1) The Scottish Ministers may issue to the Commission guidance as to how water services and sewerage services providers might, by the manner in which they perform the activities authorised by their licences, reasonably contribute to the achievement of sustainable development.
+**3.**[^c-e10c7e4840dc7d8f56badac450567807] (1) The Scottish Ministers may issue to the Commission guidance as to how water services and sewerage services providers might, by the manner in which they perform the activities authorised by their licences, reasonably contribute to the achievement of sustainable development.
 
 (2) In exercising its functions under paragraph 2, the Commission is to have regard to any guidance issued under sub-paragraph (1).
 
 ### Transfer of licence
 
-**4.**[^key-dac8850c9005fdb0650c086b2c8c8dca] (1) Any water services licence or sewerage services licence may, subject to sub-paragraphs (2) to (5), be transferred to another person by the provider who holds it (“**the transferor**”), either in respect of—
+**4.**[^c-dac8850c9005fdb0650c086b2c8c8dca] (1) Any water services licence or sewerage services licence may, subject to sub-paragraphs (2) to (5), be transferred to another person by the provider who holds it (“**the transferor**”), either in respect of—
 
 - (a) all the activities; or
 - (b) any particular activity or activities,
@@ -254,7 +254,7 @@ as it considers it appropriate to make.
 
 ### Powers of entry etc.
 
-**5.**[^key-73805e849b7a818ef64c1b1e0a34fd9c] (1) For the purposes of monitoring and ensuring compliance with the terms and conditions of licences under section 8(1), the powers mentioned in sub-paragraph (2) are exercisable by the Commission and any person authorised by the Commission for the purpose of the exercise of those powers.
+**5.**[^c-73805e849b7a818ef64c1b1e0a34fd9c] (1) For the purposes of monitoring and ensuring compliance with the terms and conditions of licences under section 8(1), the powers mentioned in sub-paragraph (2) are exercisable by the Commission and any person authorised by the Commission for the purpose of the exercise of those powers.
 
 (2) The powers are—
 
@@ -283,7 +283,7 @@ as that person reasonably requires.
 
 ### Powers of entry etc.: further provision
 
-**6.**[^key-43af625a889b2c97f7a95fc8daea07d6] (1) A person entitled to enter premises by virtue of the power mentioned in paragraph 5(2)(a)—
+**6.**[^c-43af625a889b2c97f7a95fc8daea07d6] (1) A person entitled to enter premises by virtue of the power mentioned in paragraph 5(2)(a)—
 
 - (a) may take on to the premises such other persons and such equipment as may be necessary; but this is, where that power is exercisable under a warrant, subject to the terms of the warrant; and
 - (b) must, if required to do so, produce written evidence of that entitlement.
@@ -313,7 +313,7 @@ is guilty of an offence.
 
 ### Warrants
 
-**7.**[^key-df8b101631340374298da0694b35ed73] (1) If a sheriff or justice of the peace is satisfied, by evidence on oath, that—
+**7.**[^c-df8b101631340374298da0694b35ed73] (1) If a sheriff or justice of the peace is satisfied, by evidence on oath, that—
 
 - (a) there are reasonable grounds for the exercise in relation to any premises of a power mentioned in paragraph 5(2); and
 - (b) at least one of the conditions mentioned in sub-paragraph (2) is fulfilled in relation to the premises,
@@ -338,7 +338,7 @@ the sheriff or justice may grant a warrant authorising the Commission (and any p
 
 ### Enforcement notices
 
-**8.**[^key-19bb7d960305bc885f8361b9d03f7912] (1) If it appears to the Commission (whether or not following the exercise of powers under paragraph 5)—
+**8.**[^c-19bb7d960305bc885f8361b9d03f7912] (1) If it appears to the Commission (whether or not following the exercise of powers under paragraph 5)—
 
 - (a) that—
   - (i) a water services provider or a sewerage services provider has contravened a term or condition of the licence held by the provider and the contravention is likely to recur; or
@@ -396,7 +396,7 @@ and may do so whether or not the notice has taken effect.
 
 ### Enforcement notices: offences
 
-**9.**[^key-08b8609c4a8d11b415dc8ca654cbc941] (1) Any water services provider or sewerage services provider, on whom an enforcement notice has been served, who—
+**9.**[^c-08b8609c4a8d11b415dc8ca654cbc941] (1) Any water services provider or sewerage services provider, on whom an enforcement notice has been served, who—
 
 - (a) fails to rectify, or (as the case may be) fails to take steps to prevent the recurrence of, a contravention specified in the notice—
   - (i) by the date specified in relation to the contravention under sub-paragraph (2)(c) of paragraph 8; or
@@ -416,7 +416,7 @@ is guilty of an offence.
 
 ### Revocation of licences
 
-**10.**[^key-aacd673774655b4ab2263d79b5f73fe1] (1) A water services licence or sewerage services licence may be revoked in accordance with this paragraph.
+**10.**[^c-aacd673774655b4ab2263d79b5f73fe1] (1) A water services licence or sewerage services licence may be revoked in accordance with this paragraph.
 
 (2) If it appears to the Commission that a water services provider or sewerage services provider, on whom an enforcement notice has been served, has—
 
@@ -464,7 +464,7 @@ the Commission may revoke the licence by serving on the provider a notice of rev
 
 ### Penalties for contravention of licence
 
-**11.**[^key-be8200e12e23fab0666270a8c1cf2b91] (1) Where it appears to the Commission that a water services provider or a sewerage services provider has contravened a term or condition of the licence held by the provider, the Commission may impose on the provider a financial penalty of such amount as it considers reasonable in the circumstances of the case.
+**11.**[^c-be8200e12e23fab0666270a8c1cf2b91] (1) Where it appears to the Commission that a water services provider or a sewerage services provider has contravened a term or condition of the licence held by the provider, the Commission may impose on the provider a financial penalty of such amount as it considers reasonable in the circumstances of the case.
 
 (2) The Commission—
 
@@ -493,7 +493,7 @@ the Commission may revoke the licence by serving on the provider a notice of rev
 
 ### Register of licences
 
-**12.**[^key-9fcd8c1c1e15df40bcb3a03f7f206e46] (1) The Commission must keep a register of water services licences and sewerage services licences in such manner as the Scottish Ministers may by order prescribe.
+**12.**[^c-9fcd8c1c1e15df40bcb3a03f7f206e46] (1) The Commission must keep a register of water services licences and sewerage services licences in such manner as the Scottish Ministers may by order prescribe.
 
 (2) The register must—
 
@@ -521,32 +521,32 @@ the Commission may revoke the licence by serving on the provider a notice of rev
 
 ## Annotations
 
-[^key-fa536b4059a4388b2af6a9346861d41a]: Commencement: Sch. 2 para. 1 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
+[^c-fa536b4059a4388b2af6a9346861d41a]: Commencement: Sch. 2 para. 1 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
 
-[^key-ac65fa36c5a8ae6ed0d578320b42fb8e]: Modification: Sch. 2 para. 1 applied (with modifications) (5.10.2006) by [Water Services and Sewerage Services Licences (Scotland) Order 2006 (S.S.I. 2006/464)](https://www.legislation.gov.uk/ssi/2006/464), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/464/article/1/1), [4](https://www.legislation.gov.uk/ssi/2006/464/article/4)
+[^c-ac65fa36c5a8ae6ed0d578320b42fb8e]: Modification: Sch. 2 para. 1 applied (with modifications) (5.10.2006) by [Water Services and Sewerage Services Licences (Scotland) Order 2006 (S.S.I. 2006/464)](https://www.legislation.gov.uk/ssi/2006/464), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/464/article/1/1), [4](https://www.legislation.gov.uk/ssi/2006/464/article/4)
 
-[^key-a9619b9e427272b5383362bd430c6db1]: Textual amendment: Sch. 2 paras. 1A, 1B and cross-headings inserted (20.11.2015 for the insertion of Sch. 2 para. 1A, 1.4.2016 in so far as not already in force) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/7/2), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.S.I. 2015/360](https://www.legislation.gov.uk/ssi/2015/360), [art. 2(a)](https://www.legislation.gov.uk/ssi/2015/360/article/2/a); [S.S.I. 2016/48](https://www.legislation.gov.uk/ssi/2016/48), [art. 2](https://www.legislation.gov.uk/ssi/2016/48/article/2)
+[^c-a9619b9e427272b5383362bd430c6db1]: Textual amendment: Sch. 2 paras. 1A, 1B and cross-headings inserted (20.11.2015 for the insertion of Sch. 2 para. 1A, 1.4.2016 in so far as not already in force) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/7/2), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.S.I. 2015/360](https://www.legislation.gov.uk/ssi/2015/360), [art. 2(a)](https://www.legislation.gov.uk/ssi/2015/360/article/2/a); [S.S.I. 2016/48](https://www.legislation.gov.uk/ssi/2016/48), [art. 2](https://www.legislation.gov.uk/ssi/2016/48/article/2)
 
-[^key-b65ecdbe8254c2f4fe3430314f61ad68]: Commencement: Sch. 2 para. 2 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
+[^c-b65ecdbe8254c2f4fe3430314f61ad68]: Commencement: Sch. 2 para. 2 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
 
-[^key-d6f19dd7f921cf9673f993e997a42b7c]: Modification: Sch. 2 para. 2 applied (with modifications) (5.10.2006) by [Water Services and Sewerage Services Licences (Scotland) Order 2006 (S.S.I. 2006/464)](https://www.legislation.gov.uk/ssi/2006/464), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/464/article/1/1), [4](https://www.legislation.gov.uk/ssi/2006/464/article/4)
+[^c-d6f19dd7f921cf9673f993e997a42b7c]: Modification: Sch. 2 para. 2 applied (with modifications) (5.10.2006) by [Water Services and Sewerage Services Licences (Scotland) Order 2006 (S.S.I. 2006/464)](https://www.legislation.gov.uk/ssi/2006/464), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/464/article/1/1), [4](https://www.legislation.gov.uk/ssi/2006/464/article/4)
 
-[^key-e10c7e4840dc7d8f56badac450567807]: Commencement: Sch. 2 para. 3 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
+[^c-e10c7e4840dc7d8f56badac450567807]: Commencement: Sch. 2 para. 3 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
 
-[^key-dac8850c9005fdb0650c086b2c8c8dca]: Commencement: Sch. 2 para. 4 in force at 8.1.2007 by [S.S.I. 2006/599](https://www.legislation.gov.uk/ssi/2006/599), [art. 2](https://www.legislation.gov.uk/ssi/2006/599/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/599/schedule)
+[^c-dac8850c9005fdb0650c086b2c8c8dca]: Commencement: Sch. 2 para. 4 in force at 8.1.2007 by [S.S.I. 2006/599](https://www.legislation.gov.uk/ssi/2006/599), [art. 2](https://www.legislation.gov.uk/ssi/2006/599/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/599/schedule)
 
-[^key-73805e849b7a818ef64c1b1e0a34fd9c]: Commencement: Sch. 2 para. 5 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
+[^c-73805e849b7a818ef64c1b1e0a34fd9c]: Commencement: Sch. 2 para. 5 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
 
-[^key-43af625a889b2c97f7a95fc8daea07d6]: Commencement: Sch. 2 para. 6 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
+[^c-43af625a889b2c97f7a95fc8daea07d6]: Commencement: Sch. 2 para. 6 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
 
-[^key-df8b101631340374298da0694b35ed73]: Commencement: Sch. 2 para. 7 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
+[^c-df8b101631340374298da0694b35ed73]: Commencement: Sch. 2 para. 7 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
 
-[^key-19bb7d960305bc885f8361b9d03f7912]: Commencement: Sch. 2 para. 8 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
+[^c-19bb7d960305bc885f8361b9d03f7912]: Commencement: Sch. 2 para. 8 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
 
-[^key-08b8609c4a8d11b415dc8ca654cbc941]: Commencement: Sch. 2 para. 9 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
+[^c-08b8609c4a8d11b415dc8ca654cbc941]: Commencement: Sch. 2 para. 9 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
 
-[^key-aacd673774655b4ab2263d79b5f73fe1]: Commencement: Sch. 2 para. 10 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
+[^c-aacd673774655b4ab2263d79b5f73fe1]: Commencement: Sch. 2 para. 10 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
 
-[^key-be8200e12e23fab0666270a8c1cf2b91]: Commencement: Sch. 2 para. 11 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
+[^c-be8200e12e23fab0666270a8c1cf2b91]: Commencement: Sch. 2 para. 11 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
 
-[^key-9fcd8c1c1e15df40bcb3a03f7f206e46]: Commencement: Sch. 2 para. 12 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
+[^c-9fcd8c1c1e15df40bcb3a03f7f206e46]: Commencement: Sch. 2 para. 12 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)

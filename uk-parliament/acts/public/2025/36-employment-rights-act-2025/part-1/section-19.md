@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Review of extent of right to time off for public duties[^key-8b77dbaac5dea9bc24c1ec445cbc0de3]
+## 19. Review of extent of right to time off for public duties[^c-8b77dbaac5dea9bc24c1ec445cbc0de3]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b77dbaac5dea9bc24c1ec445cbc0de3]: Commencement: S. 19 in force at Royal Assent, see [s. 159(1)(a)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/1/a)
+[^c-8b77dbaac5dea9bc24c1ec445cbc0de3]: Commencement: S. 19 in force at Royal Assent, see [s. 159(1)(a)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/1/a)

@@ -35,15 +35,15 @@ An Act to make provision about the disclosure of information relating to trade.
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Trade functions: disclosure of information by HMRC[^key-ac5420d918b7a9b2663542b5ab70f606]
+## 1. Trade functions: disclosure of information by HMRC[^c-ac5420d918b7a9b2663542b5ab70f606]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Trade functions: disclosure of information by other authorities[^key-3fc1fdaa99b15d92b6180a43f2beb50b]
+## 2. Trade functions: disclosure of information by other authorities[^c-3fc1fdaa99b15d92b6180a43f2beb50b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offence relating to disclosure under section 2[^key-4cc94467fb56d5f9b8c2a2305c6132d4]
+## 3. Offence relating to disclosure under section 2[^c-4cc94467fb56d5f9b8c2a2305c6132d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -74,8 +74,8 @@ In this Act—
 
 ## Annotations
 
-[^key-ac5420d918b7a9b2663542b5ab70f606]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/2020/28/section/1) expires (30.6.2021) by [The Trade Act 2021 (Commencement No. 1 and Expiry Provision) Regulations 2021 (S.I. 2021/550)](https://www.legislation.gov.uk/uksi/2021/550), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2021/550/regulation/5/a)
+[^c-ac5420d918b7a9b2663542b5ab70f606]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/2020/28/section/1) expires (30.6.2021) by [The Trade Act 2021 (Commencement No. 1 and Expiry Provision) Regulations 2021 (S.I. 2021/550)](https://www.legislation.gov.uk/uksi/2021/550), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2021/550/regulation/5/a)
 
-[^key-3fc1fdaa99b15d92b6180a43f2beb50b]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/2020/28/section/2) expires (30.6.2021) by [The Trade Act 2021 (Commencement No. 1 and Expiry Provision) Regulations 2021 (S.I. 2021/550)](https://www.legislation.gov.uk/uksi/2021/550), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2021/550/regulation/5/b)
+[^c-3fc1fdaa99b15d92b6180a43f2beb50b]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/2020/28/section/2) expires (30.6.2021) by [The Trade Act 2021 (Commencement No. 1 and Expiry Provision) Regulations 2021 (S.I. 2021/550)](https://www.legislation.gov.uk/uksi/2021/550), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2021/550/regulation/5/b)
 
-[^key-4cc94467fb56d5f9b8c2a2305c6132d4]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/2020/28/section/3) expires (30.6.2021) by [The Trade Act 2021 (Commencement No. 1 and Expiry Provision) Regulations 2021 (S.I. 2021/550)](https://www.legislation.gov.uk/uksi/2021/550), [reg. 5(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/5/c)
+[^c-4cc94467fb56d5f9b8c2a2305c6132d4]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/2020/28/section/3) expires (30.6.2021) by [The Trade Act 2021 (Commencement No. 1 and Expiry Provision) Regulations 2021 (S.I. 2021/550)](https://www.legislation.gov.uk/uksi/2021/550), [reg. 5(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/5/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 271. Notices sent simultaneously to the same person[^key-9a712d5ff6167d6957617790fcf9413d]
+## 271. Notices sent simultaneously to the same person[^c-9a712d5ff6167d6957617790fcf9413d]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 12.15 of the 1991 Rules.
 
 ## Annotations
 
-[^key-9a712d5ff6167d6957617790fcf9413d]: Commencement: Rule 271 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-9a712d5ff6167d6957617790fcf9413d]: Commencement: Rule 271 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

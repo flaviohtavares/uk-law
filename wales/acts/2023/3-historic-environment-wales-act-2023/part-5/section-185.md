@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 185. Meaning of “decision document” and “correctable error”[^key-553f49d4d9730847094256921b3c038b][^key-8f35256e60073ccc1c12c89527a86207]
+## 185. Meaning of “decision document” and “correctable error”[^c-553f49d4d9730847094256921b3c038b][^c-8f35256e60073ccc1c12c89527a86207]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ and “**error**” includes omission.
 
 ## Annotations
 
-[^key-553f49d4d9730847094256921b3c038b]: Commencement: S. 185 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-553f49d4d9730847094256921b3c038b]: Commencement: S. 185 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-8f35256e60073ccc1c12c89527a86207]: Commencement: [S. 185](https://www.legislation.gov.uk/asc/2023/3/section/185) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-8f35256e60073ccc1c12c89527a86207]: Commencement: [S. 185](https://www.legislation.gov.uk/asc/2023/3/section/185) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

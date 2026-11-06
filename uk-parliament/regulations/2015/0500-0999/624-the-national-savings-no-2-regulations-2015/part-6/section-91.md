@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Payments into and from the National Savings Bank[^key-f2a59b75b6e75786c20d70d7669161b3]
+## 91. Payments into and from the National Savings Bank[^c-f2a59b75b6e75786c20d70d7669161b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ an amount credited to an account under this regulation is not to be counted.
 
 ## Annotations
 
-[^key-f2a59b75b6e75786c20d70d7669161b3]: Commencement: Reg. 91 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-f2a59b75b6e75786c20d70d7669161b3]: Commencement: Reg. 91 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

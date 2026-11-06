@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107EA. Exercise of fire and rescue functions[^key-c21d236103722888879824cc493eef26][^key-f78856540a0ef1754d6c0a1da23b73a9]
+## 107EA. Exercise of fire and rescue functions[^c-c21d236103722888879824cc493eef26][^c-f78856540a0ef1754d6c0a1da23b73a9]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-b0e6f2bca81092e519ac6548dd9c28fd] This section applies to a mayor for the area of a combined authority who—
+(1)[^c-b0e6f2bca81092e519ac6548dd9c28fd] This section applies to a mayor for the area of a combined authority who—
 
 - (a) by virtue of—
   - (i) section 107D(1), or
@@ -51,7 +51,7 @@ summary: ''
 - (c) members of staff transferred to the chief constable under a scheme made by virtue of section 107EC(1);
 - (d) members of staff appointed by the chief constable under section 107EC(2).
 
-(5) Provision in an order under section 107D(1) , or in section 1(2B) of the Fire and Rescue Services Act 2004,[^key-e79013a95b8c4f2a219610c59f953f3c] for a function to be exercisable only by the mayor for the area of a combined authority is subject to provision made by virtue of subsection (2).
+(5) Provision in an order under section 107D(1) , or in section 1(2B) of the Fire and Rescue Services Act 2004,[^c-e79013a95b8c4f2a219610c59f953f3c] for a function to be exercisable only by the mayor for the area of a combined authority is subject to provision made by virtue of subsection (2).
 
 (6) This section is subject to—
 
@@ -65,10 +65,10 @@ summary: ''
 
 ## Annotations
 
-[^key-c21d236103722888879824cc493eef26]: Textual amendment: Ss. 107EA-107EG inserted (31.1.2017 for specified purposes, 17.7.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2017/3/section/8/2), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/726](https://www.legislation.gov.uk/uksi/2017/726), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/726/regulation/2/a)
+[^c-c21d236103722888879824cc493eef26]: Textual amendment: Ss. 107EA-107EG inserted (31.1.2017 for specified purposes, 17.7.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2017/3/section/8/2), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/726](https://www.legislation.gov.uk/uksi/2017/726), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/726/regulation/2/a)
 
-[^key-f78856540a0ef1754d6c0a1da23b73a9]: Textual amendment: Ss. 107D-107F inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2016/1/section/4/1), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
+[^c-f78856540a0ef1754d6c0a1da23b73a9]: Textual amendment: Ss. 107D-107F inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2016/1/section/4/1), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
 
-[^key-b0e6f2bca81092e519ac6548dd9c28fd]: Textual amendment: S. 107EA(1) substituted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 49(1)(a)](https://www.legislation.gov.uk/ukpga/2026/23/section/49/1/a), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-b0e6f2bca81092e519ac6548dd9c28fd]: Textual amendment: S. 107EA(1) substituted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 49(1)(a)](https://www.legislation.gov.uk/ukpga/2026/23/section/49/1/a), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
-[^key-e79013a95b8c4f2a219610c59f953f3c]: Textual amendment: Words in s. 107EA(5) inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 49(1)(b)](https://www.legislation.gov.uk/ukpga/2026/23/section/49/1/b), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-e79013a95b8c4f2a219610c59f953f3c]: Textual amendment: Words in s. 107EA(5) inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 49(1)(b)](https://www.legislation.gov.uk/ukpga/2026/23/section/49/1/b), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

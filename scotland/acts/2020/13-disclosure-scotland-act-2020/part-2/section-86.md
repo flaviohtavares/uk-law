@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86. Confirmation of scheme membership under the PVG Act[^key-5ea7b9954303bfefc56376ed20cf86e4][^key-5a3903bf68451cc070459ed2135c13ce]
+## 86. Confirmation of scheme membership under the PVG Act[^c-5ea7b9954303bfefc56376ed20cf86e4][^c-5a3903bf68451cc070459ed2135c13ce]
 
 *Extent: S*
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5ea7b9954303bfefc56376ed20cf86e4]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2020/13/section/86) in force at 30.9.2024 for specified purposes by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
+[^c-5ea7b9954303bfefc56376ed20cf86e4]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2020/13/section/86) in force at 30.9.2024 for specified purposes by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
 
-[^key-5a3903bf68451cc070459ed2135c13ce]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2020/13/section/86) in force at 1.4.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule) (with [regs. 6](https://www.legislation.gov.uk/ssi/2025/27/regulation/6), [11](https://www.legislation.gov.uk/ssi/2025/27/regulation/11), [14](https://www.legislation.gov.uk/ssi/2025/27/regulation/14)) (as amended by S.S.I. 2025/73, [regs. 1](https://www.legislation.gov.uk/ssi/2025/73/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/73/regulation/2/2) and S.S.I. 2025/84, [regs. 1](https://www.legislation.gov.uk/ssi/2025/84/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/84/regulation/2/2))
+[^c-5a3903bf68451cc070459ed2135c13ce]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2020/13/section/86) in force at 1.4.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule) (with [regs. 6](https://www.legislation.gov.uk/ssi/2025/27/regulation/6), [11](https://www.legislation.gov.uk/ssi/2025/27/regulation/11), [14](https://www.legislation.gov.uk/ssi/2025/27/regulation/14)) (as amended by S.S.I. 2025/73, [regs. 1](https://www.legislation.gov.uk/ssi/2025/73/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/73/regulation/2/2) and S.S.I. 2025/84, [regs. 1](https://www.legislation.gov.uk/ssi/2025/84/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/84/regulation/2/2))

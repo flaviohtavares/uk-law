@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Mirrors and other devices for indirect vision[^key-ed49b0f2ab3484410d8b253fc241076b][^key-83b8961cab0f3ba67b41f3ba37c449df]
+## 33. Mirrors and other devices for indirect vision[^c-ed49b0f2ab3484410d8b253fc241076b][^c-83b8961cab0f3ba67b41f3ba37c449df]
 
 *Extent: E+W+S*
 
-(1) Save as provided in paragraphs (5) to (6H)[^key-6321424e4fa8455f44ba00dd38125f43] and (10)[^key-94c3e78738095a73e313c871bfd972da], a motor vehicle (not being a road roller) which is of a class specified in an item in column 2 of the Table shall be fitted with such mirror or mirrors or other device for indirect vision, if any, as are specified in that item in column 3; and any mirror or other device for indirect vision which is fitted to such a vehicle shall, whether or not it is required to be fitted, comply with the requirements, if any, specified in that item in columns 4 and 5.
+(1) Save as provided in paragraphs (5) to (6H)[^c-6321424e4fa8455f44ba00dd38125f43] and (10)[^c-94c3e78738095a73e313c871bfd972da], a motor vehicle (not being a road roller) which is of a class specified in an item in column 2 of the Table shall be fitted with such mirror or mirrors or other device for indirect vision, if any, as are specified in that item in column 3; and any mirror or other device for indirect vision which is fitted to such a vehicle shall, whether or not it is required to be fitted, comply with the requirements, if any, specified in that item in columns 4 and 5.
 
 (2) Save as provided in paragraph (5), each exterior mirror with which a vehicle is required to be fitted in accordance with item 2 or 8 of the Table shall, if the vehicle has a technically permissible maximum weight (as mentioned in Annex 1 to Community Directive 71/127) exceeding 3500 kg, be a Class II mirror (as described in that Annex) and shall in any other case be a Class II or a Class III mirror (as described in that Annex).
 
@@ -52,7 +52,7 @@ summary: ''
 - (c) Annex II to Community Directive 2003/97, excluding paragraph 3.4; or
 - (d) Annex II to Community Directive 2005/27, excluding paragraph 3.4.
 
-(6A)[^key-e32baa40407b280f892f92b29ba010cf] The requirements set out in paragraph (1) and the Table are modified as set out in paragraphs (6C) and (6D) in so far as those requirements relate to a relevant vehicle and to the fitting of class IV and class V mirrors on the passenger’s side of that vehicle.
+(6A)[^c-e32baa40407b280f892f92b29ba010cf] The requirements set out in paragraph (1) and the Table are modified as set out in paragraphs (6C) and (6D) in so far as those requirements relate to a relevant vehicle and to the fitting of class IV and class V mirrors on the passenger’s side of that vehicle.
 
 (6B) The alternative requirements set out in paragraph (5) do not apply in so far as those requirements relate to a relevant vehicle and to the fitting of class IV and class V mirrors on the passenger’s side of the vehicle.
 
@@ -82,7 +82,7 @@ but is equipped in the manner described in article 3(3) of Community Directive 2
 - (b) “mirror” means any device with a reflecting surface, excluding devices such as periscopes, intended to give a clear view to the rear, side or front of the vehicle;
 - (c) “interior mirror” means a device defined in sub-paragraph (a), which can be fitted in the passenger compartment of a vehicle;
 - (d) “exterior mirror” means a device defined in sub-paragraph (a), which can be fitted on the external surface of a vehicle;
-- (e)[^key-481d805b3b1270002f15294a4b3f1898] “class IV” and “class V”, in relation to mirrors, have the meanings given in point 1.1.1.14 of Annex I to Community Directive 2003/97; and
+- (e)[^c-481d805b3b1270002f15294a4b3f1898] “class IV” and “class V”, in relation to mirrors, have the meanings given in point 1.1.1.14 of Annex I to Community Directive 2003/97; and
 - (f) “a relevant vehicle” means a vehicle which—
   - (i) would be a goods vehicle of a class referred to in column 2 of item 4 or 6 of the Table if “1st January 2000” were substituted for “26th January 2007”; and
   - (ii) is not outside the scope of Community Directive 2007/38 by virtue of article 2(2)(b) or (c) of that Directive.
@@ -94,9 +94,9 @@ but is equipped in the manner described in article 3(3) of Community Directive 2
 
 when drawing a trailer the references to a vehicle in the definitions in paragraph (7) shall be construed as including references to that trailer.
 
-(9)[^key-9eedde5b540fb10496000c01e2264597] Where a provision is applied by paragraph (6C) or (6D) to a vehicle which was first used on or after 1st January 2000, that provision applies to the vehicle whatever the date of manufacture of the vehicle, and regulation 4(2) is disapplied accordingly.
+(9)[^c-9eedde5b540fb10496000c01e2264597] Where a provision is applied by paragraph (6C) or (6D) to a vehicle which was first used on or after 1st January 2000, that provision applies to the vehicle whatever the date of manufacture of the vehicle, and regulation 4(2) is disapplied accordingly.
 
-(10)[^key-1d4705e813ec9d377626334c570f76b0] A vehicle within scope of paragraph (1) will be deemed compliant with the requirements of this regulation if it has a camera-monitor system where the requirements in ECE Regulation 46.04, other than those at paragraphs 13, 14, and 17 to 21 of that Regulation, are met.
+(10)[^c-1d4705e813ec9d377626334c570f76b0] A vehicle within scope of paragraph (1) will be deemed compliant with the requirements of this regulation if it has a camera-monitor system where the requirements in ECE Regulation 46.04, other than those at paragraphs 13, 14, and 17 to 21 of that Regulation, are met.
 
 TABLE
 
@@ -122,24 +122,24 @@ TABLE
 </tbody>
 </table>
 
-[^key-23ffdcae5d24f21cd09daa75ddb7a4a0]
+[^c-23ffdcae5d24f21cd09daa75ddb7a4a0]
 
 ## Annotations
 
-[^key-ed49b0f2ab3484410d8b253fc241076b]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1986/1078/regulation/33) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-ed49b0f2ab3484410d8b253fc241076b]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1986/1078/regulation/33) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-83b8961cab0f3ba67b41f3ba37c449df]: Textual amendment: [Reg. 33](https://www.legislation.gov.uk/uksi/1986/1078/regulation/33) substituted (12.12.2005) by [The Road Vehicles (Construction and Use)(Amendment)(No. 4) Regulations 2005 (S.I. 2005/3165)](https://www.legislation.gov.uk/uksi/2005/3165), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3165/regulation/1), [5](https://www.legislation.gov.uk/uksi/2005/3165/regulation/5), [Sch.](https://www.legislation.gov.uk/uksi/2005/3165/schedule)
+[^c-83b8961cab0f3ba67b41f3ba37c449df]: Textual amendment: [Reg. 33](https://www.legislation.gov.uk/uksi/1986/1078/regulation/33) substituted (12.12.2005) by [The Road Vehicles (Construction and Use)(Amendment)(No. 4) Regulations 2005 (S.I. 2005/3165)](https://www.legislation.gov.uk/uksi/2005/3165), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3165/regulation/1), [5](https://www.legislation.gov.uk/uksi/2005/3165/regulation/5), [Sch.](https://www.legislation.gov.uk/uksi/2005/3165/schedule)
 
-[^key-6321424e4fa8455f44ba00dd38125f43]: Textual amendment: Words in [reg. 33(1)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/33/1) substituted (31.3.2009) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2009 (S.I. 2009/142)](https://www.legislation.gov.uk/uksi/2009/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/142/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2009/142/regulation/3/2)
+[^c-6321424e4fa8455f44ba00dd38125f43]: Textual amendment: Words in [reg. 33(1)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/33/1) substituted (31.3.2009) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2009 (S.I. 2009/142)](https://www.legislation.gov.uk/uksi/2009/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/142/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2009/142/regulation/3/2)
 
-[^key-94c3e78738095a73e313c871bfd972da]: Textual amendment: Words in [reg. 33(1)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/33/1) inserted (1.4.2025) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1312)](https://www.legislation.gov.uk/uksi/2024/1312), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1312/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2024/1312/regulation/4/a)
+[^c-94c3e78738095a73e313c871bfd972da]: Textual amendment: Words in [reg. 33(1)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/33/1) inserted (1.4.2025) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1312)](https://www.legislation.gov.uk/uksi/2024/1312), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1312/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2024/1312/regulation/4/a)
 
-[^key-e32baa40407b280f892f92b29ba010cf]: Textual amendment: [Reg. 33(6A)-(6H)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/33/6A) inserted (31.3.2009) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2009 (S.I. 2009/142)](https://www.legislation.gov.uk/uksi/2009/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/142/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2009/142/regulation/3/3)
+[^c-e32baa40407b280f892f92b29ba010cf]: Textual amendment: [Reg. 33(6A)-(6H)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/33/6A) inserted (31.3.2009) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2009 (S.I. 2009/142)](https://www.legislation.gov.uk/uksi/2009/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/142/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2009/142/regulation/3/3)
 
-[^key-481d805b3b1270002f15294a4b3f1898]: Textual amendment: [Reg. 33(7)(e)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/33/7/e)[(f)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/33/7/f) added (31.3.2009) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2009 (S.I. 2009/142)](https://www.legislation.gov.uk/uksi/2009/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/142/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2009/142/regulation/3/4)
+[^c-481d805b3b1270002f15294a4b3f1898]: Textual amendment: [Reg. 33(7)(e)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/33/7/e)[(f)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/33/7/f) added (31.3.2009) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2009 (S.I. 2009/142)](https://www.legislation.gov.uk/uksi/2009/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/142/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2009/142/regulation/3/4)
 
-[^key-9eedde5b540fb10496000c01e2264597]: Textual amendment: [Reg. 33(9)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/33/9) added (31.3.2009) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2009 (S.I. 2009/142)](https://www.legislation.gov.uk/uksi/2009/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/142/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2009/142/regulation/3/5)
+[^c-9eedde5b540fb10496000c01e2264597]: Textual amendment: [Reg. 33(9)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/33/9) added (31.3.2009) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2009 (S.I. 2009/142)](https://www.legislation.gov.uk/uksi/2009/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/142/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2009/142/regulation/3/5)
 
-[^key-1d4705e813ec9d377626334c570f76b0]: Textual amendment: [Reg. 33(10)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/33/10) inserted (1.4.2025) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1312)](https://www.legislation.gov.uk/uksi/2024/1312), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1312/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2024/1312/regulation/4/b)
+[^c-1d4705e813ec9d377626334c570f76b0]: Textual amendment: [Reg. 33(10)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/33/10) inserted (1.4.2025) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1312)](https://www.legislation.gov.uk/uksi/2024/1312), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1312/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2024/1312/regulation/4/b)
 
-[^key-23ffdcae5d24f21cd09daa75ddb7a4a0]: Textual amendment: Words in [reg. 33](https://www.legislation.gov.uk/uksi/1986/1078/regulation/33) Table substituted (9.3.2015) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2015 (S.I. 2015/142)](https://www.legislation.gov.uk/uksi/2015/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2015/142/regulation/13)
+[^c-23ffdcae5d24f21cd09daa75ddb7a4a0]: Textual amendment: Words in [reg. 33](https://www.legislation.gov.uk/uksi/1986/1078/regulation/33) Table substituted (9.3.2015) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2015 (S.I. 2015/142)](https://www.legislation.gov.uk/uksi/2015/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2015/142/regulation/13)

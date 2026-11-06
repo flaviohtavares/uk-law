@@ -35,7 +35,7 @@ summary: ''
 (5) Condition D is met if—
 
 - (a) the product has been in medicinal use for a continuous period of at least 30 years, and
-- (b)[^key-c9cf99a76ec6197d7e74b3f9bf4798f5] in relation to—
+- (b)[^c-c9cf99a76ec6197d7e74b3f9bf4798f5] in relation to—
   - (i) a THR(NI) or THR(UK), the product has been in medicinal use in the European Union for a continuous period of at least 15 years;
   - (ii) a THR(GB), the product has been in medicinal use in the United Kingdom or a country included in the list published under regulation 125A(1) for a continuous period of at least 15 years.
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9cf99a76ec6197d7e74b3f9bf4798f5]: Textual amendment: Reg. 125(5)(b) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 110](https://www.legislation.gov.uk/uksi/2019/775/regulation/110) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 82](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/82)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c9cf99a76ec6197d7e74b3f9bf4798f5]: Textual amendment: Reg. 125(5)(b) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 110](https://www.legislation.gov.uk/uksi/2019/775/regulation/110) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 82](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/82)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

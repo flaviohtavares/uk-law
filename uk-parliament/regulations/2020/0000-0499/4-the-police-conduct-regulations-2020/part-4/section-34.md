@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Timing of misconduct meeting[^key-ceeeaee86fcea2e93732f79b6d892bbc]
+## 34. Timing of misconduct meeting[^c-ceeeaee86fcea2e93732f79b6d892bbc]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ the misconduct meeting must be postponed to the date or time proposed by the off
 
 ## Annotations
 
-[^key-ceeeaee86fcea2e93732f79b6d892bbc]: Commencement: Reg. 34 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-ceeeaee86fcea2e93732f79b6d892bbc]: Commencement: Reg. 34 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)

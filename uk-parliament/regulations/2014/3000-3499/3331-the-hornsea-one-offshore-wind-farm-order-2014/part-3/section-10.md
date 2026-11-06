@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Agreements with street authorities[^key-b890cfd45b94d819b3c56e932bbf2f54]
+## 10. Agreements with street authorities[^c-b890cfd45b94d819b3c56e932bbf2f54]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b890cfd45b94d819b3c56e932bbf2f54]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/uksi/2014/3331/article/10) substituted (1.5.2015) by [The Hornsea One Offshore Wind Farm (Correction) Order 2015 (S.I. 2015/1280)](https://www.legislation.gov.uk/uksi/2015/1280), [art. 1](https://www.legislation.gov.uk/uksi/2015/1280/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/1280/schedule)
+[^c-b890cfd45b94d819b3c56e932bbf2f54]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/uksi/2014/3331/article/10) substituted (1.5.2015) by [The Hornsea One Offshore Wind Farm (Correction) Order 2015 (S.I. 2015/1280)](https://www.legislation.gov.uk/uksi/2015/1280), [art. 1](https://www.legislation.gov.uk/uksi/2015/1280/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/1280/schedule)

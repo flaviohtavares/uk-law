@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Essential services[^key-5cc69a96b3a687322669884692ab478d]
+## 15. Essential services[^c-5cc69a96b3a687322669884692ab478d]
 
 *Extent: N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Subject to regulation 20, a contractor must provide the services described in paragraphs (3) and (5) throughout the core hours.
 
-(3) The services described in this paragraph are services required for the management of his r registered patients and temporary residents[^key-d0e4610367d19484df2f0eedcc24c518] who are, or believe themselves to be –
+(3) The services described in this paragraph are services required for the management of his r registered patients and temporary residents[^c-d0e4610367d19484df2f0eedcc24c518] who are, or believe themselves to be –
 
 - (a) ill, with conditions from which recovery is generally expected;
 - (b) terminally ill; or
@@ -39,7 +39,7 @@ delivered in the manner determined by the practice in discussion with the patien
   - (a) offering consultation and, where appropriate, physical examination for the purpose of identifying the need, if any, for treatment or further investigation; and
   - (b) the making available of such treatment or further investigation as is necessary and appropriate, including the referral of the patient for other services under the Order and liaison with other health care professionals involved in the patient’s treatment and care.
 
-(5) The services described in this paragraph are the provision of appropriate ongoing treatment and care to all registered patients and temporary patients[^key-dab232d15400b6813aa6799e8af694bc] taking account of their specific needs including –
+(5) The services described in this paragraph are the provision of appropriate ongoing treatment and care to all registered patients and temporary patients[^c-dab232d15400b6813aa6799e8af694bc] taking account of their specific needs including –
 
 - (a) the provision of advice in connection with the patient’s health, including relevant health promotion advice; and
 - (b) the referral of the patient for other services under the Order.
@@ -64,10 +64,10 @@ delivered in the manner determined by the practice in discussion with the patien
 
 ## Annotations
 
-[^key-5cc69a96b3a687322669884692ab478d]: Commencement: Reg. 15 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-5cc69a96b3a687322669884692ab478d]: Commencement: Reg. 15 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-d0e4610367d19484df2f0eedcc24c518]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/nisr/2004/140/regulation/15/3) substituted (31.12.2020) by [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2019/784/regulation/4/3/a) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d0e4610367d19484df2f0eedcc24c518]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/nisr/2004/140/regulation/15/3) substituted (31.12.2020) by [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2019/784/regulation/4/3/a) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00043]: Footnote: World Health Organisation, 1992 ISBN 92 4 1544 19 8 (v. I) NLM Classification: WB 15
 
-[^key-dab232d15400b6813aa6799e8af694bc]: Textual amendment: Words in [reg. 15(5)](https://www.legislation.gov.uk/nisr/2004/140/regulation/15/5) substituted (31.12.2020) by [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2019/784/regulation/4/3/b) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dab232d15400b6813aa6799e8af694bc]: Textual amendment: Words in [reg. 15(5)](https://www.legislation.gov.uk/nisr/2004/140/regulation/15/5) substituted (31.12.2020) by [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2019/784/regulation/4/3/b) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

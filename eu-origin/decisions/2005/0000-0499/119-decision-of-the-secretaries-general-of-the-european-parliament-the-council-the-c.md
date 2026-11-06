@@ -35,66 +35,66 @@ on the organisation and running of the European Administrative School
 
 (2005/119/EC) (revoked)
 
-[^key-f12d318ef0b029697acbac069c8ab855]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f12d318ef0b029697acbac069c8ab855]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Duties of the European Administrative School[^key-f12d318ef0b029697acbac069c8ab855]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Responsibilities of the institutions[^key-f12d318ef0b029697acbac069c8ab855]
+## Article 1. Duties of the European Administrative School[^c-f12d318ef0b029697acbac069c8ab855]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Other services[^key-f12d318ef0b029697acbac069c8ab855]
+## Article 2. Responsibilities of the institutions[^c-f12d318ef0b029697acbac069c8ab855]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Complaints and requests[^key-f12d318ef0b029697acbac069c8ab855]
+## Article 3. Other services[^c-f12d318ef0b029697acbac069c8ab855]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Organisation of activities[^key-f12d318ef0b029697acbac069c8ab855]
+## Article 4. Complaints and requests[^c-f12d318ef0b029697acbac069c8ab855]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Management Board[^key-f12d318ef0b029697acbac069c8ab855]
+## Article 5. Organisation of activities[^c-f12d318ef0b029697acbac069c8ab855]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Tasks of the Management Board[^key-f12d318ef0b029697acbac069c8ab855]
+## Article 6. Management Board[^c-f12d318ef0b029697acbac069c8ab855]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Appointment of staff[^key-f12d318ef0b029697acbac069c8ab855]
+## Article 7. Tasks of the Management Board[^c-f12d318ef0b029697acbac069c8ab855]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Duties of the Principal and management of staff[^key-f12d318ef0b029697acbac069c8ab855]
+## Article 8. Appointment of staff[^c-f12d318ef0b029697acbac069c8ab855]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. The Head of the School[^key-f12d318ef0b029697acbac069c8ab855]
+## Article 9. Duties of the Principal and management of staff[^c-f12d318ef0b029697acbac069c8ab855]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Financial aspects[^key-f12d318ef0b029697acbac069c8ab855]
+## Article 10. The Head of the School[^c-f12d318ef0b029697acbac069c8ab855]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Review of duties[^key-f12d318ef0b029697acbac069c8ab855]
+## Article 11. Financial aspects[^c-f12d318ef0b029697acbac069c8ab855]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Review of the attachment to the Office[^key-f12d318ef0b029697acbac069c8ab855]
+## Article 12. Review of duties[^c-f12d318ef0b029697acbac069c8ab855]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Effective date[^key-f12d318ef0b029697acbac069c8ab855]
+## Article 13. Review of the attachment to the Office[^c-f12d318ef0b029697acbac069c8ab855]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f12d318ef0b029697acbac069c8ab855]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 14. Effective date[^c-f12d318ef0b029697acbac069c8ab855]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-f12d318ef0b029697acbac069c8ab855]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f12d318ef0b029697acbac069c8ab855]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f12d318ef0b029697acbac069c8ab855]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

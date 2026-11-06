@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. New crematorium: notice[^key-33e39f643c3f56e37a95ea921298f1b0]
+## 59. New crematorium: notice[^c-33e39f643c3f56e37a95ea921298f1b0]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33e39f643c3f56e37a95ea921298f1b0]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2016/20/section/59) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [regs. 7](https://www.legislation.gov.uk/ssi/2018/380/regulation/7), [8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
+[^c-33e39f643c3f56e37a95ea921298f1b0]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2016/20/section/59) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [regs. 7](https://www.legislation.gov.uk/ssi/2018/380/regulation/7), [8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))

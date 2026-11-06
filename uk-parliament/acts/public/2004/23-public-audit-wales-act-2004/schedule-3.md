@@ -26,8 +26,8 @@ Section 68
 
 **1.** (1) The Secretary of State may, with the consent of the Assembly, by order—
 
-- (a) make one or more schemes for the transfer to the Wales Audit Office[^key-dd9015664ce87398d4bac42882b14f44] of defined property, rights and liabilities of the Comptroller and Auditor General, [^key-4b14cb5e986c33ed4a85d483a502076f]...
-- (b)[^key-4b14cb5e986c33ed4a85d483a502076f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) make one or more schemes for the transfer to the Wales Audit Office[^c-dd9015664ce87398d4bac42882b14f44] of defined property, rights and liabilities of the Comptroller and Auditor General, [^c-4b14cb5e986c33ed4a85d483a502076f]...
+- (b)[^c-4b14cb5e986c33ed4a85d483a502076f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The property, rights and liabilities which may be the subject of a scheme include—
 
@@ -67,9 +67,9 @@ and references in this Schedule (other than this sub-paragraph) or section 68 to
 
 **2.** Before making an order under paragraph 1, the Secretary of State must consult—
 
-- (a) the Wales Audit Office,and[^key-2649468c9d824c90506d21a427365683]
-- (b) [^key-f2bb73c4e6da4ac953a5466533349332]... the Comptroller and Auditor General, [^key-afe4541b329bf4cfd9b0a9184d9da78b]...
-- (c)[^key-afe4541b329bf4cfd9b0a9184d9da78b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the Wales Audit Office,and[^c-2649468c9d824c90506d21a427365683]
+- (b) [^c-f2bb73c4e6da4ac953a5466533349332]... the Comptroller and Auditor General, [^c-afe4541b329bf4cfd9b0a9184d9da78b]...
+- (c)[^c-afe4541b329bf4cfd9b0a9184d9da78b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Transfer of employees
 
@@ -108,12 +108,12 @@ and references in this Schedule (other than this sub-paragraph) or section 68 to
 
 ## Annotations
 
-[^key-dd9015664ce87398d4bac42882b14f44]: Textual amendment: Words in Sch. 3 substituted (1.4.2014) by [The Public Audit (Wales) Act 2013 (Consequential Amendments) Order 2014 (No. 77)](https://www.legislation.gov.uk/wsi/2014/77), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2014/77/article/1/1), [3(4)](https://www.legislation.gov.uk/wsi/2014/77/article/3/4)
+[^c-dd9015664ce87398d4bac42882b14f44]: Textual amendment: Words in Sch. 3 substituted (1.4.2014) by [The Public Audit (Wales) Act 2013 (Consequential Amendments) Order 2014 (No. 77)](https://www.legislation.gov.uk/wsi/2014/77), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2014/77/article/1/1), [3(4)](https://www.legislation.gov.uk/wsi/2014/77/article/3/4)
 
-[^key-4b14cb5e986c33ed4a85d483a502076f]: Textual amendment: Sch. 3 para. 1(1)(b) and preceding word omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 65(2)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/65/2) (with [Sch. 12 para. 66](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/66)); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+[^c-4b14cb5e986c33ed4a85d483a502076f]: Textual amendment: Sch. 3 para. 1(1)(b) and preceding word omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 65(2)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/65/2) (with [Sch. 12 para. 66](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/66)); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
 
-[^key-2649468c9d824c90506d21a427365683]: Textual amendment: Word in Sch. 3 para. 2(a) inserted (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 65(3)(a)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/65/3/a) (with [Sch. 12 para. 66](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/66)); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+[^c-2649468c9d824c90506d21a427365683]: Textual amendment: Word in Sch. 3 para. 2(a) inserted (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 65(3)(a)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/65/3/a) (with [Sch. 12 para. 66](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/66)); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
 
-[^key-f2bb73c4e6da4ac953a5466533349332]: Textual amendment: Words in Sch. 3 para. 2(b) omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 65(3)(b)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/65/3/b) (with [Sch. 12 para. 66](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/66)); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+[^c-f2bb73c4e6da4ac953a5466533349332]: Textual amendment: Words in Sch. 3 para. 2(b) omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 65(3)(b)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/65/3/b) (with [Sch. 12 para. 66](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/66)); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
 
-[^key-afe4541b329bf4cfd9b0a9184d9da78b]: Textual amendment: Sch. 3 para. 2(c) and preceding word omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 65(3)(c)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/65/3/c) (with [Sch. 12 para. 66](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/66)); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+[^c-afe4541b329bf4cfd9b0a9184d9da78b]: Textual amendment: Sch. 3 para. 2(c) and preceding word omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 65(3)(c)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/65/3/c) (with [Sch. 12 para. 66](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/66)); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)

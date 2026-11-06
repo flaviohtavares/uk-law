@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Meaning of “deposit-taking business”, “chief executive” and “manager”[^key-7355fbf4e5148ae0a2ce15a1988f1ce6]
+## 35. Meaning of “deposit-taking business”, “chief executive” and “manager”[^c-7355fbf4e5148ae0a2ce15a1988f1ce6]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7355fbf4e5148ae0a2ce15a1988f1ce6]: Commencement: Art. 35 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-7355fbf4e5148ae0a2ce15a1988f1ce6]: Commencement: Art. 35 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00038]: Footnote: Part II was inserted by the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40), section 18, Schedule 7.

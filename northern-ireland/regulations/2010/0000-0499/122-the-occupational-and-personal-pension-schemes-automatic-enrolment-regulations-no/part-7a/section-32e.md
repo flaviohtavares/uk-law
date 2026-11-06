@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32E. Alternative requirements for a money purchase scheme[^key-dffb89b4fcb87c9c0f583cb7b572d605]
+## 32E. Alternative requirements for a money purchase scheme[^c-dffb89b4fcb87c9c0f583cb7b572d605]
 
 *Extent: N.I.*
 
-(1) Subject to paragraph (1A), in relation to[^key-0a4b97d9c67116ae621f338b31ab7da5] a money purchase scheme to which section 20 (quality requirement: UK money purchase schemes) applies [^key-41c8c071db0537b527e3ece8e431a9e5]..., the prescribed alternative requirement is the first, second or third set of requirements set out in paragraph (2), (3) or (4).
+(1) Subject to paragraph (1A), in relation to[^c-0a4b97d9c67116ae621f338b31ab7da5] a money purchase scheme to which section 20 (quality requirement: UK money purchase schemes) applies [^c-41c8c071db0537b527e3ece8e431a9e5]..., the prescribed alternative requirement is the first, second or third set of requirements set out in paragraph (2), (3) or (4).
 
-(1A)[^key-eb77a26611b4b761b416aeb6768b7715] In relation to a money purchase scheme—
+(1A)[^c-eb77a26611b4b761b416aeb6768b7715] In relation to a money purchase scheme—
 
 - (a) to which section 20 of the Act applies, and
 - (b) which provides collective money purchase benefits,
@@ -59,10 +59,10 @@ the prescribed alternative requirement is the first, second or third set of requ
 
 ## Annotations
 
-[^key-dffb89b4fcb87c9c0f583cb7b572d605]: Textual amendment: Pt. 7A inserted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/237)](https://www.legislation.gov.uk/nisr/2012/237), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/237/regulation/1/1/a), [2(3)](https://www.legislation.gov.uk/nisr/2012/237/regulation/2/3)
+[^c-dffb89b4fcb87c9c0f583cb7b572d605]: Textual amendment: Pt. 7A inserted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/237)](https://www.legislation.gov.uk/nisr/2012/237), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/237/regulation/1/1/a), [2(3)](https://www.legislation.gov.uk/nisr/2012/237/regulation/2/3)
 
-[^key-0a4b97d9c67116ae621f338b31ab7da5]: Textual amendment: Words in [reg. 32E(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/32E/1) substituted (26.1.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations (Northern Ireland) 2024 (S.R. 2024/15)](https://www.legislation.gov.uk/nisr/2024/15), [regs. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1), [36](https://www.legislation.gov.uk/nisr/2024/15/regulation/36), [Sch. 7 para. 2(2)(a)](https://www.legislation.gov.uk/nisr/2024/15/schedule/7/paragraph/2/2/a)
+[^c-0a4b97d9c67116ae621f338b31ab7da5]: Textual amendment: Words in [reg. 32E(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/32E/1) substituted (26.1.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations (Northern Ireland) 2024 (S.R. 2024/15)](https://www.legislation.gov.uk/nisr/2024/15), [regs. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1), [36](https://www.legislation.gov.uk/nisr/2024/15/regulation/36), [Sch. 7 para. 2(2)(a)](https://www.legislation.gov.uk/nisr/2024/15/schedule/7/paragraph/2/2/a)
 
-[^key-41c8c071db0537b527e3ece8e431a9e5]: Textual amendment: Words in [reg. 32E(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/32E/1) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [29(2)](https://www.legislation.gov.uk/uksi/2019/193/regulation/29/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-41c8c071db0537b527e3ece8e431a9e5]: Textual amendment: Words in [reg. 32E(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/32E/1) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [29(2)](https://www.legislation.gov.uk/uksi/2019/193/regulation/29/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-eb77a26611b4b761b416aeb6768b7715]: Textual amendment: [Reg. 32E(1A)](https://www.legislation.gov.uk/nisr/2010/122/regulation/32E/1A) inserted (26.1.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations (Northern Ireland) 2024 (S.R. 2024/15)](https://www.legislation.gov.uk/nisr/2024/15), [regs. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1), [36](https://www.legislation.gov.uk/nisr/2024/15/regulation/36), [Sch. 7 para. 2(2)(b)](https://www.legislation.gov.uk/nisr/2024/15/schedule/7/paragraph/2/2/b)
+[^c-eb77a26611b4b761b416aeb6768b7715]: Textual amendment: [Reg. 32E(1A)](https://www.legislation.gov.uk/nisr/2010/122/regulation/32E/1A) inserted (26.1.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations (Northern Ireland) 2024 (S.R. 2024/15)](https://www.legislation.gov.uk/nisr/2024/15), [regs. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1), [36](https://www.legislation.gov.uk/nisr/2024/15/regulation/36), [Sch. 7 para. 2(2)(b)](https://www.legislation.gov.uk/nisr/2024/15/schedule/7/paragraph/2/2/b)

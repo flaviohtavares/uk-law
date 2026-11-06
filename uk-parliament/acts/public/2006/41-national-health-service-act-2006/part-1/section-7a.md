@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7A.. Exercise of Secretary of State’s public health functions[^key-af7a37e17309d3b489d07177b2a8070e]
+## 7A.. Exercise of Secretary of State’s public health functions[^c-af7a37e17309d3b489d07177b2a8070e]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 - (b) an integrated care board,
 - (c) a local authority (within the meaning of section 2B),
 - (d) a combined authority, or
-- (da)[^key-afe1e9c2db8012ee7c9e478f413fa3ca] a combined county authority, or
+- (da)[^c-afe1e9c2db8012ee7c9e478f413fa3ca] a combined county authority, or
 - (e) such other body as may be prescribed.
 
 (3) Arrangements under this section may be made on such terms as may be agreed between the parties including—
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-af7a37e17309d3b489d07177b2a8070e]: Textual amendment: [S. 7A](https://www.legislation.gov.uk/ukpga/2006/41/section/7A) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 42](https://www.legislation.gov.uk/ukpga/2022/31/section/42), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-af7a37e17309d3b489d07177b2a8070e]: Textual amendment: [S. 7A](https://www.legislation.gov.uk/ukpga/2006/41/section/7A) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 42](https://www.legislation.gov.uk/ukpga/2022/31/section/42), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-afe1e9c2db8012ee7c9e478f413fa3ca]: Textual amendment: [S. 7A(2)(da)](https://www.legislation.gov.uk/ukpga/2006/41/section/7A/2/da) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 163](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/163) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-afe1e9c2db8012ee7c9e478f413fa3ca]: Textual amendment: [S. 7A(2)(da)](https://www.legislation.gov.uk/ukpga/2006/41/section/7A/2/da) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 163](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/163) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

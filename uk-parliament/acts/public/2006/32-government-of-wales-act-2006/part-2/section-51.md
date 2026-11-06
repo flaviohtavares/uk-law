@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) No more than 17[^key-39266a2ce60955b03b4ad03f86cf90bf] persons are to hold a relevant Welsh Ministerial office at any time.
+(1) No more than 17[^c-39266a2ce60955b03b4ad03f86cf90bf] persons are to hold a relevant Welsh Ministerial office at any time.
 
 (2) A relevant Welsh Ministerial office means the office of Welsh Minister appointed under section 48 or the office of Deputy Welsh Minister.
 
@@ -40,6 +40,6 @@ summary: ''
 
 [^c16526871]: Commencement: Ss. 1-94, 97-106 in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
-[^key-39266a2ce60955b03b4ad03f86cf90bf]: Textual amendment: Word in s. 51(1) substituted (coming into force on the day after the day of the poll for the first general election held after 6.4.2026) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 5(a)](https://www.legislation.gov.uk/asc/2024/4/section/5/a), [25(4)](https://www.legislation.gov.uk/asc/2024/4/section/25/4)
+[^c-39266a2ce60955b03b4ad03f86cf90bf]: Textual amendment: Word in s. 51(1) substituted (coming into force on the day after the day of the poll for the first general election held after 6.4.2026) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 5(a)](https://www.legislation.gov.uk/asc/2024/4/section/5/a), [25(4)](https://www.legislation.gov.uk/asc/2024/4/section/25/4)
 
 [^M_F_65d3485e-0333-4a5d-ea60-deea7558f8d6]: Textual amendment: S. 51(3)-(5) inserted (coming into force on the day after the day of the poll for the first general election held after 6.4.2026) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 5(b)](https://www.legislation.gov.uk/asc/2024/4/section/5/b), [25(4)](https://www.legislation.gov.uk/asc/2024/4/section/25/4)

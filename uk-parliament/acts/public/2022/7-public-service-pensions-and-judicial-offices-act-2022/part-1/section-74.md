@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Scheme regulations[^key-b9fb62d610ec4da092cea48eba4a5687][^key-c54905e67de1c45068de8ac584dd1d81]
+## 74. Scheme regulations[^c-b9fb62d610ec4da092cea48eba4a5687][^c-c54905e67de1c45068de8ac584dd1d81]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b9fb62d610ec4da092cea48eba4a5687]: Commencement: S. 74 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-b9fb62d610ec4da092cea48eba4a5687]: Commencement: S. 74 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-c54905e67de1c45068de8ac584dd1d81]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2022/7/section/74) in force at 4.7.2023 in so far as not already in force by [S.I. 2023/746](https://www.legislation.gov.uk/uksi/2023/746), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/746/regulation/2/a)
+[^c-c54905e67de1c45068de8ac584dd1d81]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2022/7/section/74) in force at 4.7.2023 in so far as not already in force by [S.I. 2023/746](https://www.legislation.gov.uk/uksi/2023/746), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/746/regulation/2/a)

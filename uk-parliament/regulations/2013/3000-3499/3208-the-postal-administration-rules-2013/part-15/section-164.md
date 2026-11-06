@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 164. Electronic delivery in postal administration proceedings—general[^key-d956309035d524bf98df35053919ce6c]
+## 164. Electronic delivery in postal administration proceedings—general[^c-d956309035d524bf98df35053919ce6c]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d956309035d524bf98df35053919ce6c]: Commencement: [Rule 164](https://www.legislation.gov.uk/uksi/2013/3208/rule/164) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-d956309035d524bf98df35053919ce6c]: Commencement: [Rule 164](https://www.legislation.gov.uk/uksi/2013/3208/rule/164) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

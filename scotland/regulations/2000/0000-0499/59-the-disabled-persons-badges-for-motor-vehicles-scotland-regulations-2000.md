@@ -46,39 +46,39 @@ The Scottish Ministers, in exercise of the powers conferred upon them by section
 
 ## PART I — PRELIMINARY
 
-### 1. Citation, commencement and extent[^key-fe9eca4a48322ec0b1d107988d31cc39]
+### 1. Citation, commencement and extent[^c-fe9eca4a48322ec0b1d107988d31cc39]
 
 (1) These Regulations may be cited as the Disabled Persons (Badges for Motor Vehicles) (Scotland) Regulations 2000 and shall come into force on 1st April 2000.
 
 (2) These Regulations extend to Scotland only.
 
-### 2. Interpretation[^key-82d6d3fa8f71acb3c2bec3c95391ad10]
+### 2. Interpretation[^c-82d6d3fa8f71acb3c2bec3c95391ad10]
 
 (1) In these Regulations–
 
 - “the 1970 Act” means the Chronically Sick and Disabled Persons Act 1970;
-- [^key-8754a94fbd35988be5ecd1347f3338d0]...
+- [^c-8754a94fbd35988be5ecd1347f3338d0]...
 - “the 1984 Act” means the Road Traffic Regulation Act 1984[^f00002];
-- “date of issue” means the date on which a disabled person’s badge is first valid for use;[^key-a3610ed8753908db7011b49735291daf]
-- “disabled person” means a person [^key-4e4027138bf2c6e38eb9466a93027691]... falling within at least one of the prescribed descriptions in regulation 4;
+- “date of issue” means the date on which a disabled person’s badge is first valid for use;[^c-a3610ed8753908db7011b49735291daf]
+- “disabled person” means a person [^c-4e4027138bf2c6e38eb9466a93027691]... falling within at least one of the prescribed descriptions in regulation 4;
 - “disabled person’s badge” means , subject to paragraph (1A),[^M_F_aba24564-bbf9-44f4-d782-40467d406f06] a badge in the form prescribed by regulation 11 issued by a local authority for display on a motor vehicle driven by a disabled person, or used for the carriage of a disabled person, and includes a replacement badge issued in accordance with regulation 7;
 - “disabled person’s concession” has the meaning given by section 117(3) of the 1984 Act;
-- “holder”, in relation to a disabled person’s badge, means the individual or organisation[^key-fdca8342cfe8a04b929b15cd82141c49] to whom a disabled person’s badge was issued;
-- “independent mobility assessor” means a person (“person A”) who at the time of any assessment of another person (“person B”) for the purposes of the certification referred to in regulation 4(2)(f) or (g)[^key-d343259da40c86100db2fb9dd4f2c381] or (2A)(c)[^key-2536bf245baef87165d74c51f91150b6]—
-  - (a) falls within paragraph (1B) of this regulation;[^key-ceb3304260cc9e0d30b6bdbe739c2db2]
+- “holder”, in relation to a disabled person’s badge, means the individual or organisation[^c-fdca8342cfe8a04b929b15cd82141c49] to whom a disabled person’s badge was issued;
+- “independent mobility assessor” means a person (“person A”) who at the time of any assessment of another person (“person B”) for the purposes of the certification referred to in regulation 4(2)(f) or (g)[^c-d343259da40c86100db2fb9dd4f2c381] or (2A)(c)[^c-2536bf245baef87165d74c51f91150b6]—
+  - (a) falls within paragraph (1B) of this regulation;[^c-ceb3304260cc9e0d30b6bdbe739c2db2]
   - (b) has never been employed or engaged as a provider of medical services to person B where “medical services” includes all forms of medical treatment and investigations to establish whether treatment is needed but does not include an assessment conducted to establish whether person B is eligible for services provided by a local authority (including the provision of a disabled person’s badge); and
-  - (c) is not, in the opinion of the local authority, precluded by reason of personal or commercial relationship with person B from providing an independent assessment of person B’s ability to walk or an independent assessment for the purposes of regulation 4(2A)(c) (as the case may be)[^key-6fac90ef404880ea381ef0dd94d78524];
-- [^key-95fb6d80c6871300c619f8b42e8b73e1]...
+  - (c) is not, in the opinion of the local authority, precluded by reason of personal or commercial relationship with person B from providing an independent assessment of person B’s ability to walk or an independent assessment for the purposes of regulation 4(2A)(c) (as the case may be)[^c-6fac90ef404880ea381ef0dd94d78524];
+- [^c-95fb6d80c6871300c619f8b42e8b73e1]...
 - “individual’s badge” means a disabled person’s badge issued to an individual disabled person;
-- [^key-95fb6d80c6871300c619f8b42e8b73e1]...
+- [^c-95fb6d80c6871300c619f8b42e8b73e1]...
 - “issuing authority”, in relation to a disabled person’s badge, means the local authority which issued the badge; and
 - “local authority” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994[^f00003];
-- “organisation” means an organisation concerned with the care of disabled persons to which a disabled person’s badge may be issued in accordance with section 21(4) of the 1970 Act; and[^key-e56ae234a3029a9d783db93d935b6dde]
+- “organisation” means an organisation concerned with the care of disabled persons to which a disabled person’s badge may be issued in accordance with section 21(4) of the 1970 Act; and[^c-e56ae234a3029a9d783db93d935b6dde]
 - “organisational badge” means a disabled person’s badge issued to an organisation.
 
-(1A)[^M_F_1d6d500a-1559-4cfd-88c4-9652be8d89d6] For the purposes of regulations 12 to 16, the definition of “disabled person’s badge” in paragraph (1) shall include a badge issued under Regulations having effect in England or Wales under section 21 of the Chronically Sick and Disabled Persons Act 1970 , a badge issued under a provision of the law of Northern Ireland corresponding to that section or a badge issued by any member State[^key-40ea7bf044d9b30591a833f1d8256905] [^key-e35813c8b43f7f2d06c06745b2d2ebaa]... for purposes corresponding to the purposes for which badges under that section are issued.
+(1A)[^M_F_1d6d500a-1559-4cfd-88c4-9652be8d89d6] For the purposes of regulations 12 to 16, the definition of “disabled person’s badge” in paragraph (1) shall include a badge issued under Regulations having effect in England or Wales under section 21 of the Chronically Sick and Disabled Persons Act 1970 , a badge issued under a provision of the law of Northern Ireland corresponding to that section or a badge issued by any member State[^c-40ea7bf044d9b30591a833f1d8256905] [^c-e35813c8b43f7f2d06c06745b2d2ebaa]... for purposes corresponding to the purposes for which badges under that section are issued.
 
-(1B)[^key-78403f9e323a272a4966f275c2afb81f] Person A falls within this paragraph if that person—
+(1B)[^c-78403f9e323a272a4966f275c2afb81f] Person A falls within this paragraph if that person—
 
 - (a) is a member of a profession to which section 60(2) of the Health Act 1999 applies; and
 - (b) is recognised by the local authority as having the expertise necessary to assess on behalf of the local authority, as the case may be—
@@ -87,12 +87,12 @@ The Scottish Ministers, in exercise of the powers conferred upon them by section
 
 (2) In these Regulations a reference to an order made under any provision of the 1984 Act is to an order made, or having effect as if made, under that provision including an order varying or revoking an order made or having effect as if made under that Act.
 
-(3)[^key-fd6413e7ff03d04a74e9b282a3ebb31f] In these Regulations “relevant conviction” means any conviction for an offence specified in paragraph (4) committed in relation to a disabled person’s badge of—
+(3)[^c-fd6413e7ff03d04a74e9b282a3ebb31f] In these Regulations “relevant conviction” means any conviction for an offence specified in paragraph (4) committed in relation to a disabled person’s badge of—
 
 - (a) the holder of that badge; or
 - (b) any other person using that badge with the knowledge of the holder at any time during which the offence was being committed.
 
-(4)[^key-13a8d43fe9a05089b44de3ef3b7e9ade] The offences mentioned in paragraph (3) are any offence—
+(4)[^c-13a8d43fe9a05089b44de3ef3b7e9ade] The offences mentioned in paragraph (3) are any offence—
 
 - (a) under section 21(4B) of the 1970 Act;
 - (b) under section 115 or 117 of the 1984 Act; or
@@ -104,66 +104,66 @@ The Scottish Ministers, in exercise of the powers conferred upon them by section
 
 (5) Any notice given under these Regulations shall be in writing.
 
-### 3. Transitional provision[^key-c7be5b25ce769aa389736c4e442bc980][^key-712227edef123582b61c9394dba66970]
+### 3. Transitional provision[^c-c7be5b25ce769aa389736c4e442bc980][^c-712227edef123582b61c9394dba66970]
 
-(1)[^key-af4b91bb6d3fcf44383583ad1c501315] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-af4b91bb6d3fcf44383583ad1c501315] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-af4b91bb6d3fcf44383583ad1c501315] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-af4b91bb6d3fcf44383583ad1c501315] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Any order made under the 1984 Act which refers to a disabled person’s badge shall, in relation to times falling after the coming into force of these Regulations, have effect as if the reference included a reference to a badge issued, or having effect as if issued, in accordance with these Regulations.
 
 ## PART II — ISSUE, DURATION AND REVOCATION OF BADGES
 
-### 4. Descriptions of disabled persons[^key-0cd807d9a35f8d12dac2f6d236fa3ae5]
+### 4. Descriptions of disabled persons[^c-0cd807d9a35f8d12dac2f6d236fa3ae5]
 
-(1)[^key-9b158c9de84b9ab3eb444addea2859d4] The prescribed descriptions of disabled person to whom a disabled person’s badge may be issued are–
+(1)[^c-9b158c9de84b9ab3eb444addea2859d4] The prescribed descriptions of disabled person to whom a disabled person’s badge may be issued are–
 
 - (a) a person who is more than 2 years old and falls within one or more of the descriptions specified in paragraph (2);
-- (b) a person who is not more than 3[^key-b7232ae757f4cf1361b9cc6738077b97] years old and falls within either or both of the descriptions specified in paragraph (3).
+- (b) a person who is not more than 3[^c-b7232ae757f4cf1361b9cc6738077b97] years old and falls within either or both of the descriptions specified in paragraph (3).
 
-(2) The descriptions referred to in paragraph (1)(a)[^key-7f62b429a6abd9a2d125babffa371046] are a person who–
+(2) The descriptions referred to in paragraph (1)(a)[^c-7f62b429a6abd9a2d125babffa371046] are a person who–
 
 - (a) receives the higher rate of the mobility component of the disability living allowance in accordance with section 73 of the Social Security Contributions and Benefits Act 1992[^f00006];
-- (aa)[^key-fc5f26c9e8f4df208ea26903f2660a9d] receives personal independence payment and who has been assessed as having—
+- (aa)[^c-fc5f26c9e8f4df208ea26903f2660a9d] receives personal independence payment and who has been assessed as having—
   - (i) severely limited ability (within the meaning of regulation 6(3)(b) of the Social Security (Personal Independence Payment) Regulations 2013) in respect of activity 1 (planning and following journeys) in Part 3 of Schedule 1 to those Regulations; or
   - (ii) limited ability (within the meaning of regulation 6(3)(a) of those Regulations) in respect of activity 2 (moving around) in that Part;
-- (ab)[^key-dec8b4dd545222c19178f4d4c0676937] has—
+- (ab)[^c-dec8b4dd545222c19178f4d4c0676937] has—
   - (i) had entitlement to disability living allowance terminated in accordance with the Personal Independence Payment (Transitional Provisions) Regulations 2013 and immediately before that happened was a disabled person by virtue of sub-paragraph (a); and
   - (ii) made a revision request which falls within paragraph (5);
 - (ac) has had entitlement to disability living allowance terminated in accordance with the Personal Independence Payment (Transitional Provisions) Regulations 2013 and immediately before that happened was a disabled person by virtue of sub-paragraph (a) with the relevant award of disability living allowance having been made without limit of time;
-- (ad)[^key-9e844bd5476958baa6a9499948fe0b6c] receives the higher rate of the mobility component of child disability payment in accordance with regulation 13 (mobility requirements: higher rate mobility component) of the Disability Assistance for Children and Young People (Scotland) Regulations 2021, or short-term assistance in accordance with Part 1 of the schedule (short-term assistance) of those Regulations where the “earlier determination” referred to in paragraph 1(1)(a) of that schedule awarded the higher rate of the mobility component of child disability payment,
-- (ae)[^key-7a5fa1bba46f19746a3b2032026737cd] receives—
+- (ad)[^c-9e844bd5476958baa6a9499948fe0b6c] receives the higher rate of the mobility component of child disability payment in accordance with regulation 13 (mobility requirements: higher rate mobility component) of the Disability Assistance for Children and Young People (Scotland) Regulations 2021, or short-term assistance in accordance with Part 1 of the schedule (short-term assistance) of those Regulations where the “earlier determination” referred to in paragraph 1(1)(a) of that schedule awarded the higher rate of the mobility component of child disability payment,
+- (ae)[^c-7a5fa1bba46f19746a3b2032026737cd] receives—
   - (i) the enhanced rate of the mobility component of adult disability payment in accordance with regulation 6 (mobility component) of the Disability Assistance for Working Age People (Scotland) Regulations 2022 (“**the Adult Disability Payment Regulations**”), where the person has obtained a score of 12 points in relation to mobility activity 1 (planning and following journeys) set out in Column 1 of the table in Part 3 of schedule 1 (adult disability payment determination – mobility activities) of those Regulations,
   - (ii) the standard or enhanced rate of the mobility component of adult disability payment in accordance with regulation 6 of the Adult Disability Payment Regulations, where the person has obtained a score of at least 8 points in relation to mobility activity 2 (moving around) set out in Column 1 of the table in Part 3 of schedule 1 of those Regulations, or
   - (iii) short-term assistance in accordance with Part 1 (short-term assistance) of schedule 2 of the Adult Disability Payment Regulations where the “earlier determination” referred to in paragraph 1(1)(a) of that schedule entitled the person to receive an award of adult disability payment as described in either head (i) or (ii) above,
-- (af)[^key-42be75f0b1c144ebf57cc13e95a7d5cb] receives the higher rate of the mobility component of Scottish adult disability living allowance given in accordance with regulation 8 (mobility requirements: higher rate mobility component) of the Scottish Adult Disability Living Allowance Regulations 2025, or short-term assistance in accordance with Part 1 of schedule 1 (short-term assistance) of those Regulations where the “earlier determination” referred to in paragraph 1(1)(a) of schedule 1 (entitlement to short-term assistance) of those Regulations awarded the higher rate of the mobility component of Scottish adult disability living allowance,
-- (b) is in receipt of a grant pursuant to[^key-fa012ca62b407eaada770086715e6eb7] section 46 of the National Health Service (Scotland) Act 1978[^f00008];
+- (af)[^c-42be75f0b1c144ebf57cc13e95a7d5cb] receives the higher rate of the mobility component of Scottish adult disability living allowance given in accordance with regulation 8 (mobility requirements: higher rate mobility component) of the Scottish Adult Disability Living Allowance Regulations 2025, or short-term assistance in accordance with Part 1 of schedule 1 (short-term assistance) of those Regulations where the “earlier determination” referred to in paragraph 1(1)(a) of schedule 1 (entitlement to short-term assistance) of those Regulations awarded the higher rate of the mobility component of Scottish adult disability living allowance,
+- (b) is in receipt of a grant pursuant to[^c-fa012ca62b407eaada770086715e6eb7] section 46 of the National Health Service (Scotland) Act 1978[^f00008];
 - (c) is a blind person within the meaning of section 64(1) of the National Assistance Act 1948[^f00009] or is registered as blind under section 29(4)(g) of that Act;
 - (d) receives a mobility supplement under article 26A of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 1983[^f00010] including such a supplement by virtue of any scheme or order under article 25A of the Personal Injuries (Civilians) Scheme 1983[^f00011];
-- (da)[^key-b0d91ae927720ff156290bc99cbd4b30] has—
+- (da)[^c-b0d91ae927720ff156290bc99cbd4b30] has—
   - (i) received a lump sum benefit under article 15(1)(a) of the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011 within tariff levels 1 to 8 (inclusive); and
   - (ii) been certified by the Secretary of State as having a permanent and substantial disability which causes inability to walk or very considerable difficulty in walking;
-- (e)[^key-d5c26f10f00b9a4d66266c04ec87b826] drives a vehicle regularly, has a severe [^key-72675e6841b636e6697789c878e0c93a]... disability in both arms and is unable to operate, or has considerable difficulty in operating, all or some types of parking meter;
-- (f) subject to paragraph (3A), has been certified by an independent mobility assessor as being[^key-110e52c5e88e7da84678d724957d126d] unable to walk or virtually unable to walk[^key-151e9ae55445dd0394321d9eaae6b9e7] by reason of a permanent and substantial disability; [^key-3d099940474196decbeb93e7ee2c8e9e]...
-- (g) subject to paragraph (3A), has been certified by an independent mobility assessor as being[^key-0c2513c81d0e6d1dd911cdfedaeff98e] unable to walk or virtually unable to walk[^key-467cdfb290c432c27ccfb638da6d3724] by reason of a temporary but substantial disability which is likely to last for a period of at least 12 months beginning with the date on which the badge is issued ; or[^key-e3ce3203efb36c8609cbbe98483e06d5]
+- (e)[^c-d5c26f10f00b9a4d66266c04ec87b826] drives a vehicle regularly, has a severe [^c-72675e6841b636e6697789c878e0c93a]... disability in both arms and is unable to operate, or has considerable difficulty in operating, all or some types of parking meter;
+- (f) subject to paragraph (3A), has been certified by an independent mobility assessor as being[^c-110e52c5e88e7da84678d724957d126d] unable to walk or virtually unable to walk[^c-151e9ae55445dd0394321d9eaae6b9e7] by reason of a permanent and substantial disability; [^c-3d099940474196decbeb93e7ee2c8e9e]...
+- (g) subject to paragraph (3A), has been certified by an independent mobility assessor as being[^c-0c2513c81d0e6d1dd911cdfedaeff98e] unable to walk or virtually unable to walk[^c-467cdfb290c432c27ccfb638da6d3724] by reason of a temporary but substantial disability which is likely to last for a period of at least 12 months beginning with the date on which the badge is issued ; or[^c-e3ce3203efb36c8609cbbe98483e06d5]
 - (h) falls within paragraph (2A).
 
-(2A)[^key-44353787cd2007524b8438ddc8661ddf] A person falls within this paragraph if that person—
+(2A)[^c-44353787cd2007524b8438ddc8661ddf] A person falls within this paragraph if that person—
 
-- (a) has a mental disorder within the meaning of section 328 of the Mental Health (Care and Treatment) (Scotland) Act 2003; and[^key-c32b9da1644e639fc9be09b7d2bf8e75]
-- (b)[^key-d824ae79de03a3c0e14f5aa9866d0429] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-bd96d739cee9b47f2f69df4bda2bf90a] subject to paragraph (3B), has been certified by an independent mobility assessor—
+- (a) has a mental disorder within the meaning of section 328 of the Mental Health (Care and Treatment) (Scotland) Act 2003; and[^c-c32b9da1644e639fc9be09b7d2bf8e75]
+- (b)[^c-d824ae79de03a3c0e14f5aa9866d0429] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-bd96d739cee9b47f2f69df4bda2bf90a] subject to paragraph (3B), has been certified by an independent mobility assessor—
   - (i) as temporarily lacking, for a period likely to last at least 12 months beginning with the date on which the badge is issued, an awareness of danger from traffic likely to compromise the safety of the person, or the safety of other persons, during journeys; or
   - (ii) as permanently lacking such awareness.
 
-(3)[^key-2f52b8ebd2e7ce83b7716472949db531] The descriptions referred to in paragraph (1)(b) are–
+(3)[^c-2f52b8ebd2e7ce83b7716472949db531] The descriptions referred to in paragraph (1)(b) are–
 
 - (a) a child who has a medical condition that requires that he be always accompanied by bulky medical equipment which can be kept in a motor vehicle but which cannot be carried around with the child without great difficulty;
 - (b) a child who has a medical condition that requires that he must always be kept near a motor vehicle so that he can if necessary be treated for that condition in the vehicle or taken quickly in the vehicle to a place where he can be so treated.
 
-(3A)[^key-988bad15c35dc17eedb5641a4f92db48] A person is to be deemed to be within the description set out in paragraph (2)(f) or (2)(g) in the absence of the certification otherwise required if, in the opinion of the local authority to which the application for a disabled person’s badge is being made, it is self evident by reason of the information the authority has about the person that the person has a permanent and substantial disability or a temporary and substantial disability which renders the person unable to walk or virtually unable to walk.
+(3A)[^c-988bad15c35dc17eedb5641a4f92db48] A person is to be deemed to be within the description set out in paragraph (2)(f) or (2)(g) in the absence of the certification otherwise required if, in the opinion of the local authority to which the application for a disabled person’s badge is being made, it is self evident by reason of the information the authority has about the person that the person has a permanent and substantial disability or a temporary and substantial disability which renders the person unable to walk or virtually unable to walk.
 
-(3B)[^key-eba4831fcf4a1cda2f41f6cfba9040a0] A person is deemed to be within the relevant description set out in paragraph (2A)(c) in the absence of the certification required there if, in the opinion of the local authority to which the application for a disabled person’s badge is being made, it is self-evident, by reason of the information the authority has about the person, that the person has a temporary or permanent lack of awareness of the type set out in the relevant description.
+(3B)[^c-eba4831fcf4a1cda2f41f6cfba9040a0] A person is deemed to be within the relevant description set out in paragraph (2A)(c) in the absence of the certification required there if, in the opinion of the local authority to which the application for a disabled person’s badge is being made, it is self-evident, by reason of the information the authority has about the person, that the person has a temporary or permanent lack of awareness of the type set out in the relevant description.
 
 (4) In this regulation–
 
@@ -173,92 +173,92 @@ The Scottish Ministers, in exercise of the powers conferred upon them by section
   - (iii) feed pumps;
   - (iv) parenteral equipment;
   - (v) syringe drivers;
-  - (vi) oxygen administration equipment; [^key-f8e37cfc3bc6a7b09672a5be86a422d6]...
+  - (vi) oxygen administration equipment; [^c-f8e37cfc3bc6a7b09672a5be86a422d6]...
   - (vii) continual oxygen saturation monitoring equipment; and
-  - (viii)[^key-0acfe7d8d6cd29b79071ffb41b724f3f] casts and associated medical equipment for the correction of hip dysplasia; [^key-f2d4842e81e50d1ee5f2023d9365d7b8]...
-- (b) “parking meter” has the same meaning as in the Road Traffic Regulation Act 1984 (see sections 46(2)(a) and 142(1)) ; and[^key-e2b98954a797afc8f32f05836dd9be83]
+  - (viii)[^c-0acfe7d8d6cd29b79071ffb41b724f3f] casts and associated medical equipment for the correction of hip dysplasia; [^c-f2d4842e81e50d1ee5f2023d9365d7b8]...
+- (b) “parking meter” has the same meaning as in the Road Traffic Regulation Act 1984 (see sections 46(2)(a) and 142(1)) ; and[^c-e2b98954a797afc8f32f05836dd9be83]
 - (c) “revision request” means an application to the Secretary of State for a revision under regulation 5 of the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Decisions and Appeals) Regulations 2013 of the decision as to whether the person in question is entitled to personal independence payment or on the amount of that payment.
 
-(5)[^key-150b9d353a234d6b7421a3d54390f3f6] A revision request falls within this paragraph if it is made by a person—
+(5)[^c-150b9d353a234d6b7421a3d54390f3f6] A revision request falls within this paragraph if it is made by a person—
 
 - (a) no earlier than a year before that person made the application for a disabled person’s badge which is under consideration;
 - (b) no earlier than a year before the expiry date of any disabled person’s badge held by that person.
 
-### 5. Organisational badges[^key-f2202ac6f480bfe0df8e92fa52ba17a7]
+### 5. Organisational badges[^c-f2202ac6f480bfe0df8e92fa52ba17a7]
 
 An organisational badge may be issued to an organisation for a motor vehicle which is to be used to carry disabled persons falling within one or more of the descriptions specified in regulation 4(2) or (3).
 
-### 6. Fee for issue and period of issue of a badge[^key-e39c6c6b1ebf791f4871d5275ba71c76]
+### 6. Fee for issue and period of issue of a badge[^c-e39c6c6b1ebf791f4871d5275ba71c76]
 
-(1) The fee (if any) which a local authority may charge for the issue of a disabled person’s badge is a fee not exceeding £20[^key-b34fe358ee8d8d83f85044e9a2ad6667].
+(1) The fee (if any) which a local authority may charge for the issue of a disabled person’s badge is a fee not exceeding £20[^c-b34fe358ee8d8d83f85044e9a2ad6667].
 
-(2)[^key-33dd60e1e0b8e92b3555c3e2c8b59fe2] Subject to paragraphs (3) and (4)[^key-327ee3111cc6b81e7815d60e21f8e23a][^key-379cea85faa3489006e1276347d49dec] and regulations 7(2) and 9, a disabled person’s badge shall be issued–
+(2)[^c-33dd60e1e0b8e92b3555c3e2c8b59fe2] Subject to paragraphs (3) and (4)[^c-327ee3111cc6b81e7815d60e21f8e23a][^c-379cea85faa3489006e1276347d49dec] and regulations 7(2) and 9, a disabled person’s badge shall be issued–
 
-- (a) to a person falling within the description specified in regulation 4(1)(b), for a period ending on the day immediately following his third[^key-a18c3ef143e4a80dedc703acaee2fe7b] birthday;
-- (b) to a person falling within the description specified in regulation 4(2)(a) , 4(2)(ad)[^key-a9e172d64d904b8232bd832e4bac51f2] , 4(2)(af)[^key-80d4f8369ef044cb587d5444345e3a86] or 4(2)(d), for whichever is the shorter of–
+- (a) to a person falling within the description specified in regulation 4(1)(b), for a period ending on the day immediately following his third[^c-a18c3ef143e4a80dedc703acaee2fe7b] birthday;
+- (b) to a person falling within the description specified in regulation 4(2)(a) , 4(2)(ad)[^c-a9e172d64d904b8232bd832e4bac51f2] , 4(2)(af)[^c-80d4f8369ef044cb587d5444345e3a86] or 4(2)(d), for whichever is the shorter of–
   - (i) the period of 3 years which begins with the date of issue; or
-  - (ii) the period which begins with the date of issue and ends on the date on which he will cease to receive the higher rate of the mobility component of the disability living allowance, the higher rate of the mobility component of Scottish adult disability living allowance, or short-term assistance[^key-eaf8ce5259811b5f0e59e072074fee64] , the child disability payment, the short-term assistance[^key-e576f3ad0b005426b35758d177128700] or the mobility supplement;
-- (ba)[^key-da67c68a491a5bdf9662e4b8d33d2484] to a person falling within the description specified in regulation 4(2)(aa) or 4(2)(ae)[^key-bf2770e1e2ca2f7769963c49f7ee76f4], for whichever is the shorter of—
+  - (ii) the period which begins with the date of issue and ends on the date on which he will cease to receive the higher rate of the mobility component of the disability living allowance, the higher rate of the mobility component of Scottish adult disability living allowance, or short-term assistance[^c-eaf8ce5259811b5f0e59e072074fee64] , the child disability payment, the short-term assistance[^c-e576f3ad0b005426b35758d177128700] or the mobility supplement;
+- (ba)[^c-da67c68a491a5bdf9662e4b8d33d2484] to a person falling within the description specified in regulation 4(2)(aa) or 4(2)(ae)[^c-bf2770e1e2ca2f7769963c49f7ee76f4], for whichever is the shorter of—
   - (i) the period of 3 years beginning with the date of issue; or
-  - (ii) the period which begins on the date of issue and ends on the date on which the relevant award of personal independence payment , adult disability payment, or short-term assistance[^key-8e745efde833c67357a5c79915c24a6b] ends;
-- (bb)[^key-e16e755ab78b5a5e74baa7e705fadb99] to a person falling within the description specified in regulation 4(2)(ab), for the period of 1 year beginning with the date of issue;
-- (c) to a person falling within the description specified in regulation 4(2)(g) or regulation 4(2A)(c)(i)[^key-8291c192055f126a953de24b78327047], for a period of such length as the local authority issuing it may determine, being not more than 3 years nor (except when granted by way of renewal) less than 1 year beginning with the date of issue;
-- (ca)[^key-324cb5e5c093c93d1bda1a5f31fc60ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d) to a person not falling within any of the foregoing sub-paragraphs[^key-bfa33867c0d2935d3e155712ccd40b78] for a period of 3 years beginning with the date of issue;
-- (e)[^key-1f5657c78618971fc965c503e6237e39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) the period which begins on the date of issue and ends on the date on which the relevant award of personal independence payment , adult disability payment, or short-term assistance[^c-8e745efde833c67357a5c79915c24a6b] ends;
+- (bb)[^c-e16e755ab78b5a5e74baa7e705fadb99] to a person falling within the description specified in regulation 4(2)(ab), for the period of 1 year beginning with the date of issue;
+- (c) to a person falling within the description specified in regulation 4(2)(g) or regulation 4(2A)(c)(i)[^c-8291c192055f126a953de24b78327047], for a period of such length as the local authority issuing it may determine, being not more than 3 years nor (except when granted by way of renewal) less than 1 year beginning with the date of issue;
+- (ca)[^c-324cb5e5c093c93d1bda1a5f31fc60ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) to a person not falling within any of the foregoing sub-paragraphs[^c-bfa33867c0d2935d3e155712ccd40b78] for a period of 3 years beginning with the date of issue;
+- (e)[^c-1f5657c78618971fc965c503e6237e39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-a694026fea5507b0116393248baacc9c] Where a person falls within sub-paragraph (b) or (ba) of paragraph (2) and also falls within sub-paragraph (c) of that paragraph, a badge shall be issued for whichever is the longer period under a sub-paragraph applying to him.
+(3)[^c-a694026fea5507b0116393248baacc9c] Where a person falls within sub-paragraph (b) or (ba) of paragraph (2) and also falls within sub-paragraph (c) of that paragraph, a badge shall be issued for whichever is the longer period under a sub-paragraph applying to him.
 
-(4)[^key-63854f71048841762d33c9d6ac59a2b0] Where a person falls within the description specified in regulation 4(2)(a) and is in receipt of an award of disability living allowance which has been extended whilst an application by that person for personal independence payment is being considered, a disabled person’s badge shall be issued for whichever is the shorter of—
+(4)[^c-63854f71048841762d33c9d6ac59a2b0] Where a person falls within the description specified in regulation 4(2)(a) and is in receipt of an award of disability living allowance which has been extended whilst an application by that person for personal independence payment is being considered, a disabled person’s badge shall be issued for whichever is the shorter of—
 
 - (a) the period of 3 years which begins with the date of issue; or
 - (b) the period which begins with the date of issue and runs for the same length of time as the award of disability living allowance which has been extended was made for.
 
-### 7. Replacement badges[^key-efcb31fd34292a10dcd4cb888408840a]
+### 7. Replacement badges[^c-efcb31fd34292a10dcd4cb888408840a]
 
-(1) When a disabled person’s badge (“the original badge”) has been lost, stolen or destroyed, or has become so damaged or faded as no longer to be adequately legible when displayed on a vehicle or as otherwise prevents it from being identified correctly or distinguished from a forgery[^key-a3b5cd044c70ae615ef85d97306b7d4a], a replacement badge may be issued in a form which identifies by consecutive numbering each successive badge issued to that disabled person or organisation (as the case may be) by the issuing authority[^M_F_c259a4e9-31e5-4ac7-e6e9-39b48489c55f] along with the date of issue and the date on which the original badge is no longer valid[^key-f1b56ec4aa4770b1da8866fe5761b693].
+(1) When a disabled person’s badge (“the original badge”) has been lost, stolen or destroyed, or has become so damaged or faded as no longer to be adequately legible when displayed on a vehicle or as otherwise prevents it from being identified correctly or distinguished from a forgery[^c-a3b5cd044c70ae615ef85d97306b7d4a], a replacement badge may be issued in a form which identifies by consecutive numbering each successive badge issued to that disabled person or organisation (as the case may be) by the issuing authority[^M_F_c259a4e9-31e5-4ac7-e6e9-39b48489c55f] along with the date of issue and the date on which the original badge is no longer valid[^c-f1b56ec4aa4770b1da8866fe5761b693].
 
 (2) A replacement badge shall be valid from the date of issue until such time as the original badge would have ceased to be valid.
 
-### 8. Grounds for refusal to issue a badge[^key-70c37635458fd8d12b497fa18235e9c2]
+### 8. Grounds for refusal to issue a badge[^c-70c37635458fd8d12b497fa18235e9c2]
 
 (1) A local authority may refuse to issue a badge on any of the grounds specified in paragraph (2).
 
 (2) The grounds are–
 
-- (a) the applicant holds or has held a badge issued under these Regulations [^key-3bc7976bcb44c4966373c58c5c268d63]... and misuse has led to a relevant conviction[^key-e2007bfa9215c32a60796a21732a749e];
+- (a) the applicant holds or has held a badge issued under these Regulations [^c-3bc7976bcb44c4966373c58c5c268d63]... and misuse has led to a relevant conviction[^c-e2007bfa9215c32a60796a21732a749e];
 - (b) the applicant fails to provide the local authority with adequate evidence–
-  - (i) in the case of an individual, that he is a person to whom one of the descriptions prescribed by regulation 4 applies or that he is resident in the area of that local authority[^key-f04fe5c69390db9478b60069fa55834a]; or
-  - (ii) in the case of an organisation[^key-6dc29a904c0dac5004a2ae1304380666], that it is an organisation eligible to apply for a disabled person’s badge in accordance with regulation 5;
-- (ba)[^key-b12389c8de7a8c040dee394a400bd14a] the applicant already holds a valid badge which has been issued by another issuing authority;
+  - (i) in the case of an individual, that he is a person to whom one of the descriptions prescribed by regulation 4 applies or that he is resident in the area of that local authority[^c-f04fe5c69390db9478b60069fa55834a]; or
+  - (ii) in the case of an organisation[^c-6dc29a904c0dac5004a2ae1304380666], that it is an organisation eligible to apply for a disabled person’s badge in accordance with regulation 5;
+- (ba)[^c-b12389c8de7a8c040dee394a400bd14a] the applicant already holds a valid badge which has been issued by another issuing authority;
 - (c) the applicant fails to pay the fee (if any) chargeable for the issue of a badge;
-- (ca)[^key-77ad11c5b52392719f63d2f527551806] in the case of an application made pursuant to regulation 4(2)(f) or (g), a report by an independent mobility assessor stating that one of the criteria specified in those provisions is satisfied has not been made available to the local authority in a form satisfactory to the local authority; or
+- (ca)[^c-77ad11c5b52392719f63d2f527551806] in the case of an application made pursuant to regulation 4(2)(f) or (g), a report by an independent mobility assessor stating that one of the criteria specified in those provisions is satisfied has not been made available to the local authority in a form satisfactory to the local authority; or
 - (d) the local authority has reasonable grounds for believing that the applicant–
   - (i) is not the person that he claims to be; or
   - (ii) would permit another person to whom the badge was not issued to display it on a motor vehicle.
 
 (3) Where a local authority receives an application for a disabled person’s badge and refuses to issue one, it shall give the applicant particulars of the grounds of refusal in its notice of determination.
 
-### 9. Return of badge to issuing authority[^key-9465bc5be60fef7bc5639664f6062988]
+### 9. Return of badge to issuing authority[^c-9465bc5be60fef7bc5639664f6062988]
 
-(1) Subject to paragraph (1A), a[^key-374743784a76b3db7303d6b21faa52fe] disabled person’s badge shall be returned to the issuing authority immediately on the occurrence of any of the following events, namely–
+(1) Subject to paragraph (1A), a[^c-374743784a76b3db7303d6b21faa52fe] disabled person’s badge shall be returned to the issuing authority immediately on the occurrence of any of the following events, namely–
 
 - (a) the expiry of the period for which the badge was issued;
-- (b) the death of the holder or, in the case of an organisational[^key-a1f5fbcbf271a25ff88e61055243bea3] badge, the organisation[^key-76fcf7d351e990544c834e4220e05528] ceasing to exist;
+- (b) the death of the holder or, in the case of an organisational[^c-a1f5fbcbf271a25ff88e61055243bea3] badge, the organisation[^c-76fcf7d351e990544c834e4220e05528] ceasing to exist;
 - (c) the holder of the badge ceases to be a disabled person or, in the case of an organisational badge, the organisation ceases to be eligible under regulation 5;
 - (d) a replacement badge has been issued under regulation 7 to replace a lost or stolen badge and that badge is subsequently found or recovered;
-- (e) the badge has become so damaged or faded as no longer to be adequately legible when displayed on a vehicle or has suffered any other damage which otherwise prevents it from being identified correctly or distinguished from a forgery[^key-779edf02979f8ba1b782ef3b1c5d1e84];
-- (f) the badge ceases to be required by the holder or another valid badge is issued to the holder by another issuing authority[^key-844eac8b514a874958b73649fafcf551].
+- (e) the badge has become so damaged or faded as no longer to be adequately legible when displayed on a vehicle or has suffered any other damage which otherwise prevents it from being identified correctly or distinguished from a forgery[^c-779edf02979f8ba1b782ef3b1c5d1e84];
+- (f) the badge ceases to be required by the holder or another valid badge is issued to the holder by another issuing authority[^c-844eac8b514a874958b73649fafcf551].
 
-(1A)[^key-9bd9122512a01cfa7c4314b6284038c0] A badge need not be returned under paragraph (1)(c) where—
+(1A)[^c-9bd9122512a01cfa7c4314b6284038c0] A badge need not be returned under paragraph (1)(c) where—
 
 - (a) a person has had entitlement to disability living allowance terminated in accordance with the Personal Independence Payment (Transitional Provisions) Regulations 2013; and
 - (b) immediately before that happened the person was a disabled person by virtue of regulation 4(2)(a) above.
 
 (2) Subject to the provisions of regulation 10, a disabled person’s badge shall, within the prescribed period, be returned to the issuing authority if the authority gives to the holder a notice–
 
-- (a) stating that the authority refuses to allow the badge to continue in use on account of its misuse leading to a relevant conviction[^key-8468fdf77bc26f9845a2af10015cc093] and giving particulars of that misuse; or
-- (b) stating that the authority is satisfied that the badge was obtained by false representation or that the holder has purported to transfer the badge to another person[^key-2dae8fd9b4979bf75f3fbd11bcfc551b].
+- (a) stating that the authority refuses to allow the badge to continue in use on account of its misuse leading to a relevant conviction[^c-8468fdf77bc26f9845a2af10015cc093] and giving particulars of that misuse; or
+- (b) stating that the authority is satisfied that the badge was obtained by false representation or that the holder has purported to transfer the badge to another person[^c-2dae8fd9b4979bf75f3fbd11bcfc551b].
 
 (3) For the purposes of paragraph (2) the prescribed period is–
 
@@ -268,7 +268,7 @@ An organisational badge may be issued to an organisation for a motor vehicle whi
 
 (4) The issuing authority may take such action as may be appropriate to recover a disabled person’s badge which the holder is liable to return in accordance with this regulation.
 
-### 9A. Return of retained badge[^key-2d08c9d0e2b220b8387f6729b418a6bb]
+### 9A. Return of retained badge[^c-2d08c9d0e2b220b8387f6729b418a6bb]
 
 (1) This regulation applies to a disabled person’s badge which—
 
@@ -281,7 +281,7 @@ An organisational badge may be issued to an organisation for a motor vehicle whi
 
 (4) If a badge is returned under this regulation more than 14 days after it was retained, the issuing authority is to explain in writing to the holder the reasons for the delay.
 
-### 10. Appeals[^key-4e354a60c79b769ea8f769ea3fe184f3]
+### 10. Appeals[^c-4e354a60c79b769ea8f769ea3fe184f3]
 
 (1) An applicant for a disabled person’s badge whose application has been refused on the ground specified in regulation 8(2)(a) or the holder of a badge who has been required to return it in accordance with regulation 9(2) may appeal to the Scottish Ministers against the determination of the local authority in accordance with this regulation.
 
@@ -289,7 +289,7 @@ An organisational badge may be issued to an organisation for a motor vehicle whi
 
 (3) The notice of appeal shall be dated and signed by the appellant (or by a person authorised to sign on his behalf) and shall state the grounds of appeal.
 
-(4)[^key-1f0f60c9ebdf42fb5067370c97fc07c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-1f0f60c9ebdf42fb5067370c97fc07c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) On receipt of the appeal the Scottish Ministers shall send a copy of it to the local authority against whose determination the appeal is made and, within the period of 28 days beginning with the date of the notice of appeal, the local authority shall send to the Scottish Ministers and the appellant–
 
@@ -315,7 +315,7 @@ An organisational badge may be issued to an organisation for a motor vehicle whi
 
 (13) In this regulation references to representations include a reference to supporting documents.
 
-### 10A. Review of local authority decision[^key-fb397c373788661fb4ee79c1bf679f0f]
+### 10A. Review of local authority decision[^c-fb397c373788661fb4ee79c1bf679f0f]
 
 (1) Where a local authority has decided that a person (“the applicant”) is not a disabled person of a description specified in regulation 4, an application for review of that decision may be made by—
 
@@ -339,9 +339,9 @@ An organisational badge may be issued to an organisation for a motor vehicle whi
 
 ## PART III — FORM AND DISPLAY OF BADGES
 
-### 11. Form of Badge[^key-9f970d91eb10f27e92d44198c24f5350]
+### 11. Form of Badge[^c-9f970d91eb10f27e92d44198c24f5350]
 
-(1)[^key-395d196edd240779daf58969cf4a357d] Paragraph (2) applies in respect of a badge with a date of issue before 1st January 2012, paragraph (3) applies in respect of a badge with a date of issue on or after that date but before 1st April 2019, and paragraph (4) applies in respect of a badge with a date of issue on or after 1st April 2019.
+(1)[^c-395d196edd240779daf58969cf4a357d] Paragraph (2) applies in respect of a badge with a date of issue before 1st January 2012, paragraph (3) applies in respect of a badge with a date of issue on or after that date but before 1st April 2019, and paragraph (4) applies in respect of a badge with a date of issue on or after 1st April 2019.
 
 (2) A disabled person’s badge is in the prescribed form if—
 
@@ -357,14 +357,14 @@ An organisational badge may be issued to an organisation for a motor vehicle whi
   - (ii) Part IIA of the Schedule in the case of an organisational badge (with the omission of the word “sample” where it appears); and
 - (b) the badge complies with the specifications in Part IIIA of the Schedule.
 
-(4)[^key-fc66cb36da4910112e6ccdc197696799] A disabled person’s badge is in the prescribed form if—
+(4)[^c-fc66cb36da4910112e6ccdc197696799] A disabled person’s badge is in the prescribed form if—
 
 - (a) the front and reverse of the badge are in the form shown in—
   - (i) Part IB of the Schedule in the case of an individual’s badge (with the omission of the word “sample” where it appears), or
   - (ii) Part IIB of the Schedule in the case of an organisational badge (with the omission of the word “sample” where it appears), and
 - (b) the badge complies with the specifications in Part IIIB of the Schedule.
 
-### 12. Manner in which a badge is to be displayed[^key-827b7417d8d9090c282bfbb095400ee9]
+### 12. Manner in which a badge is to be displayed[^c-827b7417d8d9090c282bfbb095400ee9]
 
 For the purposes of section 21(4A) of the 1970 Act a disabled person’s badge is displayed on a vehicle in the prescribed manner if–
 
@@ -373,7 +373,7 @@ For the purposes of section 21(4A) of the 1970 Act a disabled person’s badge i
 
 so that the front of the badge is clearly legible from the outside of the vehicle.
 
-### 13. Display of an individual’s badge when a vehicle is being driven[^key-77229da6de8c47ccd4fd6321a3c22c9f]
+### 13. Display of an individual’s badge when a vehicle is being driven[^c-77229da6de8c47ccd4fd6321a3c22c9f]
 
 (1) This regulation prescribes for the purposes of section 21(4A) of the 1970 Act the circumstances in which an individual’s badge may be displayed while a vehicle is being driven.
 
@@ -391,7 +391,7 @@ so that the front of the badge is clearly legible from the outside of the vehicl
 - (b) a disabled person’s concession (other than a concession relating to parking) is available to a vehicle lawfully displaying a disabled person’s badge; and
 - (c) it would not have been practicable for the vehicle to have left that place if the concession did not apply to the vehicle.
 
-### 14. Display of an individual’s badge when a vehicle is parked[^key-4a4904b7bf890f9a169a34ed7201adb6]
+### 14. Display of an individual’s badge when a vehicle is parked[^c-4a4904b7bf890f9a169a34ed7201adb6]
 
 (1) This regulation prescribes for the purposes of section 21(4A) of the 1970 Act the circumstances in which an individual’s badge may be displayed while a vehicle is parked.
 
@@ -400,9 +400,9 @@ so that the front of the badge is clearly legible from the outside of the vehicl
 - (a) has been driven by the holder, or has been used to carry the holder, to the place where it is parked; or
 - (b) is to be driven by the holder, or is to be used to carry the holder, from that place.
 
-### 15. Display of an organisational badge when a vehicle is being driven[^key-82056d244eb9e4f32b09d7ffb1b74b91][^key-342499c23401b971f75ddd5914d8d7bd]
+### 15. Display of an organisational badge when a vehicle is being driven[^c-82056d244eb9e4f32b09d7ffb1b74b91][^c-342499c23401b971f75ddd5914d8d7bd]
 
-(1) This regulation prescribes for the purposes of section 21(4A) of the 1970 Act the circumstances in which an organisational[^key-dc95865f34c277dddb9c2b87ff0a76de] badge may be displayed while a vehicle is being driven.
+(1) This regulation prescribes for the purposes of section 21(4A) of the 1970 Act the circumstances in which an organisational[^c-dc95865f34c277dddb9c2b87ff0a76de] badge may be displayed while a vehicle is being driven.
 
 (2) An organisational badge may be displayed on a vehicle while it is being driven by or on behalf of the holder and is carrying a disabled person.
 
@@ -418,9 +418,9 @@ so that the front of the badge is clearly legible from the outside of the vehicl
 - (b) a disabled person’s concession (other than a concession relating to parking) is available to a vehicle lawfully displaying a disabled person’s badge; and
 - (c) it would not have been practicable for the vehicle to have left that place if the concession had not applied to the vehicle.
 
-### 16. Display of an organisational badge when a vehicle is parked[^key-d6f7169d00ab3d4dd22c9a24e53135c8][^key-1db6a703149f4da4efc40e40e49ce8f9]
+### 16. Display of an organisational badge when a vehicle is parked[^c-d6f7169d00ab3d4dd22c9a24e53135c8][^c-1db6a703149f4da4efc40e40e49ce8f9]
 
-(1) This regulation prescribes for the purposes of section 21(4A) of the 1970 Act the circumstances in which an organisational[^key-5ad56fb4ebdcd05862eab4172bf4f677] badge may be displayed while a vehicle is parked.
+(1) This regulation prescribes for the purposes of section 21(4A) of the 1970 Act the circumstances in which an organisational[^c-5ad56fb4ebdcd05862eab4172bf4f677] badge may be displayed while a vehicle is parked.
 
 (2) An organisational badge may be displayed on a vehicle while it is parked if it has been, or is to be, used by or on behalf of the holder for carrying a disabled person to or from the place where it is parked.
 
@@ -438,43 +438,43 @@ Edinburgh
 
 **(regulation 11)**
 
-### PART I — FORM OF INDIVIDUAL'S BADGE — (WITH A DATE OF ISSUE BEFORE 1ST JANUARY 2012)[^key-de4eb3463fa947acea3b8094c603df52][^key-0c766642941a65814aebe26165b7cba6][^key-36ba2abe14405dc147f9e171e268a8b5]
+### PART I — FORM OF INDIVIDUAL'S BADGE — (WITH A DATE OF ISSUE BEFORE 1ST JANUARY 2012)[^c-de4eb3463fa947acea3b8094c603df52][^c-0c766642941a65814aebe26165b7cba6][^c-36ba2abe14405dc147f9e171e268a8b5]
 
 [image: see source](https://www.legislation.gov.uk/ssi/2000/59/images/ssi_20000059_en_epp_002.gif)
 
  
 
-### PART IA — INDIVIDUAL’S BADGE — (WITH A DATE OF ISSUE ON OR AFTER 1ST JANUARY 2012 BUT BEFORE 1ST APRIL 2019)[^key-e74f50c67b45826617d778cf84b952c5][^key-0095409f2fa8d13d9591ec75bac44bf1]
+### PART IA — INDIVIDUAL’S BADGE — (WITH A DATE OF ISSUE ON OR AFTER 1ST JANUARY 2012 BUT BEFORE 1ST APRIL 2019)[^c-e74f50c67b45826617d778cf84b952c5][^c-0095409f2fa8d13d9591ec75bac44bf1]
 
 [image: see source](https://www.legislation.gov.uk/ssi/2000/59/images/ssi_20000059_en_epp_004.gif)[image: see source](https://www.legislation.gov.uk/ssi/2000/59/images/ssi_20000059_en_epp_005.gif)
 
  
 
-### PART IB — INDIVIDUAL’S BADGE WITH A DATE OF ISSUE ON OR AFTER 1ST APRIL 2019[^key-29473d0249beabcc3c80fedcb51e417e]
+### PART IB — INDIVIDUAL’S BADGE WITH A DATE OF ISSUE ON OR AFTER 1ST APRIL 2019[^c-29473d0249beabcc3c80fedcb51e417e]
 
 [image: see source](https://www.legislation.gov.uk/ssi/2000/59/images/ssi_20000059_en_epp_014.gif)[image: see source](https://www.legislation.gov.uk/ssi/2000/59/images/ssi_20000059_en_epp_015.gif)
 
  
 
-### PART II — FORM OF ORGANISATIONAL BADGE — (WITH A DATE OF ISSUE BEFORE 1ST JANUARY 2012)[^key-6d69252516c04d5288b8e1e52255c3a2][^key-89128c128d5ce01743461763a30d2c0e][^key-55f673bfe0d7b6f3c50e231824afc214]
+### PART II — FORM OF ORGANISATIONAL BADGE — (WITH A DATE OF ISSUE BEFORE 1ST JANUARY 2012)[^c-6d69252516c04d5288b8e1e52255c3a2][^c-89128c128d5ce01743461763a30d2c0e][^c-55f673bfe0d7b6f3c50e231824afc214]
 
 [image: see source](https://www.legislation.gov.uk/ssi/2000/59/images/ssi_20000059_en_epp_003.gif)
 
  
 
-### PART IIA — ORGANISATIONAL BADGE — (WITH DATE OF ISSUE ON OR AFTER 1ST JANUARY 2012 BUT BEFORE 1ST APRIL 2019)[^key-43965070fb749adf9b896e76df2d5976][^key-541b8d828135a5fbd842f80e3499fa3b]
+### PART IIA — ORGANISATIONAL BADGE — (WITH DATE OF ISSUE ON OR AFTER 1ST JANUARY 2012 BUT BEFORE 1ST APRIL 2019)[^c-43965070fb749adf9b896e76df2d5976][^c-541b8d828135a5fbd842f80e3499fa3b]
 
 [image: see source](https://www.legislation.gov.uk/ssi/2000/59/images/ssi_20000059_en_epp_006.gif)[image: see source](https://www.legislation.gov.uk/ssi/2000/59/images/ssi_20000059_en_epp_007.gif)
 
  
 
-### PART IIB — ORGANISATIONAL BADGE (WITH A DATE OF ISSUE ON OR AFTER 1ST APRIL 2019)[^key-250f2327075012cb58f2f99c46dd89b4]
+### PART IIB — ORGANISATIONAL BADGE (WITH A DATE OF ISSUE ON OR AFTER 1ST APRIL 2019)[^c-250f2327075012cb58f2f99c46dd89b4]
 
 [image: see source](https://www.legislation.gov.uk/ssi/2000/59/images/ssi_20000059_en_epp_016.gif)[image: see source](https://www.legislation.gov.uk/ssi/2000/59/images/ssi_20000059_en_epp_017.gif)
 
  
 
-### PART III — SPECIFICATIONS FOR THE BADGE — (WITH A DATE OF ISSUE BEFORE 1ST JANUARY 2012)[^key-8990379c03277d30683c6d9d13475b76][^key-6492b39f1a314f757d8d7ddb71c74d91]
+### PART III — SPECIFICATIONS FOR THE BADGE — (WITH A DATE OF ISSUE BEFORE 1ST JANUARY 2012)[^c-8990379c03277d30683c6d9d13475b76][^c-6492b39f1a314f757d8d7ddb71c74d91]
 
 The badge shall be–
 
@@ -483,26 +483,26 @@ The badge shall be–
 - (c) the background on the front and reverse sides of the badge shall be coloured light blue and shall include a background of wheelchair symbols;
 - (d) the square box containing the wheelchair symbol and the rectangular box containing the country identifier shall be coloured dark blue. All other boxes on the badge shall be coloured white.
 
-### PART IIIA — SPECIFICATIONS FOR BADGES — (WITH DATE OF ISSUE ON OR AFTER 1ST JANUARY 2012 BUT BEFORE 1ST APRIL 2019)[^key-38c8b3603d1c0a351db04c65fbf794de][^key-d352ead7e56d5e20375c35981a87a431]
+### PART IIIA — SPECIFICATIONS FOR BADGES — (WITH DATE OF ISSUE ON OR AFTER 1ST JANUARY 2012 BUT BEFORE 1ST APRIL 2019)[^c-38c8b3603d1c0a351db04c65fbf794de][^c-d352ead7e56d5e20375c35981a87a431]
 
 **1.** **All Badges**
 
 The specifications applicable to all badges are as follows—
 
 - (a) the badge must be 106 millimetres in height, 148 millimetres in width (with 5 millimetres radius rounded corners) and 720 microns in thickness, with height and width tolerances of plus or minus 1 millimetre and a thickness tolerance of plus or minus 20 microns;
-- (b)[^key-bb938798e49156accc7852cb256a9c2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-bb938798e49156accc7852cb256a9c2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the badge must be printed with a unique serial number, comprising a series of numbers and letters that identify key information about the badge and the holder, including the consecutive number of each replacement badge issued to the badge holder by the issuing authority;
-- (d)[^key-89beb16afd927ff32a5fd33fe59b8ce4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-89beb16afd927ff32a5fd33fe59b8ce4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-89beb16afd927ff32a5fd33fe59b8ce4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (g)[^key-89beb16afd927ff32a5fd33fe59b8ce4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (h)[^key-89beb16afd927ff32a5fd33fe59b8ce4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-89beb16afd927ff32a5fd33fe59b8ce4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-89beb16afd927ff32a5fd33fe59b8ce4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-89beb16afd927ff32a5fd33fe59b8ce4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-89beb16afd927ff32a5fd33fe59b8ce4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-89beb16afd927ff32a5fd33fe59b8ce4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (i) the rear side of the badge must contain a variable bar code which identifies the expiry date of the badge;
-- (j)[^key-576dbef847a6ff7d266f497d9446791a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (k)[^key-165535a031fe90f0cc29ae852da968fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j)[^c-576dbef847a6ff7d266f497d9446791a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (k)[^c-165535a031fe90f0cc29ae852da968fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (l) the badge must include such additional security features as will further mitigate the risk of forgery by, so far as practicable, preventing the badge from being copied readily and allowing genuine badges to be distinguished from forgeries.
 
-[^key-3b26f6c57ae9f5d930dd679fa1646b53]...
+[^c-3b26f6c57ae9f5d930dd679fa1646b53]...
 
 **2.** **Individual’s Badges**
 
@@ -533,7 +533,7 @@ The additional specifications applicable to an individual’s badge as follows:�
 
 The additional specifications applicable to an organisational badge is that the reverse side of an organisational badge must contain a colour copy of the logo (if any) of the organisation which must be 45 millimetres in height and 35 millimetres in width. If the organisation does not have a logo, the space that would otherwise include the logo must contain a copy of the flag that appears on the front of the badge.
 
-### PART IIIB — SPECIFICATIONS FOR BADGES (WITH A DATE OF ISSUE ON OR AFTER 1ST APRIL 2019)[^key-3210157852eeca7d09bfd0b96093107b]
+### PART IIIB — SPECIFICATIONS FOR BADGES (WITH A DATE OF ISSUE ON OR AFTER 1ST APRIL 2019)[^c-3210157852eeca7d09bfd0b96093107b]
 
 #### 1. All Badges
 
@@ -629,75 +629,75 @@ The Local Authorities' Traffic Orders (Exemptions for Disabled Persons) (Scotlan
 
 [^f00001]: Footnote: [1970 (c. 44)](https://www.legislation.gov.uk/ukpga/1970/44); section 21 was amended by the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), Schedule 30; by the Local Government (Scotland) Act [1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65), Schedule 14; by the Transport Act [1982 (c. 49)](https://www.legislation.gov.uk/ukpga/1982/49), section 68; by the Road Traffic Regulation Act [1984 (c. 27)](https://www.legislation.gov.uk/ukpga/1984/27), Schedule 13, paragraph 11; by the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), Schedule 5; by the Road Traffic Act [1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40), section 35, Schedule 8; by the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19), Schedule 10, paragraph 8; and by the Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39), Schedule 13, paragraph 86. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-fe9eca4a48322ec0b1d107988d31cc39]: Commencement: Reg. 1 in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
+[^c-fe9eca4a48322ec0b1d107988d31cc39]: Commencement: Reg. 1 in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
 
-[^key-82d6d3fa8f71acb3c2bec3c95391ad10]: Commencement: Reg. 2 in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
+[^c-82d6d3fa8f71acb3c2bec3c95391ad10]: Commencement: Reg. 2 in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
 
-[^key-8754a94fbd35988be5ecd1347f3338d0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/2/1) omitted (1.1.2012) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/2/a/i)
+[^c-8754a94fbd35988be5ecd1347f3338d0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/2/1) omitted (1.1.2012) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/2/a/i)
 
 [^f00002]: Footnote: [1984 (c. 27)](https://www.legislation.gov.uk/ukpga/1984/27).
 
-[^key-a3610ed8753908db7011b49735291daf]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/2/1) inserted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/2/a/ii)
+[^c-a3610ed8753908db7011b49735291daf]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/2/1) inserted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/2/a/ii)
 
-[^key-4e4027138bf2c6e38eb9466a93027691]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/2/1) omitted (1.4.2011) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/89)](https://www.legislation.gov.uk/ssi/2011/89), [regs. 1](https://www.legislation.gov.uk/ssi/2011/89/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2011/89/regulation/2/2)
+[^c-4e4027138bf2c6e38eb9466a93027691]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/2/1) omitted (1.4.2011) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/89)](https://www.legislation.gov.uk/ssi/2011/89), [regs. 1](https://www.legislation.gov.uk/ssi/2011/89/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2011/89/regulation/2/2)
 
 [^M_F_aba24564-bbf9-44f4-d782-40467d406f06]: Textual amendment: Words in reg. 2(1) inserted (1.7.2000) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2000 (S.S.I. 2000/170)](https://www.legislation.gov.uk/ssi/2000/170), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2000/170/regulation/1/1), [3(a)](https://www.legislation.gov.uk/ssi/2000/170/regulation/3/a)
 
-[^key-fdca8342cfe8a04b929b15cd82141c49]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/ssi/2000/59/regulation/2) substituted (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2007/162/regulation/3/2) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
+[^c-fdca8342cfe8a04b929b15cd82141c49]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/ssi/2000/59/regulation/2) substituted (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2007/162/regulation/3/2) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
 
-[^key-d343259da40c86100db2fb9dd4f2c381]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/2/1) inserted (1.9.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/2/a), [2(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/2/a/iii)
+[^c-d343259da40c86100db2fb9dd4f2c381]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/2/1) inserted (1.9.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/2/a), [2(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/2/a/iii)
 
-[^key-2536bf245baef87165d74c51f91150b6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/2/1) inserted (1.4.2016) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/72)](https://www.legislation.gov.uk/ssi/2016/72), [regs. 1](https://www.legislation.gov.uk/ssi/2016/72/regulation/1), [2(2)(a)(i)](https://www.legislation.gov.uk/ssi/2016/72/regulation/2/2/a/i)
+[^c-2536bf245baef87165d74c51f91150b6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/2/1) inserted (1.4.2016) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/72)](https://www.legislation.gov.uk/ssi/2016/72), [regs. 1](https://www.legislation.gov.uk/ssi/2016/72/regulation/1), [2(2)(a)(i)](https://www.legislation.gov.uk/ssi/2016/72/regulation/2/2/a/i)
 
-[^key-ceb3304260cc9e0d30b6bdbe739c2db2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/2/1) substituted (1.4.2016) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/72)](https://www.legislation.gov.uk/ssi/2016/72), [regs. 1](https://www.legislation.gov.uk/ssi/2016/72/regulation/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2016/72/regulation/2/2/a/ii)
+[^c-ceb3304260cc9e0d30b6bdbe739c2db2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/2/1) substituted (1.4.2016) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/72)](https://www.legislation.gov.uk/ssi/2016/72), [regs. 1](https://www.legislation.gov.uk/ssi/2016/72/regulation/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2016/72/regulation/2/2/a/ii)
 
-[^key-6fac90ef404880ea381ef0dd94d78524]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/2/1) inserted (1.4.2016) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/72)](https://www.legislation.gov.uk/ssi/2016/72), [regs. 1](https://www.legislation.gov.uk/ssi/2016/72/regulation/1), [2(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2016/72/regulation/2/2/a/iii)
+[^c-6fac90ef404880ea381ef0dd94d78524]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/2/1) inserted (1.4.2016) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/72)](https://www.legislation.gov.uk/ssi/2016/72), [regs. 1](https://www.legislation.gov.uk/ssi/2016/72/regulation/1), [2(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2016/72/regulation/2/2/a/iii)
 
-[^key-95fb6d80c6871300c619f8b42e8b73e1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2000/59/regulation/2) omitted (1.4.2007) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/3/3) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
+[^c-95fb6d80c6871300c619f8b42e8b73e1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2000/59/regulation/2) omitted (1.4.2007) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/3/3) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
 
 [^f00003]: Footnote: [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-e56ae234a3029a9d783db93d935b6dde]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2000/59/regulation/2) inserted (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [3(4)](https://www.legislation.gov.uk/ssi/2007/162/regulation/3/4) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
+[^c-e56ae234a3029a9d783db93d935b6dde]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2000/59/regulation/2) inserted (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [3(4)](https://www.legislation.gov.uk/ssi/2007/162/regulation/3/4) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
 
 [^M_F_1d6d500a-1559-4cfd-88c4-9652be8d89d6]: Textual amendment: Reg. 2(1A) inserted (1.7.2000) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2000 (S.S.I. 2000/170)](https://www.legislation.gov.uk/ssi/2000/170), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2000/170/regulation/1/1), [3(b)](https://www.legislation.gov.uk/ssi/2000/170/regulation/3/b)
 
-[^key-40ea7bf044d9b30591a833f1d8256905]: Textual amendment: Words in [reg. 2(1A)](https://www.legislation.gov.uk/ssi/2000/59/regulation/2/1A) inserted (8.11.2002) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2002 (S.S.I. 2002/451)](https://www.legislation.gov.uk/ssi/2002/451), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2002/451/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2002/451/regulation/2)
+[^c-40ea7bf044d9b30591a833f1d8256905]: Textual amendment: Words in [reg. 2(1A)](https://www.legislation.gov.uk/ssi/2000/59/regulation/2/1A) inserted (8.11.2002) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2002 (S.S.I. 2002/451)](https://www.legislation.gov.uk/ssi/2002/451), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2002/451/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2002/451/regulation/2)
 
-[^key-e35813c8b43f7f2d06c06745b2d2ebaa]: Textual amendment: Words in [reg. 2(1A)](https://www.legislation.gov.uk/ssi/2000/59/regulation/2/1A) omitted (31.12.2020) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/128)](https://www.legislation.gov.uk/ssi/2019/128), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/128/regulation/1/3), [2(2)](https://www.legislation.gov.uk/ssi/2019/128/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e35813c8b43f7f2d06c06745b2d2ebaa]: Textual amendment: Words in [reg. 2(1A)](https://www.legislation.gov.uk/ssi/2000/59/regulation/2/1A) omitted (31.12.2020) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/128)](https://www.legislation.gov.uk/ssi/2019/128), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/128/regulation/1/3), [2(2)](https://www.legislation.gov.uk/ssi/2019/128/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-78403f9e323a272a4966f275c2afb81f]: Textual amendment: [Reg. 2(1B)](https://www.legislation.gov.uk/ssi/2000/59/regulation/2/1B) substituted (30.3.2018) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/44)](https://www.legislation.gov.uk/ssi/2018/44), [regs. 1](https://www.legislation.gov.uk/ssi/2018/44/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2018/44/regulation/2/2)
+[^c-78403f9e323a272a4966f275c2afb81f]: Textual amendment: [Reg. 2(1B)](https://www.legislation.gov.uk/ssi/2000/59/regulation/2/1B) substituted (30.3.2018) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/44)](https://www.legislation.gov.uk/ssi/2018/44), [regs. 1](https://www.legislation.gov.uk/ssi/2018/44/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2018/44/regulation/2/2)
 
-[^key-fd6413e7ff03d04a74e9b282a3ebb31f]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/ssi/2000/59/regulation/2/3) substituted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/2/b)
+[^c-fd6413e7ff03d04a74e9b282a3ebb31f]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/ssi/2000/59/regulation/2/3) substituted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/2/b)
 
-[^key-13a8d43fe9a05089b44de3ef3b7e9ade]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/ssi/2000/59/regulation/2/4) substituted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/2/c)
+[^c-13a8d43fe9a05089b44de3ef3b7e9ade]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/ssi/2000/59/regulation/2/4) substituted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/2/c)
 
-[^key-c7be5b25ce769aa389736c4e442bc980]: Commencement: Reg. 3 in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
+[^c-c7be5b25ce769aa389736c4e442bc980]: Commencement: Reg. 3 in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
 
-[^key-712227edef123582b61c9394dba66970]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2000/59/regulation/3) heading substituted (1.4.2007) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/4/3) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
+[^c-712227edef123582b61c9394dba66970]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2000/59/regulation/3) heading substituted (1.4.2007) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/4/3) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
 
-[^key-af4b91bb6d3fcf44383583ad1c501315]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2000/59/regulation/3/2) omitted (1.4.2007) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2007/162/regulation/4/2) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
+[^c-af4b91bb6d3fcf44383583ad1c501315]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2000/59/regulation/3/2) omitted (1.4.2007) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2007/162/regulation/4/2) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
 
-[^key-0cd807d9a35f8d12dac2f6d236fa3ae5]: Commencement: Reg. 4 in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
+[^c-0cd807d9a35f8d12dac2f6d236fa3ae5]: Commencement: Reg. 4 in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
 
-[^key-9b158c9de84b9ab3eb444addea2859d4]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/1) substituted (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [5(2)](https://www.legislation.gov.uk/ssi/2007/162/regulation/5/2) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
+[^c-9b158c9de84b9ab3eb444addea2859d4]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/1) substituted (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [5(2)](https://www.legislation.gov.uk/ssi/2007/162/regulation/5/2) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
 
-[^key-b7232ae757f4cf1361b9cc6738077b97]: Textual amendment: Word in [reg. 4(1)(b)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/1/b) substituted (1.4.2011) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/89)](https://www.legislation.gov.uk/ssi/2011/89), [regs. 1](https://www.legislation.gov.uk/ssi/2011/89/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2011/89/regulation/2/3/a)
+[^c-b7232ae757f4cf1361b9cc6738077b97]: Textual amendment: Word in [reg. 4(1)(b)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/1/b) substituted (1.4.2011) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/89)](https://www.legislation.gov.uk/ssi/2011/89), [regs. 1](https://www.legislation.gov.uk/ssi/2011/89/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2011/89/regulation/2/3/a)
 
-[^key-7f62b429a6abd9a2d125babffa371046]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/2) inserted (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/ssi/2007/162/regulation/5/3/a) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
+[^c-7f62b429a6abd9a2d125babffa371046]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/2) inserted (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/ssi/2007/162/regulation/5/3/a) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
 
 [^f00006]: Footnote: [1992 (c. 4)](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-fc5f26c9e8f4df208ea26903f2660a9d]: Textual amendment: Reg. 4(2)(aa) inserted (8.4.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/65)](https://www.legislation.gov.uk/ssi/2013/65), [regs. 1](https://www.legislation.gov.uk/ssi/2013/65/regulation/1), [5(2)](https://www.legislation.gov.uk/ssi/2013/65/regulation/5/2)
+[^c-fc5f26c9e8f4df208ea26903f2660a9d]: Textual amendment: Reg. 4(2)(aa) inserted (8.4.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/65)](https://www.legislation.gov.uk/ssi/2013/65), [regs. 1](https://www.legislation.gov.uk/ssi/2013/65/regulation/1), [5(2)](https://www.legislation.gov.uk/ssi/2013/65/regulation/5/2)
 
-[^key-dec8b4dd545222c19178f4d4c0676937]: Textual amendment: Reg. 4(2)(ab)(ac) inserted (28.6.2014) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2014 (S.S.I. 2014/145)](https://www.legislation.gov.uk/ssi/2014/145), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/145/regulation/1/2), [3(a)](https://www.legislation.gov.uk/ssi/2014/145/regulation/3/a)
+[^c-dec8b4dd545222c19178f4d4c0676937]: Textual amendment: Reg. 4(2)(ab)(ac) inserted (28.6.2014) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2014 (S.S.I. 2014/145)](https://www.legislation.gov.uk/ssi/2014/145), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/145/regulation/1/2), [3(a)](https://www.legislation.gov.uk/ssi/2014/145/regulation/3/a)
 
-[^key-9e844bd5476958baa6a9499948fe0b6c]: Textual amendment: [Reg. 4(2)(ad)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/2/ad) inserted (26.7.2021) by [The Disability Assistance for Children and Young People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2021 (S.S.I. 2021/73)](https://www.legislation.gov.uk/ssi/2021/73), [regs. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2021/73/regulation/6/2) (with [reg. 19](https://www.legislation.gov.uk/ssi/2021/73/regulation/19))
+[^c-9e844bd5476958baa6a9499948fe0b6c]: Textual amendment: [Reg. 4(2)(ad)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/2/ad) inserted (26.7.2021) by [The Disability Assistance for Children and Young People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2021 (S.S.I. 2021/73)](https://www.legislation.gov.uk/ssi/2021/73), [regs. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2021/73/regulation/6/2) (with [reg. 19](https://www.legislation.gov.uk/ssi/2021/73/regulation/19))
 
-[^key-7a5fa1bba46f19746a3b2032026737cd]: Textual amendment: [Reg. 4(2)(ae)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/2/ae) inserted (21.3.2022) by [The Disability Assistance for Working Age People (Consequential and Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/31)](https://www.legislation.gov.uk/ssi/2022/31), [regs. 1](https://www.legislation.gov.uk/ssi/2022/31/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2022/31/regulation/6/2) (with [reg. 20](https://www.legislation.gov.uk/ssi/2022/31/regulation/20))
+[^c-7a5fa1bba46f19746a3b2032026737cd]: Textual amendment: [Reg. 4(2)(ae)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/2/ae) inserted (21.3.2022) by [The Disability Assistance for Working Age People (Consequential and Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/31)](https://www.legislation.gov.uk/ssi/2022/31), [regs. 1](https://www.legislation.gov.uk/ssi/2022/31/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2022/31/regulation/6/2) (with [reg. 20](https://www.legislation.gov.uk/ssi/2022/31/regulation/20))
 
-[^key-42be75f0b1c144ebf57cc13e95a7d5cb]: Textual amendment: [Reg. 4(2)(af)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/2/af) inserted (21.3.2025) by [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2024/311/regulation/7/2)
+[^c-42be75f0b1c144ebf57cc13e95a7d5cb]: Textual amendment: [Reg. 4(2)(af)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/2/af) inserted (21.3.2025) by [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2024/311/regulation/7/2)
 
-[^key-fa012ca62b407eaada770086715e6eb7]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/2/b) substituted (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/ssi/2007/162/regulation/5/3/b) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
+[^c-fa012ca62b407eaada770086715e6eb7]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/2/b) substituted (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/ssi/2007/162/regulation/5/3/b) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
 
 [^f00008]: Footnote: [1978 (c. 29)](https://www.legislation.gov.uk/ukpga/1978/29).
 
@@ -707,204 +707,204 @@ The Local Authorities' Traffic Orders (Exemptions for Disabled Persons) (Scotlan
 
 [^f00011]: Footnote: S.I. [1983/686](https://www.legislation.gov.uk/uksi/1983/686); amended by S.I. [1983/1164](https://www.legislation.gov.uk/uksi/1983/1164), and [1540](https://www.legislation.gov.uk/uksi/1983/1540), [1984/1289](https://www.legislation.gov.uk/uksi/1984/1289) and [1675](https://www.legislation.gov.uk/uksi/1984/1675), [1985/1313](https://www.legislation.gov.uk/uksi/1985/1313), [1986/628](https://www.legislation.gov.uk/uksi/1986/628), [1987/191](https://www.legislation.gov.uk/uksi/1987/191), [1988/367](https://www.legislation.gov.uk/uksi/1988/367) and [2260](https://www.legislation.gov.uk/uksi/1988/2260), [1989/415](https://www.legislation.gov.uk/uksi/1989/415), [1990/535](https://www.legislation.gov.uk/uksi/1990/535) and [1300](https://www.legislation.gov.uk/uksi/1990/1300), [1991/708](https://www.legislation.gov.uk/uksi/1991/708), [1992/702](https://www.legislation.gov.uk/uksi/1992/702) and [3226](https://www.legislation.gov.uk/uksi/1992/3226), [1993/480](https://www.legislation.gov.uk/uksi/1993/480), [1994/715](https://www.legislation.gov.uk/uksi/1994/715) and [2021](https://www.legislation.gov.uk/uksi/1994/2021), [1996/445](https://www.legislation.gov.uk/uksi/1996/445), [1996/502](https://www.legislation.gov.uk/uksi/1996/502), [1997/812](https://www.legislation.gov.uk/uksi/1997/812), [1998/278](https://www.legislation.gov.uk/uksi/1998/278).
 
-[^key-b0d91ae927720ff156290bc99cbd4b30]: Textual amendment: Reg. 4(2)(da) inserted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/3/a)
+[^c-b0d91ae927720ff156290bc99cbd4b30]: Textual amendment: Reg. 4(2)(da) inserted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/3/a)
 
-[^key-d5c26f10f00b9a4d66266c04ec87b826]: Textual amendment: Reg. 4(2)(e)-(g) substituted for reg. 4(2)(e)(f) (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [5(3)(c)](https://www.legislation.gov.uk/ssi/2007/162/regulation/5/3/c) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
+[^c-d5c26f10f00b9a4d66266c04ec87b826]: Textual amendment: Reg. 4(2)(e)-(g) substituted for reg. 4(2)(e)(f) (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [5(3)(c)](https://www.legislation.gov.uk/ssi/2007/162/regulation/5/3/c) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
 
-[^key-72675e6841b636e6697789c878e0c93a]: Textual amendment: Word in [reg. 4(2)(e)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/2/e) omitted (1.4.2011) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/89)](https://www.legislation.gov.uk/ssi/2011/89), [regs. 1](https://www.legislation.gov.uk/ssi/2011/89/regulation/1), [2(3)(b)(i)](https://www.legislation.gov.uk/ssi/2011/89/regulation/2/3/b/i)
+[^c-72675e6841b636e6697789c878e0c93a]: Textual amendment: Word in [reg. 4(2)(e)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/2/e) omitted (1.4.2011) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/89)](https://www.legislation.gov.uk/ssi/2011/89), [regs. 1](https://www.legislation.gov.uk/ssi/2011/89/regulation/1), [2(3)(b)(i)](https://www.legislation.gov.uk/ssi/2011/89/regulation/2/3/b/i)
 
-[^key-110e52c5e88e7da84678d724957d126d]: Textual amendment: Words in [reg. 4(2)(f)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/2/f) substituted (1.9.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/2/a), [2(3)(b)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/3/b)
+[^c-110e52c5e88e7da84678d724957d126d]: Textual amendment: Words in [reg. 4(2)(f)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/2/f) substituted (1.9.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/2/a), [2(3)(b)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/3/b)
 
-[^key-151e9ae55445dd0394321d9eaae6b9e7]: Textual amendment: Words in [reg. 4(2)(f)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/2/f) substituted (1.4.2011) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/89)](https://www.legislation.gov.uk/ssi/2011/89), [regs. 1](https://www.legislation.gov.uk/ssi/2011/89/regulation/1), [2(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2011/89/regulation/2/3/b/ii)
+[^c-151e9ae55445dd0394321d9eaae6b9e7]: Textual amendment: Words in [reg. 4(2)(f)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/2/f) substituted (1.4.2011) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/89)](https://www.legislation.gov.uk/ssi/2011/89), [regs. 1](https://www.legislation.gov.uk/ssi/2011/89/regulation/1), [2(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2011/89/regulation/2/3/b/ii)
 
-[^key-3d099940474196decbeb93e7ee2c8e9e]: Textual amendment: Word in [reg. 4(2)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/2) omitted (1.4.2016) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/72)](https://www.legislation.gov.uk/ssi/2016/72), [regs. 1](https://www.legislation.gov.uk/ssi/2016/72/regulation/1), [2(3)(a)(i)](https://www.legislation.gov.uk/ssi/2016/72/regulation/2/3/a/i)
+[^c-3d099940474196decbeb93e7ee2c8e9e]: Textual amendment: Word in [reg. 4(2)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/2) omitted (1.4.2016) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/72)](https://www.legislation.gov.uk/ssi/2016/72), [regs. 1](https://www.legislation.gov.uk/ssi/2016/72/regulation/1), [2(3)(a)(i)](https://www.legislation.gov.uk/ssi/2016/72/regulation/2/3/a/i)
 
-[^key-0c2513c81d0e6d1dd911cdfedaeff98e]: Textual amendment: Words in [reg. 4(2)(g)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/2/g) substituted (1.9.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/2/a), [2(3)(c)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/3/c)
+[^c-0c2513c81d0e6d1dd911cdfedaeff98e]: Textual amendment: Words in [reg. 4(2)(g)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/2/g) substituted (1.9.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/2/a), [2(3)(c)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/3/c)
 
-[^key-467cdfb290c432c27ccfb638da6d3724]: Textual amendment: Words in [reg. 4(2)(g)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/2/g) substituted (1.4.2011) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/89)](https://www.legislation.gov.uk/ssi/2011/89), [regs. 1](https://www.legislation.gov.uk/ssi/2011/89/regulation/1), [2(3)(b)(iii)](https://www.legislation.gov.uk/ssi/2011/89/regulation/2/3/b/iii)
+[^c-467cdfb290c432c27ccfb638da6d3724]: Textual amendment: Words in [reg. 4(2)(g)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/2/g) substituted (1.4.2011) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/89)](https://www.legislation.gov.uk/ssi/2011/89), [regs. 1](https://www.legislation.gov.uk/ssi/2011/89/regulation/1), [2(3)(b)(iii)](https://www.legislation.gov.uk/ssi/2011/89/regulation/2/3/b/iii)
 
-[^key-e3ce3203efb36c8609cbbe98483e06d5]: Textual amendment: [Reg. 4(2)(h)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/2/h) and word inserted (1.4.2016) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/72)](https://www.legislation.gov.uk/ssi/2016/72), [regs. 1](https://www.legislation.gov.uk/ssi/2016/72/regulation/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2016/72/regulation/2/3/a/ii)
+[^c-e3ce3203efb36c8609cbbe98483e06d5]: Textual amendment: [Reg. 4(2)(h)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/2/h) and word inserted (1.4.2016) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/72)](https://www.legislation.gov.uk/ssi/2016/72), [regs. 1](https://www.legislation.gov.uk/ssi/2016/72/regulation/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2016/72/regulation/2/3/a/ii)
 
-[^key-44353787cd2007524b8438ddc8661ddf]: Textual amendment: [Reg. 4(2A)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/2A) inserted (1.4.2016) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/72)](https://www.legislation.gov.uk/ssi/2016/72), [regs. 1](https://www.legislation.gov.uk/ssi/2016/72/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2016/72/regulation/2/3/b)
+[^c-44353787cd2007524b8438ddc8661ddf]: Textual amendment: [Reg. 4(2A)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/2A) inserted (1.4.2016) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/72)](https://www.legislation.gov.uk/ssi/2016/72), [regs. 1](https://www.legislation.gov.uk/ssi/2016/72/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2016/72/regulation/2/3/b)
 
-[^key-c32b9da1644e639fc9be09b7d2bf8e75]: Textual amendment: Word in [reg. 4(2A)(a)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/2A/a) inserted (30.3.2018) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/44)](https://www.legislation.gov.uk/ssi/2018/44), [regs. 1](https://www.legislation.gov.uk/ssi/2018/44/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2018/44/regulation/2/3/a)
+[^c-c32b9da1644e639fc9be09b7d2bf8e75]: Textual amendment: Word in [reg. 4(2A)(a)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/2A/a) inserted (30.3.2018) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/44)](https://www.legislation.gov.uk/ssi/2018/44), [regs. 1](https://www.legislation.gov.uk/ssi/2018/44/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2018/44/regulation/2/3/a)
 
-[^key-d824ae79de03a3c0e14f5aa9866d0429]: Textual amendment: [Reg. 4(2A)(b)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/2A/b) omitted (30.3.2018) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/44)](https://www.legislation.gov.uk/ssi/2018/44), [regs. 1](https://www.legislation.gov.uk/ssi/2018/44/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2018/44/regulation/2/3/b)
+[^c-d824ae79de03a3c0e14f5aa9866d0429]: Textual amendment: [Reg. 4(2A)(b)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/2A/b) omitted (30.3.2018) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/44)](https://www.legislation.gov.uk/ssi/2018/44), [regs. 1](https://www.legislation.gov.uk/ssi/2018/44/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2018/44/regulation/2/3/b)
 
-[^key-bd96d739cee9b47f2f69df4bda2bf90a]: Textual amendment: [Reg. 4(2A)(c)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/2A/c) substituted (19.5.2017) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/118)](https://www.legislation.gov.uk/ssi/2017/118), [regs. 1](https://www.legislation.gov.uk/ssi/2017/118/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2017/118/regulation/2/2/a)
+[^c-bd96d739cee9b47f2f69df4bda2bf90a]: Textual amendment: [Reg. 4(2A)(c)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/2A/c) substituted (19.5.2017) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/118)](https://www.legislation.gov.uk/ssi/2017/118), [regs. 1](https://www.legislation.gov.uk/ssi/2017/118/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2017/118/regulation/2/2/a)
 
-[^key-2f52b8ebd2e7ce83b7716472949db531]: Textual amendment: Reg. 4(3)(4) inserted (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [5(4)](https://www.legislation.gov.uk/ssi/2007/162/regulation/5/4) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
+[^c-2f52b8ebd2e7ce83b7716472949db531]: Textual amendment: Reg. 4(3)(4) inserted (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [5(4)](https://www.legislation.gov.uk/ssi/2007/162/regulation/5/4) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
 
-[^key-988bad15c35dc17eedb5641a4f92db48]: Textual amendment: Reg. 4(3A) inserted (1.9.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/2/a), [2(3)(d)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/3/d)
+[^c-988bad15c35dc17eedb5641a4f92db48]: Textual amendment: Reg. 4(3A) inserted (1.9.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/2/a), [2(3)(d)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/3/d)
 
-[^key-eba4831fcf4a1cda2f41f6cfba9040a0]: Textual amendment: [Reg. 4(3B)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/3B) substituted (19.5.2017) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/118)](https://www.legislation.gov.uk/ssi/2017/118), [regs. 1](https://www.legislation.gov.uk/ssi/2017/118/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2017/118/regulation/2/2/b)
+[^c-eba4831fcf4a1cda2f41f6cfba9040a0]: Textual amendment: [Reg. 4(3B)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/3B) substituted (19.5.2017) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/118)](https://www.legislation.gov.uk/ssi/2017/118), [regs. 1](https://www.legislation.gov.uk/ssi/2017/118/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2017/118/regulation/2/2/b)
 
-[^key-f8e37cfc3bc6a7b09672a5be86a422d6]: Textual amendment: Word in [reg. 4(4)(a)(vi)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/4/a/vi) omitted (1.4.2011) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/89)](https://www.legislation.gov.uk/ssi/2011/89), [regs. 1](https://www.legislation.gov.uk/ssi/2011/89/regulation/1), [2(3)(c)(i)](https://www.legislation.gov.uk/ssi/2011/89/regulation/2/3/c/i)
+[^c-f8e37cfc3bc6a7b09672a5be86a422d6]: Textual amendment: Word in [reg. 4(4)(a)(vi)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/4/a/vi) omitted (1.4.2011) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/89)](https://www.legislation.gov.uk/ssi/2011/89), [regs. 1](https://www.legislation.gov.uk/ssi/2011/89/regulation/1), [2(3)(c)(i)](https://www.legislation.gov.uk/ssi/2011/89/regulation/2/3/c/i)
 
-[^key-0acfe7d8d6cd29b79071ffb41b724f3f]: Textual amendment: Reg. 4(4)(a)(viii) inserted (1.4.2011) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/89)](https://www.legislation.gov.uk/ssi/2011/89), [regs. 1](https://www.legislation.gov.uk/ssi/2011/89/regulation/1), [2(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2011/89/regulation/2/3/c/ii)
+[^c-0acfe7d8d6cd29b79071ffb41b724f3f]: Textual amendment: Reg. 4(4)(a)(viii) inserted (1.4.2011) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/89)](https://www.legislation.gov.uk/ssi/2011/89), [regs. 1](https://www.legislation.gov.uk/ssi/2011/89/regulation/1), [2(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2011/89/regulation/2/3/c/ii)
 
-[^key-f2d4842e81e50d1ee5f2023d9365d7b8]: Textual amendment: Word in [reg. 4(4)(a)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/4/a) omitted (28.6.2014) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2014 (S.S.I. 2014/145)](https://www.legislation.gov.uk/ssi/2014/145), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/145/regulation/1/2), [3(b)(i)](https://www.legislation.gov.uk/ssi/2014/145/regulation/3/b/i)
+[^c-f2d4842e81e50d1ee5f2023d9365d7b8]: Textual amendment: Word in [reg. 4(4)(a)](https://www.legislation.gov.uk/ssi/2000/59/regulation/4/4/a) omitted (28.6.2014) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2014 (S.S.I. 2014/145)](https://www.legislation.gov.uk/ssi/2014/145), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/145/regulation/1/2), [3(b)(i)](https://www.legislation.gov.uk/ssi/2014/145/regulation/3/b/i)
 
-[^key-e2b98954a797afc8f32f05836dd9be83]: Textual amendment: Reg. 4(4)(c) and word inserted (28.6.2014) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2014 (S.S.I. 2014/145)](https://www.legislation.gov.uk/ssi/2014/145), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/145/regulation/1/2), [3(b)(ii)](https://www.legislation.gov.uk/ssi/2014/145/regulation/3/b/ii)
+[^c-e2b98954a797afc8f32f05836dd9be83]: Textual amendment: Reg. 4(4)(c) and word inserted (28.6.2014) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2014 (S.S.I. 2014/145)](https://www.legislation.gov.uk/ssi/2014/145), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/145/regulation/1/2), [3(b)(ii)](https://www.legislation.gov.uk/ssi/2014/145/regulation/3/b/ii)
 
-[^key-150b9d353a234d6b7421a3d54390f3f6]: Textual amendment: Reg. 4(5) inserted (28.6.2014) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2014 (S.S.I. 2014/145)](https://www.legislation.gov.uk/ssi/2014/145), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/145/regulation/1/2), [3(c)](https://www.legislation.gov.uk/ssi/2014/145/regulation/3/c)
+[^c-150b9d353a234d6b7421a3d54390f3f6]: Textual amendment: Reg. 4(5) inserted (28.6.2014) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2014 (S.S.I. 2014/145)](https://www.legislation.gov.uk/ssi/2014/145), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/145/regulation/1/2), [3(c)](https://www.legislation.gov.uk/ssi/2014/145/regulation/3/c)
 
-[^key-f2202ac6f480bfe0df8e92fa52ba17a7]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/ssi/2000/59/regulation/5) substituted (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [6](https://www.legislation.gov.uk/ssi/2007/162/regulation/6) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
+[^c-f2202ac6f480bfe0df8e92fa52ba17a7]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/ssi/2000/59/regulation/5) substituted (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [6](https://www.legislation.gov.uk/ssi/2007/162/regulation/6) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
 
-[^key-e39c6c6b1ebf791f4871d5275ba71c76]: Commencement: Reg. 6 in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
+[^c-e39c6c6b1ebf791f4871d5275ba71c76]: Commencement: Reg. 6 in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
 
-[^key-b34fe358ee8d8d83f85044e9a2ad6667]: Textual amendment: Word in [reg. 6(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/6/1) substituted (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2007/162/regulation/7/2) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
+[^c-b34fe358ee8d8d83f85044e9a2ad6667]: Textual amendment: Word in [reg. 6(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/6/1) substituted (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2007/162/regulation/7/2) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
 
-[^key-33dd60e1e0b8e92b3555c3e2c8b59fe2]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/ssi/2000/59/regulation/6/2) substituted (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [7(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/7/3) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
+[^c-33dd60e1e0b8e92b3555c3e2c8b59fe2]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/ssi/2000/59/regulation/6/2) substituted (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [7(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/7/3) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
 
-[^key-327ee3111cc6b81e7815d60e21f8e23a]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/ssi/2000/59/regulation/6/2) substituted (28.6.2014) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2014 (S.S.I. 2014/145)](https://www.legislation.gov.uk/ssi/2014/145), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/145/regulation/1/2), [4(a)(i)](https://www.legislation.gov.uk/ssi/2014/145/regulation/4/a/i)
+[^c-327ee3111cc6b81e7815d60e21f8e23a]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/ssi/2000/59/regulation/6/2) substituted (28.6.2014) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2014 (S.S.I. 2014/145)](https://www.legislation.gov.uk/ssi/2014/145), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/145/regulation/1/2), [4(a)(i)](https://www.legislation.gov.uk/ssi/2014/145/regulation/4/a/i)
 
-[^key-379cea85faa3489006e1276347d49dec]: Textual amendment: Words in reg. 6(2) inserted (8.4.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/65)](https://www.legislation.gov.uk/ssi/2013/65), [regs. 1](https://www.legislation.gov.uk/ssi/2013/65/regulation/1), [5(3)(a)(i)](https://www.legislation.gov.uk/ssi/2013/65/regulation/5/3/a/i)
+[^c-379cea85faa3489006e1276347d49dec]: Textual amendment: Words in reg. 6(2) inserted (8.4.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/65)](https://www.legislation.gov.uk/ssi/2013/65), [regs. 1](https://www.legislation.gov.uk/ssi/2013/65/regulation/1), [5(3)(a)(i)](https://www.legislation.gov.uk/ssi/2013/65/regulation/5/3/a/i)
 
-[^key-a18c3ef143e4a80dedc703acaee2fe7b]: Textual amendment: Word in [reg. 6(2)(a)](https://www.legislation.gov.uk/ssi/2000/59/regulation/6/2/a) substituted (1.4.2011) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/89)](https://www.legislation.gov.uk/ssi/2011/89), [regs. 1](https://www.legislation.gov.uk/ssi/2011/89/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2011/89/regulation/2/4)
+[^c-a18c3ef143e4a80dedc703acaee2fe7b]: Textual amendment: Word in [reg. 6(2)(a)](https://www.legislation.gov.uk/ssi/2000/59/regulation/6/2/a) substituted (1.4.2011) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/89)](https://www.legislation.gov.uk/ssi/2011/89), [regs. 1](https://www.legislation.gov.uk/ssi/2011/89/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2011/89/regulation/2/4)
 
-[^key-a9e172d64d904b8232bd832e4bac51f2]: Textual amendment: Word in [reg. 6(2)(b)](https://www.legislation.gov.uk/ssi/2000/59/regulation/6/2/b) inserted (26.7.2021) by [The Disability Assistance for Children and Young People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2021 (S.S.I. 2021/73)](https://www.legislation.gov.uk/ssi/2021/73), [regs. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1), [6(3)(a)](https://www.legislation.gov.uk/ssi/2021/73/regulation/6/3/a) (with [reg. 19](https://www.legislation.gov.uk/ssi/2021/73/regulation/19))
+[^c-a9e172d64d904b8232bd832e4bac51f2]: Textual amendment: Word in [reg. 6(2)(b)](https://www.legislation.gov.uk/ssi/2000/59/regulation/6/2/b) inserted (26.7.2021) by [The Disability Assistance for Children and Young People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2021 (S.S.I. 2021/73)](https://www.legislation.gov.uk/ssi/2021/73), [regs. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1), [6(3)(a)](https://www.legislation.gov.uk/ssi/2021/73/regulation/6/3/a) (with [reg. 19](https://www.legislation.gov.uk/ssi/2021/73/regulation/19))
 
-[^key-80d4f8369ef044cb587d5444345e3a86]: Textual amendment: Word in [reg. 6(2)(b)](https://www.legislation.gov.uk/ssi/2000/59/regulation/6/2/b) inserted (21.3.2025) by [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/ssi/2024/311/regulation/7/3/a)
+[^c-80d4f8369ef044cb587d5444345e3a86]: Textual amendment: Word in [reg. 6(2)(b)](https://www.legislation.gov.uk/ssi/2000/59/regulation/6/2/b) inserted (21.3.2025) by [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/ssi/2024/311/regulation/7/3/a)
 
-[^key-eaf8ce5259811b5f0e59e072074fee64]: Textual amendment: Words in [reg. 6(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2000/59/regulation/6/2/b/ii) inserted (21.3.2025) by [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [7(3)(b)](https://www.legislation.gov.uk/ssi/2024/311/regulation/7/3/b)
+[^c-eaf8ce5259811b5f0e59e072074fee64]: Textual amendment: Words in [reg. 6(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2000/59/regulation/6/2/b/ii) inserted (21.3.2025) by [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [7(3)(b)](https://www.legislation.gov.uk/ssi/2024/311/regulation/7/3/b)
 
-[^key-e576f3ad0b005426b35758d177128700]: Textual amendment: Words in [reg. 6(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2000/59/regulation/6/2/b/ii) inserted (26.7.2021) by [The Disability Assistance for Children and Young People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2021 (S.S.I. 2021/73)](https://www.legislation.gov.uk/ssi/2021/73), [regs. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1), [6(3)(b)](https://www.legislation.gov.uk/ssi/2021/73/regulation/6/3/b) (with [reg. 19](https://www.legislation.gov.uk/ssi/2021/73/regulation/19))
+[^c-e576f3ad0b005426b35758d177128700]: Textual amendment: Words in [reg. 6(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2000/59/regulation/6/2/b/ii) inserted (26.7.2021) by [The Disability Assistance for Children and Young People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2021 (S.S.I. 2021/73)](https://www.legislation.gov.uk/ssi/2021/73), [regs. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1), [6(3)(b)](https://www.legislation.gov.uk/ssi/2021/73/regulation/6/3/b) (with [reg. 19](https://www.legislation.gov.uk/ssi/2021/73/regulation/19))
 
-[^key-da67c68a491a5bdf9662e4b8d33d2484]: Textual amendment: Reg. 6(2)(ba) inserted (8.4.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/65)](https://www.legislation.gov.uk/ssi/2013/65), [regs. 1](https://www.legislation.gov.uk/ssi/2013/65/regulation/1), [5(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2013/65/regulation/5/3/a/ii)
+[^c-da67c68a491a5bdf9662e4b8d33d2484]: Textual amendment: Reg. 6(2)(ba) inserted (8.4.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/65)](https://www.legislation.gov.uk/ssi/2013/65), [regs. 1](https://www.legislation.gov.uk/ssi/2013/65/regulation/1), [5(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2013/65/regulation/5/3/a/ii)
 
-[^key-bf2770e1e2ca2f7769963c49f7ee76f4]: Textual amendment: Words in [reg. 6(2)(ba)](https://www.legislation.gov.uk/ssi/2000/59/regulation/6/2/ba) inserted (21.3.2022) by [The Disability Assistance for Working Age People (Consequential and Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/31)](https://www.legislation.gov.uk/ssi/2022/31), [regs. 1](https://www.legislation.gov.uk/ssi/2022/31/regulation/1), [6(3)(a)](https://www.legislation.gov.uk/ssi/2022/31/regulation/6/3/a) (with [reg. 20](https://www.legislation.gov.uk/ssi/2022/31/regulation/20))
+[^c-bf2770e1e2ca2f7769963c49f7ee76f4]: Textual amendment: Words in [reg. 6(2)(ba)](https://www.legislation.gov.uk/ssi/2000/59/regulation/6/2/ba) inserted (21.3.2022) by [The Disability Assistance for Working Age People (Consequential and Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/31)](https://www.legislation.gov.uk/ssi/2022/31), [regs. 1](https://www.legislation.gov.uk/ssi/2022/31/regulation/1), [6(3)(a)](https://www.legislation.gov.uk/ssi/2022/31/regulation/6/3/a) (with [reg. 20](https://www.legislation.gov.uk/ssi/2022/31/regulation/20))
 
-[^key-8e745efde833c67357a5c79915c24a6b]: Textual amendment: Words in [reg. 6(2)(ba)(ii)](https://www.legislation.gov.uk/ssi/2000/59/regulation/6/2/ba/ii) inserted (21.3.2022) by [The Disability Assistance for Working Age People (Consequential and Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/31)](https://www.legislation.gov.uk/ssi/2022/31), [regs. 1](https://www.legislation.gov.uk/ssi/2022/31/regulation/1), [6(3)(b)](https://www.legislation.gov.uk/ssi/2022/31/regulation/6/3/b) (with [reg. 20](https://www.legislation.gov.uk/ssi/2022/31/regulation/20))
+[^c-8e745efde833c67357a5c79915c24a6b]: Textual amendment: Words in [reg. 6(2)(ba)(ii)](https://www.legislation.gov.uk/ssi/2000/59/regulation/6/2/ba/ii) inserted (21.3.2022) by [The Disability Assistance for Working Age People (Consequential and Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/31)](https://www.legislation.gov.uk/ssi/2022/31), [regs. 1](https://www.legislation.gov.uk/ssi/2022/31/regulation/1), [6(3)(b)](https://www.legislation.gov.uk/ssi/2022/31/regulation/6/3/b) (with [reg. 20](https://www.legislation.gov.uk/ssi/2022/31/regulation/20))
 
-[^key-e16e755ab78b5a5e74baa7e705fadb99]: Textual amendment: Reg. 6(2)(bb) inserted (28.6.2014) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2014 (S.S.I. 2014/145)](https://www.legislation.gov.uk/ssi/2014/145), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/145/regulation/1/2), [4(a)(ii)](https://www.legislation.gov.uk/ssi/2014/145/regulation/4/a/ii)
+[^c-e16e755ab78b5a5e74baa7e705fadb99]: Textual amendment: Reg. 6(2)(bb) inserted (28.6.2014) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2014 (S.S.I. 2014/145)](https://www.legislation.gov.uk/ssi/2014/145), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/145/regulation/1/2), [4(a)(ii)](https://www.legislation.gov.uk/ssi/2014/145/regulation/4/a/ii)
 
-[^key-8291c192055f126a953de24b78327047]: Textual amendment: Words in [reg. 6(2)(c)](https://www.legislation.gov.uk/ssi/2000/59/regulation/6/2/c) inserted (19.5.2017) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/118)](https://www.legislation.gov.uk/ssi/2017/118), [regs. 1](https://www.legislation.gov.uk/ssi/2017/118/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2017/118/regulation/2/3/a)
+[^c-8291c192055f126a953de24b78327047]: Textual amendment: Words in [reg. 6(2)(c)](https://www.legislation.gov.uk/ssi/2000/59/regulation/6/2/c) inserted (19.5.2017) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/118)](https://www.legislation.gov.uk/ssi/2017/118), [regs. 1](https://www.legislation.gov.uk/ssi/2017/118/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2017/118/regulation/2/3/a)
 
-[^key-324cb5e5c093c93d1bda1a5f31fc60ad]: Textual amendment: [Reg. 6(2)(ca)](https://www.legislation.gov.uk/ssi/2000/59/regulation/6/2/ca) omitted (19.5.2017) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/118)](https://www.legislation.gov.uk/ssi/2017/118), [regs. 1](https://www.legislation.gov.uk/ssi/2017/118/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2017/118/regulation/2/3/b)
+[^c-324cb5e5c093c93d1bda1a5f31fc60ad]: Textual amendment: [Reg. 6(2)(ca)](https://www.legislation.gov.uk/ssi/2000/59/regulation/6/2/ca) omitted (19.5.2017) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/118)](https://www.legislation.gov.uk/ssi/2017/118), [regs. 1](https://www.legislation.gov.uk/ssi/2017/118/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2017/118/regulation/2/3/b)
 
-[^key-bfa33867c0d2935d3e155712ccd40b78]: Textual amendment: Words in [reg. 6(2)(d)](https://www.legislation.gov.uk/ssi/2000/59/regulation/6/2/d) substituted (1.4.2016) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/72)](https://www.legislation.gov.uk/ssi/2016/72), [regs. 1](https://www.legislation.gov.uk/ssi/2016/72/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2016/72/regulation/2/4/b)
+[^c-bfa33867c0d2935d3e155712ccd40b78]: Textual amendment: Words in [reg. 6(2)(d)](https://www.legislation.gov.uk/ssi/2000/59/regulation/6/2/d) substituted (1.4.2016) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/72)](https://www.legislation.gov.uk/ssi/2016/72), [regs. 1](https://www.legislation.gov.uk/ssi/2016/72/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2016/72/regulation/2/4/b)
 
-[^key-1f5657c78618971fc965c503e6237e39]: Textual amendment: [Reg. 6(2)(e)](https://www.legislation.gov.uk/ssi/2000/59/regulation/6/2/e) omitted (8.4.2013) by virtue of [The Welfare Reform (Consequential Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/65)](https://www.legislation.gov.uk/ssi/2013/65), [regs. 1](https://www.legislation.gov.uk/ssi/2013/65/regulation/1), [5(3)(a)(iv)](https://www.legislation.gov.uk/ssi/2013/65/regulation/5/3/a/iv)
+[^c-1f5657c78618971fc965c503e6237e39]: Textual amendment: [Reg. 6(2)(e)](https://www.legislation.gov.uk/ssi/2000/59/regulation/6/2/e) omitted (8.4.2013) by virtue of [The Welfare Reform (Consequential Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/65)](https://www.legislation.gov.uk/ssi/2013/65), [regs. 1](https://www.legislation.gov.uk/ssi/2013/65/regulation/1), [5(3)(a)(iv)](https://www.legislation.gov.uk/ssi/2013/65/regulation/5/3/a/iv)
 
-[^key-a694026fea5507b0116393248baacc9c]: Textual amendment: Reg. 6(3) inserted (8.4.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/65)](https://www.legislation.gov.uk/ssi/2013/65), [regs. 1](https://www.legislation.gov.uk/ssi/2013/65/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/ssi/2013/65/regulation/5/3/b)
+[^c-a694026fea5507b0116393248baacc9c]: Textual amendment: Reg. 6(3) inserted (8.4.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/65)](https://www.legislation.gov.uk/ssi/2013/65), [regs. 1](https://www.legislation.gov.uk/ssi/2013/65/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/ssi/2013/65/regulation/5/3/b)
 
-[^key-63854f71048841762d33c9d6ac59a2b0]: Textual amendment: Reg. 6(4) inserted (28.6.2014) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2014 (S.S.I. 2014/145)](https://www.legislation.gov.uk/ssi/2014/145), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/145/regulation/1/2), [4(b)](https://www.legislation.gov.uk/ssi/2014/145/regulation/4/b)
+[^c-63854f71048841762d33c9d6ac59a2b0]: Textual amendment: Reg. 6(4) inserted (28.6.2014) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2014 (S.S.I. 2014/145)](https://www.legislation.gov.uk/ssi/2014/145), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/145/regulation/1/2), [4(b)](https://www.legislation.gov.uk/ssi/2014/145/regulation/4/b)
 
-[^key-efcb31fd34292a10dcd4cb888408840a]: Commencement: Reg. 7 in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
+[^c-efcb31fd34292a10dcd4cb888408840a]: Commencement: Reg. 7 in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
 
-[^key-a3b5cd044c70ae615ef85d97306b7d4a]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/7/1) inserted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/4/a)
+[^c-a3b5cd044c70ae615ef85d97306b7d4a]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/7/1) inserted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/4/a)
 
 [^M_F_c259a4e9-31e5-4ac7-e6e9-39b48489c55f]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/7/1) substituted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/4/a)
 
-[^key-f1b56ec4aa4770b1da8866fe5761b693]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/7/1) inserted (1.4.2011) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/89)](https://www.legislation.gov.uk/ssi/2011/89), [regs. 1](https://www.legislation.gov.uk/ssi/2011/89/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2011/89/regulation/2/5)
+[^c-f1b56ec4aa4770b1da8866fe5761b693]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/7/1) inserted (1.4.2011) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/89)](https://www.legislation.gov.uk/ssi/2011/89), [regs. 1](https://www.legislation.gov.uk/ssi/2011/89/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2011/89/regulation/2/5)
 
-[^key-70c37635458fd8d12b497fa18235e9c2]: Commencement: Reg. 8 in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
+[^c-70c37635458fd8d12b497fa18235e9c2]: Commencement: Reg. 8 in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
 
-[^key-3bc7976bcb44c4966373c58c5c268d63]: Textual amendment: Words in [reg. 8(2)(a)](https://www.legislation.gov.uk/ssi/2000/59/regulation/8/2/a) omitted (1.1.2012) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(5)(a)(i)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/5/a/i)
+[^c-3bc7976bcb44c4966373c58c5c268d63]: Textual amendment: Words in [reg. 8(2)(a)](https://www.legislation.gov.uk/ssi/2000/59/regulation/8/2/a) omitted (1.1.2012) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(5)(a)(i)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/5/a/i)
 
-[^key-e2007bfa9215c32a60796a21732a749e]: Textual amendment: Words in [reg. 8(2)(a)](https://www.legislation.gov.uk/ssi/2000/59/regulation/8/2/a) substituted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(5)(a)(ii)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/5/a/ii)
+[^c-e2007bfa9215c32a60796a21732a749e]: Textual amendment: Words in [reg. 8(2)(a)](https://www.legislation.gov.uk/ssi/2000/59/regulation/8/2/a) substituted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(5)(a)(ii)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/5/a/ii)
 
-[^key-f04fe5c69390db9478b60069fa55834a]: Textual amendment: Words in [reg. 8(2)(b)(i)](https://www.legislation.gov.uk/ssi/2000/59/regulation/8/2/b/i) inserted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/5/b)
+[^c-f04fe5c69390db9478b60069fa55834a]: Textual amendment: Words in [reg. 8(2)(b)(i)](https://www.legislation.gov.uk/ssi/2000/59/regulation/8/2/b/i) inserted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/5/b)
 
-[^key-6dc29a904c0dac5004a2ae1304380666]: Textual amendment: Word in [reg. 8(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2000/59/regulation/8/2/b/ii) substituted (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [8](https://www.legislation.gov.uk/ssi/2007/162/regulation/8) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
+[^c-6dc29a904c0dac5004a2ae1304380666]: Textual amendment: Word in [reg. 8(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2000/59/regulation/8/2/b/ii) substituted (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [8](https://www.legislation.gov.uk/ssi/2007/162/regulation/8) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
 
-[^key-b12389c8de7a8c040dee394a400bd14a]: Textual amendment: Reg. 8(2)(ba) inserted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(5)(c)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/5/c)
+[^c-b12389c8de7a8c040dee394a400bd14a]: Textual amendment: Reg. 8(2)(ba) inserted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(5)(c)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/5/c)
 
-[^key-77ad11c5b52392719f63d2f527551806]: Textual amendment: Reg. 8(2)(ca) inserted (1.9.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/2/b), [2(5)(d)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/5/d)
+[^c-77ad11c5b52392719f63d2f527551806]: Textual amendment: Reg. 8(2)(ca) inserted (1.9.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/2/b), [2(5)(d)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/5/d)
 
-[^key-9465bc5be60fef7bc5639664f6062988]: Commencement: Reg. 9 in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
+[^c-9465bc5be60fef7bc5639664f6062988]: Commencement: Reg. 9 in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
 
-[^key-374743784a76b3db7303d6b21faa52fe]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/9/1) substituted (8.4.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/65)](https://www.legislation.gov.uk/ssi/2013/65), [regs. 1](https://www.legislation.gov.uk/ssi/2013/65/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/ssi/2013/65/regulation/5/4/a)
+[^c-374743784a76b3db7303d6b21faa52fe]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/9/1) substituted (8.4.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/65)](https://www.legislation.gov.uk/ssi/2013/65), [regs. 1](https://www.legislation.gov.uk/ssi/2013/65/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/ssi/2013/65/regulation/5/4/a)
 
-[^key-a1f5fbcbf271a25ff88e61055243bea3]: Textual amendment: Word in [reg. 9(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/9/1) substituted (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [9(a)](https://www.legislation.gov.uk/ssi/2007/162/regulation/9/a) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
+[^c-a1f5fbcbf271a25ff88e61055243bea3]: Textual amendment: Word in [reg. 9(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/9/1) substituted (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [9(a)](https://www.legislation.gov.uk/ssi/2007/162/regulation/9/a) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
 
-[^key-76fcf7d351e990544c834e4220e05528]: Textual amendment: Word in [reg. 9(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/9/1) substituted (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [9(b)](https://www.legislation.gov.uk/ssi/2007/162/regulation/9/b) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
+[^c-76fcf7d351e990544c834e4220e05528]: Textual amendment: Word in [reg. 9(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/9/1) substituted (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [9(b)](https://www.legislation.gov.uk/ssi/2007/162/regulation/9/b) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
 
-[^key-779edf02979f8ba1b782ef3b1c5d1e84]: Textual amendment: Words in [reg. 9(1)(e)](https://www.legislation.gov.uk/ssi/2000/59/regulation/9/1/e) inserted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/6/a)
+[^c-779edf02979f8ba1b782ef3b1c5d1e84]: Textual amendment: Words in [reg. 9(1)(e)](https://www.legislation.gov.uk/ssi/2000/59/regulation/9/1/e) inserted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/6/a)
 
-[^key-844eac8b514a874958b73649fafcf551]: Textual amendment: Words in [reg. 9(1)(f)](https://www.legislation.gov.uk/ssi/2000/59/regulation/9/1/f) inserted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/6/b)
+[^c-844eac8b514a874958b73649fafcf551]: Textual amendment: Words in [reg. 9(1)(f)](https://www.legislation.gov.uk/ssi/2000/59/regulation/9/1/f) inserted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/6/b)
 
-[^key-9bd9122512a01cfa7c4314b6284038c0]: Textual amendment: Reg. 9(1A) inserted (8.4.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/65)](https://www.legislation.gov.uk/ssi/2013/65), [regs. 1](https://www.legislation.gov.uk/ssi/2013/65/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/ssi/2013/65/regulation/5/4/b)
+[^c-9bd9122512a01cfa7c4314b6284038c0]: Textual amendment: Reg. 9(1A) inserted (8.4.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/65)](https://www.legislation.gov.uk/ssi/2013/65), [regs. 1](https://www.legislation.gov.uk/ssi/2013/65/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/ssi/2013/65/regulation/5/4/b)
 
-[^key-8468fdf77bc26f9845a2af10015cc093]: Textual amendment: Words in [reg. 9(2)(a)](https://www.legislation.gov.uk/ssi/2000/59/regulation/9/2/a) substituted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(6)(c)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/6/c)
+[^c-8468fdf77bc26f9845a2af10015cc093]: Textual amendment: Words in [reg. 9(2)(a)](https://www.legislation.gov.uk/ssi/2000/59/regulation/9/2/a) substituted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(6)(c)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/6/c)
 
-[^key-2dae8fd9b4979bf75f3fbd11bcfc551b]: Textual amendment: Words in [reg. 9(2)(b)](https://www.legislation.gov.uk/ssi/2000/59/regulation/9/2/b) inserted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(6)(d)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/6/d)
+[^c-2dae8fd9b4979bf75f3fbd11bcfc551b]: Textual amendment: Words in [reg. 9(2)(b)](https://www.legislation.gov.uk/ssi/2000/59/regulation/9/2/b) inserted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(6)(d)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/6/d)
 
-[^key-2d08c9d0e2b220b8387f6729b418a6bb]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/ssi/2000/59/regulation/9A) inserted (30.3.2015) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/9)](https://www.legislation.gov.uk/ssi/2015/9), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/9/regulation/1/2), [3](https://www.legislation.gov.uk/ssi/2015/9/regulation/3)
+[^c-2d08c9d0e2b220b8387f6729b418a6bb]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/ssi/2000/59/regulation/9A) inserted (30.3.2015) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/9)](https://www.legislation.gov.uk/ssi/2015/9), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/9/regulation/1/2), [3](https://www.legislation.gov.uk/ssi/2015/9/regulation/3)
 
-[^key-4e354a60c79b769ea8f769ea3fe184f3]: Commencement: Reg. 10 in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
+[^c-4e354a60c79b769ea8f769ea3fe184f3]: Commencement: Reg. 10 in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
 
-[^key-1f0f60c9ebdf42fb5067370c97fc07c5]: Textual amendment: [Reg. 10(4)](https://www.legislation.gov.uk/ssi/2000/59/regulation/10/4) omitted (1.1.2012) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(7)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/7)
+[^c-1f0f60c9ebdf42fb5067370c97fc07c5]: Textual amendment: [Reg. 10(4)](https://www.legislation.gov.uk/ssi/2000/59/regulation/10/4) omitted (1.1.2012) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(7)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/7)
 
 [^f00012]: Footnote: [1907 (c. 51)](https://www.legislation.gov.uk/ukpga/1907/51).
 
-[^key-fb397c373788661fb4ee79c1bf679f0f]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/ssi/2000/59/regulation/10A) inserted (30.3.2015) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/9)](https://www.legislation.gov.uk/ssi/2015/9), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/9/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2015/9/regulation/4)
+[^c-fb397c373788661fb4ee79c1bf679f0f]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/ssi/2000/59/regulation/10A) inserted (30.3.2015) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/9)](https://www.legislation.gov.uk/ssi/2015/9), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/9/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2015/9/regulation/4)
 
-[^key-9f970d91eb10f27e92d44198c24f5350]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/ssi/2000/59/regulation/11) substituted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(8)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/8)
+[^c-9f970d91eb10f27e92d44198c24f5350]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/ssi/2000/59/regulation/11) substituted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(8)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/8)
 
-[^key-395d196edd240779daf58969cf4a357d]: Textual amendment: [Reg. 11(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/11/1) substituted (1.4.2019 at 16:00 hours) by [The Disabled Persons (Badges for Motor Vehicles) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/128)](https://www.legislation.gov.uk/ssi/2019/128), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/128/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/ssi/2019/128/regulation/2/3/a)
+[^c-395d196edd240779daf58969cf4a357d]: Textual amendment: [Reg. 11(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/11/1) substituted (1.4.2019 at 16:00 hours) by [The Disabled Persons (Badges for Motor Vehicles) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/128)](https://www.legislation.gov.uk/ssi/2019/128), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/128/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/ssi/2019/128/regulation/2/3/a)
 
-[^key-fc66cb36da4910112e6ccdc197696799]: Textual amendment: [Reg. 11(4)](https://www.legislation.gov.uk/ssi/2000/59/regulation/11/4) inserted (1.4.2019 at 16:00 hours) by [The Disabled Persons (Badges for Motor Vehicles) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/128)](https://www.legislation.gov.uk/ssi/2019/128), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/128/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/ssi/2019/128/regulation/2/3/b)
+[^c-fc66cb36da4910112e6ccdc197696799]: Textual amendment: [Reg. 11(4)](https://www.legislation.gov.uk/ssi/2000/59/regulation/11/4) inserted (1.4.2019 at 16:00 hours) by [The Disabled Persons (Badges for Motor Vehicles) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/128)](https://www.legislation.gov.uk/ssi/2019/128), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/128/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/ssi/2019/128/regulation/2/3/b)
 
-[^key-827b7417d8d9090c282bfbb095400ee9]: Commencement: Reg. 12 in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
+[^c-827b7417d8d9090c282bfbb095400ee9]: Commencement: Reg. 12 in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
 
-[^key-77229da6de8c47ccd4fd6321a3c22c9f]: Commencement: Reg. 13 in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
+[^c-77229da6de8c47ccd4fd6321a3c22c9f]: Commencement: Reg. 13 in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
 
-[^key-4a4904b7bf890f9a169a34ed7201adb6]: Commencement: Reg. 14 in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
+[^c-4a4904b7bf890f9a169a34ed7201adb6]: Commencement: Reg. 14 in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
 
-[^key-82056d244eb9e4f32b09d7ffb1b74b91]: Commencement: Reg. 15 in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
+[^c-82056d244eb9e4f32b09d7ffb1b74b91]: Commencement: Reg. 15 in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
 
-[^key-342499c23401b971f75ddd5914d8d7bd]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/ssi/2000/59/regulation/15) heading substituted (1.4.2007) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [11(2)](https://www.legislation.gov.uk/ssi/2007/162/regulation/11/2) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
+[^c-342499c23401b971f75ddd5914d8d7bd]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/ssi/2000/59/regulation/15) heading substituted (1.4.2007) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [11(2)](https://www.legislation.gov.uk/ssi/2007/162/regulation/11/2) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
 
-[^key-dc95865f34c277dddb9c2b87ff0a76de]: Textual amendment: Word in [reg. 15](https://www.legislation.gov.uk/ssi/2000/59/regulation/15) substituted (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [11(1)](https://www.legislation.gov.uk/ssi/2007/162/regulation/11/1) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
+[^c-dc95865f34c277dddb9c2b87ff0a76de]: Textual amendment: Word in [reg. 15](https://www.legislation.gov.uk/ssi/2000/59/regulation/15) substituted (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [11(1)](https://www.legislation.gov.uk/ssi/2007/162/regulation/11/1) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
 
-[^key-d6f7169d00ab3d4dd22c9a24e53135c8]: Commencement: Reg. 16 in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
+[^c-d6f7169d00ab3d4dd22c9a24e53135c8]: Commencement: Reg. 16 in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
 
-[^key-1db6a703149f4da4efc40e40e49ce8f9]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/ssi/2000/59/regulation/16) heading substituted (1.4.2007) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [11(2)](https://www.legislation.gov.uk/ssi/2007/162/regulation/11/2) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
+[^c-1db6a703149f4da4efc40e40e49ce8f9]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/ssi/2000/59/regulation/16) heading substituted (1.4.2007) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [11(2)](https://www.legislation.gov.uk/ssi/2007/162/regulation/11/2) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
 
-[^key-5ad56fb4ebdcd05862eab4172bf4f677]: Textual amendment: Word in [reg. 16](https://www.legislation.gov.uk/ssi/2000/59/regulation/16) substituted (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [11(1)](https://www.legislation.gov.uk/ssi/2007/162/regulation/11/1) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
+[^c-5ad56fb4ebdcd05862eab4172bf4f677]: Textual amendment: Word in [reg. 16](https://www.legislation.gov.uk/ssi/2000/59/regulation/16) substituted (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [11(1)](https://www.legislation.gov.uk/ssi/2007/162/regulation/11/1) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
 
-[^key-de4eb3463fa947acea3b8094c603df52]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/1) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
+[^c-de4eb3463fa947acea3b8094c603df52]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/1) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
 
-[^key-0c766642941a65814aebe26165b7cba6]: Textual amendment: Sch. Pt. 1 substituted (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [10(2)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/2), [sch.](https://www.legislation.gov.uk/ssi/2007/162/schedule) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
+[^c-0c766642941a65814aebe26165b7cba6]: Textual amendment: Sch. Pt. 1 substituted (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [10(2)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/2), [sch.](https://www.legislation.gov.uk/ssi/2007/162/schedule) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
 
-[^key-36ba2abe14405dc147f9e171e268a8b5]: Textual amendment: Words in [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/I) inserted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(9)(a)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/9/a)
+[^c-36ba2abe14405dc147f9e171e268a8b5]: Textual amendment: Words in [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/I) inserted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(9)(a)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/9/a)
 
-[^key-e74f50c67b45826617d778cf84b952c5]: Textual amendment: Sch. Pt. 1A inserted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(9)(b)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/9/b), [sch. 1](https://www.legislation.gov.uk/ssi/2011/410/schedule/1)
+[^c-e74f50c67b45826617d778cf84b952c5]: Textual amendment: Sch. Pt. 1A inserted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(9)(b)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/9/b), [sch. 1](https://www.legislation.gov.uk/ssi/2011/410/schedule/1)
 
-[^key-0095409f2fa8d13d9591ec75bac44bf1]: Textual amendment: Words in [sch. Pt. 1A](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/1A) heading inserted (1.4.2019 at 16:00 hours) by [The Disabled Persons (Badges for Motor Vehicles) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/128)](https://www.legislation.gov.uk/ssi/2019/128), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/128/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/ssi/2019/128/regulation/2/4/a)
+[^c-0095409f2fa8d13d9591ec75bac44bf1]: Textual amendment: Words in [sch. Pt. 1A](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/1A) heading inserted (1.4.2019 at 16:00 hours) by [The Disabled Persons (Badges for Motor Vehicles) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/128)](https://www.legislation.gov.uk/ssi/2019/128), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/128/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/ssi/2019/128/regulation/2/4/a)
 
-[^key-29473d0249beabcc3c80fedcb51e417e]: Textual amendment: [Sch. Pt. 1B](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/1B) inserted (1.4.2019 at 16:00 hours) by [The Disabled Persons (Badges for Motor Vehicles) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/128)](https://www.legislation.gov.uk/ssi/2019/128), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/128/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/ssi/2019/128/regulation/2/4/b)
+[^c-29473d0249beabcc3c80fedcb51e417e]: Textual amendment: [Sch. Pt. 1B](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/1B) inserted (1.4.2019 at 16:00 hours) by [The Disabled Persons (Badges for Motor Vehicles) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/128)](https://www.legislation.gov.uk/ssi/2019/128), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/128/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/ssi/2019/128/regulation/2/4/b)
 
-[^key-6d69252516c04d5288b8e1e52255c3a2]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/2) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
+[^c-6d69252516c04d5288b8e1e52255c3a2]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/2) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
 
-[^key-89128c128d5ce01743461763a30d2c0e]: Textual amendment: Sch. Pt. 2 substituted (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [10(2)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/2), [sch.](https://www.legislation.gov.uk/ssi/2007/162/schedule) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
+[^c-89128c128d5ce01743461763a30d2c0e]: Textual amendment: Sch. Pt. 2 substituted (1.4.2007) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/162)](https://www.legislation.gov.uk/ssi/2007/162), [regs. 1](https://www.legislation.gov.uk/ssi/2007/162/regulation/1), [10(2)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/2), [sch.](https://www.legislation.gov.uk/ssi/2007/162/schedule) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2007/162/regulation/10/3))
 
-[^key-55f673bfe0d7b6f3c50e231824afc214]: Textual amendment: Words in [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/II) inserted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(9)(c)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/9/c)
+[^c-55f673bfe0d7b6f3c50e231824afc214]: Textual amendment: Words in [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/II) inserted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(9)(c)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/9/c)
 
-[^key-43965070fb749adf9b896e76df2d5976]: Textual amendment: Sch. Pt. 2A inserted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(9)(d)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/9/d), [sch. 2](https://www.legislation.gov.uk/ssi/2011/410/schedule/2)
+[^c-43965070fb749adf9b896e76df2d5976]: Textual amendment: Sch. Pt. 2A inserted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(9)(d)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/9/d), [sch. 2](https://www.legislation.gov.uk/ssi/2011/410/schedule/2)
 
-[^key-541b8d828135a5fbd842f80e3499fa3b]: Textual amendment: Words in [sch. Pt. 2A](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/2A) heading inserted (1.4.2019 at 16:00 hours) by [The Disabled Persons (Badges for Motor Vehicles) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/128)](https://www.legislation.gov.uk/ssi/2019/128), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/128/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/ssi/2019/128/regulation/2/4/c)
+[^c-541b8d828135a5fbd842f80e3499fa3b]: Textual amendment: Words in [sch. Pt. 2A](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/2A) heading inserted (1.4.2019 at 16:00 hours) by [The Disabled Persons (Badges for Motor Vehicles) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/128)](https://www.legislation.gov.uk/ssi/2019/128), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/128/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/ssi/2019/128/regulation/2/4/c)
 
-[^key-250f2327075012cb58f2f99c46dd89b4]: Textual amendment: [Sch. Pt. 2B](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/2B) inserted (1.4.2019 at 16:00 hours) by [The Disabled Persons (Badges for Motor Vehicles) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/128)](https://www.legislation.gov.uk/ssi/2019/128), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/128/regulation/1/2), [2(4)(d)](https://www.legislation.gov.uk/ssi/2019/128/regulation/2/4/d)
+[^c-250f2327075012cb58f2f99c46dd89b4]: Textual amendment: [Sch. Pt. 2B](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/2B) inserted (1.4.2019 at 16:00 hours) by [The Disabled Persons (Badges for Motor Vehicles) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/128)](https://www.legislation.gov.uk/ssi/2019/128), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/128/regulation/1/2), [2(4)(d)](https://www.legislation.gov.uk/ssi/2019/128/regulation/2/4/d)
 
-[^key-8990379c03277d30683c6d9d13475b76]: Commencement: [Sch. Pt. 3](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/3) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
+[^c-8990379c03277d30683c6d9d13475b76]: Commencement: [Sch. Pt. 3](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/3) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/59/regulation/1/1)
 
-[^key-6492b39f1a314f757d8d7ddb71c74d91]: Textual amendment: Words in [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/III) inserted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(9)(e)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/9/e)
+[^c-6492b39f1a314f757d8d7ddb71c74d91]: Textual amendment: Words in [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/III) inserted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(9)(e)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/9/e)
 
-[^key-38c8b3603d1c0a351db04c65fbf794de]: Textual amendment: Sch. Pt. 3A inserted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(9)(f)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/9/f), [sch. 3](https://www.legislation.gov.uk/ssi/2011/410/schedule/3)
+[^c-38c8b3603d1c0a351db04c65fbf794de]: Textual amendment: Sch. Pt. 3A inserted (1.1.2012) by [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/410)](https://www.legislation.gov.uk/ssi/2011/410), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/410/regulation/1/1), [2(9)(f)](https://www.legislation.gov.uk/ssi/2011/410/regulation/2/9/f), [sch. 3](https://www.legislation.gov.uk/ssi/2011/410/schedule/3)
 
-[^key-d352ead7e56d5e20375c35981a87a431]: Textual amendment: Words in [sch. Pt. 3A](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/3A) heading inserted (1.4.2019 at 16:00 hours) by [The Disabled Persons (Badges for Motor Vehicles) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/128)](https://www.legislation.gov.uk/ssi/2019/128), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/128/regulation/1/2), [2(4)(e)](https://www.legislation.gov.uk/ssi/2019/128/regulation/2/4/e)
+[^c-d352ead7e56d5e20375c35981a87a431]: Textual amendment: Words in [sch. Pt. 3A](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/3A) heading inserted (1.4.2019 at 16:00 hours) by [The Disabled Persons (Badges for Motor Vehicles) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/128)](https://www.legislation.gov.uk/ssi/2019/128), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/128/regulation/1/2), [2(4)(e)](https://www.legislation.gov.uk/ssi/2019/128/regulation/2/4/e)
 
-[^key-bb938798e49156accc7852cb256a9c2f]: Textual amendment: [Sch. Pt. 3A para. 1(b)](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/3A/paragraph/1/b) omitted (30.3.2015) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/9)](https://www.legislation.gov.uk/ssi/2015/9), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/9/regulation/1/2), [5(a)](https://www.legislation.gov.uk/ssi/2015/9/regulation/5/a)
+[^c-bb938798e49156accc7852cb256a9c2f]: Textual amendment: [Sch. Pt. 3A para. 1(b)](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/3A/paragraph/1/b) omitted (30.3.2015) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/9)](https://www.legislation.gov.uk/ssi/2015/9), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/9/regulation/1/2), [5(a)](https://www.legislation.gov.uk/ssi/2015/9/regulation/5/a)
 
-[^key-89beb16afd927ff32a5fd33fe59b8ce4]: Textual amendment: [Sch. Pt. 3A paras. 1(d)-(h)](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/3A/paragraph/1/d) omitted (30.3.2015) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/9)](https://www.legislation.gov.uk/ssi/2015/9), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/9/regulation/1/2), [5(a)](https://www.legislation.gov.uk/ssi/2015/9/regulation/5/a)
+[^c-89beb16afd927ff32a5fd33fe59b8ce4]: Textual amendment: [Sch. Pt. 3A paras. 1(d)-(h)](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/3A/paragraph/1/d) omitted (30.3.2015) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/9)](https://www.legislation.gov.uk/ssi/2015/9), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/9/regulation/1/2), [5(a)](https://www.legislation.gov.uk/ssi/2015/9/regulation/5/a)
 
-[^key-576dbef847a6ff7d266f497d9446791a]: Textual amendment: [Sch. Pt. 3A para. 1(j)](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/3A/paragraph/1/j) omitted (30.3.2015) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/9)](https://www.legislation.gov.uk/ssi/2015/9), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/9/regulation/1/2), [5(a)](https://www.legislation.gov.uk/ssi/2015/9/regulation/5/a)
+[^c-576dbef847a6ff7d266f497d9446791a]: Textual amendment: [Sch. Pt. 3A para. 1(j)](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/3A/paragraph/1/j) omitted (30.3.2015) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/9)](https://www.legislation.gov.uk/ssi/2015/9), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/9/regulation/1/2), [5(a)](https://www.legislation.gov.uk/ssi/2015/9/regulation/5/a)
 
-[^key-165535a031fe90f0cc29ae852da968fa]: Textual amendment: [Sch. Pt. 3A para. 1(k)](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/3A/paragraph/1/k) omitted (30.3.2015) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/9)](https://www.legislation.gov.uk/ssi/2015/9), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/9/regulation/1/2), [5(a)](https://www.legislation.gov.uk/ssi/2015/9/regulation/5/a)
+[^c-165535a031fe90f0cc29ae852da968fa]: Textual amendment: [Sch. Pt. 3A para. 1(k)](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/3A/paragraph/1/k) omitted (30.3.2015) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/9)](https://www.legislation.gov.uk/ssi/2015/9), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/9/regulation/1/2), [5(a)](https://www.legislation.gov.uk/ssi/2015/9/regulation/5/a)
 
-[^key-3b26f6c57ae9f5d930dd679fa1646b53]: Textual amendment: Words in [sch. Pt. 3A para. 1](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/3A/paragraph/1) omitted (30.3.2015) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/9)](https://www.legislation.gov.uk/ssi/2015/9), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/9/regulation/1/2), [5(b)](https://www.legislation.gov.uk/ssi/2015/9/regulation/5/b)
+[^c-3b26f6c57ae9f5d930dd679fa1646b53]: Textual amendment: Words in [sch. Pt. 3A para. 1](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/3A/paragraph/1) omitted (30.3.2015) by virtue of [The Disabled Persons (Badges for Motor Vehicles) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/9)](https://www.legislation.gov.uk/ssi/2015/9), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/9/regulation/1/2), [5(b)](https://www.legislation.gov.uk/ssi/2015/9/regulation/5/b)
 
-[^key-3210157852eeca7d09bfd0b96093107b]: Textual amendment: [Sch. Pt. 3B](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/3B) inserted (1.4.2019 at 16:00 hours) by [The Disabled Persons (Badges for Motor Vehicles) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/128)](https://www.legislation.gov.uk/ssi/2019/128), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/128/regulation/1/2), [2(4)(f)](https://www.legislation.gov.uk/ssi/2019/128/regulation/2/4/f)
+[^c-3210157852eeca7d09bfd0b96093107b]: Textual amendment: [Sch. Pt. 3B](https://www.legislation.gov.uk/ssi/2000/59/schedule/part/3B) inserted (1.4.2019 at 16:00 hours) by [The Disabled Persons (Badges for Motor Vehicles) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/128)](https://www.legislation.gov.uk/ssi/2019/128), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/128/regulation/1/2), [2(4)(f)](https://www.legislation.gov.uk/ssi/2019/128/regulation/2/4/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Payments into Remploy Limited Pension and Assurance Scheme[^key-6d675cf76272b0f7058566d7238d55f3]
+## 77. Payments into Remploy Limited Pension and Assurance Scheme[^c-6d675cf76272b0f7058566d7238d55f3]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Secretary of State may make payments into the Remploy Limited Pension and As
 
 ## Annotations
 
-[^key-6d675cf76272b0f7058566d7238d55f3]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2015/8/section/77) in force at 16.11.2015 by [S.I. 2015/1851](https://www.legislation.gov.uk/uksi/2015/1851), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1851/regulation/2/a)
+[^c-6d675cf76272b0f7058566d7238d55f3]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2015/8/section/77) in force at 16.11.2015 by [S.I. 2015/1851](https://www.legislation.gov.uk/uksi/2015/1851), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1851/regulation/2/a)

@@ -87,7 +87,7 @@ An Act to consolidate certain enactments relating to defence Manœuvres.
 
 ## 3. Powers to close highways.
 
-(1) Where, in the case of, or of any part of, any highway which is a trunk road or a special road within the meaning of the [^c1418036]Special Roads Act, 1949[^c1418035]Roads (Scotland) Act 1984, or which is repairable by the inhabitants at large, being a highway or part situated within the Manœuvres area, an application for the purpose is made by a person authorised in that behalf by the Secretary of State, and not less than seven days’ notice of the intention to make the application has been published in one or more newspapers circulating generally in the district in question, two or more justices of the peace [^key-8b973abbebc9a959fc800ea03ebb30b8]... may, if they think fit, by order—
+(1) Where, in the case of, or of any part of, any highway which is a trunk road or a special road within the meaning of the [^c1418036]Special Roads Act, 1949[^c1418035]Roads (Scotland) Act 1984, or which is repairable by the inhabitants at large, being a highway or part situated within the Manœuvres area, an application for the purpose is made by a person authorised in that behalf by the Secretary of State, and not less than seven days’ notice of the intention to make the application has been published in one or more newspapers circulating generally in the district in question, two or more justices of the peace [^c-8b973abbebc9a959fc800ea03ebb30b8]... may, if they think fit, by order—
 
 - (a) subject to such terms and conditions as may be required by the justices for the protection of individuals or of the public or of public bodies, suspend for any part of the Manœuvres period not exceeding twelve hours, or
 - (b) authorise any officer in command of the authorised forces or any part thereof, being a general or field officer or an officer of corresponding naval or air force rank, to make an order suspending for a time not exceeding six hours in any one day of the said period.
@@ -99,7 +99,7 @@ any right of way over that highway or that part of a highway.
 - (a) suspend for any part of the Manœuvres period not exceeding forty-eight hours, or
 - (b) authorise any such officer as aforesaid to make an order suspending for a time not exceeding six hours in any one day of the said period.
 
-any right of way over that highway or part of a highway[^key-3ba878606c1361aa5989542066433a49]....
+any right of way over that highway or part of a highway[^c-3ba878606c1361aa5989542066433a49]....
 
 (3) The officer directing the Manœuvres shall cause such public notice of any order made under paragraph (a) of either of the two foregoing subsections as the justices may require to be given not less than twelve hours before the order comes into force, and provide for the giving of all reasonable facilities for traffic whilst the order is in force; and any officer making an order by virtue of paragraph (b) of either of the two foregoing subsections shall take such steps as in the circumstances he may consider practicable for giving publicity to his intention to make that order and shall give all reasonable facilities for traffic whilst that order is in force.
 
@@ -109,7 +109,7 @@ any right of way over that highway or part of a highway[^key-3ba878606c1361aa598
 
 - (a)[^c1418038] the expression “ **highway** ” shall be deemed to include any public right of way;
 - (b) for the words “repairable by the inhabitants at large” there shall be substituted the words “maintained and managed by a county or town council”; and
-- (c)[^key-7e9d4298a50c52b903c04b65e0acc091] the references to justices of the peace shall be construed as references to the district court for the area in which the highway or part of a highway is situated.
+- (c)[^c-7e9d4298a50c52b903c04b65e0acc091] the references to justices of the peace shall be construed as references to the district court for the area in which the highway or part of a highway is situated.
 
 ## 4. Manœuvres commissions.[^c1418040][^c1418039]
 
@@ -253,13 +253,13 @@ In this Act, except where the context otherwise requires, the following expressi
 
 [^c1418035]: Textual amendment: Words “Roads (Scotland) Act 1984” substituted (S.) for words “Special Roads Act, 1949” by [Roads (Scotland) Act 1984 (c. 54, SIF 108)](https://www.legislation.gov.uk/ukpga/1984/54), [s. 156(1)](https://www.legislation.gov.uk/ukpga/1984/54/section/156/1), [Sch. 9 para. 50(2)](https://www.legislation.gov.uk/ukpga/1984/54/schedule/9/paragraph/50/2)(*a*)
 
-[^key-8b973abbebc9a959fc800ea03ebb30b8]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/7/section/3/1) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 105(2)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/105/2), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-8b973abbebc9a959fc800ea03ebb30b8]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/7/section/3/1) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 105(2)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/105/2), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
-[^key-3ba878606c1361aa5989542066433a49]: Textual amendment: Words in [s. 3(2)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/7/section/3/2) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 105(3)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/105/3), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-3ba878606c1361aa5989542066433a49]: Textual amendment: Words in [s. 3(2)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/7/section/3/2) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 105(3)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/105/3), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
 [^c1418038]: Textual amendment: S. 3(5)(*a*) repealed (S.) by [Roads (Scotland) Act 1984 (c. 54, SIF 108)](https://www.legislation.gov.uk/ukpga/1984/54), [s. 156(1)](https://www.legislation.gov.uk/ukpga/1984/54/section/156/1), [Sch. 9 para. 50(2)](https://www.legislation.gov.uk/ukpga/1984/54/schedule/9/paragraph/50/2)(*b*), Sch. 11
 
-[^key-7e9d4298a50c52b903c04b65e0acc091]: Textual amendment: [S. 3(5)(c)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/7/section/3/5/c) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 105(4)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/105/4); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-7e9d4298a50c52b903c04b65e0acc091]: Textual amendment: [S. 3(5)(c)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/7/section/3/5/c) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 105(4)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/105/4); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
 [^c1418040]: Modification: Functions of Secretary of State for War now exercisable by a Secretary of State: [Defence (Transfer of Functions) Act 1964 (c. 15)](https://www.legislation.gov.uk/ukpga/1964/15), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1964/15/section/1/2)
 

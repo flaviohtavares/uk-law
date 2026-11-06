@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Other pipe-lines[^key-c86518a3373fcb2124d38f718dfc8993]
+## 21. Other pipe-lines[^c-c86518a3373fcb2124d38f718dfc8993]
 
 *Extent: E+W+S*
 
@@ -55,4 +55,4 @@ the construction of the diversion is treated as the construction of a cross-coun
 
 ## Annotations
 
-[^key-c86518a3373fcb2124d38f718dfc8993]: Commencement: S. 21 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/101/article/3/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-c86518a3373fcb2124d38f718dfc8993]: Commencement: S. 21 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/101/article/3/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))

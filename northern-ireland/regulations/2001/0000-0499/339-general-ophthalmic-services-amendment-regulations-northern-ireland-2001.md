@@ -31,7 +31,7 @@ summary: ''
 
 HEALTH AND PERSONAL SOCIAL SERVICES
 
-General Ophthalmic Services (Amendment) Regulations (Northern Ireland) 2001 (revoked)[^key-3de5ae3d938eeecdfcb250df77df3286]
+General Ophthalmic Services (Amendment) Regulations (Northern Ireland) 2001 (revoked)[^c-3de5ae3d938eeecdfcb250df77df3286]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into operation
 
 12th October 2001
 
-[^key-3de5ae3d938eeecdfcb250df77df3286]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3de5ae3d938eeecdfcb250df77df3286]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-3de5ae3d938eeecdfcb250df77df3286]
+## 1. Citation, commencement and interpretation[^c-3de5ae3d938eeecdfcb250df77df3286]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 15 of the principal Regulations[^key-3de5ae3d938eeecdfcb250df77df3286]
+## 2. Amendment of regulation 15 of the principal Regulations[^c-3de5ae3d938eeecdfcb250df77df3286]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3de5ae3d938eeecdfcb250df77df3286]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3de5ae3d938eeecdfcb250df77df3286]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3de5ae3d938eeecdfcb250df77df3286]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3de5ae3d938eeecdfcb250df77df3286]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3de5ae3d938eeecdfcb250df77df3286]: Textual amendment: Regulation revoked (9.11.2007) by [General Ophthalmic Services Regulations (Northern Ireland) 2007 (S.R. 2007/436)](https://www.legislation.gov.uk/nisr/2007/436), [regs. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1), [23(1)](https://www.legislation.gov.uk/nisr/2007/436/regulation/23/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2007/436/schedule/3) (with [reg. 23(2)](https://www.legislation.gov.uk/nisr/2007/436/regulation/23/2))
+[^c-3de5ae3d938eeecdfcb250df77df3286]: Textual amendment: Regulation revoked (9.11.2007) by [General Ophthalmic Services Regulations (Northern Ireland) 2007 (S.R. 2007/436)](https://www.legislation.gov.uk/nisr/2007/436), [regs. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1), [23(1)](https://www.legislation.gov.uk/nisr/2007/436/regulation/23/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2007/436/schedule/3) (with [reg. 23(2)](https://www.legislation.gov.uk/nisr/2007/436/regulation/23/2))

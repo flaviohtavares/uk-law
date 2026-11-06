@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 51. Extended payments (qualifying contributory benefits)[^key-0a4e4bb1307f8d93997d79e4e1de634e]
+## 51. Extended payments (qualifying contributory benefits)[^c-0a4e4bb1307f8d93997d79e4e1de634e]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a4e4bb1307f8d93997d79e4e1de634e]: Textual amendment: [Regs. 51-51C](https://www.legislation.gov.uk/nisr/2006/406/regulation/51) substituted for [reg. 51](https://www.legislation.gov.uk/nisr/2006/406/regulation/51) (6.10.2008) by [The Housing Benefit (Extended Payments) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/285)](https://www.legislation.gov.uk/nisr/2008/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/285/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2008/285/regulation/3/4)
+[^c-0a4e4bb1307f8d93997d79e4e1de634e]: Textual amendment: [Regs. 51-51C](https://www.legislation.gov.uk/nisr/2006/406/regulation/51) substituted for [reg. 51](https://www.legislation.gov.uk/nisr/2006/406/regulation/51) (6.10.2008) by [The Housing Benefit (Extended Payments) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/285)](https://www.legislation.gov.uk/nisr/2008/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/285/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2008/285/regulation/3/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. New employee to inform employer of repayments liability[^key-bf92bc2caf9ba0f9c8408c3a20e24b91][^key-addc2be984fb91a1d0664a1410e74e4a]
+## 43. New employee to inform employer of repayments liability[^c-bf92bc2caf9ba0f9c8408c3a20e24b91][^c-addc2be984fb91a1d0664a1410e74e4a]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ A person who commences employment with an employer must inform the employer—
 
 ## Annotations
 
-[^key-bf92bc2caf9ba0f9c8408c3a20e24b91]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2009/470/regulation/43) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-bf92bc2caf9ba0f9c8408c3a20e24b91]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2009/470/regulation/43) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
 
-[^key-addc2be984fb91a1d0664a1410e74e4a]: Textual amendment: [Reg. 43](https://www.legislation.gov.uk/uksi/2009/470/regulation/43) substituted (6.4.2023) by [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [39](https://www.legislation.gov.uk/uksi/2022/1335/regulation/39)
+[^c-addc2be984fb91a1d0664a1410e74e4a]: Textual amendment: [Reg. 43](https://www.legislation.gov.uk/uksi/2009/470/regulation/43) substituted (6.4.2023) by [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [39](https://www.legislation.gov.uk/uksi/2022/1335/regulation/39)

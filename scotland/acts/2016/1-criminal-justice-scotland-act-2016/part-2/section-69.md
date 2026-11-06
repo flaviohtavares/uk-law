@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Publication of information by police[^key-ea1a8f05148a70a76b86727cdb959378]
+## 69. Publication of information by police[^c-ea1a8f05148a70a76b86727cdb959378]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea1a8f05148a70a76b86727cdb959378]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2016/1/section/69) in force at 11.5.2017 by [S.S.I. 2017/99](https://www.legislation.gov.uk/ssi/2017/99), [art. 2(e)](https://www.legislation.gov.uk/ssi/2017/99/article/2/e) (with [art. 6](https://www.legislation.gov.uk/ssi/2017/99/article/6))
+[^c-ea1a8f05148a70a76b86727cdb959378]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2016/1/section/69) in force at 11.5.2017 by [S.S.I. 2017/99](https://www.legislation.gov.uk/ssi/2017/99), [art. 2(e)](https://www.legislation.gov.uk/ssi/2017/99/article/2/e) (with [art. 6](https://www.legislation.gov.uk/ssi/2017/99/article/6))

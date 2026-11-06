@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Working names etc[^key-c112483190d5da01edebaffcd4d8c160][^key-957847ebf1360b6a8f49d760e6f95d9f]
+## 25. Working names etc[^c-c112483190d5da01edebaffcd4d8c160][^c-957847ebf1360b6a8f49d760e6f95d9f]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ In section 42 of the Charities Act 2011 (power to require name to be changed)—
 
 ## Annotations
 
-[^key-c112483190d5da01edebaffcd4d8c160]: Commencement: S. 25 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
+[^c-c112483190d5da01edebaffcd4d8c160]: Commencement: S. 25 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
 
-[^key-957847ebf1360b6a8f49d760e6f95d9f]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2022/6/section/25) in force at 14.6.2023 by [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/12)
+[^c-957847ebf1360b6a8f49d760e6f95d9f]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2022/6/section/25) in force at 14.6.2023 by [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/12)

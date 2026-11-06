@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-8171745cd0738c6083e09e9616f93b9c]
+## 1. Citation and commencement[^c-8171745cd0738c6083e09e9616f93b9c]
 
 *Extent: N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8171745cd0738c6083e09e9616f93b9c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/405/regulation/1) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-8171745cd0738c6083e09e9616f93b9c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/405/regulation/1) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 2006 No. 406](https://www.legislation.gov.uk/nisr/2006/406)

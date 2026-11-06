@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**234.**[^key-40aa0f90e5ecbd51eccaa19fe6975eb2] The Education and Inspections Act 2006 is amended as follows.
+**234.**[^c-40aa0f90e5ecbd51eccaa19fe6975eb2] The Education and Inspections Act 2006 is amended as follows.
 
 ## Annotations
 
-[^key-40aa0f90e5ecbd51eccaa19fe6975eb2]: Commencement: Reg. 234 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-40aa0f90e5ecbd51eccaa19fe6975eb2]: Commencement: Reg. 234 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

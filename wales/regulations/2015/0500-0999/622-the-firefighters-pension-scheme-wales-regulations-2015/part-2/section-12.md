@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Scheme advisory board: conflict of interest[^key-0bfb0ff5c2eb04771a2cf8ffa00bf398]
+## 12. Scheme advisory board: conflict of interest[^c-0bfb0ff5c2eb04771a2cf8ffa00bf398]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0bfb0ff5c2eb04771a2cf8ffa00bf398]: Commencement: Reg. 12 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-0bfb0ff5c2eb04771a2cf8ffa00bf398]: Commencement: Reg. 12 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
 [^f00047]: Footnote: See section 7(5) of the Public Service Pensions Act 2013 for the meaning of “conflict of interest”.

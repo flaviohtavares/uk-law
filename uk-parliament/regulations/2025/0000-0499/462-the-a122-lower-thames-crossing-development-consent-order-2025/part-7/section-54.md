@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Designation of fen land[^key-d5409c7d894f4370a0c8f9c4f85c876d]
+## 54. Designation of fen land[^c-d5409c7d894f4370a0c8f9c4f85c876d]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d5409c7d894f4370a0c8f9c4f85c876d]: Commencement: Art. 54 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-d5409c7d894f4370a0c8f9c4f85c876d]: Commencement: Art. 54 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
 [^f00122]: Footnote: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).

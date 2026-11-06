@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Publication of notices[^key-6115a9da7a6d00276e95886402518aa9]
+## 41. Publication of notices[^c-6115a9da7a6d00276e95886402518aa9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Secretary of State shall publicise improvement notices and seizure notices a
 
 ## Annotations
 
-[^key-6115a9da7a6d00276e95886402518aa9]: Commencement: Reg. 41 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-6115a9da7a6d00276e95886402518aa9]: Commencement: Reg. 41 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

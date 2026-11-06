@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88A. OFCOM: power to impose monetary penalties[^key-a50ece900fa83052d60c2f567520f0e6]
+## 88A. OFCOM: power to impose monetary penalties[^c-a50ece900fa83052d60c2f567520f0e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a50ece900fa83052d60c2f567520f0e6]: Textual amendment: [Regs. 88A](https://www.legislation.gov.uk/uksi/2019/855/regulation/88A), [88B](https://www.legislation.gov.uk/uksi/2019/855/regulation/88B) inserted (29.4.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 9) Regulations 2022 (S.I. 2022/477)](https://www.legislation.gov.uk/uksi/2022/477), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/477/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2022/477/regulation/11)
+[^c-a50ece900fa83052d60c2f567520f0e6]: Textual amendment: [Regs. 88A](https://www.legislation.gov.uk/uksi/2019/855/regulation/88A), [88B](https://www.legislation.gov.uk/uksi/2019/855/regulation/88B) inserted (29.4.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 9) Regulations 2022 (S.I. 2022/477)](https://www.legislation.gov.uk/uksi/2022/477), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/477/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2022/477/regulation/11)

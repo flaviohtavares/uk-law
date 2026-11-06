@@ -32,7 +32,7 @@ summary: ''
 
 Rates
 
-The Rates (Exemption for Automatic Telling Machines in Rural Areas) Order (Northern Ireland) 2013 (revoked)[^key-55645d1917247c97cb1626709bc83369]
+The Rates (Exemption for Automatic Telling Machines in Rural Areas) Order (Northern Ireland) 2013 (revoked)[^c-55645d1917247c97cb1626709bc83369]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into operation
 
 1st April 2013
 
-[^key-55645d1917247c97cb1626709bc83369]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-55645d1917247c97cb1626709bc83369]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-55645d1917247c97cb1626709bc83369]
+## 1. Citation and commencement[^c-55645d1917247c97cb1626709bc83369]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Definition of “relevant year”[^key-55645d1917247c97cb1626709bc83369]
+## 2. Definition of “relevant year”[^c-55645d1917247c97cb1626709bc83369]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-55645d1917247c97cb1626709bc83369]
+## 3. Revocation[^c-55645d1917247c97cb1626709bc83369]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-55645d1917247c97cb1626709bc83369]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-55645d1917247c97cb1626709bc83369]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-55645d1917247c97cb1626709bc83369]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-55645d1917247c97cb1626709bc83369]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-55645d1917247c97cb1626709bc83369]: Textual amendment: Order revoked (1.4.2015) by [The Rates (Exemption for Automatic Telling Machines in Rural Areas) Order (Northern Ireland) 2015 (S.R. 2015/47)](https://www.legislation.gov.uk/nisr/2015/47), [arts. 1](https://www.legislation.gov.uk/nisr/2015/47/article/1), [3](https://www.legislation.gov.uk/nisr/2015/47/article/3)
+[^c-55645d1917247c97cb1626709bc83369]: Textual amendment: Order revoked (1.4.2015) by [The Rates (Exemption for Automatic Telling Machines in Rural Areas) Order (Northern Ireland) 2015 (S.R. 2015/47)](https://www.legislation.gov.uk/nisr/2015/47), [arts. 1](https://www.legislation.gov.uk/nisr/2015/47/article/1), [3](https://www.legislation.gov.uk/nisr/2015/47/article/3)

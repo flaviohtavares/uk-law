@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Commencement and transitional provision[^key-1a2951dc9bccb4b5723f828c5f95934d]
+## 99. Commencement and transitional provision[^c-1a2951dc9bccb4b5723f828c5f95934d]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a2951dc9bccb4b5723f828c5f95934d]: Commencement: S. 99 in force at Royal Assent, see [s. 99(3)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/3)
+[^c-1a2951dc9bccb4b5723f828c5f95934d]: Commencement: S. 99 in force at Royal Assent, see [s. 99(3)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/3)

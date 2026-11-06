@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 16 — Real Estate Investment Trusts: excluded business and income[^key-d84d215014aa6466c87e4c5e123473c7]
+## SCHEDULE 16 — Real Estate Investment Trusts: excluded business and income[^c-d84d215014aa6466c87e4c5e123473c7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,40 +24,40 @@ summary: ''
 
 Section 104
 
-### Part 1 — Classes of business[^key-d84d215014aa6466c87e4c5e123473c7]
+### Part 1 — Classes of business[^c-d84d215014aa6466c87e4c5e123473c7]
 
-**1.**[^key-d84d215014aa6466c87e4c5e123473c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d84d215014aa6466c87e4c5e123473c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d84d215014aa6466c87e4c5e123473c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d84d215014aa6466c87e4c5e123473c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d84d215014aa6466c87e4c5e123473c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d84d215014aa6466c87e4c5e123473c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d84d215014aa6466c87e4c5e123473c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d84d215014aa6466c87e4c5e123473c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-d84d215014aa6466c87e4c5e123473c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d84d215014aa6466c87e4c5e123473c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 2 — Classes of income or profit[^key-d84d215014aa6466c87e4c5e123473c7]
+### Part 2 — Classes of income or profit[^c-d84d215014aa6466c87e4c5e123473c7]
 
-**6.**[^key-d84d215014aa6466c87e4c5e123473c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-d84d215014aa6466c87e4c5e123473c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-d84d215014aa6466c87e4c5e123473c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-d84d215014aa6466c87e4c5e123473c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-d84d215014aa6466c87e4c5e123473c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-d84d215014aa6466c87e4c5e123473c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-d84d215014aa6466c87e4c5e123473c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-d84d215014aa6466c87e4c5e123473c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-d84d215014aa6466c87e4c5e123473c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-d84d215014aa6466c87e4c5e123473c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-d84d215014aa6466c87e4c5e123473c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-d84d215014aa6466c87e4c5e123473c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-d84d215014aa6466c87e4c5e123473c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-d84d215014aa6466c87e4c5e123473c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-d84d215014aa6466c87e4c5e123473c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-d84d215014aa6466c87e4c5e123473c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 3 — Power to amend[^key-d84d215014aa6466c87e4c5e123473c7]
+### Part 3 — Power to amend[^c-d84d215014aa6466c87e4c5e123473c7]
 
-**14.**[^key-d84d215014aa6466c87e4c5e123473c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-d84d215014aa6466c87e4c5e123473c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d84d215014aa6466c87e4c5e123473c7]: Textual amendment: [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/25/schedule/16) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 485](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/485), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-d84d215014aa6466c87e4c5e123473c7]: Textual amendment: [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/25/schedule/16) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 485](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/485), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

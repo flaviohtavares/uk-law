@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 49. Amount of housing benefit for members of a polygamous marriage[^key-6ebbfcef3c05328f2512adaeeef97912]
+## 49. Amount of housing benefit for members of a polygamous marriage[^c-6ebbfcef3c05328f2512adaeeef97912]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ebbfcef3c05328f2512adaeeef97912]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/1988/1890/regulation/49) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-6ebbfcef3c05328f2512adaeeef97912]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/1988/1890/regulation/49) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

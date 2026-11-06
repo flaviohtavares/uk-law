@@ -32,7 +32,7 @@ summary: ''
 
 AGRICULTURE
 
-The Common Agricultural Policy (Single Farm Payment and Support Schemes and Cross-Compliance) (Scotland) Amendment Regulations 2008 (revoked)[^key-a9fbea21b40ec012a343eb339f10d649]
+The Common Agricultural Policy (Single Farm Payment and Support Schemes and Cross-Compliance) (Scotland) Amendment Regulations 2008 (revoked)[^c-a9fbea21b40ec012a343eb339f10d649]
 
 Made
 
@@ -46,60 +46,60 @@ Coming into force
 
 15th May 2008
 
-[^key-a9fbea21b40ec012a343eb339f10d649]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9fbea21b40ec012a343eb339f10d649]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a9fbea21b40ec012a343eb339f10d649]
+## 1. Citation and commencement[^c-a9fbea21b40ec012a343eb339f10d649]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments[^key-a9fbea21b40ec012a343eb339f10d649]
+## 2. Amendments[^c-a9fbea21b40ec012a343eb339f10d649]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a9fbea21b40ec012a343eb339f10d649]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9fbea21b40ec012a343eb339f10d649]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Amendment of the Common Agricultural Policy Single Farm Payment and Support Schemes (Scotland) Regulations 2005[^key-a9fbea21b40ec012a343eb339f10d649]
+## SCHEDULE 1 — Amendment of the Common Agricultural Policy Single Farm Payment and Support Schemes (Scotland) Regulations 2005[^c-a9fbea21b40ec012a343eb339f10d649]
 
 Regulation 2(a)
 
-### 1. Amendment of regulation 2[^key-a9fbea21b40ec012a343eb339f10d649]
+### 1. Amendment of regulation 2[^c-a9fbea21b40ec012a343eb339f10d649]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Amendment of regulation 6[^key-a9fbea21b40ec012a343eb339f10d649]
+### 2. Amendment of regulation 6[^c-a9fbea21b40ec012a343eb339f10d649]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Amendment of the Common Agricultural Policy Single Payment and Support Schemes (Integrated Administration and Control System) Regulations 2005[^key-a9fbea21b40ec012a343eb339f10d649]
+## SCHEDULE 2 — Amendment of the Common Agricultural Policy Single Payment and Support Schemes (Integrated Administration and Control System) Regulations 2005[^c-a9fbea21b40ec012a343eb339f10d649]
 
 Regulation 2(b)
 
-### 1. Amendment of regulation 2[^key-a9fbea21b40ec012a343eb339f10d649]
+### 1. Amendment of regulation 2[^c-a9fbea21b40ec012a343eb339f10d649]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Amendment of the Common Agricultural Policy Schemes (Cross Compliance) (Scotland) Regulations 2004[^key-a9fbea21b40ec012a343eb339f10d649]
+## SCHEDULE 3 — Amendment of the Common Agricultural Policy Schemes (Cross Compliance) (Scotland) Regulations 2004[^c-a9fbea21b40ec012a343eb339f10d649]
 
 Regulation 2(c)
 
-### 1. Amendment of regulation 2[^key-a9fbea21b40ec012a343eb339f10d649]
+### 1. Amendment of regulation 2[^c-a9fbea21b40ec012a343eb339f10d649]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Amendment of the Agricultural Subsidies (Appeals) (Scotland) Regulations 2004[^key-a9fbea21b40ec012a343eb339f10d649]
+## SCHEDULE 4 — Amendment of the Agricultural Subsidies (Appeals) (Scotland) Regulations 2004[^c-a9fbea21b40ec012a343eb339f10d649]
 
 Regulation 2(d)
 
-### 2. Amendment of regulation 2[^key-a9fbea21b40ec012a343eb339f10d649]
+### 2. Amendment of regulation 2[^c-a9fbea21b40ec012a343eb339f10d649]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a9fbea21b40ec012a343eb339f10d649]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9fbea21b40ec012a343eb339f10d649]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a9fbea21b40ec012a343eb339f10d649]: Textual amendment: Regulations revoked (16.3.2015) by [The Common Agricultural Policy (Direct Payments etc.) (Scotland) Regulations 2015 (S.S.I. 2015/58)](https://www.legislation.gov.uk/ssi/2015/58), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/58/regulation/1/1), [28(3)(a)](https://www.legislation.gov.uk/ssi/2015/58/regulation/28/3/a)
+[^c-a9fbea21b40ec012a343eb339f10d649]: Textual amendment: Regulations revoked (16.3.2015) by [The Common Agricultural Policy (Direct Payments etc.) (Scotland) Regulations 2015 (S.S.I. 2015/58)](https://www.legislation.gov.uk/ssi/2015/58), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/58/regulation/1/1), [28(3)(a)](https://www.legislation.gov.uk/ssi/2015/58/regulation/28/3/a)

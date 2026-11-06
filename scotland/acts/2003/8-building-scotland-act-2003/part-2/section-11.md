@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Building warrants: certification of design[^key-d99503b57484f02384919329c65dffc6]
+## 11. Building warrants: certification of design[^c-d99503b57484f02384919329c65dffc6]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ is guilty of an offence.
 
 ## Annotations
 
-[^key-d99503b57484f02384919329c65dffc6]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2003/8/section/11) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-d99503b57484f02384919329c65dffc6]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2003/8/section/11) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

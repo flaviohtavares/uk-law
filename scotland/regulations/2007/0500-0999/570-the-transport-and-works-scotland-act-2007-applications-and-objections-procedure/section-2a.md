@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2A. Environmental impact assessment[^key-ef99937cb44a6b3f14795c0a81f5bda3]
+## 2A. Environmental impact assessment[^c-ef99937cb44a6b3f14795c0a81f5bda3]
 
 *Extent: S*
 
@@ -33,7 +33,7 @@ summary: ''
 (3) The factors are—
 
 - (a) population and human health;
-- (b) biodiversity, and in particular species and habitats protected under any law in Scotland that implemented[^key-85bea0dd17d8d3ad6a77be41698e24dd] [Directive 92/43/EEC](https://www.legislation.gov.uk/eudr/1992/0043) and [Directive 2009/147/EC](https://www.legislation.gov.uk/eudr/2009/0147) , as amended by Regulation (EU) 2019/1010[^key-7847f57e80b0a8e00ef9925e2376b86b];
+- (b) biodiversity, and in particular species and habitats protected under any law in Scotland that implemented[^c-85bea0dd17d8d3ad6a77be41698e24dd] [Directive 92/43/EEC](https://www.legislation.gov.uk/eudr/1992/0043) and [Directive 2009/147/EC](https://www.legislation.gov.uk/eudr/2009/0147) , as amended by Regulation (EU) 2019/1010[^c-7847f57e80b0a8e00ef9925e2376b86b];
 - (c) land, soil, water, air and climate; and
 - (d) material assets, cultural heritage and the landscape.
 
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ef99937cb44a6b3f14795c0a81f5bda3]: Textual amendment: Rule 2A inserted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Applications and Objections Procedure) Amendment Rules 2017 (S.S.I. 2017/74)](https://www.legislation.gov.uk/ssi/2017/74), [rules 1](https://www.legislation.gov.uk/ssi/2017/74/rule/1), [4](https://www.legislation.gov.uk/ssi/2017/74/rule/4) (with [rule 19](https://www.legislation.gov.uk/ssi/2017/74/rule/19))
+[^c-ef99937cb44a6b3f14795c0a81f5bda3]: Textual amendment: Rule 2A inserted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Applications and Objections Procedure) Amendment Rules 2017 (S.S.I. 2017/74)](https://www.legislation.gov.uk/ssi/2017/74), [rules 1](https://www.legislation.gov.uk/ssi/2017/74/rule/1), [4](https://www.legislation.gov.uk/ssi/2017/74/rule/4) (with [rule 19](https://www.legislation.gov.uk/ssi/2017/74/rule/19))
 
-[^key-85bea0dd17d8d3ad6a77be41698e24dd]: Textual amendment: Words in [rule 2A(3)(b)](https://www.legislation.gov.uk/ssi/2007/570/rule/2A/3/b) inserted (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2019/415/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-85bea0dd17d8d3ad6a77be41698e24dd]: Textual amendment: Words in [rule 2A(3)(b)](https://www.legislation.gov.uk/ssi/2007/570/rule/2A/3/b) inserted (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2019/415/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7847f57e80b0a8e00ef9925e2376b86b]: Textual amendment: Words in rule 2A(3)(b) inserted (7.12.2019) by [The Environmental Impact Assessment (Transport) (Scotland) Regulations 2019 (S.S.I. 2019/322)](https://www.legislation.gov.uk/ssi/2019/322), [regs. 1](https://www.legislation.gov.uk/ssi/2019/322/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2019/322/regulation/4/3)
+[^c-7847f57e80b0a8e00ef9925e2376b86b]: Textual amendment: Words in rule 2A(3)(b) inserted (7.12.2019) by [The Environmental Impact Assessment (Transport) (Scotland) Regulations 2019 (S.S.I. 2019/322)](https://www.legislation.gov.uk/ssi/2019/322), [regs. 1](https://www.legislation.gov.uk/ssi/2019/322/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2019/322/regulation/4/3)

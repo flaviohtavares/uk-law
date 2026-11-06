@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Release on bail[^key-747813c513a0c16b1ae1a52c69cbda81]
+## 12. Release on bail[^c-747813c513a0c16b1ae1a52c69cbda81]
 
 *Extent: N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-747813c513a0c16b1ae1a52c69cbda81]: Modification: [Art. 12](https://www.legislation.gov.uk/nisi/1998/1504/article/12) applied (3.12.2014) by [The Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014 (S.I. 2014/3141)](https://www.legislation.gov.uk/uksi/2014/3141), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/1/b), [110(11)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/110/11) (with [reg. 110(12)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/110/12))
+[^c-747813c513a0c16b1ae1a52c69cbda81]: Modification: [Art. 12](https://www.legislation.gov.uk/nisi/1998/1504/article/12) applied (3.12.2014) by [The Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014 (S.I. 2014/3141)](https://www.legislation.gov.uk/uksi/2014/3141), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/1/b), [110(11)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/110/11) (with [reg. 110(12)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/110/12))
 
 [^c20498461]: Textual amendment: Word in [art. 12(3)(a)](https://www.legislation.gov.uk/nisi/1998/1504/article/12/3/a) substituted (1.3.2007) by [Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/288 (N.I. 2))](https://www.legislation.gov.uk/nisi/2007/288), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2007/288/article/1/2), [15(4)](https://www.legislation.gov.uk/nisi/2007/288/article/15/4), [Sch. 1 para. 34(4)](https://www.legislation.gov.uk/nisi/2007/288/schedule/1/paragraph/34/4)
 

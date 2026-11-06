@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Honorary titles[^key-71218ffd80bacb826c2d4ae84887dce2]
+## 29. Honorary titles[^c-71218ffd80bacb826c2d4ae84887dce2]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71218ffd80bacb826c2d4ae84887dce2]: Commencement: S. 29 in force at 12.1.2010, see s. 148(1)(d)
+[^c-71218ffd80bacb826c2d4ae84887dce2]: Commencement: S. 29 in force at 12.1.2010, see s. 148(1)(d)

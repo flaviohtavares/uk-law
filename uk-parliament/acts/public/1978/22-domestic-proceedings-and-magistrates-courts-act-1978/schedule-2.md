@@ -40,7 +40,7 @@ Section 89.
 
 *Extent: E+W*
 
-**2.**[^key-b1b3483eab8b95c7e00a8a074b60c49f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b1b3483eab8b95c7e00a8a074b60c49f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3—5.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c3525221]
 
@@ -48,7 +48,7 @@ Section 89.
 
 *Extent: E+W*
 
-**6.**[^key-413d5281aa233b2f4286063b6e8ae8b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-413d5281aa233b2f4286063b6e8ae8b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **7.** In section 44(2) of that Act for the words “having jurisdiction in the place ” there shall be substituted the words “appointed for the commission area (within the meaning of section 1 of the Administration of Justice Act 1973). ”
 
@@ -58,7 +58,7 @@ Section 89.
 
 *Extent: E+W*
 
-**9.**[^key-a850cbc1f0b46d332147112863cf9638][^key-37c077312273df69512985cfc1a323df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-a850cbc1f0b46d332147112863cf9638][^c-37c077312273df69512985cfc1a323df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Justices of the Peace Act 1949 (c. 101)
 
@@ -250,17 +250,17 @@ Section 89.
 
 [^c3525181]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/1978/22/schedule/2/paragraph/1)(*a*) repealed (S.) by [Family Law (Scotland) Act 1985 (c. 37, SIF 49:3)](https://www.legislation.gov.uk/ukpga/1985/37), [ss. 28(2)](https://www.legislation.gov.uk/ukpga/1985/37/section/28/2), [29(4)](https://www.legislation.gov.uk/ukpga/1985/37/section/29/4), [Sch. 2](https://www.legislation.gov.uk/ukpga/1985/37/schedule/2)
 
-[^key-b1b3483eab8b95c7e00a8a074b60c49f]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/1978/22/schedule/2/paragraph/2) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
+[^c-b1b3483eab8b95c7e00a8a074b60c49f]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/1978/22/schedule/2/paragraph/2) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
 
 [^c3525221]: Textual amendment: [Sch. 2 paras. 3–5](https://www.legislation.gov.uk/ukpga/1978/22/schedule/2/paragraph/3), [8](https://www.legislation.gov.uk/ukpga/1978/22/schedule/2/paragraph/8) repealed by [Child Care Act 1980 (c. 5)](https://www.legislation.gov.uk/ukpga/1980/5), [s. 89(3)](https://www.legislation.gov.uk/ukpga/1980/5/section/89/3), [Sch. 6](https://www.legislation.gov.uk/ukpga/1980/5/schedule/6)
 
-[^key-413d5281aa233b2f4286063b6e8ae8b6]: Textual amendment: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/1978/22/schedule/2/paragraph/6) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
+[^c-413d5281aa233b2f4286063b6e8ae8b6]: Textual amendment: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/1978/22/schedule/2/paragraph/6) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
 
 [^c3525271]: Textual amendment: [Sch. 2 paras. 3–5](https://www.legislation.gov.uk/ukpga/1978/22/schedule/2/paragraph/3), [8](https://www.legislation.gov.uk/ukpga/1978/22/schedule/2/paragraph/8) repealed by [Child Care Act 1980 (c. 5)](https://www.legislation.gov.uk/ukpga/1980/5), [s. 89(3)](https://www.legislation.gov.uk/ukpga/1980/5/section/89/3), [Sch. 6](https://www.legislation.gov.uk/ukpga/1980/5/schedule/6)
 
-[^key-a850cbc1f0b46d332147112863cf9638]: Textual amendment: Sch. 2 para. 9 repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
+[^c-a850cbc1f0b46d332147112863cf9638]: Textual amendment: Sch. 2 para. 9 repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
 
-[^key-37c077312273df69512985cfc1a323df]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/1978/22/schedule/2/paragraph/9) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-37c077312273df69512985cfc1a323df]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/1978/22/schedule/2/paragraph/9) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c3525381]: Textual amendment: [Sch. 2 paras. 15](https://www.legislation.gov.uk/ukpga/1978/22/schedule/2/paragraph/15), [21](https://www.legislation.gov.uk/ukpga/1978/22/schedule/2/paragraph/21) repealed by [Magistrates' Courts Act 1980 (c. 43, SIF 82)](https://www.legislation.gov.uk/ukpga/1980/43), [s. 154(3)](https://www.legislation.gov.uk/ukpga/1980/43/section/154/3), [Sch. 9](https://www.legislation.gov.uk/ukpga/1980/43/schedule/9)
 

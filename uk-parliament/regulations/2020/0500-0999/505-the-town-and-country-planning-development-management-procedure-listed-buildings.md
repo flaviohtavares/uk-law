@@ -50,21 +50,21 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ## PART 1
 
-### 1. Citation, commencement and application[^key-dccf17a860a9f2dcb7c557458bca88df]
+### 1. Citation, commencement and application[^c-dccf17a860a9f2dcb7c557458bca88df]
 
 These Regulations may be cited as the Town and Country Planning (Development Management Procedure, Listed Buildings and Environmental Impact Assessment) (England) (Coronavirus) (Amendment) Regulations 2020 and come into force on 14th May 2020.
 
-### 2.[^key-83cd31d1d40d628198b8e447cef72d31]
+### 2.[^c-83cd31d1d40d628198b8e447cef72d31]
 
 The amendments made by these Regulations apply in relation to England only.
 
 ## PART 2 — Amendments to the Town and Country Planning (Development Management Procedure) (England) Order 2015
 
-### 3. Amendments to the Town and Country Planning (Development Management Procedure) (England) Order 2015[^key-6990b1756bd3478d9223da8af7b91c7e]
+### 3. Amendments to the Town and Country Planning (Development Management Procedure) (England) Order 2015[^c-6990b1756bd3478d9223da8af7b91c7e]
 
 The Town and Country Planning (Development Management Procedure**)** (England) Order 2015 [^c24097201] is amended in accordance with regulations 4 to 6.
 
-### 4.[^key-b24b98c9c640c8659b50bf1261b55660]
+### 4.[^c-b24b98c9c640c8659b50bf1261b55660]
 
 In article 15, after paragraph (7) insert—
 
@@ -103,11 +103,11 @@ In article 15, after paragraph (7) insert—
 
 .
 
-### 5.[^key-d37587dde3c4a379616ecc2265b2a3f8]
+### 5.[^c-d37587dde3c4a379616ecc2265b2a3f8]
 
 In articles 15(7)(c), 33(1)(f) and 34(9)(f) and in the first form in Schedule 3 (in point (f)(ii) at the end), for “14 days” in each place it occurs, substitute “ 21 days ”.
 
-### 6.[^key-d819ff0c01a9395514470536a41126ac]
+### 6.[^c-d819ff0c01a9395514470536a41126ac]
 
 In article 40, after paragraph (14) insert—
 
@@ -123,11 +123,11 @@ In article 40, after paragraph (14) insert—
 
 ## PART 3 — Amendments to the Planning (Listed Buildings and Conservation Areas) Regulations 1990
 
-### 7. Amendments to the Planning (Listed Buildings and Conservation Areas) Regulations 1990[^key-8c955073d8f3a54b8f9d076ab66399e3]
+### 7. Amendments to the Planning (Listed Buildings and Conservation Areas) Regulations 1990[^c-8c955073d8f3a54b8f9d076ab66399e3]
 
 The Planning (Listed Buildings and Conservation Areas) Regulations1990 [^c24097211] are amended in accordance with regulations 8 to 11.
 
-### 8.[^key-e88a65272f6b890757c6384467a0946f]
+### 8.[^c-e88a65272f6b890757c6384467a0946f]
 
 In regulation 2(1), after the definition of “the Act”, insert—
 
@@ -135,7 +135,7 @@ In regulation 2(1), after the definition of “the Act”, insert—
 
 .
 
-### 9.[^key-40fd191b97f27be5672d0b6018f55b71]
+### 9.[^c-40fd191b97f27be5672d0b6018f55b71]
 
 (1) Regulation 5 is amended in accordance with paragraphs (2) and (3).
 
@@ -182,7 +182,7 @@ In regulation 2(1), after the definition of “the Act”, insert—
 
 .
 
-### 10.[^key-63ca7be1f141c06513ab9297483ac380]
+### 10.[^c-63ca7be1f141c06513ab9297483ac380]
 
 (1) Regulation 5A is amended in accordance with paragraphs (2) to (4).
 
@@ -231,7 +231,7 @@ In regulation 2(1), after the definition of “the Act”, insert—
 
 .
 
-### 11.[^key-8d92e65acab00a08c36f0a972f03b645]
+### 11.[^c-8d92e65acab00a08c36f0a972f03b645]
 
 In regulation 13, after paragraph 4 insert—
 
@@ -272,17 +272,17 @@ In regulation 13, after paragraph 4 insert—
 
 ## PART 4
 
-### 12. Amendments to the Town and Country Planning (Environmental Impact Assessment) Regulations 2017[^key-8620678da7180154a84d9bd89ec37d35]
+### 12. Amendments to the Town and Country Planning (Environmental Impact Assessment) Regulations 2017[^c-8620678da7180154a84d9bd89ec37d35]
 
 The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 [^c24097221] are amended in accordance with regulations 13 to 17.
 
-### 13.[^key-3b5d49a513444fe6b7d4b2dd0ba36807]
+### 13.[^c-3b5d49a513444fe6b7d4b2dd0ba36807]
 
 In regulation 2(1), after the definition of “the consultation bodies” insert—
 
 > “**coronavirus**” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
 
-### 14.[^key-c6a544379bab06831a48890313f733ed]
+### 14.[^c-c6a544379bab06831a48890313f733ed]
 
 In regulation 19, after paragraph (6) insert—
 
@@ -293,7 +293,7 @@ In regulation 19, after paragraph (6) insert—
 
 .
 
-### 15.[^key-b881ad4389d8b50cd5335edff7250ef5]
+### 15.[^c-b881ad4389d8b50cd5335edff7250ef5]
 
 In regulation 20, after paragraph (10) insert—
 
@@ -350,7 +350,7 @@ In regulation 20, after paragraph (10) insert—
 
 .
 
-### 16.[^key-e3b3005bac824d5d7b6841e922b18d32]
+### 16.[^c-e3b3005bac824d5d7b6841e922b18d32]
 
 After regulation 23, insert—
 
@@ -378,7 +378,7 @@ After regulation 23, insert—
 
 .
 
-### 17.[^key-d2bb23f821e9486c837d66b91d6336dd]
+### 17.[^c-d2bb23f821e9486c837d66b91d6336dd]
 
 (1) Regulation 25 is amended in accordance with paragraphs (2) and (3).
 
@@ -440,7 +440,7 @@ After regulation 23, insert—
 
 .
 
-## PART 5 — Expiry and saving provisions[^key-2a9ac585b24c5ab45ea2218f9ac12276]
+## PART 5 — Expiry and saving provisions[^c-2a9ac585b24c5ab45ea2218f9ac12276]
 
 ### 18. Expiry
 
@@ -550,44 +550,44 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^c24097191]: Marginal citation: [1990 c.9](https://www.legislation.gov.uk/ukpga/1990/9). Section 10(3) was amended by section 42(7) and paragraph 20 of Schedule 6 to the 2004 Act.
 
-[^key-dccf17a860a9f2dcb7c557458bca88df]: Commencement: Reg. 1 in force at 14.5.2020, see reg. 1
+[^c-dccf17a860a9f2dcb7c557458bca88df]: Commencement: Reg. 1 in force at 14.5.2020, see reg. 1
 
-[^key-83cd31d1d40d628198b8e447cef72d31]: Commencement: Reg. 2 in force at 14.5.2020, see reg. 1
+[^c-83cd31d1d40d628198b8e447cef72d31]: Commencement: Reg. 2 in force at 14.5.2020, see reg. 1
 
-[^key-6990b1756bd3478d9223da8af7b91c7e]: Commencement: Reg. 3 in force at 14.5.2020, see reg. 1
+[^c-6990b1756bd3478d9223da8af7b91c7e]: Commencement: Reg. 3 in force at 14.5.2020, see reg. 1
 
 [^c24097201]: Marginal citation: [S.I. 2015/595](https://www.legislation.gov.uk/uksi/2015/595). Relevant amending instruments are [S.I.2017/402](https://www.legislation.gov.uk/uksi/2017/402), 2017/571 and 2018/119. The amendments made by these Regulations apply in relation to England only.
 
-[^key-b24b98c9c640c8659b50bf1261b55660]: Commencement: Reg. 4 in force at 14.5.2020, see reg. 1
+[^c-b24b98c9c640c8659b50bf1261b55660]: Commencement: Reg. 4 in force at 14.5.2020, see reg. 1
 
-[^key-d37587dde3c4a379616ecc2265b2a3f8]: Commencement: Reg. 5 in force at 14.5.2020, see reg. 1
+[^c-d37587dde3c4a379616ecc2265b2a3f8]: Commencement: Reg. 5 in force at 14.5.2020, see reg. 1
 
-[^key-d819ff0c01a9395514470536a41126ac]: Commencement: Reg. 6 in force at 14.5.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/505/regulation/1)
+[^c-d819ff0c01a9395514470536a41126ac]: Commencement: Reg. 6 in force at 14.5.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/505/regulation/1)
 
-[^key-8c955073d8f3a54b8f9d076ab66399e3]: Commencement: Reg. 7 in force at 14.5.2020, see reg. 1
+[^c-8c955073d8f3a54b8f9d076ab66399e3]: Commencement: Reg. 7 in force at 14.5.2020, see reg. 1
 
 [^c24097211]: Marginal citation: [S.I. 1990/1519](https://www.legislation.gov.uk/uksi/1990/1519). Relevant amending instruments are [S.I. 2004/2210](https://www.legislation.gov.uk/uksi/2004/2210), 2010/568, 2014/1532, 2015/809 and 2018/119.
 
-[^key-e88a65272f6b890757c6384467a0946f]: Commencement: Reg. 8 in force at 14.5.2020, see reg. 1
+[^c-e88a65272f6b890757c6384467a0946f]: Commencement: Reg. 8 in force at 14.5.2020, see reg. 1
 
-[^key-40fd191b97f27be5672d0b6018f55b71]: Commencement: Reg. 9 in force at 14.5.2020, see reg. 1
+[^c-40fd191b97f27be5672d0b6018f55b71]: Commencement: Reg. 9 in force at 14.5.2020, see reg. 1
 
-[^key-63ca7be1f141c06513ab9297483ac380]: Commencement: Reg. 10 in force at 14.5.2020, see reg. 1
+[^c-63ca7be1f141c06513ab9297483ac380]: Commencement: Reg. 10 in force at 14.5.2020, see reg. 1
 
-[^key-8d92e65acab00a08c36f0a972f03b645]: Commencement: Reg. 11 in force at 14.5.2020, see reg. 1
+[^c-8d92e65acab00a08c36f0a972f03b645]: Commencement: Reg. 11 in force at 14.5.2020, see reg. 1
 
-[^key-8620678da7180154a84d9bd89ec37d35]: Commencement: Reg. 12 in force at 14.5.2020, see reg. 1
+[^c-8620678da7180154a84d9bd89ec37d35]: Commencement: Reg. 12 in force at 14.5.2020, see reg. 1
 
 [^c24097221]: Marginal citation: [S.I. 2017/571](https://www.legislation.gov.uk/uksi/2017/571).
 
-[^key-3b5d49a513444fe6b7d4b2dd0ba36807]: Commencement: Reg. 13 in force at 14.5.2020, see reg. 1
+[^c-3b5d49a513444fe6b7d4b2dd0ba36807]: Commencement: Reg. 13 in force at 14.5.2020, see reg. 1
 
-[^key-c6a544379bab06831a48890313f733ed]: Commencement: Reg. 14 in force at 14.5.2020, see reg. 1
+[^c-c6a544379bab06831a48890313f733ed]: Commencement: Reg. 14 in force at 14.5.2020, see reg. 1
 
-[^key-b881ad4389d8b50cd5335edff7250ef5]: Commencement: Reg. 15 in force at 14.5.2020, see reg. 1
+[^c-b881ad4389d8b50cd5335edff7250ef5]: Commencement: Reg. 15 in force at 14.5.2020, see reg. 1
 
-[^key-e3b3005bac824d5d7b6841e922b18d32]: Commencement: Reg. 16 in force at 14.5.2020, see reg. 1
+[^c-e3b3005bac824d5d7b6841e922b18d32]: Commencement: Reg. 16 in force at 14.5.2020, see reg. 1
 
-[^key-d2bb23f821e9486c837d66b91d6336dd]: Commencement: Reg. 17 in force at 14.5.2020, see reg. 1
+[^c-d2bb23f821e9486c837d66b91d6336dd]: Commencement: Reg. 17 in force at 14.5.2020, see reg. 1
 
-[^key-2a9ac585b24c5ab45ea2218f9ac12276]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/uksi/2020/505/part/5) substituted (24.12.2020) by [The Town and Country Planning (Local Planning, Development Management Procedure, Listed Buildings etc.) (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1398)](https://www.legislation.gov.uk/uksi/2020/1398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1398/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2020/1398/regulation/5)
+[^c-2a9ac585b24c5ab45ea2218f9ac12276]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/uksi/2020/505/part/5) substituted (24.12.2020) by [The Town and Country Planning (Local Planning, Development Management Procedure, Listed Buildings etc.) (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1398)](https://www.legislation.gov.uk/uksi/2020/1398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1398/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2020/1398/regulation/5)

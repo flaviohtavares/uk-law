@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110A. Indexation for section 104 holdings: capital gains tax.[^key-60088ccfc8e8c78a3899dc6fcb770c5a]
+## 110A. Indexation for section 104 holdings: capital gains tax.[^c-60088ccfc8e8c78a3899dc6fcb770c5a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60088ccfc8e8c78a3899dc6fcb770c5a]: Textual amendment: S. 110A omitted (with effect in accordance with Sch. 2 para. 100 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 92](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/92)
+[^c-60088ccfc8e8c78a3899dc6fcb770c5a]: Textual amendment: S. 110A omitted (with effect in accordance with Sch. 2 para. 100 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 92](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/92)

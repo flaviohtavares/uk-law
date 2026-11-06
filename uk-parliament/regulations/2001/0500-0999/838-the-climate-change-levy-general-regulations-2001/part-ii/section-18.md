@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Form and manner of claim for repayment of overpaid CCL if no person entitled to tax credit[^key-1ae105455c035ee507808683657ee088]
+## 18. Form and manner of claim for repayment of overpaid CCL if no person entitled to tax credit[^c-1ae105455c035ee507808683657ee088]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A claim under paragraph 63 of the Act (claim for repayment of CCL which was not 
 
 ## Annotations
 
-[^key-1ae105455c035ee507808683657ee088]: Commencement: Reg. 18 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-1ae105455c035ee507808683657ee088]: Commencement: Reg. 18 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)

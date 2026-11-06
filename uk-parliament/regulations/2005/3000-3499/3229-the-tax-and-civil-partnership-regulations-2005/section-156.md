@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156.[^key-28999f9dc7ff402979083c080a71c840]
+## 156.[^c-28999f9dc7ff402979083c080a71c840]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 586 (meaning of “retirement benefits scheme” etc), in subsection 
 
 ## Annotations
 
-[^key-28999f9dc7ff402979083c080a71c840]: Commencement: Reg. 156 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-28999f9dc7ff402979083c080a71c840]: Commencement: Reg. 156 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

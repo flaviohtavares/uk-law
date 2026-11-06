@@ -36,21 +36,21 @@ which meets condition A, B, C or D.
 
 (4) Condition C is that the payment or transfer is made in connection with the termination of the recipient's employment with the employer.
 
-(5) Condition D is that the payment or transfer is made under an employer-financed retirement benefits scheme and the payment or transfer—[^key-c15fef9a73b268b0069085e4280c09eb]
+(5) Condition D is that the payment or transfer is made under an employer-financed retirement benefits scheme and the payment or transfer—[^c-c15fef9a73b268b0069085e4280c09eb]
 
 - (a) gives rise to an employment income tax charge under Chapter 2 of Part 6 of ITEPA 2003 or under Part 9 of that Act, or
 - (b) is an excluded benefit as defined in section 393B(3) of that Act.
 
 (6) None of the conditions is met if the payment or transfer is by way of loan.
 
-(6ZA)[^key-8a3cc6426bbc25a75276686594a95ea8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6ZA)[^c-8a3cc6426bbc25a75276686594a95ea8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6A)[^key-40965f304c0250450a53dd1febf435e9] For the purposes of section 1290 qualifying benefits are also provided if—
+(6A)[^c-40965f304c0250450a53dd1febf435e9] For the purposes of section 1290 qualifying benefits are also provided if—
 
 - (a) a relevant step within the meaning of Part 7A of ITEPA 2003 is taken, and
 - (b) Chapter 2 of that Part applies by reason of the step.
 
-(6B)[^key-bf823d8faa3a4ad445413306d7ff5480] For those purposes qualifying benefits are also provided, where a payment of money is made to a person, if and to the extent that the payment is exempt from income tax by virtue of section 312A of ITEPA 2003.
+(6B)[^c-bf823d8faa3a4ad445413306d7ff5480] For those purposes qualifying benefits are also provided, where a payment of money is made to a person, if and to the extent that the payment is exempt from income tax by virtue of section 312A of ITEPA 2003.
 
 (7) In this section—
 
@@ -62,10 +62,10 @@ which meets condition A, B, C or D.
 
 ## Annotations
 
-[^key-c15fef9a73b268b0069085e4280c09eb]: Textual amendment: Words in s. 1292(5) inserted (19.7.2011) (with effect in accordance with Sch. 2 paras. 52-59, 62 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 46(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/46/2)
+[^c-c15fef9a73b268b0069085e4280c09eb]: Textual amendment: Words in s. 1292(5) inserted (19.7.2011) (with effect in accordance with Sch. 2 paras. 52-59, 62 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 46(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/46/2)
 
-[^key-8a3cc6426bbc25a75276686594a95ea8]: Textual amendment: S. 1292(6ZA) omitted (with effect in accordance with s. 12(5)-(7) of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 12(4)(h)](https://www.legislation.gov.uk/ukpga/2017/10/section/12/4/h)
+[^c-8a3cc6426bbc25a75276686594a95ea8]: Textual amendment: S. 1292(6ZA) omitted (with effect in accordance with s. 12(5)-(7) of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 12(4)(h)](https://www.legislation.gov.uk/ukpga/2017/10/section/12/4/h)
 
-[^key-40965f304c0250450a53dd1febf435e9]: Textual amendment: S. 1292(6A) inserted (19.7.2011) (with effect in accordance with Sch . 2 para. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 46(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/46/3)
+[^c-40965f304c0250450a53dd1febf435e9]: Textual amendment: S. 1292(6A) inserted (19.7.2011) (with effect in accordance with Sch . 2 para. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 46(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/46/3)
 
-[^key-bf823d8faa3a4ad445413306d7ff5480]: Textual amendment: S. 1292(6B) inserted (with effect in accordance with Sch. 37 para. 23(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 23(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/23/1)
+[^c-bf823d8faa3a4ad445413306d7ff5480]: Textual amendment: S. 1292(6B) inserted (with effect in accordance with Sch. 37 para. 23(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 23(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/23/1)

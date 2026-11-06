@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 519. Meaning of “charitable trust”[^key-48450f51547295520068965568063a59]
+## 519. Meaning of “charitable trust”[^c-48450f51547295520068965568063a59]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48450f51547295520068965568063a59]: Textual amendment: S. 519 omitted (8.3.2012) (with effect in accordance with art. 17 of the commencing S.I.) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 6 paras. 23(4)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/23/4), [34(2)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/34/2); [S.I. 2012/736](https://www.legislation.gov.uk/uksi/2012/736), [art. 17](https://www.legislation.gov.uk/uksi/2012/736/article/17)
+[^c-48450f51547295520068965568063a59]: Textual amendment: S. 519 omitted (8.3.2012) (with effect in accordance with art. 17 of the commencing S.I.) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 6 paras. 23(4)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/23/4), [34(2)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/34/2); [S.I. 2012/736](https://www.legislation.gov.uk/uksi/2012/736), [art. 17](https://www.legislation.gov.uk/uksi/2012/736/article/17)

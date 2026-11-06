@@ -50,11 +50,11 @@ In accordance with section 3(5) of the Public Service Pensions Act (Northern Ire
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-d4c4e9c45dc524b5bf296165e84bccbe]
+### 1. Citation and commencement[^c-d4c4e9c45dc524b5bf296165e84bccbe]
 
 (1) These Regulations may be cited as the Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 and shall come into operation on the 1st April 2015.
 
-### 2. Interpretation[^key-a4c39d1935b03b40408f11aa31452f5b]
+### 2. Interpretation[^c-a4c39d1935b03b40408f11aa31452f5b]
 
 (1) In these Regulations—
 
@@ -66,9 +66,9 @@ In accordance with section 3(5) of the Public Service Pensions Act (Northern Ire
 - “2008 Section” means the section of the Health and Social Care Pension Scheme as set out in the 2008 Regulations;
 - “2014 Act” means the Public Service Pensions Act (Northern Ireland) 2014[^f00005];
 - “2015 Regulations” means the Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015[^f00006];
-- “[^key-0f44ee3d82cfc8616ebb69ce2d291a7e]**lump sum and death benefit allowance**” in relation to a person, has the meaning given in section 637R of the Income Tax (Earnings and Pensions) Act 2003.
+- “[^c-0f44ee3d82cfc8616ebb69ce2d291a7e]**lump sum and death benefit allowance**” in relation to a person, has the meaning given in section 637R of the Income Tax (Earnings and Pensions) Act 2003.
 - “new scheme” means the scheme set out in the 2015 Regulations;
-- “[^key-4b8070e9c08617d1362083720ed70987]**non-superannuable 1995 Section member**” means a member of—
+- “[^c-4b8070e9c08617d1362083720ed70987]**non-superannuable 1995 Section member**” means a member of—
   - (a) the 1995 Section who, on 31st March 2022, is no longer required to pay contributions under regulation 10 (3) or (4) (contributions by members) of the 1995 Regulations; and
   - (b) the new scheme in respect of service on or after 1st April 2024;
 - “**non-pensionable 2008 Section member**” means a member of—
@@ -78,11 +78,11 @@ In accordance with section 3(5) of the Public Service Pensions Act (Northern Ire
   - (a) a non-pensionable 1995 Section member; or
   - (b) a non-pensionable 2008 Section member;
 - “HSC employment”, in relation to the old scheme and the new scheme has the meaning given in the respective Regulations;
-- “officer transition member” means a person other than a non-pensionable old scheme member[^key-5ab402ccd68bfa1fa531ae249afe9f90] who is both a member of—
+- “officer transition member” means a person other than a non-pensionable old scheme member[^c-5ab402ccd68bfa1fa531ae249afe9f90] who is both a member of—
   - (a) the old scheme by virtue of having pensionable service in that scheme to which paragraphs 1(2)(b)(i) and (ii) or paragraphs 2(2)(b)(i) and (ii) of Schedule 7 (final salary link) to the 2014 Act applies; and
   - (b) the new scheme by virtue of having pensionable service in that scheme that would have been treated as officer service for the purposes of the old scheme had it been service in the old scheme;
 - “old scheme” means the Health and Social Care Pension Scheme, as set out in the 1995 Regulations and the 2008 Regulations;
-- “practitioner transition member” means a person other than a non-pensionable old scheme member[^key-d65461aa8ba6afd5fb771b5c20751319] —
+- “practitioner transition member” means a person other than a non-pensionable old scheme member[^c-d65461aa8ba6afd5fb771b5c20751319] —
   - (a) who is both a member of—
     - (i) the old scheme by virtue of having pensionable service to which Schedule 2 to the 1995 Regulations or Part 3 of the 2008 Regulations applies;
     - (ii) the new scheme by virtue of having pensionable service in that scheme that would have been treated as practitioner service for the purposes of the old scheme had it been service in the old scheme; and
@@ -98,13 +98,13 @@ In accordance with section 3(5) of the Public Service Pensions Act (Northern Ire
 
 ### CHAPTER 1 — Eligibility
 
-#### 3. Eligibility of pensioners[^key-2fe632a6ab692705182a25a3ca9b84b8]
+#### 3. Eligibility of pensioners[^c-2fe632a6ab692705182a25a3ca9b84b8]
 
 Schedule 1 (Eligibility of pensioners) has effect.
 
 ### CHAPTER 2 — Notices and elections
 
-#### 4. Carry-forward of old scheme opt-out[^key-a8e78ca98e4e785d8f90953aa90cc75a]
+#### 4. Carry-forward of old scheme opt-out[^c-a8e78ca98e4e785d8f90953aa90cc75a]
 
 Where, on the date a person becomes eligible to join the new scheme, that person has—
 
@@ -115,7 +115,7 @@ Where, on the date a person becomes eligible to join the new scheme, that person
 
 that person is to be treated as having also opted out under paragraph 1 of Schedule 4 to the 2015 Regulations or given notice for the purposes of the 2010 Regulations in relation to the new scheme.
 
-#### 5. Nominations, notices and declarations[^key-0a25492c4c63b910b54c31d9a3758b67]
+#### 5. Nominations, notices and declarations[^c-0a25492c4c63b910b54c31d9a3758b67]
 
 (1) Paragraph (2) applies where—
 
@@ -137,7 +137,7 @@ that person is to be treated as having also opted out under paragraph 1 of Sched
   </tbody>
   </table>
 
-  [^key-c79f0c046c428ec62df36af6804e7dcd][^key-355d2a8918d18d585a5640dcacfc8934][^key-fa95787dd180c0f9efb2f53dfce806ce]
+  [^c-c79f0c046c428ec62df36af6804e7dcd][^c-355d2a8918d18d585a5640dcacfc8934][^c-fa95787dd180c0f9efb2f53dfce806ce]
 
 (2) Where this paragraph applies, for the purposes of the 2015 Scheme, the nomination, notice or declaration mentioned is to be treated as if it had been accepted by the scheme manager as the corresponding notice or declaration in column 2 of the table in paragraph (1).
 
@@ -153,11 +153,11 @@ that person is to be treated as having also opted out under paragraph 1 of Sched
 
 ### CHAPTER 3 — Membership status and breaks in service
 
-#### 6. Active member status preservation[^key-16dd8239e102082ce47ebe2bc53424f1]
+#### 6. Active member status preservation[^c-16dd8239e102082ce47ebe2bc53424f1]
 
 Unless otherwise provided in these Regulations, a transition member who is an active member of the new scheme is to be treated, for the purposes of the old scheme, as though they continue to be an active member of the old scheme notwithstanding the operation of section 18(1) of the 2014 Act.
 
-#### 7. Qualifying service[^key-a53ab270fc5f14c1e8911c7f514adc76]
+#### 7. Qualifying service[^c-a53ab270fc5f14c1e8911c7f514adc76]
 
 (1) In determining whether a transition member who is in pensionable service under the new scheme qualifies for retirement benefits (other than ill-health pension) under the old scheme, the member’s pensionable service under the old scheme terminates when the member’s pensionable service under the new scheme terminates.
 
@@ -183,14 +183,14 @@ in relation to service in that Section.
 - (a) 5 of the 1995 Regulations; or
 - (b) 10 or 141 of the 2008 Regulations.
 
-#### 8. Members on authorised unpaid leave[^key-75cdf1bcde0f9e715cdc6ff0045999b5]
+#### 8. Members on authorised unpaid leave[^c-75cdf1bcde0f9e715cdc6ff0045999b5]
 
 Where, on the date a person becomes eligible to join the new scheme, that person is on a leave of absence during which they are paying contributions pursuant to regulation 66 of the 1995 Regulations or 9(3) or 140(3) of the 2008 Regulations—
 
 - (a) regulation 21 of the 2015 Regulations applies to that person; and
 - (b) for the purposes of determining whether and for how long that person may continue to pay contributions under the 2015 Regulations, the contributions paid and the period of absence under the old scheme must be taken into account.
 
-#### 9. Casual staff and locums not working on eligibility date[^key-d4c99e1d35d1b37c6e6c3e7c257fda69]
+#### 9. Casual staff and locums not working on eligibility date[^c-d4c99e1d35d1b37c6e6c3e7c257fda69]
 
 (1) Paragraph (2) applies where, on the date a person becomes eligible to join the new scheme, that person—
 
@@ -201,7 +201,7 @@ Where, on the date a person becomes eligible to join the new scheme, that person
 
 (2) Regulation 22(5) and (6) of the 2015 Regulations applies as though the member’s relevant break had commenced whilst the member was an active member of the new scheme.
 
-#### 10. Disqualifying breaks in service[^key-c43f9a2347c69574895df77a82ce3b0e]
+#### 10. Disqualifying breaks in service[^c-c43f9a2347c69574895df77a82ce3b0e]
 
 (1) Paragraph (3) applies to a member with pensionable service in the old scheme who—
 
@@ -247,35 +247,35 @@ Where, on the date a person becomes eligible to join the new scheme, that person
 
 ### CHAPTER 4 — Contributions and final pay
 
-#### 11. Contribution rate setting: Groups A to C[^key-8721a55773d03198828d38b4cd2dd75e]
+#### 11. Contribution rate setting: Groups A to C[^c-8721a55773d03198828d38b4cd2dd75e]
 
-(1) This regulation applies to a transition member who belongs to Groups A, B or C in regulation 27(1) of the 2015 Regulations and who on 31st March 2022[^key-612f0d5f7a94ec01f97d3476cacf7a6b] was—
+(1) This regulation applies to a transition member who belongs to Groups A, B or C in regulation 27(1) of the 2015 Regulations and who on 31st March 2022[^c-612f0d5f7a94ec01f97d3476cacf7a6b] was—
 
 - (a) a member in pensionable employment in the 1995 Section; or
 - (b) an active member of the 2008 Section.
 
-(2) Where this regulation applies, for the purposes of setting a contribution rate for the scheme year commencing on 1st April 2022[^key-521f48149f7d50620481018c62188a9f] —
+(2) Where this regulation applies, for the purposes of setting a contribution rate for the scheme year commencing on 1st April 2022[^c-521f48149f7d50620481018c62188a9f] —
 
 - (a) paragraph 2 of Schedule 9 to the 2015 Regulations applies as though the member was in pensionable service with the same employing authority on both—
   - (i) the last day of the previous scheme year, and
   - (ii) the first day of the current scheme year;
-- (b) in determining which of the cases the member falls into pursuant to sub-paragraph (2) of that paragraph, the member is to be assessed as if during the scheme year 1st April 2021[^key-ac263c152eef7f5a3637f288433bacff] to 31st March 2022[^key-579888a638ee358b134254af6b12602f] —
+- (b) in determining which of the cases the member falls into pursuant to sub-paragraph (2) of that paragraph, the member is to be assessed as if during the scheme year 1st April 2021[^c-ac263c152eef7f5a3637f288433bacff] to 31st March 2022[^c-579888a638ee358b134254af6b12602f] —
   - (i) that member’s pensionable employment (within the meaning of the 1995 Section) or active service (within the meaning of the 2008 Section) was actually pensionable employment under the 2015 Regulations; and
   - (ii) the percentage rate of contributions paid by the member during that year in the relevant Section was actually the percentage rate of contributions paid during the previous scheme year under the 2015 Regulations.
 
-#### 12. Contribution rate setting: Group D[^key-f2c4950d37c1723c6628925e15adf21c]
+#### 12. Contribution rate setting: Group D[^c-f2c4950d37c1723c6628925e15adf21c]
 
-(1) This regulation applies to a transition member who belongs to Group D in regulation 27(1) of the 2015 Regulations and who on 31st March 2022[^key-5ff2024a1dcf177c157ddf652af3e0c7] was—
+(1) This regulation applies to a transition member who belongs to Group D in regulation 27(1) of the 2015 Regulations and who on 31st March 2022[^c-5ff2024a1dcf177c157ddf652af3e0c7] was—
 
 - (a) a member in pensionable employment in the 1995 Section; or
 - (b) an active member of the 2008 Section.
 
-(2) Where this regulation applies, for the purposes of setting a contribution rate for the scheme year commencing on 1st April 2022[^key-599ccc486617f6865fc90b9b90e98d6e], in regulations 37(4)(b) and 38(4)(b) of the 2015 Regulations, the member’s most recent certified or final pensionable earnings are to be the member’s certified earnings or final pensionable earnings derived from the member’s—
+(2) Where this regulation applies, for the purposes of setting a contribution rate for the scheme year commencing on 1st April 2022[^c-599ccc486617f6865fc90b9b90e98d6e], in regulations 37(4)(b) and 38(4)(b) of the 2015 Regulations, the member’s most recent certified or final pensionable earnings are to be the member’s certified earnings or final pensionable earnings derived from the member’s—
 
 - (a) pensionable employment in the 1995 Section, in accordance with paragraph 23 to Schedule 2 of the 1995 Regulations; or
 - (b) active service in the 2008 Section, in accordance with regulation 260 of the 2008 Regulations.
 
-#### 13. Taper protection for contribution tiering[^key-facbce125fbf4a3bd9a47ab9debe9106]
+#### 13. Taper protection for contribution tiering[^c-facbce125fbf4a3bd9a47ab9debe9106]
 
 (1) This regulation applies to—
 
@@ -296,21 +296,21 @@ Where, on the date a person becomes eligible to join the new scheme, that person
   - (i) the Regional Health and Social Care Board (RHSCB) adjusts the member’s contribution rate pursuant to paragraph (6) of whichever of regulations 37 or 38 of the 2015 Regulations applies to the member; or
   - (ii) paragraph (2)(a) or (b) of whichever of regulations 37 or 38 of the 2015 Regulations applies to the member is subsequently satisfied in respect of the member (in which case the member must pay the rate determined in accordance with paragraph (3) of whichever of those regulations applies to the member).
 
-#### 14. Determination of pensionable pay, final pensionable pay and reckonable pay[^key-fae5bd35adadd10710afcd3dc8ab6d66]
+#### 14. Determination of pensionable pay, final pensionable pay and reckonable pay[^c-fae5bd35adadd10710afcd3dc8ab6d66]
 
-(1) For any purpose of the old scheme including the calculation of benefits payable under that scheme to or in respect of a 1995 officer transition member or a non-pensionable 1995 Section member[^key-e1089152c15bf90fa6eb389e2a612b6b] , the member’s pensionable pay and final year’s pensionable pay are to be determined by reference to the 1995 Regulations (see in particular Part 1 of those Regulations).
+(1) For any purpose of the old scheme including the calculation of benefits payable under that scheme to or in respect of a 1995 officer transition member or a non-pensionable 1995 Section member[^c-e1089152c15bf90fa6eb389e2a612b6b] , the member’s pensionable pay and final year’s pensionable pay are to be determined by reference to the 1995 Regulations (see in particular Part 1 of those Regulations).
 
-(2) For any purpose of the old scheme including the calculation of benefits payable under that scheme to or in respect of a 2008 officer transition member or a non-pensionable 2008 Section member[^key-5570d86d068befd6138ddf83aec2d131] , the member’s pensionable pay and reckonable pay are to be determined by reference to the 2008 Regulations (see in particular Chapter 1 of Part 2 of those Regulations).
+(2) For any purpose of the old scheme including the calculation of benefits payable under that scheme to or in respect of a 2008 officer transition member or a non-pensionable 2008 Section member[^c-5570d86d068befd6138ddf83aec2d131] , the member’s pensionable pay and reckonable pay are to be determined by reference to the 2008 Regulations (see in particular Chapter 1 of Part 2 of those Regulations).
 
-#### 15. No refund of contributions in cases of inordinate pay[^key-0cfff085b39a9888d33b959c8e78f14c]
+#### 15. No refund of contributions in cases of inordinate pay[^c-0cfff085b39a9888d33b959c8e78f14c]
 
-Where the Department determines the amount of a member’s final years’ pensionable pay in respect of a 1995 officer transition member or a non-pensionable 1995 Section member[^key-fd01a35514f4537dec973156855b295f] pursuant to paragraph (10) of regulation 3 of the 1995 Regulations, no refund of contributions is payable under paragraphs (12)(b) and (c) of that regulation[^f00013].
+Where the Department determines the amount of a member’s final years’ pensionable pay in respect of a 1995 officer transition member or a non-pensionable 1995 Section member[^c-fd01a35514f4537dec973156855b295f] pursuant to paragraph (10) of regulation 3 of the 1995 Regulations, no refund of contributions is payable under paragraphs (12)(b) and (c) of that regulation[^f00013].
 
-#### 16. Cessation of final salary link on payment of benefits[^key-4f530279c2fdd5b41b3e90b4daf6eace]
+#### 16. Cessation of final salary link on payment of benefits[^c-4f530279c2fdd5b41b3e90b4daf6eace]
 
-Where an officer transition member’s benefits or a non-pensionable old scheme member’s benefits[^key-bd2ac1caf89f2d9c87316b082001d4cf] under the old scheme calculated by reference to Schedule 7 to the 2014 Act have been put into payment, those benefits cannot be recalculated by reference to that Schedule where there is a subsequent period of pensionable public service within the meaning of paragraph 3 of that Schedule.
+Where an officer transition member’s benefits or a non-pensionable old scheme member’s benefits[^c-bd2ac1caf89f2d9c87316b082001d4cf] under the old scheme calculated by reference to Schedule 7 to the 2014 Act have been put into payment, those benefits cannot be recalculated by reference to that Schedule where there is a subsequent period of pensionable public service within the meaning of paragraph 3 of that Schedule.
 
-#### 17. Final salary link: Mental Health Officers[^key-2e138f260e6ecf615aaabfd0569d60cf]
+#### 17. Final salary link: Mental Health Officers[^c-2e138f260e6ecf615aaabfd0569d60cf]
 
 (1) This regulation applies to a 1995 officer transition member—
 
@@ -322,26 +322,26 @@ Where an officer transition member’s benefits or a non-pensionable old scheme 
 
 (2) Where this regulation applies, the final year’s pensionable pay to be used in the calculation of the member’s benefits under regulation 76(10) or (11) of the 1995 Regulations will be that derived from the member’s notional mental health officer service.
 
-#### 17A. Final salary link: non-pensionable old scheme members[^key-8aeb2727289ba439af2bb74c5e79d0e9]
+#### 17A. Final salary link: non-pensionable old scheme members[^c-8aeb2727289ba439af2bb74c5e79d0e9]
 
 (1) This regulation applies if benefits under the old scheme payable to or in respect of a non-pensionable old scheme member are to be calculated by reference to that member’s final salary as determined in accordance with Schedule 7 to the 2014 Act (“the member’s final salary link”).
 
 (2) Where this regulation applies, the benefits under the old scheme payable to or in respect of the member may be calculated without reference to the member’s final salary link if it would be more beneficial to the member or other beneficiary to do so.
 
-#### 18. Uprating of old scheme practitioner earnings[^key-4b6956be75178faaea28a80279bd41af]
+#### 18. Uprating of old scheme practitioner earnings[^c-4b6956be75178faaea28a80279bd41af]
 
-(1)[^key-62ce7336807f1f6f05d4771d963601e6] Subject to paragraphs (2) and (3), in relation to a practitioner transition member as regards the period after 31<sup>st</sup> March 2015 in which the member is a member of the new scheme.
+(1)[^c-62ce7336807f1f6f05d4771d963601e6] Subject to paragraphs (2) and (3), in relation to a practitioner transition member as regards the period after 31<sup>st</sup> March 2015 in which the member is a member of the new scheme.
 
 - (a) paragraph 11(2)(b) of Schedule 2 to the 1995 Regulations; and
 - (b) regulation 176(4) of the 2008 Regulations,
 
 apply as though the words “the annual increase due under the provisions of the Pensions (Increase) Act (Northern Ireland) 1971 and Article 69 of the Social Security Pensions (Northern Ireland) Order 1975, plus” were omitted.
 
-(2)[^key-dbdfae178788064a9008accf0c7bf40d] Paragraph (3) applies if a practitioner transition member is purchasing additional service pursuant to regulation 22 (Existing additional service and unreduced lump sum contracts).
+(2)[^c-dbdfae178788064a9008accf0c7bf40d] Paragraph (3) applies if a practitioner transition member is purchasing additional service pursuant to regulation 22 (Existing additional service and unreduced lump sum contracts).
 
 (3) Paragraph (1) does not apply for the purposes of calculating that member’s uprated pensionable earnings in relation to that purchase for the purposes of sub-paragraph (5) of paragraph 20 of Schedule 2 to the 1995 Regulations.
 
-#### 19. Flexibility earnings credit: calculation[^key-6a984d557f99e160efe0a5ff22bf7dc6]
+#### 19. Flexibility earnings credit: calculation[^c-6a984d557f99e160efe0a5ff22bf7dc6]
 
 (1) This regulation and regulations 20 and 21 apply to a transition member who—
 
@@ -362,7 +362,7 @@ where—
 
 and the amounts of pension for the purposes of this calculation are amounts before any actuarial reduction is applied by reason of payment before normal pension age for the relevant Section.
 
-#### 20. Flexibility earnings credit: uprating[^key-d438be3cb20f9933a0e8cc9b7f70f638]
+#### 20. Flexibility earnings credit: uprating[^c-d438be3cb20f9933a0e8cc9b7f70f638]
 
 (1) The amount of a flexibility earnings credit calculated under regulation 19(2) is to be increased at the rate specified in paragraph (2) for each year or part year from the day after the last day of pensionable service in the old scheme until the earlier of—
 
@@ -374,7 +374,7 @@ in order to generate an uprated flexibility earnings credit.
 
 (2) The annual rate of increase of a flexibility earnings credit is the rate set for that year by the Department after having taken the advice of the scheme actuary for the purpose.
 
-#### 21. Flexibility earnings credit: adjustment of pension payable[^key-3d24d38dd954cb3fa2222f416fdc0f5e]
+#### 21. Flexibility earnings credit: adjustment of pension payable[^c-3d24d38dd954cb3fa2222f416fdc0f5e]
 
 (1) Where pension benefits are payable under the old scheme, the amount payable is adjusted as follows.
 
@@ -389,7 +389,7 @@ and the provisions of paragraphs 9 and 11A of Schedule 2 the 1995 Regulations[^f
 
 ### CHAPTER 5 — Additional contributions
 
-#### 22. Existing additional service and unreduced lump sum contracts[^key-9db88f1d55aebe358faf13ee87d2a336]
+#### 22. Existing additional service and unreduced lump sum contracts[^c-9db88f1d55aebe358faf13ee87d2a336]
 
 (1) This regulation applies to a member of the new scheme who—
 
@@ -407,7 +407,7 @@ and the provisions of paragraphs 9 and 11A of Schedule 2 the 1995 Regulations[^f
 
 the member’s pensionable earnings in the new scheme are to be treated as the member’s pensionable pay in the 1995 Section for the purpose of determining the amount of any additional contributions due.
 
-#### 23. Existing additional pension contracts[^key-efb9fe8c75244dc4e0dec76be87f60c4]
+#### 23. Existing additional pension contracts[^c-efb9fe8c75244dc4e0dec76be87f60c4]
 
 (1) This regulation applies to a member of the new scheme who—
 
@@ -429,7 +429,7 @@ the member’s pensionable earnings in the new scheme are to be treated as the m
 
   continues to apply if the member who is paying for additional pension by additional periodical contributions stops paying before the end of the contribution option period.
 
-(3)[^key-27170fbc1b04899aaf3a5034494bf05c] In paragraph (2), “relevant regulations” means—
+(3)[^c-27170fbc1b04899aaf3a5034494bf05c] In paragraph (2), “relevant regulations” means—
 
 - (a) in the case of a member whose old scheme service was in the 1995 Section, regulations 73A to 73H and 73J of the 1995 Regulations; and
 - (b) in the case of a member whose old scheme service was in the 2008 Section—
@@ -438,7 +438,7 @@ the member’s pensionable earnings in the new scheme are to be treated as the m
 
   of the 2008 Regulations.
 
-#### 24. Additional contributions: ill-health[^key-bd7c5199637a1e6d00b6de1cd117721b]
+#### 24. Additional contributions: ill-health[^c-bd7c5199637a1e6d00b6de1cd117721b]
 
 Where regulation 22 or 23 applies, references to—
 
@@ -448,16 +448,16 @@ Where regulation 22 or 23 applies, references to—
 
 are to be read as references to an ill-health pension under regulation 89 of the 2015 Regulations in accordance with regulations 28 and 29 of these Regulations.
 
-#### 25. Decoupling of benefits derived from additional contributions[^key-dc2639d7b68444a6739f8ca159b34f1f]
+#### 25. Decoupling of benefits derived from additional contributions[^c-dc2639d7b68444a6739f8ca159b34f1f]
 
 (1) This regulation applies to a transition member who has accrued entitlements in the 1995 Section from the payment of additional contributions under Part VIII of the 1995 Regulations.
 
 (2) Where this regulation applies, the member may elect that the part of a pension payable under regulation 12 of the 1995 Regulations derived solely from the payment of additional contributions under Part VIII of those Regulations should be payable from—
 
-- (a) the member’s chosen date (subject to paragraph (10), as defined in regulation 72(3)), or, if later, the date on which the member joins the new scheme,[^key-694e1bae73bb7e96f10508c5c083960c] in the case of purchase of additional service;
-- (b) the member’s chosen birthday (subject to paragraph (10), as defined in regulation 73A), or, if later, the date on which the member joins the new scheme,[^key-9b77b9456b40b673b2ca07a2ee59898d] in the case of purchase of additional pension,
+- (a) the member’s chosen date (subject to paragraph (10), as defined in regulation 72(3)), or, if later, the date on which the member joins the new scheme,[^c-694e1bae73bb7e96f10508c5c083960c] in the case of purchase of additional service;
+- (b) the member’s chosen birthday (subject to paragraph (10), as defined in regulation 73A), or, if later, the date on which the member joins the new scheme,[^c-9b77b9456b40b673b2ca07a2ee59898d] in the case of purchase of additional pension,
 
-notwithstanding the fact that the member continues in pensionable service under the new scheme (and for the purposes of any calculation, the member is to be taken to have retired from pensionable service on the member’s chosen date or [^key-f4189befc5d1834dedf7d5e86cd41f6c]... chosen birthday (as applicable)) or, if later, the date on which the member joins the new scheme[^key-dd3bcefb0615a7fe448771c405581b0a].
+notwithstanding the fact that the member continues in pensionable service under the new scheme (and for the purposes of any calculation, the member is to be taken to have retired from pensionable service on the member’s chosen date or [^c-f4189befc5d1834dedf7d5e86cd41f6c]... chosen birthday (as applicable)) or, if later, the date on which the member joins the new scheme[^c-dd3bcefb0615a7fe448771c405581b0a].
 
 (3) Paragraph (4) applies where the member has—
 
@@ -476,7 +476,7 @@ notwithstanding the fact that the member continues in pensionable service under 
 
 (5) Regulations 17 and 17A of the 1995 Regulations (where relevant) apply in relation to a payment made pursuant to this regulation.
 
-(6) An election for the purposes of paragraph (2) must be given in writing to the scheme manager, containing such information as the scheme manager requires—[^key-466a53df939a41374c1eba3966140895]
+(6) An election for the purposes of paragraph (2) must be given in writing to the scheme manager, containing such information as the scheme manager requires—[^c-466a53df939a41374c1eba3966140895]
 
 - (a) no later than one month before the member’s chosen date or chosen birthday (as applicable); or
 - (b) if—
@@ -497,12 +497,12 @@ notwithstanding the fact that the member continues in pensionable service under 
 - (b) the 1995 Regulations apply to the member’s remaining entitlements under those Regulations as though no additional contributions had been made under Part VIII; and
 - (c) no further pension in respect of the additional contributions actually paid under Part VIII of the 1995 Regulations is payable under those Regulations.
 
-(9) The scheme manager must notify the member in writing of the right to make an election under this regulation—[^key-0434f07febf6e917fc65eecfc52659c5]
+(9) The scheme manager must notify the member in writing of the right to make an election under this regulation—[^c-0434f07febf6e917fc65eecfc52659c5]
 
 - (a) at least six months before the member’s chosen date or chosen birthday (as applicable); or
 - (b) if the member joins the new scheme at a time specified in paragraph (6)(b)(i) or (ii), no later than three months after the date on which the member joins the new scheme.
 
-(9A)[^key-b45e02bb980a373e22c1fb40cdf09548] A notice for the purpose of paragraph (9) must specify—
+(9A)[^c-b45e02bb980a373e22c1fb40cdf09548] A notice for the purpose of paragraph (9) must specify—
 
 - (a) the date on which any pension payable pursuant to this regulation would come into payment were an election to be made;
 - (b) the amount of any pension payable under this regulation (before any option to commute part of the pension into a lump sum); and
@@ -515,7 +515,7 @@ notwithstanding the fact that the member continues in pensionable service under 
 
 ### CHAPTER 6 — Bulk Transfers
 
-#### 26. Acceptance of bulk transfers[^key-83ad0df03eb5dfabaf847452af52a0fe]
+#### 26. Acceptance of bulk transfers[^c-83ad0df03eb5dfabaf847452af52a0fe]
 
 (1) If, in circumstances where regulation 147 of the 2015 Regulations applies, the special terms agreed for the acceptance of transfer payments require such part of a transfer value payment as relates to a member’s final salary benefits to be paid into the 1995 Section or the 2008 Section, that part of the transfer value must be paid into that Section.
 
@@ -526,20 +526,20 @@ notwithstanding the fact that the member continues in pensionable service under 
 
 ### CHAPTER 7 — Retirement benefits
 
-#### 27. Ill health benefits: continuity of existing applications[^key-0c2071af71202e0cdd2b4ab148fca7d1]
+#### 27. Ill health benefits: continuity of existing applications[^c-0c2071af71202e0cdd2b4ab148fca7d1]
 
-(1) This regulation , except paragraph (1A) and paragraph (2) to the extent that it relates to paragraph (1A),[^key-1ec84d46b3c5e6bf23b0605ab7fb62ba] applies during the application period[^key-726638487f0587f432f9024bb00136ff] to a member—
+(1) This regulation , except paragraph (1A) and paragraph (2) to the extent that it relates to paragraph (1A),[^c-1ec84d46b3c5e6bf23b0605ab7fb62ba] applies during the application period[^c-726638487f0587f432f9024bb00136ff] to a member—
 
-- (a) who, on the transition date—[^key-7545574a9431feb6e004cd9c5f9a7c03]
-  - (i) is prevented from contributing to or accruing further pensionable[^key-c9a42acc3252e3bb2a83bdfcff8ea33b] service in the 1995 Section or being an active member of the 2008 Section; and[^key-909cf6699bb5fe012d3f2433379a361a]
-    - (aa)[^key-ce2da3350acabeacd8a6d75fce352d98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) who, on the transition date—[^c-7545574a9431feb6e004cd9c5f9a7c03]
+  - (i) is prevented from contributing to or accruing further pensionable[^c-c9a42acc3252e3bb2a83bdfcff8ea33b] service in the 1995 Section or being an active member of the 2008 Section; and[^c-909cf6699bb5fe012d3f2433379a361a]
+    - (aa)[^c-ce2da3350acabeacd8a6d75fce352d98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
     - (bb)[^M_F_e9569838-5406-444e-9f0f-51b3cbc6356e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (ii) becomes eligible to join the new scheme [^key-4cb462914a6a8d172e286fba162f2354]...;
-- (b) who submitted Form AW33 (or such other form as the Department accepted) together with supporting medical evidence (if[^key-264823faddf62d1ed10ac859503539e0] not included in the form) for the purposes of 1995 regulation 13A (Ill health pension on early retirement), 2008 regulation 52 or 2008 regulation 182 (Early retirement on ill-health: active members and non-contributing members)[^key-0ae30d0eb464a915817b8be9bfbeb9ef] before the transition date;
-- (c) whose Form AW33 (or such other form as the Department accepted)[^key-9cab4a51f952006dc2f5132112301524] and supporting medical evidence (“the member’s application for ill-health pension”)[^key-42b1e4111cf3526d96a95582b43e958f] was received by the Department before the transition date; and
+  - (ii) becomes eligible to join the new scheme [^c-4cb462914a6a8d172e286fba162f2354]...;
+- (b) who submitted Form AW33 (or such other form as the Department accepted) together with supporting medical evidence (if[^c-264823faddf62d1ed10ac859503539e0] not included in the form) for the purposes of 1995 regulation 13A (Ill health pension on early retirement), 2008 regulation 52 or 2008 regulation 182 (Early retirement on ill-health: active members and non-contributing members)[^c-0ae30d0eb464a915817b8be9bfbeb9ef] before the transition date;
+- (c) whose Form AW33 (or such other form as the Department accepted)[^c-9cab4a51f952006dc2f5132112301524] and supporting medical evidence (“the member’s application for ill-health pension”)[^c-42b1e4111cf3526d96a95582b43e958f] was received by the Department before the transition date; and
 - (d) whose ill-health pension has not become payable under the 1995 Section or the 2008 Section before the transition date.
 
-(1A)[^key-c37c71786e76e003e6b93fa64d6cdb2f] This regulation, except paragraph (1) and paragraph (2) to the extent that it relates to paragraph (1), applies during the application period to a member—
+(1A)[^c-c37c71786e76e003e6b93fa64d6cdb2f] This regulation, except paragraph (1) and paragraph (2) to the extent that it relates to paragraph (1), applies during the application period to a member—
 
 - (a) who has remediable service in the legacy scheme up to and including 31st March 2022—
   - (i) that is pensionable service under that scheme by virtue of section 2(1) of PSPJOA 2022;
@@ -551,28 +551,28 @@ notwithstanding the fact that the member continues in pensionable service under 
 - (d) whose Form AW33E (or such other form as the Department accepted) and supporting medical evidence (“the member’s application for ill-health pension”) was received by the Department before the transition date; and
 - (e) whose ill-health pension had not become payable under the new scheme before the transition date.
 
-(2) For the purposes of[^key-fabe74be656536efac285e8d7e0a9e73] paragraphs (1) and (1A)[^key-f34a64221bce3041ed0b062584c5cd87] , “**the application period**” in relation to a member is the period which ends with the day on which—
+(2) For the purposes of[^c-fabe74be656536efac285e8d7e0a9e73] paragraphs (1) and (1A)[^c-f34a64221bce3041ed0b062584c5cd87] , “**the application period**” in relation to a member is the period which ends with the day on which—
 
 - (a) the member withdraws the application for ill-health pension; or
-- (b) the Department determines that there is no entitlement to an[^key-336ff35383ef9071faaca05a9a301826] ill-health pension in respect of that application[^key-ab23f2173ccf83e5bfdd8d6000785dc2] and that determination has become final and binding.
+- (b) the Department determines that there is no entitlement to an[^c-336ff35383ef9071faaca05a9a301826] ill-health pension in respect of that application[^c-ab23f2173ccf83e5bfdd8d6000785dc2] and that determination has become final and binding.
 
-(3) For the purposes of paragraph (2)(b), a determination becomes final and binding when—[^key-b6a342f517a1ca793567d692108a890b]
+(3) For the purposes of paragraph (2)(b), a determination becomes final and binding when—[^c-b6a342f517a1ca793567d692108a890b]
 
 - (a) the determination may not be the subject of further challenge by the member—
   - (i) pursuant to dispute resolution arrangements made and implemented under Article 50 of the Pensions (Northern Ireland) Order 1995[^f00018];
   - (ii) by way of a complaint to the Pensions Ombudsman pursuant to Part X of the Pension Schemes (Northern Ireland) Act 1993[^f00019]; or
-  - (iii)[^key-1288d0424b4a5bc76771cb597dd7e249] by proceedings before a court or tribunal; or
-- (b) [^key-3cc9e93473d14d3db5bcc823b427985c]... the member has indicated in writing that—
+  - (iii)[^c-1288d0424b4a5bc76771cb597dd7e249] by proceedings before a court or tribunal; or
+- (b) [^c-3cc9e93473d14d3db5bcc823b427985c]... the member has indicated in writing that—
   - (i) the application for ill-health pension is withdrawn; or
   - (ii) the determination is accepted by the member as being final and binding and any right to further challenge is waived.
 
-(4)[^key-eb334064e68c48b8df5e67845d7a1015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-eb334064e68c48b8df5e67845d7a1015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-eb334064e68c48b8df5e67845d7a1015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-eb334064e68c48b8df5e67845d7a1015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-eb334064e68c48b8df5e67845d7a1015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-eb334064e68c48b8df5e67845d7a1015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-0f7f4055fe02284990a1cf055ba394c2] Where this regulation applies—
+(7)[^c-0f7f4055fe02284990a1cf055ba394c2] Where this regulation applies—
 
 - (a) the member’s application for ill-health pension is considered in accordance with paragraph (8) or (9) (whichever is relevant); and
 - (b) the member’s benefits, if any, are paid in accordance with paragraph (10) and the further provisions referred to in that paragraph (whichever are relevant).
@@ -669,11 +669,11 @@ are each increased by the amount found by applying the formula—
 - “**the 2008 ill-health conditions**” has the meaning given in paragraph (10)(b);
 - “**the 2015 regulation 89 ill-health conditions**” has the meaning given in paragraph (10)(a);
 - “**the deceased member**” has the meaning given in paragraph (17);
-- “**the member’s application for ill-health pension**” has the meaning given in paragraph (1)(c) or (1A)(d) (whichever is relevant)[^key-dbb7cde1fae0d99881b2f9f978dcfef1] ;
-- “**the pension comparison calculation**” has the meaning given in paragraph (10)(c)(ii) ;[^key-dcc60b296c6f31d43b5e4616e39d4488]
-- “[^key-19def15286313f0f518ede8938925e72] **the transition date** ” means 1st April 2022.
+- “**the member’s application for ill-health pension**” has the meaning given in paragraph (1)(c) or (1A)(d) (whichever is relevant)[^c-dbb7cde1fae0d99881b2f9f978dcfef1] ;
+- “**the pension comparison calculation**” has the meaning given in paragraph (10)(c)(ii) ;[^c-dcc60b296c6f31d43b5e4616e39d4488]
+- “[^c-19def15286313f0f518ede8938925e72] **the transition date** ” means 1st April 2022.
 
-#### 28. Ill health benefits: members below old scheme normal pension age[^key-b3dde050bf764b28923cb0749f6d7e47]
+#### 28. Ill health benefits: members below old scheme normal pension age[^c-b3dde050bf764b28923cb0749f6d7e47]
 
 (1) This regulation applies in relation to a transition member who—
 
@@ -709,7 +709,7 @@ are each increased by the amount found by applying the formula—
 
 (6) The amount of pension payable under this regulation which represents the amount that would have been payable under the old scheme is subject to the same conditions, and ceases to be payable in the same circumstances, as the pension to which the member would have been entitled under the old scheme in accordance with whichever of the 1995 Regulations or the 2008 Regulations are applicable.
 
-(6A)[^key-876a1edb18f2ceec3da64d4ebfee59c3] Paragraphs (6B) and (6C) apply if a member receiving an ill health pension under this regulation dies before reaching old scheme normal pension age.
+(6A)[^c-876a1edb18f2ceec3da64d4ebfee59c3] Paragraphs (6B) and (6C) apply if a member receiving an ill health pension under this regulation dies before reaching old scheme normal pension age.
 
 (6B) If a surviving adult dependant of the member is entitled to a pension in accordance with regulation 115 (Amount of pension: survivor of pensioner member) of the 2015 Regulations the annual rate of the adult survivor pension payable under paragraph (4)(a) of that regulation is—
 
@@ -746,7 +746,7 @@ are each increased by the amount found by applying the formula—
   - (i) as regards the 1995 Section, normal benefit age under the 1995 Regulations; or
   - (ii) as regards the 2008 Section, the age specified in regulation 45 or 176 (normal retirement pensions) of the 2008 Regulations.
 
-#### 29. Ill health benefits: members above old scheme normal pension age[^key-afdc06c158178d1f39858f3a4490b77d]
+#### 29. Ill health benefits: members above old scheme normal pension age[^c-afdc06c158178d1f39858f3a4490b77d]
 
 (1) This regulation applies in relation to a transition member who is receiving payment of an ill-health pension in accordance with regulation 28.
 
@@ -766,7 +766,7 @@ are each increased by the amount found by applying the formula—
 - (a) that pension was eligible to be so increased; and
 - (b) the beginning date for that pension was the date that ill-health pension became payable under the new scheme.
 
-#### 30. Age retirement of mental health officers, nurses, physiotherapists, midwives and health visitors[^key-2bb34c1ec295ab23b038dbb25f0961d4]
+#### 30. Age retirement of mental health officers, nurses, physiotherapists, midwives and health visitors[^c-2bb34c1ec295ab23b038dbb25f0961d4]
 
 (1) In regulation 75 of the 1995 Regulations, references to “superannuable employment” in paragraphs (1)(b), (2) and (3)(b) includes employment that qualified the 1995 officer transition member for benefits under the 2015 Regulations.
 
@@ -775,24 +775,24 @@ are each increased by the amount found by applying the formula—
 - (a) “superannuable employment” in paragraphs (2), (5)(a) and (9) includes employment that qualified the member for benefits under the 2015 Regulations; and
 - (b) “superannuable service” in paragraph (5)(a) includes service that qualified the member for benefits under the 2015 Regulations.
 
-#### 31. Partial Retirement[^key-904e45dba5bcdbf264ffec867b7d2bd6][^key-def6eca8dfb13ba723e8a82b1104f3f6]
+#### 31. Partial Retirement[^c-904e45dba5bcdbf264ffec867b7d2bd6][^c-def6eca8dfb13ba723e8a82b1104f3f6]
 
 (1) Where a transition member or non-pensionable old scheme member elects to claim a specified percentage of that member’s pension pursuant to regulation 83 of the 2015 Regulations, that election is to be treated as also being an option for the purposes of partial retirement pension pursuant to whichever of the following regulations applies to the member⸺
 
 - (a) regulation 16A of the 1995 Regulations (with or without the modifications made in paragraph 12A of Schedule 2); or
 - (b) regulations 49 or 180 of the 2008 Regulations.
 
-(2)[^key-69808745110ee2be05eb880eb37f7a2f] A transition member or non-pensionable old scheme member does not become entitled to a specified percentage of a pension under regulation 83 of the 2015 Regulations until the member has become entitled to and claimed all the benefits in⸺
+(2)[^c-69808745110ee2be05eb880eb37f7a2f] A transition member or non-pensionable old scheme member does not become entitled to a specified percentage of a pension under regulation 83 of the 2015 Regulations until the member has become entitled to and claimed all the benefits in⸺
 
 - (a) the 1995 Section; or
 - (b) the 2008 Section.
 
-(3)[^key-ca82c799f1ce2211380edc91834a0888] For the purposes of regulation 16A(7) and paragraph 12A of Schedule 2 to the 1995 Regulations, or regulation 49(6) and 180(5) of the 2008 Regulations, and regulation 83(5) of the 2015 Regulations (as the case may be)—
+(3)[^c-ca82c799f1ce2211380edc91834a0888] For the purposes of regulation 16A(7) and paragraph 12A of Schedule 2 to the 1995 Regulations, or regulation 49(6) and 180(5) of the 2008 Regulations, and regulation 83(5) of the 2015 Regulations (as the case may be)—
 
 - (a) the pension, other than the pension claimed in respect of additional benefits (in the case of regulation 16A of the 1995 Regulations) or additional pension (in the case of regulation 49 and 180 of the 2008 Regulations), to which the member becomes entitled as a result of the option or election (before converting pension to lump sum) is not to be less than the amount of pension payable by reference to 20% of the aggregate of the member’s pensionable service under the 1995 Regulations, or the 2008 Regulations (as the case may be), and the 2015 Regulations at the end of the option day; and
-- (b) taken together with any increase to which the member has become entitled as a result of the option or election, the aggregate of the member’s pension under the 1995 Regulations, or the 2008 Regulations (as the case may be), and the 2015 Regulations is not less than 0.05% of the member’s lump sum and death benefit allowance[^key-99e28db5afb097b461b166694a2cbdb6] on the option day.
+- (b) taken together with any increase to which the member has become entitled as a result of the option or election, the aggregate of the member’s pension under the 1995 Regulations, or the 2008 Regulations (as the case may be), and the 2015 Regulations is not less than 0.05% of the member’s lump sum and death benefit allowance[^c-99e28db5afb097b461b166694a2cbdb6] on the option day.
 
-#### 32. Redundancy retirement[^key-c41b12203f7826f9b7014bf5b5298727]
+#### 32. Redundancy retirement[^c-c41b12203f7826f9b7014bf5b5298727]
 
 (1) This regulation applies where an officer transition member other than one to whom regulation 33 applies—
 
@@ -814,7 +814,7 @@ are each increased by the amount found by applying the formula—
   - (i) service to which Schedule 2 to the 1995 Regulations applies; or
   - (ii) service to which Part 3 of the 2008 Regulations applies.
 
-#### 33. Premature retirement: special classes[^key-c16de5beb56181cd34f4404e0793c061]
+#### 33. Premature retirement: special classes[^c-c16de5beb56181cd34f4404e0793c061]
 
 (1) This regulation applies where an 1995 officer transition member to whom regulation 75 or 76 of the 1995 Regulations applies in respect of service in that Section—
 
@@ -828,20 +828,20 @@ are each increased by the amount found by applying the formula—
 - (a) the member is to be treated as having claimed payment of a pension under regulation 12 of those Regulations; and
 - (b) in the case of a member to who regulation 75(4)(b) of the 1995 Regulations applies, is also entitled to a pension under regulation 16 of the 1995 Regulations if that member makes a claim for it.
 
-#### 34. Interests of efficiency of the service[^key-0656f6deb0d0740f69fec1bbe34f75ef]
+#### 34. Interests of efficiency of the service[^c-0656f6deb0d0740f69fec1bbe34f75ef]
 
 Where an officer transition member other than one entitled to a pension pursuant to regulation 75 or 76 of the 1995 Regulations in respect of service in that Section becomes entitled to payment of a premature retirement pension pursuant to regulation 80 of the 2015 Regulations and claims that pension—
 
 - (a) the member at the same time becomes eligible to a pension under whichever of regulations 14A of the 1995 Regulations or 55 of the 2008 Regulations applies to the member in relation to the termination of that member’s employment in the interests of efficiency of the service in which the member is employed; and
 - (b) the member’s employing authority must make a contribution to the Department in respect of the cost of that pension in accordance with regulation 11 of the 1995 Regulations or 32 of the 2008 Regulations.
 
-#### 35. Variations to lump sums for 1995 and 2008 pensioners joining the new scheme (other than pensioners who have taken a partial retirement pension)[^key-5ab0782a9f9e1aa9161c2d2f0c7daa26][^key-874fbdd855c612cafc06ce43cde40b36]
+#### 35. Variations to lump sums for 1995 and 2008 pensioners joining the new scheme (other than pensioners who have taken a partial retirement pension)[^c-5ab0782a9f9e1aa9161c2d2f0c7daa26][^c-874fbdd855c612cafc06ce43cde40b36]
 
-(1) This regulation applies to persons falling in Groups 1 to 4 , 6[^key-04105b8700d748cfc76d6e2abf931f42] ,7, 9 and 10[^key-0ef07e9d06d20fbb6b5420c176ea89b2] in the table at paragraph 1 of Schedule 1 and Groups 1 to 4 , 6 and 7[^key-1fe4edc998c2b2798b4dae1d0b7a8b2c] in the table at paragraph 2 of Schedule 1 other than persons who have taken a partial retirement pension.[^key-4f0039f218644abff1de94dfa9dd8699] .
+(1) This regulation applies to persons falling in Groups 1 to 4 , 6[^c-04105b8700d748cfc76d6e2abf931f42] ,7, 9 and 10[^c-0ef07e9d06d20fbb6b5420c176ea89b2] in the table at paragraph 1 of Schedule 1 and Groups 1 to 4 , 6 and 7[^c-1fe4edc998c2b2798b4dae1d0b7a8b2c] in the table at paragraph 2 of Schedule 1 other than persons who have taken a partial retirement pension.[^c-4f0039f218644abff1de94dfa9dd8699] .
 
 (2) Where this regulation applies, a lump sum equal to five times the rate of the relevant pension is to be paid in place of the lump sum payable to active members under regulation 111(a) and paragraph 2 of Schedule 12 to the 2015 Regulations.
 
-(3)[^key-652f267ed55cb7fcc10fb85a3be95940] In this regulation—
+(3)[^c-652f267ed55cb7fcc10fb85a3be95940] In this regulation—
 
 - “**partial retirement pension**” means a pension under—
   - (a) regulation 16A of the 1995 Regulations;
@@ -851,22 +851,22 @@ Where an officer transition member other than one entitled to a pension pursuant
   - (a) if the member dies before reaching normal pension age in the new scheme, a tier 2 IHP within the meaning of regulation 89(1)(b) of the 2015 Regulations; or
   - (b) if the member dies on or after reaching normal pension age in the new scheme, a pension under regulation 72 of the 2015 Regulations.
 
-#### 35A. Variations to lump sums for 1995 and 2008 pensioners joining new scheme (pensioners who have taken a partial retirement pension)[^key-4a9fb0aa2db2bf26d443e086da71c57e]
+#### 35A. Variations to lump sums for 1995 and 2008 pensioners joining new scheme (pensioners who have taken a partial retirement pension)[^c-4a9fb0aa2db2bf26d443e086da71c57e]
 
 (1) This regulation applies to persons falling in Groups 1 to 4, 6, 7, 9 and 10 in the table at paragraph 1 of Schedule 1 and Groups 1 to 4, 6 and 7 in the table at paragraph 2 of Schedule 1 who have taken a partial retirement pension.
 
 (2) Where this regulation applies the lump sum payable on the death of an active member in place of any lump sum otherwise payable in respect of that member under regulation 111(a) of the 2015 Regulations and regulation 85(2)(a) or regulation 193A(2)(a) of the 2008 Regulations are the lump sums found under—
 
-- (a) paragraph (3), is not a non-pensionable old scheme member and[^key-32493c198c8ced54eb39f2437ab60847] has taken an old scheme partial retirement pension but has not taken a new scheme partial retirement pension; [^key-32493c198c8ced54eb39f2437ab60847]...
+- (a) paragraph (3), is not a non-pensionable old scheme member and[^c-32493c198c8ced54eb39f2437ab60847] has taken an old scheme partial retirement pension but has not taken a new scheme partial retirement pension; [^c-32493c198c8ced54eb39f2437ab60847]...
 - (b) paragraph (4), if the member has taken a new scheme partial retirement pension.
-- (aa)[^key-1df77e784e4ab287b4550c8b8dd7c5f9] paragraph (3A) if the member is a non-pensionable old scheme member and has taken an old scheme partial retirement pension but has not taken a new scheme partial retirement pension;
+- (aa)[^c-1df77e784e4ab287b4550c8b8dd7c5f9] paragraph (3A) if the member is a non-pensionable old scheme member and has taken an old scheme partial retirement pension but has not taken a new scheme partial retirement pension;
 
 (3) Where paragraph (2)(a) applies, the lump sum is an amount equal to the appropriate fraction of an amount that is the better of—
 
 - (a) twice the member’s relevant earnings calculated in accordance with paragraph 7(2)(a)(i) of Schedule 12 to the 2015 Regulations (death of a partial retirement pensioner); and
 - (b) twice the member’s re-valued pensionable earnings for the scheme year falling in the earnings reference period which has the largest re-valued pensionable earnings calculated in accordance with paragraph 7(2)(a)(ii) of Schedule 12 (lump sum on death) to the 2015 Regulations, that Schedule.
 
-(3A)[^key-1fd36f0da0bda626d46969474b53ae60] Where paragraph (2)(aa) applies, the lump sum is an amount equal to the appropriate fraction of either—
+(3A)[^c-1fd36f0da0bda626d46969474b53ae60] Where paragraph (2)(aa) applies, the lump sum is an amount equal to the appropriate fraction of either—
 
 - (a) the lump sum on death found in column 2 of Part 1 of Table 2 (non-pensionable old scheme member entitlements) in regulation 38(1A)(death in service) if the member is a non-pensionable 1995 Section member; or
 - (b) the lump sum on death found in column 2 of Part 2 of that Table if the member is a non-pensionable 2008 Section member.
@@ -894,7 +894,7 @@ Where an officer transition member other than one entitled to a pension pursuant
   - (b) paragraph (4) of regulation 49 of the 2008 Regulations in the case of a member who has taken a partial retirement pension under that regulation; and
   - (c) paragraph (3) of regulation 180 of the 2008 Regulations in the case of a member who has taken a partial retirement pension under that regulation.
 
-#### 36. Abatement[^key-fb303da1c3bacc76d34dcffc0d0c5e6a]
+#### 36. Abatement[^c-fb303da1c3bacc76d34dcffc0d0c5e6a]
 
 (1) This regulation applies to an officer transition member who is—
 
@@ -925,17 +925,17 @@ the enhancement amount for the purposes of regulation 118(2) of the 2008 Regulat
 
 (7) Where the pensioner’s relevant income exceeds their previous pay or earnings, the amount of any reduction that is to apply to the pensions payable under each of the 2008 Regulations and 2015 Regulations is equal to the same proportion of the excess as the amount of pension for the scheme year before the reduction bears to the sum of those pensions for that year before the reduction.
 
-#### 37. Abatement: special classes[^key-fd0f23e3b160565cbb02e30440db43bc]
+#### 37. Abatement: special classes[^c-fd0f23e3b160565cbb02e30440db43bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### CHAPTER 8 — Death benefits
 
-#### 38. Death in service[^key-0630fc4f085ec3b4ae306b1ca2cf417c]
+#### 38. Death in service[^c-0630fc4f085ec3b4ae306b1ca2cf417c]
 
-(1) As regards a transition[^key-9113cf6c2a2c04ccc11c1994ca7eceb0] member, or a person who derives a benefit from the old scheme or new scheme in respect of a transition member, the entitlement listed in column 1 of Table 1[^key-5f16a109ded4ec5202dc81e0f69bdd3e] is disapplied and the corresponding entitlement in column 2 applies instead.
+(1) As regards a transition[^c-9113cf6c2a2c04ccc11c1994ca7eceb0] member, or a person who derives a benefit from the old scheme or new scheme in respect of a transition member, the entitlement listed in column 1 of Table 1[^c-5f16a109ded4ec5202dc81e0f69bdd3e] is disapplied and the corresponding entitlement in column 2 applies instead.
 
-Table 1 Transition member entitlements[^key-1cdbd099121a6e007b42efbacd066ac4]
+Table 1 Transition member entitlements[^c-1cdbd099121a6e007b42efbacd066ac4]
 
 <table>
 <thead>
@@ -961,7 +961,7 @@ Table 1 Transition member entitlements[^key-1cdbd099121a6e007b42efbacd066ac4]
 </tbody>
 </table>
 
-(1A)[^key-99e0a79542017b15e7f2fb49e865cbd3] As regards a non-pensionable old scheme member, or a person who derives a benefit from the old scheme or new scheme in respect of a non-pensionable old scheme member, the entitlement listed in column 1 of Table 2 is disapplied and the corresponding entitlement in column 2 applies instead.
+(1A)[^c-99e0a79542017b15e7f2fb49e865cbd3] As regards a non-pensionable old scheme member, or a person who derives a benefit from the old scheme or new scheme in respect of a non-pensionable old scheme member, the entitlement listed in column 1 of Table 2 is disapplied and the corresponding entitlement in column 2 applies instead.
 
 Table 2 - Non-pensionable old scheme member entitlements
 
@@ -988,7 +988,7 @@ Table 2 - Non-pensionable old scheme member entitlements
 </tbody>
 </table>
 
-(2) Save where expressly provided in Table 1 or Table 2[^key-8eb5b320e31f2b657425deb5361a5a29] , no entitlement in respect of the matters listed in column 1 of either table[^key-0bc660cfc06d4a4ecf4ca4b2f693e2e8] is payable from both the 2015 Regulations and—
+(2) Save where expressly provided in Table 1 or Table 2[^c-8eb5b320e31f2b657425deb5361a5a29] , no entitlement in respect of the matters listed in column 1 of either table[^c-0bc660cfc06d4a4ecf4ca4b2f693e2e8] is payable from both the 2015 Regulations and—
 
 - (a) the 1995 Section; or
 - (b) the 2008 Section,
@@ -997,7 +997,7 @@ and no entitlement in respect of the matters listed in column 1 of Table 1 or Ta
 
 ### CHAPTER 9 — Option to convert service
 
-#### 39. Option for 1995 Section members to convert to 2008 Section membership[^key-00df1909f02301aa8721c00f7b499fbd]
+#### 39. Option for 1995 Section members to convert to 2008 Section membership[^c-00df1909f02301aa8721c00f7b499fbd]
 
 (1) This regulation applies to a person who, on 31st March 2015, was in pensionable service for the purposes of the 1995 Regulations but who on 1st April 2015 is not a person to whom the following provisions apply—
 
@@ -1016,7 +1016,7 @@ and no entitlement in respect of the matters listed in column 1 of Table 1 or Ta
 
 ## PART 3 — Amendments to the old scheme
 
-### 40. Amendments to the old scheme[^key-4998278d9764dc4994022e4eb73ad043]
+### 40. Amendments to the old scheme[^c-4998278d9764dc4994022e4eb73ad043]
 
 Schedule 2 (amendments to the old scheme) has effect.
 
@@ -1044,7 +1044,7 @@ SCHEDULES
 
 Regulation 3
 
-### 1. Eligibility of 1995 section pensioners to join the new scheme[^key-d33862032a114ad5cf1a6c1e7b74f44a]
+### 1. Eligibility of 1995 section pensioners to join the new scheme[^c-d33862032a114ad5cf1a6c1e7b74f44a]
 
 A person of the description in column 2 of the table is eligible to be a member of the new scheme in the circumstances or on the date specified in column 3 of the table.
 
@@ -1058,12 +1058,12 @@ Table
 | 4 | a 1995 Section member who is in superannuable employment on or after 1st April 2015 who—<br>(a) becomes a pensioner member of the 1995 Section with a tier 1 pension under regulation 13A of the 1995 Regulations from that employment;<br>(a) subsequently re-enters HSC employment and on their return is under age 50; and<br>(b) is not eligible to re-join the 1995 Section on that day pursuant to regulation 7 or 8 of the 1995 Regulations. | eligible to be an active member of the new scheme on the day of return to HSC employment. |
 | 5 | a 1995 Section member—<br>(a) who became eligible to join the new scheme on or after 1st April 2015;<br>(b) became an active member of the new scheme before reaching normal benefit age under the 1995 Section; and<br>(c) for whom the service in the 1995 Section did not qualify or has ceased to be superannuable service to which paragraphs 1(2)(i) and (ii) or paragraphs 2(i) and (ii) of Schedule 7 to the 2014 Act applies. | eligible to be an active member of the new scheme, or re-join the new scheme, notwithstanding the putting into payment of the pension under the 1995 Section. |
 | 6 | a 1995 Section pensioner—<br>(a) who would have been eligible to be an active member of the 2008 Section after the completion of a waiting period as set out in regulation 21A and 153A of the 2008 Regulations but who will not be eligible to join the 2008 Section on that date pursuant to regulations 21 or 153 of the 2008 Regulations; and<br>(b) who—<br>(i) has not yet returned to HSC employment on 1st April 2015; or<br>(ii) returned to HSC employment before that date but, on that date, has not completed the relevant waiting period. | eligible to be an active member of the new scheme on completion of the relevant waiting period in regulation 21A or 153A of the 2008 Regulations. |
-| 7[^key-b09cad3b10bed6fa112fcd48066255ca] | a 1995 Section member in receipt of a pension under regulation 13 or a tier 1 pension under regulation 13A of the 1995 Regulations who—<br>(a) is in further superannuable employment in the 1995 Section on 31st March 2022; or<br>(b) would have been eligible to join the 1995 Section on 31st March 2022 if the member had been in employment with an employing authority on that day. | eligible to be an active member of the new scheme on the first day on or after 1st April 2022 on which the member is in an employment that would, apart from the operation of regulation 19(d) of the 2015 Regulations, otherwise be eligible for membership under those Regulations. |
+| 7[^c-b09cad3b10bed6fa112fcd48066255ca] | a 1995 Section member in receipt of a pension under regulation 13 or a tier 1 pension under regulation 13A of the 1995 Regulations who—<br>(a) is in further superannuable employment in the 1995 Section on 31st March 2022; or<br>(b) would have been eligible to join the 1995 Section on 31st March 2022 if the member had been in employment with an employing authority on that day. | eligible to be an active member of the new scheme on the first day on or after 1st April 2022 on which the member is in an employment that would, apart from the operation of regulation 19(d) of the 2015 Regulations, otherwise be eligible for membership under those Regulations. |
 | 8 | a 1995 Section member in receipt of a redundancy etc. pension under regulation 14 or a termination of employment pension under regulation 14A of the 1995 Regulations who—<br>(a) made an election under paragraph (6) of regulation 77 of the 1995 Regulations in respect of that pension;<br>(b) is in further pensionable employment in the 1995 Section on 31st March 2022; or<br>(c) would have been eligible to join the 1995 Section on 31st March 2022 if the member had been in employment with an employing authority on that day. | eligible to be an active member of the new scheme on the first day on or after 1st April 2022 on which the member is in an employment that would, apart from the operation of regulation 19(d) of the 2015 Regulations, otherwise be eligible for membership under those Regulations. |
-| 9[^key-8de40b6335cb45872d6c07e039b2fd1b] | a 1995 Section pensioner in receipt of a tier 2 pension under regulation 13A of the 1995 Regulations—<br>(a) who returns to HSC employment and the first anniversary of that return is on or after 1st April 2024; and<br>(b) whose protection period for the purposes of regulation 13C of the 1995 Regulations spans 1st April 2023 or begins on or after 1st April 2024. | eligible to be an active member of the new scheme on the day after the protection period in regulation 13C(6)(b) of the 1995 Regulations ends. |
+| 9[^c-8de40b6335cb45872d6c07e039b2fd1b] | a 1995 Section pensioner in receipt of a tier 2 pension under regulation 13A of the 1995 Regulations—<br>(a) who returns to HSC employment and the first anniversary of that return is on or after 1st April 2024; and<br>(b) whose protection period for the purposes of regulation 13C of the 1995 Regulations spans 1st April 2023 or begins on or after 1st April 2024. | eligible to be an active member of the new scheme on the day after the protection period in regulation 13C(6)(b) of the 1995 Regulations ends. |
 | 10 | a 1995 Section pensioner, other than a tier 2 ill-health pensioner, who does not fall within one of the Groups above. | eligible to be an active member of the new scheme, or re-join the new scheme, on the first day on or after 1st April 2024 on which the member is in an employment that would, apart from the operation of regulation 19(d) of the 2015 Regulations, otherwise be eligible for membership under those Regulations. |
 
-### 2. Eligibility of 2008 Section pensioners to join new scheme[^key-20aa406ce47acec600e701db0d9879f6]
+### 2. Eligibility of 2008 Section pensioners to join new scheme[^c-20aa406ce47acec600e701db0d9879f6]
 
 (1) Subject to paragraph (2), a 2008 Section pensioner member is eligible to be a member of the new scheme if that member would, apart from the operation of regulation 19(1)(d) of the 2015 Regulations, otherwise be eligible for membership under those Regulations.
 
@@ -1076,9 +1076,9 @@ Table
 | 1 | a 2008 Section pensioner member—<br>(a) who is also an active member of the 2008 Section on or after 1st April 2015; or<br>(b) other than a tier 2 ill-health pensioner who returns to HSC employment on or after that date. | eligible to be an active member of the new scheme on return from a break in service where regulation 22(1B) or 154(1B) of the 2008 Regulations applies. |
 | 2 | a 2008 Section pensioner member—<br>(a) who is also an active member of the 2008 Section on or after 1st April 2015; or<br>(b) other than a tier 2 ill-health pensioner who returns to HSC employment on or after that date,<br>and to whom regulation 22(1D) or 154(1D) of the 2008 Regulations applies. | eligible to be an active member of the new scheme on the earliest of—<br>(a) returning from a break in service where regulation 22(1B) or 154(1B) of the 2008 Regulations applies;<br>(b) reaching the member’s eligibility cessation date determined in accordance with regulations 22(1F) or 154(1F) of the 2008 Regulations;<br>(c) returning from a break in service after reaching the member’s eligibility cessation date determined in accordance with regulations 22(1F) or 154(1F) of the 2008 Regulations. |
 | 3 | a 2008 Section pensioner member—<br>(a) who is also an active member of the 2008 Section on 31st March 2015; or<br>(b) other than a tier 2 ill-health pensioner who returns to HSC employment on or after that date,<br>and ceased to be eligible to be an active member of the 2008 Section in any employment on or after 1st April 2015. | eligible to be an active member of the new scheme on the first day on or after 1st April 2015 that the member is in an employment that would, apart from the operation of regulation 19(1)(d) of the 2015 Regulations, otherwise be eligible for membership under those Regulations. |
-| 4 | a tier 2 ill-health pensioner—<br>(a) who returns to HSC employment and the first anniversary of that return is on or after 1st April 2015;<br>(b) to whom regulation 112(5)(b)[^key-c80c49cef844553219ffccb280b4e463] or 239(5)(b) of the 2008 Regulations applies; and<br>(c) on the first anniversary of the return to HSC employment that person is not eligible to re-join the 2008 Section pursuant to regulations 21 and 22 or 153 and 154 of the 2008 Regulations. | eligible to be an active member of the new scheme on the first day on or after the first anniversary of return to HSC employment that the member is in an employment that would, apart from the operation of regulation 19(1)(d) of the 2015 Regulations, otherwise be eligible for membership under those Regulations. |
+| 4 | a tier 2 ill-health pensioner—<br>(a) who returns to HSC employment and the first anniversary of that return is on or after 1st April 2015;<br>(b) to whom regulation 112(5)(b)[^c-c80c49cef844553219ffccb280b4e463] or 239(5)(b) of the 2008 Regulations applies; and<br>(c) on the first anniversary of the return to HSC employment that person is not eligible to re-join the 2008 Section pursuant to regulations 21 and 22 or 153 and 154 of the 2008 Regulations. | eligible to be an active member of the new scheme on the first day on or after the first anniversary of return to HSC employment that the member is in an employment that would, apart from the operation of regulation 19(1)(d) of the 2015 Regulations, otherwise be eligible for membership under those Regulations. |
 | 5 | a 2008 Section member—<br>(a) who is not eligible to be an active member of that Section in HSC employment on or after 1st April 2015; and<br>(b) who becomes a pensioner member of that Section on or after that date. | eligible to be an active member of the new scheme on or after 1st April 2015 if that member would, apart from the operation of regulation 19(1)(d) of the 2015 Regulations, otherwise be eligible for membership under those Regulations. |
-| 6[^key-89b43e7019afabcbec435233ccf3565d] | a 2008 Section pensioner other than a tier 2 ill-health pensioner who—<br>(a) is also an active member of the 2008 Section on 31st March 2022; or<br>(b) would have been eligible to be an active member of the 2008 Section if the member had been in HSC employment on that day. | eligible to be an active member of the new scheme on the first day on or after 1st April 2022 on which the member is in an employment that would, apart from the operation of regulation 19(d) of the 2015 Regulations, otherwise be eligible for membership under those Regulations. |
+| 6[^c-89b43e7019afabcbec435233ccf3565d] | a 2008 Section pensioner other than a tier 2 ill-health pensioner who—<br>(a) is also an active member of the 2008 Section on 31st March 2022; or<br>(b) would have been eligible to be an active member of the 2008 Section if the member had been in HSC employment on that day. | eligible to be an active member of the new scheme on the first day on or after 1st April 2022 on which the member is in an employment that would, apart from the operation of regulation 19(d) of the 2015 Regulations, otherwise be eligible for membership under those Regulations. |
 | 7 | a tier 2 ill-health pensioner—<br>(a) who returns to HSC employment and the first anniversary of that return is on or after 1st April 2022;<br>(b) to whom regulation 112(5)(b) or 239(5)(b) of the 2008 Regulations applies; and<br>(c) on the first anniversary of the return to HSC employment that person is not eligible to re-join the 2008 Section pursuant to regulation 22(A1) or 154(A1) of the 2008 Regulations. | eligible to be an active member of the new scheme on the first day on or after the first anniversary of return to NHS employment on which the member is in an employment that would, apart from the operation of regulation 19(d) of the 2015 Regulations, otherwise be eligible for membership under those Regulations. |
 
 (3) Paragraphs (1) and (2) apply notwithstanding a person also—
@@ -1092,11 +1092,11 @@ Regulation 40
 
 ### PART 1 — Amendment to the 1995 regulations
 
-#### 1. General[^key-140a7a1d4674c562b5ef912eb1e87f76]
+#### 1. General[^c-140a7a1d4674c562b5ef912eb1e87f76]
 
 The 1995 Regulations are amended in accordance with paragraphs 2 to 8.
 
-#### 2. Amendment of regulation 6[^key-1e61dc921d808078f77645113d748e17]
+#### 2. Amendment of regulation 6[^c-1e61dc921d808078f77645113d748e17]
 
 After paragraph (3) of regulation 6 (Membership of this Section of the scheme), add—
 
@@ -1113,7 +1113,7 @@ After paragraph (3) of regulation 6 (Membership of this Section of the scheme), 
 
 .
 
-#### 3. Amendment of regulation 7[^key-496cdbe49fbebd8eef41fd5b14f8b008]
+#### 3. Amendment of regulation 7[^c-496cdbe49fbebd8eef41fd5b14f8b008]
 
 (1) Regulation 7 (Restrictions on membership), is amended as provided by paragraphs (2) and (3).
 
@@ -1125,7 +1125,7 @@ After paragraph (3) of regulation 6 (Membership of this Section of the scheme), 
 
 .
 
-#### 4. Amendment of regulation 8[^key-e5c8bdeaaa14a31aa74c0342ba582eb9]
+#### 4. Amendment of regulation 8[^c-e5c8bdeaaa14a31aa74c0342ba582eb9]
 
 After paragraph (3) of regulation 8 (Restriction on further participation in this Section of the scheme), add—
 
@@ -1210,7 +1210,7 @@ After paragraph (3) of regulation 8 (Restriction on further participation in thi
 
 .
 
-#### 5. Amendment of regulation 49[^key-77355d244b75c921fd52f8b1c3b06a4f]
+#### 5. Amendment of regulation 49[^c-77355d244b75c921fd52f8b1c3b06a4f]
 
 In paragraph (14) of regulation 49 (Preserved pension), for the definition of “HSC employment”, substitute—
 
@@ -1220,7 +1220,7 @@ In paragraph (14) of regulation 49 (Preserved pension), for the definition of �
 
 .
 
-#### 6. Amendment of regulation 81[^key-fe06381cee28e2db8b37e0a4af0e6143]
+#### 6. Amendment of regulation 81[^c-fe06381cee28e2db8b37e0a4af0e6143]
 
 After paragraph (5) of regulation 81 (Former members of health service schemes)[^f00029], add—
 
@@ -1242,7 +1242,7 @@ After paragraph (5) of regulation 81 (Former members of health service schemes)[
 
 .
 
-#### 7. New regulation 97D[^key-62ae3f3d71ddb60a4d83697ce3ccda63]
+#### 7. New regulation 97D[^c-62ae3f3d71ddb60a4d83697ce3ccda63]
 
 After regulation 97C (Interest and administration charges: late paid contributions)[^f00030], add—
 
@@ -1261,7 +1261,7 @@ After regulation 97C (Interest and administration charges: late paid contributio
 
 .
 
-#### 8. Amendment of Schedule 2[^key-7b7dc9ffa4ad77065fdd9aa9ea6c2d61]
+#### 8. Amendment of Schedule 2[^c-7b7dc9ffa4ad77065fdd9aa9ea6c2d61]
 
 For paragraph 17A of Schedule 2[^f00032], substitute—
 
@@ -1280,11 +1280,11 @@ For paragraph 17A of Schedule 2[^f00032], substitute—
 
 ### PART 2 — Amendment of the 2008 regulations
 
-#### 9. General[^key-666208d583d8c26764d4e23188d565ab]
+#### 9. General[^c-666208d583d8c26764d4e23188d565ab]
 
 The 2008 Regulations are amended in accordance with paragraphs 10 to 21.
 
-#### 10. Amendment of regulation 21[^key-95449837dcdd4d019bd355042343e888]
+#### 10. Amendment of regulation 21[^c-95449837dcdd4d019bd355042343e888]
 
 (1) Regulation 21 (Eligibility: general)[^f00034], is amended as provided by paragraphs (2) and (3).
 
@@ -1322,7 +1322,7 @@ The 2008 Regulations are amended in accordance with paragraphs 10 to 21.
 
 .
 
-#### 11. Amendment of regulation 22[^key-c8b633005d9b49f67aac115a89853e63]
+#### 11. Amendment of regulation 22[^c-c8b633005d9b49f67aac115a89853e63]
 
 In regulation 22 (Restrictions on eligibility: general)[^f00037], after paragraph (1), insert—
 
@@ -1400,7 +1400,7 @@ In regulation 22 (Restrictions on eligibility: general)[^f00037], after paragrap
 
 .
 
-#### 12. Amendment of regulation 57[^key-f56bff7e03259c61abce68b2f17097cd]
+#### 12. Amendment of regulation 57[^c-f56bff7e03259c61abce68b2f17097cd]
 
 (1) Regulation 57 (Exceptions to requirements that HSC employment must have ceased) is amended as provided by paragraphs (2) to (4).
 
@@ -1421,7 +1421,7 @@ In regulation 22 (Restrictions on eligibility: general)[^f00037], after paragrap
 
 .
 
-#### 13. Amendment of regulation 101[^key-b5e72e8d070ab0a50870ddb512324ae5]
+#### 13. Amendment of regulation 101[^c-b5e72e8d070ab0a50870ddb512324ae5]
 
 For sub-paragraph (c) of paragraph (1) of regulation 101 (Procedure for applications under regulation 100)[^f00038], substitute—
 
@@ -1431,7 +1431,7 @@ For sub-paragraph (c) of paragraph (1) of regulation 101 (Procedure for applicat
 
 .
 
-#### 14. Substitution of regulation 105[^key-827ba064100cb604fb936d9e04ff96a4]
+#### 14. Substitution of regulation 105[^c-827ba064100cb604fb936d9e04ff96a4]
 
 For regulation 105 (Public sector transfer arrangements), substitute—
 
@@ -1454,7 +1454,7 @@ For regulation 105 (Public sector transfer arrangements), substitute—
 
 .
 
-#### 15. New regulation 136ZA[^key-934049f051a6a161089cfbfacbae8eaf]
+#### 15. New regulation 136ZA[^c-934049f051a6a161089cfbfacbae8eaf]
 
 After regulation 136 (Employing authority and certain member record keeping and contribution estimates), insert—
 
@@ -1473,7 +1473,7 @@ After regulation 136 (Employing authority and certain member record keeping and 
 
 .
 
-#### 16. Amendment of regulation 153[^key-33c7fd6326c91d338e6bba3142cf6c7d]
+#### 16. Amendment of regulation 153[^c-33c7fd6326c91d338e6bba3142cf6c7d]
 
 (1) Regulation 153 (Eligibility: general)[^f00040] is amended as provided by paragraphs (2) and (3).
 
@@ -1499,7 +1499,7 @@ After regulation 136 (Employing authority and certain member record keeping and 
 
 .
 
-#### 17. Amendment of regulation 154[^key-8c15ebe3155a6c1a5db6949748c97b47]
+#### 17. Amendment of regulation 154[^c-8c15ebe3155a6c1a5db6949748c97b47]
 
 In regulation 154 (Restrictions on eligibility: general)[^f00041], after paragraph (1) insert—
 
@@ -1577,7 +1577,7 @@ In regulation 154 (Restrictions on eligibility: general)[^f00041], after paragra
 
 .
 
-#### 18. New regulation 193A[^key-da651faa139e74663bc3c0952fb2e6c5]
+#### 18. New regulation 193A[^c-da651faa139e74663bc3c0952fb2e6c5]
 
 After regulation 193 (Guaranteed minimum pensions etc), insert—
 
@@ -1592,7 +1592,7 @@ After regulation 193 (Guaranteed minimum pensions etc), insert—
 
 .
 
-#### 19. Amendment of regulation 228[^key-29ce2522116794ec24a6181b967cb90d]
+#### 19. Amendment of regulation 228[^c-29ce2522116794ec24a6181b967cb90d]
 
 For sub-paragraph (c) of paragraph (1) of regulation 228 (Procedure for applications under regulation 227)[^f00042], substitute—
 
@@ -1602,7 +1602,7 @@ For sub-paragraph (c) of paragraph (1) of regulation 228 (Procedure for applicat
 
 .
 
-#### 20. Substitution of regulation 232[^key-d8a767213b2a320335f738535b0d93fd]
+#### 20. Substitution of regulation 232[^c-d8a767213b2a320335f738535b0d93fd]
 
 For regulation 232 (Public sector transfer arrangements), substitute—
 
@@ -1625,7 +1625,7 @@ For regulation 232 (Public sector transfer arrangements), substitute—
 
 .
 
-#### 21. New regulation 260ZA[^key-4fed17e39ef18925dff8e5d7540b6eca]
+#### 21. New regulation 260ZA[^c-4fed17e39ef18925dff8e5d7540b6eca]
 
 After regulation 260 (Employing authority and certain member record keeping and contribution estimates), insert—
 
@@ -1685,9 +1685,9 @@ An impact assessment has not been prepared for this rule as no impact on the cos
 
 [^f00002]: Footnote: [2014 c.2 (N.I.)](https://www.legislation.gov.uk/nia/2014/2)
 
-[^key-d4c4e9c45dc524b5bf296165e84bccbe]: Commencement: Reg. 1 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-d4c4e9c45dc524b5bf296165e84bccbe]: Commencement: Reg. 1 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-a4c39d1935b03b40408f11aa31452f5b]: Commencement: Reg. 2 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-a4c39d1935b03b40408f11aa31452f5b]: Commencement: Reg. 2 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1995 No.95](https://www.legislation.gov.uk/nisr/1995/95) as amended by [S.R. 1997 Nos.217](https://www.legislation.gov.uk/nisr/1997/217) and [390](https://www.legislation.gov.uk/nisr/1997/390); [S.R. 1998 No.299](https://www.legislation.gov.uk/nisr/1998/299); [S.R. 1999 No.293](https://www.legislation.gov.uk/nisr/1999/293); [S.R. 2002 No.69](https://www.legislation.gov.uk/nisr/2002/69); [S.R. 2004 Nos.103](https://www.legislation.gov.uk/nisr/2004/103) and [104](https://www.legislation.gov.uk/nisr/2004/104); [S.R. 2005 Nos.155](https://www.legislation.gov.uk/nisr/2005/155), [533](https://www.legislation.gov.uk/nisr/2005/533), [534](https://www.legislation.gov.uk/nisr/2005/534) and [565](https://www.legislation.gov.uk/nisr/2005/565); [S.R. 2006 Nos.159](https://www.legislation.gov.uk/nisr/2006/159) and [410](https://www.legislation.gov.uk/nisr/2006/410); [S.R. 2008 Nos.96](https://www.legislation.gov.uk/nisr/2008/96), [130](https://www.legislation.gov.uk/nisr/2008/130) and [163](https://www.legislation.gov.uk/nisr/2008/163); [S.R. 2009 Nos.65](https://www.legislation.gov.uk/nisr/2009/65) and [188](https://www.legislation.gov.uk/nisr/2009/188); [S.R. 2010 Nos.22](https://www.legislation.gov.uk/nisr/2010/22), [286](https://www.legislation.gov.uk/nisr/2010/286) and [420](https://www.legislation.gov.uk/nisr/2010/420); [S.R. 2011 No.256](https://www.legislation.gov.uk/nisr/2011/256); [S.R. 2012 Nos.42](https://www.legislation.gov.uk/nisr/2012/42) and [78](https://www.legislation.gov.uk/nisr/2012/78); [S.R. 2013 Nos.40](https://www.legislation.gov.uk/nisr/2013/40), [73](https://www.legislation.gov.uk/nisr/2013/73), [247](https://www.legislation.gov.uk/nisr/2013/247) and [259](https://www.legislation.gov.uk/nisr/2013/259); [S.R. 2014 Nos.59](https://www.legislation.gov.uk/nisr/2014/59) and [225](https://www.legislation.gov.uk/nisr/2014/225) and [S.R. 2015 Nos.56](https://www.legislation.gov.uk/nisr/2015/56) and [121](https://www.legislation.gov.uk/nisr/2015/121)
 
@@ -1697,311 +1697,311 @@ An impact assessment has not been prepared for this rule as no impact on the cos
 
 [^f00006]: Footnote: [S.R. 2015 No.120](https://www.legislation.gov.uk/nisr/2015/120)
 
-[^key-0f44ee3d82cfc8616ebb69ce2d291a7e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/122/regulation/2) inserted (12.6.2024) by [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/117)](https://www.legislation.gov.uk/nisr/2024/117), [regs. 2](https://www.legislation.gov.uk/nisr/2024/117/regulation/2), [27](https://www.legislation.gov.uk/nisr/2024/117/regulation/27)
+[^c-0f44ee3d82cfc8616ebb69ce2d291a7e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/122/regulation/2) inserted (12.6.2024) by [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/117)](https://www.legislation.gov.uk/nisr/2024/117), [regs. 2](https://www.legislation.gov.uk/nisr/2024/117/regulation/2), [27](https://www.legislation.gov.uk/nisr/2024/117/regulation/27)
 
-[^key-4b8070e9c08617d1362083720ed70987]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/122/regulation/2) inserted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [31(2)](https://www.legislation.gov.uk/nisr/2024/50/regulation/31/2)
+[^c-4b8070e9c08617d1362083720ed70987]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/122/regulation/2) inserted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [31(2)](https://www.legislation.gov.uk/nisr/2024/50/regulation/31/2)
 
-[^key-5ab402ccd68bfa1fa531ae249afe9f90]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/122/regulation/2) inserted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [31(3)](https://www.legislation.gov.uk/nisr/2024/50/regulation/31/3)
+[^c-5ab402ccd68bfa1fa531ae249afe9f90]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/122/regulation/2) inserted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [31(3)](https://www.legislation.gov.uk/nisr/2024/50/regulation/31/3)
 
-[^key-d65461aa8ba6afd5fb771b5c20751319]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/122/regulation/2) inserted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [31(4)](https://www.legislation.gov.uk/nisr/2024/50/regulation/31/4)
+[^c-d65461aa8ba6afd5fb771b5c20751319]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/122/regulation/2) inserted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [31(4)](https://www.legislation.gov.uk/nisr/2024/50/regulation/31/4)
 
 [^f00007]: Footnote: [1971 c.35 (N.I.)](https://www.legislation.gov.uk/apni/1971/35) Section 8A was inserted by paragraph 2 of Schedule 8 to the [Public Service Pensions Act (Northern Ireland) 2014 (c.2 N.I.))](https://www.legislation.gov.uk/nia/2014/2)
 
-[^key-2fe632a6ab692705182a25a3ca9b84b8]: Commencement: Reg. 3 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-2fe632a6ab692705182a25a3ca9b84b8]: Commencement: Reg. 3 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-a8e78ca98e4e785d8f90953aa90cc75a]: Commencement: Reg. 4 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-a8e78ca98e4e785d8f90953aa90cc75a]: Commencement: Reg. 4 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
 [^f00008]: Footnote: [S.R. 2010 No.122](https://www.legislation.gov.uk/nisr/2010/122); Regulation 9 was amended by [S.R. 2013 No.243](https://www.legislation.gov.uk/nisr/2013/243)
 
-[^key-0a25492c4c63b910b54c31d9a3758b67]: Commencement: Reg. 5 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-0a25492c4c63b910b54c31d9a3758b67]: Commencement: Reg. 5 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-c79f0c046c428ec62df36af6804e7dcd]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/5/1) Table omitted (16.8.2022) by virtue of [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [81(a)(i)](https://www.legislation.gov.uk/nisr/2022/196/regulation/81/a/i)
+[^c-c79f0c046c428ec62df36af6804e7dcd]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/5/1) Table omitted (16.8.2022) by virtue of [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [81(a)(i)](https://www.legislation.gov.uk/nisr/2022/196/regulation/81/a/i)
 
-[^key-355d2a8918d18d585a5640dcacfc8934]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/5/1) Table omitted (16.8.2022) by virtue of [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [81(b)](https://www.legislation.gov.uk/nisr/2022/196/regulation/81/b)
+[^c-355d2a8918d18d585a5640dcacfc8934]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/5/1) Table omitted (16.8.2022) by virtue of [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [81(b)](https://www.legislation.gov.uk/nisr/2022/196/regulation/81/b)
 
-[^key-fa95787dd180c0f9efb2f53dfce806ce]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/5/1) Table omitted (16.8.2022) by virtue of [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [81(a)(ii)](https://www.legislation.gov.uk/nisr/2022/196/regulation/81/a/ii)
+[^c-fa95787dd180c0f9efb2f53dfce806ce]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/5/1) Table omitted (16.8.2022) by virtue of [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [81(a)(ii)](https://www.legislation.gov.uk/nisr/2022/196/regulation/81/a/ii)
 
-[^key-16dd8239e102082ce47ebe2bc53424f1]: Commencement: Reg. 6 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-16dd8239e102082ce47ebe2bc53424f1]: Commencement: Reg. 6 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-a53ab270fc5f14c1e8911c7f514adc76]: Commencement: Reg. 7 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-a53ab270fc5f14c1e8911c7f514adc76]: Commencement: Reg. 7 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-75cdf1bcde0f9e715cdc6ff0045999b5]: Commencement: Reg. 8 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-75cdf1bcde0f9e715cdc6ff0045999b5]: Commencement: Reg. 8 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-d4c99e1d35d1b37c6e6c3e7c257fda69]: Commencement: Reg. 9 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-d4c99e1d35d1b37c6e6c3e7c257fda69]: Commencement: Reg. 9 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
 [^f00009]: Footnote: Paragraph (4A) was inserted by [S.R. 2004 No.103](https://www.legislation.gov.uk/nisr/2004/103) regulation 3(c)
 
 [^f00010]: Footnote: Paragraph 9A was inserted by [S.R. 2005 No.534](https://www.legislation.gov.uk/nisr/2005/534) regulation 4(70
 
-[^key-c43f9a2347c69574895df77a82ce3b0e]: Commencement: Reg. 10 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-c43f9a2347c69574895df77a82ce3b0e]: Commencement: Reg. 10 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-8721a55773d03198828d38b4cd2dd75e]: Commencement: Reg. 11 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-8721a55773d03198828d38b4cd2dd75e]: Commencement: Reg. 11 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-612f0d5f7a94ec01f97d3476cacf7a6b]: Textual amendment: Word in [reg. 11(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/11/1) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/2/a)
+[^c-612f0d5f7a94ec01f97d3476cacf7a6b]: Textual amendment: Word in [reg. 11(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/11/1) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/2/a)
 
-[^key-521f48149f7d50620481018c62188a9f]: Textual amendment: Word in [reg. 11(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/11/2) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(2)(b)(i)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/2/b/i)
+[^c-521f48149f7d50620481018c62188a9f]: Textual amendment: Word in [reg. 11(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/11/2) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(2)(b)(i)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/2/b/i)
 
-[^key-ac263c152eef7f5a3637f288433bacff]: Textual amendment: Word in [reg. 11(2)(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/11/2/b) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(2)(b)(ii)(aa)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/2/b/ii/aa)
+[^c-ac263c152eef7f5a3637f288433bacff]: Textual amendment: Word in [reg. 11(2)(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/11/2/b) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(2)(b)(ii)(aa)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/2/b/ii/aa)
 
-[^key-579888a638ee358b134254af6b12602f]: Textual amendment: Word in [reg. 11(2)(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/11/2/b) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(2)(b)(ii)(bb)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/2/b/ii/bb)
+[^c-579888a638ee358b134254af6b12602f]: Textual amendment: Word in [reg. 11(2)(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/11/2/b) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(2)(b)(ii)(bb)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/2/b/ii/bb)
 
-[^key-f2c4950d37c1723c6628925e15adf21c]: Commencement: Reg. 12 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-f2c4950d37c1723c6628925e15adf21c]: Commencement: Reg. 12 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-5ff2024a1dcf177c157ddf652af3e0c7]: Textual amendment: Word in [reg. 12(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/12/1) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/3/a)
+[^c-5ff2024a1dcf177c157ddf652af3e0c7]: Textual amendment: Word in [reg. 12(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/12/1) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/3/a)
 
-[^key-599ccc486617f6865fc90b9b90e98d6e]: Textual amendment: Word in [reg. 12(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/12/2) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/3/b)
+[^c-599ccc486617f6865fc90b9b90e98d6e]: Textual amendment: Word in [reg. 12(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/12/2) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/3/b)
 
-[^key-facbce125fbf4a3bd9a47ab9debe9106]: Commencement: Reg. 13 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-facbce125fbf4a3bd9a47ab9debe9106]: Commencement: Reg. 13 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
 [^f00011]: Footnote: Paragraphs (15) and (16) are inserted by paragraph 4 of Schedule 2
 
 [^f00012]: Footnote: Paragraph (1F) was inserted in each regulation by paragraphs 11 and 17 of Schedule 2 respectively
 
-[^key-fae5bd35adadd10710afcd3dc8ab6d66]: Commencement: Reg. 14 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-fae5bd35adadd10710afcd3dc8ab6d66]: Commencement: Reg. 14 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-e1089152c15bf90fa6eb389e2a612b6b]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/14/1) inserted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [33(2)](https://www.legislation.gov.uk/nisr/2024/50/regulation/33/2)
+[^c-e1089152c15bf90fa6eb389e2a612b6b]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/14/1) inserted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [33(2)](https://www.legislation.gov.uk/nisr/2024/50/regulation/33/2)
 
-[^key-5570d86d068befd6138ddf83aec2d131]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/14/2) inserted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [33(3)](https://www.legislation.gov.uk/nisr/2024/50/regulation/33/3)
+[^c-5570d86d068befd6138ddf83aec2d131]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/14/2) inserted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [33(3)](https://www.legislation.gov.uk/nisr/2024/50/regulation/33/3)
 
-[^key-0cfff085b39a9888d33b959c8e78f14c]: Commencement: Reg. 15 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-0cfff085b39a9888d33b959c8e78f14c]: Commencement: Reg. 15 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-fd01a35514f4537dec973156855b295f]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/nisr/2015/122/regulation/15) substituted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [34](https://www.legislation.gov.uk/nisr/2024/50/regulation/34)
+[^c-fd01a35514f4537dec973156855b295f]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/nisr/2015/122/regulation/15) substituted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [34](https://www.legislation.gov.uk/nisr/2024/50/regulation/34)
 
 [^f00013]: Footnote: Paragraphs (10) and (12) were inserted by [S.R. 2015 No.121](https://www.legislation.gov.uk/nisr/2015/121), regulation 4(3)
 
-[^key-4f530279c2fdd5b41b3e90b4daf6eace]: Commencement: Reg. 16 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-4f530279c2fdd5b41b3e90b4daf6eace]: Commencement: Reg. 16 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-bd2ac1caf89f2d9c87316b082001d4cf]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/nisr/2015/122/regulation/16) inserted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [35](https://www.legislation.gov.uk/nisr/2024/50/regulation/35)
+[^c-bd2ac1caf89f2d9c87316b082001d4cf]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/nisr/2015/122/regulation/16) inserted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [35](https://www.legislation.gov.uk/nisr/2024/50/regulation/35)
 
-[^key-2e138f260e6ecf615aaabfd0569d60cf]: Commencement: Reg. 17 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-2e138f260e6ecf615aaabfd0569d60cf]: Commencement: Reg. 17 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-8aeb2727289ba439af2bb74c5e79d0e9]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/nisr/2015/122/regulation/17A) inserted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [36](https://www.legislation.gov.uk/nisr/2024/50/regulation/36)
+[^c-8aeb2727289ba439af2bb74c5e79d0e9]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/nisr/2015/122/regulation/17A) inserted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [36](https://www.legislation.gov.uk/nisr/2024/50/regulation/36)
 
-[^key-4b6956be75178faaea28a80279bd41af]: Commencement: Reg. 18 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-4b6956be75178faaea28a80279bd41af]: Commencement: Reg. 18 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-62ce7336807f1f6f05d4771d963601e6]: Textual amendment: Reg. 18 renumbered as reg. 18(1) and words substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(4)(a)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/4/a)
+[^c-62ce7336807f1f6f05d4771d963601e6]: Textual amendment: Reg. 18 renumbered as reg. 18(1) and words substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(4)(a)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/4/a)
 
-[^key-dbdfae178788064a9008accf0c7bf40d]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/nisr/2015/122/regulation/18/1)[(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/18/2)[(3)](https://www.legislation.gov.uk/nisr/2015/122/regulation/18/3) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(4)(b)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/4/b)
+[^c-dbdfae178788064a9008accf0c7bf40d]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/nisr/2015/122/regulation/18/1)[(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/18/2)[(3)](https://www.legislation.gov.uk/nisr/2015/122/regulation/18/3) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(4)(b)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/4/b)
 
-[^key-6a984d557f99e160efe0a5ff22bf7dc6]: Commencement: Reg. 19 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-6a984d557f99e160efe0a5ff22bf7dc6]: Commencement: Reg. 19 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-d438be3cb20f9933a0e8cc9b7f70f638]: Commencement: Reg. 20 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-d438be3cb20f9933a0e8cc9b7f70f638]: Commencement: Reg. 20 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-3d24d38dd954cb3fa2222f416fdc0f5e]: Commencement: Reg. 21 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-3d24d38dd954cb3fa2222f416fdc0f5e]: Commencement: Reg. 21 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
 [^f00014]: Footnote: Paragraph (11A) was inserted by [S.R. 2005 No.155](https://www.legislation.gov.uk/nisr/2005/155) regulation 10(2) and amended by [S.R. 2010 No.22](https://www.legislation.gov.uk/nisr/2010/22) regulation 11(3)
 
-[^key-9db88f1d55aebe358faf13ee87d2a336]: Commencement: Reg. 22 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-9db88f1d55aebe358faf13ee87d2a336]: Commencement: Reg. 22 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
 [^f00015]: Footnote: Regulations 73A to 73J were inserted by [S.R. 2008 No.163](https://www.legislation.gov.uk/nisr/2008/163) regulation 51
 
-[^key-efb9fe8c75244dc4e0dec76be87f60c4]: Commencement: Reg. 23 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-efb9fe8c75244dc4e0dec76be87f60c4]: Commencement: Reg. 23 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-27170fbc1b04899aaf3a5034494bf05c]: Modification: [Reg. 23(3)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/3) applied (1.10.2023 for specified purposes) by [The Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/132)](https://www.legislation.gov.uk/nisr/2023/132), [regs. 1](https://www.legislation.gov.uk/nisr/2023/132/regulation/1), [16(2)](https://www.legislation.gov.uk/nisr/2023/132/regulation/16/2)
+[^c-27170fbc1b04899aaf3a5034494bf05c]: Modification: [Reg. 23(3)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/3) applied (1.10.2023 for specified purposes) by [The Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/132)](https://www.legislation.gov.uk/nisr/2023/132), [regs. 1](https://www.legislation.gov.uk/nisr/2023/132/regulation/1), [16(2)](https://www.legislation.gov.uk/nisr/2023/132/regulation/16/2)
 
-[^key-bd7c5199637a1e6d00b6de1cd117721b]: Commencement: Reg. 24 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-bd7c5199637a1e6d00b6de1cd117721b]: Commencement: Reg. 24 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-dc2639d7b68444a6739f8ca159b34f1f]: Commencement: Reg. 25 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-dc2639d7b68444a6739f8ca159b34f1f]: Commencement: Reg. 25 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-694e1bae73bb7e96f10508c5c083960c]: Textual amendment: Words in [reg. 25(2)(a)](https://www.legislation.gov.uk/nisr/2015/122/regulation/25/2/a) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(5)(a)(i)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/5/a/i)
+[^c-694e1bae73bb7e96f10508c5c083960c]: Textual amendment: Words in [reg. 25(2)(a)](https://www.legislation.gov.uk/nisr/2015/122/regulation/25/2/a) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(5)(a)(i)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/5/a/i)
 
-[^key-9b77b9456b40b673b2ca07a2ee59898d]: Textual amendment: Words in [reg. 25(2)(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/25/2/b) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(5)(a)(ii)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/5/a/ii)
+[^c-9b77b9456b40b673b2ca07a2ee59898d]: Textual amendment: Words in [reg. 25(2)(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/25/2/b) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(5)(a)(ii)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/5/a/ii)
 
-[^key-f4189befc5d1834dedf7d5e86cd41f6c]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/25/2) omitted (1.4.2022) by virtue of [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(5)(a)(iii)(aa)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/5/a/iii/aa)
+[^c-f4189befc5d1834dedf7d5e86cd41f6c]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/25/2) omitted (1.4.2022) by virtue of [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(5)(a)(iii)(aa)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/5/a/iii/aa)
 
-[^key-dd3bcefb0615a7fe448771c405581b0a]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/25/2) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(5)(a)(iii)(bb)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/5/a/iii/bb)
+[^c-dd3bcefb0615a7fe448771c405581b0a]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/25/2) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(5)(a)(iii)(bb)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/5/a/iii/bb)
 
-[^key-466a53df939a41374c1eba3966140895]: Textual amendment: Words in [reg. 25(6)](https://www.legislation.gov.uk/nisr/2015/122/regulation/25/6) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(5)(b)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/5/b)
+[^c-466a53df939a41374c1eba3966140895]: Textual amendment: Words in [reg. 25(6)](https://www.legislation.gov.uk/nisr/2015/122/regulation/25/6) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(5)(b)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/5/b)
 
-[^key-0434f07febf6e917fc65eecfc52659c5]: Textual amendment: Words in [reg. 25(9)](https://www.legislation.gov.uk/nisr/2015/122/regulation/25/9) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(5)(c)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/5/c)
+[^c-0434f07febf6e917fc65eecfc52659c5]: Textual amendment: Words in [reg. 25(9)](https://www.legislation.gov.uk/nisr/2015/122/regulation/25/9) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(5)(c)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/5/c)
 
-[^key-b45e02bb980a373e22c1fb40cdf09548]: Textual amendment: [Reg. 25(9A)](https://www.legislation.gov.uk/nisr/2015/122/regulation/25/9A) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(5)(d)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/5/d)
+[^c-b45e02bb980a373e22c1fb40cdf09548]: Textual amendment: [Reg. 25(9A)](https://www.legislation.gov.uk/nisr/2015/122/regulation/25/9A) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(5)(d)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/5/d)
 
-[^key-83ad0df03eb5dfabaf847452af52a0fe]: Commencement: Reg. 26 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-83ad0df03eb5dfabaf847452af52a0fe]: Commencement: Reg. 26 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-0c2071af71202e0cdd2b4ab148fca7d1]: Commencement: Reg. 27 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-0c2071af71202e0cdd2b4ab148fca7d1]: Commencement: Reg. 27 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-1ec84d46b3c5e6bf23b0605ab7fb62ba]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/1) inserted (1.10.2023) by [The Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/132)](https://www.legislation.gov.uk/nisr/2023/132), [reg. 1](https://www.legislation.gov.uk/nisr/2023/132/regulation/1), [Sch. para. 3(2)(a)](https://www.legislation.gov.uk/nisr/2023/132/schedule/paragraph/3/2/a)
+[^c-1ec84d46b3c5e6bf23b0605ab7fb62ba]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/1) inserted (1.10.2023) by [The Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/132)](https://www.legislation.gov.uk/nisr/2023/132), [reg. 1](https://www.legislation.gov.uk/nisr/2023/132/regulation/1), [Sch. para. 3(2)(a)](https://www.legislation.gov.uk/nisr/2023/132/schedule/paragraph/3/2/a)
 
-[^key-726638487f0587f432f9024bb00136ff]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/1) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(a)(i)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/a/i)
+[^c-726638487f0587f432f9024bb00136ff]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/1) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(a)(i)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/a/i)
 
-[^key-7545574a9431feb6e004cd9c5f9a7c03]: Textual amendment: Words in [reg. 27(1)(a)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/1/a) substituted (1.10.2023) by [The Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/132)](https://www.legislation.gov.uk/nisr/2023/132), [reg. 1](https://www.legislation.gov.uk/nisr/2023/132/regulation/1), [Sch. para. 3(2)(b)](https://www.legislation.gov.uk/nisr/2023/132/schedule/paragraph/3/2/b)
+[^c-7545574a9431feb6e004cd9c5f9a7c03]: Textual amendment: Words in [reg. 27(1)(a)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/1/a) substituted (1.10.2023) by [The Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/132)](https://www.legislation.gov.uk/nisr/2023/132), [reg. 1](https://www.legislation.gov.uk/nisr/2023/132/regulation/1), [Sch. para. 3(2)(b)](https://www.legislation.gov.uk/nisr/2023/132/schedule/paragraph/3/2/b)
 
-[^key-c9a42acc3252e3bb2a83bdfcff8ea33b]: Textual amendment: Word in [reg. 27(1)(a)(i)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/1/a/i) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(a)(ii)(bb)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/a/ii/bb)
+[^c-c9a42acc3252e3bb2a83bdfcff8ea33b]: Textual amendment: Word in [reg. 27(1)(a)(i)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/1/a/i) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(a)(ii)(bb)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/a/ii/bb)
 
-[^key-909cf6699bb5fe012d3f2433379a361a]: Textual amendment: Words in [reg. 27(1)(a)(i)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/1/a/i) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(a)(ii)(bb)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/a/ii/bb)
+[^c-909cf6699bb5fe012d3f2433379a361a]: Textual amendment: Words in [reg. 27(1)(a)(i)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/1/a/i) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(a)(ii)(bb)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/a/ii/bb)
 
-[^key-ce2da3350acabeacd8a6d75fce352d98]: Textual amendment: Reg. 27(1)(a)(i)(aa) omitted (1.4.2022) by virtue of [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(a)(ii)(bb)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/a/ii/bb)
+[^c-ce2da3350acabeacd8a6d75fce352d98]: Textual amendment: Reg. 27(1)(a)(i)(aa) omitted (1.4.2022) by virtue of [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(a)(ii)(bb)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/a/ii/bb)
 
 [^M_F_e9569838-5406-444e-9f0f-51b3cbc6356e]: Textual amendment: Reg. 27(1)(a)(i)(bb) omitted (1.4.2022) by virtue of [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(a)(ii)(bb)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/a/ii/bb)
 
-[^key-4cb462914a6a8d172e286fba162f2354]: Textual amendment: Words in [reg. 27(1)(a)(ii)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/1/a/ii) omitted (1.4.2022) by virtue of [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(a)(ii)(cc)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/a/ii/cc)
+[^c-4cb462914a6a8d172e286fba162f2354]: Textual amendment: Words in [reg. 27(1)(a)(ii)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/1/a/ii) omitted (1.4.2022) by virtue of [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(a)(ii)(cc)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/a/ii/cc)
 
-[^key-264823faddf62d1ed10ac859503539e0]: Textual amendment: Word in [reg. 27(1)(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/1/b) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(a)(iii)(aa)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/a/iii/aa)
+[^c-264823faddf62d1ed10ac859503539e0]: Textual amendment: Word in [reg. 27(1)(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/1/b) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(a)(iii)(aa)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/a/iii/aa)
 
-[^key-0ae30d0eb464a915817b8be9bfbeb9ef]: Textual amendment: Words in [reg. 27(1)(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/1/b) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(a)(iii)(bb)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/a/iii/bb)
+[^c-0ae30d0eb464a915817b8be9bfbeb9ef]: Textual amendment: Words in [reg. 27(1)(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/1/b) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(a)(iii)(bb)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/a/iii/bb)
 
-[^key-9cab4a51f952006dc2f5132112301524]: Textual amendment: Words in [reg. 27(1)(c)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/1/c) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(a)(iv)(aa)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/a/iv/aa)
+[^c-9cab4a51f952006dc2f5132112301524]: Textual amendment: Words in [reg. 27(1)(c)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/1/c) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(a)(iv)(aa)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/a/iv/aa)
 
-[^key-42b1e4111cf3526d96a95582b43e958f]: Textual amendment: Words in [reg. 27(1)(c)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/1/c) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(a)(iv)(bb)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/a/iv/bb)
+[^c-42b1e4111cf3526d96a95582b43e958f]: Textual amendment: Words in [reg. 27(1)(c)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/1/c) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(a)(iv)(bb)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/a/iv/bb)
 
-[^key-c37c71786e76e003e6b93fa64d6cdb2f]: Textual amendment: [Reg. 27(1A)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/1A) inserted (1.10.2023) by [The Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/132)](https://www.legislation.gov.uk/nisr/2023/132), [reg. 1](https://www.legislation.gov.uk/nisr/2023/132/regulation/1), [Sch. para. 3(3)](https://www.legislation.gov.uk/nisr/2023/132/schedule/paragraph/3/3)
+[^c-c37c71786e76e003e6b93fa64d6cdb2f]: Textual amendment: [Reg. 27(1A)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/1A) inserted (1.10.2023) by [The Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/132)](https://www.legislation.gov.uk/nisr/2023/132), [reg. 1](https://www.legislation.gov.uk/nisr/2023/132/regulation/1), [Sch. para. 3(3)](https://www.legislation.gov.uk/nisr/2023/132/schedule/paragraph/3/3)
 
-[^key-fabe74be656536efac285e8d7e0a9e73]: Textual amendment: Words in [reg. 27(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/2) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(b)(i)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/b/i)
+[^c-fabe74be656536efac285e8d7e0a9e73]: Textual amendment: Words in [reg. 27(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/2) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(b)(i)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/b/i)
 
-[^key-f34a64221bce3041ed0b062584c5cd87]: Textual amendment: Words in [reg. 27(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/2) substituted (1.10.2023) by [The Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/132)](https://www.legislation.gov.uk/nisr/2023/132), [reg. 1](https://www.legislation.gov.uk/nisr/2023/132/regulation/1), [Sch. para. 3(4)](https://www.legislation.gov.uk/nisr/2023/132/schedule/paragraph/3/4)
+[^c-f34a64221bce3041ed0b062584c5cd87]: Textual amendment: Words in [reg. 27(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/2) substituted (1.10.2023) by [The Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/132)](https://www.legislation.gov.uk/nisr/2023/132), [reg. 1](https://www.legislation.gov.uk/nisr/2023/132/regulation/1), [Sch. para. 3(4)](https://www.legislation.gov.uk/nisr/2023/132/schedule/paragraph/3/4)
 
-[^key-336ff35383ef9071faaca05a9a301826]: Textual amendment: Word in [reg. 27(2)(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/2/b) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(b)(ii)(aa)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/b/ii/aa)
+[^c-336ff35383ef9071faaca05a9a301826]: Textual amendment: Word in [reg. 27(2)(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/2/b) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(b)(ii)(aa)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/b/ii/aa)
 
-[^key-ab23f2173ccf83e5bfdd8d6000785dc2]: Textual amendment: Words in [reg. 27(2)(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/2/b) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(b)(ii)(bb)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/b/ii/bb)
+[^c-ab23f2173ccf83e5bfdd8d6000785dc2]: Textual amendment: Words in [reg. 27(2)(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/2/b) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(b)(ii)(bb)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/b/ii/bb)
 
-[^key-b6a342f517a1ca793567d692108a890b]: Textual amendment: Words in [reg. 27(3)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/3) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(c)(i)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/c/i)
+[^c-b6a342f517a1ca793567d692108a890b]: Textual amendment: Words in [reg. 27(3)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/3) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(c)(i)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/c/i)
 
 [^f00018]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213); Article 50 was substituted by Article 250(1) of the Pensions (Northern Ireland) Order 2005 ([S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255))
 
 [^f00019]: Footnote: [1993 c.49](https://www.legislation.gov.uk/ukpga/1993/49)
 
-[^key-1288d0424b4a5bc76771cb597dd7e249]: Textual amendment: [Reg. 27(3)(a)(iii)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/3/a/iii) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(c)(ii)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/c/ii)
+[^c-1288d0424b4a5bc76771cb597dd7e249]: Textual amendment: [Reg. 27(3)(a)(iii)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/3/a/iii) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(c)(ii)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/c/ii)
 
-[^key-3cc9e93473d14d3db5bcc823b427985c]: Textual amendment: Word in [reg. 27(3)(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/3/b) omitted (1.4.2022) by virtue of [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(c)(iii)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/c/iii)
+[^c-3cc9e93473d14d3db5bcc823b427985c]: Textual amendment: Word in [reg. 27(3)(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/3/b) omitted (1.4.2022) by virtue of [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(c)(iii)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/c/iii)
 
-[^key-eb334064e68c48b8df5e67845d7a1015]: Textual amendment: [Reg. 27(4)-(6)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/4) omitted (1.4.2022) by virtue of [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(d)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/d)
+[^c-eb334064e68c48b8df5e67845d7a1015]: Textual amendment: [Reg. 27(4)-(6)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/4) omitted (1.4.2022) by virtue of [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(d)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/d)
 
-[^key-0f7f4055fe02284990a1cf055ba394c2]: Textual amendment: [Reg. 27(7)-(21)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/7) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(e)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/e)
+[^c-0f7f4055fe02284990a1cf055ba394c2]: Textual amendment: [Reg. 27(7)-(21)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/7) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(6)(e)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/6/e)
 
-[^key-dbb7cde1fae0d99881b2f9f978dcfef1]: Textual amendment: Words in [reg. 27(21)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/21) inserted (1.10.2023) by [The Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/132)](https://www.legislation.gov.uk/nisr/2023/132), [reg. 1](https://www.legislation.gov.uk/nisr/2023/132/regulation/1), [Sch. para. 3(5)(a)](https://www.legislation.gov.uk/nisr/2023/132/schedule/paragraph/3/5/a)
+[^c-dbb7cde1fae0d99881b2f9f978dcfef1]: Textual amendment: Words in [reg. 27(21)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/21) inserted (1.10.2023) by [The Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/132)](https://www.legislation.gov.uk/nisr/2023/132), [reg. 1](https://www.legislation.gov.uk/nisr/2023/132/regulation/1), [Sch. para. 3(5)(a)](https://www.legislation.gov.uk/nisr/2023/132/schedule/paragraph/3/5/a)
 
-[^key-dcc60b296c6f31d43b5e4616e39d4488]: Textual amendment: Word in [reg. 27(21)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/21) substituted (1.10.2023) by [The Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/132)](https://www.legislation.gov.uk/nisr/2023/132), [reg. 1](https://www.legislation.gov.uk/nisr/2023/132/regulation/1), [Sch. para. 3(5)(b)](https://www.legislation.gov.uk/nisr/2023/132/schedule/paragraph/3/5/b)
+[^c-dcc60b296c6f31d43b5e4616e39d4488]: Textual amendment: Word in [reg. 27(21)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/21) substituted (1.10.2023) by [The Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/132)](https://www.legislation.gov.uk/nisr/2023/132), [reg. 1](https://www.legislation.gov.uk/nisr/2023/132/regulation/1), [Sch. para. 3(5)(b)](https://www.legislation.gov.uk/nisr/2023/132/schedule/paragraph/3/5/b)
 
-[^key-19def15286313f0f518ede8938925e72]: Textual amendment: Words in [reg. 27(21)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/21) inserted (1.10.2023) by [The Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/132)](https://www.legislation.gov.uk/nisr/2023/132), [reg. 1](https://www.legislation.gov.uk/nisr/2023/132/regulation/1), [Sch. para. 3(5)(c)](https://www.legislation.gov.uk/nisr/2023/132/schedule/paragraph/3/5/c)
+[^c-19def15286313f0f518ede8938925e72]: Textual amendment: Words in [reg. 27(21)](https://www.legislation.gov.uk/nisr/2015/122/regulation/27/21) inserted (1.10.2023) by [The Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/132)](https://www.legislation.gov.uk/nisr/2023/132), [reg. 1](https://www.legislation.gov.uk/nisr/2023/132/regulation/1), [Sch. para. 3(5)(c)](https://www.legislation.gov.uk/nisr/2023/132/schedule/paragraph/3/5/c)
 
-[^key-b3dde050bf764b28923cb0749f6d7e47]: Commencement: Reg. 28 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-b3dde050bf764b28923cb0749f6d7e47]: Commencement: Reg. 28 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-876a1edb18f2ceec3da64d4ebfee59c3]: Textual amendment: [Reg. 28(6A)-(6C)](https://www.legislation.gov.uk/nisr/2015/122/regulation/28/6A) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(7)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/7)
+[^c-876a1edb18f2ceec3da64d4ebfee59c3]: Textual amendment: [Reg. 28(6A)-(6C)](https://www.legislation.gov.uk/nisr/2015/122/regulation/28/6A) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(7)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/7)
 
-[^key-afdc06c158178d1f39858f3a4490b77d]: Commencement: Reg. 29 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-afdc06c158178d1f39858f3a4490b77d]: Commencement: Reg. 29 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
 [^f00020]: Footnote: [1972 c.35 (N.I.)](https://www.legislation.gov.uk/apni/1972/35)
 
-[^key-2bb34c1ec295ab23b038dbb25f0961d4]: Commencement: Reg. 30 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-2bb34c1ec295ab23b038dbb25f0961d4]: Commencement: Reg. 30 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-904e45dba5bcdbf264ffec867b7d2bd6]: Commencement: Reg. 31 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-904e45dba5bcdbf264ffec867b7d2bd6]: Commencement: Reg. 31 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-def6eca8dfb13ba723e8a82b1104f3f6]: Textual amendment: [Reg. 31(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/31/1) substituted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [37(2)](https://www.legislation.gov.uk/nisr/2024/50/regulation/37/2)
+[^c-def6eca8dfb13ba723e8a82b1104f3f6]: Textual amendment: [Reg. 31(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/31/1) substituted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [37(2)](https://www.legislation.gov.uk/nisr/2024/50/regulation/37/2)
 
-[^key-69808745110ee2be05eb880eb37f7a2f]: Textual amendment: [Reg. 31(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/31/2) substituted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [37(3)](https://www.legislation.gov.uk/nisr/2024/50/regulation/37/3)
+[^c-69808745110ee2be05eb880eb37f7a2f]: Textual amendment: [Reg. 31(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/31/2) substituted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [37(3)](https://www.legislation.gov.uk/nisr/2024/50/regulation/37/3)
 
-[^key-ca82c799f1ce2211380edc91834a0888]: Textual amendment: [Reg. 31(3)](https://www.legislation.gov.uk/nisr/2015/122/regulation/31/3) substituted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [37(4)](https://www.legislation.gov.uk/nisr/2024/50/regulation/37/4)
+[^c-ca82c799f1ce2211380edc91834a0888]: Textual amendment: [Reg. 31(3)](https://www.legislation.gov.uk/nisr/2015/122/regulation/31/3) substituted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [37(4)](https://www.legislation.gov.uk/nisr/2024/50/regulation/37/4)
 
-[^key-99e28db5afb097b461b166694a2cbdb6]: Textual amendment: Words in [reg. 31(3)(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/31/3/b) substituted (12.6.2024) by [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/117)](https://www.legislation.gov.uk/nisr/2024/117), [regs. 2](https://www.legislation.gov.uk/nisr/2024/117/regulation/2), [28](https://www.legislation.gov.uk/nisr/2024/117/regulation/28)
+[^c-99e28db5afb097b461b166694a2cbdb6]: Textual amendment: Words in [reg. 31(3)(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/31/3/b) substituted (12.6.2024) by [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/117)](https://www.legislation.gov.uk/nisr/2024/117), [regs. 2](https://www.legislation.gov.uk/nisr/2024/117/regulation/2), [28](https://www.legislation.gov.uk/nisr/2024/117/regulation/28)
 
-[^key-c41b12203f7826f9b7014bf5b5298727]: Commencement: Reg. 32 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-c41b12203f7826f9b7014bf5b5298727]: Commencement: Reg. 32 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
 [^f00021]: Footnote: Regulation 14A was inserted by [S.R. 2008 No.96](https://www.legislation.gov.uk/nisr/2008/96) and amended by [S.R. 2013 Nos. 40](https://www.legislation.gov.uk/nisr/2013/40) and [259](https://www.legislation.gov.uk/nisr/2013/259)
 
-[^key-c16de5beb56181cd34f4404e0793c061]: Commencement: Reg. 33 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-c16de5beb56181cd34f4404e0793c061]: Commencement: Reg. 33 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
 [^f00022]: Footnote: Regulation 14C was inserted by [S.R. 2008 No.96](https://www.legislation.gov.uk/nisr/2008/96)
 
-[^key-0656f6deb0d0740f69fec1bbe34f75ef]: Commencement: Reg. 34 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-0656f6deb0d0740f69fec1bbe34f75ef]: Commencement: Reg. 34 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-5ab0782a9f9e1aa9161c2d2f0c7daa26]: Commencement: Reg. 35 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-5ab0782a9f9e1aa9161c2d2f0c7daa26]: Commencement: Reg. 35 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-874fbdd855c612cafc06ce43cde40b36]: Textual amendment: Words in [reg. 35](https://www.legislation.gov.uk/nisr/2015/122/regulation/35) heading added (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [38(2)](https://www.legislation.gov.uk/nisr/2024/50/regulation/38/2)
+[^c-874fbdd855c612cafc06ce43cde40b36]: Textual amendment: Words in [reg. 35](https://www.legislation.gov.uk/nisr/2015/122/regulation/35) heading added (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [38(2)](https://www.legislation.gov.uk/nisr/2024/50/regulation/38/2)
 
-[^key-04105b8700d748cfc76d6e2abf931f42]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/35/1) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(8)(a)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/8/a)
+[^c-04105b8700d748cfc76d6e2abf931f42]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/35/1) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(8)(a)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/8/a)
 
-[^key-0ef07e9d06d20fbb6b5420c176ea89b2]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/35/1) substituted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [38(3)(a)](https://www.legislation.gov.uk/nisr/2024/50/regulation/38/3/a)
+[^c-0ef07e9d06d20fbb6b5420c176ea89b2]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/35/1) substituted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [38(3)(a)](https://www.legislation.gov.uk/nisr/2024/50/regulation/38/3/a)
 
-[^key-1fe4edc998c2b2798b4dae1d0b7a8b2c]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/35/1) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(8)(b)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/8/b)
+[^c-1fe4edc998c2b2798b4dae1d0b7a8b2c]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/35/1) inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(8)(b)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/8/b)
 
-[^key-4f0039f218644abff1de94dfa9dd8699]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/35/1) added (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [38(3)(b)](https://www.legislation.gov.uk/nisr/2024/50/regulation/38/3/b)
+[^c-4f0039f218644abff1de94dfa9dd8699]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/35/1) added (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [38(3)(b)](https://www.legislation.gov.uk/nisr/2024/50/regulation/38/3/b)
 
-[^key-652f267ed55cb7fcc10fb85a3be95940]: Textual amendment: [Reg. 35(3)](https://www.legislation.gov.uk/nisr/2015/122/regulation/35/3) substituted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [38(4)](https://www.legislation.gov.uk/nisr/2024/50/regulation/38/4)
+[^c-652f267ed55cb7fcc10fb85a3be95940]: Textual amendment: [Reg. 35(3)](https://www.legislation.gov.uk/nisr/2015/122/regulation/35/3) substituted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [38(4)](https://www.legislation.gov.uk/nisr/2024/50/regulation/38/4)
 
-[^key-4a9fb0aa2db2bf26d443e086da71c57e]: Textual amendment: [Reg. 35A](https://www.legislation.gov.uk/nisr/2015/122/regulation/35A) inserted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [39(1)](https://www.legislation.gov.uk/nisr/2024/50/regulation/39/1)
+[^c-4a9fb0aa2db2bf26d443e086da71c57e]: Textual amendment: [Reg. 35A](https://www.legislation.gov.uk/nisr/2015/122/regulation/35A) inserted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [39(1)](https://www.legislation.gov.uk/nisr/2024/50/regulation/39/1)
 
-[^key-32493c198c8ced54eb39f2437ab60847]: Textual amendment: Words in [reg. 35A(2)(a)](https://www.legislation.gov.uk/nisr/2015/122/regulation/35A/2/a) inserted (12.6.2024) by [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/117)](https://www.legislation.gov.uk/nisr/2024/117), [regs. 2](https://www.legislation.gov.uk/nisr/2024/117/regulation/2), [29(2)(a)](https://www.legislation.gov.uk/nisr/2024/117/regulation/29/2/a)
+[^c-32493c198c8ced54eb39f2437ab60847]: Textual amendment: Words in [reg. 35A(2)(a)](https://www.legislation.gov.uk/nisr/2015/122/regulation/35A/2/a) inserted (12.6.2024) by [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/117)](https://www.legislation.gov.uk/nisr/2024/117), [regs. 2](https://www.legislation.gov.uk/nisr/2024/117/regulation/2), [29(2)(a)](https://www.legislation.gov.uk/nisr/2024/117/regulation/29/2/a)
 
-[^key-1df77e784e4ab287b4550c8b8dd7c5f9]: Textual amendment: [Reg. 35A(2)(aa)](https://www.legislation.gov.uk/nisr/2015/122/regulation/35A/2/aa) inserted (12.6.2024) by [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/117)](https://www.legislation.gov.uk/nisr/2024/117), [regs. 2](https://www.legislation.gov.uk/nisr/2024/117/regulation/2), [29(2)(b)](https://www.legislation.gov.uk/nisr/2024/117/regulation/29/2/b)
+[^c-1df77e784e4ab287b4550c8b8dd7c5f9]: Textual amendment: [Reg. 35A(2)(aa)](https://www.legislation.gov.uk/nisr/2015/122/regulation/35A/2/aa) inserted (12.6.2024) by [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/117)](https://www.legislation.gov.uk/nisr/2024/117), [regs. 2](https://www.legislation.gov.uk/nisr/2024/117/regulation/2), [29(2)(b)](https://www.legislation.gov.uk/nisr/2024/117/regulation/29/2/b)
 
-[^key-1fd36f0da0bda626d46969474b53ae60]: Textual amendment: [Reg. 35A(3A)](https://www.legislation.gov.uk/nisr/2015/122/regulation/35A/3A) inserted (12.6.2024) by [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/117)](https://www.legislation.gov.uk/nisr/2024/117), [regs. 2](https://www.legislation.gov.uk/nisr/2024/117/regulation/2), [29(3)](https://www.legislation.gov.uk/nisr/2024/117/regulation/29/3)
+[^c-1fd36f0da0bda626d46969474b53ae60]: Textual amendment: [Reg. 35A(3A)](https://www.legislation.gov.uk/nisr/2015/122/regulation/35A/3A) inserted (12.6.2024) by [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/117)](https://www.legislation.gov.uk/nisr/2024/117), [regs. 2](https://www.legislation.gov.uk/nisr/2024/117/regulation/2), [29(3)](https://www.legislation.gov.uk/nisr/2024/117/regulation/29/3)
 
-[^key-fb303da1c3bacc76d34dcffc0d0c5e6a]: Commencement: Reg. 36 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-fb303da1c3bacc76d34dcffc0d0c5e6a]: Commencement: Reg. 36 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
 [^f00023]: Footnote: Paragraph (1A) was inserted by [S.R. 2005 No.155](https://www.legislation.gov.uk/nisr/2005/155) regulation 8; amended by [S.R. 2008 No.163](https://www.legislation.gov.uk/nisr/2008/163) regulation 57 and [S.R. 2012 No.42](https://www.legislation.gov.uk/nisr/2012/42) regulation 7
 
 [^f00024]: Footnote: Paragraph (3D) was inserted by [S.R. 2008 No.163](https://www.legislation.gov.uk/nisr/2008/163) regulation 57(3)
 
-[^key-fd0f23e3b160565cbb02e30440db43bc]: Textual amendment: [Reg. 37](https://www.legislation.gov.uk/nisr/2015/122/regulation/37) omitted (12.6.2024) by virtue of [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/117)](https://www.legislation.gov.uk/nisr/2024/117), [regs. 2](https://www.legislation.gov.uk/nisr/2024/117/regulation/2), [30](https://www.legislation.gov.uk/nisr/2024/117/regulation/30)
+[^c-fd0f23e3b160565cbb02e30440db43bc]: Textual amendment: [Reg. 37](https://www.legislation.gov.uk/nisr/2015/122/regulation/37) omitted (12.6.2024) by virtue of [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/117)](https://www.legislation.gov.uk/nisr/2024/117), [regs. 2](https://www.legislation.gov.uk/nisr/2024/117/regulation/2), [30](https://www.legislation.gov.uk/nisr/2024/117/regulation/30)
 
-[^key-0630fc4f085ec3b4ae306b1ca2cf417c]: Commencement: Reg. 38 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-0630fc4f085ec3b4ae306b1ca2cf417c]: Commencement: Reg. 38 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-9113cf6c2a2c04ccc11c1994ca7eceb0]: Textual amendment: Word in [reg. 38(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/38/1) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(9)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/9)
+[^c-9113cf6c2a2c04ccc11c1994ca7eceb0]: Textual amendment: Word in [reg. 38(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/38/1) substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(9)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/9)
 
-[^key-5f16a109ded4ec5202dc81e0f69bdd3e]: Textual amendment: Words in [reg. 38(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/38/1) substituted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [40(2)(a)](https://www.legislation.gov.uk/nisr/2024/50/regulation/40/2/a)
+[^c-5f16a109ded4ec5202dc81e0f69bdd3e]: Textual amendment: Words in [reg. 38(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/38/1) substituted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [40(2)(a)](https://www.legislation.gov.uk/nisr/2024/50/regulation/40/2/a)
 
-[^key-1cdbd099121a6e007b42efbacd066ac4]: Textual amendment: [Reg. 38(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/38/1) heading substituted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [40(2)(b)](https://www.legislation.gov.uk/nisr/2024/50/regulation/40/2/b)
+[^c-1cdbd099121a6e007b42efbacd066ac4]: Textual amendment: [Reg. 38(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/38/1) heading substituted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [40(2)(b)](https://www.legislation.gov.uk/nisr/2024/50/regulation/40/2/b)
 
-[^key-99e0a79542017b15e7f2fb49e865cbd3]: Textual amendment: [Reg. 38(1A)](https://www.legislation.gov.uk/nisr/2015/122/regulation/38/1A) inserted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [40(3)](https://www.legislation.gov.uk/nisr/2024/50/regulation/40/3)
+[^c-99e0a79542017b15e7f2fb49e865cbd3]: Textual amendment: [Reg. 38(1A)](https://www.legislation.gov.uk/nisr/2015/122/regulation/38/1A) inserted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [40(3)](https://www.legislation.gov.uk/nisr/2024/50/regulation/40/3)
 
-[^key-8eb5b320e31f2b657425deb5361a5a29]: Textual amendment: Words in [reg. 38(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/38/2) substituted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [40(4)(a)](https://www.legislation.gov.uk/nisr/2024/50/regulation/40/4/a)
+[^c-8eb5b320e31f2b657425deb5361a5a29]: Textual amendment: Words in [reg. 38(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/38/2) substituted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [40(4)(a)](https://www.legislation.gov.uk/nisr/2024/50/regulation/40/4/a)
 
-[^key-0bc660cfc06d4a4ecf4ca4b2f693e2e8]: Textual amendment: Words in [reg. 38(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/38/2) added (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [40(4)(b)](https://www.legislation.gov.uk/nisr/2024/50/regulation/40/4/b)
+[^c-0bc660cfc06d4a4ecf4ca4b2f693e2e8]: Textual amendment: Words in [reg. 38(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/38/2) added (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [40(4)(b)](https://www.legislation.gov.uk/nisr/2024/50/regulation/40/4/b)
 
-[^key-00df1909f02301aa8721c00f7b499fbd]: Commencement: Reg. 39 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-00df1909f02301aa8721c00f7b499fbd]: Commencement: Reg. 39 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
 [^f00025]: Footnote: These paragraphs are inserted by paragraph 4 of Schedule 2
 
-[^key-4998278d9764dc4994022e4eb73ad043]: Commencement: Reg. 40 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-4998278d9764dc4994022e4eb73ad043]: Commencement: Reg. 40 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-d33862032a114ad5cf1a6c1e7b74f44a]: Commencement: Sch. 1 para. 1 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-d33862032a114ad5cf1a6c1e7b74f44a]: Commencement: Sch. 1 para. 1 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-b09cad3b10bed6fa112fcd48066255ca]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2015/122/schedule/1/paragraph/1) Table inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(10)(a)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/10/a)
+[^c-b09cad3b10bed6fa112fcd48066255ca]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2015/122/schedule/1/paragraph/1) Table inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(10)(a)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/10/a)
 
-[^key-8de40b6335cb45872d6c07e039b2fd1b]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2015/122/schedule/1/paragraph/1) inserted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [41](https://www.legislation.gov.uk/nisr/2024/50/regulation/41)
+[^c-8de40b6335cb45872d6c07e039b2fd1b]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2015/122/schedule/1/paragraph/1) inserted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [41](https://www.legislation.gov.uk/nisr/2024/50/regulation/41)
 
-[^key-20aa406ce47acec600e701db0d9879f6]: Commencement: Sch. 1 para. 2 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-20aa406ce47acec600e701db0d9879f6]: Commencement: Sch. 1 para. 2 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-c80c49cef844553219ffccb280b4e463]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2015/122/schedule/1/paragraph/2) Table substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(10)(b)(i)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/10/b/i)
+[^c-c80c49cef844553219ffccb280b4e463]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2015/122/schedule/1/paragraph/2) Table substituted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(10)(b)(i)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/10/b/i)
 
-[^key-89b43e7019afabcbec435233ccf3565d]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2015/122/schedule/1/paragraph/2) Table inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(10)(b)(ii)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/10/b/ii)
+[^c-89b43e7019afabcbec435233ccf3565d]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2015/122/schedule/1/paragraph/2) Table inserted (1.4.2022) by [The Health and Social Care Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/156)](https://www.legislation.gov.uk/nisr/2022/156), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/156/regulation/1/2), [5(10)(b)(ii)](https://www.legislation.gov.uk/nisr/2022/156/regulation/5/10/b/ii)
 
-[^key-140a7a1d4674c562b5ef912eb1e87f76]: Commencement: Sch. 2 para. 1 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-140a7a1d4674c562b5ef912eb1e87f76]: Commencement: Sch. 2 para. 1 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-1e61dc921d808078f77645113d748e17]: Commencement: Sch. 2 para. 2 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-1e61dc921d808078f77645113d748e17]: Commencement: Sch. 2 para. 2 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
 [^f00026]: Footnote: [1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073)
 
 [^f00027]: Footnote: ISBN 978-1-909790-36-0, PU1571. Copies are available at https://www.gov.uk/government/publications/fair-deal-guidance and from The Correspondence and Enquiry Unit, HMT, 1 Horse Guards Road, London, SW1A 2HQ.
 
-[^key-496cdbe49fbebd8eef41fd5b14f8b008]: Commencement: Sch. 2 para. 3 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-496cdbe49fbebd8eef41fd5b14f8b008]: Commencement: Sch. 2 para. 3 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
 [^f00028]: Footnote: Sub-paragraph (c) was inserted by [S.R. 2009 No.65](https://www.legislation.gov.uk/nisr/2009/65) regulation 5(3) and amended by [S.R. 2010 No.286](https://www.legislation.gov.uk/nisr/2010/286) regulation 4(3)
 
-[^key-e5c8bdeaaa14a31aa74c0342ba582eb9]: Commencement: Sch. 2 para. 4 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-e5c8bdeaaa14a31aa74c0342ba582eb9]: Commencement: Sch. 2 para. 4 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-77355d244b75c921fd52f8b1c3b06a4f]: Commencement: Sch. 2 para. 5 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-77355d244b75c921fd52f8b1c3b06a4f]: Commencement: Sch. 2 para. 5 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-fe06381cee28e2db8b37e0a4af0e6143]: Commencement: Sch. 2 para. 6 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-fe06381cee28e2db8b37e0a4af0e6143]: Commencement: Sch. 2 para. 6 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
 [^f00029]: Footnote: Regulation 81 as amended by [S.R. 2012 No.78](https://www.legislation.gov.uk/nisr/2012/78), regulation 5
 
-[^key-62ae3f3d71ddb60a4d83697ce3ccda63]: Commencement: Sch. 2 para. 7 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-62ae3f3d71ddb60a4d83697ce3ccda63]: Commencement: Sch. 2 para. 7 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
 [^f00030]: Footnote: Regulation 97C was inserted by [S.R. 2015 No.121](https://www.legislation.gov.uk/nisr/2015/121), regulation 14
 
 [^f00031]: Footnote: [S.R. 2014 No.79](https://www.legislation.gov.uk/nisr/2014/79)
 
-[^key-7b7dc9ffa4ad77065fdd9aa9ea6c2d61]: Commencement: Sch. 2 para. 8 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-7b7dc9ffa4ad77065fdd9aa9ea6c2d61]: Commencement: Sch. 2 para. 8 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
 [^f00032]: Footnote: Paragraph 17A was inserted by [S.R. 2008 No.163](https://www.legislation.gov.uk/nisr/2008/163), regulation 63
 
 [^f00033]: Footnote: See paragraph 5
 
-[^key-666208d583d8c26764d4e23188d565ab]: Commencement: Sch. 2 para. 9 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-666208d583d8c26764d4e23188d565ab]: Commencement: Sch. 2 para. 9 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-95449837dcdd4d019bd355042343e888]: Commencement: Sch. 2 para. 10 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-95449837dcdd4d019bd355042343e888]: Commencement: Sch. 2 para. 10 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
 [^f00034]: Footnote: Regulation 21 as amended by [S.R. 2009 No.65](https://www.legislation.gov.uk/nisr/2009/65), regulation 29; [S.R. 2010 No.22](https://www.legislation.gov.uk/nisr/2010/22), regulation 20 and [S.R. 2010 No.286](https://www.legislation.gov.uk/nisr/2010/286), regulation 19
 
@@ -2009,38 +2009,38 @@ An impact assessment has not been prepared for this rule as no impact on the cos
 
 [^f00036]: Footnote: ISBN 978-1-909790-36-0, PU1571 Copies are available at https://www.gov.uk/government/publications/fair-deal-guidance and from The Correspondence and Enquiry Unit, HMT, 1 Horse Guards Road, London, SW1A 2HQ.
 
-[^key-c8b633005d9b49f67aac115a89853e63]: Commencement: Sch. 2 para. 11 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-c8b633005d9b49f67aac115a89853e63]: Commencement: Sch. 2 para. 11 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
 [^f00037]: Footnote: Regulation 22 as amended by [S.R. 2009 No.65](https://www.legislation.gov.uk/nisr/2009/65) regulation 30; [S.R. 2010 No.22](https://www.legislation.gov.uk/nisr/2010/22) regulation 22 and [S.R. 2010 No.286](https://www.legislation.gov.uk/nisr/2010/286) regulation 21
 
-[^key-f56bff7e03259c61abce68b2f17097cd]: Commencement: Sch. 2 para. 12 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-f56bff7e03259c61abce68b2f17097cd]: Commencement: Sch. 2 para. 12 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-b5e72e8d070ab0a50870ddb512324ae5]: Commencement: Sch. 2 para. 13 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-b5e72e8d070ab0a50870ddb512324ae5]: Commencement: Sch. 2 para. 13 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
 [^f00038]: Footnote: Regulation 101 as amended by [S.R. 2009 No.65](https://www.legislation.gov.uk/nisr/2009/65), regulation 41
 
-[^key-827ba064100cb604fb936d9e04ff96a4]: Commencement: Sch. 2 para. 14 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-827ba064100cb604fb936d9e04ff96a4]: Commencement: Sch. 2 para. 14 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-934049f051a6a161089cfbfacbae8eaf]: Commencement: Sch. 2 para. 15 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-934049f051a6a161089cfbfacbae8eaf]: Commencement: Sch. 2 para. 15 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
 [^f00039]: Footnote: [S.R. 2014 No.79](https://www.legislation.gov.uk/nisr/2014/79)
 
-[^key-33c7fd6326c91d338e6bba3142cf6c7d]: Commencement: Sch. 2 para. 16 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-33c7fd6326c91d338e6bba3142cf6c7d]: Commencement: Sch. 2 para. 16 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
 [^f00040]: Footnote: Regulation 153 as amended by [S.R. 2009 No.65](https://www.legislation.gov.uk/nisr/2009/65) regulation 58; [S.R. 2010 No.22](https://www.legislation.gov.uk/nisr/2010/22) regulation 62 and [S.R. 2010 no.286](https://www.legislation.gov.uk/nisr/2010/286) regulation 37
 
-[^key-8c15ebe3155a6c1a5db6949748c97b47]: Commencement: Sch. 2 para. 17 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-8c15ebe3155a6c1a5db6949748c97b47]: Commencement: Sch. 2 para. 17 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
 [^f00041]: Footnote: Regulation 154 as amended by [S.R. 2008 No.65](https://www.legislation.gov.uk/nisr/2008/65) regulation 59; [S.R. 2009 No.188](https://www.legislation.gov.uk/nisr/2009/188) regulation 51; [S.R. 2010 No.286](https://www.legislation.gov.uk/nisr/2010/286) regulation 39 and [S.R. 2013 No.40](https://www.legislation.gov.uk/nisr/2013/40) regulation 18
 
-[^key-da651faa139e74663bc3c0952fb2e6c5]: Commencement: Sch. 2 para. 18 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-da651faa139e74663bc3c0952fb2e6c5]: Commencement: Sch. 2 para. 18 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-29ce2522116794ec24a6181b967cb90d]: Commencement: Sch. 2 para. 19 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-29ce2522116794ec24a6181b967cb90d]: Commencement: Sch. 2 para. 19 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
 [^f00042]: Footnote: Regulation 228 as amended by [S.R. 2009 No.65](https://www.legislation.gov.uk/nisr/2009/65), regulation 72 and [S.R. 2010 No.22](https://www.legislation.gov.uk/nisr/2010/22), regulation 91
 
-[^key-d8a767213b2a320335f738535b0d93fd]: Commencement: Sch. 2 para. 20 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-d8a767213b2a320335f738535b0d93fd]: Commencement: Sch. 2 para. 20 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
-[^key-4fed17e39ef18925dff8e5d7540b6eca]: Commencement: Sch. 2 para. 21 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
+[^c-4fed17e39ef18925dff8e5d7540b6eca]: Commencement: Sch. 2 para. 21 in operation at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1)
 
 [^f00043]: Footnote: [S.R. 2014 No.79](https://www.legislation.gov.uk/nisr/2014/79)

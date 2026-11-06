@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Loss of benefit provisions[^key-81d0d2dbdc5ae297f54fe527130883bd][^key-d5de489675de86a884fa6029241123e4]
+## 24. Loss of benefit provisions[^c-81d0d2dbdc5ae297f54fe527130883bd][^c-d5de489675de86a884fa6029241123e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -150,6 +150,6 @@ summary: ''
 
 ## Annotations
 
-[^key-81d0d2dbdc5ae297f54fe527130883bd]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2009/24/section/24) in force at 12.1.2010 for specified purposes by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/45/article/2/1)
+[^c-81d0d2dbdc5ae297f54fe527130883bd]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2009/24/section/24) in force at 12.1.2010 for specified purposes by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/45/article/2/1)
 
-[^key-d5de489675de86a884fa6029241123e4]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2009/24/section/24) in force at 1.4.2010 in so far as not already in force by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/45/article/2/2)
+[^c-d5de489675de86a884fa6029241123e4]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2009/24/section/24) in force at 1.4.2010 in so far as not already in force by [S.I. 2010/45](https://www.legislation.gov.uk/uksi/2010/45), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/45/article/2/2)

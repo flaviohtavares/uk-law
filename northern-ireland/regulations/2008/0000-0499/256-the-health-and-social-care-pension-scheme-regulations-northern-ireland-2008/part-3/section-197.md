@@ -27,7 +27,7 @@ summary: ''
 
 (2) At any time when the rate is not the rate mentioned in paragraph (1), the rate of the surviving adult dependant's pension in the case of the death of a pensioner member is equal to the appropriate proportion of the pension to which the member was entitled on the date of death (disregarding any additional pension).
 
-(3)[^key-49cfabda2a02b1edb4b3089f16086d6d] For the purposes of paragraph (1) any reduction in the member’s pension under—
+(3)[^c-49cfabda2a02b1edb4b3089f16086d6d] For the purposes of paragraph (1) any reduction in the member’s pension under—
 
 - (a) Chapter 8 of this Part;
 - (b) regulation 185; or
@@ -63,10 +63,10 @@ the member's pension referred to in paragraph (1) means that member's original t
 
 (7) This regulation is subject to regulation 200 (re-employed pensioners: adult survivor pensions in initial period).
 
-(8)[^key-22b074795e65ee062a5c4daa80bf3ceb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-22b074795e65ee062a5c4daa80bf3ceb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-49cfabda2a02b1edb4b3089f16086d6d]: Textual amendment: [Reg. 197(3)](https://www.legislation.gov.uk/nisr/2008/256/regulation/197/3)[(3A)](https://www.legislation.gov.uk/nisr/2008/256/regulation/197/3A) substituted for [Reg. 197(3)](https://www.legislation.gov.uk/nisr/2008/256/regulation/197/3) (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [80(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/80/2)
+[^c-49cfabda2a02b1edb4b3089f16086d6d]: Textual amendment: [Reg. 197(3)](https://www.legislation.gov.uk/nisr/2008/256/regulation/197/3)[(3A)](https://www.legislation.gov.uk/nisr/2008/256/regulation/197/3A) substituted for [Reg. 197(3)](https://www.legislation.gov.uk/nisr/2008/256/regulation/197/3) (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [80(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/80/2)
 
-[^key-22b074795e65ee062a5c4daa80bf3ceb]: Textual amendment: [Reg. 197(8)](https://www.legislation.gov.uk/nisr/2008/256/regulation/197/8) omitted (with effect in accordance with reg. 1(2) of the amending Rule) by virtue of [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [80(3)](https://www.legislation.gov.uk/nisr/2010/22/regulation/80/3)
+[^c-22b074795e65ee062a5c4daa80bf3ceb]: Textual amendment: [Reg. 197(8)](https://www.legislation.gov.uk/nisr/2008/256/regulation/197/8) omitted (with effect in accordance with reg. 1(2) of the amending Rule) by virtue of [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [80(3)](https://www.legislation.gov.uk/nisr/2010/22/regulation/80/3)

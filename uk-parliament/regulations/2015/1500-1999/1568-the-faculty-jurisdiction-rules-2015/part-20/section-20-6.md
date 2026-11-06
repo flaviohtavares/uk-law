@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 20.6. Departure from prescribed forms[^key-3f9b2e4e978c2b6ed674204b338a6f78]
+## 20.6. Departure from prescribed forms[^c-3f9b2e4e978c2b6ed674204b338a6f78]
 
 *Extent: E*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f9b2e4e978c2b6ed674204b338a6f78]: Commencement: [Rule 20.6](https://www.legislation.gov.uk/uksi/2015/1568/article/20.6) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-3f9b2e4e978c2b6ed674204b338a6f78]: Commencement: [Rule 20.6](https://www.legislation.gov.uk/uksi/2015/1568/article/20.6) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

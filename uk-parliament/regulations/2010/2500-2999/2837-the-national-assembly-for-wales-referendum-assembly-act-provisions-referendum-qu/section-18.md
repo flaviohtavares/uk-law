@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Referendum agents[^key-d1681e880bd45e2b43c3488684abee2e]
+## 18. Referendum agents[^c-d1681e880bd45e2b43c3488684abee2e]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ the permitted participant must as soon as possible appoint another referendum ag
 
 ## Annotations
 
-[^key-d1681e880bd45e2b43c3488684abee2e]: Commencement: Art. 18 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-d1681e880bd45e2b43c3488684abee2e]: Commencement: Art. 18 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)

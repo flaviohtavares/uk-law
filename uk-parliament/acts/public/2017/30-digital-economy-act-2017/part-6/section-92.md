@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Digital additional services: seriously harmful extrinsic material[^key-08e6ab7e7b564e46dc7f921adf508ac9]
+## 92. Digital additional services: seriously harmful extrinsic material[^c-08e6ab7e7b564e46dc7f921adf508ac9]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ After section 24 of the Broadcasting Act 1996 (digital additional services) inse
 
 ## Annotations
 
-[^key-08e6ab7e7b564e46dc7f921adf508ac9]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2017/30/section/92) in force at 31.7.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(x)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/x)
+[^c-08e6ab7e7b564e46dc7f921adf508ac9]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2017/30/section/92) in force at 31.7.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(x)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/x)

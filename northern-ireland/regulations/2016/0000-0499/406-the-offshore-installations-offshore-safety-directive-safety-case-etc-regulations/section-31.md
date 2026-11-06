@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Communication of national arrangements for confidential reporting of safety concerns etc.[^key-f2a0b28ab29537e30d10c1d072aa687d]
+## 31. Communication of national arrangements for confidential reporting of safety concerns etc.[^c-f2a0b28ab29537e30d10c1d072aa687d]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2a0b28ab29537e30d10c1d072aa687d]: Commencement: Reg. 31 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-f2a0b28ab29537e30d10c1d072aa687d]: Commencement: Reg. 31 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)

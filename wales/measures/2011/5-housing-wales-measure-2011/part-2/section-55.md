@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Withdrawal[^key-22cbf8c9a87c694883497f86775db33e]
+## 55. Withdrawal[^c-22cbf8c9a87c694883497f86775db33e]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ After section 50E of the Housing Act 1996 insert—
 
 ## Annotations
 
-[^key-22cbf8c9a87c694883497f86775db33e]: Commencement: [S. 55](https://www.legislation.gov.uk/mwa/2011/5/section/55) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(j)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/j)
+[^c-22cbf8c9a87c694883497f86775db33e]: Commencement: [S. 55](https://www.legislation.gov.uk/mwa/2011/5/section/55) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(j)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/j)

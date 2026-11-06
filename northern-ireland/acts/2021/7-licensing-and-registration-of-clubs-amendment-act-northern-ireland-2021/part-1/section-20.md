@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Prohibition of loyalty schemes[^key-b797457a364690dd061d72dbca0564f5][^key-8eb2b9100569283d22d20a5b83c47113]
+## 20. Prohibition of loyalty schemes[^c-b797457a364690dd061d72dbca0564f5][^c-8eb2b9100569283d22d20a5b83c47113]
 
 *Extent: N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b797457a364690dd061d72dbca0564f5]: Commencement: S. 20 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-b797457a364690dd061d72dbca0564f5]: Commencement: S. 20 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-8eb2b9100569283d22d20a5b83c47113]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2021/7/section/20) in operation at 6.4.2023 by [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [3](https://www.legislation.gov.uk/nisr/2022/180/article/3)
+[^c-8eb2b9100569283d22d20a5b83c47113]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2021/7/section/20) in operation at 6.4.2023 by [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [3](https://www.legislation.gov.uk/nisr/2022/180/article/3)

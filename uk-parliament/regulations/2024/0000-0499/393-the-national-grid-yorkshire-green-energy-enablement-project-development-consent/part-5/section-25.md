@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Compulsory acquisition of rights[^key-cb5cdd4077386e278416d668e721e3cd]
+## 25. Compulsory acquisition of rights[^c-cb5cdd4077386e278416d668e721e3cd]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb5cdd4077386e278416d668e721e3cd]: Commencement: Art. 25 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-cb5cdd4077386e278416d668e721e3cd]: Commencement: Art. 25 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)

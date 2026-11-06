@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Designation of carbon dioxide transport and storage counterparty[^key-e215e5f66ce9d193d67c386fc1ef21c1]
+## 59. Designation of carbon dioxide transport and storage counterparty[^c-e215e5f66ce9d193d67c386fc1ef21c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e215e5f66ce9d193d67c386fc1ef21c1]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2023/52/section/59) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-e215e5f66ce9d193d67c386fc1ef21c1]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2023/52/section/59) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

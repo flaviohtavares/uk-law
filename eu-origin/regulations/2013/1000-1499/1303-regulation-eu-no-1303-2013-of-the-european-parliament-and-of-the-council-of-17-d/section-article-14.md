@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 14 (Extent: W) (affected by repeal, see note). Preparation of the Partnership Agreement (Extent: W) (affected by repeal, see note)[^key-9c7292d00bc7c96258873544778b817a][^key-5b4bdf7cefeb917bd7634ae1394956ca][^key-5b4bdf7cefeb917bd7634ae1394956ca]
+## Article 14 (Extent: W) (affected by repeal, see note). Preparation of the Partnership Agreement (Extent: W) (affected by repeal, see note)[^c-9c7292d00bc7c96258873544778b817a][^c-5b4bdf7cefeb917bd7634ae1394956ca][^c-5b4bdf7cefeb917bd7634ae1394956ca]
 
 *Extent: E+W+S+N.I.*
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: W)* *(affected by repeal, see note)*[^key-5b4bdf7cefeb917bd7634ae1394956ca]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: W)* *(affected by repeal, see note)*[^c-5b4bdf7cefeb917bd7634ae1394956ca]
 
 ## Annotations
 
-[^key-9c7292d00bc7c96258873544778b817a]: Textual amendment: [Arts. 13-18](https://www.legislation.gov.uk/eur/2013/1303/article/13) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [6(5)](https://www.legislation.gov.uk/uksi/2019/785/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9c7292d00bc7c96258873544778b817a]: Textual amendment: [Arts. 13-18](https://www.legislation.gov.uk/eur/2013/1303/article/13) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [6(5)](https://www.legislation.gov.uk/uksi/2019/785/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5b4bdf7cefeb917bd7634ae1394956ca]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/eur/2013/1303/part/2) Title 2 omitted (W.) in so far as it relates to domestic support for rural development (26.3.2021) by virtue of [The Agricultural Support (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/400)](https://www.legislation.gov.uk/uksi/2021/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/400/regulation/1/2), [6(7)](https://www.legislation.gov.uk/uksi/2021/400/regulation/6/7)
+[^c-5b4bdf7cefeb917bd7634ae1394956ca]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/eur/2013/1303/part/2) Title 2 omitted (W.) in so far as it relates to domestic support for rural development (26.3.2021) by virtue of [The Agricultural Support (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/400)](https://www.legislation.gov.uk/uksi/2021/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/400/regulation/1/2), [6(7)](https://www.legislation.gov.uk/uksi/2021/400/regulation/6/7)

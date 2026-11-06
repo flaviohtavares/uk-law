@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Annual confirmation of approval of a battery compliance scheme[^key-f522d5dc4d57edcc215b87d8fe704bc4]
+## 53. Annual confirmation of approval of a battery compliance scheme[^c-f522d5dc4d57edcc215b87d8fe704bc4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f522d5dc4d57edcc215b87d8fe704bc4]: Textual amendment: [Reg. 53](https://www.legislation.gov.uk/uksi/2009/890/regulation/53) omitted (1.1.2016) by virtue of [The Waste Batteries and Accumulators (Amendment) Regulations 2015 (S.I. 2015/1935)](https://www.legislation.gov.uk/uksi/2015/1935), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2015/1935/regulation/7)
+[^c-f522d5dc4d57edcc215b87d8fe704bc4]: Textual amendment: [Reg. 53](https://www.legislation.gov.uk/uksi/2009/890/regulation/53) omitted (1.1.2016) by virtue of [The Waste Batteries and Accumulators (Amendment) Regulations 2015 (S.I. 2015/1935)](https://www.legislation.gov.uk/uksi/2015/1935), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2015/1935/regulation/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 175. Vesting of pipes in the appropriate agency.[^key-25fe416116c7ea0df37e412ffaa91e4b]
+## 175. Vesting of pipes in the appropriate agency.[^c-25fe416116c7ea0df37e412ffaa91e4b]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ shall vest in the appropriate agency.
 
 ## Annotations
 
-[^key-25fe416116c7ea0df37e412ffaa91e4b]: Textual amendment: Words in [s. 175 and heading](https://www.legislation.gov.uk/ukpga/1991/57/part/VII/chapter/III/crossheading/vesting-of-pipes-in-the-authority) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 294](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/294) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-25fe416116c7ea0df37e412ffaa91e4b]: Textual amendment: Words in [s. 175 and heading](https://www.legislation.gov.uk/ukpga/1991/57/part/VII/chapter/III/crossheading/vesting-of-pipes-in-the-authority) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 294](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/294) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

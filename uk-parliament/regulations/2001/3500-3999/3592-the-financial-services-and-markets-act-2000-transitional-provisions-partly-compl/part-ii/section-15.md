@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Effect of Banking Act notices after commencement[^key-d0195d10ef824a22ca36c1347ece2501]
+## 15. Effect of Banking Act notices after commencement[^c-d0195d10ef824a22ca36c1347ece2501]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d0195d10ef824a22ca36c1347ece2501]: Commencement: Art. 15 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-d0195d10ef824a22ca36c1347ece2501]: Commencement: Art. 15 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

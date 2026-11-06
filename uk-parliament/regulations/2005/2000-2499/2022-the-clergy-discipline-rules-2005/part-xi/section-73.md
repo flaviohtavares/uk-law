@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 73. Imposition of penalty by bishop under section 30 of the Measure[^key-27df69c3c41e1c00929e21e47072c743]
+## 73. Imposition of penalty by bishop under section 30 of the Measure[^c-27df69c3c41e1c00929e21e47072c743]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ When the time for making an application for review under rule 70 has expired, or
 
 ## Annotations
 
-[^key-27df69c3c41e1c00929e21e47072c743]: Commencement: [Rule 73](https://www.legislation.gov.uk/uksi/2005/2022/rule/73) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-27df69c3c41e1c00929e21e47072c743]: Commencement: [Rule 73](https://www.legislation.gov.uk/uksi/2005/2022/rule/73) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)

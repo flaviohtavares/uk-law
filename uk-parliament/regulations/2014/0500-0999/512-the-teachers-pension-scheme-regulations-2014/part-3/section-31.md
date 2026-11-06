@@ -29,7 +29,7 @@ summary: ''
 - (a) if the scheme manager receives the opt-out notice no later than 3 months after P enters the employment, from the first day of the employment; or
 - (b) otherwise, from the first day of the month after the month in which the scheme manager receives the opt-out notice.
 
-(4) An opt-out notice ceases to have effect from the earliest[^key-2377472a5f81b65d0c499f401332e9ce] of—
+(4) An opt-out notice ceases to have effect from the earliest[^c-2377472a5f81b65d0c499f401332e9ce] of—
 
 - (a) the date on which a subsequent opt-in notice has effect;
 - (b) P's automatic enrolment date for that employment; and
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2377472a5f81b65d0c499f401332e9ce]: Textual amendment: Word in [reg. 31(4)](https://www.legislation.gov.uk/uksi/2014/512/regulation/31/4) substituted (1.4.2015) by [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [8](https://www.legislation.gov.uk/uksi/2014/2652/regulation/8)
+[^c-2377472a5f81b65d0c499f401332e9ce]: Textual amendment: Word in [reg. 31(4)](https://www.legislation.gov.uk/uksi/2014/512/regulation/31/4) substituted (1.4.2015) by [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [8](https://www.legislation.gov.uk/uksi/2014/2652/regulation/8)

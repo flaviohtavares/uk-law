@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 448. Entry and search of premises.[^key-25113ab549b419f657c8020b694fcea4][^c17410371][^c17410381][^c19415201][^c17410361]
+## 448. Entry and search of premises.[^c-25113ab549b419f657c8020b694fcea4][^c17410371][^c17410381][^c19415201][^c17410361]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,7 +59,7 @@ summary: ''
 
 ## Annotations
 
-[^key-25113ab549b419f657c8020b694fcea4]: Modification: S. 448 applied (with modifications) (E.W.S.) (6.4.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Investigations) Regulations 2014 (S.I. 2014/574)](https://www.legislation.gov.uk/uksi/2014/574), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/574/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/574/regulation/2)
+[^c-25113ab549b419f657c8020b694fcea4]: Modification: S. 448 applied (with modifications) (E.W.S.) (6.4.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Investigations) Regulations 2014 (S.I. 2014/574)](https://www.legislation.gov.uk/uksi/2014/574), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/574/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/574/regulation/2)
 
 [^c17410371]: Modification: S. 448 extended (with modifications) by [S.I. 1989/638](https://www.legislation.gov.uk/uksi/1989/638), [regs. 18](https://www.legislation.gov.uk/uksi/1989/638/regulation/18), [21](https://www.legislation.gov.uk/uksi/1989/638/regulation/21), [Sch. 4 para. 11](https://www.legislation.gov.uk/uksi/1989/638/schedule/4/paragraph/11)
 

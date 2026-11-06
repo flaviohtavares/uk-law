@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 114. Protection of guaranteed minimum pension rights[^key-98bf9ae303d050b5fced4240158ed18f]
+## 114. Protection of guaranteed minimum pension rights[^c-98bf9ae303d050b5fced4240158ed18f]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ may not be exercised so as to deprive a person of his guaranteed minimum pension
 
 ## Annotations
 
-[^key-98bf9ae303d050b5fced4240158ed18f]: Commencement: Reg. 114 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-98bf9ae303d050b5fced4240158ed18f]: Commencement: Reg. 114 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

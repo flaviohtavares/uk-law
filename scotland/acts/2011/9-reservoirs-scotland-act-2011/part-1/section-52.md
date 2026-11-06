@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Offences: inspection, supervision, record keeping[^key-4dd95e498edb3730757d6a54d7864f11]
+## 52. Offences: inspection, supervision, record keeping[^c-4dd95e498edb3730757d6a54d7864f11]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4dd95e498edb3730757d6a54d7864f11]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2011/9/section/52) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))
+[^c-4dd95e498edb3730757d6a54d7864f11]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2011/9/section/52) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))

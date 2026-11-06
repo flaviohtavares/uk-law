@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 176. Saving for powers of the court[^key-3bf58858ac142e95ca21c1c36a27b40d]
+## 176. Saving for powers of the court[^c-3bf58858ac142e95ca21c1c36a27b40d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.220 of the 1986 Rules.
 
 ## Annotations
 
-[^key-3bf58858ac142e95ca21c1c36a27b40d]: Commencement: Rule 176 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-3bf58858ac142e95ca21c1c36a27b40d]: Commencement: Rule 176 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

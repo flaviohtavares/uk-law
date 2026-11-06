@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Extinction or suspension of private rights of way[^key-70b19abbd408565183306362b9b2ea8d]
+## 35. Extinction or suspension of private rights of way[^c-70b19abbd408565183306362b9b2ea8d]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ whichever is the sooner.
 
 ## Annotations
 
-[^key-70b19abbd408565183306362b9b2ea8d]: Commencement: Art. 35 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-70b19abbd408565183306362b9b2ea8d]: Commencement: Art. 35 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)

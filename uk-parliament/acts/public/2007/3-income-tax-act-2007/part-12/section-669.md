@@ -30,10 +30,10 @@ summary: ''
 
 (3) But see section 670 (withdrawal of relief).
 
-(4) Any claim under this section must be made not more than 4 years after the end of[^key-4fe60fe4367f155b43202361b460dc7f] the tax year for which the profits would be chargeable to tax if no claim were made.
+(4) Any claim under this section must be made not more than 4 years after the end of[^c-4fe60fe4367f155b43202361b460dc7f] the tax year for which the profits would be chargeable to tax if no claim were made.
 
 (5) A person's personal representatives may make any claim under this section which the person might have made.
 
 ## Annotations
 
-[^key-4fe60fe4367f155b43202361b460dc7f]: Textual amendment: Words in s. 669(4) substituted (1.4.2010) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/118/2), [Sch. 39 para. 62](https://www.legislation.gov.uk/ukpga/2008/9/schedule/39/paragraph/62); [S.I. 2009/403](https://www.legislation.gov.uk/uksi/2009/403), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/403/article/2/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/403/article/10))
+[^c-4fe60fe4367f155b43202361b460dc7f]: Textual amendment: Words in s. 669(4) substituted (1.4.2010) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/118/2), [Sch. 39 para. 62](https://www.legislation.gov.uk/ukpga/2008/9/schedule/39/paragraph/62); [S.I. 2009/403](https://www.legislation.gov.uk/uksi/2009/403), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/403/article/2/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/403/article/10))

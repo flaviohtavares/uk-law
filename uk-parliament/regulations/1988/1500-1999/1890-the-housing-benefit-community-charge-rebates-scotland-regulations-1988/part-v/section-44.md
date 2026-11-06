@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Income treated as capital[^key-938321512aa884f0451cd20046543bf9]
+## 44. Income treated as capital[^c-938321512aa884f0451cd20046543bf9]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Any amount by way of a refund of tax deducted from a student’s covenant income
 
 ## Annotations
 
-[^key-938321512aa884f0451cd20046543bf9]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/1988/1890/regulation/44) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-938321512aa884f0451cd20046543bf9]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/1988/1890/regulation/44) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

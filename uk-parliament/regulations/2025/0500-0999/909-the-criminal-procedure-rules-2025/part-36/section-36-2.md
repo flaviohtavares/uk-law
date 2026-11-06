@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36.2. Case management in the Court of Appeal[^key-5d9182fc244a6b33a5f067e46e2ede47]
+## 36.2. Case management in the Court of Appeal[^c-5d9182fc244a6b33a5f067e46e2ede47]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d9182fc244a6b33a5f067e46e2ede47]: Commencement: [Rule 36.2](https://www.legislation.gov.uk/uksi/2025/909/rule/36.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-5d9182fc244a6b33a5f067e46e2ede47]: Commencement: [Rule 36.2](https://www.legislation.gov.uk/uksi/2025/909/rule/36.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

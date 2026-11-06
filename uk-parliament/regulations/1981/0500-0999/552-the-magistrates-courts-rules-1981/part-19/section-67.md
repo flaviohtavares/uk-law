@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Proof of service[^key-d16a1ee91b33e60eb1d570f18a67906d]
+## 67. Proof of service[^c-d16a1ee91b33e60eb1d570f18a67906d]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d16a1ee91b33e60eb1d570f18a67906d]: Textual amendment: [Rule 67](https://www.legislation.gov.uk/uksi/1981/552/rule/67) substituted (8.4.2024) by [The Magistrates’ Courts (Amendment) Rules 2024 (S.I. 2024/254)](https://www.legislation.gov.uk/uksi/2024/254), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/254/rule/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2024/254/rule/2/10)
+[^c-d16a1ee91b33e60eb1d570f18a67906d]: Textual amendment: [Rule 67](https://www.legislation.gov.uk/uksi/1981/552/rule/67) substituted (8.4.2024) by [The Magistrates’ Courts (Amendment) Rules 2024 (S.I. 2024/254)](https://www.legislation.gov.uk/uksi/2024/254), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/254/rule/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2024/254/rule/2/10)

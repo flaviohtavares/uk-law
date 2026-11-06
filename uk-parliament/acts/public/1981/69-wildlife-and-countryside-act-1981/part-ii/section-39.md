@@ -39,7 +39,7 @@ summary: ''
 - (b)[^c4945801] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) as respects any other land, the local planning authority.
 - (d)[^c4945811] [^c19487951]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-826680d12238a780fce233a86c5efcb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-826680d12238a780fce233a86c5efcb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) as respects land in any area of outstanding natural beauty designated under section 82 of the Countryside and Rights of Way Act 2000 for which a conservation board has been established under section 86 of that Act, that board.
 
 (6) The powers conferred by this section on a relevant authority shall be in addition to and not in derogation of any powers conferred on such an authority by or under any enactment.
@@ -64,4 +64,4 @@ summary: ''
 
 [^c19487951]: Textual amendment: S. 39(5)(d) repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 105(1)](https://www.legislation.gov.uk/ukpga/2006/16/section/105/1), [107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 87](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/87), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
 
-[^key-826680d12238a780fce233a86c5efcb8]: Textual amendment: [S. 39(5)(e)](https://www.legislation.gov.uk/ukpga/1981/69/section/39/5/e) omitted (21.5.2016) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a), [Sch. 2 para. 3(5)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/3/5)
+[^c-826680d12238a780fce233a86c5efcb8]: Textual amendment: [S. 39(5)(e)](https://www.legislation.gov.uk/ukpga/1981/69/section/39/5/e) omitted (21.5.2016) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a), [Sch. 2 para. 3(5)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/3/5)

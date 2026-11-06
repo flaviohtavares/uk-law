@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76A. Offence of failing to attend premises in compliance with a section 53D(8) or section 53E(10) notice[^key-bb48480ed0f9eb3a6537f2909777e41d]
+## 76A. Offence of failing to attend premises in compliance with a section 53D(8) or section 53E(10) notice[^c-bb48480ed0f9eb3a6537f2909777e41d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb48480ed0f9eb3a6537f2909777e41d]: Textual amendment: S. 76A inserted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/46) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-bb48480ed0f9eb3a6537f2909777e41d]: Textual amendment: S. 76A inserted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/46) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))

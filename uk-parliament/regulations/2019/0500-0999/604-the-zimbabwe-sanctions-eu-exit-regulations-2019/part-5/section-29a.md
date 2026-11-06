@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29A. Trade: end-use control[^key-07d1b48089d677a2138574c69ea3638c]
+## 29A. Trade: end-use control[^c-07d1b48089d677a2138574c69ea3638c]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07d1b48089d677a2138574c69ea3638c]: Textual amendment: Reg. 29A inserted (13.5.2026) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2026/443/regulation/12/3)
+[^c-07d1b48089d677a2138574c69ea3638c]: Textual amendment: Reg. 29A inserted (13.5.2026) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2026/443/regulation/12/3)

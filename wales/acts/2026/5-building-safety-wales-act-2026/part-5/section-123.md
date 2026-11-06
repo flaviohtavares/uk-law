@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 123. Delegation of functions where building safety authority is accountable person for category 1 building[^key-0ab64eae9dbd8ae3a8a69509d04f5ab8]
+## 123. Delegation of functions where building safety authority is accountable person for category 1 building[^c-0ab64eae9dbd8ae3a8a69509d04f5ab8]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ab64eae9dbd8ae3a8a69509d04f5ab8]: Commencement: S. 123 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-0ab64eae9dbd8ae3a8a69509d04f5ab8]: Commencement: S. 123 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

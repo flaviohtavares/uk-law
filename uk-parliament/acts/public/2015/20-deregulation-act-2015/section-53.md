@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Civil penalties for parking contraventions: enforcement[^c22547881][^key-110dc652be0d0f3e74b0a36ac808ec28]
+## 53. Civil penalties for parking contraventions: enforcement[^c22547881][^c-110dc652be0d0f3e74b0a36ac808ec28]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 [^c22547881]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2015/20/section/53) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-110dc652be0d0f3e74b0a36ac808ec28]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2015/20/section/53) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/994/article/2/b)
+[^c-110dc652be0d0f3e74b0a36ac808ec28]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2015/20/section/53) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/994/article/2/b)

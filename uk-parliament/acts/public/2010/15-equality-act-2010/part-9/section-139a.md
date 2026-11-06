@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139A. Equal pay audits[^key-baf080910e075b33a8f00ac47f0062d4]
+## 139A. Equal pay audits[^c-baf080910e075b33a8f00ac47f0062d4]
 
 *Extent: E+W+S*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-baf080910e075b33a8f00ac47f0062d4]: Textual amendment: S. 139A inserted (25.4.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 98(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/98/2), [103(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1)
+[^c-baf080910e075b33a8f00ac47f0062d4]: Textual amendment: S. 139A inserted (25.4.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 98(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/98/2), [103(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1)

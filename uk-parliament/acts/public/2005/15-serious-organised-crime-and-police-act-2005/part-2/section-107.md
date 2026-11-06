@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Money laundering offences[^key-413580b1dc41c6d859452474aae57900]
+## 107. Money laundering offences[^c-413580b1dc41c6d859452474aae57900]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-413580b1dc41c6d859452474aae57900]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2005/15/section/107) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2005/1521/article/2/1/e)
+[^c-413580b1dc41c6d859452474aae57900]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2005/15/section/107) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2005/1521/article/2/1/e)

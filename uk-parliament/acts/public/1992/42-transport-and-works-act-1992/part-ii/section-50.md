@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 50. Orders under Transport Act 1968.[^key-20dbc5f7cf8e7a1acb598ac12237d92a]
+## 50. Orders under Transport Act 1968.[^c-20dbc5f7cf8e7a1acb598ac12237d92a]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20dbc5f7cf8e7a1acb598ac12237d92a]: Textual amendment: [S. 50](https://www.legislation.gov.uk/ukpga/1992/42/section/50) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-20dbc5f7cf8e7a1acb598ac12237d92a]: Textual amendment: [S. 50](https://www.legislation.gov.uk/ukpga/1992/42/section/50) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)

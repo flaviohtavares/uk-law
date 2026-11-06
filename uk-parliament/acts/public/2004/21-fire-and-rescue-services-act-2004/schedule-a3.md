@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## Schedule A3 — English Inspectors[^key-edd091749b38921f42953400c93ab1b6]
+## Schedule A3 — English Inspectors[^c-edd091749b38921f42953400c93ab1b6]
 
 *Extent: E+W*
 
@@ -184,4 +184,4 @@ the chief fire and rescue inspector for England may certify in writing to the Hi
 
 ## Annotations
 
-[^key-edd091749b38921f42953400c93ab1b6]: Textual amendment: Sch. A3 inserted (31.1.2017 for specified purposes) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 3](https://www.legislation.gov.uk/ukpga/2017/3/schedule/3)
+[^c-edd091749b38921f42953400c93ab1b6]: Textual amendment: Sch. A3 inserted (31.1.2017 for specified purposes) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 3](https://www.legislation.gov.uk/ukpga/2017/3/schedule/3)

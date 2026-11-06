@@ -31,10 +31,10 @@ in relation to a person whose contract of employment is terminated as a result o
 
 - (a) a person’s contract of employment is terminated as a result of this Act if—
   - (i) immediately before 1st April 1996 he was in the service of an old authority under a contract of employment which would have continued in force if that authority had not been abolished; and
-  - (ii) his contract of employment is not transferred to a new principal council [^key-732b0e7d4a3db1cdddccfbd985f0ce22]...; and
+  - (ii) his contract of employment is not transferred to a new principal council [^c-732b0e7d4a3db1cdddccfbd985f0ce22]...; and
 - (b) a contract of employment is transferred—
-  - (i) to a new principal council, if it is treated by any provision made by this Act, or by or under any other enactment, as continued in force with that council on 1st April 1996; [^key-58687e2024b446578b226d447eddbc2f]...
-  - (ii)[^key-58687e2024b446578b226d447eddbc2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) to a new principal council, if it is treated by any provision made by this Act, or by or under any other enactment, as continued in force with that council on 1st April 1996; [^c-58687e2024b446578b226d447eddbc2f]...
+  - (ii)[^c-58687e2024b446578b226d447eddbc2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The new principal council to whom an old authority’s liability as respects any redundancy payment under Part VI of the Act of 1978 is transferred under this Act shall be treated as the employer of the person concerned for the purposes of sections 164, 165, 170 and 179 of the Employment Rights Act 1996[^c10519891] (ancillary provisions about redundancy payments).
 
@@ -48,9 +48,9 @@ in relation to a person whose contract of employment is terminated as a result o
 
 [^c10519881]: Marginal citation: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
 
-[^key-732b0e7d4a3db1cdddccfbd985f0ce22]: Textual amendment: Words in s. 44(2)(a)(ii) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 29(3)(d)(i)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/29/3/d/i)
+[^c-732b0e7d4a3db1cdddccfbd985f0ce22]: Textual amendment: Words in s. 44(2)(a)(ii) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 29(3)(d)(i)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/29/3/d/i)
 
-[^key-58687e2024b446578b226d447eddbc2f]: Textual amendment: S. 44(2)(b)(ii) and word omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 29(3)(d)(ii)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/29/3/d/ii)
+[^c-58687e2024b446578b226d447eddbc2f]: Textual amendment: S. 44(2)(b)(ii) and word omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 29(3)(d)(ii)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/29/3/d/ii)
 
 [^c10519891]: Textual amendment: Words in s. 44(3) substituted (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 240](https://www.legislation.gov.uk/ukpga/1996/18/section/240), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 1 para. 63(4)(b)](https://www.legislation.gov.uk/ukpga/1996/18/schedule/1/paragraph/63/4/b) (with [ss. 191-195](https://www.legislation.gov.uk/ukpga/1996/18/section/191), [202](https://www.legislation.gov.uk/ukpga/1996/18/section/202))
 

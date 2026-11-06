@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 85. Management of fire safety risks by duty holders[^key-087966e82fc16a834901c758a752f204]
+## 85. Management of fire safety risks by duty holders[^c-087966e82fc16a834901c758a752f204]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-087966e82fc16a834901c758a752f204]: Commencement: S. 85 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-087966e82fc16a834901c758a752f204]: Commencement: S. 85 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

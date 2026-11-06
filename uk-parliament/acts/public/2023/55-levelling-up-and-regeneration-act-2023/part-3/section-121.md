@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Power to provide relief from enforcement of planning conditions[^key-6620fd15d37f3cd99874e2b581db94a7]
+## 121. Power to provide relief from enforcement of planning conditions[^c-6620fd15d37f3cd99874e2b581db94a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -79,4 +79,4 @@ After section 196D of TCPA 1990 insert—
 
 ## Annotations
 
-[^key-6620fd15d37f3cd99874e2b581db94a7]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2023/55/section/121) in force at 26.12.2023, see [s. 255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a)
+[^c-6620fd15d37f3cd99874e2b581db94a7]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2023/55/section/121) in force at 26.12.2023, see [s. 255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a)

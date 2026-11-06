@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 65. General[^key-b6604d0a28102d77738a7ee4d2cf8c18]
+## 65. General[^c-b6604d0a28102d77738a7ee4d2cf8c18]
 
 *Extent: N.I.*
 
 (1) The maximum amount of a loan for living costs in respect of an academic year is calculated as follows—
 
 - (a) where the eligible student is a current system student with full entitlement, in accordance with regulation 66 or 67;
-- (b)[^key-9c33d3dff3412ecc7d6a1351cefa785e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-9c33d3dff3412ecc7d6a1351cefa785e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) where the eligible student is a student with reduced entitlement, in accordance with regulation 69.
 
 ## Annotations
 
-[^key-b6604d0a28102d77738a7ee4d2cf8c18]: Commencement: Reg. 65 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-b6604d0a28102d77738a7ee4d2cf8c18]: Commencement: Reg. 65 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
 
-[^key-9c33d3dff3412ecc7d6a1351cefa785e]: Textual amendment: [Reg. 65(1)(b)](https://www.legislation.gov.uk/nisr/2009/373/regulation/65/1/b) omitted (24.3.2022) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [8(c)](https://www.legislation.gov.uk/nisr/2022/75/regulation/8/c)
+[^c-9c33d3dff3412ecc7d6a1351cefa785e]: Textual amendment: [Reg. 65(1)(b)](https://www.legislation.gov.uk/nisr/2009/373/regulation/65/1/b) omitted (24.3.2022) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [8(c)](https://www.legislation.gov.uk/nisr/2022/75/regulation/8/c)

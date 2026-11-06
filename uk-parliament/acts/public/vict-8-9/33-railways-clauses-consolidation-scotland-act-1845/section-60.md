@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Works to be erected for the accommodation of adjoining lands.[^c5589481][^c5589491][^key-3c932d5b954b37bf1267a8ff281d3a63]
+## 60. Works to be erected for the accommodation of adjoining lands.[^c5589481][^c5589491][^c-3c932d5b954b37bf1267a8ff281d3a63]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ The company shall make and at all times thereafter maintain the following works 
 
 [^c5589491]: Modification: S. 60 incorporated (21.5.1992) by [S.I. 1992/1267](https://www.legislation.gov.uk/uksi/1992/1267), [art. 4(1)](https://www.legislation.gov.uk/uksi/1992/1267/article/4/1)
 
-[^key-3c932d5b954b37bf1267a8ff281d3a63]: Modification: [S. 60](https://www.legislation.gov.uk/ukpga/Vict/8-9/33/section/60) incorporated (28.12.2012) by [The Banchory and Crathes Light Railway Order 2012 (S.S.I. 2012/345)](https://www.legislation.gov.uk/ssi/2012/345), [arts. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1), [5(1)](https://www.legislation.gov.uk/ssi/2012/345/article/5/1)
+[^c-3c932d5b954b37bf1267a8ff281d3a63]: Modification: [S. 60](https://www.legislation.gov.uk/ukpga/Vict/8-9/33/section/60) incorporated (28.12.2012) by [The Banchory and Crathes Light Railway Order 2012 (S.S.I. 2012/345)](https://www.legislation.gov.uk/ssi/2012/345), [arts. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1), [5(1)](https://www.legislation.gov.uk/ssi/2012/345/article/5/1)

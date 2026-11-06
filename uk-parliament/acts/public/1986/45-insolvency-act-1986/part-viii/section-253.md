@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 253. Application for interim order.[^c15576391][^key-de2a426b3f3c93b411baa3263ec6c1e3]
+## 253. Application for interim order.[^c15576391][^c-de2a426b3f3c93b411baa3263ec6c1e3]
 
 *Extent: E+W*
 
@@ -31,13 +31,13 @@ summary: ''
 
 (4) An application shall not be made under subsection (3)(a) unless the debtor has given notice of the proposal[^c15576421] to the official receiver and, if there is one, the trustee of his estate.
 
-(5)[^key-2e0682c6080e82bfca608f7d718dcc54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-2e0682c6080e82bfca608f7d718dcc54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c15576391]: Modification: S. 253 amended (1.12.2001) by [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8), [s. 357(1)](https://www.legislation.gov.uk/ukpga/2000/8/section/357/1); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 
-[^key-de2a426b3f3c93b411baa3263ec6c1e3]: Modification: [S. 253](https://www.legislation.gov.uk/ukpga/1986/45/section/253) restricted (24.3.2022) by [Commercial Rent (Coronavirus) Act 2022 (c. 12)](https://www.legislation.gov.uk/ukpga/2022/12), [ss. 25(2)(b)](https://www.legislation.gov.uk/ukpga/2022/12/section/25/2/b), [31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4) (with [s. 30](https://www.legislation.gov.uk/ukpga/2022/12/section/30))
+[^c-de2a426b3f3c93b411baa3263ec6c1e3]: Modification: [S. 253](https://www.legislation.gov.uk/ukpga/1986/45/section/253) restricted (24.3.2022) by [Commercial Rent (Coronavirus) Act 2022 (c. 12)](https://www.legislation.gov.uk/ukpga/2022/12), [ss. 25(2)(b)](https://www.legislation.gov.uk/ukpga/2022/12/section/25/2/b), [31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4) (with [s. 30](https://www.legislation.gov.uk/ukpga/2022/12/section/30))
 
 [^c15576401]: Textual amendment: Words in s. 253(1) inserted (1.1.2003) by [2000 c. 39](https://www.legislation.gov.uk/ukpga/2000/39), [s. 3](https://www.legislation.gov.uk/ukpga/2000/39/section/3), [Sch. 3 para. 3(a)](https://www.legislation.gov.uk/ukpga/2000/39/schedule/3/paragraph/3/a); [S.I. 2002/2711](https://www.legislation.gov.uk/uksi/2002/2711), [art. 2](https://www.legislation.gov.uk/uksi/2002/2711/article/2) (subject to transitional provisions in [arts. 3-5](https://www.legislation.gov.uk/uksi/2002/2711/article/3))
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c15576421]: Textual amendment: Words in s. 253(4) substituted (1.1.2003) by [2000 c. 39](https://www.legislation.gov.uk/ukpga/2000/39), [s. 3](https://www.legislation.gov.uk/ukpga/2000/39/section/3), [Sch. 3 para. 3(c)](https://www.legislation.gov.uk/ukpga/2000/39/schedule/3/paragraph/3/c); [S.I. 2002/2711](https://www.legislation.gov.uk/uksi/2002/2711), [art. 2](https://www.legislation.gov.uk/uksi/2002/2711/article/2) (subject to transitional provisions in [arts. 3-5](https://www.legislation.gov.uk/uksi/2002/2711/article/3))
 
-[^key-2e0682c6080e82bfca608f7d718dcc54]: Textual amendment: S. 253(5) omitted (6.4.2016) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/2); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
+[^c-2e0682c6080e82bfca608f7d718dcc54]: Textual amendment: S. 253(5) omitted (6.4.2016) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/2); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Rent repayment orders: consequential amendments[^key-27d3a47d5fc063d4648e67a2af8aa30a]
+## 50. Rent repayment orders: consequential amendments[^c-27d3a47d5fc063d4648e67a2af8aa30a]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27d3a47d5fc063d4648e67a2af8aa30a]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2016/22/section/50) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/c)
+[^c-27d3a47d5fc063d4648e67a2af8aa30a]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2016/22/section/50) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/c)

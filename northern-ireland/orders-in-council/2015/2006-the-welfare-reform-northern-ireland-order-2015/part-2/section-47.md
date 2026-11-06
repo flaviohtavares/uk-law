@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 47. Pilot schemes[^key-5900e8ecdf5e461fe2a1c97fd6889b6c]
+## 47. Pilot schemes[^c-5900e8ecdf5e461fe2a1c97fd6889b6c]
 
 *Extent: N.I.*
 
@@ -55,4 +55,4 @@ may be exercised so as to make provision for piloting purposes.
 
 ## Annotations
 
-[^key-5900e8ecdf5e461fe2a1c97fd6889b6c]: Commencement: [Art. 47](https://www.legislation.gov.uk/nisi/2015/2006/article/47) in operation at 2.5.2016 for specified purposes by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(ii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/ii)
+[^c-5900e8ecdf5e461fe2a1c97fd6889b6c]: Commencement: [Art. 47](https://www.legislation.gov.uk/nisi/2015/2006/article/47) in operation at 2.5.2016 for specified purposes by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(ii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/ii)

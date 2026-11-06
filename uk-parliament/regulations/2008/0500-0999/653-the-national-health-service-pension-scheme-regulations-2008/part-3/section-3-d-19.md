@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.D.19. Exceptions to requirement that NHS employment must have ceased[^key-6dc740315db65178d24b720b9742c0e5][^key-d8b7394b5516cee263fa1805f85422f4]
+## 3.D.19. Exceptions to requirement that NHS employment must have ceased[^c-6dc740315db65178d24b720b9742c0e5][^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6dc740315db65178d24b720b9742c0e5]: Textual amendment: [Reg. 3.D.19](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.D.19) inserted (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2015/95/schedule/2/paragraph/18)
+[^c-6dc740315db65178d24b720b9742c0e5]: Textual amendment: [Reg. 3.D.19](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.D.19) inserted (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2015/95/schedule/2/paragraph/18)
 
-[^key-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

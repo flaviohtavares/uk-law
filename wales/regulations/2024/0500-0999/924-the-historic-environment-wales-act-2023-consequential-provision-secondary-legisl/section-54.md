@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. The Marine Licensing (Exempted Activities) Order 2011[^key-22448b0b012b3ecc8ed143977328672f]
+## 54. The Marine Licensing (Exempted Activities) Order 2011[^c-22448b0b012b3ecc8ed143977328672f]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In article 31(b) of the Marine Licencing (Exempted Activities) Order 2011[^f0003
 
 ## Annotations
 
-[^key-22448b0b012b3ecc8ed143977328672f]: Commencement: [Reg. 54](https://www.legislation.gov.uk/wsi/2024/924/regulation/54) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-22448b0b012b3ecc8ed143977328672f]: Commencement: [Reg. 54](https://www.legislation.gov.uk/wsi/2024/924/regulation/54) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00034]: Footnote: [S.I. 2011/409 (W. 81)](https://www.legislation.gov.uk/wsi/2011/409), amended by [S.I. 2019/893](https://www.legislation.gov.uk/uksi/2019/893); there are other amending instruments but none is relevant to these Regulations.

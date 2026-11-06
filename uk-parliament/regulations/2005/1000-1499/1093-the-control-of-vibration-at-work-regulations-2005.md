@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State, in the exercise of the powers conferred on him by sections 15(1), (2) and (5), and 82(3) of, and paragraphs 1(1)(a) and (c), 8(1), 9, 11, 13(2) and (3), 14, 15(1), 16 and 20 of Schedule 3 to, the Health and Safety at Work etc. Act 1974[^f00001] (“the 1974 Act”) and of all other powers enabling him in that behalf, for the purpose of giving effect without modifications to proposals submitted to him by the Health and Safety Commission under section 11(2)(d) of the 1974 Act after the carrying out by the said Commission of consultations in accordance with section 50(3) of that Act, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-01ace4fbeb9b17ab87f49615ade830b9]
+## 1. Citation and commencement[^c-01ace4fbeb9b17ab87f49615ade830b9]
 
 These Regulations may be cited as the Control of Vibration at Work Regulations 2005 and shall come into force on 6th July 2005.
 
-## 2. Interpretation[^key-274abe5dce65eb0c2fd37764fec9c710]
+## 2. Interpretation[^c-274abe5dce65eb0c2fd37764fec9c710]
 
 (1) In these Regulations—
 
@@ -58,7 +58,7 @@ These Regulations may be cited as the Control of Vibration at Work Regulations 2
 - “emergency services” include—
   - (a) police, fire, rescue and ambulance services;
   - (b) Her Majesty’s Coastguard;
-- “[^key-94915b03c424e1d68ba47bf4dc3545b5]**enforcing authority**” means the Executive, the Office for Nuclear Regulation, local authority or Office of Rail and Road[^key-6cd41b23ad6ed4b97bb2641a4a5b4f08] determined in accordance with—
+- “[^c-94915b03c424e1d68ba47bf4dc3545b5]**enforcing authority**” means the Executive, the Office for Nuclear Regulation, local authority or Office of Rail and Road[^c-6cd41b23ad6ed4b97bb2641a4a5b4f08] determined in accordance with—
   - (a) section 18(1A) of the Health and Safety at Work etc. Act 1974;
   - (b) the provisions of the Health and Safety (Enforcing Authority) Regulations 1998; and
   - (c) the provisions of the Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006.
@@ -74,7 +74,7 @@ These Regulations may be cited as the Control of Vibration at Work Regulations 2
 
 (2) In these Regulations, a reference to an employee being exposed to vibration is a reference to the exposure of that employee to mechanical vibration arising out of or in connection with his work.
 
-## 3. Application and transitional provisions[^key-7e5c47116d77b052f12e4a7e0a1129fe]
+## 3. Application and transitional provisions[^c-7e5c47116d77b052f12e4a7e0a1129fe]
 
 (1) These Regulations shall have effect with a view to protecting persons against risk to their health and safety arising from exposure to vibration at work.
 
@@ -97,13 +97,13 @@ but in using such equipment the employer shall take into account the latest tech
 - (a) under regulation 7 (health surveillance) shall not extend to persons who are not his employees; and
 - (b) under regulation 8 (information, instruction and training) shall not extend to persons who are not his employees, unless those persons are on the premises where the work is being carried out.
 
-(5) These Regulations shall apply to a relevant self-employed person[^key-e428a5eba415b8b69581adffce514af5] as they apply to an employer and an employee and as if that relevant self-employed person were both an employer and an employee, except that regulation 7 shall not apply to a relevant self-employed person.
+(5) These Regulations shall apply to a relevant self-employed person[^c-e428a5eba415b8b69581adffce514af5] as they apply to an employer and an employee and as if that relevant self-employed person were both an employer and an employee, except that regulation 7 shall not apply to a relevant self-employed person.
 
-(5A)[^key-4abc77e41ae3ac6f8e014a98fd7d5411] For the purposes of this regulation, “relevant self-employed person” means a self-employed person who conducts an undertaking of a prescribed description for the purposes of section 3(2) of the Health and Safety at Work etc. Act 1974.
+(5A)[^c-4abc77e41ae3ac6f8e014a98fd7d5411] For the purposes of this regulation, “relevant self-employed person” means a self-employed person who conducts an undertaking of a prescribed description for the purposes of section 3(2) of the Health and Safety at Work etc. Act 1974.
 
 (6) These Regulations shall not apply to the master or crew of a ship or to the employer of such persons in respect of the normal shipboard activities of a ship’s crew which are carried out solely by the crew under the direction of the master, and for the purposes of this paragraph “ship” includes every description of vessel used in navigation, other than a ship forming part of Her Majesty’s Navy.
 
-## 4. Exposure limit values and action values[^key-8ba8f3717fbcdf813c947135c4ff7d3d]
+## 4. Exposure limit values and action values[^c-8ba8f3717fbcdf813c947135c4ff7d3d]
 
 (1) For hand-arm vibration—
 
@@ -119,7 +119,7 @@ and daily exposure shall be ascertained on the basis set out in Schedule 1 Part 
 
 and daily exposure shall be ascertained on the basis set out in Schedule 2 Part I.
 
-## 5. Assessment of the risk to health created by vibration at the workplace[^key-db3ae423d06ced117a411122f5873e95]
+## 5. Assessment of the risk to health created by vibration at the workplace[^c-db3ae423d06ced117a411122f5873e95]
 
 (1) An employer who carries out work which is liable to expose any of his employees to risk from vibration shall make a suitable and sufficient assessment of the risk created by that work to the health and safety of those employees and the risk assessment shall identify the measures that need to be taken to meet the requirements of these Regulations.
 
@@ -154,7 +154,7 @@ and where, as a result of the review, changes to the risk assessment are require
 - (a) the significant findings of the risk assessment as soon as is practicable after the risk assessment is made or changed; and
 - (b) the measures which he has taken and which he intends to take to meet the requirements of regulations 6 and 8.
 
-## 6. Elimination or control of exposure to vibration at the workplace[^key-b490436d273f8fd73ade9e36b6d15f3c]
+## 6. Elimination or control of exposure to vibration at the workplace[^c-b490436d273f8fd73ade9e36b6d15f3c]
 
 (1) The employer shall ensure that risk from the exposure of his employees to vibration is either eliminated at source or, where this is not reasonably practicable, reduced to as low a level as is reasonably practicable.
 
@@ -191,7 +191,7 @@ and exposure within the meaning of this paragraph shall be ascertained on the ba
 
 (6) The employer shall adapt any measure taken in compliance with the requirements of this regulation to take account of any employee or group of employees whose health is likely to be particularly at risk from vibration.
 
-## 7. Health surveillance[^key-48a9c76b8b0ed3dc93b3376719e11cf9]
+## 7. Health surveillance[^c-48a9c76b8b0ed3dc93b3376719e11cf9]
 
 (1) If—
 
@@ -224,7 +224,7 @@ the employer shall ensure that such employees are placed under suitable health s
 
 (6) An employee to whom this regulation applies shall, when required by his employer and at the cost of his employer, present himself during his working hours for such health surveillance procedures as may be required for the purposes of paragraph (1).
 
-## 8. Information, instruction and training[^key-a440f5dfa3d7c2cbdba3e357fa8bbcd3]
+## 8. Information, instruction and training[^c-a440f5dfa3d7c2cbdba3e357fa8bbcd3]
 
 (1) If—
 
@@ -247,13 +247,13 @@ the employer shall provide those employees and their representatives with suitab
 
 (4) The employer shall ensure that any person, whether or not his employee, who carries out work in connection with the employer’s duties under these Regulations has suitable and sufficient information, instruction and training.
 
-## 9. Exemption certificates for emergency services[^key-87461fb4860bc6e9794355f31ca1de7c]
+## 9. Exemption certificates for emergency services[^c-87461fb4860bc6e9794355f31ca1de7c]
 
 (1) Subject to paragraph (2), the Executive may, by a certificate in writing, exempt any person or class of persons from regulation 6(4) in respect of activities carried out by emergency services which conflict with the requirements of that paragraph, and any such exemption may be granted subject to conditions and to a limit of time and may be revoked by a certificate in writing at any time.
 
 (2) The Executive shall not grant any such exemption unless it is satisfied that the health and safety of the employees concerned is ensured as far as possible in the light of the objectives of these Regulations.
 
-## 10. Exemption certificates for air transport[^key-511191fbe4682ddd65ba9ae0dd0dfb0f]
+## 10. Exemption certificates for air transport[^c-511191fbe4682ddd65ba9ae0dd0dfb0f]
 
 (1) Subject to paragraph (2), the Executive may, by a certificate in writing, exempt any person or class of persons from regulation 6(4) in respect of whole-body vibration in the case of air transport, where the latest technical advances and the characteristics of the workplace do not permit compliance with the exposure limit value despite the technical and organisational measures taken, and any such exemption may be granted subject to conditions and to a limit of time and may be revoked by a certificate in writing at any time.
 
@@ -263,17 +263,17 @@ the employer shall provide those employees and their representatives with suitab
 - (b) the resulting risks are reduced to as low a level as is reasonably practicable; and
 - (c) the employees concerned are subject to increased health surveillance, where such surveillance is appropriate within the meaning of regulation 7(2).
 
-## 11. Exemptions relating to the Ministry of Defence[^key-c561fd9084727d70ce8467c8858eee88]
+## 11. Exemptions relating to the Ministry of Defence[^c-c561fd9084727d70ce8467c8858eee88]
 
 (1) Subject to paragraph (2), the Secretary of State for Defence may, by a certificate in writing, exempt any person or class of persons from regulation 6(4) in respect of activities carried out in the interests of national security which conflict with the requirements of that paragraph, and any such exemption may be granted subject to conditions and to a limit of time and may be revoked by a certificate in writing at any time.
 
 (2) The Secretary of State shall not grant any such exemption unless he is satisfied that the health and safety of the employees concerned is ensured as far as possible in the light of the objectives of these Regulations.
 
-## 12. Extension outside Great Britain[^key-0b12258e2a757f0101684b55a9e27211]
+## 12. Extension outside Great Britain[^c-0b12258e2a757f0101684b55a9e27211]
 
 These Regulations shall apply to and in relation to any activity outside Great Britain to which sections 1 to 59 and 80 to 82 of the 1974 Act apply by virtue of the Health and Safety at Work etc. Act 1974 (Application outside Great Britain) Order 2001[^f00004] as those provisions apply within Great Britain.
 
-## 13. Amendments[^key-00bf2015e6809a58828c0f8c7710c5e0]
+## 13. Amendments[^c-00bf2015e6809a58828c0f8c7710c5e0]
 
 (1) In the Offshore Installations and Wells (Design and Construction etc.) Regulations 1996[^f00005], paragraph 67 of Schedule 1 shall be omitted.
 
@@ -293,11 +293,11 @@ Department for Work and Pensions
 
 4th April 2005
 
-## SCHEDULE 1 — Hand-Arm Vibration[^key-930b7edfdc8ea0f88f79dcfd085e3ce1]
+## SCHEDULE 1 — Hand-Arm Vibration[^c-930b7edfdc8ea0f88f79dcfd085e3ce1]
 
 Regulations 4(1) and 6(5)
 
-### Part I-Daily exposure to vibration[^key-930b7edfdc8ea0f88f79dcfd085e3ce1]
+### Part I-Daily exposure to vibration[^c-930b7edfdc8ea0f88f79dcfd085e3ce1]
 
 The daily exposure to vibration (*A*(8)) of a person is ascertained using the formula:
 
@@ -333,7 +333,7 @@ where:
 - *a*<sub>hvi</sub> is the vibration magnitude for operation *i*; and
 - *T*<sub>i</sub> is the duration of operation *i*.
 
-### Part II-Exposure to vibration averaged over one week[^key-930b7edfdc8ea0f88f79dcfd085e3ce1]
+### Part II-Exposure to vibration averaged over one week[^c-930b7edfdc8ea0f88f79dcfd085e3ce1]
 
 The exposure to vibration averaged over one week (*A*(8)<sub>week</sub>) is the total exposure occurring within a period of seven consecutive days, normalised to a reference duration of five 8-hour days (40 hours). It is ascertained using the formula:
 
@@ -345,11 +345,11 @@ where:
 
 The exposure to vibration averaged over one week is for use only for the purposes of Regulation 6(5).
 
-## SCHEDULE 2 — Whole-Body Vibration[^key-7c4ae9613ad74b1290a47fa443e7de6b]
+## SCHEDULE 2 — Whole-Body Vibration[^c-7c4ae9613ad74b1290a47fa443e7de6b]
 
 Regulations 4(2) and 6(5)
 
-### Part I-Daily exposure to vibration[^key-7c4ae9613ad74b1290a47fa443e7de6b]
+### Part I-Daily exposure to vibration[^c-7c4ae9613ad74b1290a47fa443e7de6b]
 
 The daily exposure to vibration (*A*(8)) of a person is ascertained using the formula:
 
@@ -380,7 +380,7 @@ where:
 - *a*<sub>wi</sub> is the vibration magnitude for operation *i*; and
 - *T*i is the duration of operation *i*.
 
-### Part II-Exposure to vibration averaged over one week[^key-7c4ae9613ad74b1290a47fa443e7de6b]
+### Part II-Exposure to vibration averaged over one week[^c-7c4ae9613ad74b1290a47fa443e7de6b]
 
 The exposure to vibration averaged over one week (*A*(8)<sub>week</sub>) is the total exposure occurring within a period of seven consecutive days, normalised to a reference duration of five 8-hour days (40 hours). It is ascertained using the formula:
 
@@ -424,48 +424,48 @@ The exposure to vibration averaged over one week is for use only for the purpose
 
 [^f00001]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37); sections 11(2), 15(1) and 50(3) were amended by the Employment Protection Act [1975 c. 71](https://www.legislation.gov.uk/ukpga/1975/71), Schedule 15, paragraphs 4, 6 and 16(3) respectively.
 
-[^key-01ace4fbeb9b17ab87f49615ade830b9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
+[^c-01ace4fbeb9b17ab87f49615ade830b9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
 
-[^key-274abe5dce65eb0c2fd37764fec9c710]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2005/1093/regulation/2) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
+[^c-274abe5dce65eb0c2fd37764fec9c710]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2005/1093/regulation/2) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
 
-[^key-94915b03c424e1d68ba47bf4dc3545b5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/1093/regulation/2/1) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 123](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/123) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-94915b03c424e1d68ba47bf4dc3545b5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/1093/regulation/2/1) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 123](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/123) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-6cd41b23ad6ed4b97bb2641a4a5b4f08]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/1093/regulation/2/1) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(h)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/h)
+[^c-6cd41b23ad6ed4b97bb2641a4a5b4f08]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/1093/regulation/2/1) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(h)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/h)
 
-[^key-7e5c47116d77b052f12e4a7e0a1129fe]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2005/1093/regulation/3) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
+[^c-7e5c47116d77b052f12e4a7e0a1129fe]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2005/1093/regulation/3) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
 
-[^key-e428a5eba415b8b69581adffce514af5]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/uksi/2005/1093/regulation/3/5) substituted (1.10.2015) by [The Deregulation Act 2015 (Health and Safety at Work) (General Duties of Self-Employed Persons) (Consequential Amendments) Order 2015 (S.I. 2015/1637)](https://www.legislation.gov.uk/uksi/2015/1637), [art. 1](https://www.legislation.gov.uk/uksi/2015/1637/article/1), [Sch. para. 9(a)](https://www.legislation.gov.uk/uksi/2015/1637/schedule/paragraph/9/a)
+[^c-e428a5eba415b8b69581adffce514af5]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/uksi/2005/1093/regulation/3/5) substituted (1.10.2015) by [The Deregulation Act 2015 (Health and Safety at Work) (General Duties of Self-Employed Persons) (Consequential Amendments) Order 2015 (S.I. 2015/1637)](https://www.legislation.gov.uk/uksi/2015/1637), [art. 1](https://www.legislation.gov.uk/uksi/2015/1637/article/1), [Sch. para. 9(a)](https://www.legislation.gov.uk/uksi/2015/1637/schedule/paragraph/9/a)
 
-[^key-4abc77e41ae3ac6f8e014a98fd7d5411]: Textual amendment: [Reg. 3(5A)](https://www.legislation.gov.uk/uksi/2005/1093/regulation/3/5A) inserted (1.10.2015) by [The Deregulation Act 2015 (Health and Safety at Work) (General Duties of Self-Employed Persons) (Consequential Amendments) Order 2015 (S.I. 2015/1637)](https://www.legislation.gov.uk/uksi/2015/1637), [art. 1](https://www.legislation.gov.uk/uksi/2015/1637/article/1), [Sch. para. 9(b)](https://www.legislation.gov.uk/uksi/2015/1637/schedule/paragraph/9/b)
+[^c-4abc77e41ae3ac6f8e014a98fd7d5411]: Textual amendment: [Reg. 3(5A)](https://www.legislation.gov.uk/uksi/2005/1093/regulation/3/5A) inserted (1.10.2015) by [The Deregulation Act 2015 (Health and Safety at Work) (General Duties of Self-Employed Persons) (Consequential Amendments) Order 2015 (S.I. 2015/1637)](https://www.legislation.gov.uk/uksi/2015/1637), [art. 1](https://www.legislation.gov.uk/uksi/2015/1637/article/1), [Sch. para. 9(b)](https://www.legislation.gov.uk/uksi/2015/1637/schedule/paragraph/9/b)
 
-[^key-8ba8f3717fbcdf813c947135c4ff7d3d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2005/1093/regulation/4) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
+[^c-8ba8f3717fbcdf813c947135c4ff7d3d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2005/1093/regulation/4) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
 
-[^key-db3ae423d06ced117a411122f5873e95]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2005/1093/regulation/5) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
+[^c-db3ae423d06ced117a411122f5873e95]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2005/1093/regulation/5) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
 
-[^key-b490436d273f8fd73ade9e36b6d15f3c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2005/1093/regulation/6) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
+[^c-b490436d273f8fd73ade9e36b6d15f3c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2005/1093/regulation/6) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
 
 [^f00003]: Footnote: [S.I. 1999/3242](https://www.legislation.gov.uk/uksi/1999/3242), as amended by [S.I. 2003/2457](https://www.legislation.gov.uk/uksi/2003/2457).
 
-[^key-48a9c76b8b0ed3dc93b3376719e11cf9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2005/1093/regulation/7) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
+[^c-48a9c76b8b0ed3dc93b3376719e11cf9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2005/1093/regulation/7) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
 
-[^key-a440f5dfa3d7c2cbdba3e357fa8bbcd3]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2005/1093/regulation/8) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
+[^c-a440f5dfa3d7c2cbdba3e357fa8bbcd3]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2005/1093/regulation/8) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
 
-[^key-87461fb4860bc6e9794355f31ca1de7c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2005/1093/regulation/9) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
+[^c-87461fb4860bc6e9794355f31ca1de7c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2005/1093/regulation/9) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
 
-[^key-511191fbe4682ddd65ba9ae0dd0dfb0f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2005/1093/regulation/10) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
+[^c-511191fbe4682ddd65ba9ae0dd0dfb0f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2005/1093/regulation/10) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
 
-[^key-c561fd9084727d70ce8467c8858eee88]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2005/1093/regulation/11) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
+[^c-c561fd9084727d70ce8467c8858eee88]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2005/1093/regulation/11) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
 
-[^key-0b12258e2a757f0101684b55a9e27211]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2005/1093/regulation/12) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
+[^c-0b12258e2a757f0101684b55a9e27211]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2005/1093/regulation/12) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2001/2127](https://www.legislation.gov.uk/uksi/2001/2127).
 
-[^key-00bf2015e6809a58828c0f8c7710c5e0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2005/1093/regulation/13) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
+[^c-00bf2015e6809a58828c0f8c7710c5e0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2005/1093/regulation/13) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
 
 [^f00005]: Footnote: [S.I. 1996/913](https://www.legislation.gov.uk/uksi/1996/913), amended by [S.I. 1997/1993](https://www.legislation.gov.uk/uksi/1997/1993).
 
 [^f00006]: Footnote: [S.I. 1998/2306](https://www.legislation.gov.uk/uksi/1998/2306).
 
-[^key-930b7edfdc8ea0f88f79dcfd085e3ce1]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1093/schedule/1) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
+[^c-930b7edfdc8ea0f88f79dcfd085e3ce1]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1093/schedule/1) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
 
-[^key-7c4ae9613ad74b1290a47fa443e7de6b]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2005/1093/schedule/2) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
+[^c-7c4ae9613ad74b1290a47fa443e7de6b]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2005/1093/schedule/2) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)

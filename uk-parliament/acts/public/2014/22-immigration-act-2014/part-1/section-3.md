@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Independent Family Returns Panel[^key-c2176fd4551c33600e3b49fb746cb3a1]
+## 3. Independent Family Returns Panel[^c-c2176fd4551c33600e3b49fb746cb3a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ Before section 55 of the Borders, Citizenship and Immigration Act 2009, insertâ€
 
 ## Annotations
 
-[^key-c2176fd4551c33600e3b49fb746cb3a1]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2014/22/section/3) in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/b)
+[^c-c2176fd4551c33600e3b49fb746cb3a1]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2014/22/section/3) in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/b)

@@ -34,7 +34,7 @@ An Act to specify certain factors that may be taken into account by a court dete
 
 \[25th July 2006\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-6490e5bbac02ee4de81d811bde577d4c]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-6490e5bbac02ee4de81d811bde577d4c]
 
 ## Part 1 — Standard of care
 
@@ -93,17 +93,17 @@ An apology, an offer of treatment or other redress, shall not of itself amount t
 
 (8) The regulations may, in particular—
 
-- (a)[^key-677524970f6fffb93f1b84c147eaa115] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-677524970f6fffb93f1b84c147eaa115] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) replicate or apply (with or without modification) a transitional compensation provision;
 - (c) provide for a specified person to assess and pay compensation;
 - (d) provide for expenses incurred (including the payment of compensation) to be met out of levies collected in accordance with section 213(3)(b) of the Financial Services and Markets Act 2000 (c. 8) (the Financial Services Compensation Scheme);
 - (e) modify the effect of a transitional compensation provision;
-- (f) enable the Financial Conduct Authority or the Prudential Regulation Authority[^key-1f91654c1025de4dd9db724868d22646] to amend the Financial Services Compensation Scheme;
+- (f) enable the Financial Conduct Authority or the Prudential Regulation Authority[^c-1f91654c1025de4dd9db724868d22646] to amend the Financial Services Compensation Scheme;
 - (g) modify the Financial Services and Markets Act 2000 in its application to an amendment pursuant to paragraph (f);
 - (h) make, or require the making of, provision for the making of a claim by a responsible person for compensation whether or not he has already satisfied claims in tort against him;
 - (i) make, or require the making of, provision which has effect in relation to claims for contributions made on or after the date on which this Act is passed.
 
-(9)[^key-78495ea75ac312c543a229cebb3d72b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-78495ea75ac312c543a229cebb3d72b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) In subsections (7) and (8)—
 
@@ -120,7 +120,7 @@ An apology, an offer of treatment or other redress, shall not of itself amount t
 - (d) shall be made by statutory instrument, and
 - (e) may not be made unless a draft has been laid before and approved by resolution of each House of Parliament.
 
-## Part 2 — Claims Management Services[^key-f48221632ff26436b1fa283f480a0146]
+## Part 2 — Claims Management Services[^c-f48221632ff26436b1fa283f480a0146]
 
 *Extent: E+W*
 
@@ -233,7 +233,7 @@ Section 9
 - (b) permit the Regulator to grant authorisation on terms or subject to conditions;
 - (c) permit the Regulator to grant an application for authorisation only to a specified extent or only in relation to specified matters, cases or circumstances.
 
-**7.** (1)[^key-08aa405e3aae0ab59c050d9437170d3c] Regulations may—
+**7.** (1)[^c-08aa405e3aae0ab59c050d9437170d3c] Regulations may—
 
 - (a) enable the Regulator to charge—
   - (i) fees in connection with applications for, or the grant of, authorisation;
@@ -245,7 +245,7 @@ Section 9
 - (f) make provision for the manner in which fees are to be accounted for;
 - (g) make provision for the application of income from fees (which may, in respect of a time when the Secretary of State is exercising functions of the Regulator under section 5(9) or (10), include provision permitting or requiring payment into the Consolidated Fund).
 
-(2)[^key-da5c7fb4ae6c41672293043d02d4a92c] The fees that may be charged by the Regulator by virtue of sub-paragraph (1) include fees in respect of costs incurred by the Regulator for the purposes of meeting any leviable OLC expenditure.
+(2)[^c-da5c7fb4ae6c41672293043d02d4a92c] The fees that may be charged by the Regulator by virtue of sub-paragraph (1) include fees in respect of costs incurred by the Regulator for the purposes of meeting any leviable OLC expenditure.
 
 ### Conduct of authorised persons
 
@@ -258,7 +258,7 @@ Section 9
   - (ii) the submission of a draft to the Secretary of State for approval);
 - (b) about the consequences of failure to comply with the rules (which may, in particular, include—
   - (i) provision for rules to be treated as conditions of authorisations;
-  - (ia)[^key-a6d6174b1bcc9c65fe76e62939d27e54] provision enabling the Regulator to require an authorised person to pay a penalty;
+  - (ia)[^c-a6d6174b1bcc9c65fe76e62939d27e54] provision enabling the Regulator to require an authorised person to pay a penalty;
   - (ii) provision enabling the Regulator to impose conditions on, suspend or cancel authorisations).
 
 **9.** (1) Regulations shall enable the Regulator to issue one or more codes of practice about the professional conduct of authorised persons.
@@ -270,7 +270,7 @@ Section 9
   - (ii) the submission of a draft to the Secretary of State for approval);
 - (b) about the consequences of failure to comply with a code (which may, in particular—
   - (i) provide for compliance with a code to be treated as a condition of authorisations;
-  - (ia)[^key-fbb10db39710b6028f81b279d9dfb630] enable the Regulator to require an authorised person to pay a penalty;
+  - (ia)[^c-fbb10db39710b6028f81b279d9dfb630] enable the Regulator to require an authorised person to pay a penalty;
   - (ii) enable the Regulator to impose conditions on, suspend or cancel authorisations).
 
 **10.** (1) Regulations shall provide for the Regulator to investigate complaints about the professional conduct of an authorised person.
@@ -281,14 +281,14 @@ Section 9
 - (b) suspend a person's authorisation;
 - (c) cancel a person's authorisation.
 
-(3)[^key-5d74fcbcb06ef714e522c919d2af9e80] Regulations under sub-paragraph (1) may enable the Regulator to require an authorised person to pay a penalty.
+(3)[^c-5d74fcbcb06ef714e522c919d2af9e80] Regulations under sub-paragraph (1) may enable the Regulator to require an authorised person to pay a penalty.
 
 **11.** (1) Regulations may require, or permit the Regulator to require, an authorised person to take out a policy of professional indemnity insurance in respect of his actions in the course of providing or purporting to provide regulated claims management services.
 
 (2) Regulations under sub-paragraph (1) may, in particular—
 
 - (a) make provision about the level or nature of insurance cover to be provided by the policy;
-- (b) include provision about failure to comply (which may, in particular, provide for compliance to be treated as a condition of authorisations or enable the Regulator to require the payment of a penalty by an authorised person or[^key-24e76825c6e8a502b9e6d4573834bbcb] to impose conditions on, suspend or cancel authorisations).
+- (b) include provision about failure to comply (which may, in particular, provide for compliance to be treated as a condition of authorisations or enable the Regulator to require the payment of a penalty by an authorised person or[^c-24e76825c6e8a502b9e6d4573834bbcb] to impose conditions on, suspend or cancel authorisations).
 
 **12.** (1) Regulations may require the Regulator to establish a scheme to compensate a client of an authorised person where—
 
@@ -317,7 +317,7 @@ Section 9
 
 (3) Regulations may enable the Regulator to take copies of written or electronic records found on a search by virtue of sub-paragraph (2) for a purpose specified in that subsection.
 
-(4) Regulations may enable the Regulator to require an authorised person to pay a penalty, or to impose conditions on, suspend or cancel a person's authorisation,[^key-a95b48a814157014a1f72c016e6a322f] if—
+(4) Regulations may enable the Regulator to require an authorised person to pay a penalty, or to impose conditions on, suspend or cancel a person's authorisation,[^c-a95b48a814157014a1f72c016e6a322f] if—
 
 - (a) a requirement imposed by virtue of sub-paragraph (1) is not complied with, or
 - (b) an attempt to exercise a power by virtue of sub-paragraph (2) or (3) is obstructed.
@@ -331,7 +331,7 @@ Section 9
 
 **15.** Regulations may make provision about the exercise by the Regulator of a power under section 8.
 
-### Penalties: supplementary provision[^key-1b5e5d5ee60856097aeb658fa11e7fd6]
+### Penalties: supplementary provision[^c-1b5e5d5ee60856097aeb658fa11e7fd6]
 
 **16.** (1) This paragraph applies in any case where regulations include provision enabling the Regulator to require an authorised person to pay a penalty.
 
@@ -352,32 +352,32 @@ Section 9
 
 ## Annotations
 
-[^key-6490e5bbac02ee4de81d811bde577d4c]: Modification: Act modified (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [84(4)](https://www.legislation.gov.uk/uksi/2018/1253/article/84/4)[(5)](https://www.legislation.gov.uk/uksi/2018/1253/article/84/5)
+[^c-6490e5bbac02ee4de81d811bde577d4c]: Modification: Act modified (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [84(4)](https://www.legislation.gov.uk/uksi/2018/1253/article/84/4)[(5)](https://www.legislation.gov.uk/uksi/2018/1253/article/84/5)
 
-[^key-677524970f6fffb93f1b84c147eaa115]: Textual amendment: [S. 3(8)(a)](https://www.legislation.gov.uk/ukpga/2006/29/section/3/8/a) omitted (1.4.2013) by virtue of [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 109(2)(a)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/109/2/a) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-677524970f6fffb93f1b84c147eaa115]: Textual amendment: [S. 3(8)(a)](https://www.legislation.gov.uk/ukpga/2006/29/section/3/8/a) omitted (1.4.2013) by virtue of [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 109(2)(a)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/109/2/a) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-1f91654c1025de4dd9db724868d22646]: Textual amendment: Words in [s. 3(8)(f)](https://www.legislation.gov.uk/ukpga/2006/29/section/3/8/f) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/109/2/b) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-1f91654c1025de4dd9db724868d22646]: Textual amendment: Words in [s. 3(8)(f)](https://www.legislation.gov.uk/ukpga/2006/29/section/3/8/f) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/109/2/b) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-78495ea75ac312c543a229cebb3d72b0]: Textual amendment: [S. 3(9)](https://www.legislation.gov.uk/ukpga/2006/29/section/3/9) omitted (1.4.2013) by virtue of [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 109(3)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/109/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-78495ea75ac312c543a229cebb3d72b0]: Textual amendment: [S. 3(9)](https://www.legislation.gov.uk/ukpga/2006/29/section/3/9) omitted (1.4.2013) by virtue of [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 109(3)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/109/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-f48221632ff26436b1fa283f480a0146]: Textual amendment: Pt. 2 omitted (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [93](https://www.legislation.gov.uk/uksi/2018/1253/article/93) (with [arts. 39-83](https://www.legislation.gov.uk/uksi/2018/1253/article/39), [106](https://www.legislation.gov.uk/uksi/2018/1253/article/106), [108](https://www.legislation.gov.uk/uksi/2018/1253/article/108))
+[^c-f48221632ff26436b1fa283f480a0146]: Textual amendment: Pt. 2 omitted (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [93](https://www.legislation.gov.uk/uksi/2018/1253/article/93) (with [arts. 39-83](https://www.legislation.gov.uk/uksi/2018/1253/article/39), [106](https://www.legislation.gov.uk/uksi/2018/1253/article/106), [108](https://www.legislation.gov.uk/uksi/2018/1253/article/108))
 
 [^c2082255]: Subordinate legislation: [S. 16(1)](https://www.legislation.gov.uk/ukpga/2006/29/section/16/1) power partly exercised: 1.12.2006 appointed for specified provisions by {[S.I. 2006/3005](https://www.legislation.gov.uk/uksi/2006/3005)}, art. 3; 23.1.2007 for specified provisions by {[S.I. 2007/94](https://www.legislation.gov.uk/uksi/2007/94)}, art. 3; 23.4.2007 for specified provisions by {[S.I. 2007/922](https://www.legislation.gov.uk/uksi/2007/922)}, art. 3
 
-[^key-08aa405e3aae0ab59c050d9437170d3c]: Textual amendment: Sch. para. 7(1): renumbered (21.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 140(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/140/2), [148(3)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/3); [S.I. 2014/772](https://www.legislation.gov.uk/uksi/2014/772), [art. 2](https://www.legislation.gov.uk/uksi/2014/772/article/2)
+[^c-08aa405e3aae0ab59c050d9437170d3c]: Textual amendment: Sch. para. 7(1): renumbered (21.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 140(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/140/2), [148(3)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/3); [S.I. 2014/772](https://www.legislation.gov.uk/uksi/2014/772), [art. 2](https://www.legislation.gov.uk/uksi/2014/772/article/2)
 
-[^key-da5c7fb4ae6c41672293043d02d4a92c]: Textual amendment: Sch. para. 7(2) inserted (21.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 140(3)](https://www.legislation.gov.uk/ukpga/2013/33/section/140/3), [148(3)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/3); [S.I. 2014/772](https://www.legislation.gov.uk/uksi/2014/772), [art. 2](https://www.legislation.gov.uk/uksi/2014/772/article/2)
+[^c-da5c7fb4ae6c41672293043d02d4a92c]: Textual amendment: Sch. para. 7(2) inserted (21.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 140(3)](https://www.legislation.gov.uk/ukpga/2013/33/section/140/3), [148(3)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/3); [S.I. 2014/772](https://www.legislation.gov.uk/uksi/2014/772), [art. 2](https://www.legislation.gov.uk/uksi/2014/772/article/2)
 
-[^key-a6d6174b1bcc9c65fe76e62939d27e54]: Textual amendment: Sch. para. 8(2)(b)(ia) inserted (21.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 139(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/139/2), [148(3)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/3); [S.I. 2014/772](https://www.legislation.gov.uk/uksi/2014/772), [art. 2](https://www.legislation.gov.uk/uksi/2014/772/article/2)
+[^c-a6d6174b1bcc9c65fe76e62939d27e54]: Textual amendment: Sch. para. 8(2)(b)(ia) inserted (21.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 139(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/139/2), [148(3)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/3); [S.I. 2014/772](https://www.legislation.gov.uk/uksi/2014/772), [art. 2](https://www.legislation.gov.uk/uksi/2014/772/article/2)
 
-[^key-fbb10db39710b6028f81b279d9dfb630]: Textual amendment: Sch. para. 9(2)(b)(ia) inserted (21.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 139(3)](https://www.legislation.gov.uk/ukpga/2013/33/section/139/3), [148(3)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/3); [S.I. 2014/772](https://www.legislation.gov.uk/uksi/2014/772), [art. 2](https://www.legislation.gov.uk/uksi/2014/772/article/2)
+[^c-fbb10db39710b6028f81b279d9dfb630]: Textual amendment: Sch. para. 9(2)(b)(ia) inserted (21.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 139(3)](https://www.legislation.gov.uk/ukpga/2013/33/section/139/3), [148(3)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/3); [S.I. 2014/772](https://www.legislation.gov.uk/uksi/2014/772), [art. 2](https://www.legislation.gov.uk/uksi/2014/772/article/2)
 
-[^key-5d74fcbcb06ef714e522c919d2af9e80]: Textual amendment: Sch. para. 10(3) inserted (21.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 139(4)](https://www.legislation.gov.uk/ukpga/2013/33/section/139/4), [148(3)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/3); [S.I. 2014/772](https://www.legislation.gov.uk/uksi/2014/772), [art. 2](https://www.legislation.gov.uk/uksi/2014/772/article/2)
+[^c-5d74fcbcb06ef714e522c919d2af9e80]: Textual amendment: Sch. para. 10(3) inserted (21.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 139(4)](https://www.legislation.gov.uk/ukpga/2013/33/section/139/4), [148(3)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/3); [S.I. 2014/772](https://www.legislation.gov.uk/uksi/2014/772), [art. 2](https://www.legislation.gov.uk/uksi/2014/772/article/2)
 
-[^key-24e76825c6e8a502b9e6d4573834bbcb]: Textual amendment: Words in Sch. para. 11(2)(b) inserted (21.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 139(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/139/5), [148(3)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/3); [S.I. 2014/772](https://www.legislation.gov.uk/uksi/2014/772), [art. 2](https://www.legislation.gov.uk/uksi/2014/772/article/2)
+[^c-24e76825c6e8a502b9e6d4573834bbcb]: Textual amendment: Words in Sch. para. 11(2)(b) inserted (21.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 139(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/139/5), [148(3)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/3); [S.I. 2014/772](https://www.legislation.gov.uk/uksi/2014/772), [art. 2](https://www.legislation.gov.uk/uksi/2014/772/article/2)
 
 [^c2082684]: Textual amendment: Words in Sch. para. 14(2) substituted (30.6.2008) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 187](https://www.legislation.gov.uk/ukpga/2007/29/section/187), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 19 para. 11(6)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/19/paragraph/11/6) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2008/1436](https://www.legislation.gov.uk/uksi/2008/1436), [art. 2(e)](https://www.legislation.gov.uk/uksi/2008/1436/article/2/e)
 
-[^key-a95b48a814157014a1f72c016e6a322f]: Textual amendment: Words in Sch. para. 14(4) substituted (21.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 139(6)](https://www.legislation.gov.uk/ukpga/2013/33/section/139/6), [148(3)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/3); [S.I. 2014/772](https://www.legislation.gov.uk/uksi/2014/772), [art. 2](https://www.legislation.gov.uk/uksi/2014/772/article/2)
+[^c-a95b48a814157014a1f72c016e6a322f]: Textual amendment: Words in Sch. para. 14(4) substituted (21.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 139(6)](https://www.legislation.gov.uk/ukpga/2013/33/section/139/6), [148(3)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/3); [S.I. 2014/772](https://www.legislation.gov.uk/uksi/2014/772), [art. 2](https://www.legislation.gov.uk/uksi/2014/772/article/2)
 
-[^key-1b5e5d5ee60856097aeb658fa11e7fd6]: Textual amendment: Sch. para. 16 inserted (21.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 139(7)](https://www.legislation.gov.uk/ukpga/2013/33/section/139/7), [148(3)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/3); [S.I. 2014/772](https://www.legislation.gov.uk/uksi/2014/772), [art. 2](https://www.legislation.gov.uk/uksi/2014/772/article/2)
+[^c-1b5e5d5ee60856097aeb658fa11e7fd6]: Textual amendment: Sch. para. 16 inserted (21.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 139(7)](https://www.legislation.gov.uk/ukpga/2013/33/section/139/7), [148(3)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/3); [S.I. 2014/772](https://www.legislation.gov.uk/uksi/2014/772), [art. 2](https://www.legislation.gov.uk/uksi/2014/772/article/2)

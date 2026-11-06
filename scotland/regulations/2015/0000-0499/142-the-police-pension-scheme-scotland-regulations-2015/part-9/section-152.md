@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 152. Amount of lump sum death grant payable on death of pension credit member[^key-e103c9a4660fb6e904f4a97ec7154f71]
+## 152. Amount of lump sum death grant payable on death of pension credit member[^c-e103c9a4660fb6e904f4a97ec7154f71]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ where—
 
 ## Annotations
 
-[^key-e103c9a4660fb6e904f4a97ec7154f71]: Commencement: Reg. 152 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-e103c9a4660fb6e904f4a97ec7154f71]: Commencement: Reg. 152 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

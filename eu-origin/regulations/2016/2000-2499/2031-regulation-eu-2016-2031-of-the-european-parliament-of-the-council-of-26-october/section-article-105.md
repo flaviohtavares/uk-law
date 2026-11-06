@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 105. Regulations[^key-455de2f9b6a36ab7592aebd6b62b1ba0]
+## Article 105. Regulations[^c-455de2f9b6a36ab7592aebd6b62b1ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-455de2f9b6a36ab7592aebd6b62b1ba0]: Textual amendment: [Art. 105](https://www.legislation.gov.uk/eur/2016/2031/article/105) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [33(1)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/33/1) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-455de2f9b6a36ab7592aebd6b62b1ba0]: Textual amendment: [Art. 105](https://www.legislation.gov.uk/eur/2016/2031/article/105) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [33(1)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/33/1) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

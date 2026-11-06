@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.11.7. Notice of date and place of trial[^key-fe016f310739ded1254fbad2b1b5f6fa][^key-1698744693821678bc3de5257755b66c]
+## 3.11.7. Notice of date and place of trial[^c-fe016f310739ded1254fbad2b1b5f6fa][^c-1698744693821678bc3de5257755b66c]
 
 *Extent: S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fe016f310739ded1254fbad2b1b5f6fa]: Commencement: Rule 3.11.7 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-fe016f310739ded1254fbad2b1b5f6fa]: Commencement: Rule 3.11.7 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
 
-[^key-1698744693821678bc3de5257755b66c]: Modification: Rule 3.11.7 modified (1.12.2025) by [Act of Sederunt (Intimation and Service) 2025 (S.S.I. 2025/301)](https://www.legislation.gov.uk/ssi/2025/301), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2025/301/paragraph/1/2), [5](https://www.legislation.gov.uk/ssi/2025/301/paragraph/5) (with [para. 1(4)](https://www.legislation.gov.uk/ssi/2025/301/paragraph/1/4), [(5)](https://www.legislation.gov.uk/ssi/2025/301/paragraph/1/5))
+[^c-1698744693821678bc3de5257755b66c]: Modification: Rule 3.11.7 modified (1.12.2025) by [Act of Sederunt (Intimation and Service) 2025 (S.S.I. 2025/301)](https://www.legislation.gov.uk/ssi/2025/301), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2025/301/paragraph/1/2), [5](https://www.legislation.gov.uk/ssi/2025/301/paragraph/5) (with [para. 1(4)](https://www.legislation.gov.uk/ssi/2025/301/paragraph/1/4), [(5)](https://www.legislation.gov.uk/ssi/2025/301/paragraph/1/5))

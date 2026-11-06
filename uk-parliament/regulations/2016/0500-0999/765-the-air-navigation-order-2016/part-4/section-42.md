@@ -24,7 +24,7 @@ summary: ''
 
 - (a) must not fly for the purpose of public transport or commercial air transport; and
 - (b) must not fly without the permission of the CAA—
-  - (i)[^key-2fe134bb9363f35efcc2bdca8c362109] for commercial operation other than commercial operation which consists of an aircraft flying for the purpose of a flying display, associated practice for a flying display, test and positioning flights or the exhibition or demonstration of the aircraft;
+  - (i)[^c-2fe134bb9363f35efcc2bdca8c362109] for commercial operation other than commercial operation which consists of an aircraft flying for the purpose of a flying display, associated practice for a flying display, test and positioning flights or the exhibition or demonstration of the aircraft;
   - (ii) at night or in accordance with Instrument Flight Rules; or
   - (iii) for hire.
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2fe134bb9363f35efcc2bdca8c362109]: Textual amendment: [Art. 42(1)(b)(i)](https://www.legislation.gov.uk/uksi/2016/765/article/42/1/b/i) substituted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [13](https://www.legislation.gov.uk/uksi/2017/1112/article/13)
+[^c-2fe134bb9363f35efcc2bdca8c362109]: Textual amendment: [Art. 42(1)(b)(i)](https://www.legislation.gov.uk/uksi/2016/765/article/42/1/b/i) substituted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [13](https://www.legislation.gov.uk/uksi/2017/1112/article/13)

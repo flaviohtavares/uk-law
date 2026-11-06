@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law, England And Wales
 
-The Crime and Disorder Act 1998 (Youth Conditional Cautions: Financial Penalties) Order 2009 (revoked)[^key-547ebe6d346ddd212046ad46814f36ab]
+The Crime and Disorder Act 1998 (Youth Conditional Cautions: Financial Penalties) Order 2009 (revoked)[^c-547ebe6d346ddd212046ad46814f36ab]
 
 Made
 
@@ -46,29 +46,29 @@ Coming into force
 
 16th November 2009
 
-[^key-547ebe6d346ddd212046ad46814f36ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-547ebe6d346ddd212046ad46814f36ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-547ebe6d346ddd212046ad46814f36ab]
+## 1. Citation, commencement and interpretation[^c-547ebe6d346ddd212046ad46814f36ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Prescribed offences and financial penalties[^key-547ebe6d346ddd212046ad46814f36ab]
+## 2. Prescribed offences and financial penalties[^c-547ebe6d346ddd212046ad46814f36ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-547ebe6d346ddd212046ad46814f36ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-547ebe6d346ddd212046ad46814f36ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Prescribed offences and description of offences (including attempts)[^key-547ebe6d346ddd212046ad46814f36ab]
+## SCHEDULE 1 — Prescribed offences and description of offences (including attempts)[^c-547ebe6d346ddd212046ad46814f36ab]
 
 Article 2(1), (2) and (3)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Prescribed offences and description of offences[^key-547ebe6d346ddd212046ad46814f36ab]
+## SCHEDULE 2 — Prescribed offences and description of offences[^c-547ebe6d346ddd212046ad46814f36ab]
 
 Article 2(1) and (4)
 
@@ -76,8 +76,8 @@ Article 2(1) and (4)
 
 **May not be in force at this date. Check the source.**
 
-[^key-547ebe6d346ddd212046ad46814f36ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-547ebe6d346ddd212046ad46814f36ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-547ebe6d346ddd212046ad46814f36ab]: Textual amendment: Order revoked (8.4.2013) by [The Crime and Disorder Act 1998 (Youth Conditional Cautions: Financial Penalties) Order 2013 (S.I. 2013/608)](https://www.legislation.gov.uk/uksi/2013/608), [arts. 1](https://www.legislation.gov.uk/uksi/2013/608/article/1), [3](https://www.legislation.gov.uk/uksi/2013/608/article/3)
+[^c-547ebe6d346ddd212046ad46814f36ab]: Textual amendment: Order revoked (8.4.2013) by [The Crime and Disorder Act 1998 (Youth Conditional Cautions: Financial Penalties) Order 2013 (S.I. 2013/608)](https://www.legislation.gov.uk/uksi/2013/608), [arts. 1](https://www.legislation.gov.uk/uksi/2013/608/article/1), [3](https://www.legislation.gov.uk/uksi/2013/608/article/3)

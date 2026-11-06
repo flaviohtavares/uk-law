@@ -102,11 +102,11 @@ Sections 261 to 263.
 - Schedule 16 paragraphs 1, 2 and 4 to 11.
 - Any other provisions of the planning Acts in so far as they apply, or have effect for the purposes of, any of the provisions specified above.
 
-### Part II — Provisions referred to in section 263(1)[^key-8fb4208193c59bacfa456de2a63526e1]
+### Part II — Provisions referred to in section 263(1)[^c-8fb4208193c59bacfa456de2a63526e1]
 
 **No longer in force.**
 
-[^key-8fb4208193c59bacfa456de2a63526e1]
+[^c-8fb4208193c59bacfa456de2a63526e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1359,4 +1359,4 @@ This Table shows the derivation of the provisions of the Bill.
 
 ## Annotations
 
-[^key-8fb4208193c59bacfa456de2a63526e1]: Textual amendment: [Sch. 18 Pt. II](https://www.legislation.gov.uk/ukpga/1997/8/schedule/18/part/II) repealed (1.4.2007) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [s. 59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2), [sch.](https://www.legislation.gov.uk/asp/2006/17/schedule); [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-8fb4208193c59bacfa456de2a63526e1]: Textual amendment: [Sch. 18 Pt. II](https://www.legislation.gov.uk/ukpga/1997/8/schedule/18/part/II) repealed (1.4.2007) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [s. 59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2), [sch.](https://www.legislation.gov.uk/asp/2006/17/schedule); [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)

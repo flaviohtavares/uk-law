@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Notification of outcome[^key-2c6bcf30d39a4f4d82f59a01bc45ea54]
+## 63. Notification of outcome[^c-2c6bcf30d39a4f4d82f59a01bc45ea54]
 
 *Extent: E+W*
 
-(1) Subject to paragraph (1B),[^key-376db03c28a057eb5efc3fec260b8ceb] the person conducting or chairing the accelerated misconduct hearing must, before the end of a period of 5 working days beginning with the first working day after the completion of the accelerated misconduct hearing, submit a report to the appropriate authority, setting out—
+(1) Subject to paragraph (1B),[^c-376db03c28a057eb5efc3fec260b8ceb] the person conducting or chairing the accelerated misconduct hearing must, before the end of a period of 5 working days beginning with the first working day after the completion of the accelerated misconduct hearing, submit a report to the appropriate authority, setting out—
 
 - (a) the finding of the person or persons conducting the accelerated misconduct hearing;
 - (b) the reasons for that finding;
-- (c) any disciplinary action imposed; and[^key-ef9c4689eef9e27073ee3009516d3a98]
-- (d)[^key-7d1d062ee327e7ff01319e14ae7a0340] where it was found that the conduct of the officer concerned amounted to gross misconduct but the disciplinary action imposed was not dismissal without notice, the reasons for that decision.
+- (c) any disciplinary action imposed; and[^c-ef9c4689eef9e27073ee3009516d3a98]
+- (d)[^c-7d1d062ee327e7ff01319e14ae7a0340] where it was found that the conduct of the officer concerned amounted to gross misconduct but the disciplinary action imposed was not dismissal without notice, the reasons for that decision.
 
-(1A)[^key-58538e75d118ff42c9434acc16083023] The person chairing the accelerated misconduct hearing under regulation 55(4) may require the legally qualified person appointed under regulation 55(4A) to provide advice in respect of legal and procedural issues relating to the report under paragraph (1).
+(1A)[^c-58538e75d118ff42c9434acc16083023] The person chairing the accelerated misconduct hearing under regulation 55(4) may require the legally qualified person appointed under regulation 55(4A) to provide advice in respect of legal and procedural issues relating to the report under paragraph (1).
 
 (1B) The person chairing the accelerated misconduct hearing under regulation 55(4) may delegate responsibility for preparing the report under paragraph (1) to the legally qualified person appointed under regulation 55(4A).
 
@@ -48,9 +48,9 @@ summary: ''
 
 - (a) the Director General, in any case where the Director General—
   - (i) presented the case, or
-  - (ii) was entitled to attend to make representations under regulation 58(1), [^key-5640ba4f12e6d30ec4dbd8a9654dfb3e]...
-- (b) the complainant and any interested person, in any case to which regulation 60 applies, and[^key-8c9a9566171269035d551c7ef6cb9dc8]
-- (c)[^key-d6ff716f85c9a9254d350f653f9add20] where the person conducting the accelerated misconduct hearing found that the conduct of the officer concerned amounted to gross misconduct but the disciplinary action imposed was not dismissal without notice, the local policing body.
+  - (ii) was entitled to attend to make representations under regulation 58(1), [^c-5640ba4f12e6d30ec4dbd8a9654dfb3e]...
+- (b) the complainant and any interested person, in any case to which regulation 60 applies, and[^c-8c9a9566171269035d551c7ef6cb9dc8]
+- (c)[^c-d6ff716f85c9a9254d350f653f9add20] where the person conducting the accelerated misconduct hearing found that the conduct of the officer concerned amounted to gross misconduct but the disciplinary action imposed was not dismissal without notice, the local policing body.
 
 (5) Subject to the harm test and paragraph (9), the person conducting or chairing the accelerated misconduct hearing must require the appropriate authority to publish the report submitted under paragraph (1).
 
@@ -80,18 +80,18 @@ summary: ''
 
 ## Annotations
 
-[^key-2c6bcf30d39a4f4d82f59a01bc45ea54]: Commencement: Reg. 63 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-2c6bcf30d39a4f4d82f59a01bc45ea54]: Commencement: Reg. 63 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-376db03c28a057eb5efc3fec260b8ceb]: Textual amendment: Words in [reg. 63(1)](https://www.legislation.gov.uk/uksi/2020/4/regulation/63/1) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(14)(a)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/14/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-376db03c28a057eb5efc3fec260b8ceb]: Textual amendment: Words in [reg. 63(1)](https://www.legislation.gov.uk/uksi/2020/4/regulation/63/1) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(14)(a)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/14/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
 
-[^key-ef9c4689eef9e27073ee3009516d3a98]: Textual amendment: Word in [reg. 63(1)(c)](https://www.legislation.gov.uk/uksi/2020/4/regulation/63/1/c) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [5(4)(a)(i)](https://www.legislation.gov.uk/uksi/2024/521/regulation/5/4/a/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-ef9c4689eef9e27073ee3009516d3a98]: Textual amendment: Word in [reg. 63(1)(c)](https://www.legislation.gov.uk/uksi/2020/4/regulation/63/1/c) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [5(4)(a)(i)](https://www.legislation.gov.uk/uksi/2024/521/regulation/5/4/a/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
 
-[^key-7d1d062ee327e7ff01319e14ae7a0340]: Textual amendment: Reg. 63(1)(d) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [5(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/521/regulation/5/4/a/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-7d1d062ee327e7ff01319e14ae7a0340]: Textual amendment: Reg. 63(1)(d) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [5(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/521/regulation/5/4/a/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
 
-[^key-58538e75d118ff42c9434acc16083023]: Textual amendment: Reg. 63(1A)-(1D) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(14)(b)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/14/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-58538e75d118ff42c9434acc16083023]: Textual amendment: Reg. 63(1A)-(1D) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(14)(b)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/14/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
 
-[^key-5640ba4f12e6d30ec4dbd8a9654dfb3e]: Textual amendment: Word in [reg. 63(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/4/regulation/63/4/a/ii) omitted (7.5.2024) by virtue of [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [5(4)(b)(i)](https://www.legislation.gov.uk/uksi/2024/521/regulation/5/4/b/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-5640ba4f12e6d30ec4dbd8a9654dfb3e]: Textual amendment: Word in [reg. 63(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/4/regulation/63/4/a/ii) omitted (7.5.2024) by virtue of [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [5(4)(b)(i)](https://www.legislation.gov.uk/uksi/2024/521/regulation/5/4/b/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
 
-[^key-8c9a9566171269035d551c7ef6cb9dc8]: Textual amendment: Word in [reg. 63(4)(b)](https://www.legislation.gov.uk/uksi/2020/4/regulation/63/4/b) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [5(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/521/regulation/5/4/b/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-8c9a9566171269035d551c7ef6cb9dc8]: Textual amendment: Word in [reg. 63(4)(b)](https://www.legislation.gov.uk/uksi/2020/4/regulation/63/4/b) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [5(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/521/regulation/5/4/b/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
 
-[^key-d6ff716f85c9a9254d350f653f9add20]: Textual amendment: Reg. 63(4)(c) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [5(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/521/regulation/5/4/b/iii) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-d6ff716f85c9a9254d350f653f9add20]: Textual amendment: Reg. 63(4)(c) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [5(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/521/regulation/5/4/b/iii) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))

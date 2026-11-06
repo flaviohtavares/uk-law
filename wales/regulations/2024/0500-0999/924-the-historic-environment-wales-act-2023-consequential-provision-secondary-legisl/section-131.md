@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**131.**[^key-a6b15d8e83ab5686cbaa4e1f4ad94c46] In regulation 9—
+**131.**[^c-a6b15d8e83ab5686cbaa4e1f4ad94c46] In regulation 9—
 
 - (a) in paragraph (1)—
   - (i) in the words before sub-paragraph (a), for “section 2D(5)(c) of the 1990 Act” substitute “section 82(2)(c) of the 2023 Act”;
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6b15d8e83ab5686cbaa4e1f4ad94c46]: Commencement: [Reg. 131](https://www.legislation.gov.uk/wsi/2024/924/regulation/131) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-a6b15d8e83ab5686cbaa4e1f4ad94c46]: Commencement: [Reg. 131](https://www.legislation.gov.uk/wsi/2024/924/regulation/131) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

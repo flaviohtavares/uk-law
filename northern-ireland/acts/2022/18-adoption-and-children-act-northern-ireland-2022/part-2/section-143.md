@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 143. Report on the operation of the Children Order[^key-f08e400df4040f27698927449584369a][^key-b82dabd6c57b02abd1ff2bac1c09c06d]
+## 143. Report on the operation of the Children Order[^c-f08e400df4040f27698927449584369a][^c-b82dabd6c57b02abd1ff2bac1c09c06d]
 
 *Extent: N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f08e400df4040f27698927449584369a]: Commencement: S. 143 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-f08e400df4040f27698927449584369a]: Commencement: S. 143 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-b82dabd6c57b02abd1ff2bac1c09c06d]: Commencement: [S. 143](https://www.legislation.gov.uk/nia/2022/18/section/143) in operation at 1.4.2024 by [S.R. 2024/30](https://www.legislation.gov.uk/nisr/2024/30), [art. 2(1)(d)](https://www.legislation.gov.uk/nisr/2024/30/article/2/1/d)
+[^c-b82dabd6c57b02abd1ff2bac1c09c06d]: Commencement: [S. 143](https://www.legislation.gov.uk/nia/2022/18/section/143) in operation at 1.4.2024 by [S.R. 2024/30](https://www.legislation.gov.uk/nisr/2024/30), [art. 2(1)(d)](https://www.legislation.gov.uk/nisr/2024/30/article/2/1/d)

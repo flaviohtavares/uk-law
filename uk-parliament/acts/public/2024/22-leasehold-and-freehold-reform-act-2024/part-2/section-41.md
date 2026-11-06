@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. References to “the court” in Part 1 of the LRA 1967[^key-0a7340a533df5b10b2bef148af3549b5]
+## 41. References to “the court” in Part 1 of the LRA 1967[^c-0a7340a533df5b10b2bef148af3549b5]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a7340a533df5b10b2bef148af3549b5]: Commencement: S. 41 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-0a7340a533df5b10b2bef148af3549b5]: Commencement: S. 41 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 86. Requirement to give information and documents to duty holder[^key-020fcfcab4d723b6b35e75e797803841]
+## 86. Requirement to give information and documents to duty holder[^c-020fcfcab4d723b6b35e75e797803841]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-020fcfcab4d723b6b35e75e797803841]: Commencement: S. 86 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-020fcfcab4d723b6b35e75e797803841]: Commencement: S. 86 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

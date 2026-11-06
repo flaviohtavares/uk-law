@@ -30,32 +30,32 @@ summary: ''
   - (ii) a connected person; or
   - (iii) where SROCs are issued to an agent by virtue of article 35, that agent,
 
-  the Authority may[^key-96729033eb1191ba89267ea614029d4d] revoke all SROCs issued in respect of that electricity in that month.
+  the Authority may[^c-96729033eb1191ba89267ea614029d4d] revoke all SROCs issued in respect of that electricity in that month.
 
-(3)[^key-e2764e23590d0055ac789b133edc6624] The Authority must revoke any SROC which it has issued where the SROC certifies the matters within section 32B(4) or (6) of the Act and the Northern Ireland authority has notified the Authority that it is not satisfied that the electricity in respect of which the SROC was issued has been supplied to customers in Northern Ireland.
+(3)[^c-e2764e23590d0055ac789b133edc6624] The Authority must revoke any SROC which it has issued where the SROC certifies the matters within section 32B(4) or (6) of the Act and the Northern Ireland authority has notified the Authority that it is not satisfied that the electricity in respect of which the SROC was issued has been supplied to customers in Northern Ireland.
 
 (4) Where the Authority–
 
-- (a) is no longer satisfied that a SROC is accurate or[^key-df1a42b319b11c5489c9d8e9a4f3ee16] should have been issued;
+- (a) is no longer satisfied that a SROC is accurate or[^c-df1a42b319b11c5489c9d8e9a4f3ee16] should have been issued;
 - (b) has reasonable doubts as to the accuracy or reliability of the information upon which it relied prior to the issue of a SROC; or
 - (c) has been unable, due to a failure or refusal by any person (whether inside or outside Scotland) to provide it with any information reasonably requested by it, to check the accuracy of either a SROC or any information which it relied upon prior to the issue of a SROC,
 
 it may revoke the SROC (or another SROC which is identical in all material respects and which has been issued to the same person).
 
-(5)[^key-2e2ff309bc7a040db3edaf3a7fb3d9da] In determining whether to revoke a SROC under paragraph (3) or (4), the Authority may disregard any changes to the amounts for RO input electricity (within the meaning of article 23A), RO output electricity (within the meaning of article 23A), total input electricity and total output electricity which were used by it to determine a generating station’s RO eligible renewable output in a month if satisfied that, in all the circumstances, it is reasonable for it to do so.
+(5)[^c-2e2ff309bc7a040db3edaf3a7fb3d9da] In determining whether to revoke a SROC under paragraph (3) or (4), the Authority may disregard any changes to the amounts for RO input electricity (within the meaning of article 23A), RO output electricity (within the meaning of article 23A), total input electricity and total output electricity which were used by it to determine a generating station’s RO eligible renewable output in a month if satisfied that, in all the circumstances, it is reasonable for it to do so.
 
 (6) Where the Authority revokes a SROC it must delete that SROC from the Register and as soon as reasonably practicable afterwards give notice in writing of such revocation to the person who was the registered holder of the SROC at the time of its revocation.
 
-(7)[^key-e3b0be23997ef2b3b4c06ea22ed8b576] This article is subject to article 41A(2) to (4).
+(7)[^c-e3b0be23997ef2b3b4c06ea22ed8b576] This article is subject to article 41A(2) to (4).
 
 ## Annotations
 
-[^key-96729033eb1191ba89267ea614029d4d]: Textual amendment: Word in art. 41(2) substituted (1.4.2010) by [The Renewables Obligation (Scotland) Amendment Order 2010 (S.S.I. 2010/147)](https://www.legislation.gov.uk/ssi/2010/147), [arts. 1](https://www.legislation.gov.uk/ssi/2010/147/article/1), [10(a)](https://www.legislation.gov.uk/ssi/2010/147/article/10/a) (with [art. 17](https://www.legislation.gov.uk/ssi/2010/147/article/17))
+[^c-96729033eb1191ba89267ea614029d4d]: Textual amendment: Word in art. 41(2) substituted (1.4.2010) by [The Renewables Obligation (Scotland) Amendment Order 2010 (S.S.I. 2010/147)](https://www.legislation.gov.uk/ssi/2010/147), [arts. 1](https://www.legislation.gov.uk/ssi/2010/147/article/1), [10(a)](https://www.legislation.gov.uk/ssi/2010/147/article/10/a) (with [art. 17](https://www.legislation.gov.uk/ssi/2010/147/article/17))
 
-[^key-e2764e23590d0055ac789b133edc6624]: Textual amendment: Art. 41(3) substituted (1.4.2010) by [The Renewables Obligation (Scotland) Amendment Order 2010 (S.S.I. 2010/147)](https://www.legislation.gov.uk/ssi/2010/147), [arts. 1](https://www.legislation.gov.uk/ssi/2010/147/article/1), [10(b)](https://www.legislation.gov.uk/ssi/2010/147/article/10/b) (with [art. 17](https://www.legislation.gov.uk/ssi/2010/147/article/17))
+[^c-e2764e23590d0055ac789b133edc6624]: Textual amendment: Art. 41(3) substituted (1.4.2010) by [The Renewables Obligation (Scotland) Amendment Order 2010 (S.S.I. 2010/147)](https://www.legislation.gov.uk/ssi/2010/147), [arts. 1](https://www.legislation.gov.uk/ssi/2010/147/article/1), [10(b)](https://www.legislation.gov.uk/ssi/2010/147/article/10/b) (with [art. 17](https://www.legislation.gov.uk/ssi/2010/147/article/17))
 
-[^key-df1a42b319b11c5489c9d8e9a4f3ee16]: Textual amendment: Words in art. 41(4)(a) inserted (1.4.2010) by [The Renewables Obligation (Scotland) Amendment Order 2010 (S.S.I. 2010/147)](https://www.legislation.gov.uk/ssi/2010/147), [arts. 1](https://www.legislation.gov.uk/ssi/2010/147/article/1), [10(c)](https://www.legislation.gov.uk/ssi/2010/147/article/10/c) (with [art. 17](https://www.legislation.gov.uk/ssi/2010/147/article/17))
+[^c-df1a42b319b11c5489c9d8e9a4f3ee16]: Textual amendment: Words in art. 41(4)(a) inserted (1.4.2010) by [The Renewables Obligation (Scotland) Amendment Order 2010 (S.S.I. 2010/147)](https://www.legislation.gov.uk/ssi/2010/147), [arts. 1](https://www.legislation.gov.uk/ssi/2010/147/article/1), [10(c)](https://www.legislation.gov.uk/ssi/2010/147/article/10/c) (with [art. 17](https://www.legislation.gov.uk/ssi/2010/147/article/17))
 
-[^key-2e2ff309bc7a040db3edaf3a7fb3d9da]: Textual amendment: [Art. 41(5)](https://www.legislation.gov.uk/ssi/2009/140/article/41/5) substituted (1.4.2014) by [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [14](https://www.legislation.gov.uk/ssi/2014/94/article/14) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))
+[^c-2e2ff309bc7a040db3edaf3a7fb3d9da]: Textual amendment: [Art. 41(5)](https://www.legislation.gov.uk/ssi/2009/140/article/41/5) substituted (1.4.2014) by [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [14](https://www.legislation.gov.uk/ssi/2014/94/article/14) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))
 
-[^key-e3b0be23997ef2b3b4c06ea22ed8b576]: Textual amendment: Art. 41(7) inserted (1.4.2010) by [The Renewables Obligation (Scotland) Amendment Order 2010 (S.S.I. 2010/147)](https://www.legislation.gov.uk/ssi/2010/147), [arts. 1](https://www.legislation.gov.uk/ssi/2010/147/article/1), [10(d)](https://www.legislation.gov.uk/ssi/2010/147/article/10/d) (with [art. 17](https://www.legislation.gov.uk/ssi/2010/147/article/17))
+[^c-e3b0be23997ef2b3b4c06ea22ed8b576]: Textual amendment: Art. 41(7) inserted (1.4.2010) by [The Renewables Obligation (Scotland) Amendment Order 2010 (S.S.I. 2010/147)](https://www.legislation.gov.uk/ssi/2010/147), [arts. 1](https://www.legislation.gov.uk/ssi/2010/147/article/1), [10(d)](https://www.legislation.gov.uk/ssi/2010/147/article/10/d) (with [art. 17](https://www.legislation.gov.uk/ssi/2010/147/article/17))

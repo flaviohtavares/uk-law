@@ -43,19 +43,19 @@ Coming into force
 
 3 August 2015
 
-The Welsh Ministers make the following Regulations in exercise of the powers conferred by sections 6(4)[^f00001], 16(1)(a) and (e)[^f00002], 17(1)[^f00003], 26(1) and (3)[^f00004] and 48(1)[^f00005] of the Food Safety Act 1990 and now vested in the Welsh Ministers[^f00006], having had regard to relevant advice given by the Food Standards Agency in accordance with section 48(4A)[^f00007] of the Food Safety Act 1990.[^key-27ce9942fc8d55486a63a8cfdb9881bb]
+The Welsh Ministers make the following Regulations in exercise of the powers conferred by sections 6(4)[^f00001], 16(1)(a) and (e)[^f00002], 17(1)[^f00003], 26(1) and (3)[^f00004] and 48(1)[^f00005] of the Food Safety Act 1990 and now vested in the Welsh Ministers[^f00006], having had regard to relevant advice given by the Food Standards Agency in accordance with section 48(4A)[^f00007] of the Food Safety Act 1990.[^c-27ce9942fc8d55486a63a8cfdb9881bb]
 
-There has been consultation, as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00008], during the preparation and evaluation of the following Regulations.[^key-27ce9942fc8d55486a63a8cfdb9881bb]
+There has been consultation, as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00008], during the preparation and evaluation of the following Regulations.[^c-27ce9942fc8d55486a63a8cfdb9881bb]
 
 ## PART 1 — Introduction
 
-### 1. Title, commencement and application[^key-0e479bf2ac1a2b333eeb05b3633fc96a]
+### 1. Title, commencement and application[^c-0e479bf2ac1a2b333eeb05b3633fc96a]
 
 (1) The title of these Regulations is the Honey (Wales) Regulations 2015.
 
 (2) These Regulations come into force on 3 August 2015 and apply in relation to Wales.
 
-### 2. Definition of “honey” and different types of honey[^key-3da69b6db3f9849d524f8b849d6db35b]
+### 2. Definition of “honey” and different types of honey[^c-3da69b6db3f9849d524f8b849d6db35b]
 
 (1) In these Regulations “honey” (“*mêl*”) means the natural sweet substance produced by *Apis mellifera* bees from the nectar of plants or from secretions of living parts of plants or excretions of plant-sucking insects on the living parts of plants which the bees collect, transform by combining with specific substances of their own, deposit, dehydrate, store and leave in honeycombs to ripen and mature.
 
@@ -71,7 +71,7 @@ There has been consultation, as required by Article 9 of Regulation [(EC) No 178
 - “honeydew honey” (“*mêl melwlith*”) means honey obtained mainly from excretions of plant sucking insects (*Hemiptera*) on the living part of plants or secretions of living parts of plants;
 - “pressed honey” (“*mêl wedi ei wasgu*”) means honey obtained by pressing broodless combs with or without the application of moderate heat not exceeding 45° Celsius.
 
-### 3. General interpretation[^key-f7ceb409591834d2de866c9d7944a482]
+### 3. General interpretation[^c-f7ceb409591834d2de866c9d7944a482]
 
 (1) In these Regulations—
 
@@ -91,7 +91,7 @@ There has been consultation, as required by Article 9 of Regulation [(EC) No 178
 
 (2) Any other expression used in both these Regulations and in the Honey Directive has the same meaning in these Regulations as in that Directive.
 
-### 4. Limited scope of specified provisions[^key-ee454bdf8f08c622924f9f3e86300b09]
+### 4. Limited scope of specified provisions[^c-ee454bdf8f08c622924f9f3e86300b09]
 
 (1) The following provisions only apply in relation to a product intended for supply to a final consumer or mass caterer—
 
@@ -106,13 +106,13 @@ There has been consultation, as required by Article 9 of Regulation [(EC) No 178
 - “final consumer” (“*defnyddiwr terfynol*”) has the meaning given in point 18 of Article 3 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00011];
 - “mass caterer” (“*arlwywr mawr*”) has the meaning given in Article 2(2)(d) of FIC.
 
-### 5. Application of requirements relating to product names[^key-c450d1dd038811261fde74079cabcbee]
+### 5. Application of requirements relating to product names[^c-c450d1dd038811261fde74079cabcbee]
 
 Where two or more provisions of these Regulations apply in determining the name to be used in respect of a particular honey, a person trading in that honey must use a name or combination name which complies with the requirements of each of those provisions.
 
 ## PART 2 — Product names and descriptions
 
-### 6. Honey[^key-b8a63f78598dec40c61cf6f0a2de086b]
+### 6. Honey[^c-b8a63f78598dec40c61cf6f0a2de086b]
 
 (1) A person trading in a honey, except a honey to which paragraph (2) applies, must use the name “honey” in trade as the name of the product.
 
@@ -134,7 +134,7 @@ Where two or more provisions of these Regulations apply in determining the name 
 
 (5) Nothing in paragraphs (1) or (4) prevents the name “honey” from being in any other language in addition to Welsh and English.
 
-### 7. Blossom honey and nectar honey[^key-28d39c47ddccf593df3641fb1b8e7dfc]
+### 7. Blossom honey and nectar honey[^c-28d39c47ddccf593df3641fb1b8e7dfc]
 
 (1) A person trading in honey obtained from the nectar of plants must use the name “honey”, “blossom honey” or “nectar honey” in trade as the name of the product.
 
@@ -144,7 +144,7 @@ Where two or more provisions of these Regulations apply in determining the name 
 
 (4) Nothing in paragraphs (1) or (3) prevents the name “honey”, “blossom honey” or “nectar honey” from being in any other language in addition to Welsh and English.
 
-### 8. Honeydew honey[^key-fabdbe732d18dea902daf5309a76b34a]
+### 8. Honeydew honey[^c-fabdbe732d18dea902daf5309a76b34a]
 
 (1) A person trading in a honeydew honey must use the name “honey” or “honeydew honey” in trade as the name of the product.
 
@@ -154,7 +154,7 @@ Where two or more provisions of these Regulations apply in determining the name 
 
 (4) Nothing in paragraphs (1) or (3) prevents the name “honey” or “honeydew honey” from being in any other language in addition to Welsh and English.
 
-### 9. Comb honey[^key-2e9e1d0ce98bbd3d869b9cfe842f1a4c]
+### 9. Comb honey[^c-2e9e1d0ce98bbd3d869b9cfe842f1a4c]
 
 (1) A person trading in a comb honey must use the name “comb honey” in trade as the name of the product.
 
@@ -164,7 +164,7 @@ Where two or more provisions of these Regulations apply in determining the name 
 
 (4) Nothing in paragraphs (1) or (3) prevents the name “comb honey” from being in any other language in addition to Welsh and English.
 
-### 10. Chunk honey and cut comb in honey[^key-7c4a57ed24630c4405bfdd2a6f40b62f]
+### 10. Chunk honey and cut comb in honey[^c-7c4a57ed24630c4405bfdd2a6f40b62f]
 
 (1) A person trading in a honey that contains one or more pieces of comb honey must use the name “chunk honey” or “cut comb in honey” in trade as the name of the product.
 
@@ -174,7 +174,7 @@ Where two or more provisions of these Regulations apply in determining the name 
 
 (4) Nothing in paragraphs (1) or (3) prevents the name “chunk honey” or “cut comb in honey” from being in any other language in addition to Welsh and English.
 
-### 11. Drained honey[^key-e3f0d0101fb51713b85fe2eb2f166a49]
+### 11. Drained honey[^c-e3f0d0101fb51713b85fe2eb2f166a49]
 
 (1) A person trading in drained honey must use the name “honey” or “drained honey” in trade as the name of the product.
 
@@ -184,7 +184,7 @@ Where two or more provisions of these Regulations apply in determining the name 
 
 (4) Nothing in paragraphs (1) or (3) prevents the name “honey” or “drained honey” from being in any other language in addition to Welsh and English.
 
-### 12. Extracted honey[^key-af846a178488e01d11b93cf04d6b587c]
+### 12. Extracted honey[^c-af846a178488e01d11b93cf04d6b587c]
 
 (1) A person trading in extracted honey must use the name “honey” or “extracted honey” in trade as the name of the product.
 
@@ -194,7 +194,7 @@ Where two or more provisions of these Regulations apply in determining the name 
 
 (4) Nothing in paragraphs (1) or (3) prevents the name “honey” or “extracted honey” from being in any other language in addition to Welsh and English.
 
-### 13. Pressed honey[^key-7313b299f4fdc1ddd960f1fdfef21beb]
+### 13. Pressed honey[^c-7313b299f4fdc1ddd960f1fdfef21beb]
 
 (1) A person trading in pressed honey must use the name “honey” or “pressed honey” in trade as the name of the product.
 
@@ -204,7 +204,7 @@ Where two or more provisions of these Regulations apply in determining the name 
 
 (4) Nothing in paragraphs (1) or (3) prevents the name “honey” or “pressed honey” from being in any other language in addition to Welsh and English.
 
-### 14. Filtered honey[^key-aba803c825da44af83ba25fc9752f670]
+### 14. Filtered honey[^c-aba803c825da44af83ba25fc9752f670]
 
 (1) A person trading in filtered honey must use the name “filtered honey” in trade as the name of the product.
 
@@ -223,7 +223,7 @@ Where two or more provisions of these Regulations apply in determining the name 
 
 (7) Nothing in paragraphs (1), (4), (5) or (6) prevents the name “filtered honey” from being in any other language in addition to Welsh and English.
 
-### 15. Baker’s honey[^key-786b66a8c748e5526b520cabf75145ec]
+### 15. Baker’s honey[^c-786b66a8c748e5526b520cabf75145ec]
 
 (1) A person trading in baker’s honey must use the name “baker’s honey” in trade as the name of the product.
 
@@ -256,7 +256,7 @@ Where two or more provisions of these Regulations apply in determining the name 
 
 ## PART 3 — Compositional requirements
 
-### 16. Compositional requirements[^key-896abddfd288ab51e322c98742381356]
+### 16. Compositional requirements[^c-896abddfd288ab51e322c98742381356]
 
 (1) A person must not place any product on the market as “honey”, “mêl”, or the equivalent name in any other language, unless it meets the appropriate compositional criteria for “honey” specified in Schedule 1.
 
@@ -282,9 +282,9 @@ Where two or more provisions of these Regulations apply in determining the name 
 
 ## PART 4 — Additional labelling requirements
 
-### 17. Additional labelling requirements[^key-877d3b8a3e09d56470721fb3fad7a903]
+### 17. Additional labelling requirements[^c-877d3b8a3e09d56470721fb3fad7a903]
 
-(1) No person may trade in honey unless the country of origin where the honey has been harvested is indicated on the label except that, if the honey originates in more than one [^key-da616bc16e6e5ab72da0d39ce6f58e31]... country, the countries of origin may be replaced with the indication “blend of honeys from more than one country” or wording in English with equivalent meaning.[^key-edf68e426e7f947694fa00d87f3446da]
+(1) No person may trade in honey unless the country of origin where the honey has been harvested is indicated on the label except that, if the honey originates in more than one [^c-da616bc16e6e5ab72da0d39ce6f58e31]... country, the countries of origin may be replaced with the indication “blend of honeys from more than one country” or wording in English with equivalent meaning.[^c-edf68e426e7f947694fa00d87f3446da]
 
 (2) In paragraphs (3) to (5), “relevant honey” (“*mêl perthnasol*”) means all honey except for baker’s honey and filtered honey.
 
@@ -294,25 +294,25 @@ Where two or more provisions of these Regulations apply in determining the name 
 
 (5) The product name of a relevant honey may be supplemented by information relating to its specific quality criteria.
 
-(6) In addition to the wording that is indicated on the label by virtue of paragraph (1), the indication “cyfuniad o felau o fwy nag un wlad” or wording in Welsh with equivalent meaning may be included.[^key-e027f8412f51290ad01a18e42ec900a3]
+(6) In addition to the wording that is indicated on the label by virtue of paragraph (1), the indication “cyfuniad o felau o fwy nag un wlad” or wording in Welsh with equivalent meaning may be included.[^c-e027f8412f51290ad01a18e42ec900a3]
 
 (7) Nothing in paragraphs (1) or (6) prevents the words that may be included by virtue of paragraph (1) from being included in any other language in addition to Welsh and English.
 
 ## PART 5 — Enforcement and miscellaneous provisions
 
-### 18. Enforcement[^key-617ba9b4c3eb99a823b348ba9d5e2a95]
+### 18. Enforcement[^c-617ba9b4c3eb99a823b348ba9d5e2a95]
 
 Each food authority must enforce and execute these Regulations in its area.
 
-### 18A. Methods of analysis[^key-ce776a9dc4acd5d3dda3145c0b92a29a]
+### 18A. Methods of analysis[^c-ce776a9dc4acd5d3dda3145c0b92a29a]
 
 In carrying out its obligations under regulation 18, a food authority must, whenever possible, use a method of analysis approved by the Codex Alimentarius, or another internationally recognised validated method of analysis, to verify compliance with the provisions of these Regulations.
 
-### 19. Application and modification of provisions of the Act[^key-4fb530f3cf06eb43e3181961a15759f3]
+### 19. Application and modification of provisions of the Act[^c-4fb530f3cf06eb43e3181961a15759f3]
 
 The provisions of the Act specified in column 1 of the table in Schedule 2 apply, with the modifications specified in column 2 of that table, for the purposes of these Regulations.
 
-### 20. Revocations[^key-c52f8344c9c4cad1ad7736da0dfeefd2]
+### 20. Revocations[^c-c52f8344c9c4cad1ad7736da0dfeefd2]
 
 (1) The following are revoked—
 
@@ -325,18 +325,18 @@ The provisions of the Act specified in column 1 of the table in Schedule 2 apply
 - (a) entry 13 of the table in Part 1 of Schedule 6; and
 - (b) paragraphs 32 to 34 of Schedule 7.
 
-### 21. Amendment of the Food Information (Wales) Regulations 2014[^key-830353ee3aa025e5fff8f433c25ccc3b]
+### 21. Amendment of the Food Information (Wales) Regulations 2014[^c-830353ee3aa025e5fff8f433c25ccc3b]
 
 Schedule 3 (amendment of the Food Information (Wales) Regulations 2014) has effect.
 
-### 22. Transitional provision[^key-70104c988c1d8f583235834497da2554]
+### 22. Transitional provision[^c-70104c988c1d8f583235834497da2554]
 
 An authorised officer of a food authority must not serve an improvement notice under section 10(1) of the Act, as applied and modified by regulation 19, as read with Schedule 2, if—
 
 - (a) the improvement notice would relate to a product that was placed on the market or labelled before 3 August 2015; and
 - (b) the matters constituting the alleged contravention would not have constituted an offence under the Honey (Wales) Regulations 2003 as they applied immediately before 3 August 2015.
 
-### 23. Transitional provisions: withdrawal from the EU[^key-b9787679dc0244ff351667d98d170260]
+### 23. Transitional provisions: withdrawal from the EU[^c-b9787679dc0244ff351667d98d170260]
 
 (1) An authorised officer of a food authority must not serve on a person an improvement notice relating to a failure to comply with regulation 17(1) if—
 
@@ -345,7 +345,7 @@ An authorised officer of a food authority must not serve an improvement notice u
 
 (2) An authorised officer of a food authority must not serve on a person an improvement notice relating to a failure to comply with regulation 17(1) if—
 
-- (a) the improvement notice would relate to a product that was placed on the market before 1 January 2024[^key-a55bd68871ec1248d882ddc18cea2f79];
+- (a) the improvement notice would relate to a product that was placed on the market before 1 January 2024[^c-a55bd68871ec1248d882ddc18cea2f79];
 - (b) the product bears one of the indications provided for in regulation 17(1) as that provision had effect immediately before IP completion day;
 - (c) had the product been placed on the market immediately before IP completion day, the use of the indication would not have constituted a contravention of regulation 17(1) as that provision had effect immediately before IP completion day; and
 - (d) the indication is accurate in identifying the EU, non-EU or EU and non-EU origins, as the case may be, of the honeys in the product.
@@ -360,34 +360,34 @@ Deputy Minster for Health, one of the Welsh Ministers
 
 Regulation 16
 
-**1.**[^key-0642a7a5aa8f6166a0df93b901faeb4d] The honey consists essentially of different sugars, predominantly fructose and glucose, as well as other substances such as organic acids, enzymes and solid particles derived from honey collection.
+**1.**[^c-0642a7a5aa8f6166a0df93b901faeb4d] The honey consists essentially of different sugars, predominantly fructose and glucose, as well as other substances such as organic acids, enzymes and solid particles derived from honey collection.
 
-**2.**[^key-190e2a8f87c6b5156d01eeee11e1eb95] The colour varies from nearly colourless to dark brown.
+**2.**[^c-190e2a8f87c6b5156d01eeee11e1eb95] The colour varies from nearly colourless to dark brown.
 
-**3.**[^key-fc83ff815c614a848891cd4453b361a8] The consistency can be fluid, viscous or partly or entirely crystallised.
+**3.**[^c-fc83ff815c614a848891cd4453b361a8] The consistency can be fluid, viscous or partly or entirely crystallised.
 
-**4.**[^key-bdfd0ca636f888904fc72c30a5b79cdb] The flavour and aroma vary but are derived from the plant origin.
+**4.**[^c-bdfd0ca636f888904fc72c30a5b79cdb] The flavour and aroma vary but are derived from the plant origin.
 
-**5.**[^key-f311f7b40f83e2d1247a910818c76985] No food ingredient has been added, including any food additive.
+**5.**[^c-f311f7b40f83e2d1247a910818c76985] No food ingredient has been added, including any food additive.
 
-**6.**[^key-4d74ca3f67b552a3ffcddd5834c2c978] No other additions have been made to the honey except for other honey.
+**6.**[^c-4d74ca3f67b552a3ffcddd5834c2c978] No other additions have been made to the honey except for other honey.
 
-**7.**[^key-7b807aae49773e236f5b9cd48dd03321] It must, as far as possible, be free from organic or inorganic matters foreign to its composition.
+**7.**[^c-7b807aae49773e236f5b9cd48dd03321] It must, as far as possible, be free from organic or inorganic matters foreign to its composition.
 
-**8.**[^key-f2597645779131546e95e241f5412c57] It must not—
+**8.**[^c-f2597645779131546e95e241f5412c57] It must not—
 
 - (a) have any foreign tastes or odours;
 - (b) have begun to ferment;
 - (c) have an artificially changed acidity;
 - (d) have been heated in such a way that the natural enzymes have been either destroyed or significantly inactivated.
 
-**9.**[^key-8c9d1e04279bda63aa319f53a8922b5e] Paragraph 8 does not apply to baker’s honey.
+**9.**[^c-8c9d1e04279bda63aa319f53a8922b5e] Paragraph 8 does not apply to baker’s honey.
 
-**10.**[^key-4d56d01fea63624922393fd300b366ec] No pollen or constituent particular to honey may be removed except where this is unavoidable in the removal of foreign inorganic or organic matter.
+**10.**[^c-4d56d01fea63624922393fd300b366ec] No pollen or constituent particular to honey may be removed except where this is unavoidable in the removal of foreign inorganic or organic matter.
 
-**11.**[^key-218571d5f62d2df75b888826d71070f9] Paragraph 10 does not apply to filtered honey.
+**11.**[^c-218571d5f62d2df75b888826d71070f9] Paragraph 10 does not apply to filtered honey.
 
-**12.**[^key-86e6107a6ed5da7858db2ce942dbcb8f] The additional compositional criteria set out in the following table apply—
+**12.**[^c-86e6107a6ed5da7858db2ce942dbcb8f] The additional compositional criteria set out in the following table apply—
 
 <table>
 <thead>
@@ -435,7 +435,7 @@ Regulation 16
 </tbody>
 </table>
 
-## SCHEDULE 2 — Application and modification of provisions of the Act[^key-259972b12ec1f0bb6364e218d6765dab]
+## SCHEDULE 2 — Application and modification of provisions of the Act[^c-259972b12ec1f0bb6364e218d6765dab]
 
 Regulation 19
 
@@ -467,9 +467,9 @@ Regulation 19
 
 Regulation 21
 
-**1.**[^key-9c707e363405b099da5a9821d7462cb6] The Food Information (Wales) Regulations 2014 are amended as follows.
+**1.**[^c-9c707e363405b099da5a9821d7462cb6] The Food Information (Wales) Regulations 2014 are amended as follows.
 
-**2.**[^key-dde2f065acf14e5d3ec348900159aa9d] In the table in Part 2 of Schedule 5 (FIC provisions in relation to which an improvement notice may be served on and from 13th December 2014)—
+**2.**[^c-dde2f065acf14e5d3ec348900159aa9d] In the table in Part 2 of Schedule 5 (FIC provisions in relation to which an improvement notice may be served on and from 13th December 2014)—
 
 - (a) in the third column, at the end of entry number 26, insert “and, in relation to honey, point 4(b) of Article 2 of Council Directive [2001/110/EC](https://www.legislation.gov.uk/european/directive/2001/0110) relating to honey[^f00019]”; and
 - (b) in the third column, in entry number 27, for “and the first subparagraph of Article 54(1)” substitute “, the first subparagraph of Article 54(1) and, in relation to honey, point 4(b) of Article 2 of Council Directive [2001/110/EC](https://www.legislation.gov.uk/european/directive/2001/0110)”.
@@ -516,63 +516,63 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00007]: Footnote: Section 48(4A) was inserted by section 40(1) of, and paragraph 21 of Schedule 5 to, the 1999 Act.
 
-[^key-27ce9942fc8d55486a63a8cfdb9881bb]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2015/1507) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-27ce9942fc8d55486a63a8cfdb9881bb]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2015/1507) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
 [^f00008]: Footnote: OJ No L 31, 1.2.2002, p 1, last amended by Regulation (EU) No 652/2014 of the European Parliament and of the Council (OJ No L 189, 27.6.2014, p 1).
 
-[^key-0e479bf2ac1a2b333eeb05b3633fc96a]: Commencement: Reg. 1 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-0e479bf2ac1a2b333eeb05b3633fc96a]: Commencement: Reg. 1 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
-[^key-3da69b6db3f9849d524f8b849d6db35b]: Commencement: Reg. 2 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-3da69b6db3f9849d524f8b849d6db35b]: Commencement: Reg. 2 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
-[^key-f7ceb409591834d2de866c9d7944a482]: Commencement: Reg. 3 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-f7ceb409591834d2de866c9d7944a482]: Commencement: Reg. 3 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
 [^f00009]: Footnote: OJ No L 304, 22.11.2011, p 18, last amended by Commission Delegated Regulation (EU) No 78/2014 (OJ No L 27, 30.1.2014, p 7).
 
 [^f00010]: Footnote: OJ No L 10, 12.1.2002, p 47, last amended by Directive 2014/63/EU of the European Parliament and of the Council (OJ No 164, 3.6.2014, p 1).
 
-[^key-ee454bdf8f08c622924f9f3e86300b09]: Commencement: Reg. 4 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-ee454bdf8f08c622924f9f3e86300b09]: Commencement: Reg. 4 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
 [^f00011]: Footnote: OJ No L 31, 1.2.2002, p 1, last amended by Regulation (EU) No 652/2014 of the European Parliament and of the Council (OJ No L 189, 27.6.2014, p 1).
 
-[^key-c450d1dd038811261fde74079cabcbee]: Commencement: Reg. 5 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-c450d1dd038811261fde74079cabcbee]: Commencement: Reg. 5 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
-[^key-b8a63f78598dec40c61cf6f0a2de086b]: Commencement: Reg. 6 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-b8a63f78598dec40c61cf6f0a2de086b]: Commencement: Reg. 6 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
-[^key-28d39c47ddccf593df3641fb1b8e7dfc]: Commencement: Reg. 7 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-28d39c47ddccf593df3641fb1b8e7dfc]: Commencement: Reg. 7 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
-[^key-fabdbe732d18dea902daf5309a76b34a]: Commencement: Reg. 8 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-fabdbe732d18dea902daf5309a76b34a]: Commencement: Reg. 8 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
-[^key-2e9e1d0ce98bbd3d869b9cfe842f1a4c]: Commencement: Reg. 9 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-2e9e1d0ce98bbd3d869b9cfe842f1a4c]: Commencement: Reg. 9 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
-[^key-7c4a57ed24630c4405bfdd2a6f40b62f]: Commencement: Reg. 10 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-7c4a57ed24630c4405bfdd2a6f40b62f]: Commencement: Reg. 10 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
-[^key-e3f0d0101fb51713b85fe2eb2f166a49]: Commencement: Reg. 11 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-e3f0d0101fb51713b85fe2eb2f166a49]: Commencement: Reg. 11 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
-[^key-af846a178488e01d11b93cf04d6b587c]: Commencement: Reg. 12 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-af846a178488e01d11b93cf04d6b587c]: Commencement: Reg. 12 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
-[^key-7313b299f4fdc1ddd960f1fdfef21beb]: Commencement: Reg. 13 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-7313b299f4fdc1ddd960f1fdfef21beb]: Commencement: Reg. 13 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
-[^key-aba803c825da44af83ba25fc9752f670]: Commencement: Reg. 14 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-aba803c825da44af83ba25fc9752f670]: Commencement: Reg. 14 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
-[^key-786b66a8c748e5526b520cabf75145ec]: Commencement: Reg. 15 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-786b66a8c748e5526b520cabf75145ec]: Commencement: Reg. 15 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
-[^key-896abddfd288ab51e322c98742381356]: Commencement: Reg. 16 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-896abddfd288ab51e322c98742381356]: Commencement: Reg. 16 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
-[^key-877d3b8a3e09d56470721fb3fad7a903]: Commencement: Reg. 17 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-877d3b8a3e09d56470721fb3fad7a903]: Commencement: Reg. 17 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
-[^key-da616bc16e6e5ab72da0d39ce6f58e31]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/17/1) omitted (31.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [14(2)(a)(i)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/14/2/a/i)
+[^c-da616bc16e6e5ab72da0d39ce6f58e31]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/17/1) omitted (31.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [14(2)(a)(i)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/14/2/a/i)
 
-[^key-edf68e426e7f947694fa00d87f3446da]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/17/1) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [14(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/14/2/a/ii)
+[^c-edf68e426e7f947694fa00d87f3446da]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/17/1) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [14(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/14/2/a/ii)
 
-[^key-e027f8412f51290ad01a18e42ec900a3]: Textual amendment: Words in [reg. 17(6)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/17/6) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [14(2)(b)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/14/2/b)
+[^c-e027f8412f51290ad01a18e42ec900a3]: Textual amendment: Words in [reg. 17(6)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/17/6) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [14(2)(b)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/14/2/b)
 
-[^key-617ba9b4c3eb99a823b348ba9d5e2a95]: Commencement: Reg. 18 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-617ba9b4c3eb99a823b348ba9d5e2a95]: Commencement: Reg. 18 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
-[^key-ce776a9dc4acd5d3dda3145c0b92a29a]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/wsi/2015/1507/regulation/18A) inserted (31.12.2020) by [The Food Standards and Labelling (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/435)](https://www.legislation.gov.uk/wsi/2019/435), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/435/regulation/1/3), [6](https://www.legislation.gov.uk/wsi/2019/435/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ce776a9dc4acd5d3dda3145c0b92a29a]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/wsi/2015/1507/regulation/18A) inserted (31.12.2020) by [The Food Standards and Labelling (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/435)](https://www.legislation.gov.uk/wsi/2019/435), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/435/regulation/1/3), [6](https://www.legislation.gov.uk/wsi/2019/435/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4fb530f3cf06eb43e3181961a15759f3]: Commencement: Reg. 19 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-4fb530f3cf06eb43e3181961a15759f3]: Commencement: Reg. 19 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
-[^key-c52f8344c9c4cad1ad7736da0dfeefd2]: Commencement: Reg. 20 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-c52f8344c9c4cad1ad7736da0dfeefd2]: Commencement: Reg. 20 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
 [^f00012]: Footnote: [S.I. 2003/3044](https://www.legislation.gov.uk/uksi/2003/3044), amended by [S.I. 2005/3052](https://www.legislation.gov.uk/uksi/2005/3052), [2005/3254](https://www.legislation.gov.uk/uksi/2005/3254), [2008/543](https://www.legislation.gov.uk/uksi/2008/543), [2014/2303](https://www.legislation.gov.uk/uksi/2014/2303).
 
@@ -582,39 +582,39 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00015]: Footnote: [S.I. 2014/2303](https://www.legislation.gov.uk/uksi/2014/2303).
 
-[^key-830353ee3aa025e5fff8f433c25ccc3b]: Commencement: Reg. 21 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-830353ee3aa025e5fff8f433c25ccc3b]: Commencement: Reg. 21 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
-[^key-70104c988c1d8f583235834497da2554]: Commencement: Reg. 22 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-70104c988c1d8f583235834497da2554]: Commencement: Reg. 22 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
-[^key-b9787679dc0244ff351667d98d170260]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/wsi/2015/1507/regulation/23) inserted (14.4.2021) by [The Food, Animal Feed and Seeds (Miscellaneous Amendments and Transitional Provisions) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/371)](https://www.legislation.gov.uk/wsi/2021/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/371/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2021/371/regulation/6)
+[^c-b9787679dc0244ff351667d98d170260]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/wsi/2015/1507/regulation/23) inserted (14.4.2021) by [The Food, Animal Feed and Seeds (Miscellaneous Amendments and Transitional Provisions) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/371)](https://www.legislation.gov.uk/wsi/2021/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/371/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2021/371/regulation/6)
 
-[^key-a55bd68871ec1248d882ddc18cea2f79]: Textual amendment: Words in [reg. 23(2)(a)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/23/2/a) substituted (30.9.2022) by [The Food Information (Amendment of Transitional Provisions) (Wales) Regulations 2022 (S.I. 2022/939)](https://www.legislation.gov.uk/wsi/2022/939), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/939/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2022/939/regulation/8)
+[^c-a55bd68871ec1248d882ddc18cea2f79]: Textual amendment: Words in [reg. 23(2)(a)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/23/2/a) substituted (30.9.2022) by [The Food Information (Amendment of Transitional Provisions) (Wales) Regulations 2022 (S.I. 2022/939)](https://www.legislation.gov.uk/wsi/2022/939), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/939/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2022/939/regulation/8)
 
-[^key-0642a7a5aa8f6166a0df93b901faeb4d]: Commencement: Sch. 1 para. 1 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-0642a7a5aa8f6166a0df93b901faeb4d]: Commencement: Sch. 1 para. 1 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
-[^key-190e2a8f87c6b5156d01eeee11e1eb95]: Commencement: Sch. 1 para. 2 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-190e2a8f87c6b5156d01eeee11e1eb95]: Commencement: Sch. 1 para. 2 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
-[^key-fc83ff815c614a848891cd4453b361a8]: Commencement: Sch. 1 para. 3 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-fc83ff815c614a848891cd4453b361a8]: Commencement: Sch. 1 para. 3 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
-[^key-bdfd0ca636f888904fc72c30a5b79cdb]: Commencement: Sch. 1 para. 4 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-bdfd0ca636f888904fc72c30a5b79cdb]: Commencement: Sch. 1 para. 4 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
-[^key-f311f7b40f83e2d1247a910818c76985]: Commencement: Sch. 1 para. 5 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-f311f7b40f83e2d1247a910818c76985]: Commencement: Sch. 1 para. 5 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
-[^key-4d74ca3f67b552a3ffcddd5834c2c978]: Commencement: Sch. 1 para. 6 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-4d74ca3f67b552a3ffcddd5834c2c978]: Commencement: Sch. 1 para. 6 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
-[^key-7b807aae49773e236f5b9cd48dd03321]: Commencement: Sch. 1 para. 7 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-7b807aae49773e236f5b9cd48dd03321]: Commencement: Sch. 1 para. 7 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
-[^key-f2597645779131546e95e241f5412c57]: Commencement: Sch. 1 para. 8 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-f2597645779131546e95e241f5412c57]: Commencement: Sch. 1 para. 8 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
-[^key-8c9d1e04279bda63aa319f53a8922b5e]: Commencement: Sch. 1 para. 9 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-8c9d1e04279bda63aa319f53a8922b5e]: Commencement: Sch. 1 para. 9 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
-[^key-4d56d01fea63624922393fd300b366ec]: Commencement: Sch. 1 para. 10 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-4d56d01fea63624922393fd300b366ec]: Commencement: Sch. 1 para. 10 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
-[^key-218571d5f62d2df75b888826d71070f9]: Commencement: Sch. 1 para. 11 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-218571d5f62d2df75b888826d71070f9]: Commencement: Sch. 1 para. 11 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
-[^key-86e6107a6ed5da7858db2ce942dbcb8f]: Commencement: Sch. 1 para. 12 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-86e6107a6ed5da7858db2ce942dbcb8f]: Commencement: Sch. 1 para. 12 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
-[^key-259972b12ec1f0bb6364e218d6765dab]: Commencement: Sch. 2 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-259972b12ec1f0bb6364e218d6765dab]: Commencement: Sch. 2 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
 [^f00016]: Footnote: Section 35(1) is amended by paragraph 42 of Schedule 26 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) from a date to be appointed. There are other amendments to section 35(1) not relevant to these Regulations.
 
@@ -622,8 +622,8 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00018]: Footnote: Section 36A was inserted by section 40(1) of, and paragraphs 7 and 16 of Schedule 5 to, the Food Standards Act [1999 (c. 28)](https://www.legislation.gov.uk/ukpga/1999/28).
 
-[^key-9c707e363405b099da5a9821d7462cb6]: Commencement: Sch. 3 para. 1 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-9c707e363405b099da5a9821d7462cb6]: Commencement: Sch. 3 para. 1 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
-[^key-dde2f065acf14e5d3ec348900159aa9d]: Commencement: Sch. 3 para. 2 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+[^c-dde2f065acf14e5d3ec348900159aa9d]: Commencement: Sch. 3 para. 2 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
 
 [^f00019]: Footnote: OJ No L 10, 12.1.2002, p 47, last amended by Directive 2014/63/EU of the European Parliament and of the Council (OJ No 164, 3.6.2014, p 1).

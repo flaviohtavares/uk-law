@@ -33,16 +33,16 @@ summary: ''
 
 (3) Subject to paragraph (3A),[^c17233021] the principal does not contravene paragraph (2)( *b*) by doing any act in relation to a woman at a time when if the work were to be done by a person taken into his employment being a man would be a genuine occupational qualification for the job.
 
-(3A) Paragraph (3) does not apply in relation to discrimination falling within Article 4A or 4B[^key-ac39897d3119c012bf2c3f80cfd34c75] .
+(3A) Paragraph (3) does not apply in relation to discrimination falling within Article 4A or 4B[^c-ac39897d3119c012bf2c3f80cfd34c75] .
 
-(3B) In relation to discrimination falling within Article 4A or 4B[^key-a0ab280378b6ad99ee46a290d3fd0295] , the principal does not contravene paragraph (2)(a), (b), (c) or (d) by doing any act in relation to a woman if—
+(3B) In relation to discrimination falling within Article 4A or 4B[^c-a0ab280378b6ad99ee46a290d3fd0295] , the principal does not contravene paragraph (2)(a), (b), (c) or (d) by doing any act in relation to a woman if—
 
 - (a) he does it at a time when, if the work were to be done by a person taken into his employment—
   - (i) being a man would be a genuine occupational qualification for the job; or
   - (ii) being a woman would be a genuine occupational qualification for the job; and
 - (b) he can show that the act is reasonable in view of the circumstances relevant for the purposes of sub-paragraph (a) and any other relevant circumstances.
 
-(3C) In relation to discrimination falling within Article 4A or 4B[^key-152390d7eb408da2740427b417c14213] , the principal does not contravene paragraph (2)(b) by doing any act in relation to a woman at a time when, if the work were to be done by a person taken into his employment, there would be a supplementary genuine occupational qualification for the job.
+(3C) In relation to discrimination falling within Article 4A or 4B[^c-152390d7eb408da2740427b417c14213] , the principal does not contravene paragraph (2)(b) by doing any act in relation to a woman at a time when, if the work were to be done by a person taken into his employment, there would be a supplementary genuine occupational qualification for the job.
 
 (3D)[^c17233061] Paragraphs (3B) and (3C) do not apply in relation to discrimination against a person whose gender has become the acquired gender under the Gender Recognition Act 2004.
 
@@ -56,10 +56,10 @@ summary: ''
 
 [^c17233021]: Textual amendment: SR 1999/311
 
-[^key-ac39897d3119c012bf2c3f80cfd34c75]: Textual amendment: Words in [art. 12(3A)](https://www.legislation.gov.uk/nisi/1976/1042/article/12/3A) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [13(a)](https://www.legislation.gov.uk/nisr/2016/191/regulation/13/a)
+[^c-ac39897d3119c012bf2c3f80cfd34c75]: Textual amendment: Words in [art. 12(3A)](https://www.legislation.gov.uk/nisi/1976/1042/article/12/3A) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [13(a)](https://www.legislation.gov.uk/nisr/2016/191/regulation/13/a)
 
-[^key-a0ab280378b6ad99ee46a290d3fd0295]: Textual amendment: Words in [art. 12(3B)](https://www.legislation.gov.uk/nisi/1976/1042/article/12/3B) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [13(b)](https://www.legislation.gov.uk/nisr/2016/191/regulation/13/b)
+[^c-a0ab280378b6ad99ee46a290d3fd0295]: Textual amendment: Words in [art. 12(3B)](https://www.legislation.gov.uk/nisi/1976/1042/article/12/3B) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [13(b)](https://www.legislation.gov.uk/nisr/2016/191/regulation/13/b)
 
-[^key-152390d7eb408da2740427b417c14213]: Textual amendment: Words in [art. 12(3C)](https://www.legislation.gov.uk/nisi/1976/1042/article/12/3C) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [13(c)](https://www.legislation.gov.uk/nisr/2016/191/regulation/13/c)
+[^c-152390d7eb408da2740427b417c14213]: Textual amendment: Words in [art. 12(3C)](https://www.legislation.gov.uk/nisi/1976/1042/article/12/3C) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [13(c)](https://www.legislation.gov.uk/nisr/2016/191/regulation/13/c)
 
 [^c17233061]: Textual amendment: [2004 c.7](https://www.legislation.gov.uk/ukpga/2004/7)

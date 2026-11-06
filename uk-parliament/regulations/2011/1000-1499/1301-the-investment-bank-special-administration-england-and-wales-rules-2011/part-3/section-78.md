@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78. Quorum at meetings[^key-f80102de88d68fec681f132dc8993e95]
+## 78. Quorum at meetings[^c-f80102de88d68fec681f132dc8993e95]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ the meeting must not commence until at least the expiry of 15 minutes after the 
 
 ## Annotations
 
-[^key-f80102de88d68fec681f132dc8993e95]: Commencement: [Rule 78](https://www.legislation.gov.uk/uksi/2011/1301/rule/78) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-f80102de88d68fec681f132dc8993e95]: Commencement: [Rule 78](https://www.legislation.gov.uk/uksi/2011/1301/rule/78) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

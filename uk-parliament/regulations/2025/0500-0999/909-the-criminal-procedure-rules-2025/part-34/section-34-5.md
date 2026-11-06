@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34.5. Duty of person keeping exhibit[^key-d53f0abc60a77b86ad885877f7bd892b]
+## 34.5. Duty of person keeping exhibit[^c-d53f0abc60a77b86ad885877f7bd892b]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ A person who, under arrangements made by the magistrates’ court officer, keeps
 
 ## Annotations
 
-[^key-d53f0abc60a77b86ad885877f7bd892b]: Commencement: [Rule 34.5](https://www.legislation.gov.uk/uksi/2025/909/rule/34.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-d53f0abc60a77b86ad885877f7bd892b]: Commencement: [Rule 34.5](https://www.legislation.gov.uk/uksi/2025/909/rule/34.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

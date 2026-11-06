@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Interim reports.[^key-0376d2189ecf479d98c26c91c28a4d61]
+## 65. Interim reports.[^c-0376d2189ecf479d98c26c91c28a4d61]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0376d2189ecf479d98c26c91c28a4d61]: Textual amendment: S. 65 repealed (31.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 4 para. 29](https://www.legislation.gov.uk/ukpga/2011/20/schedule/4/paragraph/29), [Sch. 25 Pt. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/5); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 5(1)(a)](https://www.legislation.gov.uk/uksi/2012/57/article/5/1/a)[(c)](https://www.legislation.gov.uk/uksi/2012/57/article/5/1/c)[(2)(i)](https://www.legislation.gov.uk/uksi/2012/57/article/5/2/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [8](https://www.legislation.gov.uk/uksi/2012/57/article/8))
+[^c-0376d2189ecf479d98c26c91c28a4d61]: Textual amendment: S. 65 repealed (31.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 4 para. 29](https://www.legislation.gov.uk/ukpga/2011/20/schedule/4/paragraph/29), [Sch. 25 Pt. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/5); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 5(1)(a)](https://www.legislation.gov.uk/uksi/2012/57/article/5/1/a)[(c)](https://www.legislation.gov.uk/uksi/2012/57/article/5/1/c)[(2)(i)](https://www.legislation.gov.uk/uksi/2012/57/article/5/2/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [8](https://www.legislation.gov.uk/uksi/2012/57/article/8))

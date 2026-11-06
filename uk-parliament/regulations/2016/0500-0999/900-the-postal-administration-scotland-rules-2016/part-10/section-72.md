@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Definition of “proxy”[^key-6ca9b54f991a11259619fe58e1731925]
+## 72. Definition of “proxy”[^c-6ca9b54f991a11259619fe58e1731925]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ca9b54f991a11259619fe58e1731925]: Commencement: Rule 72 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-6ca9b54f991a11259619fe58e1731925]: Commencement: Rule 72 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

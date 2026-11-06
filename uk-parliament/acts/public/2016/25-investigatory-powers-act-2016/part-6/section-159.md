@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159. Approval of warrants by Judicial Commissioners[^key-c120d073d92649b4dfdab7756ceb61fa]
+## 159. Approval of warrants by Judicial Commissioners[^c-c120d073d92649b4dfdab7756ceb61fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c120d073d92649b4dfdab7756ceb61fa]: Commencement: [S. 159](https://www.legislation.gov.uk/ukpga/2016/25/section/159) in force at 25.7.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/873/regulation/2/c)
+[^c-c120d073d92649b4dfdab7756ceb61fa]: Commencement: [S. 159](https://www.legislation.gov.uk/ukpga/2016/25/section/159) in force at 25.7.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/873/regulation/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Approval of religious premises for formation of civil partnership[^key-11e5e0e63560433d8459353b02b9363f]
+## 7. Approval of religious premises for formation of civil partnership[^c-11e5e0e63560433d8459353b02b9363f]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ In section 6 of the Civil Partnership Act 2004[^f00010], after subsection (3C) i
 
 ## Annotations
 
-[^key-11e5e0e63560433d8459353b02b9363f]: Commencement: Reg. 7 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-11e5e0e63560433d8459353b02b9363f]: Commencement: Reg. 7 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
 
 [^f00010]: Footnote: Section 6 was amended by [S.I. 2005/2000](https://www.legislation.gov.uk/uksi/2005/2000) and by the Equality Act [2010 (c.15)](https://www.legislation.gov.uk/ukpga/2010/15), Schedule 27, paragraph 1.

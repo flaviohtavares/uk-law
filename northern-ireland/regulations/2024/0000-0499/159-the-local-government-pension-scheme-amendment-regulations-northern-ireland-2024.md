@@ -46,7 +46,7 @@ In accordance with section 21 of the Public Service Pensions Act (Northern Irela
 
 The retrospective provisions contained in regulation 2 of these Regulations do not appear to the Department for Communities to have significant adverse effects in relation to the pension payable to or in respect of members of the scheme established by the Local Government Pension Scheme Regulations (Northern Ireland) 2014[^f00006] or the schemes preserved by the Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014[^f00007], nor in any other way in relation to members of those schemes. Accordingly, the procedures set out in section 23 of the Public Service Pensions Act (Northern Ireland) 2014 are not applicable in respect of these Regulations.
 
-## 1. Citation, commencement, effect and interpretation[^key-4642654929b221634ebdce3de3791c42]
+## 1. Citation, commencement, effect and interpretation[^c-4642654929b221634ebdce3de3791c42]
 
 (1) These Regulations may be cited as the Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2024.
 
@@ -62,7 +62,7 @@ The retrospective provisions contained in regulation 2 of these Regulations do n
 
 (4) The Interpretation Act (Northern Ireland) 1954[^f00009] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Modification in respect of certain annual benefit statements relating to eligible members[^key-f117979bd7ebf4eb9efb5be5126c3cb1]
+## 2. Modification in respect of certain annual benefit statements relating to eligible members[^c-f117979bd7ebf4eb9efb5be5126c3cb1]
 
 (1) This regulation applies in respect of any person who is—
 
@@ -94,13 +94,13 @@ The retrospective provisions contained in regulation 2 of these Regulations do n
 - (b) may only be made if the Committee considers that it is reasonable in all the circumstances in the case of that particular member or class of members; and
 - (c) must be notified to any member to which it applies in the annual benefit statement in respect of the Scheme year ending on 31st March 2025.
 
-## 3. Amendments to the 2014 Regulations[^key-ff8dee31a2700bfa562e850a01bbff90]
+## 3. Amendments to the 2014 Regulations[^c-ff8dee31a2700bfa562e850a01bbff90]
 
 In Schedule 1 (interpretation) to the 2014 Regulations, in the appropriate place insert insert—
 
 > - “**eligible member**” has the same meaning as in regulation 4A(2) (statutory underpin: general) of the Transitional Regulations.”
 
-## 4. Amendments to the 2023 Regulations[^key-4ed1de456a61ab603e640ad2c8e9d2a1]
+## 4. Amendments to the 2023 Regulations[^c-4ed1de456a61ab603e640ad2c8e9d2a1]
 
 In the 2023 Regulations, omit regulation 3(14)(b).
 
@@ -144,16 +144,16 @@ Regulations 3 and 4 correct an earlier drafting error.
 
 [^f00007]: Footnote: [SR 2014 No. 189](https://www.legislation.gov.uk/nisr/2014/189) as amended by [S.R. 2023 No. 149](https://www.legislation.gov.uk/nisr/2023/149); there are other amendments not relevant to these Regulations.
 
-[^key-4642654929b221634ebdce3de3791c42]: Commencement: Reg. 1 in operation at 31.8.2024 with effect in accordance with reg. 1(2)
+[^c-4642654929b221634ebdce3de3791c42]: Commencement: Reg. 1 in operation at 31.8.2024 with effect in accordance with reg. 1(2)
 
 [^f00008]: Footnote: [S.R. 2023 No. 149](https://www.legislation.gov.uk/nisr/2023/149)
 
 [^f00009]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
-[^key-f117979bd7ebf4eb9efb5be5126c3cb1]: Commencement: Reg. 2 in operation at 31.8.2024 with effect in accordance with reg. 1(2)
+[^c-f117979bd7ebf4eb9efb5be5126c3cb1]: Commencement: Reg. 2 in operation at 31.8.2024 with effect in accordance with reg. 1(2)
 
 [^f00010]: Footnote: Section 3(3)(c) of the Public Service Pensions Act (Northern Ireland) [2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), which enables these Regulations to allow any person to exercise a discretion, provides the power for these Regulations to allow the Committee to make a determination.
 
-[^key-ff8dee31a2700bfa562e850a01bbff90]: Commencement: Reg. 3 in operation at 31.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/159/regulation/1/2)
+[^c-ff8dee31a2700bfa562e850a01bbff90]: Commencement: Reg. 3 in operation at 31.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/159/regulation/1/2)
 
-[^key-4ed1de456a61ab603e640ad2c8e9d2a1]: Commencement: Reg. 4 in operation at 31.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/159/regulation/1/2)
+[^c-4ed1de456a61ab603e640ad2c8e9d2a1]: Commencement: Reg. 4 in operation at 31.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/159/regulation/1/2)

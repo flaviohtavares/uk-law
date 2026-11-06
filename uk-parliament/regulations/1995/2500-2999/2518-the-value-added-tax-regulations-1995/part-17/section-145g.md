@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145G. Fiscal warehousing transfers in Great Britain[^key-6f448ec98873fbec9dfeb11664bd92a7][^key-b51715762a7e264107b6d6d0a2c48834]
+## 145G. Fiscal warehousing transfers in Great Britain[^c-6f448ec98873fbec9dfeb11664bd92a7][^c-b51715762a7e264107b6d6d0a2c48834]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6f448ec98873fbec9dfeb11664bd92a7]: Textual amendment: Pt. 16(A) and heading inserted (28.4.1996) by [The Value Added Tax (Amendment) (No. 3) Regulations 1996 (S.I. 1996/1250)](https://www.legislation.gov.uk/uksi/1996/1250), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/1250/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/1996/1250/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/1996/1250/regulation/12), [13](https://www.legislation.gov.uk/uksi/1996/1250/regulation/13)
+[^c-6f448ec98873fbec9dfeb11664bd92a7]: Textual amendment: Pt. 16(A) and heading inserted (28.4.1996) by [The Value Added Tax (Amendment) (No. 3) Regulations 1996 (S.I. 1996/1250)](https://www.legislation.gov.uk/uksi/1996/1250), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/1250/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/1996/1250/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/1996/1250/regulation/12), [13](https://www.legislation.gov.uk/uksi/1996/1250/regulation/13)
 
-[^key-b51715762a7e264107b6d6d0a2c48834]: Textual amendment: [Reg. 145G](https://www.legislation.gov.uk/uksi/1995/2518/regulation/145G) heading substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [76](https://www.legislation.gov.uk/uksi/2020/1545/regulation/76) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-b51715762a7e264107b6d6d0a2c48834]: Textual amendment: [Reg. 145G](https://www.legislation.gov.uk/uksi/1995/2518/regulation/145G) heading substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [76](https://www.legislation.gov.uk/uksi/2020/1545/regulation/76) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

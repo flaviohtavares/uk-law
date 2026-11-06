@@ -46,7 +46,7 @@ Coming into force
 
 [^c22581131][^c22581141][^c22581151][^c22581161][^c22581171]The Scottish Ministers, in exercise of the powers conferred by sections 6(4) , 16(1)(a) and (e) , 17(1) , 26(1) and (3) and 48(1) of the Food Safety Act 1990 and all other powers enabling them to do, make the following Regulations.
 
-There has been consultation, as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c22581181], during the preparation and evaluation of the following Regulations.[^key-45a3db26fc86c1e3b31249ec53dc01ea]
+There has been consultation, as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c22581181], during the preparation and evaluation of the following Regulations.[^c-45a3db26fc86c1e3b31249ec53dc01ea]
 
 ## 1. Citation, application and commencement
 
@@ -65,7 +65,7 @@ There has been consultation, as required by Article 9 of Regulation [(EC) No 178
 - “**Honey Directive**” means Council Directive [2001/110/EC](https://www.legislation.gov.uk/european/directive/2001/0110) relating to honey [^c22581211];
 - “**ingredient**” has the meaning given in Article 2(2)(f) of FIC, as read with Article 2(5) of the Honey Directive;
 - “**in trade**” has the same meaning as in the Honey Directive and “trade in” and “trading in” are to be construed accordingly;
-- “[^key-ccf382843204e4c0bf12dbb55e0da694]**trading bloc**” means a group of nations united by trade agreements,
+- “[^c-ccf382843204e4c0bf12dbb55e0da694]**trading bloc**” means a group of nations united by trade agreements,
 - “**labelling**” has the meaning given in Article 2(2)(j) of FIC;
 - “**packs**” has the same meaning as in Article 3 of the Honey Directive;
 - “**trade documents**” has the same meaning as in Article 3 of the Honey Directive; and
@@ -210,7 +210,7 @@ Where two or more provisions of these Regulations apply in determining the name 
 
 ## 16. Additional labelling requirements
 
-(1)[^key-a14e01a65d5952a2f68a2691ddebc8ea] No person may trade in honey unless the country or countries of origin where the honey has been harvested is indicated on the label except that if the honey originates in more than one country, the countries may be replaced with one of the following indications (or similar wording) as appropriate—
+(1)[^c-a14e01a65d5952a2f68a2691ddebc8ea] No person may trade in honey unless the country or countries of origin where the honey has been harvested is indicated on the label except that if the honey originates in more than one country, the countries may be replaced with one of the following indications (or similar wording) as appropriate—
 
 “blends of honeys from more than one country”,
 
@@ -240,7 +240,7 @@ Where two or more provisions of these Regulations apply in determining the name 
 
 (3) Each food authority must enforce and execute these Regulations in its area.
 
-## 17A. Methods of analysis[^key-406075b70fe246a9c05a3bf8e8f4fed2]
+## 17A. Methods of analysis[^c-406075b70fe246a9c05a3bf8e8f4fed2]
 
 In carrying out its obligations under regulation 17, a food authority must, whenever possible, use internationally recognised validated methods of analysis such as those approved by the Codex Alimentarius.
 
@@ -396,7 +396,7 @@ A full Business and Regulatory Impact Assessment of the effect that this instrum
 
 [^c22581181]: Marginal citation: OJ No L 31, 1.2.2002, p.1, last amended by regulation (EU) No 652/2014 (OJ No L 189, 27.6.2014, p.1).
 
-[^key-45a3db26fc86c1e3b31249ec53dc01ea]: Modification: Regulations applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-45a3db26fc86c1e3b31249ec53dc01ea]: Modification: Regulations applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
 [^c22581191]: Marginal citation: OJ No L 304, 22.11.2011, p.18, last amended by Commission Delegated Regulation (EU) No 78/2014 (OJ No L 27, 30.1.2014, p.7).
 
@@ -404,11 +404,11 @@ A full Business and Regulatory Impact Assessment of the effect that this instrum
 
 [^c22581211]: Marginal citation: OJ No L 10, 12.1.2002, p.47, last amended by Directive 2014/63/EU of the European Parliament and of the Council (OJ No 164, 3.6.2014, p.1).
 
-[^key-ccf382843204e4c0bf12dbb55e0da694]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2015/208/regulation/2) inserted (31.12.2020) by [The Food Information, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/285)](https://www.legislation.gov.uk/ssi/2019/285), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/285/regulation/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2019/285/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ccf382843204e4c0bf12dbb55e0da694]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2015/208/regulation/2) inserted (31.12.2020) by [The Food Information, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/285)](https://www.legislation.gov.uk/ssi/2019/285), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/285/regulation/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2019/285/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a14e01a65d5952a2f68a2691ddebc8ea]: Textual amendment: [Reg. 16(1)](https://www.legislation.gov.uk/ssi/2015/208/regulation/16/1) substituted (31.12.2020) by [The Food Information, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/285)](https://www.legislation.gov.uk/ssi/2019/285), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/285/regulation/1/1), [5(3)](https://www.legislation.gov.uk/ssi/2019/285/regulation/5/3) (as amended by [S.S.I. 2020/372](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/a), [9(5)](https://www.legislation.gov.uk/ssi/2020/372/regulation/9/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a14e01a65d5952a2f68a2691ddebc8ea]: Textual amendment: [Reg. 16(1)](https://www.legislation.gov.uk/ssi/2015/208/regulation/16/1) substituted (31.12.2020) by [The Food Information, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/285)](https://www.legislation.gov.uk/ssi/2019/285), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/285/regulation/1/1), [5(3)](https://www.legislation.gov.uk/ssi/2019/285/regulation/5/3) (as amended by [S.S.I. 2020/372](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/a), [9(5)](https://www.legislation.gov.uk/ssi/2020/372/regulation/9/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-406075b70fe246a9c05a3bf8e8f4fed2]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/ssi/2015/208/regulation/17A) inserted (31.12.2020) by [The Food Information, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/285)](https://www.legislation.gov.uk/ssi/2019/285), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/285/regulation/1/1), [5(4)](https://www.legislation.gov.uk/ssi/2019/285/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-406075b70fe246a9c05a3bf8e8f4fed2]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/ssi/2015/208/regulation/17A) inserted (31.12.2020) by [The Food Information, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/285)](https://www.legislation.gov.uk/ssi/2019/285), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/285/regulation/1/1), [5(4)](https://www.legislation.gov.uk/ssi/2019/285/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22581221]: Marginal citation: [Section 21](https://www.legislation.gov.uk/ssi/2015/208/section/21) was amended by [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
 

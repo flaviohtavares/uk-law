@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 18 — RECOVERY OF WASTE BY APPLICATION TO LAND FOR THE PURPOSE OF SOIL IMPROVEMENT[^key-fe6f9a4ba873500a80b59fd9387737e6]
+## SCHEDULE 18 — RECOVERY OF WASTE BY APPLICATION TO LAND FOR THE PURPOSE OF SOIL IMPROVEMENT[^c-fe6f9a4ba873500a80b59fd9387737e6]
 
 *Extent: S*
 
@@ -187,4 +187,4 @@ SEPA must ensure that an authorisation for the recovery of waste by application 
 
 ## Annotations
 
-[^key-fe6f9a4ba873500a80b59fd9387737e6]: Textual amendment: [Sch. 18](https://www.legislation.gov.uk/ssi/2018/219/schedule/18) inserted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(4)(d)(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/d/ii), [sch. 9](https://www.legislation.gov.uk/ssi/2025/165/schedule/9) (with [reg. 1(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/5), [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-fe6f9a4ba873500a80b59fd9387737e6]: Textual amendment: [Sch. 18](https://www.legislation.gov.uk/ssi/2018/219/schedule/18) inserted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(4)(d)(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/d/ii), [sch. 9](https://www.legislation.gov.uk/ssi/2025/165/schedule/9) (with [reg. 1(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/5), [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

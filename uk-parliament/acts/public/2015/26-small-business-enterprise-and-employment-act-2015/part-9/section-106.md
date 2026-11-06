@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Determining unfitness and disqualifications: matters to be taken into account[^key-2c92145eb7a3a6121402766a3024c14f][^key-22ad7920dd04bcd876307f846e4b0537]
+## 106. Determining unfitness and disqualifications: matters to be taken into account[^c-2c92145eb7a3a6121402766a3024c14f][^c-22ad7920dd04bcd876307f846e4b0537]
 
 *Extent: E+W+S+N.I.*
 
@@ -109,6 +109,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2c92145eb7a3a6121402766a3024c14f]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2015/26/section/106) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/c)
+[^c-2c92145eb7a3a6121402766a3024c14f]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2015/26/section/106) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/c)
 
-[^key-22ad7920dd04bcd876307f846e4b0537]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2015/26/section/106) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/d) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/2))
+[^c-22ad7920dd04bcd876307f846e4b0537]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2015/26/section/106) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/d) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/2))

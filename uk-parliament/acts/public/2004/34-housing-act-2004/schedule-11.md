@@ -33,7 +33,7 @@ Section 218
 
 **2.** The Housing Act 1988 is amended as follows.
 
-**3.**[^key-16e07d611ee654a4cdc2fa53eaec28d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-16e07d611ee654a4cdc2fa53eaec28d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.** In section 52(2) (recovery etc. of grants) omit the words from “, acting” to “determine,”.
 
@@ -47,11 +47,11 @@ Section 218
 
 **8.** In section 18(2) (social housing grants) omit the words from “, acting” to “determine,”.
 
-**9.**[^key-833b7867d33489133f147ec845644473] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-833b7867d33489133f147ec845644473] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-c67c8b0cec5bbd5bbcd4b137dea23595] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-c67c8b0cec5bbd5bbcd4b137dea23595] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-00884a5bc43028624c6f8fbf2276aa58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-00884a5bc43028624c6f8fbf2276aa58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **12.** (1) In section 31(2) (offence of intentionally altering etc. document required to be produced under section 30), for paragraph (b) substitute—
 
@@ -339,12 +339,12 @@ Section 218
 
 ## Annotations
 
-[^key-16e07d611ee654a4cdc2fa53eaec28d1]: Textual amendment: Sch. 11 para. 3 repealed (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+[^c-16e07d611ee654a4cdc2fa53eaec28d1]: Textual amendment: Sch. 11 para. 3 repealed (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
 
-[^key-833b7867d33489133f147ec845644473]: Textual amendment: [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2004/34/schedule/11/paragraph/9) omitted (26.1.2019) by virtue of [Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1)](https://www.legislation.gov.uk/anaw/2018/1), [s. 11(3)](https://www.legislation.gov.uk/anaw/2018/1/section/11/3)[(4)](https://www.legislation.gov.uk/anaw/2018/1/section/11/4), [Sch. 1 para. 5(6)](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/5/6); [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
+[^c-833b7867d33489133f147ec845644473]: Textual amendment: [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2004/34/schedule/11/paragraph/9) omitted (26.1.2019) by virtue of [Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1)](https://www.legislation.gov.uk/anaw/2018/1), [s. 11(3)](https://www.legislation.gov.uk/anaw/2018/1/section/11/3)[(4)](https://www.legislation.gov.uk/anaw/2018/1/section/11/4), [Sch. 1 para. 5(6)](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/5/6); [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
 
-[^key-c67c8b0cec5bbd5bbcd4b137dea23595]: Textual amendment: [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/2004/34/schedule/11/paragraph/10) omitted (26.1.2019) by virtue of [Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1)](https://www.legislation.gov.uk/anaw/2018/1), [s. 11(3)](https://www.legislation.gov.uk/anaw/2018/1/section/11/3)[(4)](https://www.legislation.gov.uk/anaw/2018/1/section/11/4), [Sch. 1 para. 5(6)](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/5/6); [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
+[^c-c67c8b0cec5bbd5bbcd4b137dea23595]: Textual amendment: [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/2004/34/schedule/11/paragraph/10) omitted (26.1.2019) by virtue of [Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1)](https://www.legislation.gov.uk/anaw/2018/1), [s. 11(3)](https://www.legislation.gov.uk/anaw/2018/1/section/11/3)[(4)](https://www.legislation.gov.uk/anaw/2018/1/section/11/4), [Sch. 1 para. 5(6)](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/5/6); [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
 
-[^key-00884a5bc43028624c6f8fbf2276aa58]: Textual amendment: Sch. 11 para. 11 repealed (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+[^c-00884a5bc43028624c6f8fbf2276aa58]: Textual amendment: Sch. 11 para. 11 repealed (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
 
 [^c693784]: Commencement: Sch. 11 para. 16 partly in force; Sch. 11 para. 16 in force for certain purposes at Royal Assent see [s. 270(2)(b)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Procedure for protected elements[^key-06021ec6817df58af0bf5f1972c6a614]
+## 22. Procedure for protected elements[^c-06021ec6817df58af0bf5f1972c6a614]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06021ec6817df58af0bf5f1972c6a614]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2014/2/section/22) in operation at 28.4.2014 by [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(m)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/m)
+[^c-06021ec6817df58af0bf5f1972c6a614]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2014/2/section/22) in operation at 28.4.2014 by [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(m)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/m)

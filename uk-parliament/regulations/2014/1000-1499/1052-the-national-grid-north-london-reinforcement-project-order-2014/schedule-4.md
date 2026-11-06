@@ -22,7 +22,7 @@ summary: ''
 
 Article 11
 
-### PART 1 — STREETS SUBJECT TO PERMANENT ALTERATION OF LAYOUT[^key-d6e448c2b648adbe9100a0d8b2e09f94]
+### PART 1 — STREETS SUBJECT TO PERMANENT ALTERATION OF LAYOUT[^c-d6e448c2b648adbe9100a0d8b2e09f94]
 
 | *(1)*<br>*Street subject to alteration of layout* | *(2)*<br>*Description of alteration* |
 | --- | --- |
@@ -37,7 +37,7 @@ Article 11
 | A406 Angel Road Exit Slip/Advent Way | Between AC51 and AC52 (shown on Sheet 8 of the Access/Rights of Way Plans) the creation of a new drop kerb to allow access to the pylon with sufficient size to accommodate a rigid HGV. Comprising an alteration of the level of the kerb line and pedestrian footway approximately 50 metres before the Cooks Ferry roundabout. |
 |  |  |
 
-### PART 2 — STREETS SUBJECT TO TEMPORARY ALTERATION OF LAYOUT[^key-45d7602de7a5df6b3399c04241e23f00]
+### PART 2 — STREETS SUBJECT TO TEMPORARY ALTERATION OF LAYOUT[^c-45d7602de7a5df6b3399c04241e23f00]
 
 | *(1)*<br>*Street subject to alteration of layout* | *(2)*<br>*Description of alteration* |
 | --- | --- |
@@ -48,6 +48,6 @@ Article 11
 
 ## Annotations
 
-[^key-d6e448c2b648adbe9100a0d8b2e09f94]: Commencement: Sch. 4 Pt. 1 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)
+[^c-d6e448c2b648adbe9100a0d8b2e09f94]: Commencement: Sch. 4 Pt. 1 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)
 
-[^key-45d7602de7a5df6b3399c04241e23f00]: Commencement: Sch. 4 Pt. 2 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)
+[^c-45d7602de7a5df6b3399c04241e23f00]: Commencement: Sch. 4 Pt. 2 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)

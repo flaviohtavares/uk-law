@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 60. Claim established by affidavit[^key-0d68d6c803cc1dc44822a200111667ab]
+## 60. Claim established by affidavit[^c-0d68d6c803cc1dc44822a200111667ab]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d68d6c803cc1dc44822a200111667ab]: Commencement: Rule 60 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-0d68d6c803cc1dc44822a200111667ab]: Commencement: Rule 60 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

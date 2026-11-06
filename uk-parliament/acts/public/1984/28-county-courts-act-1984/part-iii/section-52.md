@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) On the application of any person in accordance with rules of court[^c4404071], the county court[^key-971a4049e38f94ce52ff72aa04702e6d] shall, in such circumstances as may be prescribed, have power to make an order providing for any one or more of the following matters, that is to say—
+(1) On the application of any person in accordance with rules of court[^c4404071], the county court[^c-971a4049e38f94ce52ff72aa04702e6d] shall, in such circumstances as may be prescribed, have power to make an order providing for any one or more of the following matters, that is to say—
 
 - (a) the inspection, photographing, preservation, custody and detention of property which appears to the court to be property which may become the subject-matter of subsequent proceedings in the court, or as to which any question may arise in any such proceedings; and
 - (b) the taking of samples of any such property as is mentioned in paragraph (a), and the carrying out of any experiment on or with any such property.
@@ -39,7 +39,7 @@ summary: ''
 
 [^c4404071]: Textual amendment: Words in s. 52(1)(2) substituted (27.4.1997) by [1997 c. 12](https://www.legislation.gov.uk/ukpga/1997/12), [s. 10](https://www.legislation.gov.uk/ukpga/1997/12/section/10), [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/ukpga/1997/12/schedule/2/paragraph/2/2); [S.I. 1997/841](https://www.legislation.gov.uk/uksi/1997/841), [art. 3](https://www.legislation.gov.uk/uksi/1997/841/article/3).
 
-[^key-971a4049e38f94ce52ff72aa04702e6d]: Textual amendment: Words in [ss. 36-147](https://www.legislation.gov.uk/ukpga/1984/28/section/36) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 10(1)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/10/1/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3) and with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
+[^c-971a4049e38f94ce52ff72aa04702e6d]: Textual amendment: Words in [ss. 36-147](https://www.legislation.gov.uk/ukpga/1984/28/section/36) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 10(1)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/10/1/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3) and with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
 
 [^c4404081]: Modification: Power to amend s. 52(2) conferred (27.4.1997) by [1997 c. 12](https://www.legislation.gov.uk/ukpga/1997/12), [s. 8(1)](https://www.legislation.gov.uk/ukpga/1997/12/section/8/1); [S.I. 1997/841](https://www.legislation.gov.uk/uksi/1997/841), [art. 3](https://www.legislation.gov.uk/uksi/1997/841/article/3).
 

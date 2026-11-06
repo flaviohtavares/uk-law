@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-1339b80cf2b8e6934713c23035381cc7] Schedule 2 contains minor and consequential amendments.
+(1)[^c-1339b80cf2b8e6934713c23035381cc7] Schedule 2 contains minor and consequential amendments.
 
-(2)[^key-1339b80cf2b8e6934713c23035381cc7] In that Schedule—
+(2)[^c-1339b80cf2b8e6934713c23035381cc7] In that Schedule—
 
 - Part 1 contains amendments of the Financial Services and Markets Act 2000, and
 - Part 2 contains amendments of other legislation.
@@ -42,4 +42,4 @@ summary: ''
 
 [^c2030326]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2010/28/section/24) partly in force; [s. 24(3)-(5)](https://www.legislation.gov.uk/ukpga/2010/28/section/24/3) in force at Royal Assent, s.24(1)(2) in force for specified purposes at Royal Assent and for further specified purposes at 8.6.2010 see [s. 26(1)(g)(2)(d)](https://www.legislation.gov.uk/ukpga/2010/28/section/26/1/g/2/d)
 
-[^key-1339b80cf2b8e6934713c23035381cc7]: Commencement: [S. 24(1)](https://www.legislation.gov.uk/ukpga/2010/28/section/24/1)[(2)](https://www.legislation.gov.uk/ukpga/2010/28/section/24/2) in force at 12.10.2010 for specified purposes by [S.I. 2010/2480](https://www.legislation.gov.uk/uksi/2010/2480), [art. 2(e)](https://www.legislation.gov.uk/uksi/2010/2480/article/2/e)
+[^c-1339b80cf2b8e6934713c23035381cc7]: Commencement: [S. 24(1)](https://www.legislation.gov.uk/ukpga/2010/28/section/24/1)[(2)](https://www.legislation.gov.uk/ukpga/2010/28/section/24/2) in force at 12.10.2010 for specified purposes by [S.I. 2010/2480](https://www.legislation.gov.uk/uksi/2010/2480), [art. 2(e)](https://www.legislation.gov.uk/uksi/2010/2480/article/2/e)

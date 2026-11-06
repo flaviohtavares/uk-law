@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Information as to local government manpower.[^key-159d46e53df6bf2d631b8935d49ca0ae]
+## 56. Information as to local government manpower.[^c-159d46e53df6bf2d631b8935d49ca0ae]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-159d46e53df6bf2d631b8935d49ca0ae]: Textual amendment: [S. 56](https://www.legislation.gov.uk/ukpga/1985/51/section/56) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-159d46e53df6bf2d631b8935d49ca0ae]: Textual amendment: [S. 56](https://www.legislation.gov.uk/ukpga/1985/51/section/56) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3

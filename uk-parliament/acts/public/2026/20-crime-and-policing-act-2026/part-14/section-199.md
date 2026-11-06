@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 199. Duty of IOPC Director General to give victims right to request review[^key-03022d89de8ddba4da47255e0749323b][^key-40aace5c39b028f9ad5ccd69cdbdd01f]
+## 199. Duty of IOPC Director General to give victims right to request review[^c-03022d89de8ddba4da47255e0749323b][^c-40aace5c39b028f9ad5ccd69cdbdd01f]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ After [paragraph 23](https://www.legislation.gov.uk/ukpga/2002/30/schedule/3/par
 
 ## Annotations
 
-[^key-03022d89de8ddba4da47255e0749323b]: Commencement: S. 199 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-03022d89de8ddba4da47255e0749323b]: Commencement: S. 199 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-40aace5c39b028f9ad5ccd69cdbdd01f]: Commencement: [S. 199](https://www.legislation.gov.uk/ukpga/2026/20/section/199) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/x)
+[^c-40aace5c39b028f9ad5ccd69cdbdd01f]: Commencement: [S. 199](https://www.legislation.gov.uk/ukpga/2026/20/section/199) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/x)

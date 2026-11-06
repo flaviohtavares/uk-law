@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 233. Power to replace Health and Safety Executive as building safety regulator[^key-319f27785b094bdaee642289fa1a36a1]
+## 233. Power to replace Health and Safety Executive as building safety regulator[^c-319f27785b094bdaee642289fa1a36a1]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-319f27785b094bdaee642289fa1a36a1]: Commencement: [S. 233](https://www.legislation.gov.uk/ukpga/2023/55/section/233) in force at 26.12.2023, see [s. 255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b)
+[^c-319f27785b094bdaee642289fa1a36a1]: Commencement: [S. 233](https://www.legislation.gov.uk/ukpga/2023/55/section/233) in force at 26.12.2023, see [s. 255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b)

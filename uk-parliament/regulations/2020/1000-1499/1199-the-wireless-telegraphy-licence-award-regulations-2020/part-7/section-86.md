@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Valid full adjacency agreement[^key-228624315b887896129f32ef23313148]
+## 86. Valid full adjacency agreement[^c-228624315b887896129f32ef23313148]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-228624315b887896129f32ef23313148]: Commencement: Reg. 86 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-228624315b887896129f32ef23313148]: Commencement: Reg. 86 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Her Majesty's Chief Inspector of Education, Children's Services and Skills[^key-80d59a8e1e007fe4f21e9c1e5d1db136][^c17507781]
+## 113. Her Majesty's Chief Inspector of Education, Children's Services and Skills[^c-80d59a8e1e007fe4f21e9c1e5d1db136][^c17507781]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-80d59a8e1e007fe4f21e9c1e5d1db136]: Commencement: S. 113 in force at 1.4.2007 in so far as not already in force by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(s)](https://www.legislation.gov.uk/uksi/2007/935/article/5/s)
+[^c-80d59a8e1e007fe4f21e9c1e5d1db136]: Commencement: S. 113 in force at 1.4.2007 in so far as not already in force by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(s)](https://www.legislation.gov.uk/uksi/2007/935/article/5/s)
 
 [^c17507781]: Commencement: S. 113 partly in force; s. 113 in force at 8.11.2006 in so far as it confers power to make subordinate legislation see [s. 188(1)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/1)

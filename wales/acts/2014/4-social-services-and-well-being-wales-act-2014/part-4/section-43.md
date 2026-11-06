@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Duty to meet support needs of a child carer: supplementary[^key-8263e823d26fff01c76211a9512feccb]
+## 43. Duty to meet support needs of a child carer: supplementary[^c-8263e823d26fff01c76211a9512feccb]
 
 *Extent: E+W*
 
@@ -89,4 +89,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8263e823d26fff01c76211a9512feccb]: Commencement: S. 43 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-8263e823d26fff01c76211a9512feccb]: Commencement: S. 43 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

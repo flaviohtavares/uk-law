@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Offence of providing false information[^key-66d57920e8071ba395c68a87b2aa9456][^key-4fb8e53a8a5da2dc7ecc41282f653c05]
+## 77. Offence of providing false information[^c-66d57920e8071ba395c68a87b2aa9456][^c-4fb8e53a8a5da2dc7ecc41282f653c05]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-66d57920e8071ba395c68a87b2aa9456]: Commencement: S. 77 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-66d57920e8071ba395c68a87b2aa9456]: Commencement: S. 77 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-4fb8e53a8a5da2dc7ecc41282f653c05]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2023/32/section/77) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
+[^c-4fb8e53a8a5da2dc7ecc41282f653c05]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2023/32/section/77) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)

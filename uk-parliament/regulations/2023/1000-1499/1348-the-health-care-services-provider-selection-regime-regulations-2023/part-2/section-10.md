@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. The Most Suitable Provider Process[^key-44f566ceeb50c42f0a105d514cce7f8c]
+## 10. The Most Suitable Provider Process[^c-44f566ceeb50c42f0a105d514cce7f8c]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) follows the steps set out in this regulation, and
 - (b) awards any contract without a competition.
 
-(2) Step 1 is that the relevant authority submits for publication on the central digital platform[^key-322da1d9af8b661e919222b803cb9c01] a notice of intention to follow the Most Suitable Provider Process.
+(2) Step 1 is that the relevant authority submits for publication on the central digital platform[^c-322da1d9af8b661e919222b803cb9c01] a notice of intention to follow the Most Suitable Provider Process.
 
 (3) The notice referred to in paragraph (2) must include the information set out in Schedule 5.
 
@@ -35,7 +35,7 @@ summary: ''
 
 (6) Step 3 is that the relevant authority assesses the potential providers identified in step 2 and chooses, taking into account the key criteria and applying the basic selection criteria, the most suitable provider to whom to make an award.
 
-(7) Step 4 is that the relevant authority submits for publication on the central digital platform[^key-3f57bb638cb6d5efde88d70163d4ed43] a notice of intention to make an award to the chosen provider.
+(7) Step 4 is that the relevant authority submits for publication on the central digital platform[^c-3f57bb638cb6d5efde88d70163d4ed43] a notice of intention to make an award to the chosen provider.
 
 (8) The notice referred to in paragraph (7) must include the information set out in Schedule 6.
 
@@ -52,7 +52,7 @@ summary: ''
 
 (13) Step 7 is that the relevant authority enters into the contract after the standstill period has ended in accordance with regulation 12(9) or (10).
 
-(14) Step 8 is that the relevant authority submits for publication on the central digital platform[^key-42e33b1e020cba6883d6997b1506cd0f] a notice of the award of the contract.
+(14) Step 8 is that the relevant authority submits for publication on the central digital platform[^c-42e33b1e020cba6883d6997b1506cd0f] a notice of the award of the contract.
 
 (15) The notice referred to in paragraph (14) must—
 
@@ -61,10 +61,10 @@ summary: ''
 
 ## Annotations
 
-[^key-44f566ceeb50c42f0a105d514cce7f8c]: Commencement: Reg. 10 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-44f566ceeb50c42f0a105d514cce7f8c]: Commencement: Reg. 10 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
 
-[^key-322da1d9af8b661e919222b803cb9c01]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/10/2) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [28(3)](https://www.legislation.gov.uk/uksi/2025/163/regulation/28/3) (with [reg. 34](https://www.legislation.gov.uk/uksi/2025/163/regulation/34))
+[^c-322da1d9af8b661e919222b803cb9c01]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/10/2) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [28(3)](https://www.legislation.gov.uk/uksi/2025/163/regulation/28/3) (with [reg. 34](https://www.legislation.gov.uk/uksi/2025/163/regulation/34))
 
-[^key-3f57bb638cb6d5efde88d70163d4ed43]: Textual amendment: Words in [reg. 10(7)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/10/7) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [28(3)](https://www.legislation.gov.uk/uksi/2025/163/regulation/28/3) (with [reg. 34](https://www.legislation.gov.uk/uksi/2025/163/regulation/34))
+[^c-3f57bb638cb6d5efde88d70163d4ed43]: Textual amendment: Words in [reg. 10(7)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/10/7) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [28(3)](https://www.legislation.gov.uk/uksi/2025/163/regulation/28/3) (with [reg. 34](https://www.legislation.gov.uk/uksi/2025/163/regulation/34))
 
-[^key-42e33b1e020cba6883d6997b1506cd0f]: Textual amendment: Words in [reg. 10(14)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/10/14) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [28(3)](https://www.legislation.gov.uk/uksi/2025/163/regulation/28/3) (with [reg. 34](https://www.legislation.gov.uk/uksi/2025/163/regulation/34))
+[^c-42e33b1e020cba6883d6997b1506cd0f]: Textual amendment: Words in [reg. 10(14)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/10/14) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [28(3)](https://www.legislation.gov.uk/uksi/2025/163/regulation/28/3) (with [reg. 34](https://www.legislation.gov.uk/uksi/2025/163/regulation/34))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Waste oils[^key-59faebb30fc698cd7d4320b7dbf5c530]
+## 13. Waste oils[^c-59faebb30fc698cd7d4320b7dbf5c530]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59faebb30fc698cd7d4320b7dbf5c530]: Commencement: Reg. 13 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-59faebb30fc698cd7d4320b7dbf5c530]: Commencement: Reg. 13 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)

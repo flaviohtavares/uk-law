@@ -46,17 +46,17 @@ In accordance with section 6(3) of that Act, the Minister has consulted the Stat
 
 In accordance with section 65(2) of that Act, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-8a3447020d4ba2200f22799085c1dbad]
+## 1. Citation and commencement[^c-8a3447020d4ba2200f22799085c1dbad]
 
 (1) This Order may be cited as the Official Statistics Order 2023.
 
 (2) This Order comes into force on the day after the day on which it is made.
 
-## 2. Revocation[^key-f4d683aa3a7b5d0aff1ad60b7af8688a]
+## 2. Revocation[^c-f4d683aa3a7b5d0aff1ad60b7af8688a]
 
 The Official Statistics Order 2018[^f00002] is revoked.
 
-## 3. Official statistics[^key-93ae25a1faf1ae36c959e78b1823c5a2]
+## 3. Official statistics[^c-93ae25a1faf1ae36c959e78b1823c5a2]
 
 (1) To the extent that they are not otherwise official statistics by virtue of section 6(1)(a) of the Statistics and Registration Service Act 2007, the statistics produced or to be produced by the persons listed in the Schedule to this Order are specified as official statistics for the purposes of section 6(1)(b) of that Act.
 
@@ -70,18 +70,18 @@ Cabinet Office
 
 27th July 2023
 
-## SCHEDULE[^key-cb5665acd9e7eb461e61177cddde0f7d]
+## SCHEDULE[^c-cb5665acd9e7eb461e61177cddde0f7d]
 
 Article 3(1)
 
-[^key-cb5665acd9e7eb461e61177cddde0f7d]
+[^c-cb5665acd9e7eb461e61177cddde0f7d]
 
 - The Arts Council of England.
 - The Board of the Pension Protection Fund.
 - The British Film Institute.
 - The British Tourist Authority.
 - The British Transport Police Authority.
-- The Building Safety Regulator[^key-00d9394d6c1e9bcd3226168c6d79eba2].
+- The Building Safety Regulator[^c-00d9394d6c1e9bcd3226168c6d79eba2].
 - The Care Quality Commission.
 - The Children and Family Court Advisory and Support Service.
 - The Coal Authority.
@@ -141,19 +141,19 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00001]: Footnote: [2007 c. 18](https://www.legislation.gov.uk/ukpga/2007/18).
 
-[^key-8a3447020d4ba2200f22799085c1dbad]: Commencement: Art. 1 in force at 28.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/878/article/1/2)
+[^c-8a3447020d4ba2200f22799085c1dbad]: Commencement: Art. 1 in force at 28.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/878/article/1/2)
 
-[^key-f4d683aa3a7b5d0aff1ad60b7af8688a]: Commencement: Art. 2 in force at 28.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/878/article/1/2)
+[^c-f4d683aa3a7b5d0aff1ad60b7af8688a]: Commencement: Art. 2 in force at 28.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/878/article/1/2)
 
 [^f00002]: Footnote: [S.I. 2018/888](https://www.legislation.gov.uk/uksi/2018/888).
 
-[^key-93ae25a1faf1ae36c959e78b1823c5a2]: Commencement: Art. 3 in force at 28.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/878/article/1/2)
+[^c-93ae25a1faf1ae36c959e78b1823c5a2]: Commencement: Art. 3 in force at 28.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/878/article/1/2)
 
 [^f00003]: Footnote: “**Scottish devolved statistics**” and “**Northern Ireland devolved statistics**” are defined by section 66 of the Statistics and Registration Service Act [2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18) as amended by the section 69 of, and paragraph 69 of Schedule 6 to, the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4).
 
-[^key-cb5665acd9e7eb461e61177cddde0f7d]: Commencement: Sch. in force at 28.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/878/article/1/2)
+[^c-cb5665acd9e7eb461e61177cddde0f7d]: Commencement: Sch. in force at 28.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/878/article/1/2)
 
-[^key-00d9394d6c1e9bcd3226168c6d79eba2]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2023/878/schedule) inserted (27.1.2026) by [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2026/20/schedule/1/paragraph/25) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))
+[^c-00d9394d6c1e9bcd3226168c6d79eba2]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2023/878/schedule) inserted (27.1.2026) by [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2026/20/schedule/1/paragraph/25) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))
 
 [^f00004]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 

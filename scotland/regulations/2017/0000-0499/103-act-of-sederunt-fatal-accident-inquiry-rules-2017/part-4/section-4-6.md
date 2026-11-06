@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4.6. Lodging productions[^key-992ce2723492e3c16d718f5b51f3dcd3]
+## 4.6. Lodging productions[^c-992ce2723492e3c16d718f5b51f3dcd3]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-992ce2723492e3c16d718f5b51f3dcd3]: Commencement: [Rule 4.6](https://www.legislation.gov.uk/ssi/2017/103/rule/4.6) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-992ce2723492e3c16d718f5b51f3dcd3]: Commencement: [Rule 4.6](https://www.legislation.gov.uk/ssi/2017/103/rule/4.6) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3G — Gold and Products Related to Gold[^key-799a522397ecf2d4900fc77ab57b445a]
+## SCHEDULE 3G — Gold and Products Related to Gold[^c-799a522397ecf2d4900fc77ab57b445a]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ Regulation 21
 
 #### 1. Interpretation
 
-Paragraph 1 of Schedule 3 applies for the purposes of interpreting Parts 2 and 3[^key-41a7c45130dd6206f079572d2cea6fa3].
+Paragraph 1 of Schedule 3 applies for the purposes of interpreting Parts 2 and 3[^c-41a7c45130dd6206f079572d2cea6fa3].
 
 ### PART 2
 
@@ -46,7 +46,7 @@ Paragraph 1 of Schedule 3 applies for the purposes of interpreting Parts 2 and 3
   | --- | --- |
   | ex 7118 9000 | Gold coin |
 
-### PART 3[^key-ac04374fd2c00f83eedf8e2217882ec0]
+### PART 3[^c-ac04374fd2c00f83eedf8e2217882ec0]
 
 **4.** Any thing falling—
 
@@ -60,8 +60,8 @@ Paragraph 1 of Schedule 3 applies for the purposes of interpreting Parts 2 and 3
 
 ## Annotations
 
-[^key-799a522397ecf2d4900fc77ab57b445a]: Textual amendment: Schs. 3E-3H inserted (21.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 14) Regulations 2022 (S.I. 2022/850)](https://www.legislation.gov.uk/uksi/2022/850), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/850/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2022/850/regulation/26)
+[^c-799a522397ecf2d4900fc77ab57b445a]: Textual amendment: Schs. 3E-3H inserted (21.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 14) Regulations 2022 (S.I. 2022/850)](https://www.legislation.gov.uk/uksi/2022/850), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/850/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2022/850/regulation/26)
 
-[^key-41a7c45130dd6206f079572d2cea6fa3]: Textual amendment: Words in [Sch. 3G para. 1](https://www.legislation.gov.uk/uksi/2019/855/schedule/3G/paragraph/1) substituted (29.10.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/b), [11(9)(a)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/11/9/a)
+[^c-41a7c45130dd6206f079572d2cea6fa3]: Textual amendment: Words in [Sch. 3G para. 1](https://www.legislation.gov.uk/uksi/2019/855/schedule/3G/paragraph/1) substituted (29.10.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/b), [11(9)(a)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/11/9/a)
 
-[^key-ac04374fd2c00f83eedf8e2217882ec0]: Textual amendment: [Sch. 3G Pt. 3](https://www.legislation.gov.uk/uksi/2019/855/schedule/3G/part/3) inserted (29.10.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/b), [11(9)(b)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/11/9/b)
+[^c-ac04374fd2c00f83eedf8e2217882ec0]: Textual amendment: [Sch. 3G Pt. 3](https://www.legislation.gov.uk/uksi/2019/855/schedule/3G/part/3) inserted (29.10.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/b), [11(9)(b)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/11/9/b)

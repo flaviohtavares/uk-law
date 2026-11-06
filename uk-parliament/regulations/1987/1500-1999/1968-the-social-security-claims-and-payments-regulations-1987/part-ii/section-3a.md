@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3A. Notification that claim not required for entitlement to a Category A or B retirement pension[^key-1eb20a209cdc6a43795e31aa94afb0b3]
+## 3A. Notification that claim not required for entitlement to a Category A or B retirement pension[^c-1eb20a209cdc6a43795e31aa94afb0b3]
 
 *Extent: E+W+S*
 
@@ -54,7 +54,7 @@ must make a claim in order subsequently to be entitled to a Category A or B reti
   - (e) state pension credit; and
 - “non-exempt benefit” means any of the following—
   - (a) carer’s allowance;
-  - (ab) the carer support payment component of carer support given in accordance with[^key-b45862549f7f7094cb76a06990e3583c][^key-6b0b01825518e776b3d570b401fa8f0c] the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023;
+  - (ab) the carer support payment component of carer support given in accordance with[^c-b45862549f7f7094cb76a06990e3583c][^c-6b0b01825518e776b3d570b401fa8f0c] the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023;
   - (b) short-term incapacity benefit;
   - (c) severe disablement allowance;
   - (d) widowed mother’s allowance;
@@ -68,16 +68,16 @@ must make a claim in order subsequently to be entitled to a Category A or B reti
   - (i) section 8(2)(a)(attendance, information and evidence);
   - (ii) section 17A(5)(d)(schemes for assisting persons to obtain employment: “work for your benefit” schemes etc.);
   - (iii) paragraph 7(1)(a) of Schedule A1(persons dependent on drugs etc.);
-- (ca)[^key-6a638747f0978380cb3415d85b9bec87] any provision of the Social Security Fraud Act 2001 and regulations made by virtue of any such provision;
+- (ca)[^c-6a638747f0978380cb3415d85b9bec87] any provision of the Social Security Fraud Act 2001 and regulations made by virtue of any such provision;
 - (d) regulation 18 of the Social Security (Incapacity for Work) (General) Regulations 1995 disqualification for misconduct etc.); and
 - (e) regulation 157 of the Employment and Support Allowance Regulations (disqualification for misconduct etc.).
 
 ## Annotations
 
-[^key-1eb20a209cdc6a43795e31aa94afb0b3]: Textual amendment: Reg. 3A inserted (2.11.2010) by [The Social Security (Exemption from Claiming Retirement Pension) Regulations 2010 (S.I. 2010/1794)](https://www.legislation.gov.uk/uksi/2010/1794), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1794/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2010/1794/regulation/2/3)
+[^c-1eb20a209cdc6a43795e31aa94afb0b3]: Textual amendment: Reg. 3A inserted (2.11.2010) by [The Social Security (Exemption from Claiming Retirement Pension) Regulations 2010 (S.I. 2010/1794)](https://www.legislation.gov.uk/uksi/2010/1794), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1794/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2010/1794/regulation/2/3)
 
-[^key-b45862549f7f7094cb76a06990e3583c]: Textual amendment: Words in [reg. 3A(6)(ab)](https://www.legislation.gov.uk/uksi/1987/1968/regulation/3A/6/ab) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [9](https://www.legislation.gov.uk/uksi/2026/246/article/9)
+[^c-b45862549f7f7094cb76a06990e3583c]: Textual amendment: Words in [reg. 3A(6)(ab)](https://www.legislation.gov.uk/uksi/1987/1968/regulation/3A/6/ab) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [9](https://www.legislation.gov.uk/uksi/2026/246/article/9)
 
-[^key-6b0b01825518e776b3d570b401fa8f0c]: Textual amendment: Words in [reg. 3A(6)](https://www.legislation.gov.uk/uksi/1987/1968/regulation/3A/6) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [6](https://www.legislation.gov.uk/uksi/2023/1218/article/6)
+[^c-6b0b01825518e776b3d570b401fa8f0c]: Textual amendment: Words in [reg. 3A(6)](https://www.legislation.gov.uk/uksi/1987/1968/regulation/3A/6) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [6](https://www.legislation.gov.uk/uksi/2023/1218/article/6)
 
-[^key-6a638747f0978380cb3415d85b9bec87]: Textual amendment: [Reg. 3A(7)(ca)](https://www.legislation.gov.uk/uksi/1987/1968/regulation/3A/7/ca) inserted (11.10.2011) by [The Social Security (Exemption from Claiming Retirement Pension) Regulations 2011 (S.I. 2011/1554)](https://www.legislation.gov.uk/uksi/2011/1554), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1554/regulation/1), [2](https://www.legislation.gov.uk/uksi/2011/1554/regulation/2)
+[^c-6a638747f0978380cb3415d85b9bec87]: Textual amendment: [Reg. 3A(7)(ca)](https://www.legislation.gov.uk/uksi/1987/1968/regulation/3A/7/ca) inserted (11.10.2011) by [The Social Security (Exemption from Claiming Retirement Pension) Regulations 2011 (S.I. 2011/1554)](https://www.legislation.gov.uk/uksi/2011/1554), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1554/regulation/1), [2](https://www.legislation.gov.uk/uksi/2011/1554/regulation/2)

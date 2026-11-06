@@ -53,7 +53,7 @@ Section 109
 > - “**recognised investment exchange**” has the same meaning as in FISMA 2000 (see section 285), and
 > - “**securities**” includes shares and stock.
 
-**2.**[^key-0d458f5d49eb3d463bae882258a5bb01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-0d458f5d49eb3d463bae882258a5bb01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.** In section 288 of TCGA 1992 (interpretation), after subsection (5) insert—
 
@@ -63,7 +63,7 @@ Section 109
 
 ### Valuation of shares listed on recognised stock exchange for purposes of TCGA 1992 etc
 
-**4.**[^key-983029e5f0c96c6ae08bc16224100ef0] (1) In section 272 of TCGA 1992 (valuation: general), for subsections (3) and (4) substitute—
+**4.**[^c-983029e5f0c96c6ae08bc16224100ef0] (1) In section 272 of TCGA 1992 (valuation: general), for subsections (3) and (4) substitute—
 
 > (3) The Treasury may make regulations as to the manner for determining for the purposes of this Act—
 >
@@ -77,7 +77,7 @@ Section 109
 
 (2) The amendment made by sub-paragraph (1) has effect where the date of valuation falls on or after such day as may be appointed by the Treasury by order; and different days may be appointed for different purposes.
 
-**5.**[^key-df1330cb71eaa9cfeaed262fcdd5a5ee] (1) In ITTOIA 2005, for sections 450 and 451 substitute—
+**5.**[^c-df1330cb71eaa9cfeaed262fcdd5a5ee] (1) In ITTOIA 2005, for sections 450 and 451 substitute—
 
 > **450. Market value of strips etc**
 >
@@ -103,21 +103,21 @@ Section 109
 
 **7.** (1) ICTA is amended as follows.
 
-(2)[^key-44add8966c6974cae9f0cca62862917d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-44add8966c6974cae9f0cca62862917d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 312(1E)(a) (interpretation of Chapter 3 of Part 7), for “section 841” substitute “ section 1005(1)(b) of ITA 2007 ”.
 
-(4)[^key-5e3824e18ee367ca4835d5fdbdbe3f4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-5e3824e18ee367ca4835d5fdbdbe3f4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-5e3824e18ee367ca4835d5fdbdbe3f4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-5e3824e18ee367ca4835d5fdbdbe3f4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-5e3824e18ee367ca4835d5fdbdbe3f4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-5e3824e18ee367ca4835d5fdbdbe3f4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-5e3824e18ee367ca4835d5fdbdbe3f4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-5e3824e18ee367ca4835d5fdbdbe3f4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-5e3824e18ee367ca4835d5fdbdbe3f4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-5e3824e18ee367ca4835d5fdbdbe3f4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-5e3824e18ee367ca4835d5fdbdbe3f4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-5e3824e18ee367ca4835d5fdbdbe3f4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) In paragraph 5 of Schedule 20 (charities: qualifying investments and loans), omit “, or which are dealt in on the Unlisted Securities Market”.
 
@@ -202,7 +202,7 @@ Section 109
   > - (a) designate a market by name or by reference to any class or description of market, and
   > - (b) vary or revoke a previous order under that subsection.
 
-(11)[^key-2d1c2536790495ab57269befdb20a6d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-2d1c2536790495ab57269befdb20a6d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (12) In section 989 (list of Income Tax Acts definitions), after the definition of “settlor” insert—
 
@@ -232,14 +232,14 @@ Section 109
 
 ## Annotations
 
-[^key-0d458f5d49eb3d463bae882258a5bb01]: Textual amendment: Sch. 26 para. 2 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-0d458f5d49eb3d463bae882258a5bb01]: Textual amendment: Sch. 26 para. 2 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-983029e5f0c96c6ae08bc16224100ef0]: Commencement: [Sch. 26 para. 4](https://www.legislation.gov.uk/ukpga/2007/11/schedule/26/paragraph/4) has effect as specified by [The Finance Act 2007, Schedule 26, Paragraphs 4 and 5 (Valuation of Shares) (Appointed Day) Order 2015 (S.I. 2015/635)](https://www.legislation.gov.uk/uksi/2015/635), [art. 2](https://www.legislation.gov.uk/uksi/2015/635/article/2)
+[^c-983029e5f0c96c6ae08bc16224100ef0]: Commencement: [Sch. 26 para. 4](https://www.legislation.gov.uk/ukpga/2007/11/schedule/26/paragraph/4) has effect as specified by [The Finance Act 2007, Schedule 26, Paragraphs 4 and 5 (Valuation of Shares) (Appointed Day) Order 2015 (S.I. 2015/635)](https://www.legislation.gov.uk/uksi/2015/635), [art. 2](https://www.legislation.gov.uk/uksi/2015/635/article/2)
 
-[^key-df1330cb71eaa9cfeaed262fcdd5a5ee]: Commencement: [Sch. 26 para. 5](https://www.legislation.gov.uk/ukpga/2007/11/schedule/26/paragraph/5) has effect as specified by [The Finance Act 2007, Schedule 26, Paragraphs 4 and 5 (Valuation of Shares) (Appointed Day) Order 2015 (S.I. 2015/635)](https://www.legislation.gov.uk/uksi/2015/635), [art. 2](https://www.legislation.gov.uk/uksi/2015/635/article/2)
+[^c-df1330cb71eaa9cfeaed262fcdd5a5ee]: Commencement: [Sch. 26 para. 5](https://www.legislation.gov.uk/ukpga/2007/11/schedule/26/paragraph/5) has effect as specified by [The Finance Act 2007, Schedule 26, Paragraphs 4 and 5 (Valuation of Shares) (Appointed Day) Order 2015 (S.I. 2015/635)](https://www.legislation.gov.uk/uksi/2015/635), [art. 2](https://www.legislation.gov.uk/uksi/2015/635/article/2)
 
-[^key-44add8966c6974cae9f0cca62862917d]: Textual amendment: Sch. 26 para. 7(2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-44add8966c6974cae9f0cca62862917d]: Textual amendment: Sch. 26 para. 7(2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-5e3824e18ee367ca4835d5fdbdbe3f4c]: Textual amendment: Sch. 26 para. 7(4)-(9) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-5e3824e18ee367ca4835d5fdbdbe3f4c]: Textual amendment: Sch. 26 para. 7(4)-(9) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-2d1c2536790495ab57269befdb20a6d5]: Textual amendment: Sch. 26 para. 12(11) omitted (with effect in accordance with Sch. 12 para. 15(1) of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 12 para. 13](https://www.legislation.gov.uk/ukpga/2010/13/schedule/12/paragraph/13)
+[^c-2d1c2536790495ab57269befdb20a6d5]: Textual amendment: Sch. 26 para. 12(11) omitted (with effect in accordance with Sch. 12 para. 15(1) of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 12 para. 13](https://www.legislation.gov.uk/ukpga/2010/13/schedule/12/paragraph/13)

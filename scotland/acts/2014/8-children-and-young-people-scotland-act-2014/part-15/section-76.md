@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76. References to the Schools (Consultation) (Scotland) Act 2010[^key-51d3b03f19f1c43c5e082c89a94b4da2]
+## 76. References to the Schools (Consultation) (Scotland) Act 2010[^c-51d3b03f19f1c43c5e082c89a94b4da2]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In this Part, references to the 2010 Act are to the Schools (Consultation) (Scot
 
 ## Annotations
 
-[^key-51d3b03f19f1c43c5e082c89a94b4da2]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2014/8/section/76) in force at 1.8.2014 by [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
+[^c-51d3b03f19f1c43c5e082c89a94b4da2]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2014/8/section/76) in force at 1.8.2014 by [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)

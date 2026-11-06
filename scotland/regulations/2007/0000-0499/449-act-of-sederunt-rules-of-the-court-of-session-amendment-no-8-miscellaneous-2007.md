@@ -41,13 +41,13 @@ Coming into force
 
 The Lords of Council and Session, under and by virtue of the powers conferred by section 5 of the Court of Session Act 1988[^f00001], and, these rules making provision for a purpose mentioned in section 2(2) of the European Communities Act 1972, and it appearing to the Lords of Council and Session that it is expedient for the reference to Council Regulation (E.C.) No. 1348/2000 of 29th May 2000 on service in the Member States of judicial and extrajudicial documents in civil and commercial matters and Council Regulation (E.C.) No. 1346/2000 of 29th May 2000 on insolvency proceedings to be construed as a reference to those instruments as amended from time to time, under and by virtue of the powers conferred by paragraph 1A of Schedule 2 to the European Communities Act 1972[^f00002], and under and by virtue of all other powers enabling them in that behalf, do hereby enact and declare:
 
-## 1. Citation and commencement[^key-88d49fe445d867b8da62ef60f897b572]
+## 1. Citation and commencement[^c-88d49fe445d867b8da62ef60f897b572]
 
 (1) This Act of Sederunt may be cited as the Act of Sederunt (Rules of the Court of Session Amendment No. 8) (Miscellaneous) 2007 and shall come into force on 25th October 2007.
 
 (2) This Act of Sederunt shall be inserted in the Books of Sederunt.
 
-## 2. Amendment of the Rules of the Court of Session[^key-8b0f0e48a84683c5f24cffafe9458640]
+## 2. Amendment of the Rules of the Court of Session[^c-8b0f0e48a84683c5f24cffafe9458640]
 
 (1) The Rules of the Court of Session 1994[^f00003] shall be amended in accordance with the following sub paragraphs.
 
@@ -148,9 +148,9 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
 
 .
 
-(12)[^key-bbd086c722c35bcc7d53384491dfe47d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-bbd086c722c35bcc7d53384491dfe47d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(13)[^key-bbd086c722c35bcc7d53384491dfe47d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-bbd086c722c35bcc7d53384491dfe47d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 A C HAMILTON
 
@@ -160,7 +160,7 @@ Edinburgh
 
 4th October 2007
 
-## SCHEDULE[^key-ab0005e8539a716f6e7a3dfcbc9795d4]
+## SCHEDULE[^c-ab0005e8539a716f6e7a3dfcbc9795d4]
 
 Paragraph 2(13)
 
@@ -186,9 +186,9 @@ Finally, paragraphs 2(5), (12) and (13) make provision for interventions by the 
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51).
 
-[^key-88d49fe445d867b8da62ef60f897b572]: Commencement: Para. 1 in force at 25.10.2007, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2007/449/paragraph/1/1)
+[^c-88d49fe445d867b8da62ef60f897b572]: Commencement: Para. 1 in force at 25.10.2007, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2007/449/paragraph/1/1)
 
-[^key-8b0f0e48a84683c5f24cffafe9458640]: Commencement: Para. 2 in force at 25.10.2007, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2007/449/paragraph/1/1)
+[^c-8b0f0e48a84683c5f24cffafe9458640]: Commencement: Para. 2 in force at 25.10.2007, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2007/449/paragraph/1/1)
 
 [^f00003]: Footnote: S.I. [1994/1443](https://www.legislation.gov.uk/uksi/1994/1443), last amended by [S.S.I. 2007/360](https://www.legislation.gov.uk/ssi/2007/360).
 
@@ -218,6 +218,6 @@ Finally, paragraphs 2(5), (12) and (13) make provision for interventions by the 
 
 [^f00016]: Footnote: Rule 74.34(2) was substituted by [S.S.I. 2005/521](https://www.legislation.gov.uk/ssi/2005/521).
 
-[^key-bbd086c722c35bcc7d53384491dfe47d]: Textual amendment: [Para. 2(12)](https://www.legislation.gov.uk/ssi/2007/449/paragraph/2/12)[(13)](https://www.legislation.gov.uk/ssi/2007/449/paragraph/2/13) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(a)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/a)
+[^c-bbd086c722c35bcc7d53384491dfe47d]: Textual amendment: [Para. 2(12)](https://www.legislation.gov.uk/ssi/2007/449/paragraph/2/12)[(13)](https://www.legislation.gov.uk/ssi/2007/449/paragraph/2/13) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(a)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/a)
 
-[^key-ab0005e8539a716f6e7a3dfcbc9795d4]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2007/449/schedule) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(a)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/a)
+[^c-ab0005e8539a716f6e7a3dfcbc9795d4]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2007/449/schedule) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(a)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/a)

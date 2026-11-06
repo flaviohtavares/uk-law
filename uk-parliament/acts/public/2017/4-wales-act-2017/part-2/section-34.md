@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Exercise of functions in relation to cross-border harbours[^key-a6edf6b64b27825513234e39bc5d7e19]
+## 34. Exercise of functions in relation to cross-border harbours[^c-a6edf6b64b27825513234e39bc5d7e19]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ the Minister of the Crown must first consult the Welsh Ministers (except where s
 
 ## Annotations
 
-[^key-a6edf6b64b27825513234e39bc5d7e19]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2017/4/section/34) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g)
+[^c-a6edf6b64b27825513234e39bc5d7e19]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2017/4/section/34) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g)

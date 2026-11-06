@@ -24,7 +24,7 @@ Section 73
 
 ### Meeting a child following sexual grooming
 
-**1.**[^key-d87bf3782381c919e66a9ba8319f336b] In section 15(1) of the Sexual Offences Act 2003 (c. 42) (meeting a child following sexual grooming etc) for paragraphs (a) and (b) substitute—
+**1.**[^c-d87bf3782381c919e66a9ba8319f336b] In section 15(1) of the Sexual Offences Act 2003 (c. 42) (meeting a child following sexual grooming etc) for paragraphs (a) and (b) substitute—
 
 > - (a) A has met or communicated with another person (B) on at least two occasions and subsequently—
 >   - (i) A intentionally meets B,
@@ -94,4 +94,4 @@ Section 73
 
 ## Annotations
 
-[^key-d87bf3782381c919e66a9ba8319f336b]: Commencement: [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/15/paragraph/1) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/35)
+[^c-d87bf3782381c919e66a9ba8319f336b]: Commencement: [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/15/paragraph/1) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/35)

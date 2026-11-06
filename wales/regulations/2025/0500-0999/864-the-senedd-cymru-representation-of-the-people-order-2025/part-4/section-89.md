@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 89. Presentation and service of Senedd election petition[^key-3d9bb05620de48b3523fefb772219995]
+## 89. Presentation and service of Senedd election petition[^c-3d9bb05620de48b3523fefb772219995]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d9bb05620de48b3523fefb772219995]: Commencement: Art. 89 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-3d9bb05620de48b3523fefb772219995]: Commencement: Art. 89 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

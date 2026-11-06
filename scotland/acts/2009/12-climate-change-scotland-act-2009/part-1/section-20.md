@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Carbon units and carbon accounting[^key-1bcc7e3ad9e2c4f26c2b750d18dd5f6a]
+## 20. Carbon units and carbon accounting[^c-1bcc7e3ad9e2c4f26c2b750d18dd5f6a]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1bcc7e3ad9e2c4f26c2b750d18dd5f6a]: Commencement: S. 20 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
+[^c-1bcc7e3ad9e2c4f26c2b750d18dd5f6a]: Commencement: S. 20 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3A — Safety Directions[^key-327e127d8350d36f4332c7829193cf7c]
+## SCHEDULE 3A — Safety Directions[^c-327e127d8350d36f4332c7829193cf7c]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 - (b) a person in possession of the ship,
 - (c) the master of the ship,
 - (d) a pilot of the ship,
-- (da) the owner of a hazardous substance in the ship,[^key-33e721bd5c7841d91b0b25af98eb97f7]
+- (da) the owner of a hazardous substance in the ship,[^c-33e721bd5c7841d91b0b25af98eb97f7]
 - (e) a salvor in possession of the ship,
 - (f) a person who is the servant or agent of a salvor in possession of the ship and who is in charge of the salvage operation, or
 - (g) where the ship is in, or has been directed to move into, waters which are regulated or managed by a harbour authority, the harbour authority or the harbour master.
@@ -152,10 +152,10 @@ summary: ''
 
 ### Enforcement
 
-**8.** A person guilty of an offence under paragraph 6 or 7 shall be liable— *(Extent: E+W)* *(affected by repeal, see note)*[^key-fadeea9f3f607b476a5d934fafb59991]
+**8.** A person guilty of an offence under paragraph 6 or 7 shall be liable— *(Extent: E+W)* *(affected by repeal, see note)*[^c-fadeea9f3f607b476a5d934fafb59991]
 
-- (a (Extent: E+W) (affected by repeal, see note))[^key-fadeea9f3f607b476a5d934fafb59991] on summary conviction, to a fine not exceeding £50,000, or *(Extent: E+W)* *(affected by repeal, see note)*[^key-fadeea9f3f607b476a5d934fafb59991]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-fadeea9f3f607b476a5d934fafb59991] on conviction on indictment, to a fine *(Extent: E+W)* *(affected by repeal, see note)*[^key-fadeea9f3f607b476a5d934fafb59991]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-fadeea9f3f607b476a5d934fafb59991] on summary conviction, to a fine not exceeding £50,000, or *(Extent: E+W)* *(affected by repeal, see note)*[^c-fadeea9f3f607b476a5d934fafb59991]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-fadeea9f3f607b476a5d934fafb59991] on conviction on indictment, to a fine *(Extent: E+W)* *(affected by repeal, see note)*[^c-fadeea9f3f607b476a5d934fafb59991]
 
 on summary conviction, or on conviction on indictment, to a fine *(Extent: E+W)*.
 
@@ -181,7 +181,7 @@ on summary conviction, or on conviction on indictment, to a fine *(Extent: E+W)*
 
 ### Procedure
 
-**11.**[^key-e41fc8c1472e1f354984bed8019ea137] Where the Secretary of State—
+**11.**[^c-e41fc8c1472e1f354984bed8019ea137] Where the Secretary of State—
 
 - (a) proposes to give a direction under this Schedule to a company or other body, and
 - (b) thinks that section 1139 of the Companies Act 2006 (service of documents on company) does not apply,
@@ -328,16 +328,16 @@ the direction may be served in such manner as the Secretary of State thinks most
 (2) The action shall not—
 
 - (a) be treated as a contempt of court, or
-- (b) give rise to civil liability on the part of the Admiralty Marshal (including the Admiralty Marshal of the Court of Judicature[^key-5e02e4c699cdadc4256e5a959d9e6e88] in Northern Ireland).
+- (b) give rise to civil liability on the part of the Admiralty Marshal (including the Admiralty Marshal of the Court of Judicature[^c-5e02e4c699cdadc4256e5a959d9e6e88] in Northern Ireland).
 
 ## Annotations
 
-[^key-327e127d8350d36f4332c7829193cf7c]: Textual amendment: Sch. 3A inserted (10.9.2003) by [Marine Safety Act 2003 (c. 16)](https://www.legislation.gov.uk/ukpga/2003/16), [s. 4](https://www.legislation.gov.uk/ukpga/2003/16/section/4), [Sch. 1](https://www.legislation.gov.uk/ukpga/2003/16/schedule/1)
+[^c-327e127d8350d36f4332c7829193cf7c]: Textual amendment: Sch. 3A inserted (10.9.2003) by [Marine Safety Act 2003 (c. 16)](https://www.legislation.gov.uk/ukpga/2003/16), [s. 4](https://www.legislation.gov.uk/ukpga/2003/16/section/4), [Sch. 1](https://www.legislation.gov.uk/ukpga/2003/16/schedule/1)
 
-[^key-33e721bd5c7841d91b0b25af98eb97f7]: Textual amendment: Sch. 3A para. 1(2)(da) inserted (20.9.2004) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) Regulations 2004 (S.I. 2004/2110)](https://www.legislation.gov.uk/uksi/2004/2110), [reg. 22(1)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/22/1)
+[^c-33e721bd5c7841d91b0b25af98eb97f7]: Textual amendment: Sch. 3A para. 1(2)(da) inserted (20.9.2004) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) Regulations 2004 (S.I. 2004/2110)](https://www.legislation.gov.uk/uksi/2004/2110), [reg. 22(1)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/22/1)
 
-[^key-fadeea9f3f607b476a5d934fafb59991]: Textual amendment: Words in [Sch. 3A para. 8](https://www.legislation.gov.uk/ukpga/1995/21/schedule/3A/paragraph/8) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 27(16)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/27/16) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-fadeea9f3f607b476a5d934fafb59991]: Textual amendment: Words in [Sch. 3A para. 8](https://www.legislation.gov.uk/ukpga/1995/21/schedule/3A/paragraph/8) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 27(16)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/27/16) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-e41fc8c1472e1f354984bed8019ea137]: Textual amendment: [Sch. 3A para. 11](https://www.legislation.gov.uk/ukpga/1995/21/schedule/3A/paragraph/11) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 152(5)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/152/5) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-e41fc8c1472e1f354984bed8019ea137]: Textual amendment: [Sch. 3A para. 11](https://www.legislation.gov.uk/ukpga/1995/21/schedule/3A/paragraph/11) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 152(5)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/152/5) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-5e02e4c699cdadc4256e5a959d9e6e88]: Textual amendment: Words in [Act](https://www.legislation.gov.uk/ukpga/1995/21) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/6); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-5e02e4c699cdadc4256e5a959d9e6e88]: Textual amendment: Words in [Act](https://www.legislation.gov.uk/ukpga/1995/21) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/6); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)

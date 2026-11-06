@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 236C. Quarterly returns[^key-586b29d4a24070b122eaee8199547906]
+## 236C. Quarterly returns[^c-586b29d4a24070b122eaee8199547906]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-586b29d4a24070b122eaee8199547906]: Textual amendment: [Ss. 236A-236K](https://www.legislation.gov.uk/ukpga/2014/26/section/236A) and cross-heading inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 1](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/1)
+[^c-586b29d4a24070b122eaee8199547906]: Textual amendment: [Ss. 236A-236K](https://www.legislation.gov.uk/ukpga/2014/26/section/236A) and cross-heading inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 1](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/1)

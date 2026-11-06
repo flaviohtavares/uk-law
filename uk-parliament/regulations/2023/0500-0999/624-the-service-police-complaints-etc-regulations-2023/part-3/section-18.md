@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Reviews relating to complaints dealt with other than by investigation[^key-daa19ac83199bca9227a29ad3ff212e1]
+## 18. Reviews relating to complaints dealt with other than by investigation[^c-daa19ac83199bca9227a29ad3ff212e1]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-daa19ac83199bca9227a29ad3ff212e1]: Commencement: Reg. 18 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-daa19ac83199bca9227a29ad3ff212e1]: Commencement: Reg. 18 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

@@ -24,7 +24,7 @@ summary: ''
 
 - (a) the investor makes two or more investments in the CDFI,
 - (b) the investor is eligible for and claims CITR in respect of those investments, and
-- (c) the investor receives value (other than value within section 366(1)(a)) which is received[^key-328709ee62ba6656e655e93e77b2e443] within the 6 year periods relating to two or more of those investments.
+- (c) the investor receives value (other than value within section 366(1)(a)) which is received[^c-328709ee62ba6656e655e93e77b2e443] within the 6 year periods relating to two or more of those investments.
 
 (2) Sections 363, 364, 365 and 369 have effect in relation to each investment referred to in subsection (1)(c) as if the amount of the value received were reduced by multiplying it by the fraction—
 
@@ -55,4 +55,4 @@ where—
 
 ## Annotations
 
-[^key-328709ee62ba6656e655e93e77b2e443]: Textual amendment: Words in s. 368(1)(c) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 518](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/518) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-328709ee62ba6656e655e93e77b2e443]: Textual amendment: Words in s. 368(1)(c) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 518](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/518) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

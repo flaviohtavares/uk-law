@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23D. Regional college to have regard to particular matters[^key-8956ca1fc70bd1e4c14fc21070ea9496]
+## 23D. Regional college to have regard to particular matters[^c-8956ca1fc70bd1e4c14fc21070ea9496]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ in which it carries on its activities.
 
 ## Annotations
 
-[^key-8956ca1fc70bd1e4c14fc21070ea9496]: Textual amendment: Ss. 23A-23D and cross-heading inserted (3.3.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 5(2)](https://www.legislation.gov.uk/asp/2013/12/section/5/2), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
+[^c-8956ca1fc70bd1e4c14fc21070ea9496]: Textual amendment: Ss. 23A-23D and cross-heading inserted (3.3.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 5(2)](https://www.legislation.gov.uk/asp/2013/12/section/5/2), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)

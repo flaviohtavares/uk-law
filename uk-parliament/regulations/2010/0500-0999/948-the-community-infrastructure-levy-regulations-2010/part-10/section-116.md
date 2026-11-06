@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 116. Charitable relief: appeal[^key-f776bcb1f5ce3ed857cba03fbf436a1b]
+## 116. Charitable relief: appeal[^c-f776bcb1f5ce3ed857cba03fbf436a1b]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f776bcb1f5ce3ed857cba03fbf436a1b]: Commencement: Reg. 116 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-f776bcb1f5ce3ed857cba03fbf436a1b]: Commencement: Reg. 116 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

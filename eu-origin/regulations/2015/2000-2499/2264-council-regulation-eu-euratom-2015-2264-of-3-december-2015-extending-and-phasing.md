@@ -33,26 +33,26 @@ of 3 December 2015
 
 extending and phasing out the temporary derogation measures from Regulation No 1 of 15 April 1958 determining the languages to be used by the European Economic Community and Regulation No 1 of 15 April 1958 determining the languages to be used by the European Atomic Energy Community introduced by Regulation (EC) No 920/2005 (revoked)
 
-[^key-5c037a13fe597230d91229b85a1daf8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5c037a13fe597230d91229b85a1daf8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-5c037a13fe597230d91229b85a1daf8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-5c037a13fe597230d91229b85a1daf8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-5c037a13fe597230d91229b85a1daf8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-5c037a13fe597230d91229b85a1daf8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-5c037a13fe597230d91229b85a1daf8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-5c037a13fe597230d91229b85a1daf8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-5c037a13fe597230d91229b85a1daf8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-5c037a13fe597230d91229b85a1daf8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-5c037a13fe597230d91229b85a1daf8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-5c037a13fe597230d91229b85a1daf8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-5c037a13fe597230d91229b85a1daf8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-5c037a13fe597230d91229b85a1daf8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5c037a13fe597230d91229b85a1daf8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5c037a13fe597230d91229b85a1daf8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — Timetable for the gradual reduction of the derogation[^key-5c037a13fe597230d91229b85a1daf8e]
+## ANNEX — Timetable for the gradual reduction of the derogation[^c-5c037a13fe597230d91229b85a1daf8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5c037a13fe597230d91229b85a1daf8e]: Textual amendment: Regulation revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5c037a13fe597230d91229b85a1daf8e]: Textual amendment: Regulation revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

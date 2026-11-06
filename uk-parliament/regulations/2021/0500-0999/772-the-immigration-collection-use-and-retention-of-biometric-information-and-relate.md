@@ -46,7 +46,7 @@ In accordance with section 41(8)(b) of the 1981 Act, section 166(5)(d) of the 19
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation, commencement and interpretation[^key-b73620b69cb235adf8c8e22842e5c4b4]
+### 1. Citation, commencement and interpretation[^c-b73620b69cb235adf8c8e22842e5c4b4]
 
 (1) These Regulations may be cited as the Immigration (Collection, Use and Retention of Biometric Information and Related Amendments) Regulations 2021 and come into force on 1st July 2021.
 
@@ -62,7 +62,7 @@ In accordance with section 41(8)(b) of the 1981 Act, section 166(5)(d) of the 19
 
 ## PART 2 — PROVISIONS RELATING TO THE USE, RETENTION AND DESTRUCTION OF BIOMETRIC INFORMATION FOR CERTAIN PERSONS WHO ARE SUBJECT TO IMMIGRATION CONTROL
 
-### 2. Photographs[^key-fadc3e51a5802377887afa34d4f9a38b]
+### 2. Photographs[^c-fadc3e51a5802377887afa34d4f9a38b]
 
 (1) A photograph may be taken, by an authorised person, of a person to whom this regulation applies.
 
@@ -92,7 +92,7 @@ In accordance with section 41(8)(b) of the 1981 Act, section 166(5)(d) of the 19
 
 - (a) any person (“A”) who, on arrival in the United Kingdom, is required by an immigration officer to produce a valid passport with photograph or some other document satisfactorily establishing A’s identity and nationality or citizenship and fails to do so;
 - (b) any person (“B”) who has been refused leave to enter the United Kingdom but has been granted immigration bail under Schedule 10 to the 2016 Act subject to a condition mentioned in paragraph 2(1)(c) or (d) of that Schedule, if an immigration officer reasonably suspects that B might break the condition[^f00009];
-- (c)[^key-ef835da452ef63d6b04b48e49b6f5809] any person (“**C**”) in respect of whom the Secretary of State—
+- (c)[^c-ef835da452ef63d6b04b48e49b6f5809] any person (“**C**”) in respect of whom the Secretary of State—
   - (i) is considering whether to make a deportation order,
   - (ii) is considering whether section 32(5) of the UK Borders Act 2007 (automatic deportation of foreign criminals) applies,
   - (iii) has decided to make a deportation order, or
@@ -102,7 +102,7 @@ In accordance with section 41(8)(b) of the 1981 Act, section 166(5)(d) of the 19
 - (f) any person (“F”) who has made a protection claim; and
 - (g) any person (“G”) who is—
   - (i) a member of the family of a person within any of sub-paragraphs (a), (b) or (d) to (f); or
-  - (ii) a dependant of a person within sub-paragraph (c)(i) or (iii)[^key-45cad8f40d763e8f2e939a7f27a1ccf9].
+  - (ii) a dependant of a person within sub-paragraph (c)(i) or (iii)[^c-45cad8f40d763e8f2e939a7f27a1ccf9].
 
 (8) For the purposes of paragraph (7)(g)(i), a person is a member of the family of another person (“P”) if—
 
@@ -124,7 +124,7 @@ In accordance with section 41(8)(b) of the 1981 Act, section 166(5)(d) of the 19
 
 - (a) for A, on A’s failure to produce the passport or other document;
 - (b) for B, on the decision to grant B immigration bail;
-- (c) for C —[^key-7fb02e843be9cd16383aae31a2083920]
+- (c) for C —[^c-7fb02e843be9cd16383aae31a2083920]
   - (i) when C is notified of the matter mentioned in paragraph (7)(c)(i) or (ii), or
   - (ii) if no such notification is given to C, when C is notified of the decision mentioned in paragraph (7)(c)(iii) or (iv);
 - (d) for D, when D becomes a person to whom this regulation applies;
@@ -138,8 +138,8 @@ In accordance with section 41(8)(b) of the 1981 Act, section 166(5)(d) of the 19
   - (i) the grant of leave to enter or remain in the United Kingdom;
   - (ii) for A, B, C, D or E, the person’s removal or deportation from the United Kingdom;
   - (iii) for C—
-    - (zaa)[^key-1b93b73be26775e27f60577f0d229cfe] the time when C is notified of the Secretary of State’s decision not to make a deportation order against C or that section 32(5) of the UK Borders Act 2007 does not apply in respect of C;
-    - (aa) the time when the decision mentioned in paragraph (7)(c)(iii) or (iv)[^key-08469b78d2861ea4c9089767422c7112] ceases to have effect, whether as a result of an appeal or otherwise; or
+    - (zaa)[^c-1b93b73be26775e27f60577f0d229cfe] the time when C is notified of the Secretary of State’s decision not to make a deportation order against C or that section 32(5) of the UK Borders Act 2007 does not apply in respect of C;
+    - (aa) the time when the decision mentioned in paragraph (7)(c)(iii) or (iv)[^c-08469b78d2861ea4c9089767422c7112] ceases to have effect, whether as a result of an appeal or otherwise; or
     - (bb) if a deportation order has been made against C, its revocation or its otherwise ceasing to have effect;
   - (iv) for D, when D no longer requires leave to enter or remain in the United Kingdom;
   - (v) for E, E’s release if E is no longer liable to be detained under paragraph 16 of Schedule 2 to the 1971 Act; and
@@ -159,7 +159,7 @@ In accordance with section 41(8)(b) of the 1981 Act, section 166(5)(d) of the 19
 
 (16) Neither paragraph (3) nor paragraph (15) prevents an authorised person from taking a photograph if the authorised person reasonably believes that the person of whom it is to be taken is aged sixteen or over.
 
-### 3. Attendance to be photographed[^key-b8ee5d1d3304fee4ce77d9301d67162f]
+### 3. Attendance to be photographed[^c-b8ee5d1d3304fee4ce77d9301d67162f]
 
 (1) The Secretary of State may, by notice in writing, require a person to whom regulation 2 applies to attend at a specified place for the person to be photographed.
 
@@ -183,7 +183,7 @@ In accordance with section 41(8)(b) of the 1981 Act, section 166(5)(d) of the 19
 
 (6) A requirement imposed under paragraph (1) ceases to have effect at the end of the relevant period (as defined by regulation 2).
 
-### 4. Use and retention of biometric information[^key-e7c41fd6a5ece20fe4420b3e3ff8eb97]
+### 4. Use and retention of biometric information[^c-e7c41fd6a5ece20fe4420b3e3ff8eb97]
 
 (1) Biometric information to which paragraph (3) applies may be retained only if the Secretary of State thinks that it is necessary to retain it for use in connection with—
 
@@ -202,7 +202,7 @@ In accordance with section 41(8)(b) of the 1981 Act, section 166(5)(d) of the 19
 - (a) these Regulations; and
 - (b) section 141 of the 1999 Act[^f00013].
 
-### 5. Use and retention of existing biometric information[^key-17a08c57cae969fe2fe3aec18120115e]
+### 5. Use and retention of existing biometric information[^c-17a08c57cae969fe2fe3aec18120115e]
 
 (1) Paragraph (2) applies where—
 
@@ -218,7 +218,7 @@ In accordance with section 41(8)(b) of the 1981 Act, section 166(5)(d) of the 19
 
 (4) Where this paragraph applies, the Secretary of State may use or retain the record of the fingerprints for the purposes of the 1999 Act or of these Regulations.
 
-### 6. Destruction of biometric information[^key-955370c93a972d965916dff9546db595]
+### 6. Destruction of biometric information[^c-955370c93a972d965916dff9546db595]
 
 (1) The Secretary of State must take all reasonable steps to ensure that biometric information held by the Secretary of State by virtue of these Regulations, including any copies, is destroyed if the Secretary of State—
 
@@ -230,7 +230,7 @@ In accordance with section 41(8)(b) of the 1981 Act, section 166(5)(d) of the 19
 
 (2) The exception is that photographs of a person who is registered or naturalised as a British citizen may be retained until the person is issued with a United Kingdom passport describing the person as a British citizen.
 
-### 7. Retention of fingerprints[^key-184b0ddd9856bedf40bdb546c7610bb8]
+### 7. Retention of fingerprints[^c-184b0ddd9856bedf40bdb546c7610bb8]
 
 (1) Save where regulation 6 applies, and subject to paragraphs (2) and (3), the Secretary of State must take all reasonable steps to ensure that any record of a person’s fingerprints held by the Secretary of State by virtue of these Regulations, including any copies, is destroyed at the end of the period of 15 years beginning with—
 
@@ -242,7 +242,7 @@ whichever is the later.
 (2) But fingerprints can be held beyond that period if they are—
 
 - (a) the fingerprints of a person who is, or at any time has been, subject to a deportation order, exclusion order or decision to exclude;
-- (aa)[^key-a16478804b1b14f657291de2b5286f88] the fingerprints of a person liable to arrest under paragraph 10(1)(b) of Schedule 10 to the Immigration Act 2016 for failing to comply with a condition of immigration bail of the kind mentioned in paragraph 2(1)(a) of that Schedule, subject to which the person’s immigration bail was granted;
+- (aa)[^c-a16478804b1b14f657291de2b5286f88] the fingerprints of a person liable to arrest under paragraph 10(1)(b) of Schedule 10 to the Immigration Act 2016 for failing to comply with a condition of immigration bail of the kind mentioned in paragraph 2(1)(a) of that Schedule, subject to which the person’s immigration bail was granted;
 - (b) the fingerprints of a person who can be, or at any time could have been, refused entry clearance or leave to enter for a period specified in the immigration rules because of a previous breach of the United Kingdom’s immigration laws;
 - (c) fingerprints that the Secretary of State deems it necessary for national security reasons to retain for use in connection with one of the functions specified in regulation 4(1);
 - (d) the fingerprints of a person with indefinite leave to enter or remain in the United Kingdom; or
@@ -257,7 +257,7 @@ whichever is the later.
 - (c) leave to remain; or
 - (d) registration or naturalisation as a British citizen.
 
-### 8. Destruction etc. of electronic data[^key-3b7bac05a94bd36c74c7c8afb246e8c5]
+### 8. Destruction etc. of electronic data[^c-3b7bac05a94bd36c74c7c8afb246e8c5]
 
 (1) The Secretary of State must take all reasonable steps to ensure—
 
@@ -268,13 +268,13 @@ whichever is the later.
 
 (3) A certificate issued under paragraph (2) must be issued within the period of three months beginning with the date on which the request for it is received by the Secretary of State.
 
-### 9. Biometric information: retention under another power[^key-7219313b94301307968881b77a6612a0]
+### 9. Biometric information: retention under another power[^c-7219313b94301307968881b77a6612a0]
 
 The requirements in this Part to destroy biometric information or data do not apply if and in so far as the information or data is retained in accordance with and for the purposes of another power.
 
 ## PART 3 — TRANSITIONAL PROVISION
 
-### 10. Transitional provision[^key-366deff4d1e10c4f69aef7d58135765d]
+### 10. Transitional provision[^c-366deff4d1e10c4f69aef7d58135765d]
 
 (1) In the period between the coming into force of these Regulations and the coming into force of paragraph 4(b) of Schedule 11 to the 2016 Act, references in regulation 2(7)(f), (11)(f) and (12)(a)(vi) to a protection claim are to be read as references to a claim for asylum.
 
@@ -284,7 +284,7 @@ The requirements in this Part to destroy biometric information or data do not ap
 
 ## PART 4 — AMENDMENTS TO RELATED SECONDARY LEGISLATION
 
-**11.**[^key-bea6bb4dee53374dfb1d831f2aeb43cb] The Schedule (which makes amendments to related secondary legislation) has effect.
+**11.**[^c-bea6bb4dee53374dfb1d831f2aeb43cb] The Schedule (which makes amendments to related secondary legislation) has effect.
 
 Kevin Foster
 
@@ -298,7 +298,7 @@ Home Office
 
 Regulation 11
 
-### 1. Amendment of the British Nationality (General) Regulations 2003[^key-6bb53dc98cec440e611475d5f99b85ca]
+### 1. Amendment of the British Nationality (General) Regulations 2003[^c-6bb53dc98cec440e611475d5f99b85ca]
 
 (1) The British Nationality (General) Regulations 2003[^f00015] are amended as follows.
 
@@ -340,7 +340,7 @@ Regulation 11
 
   .
 
-### 2. Amendment of the Immigration (Provision of Physical Data) Regulations 2006[^key-1aca7a5cf23017c26775bdb5a1643f91]
+### 2. Amendment of the Immigration (Provision of Physical Data) Regulations 2006[^c-1aca7a5cf23017c26775bdb5a1643f91]
 
 (1) The Immigration (Provision of Physical Data) Regulations 2006[^f00016] are amended as follows.
 
@@ -382,7 +382,7 @@ Regulation 11
 
   .
 
-### 3. Amendment of the Immigration (Biometric Registration) Regulations 2008[^key-594525bb088f1ad029acaec5773b6b59]
+### 3. Amendment of the Immigration (Biometric Registration) Regulations 2008[^c-594525bb088f1ad029acaec5773b6b59]
 
 (1) The Immigration (Biometric Registration) Regulations 2008[^f00017] are amended as follows.
 
@@ -546,66 +546,66 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00005]: Footnote: Section 166(5) was amended but that amendment is not relevant.
 
-[^key-b73620b69cb235adf8c8e22842e5c4b4]: Commencement: Reg. 1 in force at 1.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1)
+[^c-b73620b69cb235adf8c8e22842e5c4b4]: Commencement: Reg. 1 in force at 1.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1)
 
 [^f00006]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
 [^f00007]: Footnote: [2016 c. 19](https://www.legislation.gov.uk/ukpga/2016/19).
 
-[^key-fadc3e51a5802377887afa34d4f9a38b]: Commencement: Reg. 2 in force at 1.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1)
+[^c-fadc3e51a5802377887afa34d4f9a38b]: Commencement: Reg. 2 in force at 1.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1)
 
 [^f00008]: Footnote: Section 147 was amended by section 66 of the 2002 Act; there are other amendments not relevant to these Regulations.
 
 [^f00009]: Footnote: Under paragraph 2 of Schedule 10 to the Immigration Act 2016, where immigration bail is granted to a person, it must be granted subject to one or more conditions listed in paragraph 2(1), including a condition requiring the person to report to the Secretary of State or such other person as may be specified.
 
-[^key-ef835da452ef63d6b04b48e49b6f5809]: Textual amendment: Reg. 2(7)(c) substituted (with effect retrospectively in accordance with s. 44(17) of the amending Act) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 44(11)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/44/11/a), [65(3)(b)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/b)
+[^c-ef835da452ef63d6b04b48e49b6f5809]: Textual amendment: Reg. 2(7)(c) substituted (with effect retrospectively in accordance with s. 44(17) of the amending Act) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 44(11)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/44/11/a), [65(3)(b)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/b)
 
 [^f00010]: Footnote: Paragraph 16 was amended by section 140(1) of and paragraph 60 of Schedule 14 to the 1999 Act, section 73(5) of the 2002 Act, section 42(3) of the Immigration, Asylum and Nationality Act 2006, section 5(2) of the Immigration Act 2014, section 60(10) of the Immigration Act 2016 and [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813).
 
 [^f00011]: Footnote: Paragraph 17 was amended by Schedule 4 to the Asylum and Immigration Act [1996 (c. 49)](https://www.legislation.gov.uk/ukpga/1996/49), section 140(2) of the 1999 Act and sections 63 and 64 of the 2002 Act.
 
-[^key-45cad8f40d763e8f2e939a7f27a1ccf9]: Textual amendment: Words in reg. 2(7)(g)(ii) inserted (with effect retrospectively in accordance with s. 44(17) of the amending Act) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 44(11)(b)](https://www.legislation.gov.uk/ukpga/2025/31/section/44/11/b), [65(3)(b)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/b)
+[^c-45cad8f40d763e8f2e939a7f27a1ccf9]: Textual amendment: Words in reg. 2(7)(g)(ii) inserted (with effect retrospectively in accordance with s. 44(17) of the amending Act) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 44(11)(b)](https://www.legislation.gov.uk/ukpga/2025/31/section/44/11/b), [65(3)(b)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/b)
 
 [^f00012]: Footnote: Section 3ZA was inserted by section 2 of the Immigration and Social Security Co-ordination (EU Withdrawal) Act [2020 (c.20)](https://www.legislation.gov.uk/ukpga/2020/20).
 
-[^key-7fb02e843be9cd16383aae31a2083920]: Textual amendment: Reg. 2(11)(c)(i)(ii) substituted (with effect retrospectively in accordance with s. 44(17) of the amending Act) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 44(12)](https://www.legislation.gov.uk/ukpga/2025/31/section/44/12), [65(3)(b)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/b)
+[^c-7fb02e843be9cd16383aae31a2083920]: Textual amendment: Reg. 2(11)(c)(i)(ii) substituted (with effect retrospectively in accordance with s. 44(17) of the amending Act) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 44(12)](https://www.legislation.gov.uk/ukpga/2025/31/section/44/12), [65(3)(b)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/b)
 
-[^key-1b93b73be26775e27f60577f0d229cfe]: Textual amendment: Reg. 2(12)(a)(iii)(zaa) inserted (with effect retrospectively in accordance with s. 44(17) of the amending Act) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 44(13)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/44/13/a), [65(3)(b)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/b)
+[^c-1b93b73be26775e27f60577f0d229cfe]: Textual amendment: Reg. 2(12)(a)(iii)(zaa) inserted (with effect retrospectively in accordance with s. 44(17) of the amending Act) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 44(13)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/44/13/a), [65(3)(b)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/b)
 
-[^key-08469b78d2861ea4c9089767422c7112]: Textual amendment: Words in reg. 2(12)(a)(iii)(aa) substituted (with effect retrospectively in accordance with s. 44(17) of the amending Act) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 44(13)(b)](https://www.legislation.gov.uk/ukpga/2025/31/section/44/13/b), [65(3)(b)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/b)
+[^c-08469b78d2861ea4c9089767422c7112]: Textual amendment: Words in reg. 2(12)(a)(iii)(aa) substituted (with effect retrospectively in accordance with s. 44(17) of the amending Act) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 44(13)(b)](https://www.legislation.gov.uk/ukpga/2025/31/section/44/13/b), [65(3)(b)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/b)
 
-[^key-b8ee5d1d3304fee4ce77d9301d67162f]: Commencement: Reg. 3 in force at 1.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1)
+[^c-b8ee5d1d3304fee4ce77d9301d67162f]: Commencement: Reg. 3 in force at 1.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1)
 
-[^key-e7c41fd6a5ece20fe4420b3e3ff8eb97]: Commencement: Reg. 4 in force at 1.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1)
+[^c-e7c41fd6a5ece20fe4420b3e3ff8eb97]: Commencement: Reg. 4 in force at 1.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1)
 
 [^f00013]: Footnote: Section 141 was amended by section 66(2) of the 2002 Act, section 15(4) of the Asylum and Immigration (Treatment of Claimants, etc.) Act [2004 (c.19)](https://www.legislation.gov.uk/ukpga/2004/19), section 28 of the Immigration, Asylum and Nationality Act [2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), section 51 of the Borders, Citizenship and Immigration Act [2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), paragraph 29 of Schedule 9 to the Immigration Act 2014, section 57 of, and paragraph 30 of Schedule 10 to, the Immigration Act 2016 and [S.I. 2017/617](https://www.legislation.gov.uk/uksi/2017/617).
 
-[^key-17a08c57cae969fe2fe3aec18120115e]: Commencement: Reg. 5 in force at 1.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1)
+[^c-17a08c57cae969fe2fe3aec18120115e]: Commencement: Reg. 5 in force at 1.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1)
 
-[^key-955370c93a972d965916dff9546db595]: Commencement: Reg. 6 in force at 1.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1)
+[^c-955370c93a972d965916dff9546db595]: Commencement: Reg. 6 in force at 1.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1)
 
-[^key-184b0ddd9856bedf40bdb546c7610bb8]: Commencement: Reg. 7 in force at 1.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1)
+[^c-184b0ddd9856bedf40bdb546c7610bb8]: Commencement: Reg. 7 in force at 1.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1)
 
-[^key-a16478804b1b14f657291de2b5286f88]: Textual amendment: [Reg. 7(2)(aa)](https://www.legislation.gov.uk/uksi/2021/772/regulation/7/2/aa) inserted (27.3.2025) by [The Immigration (Biometric Information etc.) (Amendment) Regulations 2025 (S.I. 2025/382)](https://www.legislation.gov.uk/uksi/2025/382), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/382/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2025/382/regulation/23)
+[^c-a16478804b1b14f657291de2b5286f88]: Textual amendment: [Reg. 7(2)(aa)](https://www.legislation.gov.uk/uksi/2021/772/regulation/7/2/aa) inserted (27.3.2025) by [The Immigration (Biometric Information etc.) (Amendment) Regulations 2025 (S.I. 2025/382)](https://www.legislation.gov.uk/uksi/2025/382), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/382/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2025/382/regulation/23)
 
-[^key-3b7bac05a94bd36c74c7c8afb246e8c5]: Commencement: Reg. 8 in force at 1.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1)
+[^c-3b7bac05a94bd36c74c7c8afb246e8c5]: Commencement: Reg. 8 in force at 1.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1)
 
-[^key-7219313b94301307968881b77a6612a0]: Commencement: Reg. 9 in force at 1.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1)
+[^c-7219313b94301307968881b77a6612a0]: Commencement: Reg. 9 in force at 1.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1)
 
-[^key-366deff4d1e10c4f69aef7d58135765d]: Commencement: Reg. 10 in force at 1.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1)
+[^c-366deff4d1e10c4f69aef7d58135765d]: Commencement: Reg. 10 in force at 1.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1)
 
 [^f00014]: Footnote: https://www.echr.coe.int/documents/convention\_eng.pdf.
 
-[^key-bea6bb4dee53374dfb1d831f2aeb43cb]: Commencement: Reg. 11 in force at 1.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1)
+[^c-bea6bb4dee53374dfb1d831f2aeb43cb]: Commencement: Reg. 11 in force at 1.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1)
 
-[^key-6bb53dc98cec440e611475d5f99b85ca]: Commencement: Sch. para. 1 in force at 1.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1)
+[^c-6bb53dc98cec440e611475d5f99b85ca]: Commencement: Sch. para. 1 in force at 1.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1)
 
 [^f00015]: Footnote: [S.I. 2003/548](https://www.legislation.gov.uk/uksi/2003/548). Relevant amending instrument is [S.I. 2015/738](https://www.legislation.gov.uk/uksi/2015/738).
 
-[^key-1aca7a5cf23017c26775bdb5a1643f91]: Commencement: Sch. para. 2 in force at 1.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1)
+[^c-1aca7a5cf23017c26775bdb5a1643f91]: Commencement: Sch. para. 2 in force at 1.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1)
 
 [^f00016]: Footnote: [S.I. 2006/1743](https://www.legislation.gov.uk/uksi/2006/1743). Relevant amending instrument is [S.I. 2015/737](https://www.legislation.gov.uk/uksi/2015/737).
 
-[^key-594525bb088f1ad029acaec5773b6b59]: Commencement: Sch. para. 3 in force at 1.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1)
+[^c-594525bb088f1ad029acaec5773b6b59]: Commencement: Sch. para. 3 in force at 1.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1)
 
 [^f00017]: Footnote: [S.I. 2008/3048](https://www.legislation.gov.uk/uksi/2008/3048). Relevant amending instruments are [S.I. 2009/819](https://www.legislation.gov.uk/uksi/2009/819), [2012/594](https://www.legislation.gov.uk/uksi/2012/594) and [2015/433](https://www.legislation.gov.uk/uksi/2015/433).

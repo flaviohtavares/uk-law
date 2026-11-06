@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43A. Recovery of arrears from deceased's estate[^M_C_c6e0b2f3-b338-4ce1-b223-859786d4e04d][^key-2ee06e5e50e050360f38451acda9e611]
+## 43A. Recovery of arrears from deceased's estate[^M_C_c6e0b2f3-b338-4ce1-b223-859786d4e04d][^c-2ee06e5e50e050360f38451acda9e611]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Regulations under subsection (1) may, in particular—
 
-- (a) make provision for arrears of child support maintenance for which a deceased person was so liable to be a debt payable by the deceased's executor or administrator out of the deceased's estate to the Secretary of State[^key-18c87aefcb446593fc293e7f7521a1fb];
+- (a) make provision for arrears of child support maintenance for which a deceased person was so liable to be a debt payable by the deceased's executor or administrator out of the deceased's estate to the Secretary of State[^c-18c87aefcb446593fc293e7f7521a1fb];
 - (b) make provision for establishing the amount of any such arrears;
 - (c) make provision about procedure in relation to claims under the regulations.
 
@@ -34,6 +34,6 @@ summary: ''
 
 [^M_C_c6e0b2f3-b338-4ce1-b223-859786d4e04d]: Modification: S. 43A modified (10.6.2008) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [s. 59(4)](https://www.legislation.gov.uk/ukpga/2008/6/section/59/4); [S.I. 2008/1476](https://www.legislation.gov.uk/uksi/2008/1476), [art. 2(6)](https://www.legislation.gov.uk/uksi/2008/1476/article/2/6)
 
-[^key-2ee06e5e50e050360f38451acda9e611]: Textual amendment: S. 43A inserted (26.11.2009) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [ss. 38](https://www.legislation.gov.uk/ukpga/2008/6/section/38), [62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3); [S.I. 2009/3072](https://www.legislation.gov.uk/uksi/2009/3072), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/3072/article/2/2)
+[^c-2ee06e5e50e050360f38451acda9e611]: Textual amendment: S. 43A inserted (26.11.2009) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [ss. 38](https://www.legislation.gov.uk/ukpga/2008/6/section/38), [62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3); [S.I. 2009/3072](https://www.legislation.gov.uk/uksi/2009/3072), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/3072/article/2/2)
 
-[^key-18c87aefcb446593fc293e7f7521a1fb]: Textual amendment: Words in s. 43A(2)(a) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 54](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/54)
+[^c-18c87aefcb446593fc293e7f7521a1fb]: Textual amendment: Words in s. 43A(2)(a) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 54](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/54)

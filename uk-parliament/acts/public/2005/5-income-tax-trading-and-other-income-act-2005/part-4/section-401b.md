@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 401B. Power to obtain information[^key-021e84df45b5f3580dd6895a6cd5ff55]
+## 401B. Power to obtain information[^c-021e84df45b5f3580dd6895a6cd5ff55]
 
 *Extent: E+W+S+N.I.*
 
-(1) An officer of Revenue and Customs may, for the purposes of this Chapter[^key-b803a3d82642ece2fc0d68d9000bf3ea], by notice require any person in whose name any shares or loan capital are registered—
+(1) An officer of Revenue and Customs may, for the purposes of this Chapter[^c-b803a3d82642ece2fc0d68d9000bf3ea], by notice require any person in whose name any shares or loan capital are registered—
 
 - (a) to state whether or not that person is the beneficial owner of the shares or loan capital, and
 - (b) if that person is not the beneficial owner of the shares or loan capital, to provide the name and address of the person on whose behalf the shares or loan capital are registered in that person's name.
@@ -49,6 +49,6 @@ to provide any further information that the officer reasonably requires with a v
 
 ## Annotations
 
-[^key-021e84df45b5f3580dd6895a6cd5ff55]: Textual amendment: S. 401B inserted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 457](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/457) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-021e84df45b5f3580dd6895a6cd5ff55]: Textual amendment: S. 401B inserted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 457](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/457) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-b803a3d82642ece2fc0d68d9000bf3ea]: Textual amendment: Words in s. 401B substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/14)
+[^c-b803a3d82642ece2fc0d68d9000bf3ea]: Textual amendment: Words in s. 401B substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/14)

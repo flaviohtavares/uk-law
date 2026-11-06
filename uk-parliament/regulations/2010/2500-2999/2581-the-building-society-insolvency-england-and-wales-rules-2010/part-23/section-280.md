@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 280. “Insolvent estate”[^key-41655d05a514a7586ed673e32963daae]
+## 280. “Insolvent estate”[^c-41655d05a514a7586ed673e32963daae]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ References to “the insolvent estate” are to the assets of the building socie
 
 ## Annotations
 
-[^key-41655d05a514a7586ed673e32963daae]: Commencement: Rule 280 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-41655d05a514a7586ed673e32963daae]: Commencement: Rule 280 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

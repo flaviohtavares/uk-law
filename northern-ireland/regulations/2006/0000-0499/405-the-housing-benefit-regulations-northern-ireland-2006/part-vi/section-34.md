@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Earnings of self-employed earners[^key-fa185d92f0e6c13742c5684536993235]
+## 34. Earnings of self-employed earners[^c-fa185d92f0e6c13742c5684536993235]
 
 *Extent: N.I.*
 
-(1) Subject to paragraph (2), “earnings”, in the case of employment as a self-employed earner, means the gross income of the employment [^key-bbc2393bef21aaa41d0ec3e89341f4b3]....
+(1) Subject to paragraph (2), “earnings”, in the case of employment as a self-employed earner, means the gross income of the employment [^c-bbc2393bef21aaa41d0ec3e89341f4b3]....
 
 (2) “**Earnings**” shall not include any payment to which paragraph 27 or 28 of Schedule 6 refers nor shall it include any sports award.
 
-(3)[^key-a24354824a97cdc07dc3d81e85affe41][^key-d8a5527eee7766acbc7ca2cc151b0746] This paragraph applies to—
+(3)[^c-a24354824a97cdc07dc3d81e85affe41][^c-d8a5527eee7766acbc7ca2cc151b0746] This paragraph applies to—
 
 - (a) royalties or other sums paid as a consideration for the use of, or the right to use, any copyright, design, patent or trade mark; or
 - (b) any payment in respect of any—
@@ -37,10 +37,10 @@ where the claimant is the first owner of the copyright, design, patent or trade 
 
 ## Annotations
 
-[^key-fa185d92f0e6c13742c5684536993235]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2006/405/regulation/34) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-fa185d92f0e6c13742c5684536993235]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2006/405/regulation/34) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
 
-[^key-bbc2393bef21aaa41d0ec3e89341f4b3]: Textual amendment: Words in [reg. 34(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/34/1) omitted (31.10.2011) by virtue of [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [19(4)](https://www.legislation.gov.uk/nisr/2011/357/regulation/19/4)
+[^c-bbc2393bef21aaa41d0ec3e89341f4b3]: Textual amendment: Words in [reg. 34(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/34/1) omitted (31.10.2011) by virtue of [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [19(4)](https://www.legislation.gov.uk/nisr/2011/357/regulation/19/4)
 
-[^key-a24354824a97cdc07dc3d81e85affe41]: Textual amendment: [Reg. 34(3)](https://www.legislation.gov.uk/nisr/2006/405/regulation/34/3) substituted (coming into operation in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/3), [6(4)](https://www.legislation.gov.uk/nisr/2009/92/regulation/6/4)
+[^c-a24354824a97cdc07dc3d81e85affe41]: Textual amendment: [Reg. 34(3)](https://www.legislation.gov.uk/nisr/2006/405/regulation/34/3) substituted (coming into operation in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/3), [6(4)](https://www.legislation.gov.uk/nisr/2009/92/regulation/6/4)
 
-[^key-d8a5527eee7766acbc7ca2cc151b0746]: Textual amendment: [Reg. 34(3)(4)](https://www.legislation.gov.uk/nisr/2006/405/regulation/34/3) added (coming into operation in accordance with reg. 1(2) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/112)](https://www.legislation.gov.uk/nisr/2008/112), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2008/112/regulation/1/2), [6(3)](https://www.legislation.gov.uk/nisr/2008/112/regulation/6/3)
+[^c-d8a5527eee7766acbc7ca2cc151b0746]: Textual amendment: [Reg. 34(3)(4)](https://www.legislation.gov.uk/nisr/2006/405/regulation/34/3) added (coming into operation in accordance with reg. 1(2) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/112)](https://www.legislation.gov.uk/nisr/2008/112), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2008/112/regulation/1/2), [6(3)](https://www.legislation.gov.uk/nisr/2008/112/regulation/6/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. New rights only to be acquired in certain lands[^key-3dc709f02fe4c85107f47d228a17a7c4]
+## 34. New rights only to be acquired in certain lands[^c-3dc709f02fe4c85107f47d228a17a7c4]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3dc709f02fe4c85107f47d228a17a7c4]: Commencement: Art. 34 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-3dc709f02fe4c85107f47d228a17a7c4]: Commencement: Art. 34 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

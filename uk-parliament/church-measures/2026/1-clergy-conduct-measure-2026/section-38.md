@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 38. Power to impose penalty or administrative sanction[^key-0df4bb8c29f66a183712258a2bef7ccb]
+## 38. Power to impose penalty or administrative sanction[^c-0df4bb8c29f66a183712258a2bef7ccb]
 
 *Extent: E*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0df4bb8c29f66a183712258a2bef7ccb]: Commencement: S. 38 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-0df4bb8c29f66a183712258a2bef7ccb]: Commencement: S. 38 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

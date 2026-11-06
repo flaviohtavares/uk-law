@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## F1. Interpretation etc[^key-76f8cdaa57a14cb36fee612c4a294699]
+## F1. Interpretation etc[^c-76f8cdaa57a14cb36fee612c4a294699]
 
 *Extent: E+W+S*
 
@@ -47,6 +47,6 @@ and references to war service are to be construed in accordance with regulation 
 
 ## Annotations
 
-[^key-76f8cdaa57a14cb36fee612c4a294699]: Commencement: [Reg. F1](https://www.legislation.gov.uk/uksi/1986/24/regulation/F1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-76f8cdaa57a14cb36fee612c4a294699]: Commencement: [Reg. F1](https://www.legislation.gov.uk/uksi/1986/24/regulation/F1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00045]: Footnote: [1945 (9 & 10 Geo. 6) c.13](https://www.legislation.gov.uk/ukpga/1945/13).

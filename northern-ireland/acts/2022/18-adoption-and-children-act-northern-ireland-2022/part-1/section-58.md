@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 58. Offence[^key-cbd24d4f4ddf9e682333ce3cd6c00e10]
+## 58. Offence[^c-cbd24d4f4ddf9e682333ce3cd6c00e10]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Regulations may provide that an appropriate voluntary organisation which disclos
 
 ## Annotations
 
-[^key-cbd24d4f4ddf9e682333ce3cd6c00e10]: Commencement: S. 58 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-cbd24d4f4ddf9e682333ce3cd6c00e10]: Commencement: S. 58 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Meaning of “full assessment”[^key-9ff85c7115f6e0e4afe48d7361f1135a]
+## 15. Meaning of “full assessment”[^c-9ff85c7115f6e0e4afe48d7361f1135a]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ In this Chapter, “**full assessment**”, in relation to a disused tip, means 
 
 ## Annotations
 
-[^key-9ff85c7115f6e0e4afe48d7361f1135a]: Commencement: S. 15 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-9ff85c7115f6e0e4afe48d7361f1135a]: Commencement: S. 15 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

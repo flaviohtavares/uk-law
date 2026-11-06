@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Decision 2014/738/EU establishing best available techniques (BAT) conclusions, under Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions, for the refining of mineral oil and gas[^key-294e37a6277afde3aa0f7eba841d305d]
+## 13. Decision 2014/738/EU establishing best available techniques (BAT) conclusions, under Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions, for the refining of mineral oil and gas[^c-294e37a6277afde3aa0f7eba841d305d]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-294e37a6277afde3aa0f7eba841d305d]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-294e37a6277afde3aa0f7eba841d305d]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

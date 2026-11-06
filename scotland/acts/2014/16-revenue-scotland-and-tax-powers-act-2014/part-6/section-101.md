@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 101. References to the “taxpayer”[^key-b939e0c3bfab2134b1c8062c6293cb23]
+## 101. References to the “taxpayer”[^c-b939e0c3bfab2134b1c8062c6293cb23]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In sections 102 to 105 “**taxpayer**” means—
 
 ## Annotations
 
-[^key-b939e0c3bfab2134b1c8062c6293cb23]: Commencement: [S. 101](https://www.legislation.gov.uk/asp/2014/16/section/101) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-b939e0c3bfab2134b1c8062c6293cb23]: Commencement: [S. 101](https://www.legislation.gov.uk/asp/2014/16/section/101) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

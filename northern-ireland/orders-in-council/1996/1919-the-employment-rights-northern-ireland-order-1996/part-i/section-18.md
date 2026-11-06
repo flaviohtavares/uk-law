@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Remuneration varying according to time of work[^c17621131][^c20261901][^c20261911][^key-fa4a2f20fe0f13ddea3c91660bacc346][^key-af207d0a98ffe9249c61daa6269585e4]
+## 18. Remuneration varying according to time of work[^c17621131][^c20261901][^c20261911][^c-fa4a2f20fe0f13ddea3c91660bacc346][^c-af207d0a98ffe9249c61daa6269585e4]
 
 *Extent: N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 [^c20261911]: Modification: [Arts. 16-24](https://www.legislation.gov.uk/nisi/1996/1919/article/16) applied (6.4.2006) by [Service Provision Change (Protection of Employment) Regulations (Northern Ireland) 2006 (S.R. 2006/177)](https://www.legislation.gov.uk/nisr/2006/177), [reg. 16(4)](https://www.legislation.gov.uk/nisr/2006/177/regulation/16/4)
 
-[^key-fa4a2f20fe0f13ddea3c91660bacc346]: Modification: Arts. 17-20 applied (with modifications) (28.2.2016) by [The Working Time Regulations (Northern Ireland) 2016 (S.R. 2016/49)](https://www.legislation.gov.uk/nisr/2016/49), [regs. 1](https://www.legislation.gov.uk/nisr/2016/49/regulation/1), [20(2)](https://www.legislation.gov.uk/nisr/2016/49/regulation/20/2) (with [reg. 22(1)](https://www.legislation.gov.uk/nisr/2016/49/regulation/22/1))
+[^c-fa4a2f20fe0f13ddea3c91660bacc346]: Modification: Arts. 17-20 applied (with modifications) (28.2.2016) by [The Working Time Regulations (Northern Ireland) 2016 (S.R. 2016/49)](https://www.legislation.gov.uk/nisr/2016/49), [regs. 1](https://www.legislation.gov.uk/nisr/2016/49/regulation/1), [20(2)](https://www.legislation.gov.uk/nisr/2016/49/regulation/20/2) (with [reg. 22(1)](https://www.legislation.gov.uk/nisr/2016/49/regulation/22/1))
 
-[^key-af207d0a98ffe9249c61daa6269585e4]: Modification: Arts. 17-20 applied (with modifications) (28.2.2016) by [The Working Time Regulations (Northern Ireland) 2016 (S.R. 2016/49)](https://www.legislation.gov.uk/nisr/2016/49), [regs. 1](https://www.legislation.gov.uk/nisr/2016/49/regulation/1), [33(1)(c)](https://www.legislation.gov.uk/nisr/2016/49/regulation/33/1/c) (with [reg. 22(1)](https://www.legislation.gov.uk/nisr/2016/49/regulation/22/1))
+[^c-af207d0a98ffe9249c61daa6269585e4]: Modification: Arts. 17-20 applied (with modifications) (28.2.2016) by [The Working Time Regulations (Northern Ireland) 2016 (S.R. 2016/49)](https://www.legislation.gov.uk/nisr/2016/49), [regs. 1](https://www.legislation.gov.uk/nisr/2016/49/regulation/1), [33(1)(c)](https://www.legislation.gov.uk/nisr/2016/49/regulation/33/1/c) (with [reg. 22(1)](https://www.legislation.gov.uk/nisr/2016/49/regulation/22/1))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Statutory shared parental pay[^key-3546015f1ea296894fbd6c3a2956eaf9]
+## 119. Statutory shared parental pay[^c-3546015f1ea296894fbd6c3a2956eaf9]
 
 *Extent: E+W*
 
@@ -440,4 +440,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3546015f1ea296894fbd6c3a2956eaf9]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2014/6/section/119) in force at 30.6.2014 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/c)
+[^c-3546015f1ea296894fbd6c3a2956eaf9]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2014/6/section/119) in force at 30.6.2014 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/c)

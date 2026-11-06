@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 118. Liability of persons exercising functions[^key-d9a5d8db3bbfed88570dd1428619c276]
+## 118. Liability of persons exercising functions[^c-d9a5d8db3bbfed88570dd1428619c276]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9a5d8db3bbfed88570dd1428619c276]: Commencement: [S. 118](https://www.legislation.gov.uk/asp/2008/5/section/118) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-d9a5d8db3bbfed88570dd1428619c276]: Commencement: [S. 118](https://www.legislation.gov.uk/asp/2008/5/section/118) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

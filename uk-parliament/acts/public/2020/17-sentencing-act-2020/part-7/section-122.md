@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. The standard scale of fines for summary offences[^key-47de1365604ecf40405b6c8334a22807][^key-a625135fd012a56ed4ff2d2530006153]
+## 122. The standard scale of fines for summary offences[^c-47de1365604ecf40405b6c8334a22807][^c-a625135fd012a56ed4ff2d2530006153]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 </tbody>
 </table>
 
-[^key-eecaad44dd5935ee92d4c75d97769de3][^key-299cf71156b4449409951628afdd5f42]
+[^c-eecaad44dd5935ee92d4c75d97769de3][^c-299cf71156b4449409951628afdd5f42]
 
 (2) In relation to a Code offence, a relevant reference to a particular level on the standard scale is to be read as referring to that level on the scale set out in the column of the table in subsection (1) that applies to offences committed on the date on which the offence was committed.
 
@@ -54,10 +54,10 @@ In this section, “Code offence” is an offence of which the offender is convi
 
 ## Annotations
 
-[^key-47de1365604ecf40405b6c8334a22807]: Commencement: S. 122 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-47de1365604ecf40405b6c8334a22807]: Commencement: S. 122 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-a625135fd012a56ed4ff2d2530006153]: Modification: S. 122 extended (N.I.) by 1956 c. 74, s. 21(7C) (as inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 8](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/8) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-a625135fd012a56ed4ff2d2530006153]: Modification: S. 122 extended (N.I.) by 1956 c. 74, s. 21(7C) (as inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 8](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/8) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
-[^key-eecaad44dd5935ee92d4c75d97769de3]: Textual amendment: Words in [s. 122(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/122/1) table substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(aa)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/aa), [Sch. 21 para. 3(a)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/21/paragraph/3/a)
+[^c-eecaad44dd5935ee92d4c75d97769de3]: Textual amendment: Words in [s. 122(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/122/1) table substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(aa)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/aa), [Sch. 21 para. 3(a)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/21/paragraph/3/a)
 
-[^key-299cf71156b4449409951628afdd5f42]: Textual amendment: Words in s. 122(1) table inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(aa)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/aa), [Sch. 21 para. 3(b)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/21/paragraph/3/b)
+[^c-299cf71156b4449409951628afdd5f42]: Textual amendment: Words in s. 122(1) table inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(aa)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/aa), [Sch. 21 para. 3(b)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/21/paragraph/3/b)

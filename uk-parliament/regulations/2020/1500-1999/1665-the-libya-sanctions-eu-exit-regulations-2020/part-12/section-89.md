@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Transitional provision: prior obligations etc.[^key-088da95141eb8732cf23525c72435c6b]
+## 89. Transitional provision: prior obligations etc.[^c-088da95141eb8732cf23525c72435c6b]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,9 +32,9 @@ any reference in a provision mentioned in paragraph (3) to the date on which a p
 (3) The provisions referred to in paragraphs (1) and (2) are—
 
 - (a) regulation 19(4)(b) (partial asset-freeze prohibition in relation to making funds available to designated persons),
-- (b) regulation 43(5) (finance: exceptions from prohibitions), [^key-e798331786c350448f06e6690b910cab]...
-- (ba)[^key-5374b696f6763d13ac66082748d9e4ad] regulation 43ZB (finance: exceptions relating to payment of Treasury debt), and
-- (c) paragraphs 11(a), 11A(b)(i)[^key-a365fce839c415b191241cf97a7987e7] and 12(a) of Schedule 4 (Treasury licences: purposes).
+- (b) regulation 43(5) (finance: exceptions from prohibitions), [^c-e798331786c350448f06e6690b910cab]...
+- (ba)[^c-5374b696f6763d13ac66082748d9e4ad] regulation 43ZB (finance: exceptions relating to payment of Treasury debt), and
+- (c) paragraphs 11(a), 11A(b)(i)[^c-a365fce839c415b191241cf97a7987e7] and 12(a) of Schedule 4 (Treasury licences: purposes).
 
 (4) In this regulation—
 
@@ -45,10 +45,10 @@ any reference in a provision mentioned in paragraph (3) to the date on which a p
 
 ## Annotations
 
-[^key-088da95141eb8732cf23525c72435c6b]: Commencement: Reg. 89 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-088da95141eb8732cf23525c72435c6b]: Commencement: Reg. 89 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
 
-[^key-e798331786c350448f06e6690b910cab]: Textual amendment: Word in [reg. 89(3)(b)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/89/3/b) omitted (10.7.2025) by virtue of [The Sanctions (EU Exit) (Treasury Debt) Regulations 2025 (S.I. 2025/712)](https://www.legislation.gov.uk/uksi/2025/712), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/712/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2025/712/regulation/5/3/a)
+[^c-e798331786c350448f06e6690b910cab]: Textual amendment: Word in [reg. 89(3)(b)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/89/3/b) omitted (10.7.2025) by virtue of [The Sanctions (EU Exit) (Treasury Debt) Regulations 2025 (S.I. 2025/712)](https://www.legislation.gov.uk/uksi/2025/712), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/712/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2025/712/regulation/5/3/a)
 
-[^key-5374b696f6763d13ac66082748d9e4ad]: Textual amendment: [Reg. 89(3)(ba)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/89/3/ba) inserted (10.7.2025) by [The Sanctions (EU Exit) (Treasury Debt) Regulations 2025 (S.I. 2025/712)](https://www.legislation.gov.uk/uksi/2025/712), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/712/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2025/712/regulation/5/3/b)
+[^c-5374b696f6763d13ac66082748d9e4ad]: Textual amendment: [Reg. 89(3)(ba)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/89/3/ba) inserted (10.7.2025) by [The Sanctions (EU Exit) (Treasury Debt) Regulations 2025 (S.I. 2025/712)](https://www.legislation.gov.uk/uksi/2025/712), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/712/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2025/712/regulation/5/3/b)
 
-[^key-a365fce839c415b191241cf97a7987e7]: Textual amendment: Words in [reg. 89(3)(c)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/89/3/c) substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [31(13)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/31/13)
+[^c-a365fce839c415b191241cf97a7987e7]: Textual amendment: Words in [reg. 89(3)(c)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/89/3/c) substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [31(13)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/31/13)

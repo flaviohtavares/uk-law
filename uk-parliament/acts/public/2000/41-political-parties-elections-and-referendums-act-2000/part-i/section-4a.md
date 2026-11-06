@@ -47,7 +47,7 @@ summary: ''
   - (ii) referendums held throughout Scotland in pursuance of provision made by or under an Act of the Scottish Parliament;
 - (b) the Commission’s “devolved Welsh functions” are the Commission’s functions in relation to—
   - (i) general elections of members of Senedd Cymru,
-  - (ii)[^key-955839c642be30cfe4f5c982065f6b52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-955839c642be30cfe4f5c982065f6b52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) local government elections in Wales, and
   - (iv) referendums held under Part 2 of the Local Government Act 2000 or Part 4 of the Local Government (Wales) Measure 2011 (referendums relating to local authority executive arrangements),
 
@@ -57,4 +57,4 @@ summary: ''
 
 [^M_F_beee4809-f422-4dd8-f7dc-212810eee5b3]: Textual amendment: Ss. 4A-4E and cross-heading inserted (19.8.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 16](https://www.legislation.gov.uk/ukpga/2022/37/section/16), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/908](https://www.legislation.gov.uk/uksi/2022/908), [reg. 2](https://www.legislation.gov.uk/uksi/2022/908/regulation/2)
 
-[^key-955839c642be30cfe4f5c982065f6b52]: Textual amendment: S. 4A(8)(b)(ii) omitted (E.W.) (24.8.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 10(10)(a)](https://www.legislation.gov.uk/asc/2024/4/section/10/10/a), [25(2)(b)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/b) (with [s. 24(1)](https://www.legislation.gov.uk/asc/2024/4/section/24/1))
+[^c-955839c642be30cfe4f5c982065f6b52]: Textual amendment: S. 4A(8)(b)(ii) omitted (E.W.) (24.8.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 10(10)(a)](https://www.legislation.gov.uk/asc/2024/4/section/10/10/a), [25(2)(b)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/b) (with [s. 24(1)](https://www.legislation.gov.uk/asc/2024/4/section/24/1))

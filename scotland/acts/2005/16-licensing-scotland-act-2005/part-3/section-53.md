@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Theft, loss etc. of premises licence or summary[^key-565b362a488c56bbee87ecb1b636d117]
+## 53. Theft, loss etc. of premises licence or summary[^c-565b362a488c56bbee87ecb1b636d117]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ issued under this section.
 
 ## Annotations
 
-[^key-565b362a488c56bbee87ecb1b636d117]: Commencement: S. 53 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-565b362a488c56bbee87ecb1b636d117]: Commencement: S. 53 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Other amendments[^key-d6a648bca5173e27bf17b6e6b2849074][^key-9af1de0da4283df59dcd079fded4e053]
+## 29. Other amendments[^c-d6a648bca5173e27bf17b6e6b2849074][^c-9af1de0da4283df59dcd079fded4e053]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 2 contains amendments relating to this Chapter.
 
 ## Annotations
 
-[^key-d6a648bca5173e27bf17b6e6b2849074]: Commencement: S. 29 not in force at Royal Assent, see [s. 145(1)(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/8)
+[^c-d6a648bca5173e27bf17b6e6b2849074]: Commencement: S. 29 not in force at Royal Assent, see [s. 145(1)(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/8)
 
-[^key-9af1de0da4283df59dcd079fded4e053]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2025/26/section/29) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-9af1de0da4283df59dcd079fded4e053]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2025/26/section/29) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)

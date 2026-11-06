@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97A. Disapplication of Banking Act 2009 requirement to recognise third-country resolution actions[^key-f48dd7312119104ab4511d52ce368031]
+## 97A. Disapplication of Banking Act 2009 requirement to recognise third-country resolution actions[^c-f48dd7312119104ab4511d52ce368031]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f48dd7312119104ab4511d52ce368031]: Textual amendment: [Reg. 97A](https://www.legislation.gov.uk/uksi/2019/855/regulation/97A) inserted (16.12.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 17) Regulations 2022 (S.I. 2022/1331)](https://www.legislation.gov.uk/uksi/2022/1331), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/1/2/b), [19](https://www.legislation.gov.uk/uksi/2022/1331/regulation/19)
+[^c-f48dd7312119104ab4511d52ce368031]: Textual amendment: [Reg. 97A](https://www.legislation.gov.uk/uksi/2019/855/regulation/97A) inserted (16.12.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 17) Regulations 2022 (S.I. 2022/1331)](https://www.legislation.gov.uk/uksi/2022/1331), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/1/2/b), [19](https://www.legislation.gov.uk/uksi/2022/1331/regulation/19)

@@ -36,13 +36,13 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Part 1 — The Code and the adjudicator
 
-### 1. Scottish Pubs Code[^key-8e330e7504f9f8f51db42023e724fc0a]
+### 1. Scottish Pubs Code[^c-8e330e7504f9f8f51db42023e724fc0a]
 
 (1) The Scottish Ministers must, by regulations, impose requirements and restrictions on pub-owning businesses in connection with tied pubs.
 
 (2) Schedule 1 makes provision about the exercise of the power conferred by this section.
 
-### 2. Scottish Pubs Code Adjudicator[^key-59d84f9c6276fb94b3ec47577c39d13d]
+### 2. Scottish Pubs Code Adjudicator[^c-59d84f9c6276fb94b3ec47577c39d13d]
 
 (1) The office of Scottish Pubs Code Adjudicator is established.
 
@@ -62,7 +62,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (4) In subsection (3)(b), “product tie” and “service tie” have the meaning given to them in paragraph 5(4) of schedule 1.
 
-### 4. Scottish Ministers' duty to seek to make code and appoint adjudicator[^key-f40c70547eb57035df65f7a09791fe69]
+### 4. Scottish Ministers' duty to seek to make code and appoint adjudicator[^c-f40c70547eb57035df65f7a09791fe69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -97,7 +97,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) begins on the day that section 2 comes into force, and
 - (b) ends on 31 March in the calendar year falling 2 years after it began.
 
-### 6. Ministerial guidance to the adjudicator[^key-09fdaa8c3e7676ee4d8991a6aa11e08a]
+### 6. Ministerial guidance to the adjudicator[^c-09fdaa8c3e7676ee4d8991a6aa11e08a]
 
 (1) As a result of the findings of a review under section 5, the Scottish Ministers may give guidance to the adjudicator about any matter relating to the functions of the adjudicator.
 
@@ -107,19 +107,19 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Agreements that are inconsistent with the code
 
-#### 7. Unenforceability of contract terms[^key-49adc70cb20562ffe3614375dc728ad1]
+#### 7. Unenforceability of contract terms[^c-49adc70cb20562ffe3614375dc728ad1]
 
 A term of an agreement between a pub-owning business and a tied-pub tenant is unenforceable by the business if the code provides that a pub-owning business is prohibited from enforcing a term of that kind.
 
 ### Investigation by the adjudicator
 
-#### 8. Power to investigate[^key-94fd8bbc9dbcba868aaeea1f6486e019]
+#### 8. Power to investigate[^c-94fd8bbc9dbcba868aaeea1f6486e019]
 
 (1) The adjudicator may investigate a pub-owning business's compliance with the code if the adjudicator has reasonable grounds to suspect that the business has failed to comply with the code.
 
 (2) The adjudicator may not carry out an investigation until the statement required by section 13 has been made publicly available.
 
-#### 9. Enforcement action[^key-e88c328eae19e57d3a498fe158d06287]
+#### 9. Enforcement action[^c-e88c328eae19e57d3a498fe158d06287]
 
 (1) If, having carried out an investigation, the adjudicator is satisfied that a pub-owning business has failed to comply with the code, the adjudicator may take one or more of the enforcement actions mentioned in subsection (2).
 
@@ -133,7 +133,7 @@ A term of an agreement between a pub-owning business and a tied-pub tenant is un
 
 (4) In subsection (2), “**specified**” means specified in the direction given, in writing, to the pub-owning business by the adjudicator.
 
-#### 10. Financial penalties under section 9[^key-3ce33ced5edc36273a95660267a2d7a4]
+#### 10. Financial penalties under section 9[^c-3ce33ced5edc36273a95660267a2d7a4]
 
 (1) Liability to pay a financial penalty imposed under section 9 arises when the adjudicator gives a person a notice in writing that states—
 
@@ -159,7 +159,7 @@ A term of an agreement between a pub-owning business and a tied-pub tenant is un
 - (a) the imposition of the penalty,
 - (b) the amount of the penalty.
 
-#### 11. Investigation report[^key-828e01d0a78f3d844c53b06de001c5ea]
+#### 11. Investigation report[^c-828e01d0a78f3d844c53b06de001c5ea]
 
 (1) Having carried out an investigation into a pub-owning business's compliance with the code, the adjudicator must publish a report on the investigation.
 
@@ -172,7 +172,7 @@ A term of an agreement between a pub-owning business and a tied-pub tenant is un
 
 (4) If the adjudicator intends to identify the investigated pub-owning business in a report, the adjudicator must give the business a reasonable opportunity to comment on a draft of the report before publishing it.
 
-#### 12. Recovery of investigation costs[^key-c62386c9a4f0c191b92c57ff8ad52803]
+#### 12. Recovery of investigation costs[^c-c62386c9a4f0c191b92c57ff8ad52803]
 
 (1) The adjudicator may require a pub-owning business to pay to the adjudicator some or all of the costs of an investigation if, at the end of the investigation, the adjudicator's finding is that the business has failed to comply with the code.
 
@@ -199,7 +199,7 @@ A term of an agreement between a pub-owning business and a tied-pub tenant is un
 - (a) the imposition of any such requirement,
 - (b) the amount the person is being required to pay.
 
-#### 13. Investigation policy[^key-07b13f28be8990756b6e277e7397b1c5]
+#### 13. Investigation policy[^c-07b13f28be8990756b6e277e7397b1c5]
 
 (1) The adjudicator must make publicly available a statement about—
 
@@ -222,7 +222,7 @@ A term of an agreement between a pub-owning business and a tied-pub tenant is un
 
 ### Arbitration
 
-#### 14. Adjudicator's duty to arbitrate or appoint arbitrator[^key-b18b8b32fb4d0baafcf37a7e5e14b9dd]
+#### 14. Adjudicator's duty to arbitrate or appoint arbitrator[^c-b18b8b32fb4d0baafcf37a7e5e14b9dd]
 
 (1) The adjudicator must act as the arbitrator in relation to a dispute, or appoint another person to do so, if the dispute—
 
@@ -235,17 +235,17 @@ A term of an agreement between a pub-owning business and a tied-pub tenant is un
 (2) Where the adjudicator or a person appointed by the adjudicator is, by virtue of subsection (1), the arbitrator in an arbitration, the arbitration must be conducted in accordance with—
 
 - (a) the rules regarding arbitration issued from time to time by the Chartered Institute of Arbitrators, or
-- (b)[^key-d2abbd2b78d179882a9801fa7bfc0d87] on nomination of the arbitrator either—
+- (b)[^c-d2abbd2b78d179882a9801fa7bfc0d87] on nomination of the arbitrator either—
   - (i) the rules of another dispute resolution body, or
   - (ii) the Scottish Arbitration Rules.
 
 (3) In subsection (1)(b), “**excluded term**” means a provision of the code that regulations made by the Scottish Ministers state cannot be the subject of arbitration before the adjudicator.
 
-(4)[^key-1e2e06ad0b91b46a7d1519b90df3d2df] Until the Arbitration (Scotland) Act 2010 is in force in relation to any arbitration carried out in pursuance of this section, that Act applies as if it were in force in relation to that arbitration (but see section 16(3) of that Act).
+(4)[^c-1e2e06ad0b91b46a7d1519b90df3d2df] Until the Arbitration (Scotland) Act 2010 is in force in relation to any arbitration carried out in pursuance of this section, that Act applies as if it were in force in relation to that arbitration (but see section 16(3) of that Act).
 
 (5) In this section, “**Scottish Arbitration Rules**” means the rules set out in schedule 1 of the Arbitration (Scotland) Act 2010.
 
-#### 15. Submission of dispute to adjudicator[^key-4c607d374cd26652cd1c5df70350340a]
+#### 15. Submission of dispute to adjudicator[^c-4c607d374cd26652cd1c5df70350340a]
 
 (1) A dispute may be submitted to arbitration under this section by—
 
@@ -270,7 +270,7 @@ A term of an agreement between a pub-owning business and a tied-pub tenant is un
 
 the period expires on the last day of that month.
 
-#### 16. Liability for arbitrator's reasonable fees and expenses[^key-e2b3de0f3b7d445fe4ac654a6f35ec47]
+#### 16. Liability for arbitrator's reasonable fees and expenses[^c-e2b3de0f3b7d445fe4ac654a6f35ec47]
 
 (1) A pub-owning business that is a party to an arbitration is liable to pay the arbitrator's reasonable fees and expenses if, by virtue of section 14(1), the arbitrator is the adjudicator or a person appointed by the adjudicator.
 
@@ -284,7 +284,7 @@ the period expires on the last day of that month.
 - (a) relieve the business in whole or in part of the liability under subsection (1),
 - (b) determine that a tied-pub tenant who is a party to the arbitration is instead liable to pay so much of the arbitrator's reasonable fees and expenses as the adjudicator considers appropriate.
 
-#### 17. Further fees and expenses payable to the adjudicator[^key-964b8016adf01f4d53d1c9fa3ad1696f]
+#### 17. Further fees and expenses payable to the adjudicator[^c-964b8016adf01f4d53d1c9fa3ad1696f]
 
 (1) The Scottish Ministers must by regulations provide for a fee to be paid to the adjudicator by a tied-pub tenant in respect of an arbitration to which subsection (2) applies (subject to any exceptions specified in the regulations).
 
@@ -306,7 +306,7 @@ the period expires on the last day of that month.
 - (b) set a limit on the amount a tenant may ordinarily be required to pay in respect of expenses (either by specifying an amount or setting out a methodology by which the amount is to be determined),
 - (c) specify circumstances in which a tenant may be required to make a payment in respect of expenses that exceeds the limit that ordinarily applies.
 
-#### 18. Information about arbitration[^key-dbb05335e8fca8cd3c46dba0a85d103f]
+#### 18. Information about arbitration[^c-dbb05335e8fca8cd3c46dba0a85d103f]
 
 (1) Where, by virtue of section 14(1), the adjudicator appoints a person to act as the arbitrator in an arbitration, the adjudicator may require—
 
@@ -319,7 +319,7 @@ to provide the adjudicator with information about the arbitration for the purpos
 
 ### Avoidance
 
-#### 19. Reports on avoidance[^key-c02c2fbfdbef6c2bd6dba474d6c33715]
+#### 19. Reports on avoidance[^c-c02c2fbfdbef6c2bd6dba474d6c33715]
 
 (1) The adjudicator must report to the Scottish Ministers on cases of pub-owning businesses engaging in avoidance activity.
 
@@ -417,7 +417,7 @@ The short title of this Act is the Tied Pubs (Scotland) Act 2021.
 
 ### Requirement to provide information
 
-**1.**[^key-c7b4766f940789ddb77f19552bb8c831] (1) The code may require pub-owning businesses to produce information and provide it to—
+**1.**[^c-c7b4766f940789ddb77f19552bb8c831] (1) The code may require pub-owning businesses to produce information and provide it to—
 
 - (a) tenants of tied pubs,
 - (b) prospective tenants of tied pubs,
@@ -434,11 +434,11 @@ The short title of this Act is the Tied Pubs (Scotland) Act 2021.
 
 ### Requirement to comply with adjudicator's directions following an investigation
 
-**2.**[^key-b8e7db633c401d32b9907c600edc10b3] The code must provide that a pub-owning business is required to comply with a direction given to it under paragraph (a) or (b) of section 9(2).
+**2.**[^c-b8e7db633c401d32b9907c600edc10b3] The code must provide that a pub-owning business is required to comply with a direction given to it under paragraph (a) or (b) of section 9(2).
 
 ### Restriction on enforcing certain terms of agreement
 
-**3.**[^key-c0b9d0fedd0fee2f062ff47a2297be84] (1) The code—
+**3.**[^c-c0b9d0fedd0fee2f062ff47a2297be84] (1) The code—
 
 - (a) must provide that a pub-owning business is prohibited from enforcing a term of an agreement of a kind described in sub-paragraph (2),
 - (b) may provide that a pub-owning business is prohibited from enforcing a term of an agreement of any other kind that is described in the code.
@@ -453,7 +453,7 @@ The short title of this Act is the Tied Pubs (Scotland) Act 2021.
 
 ### Requirement to offer guest beer agreement
 
-**4.**[^key-5a68e2eba27b3c24ca55ee6aed722302] (1) The code must require a pub-owning business to offer to enter into a guest beer agreement with a tied-pub tenant in certain circumstances.
+**4.**[^c-5a68e2eba27b3c24ca55ee6aed722302] (1) The code must require a pub-owning business to offer to enter into a guest beer agreement with a tied-pub tenant in certain circumstances.
 
 (2) The code is to specify the circumstances in which the offer must be made.
 
@@ -467,7 +467,7 @@ The short title of this Act is the Tied Pubs (Scotland) Act 2021.
 
 ### Requirement to offer market rent only lease
 
-**5.**[^key-6fed99aabd3ccfaac190c58b8fd9fb18] (1) The code must require a pub-owning business—
+**5.**[^c-6fed99aabd3ccfaac190c58b8fd9fb18] (1) The code must require a pub-owning business—
 
 - (a) to offer to enter into a market rent only lease with a tied-pub tenant who requests that the offer be made (but see sub-paragraph (3)(b)),
 - (b) to make that offer by offering to modify the terms of any existing agreement only to the extent that is necessary for the lease in relation to the pub to be a market rent only lease (but see sub-paragraph (3)(c)),
@@ -513,7 +513,7 @@ The short title of this Act is the Tied Pubs (Scotland) Act 2021.
 
 ### Market rent only lease: further provision
 
-**6.**[^key-e344c64fa8d6159bfa261399d809ae7f] In describing the procedure mentioned in paragraph 5(2)(a), the code may in particular—
+**6.**[^c-e344c64fa8d6159bfa261399d809ae7f] In describing the procedure mentioned in paragraph 5(2)(a), the code may in particular—
 
 - (a) specify a period for negotiation under the procedure,
 - (b) require that a person (referred to in this paragraph as a rent assessor) be appointed to determine the market rent in the event that no agreement is reached by the end of any negotiation period the code specifies,
@@ -525,7 +525,7 @@ The short title of this Act is the Tied Pubs (Scotland) Act 2021.
 
 ### Generality of enabling power unaffected
 
-**7.**[^key-d6f754060f6dc5b84c2ea36ab1efc136] Nothing in this schedule is to be taken to limit the requirements and restrictions that may be imposed on pub-owning businesses by regulations under section 1.
+**7.**[^c-d6f754060f6dc5b84c2ea36ab1efc136] Nothing in this schedule is to be taken to limit the requirements and restrictions that may be imposed on pub-owning businesses by regulations under section 1.
 
 ## Schedule 2 — Scottish Pubs Code Adjudicator
 
@@ -535,11 +535,11 @@ The short title of this Act is the Tied Pubs (Scotland) Act 2021.
 
 #### Legal personality
 
-**1.**[^key-b00ca329b8a31da61c104e0967a1132e] The adjudicator is, as such, to be regarded as a juristic person distinct from the person holding the office.
+**1.**[^c-b00ca329b8a31da61c104e0967a1132e] The adjudicator is, as such, to be regarded as a juristic person distinct from the person holding the office.
 
 #### Exclusion of Crown Status
 
-**2.**[^key-27bcca70a7799a98bd410b4a69a4c278] (1) The adjudicator—
+**2.**[^c-27bcca70a7799a98bd410b4a69a4c278] (1) The adjudicator—
 
 - (a) is not a servant or agent of the Crown, and
 - (b) does not enjoy any status, immunity or privilege of the Crown.
@@ -548,7 +548,7 @@ The short title of this Act is the Tied Pubs (Scotland) Act 2021.
 
 #### Exemption from liability for damages
 
-**3.**[^key-5d1422779c03257a621ef5474e64ba89] (1) The following are exempt from liability in damages for any act or omission in the exercise (or purported exercise) of their functions—
+**3.**[^c-5d1422779c03257a621ef5474e64ba89] (1) The following are exempt from liability in damages for any act or omission in the exercise (or purported exercise) of their functions—
 
 - (a) the adjudicator,
 - (b) persons working as the adjudicator's staff.
@@ -563,7 +563,7 @@ The short title of this Act is the Tied Pubs (Scotland) Act 2021.
 
 ##### Imposition of requirement
 
-**4.**[^key-3450d4c6da1c3ac7bab46c1275b9676f] (1) The adjudicator may, for a purpose mentioned in sub-paragraph (2), require a person to provide information that is in the person's possession or control.
+**4.**[^c-3450d4c6da1c3ac7bab46c1275b9676f] (1) The adjudicator may, for a purpose mentioned in sub-paragraph (2), require a person to provide information that is in the person's possession or control.
 
 (2) The purposes referred to in sub-paragraph (1) are—
 
@@ -596,7 +596,7 @@ The short title of this Act is the Tied Pubs (Scotland) Act 2021.
 
 ##### Offence of failing to comply with requirement
 
-**5.**[^key-423ef624f3e0fd618c93448568e84eed] (1) A person commits an offence if—
+**5.**[^c-423ef624f3e0fd618c93448568e84eed] (1) A person commits an offence if—
 
 - (a) the person intentionally fails to comply with a requirement under paragraph 4 to provide information, and
 - (b) the person does not have a reasonable excuse for failing to comply.
@@ -609,7 +609,7 @@ The short title of this Act is the Tied Pubs (Scotland) Act 2021.
 
 ##### Offence of providing false information
 
-**6.**[^key-b7f689d6e18d3106b113fc96e53fbaf4] (1) A person commits an offence if, in response to a requirement under paragraph 4 to provide information, the person knowingly provides false information.
+**6.**[^c-b7f689d6e18d3106b113fc96e53fbaf4] (1) A person commits an offence if, in response to a requirement under paragraph 4 to provide information, the person knowingly provides false information.
 
 (2) A person who commits an offence under sub-paragraph (1) is liable, on conviction, to a fine.
 
@@ -619,11 +619,11 @@ The short title of this Act is the Tied Pubs (Scotland) Act 2021.
 
 ##### Power to advise on the code
 
-**7.**[^key-a4722c19945e0d9204071876c13eef25] The adjudicator may give any person advice on any matter relating to the code.
+**7.**[^c-a4722c19945e0d9204071876c13eef25] The adjudicator may give any person advice on any matter relating to the code.
 
 ##### Power to issue guidance
 
-**8.**[^key-b964cbe26fc2dec07b5dd9777255bb8c] (1) The adjudicator may prepare and make publicly available guidance about—
+**8.**[^c-b964cbe26fc2dec07b5dd9777255bb8c] (1) The adjudicator may prepare and make publicly available guidance about—
 
 - (a) the practices and procedures that the adjudicator intends to adopt in carrying out the functions of the adjudicator,
 - (b) the application of the code (or any provision of it),
@@ -636,7 +636,7 @@ The short title of this Act is the Tied Pubs (Scotland) Act 2021.
 
 ##### General powers
 
-**9.**[^key-7934be8b317bd6efb911fb7accd8dbaa] The adjudicator may do anything which appears to the adjudicator to be—
+**9.**[^c-7934be8b317bd6efb911fb7accd8dbaa] The adjudicator may do anything which appears to the adjudicator to be—
 
 - (a) necessary or expedient for the purposes of, or in connection with, the performance of the functions of the adjudicator, or
 - (b) otherwise conducive to the performance of those functions.
@@ -647,26 +647,26 @@ The short title of this Act is the Tied Pubs (Scotland) Act 2021.
 
 ##### Loans
 
-**10.**[^key-f1a1b6986f61ea2f69f15975dec488fb] The Scottish Ministers may—
+**10.**[^c-f1a1b6986f61ea2f69f15975dec488fb] The Scottish Ministers may—
 
 - (a) give loans to the adjudicator, and
 - (b) attach conditions (including conditions as to repayment and the payment of interest) to any loan given.
 
 ##### Other assistance
 
-**11.**[^key-cf9b09d15f0a6f4df8423d180300b402] The Scottish Ministers may provide staff, premises, facilities or other assistance to the adjudicator (with or without charge).
+**11.**[^c-cf9b09d15f0a6f4df8423d180300b402] The Scottish Ministers may provide staff, premises, facilities or other assistance to the adjudicator (with or without charge).
 
 #### Chapter 2 — Levy funding
 
 ##### Annual levy on pub-owning businesses
 
-**12.**[^key-4d14b1dbd0adb58c30d5cec2d3917fe6] (1) The adjudicator may impose a levy in respect of a financial year on any person who is, or was, a pub-owning business during the year.
+**12.**[^c-4d14b1dbd0adb58c30d5cec2d3917fe6] (1) The adjudicator may impose a levy in respect of a financial year on any person who is, or was, a pub-owning business during the year.
 
 (2) But the levy may only be imposed in respect of a financial year if the Scottish Ministers have consented to its being imposed in respect of that year.
 
 ##### Amount of levy
 
-**13.**[^key-7f83b582582068b78cadad9a243affaf] (1) The rate at which a person is to be charged the levy in respect of a financial year is to be set by the adjudicator.
+**13.**[^c-7f83b582582068b78cadad9a243affaf] (1) The rate at which a person is to be charged the levy in respect of a financial year is to be set by the adjudicator.
 
 (2) The adjudicator may set different rates for different persons or descriptions of person.
 
@@ -689,7 +689,7 @@ The short title of this Act is the Tied Pubs (Scotland) Act 2021.
 
 ##### Liability to pay
 
-**14.**[^key-16bef14bbf47d02e09e0b3a29e444f1a] (1) A person is liable to pay the adjudicator the chargeable amount in respect of a financial year if—
+**14.**[^c-16bef14bbf47d02e09e0b3a29e444f1a] (1) A person is liable to pay the adjudicator the chargeable amount in respect of a financial year if—
 
 - (a) the person is a person upon whom the levy may be imposed in respect of the year, and
 - (b) the person has received a charging notice from the adjudicator in respect of the year.
@@ -704,13 +704,13 @@ The short title of this Act is the Tied Pubs (Scotland) Act 2021.
 
 ##### Rebate
 
-**15.**[^key-032bd5859a5890e102ed5771b13f3a7b] (1) If, having collected the levy in respect of a financial year, the adjudicator has a surplus, the adjudicator may repay some or all of it to pub-owning businesses.
+**15.**[^c-032bd5859a5890e102ed5771b13f3a7b] (1) If, having collected the levy in respect of a financial year, the adjudicator has a surplus, the adjudicator may repay some or all of it to pub-owning businesses.
 
 (2) In sub-paragraph (1), “**surplus**” means the money held by the adjudicator at the end of a financial year, less the liabilities shown in the adjudicator's statement of accounts for the year.
 
 ##### Appeals
 
-**16.**[^key-2798e01e5891a92f25a7061c2aae19bd] A person on whom a levy is imposed under paragraph 12 may appeal to the sheriff against—
+**16.**[^c-2798e01e5891a92f25a7061c2aae19bd] A person on whom a levy is imposed under paragraph 12 may appeal to the sheriff against—
 
 - (a) the imposition of the levy,
 - (b) the amount of the levy.
@@ -719,7 +719,7 @@ The short title of this Act is the Tied Pubs (Scotland) Act 2021.
 
 #### Accounts and audit
 
-**17.**[^key-8f294c3eb42987559254f95c8d5fd791] (1) The adjudicator must—
+**17.**[^c-8f294c3eb42987559254f95c8d5fd791] (1) The adjudicator must—
 
 - (a) keep proper accounts and accounting records,
 - (b) prepare in respect of each financial year a statement of accounts,
@@ -729,7 +729,7 @@ The short title of this Act is the Tied Pubs (Scotland) Act 2021.
 
 #### Annual report
 
-**18.**[^key-d121d1ae941d39a1aca008b9e3859d32] (1) The adjudicator must, after each financial year—
+**18.**[^c-d121d1ae941d39a1aca008b9e3859d32] (1) The adjudicator must, after each financial year—
 
 - (a) prepare and make publicly available a report of its activities during the year, and
 - (b) send a copy of the report to the Scottish Ministers.
@@ -747,13 +747,13 @@ The short title of this Act is the Tied Pubs (Scotland) Act 2021.
 
 #### Information to Scottish Ministers
 
-**19.**[^key-1c6ae565c0971733e389b79c730bda27] The adjudicator must provide the Scottish Ministers with any information they require for the purpose of carrying out their functions under this Act.
+**19.**[^c-1c6ae565c0971733e389b79c730bda27] The adjudicator must provide the Scottish Ministers with any information they require for the purpose of carrying out their functions under this Act.
 
 ### Part 5 — Appointment and terms and conditions
 
 #### Appointment
 
-**20.**[^key-67fda0ce750886fdbc8cbb1c8632f338] (1) The adjudicator is to be appointed by the Scottish Ministers.
+**20.**[^c-67fda0ce750886fdbc8cbb1c8632f338] (1) The adjudicator is to be appointed by the Scottish Ministers.
 
 (2) In deciding whom to appoint, the Scottish Ministers must have particular regard to the importance of the adjudicator being impartial in balancing the interests of pub-owning businesses and tied-pub tenants.
 
@@ -763,7 +763,7 @@ The short title of this Act is the Tied Pubs (Scotland) Act 2021.
 
 #### Tenure
 
-**21.**[^key-a91e4de928fab8f1039663e841f03b8f] (1) A person holds the office of Scottish Pubs Code Adjudicator until—
+**21.**[^c-a91e4de928fab8f1039663e841f03b8f] (1) A person holds the office of Scottish Pubs Code Adjudicator until—
 
 - (a) the end of the period of appointment,
 - (b) the person resigns by giving written notice to the Scottish Ministers,
@@ -783,7 +783,7 @@ The short title of this Act is the Tied Pubs (Scotland) Act 2021.
 
 #### Defect in appointment
 
-**22.**[^key-79e3a87d3ad32b158d7998ad2102b5a2] (1) A person's appointment to the office of Scottish Pubs Code Adjudicator is not void on account of any defect in the appointment.
+**22.**[^c-79e3a87d3ad32b158d7998ad2102b5a2] (1) A person's appointment to the office of Scottish Pubs Code Adjudicator is not void on account of any defect in the appointment.
 
 (2) If it comes to the Scottish Ministers' attention that there was a defect in the person's appointment to the office, the Scottish Ministers must remove the person from the office as soon as reasonably practicable.
 
@@ -801,7 +801,7 @@ The short title of this Act is the Tied Pubs (Scotland) Act 2021.
 
 #### Remuneration
 
-**23.**[^key-ccf2d16b533bb71609d5f20b7356878e] The adjudicator may, in accordance with a determination by the Scottish Ministers, pay to, or in respect of, the person holding the office of Scottish Pubs Code Adjudicator—
+**23.**[^c-ccf2d16b533bb71609d5f20b7356878e] The adjudicator may, in accordance with a determination by the Scottish Ministers, pay to, or in respect of, the person holding the office of Scottish Pubs Code Adjudicator—
 
 - (a) remuneration,
 - (b) allowances (including expenses),
@@ -809,13 +809,13 @@ The short title of this Act is the Tied Pubs (Scotland) Act 2021.
 
 #### Other terms and conditions
 
-**24.**[^key-e521bd6bc181fd3fda0c2d59b8902039] The Scottish Ministers may determine the terms and conditions of the adjudicator in relation to matters not covered by this schedule.
+**24.**[^c-e521bd6bc181fd3fda0c2d59b8902039] The Scottish Ministers may determine the terms and conditions of the adjudicator in relation to matters not covered by this schedule.
 
 ### Part 6 — Staff
 
 #### Secondees
 
-**25.**[^key-dc4dda90946343fb0a94a88dfe55fbf0] (1) The adjudicator may make arrangements for persons to be seconded to the adjudicator to serve as members of the adjudicator's staff.
+**25.**[^c-dc4dda90946343fb0a94a88dfe55fbf0] (1) The adjudicator may make arrangements for persons to be seconded to the adjudicator to serve as members of the adjudicator's staff.
 
 (2) The arrangements may include provision for payments by the adjudicator to either or both—
 
@@ -830,104 +830,104 @@ The short title of this Act is the Tied Pubs (Scotland) Act 2021.
 
 ## Annotations
 
-[^key-8e330e7504f9f8f51db42023e724fc0a]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2021/17/section/1) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
+[^c-8e330e7504f9f8f51db42023e724fc0a]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2021/17/section/1) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
 
-[^key-59d84f9c6276fb94b3ec47577c39d13d]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2021/17/section/2) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/a)
+[^c-59d84f9c6276fb94b3ec47577c39d13d]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2021/17/section/2) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/a)
 
-[^key-f40c70547eb57035df65f7a09791fe69]: Textual amendment: [S. 4](https://www.legislation.gov.uk/asp/2021/17/section/4) repealed (30.3.2025) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/92)](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [2](https://www.legislation.gov.uk/ssi/2025/92/regulation/2)
+[^c-f40c70547eb57035df65f7a09791fe69]: Textual amendment: [S. 4](https://www.legislation.gov.uk/asp/2021/17/section/4) repealed (30.3.2025) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/92)](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [2](https://www.legislation.gov.uk/ssi/2025/92/regulation/2)
 
-[^key-09fdaa8c3e7676ee4d8991a6aa11e08a]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2021/17/section/6) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
+[^c-09fdaa8c3e7676ee4d8991a6aa11e08a]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2021/17/section/6) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
 
-[^key-49adc70cb20562ffe3614375dc728ad1]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2021/17/section/7) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
+[^c-49adc70cb20562ffe3614375dc728ad1]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2021/17/section/7) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
 
-[^key-94fd8bbc9dbcba868aaeea1f6486e019]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2021/17/section/8) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
+[^c-94fd8bbc9dbcba868aaeea1f6486e019]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2021/17/section/8) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
 
-[^key-e88c328eae19e57d3a498fe158d06287]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2021/17/section/9) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
+[^c-e88c328eae19e57d3a498fe158d06287]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2021/17/section/9) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
 
-[^key-3ce33ced5edc36273a95660267a2d7a4]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2021/17/section/10) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
+[^c-3ce33ced5edc36273a95660267a2d7a4]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2021/17/section/10) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
 
-[^key-828e01d0a78f3d844c53b06de001c5ea]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2021/17/section/11) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
+[^c-828e01d0a78f3d844c53b06de001c5ea]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2021/17/section/11) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
 
-[^key-c62386c9a4f0c191b92c57ff8ad52803]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2021/17/section/12) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
+[^c-c62386c9a4f0c191b92c57ff8ad52803]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2021/17/section/12) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
 
-[^key-07b13f28be8990756b6e277e7397b1c5]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2021/17/section/13) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/b)
+[^c-07b13f28be8990756b6e277e7397b1c5]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2021/17/section/13) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/b)
 
-[^key-b18b8b32fb4d0baafcf37a7e5e14b9dd]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2021/17/section/14) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
+[^c-b18b8b32fb4d0baafcf37a7e5e14b9dd]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2021/17/section/14) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
 
-[^key-d2abbd2b78d179882a9801fa7bfc0d87]: Textual amendment: [S. 14(2)(b)](https://www.legislation.gov.uk/asp/2021/17/section/14/2/b) substituted (7.10.2024) by [The Tied Pubs (Scottish Arbitration Rules) Amendment Order 2024 (S.S.I. 2024/189)](https://www.legislation.gov.uk/ssi/2024/189), [arts. 1](https://www.legislation.gov.uk/ssi/2024/189/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2024/189/article/2/2)
+[^c-d2abbd2b78d179882a9801fa7bfc0d87]: Textual amendment: [S. 14(2)(b)](https://www.legislation.gov.uk/asp/2021/17/section/14/2/b) substituted (7.10.2024) by [The Tied Pubs (Scottish Arbitration Rules) Amendment Order 2024 (S.S.I. 2024/189)](https://www.legislation.gov.uk/ssi/2024/189), [arts. 1](https://www.legislation.gov.uk/ssi/2024/189/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2024/189/article/2/2)
 
-[^key-1e2e06ad0b91b46a7d1519b90df3d2df]: Textual amendment: [S. 14(4)](https://www.legislation.gov.uk/asp/2021/17/section/14/4)[(5)](https://www.legislation.gov.uk/asp/2021/17/section/14/5) inserted (7.10.2024) by [The Tied Pubs (Scottish Arbitration Rules) Amendment Order 2024 (S.S.I. 2024/189)](https://www.legislation.gov.uk/ssi/2024/189), [arts. 1](https://www.legislation.gov.uk/ssi/2024/189/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2024/189/article/2/3)
+[^c-1e2e06ad0b91b46a7d1519b90df3d2df]: Textual amendment: [S. 14(4)](https://www.legislation.gov.uk/asp/2021/17/section/14/4)[(5)](https://www.legislation.gov.uk/asp/2021/17/section/14/5) inserted (7.10.2024) by [The Tied Pubs (Scottish Arbitration Rules) Amendment Order 2024 (S.S.I. 2024/189)](https://www.legislation.gov.uk/ssi/2024/189), [arts. 1](https://www.legislation.gov.uk/ssi/2024/189/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2024/189/article/2/3)
 
-[^key-4c607d374cd26652cd1c5df70350340a]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2021/17/section/15) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
+[^c-4c607d374cd26652cd1c5df70350340a]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2021/17/section/15) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
 
-[^key-e2b3de0f3b7d445fe4ac654a6f35ec47]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2021/17/section/16) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
+[^c-e2b3de0f3b7d445fe4ac654a6f35ec47]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2021/17/section/16) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
 
-[^key-964b8016adf01f4d53d1c9fa3ad1696f]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2021/17/section/17) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
+[^c-964b8016adf01f4d53d1c9fa3ad1696f]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2021/17/section/17) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
 
-[^key-dbb05335e8fca8cd3c46dba0a85d103f]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2021/17/section/18) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
+[^c-dbb05335e8fca8cd3c46dba0a85d103f]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2021/17/section/18) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
 
-[^key-c02c2fbfdbef6c2bd6dba474d6c33715]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2021/17/section/19) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
+[^c-c02c2fbfdbef6c2bd6dba474d6c33715]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2021/17/section/19) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
 
-[^key-c7b4766f940789ddb77f19552bb8c831]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2021/17/schedule/1/paragraph/1) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
+[^c-c7b4766f940789ddb77f19552bb8c831]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2021/17/schedule/1/paragraph/1) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
 
-[^key-b8e7db633c401d32b9907c600edc10b3]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2021/17/schedule/1/paragraph/2) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
+[^c-b8e7db633c401d32b9907c600edc10b3]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2021/17/schedule/1/paragraph/2) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
 
-[^key-c0b9d0fedd0fee2f062ff47a2297be84]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2021/17/schedule/1/paragraph/3) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
+[^c-c0b9d0fedd0fee2f062ff47a2297be84]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2021/17/schedule/1/paragraph/3) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
 
-[^key-5a68e2eba27b3c24ca55ee6aed722302]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2021/17/schedule/1/paragraph/4) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
+[^c-5a68e2eba27b3c24ca55ee6aed722302]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2021/17/schedule/1/paragraph/4) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
 
-[^key-6fed99aabd3ccfaac190c58b8fd9fb18]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2021/17/schedule/1/paragraph/5) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
+[^c-6fed99aabd3ccfaac190c58b8fd9fb18]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2021/17/schedule/1/paragraph/5) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
 
-[^key-e344c64fa8d6159bfa261399d809ae7f]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2021/17/schedule/1/paragraph/6) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
+[^c-e344c64fa8d6159bfa261399d809ae7f]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2021/17/schedule/1/paragraph/6) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
 
-[^key-d6f754060f6dc5b84c2ea36ab1efc136]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2021/17/schedule/1/paragraph/7) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
+[^c-d6f754060f6dc5b84c2ea36ab1efc136]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2021/17/schedule/1/paragraph/7) in force at 24.6.2024 by [S.S.I. 2024/136](https://www.legislation.gov.uk/ssi/2024/136), [reg. 2](https://www.legislation.gov.uk/ssi/2024/136/regulation/2)
 
-[^key-b00ca329b8a31da61c104e0967a1132e]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/1) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
+[^c-b00ca329b8a31da61c104e0967a1132e]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/1) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
 
-[^key-27bcca70a7799a98bd410b4a69a4c278]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/2) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
+[^c-27bcca70a7799a98bd410b4a69a4c278]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/2) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
 
-[^key-5d1422779c03257a621ef5474e64ba89]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/3) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
+[^c-5d1422779c03257a621ef5474e64ba89]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/3) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
 
-[^key-3450d4c6da1c3ac7bab46c1275b9676f]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/4) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
+[^c-3450d4c6da1c3ac7bab46c1275b9676f]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/4) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
 
-[^key-423ef624f3e0fd618c93448568e84eed]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/5) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
+[^c-423ef624f3e0fd618c93448568e84eed]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/5) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
 
-[^key-b7f689d6e18d3106b113fc96e53fbaf4]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/6) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
+[^c-b7f689d6e18d3106b113fc96e53fbaf4]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/6) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
 
-[^key-a4722c19945e0d9204071876c13eef25]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/7) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
+[^c-a4722c19945e0d9204071876c13eef25]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/7) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
 
-[^key-b964cbe26fc2dec07b5dd9777255bb8c]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/8) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
+[^c-b964cbe26fc2dec07b5dd9777255bb8c]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/8) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
 
-[^key-7934be8b317bd6efb911fb7accd8dbaa]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/9) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
+[^c-7934be8b317bd6efb911fb7accd8dbaa]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/9) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
 
-[^key-f1a1b6986f61ea2f69f15975dec488fb]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/10) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
+[^c-f1a1b6986f61ea2f69f15975dec488fb]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/10) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
 
-[^key-cf9b09d15f0a6f4df8423d180300b402]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/11) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
+[^c-cf9b09d15f0a6f4df8423d180300b402]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/11) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
 
-[^key-4d14b1dbd0adb58c30d5cec2d3917fe6]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/12) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
+[^c-4d14b1dbd0adb58c30d5cec2d3917fe6]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/12) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
 
-[^key-7f83b582582068b78cadad9a243affaf]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/13) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
+[^c-7f83b582582068b78cadad9a243affaf]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/13) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
 
-[^key-16bef14bbf47d02e09e0b3a29e444f1a]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/14) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
+[^c-16bef14bbf47d02e09e0b3a29e444f1a]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/14) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
 
-[^key-032bd5859a5890e102ed5771b13f3a7b]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/15) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
+[^c-032bd5859a5890e102ed5771b13f3a7b]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/15) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
 
-[^key-2798e01e5891a92f25a7061c2aae19bd]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/16) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
+[^c-2798e01e5891a92f25a7061c2aae19bd]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/16) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
 
-[^key-8f294c3eb42987559254f95c8d5fd791]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/17) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
+[^c-8f294c3eb42987559254f95c8d5fd791]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/17) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
 
-[^key-d121d1ae941d39a1aca008b9e3859d32]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/18) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
+[^c-d121d1ae941d39a1aca008b9e3859d32]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/18) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
 
-[^key-1c6ae565c0971733e389b79c730bda27]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/19) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
+[^c-1c6ae565c0971733e389b79c730bda27]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/19) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
 
-[^key-67fda0ce750886fdbc8cbb1c8632f338]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/20) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
+[^c-67fda0ce750886fdbc8cbb1c8632f338]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/20) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
 
-[^key-a91e4de928fab8f1039663e841f03b8f]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/21) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
+[^c-a91e4de928fab8f1039663e841f03b8f]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/21) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
 
-[^key-79e3a87d3ad32b158d7998ad2102b5a2]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/22) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
+[^c-79e3a87d3ad32b158d7998ad2102b5a2]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/22) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
 
-[^key-ccf2d16b533bb71609d5f20b7356878e]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/23) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
+[^c-ccf2d16b533bb71609d5f20b7356878e]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/23) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
 
-[^key-e521bd6bc181fd3fda0c2d59b8902039]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/24) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
+[^c-e521bd6bc181fd3fda0c2d59b8902039]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/24) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
 
-[^key-dc4dda90946343fb0a94a88dfe55fbf0]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/25) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)
+[^c-dc4dda90946343fb0a94a88dfe55fbf0]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/asp/2021/17/schedule/2/paragraph/25) in force at 30.4.2024 by [S.S.I. 2024/113](https://www.legislation.gov.uk/ssi/2024/113), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2024/113/regulation/2/c)

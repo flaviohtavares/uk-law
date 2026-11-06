@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Construction and maintenance of local highway works[^key-371cb0811ced70e7cca9bf1945815139]
+## 20. Construction and maintenance of local highway works[^c-371cb0811ced70e7cca9bf1945815139]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ but for the purposes of such a defence it is not relevant that the undertaker ha
 
 ## Annotations
 
-[^key-371cb0811ced70e7cca9bf1945815139]: Commencement: Art. 20 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-371cb0811ced70e7cca9bf1945815139]: Commencement: Art. 20 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## M4. Applications for transfer value payments: General[^key-e340595f578b73e4dd2c3e29fb3f5cb5]
+## M4. Applications for transfer value payments: General[^c-e340595f578b73e4dd2c3e29fb3f5cb5]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e340595f578b73e4dd2c3e29fb3f5cb5]: Textual amendment: [Pt. M](https://www.legislation.gov.uk/uksi/1995/300/part/M) (regs. M1-M6) substituted for Pt. M (regs. M1-M7) (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [41](https://www.legislation.gov.uk/uksi/2008/654/regulation/41)
+[^c-e340595f578b73e4dd2c3e29fb3f5cb5]: Textual amendment: [Pt. M](https://www.legislation.gov.uk/uksi/1995/300/part/M) (regs. M1-M6) substituted for Pt. M (regs. M1-M7) (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [41](https://www.legislation.gov.uk/uksi/2008/654/regulation/41)

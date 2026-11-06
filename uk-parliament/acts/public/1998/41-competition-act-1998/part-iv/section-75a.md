@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75A. Rules in relation to Part 2 and Part 2A[^key-a235faf17f0324f903a34652f756b72d]
+## 75A. Rules in relation to Part 2 and Part 2A[^c-a235faf17f0324f903a34652f756b72d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a235faf17f0324f903a34652f756b72d]: Textual amendment: [S. 75A](https://www.legislation.gov.uk/ukpga/1998/41/section/75A) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [27](https://www.legislation.gov.uk/uksi/2019/93/regulation/27); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a235faf17f0324f903a34652f756b72d]: Textual amendment: [S. 75A](https://www.legislation.gov.uk/ukpga/1998/41/section/75A) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [27](https://www.legislation.gov.uk/uksi/2019/93/regulation/27); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

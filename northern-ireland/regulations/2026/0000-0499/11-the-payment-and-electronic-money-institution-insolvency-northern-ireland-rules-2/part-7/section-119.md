@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 119. Proving a debt[^key-09861feb26aa9aafcab3bef24ac9b80b]
+## 119. Proving a debt[^c-09861feb26aa9aafcab3bef24ac9b80b]
 
 *Extent: N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09861feb26aa9aafcab3bef24ac9b80b]: Commencement: [Rule 119](https://www.legislation.gov.uk/nisr/2026/11/rule/119) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-09861feb26aa9aafcab3bef24ac9b80b]: Commencement: [Rule 119](https://www.legislation.gov.uk/nisr/2026/11/rule/119) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Further criteria applicable to NIROCs certifying matters within Article 54(3) and (4) of the Energy Order[^key-2233a7568da8c133fc34b587f205280c][^key-8b84c7f27872f6fa929726baefb9b60d]
+## 35. Further criteria applicable to NIROCs certifying matters within Article 54(3) and (4) of the Energy Order[^c-2233a7568da8c133fc34b587f205280c][^c-8b84c7f27872f6fa929726baefb9b60d]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2233a7568da8c133fc34b587f205280c]: Commencement: Art. 35 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
+[^c-2233a7568da8c133fc34b587f205280c]: Commencement: Art. 35 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
 
-[^key-8b84c7f27872f6fa929726baefb9b60d]: Textual amendment: Art. 34(6)(7)(8) renumbered as art. 34(9)(10)(11) (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [25(4)](https://www.legislation.gov.uk/nisr/2013/116/article/25/4) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))
+[^c-8b84c7f27872f6fa929726baefb9b60d]: Textual amendment: Art. 34(6)(7)(8) renumbered as art. 34(9)(10)(11) (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [25(4)](https://www.legislation.gov.uk/nisr/2013/116/article/25/4) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))

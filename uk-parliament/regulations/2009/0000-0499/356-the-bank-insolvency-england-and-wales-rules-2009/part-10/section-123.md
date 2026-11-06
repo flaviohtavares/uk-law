@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 123. Resignation[^key-79d52f713a6df5d20a6ba37c76f8b36f]
+## 123. Resignation[^c-79d52f713a6df5d20a6ba37c76f8b36f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.160 of the 1986 Rules.
 
 ## Annotations
 
-[^key-79d52f713a6df5d20a6ba37c76f8b36f]: Commencement: Rule 123 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-79d52f713a6df5d20a6ba37c76f8b36f]: Commencement: Rule 123 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

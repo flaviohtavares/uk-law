@@ -30,7 +30,7 @@ summary: ''
 
 Food
 
-[^key-d404c7fc9faf66e5d91e90131e058117]The Food Additives (Scotland) Regulations 2009
+[^c-d404c7fc9faf66e5d91e90131e058117]The Food Additives (Scotland) Regulations 2009
 
 Made
 
@@ -52,13 +52,13 @@ In accordance with section 48(4A) of that Act, they have had regard to relevant 
 
 There has been consultation as required by Article 9 of Regulation (EC) No. 178/2002 of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003].
 
-## 1. Citation, commencement and extent[^key-733b08c22e27739e73fbdb1d474b3ff4]
+## 1. Citation, commencement and extent[^c-733b08c22e27739e73fbdb1d474b3ff4]
 
 (1) These Regulations may be cited as the Food Additives (Scotland) Regulations 2009 and come into force on 20th January 2010.
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Interpretation[^key-66cba29188c9232cb59c0b8697f0046f]
+## 2. Interpretation[^c-66cba29188c9232cb59c0b8697f0046f]
 
 (1) In these Regulations—
 
@@ -103,11 +103,11 @@ There has been consultation as required by Article 9 of Regulation (EC) No. 178
 - “miscellaneous additive” means any food additive which is used or intended to be used primarily as an acid, acidity regulator, anti-caking agent, anti-foaming agent, antioxidant, bulking agent, carrier, carrier solvent, emulsifier, emulsifying salt, firming agent, flavour enhancer, flour treatment agent, foaming agent, gelling agent, glazing agent, humectant, modified starch, packaging gas, preservative, propellant, raising agent, sequestrant, stabiliser or thickener, but does not include any processing aid or any enzyme except invertase or lysozyme;
 - “modified starch” means any substance obtained by one or more chemical treatments of edible starch, which may have undergone a physical or enzymatic treatment, and may be acid or alkali thinned or bleached;
 - “packaging gas” means any gas, other than air, which is introduced into a container before, during or after the placing of a food in that container;
-- “[^key-14f2991aef33896e9f84b6df23006fac]**permitted colour**” means—
+- “[^c-14f2991aef33896e9f84b6df23006fac]**permitted colour**” means—
   - (a) before 1st December 2012, any colour listed in Annex I to Directive 94/36 which satisfies the specific purity criteria for that colour set out in Annex I to Commission Directive [2008/128/EC](https://www.legislation.gov.uk/european/directive/2008/0128) laying down specific purity criteria concerning colours for use in foodstuffs, as amended by Commission Directive 2011/3/EU amending Directive [2008/128/EC](https://www.legislation.gov.uk/european/directive/2008/0128) laying down specific purity criteria on colours for use in foodstuffs;
   - (b) on or after 1st December 2012, any colour listed in Annex I to Directive 94/36 which satisfies the specific purity criteria for that colour set out in the Annex to Regulation 231/2012;
 - “permitted miscellaneous additive” means any miscellaneous additive listed in Annex I, III, IV or V of Directive 95/2 which satisfies the purity criteria (if any) for that additive;
-- “[^key-105520692f7cbaa97e567c6029b29111]**permitted sweetener**” means—
+- “[^c-105520692f7cbaa97e567c6029b29111]**permitted sweetener**” means—
   - (a) before 1st December 2012—
     - (i) any sweetener specified in the second column of the Annex to Directive 94/35 which satisfies the specific purity criteria for that sweetener set out in Annex I to Commission Directive [2008/60/EC](https://www.legislation.gov.uk/european/directive/2008/0060) laying down specific purity criteria concerning sweeteners for use in foodstuffs, as amended by Commission Directive 2010/37/EU amending Directive [2008/60/EC](https://www.legislation.gov.uk/european/directive/2008/0060) laying down specific purity criteria on sweeteners; or
     - (ii) in the case of E960 steviol glycosides, a sweetener which satisfies the specific purity criteria for that sweetener set out in the Annex to Regulation 231/2012;
@@ -120,14 +120,14 @@ There has been consultation as required by Article 9 of Regulation (EC) No. 178
 - “preservative” means any substance which prolongs the shelf-life of a food by protecting it against deterioration caused by micro-organisms;
 - “processing aid” means any substance not consumed as a food by itself, which is intentionally used in the processing of raw materials, foods or their ingredients to fulfil a certain technological purpose during treatment or processing and which may result in the unintentional but technically unavoidable presence of residues of the substance or its derivatives in the final product, but only if those residues do not present any health risk and do not have any technological effect on the finished product;
 - “propellant” means any gas, other than air, which expels a food from a container;
-- “[^key-a3c63d74fd23a4a24774faaebc4053d8]**purity criteria**”, in relation to a miscellaneous additive, means—
+- “[^c-a3c63d74fd23a4a24774faaebc4053d8]**purity criteria**”, in relation to a miscellaneous additive, means—
   - (a) before 1st December 2012—
     - (i) the specific purity criteria set out in relation to that additive in Annex I to Commission Directive [2008/84/EC](https://www.legislation.gov.uk/european/directive/2008/0084) laying down specific purity criteria on food additives other than colours and sweeteners, as amended by Commission Directive 2010/67/EU amending Directive [2008/84/EC](https://www.legislation.gov.uk/european/directive/2008/0084) laying down specific purity criteria on food additives other than colours and sweeteners; or
     - (ii) in the case of E1205 basic methacrylate copolymer, the specific purity criteria set out in the Annex to Regulation 231/2012;
   - (b) on or after 1st December 2012, the specific purity criteria set out in relation to that additive in the Annex to Regulation 231/2012;
 - “raising agent” means any substance or combination of substances which liberates gas and thereby increases the volume of a dough or a batter;
-- “Regulation 1333/2008” means Regulation [(EC) No. 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council on food additives[^f00013] as read with Regulation 231/2012[^key-c5392e7d875fd833440dac4927f03afe];
-- “[^key-464812a103d990e577ed2b3d4f9f80a1]**Regulation 1129/2011**” means Commission Regulation (EU) No 1129/2011 amending Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council by establishing a Union list of food additives , as read with Commission Regulation (EU) No 1131/2011 amending Annex II to Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council with regard to steviol glycosides;
+- “Regulation 1333/2008” means Regulation [(EC) No. 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council on food additives[^f00013] as read with Regulation 231/2012[^c-c5392e7d875fd833440dac4927f03afe];
+- “[^c-464812a103d990e577ed2b3d4f9f80a1]**Regulation 1129/2011**” means Commission Regulation (EU) No 1129/2011 amending Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council by establishing a Union list of food additives , as read with Commission Regulation (EU) No 1131/2011 amending Annex II to Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council with regard to steviol glycosides;
 - “**Regulation 1130/2011**” means Commission Regulation (EU) No 1130/2011 amending Annex III to Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council on food additives by establishing a Union list of food additives approved for use in food additives, food enzymes, food flavourings and nutrients ;
 - “**Regulation 231/2012**” means Commission Regulation (EU) No 231/2012 laying down specifications for food additives listed in Annexes II and III to Regulation (EC) No 1333/2008 of the European Parliament and of the Council;
 - “relevant food additive” means any miscellaneous additive, colour or sweetener, or an enzyme which is not acting as a processing aid;
@@ -160,71 +160,71 @@ There has been consultation as required by Article 9 of Regulation (EC) No. 178
 
 (4) Any reference in these Regulations to an Annex to an EU instrument that is specified in paragraph (5) is a reference to that Annex as amended from time to time.
 
-(5)[^key-f7ec56ff061ed18cf81ac67ba48a4e66] The EU instruments are Directive 94/35, Directive 95/2, Regulation 1333/2008 and Regulation 231/2012.
+(5)[^c-f7ec56ff061ed18cf81ac67ba48a4e66] The EU instruments are Directive 94/35, Directive 95/2, Regulation 1333/2008 and Regulation 231/2012.
 
-## 3. Use of colours in or on food[^key-d404c7fc9faf66e5d91e90131e058117]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 4. Health marking etc. of certain meat and meat products[^key-d404c7fc9faf66e5d91e90131e058117]
+## 3. Use of colours in or on food[^c-d404c7fc9faf66e5d91e90131e058117]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Use of colours on eggshells[^key-d404c7fc9faf66e5d91e90131e058117]
+## 4. Health marking etc. of certain meat and meat products[^c-d404c7fc9faf66e5d91e90131e058117]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Sale of colours and food containing colours[^key-d404c7fc9faf66e5d91e90131e058117]
+## 5. Use of colours on eggshells[^c-d404c7fc9faf66e5d91e90131e058117]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Transitional provision[^key-d404c7fc9faf66e5d91e90131e058117]
+## 6. Sale of colours and food containing colours[^c-d404c7fc9faf66e5d91e90131e058117]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Use of miscellaneous additives[^key-d404c7fc9faf66e5d91e90131e058117]
+## 7. Transitional provision[^c-d404c7fc9faf66e5d91e90131e058117]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Sale of food additives and food containing miscellaneous additives[^key-d404c7fc9faf66e5d91e90131e058117]
+## 8. Use of miscellaneous additives[^c-d404c7fc9faf66e5d91e90131e058117]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Transitional provisions and exemption[^key-d404c7fc9faf66e5d91e90131e058117]
+## 9. Sale of food additives and food containing miscellaneous additives[^c-d404c7fc9faf66e5d91e90131e058117]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Placing on the market and use of sweeteners[^key-d404c7fc9faf66e5d91e90131e058117]
+## 10. Transitional provisions and exemption[^c-d404c7fc9faf66e5d91e90131e058117]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Sale of food containing sweeteners[^key-d404c7fc9faf66e5d91e90131e058117]
+## 11. Placing on the market and use of sweeteners[^c-d404c7fc9faf66e5d91e90131e058117]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Transitional provision[^key-d404c7fc9faf66e5d91e90131e058117]
+## 12. Sale of food containing sweeteners[^c-d404c7fc9faf66e5d91e90131e058117]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Offences and penalties[^key-d404c7fc9faf66e5d91e90131e058117]
+## 13. Transitional provision[^c-d404c7fc9faf66e5d91e90131e058117]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Enforcement[^key-d404c7fc9faf66e5d91e90131e058117]
+## 14. Offences and penalties[^c-d404c7fc9faf66e5d91e90131e058117]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Application of various sections of the Food Safety Act 1990[^key-d404c7fc9faf66e5d91e90131e058117]
+## 15. Enforcement[^c-d404c7fc9faf66e5d91e90131e058117]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Condemnation of food[^key-d404c7fc9faf66e5d91e90131e058117]
+## 16. Application of various sections of the Food Safety Act 1990[^c-d404c7fc9faf66e5d91e90131e058117]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Consequential amendments[^key-0a0fbfc3a109f76eff6908b2e658cc6b]
+## 17. Condemnation of food[^c-d404c7fc9faf66e5d91e90131e058117]
 
-(1)[^key-ea197b878e46c229059faf338aca06b4] In paragraph (1) of regulation 4 (exemptions from the prohibition of mineral hydrocarbon in food) of the Mineral Hydrocarbons in Food (Scotland) Regulations 1966, for sub-paragraph (d) substitute—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 18. Consequential amendments[^c-0a0fbfc3a109f76eff6908b2e658cc6b]
+
+(1)[^c-ea197b878e46c229059faf338aca06b4] In paragraph (1) of regulation 4 (exemptions from the prohibition of mineral hydrocarbon in food) of the Mineral Hydrocarbons in Food (Scotland) Regulations 1966, for sub-paragraph (d) substitute—
 
 > - (d) any food containing mineral hydrocarbon that is used in the food as a miscellaneous additive as defined in the Food Additives (Scotland) Regulations 2009 in compliance with the provisions of those   Regulations;
 
@@ -244,7 +244,7 @@ There has been consultation as required by Article 9 of Regulation (EC) No. 178
 
 .
 
-(4)[^key-12e5e7dcbbe120bb1c61a126a50e89c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-12e5e7dcbbe120bb1c61a126a50e89c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In the Jam and Similar Products (Scotland) Regulations 2004[^f00033]—
 
@@ -259,7 +259,7 @@ There has been consultation as required by Article 9 of Regulation (EC) No. 178
 
   .
 
-## 19. Amendment of the Specified Sugar Products (Scotland) Regulations 2003[^key-d2f96d2091cca7da34f5a4e1f5246cf8]
+## 19. Amendment of the Specified Sugar Products (Scotland) Regulations 2003[^c-d2f96d2091cca7da34f5a4e1f5246cf8]
 
 In the Specified Sugar Products (Scotland) Regulations 2003[^f00034], for note 7 to Schedule 1 (specified sugar products and their reserved descriptions) there is substituted the following note:—
 
@@ -267,7 +267,7 @@ In the Specified Sugar Products (Scotland) Regulations 2003[^f00034], for note 7
 
 .
 
-## 20. Revocations[^key-d404c7fc9faf66e5d91e90131e058117]
+## 20. Revocations[^c-d404c7fc9faf66e5d91e90131e058117]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -281,14 +281,14 @@ Edinburgh
 
 10th December 2009
 
-## SCHEDULE — SPECIFIED REGULATION 1333/2008 PROVISIONS[^key-2c66bd40c4f98c49a27fb44fb304f8b4]
+## SCHEDULE — SPECIFIED REGULATION 1333/2008 PROVISIONS[^c-2c66bd40c4f98c49a27fb44fb304f8b4]
 
 Regulation 2(1)
 
 | *Provision of Regulation 1333/2008* | *Subject – matter* |
 | --- | --- |
 | Article 4.1 (as read with Articles 11.3 and 4, 12, 13.2, 15, 16 and 18.1(a), 2 and 3) | Requirement that only food additives included in the list in Annex II to Regulation 1333/2008 be placed on the market as such and that they be used in accordance with any conditions specified in that Annex. |
-| Article 4.2 (as read with Articles 12, 13.2 and 18.3)[^key-cebdf3bfaa97cbf343147a141cf45892] | Requirement that only food additives included in the list in Annex III to Regulation 1333/2008 may be used in food additives, food enzymes, food flavourings and nutrients and under the conditions of use specified in that Annex. |
+| Article 4.2 (as read with Articles 12, 13.2 and 18.3)[^c-cebdf3bfaa97cbf343147a141cf45892] | Requirement that only food additives included in the list in Annex III to Regulation 1333/2008 may be used in food additives, food enzymes, food flavourings and nutrients and under the conditions of use specified in that Annex. |
 | Article 4.5 | Requirement that food additives comply with the specifications referred to in Article 14 of Regulation 1333/2008. |
 | Article 5 | Prohibition on placing on the market of food additives or food containing food additives if the use of the food additive does not comply with Regulation 1333/2008. |
 | Article 11.2 | Requirement to use food additives in accordance with the *quantum satis* principle where no maximum numerical level fixed for the additive concerned. |
@@ -355,7 +355,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 ## Annotations
 
-[^key-d404c7fc9faf66e5d91e90131e058117]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2009/436) revoked (except regs. 1, 2, 18, 19) (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Scotland) Regulations 2013 (S.S.I. 2013/266)](https://www.legislation.gov.uk/ssi/2013/266), [reg. 1](https://www.legislation.gov.uk/ssi/2013/266/regulation/1), [sch. 5](https://www.legislation.gov.uk/ssi/2013/266/schedule/5)
+[^c-d404c7fc9faf66e5d91e90131e058117]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2009/436) revoked (except regs. 1, 2, 18, 19) (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Scotland) Regulations 2013 (S.S.I. 2013/266)](https://www.legislation.gov.uk/ssi/2013/266), [reg. 1](https://www.legislation.gov.uk/ssi/2013/266/regulation/1), [sch. 5](https://www.legislation.gov.uk/ssi/2013/266/schedule/5)
 
 [^f00001]: Footnote: [1990 c.16](https://www.legislation.gov.uk/ukpga/1990/16): section 1(1) and (2) (definition of “food”) was substituted by [S.I. 2004/2990](https://www.legislation.gov.uk/uksi/2004/2990); sections 16, 17 and 48 were amended by paragraph 8 of Schedule 5 to the Food Standards Act [1999 (c.28)](https://www.legislation.gov.uk/ukpga/1999/28) (“the 1999 Act”); section 17 was also amended by paragraph 12 of Schedule 5 to the 1999 Act and section 48 was also amended by paragraph 21 of Schedule 5 to the 1999 Act and [S.I. 2004/2990](https://www.legislation.gov.uk/uksi/2004/2990); section 26(3) was amended by the 1999 Act, Schedule 6 and is read with section 45 of the Criminal Proceedings etc. (Reform) (Scotland) Act [2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6); amendments made by Schedule 5 to the 1999 Act shall be taken as pre-commencement enactments for the purposes of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) (“the 1998 Act”) by virtue of section 40(2) of the 1999 Act. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. Insofar as not so transferred and insofar as relating to food (including drink) including the primary production of food, those functions were transferred to the Scottish Ministers by the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 ([S.I. 2005/849](https://www.legislation.gov.uk/uksi/2005/849)).
 
@@ -363,9 +363,9 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00003]: Footnote: O.J. No. L 31, 1.2.02, p.1, as last amended by Regulation [(EC) No. 596/2009](https://www.legislation.gov.uk/european/regulation/2009/0596) of the European Parliament and of the Council adapting a number of instruments subject to the procedure referred to in Article 251 of the Treaty to Council Decision [1999/468/EC](https://www.legislation.gov.uk/european/decision/1999/0468) with regard to the regulatory procedure with scrutiny: Adaptation to the regulatory procedure with scrutiny - Part Four (O.J. No. L 188, 18.7.2009, p.14).
 
-[^key-733b08c22e27739e73fbdb1d474b3ff4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2009/436/regulation/1) in force at 20.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2009/436/regulation/1/1)
+[^c-733b08c22e27739e73fbdb1d474b3ff4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2009/436/regulation/1) in force at 20.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2009/436/regulation/1/1)
 
-[^key-66cba29188c9232cb59c0b8697f0046f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2009/436/regulation/2) in force at 20.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2009/436/regulation/1/1)
+[^c-66cba29188c9232cb59c0b8697f0046f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2009/436/regulation/2) in force at 20.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2009/436/regulation/1/1)
 
 [^f00004]: Footnote: O.J. No. L 237, 10.9.1994, p.3, as last amended by Directive [2006/52/EC](https://www.legislation.gov.uk/european/directive/2006/0052) of the European Parliament and of the Council amending Directive [95/2/EC](https://www.legislation.gov.uk/european/directive/1995/0002) on food additives other than colours and sweeteners and Directive [94/35/EC](https://www.legislation.gov.uk/european/directive/1994/0035) on sweeteners for use in foodstuffs. (O.J. No. L 204, 20.7.2006, p.10).
 
@@ -379,23 +379,23 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00009]: Footnote: O.J. No. L 124, 20.05.2009, p.21.
 
-[^key-14f2991aef33896e9f84b6df23006fac]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/436/regulation/2/1) substituted (23.5.2012) by [The Food Additives (Scotland) Amendment Regulations 2012 (S.S.I. 2012/119)](https://www.legislation.gov.uk/ssi/2012/119), [regs. 1](https://www.legislation.gov.uk/ssi/2012/119/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2012/119/regulation/2/2/a)
+[^c-14f2991aef33896e9f84b6df23006fac]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/436/regulation/2/1) substituted (23.5.2012) by [The Food Additives (Scotland) Amendment Regulations 2012 (S.S.I. 2012/119)](https://www.legislation.gov.uk/ssi/2012/119), [regs. 1](https://www.legislation.gov.uk/ssi/2012/119/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2012/119/regulation/2/2/a)
 
-[^key-105520692f7cbaa97e567c6029b29111]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/436/regulation/2/1) substituted (23.5.2012) by [The Food Additives (Scotland) Amendment Regulations 2012 (S.S.I. 2012/119)](https://www.legislation.gov.uk/ssi/2012/119), [regs. 1](https://www.legislation.gov.uk/ssi/2012/119/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2012/119/regulation/2/2/b)
+[^c-105520692f7cbaa97e567c6029b29111]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/436/regulation/2/1) substituted (23.5.2012) by [The Food Additives (Scotland) Amendment Regulations 2012 (S.S.I. 2012/119)](https://www.legislation.gov.uk/ssi/2012/119), [regs. 1](https://www.legislation.gov.uk/ssi/2012/119/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2012/119/regulation/2/2/b)
 
-[^key-a3c63d74fd23a4a24774faaebc4053d8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/436/regulation/2/1) substituted (23.5.2012) by [The Food Additives (Scotland) Amendment Regulations 2012 (S.S.I. 2012/119)](https://www.legislation.gov.uk/ssi/2012/119), [regs. 1](https://www.legislation.gov.uk/ssi/2012/119/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2012/119/regulation/2/2/c)
+[^c-a3c63d74fd23a4a24774faaebc4053d8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/436/regulation/2/1) substituted (23.5.2012) by [The Food Additives (Scotland) Amendment Regulations 2012 (S.S.I. 2012/119)](https://www.legislation.gov.uk/ssi/2012/119), [regs. 1](https://www.legislation.gov.uk/ssi/2012/119/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2012/119/regulation/2/2/c)
 
 [^f00013]: Footnote: O.J. No. L 354, 31.12.2008, p.16.
 
-[^key-c5392e7d875fd833440dac4927f03afe]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/436/regulation/2/1) inserted (23.5.2012) by [The Food Additives (Scotland) Amendment Regulations 2012 (S.S.I. 2012/119)](https://www.legislation.gov.uk/ssi/2012/119), [regs. 1](https://www.legislation.gov.uk/ssi/2012/119/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/ssi/2012/119/regulation/2/2/d)
+[^c-c5392e7d875fd833440dac4927f03afe]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/436/regulation/2/1) inserted (23.5.2012) by [The Food Additives (Scotland) Amendment Regulations 2012 (S.S.I. 2012/119)](https://www.legislation.gov.uk/ssi/2012/119), [regs. 1](https://www.legislation.gov.uk/ssi/2012/119/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/ssi/2012/119/regulation/2/2/d)
 
-[^key-464812a103d990e577ed2b3d4f9f80a1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/436/regulation/2/1) inserted (23.5.2012) by [The Food Additives (Scotland) Amendment Regulations 2012 (S.S.I. 2012/119)](https://www.legislation.gov.uk/ssi/2012/119), [regs. 1](https://www.legislation.gov.uk/ssi/2012/119/regulation/1), [2(2)(e)](https://www.legislation.gov.uk/ssi/2012/119/regulation/2/2/e)
+[^c-464812a103d990e577ed2b3d4f9f80a1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/436/regulation/2/1) inserted (23.5.2012) by [The Food Additives (Scotland) Amendment Regulations 2012 (S.S.I. 2012/119)](https://www.legislation.gov.uk/ssi/2012/119), [regs. 1](https://www.legislation.gov.uk/ssi/2012/119/regulation/1), [2(2)(e)](https://www.legislation.gov.uk/ssi/2012/119/regulation/2/2/e)
 
-[^key-f7ec56ff061ed18cf81ac67ba48a4e66]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/ssi/2009/436/regulation/2/5) substituted (23.5.2012) by [The Food Additives (Scotland) Amendment Regulations 2012 (S.S.I. 2012/119)](https://www.legislation.gov.uk/ssi/2012/119), [regs. 1](https://www.legislation.gov.uk/ssi/2012/119/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2012/119/regulation/2/3)
+[^c-f7ec56ff061ed18cf81ac67ba48a4e66]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/ssi/2009/436/regulation/2/5) substituted (23.5.2012) by [The Food Additives (Scotland) Amendment Regulations 2012 (S.S.I. 2012/119)](https://www.legislation.gov.uk/ssi/2012/119), [regs. 1](https://www.legislation.gov.uk/ssi/2012/119/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2012/119/regulation/2/3)
 
-[^key-0a0fbfc3a109f76eff6908b2e658cc6b]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2009/436/regulation/18) in force at 20.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2009/436/regulation/1/1)
+[^c-0a0fbfc3a109f76eff6908b2e658cc6b]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2009/436/regulation/18) in force at 20.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2009/436/regulation/1/1)
 
-[^key-ea197b878e46c229059faf338aca06b4]: Textual amendment: [Reg. 18(1)](https://www.legislation.gov.uk/ssi/2009/436/regulation/18/1) substituted (23.5.2012) by [The Food Additives (Scotland) Amendment Regulations 2012 (S.S.I. 2012/119)](https://www.legislation.gov.uk/ssi/2012/119), [regs. 1](https://www.legislation.gov.uk/ssi/2012/119/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2012/119/regulation/2/5)
+[^c-ea197b878e46c229059faf338aca06b4]: Textual amendment: [Reg. 18(1)](https://www.legislation.gov.uk/ssi/2009/436/regulation/18/1) substituted (23.5.2012) by [The Food Additives (Scotland) Amendment Regulations 2012 (S.S.I. 2012/119)](https://www.legislation.gov.uk/ssi/2012/119), [regs. 1](https://www.legislation.gov.uk/ssi/2012/119/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2012/119/regulation/2/5)
 
 [^f00028]: Footnote: [S.S.I. 2003/293](https://www.legislation.gov.uk/ssi/2003/293), amended by [S.S.I. 2005/616](https://www.legislation.gov.uk/ssi/2005/616).
 
@@ -403,16 +403,16 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00030]: Footnote: O.J. No. L 404, 30.12.2006, p.26, as amended by Regulation [(EC) No. 108/2008](https://www.legislation.gov.uk/european/regulation/2008/0108) of the European Parliament and of the Council amending Regulation [(EC) No. 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) on the addition of vitamins and minerals and of certain other substances to foods (O.J. No. L 39, 13.2.2008, p.11).
 
-[^key-12e5e7dcbbe120bb1c61a126a50e89c1]: Textual amendment: [Reg. 18(4)](https://www.legislation.gov.uk/ssi/2009/436/regulation/18/4) revoked (13.12.2014) by [The Products Containing Meat etc. (Scotland) Regulations 2014 (S.S.I. 2014/289)](https://www.legislation.gov.uk/ssi/2014/289), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/289/regulation/1/1), [8(c)](https://www.legislation.gov.uk/ssi/2014/289/regulation/8/c) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/289/regulation/3))
+[^c-12e5e7dcbbe120bb1c61a126a50e89c1]: Textual amendment: [Reg. 18(4)](https://www.legislation.gov.uk/ssi/2009/436/regulation/18/4) revoked (13.12.2014) by [The Products Containing Meat etc. (Scotland) Regulations 2014 (S.S.I. 2014/289)](https://www.legislation.gov.uk/ssi/2014/289), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/289/regulation/1/1), [8(c)](https://www.legislation.gov.uk/ssi/2014/289/regulation/8/c) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/289/regulation/3))
 
 [^f00033]: Footnote: [S.S.I. 2004/133](https://www.legislation.gov.uk/ssi/2004/133), amended by [S.S.I. 2005/616](https://www.legislation.gov.uk/ssi/2005/616).
 
-[^key-d2f96d2091cca7da34f5a4e1f5246cf8]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2009/436/regulation/19) in force at 20.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2009/436/regulation/1/1)
+[^c-d2f96d2091cca7da34f5a4e1f5246cf8]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2009/436/regulation/19) in force at 20.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2009/436/regulation/1/1)
 
 [^f00034]: Footnote: [S.S.I. 2003/527](https://www.legislation.gov.uk/ssi/2003/527), as amended by [S.S.I. 2005/616](https://www.legislation.gov.uk/ssi/2005/616).
 
 [^f00035]: Footnote: O.J. No. L 141, 6.6.2009, p.3.
 
-[^key-2c66bd40c4f98c49a27fb44fb304f8b4]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2009/436/schedule) in force at 20.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2009/436/regulation/1/1)
+[^c-2c66bd40c4f98c49a27fb44fb304f8b4]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2009/436/schedule) in force at 20.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2009/436/regulation/1/1)
 
-[^key-cebdf3bfaa97cbf343147a141cf45892]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2009/436/schedule) Table inserted (23.5.2012) by [The Food Additives (Scotland) Amendment Regulations 2012 (S.S.I. 2012/119)](https://www.legislation.gov.uk/ssi/2012/119), [regs. 1](https://www.legislation.gov.uk/ssi/2012/119/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2012/119/regulation/2/6)
+[^c-cebdf3bfaa97cbf343147a141cf45892]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2009/436/schedule) Table inserted (23.5.2012) by [The Food Additives (Scotland) Amendment Regulations 2012 (S.S.I. 2012/119)](https://www.legislation.gov.uk/ssi/2012/119), [regs. 1](https://www.legislation.gov.uk/ssi/2012/119/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2012/119/regulation/2/6)

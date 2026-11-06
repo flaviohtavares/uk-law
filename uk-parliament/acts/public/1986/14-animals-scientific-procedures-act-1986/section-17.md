@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Neuromuscular blocking agents[^key-d8486409df61c285fdae552ea1ae786a]
+## 17. Neuromuscular blocking agents[^c-d8486409df61c285fdae552ea1ae786a]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8486409df61c285fdae552ea1ae786a]: Textual amendment: S. 17 substituted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2012/3039/regulation/17) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
+[^c-d8486409df61c285fdae552ea1ae786a]: Textual amendment: S. 17 substituted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2012/3039/regulation/17) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))

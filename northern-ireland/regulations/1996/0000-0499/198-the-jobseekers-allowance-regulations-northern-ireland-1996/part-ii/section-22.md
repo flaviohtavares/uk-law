@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Interpretation of certain expressions for the purposes of regulations 18(3)(f)(i) and 19(1)(d)[^key-ff8bec1a995db10e6ecee36be80f64f0]
+## 22. Interpretation of certain expressions for the purposes of regulations 18(3)(f)(i) and 19(1)(d)[^c-ff8bec1a995db10e6ecee36be80f64f0]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ For the purposes of regulations 18(3)(f)(i) (steps to be taken by persons active
 
 ## Annotations
 
-[^key-ff8bec1a995db10e6ecee36be80f64f0]: Commencement: Reg. 22 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-ff8bec1a995db10e6ecee36be80f64f0]: Commencement: Reg. 22 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

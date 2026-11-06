@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7.[^key-f307c65b3b0e1c2b5ecdfe5df0cb7fca]
+## 7.[^c-f307c65b3b0e1c2b5ecdfe5df0cb7fca]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For Article 3(2), substitute “ 2. Where necessary, the appropriate authority m
 
 ## Annotations
 
-[^key-f307c65b3b0e1c2b5ecdfe5df0cb7fca]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-f307c65b3b0e1c2b5ecdfe5df0cb7fca]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

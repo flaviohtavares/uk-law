@@ -46,7 +46,7 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the power conferred on them by section 56(3) of the Age of Criminal Responsibility (Scotland) Act 2019[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and interpretation[^key-ea05072475fa34df2d6d6c7a4cd09fc6]
+## 1. Citation, commencement and interpretation[^c-ea05072475fa34df2d6d6c7a4cd09fc6]
 
 (1) These Regulations may be cited as the Age of Criminal Responsibility (Scotland) Act 2019 (Register of Child Interview Rights Practitioners) Regulations 2021 and come into force on 30 September 2021.
 
@@ -55,7 +55,7 @@ The Scottish Ministers make the following Regulations in exercise of the power c
 - “the Act” means the Age of Criminal Responsibility (Scotland) Act 2019,
 - “the register” means the register of child interview rights practitioners established and maintained by the Scottish Ministers under section 56(1) of the Act.
 
-## 2. Recruitment and selection of child interview rights practitioners[^key-c69c9df2aa69098f51bd1fa784d5b4bc]
+## 2. Recruitment and selection of child interview rights practitioners[^c-c69c9df2aa69098f51bd1fa784d5b4bc]
 
 (1) These Regulations apply for the purpose of establishing and maintaining the register.
 
@@ -66,7 +66,7 @@ The Scottish Ministers make the following Regulations in exercise of the power c
 
 potential child interview rights practitioners.
 
-## 3. Inclusion in the register: requirements and period of registration[^key-db228c2b375ea6dfc61f66143594307e]
+## 3. Inclusion in the register: requirements and period of registration[^c-db228c2b375ea6dfc61f66143594307e]
 
 (1) The Scottish Ministers may include a person in the register for the relevant period who—
 
@@ -80,7 +80,7 @@ potential child interview rights practitioners.
 
 (3) The Scottish Ministers may only include or, as the case may be, continue to include a person in the register where that person has successfully completed such pre-registration training and such continuous training under regulations 5 and 6 as the Scottish Ministers think fit.
 
-(4) A person may not be included or, as the case may be, continue to be included in the register if that person is or becomes barred from regulated roles[^key-7fbb2822c7b981cc5042616decb056fd] with children by virtue of the Protection of Vulnerable Groups (Scotland) Act 2007[^f00002].
+(4) A person may not be included or, as the case may be, continue to be included in the register if that person is or becomes barred from regulated roles[^c-7fbb2822c7b981cc5042616decb056fd] with children by virtue of the Protection of Vulnerable Groups (Scotland) Act 2007[^f00002].
 
 (5) A person may not be included in the register or, as the case may be, continue to be included in the register, if that person is or becomes—
 
@@ -99,7 +99,7 @@ potential child interview rights practitioners.
 (7) A person who is included in the register must, as soon as practicable, notify the Scottish Ministers in writing if they—
 
 - (a) are no longer entitled to provide children’s legal assistance under section 28M of the Legal Aid (Scotland) Act 1986[^f00003],
-- (b) are barred from regulated roles[^key-ed4d31f29e72d0671af39746496b4507] with children by virtue of the Protection of Vulnerable Groups (Scotland) Act 2007, or
+- (b) are barred from regulated roles[^c-ed4d31f29e72d0671af39746496b4507] with children by virtue of the Protection of Vulnerable Groups (Scotland) Act 2007, or
 - (c) become a person as described in paragraph (5).
 
 (8) In this regulation—
@@ -112,7 +112,7 @@ potential child interview rights practitioners.
   - (i) the period of 3 years beginning with the date on which a person was first included on the register,
   - (ii) any subsequent period or periods of no less than 1 year and no more than 3 years, as determined by the Scottish Ministers.
 
-## 4. Removal from the register[^key-4f2f6c8a9f4e85d4e3809de6a7e9be0d]
+## 4. Removal from the register[^c-4f2f6c8a9f4e85d4e3809de6a7e9be0d]
 
 (1) The Scottish Ministers may remove a person from the register if at any point they consider that the person no longer meets, or is no longer able to meet, the requirements for inclusion in the register as mentioned in regulation 3.
 
@@ -120,7 +120,7 @@ potential child interview rights practitioners.
 
 (3) If the Scottish Ministers decide to remove a person from the register in accordance with paragraph (1) or (2), they must give the person notice in writing of that decision.
 
-## 5. Training of child interview rights practitioners[^key-7f817def95fda8079e55e505294442ea]
+## 5. Training of child interview rights practitioners[^c-7f817def95fda8079e55e505294442ea]
 
 (1) The Scottish Ministers must train, or make arrangements for the training of, child interview rights practitioners.
 
@@ -131,7 +131,7 @@ potential child interview rights practitioners.
 
 (3) A person included in the register must attend, and successfully complete, continuing training for child interview rights practitioners.
 
-## 6. Content of training of child interview rights practitioners[^key-af2be0bb796bf5705d3fea5982214cbd]
+## 6. Content of training of child interview rights practitioners[^c-af2be0bb796bf5705d3fea5982214cbd]
 
 The training for child interview rights practitioners must, in particular, include training about—
 
@@ -140,7 +140,7 @@ The training for child interview rights practitioners must, in particular, inclu
 - (c) how child interview rights practitioners may best ascertain the views of a child,
 - (d) the role and functions of other persons involved in an investigative interview.
 
-## 7. Payment of fees, expenses and allowances to child interview rights practitioners and those who may be included in the register[^key-f8ecc2c4a34ce6896be414394314487c]
+## 7. Payment of fees, expenses and allowances to child interview rights practitioners and those who may be included in the register[^c-f8ecc2c4a34ce6896be414394314487c]
 
 (1) The Scottish Ministers must make arrangements for the payment of fees to child interview rights practitioners.
 
@@ -148,7 +148,7 @@ The training for child interview rights practitioners must, in particular, inclu
 
 (3) The Scottish Ministers must publish the rate of fees, expenses and allowances payable in accordance with this regulation, including any revisions to those, in such form as they consider appropriate.
 
-## 8. Operation and management of the register[^key-d621fd4530fb56b9be51f84041b478b8]
+## 8. Operation and management of the register[^c-d621fd4530fb56b9be51f84041b478b8]
 
 (1) The Scottish Ministers must keep under review the operation and management of the register.
 
@@ -196,30 +196,30 @@ Regulation 8 makes provision about the operation and management of the register.
 
 [^f00001]: Footnote: [2019 asp 7](https://www.legislation.gov.uk/asp/2019/7).
 
-[^key-ea05072475fa34df2d6d6c7a4cd09fc6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2021/233/regulation/1) in force at 30.9.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/233/regulation/1/1)
+[^c-ea05072475fa34df2d6d6c7a4cd09fc6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2021/233/regulation/1) in force at 30.9.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/233/regulation/1/1)
 
-[^key-c69c9df2aa69098f51bd1fa784d5b4bc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2021/233/regulation/2) in force at 30.9.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/233/regulation/1/1)
+[^c-c69c9df2aa69098f51bd1fa784d5b4bc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2021/233/regulation/2) in force at 30.9.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/233/regulation/1/1)
 
-[^key-db228c2b375ea6dfc61f66143594307e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2021/233/regulation/3) in force at 30.9.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/233/regulation/1/1)
+[^c-db228c2b375ea6dfc61f66143594307e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2021/233/regulation/3) in force at 30.9.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/233/regulation/1/1)
 
-[^key-7fbb2822c7b981cc5042616decb056fd]: Textual amendment: Word in [reg. 3(4)](https://www.legislation.gov.uk/ssi/2021/233/regulation/3/4) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 21(a)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/21/a) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
+[^c-7fbb2822c7b981cc5042616decb056fd]: Textual amendment: Word in [reg. 3(4)](https://www.legislation.gov.uk/ssi/2021/233/regulation/3/4) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 21(a)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/21/a) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
 
 [^f00002]: Footnote: [2007 asp 14](https://www.legislation.gov.uk/asp/2007/14).
 
 [^f00003]: Footnote: [1986 c.47](https://www.legislation.gov.uk/ukpga/1986/47). Section 28M was inserted by section 191 of the Children’s Hearings (Scotland) Act [2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1).
 
-[^key-ed4d31f29e72d0671af39746496b4507]: Textual amendment: Word in [reg. 3(7)(b)](https://www.legislation.gov.uk/ssi/2021/233/regulation/3/7/b) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 21(b)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/21/b) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
+[^c-ed4d31f29e72d0671af39746496b4507]: Textual amendment: Word in [reg. 3(7)(b)](https://www.legislation.gov.uk/ssi/2021/233/regulation/3/7/b) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 21(b)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/21/b) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
 
 [^f00004]: Footnote: [2011 asp 1](https://www.legislation.gov.uk/asp/2011/1). Paragraph 12 of schedule 1 was relevantly amended by section 88(2) of the Children and Young People (Scotland) Act [2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8).
 
 [^f00005]: Footnote: https://www.gov.scot/publications/age-criminal-responsibility-scotland-act-2019-child-interview-rights-practitioners-code-practice/
 
-[^key-4f2f6c8a9f4e85d4e3809de6a7e9be0d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2021/233/regulation/4) in force at 30.9.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/233/regulation/1/1)
+[^c-4f2f6c8a9f4e85d4e3809de6a7e9be0d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2021/233/regulation/4) in force at 30.9.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/233/regulation/1/1)
 
-[^key-7f817def95fda8079e55e505294442ea]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2021/233/regulation/5) in force at 30.9.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/233/regulation/1/1)
+[^c-7f817def95fda8079e55e505294442ea]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2021/233/regulation/5) in force at 30.9.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/233/regulation/1/1)
 
-[^key-af2be0bb796bf5705d3fea5982214cbd]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2021/233/regulation/6) in force at 30.9.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/233/regulation/1/1)
+[^c-af2be0bb796bf5705d3fea5982214cbd]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2021/233/regulation/6) in force at 30.9.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/233/regulation/1/1)
 
-[^key-f8ecc2c4a34ce6896be414394314487c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2021/233/regulation/7) in force at 30.9.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/233/regulation/1/1)
+[^c-f8ecc2c4a34ce6896be414394314487c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2021/233/regulation/7) in force at 30.9.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/233/regulation/1/1)
 
-[^key-d621fd4530fb56b9be51f84041b478b8]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2021/233/regulation/8) in force at 30.9.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/233/regulation/1/1)
+[^c-d621fd4530fb56b9be51f84041b478b8]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2021/233/regulation/8) in force at 30.9.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/233/regulation/1/1)

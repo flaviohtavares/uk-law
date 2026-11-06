@@ -26,7 +26,7 @@ summary: ''
 
 (3) Any person not liable for tax on the value transferred by a chargeable transfer who fraudulently or negligently furnishes or produces to the Board any incorrect information or document in connection with the transfer shall be liable to a penalty not exceeding £3,000[^c19468261].
 
-(4)[^key-ac5bc2c7025a258cde0a0dedeac3f7a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ac5bc2c7025a258cde0a0dedeac3f7a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -36,4 +36,4 @@ summary: ''
 
 [^c19468261]: Textual amendment: Words in s. 247(3) substituted (with effect as mentioned in [s. 295(9)](https://www.legislation.gov.uk/ukpga/2004/12/section/295/9) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 295(4)(b)](https://www.legislation.gov.uk/ukpga/2004/12/section/295/4/b)
 
-[^key-ac5bc2c7025a258cde0a0dedeac3f7a0]: Textual amendment: [S. 247(4)](https://www.legislation.gov.uk/ukpga/1984/51/section/247/4) omitted (1.4.2013) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 223](https://www.legislation.gov.uk/ukpga/2012/14/section/223), [Sch. 38 para. 52](https://www.legislation.gov.uk/ukpga/2012/14/schedule/38/paragraph/52) (with [Sch. 38 para. 43](https://www.legislation.gov.uk/ukpga/2012/14/schedule/38/paragraph/43)); [S.I. 2013/279](https://www.legislation.gov.uk/uksi/2013/279), [art. 2](https://www.legislation.gov.uk/uksi/2013/279/article/2)
+[^c-ac5bc2c7025a258cde0a0dedeac3f7a0]: Textual amendment: [S. 247(4)](https://www.legislation.gov.uk/ukpga/1984/51/section/247/4) omitted (1.4.2013) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 223](https://www.legislation.gov.uk/ukpga/2012/14/section/223), [Sch. 38 para. 52](https://www.legislation.gov.uk/ukpga/2012/14/schedule/38/paragraph/52) (with [Sch. 38 para. 43](https://www.legislation.gov.uk/ukpga/2012/14/schedule/38/paragraph/43)); [S.I. 2013/279](https://www.legislation.gov.uk/uksi/2013/279), [art. 2](https://www.legislation.gov.uk/uksi/2013/279/article/2)

@@ -43,15 +43,15 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 In accordance with section 142(3)(b)(ii) of the Housing (Wales) Act 2014, a draft of these Regulations has been laid before, and approved by a resolution of, Senedd Cymru[^f00004].
 
-## 1. Title and commencement[^key-2592f38b2de20c090b34c9a58a1164da]
+## 1. Title and commencement[^c-2592f38b2de20c090b34c9a58a1164da]
 
 The title of these Regulations is the Allocation of Housing and Homelessness (Eligibility) (Wales) (Amendment) Regulations 2023 and they come into force on 30 January 2023.
 
-## 2. Amendment of the Allocation of Housing and Homelessness (Eligibility) (Wales) Regulations 2014[^key-0ece07e58d38c1d68fc889d34f7db93d]
+## 2. Amendment of the Allocation of Housing and Homelessness (Eligibility) (Wales) Regulations 2014[^c-0ece07e58d38c1d68fc889d34f7db93d]
 
 The Allocation of Housing and Homelessness (Eligibility) (Wales) Regulations 2014[^f00005] are amended in accordance with regulations 3 and 4.
 
-## 3. Amendments to regulation 3[^key-973bd50ef0fc7aa984aae53aa923a009]
+## 3. Amendments to regulation 3[^c-973bd50ef0fc7aa984aae53aa923a009]
 
 In regulation 3 (persons subject to immigration control who are eligible for an allocation of housing accommodation)—
 
@@ -61,7 +61,7 @@ In regulation 3 (persons subject to immigration control who are eligible for an 
 
   > - (m) Class M – a person who has temporary leave to remain in the United Kingdom granted in accordance with Appendix Temporary Permission to Stay for Victims of Human Trafficking or Slavery of the Immigration Rules[^f00006].
 
-## 4. Amendments to regulation 5[^key-e6d4af0631c6a86effb3dfa4c017b46e]
+## 4. Amendments to regulation 5[^c-e6d4af0631c6a86effb3dfa4c017b46e]
 
 In regulation 5(1) (persons subject to immigration control who are eligible for housing assistance)—
 
@@ -101,14 +101,14 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00004]: Footnote: The reference in section 142(3) to the National Assembly for Wales now has effect as a reference to Senedd Cymru, by virtue of section 150A(2) of the Government of Wales Act 2006. *See* also section 40 of the Legislation (Wales) Act 2019 (anaw 4) for provision about the procedure that applies to this instrument.
 
-[^key-2592f38b2de20c090b34c9a58a1164da]: Commencement: Reg. 1 in force at 30.1.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/76/regulation/1)
+[^c-2592f38b2de20c090b34c9a58a1164da]: Commencement: Reg. 1 in force at 30.1.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/76/regulation/1)
 
-[^key-0ece07e58d38c1d68fc889d34f7db93d]: Commencement: Reg. 2 in force at 30.1.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/76/regulation/1)
+[^c-0ece07e58d38c1d68fc889d34f7db93d]: Commencement: Reg. 2 in force at 30.1.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/76/regulation/1)
 
 [^f00005]: Footnote: [S.I. 2014/2603 (W. 257)](https://www.legislation.gov.uk/wsi/2014/2603) (as saved and modified by article 5 of [S.I. 2015/1272 (W. 88) (C. 73)](https://www.legislation.gov.uk/wsi/2015/1272), amended by [S.I. 2017/698 (W. 164)](https://www.legislation.gov.uk/wsi/2017/698), [S.I. 2019/1041 (W. 183)](https://www.legislation.gov.uk/wsi/2019/1041), [S.I. 2019/1149 (W. 199)](https://www.legislation.gov.uk/wsi/2019/1149), regulation 76 of [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309), regulation 26 of [S.I. 2020/1372](https://www.legislation.gov.uk/uksi/2020/1372), [S.I. 2021/353 (W. 105)](https://www.legislation.gov.uk/wsi/2021/353), [S.I. 2021/1147 (W. 282)](https://www.legislation.gov.uk/wsi/2021/1147) and [S.I. 2022/485 (W.121)](https://www.legislation.gov.uk/wsi/2022/485).
 
-[^key-973bd50ef0fc7aa984aae53aa923a009]: Commencement: Reg. 3 in force at 30.1.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/76/regulation/1)
+[^c-973bd50ef0fc7aa984aae53aa923a009]: Commencement: Reg. 3 in force at 30.1.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/76/regulation/1)
 
 [^f00006]: Footnote: Laid before Parliament on 23 May 1994 (HC 395), as amended. Appendix Temporary Permission to Stay for Victims of Human Trafficking or Slavery was introduced by the Statement of Changes to the Immigration Rules: HC 719, which was laid before Parliament on 18 October 2022 and takes effect on the 30th January 2023.
 
-[^key-e6d4af0631c6a86effb3dfa4c017b46e]: Commencement: Reg. 4 in force at 30.1.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/76/regulation/1)
+[^c-e6d4af0631c6a86effb3dfa4c017b46e]: Commencement: Reg. 4 in force at 30.1.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/76/regulation/1)

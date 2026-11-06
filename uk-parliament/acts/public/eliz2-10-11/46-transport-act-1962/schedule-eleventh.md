@@ -50,9 +50,9 @@ The Twelfth Schedule so far as it relates to the [^c4803911]Transport Act 1947, 
 
 **5.** In subsection (5) of section seventy-four, the reference to the Truck Acts, 1831 to 1940, and the [^c4804021]Shop Clubs Act 1902, shall include a reference to any corresponding enactments for the time being in force in Northern Ireland.
 
-**6.** (1)[^key-b69044d7f41ffcadb17c73e4386b3150] A referee or board of referees for the purposes of section seventy-four, section eighty-one or paragraph 17 of the Seventh Schedule shall, where the proceedings are to be held in Northern Ireland, be appointed by the Ministry of Labour and National Insurance for Northern Ireland after consultation with the Lord Chief Justice of Northern Ireland.
+**6.** (1)[^c-b69044d7f41ffcadb17c73e4386b3150] A referee or board of referees for the purposes of section seventy-four, section eighty-one or paragraph 17 of the Seventh Schedule shall, where the proceedings are to be held in Northern Ireland, be appointed by the Ministry of Labour and National Insurance for Northern Ireland after consultation with the Lord Chief Justice of Northern Ireland.
 
-(2)[^key-3ff2835794ee6a222ddaf06fc8c005ca] The Lord Chief Justice of Northern Ireland may nominate any of the following to exercise his functions under sub-paragraph (1)—
+(2)[^c-3ff2835794ee6a222ddaf06fc8c005ca] The Lord Chief Justice of Northern Ireland may nominate any of the following to exercise his functions under sub-paragraph (1)—
 
 - (a) the holder of one of the offices listed in Schedule 1 to the Justice (Northern Ireland) Act 2002;
 - (b) a Lord Justice of Appeal (as defined in section 88 of that Act).
@@ -63,7 +63,7 @@ The Twelfth Schedule so far as it relates to the [^c4803911]Transport Act 1947, 
 
 **9.** In sub-paragraph (3) of paragraph 1 of the Sixth Schedule, for the reference to section sixty-four of the [^c4804071]Law of Property Act 1925, there shall be substituted a reference to section nine of the [^c4804081]Conveyancing Act 1881.
 
-**10.**[^key-181b8b3315a9e67b819f6f211cfd1450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-181b8b3315a9e67b819f6f211cfd1450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **11.**[^c4804091] References to enactments or statutory provisions include references to enactments of the Parliament of Northern Ireland and provisions, whether of a general or a special nature, contained in, or in any document made or issued under, any Act of the Parliament of Northern Ireland, whether of a general or a special nature.
 
@@ -93,9 +93,9 @@ The Twelfth Schedule so far as it relates to the [^c4803911]Transport Act 1947, 
 
 [^c4804021]: Marginal citation: [1902 c. 21](https://www.legislation.gov.uk/ukpga/1902/21).
 
-[^key-b69044d7f41ffcadb17c73e4386b3150]: Textual amendment: Sch. 11 para. 6 renumbered as Sch. 11 para. 6(1) (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 58(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/58/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e)
+[^c-b69044d7f41ffcadb17c73e4386b3150]: Textual amendment: Sch. 11 para. 6 renumbered as Sch. 11 para. 6(1) (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 58(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/58/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e)
 
-[^key-3ff2835794ee6a222ddaf06fc8c005ca]: Textual amendment: Sch. 11 para. 6(2) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 58(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/58/3); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e)
+[^c-3ff2835794ee6a222ddaf06fc8c005ca]: Textual amendment: Sch. 11 para. 6(2) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 58(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/58/3); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e)
 
 [^c4804051]: Textual amendment: [Sch. 11 Pt. II para. 7](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/46/schedule/11/part/II/paragraph/7) repealed (31.1.1997) by [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23), [s. 107(2)](https://www.legislation.gov.uk/ukpga/1996/23/section/107/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1996/23/schedule/4) (with [s. 81(2)](https://www.legislation.gov.uk/ukpga/1996/23/section/81/2)); [S.I. 1996/3146](https://www.legislation.gov.uk/uksi/1996/3146), [art. 3](https://www.legislation.gov.uk/uksi/1996/3146/article/3) (subject to transitional provisions in [art. 4](https://www.legislation.gov.uk/uksi/1996/3146/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/3146/schedule/2)).
 
@@ -105,6 +105,6 @@ The Twelfth Schedule so far as it relates to the [^c4803911]Transport Act 1947, 
 
 [^c4804081]: Marginal citation: [1881 c. 41](https://www.legislation.gov.uk/ukpga/1881/41).
 
-[^key-181b8b3315a9e67b819f6f211cfd1450]: Textual amendment: Sch. 11 para. 10 repealed (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 59](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/59), [Sch. 18 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/4/schedule/18/part/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 paras. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e), [30(b)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/30/b)
+[^c-181b8b3315a9e67b819f6f211cfd1450]: Textual amendment: Sch. 11 para. 10 repealed (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 59](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/59), [Sch. 18 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/4/schedule/18/part/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 paras. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e), [30(b)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/30/b)
 
 [^c4804091]: Modification: Reference to enactments of the Parliament of Northern Ireland to be construed as including reference to Measures of the Northern Ireland Assembly: [Northern Ireland Constitution Act 1973 (c. 36)](https://www.legislation.gov.uk/ukpga/1973/36), [Sch. 5 para. 1(1)(2)](https://www.legislation.gov.uk/ukpga/1973/36/schedule/5/paragraph/1/1/2)

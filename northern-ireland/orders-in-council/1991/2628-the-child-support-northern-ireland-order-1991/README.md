@@ -26,7 +26,7 @@ summary: ''
 
 1991 No. 2628 (N.I. 23)
 
-The Child Support (Northern Ireland) Order 1991[^key-ec7a350ef927780ee414e82a159d5ea2][^key-eb260f8ac4b4b4d4bf6f1ff54e8602fe][^key-9f4909d0a25b71f0c89ff4f3052b291c][^key-9c776c41e2ca743ae72ccd01af0c7a5e]
+The Child Support (Northern Ireland) Order 1991[^c-ec7a350ef927780ee414e82a159d5ea2][^c-eb260f8ac4b4b4d4bf6f1ff54e8602fe][^c-9f4909d0a25b71f0c89ff4f3052b291c][^c-9c776c41e2ca743ae72ccd01af0c7a5e]
 
 19th November 1991 [^M_F_68f26084-9770-4830-8c72-f97a67c7c2cc][^c23802441]
 
@@ -181,13 +181,13 @@ SCHEDULES
 
 ## Annotations
 
-[^key-ec7a350ef927780ee414e82a159d5ea2]: Modification: [Order](https://www.legislation.gov.uk/nisi/1991/2628) power to apply (with modifications) conferred (5.12.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [ss. 3(4)](https://www.legislation.gov.uk/nia/2008/10/section/3/4), [41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1); [S.R. 2008/489](https://www.legislation.gov.uk/nisr/2008/489), [art. 2](https://www.legislation.gov.uk/nisr/2008/489/article/2)
+[^c-ec7a350ef927780ee414e82a159d5ea2]: Modification: [Order](https://www.legislation.gov.uk/nisi/1991/2628) power to apply (with modifications) conferred (5.12.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [ss. 3(4)](https://www.legislation.gov.uk/nia/2008/10/section/3/4), [41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1); [S.R. 2008/489](https://www.legislation.gov.uk/nisr/2008/489), [art. 2](https://www.legislation.gov.uk/nisr/2008/489/article/2)
 
-[^key-eb260f8ac4b4b4d4bf6f1ff54e8602fe]: Modification: [Order](https://www.legislation.gov.uk/nisi/1991/2628): transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 17 para. 42](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/42) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-eb260f8ac4b4b4d4bf6f1ff54e8602fe]: Modification: [Order](https://www.legislation.gov.uk/nisi/1991/2628): transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 17 para. 42](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/42) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-9f4909d0a25b71f0c89ff4f3052b291c]: Modification: [Order](https://www.legislation.gov.uk/nisi/1991/2628) applied in part (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010 (S.R. 2010/312)](https://www.legislation.gov.uk/nisr/2010/312), [regs. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1), [16](https://www.legislation.gov.uk/nisr/2010/312/regulation/16), [Sch. 2](https://www.legislation.gov.uk/nisr/2010/312/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/nisr/2010/312/regulation/3))
+[^c-9f4909d0a25b71f0c89ff4f3052b291c]: Modification: [Order](https://www.legislation.gov.uk/nisi/1991/2628) applied in part (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010 (S.R. 2010/312)](https://www.legislation.gov.uk/nisr/2010/312), [regs. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1), [16](https://www.legislation.gov.uk/nisr/2010/312/regulation/16), [Sch. 2](https://www.legislation.gov.uk/nisr/2010/312/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/nisr/2010/312/regulation/3))
 
-[^key-9c776c41e2ca743ae72ccd01af0c7a5e]: Modification: [Order](https://www.legislation.gov.uk/nisi/1991/2628) applied (30.6.2014) by [The Child Support (Ending Liability in Existing Cases and Transition to New Calculation Rules) Regulations (Northern Ireland) 2014 (S.R. 2014/191)](https://www.legislation.gov.uk/nisr/2014/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/191/regulation/1/1), [7(1)](https://www.legislation.gov.uk/nisr/2014/191/regulation/7/1)
+[^c-9c776c41e2ca743ae72ccd01af0c7a5e]: Modification: [Order](https://www.legislation.gov.uk/nisi/1991/2628) applied (30.6.2014) by [The Child Support (Ending Liability in Existing Cases and Transition to New Calculation Rules) Regulations (Northern Ireland) 2014 (S.R. 2014/191)](https://www.legislation.gov.uk/nisr/2014/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/191/regulation/1/1), [7(1)](https://www.legislation.gov.uk/nisr/2014/191/regulation/7/1)
 
 [^M_F_68f26084-9770-4830-8c72-f97a67c7c2cc]: Modification: Order: power to amend conferred by [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47), [s. 87(4)-(6)](https://www.legislation.gov.uk/ukpga/1998/47/section/87/4)
 

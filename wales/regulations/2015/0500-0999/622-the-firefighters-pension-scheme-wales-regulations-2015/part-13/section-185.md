@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 185. Set-off[^key-0f42050ee79c9f734df85a3b521d715d]
+## 185. Set-off[^c-0f42050ee79c9f734df85a3b521d715d]
 
 *Extent: E+W*
 
@@ -61,7 +61,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0f42050ee79c9f734df85a3b521d715d]: Commencement: Reg. 185 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-0f42050ee79c9f734df85a3b521d715d]: Commencement: Reg. 185 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
 [^f00083]: Footnote: Section 124(1) was amended by the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), Schedule 12, paragraphs 43 and 61, the Child Support, Pensions and Social Security Act [2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), Schedule 5, paragraph 8, the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), section 7(2), Schedule 12, paragraphs 34, 43 and 69 and Schedule 13, Part 1 and [S.I. 2005/2053](https://www.legislation.gov.uk/uksi/2005/2053), [2006/745](https://www.legislation.gov.uk/uksi/2006/745) and [2014/560](https://www.legislation.gov.uk/uksi/2014/560).
 

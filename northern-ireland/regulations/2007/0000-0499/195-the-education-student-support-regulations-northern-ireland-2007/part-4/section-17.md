@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Students to be treated as in attendance on a course[^key-a4581b1c46e55d463a9fd50c0e2a1174]
+## 17. Students to be treated as in attendance on a course[^c-a4581b1c46e55d463a9fd50c0e2a1174]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4581b1c46e55d463a9fd50c0e2a1174]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2007/195/regulation/17) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-a4581b1c46e55d463a9fd50c0e2a1174]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2007/195/regulation/17) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

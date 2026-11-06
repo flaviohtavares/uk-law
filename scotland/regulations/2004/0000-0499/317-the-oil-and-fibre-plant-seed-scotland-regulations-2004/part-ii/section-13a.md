@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13A. Certification and labelling for export[^key-ba7853ca22ecb94aca8e1184089489d2]
+## 13A. Certification and labelling for export[^c-ba7853ca22ecb94aca8e1184089489d2]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba7853ca22ecb94aca8e1184089489d2]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/ssi/2004/317/regulation/13A) inserted (28.3.2019) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/a), [3(6)](https://www.legislation.gov.uk/ssi/2019/59/regulation/3/6)
+[^c-ba7853ca22ecb94aca8e1184089489d2]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/ssi/2004/317/regulation/13A) inserted (28.3.2019) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/a), [3(6)](https://www.legislation.gov.uk/ssi/2019/59/regulation/3/6)

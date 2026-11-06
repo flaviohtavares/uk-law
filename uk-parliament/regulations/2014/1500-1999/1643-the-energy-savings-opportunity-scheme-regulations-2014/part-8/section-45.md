@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The penalties in paragraph (2) apply where a responsible undertaking fails to carry out an audit, contrary to Chapter 3 of Part 4, except where regulation 33(3) or 33A applies[^key-2b9aca11c317bb508b7f1d145afe68d7].
+(1) The penalties in paragraph (2) apply where a responsible undertaking fails to carry out an audit, contrary to Chapter 3 of Part 4, except where regulation 33(3) or 33A applies[^c-2b9aca11c317bb508b7f1d145afe68d7].
 
 (2) The penalties are—
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b9aca11c317bb508b7f1d145afe68d7]: Textual amendment: Words in [reg. 45(1)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/45/1) substituted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [29](https://www.legislation.gov.uk/uksi/2026/701/regulation/29)
+[^c-2b9aca11c317bb508b7f1d145afe68d7]: Textual amendment: Words in [reg. 45(1)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/45/1) substituted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [29](https://www.legislation.gov.uk/uksi/2026/701/regulation/29)

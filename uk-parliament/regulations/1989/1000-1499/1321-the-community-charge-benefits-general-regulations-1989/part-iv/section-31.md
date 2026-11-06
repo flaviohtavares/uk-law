@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 31. Calculation of capital in the United Kingdom[^key-ac1fd17f5901af8cbb9e53aabf1c3c3e]
+## 31. Calculation of capital in the United Kingdom[^c-ac1fd17f5901af8cbb9e53aabf1c3c3e]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ Capital which a claimant possesses in the United Kingdom shall be calculated–
 
 ## Annotations
 
-[^key-ac1fd17f5901af8cbb9e53aabf1c3c3e]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/1989/1321/regulation/31) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-ac1fd17f5901af8cbb9e53aabf1c3c3e]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/1989/1321/regulation/31) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)

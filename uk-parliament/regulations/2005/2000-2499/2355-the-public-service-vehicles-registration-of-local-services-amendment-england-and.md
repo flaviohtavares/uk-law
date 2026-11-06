@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State for Transport, in exercise of the powers conferred by sections 52(1) and 60(1)(e) and (1A) of the Public Passenger Vehicles Act 1981[^f00001] and by virtue of the Department of Transport (Fees) Order 1988[^f00002], and after consultation with representative organisations in accordance with section 61(2) of that Act, hereby makes the following Regulations:
 
-## 1. Citation, commencement and extent[^key-ab86d18e4e88c2c67a10a221e400d0d1]
+## 1. Citation, commencement and extent[^c-ab86d18e4e88c2c67a10a221e400d0d1]
 
 (1) These Regulations may be cited as the Public Service Vehicles (Registration of Local Services) (Amendment) (England and Wales) Regulations 2005 and shall come into force on 30th September 2005.
 
 (2) These regulations extend to England and Wales[^f00003].
 
-## 2. Amendment of the principal Regulations[^key-cf5678e7475ae8c412a73a1665fa1bbf]
+## 2. Amendment of the principal Regulations[^c-cf5678e7475ae8c412a73a1665fa1bbf]
 
 (1) The Public Service Vehicles (Registration of Local Services) Regulations 1986[^f00004] are amended as follows.
 
@@ -80,10 +80,10 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00002]: Footnote: S.I. [1988/643](https://www.legislation.gov.uk/uksi/1988/643), which made under the Finance (No.2) Act [1987 (c. 51)](https://www.legislation.gov.uk/ukpga/1987/51), section 102. The relevant entry in S.I. [1988/643](https://www.legislation.gov.uk/uksi/1988/643) is Schedule 1, Table V, Item 3B.
 
-[^key-ab86d18e4e88c2c67a10a221e400d0d1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2005/2355/regulation/1) in force at 30.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2355/regulation/1/1)
+[^c-ab86d18e4e88c2c67a10a221e400d0d1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2005/2355/regulation/1) in force at 30.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2355/regulation/1/1)
 
 [^f00003]: Footnote: Competence to make regulations in respect of Scotland has been devolved by virtue of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), section 53.
 
-[^key-cf5678e7475ae8c412a73a1665fa1bbf]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2005/2355/regulation/2) in force at 30.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2355/regulation/1/1)
+[^c-cf5678e7475ae8c412a73a1665fa1bbf]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2005/2355/regulation/2) in force at 30.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2355/regulation/1/1)
 
 [^f00004]: Footnote: S.I. [1986/1671](https://www.legislation.gov.uk/uksi/1986/1671), relevant amending instruments are S.I. [1989/1064](https://www.legislation.gov.uk/uksi/1989/1064), [1993/2752](https://www.legislation.gov.uk/uksi/1993/2752), [2002/2536](https://www.legislation.gov.uk/uksi/2002/2536) and [2004/2250](https://www.legislation.gov.uk/uksi/2004/2250).

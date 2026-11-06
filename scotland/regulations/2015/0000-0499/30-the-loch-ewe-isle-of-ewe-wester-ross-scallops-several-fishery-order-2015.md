@@ -54,11 +54,11 @@ In accordance with paragraph 2 of that Schedule, the applicant caused a draft of
 
 With regard to paragraph 3 of that Schedule, no objections were received and no representations were made in writing to the Scottish Ministers in respect of the draft of this Order.
 
-## 1. Citation and commencement[^key-3b024f44419b5f328cb7501bed52e879]
+## 1. Citation and commencement[^c-3b024f44419b5f328cb7501bed52e879]
 
 This Order may be cited as the Loch Ewe, Isle of Ewe, Wester Ross, Scallops Several Fishery Order 2015 and comes into force on 9th March 2015.
 
-## 2. Interpretation[^key-4233d23d254afc71e53ae9b8fa8f8a92]
+## 2. Interpretation[^c-4233d23d254afc71e53ae9b8fa8f8a92]
 
 (1) In this Order—
 
@@ -69,36 +69,36 @@ This Order may be cited as the Loch Ewe, Isle of Ewe, Wester Ross, Scallops Seve
 
 (2) A reference in this Order to anything produced in written form includes a reference to an electronic communication, as defined in section 15(1) of the Electronic Communications Act 2000[^f00004], which has been recorded and is consequently capable of being reproduced.
 
-## 3. Right of several fishery[^key-a9b3009ad080be1f75d9ec3110070bb2]
+## 3. Right of several fishery[^c-a9b3009ad080be1f75d9ec3110070bb2]
 
 Subject to the following provisions of this Order, the right of several fishery for scallops with respect to the whole area of the fishery is conferred on the applicant until 9th March 2025.
 
-## 4. Restriction on harvesting and deposits[^key-0284092b01956dc98917a866fa3b6163]
+## 4. Restriction on harvesting and deposits[^c-0284092b01956dc98917a866fa3b6163]
 
 The right of several fishery granted by article 3 is subject to the following restrictions—
 
 - (a) that the harvesting of scallops must be carried out manually by divers;
 - (b) that the grantee must not without the written consent of the Scottish Ministers deposit within the boundaries of the fishery any juvenile scallop taken from outwith the fishery and must comply with any condition subject to which the Scottish Ministers give such consent.
 
-## 5. Permitted fishing implements[^key-85be8db4dae86c1b0b87a313bb453f83]
+## 5. Permitted fishing implements[^c-85be8db4dae86c1b0b87a313bb453f83]
 
 For the purposes of section 7(4)(a)(iii) of the Sea Fisheries (Shellfish) Act 1967 (protection of fisheries: offences), a creel is specified as an implement of fishing the use of which is permitted within the fishery.
 
-## 6. Assignation[^key-27e393d6c4e9fa2083698ec0396b189b]
+## 6. Assignation[^c-27e393d6c4e9fa2083698ec0396b189b]
 
 The grantee must not without the prior written consent of the Scottish Ministers assign or in any other way transfer the right of several fishery to any other person.
 
-## 7. Marking of limits of fishery[^key-dc8e22178df3e2531923b8864a160dac]
+## 7. Marking of limits of fishery[^c-dc8e22178df3e2531923b8864a160dac]
 
 The grantee must cause to be clearly marked the limits of the fishery on the bed and on the surface of the sea and must maintain the marks in position and in good repair.
 
-## 8. Rights of the Crown[^key-d72215c23be5e6d6f24c710b7de66eba]
+## 8. Rights of the Crown[^c-d72215c23be5e6d6f24c710b7de66eba]
 
-(1)[^key-890c81c871ed34bf5b0e1f7a770fbc19] Nothing in this Order shall affect prejudicially any estate, right, power, privilege, authority or exemption of the Crown and, in particular and without prejudice to the generality of the foregoing, nothing in this Order authorises the applicant to take, use, enter upon or, in any manner interfere with any land, or interest in land, any rights of whatever description (including any portion of the shore or bed of the sea, or of any river, channel, creek, bay or estuary) belonging to Her Majesty in right of the Crown and under the management of the Crown Estate Commissioners or a relevant person[^key-9dd2bda806ba200385b743af5c26a804].
+(1)[^c-890c81c871ed34bf5b0e1f7a770fbc19] Nothing in this Order shall affect prejudicially any estate, right, power, privilege, authority or exemption of the Crown and, in particular and without prejudice to the generality of the foregoing, nothing in this Order authorises the applicant to take, use, enter upon or, in any manner interfere with any land, or interest in land, any rights of whatever description (including any portion of the shore or bed of the sea, or of any river, channel, creek, bay or estuary) belonging to Her Majesty in right of the Crown and under the management of the Crown Estate Commissioners or a relevant person[^c-9dd2bda806ba200385b743af5c26a804].
 
-(2)[^key-3ab0f86ce7a89ffda2c916dd8602cf75] In paragraph (1), “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests.
+(2)[^c-3ab0f86ce7a89ffda2c916dd8602cf75] In paragraph (1), “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests.
 
-## 9. Revocations[^key-bcae923b09f0a43d310883b769c827ff]
+## 9. Revocations[^c-bcae923b09f0a43d310883b769c827ff]
 
 The following Orders are revoked—
 
@@ -119,7 +119,7 @@ Edinburgh
 
 Article 2(1)
 
-### 1. Interpretation[^key-b05c45f4585c2d1a706d38f2613aa63b]
+### 1. Interpretation[^c-b05c45f4585c2d1a706d38f2613aa63b]
 
 In this Schedule—
 
@@ -128,7 +128,7 @@ In this Schedule—
 - co-ordinate “B” is 57°50.214′ North latitude and 005°36.514′ West longitude; and
 - co-ordinate “C” is 57°50.112′ North latitude and 005°36.614′ West longitude.
 
-### 2. Description of the fishery[^key-4b4a3eb685673009233f25ddc06ecbb6]
+### 2. Description of the fishery[^c-4b4a3eb685673009233f25ddc06ecbb6]
 
 That part of the bed of the sea in Loch Ewe, Wester Ross, extending to 56 hectares or thereby which is bounded by the lines (the topographical descriptions of which are listed in the third column of the following table) which join in the order given the co-ordinates listed in the second column.
 
@@ -170,38 +170,38 @@ A Business and Regulatory Impact Assessment has been prepared in relation to thi
 
 [^f00003]: Footnote: [1961 c.55](https://www.legislation.gov.uk/ukpga/1961/55).
 
-[^key-3b024f44419b5f328cb7501bed52e879]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1)
+[^c-3b024f44419b5f328cb7501bed52e879]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1)
 
-[^key-4233d23d254afc71e53ae9b8fa8f8a92]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2015/30/article/2) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1)
+[^c-4233d23d254afc71e53ae9b8fa8f8a92]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2015/30/article/2) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1)
 
 [^f00004]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15 was amended by paragraph 158 of Schedule 17 to the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-a9b3009ad080be1f75d9ec3110070bb2]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2015/30/article/3) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1)
+[^c-a9b3009ad080be1f75d9ec3110070bb2]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2015/30/article/3) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1)
 
-[^key-0284092b01956dc98917a866fa3b6163]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2015/30/article/4) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1)
+[^c-0284092b01956dc98917a866fa3b6163]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2015/30/article/4) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1)
 
-[^key-85be8db4dae86c1b0b87a313bb453f83]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2015/30/article/5) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1)
+[^c-85be8db4dae86c1b0b87a313bb453f83]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2015/30/article/5) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1)
 
-[^key-27e393d6c4e9fa2083698ec0396b189b]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2015/30/article/6) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1)
+[^c-27e393d6c4e9fa2083698ec0396b189b]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2015/30/article/6) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1)
 
-[^key-dc8e22178df3e2531923b8864a160dac]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2015/30/article/7) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1)
+[^c-dc8e22178df3e2531923b8864a160dac]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2015/30/article/7) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1)
 
-[^key-d72215c23be5e6d6f24c710b7de66eba]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2015/30/article/8) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1)
+[^c-d72215c23be5e6d6f24c710b7de66eba]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2015/30/article/8) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1)
 
-[^key-890c81c871ed34bf5b0e1f7a770fbc19]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/ssi/2015/30/article/8/1) renumbered as art. 8(1) (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 138(1)(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/138/1/a)
+[^c-890c81c871ed34bf5b0e1f7a770fbc19]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/ssi/2015/30/article/8/1) renumbered as art. 8(1) (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 138(1)(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/138/1/a)
 
-[^key-9dd2bda806ba200385b743af5c26a804]: Textual amendment: Words in [art. 8(1)](https://www.legislation.gov.uk/ssi/2015/30/article/8/1) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 138(1)(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/138/1/b)
+[^c-9dd2bda806ba200385b743af5c26a804]: Textual amendment: Words in [art. 8(1)](https://www.legislation.gov.uk/ssi/2015/30/article/8/1) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 138(1)(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/138/1/b)
 
-[^key-3ab0f86ce7a89ffda2c916dd8602cf75]: Textual amendment: [Art. 8(2)](https://www.legislation.gov.uk/ssi/2015/30/article/8/2) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 138(1)(c)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/138/1/c)
+[^c-3ab0f86ce7a89ffda2c916dd8602cf75]: Textual amendment: [Art. 8(2)](https://www.legislation.gov.uk/ssi/2015/30/article/8/2) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 138(1)(c)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/138/1/c)
 
-[^key-bcae923b09f0a43d310883b769c827ff]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2015/30/article/9) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1)
+[^c-bcae923b09f0a43d310883b769c827ff]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2015/30/article/9) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1)
 
 [^f00005]: Footnote: [S.I. 1997/830](https://www.legislation.gov.uk/uksi/1997/830).
 
 [^f00006]: Footnote: [S.S.I. 2002/185](https://www.legislation.gov.uk/ssi/2002/185).
 
-[^key-b05c45f4585c2d1a706d38f2613aa63b]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2015/30/schedule/paragraph/1) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1)
+[^c-b05c45f4585c2d1a706d38f2613aa63b]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2015/30/schedule/paragraph/1) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1)
 
 [^f00007]: Footnote: Definitions of the World Geodetic System 1984 datum and co-ordinate reference system are available via EPSG Geodetic Parameter Registry as EPSG:6326 (http://epsg.io/6326-datum) and EPSG:4326 (http://epsg.io/4326).
 
-[^key-4b4a3eb685673009233f25ddc06ecbb6]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2015/30/schedule/paragraph/2) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1)
+[^c-4b4a3eb685673009233f25ddc06ecbb6]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2015/30/schedule/paragraph/2) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 226. “Provider” of internet service[^key-d79bfd010d21f33beb42ce94c0cdbd09]
+## 226. “Provider” of internet service[^c-d79bfd010d21f33beb42ce94c0cdbd09]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ Interpretation
 
 ## Annotations
 
-[^key-d79bfd010d21f33beb42ce94c0cdbd09]: Commencement: S. 226 in force at Royal Assent, see [s. 240(z5)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z5)
+[^c-d79bfd010d21f33beb42ce94c0cdbd09]: Commencement: S. 226 in force at Royal Assent, see [s. 240(z5)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z5)

@@ -56,16 +56,16 @@ The Secretary of State for Work and Pensions makes the following Regulations in 
 (2) In these Regulations—
 
 - “**the Act**” means the Social Security (Recovery of Benefits) Act 1997;
-- “the[^key-05ae2d952c94f57e36fa5d72a0915661] 2014 Act ” means the Mesothelioma Act 2014;
-- “**compensator**” means a person making a compensation payment and includes the scheme administrator who makes a payment in accordance with the Diffuse Mesothelioma Payment Scheme;[^key-7370d9e0b2f3d011d3d7fa35524dedb1]
-- “[^key-56332db134d3dd1017f1e2df4b159424]**Compensation Recovery Unit**” means the Compensation Recovery Unit, part of the Department for Work and Pensions, at Wear View House, 1 Eden Street West, Sunderland, SR1 3EY;
-- “Diffuse Mesothelioma Payment Scheme” means the scheme established by the Diffuse Mesothelioma Payment Scheme Regulations 2014;[^key-f5616adf2ccaec024fbd3615f71ab396]
-- “lump sum payment” means a payment to which any of paragraphs (a) to (d) of section 1A(2) of the Act applies,[^key-4e9b0858c0c9b0227a637644e28f3668] except in relation to regulation 18(1)(b);
+- “the[^c-05ae2d952c94f57e36fa5d72a0915661] 2014 Act ” means the Mesothelioma Act 2014;
+- “**compensator**” means a person making a compensation payment and includes the scheme administrator who makes a payment in accordance with the Diffuse Mesothelioma Payment Scheme;[^c-7370d9e0b2f3d011d3d7fa35524dedb1]
+- “[^c-56332db134d3dd1017f1e2df4b159424]**Compensation Recovery Unit**” means the Compensation Recovery Unit, part of the Department for Work and Pensions, at Wear View House, 1 Eden Street West, Sunderland, SR1 3EY;
+- “Diffuse Mesothelioma Payment Scheme” means the scheme established by the Diffuse Mesothelioma Payment Scheme Regulations 2014;[^c-f5616adf2ccaec024fbd3615f71ab396]
+- “lump sum payment” means a payment to which any of paragraphs (a) to (d) of section 1A(2) of the Act applies,[^c-4e9b0858c0c9b0227a637644e28f3668] except in relation to regulation 18(1)(b);
 - “**recoverable benefits**” has the same meaning as in section 1(4)(c) of the Act;
-- “recoverable lump sum payment”—[^key-e4595bb786281480afca9372beb34038]
+- “recoverable lump sum payment”—[^c-e4595bb786281480afca9372beb34038]
   - (a) in relation to a compensation payment which is a payment under the Diffuse Mesothelioma Payment Scheme, means any specified lump sum payment which is recoverable by virtue of regulation 4A;
   - (b) in relation to any other description of compensation payment, means any lump sum payment which is recoverable by virtue of regulation 4;
-- “specified lump sum payment” means a lump sum payment within paragraph (a), (b) or (c) of section 1A(2) of the Act;[^key-557e56500efbc8679b7249fcf5d01ccb]
+- “specified lump sum payment” means a lump sum payment within paragraph (a), (b) or (c) of section 1A(2) of the Act;[^c-557e56500efbc8679b7249fcf5d01ccb]
 
 ### 2. Application of the Act
 
@@ -88,19 +88,19 @@ The Secretary of State for Work and Pensions makes the following Regulations in 
 
 The consequential amendments set out in Schedule 2 apply for the purposes of these Regulations.
 
-### 4. Recovery of lump sum payments from compensation payment made otherwise than under Diffuse Mesothelioma Payment Scheme[^key-51c71d99f757853d613e318f8db1bed5]
+### 4. Recovery of lump sum payments from compensation payment made otherwise than under Diffuse Mesothelioma Payment Scheme[^c-51c71d99f757853d613e318f8db1bed5]
 
-(1) a lump sum payment[^key-3f6aac0c700c40c755bc74e7b754c0fb] where—
+(1) a lump sum payment[^c-3f6aac0c700c40c755bc74e7b754c0fb] where—
 
 - (a) a compensation payment in consequence of a disease is made to or in respect of—
   - (i) a person (“P”); or
   - (ii) a dependant of P,
 
   to whom, or in respect of whom, a lump sum payment has been, or is likely to be, made; and
-- (ab)[^key-044e28f85c79b3b0676dab4e9d3fd80b] the compensation payment is not a payment under the Diffuse Mesothelioma Payment Scheme; and
+- (ab)[^c-044e28f85c79b3b0676dab4e9d3fd80b] the compensation payment is not a payment under the Diffuse Mesothelioma Payment Scheme; and
 - (b) the compensation payment is made in consequence of the same disease as the lump sum payment.
 
-(1A)[^key-63bcad76ec2cc7ad39630fe39f1e83d1] The Secretary of State may also recover the amount of lump sum payments to which section 1A(2)(d) of the Act applies where—
+(1A)[^c-63bcad76ec2cc7ad39630fe39f1e83d1] The Secretary of State may also recover the amount of lump sum payments to which section 1A(2)(d) of the Act applies where—
 
 - (a) any such payment has been, or is likely to be, made to one or more dependants of P;
 - (b) by virtue of a notice given under section 3(3) of the 2014 Act , any other dependant of P has ceased to be eligible for a lump sum payment to which section 1A(2)(d) of the Act applies; and
@@ -111,7 +111,7 @@ The consequential amendments set out in Schedule 2 apply for the purposes of the
 - (a) are references to a payment made by or on behalf of a person who is, or is alleged to be, liable to any extent in respect of the disease; but
 - (b) do not include references to a payment mentioned in Part 1 of Schedule 1 to the Act.
 
-### 4A. Recovery of specified lump sum payments from compensation payment under Diffuse Mesothelioma Payment Scheme[^key-450572f94c5bf92a74a8dbaa60234f18]
+### 4A. Recovery of specified lump sum payments from compensation payment under Diffuse Mesothelioma Payment Scheme[^c-450572f94c5bf92a74a8dbaa60234f18]
 
 The Secretary of State may recover the amount of a specified lump sum payment where—
 
@@ -127,9 +127,9 @@ The Secretary of State may recover the amount of a specified lump sum payment wh
 
 ### 6. Compensation payments to which these Regulations apply
 
-(1)[^key-d504801a32949951bcb228380dfc3055] Except as stated in paragraph (2)[^key-856d02478dcc8d5e9ca86d7d0979d449] these Regulations apply in relation to compensation payments made on or after the day on which section 54 of the Child Maintenance and Other Payments Act 2008 comes into force.
+(1)[^c-d504801a32949951bcb228380dfc3055] Except as stated in paragraph (2)[^c-856d02478dcc8d5e9ca86d7d0979d449] these Regulations apply in relation to compensation payments made on or after the day on which section 54 of the Child Maintenance and Other Payments Act 2008 comes into force.
 
-(2)[^key-02657930d97fc0661471f5bf91fa8252] In any case where—
+(2)[^c-02657930d97fc0661471f5bf91fa8252] In any case where—
 
 - (a) the lump sum payment falls within section 1A(2)(d) of the Act; or
 - (b) paragraphs (a) to (c) of regulation 4A apply;
@@ -146,7 +146,7 @@ these Regulations apply only in relation to compensation payments which are made
 - (d) the Eileen Trust established on 29th March 1993 out of funds provided by the Secretary of State, for the benefit of persons eligible for payment in accordance with its provisions;
 - (e) a trust established out of funds provided by the Secretary of State in respect of persons who suffered, or who are suffering, from variant Creutzfeldt-Jakob disease for the benefit of persons eligible for interim payments in accordance with its provisions;
 - (f) a trust established out of funds provided by the Secretary of State in respect of persons who suffered, or who are suffering, from variant Creutzfeldt-Jakob disease for the benefit of persons eligible for payments, other than interim payments, in accordance with its provisions.
-- (g)[^key-d85f4d9d13bfb3696eff2481bae9c253] the UK Asbestos Trust established on 10th October 2006 for the benefit of certain persons suffering from asbestos-related diseases provided that any payment made in respect of diffuse mesothelioma out of this Trust is not made to or in respect of a person who has received a payment under the Diffuse Mesothelioma Payment Scheme[^key-c2fe04af2d71d548af39e99f458ab98b];
+- (g)[^c-d85f4d9d13bfb3696eff2481bae9c253] the UK Asbestos Trust established on 10th October 2006 for the benefit of certain persons suffering from asbestos-related diseases provided that any payment made in respect of diffuse mesothelioma out of this Trust is not made to or in respect of a person who has received a payment under the Diffuse Mesothelioma Payment Scheme[^c-c2fe04af2d71d548af39e99f458ab98b];
 - (h) the EL Scheme Trust established on 23rd November 2006 for the benefit of certain persons suffering from asbestos-related diseases.
 
 (2) The following payments are prescribed for the purposes of paragraph 8 of Schedule 1 to the Act—
@@ -159,21 +159,21 @@ these Regulations apply only in relation to compensation payments which are made
 - (f) any payment made by or on behalf of the Secretary of State for the benefit of persons eligible for payment in accordance with the provisions of a scheme established by the Secretary of State on 24th April 1992 or, in Scotland, on 10th April 1992;
 - (g) any payment made from the Skipton Fund, the ex-gratia payment scheme administered by the Skipton Fund Limited, incorporated on 25th March 2004, for the benefit of certain persons suffering from hepatitis C and other persons eligible for payment in accordance with the scheme's provisions;
 - (h) any payment made from the London Bombings Relief Charitable Fund, the company limited by guarantee (number 5505072) and registered charity of that name established on 11th July 2005 for the purpose of (amongst other things) relieving sickness, disability or financial need of victims (including families or dependants of victims) of the terrorist attacks carried out in London on 7th July 2005.
-- (i)[^key-6ab28a48524dc2ac82975243443473e3] any payment made by MFET Limited, the company limited by guarantee (number 7121661) of that name, established for the purpose in particular of making payments in accordance with arrangements made with the Secretary of State to persons who have acquired HIV as a result of treatment by the NHS with blood or blood products.
-- (j)[^key-80602deb3c2c1fe4ab585690cb760a0e] any payment made from the Caxton Foundation, the charitable trust of that name established on 28th March 2011 out of funds provided by the Secretary of State for the benefit of certain persons suffering from hepatitis C and other persons eligible for payment in accordance with its provisions.
-- (k)[^key-13a404107832c48c6cdee86af74c6953] any payment made from the Scottish Infected Blood Support Scheme administered by the Common Services Agency (constituted by section 10 of the National Health Service (Scotland) Act 1978).
-- (l)[^key-a99f127c0381e7c7a6e59f0a5275ee79] any payment made from a scheme established or approved by the Secretary of State or trust established with funds provided by the Secretary of State for the purpose of providing compensation in respect of a person having been infected from contaminated blood products;
+- (i)[^c-6ab28a48524dc2ac82975243443473e3] any payment made by MFET Limited, the company limited by guarantee (number 7121661) of that name, established for the purpose in particular of making payments in accordance with arrangements made with the Secretary of State to persons who have acquired HIV as a result of treatment by the NHS with blood or blood products.
+- (j)[^c-80602deb3c2c1fe4ab585690cb760a0e] any payment made from the Caxton Foundation, the charitable trust of that name established on 28th March 2011 out of funds provided by the Secretary of State for the benefit of certain persons suffering from hepatitis C and other persons eligible for payment in accordance with its provisions.
+- (k)[^c-13a404107832c48c6cdee86af74c6953] any payment made from the Scottish Infected Blood Support Scheme administered by the Common Services Agency (constituted by section 10 of the National Health Service (Scotland) Act 1978).
+- (l)[^c-a99f127c0381e7c7a6e59f0a5275ee79] any payment made from a scheme established or approved by the Secretary of State or trust established with funds provided by the Secretary of State for the purpose of providing compensation in respect of a person having been infected from contaminated blood products;
 - (m) any payment made under or by a trust, established for the purpose of giving relief and assistance to disabled persons whose disabilities were caused by the fact that during their mother’s pregnancy she had taken a preparation containing the drug known as Thalidomide, and which is approved by the Secretary of State.
-- (n)[^key-f38f8ebbad57f9cda7800aa9668b0a1d] any payment of victims’ payments, or of a lump sum, under the Victims’ Payments Regulations 2020.
-- (o)[^key-e53f69553cd0fddc436939c14ebb17ad] any payment made under the Windrush Compensation Scheme (Expenditure) Act 2020.
-- (p)[^key-e7adfa4da4f94b326618d2f055baabba] any payment made for the purpose of providing compensation or support in respect of the fire on 14th June 2017 at Grenfell Tower;
+- (n)[^c-f38f8ebbad57f9cda7800aa9668b0a1d] any payment of victims’ payments, or of a lump sum, under the Victims’ Payments Regulations 2020.
+- (o)[^c-e53f69553cd0fddc436939c14ebb17ad] any payment made under the Windrush Compensation Scheme (Expenditure) Act 2020.
+- (p)[^c-e7adfa4da4f94b326618d2f055baabba] any payment made for the purpose of providing compensation or support in respect of the fire on 14th June 2017 at Grenfell Tower;
 - (q) any payment made by the Post Office or the Secretary of State for the purpose of providing compensation or support which is—
   - (i) in connection with the failings of the Horizon system; or
-  - (ii) otherwise payable following the judgment in *Bates and Others v Post Office Ltd* ((No. 3) “Common Issues”);[^key-1f3a6a3eedaf445b02fd7ce9d0b535ba]
-- (r) any payment that is made under the Lesbian, Gay, Bisexual and Transgender Financial Recognition Scheme administered under the authority of the Secretary of State for Defence;[^key-4f71ab6386d9cf24fe942ddc38d6be3e]
+  - (ii) otherwise payable following the judgment in *Bates and Others v Post Office Ltd* ((No. 3) “Common Issues”);[^c-1f3a6a3eedaf445b02fd7ce9d0b535ba]
+- (r) any payment that is made under the Lesbian, Gay, Bisexual and Transgender Financial Recognition Scheme administered under the authority of the Secretary of State for Defence;[^c-4f71ab6386d9cf24fe942ddc38d6be3e]
 - (s) any payment that is made under the Mother and Baby Institutions Payment Scheme established by the Irish Government under section 5 of the Irish Mother and Baby Institutions Payment Scheme Act 2023.
 
-(3)[^key-4fda441b4f781220732ae012a2114d25] In this regulation—
+(3)[^c-4fda441b4f781220732ae012a2114d25] In this regulation—
 
 - “**the Horizon system**” means any version of the computer system used by the Post Office known as Horizon, Horizon Legacy, Horizon Online or HNG-X;
 - “**the Post Office**” means Post Office Limited (registered number 02154540).
@@ -203,7 +203,7 @@ of any lump sum payments which have been, or are likely to have been paid.
 
 (2) Where the type of payment is an extra-statutory payment the certificate may specify that type of payment as if it were a payment to which section 1A(2)(a) applies.
 
-(2A)[^key-9813a3cfb1b2d9e9f1cca9cbe6c77b19] Where a certificate has been applied for by the scheme administrator, the certificate may contain information which would assist the scheme administrator in making a determination in accordance with the Diffuse Mesothelioma Payment Scheme.
+(2A)[^c-9813a3cfb1b2d9e9f1cca9cbe6c77b19] Where a certificate has been applied for by the scheme administrator, the certificate may contain information which would assist the scheme administrator in making a determination in accordance with the Diffuse Mesothelioma Payment Scheme.
 
 (3) The Secretary of State may estimate, in such manner as the Secretary of State thinks fit the amount of the lump sum payments specified in the certificate.
 
@@ -212,7 +212,7 @@ of any lump sum payments which have been, or are likely to have been paid.
 - (a) the person who appears to the Secretary of State to be P; or
 - (b) any person who the Secretary of State thinks will receive a compensation payment in respect of P.
 
-(5) A person to whom a certificate is issued or who is provided with information under paragraph (4)[^key-230d86731a6a82d68d15c5c93f07a86a] is entitled to particulars of the manner in which any amount, type of payment or date specified in the certificate has been determined, if that person applies to the Secretary of State for those particulars.
+(5) A person to whom a certificate is issued or who is provided with information under paragraph (4)[^c-230d86731a6a82d68d15c5c93f07a86a] is entitled to particulars of the manner in which any amount, type of payment or date specified in the certificate has been determined, if that person applies to the Secretary of State for those particulars.
 
 ## PART 3 — Liability of person paying compensation
 
@@ -233,20 +233,20 @@ of any lump sum payments which have been, or are likely to have been paid.
 - (a) the compensation payment; or
 - (b) a dependant is a beneficiary of part of a compensation payment made in respect of P, and recoverable lump sum payments have been made to that dependant, the share of the compensation payment,
 
-is less than the recoverable lump sum payments[^key-eb0917c46b130f7554fc1564d11c616e].
+is less than the recoverable lump sum payments[^c-eb0917c46b130f7554fc1564d11c616e].
 
 (4) The liability referred to in paragraph (1) arises—
 
 - (a) immediately before the compensation payment or, if there is more than one, the first of them is made;
 - (b) prior to any liability to pay the Secretary of State an amount equal to the total amount of the recoverable benefits payable under section 6 of the Act.
 
-(4A)[^key-67b91c9bfed0ac462eb80089ae5536b6] In any case where recoverable lump sum payments include one or more lump sum payments to which section 1A(2)(d) of the Act applies, the liability referred to in paragraph (1) in respect of those lump sum payments arises prior to any such liability in respect of any other recoverable lump sum payment.
+(4A)[^c-67b91c9bfed0ac462eb80089ae5536b6] In any case where recoverable lump sum payments include one or more lump sum payments to which section 1A(2)(d) of the Act applies, the liability referred to in paragraph (1) in respect of those lump sum payments arises prior to any such liability in respect of any other recoverable lump sum payment.
 
 (5) No amount becomes payable under this regulation before the end of the period of 14 days following the day on which the liability arises.
 
 (6) Subject to paragraph (4), an amount becomes payable under this regulation at the end of the period of 14 days beginning with the day on which a certificate is first issued showing that the amount of recoverable lump sum payment to which it relates has been or is likely to have been paid.
 
-(7) Subject to paragraph (8),[^key-86ace3a7bfcd75a96c495672af2270bc] in the case of a lump sum payment which has been made to a dependant of P, this regulation applies only to the extent to which the compensator is making any payment—
+(7) Subject to paragraph (8),[^c-86ace3a7bfcd75a96c495672af2270bc] in the case of a lump sum payment which has been made to a dependant of P, this regulation applies only to the extent to which the compensator is making any payment—
 
 - (a)
   - (i) under the Fatal Accidents Act 1976 [^c1929885];
@@ -256,7 +256,7 @@ is less than the recoverable lump sum payments[^key-eb0917c46b130f7554fc1564d11c
   to that dependant; or
 - (b) in respect of P, and that dependant is an intended beneficiary of part or all of that payment.
 
-(8)[^key-25a19e18a49078214641380b20f52e8c] In the case of a lump sum payment to which section 1A(2)(d) of the Act applies which has been made to one or more dependants of P, this regulation also applies to the extent that the compensator is making any of the payments listed in—
+(8)[^c-25a19e18a49078214641380b20f52e8c] In the case of a lump sum payment to which section 1A(2)(d) of the Act applies which has been made to one or more dependants of P, this regulation also applies to the extent that the compensator is making any of the payments listed in—
 
 - (a) paragraph (7)(a), where such a payment is made to another dependant of P who has ceased to be eligible for a lump sum payment to which section 1A(2)(d) of the Act applies by virtue of having given notice under section 3(3) of the 2014 Act;
 - (b) paragraph (7)(b), where such a dependant is an intended beneficiary of that payment.
@@ -294,7 +294,7 @@ is conclusive evidence that that amount is so recoverable.
 
 ### 12. Reduction of compensation payment
 
-(1) Except where regulation 12A applies,[^key-fb8649a39a5676bb94553836091d6e21] this regulation applies in a case where, in relation to any compensation payment in consequence of a disease made to, or in respect of P, a lump sum payment has been, or is likely to be made to, or in respect of P.
+(1) Except where regulation 12A applies,[^c-fb8649a39a5676bb94553836091d6e21] this regulation applies in a case where, in relation to any compensation payment in consequence of a disease made to, or in respect of P, a lump sum payment has been, or is likely to be made to, or in respect of P.
 
 (2) In such a case, any claim of a person to receive the compensation payment is to be treated for all purposes as discharged if—
 
@@ -322,7 +322,7 @@ less
 
 and, the reduction is to be made before any reduction in respect of recoverable benefits under section 8 of the Act.
 
-(7) Subject to paragraph (8),[^key-037a84abd08a832728c8ac5653f847d3] where the lump sum payment has been made to a dependant of P, the reduction specified in paragraph (3) may be attributed—
+(7) Subject to paragraph (8),[^c-037a84abd08a832728c8ac5653f847d3] where the lump sum payment has been made to a dependant of P, the reduction specified in paragraph (3) may be attributed—
 
 - (a) to any damages awarded to that dependant—
   - (i) under the Fatal Accidents Act 1976;
@@ -332,12 +332,12 @@ and, the reduction is to be made before any reduction in respect of recoverable 
   other than those paid for funeral expenses;
 - (b) to any part of a compensation payment paid in respect of P, where that dependant is an intended beneficiary of part or all of that compensation.
 
-(8)[^key-39069a12e8076a9029cb65e68fd82611] In the case of a lump sum payment to which section 1A(2)(d) of the Act applies which has been made to one or more dependants of P, this regulation also applies to the extent that the compensator is making any of the payments listed in—
+(8)[^c-39069a12e8076a9029cb65e68fd82611] In the case of a lump sum payment to which section 1A(2)(d) of the Act applies which has been made to one or more dependants of P, this regulation also applies to the extent that the compensator is making any of the payments listed in—
 
 - (a) paragraph (7)(a), where such a payment is made to another dependant of P who has ceased to be eligible for a lump sum payment to which section 1A(2)(d) of the Act applies by virtue of having given notice under section 3(3) of the 2014 Act;
 - (b) paragraph (7)(b), where such a dependant is an intended beneficiary of that payment.
 
-### 12A. Reduction of compensation payment under Diffuse Mesothelioma Payment Scheme[^key-0ed610fb03fc2783e79ef2f775a0415d]
+### 12A. Reduction of compensation payment under Diffuse Mesothelioma Payment Scheme[^c-0ed610fb03fc2783e79ef2f775a0415d]
 
 (1) This regulation applies in a case where the compensation payment is a payment under the Diffuse Mesothelioma Payment Scheme.
 
@@ -355,25 +355,25 @@ and, the reduction is to be made before any reduction in respect of recoverable 
 
 (5) In the application of paragraph (4) to any case where the compensation payment is to be made to two or more dependants of P, the deduction of the amount of the recoverable lump sum payments is to be made before calculating the amount to be paid to each dependant in accordance with regulation 16(2)(iii) of the Diffuse Mesothelioma Payment Scheme Regulations 2014.
 
-### 13. Regulations 12 and 12A: supplementary[^key-2c6e70470050771d7925a67a7220ea2b]
+### 13. Regulations 12 and 12A: supplementary[^c-2c6e70470050771d7925a67a7220ea2b]
 
-(1) A compensator who makes a compensation payment calculated in accordance with regulation 12 or 12A[^key-9690fb1fbacf19fb50c08870c0677974] must inform the person to whom the payment is made—
+(1) A compensator who makes a compensation payment calculated in accordance with regulation 12 or 12A[^c-9690fb1fbacf19fb50c08870c0677974] must inform the person to whom the payment is made—
 
 - (a) that the payment has been so calculated; and
 - (b) of the date for payment by reference to which the calculation has been made.
 
-(2) If the amount of a compensation payment calculated in accordance with regulation 12 or 12A[^key-01682c0d8547bea515aab8dd88bd893b] is nil, a compensator giving a statement saying so is to be treated for the purposes of these Regulations as making a payment within regulation 4(1)(a) or 4A(a) (as the case may be)[^key-729ddab0816cc35bf62119f6f2e25440] on the day on which the statement is given.
+(2) If the amount of a compensation payment calculated in accordance with regulation 12 or 12A[^c-01682c0d8547bea515aab8dd88bd893b] is nil, a compensator giving a statement saying so is to be treated for the purposes of these Regulations as making a payment within regulation 4(1)(a) or 4A(a) (as the case may be)[^c-729ddab0816cc35bf62119f6f2e25440] on the day on which the statement is given.
 
 (3) Where a compensator—
 
-- (a) makes a compensation payment calculated in accordance with regulation 12 or 12A[^key-2b86e496d17ae47aa64559e676e41646]; and
+- (a) makes a compensation payment calculated in accordance with regulation 12 or 12A[^c-2b86e496d17ae47aa64559e676e41646]; and
 - (b) if the amount of the compensation payment so calculated is nil, gives a statement saying so,
 
 the compensator is to be treated, for the purpose of determining any rights and liabilities in respect of contribution or indemnity, as having paid the gross amount of the compensation payment.
 
 (4) For the purposes of these Regulations—
 
-- (a) the gross amount of the compensation payment is the amount of the compensation payment apart from regulation 12 or 12A[^key-37e01f4fe561ffcff2caa94c97abd7dd]; and
+- (a) the gross amount of the compensation payment is the amount of the compensation payment apart from regulation 12 or 12A[^c-37e01f4fe561ffcff2caa94c97abd7dd]; and
 - (b) the amount of any recoverable lump sum payment is the amount determined in accordance with the certificate.
 
 ### 14. Reduction of compensation: complex cases
@@ -395,7 +395,7 @@ the Secretary of State is to pay the compensator who made the later payment an a
 (4) Where—
 
 - (a) a compensator receives a payment under paragraph (3); and
-- (b) the amount of the compensation payment made by that compensator was calculated under regulation 12 or 12A[^key-6d57e816b4fe559646bd416e0ea435c0],
+- (b) the amount of the compensation payment made by that compensator was calculated under regulation 12 or 12A[^c-6d57e816b4fe559646bd416e0ea435c0],
 
 then the compensation payment is to be recalculated under regulation 12 or 12A, and the compensator must pay the amount of the increase (if any) to the person to whom the compensation payment was made.
 
@@ -426,22 +426,22 @@ The following information is prescribed for the purposes of sections 21(3)(a) an
 - (b) where known, the date of birth or national insurance number of P, or both if both are known; and
 - (c) the nature of the disease.
 
-### 16. Information to be provided by P and the scheme administrator[^key-d0125a62765398e542c12767393e418a]
+### 16. Information to be provided by P and the scheme administrator[^c-d0125a62765398e542c12767393e418a]
 
-(1)[^key-c917019866767a397f32c9ef974418f4] The following information is prescribed for the purposes of section 23(2)(a) of the Act[^key-52419f43d638fe9992ef2cfd26b1670f]—
+(1)[^c-c917019866767a397f32c9ef974418f4] The following information is prescribed for the purposes of section 23(2)(a) of the Act[^c-52419f43d638fe9992ef2cfd26b1670f]—
 
 - (a) whether P has claimed or may claim a compensation payment, and if so, the full name and address of the person against whom the claim was or may be made;
 - (b) the amount of any compensation payment and the date on which it was made;
 - (c) the amount of the lump sum payment claimed, the type of that payment and the date on which it was paid.
 
-(2)[^key-d3b5bde9e6b663409b5e7096196c7c74] For the purposes of section 23(2)(b) of the Act, the prescribed information is the amount of the lump sum payment falling within section 1A(2)(d) and the date on which it was paid.
+(2)[^c-d3b5bde9e6b663409b5e7096196c7c74] For the purposes of section 23(2)(b) of the Act, the prescribed information is the amount of the lump sum payment falling within section 1A(2)(d) and the date on which it was paid.
 
 ### 17. Provision of information
 
 A person required to give information to the Secretary of State under regulation 15 or 16 is to do so by sending it to the Compensation Recovery Unit not later than 14 days after—
 
 - (a) where the person is one to whom regulation 15 applies, the date on which the compensator receives a claim for compensation from P in respect of the disease;
-- (b) where the person is one to whom regulation 16 applies, the date on which the Secretary of State requests the information from P or the scheme administrator, as the case may be[^key-439abcb32eb5014a81b7e96f384fbb0e].
+- (b) where the person is one to whom regulation 16 applies, the date on which the Secretary of State requests the information from P or the scheme administrator, as the case may be[^c-439abcb32eb5014a81b7e96f384fbb0e].
 
 ### 18. Periodical payments
 
@@ -491,7 +491,7 @@ then for the purposes of the Act, the primary party is to be regarded as the com
 
 (5) Where paragraph (4) applies, the amount of the compensation payment is to be recalculated under regulation 12 to take account of the fresh certificate and the compensator must pay the amount of the increase (if any) to the person to whom the compensation payment was made.
 
-(5A)[^key-b3605712b4de233086c468e1ef8dda40] This paragraph applies where—
+(5A)[^c-b3605712b4de233086c468e1ef8dda40] This paragraph applies where—
 
 - (a) the amount of the payment made by the compensator was calculated under regulation 12A; and
 - (b) the Secretary of State has made a payment under paragraph (1).
@@ -506,7 +506,7 @@ then for the purposes of the Act, the primary party is to be regarded as the com
 
 (7) Where paragraph (6) applies, the compensator may recalculate the compensation payment under regulation 12 to take account of the fresh certificate and may require the repayment of the difference (if any) between the payment made and the payment as so recalculated by the person to whom the compensator made the compensation payment.
 
-(8)[^key-8951ebc0fc108f83ae970671c656c6c2] This paragraph applies where—
+(8)[^c-8951ebc0fc108f83ae970671c656c6c2] This paragraph applies where—
 
 - (a) the amount of the payment made by the compensator was calculated under regulation 12A; and
 - (b) the fresh certificate issued after the review or appeal was required as a result of any applicant for payment under the Diffuse Mesothelioma Payment Scheme supplying to the compensator information knowing it to be incorrect or insufficient, and the compensator supplying that information to the Secretary of State without knowing it to be incorrect or insufficient.
@@ -525,7 +525,7 @@ Department for Work and Pensions
 
 Regulation 2(1)
 
-**1.** This Schedule applies to any case to which regulation 4 or 4A[^key-dfad6043b3867fe348ce768767407609] applies.
+**1.** This Schedule applies to any case to which regulation 4 or 4A[^c-dfad6043b3867fe348ce768767407609] applies.
 
 **2.** Where this Schedule applies, section 1 (cases in which this Act applies) is to apply as if in subsection (3), for “Subsection (1)(a)” there were substituted “ Section 1A(1)(a) ”.
 
@@ -539,24 +539,24 @@ Regulation 2(1)
 - (a) the heading and in subsections (1) and (2)(a), there were omitted “of recoverable benefits” in each place it occurs;
 - (b) subsection (1)(a), there were omitted “, rate or period”;
 - (c) subsection (1)(b)—
-  - (i) for “listed benefits” there were substituted “recoverable lump sum payments[^key-80c4c02817b0bf67048da823f770588d]”;
+  - (i) for “listed benefits” there were substituted “recoverable lump sum payments[^c-80c4c02817b0bf67048da823f770588d]”;
   - (ii) there were omitted “accident, injury or”;
 - (d) subsection (1)(c)—
-  - (i) for “listed benefits” there were substituted “recoverable lump sum payments[^key-04c1ec574b0f9ee730cae9dc8ecda99c]”;
+  - (i) for “listed benefits” there were substituted “recoverable lump sum payments[^c-04c1ec574b0f9ee730cae9dc8ecda99c]”;
   - (ii) for “the injured person during the relevant period” there were substituted “ P ”;
 - (e) subsection (1)(d), for “1(1)(a)” there were substituted “ 1A(1)(a) ”;
 - (f) subsection (2)(aa) for “section 7(2)(a)” there were substituted “ regulation 11(2)(a) of the Lump Sum Payments Regulations ”;
-- (g) subsection (2)(b), for “section 8 or 8A[^key-c8a3d7fa387e250fba741416dc9e072e] (the injured person” there were substituted “regulation 12 or 12A of the Lump Sum Payments Regulations) P”;
+- (g) subsection (2)(b), for “section 8 or 8A[^c-c8a3d7fa387e250fba741416dc9e072e] (the injured person” there were substituted “regulation 12 or 12A of the Lump Sum Payments Regulations) P”;
 - (h) subsection (3), for “section 6” there were substituted “regulation 10 of the Lump Sum Payments Regulations”.
 
-**5.** Where this Schedule applies, section 12 (reference of questions to First-tier Tribunal[^key-dcfa275a09e2232aedb8942d69e1cdd8]) [^c1929892] is to apply as if in—
+**5.** Where this Schedule applies, section 12 (reference of questions to First-tier Tribunal[^c-dcfa275a09e2232aedb8942d69e1cdd8]) [^c1929892] is to apply as if in—
 
-- (a)[^key-f5d36686b05b3557572d6fe4031ca79c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-f5d36686b05b3557572d6fe4031ca79c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) subsection (3), there were omitted “accident, injury or”;
 - (c) subsection (4)(a), for “amounts, rates and periods” there were substituted “ amount, type and date of payments ”;
 - (d) subsections (4)(a) and (c), there were omitted “of recoverable benefits” in each place it occurs.
 
-**6.**[^key-054f921a697e58c172ad4909d2079217] Where this Schedule applies, section 13 (appeal to Upper Tribunal[^key-e5e2dcf888ee610c20bc5585a5e85f06]) is to apply as if in subsection (2)—[^key-41322fffcdf590bf86f1049ddba2c037]
+**6.**[^c-054f921a697e58c172ad4909d2079217] Where this Schedule applies, section 13 (appeal to Upper Tribunal[^c-e5e2dcf888ee610c20bc5585a5e85f06]) is to apply as if in subsection (2)—[^c-41322fffcdf590bf86f1049ddba2c037]
 
 - (a) in paragraph (b), there were omitted “of recoverable benefits”;
 - (b) in paragraph (bb), for “section 7(2)(a)” there were substituted “regulation 11(2)(a) of the Lump Sum Payments Regulations”;
@@ -566,7 +566,7 @@ Regulation 2(1)
 
 - (a) subsection (1), there were omitted “of recoverable benefits”;
 - (b) subsections (2) and (3), for “section 6” there were substituted “ regulation 10 of the Lump Sum Payments Regulations ” in each place it occurs;
-- (c) subsection (4), for “section 8 or 8A[^key-2b56dfc75bed162a31f48e168f952903]” there were substituted “regulation 12 or 12A of the Lump Sum Payments Regulations”.
+- (c) subsection (4), for “section 8 or 8A[^c-2b56dfc75bed162a31f48e168f952903]” there were substituted “regulation 12 or 12A of the Lump Sum Payments Regulations”.
 
 **8.** Where this Schedule applies, for section 15 (court orders) is to apply as if there were substituted—
 
@@ -623,16 +623,16 @@ Regulation 2(1)
   - (ii) for “benefits” there were substituted “ lump sum payments ”;
 - (c) subsection (3)—
   - (i) in paragraph (a), for “benefits” there were substituted “lump sum payments”;
-  - (ii) in paragraph (b), for “section 8 or 8A[^key-40bf03992c14a4212caf73ca8f8f3542]” there were substituted“ regulation 12 or 12A of the Lump Sum Payments Regulations”.
+  - (ii) in paragraph (b), for “section 8 or 8A[^c-40bf03992c14a4212caf73ca8f8f3542]” there were substituted“ regulation 12 or 12A of the Lump Sum Payments Regulations”.
 
 **12.** Where this Schedule applies, section 20 (amounts overpaid under section 6) is to apply as if in—
 
 - (a) the heading and in subsection (1), for “section 6” there were substituted “ regulation 10 of Lump Sum Payments Regulations” in each place it occurs;
-- (b) subsection (4)(a), for “section 8 or 8A[^key-f579490731249e4ce074b51cc0452849]” there were substituted “ regulation 12 or 12A of the Lump Sum Payments Regulations”.
+- (b) subsection (4)(a), for “section 8 or 8A[^c-f579490731249e4ce074b51cc0452849]” there were substituted “ regulation 12 or 12A of the Lump Sum Payments Regulations”.
 
 **13.** Where this Schedule applies, section 21 (compensation payments to be disregarded) is to apply as if in—
 
-- (a) subsections (1) and (5)(a), for “sections 6 and 8 or 8A[^key-3af67655dc6833296cf1850d41f22309]” there were substituted “ regulations 10 and 12 or 12A of the Lump Sum Payments Regulations ” in each place it occurs;
+- (a) subsections (1) and (5)(a), for “sections 6 and 8 or 8A[^c-3af67655dc6833296cf1850d41f22309]” there were substituted “ regulations 10 and 12 or 12A of the Lump Sum Payments Regulations ” in each place it occurs;
 - (b) subsection (2)(a), there were omitted “of recoverable benefits”;
 - (c) subsection (3)(a)—
   - (i) for “the injured person” there were substituted “ P ”;
@@ -652,7 +652,7 @@ Regulation 2(1)
   - (ii) “any person (“the injured person”)” there were substituted “ P ”;
   - (iii) “the injured person” there were substituted “ P ”;
 - (b) in subsection (1)(a), there were omitted “accident, injury or”;
-- (ba)[^key-3f361f83f2a3c70320f78700cf42e125] after subsection (1)(b) there were inserted—
+- (ba)[^c-3f361f83f2a3c70320f78700cf42e125] after subsection (1)(b) there were inserted—
 
   > ,and
   >
@@ -663,8 +663,8 @@ Regulation 2(1)
 
   > (2) Where P or a dependant of P, receives or claims a lump sum payment which is or is likely to be paid in respect of the disease suffered by P,
   >
-  > - (a)[^key-b903640fda2301124ca253f630708242] the prescribed information about the disease must be given to the Secretary of State by P or a dependant of P, as the case may be;
-  > - (b)[^key-f48e0371f4267c246e600c99a94f65ed] the prescribed information about any lump sum payment which falls within section 1A(2)(d) must be given to the Secretary of State by the scheme administrator.
+  > - (a)[^c-b903640fda2301124ca253f630708242] the prescribed information about the disease must be given to the Secretary of State by P or a dependant of P, as the case may be;
+  > - (b)[^c-f48e0371f4267c246e600c99a94f65ed] the prescribed information about any lump sum payment which falls within section 1A(2)(d) must be given to the Secretary of State by the scheme administrator.
 
   ;
 - (d) in subsection (3), for “listed benefit” there were substituted “ lump sum payment ”;
@@ -701,7 +701,7 @@ Regulation 2(1)
 - (b) in the appropriate place, there were inserted the following definitions—
   - (i) “**certificate**” means a certificate which includes amounts in respect of recoverable benefits and of recoverable lump sum payments, including where any of those amounts are nil;
   - (ii) “**P**” is to be construed in accordance with regulation 5 of the Lump Sum Payments Regulations;
-  - (iii) “**recoverable lump sum payments**” means any lump sum payments which are recoverable by virtue of regulation 4 or 4A[^key-1d1108a54a60663e6bdd7b525e072714] of the Lump Sum Payments Regulations;
+  - (iii) “**recoverable lump sum payments**” means any lump sum payments which are recoverable by virtue of regulation 4 or 4A[^c-1d1108a54a60663e6bdd7b525e072714] of the Lump Sum Payments Regulations;
   - (iv) “**the Lump Sum Payments Regulations**” means the Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations 2008.
 
 **19.** Where this Schedule applies, Part 1 of Schedule 1 (compensation payments – exempted payments) [^c1929895] is to apply as if—
@@ -748,14 +748,14 @@ Regulation 3
   > (2) In this regulation and regulations 1(3) in paragraph (b) of the definition of “party to the proceedings”, 29, 31, 33, 36(2)(a)(ii) and 58(1), where applicable—
   >
   > - (a) any reference to the 1997 Act is to be construed so as to include a reference to that Act as applied by regulation 2 of the Lump Sum Payments Regulations and, where applicable, as modified by Schedule 1 to those Regulations;
-  > - (b)[^key-15050fb7c23284c0c73cbfa9487e97ac] “ **certificate** ” means a certificate of recoverable lump sum payments, including where any of the amounts is nil;
+  > - (b)[^c-15050fb7c23284c0c73cbfa9487e97ac] “ **certificate** ” means a certificate of recoverable lump sum payments, including where any of the amounts is nil;
   > - (c) “lump sum payment” is a payment to which section 1A(2) of the 1997 Act applies;
   > - (d) “**P**” is to be construed in accordance with regulations 4(1)(a)(i) and 5 of the Lump Sum Payments Regulations.
 
   ;
 - (c) in regulation 29 (further particulars required relating to certificate of recoverable benefits appeals or applications)—
   - (i) in the heading to that regulation and paragraphs (1), (1)(a) and (6), after “recoverable benefits” insert “ or, as the case may be, recoverable lump sum payments ”;
-  - (ii) in paragraph (2), after “1997 Act” insert “ or, in the case of lump sum payments, regulation 13[^key-f0adf694e2dbc3cc452280cf901100af] of the Lump Sum Payments Regulations ”;
+  - (ii) in paragraph (2), after “1997 Act” insert “ or, in the case of lump sum payments, regulation 13[^c-f0adf694e2dbc3cc452280cf901100af] of the Lump Sum Payments Regulations ”;
 - (d) in regulation 31 (time within which an appeal is to be brought)—
   - (i) in paragraph (3), after “recoverable benefits” insert “ or, as the case may be, recoverable lump sum payments ”;
   - (ii) in paragraph (3)(a) after “1997 Act” add “ or, in the case of lump sum payments, regulation 10 of the Lump Sum Payments Regulations ”;
@@ -768,7 +768,7 @@ Regulation 3
     >   not later than one month after the date of that agreement.
 
     ;
-- (e)[^key-eb941d394d6a99946748b17c05a86ceb] in regulation 33 (making of appeals and applications)—
+- (e)[^c-eb941d394d6a99946748b17c05a86ceb] in regulation 33 (making of appeals and applications)—
   - (i) in paragraph (1)(d) after “recoverable benefits” insert “, recoverable lump sum payments”;
   - (ii) in paragraph (2)(a) after “recoverable benefits” insert “or, as the case maybe, recoverable lump sum payments”.
 
@@ -820,39 +820,39 @@ An assessment of the impact of these Regulations on business and the voluntary s
 
 [^c1929878]: Marginal citation: *See* section 173(5)(b) of the [Social Security Administration Act 1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-05ae2d952c94f57e36fa5d72a0915661]: Textual amendment: Words in reg. 1(2) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/2/a)
+[^c-05ae2d952c94f57e36fa5d72a0915661]: Textual amendment: Words in reg. 1(2) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/2/a)
 
-[^key-7370d9e0b2f3d011d3d7fa35524dedb1]: Textual amendment: Words in reg. 1(2) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/2/b)
+[^c-7370d9e0b2f3d011d3d7fa35524dedb1]: Textual amendment: Words in reg. 1(2) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/2/b)
 
-[^key-56332db134d3dd1017f1e2df4b159424]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/1/2) substituted (29.6.2023) by [The Social Security and Universal Credit (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/543)](https://www.legislation.gov.uk/uksi/2023/543), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/543/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2023/543/regulation/3)
+[^c-56332db134d3dd1017f1e2df4b159424]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/1/2) substituted (29.6.2023) by [The Social Security and Universal Credit (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/543)](https://www.legislation.gov.uk/uksi/2023/543), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/543/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2023/543/regulation/3)
 
-[^key-f5616adf2ccaec024fbd3615f71ab396]: Textual amendment: Words in reg. 1(2) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 2(c)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/2/c)
+[^c-f5616adf2ccaec024fbd3615f71ab396]: Textual amendment: Words in reg. 1(2) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 2(c)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/2/c)
 
-[^key-4e9b0858c0c9b0227a637644e28f3668]: Textual amendment: Words in reg. 1(2) substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 2(d)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/2/d)
+[^c-4e9b0858c0c9b0227a637644e28f3668]: Textual amendment: Words in reg. 1(2) substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 2(d)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/2/d)
 
-[^key-e4595bb786281480afca9372beb34038]: Textual amendment: Words in reg. 1(2) substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 2(e)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/2/e)
+[^c-e4595bb786281480afca9372beb34038]: Textual amendment: Words in reg. 1(2) substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 2(e)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/2/e)
 
-[^key-557e56500efbc8679b7249fcf5d01ccb]: Textual amendment: Words in reg. 1(2) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 2(f)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/2/f)
+[^c-557e56500efbc8679b7249fcf5d01ccb]: Textual amendment: Words in reg. 1(2) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 2(f)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/2/f)
 
-[^key-51c71d99f757853d613e318f8db1bed5]: Textual amendment: Reg. 4 substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 3(2)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/3/2)
+[^c-51c71d99f757853d613e318f8db1bed5]: Textual amendment: Reg. 4 substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 3(2)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/3/2)
 
-[^key-3f6aac0c700c40c755bc74e7b754c0fb]: Textual amendment: Words in reg. 4(1) substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 3(3)(a)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/3/3/a)
+[^c-3f6aac0c700c40c755bc74e7b754c0fb]: Textual amendment: Words in reg. 4(1) substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 3(3)(a)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/3/3/a)
 
-[^key-044e28f85c79b3b0676dab4e9d3fd80b]: Textual amendment: Reg. 4(1)(ab) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 3(3)(b)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/3/3/b)
+[^c-044e28f85c79b3b0676dab4e9d3fd80b]: Textual amendment: Reg. 4(1)(ab) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 3(3)(b)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/3/3/b)
 
-[^key-63bcad76ec2cc7ad39630fe39f1e83d1]: Textual amendment: Reg. 4(1A) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 3(4)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/3/4)
+[^c-63bcad76ec2cc7ad39630fe39f1e83d1]: Textual amendment: Reg. 4(1A) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 3(4)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/3/4)
 
-[^key-450572f94c5bf92a74a8dbaa60234f18]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2008/1596/regulation/4A) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/4)
+[^c-450572f94c5bf92a74a8dbaa60234f18]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2008/1596/regulation/4A) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/4)
 
-[^key-d504801a32949951bcb228380dfc3055]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/6/1): reg. 6 renumbered as reg. 6(1) (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 5(a)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/5/a)
+[^c-d504801a32949951bcb228380dfc3055]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/6/1): reg. 6 renumbered as reg. 6(1) (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 5(a)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/5/a)
 
-[^key-856d02478dcc8d5e9ca86d7d0979d449]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/6/1) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 5(b)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/5/b)
+[^c-856d02478dcc8d5e9ca86d7d0979d449]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/6/1) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 5(b)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/5/b)
 
-[^key-02657930d97fc0661471f5bf91fa8252]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/6/2) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 5(c)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/5/c)
+[^c-02657930d97fc0661471f5bf91fa8252]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/6/2) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 5(c)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/5/c)
 
-[^key-d85f4d9d13bfb3696eff2481bae9c253]: Textual amendment: Reg. 7(1)(g) - Reg. 7(1)(h) added (13.7.2009) by [Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2009 (S.I. 2009/1494)](https://www.legislation.gov.uk/uksi/2009/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1494/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/1494/regulation/2/2)
+[^c-d85f4d9d13bfb3696eff2481bae9c253]: Textual amendment: Reg. 7(1)(g) - Reg. 7(1)(h) added (13.7.2009) by [Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2009 (S.I. 2009/1494)](https://www.legislation.gov.uk/uksi/2009/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1494/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/1494/regulation/2/2)
 
-[^key-c2fe04af2d71d548af39e99f458ab98b]: Textual amendment: Words in reg. 7(1)(g) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/6)
+[^c-c2fe04af2d71d548af39e99f458ab98b]: Textual amendment: Words in reg. 7(1)(g) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/6)
 
 [^c1929879]: Marginal citation: [1979 c.17](https://www.legislation.gov.uk/ukpga/1979/17).
 
@@ -866,35 +866,35 @@ An assessment of the impact of these Regulations on business and the voluntary s
 
 [^c1929884]: Marginal citation: S.R. [2001 No. 367](https://www.legislation.gov.uk/ukcm/2001/367).
 
-[^key-6ab28a48524dc2ac82975243443473e3]: Textual amendment: Reg. 7(2)(i) added (6.4.2010) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2010 (S.I. 2010/641)](https://www.legislation.gov.uk/uksi/2010/641), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/641/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2010/641/regulation/13)
+[^c-6ab28a48524dc2ac82975243443473e3]: Textual amendment: Reg. 7(2)(i) added (6.4.2010) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2010 (S.I. 2010/641)](https://www.legislation.gov.uk/uksi/2010/641), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/641/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2010/641/regulation/13)
 
-[^key-80602deb3c2c1fe4ab585690cb760a0e]: Textual amendment: Reg. 7(2)(j) added (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2011/2425/regulation/24)
+[^c-80602deb3c2c1fe4ab585690cb760a0e]: Textual amendment: Reg. 7(2)(j) added (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2011/2425/regulation/24)
 
-[^key-13a404107832c48c6cdee86af74c6953]: Textual amendment: Reg. 7(2)(k) added (3.4.2017) by [The Social Security (Scottish Infected Blood Support Scheme) Regulations 2017 (S.I. 2017/329)](https://www.legislation.gov.uk/uksi/2017/329), [regs. 1](https://www.legislation.gov.uk/uksi/2017/329/regulation/1), [9](https://www.legislation.gov.uk/uksi/2017/329/regulation/9)
+[^c-13a404107832c48c6cdee86af74c6953]: Textual amendment: Reg. 7(2)(k) added (3.4.2017) by [The Social Security (Scottish Infected Blood Support Scheme) Regulations 2017 (S.I. 2017/329)](https://www.legislation.gov.uk/uksi/2017/329), [regs. 1](https://www.legislation.gov.uk/uksi/2017/329/regulation/1), [9](https://www.legislation.gov.uk/uksi/2017/329/regulation/9)
 
-[^key-a99f127c0381e7c7a6e59f0a5275ee79]: Textual amendment: Reg. 7(2)(l)(m) added (23.10.2017) by [The Social Security (Infected Blood and Thalidomide) Regulations 2017 (S.I. 2017/870)](https://www.legislation.gov.uk/uksi/2017/870), [regs. 1](https://www.legislation.gov.uk/uksi/2017/870/regulation/1), [9](https://www.legislation.gov.uk/uksi/2017/870/regulation/9)
+[^c-a99f127c0381e7c7a6e59f0a5275ee79]: Textual amendment: Reg. 7(2)(l)(m) added (23.10.2017) by [The Social Security (Infected Blood and Thalidomide) Regulations 2017 (S.I. 2017/870)](https://www.legislation.gov.uk/uksi/2017/870), [regs. 1](https://www.legislation.gov.uk/uksi/2017/870/regulation/1), [9](https://www.legislation.gov.uk/uksi/2017/870/regulation/9)
 
-[^key-f38f8ebbad57f9cda7800aa9668b0a1d]: Textual amendment: [Reg. 7(2)(n)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/7/2/n) inserted (29.5.2020) by [The Victims Payments Regulations 2020 (S.I. 2020/103)](https://www.legislation.gov.uk/uksi/2020/103), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3), [27(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/27/3)
+[^c-f38f8ebbad57f9cda7800aa9668b0a1d]: Textual amendment: [Reg. 7(2)(n)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/7/2/n) inserted (29.5.2020) by [The Victims Payments Regulations 2020 (S.I. 2020/103)](https://www.legislation.gov.uk/uksi/2020/103), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3), [27(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/27/3)
 
-[^key-e53f69553cd0fddc436939c14ebb17ad]: Textual amendment: [Reg. 7(2)(o)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/7/2/o) inserted (1.1.2022) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations 2021 (S.I. 2021/1405)](https://www.legislation.gov.uk/uksi/2021/1405), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1405/regulation/1), [10](https://www.legislation.gov.uk/uksi/2021/1405/regulation/10)
+[^c-e53f69553cd0fddc436939c14ebb17ad]: Textual amendment: [Reg. 7(2)(o)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/7/2/o) inserted (1.1.2022) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations 2021 (S.I. 2021/1405)](https://www.legislation.gov.uk/uksi/2021/1405), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1405/regulation/1), [10](https://www.legislation.gov.uk/uksi/2021/1405/regulation/10)
 
-[^key-e7adfa4da4f94b326618d2f055baabba]: Textual amendment: [Reg. 7(2)(p)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/7/2/p)[(q)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/7/2/q) inserted (9.7.2023) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations 2023 (S.I. 2023/640)](https://www.legislation.gov.uk/uksi/2023/640), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/640/regulation/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2023/640/regulation/10/a)
+[^c-e7adfa4da4f94b326618d2f055baabba]: Textual amendment: [Reg. 7(2)(p)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/7/2/p)[(q)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/7/2/q) inserted (9.7.2023) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations 2023 (S.I. 2023/640)](https://www.legislation.gov.uk/uksi/2023/640), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/640/regulation/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2023/640/regulation/10/a)
 
-[^key-1f3a6a3eedaf445b02fd7ce9d0b535ba]: Textual amendment: [Reg. 7(2)(r)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/7/2/r) inserted (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations 2025 (S.I. 2025/44)](https://www.legislation.gov.uk/uksi/2025/44), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/44/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2025/44/regulation/9/2)
+[^c-1f3a6a3eedaf445b02fd7ce9d0b535ba]: Textual amendment: [Reg. 7(2)(r)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/7/2/r) inserted (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations 2025 (S.I. 2025/44)](https://www.legislation.gov.uk/uksi/2025/44), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/44/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2025/44/regulation/9/2)
 
-[^key-4f71ab6386d9cf24fe942ddc38d6be3e]: Textual amendment: [Reg. 7(2)(s)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/7/2/s) inserted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/1063)](https://www.legislation.gov.uk/uksi/2026/1063), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2026/1063/regulation/7)
+[^c-4f71ab6386d9cf24fe942ddc38d6be3e]: Textual amendment: [Reg. 7(2)(s)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/7/2/s) inserted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/1063)](https://www.legislation.gov.uk/uksi/2026/1063), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2026/1063/regulation/7)
 
-[^key-4fda441b4f781220732ae012a2114d25]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/7/3) inserted (9.7.2023) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations 2023 (S.I. 2023/640)](https://www.legislation.gov.uk/uksi/2023/640), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/640/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2023/640/regulation/10/b)
+[^c-4fda441b4f781220732ae012a2114d25]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/7/3) inserted (9.7.2023) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations 2023 (S.I. 2023/640)](https://www.legislation.gov.uk/uksi/2023/640), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/640/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2023/640/regulation/10/b)
 
-[^key-9813a3cfb1b2d9e9f1cca9cbe6c77b19]: Textual amendment: [Reg. 9(2A)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/9/2A) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/7)
+[^c-9813a3cfb1b2d9e9f1cca9cbe6c77b19]: Textual amendment: [Reg. 9(2A)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/9/2A) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/7)
 
-[^key-230d86731a6a82d68d15c5c93f07a86a]: Textual amendment: Words in reg. 9(5) substituted (1.10.2008) by [Social Security (Miscellaneous Amendments) (No.3) Regulations 2008 (S.I. 2008/2365)](https://www.legislation.gov.uk/uksi/2008/2365), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2365/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2008/2365/regulation/6/2)
+[^c-230d86731a6a82d68d15c5c93f07a86a]: Textual amendment: Words in reg. 9(5) substituted (1.10.2008) by [Social Security (Miscellaneous Amendments) (No.3) Regulations 2008 (S.I. 2008/2365)](https://www.legislation.gov.uk/uksi/2008/2365), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2365/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2008/2365/regulation/6/2)
 
-[^key-eb0917c46b130f7554fc1564d11c616e]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/10/3) substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 8(2)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/8/2)
+[^c-eb0917c46b130f7554fc1564d11c616e]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/10/3) substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 8(2)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/8/2)
 
-[^key-67b91c9bfed0ac462eb80089ae5536b6]: Textual amendment: [Reg. 10(4A)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/10/4A) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 8(3)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/8/3)
+[^c-67b91c9bfed0ac462eb80089ae5536b6]: Textual amendment: [Reg. 10(4A)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/10/4A) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 8(3)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/8/3)
 
-[^key-86ace3a7bfcd75a96c495672af2270bc]: Textual amendment: Words in [reg. 10(7)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/10/7) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 8(4)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/8/4)
+[^c-86ace3a7bfcd75a96c495672af2270bc]: Textual amendment: Words in [reg. 10(7)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/10/7) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 8(4)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/8/4)
 
 [^c1929885]: Marginal citation: [1976 c. 30](https://www.legislation.gov.uk/ukpga/1976/30).
 
@@ -902,92 +902,92 @@ An assessment of the impact of these Regulations on business and the voluntary s
 
 [^c1929887]: Marginal citation: [S.I. 1977/1251 (N.I. 18)](https://www.legislation.gov.uk/nisi/1977/1251).
 
-[^key-25a19e18a49078214641380b20f52e8c]: Textual amendment: [Reg. 10(8)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/10/8) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 8(5)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/8/5)
+[^c-25a19e18a49078214641380b20f52e8c]: Textual amendment: [Reg. 10(8)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/10/8) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 8(5)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/8/5)
 
-[^key-fb8649a39a5676bb94553836091d6e21]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/12/1) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 9(2)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/9/2)
+[^c-fb8649a39a5676bb94553836091d6e21]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/12/1) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 9(2)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/9/2)
 
-[^key-037a84abd08a832728c8ac5653f847d3]: Textual amendment: Words in [reg. 12(7)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/12/7) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 9(3)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/9/3)
+[^c-037a84abd08a832728c8ac5653f847d3]: Textual amendment: Words in [reg. 12(7)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/12/7) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 9(3)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/9/3)
 
-[^key-39069a12e8076a9029cb65e68fd82611]: Textual amendment: [Reg. 12(8)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/12/8) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 9(4)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/9/4)
+[^c-39069a12e8076a9029cb65e68fd82611]: Textual amendment: [Reg. 12(8)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/12/8) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 9(4)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/9/4)
 
-[^key-0ed610fb03fc2783e79ef2f775a0415d]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/uksi/2008/1596/regulation/12A) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/10)
+[^c-0ed610fb03fc2783e79ef2f775a0415d]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/uksi/2008/1596/regulation/12A) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/10)
 
-[^key-2c6e70470050771d7925a67a7220ea2b]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/uksi/2008/1596/regulation/13) substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 11(2)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/11/2)
+[^c-2c6e70470050771d7925a67a7220ea2b]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/uksi/2008/1596/regulation/13) substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 11(2)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/11/2)
 
-[^key-9690fb1fbacf19fb50c08870c0677974]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/13/1) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 11(3)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/11/3)
+[^c-9690fb1fbacf19fb50c08870c0677974]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/13/1) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 11(3)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/11/3)
 
-[^key-01682c0d8547bea515aab8dd88bd893b]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/13/2) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 11(3)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/11/3)
+[^c-01682c0d8547bea515aab8dd88bd893b]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/13/2) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 11(3)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/11/3)
 
-[^key-729ddab0816cc35bf62119f6f2e25440]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/13/2) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 11(4)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/11/4)
+[^c-729ddab0816cc35bf62119f6f2e25440]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/13/2) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 11(4)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/11/4)
 
-[^key-2b86e496d17ae47aa64559e676e41646]: Textual amendment: Words in [reg. 13(3)(a)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/13/3/a) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 11(3)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/11/3)
+[^c-2b86e496d17ae47aa64559e676e41646]: Textual amendment: Words in [reg. 13(3)(a)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/13/3/a) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 11(3)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/11/3)
 
-[^key-37e01f4fe561ffcff2caa94c97abd7dd]: Textual amendment: Words in [reg. 13(4)(a)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/13/4/a) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 11(3)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/11/3)
+[^c-37e01f4fe561ffcff2caa94c97abd7dd]: Textual amendment: Words in [reg. 13(4)(a)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/13/4/a) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 11(3)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/11/3)
 
-[^key-6d57e816b4fe559646bd416e0ea435c0]: Textual amendment: Words in [reg. 14(4)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/14/4) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/12)
+[^c-6d57e816b4fe559646bd416e0ea435c0]: Textual amendment: Words in [reg. 14(4)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/14/4) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/12)
 
-[^key-d0125a62765398e542c12767393e418a]: Textual amendment: Words in reg. 16 inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 13(a)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/13/a)
+[^c-d0125a62765398e542c12767393e418a]: Textual amendment: Words in reg. 16 inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 13(a)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/13/a)
 
-[^key-c917019866767a397f32c9ef974418f4]: Textual amendment: Reg. 16(1): reg. 16 renumbered as reg. 16(1) (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 13(b)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/13/b)
+[^c-c917019866767a397f32c9ef974418f4]: Textual amendment: Reg. 16(1): reg. 16 renumbered as reg. 16(1) (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 13(b)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/13/b)
 
-[^key-52419f43d638fe9992ef2cfd26b1670f]: Textual amendment: Words in reg. 16(1) substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 13(c)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/13/c)
+[^c-52419f43d638fe9992ef2cfd26b1670f]: Textual amendment: Words in reg. 16(1) substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 13(c)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/13/c)
 
-[^key-d3b5bde9e6b663409b5e7096196c7c74]: Textual amendment: Reg. 16(2) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 13(d)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/13/d)
+[^c-d3b5bde9e6b663409b5e7096196c7c74]: Textual amendment: Reg. 16(2) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 13(d)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/13/d)
 
-[^key-439abcb32eb5014a81b7e96f384fbb0e]: Textual amendment: Words in [reg. 17(b)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/17/b) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/14)
+[^c-439abcb32eb5014a81b7e96f384fbb0e]: Textual amendment: Words in [reg. 17(b)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/17/b) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/14)
 
-[^key-b3605712b4de233086c468e1ef8dda40]: Textual amendment: [Reg. 19(5A)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/19/5A) - [Reg. 19(5B)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/19/5B) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 15(a)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/15/a)
+[^c-b3605712b4de233086c468e1ef8dda40]: Textual amendment: [Reg. 19(5A)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/19/5A) - [Reg. 19(5B)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/19/5B) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 15(a)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/15/a)
 
-[^key-8951ebc0fc108f83ae970671c656c6c2]: Textual amendment: [Reg. 19(8)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/19/8) - [Reg. 19(9)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/19/9) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 15(b)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/15/b)
+[^c-8951ebc0fc108f83ae970671c656c6c2]: Textual amendment: [Reg. 19(8)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/19/8) - [Reg. 19(9)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/19/9) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 15(b)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/15/b)
 
-[^key-dfad6043b3867fe348ce768767407609]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1/paragraph/1) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 16(2)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/16/2)
+[^c-dfad6043b3867fe348ce768767407609]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1/paragraph/1) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 16(2)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/16/2)
 
 [^c1929889]: Marginal citation: Section 10 was amended by the [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), [section 86(1)](https://www.legislation.gov.uk/ukpga/1998/14/section/86/1) and paragraph 149 of Schedule 7.
 
 [^c1929891]: Marginal citation: Section 11 was amended by the Social Security Act 1998, section 86(1) and paragraph 150 of Schedule 7 and by the [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [section 59(5)](https://www.legislation.gov.uk/ukpga/2005/4/section/59/5) and paragraph 1(2) of Schedule 11and subsection (6) of section 11 was repealed by the Social Security Act 1998, Schedule 8.
 
-[^key-80c4c02817b0bf67048da823f770588d]: Textual amendment: Words in [Sch. 1 para. 4(c)(i)](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1/paragraph/4/c/i) substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 16(3)(a)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/16/3/a)
+[^c-80c4c02817b0bf67048da823f770588d]: Textual amendment: Words in [Sch. 1 para. 4(c)(i)](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1/paragraph/4/c/i) substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 16(3)(a)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/16/3/a)
 
-[^key-04c1ec574b0f9ee730cae9dc8ecda99c]: Textual amendment: Words in [Sch. 1 para. 4(d)(i)](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1/paragraph/4/d/i) substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 16(3)(a)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/16/3/a)
+[^c-04c1ec574b0f9ee730cae9dc8ecda99c]: Textual amendment: Words in [Sch. 1 para. 4(d)(i)](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1/paragraph/4/d/i) substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 16(3)(a)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/16/3/a)
 
-[^key-c8a3d7fa387e250fba741416dc9e072e]: Textual amendment: Words in [Sch. 1 para. 4(g)](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1/paragraph/4/g) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 16(3)(b)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/16/3/b)
+[^c-c8a3d7fa387e250fba741416dc9e072e]: Textual amendment: Words in [Sch. 1 para. 4(g)](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1/paragraph/4/g) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 16(3)(b)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/16/3/b)
 
-[^key-dcfa275a09e2232aedb8942d69e1cdd8]: Textual amendment: Words in Sch. 1 para. 5 substituted (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 344(a)(i)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/344/a/i)
+[^c-dcfa275a09e2232aedb8942d69e1cdd8]: Textual amendment: Words in Sch. 1 para. 5 substituted (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 344(a)(i)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/344/a/i)
 
 [^c1929892]: Marginal citation: Section 12 was amended by the Social Security Act 1998, section 86(1) and paragraph 151 of Schedule 7 and subsections (6) to (8) of section 12 were repealed by the Social Security Act 1998, Schedule 8.
 
-[^key-f5d36686b05b3557572d6fe4031ca79c]: Textual amendment: Sch. 1 para. 5(a) omitted (3.11.2008) by virtue of [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 344(a)(ii)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/344/a/ii)
+[^c-f5d36686b05b3557572d6fe4031ca79c]: Textual amendment: Sch. 1 para. 5(a) omitted (3.11.2008) by virtue of [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 344(a)(ii)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/344/a/ii)
 
-[^key-054f921a697e58c172ad4909d2079217]: Textual amendment: Sch. 1 para. 6 substituted (1.10.2008) by [Social Security (Miscellaneous Amendments) (No.3) Regulations 2008 (S.I. 2008/2365)](https://www.legislation.gov.uk/uksi/2008/2365), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2365/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2008/2365/regulation/6/3)
+[^c-054f921a697e58c172ad4909d2079217]: Textual amendment: Sch. 1 para. 6 substituted (1.10.2008) by [Social Security (Miscellaneous Amendments) (No.3) Regulations 2008 (S.I. 2008/2365)](https://www.legislation.gov.uk/uksi/2008/2365), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2365/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2008/2365/regulation/6/3)
 
-[^key-e5e2dcf888ee610c20bc5585a5e85f06]: Textual amendment: Words in Sch. 1 para. 6 substituted (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 344(b)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/344/b)
+[^c-e5e2dcf888ee610c20bc5585a5e85f06]: Textual amendment: Words in Sch. 1 para. 6 substituted (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 344(b)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/344/b)
 
-[^key-41322fffcdf590bf86f1049ddba2c037]: Textual amendment: Words in [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1/paragraph/6) substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 16(4)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/16/4)
+[^c-41322fffcdf590bf86f1049ddba2c037]: Textual amendment: Words in [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1/paragraph/6) substituted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 16(4)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/16/4)
 
-[^key-2b56dfc75bed162a31f48e168f952903]: Textual amendment: Words in [Sch. 1 para. 7(c)](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1/paragraph/7/c) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 16(5)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/16/5)
+[^c-2b56dfc75bed162a31f48e168f952903]: Textual amendment: Words in [Sch. 1 para. 7(c)](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1/paragraph/7/c) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 16(5)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/16/5)
 
-[^key-40bf03992c14a4212caf73ca8f8f3542]: Textual amendment: Words in [Sch. 1 para. 11(c)(ii)](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1/paragraph/11/c/ii) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 16(6)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/16/6)
+[^c-40bf03992c14a4212caf73ca8f8f3542]: Textual amendment: Words in [Sch. 1 para. 11(c)(ii)](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1/paragraph/11/c/ii) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 16(6)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/16/6)
 
-[^key-f579490731249e4ce074b51cc0452849]: Textual amendment: Words in Sch. 1 para. 12(b) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 16(7)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/16/7)
+[^c-f579490731249e4ce074b51cc0452849]: Textual amendment: Words in Sch. 1 para. 12(b) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 16(7)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/16/7)
 
-[^key-3af67655dc6833296cf1850d41f22309]: Textual amendment: Words in [Sch. 1 para. 13(a)](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1/paragraph/13/a) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 16(8)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/16/8)
+[^c-3af67655dc6833296cf1850d41f22309]: Textual amendment: Words in [Sch. 1 para. 13(a)](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1/paragraph/13/a) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 16(8)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/16/8)
 
-[^key-3f361f83f2a3c70320f78700cf42e125]: Textual amendment: Sch. 1 para. 15(ba) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 16(9)(a)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/16/9/a)
+[^c-3f361f83f2a3c70320f78700cf42e125]: Textual amendment: Sch. 1 para. 15(ba) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 16(9)(a)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/16/9/a)
 
-[^key-b903640fda2301124ca253f630708242]: Textual amendment: Words in Sch. 1 para. 15(c) in the sub-para. (2) renumbered (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 16(9)(b)(i)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/16/9/b/i)
+[^c-b903640fda2301124ca253f630708242]: Textual amendment: Words in Sch. 1 para. 15(c) in the sub-para. (2) renumbered (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 16(9)(b)(i)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/16/9/b/i)
 
-[^key-f48e0371f4267c246e600c99a94f65ed]: Textual amendment: Words in Sch. 1 para. 15(c) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 16(9)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/16/9/b/ii)
+[^c-f48e0371f4267c246e600c99a94f65ed]: Textual amendment: Words in Sch. 1 para. 15(c) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 16(9)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/16/9/b/ii)
 
 [^c1929894]: Marginal citation: Section 29 was amended by the Social Security Act 1998, section 86(1) and paragraph 153 of Schedule 7.
 
-[^key-1d1108a54a60663e6bdd7b525e072714]: Textual amendment: Words in [Sch. 1 para. 18(b)(iii)](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1/paragraph/18/b/iii) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 16(10)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/16/10)
+[^c-1d1108a54a60663e6bdd7b525e072714]: Textual amendment: Words in [Sch. 1 para. 18(b)(iii)](https://www.legislation.gov.uk/uksi/2008/1596/schedule/1/paragraph/18/b/iii) inserted (1.7.2014) by [The Social Security (Recovery of Benefits) (Lump Sum Payments) (Amendment) Regulations 2014 (S.I. 2014/1456)](https://www.legislation.gov.uk/uksi/2014/1456), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1456/regulation/1/2), [Sch. para. 16(10)](https://www.legislation.gov.uk/uksi/2014/1456/schedule/paragraph/16/10)
 
 [^c1929895]: Marginal citation: Part 1 of Schedule 1 was amended by the [Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6), [section 165](https://www.legislation.gov.uk/ukpga/2000/6/section/165) and paragraph 181 of Schedule 9 and [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [article 358](https://www.legislation.gov.uk/uksi/2001/3649/article/358).
 
 [^c1929896]: Marginal citation: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991).
 
-[^key-15050fb7c23284c0c73cbfa9487e97ac]: Textual amendment: Words in Sch. 2 para. 1(b) substituted (1.10.2008) by [Social Security (Miscellaneous Amendments) (No.3) Regulations 2008 (S.I. 2008/2365)](https://www.legislation.gov.uk/uksi/2008/2365), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2365/regulation/1), [6(4)](https://www.legislation.gov.uk/uksi/2008/2365/regulation/6/4)
+[^c-15050fb7c23284c0c73cbfa9487e97ac]: Textual amendment: Words in Sch. 2 para. 1(b) substituted (1.10.2008) by [Social Security (Miscellaneous Amendments) (No.3) Regulations 2008 (S.I. 2008/2365)](https://www.legislation.gov.uk/uksi/2008/2365), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2365/regulation/1), [6(4)](https://www.legislation.gov.uk/uksi/2008/2365/regulation/6/4)
 
-[^key-f0adf694e2dbc3cc452280cf901100af]: Textual amendment: Words in Sch. 2 para. 1(2)(c)(ii) substituted (1.10.2008) by [Social Security (Miscellaneous Amendments) (No.3) Regulations 2008 (S.I. 2008/2365)](https://www.legislation.gov.uk/uksi/2008/2365), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2365/regulation/1), [6(5)](https://www.legislation.gov.uk/uksi/2008/2365/regulation/6/5)
+[^c-f0adf694e2dbc3cc452280cf901100af]: Textual amendment: Words in Sch. 2 para. 1(2)(c)(ii) substituted (1.10.2008) by [Social Security (Miscellaneous Amendments) (No.3) Regulations 2008 (S.I. 2008/2365)](https://www.legislation.gov.uk/uksi/2008/2365), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2365/regulation/1), [6(5)](https://www.legislation.gov.uk/uksi/2008/2365/regulation/6/5)
 
-[^key-eb941d394d6a99946748b17c05a86ceb]: Textual amendment: Sch. 2 para. 1(2)(e) substituted (1.10.2008) by [Social Security (Miscellaneous Amendments) (No.3) Regulations 2008 (S.I. 2008/2365)](https://www.legislation.gov.uk/uksi/2008/2365), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2365/regulation/1), [6(6)](https://www.legislation.gov.uk/uksi/2008/2365/regulation/6/6)
+[^c-eb941d394d6a99946748b17c05a86ceb]: Textual amendment: Sch. 2 para. 1(2)(e) substituted (1.10.2008) by [Social Security (Miscellaneous Amendments) (No.3) Regulations 2008 (S.I. 2008/2365)](https://www.legislation.gov.uk/uksi/2008/2365), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2365/regulation/1), [6(6)](https://www.legislation.gov.uk/uksi/2008/2365/regulation/6/6)

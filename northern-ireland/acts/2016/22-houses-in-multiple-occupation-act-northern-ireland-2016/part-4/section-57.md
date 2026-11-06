@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 57. Contents of hazard notices: other matters[^key-877fbb9d05e3ed2d7dc86c1df9648b6e]
+## 57. Contents of hazard notices: other matters[^c-877fbb9d05e3ed2d7dc86c1df9648b6e]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-877fbb9d05e3ed2d7dc86c1df9648b6e]: Commencement: [S. 57](https://www.legislation.gov.uk/nia/2016/22/section/57) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-877fbb9d05e3ed2d7dc86c1df9648b6e]: Commencement: [S. 57](https://www.legislation.gov.uk/nia/2016/22/section/57) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

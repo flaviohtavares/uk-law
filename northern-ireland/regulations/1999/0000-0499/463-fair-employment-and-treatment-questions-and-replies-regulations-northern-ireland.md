@@ -41,20 +41,20 @@ Coming into operation
 
 The Department of Economic Development, in exercise of the powers conferred on it by Articles 44(1) and (3) and 104(3) of the Fair Employment and Treatment (Northern Ireland) Order 1998[^f00001] and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-375bfea2e5d2653eea15c9233dc632a2]
+## 1. Citation, commencement and interpretation[^c-375bfea2e5d2653eea15c9233dc632a2]
 
 (1) These Regulations may be cited as the Fair Employment and Treatment (Questions and Replies) Regulations (Northern Ireland) 1999 and shall come into operation on 23rd December 1999.
 
 (2) In these Regulations “the Order” means the Fair Employment and Treatment (Northern Ireland) Order 1998.
 
-## 2. Forms for asking and answering questions[^key-4f5fbc82d6869c40c9812e2ea1d486bd]
+## 2. Forms for asking and answering questions[^c-4f5fbc82d6869c40c9812e2ea1d486bd]
 
 The forms respectively set out in Schedules 1 and 2 are, respectively, hereby prescribed pursuant to Article 44(1) of the Order as forms—
 
 - (a) by which the person aggrieved may question the respondent on his reasons for doing any relevant act, or on any other matter which is or may be relevant;
 - (b) by which the respondent may if he so wishes reply to such questions.
 
-## 3. Period for service of questions — county court cases[^key-6afec9c08effac7dd1e1d012e89c8070]
+## 3. Period for service of questions — county court cases[^c-6afec9c08effac7dd1e1d012e89c8070]
 
 (1) Subject to paragraph (2), in proceedings before a county court a question shall only be admissible as evidence in pursuance of Article 44(2)(*a*) of the Order—
 
@@ -63,16 +63,16 @@ The forms respectively set out in Schedules 1 and 2 are, respectively, hereby pr
 
 (2) Paragraph (1) shall not apply where the act complained of was done before the coming into operation of these Regulations.
 
-## 4. Period for service of questions — Tribunal cases[^key-be8d976f2005ffb4e314ad4e1a263dfe]
+## 4. Period for service of questions — Tribunal cases[^c-be8d976f2005ffb4e314ad4e1a263dfe]
 
 In proceedings before the Tribunal, a question shall only be admissible as evidence in pursuance of Article 44(2)(*a*) of the Order—
 
-- (a)[^key-943c93d151cdd39a99b3593b42abfda3] where it was served before an originating application had been presented to the Tribunal, if it was so served –
+- (a)[^c-943c93d151cdd39a99b3593b42abfda3] where it was served before an originating application had been presented to the Tribunal, if it was so served –
   - (i) before the end of the period of three months beginning with the day on which the person aggrieved first had knowledge, or might reasonably be expected first to have had knowledge, of the act complained of, or before the end of the period of six months beginning with the day on which the act was done, whichever is the earlier; or
   - (ii) where the period under Article 46 of the Order within which proceedings must be brought is extended by regulation 15 of the Employment (Northern Ireland) Order 2003 (Dispute Resolution) Regulations (Northern Ireland) 2004, within that extended period;
 - (b) where it was served when an originating application had been presented to the Tribunal, either if it was so served within the period of twenty-one days beginning with the day on which the originating application was presented or if it was so served later with leave given, and within a period specified, by a direction of the Tribunal.
 
-## 5. Manner of service of questions and replies[^key-fd4960fd8709b30d690b38844b2e40ff]
+## 5. Manner of service of questions and replies[^c-fd4960fd8709b30d690b38844b2e40ff]
 
 A question and any reply thereto may be served on the respondent or, as the case may be, on the person aggrieved—
 
@@ -82,7 +82,7 @@ A question and any reply thereto may be served on the respondent or, as the case
 - (d) where the person to be served is acting by a solicitor, by delivering it at, or by sending it by post to, the solicitor’s address for service; or
 - (e) where the person to be served is the person aggrieved, by delivering the reply, or sending it by post, to him at his address for reply as stated by him in the document containing the questions.
 
-## 6. Revocation and saving[^key-6bcab838c23fde186b145fcc1446e2c2]
+## 6. Revocation and saving[^c-6bcab838c23fde186b145fcc1446e2c2]
 
 (1) Subject to paragraph (2), the Fair Employment (Questions and Replies) Regulations (Northern Ireland) 1989[^f00003] and the Fair Employment (Questions and Replies) (Amendment) Regulations (Northern Ireland) 1991[^f00004] are hereby revoked.
 
@@ -94,13 +94,13 @@ R. Gamble
 
 Assistant Secretary
 
-## SCHEDULE 1 — The Fair Employment and Treatment (Northern Ireland) Order 1998[^key-0285ffa760aabcb7f027c855b711095b]
+## SCHEDULE 1 — The Fair Employment and Treatment (Northern Ireland) Order 1998[^c-0285ffa760aabcb7f027c855b711095b]
 
 Regulation 2
 
 [image: see source](https://www.legislation.gov.uk/nisr/1999/463/images/nisr_19990463_en_001)
 
-## SCHEDULE 2 — The Fair Employment and Treatment (Northern Ireland) Order 1998[^key-97034510e4b449ceba362250d1316eab]
+## SCHEDULE 2 — The Fair Employment and Treatment (Northern Ireland) Order 1998[^c-97034510e4b449ceba362250d1316eab]
 
 Regulation 2
 
@@ -117,26 +117,26 @@ These Regulations revoke and replace the Fair Employment (Questions and Replies)
 
 [^f00001]: Footnote: S.I. [1998/3162 (N.I. 21)](https://www.legislation.gov.uk/nisi/1998/3162)
 
-[^key-375bfea2e5d2653eea15c9233dc632a2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1999/463/regulation/1) in operation at 23.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/463/regulation/1/1)
+[^c-375bfea2e5d2653eea15c9233dc632a2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1999/463/regulation/1) in operation at 23.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/463/regulation/1/1)
 
-[^key-4f5fbc82d6869c40c9812e2ea1d486bd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1999/463/regulation/2) in operation at 23.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/463/regulation/1/1)
+[^c-4f5fbc82d6869c40c9812e2ea1d486bd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1999/463/regulation/2) in operation at 23.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/463/regulation/1/1)
 
-[^key-6afec9c08effac7dd1e1d012e89c8070]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1999/463/regulation/3) in operation at 23.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/463/regulation/1/1)
+[^c-6afec9c08effac7dd1e1d012e89c8070]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1999/463/regulation/3) in operation at 23.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/463/regulation/1/1)
 
-[^key-be8d976f2005ffb4e314ad4e1a263dfe]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1999/463/regulation/4) in operation at 23.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/463/regulation/1/1)
+[^c-be8d976f2005ffb4e314ad4e1a263dfe]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1999/463/regulation/4) in operation at 23.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/463/regulation/1/1)
 
-[^key-943c93d151cdd39a99b3593b42abfda3]: Textual amendment: [Reg. 4(a)](https://www.legislation.gov.uk/nisr/1999/463/regulation/4/a) substituted (3.4.2005) by [Employment (Northern Ireland) Order 2003 (Dispute Resolution) Regulations (Northern Ireland) 2004 (S.R. 2004/521)](https://www.legislation.gov.uk/nisr/2004/521), [regs. 1](https://www.legislation.gov.uk/nisr/2004/521/regulation/1), [17(f)](https://www.legislation.gov.uk/nisr/2004/521/regulation/17/f) (with [reg. 18](https://www.legislation.gov.uk/nisr/2004/521/regulation/18))
+[^c-943c93d151cdd39a99b3593b42abfda3]: Textual amendment: [Reg. 4(a)](https://www.legislation.gov.uk/nisr/1999/463/regulation/4/a) substituted (3.4.2005) by [Employment (Northern Ireland) Order 2003 (Dispute Resolution) Regulations (Northern Ireland) 2004 (S.R. 2004/521)](https://www.legislation.gov.uk/nisr/2004/521), [regs. 1](https://www.legislation.gov.uk/nisr/2004/521/regulation/1), [17(f)](https://www.legislation.gov.uk/nisr/2004/521/regulation/17/f) (with [reg. 18](https://www.legislation.gov.uk/nisr/2004/521/regulation/18))
 
-[^key-fd4960fd8709b30d690b38844b2e40ff]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1999/463/regulation/5) in operation at 23.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/463/regulation/1/1)
+[^c-fd4960fd8709b30d690b38844b2e40ff]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1999/463/regulation/5) in operation at 23.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/463/regulation/1/1)
 
 [^f00002]: Footnote: S.I. [1992/807 (N.I. 5)](https://www.legislation.gov.uk/nisi/1992/807)
 
-[^key-6bcab838c23fde186b145fcc1446e2c2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/1999/463/regulation/6) in operation at 23.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/463/regulation/1/1)
+[^c-6bcab838c23fde186b145fcc1446e2c2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/1999/463/regulation/6) in operation at 23.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/463/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1989 No. 447](https://www.legislation.gov.uk/nisr/1989/447)
 
 [^f00004]: Footnote: [S.R. 1991 No. 325](https://www.legislation.gov.uk/nisr/1991/325)
 
-[^key-0285ffa760aabcb7f027c855b711095b]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/1999/463/schedule/1) in operation at 23.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/463/regulation/1/1)
+[^c-0285ffa760aabcb7f027c855b711095b]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/1999/463/schedule/1) in operation at 23.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/463/regulation/1/1)
 
-[^key-97034510e4b449ceba362250d1316eab]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/1999/463/schedule/2) in operation at 23.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/463/regulation/1/1)
+[^c-97034510e4b449ceba362250d1316eab]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/1999/463/schedule/2) in operation at 23.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/463/regulation/1/1)

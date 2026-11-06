@@ -54,7 +54,7 @@ In accordance with section 224(4) of the Local Government and Public Involvement
 
 ## PART 1 — Introductory Provisions
 
-### 1. Citation, commencement and interpretation[^key-43e5159b666b4dc3cc7bd07651d7d92f]
+### 1. Citation, commencement and interpretation[^c-43e5159b666b4dc3cc7bd07651d7d92f]
 
 (1) These Regulations may be cited as the Local Involvement Networks Regulations 2008.
 
@@ -92,7 +92,7 @@ In accordance with section 224(4) of the Local Government and Public Involvement
 
 ## PART 2 — Local involvement networks
 
-### 2. Local authority arrangements[^key-bb113691852bae78394de259f82566f8]
+### 2. Local authority arrangements[^c-bb113691852bae78394de259f82566f8]
 
 (1) The arrangements made by a local authority under section 221(1) of the Act must require that the local involvement network arrangements made pursuant to those local authority arrangements include provision that a local involvement network must—
 
@@ -123,7 +123,7 @@ In accordance with section 224(4) of the Local Government and Public Involvement
 
 (4) The procedure referred to in paragraph (3)(c)(ii) must include provision setting out the circumstances in which the breach must be referred by the local involvement network to the Host or the relevant local authority
 
-### 3. Arrangements for authorised representatives for the purposes of entering and viewing[^key-324c1ab2fa0efe7f41945ab0bd296ec3]
+### 3. Arrangements for authorised representatives for the purposes of entering and viewing[^c-324c1ab2fa0efe7f41945ab0bd296ec3]
 
 (1) The requirements referred to in regulation 2(1)(e) are that a local involvement network must—
 
@@ -142,7 +142,7 @@ In accordance with section 224(4) of the Local Government and Public Involvement
 
 (3) For the purposes of paragraph (2), the nominated person must not be the individual to whom the certificate refers.
 
-### 4. Notification requirements[^key-ed7e7fd3af4c48616ff9f449281346c1]
+### 4. Notification requirements[^c-ed7e7fd3af4c48616ff9f449281346c1]
 
 (1) Subject to paragraph (2), a local involvement network must notify in writing the relevant local authority of the date when that person first carries on one of the section 221 activities pursuant to arrangements made by the relevant local authority.
 
@@ -150,7 +150,7 @@ In accordance with section 224(4) of the Local Government and Public Involvement
 
 (3) A notification under paragraph (1) must be sent as soon as practicable after the duty imposed by paragraph (1) applies.
 
-### 5. Duties of services-providers to respond to reports and recommendations by local involvement networks[^key-908f6e77342181b9b12de77fa48ae24c]
+### 5. Duties of services-providers to respond to reports and recommendations by local involvement networks[^c-908f6e77342181b9b12de77fa48ae24c]
 
 (1) Subject to regulation 6, this regulation applies where a local involvement network has, in the carrying-on of section 221 activities pursuant to arrangements made under section 221(1) of the Act, made a report or recommendation to a services-provider.
 
@@ -184,7 +184,7 @@ In accordance with section 224(4) of the Local Government and Public Involvement
 
 (10) Where a services-provider is required to acknowledge receipt, provide an explanation or inform the referrer, that services-provider must do so in writing.
 
-### 6. Excluded services[^key-a5182c815e214c8a5300bbeb60a3b99b]
+### 6. Excluded services[^c-a5182c815e214c8a5300bbeb60a3b99b]
 
 (1) Regulation 5 does not apply where a report or recommendation relates wholly to—
 
@@ -202,14 +202,14 @@ then regulation 5 applies only to that part of the report or recommendation that
 
 ## PART 3 — Transitional arrangements
 
-### 7. Relevant time[^key-70614ea4206aa1b198b86a294ffea4be]
+### 7. Relevant time[^c-70614ea4206aa1b198b86a294ffea4be]
 
 For the purpose of section 228(2) of the Act, the “relevant time”, in relation to a local authority, is the earlier of—
 
 - (a) 30th September 2008; or
 - (b) the time when a person first carries on one of the section 221 activities in pursuance of arrangements made under section 221(1) of that Act by that local authority.
 
-### 8. Compliance with the temporary duty[^key-7a13b626d28995f7da04c1dee914e069]
+### 8. Compliance with the temporary duty[^c-7a13b626d28995f7da04c1dee914e069]
 
 (1) A local authority complies with the duty under section 228(2) only if it acts in accordance with the following paragraphs.
 
@@ -247,7 +247,7 @@ For the purpose of section 228(2) of the Act, the “relevant time”, in relati
 
 (7) In this regulation “relevant section 221 activities”, in relation to a relevant person, means the section 221 activities that the relevant person is to carry on pursuant to temporary arrangements.
 
-### 9. Arrangements for authorised individuals for the purposes of entering and viewing[^key-4ad57eb275f8e1ca33662a3cdfaffef2]
+### 9. Arrangements for authorised individuals for the purposes of entering and viewing[^c-4ad57eb275f8e1ca33662a3cdfaffef2]
 
 (1) The requirements referred to in regulation 8(5)(d) are that a relevant person must—
 
@@ -264,7 +264,7 @@ For the purpose of section 228(2) of the Act, the “relevant time”, in relati
 
 (3) For the purposes of paragraph (2), the nominated person must not be the individual to whom the certificate refers.
 
-### 10. Duties of services-providers to respond to reports and recommendations by relevant persons[^key-40c9d25f437bd337ccec4a286ca6d8f3]
+### 10. Duties of services-providers to respond to reports and recommendations by relevant persons[^c-40c9d25f437bd337ccec4a286ca6d8f3]
 
 (1) Subject to regulation 11, this regulation applies where a relevant person has in the carrying-on of section 221 activities pursuant to temporary arrangements made a report or recommendation to a services-provider.
 
@@ -303,7 +303,7 @@ For the purpose of section 228(2) of the Act, the “relevant time”, in relati
 
 (10) Where a services-provider is required to acknowledge receipt, provide an explanation or inform the referrer, that services-provider must do so in writing.
 
-### 11. Excluded services[^key-0e66df4b868c8f943c95d1fd571fa6b4]
+### 11. Excluded services[^c-0e66df4b868c8f943c95d1fd571fa6b4]
 
 (1) Regulation 10 does not apply where a report or recommendation relates wholly to—
 
@@ -319,7 +319,7 @@ then regulation 10 applies only to that part of the report or recommendation tha
 
 (3) In this regulation “excluded services” means services which are not care services in respect of which the relevant person who made the report or recommendation is carrying-on section 221 activities in pursuance of temporary arrangements.
 
-### 12. Duty of services-providers to allow entry by local involvement networks[^key-cc7f32f6cc60e72570f722c00be37e53]
+### 12. Duty of services-providers to allow entry by local involvement networks[^c-cc7f32f6cc60e72570f722c00be37e53]
 
 (1) A services-provider must allow an authorised individual to—
 
@@ -343,14 +343,14 @@ premises that it owns or controls.
 
 (3) Where any premises, or parts of premises, are owned by a services-provider and controlled by another services-provider, then for the purpose of this regulation the services-provider who owns those premises, or parts of premises, is to be treated as not being a services-provider.
 
-### 13. Authorised individual[^key-bff843b1773433f772e5692300abad63]
+### 13. Authorised individual[^c-bff843b1773433f772e5692300abad63]
 
 (1) An “authorised individual” means an individual who, until the relevant time in relation to the local authority who made the temporary arrangements pursuant to which the relevant person is carrying-on section 221 activities, is authorised for the purposes of regulation 12—
 
 - (a) by a relevant person; and
 - (b) in accordance with the requirements to be included in temporary arrangements specified in regulation 9.
 
-### 14. Viewing and observing activities[^key-30eac42ab176d115184fb7e669b6e3df]
+### 14. Viewing and observing activities[^c-30eac42ab176d115184fb7e669b6e3df]
 
 While an authorised individual is on any premises as a result of a services-provider having complied with a duty imposed under regulation 12—
 
@@ -359,7 +359,7 @@ While an authorised individual is on any premises as a result of a services-prov
   - (i) the effective provision of care services; or
   - (ii) the privacy or dignity of any person.
 
-### 15. Transitional reports[^key-1ef96950a911f5f2b8048853da136dc0]
+### 15. Transitional reports[^c-1ef96950a911f5f2b8048853da136dc0]
 
 (1) Each relevant person must prepare a report (“a transitional report”) setting out—
 
@@ -382,7 +382,7 @@ within 3 months of the date on which the relevant person ceases to carry on sect
 - “appropriate local authority” means the local authority who made the temporary arrangements pursuant to which the relevant person was carrying on section 221 activities;
 - “Host” means a person with whom the appropriate local authority has made arrangements under section 221(1) of the Act.
 
-### 16. Relevant persons: referrals of social care matters[^key-7cfab8c97e1fe6818449a35631bda4c1]
+### 16. Relevant persons: referrals of social care matters[^c-7cfab8c97e1fe6818449a35631bda4c1]
 
 (1) Paragraphs (2) to (6) apply where a relevant person refers a matter relating to social care services to an overview and scrutiny committee of a local authority.
 
@@ -406,11 +406,11 @@ within 3 months of the date on which the relevant person ceases to carry on sect
 
 ## PART 4 — Miscellaneous
 
-### 17. Local involvement networks: referrals of social care matters[^key-c0ee7857ec00a93d637dbb67eab03326]
+### 17. Local involvement networks: referrals of social care matters[^c-c0ee7857ec00a93d637dbb67eab03326]
 
 For the purposes of section 226(2)(a) of the Act, the time by which the duty under that section is to be performed is 20 working days beginning with the date on which the referral to which the duty applies was made.
 
-### 18. Amendment of regulation 2 of the Local Authority (Overview and Scrutiny Committees Health Scrutiny Functions) Regulations 2002[^key-62f76b7b53a2772c2bc73a92405ef06e]
+### 18. Amendment of regulation 2 of the Local Authority (Overview and Scrutiny Committees Health Scrutiny Functions) Regulations 2002[^c-62f76b7b53a2772c2bc73a92405ef06e]
 
 (1) Regulation 2 of the Local Authority (Overview and Scrutiny Committees Health Scrutiny Functions) Regulations 2002[^f00011] is amended as follows.
 
@@ -445,7 +445,7 @@ For the purposes of section 226(2)(a) of the Act, the time by which the duty und
 
 .
 
-### 19. Consequential amendments[^key-9e5778e92603fd4eb0fcbc5cb83d4abe]
+### 19. Consequential amendments[^c-9e5778e92603fd4eb0fcbc5cb83d4abe]
 
 The Schedule (consequential amendments) has effect.
 
@@ -461,11 +461,11 @@ Department of Health
 
 ## SCHEDULE — Consequential Amendments
 
-### 1. The National Health Service (General Ophthalmic Services) Regulations 1986[^key-24f4ad144328b5c73685cbc6d0e2c580]
+### 1. The National Health Service (General Ophthalmic Services) Regulations 1986[^c-24f4ad144328b5c73685cbc6d0e2c580]
 
 In the National Health Service (General Ophthalmic Services) Regulations 1986[^f00012], in Schedule 1 (terms of service) omit paragraph 2(e)[^f00013].
 
-### 2. The Commission for Patient and Public Involvement in Health (Functions) Regulations 2002[^key-a7bb1ad02998ec1e723370a65fbcbb51]
+### 2. The Commission for Patient and Public Involvement in Health (Functions) Regulations 2002[^c-a7bb1ad02998ec1e723370a65fbcbb51]
 
 (1) The Commission for Patient and Public Involvement in Health (Functions) Regulations 2002[^f00014] are amended as follows.
 
@@ -480,11 +480,11 @@ In the National Health Service (General Ophthalmic Services) Regulations 1986[^f
 
 (4) In regulation 8 (obtaining information) in paragraph (2)[^f00016], omit sub-paragraph (e).
 
-### 3. The Commission for Patient and Public Involvement in Health (Membership and Procedure) Regulations 2002[^key-694751c00a0784be613d782b4c0c6933]
+### 3. The Commission for Patient and Public Involvement in Health (Membership and Procedure) Regulations 2002[^c-694751c00a0784be613d782b4c0c6933]
 
 (1) In the Commission for Patient and Public Involvement in Health (Membership and Procedure) Regulations 2002[^f00017] in regulation 5 (disqualification for appointment), omit paragraph (1)(i).
 
-### 4. The Strategic Health Authorities (Consultation on Changes) Regulations 2003[^key-8605c91491aeeeb3ae3baa2bb9d56aeb]
+### 4. The Strategic Health Authorities (Consultation on Changes) Regulations 2003[^c-8605c91491aeeeb3ae3baa2bb9d56aeb]
 
 (1) The Strategic Health Authorities (Consultation on Changes) Regulations 2003[^f00018] are amended as follows.
 
@@ -507,7 +507,7 @@ In the National Health Service (General Ophthalmic Services) Regulations 1986[^f
 
   .
 
-### 5. The National Health Service (General Medical Services Contracts) Regulations 2004[^key-74da113caeaab4eec6c0f754bc51de16]
+### 5. The National Health Service (General Medical Services Contracts) Regulations 2004[^c-74da113caeaab4eec6c0f754bc51de16]
 
 (1) The National Health Service (General Medical Services Contracts) Regulations 2004[^f00020] are amended as follows.
 
@@ -532,7 +532,7 @@ In the National Health Service (General Ophthalmic Services) Regulations 1986[^f
     ;
 - (b) omit paragraphs 78 (requests for information from Patients’ Forums) and 90 (entry and inspection by members of Patients’ Forums).
 
-### 6. The National Health Service (Complaints) Regulations 2004[^key-b0398ed10cca5134bfbdfd2af1e7a282]
+### 6. The National Health Service (Complaints) Regulations 2004[^c-b0398ed10cca5134bfbdfd2af1e7a282]
 
 (1) The National Health Service (Complaints) Regulations 2004[^f00022] are amended as follows.
 
@@ -557,7 +557,7 @@ In the National Health Service (General Ophthalmic Services) Regulations 1986[^f
 
   .
 
-### 7. The National Health Service (Personal Medical Services Agreements) Regulations 2004[^key-d10aa1f7c80abcd01f1cc46320166cda]
+### 7. The National Health Service (Personal Medical Services Agreements) Regulations 2004[^c-d10aa1f7c80abcd01f1cc46320166cda]
 
 (1) The National Health Service (Personal Medical Services Agreements) Regulations 2004[^f00023] are amended as follows.
 
@@ -582,7 +582,7 @@ In the National Health Service (General Ophthalmic Services) Regulations 1986[^f
     ;
 - (b) omit paragraphs 74 (requests for information from Patients’ Forums) and 84 (entry and inspection by members of Patients’ Forum).
 
-### 8. The National Health Service (Pharmaceutical Services) Regulations 2005[^key-0565d48f6b03d85f9ec6348576b9b887]
+### 8. The National Health Service (Pharmaceutical Services) Regulations 2005[^c-0565d48f6b03d85f9ec6348576b9b887]
 
 (1) The National Health Service (Pharmaceutical Services) Regulations 2005[^f00025] are amended as follows.
 
@@ -639,7 +639,7 @@ In the National Health Service (General Ophthalmic Services) Regulations 1986[^f
 
 (8) In Schedule 3 (terms of service of suppliers of appliances), omit paragraph 1(d).
 
-### 9. The National Health Service (General Dental Services Contracts) Regulations 2005[^key-3d627bbaafbf0b645f287864eb04995c]
+### 9. The National Health Service (General Dental Services Contracts) Regulations 2005[^c-3d627bbaafbf0b645f287864eb04995c]
 
 (1) In the National Health Service (General Dental Services Contracts) Regulations 2005[^f00028] in Schedule 3 (other contractual terms)—
 
@@ -649,7 +649,7 @@ In the National Health Service (General Ophthalmic Services) Regulations 1986[^f
   - (ii) in sub-paragraph (a) omit “, members of a Patients’ Forum”; and
 - (c) omit paragraph 45.
 
-### 10. The National Health Service (Personal Dental Services Agreements) Regulations 2005[^key-8936e84f767341aaa31caf53b6ff9d5c]
+### 10. The National Health Service (Personal Dental Services Agreements) Regulations 2005[^c-8936e84f767341aaa31caf53b6ff9d5c]
 
 (1) In the National Health Service (Personal Dental Services Agreements) Regulations 2005[^f00029] in Schedule 3 (other contractual terms)—
 
@@ -659,7 +659,7 @@ In the National Health Service (General Ophthalmic Services) Regulations 1986[^f
   - (ii) in sub-paragraph (a) omit “, members of a Patients’ Forum”; and
 - (c) omit paragraph 45.
 
-### 11. The National Health Service (Local Pharmaceutical Services etc.) Regulations 2006[^key-2ee6e4e770b4c81d3b1d4f7c7299846c]
+### 11. The National Health Service (Local Pharmaceutical Services etc.) Regulations 2006[^c-2ee6e4e770b4c81d3b1d4f7c7299846c]
 
 (1) The National Health Service (Local Pharmaceutical Services etc.) Regulations 2006[^f00030] are amended as follows.
 
@@ -703,7 +703,7 @@ A full Impact Assessment has been produced for this instrument and copies are av
 
 [^f00003]: Footnote: [2007 c.28](https://www.legislation.gov.uk/ukpga/2007/28).
 
-[^key-43e5159b666b4dc3cc7bd07651d7d92f]: Commencement: Reg. 1 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
+[^c-43e5159b666b4dc3cc7bd07651d7d92f]: Commencement: Reg. 1 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
 
 [^f00004]: Footnote: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41).
 
@@ -717,53 +717,53 @@ A full Impact Assessment has been produced for this instrument and copies are av
 
 [^f00009]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-bb113691852bae78394de259f82566f8]: Commencement: Reg. 2 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
+[^c-bb113691852bae78394de259f82566f8]: Commencement: Reg. 2 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
 
-[^key-324c1ab2fa0efe7f41945ab0bd296ec3]: Commencement: Reg. 3 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
+[^c-324c1ab2fa0efe7f41945ab0bd296ec3]: Commencement: Reg. 3 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
 
 [^f00010]: Footnote: [1997 c.50](https://www.legislation.gov.uk/ukpga/1997/50); section 113A was inserted by section 163(2) of the Serious Organised Crime and Police Act 2005.
 
-[^key-ed7e7fd3af4c48616ff9f449281346c1]: Commencement: Reg. 4 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
+[^c-ed7e7fd3af4c48616ff9f449281346c1]: Commencement: Reg. 4 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
 
-[^key-908f6e77342181b9b12de77fa48ae24c]: Commencement: Reg. 5 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
+[^c-908f6e77342181b9b12de77fa48ae24c]: Commencement: Reg. 5 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
 
-[^key-a5182c815e214c8a5300bbeb60a3b99b]: Commencement: Reg. 6 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
+[^c-a5182c815e214c8a5300bbeb60a3b99b]: Commencement: Reg. 6 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
 
-[^key-70614ea4206aa1b198b86a294ffea4be]: Commencement: Reg. 7 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
+[^c-70614ea4206aa1b198b86a294ffea4be]: Commencement: Reg. 7 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
 
-[^key-7a13b626d28995f7da04c1dee914e069]: Commencement: Reg. 8 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
+[^c-7a13b626d28995f7da04c1dee914e069]: Commencement: Reg. 8 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
 
-[^key-4ad57eb275f8e1ca33662a3cdfaffef2]: Commencement: Reg. 9 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
+[^c-4ad57eb275f8e1ca33662a3cdfaffef2]: Commencement: Reg. 9 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
 
-[^key-40c9d25f437bd337ccec4a286ca6d8f3]: Commencement: Reg. 10 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
+[^c-40c9d25f437bd337ccec4a286ca6d8f3]: Commencement: Reg. 10 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
 
-[^key-0e66df4b868c8f943c95d1fd571fa6b4]: Commencement: Reg. 11 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
+[^c-0e66df4b868c8f943c95d1fd571fa6b4]: Commencement: Reg. 11 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
 
-[^key-cc7f32f6cc60e72570f722c00be37e53]: Commencement: Reg. 12 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
+[^c-cc7f32f6cc60e72570f722c00be37e53]: Commencement: Reg. 12 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
 
-[^key-bff843b1773433f772e5692300abad63]: Commencement: Reg. 13 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
+[^c-bff843b1773433f772e5692300abad63]: Commencement: Reg. 13 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
 
-[^key-30eac42ab176d115184fb7e669b6e3df]: Commencement: Reg. 14 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
+[^c-30eac42ab176d115184fb7e669b6e3df]: Commencement: Reg. 14 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
 
-[^key-1ef96950a911f5f2b8048853da136dc0]: Commencement: Reg. 15 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
+[^c-1ef96950a911f5f2b8048853da136dc0]: Commencement: Reg. 15 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
 
-[^key-7cfab8c97e1fe6818449a35631bda4c1]: Commencement: Reg. 16 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
+[^c-7cfab8c97e1fe6818449a35631bda4c1]: Commencement: Reg. 16 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
 
-[^key-c0ee7857ec00a93d637dbb67eab03326]: Commencement: Reg. 17 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
+[^c-c0ee7857ec00a93d637dbb67eab03326]: Commencement: Reg. 17 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
 
-[^key-62f76b7b53a2772c2bc73a92405ef06e]: Commencement: Reg. 18 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
+[^c-62f76b7b53a2772c2bc73a92405ef06e]: Commencement: Reg. 18 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
 
 [^f00011]: Footnote: [S.I. 2002/3048](https://www.legislation.gov.uk/uksi/2002/3048).
 
-[^key-9e5778e92603fd4eb0fcbc5cb83d4abe]: Commencement: Reg. 19 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
+[^c-9e5778e92603fd4eb0fcbc5cb83d4abe]: Commencement: Reg. 19 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
 
-[^key-24f4ad144328b5c73685cbc6d0e2c580]: Commencement: Sch. para. 1 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
+[^c-24f4ad144328b5c73685cbc6d0e2c580]: Commencement: Sch. para. 1 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
 
 [^f00012]: Footnote: [S.I. 1986/975](https://www.legislation.gov.uk/uksi/1986/975).
 
 [^f00013]: Footnote: Paragraph 2(e) was inserted by [S.I. 2003/2863](https://www.legislation.gov.uk/uksi/2003/2863).
 
-[^key-a7bb1ad02998ec1e723370a65fbcbb51]: Commencement: Sch. para. 2 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
+[^c-a7bb1ad02998ec1e723370a65fbcbb51]: Commencement: Sch. para. 2 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
 
 [^f00014]: Footnote: [S.I. 2002/3007](https://www.legislation.gov.uk/uksi/2002/3007).
 
@@ -771,33 +771,33 @@ A full Impact Assessment has been produced for this instrument and copies are av
 
 [^f00016]: Footnote: Regulation 8(2) was amended by [S.I. 2004/696](https://www.legislation.gov.uk/uksi/2004/696).
 
-[^key-694751c00a0784be613d782b4c0c6933]: Commencement: Sch. para. 3 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
+[^c-694751c00a0784be613d782b4c0c6933]: Commencement: Sch. para. 3 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
 
 [^f00017]: Footnote: [S.I. 2002/3038](https://www.legislation.gov.uk/uksi/2002/3038).
 
-[^key-8605c91491aeeeb3ae3baa2bb9d56aeb]: Commencement: Sch. para. 4 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
+[^c-8605c91491aeeeb3ae3baa2bb9d56aeb]: Commencement: Sch. para. 4 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
 
 [^f00018]: Footnote: [S.I. 2003/1617](https://www.legislation.gov.uk/uksi/2003/1617).
 
 [^f00019]: Footnote: Sub-paragraph (f) was amended by [S.I. 2004/696](https://www.legislation.gov.uk/uksi/2004/696).
 
-[^key-74da113caeaab4eec6c0f754bc51de16]: Commencement: Sch. para. 5 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
+[^c-74da113caeaab4eec6c0f754bc51de16]: Commencement: Sch. para. 5 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
 
 [^f00020]: Footnote: [S.I. 2004/291](https://www.legislation.gov.uk/uksi/2004/291).
 
 [^f00021]: Footnote: [S.I. 2005/641](https://www.legislation.gov.uk/uksi/2005/641).
 
-[^key-b0398ed10cca5134bfbdfd2af1e7a282]: Commencement: Sch. para. 6 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
+[^c-b0398ed10cca5134bfbdfd2af1e7a282]: Commencement: Sch. para. 6 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
 
 [^f00022]: Footnote: [S.I. 2004/1768](https://www.legislation.gov.uk/uksi/2004/1768).
 
-[^key-d10aa1f7c80abcd01f1cc46320166cda]: Commencement: Sch. para. 7 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
+[^c-d10aa1f7c80abcd01f1cc46320166cda]: Commencement: Sch. para. 7 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
 
 [^f00023]: Footnote: [S.I. 2004/627](https://www.legislation.gov.uk/uksi/2004/627).
 
 [^f00024]: Footnote: Paragraph 47 was substituted by [S.I. 2005/3315](https://www.legislation.gov.uk/uksi/2005/3315).
 
-[^key-0565d48f6b03d85f9ec6348576b9b887]: Commencement: Sch. para. 8 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
+[^c-0565d48f6b03d85f9ec6348576b9b887]: Commencement: Sch. para. 8 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
 
 [^f00025]: Footnote: [S.I. 2005/641](https://www.legislation.gov.uk/uksi/2005/641)
 
@@ -805,14 +805,14 @@ A full Impact Assessment has been produced for this instrument and copies are av
 
 [^f00027]: Footnote: Regulation 27 was amended by [S.I. 2006/3373](https://www.legislation.gov.uk/uksi/2006/3373).
 
-[^key-3d627bbaafbf0b645f287864eb04995c]: Commencement: Sch. para. 9 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
+[^c-3d627bbaafbf0b645f287864eb04995c]: Commencement: Sch. para. 9 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
 
 [^f00028]: Footnote: [S.I. 2005/3361](https://www.legislation.gov.uk/uksi/2005/3361).
 
-[^key-8936e84f767341aaa31caf53b6ff9d5c]: Commencement: Sch. para. 10 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
+[^c-8936e84f767341aaa31caf53b6ff9d5c]: Commencement: Sch. para. 10 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
 
 [^f00029]: Footnote: [S.I. 2005/3373](https://www.legislation.gov.uk/uksi/2005/3373).
 
-[^key-2ee6e4e770b4c81d3b1d4f7c7299846c]: Commencement: Sch. para. 11 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
+[^c-2ee6e4e770b4c81d3b1d4f7c7299846c]: Commencement: Sch. para. 11 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/528/regulation/1/2)
 
 [^f00030]: Footnote: [S.I. 2006/552](https://www.legislation.gov.uk/uksi/2006/552).

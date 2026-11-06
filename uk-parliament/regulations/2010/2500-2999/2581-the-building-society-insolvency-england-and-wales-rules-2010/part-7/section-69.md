@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Estimate of quantum[^key-6132ef69dde123e07b174b68f14ffc6b]
+## 69. Estimate of quantum[^c-6132ef69dde123e07b174b68f14ffc6b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.86 of the 1986 Rules.
 
 ## Annotations
 
-[^key-6132ef69dde123e07b174b68f14ffc6b]: Commencement: Rule 69 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-6132ef69dde123e07b174b68f14ffc6b]: Commencement: Rule 69 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

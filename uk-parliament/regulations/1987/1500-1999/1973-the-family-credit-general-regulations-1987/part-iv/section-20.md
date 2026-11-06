@@ -24,7 +24,7 @@ summary: ''
 
 (2) There shall be disregarded from a claimant's net earnings, any sum, where applicable, specified in Schedule 1.
 
-(3) A claimant’s net earnings shall, except where paragraph (4)[^M_F_131154d0-b64b-471c-df38-48a681127236] or (4A)[^key-be2b4b0049c86f7f330b52e8f53ef330] applies, be calculated by taking into account his gross earnings from that employment [^M_F_acd53ce5-8ea3-4405-d594-4bffa21e5629]..., less—
+(3) A claimant’s net earnings shall, except where paragraph (4)[^M_F_131154d0-b64b-471c-df38-48a681127236] or (4A)[^c-be2b4b0049c86f7f330b52e8f53ef330] applies, be calculated by taking into account his gross earnings from that employment [^M_F_acd53ce5-8ea3-4405-d594-4bffa21e5629]..., less—
 
 - (a) any amount deducted from those earnings by way of—
   - (i) income tax;
@@ -32,13 +32,13 @@ summary: ''
 - (b) one-half of any sum paid by the claimant in respect of a pay period[^M_F_3a2e6b7e-3e9b-4c1a-830b-f23d80f12f8b] by way of a contribution towards an occupational or personal pension scheme; and[^M_F_d947ccd0-0e75-493a-9f59-159037431db3]
 - (c) the net amount of bonus or commission (if any) which is paid separately from his other earnings or is paid in respect of a period longer than the pay period relating to the other earnings with which it is paid and that net amount shall be the gross amount of that bonus or commission after deducting from it sums calculated in accordance with paragraphs (a) to (c) of regulation 20A (calculation of bonus or commission).
 
-(4) Where the earnings of a claimant are estimated under paragraph (6)[^M_F_bef7226e-8ba6-458d-e835-69cc81f994aa], (6A) or (6B)[^key-df1f3cffc5fdc4d2d22789db1d8106c2] of regulation 14 (normal weekly earnings of employed earners), his net earnings shall be calculated by taking into account those earnings over the period in respect of which the estimate is made[^M_F_2c129f9a-009a-4dd6-8808-8335c0a2c77a], less—
+(4) Where the earnings of a claimant are estimated under paragraph (6)[^M_F_bef7226e-8ba6-458d-e835-69cc81f994aa], (6A) or (6B)[^c-df1f3cffc5fdc4d2d22789db1d8106c2] of regulation 14 (normal weekly earnings of employed earners), his net earnings shall be calculated by taking into account those earnings over the period in respect of which the estimate is made[^M_F_2c129f9a-009a-4dd6-8808-8335c0a2c77a], less—
 
 - (a) an amount in respect of income tax equivalent to an amount calculated by applying to those earnings the lower rate or, as the case may be, the lower rate and the basic rate of tax[^M_F_a12e3626-f0e2-4ffa-ef00-accabd56f2c4] in the year of assessment in which the claim was made less only the personal relief to which the claimant is entitled under sections 8(1) and (2) and 14(1)(a) and (2) of the Income and Corporation Taxes Act 1970 [^c2180977] (personal relief) as is appropriate to his circumstances; but, if the assessment period is less than a year, the earnings to which the lower rate[^M_F_4c610683-25c5-4241-979e-037d867715cc] [^M_F_eaeb9613-fb6f-4c6c-9eb0-4f206bf29d58]... of tax is to be applied and the amount of the personal relief deductible under this sub-paragraph shall be calculated on a pro rata basis;
 - (b)[^M_F_7fcd677e-e766-4559-8208-b9235f17110b] where the weekly amount of those earnings equals or exceeds the lower earnings limit, an amount representing primary Class 1 contributions under the Contributions and Benefits Act, calculated by applying to those earnings the initial and main primary percentages applicable at the date of claim in accordance with section 8(1) (a) and (b) of that Act; and
 - (c)[^M_F_c42badb3-2e4f-4e99-c82f-6f97bf41a1fd] one half of any sum which would be payable by the claimant by way of a contribution towards an occupational or personal pension scheme, if the earnings so estimated were actual earnings.
 
-(4A)[^key-fcebd83979ba993556bfdf3574f4bd62] Where earnings are estimated under paragraph (6ZA) of regulation 14 (normal weekly earnings of employed earner in overseas territory), net earnings shall be calculated by taking into account those earnings over the period in respect of which the estimate is made, less—
+(4A)[^c-fcebd83979ba993556bfdf3574f4bd62] Where earnings are estimated under paragraph (6ZA) of regulation 14 (normal weekly earnings of employed earner in overseas territory), net earnings shall be calculated by taking into account those earnings over the period in respect of which the estimate is made, less—
 
 - (a) the amount (if any) of income tax deducted in respect of those earnings in accordance with the laws of the overseas territory concerned,
 - (b) the amount (if any) of social security contributions deducted in respect of those earnings in accordance with those laws, and
@@ -67,7 +67,7 @@ and the resulting amount shall be his average weekly net earnings.
 
 [^M_F_131154d0-b64b-471c-df38-48a681127236]: Textual amendment: Words in reg. 20(3) substituted (7.4.1992) by [The Family Credit (General) Amendment Regulations 1992 (S.I. 1992/573)](https://www.legislation.gov.uk/uksi/1992/573), regs. 1(1), 7(b)(i)
 
-[^key-be2b4b0049c86f7f330b52e8f53ef330]: Textual amendment: Words in [reg. 20(3)](https://www.legislation.gov.uk/uksi/1987/1973/regulation/20/3) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [Tax Credits (Miscellaneous Amendments No.4) Regulations 2002 (S.I. 2002/1696)](https://www.legislation.gov.uk/uksi/2002/1696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/1696/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2002/1696/regulation/8/a)
+[^c-be2b4b0049c86f7f330b52e8f53ef330]: Textual amendment: Words in [reg. 20(3)](https://www.legislation.gov.uk/uksi/1987/1973/regulation/20/3) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [Tax Credits (Miscellaneous Amendments No.4) Regulations 2002 (S.I. 2002/1696)](https://www.legislation.gov.uk/uksi/2002/1696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/1696/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2002/1696/regulation/8/a)
 
 [^M_F_acd53ce5-8ea3-4405-d594-4bffa21e5629]: Textual amendment: Words in reg. 20(3) omitted (7.1.1997) by [The Disability Working Allowance and Family Credit (General) Amendment Regulations 1996 (S.I. 1996/3137)](https://www.legislation.gov.uk/uksi/1996/3137), [regs. 1](https://www.legislation.gov.uk/uksi/1996/3137/regulation/1), [3(5)(b)](https://www.legislation.gov.uk/uksi/1996/3137/regulation/3/5/b)
 
@@ -79,7 +79,7 @@ and the resulting amount shall be his average weekly net earnings.
 
 [^M_F_bef7226e-8ba6-458d-e835-69cc81f994aa]: Textual amendment: Words in reg. 20(4) substituted (7.4.1992) by [The Family Credit (General) Amendment Regulations 1992 (S.I. 1992/573)](https://www.legislation.gov.uk/uksi/1992/573), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/573/regulation/1/1), [7(c)(i)](https://www.legislation.gov.uk/uksi/1992/573/regulation/7/c/i)
 
-[^key-df1f3cffc5fdc4d2d22789db1d8106c2]: Textual amendment: Words in reg. 20(4) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 3) Regulations 2001 (S.I. 2001/892)](https://www.legislation.gov.uk/uksi/2001/892), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2001/892/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2001/892/regulation/15/2)
+[^c-df1f3cffc5fdc4d2d22789db1d8106c2]: Textual amendment: Words in reg. 20(4) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 3) Regulations 2001 (S.I. 2001/892)](https://www.legislation.gov.uk/uksi/2001/892), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2001/892/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2001/892/regulation/15/2)
 
 [^M_F_2c129f9a-009a-4dd6-8808-8335c0a2c77a]: Textual amendment: Words in reg. 20(4) substituted (7.4.1992) by [The Family Credit (General) Amendment Regulations 1992 (S.I. 1992/573)](https://www.legislation.gov.uk/uksi/1992/573), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/573/regulation/1/1), [7(c)(ii)](https://www.legislation.gov.uk/uksi/1992/573/regulation/7/c/ii)
 
@@ -95,6 +95,6 @@ and the resulting amount shall be his average weekly net earnings.
 
 [^M_F_c42badb3-2e4f-4e99-c82f-6f97bf41a1fd]: Textual amendment: Reg. 20(4)(c) substituted (4.10.1994) by The Income-related [Benefits Schemes (Miscellaneous Amendments) (No.5) Regulations 1994 (S.I. 1994/2139)](https://www.legislation.gov.uk/uksi/1994/2139), regs. 1(1)(b), 15(3)
 
-[^key-fcebd83979ba993556bfdf3574f4bd62]: Textual amendment: [Reg. 20(4A)](https://www.legislation.gov.uk/uksi/1987/1973/regulation/20/4A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [Tax Credits (Miscellaneous Amendments No.4) Regulations 2002 (S.I. 2002/1696)](https://www.legislation.gov.uk/uksi/2002/1696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/1696/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2002/1696/regulation/8/b)
+[^c-fcebd83979ba993556bfdf3574f4bd62]: Textual amendment: [Reg. 20(4A)](https://www.legislation.gov.uk/uksi/1987/1973/regulation/20/4A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [Tax Credits (Miscellaneous Amendments No.4) Regulations 2002 (S.I. 2002/1696)](https://www.legislation.gov.uk/uksi/2002/1696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/1696/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2002/1696/regulation/8/b)
 
 [^M_F_6124c80e-4ab7-459f-f5d5-3e130c35bca8]: Textual amendment: Reg. 20(5) (6) added (7.4.1992) by [The Family Credit (General) Amendment Regulations 1992 (S.I. 1992/573)](https://www.legislation.gov.uk/uksi/1992/573), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/573/regulation/1/1), [7(d)](https://www.legislation.gov.uk/uksi/1992/573/regulation/7/d)

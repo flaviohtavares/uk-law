@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Consent to transfer benefit of this Order[^key-f9cce67ad0c2e341db32370cdad22e2e]
+## 7. Consent to transfer benefit of this Order[^c-f9cce67ad0c2e341db32370cdad22e2e]
 
 *Extent: E+W+S*
 
@@ -48,7 +48,7 @@ summary: ''
 - (c) the powers to be transferred or granted;
 - (d) pursuant to paragraph (3), the restrictions, liabilities and obligations that will apply to the person exercising the powers transferred or granted;
 - (e) where relevant, a plan showing the works or areas to which the transfer or grant relates; and
-- (f) a copy of the document effecting the transfer or grant signed by the Undertaker and the person to whom the benefit of the powers will be transferred or granted. The copy document provided under this paragraph may be redacted to remove any commercially sensitive information unless it is required to fulfil paragraphs (6)(a) to (e).[^key-89174c1ceafb0a3855619e89b50b3111]
+- (f) a copy of the document effecting the transfer or grant signed by the Undertaker and the person to whom the benefit of the powers will be transferred or granted. The copy document provided under this paragraph may be redacted to remove any commercially sensitive information unless it is required to fulfil paragraphs (6)(a) to (e).[^c-89174c1ceafb0a3855619e89b50b3111]
 
 (7) The date specified under paragraph (6)(b) must not be earlier than the expiry of five working days from the date of the receipt of the notice.
 
@@ -56,10 +56,10 @@ summary: ''
 
 ## Annotations
 
-[^key-f9cce67ad0c2e341db32370cdad22e2e]: Commencement: Art. 7 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-f9cce67ad0c2e341db32370cdad22e2e]: Commencement: Art. 7 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
 
 [^f00015]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 6 was amended by section 30 of the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27), and section 6(10) amended by section 89(3) of the Energy Act [2004 (c.20)](https://www.legislation.gov.uk/ukpga/2004/20). There are other amendments to the section that are not relevant to this Order.
 
 [^f00016]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). Section 7 was amended by section 5 of the Gas Act [1995 (c.45)](https://www.legislation.gov.uk/ukpga/1995/45) and section 76(2) of the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27). There are other amendments to the section that are not relevant to this Order.
 
-[^key-89174c1ceafb0a3855619e89b50b3111]: Textual amendment: Words in [art. 7(6)(f)](https://www.legislation.gov.uk/uksi/2017/766/article/7/6/f) inserted (16.2.2018) by [The Wrexham Gas Fired Generating Station (Correction) Order 2018 (S.I. 2018/193)](https://www.legislation.gov.uk/uksi/2018/193), [arts. 1](https://www.legislation.gov.uk/uksi/2018/193/article/1), [2](https://www.legislation.gov.uk/uksi/2018/193/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/193/schedule)
+[^c-89174c1ceafb0a3855619e89b50b3111]: Textual amendment: Words in [art. 7(6)(f)](https://www.legislation.gov.uk/uksi/2017/766/article/7/6/f) inserted (16.2.2018) by [The Wrexham Gas Fired Generating Station (Correction) Order 2018 (S.I. 2018/193)](https://www.legislation.gov.uk/uksi/2018/193), [arts. 1](https://www.legislation.gov.uk/uksi/2018/193/article/1), [2](https://www.legislation.gov.uk/uksi/2018/193/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/193/schedule)

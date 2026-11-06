@@ -33,8 +33,8 @@ have the meaning given by the relevant planning enactment.
 
 - (a) in relation to land in England or Wales, section 336(1) of the Town and Country Planning Act 1990 (c. 8);
 - (b) in relation to land in Scotland, section 277(1) of the Town and Country Planning (Scotland) Act 1997 (c. 8);
-- (c) in relation to land in Northern Ireland, section 250(1) of the Planning Act (Northern Ireland) 2011[^key-c27cc1abdc2dfa133064d15039c8e7dd].
+- (c) in relation to land in Northern Ireland, section 250(1) of the Planning Act (Northern Ireland) 2011[^c-c27cc1abdc2dfa133064d15039c8e7dd].
 
 ## Annotations
 
-[^key-c27cc1abdc2dfa133064d15039c8e7dd]: Textual amendment: Words in s. 436(2)(c) substituted (N.I.) (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 93](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/93) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2)
+[^c-c27cc1abdc2dfa133064d15039c8e7dd]: Textual amendment: Words in s. 436(2)(c) substituted (N.I.) (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 93](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/93) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2)

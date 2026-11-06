@@ -59,7 +59,7 @@ These Regulations make provision for a purpose mentioned in that section and it 
 - (11) Directive 2014/24/EU of the European Parliament and of the Council on public procurement and repealing Directive [2004/18/EC](https://www.legislation.gov.uk/european/directive/2004/0018) [^c22606171]; and
 - (12) \[Directive 2014/25/EU of the European Parliament and of the Council on procurement entities operating in the water, energy, transport and postal services sectors and repealing Directive [2004/17/EC](https://www.legislation.gov.uk/european/directive/2004/0017) [^c22606181],
 
-and they are to be construed accordingly.[^key-20ed5465daece34052c548c02c1b2cff]
+and they are to be construed accordingly.[^c-20ed5465daece34052c548c02c1b2cff]
 
 ## Contents
 
@@ -197,7 +197,7 @@ and they are to be construed accordingly.[^key-20ed5465daece34052c548c02c1b2cff]
 - [Section 82 — Retention of contract copies](part-2/section-82.md)
 - [Section 83 — Reporting and documentation requirements](part-2/section-83.md)
 
-#### CHAPTER 4A — REGULATIONS UNDER THIS PART[^key-be697e5d26276e13aa267b1a1d3cb347]
+#### CHAPTER 4A — REGULATIONS UNDER THIS PART[^c-be697e5d26276e13aa267b1a1d3cb347]
 
 - [Section 83A — General provisions about regulations under this Part](part-2/section-83a.md)
 
@@ -209,7 +209,7 @@ and they are to be construed accordingly.[^key-20ed5465daece34052c548c02c1b2cff]
 - [Section 85 — Notices of decisions to award a contract or conclude a framework agreement](part-3/section-85.md)
 - [Section 86 — Standstill period](part-3/section-86.md)
 
-#### CHAPTER 6 — APPLICATIONS TO THE COURT[^key-6d4305bcd75f03d10af649d1f6b35d7a]
+#### CHAPTER 6 — APPLICATIONS TO THE COURT[^c-6d4305bcd75f03d10af649d1f6b35d7a]
 
 - [Section 87 — Duty owed to economic operators , including those from countries with whom the EU has a relevant international agreement other than the GPA](part-3/section-87.md)
 - [Section 87A — Duty owed to economic operators from GPA parties](part-3/section-87a.md)
@@ -303,10 +303,10 @@ A regulatory impact assessment was published on 19th March 2015 (http://www.gov.
 
 [^c22606181]: Marginal citation: OJ L 94, 28.3.2014, p.243.
 
-[^key-20ed5465daece34052c548c02c1b2cff]: Modification: [Instrument](https://www.legislation.gov.uk/ssi/2015/446) applied (24.2.2025) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [ss. 119(2)(a)](https://www.legislation.gov.uk/ukpga/2023/54/section/119/2/a), [127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by S.I. 2024/959, [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-20ed5465daece34052c548c02c1b2cff]: Modification: [Instrument](https://www.legislation.gov.uk/ssi/2015/446) applied (24.2.2025) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [ss. 119(2)(a)](https://www.legislation.gov.uk/ukpga/2023/54/section/119/2/a), [127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by S.I. 2024/959, [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-be697e5d26276e13aa267b1a1d3cb347]: Textual amendment: [Pt. 2 Ch. 4A](https://www.legislation.gov.uk/ssi/2015/446/part/2/chapter/4A) inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(57)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/57) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-be697e5d26276e13aa267b1a1d3cb347]: Textual amendment: [Pt. 2 Ch. 4A](https://www.legislation.gov.uk/ssi/2015/446/part/2/chapter/4A) inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(57)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/57) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
 
-[^key-6d4305bcd75f03d10af649d1f6b35d7a]: Modification: [Pt. 3 Ch. 6](https://www.legislation.gov.uk/ssi/2015/446/part/3/chapter/6) modified by SSI 2010/390 reg. 6 (as amended) (18.4.2016) by [The Public Contracts (Scotland) Regulations 2015 (S.S.I. 2015/446)](https://www.legislation.gov.uk/ssi/2015/446), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/446/regulation/1/2), [sch. 6 para. 5(3)](https://www.legislation.gov.uk/ssi/2015/446/schedule/6/paragraph/5/3) (with [regs. 3-18](https://www.legislation.gov.uk/ssi/2015/446/regulation/3), [99-101](https://www.legislation.gov.uk/ssi/2015/446/regulation/99))
+[^c-6d4305bcd75f03d10af649d1f6b35d7a]: Modification: [Pt. 3 Ch. 6](https://www.legislation.gov.uk/ssi/2015/446/part/3/chapter/6) modified by SSI 2010/390 reg. 6 (as amended) (18.4.2016) by [The Public Contracts (Scotland) Regulations 2015 (S.S.I. 2015/446)](https://www.legislation.gov.uk/ssi/2015/446), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/446/regulation/1/2), [sch. 6 para. 5(3)](https://www.legislation.gov.uk/ssi/2015/446/schedule/6/paragraph/5/3) (with [regs. 3-18](https://www.legislation.gov.uk/ssi/2015/446/regulation/3), [99-101](https://www.legislation.gov.uk/ssi/2015/446/regulation/99))
 
 [^c22606981]: Marginal citation: By Council Directive 92/50/EEC relating to the coordination of procedures for the award of public services contracts (OJ L 209, 24.7.1992, p.1); by Directive 2007/66/EC of the European Parliament and Council amending Council Directives 89/665/EEC and 92/13/EEC with regard to improving the effectiveness of review procedures concerning the award of public contracts (OJ L 335, 20.12.2007, p.31); and by Directive 2014/23/EU of the European Parliament and of the Council on the award of concession contracts (OJ 94, 28.3.2014, p.1.).

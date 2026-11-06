@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Agreement as to matters appealed[^key-81ff468f8bb110acf16920a684324d36]
+## 72. Agreement as to matters appealed[^c-81ff468f8bb110acf16920a684324d36]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ An appeal under section 69 or 70 does not prevent the parties from settling or o
 
 ## Annotations
 
-[^key-81ff468f8bb110acf16920a684324d36]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2016/18/section/72) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)
+[^c-81ff468f8bb110acf16920a684324d36]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2016/18/section/72) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)

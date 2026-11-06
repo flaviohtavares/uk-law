@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17B. Prospective landlords’ duty to include information about property in advertisements: exempt property[^key-fd24339d8bd0f14e3fd25c0575ddf56f]
+## 17B. Prospective landlords’ duty to include information about property in advertisements: exempt property[^c-fd24339d8bd0f14e3fd25c0575ddf56f]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd24339d8bd0f14e3fd25c0575ddf56f]: Textual amendment: [S. 17B](https://www.legislation.gov.uk/asp/2016/19/section/17B) inserted (for the purposes of an advertisement placed on or after 1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 22(3)](https://www.legislation.gov.uk/asp/2025/13/section/22/3), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-fd24339d8bd0f14e3fd25c0575ddf56f]: Textual amendment: [S. 17B](https://www.legislation.gov.uk/asp/2016/19/section/17B) inserted (for the purposes of an advertisement placed on or after 1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 22(3)](https://www.legislation.gov.uk/asp/2025/13/section/22/3), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

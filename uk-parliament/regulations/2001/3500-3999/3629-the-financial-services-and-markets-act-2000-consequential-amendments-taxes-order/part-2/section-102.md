@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Leasing arrangements—finance leases and loans[^key-e0c9d93fc8ddb9c544a70590406ea91e]
+## 102. Leasing arrangements—finance leases and loans[^c-e0c9d93fc8ddb9c544a70590406ea91e]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0c9d93fc8ddb9c544a70590406ea91e]: Commencement: Art. 102 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-e0c9d93fc8ddb9c544a70590406ea91e]: Commencement: Art. 102 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

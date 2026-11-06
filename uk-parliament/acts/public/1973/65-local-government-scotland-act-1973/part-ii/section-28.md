@@ -26,7 +26,7 @@ summary: ''
 - “[^c9668761]**local government area**” means the area of a local authority;
 - “**substantive change**” has the meaning assigned to it by section 13(d) of this Act.
 
-(2) In considering the electoral arrangements for local government areas for the purposes of this Part of this Act, or section 4(1) of the Local Governance (Scotland) Act 2004 (asp 9)[^c19256451] the Secretary of State and Boundaries Scotland[^key-8cffa38a4b9541ca2113565d226af963] shall so far as is reasonably practicable comply with the rules set out in Schedule 6 to this Act, and the said arrangements shall be in accordance with the provisions of section 1 of the Local Governance (Scotland) Act 2004 (asp 9)[^c19256471].
+(2) In considering the electoral arrangements for local government areas for the purposes of this Part of this Act, or section 4(1) of the Local Governance (Scotland) Act 2004 (asp 9)[^c19256451] the Secretary of State and Boundaries Scotland[^c-8cffa38a4b9541ca2113565d226af963] shall so far as is reasonably practicable comply with the rules set out in Schedule 6 to this Act, and the said arrangements shall be in accordance with the provisions of section 1 of the Local Governance (Scotland) Act 2004 (asp 9)[^c19256471].
 
 (3) [^c19256031]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -40,7 +40,7 @@ summary: ''
 
 [^c19256451]: Textual amendment: Words in s. 28(2) inserted (2.5.2007) by [Local Governance (Scotland) Act 2004 (asp 9)](https://www.legislation.gov.uk/asp/2004/9), [ss. 4(5)(e)(i)](https://www.legislation.gov.uk/asp/2004/9/section/4/5/e/i), [17(2)](https://www.legislation.gov.uk/asp/2004/9/section/17/2); [S.S.I. 2007/25](https://www.legislation.gov.uk/ssi/2007/25), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/25/article/2/2)
 
-[^key-8cffa38a4b9541ca2113565d226af963]: Textual amendment: Words in s. 28(2) substituted (14.5.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [s. 35](https://www.legislation.gov.uk/asp/2020/12/section/35), [sch. para. 1(2)(j)](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/1/2/j); [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
+[^c-8cffa38a4b9541ca2113565d226af963]: Textual amendment: Words in s. 28(2) substituted (14.5.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [s. 35](https://www.legislation.gov.uk/asp/2020/12/section/35), [sch. para. 1(2)(j)](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/1/2/j); [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
 
 [^c19256471]: Textual amendment: Words in s. 28(2) substituted (2.5.2007) by [Local Governance (Scotland) Act 2004 (asp 9)](https://www.legislation.gov.uk/asp/2004/9), [ss. 4(5)(e)(ii)](https://www.legislation.gov.uk/asp/2004/9/section/4/5/e/ii), [17(2)](https://www.legislation.gov.uk/asp/2004/9/section/17/2); [S.S.I. 2007/25](https://www.legislation.gov.uk/ssi/2007/25), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/25/article/2/2)
 

@@ -23,7 +23,7 @@ summary: ''
 (1) A relevant authority may make recommendations to a district council with respect to the carrying out of—
 
 - (a) any particular air quality review,
-- (b) any particular assessment under Article 11 [^key-a45ed6367dd716052abbf8346f501fed]..., or
+- (b) any particular assessment under Article 11 [^c-a45ed6367dd716052abbf8346f501fed]..., or
 - (c) the preparation of any particular action plan or revision of an action plan,
 
 and the district council shall take into account any such recommendations.
@@ -34,4 +34,4 @@ and the district council shall take into account any such recommendations.
 
 ## Annotations
 
-[^key-a45ed6367dd716052abbf8346f501fed]: Textual amendment: Words in art. 16(1)(b) repealed (12.4.2016) by [Environmental Better Regulation Act (NorthernIreland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [ss. 18(2)](https://www.legislation.gov.uk/nia/2016/13/section/18/2), [27(1)](https://www.legislation.gov.uk/nia/2016/13/section/27/1), [Sch. 2](https://www.legislation.gov.uk/nia/2016/13/schedule/2)
+[^c-a45ed6367dd716052abbf8346f501fed]: Textual amendment: Words in art. 16(1)(b) repealed (12.4.2016) by [Environmental Better Regulation Act (NorthernIreland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [ss. 18(2)](https://www.legislation.gov.uk/nia/2016/13/section/18/2), [27(1)](https://www.legislation.gov.uk/nia/2016/13/section/27/1), [Sch. 2](https://www.legislation.gov.uk/nia/2016/13/schedule/2)

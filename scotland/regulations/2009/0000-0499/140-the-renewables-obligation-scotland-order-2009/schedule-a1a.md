@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## SCHEDULE A1A — GREENHOUSE GAS EMISSION CRITERIA FOR SOLID AND GASEOUS BIOMASS[^key-6c26d40169b1945fe31bbf962f5de5f0]
+## SCHEDULE A1A — GREENHOUSE GAS EMISSION CRITERIA FOR SOLID AND GASEOUS BIOMASS[^c-6c26d40169b1945fe31bbf962f5de5f0]
 
 ### PART 1 — Greenhouse gas emission criteria
 
@@ -175,4 +175,4 @@ For the purposes of paragraph 2, and subject to paragraph 4, the greenhouse gas 
 
 ## Annotations
 
-[^key-6c26d40169b1945fe31bbf962f5de5f0]: Textual amendment: Sch. A1A inserted (1.12.2015) by [The Renewables Obligation (Scotland) Amendment Order 2015 (S.S.I. 2015/384)](https://www.legislation.gov.uk/ssi/2015/384), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/384/article/1/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2015/384/schedule/1) (with [arts. 16](https://www.legislation.gov.uk/ssi/2015/384/article/16), [17](https://www.legislation.gov.uk/ssi/2015/384/article/17))
+[^c-6c26d40169b1945fe31bbf962f5de5f0]: Textual amendment: Sch. A1A inserted (1.12.2015) by [The Renewables Obligation (Scotland) Amendment Order 2015 (S.S.I. 2015/384)](https://www.legislation.gov.uk/ssi/2015/384), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/384/article/1/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2015/384/schedule/1) (with [arts. 16](https://www.legislation.gov.uk/ssi/2015/384/article/16), [17](https://www.legislation.gov.uk/ssi/2015/384/article/17))

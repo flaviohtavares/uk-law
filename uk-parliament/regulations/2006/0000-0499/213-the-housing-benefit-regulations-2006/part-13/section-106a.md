@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 106A. Recovery by deduction from earnings[^key-bad960b77f45f3d65963cc1c1ea21e3d]
+## 106A. Recovery by deduction from earnings[^c-bad960b77f45f3d65963cc1c1ea21e3d]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bad960b77f45f3d65963cc1c1ea21e3d]: Textual amendment: Reg. 106A inserted (8.4.2013) by [The Social Security (Overpayments and Recovery) Regulations 2013 (S.I. 2013/384)](https://www.legislation.gov.uk/uksi/2013/384), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2013/384/regulation/1/2/d), [33(3)](https://www.legislation.gov.uk/uksi/2013/384/regulation/33/3)
+[^c-bad960b77f45f3d65963cc1c1ea21e3d]: Textual amendment: Reg. 106A inserted (8.4.2013) by [The Social Security (Overpayments and Recovery) Regulations 2013 (S.I. 2013/384)](https://www.legislation.gov.uk/uksi/2013/384), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2013/384/regulation/1/2/d), [33(3)](https://www.legislation.gov.uk/uksi/2013/384/regulation/33/3)

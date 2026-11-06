@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31.13. Disclosure in stages[^key-76f669bbcbb54ccf3db59f1201d162ea]
+## 31.13. Disclosure in stages[^c-76f669bbcbb54ccf3db59f1201d162ea]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The parties may agree in writing, or the court may direct, that disclosure or in
 
 ## Annotations
 
-[^key-76f669bbcbb54ccf3db59f1201d162ea]: Commencement: [Rule 31.13](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.13) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-76f669bbcbb54ccf3db59f1201d162ea]: Commencement: [Rule 31.13](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.13) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

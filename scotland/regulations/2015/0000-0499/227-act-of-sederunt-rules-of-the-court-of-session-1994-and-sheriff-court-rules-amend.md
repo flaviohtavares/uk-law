@@ -49,7 +49,7 @@ In accordance with section 4 of the Scottish Civil Justice Council and Criminal 
 
 The Court of Session therefore makes this Act of Sederunt under the powers conferred by sections 103(1) and 104(1) of the Courts Reform (Scotland) Act 2014[^f00002] and all other powers enabling it to do so.
 
-## 1. Citation and commencement, etc.[^key-2990eda5ff7928930eea15d471d7e074]
+## 1. Citation and commencement, etc.[^c-2990eda5ff7928930eea15d471d7e074]
 
 (1) This Act of Sederunt may be cited as the Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015.
 
@@ -57,7 +57,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 
 (3) A certified copy is to be inserted in the Books of Sederunt.
 
-## 2. Amendment of the Rules of the Court of Session 1994: miscellaneous[^key-e66b8358a9fc44de3f03108892abbc1d]
+## 2. Amendment of the Rules of the Court of Session 1994: miscellaneous[^c-e66b8358a9fc44de3f03108892abbc1d]
 
 (1) The Rules of the Court of Session 1994[^f00003] are amended in accordance with this paragraph.
 
@@ -69,7 +69,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 
 (3) In rule 37.2(5) (citation of jurors)[^f00005], omit “by the first class recorded delivery service”.
 
-## 3. Amendment of the Rules of the Court of Session 1994: remits[^key-333f9ebdce855168b864323958664ac8]
+## 3. Amendment of the Rules of the Court of Session 1994: remits[^c-333f9ebdce855168b864323958664ac8]
 
 (1) The Rules of the Court of Session 1994 are amended in accordance with this paragraph.
 
@@ -140,7 +140,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 
 (5) In rule 32.7 (re-transmission to sheriff clerk), for “rule 32.4(1) or (2)” substitute “rule 32.4”.
 
-## 4. Amendment of the Rules of the Court of Session 1994: applications for new trial or to enter jury verdicts[^key-0b7313f63ec31b774a057cbf55950d7d]
+## 4. Amendment of the Rules of the Court of Session 1994: applications for new trial or to enter jury verdicts[^c-0b7313f63ec31b774a057cbf55950d7d]
 
 (1) The Rules of the Court of Session 1994 are amended in accordance with this paragraph.
 
@@ -208,11 +208,11 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 - (a) in Form 39.3 (form of note of objection to competency of application for a new trial)[^f00013] after the words “under section 29(1) of the Court of Session Act 1988” insert “\[*or* section 69(1) of the Courts Reform (Scotland) Act 2014\]”;
 - (b) in Form 39.4 (form of timetable in application for a new trial)[^f00014], in each of paragraphs 2 and 3, after “mentioned in rule 39.1(4)” insert “\[*or* rule 39.1A(4)\]”.
 
-## 5. Transitory provision: applications for new trial or to enter jury verdicts[^key-14cda869e533debd1841fcb391e9ea22]
+## 5. Transitory provision: applications for new trial or to enter jury verdicts[^c-14cda869e533debd1841fcb391e9ea22]
 
 Paragraph 4 has effect in relation to any application made under section 69 or 71 of the Courts Reform (Scotland) Act 2014 before 1st January 2016.
 
-## 6. Amendment of the Rules of the Court of Session 1994: personal injury[^key-e4a10373cbfea40808b441cfbd2721a9]
+## 6. Amendment of the Rules of the Court of Session 1994: personal injury[^c-e4a10373cbfea40808b441cfbd2721a9]
 
 (1) The Rules of the Court of Session 1994[^f00015] are amended in accordance with this paragraph.
 
@@ -397,7 +397,7 @@ Paragraph 4 has effect in relation to any application made under section 69 or 7
   - (i) for “(1) That the pre-trial meeting was held in this case at \[  \] on \[  \]”, substitute “(1) That the pre-trial meeting was held in this case at (*place*) \[*or* by video-conference\] on (*date*)”;
   - (ii) in Section 2, for “If the estimate is more or less than the 4 days”, substitute “If the estimate differs from the number of days previously allocated for the proof or trial”.
 
-## 7. Amendment of the Ordinary Cause Rules 1993: remits[^key-d0314de4a47dffa11fca6202240b3fd5]
+## 7. Amendment of the Ordinary Cause Rules 1993: remits[^c-d0314de4a47dffa11fca6202240b3fd5]
 
 (1) The Ordinary Cause Rules 1993[^f00028] are amended in accordance with this paragraph.
 
@@ -463,7 +463,7 @@ Paragraph 4 has effect in relation to any application made under section 69 or 7
 
 (5) In rule 26.3 (remit from Court of Session) for “section 14 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1985” substitute “section 93 of the 2014 Act (remit of cases from the Court of Session)”.
 
-## 8. Amendment of the Ordinary Cause Rules 1993: personal injury[^key-d468f89d3a97bac39d3a4e720f308a70]
+## 8. Amendment of the Ordinary Cause Rules 1993: personal injury[^c-d468f89d3a97bac39d3a4e720f308a70]
 
 (1) The Ordinary Cause Rules 1993[^f00029] are amended in accordance with this paragraph.
 
@@ -518,7 +518,7 @@ Paragraph 4 has effect in relation to any application made under section 69 or 7
 > - (a) to a personal injuries action within the meaning of Part A1 of Chapter 36 proceeding in the all-Scotland sheriff court;
 > - (b) where each party to such an action has provided to the sheriff clerk an email address for the purpose of transacting motion business.
 >
-> **15A.1A. Interpretation of this Chapter[^key-bda4ddbab62c137fddebb39d05147e8e]**
+> **15A.1A. Interpretation of this Chapter[^c-bda4ddbab62c137fddebb39d05147e8e]**
 >
 > (1) In this Chapter—
 >
@@ -962,7 +962,7 @@ Paragraph 4 has effect in relation to any application made under section 69 or 7
 >   - (i) whether reports of skilled persons have been exchanged;
 >   - (ii) the nature and extent of the dispute between skilled persons;
 >   - (iii) whether there are facts that can be agreed between parties, upon which skilled persons can comment;
->   - (iv) the extent to which agreement can be reached between the parties on the relevant literature upon which skilled persons intend to rely[^key-e975a5e6ddb9027aff8ea8c6cc887a6f];
+>   - (iv) the extent to which agreement can be reached between the parties on the relevant literature upon which skilled persons intend to rely[^c-e975a5e6ddb9027aff8ea8c6cc887a6f];
 >   - (v) whether there has been a meeting between skilled persons, or whether such a meeting would be useful;
 >   - (vi) whether a proof on a particular issue would allow scope for the matter to be resolved;
 >   - (vii) whether witness statements have been exchanged;
@@ -1194,7 +1194,7 @@ Paragraph 4 has effect in relation to any application made under section 69 or 7
 - (h) for Form PI7 (minute of pre-proof conference)[^f00049], substitute Form PI7 (form of minute of pre-trial meeting) set out in Schedule 2 to this Act of Sederunt;
 - (i) after Form PI7, insert Forms PI8 (form of oath for jurors) and PI9 (form of affirmation for jurors) set out in Schedule 2 to this Act of Sederunt.
 
-## 9. Amendment of the Summary Cause Rules 2002: remits[^key-41bafd0e5f4a1710f2413f607496df3f]
+## 9. Amendment of the Summary Cause Rules 2002: remits[^c-41bafd0e5f4a1710f2413f607496df3f]
 
 (1) The Summary Cause Rules 2002[^f00050] are amended in accordance with this paragraph.
 
@@ -1242,7 +1242,7 @@ Paragraph 4 has effect in relation to any application made under section 69 or 7
 
 (3) In rule 16.3 (remit from Court of Session), for “section 14 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (remit of cases from the Court of Session)” substitute “section 93 of the Courts Reform (Scotland) Act 2014 (remit of cases from the Court of Session)”.
 
-## 10. Saving: remits[^key-ba2515bc8432d72b37b10ca1792b6020]
+## 10. Saving: remits[^c-ba2515bc8432d72b37b10ca1792b6020]
 
 (1) Paragraphs 3(2), 7(5) and 9(3) do not apply to an action raised before 22nd September 2015.
 
@@ -1251,7 +1251,7 @@ Paragraph 4 has effect in relation to any application made under section 69 or 7
 - (a) granted a motion to remit the cause to the Court of Session; or
 - (b) remitted a cause to the Court of Session of the sheriff’s own accord.
 
-## 11. Saving: personal injury[^key-a92f4f1d952e036609898a89d231a8b2]
+## 11. Saving: personal injury[^c-a92f4f1d952e036609898a89d231a8b2]
 
 (1) Paragraph 6 does not apply to an action raised before 22nd September 2015.
 
@@ -1272,11 +1272,11 @@ Edinburgh
 
 2nd June 2015
 
-## SCHEDULE 1[^key-5d404eb7ebd0dec2c37e0c2dce019d7d]
+## SCHEDULE 1[^c-5d404eb7ebd0dec2c37e0c2dce019d7d]
 
 Paragraph 6(4)(a)
 
-## SCHEDULE 2[^key-340245ea274ebd9585852480cc2a6f13]
+## SCHEDULE 2[^c-340245ea274ebd9585852480cc2a6f13]
 
 Paragraph 8(16)
 
@@ -1314,9 +1314,9 @@ Paragraph 11(2) contains saving provisions for the Ordinary Cause Rules, providi
 
 [^f00002]: Footnote: [2014 asp 18](https://www.legislation.gov.uk/asp/2014/18).
 
-[^key-2990eda5ff7928930eea15d471d7e074]: Commencement: [Para. 1](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2)
+[^c-2990eda5ff7928930eea15d471d7e074]: Commencement: [Para. 1](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2)
 
-[^key-e66b8358a9fc44de3f03108892abbc1d]: Commencement: [Para. 2](https://www.legislation.gov.uk/ssi/2015/227/paragraph/2) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2)
+[^c-e66b8358a9fc44de3f03108892abbc1d]: Commencement: [Para. 2](https://www.legislation.gov.uk/ssi/2015/227/paragraph/2) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2)
 
 [^f00003]: Footnote: The Rules of the Court of Session 1994 are in Schedule 2 to the Act of Sederunt (Rules of the Court of Session 1994) 1994 ([S.I. 1994/1443](https://www.legislation.gov.uk/uksi/1994/1443), last amended by [S.S.I. 2015/119](https://www.legislation.gov.uk/ssi/2015/119)).
 
@@ -1324,9 +1324,9 @@ Paragraph 11(2) contains saving provisions for the Ordinary Cause Rules, providi
 
 [^f00005]: Footnote: Rule 37.2 was amended by [S.I. 1999/1386](https://www.legislation.gov.uk/uksi/1999/1386).
 
-[^key-333f9ebdce855168b864323958664ac8]: Commencement: [Para. 3](https://www.legislation.gov.uk/ssi/2015/227/paragraph/3) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2)
+[^c-333f9ebdce855168b864323958664ac8]: Commencement: [Para. 3](https://www.legislation.gov.uk/ssi/2015/227/paragraph/3) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2)
 
-[^key-0b7313f63ec31b774a057cbf55950d7d]: Commencement: [Para. 4](https://www.legislation.gov.uk/ssi/2015/227/paragraph/4) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2)
+[^c-0b7313f63ec31b774a057cbf55950d7d]: Commencement: [Para. 4](https://www.legislation.gov.uk/ssi/2015/227/paragraph/4) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2)
 
 [^f00006]: Footnote: Chapter 39 was substituted by [S.S.I. 2010/30](https://www.legislation.gov.uk/ssi/2010/30) and amended by [S.S.I. 2011/303](https://www.legislation.gov.uk/ssi/2011/303).
 
@@ -1346,9 +1346,9 @@ Paragraph 11(2) contains saving provisions for the Ordinary Cause Rules, providi
 
 [^f00014]: Footnote: Form 39.4 was inserted by [S.S.I. 2010/30](https://www.legislation.gov.uk/ssi/2010/30), and substituted by [S.S.I. 2011/303](https://www.legislation.gov.uk/ssi/2011/303).
 
-[^key-14cda869e533debd1841fcb391e9ea22]: Textual amendment: [Para. 5](https://www.legislation.gov.uk/ssi/2015/227/paragraph/5) substituted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [18(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/18/2) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-14cda869e533debd1841fcb391e9ea22]: Textual amendment: [Para. 5](https://www.legislation.gov.uk/ssi/2015/227/paragraph/5) substituted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [18(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/18/2) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
 
-[^key-e4a10373cbfea40808b441cfbd2721a9]: Commencement: [Para. 6](https://www.legislation.gov.uk/ssi/2015/227/paragraph/6) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2)
+[^c-e4a10373cbfea40808b441cfbd2721a9]: Commencement: [Para. 6](https://www.legislation.gov.uk/ssi/2015/227/paragraph/6) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2)
 
 [^f00015]: Footnote: The Rules of the Court of Session 1994 are in Schedule 2 to the Act of Sederunt (Rules of the Court of Session 1994) 1994 ([S.I. 1994/1443](https://www.legislation.gov.uk/uksi/1994/1443), last amended by [S.S.I. 2015/119](https://www.legislation.gov.uk/ssi/2015/119)).
 
@@ -1376,11 +1376,11 @@ Paragraph 11(2) contains saving provisions for the Ordinary Cause Rules, providi
 
 [^f00027]: Footnote: Form 43.10 was inserted by [S.S.I. 2002/570](https://www.legislation.gov.uk/ssi/2002/570) and amended by [S.S.I. 2007/282](https://www.legislation.gov.uk/ssi/2007/282).
 
-[^key-d0314de4a47dffa11fca6202240b3fd5]: Commencement: [Para. 7](https://www.legislation.gov.uk/ssi/2015/227/paragraph/7) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2)
+[^c-d0314de4a47dffa11fca6202240b3fd5]: Commencement: [Para. 7](https://www.legislation.gov.uk/ssi/2015/227/paragraph/7) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2)
 
 [^f00028]: Footnote: The Ordinary Cause Rules 1993 are in Schedule 1 to the Sheriff Courts (Scotland) Act [1907 (c. 51)](https://www.legislation.gov.uk/ukpga/1907/51). Schedule 1 was substituted by [S.I. 1993/1956](https://www.legislation.gov.uk/uksi/1993/1956) and was last amended by [S.S.I. 2015/176](https://www.legislation.gov.uk/ssi/2015/176).
 
-[^key-d468f89d3a97bac39d3a4e720f308a70]: Commencement: [Para. 8](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2)
+[^c-d468f89d3a97bac39d3a4e720f308a70]: Commencement: [Para. 8](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2)
 
 [^f00029]: Footnote: The Ordinary Cause Rules 1993 are in Schedule 1 to the Sheriff Courts (Scotland) Act [1907 (c. 51)](https://www.legislation.gov.uk/ukpga/1907/51). Schedule 1 was substituted by [S.I. 1993/1956](https://www.legislation.gov.uk/uksi/1993/1956) and was last amended by [S.S.I. 2015/176](https://www.legislation.gov.uk/ssi/2015/176).
 
@@ -1394,7 +1394,7 @@ Paragraph 11(2) contains saving provisions for the Ordinary Cause Rules, providi
 
 [^f00034]: Footnote: Chapter 15 was substituted by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445) and last amended by [S.S.I. 2010/279](https://www.legislation.gov.uk/ssi/2010/279).
 
-[^key-bda4ddbab62c137fddebb39d05147e8e]: Textual amendment: [Para. 8(5)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/5): in the inserted Ch. 15A, the first rule numbered 15A.2 is renumbered as 15A.1A (21.9.2015) by virtue of [Act of Sederunt (Ordinary Cause Rules 1993 Amendment and Miscellaneous Amendments) 2015 (S.S.I. 2015/296)](https://www.legislation.gov.uk/ssi/2015/296), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/296/paragraph/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2015/296/paragraph/4/2)
+[^c-bda4ddbab62c137fddebb39d05147e8e]: Textual amendment: [Para. 8(5)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/5): in the inserted Ch. 15A, the first rule numbered 15A.2 is renumbered as 15A.1A (21.9.2015) by virtue of [Act of Sederunt (Ordinary Cause Rules 1993 Amendment and Miscellaneous Amendments) 2015 (S.S.I. 2015/296)](https://www.legislation.gov.uk/ssi/2015/296), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/296/paragraph/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2015/296/paragraph/4/2)
 
 [^f00035]: Footnote: Rule 17.2 was substituted by [S.S.I. 2012/188](https://www.legislation.gov.uk/ssi/2012/188).
 
@@ -1414,7 +1414,7 @@ Paragraph 11(2) contains saving provisions for the Ordinary Cause Rules, providi
 
 [^f00043]: Footnote: Chapter 36 was last amended by [S.S.I. 2014/152](https://www.legislation.gov.uk/ssi/2014/152).
 
-[^key-e975a5e6ddb9027aff8ea8c6cc887a6f]: Textual amendment: Words in [para. 8(14)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/14) substituted (21.9.2015) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment and Miscellaneous Amendments) 2015 (S.S.I. 2015/296)](https://www.legislation.gov.uk/ssi/2015/296), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/296/paragraph/1/2), [4(3)](https://www.legislation.gov.uk/ssi/2015/296/paragraph/4/3)
+[^c-e975a5e6ddb9027aff8ea8c6cc887a6f]: Textual amendment: Words in [para. 8(14)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/14) substituted (21.9.2015) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment and Miscellaneous Amendments) 2015 (S.S.I. 2015/296)](https://www.legislation.gov.uk/ssi/2015/296), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/296/paragraph/1/2), [4(3)](https://www.legislation.gov.uk/ssi/2015/296/paragraph/4/3)
 
 [^f00044]: Footnote: Form G9 was substituted by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445).
 
@@ -1428,16 +1428,16 @@ Paragraph 11(2) contains saving provisions for the Ordinary Cause Rules, providi
 
 [^f00049]: Footnote: Form PI7 was inserted by [S.S.I. 2009/285](https://www.legislation.gov.uk/ssi/2009/285).
 
-[^key-41bafd0e5f4a1710f2413f607496df3f]: Commencement: [Para. 9](https://www.legislation.gov.uk/ssi/2015/227/paragraph/9) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2)
+[^c-41bafd0e5f4a1710f2413f607496df3f]: Commencement: [Para. 9](https://www.legislation.gov.uk/ssi/2015/227/paragraph/9) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2)
 
 [^f00050]: Footnote: The Summary Cause Rules 2002 are in Schedule 1 to the Act of Sederunt (Summary Cause Rules) 2002 ([S.S.I. 2002/132](https://www.legislation.gov.uk/ssi/2002/132), last amended by [S.S.I. 2014/291](https://www.legislation.gov.uk/ssi/2014/291)).
 
 [^f00051]: Footnote: [S.S.I. 2015/213](https://www.legislation.gov.uk/ssi/2015/213).
 
-[^key-ba2515bc8432d72b37b10ca1792b6020]: Commencement: [Para. 10](https://www.legislation.gov.uk/ssi/2015/227/paragraph/10) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2)
+[^c-ba2515bc8432d72b37b10ca1792b6020]: Commencement: [Para. 10](https://www.legislation.gov.uk/ssi/2015/227/paragraph/10) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2)
 
-[^key-a92f4f1d952e036609898a89d231a8b2]: Commencement: [Para. 11](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2)
+[^c-a92f4f1d952e036609898a89d231a8b2]: Commencement: [Para. 11](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2)
 
-[^key-5d404eb7ebd0dec2c37e0c2dce019d7d]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2015/227/schedule/1) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2)
+[^c-5d404eb7ebd0dec2c37e0c2dce019d7d]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2015/227/schedule/1) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2)
 
-[^key-340245ea274ebd9585852480cc2a6f13]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2015/227/schedule/2) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2)
+[^c-340245ea274ebd9585852480cc2a6f13]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2015/227/schedule/2) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 57. Self-employed earnings[^key-b8cb8591fb58644503ea58c55dc871e2]
+## 57. Self-employed earnings[^c-b8cb8591fb58644503ea58c55dc871e2]
 
 *Extent: E+W+S*
 
 (1) This regulation applies for the purpose of calculating earned income that is not employed earnings and is derived from carrying on a trade, profession or vocation (“self-employed earnings”).
 
-(2)[^key-74c15a3fb811dcd9431e363b5bc5e83f] A person’s self-employed earnings in respect of an assessment period are to be calculated as follows.
+(2)[^c-74c15a3fb811dcd9431e363b5bc5e83f] A person’s self-employed earnings in respect of an assessment period are to be calculated as follows.
 
 *Step 1*
 
@@ -57,16 +57,16 @@ If the amount resulting from this step is greater than nil, that is the amount o
 
 If the amount resulting from this step is nil or a negative amount, the amount of the person’s self-employed earnings in respect of the assessment period is nil.
 
-(4) The receipts referred to in paragraph (2)[^key-6f8973377b1efba86cdccb7b63e5e87b] include receipts in kind and any refund or repayment of income tax, value added tax or national insurance contributions relating to the trade, profession or vocation.
+(4) The receipts referred to in paragraph (2)[^c-6f8973377b1efba86cdccb7b63e5e87b] include receipts in kind and any refund or repayment of income tax, value added tax or national insurance contributions relating to the trade, profession or vocation.
 
-(5)[^key-cb708797bdc5565b6e634ec056c15a12] Where the purchase of an asset has been deducted as an expense in any assessment period and, in a subsequent assessment period, the asset is sold or ceases to be used for the purposes of a trade, profession or vocation carried on by the person, the proceeds of sale (or, as the case may be, the amount that would be received for the asset if it were sold at its current market value) are to be treated as a receipt in that subsequent assessment period.
+(5)[^c-cb708797bdc5565b6e634ec056c15a12] Where the purchase of an asset has been deducted as an expense in any assessment period and, in a subsequent assessment period, the asset is sold or ceases to be used for the purposes of a trade, profession or vocation carried on by the person, the proceeds of sale (or, as the case may be, the amount that would be received for the asset if it were sold at its current market value) are to be treated as a receipt in that subsequent assessment period.
 
 ## Annotations
 
-[^key-b8cb8591fb58644503ea58c55dc871e2]: Modification: [Reg. 57](https://www.legislation.gov.uk/uksi/2013/376/regulation/57) modified (21.5.2020) by [The Universal Credit (Coronavirus) (Self-employed Claimants and Reclaims) (Amendment) Regulations 2020 (S.I. 2020/522)](https://www.legislation.gov.uk/uksi/2020/522), [regs. 1](https://www.legislation.gov.uk/uksi/2020/522/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2020/522/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2020/522/regulation/2/3)
+[^c-b8cb8591fb58644503ea58c55dc871e2]: Modification: [Reg. 57](https://www.legislation.gov.uk/uksi/2013/376/regulation/57) modified (21.5.2020) by [The Universal Credit (Coronavirus) (Self-employed Claimants and Reclaims) (Amendment) Regulations 2020 (S.I. 2020/522)](https://www.legislation.gov.uk/uksi/2020/522), [regs. 1](https://www.legislation.gov.uk/uksi/2020/522/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2020/522/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2020/522/regulation/2/3)
 
-[^key-74c15a3fb811dcd9431e363b5bc5e83f]: Textual amendment: Reg. 57(2) substituted for reg. 57(2)(3) (11.4.2018) by [The Universal Credit (Surpluses and Self-employed Losses) (Digital Service) Amendment Regulations 2015 (S.I. 2015/345)](https://www.legislation.gov.uk/uksi/2015/345), [regs. 1](https://www.legislation.gov.uk/uksi/2015/345/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/345/regulation/3/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2015/345/regulation/4)) (as amended by [S.I. 2017/197](https://www.legislation.gov.uk/uksi/2017/197), reg. 2 and [S.I. 2018/65](https://www.legislation.gov.uk/uksi/2018/65), reg. 7)
+[^c-74c15a3fb811dcd9431e363b5bc5e83f]: Textual amendment: Reg. 57(2) substituted for reg. 57(2)(3) (11.4.2018) by [The Universal Credit (Surpluses and Self-employed Losses) (Digital Service) Amendment Regulations 2015 (S.I. 2015/345)](https://www.legislation.gov.uk/uksi/2015/345), [regs. 1](https://www.legislation.gov.uk/uksi/2015/345/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/345/regulation/3/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2015/345/regulation/4)) (as amended by [S.I. 2017/197](https://www.legislation.gov.uk/uksi/2017/197), reg. 2 and [S.I. 2018/65](https://www.legislation.gov.uk/uksi/2018/65), reg. 7)
 
-[^key-6f8973377b1efba86cdccb7b63e5e87b]: Textual amendment: Words in reg. 57(4) substituted (11.4.2018) by [The Universal Credit (Surpluses and Self-employed Losses) (Digital Service) Amendment Regulations 2015 (S.I. 2015/345)](https://www.legislation.gov.uk/uksi/2015/345), [regs. 1](https://www.legislation.gov.uk/uksi/2015/345/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2015/345/regulation/3/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2015/345/regulation/4)) (as amended by [S.I. 2017/197](https://www.legislation.gov.uk/uksi/2017/197), reg. 2 and [S.I. 2018/65](https://www.legislation.gov.uk/uksi/2018/65), reg. 7)
+[^c-6f8973377b1efba86cdccb7b63e5e87b]: Textual amendment: Words in reg. 57(4) substituted (11.4.2018) by [The Universal Credit (Surpluses and Self-employed Losses) (Digital Service) Amendment Regulations 2015 (S.I. 2015/345)](https://www.legislation.gov.uk/uksi/2015/345), [regs. 1](https://www.legislation.gov.uk/uksi/2015/345/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2015/345/regulation/3/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2015/345/regulation/4)) (as amended by [S.I. 2017/197](https://www.legislation.gov.uk/uksi/2017/197), reg. 2 and [S.I. 2018/65](https://www.legislation.gov.uk/uksi/2018/65), reg. 7)
 
-[^key-cb708797bdc5565b6e634ec056c15a12]: Textual amendment: Reg. 57(5) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Universal Credit and Miscellaneous Amendments (No.2) Regulations 2014 (S.I. 2014/2888)](https://www.legislation.gov.uk/uksi/2014/2888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/4/3)
+[^c-cb708797bdc5565b6e634ec056c15a12]: Textual amendment: Reg. 57(5) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Universal Credit and Miscellaneous Amendments (No.2) Regulations 2014 (S.I. 2014/2888)](https://www.legislation.gov.uk/uksi/2014/2888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/4/3)

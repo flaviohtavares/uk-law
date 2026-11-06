@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Monetary penalties[^key-7504721c83821db05a111e1bef991cf5][^key-12e1944b987da353c6fc6005f17c4a35]
+## 57. Monetary penalties[^c-7504721c83821db05a111e1bef991cf5][^c-12e1944b987da353c6fc6005f17c4a35]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,8 +30,8 @@ The following provisions are to be regarded as not being financial sanctions leg
 
 ## Annotations
 
-[^key-7504721c83821db05a111e1bef991cf5]: Commencement: Reg. 57 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
+[^c-7504721c83821db05a111e1bef991cf5]: Commencement: Reg. 57 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
 
-[^key-12e1944b987da353c6fc6005f17c4a35]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2019/438/regulation/57) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-12e1944b987da353c6fc6005f17c4a35]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2019/438/regulation/57) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23620001]: Marginal citation: See section 143(4)(f) and (4A), as inserted by the Act, Schedule 3, paragraph 8(1) and (3).

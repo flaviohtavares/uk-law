@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-5f92e5c350c15f13d11b4693dcaa869c] In section 57 (guardianship orders) of the 2000 Act—
+(1)[^c-5f92e5c350c15f13d11b4693dcaa869c] In section 57 (guardianship orders) of the 2000 Act—
 
 - (a) in subsection (3)(a), for “an approved” substitute “ a relevant ”,
 - (b) after subsection (3), insert—
@@ -51,14 +51,14 @@ summary: ''
   ,
 - (e) in subsection (7), for “(3)(a)” substitute “ (6B) ”.
 
-(2)[^key-5f92e5c350c15f13d11b4693dcaa869c] In section 58 (disposal of application for guardianship) of the 2000 Act—
+(2)[^c-5f92e5c350c15f13d11b4693dcaa869c] In section 58 (disposal of application for guardianship) of the 2000 Act—
 
 - (a) in subsection (6)—
   - (i) for the words from “shall” to the end of paragraph (b) substitute “ may ”,
   - (ii) after “caution”, where last occurring, insert “ or to give such other security as the sheriff thinks fit ”,
 - (b) in subsection (7)(b), after “caution” insert “ or given other security ”.
 
-(3)[^key-5f92e5c350c15f13d11b4693dcaa869c] In section 60 (renewal of guardianship)—
+(3)[^c-5f92e5c350c15f13d11b4693dcaa869c] In section 60 (renewal of guardianship)—
 
 - (a) for subsection (3) substitute—
 
@@ -86,20 +86,20 @@ summary: ''
 
   .
 
-(4)[^key-5f92e5c350c15f13d11b4693dcaa869c] In section 61(3) (application for registration of guardianship order) of the 2000 Act, after “caution” insert “ or giving other security ”.
+(4)[^c-5f92e5c350c15f13d11b4693dcaa869c] In section 61(3) (application for registration of guardianship order) of the 2000 Act, after “caution” insert “ or giving other security ”.
 
-(5)[^key-5f92e5c350c15f13d11b4693dcaa869c] In section 62(5)(b) (duty to issue certificate of additional guardian's appointment) of the 2000 Act, after “caution” insert “ or given other security ”.
+(5)[^c-5f92e5c350c15f13d11b4693dcaa869c] In section 62(5)(b) (duty to issue certificate of additional guardian's appointment) of the 2000 Act, after “caution” insert “ or given other security ”.
 
-(6)[^key-5f92e5c350c15f13d11b4693dcaa869c] In section 63 (substitute guardian) of the 2000 Act—
+(6)[^c-5f92e5c350c15f13d11b4693dcaa869c] In section 63 (substitute guardian) of the 2000 Act—
 
 - (a) in subsection (5)—
   - (i) for the words from “shall” to the end of paragraph (b) substitute “ may ”,
   - (ii) after “caution”, where last occurring, insert “ or to give such other security as the sheriff thinks fit ”,
 - (b) in subsection (9)(b), after “caution” insert “ or given other security ”.
 
-(7)[^key-1a66216c2c9b2e94dbe43150fa25d9b3] In section 64(2)(b) (medical treatment to which a guardian cannot consent), for “mentioned in section 48(1) or (2)” substitute “ in relation to which the authority conferred by section 47(2) does not apply by virtue of regulations made under section 48(2) ”.
+(7)[^c-1a66216c2c9b2e94dbe43150fa25d9b3] In section 64(2)(b) (medical treatment to which a guardian cannot consent), for “mentioned in section 48(1) or (2)” substitute “ in relation to which the authority conferred by section 47(2) does not apply by virtue of regulations made under section 48(2) ”.
 
-(8)[^key-1a66216c2c9b2e94dbe43150fa25d9b3] In section 70 (non-compliance with guardian's decisions)—
+(8)[^c-1a66216c2c9b2e94dbe43150fa25d9b3] In section 70 (non-compliance with guardian's decisions)—
 
 - (a) in subsection (1), the words “or by any other person”, “or other person” and “or any person named in the order” are repealed,
 - (b) after subsection (4) insert—
@@ -111,7 +111,7 @@ summary: ''
 
   .
 
-(9)[^key-5f92e5c350c15f13d11b4693dcaa869c] In section 71 (replacement etc. of guardian) of the 2000 Act—
+(9)[^c-5f92e5c350c15f13d11b4693dcaa869c] In section 71 (replacement etc. of guardian) of the 2000 Act—
 
 - (a) in subsection (2)—
   - (i) for the words from “shall” to the end of paragraph (b) substitute “ may ”,
@@ -120,13 +120,13 @@ summary: ''
   - (i) in sub-paragraph (i), after “caution” insert “ or given other security ”,
   - (ii) in sub-paragraph (ii), after “caution” insert “ or given other security ”.
 
-(10)[^key-1a66216c2c9b2e94dbe43150fa25d9b3] In section 72(1) (discharge of guardian with financial powers), after paragraph (a) insert—
+(10)[^c-1a66216c2c9b2e94dbe43150fa25d9b3] In section 72(1) (discharge of guardian with financial powers), after paragraph (a) insert—
 
 > - (aa) the expiry of such a guardianship order;
 
 .
 
-(11)[^key-5f92e5c350c15f13d11b4693dcaa869c] In section 73 (recall of guardian's powers) of the 2000 Act—
+(11)[^c-5f92e5c350c15f13d11b4693dcaa869c] In section 73 (recall of guardian's powers) of the 2000 Act—
 
 - (a) in subsection (3), the words from “(other” to “guardian)” are repealed,
 - (b) after subsection (3) insert—
@@ -140,7 +140,7 @@ summary: ''
 
   .
 
-(12)[^key-5f92e5c350c15f13d11b4693dcaa869c] After section 73 of the 2000 Act insert—
+(12)[^c-5f92e5c350c15f13d11b4693dcaa869c] After section 73 of the 2000 Act insert—
 
 > **73A. Recall of chief social work officer's guardianship powers**
 >
@@ -160,16 +160,16 @@ summary: ''
 
 .
 
-(13)[^key-5f92e5c350c15f13d11b4693dcaa869c] In section 74 (variation of guardianship) of the 2000 Act—
+(13)[^c-5f92e5c350c15f13d11b4693dcaa869c] In section 74 (variation of guardianship) of the 2000 Act—
 
 - (a) in subsection (2)—
   - (i) for the words from “shall” to the end of paragraph (b) substitute “ may ”,
   - (ii) after “caution”, where last occurring, insert “ or to give such other security as the sheriff thinks fit ”,
 - (b) in subsection (5)(c), after “caution” insert “ or other security ”.
 
-(14)[^key-5f92e5c350c15f13d11b4693dcaa869c] In section 75(3)(b) (duty to issue certificate of substitute guardian's appointment) of the 2000 Act, after “caution” insert “ or given other security ”.
+(14)[^c-5f92e5c350c15f13d11b4693dcaa869c] In section 75(3)(b) (duty to issue certificate of substitute guardian's appointment) of the 2000 Act, after “caution” insert “ or given other security ”.
 
-(15)[^key-1a66216c2c9b2e94dbe43150fa25d9b3] After section 75 insert—
+(15)[^c-1a66216c2c9b2e94dbe43150fa25d9b3] After section 75 insert—
 
 > **75A. Death of guardian**
 >
@@ -186,7 +186,7 @@ summary: ''
 
 .
 
-(16)[^key-5f92e5c350c15f13d11b4693dcaa869c] After section 79 insert—
+(16)[^c-5f92e5c350c15f13d11b4693dcaa869c] After section 79 insert—
 
 > **Guardianship orders: children**
 >
@@ -196,7 +196,7 @@ summary: ''
 
 .
 
-(17)[^key-1a66216c2c9b2e94dbe43150fa25d9b3] In paragraph 6 (application of 2000 Act to curator bonis, tutor-dative or tutor-at-law treated as guardian appointed under that Act) of schedule 4 to the 2000 Act—
+(17)[^c-1a66216c2c9b2e94dbe43150fa25d9b3] In paragraph 6 (application of 2000 Act to curator bonis, tutor-dative or tutor-at-law treated as guardian appointed under that Act) of schedule 4 to the 2000 Act—
 
 - (a) in sub-paragraph (3), for the words from “to the period” to the end of that sub-paragraph substitute
 
@@ -249,6 +249,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5f92e5c350c15f13d11b4693dcaa869c]: Commencement: S. 60(1)-(6)(9)(11)-(14)(16) in force at 1.4.2008 by [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
+[^c-5f92e5c350c15f13d11b4693dcaa869c]: Commencement: S. 60(1)-(6)(9)(11)-(14)(16) in force at 1.4.2008 by [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
 
-[^key-1a66216c2c9b2e94dbe43150fa25d9b3]: Commencement: S. 60(7)(8)(10)(15)(17) in force at 5.10.2007 by [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/334/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/334/schedule/2) (with [art. 5](https://www.legislation.gov.uk/ssi/2007/334/article/5))
+[^c-1a66216c2c9b2e94dbe43150fa25d9b3]: Commencement: S. 60(7)(8)(10)(15)(17) in force at 5.10.2007 by [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/334/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/334/schedule/2) (with [art. 5](https://www.legislation.gov.uk/ssi/2007/334/article/5))

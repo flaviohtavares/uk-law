@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. General[^key-52c34e0f6de11be9ac21149e536421de]
+## 44. General[^c-52c34e0f6de11be9ac21149e536421de]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52c34e0f6de11be9ac21149e536421de]: Commencement: Reg. 44 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-52c34e0f6de11be9ac21149e536421de]: Commencement: Reg. 44 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)

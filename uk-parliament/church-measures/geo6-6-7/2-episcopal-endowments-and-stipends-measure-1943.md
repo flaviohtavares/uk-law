@@ -40,7 +40,7 @@ A Measure passed by the National Assembly of the Church of England To make provi
 - (a) vesting in the Commissioners for the purposes of this Measure all endowments and other property belonging to, or held in trust for, the see or the bishop; and
 - (b) securing to the bishop by way of a charge on their general fund such reduced stipend as the Commissioners deem appropriate:
 
-  [^key-f1f1704290365cc8025afbafaa42ae79]...
+  [^c-f1f1704290365cc8025afbafaa42ae79]...
 
 (2) An Order in Council confirming a scheme shall be published in the London Gazette and, upon such publication, the scheme shall come into operation and shall have the force of law.
 
@@ -48,7 +48,7 @@ A Measure passed by the National Assembly of the Church of England To make provi
 
 The endowments and other property to be vested in the Commissioners by a scheme shall be specified in a schedule thereto and, upon the scheme coming into operation, shall, without any conveyance or other assurance, vest in the Commissioners, freed and discharged from all previously existing trusts in favour of the see or the bishop.
 
-## 3. Episcopal houses of residence.[^key-1ac4697da998345604bbbb154e236bc4]
+## 3. Episcopal houses of residence.[^c-1ac4697da998345604bbbb154e236bc4]
 
 (1) Where by a scheme a house of residence has become vested in the Commissioners, they may, at any time while it remains so vested, make therein such alterations, if any, as they deem necessary and let it to the bishop, and, if at any time they are of opinion that it is too large, or is not and cannot be made convenient, or is not required, for occupation by the bishop, they may deal with it in any of the following ways, that is to say, they may—
 
@@ -63,11 +63,11 @@ The endowments and other property to be vested in the Commissioners by a scheme 
 
 (3) Any house, or part of a house, let to the bishop under this section shall be an episcopal house of residence of the see.
 
-## 4. Protection for buildings of historical, &c., interest.[^key-6e33822627df3a8f9afe60969804435b]
+## 4. Protection for buildings of historical, &c., interest.[^c-6e33822627df3a8f9afe60969804435b]
 
 Where, in the case of any house of residence, the exercise of any power conferred by this Measure, would in the opinion of the Commissioners affect any building or archaeological, historical or artistic interest (including any such building in the vicinity of the house of residence in question), the Commissioners, before exercising that power, shall consider what consequences would be likely to result from the exercise thereof and what restrictive or other conditions, if any, should be imposed upon a purchaser or lessee, and, if they consider that any such building may be prejudicially affected by the exercise of the power, shall consult with the Ancient Monuments Board for England, constituted under the Ancient Monuments Acts 1913 and 1931, and, if they think fit, with any other person qualified to advise on such matters.
 
-## 5. Powers of Commissioners to pay expenses[^key-ade3a070489916df018d341c4040f919]
+## 5. Powers of Commissioners to pay expenses[^c-ade3a070489916df018d341c4040f919]
 
 Where a scheme is in force in respect of a see, the Commissioners may—
 
@@ -84,7 +84,7 @@ A scheme may at any time be amended by a subsequent scheme prepared, submitted a
 
 (1) In this Measure the following expressions have the meanings hereby respectively assigned to them—
 
-- “**the bishop**” [^key-1dc3fe57dc92b16bd70a85ce183adf1e]..., means the bishop for the time being of the diocese in question;
+- “**the bishop**” [^c-1dc3fe57dc92b16bd70a85ce183adf1e]..., means the bishop for the time being of the diocese in question;
 - “**diocesan authority**” has the same meaning as in the Parochial Church Councils (Powers) Measure[^c920593] [^c920594]1956;
 - “**endowments**” includes any commutation or other payment charged on the common fund of the Commissioners and any money in their hands which represents the proceeds of a sale of land, or of a house of residence, or a fund for repair of a house of residence;
 - “**house of residence**” includes any grounds attached to such a house and any buildings occupied therewith;
@@ -107,23 +107,23 @@ This Measure may be cited as the Episcopal Endowments and Stipends Measure 1943.
 
 [^c920587]: Textual amendment: Words substituted by virtue of [Church Commissioners Measure 1947 (No. 2)](https://www.legislation.gov.uk/ukcm/1947/2), [s. 18(2)](https://www.legislation.gov.uk/ukcm/1947/2/section/18/2)
 
-[^key-f1f1704290365cc8025afbafaa42ae79]: Textual amendment: [S. 1(1) Proviso](https://www.legislation.gov.uk/ukcm/Geo6/6-7/2/section/1/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(1)
+[^c-f1f1704290365cc8025afbafaa42ae79]: Textual amendment: [S. 1(1) Proviso](https://www.legislation.gov.uk/ukcm/Geo6/6-7/2/section/1/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(1)
 
-[^key-1ac4697da998345604bbbb154e236bc4]: Modification: S. 3 excluded (31.1.2011) by [Ecclesiastical Offices (Terms of Service) Measure 2009 (No. 1)](https://www.legislation.gov.uk/ukcm/2009/1), [ss. 11(5)](https://www.legislation.gov.uk/ukcm/2009/1/section/11/5), [13(2)](https://www.legislation.gov.uk/ukcm/2009/1/section/13/2) (with [s. 9](https://www.legislation.gov.uk/ukcm/2009/1/section/9)); [2010 No. 8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
+[^c-1ac4697da998345604bbbb154e236bc4]: Modification: S. 3 excluded (31.1.2011) by [Ecclesiastical Offices (Terms of Service) Measure 2009 (No. 1)](https://www.legislation.gov.uk/ukcm/2009/1), [ss. 11(5)](https://www.legislation.gov.uk/ukcm/2009/1/section/11/5), [13(2)](https://www.legislation.gov.uk/ukcm/2009/1/section/13/2) (with [s. 9](https://www.legislation.gov.uk/ukcm/2009/1/section/9)); [2010 No. 8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
 
 [^c920589]: Textual amendment: Words substituted by virtue of [Interpretation Measure 1925 (No. 1)](https://www.legislation.gov.uk/ukcm/1925/1), [s. 1](https://www.legislation.gov.uk/ukcm/1925/1/section/1)
 
 [^c920590]: Marginal citation: [1964 No. 5](https://www.legislation.gov.uk/ukcm/1964/5).
 
-[^key-6e33822627df3a8f9afe60969804435b]: Modification: S. 4 extended (31.1.2011) by [Ecclesiastical Offices (Terms of Service) Measure 2009 (No. 1)](https://www.legislation.gov.uk/ukcm/2009/1), [ss. 11(5)](https://www.legislation.gov.uk/ukcm/2009/1/section/11/5), [13(2)](https://www.legislation.gov.uk/ukcm/2009/1/section/13/2) (with [s. 9](https://www.legislation.gov.uk/ukcm/2009/1/section/9)); [2010 No. 8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
+[^c-6e33822627df3a8f9afe60969804435b]: Modification: S. 4 extended (31.1.2011) by [Ecclesiastical Offices (Terms of Service) Measure 2009 (No. 1)](https://www.legislation.gov.uk/ukcm/2009/1), [ss. 11(5)](https://www.legislation.gov.uk/ukcm/2009/1/section/11/5), [13(2)](https://www.legislation.gov.uk/ukcm/2009/1/section/13/2) (with [s. 9](https://www.legislation.gov.uk/ukcm/2009/1/section/9)); [2010 No. 8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
 
-[^key-ade3a070489916df018d341c4040f919]: Textual amendment: S. 5 substituted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1) , [ss. 3](https://www.legislation.gov.uk/ukcm/2014/1/section/3) , [21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2) ; [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369) , [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
+[^c-ade3a070489916df018d341c4040f919]: Textual amendment: S. 5 substituted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1) , [ss. 3](https://www.legislation.gov.uk/ukcm/2014/1/section/3) , [21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2) ; [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369) , [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
 
 [^c920591]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukcm/Geo6/6-7/2/section/6) repealed by [Episcopal Pensions Measure 1945 (No. 2)](https://www.legislation.gov.uk/ukcm/1945/2), [s. 9(2)](https://www.legislation.gov.uk/ukcm/1945/2/section/9/2)
 
 [^c920592]: Textual amendment: Words substituted by virtue of [Synodical Government Measure 1969 (No. 2)](https://www.legislation.gov.uk/ukcm/1969/2), [s. 2](https://www.legislation.gov.uk/ukcm/1969/2/section/2)
 
-[^key-1dc3fe57dc92b16bd70a85ce183adf1e]: Textual amendment: Words in s. 8(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(1)
+[^c-1dc3fe57dc92b16bd70a85ce183adf1e]: Textual amendment: Words in s. 8(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(1)
 
 [^c920593]: Textual amendment: Words substituted by virtue of [Interpretation Measure 1925 (No. 1)](https://www.legislation.gov.uk/ukcm/1925/1), [s. 1](https://www.legislation.gov.uk/ukcm/1925/1/section/1)
 

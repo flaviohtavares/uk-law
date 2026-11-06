@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 9A — Procedure for varying franchising scheme[^key-fc14231e6a95fc9dacf302af506e427f]
+## Schedule 9A — Procedure for varying franchising scheme[^c-fc14231e6a95fc9dacf302af506e427f]
 
 *Extent: E+W+S+N.I.*
 
@@ -292,4 +292,4 @@ A franchising authority or authorities must comply with the requirements of this
 
 ## Annotations
 
-[^key-fc14231e6a95fc9dacf302af506e427f]: Textual amendment: [Sch. 9A](https://www.legislation.gov.uk/ukpga/2000/38/schedule/9A) inserted (26.1.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5), [Sch.](https://www.legislation.gov.uk/ukpga/2025/24/schedule) (with [s. 3(4)](https://www.legislation.gov.uk/ukpga/2025/24/section/3/4)); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/o) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/46/regulation/5))
+[^c-fc14231e6a95fc9dacf302af506e427f]: Textual amendment: [Sch. 9A](https://www.legislation.gov.uk/ukpga/2000/38/schedule/9A) inserted (26.1.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [s. 41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5), [Sch.](https://www.legislation.gov.uk/ukpga/2025/24/schedule) (with [s. 3(4)](https://www.legislation.gov.uk/ukpga/2025/24/section/3/4)); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/o) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/46/regulation/5))

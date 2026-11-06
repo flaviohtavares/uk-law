@@ -37,7 +37,7 @@ summary: ''
 - (a) P is not married and is not in a civil partnership; and
 - (b) P does not have a qualifying child.
 
-(5) Condition B is that, at all times since P first held an eligible fee-paid judicial office [^key-3a58ab0c62e1408c011e190b44dea570]...—
+(5) Condition B is that, at all times since P first held an eligible fee-paid judicial office [^c-3a58ab0c62e1408c011e190b44dea570]...—
 
 - (a) P was not married and was not in a civil partnership, and
 - (b) P did not have a qualifying child.
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a58ab0c62e1408c011e190b44dea570]: Textual amendment: Words in [reg. 65(5)](https://www.legislation.gov.uk/uksi/2017/522/regulation/65/5) omitted (17.12.2024) by virtue of [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2024/1358/regulation/16)
+[^c-3a58ab0c62e1408c011e190b44dea570]: Textual amendment: Words in [reg. 65(5)](https://www.legislation.gov.uk/uksi/2017/522/regulation/65/5) omitted (17.12.2024) by virtue of [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2024/1358/regulation/16)

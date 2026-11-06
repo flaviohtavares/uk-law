@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34X. Disclosure of information[^key-cc96a2831599042c9f50396815a8ed9b]
+## 34X. Disclosure of information[^c-cc96a2831599042c9f50396815a8ed9b]
 
 *Extent: E+W*
 
@@ -53,11 +53,11 @@ summary: ''
 
 (4) The enactments are—
 
-- (a)[^key-700660ec8669bb9310cf4b2959077109] sections 142 to 154, 160 to 164 or 174 to 176 of, or Schedule 15 to, the Data Protection Act 2018 (certain provisions relating to enforcement);
+- (a)[^c-700660ec8669bb9310cf4b2959077109] sections 142 to 154, 160 to 164 or 174 to 176 of, or Schedule 15 to, the Data Protection Act 2018 (certain provisions relating to enforcement);
 - (b) section 48 of the Freedom of Information Act 2000 (practice recommendations);
 - (c) Part 4 of that Act.
 
-(5)[^key-d945d22f16f6d99461bbbc906031d846] The offences are those under—
+(5)[^c-d945d22f16f6d99461bbbc906031d846] The offences are those under—
 
 - (a) a provision of the Data Protection Act 2018 other than paragraph 15 of Schedule 15 (obstruction of execution of warrant etc);
 - (b) section 77 of the Freedom of Information Act 2000 (offence of altering etc records with intent to prevent disclosure).
@@ -66,8 +66,8 @@ summary: ''
 
 ## Annotations
 
-[^key-cc96a2831599042c9f50396815a8ed9b]: Textual amendment: Pts. 2A, 2B inserted (1.11.2014) by [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/2) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/3)); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-cc96a2831599042c9f50396815a8ed9b]: Textual amendment: Pts. 2A, 2B inserted (1.11.2014) by [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/2) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/3)); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-700660ec8669bb9310cf4b2959077109]: Textual amendment: [S. 34X(4)(a)](https://www.legislation.gov.uk/ukpga/2005/10/section/34X/4/a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 109(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/109/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 47(1)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/47/1)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-700660ec8669bb9310cf4b2959077109]: Textual amendment: [S. 34X(4)(a)](https://www.legislation.gov.uk/ukpga/2005/10/section/34X/4/a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 109(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/109/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 47(1)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/47/1)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-d945d22f16f6d99461bbbc906031d846]: Textual amendment: [S. 34X(5)](https://www.legislation.gov.uk/ukpga/2005/10/section/34X/5) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 109(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/109/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 47(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/47/2)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-d945d22f16f6d99461bbbc906031d846]: Textual amendment: [S. 34X(5)](https://www.legislation.gov.uk/ukpga/2005/10/section/34X/5) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 109(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/109/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 47(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/47/2)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)

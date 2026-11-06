@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. The supply system of a water undertaker[^key-46c28a09e15d589c6cd619714dbd4342]
+## 2. The supply system of a water undertaker[^c-46c28a09e15d589c6cd619714dbd4342]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-46c28a09e15d589c6cd619714dbd4342]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2014/21/section/2) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(b)](https://www.legislation.gov.uk/uksi/2017/462/article/3/b)
+[^c-46c28a09e15d589c6cd619714dbd4342]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2014/21/section/2) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(b)](https://www.legislation.gov.uk/uksi/2017/462/article/3/b)

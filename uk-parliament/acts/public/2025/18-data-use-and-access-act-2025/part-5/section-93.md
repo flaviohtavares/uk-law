@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Codes of practice: panels and impact assessments[^key-312b22b0594396c34a6000396b348da6][^key-f4b5eae24dde6b9a79f700f32c6e1938]
+## 93. Codes of practice: panels and impact assessments[^c-312b22b0594396c34a6000396b348da6][^c-f4b5eae24dde6b9a79f700f32c6e1938]
 
 *Extent: E+W+S+N.I.*
 
@@ -89,6 +89,6 @@ In the 2018 Act, after section 124A (inserted by section 92 of this Act) insertâ
 
 ## Annotations
 
-[^key-312b22b0594396c34a6000396b348da6]: Commencement: S. 93 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-312b22b0594396c34a6000396b348da6]: Commencement: S. 93 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-f4b5eae24dde6b9a79f700f32c6e1938]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2025/18/section/93) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/g)
+[^c-f4b5eae24dde6b9a79f700f32c6e1938]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2025/18/section/93) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/g)

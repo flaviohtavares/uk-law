@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 20 — Property being transferred to the Director of Public Prosecutions for Northern Ireland[^key-c9bfae4eed3683c376cb7a6e87229da9]
+## SCHEDULE 20 — Property being transferred to the Director of Public Prosecutions for Northern Ireland[^c-c9bfae4eed3683c376cb7a6e87229da9]
 
 *Extent: E+W+S+N.I.*
 
 Article 18(4)
 
-[^key-c9bfae4eed3683c376cb7a6e87229da9]
+[^c-c9bfae4eed3683c376cb7a6e87229da9]
 
 - Belfast Chambers, 93 Chichester Street, Belfast, BT1 3JR
 - Linum Chambers, 2 Bedford Square, Belfast, BT2 7ES
@@ -34,4 +34,4 @@ Article 18(4)
 
 ## Annotations
 
-[^key-c9bfae4eed3683c376cb7a6e87229da9]: Commencement: Sch. 20 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-c9bfae4eed3683c376cb7a6e87229da9]: Commencement: Sch. 20 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)

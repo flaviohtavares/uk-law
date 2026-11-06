@@ -46,15 +46,15 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 51(2)(b) of the Crime (International Co operation) Act 2003[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-8a63a6332ed4880b1e1418b3adcf4483]
+## 1. Citation and commencement[^c-8a63a6332ed4880b1e1418b3adcf4483]
 
 This Order may be cited as the Crime (International Co operation) Act 2003 (Designation of Participating Countries) (Scotland) Order 2009 and comes into force on 4th April 2009.
 
-## 2. Designation of participating countries[^key-1c563bf3b9871f30b29783826f6c2dd5]
+## 2. Designation of participating countries[^c-1c563bf3b9871f30b29783826f6c2dd5]
 
 Austria, Belgium, Bulgaria, Croatia, Cyprus, the Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Ireland, Italy, Latvia, Lithuania, Malta, the Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain and Sweden are designated as participating countries under section 51(2)(b) of the 2003 Act.
 
-## 3.[^key-a5607cf850b265285e6486816528d459]
+## 3.[^c-a5607cf850b265285e6486816528d459]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -80,8 +80,8 @@ Article 3 of the Order designates Cyprus, the Czech Republic, Estonia, Hungary, 
 
 [^f00001]: Footnote: [2003 c. 32](https://www.legislation.gov.uk/ukpga/2003/32).
 
-[^key-8a63a6332ed4880b1e1418b3adcf4483]: Commencement: Art. 1 in force at 4.4.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/106/article/1)
+[^c-8a63a6332ed4880b1e1418b3adcf4483]: Commencement: Art. 1 in force at 4.4.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/106/article/1)
 
-[^key-1c563bf3b9871f30b29783826f6c2dd5]: Textual amendment: Art. 2 substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [90(2)](https://www.legislation.gov.uk/uksi/2019/742/regulation/90/2) (with [reg. 98](https://www.legislation.gov.uk/uksi/2019/742/regulation/98)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [22](https://www.legislation.gov.uk/uksi/2020/1408/regulation/22), [24](https://www.legislation.gov.uk/uksi/2020/1408/regulation/24) and [2020 c. 29](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(c)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/c), [Sch. 3 para. 2(5)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/2/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1c563bf3b9871f30b29783826f6c2dd5]: Textual amendment: Art. 2 substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [90(2)](https://www.legislation.gov.uk/uksi/2019/742/regulation/90/2) (with [reg. 98](https://www.legislation.gov.uk/uksi/2019/742/regulation/98)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [22](https://www.legislation.gov.uk/uksi/2020/1408/regulation/22), [24](https://www.legislation.gov.uk/uksi/2020/1408/regulation/24) and [2020 c. 29](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(c)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/c), [Sch. 3 para. 2(5)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/2/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a5607cf850b265285e6486816528d459]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/ssi/2009/106/article/3) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [90(3)](https://www.legislation.gov.uk/uksi/2019/742/regulation/90/3) (with [reg. 98](https://www.legislation.gov.uk/uksi/2019/742/regulation/98)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [22](https://www.legislation.gov.uk/uksi/2020/1408/regulation/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a5607cf850b265285e6486816528d459]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/ssi/2009/106/article/3) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [90(3)](https://www.legislation.gov.uk/uksi/2019/742/regulation/90/3) (with [reg. 98](https://www.legislation.gov.uk/uksi/2019/742/regulation/98)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [22](https://www.legislation.gov.uk/uksi/2020/1408/regulation/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

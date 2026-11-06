@@ -31,7 +31,7 @@ summary: ''
 
 subsections (4) and (5) of the said section 250 (defraying of costs of inquiries) shall apply to a public local inquiry held in pursuance of this Act.
 
-(4)[^key-e7031dcc94a6801269a08038e851e485] In relation to each of the matters mentioned in paragraphs (a) and (b) of subsection (3), section 250(5) of the Local Government Act 1972 also applies—
+(4)[^c-e7031dcc94a6801269a08038e851e485] In relation to each of the matters mentioned in paragraphs (a) and (b) of subsection (3), section 250(5) of the Local Government Act 1972 also applies—
 
 - (a) where arrangements are made for a public local inquiry to be held in England in pursuance of this Act but the inquiry does not take place;
 - (b) to the costs of a party to a public local inquiry held in England in pursuance of this Act who does not attend the inquiry.
@@ -40,4 +40,4 @@ subsections (4) and (5) of the said section 250 (defraying of costs of inquiries
 
 [^c3309761]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-e7031dcc94a6801269a08038e851e485]: Textual amendment: S. 5(4) inserted (25.6.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 3](https://www.legislation.gov.uk/ukpga/2013/27/section/3), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/b) (with [art. 8(1)](https://www.legislation.gov.uk/uksi/2013/1488/article/8/1))
+[^c-e7031dcc94a6801269a08038e851e485]: Textual amendment: S. 5(4) inserted (25.6.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 3](https://www.legislation.gov.uk/ukpga/2013/27/section/3), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/b) (with [art. 8(1)](https://www.legislation.gov.uk/uksi/2013/1488/article/8/1))

@@ -31,7 +31,7 @@ summary: ''
 
 EMPLOYMENT
 
-Public Interest Disclosure (Prescribed Persons) (Amendment) Order (Northern Ireland) 2004 (revoked)[^key-73f0bb1274f4d511f6d792ac61c5b116]
+Public Interest Disclosure (Prescribed Persons) (Amendment) Order (Northern Ireland) 2004 (revoked)[^c-73f0bb1274f4d511f6d792ac61c5b116]
 
 Made
 
@@ -41,30 +41,30 @@ Coming into operation
 
 4th July 2004
 
-[^key-73f0bb1274f4d511f6d792ac61c5b116]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-73f0bb1274f4d511f6d792ac61c5b116]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-73f0bb1274f4d511f6d792ac61c5b116]
+## 1. Citation and commencement[^c-73f0bb1274f4d511f6d792ac61c5b116]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-73f0bb1274f4d511f6d792ac61c5b116]
+## 2. Amendment[^c-73f0bb1274f4d511f6d792ac61c5b116]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-73f0bb1274f4d511f6d792ac61c5b116]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-73f0bb1274f4d511f6d792ac61c5b116]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-73f0bb1274f4d511f6d792ac61c5b116]
+## SCHEDULE[^c-73f0bb1274f4d511f6d792ac61c5b116]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-73f0bb1274f4d511f6d792ac61c5b116]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-73f0bb1274f4d511f6d792ac61c5b116]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-73f0bb1274f4d511f6d792ac61c5b116]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2004/261) revoked (10.12.2006) by [Public Interest Disclosure (Prescribed Persons) (Amendment) Order (Northern Ireland) 2006 (S.R. 2006/458)](https://www.legislation.gov.uk/nisr/2006/458), [reg. 3](https://www.legislation.gov.uk/nisr/2006/458/regulation/3)
+[^c-73f0bb1274f4d511f6d792ac61c5b116]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2004/261) revoked (10.12.2006) by [Public Interest Disclosure (Prescribed Persons) (Amendment) Order (Northern Ireland) 2006 (S.R. 2006/458)](https://www.legislation.gov.uk/nisr/2006/458), [reg. 3](https://www.legislation.gov.uk/nisr/2006/458/regulation/3)

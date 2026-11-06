@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. The UK connection condition[^key-13c0f0469f1c6ed0ef7facdcd00c28df][^key-38ba8073f8423d826463399d3369ab19]
+## 149. The UK connection condition[^c-13c0f0469f1c6ed0ef7facdcd00c28df][^c-38ba8073f8423d826463399d3369ab19]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-13c0f0469f1c6ed0ef7facdcd00c28df]: Commencement: S. 149 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-13c0f0469f1c6ed0ef7facdcd00c28df]: Commencement: S. 149 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-38ba8073f8423d826463399d3369ab19]: Commencement: [S. 149](https://www.legislation.gov.uk/ukpga/2024/13/section/149) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-38ba8073f8423d826463399d3369ab19]: Commencement: [S. 149](https://www.legislation.gov.uk/ukpga/2024/13/section/149) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

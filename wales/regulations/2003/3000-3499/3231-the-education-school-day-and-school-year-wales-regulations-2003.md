@@ -41,13 +41,13 @@ Coming into force
 
 In exercise of the powers conferred on the Secretary of State by sections 551 and 569(4) and (5) of the Education Act 1996[^f00001] and now vested in the National Assembly for Wales[^f00002], the National Assembly for Wales makes the following Regulations:
 
-## 1. Name, commencement and application[^key-b4997ca3b916141dd88b122a84f779ac]
+## 1. Name, commencement and application[^c-b4997ca3b916141dd88b122a84f779ac]
 
 (1) These Regulations are called the Education (School Day and School Year) (Wales) Regulations 2003 and come into force on 31st December 2003.
 
 (2) These Regulations apply only to Wales.
 
-## 2. Revocation[^key-f77ed8c9080f60a6bd6296bbe5296c4f]
+## 2. Revocation[^c-f77ed8c9080f60a6bd6296bbe5296c4f]
 
 These Regulations revoke the following regulations —
 
@@ -56,7 +56,7 @@ These Regulations revoke the following regulations —
 - (c) the Education (School Day and School Year) (Amendment) (Wales) Regulations 2002[^f00005]; and
 - (d) the Education (School Day and School Year) (Amendment) (No.2) (Wales) Regulations 2002[^f00006].
 
-## 3. Interpretation[^key-d285f70dc466cbd3e153c2921a8e991e]
+## 3. Interpretation[^c-d285f70dc466cbd3e153c2921a8e991e]
 
 In these Regulations —
 
@@ -64,7 +64,7 @@ In these Regulations —
 - “school” (“*ysgol*”) means a school maintained by a local education authority, or a special school not maintained by a local education authority; and
 - “school year” (“*y flwyddyn ysgol*”) means the period beginning with the first school term to begin after July and ending with the beginning of the first such term to begin after the following July.
 
-## 4. School sessions[^key-abb205dfa6416ce766a3bae364455a21]
+## 4. School sessions[^c-abb205dfa6416ce766a3bae364455a21]
 
 (1) Subject to paragraph (6), every day on which a school meets is to be divided into two sessions which are to be separated by a break in the middle of the day unless exceptional circumstances make this undesirable.
 
@@ -81,7 +81,7 @@ In these Regulations —
 
 (6) In a school which meets on six days a week there may on two of those days be only a single session.
 
-**5.**[^key-696cb35528f6c5dddd22282b3919b55d] (1) Where a school session in the 2003—2004 school year is devoted wholly or mainly to the provision to teachers employed at that school of training to which this paragraph applies, that session is to be regarded for the purposes of regulation 4 as a session on which that school has met.
+**5.**[^c-696cb35528f6c5dddd22282b3919b55d] (1) Where a school session in the 2003—2004 school year is devoted wholly or mainly to the provision to teachers employed at that school of training to which this paragraph applies, that session is to be regarded for the purposes of regulation 4 as a session on which that school has met.
 
 (2) Where a school session in the 2004—2005 school year is devoted wholly or mainly to the provision to teachers employed at that school of training to which this paragraph applies, that session is to be regarded for the purposes of regulation 4 as a session on which that school has met.
 
@@ -113,9 +113,9 @@ Regulation 5 provides that not more than two school sessions devoted to the trai
 
 [^f00002]: Footnote: The functions of the Secretary of State were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
 
-[^key-b4997ca3b916141dd88b122a84f779ac]: Commencement: Reg. 1 in force at 31.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/3231/regulation/1/1)
+[^c-b4997ca3b916141dd88b122a84f779ac]: Commencement: Reg. 1 in force at 31.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/3231/regulation/1/1)
 
-[^key-f77ed8c9080f60a6bd6296bbe5296c4f]: Commencement: Reg. 2 in force at 31.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/3231/regulation/1/1)
+[^c-f77ed8c9080f60a6bd6296bbe5296c4f]: Commencement: Reg. 2 in force at 31.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/3231/regulation/1/1)
 
 [^f00003]: Footnote: S.I. [2000/1323 (W.101)](https://www.legislation.gov.uk/wsi/2000/1323).
 
@@ -125,10 +125,10 @@ Regulation 5 provides that not more than two school sessions devoted to the trai
 
 [^f00006]: Footnote: S.I. [2002/1556 (W.153)](https://www.legislation.gov.uk/wsi/2002/1556).
 
-[^key-d285f70dc466cbd3e153c2921a8e991e]: Commencement: Reg. 3 in force at 31.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/3231/regulation/1/1)
+[^c-d285f70dc466cbd3e153c2921a8e991e]: Commencement: Reg. 3 in force at 31.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/3231/regulation/1/1)
 
-[^key-abb205dfa6416ce766a3bae364455a21]: Commencement: Reg. 4 in force at 31.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/3231/regulation/1/1)
+[^c-abb205dfa6416ce766a3bae364455a21]: Commencement: Reg. 4 in force at 31.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/3231/regulation/1/1)
 
-[^key-696cb35528f6c5dddd22282b3919b55d]: Commencement: Reg. 5 in force at 31.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/3231/regulation/1/1)
+[^c-696cb35528f6c5dddd22282b3919b55d]: Commencement: Reg. 5 in force at 31.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/3231/regulation/1/1)
 
 [^f00007]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

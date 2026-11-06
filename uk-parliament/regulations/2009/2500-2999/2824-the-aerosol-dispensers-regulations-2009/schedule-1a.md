@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1A — (Annex to the Directive)[^key-d8e53b4bc178952bb936e2392b33f0f0]
+## SCHEDULE 1A — (Annex to the Directive)[^c-d8e53b4bc178952bb936e2392b33f0f0]
 
 *Extent: E+W+S*
 
@@ -552,4 +552,4 @@ This test standard describes the method to assess the flammability of products e
 
 ## Annotations
 
-[^key-d8e53b4bc178952bb936e2392b33f0f0]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/2009/2824/schedule/1A) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 13 para. 8](https://www.legislation.gov.uk/uksi/2019/696/schedule/13/paragraph/8) (with [reg. 2](https://www.legislation.gov.uk/uksi/2019/696/regulation/2) as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d8e53b4bc178952bb936e2392b33f0f0]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/2009/2824/schedule/1A) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 13 para. 8](https://www.legislation.gov.uk/uksi/2019/696/schedule/13/paragraph/8) (with [reg. 2](https://www.legislation.gov.uk/uksi/2019/696/regulation/2) as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

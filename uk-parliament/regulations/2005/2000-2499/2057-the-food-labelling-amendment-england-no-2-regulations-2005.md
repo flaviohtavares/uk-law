@@ -56,7 +56,7 @@ The Food Labelling Regulations 1996 [^c12284121] shall be amended (in so far as 
 
 ## 3.
 
-In regulation 2(1) (interpretation), in the definition of “Directive 2000/13”, for the words from “and Commission Directive [2002/67/EC](https://www.legislation.gov.uk/eudr/2002/67)” to the end there shall be substituted the words “ , Commission Directive [2002/67/EC](https://www.legislation.gov.uk/eudr/2002/67) [^c12284131] on the labelling of foodstuffs containing quinine, and of foodstuffs containing caffeine and Commission Directive [2005/26/EC](https://www.legislation.gov.uk/eudr/2005/26) [^c12284141] establishing a list of food ingredients or substances provisionally excluded from Annex IIIa of Directive [2000/13/EC](https://www.legislation.gov.uk/eudr/2000/13) which was itself amended by Commission Directive[^key-47daeb1031c170655c8d0e8fd481d773] [2005/63/EC](https://www.legislation.gov.uk/eudr/2005/63)”.
+In regulation 2(1) (interpretation), in the definition of “Directive 2000/13”, for the words from “and Commission Directive [2002/67/EC](https://www.legislation.gov.uk/eudr/2002/67)” to the end there shall be substituted the words “ , Commission Directive [2002/67/EC](https://www.legislation.gov.uk/eudr/2002/67) [^c12284131] on the labelling of foodstuffs containing quinine, and of foodstuffs containing caffeine and Commission Directive [2005/26/EC](https://www.legislation.gov.uk/eudr/2005/26) [^c12284141] establishing a list of food ingredients or substances provisionally excluded from Annex IIIa of Directive [2000/13/EC](https://www.legislation.gov.uk/eudr/2000/13) which was itself amended by Commission Directive[^c-47daeb1031c170655c8d0e8fd481d773] [2005/63/EC](https://www.legislation.gov.uk/eudr/2005/63)”.
 
 ## 4.
 
@@ -114,7 +114,7 @@ Regulation 7
 > </tbody>
 > </table>
 >
-> [^key-1dcc2e8b39f6820005ca0fa4b2e97dde]
+> [^c-1dcc2e8b39f6820005ca0fa4b2e97dde]
 >
 > (Note)
 >
@@ -145,6 +145,6 @@ Regulation 7
 
 [^c12284141]: Marginal citation: OJ No. L75, 22.3.2005, p.33.
 
-[^key-47daeb1031c170655c8d0e8fd481d773]: Textual amendment: Words in reg. 3 inserted (24.11.2005) by [The Food Labelling (Amendment) (England) (No. 2) (Amendment) Regulations 2005 (S.I. 2005/2969)](https://www.legislation.gov.uk/uksi/2005/2969), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2969/regulation/1), [3](https://www.legislation.gov.uk/uksi/2005/2969/regulation/3)
+[^c-47daeb1031c170655c8d0e8fd481d773]: Textual amendment: Words in reg. 3 inserted (24.11.2005) by [The Food Labelling (Amendment) (England) (No. 2) (Amendment) Regulations 2005 (S.I. 2005/2969)](https://www.legislation.gov.uk/uksi/2005/2969), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2969/regulation/1), [3](https://www.legislation.gov.uk/uksi/2005/2969/regulation/3)
 
-[^key-1dcc2e8b39f6820005ca0fa4b2e97dde]: Textual amendment: Words in Sch. substituted (24.11.2005) by [The Food Labelling (Amendment) (England) (No. 2) (Amendment) Regulations 2005 (S.I. 2005/2969)](https://www.legislation.gov.uk/uksi/2005/2969), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2969/regulation/1), [4](https://www.legislation.gov.uk/uksi/2005/2969/regulation/4)
+[^c-1dcc2e8b39f6820005ca0fa4b2e97dde]: Textual amendment: Words in Sch. substituted (24.11.2005) by [The Food Labelling (Amendment) (England) (No. 2) (Amendment) Regulations 2005 (S.I. 2005/2969)](https://www.legislation.gov.uk/uksi/2005/2969), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2969/regulation/1), [4](https://www.legislation.gov.uk/uksi/2005/2969/regulation/4)

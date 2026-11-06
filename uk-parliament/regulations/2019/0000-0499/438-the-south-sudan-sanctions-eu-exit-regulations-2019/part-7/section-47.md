@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Disclosure of information[^key-f23e9b71e8efc83bb611330fa75ccf4e][^key-8846594721f267b310201389a327edc8]
+## 47. Disclosure of information[^c-f23e9b71e8efc83bb611330fa75ccf4e][^c-8846594721f267b310201389a327edc8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) any information obtained under or by virtue of Part 6 (Exceptions and licences), this Part or Part 9 (Maritime enforcement), or
 - (b) any information held in connection with—
-  - (i) anything done under or by virtue of Part 2 (Designation of persons), Part 3 (Finance), Part 3A (Director disqualification sanctions),[^key-dab6826f8a8c30e2078aab578535118f] Part 5 (Trade), or
+  - (i) anything done under or by virtue of Part 2 (Designation of persons), Part 3 (Finance), Part 3A (Director disqualification sanctions),[^c-dab6826f8a8c30e2078aab578535118f] Part 5 (Trade), or
   - (ii) any exception or licence under Part 6 or anything done in accordance with such an exception or under the authority of such a licence.
 
 (2) Information referred to in paragraph (1) may be disclosed for, or in connection with, any of the following purposes—
@@ -73,11 +73,11 @@ summary: ''
 
 ## Annotations
 
-[^key-f23e9b71e8efc83bb611330fa75ccf4e]: Commencement: Reg. 47 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
+[^c-f23e9b71e8efc83bb611330fa75ccf4e]: Commencement: Reg. 47 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
 
-[^key-8846594721f267b310201389a327edc8]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2019/438/regulation/47) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8846594721f267b310201389a327edc8]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2019/438/regulation/47) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dab6826f8a8c30e2078aab578535118f]: Textual amendment: Words in [reg. 47(1)(b)(i)](https://www.legislation.gov.uk/uksi/2019/438/regulation/47/1/b/i) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [4(8)](https://www.legislation.gov.uk/uksi/2024/644/regulation/4/8)
+[^c-dab6826f8a8c30e2078aab578535118f]: Textual amendment: Words in [reg. 47(1)(b)(i)](https://www.legislation.gov.uk/uksi/2019/438/regulation/47/1/b/i) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [4(8)](https://www.legislation.gov.uk/uksi/2024/644/regulation/4/8)
 
 [^c23619831]: Marginal citation: [2017 c.3](https://www.legislation.gov.uk/ukpga/2017/3).
 

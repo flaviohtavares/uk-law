@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Mental Health Act 1983: repeal of power to return patients absent from hospital etc.[^key-a594d888f9671ab877f6a41b991699b5]
+## 74. Mental Health Act 1983: repeal of power to return patients absent from hospital etc.[^c-a594d888f9671ab877f6a41b991699b5]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Sections 88 and 128 of the Mental Health Act 1983 (c. 20) are repealed.
 
 ## Annotations
 
-[^key-a594d888f9671ab877f6a41b991699b5]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2007/10/section/74) in force at 3.11.2008 by [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2008/49/article/2/2/a)
+[^c-a594d888f9671ab877f6a41b991699b5]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2007/10/section/74) in force at 3.11.2008 by [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2008/49/article/2/2/a)

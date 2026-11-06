@@ -36,75 +36,75 @@ on the interoperability framework pursuant to Article 12(8) of Regulation (EU) N
 
 (Text with EEA relevance) (revoked)
 
-[^key-1ebf7306f8700f46abb6a24840b25cc7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1ebf7306f8700f46abb6a24840b25cc7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-1ebf7306f8700f46abb6a24840b25cc7]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-1ebf7306f8700f46abb6a24840b25cc7]
+## Article 1. Subject matter[^c-1ebf7306f8700f46abb6a24840b25cc7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Minimum technical requirements related to the assurance levels[^key-1ebf7306f8700f46abb6a24840b25cc7]
+## Article 2. Definitions[^c-1ebf7306f8700f46abb6a24840b25cc7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Mapping of national assurance levels[^key-1ebf7306f8700f46abb6a24840b25cc7]
+## Article 3. Minimum technical requirements related to the assurance levels[^c-1ebf7306f8700f46abb6a24840b25cc7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Nodes[^key-1ebf7306f8700f46abb6a24840b25cc7]
+## Article 4. Mapping of national assurance levels[^c-1ebf7306f8700f46abb6a24840b25cc7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Data privacy and confidentiality[^key-1ebf7306f8700f46abb6a24840b25cc7]
+## Article 5. Nodes[^c-1ebf7306f8700f46abb6a24840b25cc7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Data integrity and authenticity for the communication[^key-1ebf7306f8700f46abb6a24840b25cc7]
+## Article 6. Data privacy and confidentiality[^c-1ebf7306f8700f46abb6a24840b25cc7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Message format for the communication[^key-1ebf7306f8700f46abb6a24840b25cc7]
+## Article 7. Data integrity and authenticity for the communication[^c-1ebf7306f8700f46abb6a24840b25cc7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Management of security information and metadata[^key-1ebf7306f8700f46abb6a24840b25cc7]
+## Article 8. Message format for the communication[^c-1ebf7306f8700f46abb6a24840b25cc7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Information assurance and security standards[^key-1ebf7306f8700f46abb6a24840b25cc7]
+## Article 9. Management of security information and metadata[^c-1ebf7306f8700f46abb6a24840b25cc7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Person identification data[^key-1ebf7306f8700f46abb6a24840b25cc7]
+## Article 10. Information assurance and security standards[^c-1ebf7306f8700f46abb6a24840b25cc7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Technical specifications[^key-1ebf7306f8700f46abb6a24840b25cc7]
+## Article 11. Person identification data[^c-1ebf7306f8700f46abb6a24840b25cc7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Dispute resolution[^key-1ebf7306f8700f46abb6a24840b25cc7]
+## Article 12. Technical specifications[^c-1ebf7306f8700f46abb6a24840b25cc7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Entry into force[^key-1ebf7306f8700f46abb6a24840b25cc7]
+## Article 13. Dispute resolution[^c-1ebf7306f8700f46abb6a24840b25cc7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ebf7306f8700f46abb6a24840b25cc7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 14. Entry into force[^c-1ebf7306f8700f46abb6a24840b25cc7]
 
-## ANNEX — Requirements concerning the minimum set of person identification data uniquely representing a natural or a legal person, referred to in Article 11[^key-1ebf7306f8700f46abb6a24840b25cc7]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ebf7306f8700f46abb6a24840b25cc7]1.
+[^c-1ebf7306f8700f46abb6a24840b25cc7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX — Requirements concerning the minimum set of person identification data uniquely representing a natural or a legal person, referred to in Article 11[^c-1ebf7306f8700f46abb6a24840b25cc7]
+
+[^c-1ebf7306f8700f46abb6a24840b25cc7]1.
 
 **The minimum data set for a natural person**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ebf7306f8700f46abb6a24840b25cc7]2.
+[^c-1ebf7306f8700f46abb6a24840b25cc7]2.
 
 **The minimum data set for a legal person**
 
@@ -112,4 +112,4 @@ on the interoperability framework pursuant to Article 12(8) of Regulation (EU) N
 
 ## Annotations
 
-[^key-1ebf7306f8700f46abb6a24840b25cc7]: Textual amendment: Regulation revoked (31.12.2020) by [The Electronic Identification and Trust Services for Electronic Transactions (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/89)](https://www.legislation.gov.uk/uksi/2019/89), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/89/regulation/1/2), [Sch. para. 52](https://www.legislation.gov.uk/uksi/2019/89/schedule/paragraph/52); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1ebf7306f8700f46abb6a24840b25cc7]: Textual amendment: Regulation revoked (31.12.2020) by [The Electronic Identification and Trust Services for Electronic Transactions (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/89)](https://www.legislation.gov.uk/uksi/2019/89), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/89/regulation/1/2), [Sch. para. 52](https://www.legislation.gov.uk/uksi/2019/89/schedule/paragraph/52); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

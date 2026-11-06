@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Interpretation[^key-8c9e42db6578006409d7116a42303dcd]
+## 69. Interpretation[^c-8c9e42db6578006409d7116a42303dcd]
 
 *Extent: S*
 
@@ -41,7 +41,7 @@ summary: ''
 - “**district salmon fishery board**” has the meaning given in section 43 of this Act;
 - “**enactment**” includes any Act of Parliament or Act of the Scottish Parliament, and any subordinate legislation made under either of such Acts;
 - “**estuary limits**” has the meaning given in section 36 of this Act;
-- “**fish farm**” has the same meaning as in section 41(1) of the Salmon and Freshwater Fisheries Act[^key-861fb51deea1bed84dde32e48ce1892c] [1975 (c. 51)](https://www.legislation.gov.uk/ukpga/1975/51);
+- “**fish farm**” has the same meaning as in section 41(1) of the Salmon and Freshwater Fisheries Act[^c-861fb51deea1bed84dde32e48ce1892c] [1975 (c. 51)](https://www.legislation.gov.uk/ukpga/1975/51);
 - “**fishery**” and “**salmon fishery**” mean a salmon fishery in any river or estuary or in the sea;
 - “**fixed engine**” means any engine, net or trap used for the taking of salmon, other than a sweep net which when in use is hauled through the water continuously and is not allowed to be stationary in the water or to drift with the current;
 - “**freshwater fish**” means any fish living in fresh water, including trout and eels and the fry of eels but exclusive of salmon and of any kind of fish which migrate between the open sea and tidal waters;
@@ -81,6 +81,6 @@ but in neither case does it include, except by virtue of this subsection, a pers
 
 ## Annotations
 
-[^key-8c9e42db6578006409d7116a42303dcd]: Commencement: S. 69 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-8c9e42db6578006409d7116a42303dcd]: Commencement: S. 69 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
 
-[^key-861fb51deea1bed84dde32e48ce1892c]: Textual amendment: Words in s. 69 substituted (27.3.2009) by virtue of [Aquatic Animal Health (Scotland) Regulations 2009 (S.S.I. 2009/85)](https://www.legislation.gov.uk/ssi/2009/85), [reg. 1(2)(c)](https://www.legislation.gov.uk/ssi/2009/85/regulation/1/2/c), [Sch. 2 para. 10(b)](https://www.legislation.gov.uk/ssi/2009/85/schedule/2/paragraph/10/b) (with [reg. 2.](https://www.legislation.gov.uk/ssi/2009/85/regulation/2.))
+[^c-861fb51deea1bed84dde32e48ce1892c]: Textual amendment: Words in s. 69 substituted (27.3.2009) by virtue of [Aquatic Animal Health (Scotland) Regulations 2009 (S.S.I. 2009/85)](https://www.legislation.gov.uk/ssi/2009/85), [reg. 1(2)(c)](https://www.legislation.gov.uk/ssi/2009/85/regulation/1/2/c), [Sch. 2 para. 10(b)](https://www.legislation.gov.uk/ssi/2009/85/schedule/2/paragraph/10/b) (with [reg. 2.](https://www.legislation.gov.uk/ssi/2009/85/regulation/2.))

@@ -35,39 +35,39 @@ concerning the operating rules of the committee provided for in Article 3(3) of 
 
 (2005/49/EC, Euratom) (revoked)
 
-[^key-3de93af55c0337ac8e5d88877a774401]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3de93af55c0337ac8e5d88877a774401]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-3de93af55c0337ac8e5d88877a774401] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-3de93af55c0337ac8e5d88877a774401] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-3de93af55c0337ac8e5d88877a774401] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-3de93af55c0337ac8e5d88877a774401] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3de93af55c0337ac8e5d88877a774401]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3de93af55c0337ac8e5d88877a774401]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — Operating rules of the Committee provided for in Article 3(3) of Annex I to the Protocol on the Statute of the Court of Justice[^key-3de93af55c0337ac8e5d88877a774401]
+## ANNEX — Operating rules of the Committee provided for in Article 3(3) of Annex I to the Protocol on the Statute of the Court of Justice[^c-3de93af55c0337ac8e5d88877a774401]
 
-[^key-3de93af55c0337ac8e5d88877a774401]1.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-3de93af55c0337ac8e5d88877a774401]2.
+[^c-3de93af55c0337ac8e5d88877a774401]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3de93af55c0337ac8e5d88877a774401]3.
+[^c-3de93af55c0337ac8e5d88877a774401]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3de93af55c0337ac8e5d88877a774401]4.
+[^c-3de93af55c0337ac8e5d88877a774401]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3de93af55c0337ac8e5d88877a774401]5.
+[^c-3de93af55c0337ac8e5d88877a774401]4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-3de93af55c0337ac8e5d88877a774401]5.
 
 Meetings of the committee shall be valid if at least five of its members are present.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3de93af55c0337ac8e5d88877a774401]6.
+[^c-3de93af55c0337ac8e5d88877a774401]6.
 
 Members of the committee required to travel away from their place of residence in order to carry out their duties shall be entitled to reimbursement of their expenses and an allowance, on the conditions laid down in Article 6 of Regulations No 422/67/EEC and No 5/67/Euratom of the Council determining the emoluments of the President and Members of the Commission, the President, Judges, Advocates-General and Registrar of the Court of Justice and the President, Members and Registrar of the Court of First Instance.
 
@@ -75,4 +75,4 @@ Members of the committee required to travel away from their place of residence i
 
 ## Annotations
 
-[^key-3de93af55c0337ac8e5d88877a774401]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3de93af55c0337ac8e5d88877a774401]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

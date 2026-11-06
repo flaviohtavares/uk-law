@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Enforcement notices[^key-c91d9cd1ceb00900d31619f3a79ce3ab]
+## 92. Enforcement notices[^c-c91d9cd1ceb00900d31619f3a79ce3ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c91d9cd1ceb00900d31619f3a79ce3ab]: Commencement: Art. 92 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-c91d9cd1ceb00900d31619f3a79ce3ab]: Commencement: Art. 92 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

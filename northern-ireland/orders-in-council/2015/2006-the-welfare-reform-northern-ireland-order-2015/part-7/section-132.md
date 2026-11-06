@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 132. Use of jobcentres by sex industry[^key-a687abb4def2ede5e877defec718bb3e]
+## 132. Use of jobcentres by sex industry[^c-a687abb4def2ede5e877defec718bb3e]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ In the Employment and Training Act (Northern Ireland) 1950, after section 1 (dut
 
 ## Annotations
 
-[^key-a687abb4def2ede5e877defec718bb3e]: Commencement: [Art. 132](https://www.legislation.gov.uk/nisi/2015/2006/article/132) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(5)(c)](https://www.legislation.gov.uk/nisr/2016/46/article/3/5/c)
+[^c-a687abb4def2ede5e877defec718bb3e]: Commencement: [Art. 132](https://www.legislation.gov.uk/nisi/2015/2006/article/132) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(5)(c)](https://www.legislation.gov.uk/nisr/2016/46/article/3/5/c)

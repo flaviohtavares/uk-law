@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Sending cases to Crown Court for trial[^key-45db24d30d5c9ed6383c89b8a1c47334]
+## 10. Sending cases to Crown Court for trial[^c-45db24d30d5c9ed6383c89b8a1c47334]
 
 *Extent: E+W+S+N.I.*
 
@@ -138,4 +138,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45db24d30d5c9ed6383c89b8a1c47334]: Commencement: S. 10 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-45db24d30d5c9ed6383c89b8a1c47334]: Commencement: S. 10 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)

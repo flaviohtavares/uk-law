@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Restraint orders and legal aid: supplementary[^key-45f2e875d75f161e019316fbd6d07835]
+## 47. Restraint orders and legal aid: supplementary[^c-45f2e875d75f161e019316fbd6d07835]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45f2e875d75f161e019316fbd6d07835]: Textual amendment: S. 47 omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 36](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/36); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-45f2e875d75f161e019316fbd6d07835]: Textual amendment: S. 47 omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 36](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/36); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)

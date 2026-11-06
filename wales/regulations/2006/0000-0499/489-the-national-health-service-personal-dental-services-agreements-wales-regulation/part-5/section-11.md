@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Additional services[^key-117b740ebdd32050d8900ac470df57b5]
+## 11. Additional services[^c-117b740ebdd32050d8900ac470df57b5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ If the agreement includes the provision of additional services, it must contain 
 
 ## Annotations
 
-[^key-117b740ebdd32050d8900ac470df57b5]: Commencement: Reg. 11 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-117b740ebdd32050d8900ac470df57b5]: Commencement: Reg. 11 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)

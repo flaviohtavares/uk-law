@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Temporary use of land for maintaining authorised development[^key-cddaf21b7b097a861af2cc3e33f03d94]
+## 25. Temporary use of land for maintaining authorised development[^c-cddaf21b7b097a861af2cc3e33f03d94]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cddaf21b7b097a861af2cc3e33f03d94]: Commencement: Art. 25 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-cddaf21b7b097a861af2cc3e33f03d94]: Commencement: Art. 25 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)

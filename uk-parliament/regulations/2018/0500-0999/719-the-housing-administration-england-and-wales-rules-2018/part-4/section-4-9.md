@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.9. Directions[^key-217df16ccc0041dab4bdeeed0c6f2377]
+## 4.9. Directions[^c-217df16ccc0041dab4bdeeed0c6f2377]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ The court may at any time give such directions as it thinks just as to—
 
 ## Annotations
 
-[^key-217df16ccc0041dab4bdeeed0c6f2377]: Commencement: Rule 4.9 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-217df16ccc0041dab4bdeeed0c6f2377]: Commencement: Rule 4.9 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

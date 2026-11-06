@@ -26,7 +26,7 @@ Section 77.
 
 #### The Pollution Control and Local Government (Northern Ireland) Order 1978 (NI 19)
 
-**1.**[^key-0ae637b4253967f7ae696315e8cf6a28] In Article 86—
+**1.**[^c-0ae637b4253967f7ae696315e8cf6a28] In Article 86—
 
 - (a) in paragraph (1) at the beginning insert “ Subject to paragraph (1A), ”;
 - (b) after paragraph (1) insert—
@@ -37,13 +37,13 @@ Section 77.
 
 #### The Road Traffic Regulation (Northern Ireland) Order 1997 (NI 2)
 
-**2.**[^key-9f263bbb36d6cfe83c3ee8081cf3cefc] In Article 54(4)(c) after the words “the Pollution Control (Northern Ireland) Order 1978” insert “ or who has paid a fixed penalty notice under Article 29A(1) of that Order ”.
+**2.**[^c-9f263bbb36d6cfe83c3ee8081cf3cefc] In Article 54(4)(c) after the words “the Pollution Control (Northern Ireland) Order 1978” insert “ or who has paid a fixed penalty notice under Article 29A(1) of that Order ”.
 
 ### PART 2 — LITTER
 
 #### The Litter (Northern Ireland) Order 1994 (NI 10)
 
-**3.**[^key-44c7ca5e35c013407f4ea073b666d2c9] (1) In Article 7(1) at the end of sub-paragraph (d) insert “ and ”.
+**3.**[^c-44c7ca5e35c013407f4ea073b666d2c9] (1) In Article 7(1) at the end of sub-paragraph (d) insert “ and ”.
 
 (2) In Article 7(5) for “paragraph (1)(b) to (f)” substitute “ paragraph (1)(b) to (e) ”.
 
@@ -74,18 +74,18 @@ Section 77.
 
 #### The Housing of the Working Classes Act 1885 (c. 72)
 
-**4.**[^key-a42973a265ef4e8f2e543018e42e79fa] In section 9(1) for the words from “a nuisance within the meaning of section one hundred and seven” to the end substitute “ a statutory nuisance for the purposes of Part 7 of the Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 ”.
+**4.**[^c-a42973a265ef4e8f2e543018e42e79fa] In section 9(1) for the words from “a nuisance within the meaning of section one hundred and seven” to the end substitute “ a statutory nuisance for the purposes of Part 7 of the Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 ”.
 
 #### The Public Health Acts Amendment Act 1907 (c. 53)
 
-**5.**[^key-9cf349398cbfb52ede15a31817c5dbe3] In section 35—
+**5.**[^c-9cf349398cbfb52ede15a31817c5dbe3] In section 35—
 
 - (a) for the words “the Public Health (Ireland) Act, 1878” substitute “ Part 7 of the Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 ”;
 - (b) for the words “nuisance within the meaning of the said Act” substitute “ statutory nuisance ”.
 
 #### The Office and Shop Premises Act (Northern Ireland) 1966 (c. 26)
 
-**6.**[^key-182582e0080d4b15b97a24bce69adc17] In section 72—
+**6.**[^c-182582e0080d4b15b97a24bce69adc17] In section 72—
 
 - (a) for paragraph (a) substitute—
 
@@ -96,11 +96,11 @@ Section 77.
 
 #### The Hovercraft Act 1968 (c. 59)
 
-**7.**[^key-4d1da2dc70d6bbfc96caab0c76704a93] In section 1(1)(g) for the words “or of Part III of the Pollution Control and Local Government (Northern Ireland) Order 1978” substitute “ or of Part 7 of the Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 ”.
+**7.**[^c-4d1da2dc70d6bbfc96caab0c76704a93] In section 1(1)(g) for the words “or of Part III of the Pollution Control and Local Government (Northern Ireland) Order 1978” substitute “ or of Part 7 of the Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 ”.
 
 #### The Mines Act (Northern Ireland) 1969 (c. 6)
 
-**8.**[^key-4e8fb14095fa437389afae8257c3c36e] In section 129—
+**8.**[^c-4e8fb14095fa437389afae8257c3c36e] In section 129—
 
 - (a) in subsection (2)—
   - (i) for the words “section 107 of the Public Health (Ireland) Act 1878” substitute “ Part 7 of the Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 ”;
@@ -110,7 +110,7 @@ Section 77.
 
 #### The Pollution Control and Local Government (Northern Ireland) Order 1978 (NI 19)
 
-**9.**[^key-761d96f9682868242378ae352a420c15] (1) In Article 41(9) for the words “Article 39” substitute “ section 70 of the Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 ”.
+**9.**[^c-761d96f9682868242378ae352a420c15] (1) In Article 41(9) for the words “Article 39” substitute “ section 70 of the Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 ”.
 
 (2) In Article 45(8) for the words “Article 39” substitute “ section 70 of the Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 ”.
 
@@ -131,7 +131,7 @@ Section 77.
 
 #### The Clean Air (Northern Ireland) Order 1981 (NI 4)
 
-**10.**[^key-5eb861c5f01cfc439a25bb9a90eeb5df] (1) In Article 25(5)—
+**10.**[^c-5eb861c5f01cfc439a25bb9a90eeb5df] (1) In Article 25(5)—
 
 - (a) for the words “7 or 23” in both places where they appear substitute “ or 7 ”;
 - (b) for sub-paragraph (b) substitute—
@@ -144,7 +144,7 @@ Section 77.
 
 #### The Quarries (Northern Ireland) Order 1983 (NI 4)
 
-**11.**[^key-84b74f91047173362176d81a0831de21] In Article 10—
+**11.**[^c-84b74f91047173362176d81a0831de21] In Article 10—
 
 - (a) in paragraph (1)—
   - (i) for the words “section 107 of the Public Health (Ireland) Act 1878” substitute “ Part 7 of the Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 ”;
@@ -156,7 +156,7 @@ Section 77.
 
 #### The Housing (Northern Ireland) Order 1992 (NI 15)
 
-**12.**[^key-c954089e04020cd22255d9fe72d17402] (1) In Article 74(1) for sub-paragraph (b) substitute—
+**12.**[^c-c954089e04020cd22255d9fe72d17402] (1) In Article 74(1) for sub-paragraph (b) substitute—
 
 > - (b) in a notice served in respect of a dwelling-house under Part 7 of the Clean Neighbourhoods and Environment Act (Northern Ireland) 2011.
 
@@ -166,7 +166,7 @@ Section 77.
 
 #### The Radioactive Substances Act 1993 (c. 12)
 
-**13.**[^key-83efe9b89d97716501166f9c776d6668] In Schedule 3—
+**13.**[^c-83efe9b89d97716501166f9c776d6668] In Schedule 3—
 
 - (a) in Part III for paragraph 18 substitute—
 
@@ -181,7 +181,7 @@ Section 77.
 
 #### The Noise Act 1996 (c. 37)
 
-**14.**[^key-c397ea739779b9e7f71b205a1d013f6b] (1) In section 10(7)—
+**14.**[^c-c397ea739779b9e7f71b205a1d013f6b] (1) In section 10(7)—
 
 - (a) for the words “section 81(3) of the Environmental Protection Act 1990” substitute “ section 67(5) of the Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 ”;
 - (b) for the words “section 79(1)(g)” substitute “ section 63(1)(i) ”.
@@ -198,42 +198,42 @@ Section 77.
 
 #### The Housing (Northern Ireland) Order 2003 (NI 2)
 
-**15.**[^key-186269c4325bb07f46c0ab0bd8d1cc3a] In Article 142(3)(b) for the words “section 110 of the Public Health (Ireland) Act 1878 (c. 52),” substitute “ section 65 of the Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 ”.
+**15.**[^c-186269c4325bb07f46c0ab0bd8d1cc3a] In Article 142(3)(b) for the words “section 110 of the Public Health (Ireland) Act 1878 (c. 52),” substitute “ section 65 of the Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 ”.
 
 #### The Private Tenancies (Northern Ireland) Order 2006 (NI 10)
 
-**16.**[^key-6e25523dd3a8ec466798225cb754c2eb] In Article 36(8) for the words “section 110 of the Public Health (Ireland) Act 1878 (c. 52)” substitute “ Part 7 of the Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 ”.
+**16.**[^c-6e25523dd3a8ec466798225cb754c2eb] In Article 36(8) for the words “section 110 of the Public Health (Ireland) Act 1878 (c. 52)” substitute “ Part 7 of the Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 ”.
 
 ## Annotations
 
-[^key-0ae637b4253967f7ae696315e8cf6a28]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/1) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-0ae637b4253967f7ae696315e8cf6a28]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/1) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-9f263bbb36d6cfe83c3ee8081cf3cefc]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/2) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-9f263bbb36d6cfe83c3ee8081cf3cefc]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/2) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-44c7ca5e35c013407f4ea073b666d2c9]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/3) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-44c7ca5e35c013407f4ea073b666d2c9]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/3) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-a42973a265ef4e8f2e543018e42e79fa]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/4) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-a42973a265ef4e8f2e543018e42e79fa]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/4) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-9cf349398cbfb52ede15a31817c5dbe3]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/5) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-9cf349398cbfb52ede15a31817c5dbe3]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/5) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-182582e0080d4b15b97a24bce69adc17]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/6) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-182582e0080d4b15b97a24bce69adc17]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/6) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-4d1da2dc70d6bbfc96caab0c76704a93]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/7) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-4d1da2dc70d6bbfc96caab0c76704a93]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/7) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-4e8fb14095fa437389afae8257c3c36e]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/8) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-4e8fb14095fa437389afae8257c3c36e]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/8) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-761d96f9682868242378ae352a420c15]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/9) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-761d96f9682868242378ae352a420c15]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/9) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-5eb861c5f01cfc439a25bb9a90eeb5df]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/10) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-5eb861c5f01cfc439a25bb9a90eeb5df]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/10) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-84b74f91047173362176d81a0831de21]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/11) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-84b74f91047173362176d81a0831de21]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/11) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-c954089e04020cd22255d9fe72d17402]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/12) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-c954089e04020cd22255d9fe72d17402]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/12) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-83efe9b89d97716501166f9c776d6668]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/13) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-83efe9b89d97716501166f9c776d6668]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/13) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-c397ea739779b9e7f71b205a1d013f6b]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/14) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-c397ea739779b9e7f71b205a1d013f6b]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/14) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-186269c4325bb07f46c0ab0bd8d1cc3a]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/15) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-186269c4325bb07f46c0ab0bd8d1cc3a]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/15) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-6e25523dd3a8ec466798225cb754c2eb]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/16) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-6e25523dd3a8ec466798225cb754c2eb]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/16) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

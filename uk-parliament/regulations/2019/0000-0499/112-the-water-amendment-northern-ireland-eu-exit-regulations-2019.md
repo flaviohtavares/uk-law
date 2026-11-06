@@ -58,7 +58,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and extent[^key-81bc3f26e9547a6f53fd34de741b107c]
+### 1. Citation, commencement and extent[^c-81bc3f26e9547a6f53fd34de741b107c]
 
 (1) These Regulations may be cited as the Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 and come into force on exit day.
 
@@ -66,7 +66,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 ## PART 2 — Amendment of primary legislation
 
-### 2. The Marine Act (Northern Ireland) 2013[^key-5ffd98bd70ba959fce218b7c502b89b3]
+### 2. The Marine Act (Northern Ireland) 2013[^c-5ffd98bd70ba959fce218b7c502b89b3]
 
 (1) The Marine Act (Northern Ireland) 2013 [^c23534221] is amended as follows.
 
@@ -89,7 +89,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 ## PART 3 — Amendment of subordinate legislation
 
-### 3. The Control of Asbestos in Water Regulations (Northern Ireland) 1995[^key-b2edfaceaac8ff30c29ca1f58a74e335]
+### 3. The Control of Asbestos in Water Regulations (Northern Ireland) 1995[^c-b2edfaceaac8ff30c29ca1f58a74e335]
 
 (1) The Control of Asbestos in Water Regulations (Northern Ireland) 1995 [^c23534231] are amended as follows.
 
@@ -125,7 +125,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 .
 
-### 4. The Protection of Water Against Agricultural Nitrate Pollution Regulations (Northern Ireland) 2004[^key-26d119dda90717da90113b12efa7f9a8]
+### 4. The Protection of Water Against Agricultural Nitrate Pollution Regulations (Northern Ireland) 2004[^c-26d119dda90717da90113b12efa7f9a8]
 
 In regulation 2(1) of the Protection of Water Against Agricultural Nitrate Pollution Regulations (Northern Ireland) 2004 [^c23534261], for the definition of “Action Programme” substitute—
 
@@ -133,7 +133,7 @@ In regulation 2(1) of the Protection of Water Against Agricultural Nitrate Pollu
 
 .
 
-### 5. The Urban Waste Water Treatment Regulations (Northern Ireland) 2007[^key-e2f8c0bf55f0eacdff9f8d75720be23c]
+### 5. The Urban Waste Water Treatment Regulations (Northern Ireland) 2007[^c-e2f8c0bf55f0eacdff9f8d75720be23c]
 
 (1) The Urban Waste Water Treatment Regulations (Northern Ireland) 2007 [^c23534281] are amended as follows.
 
@@ -168,7 +168,7 @@ In regulation 2(1) of the Protection of Water Against Agricultural Nitrate Pollu
 
 (6) In Schedule 4, for “other Community Directives” substitute “ retained EU law ”.
 
-### 6. The Quality of Bathing Water Regulations (Northern Ireland) 2008[^key-8aa16fed139432c307f4eea9cdb1fa57]
+### 6. The Quality of Bathing Water Regulations (Northern Ireland) 2008[^c-8aa16fed139432c307f4eea9cdb1fa57]
 
 (1) The Quality of Bathing Water Regulations (Northern Ireland) 2008 [^c23534291] are amended as follows.
 
@@ -222,7 +222,7 @@ In regulation 2(1) of the Protection of Water Against Agricultural Nitrate Pollu
 
 .
 
-### 7. The Groundwater Regulations (Northern Ireland) 2009[^key-92de8414ae3f02b476ae5c618882e1ab]
+### 7. The Groundwater Regulations (Northern Ireland) 2009[^c-92de8414ae3f02b476ae5c618882e1ab]
 
 (1) The Groundwater Regulations (Northern Ireland) 2009 [^c23534311] are amended as follows.
 
@@ -386,7 +386,7 @@ In regulation 2(1) of the Protection of Water Against Agricultural Nitrate Pollu
 
 .
 
-### 8. The Marine Licensing (Exempted Activities) Order (Northern Ireland) 2011[^key-bf7754c761a9991bcb81796fdb25afb3]
+### 8. The Marine Licensing (Exempted Activities) Order (Northern Ireland) 2011[^c-bf7754c761a9991bcb81796fdb25afb3]
 
 (1) The Marine Licensing (Exempted Activities) Order (Northern Ireland) 2011 [^c23534381] is amended as follows.
 
@@ -395,7 +395,7 @@ In regulation 2(1) of the Protection of Water Against Agricultural Nitrate Pollu
 - (a) in paragraph (a), for “(other than Gibraltar) which is not a member State” substitute “ other than the United Kingdom ”;
 - (b) in paragraph (b), for “a member State” substitute “ the United Kingdom ”.
 
-### 9. The Nitrates Action Programme Regulations (Northern Ireland) 2014[^key-5bed4ccd339e8830038a4662ecd1f013]
+### 9. The Nitrates Action Programme Regulations (Northern Ireland) 2014[^c-5bed4ccd339e8830038a4662ecd1f013]
 
 (1) The Nitrates Action Programme Regulations (Northern Ireland) 2014 [^c23534391] are amended as follows.
 
@@ -452,7 +452,7 @@ In regulation 2(1) of the Protection of Water Against Agricultural Nitrate Pollu
 - (b) in paragraph (2) for “by Article 5 of the Directive” substitute “ by these Regulations ”;
 - (c) in paragraph (3)(a) omit “in accordance with Article 2 of Directive [2003/35/EC](https://www.legislation.gov.uk/european/directive/2003/0035)”.
 
-### 10. The Phosphorus (Use in Agriculture) Regulations (Northern Ireland) 2014[^key-74727f930e877cf5d0f2b9c379716e1d]
+### 10. The Phosphorus (Use in Agriculture) Regulations (Northern Ireland) 2014[^c-74727f930e877cf5d0f2b9c379716e1d]
 
 (1) The Phosphorus (Use in Agriculture) Regulations (Northern Ireland) 2014 [^c23534411] are amended as follows.
 
@@ -460,7 +460,7 @@ In regulation 2(1) of the Protection of Water Against Agricultural Nitrate Pollu
 
 (3) In regulation 4, omit “, in accordance with Article 4 of the Directive,”.
 
-### 11. The Water Framework Directive (Classification, Priority Substances and Shellfish Waters) Regulations (Northern Ireland) 2015[^key-79e0706447f6030d9a889b945fb93cec]
+### 11. The Water Framework Directive (Classification, Priority Substances and Shellfish Waters) Regulations (Northern Ireland) 2015[^c-79e0706447f6030d9a889b945fb93cec]
 
 (1) The Water Framework Directive (Classification, Priority Substances and Shellfish Waters) Regulations (Northern Ireland) 2015 [^c23534421] are amended as follows.
 
@@ -617,7 +617,7 @@ In regulation 2(1) of the Protection of Water Against Agricultural Nitrate Pollu
 
 .
 
-### 12. The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017[^key-96141222277d9a35cc6e7fd6148850c1]
+### 12. The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017[^c-96141222277d9a35cc6e7fd6148850c1]
 
 (1) The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 [^c23534491] are amended as follows.
 
@@ -850,7 +850,7 @@ In regulation 2(1) of the Protection of Water Against Agricultural Nitrate Pollu
 
 .
 
-### 13. The Private Water Supplies Regulations (Northern Ireland) 2017[^key-028a85d4c43e2e870896cdac2fe3d0e6]
+### 13. The Private Water Supplies Regulations (Northern Ireland) 2017[^c-028a85d4c43e2e870896cdac2fe3d0e6]
 
 (1) The Private Water Supplies Regulations (Northern Ireland) 2017 [^c23534541] are amended as follows.
 
@@ -874,7 +874,7 @@ In regulation 2(1) of the Protection of Water Against Agricultural Nitrate Pollu
 
 (5) In Part 1 of Schedule 4, omit paragraph 3(2).
 
-### 14. The Water Supply (Water Quality) Regulations (Northern Ireland) 2017[^key-773cf4d6a2739102d24c9ecf3e9c36fe]
+### 14. The Water Supply (Water Quality) Regulations (Northern Ireland) 2017[^c-773cf4d6a2739102d24c9ecf3e9c36fe]
 
 (1) The Water Supply (Water Quality) Regulations (Northern Ireland) 2017 [^c23534551] are amended as follows.
 
@@ -920,13 +920,13 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23534211]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-81bc3f26e9547a6f53fd34de741b107c]: Commencement: Reg. 1 in force on IP completion day, see reg. 1(1) and 2020 c. 1, Sch. 5 para. 1(1), see reg. 1(1)
+[^c-81bc3f26e9547a6f53fd34de741b107c]: Commencement: Reg. 1 in force on IP completion day, see reg. 1(1) and 2020 c. 1, Sch. 5 para. 1(1), see reg. 1(1)
 
-[^key-5ffd98bd70ba959fce218b7c502b89b3]: Commencement: Reg. 2 in force on IP completion day, see reg. 1(1) and 2020 c. 1, Sch. 5 para. 1(1), see reg. 1(1)
+[^c-5ffd98bd70ba959fce218b7c502b89b3]: Commencement: Reg. 2 in force on IP completion day, see reg. 1(1) and 2020 c. 1, Sch. 5 para. 1(1), see reg. 1(1)
 
 [^c23534221]: Marginal citation: [2013 c.10 (N.I.)](https://www.legislation.gov.uk/nia/2013/10).
 
-[^key-b2edfaceaac8ff30c29ca1f58a74e335]: Commencement: Reg. 3 in force on IP completion day, see reg. 1(1) and 2020 c. 1, Sch. 5 para. 1(1), see reg. 1(1)
+[^c-b2edfaceaac8ff30c29ca1f58a74e335]: Commencement: Reg. 3 in force on IP completion day, see reg. 1(1) and 2020 c. 1, Sch. 5 para. 1(1), see reg. 1(1)
 
 [^c23534231]: Marginal citation: S.R. [1995 No. 93](https://www.legislation.gov.uk/ukcm/1995/93), amended by S.R. [1996 No. 602](https://www.legislation.gov.uk/ukcm/1996/602).
 
@@ -934,23 +934,23 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23534251]: Marginal citation: Determination of airborne fibre concentrations. A recommended method, by phase-contract optical microscopy (membrane filter method), WHO, Geneva 1997 (ISBN 92 4 154496 1).
 
-[^key-26d119dda90717da90113b12efa7f9a8]: Commencement: Reg. 4 in force on IP completion day, see reg. 1(1) and 2020 c. 1, Sch. 5 para. 1(1), see reg. 1(1)
+[^c-26d119dda90717da90113b12efa7f9a8]: Commencement: Reg. 4 in force on IP completion day, see reg. 1(1) and 2020 c. 1, Sch. 5 para. 1(1), see reg. 1(1)
 
 [^c23534261]: Marginal citation: S.R. [2004 No. 419](https://www.legislation.gov.uk/ukcm/2004/419).
 
 [^c23534271]: Marginal citation: S.R. [2014 No. 307](https://www.legislation.gov.uk/ukcm/2014/307), amended by S.R. [2015 No. 369](https://www.legislation.gov.uk/ukcm/2015/369).
 
-[^key-e2f8c0bf55f0eacdff9f8d75720be23c]: Commencement: Reg. 5 in force on IP completion day, see reg. 1(1) and 2020 c. 1, Sch. 5 para. 1(1), see reg. 1(1)
+[^c-e2f8c0bf55f0eacdff9f8d75720be23c]: Commencement: Reg. 5 in force on IP completion day, see reg. 1(1) and 2020 c. 1, Sch. 5 para. 1(1), see reg. 1(1)
 
 [^c23534281]: Marginal citation: S.R. [2007 No. 187](https://www.legislation.gov.uk/ukcm/2007/187).
 
-[^key-8aa16fed139432c307f4eea9cdb1fa57]: Commencement: Reg. 6 in force on IP completion day, see reg. 1(1) and 2020 c. 1, Sch. 5 para. 1(1), see reg. 1(1)
+[^c-8aa16fed139432c307f4eea9cdb1fa57]: Commencement: Reg. 6 in force on IP completion day, see reg. 1(1) and 2020 c. 1, Sch. 5 para. 1(1), see reg. 1(1)
 
 [^c23534291]: Marginal citation: S.R. [2008 No. 231](https://www.legislation.gov.uk/ukcm/2008/231), amended by S.R. [2012 No. 218](https://www.legislation.gov.uk/ukcm/2012/218), S.R. [2013 No. 151](https://www.legislation.gov.uk/ukcm/2013/151), S.R. [2017 No. 81](https://www.legislation.gov.uk/ukcm/2017/81) and S.R. [2018 No. 104](https://www.legislation.gov.uk/ukcm/2018/104).
 
 [^c23534301]: Marginal citation: OJ No L 26, 28.1.2012, p. 1, as amended by Directive 2014/52/EU (OJ No L 124, 25.4.2014, p. 1).
 
-[^key-92de8414ae3f02b476ae5c618882e1ab]: Commencement: Reg. 7 in force on IP completion day, see reg. 1(1) and 2020 c. 1, Sch. 5 para. 1(1), see reg. 1(1)
+[^c-92de8414ae3f02b476ae5c618882e1ab]: Commencement: Reg. 7 in force on IP completion day, see reg. 1(1) and 2020 c. 1, Sch. 5 para. 1(1), see reg. 1(1)
 
 [^c23534311]: Marginal citation: S.R. [2009 No.254](https://www.legislation.gov.uk/ukcm/2009/254), amended by S.R. [2009 No. 359](https://www.legislation.gov.uk/ukcm/2009/359), S.R. [2011 No. 211](https://www.legislation.gov.uk/ukcm/2011/211), S.R. [2014 No. 208](https://www.legislation.gov.uk/ukcm/2014/208), S.R. [2016 No. 119](https://www.legislation.gov.uk/ukcm/2016/119) and S.R. [2017 No. 81](https://www.legislation.gov.uk/ukcm/2017/81).
 
@@ -966,21 +966,21 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23534371]: Marginal citation: OJ No L 350, 5.12.1998, p. 32, as last amended by Commission Directive (EU) 2015/1787 (OJ No L 260, 7.10.2015, p. 6).
 
-[^key-bf7754c761a9991bcb81796fdb25afb3]: Commencement: Reg. 8 in force on IP completion day, see reg. 1(1) and 2020 c. 1, Sch. 5 para. 1(1), see reg. 1(1)
+[^c-bf7754c761a9991bcb81796fdb25afb3]: Commencement: Reg. 8 in force on IP completion day, see reg. 1(1) and 2020 c. 1, Sch. 5 para. 1(1), see reg. 1(1)
 
 [^c23534381]: Marginal citation: S.R. [2011 No. 78](https://www.legislation.gov.uk/ukcm/2011/78), amended by S.R. [2016 No. 95](https://www.legislation.gov.uk/ukcm/2016/95).
 
-[^key-5bed4ccd339e8830038a4662ecd1f013]: Commencement: Reg. 9 in force on IP completion day, see reg. 1(1) and [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-5bed4ccd339e8830038a4662ecd1f013]: Commencement: Reg. 9 in force on IP completion day, see reg. 1(1) and [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23534391]: Marginal citation: S.R. [2014 No. 307](https://www.legislation.gov.uk/ukcm/2014/307), amended by S.R. [2015 No. 369](https://www.legislation.gov.uk/ukcm/2015/369).
 
 [^c23534401]: Marginal citation: S.R. [2004 No. 419](https://www.legislation.gov.uk/ukcm/2004/419).
 
-[^key-74727f930e877cf5d0f2b9c379716e1d]: Commencement: Reg. 10 in force on IP completion day, see reg. 1(1) and 2020 c. 1, Sch. 5 para. 1(1), see reg. 1(1)
+[^c-74727f930e877cf5d0f2b9c379716e1d]: Commencement: Reg. 10 in force on IP completion day, see reg. 1(1) and 2020 c. 1, Sch. 5 para. 1(1), see reg. 1(1)
 
 [^c23534411]: Marginal citation: S.R. [2014 No. 308](https://www.legislation.gov.uk/ukcm/2014/308).
 
-[^key-79e0706447f6030d9a889b945fb93cec]: Commencement: Reg. 11 in force on IP completion day, see reg. 1(1) and 2020 c. 1, Sch. 5 para. 1(1), see reg. 1(1)
+[^c-79e0706447f6030d9a889b945fb93cec]: Commencement: Reg. 11 in force on IP completion day, see reg. 1(1) and 2020 c. 1, Sch. 5 para. 1(1), see reg. 1(1)
 
 [^c23534421]: Marginal citation: S.R. [2015 No. 351](https://www.legislation.gov.uk/ukcm/2015/351), amended by S.R. [2017 No. 81](https://www.legislation.gov.uk/ukcm/2017/81).
 
@@ -996,7 +996,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23534481]: Marginal citation: OJ No L 182, 21.6.2014, p. 52.
 
-[^key-96141222277d9a35cc6e7fd6148850c1]: Commencement: Reg. 12 in force on IP completion day, see reg. 1(1) and 2020 c. 1, Sch. 5 para. 1(1), see reg. 1(1)
+[^c-96141222277d9a35cc6e7fd6148850c1]: Commencement: Reg. 12 in force on IP completion day, see reg. 1(1) and 2020 c. 1, Sch. 5 para. 1(1), see reg. 1(1)
 
 [^c23534491]: Marginal citation: S.R. [2017 No. 81](https://www.legislation.gov.uk/ukcm/2017/81).
 
@@ -1008,10 +1008,10 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23534531]: Marginal citation: OJ No L 372, 27.12.2006, p. 19, as last amended by Commission Directive 2014/80/EU (OJ No L 182, 21.6.2014, p. 52).
 
-[^key-028a85d4c43e2e870896cdac2fe3d0e6]: Commencement: Reg. 13 in force on IP completion day, see reg. 1(1) and 2020 c. 1, Sch. 5 para. 1(1), see reg. 1(1)
+[^c-028a85d4c43e2e870896cdac2fe3d0e6]: Commencement: Reg. 13 in force on IP completion day, see reg. 1(1) and 2020 c. 1, Sch. 5 para. 1(1), see reg. 1(1)
 
 [^c23534541]: Marginal citation: S.R. [2017 No. 211](https://www.legislation.gov.uk/ukcm/2017/211).
 
-[^key-773cf4d6a2739102d24c9ecf3e9c36fe]: Commencement: Reg. 14 in force on IP completion day, see reg. 1(1) and 2020 c. 1, Sch. 5 para. 1(1), see reg. 1(1)
+[^c-773cf4d6a2739102d24c9ecf3e9c36fe]: Commencement: Reg. 14 in force on IP completion day, see reg. 1(1) and 2020 c. 1, Sch. 5 para. 1(1), see reg. 1(1)
 
 [^c23534551]: Marginal citation: S.R. [2017 No. 212](https://www.legislation.gov.uk/ukcm/2017/212).

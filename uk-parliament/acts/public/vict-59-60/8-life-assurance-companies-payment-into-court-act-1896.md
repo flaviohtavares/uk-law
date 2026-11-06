@@ -31,7 +31,7 @@ Life Assurance Companies (Payment Into Court) Act 1896
 
 An Act to enable Life Assurance Companies to pay Money into Court in certain Cases.
 
-\[21st May 1896\][^key-e5faffdf5309308bd4a0a67ab02be819]\[21st May 1896\][^key-4c6bcde476c9dac5ac34951b21e31dfe]
+\[21st May 1896\][^c-e5faffdf5309308bd4a0a67ab02be819]\[21st May 1896\][^c-4c6bcde476c9dac5ac34951b21e31dfe]
 
 ## 1. Short title.
 
@@ -58,9 +58,9 @@ This Act does not extend to Scotland.
 
 ## Annotations
 
-[^key-e5faffdf5309308bd4a0a67ab02be819]: Modification: Act: amendment to earlier affecting provision 1965 c. 2 (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/4); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-e5faffdf5309308bd4a0a67ab02be819]: Modification: Act: amendment to earlier affecting provision 1965 c. 2 (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/4); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
-[^key-4c6bcde476c9dac5ac34951b21e31dfe]: Modification: Act: amendment to earlier affecting provision 1978 c. 23 (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/6); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-4c6bcde476c9dac5ac34951b21e31dfe]: Modification: Act: amendment to earlier affecting provision 1978 c. 23 (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/6); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c576706]: Textual amendment: Words from “rules” to “1978” substituted (N.I.) (18.4.1979) for words “rules of court” by virtue of [Judicature (Northern Ireland) Act 1978 (c. 23)](https://www.legislation.gov.uk/ukpga/1978/23), [Sch. 5 Pt. I](https://www.legislation.gov.uk/ukpga/1978/23/schedule/5/part/I)
 

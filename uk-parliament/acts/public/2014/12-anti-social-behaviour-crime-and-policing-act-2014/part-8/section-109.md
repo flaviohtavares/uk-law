@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Functions of Scottish Ministers under Firearms Acts[^key-76a12df2e326267d1ea15744dadf2c96]
+## 109. Functions of Scottish Ministers under Firearms Acts[^c-76a12df2e326267d1ea15744dadf2c96]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76a12df2e326267d1ea15744dadf2c96]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2014/12/section/109) in force at 14.7.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 6(b)](https://www.legislation.gov.uk/uksi/2014/949/article/6/b)
+[^c-76a12df2e326267d1ea15744dadf2c96]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2014/12/section/109) in force at 14.7.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 6(b)](https://www.legislation.gov.uk/uksi/2014/949/article/6/b)

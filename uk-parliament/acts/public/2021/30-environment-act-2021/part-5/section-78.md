@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Water resources management plans, drought plans and joint proposals[^key-80a65ad593ad44dac2e20161fc927780]
+## 78. Water resources management plans, drought plans and joint proposals[^c-80a65ad593ad44dac2e20161fc927780]
 
 *Extent: E+W+S+N.I.*
 
@@ -169,4 +169,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80a65ad593ad44dac2e20161fc927780]: Commencement: S. 78 not in force at Royal Assent, see [s. 147(3)(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3/4)
+[^c-80a65ad593ad44dac2e20161fc927780]: Commencement: S. 78 not in force at Royal Assent, see [s. 147(3)(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3/4)

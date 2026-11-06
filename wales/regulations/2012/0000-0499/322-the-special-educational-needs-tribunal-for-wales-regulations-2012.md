@@ -49,13 +49,13 @@ The Secretary of State has consented to the making of the Regulations in so far 
 
 ## PART A — GENERAL
 
-### 1. Title, commencement and application[^key-a963228cdd6951e13d94a11d44235f2f]
+### 1. Title, commencement and application[^c-a963228cdd6951e13d94a11d44235f2f]
 
 (1) The title of these Regulations is the Special Educational Needs Tribunal for Wales Regulations 2012 and they come into force on 6 March 2012.
 
 (2) These Regulations apply in relation to Wales.
 
-### 2. Interpretation[^key-5dcf2b375e98aa4d8315dde082f0abac]
+### 2. Interpretation[^c-5dcf2b375e98aa4d8315dde082f0abac]
 
 (1) In these Regulations, unless the context otherwise requires—
 
@@ -109,11 +109,11 @@ The Secretary of State has consented to the making of the Regulations in so far 
   - (f) any day in August; or
   - (g) a day which is a bank holiday in England and Wales under section 1 of the Banking and Financial Dealings Act 1971[^f00011].
 
-### 3. Appeals and claims on or after 6 March 2012[^key-b586ab91180ae51271919e509273f24e]
+### 3. Appeals and claims on or after 6 March 2012[^c-b586ab91180ae51271919e509273f24e]
 
 These Regulations apply to an appeal or a claim entered in the Register on or after 6 March 2012.
 
-### 4. Revocations and savings[^key-1440e4acf4e033aed99c8a49f5607703]
+### 4. Revocations and savings[^c-1440e4acf4e033aed99c8a49f5607703]
 
 (1) Subject to paragraph (2) the Special Educational Needs Tribunal Regulations 2001[^f00012] and the Special Educational Needs Tribunal (Amendment) Regulations 2002[^f00013] are revoked.
 
@@ -131,7 +131,7 @@ These Regulations apply to an appeal or a claim entered in the Register on or af
 
 (5) Subject to paragraphs (2)(b) and (4)(b), the Special Educational Needs Tribunal (Time Limits) (Wales) Regulations 2001[^f00016] are revoked.
 
-### 5. Transitional provisions[^key-9fe0b8847fe7963ffa3b525908354cbc]
+### 5. Transitional provisions[^c-9fe0b8847fe7963ffa3b525908354cbc]
 
 (1) This regulation applies if—
 
@@ -143,7 +143,7 @@ These Regulations apply to an appeal or a claim entered in the Register on or af
 - (a) regulations 37 and 38 apply; and
 - (b) the President may make such directions in relation to the parent’s appeal or claim, as the President thinks just.
 
-### 6. The overriding objective[^key-bee1b04ae724120565c6ac00bc23cfb2]
+### 6. The overriding objective[^c-bee1b04ae724120565c6ac00bc23cfb2]
 
 (1) The overriding objective of these Regulations is to enable the President or the tribunal panel to deal with appeals and claims fairly and justly.
 
@@ -162,7 +162,7 @@ These Regulations apply to an appeal or a claim entered in the Register on or af
 
 (4) In particular, the President or the tribunal panel must manage appeals and claims actively in accordance with the overriding objective of these Regulations.
 
-### 7. Parties' obligation to co-operate[^key-8f653e9517c8436f8d3ecf89306145b5]
+### 7. Parties' obligation to co-operate[^c-8f653e9517c8436f8d3ecf89306145b5]
 
 (1) Parties must—
 
@@ -190,7 +190,7 @@ These Regulations apply to an appeal or a claim entered in the Register on or af
 
 (6) The President or the tribunal panel may after considering any representations made by the party in default, order that the party’s case is struck out.
 
-### 8. Alternative dispute resolution[^key-c9007fc7a4361fd78924ad0d2755c91e]
+### 8. Alternative dispute resolution[^c-c9007fc7a4361fd78924ad0d2755c91e]
 
 (1) The President or the tribunal panel may seek, where appropriate, to bring to the attention of the parties the availability of any appropriate alternative procedure for the resolution of the dispute.
 
@@ -198,7 +198,7 @@ These Regulations apply to an appeal or a claim entered in the Register on or af
 
 ### Constitution of Tribunal
 
-#### 9. Education panel members[^key-f2d7f1ca69f5860d70107b00f821ab10]
+#### 9. Education panel members[^c-f2d7f1ca69f5860d70107b00f821ab10]
 
 No person may be appointed as a member of the education panel unless the Welsh Ministers are satisfied that the person—
 
@@ -208,13 +208,13 @@ No person may be appointed as a member of the education panel unless the Welsh M
   - (ii) disabilities; or
   - (iii) if required, both.
 
-#### 10. Establishment of tribunal panels[^key-574b6c192777954aae0759a0ff78b292]
+#### 10. Establishment of tribunal panels[^c-574b6c192777954aae0759a0ff78b292]
 
 (1) The jurisdiction of the Tribunal is to be exercised by such number of tribunal panels as the President may from time to time determine.
 
 (2) The tribunal panels exercising the jurisdiction conferred on them in accordance with paragraph (1) are to sit at such times and in such places as the President may from time to time determine.
 
-#### 11. Membership of tribunal panel[^key-0e9e1246df6f9e8790dc75b55a183228]
+#### 11. Membership of tribunal panel[^c-0e9e1246df6f9e8790dc75b55a183228]
 
 (1) Subject to regulation 45(5), a tribunal panel must consist of a person appointed as a Chair and two other members.
 
@@ -229,7 +229,7 @@ No person may be appointed as a member of the education panel unless the Welsh M
 
 #### Making an appeal or claim
 
-##### 12. Period within which proceedings must be commenced[^key-680ad54946b9aa76c89a8f1b442a7b38]
+##### 12. Period within which proceedings must be commenced[^c-680ad54946b9aa76c89a8f1b442a7b38]
 
 (1) An appeal to the Tribunal must be made by application in writing in accordance with these Regulations and must be received by the Tribunal no later than the first working day after the expiry of two months beginning with the date when written notice of the local authority’s decision and the right to appeal under Part 4 of the 1996 Act against that decision was given[^f00017].
 
@@ -244,7 +244,7 @@ No person may be appointed as a member of the education panel unless the Welsh M
 - (a) an appeal application unless proceedings are commenced in accordance with paragraphs (1) and (2);
 - (b) a claim application unless proceedings are commenced in accordance with paragraphs (3) and (4).
 
-##### 13. Appeal application[^key-5883625ac70658f3d30d87266e6c3243]
+##### 13. Appeal application[^c-5883625ac70658f3d30d87266e6c3243]
 
 (1) The appeal application must state—
 
@@ -283,7 +283,7 @@ No person may be appointed as a member of the education panel unless the Welsh M
 
 (6) The appeal application may, in accordance with regulation 38, include a request that the appeal is heard with a claim against a responsible body.
 
-##### 14. Claim application[^key-074a6fa4dd2b6ac3836bf3b0185dcf60]
+##### 14. Claim application[^c-074a6fa4dd2b6ac3836bf3b0185dcf60]
 
 (1) The claim application must state—
 
@@ -312,7 +312,7 @@ No person may be appointed as a member of the education panel unless the Welsh M
 
 (6) The claim application may, in accordance with regulation 38, include a request that the claim is heard with an appeal against a local authority.
 
-##### 15. Action by the Secretary of the Tribunal[^key-56279c5b666275733b11b211091bfd82]
+##### 15. Action by the Secretary of the Tribunal[^c-56279c5b666275733b11b211091bfd82]
 
 (1) Upon receiving the appeal application or the claim application the Secretary of the Tribunal must—
 
@@ -357,7 +357,7 @@ No person may be appointed as a member of the education panel unless the Welsh M
 
 (12) If paragraph (11) (a) applies, references in these Regulations (however expressed) to sending documents to, or giving notice to, the appellant or the claimant must be construed as references to sending documents to, or giving notice to, the representative.
 
-##### 16. Appeal or claim made out of time[^key-fb61947ce8611d5a106b5464d9f1fc2b]
+##### 16. Appeal or claim made out of time[^c-fb61947ce8611d5a106b5464d9f1fc2b]
 
 (1) The President may consider—
 
@@ -366,7 +366,7 @@ No person may be appointed as a member of the education panel unless the Welsh M
 
 (2) The President may seek further information from the person making the appeal or claim before making a decision under paragraph (1).
 
-##### 17. Sufficiency of reasons[^key-7ce68c4de7d9a3440465361d7a37e0d5]
+##### 17. Sufficiency of reasons[^c-7ce68c4de7d9a3440465361d7a37e0d5]
 
 (1) If the appeal application or the claim application does not include, or is not accompanied by, a statement of the reasons for making the appeal or the claim, including in relation to a claim the information set out in regulation 14(1)(i), (j) and (2), which the President considers sufficient to enable the local authority or responsible body to respond to the appeal or the claim, the President must direct the appellant or the claimant to send details of the reasons to the Secretary of the Tribunal within 10 working days of the direction.
 
@@ -374,7 +374,7 @@ No person may be appointed as a member of the education panel unless the Welsh M
 
 (3) Reasons sent in response to a direction made under paragraph (1) are to be treated as part of the appeal application or the claim application.
 
-##### 18. Appellant’s or claimant’s representatives[^key-b8e4a326ade2096d0790143e273f7a7e]
+##### 18. Appellant’s or claimant’s representatives[^c-b8e4a326ade2096d0790143e273f7a7e]
 
 (1) The appellant or the claimant may in the appeal application or the claim application or by giving written notice to the Secretary of the Tribunal at any later time—
 
@@ -388,7 +388,7 @@ No person may be appointed as a member of the education panel unless the Welsh M
 
 #### Case statements and supplementary provision
 
-##### 19. Case statement period[^key-71a3d9c90f604bc1e0cf0d92b0e9f814]
+##### 19. Case statement period[^c-71a3d9c90f604bc1e0cf0d92b0e9f814]
 
 (1) The case statement period—
 
@@ -400,7 +400,7 @@ No person may be appointed as a member of the education panel unless the Welsh M
 - (a) an appeal in accordance with regulation 17, the period specified in paragraph (1) does not start, and the Secretary of the Tribunal must not send a notice to the appellant as required by regulation 15(1)(b)(iv) or send any documents as required by regulation 15(2) until reasons are received in response to the direction;
 - (b) a claim in accordance with regulation 17 or makes enquiries under regulation 15(3), the period specified in paragraph (1) does not start, and the Secretary of the Tribunal must not send a notice to the claimant as required by regulation 15(1)(b)(iv) or send any documents to the responsible body as required by regulation 15(2), until reasons are received in response to the direction or the enquiries are concluded.
 
-##### 20. Appellant’s or claimant’s case statement and evidence[^key-b67bde56fa96fd3ef7a3bc0979999f6a]
+##### 20. Appellant’s or claimant’s case statement and evidence[^c-b67bde56fa96fd3ef7a3bc0979999f6a]
 
 (1) The appellant or the claimant must submit to the Secretary of the Tribunal before the end of the case statement period—
 
@@ -434,7 +434,7 @@ No person may be appointed as a member of the education panel unless the Welsh M
 
 (8) If, at the time permission is given under paragraph (3), the local authority or the responsible body has lost its entitlement to attend or be represented at the hearing in accordance with regulations 25 or 36 the giving of permission restores such entitlement and, if necessary, the hearing may be postponed or adjourned, as appropriate, so that the local authority or the responsible body can be represented.
 
-##### 21. Local authority’s or responsible body’s case statement and evidence[^key-5f7ff3b5918e2ff1b9a7b518f1fad548]
+##### 21. Local authority’s or responsible body’s case statement and evidence[^c-5f7ff3b5918e2ff1b9a7b518f1fad548]
 
 (1) The local authority or the responsible body must submit to the Secretary of the Tribunal before the end of the case statement period—
 
@@ -467,13 +467,13 @@ No person may be appointed as a member of the education panel unless the Welsh M
 
 (8) If, at the time permission is given under paragraph (5), the appellant or the claimant has lost entitlement to attend or be represented at the hearing in accordance with regulation 36, the giving of permission restores such entitlement and, if necessary, the hearing may be postponed or adjourned, as appropriate, so that the appellant or the claimant can be represented.
 
-##### 22. Change of local authority’s or responsible body’s representative[^key-430e0512b716fee34045fd646f310044]
+##### 22. Change of local authority’s or responsible body’s representative[^c-430e0512b716fee34045fd646f310044]
 
 (1) The local authority or the responsible body may at any time change its representative for the purposes of the appeal or the claim by notifying the Secretary of the Tribunal of the name and address of its new representative and if available the representative’s telephone number, facsimile number and email address.
 
 (2) References in these Regulations (however expressed) to sending documents to, or giving notice to, the local authority or the responsible body are to be construed as references to sending documents to, or giving notice to, the representative named in accordance with paragraph (1) or regulation 21(3)(b).
 
-##### 23. Change of local authority in an appeal[^key-5c528e5c69fa050863bc380c22545845]
+##### 23. Change of local authority in an appeal[^c-5c528e5c69fa050863bc380c22545845]
 
 (1) This regulation applies for the purposes of an appeal if, after the date on which the local authority made the disputed decision, the local authority is no longer responsible for the child within the meaning of section 321(3) of the 1996 Act (“the old authority”).
 
@@ -490,7 +490,7 @@ No person may be appointed as a member of the education panel unless the Welsh M
 - (e) the Secretary of the Tribunal must send to the new authority copies of all the documents and written evidence relating to the appeal received by the Tribunal from the appellant and from the old authority;
 - (f) the procedure for determining the appeal re-starts and regulation 15 applies as if the documents and written evidence sent in accordance with sub-paragraph (e) were part of the appeal application referred to in regulation 15(1).
 
-##### 24. Copy documents for parties[^key-6d6b029327603c86e41e7edb28de3ded]
+##### 24. Copy documents for parties[^c-6d6b029327603c86e41e7edb28de3ded]
 
 (1) Subject to paragraph (2), the Secretary of the Tribunal must—
 
@@ -502,7 +502,7 @@ No person may be appointed as a member of the education panel unless the Welsh M
 
 (3) Where the Secretary of the Tribunal sends any copies of documents referred to in paragraph (1) to a party who has already informed the Secretary of the Tribunal in response to the enquiries made under regulation 26(a)(i) and (ii) that the party does not wish to attend or be represented at the hearing, the Secretary of the Tribunal must ask whether the party wishes to amend that response on the basis of the copies received.
 
-##### 25. Failure to submit a case statement and absence of opposition[^key-e8337e943f4cd740e177cb7997526b8d]
+##### 25. Failure to submit a case statement and absence of opposition[^c-e8337e943f4cd740e177cb7997526b8d]
 
 (1) The tribunal panel may determine the appeal or the claim without a hearing or by holding a hearing if—
 
@@ -525,7 +525,7 @@ No person may be appointed as a member of the education panel unless the Welsh M
 
 #### Tribunal enquiries
 
-##### 26. Enquiries by the Secretary of the Tribunal[^key-b1af9a314a1cfa1169581cbcba277d7f]
+##### 26. Enquiries by the Secretary of the Tribunal[^c-b1af9a314a1cfa1169581cbcba277d7f]
 
 The Secretary of the Tribunal must at any time after receiving the appeal application or the claim application—
 
@@ -541,7 +541,7 @@ The Secretary of the Tribunal must at any time after receiving the appeal applic
   - (i) of the effect of regulation 43(6) and the provision of regulation 46(2); and
   - (ii) that where an answer to any of the enquiries under sub-paragraph (a) changes after a party has responded to the enquiries, the party concerned must immediately inform the Secretary of the Tribunal in writing.
 
-##### 27. Failure to respond to enquiries made by the Secretary of the Tribunal[^key-339d0adc5c44c65ebe7138e4ed6d5bc6]
+##### 27. Failure to respond to enquiries made by the Secretary of the Tribunal[^c-339d0adc5c44c65ebe7138e4ed6d5bc6]
 
 (1) The President may order—
 
@@ -561,11 +561,11 @@ The Secretary of the Tribunal must at any time after receiving the appeal applic
 
 #### The Tribunal’s management powers
 
-##### 28. General powers[^key-fc0a5a6c8f490b579d5d0f80caa86ddd]
+##### 28. General powers[^c-fc0a5a6c8f490b579d5d0f80caa86ddd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 29. Power to strike out the appeal or claim[^key-d064c4f46636554510d9a6b9849f15ce]
+##### 29. Power to strike out the appeal or claim[^c-d064c4f46636554510d9a6b9849f15ce]
 
 (1) The Secretary of the Tribunal must, at any stage of the appeal or claim if the local authority or the responsible body applies, or the President or the tribunal panel so directs, serve a notice on the appellant or the claimant stating that it has been proposed that the whole or part of the appeal or the claim should be struck out on one of the grounds specified in paragraph (2) or for want of prosecution.
 
@@ -593,7 +593,7 @@ The Secretary of the Tribunal must at any time after receiving the appeal applic
 
 (8) If the whole of an appeal application or a claim application is struck out under paragraph (5) the proceedings to which the appeal or claim relates are deemed to be concluded.
 
-##### 30. Order to amend case statement[^key-86d206c9aed460b5ea19a831135cbdca]
+##### 30. Order to amend case statement[^c-86d206c9aed460b5ea19a831135cbdca]
 
 (1) The President or the tribunal panel may, if the President or the tribunal panel thinks fit at any stage of the appeal or the claim, order that a party’s case statement is amended on the grounds that it discloses no reasonable grounds for bringing the appeal or the claim or it is an abuse of the Tribunal’s process.
 
@@ -606,7 +606,7 @@ The Secretary of the Tribunal must at any time after receiving the appeal applic
   - (i) in the case of written representations, they are made within the period so specified; and
   - (ii) in the case of oral representations, the party proposing to make them has requested an opportunity to do so within the period so specified.
 
-##### 31. Evidence and submissions[^key-8fc604b955ab8352b4a625d77e0b2ffc]
+##### 31. Evidence and submissions[^c-8fc604b955ab8352b4a625d77e0b2ffc]
 
 (1) The President or the tribunal panel may give directions on—
 
@@ -633,7 +633,7 @@ The Secretary of the Tribunal must at any time after receiving the appeal applic
   - (ii) the evidence was otherwise provided in a manner that did not comply with a direction; or
   - (iii) it would otherwise be unfair to admit the evidence.
 
-##### 32. Directions in preparation for a hearing[^key-244ed7b10570b77eb29c57ef3a164a8d]
+##### 32. Directions in preparation for a hearing[^c-244ed7b10570b77eb29c57ef3a164a8d]
 
 (1) The President or the tribunal panel may, on the application of a party or on the President’s or the tribunal panel’s own initiative, give such directions to a party on any matter arising in connection with the appeal or claim as the President or the tribunal panel thinks fit, including such directions as are provided in regulations 34 and 35 to enable the parties to prepare for the hearing or to assist the President or the tribunal panel to determine the issues.
 
@@ -664,17 +664,17 @@ The Secretary of the Tribunal must at any time after receiving the appeal applic
 
 (10) Where it appears to the President or the tribunal panel that there is an issue in an appeal or claim which must be determined prior to the substantive hearing of the appeal or the claim and which cannot properly be determined by the giving of directions, the President or the tribunal panel may summon the parties to appear before the President or the tribunal panel for this purpose and may give any necessary directions relating to their appearance.
 
-##### 33. Varying or setting aside directions[^key-be86a69a66fbb621417af42764ab0a1b]
+##### 33. Varying or setting aside directions[^c-be86a69a66fbb621417af42764ab0a1b]
 
 (1) Where a party to whom a direction is addressed had no opportunity to object to the giving of the direction and did not give written consent to the application for it, that party may apply at any time to the President or the tribunal panel, by notice to the Secretary of the Tribunal, for the direction to be varied or set aside.
 
 (2) The President or the tribunal panel must not vary the direction or set it aside without first notifying the parties and considering any representations made by them.
 
-##### 34. Particulars and supplementary statements[^key-3f8bc5b638e75e96882164a8955aba7a]
+##### 34. Particulars and supplementary statements[^c-3f8bc5b638e75e96882164a8955aba7a]
 
 The President or the tribunal panel may give directions requiring any party to provide in or with that party’s case statement such particulars or supplementary statements as may reasonably be required for the determination of the appeal or the claim.
 
-##### 35. Disclosure of documents and other material[^key-ce65937e13f2be8100a80625fc4fdd29]
+##### 35. Disclosure of documents and other material[^c-ce65937e13f2be8100a80625fc4fdd29]
 
 (1) The President or the tribunal panel may—
 
@@ -696,7 +696,7 @@ The President or the tribunal panel may give directions requiring any party to p
 - (a) in relation to an appeal, that under section 336 of the 1996 Act, any person who without reasonable excuse fails to comply with requirements regarding disclosure or inspection of documents is liable on summary conviction to a fine not exceeding level 3 on the standard scale;
 - (b) in relation to a claim, that under paragraph 6(8) of Schedule 17 to the 2010 Act, any person who without reasonable excuse fails to comply with requirements regarding disclosure or inspection of documents is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-##### 36. Failure to comply with directions[^key-35f04c8476785599d793f7e779525eaf]
+##### 36. Failure to comply with directions[^c-35f04c8476785599d793f7e779525eaf]
 
 (1) If a party has not complied with a direction given under these Regulations within the time specified in the direction the President or the tribunal panel may—
 
@@ -708,7 +708,7 @@ The President or the tribunal panel may give directions requiring any party to p
 
 (2) In this regulation “the party in default” (“*y parti diffygiol*”) means the party which has failed to comply with the direction.
 
-##### 37. Consolidating appeals or claims[^key-2579616f34cf87c9bc2b1595af3a3d55]
+##### 37. Consolidating appeals or claims[^c-2579616f34cf87c9bc2b1595af3a3d55]
 
 (1) If more than one appeal relates to the same child, or requires a decision on substantially the same issue, the President may order that the appeals are heard together.
 
@@ -720,7 +720,7 @@ The President or the tribunal panel may give directions requiring any party to p
 
 (5) An order made under this regulation must only be made if it appears, in the opinion of the President, to be fair and just to do so and before an order is made each party to every appeal or claim affected must be given an opportunity to be heard.
 
-##### 38. Consolidating claims together with appeals[^key-50423c1a7f074d4b4c8ced4c33999d95]
+##### 38. Consolidating claims together with appeals[^c-50423c1a7f074d4b4c8ced4c33999d95]
 
 (1) Subject to paragraphs (2) and (3), where a claim relates to the same child and either arises from the same circumstances or requires a decision on substantially the same issue as an appeal, the President may order that the claim is heard with the appeal.
 
@@ -734,7 +734,7 @@ The President or the tribunal panel may give directions requiring any party to p
 
 (6) An order made under this regulation must only be made if it appears, in the opinion of the President, to be fair and just to do so, and before an order is made each party to every claim or appeal affected must be given an opportunity to be heard.
 
-##### 39. Addition and substitution of parties[^key-92b2afd285cc35534a21088faee4e4be]
+##### 39. Addition and substitution of parties[^c-92b2afd285cc35534a21088faee4e4be]
 
 (1) A person may make an application to be joined as a party to the appeal or the claim.
 
@@ -752,7 +752,7 @@ The President or the tribunal panel may give directions requiring any party to p
 
 (5) Unless the President or the tribunal panel directs otherwise, a person appointed or substituted under this regulation must be treated as a party for the purpose of any provision in these Regulations requiring a document to be served on, or sent to, or notice to be given to a party to the appeal or claim.
 
-##### 40. Transfer of appeal[^key-683f19a2ff841bb5dd765f56e8416ff5]
+##### 40. Transfer of appeal[^c-683f19a2ff841bb5dd765f56e8416ff5]
 
 (1) This regulation applies to proceedings in relation to an appeal made by an appellant other than an appellant entitled to make an appeal under regulations made under section 17(1) and (2) of the Education (Wales) Measure 2009.
 
@@ -764,7 +764,7 @@ The President or the tribunal panel may give directions requiring any party to p
 
 #### Hearings and decisions
 
-##### 41. Notice of date, place and time of hearings[^key-1baa4b7fbd2fb31168423fd13e8fa356]
+##### 41. Notice of date, place and time of hearings[^c-1baa4b7fbd2fb31168423fd13e8fa356]
 
 (1) Subject to the provisions of paragraph (2) and regulation 42, the Secretary of the Tribunal must, after consultation with the parties, fix the date, place and time of the hearing and send to each party a notice specifying the date, place and time of the hearing.
 
@@ -789,7 +789,7 @@ The President or the tribunal panel may give directions requiring any party to p
 
 (7) Nothing in paragraphs (1) or (5) oblige the Secretary of the Tribunal to consult or send a notice to any person who is not entitled to be represented at the hearing.
 
-##### 42. Power to determine the appeal or claim without a hearing[^key-6be7e75a36385e3f5c989825a2372114]
+##### 42. Power to determine the appeal or claim without a hearing[^c-6be7e75a36385e3f5c989825a2372114]
 
 (1) The President or the tribunal panel may determine the appeal or the claim or any particular issue without a hearing—
 
@@ -798,7 +798,7 @@ The President or the tribunal panel may give directions requiring any party to p
 
 (2) Before making a determination under paragraph (1), the tribunal panel must consider any representations in writing already submitted by the parties (for the purpose of this regulation the appeal application or the claim application and the parties' case statements are treated as representations in writing).
 
-##### 43. Public and private hearings: arrangements and exceptions[^key-d481f83b8564bdc407f9400623a4a2f0]
+##### 43. Public and private hearings: arrangements and exceptions[^c-d481f83b8564bdc407f9400623a4a2f0]
 
 (1) Subject to paragraph (2), all hearings of the Tribunal must be in private.
 
@@ -836,7 +836,7 @@ The President or the tribunal panel may give directions requiring any party to p
 
 (7) Except as provided in regulation 46(3) and (4) none of the persons mentioned in paragraphs (4) or (5) may, except in the case of the persons specified in sub-paragraphs (c), (g), and (h) of paragraph (4) as their respective duties require, take any part in the hearing or (where entitled or permitted to remain) in the deliberations of the tribunal panel.
 
-##### 44. Restricted reporting orders[^key-6a8e90c38afc460f217f42603f26af16]
+##### 44. Restricted reporting orders[^c-6a8e90c38afc460f217f42603f26af16]
 
 (1) If it appears appropriate to do so the President or the tribunal panel may make an order limiting or prohibiting the publishing of any matter that is likely to lead members of the public to identify the appellant, claimant, child or other person, where it is considered that they should not be identified.
 
@@ -847,7 +847,7 @@ The President or the tribunal panel may give directions requiring any party to p
 
 (3) An order under this regulation may be made in respect of a limited period and may be varied or revoked by the President or the tribunal panel.
 
-##### 45. Procedure at hearing[^key-99c30800d649444e51358628ff360c20]
+##### 45. Procedure at hearing[^c-99c30800d649444e51358628ff360c20]
 
 (1) At the beginning of the hearing the Chair must explain the order of proceedings which the tribunal panel proposes to adopt.
 
@@ -865,7 +865,7 @@ The President or the tribunal panel may give directions requiring any party to p
 - (a) the hearing may, with the consent of the parties, be conducted by the other two members and in that event the tribunal panel is to be regarded as properly constituted and the decision of the tribunal panel may be taken by those two members;
 - (b) the absent member must not rejoin the hearing.
 
-##### 46. Evidence at hearing[^key-6503654093d8af1c7351718f9a23f4f9]
+##### 46. Evidence at hearing[^c-6503654093d8af1c7351718f9a23f4f9]
 
 (1) Subject to regulation 43(6), in the course of the hearing the parties are entitled to give evidence, to call witnesses, to question any witness and to address the tribunal panel both on the evidence, including the written evidence submitted before the hearing, and generally on the subject matter of the appeal or the claim.
 
@@ -893,13 +893,13 @@ The President or the tribunal panel may give directions requiring any party to p
 
 (8) The President or the tribunal panel may require any party or witness to give evidence on oath or affirmation, and for that purpose there may be administered an oath or affirmation in the correct form, or may require any evidence given by a written statement to be given by statement of truth.
 
-##### 47. Change of witness[^key-6fa439bebbcc66cf8f86eb2ef6bca3bb]
+##### 47. Change of witness[^c-6fa439bebbcc66cf8f86eb2ef6bca3bb]
 
 (1) The person named as a party’s witness in response to an enquiry made under regulation 26 may be changed by that party if written notification is received by the Secretary of the Tribunal and a copy of the notification served on the other party no later than 5 working days before the hearing.
 
 (2) Any application to change a witness made less than 5 working days before the hearing must be determined by the President or the tribunal panel.
 
-##### 48. Summoning a witness[^key-ae5df5f693692d94cbe49315b632b9ce]
+##### 48. Summoning a witness[^c-ae5df5f693692d94cbe49315b632b9ce]
 
 (1) Subject to paragraphs (2) to (5), the President or the tribunal panel may, on the application of a party or on the President’s or the tribunal panel’s own initiative, require by summons any person to attend as a witness at a hearing at such time and place as may be specified in the summons, and at any postponement or adjournment of that hearing, and at the hearing to answer any questions or produce any documents or other material in the person’s custody or under the person’s control which relate to any matter in question in the appeal or claim.
 
@@ -923,11 +923,11 @@ The President or the tribunal panel may give directions requiring any party to p
 
 (9) The President or the tribunal panel must not vary or set aside the witness summons without first notifying the party who applied for the issue of the witness summons and considering any representations made by that party.
 
-##### 49. Evidence by telephone, video link or other means[^key-a4b8fe160248677782b33054af78dab4]
+##### 49. Evidence by telephone, video link or other means[^c-a4b8fe160248677782b33054af78dab4]
 
 The President may, on the application of a party or on the President’s or the tribunal panel’s own initiative, permit a party or a witness to give evidence by telephone, through a video link or by any other means of communication, if satisfied that this would not prejudice the achievement of the overriding objective of these Regulations.
 
-##### 50. Late written evidence[^key-cd136c4cb09124cc9187f2187dcadf81]
+##### 50. Late written evidence[^c-cd136c4cb09124cc9187f2187dcadf81]
 
 (1) At the beginning of the hearing, a party may submit for admission further written evidence if—
 
@@ -945,7 +945,7 @@ The President may, on the application of a party or on the President’s or the 
 
 (5) If the conditions in paragraph (2) are not met, the President or the tribunal panel may give a party permission to submit further written evidence at the hearing if the President or the tribunal panel is of the opinion that unless the evidence is admitted, there is a serious risk of prejudice to the party seeking to rely on it.
 
-##### 51. Postponement of hearing[^key-a23466584ebf6eedd9c3e9013dafd1d2]
+##### 51. Postponement of hearing[^c-a23466584ebf6eedd9c3e9013dafd1d2]
 
 (1) The President or the tribunal panel may, on the President’s or the tribunal panel’s own initiative or on the application of a party, in exceptional circumstances, make an order to postpone a hearing.
 
@@ -958,7 +958,7 @@ The President may, on the application of a party or on the President’s or the 
 
 (4) Nothing in paragraph (3) obliges the Secretary of the Tribunal to consult or send a notice to any person who is not entitled to be represented at the hearing.
 
-##### 52. Adjournments and directions[^key-e3bf891326bfc40010ac43066ba5fef0]
+##### 52. Adjournments and directions[^c-e3bf891326bfc40010ac43066ba5fef0]
 
 (1) The President or the tribunal panel may adjourn a hearing.
 
@@ -973,7 +973,7 @@ The President may, on the application of a party or on the President’s or the 
 
 (5) If the place and time of an adjourned hearing is announced at the hearing before the adjournment, no further notice is required.
 
-##### 53. Representation at hearing[^key-7d97baea9f535c4df96199602a5f36c5]
+##### 53. Representation at hearing[^c-7d97baea9f535c4df96199602a5f36c5]
 
 (1) Subject to paragraph (2), at any hearing or part of a hearing—
 
@@ -987,7 +987,7 @@ The President may, on the application of a party or on the President’s or the 
 
 (3) If a party does not intend to attend or be represented at the hearing the party may, no later than 5 working days before the hearing, send to the Secretary of the Tribunal additional written representations in support of that party’s case.
 
-##### 54. Failure to attend hearing[^key-fb2d478828db0d65265092610e3ed016]
+##### 54. Failure to attend hearing[^c-fb2d478828db0d65265092610e3ed016]
 
 (1) If a party fails to attend or be represented at a hearing of which that party had been notified, the tribunal panel may—
 
@@ -996,7 +996,7 @@ The President may, on the application of a party or on the President’s or the 
 
 (2) Before disposing of an appeal or claim in the absence of a party, the tribunal panel must consider any representations in writing submitted by that party in response to the notice of hearing and, for the purpose of this regulation the appeal application or claim application and the parties' case statements are to be treated as representations in writing.
 
-##### 55. Tribunal panel’s decision[^key-d9ea1e23e48e1e770edabc2d2af767a8]
+##### 55. Tribunal panel’s decision[^c-d9ea1e23e48e1e770edabc2d2af767a8]
 
 (1) For the purposes of arriving at its decision the tribunal panel must, and for the purposes of discussing a question of procedure may, notwithstanding anything contained in these Regulations, order all persons to withdraw from the sitting of the tribunal panel other than the members of the tribunal panel and any of the persons mentioned in regulation 43(4)(c) to (f), or, as their respective duties require, regulation 43(4)(g) and (h).
 
@@ -1016,7 +1016,7 @@ The President may, on the application of a party or on the President’s or the 
 
 #### After the hearing
 
-##### 56. Application or proposal for review of the Tribunal’s decision[^key-850e5f9947380b85b86d29edc0f1c16f]
+##### 56. Application or proposal for review of the Tribunal’s decision[^c-850e5f9947380b85b86d29edc0f1c16f]
 
 (1) A party may apply to the Secretary of the Tribunal for the decision of the President or the tribunal panel to be reviewed on the grounds that—
 
@@ -1066,7 +1066,7 @@ The President may, on the application of a party or on the President’s or the 
 
 (14) If a decision is set aside or varied following a review under this regulation the Secretary of the Tribunal must alter the entry in the Register and must notify the parties accordingly.
 
-##### 57. Review of Tribunal’s decision not to extend the period in which proceedings must be commenced[^key-e6ca6d239b92c1af6b396f7513573fd1]
+##### 57. Review of Tribunal’s decision not to extend the period in which proceedings must be commenced[^c-e6ca6d239b92c1af6b396f7513573fd1]
 
 (1) A decision by the President not to extend the time for submitting an appeal application under regulation 16 may be reviewed under regulation 56 on the application of a person as if the person was a party to the appeal.
 
@@ -1074,17 +1074,17 @@ The President may, on the application of a party or on the President’s or the 
 
 (3) If an application for review is made under paragraphs (1) or (2), the Secretary of the Tribunal must serve a copy of the application on the local authority or the responsible body and give the local authority or the responsible body a notice inviting written representations within a specified period.
 
-##### 58. Consideration of an application for permission to appeal to the Upper Tribunal[^key-1c57f706be291f9794524af988201084]
+##### 58. Consideration of an application for permission to appeal to the Upper Tribunal[^c-1c57f706be291f9794524af988201084]
 
 (1) On receiving an application under regulation 39A of the Special Educational Needs Tribunal Regulations 2001, or regulation 39A of the Special Educational Needs and Disability Tribunal (General Provisions and Disability Claims Procedure) Regulations 2002, for permission to appeal to the Upper Tribunal the President or the Chair of the tribunal panel which decided the case must first consider, taking into account the overriding objective in regulation 6, whether to review the Tribunal’s decision in accordance with regulation 56 unless the President or the Chair have already reviewed the decision or decided not to review the decision.
 
 (2) If the President or the Chair decides not to review the decision, or reviews the decision and decides to take no action in relation to the decision, or part of it, the President or the Chair must then consider whether to give permission to appeal in relation to the decision or that part of it.
 
-##### 59. Power to suspend Tribunal’s decision[^key-bd291a46618cf3c0e6a601dcafa4a078]
+##### 59. Power to suspend Tribunal’s decision[^c-bd291a46618cf3c0e6a601dcafa4a078]
 
 The President or the Chair of the tribunal panel which decided the case may, on application or on the President’s or the Chair’s own initiative, make an order to suspend the effect of the tribunal panel’s decision pending the determination by the President or the Chair or the Upper Tribunal of an application for permission to appeal against, and any appeal or review of, that decision.
 
-##### 60. Orders of the Upper Tribunal or the Court[^key-06c4e9d297c620463b11b12e2f80cdfc]
+##### 60. Orders of the Upper Tribunal or the Court[^c-06c4e9d297c620463b11b12e2f80cdfc]
 
 (1) If any decision of the Tribunal is set aside, varied or altered in any way by order of the Upper Tribunal or the Court, the Secretary of the Tribunal must alter the entry in the Register to correspond to that order and must notify the parties accordingly.
 
@@ -1101,7 +1101,7 @@ The President or the Chair of the tribunal panel which decided the case may, on 
 
 #### Compliance
 
-##### 61. Compliance with tribunal panel orders — appeals[^key-a202f347fc2c6e5ae4aaf912f153a589]
+##### 61. Compliance with tribunal panel orders — appeals[^c-a202f347fc2c6e5ae4aaf912f153a589]
 
 (1) Subject to paragraph (5), if the tribunal panel, following its decision in relation to an appeal, makes an order requiring a local authority to perform an action referred to in paragraph (2) the local authority must perform that action within the time period specified in paragraph (2).
 
@@ -1130,11 +1130,11 @@ The President or the Chair of the tribunal panel which decided the case may, on 
 
 - (a) exceptional personal circumstances affect the parent or, where the appellant was the child, the child during the time period;
 - (b) the parent or, where the appellant was the child, the child is absent from the area of the local authority for a continuous period of no less than 2 weeks, or where paragraph (3) applies no less than 5 weeks, during the time period;
-- (c) the parent has indicated that the parent wishes to make representations to the local authority about the content of the statement under paragraph 4(1) of Schedule 27 to the 1996 Act after the expiry of the 15 day period for making such representations provided for in paragraph 4(4) of that Schedule; or[^key-592c57605b52c671fdce7d97d054c7d9]
-- (d) a meeting between the parent and an officer of the local authority has been held under paragraph 4(1) of Schedule 27 to the 1996 Act and the parent under paragraph 4(2) of that Schedule has either required that another such meeting is arranged or has required that a meeting with the appropriate person is arranged; [^key-4822c2229606d6936299e68dd61f9093]...
-- (e)[^key-4822c2229606d6936299e68dd61f9093] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) the parent has indicated that the parent wishes to make representations to the local authority about the content of the statement under paragraph 4(1) of Schedule 27 to the 1996 Act after the expiry of the 15 day period for making such representations provided for in paragraph 4(4) of that Schedule; or[^c-592c57605b52c671fdce7d97d054c7d9]
+- (d) a meeting between the parent and an officer of the local authority has been held under paragraph 4(1) of Schedule 27 to the 1996 Act and the parent under paragraph 4(2) of that Schedule has either required that another such meeting is arranged or has required that a meeting with the appropriate person is arranged; [^c-4822c2229606d6936299e68dd61f9093]...
+- (e)[^c-4822c2229606d6936299e68dd61f9093] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 62. Compliance with appellant’s request when a local authority concedes an appeal[^key-470dc7489f232c13ae62b57a13cb646e]
+##### 62. Compliance with appellant’s request when a local authority concedes an appeal[^c-470dc7489f232c13ae62b57a13cb646e]
 
 (1) Subject to paragraph (3) if, under section 326A(2) of the 1996 Act, an appeal to the Tribunal is treated as having been determined in favour of the appellant, the local authority must—
 
@@ -1148,17 +1148,17 @@ The President or the Chair of the tribunal panel which decided the case may, on 
 
 - (a) exceptional personal circumstances affect the parent or, where the appellant is the child, the child during the relevant time period;
 - (b) the parent or, where the appellant is the child, the child is absent from the area of the local authority for a continuous period of no less than 2 weeks during the relevant time period;
-- (c) the parent has indicated that the parent wishes to make representations to the local authority about the content of the statement under paragraph 4(1) of Schedule 27 to the 1996 Act after the expiry of the 15 day period for making such representations provided for in paragraph 4(4) of that Schedule; or[^key-ea73701e48a7f507fc52479c15657bfd]
-- (d) a meeting between the parent and an officer of the local authority has been held under paragraph 4(1) of Schedule 27 to the 1996 Act and the parent under paragraph 4(2) of that Schedule has either required that another such meeting is arranged or has required that a meeting with the appropriate person is arranged, [^key-34a854348ca0e9cb800a697d2f8f614b]...
-- (e)[^key-34a854348ca0e9cb800a697d2f8f614b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) the parent has indicated that the parent wishes to make representations to the local authority about the content of the statement under paragraph 4(1) of Schedule 27 to the 1996 Act after the expiry of the 15 day period for making such representations provided for in paragraph 4(4) of that Schedule; or[^c-ea73701e48a7f507fc52479c15657bfd]
+- (d) a meeting between the parent and an officer of the local authority has been held under paragraph 4(1) of Schedule 27 to the 1996 Act and the parent under paragraph 4(2) of that Schedule has either required that another such meeting is arranged or has required that a meeting with the appropriate person is arranged, [^c-34a854348ca0e9cb800a697d2f8f614b]...
+- (e)[^c-34a854348ca0e9cb800a697d2f8f614b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART C — CASE FRIENDS
 
-### 63. Application[^key-c50ca8ecf63dd43c43c71e5a5101f4c1]
+### 63. Application[^c-c50ca8ecf63dd43c43c71e5a5101f4c1]
 
 Regulations 64 to 68 apply to an appellant or a claimant other than an appellant or claimant who is a parent of a child who is the subject of the appeal application or the claim application.
 
-### 64. Requirement for case friend[^key-268c73a8f47cf6f3d5a2980e15d29620]
+### 64. Requirement for case friend[^c-268c73a8f47cf6f3d5a2980e15d29620]
 
 (1) Subject to paragraph (2), an appellant or a claimant may conduct proceedings in relation to an appeal or claim without a case friend.
 
@@ -1181,11 +1181,11 @@ is to be determined by the President or the tribunal panel.
 
 (8) Where the President or the tribunal panel has made a finding in accordance with paragraph (2), the President or the tribunal panel must direct the appellant or the claimant to appoint a case friend.
 
-### 65. Who may be a case friend[^key-c0f8f1245b872ae60bf188446328fad0]
+### 65. Who may be a case friend[^c-c0f8f1245b872ae60bf188446328fad0]
 
 A person may only act as a case friend if the person is not barred from regulated activity relating to children within the meaning of section 3(2)(a) of the Safeguarding Vulnerable Groups Act 2006[^f00024].
 
-### 66. How a person becomes a case friend[^key-f4105f84f2e359fca392b62fd6d54211]
+### 66. How a person becomes a case friend[^c-f4105f84f2e359fca392b62fd6d54211]
 
 (1) A person who wishes to act as a case friend must submit a declaration of suitability to the Tribunal.
 
@@ -1201,7 +1201,7 @@ A person may only act as a case friend if the person is not barred from regulate
 - (a) the views of the appellant’s or the claimant’s parent in relation to the person’s wish to act as the appellant’s or the claimant’s case friend; or
 - (b) an explanation of why the person has not established the parent’s views.
 
-(4) Subject to paragraph (5) the declaration of suitability must be accompanied by an enhanced disclosure certificate issued by the Disclosure and Barring Service[^key-301aa234124aedb29b847ffcf0872e8a] confirming the person’s suitability to work with children.
+(4) Subject to paragraph (5) the declaration of suitability must be accompanied by an enhanced disclosure certificate issued by the Disclosure and Barring Service[^c-301aa234124aedb29b847ffcf0872e8a] confirming the person’s suitability to work with children.
 
 (5) The requirement in paragraph (4) does not apply where the person who wishes to act as the case friend is the appellant’s or the claimant’s parent, step-parent, brother, step-brother, sister, step-sister, grand-parent, uncle, aunt, nephew or niece.
 
@@ -1219,7 +1219,7 @@ A person may only act as a case friend if the person is not barred from regulate
 - (a) the parties to the proceedings; and
 - (b) the appellant’s or the claimant’s parent.
 
-### 67. Steps in proceedings[^key-417bf9143ddef208baf103be5a77afde]
+### 67. Steps in proceedings[^c-417bf9143ddef208baf103be5a77afde]
 
 (1) If during the appeal or the claim the President or the tribunal panel make a finding under regulation 64(2), no party may take any further step in the appeal or the claim without the President’s or the tribunal panel’s permission until and unless a person who wishes to act as the appellant’s or the claimant’s case friend has submitted a declaration of suitability to the Tribunal in accordance with regulation 66.
 
@@ -1227,7 +1227,7 @@ A person may only act as a case friend if the person is not barred from regulate
 
 (3) If paragraph (2) applies references in these Regulations (however expressed) to sending documents to, or giving notice to, the appellant or the claimant must be construed as references to sending documents to, or giving notice to, the case friend.
 
-### 68. Removing a case friend[^key-e6f09cb453a22a4bb78ec66f340b2d15]
+### 68. Removing a case friend[^c-e6f09cb453a22a4bb78ec66f340b2d15]
 
 (1) A person may act as a case friend unless the President or the tribunal panel directs that the person may not, or may not continue to, act as a case friend.
 
@@ -1257,7 +1257,7 @@ A person may only act as a case friend if the person is not barred from regulate
 
 ## PART D — MISCELLANEOUS
 
-### 69. Extension of time[^key-c5b2c564ca943247f2d7b11045dd3720]
+### 69. Extension of time[^c-c5b2c564ca943247f2d7b11045dd3720]
 
 (1) Subject to paragraph (2), the President may, on application of a party or on the President’s own initiative, direct that a period of time in these Regulations or a direction made under them is extended.
 
@@ -1267,14 +1267,14 @@ A person may only act as a case friend if the person is not barred from regulate
 
 (4) Where the President has extended a period of time, reference in these Regulations or in a direction made under them to that period of time must be construed as a reference to the period of time so extended.
 
-### 70. Withdrawal[^key-6787af20e19f3fe7d14e5ecea8a072e1]
+### 70. Withdrawal[^c-6787af20e19f3fe7d14e5ecea8a072e1]
 
 A person may withdraw an appeal or a claim—
 
 - (a) by giving notice to the Secretary of the Tribunal at any time before a hearing; or
 - (b) orally at a hearing.
 
-### 71. Orders for costs and expenses[^key-7da3232773f052278bf25a6493e328d1]
+### 71. Orders for costs and expenses[^c-7da3232773f052278bf25a6493e328d1]
 
 (1) The President or the Chair of the tribunal panel which decided the case must not normally make an order in respect of costs and expenses, but may, subject to paragraph (3), make such an order—
 
@@ -1317,7 +1317,7 @@ A person may withdraw an appeal or a claim—
 
 (11) An order under this regulation for costs to be assessed must allow the county court to make a detailed assessment of costs in accordance with the Civil Procedure Rules 1998 either on the standard basis or if specified in the order on the indemnity basis .
 
-### 72. Power to exercise the functions of the President and Chair[^key-644170be16de22bae7c8dfa1438b2776]
+### 72. Power to exercise the functions of the President and Chair[^c-644170be16de22bae7c8dfa1438b2776]
 
 (1) Subject to paragraph (2), a Chair may exercise any function which these Regulations require or authorise the President to do.
 
@@ -1330,7 +1330,7 @@ A person may withdraw an appeal or a claim—
 
 (4) Subject to regulation 77(6), in the event of the death or incapacity of the Chair, or if the Chair ceases to be a member of the chairmen’s panel, following the decision of the tribunal panel, the functions of the Chair may be exercised by the President or another Chair appointed from the chairmen’s panel.
 
-### 73. Power to exercise the functions of an education panel member in relation to a review[^key-917a7a0ff2ec401d8ac599c6dd6976ce]
+### 73. Power to exercise the functions of an education panel member in relation to a review[^c-917a7a0ff2ec401d8ac599c6dd6976ce]
 
 (1) In the event of the death or incapacity of a member of the tribunal panel other than the Chair, or if a person ceases to be a member of the education panel, following the decision of the tribunal panel, the functions of the tribunal panel in relation to any review of a decision may be undertaken by the other two members.
 
@@ -1339,11 +1339,11 @@ A person may withdraw an appeal or a claim—
 - (a) which is constituted of two members in accordance with regulation 45(5);
 - (b) of which any person is authorised to act in place of the Chair in accordance with regulation 72(4).
 
-### 74. The Secretary of the Tribunal[^key-686e6840d229ade061ac5ab2b36e6986]
+### 74. The Secretary of the Tribunal[^c-686e6840d229ade061ac5ab2b36e6986]
 
 A function of the Secretary of the Tribunal may be performed by another member of the staff of the Tribunal authorised by the President.
 
-### 75. Register[^key-9ca19729bacdfed3276a53c6310ddb7e]
+### 75. Register[^c-9ca19729bacdfed3276a53c6310ddb7e]
 
 (1) The Secretary of the Tribunal must keep a Register of appeals and claims registered by the Tribunal.
 
@@ -1357,7 +1357,7 @@ A function of the Secretary of the Tribunal may be performed by another member o
 
 (3) The Register or any part of it may be kept in electronic form.
 
-### 76. Publication[^key-91a6bd6d97dc3d03fd5923bc7acef33f]
+### 76. Publication[^c-91a6bd6d97dc3d03fd5923bc7acef33f]
 
 (1) The President may make such arrangements as the President considers appropriate for the publication of tribunal panel decisions.
 
@@ -1371,7 +1371,7 @@ A function of the Secretary of the Tribunal may be performed by another member o
 
 (4) A decision of the tribunal panel must be published in such manner as to protect the anonymity of the child.
 
-### 77. Irregularities[^key-4c21fca5a57287661201ae9b12cc5bfc]
+### 77. Irregularities[^c-4c21fca5a57287661201ae9b12cc5bfc]
 
 (1) An irregularity resulting from failure to comply with any provision of these Regulations, a practice direction or of any direction of the President or the tribunal panel before the tribunal panel has reached its decision may not of itself render the proceedings void.
 
@@ -1385,13 +1385,13 @@ A function of the Secretary of the Tribunal may be performed by another member o
 
 (6) Where these Regulations require the Chair to sign a document, but by reason of death or incapacity the Chair is unable to do so, the other members of the tribunal panel must sign it and certify that the Chair is unable to sign.
 
-### 78. Proof of documents and certification of decisions[^key-2f476277123a30f063e2a2ec989eb246]
+### 78. Proof of documents and certification of decisions[^c-2f476277123a30f063e2a2ec989eb246]
 
 (1) A document purporting to be a document issued by the Secretary of the Tribunal on behalf of the President or the tribunal panel is, unless the contrary is proved, to be considered to be a document so issued.
 
 (2) A document purporting to be certified by the Secretary of the Tribunal as a true copy of a document containing a decision of the tribunal panel is, unless the contrary is proved, to be sufficient evidence of its contents.
 
-### 79. Method of sending, submitting or serving notices and documents[^key-95a849ba54adfd6711e000c4106e43d3]
+### 79. Method of sending, submitting or serving notices and documents[^c-95a849ba54adfd6711e000c4106e43d3]
 
 (1) A notice given under these Regulations must be in writing and a party whom the Regulations require to notify a matter to the Secretary of the Tribunal must do so in writing.
 
@@ -1431,7 +1431,7 @@ A function of the Secretary of the Tribunal may be performed by another member o
 
 (14) Where for any sufficient reason service of any document or notice cannot be effected in the manner prescribed under this regulation, the President or the tribunal panel may dispense with service or make an order for substituted service in such manner as the President or the tribunal panel may deem fit and such service must have the same effect as service in the manner prescribed under this regulation.
 
-### 80. Calculating time[^key-b43c303d485176e0875ce5acb2fb7317]
+### 80. Calculating time[^c-b43c303d485176e0875ce5acb2fb7317]
 
 (1) An act required by these Regulations, a practice direction or a direction to be done on or by a particular day must be done by 5pm on that day.
 
@@ -1444,7 +1444,7 @@ A function of the Secretary of the Tribunal may be performed by another member o
 
 (4) Paragraph 3(b) does not apply where the Tribunal directs that an act must be done by or on a specified date.
 
-### 81. Signature of documents[^key-772658564073e93eb8cd8e7d844f4c60]
+### 81. Signature of documents[^c-772658564073e93eb8cd8e7d844f4c60]
 
 Where these Regulations require a document to be signed, that requirement is satisfied—
 
@@ -1479,9 +1479,9 @@ Part D contains miscellaneous provisions which apply to proceedings before the T
 
 [^f00004]: Footnote: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-a963228cdd6951e13d94a11d44235f2f]: Commencement: Reg. 1 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-a963228cdd6951e13d94a11d44235f2f]: Commencement: Reg. 1 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-5dcf2b375e98aa4d8315dde082f0abac]: Commencement: Reg. 2 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-5dcf2b375e98aa4d8315dde082f0abac]: Commencement: Reg. 2 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
 [^f00005]: Footnote: [2009 nawm 5](https://www.legislation.gov.uk/mwa/2009/5). The Education (Wales) Measure 2009 was approved by Her Majesty in Council on 9 December 2009.
 
@@ -1497,9 +1497,9 @@ Part D contains miscellaneous provisions which apply to proceedings before the T
 
 [^f00011]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-b586ab91180ae51271919e509273f24e]: Commencement: Reg. 3 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-b586ab91180ae51271919e509273f24e]: Commencement: Reg. 3 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-1440e4acf4e033aed99c8a49f5607703]: Commencement: Reg. 4 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-1440e4acf4e033aed99c8a49f5607703]: Commencement: Reg. 4 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
 [^f00012]: Footnote: S.I. [2001/600](https://www.legislation.gov.uk/uksi/2001/600).
 
@@ -1511,21 +1511,21 @@ Part D contains miscellaneous provisions which apply to proceedings before the T
 
 [^f00016]: Footnote: S.I. [2001/3982](https://www.legislation.gov.uk/uksi/2001/3982).
 
-[^key-9fe0b8847fe7963ffa3b525908354cbc]: Commencement: Reg. 5 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-9fe0b8847fe7963ffa3b525908354cbc]: Commencement: Reg. 5 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-bee1b04ae724120565c6ac00bc23cfb2]: Commencement: Reg. 6 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-bee1b04ae724120565c6ac00bc23cfb2]: Commencement: Reg. 6 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-8f653e9517c8436f8d3ecf89306145b5]: Commencement: Reg. 7 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-8f653e9517c8436f8d3ecf89306145b5]: Commencement: Reg. 7 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-c9007fc7a4361fd78924ad0d2755c91e]: Commencement: Reg. 8 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-c9007fc7a4361fd78924ad0d2755c91e]: Commencement: Reg. 8 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-f2d7f1ca69f5860d70107b00f821ab10]: Commencement: Reg. 9 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-f2d7f1ca69f5860d70107b00f821ab10]: Commencement: Reg. 9 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-574b6c192777954aae0759a0ff78b292]: Commencement: Reg. 10 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-574b6c192777954aae0759a0ff78b292]: Commencement: Reg. 10 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-0e9e1246df6f9e8790dc75b55a183228]: Commencement: Reg. 11 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-0e9e1246df6f9e8790dc75b55a183228]: Commencement: Reg. 11 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-680ad54946b9aa76c89a8f1b442a7b38]: Commencement: Reg. 12 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-680ad54946b9aa76c89a8f1b442a7b38]: Commencement: Reg. 12 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
 [^f00017]: Footnote: *See* the Education (Special Educational Needs) Regulations 2002, regulation 5 (service) (S.I. [2002/152](https://www.legislation.gov.uk/uksi/2002/152)).
 
@@ -1537,158 +1537,158 @@ Part D contains miscellaneous provisions which apply to proceedings before the T
 
 [^f00021]: Footnote: [2006 c. 3](https://www.legislation.gov.uk/ukpga/2006/3): section 27(1) was substituted by paragraph 16 of Schedule 26 to the Equality Act 2010; paragraph 16 was renumbered as paragraph 71 of Schedule 26 by paragraph 1 (c) of Schedule 1 to S.I. [2010/2279](https://www.legislation.gov.uk/uksi/2010/2279); section 27(1) subsequently amended by S.I. [2011/1060](https://www.legislation.gov.uk/uksi/2011/1060).
 
-[^key-5883625ac70658f3d30d87266e6c3243]: Commencement: Reg. 13 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-5883625ac70658f3d30d87266e6c3243]: Commencement: Reg. 13 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-074a6fa4dd2b6ac3836bf3b0185dcf60]: Commencement: Reg. 14 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-074a6fa4dd2b6ac3836bf3b0185dcf60]: Commencement: Reg. 14 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-56279c5b666275733b11b211091bfd82]: Commencement: Reg. 15 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-56279c5b666275733b11b211091bfd82]: Commencement: Reg. 15 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-fb61947ce8611d5a106b5464d9f1fc2b]: Commencement: Reg. 16 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-fb61947ce8611d5a106b5464d9f1fc2b]: Commencement: Reg. 16 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-7ce68c4de7d9a3440465361d7a37e0d5]: Commencement: Reg. 17 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-7ce68c4de7d9a3440465361d7a37e0d5]: Commencement: Reg. 17 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-b8e4a326ade2096d0790143e273f7a7e]: Commencement: Reg. 18 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-b8e4a326ade2096d0790143e273f7a7e]: Commencement: Reg. 18 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-71a3d9c90f604bc1e0cf0d92b0e9f814]: Commencement: Reg. 19 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-71a3d9c90f604bc1e0cf0d92b0e9f814]: Commencement: Reg. 19 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-b67bde56fa96fd3ef7a3bc0979999f6a]: Commencement: Reg. 20 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-b67bde56fa96fd3ef7a3bc0979999f6a]: Commencement: Reg. 20 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-5f7ff3b5918e2ff1b9a7b518f1fad548]: Commencement: Reg. 21 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-5f7ff3b5918e2ff1b9a7b518f1fad548]: Commencement: Reg. 21 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-430e0512b716fee34045fd646f310044]: Commencement: Reg. 22 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-430e0512b716fee34045fd646f310044]: Commencement: Reg. 22 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-5c528e5c69fa050863bc380c22545845]: Commencement: Reg. 23 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-5c528e5c69fa050863bc380c22545845]: Commencement: Reg. 23 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-6d6b029327603c86e41e7edb28de3ded]: Commencement: Reg. 24 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-6d6b029327603c86e41e7edb28de3ded]: Commencement: Reg. 24 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-e8337e943f4cd740e177cb7997526b8d]: Commencement: Reg. 25 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-e8337e943f4cd740e177cb7997526b8d]: Commencement: Reg. 25 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-b1af9a314a1cfa1169581cbcba277d7f]: Commencement: Reg. 26 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-b1af9a314a1cfa1169581cbcba277d7f]: Commencement: Reg. 26 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-339d0adc5c44c65ebe7138e4ed6d5bc6]: Commencement: Reg. 27 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-339d0adc5c44c65ebe7138e4ed6d5bc6]: Commencement: Reg. 27 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-fc0a5a6c8f490b579d5d0f80caa86ddd]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/wsi/2012/322/regulation/28) omitted (12.12.2017 being the date that S.I. 2017/1282 comes into force) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 94](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/94) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
+[^c-fc0a5a6c8f490b579d5d0f80caa86ddd]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/wsi/2012/322/regulation/28) omitted (12.12.2017 being the date that S.I. 2017/1282 comes into force) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 94](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/94) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
 
-[^key-d064c4f46636554510d9a6b9849f15ce]: Commencement: Reg. 29 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-d064c4f46636554510d9a6b9849f15ce]: Commencement: Reg. 29 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-86d206c9aed460b5ea19a831135cbdca]: Commencement: Reg. 30 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-86d206c9aed460b5ea19a831135cbdca]: Commencement: Reg. 30 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-8fc604b955ab8352b4a625d77e0b2ffc]: Commencement: Reg. 31 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-8fc604b955ab8352b4a625d77e0b2ffc]: Commencement: Reg. 31 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-244ed7b10570b77eb29c57ef3a164a8d]: Commencement: Reg. 32 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-244ed7b10570b77eb29c57ef3a164a8d]: Commencement: Reg. 32 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-be86a69a66fbb621417af42764ab0a1b]: Commencement: Reg. 33 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-be86a69a66fbb621417af42764ab0a1b]: Commencement: Reg. 33 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-3f8bc5b638e75e96882164a8955aba7a]: Commencement: Reg. 34 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-3f8bc5b638e75e96882164a8955aba7a]: Commencement: Reg. 34 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-ce65937e13f2be8100a80625fc4fdd29]: Commencement: Reg. 35 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-ce65937e13f2be8100a80625fc4fdd29]: Commencement: Reg. 35 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
 [^f00022]: Footnote: S.I. [1998/3132](https://www.legislation.gov.uk/uksi/1998/3132) — Part 31.
 
-[^key-35f04c8476785599d793f7e779525eaf]: Commencement: Reg. 36 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-35f04c8476785599d793f7e779525eaf]: Commencement: Reg. 36 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-2579616f34cf87c9bc2b1595af3a3d55]: Commencement: Reg. 37 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-2579616f34cf87c9bc2b1595af3a3d55]: Commencement: Reg. 37 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-50423c1a7f074d4b4c8ced4c33999d95]: Commencement: Reg. 38 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-50423c1a7f074d4b4c8ced4c33999d95]: Commencement: Reg. 38 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-92b2afd285cc35534a21088faee4e4be]: Commencement: Reg. 39 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-92b2afd285cc35534a21088faee4e4be]: Commencement: Reg. 39 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-683f19a2ff841bb5dd765f56e8416ff5]: Commencement: Reg. 40 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-683f19a2ff841bb5dd765f56e8416ff5]: Commencement: Reg. 40 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-1baa4b7fbd2fb31168423fd13e8fa356]: Commencement: Reg. 41 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-1baa4b7fbd2fb31168423fd13e8fa356]: Commencement: Reg. 41 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-6be7e75a36385e3f5c989825a2372114]: Commencement: Reg. 42 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-6be7e75a36385e3f5c989825a2372114]: Commencement: Reg. 42 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-d481f83b8564bdc407f9400623a4a2f0]: Commencement: Reg. 43 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-d481f83b8564bdc407f9400623a4a2f0]: Commencement: Reg. 43 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-6a8e90c38afc460f217f42603f26af16]: Commencement: Reg. 44 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-6a8e90c38afc460f217f42603f26af16]: Commencement: Reg. 44 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
 [^f00023]: Footnote: [1990 c. 42](https://www.legislation.gov.uk/ukpga/1990/42).
 
-[^key-99c30800d649444e51358628ff360c20]: Commencement: Reg. 45 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-99c30800d649444e51358628ff360c20]: Commencement: Reg. 45 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-6503654093d8af1c7351718f9a23f4f9]: Commencement: Reg. 46 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-6503654093d8af1c7351718f9a23f4f9]: Commencement: Reg. 46 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-6fa439bebbcc66cf8f86eb2ef6bca3bb]: Commencement: Reg. 47 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-6fa439bebbcc66cf8f86eb2ef6bca3bb]: Commencement: Reg. 47 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-ae5df5f693692d94cbe49315b632b9ce]: Commencement: Reg. 48 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-ae5df5f693692d94cbe49315b632b9ce]: Commencement: Reg. 48 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-a4b8fe160248677782b33054af78dab4]: Commencement: Reg. 49 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-a4b8fe160248677782b33054af78dab4]: Commencement: Reg. 49 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-cd136c4cb09124cc9187f2187dcadf81]: Commencement: Reg. 50 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-cd136c4cb09124cc9187f2187dcadf81]: Commencement: Reg. 50 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-a23466584ebf6eedd9c3e9013dafd1d2]: Commencement: Reg. 51 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-a23466584ebf6eedd9c3e9013dafd1d2]: Commencement: Reg. 51 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-e3bf891326bfc40010ac43066ba5fef0]: Commencement: Reg. 52 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-e3bf891326bfc40010ac43066ba5fef0]: Commencement: Reg. 52 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-7d97baea9f535c4df96199602a5f36c5]: Commencement: Reg. 53 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-7d97baea9f535c4df96199602a5f36c5]: Commencement: Reg. 53 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-fb2d478828db0d65265092610e3ed016]: Commencement: Reg. 54 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-fb2d478828db0d65265092610e3ed016]: Commencement: Reg. 54 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-d9ea1e23e48e1e770edabc2d2af767a8]: Commencement: Reg. 55 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-d9ea1e23e48e1e770edabc2d2af767a8]: Commencement: Reg. 55 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-850e5f9947380b85b86d29edc0f1c16f]: Commencement: Reg. 56 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-850e5f9947380b85b86d29edc0f1c16f]: Commencement: Reg. 56 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-e6ca6d239b92c1af6b396f7513573fd1]: Commencement: Reg. 57 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-e6ca6d239b92c1af6b396f7513573fd1]: Commencement: Reg. 57 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-1c57f706be291f9794524af988201084]: Commencement: Reg. 58 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-1c57f706be291f9794524af988201084]: Commencement: Reg. 58 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-bd291a46618cf3c0e6a601dcafa4a078]: Commencement: Reg. 59 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-bd291a46618cf3c0e6a601dcafa4a078]: Commencement: Reg. 59 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-06c4e9d297c620463b11b12e2f80cdfc]: Commencement: Reg. 60 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-06c4e9d297c620463b11b12e2f80cdfc]: Commencement: Reg. 60 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-a202f347fc2c6e5ae4aaf912f153a589]: Commencement: Reg. 61 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-a202f347fc2c6e5ae4aaf912f153a589]: Commencement: Reg. 61 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-592c57605b52c671fdce7d97d054c7d9]: Textual amendment: Word in [reg. 61(5)](https://www.legislation.gov.uk/wsi/2012/322/regulation/61/5) inserted (14.9.2022) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/913)](https://www.legislation.gov.uk/wsi/2022/913), [regs. 1](https://www.legislation.gov.uk/wsi/2022/913/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/wsi/2022/913/regulation/6/2/a)
+[^c-592c57605b52c671fdce7d97d054c7d9]: Textual amendment: Word in [reg. 61(5)](https://www.legislation.gov.uk/wsi/2012/322/regulation/61/5) inserted (14.9.2022) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/913)](https://www.legislation.gov.uk/wsi/2022/913), [regs. 1](https://www.legislation.gov.uk/wsi/2022/913/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/wsi/2022/913/regulation/6/2/a)
 
-[^key-4822c2229606d6936299e68dd61f9093]: Textual amendment: [Reg. 61(5)(e)](https://www.legislation.gov.uk/wsi/2012/322/regulation/61/5/e) and word omitted (14.9.2022) by virtue of [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/913)](https://www.legislation.gov.uk/wsi/2022/913), [regs. 1](https://www.legislation.gov.uk/wsi/2022/913/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/wsi/2022/913/regulation/6/2/b)
+[^c-4822c2229606d6936299e68dd61f9093]: Textual amendment: [Reg. 61(5)(e)](https://www.legislation.gov.uk/wsi/2012/322/regulation/61/5/e) and word omitted (14.9.2022) by virtue of [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/913)](https://www.legislation.gov.uk/wsi/2022/913), [regs. 1](https://www.legislation.gov.uk/wsi/2022/913/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/wsi/2022/913/regulation/6/2/b)
 
-[^key-470dc7489f232c13ae62b57a13cb646e]: Commencement: Reg. 62 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-470dc7489f232c13ae62b57a13cb646e]: Commencement: Reg. 62 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-ea73701e48a7f507fc52479c15657bfd]: Textual amendment: Word in [reg. 62(3)](https://www.legislation.gov.uk/wsi/2012/322/regulation/62/3) inserted (14.9.2022) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/913)](https://www.legislation.gov.uk/wsi/2022/913), [regs. 1](https://www.legislation.gov.uk/wsi/2022/913/regulation/1), [6(3)(a)](https://www.legislation.gov.uk/wsi/2022/913/regulation/6/3/a)
+[^c-ea73701e48a7f507fc52479c15657bfd]: Textual amendment: Word in [reg. 62(3)](https://www.legislation.gov.uk/wsi/2012/322/regulation/62/3) inserted (14.9.2022) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/913)](https://www.legislation.gov.uk/wsi/2022/913), [regs. 1](https://www.legislation.gov.uk/wsi/2022/913/regulation/1), [6(3)(a)](https://www.legislation.gov.uk/wsi/2022/913/regulation/6/3/a)
 
-[^key-34a854348ca0e9cb800a697d2f8f614b]: Textual amendment: [Reg. 62(3)(e)](https://www.legislation.gov.uk/wsi/2012/322/regulation/62/3/e) and word omitted (14.9.2022) by virtue of [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/913)](https://www.legislation.gov.uk/wsi/2022/913), [regs. 1](https://www.legislation.gov.uk/wsi/2022/913/regulation/1), [6(3)(b)](https://www.legislation.gov.uk/wsi/2022/913/regulation/6/3/b)
+[^c-34a854348ca0e9cb800a697d2f8f614b]: Textual amendment: [Reg. 62(3)(e)](https://www.legislation.gov.uk/wsi/2012/322/regulation/62/3/e) and word omitted (14.9.2022) by virtue of [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/913)](https://www.legislation.gov.uk/wsi/2022/913), [regs. 1](https://www.legislation.gov.uk/wsi/2022/913/regulation/1), [6(3)(b)](https://www.legislation.gov.uk/wsi/2022/913/regulation/6/3/b)
 
-[^key-c50ca8ecf63dd43c43c71e5a5101f4c1]: Commencement: Reg. 63 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-c50ca8ecf63dd43c43c71e5a5101f4c1]: Commencement: Reg. 63 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-268c73a8f47cf6f3d5a2980e15d29620]: Commencement: Reg. 64 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-268c73a8f47cf6f3d5a2980e15d29620]: Commencement: Reg. 64 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-c0f8f1245b872ae60bf188446328fad0]: Commencement: Reg. 65 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-c0f8f1245b872ae60bf188446328fad0]: Commencement: Reg. 65 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
 [^f00024]: Footnote: [2006 c. 47](https://www.legislation.gov.uk/ukpga/2006/47). Under section 3(2)(a) of the Safeguarding Vulnerable Groups Act 2006, a person is barred from regulated activity relating to children if the person’s name is included in the list in Part 1 of Schedule 3 to that Act (“the children’s barred list”).
 
-[^key-f4105f84f2e359fca392b62fd6d54211]: Commencement: Reg. 66 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-f4105f84f2e359fca392b62fd6d54211]: Commencement: Reg. 66 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
 [^f00025]: Footnote: 332ZC(2) of the 1996 Act provides that a child’s case friend must make representations and exercise rights fairly and competently, have no interest adverse to that of the child and ensure that all steps and decisions taken by the case friend are for the benefit of the child and take account of the child’s views.
 
-[^key-301aa234124aedb29b847ffcf0872e8a]: Textual amendment: Words in [reg. 66(4)](https://www.legislation.gov.uk/wsi/2012/322/regulation/66/4) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [96](https://www.legislation.gov.uk/uksi/2012/3006/article/96) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-301aa234124aedb29b847ffcf0872e8a]: Textual amendment: Words in [reg. 66(4)](https://www.legislation.gov.uk/wsi/2012/322/regulation/66/4) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [96](https://www.legislation.gov.uk/uksi/2012/3006/article/96) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
-[^key-417bf9143ddef208baf103be5a77afde]: Commencement: Reg. 67 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-417bf9143ddef208baf103be5a77afde]: Commencement: Reg. 67 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-e6f09cb453a22a4bb78ec66f340b2d15]: Commencement: Reg. 68 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-e6f09cb453a22a4bb78ec66f340b2d15]: Commencement: Reg. 68 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-c5b2c564ca943247f2d7b11045dd3720]: Commencement: Reg. 69 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-c5b2c564ca943247f2d7b11045dd3720]: Commencement: Reg. 69 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-6787af20e19f3fe7d14e5ecea8a072e1]: Commencement: Reg. 70 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-6787af20e19f3fe7d14e5ecea8a072e1]: Commencement: Reg. 70 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-7da3232773f052278bf25a6493e328d1]: Commencement: Reg. 71 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-7da3232773f052278bf25a6493e328d1]: Commencement: Reg. 71 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-644170be16de22bae7c8dfa1438b2776]: Commencement: Reg. 72 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-644170be16de22bae7c8dfa1438b2776]: Commencement: Reg. 72 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-917a7a0ff2ec401d8ac599c6dd6976ce]: Commencement: Reg. 73 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-917a7a0ff2ec401d8ac599c6dd6976ce]: Commencement: Reg. 73 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-686e6840d229ade061ac5ab2b36e6986]: Commencement: Reg. 74 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-686e6840d229ade061ac5ab2b36e6986]: Commencement: Reg. 74 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-9ca19729bacdfed3276a53c6310ddb7e]: Commencement: Reg. 75 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-9ca19729bacdfed3276a53c6310ddb7e]: Commencement: Reg. 75 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-91a6bd6d97dc3d03fd5923bc7acef33f]: Commencement: Reg. 76 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-91a6bd6d97dc3d03fd5923bc7acef33f]: Commencement: Reg. 76 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-4c21fca5a57287661201ae9b12cc5bfc]: Commencement: Reg. 77 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-4c21fca5a57287661201ae9b12cc5bfc]: Commencement: Reg. 77 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-2f476277123a30f063e2a2ec989eb246]: Commencement: Reg. 78 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-2f476277123a30f063e2a2ec989eb246]: Commencement: Reg. 78 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-95a849ba54adfd6711e000c4106e43d3]: Commencement: Reg. 79 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-95a849ba54adfd6711e000c4106e43d3]: Commencement: Reg. 79 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-b43c303d485176e0875ce5acb2fb7317]: Commencement: Reg. 80 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-b43c303d485176e0875ce5acb2fb7317]: Commencement: Reg. 80 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
 
-[^key-772658564073e93eb8cd8e7d844f4c60]: Commencement: Reg. 81 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)
+[^c-772658564073e93eb8cd8e7d844f4c60]: Commencement: Reg. 81 in force at 6.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/322/regulation/1/1)

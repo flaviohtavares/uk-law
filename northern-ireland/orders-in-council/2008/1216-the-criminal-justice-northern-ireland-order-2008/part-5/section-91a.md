@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## (not yet in force: 91A). (not yet in force: Extension of disqualification where custodial sentence also imposed)[^key-5ec6b78c37476651918f3758b69786cb][^c21497631]
+## (not yet in force: 91A). (not yet in force: Extension of disqualification where custodial sentence also imposed)[^c-5ec6b78c37476651918f3758b69786cb][^c21497631]
 
 *Extent: N.I.*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5ec6b78c37476651918f3758b69786cb]: Modification: Art. 91A excluded by 2003 c. 32, s. 54(3B)(c) (as inserted (1.8.2017 in accordance with art. 3 of the commencing S.I.) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 7 para. 2(4)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/2/4) (with [Sch. 7 para. 27](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/27)); [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3](https://www.legislation.gov.uk/uksi/2017/189/article/3))
+[^c-5ec6b78c37476651918f3758b69786cb]: Modification: Art. 91A excluded by 2003 c. 32, s. 54(3B)(c) (as inserted (1.8.2017 in accordance with art. 3 of the commencing S.I.) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 7 para. 2(4)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/2/4) (with [Sch. 7 para. 27](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/27)); [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3](https://www.legislation.gov.uk/uksi/2017/189/article/3))
 
 [^c21497631]: Textual amendment: Arts. 91A, 91B inserted (prosp.) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 137](https://www.legislation.gov.uk/ukpga/2009/25/section/137), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5), [Sch. 16 para. 6](https://www.legislation.gov.uk/ukpga/2009/25/schedule/16/paragraph/6) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22 para. 29](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/29))

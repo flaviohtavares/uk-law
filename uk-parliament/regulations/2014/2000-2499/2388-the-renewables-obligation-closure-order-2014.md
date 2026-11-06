@@ -46,21 +46,21 @@ In accordance with section 32LB(3) of the Electricity Act 1989 a draft of this i
 
 Accordingly the Secretary of State makes the following Order:
 
-## 1. Citation and commencement[^key-c6d89dafd154aee3660e795ea79073f5]
+## 1. Citation and commencement[^c-c6d89dafd154aee3660e795ea79073f5]
 
 This Order may be cited as the Renewables Obligation Closure Order 2014 and comes into force on the day after the day on which it is made.
 
-## 2. Interpretation[^key-009174d6e8ccdae3f3ecba154d045659]
+## 2. Interpretation[^c-009174d6e8ccdae3f3ecba154d045659]
 
 (1) In this Order—
 
-- “accredited” is to be construed in accordance with the definition of “accreditation” in article 2 of the Renewables Obligation Order 2015[^key-180e65645d8ebd12d539a5b4c648696f];
-- “additional capacity”, in relation to a[^key-e40bf174cadb97e8c0a5870e0d1c7381] [^key-c57d425f44e22d6f222dd7f92744ea78]... solar pv station, means any generating capacity which does not form part of the original capacity of the station;
+- “accredited” is to be construed in accordance with the definition of “accreditation” in article 2 of the Renewables Obligation Order 2015[^c-180e65645d8ebd12d539a5b4c648696f];
+- “additional capacity”, in relation to a[^c-e40bf174cadb97e8c0a5870e0d1c7381] [^c-c57d425f44e22d6f222dd7f92744ea78]... solar pv station, means any generating capacity which does not form part of the original capacity of the station;
 - “CHPQA 3” means the Combined Heat and Power Quality Assurance Standard, Issue 3, published by the Department for Environment, Food and Rural Affairs in January 2009[^f00006];
 - “CHPQA 5” means the Combined Heat and Power Quality Assurance Standard, Issue 5, published by the Department of Energy and Climate Change in November 2013[^f00007];
-- “CHPQA 6” means the Combined Heat and Power Quality Assurance Standard, Issue 6, October 2016;[^key-8fc3f5a012d01c8393e529f6574faf6c]
+- “CHPQA 6” means the Combined Heat and Power Quality Assurance Standard, Issue 6, October 2016;[^c-8fc3f5a012d01c8393e529f6574faf6c]
 - “commission” and “commissioned” are to be construed in accordance with the definition of “commissioned” in article 2 of the Renewables Obligation Order 2015;
-- “developer”, in relation to a [^key-c57d425f44e22d6f222dd7f92744ea78]... solar pv station, means a person who—
+- “developer”, in relation to a [^c-c57d425f44e22d6f222dd7f92744ea78]... solar pv station, means a person who—
   - (a) applied for planning permission for the station,
   - (b) arranged for grid works to be carried out in relation to the station,
   - (c) arranged for the construction of any part of the station,
@@ -70,17 +70,17 @@ This Order may be cited as the Renewables Obligation Closure Order 2014 and come
 - “grid works”, in relation to a generating station, means—
   - (a) the construction of a connection between the station and a transmission or distribution system for the purpose of enabling electricity to be conveyed from the station to that system, or
   - (b) the carrying out of modifications to a connection between the station and a transmission or distribution system for the purpose of enabling an increase in the amount of electricity that can be conveyed over that connection from the station to that system;
-- “[^key-2b59507d4e0b244790587f83bb3d5ed7]**landfill**” has the meaning given in Article 2(g) of Council Directive [1999/31/EC](https://www.legislation.gov.uk/european/directive/1999/0031);
-- “large solar pv closure date” means 31st March 2015[^key-bb8d491be978bd33fd4c053e0ba82b21];
+- “[^c-2b59507d4e0b244790587f83bb3d5ed7]**landfill**” has the meaning given in Article 2(g) of Council Directive [1999/31/EC](https://www.legislation.gov.uk/european/directive/1999/0031);
+- “large solar pv closure date” means 31st March 2015[^c-bb8d491be978bd33fd4c053e0ba82b21];
 - “large solar pv station” means a solar pv station where the total installed capacity of the RO capacity of the station is more than 5 megawatts;
 - “licensed network operator” means a distribution licence holder or a transmission licence holder;
 - “network operator” means a distribution exemption holder, distribution licence holder or a transmission licence holder;
 - “original capacity”, in relation to a generating station, means the generating capacity of the station as accredited;
-- “planning permission” has the meaning given in article 13 except that in articles 2B(3) , 2C(2), 2F(3) and 2G(2)[^key-f08eabd3f44ffaf5caf7a1e86401e9d9] it does not include—
+- “planning permission” has the meaning given in article 13 except that in articles 2B(3) , 2C(2), 2F(3) and 2G(2)[^c-f08eabd3f44ffaf5caf7a1e86401e9d9] it does not include—
   - (a) outline planning permission within the meaning of section 92 of the Town and Country Planning Act 1990, or
   - (b) planning permission in principle within the meaning of section 59 of the Town and Country Planning (Scotland) Act 1997;
 - “pre-2016 additional capacity”, in relation to a large solar pv station, means any additional capacity which in the Authority’s view first formed part of the station from a date which is no later than 31st March 2016;
-- “pre-2017 additional capacity”, in relation to a small solar pv station, means any additional capacity which in the Authority’s view first formed part of the station from a date which is no later than 31st March 2017[^key-b5c13f0c4a6ac00598dec38cec1d8b6e];
+- “pre-2017 additional capacity”, in relation to a small solar pv station, means any additional capacity which in the Authority’s view first formed part of the station from a date which is no later than 31st March 2017[^c-b5c13f0c4a6ac00598dec38cec1d8b6e];
 - “radar works” means—
   - (a) the construction of a radar station,
   - (b) the installation of radar equipment,
@@ -89,8 +89,8 @@ This Order may be cited as the Renewables Obligation Closure Order 2014 and come
 - “**regular biomass**” means biomass and bioliquids;
 - “relevant date” means the later of—
   - (a) 31st October 2014, and
-  - (b) the date falling two months after the day on which this Order comes into force; [^key-e38a13565edf67e6b9d7a1aff26145ce]...
-- “[^key-10ca23cdc7e9b66a7291fbbca5c451f4]**relevant fossil fuel station**” has the same meaning as in Schedule 5 to the Renewables Obligation Order 2015;
+  - (b) the date falling two months after the day on which this Order comes into force; [^c-e38a13565edf67e6b9d7a1aff26145ce]...
+- “[^c-10ca23cdc7e9b66a7291fbbca5c451f4]**relevant fossil fuel station**” has the same meaning as in Schedule 5 to the Renewables Obligation Order 2015;
 - “RO capacity” has—
   - (a) in the case of a generating station located in Scotland, the same meaning as in the Renewables Obligation (Scotland) Order 2009, and
   - (b) in any other case, the same meaning as in the Renewables Obligation Order 2015;
@@ -99,7 +99,7 @@ This Order may be cited as the Renewables Obligation Closure Order 2014 and come
   - (a) 31st March 2016, and
   - (b) the last day of the month in which this Order comes into force;
 - “small solar pv station” means a solar pv station where the total installed capacity of the RO capacity of the station is less than or equal to 5 megawatts;
-- [^key-34d91cbb5ab18c70baa4d86d517d49d0]...
+- [^c-34d91cbb5ab18c70baa4d86d517d49d0]...
 - “solar pv station” means a generating station that generates electricity from the direct conversion of sunlight into electricity;
 - “valid application for planning permission” has the following meaning—
   - (a) in relation to an application made in England, an application for planning permission which is either—
@@ -109,18 +109,18 @@ This Order may be cited as the Renewables Obligation Closure Order 2014 and come
   - (c) in relation to an application made in Scotland, an application for planning permission made in accordance with regulation 9 of the Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2013;
 - “**waste**” has the meaning given in section 75(2) of the Environmental Protection Act 1990 but does not include gas derived from landfill sites or gas produced from the treatment of sewage.
 
-(2) In this Order, the following have the same meaning as in the Renewables Obligation Order 2015[^key-d6e6058ce25b952c1eb1a5d61e21cd23]—
+(2) In this Order, the following have the same meaning as in the Renewables Obligation Order 2015[^c-d6e6058ce25b952c1eb1a5d61e21cd23]—
 
 - “biomass”;
 - “energy crops”;
 - “permitted ancillary purposes”;
-- [^key-db7f205eb34e48f2fa7d7ab78ee217aa]...
-- “total installed capacity”[^key-180ecde2ebdb71d7f2284af857213136][^key-9f0b706bb80466197fbf5a7d4e70488b]...
-- [^key-db7f205eb34e48f2fa7d7ab78ee217aa]....
+- [^c-db7f205eb34e48f2fa7d7ab78ee217aa]...
+- “total installed capacity”[^c-180ecde2ebdb71d7f2284af857213136][^c-9f0b706bb80466197fbf5a7d4e70488b]...
+- [^c-db7f205eb34e48f2fa7d7ab78ee217aa]....
 
-## 2A. No certificates to be issued in respect of electricity generated after the large solar pv closure date by large solar pv stations[^key-36834482df75fe32f6191f35c6910411][^key-df9bd3ca0da3e78416aaea394090739e]
+## 2A. No certificates to be issued in respect of electricity generated after the large solar pv closure date by large solar pv stations[^c-36834482df75fe32f6191f35c6910411][^c-df9bd3ca0da3e78416aaea394090739e]
 
-(1) Subject to paragraph (2), no renewables obligation certificates are to be issued under a renewables obligation order in respect of electricity generated after the large[^key-4c1f856b2100d1abd1a5773d7107096e] solar pv closure date by a large solar pv station.
+(1) Subject to paragraph (2), no renewables obligation certificates are to be issued under a renewables obligation order in respect of electricity generated after the large[^c-4c1f856b2100d1abd1a5773d7107096e] solar pv closure date by a large solar pv station.
 
 (2) Paragraph (1) does not apply to electricity generated in the circumstances set out in any one or more of articles 2B to 2D.
 
@@ -128,7 +128,7 @@ This Order may be cited as the Renewables Obligation Closure Order 2014 and come
 
 (1) The circumstances set out in this article are where the electricity is generated using the original capacity of a large solar pv station—
 
-- (a) which was accredited on or before the large[^key-f998911860b3726a42d99f8a1d177af9] solar pv closure date,
+- (a) which was accredited on or before the large[^c-f998911860b3726a42d99f8a1d177af9] solar pv closure date,
 - (b) which was granted preliminary accreditation on or before 13th May 2014 and which was accredited on or before 31st March 2016, or
 - (c) which was accredited on or before 31st March 2016 and in respect of which the documents specified in paragraph (2) or (3) were provided to the Authority with the application for accreditation of the station.
 
@@ -160,7 +160,7 @@ This Order may be cited as the Renewables Obligation Closure Order 2014 and come
 
 (5) Paragraph (3)(b) does not apply if the application for accreditation of the station is accompanied by a declaration by the operator of the station that, to the best of their knowledge and belief, no grid works were required to be carried out by a licensed network operator in order to enable the station to be commissioned.
 
-(6) In paragraph (1)(b), “preliminary accreditation” has the same meaning as in the Renewables Obligation Order 2015[^key-7b3394fac711e97bb0882745d3c7842e].
+(6) In paragraph (1)(b), “preliminary accreditation” has the same meaning as in the Renewables Obligation Order 2015[^c-7b3394fac711e97bb0882745d3c7842e].
 
 ## 2C. Circumstances relating to pre-2016 additional capacity used by large solar pv stations accredited on or before 13th May 2014
 
@@ -193,9 +193,9 @@ This Order may be cited as the Renewables Obligation Closure Order 2014 and come
 - (a) the station is not connected to any transmission or distribution system, or
 - (b) no modifications to the connection between the station and a transmission or distribution system were required to be carried out by a licensed network operator in order to enable the electricity generated using pre-2016 additional capacity to be conveyed over that connection.
 
-## 2D. Circumstances relating to additional capacity used by large solar pv stations accredited on or before the large solar pv closure date[^key-36226e7375c817af9a4582d7e6e41aa0]
+## 2D. Circumstances relating to additional capacity used by large solar pv stations accredited on or before the large solar pv closure date[^c-36226e7375c817af9a4582d7e6e41aa0]
 
-(1) The circumstances set out in this article are where the electricity is generated by a large solar pv station which was accredited on or before the large[^key-a0a27045a4ac435b149a4c1e9f70820a] solar pv closure date and generated using—
+(1) The circumstances set out in this article are where the electricity is generated by a large solar pv station which was accredited on or before the large[^c-a0a27045a4ac435b149a4c1e9f70820a] solar pv closure date and generated using—
 
 - (a) additional capacity which in the Authority’s view first formed part of the station from a date no later than the solar pv closure date, or
 - (b) pre-2016 additional capacity in respect of which the documents specified in paragraph (2) have been submitted by the operator of the station to the Authority.
@@ -209,7 +209,7 @@ This Order may be cited as the Renewables Obligation Closure Order 2014 and come
   - (ii) in the relevant network operator’s opinion, the failure to complete the relevant grid works on or before the planned grid works completion date was not due to any breach by a developer of the station of any agreement with the relevant network operator; and
 - (d) a declaration by the operator of the station that, to the best of their knowledge and belief, the pre-2016 additional capacity would have formed part of the station on or before 31st March 2015 if the relevant grid works had been completed on or before the planned grid works completion date.
 
-## 2E. No certificates to be issued in respect of electricity generated after the small solar pv closure date by small solar pv stations[^key-9ab93ffdd15c311fecfcdbd0795374fb]
+## 2E. No certificates to be issued in respect of electricity generated after the small solar pv closure date by small solar pv stations[^c-9ab93ffdd15c311fecfcdbd0795374fb]
 
 (1) Subject to paragraph (2), no renewables obligation certificates are to be issued under a renewables obligation order in respect of electricity generated after the small solar pv closure date by a small solar pv station.
 
@@ -300,13 +300,13 @@ This Order may be cited as the Renewables Obligation Closure Order 2014 and come
   - (ii) in the relevant network operator’s opinion, the failure to complete the relevant grid works on or before the planned grid works completion date was not due to any breach by a developer of the station of any agreement with the relevant network operator; and
 - (d) a declaration by the operator of the station that, to the best of their knowledge and belief, the pre-2017 additional capacity would have formed part of the station on or before 31st March 2016 if the relevant grid works had been completed on or before the planned grid works completion date.
 
-## 3. No certificates to be issued in respect of electricity generated after 31st March 2017 by stations which are not ... solar pv stations[^key-ecef46e0b5dfeb34537eb9106fdb2a17][^key-2781994f51fa0c6ceddafb3600b1c4eb][^key-e681503e2a861dec4d788b57975e4095]
+## 3. No certificates to be issued in respect of electricity generated after 31st March 2017 by stations which are not ... solar pv stations[^c-ecef46e0b5dfeb34537eb9106fdb2a17][^c-2781994f51fa0c6ceddafb3600b1c4eb][^c-e681503e2a861dec4d788b57975e4095]
 
-(1) Subject to paragraph (2), no renewables obligation certificates are to be issued under a renewables obligation order in respect of electricity generated after 31st March 2017 by a generating station which is not a[^key-46e68863c5ec246f8077229b39f53712] [^key-23debf4c31e0df5b34dd460b4373fc6c]... solar pv station.
+(1) Subject to paragraph (2), no renewables obligation certificates are to be issued under a renewables obligation order in respect of electricity generated after 31st March 2017 by a generating station which is not a[^c-46e68863c5ec246f8077229b39f53712] [^c-23debf4c31e0df5b34dd460b4373fc6c]... solar pv station.
 
 (2) Paragraph (1) does not apply to electricity generated in any one or more of the circumstances set out in articles 4 to 12.
 
-## 4. Circumstances relating to generating stations accredited, and generating capacity added, on or before 31st March 2017[^key-49e538db474b80663bfe949e755813b2]
+## 4. Circumstances relating to generating stations accredited, and generating capacity added, on or before 31st March 2017[^c-49e538db474b80663bfe949e755813b2]
 
 The circumstances set out in this article are where the electricity is—
 
@@ -315,7 +315,7 @@ The circumstances set out in this article are where the electricity is—
   - (i) the original capacity of the station, or
   - (ii) any generating capacity which in the Authority’s view first formed part of the station from a date no later than 31st March 2017.
 
-## 5. Circumstances relating to certain delays in grid or radar works in the case of generating stations accredited on or before 31st March 2017[^key-93011d00e970d4be3fe1312b1edf11b7]
+## 5. Circumstances relating to certain delays in grid or radar works in the case of generating stations accredited on or before 31st March 2017[^c-93011d00e970d4be3fe1312b1edf11b7]
 
 (1) The circumstances set out in this article are where the electricity is—
 
@@ -355,7 +355,7 @@ The circumstances set out in this article are where the electricity is—
   - (b) which, in the Authority’s view, first formed part of the station from a date no earlier than 1st April 2017 and no later than 31st March 2018; and
 - “generating station developer”, in relation to a generating station, means the operator of the station, or a person who arranged for the construction of the 2017/18 capacity of the station.
 
-## 6. Circumstances relating to certain delays in grid or radar works in the case of generating stations first accredited after 31st March 2017[^key-e809ddde2c6970d456588d7ebe8cca06]
+## 6. Circumstances relating to certain delays in grid or radar works in the case of generating stations first accredited after 31st March 2017[^c-e809ddde2c6970d456588d7ebe8cca06]
 
 (1) The circumstances set out in this article are where the electricity is generated using the original capacity of a generating station—
 
@@ -391,7 +391,7 @@ The circumstances set out in this article are where the electricity is—
 
 (5) In this article, “generating station developer”, in relation to a generating station, means the operator of the station, or a person who arranged for the construction of the station.
 
-## 7. Circumstances relating to generating stations in respect of which an investment contract has ceased to have effect[^key-a2264439588c8d9c7ab796b0f7511b4a]
+## 7. Circumstances relating to generating stations in respect of which an investment contract has ceased to have effect[^c-a2264439588c8d9c7ab796b0f7511b4a]
 
 (1) The circumstances set out in this article are where the electricity is generated using the original capacity of a generating station—
 
@@ -413,12 +413,12 @@ The circumstances set out in this article are where the electricity is—
   - (d) a judgment of the Court of Justice of the European Union that invalidates an approval of the investment contract by the European Commission, or
   - (e) an amendment to the investment contract that is made, or proposed, by the Secretary of State in the light of any standard terms and conditions of contracts for difference issued under section 11 of the Energy Act 2013.
 
-## 8. Circumstances relating to certain generating stations that have been allocated a place within the dedicated biomass cap[^key-cda0acd3e8b2e8a3cadcba0642db6721]
+## 8. Circumstances relating to certain generating stations that have been allocated a place within the dedicated biomass cap[^c-cda0acd3e8b2e8a3cadcba0642db6721]
 
 (1) The circumstances set out in this article are where the electricity is generated—
 
 - (a) using the original capacity of a generating station—
-  - (i) which is not a relevant fossil fuel station[^key-96d17920d2154d0137310b709aa2b8e9],
+  - (i) which is not a relevant fossil fuel station[^c-96d17920d2154d0137310b709aa2b8e9],
   - (ii) which was accredited on or before 30th September 2018,
   - (iii) which has, in at least one month since it was accredited, generated electricity only from biomass, and
   - (iv) in respect of which the documents specified in paragraph (3) were received by the Authority on or before the date on which the Authority made its decision to accredit the station, and
@@ -433,43 +433,43 @@ The circumstances set out in this article are where the electricity is—
 - (a) a copy of a letter from the Secretary of State, where the letter—
   - (i) is dated no later than 31st March 2017, and
   - (ii) states that the generating station has been allocated a place under the dedicated biomass cap; and
-- (b) where the generating station has not been certified under CHPQA 3, CHPQA 5 or CHPQA 6[^key-5c6d5caf5e21545abd059515e4959265] at any time before it was commissioned, a declaration by the operator of the station that, to the best of their knowledge and belief, the station’s place under the dedicated biomass cap has not lapsed or been revoked or withdrawn by the Secretary of State.
+- (b) where the generating station has not been certified under CHPQA 3, CHPQA 5 or CHPQA 6[^c-5c6d5caf5e21545abd059515e4959265] at any time before it was commissioned, a declaration by the operator of the station that, to the best of their knowledge and belief, the station’s place under the dedicated biomass cap has not lapsed or been revoked or withdrawn by the Secretary of State.
 
 (4) In paragraph (3), “dedicated biomass cap” refers to the Government’s policy for a 400 megawatt cap on the total amount of new build generating capacity that receives support for the generation of electricity only from biomass[^f00011].
 
-## 9. Circumstances relating to certain Scottish offshore wind generating stations using test and demonstration wind turbines[^key-ee2a2d7781375c652277ab323b9e6561]
+## 9. Circumstances relating to certain Scottish offshore wind generating stations using test and demonstration wind turbines[^c-ee2a2d7781375c652277ab323b9e6561]
 
 The circumstances set out in this article are where—
 
 - (a) article 30C of the Renewables Obligation (Scotland) Order 2009[^f00012] applies to the electricity, and
 - (b) the electricity is generated using the original capacity of a generating station which was accredited on or before 30th September 2018.
 
-## 10. Circumstances relating to certain Scottish offshore wind generating stations using floating wind turbines[^key-2b4725ca4f13e76a9c526bb2a94306f1]
+## 10. Circumstances relating to certain Scottish offshore wind generating stations using floating wind turbines[^c-2b4725ca4f13e76a9c526bb2a94306f1]
 
 The circumstances set out in this article are where—
 
 - (a) article 30D of the Renewables Obligation (Scotland) Order 2009[^f00013] applies to the electricity, and
 - (b) the electricity is generated using the original capacity of a generating station which was accredited on or before 30th September 2018.
 
-## 11. Circumstances relating to certain offshore wind, gasification or pyrolysis generating stations notified to the Authority on or before the relevant date[^key-7606f5da84ef5d72dba39c42893a1c14]
+## 11. Circumstances relating to certain offshore wind, gasification or pyrolysis generating stations notified to the Authority on or before the relevant date[^c-7606f5da84ef5d72dba39c42893a1c14]
 
 The circumstances set out in this article are where the electricity is generated—
 
 - (a) using the original capacity of a generating station—
   - (i) which was accredited on or before 31st March 2018, and
   - (ii) in respect of which a notice of intent (within the meaning of article 13) was received by the Authority on or before the relevant date, and
-- (b) in the way described in Part 1 of Schedule 5 to the Renewables Obligation Order 2015[^key-34569bf9fadbea58fb923e2d5bbd2452] as—
+- (b) in the way described in Part 1 of Schedule 5 to the Renewables Obligation Order 2015[^c-34569bf9fadbea58fb923e2d5bbd2452] as—
   - (i) advanced gasification/pyrolysis,
   - (ii) offshore wind, or
   - (iii) standard gasification/pyrolysis.
 
-## 12. Circumstances relating to certain biomass generating stations having been certified under the CHPQA and notified to the Authority on or before the relevant date[^key-f106143a2583c5854288abc1b3489e7d]
+## 12. Circumstances relating to certain biomass generating stations having been certified under the CHPQA and notified to the Authority on or before the relevant date[^c-f106143a2583c5854288abc1b3489e7d]
 
 (1) The circumstances set out in this article are where the electricity is generated—
 
 - (a) using the original capacity of a generating station—
   - (i) which was certified under CHPQA 3 or CHPQA 5 at any time on or before the relevant date (whether or not the station remains so certified),
-  - (ii) which is not a relevant fossil fuel station[^key-cb7a89bce0cec5dfa87261cba466af92],
+  - (ii) which is not a relevant fossil fuel station[^c-cb7a89bce0cec5dfa87261cba466af92],
   - (iii) which was accredited on or before 30th September 2018,
   - (iv) which has, in at least one month since it was accredited, generated electricity only from biomass, and
   - (v) in respect of which a notice of intent (within the meaning of article 13) was received by the Authority on or before the relevant date, and
@@ -479,7 +479,7 @@ The circumstances set out in this article are where the electricity is generated
 
 (2) For the purposes of paragraph (1)(a)(iv), in determining whether electricity has been generated only from biomass, no account is to be taken of any fossil fuel or waste which the generating station uses for permitted ancillary purposes.
 
-## 13. Notices of intent[^key-53b2b8b7b4bb762c70f50086caa65d63]
+## 13. Notices of intent[^c-53b2b8b7b4bb762c70f50086caa65d63]
 
 (1) For the purposes of articles 11 and 12, a notice of intent, in relation to a generating station, is a notice which—
 
@@ -517,7 +517,7 @@ The circumstances set out in this article are where the electricity is generated
   - (i) an offer from a network operator (“the relevant network operator”) to carry out grid works in relation to the station (“the relevant grid works”); and
   - (ii) a document written by, or on behalf of, the relevant network operator which estimates or sets a date for completion of the relevant grid works which is no later than 31st March 2017;
 - (b) subject to paragraph (7), a copy of the planning permission for the station; and
-- (c) in the case of a station that is, or is intended to be, an offshore generating station, documents demonstrating that the person submitting the notice (or a person connected with that person within the meaning of section 1122 of the Corporation Tax Act 2010) has entered into an agreement with the Crown Estate Commissioners or a relevant person[^key-2ba2af21f528b68d899a5de10771b7ac] for lease of the seabed where the station is, or is to be, situated.
+- (c) in the case of a station that is, or is intended to be, an offshore generating station, documents demonstrating that the person submitting the notice (or a person connected with that person within the meaning of section 1122 of the Corporation Tax Act 2010) has entered into an agreement with the Crown Estate Commissioners or a relevant person[^c-2ba2af21f528b68d899a5de10771b7ac] for lease of the seabed where the station is, or is to be, situated.
 
 (6) Paragraph (5)(a) does not apply if the notice contains a declaration that no grid works are required in order to commission the generating station.
 
@@ -548,7 +548,7 @@ the Authority must give the information specified in paragraph (9) to the person
 - “offshore generating station” means a generating station which generates electricity from wind and which—
   - (a) has its wind turbines situated wholly in offshore waters, and
   - (b) is not connected to dry land by means of a permanent structure which provides access to land above the mean low water mark;
-- “offshore waters” has the same meaning as in the Renewables Obligation Order 2015[^key-254ed8a6be2c3a6bc789a20705b60e5e]; [^key-aea34de17d931f3bee8125f0b6fdc847]...
+- “offshore waters” has the same meaning as in the Renewables Obligation Order 2015[^c-254ed8a6be2c3a6bc789a20705b60e5e]; [^c-aea34de17d931f3bee8125f0b6fdc847]...
 - “planning permission” means—
   - (a) in the case of an offshore generating station—
     - (i) consent under section 36 of the Electricity Act 1989[^f00017],
@@ -558,7 +558,7 @@ the Authority must give the information specified in paragraph (9) to the person
     - (i) consent under section 36 of the Electricity Act 1989,
     - (ii) planning permission under the Town and Country Planning Act 1990[^f00020],
     - (iii) planning permission under the Town and Country Planning (Scotland) Act 1997[^f00021], or
-    - (iv) development consent under the Planning Act 2008 ; and[^key-3cc42b961ca5715b1d603805aa97c887]
+    - (iv) development consent under the Planning Act 2008 ; and[^c-3cc42b961ca5715b1d603805aa97c887]
 - “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests.
 
 (11) For the purposes of paragraph (2)(a), a notice that is “in writing” includes a notice that is submitted to the Authority by electronic mail, facsimile or similar means which are capable of producing a document containing the text of the notice.
@@ -601,115 +601,115 @@ An explanatory memorandum is available alongside this Order on www.legislation.g
 
 [^f00004]: Footnote: Section 32LB was inserted by section 55(1) of the Energy Act 2013.
 
-[^key-c6d89dafd154aee3660e795ea79073f5]: Commencement: Art. 1 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
+[^c-c6d89dafd154aee3660e795ea79073f5]: Commencement: Art. 1 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
 
-[^key-009174d6e8ccdae3f3ecba154d045659]: Commencement: Art. 2 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
+[^c-009174d6e8ccdae3f3ecba154d045659]: Commencement: Art. 2 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
 
-[^key-180e65645d8ebd12d539a5b4c648696f]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/1) substituted (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [97(2)(a)](https://www.legislation.gov.uk/uksi/2015/1947/article/97/2/a)
+[^c-180e65645d8ebd12d539a5b4c648696f]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/1) substituted (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [97(2)(a)](https://www.legislation.gov.uk/uksi/2015/1947/article/97/2/a)
 
-[^key-e40bf174cadb97e8c0a5870e0d1c7381]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/1) inserted (24.3.2015) by [The Renewables Obligation Closure (Amendment) Order 2015 (S.I. 2015/920)](https://www.legislation.gov.uk/uksi/2015/920), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/920/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/920/article/2/2/a)
+[^c-e40bf174cadb97e8c0a5870e0d1c7381]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/1) inserted (24.3.2015) by [The Renewables Obligation Closure (Amendment) Order 2015 (S.I. 2015/920)](https://www.legislation.gov.uk/uksi/2015/920), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/920/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/920/article/2/2/a)
 
-[^key-c57d425f44e22d6f222dd7f92744ea78]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/1) omitted (25.3.2016) by virtue of [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2016/457/article/2/2/a)
+[^c-c57d425f44e22d6f222dd7f92744ea78]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/1) omitted (25.3.2016) by virtue of [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2016/457/article/2/2/a)
 
 [^f00006]: Footnote: Copies can be obtained from the Department of Energy and Climate Change, 3 Whitehall Place, London, SW1A 2AW and are available at http://chpqa.decc.gov.uk/chpqa-documents.
 
 [^f00007]: Footnote: Copies can be obtained from the Department of Energy and Climate Change, 3 Whitehall Place, London, SW1A 2AW and are available at http://chpqa.decc.gov.uk/chpqa-documents.
 
-[^key-8fc3f5a012d01c8393e529f6574faf6c]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/1) inserted (1.1.2017) by [The Combined Heat and Power Quality Assurance Regulations 2016 (S.I. 2016/1108)](https://www.legislation.gov.uk/uksi/2016/1108), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1108/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2016/1108/regulation/3/a)
+[^c-8fc3f5a012d01c8393e529f6574faf6c]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/1) inserted (1.1.2017) by [The Combined Heat and Power Quality Assurance Regulations 2016 (S.I. 2016/1108)](https://www.legislation.gov.uk/uksi/2016/1108), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1108/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2016/1108/regulation/3/a)
 
-[^key-2b59507d4e0b244790587f83bb3d5ed7]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/1) inserted (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [97(2)(c)](https://www.legislation.gov.uk/uksi/2015/1947/article/97/2/c)
+[^c-2b59507d4e0b244790587f83bb3d5ed7]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/1) inserted (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [97(2)(c)](https://www.legislation.gov.uk/uksi/2015/1947/article/97/2/c)
 
-[^key-bb8d491be978bd33fd4c053e0ba82b21]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/1) inserted (25.3.2016) by [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/457/article/2/2/b)
+[^c-bb8d491be978bd33fd4c053e0ba82b21]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/1) inserted (25.3.2016) by [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/457/article/2/2/b)
 
-[^key-f08eabd3f44ffaf5caf7a1e86401e9d9]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/1) substituted (25.3.2016) by [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2016/457/article/2/2/c)
+[^c-f08eabd3f44ffaf5caf7a1e86401e9d9]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/1) substituted (25.3.2016) by [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2016/457/article/2/2/c)
 
-[^key-b5c13f0c4a6ac00598dec38cec1d8b6e]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/1) inserted (25.3.2016) by [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2016/457/article/2/2/d)
+[^c-b5c13f0c4a6ac00598dec38cec1d8b6e]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/1) inserted (25.3.2016) by [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2016/457/article/2/2/d)
 
-[^key-e38a13565edf67e6b9d7a1aff26145ce]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/1) omitted (24.3.2015) by virtue of [The Renewables Obligation Closure (Amendment) Order 2015 (S.I. 2015/920)](https://www.legislation.gov.uk/uksi/2015/920), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/920/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/920/article/2/2/b)
+[^c-e38a13565edf67e6b9d7a1aff26145ce]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/1) omitted (24.3.2015) by virtue of [The Renewables Obligation Closure (Amendment) Order 2015 (S.I. 2015/920)](https://www.legislation.gov.uk/uksi/2015/920), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/920/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/920/article/2/2/b)
 
-[^key-10ca23cdc7e9b66a7291fbbca5c451f4]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/1) substituted (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [97(2)(b)](https://www.legislation.gov.uk/uksi/2015/1947/article/97/2/b)
+[^c-10ca23cdc7e9b66a7291fbbca5c451f4]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/1) substituted (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [97(2)(b)](https://www.legislation.gov.uk/uksi/2015/1947/article/97/2/b)
 
-[^key-34d91cbb5ab18c70baa4d86d517d49d0]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/1) omitted (25.3.2016) by virtue of [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [2(2)(e)](https://www.legislation.gov.uk/uksi/2016/457/article/2/2/e)
+[^c-34d91cbb5ab18c70baa4d86d517d49d0]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/1) omitted (25.3.2016) by virtue of [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [2(2)(e)](https://www.legislation.gov.uk/uksi/2016/457/article/2/2/e)
 
-[^key-d6e6058ce25b952c1eb1a5d61e21cd23]: Textual amendment: Word in [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/2) substituted (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [97(3)(a)](https://www.legislation.gov.uk/uksi/2015/1947/article/97/3/a)
+[^c-d6e6058ce25b952c1eb1a5d61e21cd23]: Textual amendment: Word in [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/2) substituted (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [97(3)(a)](https://www.legislation.gov.uk/uksi/2015/1947/article/97/3/a)
 
-[^key-db7f205eb34e48f2fa7d7ab78ee217aa]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/2) omitted (1.12.2015) by virtue of [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [97(3)(b)](https://www.legislation.gov.uk/uksi/2015/1947/article/97/3/b)
+[^c-db7f205eb34e48f2fa7d7ab78ee217aa]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/2) omitted (1.12.2015) by virtue of [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [97(3)(b)](https://www.legislation.gov.uk/uksi/2015/1947/article/97/3/b)
 
-[^key-180ecde2ebdb71d7f2284af857213136]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/2) inserted (24.3.2015) by [The Renewables Obligation Closure (Amendment) Order 2015 (S.I. 2015/920)](https://www.legislation.gov.uk/uksi/2015/920), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/920/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/920/article/2/3)
+[^c-180ecde2ebdb71d7f2284af857213136]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/2) inserted (24.3.2015) by [The Renewables Obligation Closure (Amendment) Order 2015 (S.I. 2015/920)](https://www.legislation.gov.uk/uksi/2015/920), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/920/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/920/article/2/3)
 
-[^key-9f0b706bb80466197fbf5a7d4e70488b]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/2): semicolon omitted (1.12.2015) by virtue of [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [97(3)(c)](https://www.legislation.gov.uk/uksi/2015/1947/article/97/3/c)
+[^c-9f0b706bb80466197fbf5a7d4e70488b]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/uksi/2014/2388/article/2/2): semicolon omitted (1.12.2015) by virtue of [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [97(3)(c)](https://www.legislation.gov.uk/uksi/2015/1947/article/97/3/c)
 
-[^key-36834482df75fe32f6191f35c6910411]: Textual amendment: [Arts. 2A-2D](https://www.legislation.gov.uk/uksi/2014/2388/article/2A) inserted (24.3.2015) by [The Renewables Obligation Closure (Amendment) Order 2015 (S.I. 2015/920)](https://www.legislation.gov.uk/uksi/2015/920), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/920/article/1/1), [3](https://www.legislation.gov.uk/uksi/2015/920/article/3)
+[^c-36834482df75fe32f6191f35c6910411]: Textual amendment: [Arts. 2A-2D](https://www.legislation.gov.uk/uksi/2014/2388/article/2A) inserted (24.3.2015) by [The Renewables Obligation Closure (Amendment) Order 2015 (S.I. 2015/920)](https://www.legislation.gov.uk/uksi/2015/920), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/920/article/1/1), [3](https://www.legislation.gov.uk/uksi/2015/920/article/3)
 
-[^key-df9bd3ca0da3e78416aaea394090739e]: Textual amendment: Word in [art. 2A](https://www.legislation.gov.uk/uksi/2014/2388/article/2A) heading inserted (25.3.2016) by [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2016/457/article/4/2)
+[^c-df9bd3ca0da3e78416aaea394090739e]: Textual amendment: Word in [art. 2A](https://www.legislation.gov.uk/uksi/2014/2388/article/2A) heading inserted (25.3.2016) by [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2016/457/article/4/2)
 
-[^key-4c1f856b2100d1abd1a5773d7107096e]: Textual amendment: Word in [art. 2A(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2A/1) inserted (25.3.2016) by [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2016/457/article/4/2)
+[^c-4c1f856b2100d1abd1a5773d7107096e]: Textual amendment: Word in [art. 2A(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2A/1) inserted (25.3.2016) by [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2016/457/article/4/2)
 
-[^key-f998911860b3726a42d99f8a1d177af9]: Textual amendment: Word in [art. 2B(1)(a)](https://www.legislation.gov.uk/uksi/2014/2388/article/2B/1/a) inserted (25.3.2016) by [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2016/457/article/4/3)
+[^c-f998911860b3726a42d99f8a1d177af9]: Textual amendment: Word in [art. 2B(1)(a)](https://www.legislation.gov.uk/uksi/2014/2388/article/2B/1/a) inserted (25.3.2016) by [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2016/457/article/4/3)
 
-[^key-7b3394fac711e97bb0882745d3c7842e]: Textual amendment: Word in [art. 2B(6)](https://www.legislation.gov.uk/uksi/2014/2388/article/2B/6) substituted (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [97(4)](https://www.legislation.gov.uk/uksi/2015/1947/article/97/4)
+[^c-7b3394fac711e97bb0882745d3c7842e]: Textual amendment: Word in [art. 2B(6)](https://www.legislation.gov.uk/uksi/2014/2388/article/2B/6) substituted (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [97(4)](https://www.legislation.gov.uk/uksi/2015/1947/article/97/4)
 
-[^key-36226e7375c817af9a4582d7e6e41aa0]: Textual amendment: Word in [art. 2D](https://www.legislation.gov.uk/uksi/2014/2388/article/2D) heading inserted (25.3.2016) by [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2016/457/article/4/4)
+[^c-36226e7375c817af9a4582d7e6e41aa0]: Textual amendment: Word in [art. 2D](https://www.legislation.gov.uk/uksi/2014/2388/article/2D) heading inserted (25.3.2016) by [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2016/457/article/4/4)
 
-[^key-a0a27045a4ac435b149a4c1e9f70820a]: Textual amendment: Word in [art. 2D(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2D/1) inserted (25.3.2016) by [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2016/457/article/4/4)
+[^c-a0a27045a4ac435b149a4c1e9f70820a]: Textual amendment: Word in [art. 2D(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/2D/1) inserted (25.3.2016) by [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2016/457/article/4/4)
 
-[^key-9ab93ffdd15c311fecfcdbd0795374fb]: Textual amendment: [Arts. 2E-2H](https://www.legislation.gov.uk/uksi/2014/2388/article/2E) inserted (25.3.2016) by [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [3](https://www.legislation.gov.uk/uksi/2016/457/article/3)
+[^c-9ab93ffdd15c311fecfcdbd0795374fb]: Textual amendment: [Arts. 2E-2H](https://www.legislation.gov.uk/uksi/2014/2388/article/2E) inserted (25.3.2016) by [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [3](https://www.legislation.gov.uk/uksi/2016/457/article/3)
 
-[^key-ecef46e0b5dfeb34537eb9106fdb2a17]: Commencement: Art. 3 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
+[^c-ecef46e0b5dfeb34537eb9106fdb2a17]: Commencement: Art. 3 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
 
-[^key-2781994f51fa0c6ceddafb3600b1c4eb]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2014/2388/article/3) heading inserted (24.3.2015) by [The Renewables Obligation Closure (Amendment) Order 2015 (S.I. 2015/920)](https://www.legislation.gov.uk/uksi/2015/920), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/920/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2015/920/article/4/2)
+[^c-2781994f51fa0c6ceddafb3600b1c4eb]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2014/2388/article/3) heading inserted (24.3.2015) by [The Renewables Obligation Closure (Amendment) Order 2015 (S.I. 2015/920)](https://www.legislation.gov.uk/uksi/2015/920), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/920/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2015/920/article/4/2)
 
-[^key-e681503e2a861dec4d788b57975e4095]: Textual amendment: Word in [art. 3](https://www.legislation.gov.uk/uksi/2014/2388/article/3) heading omitted (25.3.2016) by virtue of [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2016/457/article/4/5)
+[^c-e681503e2a861dec4d788b57975e4095]: Textual amendment: Word in [art. 3](https://www.legislation.gov.uk/uksi/2014/2388/article/3) heading omitted (25.3.2016) by virtue of [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2016/457/article/4/5)
 
-[^key-46e68863c5ec246f8077229b39f53712]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/3/1) inserted (24.3.2015) by [The Renewables Obligation Closure (Amendment) Order 2015 (S.I. 2015/920)](https://www.legislation.gov.uk/uksi/2015/920), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/920/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2015/920/article/4/3)
+[^c-46e68863c5ec246f8077229b39f53712]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/3/1) inserted (24.3.2015) by [The Renewables Obligation Closure (Amendment) Order 2015 (S.I. 2015/920)](https://www.legislation.gov.uk/uksi/2015/920), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/920/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2015/920/article/4/3)
 
-[^key-23debf4c31e0df5b34dd460b4373fc6c]: Textual amendment: Word in [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/3/1) omitted (25.3.2016) by virtue of [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2016/457/article/4/5)
+[^c-23debf4c31e0df5b34dd460b4373fc6c]: Textual amendment: Word in [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/2388/article/3/1) omitted (25.3.2016) by virtue of [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2016/457/article/4/5)
 
-[^key-49e538db474b80663bfe949e755813b2]: Commencement: Art. 4 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
+[^c-49e538db474b80663bfe949e755813b2]: Commencement: Art. 4 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
 
-[^key-93011d00e970d4be3fe1312b1edf11b7]: Commencement: Art. 5 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
+[^c-93011d00e970d4be3fe1312b1edf11b7]: Commencement: Art. 5 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
 
-[^key-e809ddde2c6970d456588d7ebe8cca06]: Commencement: Art. 6 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
+[^c-e809ddde2c6970d456588d7ebe8cca06]: Commencement: Art. 6 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
 
-[^key-a2264439588c8d9c7ab796b0f7511b4a]: Commencement: Art. 7 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
+[^c-a2264439588c8d9c7ab796b0f7511b4a]: Commencement: Art. 7 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
 
 [^f00010]: Footnote: [2013 c.32](https://www.legislation.gov.uk/ukpga/2013/32).
 
-[^key-cda0acd3e8b2e8a3cadcba0642db6721]: Commencement: Art. 8 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
+[^c-cda0acd3e8b2e8a3cadcba0642db6721]: Commencement: Art. 8 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
 
-[^key-96d17920d2154d0137310b709aa2b8e9]: Textual amendment: Words in [art. 8(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2388/article/8/1/a/i) substituted (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [97(5)](https://www.legislation.gov.uk/uksi/2015/1947/article/97/5)
+[^c-96d17920d2154d0137310b709aa2b8e9]: Textual amendment: Words in [art. 8(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2388/article/8/1/a/i) substituted (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [97(5)](https://www.legislation.gov.uk/uksi/2015/1947/article/97/5)
 
-[^key-5c6d5caf5e21545abd059515e4959265]: Textual amendment: Words in [art. 8(3)(b)](https://www.legislation.gov.uk/uksi/2014/2388/article/8/3/b) substituted (1.1.2017) by [The Combined Heat and Power Quality Assurance Regulations 2016 (S.I. 2016/1108)](https://www.legislation.gov.uk/uksi/2016/1108), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1108/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2016/1108/regulation/3/b)
+[^c-5c6d5caf5e21545abd059515e4959265]: Textual amendment: Words in [art. 8(3)(b)](https://www.legislation.gov.uk/uksi/2014/2388/article/8/3/b) substituted (1.1.2017) by [The Combined Heat and Power Quality Assurance Regulations 2016 (S.I. 2016/1108)](https://www.legislation.gov.uk/uksi/2016/1108), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1108/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2016/1108/regulation/3/b)
 
 [^f00011]: Footnote: The policy is set out in the document titled “Renewables Obligation: notification process for new build dedicated biomass projects - Guidance on applying for a place within the 400MW cap” published by the Department of Energy and Climate Change in August 2013 (URN: 13D/232). Copies can be obtained from 3 Whitehall Place, London, SW1A 2AW and are available at www.gov.uk/government/publications/applying-for-a-place-within-the-400mw-cap-on-new-build-dedicated-biomass-projects-renewables-obligation.
 
-[^key-ee2a2d7781375c652277ab323b9e6561]: Commencement: Art. 9 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
+[^c-ee2a2d7781375c652277ab323b9e6561]: Commencement: Art. 9 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
 
 [^f00012]: Footnote: [S.S.I. 2009/140](https://www.legislation.gov.uk/ssi/2009/140) as amended by [S.S.I. 2009/276](https://www.legislation.gov.uk/ssi/2009/276), [S.S.I. 2010/147](https://www.legislation.gov.uk/ssi/2010/147), [S.S.I. 2011/225](https://www.legislation.gov.uk/ssi/2011/225), paragraph 22 of the Schedule to [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226), [S.S.I .2013/116](https://www.legislation.gov.uk/ssi/2013/116) and [S.S.I. 2014/94](https://www.legislation.gov.uk/ssi/2014/94). Article 30C was inserted by article 13 of [S.S.I. 2014/94](https://www.legislation.gov.uk/ssi/2014/94).
 
-[^key-2b4725ca4f13e76a9c526bb2a94306f1]: Commencement: Art. 10 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
+[^c-2b4725ca4f13e76a9c526bb2a94306f1]: Commencement: Art. 10 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
 
 [^f00013]: Footnote: Article 30D of [S.S.I. 2009/140](https://www.legislation.gov.uk/ssi/2009/140) was inserted by article 13 of [S.S.I. 2014/94](https://www.legislation.gov.uk/ssi/2014/94).
 
-[^key-7606f5da84ef5d72dba39c42893a1c14]: Commencement: Art. 11 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
+[^c-7606f5da84ef5d72dba39c42893a1c14]: Commencement: Art. 11 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
 
-[^key-34569bf9fadbea58fb923e2d5bbd2452]: Textual amendment: Words in [art. 11(b)](https://www.legislation.gov.uk/uksi/2014/2388/article/11/b) substituted (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [97(6)](https://www.legislation.gov.uk/uksi/2015/1947/article/97/6)
+[^c-34569bf9fadbea58fb923e2d5bbd2452]: Textual amendment: Words in [art. 11(b)](https://www.legislation.gov.uk/uksi/2014/2388/article/11/b) substituted (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [97(6)](https://www.legislation.gov.uk/uksi/2015/1947/article/97/6)
 
-[^key-f106143a2583c5854288abc1b3489e7d]: Commencement: Art. 12 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
+[^c-f106143a2583c5854288abc1b3489e7d]: Commencement: Art. 12 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
 
-[^key-cb7a89bce0cec5dfa87261cba466af92]: Textual amendment: Words in [art. 12(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/2388/article/12/1/a/ii) substituted (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [97(5)](https://www.legislation.gov.uk/uksi/2015/1947/article/97/5)
+[^c-cb7a89bce0cec5dfa87261cba466af92]: Textual amendment: Words in [art. 12(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/2388/article/12/1/a/ii) substituted (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [97(5)](https://www.legislation.gov.uk/uksi/2015/1947/article/97/5)
 
-[^key-53b2b8b7b4bb762c70f50086caa65d63]: Commencement: Art. 13 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
+[^c-53b2b8b7b4bb762c70f50086caa65d63]: Commencement: Art. 13 in force at 9.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2388/article/1)
 
 [^f00014]: Footnote: [2010 c.4](https://www.legislation.gov.uk/ukpga/2010/4).
 
-[^key-2ba2af21f528b68d899a5de10771b7ac]: Textual amendment: Words in [art. 13(5)(c)](https://www.legislation.gov.uk/uksi/2014/2388/article/13/5/c) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 133(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/133/a)
+[^c-2ba2af21f528b68d899a5de10771b7ac]: Textual amendment: Words in [art. 13(5)(c)](https://www.legislation.gov.uk/uksi/2014/2388/article/13/5/c) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 133(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/133/a)
 
 [^f00015]: Footnote: [2000 c.12](https://www.legislation.gov.uk/ukpga/2000/12). Section 8 has been amended by paragraph 4 of Schedule 3 to [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804).
 
-[^key-254ed8a6be2c3a6bc789a20705b60e5e]: Textual amendment: Word in [art. 13(10)](https://www.legislation.gov.uk/uksi/2014/2388/article/13/10) substituted (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [97(7)](https://www.legislation.gov.uk/uksi/2015/1947/article/97/7)
+[^c-254ed8a6be2c3a6bc789a20705b60e5e]: Textual amendment: Word in [art. 13(10)](https://www.legislation.gov.uk/uksi/2014/2388/article/13/10) substituted (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [97(7)](https://www.legislation.gov.uk/uksi/2015/1947/article/97/7)
 
-[^key-aea34de17d931f3bee8125f0b6fdc847]: Textual amendment: Words in [art. 13(10)](https://www.legislation.gov.uk/uksi/2014/2388/article/13/10) omitted (1.4.2017) by virtue of [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 133(b)(i)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/133/b/i)
+[^c-aea34de17d931f3bee8125f0b6fdc847]: Textual amendment: Words in [art. 13(10)](https://www.legislation.gov.uk/uksi/2014/2388/article/13/10) omitted (1.4.2017) by virtue of [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 133(b)(i)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/133/b/i)
 
 [^f00017]: Footnote: Section 36 of the Electricity Act 1989 has been amended by section 93(1) and (3) of the Energy Act [2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), paragraph 32 of Schedule 2 to the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29) and section 12(7)(a) and (8) of the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23). It has also been amended in relation to Scotland by [S.I. 2006/1054](https://www.legislation.gov.uk/uksi/2006/1054). Functions of the Secretary of State under section 36 have been transferred to the Scottish Ministers by [S.I. 2006/1040](https://www.legislation.gov.uk/uksi/2006/1040), in so far as exercisable in or as regards Scotland (see also [S.I. 2005/3153](https://www.legislation.gov.uk/uksi/2005/3153)). Functions of the Secretary of State under section 36(1), (5) and (7) have been transferred to the Marine Management Organisation by section 12(1) to (4) of the Marine and Coastal Access Act 2009 as regards certain offshore generating stations.
 
@@ -721,6 +721,6 @@ An explanatory memorandum is available alongside this Order on www.legislation.g
 
 [^f00021]: Footnote: [1997 c.8](https://www.legislation.gov.uk/ukpga/1997/8). Amendments have been made by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), Part 3 of the Planning etc (Scotland) Act [2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), paragraph 55 of Schedule 2 to the Planning Act [2008 (c.29)](https://www.legislation.gov.uk/ukpga/2008/29), [S.S.I. 2013/24](https://www.legislation.gov.uk/ssi/2013/24) and [S.S.I. 2013/26](https://www.legislation.gov.uk/ssi/2013/26). There are other amendments which are not relevant.
 
-[^key-3cc42b961ca5715b1d603805aa97c887]: Textual amendment: Words in [art. 13(10)](https://www.legislation.gov.uk/uksi/2014/2388/article/13/10) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 133(b)(ii)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/133/b/ii)
+[^c-3cc42b961ca5715b1d603805aa97c887]: Textual amendment: Words in [art. 13(10)](https://www.legislation.gov.uk/uksi/2014/2388/article/13/10) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 133(b)(ii)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/133/b/ii)
 
 [^f00022]: Footnote: Renewable Energy Zone has the meaning given in section 84 of the Energy Act [2004 (c.20)](https://www.legislation.gov.uk/ukpga/2004/20) as amended by paragraph 4 of Schedule 4 to the Marine and Coastal Access Act 2009. The part of the Renewable Energy Zone in relation to which Scottish Ministers have functions has been designated by [S.I. 2005/3153](https://www.legislation.gov.uk/uksi/2005/3153).

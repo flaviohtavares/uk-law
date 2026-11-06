@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Transitional provision[^key-7f564e2de22d436888419a653ac4acc4]
+## 91. Transitional provision[^c-7f564e2de22d436888419a653ac4acc4]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In relation to times before 1 January 2027, Article 6A(2) of the Health and Pers
 
 ## Annotations
 
-[^key-7f564e2de22d436888419a653ac4acc4]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2026/18/section/91) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-7f564e2de22d436888419a653ac4acc4]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2026/18/section/91) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

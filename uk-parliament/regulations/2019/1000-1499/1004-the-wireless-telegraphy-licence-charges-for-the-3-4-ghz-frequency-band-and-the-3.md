@@ -31,7 +31,7 @@ summary: ''
 
 Electronic Communications
 
-The Wireless Telegraphy (Licence Charges for the 3.4 GHz Frequency Band and the 3.6 GHz Frequency Band) Regulations 2019 (revoked)[^key-dcfaeb93c96c9d9cbb9169a1baf12d5f]
+The Wireless Telegraphy (Licence Charges for the 3.4 GHz Frequency Band and the 3.6 GHz Frequency Band) Regulations 2019 (revoked)[^c-dcfaeb93c96c9d9cbb9169a1baf12d5f]
 
 Made
 
@@ -47,50 +47,50 @@ for the purpose of the remainder
 
 31st July 2019
 
-[^key-dcfaeb93c96c9d9cbb9169a1baf12d5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dcfaeb93c96c9d9cbb9169a1baf12d5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-dcfaeb93c96c9d9cbb9169a1baf12d5f]
+## 1. Citation and commencement[^c-dcfaeb93c96c9d9cbb9169a1baf12d5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-dcfaeb93c96c9d9cbb9169a1baf12d5f]
+## 2. Interpretation[^c-dcfaeb93c96c9d9cbb9169a1baf12d5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to the 2011 Regulations[^key-dcfaeb93c96c9d9cbb9169a1baf12d5f]
+## 3. Amendment to the 2011 Regulations[^c-dcfaeb93c96c9d9cbb9169a1baf12d5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Licence charges payable for the 3.4 GHz frequency band[^key-dcfaeb93c96c9d9cbb9169a1baf12d5f]
+## 4. Licence charges payable for the 3.4 GHz frequency band[^c-dcfaeb93c96c9d9cbb9169a1baf12d5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. One-off licence charge payable in instalments by holders of licences for the 3.6 GHz frequency band on 31st July 2019[^key-dcfaeb93c96c9d9cbb9169a1baf12d5f]
+## 5. One-off licence charge payable in instalments by holders of licences for the 3.6 GHz frequency band on 31st July 2019[^c-dcfaeb93c96c9d9cbb9169a1baf12d5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. One-off licence charge payable by holders of licences for the 3.6 GHz frequency band on 31st December 2019[^key-dcfaeb93c96c9d9cbb9169a1baf12d5f]
+## 6. One-off licence charge payable by holders of licences for the 3.6 GHz frequency band on 31st December 2019[^c-dcfaeb93c96c9d9cbb9169a1baf12d5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Licence charges payable for the 3.6 GHz frequency band from 31st December 2020[^key-dcfaeb93c96c9d9cbb9169a1baf12d5f]
+## 7. Licence charges payable for the 3.6 GHz frequency band from 31st December 2020[^c-dcfaeb93c96c9d9cbb9169a1baf12d5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Payment by instalments[^key-dcfaeb93c96c9d9cbb9169a1baf12d5f]
+## 8. Payment by instalments[^c-dcfaeb93c96c9d9cbb9169a1baf12d5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Concurrent licences[^key-dcfaeb93c96c9d9cbb9169a1baf12d5f]
+## 9. Concurrent licences[^c-dcfaeb93c96c9d9cbb9169a1baf12d5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dcfaeb93c96c9d9cbb9169a1baf12d5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dcfaeb93c96c9d9cbb9169a1baf12d5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dcfaeb93c96c9d9cbb9169a1baf12d5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dcfaeb93c96c9d9cbb9169a1baf12d5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dcfaeb93c96c9d9cbb9169a1baf12d5f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/1004) revoked (15.11.2022) by [The Wireless Telegraphy (Licence Charges for the 3.4 GHz Frequency Band and the 3.6 GHz Frequency Band) Regulations 2022 (S.I. 2022/1091)](https://www.legislation.gov.uk/uksi/2022/1091), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1091/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/1091/regulation/3)
+[^c-dcfaeb93c96c9d9cbb9169a1baf12d5f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/1004) revoked (15.11.2022) by [The Wireless Telegraphy (Licence Charges for the 3.4 GHz Frequency Band and the 3.6 GHz Frequency Band) Regulations 2022 (S.I. 2022/1091)](https://www.legislation.gov.uk/uksi/2022/1091), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1091/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/1091/regulation/3)

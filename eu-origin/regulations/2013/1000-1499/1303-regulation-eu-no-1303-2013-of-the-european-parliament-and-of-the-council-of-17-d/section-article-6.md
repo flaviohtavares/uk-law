@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 6. Compliance with the law as it applies in the constituent nation[^key-d88e8d508309d9225551d21d4034ffc1]
+## Article 6. Compliance with the law as it applies in the constituent nation[^c-d88e8d508309d9225551d21d4034ffc1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Operations receiving support for rural development must comply with the law as i
 
 ## Annotations
 
-[^key-d88e8d508309d9225551d21d4034ffc1]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eur/2013/1303/article/6) substituted (31.12.2020) by [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [5(5)](https://www.legislation.gov.uk/uksi/2019/785/regulation/5/5) (as amended by [S.I. 2020/1542](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [13(3)(d)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/13/3/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d88e8d508309d9225551d21d4034ffc1]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eur/2013/1303/article/6) substituted (31.12.2020) by [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [5(5)](https://www.legislation.gov.uk/uksi/2019/785/regulation/5/5) (as amended by [S.I. 2020/1542](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [13(3)(d)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/13/3/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

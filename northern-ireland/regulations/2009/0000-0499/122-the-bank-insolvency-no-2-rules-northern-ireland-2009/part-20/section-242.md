@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 242. Procedure for examination[^key-f81c84ac379e145e9c26a60bb81ad539]
+## 242. Procedure for examination[^c-f81c84ac379e145e9c26a60bb81ad539]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 9.4 of the 1991 Rules.
 
 ## Annotations
 
-[^key-f81c84ac379e145e9c26a60bb81ad539]: Commencement: Rule 242 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-f81c84ac379e145e9c26a60bb81ad539]: Commencement: Rule 242 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

@@ -40,61 +40,61 @@ on the harmonisation of the 2 500-2 690 MHz frequency band for terrestrial syst
 
 (2008/477/EC) (revoked)
 
-[^key-f286aa9c10bf86051e1b2701c4f14c5b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f286aa9c10bf86051e1b2701c4f14c5b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-f286aa9c10bf86051e1b2701c4f14c5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-f286aa9c10bf86051e1b2701c4f14c5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-f286aa9c10bf86051e1b2701c4f14c5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-f286aa9c10bf86051e1b2701c4f14c5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-f286aa9c10bf86051e1b2701c4f14c5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-f286aa9c10bf86051e1b2701c4f14c5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-f286aa9c10bf86051e1b2701c4f14c5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-f286aa9c10bf86051e1b2701c4f14c5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — PARAMETERS REFERRED TO IN ARTICLE 2[^key-f286aa9c10bf86051e1b2701c4f14c5b]
+## ANNEX — PARAMETERS REFERRED TO IN ARTICLE 2[^c-f286aa9c10bf86051e1b2701c4f14c5b]
 
-[^key-f286aa9c10bf86051e1b2701c4f14c5b] A.
+[^c-f286aa9c10bf86051e1b2701c4f14c5b] A.
 
 DEFINITIONS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f286aa9c10bf86051e1b2701c4f14c5b] B.
+[^c-f286aa9c10bf86051e1b2701c4f14c5b] B.
 
 GENERAL PARAMETERS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f286aa9c10bf86051e1b2701c4f14c5b] (1)
+[^c-f286aa9c10bf86051e1b2701c4f14c5b] (1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f286aa9c10bf86051e1b2701c4f14c5b] (2)
+[^c-f286aa9c10bf86051e1b2701c4f14c5b] (2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f286aa9c10bf86051e1b2701c4f14c5b] (3)
+[^c-f286aa9c10bf86051e1b2701c4f14c5b] (3)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f286aa9c10bf86051e1b2701c4f14c5b] C.
+[^c-f286aa9c10bf86051e1b2701c4f14c5b] C.
 
 TECHNICAL CONDITIONS FOR BASE STATIONS – BLOCK EDGE MASK
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f286aa9c10bf86051e1b2701c4f14c5b] Explanatory note to the Figure
+[^c-f286aa9c10bf86051e1b2701c4f14c5b] Explanatory note to the Figure
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f286aa9c10bf86051e1b2701c4f14c5b] Explanatory note to Table 3
+[^c-f286aa9c10bf86051e1b2701c4f14c5b] Explanatory note to Table 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f286aa9c10bf86051e1b2701c4f14c5b] Explanatory note to Table 7
+[^c-f286aa9c10bf86051e1b2701c4f14c5b] Explanatory note to Table 7
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f286aa9c10bf86051e1b2701c4f14c5b] D.
+[^c-f286aa9c10bf86051e1b2701c4f14c5b] D.
 
 TECHNICAL CONDITIONS FOR TERMINAL STATIONS
 
@@ -102,4 +102,4 @@ TECHNICAL CONDITIONS FOR TERMINAL STATIONS
 
 ## Annotations
 
-[^key-f286aa9c10bf86051e1b2701c4f14c5b]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f286aa9c10bf86051e1b2701c4f14c5b]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

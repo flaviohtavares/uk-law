@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 289. Acquisition and disposal of securities by trustees etc[^key-566595ed7811af5297c663dc54da3bed]
+## 289. Acquisition and disposal of securities by trustees etc[^c-566595ed7811af5297c663dc54da3bed]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,7 +45,7 @@ summary: ''
 
 ## Annotations
 
-[^key-566595ed7811af5297c663dc54da3bed]: Commencement: Art. 289 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-566595ed7811af5297c663dc54da3bed]: Commencement: Art. 289 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00210]: Footnote: Section 5(1) was amended by the Financial Services Act [1986 (c. 60)](https://www.legislation.gov.uk/ukpga/1986/60) s. 194.
 

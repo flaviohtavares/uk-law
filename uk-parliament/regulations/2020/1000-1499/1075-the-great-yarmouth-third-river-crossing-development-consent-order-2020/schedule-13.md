@@ -24,7 +24,7 @@ Article 56
 
 ### PART 1 — GENERAL
 
-#### 1. Interpretation[^key-4a1bf11bbd23ab4cd46d8aff66611199]
+#### 1. Interpretation[^c-4a1bf11bbd23ab4cd46d8aff66611199]
 
 (1) In this licence—
 
@@ -51,7 +51,7 @@ Article 56
 
 (3) Reference points specified in this licence are to be construed as references to Ordnance Survey National Grid reference points.
 
-**2.**[^key-80c6174e7a8e8271aea9ae8492644a4b] (1) The main points of contact with the MMO and the addresses for email and postal returns and correspondence are as follows—
+**2.**[^c-80c6174e7a8e8271aea9ae8492644a4b] (1) The main points of contact with the MMO and the addresses for email and postal returns and correspondence are as follows—
 
 - (a) Marine Management Organisation
 
@@ -90,7 +90,7 @@ Article 56
 
 (3) Notwithstanding article 65 (service of notices) of the Order, unless otherwise notified to the licence holder in writing by the MMO, all notices required by this licence to be sent by the undertaker to the MMO must be sent using the MMO's marine case management system web portal.
 
-#### 3. Details of licensed marine activities[^key-56f140d776899858ab6748e22b211763]
+#### 3. Details of licensed marine activities[^c-56f140d776899858ab6748e22b211763]
 
 (1) Subject to the licence conditions in Part 2, this licence authorises the licence holder (and any agent, contractor or subcontractor acting on its behalf) to carry out any activities which constitute licensable marine activities under section 66(1) (licensable marine activities) of the 2009 Act and which—
 
@@ -181,7 +181,7 @@ Article 56
 
 ### PART 2 — CONDITIONS
 
-#### 4. Notification of commencement and completion of licensed activities[^key-c6bcb4871ddbfdd2eb7eed31e82c1ef9]
+#### 4. Notification of commencement and completion of licensed activities[^c-c6bcb4871ddbfdd2eb7eed31e82c1ef9]
 
 (1) The licence holder must—
 
@@ -195,7 +195,7 @@ Article 56
 
 (3) In sub-paragraph (2) “**emergency**” has the meaning given to it by article 23(11) of the Order.
 
-#### 5. Construction method statement[^key-121e0e0ea4c0b764e503490d8d892ab2]
+#### 5. Construction method statement[^c-121e0e0ea4c0b764e503490d8d892ab2]
 
 (1) The licence holder must submit a construction method statement, for approval by the MMO, at least 13 weeks prior to the commencement of any construction activity.
 
@@ -208,7 +208,7 @@ Article 56
 
 (4) The construction activity must be carried out in accordance with the approved construction method statement, unless otherwise agreed in writing by the MMO.
 
-#### 6. Noise registry[^key-5cbbeda440a732689e2bf3f861f4f374]
+#### 6. Noise registry[^c-5cbbeda440a732689e2bf3f861f4f374]
 
 Where impact piling is required as part of a construction method statement approved by the MMO under condition 5, the licence holder must—
 
@@ -219,7 +219,7 @@ Where impact piling is required as part of a construction method statement appro
   - (i) submit details of the actual location, start and end dates of impact pile driving to the Marine Noise Registry in order to satisfy the close out requirements of the Marine Noise Registry; and
   - (ii) send copies of the notifications required under sub-paragraph (i) within 5 days of the date of submission of the details required under sub-paragraph (i).
 
-#### 7. Cofferdam dewatering and excavation method statement[^key-8123b5abd95b9e40c95e89f0c8444b70]
+#### 7. Cofferdam dewatering and excavation method statement[^c-8123b5abd95b9e40c95e89f0c8444b70]
 
 (1) The licence holder must submit a method statement for the dewatering and excavation of the in-river cofferdams forming parts of the construction activities described at paragraph 3(2)(a)(v), (2)(b)(ii) and (2)(f)(v) of this licence, for approval by the MMO, at least 13 weeks prior to the commencement of any such cofferdam dewatering and excavation construction activity.
 
@@ -234,7 +234,7 @@ Where impact piling is required as part of a construction method statement appro
 
 (4) Any cofferdam dewatering and excavation construction must be carried out in accordance with the relevant approved cofferdam dewatering and excavation construction activity method statement, unless otherwise agreed in writing by the MMO.
 
-#### 8. Vessels[^key-c5f41e254a8bda95d150c044664414cb]
+#### 8. Vessels[^c-c5f41e254a8bda95d150c044664414cb]
 
 (1) The licence holder must notify the MMO Marine Licensing Team of any vessel being used to carry on any licensed activities on behalf of the licence holder.
 
@@ -245,7 +245,7 @@ Where impact piling is required as part of a construction method statement appro
 
 (3) The licence holder must ensure that a copy of this licence and any subsequent revisions or amendments have been read and understood by the master of any vessel being used to carry on any licensed activities, and that a copy of this licence is held on board any such vessel.
 
-#### 9. Marine pollution contingency plan[^key-c293078752b7530c6f1c09884a950be6]
+#### 9. Marine pollution contingency plan[^c-c293078752b7530c6f1c09884a950be6]
 
 (1) The licence holder must submit a marine pollution contingency plan, for approval by the MMO, at least 13 weeks prior to the commencement of the first licensed activity, including any construction activity.
 
@@ -255,7 +255,7 @@ Where impact piling is required as part of a construction method statement appro
 
 (4) The licensed activities must be carried out in accordance with the approved marine pollution contingency plan, unless otherwise agreed in writing by the MMO.
 
-#### 10. Piling techniques[^key-cd00a03a2a107bf37f8d89c142860829]
+#### 10. Piling techniques[^c-cd00a03a2a107bf37f8d89c142860829]
 
 (1) Where any construction activity involving piling is carried out within the River, the licence holder must comply with the requirements set out in sub-paragraphs (2) to (7).
 
@@ -271,7 +271,7 @@ Where impact piling is required as part of a construction method statement appro
 
 (7) Where impact piling ceases for a period longer than 10 minutes, the soft-start procedure must be repeated.
 
-#### 11. Concrete and cement[^key-f5afdb26c7cb5bd9f2413680f4f04de0]
+#### 11. Concrete and cement[^c-f5afdb26c7cb5bd9f2413680f4f04de0]
 
 (1) The licence holder must not discharge, intentionally or unintentionally, waste concrete, slurry or wash water from concrete or cement works into the River. The licence holder must contain and site concrete and cement mixing and washing areas at least 10 metres from any watercourse or surface water drains to minimise the risk of run off entering the River.
 
@@ -279,7 +279,7 @@ Where impact piling is required as part of a construction method statement appro
 
 (3) Rebounded concrete material must be cleared away before protective sheeting is removed.
 
-#### 12. Coatings and treatments[^key-b2621ceb267b9d08666fa55bd08e8738]
+#### 12. Coatings and treatments[^c-b2621ceb267b9d08666fa55bd08e8738]
 
 The licence holder must ensure that any coatings and any treatments are suitable for use in the marine environment and are used in accordance with guidelines approved—
 
@@ -287,7 +287,7 @@ The licence holder must ensure that any coatings and any treatments are suitable
 - (b) by the Environment Agency; or
 - (c) by both of the foregoing bodies.
 
-#### 13. Spills, etc.[^key-a7de43bdaf8f2c2453a8b8707d3f5593]
+#### 13. Spills, etc.[^c-a7de43bdaf8f2c2453a8b8707d3f5593]
 
 The licence holder must—
 
@@ -295,27 +295,27 @@ The licence holder must—
 - (b) report any spill of oil, fuel or chemicals into the marine area to the MMO Marine Pollution Response Team within 12 hours of the spill occurring; and
 - (c) store all waste in designated areas that are isolated from surface water drains and open water and are bunded to contain any spillage.
 
-#### 14. Dropped objects[^key-39e0699c6b1430589d139660df1a389d]
+#### 14. Dropped objects[^c-39e0699c6b1430589d139660df1a389d]
 
 All dropped objects must be reported to the MMO Marine Licensing Team using the Dropped Object Procedure Form (or such substitute notification procedure communicated in writing to the licence holder by the MMO) as soon as reasonably practicable and in any event within 24 hours of the licence holder becoming aware of an incident. On receipt of the Dropped Object Procedure Form or substitute notification, the MMO may require relevant surveys to be carried out by the licence holder (such as side-scan sonar), and the MMO may require obstructions to be removed from the seabed at the licence holder's expense, if reasonable to do so.
 
-#### 15. Post construction[^key-dd5e1e3e4f46069b94ce7eb0e02384c5]
+#### 15. Post construction[^c-dd5e1e3e4f46069b94ce7eb0e02384c5]
 
 The licence holder must remove all equipment, temporary structures, waste and debris associated with the construction activities within the River within 4 weeks of completion of the final construction activity.
 
 ### PART 3 — PROCEDURE FOR THE DISCHARGE OF CONDITIONS
 
-#### 16. Meaning of “return”[^key-0d5cc7a725f39fbd225f5938abea9f4b]
+#### 16. Meaning of “return”[^c-0d5cc7a725f39fbd225f5938abea9f4b]
 
 In this Part, “**return**” means a submission by the licence holder for approval by the MMO of any method statement or plan under conditions 119, 121 and 123.
 
-#### 17. Further information regarding application[^key-6a0de7b53602128c8d087444574e4d0b]
+#### 17. Further information regarding application[^c-6a0de7b53602128c8d087444574e4d0b]
 
 (1) The MMO may request in writing such further information from the licence holder as is necessary to enable the MMO to consider the return.
 
 (2) If the MMO does not make a request under sub-paragraph (1) within 30 business days of the day immediately following that on which the return is received by the MMO, it is deemed to have sufficient information to consider the return and is not entitled to request further information after this date without the prior agreement of the licence holder.
 
-#### 18. Determination of application[^key-a8090779e3ace0be5493221824583da8]
+#### 18. Determination of application[^c-a8090779e3ace0be5493221824583da8]
 
 (1) In determining the return, the MMO may have regard to—
 
@@ -331,7 +331,7 @@ In this Part, “**return**” means a submission by the licence holder for appr
 
 (3) In determining return, the MMO may discharge its obligations under sub-paragraph (2)(a), (b), or (c) separately in respect of a part of the return only, where it is reasonable to do so.
 
-#### 19. Notice of determination[^key-49912a952da4994f86baecc2e506c5b1]
+#### 19. Notice of determination[^c-49912a952da4994f86baecc2e506c5b1]
 
 (1) Subject to sub-paragraphs (2) and (3), the MMO must give notice to the licence holder of the determination of the return within 13 weeks from the day immediately following that on which the return is received by the MMO, or as soon as reasonably practicable after that date.
 
@@ -341,56 +341,56 @@ In this Part, “**return**” means a submission by the licence holder for appr
 
 (4) Where the MMO refuses the return the refusal notice must state the reasons for the refusal.
 
-#### 20. No subsidiary dredging under the Order[^key-69a8eb75ffb015c09d04bef17c08795d]
+#### 20. No subsidiary dredging under the Order[^c-69a8eb75ffb015c09d04bef17c08795d]
 
 Unless otherwise agreed in writing with the MMO, this licence does not permit any subsidiary works and operations to be carried out under article 49(1)(b) (subsidiary works and operations in the river Yare) of the Order.
 
-#### 21. Anticipatory steps towards the discharge of any condition[^key-44d7cfb422fc178fffb80432fc915f4a]
+#### 21. Anticipatory steps towards the discharge of any condition[^c-44d7cfb422fc178fffb80432fc915f4a]
 
 If before the coming into force of this Order the licence holder or any other person has taken any steps that were intended to be steps towards the discharge of any condition in Part 2 of this Schedule, those steps may be taken into account for the purposes of determining compliance with that condition if they would have been valid steps for that purpose had they been taken after this Order came into force.
 
 ## Annotations
 
-[^key-4a1bf11bbd23ab4cd46d8aff66611199]: Commencement: Sch. 13 para. 1 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-4a1bf11bbd23ab4cd46d8aff66611199]: Commencement: Sch. 13 para. 1 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-80c6174e7a8e8271aea9ae8492644a4b]: Commencement: Sch. 13 para. 2 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-80c6174e7a8e8271aea9ae8492644a4b]: Commencement: Sch. 13 para. 2 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-56f140d776899858ab6748e22b211763]: Commencement: Sch. 13 para. 3 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-56f140d776899858ab6748e22b211763]: Commencement: Sch. 13 para. 3 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
 [^c24295021]: Marginal citation: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-c6bcb4871ddbfdd2eb7eed31e82c1ef9]: Commencement: Sch. 13 para. 4 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-c6bcb4871ddbfdd2eb7eed31e82c1ef9]: Commencement: Sch. 13 para. 4 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-121e0e0ea4c0b764e503490d8d892ab2]: Commencement: Sch. 13 para. 5 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-121e0e0ea4c0b764e503490d8d892ab2]: Commencement: Sch. 13 para. 5 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-5cbbeda440a732689e2bf3f861f4f374]: Commencement: Sch. 13 para. 6 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-5cbbeda440a732689e2bf3f861f4f374]: Commencement: Sch. 13 para. 6 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-8123b5abd95b9e40c95e89f0c8444b70]: Commencement: Sch. 13 para. 7 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-8123b5abd95b9e40c95e89f0c8444b70]: Commencement: Sch. 13 para. 7 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-c5f41e254a8bda95d150c044664414cb]: Commencement: Sch. 13 para. 8 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-c5f41e254a8bda95d150c044664414cb]: Commencement: Sch. 13 para. 8 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-c293078752b7530c6f1c09884a950be6]: Commencement: Sch. 13 para. 9 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-c293078752b7530c6f1c09884a950be6]: Commencement: Sch. 13 para. 9 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-cd00a03a2a107bf37f8d89c142860829]: Commencement: Sch. 13 para. 10 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-cd00a03a2a107bf37f8d89c142860829]: Commencement: Sch. 13 para. 10 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-f5afdb26c7cb5bd9f2413680f4f04de0]: Commencement: Sch. 13 para. 11 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-f5afdb26c7cb5bd9f2413680f4f04de0]: Commencement: Sch. 13 para. 11 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-b2621ceb267b9d08666fa55bd08e8738]: Commencement: Sch. 13 para. 12 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-b2621ceb267b9d08666fa55bd08e8738]: Commencement: Sch. 13 para. 12 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-a7de43bdaf8f2c2453a8b8707d3f5593]: Commencement: Sch. 13 para. 13 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-a7de43bdaf8f2c2453a8b8707d3f5593]: Commencement: Sch. 13 para. 13 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-39e0699c6b1430589d139660df1a389d]: Commencement: Sch. 13 para. 14 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-39e0699c6b1430589d139660df1a389d]: Commencement: Sch. 13 para. 14 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-dd5e1e3e4f46069b94ce7eb0e02384c5]: Commencement: Sch. 13 para. 15 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-dd5e1e3e4f46069b94ce7eb0e02384c5]: Commencement: Sch. 13 para. 15 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-0d5cc7a725f39fbd225f5938abea9f4b]: Commencement: Sch. 13 para. 16 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-0d5cc7a725f39fbd225f5938abea9f4b]: Commencement: Sch. 13 para. 16 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-6a0de7b53602128c8d087444574e4d0b]: Commencement: Sch. 13 para. 17 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-6a0de7b53602128c8d087444574e4d0b]: Commencement: Sch. 13 para. 17 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-a8090779e3ace0be5493221824583da8]: Commencement: Sch. 13 para. 18 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-a8090779e3ace0be5493221824583da8]: Commencement: Sch. 13 para. 18 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-49912a952da4994f86baecc2e506c5b1]: Commencement: Sch. 13 para. 19 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-49912a952da4994f86baecc2e506c5b1]: Commencement: Sch. 13 para. 19 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-69a8eb75ffb015c09d04bef17c08795d]: Commencement: Sch. 13 para. 20 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-69a8eb75ffb015c09d04bef17c08795d]: Commencement: Sch. 13 para. 20 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-44d7cfb422fc178fffb80432fc915f4a]: Commencement: Sch. 13 para. 21 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-44d7cfb422fc178fffb80432fc915f4a]: Commencement: Sch. 13 para. 21 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

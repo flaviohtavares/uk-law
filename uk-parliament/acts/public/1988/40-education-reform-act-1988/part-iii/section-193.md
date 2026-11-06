@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 193. Information and access to documents.[^key-63fa131a5bbc9087c4872e7c2c3db384]
+## 193. Information and access to documents.[^c-63fa131a5bbc9087c4872e7c2c3db384]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63fa131a5bbc9087c4872e7c2c3db384]: Textual amendment: [S. 193](https://www.legislation.gov.uk/ukpga/1988/40/section/193) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 4
+[^c-63fa131a5bbc9087c4872e7c2c3db384]: Textual amendment: [S. 193](https://www.legislation.gov.uk/ukpga/1988/40/section/193) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 4

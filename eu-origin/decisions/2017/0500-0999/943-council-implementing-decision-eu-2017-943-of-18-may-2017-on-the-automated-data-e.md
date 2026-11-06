@@ -33,16 +33,16 @@ of 18 May 2017
 
 on the automated data exchange with regard to vehicle registration data in Malta, Cyprus and Estonia, and replacing Decisions 2014/731/EU, 2014/743/EU and 2014/744/EU (revoked)
 
-[^key-b668733ca6c87677e82b15c090474bad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b668733ca6c87677e82b15c090474bad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-b668733ca6c87677e82b15c090474bad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-b668733ca6c87677e82b15c090474bad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-b668733ca6c87677e82b15c090474bad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-b668733ca6c87677e82b15c090474bad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-b668733ca6c87677e82b15c090474bad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-b668733ca6c87677e82b15c090474bad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b668733ca6c87677e82b15c090474bad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b668733ca6c87677e82b15c090474bad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b668733ca6c87677e82b15c090474bad]: Textual amendment: Decision revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [117(i)](https://www.legislation.gov.uk/uksi/2019/742/regulation/117/i) (with [regs. 117A](https://www.legislation.gov.uk/uksi/2019/742/regulation/117A), [117B](https://www.legislation.gov.uk/uksi/2019/742/regulation/117B)) (as inserted by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [34](https://www.legislation.gov.uk/uksi/2020/1408/regulation/34)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b668733ca6c87677e82b15c090474bad]: Textual amendment: Decision revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [117(i)](https://www.legislation.gov.uk/uksi/2019/742/regulation/117/i) (with [regs. 117A](https://www.legislation.gov.uk/uksi/2019/742/regulation/117A), [117B](https://www.legislation.gov.uk/uksi/2019/742/regulation/117B)) (as inserted by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [34](https://www.legislation.gov.uk/uksi/2020/1408/regulation/34)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

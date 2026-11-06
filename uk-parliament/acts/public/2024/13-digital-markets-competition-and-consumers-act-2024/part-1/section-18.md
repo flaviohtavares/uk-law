@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Designation period[^key-503bae054ce0a444084606351d2fe8bf][^key-c0f2924e64bc02c6b9e41d014ea18691]
+## 18. Designation period[^c-503bae054ce0a444084606351d2fe8bf][^c-c0f2924e64bc02c6b9e41d014ea18691]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-503bae054ce0a444084606351d2fe8bf]: Commencement: S. 18 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-503bae054ce0a444084606351d2fe8bf]: Commencement: S. 18 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-c0f2924e64bc02c6b9e41d014ea18691]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2024/13/section/18) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-c0f2924e64bc02c6b9e41d014ea18691]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2024/13/section/18) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

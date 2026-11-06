@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Restriction on exercise of maritime enforcement powers in hot pursuit[^c22719231][^key-1fc25fcfce0b311b6a1d08f810c9e142]
+## 87. Restriction on exercise of maritime enforcement powers in hot pursuit[^c22719231][^c-1fc25fcfce0b311b6a1d08f810c9e142]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 [^c22719231]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2017/3/section/87) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-1fc25fcfce0b311b6a1d08f810c9e142]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2017/3/section/87) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/227/article/2/d)
+[^c-1fc25fcfce0b311b6a1d08f810c9e142]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2017/3/section/87) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/227/article/2/d)

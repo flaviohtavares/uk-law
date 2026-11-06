@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55.[^key-e8b15729ce9fa43861d627694271ecb7]
+## 55.[^c-e8b15729ce9fa43861d627694271ecb7]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ In section 257C[^f00013] (indexation of amounts in sections 257 and 257A) —
 
 ## Annotations
 
-[^key-e8b15729ce9fa43861d627694271ecb7]: Commencement: Reg. 55 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-e8b15729ce9fa43861d627694271ecb7]: Commencement: Reg. 55 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
 
 [^f00013]: Footnote: Section 257C was inserted by section 33 of the Finance Act 1988.

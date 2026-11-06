@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.9.8. Incidental applications in an administration[^key-b95b59bc5df359440008f54d84c38e19]
+## 3.9.8. Incidental applications in an administration[^c-b95b59bc5df359440008f54d84c38e19]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b95b59bc5df359440008f54d84c38e19]: Commencement: Rule 3.9.8 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-b95b59bc5df359440008f54d84c38e19]: Commencement: Rule 3.9.8 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

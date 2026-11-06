@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22.[^key-7fe176817929c31f77bba7c6c3a50c99]
+## 22.[^c-7fe176817929c31f77bba7c6c3a50c99]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,12 +24,12 @@ For Article 16, substitute—
 
 > **Application for the authorisation of a traditional food from a third country**
 >
-> Where the appropriate authority does not authorise the placing on the market within Great Britain *(Extent: E+W+S)*[^key-d980cddb457f8654491a730e90af45a2] of a traditional food from a third country, the applicant may submit an application including, in addition to the information already provided in accordance with Article 14, documented data relating to the duly reasoned safety objections issued in accordance with Article 15(2). The appropriate authority must, without delay, forward the valid application to the Food Safety Authority.
+> Where the appropriate authority does not authorise the placing on the market within Great Britain *(Extent: E+W+S)*[^c-d980cddb457f8654491a730e90af45a2] of a traditional food from a third country, the applicant may submit an application including, in addition to the information already provided in accordance with Article 14, documented data relating to the duly reasoned safety objections issued in accordance with Article 15(2). The appropriate authority must, without delay, forward the valid application to the Food Safety Authority.
 
 .
 
 ## Annotations
 
-[^key-7fe176817929c31f77bba7c6c3a50c99]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-7fe176817929c31f77bba7c6c3a50c99]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-d980cddb457f8654491a730e90af45a2]: Textual amendment: Words in reg. 22 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/15/5)
+[^c-d980cddb457f8654491a730e90af45a2]: Textual amendment: Words in reg. 22 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/15/5)

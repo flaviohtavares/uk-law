@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 186A. Remuneration etc for work already carried out[^key-cb95f7b92599c0b18656fe9364f616b8]
+## 186A. Remuneration etc for work already carried out[^c-cb95f7b92599c0b18656fe9364f616b8]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb95f7b92599c0b18656fe9364f616b8]: Textual amendment: S. 186A inserted (7.3.2024) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 31](https://www.legislation.gov.uk/ukpga/2022/6/section/31), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/7)
+[^c-cb95f7b92599c0b18656fe9364f616b8]: Textual amendment: S. 186A inserted (7.3.2024) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 31](https://www.legislation.gov.uk/ukpga/2022/6/section/31), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/7)

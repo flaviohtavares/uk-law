@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 545. Restrictions on employer-related investments[^key-acec995959900ecee7174ec75b8e7e3e]
+## 545. Restrictions on employer-related investments[^c-acec995959900ecee7174ec75b8e7e3e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-acec995959900ecee7174ec75b8e7e3e]: Textual amendment: [Arts. 544-548](https://www.legislation.gov.uk/uksi/2001/3649/article/544) revoked (30.12.2005) by [The Occupational Pension Schemes (Investment) Regulations 2005 (S.I. 2005/3378)](https://www.legislation.gov.uk/uksi/2005/3378), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3378/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/3378/schedule)
+[^c-acec995959900ecee7174ec75b8e7e3e]: Textual amendment: [Arts. 544-548](https://www.legislation.gov.uk/uksi/2001/3649/article/544) revoked (30.12.2005) by [The Occupational Pension Schemes (Investment) Regulations 2005 (S.I. 2005/3378)](https://www.legislation.gov.uk/uksi/2005/3378), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3378/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/3378/schedule)

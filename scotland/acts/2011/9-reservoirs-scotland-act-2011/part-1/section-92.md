@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 92. Warrants authorising entry[^key-0c8da5acb09dd1fc8f6b4f508680e9d9]
+## 92. Warrants authorising entry[^c-0c8da5acb09dd1fc8f6b4f508680e9d9]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c8da5acb09dd1fc8f6b4f508680e9d9]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2011/9/section/92) in force at 1.4.2015 by [S.S.I. 2015/63](https://www.legislation.gov.uk/ssi/2015/63), [art. 2](https://www.legislation.gov.uk/ssi/2015/63/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/63/schedule)
+[^c-0c8da5acb09dd1fc8f6b4f508680e9d9]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2011/9/section/92) in force at 1.4.2015 by [S.S.I. 2015/63](https://www.legislation.gov.uk/ssi/2015/63), [art. 2](https://www.legislation.gov.uk/ssi/2015/63/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/63/schedule)

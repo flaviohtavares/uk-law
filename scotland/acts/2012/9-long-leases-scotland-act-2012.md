@@ -38,7 +38,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Determination of “qualifying lease”
 
-#### 1. Meaning of “qualifying lease”[^key-069543e96d861fe369e2b74d1b60897f]
+#### 1. Meaning of “qualifying lease”[^c-069543e96d861fe369e2b74d1b60897f]
 
 (1) A lease is a “qualifying lease” if it complies with subsection (3).
 
@@ -65,7 +65,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (6) For the purposes of subsection (3)(c)(i), “**dwelling house**” includes any yard, garden, outbuilding or other pertinent.
 
-#### 2. Further provision about annual rent[^key-2b08414025871071df6b97fb203badb1]
+#### 2. Further provision about annual rent[^c-2b08414025871071df6b97fb203badb1]
 
 (1) This section applies for the purposes of section 1(4)(a) in determining the annual rent payable under a lease.
 
@@ -83,7 +83,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (6) Any rent payable under a lease which is variable from year to year is, to the extent that it is so variable, to be left out of account.
 
-#### 3. Only one lease is qualifying lease[^key-98ce1f9bf79dde0b5db2b1b1882e1511]
+#### 3. Only one lease is qualifying lease[^c-98ce1f9bf79dde0b5db2b1b1882e1511]
 
 (1) This section applies where land is subject to two or more potential qualifying leases.
 
@@ -108,7 +108,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Conversion of right of lease to ownership
 
-#### 4. Conversion of right of lease to right of ownership[^key-e8217583b54cde832c6bb77f0dc70e7a]
+#### 4. Conversion of right of lease to right of ownership[^c-e8217583b54cde832c6bb77f0dc70e7a]
 
 (1) On the appointed day—
 
@@ -122,7 +122,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Consequences of conversion
 
-#### 5. Extinction of certain rights and obligations[^key-0984c4db8194bc311431869284f5036d]
+#### 5. Extinction of certain rights and obligations[^c-0984c4db8194bc311431869284f5036d]
 
 (1) Subject to subsection (2), and sections 6 and 7 and Part 2, all rights and obligations arising (whether expressly or by implication) from—
 
@@ -152,7 +152,7 @@ are extinguished on the appointed day.
 - (d) a right to recover damages or to the payment of money (including rent), or
 - (e) a right of irritancy.
 
-#### 6. Subordinate real rights, reservations and pertinents[^key-974b13aee1f254d1752c08615b23921c]
+#### 6. Subordinate real rights, reservations and pertinents[^c-974b13aee1f254d1752c08615b23921c]
 
 (1) This section applies where a right of ownership in land is created by the conversion of a qualifying lease under section 4(1)(a) (such land being referred to in this section as “**the converted land**”).
 
@@ -174,7 +174,7 @@ to which the converted land itself was, immediately before the appointed day, su
   - (i) the qualifying lease, or
   - (ii) any superior lease.
 
-#### 7. Creation of servitudes on conversion[^key-709750787a4dddab70937c3eeaa755df]
+#### 7. Creation of servitudes on conversion[^c-709750787a4dddab70937c3eeaa755df]
 
 (1) This section applies where a right of ownership in land is created by the conversion of a qualifying lease under section 4(1)(a) (such land being referred to in this section as “**the converted land**”).
 
@@ -188,37 +188,37 @@ been a conveyance of land.
 
 #### 8. Conversion of reserved sporting rights
 
-(1)[^key-8758e46dc3f08319f121f1b62100abc2] This section applies where a right of—
+(1)[^c-8758e46dc3f08319f121f1b62100abc2] This section applies where a right of—
 
 - (a) game, or
 - (b) fishing,
 
 is reserved (whether expressly or by implication) from a qualifying lease or superior lease (such a right being referred to in this Act as a “sporting right”).
 
-(2)[^key-6a4236e700c1e6d22ec51395ad7ce90e][^key-94b3aa2a4f20cf602434d7e1e29d7f5c] A landlord may, before the appointed day, execute and register a notice in the prescribed form.
+(2)[^c-6a4236e700c1e6d22ec51395ad7ce90e][^c-94b3aa2a4f20cf602434d7e1e29d7f5c] A landlord may, before the appointed day, execute and register a notice in the prescribed form.
 
-(3)[^key-8758e46dc3f08319f121f1b62100abc2] The notice must—
+(3)[^c-8758e46dc3f08319f121f1b62100abc2] The notice must—
 
 - (a) set out the title of the landlord,
 - (b) identify the land affected by the sporting right,
 - (c) set out the terms of such right, and
 - (d) set out the terms of any counter-obligation to the right.
 
-(4)[^key-8758e46dc3f08319f121f1b62100abc2] For the purposes of subsection (2)—
+(4)[^c-8758e46dc3f08319f121f1b62100abc2] For the purposes of subsection (2)—
 
 - (a) a notice is registered only when registered against the land identified in pursuance of subsection (3)(b), and
 - (b) the notice may be registered against the title of the owner of the land or the tenant under the qualifying lease.
 
-(5)[^key-8758e46dc3f08319f121f1b62100abc2] Before submitting a notice for registration under this section, the landlord must swear or affirm before a notary public that to the best of the knowledge and belief of the landlord all the information contained in the notice is true.
+(5)[^c-8758e46dc3f08319f121f1b62100abc2] Before submitting a notice for registration under this section, the landlord must swear or affirm before a notary public that to the best of the knowledge and belief of the landlord all the information contained in the notice is true.
 
-(6)[^key-8758e46dc3f08319f121f1b62100abc2] For the purposes of subsection (5)—
+(6)[^c-8758e46dc3f08319f121f1b62100abc2] For the purposes of subsection (5)—
 
 - (a) if the landlord is—
   - (i) an individual unable by reason of legal disability, or incapacity, to swear or affirm as mentioned in that subsection, then a legal representative of the landlord may swear or affirm, or
   - (ii) not an individual, then any person authorised to sign documents on its behalf may swear or affirm, and
 - (b) any reference in that subsection to the landlord is to be construed in accordance with paragraph (a).
 
-(7)[^key-8758e46dc3f08319f121f1b62100abc2] If subsections (2) to (6) are complied with (and immediately before the appointed day the sporting right to which the notice relates is still enforceable), on the appointed day—
+(7)[^c-8758e46dc3f08319f121f1b62100abc2] If subsections (2) to (6) are complied with (and immediately before the appointed day the sporting right to which the notice relates is still enforceable), on the appointed day—
 
 - (a) that right becomes a separate tenement in land,
 - (b) in the case of a right of game, the separate tenement comprises—
@@ -228,21 +228,21 @@ is reserved (whether expressly or by implication) from a qualifying lease or sup
   - (i) in a case where the right is expressly reserved, the rights and obligations specified in the lease and, in so far as is consistent with those express rights and obligations, an exclusive right to fish for freshwater fish,
   - (ii) in a case where the right is reserved by implication, an exclusive right to fish for freshwater fish.
 
-(8)[^key-8758e46dc3f08319f121f1b62100abc2] Any exclusive right conferred by subsection (7)(b) is subject to section 1 of the Ground Game Act 1880 (c.47) (right of occupier to kill and take ground game).
+(8)[^c-8758e46dc3f08319f121f1b62100abc2] Any exclusive right conferred by subsection (7)(b) is subject to section 1 of the Ground Game Act 1880 (c.47) (right of occupier to kill and take ground game).
 
-(9)[^key-8758e46dc3f08319f121f1b62100abc2] Where a right becomes, under subsection (7)(a), a separate tenement in land—
+(9)[^c-8758e46dc3f08319f121f1b62100abc2] Where a right becomes, under subsection (7)(a), a separate tenement in land—
 
 - (a) that right is subject to any counter-obligation enforceable immediately before the appointed day, and
 - (b) without prejudice to any other way in which such a counter-obligation may be extinguished, any such counter-obligation is extinguished on the extinction of the right.
 
-(10)[^key-8758e46dc3f08319f121f1b62100abc2] In this section and section 9, any reference to a “landlord” is a reference—
+(10)[^c-8758e46dc3f08319f121f1b62100abc2] In this section and section 9, any reference to a “landlord” is a reference—
 
 - (a) in a case where there is one superior lease, to the landlord under the superior lease,
 - (b) in a case where there are two or more superior leases, to the landlord under whichever of those leases is not itself subject to a superior lease.
 
-(11)[^key-8758e46dc3f08319f121f1b62100abc2] This section is subject to section 75.
+(11)[^c-8758e46dc3f08319f121f1b62100abc2] This section is subject to section 75.
 
-#### 9. Further provision for section 8[^key-590100819fecb1cb155e8203280b385e]
+#### 9. Further provision for section 8[^c-590100819fecb1cb155e8203280b385e]
 
 (1) Where more than one qualifying lease is affected by the same sporting right, a landlord must, if that landlord wishes to execute and register a notice under section 8(2) in relation to those qualifying leases in respect of that right, do so in relation to each separately.
 
@@ -252,7 +252,7 @@ is reserved (whether expressly or by implication) from a qualifying lease or sup
 
 ### Determination of “qualifying conditions”
 
-#### 10. Qualifying conditions[^key-ce288f4ed7e89d47c56defca3bd3d86e]
+#### 10. Qualifying conditions[^c-ce288f4ed7e89d47c56defca3bd3d86e]
 
 (1) A condition is a “qualifying condition” if—
 
@@ -291,19 +291,19 @@ is reserved (whether expressly or by implication) from a qualifying lease or sup
   that is neither a right of pre-emption, a right of redemption or reversion nor any other type of option to acquire the lease, or
 - (e) it imposes a monetary penalty which is payable on the failure of the tenant to comply with any of the other conditions under the lease.
 
-#### 11. Restriction on conversion of qualifying conditions[^key-d2d0964686955693be9a5edf5e91dbee]
+#### 11. Restriction on conversion of qualifying conditions[^c-d2d0964686955693be9a5edf5e91dbee]
 
 A qualifying condition does not become a real burden by virtue of this Part unless the real burden that would be so created complies with the provisions of section 3 (omitting subsection (5)) of the Title Conditions (Scotland) Act 2003 (asp 9).
 
 ### Meaning of “qualifying land”
 
-#### 12. Meaning of “qualifying land”[^key-f46fe9cec02080b917203db034cff055]
+#### 12. Meaning of “qualifying land”[^c-f46fe9cec02080b917203db034cff055]
 
 In this Act, “**qualifying land**”, in relation to a qualifying condition, means the land which forms the subjects of the qualifying lease.
 
 ### Entitlement to enforce qualifying conditions
 
-#### 13. Determination of who may enforce condition[^key-2c247ecf5fa2219e37fc7edb22e49f88]
+#### 13. Determination of who may enforce condition[^c-2c247ecf5fa2219e37fc7edb22e49f88]
 
 (1) Subsections (2) and (3) have effect for the purposes of determining in relation to sections 14 to 28 whether a person is entitled to enforce a qualifying condition.
 
@@ -327,25 +327,25 @@ a person who is a tenant or subtenant of the part of the land that is not so ass
 
 #### 14. Conversion by nomination of benefited property
 
-(1)[^key-ac11f0b3da2ba739f3c87fb524a569ef] This section applies to a qualifying condition where—
+(1)[^c-ac11f0b3da2ba739f3c87fb524a569ef] This section applies to a qualifying condition where—
 
 - (a) at least one conversion condition is met, or
 - (b) the Lands Tribunal makes an order under section 21.
 
-(2)[^key-ac11f0b3da2ba739f3c87fb524a569ef] An entitled person may, before the appointed day, prospectively convert a qualifying condition into a real burden by executing and registering a notice.
+(2)[^c-ac11f0b3da2ba739f3c87fb524a569ef] An entitled person may, before the appointed day, prospectively convert a qualifying condition into a real burden by executing and registering a notice.
 
 (3) The notice must—
 
-- (a)[^key-eb1d845085b9bab97beb7985586a33b1][^key-840106cfa47620eb85c2581736fc0408] be in the prescribed form,
-- (b)[^key-ac11f0b3da2ba739f3c87fb524a569ef] set out the title of the entitled person to enforce the qualifying condition,
-- (c)[^key-ac11f0b3da2ba739f3c87fb524a569ef] identify the qualifying land, or any part of it, which the entitled person nominates as the burdened property in relation to the real burden,
-- (d)[^key-ac11f0b3da2ba739f3c87fb524a569ef] identify the land mentioned in subsection (5), or any part of it, which the entitled person nominates as a benefited property in relation to the burden,
-- (e)[^key-ac11f0b3da2ba739f3c87fb524a569ef] in a case where this section applies by virtue of an order under section 21, state that such an order has been made,
-- (f)[^key-ac11f0b3da2ba739f3c87fb524a569ef] in any other case, specify which of the conversion conditions is (or are) met,
-- (g)[^key-ac11f0b3da2ba739f3c87fb524a569ef] set out the terms of the qualifying condition, and
-- (h)[^key-ac11f0b3da2ba739f3c87fb524a569ef] set out the terms of any counter-obligation to the qualifying condition if it is a counter-obligation enforceable against the entitled person.
+- (a)[^c-eb1d845085b9bab97beb7985586a33b1][^c-840106cfa47620eb85c2581736fc0408] be in the prescribed form,
+- (b)[^c-ac11f0b3da2ba739f3c87fb524a569ef] set out the title of the entitled person to enforce the qualifying condition,
+- (c)[^c-ac11f0b3da2ba739f3c87fb524a569ef] identify the qualifying land, or any part of it, which the entitled person nominates as the burdened property in relation to the real burden,
+- (d)[^c-ac11f0b3da2ba739f3c87fb524a569ef] identify the land mentioned in subsection (5), or any part of it, which the entitled person nominates as a benefited property in relation to the burden,
+- (e)[^c-ac11f0b3da2ba739f3c87fb524a569ef] in a case where this section applies by virtue of an order under section 21, state that such an order has been made,
+- (f)[^c-ac11f0b3da2ba739f3c87fb524a569ef] in any other case, specify which of the conversion conditions is (or are) met,
+- (g)[^c-ac11f0b3da2ba739f3c87fb524a569ef] set out the terms of the qualifying condition, and
+- (h)[^c-ac11f0b3da2ba739f3c87fb524a569ef] set out the terms of any counter-obligation to the qualifying condition if it is a counter-obligation enforceable against the entitled person.
 
-(4)[^key-ac11f0b3da2ba739f3c87fb524a569ef] The conversion conditions are—
+(4)[^c-ac11f0b3da2ba739f3c87fb524a569ef] The conversion conditions are—
 
 - (a) that the land which would by virtue of this section and sections 15 and 16 become a benefited property has on it a permanent building which is in use wholly or mainly as a place of human—
   - (i) habitation, or
@@ -359,17 +359,17 @@ a person who is a tenant or subtenant of the part of the land that is not so ass
 
   and it is apparent from the terms of the qualifying condition that the condition was included in the lease for the benefit of such land.
 
-(5)[^key-ac11f0b3da2ba739f3c87fb524a569ef] The land referred to in subsection (3)(d) is land, other than the qualifying land, which—
+(5)[^c-ac11f0b3da2ba739f3c87fb524a569ef] The land referred to in subsection (3)(d) is land, other than the qualifying land, which—
 
 - (a) if the land is not subject to a qualifying or exempt lease, the entitled person is owner of, or
 - (b) if the land is subject to such a lease, the entitled person is tenant of under that lease.
 
-(6)[^key-ac11f0b3da2ba739f3c87fb524a569ef] Where the entitled person holds the entitlement to enforce the qualifying condition otherwise than as landlord—
+(6)[^c-ac11f0b3da2ba739f3c87fb524a569ef] Where the entitled person holds the entitlement to enforce the qualifying condition otherwise than as landlord—
 
 - (a) the land referred to in subsection (5)(a) is the land to which the entitlement to enforce the condition attaches, and
 - (b) the lease referred to in subsection (5)(b) is the lease to which the entitlement to enforce the condition attaches.
 
-#### 15. Conversion by nomination: registration[^key-02b0a7b70ebefecbd2c7e0b3cd5c4930]
+#### 15. Conversion by nomination: registration[^c-02b0a7b70ebefecbd2c7e0b3cd5c4930]
 
 (1) For the purposes of section 14(2), a notice is registered only when registered against both the burdened property and the benefited property.
 
@@ -393,7 +393,7 @@ and any reference in that subsection to an entitled person is to be construed ac
 
 (5) This section and section 14 are subject to sections 36 and 75.
 
-#### 16. Conversion by nomination: effect[^key-dfee3e719561064f9e605a218faf9cbb]
+#### 16. Conversion by nomination: effect[^c-dfee3e719561064f9e605a218faf9cbb]
 
 (1) This section applies in relation to a qualifying condition where—
 
@@ -407,7 +407,7 @@ and any reference in that subsection to an entitled person is to be construed ac
 
 #### 17. Conversion by agreement
 
-(1)[^key-dc99bea5a680ea6b94e0db09482cf0c4] An entitled person may, before the appointed day—
+(1)[^c-dc99bea5a680ea6b94e0db09482cf0c4] An entitled person may, before the appointed day—
 
 - (a) serve notice on the tenant under the qualifying lease, that the entitled person seeks to enter into an agreement with the tenant under this section—
   - (i) prospectively converting a qualifying condition into a real burden,
@@ -416,35 +416,35 @@ and any reference in that subsection to an entitled person is to be construed ac
 - (b) subject to subsection (5), enter into such an agreement with the tenant, and
 - (c) register that agreement.
 
-(2)[^key-dc99bea5a680ea6b94e0db09482cf0c4] The land referred to in subsection (1)(a)(iii) is land, other than the qualifying land, which—
+(2)[^c-dc99bea5a680ea6b94e0db09482cf0c4] The land referred to in subsection (1)(a)(iii) is land, other than the qualifying land, which—
 
 - (a) if the land is not subject to a qualifying or exempt lease, the entitled person is owner of, or
 - (b) if the land is subject to such a lease, the entitled person is tenant of under that lease.
 
-(3)[^key-dc99bea5a680ea6b94e0db09482cf0c4] Where the entitled person holds the entitlement to enforce the qualifying condition otherwise than as landlord—
+(3)[^c-dc99bea5a680ea6b94e0db09482cf0c4] Where the entitled person holds the entitlement to enforce the qualifying condition otherwise than as landlord—
 
 - (a) the land referred to in subsection (2)(a) is the land to which the entitlement to enforce the condition attaches, and
 - (b) the lease referred to in subsection (2)(b) is the lease to which the entitlement to enforce the condition attaches.
 
 (4) The notice referred to in subsection (1) must—
 
-- (a)[^key-b792603dd5fdf8991b39e64b9a8458cd][^key-449cd63d0ae35a93f1b670bbd4925a07] be in the prescribed form,
-- (b)[^key-dc99bea5a680ea6b94e0db09482cf0c4] set out the title of the entitled person to enforce the qualifying condition,
-- (c)[^key-dc99bea5a680ea6b94e0db09482cf0c4] identify the land nominated as the burdened property,
-- (d)[^key-dc99bea5a680ea6b94e0db09482cf0c4] identify the land nominated as a benefited property,
-- (e)[^key-dc99bea5a680ea6b94e0db09482cf0c4] set out the terms of the qualifying condition, and
-- (f)[^key-dc99bea5a680ea6b94e0db09482cf0c4] set out the terms of any counter-obligation to the qualifying condition if it is a counter-obligation enforceable against the entitled person.
+- (a)[^c-b792603dd5fdf8991b39e64b9a8458cd][^c-449cd63d0ae35a93f1b670bbd4925a07] be in the prescribed form,
+- (b)[^c-dc99bea5a680ea6b94e0db09482cf0c4] set out the title of the entitled person to enforce the qualifying condition,
+- (c)[^c-dc99bea5a680ea6b94e0db09482cf0c4] identify the land nominated as the burdened property,
+- (d)[^c-dc99bea5a680ea6b94e0db09482cf0c4] identify the land nominated as a benefited property,
+- (e)[^c-dc99bea5a680ea6b94e0db09482cf0c4] set out the terms of the qualifying condition, and
+- (f)[^c-dc99bea5a680ea6b94e0db09482cf0c4] set out the terms of any counter-obligation to the qualifying condition if it is a counter-obligation enforceable against the entitled person.
 
-(5)[^key-dc99bea5a680ea6b94e0db09482cf0c4] If the entitled person and the tenant think fit they may, by the agreement, modify the qualifying condition or any counter-obligation to the qualifying condition if it is a counter-obligation enforceable against the entitled person (or both the qualifying condition and any such counter-obligation).
+(5)[^c-dc99bea5a680ea6b94e0db09482cf0c4] If the entitled person and the tenant think fit they may, by the agreement, modify the qualifying condition or any counter-obligation to the qualifying condition if it is a counter-obligation enforceable against the entitled person (or both the qualifying condition and any such counter-obligation).
 
-(6)[^key-dc99bea5a680ea6b94e0db09482cf0c4] An agreement mentioned in subsection (1)(b) must be a written agreement which—
+(6)[^c-dc99bea5a680ea6b94e0db09482cf0c4] An agreement mentioned in subsection (1)(b) must be a written agreement which—
 
 - (a) expressly states that it is made under this section, and
 - (b) includes all the information, other than that relating to service, required to be set out in completing the notice the form of which is prescribed under subsection (4)(a).
 
-(7)[^key-dc99bea5a680ea6b94e0db09482cf0c4] This section is subject to section 36.
+(7)[^c-dc99bea5a680ea6b94e0db09482cf0c4] This section is subject to section 36.
 
-#### 18. Conversion by agreement: registration[^key-ce14fd64bcd6e4e7f0f7165a22925a9a]
+#### 18. Conversion by agreement: registration[^c-ce14fd64bcd6e4e7f0f7165a22925a9a]
 
 (1) For the purposes of section 17(1), an agreement is registered only when registered against both the burdened property and the benefited property.
 
@@ -457,7 +457,7 @@ and any reference in that subsection to an entitled person is to be construed ac
   - (i) the owner of the property, or
   - (ii) if the property in question is subject to a qualifying lease or exempt lease, the tenant under such lease.
 
-#### 19. Conversion by agreement: effect[^key-d20b33654ceaf74c78cc7c7183b68fb8]
+#### 19. Conversion by agreement: effect[^c-d20b33654ceaf74c78cc7c7183b68fb8]
 
 (1) This section applies in relation to a qualifying condition where—
 
@@ -469,7 +469,7 @@ and any reference in that subsection to an entitled person is to be construed ac
 - (a) the land identified in pursuance of section 17(4)(c) is the burdened property, and
 - (b) the land identified in pursuance of section 17(4)(d) is a benefited property.
 
-#### 20. Conversion by agreement: title not completed[^key-68be36720034b9c569353570a9c87ae7]
+#### 20. Conversion by agreement: title not completed[^c-68be36720034b9c569353570a9c87ae7]
 
 (1) Subsection (2) applies for the purposes of section 17 where—
 
@@ -489,7 +489,7 @@ and any reference in that subsection to an entitled person is to be construed ac
 
 ### Applications relating to section 14
 
-#### 21. Lands Tribunal order[^key-5545445619ab5d1c000bfce2e40db611]
+#### 21. Lands Tribunal order[^c-5545445619ab5d1c000bfce2e40db611]
 
 (1) This section applies where an entitled person cannot proceed under section 14(2) because none of the conditions set out in subsection (4) (“the conversion conditions”) of that section are met.
 
@@ -508,7 +508,7 @@ and any reference in that subsection to an entitled person is to be construed ac
 
 (7) A person opposing an application made under subsection (2) incurs no liability in respect of expenses incurred by the entitled person unless, in the opinion of the Lands Tribunal, the actings of the person opposing are vexatious or frivolous.
 
-#### 22. Dealing with application under section 21[^key-9981309fee31f9869b24906ad9db9596]
+#### 22. Dealing with application under section 21[^c-9981309fee31f9869b24906ad9db9596]
 
 (1) This section applies where the Lands Tribunal receives an application under section 21.
 
@@ -535,167 +535,167 @@ to be heard in relation to the application.
 
 #### 23. Conversion to personal pre-emption or redemption burden
 
-(1)[^key-4ca4a209c355d104f55d913a240011ff] Without prejudice to section 14, the person entitled to enforce a qualifying condition mentioned in subsection (2) (whether as landlord or otherwise) may, before the appointed day, prospectively convert that qualifying condition into a personal pre-emption burden or (as the case may be) into a personal redemption burden by executing and registering a notice.
+(1)[^c-4ca4a209c355d104f55d913a240011ff] Without prejudice to section 14, the person entitled to enforce a qualifying condition mentioned in subsection (2) (whether as landlord or otherwise) may, before the appointed day, prospectively convert that qualifying condition into a personal pre-emption burden or (as the case may be) into a personal redemption burden by executing and registering a notice.
 
-(2)[^key-4ca4a209c355d104f55d913a240011ff] The qualifying condition referred to in subsection (1) is a condition comprising—
+(2)[^c-4ca4a209c355d104f55d913a240011ff] The qualifying condition referred to in subsection (1) is a condition comprising—
 
 - (a) a right of pre-emption, or
 - (b) a right of redemption.
 
 (3) The notice referred to in subsection (1) must—
 
-- (a)[^key-f99923f72d916db091d4fc832787038e][^key-ccae8f041b68dc186b0dcc7a3b0de488] be in the prescribed form,
-- (b)[^key-4ca4a209c355d104f55d913a240011ff] set out the title to enforce the qualifying condition of the person executing and registering the notice,
-- (c)[^key-4ca4a209c355d104f55d913a240011ff] identify the qualifying land (or any part of such land),
-- (d)[^key-4ca4a209c355d104f55d913a240011ff] set out the terms of the qualifying condition, and
-- (e)[^key-4ca4a209c355d104f55d913a240011ff] set out the terms of any counter-obligation to the qualifying condition if it is a counter-obligation enforceable against the person executing and registering the notice.
+- (a)[^c-f99923f72d916db091d4fc832787038e][^c-ccae8f041b68dc186b0dcc7a3b0de488] be in the prescribed form,
+- (b)[^c-4ca4a209c355d104f55d913a240011ff] set out the title to enforce the qualifying condition of the person executing and registering the notice,
+- (c)[^c-4ca4a209c355d104f55d913a240011ff] identify the qualifying land (or any part of such land),
+- (d)[^c-4ca4a209c355d104f55d913a240011ff] set out the terms of the qualifying condition, and
+- (e)[^c-4ca4a209c355d104f55d913a240011ff] set out the terms of any counter-obligation to the qualifying condition if it is a counter-obligation enforceable against the person executing and registering the notice.
 
-(4)[^key-4ca4a209c355d104f55d913a240011ff] For the purposes of subsection (1)—
+(4)[^c-4ca4a209c355d104f55d913a240011ff] For the purposes of subsection (1)—
 
 - (a) a notice is registered only when registered against the land identified in pursuance of subsection (3)(c), and
 - (b) the notice may be registered against the title of the owner of the land or of the tenant under the qualifying lease.
 
-(5)[^key-4ca4a209c355d104f55d913a240011ff] Before submitting any notice for registration under this section, the person entitled to enforce the qualifying condition must swear or affirm before a notary public that to the best of the knowledge and belief of that person all the information contained in the notice is true.
+(5)[^c-4ca4a209c355d104f55d913a240011ff] Before submitting any notice for registration under this section, the person entitled to enforce the qualifying condition must swear or affirm before a notary public that to the best of the knowledge and belief of that person all the information contained in the notice is true.
 
-(6)[^key-4ca4a209c355d104f55d913a240011ff] For the purposes of subsection (5), if the person entitled to enforce the qualifying condition is—
+(6)[^c-4ca4a209c355d104f55d913a240011ff] For the purposes of subsection (5), if the person entitled to enforce the qualifying condition is—
 
 - (a) an individual unable by reason of legal disability, or incapacity, to swear or affirm as mentioned in that subsection, then a legal representative of that person may swear or affirm, or
 - (b) not an individual, then any person authorised to sign documents on its behalf may swear or affirm,
 
 and any reference in that subsection to the person entitled to enforce the qualifying condition is to be construed accordingly.
 
-(7)[^key-4ca4a209c355d104f55d913a240011ff] If subsections (1) to (6) are complied with and immediately before the appointed day the qualifying condition is still enforceable by the person who executed and registered the notice under subsection (1) (or that person's successor) then, on that day—
+(7)[^c-4ca4a209c355d104f55d913a240011ff] If subsections (1) to (6) are complied with and immediately before the appointed day the qualifying condition is still enforceable by the person who executed and registered the notice under subsection (1) (or that person's successor) then, on that day—
 
 - (a) the qualifying condition is converted into a real burden in favour of that person, to be known as a “personal pre-emption burden” or (as the case may be) as a “personal redemption burden”, and
 - (b) the land identified in pursuance of subsection (3)(c) becomes the burdened property.
 
-(8)[^key-4ca4a209c355d104f55d913a240011ff] The right to a personal pre-emption burden or personal redemption burden may be assigned or otherwise transferred to any person.
+(8)[^c-4ca4a209c355d104f55d913a240011ff] The right to a personal pre-emption burden or personal redemption burden may be assigned or otherwise transferred to any person.
 
-(9)[^key-4ca4a209c355d104f55d913a240011ff] An assignation or transfer under subsection (8) takes effect on registration.
+(9)[^c-4ca4a209c355d104f55d913a240011ff] An assignation or transfer under subsection (8) takes effect on registration.
 
-(10)[^key-4ca4a209c355d104f55d913a240011ff] Where the holder of a personal pre-emption burden or personal redemption burden does not have a completed title—
+(10)[^c-4ca4a209c355d104f55d913a240011ff] Where the holder of a personal pre-emption burden or personal redemption burden does not have a completed title—
 
 - (a) title may be completed by the holder registering a notice of title, or
 - (b) without completing title, the holder may grant a deed—
   - (i) assigning the right to the burden, or
   - (ii) discharging, in whole or in part, the burden.
 
-(11)[^key-4ca4a209c355d104f55d913a240011ff] The holder must, in a deed granted under subsection (10)(b), deduce title from the person who appears in the Register of Sasines as having the last recorded title to the burden in question unless the deed is one to which section 101 of the Land Registration etc. (Scotland) Act 2012 (asp 5) (circumstances where unnecessary to deduce title) applies.
+(11)[^c-4ca4a209c355d104f55d913a240011ff] The holder must, in a deed granted under subsection (10)(b), deduce title from the person who appears in the Register of Sasines as having the last recorded title to the burden in question unless the deed is one to which section 101 of the Land Registration etc. (Scotland) Act 2012 (asp 5) (circumstances where unnecessary to deduce title) applies.
 
-(12)[^key-4ca4a209c355d104f55d913a240011ff] This section is subject to sections 36 and 75.
+(12)[^c-4ca4a209c355d104f55d913a240011ff] This section is subject to sections 36 and 75.
 
 #### 24. Conversion to economic development burden
 
-(1)[^key-12780531a92d2081ed72cd18920ff1a9] Where a local authority is, or the Scottish Ministers are, entitled to enforce a qualifying condition which is imposed for the purpose of promoting economic development, it or they may, before the appointed day, prospectively convert that qualifying condition into an economic development burden by executing and registering a notice.
+(1)[^c-12780531a92d2081ed72cd18920ff1a9] Where a local authority is, or the Scottish Ministers are, entitled to enforce a qualifying condition which is imposed for the purpose of promoting economic development, it or they may, before the appointed day, prospectively convert that qualifying condition into an economic development burden by executing and registering a notice.
 
 (2) The notice must—
 
-- (a)[^key-c93a8ddec03f6d3d80f4cfd7abb2b6ce][^key-860435c008a3456bdeaa53b834190a8c] be in the prescribed form,
-- (b)[^key-12780531a92d2081ed72cd18920ff1a9] set out the title to enforce the qualifying condition of the person executing and registering the notice,
-- (c)[^key-12780531a92d2081ed72cd18920ff1a9] state that such person is a local authority or the Scottish Ministers,
-- (d)[^key-12780531a92d2081ed72cd18920ff1a9] identify the qualifying land (or any part of such land),
-- (e)[^key-12780531a92d2081ed72cd18920ff1a9] set out the terms of the qualifying condition,
-- (f)[^key-12780531a92d2081ed72cd18920ff1a9] set out the terms of any counter-obligation to the qualifying condition if it is a counter-obligation enforceable against the person executing and registering the notice, and
-- (g)[^key-12780531a92d2081ed72cd18920ff1a9] state that the qualifying condition was imposed for the purpose of promoting economic development and provide information in support of that statement.
+- (a)[^c-c93a8ddec03f6d3d80f4cfd7abb2b6ce][^c-860435c008a3456bdeaa53b834190a8c] be in the prescribed form,
+- (b)[^c-12780531a92d2081ed72cd18920ff1a9] set out the title to enforce the qualifying condition of the person executing and registering the notice,
+- (c)[^c-12780531a92d2081ed72cd18920ff1a9] state that such person is a local authority or the Scottish Ministers,
+- (d)[^c-12780531a92d2081ed72cd18920ff1a9] identify the qualifying land (or any part of such land),
+- (e)[^c-12780531a92d2081ed72cd18920ff1a9] set out the terms of the qualifying condition,
+- (f)[^c-12780531a92d2081ed72cd18920ff1a9] set out the terms of any counter-obligation to the qualifying condition if it is a counter-obligation enforceable against the person executing and registering the notice, and
+- (g)[^c-12780531a92d2081ed72cd18920ff1a9] state that the qualifying condition was imposed for the purpose of promoting economic development and provide information in support of that statement.
 
-(3)[^key-12780531a92d2081ed72cd18920ff1a9] For the purposes of subsection (1)—
+(3)[^c-12780531a92d2081ed72cd18920ff1a9] For the purposes of subsection (1)—
 
 - (a) a notice is registered only when registered against the land identified in pursuance of subsection (2)(d), and
 - (b) the notice may be registered against the title of the owner of the land or of the tenant under the qualifying lease.
 
-(4)[^key-12780531a92d2081ed72cd18920ff1a9] If subsections (1) to (3) are complied with and immediately before the appointed day the qualifying condition is still enforceable by the local authority or the Scottish Ministers then, on that day, the qualifying condition becomes an economic development burden—
+(4)[^c-12780531a92d2081ed72cd18920ff1a9] If subsections (1) to (3) are complied with and immediately before the appointed day the qualifying condition is still enforceable by the local authority or the Scottish Ministers then, on that day, the qualifying condition becomes an economic development burden—
 
 - (a) in favour of the local authority or (as the case may be) the Scottish Ministers, and
 - (b) in relation to which the land identified in pursuance of subsection (2)(d) is the burdened property.
 
-(5)[^key-12780531a92d2081ed72cd18920ff1a9] This section is subject to sections 36 and 75.
+(5)[^c-12780531a92d2081ed72cd18920ff1a9] This section is subject to sections 36 and 75.
 
 #### 25. Conversion to health care burden
 
-(1)[^key-8e8ef19ca765c42c0c282a1a489cb3de] Where the Scottish Ministers are entitled to enforce a qualifying condition which is imposed for the purpose of promoting the provision of facilities for health care, they may, before the appointed day, prospectively convert that qualifying condition into a health care burden by executing and registering a notice.
+(1)[^c-8e8ef19ca765c42c0c282a1a489cb3de] Where the Scottish Ministers are entitled to enforce a qualifying condition which is imposed for the purpose of promoting the provision of facilities for health care, they may, before the appointed day, prospectively convert that qualifying condition into a health care burden by executing and registering a notice.
 
 (2) The notice must—
 
-- (a)[^key-9af54fb6af8ac2dd89140e16176d71d8][^key-bb62b0602678739623515b9a1b0c868c] be in the prescribed form,
+- (a)[^c-9af54fb6af8ac2dd89140e16176d71d8][^c-bb62b0602678739623515b9a1b0c868c] be in the prescribed form,
 - (b) set out the title of the Scottish Ministers to enforce the qualifying condition,
 - (c) identify the qualifying land (or any part of such land),
 - (d) set out the terms of the qualifying condition,
 - (e) set out the terms of any counter-obligation to the qualifying condition if it is a counter-obligation enforceable against the Scottish Ministers, and
 - (f) state that the qualifying condition was imposed for the purpose of promoting the provision of facilities for health care and provide information in support of that statement.
 
-(3)[^key-8e8ef19ca765c42c0c282a1a489cb3de] For the purposes of subsection (1)—
+(3)[^c-8e8ef19ca765c42c0c282a1a489cb3de] For the purposes of subsection (1)—
 
 - (a) a notice is registered only when registered against the land identified in pursuance of subsection (2)(c), and
 - (b) the notice may be registered against the title of the owner of the land or of the tenant under the qualifying lease.
 
-(4)[^key-8e8ef19ca765c42c0c282a1a489cb3de] If subsections (1) to (3) are complied with and immediately before the appointed day the qualifying condition is still enforceable by the Scottish Ministers then, on that day, the qualifying condition becomes a health care burden—
+(4)[^c-8e8ef19ca765c42c0c282a1a489cb3de] If subsections (1) to (3) are complied with and immediately before the appointed day the qualifying condition is still enforceable by the Scottish Ministers then, on that day, the qualifying condition becomes a health care burden—
 
 - (a) in favour of the Scottish Ministers, and
 - (b) in relation to which the land identified in pursuance of subsection (2)(c) is the burdened property.
 
-(5)[^key-8e8ef19ca765c42c0c282a1a489cb3de] This section is subject to sections 36 and 75.
+(5)[^c-8e8ef19ca765c42c0c282a1a489cb3de] This section is subject to sections 36 and 75.
 
 #### 26. Conversion to climate change burden
 
-(1)[^key-9028013006a29169885cb4204fa0dcfe] Where a public body or trust is, or the Scottish Ministers are, entitled to enforce a qualifying condition which is imposed for the purpose of reducing greenhouse gas emissions, it or they may, before the appointed day, prospectively convert that qualifying condition into a climate change burden by executing and registering a notice.
+(1)[^c-9028013006a29169885cb4204fa0dcfe] Where a public body or trust is, or the Scottish Ministers are, entitled to enforce a qualifying condition which is imposed for the purpose of reducing greenhouse gas emissions, it or they may, before the appointed day, prospectively convert that qualifying condition into a climate change burden by executing and registering a notice.
 
 (2) The notice must—
 
-- (a)[^key-df979af9db1404b7b1617fcfd7e5def3][^key-b20570096c57da5fd20577c3b112a71e] be in the prescribed form,
-- (b)[^key-9028013006a29169885cb4204fa0dcfe] set out the title to enforce the qualifying condition of the person executing and registering the notice,
-- (c)[^key-9028013006a29169885cb4204fa0dcfe] state that such person is a public body, trust or the Scottish Ministers,
-- (d)[^key-9028013006a29169885cb4204fa0dcfe] identify the qualifying land (or any part of such land),
-- (e)[^key-9028013006a29169885cb4204fa0dcfe] set out the terms of the qualifying condition,
-- (f)[^key-9028013006a29169885cb4204fa0dcfe] set out the terms of any counter-obligation to the qualifying condition if it is a counter-obligation enforceable against the person executing and registering the notice, and
-- (g)[^key-9028013006a29169885cb4204fa0dcfe] state that the qualifying condition was imposed for the purpose of reducing greenhouse gas emissions and provide information in support of that statement.
+- (a)[^c-df979af9db1404b7b1617fcfd7e5def3][^c-b20570096c57da5fd20577c3b112a71e] be in the prescribed form,
+- (b)[^c-9028013006a29169885cb4204fa0dcfe] set out the title to enforce the qualifying condition of the person executing and registering the notice,
+- (c)[^c-9028013006a29169885cb4204fa0dcfe] state that such person is a public body, trust or the Scottish Ministers,
+- (d)[^c-9028013006a29169885cb4204fa0dcfe] identify the qualifying land (or any part of such land),
+- (e)[^c-9028013006a29169885cb4204fa0dcfe] set out the terms of the qualifying condition,
+- (f)[^c-9028013006a29169885cb4204fa0dcfe] set out the terms of any counter-obligation to the qualifying condition if it is a counter-obligation enforceable against the person executing and registering the notice, and
+- (g)[^c-9028013006a29169885cb4204fa0dcfe] state that the qualifying condition was imposed for the purpose of reducing greenhouse gas emissions and provide information in support of that statement.
 
-(3)[^key-9028013006a29169885cb4204fa0dcfe] For the purposes of subsection (1)—
+(3)[^c-9028013006a29169885cb4204fa0dcfe] For the purposes of subsection (1)—
 
 - (a) a notice is registered only when registered against the land identified in pursuance of subsection (2)(d), and
 - (b) the notice may be registered against the title of the owner of the land or of the tenant under the qualifying lease.
 
-(4)[^key-9028013006a29169885cb4204fa0dcfe] If subsections (1) to (3) are complied with and immediately before the appointed day the qualifying condition is still enforceable by the public body, trust or the Scottish Ministers then, on that day, the qualifying condition becomes a climate change burden—
+(4)[^c-9028013006a29169885cb4204fa0dcfe] If subsections (1) to (3) are complied with and immediately before the appointed day the qualifying condition is still enforceable by the public body, trust or the Scottish Ministers then, on that day, the qualifying condition becomes a climate change burden—
 
 - (a) in favour of the public body, the trust or (as the case may be) the Scottish Ministers, and
 - (b) in relation to which the land identified in pursuance of subsection (2)(d) is the burdened property.
 
-(5)[^key-9028013006a29169885cb4204fa0dcfe] In this section—
+(5)[^c-9028013006a29169885cb4204fa0dcfe] In this section—
 
 - “**emissions**” has the meaning given by section 17(1) of the Climate Change (Scotland) Act 2009 (asp 12),
 - “**greenhouse gas**” has the meaning given by section 10(1) of that Act,
 - “**public body**” means a body listed in Part I or II of the Schedule to the Title Conditions (Scotland) Act 2003 (Conservation Bodies) Order 2003 (SSI 2003/453).
 
-(6)[^key-9028013006a29169885cb4204fa0dcfe] This section is subject to sections 36 and 75.
+(6)[^c-9028013006a29169885cb4204fa0dcfe] This section is subject to sections 36 and 75.
 
 #### 27. Conversion to conservation burden: rule one
 
-(1)[^key-d396aae36fbc083573c9a1fe23b84624] Where a conservation body is, or the Scottish Ministers are, entitled to enforce a qualifying condition of the category described in subsection (2), it or they may, before the appointed day, prospectively convert that qualifying condition into a conservation burden for the benefit of the public by executing and registering a notice.
+(1)[^c-d396aae36fbc083573c9a1fe23b84624] Where a conservation body is, or the Scottish Ministers are, entitled to enforce a qualifying condition of the category described in subsection (2), it or they may, before the appointed day, prospectively convert that qualifying condition into a conservation burden for the benefit of the public by executing and registering a notice.
 
 (2) The category is those qualifying conditions which have the purpose of preserving or protecting—
 
 - (a) the architectural or historical characteristics of land, or
 - (b) any other special characteristics of land (including, without prejudice to the generality of this paragraph, a special characteristic derived from the flora, fauna or general appearance of the land).
 
-(3)[^key-d396aae36fbc083573c9a1fe23b84624] The notice referred to in subsection (1) must—
+(3)[^c-d396aae36fbc083573c9a1fe23b84624] The notice referred to in subsection (1) must—
 
-- (a)[^key-ed54293bd690a3f525ef23f1b996848d][^key-e40be8bb7471587601154e21da0c54b3] be in the prescribed form,
+- (a)[^c-ed54293bd690a3f525ef23f1b996848d][^c-e40be8bb7471587601154e21da0c54b3] be in the prescribed form,
 - (b) set out the title to enforce the qualifying condition of the person executing and registering the notice,
 - (c) state that such person is a conservation body or the Scottish Ministers,
 - (d) identify the qualifying land (or any part of such land),
 - (e) set out the terms of the qualifying condition, and
 - (f) set out the terms of any counter-obligation to the qualifying condition if it is a counter-obligation enforceable against the person executing and registering the notice.
 
-(4)[^key-d396aae36fbc083573c9a1fe23b84624] For the purposes of subsection (1)—
+(4)[^c-d396aae36fbc083573c9a1fe23b84624] For the purposes of subsection (1)—
 
 - (a) a notice is registered only when registered against the land identified in pursuance of subsection (3)(d), and
 - (b) the notice may be registered against the title of the owner of the land or of the tenant under the qualifying lease.
 
-(5)[^key-d396aae36fbc083573c9a1fe23b84624] If subsections (1) to (4) are complied with and immediately before the appointed day the qualifying condition is still enforceable by the conservation body or the Scottish Ministers then, on that day, the qualifying condition becomes a conservation burden—
+(5)[^c-d396aae36fbc083573c9a1fe23b84624] If subsections (1) to (4) are complied with and immediately before the appointed day the qualifying condition is still enforceable by the conservation body or the Scottish Ministers then, on that day, the qualifying condition becomes a conservation burden—
 
 - (a) in favour of the conservation body or (as the case may be) the Scottish Ministers, and
 - (b) in relation to which the land identified in pursuance of subsection (3)(d) is the burdened property.
 
-(6)[^key-d396aae36fbc083573c9a1fe23b84624] The references in subsection (5) to—
+(6)[^c-d396aae36fbc083573c9a1fe23b84624] The references in subsection (5) to—
 
 - (a) the conservation body include references to—
   - (i) any conservation body which is, or
@@ -708,40 +708,40 @@ and any reference in that subsection to the person entitled to enforce the quali
 
 #### 28. Conversion to conservation burden: rule two
 
-(1)[^key-f1777fc32aada969e15fb20d7c88eda6] The person (not being a conservation body or the Scottish Ministers) entitled to enforce a qualifying condition of the category described in section 27(2) (whether as landlord or otherwise) may before the appointed day—
+(1)[^c-f1777fc32aada969e15fb20d7c88eda6] The person (not being a conservation body or the Scottish Ministers) entitled to enforce a qualifying condition of the category described in section 27(2) (whether as landlord or otherwise) may before the appointed day—
 
 - (a) prospectively convert that condition into a conservation burden for the benefit of the public, and
 - (b) nominate a conservation body or the Scottish Ministers to have title to enforce that burden,
 
 by executing and registering a notice.
 
-(2)[^key-f1777fc32aada969e15fb20d7c88eda6] Subsection (1) applies only where the consent of the nominee to being so nominated is obtained—
+(2)[^c-f1777fc32aada969e15fb20d7c88eda6] Subsection (1) applies only where the consent of the nominee to being so nominated is obtained—
 
 - (a) in a case where sending a copy of the notice, in compliance with section 75(2), is reasonably practicable, before that copy is so sent, and
 - (b) in any other case, before the notice is executed.
 
 (3) The notice referred to in subsection (1) must—
 
-- (a)[^key-ba2e65d7cd13de30932a677e066ef52b][^key-caceb4014957c639ba7957c3d52b141a] be in the prescribed form,
-- (b)[^key-f1777fc32aada969e15fb20d7c88eda6] set out the title to enforce the qualifying condition of the person executing and registering the notice,
-- (c)[^key-f1777fc32aada969e15fb20d7c88eda6] state that the nominee is a specific conservation body or the Scottish Ministers (as the case may be), and
-- (d)[^key-f1777fc32aada969e15fb20d7c88eda6] comply with section 27(3)(d) to (f).
+- (a)[^c-ba2e65d7cd13de30932a677e066ef52b][^c-caceb4014957c639ba7957c3d52b141a] be in the prescribed form,
+- (b)[^c-f1777fc32aada969e15fb20d7c88eda6] set out the title to enforce the qualifying condition of the person executing and registering the notice,
+- (c)[^c-f1777fc32aada969e15fb20d7c88eda6] state that the nominee is a specific conservation body or the Scottish Ministers (as the case may be), and
+- (d)[^c-f1777fc32aada969e15fb20d7c88eda6] comply with section 27(3)(d) to (f).
 
-(4)[^key-f1777fc32aada969e15fb20d7c88eda6] For the purposes of subsection (1)—
+(4)[^c-f1777fc32aada969e15fb20d7c88eda6] For the purposes of subsection (1)—
 
 - (a) a notice is registered only when registered against the land identified in pursuance of subsection (3)(d), and
 - (b) the notice may be registered against the title of the owner of the land or of the tenant under the qualifying lease.
 
-(5)[^key-f1777fc32aada969e15fb20d7c88eda6] If subsections (1) to (4) are complied with and immediately before the appointed day the qualifying condition is still enforceable by the person who executed and registered the notice under subsection (1) (or that person's successor) then, on that day, the qualifying condition becomes a conservation burden—
+(5)[^c-f1777fc32aada969e15fb20d7c88eda6] If subsections (1) to (4) are complied with and immediately before the appointed day the qualifying condition is still enforceable by the person who executed and registered the notice under subsection (1) (or that person's successor) then, on that day, the qualifying condition becomes a conservation burden—
 
 - (a) in favour of the conservation body or (as the case may be) the Scottish Ministers, and
 - (b) in relation to which the land identified in pursuance of subsection (3)(d) is the burdened property.
 
-(6)[^key-f1777fc32aada969e15fb20d7c88eda6] This section is subject to sections 36 and 75 except that, in the application of subsection (3)(b) of section 36 for the purposes of this subsection, such discharge as is mentioned in that subsection is to be taken to require the consent of the nominated person.
+(6)[^c-f1777fc32aada969e15fb20d7c88eda6] This section is subject to sections 36 and 75 except that, in the application of subsection (3)(b) of section 36 for the purposes of this subsection, such discharge as is mentioned in that subsection is to be taken to require the consent of the nominated person.
 
 ### Other real burdens
 
-#### 29. Conversion to facility or service burden[^key-05db94b48eb213e4696e8319272a7ca9]
+#### 29. Conversion to facility or service burden[^c-05db94b48eb213e4696e8319272a7ca9]
 
 (1) Where a qualifying condition regulates the maintenance, management, reinstatement or use of heritable property which constitutes, and is intended to constitute, a facility of benefit to land other than the qualifying land then, on the appointed day, such condition becomes a facility burden in relation to which—
 
@@ -761,7 +761,7 @@ by executing and registering a notice.
 - (d) private sewerage,
 - (e) a boundary wall.
 
-#### 30. Conversion to manager burden[^key-b5608465622fc15f01c1fba6a1a91723]
+#### 30. Conversion to manager burden[^c-b5608465622fc15f01c1fba6a1a91723]
 
 (1) Where a qualifying condition confers on such person as may be specified in the condition power to—
 
@@ -783,7 +783,7 @@ then, on the appointed day, such condition becomes a real burden in favour of su
 - (b) it being evident that the properties constitute a group of properties on which qualifying conditions are imposed under a common scheme, or
 - (c) there being shared rights to common property.
 
-#### 31. Conversion where common scheme affects related properties[^key-b333d0e36b11d8b5d40ddf03014fd6de]
+#### 31. Conversion where common scheme affects related properties[^c-b333d0e36b11d8b5d40ddf03014fd6de]
 
 (1) Where qualifying conditions are imposed under a common scheme on a group of related properties, such conditions, on the appointed day, become real burdens in relation to which each property is a benefited and a burdened property.
 
@@ -800,7 +800,7 @@ then, on the appointed day, such condition becomes a real burden in favour of su
 
 (4) This section confers no right of pre-emption, redemption or reversion.
 
-#### 32. Conversion where expressly enforceable by certain third parties[^key-761646def5c5ddaab0e6d679e93638e9]
+#### 32. Conversion where expressly enforceable by certain third parties[^c-761646def5c5ddaab0e6d679e93638e9]
 
 Where a qualifying condition is expressed as being enforceable by—
 
@@ -811,7 +811,7 @@ of land other than the qualifying land then, on the appointed day, such conditio
 
 ### Exclusions from conversion
 
-#### 33. Qualifying condition where obligation assumed by public authority[^key-1faf1359514a0e5b1934495cf3814f9f]
+#### 33. Qualifying condition where obligation assumed by public authority[^c-1faf1359514a0e5b1934495cf3814f9f]
 
 Sections 29(1) and 31(1) do not apply to a qualifying condition in so far as such condition constitutes an obligation—
 
@@ -822,7 +822,7 @@ Sections 29(1) and 31(1) do not apply to a qualifying condition in so far as suc
 
 ### Effect of conversion on counter-obligations
 
-#### 34. Counter-obligations on conversion[^key-9a6a45457f05a76f701bfcd128f30544]
+#### 34. Counter-obligations on conversion[^c-9a6a45457f05a76f701bfcd128f30544]
 
 (1) Where a qualifying condition becomes, by virtue of any of sections 14 to 32, a real burden, the right to enforce the burden is subject to any counter-obligation mentioned in subsection (2).
 
@@ -837,7 +837,7 @@ Sections 29(1) and 31(1) do not apply to a qualifying condition in so far as suc
 
 ### Prescription
 
-#### 35. Prescriptive period for converted conditions[^key-a070394857abc53c94616de36f184655]
+#### 35. Prescriptive period for converted conditions[^c-a070394857abc53c94616de36f184655]
 
 (1) This section applies where a qualifying condition becomes, by virtue of any of sections 14 to 32, a real burden.
 
@@ -845,7 +845,7 @@ Sections 29(1) and 31(1) do not apply to a qualifying condition in so far as suc
 
 ### Notices and agreements under this Part
 
-#### 36. Further provision for notices and agreements[^key-52ea64d645a271e29f2148c8dddb42d0]
+#### 36. Further provision for notices and agreements[^c-52ea64d645a271e29f2148c8dddb42d0]
 
 (1) Subsections (2) and (3) apply in relation to a qualifying lease where—
 
@@ -872,7 +872,7 @@ Sections 29(1) and 31(1) do not apply to a qualifying condition in so far as suc
 
 ### Key terms
 
-#### 37. Partially continuing leases and renewal obligations etc.[^key-132f4a7b09c24382287590e8bedc330b]
+#### 37. Partially continuing leases and renewal obligations etc.[^c-132f4a7b09c24382287590e8bedc330b]
 
 In this Act—
 
@@ -883,7 +883,7 @@ In this Act—
 - “**renewal period**” means, in relation to a renewal obligation, the fixed period after which the landlord must renew the lease,
 - “**renewal premium**” means, in relation to a renewal obligation, the premium payable.
 
-#### 38. Cumulo rent and cumulo renewal premium[^key-8c646864092cac79496044ebc917140f]
+#### 38. Cumulo rent and cumulo renewal premium[^c-8c646864092cac79496044ebc917140f]
 
 (1) In this Act—
 
@@ -911,7 +911,7 @@ any rent or renewal premium so apportioned is not *cumulo* rent or (as the case 
 
 ### Allocation of rent
 
-#### 39. Allocation of cumulo rent before appointed day[^key-d8178d147e33dd0530a1ca056b4c07c6]
+#### 39. Allocation of cumulo rent before appointed day[^c-d8178d147e33dd0530a1ca056b4c07c6]
 
 (1) This section applies where—
 
@@ -926,7 +926,7 @@ any rent or renewal premium so apportioned is not *cumulo* rent or (as the case 
 
 (5) Where the landlord allocates the *cumulo* rent between two or more leases under subsection (2), the annual rent payable under each lease from the day on which the landlord gives notice to the tenant of the allocation is the annual rent allocated to the lease and such rent is not *cumulo* rent for the purposes of this Act.
 
-#### 40. Allocation of cumulo rent after appointed day[^key-7a22673e719df250e4e8c9dec9b740f3]
+#### 40. Allocation of cumulo rent after appointed day[^c-7a22673e719df250e4e8c9dec9b740f3]
 
 (1) This section applies where—
 
@@ -943,7 +943,7 @@ any rent or renewal premium so apportioned is not *cumulo* rent or (as the case 
 
 (6) In this section and sections 41, 42 and 43, “**landlord**” includes former landlord.
 
-#### 41. Partially continuing leases: allocation of rent[^key-5531390f3a757c7b9e2afe6aaeaabaf5]
+#### 41. Partially continuing leases: allocation of rent[^c-5531390f3a757c7b9e2afe6aaeaabaf5]
 
 (1) The landlord in relation to a partially continuing lease must, before the expiry of the period of 2 years beginning with the appointed day, allocate the annual rent between the converted subjects and continuing subjects.
 
@@ -958,7 +958,7 @@ any rent or renewal premium so apportioned is not *cumulo* rent or (as the case 
 
 ### Allocation of renewal premium
 
-#### 42. Allocation of cumulo renewal premium[^key-2f4f61ded8669ee76d5754fcc17af6ae]
+#### 42. Allocation of cumulo renewal premium[^c-2f4f61ded8669ee76d5754fcc17af6ae]
 
 (1) This section applies where—
 
@@ -977,7 +977,7 @@ any rent or renewal premium so apportioned is not *cumulo* rent or (as the case 
 
 (5) The renewal premium payable from the appointed day under a lease which is not wholly extinguished by virtue of Part 1 is (subject to section 43) the renewal premium allocated to the lease under subsection (2).
 
-#### 43. Partially continuing leases: allocation of renewal premium[^key-85636c5690286804d79b3260cea3aa58]
+#### 43. Partially continuing leases: allocation of renewal premium[^c-85636c5690286804d79b3260cea3aa58]
 
 (1) This section applies to a lease which—
 
@@ -1000,7 +1000,7 @@ any rent or renewal premium so apportioned is not *cumulo* rent or (as the case 
 
 ### Allocation disputed or not made
 
-#### 44. Allocation disputed or not made: reference to Lands Tribunal[^key-06d5328ee0e888044d2e78edaaa23994]
+#### 44. Allocation disputed or not made: reference to Lands Tribunal[^c-06d5328ee0e888044d2e78edaaa23994]
 
 (1) This section applies where—
 
@@ -1024,7 +1024,7 @@ any rent or renewal premium so apportioned is not *cumulo* rent or (as the case 
 
 ### Compensatory payment
 
-#### 45. Requiring compensatory payment[^key-c45b008ce97eea9ecd0ccfb45233b501]
+#### 45. Requiring compensatory payment[^c-c45b008ce97eea9ecd0ccfb45233b501]
 
 (1) This section applies where, on the appointed day, the rights of a landlord under a lease are extinguished by virtue of Part 1.
 
@@ -1049,7 +1049,7 @@ any rent or renewal premium so apportioned is not *cumulo* rent or (as the case 
 - “**compensatory payment**” means a payment of the kind mentioned in subsection (2),
 - “**instalment document**” is to be construed in accordance with section 57(2).
 
-#### 46. Making compensatory payment[^key-52a11b57573e0503b98bd5ad7e15bea8]
+#### 46. Making compensatory payment[^c-52a11b57573e0503b98bd5ad7e15bea8]
 
 (1) This section applies where the former landlord has served notice in accordance with section 45.
 
@@ -1059,7 +1059,7 @@ any rent or renewal premium so apportioned is not *cumulo* rent or (as the case 
 
 ### Calculation of compensatory payment
 
-#### 47. Calculation of the compensatory payment[^key-08f411805f08fa55535d05d368ecffb1]
+#### 47. Calculation of the compensatory payment[^c-08f411805f08fa55535d05d368ecffb1]
 
 The compensatory payment in relation to a lease is calculated as follows—
 
@@ -1084,7 +1084,7 @@ The compensatory payment in relation to a lease is calculated as follows—
 
 ### Annual rent
 
-#### 48. Determination of the annual rent[^key-ee4e312ecc1ab8fc681cb1d560c8fcbf]
+#### 48. Determination of the annual rent[^c-ee4e312ecc1ab8fc681cb1d560c8fcbf]
 
 (1) For the purposes of section 47, the annual rent in relation to a lease is—
 
@@ -1098,7 +1098,7 @@ The compensatory payment in relation to a lease is calculated as follows—
 
 ### Renewal premiums
 
-#### 49. Calculation of notional annual renewal premium[^key-14dd5a69925063b26c85dba569260311]
+#### 49. Calculation of notional annual renewal premium[^c-14dd5a69925063b26c85dba569260311]
 
 (1) This section applies where—
 
@@ -1126,7 +1126,7 @@ Y is the renewal period (expressed as a number of years).
 
 ### Additional payment
 
-#### 50. Claiming additional payment[^key-90d9d25aa0447861b95033cf254fede6]
+#### 50. Claiming additional payment[^c-90d9d25aa0447861b95033cf254fede6]
 
 (1) This section applies where, on the appointed day, a right of a landlord under a lease, being a right mentioned in section 51(1), is extinguished by virtue of Part 1.
 
@@ -1152,7 +1152,7 @@ references to the “**former tenant**” in subsection (2) and sections 52 to 5
 
 (6) This section is subject to section 56.
 
-#### 51. Extinguished rights[^key-318729ffd4b2ee260c4497e7532a1e78]
+#### 51. Extinguished rights[^c-318729ffd4b2ee260c4497e7532a1e78]
 
 (1) The rights referred to in section 50(1) are—
 
@@ -1177,7 +1177,7 @@ references to the “**former tenant**” in subsection (2) and sections 52 to 5
     - (i) nominal, or
     - (ii) significantly lower than it would have been had the lease not been subject to the condition.
 
-#### 52. Calculating additional payment[^key-83c9dde64dcaa7a88eb455190af048fd]
+#### 52. Calculating additional payment[^c-83c9dde64dcaa7a88eb455190af048fd]
 
 (1) This section applies for the purpose of calculating the amount of an additional payment.
 
@@ -1200,7 +1200,7 @@ references to the “**former tenant**” in subsection (2) and sections 52 to 5
 
 (8) In the case of a claim for an additional payment arising from the extinction of a right to development value, the additional payment may not exceed such sum as would make up for any effect which the right produced, at the time when the condition reserving the right was imposed, in reducing the consideration (including rent) paid for or payable under the lease.
 
-#### 53. Additional payment: former tenant agrees[^key-dc7d9cc412e24a289365519e86f5180f]
+#### 53. Additional payment: former tenant agrees[^c-dc7d9cc412e24a289365519e86f5180f]
 
 (1) This section applies where—
 
@@ -1211,7 +1211,7 @@ references to the “**former tenant**” in subsection (2) and sections 52 to 5
 
 (3) Subsection (2) is subject to section 57.
 
-#### 54. Additional payment: amount mutually agreed[^key-fb551b324bdb3d2ab605cc835890dafc]
+#### 54. Additional payment: amount mutually agreed[^c-fb551b324bdb3d2ab605cc835890dafc]
 
 (1) This section applies where—
 
@@ -1232,7 +1232,7 @@ references to the “**former tenant**” in subsection (2) and sections 52 to 5
 
 (6) Subsection (5) is subject to section 57.
 
-#### 55. Claim for additional payment: reference to Lands Tribunal[^key-3ef5b70c7fbb049d47f8090fa2c483d2]
+#### 55. Claim for additional payment: reference to Lands Tribunal[^c-3ef5b70c7fbb049d47f8090fa2c483d2]
 
 (1) If no agreement has been reached under section 53 or 54, the—
 
@@ -1255,7 +1255,7 @@ may refer any matter arising in relation to a claim for an additional payment un
 
 #### 56. Claims in excess of £500: preliminary notice
 
-(1)[^key-5e02169b4eef7752dfe0a2fe84abbd04] This section applies where a landlord intends, after the appointed day, to require or (as the case may be) claim from the tenant under a qualifying lease—
+(1)[^c-5e02169b4eef7752dfe0a2fe84abbd04] This section applies where a landlord intends, after the appointed day, to require or (as the case may be) claim from the tenant under a qualifying lease—
 
 - (a) a compensatory payment which is,
 - (b) an additional payment which is, or
@@ -1263,17 +1263,17 @@ may refer any matter arising in relation to a claim for an additional payment un
 
 likely to exceed £500.
 
-(2)[^key-5e02169b4eef7752dfe0a2fe84abbd04] The landlord must, not later than 6 months before the appointed day, serve on the person registered as tenant a notice (such notice being referred to in this Act as a “preliminary notice”) stating the landlord's intention to require or (as the case may be) claim such a payment.
+(2)[^c-5e02169b4eef7752dfe0a2fe84abbd04] The landlord must, not later than 6 months before the appointed day, serve on the person registered as tenant a notice (such notice being referred to in this Act as a “preliminary notice”) stating the landlord's intention to require or (as the case may be) claim such a payment.
 
 (3) The preliminary notice must—
 
-- (a)[^key-15d9f59eb9bce90522049b2734c07ec7][^key-60ff40084d2ef9f67267df403d2624ab] be in the prescribed form,
-- (b)[^key-5e02169b4eef7752dfe0a2fe84abbd04] state—
+- (a)[^c-15d9f59eb9bce90522049b2734c07ec7][^c-60ff40084d2ef9f67267df403d2624ab] be in the prescribed form,
+- (b)[^c-5e02169b4eef7752dfe0a2fe84abbd04] state—
   - (i) the amount of compensatory payment to be required or (as the case may be) additional payment to be claimed, or
   - (ii) where such amount cannot be determined, the best estimate of such amount, and
-- (c)[^key-15d9f59eb9bce90522049b2734c07ec7][^key-60ff40084d2ef9f67267df403d2624ab] be accompanied by a copy of the prescribed explanatory note.
+- (c)[^c-15d9f59eb9bce90522049b2734c07ec7][^c-60ff40084d2ef9f67267df403d2624ab] be accompanied by a copy of the prescribed explanatory note.
 
-(4)[^key-5e02169b4eef7752dfe0a2fe84abbd04] Where a preliminary notice has not been served in accordance with this section—
+(4)[^c-5e02169b4eef7752dfe0a2fe84abbd04] Where a preliminary notice has not been served in accordance with this section—
 
 - (a) the amount of compensatory payment required under section 45(2),
 - (b) the amount of additional payment claimed under section 50(2), or
@@ -1281,7 +1281,7 @@ likely to exceed £500.
 
 may not exceed £500.
 
-#### 57. Making payment by instalments[^key-fa959d93ff7c1ee8a3fe054f418266cd]
+#### 57. Making payment by instalments[^c-fa959d93ff7c1ee8a3fe054f418266cd]
 
 (1) This section applies where an instalment document under section 45(5), 50(5) or 54(4) is served on a former tenant.
 
@@ -1321,7 +1321,7 @@ may not exceed £500.
 
 (9) In any other case, the former tenant may pay that outstanding balance at any time.
 
-#### 58. Collecting third party to disclose information[^key-d9de333a3d194564d4e2cd3dcb9cd7bd]
+#### 58. Collecting third party to disclose information[^c-d9de333a3d194564d4e2cd3dcb9cd7bd]
 
 (1) This section applies where a landlord or (as the case may be) former landlord receives or has at any time received from a third party an amount—
 
@@ -1343,7 +1343,7 @@ disclose to the landlord or former landlord the information mentioned in subsect
 - (a) the identity and address of the tenant or former tenant, and
 - (b) in a case where the rent remitted is part of a *cumulo* rent, the amount so collected from the tenant or former tenant.
 
-#### 59. Duty to disclose identity etc. of former tenant[^key-61a7d329ff9b205750704f529a07dadd]
+#### 59. Duty to disclose identity etc. of former tenant[^c-61a7d329ff9b205750704f529a07dadd]
 
 (1) This section applies where—
 
@@ -1357,7 +1357,7 @@ disclose to the landlord or former landlord the information mentioned in subsect
 - (a) the identity and address of the former tenant, or
 - (b) (if that person cannot do so) such other information as that person has which might enable the former landlord to discover that identity and address.
 
-#### 60. Prescription of requirement to make payment[^key-f58208c0f2f5463189188d9d5c522eb7]
+#### 60. Prescription of requirement to make payment[^c-f58208c0f2f5463189188d9d5c522eb7]
 
 In Schedule 1 to the Prescription and Limitation (Scotland) Act 1973 (c.52) (which specifies obligations affected by prescriptive periods of 5 years under section 6 of that Act)—
 
@@ -1368,7 +1368,7 @@ In Schedule 1 to the Prescription and Limitation (Scotland) Act 1973 (c.52) (whi
   , and
 - (b) in paragraph 2(e), for the words “, (aa), (ab) or (ac)” substitute “ to (aca) ”.
 
-#### 61. Interpretation of Part 4[^key-b7a286d2dfc8ceec25832851948e824a]
+#### 61. Interpretation of Part 4[^c-b7a286d2dfc8ceec25832851948e824a]
 
 (1) In this Part—
 
@@ -1386,7 +1386,7 @@ In Schedule 1 to the Prescription and Limitation (Scotland) Act 1973 (c.52) (whi
 
 ### Exempt leases
 
-#### 62. Exempt leases[^key-42c675de5487583c18b3c2f60ce073d4]
+#### 62. Exempt leases[^c-42c675de5487583c18b3c2f60ce073d4]
 
 (1) If, immediately before the appointed day, land is subject to an exempt lease—
 
@@ -1406,12 +1406,12 @@ In Schedule 1 to the Prescription and Limitation (Scotland) Act 1973 (c.52) (whi
 
 A lease is an exempt lease if—
 
-- (a)[^key-0dcf6648126821bdeb65252e6ae4680e] it is a qualifying lease, and
-- (b)[^key-43cb8e6aba4925ba902553827c817425][^key-4a7ea27ed95b6dc288008d3968424c9d] the tenant under the lease, not later than 2 months before the appointed day, executes and registers a notice in the prescribed form (referred to in this Act as an “exemption notice”).
+- (a)[^c-0dcf6648126821bdeb65252e6ae4680e] it is a qualifying lease, and
+- (b)[^c-43cb8e6aba4925ba902553827c817425][^c-4a7ea27ed95b6dc288008d3968424c9d] the tenant under the lease, not later than 2 months before the appointed day, executes and registers a notice in the prescribed form (referred to in this Act as an “exemption notice”).
 
 #### 64. Exemption of qualifying lease by registration of agreement or order
 
-(1)[^key-d6a0cb1ed578395f0f10377852a430ce] A lease is an exempt lease if—
+(1)[^c-d6a0cb1ed578395f0f10377852a430ce] A lease is an exempt lease if—
 
 - (a) it is a qualifying lease,
 - (b) it is not a lease in relation to which *cumulo* rent is payable, and
@@ -1421,15 +1421,15 @@ A lease is an exempt lease if—
 
 (2) The agreement must—
 
-- (a)[^key-4738c20d359210e83f7353d16dd3862e][^key-c13c8866c92694a59f2145c4eb552d53] be in the prescribed form,
-- (b)[^key-d6a0cb1ed578395f0f10377852a430ce] be signed by or on behalf of the landlord and the tenant,
-- (c)[^key-d6a0cb1ed578395f0f10377852a430ce] state either—
+- (a)[^c-4738c20d359210e83f7353d16dd3862e][^c-c13c8866c92694a59f2145c4eb552d53] be in the prescribed form,
+- (b)[^c-d6a0cb1ed578395f0f10377852a430ce] be signed by or on behalf of the landlord and the tenant,
+- (c)[^c-d6a0cb1ed578395f0f10377852a430ce] state either—
   - (i) that the annual rent payable under the lease immediately before the appointed day will be over £100, or
   - (ii) that the annual rent paid under the lease was over £100 at any point during the relevant period.
 
-(3)[^key-d6a0cb1ed578395f0f10377852a430ce] The relevant period is the period of 5 years ending on the day the Bill for this Act received Royal Assent.
+(3)[^c-d6a0cb1ed578395f0f10377852a430ce] The relevant period is the period of 5 years ending on the day the Bill for this Act received Royal Assent.
 
-#### 65. Certain leases registered near or after the appointed day[^key-f2f818c880ff8dedd1f33849b53f500e]
+#### 65. Certain leases registered near or after the appointed day[^c-f2f818c880ff8dedd1f33849b53f500e]
 
 A lease is an exempt lease if—
 
@@ -1438,7 +1438,7 @@ A lease is an exempt lease if—
 - (c) despite not being registered, it constitutes a real right in land, and
 - (d) it is subsequently registered (whether before, on or after the appointed day).
 
-#### 66. Subleases of exempt leases[^key-7d765a6f8787801dc3b5f19fac51e5c8]
+#### 66. Subleases of exempt leases[^c-7d765a6f8787801dc3b5f19fac51e5c8]
 
 A sublease of an exempt lease is an exempt lease if—
 
@@ -1451,12 +1451,12 @@ A sublease of an exempt lease is an exempt lease if—
 
 (1) This section applies in relation to a lease where—
 
-- (a)[^key-7f8e1ed998b9d2d8e220a23240c89ccf] the lease is an exempt lease (other than by virtue of section 64), and
-- (b)[^key-b7c7c6bed74dcd76685694739ed4b3a8][^key-0eb82ff8c850102afb80b505844a79b5] the tenant under the lease executes and registers a notice in the prescribed form (referred to in this Act as a “recall notice”).
+- (a)[^c-7f8e1ed998b9d2d8e220a23240c89ccf] the lease is an exempt lease (other than by virtue of section 64), and
+- (b)[^c-b7c7c6bed74dcd76685694739ed4b3a8][^c-0eb82ff8c850102afb80b505844a79b5] the tenant under the lease executes and registers a notice in the prescribed form (referred to in this Act as a “recall notice”).
 
-(2)[^key-7f8e1ed998b9d2d8e220a23240c89ccf] On the day on which the recall notice is registered (“the registration day”) the lease ceases to be an exempt lease.
+(2)[^c-7f8e1ed998b9d2d8e220a23240c89ccf] On the day on which the recall notice is registered (“the registration day”) the lease ceases to be an exempt lease.
 
-(3)[^key-7f8e1ed998b9d2d8e220a23240c89ccf] Where the registration day—
+(3)[^c-7f8e1ed998b9d2d8e220a23240c89ccf] Where the registration day—
 
 - (a) is less than 6 months before the appointed day,
 - (b) is the appointed day, or
@@ -1464,11 +1464,11 @@ A sublease of an exempt lease is an exempt lease if—
 
 this Act applies as if the appointed day were the first Whitsunday or (as the case may be) Martinmas occurring on or after the day which falls 6 months after the registration day.
 
-(4)[^key-7f8e1ed998b9d2d8e220a23240c89ccf] Section 56 does not apply in relation to the lease.
+(4)[^c-7f8e1ed998b9d2d8e220a23240c89ccf] Section 56 does not apply in relation to the lease.
 
 ### Supplementary
 
-#### 68. Exemption and recall notices: supplementary[^key-e012c8a7ce3fdcffe4818061f77d86c1]
+#### 68. Exemption and recall notices: supplementary[^c-e012c8a7ce3fdcffe4818061f77d86c1]
 
 (1) Subsections (2) and (3) apply to a tenant under a lease where—
 
@@ -1487,7 +1487,7 @@ this Act applies as if the appointed day were the first Whitsunday or (as the ca
 
 (4) An exemption notice or (as the case may be) recall notice must be registered against the title of the tenant who executed the notice.
 
-#### 69. Application to Lands Tribunal for order confirming rent[^key-127bec8402d42f72d6da4fcb3d45349f]
+#### 69. Application to Lands Tribunal for order confirming rent[^c-127bec8402d42f72d6da4fcb3d45349f]
 
 (1) A landlord under a lease may apply to the Lands Tribunal for an order confirming either—
 
@@ -1517,13 +1517,13 @@ this Act applies as if the appointed day were the first Whitsunday or (as the ca
 
 ### The appointed day
 
-#### 70. The appointed day[^key-a441bbd02d8e7611125aa97843e5fd3e]
+#### 70. The appointed day[^c-a441bbd02d8e7611125aa97843e5fd3e]
 
 In this Act, the “**appointed day**” means the first Martinmas occurring on or after the day 2 years after the day on which this section comes into force.
 
 ### Duration of lease etc.
 
-#### 71. Determining duration of lease[^key-6e2fb7576ea7bed8b4f6c0fa4e05698c]
+#### 71. Determining duration of lease[^c-6e2fb7576ea7bed8b4f6c0fa4e05698c]
 
 (1) In calculating the period for which a lease is granted for the purposes of any provision of this Act—
 
@@ -1541,7 +1541,7 @@ In this Act, the “**appointed day**” means the first Martinmas occurring on 
 
 (2) Subsection (1)(b) to (d) is subject to section 67 of the Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5) (prohibition of leases of more than 175 years).
 
-#### 72. Leases continuing on tacit relocation[^key-c255642baac4ea92c3b97033269fce7e]
+#### 72. Leases continuing on tacit relocation[^c-c255642baac4ea92c3b97033269fce7e]
 
 Part 4 and section 71(1)(b) apply in relation to a lease which is continuing by tacit relocation as if any provision (however expressed)—
 
@@ -1552,7 +1552,7 @@ had been complied with.
 
 ### Extinction of right of irritancy in certain leases
 
-#### 73. Extinction of right of irritancy in certain leases[^key-d0a936dec03377e9cadaca41a7445665]
+#### 73. Extinction of right of irritancy in certain leases[^c-d0a936dec03377e9cadaca41a7445665]
 
 (1) On and after the day on which this section comes into force, it is not competent for a lease to which subsection (2) applies to be terminated by irritancy.
 
@@ -1569,7 +1569,7 @@ had been complied with.
 
 ### Notices etc.
 
-#### 74. Service of notices[^key-361868b739319785324406474a4997c5]
+#### 74. Service of notices[^c-361868b739319785324406474a4997c5]
 
 (1) Service of a notice on a person under section 17(1)(a) or Part 4 must be effected—
 
@@ -1603,7 +1603,7 @@ had been complied with.
 
 (5) In this section, “**notice**” includes an instalment document.
 
-#### 75. Notices: pre-registration requirements[^key-8c2abaad32f4bb6f1b3d4f02881af8c6]
+#### 75. Notices: pre-registration requirements[^c-8c2abaad32f4bb6f1b3d4f02881af8c6]
 
 (1) This section applies in relation to any notice which is to be submitted for registration under section 8 or Part 2.
 
@@ -1617,7 +1617,7 @@ had been complied with.
 - (a) that a copy of the notice has been sent in accordance with subsection (2), or
 - (b) that it was not reasonably practicable for such a copy to be sent (and the reasons why that was so).
 
-#### 76. Keeper's duty as regards documents[^key-34b79fde669e6541d5963ad6bce30b68]
+#### 76. Keeper's duty as regards documents[^c-34b79fde669e6541d5963ad6bce30b68]
 
 (1) In relation to any notice submitted for registration under this Act, the Keeper is not required to determine whether the terms of section 68(2) or (as the case may be) 75(2) have been complied with.
 
@@ -1638,7 +1638,7 @@ had been complied with.
 
 (5) In relation to any order submitted for registration under section 64(1)(c)(ii), the Keeper is not required to determine that an attempt to reach agreement has been made in accordance with section 69(3).
 
-#### 77. Disputed notices: reference to Lands Tribunal[^key-504e2191a2c5ad977fd4838cf596dfc3]
+#### 77. Disputed notices: reference to Lands Tribunal[^c-504e2191a2c5ad977fd4838cf596dfc3]
 
 (1) A dispute arising in relation to a notice registered under this Act may be referred to the Lands Tribunal.
 
@@ -1648,33 +1648,33 @@ had been complied with.
 
 #### 78. Certain documents registrable despite initial rejection
 
-(1)[^key-1ade9a9d0474d507ea814ddea3c0e3d8] This section applies where one of the following is rejected by the Keeper—
+(1)[^c-1ade9a9d0474d507ea814ddea3c0e3d8] This section applies where one of the following is rejected by the Keeper—
 
 - (a) a notice submitted before the appointed day for registration under section 8(2) or Part 2,
 - (b) an agreement submitted before the appointed day for registration under section 17(1)(c),
 - (c) an exemption notice submitted before the day falling 2 months before the appointed day for registration under section 63, or
 - (d) an agreement submitted before the day falling 2 months before the appointed day for registration under section 64(1)(c).
 
-(2)[^key-1ade9a9d0474d507ea814ddea3c0e3d8][^key-e2f5540b2130bcae9774c6af211f2910] Where a court or the Lands Tribunal determines the notice or agreement is registrable, it may be registered not later than the day falling 2 months after the day on which the court or the Lands Tribunal made the determination.
+(2)[^c-1ade9a9d0474d507ea814ddea3c0e3d8][^c-e2f5540b2130bcae9774c6af211f2910] Where a court or the Lands Tribunal determines the notice or agreement is registrable, it may be registered not later than the day falling 2 months after the day on which the court or the Lands Tribunal made the determination.
 
-(3)[^key-1ade9a9d0474d507ea814ddea3c0e3d8] An exemption notice or an agreement mentioned in subsection (1)(d) which is registered under subsection (2) on or after the day falling 2 months before the appointed day is to be treated as if it had been registered before that day.
+(3)[^c-1ade9a9d0474d507ea814ddea3c0e3d8] An exemption notice or an agreement mentioned in subsection (1)(d) which is registered under subsection (2) on or after the day falling 2 months before the appointed day is to be treated as if it had been registered before that day.
 
-(4)[^key-1ade9a9d0474d507ea814ddea3c0e3d8] Any other notice or agreement which is registered under subsection (2) on or after the appointed day is to be treated as if it had been registered before the appointed day.
+(4)[^c-1ade9a9d0474d507ea814ddea3c0e3d8] Any other notice or agreement which is registered under subsection (2) on or after the appointed day is to be treated as if it had been registered before the appointed day.
 
-(5)[^key-d00f49250bf58cf6c4277b2fd4eb7938] The Scottish Ministers may by order—
+(5)[^c-d00f49250bf58cf6c4277b2fd4eb7938] The Scottish Ministers may by order—
 
 - (a) specify a date after which (or a period after the expiry of which) notices and agreements cannot be registered under subsection (2),
 - (b) provide that subsection (2) applies only where the application to the court or to the Lands Tribunal which resulted in the determination is made within such period as the order may specify.
 
-(6)[^key-d00f49250bf58cf6c4277b2fd4eb7938] In this section, “**court**” means Court of Session or sheriff.
+(6)[^c-d00f49250bf58cf6c4277b2fd4eb7938] In this section, “**court**” means Court of Session or sheriff.
 
 ### Miscellaneous
 
-#### 79. Amendments to enactments[^key-5b891642af1584ee02c5be3d1a4da8fd][^key-8454bcba93b4be2585c36bc3251b3689]
+#### 79. Amendments to enactments[^c-5b891642af1584ee02c5be3d1a4da8fd][^c-8454bcba93b4be2585c36bc3251b3689]
 
 The schedule makes minor and consequential amendments.
 
-#### 80. Interpretation[^key-d8cd81557a6a6c63300d43bb3a9103af]
+#### 80. Interpretation[^c-d8cd81557a6a6c63300d43bb3a9103af]
 
 (1) In this Act, unless the context otherwise requires—
 
@@ -1745,11 +1745,11 @@ The short title of this Act is the Long Leases (Scotland) Act 2012.
 
 ### Conveyancing and Feudal Reform (Scotland) Act 1970 (c.35)
 
-**1.**[^key-5e10b63808324acb4468e8341e5512f8] In section 9(2B) (no standard security over personal pre-emption burden or personal redemption burden) of the Conveyancing and Feudal Reform (Scotland) Act 1970, after the words “Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)” insert “ or as the case may be of section 23 of the Long Leases (Scotland) Act 2012 (asp 9)) ”.
+**1.**[^c-5e10b63808324acb4468e8341e5512f8] In section 9(2B) (no standard security over personal pre-emption burden or personal redemption burden) of the Conveyancing and Feudal Reform (Scotland) Act 1970, after the words “Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)” insert “ or as the case may be of section 23 of the Long Leases (Scotland) Act 2012 (asp 9)) ”.
 
 ### Tribunals and Inquiries Act 1992 (c.53)
 
-**2.**[^key-535e9fc1cf90e5eb9e5253bde3895390] In section 11(7) of the Tribunal and Inquiries Act 1992 (which makes provision for Scotland in relation to appeals from certain tribunals), in paragraph (c)—
+**2.**[^c-535e9fc1cf90e5eb9e5253bde3895390] In section 11(7) of the Tribunal and Inquiries Act 1992 (which makes provision for Scotland in relation to appeals from certain tribunals), in paragraph (c)—
 
 - (a) the words after “under” become sub-paragraph (i), and
 - (b) after that sub-paragraph insert—
@@ -1761,17 +1761,17 @@ The short title of this Act is the Long Leases (Scotland) Act 2012.
 
 ### Title Conditions (Scotland) Act 2003 (asp 9)
 
-**3.** (1)[^key-6f081383ee7993c7d5a9a2edb841c10d] The 2003 Act is amended in accordance with this paragraph.
+**3.** (1)[^c-6f081383ee7993c7d5a9a2edb841c10d] The 2003 Act is amended in accordance with this paragraph.
 
-(2)[^key-b3a9e9311808f8ac2b426f554cd6442a] In section 12 (division of a benefited property), in subsection (4)(a), after “Act” insert “ or sections 29 or 31 of the Long Leases (Scotland) Act 2012 (asp 9) ”.
+(2)[^c-b3a9e9311808f8ac2b426f554cd6442a] In section 12 (division of a benefited property), in subsection (4)(a), after “Act” insert “ or sections 29 or 31 of the Long Leases (Scotland) Act 2012 (asp 9) ”.
 
-(3)[^key-b3a9e9311808f8ac2b426f554cd6442a] In section 20 (notice of termination of real burdens), after subsection (6) insert—
+(3)[^c-b3a9e9311808f8ac2b426f554cd6442a] In section 20 (notice of termination of real burdens), after subsection (6) insert—
 
 > (7) This section applies to a real burden created by the conversion of a qualifying condition under Part 2 of the Long Leases (Scotland) Act 2012 (asp 9) as if the reference to the “**constitutive deed**” were a reference to the deed setting out the qualifying condition.
 
 .
 
-(4)[^key-b3a9e9311808f8ac2b426f554cd6442a] In section 63 (manager burdens)—
+(4)[^c-b3a9e9311808f8ac2b426f554cd6442a] In section 63 (manager burdens)—
 
 - (a) in subsection (4)(d), for “the case mentioned in subsection (6)” substitute “ either of the cases mentioned in subsection (6) or (6A) ”,
 - (b) in subsection (5)(a), for “the case” substitute “ either of the cases ”,
@@ -1791,7 +1791,7 @@ The short title of this Act is the Long Leases (Scotland) Act 2012.
   - (i) for “that” substitute “ those ”, and
   - (ii) for “subsection (6)” substitute “ subsections (6) or (6A) ”.
 
-(5)[^key-6f081383ee7993c7d5a9a2edb841c10d] In section 105 (consequential alterations to Land Register)—
+(5)[^c-6f081383ee7993c7d5a9a2edb841c10d] In section 105 (consequential alterations to Land Register)—
 
 - (a) in subsection (2), for the words from “section”, where it first occurs, to “Act”, where it second occurs, substitute
 
@@ -1812,7 +1812,7 @@ The short title of this Act is the Long Leases (Scotland) Act 2012.
 
   .
 
-(6)[^key-6f081383ee7993c7d5a9a2edb841c10d] In section 122 (interpretation), subsection (1)—
+(6)[^c-6f081383ee7993c7d5a9a2edb841c10d] In section 122 (interpretation), subsection (1)—
 
 - (a) in the definition of “conservation burden” the word “or” immediately following sub-paragraph (a) is repealed and after sub-paragraph (b) insert—
 
@@ -1826,228 +1826,228 @@ The short title of this Act is the Long Leases (Scotland) Act 2012.
 
 ## Annotations
 
-[^key-069543e96d861fe369e2b74d1b60897f]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2012/9/section/1) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/322/article/2/a)
+[^c-069543e96d861fe369e2b74d1b60897f]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2012/9/section/1) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/322/article/2/a)
 
-[^key-2b08414025871071df6b97fb203badb1]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2012/9/section/2) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/322/article/2/a)
+[^c-2b08414025871071df6b97fb203badb1]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2012/9/section/2) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/322/article/2/a)
 
-[^key-98ce1f9bf79dde0b5db2b1b1882e1511]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2012/9/section/3) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/322/article/2/a)
+[^c-98ce1f9bf79dde0b5db2b1b1882e1511]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2012/9/section/3) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/322/article/2/a)
 
-[^key-e8217583b54cde832c6bb77f0dc70e7a]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2012/9/section/4) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/322/article/2/a)
+[^c-e8217583b54cde832c6bb77f0dc70e7a]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2012/9/section/4) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/322/article/2/a)
 
-[^key-0984c4db8194bc311431869284f5036d]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2012/9/section/5) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/322/article/2/a)
+[^c-0984c4db8194bc311431869284f5036d]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2012/9/section/5) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/322/article/2/a)
 
-[^key-974b13aee1f254d1752c08615b23921c]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2012/9/section/6) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/322/article/2/a)
+[^c-974b13aee1f254d1752c08615b23921c]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2012/9/section/6) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/322/article/2/a)
 
-[^key-709750787a4dddab70937c3eeaa755df]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2012/9/section/7) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/322/article/2/a)
+[^c-709750787a4dddab70937c3eeaa755df]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2012/9/section/7) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/322/article/2/a)
 
-[^key-8758e46dc3f08319f121f1b62100abc2]: Commencement: S. 8(1)(3)-(11) in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(a)](https://www.legislation.gov.uk/ssi/2013/322/article/3/a)
+[^c-8758e46dc3f08319f121f1b62100abc2]: Commencement: S. 8(1)(3)-(11) in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(a)](https://www.legislation.gov.uk/ssi/2013/322/article/3/a)
 
-[^key-6a4236e700c1e6d22ec51395ad7ce90e]: Commencement: S. 8(2) in force at 28.11.2013 for specified purposes by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(m)](https://www.legislation.gov.uk/ssi/2013/322/article/2/m), [Sch.](https://www.legislation.gov.uk/ssi/2013/322/schedule)
+[^c-6a4236e700c1e6d22ec51395ad7ce90e]: Commencement: S. 8(2) in force at 28.11.2013 for specified purposes by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(m)](https://www.legislation.gov.uk/ssi/2013/322/article/2/m), [Sch.](https://www.legislation.gov.uk/ssi/2013/322/schedule)
 
-[^key-94b3aa2a4f20cf602434d7e1e29d7f5c]: Commencement: S. 8(2) in force at 21.2.2014 in so far as not already in force by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(a)](https://www.legislation.gov.uk/ssi/2013/322/article/3/a)
+[^c-94b3aa2a4f20cf602434d7e1e29d7f5c]: Commencement: S. 8(2) in force at 21.2.2014 in so far as not already in force by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(a)](https://www.legislation.gov.uk/ssi/2013/322/article/3/a)
 
-[^key-590100819fecb1cb155e8203280b385e]: Commencement: S. 9 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(a)](https://www.legislation.gov.uk/ssi/2013/322/article/3/a)
+[^c-590100819fecb1cb155e8203280b385e]: Commencement: S. 9 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(a)](https://www.legislation.gov.uk/ssi/2013/322/article/3/a)
 
-[^key-ce288f4ed7e89d47c56defca3bd3d86e]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2012/9/section/10) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(b)](https://www.legislation.gov.uk/ssi/2013/322/article/2/b)
+[^c-ce288f4ed7e89d47c56defca3bd3d86e]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2012/9/section/10) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(b)](https://www.legislation.gov.uk/ssi/2013/322/article/2/b)
 
-[^key-d2d0964686955693be9a5edf5e91dbee]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2012/9/section/11) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(b)](https://www.legislation.gov.uk/ssi/2013/322/article/2/b)
+[^c-d2d0964686955693be9a5edf5e91dbee]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2012/9/section/11) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(b)](https://www.legislation.gov.uk/ssi/2013/322/article/2/b)
 
-[^key-f46fe9cec02080b917203db034cff055]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2012/9/section/12) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(b)](https://www.legislation.gov.uk/ssi/2013/322/article/2/b)
+[^c-f46fe9cec02080b917203db034cff055]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2012/9/section/12) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(b)](https://www.legislation.gov.uk/ssi/2013/322/article/2/b)
 
-[^key-2c247ecf5fa2219e37fc7edb22e49f88]: Commencement: S. 13 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
+[^c-2c247ecf5fa2219e37fc7edb22e49f88]: Commencement: S. 13 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
 
-[^key-ac11f0b3da2ba739f3c87fb524a569ef]: Commencement: S. 14(1)(2)(3)(b)-(h)(4)-(6) in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
+[^c-ac11f0b3da2ba739f3c87fb524a569ef]: Commencement: S. 14(1)(2)(3)(b)-(h)(4)-(6) in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
 
-[^key-eb1d845085b9bab97beb7985586a33b1]: Commencement: S. 14(3)(a) in force at 28.11.2013 for specified purposes by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(m)](https://www.legislation.gov.uk/ssi/2013/322/article/2/m), [Sch.](https://www.legislation.gov.uk/ssi/2013/322/schedule)
+[^c-eb1d845085b9bab97beb7985586a33b1]: Commencement: S. 14(3)(a) in force at 28.11.2013 for specified purposes by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(m)](https://www.legislation.gov.uk/ssi/2013/322/article/2/m), [Sch.](https://www.legislation.gov.uk/ssi/2013/322/schedule)
 
-[^key-840106cfa47620eb85c2581736fc0408]: Commencement: S. 14(3)(a) in force at 21.2.2014 in so far as not already in force by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
+[^c-840106cfa47620eb85c2581736fc0408]: Commencement: S. 14(3)(a) in force at 21.2.2014 in so far as not already in force by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
 
-[^key-02b0a7b70ebefecbd2c7e0b3cd5c4930]: Commencement: S. 15 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
+[^c-02b0a7b70ebefecbd2c7e0b3cd5c4930]: Commencement: S. 15 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
 
-[^key-dfee3e719561064f9e605a218faf9cbb]: Commencement: S. 16 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
+[^c-dfee3e719561064f9e605a218faf9cbb]: Commencement: S. 16 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
 
-[^key-dc99bea5a680ea6b94e0db09482cf0c4]: Commencement: S. 17(1)-(3)(4)(b)-(f)(5)-(7) in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
+[^c-dc99bea5a680ea6b94e0db09482cf0c4]: Commencement: S. 17(1)-(3)(4)(b)-(f)(5)-(7) in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
 
-[^key-b792603dd5fdf8991b39e64b9a8458cd]: Commencement: S. 17(4)(a) in force at 28.11.2013 for specified purposes by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(m)](https://www.legislation.gov.uk/ssi/2013/322/article/2/m), [Sch.](https://www.legislation.gov.uk/ssi/2013/322/schedule)
+[^c-b792603dd5fdf8991b39e64b9a8458cd]: Commencement: S. 17(4)(a) in force at 28.11.2013 for specified purposes by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(m)](https://www.legislation.gov.uk/ssi/2013/322/article/2/m), [Sch.](https://www.legislation.gov.uk/ssi/2013/322/schedule)
 
-[^key-449cd63d0ae35a93f1b670bbd4925a07]: Commencement: S. 17(4)(a) in force at 21.2.2014 in so far as not already in force by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
+[^c-449cd63d0ae35a93f1b670bbd4925a07]: Commencement: S. 17(4)(a) in force at 21.2.2014 in so far as not already in force by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
 
-[^key-ce14fd64bcd6e4e7f0f7165a22925a9a]: Commencement: S. 18 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
+[^c-ce14fd64bcd6e4e7f0f7165a22925a9a]: Commencement: S. 18 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
 
-[^key-d20b33654ceaf74c78cc7c7183b68fb8]: Commencement: S. 19 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
+[^c-d20b33654ceaf74c78cc7c7183b68fb8]: Commencement: S. 19 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
 
-[^key-68be36720034b9c569353570a9c87ae7]: Commencement: S. 20 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
+[^c-68be36720034b9c569353570a9c87ae7]: Commencement: S. 20 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
 
-[^key-5545445619ab5d1c000bfce2e40db611]: Commencement: S. 21 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
+[^c-5545445619ab5d1c000bfce2e40db611]: Commencement: S. 21 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
 
-[^key-9981309fee31f9869b24906ad9db9596]: Commencement: S. 22 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
+[^c-9981309fee31f9869b24906ad9db9596]: Commencement: S. 22 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
 
-[^key-4ca4a209c355d104f55d913a240011ff]: Commencement: S. 23(1)(2)(3)(b)-(e)(4)-(12) in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
+[^c-4ca4a209c355d104f55d913a240011ff]: Commencement: S. 23(1)(2)(3)(b)-(e)(4)-(12) in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
 
-[^key-f99923f72d916db091d4fc832787038e]: Commencement: S. 23(3)(a) in force at 28.11.2013 for specified purposes by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(m)](https://www.legislation.gov.uk/ssi/2013/322/article/2/m), [Sch.](https://www.legislation.gov.uk/ssi/2013/322/schedule)
+[^c-f99923f72d916db091d4fc832787038e]: Commencement: S. 23(3)(a) in force at 28.11.2013 for specified purposes by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(m)](https://www.legislation.gov.uk/ssi/2013/322/article/2/m), [Sch.](https://www.legislation.gov.uk/ssi/2013/322/schedule)
 
-[^key-ccae8f041b68dc186b0dcc7a3b0de488]: Commencement: S. 23(3)(a) in force at 21.2.2014 in so far as not already in force by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
+[^c-ccae8f041b68dc186b0dcc7a3b0de488]: Commencement: S. 23(3)(a) in force at 21.2.2014 in so far as not already in force by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
 
-[^key-12780531a92d2081ed72cd18920ff1a9]: Commencement: S. 24(1)(2)(b)-(g)(3)-(5) in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
+[^c-12780531a92d2081ed72cd18920ff1a9]: Commencement: S. 24(1)(2)(b)-(g)(3)-(5) in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
 
-[^key-c93a8ddec03f6d3d80f4cfd7abb2b6ce]: Commencement: S. 24(2)(a) in force at 28.11.2013 for specified purposes by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(m)](https://www.legislation.gov.uk/ssi/2013/322/article/2/m), [Sch.](https://www.legislation.gov.uk/ssi/2013/322/schedule)
+[^c-c93a8ddec03f6d3d80f4cfd7abb2b6ce]: Commencement: S. 24(2)(a) in force at 28.11.2013 for specified purposes by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(m)](https://www.legislation.gov.uk/ssi/2013/322/article/2/m), [Sch.](https://www.legislation.gov.uk/ssi/2013/322/schedule)
 
-[^key-860435c008a3456bdeaa53b834190a8c]: Commencement: S. 24(2)(a) in force at 21.2.2014 in so far as not already in force by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
+[^c-860435c008a3456bdeaa53b834190a8c]: Commencement: S. 24(2)(a) in force at 21.2.2014 in so far as not already in force by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
 
-[^key-8e8ef19ca765c42c0c282a1a489cb3de]: Commencement: S. 25(1)(2)(b)-(g)(3)-(5) in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
+[^c-8e8ef19ca765c42c0c282a1a489cb3de]: Commencement: S. 25(1)(2)(b)-(g)(3)-(5) in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
 
-[^key-9af54fb6af8ac2dd89140e16176d71d8]: Commencement: S. 25(2)(a) in force at 28.11.2013 for specified purposes by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(m)](https://www.legislation.gov.uk/ssi/2013/322/article/2/m), [Sch.](https://www.legislation.gov.uk/ssi/2013/322/schedule)
+[^c-9af54fb6af8ac2dd89140e16176d71d8]: Commencement: S. 25(2)(a) in force at 28.11.2013 for specified purposes by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(m)](https://www.legislation.gov.uk/ssi/2013/322/article/2/m), [Sch.](https://www.legislation.gov.uk/ssi/2013/322/schedule)
 
-[^key-bb62b0602678739623515b9a1b0c868c]: Commencement: S. 25(2)(a) in force at 21.2.2014 in so far as not already in force by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
+[^c-bb62b0602678739623515b9a1b0c868c]: Commencement: S. 25(2)(a) in force at 21.2.2014 in so far as not already in force by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
 
-[^key-9028013006a29169885cb4204fa0dcfe]: Commencement: S. 26(1)(2)(b)-(g)(3)-(6) in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
+[^c-9028013006a29169885cb4204fa0dcfe]: Commencement: S. 26(1)(2)(b)-(g)(3)-(6) in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
 
-[^key-df979af9db1404b7b1617fcfd7e5def3]: Commencement: S. 26(2)(a) in force at 28.11.2013 for specified purposes by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(m)](https://www.legislation.gov.uk/ssi/2013/322/article/2/m), [Sch.](https://www.legislation.gov.uk/ssi/2013/322/schedule)
+[^c-df979af9db1404b7b1617fcfd7e5def3]: Commencement: S. 26(2)(a) in force at 28.11.2013 for specified purposes by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(m)](https://www.legislation.gov.uk/ssi/2013/322/article/2/m), [Sch.](https://www.legislation.gov.uk/ssi/2013/322/schedule)
 
-[^key-b20570096c57da5fd20577c3b112a71e]: Commencement: S. 26(2)(a) in force at 21.2.2014 in so far as not already in force by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
+[^c-b20570096c57da5fd20577c3b112a71e]: Commencement: S. 26(2)(a) in force at 21.2.2014 in so far as not already in force by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
 
-[^key-d396aae36fbc083573c9a1fe23b84624]: Commencement: S. 27(1)(2)(b)-(g)(3)-(6) in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
+[^c-d396aae36fbc083573c9a1fe23b84624]: Commencement: S. 27(1)(2)(b)-(g)(3)-(6) in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
 
-[^key-ed54293bd690a3f525ef23f1b996848d]: Commencement: S. 27(3)(a) in force at 28.11.2013 for specified purposes by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(m)](https://www.legislation.gov.uk/ssi/2013/322/article/2/m), [Sch.](https://www.legislation.gov.uk/ssi/2013/322/schedule)
+[^c-ed54293bd690a3f525ef23f1b996848d]: Commencement: S. 27(3)(a) in force at 28.11.2013 for specified purposes by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(m)](https://www.legislation.gov.uk/ssi/2013/322/article/2/m), [Sch.](https://www.legislation.gov.uk/ssi/2013/322/schedule)
 
-[^key-e40be8bb7471587601154e21da0c54b3]: Commencement: S. 27(3)(a) in force at 21.2.2014 in so far as not already in force by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
+[^c-e40be8bb7471587601154e21da0c54b3]: Commencement: S. 27(3)(a) in force at 21.2.2014 in so far as not already in force by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
 
-[^key-f1777fc32aada969e15fb20d7c88eda6]: Commencement: S. 28(1)(2)(3)(b)-(d)(4)-(6) in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
+[^c-f1777fc32aada969e15fb20d7c88eda6]: Commencement: S. 28(1)(2)(3)(b)-(d)(4)-(6) in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
 
-[^key-ba2e65d7cd13de30932a677e066ef52b]: Commencement: S. 28(3)(a) in force at 28.11.2013 for specified purposes by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(m)](https://www.legislation.gov.uk/ssi/2013/322/article/2/m), [Sch.](https://www.legislation.gov.uk/ssi/2013/322/schedule)
+[^c-ba2e65d7cd13de30932a677e066ef52b]: Commencement: S. 28(3)(a) in force at 28.11.2013 for specified purposes by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(m)](https://www.legislation.gov.uk/ssi/2013/322/article/2/m), [Sch.](https://www.legislation.gov.uk/ssi/2013/322/schedule)
 
-[^key-caceb4014957c639ba7957c3d52b141a]: Commencement: S. 28(3)(a) in force at 21.2.2014 in so far as not already in force by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
+[^c-caceb4014957c639ba7957c3d52b141a]: Commencement: S. 28(3)(a) in force at 21.2.2014 in so far as not already in force by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(b)](https://www.legislation.gov.uk/ssi/2013/322/article/3/b)
 
-[^key-05db94b48eb213e4696e8319272a7ca9]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2012/9/section/29) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(c)](https://www.legislation.gov.uk/ssi/2013/322/article/2/c)
+[^c-05db94b48eb213e4696e8319272a7ca9]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2012/9/section/29) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(c)](https://www.legislation.gov.uk/ssi/2013/322/article/2/c)
 
-[^key-b5608465622fc15f01c1fba6a1a91723]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2012/9/section/30) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(c)](https://www.legislation.gov.uk/ssi/2013/322/article/2/c)
+[^c-b5608465622fc15f01c1fba6a1a91723]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2012/9/section/30) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(c)](https://www.legislation.gov.uk/ssi/2013/322/article/2/c)
 
-[^key-b333d0e36b11d8b5d40ddf03014fd6de]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2012/9/section/31) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(c)](https://www.legislation.gov.uk/ssi/2013/322/article/2/c)
+[^c-b333d0e36b11d8b5d40ddf03014fd6de]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2012/9/section/31) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(c)](https://www.legislation.gov.uk/ssi/2013/322/article/2/c)
 
-[^key-761646def5c5ddaab0e6d679e93638e9]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2012/9/section/32) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(c)](https://www.legislation.gov.uk/ssi/2013/322/article/2/c)
+[^c-761646def5c5ddaab0e6d679e93638e9]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2012/9/section/32) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(c)](https://www.legislation.gov.uk/ssi/2013/322/article/2/c)
 
-[^key-1faf1359514a0e5b1934495cf3814f9f]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2012/9/section/33) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(c)](https://www.legislation.gov.uk/ssi/2013/322/article/2/c)
+[^c-1faf1359514a0e5b1934495cf3814f9f]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2012/9/section/33) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(c)](https://www.legislation.gov.uk/ssi/2013/322/article/2/c)
 
-[^key-9a6a45457f05a76f701bfcd128f30544]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2012/9/section/34) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(c)](https://www.legislation.gov.uk/ssi/2013/322/article/2/c)
+[^c-9a6a45457f05a76f701bfcd128f30544]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2012/9/section/34) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(c)](https://www.legislation.gov.uk/ssi/2013/322/article/2/c)
 
-[^key-a070394857abc53c94616de36f184655]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2012/9/section/35) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(c)](https://www.legislation.gov.uk/ssi/2013/322/article/2/c)
+[^c-a070394857abc53c94616de36f184655]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2012/9/section/35) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(c)](https://www.legislation.gov.uk/ssi/2013/322/article/2/c)
 
-[^key-52ea64d645a271e29f2148c8dddb42d0]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2012/9/section/36) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(c)](https://www.legislation.gov.uk/ssi/2013/322/article/2/c)
+[^c-52ea64d645a271e29f2148c8dddb42d0]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2012/9/section/36) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(c)](https://www.legislation.gov.uk/ssi/2013/322/article/2/c)
 
-[^key-132f4a7b09c24382287590e8bedc330b]: Commencement: S. 37 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(c)](https://www.legislation.gov.uk/ssi/2013/322/article/3/c)
+[^c-132f4a7b09c24382287590e8bedc330b]: Commencement: S. 37 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(c)](https://www.legislation.gov.uk/ssi/2013/322/article/3/c)
 
-[^key-8c646864092cac79496044ebc917140f]: Commencement: S. 38 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(c)](https://www.legislation.gov.uk/ssi/2013/322/article/3/c)
+[^c-8c646864092cac79496044ebc917140f]: Commencement: S. 38 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(c)](https://www.legislation.gov.uk/ssi/2013/322/article/3/c)
 
-[^key-d8178d147e33dd0530a1ca056b4c07c6]: Commencement: S. 39 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(c)](https://www.legislation.gov.uk/ssi/2013/322/article/3/c)
+[^c-d8178d147e33dd0530a1ca056b4c07c6]: Commencement: S. 39 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(c)](https://www.legislation.gov.uk/ssi/2013/322/article/3/c)
 
-[^key-7a22673e719df250e4e8c9dec9b740f3]: Commencement: S. 40 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(c)](https://www.legislation.gov.uk/ssi/2013/322/article/3/c)
+[^c-7a22673e719df250e4e8c9dec9b740f3]: Commencement: S. 40 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(c)](https://www.legislation.gov.uk/ssi/2013/322/article/3/c)
 
-[^key-5531390f3a757c7b9e2afe6aaeaabaf5]: Commencement: S. 41 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(c)](https://www.legislation.gov.uk/ssi/2013/322/article/3/c)
+[^c-5531390f3a757c7b9e2afe6aaeaabaf5]: Commencement: S. 41 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(c)](https://www.legislation.gov.uk/ssi/2013/322/article/3/c)
 
-[^key-2f4f61ded8669ee76d5754fcc17af6ae]: Commencement: S. 42 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(c)](https://www.legislation.gov.uk/ssi/2013/322/article/3/c)
+[^c-2f4f61ded8669ee76d5754fcc17af6ae]: Commencement: S. 42 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(c)](https://www.legislation.gov.uk/ssi/2013/322/article/3/c)
 
-[^key-85636c5690286804d79b3260cea3aa58]: Commencement: S. 43 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(c)](https://www.legislation.gov.uk/ssi/2013/322/article/3/c)
+[^c-85636c5690286804d79b3260cea3aa58]: Commencement: S. 43 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(c)](https://www.legislation.gov.uk/ssi/2013/322/article/3/c)
 
-[^key-06d5328ee0e888044d2e78edaaa23994]: Commencement: S. 44 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(c)](https://www.legislation.gov.uk/ssi/2013/322/article/3/c)
+[^c-06d5328ee0e888044d2e78edaaa23994]: Commencement: S. 44 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(c)](https://www.legislation.gov.uk/ssi/2013/322/article/3/c)
 
-[^key-c45b008ce97eea9ecd0ccfb45233b501]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2012/9/section/45) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(d)](https://www.legislation.gov.uk/ssi/2013/322/article/2/d)
+[^c-c45b008ce97eea9ecd0ccfb45233b501]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2012/9/section/45) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(d)](https://www.legislation.gov.uk/ssi/2013/322/article/2/d)
 
-[^key-52a11b57573e0503b98bd5ad7e15bea8]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2012/9/section/46) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(d)](https://www.legislation.gov.uk/ssi/2013/322/article/2/d)
+[^c-52a11b57573e0503b98bd5ad7e15bea8]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2012/9/section/46) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(d)](https://www.legislation.gov.uk/ssi/2013/322/article/2/d)
 
-[^key-08f411805f08fa55535d05d368ecffb1]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2012/9/section/47) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(d)](https://www.legislation.gov.uk/ssi/2013/322/article/2/d)
+[^c-08f411805f08fa55535d05d368ecffb1]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2012/9/section/47) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(d)](https://www.legislation.gov.uk/ssi/2013/322/article/2/d)
 
-[^key-ee4e312ecc1ab8fc681cb1d560c8fcbf]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2012/9/section/48) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(d)](https://www.legislation.gov.uk/ssi/2013/322/article/2/d)
+[^c-ee4e312ecc1ab8fc681cb1d560c8fcbf]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2012/9/section/48) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(d)](https://www.legislation.gov.uk/ssi/2013/322/article/2/d)
 
-[^key-14dd5a69925063b26c85dba569260311]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2012/9/section/49) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(d)](https://www.legislation.gov.uk/ssi/2013/322/article/2/d)
+[^c-14dd5a69925063b26c85dba569260311]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2012/9/section/49) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(d)](https://www.legislation.gov.uk/ssi/2013/322/article/2/d)
 
-[^key-90d9d25aa0447861b95033cf254fede6]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2012/9/section/50) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(d)](https://www.legislation.gov.uk/ssi/2013/322/article/2/d)
+[^c-90d9d25aa0447861b95033cf254fede6]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2012/9/section/50) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(d)](https://www.legislation.gov.uk/ssi/2013/322/article/2/d)
 
-[^key-318729ffd4b2ee260c4497e7532a1e78]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2012/9/section/51) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(d)](https://www.legislation.gov.uk/ssi/2013/322/article/2/d)
+[^c-318729ffd4b2ee260c4497e7532a1e78]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2012/9/section/51) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(d)](https://www.legislation.gov.uk/ssi/2013/322/article/2/d)
 
-[^key-83c9dde64dcaa7a88eb455190af048fd]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2012/9/section/52) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(d)](https://www.legislation.gov.uk/ssi/2013/322/article/2/d)
+[^c-83c9dde64dcaa7a88eb455190af048fd]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2012/9/section/52) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(d)](https://www.legislation.gov.uk/ssi/2013/322/article/2/d)
 
-[^key-dc7d9cc412e24a289365519e86f5180f]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2012/9/section/53) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(d)](https://www.legislation.gov.uk/ssi/2013/322/article/2/d)
+[^c-dc7d9cc412e24a289365519e86f5180f]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2012/9/section/53) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(d)](https://www.legislation.gov.uk/ssi/2013/322/article/2/d)
 
-[^key-fb551b324bdb3d2ab605cc835890dafc]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2012/9/section/54) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(d)](https://www.legislation.gov.uk/ssi/2013/322/article/2/d)
+[^c-fb551b324bdb3d2ab605cc835890dafc]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2012/9/section/54) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(d)](https://www.legislation.gov.uk/ssi/2013/322/article/2/d)
 
-[^key-3ef5b70c7fbb049d47f8090fa2c483d2]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2012/9/section/55) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(d)](https://www.legislation.gov.uk/ssi/2013/322/article/2/d)
+[^c-3ef5b70c7fbb049d47f8090fa2c483d2]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2012/9/section/55) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(d)](https://www.legislation.gov.uk/ssi/2013/322/article/2/d)
 
-[^key-5e02169b4eef7752dfe0a2fe84abbd04]: Commencement: S. 56(1)(2)(3)(b)(4) in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(d)](https://www.legislation.gov.uk/ssi/2013/322/article/3/d)
+[^c-5e02169b4eef7752dfe0a2fe84abbd04]: Commencement: S. 56(1)(2)(3)(b)(4) in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(d)](https://www.legislation.gov.uk/ssi/2013/322/article/3/d)
 
-[^key-15d9f59eb9bce90522049b2734c07ec7]: Commencement: S. 56(3)(a)(c) in force at 28.11.2013 for specified purposes by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(m)](https://www.legislation.gov.uk/ssi/2013/322/article/2/m), [Sch.](https://www.legislation.gov.uk/ssi/2013/322/schedule)
+[^c-15d9f59eb9bce90522049b2734c07ec7]: Commencement: S. 56(3)(a)(c) in force at 28.11.2013 for specified purposes by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(m)](https://www.legislation.gov.uk/ssi/2013/322/article/2/m), [Sch.](https://www.legislation.gov.uk/ssi/2013/322/schedule)
 
-[^key-60ff40084d2ef9f67267df403d2624ab]: Commencement: S. 56(3)(a)(c) in force at 21.2.2014 in so far as not already in force by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(d)](https://www.legislation.gov.uk/ssi/2013/322/article/3/d)
+[^c-60ff40084d2ef9f67267df403d2624ab]: Commencement: S. 56(3)(a)(c) in force at 21.2.2014 in so far as not already in force by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(d)](https://www.legislation.gov.uk/ssi/2013/322/article/3/d)
 
-[^key-fa959d93ff7c1ee8a3fe054f418266cd]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2012/9/section/57) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(e)](https://www.legislation.gov.uk/ssi/2013/322/article/2/e)
+[^c-fa959d93ff7c1ee8a3fe054f418266cd]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2012/9/section/57) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(e)](https://www.legislation.gov.uk/ssi/2013/322/article/2/e)
 
-[^key-d9de333a3d194564d4e2cd3dcb9cd7bd]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2012/9/section/58) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(e)](https://www.legislation.gov.uk/ssi/2013/322/article/2/e)
+[^c-d9de333a3d194564d4e2cd3dcb9cd7bd]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2012/9/section/58) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(e)](https://www.legislation.gov.uk/ssi/2013/322/article/2/e)
 
-[^key-61a7d329ff9b205750704f529a07dadd]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2012/9/section/59) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(e)](https://www.legislation.gov.uk/ssi/2013/322/article/2/e)
+[^c-61a7d329ff9b205750704f529a07dadd]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2012/9/section/59) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(e)](https://www.legislation.gov.uk/ssi/2013/322/article/2/e)
 
-[^key-f58208c0f2f5463189188d9d5c522eb7]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2012/9/section/60) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(e)](https://www.legislation.gov.uk/ssi/2013/322/article/2/e)
+[^c-f58208c0f2f5463189188d9d5c522eb7]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2012/9/section/60) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(e)](https://www.legislation.gov.uk/ssi/2013/322/article/2/e)
 
-[^key-b7a286d2dfc8ceec25832851948e824a]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2012/9/section/61) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(e)](https://www.legislation.gov.uk/ssi/2013/322/article/2/e)
+[^c-b7a286d2dfc8ceec25832851948e824a]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2012/9/section/61) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(e)](https://www.legislation.gov.uk/ssi/2013/322/article/2/e)
 
-[^key-42c675de5487583c18b3c2f60ce073d4]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2012/9/section/62) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(e)](https://www.legislation.gov.uk/ssi/2013/322/article/2/e)
+[^c-42c675de5487583c18b3c2f60ce073d4]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2012/9/section/62) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(e)](https://www.legislation.gov.uk/ssi/2013/322/article/2/e)
 
-[^key-0dcf6648126821bdeb65252e6ae4680e]: Commencement: S. 63(a) in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(e)](https://www.legislation.gov.uk/ssi/2013/322/article/3/e)
+[^c-0dcf6648126821bdeb65252e6ae4680e]: Commencement: S. 63(a) in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(e)](https://www.legislation.gov.uk/ssi/2013/322/article/3/e)
 
-[^key-43cb8e6aba4925ba902553827c817425]: Commencement: S. 63(b) in force at 28.11.2013 for specified purposes by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(m)](https://www.legislation.gov.uk/ssi/2013/322/article/2/m), [Sch.](https://www.legislation.gov.uk/ssi/2013/322/schedule)
+[^c-43cb8e6aba4925ba902553827c817425]: Commencement: S. 63(b) in force at 28.11.2013 for specified purposes by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(m)](https://www.legislation.gov.uk/ssi/2013/322/article/2/m), [Sch.](https://www.legislation.gov.uk/ssi/2013/322/schedule)
 
-[^key-4a7ea27ed95b6dc288008d3968424c9d]: Commencement: S. 63(b) in force at 21.2.2014 in so far as not already in force by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(e)](https://www.legislation.gov.uk/ssi/2013/322/article/3/e)
+[^c-4a7ea27ed95b6dc288008d3968424c9d]: Commencement: S. 63(b) in force at 21.2.2014 in so far as not already in force by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(e)](https://www.legislation.gov.uk/ssi/2013/322/article/3/e)
 
-[^key-d6a0cb1ed578395f0f10377852a430ce]: Commencement: S. 64(1)(2)(b)(2)(c)(3) in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(e)](https://www.legislation.gov.uk/ssi/2013/322/article/3/e)
+[^c-d6a0cb1ed578395f0f10377852a430ce]: Commencement: S. 64(1)(2)(b)(2)(c)(3) in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(e)](https://www.legislation.gov.uk/ssi/2013/322/article/3/e)
 
-[^key-4738c20d359210e83f7353d16dd3862e]: Commencement: S. 64(2)(a) in force at 28.11.2013 for specified purposes by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(m)](https://www.legislation.gov.uk/ssi/2013/322/article/2/m), [Sch.](https://www.legislation.gov.uk/ssi/2013/322/schedule)
+[^c-4738c20d359210e83f7353d16dd3862e]: Commencement: S. 64(2)(a) in force at 28.11.2013 for specified purposes by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(m)](https://www.legislation.gov.uk/ssi/2013/322/article/2/m), [Sch.](https://www.legislation.gov.uk/ssi/2013/322/schedule)
 
-[^key-c13c8866c92694a59f2145c4eb552d53]: Commencement: S. 64(2)(a) in force at 21.2.2014 in so far as not already in force by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(e)](https://www.legislation.gov.uk/ssi/2013/322/article/3/e)
+[^c-c13c8866c92694a59f2145c4eb552d53]: Commencement: S. 64(2)(a) in force at 21.2.2014 in so far as not already in force by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(e)](https://www.legislation.gov.uk/ssi/2013/322/article/3/e)
 
-[^key-f2f818c880ff8dedd1f33849b53f500e]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2012/9/section/65) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(f)](https://www.legislation.gov.uk/ssi/2013/322/article/2/f)
+[^c-f2f818c880ff8dedd1f33849b53f500e]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2012/9/section/65) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(f)](https://www.legislation.gov.uk/ssi/2013/322/article/2/f)
 
-[^key-7d765a6f8787801dc3b5f19fac51e5c8]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2012/9/section/66) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(f)](https://www.legislation.gov.uk/ssi/2013/322/article/2/f)
+[^c-7d765a6f8787801dc3b5f19fac51e5c8]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2012/9/section/66) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(f)](https://www.legislation.gov.uk/ssi/2013/322/article/2/f)
 
-[^key-7f8e1ed998b9d2d8e220a23240c89ccf]: Commencement: S. 67(1)(a)(2)-(4) in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(f)](https://www.legislation.gov.uk/ssi/2013/322/article/3/f)
+[^c-7f8e1ed998b9d2d8e220a23240c89ccf]: Commencement: S. 67(1)(a)(2)-(4) in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(f)](https://www.legislation.gov.uk/ssi/2013/322/article/3/f)
 
-[^key-b7c7c6bed74dcd76685694739ed4b3a8]: Commencement: S. 67(1)(b) in force at 28.11.2013 for specified purposes by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(m)](https://www.legislation.gov.uk/ssi/2013/322/article/2/m), [Sch.](https://www.legislation.gov.uk/ssi/2013/322/schedule)
+[^c-b7c7c6bed74dcd76685694739ed4b3a8]: Commencement: S. 67(1)(b) in force at 28.11.2013 for specified purposes by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(m)](https://www.legislation.gov.uk/ssi/2013/322/article/2/m), [Sch.](https://www.legislation.gov.uk/ssi/2013/322/schedule)
 
-[^key-0eb82ff8c850102afb80b505844a79b5]: Commencement: S. 67(1)(b) in force at 21.2.2014 in so far as not already in force by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(f)](https://www.legislation.gov.uk/ssi/2013/322/article/3/f)
+[^c-0eb82ff8c850102afb80b505844a79b5]: Commencement: S. 67(1)(b) in force at 21.2.2014 in so far as not already in force by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(f)](https://www.legislation.gov.uk/ssi/2013/322/article/3/f)
 
-[^key-e012c8a7ce3fdcffe4818061f77d86c1]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2012/9/section/68) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(g)](https://www.legislation.gov.uk/ssi/2013/322/article/2/g)
+[^c-e012c8a7ce3fdcffe4818061f77d86c1]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2012/9/section/68) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(g)](https://www.legislation.gov.uk/ssi/2013/322/article/2/g)
 
-[^key-127bec8402d42f72d6da4fcb3d45349f]: Commencement: S. 69 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(g)](https://www.legislation.gov.uk/ssi/2013/322/article/3/g)
+[^c-127bec8402d42f72d6da4fcb3d45349f]: Commencement: S. 69 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(g)](https://www.legislation.gov.uk/ssi/2013/322/article/3/g)
 
-[^key-a441bbd02d8e7611125aa97843e5fd3e]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2012/9/section/70) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(h)](https://www.legislation.gov.uk/ssi/2013/322/article/2/h)
+[^c-a441bbd02d8e7611125aa97843e5fd3e]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2012/9/section/70) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(h)](https://www.legislation.gov.uk/ssi/2013/322/article/2/h)
 
-[^key-6e2fb7576ea7bed8b4f6c0fa4e05698c]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2012/9/section/71) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(h)](https://www.legislation.gov.uk/ssi/2013/322/article/2/h)
+[^c-6e2fb7576ea7bed8b4f6c0fa4e05698c]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2012/9/section/71) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(h)](https://www.legislation.gov.uk/ssi/2013/322/article/2/h)
 
-[^key-c255642baac4ea92c3b97033269fce7e]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2012/9/section/72) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(h)](https://www.legislation.gov.uk/ssi/2013/322/article/2/h)
+[^c-c255642baac4ea92c3b97033269fce7e]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2012/9/section/72) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(h)](https://www.legislation.gov.uk/ssi/2013/322/article/2/h)
 
-[^key-d0a936dec03377e9cadaca41a7445665]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2012/9/section/73) in force at 28.9.2015 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 5](https://www.legislation.gov.uk/ssi/2013/322/article/5)
+[^c-d0a936dec03377e9cadaca41a7445665]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2012/9/section/73) in force at 28.9.2015 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 5](https://www.legislation.gov.uk/ssi/2013/322/article/5)
 
-[^key-361868b739319785324406474a4997c5]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2012/9/section/74) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(i)](https://www.legislation.gov.uk/ssi/2013/322/article/2/i)
+[^c-361868b739319785324406474a4997c5]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2012/9/section/74) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(i)](https://www.legislation.gov.uk/ssi/2013/322/article/2/i)
 
-[^key-8c2abaad32f4bb6f1b3d4f02881af8c6]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2012/9/section/75) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(i)](https://www.legislation.gov.uk/ssi/2013/322/article/2/i)
+[^c-8c2abaad32f4bb6f1b3d4f02881af8c6]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2012/9/section/75) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(i)](https://www.legislation.gov.uk/ssi/2013/322/article/2/i)
 
-[^key-34b79fde669e6541d5963ad6bce30b68]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2012/9/section/76) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(i)](https://www.legislation.gov.uk/ssi/2013/322/article/2/i)
+[^c-34b79fde669e6541d5963ad6bce30b68]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2012/9/section/76) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(i)](https://www.legislation.gov.uk/ssi/2013/322/article/2/i)
 
-[^key-504e2191a2c5ad977fd4838cf596dfc3]: Commencement: S. 77 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(h)](https://www.legislation.gov.uk/ssi/2013/322/article/3/h)
+[^c-504e2191a2c5ad977fd4838cf596dfc3]: Commencement: S. 77 in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(h)](https://www.legislation.gov.uk/ssi/2013/322/article/3/h)
 
-[^key-1ade9a9d0474d507ea814ddea3c0e3d8]: Commencement: [S. 78(1)-(4)](https://www.legislation.gov.uk/asp/2012/9/section/78/1) in force at 6.3.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 4](https://www.legislation.gov.uk/ssi/2013/322/article/4)
+[^c-1ade9a9d0474d507ea814ddea3c0e3d8]: Commencement: [S. 78(1)-(4)](https://www.legislation.gov.uk/asp/2012/9/section/78/1) in force at 6.3.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 4](https://www.legislation.gov.uk/ssi/2013/322/article/4)
 
-[^key-e2f5540b2130bcae9774c6af211f2910]: Modification: [S. 78(2)](https://www.legislation.gov.uk/asp/2012/9/section/78/2) modified (6.3.2014) by [The Long Leases (Appeal Period) (Scotland) Order 2014 (S.S.I. 2014/8)](https://www.legislation.gov.uk/ssi/2014/8), [arts. 1](https://www.legislation.gov.uk/ssi/2014/8/article/1), [2](https://www.legislation.gov.uk/ssi/2014/8/article/2)
+[^c-e2f5540b2130bcae9774c6af211f2910]: Modification: [S. 78(2)](https://www.legislation.gov.uk/asp/2012/9/section/78/2) modified (6.3.2014) by [The Long Leases (Appeal Period) (Scotland) Order 2014 (S.S.I. 2014/8)](https://www.legislation.gov.uk/ssi/2014/8), [arts. 1](https://www.legislation.gov.uk/ssi/2014/8/article/1), [2](https://www.legislation.gov.uk/ssi/2014/8/article/2)
 
-[^key-d00f49250bf58cf6c4277b2fd4eb7938]: Commencement: [S. 78(5)](https://www.legislation.gov.uk/asp/2012/9/section/78/5)[(6)](https://www.legislation.gov.uk/asp/2012/9/section/78/6) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(j)](https://www.legislation.gov.uk/ssi/2013/322/article/2/j)
+[^c-d00f49250bf58cf6c4277b2fd4eb7938]: Commencement: [S. 78(5)](https://www.legislation.gov.uk/asp/2012/9/section/78/5)[(6)](https://www.legislation.gov.uk/asp/2012/9/section/78/6) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(j)](https://www.legislation.gov.uk/ssi/2013/322/article/2/j)
 
-[^key-5b891642af1584ee02c5be3d1a4da8fd]: Commencement: S. 79 in force at 28.11.2013 for specified purposes by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(I)](https://www.legislation.gov.uk/ssi/2013/322/article/2/I)
+[^c-5b891642af1584ee02c5be3d1a4da8fd]: Commencement: S. 79 in force at 28.11.2013 for specified purposes by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(I)](https://www.legislation.gov.uk/ssi/2013/322/article/2/I)
 
-[^key-8454bcba93b4be2585c36bc3251b3689]: Commencement: S. 79 in force at 21.2.2014 in so far as not already in force by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(i)](https://www.legislation.gov.uk/ssi/2013/322/article/3/i)
+[^c-8454bcba93b4be2585c36bc3251b3689]: Commencement: S. 79 in force at 21.2.2014 in so far as not already in force by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(i)](https://www.legislation.gov.uk/ssi/2013/322/article/3/i)
 
-[^key-d8cd81557a6a6c63300d43bb3a9103af]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2012/9/section/80) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(k)](https://www.legislation.gov.uk/ssi/2013/322/article/2/k)
+[^c-d8cd81557a6a6c63300d43bb3a9103af]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2012/9/section/80) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(k)](https://www.legislation.gov.uk/ssi/2013/322/article/2/k)
 
-[^key-5e10b63808324acb4468e8341e5512f8]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2012/9/schedule/paragraph/1) in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(i)](https://www.legislation.gov.uk/ssi/2013/322/article/3/i)
+[^c-5e10b63808324acb4468e8341e5512f8]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2012/9/schedule/paragraph/1) in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(i)](https://www.legislation.gov.uk/ssi/2013/322/article/3/i)
 
-[^key-535e9fc1cf90e5eb9e5253bde3895390]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2012/9/schedule/paragraph/2) in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(i)](https://www.legislation.gov.uk/ssi/2013/322/article/3/i)
+[^c-535e9fc1cf90e5eb9e5253bde3895390]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2012/9/schedule/paragraph/2) in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(i)](https://www.legislation.gov.uk/ssi/2013/322/article/3/i)
 
-[^key-6f081383ee7993c7d5a9a2edb841c10d]: Commencement: [Sch. para. 3(1)](https://www.legislation.gov.uk/asp/2012/9/schedule/paragraph/3/1)[(5)](https://www.legislation.gov.uk/asp/2012/9/schedule/paragraph/3/5)[(6)](https://www.legislation.gov.uk/asp/2012/9/schedule/paragraph/3/6) in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(i)](https://www.legislation.gov.uk/ssi/2013/322/article/3/i)
+[^c-6f081383ee7993c7d5a9a2edb841c10d]: Commencement: [Sch. para. 3(1)](https://www.legislation.gov.uk/asp/2012/9/schedule/paragraph/3/1)[(5)](https://www.legislation.gov.uk/asp/2012/9/schedule/paragraph/3/5)[(6)](https://www.legislation.gov.uk/asp/2012/9/schedule/paragraph/3/6) in force at 21.2.2014 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 3(i)](https://www.legislation.gov.uk/ssi/2013/322/article/3/i)
 
-[^key-b3a9e9311808f8ac2b426f554cd6442a]: Commencement: [Sch. para. 3(2)-(4)](https://www.legislation.gov.uk/asp/2012/9/schedule/paragraph/3/2) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(I)](https://www.legislation.gov.uk/ssi/2013/322/article/2/I)
+[^c-b3a9e9311808f8ac2b426f554cd6442a]: Commencement: [Sch. para. 3(2)-(4)](https://www.legislation.gov.uk/asp/2012/9/schedule/paragraph/3/2) in force at 28.11.2013 by [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(I)](https://www.legislation.gov.uk/ssi/2013/322/article/2/I)

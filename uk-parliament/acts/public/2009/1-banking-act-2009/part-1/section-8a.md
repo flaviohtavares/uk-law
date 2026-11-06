@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8A. Specific condition: bail-in[^key-7e38093c450de3a8617b6aa668c07d9b]
+## 8A. Specific condition: bail-in[^c-7e38093c450de3a8617b6aa668c07d9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e38093c450de3a8617b6aa668c07d9b]: Textual amendment: S. 8A omitted (1.1.2015) by virtue of [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [16](https://www.legislation.gov.uk/uksi/2014/3329/article/16)
+[^c-7e38093c450de3a8617b6aa668c07d9b]: Textual amendment: S. 8A omitted (1.1.2015) by virtue of [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [16](https://www.legislation.gov.uk/uksi/2014/3329/article/16)

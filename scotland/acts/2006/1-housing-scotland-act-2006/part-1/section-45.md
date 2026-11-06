@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Maintenance plans for two or more houses: further provision[^key-d0d5427b9717799e9441599189b1b311]
+## 45. Maintenance plans for two or more houses: further provision[^c-d0d5427b9717799e9441599189b1b311]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d0d5427b9717799e9441599189b1b311]: Commencement: S. 45 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-d0d5427b9717799e9441599189b1b311]: Commencement: S. 45 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

@@ -46,15 +46,15 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 80 and 113(1) and paragraph 1 of schedule 2 of the Local Government Finance Act 1992 [^c23709961] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-9b805d751145d08a1a330b57df7bada1]
+## 1. Citation and commencement[^c-9b805d751145d08a1a330b57df7bada1]
 
 These Regulations may be cited as the Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2019 and come into force on 1 June 2019.
 
-## 2. Amendment of the Council Tax Reduction (Scotland) Regulations 2012[^key-b4d76680895022a752bd1f461e906908]
+## 2. Amendment of the Council Tax Reduction (Scotland) Regulations 2012[^c-b4d76680895022a752bd1f461e906908]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^key-c4c43d215346c84f359dfea3948ca4b1]
+## 3. Amendment of the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^c-c4c43d215346c84f359dfea3948ca4b1]
 
 In schedule 4 (capital disregards) of the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012 [^c23709991], in paragraph 21(2)(n) after “to” insert “ regulation 2(1) of the Discretionary Financial Assistance Regulations 2001 [^c23710001] or ”.
 
@@ -78,11 +78,11 @@ The Social Security (Scotland) Act 2018 (asp 9) provides for local authorities t
 
 [^c23709961]: Marginal citation: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14). Section 80 and paragraph 1 of schedule 2 were amended by paragraph 176 of schedule 13 of the [Local Government etc. (Scotland) Act 1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39). There are other amendments to section 80 and amendments to section 113(1) that are not relevant to these Regulations. The functions of the Secretary of State, in so far as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-9b805d751145d08a1a330b57df7bada1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/133/regulation/1) in force at 1.6.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/133/regulation/1)
+[^c-9b805d751145d08a1a330b57df7bada1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/133/regulation/1) in force at 1.6.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/133/regulation/1)
 
-[^key-b4d76680895022a752bd1f461e906908]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/ssi/2019/133/regulation/2) revoked (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
+[^c-b4d76680895022a752bd1f461e906908]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/ssi/2019/133/regulation/2) revoked (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
 
-[^key-c4c43d215346c84f359dfea3948ca4b1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2019/133/regulation/3) in force at 1.6.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/133/regulation/1)
+[^c-c4c43d215346c84f359dfea3948ca4b1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2019/133/regulation/3) in force at 1.6.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/133/regulation/1)
 
 [^c23709991]: Marginal citation: [S.S.I. 2012/319](https://www.legislation.gov.uk/ssi/2012/319), relevantly amended by [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142), [S.S.I. 2015/46](https://www.legislation.gov.uk/ssi/2015/46), [S.S.I. 2016/81](https://www.legislation.gov.uk/ssi/2016/81), [S.S.I. 2017/326](https://www.legislation.gov.uk/ssi/2017/326), [S.S.I. 2018/211](https://www.legislation.gov.uk/ssi/2018/211) and [S.S.I. 2019/29](https://www.legislation.gov.uk/ssi/2019/29).
 

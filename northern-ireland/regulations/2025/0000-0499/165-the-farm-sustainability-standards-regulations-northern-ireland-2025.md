@@ -44,7 +44,7 @@ Coming into operation
 
 The Department of Agriculture, Environment and Rural Affairs, in exercise of the powers conferred by sections 48 and 50(3)(a) of, and paragraph 5 of Schedule 6 to, the Agriculture Act[^f00001], make the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-3bf3b1355ef182a4097b4f62a76bbdbf]
+## 1. Citation, commencement and interpretation[^c-3bf3b1355ef182a4097b4f62a76bbdbf]
 
 (1) These Regulations may be cited as the Farm Sustainability Standards Regulations (Northern Ireland) 2025 and come into operation on 1st January 2026.
 
@@ -69,33 +69,33 @@ The Department of Agriculture, Environment and Rural Affairs, in exercise of the
 
 (6) Other expressions used in these Regulations shall be construed in accordance with the Direct Payment Regulation.
 
-## 2. Farm Sustainability Standards[^key-9a300c122712ef585b7ebeac682779f0]
+## 2. Farm Sustainability Standards[^c-9a300c122712ef585b7ebeac682779f0]
 
 (1) For Annex II of the Horizontal Regulation, substitute Annexe II as set out in Part 2 of Schedule 1.
 
 (2) The Farm Sustainability Standards set out in Part 2 of the Schedule apply as the minimum requirements for the purposes of Article 94 of, and Annex II to, the Horizontal Regulation.
 
-## 3. Amendment of the Horizontal Regulation[^key-ae6d8bf9504c1eaad5cca1d14c895702]
+## 3. Amendment of the Horizontal Regulation[^c-ae6d8bf9504c1eaad5cca1d14c895702]
 
 Paragraph 1 of Part 1 of Schedule 1 amends the Horizontal Regulation.
 
-## 4. Amendment of the Commission Delegated Regulation[^key-965cb22f64c37162ce7f49086fca6f4c]
+## 4. Amendment of the Commission Delegated Regulation[^c-965cb22f64c37162ce7f49086fca6f4c]
 
 Paragraph 2 of Part 1 of Schedule 1 amends the Commission Delegated Regulation.
 
-## 5. Amendment of the Commission Implementing Regulation[^key-6a6c40d4634e4893bb2edbdbb9800fff]
+## 5. Amendment of the Commission Implementing Regulation[^c-6a6c40d4634e4893bb2edbdbb9800fff]
 
 Paragraph 3 of Part 1 of Schedule 1 amends the Commission Implementing Regulation.
 
-## 6. Underpinning requirements[^key-014c4d6d2f3af6d619375c3db9874444]
+## 6. Underpinning requirements[^c-014c4d6d2f3af6d619375c3db9874444]
 
 Schedule 2 which makes provision for farm sustainability standards environmental protection requirements under Article 94 of the Horizontal Regulation has effect.
 
-## 7. Competent Control Authority[^key-7031ab9552b6dd98645144ad26f0c61e]
+## 7. Competent Control Authority[^c-7031ab9552b6dd98645144ad26f0c61e]
 
 For the purposes of Article 67 of Commission Implementing Regulation, DAERA is the specialist control body which shall bear responsibility for carrying out the controls in respect of the Farm Sustainability Standards.
 
-## 8. Power of authorised persons[^key-371b853abacbb9c25763679cdb584be7]
+## 8. Power of authorised persons[^c-371b853abacbb9c25763679cdb584be7]
 
 (1) An authorised person may exercise any of the powers specified in this regulation for the purposes of –
 
@@ -123,11 +123,11 @@ For the purposes of Article 67 of Commission Implementing Regulation, DAERA is t
 
 (6) An authorised person who enters any land under a power of other legislation may exercise any of the powers specified in that other legislation for the purposes of enforcing these Regulations.
 
-## 9. Assistance to authorised persons[^key-58a73d2586f106ba55ebf0cd4a6b591c]
+## 9. Assistance to authorised persons[^c-58a73d2586f106ba55ebf0cd4a6b591c]
 
 A farmer or any employee, agent, contractor or tenant of a farmer shall give an authorised person such assistance as may be reasonably requested so as to enable the authorised person to exercise any power conferred by regulation 8.
 
-## 10. Offences and penalties[^key-76a5febf785554c3ecd4ccc6e3b4c6e3]
+## 10. Offences and penalties[^c-76a5febf785554c3ecd4ccc6e3b4c6e3]
 
 (1) Any person who –
 
@@ -140,7 +140,7 @@ shall be guilty of an offence.
 
 (3) Any person guilty of an offence under paragraph (1) shall be liable on summary conviction to a fine not exceeding level 3 of the standard scale.
 
-## 11. Revocation and saving[^key-1e908926227c2265cbbd5e60e7539a9a]
+## 11. Revocation and saving[^c-1e908926227c2265cbbd5e60e7539a9a]
 
 (1) Subject to paragraph (2), The Common Agricultural Policy Direct Payments and Support Schemes (Cross Compliance) Regulations (Northern Ireland) 2014 are revoked.
 
@@ -156,7 +156,7 @@ A senior officer of the Department of Agriculture, Environment and Rural Affairs
 
 Regulations 3,4,5 and 6
 
-### 12. Amendment of the Horizontal Regulation[^key-4ae915f374ce7e3605c3836e566e0224]
+### 12. Amendment of the Horizontal Regulation[^c-4ae915f374ce7e3605c3836e566e0224]
 
 (1) The Horizontal Regulation is amended as follows.
 
@@ -207,7 +207,7 @@ Regulations 3,4,5 and 6
 
 (11) Omit Article 106.
 
-### 13. Amendment of Commission Delegated Regulation[^key-f9358932065abaada9507b124836bcf7]
+### 13. Amendment of Commission Delegated Regulation[^c-f9358932065abaada9507b124836bcf7]
 
 (1) The Commission Delegated Regulation is amended as follows.
 
@@ -247,7 +247,7 @@ Regulations 3,4,5 and 6
 
 (7) Omit Article 40.
 
-### 14. Amendment of the Commission Implementing Regulation[^key-a89a07706cbe379cb6a58970465765c0]
+### 14. Amendment of the Commission Implementing Regulation[^c-a89a07706cbe379cb6a58970465765c0]
 
 (1) The Commission Implementing Regulation is amended as follows.
 
@@ -298,7 +298,7 @@ Regulations 3,4,5 and 6
 
 (11) Omit Article 75.
 
-### PART 2[^key-70fb848b39ca60c74d0ee3f441e157c5]
+### PART 2[^c-70fb848b39ca60c74d0ee3f441e157c5]
 
 Regulation 2
 
@@ -321,7 +321,7 @@ RULES ON FARM SUSTAINABILITY STANDARDS PURSUANT TO ARTICLE 93
 </tbody>
 </table>
 
-## SCHEDULE 2[^key-2a1a2173732b6e008aee1c0f386886b6]
+## SCHEDULE 2[^c-2a1a2173732b6e008aee1c0f386886b6]
 
 Regulation 6
 
@@ -358,7 +358,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2020 c. 21](https://www.legislation.gov.uk/ukpga/2020/21)
 
-[^key-3bf3b1355ef182a4097b4f62a76bbdbf]: Commencement: Reg. 1 in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/165/regulation/1/1)
+[^c-3bf3b1355ef182a4097b4f62a76bbdbf]: Commencement: Reg. 1 in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/165/regulation/1/1)
 
 [^f00002]: Footnote: [1954 c. 33(NI)](https://www.legislation.gov.uk/apni/1954/33)
 
@@ -374,32 +374,32 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00008]: Footnote: 2013 No. 1306
 
-[^key-9a300c122712ef585b7ebeac682779f0]: Commencement: Reg. 2 in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/165/regulation/1/1)
+[^c-9a300c122712ef585b7ebeac682779f0]: Commencement: Reg. 2 in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/165/regulation/1/1)
 
-[^key-ae6d8bf9504c1eaad5cca1d14c895702]: Commencement: Reg. 3 in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/165/regulation/1/1)
+[^c-ae6d8bf9504c1eaad5cca1d14c895702]: Commencement: Reg. 3 in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/165/regulation/1/1)
 
-[^key-965cb22f64c37162ce7f49086fca6f4c]: Commencement: Reg. 4 in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/165/regulation/1/1)
+[^c-965cb22f64c37162ce7f49086fca6f4c]: Commencement: Reg. 4 in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/165/regulation/1/1)
 
-[^key-6a6c40d4634e4893bb2edbdbb9800fff]: Commencement: Reg. 5 in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/165/regulation/1/1)
+[^c-6a6c40d4634e4893bb2edbdbb9800fff]: Commencement: Reg. 5 in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/165/regulation/1/1)
 
-[^key-014c4d6d2f3af6d619375c3db9874444]: Commencement: Reg. 6 in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/165/regulation/1/1)
+[^c-014c4d6d2f3af6d619375c3db9874444]: Commencement: Reg. 6 in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/165/regulation/1/1)
 
-[^key-7031ab9552b6dd98645144ad26f0c61e]: Commencement: Reg. 7 in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/165/regulation/1/1)
+[^c-7031ab9552b6dd98645144ad26f0c61e]: Commencement: Reg. 7 in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/165/regulation/1/1)
 
-[^key-371b853abacbb9c25763679cdb584be7]: Commencement: Reg. 8 in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/165/regulation/1/1)
+[^c-371b853abacbb9c25763679cdb584be7]: Commencement: Reg. 8 in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/165/regulation/1/1)
 
-[^key-58a73d2586f106ba55ebf0cd4a6b591c]: Commencement: Reg. 9 in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/165/regulation/1/1)
+[^c-58a73d2586f106ba55ebf0cd4a6b591c]: Commencement: Reg. 9 in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/165/regulation/1/1)
 
-[^key-76a5febf785554c3ecd4ccc6e3b4c6e3]: Commencement: Reg. 10 in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/165/regulation/1/1)
+[^c-76a5febf785554c3ecd4ccc6e3b4c6e3]: Commencement: Reg. 10 in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/165/regulation/1/1)
 
-[^key-1e908926227c2265cbbd5e60e7539a9a]: Commencement: Reg. 11 in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/165/regulation/1/1)
+[^c-1e908926227c2265cbbd5e60e7539a9a]: Commencement: Reg. 11 in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/165/regulation/1/1)
 
-[^key-4ae915f374ce7e3605c3836e566e0224]: Commencement: Sch. 1 para. 12 in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/165/regulation/1/1)
+[^c-4ae915f374ce7e3605c3836e566e0224]: Commencement: Sch. 1 para. 12 in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/165/regulation/1/1)
 
-[^key-f9358932065abaada9507b124836bcf7]: Commencement: Sch. 1 para. 13 in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/165/regulation/1/1)
+[^c-f9358932065abaada9507b124836bcf7]: Commencement: Sch. 1 para. 13 in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/165/regulation/1/1)
 
-[^key-a89a07706cbe379cb6a58970465765c0]: Commencement: Sch. 1 para. 14 in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/165/regulation/1/1)
+[^c-a89a07706cbe379cb6a58970465765c0]: Commencement: Sch. 1 para. 14 in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/165/regulation/1/1)
 
-[^key-70fb848b39ca60c74d0ee3f441e157c5]: Commencement: Sch. 1 Pt. 2 in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/165/regulation/1/1)
+[^c-70fb848b39ca60c74d0ee3f441e157c5]: Commencement: Sch. 1 Pt. 2 in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/165/regulation/1/1)
 
-[^key-2a1a2173732b6e008aee1c0f386886b6]: Commencement: Sch. 2 in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/165/regulation/1/1)
+[^c-2a1a2173732b6e008aee1c0f386886b6]: Commencement: Sch. 2 in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/165/regulation/1/1)

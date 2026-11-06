@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Failure to comply with notice.[^c20205721][^c11341891][^key-934ca2b4ad22433b61e934f213fab214][^key-db8ecb323eebb206c7e03b8a5b4848af]
+## 54. Failure to comply with notice.[^c20205721][^c11341891][^c-934ca2b4ad22433b61e934f213fab214][^c-db8ecb323eebb206c7e03b8a5b4848af]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) an information notice, or
 - (c) an enforcement notice,
 
-the Commission[^key-eb88be9bc8f04538862a64613e7e7549] may certify in writing to the court that the public authority has failed to comply with that notice.
+the Commission[^c-eb88be9bc8f04538862a64613e7e7549] may certify in writing to the court that the public authority has failed to comply with that notice.
 
 (2) For the purposes of this section, a public authority which, in purported compliance with an information notice—
 
@@ -45,8 +45,8 @@ is to be taken to have failed to comply with the notice.
 
 [^c11341891]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2000/36/section/54) wholly in force at 1.1.2005; [s. 54](https://www.legislation.gov.uk/ukpga/2000/36/section/54) not in force at Royal assent, see [s. 87(3)](https://www.legislation.gov.uk/ukpga/2000/36/section/87/3); [s. 54](https://www.legislation.gov.uk/ukpga/2000/36/section/54) in force for certain purposes at 30.11.2002 by [S.I. 2002/2812](https://www.legislation.gov.uk/uksi/2002/2812), [art. 2(d)(e)](https://www.legislation.gov.uk/uksi/2002/2812/article/2/d/e); [s. 54](https://www.legislation.gov.uk/ukpga/2000/36/section/54) in force for certain further purposes at 1.1.2005 by [S.I. 2004/1909](https://www.legislation.gov.uk/uksi/2004/1909), [art. 2](https://www.legislation.gov.uk/uksi/2004/1909/article/2) and otherwise in force at 1.1.2005 by [S.I. 2004/3122](https://www.legislation.gov.uk/uksi/2004/3122), [art. 2](https://www.legislation.gov.uk/uksi/2004/3122/article/2)
 
-[^key-934ca2b4ad22433b61e934f213fab214]: Modification: [S. 54](https://www.legislation.gov.uk/ukpga/2000/36/section/54) excluded (18.7.2015) by [The Re-use of Public Sector Information Regulations 2015 (S.I. 2015/1415)](https://www.legislation.gov.uk/uksi/2015/1415), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1415/regulation/1), [22(7)](https://www.legislation.gov.uk/uksi/2015/1415/regulation/22/7) (with [regs. 5](https://www.legislation.gov.uk/uksi/2015/1415/regulation/5), [11(4)](https://www.legislation.gov.uk/uksi/2015/1415/regulation/11/4))
+[^c-934ca2b4ad22433b61e934f213fab214]: Modification: [S. 54](https://www.legislation.gov.uk/ukpga/2000/36/section/54) excluded (18.7.2015) by [The Re-use of Public Sector Information Regulations 2015 (S.I. 2015/1415)](https://www.legislation.gov.uk/uksi/2015/1415), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1415/regulation/1), [22(7)](https://www.legislation.gov.uk/uksi/2015/1415/regulation/22/7) (with [regs. 5](https://www.legislation.gov.uk/uksi/2015/1415/regulation/5), [11(4)](https://www.legislation.gov.uk/uksi/2015/1415/regulation/11/4))
 
-[^key-db8ecb323eebb206c7e03b8a5b4848af]: Modification: [S. 54](https://www.legislation.gov.uk/ukpga/2000/36/section/54) applied (with modifications) (18.7.2015) by [The Re-use of Public Sector Information Regulations 2015 (S.I. 2015/1415)](https://www.legislation.gov.uk/uksi/2015/1415), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1415/regulation/1), [18](https://www.legislation.gov.uk/uksi/2015/1415/regulation/18) (with [regs. 5](https://www.legislation.gov.uk/uksi/2015/1415/regulation/5), [11(4)](https://www.legislation.gov.uk/uksi/2015/1415/regulation/11/4))
+[^c-db8ecb323eebb206c7e03b8a5b4848af]: Modification: [S. 54](https://www.legislation.gov.uk/ukpga/2000/36/section/54) applied (with modifications) (18.7.2015) by [The Re-use of Public Sector Information Regulations 2015 (S.I. 2015/1415)](https://www.legislation.gov.uk/uksi/2015/1415), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1415/regulation/1), [18](https://www.legislation.gov.uk/uksi/2015/1415/regulation/18) (with [regs. 5](https://www.legislation.gov.uk/uksi/2015/1415/regulation/5), [11(4)](https://www.legislation.gov.uk/uksi/2015/1415/regulation/11/4))
 
-[^key-eb88be9bc8f04538862a64613e7e7549]: Textual amendment: Word in [s. 54(1)](https://www.legislation.gov.uk/ukpga/2000/36/section/54/1) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 12(16)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/12/16); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-eb88be9bc8f04538862a64613e7e7549]: Textual amendment: Word in [s. 54(1)](https://www.legislation.gov.uk/ukpga/2000/36/section/54/1) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 12(16)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/12/16); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

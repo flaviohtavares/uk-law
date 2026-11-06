@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 71A. Transitional provision in relation to notification of conformity assessment bodies[^key-022f3384c712245c32e0982410576836]
+## 71A. Transitional provision in relation to notification of conformity assessment bodies[^c-022f3384c712245c32e0982410576836]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-022f3384c712245c32e0982410576836]: Textual amendment: [Reg. 71A](https://www.legislation.gov.uk/nisr/2017/90/regulation/71A) inserted (10.8.2023) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (Amendment) (Northern Ireland) Regulations 2023 (S.I. 2023/861)](https://www.legislation.gov.uk/uksi/2023/861), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/1/b), [8(2)](https://www.legislation.gov.uk/uksi/2023/861/regulation/8/2)
+[^c-022f3384c712245c32e0982410576836]: Textual amendment: [Reg. 71A](https://www.legislation.gov.uk/nisr/2017/90/regulation/71A) inserted (10.8.2023) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (Amendment) (Northern Ireland) Regulations 2023 (S.I. 2023/861)](https://www.legislation.gov.uk/uksi/2023/861), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/1/b), [8(2)](https://www.legislation.gov.uk/uksi/2023/861/regulation/8/2)

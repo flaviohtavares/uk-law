@@ -117,12 +117,12 @@ In exercise of the powers conferred by section 2(2) of that Act and sections 104
 
 - (a) the total number of shares of the company that on a date specified in the statement (“the reference date”) are held by members of the company,
 - (b) the aggregate nominal value of those shares,
-- (ba)[^key-40693595eacff1392431943a1b0c69ad] the aggregate amount (if any) unpaid on those shares (whether on account of their nominal value or by way of premium),
+- (ba)[^c-40693595eacff1392431943a1b0c69ad] the aggregate amount (if any) unpaid on those shares (whether on account of their nominal value or by way of premium),
 - (c) for each class of shares—
   - (i) the particulars specified in paragraph (4) below of the rights attached to the shares,
   - (ii) the total number of shares of that class, and
-  - (iii) the aggregate nominal value of shares of that class. [^key-45c3f6e14c3d6ff0b51f9a82b00f0b94]...
-- (d)[^key-3603b393f9df6c19bc8472d17c5e8a95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) the aggregate nominal value of shares of that class. [^c-45c3f6e14c3d6ff0b51f9a82b00f0b94]...
+- (d)[^c-3603b393f9df6c19bc8472d17c5e8a95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The reference date must be not more than 28 days before the date of the application for registration.
 
@@ -165,21 +165,21 @@ not exceeding a specified amount.
 
 #### 7. Statement of proposed officers
 
-(1) The statement of the company's proposed officers required to be delivered to the registrar must contain the required information about[^key-db1b3d7c6db398f8b9b32a0d70837249]—
+(1) The statement of the company's proposed officers required to be delivered to the registrar must contain the required information about[^c-db1b3d7c6db398f8b9b32a0d70837249]—
 
 - (a) the person who is, or persons who are, to be a director or directors of the company on registration;
 - (b) in the case of a company that is to be a private company, any person who is (or any persons who are) to be the secretary (or joint secretaries) of the company on registration;
-- (c) in the case of a company that is to be a public company, the person who is (or the persons who are) to be the secretary (or joint secretaries) of the company on registration .[^key-8a7ba13b52d4195ad408ee9a684838ee]
-- (d)[^key-1d76a10c1bdafb1196e3d886ecda8e72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) in the case of a company that is to be a public company, the person who is (or the persons who are) to be the secretary (or joint secretaries) of the company on registration .[^c-8a7ba13b52d4195ad408ee9a684838ee]
+- (d)[^c-1d76a10c1bdafb1196e3d886ecda8e72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-465f17de844726e797ce235221a68ebd] For the required information—
+(2)[^c-465f17de844726e797ce235221a68ebd] For the required information—
 
 - (a) in relation to proposed directors, see sections 167J and 167K of the Companies Act 2006;
 - (b) in relation to proposed secretaries or joint secretaries, see sections 279J and 279K of that Act.
 
-(2A)[^key-16a5ded91e4a55c59117f7495971b7f5] The statement under paragraph (1) must be accompanied by a statement by the company that each person named as a director, as secretary or as one of joint secretaries has consented to act in the relevant capacity.
+(2A)[^c-16a5ded91e4a55c59117f7495971b7f5] The statement under paragraph (1) must be accompanied by a statement by the company that each person named as a director, as secretary or as one of joint secretaries has consented to act in the relevant capacity.
 
-(2B)[^key-987472769a906080e5327cf95d26e982] The statement under paragraph (1)(a) must, in the case of each individual named as a director—
+(2B)[^c-987472769a906080e5327cf95d26e982] The statement under paragraph (1)(a) must, in the case of each individual named as a director—
 
 - (a) confirm that the individual’s identity is verified within the meaning of section 1110A of the Companies Act 2006 (meaning of “**identity is verified**”), and
 - (b) state the individual’s unique identifier.
@@ -277,11 +277,11 @@ If the registrar is satisfied that the requirements of this Part as to registrat
 
 (5) Section 1064 of that Act (public notice of certificate of incorporation) applies to a certificate of incorporation issued under this regulation.
 
-#### 12A. Allocation of unique identifiers[^key-bf69470077a1e48b0959e85ee062dc2c]
+#### 12A. Allocation of unique identifiers[^c-bf69470077a1e48b0959e85ee062dc2c]
 
 (1) Chapters 1 and 2 of Part 4 of the 2025 Regulations (unique identifiers) apply in relation to registration of a company.
 
-(2) In this regulation, “**2025 Regulations**” means the Registrar (Identity Verification and Authorised Corporate Service Providers) Regulations 2025 (S.I. 2025/50)[^key-99bd6339d2d2c38cd6063ce6997f6c6b].
+(2) In this regulation, “**2025 Regulations**” means the Registrar (Identity Verification and Authorised Corporate Service Providers) Regulations 2025 (S.I. 2025/50)[^c-99bd6339d2d2c38cd6063ce6997f6c6b].
 
 ## PART 3 — EFFECT OF REGISTRATION
 
@@ -328,7 +328,7 @@ A registered company may by special resolution alter the form of its constitutio
 
 (2) References in this and the following regulations to the Companies Acts—
 
-- (a)[^key-6f69dcfc599ac9cb957a2924bd020060] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-6f69dcfc599ac9cb957a2924bd020060] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) do not include Part 2 of the Companies (Audit, Investigation and Community Enterprise) Act 2004 [^c19851801] (community interest companies).
 
 #### 19. Exclusions
@@ -368,7 +368,7 @@ apply notwithstanding any provisions contained in any enactment, royal charter o
 
 A banking company in Scotland that is incorporated by virtue of registration under these Regulations is deemed a bank incorporated, constituted or established by or under an Act of Parliament.
 
-## Part 3A — ID verification: further provisions[^key-40683aee3d7723cab60429cba2a5b3b6]
+## Part 3A — ID verification: further provisions[^c-40683aee3d7723cab60429cba2a5b3b6]
 
 ### 23A. Identity verification: exemption on national security grounds etc
 
@@ -421,35 +421,35 @@ An Impact Assessment has not been prepared for these Regulations as they have no
 
 [^c19851761]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-40693595eacff1392431943a1b0c69ad]: Textual amendment: [Reg. 5(2)(ba)](https://www.legislation.gov.uk/uksi/2009/2437/regulation/5/2/ba) inserted (30.6.2016) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016 (S.I. 2016/599)](https://www.legislation.gov.uk/uksi/2016/599), [reg. 1](https://www.legislation.gov.uk/uksi/2016/599/regulation/1), [Sch. 3 para. 6(a)](https://www.legislation.gov.uk/uksi/2016/599/schedule/3/paragraph/6/a)
+[^c-40693595eacff1392431943a1b0c69ad]: Textual amendment: [Reg. 5(2)(ba)](https://www.legislation.gov.uk/uksi/2009/2437/regulation/5/2/ba) inserted (30.6.2016) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016 (S.I. 2016/599)](https://www.legislation.gov.uk/uksi/2016/599), [reg. 1](https://www.legislation.gov.uk/uksi/2016/599/regulation/1), [Sch. 3 para. 6(a)](https://www.legislation.gov.uk/uksi/2016/599/schedule/3/paragraph/6/a)
 
-[^key-45c3f6e14c3d6ff0b51f9a82b00f0b94]: Textual amendment: Word in [reg. 5(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2009/2437/regulation/5/2/c/iii) omitted (30.6.2016) by virtue of [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016 (S.I. 2016/599)](https://www.legislation.gov.uk/uksi/2016/599), [reg. 1](https://www.legislation.gov.uk/uksi/2016/599/regulation/1), [Sch. 3 para. 6(b)](https://www.legislation.gov.uk/uksi/2016/599/schedule/3/paragraph/6/b)
+[^c-45c3f6e14c3d6ff0b51f9a82b00f0b94]: Textual amendment: Word in [reg. 5(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2009/2437/regulation/5/2/c/iii) omitted (30.6.2016) by virtue of [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016 (S.I. 2016/599)](https://www.legislation.gov.uk/uksi/2016/599), [reg. 1](https://www.legislation.gov.uk/uksi/2016/599/regulation/1), [Sch. 3 para. 6(b)](https://www.legislation.gov.uk/uksi/2016/599/schedule/3/paragraph/6/b)
 
-[^key-3603b393f9df6c19bc8472d17c5e8a95]: Textual amendment: [Reg. 5(2)(d)](https://www.legislation.gov.uk/uksi/2009/2437/regulation/5/2/d) omitted (30.6.2016) by virtue of [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016 (S.I. 2016/599)](https://www.legislation.gov.uk/uksi/2016/599), [reg. 1](https://www.legislation.gov.uk/uksi/2016/599/regulation/1), [Sch. 3 para. 6(c)](https://www.legislation.gov.uk/uksi/2016/599/schedule/3/paragraph/6/c)
+[^c-3603b393f9df6c19bc8472d17c5e8a95]: Textual amendment: [Reg. 5(2)(d)](https://www.legislation.gov.uk/uksi/2009/2437/regulation/5/2/d) omitted (30.6.2016) by virtue of [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016 (S.I. 2016/599)](https://www.legislation.gov.uk/uksi/2016/599), [reg. 1](https://www.legislation.gov.uk/uksi/2016/599/regulation/1), [Sch. 3 para. 6(c)](https://www.legislation.gov.uk/uksi/2016/599/schedule/3/paragraph/6/c)
 
-[^key-db1b3d7c6db398f8b9b32a0d70837249]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2009/2437/regulation/7/1) substituted (18.11.2025) by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3), [2(2)(a)](https://www.legislation.gov.uk/uksi/2025/761/regulation/2/2/a) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6))
+[^c-db1b3d7c6db398f8b9b32a0d70837249]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2009/2437/regulation/7/1) substituted (18.11.2025) by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3), [2(2)(a)](https://www.legislation.gov.uk/uksi/2025/761/regulation/2/2/a) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6))
 
-[^key-8a7ba13b52d4195ad408ee9a684838ee]: Textual amendment: Full stop in [reg. 7(1)(c)](https://www.legislation.gov.uk/uksi/2009/2437/regulation/7/1/c) substituted for semi-colon (10.10.2015) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2015 (S.I. 2015/1695)](https://www.legislation.gov.uk/uksi/2015/1695), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1695/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2015/1695/regulation/10/a)
+[^c-8a7ba13b52d4195ad408ee9a684838ee]: Textual amendment: Full stop in [reg. 7(1)(c)](https://www.legislation.gov.uk/uksi/2009/2437/regulation/7/1/c) substituted for semi-colon (10.10.2015) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2015 (S.I. 2015/1695)](https://www.legislation.gov.uk/uksi/2015/1695), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1695/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2015/1695/regulation/10/a)
 
-[^key-1d76a10c1bdafb1196e3d886ecda8e72]: Textual amendment: [Reg. 7(1)(d)](https://www.legislation.gov.uk/uksi/2009/2437/regulation/7/1/d) omitted (10.10.2015) by virtue of [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2015 (S.I. 2015/1695)](https://www.legislation.gov.uk/uksi/2015/1695), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1695/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2015/1695/regulation/10/b)
+[^c-1d76a10c1bdafb1196e3d886ecda8e72]: Textual amendment: [Reg. 7(1)(d)](https://www.legislation.gov.uk/uksi/2009/2437/regulation/7/1/d) omitted (10.10.2015) by virtue of [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2015 (S.I. 2015/1695)](https://www.legislation.gov.uk/uksi/2015/1695), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1695/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2015/1695/regulation/10/b)
 
-[^key-465f17de844726e797ce235221a68ebd]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2009/2437/regulation/7/2) substituted (18.11.2025) by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3), [2(2)(b)](https://www.legislation.gov.uk/uksi/2025/761/regulation/2/2/b) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6))
+[^c-465f17de844726e797ce235221a68ebd]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2009/2437/regulation/7/2) substituted (18.11.2025) by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3), [2(2)(b)](https://www.legislation.gov.uk/uksi/2025/761/regulation/2/2/b) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6))
 
-[^key-16a5ded91e4a55c59117f7495971b7f5]: Textual amendment: [Reg. 7(2A)](https://www.legislation.gov.uk/uksi/2009/2437/regulation/7/2A) inserted (10.10.2015) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2015 (S.I. 2015/1695)](https://www.legislation.gov.uk/uksi/2015/1695), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1695/regulation/1), [10(c)](https://www.legislation.gov.uk/uksi/2015/1695/regulation/10/c)
+[^c-16a5ded91e4a55c59117f7495971b7f5]: Textual amendment: [Reg. 7(2A)](https://www.legislation.gov.uk/uksi/2009/2437/regulation/7/2A) inserted (10.10.2015) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2015 (S.I. 2015/1695)](https://www.legislation.gov.uk/uksi/2015/1695), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1695/regulation/1), [10(c)](https://www.legislation.gov.uk/uksi/2015/1695/regulation/10/c)
 
-[^key-987472769a906080e5327cf95d26e982]: Textual amendment: [Reg. 7(2B)-(2F)](https://www.legislation.gov.uk/uksi/2009/2437/regulation/7/2B) inserted (18.11.2025 for specified purposes and otherwise in force in accordance with reg. 1(5)(a)) by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3)[(5)(a)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/5/a), [2(2)(c)](https://www.legislation.gov.uk/uksi/2025/761/regulation/2/2/c) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6))
+[^c-987472769a906080e5327cf95d26e982]: Textual amendment: [Reg. 7(2B)-(2F)](https://www.legislation.gov.uk/uksi/2009/2437/regulation/7/2B) inserted (18.11.2025 for specified purposes and otherwise in force in accordance with reg. 1(5)(a)) by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3)[(5)(a)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/5/a), [2(2)(c)](https://www.legislation.gov.uk/uksi/2025/761/regulation/2/2/c) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6))
 
 [^c19851771]: Marginal citation: [S.I. 2009/214](https://www.legislation.gov.uk/uksi/2009/214).
 
-[^key-bf69470077a1e48b0959e85ee062dc2c]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/uksi/2009/2437/regulation/12A) inserted (18.3.2025) by [The Unique Identifiers (Application of Company Law) Regulations 2025 (S.I. 2025/49)](https://www.legislation.gov.uk/uksi/2025/49), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/49/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2025/49/regulation/5); [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/b)
+[^c-bf69470077a1e48b0959e85ee062dc2c]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/uksi/2009/2437/regulation/12A) inserted (18.3.2025) by [The Unique Identifiers (Application of Company Law) Regulations 2025 (S.I. 2025/49)](https://www.legislation.gov.uk/uksi/2025/49), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/49/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2025/49/regulation/5); [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/b)
 
-[^key-99bd6339d2d2c38cd6063ce6997f6c6b]: Textual amendment: Words in [reg. 12A(2)](https://www.legislation.gov.uk/uksi/2009/2437/regulation/12A/2) substituted (18.11.2025) by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2025/1116/regulation/6); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
+[^c-99bd6339d2d2c38cd6063ce6997f6c6b]: Textual amendment: Words in [reg. 12A(2)](https://www.legislation.gov.uk/uksi/2009/2437/regulation/12A/2) substituted (18.11.2025) by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2025/1116/regulation/6); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
 
-[^key-6f69dcfc599ac9cb957a2924bd020060]: Textual amendment: [Reg. 18(2)(a)](https://www.legislation.gov.uk/uksi/2009/2437/regulation/18/2/a) omitted (31.12.2020) by virtue of [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 3 para. 27](https://www.legislation.gov.uk/uksi/2019/348/schedule/3/paragraph/27); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6f69dcfc599ac9cb957a2924bd020060]: Textual amendment: [Reg. 18(2)(a)](https://www.legislation.gov.uk/uksi/2009/2437/regulation/18/2/a) omitted (31.12.2020) by virtue of [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 3 para. 27](https://www.legislation.gov.uk/uksi/2019/348/schedule/3/paragraph/27); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19851801]: Marginal citation: [2004 c.27](https://www.legislation.gov.uk/ukpga/2004/27).
 
-[^key-40683aee3d7723cab60429cba2a5b3b6]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2009/2437/part/3A) inserted (18.11.2025) by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/2/3) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6))
+[^c-40683aee3d7723cab60429cba2a5b3b6]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2009/2437/part/3A) inserted (18.11.2025) by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/2/3) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6))
 
 [^c19851811]: Marginal citation: [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860) (C.126).
 

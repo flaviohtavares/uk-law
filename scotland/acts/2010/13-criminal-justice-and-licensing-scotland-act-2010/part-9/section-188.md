@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-8bad31208c7494ddad84a9a6ca541aba] The 2005 Act is amended as follows.
+(1)[^c-8bad31208c7494ddad84a9a6ca541aba] The 2005 Act is amended as follows.
 
-(2)[^key-c87dde13a62d39070beedda7f2634022] In section 63 (prohibition of sale, consumption and taking away of alcohol outwith licensed hours), in subsection (2)(f), after “on” where it first occurs insert “ or taken from ”.
+(2)[^c-c87dde13a62d39070beedda7f2634022] In section 63 (prohibition of sale, consumption and taking away of alcohol outwith licensed hours), in subsection (2)(f), after “on” where it first occurs insert “ or taken from ”.
 
-(3)[^key-8bad31208c7494ddad84a9a6ca541aba] In section 117 (offence relating to sale of alcohol to trade), in subsection (1), after “from” insert “ licensed premises or ”.
+(3)[^c-8bad31208c7494ddad84a9a6ca541aba] In section 117 (offence relating to sale of alcohol to trade), in subsection (1), after “from” insert “ licensed premises or ”.
 
 ## Annotations
 
-[^key-8bad31208c7494ddad84a9a6ca541aba]: Commencement: [S. 188(1)](https://www.legislation.gov.uk/asp/2010/13/section/188/1)[(3)](https://www.legislation.gov.uk/asp/2010/13/section/188/3) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
+[^c-8bad31208c7494ddad84a9a6ca541aba]: Commencement: [S. 188(1)](https://www.legislation.gov.uk/asp/2010/13/section/188/1)[(3)](https://www.legislation.gov.uk/asp/2010/13/section/188/3) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
 
-[^key-c87dde13a62d39070beedda7f2634022]: Commencement: [S. 188(2)](https://www.legislation.gov.uk/asp/2010/13/section/188/2) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))
+[^c-c87dde13a62d39070beedda7f2634022]: Commencement: [S. 188(2)](https://www.legislation.gov.uk/asp/2010/13/section/188/2) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))

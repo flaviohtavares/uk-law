@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 220. Enforcement[^key-41c74ae557e1e7df6ffe1b8cb354a648]
+## 220. Enforcement[^c-41c74ae557e1e7df6ffe1b8cb354a648]
 
 *Extent: E+W*
 
@@ -54,10 +54,10 @@ summary: ''
 
 (8) In that section, subsection (2) is omitted.
 
-(9)[^key-06022edf5056b68864a8a09ff1c88073] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-06022edf5056b68864a8a09ff1c88073] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-41c74ae557e1e7df6ffe1b8cb354a648]: Commencement: S. 220 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/12)
+[^c-41c74ae557e1e7df6ffe1b8cb354a648]: Commencement: S. 220 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/12)
 
-[^key-06022edf5056b68864a8a09ff1c88073]: Textual amendment: [S. 220(9)](https://www.legislation.gov.uk/ukpga/2009/23/section/220/9) omitted (12.3.2015) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 102(4)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/102/4) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-06022edf5056b68864a8a09ff1c88073]: Textual amendment: [S. 220(9)](https://www.legislation.gov.uk/ukpga/2009/23/section/220/9) omitted (12.3.2015) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 102(4)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/102/4) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

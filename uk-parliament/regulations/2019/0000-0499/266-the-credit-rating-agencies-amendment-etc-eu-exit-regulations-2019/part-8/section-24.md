@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Advance application for registration as a credit rating agency[^key-594a3813013ad0f91a25bce0e192a308]
+## 24. Advance application for registration as a credit rating agency[^c-594a3813013ad0f91a25bce0e192a308]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ as the FCA may direct.
 
 ## Annotations
 
-[^key-594a3813013ad0f91a25bce0e192a308]: Commencement: Reg. 24 in force at 14.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/2)
+[^c-594a3813013ad0f91a25bce0e192a308]: Commencement: Reg. 24 in force at 14.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/2)

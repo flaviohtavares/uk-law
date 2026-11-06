@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Circumstances in which there is no duty to carry out a financial assessment[^key-8375f0560559b509ad7aceda649e9433]
+## 7. Circumstances in which there is no duty to carry out a financial assessment[^c-8375f0560559b509ad7aceda649e9433]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8375f0560559b509ad7aceda649e9433]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2015/1844/regulation/7) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)
+[^c-8375f0560559b509ad7aceda649e9433]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2015/1844/regulation/7) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)
 
 [^f00026]: Footnote: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Cadastral units[^key-5e1e91c85b7e5f69607cdde9598166c4]
+## 12. Cadastral units[^c-5e1e91c85b7e5f69607cdde9598166c4]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e1e91c85b7e5f69607cdde9598166c4]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2012/5/section/12) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-5e1e91c85b7e5f69607cdde9598166c4]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2012/5/section/12) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

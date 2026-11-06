@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28E. Appeal committees: supplementary provisions.[^key-06d6a69a79eddf010c1ab3da1957d046][^c9694071]
+## 28E. Appeal committees: supplementary provisions.[^c-06d6a69a79eddf010c1ab3da1957d046][^c9694071]
 
 *Extent: S*
 
@@ -27,7 +27,7 @@ summary: ''
 
 but otherwise shall refuse to confirm the authority’s decision and shall, where they so refuse, require the education authority to place the child to whom the reference relates in the specified school.
 
-(2)[^key-271bb4546f47172595707821ecf19239] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-271bb4546f47172595707821ecf19239] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) An appeal committee shall notify their decision under this section and the reasons for it in writing to the parent who made the reference and to the education authority and, where they confirm the authority’s decision, they shall inform the parent of his right of appeal to the sheriff under section 28F of this Act.
 
@@ -47,11 +47,11 @@ but otherwise shall refuse to confirm the authority’s decision and shall, wher
 
 ## Annotations
 
-[^key-06d6a69a79eddf010c1ab3da1957d046]: Modification: S. 28E excluded (14.11.2005) by [Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4)](https://www.legislation.gov.uk/asp/2004/4), [s. 35(1)](https://www.legislation.gov.uk/asp/2004/4/section/35/1), [sch. 2 para. 1](https://www.legislation.gov.uk/asp/2004/4/schedule/2/paragraph/1); [S.S.I. 2005/564](https://www.legislation.gov.uk/ssi/2005/564), [art. 2](https://www.legislation.gov.uk/ssi/2005/564/article/2)
+[^c-06d6a69a79eddf010c1ab3da1957d046]: Modification: S. 28E excluded (14.11.2005) by [Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4)](https://www.legislation.gov.uk/asp/2004/4), [s. 35(1)](https://www.legislation.gov.uk/asp/2004/4/section/35/1), [sch. 2 para. 1](https://www.legislation.gov.uk/asp/2004/4/schedule/2/paragraph/1); [S.S.I. 2005/564](https://www.legislation.gov.uk/ssi/2005/564), [art. 2](https://www.legislation.gov.uk/ssi/2005/564/article/2)
 
 [^c9694071]: Modification: S. 28E excluded (during period of 3 years beginning with 1.1.1983) by [Education (Scotland) Act 1981 (c. 58)](https://www.legislation.gov.uk/ukpga/1981/58), [Sch. 8 para. 4(d)](https://www.legislation.gov.uk/ukpga/1981/58/schedule/8/paragraph/4/d)
 
-[^key-271bb4546f47172595707821ecf19239]: Textual amendment: S. 28E(2) repealed (14.11.2005) by [Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4)](https://www.legislation.gov.uk/asp/2004/4), [s. 35(1)](https://www.legislation.gov.uk/asp/2004/4/section/35/1), [sch. 3 para. 3(8)](https://www.legislation.gov.uk/asp/2004/4/schedule/3/paragraph/3/8); [S.S.I. 2005/564](https://www.legislation.gov.uk/ssi/2005/564), [art. 2](https://www.legislation.gov.uk/ssi/2005/564/article/2)
+[^c-271bb4546f47172595707821ecf19239]: Textual amendment: S. 28E(2) repealed (14.11.2005) by [Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4)](https://www.legislation.gov.uk/asp/2004/4), [s. 35(1)](https://www.legislation.gov.uk/asp/2004/4/section/35/1), [sch. 3 para. 3(8)](https://www.legislation.gov.uk/asp/2004/4/schedule/3/paragraph/3/8); [S.S.I. 2005/564](https://www.legislation.gov.uk/ssi/2005/564), [art. 2](https://www.legislation.gov.uk/ssi/2005/564/article/2)
 
 [^c9694081]: Textual amendment: S. 28E(7) repealed (1.10.1992) by [Tribunals and Inquiries Act 1992 (c. 53)](https://www.legislation.gov.uk/ukpga/1992/53), [ss. 18(2)](https://www.legislation.gov.uk/ukpga/1992/53/section/18/2), [19(2)](https://www.legislation.gov.uk/ukpga/1992/53/section/19/2), [Sch. 4 Pt. I](https://www.legislation.gov.uk/ukpga/1992/53/schedule/4/part/I)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Variation or recall of banning order[^key-038eeec64c4792b2a601c7f979a40938]
+## 24. Variation or recall of banning order[^c-038eeec64c4792b2a601c7f979a40938]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ if satisfied that the variation or recall is justified by a change in the facts 
 
 ## Annotations
 
-[^key-038eeec64c4792b2a601c7f979a40938]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2007/10/section/24) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-038eeec64c4792b2a601c7f979a40938]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2007/10/section/24) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

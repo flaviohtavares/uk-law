@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) In this regulation “nil licensable vehicle” means a vehicle which is an exempt vehicle otherwise than[^key-e0a26bf57e759e181b3c670dc6594f26] by virtue of paragraph 2, 2A, 3, 20G, in so far as it applies to an electric scooter being used in a trial, *(Extent: E+W+S)*[^key-3c3519da27d815a03479e8a43e7428f5] 22 or 23 of Schedule 2 to the 1994 Act.
+(1) In this regulation “nil licensable vehicle” means a vehicle which is an exempt vehicle otherwise than[^c-e0a26bf57e759e181b3c670dc6594f26] by virtue of paragraph 2, 2A, 3, 20G, in so far as it applies to an electric scooter being used in a trial, *(Extent: E+W+S)*[^c-3c3519da27d815a03479e8a43e7428f5] 22 or 23 of Schedule 2 to the 1994 Act.
 
 *Extent: E+W+S*
 
-(1A)[^key-03936e0b7fb894aacafebb3b0eb18259] In, and in relation to, paragraph (1)—
+(1A)[^c-03936e0b7fb894aacafebb3b0eb18259] In, and in relation to, paragraph (1)—
 
 - *“*electric scooter” means a vehicle which—
   - (a) is fitted with an electric motor with a maximum continuous power rating not exceeding 500 watts;
@@ -45,11 +45,11 @@ summary: ''
 
 (2) A nil licence is required to be in force in respect of a nil licensable vehicle which is used or kept on a public road.
 
-(3)[^key-51ac1bd992034b7777a503beb43d087d] Subject to paragraph (3A), a nil licence must be granted for a period of 12 months beginning with the first day of the month in which the application for the licence is received by the Secretary of State.
+(3)[^c-51ac1bd992034b7777a503beb43d087d] Subject to paragraph (3A), a nil licence must be granted for a period of 12 months beginning with the first day of the month in which the application for the licence is received by the Secretary of State.
 
-(3A)[^key-e7e6a032bf398e8655112aa4647baa28] A first nil licence may be granted for a period—
+(3A)[^c-e7e6a032bf398e8655112aa4647baa28] A first nil licence may be granted for a period—
 
-- (a) in accordance with paragraph (3)[^key-5238c939cf710dd4eecf094013484701] , or
+- (a) in accordance with paragraph (3)[^c-5238c939cf710dd4eecf094013484701] , or
 - (b) consisting in the aggregate of 12 months commencing with the relevant month and the appropriate number of days.
 
 (3B) In paragraph (3A)—
@@ -73,7 +73,7 @@ the Secretary of State shall require the keeper to furnish him with a certificat
 
 (8) Paragraphs (4) to (7) do not apply where the person applying for a nil licence agrees to comply with such conditions as may be specified in relation to him by the Secretary of State.
 
-(8A)[^key-093ede90fada744d80d57b958e51fc31] Section 22ZA of the 1994 Act shall apply to information of the following descriptions—
+(8A)[^c-093ede90fada744d80d57b958e51fc31] Section 22ZA of the 1994 Act shall apply to information of the following descriptions—
 
 - (a) the name of any person to whom—
   - (i) disability living allowance or mobility supplement is payable; or
@@ -91,23 +91,23 @@ the Secretary of State shall require the keeper to furnish him with a certificat
 
 (10) If at any time vehicle excise duty becomes chargeable under the 1994 Act in respect of a vehicle which immediately before that time was a nil licensable vehicle, the keeper of the vehicle shall forthwith return to the Secretary of State—
 
-- (a)[^key-cfbf2e7767e3cca9895348de1b989f86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-cfbf2e7767e3cca9895348de1b989f86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) any certificate obtained by him for the purposes of paragraph (6) in relation to the vehicle.
 
 ## Annotations
 
-[^key-e0a26bf57e759e181b3c670dc6594f26]: Textual amendment: Word in reg. 33(1) inserted (1.10.2003) by [The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2003 (S.I. 2003/2154)](https://www.legislation.gov.uk/uksi/2003/2154), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2154/regulation/1), [5](https://www.legislation.gov.uk/uksi/2003/2154/regulation/5)
+[^c-e0a26bf57e759e181b3c670dc6594f26]: Textual amendment: Word in reg. 33(1) inserted (1.10.2003) by [The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2003 (S.I. 2003/2154)](https://www.legislation.gov.uk/uksi/2003/2154), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2154/regulation/1), [5](https://www.legislation.gov.uk/uksi/2003/2154/regulation/5)
 
-[^key-3c3519da27d815a03479e8a43e7428f5]: Textual amendment: Words in [reg. 33(1)](https://www.legislation.gov.uk/uksi/2002/2742/regulation/33/1) inserted (E.W.S.) (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [Pt. 1 reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/2/3/a)
+[^c-3c3519da27d815a03479e8a43e7428f5]: Textual amendment: Words in [reg. 33(1)](https://www.legislation.gov.uk/uksi/2002/2742/regulation/33/1) inserted (E.W.S.) (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [Pt. 1 reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/2/3/a)
 
-[^key-03936e0b7fb894aacafebb3b0eb18259]: Textual amendment: [Reg. 33(1A)](https://www.legislation.gov.uk/uksi/2002/2742/regulation/33/1A) inserted (E.W.S.) (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [Pt. 1 reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/2/3/b)
+[^c-03936e0b7fb894aacafebb3b0eb18259]: Textual amendment: [Reg. 33(1A)](https://www.legislation.gov.uk/uksi/2002/2742/regulation/33/1A) inserted (E.W.S.) (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [Pt. 1 reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/2/3/b)
 
-[^key-51ac1bd992034b7777a503beb43d087d]: Textual amendment: Reg. 33(3) substituted (1.10.2014) by [The Vehicle Excise and Registration (Consequential Amendments) Regulations 2014 (S.I. 2014/2358)](https://www.legislation.gov.uk/uksi/2014/2358), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2358/regulation/1), [Sch. 1 para. 11(a)](https://www.legislation.gov.uk/uksi/2014/2358/schedule/1/paragraph/11/a)
+[^c-51ac1bd992034b7777a503beb43d087d]: Textual amendment: Reg. 33(3) substituted (1.10.2014) by [The Vehicle Excise and Registration (Consequential Amendments) Regulations 2014 (S.I. 2014/2358)](https://www.legislation.gov.uk/uksi/2014/2358), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2358/regulation/1), [Sch. 1 para. 11(a)](https://www.legislation.gov.uk/uksi/2014/2358/schedule/1/paragraph/11/a)
 
-[^key-e7e6a032bf398e8655112aa4647baa28]: Textual amendment: Reg. 33(3A)(3B) inserted (16.12.2013) by [The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2013 (S.I. 2013/2909)](https://www.legislation.gov.uk/uksi/2013/2909), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2909/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/2909/regulation/3/2)
+[^c-e7e6a032bf398e8655112aa4647baa28]: Textual amendment: Reg. 33(3A)(3B) inserted (16.12.2013) by [The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2013 (S.I. 2013/2909)](https://www.legislation.gov.uk/uksi/2013/2909), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2909/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/2909/regulation/3/2)
 
-[^key-5238c939cf710dd4eecf094013484701]: Textual amendment: Words in reg. 33(3A)(a) substituted (1.10.2014) by [The Vehicle Excise and Registration (Consequential Amendments) Regulations 2014 (S.I. 2014/2358)](https://www.legislation.gov.uk/uksi/2014/2358), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2358/regulation/1), [Sch. 1 para. 11(b)](https://www.legislation.gov.uk/uksi/2014/2358/schedule/1/paragraph/11/b)
+[^c-5238c939cf710dd4eecf094013484701]: Textual amendment: Words in reg. 33(3A)(a) substituted (1.10.2014) by [The Vehicle Excise and Registration (Consequential Amendments) Regulations 2014 (S.I. 2014/2358)](https://www.legislation.gov.uk/uksi/2014/2358), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2358/regulation/1), [Sch. 1 para. 11(b)](https://www.legislation.gov.uk/uksi/2014/2358/schedule/1/paragraph/11/b)
 
-[^key-093ede90fada744d80d57b958e51fc31]: Textual amendment: Reg. 33(8A)(8B) inserted (31.10.2005) by [The Road Vehicles (Registration and Licensing) (Amendment) (No.2) Regulations 2005 (S.I. 2005/2713)](https://www.legislation.gov.uk/uksi/2005/2713), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2713/regulation/1), [2](https://www.legislation.gov.uk/uksi/2005/2713/regulation/2)
+[^c-093ede90fada744d80d57b958e51fc31]: Textual amendment: Reg. 33(8A)(8B) inserted (31.10.2005) by [The Road Vehicles (Registration and Licensing) (Amendment) (No.2) Regulations 2005 (S.I. 2005/2713)](https://www.legislation.gov.uk/uksi/2005/2713), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2713/regulation/1), [2](https://www.legislation.gov.uk/uksi/2005/2713/regulation/2)
 
-[^key-cfbf2e7767e3cca9895348de1b989f86]: Textual amendment: Reg. 33(10)(a) and word omitted (1.10.2014) by virtue of [The Vehicle Excise and Registration (Consequential Amendments) Regulations 2014 (S.I. 2014/2358)](https://www.legislation.gov.uk/uksi/2014/2358), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2358/regulation/1), [Sch. 1 para. 11(c)](https://www.legislation.gov.uk/uksi/2014/2358/schedule/1/paragraph/11/c)
+[^c-cfbf2e7767e3cca9895348de1b989f86]: Textual amendment: Reg. 33(10)(a) and word omitted (1.10.2014) by virtue of [The Vehicle Excise and Registration (Consequential Amendments) Regulations 2014 (S.I. 2014/2358)](https://www.legislation.gov.uk/uksi/2014/2358), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2358/regulation/1), [Sch. 1 para. 11(c)](https://www.legislation.gov.uk/uksi/2014/2358/schedule/1/paragraph/11/c)

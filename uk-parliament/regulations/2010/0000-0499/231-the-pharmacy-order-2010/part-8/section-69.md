@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 69. Transitional, transitory and saving provisions[^key-53e8cf259152b910ed752f373185a71b][^key-57777028f7edb594a655f8847a830eea]
+## 69. Transitional, transitory and saving provisions[^c-53e8cf259152b910ed752f373185a71b][^c-57777028f7edb594a655f8847a830eea]
 
 *Extent: E+W+S*
 
-(1)[^key-53e8cf259152b910ed752f373185a71b] The transitional provisions contained in Schedule 5 have effect.
+(1)[^c-53e8cf259152b910ed752f373185a71b] The transitional provisions contained in Schedule 5 have effect.
 
-(2)[^key-53e8cf259152b910ed752f373185a71b] The savings contained in Schedule 6 have effect.
+(2)[^c-53e8cf259152b910ed752f373185a71b] The savings contained in Schedule 6 have effect.
 
-(3)[^key-53e8cf259152b910ed752f373185a71b] In connection with the commencement of any provision of this Order, the Privy Council may by order make such transitional, transitory or saving provisions as it considers appropriate.
+(3)[^c-53e8cf259152b910ed752f373185a71b] In connection with the commencement of any provision of this Order, the Privy Council may by order make such transitional, transitory or saving provisions as it considers appropriate.
 
-(4)[^key-53e8cf259152b910ed752f373185a71b] The power to make an order under paragraph (3) may be exercised—
+(4)[^c-53e8cf259152b910ed752f373185a71b] The power to make an order under paragraph (3) may be exercised—
 
 - (a) so as to make different provision—
   - (i) with respect to different cases or different classes of cases, or
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-53e8cf259152b910ed752f373185a71b]: Commencement: Art. 69(1)-(4) in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
+[^c-53e8cf259152b910ed752f373185a71b]: Commencement: Art. 69(1)-(4) in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
 
-[^key-57777028f7edb594a655f8847a830eea]: Commencement: Art. 69 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-57777028f7edb594a655f8847a830eea]: Commencement: Art. 69 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Power to acquire land[^key-e769bee32ef456a36d8ad7fb3b4c5b97]
+## 23. Power to acquire land[^c-e769bee32ef456a36d8ad7fb3b4c5b97]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e769bee32ef456a36d8ad7fb3b4c5b97]: Commencement: Art. 23 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
+[^c-e769bee32ef456a36d8ad7fb3b4c5b97]: Commencement: Art. 23 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)

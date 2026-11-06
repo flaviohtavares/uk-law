@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Replacement and alteration of trade tools[^key-b44a41642c04aee0613adf539f883981]
+## 68. Replacement and alteration of trade tools[^c-b44a41642c04aee0613adf539f883981]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b44a41642c04aee0613adf539f883981]: Textual amendment: S. 68 and cross-heading omitted (with effect in accordance with s. 72(4)(5) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 72(1)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/72/1/b)
+[^c-b44a41642c04aee0613adf539f883981]: Textual amendment: S. 68 and cross-heading omitted (with effect in accordance with s. 72(4)(5) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 72(1)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/72/1/b)

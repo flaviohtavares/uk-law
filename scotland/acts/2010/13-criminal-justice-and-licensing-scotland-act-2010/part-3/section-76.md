@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76. Further amendment of 1995 Act[^key-427f7295b091a930ad7d76fcb0ada55b]
+## 76. Further amendment of 1995 Act[^c-427f7295b091a930ad7d76fcb0ada55b]
 
 *Extent: S*
 
@@ -77,4 +77,4 @@ summary: ''
 
 ## Annotations
 
-[^key-427f7295b091a930ad7d76fcb0ada55b]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2010/13/section/76) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))
+[^c-427f7295b091a930ad7d76fcb0ada55b]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2010/13/section/76) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. A specimen of a plant species shall be considered to be artificially propagated only if the management authority[^key-5a38cf3044e9698a10c9e3f4dfde1b26], in consultation with the competent scientific authority[^key-d360d07d7e6be363dc46174dc44b69b3] [^key-3c4dfc5cb7d6f876e2ebda75e72f0d65]..., is satisfied that the following criteria are met:
+1. A specimen of a plant species shall be considered to be artificially propagated only if the management authority[^c-5a38cf3044e9698a10c9e3f4dfde1b26], in consultation with the competent scientific authority[^c-d360d07d7e6be363dc46174dc44b69b3] [^c-3c4dfc5cb7d6f876e2ebda75e72f0d65]..., is satisfied that the following criteria are met:
 
 - (a) the specimen is, or is derived from, plants grown from seeds, cuttings, divisions, callus tissues or other plant tissues, spores or other propagules under controlled conditions;
 - (b)[^c000001] the cultivated parental stock is established and maintained in accordance with the definition set out in Article 1(4a);
@@ -40,11 +40,11 @@ shall be considered to be artificially propagated in accordance with paragraph 1
 
 ## Annotations
 
-[^key-5a38cf3044e9698a10c9e3f4dfde1b26]: Textual amendment: Words in [Art. 56(1)](https://www.legislation.gov.uk/eur/2006/865/article/56/1) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(56)(a)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/56/a)
+[^c-5a38cf3044e9698a10c9e3f4dfde1b26]: Textual amendment: Words in [Art. 56(1)](https://www.legislation.gov.uk/eur/2006/865/article/56/1) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(56)(a)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/56/a)
 
-[^key-d360d07d7e6be363dc46174dc44b69b3]: Textual amendment: Words in [Art. 56(1)](https://www.legislation.gov.uk/eur/2006/865/article/56/1) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(56)(b)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/56/b)
+[^c-d360d07d7e6be363dc46174dc44b69b3]: Textual amendment: Words in [Art. 56(1)](https://www.legislation.gov.uk/eur/2006/865/article/56/1) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(56)(b)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/56/b)
 
-[^key-3c4dfc5cb7d6f876e2ebda75e72f0d65]: Textual amendment: Words in [Art. 56(1)](https://www.legislation.gov.uk/eur/2006/865/article/56/1) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(56)(c)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/56/c)
+[^c-3c4dfc5cb7d6f876e2ebda75e72f0d65]: Textual amendment: Words in [Art. 56(1)](https://www.legislation.gov.uk/eur/2006/865/article/56/1) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(56)(c)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/56/c)
 
 [^c000001]: Textual amendment: Substituted by [Commission Regulation (EU) No 791/2012 of 23 August 2012 amending, as regards certain provisions relating to the trade in species of wild fauna and flora, Regulation (EC) No 865/2006 laying down detailed rules for the implementation of Council Regulation (EC) No 338/97](https://www.legislation.gov.uk/eur/2012/791).
 

@@ -44,19 +44,19 @@ Coming into force
 
 5th May 1993
 
-The Minister of Agriculture, Fisheries and Food and the Secretaries of State respectively concerned with the sea fishing industry in Scotland, Wales and Northern Ireland, acting jointly, in exercise of the powers conferred on them by sections 4(6C) and 22(2)(a) of the Sea Fish (Conservation) Act 1967[^f00001], and of all their other enabling powers, after giving due consideration to a scheme of decommissioning in accordance with section 4(6D) of that Act, hereby make the following Order:[^key-f57a962243988e18c35ba24c1ce57978]
+The Minister of Agriculture, Fisheries and Food and the Secretaries of State respectively concerned with the sea fishing industry in Scotland, Wales and Northern Ireland, acting jointly, in exercise of the powers conferred on them by sections 4(6C) and 22(2)(a) of the Sea Fish (Conservation) Act 1967[^f00001], and of all their other enabling powers, after giving due consideration to a scheme of decommissioning in accordance with section 4(6D) of that Act, hereby make the following Order:[^c-f57a962243988e18c35ba24c1ce57978]
 
-## 1. Title and commencement[^key-ad84e67718b12bafe32aea77fccf474d]
+## 1. Title and commencement[^c-ad84e67718b12bafe32aea77fccf474d]
 
 This Order may be cited as the Sea Fish Licensing (Time at Sea) (Principles) Order 1993 and shall come into force on 5th May 1993.
 
-## 2. Interpretation[^key-f3a9c7f77f1e4f3e87286c2d31164d0c]
+## 2. Interpretation[^c-f3a9c7f77f1e4f3e87286c2d31164d0c]
 
 (1) In this Order, unless the context otherwise requires—
 
-- “the Act” means the Fisheries Act 2020[^key-a4406f14e3e39de87cb58a8119111f45];
+- “the Act” means the Fisheries Act 2020[^c-a4406f14e3e39de87cb58a8119111f45];
 - “antecedent vessel” has the meaning assigned to it by article 11(1);
-- “[^key-d3d5e6e8b4a2b3db68c5a80d2a2905a6]**the sea fish licensing authority**” means—
+- “[^c-d3d5e6e8b4a2b3db68c5a80d2a2905a6]**the sea fish licensing authority**” means—
   - (a) in relation to a Scottish fishing boat, the Scottish Ministers;
   - (b) in relation to a Welsh fishing boat, the Welsh Ministers;
   - (c) in relation to a Northern Ireland fishing boat, the Northern Ireland department;
@@ -73,7 +73,7 @@ This Order may be cited as the Sea Fish Licensing (Time at Sea) (Principles) Ord
   - P is the engine power of the vessel expressed in kilowatts;
 
 - “compulsory returns”,in relation to a vessel, means—
-  - (a) entries kept in a logbook by the master of the vessel under an enforceable Community obligation relating to fishing activities and submitted to the sea fish licensing authority[^key-baa6641066540efc3ec33fff7a689401]; or
+  - (a) entries kept in a logbook by the master of the vessel under an enforceable Community obligation relating to fishing activities and submitted to the sea fish licensing authority[^c-baa6641066540efc3ec33fff7a689401]; or
   - (b) declarations made under an enforceable Community obligation relating to fishing activities—
     - (i) as to fish landed, by the master of the vessel or by an agent;
     - (ii) as to trans-shipment, by the master of the vessel,
@@ -82,13 +82,13 @@ This Order may be cited as the Sea Fish Licensing (Time at Sea) (Principles) Ord
 - “donor vessel” has the meaning assigned to it by article 11(1);
 - “half-day” means all or part of any period of 12 consecutive hours commencing at midnight or at midday;
 - “length”, in relation to a boat, means the length calculated in accordance with the rules specified in Article 2(1) of Council Regulation (EEC) No.2930/86 defining characteristics for fishing vessels[^f00002];
-- “licence” means a licence granted under section 15 or 17[^key-bc1910c12b89b5457d5fdf996c5642e6] of the Act;
-- “principles” means principles to which paragraph 7(7) of Schedule 3 to[^key-b78cb5dc25684aeeacd98ada1dd2e5b0] the Act[^f00003] does not apply;
+- “licence” means a licence granted under section 15 or 17[^c-bc1910c12b89b5457d5fdf996c5642e6] of the Act;
+- “principles” means principles to which paragraph 7(7) of Schedule 3 to[^c-b78cb5dc25684aeeacd98ada1dd2e5b0] the Act[^f00003] does not apply;
 - “recipient vessel” has the meaning assigned to it by article 11(1);
 - “the 1991 Regulations” means the Sea Fishing (Days in Port) Regulations 1991[^f00004];
-- “time at sea condition” means a condition included in a licence by virtue of paragraph 1(2)(c) of Schedule 3 to[^key-1526e117374abaaa9f98f2c6287e770e] the Act;
+- “time at sea condition” means a condition included in a licence by virtue of paragraph 1(2)(c) of Schedule 3 to[^c-1526e117374abaaa9f98f2c6287e770e] the Act;
 - “vessel” means a fishing boat exceeding 10 metres in length;
-- “voluntary returns”, in relation to a vessel, means written data relating to fishing activities submitted by the master of the vessel, or by an agent, on a voluntary basis to the sea fish licensing authority[^key-6f6c3df422cd7eaeb13eadc641b38d34] before the date on which this Order comes into force;
+- “voluntary returns”, in relation to a vessel, means written data relating to fishing activities submitted by the master of the vessel, or by an agent, on a voluntary basis to the sea fish licensing authority[^c-6f6c3df422cd7eaeb13eadc641b38d34] before the date on which this Order comes into force;
 - “written returns”, in relation to a vessel, means—
   - (a) compulsory returns; or
   - (b) voluntary returns.
@@ -97,18 +97,18 @@ This Order may be cited as the Sea Fish Licensing (Time at Sea) (Principles) Ord
 
 - (a) tied up, or anchored, immediately adjacent to land or in an area of safe water,
 - (b) tied up, or anchored, or moving between moorings, within harbour limits,
-- (c) tied up to, or moving between, vessels operating under the authority of a licence granted under section 4A of the Sea Fish (Conservation) Act 1967[^key-5568827f17eadc965a681bfb07e3b331], or
+- (c) tied up to, or moving between, vessels operating under the authority of a licence granted under section 4A of the Sea Fish (Conservation) Act 1967[^c-5568827f17eadc965a681bfb07e3b331], or
 - (d) held on land.
 
 (3) For the purposes of this Order the pattern of fishing activity of a vessel relates only to the species of fish caught, the main type of gear used or the statistical sub-areas or divisions of the International Council for the Exploration of the Sea[^f00005] in which fishing takes place.
 
 (4) Any reference in this Order to a numbered article shall be construed as a reference to the article bearing that number in this Order.
 
-## 3. Principles[^key-4d83a1c34edc0f828c6eb94fa201d1b2]
+## 3. Principles[^c-4d83a1c34edc0f828c6eb94fa201d1b2]
 
-The principles that are to be applied by the sea fish licensing authority in exercising its functions in relation to[^key-34c45cfd87612d10efdef51528174c0e] any time at sea condition are set out in articles 4 to 12.
+The principles that are to be applied by the sea fish licensing authority in exercising its functions in relation to[^c-34c45cfd87612d10efdef51528174c0e] any time at sea condition are set out in articles 4 to 12.
 
-## 4. Basic principle where there has been no previous time at sea condition in respect of a vessel[^key-085b870b6c465db194631d71f128cd46]
+## 4. Basic principle where there has been no previous time at sea condition in respect of a vessel[^c-085b870b6c465db194631d71f128cd46]
 
 Where no licence containing a time at sea condition has previously been granted in respect of a vessel, the time which that vessel may spend at sea in a period not exceeding 12 consecutive months shall be—
 
@@ -117,7 +117,7 @@ Where no licence containing a time at sea condition has previously been granted 
 
 whichever is the greater.
 
-## 5. Basic allocation[^key-6b1f7df2c8179fe775225c1232411074]
+## 5. Basic allocation[^c-6b1f7df2c8179fe775225c1232411074]
 
 (1) Subject to paragraph (2) below, the basic allocation in respect of any vessel shall be the number of half-days spent at sea by the vessel in 1991, as derived from any written returns relating to that vessel.
 
@@ -128,15 +128,15 @@ whichever is the greater.
 
 the basic allocation in respect of that vessel shall be the number of half-days spent at sea by the vessel in 1988, as derived from any written returns relating to that vessel.
 
-## 6. Vessels to which the 1991 Regulations applied[^key-4d3a96cc94dfe06ebb2ff6ba18fe36f2]
+## 6. Vessels to which the 1991 Regulations applied[^c-4d3a96cc94dfe06ebb2ff6ba18fe36f2]
 
 Where the vessel is one to which the 1991 Regulations applied, the basic allocation shall be increased by 8 half-days in respect of each month from March 1991 to December 1991 inclusive during which the vessel was not exempted from those Regulations as provided for by regulation 3(2) of those Regulations.
 
-## 7. Time spent fishing under the authority of a licence but not covered by written returns[^key-9895316a7ebfb1c301e143b185a477a1]
+## 7. Time spent fishing under the authority of a licence but not covered by written returns[^c-9895316a7ebfb1c301e143b185a477a1]
 
 Where the vessel spent any half-days at sea in the year to which the basic allocation relates fishing, under the authority of a licence, exclusively for species of fish in respect of which no compulsory returns were required, and there are no voluntary returns in relation to that vessel in respect of those half-days, the basic allocation shall be increased by that number of half-days.
 
-## 8. Other time spent at sea[^key-fd80f34a8bb19cfdee6716b147890a88]
+## 8. Other time spent at sea[^c-fd80f34a8bb19cfdee6716b147890a88]
 
 (1) Subject to paragraph (2) below, where—
 
@@ -147,7 +147,7 @@ the basic allocation shall be increased by that number of half-days.
 
 (2) Paragraph (1) above shall not apply in the case of any half-days at sea occurring in any period exceeding 27 consecutive half-days in which the vessel did not fish for profit.
 
-## 9. Exceptional circumstances[^key-0f468a39d685a3cd242dc8c8e5e63491]
+## 9. Exceptional circumstances[^c-0f468a39d685a3cd242dc8c8e5e63491]
 
 (1) Where as a result of exceptional circumstances the vessel spent significantly fewer half-days at sea in the year to which the basic allocation relates than it would otherwise have spent, the basic allocation shall be increased to take account of that fact.
 
@@ -160,7 +160,7 @@ the basic allocation shall be increased by that number of half-days.
 
 (3) Exceptional circumstances for the purpose of paragraph (1) above do not include the requirement to remain in port contained in the 1991 Regulations.
 
-## 10. Significant change in pattern of fishing activity, etc[^key-03294c5a6c0e58e1308666a738cbdadf]
+## 10. Significant change in pattern of fishing activity, etc[^c-03294c5a6c0e58e1308666a738cbdadf]
 
 Where after 1st January of the year to which the basic allocation relates and before the date on which this Order comes into force there was or is—
 
@@ -170,7 +170,7 @@ Where after 1st January of the year to which the basic allocation relates and be
 
 which resulted, or would result, in that vessel spending significantly more half-days at sea than it otherwise would have spent, or would spend, the basic allocation shall be increased to take account of that fact.
 
-## 11. Surrender of licence and grant of new licence in respect of a different vessel[^key-dd41f626c02ef578361438882b478c56]
+## 11. Surrender of licence and grant of new licence in respect of a different vessel[^c-dd41f626c02ef578361438882b478c56]
 
 (1) Where in the relevant period a licence was or is granted in respect of any vessel on the occasion of the surrender of a licence in respect of a different vessel (“the donor vessel”), the basic allocation in respect of the first-mentioned vessel (“the recipient vessel”) shall be increased, where appropriate, to take account of—
 
@@ -188,7 +188,7 @@ which resulted, or would result, in that vessel spending significantly more half
 
 (3) The relevant period for the purpose of paragraph (1) above is a period commencing after 1st January of the year to which the basic allocation in respect of the recipient vessel relates and before the date of commencement of any time at sea condition included in a licence in respect of that vessel.
 
-## 12. Principles applicable where there has previously been a time at sea condition in respect of a vessel[^key-4bac573a2f8abb0107b4ec782cf6f5b5]
+## 12. Principles applicable where there has previously been a time at sea condition in respect of a vessel[^c-4bac573a2f8abb0107b4ec782cf6f5b5]
 
 (1) Subject to paragraphs (2) and (3) below, where a licence containing a time at sea condition in respect of a period not exceeding 12 consecutive months has previously been granted in respect of any vessel, the time which that vessel may spend at sea in a subsequent period of 12 consecutive months shall be based on the time which it could spend at sea in accordance with the last such time at sea condition.
 
@@ -235,56 +235,56 @@ Principles applicable in arriving at subsequent allocations of time at sea in re
 
 [^f00001]: Footnote: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84); section 4 was amended by the Fishery Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86), section 3, by the Fisheries Act [1981 (c. 29)](https://www.legislation.gov.uk/ukpga/1981/29), section 20 and by the Sea Fish (Conservation) Act [1992 (c. 60)](https://www.legislation.gov.uk/ukpga/1992/60), section 1; section 22(2)(a) which contains a definition of “the Ministers” for the purposes of section 4 was amended by the Fisheries Act 1981, sections 19(2)(d) and 45(b)
 
-[^key-f57a962243988e18c35ba24c1ce57978]: Modification: [Order](https://www.legislation.gov.uk/uksi/1993/1196) modified (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [Sch. 4 para. 30(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/30/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-f57a962243988e18c35ba24c1ce57978]: Modification: [Order](https://www.legislation.gov.uk/uksi/1993/1196) modified (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [Sch. 4 para. 30(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/30/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-ad84e67718b12bafe32aea77fccf474d]: Commencement: Art. 1 in force at 5.5.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1196/article/1)
+[^c-ad84e67718b12bafe32aea77fccf474d]: Commencement: Art. 1 in force at 5.5.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1196/article/1)
 
-[^key-f3a9c7f77f1e4f3e87286c2d31164d0c]: Commencement: Art. 2 in force at 5.5.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1196/article/1)
+[^c-f3a9c7f77f1e4f3e87286c2d31164d0c]: Commencement: Art. 2 in force at 5.5.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1196/article/1)
 
-[^key-a4406f14e3e39de87cb58a8119111f45]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1196/article/2/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 14(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/14/3/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-a4406f14e3e39de87cb58a8119111f45]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1196/article/2/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 14(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/14/3/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-d3d5e6e8b4a2b3db68c5a80d2a2905a6]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1196/article/2/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 14(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/14/3/b) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-d3d5e6e8b4a2b3db68c5a80d2a2905a6]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1196/article/2/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 14(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/14/3/b) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-baa6641066540efc3ec33fff7a689401]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1196/article/2/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 14(3)(c)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/14/3/c) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-baa6641066540efc3ec33fff7a689401]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1196/article/2/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 14(3)(c)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/14/3/c) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^f00002]: Footnote: OJ No. L274, 25.9.86, p.1.
 
-[^key-bc1910c12b89b5457d5fdf996c5642e6]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1196/article/2/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 14(3)(d)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/14/3/d) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-bc1910c12b89b5457d5fdf996c5642e6]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1196/article/2/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 14(3)(d)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/14/3/d) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-b78cb5dc25684aeeacd98ada1dd2e5b0]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1196/article/2/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 14(3)(e)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/14/3/e) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-b78cb5dc25684aeeacd98ada1dd2e5b0]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1196/article/2/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 14(3)(e)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/14/3/e) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^f00003]: Footnote: Section 20(5B) was inserted by the Sea Fish (Conservation) Act 1992, section 7(3).
 
 [^f00004]: Footnote: S.I. [1991/139](https://www.legislation.gov.uk/uksi/1991/139), amended by S.I. [1991/335](https://www.legislation.gov.uk/uksi/1991/335).
 
-[^key-1526e117374abaaa9f98f2c6287e770e]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1196/article/2/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 14(3)(f)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/14/3/f) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-1526e117374abaaa9f98f2c6287e770e]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1196/article/2/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 14(3)(f)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/14/3/f) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-6f6c3df422cd7eaeb13eadc641b38d34]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1196/article/2/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 14(3)(g)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/14/3/g) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-6f6c3df422cd7eaeb13eadc641b38d34]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1196/article/2/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 14(3)(g)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/14/3/g) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-5568827f17eadc965a681bfb07e3b331]: Textual amendment: Words in [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/1993/1196/article/2/2/c) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 14(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/14/4) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-5568827f17eadc965a681bfb07e3b331]: Textual amendment: Words in [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/1993/1196/article/2/2/c) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 14(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/14/4) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^f00005]: Footnote: Cmnd. 2586.
 
-[^key-4d83a1c34edc0f828c6eb94fa201d1b2]: Commencement: Art. 3 in force at 5.5.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1196/article/1)
+[^c-4d83a1c34edc0f828c6eb94fa201d1b2]: Commencement: Art. 3 in force at 5.5.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1196/article/1)
 
-[^key-34c45cfd87612d10efdef51528174c0e]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/1993/1196/article/3) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 14(5)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/14/5) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-34c45cfd87612d10efdef51528174c0e]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/1993/1196/article/3) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 14(5)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/14/5) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-085b870b6c465db194631d71f128cd46]: Commencement: Art. 4 in force at 5.5.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1196/article/1)
+[^c-085b870b6c465db194631d71f128cd46]: Commencement: Art. 4 in force at 5.5.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1196/article/1)
 
-[^key-6b1f7df2c8179fe775225c1232411074]: Commencement: Art. 5 in force at 5.5.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1196/article/1)
+[^c-6b1f7df2c8179fe775225c1232411074]: Commencement: Art. 5 in force at 5.5.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1196/article/1)
 
 [^f00006]: Footnote: [1988 c. 12](https://www.legislation.gov.uk/ukpga/1988/12); section 14 was modified by S.I. [1989/2006](https://www.legislation.gov.uk/uksi/1989/2006).
 
-[^key-4d3a96cc94dfe06ebb2ff6ba18fe36f2]: Commencement: Art. 6 in force at 5.5.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1196/article/1)
+[^c-4d3a96cc94dfe06ebb2ff6ba18fe36f2]: Commencement: Art. 6 in force at 5.5.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1196/article/1)
 
-[^key-9895316a7ebfb1c301e143b185a477a1]: Commencement: Art. 7 in force at 5.5.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1196/article/1)
+[^c-9895316a7ebfb1c301e143b185a477a1]: Commencement: Art. 7 in force at 5.5.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1196/article/1)
 
-[^key-fd80f34a8bb19cfdee6716b147890a88]: Commencement: Art. 8 in force at 5.5.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1196/article/1)
+[^c-fd80f34a8bb19cfdee6716b147890a88]: Commencement: Art. 8 in force at 5.5.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1196/article/1)
 
-[^key-0f468a39d685a3cd242dc8c8e5e63491]: Commencement: Art. 9 in force at 5.5.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1196/article/1)
+[^c-0f468a39d685a3cd242dc8c8e5e63491]: Commencement: Art. 9 in force at 5.5.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1196/article/1)
 
-[^key-03294c5a6c0e58e1308666a738cbdadf]: Commencement: Art. 10 in force at 5.5.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1196/article/1)
+[^c-03294c5a6c0e58e1308666a738cbdadf]: Commencement: Art. 10 in force at 5.5.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1196/article/1)
 
-[^key-dd41f626c02ef578361438882b478c56]: Commencement: Art. 11 in force at 5.5.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1196/article/1)
+[^c-dd41f626c02ef578361438882b478c56]: Commencement: Art. 11 in force at 5.5.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1196/article/1)
 
-[^key-4bac573a2f8abb0107b4ec782cf6f5b5]: Commencement: Art. 12 in force at 5.5.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1196/article/1)
+[^c-4bac573a2f8abb0107b4ec782cf6f5b5]: Commencement: Art. 12 in force at 5.5.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1196/article/1)

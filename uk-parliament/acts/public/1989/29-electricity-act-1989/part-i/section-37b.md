@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37B. Variation of section 36 and 37 consents on change of circumstances: Scotland[^key-3121d4ebbc1ecfd02da9076f851be89e]
+## 37B. Variation of section 36 and 37 consents on change of circumstances: Scotland[^c-3121d4ebbc1ecfd02da9076f851be89e]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3121d4ebbc1ecfd02da9076f851be89e]: Textual amendment: [Ss. 37A-37C](https://www.legislation.gov.uk/ukpga/1989/29/section/37A) inserted (18.12.2025 for specified purposes, 18.2.2026 in so far as not already in force) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 20](https://www.legislation.gov.uk/ukpga/2025/34/section/20), [118(1)(h)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/h) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
+[^c-3121d4ebbc1ecfd02da9076f851be89e]: Textual amendment: [Ss. 37A-37C](https://www.legislation.gov.uk/ukpga/1989/29/section/37A) inserted (18.12.2025 for specified purposes, 18.2.2026 in so far as not already in force) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 20](https://www.legislation.gov.uk/ukpga/2025/34/section/20), [118(1)(h)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/h) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))

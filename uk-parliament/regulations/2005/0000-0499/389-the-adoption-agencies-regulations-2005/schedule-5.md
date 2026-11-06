@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 35(2)
 
-**1.** Whether the child is[^key-00b78433cd919b9b6fdf3902d9c54891] placed under a placement order or with the consent of the parent or guardian.
+**1.** Whether the child is[^c-00b78433cd919b9b6fdf3902d9c54891] placed under a placement order or with the consent of the parent or guardian.
 
 **2.** The arrangements for preparing the child and the prospective adopter for the placement.
 
@@ -44,4 +44,4 @@ Regulation 35(2)
 
 ## Annotations
 
-[^key-00b78433cd919b9b6fdf3902d9c54891]: Textual amendment: Words in Sch. 5 para. 1 inserted (30.12.2005) by [The Adoption and Children (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3482)](https://www.legislation.gov.uk/uksi/2005/3482), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3482/regulation/1), [5(s)](https://www.legislation.gov.uk/uksi/2005/3482/regulation/5/s)
+[^c-00b78433cd919b9b6fdf3902d9c54891]: Textual amendment: Words in Sch. 5 para. 1 inserted (30.12.2005) by [The Adoption and Children (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3482)](https://www.legislation.gov.uk/uksi/2005/3482), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3482/regulation/1), [5(s)](https://www.legislation.gov.uk/uksi/2005/3482/regulation/5/s)

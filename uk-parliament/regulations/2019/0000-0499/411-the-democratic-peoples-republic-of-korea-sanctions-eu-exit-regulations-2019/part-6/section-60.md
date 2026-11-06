@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Ship classification services[^key-1fbffeb1a96dcf1c6f6f573d13ac2dda][^key-41897478d48488767fba4d5a727810dc]
+## 60. Ship classification services[^c-1fbffeb1a96dcf1c6f6f573d13ac2dda][^c-41897478d48488767fba4d5a727810dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1fbffeb1a96dcf1c6f6f573d13ac2dda]: Commencement: Reg. 60 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-1fbffeb1a96dcf1c6f6f573d13ac2dda]: Commencement: Reg. 60 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-41897478d48488767fba4d5a727810dc]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/2019/411/regulation/60) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-41897478d48488767fba4d5a727810dc]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/2019/411/regulation/60) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

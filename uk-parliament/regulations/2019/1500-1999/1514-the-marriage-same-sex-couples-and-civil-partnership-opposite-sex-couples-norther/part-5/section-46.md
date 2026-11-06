@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Foreign gender change and marriage[^key-6329371b88ec04c3cd07ef0afac348e2]
+## 46. Foreign gender change and marriage[^c-6329371b88ec04c3cd07ef0afac348e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6329371b88ec04c3cd07ef0afac348e2]: Commencement: Reg. 46 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-6329371b88ec04c3cd07ef0afac348e2]: Commencement: Reg. 46 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00064]: Footnote: Section 21(1A) was inserted by Part 1 of Schedule 5 to the Marriage (Same Sex Couples) Act 2013 and amended by [S.I. 2014/3229](https://www.legislation.gov.uk/uksi/2014/3229).
 

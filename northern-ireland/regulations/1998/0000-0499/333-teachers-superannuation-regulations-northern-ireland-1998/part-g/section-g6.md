@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## G6. Payment by employers to the Department[^key-9b667830b14c3b7f8714167bc9d09e7a]
+## G6. Payment by employers to the Department[^c-9b667830b14c3b7f8714167bc9d09e7a]
 
 *Extent: N.I.*
 
@@ -40,6 +40,6 @@ in respect of his contributable salary for that month.
 
 ## Annotations
 
-[^key-9b667830b14c3b7f8714167bc9d09e7a]: Commencement: Reg. G6 in operation at 2.11.1998, see reg. A1
+[^c-9b667830b14c3b7f8714167bc9d09e7a]: Commencement: Reg. G6 in operation at 2.11.1998, see reg. A1
 
 [^f00031]: Footnote: [S.I. 1989/2406 (N.I. 20)](https://www.legislation.gov.uk/nisi/1989/2406) as amended by [S.I. 1993/2810 (N.I. 12)](https://www.legislation.gov.uk/nisi/1993/2810), [S.I. 1997/866 (N.I. 5)](https://www.legislation.gov.uk/nisi/1997/866) and [S.I. 1997/1722 (N.I. 15)](https://www.legislation.gov.uk/nisi/1997/1722)

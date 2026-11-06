@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Meaning of “owned or controlled directly or indirectly”[^key-7331e479e16f7ee4322b3cc6c6bf4631][^key-e7a66ec9e31f4c4fd6c14bf6fcdea2ea]
+## 7. Meaning of “owned or controlled directly or indirectly”[^c-7331e479e16f7ee4322b3cc6c6bf4631][^c-e7a66ec9e31f4c4fd6c14bf6fcdea2ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7331e479e16f7ee4322b3cc6c6bf4631]: Commencement: Reg. 7 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
+[^c-7331e479e16f7ee4322b3cc6c6bf4631]: Commencement: Reg. 7 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
 
-[^key-e7a66ec9e31f4c4fd6c14bf6fcdea2ea]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/1278/regulation/7) in force at 14.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(1)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/1)
+[^c-e7a66ec9e31f4c4fd6c14bf6fcdea2ea]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/1278/regulation/7) in force at 14.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(1)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/1)

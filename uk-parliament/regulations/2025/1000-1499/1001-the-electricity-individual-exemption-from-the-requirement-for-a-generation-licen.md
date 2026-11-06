@@ -48,7 +48,7 @@ The Secretary of State makes this Order in exercise of the powers conferred by s
 
 The Secretary of State has given notice of the proposal to make this Order in accordance with section 5(2) and (3) of that Act and has considered any representations made.
 
-## 1. Citation, commencement, extent and application[^key-861623a59918d3c9a79fb0a0a86fdf5f]
+## 1. Citation, commencement, extent and application[^c-861623a59918d3c9a79fb0a0a86fdf5f]
 
 (1) This Order may be cited as the Electricity (Individual Exemption from the Requirement for a Generation Licence) (Riverside Energy Park) (England) Order 2025 and comes into force on 1st October 2025.
 
@@ -56,7 +56,7 @@ The Secretary of State has given notice of the proposal to make this Order in ac
 
 (3) This Order applies in relation to England only.
 
-## 2. Exemption from prohibition of unlicensed generation of electricity for supply[^key-9cdfea8d692f3bf9e021db93a0c48558]
+## 2. Exemption from prohibition of unlicensed generation of electricity for supply[^c-9cdfea8d692f3bf9e021db93a0c48558]
 
 (1) Exemption is granted from section 4(1)(a) of the Act (prohibition of unlicensed generation of electricity for supply) to Riverside Energy Park Limited in respect of Riverside 2.
 
@@ -97,9 +97,9 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 5 was substituted by section 29 of the [Utilities Act 2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27). Section 5 has been amended by other instruments, but those amendments are not relevant to this Order.
 
-[^key-861623a59918d3c9a79fb0a0a86fdf5f]: Commencement: Art. 1 in force at 1.10.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1001/article/1/1)
+[^c-861623a59918d3c9a79fb0a0a86fdf5f]: Commencement: Art. 1 in force at 1.10.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1001/article/1/1)
 
-[^key-9cdfea8d692f3bf9e021db93a0c48558]: Commencement: Art. 2 in force at 1.10.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1001/article/1/1)
+[^c-9cdfea8d692f3bf9e021db93a0c48558]: Commencement: Art. 2 in force at 1.10.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1001/article/1/1)
 
 [^f00002]: Footnote: The Ordnance Survey map reference system is used to identify the position of a feature on Ordnance Maps (as defined in section 5 and Schedule 1 to the Interpretation Act [1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30)).
 

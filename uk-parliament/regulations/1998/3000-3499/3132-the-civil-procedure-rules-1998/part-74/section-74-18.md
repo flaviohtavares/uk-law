@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74.18. Certified copies of High Court and County Court non-money judgments[^key-3bdde8a4ae2efc3f1bdb3d288be72b56][^key-58ddedc447e45f27157c93586a6e9864]
+## 74.18. Certified copies of High Court and County Court non-money judgments[^c-3bdde8a4ae2efc3f1bdb3d288be72b56][^c-58ddedc447e45f27157c93586a6e9864]
 
 *Extent: E+W*
 
-(1) This rule applies to applications under paragraph 2 of Schedule 7 to the 1982 Act for a certified copy of a judgment of the High Court or of the County Court[^key-06ee65836197b66ca787a749c33c5656] to which section 18 of the Act applies and which contains non-money provisions for enforcement in another part of the United Kingdom.
+(1) This rule applies to applications under paragraph 2 of Schedule 7 to the 1982 Act for a certified copy of a judgment of the High Court or of the County Court[^c-06ee65836197b66ca787a749c33c5656] to which section 18 of the Act applies and which contains non-money provisions for enforcement in another part of the United Kingdom.
 
 (2) An application under paragraph (1) may be made without notice.
 
@@ -36,8 +36,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3bdde8a4ae2efc3f1bdb3d288be72b56]: Textual amendment: Pt. 74 inserted (2.12.2002) by [The Civil Procedure (Amendment) Rules 2002 (S.I. 2002/2058)](https://www.legislation.gov.uk/uksi/2002/2058), [rule 1(b)](https://www.legislation.gov.uk/uksi/2002/2058/rule/1/b), [Sch. 8](https://www.legislation.gov.uk/uksi/2002/2058/schedule/8)
+[^c-3bdde8a4ae2efc3f1bdb3d288be72b56]: Textual amendment: Pt. 74 inserted (2.12.2002) by [The Civil Procedure (Amendment) Rules 2002 (S.I. 2002/2058)](https://www.legislation.gov.uk/uksi/2002/2058), [rule 1(b)](https://www.legislation.gov.uk/uksi/2002/2058/rule/1/b), [Sch. 8](https://www.legislation.gov.uk/uksi/2002/2058/schedule/8)
 
-[^key-58ddedc447e45f27157c93586a6e9864]: Textual amendment: Words in [Rules](https://www.legislation.gov.uk/uksi/1998/3132) substituted (22.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rules 2(1)](https://www.legislation.gov.uk/uksi/2014/407/article/2/1), [4(a)(iii)](https://www.legislation.gov.uk/uksi/2014/407/rule/4/a/ii); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/954/article/2/a)
+[^c-58ddedc447e45f27157c93586a6e9864]: Textual amendment: Words in [Rules](https://www.legislation.gov.uk/uksi/1998/3132) substituted (22.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rules 2(1)](https://www.legislation.gov.uk/uksi/2014/407/article/2/1), [4(a)(iii)](https://www.legislation.gov.uk/uksi/2014/407/rule/4/a/ii); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/954/article/2/a)
 
-[^key-06ee65836197b66ca787a749c33c5656]: Textual amendment: Words in Rules substituted (22.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rules 2(1)](https://www.legislation.gov.uk/uksi/2014/407/article/2/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2014/407/rule/4/a/i); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/954/article/2/a)
+[^c-06ee65836197b66ca787a749c33c5656]: Textual amendment: Words in Rules substituted (22.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rules 2(1)](https://www.legislation.gov.uk/uksi/2014/407/article/2/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2014/407/rule/4/a/i); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/954/article/2/a)

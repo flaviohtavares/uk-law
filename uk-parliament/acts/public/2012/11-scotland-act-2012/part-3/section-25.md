@@ -22,9 +22,9 @@ summary: ''
 
 (1) The 1998 Act is amended as follows.
 
-(2)[^key-38438fc1c7d2e7e180860da30370fb6c] Part 4 (power to vary income tax rate) is omitted.
+(2)[^c-38438fc1c7d2e7e180860da30370fb6c] Part 4 (power to vary income tax rate) is omitted.
 
-(3)[^key-e4b983cb610658a1b2b8e79962eed74e] In Part 4A (as inserted by section 23), after Chapter 1 insert—
+(3)[^c-e4b983cb610658a1b2b8e79962eed74e] In Part 4A (as inserted by section 23), after Chapter 1 insert—
 
 > **CHAPTER 2 — Income Tax**
 >
@@ -137,9 +137,9 @@ summary: ''
 >
 > The Scottish Ministers may reimburse any Minister of the Crown or government department for administrative expenses incurred by virtue of this Chapter at any time after the passing of the Scotland Act 2012 by the Minister or department.
 
-(4)[^key-38438fc1c7d2e7e180860da30370fb6c] The repeal by subsection (2) of Part 4 of the 1998 Act has effect so that a tax-varying resolution may not be passed so as to relate to any tax year following such tax year as is appointed by the Treasury by order under this subsection (as the last year for which that Part is to have effect).
+(4)[^c-38438fc1c7d2e7e180860da30370fb6c] The repeal by subsection (2) of Part 4 of the 1998 Act has effect so that a tax-varying resolution may not be passed so as to relate to any tax year following such tax year as is appointed by the Treasury by order under this subsection (as the last year for which that Part is to have effect).
 
-(5)[^key-e4b983cb610658a1b2b8e79962eed74e] A Scottish rate resolution made under the provisions inserted by subsection (3) may not apply for a tax year preceding such tax year as is appointed by the Treasury by order under this subsection (as the first year for which those provisions are to have effect).
+(5)[^c-e4b983cb610658a1b2b8e79962eed74e] A Scottish rate resolution made under the provisions inserted by subsection (3) may not apply for a tax year preceding such tax year as is appointed by the Treasury by order under this subsection (as the first year for which those provisions are to have effect).
 
 (6) The tax year appointed under subsection (4) must precede the tax year appointed under subsection (5).
 
@@ -149,6 +149,6 @@ summary: ''
 
 [^c2130479]: Commencement: S. 25(1)-(6) in force at 1.7.2012, see s. 44(2)(b)(3)(a)(4)(a).
 
-[^key-38438fc1c7d2e7e180860da30370fb6c]: Commencement: S. 25(2)(4) has effect (as regards the appointed tax year) as specified by [The Scotland Act 2012, Section 25 (Appointed Years) Order 2015 (S.I. 2015/2000)](https://www.legislation.gov.uk/uksi/2015/2000), [art. 2](https://www.legislation.gov.uk/uksi/2015/2000/article/2)
+[^c-38438fc1c7d2e7e180860da30370fb6c]: Commencement: S. 25(2)(4) has effect (as regards the appointed tax year) as specified by [The Scotland Act 2012, Section 25 (Appointed Years) Order 2015 (S.I. 2015/2000)](https://www.legislation.gov.uk/uksi/2015/2000), [art. 2](https://www.legislation.gov.uk/uksi/2015/2000/article/2)
 
-[^key-e4b983cb610658a1b2b8e79962eed74e]: Commencement: S. 25(3)(5) has effect (as regards the appointed tax year) as specified by [The Scotland Act 2012, Section 25 (Appointed Years) Order 2015 (S.I. 2015/2000)](https://www.legislation.gov.uk/uksi/2015/2000), [art. 3](https://www.legislation.gov.uk/uksi/2015/2000/article/3)
+[^c-e4b983cb610658a1b2b8e79962eed74e]: Commencement: S. 25(3)(5) has effect (as regards the appointed tax year) as specified by [The Scotland Act 2012, Section 25 (Appointed Years) Order 2015 (S.I. 2015/2000)](https://www.legislation.gov.uk/uksi/2015/2000), [art. 3](https://www.legislation.gov.uk/uksi/2015/2000/article/3)

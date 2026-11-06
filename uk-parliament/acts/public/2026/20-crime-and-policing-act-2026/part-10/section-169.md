@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Harassment of a person in their home[^key-ed9fae900679879207782e8975dd2655][^key-6ee4a54a54e02fa2fa618e9425987b2a]
+## 169. Harassment of a person in their home[^c-ed9fae900679879207782e8975dd2655][^c-6ee4a54a54e02fa2fa618e9425987b2a]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ed9fae900679879207782e8975dd2655]: Commencement: S. 169 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-ed9fae900679879207782e8975dd2655]: Commencement: S. 169 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-6ee4a54a54e02fa2fa618e9425987b2a]: Commencement: [S. 169](https://www.legislation.gov.uk/ukpga/2026/20/section/169) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(s)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/s)
+[^c-6ee4a54a54e02fa2fa618e9425987b2a]: Commencement: [S. 169](https://www.legislation.gov.uk/ukpga/2026/20/section/169) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(s)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/s)

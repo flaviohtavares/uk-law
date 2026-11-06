@@ -54,7 +54,7 @@ summary: ''
 - “**registered social worker**” means a person registered as a social worker in a register maintained by—
   - (a) the Northern Ireland Social Care Council [^c22824691];
   - (b) the Health and Care Professions Council;
-  - (c) Social Care Wales, or[^key-357dbbdef6a0199794ddaf465902f3d9]
+  - (c) Social Care Wales, or[^c-357dbbdef6a0199794ddaf465902f3d9]
   - (d) the Scottish Social Services Council.
 
 ## Annotations
@@ -63,4 +63,4 @@ summary: ''
 
 [^c22824691]: Marginal citation: The Northern Ireland Social Care Council was established under section 1 of the Health and Personal Services Act (Northern Ireland) [2001 c.3](https://www.legislation.gov.uk/ukpga/2001/3). (NI).
 
-[^key-357dbbdef6a0199794ddaf465902f3d9]: Textual amendment: Words in reg. 96(5) substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/3), [9(8)](https://www.legislation.gov.uk/nisr/2017/116/regulation/9/8)
+[^c-357dbbdef6a0199794ddaf465902f3d9]: Textual amendment: Words in reg. 96(5) substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/3), [9(8)](https://www.legislation.gov.uk/nisr/2017/116/regulation/9/8)

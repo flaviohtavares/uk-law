@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-560ee61aeb4dfdf587d78d407d015f67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-560ee61aeb4dfdf587d78d407d015f67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 9 of the [^c15156351]Taxation of Chargeable Gains Act 1992 (residence, including temporary residence) the following subsection shall be inserted after subsection (3)—
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-560ee61aeb4dfdf587d78d407d015f67]: Textual amendment: [S. 208(1)](https://www.legislation.gov.uk/ukpga/1993/34/section/208/1) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-560ee61aeb4dfdf587d78d407d015f67]: Textual amendment: [S. 208(1)](https://www.legislation.gov.uk/ukpga/1993/34/section/208/1) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
 [^c15156351]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 

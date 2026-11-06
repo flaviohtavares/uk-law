@@ -41,7 +41,7 @@ Under section 92(2) of the Local Government and Public Involvement in Health Act
 
 The Local Government Boundary Commission for England has decided to give effect to the recommendations and makes the following Order in exercise of the power conferred by section 92(3) of that Act.
 
-## 1. Citation, commencement, extent and application[^key-b36789301613aaf8add7d133e3feef41]
+## 1. Citation, commencement, extent and application[^c-b36789301613aaf8add7d133e3feef41]
 
 (1) This Order may be cited as the Maidstone (Electoral Changes) Order 2025.
 
@@ -59,17 +59,17 @@ The Local Government Boundary Commission for England has decided to give effect 
 
 (5) This Order extends to England and Wales but applies in relation to England only.
 
-## 2. Interpretation[^key-57ed273a84065aab069c5ec0906007ab]
+## 2. Interpretation[^c-57ed273a84065aab069c5ec0906007ab]
 
 In this Order—
 
-- “[^key-c4fac3c7b89d92474517992e06ab812d]**the Appended Map**” means the map in the Schedule to this Order and any reference to an area marked on the Appended Map is a reference to an area identified on that map by way of the letter assigned to it;
+- “[^c-c4fac3c7b89d92474517992e06ab812d]**the Appended Map**” means the map in the Schedule to this Order and any reference to an area marked on the Appended Map is a reference to an area identified on that map by way of the letter assigned to it;
 - “**the Council’s Order**” means the Maidstone Borough (Reorganisation of Community Governance) Order 2023[^f00004];
 - “**the Map**” means the map in Schedule 2 to the Council’s Order and any reference to an “**area**” is a reference to an area identified on a sheet of that map by way of the letter assigned to it.
 
-## 3. Alteration of county electoral division boundaries[^key-6d13e68294c442713bac2d98b629d4fe][^key-bf3f8ead5ffce635419da062a403ec3e]
+## 3. Alteration of county electoral division boundaries[^c-6d13e68294c442713bac2d98b629d4fe][^c-bf3f8ead5ffce635419da062a403ec3e]
 
-(1)[^key-c8e789b78714ae7cc24105ef57d1ecac] Each area marked A on the Appended Map that ceases to be part of an unparished area and becomes part of the parish of Barming by virtue of the Council’s Order, ceases to be part of the Maidstone Central county electoral division and becomes part of the Maidstone Rural West county electoral division.
+(1)[^c-c8e789b78714ae7cc24105ef57d1ecac] Each area marked A on the Appended Map that ceases to be part of an unparished area and becomes part of the parish of Barming by virtue of the Council’s Order, ceases to be part of the Maidstone Central county electoral division and becomes part of the Maidstone Rural West county electoral division.
 
 (2) The area marked B on the Map that ceases to be part of the parish of Boughton Monchelsea and becomes part of the parish of Langley by virtue of the Council’s Order, ceases to be part of the Maidstone South East county electoral division and becomes part of the Maidstone Rural South county electoral division.
 
@@ -79,7 +79,7 @@ In this Order—
 
 (5) The area marked M on the Map that ceases to be part of the parish of Tovil and becomes part of an unparished area by virtue of the Council’s Order, ceases to be part of the Maidstone South county electoral division and becomes part of the Maidstone Central county electoral division.
 
-## 4. Alteration of borough ward boundaries[^key-bc506eb5e3558bffb123fa5d605efe66][^key-ffbff9646e81413c5757b538bcd6c504]
+## 4. Alteration of borough ward boundaries[^c-bc506eb5e3558bffb123fa5d605efe66][^c-ffbff9646e81413c5757b538bcd6c504]
 
 **Not yet in force.**
 
@@ -99,7 +99,7 @@ Local Government Boundary Commission for England
 
 11th February 2025
 
-## SCHEDULE — The Appended Map[^key-82007765d7cdaf9158b3098e3c3bd72e]
+## SCHEDULE — The Appended Map[^c-82007765d7cdaf9158b3098e3c3bd72e]
 
 Article 3(1)
 
@@ -125,24 +125,24 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00002]: Footnote: The Local Government Boundary Commission for England was established on 1st April 2010 by section 55(1) of the Local Democracy Economic Development and Construction Act 2009 (“**the 2009 Act**”). The functions of the Electoral Commission under Chapter 3 of Part 4 of the Local Government and Public Involvement in Health Act 2007 were transferred under section 60 of the 2009 Act to the Local Government Boundary Commission for England on 1st April 2010.
 
-[^key-b36789301613aaf8add7d133e3feef41]: Commencement: Art. 1 in force at 12.2.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/148/article/1/2)
+[^c-b36789301613aaf8add7d133e3feef41]: Commencement: Art. 1 in force at 12.2.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/148/article/1/2)
 
 [^f00003]: Footnote: The ordinary day of election of councillors in England is prescribed by section 37(1) of the Representation of the People Act [1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2), as amended by section 18(2) of the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50), renumbered by paragraph 5 of Schedule 3 to the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), and further amended by section 6(16) of the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4).
 
-[^key-57ed273a84065aab069c5ec0906007ab]: Commencement: Art. 2 in force at 12.2.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/148/article/1/2)
+[^c-57ed273a84065aab069c5ec0906007ab]: Commencement: Art. 2 in force at 12.2.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/148/article/1/2)
 
-[^key-c4fac3c7b89d92474517992e06ab812d]: Textual amendment: Words in art. 2 inserted (2.4.2025) by [The Maidstone (Electoral Changes) (Amendment) Order 2025 (S.I. 2025/445)](https://www.legislation.gov.uk/uksi/2025/445), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/445/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/445/article/2/2)
+[^c-c4fac3c7b89d92474517992e06ab812d]: Textual amendment: Words in art. 2 inserted (2.4.2025) by [The Maidstone (Electoral Changes) (Amendment) Order 2025 (S.I. 2025/445)](https://www.legislation.gov.uk/uksi/2025/445), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/445/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/445/article/2/2)
 
 [^f00004]: Footnote: That Order was made by Maidstone Borough Council on 29th November 2023, and is available for inspection at reasonable times at the offices of Maidstone Borough Council, Maidstone House, King Street, Maidstone, Kent, ME15 6JQ. Such Orders are not required to be made by statutory instrument. It is also available online at https://www.lgbce.org.uk/sites/default/files/2025-02/MBC\_Reorganisation\_of\_Community\_Governance\_Order\_2023.pdf.
 
-[^key-6d13e68294c442713bac2d98b629d4fe]: Commencement: Art. 3 in force at 12.2.2025 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2025/148/article/1/3/a)
+[^c-6d13e68294c442713bac2d98b629d4fe]: Commencement: Art. 3 in force at 12.2.2025 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2025/148/article/1/3/a)
 
-[^key-bf3f8ead5ffce635419da062a403ec3e]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2025/148/article/3) in force at 1.5.2025 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2025/148/article/1/3/b)
+[^c-bf3f8ead5ffce635419da062a403ec3e]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2025/148/article/3) in force at 1.5.2025 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2025/148/article/1/3/b)
 
-[^key-c8e789b78714ae7cc24105ef57d1ecac]: Textual amendment: [Art. 3(1)](https://www.legislation.gov.uk/uksi/2025/148/article/3/1) substituted (2.4.2025 for specified purposes, 1.5.2025 in so far as not already in force) by [The Maidstone (Electoral Changes) (Amendment) Order 2025 (S.I. 2025/445)](https://www.legislation.gov.uk/uksi/2025/445), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2025/445/article/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2025/445/article/2/3)
+[^c-c8e789b78714ae7cc24105ef57d1ecac]: Textual amendment: [Art. 3(1)](https://www.legislation.gov.uk/uksi/2025/148/article/3/1) substituted (2.4.2025 for specified purposes, 1.5.2025 in so far as not already in force) by [The Maidstone (Electoral Changes) (Amendment) Order 2025 (S.I. 2025/445)](https://www.legislation.gov.uk/uksi/2025/445), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2025/445/article/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2025/445/article/2/3)
 
-[^key-bc506eb5e3558bffb123fa5d605efe66]: Commencement: Art. 4 in force at 15.10.2027 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2025/148/article/1/4/a)
+[^c-bc506eb5e3558bffb123fa5d605efe66]: Commencement: Art. 4 in force at 15.10.2027 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2025/148/article/1/4/a)
 
-[^key-ffbff9646e81413c5757b538bcd6c504]: Commencement: Art. 4 in force at 4.5.2028 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2025/148/article/1/4/b)
+[^c-ffbff9646e81413c5757b538bcd6c504]: Commencement: Art. 4 in force at 4.5.2028 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2025/148/article/1/4/b)
 
-[^key-82007765d7cdaf9158b3098e3c3bd72e]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2025/148/schedule) inserted (2.4.2025 for specified purposes, 1.5.2025 in so far as not already in force) by [The Maidstone (Electoral Changes) (Amendment) Order 2025 (S.I. 2025/445)](https://www.legislation.gov.uk/uksi/2025/445), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2025/445/article/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2025/445/article/2/4)
+[^c-82007765d7cdaf9158b3098e3c3bd72e]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2025/148/schedule) inserted (2.4.2025 for specified purposes, 1.5.2025 in so far as not already in force) by [The Maidstone (Electoral Changes) (Amendment) Order 2025 (S.I. 2025/445)](https://www.legislation.gov.uk/uksi/2025/445), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2025/445/article/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2025/445/article/2/4)

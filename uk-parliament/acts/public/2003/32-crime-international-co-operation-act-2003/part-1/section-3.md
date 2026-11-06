@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. General requirements for service of process[^key-c8fc3dbad9c1b9d50510469be72b5868]
+## 3. General requirements for service of process[^c-c8fc3dbad9c1b9d50510469be72b5868]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8fc3dbad9c1b9d50510469be72b5868]: Commencement: S. 3 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-c8fc3dbad9c1b9d50510469be72b5868]: Commencement: S. 3 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)

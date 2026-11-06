@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Free school meals etc: information sharing[^key-f7d157289f60323b54d6af76e740c856][^key-e2bb2b25ac2d3366d5e828a16e1e5125]
+## 33. Free school meals etc: information sharing[^c-f7d157289f60323b54d6af76e740c856][^c-e2bb2b25ac2d3366d5e828a16e1e5125]
 
 *Extent: E+W*
 
@@ -97,6 +97,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f7d157289f60323b54d6af76e740c856]: Commencement: S. 33 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-f7d157289f60323b54d6af76e740c856]: Commencement: S. 33 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
 
-[^key-e2bb2b25ac2d3366d5e828a16e1e5125]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2026/21/section/33) in force at 1.6.2026 by [S.I. 2026/551](https://www.legislation.gov.uk/uksi/2026/551), [reg. 2](https://www.legislation.gov.uk/uksi/2026/551/regulation/2)
+[^c-e2bb2b25ac2d3366d5e828a16e1e5125]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2026/21/section/33) in force at 1.6.2026 by [S.I. 2026/551](https://www.legislation.gov.uk/uksi/2026/551), [reg. 2](https://www.legislation.gov.uk/uksi/2026/551/regulation/2)

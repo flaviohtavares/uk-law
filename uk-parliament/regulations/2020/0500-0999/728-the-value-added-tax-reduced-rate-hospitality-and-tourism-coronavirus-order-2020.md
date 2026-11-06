@@ -48,15 +48,15 @@ The Treasury make the provisions in articles 1 to 4 of this Order in exercise of
 
 The Commissioners for Her Majesty's Revenue and Customs make the provisions in articles 1, 5 and 6 of this Order in exercise of the powers conferred by section 26B of the Value Added Tax Act 1994 [^c24235441].
 
-## 1. Citation and commencement[^key-c94d9b01cb4c1447bd9be30a4a4a8eb6]
+## 1. Citation and commencement[^c-c94d9b01cb4c1447bd9be30a4a4a8eb6]
 
 This Order may be cited as the Value Added Tax (Reduced Rate) (Hospitality and Tourism) (Coronavirus) Order 2020 and comes into force on 15th July 2020.
 
-## 2. Modifications of Schedule 7A to the Value Added Tax Act 1994[^key-60a034a396765beec632afa9af35cfcf]
+## 2. Modifications of Schedule 7A to the Value Added Tax Act 1994[^c-60a034a396765beec632afa9af35cfcf]
 
-The following modifications of Schedule 7A to the Value Added Tax Act 1994 (charge at reduced rate) [^c24235451] have effect in relation to the period beginning with 15th July 2020 and ending with 30th September 2021[^key-6d9594b24e0ba542d45724375152ea8f].
+The following modifications of Schedule 7A to the Value Added Tax Act 1994 (charge at reduced rate) [^c24235451] have effect in relation to the period beginning with 15th July 2020 and ending with 30th September 2021[^c-6d9594b24e0ba542d45724375152ea8f].
 
-## 3.[^key-bcb27ada0cf0706798916f8dc03017f2]
+## 3.[^c-bcb27ada0cf0706798916f8dc03017f2]
 
 Part 1 (index to reduced-rate supplies of goods and services) has effect as if, at the appropriate places, there were inserted—
 
@@ -66,7 +66,7 @@ Part 1 (index to reduced-rate supplies of goods and services) has effect as if, 
 > | Holiday accommodation etc | Group 15 |
 > | Shows and certain other attractions | Group 16 |
 
-## 4.[^key-48444ad6a85238ca21cdf159a2b9af86]
+## 4.[^c-48444ad6a85238ca21cdf159a2b9af86]
 
 Part 2 (the groups) has effect as if, at the end, there were inserted—
 
@@ -95,11 +95,11 @@ Part 2 (the groups) has effect as if, at the end, there were inserted—
 
 .
 
-## 5. Modifications of regulation 55K of the Value Added Tax Regulations 1995[^key-203a02dfb2c046eec7f5e65a20b75e56]
+## 5. Modifications of regulation 55K of the Value Added Tax Regulations 1995[^c-203a02dfb2c046eec7f5e65a20b75e56]
 
-The following modifications of regulation 55K of the Value Added Tax Regulations 1995 [^c24235501] (flat-rate scheme for small businesses: category of business) have effect in relation to the period beginning with 15th July 2020 and ending with 30th September 2021[^key-5a12a7fdb8b49e3c5fea96e1ad74a719].
+The following modifications of regulation 55K of the Value Added Tax Regulations 1995 [^c24235501] (flat-rate scheme for small businesses: category of business) have effect in relation to the period beginning with 15th July 2020 and ending with 30th September 2021[^c-5a12a7fdb8b49e3c5fea96e1ad74a719].
 
-## 6.[^key-42e92a6c643ab3817be14428594f8b7a]
+## 6.[^c-42e92a6c643ab3817be14428594f8b7a]
 
 The Table has effect as if, in the second column—
 
@@ -135,17 +135,17 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^c24235441]: Marginal citation: [Section 26B](https://www.legislation.gov.uk/uksi/2020/728/section/26B) was inserted by section 23(1) and (4) of the [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23).
 
-[^key-c94d9b01cb4c1447bd9be30a4a4a8eb6]: Commencement: Art. 1 in force at 15.7.2020, see art. 1
+[^c-c94d9b01cb4c1447bd9be30a4a4a8eb6]: Commencement: Art. 1 in force at 15.7.2020, see art. 1
 
-[^key-60a034a396765beec632afa9af35cfcf]: Commencement: Art. 2 in force at 15.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/728/article/1)
+[^c-60a034a396765beec632afa9af35cfcf]: Commencement: Art. 2 in force at 15.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/728/article/1)
 
 [^c24235451]: Marginal citation: Schedule 7A was inserted by section 99(5) of, and paragraph 1 of Schedule 31 to, the Finance Act 2001. There are amendments to Schedule 7A but none are relevant to this Order.
 
-[^key-6d9594b24e0ba542d45724375152ea8f]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2020/728/article/2) substituted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 92](https://www.legislation.gov.uk/ukpga/2021/26/section/92)
+[^c-6d9594b24e0ba542d45724375152ea8f]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2020/728/article/2) substituted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 92](https://www.legislation.gov.uk/ukpga/2021/26/section/92)
 
-[^key-bcb27ada0cf0706798916f8dc03017f2]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2020/728/article/3) in force at 15.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/728/article/1)
+[^c-bcb27ada0cf0706798916f8dc03017f2]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2020/728/article/3) in force at 15.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/728/article/1)
 
-[^key-48444ad6a85238ca21cdf159a2b9af86]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2020/728/article/4) in force at 15.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/728/article/1)
+[^c-48444ad6a85238ca21cdf159a2b9af86]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2020/728/article/4) in force at 15.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/728/article/1)
 
 [^c24235461]: Marginal citation: Notes (3A) to (3D) to Group 1 of Schedule 8 were inserted by section 196 of, and paragraphs 1 and 2 of Schedule 26 to, the [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14).
 
@@ -155,10 +155,10 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^c24235491]: Marginal citation: Group 13 of Schedule 9 was inserted by [S.I. 1996/1256](https://www.legislation.gov.uk/uksi/1996/1256).
 
-[^key-203a02dfb2c046eec7f5e65a20b75e56]: Commencement: Art. 5 in force at 15.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/728/article/1)
+[^c-203a02dfb2c046eec7f5e65a20b75e56]: Commencement: Art. 5 in force at 15.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/728/article/1)
 
 [^c24235501]: Marginal citation: [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518); amended by [S.I. 2002/1142](https://www.legislation.gov.uk/uksi/2002/1142), 2003/1069, 2003/3220, 2007/1418, 2009/586, 2010/2240, 2010/2940, and 2017/295; there are other amending instruments but none are relevant.
 
-[^key-5a12a7fdb8b49e3c5fea96e1ad74a719]: Textual amendment: Words in [art. 5](https://www.legislation.gov.uk/uksi/2020/728/article/5) substituted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 92](https://www.legislation.gov.uk/ukpga/2021/26/section/92)
+[^c-5a12a7fdb8b49e3c5fea96e1ad74a719]: Textual amendment: Words in [art. 5](https://www.legislation.gov.uk/uksi/2020/728/article/5) substituted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 92](https://www.legislation.gov.uk/ukpga/2021/26/section/92)
 
-[^key-42e92a6c643ab3817be14428594f8b7a]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2020/728/article/6) in force at 15.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/728/article/1)
+[^c-42e92a6c643ab3817be14428594f8b7a]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2020/728/article/6) in force at 15.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/728/article/1)

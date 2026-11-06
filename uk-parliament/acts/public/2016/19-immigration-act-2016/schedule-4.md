@@ -24,7 +24,7 @@ Section 36
 
 ### PART 1 — Entitlement to work in the United Kingdom
 
-**1.**[^key-746dd45631f8ebf8da1fe490eb1a8240] After section 192 of the Licensing Act 2003 insert—
+**1.**[^c-746dd45631f8ebf8da1fe490eb1a8240] After section 192 of the Licensing Act 2003 insert—
 
 > **192A. Entitlement to work in the United Kingdom**
 >
@@ -43,15 +43,15 @@ Section 36
 
 ### PART 2 — Premises licences
 
-**2.**[^key-0863a7b5d97493f2f0aea38fff0ef81d] Part 3 of the Licensing Act 2003 (premises licences) is amended as follows.
+**2.**[^c-0863a7b5d97493f2f0aea38fff0ef81d] Part 3 of the Licensing Act 2003 (premises licences) is amended as follows.
 
-**3.**[^key-5a50b40f86580fd4c3b38e5660417ffa] In section 13(4) (meaning of “responsible authority”), after paragraph (h) insert—
+**3.**[^c-5a50b40f86580fd4c3b38e5660417ffa] In section 13(4) (meaning of “responsible authority”), after paragraph (h) insert—
 
 > - (ha) where the premises (not being a vessel) are being, or are proposed to be, used for a licensable activity within section 1(1)(a) or (d), the Secretary of State,
 
 .
 
-**4.**[^key-d5619032a536bc54acdaa91b4ef07ca2] (1) Section 16 (applicant for premises licence) is amended as follows.
+**4.**[^c-d5619032a536bc54acdaa91b4ef07ca2] (1) Section 16 (applicant for premises licence) is amended as follows.
 
 (2) In subsection (1), at the beginning insert “ Subject to subsections (2) and (2A), ”.
 
@@ -61,11 +61,11 @@ Section 36
 
 > (2A) An individual who is resident in the United Kingdom may not apply for a premises licence authorising premises to be used for a licensable activity within section 1(1)(a) or (d) unless the individual is entitled to work in the United Kingdom.
 
-**5.**[^key-7e64820e92a3b6cca254456bb3353e1e] In section 27 (death, incapacity, insolvency etc of licence holder), after subsection (1) insert—
+**5.**[^c-7e64820e92a3b6cca254456bb3353e1e] In section 27 (death, incapacity, insolvency etc of licence holder), after subsection (1) insert—
 
 > (1A) A premises licence that authorises premises to be used for a licensable activity within section 1(1)(a) or (d) also lapses if the holder of the licence ceases to be entitled to work in the United Kingdom at a time when the holder of the licence is resident in the United Kingdom (or becomes so resident without being entitled to work in the United Kingdom).
 
-**6.**[^key-0d952686028ff76582574a2333db5819] (1) Section 42 (application for transfer of premises licence) is amended as follows.
+**6.**[^c-0d952686028ff76582574a2333db5819] (1) Section 42 (application for transfer of premises licence) is amended as follows.
 
 (2) After subsection (2) insert—
 
@@ -83,7 +83,7 @@ Section 36
 >
 > (9) The Secretary of State must give that notice within the period of 14 days beginning with the day on which the Secretary of State is notified of the application under subsection (5ZA).
 
-**7.**[^key-8a9a1031c72454256437fe11c40b8e59] (1) Section 44(5) (determination of transfer application) is amended as follows.
+**7.**[^c-8a9a1031c72454256437fe11c40b8e59] (1) Section 44(5) (determination of transfer application) is amended as follows.
 
 (2) In the words before paragraph (a), after “section 42(6)” insert “ or (8) ”.
 
@@ -95,7 +95,7 @@ Section 36
 >   - (i) where the notice is given under section 42(6), reject the application if it considers it appropriate for the promotion of the crime prevention objective to do so, or
 >   - (ii) where the notice is given under section 42(8), reject the application if it considers it appropriate for the prevention of illegal working in licensed premises to do so.
 
-**8.**[^key-cc706783a8b048c6bb167d850304c2a1] (1) Section 45 (notification of determination under section 44) is amended as follows.
+**8.**[^c-cc706783a8b048c6bb167d850304c2a1] (1) Section 45 (notification of determination under section 44) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -106,7 +106,7 @@ Section 36
 
 > (2A) Where the Secretary of State gave a notice under subsection (8) of section 42 (which was not withdrawn), the notice under subsection (1) of this section must also be given to the Secretary of State.
 
-**9.**[^key-78743cfd0473a5d9336c6899fbfa628a] (1) Section 47 (interim authority notice following death etc of licence holder) is amended as follows.
+**9.**[^c-78743cfd0473a5d9336c6899fbfa628a] (1) Section 47 (interim authority notice following death etc of licence holder) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -130,7 +130,7 @@ Section 36
 - (a) in paragraph (a), for “subsection (7)(a) does” substitute “ paragraphs (a) and (aa) of subsection (7) do ”;
 - (b) in paragraph (b), at the end insert “ and, where the premises licence authorises premises to be used for a licensable activity within section 1(1)(a) or (d), to the Secretary of State. ”
 
-**10.**[^key-d9f67ccb069f7feefb68646c115d0abf] (1) Section 48 (cancellation of interim authority notice following police objections) is amended as follows.
+**10.**[^c-d9f67ccb069f7feefb68646c115d0abf] (1) Section 48 (cancellation of interim authority notice following police objections) is amended as follows.
 
 (2) In the heading, omit “police”.
 
@@ -160,13 +160,13 @@ Section 36
 
 > (5A) Where an interim authority notice is cancelled under subsection (3)(b)(ii), the licensing authority must also give a copy of the notice under subsection (4) to the Secretary of State.
 
-**11.**[^key-42c2b66dc85b59d214fbb2897b00362f] In section 50 (reinstatement of licence on transfer following death etc of holder), in subsection (3), for “(who, in the case of an individual, is aged 18 or over)” substitute “ (and who would, where applicable, satisfy subsections (2) and (2A) of section 42) ”.
+**11.**[^c-42c2b66dc85b59d214fbb2897b00362f] In section 50 (reinstatement of licence on transfer following death etc of holder), in subsection (3), for “(who, in the case of an individual, is aged 18 or over)” substitute “ (and who would, where applicable, satisfy subsections (2) and (2A) of section 42) ”.
 
 ### PART 3 — Personal licences
 
-**12.**[^key-5078b8b75e3b3ee5aac1bc6af5dfcad8] Part 6 of the Licensing Act 2003 (personal licences) is amended as follows.
+**12.**[^c-5078b8b75e3b3ee5aac1bc6af5dfcad8] Part 6 of the Licensing Act 2003 (personal licences) is amended as follows.
 
-**13.**[^key-1ec07bb4bbbd795a6149fd5eb91d263f] (1) Section 113 (meaning of “**relevant offence**” and “**foreign offence**”) is amended as follows.
+**13.**[^c-1ec07bb4bbbd795a6149fd5eb91d263f] (1) Section 113 (meaning of “**relevant offence**” and “**foreign offence**”) is amended as follows.
 
 (2) In the heading, for “and “foreign offence”” substitute “, “immigration offence”, “foreign offence” and “immigration penalty””.
 
@@ -204,7 +204,7 @@ Section 36
 > - (a) the period for giving a notice of objection under section 29 of that Act has expired and the Secretary of State has considered any notice given within that period, and
 > - (b) if a notice of objection was given within that period, the period for appealing under section 30 of that Act has expired and any appeal brought within that period has been finally determined, abandoned or withdrawn.
 
-**14.**[^key-1cb7cf1d3a729b1ca3f47be53366e495] (1) Section 115 (period of validity of personal licence) is amended as follows.
+**14.**[^c-1cb7cf1d3a729b1ca3f47be53366e495] (1) Section 115 (period of validity of personal licence) is amended as follows.
 
 (2) In subsection (2), after “subsections” insert “ (2A), ”.
 
@@ -212,7 +212,7 @@ Section 36
 
 > (2A) A personal licence ceases to have effect if the holder of the licence ceases to be entitled to work in the United Kingdom.
 
-**15.**[^key-2537e281d81b1223091ef839794a0225] (1) Section 120 (determination of application for grant) is amended as follows.
+**15.**[^c-2537e281d81b1223091ef839794a0225] (1) Section 120 (determination of application for grant) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -274,7 +274,7 @@ Section 36
 
 > (7A) An application that is not rejected by the authority under subsection (7)(b) must be granted by it.
 
-**16.**[^key-6dfa78bde4d34dcdbd6be533baf2cd15] (1) Section 122 (notification of determinations) is amended as follows.
+**16.**[^c-6dfa78bde4d34dcdbd6be533baf2cd15] (1) Section 122 (notification of determinations) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -287,7 +287,7 @@ Section 36
 
 (4) In subsection (3), in the definition of “objection notice”, for “has” substitute “ and “immigration objection notice” have ”.
 
-**17.**[^key-933aa2bb4132f9862da0c6a0ca448e9c] (1) Section 123 (duty to notify licensing authority of convictions during application period) is amended as follows.
+**17.**[^c-933aa2bb4132f9862da0c6a0ca448e9c] (1) Section 123 (duty to notify licensing authority of convictions during application period) is amended as follows.
 
 (2) In the heading, after “convictions” insert “ etc ”.
 
@@ -296,7 +296,7 @@ Section 36
 - (a) after “application period” insert “ , or is required to pay an immigration penalty during that period ”;
 - (b) after “conviction” insert “ or the requirement to pay (as the case may be) ”.
 
-**18.**[^key-7bbcc4aa039b212f633803cff35fcbeb] (1) Section 124 (convictions coming to light after grant) is amended as follows.
+**18.**[^c-7bbcc4aa039b212f633803cff35fcbeb] (1) Section 124 (convictions coming to light after grant) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -353,7 +353,7 @@ Section 36
 
 > (5A) Where the authority revokes or decides not to revoke a licence under subsection (4)(b)(ii) it must also notify the Secretary of State of the decision and its reasons for making it.
 
-**19.**[^key-7d487857bd64ac5df98ab1299a6b1b88] (1) Section 125(3) (form of personal licence) is amended as follows.
+**19.**[^c-7d487857bd64ac5df98ab1299a6b1b88] (1) Section 125(3) (form of personal licence) is amended as follows.
 
 (2) For “of each” substitute
 
@@ -367,7 +367,7 @@ Section 36
 
 > - (b) each immigration penalty that the holder has been required to pay and the date of each notice by which such a penalty was imposed.
 
-**20.**[^key-1ea7f9c3baee85c63554dace0ec2ea4c] (1) Section 132 (licence holder's duty to notify licensing authority of convictions) is amended as follows.
+**20.**[^c-1ea7f9c3baee85c63554dace0ec2ea4c] (1) Section 132 (licence holder's duty to notify licensing authority of convictions) is amended as follows.
 
 (2) In the heading, after “convictions” insert “ etc ”.
 
@@ -379,13 +379,13 @@ Section 36
 
 (4) In subsection (3), after “(2)” insert “ or (2B) ”.
 
-**21.**[^key-3b2a960959d2175fa06c9a42598edd44] In Schedule 4 (personal licence: relevant offences), after paragraph 7 insert—
+**21.**[^c-3b2a960959d2175fa06c9a42598edd44] In Schedule 4 (personal licence: relevant offences), after paragraph 7 insert—
 
 > **7A.** An offence under any of the Immigration Acts.
 
 ### PART 4 — Rights of entry
 
-**22.**[^key-0f00fd4c582bc1aca8024b7c94dba196] (1) Section 179 of the Licensing Act 2003 (rights of entry to investigate licensable activities) is amended as follows.
+**22.**[^c-0f00fd4c582bc1aca8024b7c94dba196] (1) Section 179 of the Licensing Act 2003 (rights of entry to investigate licensable activities) is amended as follows.
 
 (2) After subsection (1) insert—
 
@@ -409,9 +409,9 @@ Section 36
 
 ### PART 5 — Appeals
 
-**23.**[^key-40eb6394ed3b0f19788b062513b0f0b5] Schedule 5 to the Licensing Act 2003 (appeals) is amended as follows.
+**23.**[^c-40eb6394ed3b0f19788b062513b0f0b5] Schedule 5 to the Licensing Act 2003 (appeals) is amended as follows.
 
-**24.**[^key-7943d12e78463c77b336299f0f7c6acd] (1) Paragraph 6 (transfer of licence) is amended as follows.
+**24.**[^c-7943d12e78463c77b336299f0f7c6acd] (1) Paragraph 6 (transfer of licence) is amended as follows.
 
 (2) In sub-paragraph (1)—
 
@@ -420,7 +420,7 @@ Section 36
 
 (3) In sub-paragraph (2), after “police” insert “ or the Secretary of State, as the case may be, ”.
 
-**25.**[^key-cd54ef87877152c9118eb7f2b9fd0b39] (1) Paragraph 7 (interim authority notice) is amended as follows.
+**25.**[^c-cd54ef87877152c9118eb7f2b9fd0b39] (1) Paragraph 7 (interim authority notice) is amended as follows.
 
 (2) In sub-paragraph (1)(b)—
 
@@ -433,9 +433,9 @@ Section 36
 
 > (3A) Where the relevant licensing authority decides not to cancel the interim authority notice under section 48(3) after the giving of a notice by the Secretary of State under section 48(2B), the Secretary of State may appeal against that decision.
 
-**26.**[^key-f2f1c17644aa4f116ab0e9a2592c94be] In paragraph 9 (general provision about appeals under Part 1 of Schedule 5), in sub-paragraph (4), after “paragraph 7(3)” insert “ or (3A) ”.
+**26.**[^c-f2f1c17644aa4f116ab0e9a2592c94be] In paragraph 9 (general provision about appeals under Part 1 of Schedule 5), in sub-paragraph (4), after “paragraph 7(3)” insert “ or (3A) ”.
 
-**27.**[^key-3cd5b495ecd5f30f0ba60e7c73fc5b46] (1) Paragraph 17 (personal licences) is amended as follows.
+**27.**[^c-3cd5b495ecd5f30f0ba60e7c73fc5b46] (1) Paragraph 17 (personal licences) is amended as follows.
 
 (2) In sub-paragraph (2)—
 
@@ -457,7 +457,7 @@ Section 36
 
 (5) In sub-paragraph (8), for “(2), (3) or (5)” substitute “ (2), (2A), (5) or (5A) ”.
 
-**28.**[^key-7cdb50b9869b7ca20300d8ea6a47b206] At the end insert—
+**28.**[^c-7cdb50b9869b7ca20300d8ea6a47b206] At the end insert—
 
 > **PART 4 — Questions about leave to enter or remain in the UK**
 >
@@ -468,9 +468,9 @@ Section 36
 
 ### PART 6 — General
 
-**29.**[^key-a3d91cce9cc51189ea22ff9608765567] In section 10 of the Licensing Act 2003, (sub-delegation of functions by licensing committee etc), in subsection (4)(a), in sub-paragraphs (v), (vi) and (x), omit “police”.
+**29.**[^c-a3d91cce9cc51189ea22ff9608765567] In section 10 of the Licensing Act 2003, (sub-delegation of functions by licensing committee etc), in subsection (4)(a), in sub-paragraphs (v), (vi) and (x), omit “police”.
 
-**30.**[^key-ecec8bed7af0463fb48a0e69c10debb1] (1) Section 193 of the Licensing Act 2003 (other definitions) is amended as follows.
+**30.**[^c-ecec8bed7af0463fb48a0e69c10debb1] (1) Section 193 of the Licensing Act 2003 (other definitions) is amended as follows.
 
 (2) The existing text becomes subsection (1).
 
@@ -478,7 +478,7 @@ Section 36
 
 > (2) For the purposes of references in this Act to the prevention of illegal working in licensed premises, a person is working illegally if by doing that work at that time the person is committing an offence under section 24B of the Immigration Act 1971.
 
-**31.**[^key-f40db1817bc07b7c98a3a99fd5e1f9af] In section 194 of the Licensing Act 2003 (index of defined expressions), insert the following entries at the appropriate places—
+**31.**[^c-f40db1817bc07b7c98a3a99fd5e1f9af] In section 194 of the Licensing Act 2003 (index of defined expressions), insert the following entries at the appropriate places—
 
 > |  |  |
 > | --- | --- |
@@ -496,91 +496,91 @@ Section 36
 > | --- | --- |
 > | working illegally, in relation to the prevention of illegal working in licensed premises | section 193 |
 
-**32.**[^key-b77e9b82f17fd0168a74b5f0c6ae37ac] In the Police Reform and Social Responsibility Act 2011, omit sections 109(9) and (10) and 111(3) and (5).
+**32.**[^c-b77e9b82f17fd0168a74b5f0c6ae37ac] In the Police Reform and Social Responsibility Act 2011, omit sections 109(9) and (10) and 111(3) and (5).
 
 ### PART 7 — Transitional provision
 
-**33.**[^key-5048e702268435d562c4d08ca5f44f62] The amendments of sections 13, 16, 42, 47 and 120 of the Licensing Act 2003 made by paragraphs 3, 4, 6, 9 and 15 respectively of this Schedule do not apply in relation to applications made, or interim authority notices given, before the coming into force of the respective paragraph.
+**33.**[^c-5048e702268435d562c4d08ca5f44f62] The amendments of sections 13, 16, 42, 47 and 120 of the Licensing Act 2003 made by paragraphs 3, 4, 6, 9 and 15 respectively of this Schedule do not apply in relation to applications made, or interim authority notices given, before the coming into force of the respective paragraph.
 
-**34.**[^key-b4113c824975140529c54dce3ce91ffe] The amendment of section 27 of the Licensing Act 2003 made by paragraph 5 of this Schedule does not apply in relation to a premises licence granted pursuant to an application made before the coming into force of that paragraph.
+**34.**[^c-b4113c824975140529c54dce3ce91ffe] The amendment of section 27 of the Licensing Act 2003 made by paragraph 5 of this Schedule does not apply in relation to a premises licence granted pursuant to an application made before the coming into force of that paragraph.
 
-**35.**[^key-96d4ab94e2a12de6343da1c705d81a20] The amendments of section 115 of the Licensing Act 2003 made by paragraph 14 of this Schedule do not apply in relation to a personal licence granted pursuant to an application made before the coming into force of that paragraph.
+**35.**[^c-96d4ab94e2a12de6343da1c705d81a20] The amendments of section 115 of the Licensing Act 2003 made by paragraph 14 of this Schedule do not apply in relation to a personal licence granted pursuant to an application made before the coming into force of that paragraph.
 
-**36.**[^key-52898334a0dc50f55cc9f8b9d5723666] The amendment of Schedule 4 to the Licensing Act 2003 made by paragraph 21 of this Schedule applies on and after the coming into force of that paragraph in relation to—
+**36.**[^c-52898334a0dc50f55cc9f8b9d5723666] The amendment of Schedule 4 to the Licensing Act 2003 made by paragraph 21 of this Schedule applies on and after the coming into force of that paragraph in relation to—
 
 - (a) personal licences granted before, on or after the coming into force of that paragraph, and
 - (b) offences committed before, on or after the coming into force of that paragraph.
 
 ## Annotations
 
-[^key-746dd45631f8ebf8da1fe490eb1a8240]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/1) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/380/regulation/3))
+[^c-746dd45631f8ebf8da1fe490eb1a8240]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/1) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/380/regulation/3))
 
-[^key-0863a7b5d97493f2f0aea38fff0ef81d]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/2) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-0863a7b5d97493f2f0aea38fff0ef81d]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/2) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-5a50b40f86580fd4c3b38e5660417ffa]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/3) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-5a50b40f86580fd4c3b38e5660417ffa]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/3) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-d5619032a536bc54acdaa91b4ef07ca2]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/4) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-d5619032a536bc54acdaa91b4ef07ca2]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/4) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-7e64820e92a3b6cca254456bb3353e1e]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/5) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-7e64820e92a3b6cca254456bb3353e1e]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/5) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-0d952686028ff76582574a2333db5819]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/6) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-0d952686028ff76582574a2333db5819]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/6) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-8a9a1031c72454256437fe11c40b8e59]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/7) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-8a9a1031c72454256437fe11c40b8e59]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/7) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-cc706783a8b048c6bb167d850304c2a1]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/8) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-cc706783a8b048c6bb167d850304c2a1]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/8) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-78743cfd0473a5d9336c6899fbfa628a]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/9) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-78743cfd0473a5d9336c6899fbfa628a]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/9) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-d9f67ccb069f7feefb68646c115d0abf]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/10) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-d9f67ccb069f7feefb68646c115d0abf]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/10) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-42c2b66dc85b59d214fbb2897b00362f]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/11) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-42c2b66dc85b59d214fbb2897b00362f]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/11) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-5078b8b75e3b3ee5aac1bc6af5dfcad8]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/12) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-5078b8b75e3b3ee5aac1bc6af5dfcad8]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/12) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-1ec07bb4bbbd795a6149fd5eb91d263f]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/13) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-1ec07bb4bbbd795a6149fd5eb91d263f]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/13) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-1cb7cf1d3a729b1ca3f47be53366e495]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/14) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-1cb7cf1d3a729b1ca3f47be53366e495]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/14) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-2537e281d81b1223091ef839794a0225]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/15) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-2537e281d81b1223091ef839794a0225]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/15) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-6dfa78bde4d34dcdbd6be533baf2cd15]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/16) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-6dfa78bde4d34dcdbd6be533baf2cd15]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/16) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-933aa2bb4132f9862da0c6a0ca448e9c]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/17) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-933aa2bb4132f9862da0c6a0ca448e9c]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/17) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-7bbcc4aa039b212f633803cff35fcbeb]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/18) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-7bbcc4aa039b212f633803cff35fcbeb]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/18) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-7d487857bd64ac5df98ab1299a6b1b88]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/19) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-7d487857bd64ac5df98ab1299a6b1b88]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/19) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-1ea7f9c3baee85c63554dace0ec2ea4c]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/20) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-1ea7f9c3baee85c63554dace0ec2ea4c]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/20) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-3b2a960959d2175fa06c9a42598edd44]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/21) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-3b2a960959d2175fa06c9a42598edd44]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/21) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-0f00fd4c582bc1aca8024b7c94dba196]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/22) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-0f00fd4c582bc1aca8024b7c94dba196]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/22) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-40eb6394ed3b0f19788b062513b0f0b5]: Commencement: [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/23) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-40eb6394ed3b0f19788b062513b0f0b5]: Commencement: [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/23) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-7943d12e78463c77b336299f0f7c6acd]: Commencement: [Sch. 4 para. 24](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/24) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-7943d12e78463c77b336299f0f7c6acd]: Commencement: [Sch. 4 para. 24](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/24) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-cd54ef87877152c9118eb7f2b9fd0b39]: Commencement: [Sch. 4 para. 25](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/25) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-cd54ef87877152c9118eb7f2b9fd0b39]: Commencement: [Sch. 4 para. 25](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/25) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-f2f1c17644aa4f116ab0e9a2592c94be]: Commencement: [Sch. 4 para. 26](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/26) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-f2f1c17644aa4f116ab0e9a2592c94be]: Commencement: [Sch. 4 para. 26](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/26) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-3cd5b495ecd5f30f0ba60e7c73fc5b46]: Commencement: [Sch. 4 para. 27](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/27) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-3cd5b495ecd5f30f0ba60e7c73fc5b46]: Commencement: [Sch. 4 para. 27](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/27) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-7cdb50b9869b7ca20300d8ea6a47b206]: Commencement: [Sch. 4 para. 28](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/28) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-7cdb50b9869b7ca20300d8ea6a47b206]: Commencement: [Sch. 4 para. 28](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/28) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-a3d91cce9cc51189ea22ff9608765567]: Commencement: [Sch. 4 para. 29](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/29) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-a3d91cce9cc51189ea22ff9608765567]: Commencement: [Sch. 4 para. 29](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/29) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-ecec8bed7af0463fb48a0e69c10debb1]: Commencement: [Sch. 4 para. 30](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/30) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-ecec8bed7af0463fb48a0e69c10debb1]: Commencement: [Sch. 4 para. 30](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/30) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-f40db1817bc07b7c98a3a99fd5e1f9af]: Commencement: [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/31) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-f40db1817bc07b7c98a3a99fd5e1f9af]: Commencement: [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/31) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-b77e9b82f17fd0168a74b5f0c6ae37ac]: Commencement: [Sch. 4 para. 32](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/32) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-b77e9b82f17fd0168a74b5f0c6ae37ac]: Commencement: [Sch. 4 para. 32](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/32) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-5048e702268435d562c4d08ca5f44f62]: Commencement: [Sch. 4 para. 33](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/33) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-5048e702268435d562c4d08ca5f44f62]: Commencement: [Sch. 4 para. 33](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/33) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-b4113c824975140529c54dce3ce91ffe]: Commencement: [Sch. 4 para. 34](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/34) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-b4113c824975140529c54dce3ce91ffe]: Commencement: [Sch. 4 para. 34](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/34) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-96d4ab94e2a12de6343da1c705d81a20]: Commencement: [Sch. 4 para. 35](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/35) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-96d4ab94e2a12de6343da1c705d81a20]: Commencement: [Sch. 4 para. 35](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/35) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-52898334a0dc50f55cc9f8b9d5723666]: Commencement: [Sch. 4 para. 36](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/36) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-52898334a0dc50f55cc9f8b9d5723666]: Commencement: [Sch. 4 para. 36](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/36) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)

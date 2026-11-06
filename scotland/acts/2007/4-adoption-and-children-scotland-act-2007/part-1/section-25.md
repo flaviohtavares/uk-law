@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Return of child placed for adoption by adoption agency[^key-78d5a3b279e874853adba6fe99444a9e][^key-6919a0724ffb7fe1a6acfb0a2935ee58][^key-dd434946c1be4767933e7cdaa0381483][^key-1aa9b1ca6bb367ab31400e0712afec2e][^key-1aa9b1ca6bb367ab31400e0712afec2e]
+## 25. Return of child placed for adoption by adoption agency[^c-78d5a3b279e874853adba6fe99444a9e][^c-6919a0724ffb7fe1a6acfb0a2935ee58][^c-dd434946c1be4767933e7cdaa0381483][^c-1aa9b1ca6bb367ab31400e0712afec2e][^c-1aa9b1ca6bb367ab31400e0712afec2e]
 
 *Extent: S*
 
@@ -54,10 +54,10 @@ summary: ''
 
 ## Annotations
 
-[^key-78d5a3b279e874853adba6fe99444a9e]: Commencement: S. 25 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
+[^c-78d5a3b279e874853adba6fe99444a9e]: Commencement: S. 25 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
 
-[^key-6919a0724ffb7fe1a6acfb0a2935ee58]: Modification: S. 25 applied (with modifications) (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [6(3)](https://www.legislation.gov.uk/ssi/2009/182/regulation/6/3)
+[^c-6919a0724ffb7fe1a6acfb0a2935ee58]: Modification: S. 25 applied (with modifications) (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [6(3)](https://www.legislation.gov.uk/ssi/2009/182/regulation/6/3)
 
-[^key-dd434946c1be4767933e7cdaa0381483]: Modification: S. 25 excluded (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [9(4)(e)](https://www.legislation.gov.uk/ssi/2009/182/regulation/9/4/e)
+[^c-dd434946c1be4767933e7cdaa0381483]: Modification: S. 25 excluded (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [9(4)(e)](https://www.legislation.gov.uk/ssi/2009/182/regulation/9/4/e)
 
-[^key-1aa9b1ca6bb367ab31400e0712afec2e]: Modification: Pt. 1 Ch. 2 applied in part (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/9/1)
+[^c-1aa9b1ca6bb367ab31400e0712afec2e]: Modification: Pt. 1 Ch. 2 applied in part (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/9/1)

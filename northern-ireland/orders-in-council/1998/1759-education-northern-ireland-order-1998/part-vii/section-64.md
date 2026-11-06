@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 64. Withdrawal of maintenance grants from grant-maintained integrated school[^key-a18fc705880a32c22488ca0baa8a91f6]
+## 64. Withdrawal of maintenance grants from grant-maintained integrated school[^c-a18fc705880a32c22488ca0baa8a91f6]
 
 *Extent: N.I.*
 
-(1) The Department may give to the Board of Governors of a grant-maintained integrated school a notice stating that the duty of the Authority[^key-a16a20883481c307df58cdef45483613] under Article 63 to pay maintenance grants to the Board of Governors of the school will cease on a date specified in the notice.
+(1) The Department may give to the Board of Governors of a grant-maintained integrated school a notice stating that the duty of the Authority[^c-a16a20883481c307df58cdef45483613] under Article 63 to pay maintenance grants to the Board of Governors of the school will cease on a date specified in the notice.
 
 (2) Subject to the following provisions of this Article—
 
@@ -76,14 +76,14 @@ summary: ''
 (13) In this Article—
 
 - “notice” means notice in writing;
-- [^key-1448c39e11045ed2ea8545b5ac408133]...
+- [^c-1448c39e11045ed2ea8545b5ac408133]...
 
 ## Annotations
 
-[^key-a18fc705880a32c22488ca0baa8a91f6]: Commencement: [Art. 64](https://www.legislation.gov.uk/nisi/1998/1759/article/64) in operation at 1.4.2016 by [S.R. 2016/207](https://www.legislation.gov.uk/nisr/2016/207), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/207/article/2/a)
+[^c-a18fc705880a32c22488ca0baa8a91f6]: Commencement: [Art. 64](https://www.legislation.gov.uk/nisi/1998/1759/article/64) in operation at 1.4.2016 by [S.R. 2016/207](https://www.legislation.gov.uk/nisr/2016/207), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/207/article/2/a)
 
-[^key-a16a20883481c307df58cdef45483613]: Textual amendment: Words in art. 64 substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 20(5)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/20/5) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b) (but this amendment cannot take effect until the commencement of S.I. 1998/1759, art. 64)
+[^c-a16a20883481c307df58cdef45483613]: Textual amendment: Words in art. 64 substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 20(5)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/20/5) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b) (but this amendment cannot take effect until the commencement of S.I. 1998/1759, art. 64)
 
 [^M_F_a865e7a0-08a7-4335-e556-e340a7ce723c]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c.12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b) (but this amendment cannot take effect until the commencement of [S.I. 1998/1759](https://www.legislation.gov.uk/uksi/1998/1759), [art. 64](https://www.legislation.gov.uk/uksi/1998/1759/article/64))
 
-[^key-1448c39e11045ed2ea8545b5ac408133]: Textual amendment: Words in art. 64(13) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b) (but this amendment cannot take effect until the commencement of S.I. 1998/1759, art. 64)
+[^c-1448c39e11045ed2ea8545b5ac408133]: Textual amendment: Words in art. 64(13) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b) (but this amendment cannot take effect until the commencement of S.I. 1998/1759, art. 64)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Suspension of road user charging[^key-ce876ba1cf92e34dbfdc87c0d33d48f9]
+## 46. Suspension of road user charging[^c-ce876ba1cf92e34dbfdc87c0d33d48f9]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce876ba1cf92e34dbfdc87c0d33d48f9]: Commencement: Art. 46 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-ce876ba1cf92e34dbfdc87c0d33d48f9]: Commencement: Art. 46 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)

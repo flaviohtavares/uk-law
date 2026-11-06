@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Giving of notice to owners[^key-5281025961219cfa83c987347831cc07]
+## 30. Giving of notice to owners[^c-5281025961219cfa83c987347831cc07]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5281025961219cfa83c987347831cc07]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2004/11/section/30) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/c)
+[^c-5281025961219cfa83c987347831cc07]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2004/11/section/30) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/c)

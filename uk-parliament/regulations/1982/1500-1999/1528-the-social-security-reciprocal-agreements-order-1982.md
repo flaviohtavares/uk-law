@@ -70,11 +70,11 @@ Clerk of the Privy Council
 
 ## SCHEDULE 1
 
-### 1. Modification of the National Insurance and Industrial Injuries (Sweden) Order 1957[^key-e9e8c215784251b1da8c3ae3ee123777]
+### 1. Modification of the National Insurance and Industrial Injuries (Sweden) Order 1957[^c-e9e8c215784251b1da8c3ae3ee123777]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Modification of the Family Allowances, National Insurance and Industrial Injuries (Finland) Order 1960[^key-c228675a64794b3b768020e69775f6f8]
+### 2. Modification of the Family Allowances, National Insurance and Industrial Injuries (Finland) Order 1960[^c-c228675a64794b3b768020e69775f6f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -98,7 +98,7 @@ The agreement contained in the Schedule to the Social Security (Portugal) Order 
 </tbody>
 </table>
 
-[^f00002][^key-e9e8c215784251b1da8c3ae3ee123777][^key-e9e8c215784251b1da8c3ae3ee123777][^key-c228675a64794b3b768020e69775f6f8][^key-c228675a64794b3b768020e69775f6f8]
+[^f00002][^c-e9e8c215784251b1da8c3ae3ee123777][^c-e9e8c215784251b1da8c3ae3ee123777][^c-c228675a64794b3b768020e69775f6f8][^c-c228675a64794b3b768020e69775f6f8]
 
 EXPLANATORY NOTE
 
@@ -108,8 +108,8 @@ This Order provides for the Orders in Council listed in Schedule 2 (which give e
 
 [^f00001]: Footnote: , amended by section 20(1) of the Social Security (Miscellaneous Provisions) Act 1977 (c. 5), and section 6(1) of the Social Security Act 1981 (c. 33).
 
-[^key-e9e8c215784251b1da8c3ae3ee123777]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1982/1528/schedule/1) [Sch. 2](https://www.legislation.gov.uk/uksi/1982/1528/schedule/2) omitted (1.5.1988) by virtue of [The Social Security (Sweden) Order 1988 (S.I. 1988/590)](https://www.legislation.gov.uk/uksi/1988/590), [arts. 1](https://www.legislation.gov.uk/uksi/1988/590/article/1), [4(2)](https://www.legislation.gov.uk/uksi/1988/590/article/4/2)
+[^c-e9e8c215784251b1da8c3ae3ee123777]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1982/1528/schedule/1) [Sch. 2](https://www.legislation.gov.uk/uksi/1982/1528/schedule/2) omitted (1.5.1988) by virtue of [The Social Security (Sweden) Order 1988 (S.I. 1988/590)](https://www.legislation.gov.uk/uksi/1988/590), [arts. 1](https://www.legislation.gov.uk/uksi/1988/590/article/1), [4(2)](https://www.legislation.gov.uk/uksi/1988/590/article/4/2)
 
-[^key-c228675a64794b3b768020e69775f6f8]: Textual amendment: Words in Sch. 1 Sch. 2 omitted (8.2.1984) by virtue of [The Social Security (Finland) Order 1984 (S.I. 1984/125)](https://www.legislation.gov.uk/uksi/1984/125), [art. 4(2)](https://www.legislation.gov.uk/uksi/1984/125/article/4/2)
+[^c-c228675a64794b3b768020e69775f6f8]: Textual amendment: Words in Sch. 1 Sch. 2 omitted (8.2.1984) by virtue of [The Social Security (Finland) Order 1984 (S.I. 1984/125)](https://www.legislation.gov.uk/uksi/1984/125), [art. 4(2)](https://www.legislation.gov.uk/uksi/1984/125/article/4/2)
 
 [^f00002]: Footnote: *See* S.I. 1976/225, 1979/290.

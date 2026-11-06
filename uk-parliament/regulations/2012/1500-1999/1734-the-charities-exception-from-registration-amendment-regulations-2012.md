@@ -32,7 +32,7 @@ summary: ''
 
 Charities, England And Wales
 
-The Charities (Exception from Registration) (Amendment) Regulations 2012 (revoked)[^key-92eb79de217f6ce9cfa80032a655479f]
+The Charities (Exception from Registration) (Amendment) Regulations 2012 (revoked)[^c-92eb79de217f6ce9cfa80032a655479f]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 1st September 2012
 
-[^key-92eb79de217f6ce9cfa80032a655479f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-92eb79de217f6ce9cfa80032a655479f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-92eb79de217f6ce9cfa80032a655479f]
+## 1. Citation and commencement[^c-92eb79de217f6ce9cfa80032a655479f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Charities (Exception from Registration) Regulations 1996[^key-92eb79de217f6ce9cfa80032a655479f]
+## 2. Amendment of the Charities (Exception from Registration) Regulations 1996[^c-92eb79de217f6ce9cfa80032a655479f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-92eb79de217f6ce9cfa80032a655479f]
+## 3. Revocation[^c-92eb79de217f6ce9cfa80032a655479f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-92eb79de217f6ce9cfa80032a655479f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-92eb79de217f6ce9cfa80032a655479f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-92eb79de217f6ce9cfa80032a655479f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-92eb79de217f6ce9cfa80032a655479f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-92eb79de217f6ce9cfa80032a655479f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/1734) revoked (31.3.2014) by [The Charities (Exception from Registration) (Amendment) Regulations 2014 (S.I. 2014/242)](https://www.legislation.gov.uk/uksi/2014/242), [regs. 1](https://www.legislation.gov.uk/uksi/2014/242/regulation/1), [3](https://www.legislation.gov.uk/uksi/2014/242/regulation/3)
+[^c-92eb79de217f6ce9cfa80032a655479f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/1734) revoked (31.3.2014) by [The Charities (Exception from Registration) (Amendment) Regulations 2014 (S.I. 2014/242)](https://www.legislation.gov.uk/uksi/2014/242), [regs. 1](https://www.legislation.gov.uk/uksi/2014/242/regulation/1), [3](https://www.legislation.gov.uk/uksi/2014/242/regulation/3)

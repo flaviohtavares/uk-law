@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Storage of explosives[^key-89db2360453010ecf1b77b2516c07562]
+## 30. Storage of explosives[^c-89db2360453010ecf1b77b2516c07562]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89db2360453010ecf1b77b2516c07562]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2016/427/regulation/30) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-89db2360453010ecf1b77b2516c07562]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2016/427/regulation/30) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

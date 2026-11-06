@@ -31,7 +31,7 @@ summary: ''
 
 employment
 
-The Working Time (Amendment No.2) Regulations (Northern Ireland) 2006 (revoked)[^key-86b5ad8fc050655c0c5ee433163f735a]
+The Working Time (Amendment No.2) Regulations (Northern Ireland) 2006 (revoked)[^c-86b5ad8fc050655c0c5ee433163f735a]
 
 Made
 
@@ -41,26 +41,26 @@ Coming into operation
 
 1st October 2006
 
-[^key-86b5ad8fc050655c0c5ee433163f735a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-86b5ad8fc050655c0c5ee433163f735a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-86b5ad8fc050655c0c5ee433163f735a]
+## 1. Citation and commencement[^c-86b5ad8fc050655c0c5ee433163f735a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-86b5ad8fc050655c0c5ee433163f735a]
+## 2. Interpretation[^c-86b5ad8fc050655c0c5ee433163f735a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offshore work[^key-86b5ad8fc050655c0c5ee433163f735a]
+## 3. Offshore work[^c-86b5ad8fc050655c0c5ee433163f735a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-86b5ad8fc050655c0c5ee433163f735a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-86b5ad8fc050655c0c5ee433163f735a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-86b5ad8fc050655c0c5ee433163f735a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-86b5ad8fc050655c0c5ee433163f735a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-86b5ad8fc050655c0c5ee433163f735a]: Textual amendment: Regulations revoked (28.2.2016) by [The Working Time Regulations (Northern Ireland) 2016 (S.R. 2016/49)](https://www.legislation.gov.uk/nisr/2016/49), [regs. 1](https://www.legislation.gov.uk/nisr/2016/49/regulation/1), [54(1)(i)](https://www.legislation.gov.uk/nisr/2016/49/regulation/54/1/i) (with [regs. 22(1)](https://www.legislation.gov.uk/nisr/2016/49/regulation/22/1), [54(2)(3)](https://www.legislation.gov.uk/nisr/2016/49/regulation/54/2))
+[^c-86b5ad8fc050655c0c5ee433163f735a]: Textual amendment: Regulations revoked (28.2.2016) by [The Working Time Regulations (Northern Ireland) 2016 (S.R. 2016/49)](https://www.legislation.gov.uk/nisr/2016/49), [regs. 1](https://www.legislation.gov.uk/nisr/2016/49/regulation/1), [54(1)(i)](https://www.legislation.gov.uk/nisr/2016/49/regulation/54/1/i) (with [regs. 22(1)](https://www.legislation.gov.uk/nisr/2016/49/regulation/22/1), [54(2)(3)](https://www.legislation.gov.uk/nisr/2016/49/regulation/54/2))

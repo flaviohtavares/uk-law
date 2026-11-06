@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Restrictions relating to Director of the Agency’s receivers[^key-bcca2635ced69a8f3c09c835c90b32a3]
+## 125. Restrictions relating to Director of the Agency’s receivers[^c-bcca2635ced69a8f3c09c835c90b32a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bcca2635ced69a8f3c09c835c90b32a3]: Textual amendment: [Art. 125](https://www.legislation.gov.uk/uksi/2005/3181/article/125) omitted (1.4.2008) by virtue of [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(30)](https://www.legislation.gov.uk/uksi/2008/302/article/2/30)
+[^c-bcca2635ced69a8f3c09c835c90b32a3]: Textual amendment: [Art. 125](https://www.legislation.gov.uk/uksi/2005/3181/article/125) omitted (1.4.2008) by virtue of [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(30)](https://www.legislation.gov.uk/uksi/2008/302/article/2/30)

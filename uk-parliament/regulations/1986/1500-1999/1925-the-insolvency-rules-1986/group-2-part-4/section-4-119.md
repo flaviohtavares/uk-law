@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.119. Removal of liquidator by the court[^key-2ef07767c0659392a7c4e878fc471f14]
+## 4.119. Removal of liquidator by the court[^c-2ef07767c0659392a7c4e878fc471f14]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ If the application is not dismissed under this paragraph, the court shall fix a 
 
 ## Annotations
 
-[^key-2ef07767c0659392a7c4e878fc471f14]: Commencement: [Rule 4.119](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.119) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-2ef07767c0659392a7c4e878fc471f14]: Commencement: [Rule 4.119](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.119) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00072]: Marginal citation: \[FORM 4.39\]

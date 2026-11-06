@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48WA. Bail-in option: recovery of expenses[^key-8c3e1a187230b77cf3885373b256ddb3]
+## 48WA. Bail-in option: recovery of expenses[^c-8c3e1a187230b77cf3885373b256ddb3]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c3e1a187230b77cf3885373b256ddb3]: Textual amendment: [S. 48WA](https://www.legislation.gov.uk/ukpga/2009/1/section/48WA) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [14](https://www.legislation.gov.uk/uksi/2016/1239/article/14)
+[^c-8c3e1a187230b77cf3885373b256ddb3]: Textual amendment: [S. 48WA](https://www.legislation.gov.uk/ukpga/2009/1/section/48WA) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [14](https://www.legislation.gov.uk/uksi/2016/1239/article/14)

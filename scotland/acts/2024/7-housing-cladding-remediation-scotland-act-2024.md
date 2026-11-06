@@ -35,7 +35,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Part 1 — The Cladding Assurance Register
 
-### 1. The register[^key-53311ffbe686449cb7621918a6ff4dce][^key-5c0232a7fe291bd9f52d812bbe282a06]
+### 1. The register[^c-53311ffbe686449cb7621918a6ff4dce][^c-5c0232a7fe291bd9f52d812bbe282a06]
 
 (1) The Scottish Ministers are to maintain a register of buildings (“**the cladding assurance register**”).
 
@@ -56,7 +56,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (5) The Scottish Ministers may charge for access to the register.
 
-### 2. Offence of providing false or misleading information for the register[^key-5eba4de2a8a1bcd76d8be50b29201453][^key-afe8d99da9629f21778d88f367dea2dd]
+### 2. Offence of providing false or misleading information for the register[^c-5eba4de2a8a1bcd76d8be50b29201453][^c-afe8d99da9629f21778d88f367dea2dd]
 
 (1) A person commits an offence if—
 
@@ -77,7 +77,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### Powers to assess danger
 
-##### 3. Power to arrange single-building assessment[^key-5c5a4f190a33aa370737acd01c1f7070][^key-9bafe39315dc6f31f2e45d367d1b125a]
+##### 3. Power to arrange single-building assessment[^c-5c5a4f190a33aa370737acd01c1f7070][^c-9bafe39315dc6f31f2e45d367d1b125a]
 
 (1) The Scottish Ministers may arrange for a single-building assessment to be carried out in relation to a building.
 
@@ -87,7 +87,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (4) At the same time as giving notice to the premises’ owner in order to begin the notice period, the Scottish Ministers are to give a written notice in the same terms to any occupier of the premises.
 
-##### 4. Power to arrange additional work assessment[^key-f4539582a81bed5e17d36be93d356394][^key-7c972f7d31e21a6dc1ccd0f4e9df4b51]
+##### 4. Power to arrange additional work assessment[^c-f4539582a81bed5e17d36be93d356394][^c-7c972f7d31e21a6dc1ccd0f4e9df4b51]
 
 (1) The Scottish Ministers may arrange for an additional work assessment to be carried out in relation to a building in relation to which a single-building assessment has been carried out.
 
@@ -102,7 +102,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (5) At the same time as giving notice to the premises’ owner in order to begin the notice period, the Scottish Ministers are to give a written notice in the same terms to any occupier of the premises.
 
-##### 5. Power to require information for assessments and the register[^key-048a0338f313f17b31181ef4d7265cfe][^key-73cbc4fd112ad277a4a184f35f93ca4b]
+##### 5. Power to require information for assessments and the register[^c-048a0338f313f17b31181ef4d7265cfe][^c-73cbc4fd112ad277a4a184f35f93ca4b]
 
 (1) The Scottish Ministers may require any person to supply them with information which is reasonably required—
 
@@ -122,7 +122,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (5) In this section, “**information**” includes unrecorded information.
 
-##### 6. Offence of failing to comply with requirement under section 5[^key-1cc85f61875ff189c758657a2af30ed5][^key-728efc90a64a45ec4218a174179e2491]
+##### 6. Offence of failing to comply with requirement under section 5[^c-1cc85f61875ff189c758657a2af30ed5][^c-728efc90a64a45ec4218a174179e2491]
 
 (1) A person who is required under section 5(1) to supply information commits an offence if the person fails, without reasonable excuse, to supply the information in the required form by the date on or by which it is to be supplied.
 
@@ -130,7 +130,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### Powers to address danger
 
-##### 7. Power to arrange remediation work[^key-ef44580f0e6f0594c3b31382ca8ec2b0][^key-75942ff048483def58270e6c05c2c59d]
+##### 7. Power to arrange remediation work[^c-ef44580f0e6f0594c3b31382ca8ec2b0][^c-75942ff048483def58270e6c05c2c59d]
 
 (1) The Scottish Ministers may arrange for work to be carried out that is identified as being needed to eliminate or mitigate risks to human life that are (directly or indirectly) created or exacerbated by a building’s external wall cladding system in—
 
@@ -150,7 +150,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (4) At the same time as giving notice to the premises’ owner in order to begin the notice period, the Scottish Ministers are to give a written notice in the same terms to any occupier of the premises.
 
-##### 8. Power to arrange urgent remediation work[^key-322a27e4d24331d6ce41746558853db9][^key-d0d2641e49bf35f37d26ac8f7dfaeeeb]
+##### 8. Power to arrange urgent remediation work[^c-322a27e4d24331d6ce41746558853db9][^c-d0d2641e49bf35f37d26ac8f7dfaeeeb]
 
 (1) The Scottish Ministers may arrange for work to be carried out where—
 
@@ -161,7 +161,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (2) Where the Scottish Ministers arrange under subsection (1) for work to be carried out on premises, they are to give the premises’ owners and occupiers such notice of the work (if any) as the circumstances permit.
 
-##### 9. Power to evacuate[^key-3f34337a1a2d27c2c703fcee2183f4e9][^key-cde114b741353ab7c3a517ac42a18dbc]
+##### 9. Power to evacuate[^c-3f34337a1a2d27c2c703fcee2183f4e9][^c-cde114b741353ab7c3a517ac42a18dbc]
 
 (1) The Scottish Ministers may require the occupants of premises to remove from them in any of the following circumstances—
 
@@ -196,7 +196,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (6) The schedule makes provision about the granting of warrants for the ejection of occupants required to remove under this section.
 
-##### 10. Offence of occupying evacuated premises[^key-c2124bc31adf654207b2a753fefa526f][^key-c976826b314b70f979a7b0aeb7d00914]
+##### 10. Offence of occupying evacuated premises[^c-c2124bc31adf654207b2a753fefa526f][^c-c976826b314b70f979a7b0aeb7d00914]
 
 (1) A person commits an offence if the person occupies premises when forbidden to do so.
 
@@ -215,7 +215,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### Personal emergency evacuation plans
 
-##### 11. Personal emergency evacuation plans[^key-8ecea70c957a2e8f1ce220b121f12064][^key-683d1e144fe43254a8e270a285ad8756]
+##### 11. Personal emergency evacuation plans[^c-8ecea70c957a2e8f1ce220b121f12064][^c-683d1e144fe43254a8e270a285ad8756]
 
 (1) The Scottish Ministers may by regulations make provision in relation to the development and provision of personal emergency evacuation plans for occupiers of a building to which a single-building assessment applies who have a disability.
 
@@ -225,7 +225,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### Appeal
 
-##### 12. Appeal against arranged remediation work[^key-78a44faee2d796880b43e1fe7a431a97][^key-2a8903db6d995d579fdf3e72ab422b40]
+##### 12. Appeal against arranged remediation work[^c-78a44faee2d796880b43e1fe7a431a97][^c-2a8903db6d995d579fdf3e72ab422b40]
 
 (1) The owner of premises, having received notice under section 7 that the Scottish Ministers have arranged for work to be carried out on the premises, may appeal to the sheriff against the Scottish Ministers’ decision to make that arrangement.
 
@@ -260,7 +260,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Chapter 2 — Carrying out assessments and work
 
-#### 13. Authority for carrying out assessment or work[^key-29fa000885ed7ef77e329ae61ba60201][^key-ce7682839054b8264b4453300997de88]
+#### 13. Authority for carrying out assessment or work[^c-29fa000885ed7ef77e329ae61ba60201][^c-ce7682839054b8264b4453300997de88]
 
 (1) A person carrying out, under an arrangement made under Chapter 1, a single-building assessment, an additional work assessment or work is entitled by this subsection to do anything reasonably required to carry out that assessment or work, including—
 
@@ -290,7 +290,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) in breach of section 3(2), 4(3) or 7(2),
 - (b) without any warrant, permission, consent or other approval (however described) from a public authority that would ordinarily be required in relation to doing the thing.
 
-#### 14. Warrant authorising use of force to effect entry[^key-72af95c22f1af093dfa2191f493a5a26][^key-dea2cd32c1c1f188ed7107599fb80f39]
+#### 14. Warrant authorising use of force to effect entry[^c-72af95c22f1af093dfa2191f493a5a26][^c-dea2cd32c1c1f188ed7107599fb80f39]
 
 (1) The holder of a judicial office mentioned in subsection (6) may grant a warrant authorising a person entitled to enter premises by section 13(1) to use reasonable force in accordance with the terms of the warrant.
 
@@ -319,7 +319,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) sheriff,
 - (b) summary sheriff.
 
-#### 15. Offence of obstructing assessment or work[^key-ea333cd5485d0d10f7f22a4a6f8fc0d4][^key-0c5e17486447ea197eec28838efc69d0]
+#### 15. Offence of obstructing assessment or work[^c-ea333cd5485d0d10f7f22a4a6f8fc0d4][^c-0c5e17486447ea197eec28838efc69d0]
 
 (1) A person (“**A**”) commits an offence if—
 
@@ -329,7 +329,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (2) A person who commits an offence under this section is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-#### 16. Offence of failing to assist with assessment or work[^key-5d95e1fa6f066bea4d0bcb1c8ec2ecbf][^key-8112f39ec8a0c7349be2429545ea79e5]
+#### 16. Offence of failing to assist with assessment or work[^c-5d95e1fa6f066bea4d0bcb1c8ec2ecbf][^c-8112f39ec8a0c7349be2429545ea79e5]
 
 (1) A person (“**A**”) commits an offence if—
 
@@ -346,7 +346,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Chapter 3 — Notices
 
-#### 17. Power to require information to give notice[^key-28d0de298cdea1146d72b9cee1fb675b][^key-66ddff7d254db65a5921892dd99a59a5]
+#### 17. Power to require information to give notice[^c-28d0de298cdea1146d72b9cee1fb675b][^c-66ddff7d254db65a5921892dd99a59a5]
 
 (1) The Scottish Ministers may, for the purpose of enabling them to give a notice under this Part, require any person to whom subsection (2) applies to state, in writing, to the Ministers—
 
@@ -375,7 +375,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (7) A person who commits an offence under subsection (6) is liable on summary conviction to a fine not exceeding level 2 on the standard scale.
 
-#### 18. Giving notice where recipient’s address is unknown[^key-54df2104e932a6193401c0fbd7d90e08][^key-064007c2064498478d5ef373bd8f04b9]
+#### 18. Giving notice where recipient’s address is unknown[^c-54df2104e932a6193401c0fbd7d90e08][^c-064007c2064498478d5ef373bd8f04b9]
 
 (1) Where—
 
@@ -386,13 +386,13 @@ a written notice is to be taken to have been given to the person 48 hours after 
 
 (2) In subsection (1), “**proper address**” has the meaning given in section 26(4) of the Interpretation and Legislative Reform (Scotland) Act 2010.
 
-#### 19. Deemed receipt of notice[^key-de6c6048e01d41f2775abe696ba1cc12][^key-eb4c3685faa4b57434bbe1feb26bdace]
+#### 19. Deemed receipt of notice[^c-de6c6048e01d41f2775abe696ba1cc12][^c-eb4c3685faa4b57434bbe1feb26bdace]
 
 For the purposes of this Part, where a notice is served as mentioned in section 26(2)(b) or (c) of the Interpretation and Legislative Reform (Scotland) Act 2010, it is to be taken to have been received 48 hours after it is sent.
 
 ## Part 3 — Offences under Parts 1 and 2
 
-### 20. Individual culpability where organisation commits an offence[^key-e930a67ab32e4eac17d6889aef4b62b9][^key-741271d808e1d74b75fcf2c0a1fc95ef]
+### 20. Individual culpability where organisation commits an offence[^c-e930a67ab32e4eac17d6889aef4b62b9][^c-741271d808e1d74b75fcf2c0a1fc95ef]
 
 (1) This section applies where—
 
@@ -415,7 +415,7 @@ For the purposes of this Part, where a notice is served as mentioned in section 
   | Other partnership | Partner |
   | Any other body or association | Individual who is concerned in the management or control of its affairs |
 
-### 21. Crown application: criminal offences[^key-4094eef91818361a67f159a5beb1bb3f][^key-a8cb11c0d2515e9549c487084ea1b150]
+### 21. Crown application: criminal offences[^c-4094eef91818361a67f159a5beb1bb3f][^c-a8cb11c0d2515e9549c487084ea1b150]
 
 (1) Nothing in Part 1 or 2 makes the Crown criminally liable.
 
@@ -425,7 +425,7 @@ For the purposes of this Part, where a notice is served as mentioned in section 
 
 ## Part 4 — Engagement with owners and occupiers
 
-### 22. Pre-assessment engagement[^key-389b25f071738bb3ae296d1ee1296a18][^key-b5e404fe7180c746961d04a23555fc54]
+### 22. Pre-assessment engagement[^c-389b25f071738bb3ae296d1ee1296a18][^c-b5e404fe7180c746961d04a23555fc54]
 
 (1) The Scottish Ministers must, where a relevant assessment arranged by them under Chapter 1 of Part 2 in relation to a building involves entry on premises, use their best endeavours to ensure that, before the first premises are entered for the purposes of the arrangement, the persons mentioned in subsection (2) are—
 
@@ -449,7 +449,7 @@ For the purposes of this Part, where a notice is served as mentioned in section 
 - (a) a single-building assessment, or
 - (b) an additional work assessment.
 
-### 23. Post-assessment engagement: reports[^key-4d0e90f97e0b14417accc3f6358c359c][^key-0273c73fb0b68327908468b9b11acc41]
+### 23. Post-assessment engagement: reports[^c-4d0e90f97e0b14417accc3f6358c359c][^c-0273c73fb0b68327908468b9b11acc41]
 
 (1) The Scottish Ministers must, where they arranged a relevant assessment in relation to a building under Chapter 1 of Part 2, use their best endeavours to ensure that the persons mentioned in subsection (2) are—
 
@@ -468,7 +468,7 @@ For the purposes of this Part, where a notice is served as mentioned in section 
 - (a) so far as practicable, informed, in plain language, of the conclusions contained in the report of the assessment, and
 - (b) given a reasonable opportunity to put questions about the report to a person appointed for that purpose by the person who carried out the assessment.
 
-### 24. Post-assessment engagement: remediation work[^key-41af01f25a506fcc40cfbafcf918db12][^key-93225674294915c23ceb4a217c773d46]
+### 24. Post-assessment engagement: remediation work[^c-41af01f25a506fcc40cfbafcf918db12][^c-93225674294915c23ceb4a217c773d46]
 
 (1) The Scottish Ministers must, where they arrange remediation work in relation to a building under Chapter 1 of Part 2, use their best endeavours to ensure that the persons mentioned in subsection (2) are—
 
@@ -498,7 +498,7 @@ For the purposes of this Part, where a notice is served as mentioned in section 
 
 ## Part 5 — Responsible developers scheme
 
-### 25. Power to establish scheme[^key-57bf45d141649c6267e214d51b148d48][^key-3322c5d0343a52de218f0c034969855e]
+### 25. Power to establish scheme[^c-57bf45d141649c6267e214d51b148d48][^c-3322c5d0343a52de218f0c034969855e]
 
 (1) The Scottish Ministers may by regulations establish a responsible developers scheme (or more than one).
 
@@ -534,7 +534,7 @@ For the purposes of this Part, where a notice is served as mentioned in section 
 
 as the Scottish Ministers consider appropriate.
 
-### 26. Eligibility for membership[^key-b39bef3c070002ea631cbb2374f32523][^key-08fd78ea4eae8caf689d515a04d98395]
+### 26. Eligibility for membership[^c-b39bef3c070002ea631cbb2374f32523][^c-08fd78ea4eae8caf689d515a04d98395]
 
 (1) This section elaborates on the provision that is to be made by regulations in accordance with section 25(3)(a).
 
@@ -556,7 +556,7 @@ as the Scottish Ministers consider appropriate.
   - (a) (directly or indirectly) the cladding system creates or exacerbates a risk to human life, and
   - (b) work is needed to eliminate or mitigate that risk.
 
-### 27. Conditions of membership[^key-5f3bb2c5a8aa0d0ff39fd7ba120e47ea][^key-a5555c516267cc5310d28912cdb581e7]
+### 27. Conditions of membership[^c-5f3bb2c5a8aa0d0ff39fd7ba120e47ea][^c-a5555c516267cc5310d28912cdb581e7]
 
 (1) This section elaborates on the provision that is to be made by regulations in accordance with section 25(3)(b).
 
@@ -569,7 +569,7 @@ as the Scottish Ministers consider appropriate.
 
 (3) Regulations must provide for a right of appeal to a court or tribunal against a decision of the person operating a scheme to refuse to allow another person to become a member of the scheme on the grounds that the person does not meet the conditions for becoming a member.
 
-### 28. Loss of membership[^key-201dc98693fbc19d976b6c2fa7e058f6][^key-e13b372ca1199b2dd90661403a9aa636]
+### 28. Loss of membership[^c-201dc98693fbc19d976b6c2fa7e058f6][^c-e13b372ca1199b2dd90661403a9aa636]
 
 (1) This section elaborates on the provision that is to be made by regulations in accordance with section 25(3)(c).
 
@@ -577,7 +577,7 @@ as the Scottish Ministers consider appropriate.
 
 (3) Regulations must provide for a right of appeal to a court or tribunal against a decision of the person operating a scheme to stop another person’s membership of a scheme on the grounds that the person has not met the conditions for becoming or remaining a member.
 
-### 29. Consequences of not being a member[^key-e9fa820cd0d6790b7123673e430917ed][^key-497b1e821f24157cf5f371895cf7f37f]
+### 29. Consequences of not being a member[^c-e9fa820cd0d6790b7123673e430917ed][^c-497b1e821f24157cf5f371895cf7f37f]
 
 (1) This section elaborates on the provision that is to be made by regulations in accordance with section 25(3)(d).
 
@@ -614,7 +614,7 @@ as the Scottish Ministers consider appropriate.
 
 ## Part 6 — Progress reports
 
-### 30. Reports on progress with single-building assessments and remediation work[^key-8ab722914ab90ad7c8d22ee3540dd741][^key-1834b93a4091f0f3bb49551fa68b8d33]
+### 30. Reports on progress with single-building assessments and remediation work[^c-8ab722914ab90ad7c8d22ee3540dd741][^c-1834b93a4091f0f3bb49551fa68b8d33]
 
 (1) The Scottish Ministers must prepare a report on the progress made during each reporting period in the arranging and carrying out of—
 
@@ -635,12 +635,12 @@ as the Scottish Ministers consider appropriate.
 
 - “**remediation work**” means work to eliminate or mitigate any risk to human life that is (directly or indirectly) created or exacerbated by a building’s external wall cladding system,
 - “**reporting period**” means—
-  - (a) the period of 18 months beginning with 6 January 2025[^key-5849f080e6e24de2612edc4993a17511],
+  - (a) the period of 18 months beginning with 6 January 2025[^c-5849f080e6e24de2612edc4993a17511],
   - (b) each of the subsequent 9 periods of one year beginning with the day after the last day of the preceding reporting period.
 
 (5) The Scottish Ministers may by regulations amend subsection (4) to increase the number of one year reporting periods in relation to which a report under subsection (1) must be prepared.
 
-### 31. Content of reports under section 30[^key-49f30df0da61c682f65579db57ff56fe][^key-68292ff6bcf875c990d287dda78d4a79]
+### 31. Content of reports under section 30[^c-49f30df0da61c682f65579db57ff56fe][^c-68292ff6bcf875c990d287dda78d4a79]
 
 (1) The information referred to in section 30(2)(a) is the following information—
 
@@ -678,7 +678,7 @@ as the Scottish Ministers consider appropriate.
 
 ### Chapter 1 — Interpretation
 
-#### 32. Meaning of single-building assessment[^key-5021d573fa4e6a3febf61d03e7e84c8e]
+#### 32. Meaning of single-building assessment[^c-5021d573fa4e6a3febf61d03e7e84c8e]
 
 (1) In this Act, a “**single-building assessment**” means an assessment that—
 
@@ -700,7 +700,7 @@ as the Scottish Ministers consider appropriate.
 - (a) subsection (1), a building stands 11 metres or more above the ground if, excluding roof-top plant areas and any top storey consisting exclusively of plant rooms, the building has at least one storey the finished floor level of which, measuring vertically, is (or would be if it was directly above the building’s lowest point) 11 metres or more higher than the building’s lowest point,
 - (b) paragraph (a), a building’s lowest point is the point at which the surface of the ground adjacent to the building is lowest.
 
-#### 33. Power to modify meaning of single-building assessment[^key-7344bc0c97566db8a51e5a93dc3e19e5]
+#### 33. Power to modify meaning of single-building assessment[^c-7344bc0c97566db8a51e5a93dc3e19e5]
 
 (1) The Scottish Ministers may by regulations modify section 32 so as to change or clarify the types of building in relation to which a single-building assessment may be carried out.
 
@@ -709,7 +709,7 @@ as the Scottish Ministers consider appropriate.
 - (a) is not, and does not contain any premises that are, a dwelling or intended to be used as a dwelling,
 - (b) does not have an external wall cladding system.
 
-#### 34. Meaning of additional work assessment[^key-288f3def9239f573327e758d762af747]
+#### 34. Meaning of additional work assessment[^c-288f3def9239f573327e758d762af747]
 
 In this Act, an “**additional work assessment**” means an assessment that—
 
@@ -722,7 +722,7 @@ In this Act, an “**additional work assessment**” means an assessment that—
   - (i) in accordance with the standards for the time being specified by the Scottish Ministers, and
   - (ii) by a person authorised by the Scottish Ministers to carry it out.
 
-#### 35. Meaning of “owner” in relation to Crown premises[^key-09a746019c970ec4b180a5acde0c3123]
+#### 35. Meaning of “owner” in relation to Crown premises[^c-09a746019c970ec4b180a5acde0c3123]
 
 (1) In this Act, “**owner**” in relation to Crown premises specified in the first column of the following table means the person specified in the corresponding entry in the second column.
 
@@ -745,7 +745,7 @@ In this Act, an “**additional work assessment**” means an assessment that—
 
 (3) It is for the Scottish Ministers to determine any question that arises as to who is to be treated as the “owner” of any premises in accordance with subsection (1), and their decision is final.
 
-#### 36. Interpretation of other words and expressions[^key-2cbed131c285be019da67e44aa0ab911]
+#### 36. Interpretation of other words and expressions[^c-2cbed131c285be019da67e44aa0ab911]
 
 (1) In this Act—
 
@@ -759,13 +759,13 @@ In this Act, an “**additional work assessment**” means an assessment that—
 
 ### Chapter 2 — Final provisions
 
-#### 37. Ancillary provision[^key-2f127585f57f79b1dcc67df436ceff55]
+#### 37. Ancillary provision[^c-2f127585f57f79b1dcc67df436ceff55]
 
 (1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, or in connection with, or for giving full effect to this Act or any provision made under it.
 
 (2) Regulations under subsection (1) may modify any enactment (including this Act).
 
-#### 38. Regulation-making powers[^key-e8c330114efdeecade7a5c37eac65866]
+#### 38. Regulation-making powers[^c-e8c330114efdeecade7a5c37eac65866]
 
 (1) A power to make regulations conferred by this Act includes the power to make different provision for different purposes.
 
@@ -778,7 +778,7 @@ In this Act, an “**additional work assessment**” means an assessment that—
 - (a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of an Act, but
 - (b) otherwise are subject to the negative procedure.
 
-#### 39. Commencement[^key-20483c5c76c048732310e633c8028269]
+#### 39. Commencement[^c-20483c5c76c048732310e633c8028269]
 
 (1) This Part comes into force on the day after Royal Assent.
 
@@ -786,7 +786,7 @@ In this Act, an “**additional work assessment**” means an assessment that—
 
 (3) Regulations under this section may amend subsection (4) of section 30 so that the text referring to the day on which the section comes into force instead specifies the date on which the section actually comes into force.
 
-#### 40. Short title[^key-dd5cf2fbe6ab543416fe6278f9fd8345]
+#### 40. Short title[^c-dd5cf2fbe6ab543416fe6278f9fd8345]
 
 The short title of this Act is the Housing (Cladding Remediation) (Scotland) Act 2024.
 
@@ -794,7 +794,7 @@ The short title of this Act is the Housing (Cladding Remediation) (Scotland) Act
 
 (introduced by section 9)
 
-### 1. Application[^key-f13d62cf49b33f61095fad30a987d264][^key-f87904ac945571f17c99085d15d8b4ac]
+### 1. Application[^c-f13d62cf49b33f61095fad30a987d264][^c-f87904ac945571f17c99085d15d8b4ac]
 
 (1) The Scottish Ministers may apply to the sheriff for a warrant for the ejection from premises of any occupants who have not removed from them in accordance with a requirement to do so imposed under section 9.
 
@@ -805,11 +805,11 @@ The short title of this Act is the Housing (Cladding Remediation) (Scotland) Act
 - (a) specifying which paragraph of section 9(1) was the basis for their imposing the requirement to remove from the premises, and
 - (b) certifying that they continue to be of the opinion mentioned in that paragraph.
 
-### 2. Notice to occupants[^key-ca0839f68fbbddb624627ac6c7854fd3][^key-d2c77360e3f3ade07e3c6a7a755a48cc]
+### 2. Notice to occupants[^c-ca0839f68fbbddb624627ac6c7854fd3][^c-d2c77360e3f3ade07e3c6a7a755a48cc]
 
 On an application under paragraph 1, the sheriff may require the Scottish Ministers to give a written notice to an occupant of the premises in question.
 
-### 3. Disposal of application[^key-73b2ee6bd104dad088a2de3d7fa46eba][^key-0dcc324d72c6e995eef4adf972ca168f]
+### 3. Disposal of application[^c-73b2ee6bd104dad088a2de3d7fa46eba][^c-0dcc324d72c6e995eef4adf972ca168f]
 
 (1) Where the certificate accompanying an application under paragraph 1 specifies that a requirement to remove was imposed under section 9(1)(a), the sheriff must, if satisfied that it is reasonable to do so, grant a warrant of ejection within the period of 7 days beginning with—
 
@@ -822,168 +822,168 @@ On an application under paragraph 1, the sheriff may require the Scottish Minist
 
 (4) The sheriff’s decision on an application under paragraph 1 is final.
 
-### 4. Evidence[^key-f0bf7f213323e446732881e7fa5533ce][^key-c533870a7492a879074207760bf34477]
+### 4. Evidence[^c-f0bf7f213323e446732881e7fa5533ce][^c-c533870a7492a879074207760bf34477]
 
 In proceedings under this schedule, a certificate required by paragraph 1(3) is sufficient evidence of the facts stated in it.
 
 ## Annotations
 
-[^key-53311ffbe686449cb7621918a6ff4dce]: Commencement: S. 1 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-53311ffbe686449cb7621918a6ff4dce]: Commencement: S. 1 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-5c0232a7fe291bd9f52d812bbe282a06]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2024/7/section/1) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-5c0232a7fe291bd9f52d812bbe282a06]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2024/7/section/1) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-5eba4de2a8a1bcd76d8be50b29201453]: Commencement: S. 2 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-5eba4de2a8a1bcd76d8be50b29201453]: Commencement: S. 2 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-afe8d99da9629f21778d88f367dea2dd]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2024/7/section/2) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-afe8d99da9629f21778d88f367dea2dd]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2024/7/section/2) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-5c5a4f190a33aa370737acd01c1f7070]: Commencement: S. 3 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-5c5a4f190a33aa370737acd01c1f7070]: Commencement: S. 3 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-9bafe39315dc6f31f2e45d367d1b125a]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2024/7/section/3) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-9bafe39315dc6f31f2e45d367d1b125a]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2024/7/section/3) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-f4539582a81bed5e17d36be93d356394]: Commencement: S. 4 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-f4539582a81bed5e17d36be93d356394]: Commencement: S. 4 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-7c972f7d31e21a6dc1ccd0f4e9df4b51]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2024/7/section/4) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-7c972f7d31e21a6dc1ccd0f4e9df4b51]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2024/7/section/4) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-048a0338f313f17b31181ef4d7265cfe]: Commencement: S. 5 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-048a0338f313f17b31181ef4d7265cfe]: Commencement: S. 5 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-73cbc4fd112ad277a4a184f35f93ca4b]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2024/7/section/5) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-73cbc4fd112ad277a4a184f35f93ca4b]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2024/7/section/5) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-1cc85f61875ff189c758657a2af30ed5]: Commencement: S. 6 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-1cc85f61875ff189c758657a2af30ed5]: Commencement: S. 6 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-728efc90a64a45ec4218a174179e2491]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2024/7/section/6) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-728efc90a64a45ec4218a174179e2491]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2024/7/section/6) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-ef44580f0e6f0594c3b31382ca8ec2b0]: Commencement: S. 7 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-ef44580f0e6f0594c3b31382ca8ec2b0]: Commencement: S. 7 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-75942ff048483def58270e6c05c2c59d]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2024/7/section/7) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-75942ff048483def58270e6c05c2c59d]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2024/7/section/7) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-322a27e4d24331d6ce41746558853db9]: Commencement: S. 8 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-322a27e4d24331d6ce41746558853db9]: Commencement: S. 8 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-d0d2641e49bf35f37d26ac8f7dfaeeeb]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2024/7/section/8) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-d0d2641e49bf35f37d26ac8f7dfaeeeb]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2024/7/section/8) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-3f34337a1a2d27c2c703fcee2183f4e9]: Commencement: S. 9 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-3f34337a1a2d27c2c703fcee2183f4e9]: Commencement: S. 9 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-cde114b741353ab7c3a517ac42a18dbc]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2024/7/section/9) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-cde114b741353ab7c3a517ac42a18dbc]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2024/7/section/9) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-c2124bc31adf654207b2a753fefa526f]: Commencement: S. 10 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-c2124bc31adf654207b2a753fefa526f]: Commencement: S. 10 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-c976826b314b70f979a7b0aeb7d00914]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2024/7/section/10) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-c976826b314b70f979a7b0aeb7d00914]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2024/7/section/10) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-8ecea70c957a2e8f1ce220b121f12064]: Commencement: S. 11 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-8ecea70c957a2e8f1ce220b121f12064]: Commencement: S. 11 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-683d1e144fe43254a8e270a285ad8756]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2024/7/section/11) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-683d1e144fe43254a8e270a285ad8756]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2024/7/section/11) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-78a44faee2d796880b43e1fe7a431a97]: Commencement: S. 12 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-78a44faee2d796880b43e1fe7a431a97]: Commencement: S. 12 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-2a8903db6d995d579fdf3e72ab422b40]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2024/7/section/12) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-2a8903db6d995d579fdf3e72ab422b40]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2024/7/section/12) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-29fa000885ed7ef77e329ae61ba60201]: Commencement: S. 13 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-29fa000885ed7ef77e329ae61ba60201]: Commencement: S. 13 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-ce7682839054b8264b4453300997de88]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2024/7/section/13) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-ce7682839054b8264b4453300997de88]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2024/7/section/13) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-72af95c22f1af093dfa2191f493a5a26]: Commencement: S. 14 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-72af95c22f1af093dfa2191f493a5a26]: Commencement: S. 14 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-dea2cd32c1c1f188ed7107599fb80f39]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2024/7/section/14) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-dea2cd32c1c1f188ed7107599fb80f39]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2024/7/section/14) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-ea333cd5485d0d10f7f22a4a6f8fc0d4]: Commencement: S. 15 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-ea333cd5485d0d10f7f22a4a6f8fc0d4]: Commencement: S. 15 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-0c5e17486447ea197eec28838efc69d0]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2024/7/section/15) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-0c5e17486447ea197eec28838efc69d0]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2024/7/section/15) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-5d95e1fa6f066bea4d0bcb1c8ec2ecbf]: Commencement: S. 16 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-5d95e1fa6f066bea4d0bcb1c8ec2ecbf]: Commencement: S. 16 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-8112f39ec8a0c7349be2429545ea79e5]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2024/7/section/16) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-8112f39ec8a0c7349be2429545ea79e5]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2024/7/section/16) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-28d0de298cdea1146d72b9cee1fb675b]: Commencement: S. 17 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-28d0de298cdea1146d72b9cee1fb675b]: Commencement: S. 17 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-66ddff7d254db65a5921892dd99a59a5]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2024/7/section/17) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-66ddff7d254db65a5921892dd99a59a5]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2024/7/section/17) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-54df2104e932a6193401c0fbd7d90e08]: Commencement: S. 18 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-54df2104e932a6193401c0fbd7d90e08]: Commencement: S. 18 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-064007c2064498478d5ef373bd8f04b9]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2024/7/section/18) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-064007c2064498478d5ef373bd8f04b9]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2024/7/section/18) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-de6c6048e01d41f2775abe696ba1cc12]: Commencement: S. 19 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-de6c6048e01d41f2775abe696ba1cc12]: Commencement: S. 19 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-eb4c3685faa4b57434bbe1feb26bdace]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2024/7/section/19) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-eb4c3685faa4b57434bbe1feb26bdace]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2024/7/section/19) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-e930a67ab32e4eac17d6889aef4b62b9]: Commencement: S. 20 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-e930a67ab32e4eac17d6889aef4b62b9]: Commencement: S. 20 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-741271d808e1d74b75fcf2c0a1fc95ef]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2024/7/section/20) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-741271d808e1d74b75fcf2c0a1fc95ef]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2024/7/section/20) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-4094eef91818361a67f159a5beb1bb3f]: Commencement: S. 21 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-4094eef91818361a67f159a5beb1bb3f]: Commencement: S. 21 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-a8cb11c0d2515e9549c487084ea1b150]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2024/7/section/21) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-a8cb11c0d2515e9549c487084ea1b150]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2024/7/section/21) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-389b25f071738bb3ae296d1ee1296a18]: Commencement: S. 22 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-389b25f071738bb3ae296d1ee1296a18]: Commencement: S. 22 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-b5e404fe7180c746961d04a23555fc54]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2024/7/section/22) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-b5e404fe7180c746961d04a23555fc54]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2024/7/section/22) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-4d0e90f97e0b14417accc3f6358c359c]: Commencement: S. 23 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-4d0e90f97e0b14417accc3f6358c359c]: Commencement: S. 23 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-0273c73fb0b68327908468b9b11acc41]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2024/7/section/23) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-0273c73fb0b68327908468b9b11acc41]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2024/7/section/23) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-41af01f25a506fcc40cfbafcf918db12]: Commencement: S. 24 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-41af01f25a506fcc40cfbafcf918db12]: Commencement: S. 24 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-93225674294915c23ceb4a217c773d46]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2024/7/section/24) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-93225674294915c23ceb4a217c773d46]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2024/7/section/24) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-57bf45d141649c6267e214d51b148d48]: Commencement: S. 25 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-57bf45d141649c6267e214d51b148d48]: Commencement: S. 25 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-3322c5d0343a52de218f0c034969855e]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2024/7/section/25) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-3322c5d0343a52de218f0c034969855e]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2024/7/section/25) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-b39bef3c070002ea631cbb2374f32523]: Commencement: S. 26 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-b39bef3c070002ea631cbb2374f32523]: Commencement: S. 26 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-08fd78ea4eae8caf689d515a04d98395]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2024/7/section/26) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-08fd78ea4eae8caf689d515a04d98395]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2024/7/section/26) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-5f3bb2c5a8aa0d0ff39fd7ba120e47ea]: Commencement: S. 27 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-5f3bb2c5a8aa0d0ff39fd7ba120e47ea]: Commencement: S. 27 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-a5555c516267cc5310d28912cdb581e7]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2024/7/section/27) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-a5555c516267cc5310d28912cdb581e7]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2024/7/section/27) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-201dc98693fbc19d976b6c2fa7e058f6]: Commencement: S. 28 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-201dc98693fbc19d976b6c2fa7e058f6]: Commencement: S. 28 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-e13b372ca1199b2dd90661403a9aa636]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2024/7/section/28) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-e13b372ca1199b2dd90661403a9aa636]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2024/7/section/28) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-e9fa820cd0d6790b7123673e430917ed]: Commencement: S. 29 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-e9fa820cd0d6790b7123673e430917ed]: Commencement: S. 29 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-497b1e821f24157cf5f371895cf7f37f]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2024/7/section/29) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-497b1e821f24157cf5f371895cf7f37f]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2024/7/section/29) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-8ab722914ab90ad7c8d22ee3540dd741]: Commencement: S. 30 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-8ab722914ab90ad7c8d22ee3540dd741]: Commencement: S. 30 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-1834b93a4091f0f3bb49551fa68b8d33]: Commencement: S. 30 in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-1834b93a4091f0f3bb49551fa68b8d33]: Commencement: S. 30 in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-5849f080e6e24de2612edc4993a17511]: Textual amendment: Words in s. 30(4) substituted (6.1.2025) by [The Housing (Cladding Remediation) (Scotland) Act 2024 (Commencement) Regulations 2024 (S.S.I. 2024/370)](https://www.legislation.gov.uk/ssi/2024/370), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/370/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2024/370/regulation/3)
+[^c-5849f080e6e24de2612edc4993a17511]: Textual amendment: Words in s. 30(4) substituted (6.1.2025) by [The Housing (Cladding Remediation) (Scotland) Act 2024 (Commencement) Regulations 2024 (S.S.I. 2024/370)](https://www.legislation.gov.uk/ssi/2024/370), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/370/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2024/370/regulation/3)
 
-[^key-49f30df0da61c682f65579db57ff56fe]: Commencement: S. 31 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-49f30df0da61c682f65579db57ff56fe]: Commencement: S. 31 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-68292ff6bcf875c990d287dda78d4a79]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2024/7/section/31) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-68292ff6bcf875c990d287dda78d4a79]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2024/7/section/31) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-5021d573fa4e6a3febf61d03e7e84c8e]: Commencement: S. 32 in force at 22.6.2024, see [s. 39(1)](https://www.legislation.gov.uk/asp/2024/7/section/39/1)
+[^c-5021d573fa4e6a3febf61d03e7e84c8e]: Commencement: S. 32 in force at 22.6.2024, see [s. 39(1)](https://www.legislation.gov.uk/asp/2024/7/section/39/1)
 
-[^key-7344bc0c97566db8a51e5a93dc3e19e5]: Commencement: S. 33 in force at 22.6.2024, see [s. 39(1)](https://www.legislation.gov.uk/asp/2024/7/section/39/1)
+[^c-7344bc0c97566db8a51e5a93dc3e19e5]: Commencement: S. 33 in force at 22.6.2024, see [s. 39(1)](https://www.legislation.gov.uk/asp/2024/7/section/39/1)
 
-[^key-288f3def9239f573327e758d762af747]: Commencement: S. 34 in force at 22.6.2024, see [s. 39(1)](https://www.legislation.gov.uk/asp/2024/7/section/39/1)
+[^c-288f3def9239f573327e758d762af747]: Commencement: S. 34 in force at 22.6.2024, see [s. 39(1)](https://www.legislation.gov.uk/asp/2024/7/section/39/1)
 
-[^key-09a746019c970ec4b180a5acde0c3123]: Commencement: S. 35 in force at 22.6.2024, see [s. 39(1)](https://www.legislation.gov.uk/asp/2024/7/section/39/1)
+[^c-09a746019c970ec4b180a5acde0c3123]: Commencement: S. 35 in force at 22.6.2024, see [s. 39(1)](https://www.legislation.gov.uk/asp/2024/7/section/39/1)
 
-[^key-2cbed131c285be019da67e44aa0ab911]: Commencement: S. 36 in force at 22.6.2024, see [s. 39(1)](https://www.legislation.gov.uk/asp/2024/7/section/39/1)
+[^c-2cbed131c285be019da67e44aa0ab911]: Commencement: S. 36 in force at 22.6.2024, see [s. 39(1)](https://www.legislation.gov.uk/asp/2024/7/section/39/1)
 
-[^key-2f127585f57f79b1dcc67df436ceff55]: Commencement: S. 37 in force at 22.6.2024, see [s. 39(1)](https://www.legislation.gov.uk/asp/2024/7/section/39/1)
+[^c-2f127585f57f79b1dcc67df436ceff55]: Commencement: S. 37 in force at 22.6.2024, see [s. 39(1)](https://www.legislation.gov.uk/asp/2024/7/section/39/1)
 
-[^key-e8c330114efdeecade7a5c37eac65866]: Commencement: S. 38 in force at 22.6.2024, see [s. 39(1)](https://www.legislation.gov.uk/asp/2024/7/section/39/1)
+[^c-e8c330114efdeecade7a5c37eac65866]: Commencement: S. 38 in force at 22.6.2024, see [s. 39(1)](https://www.legislation.gov.uk/asp/2024/7/section/39/1)
 
-[^key-20483c5c76c048732310e633c8028269]: Commencement: S. 39 in force at 22.6.2024, see [s. 39(1)](https://www.legislation.gov.uk/asp/2024/7/section/39/1)
+[^c-20483c5c76c048732310e633c8028269]: Commencement: S. 39 in force at 22.6.2024, see [s. 39(1)](https://www.legislation.gov.uk/asp/2024/7/section/39/1)
 
-[^key-dd5cf2fbe6ab543416fe6278f9fd8345]: Commencement: S. 40 in force at 22.6.2024, see [s. 39(1)](https://www.legislation.gov.uk/asp/2024/7/section/39/1)
+[^c-dd5cf2fbe6ab543416fe6278f9fd8345]: Commencement: S. 40 in force at 22.6.2024, see [s. 39(1)](https://www.legislation.gov.uk/asp/2024/7/section/39/1)
 
-[^key-f13d62cf49b33f61095fad30a987d264]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-f13d62cf49b33f61095fad30a987d264]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-f87904ac945571f17c99085d15d8b4ac]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2024/7/schedule/paragraph/1) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-f87904ac945571f17c99085d15d8b4ac]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2024/7/schedule/paragraph/1) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-ca0839f68fbbddb624627ac6c7854fd3]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-ca0839f68fbbddb624627ac6c7854fd3]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-d2c77360e3f3ade07e3c6a7a755a48cc]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2024/7/schedule/paragraph/2) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-d2c77360e3f3ade07e3c6a7a755a48cc]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2024/7/schedule/paragraph/2) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-73b2ee6bd104dad088a2de3d7fa46eba]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-73b2ee6bd104dad088a2de3d7fa46eba]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-0dcc324d72c6e995eef4adf972ca168f]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2024/7/schedule/paragraph/3) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-0dcc324d72c6e995eef4adf972ca168f]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2024/7/schedule/paragraph/3) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-f0bf7f213323e446732881e7fa5533ce]: Commencement: Sch. para. 4 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
+[^c-f0bf7f213323e446732881e7fa5533ce]: Commencement: Sch. para. 4 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2)
 
-[^key-c533870a7492a879074207760bf34477]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2024/7/schedule/paragraph/4) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-c533870a7492a879074207760bf34477]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2024/7/schedule/paragraph/4) in force at 6.1.2025 by [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)

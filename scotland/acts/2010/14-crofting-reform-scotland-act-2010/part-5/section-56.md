@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Interpretation[^key-f6455625ac4c0c5eb7e1c2f5c7ce502e]
+## 56. Interpretation[^c-f6455625ac4c0c5eb7e1c2f5c7ce502e]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6455625ac4c0c5eb7e1c2f5c7ce502e]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2010/14/section/56) in force at 22.12.2010 by [S.S.I. 2010/437](https://www.legislation.gov.uk/ssi/2010/437), [art. 3](https://www.legislation.gov.uk/ssi/2010/437/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/437/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2010/437/article/4))
+[^c-f6455625ac4c0c5eb7e1c2f5c7ce502e]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2010/14/section/56) in force at 22.12.2010 by [S.S.I. 2010/437](https://www.legislation.gov.uk/ssi/2010/437), [art. 3](https://www.legislation.gov.uk/ssi/2010/437/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/437/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2010/437/article/4))

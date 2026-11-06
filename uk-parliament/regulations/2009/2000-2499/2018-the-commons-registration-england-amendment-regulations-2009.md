@@ -32,7 +32,7 @@ summary: ''
 
 Commons, England
 
-The Commons Registration (England) (Amendment) Regulations 2009 (revoked)[^key-bde489528283197d09e669e519ea450d]
+The Commons Registration (England) (Amendment) Regulations 2009 (revoked)[^c-bde489528283197d09e669e519ea450d]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 30th September 2009
 
-[^key-bde489528283197d09e669e519ea450d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bde489528283197d09e669e519ea450d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-bde489528283197d09e669e519ea450d]
+## 1. Citation and commencement[^c-bde489528283197d09e669e519ea450d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Commons Registration (England) Regulations 2008[^key-bde489528283197d09e669e519ea450d]
+## 2. Amendment of the Commons Registration (England) Regulations 2008[^c-bde489528283197d09e669e519ea450d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bde489528283197d09e669e519ea450d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bde489528283197d09e669e519ea450d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-bde489528283197d09e669e519ea450d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bde489528283197d09e669e519ea450d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bde489528283197d09e669e519ea450d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/2018) revoked (15.12.2014) by [The Commons Registration (England) Regulations 2014 (S.I. 2014/3038)](https://www.legislation.gov.uk/uksi/2014/3038), [reg. 54(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/54/1/b) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/3), [54(3)-(5)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/54/3))
+[^c-bde489528283197d09e669e519ea450d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/2018) revoked (15.12.2014) by [The Commons Registration (England) Regulations 2014 (S.I. 2014/3038)](https://www.legislation.gov.uk/uksi/2014/3038), [reg. 54(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/54/1/b) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/3), [54(3)-(5)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/54/3))

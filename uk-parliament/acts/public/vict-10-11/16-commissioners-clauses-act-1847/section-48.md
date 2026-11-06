@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Expences of meetings.[^c5651331][^key-f6a06e588ed9590da17355080adca3de][^key-c932cb2e4a669a8a1e5790c03ad24649]
+## 48. Expences of meetings.[^c5651331][^c-f6a06e588ed9590da17355080adca3de][^c-c932cb2e4a669a8a1e5790c03ad24649]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ At all meetings of the commissioners they shall defray their own expences, excep
 
     [S. 48](https://www.legislation.gov.uk/ukpga/Vict/10-11/16/section/48) incorporated (E.W.S) (18.6.2001) by [S.I. 2001/2184](https://www.legislation.gov.uk/uksi/2001/2184), [art. 2](https://www.legislation.gov.uk/uksi/2001/2184/article/2)
 
-[^key-f6a06e588ed9590da17355080adca3de]: Modification: [S. 48](https://www.legislation.gov.uk/ukpga/Vict/10-11/16/section/48) incorporated (E.W.S.) (1.6.2009) by [Berwick Upon Tweed Harbour Revision (Constitution) Order 2009 (S.I. 2009/1231)](https://www.legislation.gov.uk/uksi/2009/1231), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1231/article/1/1), [2](https://www.legislation.gov.uk/uksi/2009/1231/article/2)
+[^c-f6a06e588ed9590da17355080adca3de]: Modification: [S. 48](https://www.legislation.gov.uk/ukpga/Vict/10-11/16/section/48) incorporated (E.W.S.) (1.6.2009) by [Berwick Upon Tweed Harbour Revision (Constitution) Order 2009 (S.I. 2009/1231)](https://www.legislation.gov.uk/uksi/2009/1231), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1231/article/1/1), [2](https://www.legislation.gov.uk/uksi/2009/1231/article/2)
 
-[^key-c932cb2e4a669a8a1e5790c03ad24649]: Modification: Ss. 36-92 incorporated (E.W.S.) (21.5.2010) by [The Newlyn Pier and Harbour Revision (Constitution) Order 2010 (S.I. 2010/1462)](https://www.legislation.gov.uk/uksi/2010/1462), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1462/article/1/1), [3](https://www.legislation.gov.uk/uksi/2010/1462/article/3)
+[^c-c932cb2e4a669a8a1e5790c03ad24649]: Modification: Ss. 36-92 incorporated (E.W.S.) (21.5.2010) by [The Newlyn Pier and Harbour Revision (Constitution) Order 2010 (S.I. 2010/1462)](https://www.legislation.gov.uk/uksi/2010/1462), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1462/article/1/1), [3](https://www.legislation.gov.uk/uksi/2010/1462/article/3)

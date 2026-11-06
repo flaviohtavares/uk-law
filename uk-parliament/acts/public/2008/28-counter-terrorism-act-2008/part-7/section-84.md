@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Forfeiture of terrorist cash: appeal against decision in forfeiture proceedings[^key-3dbc6d2b3ffa84fe6b510b4597471494]
+## 84. Forfeiture of terrorist cash: appeal against decision in forfeiture proceedings[^c-3dbc6d2b3ffa84fe6b510b4597471494]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3dbc6d2b3ffa84fe6b510b4597471494]: Commencement: S. 84 in force at 16.2.2009 by [S.I. 2009/58](https://www.legislation.gov.uk/uksi/2009/58), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/58/article/2/h)
+[^c-3dbc6d2b3ffa84fe6b510b4597471494]: Commencement: S. 84 in force at 16.2.2009 by [S.I. 2009/58](https://www.legislation.gov.uk/uksi/2009/58), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/58/article/2/h)

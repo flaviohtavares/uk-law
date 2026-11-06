@@ -229,11 +229,11 @@ In regulation 5 of the Abortion (Scotland) Regulations 1991 [^c98031] (restricti
 
 In regulation 5 of the Abortion Regulations 1991 [^c98041] (restriction on disclosure of information), in paragraph (h), for “there has been serious professional misconduct by a practitioner” substitute “ the fitness to practise of the practitioner is impaired ”.
 
-#### 29. National Health Service (Service Committees and Tribunal) (Scotland) Regulations 1992[^key-d3fb6a45e67e6e71d73a81c623a313fa]
+#### 29. National Health Service (Service Committees and Tribunal) (Scotland) Regulations 1992[^c-d3fb6a45e67e6e71d73a81c623a313fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 30. National Health Service (General Medical Services) Regulations 1992[^key-46c9c9837dd047e558ad9602e5d75420]
+#### 30. National Health Service (General Medical Services) Regulations 1992[^c-46c9c9837dd047e558ad9602e5d75420]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -245,7 +245,7 @@ In regulation 2(1) of the National Health Service (Pharmaceutical Services) Regu
 
 In regulation 2(1) of the National Health Service (Pharmaceutical Services) (Scotland) Regulations 1995 [^c98091] (interpretation), in the definition of “doctor”, after “fully registered medical practitioner” insert “ who holds a licence to practise ”.
 
-#### 33. National Health Service (General Medical Services) (Scotland) Regulations 1995[^key-ab57d0bc587551d712015652ad1c071d]
+#### 33. National Health Service (General Medical Services) (Scotland) Regulations 1995[^c-ab57d0bc587551d712015652ad1c071d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -464,15 +464,15 @@ In regulation 9 of the Education (Special Educational Needs) (England) (Consolid
 
 [^c98041]: Marginal citation: [S.I. 1991/499](https://www.legislation.gov.uk/uksi/1991/499); the relevant amending instrument is [S.I. 2002/887](https://www.legislation.gov.uk/uksi/2002/887).
 
-[^key-d3fb6a45e67e6e71d73a81c623a313fa]: Textual amendment: Sch. 1 para. 29 revoked (S.) (1.7.2006) by [The National Health Service (Discipline Committees) (Scotland) Regulations 2006 (S.S.I. 2006/330)](https://www.legislation.gov.uk/ssi/2006/330), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1), [sch. 5](https://www.legislation.gov.uk/ssi/2006/330/schedule/5)
+[^c-d3fb6a45e67e6e71d73a81c623a313fa]: Textual amendment: Sch. 1 para. 29 revoked (S.) (1.7.2006) by [The National Health Service (Discipline Committees) (Scotland) Regulations 2006 (S.S.I. 2006/330)](https://www.legislation.gov.uk/ssi/2006/330), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1), [sch. 5](https://www.legislation.gov.uk/ssi/2006/330/schedule/5)
 
-[^key-46c9c9837dd047e558ad9602e5d75420]: Textual amendment: Sch. 1 para. 30 revoked (E.) (1.4.2004) by [The General Medical Services and Personal Medical Services Transitional and Consequential Provisions Order 2004 (S.I. 2004/865)](https://www.legislation.gov.uk/uksi/2004/865), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/865/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/865/schedule/2); and revoked (W.) (1.4.2004) by [The General Medical Services Transitional and Consequential Provisions (Wales) (No. 2) Order 2004 (S.I. 2004/1016)](https://www.legislation.gov.uk/uksi/2004/1016), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/1016/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/1016/schedule/2)
+[^c-46c9c9837dd047e558ad9602e5d75420]: Textual amendment: Sch. 1 para. 30 revoked (E.) (1.4.2004) by [The General Medical Services and Personal Medical Services Transitional and Consequential Provisions Order 2004 (S.I. 2004/865)](https://www.legislation.gov.uk/uksi/2004/865), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/865/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/865/schedule/2); and revoked (W.) (1.4.2004) by [The General Medical Services Transitional and Consequential Provisions (Wales) (No. 2) Order 2004 (S.I. 2004/1016)](https://www.legislation.gov.uk/uksi/2004/1016), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/1016/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/1016/schedule/2)
 
 [^c98081]: Marginal citation: [S.I. 1992/662](https://www.legislation.gov.uk/uksi/1992/662); the relevant amending instruments are [S.I. 1994/2402](https://www.legislation.gov.uk/uksi/1994/2402), 1996/698, 1998/681 and 224, 1999/696, 2000/121 and 593, 2001/1396 and 2888, and 2002/551 and 2016.
 
 [^c98091]: Marginal citation: [S.I. 1995/414](https://www.legislation.gov.uk/uksi/1995/414).
 
-[^key-ab57d0bc587551d712015652ad1c071d]: Textual amendment: Sch. 1 para. 33 revoked (S.) (31.5.2004) by [The Primary Medical Services (Consequential and Ancillary Amendments) (Scotland) Order 2004 (S.S.I. 2004/212)](https://www.legislation.gov.uk/ssi/2004/212), [art. 1](https://www.legislation.gov.uk/ssi/2004/212/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2004/212/schedule/2)
+[^c-ab57d0bc587551d712015652ad1c071d]: Textual amendment: Sch. 1 para. 33 revoked (S.) (31.5.2004) by [The Primary Medical Services (Consequential and Ancillary Amendments) (Scotland) Order 2004 (S.S.I. 2004/212)](https://www.legislation.gov.uk/ssi/2004/212), [art. 1](https://www.legislation.gov.uk/ssi/2004/212/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2004/212/schedule/2)
 
 [^c98111]: Marginal citation: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755).
 

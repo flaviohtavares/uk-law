@@ -32,7 +32,7 @@ summary: ''
 
 Representation Of The People, Wales
 
-The Local Elections (Communities) (Welsh Forms) (Amendment) Order 2014 (revoked)[^key-1e819bc842934d5b59a449e711c11724]
+The Local Elections (Communities) (Welsh Forms) (Amendment) Order 2014 (revoked)[^c-1e819bc842934d5b59a449e711c11724]
 
 Made
 
@@ -44,41 +44,41 @@ Laid before Parliament
 
 Coming into force in accordance with article 1(2)
 
-[^key-1e819bc842934d5b59a449e711c11724]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e819bc842934d5b59a449e711c11724]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, transition and interpretation[^key-1e819bc842934d5b59a449e711c11724]
+## 1. Citation, commencement, transition and interpretation[^c-1e819bc842934d5b59a449e711c11724]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the 2007 Order[^key-1e819bc842934d5b59a449e711c11724]
+## 2. Amendment of the 2007 Order[^c-1e819bc842934d5b59a449e711c11724]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e819bc842934d5b59a449e711c11724]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e819bc842934d5b59a449e711c11724]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Welsh versions of forms for use at polls taken alone[^key-1e819bc842934d5b59a449e711c11724]
+## SCHEDULE 1 — Welsh versions of forms for use at polls taken alone[^c-1e819bc842934d5b59a449e711c11724]
 
 Article 2(5)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Welsh and English versions of forms for use at polls taken alone[^key-1e819bc842934d5b59a449e711c11724]
+## SCHEDULE 2 — Welsh and English versions of forms for use at polls taken alone[^c-1e819bc842934d5b59a449e711c11724]
 
 Article 2(6)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Welsh versions of forms for use at combined polls[^key-1e819bc842934d5b59a449e711c11724]
+## SCHEDULE 3 — Welsh versions of forms for use at combined polls[^c-1e819bc842934d5b59a449e711c11724]
 
 Article 2(7)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Welsh and English versions of forms for use at combined polls[^key-1e819bc842934d5b59a449e711c11724]
+## SCHEDULE 4 — Welsh and English versions of forms for use at combined polls[^c-1e819bc842934d5b59a449e711c11724]
 
 Article 2(8)
 
@@ -86,8 +86,8 @@ Article 2(8)
 
 **May not be in force at this date. Check the source.**
 
-[^key-1e819bc842934d5b59a449e711c11724]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e819bc842934d5b59a449e711c11724]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1e819bc842934d5b59a449e711c11724]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/919) revoked (10.3.2022) by [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/wsi/2022/263), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/wsi/2022/263/regulation/8/3/b) (with [reg. 12(e)](https://www.legislation.gov.uk/wsi/2022/263/regulation/12/e))
+[^c-1e819bc842934d5b59a449e711c11724]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/919) revoked (10.3.2022) by [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/wsi/2022/263), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/wsi/2022/263/regulation/8/3/b) (with [reg. 12(e)](https://www.legislation.gov.uk/wsi/2022/263/regulation/12/e))

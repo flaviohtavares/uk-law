@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Appointment of new protector[^key-dea6329f590428c5ab90c09054e0141f]
+## 54. Appointment of new protector[^c-dea6329f590428c5ab90c09054e0141f]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dea6329f590428c5ab90c09054e0141f]: Commencement: S. 54 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-dea6329f590428c5ab90c09054e0141f]: Commencement: S. 54 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32B. Marking of wood packaging material: power of seizure[^key-b27096dc5a0b20a5a3cd6f96c601b3f8]
+## 32B. Marking of wood packaging material: power of seizure[^c-b27096dc5a0b20a5a3cd6f96c601b3f8]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b27096dc5a0b20a5a3cd6f96c601b3f8]: Textual amendment: [Regs. 32A](https://www.legislation.gov.uk/ssi/2019/421/regulation/32A), [32B](https://www.legislation.gov.uk/ssi/2019/421/regulation/32B) inserted (27.6.2020) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/176)](https://www.legislation.gov.uk/ssi/2020/176), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/176/regulation/1/1), [16](https://www.legislation.gov.uk/ssi/2020/176/regulation/16)
+[^c-b27096dc5a0b20a5a3cd6f96c601b3f8]: Textual amendment: [Regs. 32A](https://www.legislation.gov.uk/ssi/2019/421/regulation/32A), [32B](https://www.legislation.gov.uk/ssi/2019/421/regulation/32B) inserted (27.6.2020) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/176)](https://www.legislation.gov.uk/ssi/2020/176), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/176/regulation/1/1), [16](https://www.legislation.gov.uk/ssi/2020/176/regulation/16)

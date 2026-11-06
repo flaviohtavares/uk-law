@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Court review of decisions[^key-7c6ee5c052f5a3bafc132da497695c12][^key-603f8354789dfc017c168dcf8a2a4fcf]
+## 38. Court review of decisions[^c-7c6ee5c052f5a3bafc132da497695c12][^c-603f8354789dfc017c168dcf8a2a4fcf]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7c6ee5c052f5a3bafc132da497695c12]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2018/13/section/38) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/b)
+[^c-7c6ee5c052f5a3bafc132da497695c12]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2018/13/section/38) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/b)
 
-[^key-603f8354789dfc017c168dcf8a2a4fcf]: Modification: [S. 38](https://www.legislation.gov.uk/ukpga/2018/13/section/38) extended (British overseas territories) (with modifications) (31.12.2020 immediately after both S.I. 2020/950 and S.I. 2020/1289 have come into force) by [The Counter-Terrorism (Sanctions) (Overseas Territories) Order 2020 (S.I. 2020/1564)](https://www.legislation.gov.uk/uksi/2020/1564), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1564/article/1/1), [4(d)](https://www.legislation.gov.uk/uksi/2020/1564/article/4/d), [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1564/schedule/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1564/schedule/3); S.I. 2020/1514, [regs. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17), [21](https://www.legislation.gov.uk/uksi/2020/1514/regulation/21)
+[^c-603f8354789dfc017c168dcf8a2a4fcf]: Modification: [S. 38](https://www.legislation.gov.uk/ukpga/2018/13/section/38) extended (British overseas territories) (with modifications) (31.12.2020 immediately after both S.I. 2020/950 and S.I. 2020/1289 have come into force) by [The Counter-Terrorism (Sanctions) (Overseas Territories) Order 2020 (S.I. 2020/1564)](https://www.legislation.gov.uk/uksi/2020/1564), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1564/article/1/1), [4(d)](https://www.legislation.gov.uk/uksi/2020/1564/article/4/d), [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1564/schedule/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1564/schedule/3); S.I. 2020/1514, [regs. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17), [21](https://www.legislation.gov.uk/uksi/2020/1514/regulation/21)

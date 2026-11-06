@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 84. Final meeting[^key-e894abdceb68fc932f31660521d4f04e]
+## 84. Final meeting[^c-e894abdceb68fc932f31660521d4f04e]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e894abdceb68fc932f31660521d4f04e]: Commencement: S. 84 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-e894abdceb68fc932f31660521d4f04e]: Commencement: S. 84 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**116.**[^key-a0c2e25c0046120e37c565288fd7cd15] In section 18—
+**116.**[^c-a0c2e25c0046120e37c565288fd7cd15] In section 18—
 
 - (a) before subsection (1), insert—
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0c2e25c0046120e37c565288fd7cd15]: Commencement: Art. 116 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-a0c2e25c0046120e37c565288fd7cd15]: Commencement: Art. 116 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

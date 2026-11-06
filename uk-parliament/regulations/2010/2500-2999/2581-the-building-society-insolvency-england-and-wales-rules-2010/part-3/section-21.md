@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Notice of appointment[^key-669aa6405811f77effd6428111998ab2]
+## 21. Notice of appointment[^c-669aa6405811f77effd6428111998ab2]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-669aa6405811f77effd6428111998ab2]: Commencement: Rule 21 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-669aa6405811f77effd6428111998ab2]: Commencement: Rule 21 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

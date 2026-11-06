@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Section 86: consequential provision[^key-4d8294d8484220e8496acc513f73f090][^key-6876f1e87e65f64228a7f43e02a1ecd7]
+## 87. Section 86: consequential provision[^c-4d8294d8484220e8496acc513f73f090][^c-6876f1e87e65f64228a7f43e02a1ecd7]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4d8294d8484220e8496acc513f73f090]: Commencement: S. 87 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-4d8294d8484220e8496acc513f73f090]: Commencement: S. 87 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-6876f1e87e65f64228a7f43e02a1ecd7]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2025/18/section/87) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/o)
+[^c-6876f1e87e65f64228a7f43e02a1ecd7]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2025/18/section/87) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/o)

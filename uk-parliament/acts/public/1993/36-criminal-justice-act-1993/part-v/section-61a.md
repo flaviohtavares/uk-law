@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61A. Summary proceedings: venue and time limit for proceedings[^key-d595aa69567e77ceee400214f72f3978]
+## 61A. Summary proceedings: venue and time limit for proceedings[^c-d595aa69567e77ceee400214f72f3978]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ Section 136(3) of the Criminal Procedure (Scotland) Act 1995 (date when proceedi
 
 ## Annotations
 
-[^key-d595aa69567e77ceee400214f72f3978]: Textual amendment: [S. 61A](https://www.legislation.gov.uk/ukpga/1993/36/section/61A) inserted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 141](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/141) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-d595aa69567e77ceee400214f72f3978]: Textual amendment: [S. 61A](https://www.legislation.gov.uk/ukpga/1993/36/section/61A) inserted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 141](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/141) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

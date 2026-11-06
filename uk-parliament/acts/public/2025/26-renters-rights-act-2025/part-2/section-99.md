@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 99. Interpretation of Part 2[^key-ddbad04f2746585b874aaac95fe3d97c][^key-fda28b1999fb32bb65c7692166f99b16]
+## 99. Interpretation of Part 2[^c-ddbad04f2746585b874aaac95fe3d97c][^c-fda28b1999fb32bb65c7692166f99b16]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ddbad04f2746585b874aaac95fe3d97c]: Commencement: S. 99 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
+[^c-ddbad04f2746585b874aaac95fe3d97c]: Commencement: S. 99 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
 
-[^key-fda28b1999fb32bb65c7692166f99b16]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2025/26/section/99) in force at 27.12.2025 for specified purposes by [S.I. 2025/1354](https://www.legislation.gov.uk/uksi/2025/1354), [reg. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1354/regulation/2/a/ii)
+[^c-fda28b1999fb32bb65c7692166f99b16]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2025/26/section/99) in force at 27.12.2025 for specified purposes by [S.I. 2025/1354](https://www.legislation.gov.uk/uksi/2025/1354), [reg. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1354/regulation/2/a/ii)

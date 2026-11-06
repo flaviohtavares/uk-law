@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 233. Order for service parent or service guardian to enter into recognizance[^key-60fd5b0d1f507de72bffd272b3f91efe][^key-873151ce390f9fd1c470202a124e0446]
+## 233. Order for service parent or service guardian to enter into recognizance[^c-60fd5b0d1f507de72bffd272b3f91efe][^c-873151ce390f9fd1c470202a124e0446]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ the court may, and in the circumstances mentioned in subsection (3) must, exerci
 
 ## Annotations
 
-[^key-60fd5b0d1f507de72bffd272b3f91efe]: Commencement: S. 233 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-60fd5b0d1f507de72bffd272b3f91efe]: Commencement: S. 233 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-873151ce390f9fd1c470202a124e0446]: Commencement: S. 233 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-873151ce390f9fd1c470202a124e0446]: Commencement: S. 233 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

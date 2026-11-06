@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Transitional provisions[^key-685e2e3e04d4bc20a0029794a7d54cdf]
+## 12. Transitional provisions[^c-685e2e3e04d4bc20a0029794a7d54cdf]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 
 (3) In the case of acquisitions made prior to the date on which a society first prepared its annual accounts in accordance with the Building Societies (Accounts and Related Provisions) Regulations 1992[^f00006], no amount need be included in any figure required to be disclosed under paragraph 11 of Schedule 4, or (if all relevant acquisitions were made prior to that date) no figure need be disclosed, if the information necessary to calculate the amount or figure with material accuracy is unavailable or cannot be obtained without unreasonable expense and delay, provided it is disclosed in the notes to the accounts that an amount has not been included or the figure has not been disclosed on these grounds.
 
-(4) A society shall prepare, with respect to a financial year which ended before the operative date of these Regulations for it, such annual accounts in respect of that financial year as it would have been required to prepare had these Regulations not been made subject only to the omission of the statement of the source and application of funds from the annual accounts for a financial year which ends after 22nd March 1999[^key-a6c6194277bf892e1ac88cbc36910699], and for the purpose of this paragraph the annual accounts shall be taken to include the annual business statement, the directors' report and the summary financial statement.
+(4) A society shall prepare, with respect to a financial year which ended before the operative date of these Regulations for it, such annual accounts in respect of that financial year as it would have been required to prepare had these Regulations not been made subject only to the omission of the statement of the source and application of funds from the annual accounts for a financial year which ends after 22nd March 1999[^c-a6c6194277bf892e1ac88cbc36910699], and for the purpose of this paragraph the annual accounts shall be taken to include the annual business statement, the directors' report and the summary financial statement.
 
 (5) A society may prepare, with respect to the first financial year ending after the operative date of these Regulations for it, a directors' report which does not contain the information described in paragraph 9(2) of Schedule 8.
 
@@ -46,10 +46,10 @@ summary: ''
 
 ## Annotations
 
-[^key-685e2e3e04d4bc20a0029794a7d54cdf]: Commencement: Reg. 12 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-685e2e3e04d4bc20a0029794a7d54cdf]: Commencement: Reg. 12 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
 [^f00006]: Footnote: S.I. [1992/359](https://www.legislation.gov.uk/uksi/1992/359).
 
-[^key-a6c6194277bf892e1ac88cbc36910699]: Textual amendment: Words in [reg. 12(4)](https://www.legislation.gov.uk/uksi/1998/504/regulation/12/4) inserted (23.3.1999) by [The Building Societies (Contents of Accounts) Regulations 1999 (S.I. 1999/248)](https://www.legislation.gov.uk/uksi/1999/248), [reg. 1](https://www.legislation.gov.uk/uksi/1999/248/regulation/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/1999/248/schedule/paragraph/10) (with [reg. 4](https://www.legislation.gov.uk/uksi/1999/248/regulation/4))
+[^c-a6c6194277bf892e1ac88cbc36910699]: Textual amendment: Words in [reg. 12(4)](https://www.legislation.gov.uk/uksi/1998/504/regulation/12/4) inserted (23.3.1999) by [The Building Societies (Contents of Accounts) Regulations 1999 (S.I. 1999/248)](https://www.legislation.gov.uk/uksi/1999/248), [reg. 1](https://www.legislation.gov.uk/uksi/1999/248/regulation/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/1999/248/schedule/paragraph/10) (with [reg. 4](https://www.legislation.gov.uk/uksi/1999/248/regulation/4))
 
 [^f00007]: Footnote: S.I. [1997/2668 (C.99)](https://www.legislation.gov.uk/uksi/1997/2668).

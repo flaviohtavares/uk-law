@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Offence[^key-033d14fb7593b55125c37670963714e9][^key-882152c9e04f52ecd8a82a5ecf7838f0][^key-420e0b251bf8f289775eec83c2a1c421]
+## 59. Offence[^c-033d14fb7593b55125c37670963714e9][^c-882152c9e04f52ecd8a82a5ecf7838f0][^c-420e0b251bf8f289775eec83c2a1c421]
 
 *Extent: E+W*
 
@@ -24,8 +24,8 @@ Regulations may provide that a registered adoption society which discloses any i
 
 ## Annotations
 
-[^key-033d14fb7593b55125c37670963714e9]: Commencement: S. 59 in force at 7.2.2004 for W. by [S.I. 2004/252](https://www.legislation.gov.uk/uksi/2004/252), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/252/article/2/b)
+[^c-033d14fb7593b55125c37670963714e9]: Commencement: S. 59 in force at 7.2.2004 for W. by [S.I. 2004/252](https://www.legislation.gov.uk/uksi/2004/252), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/252/article/2/b)
 
-[^key-882152c9e04f52ecd8a82a5ecf7838f0]: Commencement: S. 59 in force at 7.12.2004 for specified purposes for E. by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(m)(v)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/m/v)
+[^c-882152c9e04f52ecd8a82a5ecf7838f0]: Commencement: S. 59 in force at 7.12.2004 for specified purposes for E. by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(m)(v)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/m/v)
 
-[^key-420e0b251bf8f289775eec83c2a1c421]: Commencement: S. 59 in force at 30.12.2005 for E. in so far as not already in force by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 3(k)](https://www.legislation.gov.uk/uksi/2005/2213/article/3/k) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-420e0b251bf8f289775eec83c2a1c421]: Commencement: S. 59 in force at 30.12.2005 for E. in so far as not already in force by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 3(k)](https://www.legislation.gov.uk/uksi/2005/2213/article/3/k) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)

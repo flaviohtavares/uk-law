@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 190. Application of the Order to the Crown and visiting forces etc.[^key-ec7761b5b5e675b8a5c2528e77835302]
+## 190. Application of the Order to the Crown and visiting forces etc.[^c-ec7761b5b5e675b8a5c2528e77835302]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec7761b5b5e675b8a5c2528e77835302]: Commencement: [Art. 190](https://www.legislation.gov.uk/uksi/2013/2870/article/190) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-ec7761b5b5e675b8a5c2528e77835302]: Commencement: [Art. 190](https://www.legislation.gov.uk/uksi/2013/2870/article/190) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

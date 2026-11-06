@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Regulations about transfer of individual development plans[^key-0d2e9e131f4ccad028480c26ea641f1a]
+## 37. Regulations about transfer of individual development plans[^c-0d2e9e131f4ccad028480c26ea641f1a]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d2e9e131f4ccad028480c26ea641f1a]: Commencement: S. 37 in force at 2.11.2020 by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/2/c)
+[^c-0d2e9e131f4ccad028480c26ea641f1a]: Commencement: S. 37 in force at 2.11.2020 by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/2/c)

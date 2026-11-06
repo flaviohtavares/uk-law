@@ -94,7 +94,7 @@ Section 116(1).
 
 ### The Industrial and Provident Societies Act 1965 (c. 12)
 
-**18.**[^key-5b884832a311a14758ad2cc864d18f2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-5b884832a311a14758ad2cc864d18f2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Administration of Estates (Small Payments) Act 1965 (c. 32)
 
@@ -113,11 +113,11 @@ Section 116(1).
 
 ### The Public Expenditure and Receipts Act 1968 (c. 14)
 
-**21.**[^key-490478033e5f558854b723798f4b03cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-490478033e5f558854b723798f4b03cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Friendly and Industrial and Provident Societies Act 1968 (c. 55)
 
-**22.**[^key-7c232f17402a3e2c03745c69ef3afb99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-7c232f17402a3e2c03745c69ef3afb99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **23.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c1073806]
 
@@ -143,10 +143,10 @@ Section 116(1).
 
 [^c1073803]: Textual amendment: [Sch. 9 para. 17](https://www.legislation.gov.uk/ukpga/1974/46/schedule/9/paragraph/17) repealed by [Mental Health (Scotland) Act 1984 (c. 36, SIF 85)](https://www.legislation.gov.uk/ukpga/1984/36), [s. 127(2)](https://www.legislation.gov.uk/ukpga/1984/36/section/127/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/1984/36/schedule/5)
 
-[^key-5b884832a311a14758ad2cc864d18f2a]: Textual amendment: [Sch. 9 para. 18](https://www.legislation.gov.uk/ukpga/1974/46/schedule/9/paragraph/18) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-5b884832a311a14758ad2cc864d18f2a]: Textual amendment: [Sch. 9 para. 18](https://www.legislation.gov.uk/ukpga/1974/46/schedule/9/paragraph/18) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-490478033e5f558854b723798f4b03cb]: Textual amendment: [Sch. 9 para. 21](https://www.legislation.gov.uk/ukpga/1974/46/schedule/9/paragraph/21) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 2
+[^c-490478033e5f558854b723798f4b03cb]: Textual amendment: [Sch. 9 para. 21](https://www.legislation.gov.uk/ukpga/1974/46/schedule/9/paragraph/21) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 2
 
-[^key-7c232f17402a3e2c03745c69ef3afb99]: Textual amendment: Sch. 9 para. 22 repealed (1.12.2001, being the date on which 2000 c. 8, s. 19 comes into force) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2(b)](https://www.legislation.gov.uk/uksi/2001/2617/article/2/b), [13(1)(2)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/1/2), [Sch. 3 Pt. I para. 50](https://www.legislation.gov.uk/uksi/2001/2617/schedule/3/part/I/paragraph/50), [Sch. 4](https://www.legislation.gov.uk/uksi/2001/2617/schedule/4) (with [art. 13(3)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/2617/schedule/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1) and it is provided that Sch. 9 para. 22 repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-7c232f17402a3e2c03745c69ef3afb99]: Textual amendment: Sch. 9 para. 22 repealed (1.12.2001, being the date on which 2000 c. 8, s. 19 comes into force) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2(b)](https://www.legislation.gov.uk/uksi/2001/2617/article/2/b), [13(1)(2)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/1/2), [Sch. 3 Pt. I para. 50](https://www.legislation.gov.uk/uksi/2001/2617/schedule/3/part/I/paragraph/50), [Sch. 4](https://www.legislation.gov.uk/uksi/2001/2617/schedule/4) (with [art. 13(3)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/2617/schedule/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1) and it is provided that Sch. 9 para. 22 repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
 [^c1073806]: Textual amendment: [Sch. 9 para. 23](https://www.legislation.gov.uk/ukpga/1974/46/schedule/9/paragraph/23) repealed by [Income and Corporation Taxes Act 1988 (c. 1, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1988/1), [s. 844(4)](https://www.legislation.gov.uk/ukpga/1988/1/section/844/4),Sch. 31

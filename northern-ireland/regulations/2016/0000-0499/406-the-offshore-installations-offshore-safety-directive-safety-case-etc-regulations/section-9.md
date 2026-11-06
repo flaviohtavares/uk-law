@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Establishment of verification scheme[^key-272366ce7c55d32e1bc7e95f08815103]
+## 9. Establishment of verification scheme[^c-272366ce7c55d32e1bc7e95f08815103]
 
 *Extent: N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 (2) The means are—
 
 - (a) examination, including testing where appropriate, of the safety and environmental-critical elements and the specified plant by a verifier;
-- (b)[^key-658ced458babfa38cc13f14c22af8df4] examination of any design, specification, certificate, marking or other document, or standard relating to those elements or that plant by a verifier;
+- (b)[^c-658ced458babfa38cc13f14c22af8df4] examination of any design, specification, certificate, marking or other document, or standard relating to those elements or that plant by a verifier;
 - (c) examination by a verifier of work in progress;
 - (d) the creation of reports by a verifier on—
   - (i) the examination and testing carried out;
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-272366ce7c55d32e1bc7e95f08815103]: Commencement: Reg. 9 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-272366ce7c55d32e1bc7e95f08815103]: Commencement: Reg. 9 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-658ced458babfa38cc13f14c22af8df4]: Textual amendment: [Reg. 9(2)(b)](https://www.legislation.gov.uk/nisr/2016/406/regulation/9/2/b) substituted (31.12.2020) by [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2019/202/schedule/2/paragraph/14/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-658ced458babfa38cc13f14c22af8df4]: Textual amendment: [Reg. 9(2)(b)](https://www.legislation.gov.uk/nisr/2016/406/regulation/9/2/b) substituted (31.12.2020) by [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2019/202/schedule/2/paragraph/14/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

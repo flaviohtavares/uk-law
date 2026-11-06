@@ -48,9 +48,9 @@ Coming into force
 
 27th March 2015
 
-The Secretary of State is designated *(Extent: S)* *(affected by repeal, see note)*[^key-d692b91b448113fab2aa0f773c97a318][^f00001] for the purpose of making Regulations under section 2(2) of the European Communities Act 1972 *(Extent: S)* *(affected by repeal, see note)*[^key-d692b91b448113fab2aa0f773c97a318][^f00002] in relation to the environment. *(Extent: S)* *(affected by repeal, see note)*[^key-d692b91b448113fab2aa0f773c97a318]
+The Secretary of State is designated *(Extent: S)* *(affected by repeal, see note)*[^c-d692b91b448113fab2aa0f773c97a318][^f00001] for the purpose of making Regulations under section 2(2) of the European Communities Act 1972 *(Extent: S)* *(affected by repeal, see note)*[^c-d692b91b448113fab2aa0f773c97a318][^f00002] in relation to the environment. *(Extent: S)* *(affected by repeal, see note)*[^c-d692b91b448113fab2aa0f773c97a318]
 
-The Secretary of State makes these Regulations in exercise of the powers conferred by section 2(2) of that Act. *(Extent: S)* *(affected by repeal, see note)*[^key-d692b91b448113fab2aa0f773c97a318]
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 2(2) of that Act. *(Extent: S)* *(affected by repeal, see note)*[^c-d692b91b448113fab2aa0f773c97a318]
 
 ## 1. Title and commencement
 
@@ -151,7 +151,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 ## Annotations
 
-[^key-d692b91b448113fab2aa0f773c97a318]: Textual amendment: Regulations revoked (S.) (16.5.2017) by [The Marine Works (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/115)](https://www.legislation.gov.uk/ssi/2017/115), regs. 1(1), [42(c)](https://www.legislation.gov.uk/ssi/2017/115/regulation/42/c) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/115/regulation/1/2), [40](https://www.legislation.gov.uk/ssi/2017/115/regulation/40), [41](https://www.legislation.gov.uk/ssi/2017/115/regulation/41))
+[^c-d692b91b448113fab2aa0f773c97a318]: Textual amendment: Regulations revoked (S.) (16.5.2017) by [The Marine Works (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/115)](https://www.legislation.gov.uk/ssi/2017/115), regs. 1(1), [42(c)](https://www.legislation.gov.uk/ssi/2017/115/regulation/42/c) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/115/regulation/1/2), [40](https://www.legislation.gov.uk/ssi/2017/115/regulation/40), [41](https://www.legislation.gov.uk/ssi/2017/115/regulation/41))
 
 [^f00001]: Footnote: [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301).
 

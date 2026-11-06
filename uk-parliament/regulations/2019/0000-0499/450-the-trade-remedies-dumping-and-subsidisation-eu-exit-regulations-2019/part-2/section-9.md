@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. The ordinary course of trade[^key-36fd3375ae1601209d798d234bb45632]
+## 9. The ordinary course of trade[^c-36fd3375ae1601209d798d234bb45632]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-36fd3375ae1601209d798d234bb45632]: Commencement: Reg. 9 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-36fd3375ae1601209d798d234bb45632]: Commencement: Reg. 9 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
 
 [^c24288051]: Marginal citation: [S.I](https://www.legislation.gov.uk/uksi/2019/450/section/I) 2018/1248

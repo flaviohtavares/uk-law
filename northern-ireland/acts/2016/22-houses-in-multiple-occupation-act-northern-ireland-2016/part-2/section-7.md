@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Requirement for HMOs to be licensed[^key-855be713bbd36404bf1cec638a5f8e09]
+## 7. Requirement for HMOs to be licensed[^c-855be713bbd36404bf1cec638a5f8e09]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-855be713bbd36404bf1cec638a5f8e09]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2016/22/section/7) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-855be713bbd36404bf1cec638a5f8e09]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2016/22/section/7) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England
 
-The Health Education England (Establishment and Constitution) Amendment (No. 2) Order 2013 (revoked)[^key-13b1f671c5abc5574ed73dded0b1224e]
+The Health Education England (Establishment and Constitution) Amendment (No. 2) Order 2013 (revoked)[^c-13b1f671c5abc5574ed73dded0b1224e]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st July 2013
 
-[^key-13b1f671c5abc5574ed73dded0b1224e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-13b1f671c5abc5574ed73dded0b1224e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-13b1f671c5abc5574ed73dded0b1224e]
+## 1. Citation, commencement and interpretation[^c-13b1f671c5abc5574ed73dded0b1224e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Establishment Order[^key-13b1f671c5abc5574ed73dded0b1224e]
+## 2. Amendment of the Establishment Order[^c-13b1f671c5abc5574ed73dded0b1224e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-13b1f671c5abc5574ed73dded0b1224e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-13b1f671c5abc5574ed73dded0b1224e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-13b1f671c5abc5574ed73dded0b1224e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-13b1f671c5abc5574ed73dded0b1224e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-13b1f671c5abc5574ed73dded0b1224e]: Textual amendment: Order revoked (1.4.2015) by [The Care Act 2014 (Health Education England and the Health Research Authority) (Consequential Amendments and Revocations) Order 2015 (S.I. 2015/137)](https://www.legislation.gov.uk/uksi/2015/137), [art. 1](https://www.legislation.gov.uk/uksi/2015/137/article/1), [Sch. 1(b)](https://www.legislation.gov.uk/uksi/2015/137/schedule/1/b)
+[^c-13b1f671c5abc5574ed73dded0b1224e]: Textual amendment: Order revoked (1.4.2015) by [The Care Act 2014 (Health Education England and the Health Research Authority) (Consequential Amendments and Revocations) Order 2015 (S.I. 2015/137)](https://www.legislation.gov.uk/uksi/2015/137), [art. 1](https://www.legislation.gov.uk/uksi/2015/137/article/1), [Sch. 1(b)](https://www.legislation.gov.uk/uksi/2015/137/schedule/1/b)

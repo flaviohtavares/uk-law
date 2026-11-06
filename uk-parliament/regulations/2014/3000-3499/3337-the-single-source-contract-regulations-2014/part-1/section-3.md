@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Meaning of “defence purposes” and “substantially for defence purposes”)[^key-0a28fd6d9c938986648249d2bf678e55]
+## 3. Meaning of “defence purposes” and “substantially for defence purposes”)[^c-0a28fd6d9c938986648249d2bf678e55]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a28fd6d9c938986648249d2bf678e55]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/3337/regulation/3) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2024/420/regulation/4)
+[^c-0a28fd6d9c938986648249d2bf678e55]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/3337/regulation/3) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2024/420/regulation/4)

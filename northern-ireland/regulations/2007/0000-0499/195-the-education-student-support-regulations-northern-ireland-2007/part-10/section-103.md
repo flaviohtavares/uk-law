@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 103. Payment of loans for living costs[^key-21432ab62c65bb9789cc71f3a0e005c1]
+## 103. Payment of loans for living costs[^c-21432ab62c65bb9789cc71f3a0e005c1]
 
 *Extent: N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21432ab62c65bb9789cc71f3a0e005c1]: Commencement: [Reg. 103](https://www.legislation.gov.uk/nisr/2007/195/regulation/103) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-21432ab62c65bb9789cc71f3a0e005c1]: Commencement: [Reg. 103](https://www.legislation.gov.uk/nisr/2007/195/regulation/103) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

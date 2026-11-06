@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Establishment of active member’s account[^key-5c7afef173228e6e0a4133fe1bc0b96b]
+## 31. Establishment of active member’s account[^c-5c7afef173228e6e0a4133fe1bc0b96b]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c7afef173228e6e0a4133fe1bc0b96b]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2015/19/regulation/31) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-5c7afef173228e6e0a4133fe1bc0b96b]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2015/19/regulation/31) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

@@ -16,24 +16,24 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Miscellaneous amendments[^key-c8eb7c19adf0bb5038223904a3084471]
+## 73. Miscellaneous amendments[^c-c8eb7c19adf0bb5038223904a3084471]
 
 *Extent: E+W+S+N.I.*
 
 (1) In the following provisions for “long term business” substitute “long-term insurance”—
 
 - (a) section 212(1);
-- (b)[^key-b1f2f8b29e105546aabd92f7ecdeeb16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-b1f2f8b29e105546aabd92f7ecdeeb16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In the following provisions for “long term” substitute “long-term”—
 
 - (a) section 213(4) and (7);
-- (b)[^key-b8779a58b0887520d7a3093c423621af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-b8779a58b0887520d7a3093c423621af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c8eb7c19adf0bb5038223904a3084471]: Commencement: Art. 73 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-c8eb7c19adf0bb5038223904a3084471]: Commencement: Art. 73 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
-[^key-b1f2f8b29e105546aabd92f7ecdeeb16]: Textual amendment: [Art. 73(1)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/73/1/b) revoked (31.12.2006 with effect in accordance with reg. 1 of the amending S.I.) by [The Overseas Life Insurance Companies Regulations 2006 (S.I. 2006/3271)](https://www.legislation.gov.uk/uksi/2006/3271), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1), [43(2)](https://www.legislation.gov.uk/uksi/2006/3271/regulation/43/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2006/3271/schedule/part/2) (with [reg. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1))
+[^c-b1f2f8b29e105546aabd92f7ecdeeb16]: Textual amendment: [Art. 73(1)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/73/1/b) revoked (31.12.2006 with effect in accordance with reg. 1 of the amending S.I.) by [The Overseas Life Insurance Companies Regulations 2006 (S.I. 2006/3271)](https://www.legislation.gov.uk/uksi/2006/3271), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1), [43(2)](https://www.legislation.gov.uk/uksi/2006/3271/regulation/43/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2006/3271/schedule/part/2) (with [reg. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1))
 
-[^key-b8779a58b0887520d7a3093c423621af]: Textual amendment: [Art. 73(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/73/2/b) revoked (31.12.2006 with effect in accordance with reg. 1 of the amending S.I.) by [The Overseas Life Insurance Companies Regulations 2006 (S.I. 2006/3271)](https://www.legislation.gov.uk/uksi/2006/3271), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1), [43(2)](https://www.legislation.gov.uk/uksi/2006/3271/regulation/43/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2006/3271/schedule/part/2) (with [reg. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1))
+[^c-b8779a58b0887520d7a3093c423621af]: Textual amendment: [Art. 73(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/73/2/b) revoked (31.12.2006 with effect in accordance with reg. 1 of the amending S.I.) by [The Overseas Life Insurance Companies Regulations 2006 (S.I. 2006/3271)](https://www.legislation.gov.uk/uksi/2006/3271), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1), [43(2)](https://www.legislation.gov.uk/uksi/2006/3271/regulation/43/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2006/3271/schedule/part/2) (with [reg. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1))

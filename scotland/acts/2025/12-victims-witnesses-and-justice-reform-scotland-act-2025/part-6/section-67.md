@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Research into juries[^key-9837ae0c61fc825981f6ac8b252c68fe][^key-e9f352ade5d5108ea5cf1a95f7034028]
+## 67. Research into juries[^c-9837ae0c61fc825981f6ac8b252c68fe][^c-e9f352ade5d5108ea5cf1a95f7034028]
 
 *Extent: S*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9837ae0c61fc825981f6ac8b252c68fe]: Commencement: S. 67 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-9837ae0c61fc825981f6ac8b252c68fe]: Commencement: S. 67 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-e9f352ade5d5108ea5cf1a95f7034028]: Commencement: S. 67 in force at 1.1.2026 by [S.S.I. 2025/393](https://www.legislation.gov.uk/ssi/2025/393), [reg. 2(1)(d)](https://www.legislation.gov.uk/ssi/2025/393/regulation/2/1/d)
+[^c-e9f352ade5d5108ea5cf1a95f7034028]: Commencement: S. 67 in force at 1.1.2026 by [S.S.I. 2025/393](https://www.legislation.gov.uk/ssi/2025/393), [reg. 2(1)(d)](https://www.legislation.gov.uk/ssi/2025/393/regulation/2/1/d)

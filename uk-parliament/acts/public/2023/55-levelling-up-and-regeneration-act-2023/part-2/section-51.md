@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Power to make provision supplemental to section 49[^key-0c3a7df2000e0dd10e4ba366849df573]
+## 51. Power to make provision supplemental to section 49[^c-0c3a7df2000e0dd10e4ba366849df573]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ as the Secretary of State considers appropriate.
 
 ## Annotations
 
-[^key-0c3a7df2000e0dd10e4ba366849df573]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2023/55/section/51) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-0c3a7df2000e0dd10e4ba366849df573]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2023/55/section/51) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)

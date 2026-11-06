@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Power to take, pump, impound and discharge water[^key-7c0de6288d0e4fc1efe84ae84c9c9c29]
+## 19. Power to take, pump, impound and discharge water[^c-7c0de6288d0e4fc1efe84ae84c9c9c29]
 
 *Extent: E+W*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7c0de6288d0e4fc1efe84ae84c9c9c29]: Commencement: Art. 19 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-7c0de6288d0e4fc1efe84ae84c9c9c29]: Commencement: Art. 19 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
 [^f00035]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
 

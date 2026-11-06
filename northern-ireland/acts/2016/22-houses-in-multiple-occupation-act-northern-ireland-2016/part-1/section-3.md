@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Cases where person is treated as occupying accommodation as only or main residence[^key-d0953e9f1d5754ec068696ee343118b1]
+## 3. Cases where person is treated as occupying accommodation as only or main residence[^c-d0953e9f1d5754ec068696ee343118b1]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ is to be treated as occupying that accommodation as the person's only or main re
 
 ## Annotations
 
-[^key-d0953e9f1d5754ec068696ee343118b1]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2016/22/section/3) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-d0953e9f1d5754ec068696ee343118b1]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2016/22/section/3) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

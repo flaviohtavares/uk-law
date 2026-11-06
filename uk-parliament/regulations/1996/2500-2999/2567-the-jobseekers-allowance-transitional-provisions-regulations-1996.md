@@ -122,7 +122,7 @@ shall, for the purposes of paragraph (1), be treated as a period in which the cl
 
 (2) Linked periods for the purposes of these Regulations are any of the following periods—
 
-- (a) to the extent specified in paragraph (5)[^key-cd9dd81d70153af3b75f32198a97e5e7], any period throughout which the claimant is entitled to an invalid care allowance or carer’s allowance, as the case may be,[^key-2377845d002673a1fed236ec55a7c855] under section 70 of the Benefits Act;
+- (a) to the extent specified in paragraph (5)[^c-cd9dd81d70153af3b75f32198a97e5e7], any period throughout which the claimant is entitled to an invalid care allowance or carer’s allowance, as the case may be,[^c-2377845d002673a1fed236ec55a7c855] under section 70 of the Benefits Act;
 - (b) any period throughout which the claimant is incapable of work, or is treated as incapable of work, in accordance with Part XIIA of the Benefits Act [^c1768576];
 - (c) any period throughout which the claimant was entitled to a maternity allowance under section 35 of the Benefits Act;
 - (d) any period throughout which the claimant was engaged in training;
@@ -207,7 +207,7 @@ shall not be treated as entitled to a contribution-based jobseeker’s allowance
 
 (4) In the case of a person to whom unemployment benefit was payable in respect of either 6th or 7th April 1996 and where the period of interruption of employment that was current on that date was also current on the relevant day—
 
-- (a) section 5(1) shall have effect as if the reference to 182 days was a reference to 312 days but only in so far as this sub-paragraph has effect in the case of any person in respect of any date falling before 1st December 1997[^key-a79c699cdbd352d23879cbd82c397305] ; and
+- (a) section 5(1) shall have effect as if the reference to 182 days was a reference to 312 days but only in so far as this sub-paragraph has effect in the case of any person in respect of any date falling before 1st December 1997[^c-a79c699cdbd352d23879cbd82c397305] ; and
 - (b) in any benefit week commencing on or after 7th October 1996, Sunday or such other day of the week which before that date was, in the claimant’s case, substituted for Sunday in accordance with regulation 4 of the Unemployment Benefit Regulations as in force on 6th October 1996 [^c1768577] shall be disregarded solely for the purpose of determining whether in the aggregate a person has been entitled to a contribution-based jobseeker’s allowance for 312 days.
 
 (5) In the case of a person to whom unemployment benefit was not payable in respect of either 6th or 7th April 1996—
@@ -215,7 +215,7 @@ shall not be treated as entitled to a contribution-based jobseeker’s allowance
 - (a) section 5(1) shall have effect as if the reference to 182 days was a reference to 156 days; and
 - (b) in any benefit week commencing on or after 7th October 1996, Sunday or such other day of the week which before that date was, in the claimant’s case, substituted for Sunday in accordance with regulation 4 of the Unemployment Benefit Regulations as in force on 6th October 1996 shall be disregarded solely for the purpose of determining whether in the aggregate a person has been entitled to a contribution-based jobseeker’s allowance for 156 days.
 
-(6) Any day of unemployment which fell within a period of interruption of employment current on the relevant day shall be treated as a day of entitlement to a contribution-based jobseeker’s allowance for the purpose of determining whether the 182 days mentioned in section 5(1), or 312 days in a case to which paragraph (4)[^key-5296cec110576dd3d194f272e2fcd65d] applies or 156 days in a case to which paragraph (5) applies[^key-e53462ae374a1f40cffe30d00e9c0bb7], has been exceeded.
+(6) Any day of unemployment which fell within a period of interruption of employment current on the relevant day shall be treated as a day of entitlement to a contribution-based jobseeker’s allowance for the purpose of determining whether the 182 days mentioned in section 5(1), or 312 days in a case to which paragraph (4)[^c-5296cec110576dd3d194f272e2fcd65d] applies or 156 days in a case to which paragraph (5) applies[^c-e53462ae374a1f40cffe30d00e9c0bb7], has been exceeded.
 
 (7) In the case of a person who on the relevant day—
 
@@ -257,9 +257,9 @@ and where income support was payable to him in respect of the day immediately pr
 
 - (a) as from the first day in the benefit week which in a particular case immediately follows the benefit week which includes 6th April 1997 except in the case of a person whose transitionally protected period ended before that date; or
 - (b) as from the first day in an award of a jobseeker’s allowance where the claimant satisfied the requirements of section 2 and where—
-  - (i) that day forms part of a jobseeking period separated by more than 8 weeks but less than 12 weeks from the last day of the transitionally protected period, or where there is no such day, the relevant day if unemployment benefit was payable in respect of that day; or[^key-0e12406fc5ac0abc276e8effb502d0b5]
-  - (ii) that day is after the last day of the transitionally protected period and[^key-8422ffa7c1925c5a355adf7fd56511d4] forms part of a jobseeking period which is separated by not more than 12 weeks from a period of interruption of employment [^key-1362f3a25e4a9dc8ceaef82e7cd4dd85]...
-  - (iii)[^key-9bb12872faa58416daf63dd943dc642d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) that day forms part of a jobseeking period separated by more than 8 weeks but less than 12 weeks from the last day of the transitionally protected period, or where there is no such day, the relevant day if unemployment benefit was payable in respect of that day; or[^c-0e12406fc5ac0abc276e8effb502d0b5]
+  - (ii) that day is after the last day of the transitionally protected period and[^c-8422ffa7c1925c5a355adf7fd56511d4] forms part of a jobseeking period which is separated by not more than 12 weeks from a period of interruption of employment [^c-1362f3a25e4a9dc8ceaef82e7cd4dd85]...
+  - (iii)[^c-9bb12872faa58416daf63dd943dc642d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Where this paragraph applies the number of days which are to be aggregated for the purposes of section 5(1) shall be determined in accordance with the formula—
 
@@ -309,7 +309,7 @@ that dependency increase shall be payable as an addition to the person’s contr
 
 his continuing entitlement to a contribution-based jobseeker’s allowance shall be determined in the transitionally protected period as if those provisions of the Benefits Act continued to apply in his case and the requirement of section 1(2)(h) did not apply, but subject to section 5(1) and regulation 9 (further provisions applying to a continuing entitlement to a jobseeker’s allowance).
 
-(7) In the transitionally protected period, where the weekly amount payable in accordance with section 4(1)(a) is less than the amount of unemployment benefit payable in the claimant’s case for the benefit week which includes the relevant day or which would have been payable in that week, but for any adjustments made in that week, in accordance with paragraph 1 of Part I of[^key-0112469e1cf52f639df52b28a53021cb] Schedule 4 to the Benefits Act, the age-related amount applicable in that case shall be an amount equal to the amount formerly payable by way of unemployment benefit under that provision.
+(7) In the transitionally protected period, where the weekly amount payable in accordance with section 4(1)(a) is less than the amount of unemployment benefit payable in the claimant’s case for the benefit week which includes the relevant day or which would have been payable in that week, but for any adjustments made in that week, in accordance with paragraph 1 of Part I of[^c-0112469e1cf52f639df52b28a53021cb] Schedule 4 to the Benefits Act, the age-related amount applicable in that case shall be an amount equal to the amount formerly payable by way of unemployment benefit under that provision.
 
 (8) In paragraph (7) the reference to the amount of unemployment benefit includes a reference to the amount of unemployment benefit which would have been payable had not the claimant been summoned as a juror or been undergoing training.
 
@@ -542,35 +542,35 @@ These Regulations do not impose a charge on businesses.
 
 [^c1768575]: Marginal citation: [S.I. 1983/1598](https://www.legislation.gov.uk/uksi/1983/1598); the relevant amending instrument is [S.I. 1989/2122](https://www.legislation.gov.uk/uksi/1989/2122).
 
-[^key-cd9dd81d70153af3b75f32198a97e5e7]: Textual amendment: Words in reg. 3(2)(a) substituted (21.3.1997) by [The Social Security (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/454)](https://www.legislation.gov.uk/uksi/1997/454), [regs. 1(a)](https://www.legislation.gov.uk/uksi/1997/454/regulation/1/a), [4(2)](https://www.legislation.gov.uk/uksi/1997/454/regulation/4/2)
+[^c-cd9dd81d70153af3b75f32198a97e5e7]: Textual amendment: Words in reg. 3(2)(a) substituted (21.3.1997) by [The Social Security (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/454)](https://www.legislation.gov.uk/uksi/1997/454), [regs. 1(a)](https://www.legislation.gov.uk/uksi/1997/454/regulation/1/a), [4(2)](https://www.legislation.gov.uk/uksi/1997/454/regulation/4/2)
 
-[^key-2377845d002673a1fed236ec55a7c855]: Textual amendment: Words in reg. 3 added (1.4.2003) by [Social Security Amendment (Carer's Allowance) Regulations 2002 (S.I. 2002/2497)](https://www.legislation.gov.uk/uksi/2002/2497), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2002/2497/regulation/1/b), [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/uksi/2002/2497/schedule/2/paragraph/3/b)
+[^c-2377845d002673a1fed236ec55a7c855]: Textual amendment: Words in reg. 3 added (1.4.2003) by [Social Security Amendment (Carer's Allowance) Regulations 2002 (S.I. 2002/2497)](https://www.legislation.gov.uk/uksi/2002/2497), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2002/2497/regulation/1/b), [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/uksi/2002/2497/schedule/2/paragraph/3/b)
 
 [^c1768576]: Marginal citation: Part XIIA was inserted by the [Social Security (Incapacity for Work) Act 1994 (c.18)](https://www.legislation.gov.uk/ukpga/1994/18), [section 5](https://www.legislation.gov.uk/ukpga/1994/18/section/5).
 
-[^key-a79c699cdbd352d23879cbd82c397305]: Textual amendment: Words in reg. 8(4)(a) inserted (1.12.1997) by [The Jobseeker’s Allowance (Amendment) (No. 2) Regulations 1997 (S.I. 1997/2677)](https://www.legislation.gov.uk/uksi/1997/2677), [regs. 1](https://www.legislation.gov.uk/uksi/1997/2677/regulation/1), [3](https://www.legislation.gov.uk/uksi/1997/2677/regulation/3)
+[^c-a79c699cdbd352d23879cbd82c397305]: Textual amendment: Words in reg. 8(4)(a) inserted (1.12.1997) by [The Jobseeker’s Allowance (Amendment) (No. 2) Regulations 1997 (S.I. 1997/2677)](https://www.legislation.gov.uk/uksi/1997/2677), [regs. 1](https://www.legislation.gov.uk/uksi/1997/2677/regulation/1), [3](https://www.legislation.gov.uk/uksi/1997/2677/regulation/3)
 
 [^c1768577]: Marginal citation: Regulation 4 was amended by [S.I. 1995/829](https://www.legislation.gov.uk/uksi/1995/829).
 
-[^key-5296cec110576dd3d194f272e2fcd65d]: Textual amendment: Words in reg. 8(6) substituted (21.3.1997) by [The Social Security (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/454)](https://www.legislation.gov.uk/uksi/1997/454), [regs. 1(a)](https://www.legislation.gov.uk/uksi/1997/454/regulation/1/a), [4(3)(a)](https://www.legislation.gov.uk/uksi/1997/454/regulation/4/3/a)
+[^c-5296cec110576dd3d194f272e2fcd65d]: Textual amendment: Words in reg. 8(6) substituted (21.3.1997) by [The Social Security (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/454)](https://www.legislation.gov.uk/uksi/1997/454), [regs. 1(a)](https://www.legislation.gov.uk/uksi/1997/454/regulation/1/a), [4(3)(a)](https://www.legislation.gov.uk/uksi/1997/454/regulation/4/3/a)
 
-[^key-e53462ae374a1f40cffe30d00e9c0bb7]: Textual amendment: Words in reg. 8(6) inserted (21.3.1997) by [The Social Security (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/454)](https://www.legislation.gov.uk/uksi/1997/454), [regs. 1(a)](https://www.legislation.gov.uk/uksi/1997/454/regulation/1/a), [4(3)(b)](https://www.legislation.gov.uk/uksi/1997/454/regulation/4/3/b)
+[^c-e53462ae374a1f40cffe30d00e9c0bb7]: Textual amendment: Words in reg. 8(6) inserted (21.3.1997) by [The Social Security (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/454)](https://www.legislation.gov.uk/uksi/1997/454), [regs. 1(a)](https://www.legislation.gov.uk/uksi/1997/454/regulation/1/a), [4(3)(b)](https://www.legislation.gov.uk/uksi/1997/454/regulation/4/3/b)
 
 [^c1768578]: Marginal citation: Regulation 4 was amended by [S.I. 1995/829](https://www.legislation.gov.uk/uksi/1995/829).
 
-[^key-0e12406fc5ac0abc276e8effb502d0b5]: Textual amendment: Word in reg. 9(3)(b)(i) inserted (21.3.1997) by [The Social Security (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/454)](https://www.legislation.gov.uk/uksi/1997/454), [regs. 1(a)](https://www.legislation.gov.uk/uksi/1997/454/regulation/1/a), [4(4)(a)](https://www.legislation.gov.uk/uksi/1997/454/regulation/4/4/a)
+[^c-0e12406fc5ac0abc276e8effb502d0b5]: Textual amendment: Word in reg. 9(3)(b)(i) inserted (21.3.1997) by [The Social Security (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/454)](https://www.legislation.gov.uk/uksi/1997/454), [regs. 1(a)](https://www.legislation.gov.uk/uksi/1997/454/regulation/1/a), [4(4)(a)](https://www.legislation.gov.uk/uksi/1997/454/regulation/4/4/a)
 
-[^key-8422ffa7c1925c5a355adf7fd56511d4]: Textual amendment: Words in reg. 9(3)(b)(ii) inserted (21.3.1997) by [The Social Security (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/454)](https://www.legislation.gov.uk/uksi/1997/454), [regs. 1(a)](https://www.legislation.gov.uk/uksi/1997/454/regulation/1/a), [4(4)(b)](https://www.legislation.gov.uk/uksi/1997/454/regulation/4/4/b)
+[^c-8422ffa7c1925c5a355adf7fd56511d4]: Textual amendment: Words in reg. 9(3)(b)(ii) inserted (21.3.1997) by [The Social Security (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/454)](https://www.legislation.gov.uk/uksi/1997/454), [regs. 1(a)](https://www.legislation.gov.uk/uksi/1997/454/regulation/1/a), [4(4)(b)](https://www.legislation.gov.uk/uksi/1997/454/regulation/4/4/b)
 
-[^key-1362f3a25e4a9dc8ceaef82e7cd4dd85]: Textual amendment: Word in reg. 9(3)(b)(ii) omitted (21.3.1997) by virtue of [The Social Security (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/454)](https://www.legislation.gov.uk/uksi/1997/454), [regs. 1(a)](https://www.legislation.gov.uk/uksi/1997/454/regulation/1/a), [4(4)(c)](https://www.legislation.gov.uk/uksi/1997/454/regulation/4/4/c)
+[^c-1362f3a25e4a9dc8ceaef82e7cd4dd85]: Textual amendment: Word in reg. 9(3)(b)(ii) omitted (21.3.1997) by virtue of [The Social Security (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/454)](https://www.legislation.gov.uk/uksi/1997/454), [regs. 1(a)](https://www.legislation.gov.uk/uksi/1997/454/regulation/1/a), [4(4)(c)](https://www.legislation.gov.uk/uksi/1997/454/regulation/4/4/c)
 
-[^key-9bb12872faa58416daf63dd943dc642d]: Textual amendment: Reg. 9(3)(b)(iii) omitted (21.3.1997) by virtue of [The Social Security (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/454)](https://www.legislation.gov.uk/uksi/1997/454), [regs. 1(a)](https://www.legislation.gov.uk/uksi/1997/454/regulation/1/a), [4(4)(d)](https://www.legislation.gov.uk/uksi/1997/454/regulation/4/4/d)
+[^c-9bb12872faa58416daf63dd943dc642d]: Textual amendment: Reg. 9(3)(b)(iii) omitted (21.3.1997) by virtue of [The Social Security (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/454)](https://www.legislation.gov.uk/uksi/1997/454), [regs. 1(a)](https://www.legislation.gov.uk/uksi/1997/454/regulation/1/a), [4(4)(d)](https://www.legislation.gov.uk/uksi/1997/454/regulation/4/4/d)
 
 [^c1768579]: Marginal citation: [S.I. 1977/343](https://www.legislation.gov.uk/uksi/1977/343); relevant amending instrument is [S.I. 1996/1345](https://www.legislation.gov.uk/uksi/1996/1345).
 
 [^c1768580]: Marginal citation: [S.I. 1975/555](https://www.legislation.gov.uk/uksi/1975/555).
 
-[^key-0112469e1cf52f639df52b28a53021cb]: Textual amendment: Words in [reg. 10(7)](https://www.legislation.gov.uk/uksi/1996/2567/regulation/10/7) inserted (21.3.1997) by [The Social Security (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/454)](https://www.legislation.gov.uk/uksi/1997/454), [regs. 1(a)](https://www.legislation.gov.uk/uksi/1997/454/regulation/1/a), [4(5)](https://www.legislation.gov.uk/uksi/1997/454/regulation/4/5)
+[^c-0112469e1cf52f639df52b28a53021cb]: Textual amendment: Words in [reg. 10(7)](https://www.legislation.gov.uk/uksi/1996/2567/regulation/10/7) inserted (21.3.1997) by [The Social Security (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/454)](https://www.legislation.gov.uk/uksi/1997/454), [regs. 1(a)](https://www.legislation.gov.uk/uksi/1997/454/regulation/1/a), [4(5)](https://www.legislation.gov.uk/uksi/1997/454/regulation/4/5)
 
 [^c1768581]: Marginal citation: [S.I. 1979/597](https://www.legislation.gov.uk/uksi/1979/597).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39B. Best value: further provision[^key-84bdea8e9f6f90a8945cc582f8b88e6d]
+## 39B. Best value: further provision[^c-84bdea8e9f6f90a8945cc582f8b88e6d]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84bdea8e9f6f90a8945cc582f8b88e6d]: Textual amendment: Ss. 39A-39C and cross-heading inserted (8.8.2012) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 113](https://www.legislation.gov.uk/asp/2012/8/section/113), [129(1)(b)](https://www.legislation.gov.uk/asp/2012/8/section/129/1/b)
+[^c-84bdea8e9f6f90a8945cc582f8b88e6d]: Textual amendment: Ss. 39A-39C and cross-heading inserted (8.8.2012) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 113](https://www.legislation.gov.uk/asp/2012/8/section/113), [129(1)(b)](https://www.legislation.gov.uk/asp/2012/8/section/129/1/b)

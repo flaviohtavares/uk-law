@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Where a child's father and mother were married to , or civil partners of,[^key-4b1564c949379ddb28b94c66c5702c67] each other at the time of his birth, they shall each have parental responsibility for the child.
+(1) Where a child's father and mother were married to , or civil partners of,[^c-4b1564c949379ddb28b94c66c5702c67] each other at the time of his birth, they shall each have parental responsibility for the child.
 
 (1A)[^c21145471] Where a child—
 
@@ -29,7 +29,7 @@ summary: ''
 
 the child's mother and the other parent shall each have parental responsibility for the child.
 
-(2) Where a child's father and mother were not married to , or civil partners of,[^key-85fac71fb960f40549caf01f04f4e8aa] each other at the time of his birth—
+(2) Where a child's father and mother were not married to , or civil partners of,[^c-85fac71fb960f40549caf01f04f4e8aa] each other at the time of his birth—
 
 - (a) the mother shall have parental responsibility for the child;
 - (b) the father shall have parental responsibility for the child if he has acquired it (and has not ceased to have it)[^c17269021] in accordance with the provisions of this Order.
@@ -57,11 +57,11 @@ the child's mother and the other parent shall each have parental responsibility 
 
 ## Annotations
 
-[^key-4b1564c949379ddb28b94c66c5702c67]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/nisi/1995/755/article/5/1) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [27(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/27/3) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-4b1564c949379ddb28b94c66c5702c67]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/nisi/1995/755/article/5/1) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [27(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/27/3) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c21145471]: Textual amendment: Art. 5(1A) inserted (6.4.2009 for certain purposes otherwise 1.9.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 56](https://www.legislation.gov.uk/ukpga/2008/22/section/56), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 6 para. 71(2)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/71/2); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(1)(e)(f)(2)](https://www.legislation.gov.uk/uksi/2009/479/article/6/1/e/f/2) (with transitional provisions in [art.7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/479/schedule/1))
 
-[^key-85fac71fb960f40549caf01f04f4e8aa]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/nisi/1995/755/article/5/2) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [27(4)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/27/4) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-85fac71fb960f40549caf01f04f4e8aa]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/nisi/1995/755/article/5/2) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [27(4)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/27/4) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c17269021]: Textual amendment: [2001 c. 12 (NI)](https://www.legislation.gov.uk/nia/2001/12)
 

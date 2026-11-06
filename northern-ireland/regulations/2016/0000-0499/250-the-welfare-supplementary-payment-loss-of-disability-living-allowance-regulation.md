@@ -58,7 +58,7 @@ In accordance with Article 137(5) of that Order, a draft of these Regulations ha
 
 - “**the 1998 Order**” means the Social Security (Northern Ireland) Order 1998 [^c22844851];
 - “**the 2015 Order**” means the Welfare Reform (Northern Ireland) Order 2015;
-- “[^key-359d36aa818ba7dbf01cebd0af22ca3e]**the administrative period**” means the period beginning on 31st March 2020 and ending on the day the Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2022 are made;
+- “[^c-359d36aa818ba7dbf01cebd0af22ca3e]**the administrative period**” means the period beginning on 31st March 2020 and ending on the day the Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2022 are made;
 - “**appeal tribunal**” means the appeal tribunal constituted under Chapter 1 of Part II of the 1998 Order;
 - “**award**” in relation to disability living allowance, means the award having effect immediately prior to its termination under regulation 17(1) of the Transitional Provisions Regulations;
 - “**Commissioner**” means the Chief Social Security Commissioner or any other Social Security Commissioner and includes a tribunal of 2 or more Commissioners constituted under Article 16(7) of the 1998 Order;
@@ -74,7 +74,7 @@ In accordance with Article 137(5) of that Order, a draft of these Regulations ha
 - (a) the Department sends a notification to the person in accordance with regulation 3(1) of the Transitional Provisions Regulations inviting the person to make a claim for personal independence payment; or
 - (b) the person makes a claim for personal independence payment in accordance with regulation 4 of the Transitional Provisions Regulations.
 
-(3)[^key-1ba5a801f52f203cf40adee03cc6028d] Where the date mentioned in regulation 7(2), 12(2) or 20(2) is in the administrative period, that provision’s requirement that welfare supplementary payment must cease to be paid from that date is to be read as a requirement that welfare supplementary payment must not be paid for times on or after that date.
+(3)[^c-1ba5a801f52f203cf40adee03cc6028d] Where the date mentioned in regulation 7(2), 12(2) or 20(2) is in the administrative period, that provision’s requirement that welfare supplementary payment must cease to be paid from that date is to be read as a requirement that welfare supplementary payment must not be paid for times on or after that date.
 
 ### 3. Welfare supplementary payment
 
@@ -117,7 +117,7 @@ The amount of welfare supplementary payment payable is equal to the amount which
 (3) The period during which welfare supplementary payment is payable ends—
 
 - (a) after the first payment following the date on which the decision notice of the appeal tribunal is received by the Department; or
-- (b) on 31[^key-72e2623183e32a49b08cc98c98fd8e57]<sup>st</sup> March 2028 ,
+- (b) on 31[^c-72e2623183e32a49b08cc98c98fd8e57]<sup>st</sup> March 2028 ,
 
 whichever is first to occur.
 
@@ -128,13 +128,13 @@ whichever is first to occur.
 (6) The period during which further welfare supplementary payment is payable ends—
 
 - (a) after the first payment following the date on which the decision of the Commissioner is received by the Department; or
-- (b) on 31[^key-0c7dabe4292427e32b6388d189f1213a]<sup>st</sup> March 2028 ,
+- (b) on 31[^c-0c7dabe4292427e32b6388d189f1213a]<sup>st</sup> March 2028 ,
 
 whichever is first to occur.
 
-(7)[^key-64b91602329d68b0064219925a1fef32] The provisions of this regulation have effect subject to regulation 6A.
+(7)[^c-64b91602329d68b0064219925a1fef32] The provisions of this regulation have effect subject to regulation 6A.
 
-### 6A. Periods of payment: times not included[^key-99f21210e1937fc027dc00009293a2d5]
+### 6A. Periods of payment: times not included[^c-99f21210e1937fc027dc00009293a2d5]
 
 (1) The period during which welfare supplementary payment is payable does not include any times in the administrative period.
 
@@ -147,7 +147,7 @@ whichever is first to occur.
 - (a) a person is receiving welfare supplementary payment, and
 - (b) following an event referred to in paragraph (3), the person is awarded personal independence payment.
 
-(2)[^key-7283cba0b0d208362208258d7e1bf3e9] Welfare supplementary payment must cease to be paid from the date the decision to award personal independence payment takes effect.
+(2)[^c-7283cba0b0d208362208258d7e1bf3e9] Welfare supplementary payment must cease to be paid from the date the decision to award personal independence payment takes effect.
 
 (3) The events referred to in paragraph (1)(b) are—
 
@@ -209,11 +209,11 @@ whichever is first to occur.
 - (a) one year after the day on which—
   - (i) it commences (in the case of eligibility under regulation 8), or
   - (ii) welfare supplementary payment under Part 2 commences (in the case of eligibility under regulation 9); or
-- (b) on 31[^key-9282b87ae2e82e474ea98be9d9582ef3]<sup>st</sup> March 2028 ,
+- (b) on 31[^c-9282b87ae2e82e474ea98be9d9582ef3]<sup>st</sup> March 2028 ,
 
 whichever is first to occur.
 
-(4)[^key-ddefdc0b40618711e79ba682801a5403] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ddefdc0b40618711e79ba682801a5403] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 12. Effect of changes in personal independence payment following revision, appeal or supersession of previous decision
 
@@ -227,7 +227,7 @@ whichever is first to occur.
 - (a) the person is no longer entitled to personal independence payment, or
 - (b) the difference between the award of disability living allowance and the award of personal independence payment is no longer at least £10 per week,
 
-then welfare supplementary payment must cease to be paid from the date the decision to change personal independence payment takes effect.[^key-05b3a6bcba4c1799c45a13cbb346d277]
+then welfare supplementary payment must cease to be paid from the date the decision to change personal independence payment takes effect.[^c-05b3a6bcba4c1799c45a13cbb346d277]
 
 (3) If personal independence payment is increased, then the amount of welfare supplementary payment payable must be recalculated (under regulation 10) with the new amount of personal independence payment instead of the original amount of personal independence payment, paid from the day after the first payment of welfare supplementary payment following the decision to change personal independence payment.
 
@@ -358,11 +358,11 @@ Evidence that the conflict related injury condition is met can only be submitted
 - (a) one year after the day on which—
   - (i) it commences (in the case of eligibility under regulation 13), or
   - (ii) welfare supplementary payment under Part 2 commences (in the case of eligibility under regulation 14), or
-- (b) on 31[^key-0d8b4ab63579f4644f3da40cc7dfe0d1]<sup>st</sup> March 2028 ,
+- (b) on 31[^c-0d8b4ab63579f4644f3da40cc7dfe0d1]<sup>st</sup> March 2028 ,
 
 whichever is first to occur.
 
-(5)[^key-ad2f459f4cd11fef266aeddf97fde67c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-ad2f459f4cd11fef266aeddf97fde67c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 20. Effect of changes in personal independence payment following revision, appeal or supersession of previous decision
 
@@ -376,7 +376,7 @@ whichever is first to occur.
 - (a) is awarded personal independence payment, or
 - (b) obtains a score of less than 4 points in relation to either the daily living activities' category or the mobility activities' category,
 
-then welfare supplementary payment must cease to be paid from the date the decision to change personal independence payment takes effect.[^key-fbb7fda2c438e2c1ba2b731f56ef79c3]
+then welfare supplementary payment must cease to be paid from the date the decision to change personal independence payment takes effect.[^c-fbb7fda2c438e2c1ba2b731f56ef79c3]
 
 (3) The events referred to in paragraph (1)(b) are—
 
@@ -400,7 +400,7 @@ then welfare supplementary payment must cease to be paid from the date the decis
 - (a) the consideration of the applicant's entitlement to welfare supplementary payment by up to three persons nominated by the Department,
 - (b) the preparation of a report by these persons setting out their conclusions in relation to the applicant's entitlement to welfare supplementary payment and their recommendation as to the manner in which the matter should be finally determined.
 
-### 21A. Persons to whom welfare supplementary payments may be made[^key-b26edad55786ffa1815c69b4c52386a5]
+### 21A. Persons to whom welfare supplementary payments may be made[^c-b26edad55786ffa1815c69b4c52386a5]
 
 (1) A welfare supplementary payment to which a person is entitled under these Regulations must be paid to the person, but this is subject to paragraph (2).
 
@@ -481,7 +481,7 @@ Subject to regulation 29, no welfare supplementary payment is payable under thes
 
 Regulation 26(1), 27(1) or, as the case may be, regulation 28 does not apply in respect of the first 28 days of any period during which a person is someone to whom any of those regulations apply.
 
-### 30. Change of circumstances: residency, care home, hospital, prison[^key-5d647241d28c313b55ca3aacbd7d1897]
+### 30. Change of circumstances: residency, care home, hospital, prison[^c-5d647241d28c313b55ca3aacbd7d1897]
 
 (1) This regulation applies where there is a change of circumstances of a kind set out in regulations 23 to 29 which affects a person’s entitlement to welfare supplementary payment.
 
@@ -575,7 +575,7 @@ Regulation 29 provides that in the case of care homes, hospitals and prisons wel
 
 [^c22844851]: Marginal citation: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
 
-[^key-359d36aa818ba7dbf01cebd0af22ca3e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/250/regulation/2/1) inserted (1.2.2022) by [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2022 (S.R. 2022/25)](https://www.legislation.gov.uk/nisr/2022/25), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3), [6(2)](https://www.legislation.gov.uk/nisr/2022/25/regulation/6/2)
+[^c-359d36aa818ba7dbf01cebd0af22ca3e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/250/regulation/2/1) inserted (1.2.2022) by [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2022 (S.R. 2022/25)](https://www.legislation.gov.uk/nisr/2022/25), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3), [6(2)](https://www.legislation.gov.uk/nisr/2022/25/regulation/6/2)
 
 [^c22844861]: Marginal citation: S.R. [1999 No. 162](https://www.legislation.gov.uk/ukcm/1999/162); [regulation 53(3)](https://www.legislation.gov.uk/nisr/2016/250/regulation/53/3) was amended by regulation 7(10)(a) of SR [2005 No. 46](https://www.legislation.gov.uk/ukcm/2005/46)
 
@@ -585,27 +585,27 @@ Regulation 29 provides that in the case of care homes, hospitals and prisons wel
 
 [^c22844891]: Marginal citation: S.R. [2016 No. 227](https://www.legislation.gov.uk/ukcm/2016/227)
 
-[^key-1ba5a801f52f203cf40adee03cc6028d]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2016/250/regulation/2/3) inserted (1.2.2022) by [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2022 (S.R. 2022/25)](https://www.legislation.gov.uk/nisr/2022/25), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3), [6(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/6/3)
+[^c-1ba5a801f52f203cf40adee03cc6028d]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2016/250/regulation/2/3) inserted (1.2.2022) by [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2022 (S.R. 2022/25)](https://www.legislation.gov.uk/nisr/2022/25), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3), [6(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/6/3)
 
 [^c22844901]: Marginal citation: [Article 13](https://www.legislation.gov.uk/nisr/2016/250/article/13) was amended by paragraph 19 of Schedule 6 to the [Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 (S.I. 1999/671)](https://www.legislation.gov.uk/uksi/1999/671), [Article 4(2)](https://www.legislation.gov.uk/uksi/1999/671/article/4/2) of [S.I. 2014/886](https://www.legislation.gov.uk/uksi/2014/886) and Articles 107(2), (3) and (4) and 109(6) of the Welfare Reform ( Northern Ireland) Order 2015
 
-[^key-72e2623183e32a49b08cc98c98fd8e57]: Textual amendment: Words in [reg. 6(3)(b)](https://www.legislation.gov.uk/nisr/2016/250/regulation/6/3/b) substituted (20.3.2025) by [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2025 (S.R. 2025/59)](https://www.legislation.gov.uk/nisr/2025/59), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/59/regulation/1/2), [2(c)](https://www.legislation.gov.uk/nisr/2025/59/regulation/2/c)
+[^c-72e2623183e32a49b08cc98c98fd8e57]: Textual amendment: Words in [reg. 6(3)(b)](https://www.legislation.gov.uk/nisr/2016/250/regulation/6/3/b) substituted (20.3.2025) by [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2025 (S.R. 2025/59)](https://www.legislation.gov.uk/nisr/2025/59), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/59/regulation/1/2), [2(c)](https://www.legislation.gov.uk/nisr/2025/59/regulation/2/c)
 
-[^key-0c7dabe4292427e32b6388d189f1213a]: Textual amendment: Words in [reg. 6(6)(b)](https://www.legislation.gov.uk/nisr/2016/250/regulation/6/6/b) substituted (20.3.2025) by [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2025 (S.R. 2025/59)](https://www.legislation.gov.uk/nisr/2025/59), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/59/regulation/1/2), [2(c)](https://www.legislation.gov.uk/nisr/2025/59/regulation/2/c)
+[^c-0c7dabe4292427e32b6388d189f1213a]: Textual amendment: Words in [reg. 6(6)(b)](https://www.legislation.gov.uk/nisr/2016/250/regulation/6/6/b) substituted (20.3.2025) by [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2025 (S.R. 2025/59)](https://www.legislation.gov.uk/nisr/2025/59), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/59/regulation/1/2), [2(c)](https://www.legislation.gov.uk/nisr/2025/59/regulation/2/c)
 
-[^key-64b91602329d68b0064219925a1fef32]: Textual amendment: [Reg. 6(7)](https://www.legislation.gov.uk/nisr/2016/250/regulation/6/7) inserted (1.2.2022) by [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2022 (S.R. 2022/25)](https://www.legislation.gov.uk/nisr/2022/25), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3), [6(4)(c)](https://www.legislation.gov.uk/nisr/2022/25/regulation/6/4/c)
+[^c-64b91602329d68b0064219925a1fef32]: Textual amendment: [Reg. 6(7)](https://www.legislation.gov.uk/nisr/2016/250/regulation/6/7) inserted (1.2.2022) by [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2022 (S.R. 2022/25)](https://www.legislation.gov.uk/nisr/2022/25), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3), [6(4)(c)](https://www.legislation.gov.uk/nisr/2022/25/regulation/6/4/c)
 
-[^key-99f21210e1937fc027dc00009293a2d5]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/nisr/2016/250/regulation/6A) inserted (1.2.2022) by [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2022 (S.R. 2022/25)](https://www.legislation.gov.uk/nisr/2022/25), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3), [6(5)](https://www.legislation.gov.uk/nisr/2022/25/regulation/6/5)
+[^c-99f21210e1937fc027dc00009293a2d5]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/nisr/2016/250/regulation/6A) inserted (1.2.2022) by [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2022 (S.R. 2022/25)](https://www.legislation.gov.uk/nisr/2022/25), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3), [6(5)](https://www.legislation.gov.uk/nisr/2022/25/regulation/6/5)
 
-[^key-7283cba0b0d208362208258d7e1bf3e9]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/nisr/2016/250/regulation/7/2) substituted (6.2.2017) by [The Welfare Supplementary Payment (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/28)](https://www.legislation.gov.uk/nisr/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2017/28/regulation/1/2), [52(1)](https://www.legislation.gov.uk/nisr/2017/28/regulation/52/1)
+[^c-7283cba0b0d208362208258d7e1bf3e9]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/nisr/2016/250/regulation/7/2) substituted (6.2.2017) by [The Welfare Supplementary Payment (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/28)](https://www.legislation.gov.uk/nisr/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2017/28/regulation/1/2), [52(1)](https://www.legislation.gov.uk/nisr/2017/28/regulation/52/1)
 
 [^c22844911]: Marginal citation: Article 11 was amended by paragraph 17 of Schedule 6 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999
 
-[^key-9282b87ae2e82e474ea98be9d9582ef3]: Textual amendment: Words in [reg. 11(3)(b)](https://www.legislation.gov.uk/nisr/2016/250/regulation/11/3/b) substituted (20.3.2025) by [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2025 (S.R. 2025/59)](https://www.legislation.gov.uk/nisr/2025/59), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/59/regulation/1/2), [2(c)](https://www.legislation.gov.uk/nisr/2025/59/regulation/2/c)
+[^c-9282b87ae2e82e474ea98be9d9582ef3]: Textual amendment: Words in [reg. 11(3)(b)](https://www.legislation.gov.uk/nisr/2016/250/regulation/11/3/b) substituted (20.3.2025) by [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2025 (S.R. 2025/59)](https://www.legislation.gov.uk/nisr/2025/59), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/59/regulation/1/2), [2(c)](https://www.legislation.gov.uk/nisr/2025/59/regulation/2/c)
 
-[^key-ddefdc0b40618711e79ba682801a5403]: Textual amendment: [Reg. 11(4)](https://www.legislation.gov.uk/nisr/2016/250/regulation/11/4) omitted (1.3.2023) by virtue of [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2022 (S.R. 2022/25)](https://www.legislation.gov.uk/nisr/2022/25), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3), [7(2)](https://www.legislation.gov.uk/nisr/2022/25/regulation/7/2)
+[^c-ddefdc0b40618711e79ba682801a5403]: Textual amendment: [Reg. 11(4)](https://www.legislation.gov.uk/nisr/2016/250/regulation/11/4) omitted (1.3.2023) by virtue of [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2022 (S.R. 2022/25)](https://www.legislation.gov.uk/nisr/2022/25), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3), [7(2)](https://www.legislation.gov.uk/nisr/2022/25/regulation/7/2)
 
-[^key-05b3a6bcba4c1799c45a13cbb346d277]: Textual amendment: Words in reg. 12(2) substituted (6.2.2017) by [The Welfare Supplementary Payment (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/28)](https://www.legislation.gov.uk/nisr/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2017/28/regulation/1/2), [52(2)](https://www.legislation.gov.uk/nisr/2017/28/regulation/52/2)
+[^c-05b3a6bcba4c1799c45a13cbb346d277]: Textual amendment: Words in reg. 12(2) substituted (6.2.2017) by [The Welfare Supplementary Payment (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/28)](https://www.legislation.gov.uk/nisr/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2017/28/regulation/1/2), [52(2)](https://www.legislation.gov.uk/nisr/2017/28/regulation/52/2)
 
 [^c22844921]: Marginal citation: Article 15 was amended by paragraph 22(1) of Schedule 7 to the [Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4 (N.I.))](https://www.legislation.gov.uk/nia/2000/4)
 
@@ -613,13 +613,13 @@ Regulation 29 provides that in the case of care homes, hospitals and prisons wel
 
 [^c22844941]: Marginal citation: [S.I. 2006/2953 (N.I. 17)](https://www.legislation.gov.uk/nisi/2006/2953)
 
-[^key-0d8b4ab63579f4644f3da40cc7dfe0d1]: Textual amendment: Words in [reg. 19(4)(b)](https://www.legislation.gov.uk/nisr/2016/250/regulation/19/4/b) substituted (20.3.2025) by [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2025 (S.R. 2025/59)](https://www.legislation.gov.uk/nisr/2025/59), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/59/regulation/1/2), [2(c)](https://www.legislation.gov.uk/nisr/2025/59/regulation/2/c)
+[^c-0d8b4ab63579f4644f3da40cc7dfe0d1]: Textual amendment: Words in [reg. 19(4)(b)](https://www.legislation.gov.uk/nisr/2016/250/regulation/19/4/b) substituted (20.3.2025) by [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2025 (S.R. 2025/59)](https://www.legislation.gov.uk/nisr/2025/59), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/59/regulation/1/2), [2(c)](https://www.legislation.gov.uk/nisr/2025/59/regulation/2/c)
 
-[^key-ad2f459f4cd11fef266aeddf97fde67c]: Textual amendment: [Reg. 19(5)](https://www.legislation.gov.uk/nisr/2016/250/regulation/19/5) omitted (1.3.2023) by virtue of [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2022 (S.R. 2022/25)](https://www.legislation.gov.uk/nisr/2022/25), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3), [7(2)](https://www.legislation.gov.uk/nisr/2022/25/regulation/7/2)
+[^c-ad2f459f4cd11fef266aeddf97fde67c]: Textual amendment: [Reg. 19(5)](https://www.legislation.gov.uk/nisr/2016/250/regulation/19/5) omitted (1.3.2023) by virtue of [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2022 (S.R. 2022/25)](https://www.legislation.gov.uk/nisr/2022/25), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3), [7(2)](https://www.legislation.gov.uk/nisr/2022/25/regulation/7/2)
 
-[^key-fbb7fda2c438e2c1ba2b731f56ef79c3]: Textual amendment: Words in reg. 20(2) substituted (6.2.2017) by [The Welfare Supplementary Payment (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/28)](https://www.legislation.gov.uk/nisr/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2017/28/regulation/1/2), [52(3)](https://www.legislation.gov.uk/nisr/2017/28/regulation/52/3)
+[^c-fbb7fda2c438e2c1ba2b731f56ef79c3]: Textual amendment: Words in reg. 20(2) substituted (6.2.2017) by [The Welfare Supplementary Payment (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/28)](https://www.legislation.gov.uk/nisr/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2017/28/regulation/1/2), [52(3)](https://www.legislation.gov.uk/nisr/2017/28/regulation/52/3)
 
-[^key-b26edad55786ffa1815c69b4c52386a5]: Textual amendment: Reg. 21A inserted (6.2.2017) by [The Welfare Supplementary Payment (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/28)](https://www.legislation.gov.uk/nisr/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2017/28/regulation/1/2), [53](https://www.legislation.gov.uk/nisr/2017/28/regulation/53)
+[^c-b26edad55786ffa1815c69b4c52386a5]: Textual amendment: Reg. 21A inserted (6.2.2017) by [The Welfare Supplementary Payment (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/28)](https://www.legislation.gov.uk/nisr/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2017/28/regulation/1/2), [53](https://www.legislation.gov.uk/nisr/2017/28/regulation/53)
 
 [^c22844951]: Marginal citation: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265); Article 15 was amended by paragraph 2(2) of Schedule 1 to the [Registered Homes (Northern Ireland) Order 1992 (S.I. 1992/3204 (N.I. 20))](https://www.legislation.gov.uk/nisi/1992/3204) and Article 36 was amended by section 1(1) and (2) of the [Health and Personal Social Services Act (Northern Ireland) 2002 (c. 9 (N.I.))](https://www.legislation.gov.uk/nia/2002/9) and Article 45 of the [Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003 (S.I. 2003/431 (N.I. 9))](https://www.legislation.gov.uk/nisi/2003/431)
 
@@ -643,4 +643,4 @@ Regulation 29 provides that in the case of care homes, hospitals and prisons wel
 
 [^c22845051]: Marginal citation: [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)
 
-[^key-5d647241d28c313b55ca3aacbd7d1897]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/nisr/2016/250/regulation/30) inserted (6.2.2017) by [The Welfare Supplementary Payment (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/28)](https://www.legislation.gov.uk/nisr/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2017/28/regulation/1/2), [54](https://www.legislation.gov.uk/nisr/2017/28/regulation/54)
+[^c-5d647241d28c313b55ca3aacbd7d1897]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/nisr/2016/250/regulation/30) inserted (6.2.2017) by [The Welfare Supplementary Payment (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/28)](https://www.legislation.gov.uk/nisr/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2017/28/regulation/1/2), [54](https://www.legislation.gov.uk/nisr/2017/28/regulation/54)

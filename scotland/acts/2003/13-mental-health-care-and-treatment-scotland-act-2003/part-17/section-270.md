@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 270. Order under section 269: further provision[^key-3364315da0106f38afff6d4f0c7783d7]
+## 270. Order under section 269: further provision[^c-3364315da0106f38afff6d4f0c7783d7]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3364315da0106f38afff6d4f0c7783d7]: Textual amendment: S. 270 repealed (16.11.2015) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 15(5)](https://www.legislation.gov.uk/asp/2015/9/section/15/5), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2015/361](https://www.legislation.gov.uk/ssi/2015/361), [art. 2](https://www.legislation.gov.uk/ssi/2015/361/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2015/361/article/4))
+[^c-3364315da0106f38afff6d4f0c7783d7]: Textual amendment: S. 270 repealed (16.11.2015) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 15(5)](https://www.legislation.gov.uk/asp/2015/9/section/15/5), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2015/361](https://www.legislation.gov.uk/ssi/2015/361), [art. 2](https://www.legislation.gov.uk/ssi/2015/361/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2015/361/article/4))

@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141Q. Insolvency: interpretation[^key-60d328b1519329044b0e7f9eeb27db3e]
+## 141Q. Insolvency: interpretation[^c-60d328b1519329044b0e7f9eeb27db3e]
 
 *Extent: E+W+S+N.I.*
 
 (1) This article applies for the purposes of article 141P.
 
-(2)[^key-821c3bfe108f655cea068d3542607d71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-821c3bfe108f655cea068d3542607d71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The 1986 Act means the Insolvency Act 1986[^f00015].
 
-(3A)[^key-c96dbbf8586cf90e15315a9a2a248949] The 2016 Act means the Bankruptcy (Scotland) Act 2016.
+(3A)[^c-c96dbbf8586cf90e15315a9a2a248949] The 2016 Act means the Bankruptcy (Scotland) Act 2016.
 
 (4) The 1989 Order means the Insolvency (Northern Ireland) Order 1989[^f00016].
 
@@ -40,12 +40,12 @@ summary: ''
 
 ## Annotations
 
-[^key-60d328b1519329044b0e7f9eeb27db3e]: Textual amendment: [Pts. 4A](https://www.legislation.gov.uk/uksi/2005/3181/part/4A), [4B](https://www.legislation.gov.uk/uksi/2005/3181/part/4B) inserted (11.11.2013) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2013 (S.I. 2013/2604)](https://www.legislation.gov.uk/uksi/2013/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2604/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2604/article/3)
+[^c-60d328b1519329044b0e7f9eeb27db3e]: Textual amendment: [Pts. 4A](https://www.legislation.gov.uk/uksi/2005/3181/part/4A), [4B](https://www.legislation.gov.uk/uksi/2005/3181/part/4B) inserted (11.11.2013) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2013 (S.I. 2013/2604)](https://www.legislation.gov.uk/uksi/2013/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2604/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2604/article/3)
 
-[^key-821c3bfe108f655cea068d3542607d71]: Textual amendment: [Art. 141Q(2)](https://www.legislation.gov.uk/uksi/2005/3181/article/141Q/2) omitted (30.11.2016) by virtue of [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 39(5)(a)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/39/5/a)
+[^c-821c3bfe108f655cea068d3542607d71]: Textual amendment: [Art. 141Q(2)](https://www.legislation.gov.uk/uksi/2005/3181/article/141Q/2) omitted (30.11.2016) by virtue of [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 39(5)(a)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/39/5/a)
 
 [^f00015]: Footnote: [2002 c. 9](https://www.legislation.gov.uk/ukpga/2002/9).
 
-[^key-c96dbbf8586cf90e15315a9a2a248949]: Textual amendment: [Art. 141Q(3A)](https://www.legislation.gov.uk/uksi/2005/3181/article/141Q/3A) inserted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 39(5)(b)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/39/5/b)
+[^c-c96dbbf8586cf90e15315a9a2a248949]: Textual amendment: [Art. 141Q(3A)](https://www.legislation.gov.uk/uksi/2005/3181/article/141Q/3A) inserted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 39(5)(b)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/39/5/b)
 
 [^f00016]: Footnote: [1986 c. 32](https://www.legislation.gov.uk/ukpga/1986/32).

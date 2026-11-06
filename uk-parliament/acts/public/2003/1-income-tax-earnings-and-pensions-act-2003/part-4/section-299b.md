@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 299B. Voluntary office-holders: payments in respect of expenses[^key-e464f6f7733d1497b7d1d93ec3581110]
+## 299B. Voluntary office-holders: payments in respect of expenses[^c-e464f6f7733d1497b7d1d93ec3581110]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e464f6f7733d1497b7d1d93ec3581110]: Textual amendment: S. 299B inserted (with effect in relation to the tax year 2020-21 and subsequent tax years) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 14(1)](https://www.legislation.gov.uk/ukpga/2020/14/section/14/1)[(3)](https://www.legislation.gov.uk/ukpga/2020/14/section/14/3)
+[^c-e464f6f7733d1497b7d1d93ec3581110]: Textual amendment: S. 299B inserted (with effect in relation to the tax year 2020-21 and subsequent tax years) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 14(1)](https://www.legislation.gov.uk/ukpga/2020/14/section/14/1)[(3)](https://www.legislation.gov.uk/ukpga/2020/14/section/14/3)

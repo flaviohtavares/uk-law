@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Permissible bid selections[^key-c72309ef7e3109162f023457d6ebf87e]
+## 22. Permissible bid selections[^c-c72309ef7e3109162f023457d6ebf87e]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c72309ef7e3109162f023457d6ebf87e]: Commencement: Reg. 22 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-c72309ef7e3109162f023457d6ebf87e]: Commencement: Reg. 22 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

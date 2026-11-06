@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 298. Special provision on account of expense as to website use[^key-88948f1757c8361f32b31591948abe1c]
+## 298. Special provision on account of expense as to website use[^c-88948f1757c8361f32b31591948abe1c]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88948f1757c8361f32b31591948abe1c]: Commencement: [Rule 298](https://www.legislation.gov.uk/uksi/2011/1301/rule/298) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-88948f1757c8361f32b31591948abe1c]: Commencement: [Rule 298](https://www.legislation.gov.uk/uksi/2011/1301/rule/298) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 75. Application of sections 76 to 78[^key-ce0314560be9bd32083f74997636a30d][^key-efc3fa68991bd3943fd435600eaa697f]
+## 75. Application of sections 76 to 78[^c-ce0314560be9bd32083f74997636a30d][^c-efc3fa68991bd3943fd435600eaa697f]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ce0314560be9bd32083f74997636a30d]: Commencement: S. 75 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-ce0314560be9bd32083f74997636a30d]: Commencement: S. 75 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-efc3fa68991bd3943fd435600eaa697f]: Commencement: [S. 75](https://www.legislation.gov.uk/asc/2022/1/section/75) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(x)](https://www.legislation.gov.uk/wsi/2025/432/article/2/x)
+[^c-efc3fa68991bd3943fd435600eaa697f]: Commencement: [S. 75](https://www.legislation.gov.uk/asc/2022/1/section/75) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(x)](https://www.legislation.gov.uk/wsi/2025/432/article/2/x)

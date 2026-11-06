@@ -36,7 +36,7 @@ An Act to prohibit the import and export of shark fins and to make provision rel
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Prohibition on import and export of shark fins[^key-4d3d16eb12fe0ee75a3cbfb04f2fc946]
+## 1. Prohibition on import and export of shark fins[^c-4d3d16eb12fe0ee75a3cbfb04f2fc946]
 
 **Not yet in force.**
 
@@ -57,7 +57,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - “**shark fins**” means any fins or parts of fins of a shark, other than the pectoral fins or parts of pectoral fins of a ray;
 - “**shark**” means any fish of the taxon Elasmobranchii.
 
-## 2. Removal of shark fins on board fishing vessels[^key-7b0a109fa914e1e826948e9e5e75fc86]
+## 2. Removal of shark fins on board fishing vessels[^c-7b0a109fa914e1e826948e9e5e75fc86]
 
 In Council Regulation [(EC) No 1185/2003](https://www.legislation.gov.uk/european/regulation/2003/1185) on the removal of fins of sharks on board vessels, for Article 1 substitute—
 
@@ -69,7 +69,7 @@ In Council Regulation [(EC) No 1185/2003](https://www.legislation.gov.uk/europea
 >
 > **2.** by other fishing vessels in United Kingdom waters.
 
-## 3. Extent, commencement and short title[^key-4998802a81f2749873b73ecf4d6ac1ac]
+## 3. Extent, commencement and short title[^c-4998802a81f2749873b73ecf4d6ac1ac]
 
 (1) This Act extends to England and Wales, Scotland and Northern Ireland.
 
@@ -89,7 +89,7 @@ In Council Regulation [(EC) No 1185/2003](https://www.legislation.gov.uk/europea
 
 Section 1(3)
 
-### 1. Exemption certificates[^key-3752d9371ebc7f8cea4ea78e79d4e745]
+### 1. Exemption certificates[^c-3752d9371ebc7f8cea4ea78e79d4e745]
 
 (1) The import or export of shark fins, or things containing them, is exempt from the prohibition in section 1 if—
 
@@ -103,7 +103,7 @@ Section 1(3)
 - (b) contain enough information to identify the shark fins concerned;
 - (c) specify whether it relates to an import or export.
 
-### 2. Applications[^key-9429775397d731807cc1a91882255321]
+### 2. Applications[^c-9429775397d731807cc1a91882255321]
 
 (1) A person applying for an exemption certificate (an “applicant”) must provide such information as the appropriate authority requests.
 
@@ -116,7 +116,7 @@ and must otherwise refuse the application.
 
 (3) If the appropriate authority refuses the application, the authority must inform the applicant why it has been refused.
 
-### 3. Revocation and revision[^key-082d584ba4fe6db5896c9c2476ba3662]
+### 3. Revocation and revision[^c-082d584ba4fe6db5896c9c2476ba3662]
 
 (1) Where an exemption certificate has been issued but, before the import or export takes place, it appears to the appropriate authority that any information supplied in connection with the application is, or has become, inaccurate or incomplete, the authority may—
 
@@ -130,7 +130,7 @@ and must otherwise refuse the application.
 
 (3) If the appropriate authority revokes an exemption certificate, the authority must inform the applicant why it has been revoked.
 
-### 4. Penalty for providing inaccurate etc information in connection with an application[^key-af3c70d7b902447e518c9ca2e65abdd6]
+### 4. Penalty for providing inaccurate etc information in connection with an application[^c-af3c70d7b902447e518c9ca2e65abdd6]
 
 (1) Sub-paragraph (2) applies where the appropriate authority is satisfied that, in connection with an application for an exemption certificate, the applicant provided inaccurate or incomplete information or provided a document that contained an inaccuracy and—
 
@@ -150,7 +150,7 @@ and must otherwise refuse the application.
 
 (7) Regulations made by the Scottish Ministers under sub-paragraph (4) are subject to the affirmative procedure (see Part 2 of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10)).
 
-**5.**[^key-5ab2a744c5ac391d741eca64ae313a9c] (1) Where the appropriate authority proposes to impose a monetary penalty on an applicant the authority must give the applicant a notice of what is proposed (an “initial penalty notice”).
+**5.**[^c-5ab2a744c5ac391d741eca64ae313a9c] (1) Where the appropriate authority proposes to impose a monetary penalty on an applicant the authority must give the applicant a notice of what is proposed (an “initial penalty notice”).
 
 (2) An initial penalty notice must offer the applicant the opportunity to avoid liability in relation to a monetary penalty by payment of a sum specified in the notice (which must be less than or equal to the amount of the proposed penalty).
 
@@ -167,7 +167,7 @@ and must otherwise refuse the application.
 
 (7) An initial or final penalty notice may be withdrawn at any time by the appropriate authority.
 
-**6.**[^key-b9e029572e61f03525784623a064790a] (1) An initial penalty notice must include information as to—
+**6.**[^c-b9e029572e61f03525784623a064790a] (1) An initial penalty notice must include information as to—
 
 - (a) the grounds for the proposal to impose the monetary penalty,
 - (b) the period within which payment may be made so as to avoid liability for a monetary penalty (which must be at least 28 days beginning with the day on which the notice is given),
@@ -184,7 +184,7 @@ and must otherwise refuse the application.
 
 (3) A final penalty notice may provide for interest or other penalties specified in the notice to be payable in the event that payment is not made in the period referred to in sub-paragraph (2)(c).
 
-### 7. Appeals[^key-cc2e1210823949becefacf35b618094c]
+### 7. Appeals[^c-cc2e1210823949becefacf35b618094c]
 
 (1) An applicant may appeal to the First-tier Tribunal against the decision—
 
@@ -219,7 +219,7 @@ and must otherwise refuse the application.
 
 (7) In this paragraph, references to the First-tier Tribunal, in relation to a decision of the Scottish Ministers, are to the First-tier Tribunal for Scotland.
 
-### 8. Enforcement[^key-ddb51e35385c6e53a4006bfce8b042f3]
+### 8. Enforcement[^c-ddb51e35385c6e53a4006bfce8b042f3]
 
 If a person does not pay the whole or any part of a penalty which the person is liable to pay under this Schedule (including an amount payable by virtue of paragraph 6(3)), the penalty or part of the penalty is recoverable—
 
@@ -227,7 +227,7 @@ If a person does not pay the whole or any part of a penalty which the person is 
 - (b) in Scotland, in the same manner as an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court of any sheriffdom in Scotland, and
 - (c) in Northern Ireland, as if it were payable under an order of a county court in Northern Ireland.
 
-### 9. “Appropriate authority”[^key-28e85987e04dddc5a467ff2c79d1dd75]
+### 9. “Appropriate authority”[^c-28e85987e04dddc5a467ff2c79d1dd75]
 
 In this Schedule “**appropriate authority**” means—
 
@@ -237,26 +237,26 @@ In this Schedule “**appropriate authority**” means—
 
 ## Annotations
 
-[^key-4d3d16eb12fe0ee75a3cbfb04f2fc946]: Commencement: S. 1 not in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/22/section/3/2)
+[^c-4d3d16eb12fe0ee75a3cbfb04f2fc946]: Commencement: S. 1 not in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/22/section/3/2)
 
-[^key-7b0a109fa914e1e826948e9e5e75fc86]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/22/section/2) in force at 29.8.2023, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/22/section/3/3)
+[^c-7b0a109fa914e1e826948e9e5e75fc86]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/22/section/2) in force at 29.8.2023, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/22/section/3/3)
 
-[^key-4998802a81f2749873b73ecf4d6ac1ac]: Commencement: S. 3 in force at Royal Assent, see [s. 3(4)](https://www.legislation.gov.uk/ukpga/2023/22/section/3/4)
+[^c-4998802a81f2749873b73ecf4d6ac1ac]: Commencement: S. 3 in force at Royal Assent, see [s. 3(4)](https://www.legislation.gov.uk/ukpga/2023/22/section/3/4)
 
-[^key-3752d9371ebc7f8cea4ea78e79d4e745]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/22/section/3/2)
+[^c-3752d9371ebc7f8cea4ea78e79d4e745]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/22/section/3/2)
 
-[^key-9429775397d731807cc1a91882255321]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/22/section/3/2)
+[^c-9429775397d731807cc1a91882255321]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/22/section/3/2)
 
-[^key-082d584ba4fe6db5896c9c2476ba3662]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/22/section/3/2)
+[^c-082d584ba4fe6db5896c9c2476ba3662]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/22/section/3/2)
 
-[^key-af3c70d7b902447e518c9ca2e65abdd6]: Commencement: Sch. para. 4 not in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/22/section/3/2)
+[^c-af3c70d7b902447e518c9ca2e65abdd6]: Commencement: Sch. para. 4 not in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/22/section/3/2)
 
-[^key-5ab2a744c5ac391d741eca64ae313a9c]: Commencement: Sch. para. 5 not in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/22/section/3/2)
+[^c-5ab2a744c5ac391d741eca64ae313a9c]: Commencement: Sch. para. 5 not in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/22/section/3/2)
 
-[^key-b9e029572e61f03525784623a064790a]: Commencement: Sch. para. 6 not in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/22/section/3/2)
+[^c-b9e029572e61f03525784623a064790a]: Commencement: Sch. para. 6 not in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/22/section/3/2)
 
-[^key-cc2e1210823949becefacf35b618094c]: Commencement: Sch. para. 7 not in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/22/section/3/2)
+[^c-cc2e1210823949becefacf35b618094c]: Commencement: Sch. para. 7 not in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/22/section/3/2)
 
-[^key-ddb51e35385c6e53a4006bfce8b042f3]: Commencement: Sch. para. 8 not in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/22/section/3/2)
+[^c-ddb51e35385c6e53a4006bfce8b042f3]: Commencement: Sch. para. 8 not in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/22/section/3/2)
 
-[^key-28e85987e04dddc5a467ff2c79d1dd75]: Commencement: Sch. para. 9 not in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/22/section/3/2)
+[^c-28e85987e04dddc5a467ff2c79d1dd75]: Commencement: Sch. para. 9 not in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/22/section/3/2)

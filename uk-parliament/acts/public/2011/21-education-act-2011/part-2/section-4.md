@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Exclusion of pupils from schools in England: review[^key-30303e7136ffd04e710ebe5a43911a94]
+## 4. Exclusion of pupils from schools in England: review[^c-30303e7136ffd04e710ebe5a43911a94]
 
 *Extent: E+W*
 
@@ -91,4 +91,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30303e7136ffd04e710ebe5a43911a94]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2011/21/section/4) in force at 1.9.2012 by [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/1087/article/4))
+[^c-30303e7136ffd04e710ebe5a43911a94]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2011/21/section/4) in force at 1.9.2012 by [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/1087/article/4))

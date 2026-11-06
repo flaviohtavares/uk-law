@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Limits of variation[^key-c4244521fbd70ae78c6c744525e42783]
+## 7. Limits of variation[^c-c4244521fbd70ae78c6c744525e42783]
 
 *Extent: N.I.*
 
@@ -67,4 +67,4 @@ shall be as set out with respect to that constituent or, as the case may be, vit
 
 ## Annotations
 
-[^key-c4244521fbd70ae78c6c744525e42783]: Commencement: Reg. 7 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-c4244521fbd70ae78c6c744525e42783]: Commencement: Reg. 7 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)

@@ -32,7 +32,7 @@ summary: ''
 
 Pensions
 
-The Public Service Pensions (Certification Officer for Northern Ireland) Regulations (Northern Ireland) 2016 (revoked)[^key-b941db3c80ae20d010196f63a549caa4]
+The Public Service Pensions (Certification Officer for Northern Ireland) Regulations (Northern Ireland) 2016 (revoked)[^c-b941db3c80ae20d010196f63a549caa4]
 
 Made
 
@@ -42,28 +42,28 @@ Coming into operation
 
 17th March 2016
 
-[^key-b941db3c80ae20d010196f63a549caa4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b941db3c80ae20d010196f63a549caa4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b941db3c80ae20d010196f63a549caa4]
+## 1. Citation and commencement[^c-b941db3c80ae20d010196f63a549caa4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-b941db3c80ae20d010196f63a549caa4]
+## 2. Interpretation[^c-b941db3c80ae20d010196f63a549caa4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Extension of scheme[^key-b941db3c80ae20d010196f63a549caa4]
+## 3. Extension of scheme[^c-b941db3c80ae20d010196f63a549caa4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b941db3c80ae20d010196f63a549caa4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b941db3c80ae20d010196f63a549caa4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b941db3c80ae20d010196f63a549caa4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b941db3c80ae20d010196f63a549caa4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b941db3c80ae20d010196f63a549caa4]: Textual amendment: Regulations revoked (8.4.2016 with effect from 1.4.2015) by [The Public Service Pensions (Certification Officer for Northern Ireland) (No.2) Regulations (Northern Ireland) 2016 (S.R. 2016/177)](https://www.legislation.gov.uk/nisr/2016/177), [regs. 1](https://www.legislation.gov.uk/nisr/2016/177/regulation/1), [4](https://www.legislation.gov.uk/nisr/2016/177/regulation/4)
+[^c-b941db3c80ae20d010196f63a549caa4]: Textual amendment: Regulations revoked (8.4.2016 with effect from 1.4.2015) by [The Public Service Pensions (Certification Officer for Northern Ireland) (No.2) Regulations (Northern Ireland) 2016 (S.R. 2016/177)](https://www.legislation.gov.uk/nisr/2016/177), [regs. 1](https://www.legislation.gov.uk/nisr/2016/177/regulation/1), [4](https://www.legislation.gov.uk/nisr/2016/177/regulation/4)

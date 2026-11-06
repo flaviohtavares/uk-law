@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 122B. Suspension of the right to buy in parts of Wales[^key-3840747d8e91f381e4427a5000abc5a4]
+## 122B. Suspension of the right to buy in parts of Wales[^c-3840747d8e91f381e4427a5000abc5a4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3840747d8e91f381e4427a5000abc5a4]: Textual amendment: [S. 122B](https://www.legislation.gov.uk/ukpga/1985/68/section/122B) omitted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [3(h)](https://www.legislation.gov.uk/wsi/2019/110/regulation/3/h) (with [reg. 5](https://www.legislation.gov.uk/wsi/2019/110/regulation/5))
+[^c-3840747d8e91f381e4427a5000abc5a4]: Textual amendment: [S. 122B](https://www.legislation.gov.uk/ukpga/1985/68/section/122B) omitted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [3(h)](https://www.legislation.gov.uk/wsi/2019/110/regulation/3/h) (with [reg. 5](https://www.legislation.gov.uk/wsi/2019/110/regulation/5))

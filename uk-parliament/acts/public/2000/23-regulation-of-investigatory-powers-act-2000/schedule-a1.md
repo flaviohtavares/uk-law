@@ -24,7 +24,7 @@ summary: ''
 
 #### General
 
-**1.**[^key-26dc2876b35f96369b5da65c69c5ff3b] (1) A monetary penalty notice is a notice requiring the person on whom it is served to pay to the Interception of Communications Commissioner (“**the Commissioner**”) a monetary penalty of an amount determined by the Commissioner and specified in the notice.
+**1.**[^c-26dc2876b35f96369b5da65c69c5ff3b] (1) A monetary penalty notice is a notice requiring the person on whom it is served to pay to the Interception of Communications Commissioner (“**the Commissioner**”) a monetary penalty of an amount determined by the Commissioner and specified in the notice.
 
 (2) The amount determined by the Commissioner must not exceed £50,000.
 
@@ -157,7 +157,7 @@ summary: ''
 
 (2) In England and Wales or Northern Ireland, the penalty is recoverable—
 
-- (a) if the county court in England and Wales or a county court in Northern Ireland[^key-84125527249727b82e84829887e94d7f] so orders, as if it were payable under an order of that court,
+- (a) if the county court in England and Wales or a county court in Northern Ireland[^c-84125527249727b82e84829887e94d7f] so orders, as if it were payable under an order of that court,
 - (b) if the High Court so orders, as if it were payable under an order of that court.
 
 (3) In Scotland, the penalty is recoverable as if it were payable under an extract registered decree arbitral bearing a warrant for execution issued by the sheriff for any sheriffdom in Scotland.
@@ -312,9 +312,9 @@ provided that the total amount payable does not exceed £10,000.
 
 [^c21481411]: Textual amendment: Sch. A1 inserted (17.6.2011) by [The Regulation of Investigatory Powers (Monetary Penalty Notices and Consents for Interceptions) Regulations 2011 (S.I. 2011/1340)](https://www.legislation.gov.uk/uksi/2011/1340), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1340/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2011/1340/regulation/2/4) {Sch.}
 
-[^key-26dc2876b35f96369b5da65c69c5ff3b]: Modification: [Sch. A1 para. 1](https://www.legislation.gov.uk/ukpga/2000/23/schedule/A1/paragraph/1) modified (1.9.2017) by [The Investigatory Powers Act 2016 (Commencement No. 3 and Transitory, Transitional and Saving Provisions) Regulations 2017 (S.I. 2017/859)](https://www.legislation.gov.uk/uksi/2017/859), [reg. 4](https://www.legislation.gov.uk/uksi/2017/859/regulation/4)
+[^c-26dc2876b35f96369b5da65c69c5ff3b]: Modification: [Sch. A1 para. 1](https://www.legislation.gov.uk/ukpga/2000/23/schedule/A1/paragraph/1) modified (1.9.2017) by [The Investigatory Powers Act 2016 (Commencement No. 3 and Transitory, Transitional and Saving Provisions) Regulations 2017 (S.I. 2017/859)](https://www.legislation.gov.uk/uksi/2017/859), [reg. 4](https://www.legislation.gov.uk/uksi/2017/859/regulation/4)
 
-[^key-84125527249727b82e84829887e94d7f]: Textual amendment: Words in [Sch. A1 para. 6(2)(a)](https://www.legislation.gov.uk/ukpga/2000/23/schedule/A1/paragraph/6/2/a) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 125](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/125); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-84125527249727b82e84829887e94d7f]: Textual amendment: Words in [Sch. A1 para. 6(2)(a)](https://www.legislation.gov.uk/ukpga/2000/23/schedule/A1/paragraph/6/2/a) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 125](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/125); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c21481431]: Marginal citation: [1988 c.36](https://www.legislation.gov.uk/ukpga/1988/36).
 

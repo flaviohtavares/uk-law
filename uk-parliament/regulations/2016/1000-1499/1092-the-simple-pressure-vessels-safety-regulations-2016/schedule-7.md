@@ -60,9 +60,9 @@ The Articles referred to in paragraph 1 apply as if—
 - (c) in Article 22—
   - (i) in paragraph (1), “within the field of responsibility of the enforcing authority which appointed him” were omitted;
   - (ii) in paragraph (2)(c)(i), for “his (the inspector's) enforcing authority” there were substituted “ the Health and Safety Executive for Northern Ireland ”;
-  - (iia)[^key-ea897588c59213fd78e26d7d5471dddf] in paragraph (2)(h) for “him to have caused or to be likely to cause danger to health and safety”, there were substituted “contravene the relevant statutory provisions or present a risk to the health or safety of persons, to domestic animals or to property;
+  - (iia)[^c-ea897588c59213fd78e26d7d5471dddf] in paragraph (2)(h) for “him to have caused or to be likely to cause danger to health and safety”, there were substituted “contravene the relevant statutory provisions or present a risk to the health or safety of persons, to domestic animals or to property;
   - (iii) paragraph (3) were omitted;
-- (ca)[^key-c182e6605df478f67386d783f2036e4e] in Article 23—
+- (ca)[^c-c182e6605df478f67386d783f2036e4e] in Article 23—
   - (i) before paragraph (a), there were inserted—
 
     > - (za) is making available on the market a vessel which presents a risk to the health or safety of persons, to domestic animals or to property;
@@ -99,15 +99,15 @@ The Articles referred to in paragraph 1 apply as if—
   - (i) for “Executive”, on each occasion that it appears, there were substituted “ Health and Safety Executive for Northern Ireland ”;
   - (ii) in paragraph (3), “or any enforcing authority” were omitted;
   - (iii) in paragraph (4), “or an enforcing authority” were omitted;
-  - (iv)[^key-bb8cfd3db5a8d9f7d5340e98f32d3dd6] in paragraph (4), “or authority (including, in the case of an enforcing authority, any inspector appointed by it)” were omitted;
+  - (iv)[^c-bb8cfd3db5a8d9f7d5340e98f32d3dd6] in paragraph (4), “or authority (including, in the case of an enforcing authority, any inspector appointed by it)” were omitted;
   - (v) in paragraph (5)(a), “or the purposes of the enforcing authority in question” were omitted;
-  - (vi)[^key-61c4eb9015bc65955393a936a2077c14] in paragraph (6), “16(4)(a) or” were omitted;
+  - (vi)[^c-61c4eb9015bc65955393a936a2077c14] in paragraph (6), “16(4)(a) or” were omitted;
   - (vii) for paragraph (6)(b), there were substituted—
 
     > - (b) for the purposes of any legal proceedings or for the purposes of a report of any such proceedings;
 - (k) in Article 31—
   - (i) in paragraph (1), the sub-paragraphs (a) to (i) and (k) to (m) were omitted;
-  - (ii)[^key-6180bb7c13dd83b5095d43437932342a] for paragraph (2), there were substituted—
+  - (ii)[^c-6180bb7c13dd83b5095d43437932342a] for paragraph (2), there were substituted—
 
     > (2) A person guilty of an offence under this Article is liable—
     >
@@ -123,12 +123,12 @@ The Articles referred to in paragraph 1 apply as if—
 
 ## Annotations
 
-[^key-ea897588c59213fd78e26d7d5471dddf]: Textual amendment: [Sch. 7 para. 2(c)(iia)](https://www.legislation.gov.uk/uksi/2016/1092/schedule/7/paragraph/2/c/iia) inserted (1.10.2018) by [The Simple Pressure Vessels, Electrical Equipment and Pressure Equipment (Miscellaneous Amendments) (Northern Ireland) Regulations 2018 (S.I. 2018/966)](https://www.legislation.gov.uk/uksi/2018/966), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/966/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/966/regulation/2/2/a) (with [reg. 1(2)-(4)](https://www.legislation.gov.uk/uksi/2018/966/regulation/1/2))
+[^c-ea897588c59213fd78e26d7d5471dddf]: Textual amendment: [Sch. 7 para. 2(c)(iia)](https://www.legislation.gov.uk/uksi/2016/1092/schedule/7/paragraph/2/c/iia) inserted (1.10.2018) by [The Simple Pressure Vessels, Electrical Equipment and Pressure Equipment (Miscellaneous Amendments) (Northern Ireland) Regulations 2018 (S.I. 2018/966)](https://www.legislation.gov.uk/uksi/2018/966), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/966/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/966/regulation/2/2/a) (with [reg. 1(2)-(4)](https://www.legislation.gov.uk/uksi/2018/966/regulation/1/2))
 
-[^key-c182e6605df478f67386d783f2036e4e]: Textual amendment: [Sch. 7 para. 2(ca)](https://www.legislation.gov.uk/uksi/2016/1092/schedule/7/paragraph/2/ca) inserted (1.10.2018) by [The Simple Pressure Vessels, Electrical Equipment and Pressure Equipment (Miscellaneous Amendments) (Northern Ireland) Regulations 2018 (S.I. 2018/966)](https://www.legislation.gov.uk/uksi/2018/966), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/966/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/966/regulation/2/2/b) (with [reg. 1(2)-(4)](https://www.legislation.gov.uk/uksi/2018/966/regulation/1/2))
+[^c-c182e6605df478f67386d783f2036e4e]: Textual amendment: [Sch. 7 para. 2(ca)](https://www.legislation.gov.uk/uksi/2016/1092/schedule/7/paragraph/2/ca) inserted (1.10.2018) by [The Simple Pressure Vessels, Electrical Equipment and Pressure Equipment (Miscellaneous Amendments) (Northern Ireland) Regulations 2018 (S.I. 2018/966)](https://www.legislation.gov.uk/uksi/2018/966), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/966/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/966/regulation/2/2/b) (with [reg. 1(2)-(4)](https://www.legislation.gov.uk/uksi/2018/966/regulation/1/2))
 
-[^key-bb8cfd3db5a8d9f7d5340e98f32d3dd6]: Textual amendment: [Sch. 7 para. 2(j)(iv)](https://www.legislation.gov.uk/uksi/2016/1092/schedule/7/paragraph/2/j/iv) substituted (1.10.2018) by [The Simple Pressure Vessels, Electrical Equipment and Pressure Equipment (Miscellaneous Amendments) (Northern Ireland) Regulations 2018 (S.I. 2018/966)](https://www.legislation.gov.uk/uksi/2018/966), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/966/regulation/1/1), [2(2)(c)(i)](https://www.legislation.gov.uk/uksi/2018/966/regulation/2/2/c/i) (with [reg. 1(2)-(4)](https://www.legislation.gov.uk/uksi/2018/966/regulation/1/2))
+[^c-bb8cfd3db5a8d9f7d5340e98f32d3dd6]: Textual amendment: [Sch. 7 para. 2(j)(iv)](https://www.legislation.gov.uk/uksi/2016/1092/schedule/7/paragraph/2/j/iv) substituted (1.10.2018) by [The Simple Pressure Vessels, Electrical Equipment and Pressure Equipment (Miscellaneous Amendments) (Northern Ireland) Regulations 2018 (S.I. 2018/966)](https://www.legislation.gov.uk/uksi/2018/966), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/966/regulation/1/1), [2(2)(c)(i)](https://www.legislation.gov.uk/uksi/2018/966/regulation/2/2/c/i) (with [reg. 1(2)-(4)](https://www.legislation.gov.uk/uksi/2018/966/regulation/1/2))
 
-[^key-61c4eb9015bc65955393a936a2077c14]: Textual amendment: [Sch. 7 para. 2(j)(vi)(vii)](https://www.legislation.gov.uk/uksi/2016/1092/schedule/7/paragraph/2/j/vi/vii) inserted (1.10.2018) by [The Simple Pressure Vessels, Electrical Equipment and Pressure Equipment (Miscellaneous Amendments) (Northern Ireland) Regulations 2018 (S.I. 2018/966)](https://www.legislation.gov.uk/uksi/2018/966), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/966/regulation/1/1), [2(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/966/regulation/2/2/c/ii) (with [reg. 1(2)-(4)](https://www.legislation.gov.uk/uksi/2018/966/regulation/1/2))
+[^c-61c4eb9015bc65955393a936a2077c14]: Textual amendment: [Sch. 7 para. 2(j)(vi)(vii)](https://www.legislation.gov.uk/uksi/2016/1092/schedule/7/paragraph/2/j/vi/vii) inserted (1.10.2018) by [The Simple Pressure Vessels, Electrical Equipment and Pressure Equipment (Miscellaneous Amendments) (Northern Ireland) Regulations 2018 (S.I. 2018/966)](https://www.legislation.gov.uk/uksi/2018/966), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/966/regulation/1/1), [2(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/966/regulation/2/2/c/ii) (with [reg. 1(2)-(4)](https://www.legislation.gov.uk/uksi/2018/966/regulation/1/2))
 
-[^key-6180bb7c13dd83b5095d43437932342a]: Textual amendment: [Sch. 7 para. 2(k)(ii)](https://www.legislation.gov.uk/uksi/2016/1092/schedule/7/paragraph/2/k/ii) substituted (1.10.2018) by [The Simple Pressure Vessels, Electrical Equipment and Pressure Equipment (Miscellaneous Amendments) (Northern Ireland) Regulations 2018 (S.I. 2018/966)](https://www.legislation.gov.uk/uksi/2018/966), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/966/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2018/966/regulation/2/2/d) (with [reg. 1(2)-(4)](https://www.legislation.gov.uk/uksi/2018/966/regulation/1/2))
+[^c-6180bb7c13dd83b5095d43437932342a]: Textual amendment: [Sch. 7 para. 2(k)(ii)](https://www.legislation.gov.uk/uksi/2016/1092/schedule/7/paragraph/2/k/ii) substituted (1.10.2018) by [The Simple Pressure Vessels, Electrical Equipment and Pressure Equipment (Miscellaneous Amendments) (Northern Ireland) Regulations 2018 (S.I. 2018/966)](https://www.legislation.gov.uk/uksi/2018/966), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/966/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2018/966/regulation/2/2/d) (with [reg. 1(2)-(4)](https://www.legislation.gov.uk/uksi/2018/966/regulation/1/2))

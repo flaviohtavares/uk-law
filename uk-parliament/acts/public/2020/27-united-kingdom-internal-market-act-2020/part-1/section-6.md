@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Relevant requirements for the purposes of the non-discrimination principle[^key-f42f0ca4b0f5b90551ae4d3e64fd3802]
+## 6. Relevant requirements for the purposes of the non-discrimination principle[^c-f42f0ca4b0f5b90551ae4d3e64fd3802]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f42f0ca4b0f5b90551ae4d3e64fd3802]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2020/27/section/6) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)
+[^c-f42f0ca4b0f5b90551ae4d3e64fd3802]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2020/27/section/6) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)

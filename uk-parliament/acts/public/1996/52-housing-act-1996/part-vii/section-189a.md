@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 189A. Assessments and personalised plan[^key-809d9ccfd1b3f607f6f7b94571e6ff05]
+## 189A. Assessments and personalised plan[^c-809d9ccfd1b3f607f6f7b94571e6ff05]
 
 *Extent: E+W*
 
@@ -74,4 +74,4 @@ the authority must notify the applicant, in writing, of how their assessment of 
 
 ## Annotations
 
-[^key-809d9ccfd1b3f607f6f7b94571e6ff05]: Textual amendment: S. 189A and cross-heading inserted (3.4.2018) by [Homelessness Reduction Act 2017 (c. 13)](https://www.legislation.gov.uk/ukpga/2017/13), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2017/13/section/3/1), [13(3)](https://www.legislation.gov.uk/ukpga/2017/13/section/13/3); [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/c)
+[^c-809d9ccfd1b3f607f6f7b94571e6ff05]: Textual amendment: S. 189A and cross-heading inserted (3.4.2018) by [Homelessness Reduction Act 2017 (c. 13)](https://www.legislation.gov.uk/ukpga/2017/13), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2017/13/section/3/1), [13(3)](https://www.legislation.gov.uk/ukpga/2017/13/section/13/3); [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/c)

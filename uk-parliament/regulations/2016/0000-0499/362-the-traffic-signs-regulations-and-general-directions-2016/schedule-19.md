@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 13, Direction 12
 
-### PART 1 — Regulations Revoked[^key-1bcc789fe996e0b6105b32ae329e88b4]
+### PART 1 — Regulations Revoked[^c-1bcc789fe996e0b6105b32ae329e88b4]
 
 | *(1)*<br>*Regulations revoked* | *(2)*<br>*References* |
 | --- | --- |
@@ -36,7 +36,7 @@ Regulation 13, Direction 12
 | The Traffic Signs (Amendment) Regulations 2011 | Part 1 of [S.I. 2011/1040](https://www.legislation.gov.uk/uksi/2011/1040) |
 | The Traffic Signs (Amendment) (No. 2) Regulations 2011 | Part 1 of [S.I. 2011/3041](https://www.legislation.gov.uk/uksi/2011/3041) |
 
-### PART 2 — General Directions Revoked[^key-b9a54abd423d9c4d875cda480be15835]
+### PART 2 — General Directions Revoked[^c-b9a54abd423d9c4d875cda480be15835]
 
 | *(1)*<br>*General Directions revoked* | *(2)*<br>*References* |
 | --- | --- |
@@ -52,6 +52,6 @@ Regulation 13, Direction 12
 
 ## Annotations
 
-[^key-1bcc789fe996e0b6105b32ae329e88b4]: Commencement: [Sch. 19 Pt. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/19/part/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-1bcc789fe996e0b6105b32ae329e88b4]: Commencement: [Sch. 19 Pt. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/19/part/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-b9a54abd423d9c4d875cda480be15835]: Commencement: [Sch. 19 Pt. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/19/part/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-b9a54abd423d9c4d875cda480be15835]: Commencement: [Sch. 19 Pt. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/19/part/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Approval of premises and vehicles in respect of performance of special procedure[^key-c58580541f853d74bb22dfc1528a5185][^key-32ee2a2a33d812b0714166bfca5883fa]
+## 70. Approval of premises and vehicles in respect of performance of special procedure[^c-c58580541f853d74bb22dfc1528a5185][^c-32ee2a2a33d812b0714166bfca5883fa]
 
 *Extent: E+W*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c58580541f853d74bb22dfc1528a5185]: Commencement: [S. 70](https://www.legislation.gov.uk/anaw/2017/2/section/70) in force at 13.9.2024 for specified purposes by [S.I. 2024/938](https://www.legislation.gov.uk/wsi/2024/938), [art. 2(1)(f)](https://www.legislation.gov.uk/wsi/2024/938/article/2/1/f)
+[^c-c58580541f853d74bb22dfc1528a5185]: Commencement: [S. 70](https://www.legislation.gov.uk/anaw/2017/2/section/70) in force at 13.9.2024 for specified purposes by [S.I. 2024/938](https://www.legislation.gov.uk/wsi/2024/938), [art. 2(1)(f)](https://www.legislation.gov.uk/wsi/2024/938/article/2/1/f)
 
-[^key-32ee2a2a33d812b0714166bfca5883fa]: Commencement: [S. 70](https://www.legislation.gov.uk/anaw/2017/2/section/70) in force at 29.11.2024 in so far as not already in force by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(m)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/m) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-32ee2a2a33d812b0714166bfca5883fa]: Commencement: [S. 70](https://www.legislation.gov.uk/anaw/2017/2/section/70) in force at 29.11.2024 in so far as not already in force by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(m)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/m) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Apprenticeship frameworks: interpretation[^key-bc0b1fd9416690acec6502140493e71a][^key-b67d41f1c0311a0891354c6b95027229][^key-86e3546cc5697f54eb7036d249310bac]
+## 12. Apprenticeship frameworks: interpretation[^c-bc0b1fd9416690acec6502140493e71a][^c-b67d41f1c0311a0891354c6b95027229][^c-86e3546cc5697f54eb7036d249310bac]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) be at a particular level stated in the specification, and
 - (b) relate to a particular skill, trade or occupation included in an apprenticeship sector stated in the specification.
 
-(3)[^key-88de03ce8bd77f8d6cedeb01ed0753f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-88de03ce8bd77f8d6cedeb01ed0753f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In this Chapter, “**recognised Welsh framework**” means an apprenticeship framework issued under section 19(1) from which recognition has not been withdrawn under section 19(2).
 
@@ -38,10 +38,10 @@ summary: ''
 
 ## Annotations
 
-[^key-bc0b1fd9416690acec6502140493e71a]: Commencement: S. 12 in force at 1.3.2011 for E. by [S.I. 2011/200](https://www.legislation.gov.uk/uksi/2011/200), [art. 2](https://www.legislation.gov.uk/uksi/2011/200/article/2)
+[^c-bc0b1fd9416690acec6502140493e71a]: Commencement: S. 12 in force at 1.3.2011 for E. by [S.I. 2011/200](https://www.legislation.gov.uk/uksi/2011/200), [art. 2](https://www.legislation.gov.uk/uksi/2011/200/article/2)
 
-[^key-b67d41f1c0311a0891354c6b95027229]: Commencement: S. 12 in force at 10.5.2013 for W. by [S.I. 2013/1100](https://www.legislation.gov.uk/wsi/2013/1100), [art. 2(2)(b)](https://www.legislation.gov.uk/wsi/2013/1100/article/2/2/b)
+[^c-b67d41f1c0311a0891354c6b95027229]: Commencement: S. 12 in force at 10.5.2013 for W. by [S.I. 2013/1100](https://www.legislation.gov.uk/wsi/2013/1100), [art. 2(2)(b)](https://www.legislation.gov.uk/wsi/2013/1100/article/2/2/b)
 
-[^key-86e3546cc5697f54eb7036d249310bac]: Textual amendment: Ss. A9, A10 inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/24/1), [44(2)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/c)
+[^c-86e3546cc5697f54eb7036d249310bac]: Textual amendment: Ss. A9, A10 inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/24/1), [44(2)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/c)
 
-[^key-88de03ce8bd77f8d6cedeb01ed0753f5]: Textual amendment: S. 12(3) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 1 para. 10(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/10/a); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
+[^c-88de03ce8bd77f8d6cedeb01ed0753f5]: Textual amendment: S. 12(3) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 1 para. 10(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/10/a); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))

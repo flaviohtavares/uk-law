@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Decision 2012/115/EU laying down rules concerning the transitional national plans referred to in Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions[^key-979ee98eb7be7f797165ba2927774374]
+## 5. Decision 2012/115/EU laying down rules concerning the transitional national plans referred to in Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions[^c-979ee98eb7be7f797165ba2927774374]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-979ee98eb7be7f797165ba2927774374]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-979ee98eb7be7f797165ba2927774374]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

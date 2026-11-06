@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Publication of modifications[^key-57929f9c8dd1a87594c467e73fcb9d42][^key-7cae2f1d1ff8a9e966bd14c8f8c22efa]
+## 77. Publication of modifications[^c-57929f9c8dd1a87594c467e73fcb9d42][^c-7cae2f1d1ff8a9e966bd14c8f8c22efa]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-57929f9c8dd1a87594c467e73fcb9d42]: Commencement: S. 77 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-57929f9c8dd1a87594c467e73fcb9d42]: Commencement: S. 77 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-7cae2f1d1ff8a9e966bd14c8f8c22efa]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2023/54/section/77) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-7cae2f1d1ff8a9e966bd14c8f8c22efa]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2023/54/section/77) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

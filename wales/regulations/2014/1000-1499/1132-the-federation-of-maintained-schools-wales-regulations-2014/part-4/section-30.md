@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Federation comprising voluntary controlled and voluntary aided schools[^key-a26b9e24f98e0c0b2a5e0563cd24b8a6]
+## 30. Federation comprising voluntary controlled and voluntary aided schools[^c-a26b9e24f98e0c0b2a5e0563cd24b8a6]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a26b9e24f98e0c0b2a5e0563cd24b8a6]: Commencement: Reg. 30 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-a26b9e24f98e0c0b2a5e0563cd24b8a6]: Commencement: Reg. 30 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

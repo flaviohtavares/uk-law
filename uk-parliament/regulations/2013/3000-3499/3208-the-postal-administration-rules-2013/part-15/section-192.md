@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 192. Notifications relating to other events[^key-071c4ce3024efe6263188f61fd31b648]
+## 192. Notifications relating to other events[^c-071c4ce3024efe6263188f61fd31b648]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In addition to the information required by Rule 187, a notification relating to 
 
 ## Annotations
 
-[^key-071c4ce3024efe6263188f61fd31b648]: Commencement: [Rule 192](https://www.legislation.gov.uk/uksi/2013/3208/rule/192) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-071c4ce3024efe6263188f61fd31b648]: Commencement: [Rule 192](https://www.legislation.gov.uk/uksi/2013/3208/rule/192) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

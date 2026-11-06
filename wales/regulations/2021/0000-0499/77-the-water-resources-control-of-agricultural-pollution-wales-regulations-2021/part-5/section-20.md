@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Exemptions for organic holdings[^key-fe9c40cbc39cd86981deda2856096415]
+## 20. Exemptions for organic holdings[^c-fe9c40cbc39cd86981deda2856096415]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ provided that each hectare on which organic manure is spread does not receive mo
 
 ## Annotations
 
-[^key-fe9c40cbc39cd86981deda2856096415]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2021/77/regulation/20) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-fe9c40cbc39cd86981deda2856096415]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2021/77/regulation/20) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
 
 [^f00008]: Footnote: EUR 834/2007, as amended by [S.I. 2019/693](https://www.legislation.gov.uk/uksi/2019/693) and [831](https://www.legislation.gov.uk/uksi/2019/831).
 

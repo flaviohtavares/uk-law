@@ -46,11 +46,11 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 95 of the Social Security (Scotland) Act 2018 [^c24444551] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-5208cabbc25d0c14541cb973b4d6678c]
+## 1. Citation and commencement[^c-5208cabbc25d0c14541cb973b4d6678c]
 
 These Regulations may be cited as the Disability Assistance for Children and Young People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2021 and come into force on 26 July 2021.
 
-## 2. Amendment of the Council Tax (Discounts) (Scotland) Regulations 1992[^key-73f9411708795364454dcbf9624c4046]
+## 2. Amendment of the Council Tax (Discounts) (Scotland) Regulations 1992[^c-73f9411708795364454dcbf9624c4046]
 
 In regulation 2(3)(c) (care workers) of the Council Tax (Discounts) (Scotland) Regulations 1992 [^c24444561]—
 
@@ -61,7 +61,7 @@ In regulation 2(3)(c) (care workers) of the Council Tax (Discounts) (Scotland) R
 
   .
 
-## 3. Amendment of the National Assistance (Assessment of Resources) Regulations 1992[^key-bc666638f7fdd40feb1d2ae54ba35ea0]
+## 3. Amendment of the National Assistance (Assessment of Resources) Regulations 1992[^c-bc666638f7fdd40feb1d2ae54ba35ea0]
 
 (1) The National Assistance (Assessment of Resources) Regulations 1992 [^c24444581] are amended in accordance with paragraphs (2) to (4).
 
@@ -113,7 +113,7 @@ In regulation 2(3)(c) (care workers) of the Council Tax (Discounts) (Scotland) R
 
     .
 
-## 4. Amendment of the Advice and Assistance (Scotland) Regulations 1996[^key-1937f83f054599e8b580aeca85ccd4ed]
+## 4. Amendment of the Advice and Assistance (Scotland) Regulations 1996[^c-1937f83f054599e8b580aeca85ccd4ed]
 
 (1) The Advice and Assistance (Scotland) Regulations 1996 [^c24444631] are amended in accordance with paragraphs (2) and (3).
 
@@ -130,11 +130,11 @@ In regulation 2(3)(c) (care workers) of the Council Tax (Discounts) (Scotland) R
 
 .
 
-## 5. Amendment of the Education (Student Loans) Regulations 1998[^key-92059c5223502bcf6f7cc45fb8b977c9]
+## 5. Amendment of the Education (Student Loans) Regulations 1998[^c-92059c5223502bcf6f7cc45fb8b977c9]
 
 In the definition of “disability related benefits” in paragraph 1 of schedule 2 (terms of loans) of the Education (Student Loans) Regulations 1998 [^c24444681], after “2011,” insert “ child disability payment given in accordance with the Disability Assistance for Children and Young People (Scotland) Regulations 2021 [^c24444691], short-term assistance given in accordance with Part 1 of the schedule (short-term assistance) of those Regulations, ”.
 
-## 6. Amendment of the Disabled Persons (Badges for Motor Vehicles) (Scotland) Regulations 2000[^key-9946fd015a65fa23c2619262f4acfb32]
+## 6. Amendment of the Disabled Persons (Badges for Motor Vehicles) (Scotland) Regulations 2000[^c-9946fd015a65fa23c2619262f4acfb32]
 
 (1) The Disabled Persons (Badges for Motor Vehicles) (Scotland) Regulations 2000 [^c24444701] are amended in accordance with paragraphs (2) and (3).
 
@@ -149,11 +149,11 @@ In the definition of “disability related benefits” in paragraph 1 of schedul
 - (a) in the opening words, after “4(2)(a)” insert “ , 4(2)(ad) ”,
 - (b) in head (ii) after “allowance” insert “ , the child disability payment, the short-term assistance ”.
 
-## 7. Amendment of the Repayment of Student Loans (Scotland) Regulations 2000[^key-02cb78ad383e102df681d5282d56c0c5]
+## 7. Amendment of the Repayment of Student Loans (Scotland) Regulations 2000[^c-02cb78ad383e102df681d5282d56c0c5]
 
 In the definition of “disability related benefit” in regulation 2 (interpretation) of the Repayment of Student Loans (Scotland) Regulations 2000 [^c24444741], after “2011” insert “ , child disability payment given in accordance with the Disability Assistance for Children and Young People (Scotland) Regulations 2021 [^c24444751], short-term assistance given in accordance with Part 1 of the schedule (short-term assistance) of those Regulations ”.
 
-## 8. Amendment of the Civil Legal Aid (Scotland) Regulations 2002[^key-75123e0391f70afccd26c47e6b81f790]
+## 8. Amendment of the Civil Legal Aid (Scotland) Regulations 2002[^c-75123e0391f70afccd26c47e6b81f790]
 
 In paragraph 7 of schedule 2 (rules for computing disposable income) of the Civil Legal Aid (Scotland) Regulations 2002 [^c24444761], after sub-paragraph (h) insert—
 
@@ -162,7 +162,7 @@ In paragraph 7 of schedule 2 (rules for computing disposable income) of the Civi
 
 .
 
-## 9. Amendment of the Council Tax (Discounts) (Scotland) Consolidation and Amendment Order 2003[^key-ac995a9dedb748c78e7d371242d3f21b]
+## 9. Amendment of the Council Tax (Discounts) (Scotland) Consolidation and Amendment Order 2003[^c-ac995a9dedb748c78e7d371242d3f21b]
 
 In article 4 (the severely mentally impaired) of the Council Tax (Discounts) (Scotland) Consolidation and Amendment Order 2003 [^c24444781], after paragraph (2)(d), insert—
 
@@ -170,7 +170,7 @@ In article 4 (the severely mentally impaired) of the Council Tax (Discounts) (Sc
 
 .
 
-## 10. Amendment of the National Health Service (Travelling Expenses and Remission of Charges) (Scotland) (No. 2) Regulations 2003[^key-aa66c440939dc7dade5616466e286497]
+## 10. Amendment of the National Health Service (Travelling Expenses and Remission of Charges) (Scotland) (No. 2) Regulations 2003[^c-aa66c440939dc7dade5616466e286497]
 
 In Table B in Part 2 of the schedule (calculation of requirements) of the National Health Service (Travelling Expenses and Remission of Charges) (Scotland) (No. 2) Regulations 2003 [^c24444801], in column 2 of the entry which modifies the table in schedule 2 of the Income Support (General) Regulations 1987, in sub-paragraph (1)(b) of the substituted paragraph 13A, after head (ii) insert—
 
@@ -179,7 +179,7 @@ In Table B in Part 2 of the schedule (calculation of requirements) of the Nation
 
 .
 
-## 11. Amendment of the National Bus Travel Concession Scheme for Older and Disabled Persons (Eligible Persons and Eligible Services) (Scotland) Order 2006[^key-e98cf7b9820df91e021df890cd560517]
+## 11. Amendment of the National Bus Travel Concession Scheme for Older and Disabled Persons (Eligible Persons and Eligible Services) (Scotland) Order 2006[^c-e98cf7b9820df91e021df890cd560517]
 
 (1) Article 3 (eligible persons) of the National Bus Travel Concession Scheme for Older and Disabled Persons (Eligible Persons and Eligible Services) (Scotland) Order 2006 [^c24444821] is amended in accordance with paragraphs (2) to (5).
 
@@ -222,7 +222,7 @@ In Table B in Part 2 of the schedule (calculation of requirements) of the Nation
 
 .
 
-## 12. Amendment of the Representation of the People (Absent Voting at Local Government Elections) (Scotland) Regulations 2007[^key-b00c1e16d29afcd29a9ec09b6f683317]
+## 12. Amendment of the Representation of the People (Absent Voting at Local Government Elections) (Scotland) Regulations 2007[^c-b00c1e16d29afcd29a9ec09b6f683317]
 
 In paragraph (6) of regulation 8 (additional requirements for applications for a proxy vote for a particular or indefinite period on grounds of blindness or other disability) of the Representation of the People (Absent Voting at Local Government Elections) (Scotland) Regulations 2007 [^c24444841]—
 
@@ -233,11 +233,11 @@ In paragraph (6) of regulation 8 (additional requirements for applications for a
 
   .
 
-## 13. Amendment of the Council Tax Reduction (Scotland) Regulations 2012[^key-a32aac1e80e4dd1d83b75b7cb61dd15b]
+## 13. Amendment of the Council Tax Reduction (Scotland) Regulations 2012[^c-a32aac1e80e4dd1d83b75b7cb61dd15b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Amendment of the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^key-b860901b6226cbe8a4f9fd7f19c1d08d]
+## 14. Amendment of the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^c-b860901b6226cbe8a4f9fd7f19c1d08d]
 
 (1) The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012 [^c24444951] are amended in accordance with paragraphs (2) to (9).
 
@@ -306,7 +306,7 @@ In paragraph (6) of regulation 8 (additional requirements for applications for a
 
 (9) In schedule 5 [^c24445021] (amount of alternative maximum council tax reduction), in paragraph 2(a) after “disability living allowance” insert “ , child disability payment ”.
 
-## 15. Amendment of the Home Energy Assistance Scheme (Scotland) Regulations 2013[^key-a45e006818b7dd24453e8f5f14632868]
+## 15. Amendment of the Home Energy Assistance Scheme (Scotland) Regulations 2013[^c-a45e006818b7dd24453e8f5f14632868]
 
 (1) Regulation 6 (person eligible to apply for a grant) of the Home Energy Assistance Scheme (Scotland) Regulations 2013 [^c24445031] is amended in accordance with paragraphs (2) to (5).
 
@@ -329,7 +329,7 @@ In paragraph (6) of regulation 8 (additional requirements for applications for a
 
 .
 
-## 16. Amendment of the Children's Legal Assistance (Scotland) Regulations 2013[^key-2bee83f42bcc64811968b538a48add8a]
+## 16. Amendment of the Children's Legal Assistance (Scotland) Regulations 2013[^c-2bee83f42bcc64811968b538a48add8a]
 
 In paragraph 5 of schedule 1 (assessment of disposable income for the purposes of children's legal aid) of the Children's Legal Assistance (Scotland) Regulations 2013 [^c24445061], after sub-paragraph (h) insert—
 
@@ -338,7 +338,7 @@ In paragraph 5 of schedule 1 (assessment of disposable income for the purposes o
 
 .
 
-## 17. Amendment of the Scottish Parliament (Elections etc.) Order 2015[^key-67bcd4560a0a0fb5c8afb76013b0d4f9]
+## 17. Amendment of the Scottish Parliament (Elections etc.) Order 2015[^c-67bcd4560a0a0fb5c8afb76013b0d4f9]
 
 In paragraph 5(6) of schedule 3 (absent voting) of the Scottish Parliament (Elections etc.) Order 2015 [^c24445081]—
 
@@ -349,7 +349,7 @@ In paragraph 5(6) of schedule 3 (absent voting) of the Scottish Parliament (Elec
 
   .
 
-## 18. Amendment of the Winter Heating Assistance for Children and Young People (Scotland) Regulations 2020[^key-b7c76f006b6f2f6c7ec1f4f72025ca46]
+## 18. Amendment of the Winter Heating Assistance for Children and Young People (Scotland) Regulations 2020[^c-b7c76f006b6f2f6c7ec1f4f72025ca46]
 
 (1) The Winter Heating Assistance for Children and Young People (Scotland) Regulations 2020 [^c24445101] are amended in accordance with paragraphs (2) to (4).
 
@@ -397,7 +397,7 @@ In paragraph 5(6) of schedule 3 (absent voting) of the Scottish Parliament (Elec
 
 .
 
-## 19. Transitional provision – extinguishment of right to apply for Disability Living Allowance[^key-92906d5ef33a66e65adfd52a7fa35cb4]
+## 19. Transitional provision – extinguishment of right to apply for Disability Living Allowance[^c-92906d5ef33a66e65adfd52a7fa35cb4]
 
 (1) No person may claim disability living allowance who is under the age of 16 years and—
 
@@ -442,15 +442,15 @@ A business and regulatory impact assessment has been prepared for these Regulati
 
 [^c24444551]: Marginal citation: [2018 asp 9](https://www.legislation.gov.uk/asp/2018/9).
 
-[^key-5208cabbc25d0c14541cb973b4d6678c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
+[^c-5208cabbc25d0c14541cb973b4d6678c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
 
-[^key-73f9411708795364454dcbf9624c4046]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2021/73/regulation/2) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
+[^c-73f9411708795364454dcbf9624c4046]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2021/73/regulation/2) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
 
 [^c24444561]: Marginal citation: [S.I. 1992/1409](https://www.legislation.gov.uk/uksi/1992/1409), as relevantly amended by [S.I. 1994/629](https://www.legislation.gov.uk/uksi/1994/629), [S.I](https://www.legislation.gov.uk/uksi/1994/629/section/I). 1997/587, [S.S.I. 2013/65](https://www.legislation.gov.uk/ssi/2013/65) and [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142).
 
 [^c24444571]: Marginal citation: [S.S.I. 2021/174](https://www.legislation.gov.uk/ssi/2021/174).
 
-[^key-bc666638f7fdd40feb1d2ae54ba35ea0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2021/73/regulation/3) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
+[^c-bc666638f7fdd40feb1d2ae54ba35ea0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2021/73/regulation/3) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
 
 [^c24444581]: Marginal citation: [S.I. 1992/2977](https://www.legislation.gov.uk/uksi/1992/2977).
 
@@ -462,7 +462,7 @@ A business and regulatory impact assessment has been prepared for these Regulati
 
 [^c24444621]: Marginal citation: As relevantly amended by [S.S.I. 2013/65](https://www.legislation.gov.uk/ssi/2013/65).
 
-[^key-1937f83f054599e8b580aeca85ccd4ed]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2021/73/regulation/4) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
+[^c-1937f83f054599e8b580aeca85ccd4ed]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2021/73/regulation/4) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
 
 [^c24444631]: Marginal citation: [S.I. 1996/2447](https://www.legislation.gov.uk/uksi/1996/2447).
 
@@ -474,13 +474,13 @@ A business and regulatory impact assessment has been prepared for these Regulati
 
 [^c24444671]: Marginal citation: [S.S.I. 2021/174](https://www.legislation.gov.uk/ssi/2021/174).
 
-[^key-92059c5223502bcf6f7cc45fb8b977c9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2021/73/regulation/5) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
+[^c-92059c5223502bcf6f7cc45fb8b977c9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2021/73/regulation/5) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
 
 [^c24444681]: Marginal citation: [S.I. 1998/211](https://www.legislation.gov.uk/uksi/1998/211), relevantly amended by [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142).
 
 [^c24444691]: Marginal citation: [S.S.I. 2021/174](https://www.legislation.gov.uk/ssi/2021/174).
 
-[^key-9946fd015a65fa23c2619262f4acfb32]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2021/73/regulation/6) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
+[^c-9946fd015a65fa23c2619262f4acfb32]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2021/73/regulation/6) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
 
 [^c24444701]: Marginal citation: [S.S.I. 2000/59](https://www.legislation.gov.uk/ssi/2000/59).
 
@@ -490,45 +490,45 @@ A business and regulatory impact assessment has been prepared for these Regulati
 
 [^c24444731]: Marginal citation: As relevantly amended by [S.S.I. 2007/162](https://www.legislation.gov.uk/ssi/2007/162).
 
-[^key-02cb78ad383e102df681d5282d56c0c5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2021/73/regulation/7) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
+[^c-02cb78ad383e102df681d5282d56c0c5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2021/73/regulation/7) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
 
 [^c24444741]: Marginal citation: [S.S.I. 2000/110](https://www.legislation.gov.uk/ssi/2000/110), relevantly amended by [S.I. 2008/1879](https://www.legislation.gov.uk/uksi/2008/1879), [S.S.I. 2013/65](https://www.legislation.gov.uk/ssi/2013/65) and [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142).
 
 [^c24444751]: Marginal citation: [S.S.I. 2021/174](https://www.legislation.gov.uk/ssi/2021/174).
 
-[^key-75123e0391f70afccd26c47e6b81f790]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2021/73/regulation/8) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
+[^c-75123e0391f70afccd26c47e6b81f790]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2021/73/regulation/8) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
 
 [^c24444761]: Marginal citation: [S.S.I. 2002/494](https://www.legislation.gov.uk/ssi/2002/494), relevantly amended by [S.S.I. 2013/65](https://www.legislation.gov.uk/ssi/2013/65), [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142) and [S.S.I. 2020/424](https://www.legislation.gov.uk/ssi/2020/424).
 
 [^c24444771]: Marginal citation: [S.S.I. 2021/174](https://www.legislation.gov.uk/ssi/2021/174).
 
-[^key-ac995a9dedb748c78e7d371242d3f21b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2021/73/regulation/9) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
+[^c-ac995a9dedb748c78e7d371242d3f21b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2021/73/regulation/9) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
 
 [^c24444781]: Marginal citation: [S.S.I. 2003/176](https://www.legislation.gov.uk/ssi/2003/176), to which there are amendments not relevant to these Regulations.
 
 [^c24444791]: Marginal citation: [S.S.I. 2021/174](https://www.legislation.gov.uk/ssi/2021/174).
 
-[^key-aa66c440939dc7dade5616466e286497]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2021/73/regulation/10) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
+[^c-aa66c440939dc7dade5616466e286497]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2021/73/regulation/10) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
 
 [^c24444801]: Marginal citation: [S.S.I. 2003/460](https://www.legislation.gov.uk/ssi/2003/460), relevantly amended by [S.S.I. 2008/390](https://www.legislation.gov.uk/ssi/2008/390) and [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142).
 
 [^c24444811]: Marginal citation: [S.S.I. 2021/174](https://www.legislation.gov.uk/ssi/2021/174).
 
-[^key-e98cf7b9820df91e021df890cd560517]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2021/73/regulation/11) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
+[^c-e98cf7b9820df91e021df890cd560517]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2021/73/regulation/11) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
 
 [^c24444821]: Marginal citation: [S.S.I. 2006/117](https://www.legislation.gov.uk/ssi/2006/117), relevantly amended by [S.S.I. 2013/65](https://www.legislation.gov.uk/ssi/2013/65) and [S.S.I. 2021/175](https://www.legislation.gov.uk/ssi/2021/175).
 
 [^c24444831]: Marginal citation: [S.S.I. 2021/174](https://www.legislation.gov.uk/ssi/2021/174).
 
-[^key-b00c1e16d29afcd29a9ec09b6f683317]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2021/73/regulation/12) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
+[^c-b00c1e16d29afcd29a9ec09b6f683317]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2021/73/regulation/12) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
 
 [^c24444841]: Marginal citation: [S.S.I. 2007/170](https://www.legislation.gov.uk/ssi/2007/170).
 
 [^c24444851]: Marginal citation: [S.S.I. 2021/174](https://www.legislation.gov.uk/ssi/2021/174).
 
-[^key-a32aac1e80e4dd1d83b75b7cb61dd15b]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/ssi/2021/73/regulation/13) revoked (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
+[^c-a32aac1e80e4dd1d83b75b7cb61dd15b]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/ssi/2021/73/regulation/13) revoked (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
 
-[^key-b860901b6226cbe8a4f9fd7f19c1d08d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2021/73/regulation/14) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
+[^c-b860901b6226cbe8a4f9fd7f19c1d08d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2021/73/regulation/14) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
 
 [^c24444951]: Marginal citation: [S.S.I. 2012/319](https://www.legislation.gov.uk/ssi/2012/319).
 
@@ -546,7 +546,7 @@ A business and regulatory impact assessment has been prepared for these Regulati
 
 [^c24445021]: Marginal citation: As relevantly amended by [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142).
 
-[^key-a45e006818b7dd24453e8f5f14632868]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2021/73/regulation/15) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
+[^c-a45e006818b7dd24453e8f5f14632868]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2021/73/regulation/15) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
 
 [^c24445031]: Marginal citation: [S.S.I. 2013/148](https://www.legislation.gov.uk/ssi/2013/148), relevantly amended by [S.S.I. 2013/253](https://www.legislation.gov.uk/ssi/2013/253).
 
@@ -554,25 +554,25 @@ A business and regulatory impact assessment has been prepared for these Regulati
 
 [^c24445051]: Marginal citation: [S.S.I. 2021/174](https://www.legislation.gov.uk/ssi/2021/174).
 
-[^key-2bee83f42bcc64811968b538a48add8a]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2021/73/regulation/16) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
+[^c-2bee83f42bcc64811968b538a48add8a]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2021/73/regulation/16) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
 
 [^c24445061]: Marginal citation: [S.S.I. 2013/200](https://www.legislation.gov.uk/ssi/2013/200), relevantly amended by [S.S.I. 2020/424](https://www.legislation.gov.uk/ssi/2020/424).
 
 [^c24445071]: Marginal citation: [S.S.I. 2021/174](https://www.legislation.gov.uk/ssi/2021/174).
 
-[^key-67bcd4560a0a0fb5c8afb76013b0d4f9]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2021/73/regulation/17) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
+[^c-67bcd4560a0a0fb5c8afb76013b0d4f9]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2021/73/regulation/17) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
 
 [^c24445081]: Marginal citation: [S.S.I. 2015/425](https://www.legislation.gov.uk/ssi/2015/425), to which there are amendments not relevant to these Regulations.
 
 [^c24445091]: Marginal citation: [S.S.I. 2021/174](https://www.legislation.gov.uk/ssi/2021/174).
 
-[^key-b7c76f006b6f2f6c7ec1f4f72025ca46]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2021/73/regulation/18) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
+[^c-b7c76f006b6f2f6c7ec1f4f72025ca46]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2021/73/regulation/18) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
 
 [^c24445101]: Marginal citation: [S.S.I. 2020/352](https://www.legislation.gov.uk/ssi/2020/352).
 
 [^c24445111]: Marginal citation: [S.S.I. 2021/174](https://www.legislation.gov.uk/ssi/2021/174).
 
-[^key-92906d5ef33a66e65adfd52a7fa35cb4]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2021/73/regulation/19) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
+[^c-92906d5ef33a66e65adfd52a7fa35cb4]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2021/73/regulation/19) in force at 26.7.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1)
 
 [^c24445121]: Marginal citation: [S.S.I. 2021/174](https://www.legislation.gov.uk/ssi/2021/174).
 

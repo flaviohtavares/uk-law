@@ -31,7 +31,7 @@ summary: ''
 
 SOCIAL CARE, WALES
 
-The National Assistance and Social Care Charges (Wales) (Miscellaneous Amendments) Regulations 2013 (revoked)[^key-fed226559d4610a7d841ff3058aeb089]
+The National Assistance and Social Care Charges (Wales) (Miscellaneous Amendments) Regulations 2013 (revoked)[^c-fed226559d4610a7d841ff3058aeb089]
 
 Made
 
@@ -45,34 +45,34 @@ Coming into force
 
 8 April 2013
 
-[^key-fed226559d4610a7d841ff3058aeb089]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fed226559d4610a7d841ff3058aeb089]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, interpretation and application[^key-fed226559d4610a7d841ff3058aeb089]
+## 1. Title, commencement, interpretation and application[^c-fed226559d4610a7d841ff3058aeb089]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the 1992 Regulations[^key-fed226559d4610a7d841ff3058aeb089]
+## 2. Amendments to the 1992 Regulations[^c-fed226559d4610a7d841ff3058aeb089]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-fed226559d4610a7d841ff3058aeb089] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-fed226559d4610a7d841ff3058aeb089] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments to the Social Care Charges (Means Assessment and Determination of Charges) (Wales) Regulations 2011[^key-fed226559d4610a7d841ff3058aeb089]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 5. Amendments to the Social Care Charges (Direct Payments) (Means Assessment and Determination of Reimbursement or Contribution) (Wales) Regulations 2011[^key-fed226559d4610a7d841ff3058aeb089]
+## 4. Amendments to the Social Care Charges (Means Assessment and Determination of Charges) (Wales) Regulations 2011[^c-fed226559d4610a7d841ff3058aeb089]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fed226559d4610a7d841ff3058aeb089]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 5. Amendments to the Social Care Charges (Direct Payments) (Means Assessment and Determination of Reimbursement or Contribution) (Wales) Regulations 2011[^c-fed226559d4610a7d841ff3058aeb089]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-fed226559d4610a7d841ff3058aeb089]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fed226559d4610a7d841ff3058aeb089]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fed226559d4610a7d841ff3058aeb089]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fed226559d4610a7d841ff3058aeb089]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2013/633) revoked (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/1)
+[^c-fed226559d4610a7d841ff3058aeb089]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2013/633) revoked (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/1)

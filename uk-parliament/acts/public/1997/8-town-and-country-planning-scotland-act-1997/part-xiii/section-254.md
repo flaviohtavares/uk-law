@@ -27,8 +27,8 @@ summary: ''
 
 the Minister responsible for the administration of that service may pay to that authority a contribution of such amount as he may with the consent of the Treasury determine.
 
-(2) This section applies to any decision or order given or made under Part III,section 242A,[^key-ac141f1392572577fc510c181e60d19e] the provisions of Part V relating to purchase notices, Part VI, Part VII or Schedule 3 or 4 or Part I of Schedule 8.
+(2) This section applies to any decision or order given or made under Part III,section 242A,[^c-ac141f1392572577fc510c181e60d19e] the provisions of Part V relating to purchase notices, Part VI, Part VII or Schedule 3 or 4 or Part I of Schedule 8.
 
 ## Annotations
 
-[^key-ac141f1392572577fc510c181e60d19e]: Textual amendment: Words in s. 254(2) inserted (11.5.2006) by [Planning and Compulsory Purchase Act 2004 (Commencement No.2 and Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/243)](https://www.legislation.gov.uk/ssi/2006/243), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/243/article/1/1), [4(11)](https://www.legislation.gov.uk/ssi/2006/243/article/4/11)
+[^c-ac141f1392572577fc510c181e60d19e]: Textual amendment: Words in s. 254(2) inserted (11.5.2006) by [Planning and Compulsory Purchase Act 2004 (Commencement No.2 and Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/243)](https://www.legislation.gov.uk/ssi/2006/243), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/243/article/1/1), [4(11)](https://www.legislation.gov.uk/ssi/2006/243/article/4/11)

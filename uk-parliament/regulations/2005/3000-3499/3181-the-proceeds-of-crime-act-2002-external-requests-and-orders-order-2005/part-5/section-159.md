@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159. Exclusion of property which is not recoverable etc. under interim receiving order[^key-11cfa0d68eba79e9c711d4207ab6b7ec]
+## 159. Exclusion of property which is not recoverable etc. under interim receiving order[^c-11cfa0d68eba79e9c711d4207ab6b7ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11cfa0d68eba79e9c711d4207ab6b7ec]: Commencement: [Art. 159](https://www.legislation.gov.uk/uksi/2005/3181/article/159) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-11cfa0d68eba79e9c711d4207ab6b7ec]: Commencement: [Art. 159](https://www.legislation.gov.uk/uksi/2005/3181/article/159) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

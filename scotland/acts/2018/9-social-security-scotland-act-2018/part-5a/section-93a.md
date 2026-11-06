@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 93A. Scheme to provide care experience assistance[^key-230d1c8d1b4f5812a3977364d4ac39f2]
+## 93A. Scheme to provide care experience assistance[^c-230d1c8d1b4f5812a3977364d4ac39f2]
 
 *Extent: S*
 
@@ -79,4 +79,4 @@ summary: ''
 
 ## Annotations
 
-[^key-230d1c8d1b4f5812a3977364d4ac39f2]: Textual amendment: Pt. 5A inserted (10.5.2025) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 2(2)](https://www.legislation.gov.uk/asp/2025/2/section/2/2), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule)
+[^c-230d1c8d1b4f5812a3977364d4ac39f2]: Textual amendment: Pt. 5A inserted (10.5.2025) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 2(2)](https://www.legislation.gov.uk/asp/2025/2/section/2/2), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule)

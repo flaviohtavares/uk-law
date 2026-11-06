@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Power to intervene in proceedings where strike down declarator or incompatibility declarator is being considered[^key-84cf0c663db5f81fb853bff0d3a27dd5]
+## 27. Power to intervene in proceedings where strike down declarator or incompatibility declarator is being considered[^c-84cf0c663db5f81fb853bff0d3a27dd5]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84cf0c663db5f81fb853bff0d3a27dd5]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2024/1/section/27) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-84cf0c663db5f81fb853bff0d3a27dd5]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2024/1/section/27) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

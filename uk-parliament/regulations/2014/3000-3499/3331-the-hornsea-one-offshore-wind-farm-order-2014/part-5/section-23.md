@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Temporary use of land for carrying out the authorised project[^key-9e643eb837c9aae1fbac2decd7aecd25]
+## 23. Temporary use of land for carrying out the authorised project[^c-9e643eb837c9aae1fbac2decd7aecd25]
 
 *Extent: E+W+S*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e643eb837c9aae1fbac2decd7aecd25]: Commencement: Art. 23 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-9e643eb837c9aae1fbac2decd7aecd25]: Commencement: Art. 23 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)

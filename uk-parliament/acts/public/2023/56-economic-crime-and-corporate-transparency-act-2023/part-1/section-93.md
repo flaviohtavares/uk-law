@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Fees: costs that may be taken into account[^key-9362f75865b7d6728389dc116c493a64][^key-0a82e3cf8ed77adbbe5d21b0011cfd21]
+## 93. Fees: costs that may be taken into account[^c-9362f75865b7d6728389dc116c493a64][^c-0a82e3cf8ed77adbbe5d21b0011cfd21]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9362f75865b7d6728389dc116c493a64]: Commencement: S. 93 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-9362f75865b7d6728389dc116c493a64]: Commencement: S. 93 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-0a82e3cf8ed77adbbe5d21b0011cfd21]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2023/56/section/93) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z35)
+[^c-0a82e3cf8ed77adbbe5d21b0011cfd21]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2023/56/section/93) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z35)

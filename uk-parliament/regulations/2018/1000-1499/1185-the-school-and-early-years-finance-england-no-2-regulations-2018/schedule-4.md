@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — MINIMUM FUNDING GUARANTEE[^key-a76405e2cd2f874da4dfab496f20c608]
+## SCHEDULE 4 — MINIMUM FUNDING GUARANTEE[^c-a76405e2cd2f874da4dfab496f20c608]
 
 *Extent: E+W*
 
@@ -24,18 +24,18 @@ summary: ''
 
 Regulation 21
 
-**1.**[^key-a76405e2cd2f874da4dfab496f20c608] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a76405e2cd2f874da4dfab496f20c608] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-a76405e2cd2f874da4dfab496f20c608] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a76405e2cd2f874da4dfab496f20c608] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-a76405e2cd2f874da4dfab496f20c608] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a76405e2cd2f874da4dfab496f20c608] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-a76405e2cd2f874da4dfab496f20c608] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-a76405e2cd2f874da4dfab496f20c608] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-a76405e2cd2f874da4dfab496f20c608] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-a76405e2cd2f874da4dfab496f20c608] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-a76405e2cd2f874da4dfab496f20c608] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-a76405e2cd2f874da4dfab496f20c608] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a76405e2cd2f874da4dfab496f20c608]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2018/1185) revoked (1.4.2021) by [The School and Early Years Finance (England) Regulations 2021 (S.I. 2021/59)](https://www.legislation.gov.uk/uksi/2021/59), [reg. 2](https://www.legislation.gov.uk/uksi/2021/59/regulation/2)
+[^c-a76405e2cd2f874da4dfab496f20c608]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2018/1185) revoked (1.4.2021) by [The School and Early Years Finance (England) Regulations 2021 (S.I. 2021/59)](https://www.legislation.gov.uk/uksi/2021/59), [reg. 2](https://www.legislation.gov.uk/uksi/2021/59/regulation/2)

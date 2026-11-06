@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Records of exposure to cosmic radiation of classified crew[^key-38f8bee57b06ff3b134994e2c0b2d58e]
+## 147. Records of exposure to cosmic radiation of classified crew[^c-38f8bee57b06ff3b134994e2c0b2d58e]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38f8bee57b06ff3b134994e2c0b2d58e]: Commencement: Reg. 147 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-38f8bee57b06ff3b134994e2c0b2d58e]: Commencement: Reg. 147 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

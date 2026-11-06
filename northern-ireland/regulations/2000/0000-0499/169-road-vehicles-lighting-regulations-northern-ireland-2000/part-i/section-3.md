@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Equivalent standards[^key-a83523011348be360cf2ce57bf924a79]
+## 3. Equivalent standards[^c-a83523011348be360cf2ce57bf924a79]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ where the standard, code of practice, international standard or technical specif
 
 ## Annotations
 
-[^key-a83523011348be360cf2ce57bf924a79]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/169/regulation/3) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-a83523011348be360cf2ce57bf924a79]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/169/regulation/3) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)

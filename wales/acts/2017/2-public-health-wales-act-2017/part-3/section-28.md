@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Interpretation of this Chapter[^key-50ef20d893c0b018143649ab7867734c][^key-a3b8bd8f043b160c45d5c8eb5d5e65c1]
+## 28. Interpretation of this Chapter[^c-50ef20d893c0b018143649ab7867734c][^c-a3b8bd8f043b160c45d5c8eb5d5e65c1]
 
 *Extent: E+W*
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-50ef20d893c0b018143649ab7867734c]: Commencement: [S. 28](https://www.legislation.gov.uk/anaw/2017/2/section/28) in force at 29.9.2020 for specified purposes by [S.I. 2020/1048](https://www.legislation.gov.uk/wsi/2020/1048), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2020/1048/article/2/1/g)
+[^c-50ef20d893c0b018143649ab7867734c]: Commencement: [S. 28](https://www.legislation.gov.uk/anaw/2017/2/section/28) in force at 29.9.2020 for specified purposes by [S.I. 2020/1048](https://www.legislation.gov.uk/wsi/2020/1048), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2020/1048/article/2/1/g)
 
-[^key-a3b8bd8f043b160c45d5c8eb5d5e65c1]: Commencement: [S. 28](https://www.legislation.gov.uk/anaw/2017/2/section/28) in force at 1.3.2021 in so far as not already in force by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
+[^c-a3b8bd8f043b160c45d5c8eb5d5e65c1]: Commencement: [S. 28](https://www.legislation.gov.uk/anaw/2017/2/section/28) in force at 1.3.2021 in so far as not already in force by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11A. Relevant profits to be included in self assessment tax return[^key-62d2cb0a20aa629a7d02d09d75320415]
+## 11A. Relevant profits to be included in self assessment tax return[^c-62d2cb0a20aa629a7d02d09d75320415]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62d2cb0a20aa629a7d02d09d75320415]: Textual amendment: [S. 11A](https://www.legislation.gov.uk/ukpga/1992/4/section/11A) inserted (6.4.2024 immediately after the coming into force of [2023 c. 57](https://www.legislation.gov.uk/ukpga/2023/57), [Sch. para. 4(1)](https://www.legislation.gov.uk/ukpga/2023/57/schedule/paragraph/4/1)) by [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2024/377/regulation/9) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4))
+[^c-62d2cb0a20aa629a7d02d09d75320415]: Textual amendment: [S. 11A](https://www.legislation.gov.uk/ukpga/1992/4/section/11A) inserted (6.4.2024 immediately after the coming into force of [2023 c. 57](https://www.legislation.gov.uk/ukpga/2023/57), [Sch. para. 4(1)](https://www.legislation.gov.uk/ukpga/2023/57/schedule/paragraph/4/1)) by [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2024/377/regulation/9) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4))

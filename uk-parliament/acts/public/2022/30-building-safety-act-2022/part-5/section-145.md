@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. New build home warranties: financial penalties[^key-232b3c4fe5c2074de08f25115c8064a8][^key-863309bd9a8a69c8a66843a59d3c04b6]
+## 145. New build home warranties: financial penalties[^c-232b3c4fe5c2074de08f25115c8064a8][^c-863309bd9a8a69c8a66843a59d3c04b6]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-232b3c4fe5c2074de08f25115c8064a8]: Commencement: S. 145 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
+[^c-232b3c4fe5c2074de08f25115c8064a8]: Commencement: S. 145 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
 
-[^key-863309bd9a8a69c8a66843a59d3c04b6]: Commencement: [S. 145](https://www.legislation.gov.uk/ukpga/2022/30/section/145) in force at 6.4.2023 for specified purposes by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z12)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z12)
+[^c-863309bd9a8a69c8a66843a59d3c04b6]: Commencement: [S. 145](https://www.legislation.gov.uk/ukpga/2022/30/section/145) in force at 6.4.2023 for specified purposes by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z12)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z12)

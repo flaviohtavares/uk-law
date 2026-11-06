@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) A contractor may accept onto its list of patients a person who resides outside of the contractor's practice area in accordance with paragraph 17 of Schedule 2[^key-d4b5dc92437f55f6fe4cfd042445ed62].
+(1) A contractor may accept onto its list of patients a person who resides outside of the contractor's practice area in accordance with paragraph 17 of Schedule 2[^c-d4b5dc92437f55f6fe4cfd042445ed62].
 
 (2) Subject to paragraphs (4) and (5), the terms of the contractor's agreement specified in paragraph (3) must be varied so as to require the contractor to provide to the person any services which the contractor is required to provide to its registered patients under the agreement as if the person resided within the contractor's practice area.
 
@@ -43,7 +43,7 @@ summary: ''
 
   .
 
-(5) Where the contractor is required to provide services to a patient in accordance with arrangements made under paragraph (1), the agreement must also be varied so as to include terms which have the effect of releasing the contractor and NHS England[^key-9520329cffeb7671913a444ac58ebf84] from all obligations, rights and liabilities relating to the terms specified in paragraph (3) (including any right to enforce those terms) where, in the opinion of the contractor, it is not clinically appropriate or practical under those arrangements to—
+(5) Where the contractor is required to provide services to a patient in accordance with arrangements made under paragraph (1), the agreement must also be varied so as to include terms which have the effect of releasing the contractor and NHS England[^c-9520329cffeb7671913a444ac58ebf84] from all obligations, rights and liabilities relating to the terms specified in paragraph (3) (including any right to enforce those terms) where, in the opinion of the contractor, it is not clinically appropriate or practical under those arrangements to—
 
 - (a) provide services in accordance with those terms; or
 - (b) comply with those terms.
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d4b5dc92437f55f6fe4cfd042445ed62]: Textual amendment: Words in [reg. 25(1)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/25/1) inserted (21.7.2025) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2025 (S.I. 2025/727)](https://www.legislation.gov.uk/uksi/2025/727), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/727/regulation/1/2/a), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2025/727/schedule/2/paragraph/1)
+[^c-d4b5dc92437f55f6fe4cfd042445ed62]: Textual amendment: Words in [reg. 25(1)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/25/1) inserted (21.7.2025) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2025 (S.I. 2025/727)](https://www.legislation.gov.uk/uksi/2025/727), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/727/regulation/1/2/a), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2025/727/schedule/2/paragraph/1)
 
-[^key-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

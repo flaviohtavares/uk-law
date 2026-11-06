@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Amendments to procedure for applications for registration[^key-802ef18053fa6f3f633a66374d28d621]
+## 6. Amendments to procedure for applications for registration[^c-802ef18053fa6f3f633a66374d28d621]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-802ef18053fa6f3f633a66374d28d621]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2006/2910/regulation/6) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-802ef18053fa6f3f633a66374d28d621]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2006/2910/regulation/6) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00010]: Footnote: Relevant amending instruments are [S.I. 2002/187](https://www.legislation.gov.uk/uksi/2002/187) and [2006/752](https://www.legislation.gov.uk/uksi/2006/752).

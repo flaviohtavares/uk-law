@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.40.3. Applications for variation, recall or extension of a forced marriage protection order[^key-eb897d04d5a94f4c487cd2c858a99631]
+## 3.40.3. Applications for variation, recall or extension of a forced marriage protection order[^c-eb897d04d5a94f4c487cd2c858a99631]
 
 *Extent: S*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eb897d04d5a94f4c487cd2c858a99631]: Textual amendment: Ch. 3 Pt. 40 inserted (28.11.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [7(2)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/7/2)
+[^c-eb897d04d5a94f4c487cd2c858a99631]: Textual amendment: Ch. 3 Pt. 40 inserted (28.11.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [7(2)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/7/2)
 
 [^f00022]: Footnote: [1972 c. 59](https://www.legislation.gov.uk/ukpga/1972/59).

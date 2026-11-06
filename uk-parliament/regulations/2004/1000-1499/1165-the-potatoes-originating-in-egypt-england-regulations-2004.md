@@ -31,7 +31,7 @@ summary: ''
 
 PLANT HEALTH, ENGLAND
 
-The Potatoes Originating in Egypt (England) Regulations 2004 (revoked)[^key-e0f1a3e3fd792901f1d499490ecaa123]
+The Potatoes Originating in Egypt (England) Regulations 2004 (revoked)[^c-e0f1a3e3fd792901f1d499490ecaa123]
 
 Made
 
@@ -45,48 +45,48 @@ Coming into force
 
 15th May 2004
 
-[^key-e0f1a3e3fd792901f1d499490ecaa123]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e0f1a3e3fd792901f1d499490ecaa123]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and application[^key-e0f1a3e3fd792901f1d499490ecaa123]
+## 1. Citation, commencement, extent and application[^c-e0f1a3e3fd792901f1d499490ecaa123]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-e0f1a3e3fd792901f1d499490ecaa123]
+## 2. Interpretation[^c-e0f1a3e3fd792901f1d499490ecaa123]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Imports of Potatoes originating in Egypt[^key-e0f1a3e3fd792901f1d499490ecaa123]
+## 3. Imports of Potatoes originating in Egypt[^c-e0f1a3e3fd792901f1d499490ecaa123]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Approval of premises for treatment of potatoes originating in Egypt[^key-e0f1a3e3fd792901f1d499490ecaa123]
+## 4. Approval of premises for treatment of potatoes originating in Egypt[^c-e0f1a3e3fd792901f1d499490ecaa123]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Powers of an inspector[^key-e0f1a3e3fd792901f1d499490ecaa123]
+## 5. Powers of an inspector[^c-e0f1a3e3fd792901f1d499490ecaa123]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Charges in respect of the sampling of imports of potatoes[^key-e0f1a3e3fd792901f1d499490ecaa123]
+## 6. Charges in respect of the sampling of imports of potatoes[^c-e0f1a3e3fd792901f1d499490ecaa123]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Offences[^key-e0f1a3e3fd792901f1d499490ecaa123]
+## 7. Offences[^c-e0f1a3e3fd792901f1d499490ecaa123]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Revocations[^key-e0f1a3e3fd792901f1d499490ecaa123]
+## 8. Revocations[^c-e0f1a3e3fd792901f1d499490ecaa123]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e0f1a3e3fd792901f1d499490ecaa123]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e0f1a3e3fd792901f1d499490ecaa123]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e0f1a3e3fd792901f1d499490ecaa123]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e0f1a3e3fd792901f1d499490ecaa123]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e0f1a3e3fd792901f1d499490ecaa123]: Textual amendment: Regulations revoked (14.1.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2019/1517/schedule/6)
+[^c-e0f1a3e3fd792901f1d499490ecaa123]: Textual amendment: Regulations revoked (14.1.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2019/1517/schedule/6)

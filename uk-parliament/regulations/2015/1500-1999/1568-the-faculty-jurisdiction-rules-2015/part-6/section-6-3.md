@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 6.3. Display of public notice etc.[^key-ae321885a5ffe7c0533a5dfbc17b36ad]
+## 6.3. Display of public notice etc.[^c-ae321885a5ffe7c0533a5dfbc17b36ad]
 
 *Extent: E*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae321885a5ffe7c0533a5dfbc17b36ad]: Commencement: [Rule 6.3](https://www.legislation.gov.uk/uksi/2015/1568/article/6.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-ae321885a5ffe7c0533a5dfbc17b36ad]: Commencement: [Rule 6.3](https://www.legislation.gov.uk/uksi/2015/1568/article/6.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

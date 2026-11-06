@@ -35,7 +35,7 @@ An Act to make provision to prevent the theft and re-sale of equipment and tools
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Requirements for sale of equipment[^key-dd34d90ba2edb7bb04999a3451c69ae7]
+## 1. Requirements for sale of equipment[^c-dd34d90ba2edb7bb04999a3451c69ae7]
 
 (1) The Secretary of State may by regulations make provision to restrict the sale of specified equipment where a specified requirement is not met.
 
@@ -66,7 +66,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
   - (i) in order to demonstrate its features to a potential buyer of the equipment or other equipment of the same or a similar kind, or
   - (ii) in preparation for such a demonstration.
 
-## 2. Record keeping[^key-c8a41f85f1c119e0015fa83856b8d377]
+## 2. Record keeping[^c-c8a41f85f1c119e0015fa83856b8d377]
 
 (1) The Secretary of State may by regulations provide that a person selling equipment of a kind falling within a description in section 1(2) must record specified information in connection with the sale.
 
@@ -90,7 +90,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - (a) the sale is solely for the purposes of onward sale by the buyer, or
 - (b) the equipment has previously been used for the purpose for which it was primarily designed or adapted.
 
-## 3. Enforcement[^key-31b5157ce46fb3415403214b1bc75bc3]
+## 3. Enforcement[^c-31b5157ce46fb3415403214b1bc75bc3]
 
 (1) A person commits an offence if the person—
 
@@ -112,7 +112,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 > - section 3 of the Equipment Theft (Prevention) Act 2023.
 
-## 4. Regulations: general[^key-b80c128e115e094b357e109bf3c87ed5]
+## 4. Regulations: general[^c-b80c128e115e094b357e109bf3c87ed5]
 
 (1) A power to make regulations under any provision of this Act includes power to make—
 
@@ -123,7 +123,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (3) A statutory instrument containing regulations under this Act may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
 
-## 5. Extent, commencement and short title[^key-1cb12b63bd23c5f5185d7a3b5c5fcb28]
+## 5. Extent, commencement and short title[^c-1cb12b63bd23c5f5185d7a3b5c5fcb28]
 
 (1) This Act extends to England and Wales.
 
@@ -133,12 +133,12 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Annotations
 
-[^key-dd34d90ba2edb7bb04999a3451c69ae7]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/34/section/1) in force at 20.1.2024, see [s. 5(2)](https://www.legislation.gov.uk/ukpga/2023/34/section/5/2)
+[^c-dd34d90ba2edb7bb04999a3451c69ae7]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/34/section/1) in force at 20.1.2024, see [s. 5(2)](https://www.legislation.gov.uk/ukpga/2023/34/section/5/2)
 
-[^key-c8a41f85f1c119e0015fa83856b8d377]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/34/section/2) in force at 20.1.2024, see [s. 5(2)](https://www.legislation.gov.uk/ukpga/2023/34/section/5/2)
+[^c-c8a41f85f1c119e0015fa83856b8d377]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/34/section/2) in force at 20.1.2024, see [s. 5(2)](https://www.legislation.gov.uk/ukpga/2023/34/section/5/2)
 
-[^key-31b5157ce46fb3415403214b1bc75bc3]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/34/section/3) in force at 20.1.2024, see [s. 5(2)](https://www.legislation.gov.uk/ukpga/2023/34/section/5/2)
+[^c-31b5157ce46fb3415403214b1bc75bc3]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/34/section/3) in force at 20.1.2024, see [s. 5(2)](https://www.legislation.gov.uk/ukpga/2023/34/section/5/2)
 
-[^key-b80c128e115e094b357e109bf3c87ed5]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2023/34/section/4) in force at 20.1.2024, see [s. 5(2)](https://www.legislation.gov.uk/ukpga/2023/34/section/5/2)
+[^c-b80c128e115e094b357e109bf3c87ed5]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2023/34/section/4) in force at 20.1.2024, see [s. 5(2)](https://www.legislation.gov.uk/ukpga/2023/34/section/5/2)
 
-[^key-1cb12b63bd23c5f5185d7a3b5c5fcb28]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/34/section/5) in force at 20.1.2024, see [s. 5(2)](https://www.legislation.gov.uk/ukpga/2023/34/section/5/2)
+[^c-1cb12b63bd23c5f5185d7a3b5c5fcb28]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/34/section/5) in force at 20.1.2024, see [s. 5(2)](https://www.legislation.gov.uk/ukpga/2023/34/section/5/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 125. Claims in a foreign currency[^key-0f8bd894637abcd6b976279ccde369d8]
+## 125. Claims in a foreign currency[^c-0f8bd894637abcd6b976279ccde369d8]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f8bd894637abcd6b976279ccde369d8]: Commencement: Rule 125 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-0f8bd894637abcd6b976279ccde369d8]: Commencement: Rule 125 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

@@ -31,7 +31,7 @@ summary: ''
 > - (a) a skin impression of the same part of the body has already been taken from that person in the course of the investigation of the offence; and
 > - (b) the impression previously taken is not one that has proved insufficient.
 
-(4)[^key-92ed2fddaa963379957e47975dc93eb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-92ed2fddaa963379957e47975dc93eb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Section 65 of the 1984 Act (supplementary provisions of Part 5) shall become subsection (1) of that section and—
 
@@ -65,4 +65,4 @@ and
 
 [^c19308101]: Textual amendment: S. 80(2) repealed (1.4.2003) by [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), [ss. 107](https://www.legislation.gov.uk/ukpga/2002/30/section/107), [108(2)-(5)](https://www.legislation.gov.uk/ukpga/2002/30/section/108/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2002/30/schedule/8); [S.I. 2003/808](https://www.legislation.gov.uk/uksi/2003/808), [art. 2(l)(iv)](https://www.legislation.gov.uk/uksi/2003/808/article/2/l/iv)
 
-[^key-92ed2fddaa963379957e47975dc93eb7]: Textual amendment: [S. 80(4)](https://www.legislation.gov.uk/ukpga/2001/16/section/80/4) repealed (12.1.2009) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(6)(b)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/6/b), [Sch. 8 Pt. 13](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/13)
+[^c-92ed2fddaa963379957e47975dc93eb7]: Textual amendment: [S. 80(4)](https://www.legislation.gov.uk/ukpga/2001/16/section/80/4) repealed (12.1.2009) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(6)(b)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/6/b), [Sch. 8 Pt. 13](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/13)

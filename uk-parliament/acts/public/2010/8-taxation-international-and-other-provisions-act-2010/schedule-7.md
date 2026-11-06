@@ -1565,7 +1565,7 @@ Section 371
 >
 > D (not C) is treated as selling the securities.
 
-**113.**[^key-9bd5d65b1a367f381c747382758fda0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**113.**[^c-9bd5d65b1a367f381c747382758fda0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Finance Act 2007 (c. 11)
 
@@ -1575,4 +1575,4 @@ Section 371
 
 ## Annotations
 
-[^key-9bd5d65b1a367f381c747382758fda0a]: Textual amendment: [Sch. 7 para. 113](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/113) omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/52), [Sch. 29 para. 48(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/48/3)
+[^c-9bd5d65b1a367f381c747382758fda0a]: Textual amendment: [Sch. 7 para. 113](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/113) omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/52), [Sch. 29 para. 48(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/48/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 809AZA. Application of Chapter[^key-e4ae3b38f4418a7e7eade5988cff1cd3]
+## 809AZA. Application of Chapter[^c-e4ae3b38f4418a7e7eade5988cff1cd3]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4ae3b38f4418a7e7eade5988cff1cd3]: Textual amendment: Pt. 13 Ch. 5A inserted (with effect in accordance with Sch. 25 para. 10 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 25 para. 7](https://www.legislation.gov.uk/ukpga/2009/10/schedule/25/paragraph/7)
+[^c-e4ae3b38f4418a7e7eade5988cff1cd3]: Textual amendment: Pt. 13 Ch. 5A inserted (with effect in accordance with Sch. 25 para. 10 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 25 para. 7](https://www.legislation.gov.uk/ukpga/2009/10/schedule/25/paragraph/7)

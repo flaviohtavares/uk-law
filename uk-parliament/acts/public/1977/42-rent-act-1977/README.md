@@ -31,7 +31,7 @@ Rent Act 1977
 
 An Act to consolidate the Rent Act 1968, Parts III, IV and VIII of the Housing Finance Act 1972, the Rent Act 1974, sections 7 to 10 of the Housing Rents and Subsidies Act 1975, and certain related enactments, with amendments to give effect to recommendations of the Law Commission.
 
-\[29th July 1977\][^c16034361][^c16034371][^c16034381][^c16034391][^c16034401][^c16034411][^c16034421][^c16034431][^c16034441][^c16034451][^c16034461][^c16034471][^key-e716d37841b2a3626f0e7630e4f96aaa]
+\[29th July 1977\][^c16034361][^c16034371][^c16034381][^c16034391][^c16034401][^c16034411][^c16034421][^c16034431][^c16034441][^c16034451][^c16034461][^c16034471][^c-e716d37841b2a3626f0e7630e4f96aaa]
 
 ## Contents
 
@@ -90,7 +90,7 @@ An Act to consolidate the Rent Act 1968, Parts III, IV and VIII of the Housing F
 
 - [Section 27 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-ii/section-27.md)
 
-### Part III — Rents under Regulated Tenancies[^key-0c0a3306ada4de43c0683b775d98c8fa]
+### Part III — Rents under Regulated Tenancies[^c-0c0a3306ada4de43c0683b775d98c8fa]
 
 #### Regulation of rent
 
@@ -155,7 +155,7 @@ An Act to consolidate the Rent Act 1968, Parts III, IV and VIII of the Housing F
 - [Section 74 — Regulations.](part-iv/section-74.md)
 - [Section 75 — Interpretation of Part IV.](part-iv/section-75.md)
 
-### Part V — Rents Under Restricted Contracts[^key-f5e88b2c21d02ec11bd251849207bf47]
+### Part V — Rents Under Restricted Contracts[^c-f5e88b2c21d02ec11bd251849207bf47]
 
 - [Section 76 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-v/section-76.md)
 
@@ -366,13 +366,13 @@ SCHEDULES
 
 [^c16034471]: Modification: Act (other than Pt. V and ss. 103-106) modified (1.10.1997) by [1996 c. 27](https://www.legislation.gov.uk/ukpga/1996/27), [s. 30(4)(a)](https://www.legislation.gov.uk/ukpga/1996/27/section/30/4/a) (with [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/1996/27/schedule/9/paragraph/8), [9](https://www.legislation.gov.uk/ukpga/1996/27/schedule/9/paragraph/9), [10](https://www.legislation.gov.uk/ukpga/1996/27/schedule/9/paragraph/10)); [S.I. 1997/1892](https://www.legislation.gov.uk/uksi/1997/1892), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/1997/1892/article/3/1/a)
 
-[^key-e716d37841b2a3626f0e7630e4f96aaa]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1977/42) excluded (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [ss. 33](https://www.legislation.gov.uk/ukpga/2004/34/section/33), [270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4), [270(5)(a)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/a) (with [s. 38](https://www.legislation.gov.uk/ukpga/2004/34/section/38)); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/wsi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/wsi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/wsi/2006/1535/schedule))
+[^c-e716d37841b2a3626f0e7630e4f96aaa]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1977/42) excluded (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [ss. 33](https://www.legislation.gov.uk/ukpga/2004/34/section/33), [270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4), [270(5)(a)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/a) (with [s. 38](https://www.legislation.gov.uk/ukpga/2004/34/section/38)); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/wsi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/wsi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/wsi/2006/1535/schedule))
 
-[^key-0c0a3306ada4de43c0683b775d98c8fa]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/1977/42/part/3) continued (W.) (in relation to an occupation contract which immediately before 1.12.2022 was a protected shorthold tenancy) by [The Renting Homes (Wales) Act 2016 (Saving and Transitional Provisions) Regulations 2022 (S.I. 2022/1172)](https://www.legislation.gov.uk/uksi/2022/1172), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1172/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2022/1172/regulation/14) (with [reg. 19](https://www.legislation.gov.uk/uksi/2022/1172/regulation/19))
+[^c-0c0a3306ada4de43c0683b775d98c8fa]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/1977/42/part/3) continued (W.) (in relation to an occupation contract which immediately before 1.12.2022 was a protected shorthold tenancy) by [The Renting Homes (Wales) Act 2016 (Saving and Transitional Provisions) Regulations 2022 (S.I. 2022/1172)](https://www.legislation.gov.uk/uksi/2022/1172), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1172/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2022/1172/regulation/14) (with [reg. 19](https://www.legislation.gov.uk/uksi/2022/1172/regulation/19))
 
 [^c16038811]: Textual amendment: Ss. 64A, 64B inserted by [Housing Act 1988 (c. 50, SIF 75:1)](https://www.legislation.gov.uk/ukpga/1988/50), [s. 120](https://www.legislation.gov.uk/ukpga/1988/50/section/120), [Sch. 14 Pt. II](https://www.legislation.gov.uk/ukpga/1988/50/schedule/14/part/II)
 
-[^key-f5e88b2c21d02ec11bd251849207bf47]: Modification: [Pt. 5](https://www.legislation.gov.uk/ukpga/1977/42/part/5) continued (W.) (in relation to an occupation contract which immediately before 1.12.2022 was a restricted contract) by [The Renting Homes (Wales) Act 2016 (Saving and Transitional Provisions) Regulations 2022 (S.I. 2022/1172)](https://www.legislation.gov.uk/uksi/2022/1172), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1172/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2022/1172/regulation/14) (with [reg. 19](https://www.legislation.gov.uk/uksi/2022/1172/regulation/19))
+[^c-f5e88b2c21d02ec11bd251849207bf47]: Modification: [Pt. 5](https://www.legislation.gov.uk/ukpga/1977/42/part/5) continued (W.) (in relation to an occupation contract which immediately before 1.12.2022 was a restricted contract) by [The Renting Homes (Wales) Act 2016 (Saving and Transitional Provisions) Regulations 2022 (S.I. 2022/1172)](https://www.legislation.gov.uk/uksi/2022/1172), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1172/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2022/1172/regulation/14) (with [reg. 19](https://www.legislation.gov.uk/uksi/2022/1172/regulation/19))
 
 [^c16040601]: Modification: [Pt. VII](https://www.legislation.gov.uk/ukpga/1977/42/part/VII) (ss. 98-107) restricted (1.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [s. 59(2)(c)(i)](https://www.legislation.gov.uk/ukpga/1993/28/section/59/2/c/i) (with [ss. 94(2)](https://www.legislation.gov.uk/ukpga/1993/28/section/94/2), [95](https://www.legislation.gov.uk/ukpga/1993/28/section/95)); [S.I. 1993/2134](https://www.legislation.gov.uk/uksi/1993/2134), [arts. 2](https://www.legislation.gov.uk/uksi/1993/2134/article/2),5
 

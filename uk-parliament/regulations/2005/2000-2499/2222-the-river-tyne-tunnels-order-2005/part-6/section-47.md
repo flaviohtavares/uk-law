@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Statutory undertakers, etc.[^key-b898d6cf06c713480f6df0535328cc8b]
+## 47. Statutory undertakers, etc.[^c-b898d6cf06c713480f6df0535328cc8b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 11 shall have effect.
 
 ## Annotations
 
-[^key-b898d6cf06c713480f6df0535328cc8b]: Commencement: Art. 47 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-b898d6cf06c713480f6df0535328cc8b]: Commencement: Art. 47 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)

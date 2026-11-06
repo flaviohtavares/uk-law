@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Any public body affected by the alteration, abolition or constitution of an area or electoral ward by an order under section 37, 38, 39 or 43 [^key-b75bde0b00543fd747a47cf9089673f2]... may enter into an agreement with another affected public body about—
+(1) Any public body affected by the alteration, abolition or constitution of an area or electoral ward by an order under section 37, 38, 39 or 43 [^c-b75bde0b00543fd747a47cf9089673f2]... may enter into an agreement with another affected public body about—
 
 - (a) any property, income, rights or liabilities affected by the change;
 - (b) any financial relationships between the parties to the agreement;
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b75bde0b00543fd747a47cf9089673f2]: Textual amendment: Words in s. 44(1) omitted (1.4.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 150(2)(b)](https://www.legislation.gov.uk/asc/2021/1/section/150/2/b), [175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7); [S.I. 2021/297](https://www.legislation.gov.uk/wsi/2021/297), [reg. 2(d)](https://www.legislation.gov.uk/wsi/2021/297/regulation/2/d)
+[^c-b75bde0b00543fd747a47cf9089673f2]: Textual amendment: Words in s. 44(1) omitted (1.4.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 150(2)(b)](https://www.legislation.gov.uk/asc/2021/1/section/150/2/b), [175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7); [S.I. 2021/297](https://www.legislation.gov.uk/wsi/2021/297), [reg. 2(d)](https://www.legislation.gov.uk/wsi/2021/297/regulation/2/d)

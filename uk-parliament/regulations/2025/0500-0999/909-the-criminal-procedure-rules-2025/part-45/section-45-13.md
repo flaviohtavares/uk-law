@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45.13. Appeal to a High Court judge[^key-692c6f8657642d73a6a5577fc74407e1]
+## 45.13. Appeal to a High Court judge[^c-692c6f8657642d73a6a5577fc74407e1]
 
 *Extent: E+W*
 
@@ -49,7 +49,7 @@ summary: ''
 
 ## Annotations
 
-[^key-692c6f8657642d73a6a5577fc74407e1]: Commencement: [Rule 45.13](https://www.legislation.gov.uk/uksi/2025/909/rule/45.13) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-692c6f8657642d73a6a5577fc74407e1]: Commencement: [Rule 45.13](https://www.legislation.gov.uk/uksi/2025/909/rule/45.13) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01093]: Footnote: [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132).
 

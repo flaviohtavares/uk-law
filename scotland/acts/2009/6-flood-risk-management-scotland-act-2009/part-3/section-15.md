@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Potentially vulnerable areas and local plan districts: regulations[^key-1d95848e141eec2e5f5fd22b88348326]
+## 15. Potentially vulnerable areas and local plan districts: regulations[^c-1d95848e141eec2e5f5fd22b88348326]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ The Scottish Ministers may by regulations make provision as to—
 
 ## Annotations
 
-[^key-1d95848e141eec2e5f5fd22b88348326]: Commencement: S. 15 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-1d95848e141eec2e5f5fd22b88348326]: Commencement: S. 15 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

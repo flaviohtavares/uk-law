@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Introductory
 
-### 1. The Glasgow Commonwealth Games[^key-dbb5af4563e1e0bbf2724c956ab7694f]
+### 1. The Glasgow Commonwealth Games[^c-dbb5af4563e1e0bbf2724c956ab7694f]
 
 (1) “The Games” are the Commonwealth Games that are to be held principally in Glasgow in 2014.
 
@@ -53,18 +53,18 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### 2. Ban on outdoor trading in the vicinity of Games locations
 
-(1)[^key-f73f78b8cd3479e39685fa3f705bd16f] It is an offence to trade in the vicinity of a Games location at a prohibited time (“the trading offence”).
+(1)[^c-f73f78b8cd3479e39685fa3f705bd16f] It is an offence to trade in the vicinity of a Games location at a prohibited time (“the trading offence”).
 
-(2)[^key-f73f78b8cd3479e39685fa3f705bd16f] The trading offence does not apply to trading in a building.
+(2)[^c-f73f78b8cd3479e39685fa3f705bd16f] The trading offence does not apply to trading in a building.
 
-(3)[^key-e3227ebd998e5856c9a2fe7e624a6c2b] Ministers may by regulations (“**the trading regulations**”)—
+(3)[^c-e3227ebd998e5856c9a2fe7e624a6c2b] Ministers may by regulations (“**the trading regulations**”)—
 
 - (a) exempt types of trading from the trading offence,
 - (b) make such further provision as they think fit in relation to trading in the vicinity of Games locations.
 
-(4)[^key-f73f78b8cd3479e39685fa3f705bd16f] The trading offence does not apply to trading by the Organising Committee or the Commonwealth Games Federation (so long as that trading is done in accordance with any conditions imposed by the trading regulations).
+(4)[^c-f73f78b8cd3479e39685fa3f705bd16f] The trading offence does not apply to trading by the Organising Committee or the Commonwealth Games Federation (so long as that trading is done in accordance with any conditions imposed by the trading regulations).
 
-### 3. Trading activities, places and prohibited times[^key-4baaf9cfd4c9234dc776e2d34b1c4618]
+### 3. Trading activities, places and prohibited times[^c-4baaf9cfd4c9234dc776e2d34b1c4618]
 
 The trading regulations may prescribe, or provide criteria for determining—
 
@@ -72,7 +72,7 @@ The trading regulations may prescribe, or provide criteria for determining—
 - (b) places which are (or are not) to be treated as being in the vicinity of a Games location for those purposes,
 - (c) times which are prohibited times for those purposes.
 
-### 4. Authorised trading[^key-ce75defdd3397aaa468b90af99482fe8]
+### 4. Authorised trading[^c-ce75defdd3397aaa468b90af99482fe8]
 
 (1) The trading regulations may prescribe circumstances in which the Organising Committee may authorise persons to trade in a way which would otherwise constitute a trading offence.
 
@@ -90,7 +90,7 @@ The trading regulations may prescribe, or provide criteria for determining—
   - (ii) any other prescribed conditions are satisfied,
 - (g) for a right of appeal against a refusal to grant an authorisation.
 
-### 5. Trading authorisation: conditions[^key-600d41a40dd1fde6c357fa89cc609e3c]
+### 5. Trading authorisation: conditions[^c-600d41a40dd1fde6c357fa89cc609e3c]
 
 (1) An authorisation under section 4—
 
@@ -108,7 +108,7 @@ The trading regulations may prescribe, or provide criteria for determining—
 
   the conditions of any other trading licence held by the authorised person.
 
-### 6. Trading permitted without authorisation[^key-4d0d87e7244270867bdc3921deca3e2e]
+### 6. Trading permitted without authorisation[^c-4d0d87e7244270867bdc3921deca3e2e]
 
 (1) The trading regulations may prescribe, or provide criteria for determining, circumstances in which trading which would otherwise constitute a trading offence is permitted without authorisation.
 
@@ -119,11 +119,11 @@ The trading regulations may prescribe, or provide criteria for determining—
 - (c) the purpose of the trading, or
 - (d) the application of any profits.
 
-### 7. Existing trading licences[^key-d39564e6826e1d2318570d90b23f6c6b]
+### 7. Existing trading licences[^c-d39564e6826e1d2318570d90b23f6c6b]
 
 It is not a defence for a person charged with a trading offence that the person has a trading licence whether granted before or after this section comes into force.
 
-### 8. Alternative arrangements where existing trading banned during Games[^key-36d7bf8ee458ca2fd7f8fa93b259ed2d]
+### 8. Alternative arrangements where existing trading banned during Games[^c-36d7bf8ee458ca2fd7f8fa93b259ed2d]
 
 (1) Councils must seek to work with existing street traders to try to identify alternative trading arrangements during the times when the trading offence applies.
 
@@ -132,7 +132,7 @@ It is not a defence for a person charged with a trading offence that the person 
 - (a) to whom the council grants a street trader's licence, or market operator's licence, authorising the person to trade at a place in the council's area within the period of 12 months before the Games begin, and
 - (b) who would, but for this Act, be entitled to trade at that place during the times when the trading offence applies.
 
-### 9. Guidance and information about trading[^key-d16fca9f2e614875fcf33e628a166c01]
+### 9. Guidance and information about trading[^c-d16fca9f2e614875fcf33e628a166c01]
 
 (1) It is for the Organising Committee to issue guidance about trading in the vicinity of Games locations.
 
@@ -145,20 +145,20 @@ It is not a defence for a person charged with a trading offence that the person 
 
 ### 10. Ban on advertising in the vicinity of Games locations
 
-(1)[^key-51fae6e1228faa3a8b45da91d4523a08] It is an offence to advertise in the vicinity of a Games location at a prohibited time (“the advertising offence”).
+(1)[^c-51fae6e1228faa3a8b45da91d4523a08] It is an offence to advertise in the vicinity of a Games location at a prohibited time (“the advertising offence”).
 
-(2)[^key-7b632f1cdb0050951bc10c6d1af5c6e3] Ministers may by regulations (“**the advertising regulations**”)—
+(2)[^c-7b632f1cdb0050951bc10c6d1af5c6e3] Ministers may by regulations (“**the advertising regulations**”)—
 
 - (a) exempt types of advertising from the advertising offence,
 - (b) make such further provision as they think fit in relation to advertising in the vicinity of Games locations.
 
-(3)[^key-51fae6e1228faa3a8b45da91d4523a08] The advertising offence does not apply to advertising by the Organising Committee or the Commonwealth Games Federation (so long as that advertising is done in accordance with any conditions imposed by the advertising regulations).
+(3)[^c-51fae6e1228faa3a8b45da91d4523a08] The advertising offence does not apply to advertising by the Organising Committee or the Commonwealth Games Federation (so long as that advertising is done in accordance with any conditions imposed by the advertising regulations).
 
 ### 11. Advertising activities, places and prohibited times
 
-(1)[^key-070927c0f221f55733fb213848aac021] An activity is to be treated as advertising if it is a communication to the public (or to a section of the public) for the purpose of promoting an item, service, trade, business or other concern.
+(1)[^c-070927c0f221f55733fb213848aac021] An activity is to be treated as advertising if it is a communication to the public (or to a section of the public) for the purpose of promoting an item, service, trade, business or other concern.
 
-(2)[^key-070927c0f221f55733fb213848aac021] For example, any of the following acts done for that purpose are to be treated as advertising—
+(2)[^c-070927c0f221f55733fb213848aac021] For example, any of the following acts done for that purpose are to be treated as advertising—
 
 - (a) advertising of a non-commercial nature,
 - (b) announcements or notices,
@@ -167,14 +167,14 @@ It is not a defence for a person charged with a trading offence that the person 
 - (e) the display or projections of words, images, lights or sounds,
 - (f) things done with or in relation to material which has or may have purposes or uses other than as an advertisement.
 
-(3)[^key-070927c0f221f55733fb213848aac021] “**Advertise**” is to be construed accordingly.
+(3)[^c-070927c0f221f55733fb213848aac021] “**Advertise**” is to be construed accordingly.
 
-(4)[^key-f89f170e31c5fe6dc3a7d7683d00ffdc] The advertising regulations may prescribe, or provide criteria for determining—
+(4)[^c-f89f170e31c5fe6dc3a7d7683d00ffdc] The advertising regulations may prescribe, or provide criteria for determining—
 
 - (a) places which are (or are not) to be treated as being in the vicinity of a Games location for the purposes of the advertising offence,
 - (b) times which are prohibited times for those purposes.
 
-### 12. Authorised advertising[^key-8ac8992073f593f5d6d1e2f8e4557837]
+### 12. Authorised advertising[^c-8ac8992073f593f5d6d1e2f8e4557837]
 
 (1) The advertising regulations may prescribe circumstances in which the Organising Committee may authorise persons to advertise in a way which would otherwise constitute an advertising offence.
 
@@ -189,7 +189,7 @@ It is not a defence for a person charged with a trading offence that the person 
 - (e) that any fee charged by the Organising Committee in connection with an authorisation (or an application) is not to exceed such amount as may be specified in, or determined in accordance with, the regulations,
 - (f) for a right of appeal against a refusal to grant an authorisation.
 
-### 13. Advertising authorisation: conditions[^key-f484b285cf25faf2b717136c8cd1ca97]
+### 13. Advertising authorisation: conditions[^c-f484b285cf25faf2b717136c8cd1ca97]
 
 (1) An authorisation under section 12—
 
@@ -206,7 +206,7 @@ It is not a defence for a person charged with a trading offence that the person 
 
   the conditions of any other advertising licence held by the authorised person.
 
-### 14. Advertising permitted without authorisation[^key-0101112259f9a84a008bfa298c2025a5]
+### 14. Advertising permitted without authorisation[^c-0101112259f9a84a008bfa298c2025a5]
 
 (1) The advertising regulations may prescribe, or provide criteria for determining, circumstances in which advertising which would otherwise constitute an advertising offence is permitted without authorisation.
 
@@ -217,11 +217,11 @@ It is not a defence for a person charged with a trading offence that the person 
 - (c) the purpose of the advertising, or
 - (d) the circumstances of its display.
 
-### 15. Existing advertising licences[^key-72f4d8bd158305431eba739674fffbd6]
+### 15. Existing advertising licences[^c-72f4d8bd158305431eba739674fffbd6]
 
 It is not a defence for a person charged with an advertising offence that the person has an advertising licence whether granted before or after this section comes into force.
 
-### 16. Guidance and information about advertising[^key-14b1198b84a1f2817e4096343024ff73]
+### 16. Guidance and information about advertising[^c-14b1198b84a1f2817e4096343024ff73]
 
 (1) It is for the Organising Committee to issue guidance about advertising in the vicinity of Games locations.
 
@@ -232,7 +232,7 @@ It is not a defence for a person charged with an advertising offence that the pe
 
 ## Ticket touting
 
-### 17. Ban on ticket touting[^key-2651462e4f0d9c6d947883c585ba89b5]
+### 17. Ban on ticket touting[^c-2651462e4f0d9c6d947883c585ba89b5]
 
 (1) It is an offence to tout a Games ticket (“the touting offence”).
 
@@ -266,7 +266,7 @@ It is not a defence for a person charged with an advertising offence that the pe
 
 (7) The reference in subsection (2)(c) to making a profit is, where the act is done by a person other than the person disposing of the ticket, to be read as a reference to assisting the person disposing of the ticket to make a profit.
 
-### 18. Exception for certain advertisers etc.[^key-6c99e93863f32d0514a2dc1478856387]
+### 18. Exception for certain advertisers etc.[^c-6c99e93863f32d0514a2dc1478856387]
 
 A person (“A”) who advertises that a Games ticket is available for purchase from, or makes a ticket available for sale by, another person (“B”) does not commit a touting offence if—
 
@@ -275,15 +275,15 @@ A person (“A”) who advertises that a Games ticket is available for purchase 
   - (ii) make a profit as a result of the sale, and
 - (b) A does not, and could not reasonably be expected to, know B's intention.
 
-### 19. Use of internet etc.[^key-5da7195ef908e35c3e6eb3a50e1f81e3]
+### 19. Use of internet etc.[^c-5da7195ef908e35c3e6eb3a50e1f81e3]
 
 Ministers may by regulations specify circumstances in which making facilities available in connection with electronic communications or the storage of data is, or is not, to be capable of constituting a touting offence.
 
 ### 20. Authorised ticket sales
 
-(1)[^key-704d2382a25a984256ac182b4b9fe1a1] An authorisation given for the purposes of section 17(4)(b) may be subject to conditions imposed by the Organising Committee.
+(1)[^c-704d2382a25a984256ac182b4b9fe1a1] An authorisation given for the purposes of section 17(4)(b) may be subject to conditions imposed by the Organising Committee.
 
-(2)[^key-704d2382a25a984256ac182b4b9fe1a1] For example, an authorisation may be subject to conditions—
+(2)[^c-704d2382a25a984256ac182b4b9fe1a1] For example, an authorisation may be subject to conditions—
 
 - (a) requiring the authorised person to produce evidence of the authorisation to any enforcement officer or constable who requests it,
 - (b) which are—
@@ -292,13 +292,13 @@ Ministers may by regulations specify circumstances in which making facilities av
 
   the conditions of any other licence held by the authorised person.
 
-(3)[^key-704d2382a25a984256ac182b4b9fe1a1] An authorisation must be given in writing (and an authorisation which is transmitted by electronic means is to be treated as being in writing if it is received in legible form and capable of being used for subsequent reference).
+(3)[^c-704d2382a25a984256ac182b4b9fe1a1] An authorisation must be given in writing (and an authorisation which is transmitted by electronic means is to be treated as being in writing if it is received in legible form and capable of being used for subsequent reference).
 
-(4)[^key-2d8ff4c5e01e4fad17fefd7079a2561c] Ministers may by regulations provide that any fee charged by the Organising Committee in connection with an authorisation (or an application for authorisation) is not to exceed such amount as may be specified in, or determined in accordance with, the regulations.
+(4)[^c-2d8ff4c5e01e4fad17fefd7079a2561c] Ministers may by regulations provide that any fee charged by the Organising Committee in connection with an authorisation (or an application for authorisation) is not to exceed such amount as may be specified in, or determined in accordance with, the regulations.
 
 ## Enforcement
 
-### 21. Enforcement officers[^key-fb2129c4570c24ba50e32b6bca90158c]
+### 21. Enforcement officers[^c-fb2129c4570c24ba50e32b6bca90158c]
 
 (1) “Enforcement officers” are individuals designated as such by the Organising Committee.
 
@@ -309,7 +309,7 @@ Ministers may by regulations specify circumstances in which making facilities av
 
 (3) Enforcement officers have the functions conferred on them by virtue of this Act.
 
-### 22. General enforcement power[^key-90a84073b0e6d27f37b5dba15f84b38b]
+### 22. General enforcement power[^c-90a84073b0e6d27f37b5dba15f84b38b]
 
 (1) An enforcement officer may take such reasonable steps as the officer considers appropriate—
 
@@ -325,7 +325,7 @@ Ministers may by regulations specify circumstances in which making facilities av
 
 (4) An enforcement officer may be assisted by any other person as may be reasonably required for the purposes of taking action under this section.
 
-### 23. Restrictions on general enforcement power[^key-584d3eda3b8f7005167fd78e8556f0a6]
+### 23. Restrictions on general enforcement power[^c-584d3eda3b8f7005167fd78e8556f0a6]
 
 (1) An infringing article may be seized by an enforcement officer only if the officer considers it appropriate to do so for the purpose of—
 
@@ -347,7 +347,7 @@ This subsection does not apply to perishable articles which no longer have any c
 
 (5) An infringing article may be destroyed only if the enforcement officer considers it appropriate to do so for the purposes mentioned in subsection (3) and does not consider seizing or concealing the article to be a reasonable alternative course of action in the circumstances.
 
-### 24. Power to enter and search[^key-0e51acfce8200ee17aece3d77dda098c]
+### 24. Power to enter and search[^c-0e51acfce8200ee17aece3d77dda098c]
 
 (1) An enforcement officer may, without warrant, enter any place and may search any place (and any vehicle, vessel, container or other thing at that place)—
 
@@ -358,7 +358,7 @@ This subsection does not apply to perishable articles which no longer have any c
 
 (3) An enforcement officer who enters a place in pursuance of this section must take reasonable steps to leave the place at least as effectively secured against unauthorised entry as the officer found it.
 
-### 25. Use of reasonable force[^key-6fd4f85dfae1cd8e91f5543463c67230]
+### 25. Use of reasonable force[^c-6fd4f85dfae1cd8e91f5543463c67230]
 
 (1) An enforcement officer may use, or authorise the use of, reasonable force when taking action under section 22 or 24—
 
@@ -377,7 +377,7 @@ This subsection does not apply to perishable articles which no longer have any c
 - (a) when it is no longer required for the purpose for which it was granted, or
 - (b) if earlier, on the expiry of such period as may be specified in it.
 
-### 26. Further restrictions on entering houses[^key-abacbd26dd99e41528c830e89651abec]
+### 26. Further restrictions on entering houses[^c-abacbd26dd99e41528c830e89651abec]
 
 (1) An enforcement officer may take action under section 22 or 24 in relation to a house or a place that can be entered only through a house only if—
 
@@ -409,7 +409,7 @@ This subsection does not apply to perishable articles which no longer have any c
 - (a) when it is no longer required for the purpose for which it was granted, or
 - (b) if earlier, on the expiry of such period as may be specified in it.
 
-### 27. Power to obtain information[^key-ffca85ff939a97a17e3065f1d1e28fe9]
+### 27. Power to obtain information[^c-ffca85ff939a97a17e3065f1d1e28fe9]
 
 (1) An enforcement officer may require any person to provide such information as the officer considers appropriate in connection with—
 
@@ -418,11 +418,11 @@ This subsection does not apply to perishable articles which no longer have any c
 
 (2) A person is not obliged to provide information under this section if the person would be entitled to refuse to provide the information in, or for the purposes of, court proceedings.
 
-### 28. Requirement to produce authority[^key-eb8a4fe0d538f87330c4b83ee2dc4f8e]
+### 28. Requirement to produce authority[^c-eb8a4fe0d538f87330c4b83ee2dc4f8e]
 
 An enforcement officer must, while doing anything under section 22, 24 or 27, produce evidence of the officer's authority to take action if requested to do so.
 
-### 29. Test purchases[^key-4301283fea7bc5d0358be77d5ad65b27]
+### 29. Test purchases[^c-4301283fea7bc5d0358be77d5ad65b27]
 
 (1) An enforcement officer may, for the purpose of discovering whether any provision made by virtue of this Act is being complied with—
 
@@ -433,29 +433,29 @@ An enforcement officer must, while doing anything under section 22, 24 or 27, pr
 
 ### 30. Compensation and recovery of costs
 
-(1)[^key-78d16bcfaec2f3268d65b3d251973fc3] A person whose property is damaged by anything done under section 22 or 24 may obtain compensation from—
+(1)[^c-78d16bcfaec2f3268d65b3d251973fc3] A person whose property is damaged by anything done under section 22 or 24 may obtain compensation from—
 
 - (a) if the damage is caused by an enforcement officer or by a constable accompanying an enforcement officer, the Organising Committee, or
-- (b) if the damage is caused by a constable who is not accompanying an enforcement officer, the Scottish Police Authority[^key-55e6ab284c05c53bd2c17e8db9959974].
+- (b) if the damage is caused by a constable who is not accompanying an enforcement officer, the Scottish Police Authority[^c-55e6ab284c05c53bd2c17e8db9959974].
 
   This subsection does not apply if the thing done relates to a Games offence committed by the person.
 
-(2)[^key-38ead2c36986fa2ab1c74267f5245b41] Ministers may by regulations make provision—
+(2)[^c-38ead2c36986fa2ab1c74267f5245b41] Ministers may by regulations make provision—
 
 - (a) about claiming compensation,
 - (b) about determining the compensation due, and
 - (c) conferring jurisdiction for determining disputed compensation on a court, tribunal or other body.
 
-(3)[^key-78d16bcfaec2f3268d65b3d251973fc3] The costs of doing anything which an enforcement officer is authorised or entitled to do by virtue of this Act are recoverable by the Organising Committee from the person who committed the Games offence to which the action relates.
+(3)[^c-78d16bcfaec2f3268d65b3d251973fc3] The costs of doing anything which an enforcement officer is authorised or entitled to do by virtue of this Act are recoverable by the Organising Committee from the person who committed the Games offence to which the action relates.
 
-### 31. Obstructing an enforcement officer[^key-63f5233bb5f505d310b071c6cfad59e6]
+### 31. Obstructing an enforcement officer[^c-63f5233bb5f505d310b071c6cfad59e6]
 
 It is an offence (“an obstruction offence”)—
 
 - (a) intentionally to prevent or obstruct an enforcement officer from doing anything which the officer is authorised or entitled to do by virtue of this Act, or
 - (b) without reasonable cause to fail to comply with a requirement made by an enforcement officer, or a constable, under section 27.
 
-### 32. Police powers[^key-a366ebfa2e8432d7d1d9b7f23fc72b2b]
+### 32. Police powers[^c-a366ebfa2e8432d7d1d9b7f23fc72b2b]
 
 (1) A constable may do anything an enforcement officer may do under sections 22 to 29.
 
@@ -463,11 +463,11 @@ It is an offence (“an obstruction offence”)—
 
 And where the restrictions imposed by sections 25 and 26 apply, the constable does not have to be accompanied by another constable.
 
-(3)[^key-2a973bd1fcb0fc46d991e9803b0aee20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2a973bd1fcb0fc46d991e9803b0aee20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-2a973bd1fcb0fc46d991e9803b0aee20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-2a973bd1fcb0fc46d991e9803b0aee20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 33. Action under sections 22 to 29: procedure[^key-790a85d7903cc3ae5312b3c8224a83c6]
+### 33. Action under sections 22 to 29: procedure[^c-790a85d7903cc3ae5312b3c8224a83c6]
 
 Ministers may by regulations specify further procedure which an enforcement officer or, as the case may be, a constable must follow when doing anything under sections 22 to 29.
 
@@ -475,20 +475,20 @@ Ministers may by regulations specify further procedure which an enforcement offi
 
 ### 34. Mode of trial
 
-(1)[^key-ce1d16d1b0cf10a3b6d389f49c5d0428] Trading offences and advertising offences are triable summarily or on indictment.
+(1)[^c-ce1d16d1b0cf10a3b6d389f49c5d0428] Trading offences and advertising offences are triable summarily or on indictment.
 
-(2)[^key-1ff910a41f3f0f7801f6a40c85c8811a] Ticket touting offences and obstruction offences are triable only summarily.
+(2)[^c-1ff910a41f3f0f7801f6a40c85c8811a] Ticket touting offences and obstruction offences are triable only summarily.
 
 ### 35. Penalties
 
-(1)[^key-c1c234426a8065eb9e77b9a3b6e893b4] A person convicted of a trading offence or an advertising offence is liable—
+(1)[^c-c1c234426a8065eb9e77b9a3b6e893b4] A person convicted of a trading offence or an advertising offence is liable—
 
 - (a) on summary conviction, to a fine not exceeding £20,000,
 - (b) on conviction on indictment, to a fine.
 
-(2)[^key-264859af77fb20ccbc88b89ca5c8be92] A person convicted of a ticket touting offence or an obstruction offence is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+(2)[^c-264859af77fb20ccbc88b89ca5c8be92] A person convicted of a ticket touting offence or an obstruction offence is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 36. Offences by bodies corporate etc.[^key-7d9fda6f647b7a070104d75aa54d62eb]
+### 36. Offences by bodies corporate etc.[^c-7d9fda6f647b7a070104d75aa54d62eb]
 
 (1) Where—
 
@@ -515,7 +515,7 @@ that individual as well as the body, partnership or association is guilty of the
 
 ## Transport
 
-### 37. Transport plan[^key-bd72e2b5e713bc88f0a13ef196965e9b]
+### 37. Transport plan[^c-bd72e2b5e713bc88f0a13ef196965e9b]
 
 (1) It is for the Organising Committee to make a plan about transport matters relating to the Games (“the Games transport plan”).
 
@@ -523,10 +523,10 @@ that individual as well as the body, partnership or association is guilty of the
 
 - (a) Ministers,
 - (b) every council in whose area a Games location is situated,
-- (c)[^key-b413c5f0301728355d71a381c78ab959] the chief constable of the Police Service of Scotland,
+- (c)[^c-b413c5f0301728355d71a381c78ab959] the chief constable of the Police Service of Scotland,
 - (d) any other person whom the Organising Committee considers appropriate.
 
-### 38. Games traffic regulation orders[^key-6bb7200720ae2b6a9316895e2633de0e]
+### 38. Games traffic regulation orders[^c-6bb7200720ae2b6a9316895e2633de0e]
 
 (1) A traffic authority for a road may make an order under section 14(1) (temporary traffic regulation orders) of the Road Traffic Regulation Act 1984 (c. 27) (“**the 1984 Act**”) in relation to the road for the purposes of—
 
@@ -543,13 +543,13 @@ An order made by virtue of this subsection is called a “Games traffic regulati
 
 (4) Paragraph 2(4)(ba) of Schedule 3 to the Road Traffic Act 1991 (c. 40) (breach of order under section 14(1) of the 1984 Act in relation to waiting, loading and unloading of vehicles not to be offence in a special parking area) does not apply to section 16(1) of the 1984 Act (contravention of section 14 of the Act to be an offence) in so far as section 16(1) relates to the contravention of a Games traffic regulation order.
 
-### 39. Urgent traffic regulation measures[^key-799cf6a4b7c5f5d5f674f32ef1718235]
+### 39. Urgent traffic regulation measures[^c-799cf6a4b7c5f5d5f674f32ef1718235]
 
 (1) A traffic authority for a road may by notice restrict or prohibit temporarily the use of the road, or any part of it, by vehicles (or any type of vehicles) or pedestrians where it appears to the authority that it is necessary or expedient for any of the purposes mentioned in section 38(1) that the restriction or prohibition should come into force without delay.
 
 (2) The 1984 Act applies in relation to notices under this section as it applies in relation to notices under section 14(2) of that Act.
 
-### 40. Power to direct councils to regulate road use for Games purposes[^key-37769220169f5a36fc87afc5b8671fd0]
+### 40. Power to direct councils to regulate road use for Games purposes[^c-37769220169f5a36fc87afc5b8671fd0]
 
 (1) Ministers may direct a council to make, vary or revoke a traffic regulation instrument where they consider such action to be necessary for any of the purposes mentioned in section 38(1).
 
@@ -579,7 +579,7 @@ which the council concerned has power to make.
 
 ## Funding etc.
 
-### 41. Organising Committee: funding and other assistance[^key-ad655c20bd71e7f9044024947cfd48f9]
+### 41. Organising Committee: funding and other assistance[^c-ad655c20bd71e7f9044024947cfd48f9]
 
 (1) Ministers may provide or arrange for the provision of assistance to the Organising Committee—
 
@@ -598,7 +598,7 @@ which the council concerned has power to make.
 
 ## Compulsory acquisition of land
 
-### 42. Compulsory acquisition of land for Games purposes[^key-afd59e23f4fb5005e84ef1390755a672]
+### 42. Compulsory acquisition of land for Games purposes[^c-afd59e23f4fb5005e84ef1390755a672]
 
 (1) Part 8 of the Town and Country Planning (Scotland) Act 1997 (c. 8) (acquisition and appropriation of land for planning purposes) is to be read as if it contained the following modifications.
 
@@ -643,7 +643,7 @@ This subsection does not apply to orders made under section 49(2) (commencement 
 
 may be made unless a draft of the instrument has been laid before, and approved by a resolution of the Scottish Parliament.
 
-### 44. Consultation[^key-60cd69d38734ed0f8caab375eddb3f19]
+### 44. Consultation[^c-60cd69d38734ed0f8caab375eddb3f19]
 
 Ministers must consult the following persons before making the first trading regulations or the first advertising regulations—
 
@@ -651,7 +651,7 @@ Ministers must consult the following persons before making the first trading reg
 - (b) the Organising Committee, and
 - (c) other persons whom Ministers consider appropriate.
 
-### 45. Factors for Ministers to consider[^key-25ffba39f01a403809adb7d56240aad7]
+### 45. Factors for Ministers to consider[^c-25ffba39f01a403809adb7d56240aad7]
 
 Ministers must have regard to the following when making the trading regulations or the advertising regulations—
 
@@ -659,7 +659,7 @@ Ministers must have regard to the following when making the trading regulations 
 - (b) any requests or guidance from the Commonwealth Games Federation, and
 - (c) where relevant, the impact of the regulations on the effective operation of the Games (in particular the impact on traffic and other transport in the vicinity of Games locations).
 
-### 46. Notice[^key-0fc340ca18e31717188d0e4046926602]
+### 46. Notice[^c-0fc340ca18e31717188d0e4046926602]
 
 Ministers must give public notice—
 
@@ -765,114 +765,114 @@ This Act is called the Glasgow Commonwealth Games Act 2008.
 
 [^M_F_93a25b99-f316-4de8-9d51-6211f242ef7f]: Textual amendment: Act ceases to have effect (1.1.2015), see s. 50(1) and [S.S.I. 2014/356](https://www.legislation.gov.uk/ssi/2014/356), [art. 2](https://www.legislation.gov.uk/ssi/2014/356/article/2)
 
-[^key-dbb5af4563e1e0bbf2724c956ab7694f]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2008/4/section/1) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
+[^c-dbb5af4563e1e0bbf2724c956ab7694f]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2008/4/section/1) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
 
-[^key-f73f78b8cd3479e39685fa3f705bd16f]: Commencement: [S. 2(1)](https://www.legislation.gov.uk/asp/2008/4/section/2/1)[(2)](https://www.legislation.gov.uk/asp/2008/4/section/2/2)[(4)](https://www.legislation.gov.uk/asp/2008/4/section/2/4) in force at 1.10.2013 by [S.S.I. 2013/260](https://www.legislation.gov.uk/ssi/2013/260), [art. 2](https://www.legislation.gov.uk/ssi/2013/260/article/2)
+[^c-f73f78b8cd3479e39685fa3f705bd16f]: Commencement: [S. 2(1)](https://www.legislation.gov.uk/asp/2008/4/section/2/1)[(2)](https://www.legislation.gov.uk/asp/2008/4/section/2/2)[(4)](https://www.legislation.gov.uk/asp/2008/4/section/2/4) in force at 1.10.2013 by [S.S.I. 2013/260](https://www.legislation.gov.uk/ssi/2013/260), [art. 2](https://www.legislation.gov.uk/ssi/2013/260/article/2)
 
-[^key-e3227ebd998e5856c9a2fe7e624a6c2b]: Commencement: [S. 2(3)](https://www.legislation.gov.uk/asp/2008/4/section/2/3) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
+[^c-e3227ebd998e5856c9a2fe7e624a6c2b]: Commencement: [S. 2(3)](https://www.legislation.gov.uk/asp/2008/4/section/2/3) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
 
-[^key-4baaf9cfd4c9234dc776e2d34b1c4618]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2008/4/section/3) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
+[^c-4baaf9cfd4c9234dc776e2d34b1c4618]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2008/4/section/3) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
 
-[^key-ce75defdd3397aaa468b90af99482fe8]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2008/4/section/4) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
+[^c-ce75defdd3397aaa468b90af99482fe8]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2008/4/section/4) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
 
-[^key-600d41a40dd1fde6c357fa89cc609e3c]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2008/4/section/5) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
+[^c-600d41a40dd1fde6c357fa89cc609e3c]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2008/4/section/5) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
 
-[^key-4d0d87e7244270867bdc3921deca3e2e]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2008/4/section/6) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
+[^c-4d0d87e7244270867bdc3921deca3e2e]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2008/4/section/6) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
 
-[^key-d39564e6826e1d2318570d90b23f6c6b]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2008/4/section/7) in force at 1.10.2013 by [S.S.I. 2013/260](https://www.legislation.gov.uk/ssi/2013/260), [art. 2](https://www.legislation.gov.uk/ssi/2013/260/article/2)
+[^c-d39564e6826e1d2318570d90b23f6c6b]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2008/4/section/7) in force at 1.10.2013 by [S.S.I. 2013/260](https://www.legislation.gov.uk/ssi/2013/260), [art. 2](https://www.legislation.gov.uk/ssi/2013/260/article/2)
 
-[^key-36d7bf8ee458ca2fd7f8fa93b259ed2d]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2008/4/section/8) in force at 1.10.2013 by [S.S.I. 2013/260](https://www.legislation.gov.uk/ssi/2013/260), [art. 2](https://www.legislation.gov.uk/ssi/2013/260/article/2)
+[^c-36d7bf8ee458ca2fd7f8fa93b259ed2d]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2008/4/section/8) in force at 1.10.2013 by [S.S.I. 2013/260](https://www.legislation.gov.uk/ssi/2013/260), [art. 2](https://www.legislation.gov.uk/ssi/2013/260/article/2)
 
-[^key-d16fca9f2e614875fcf33e628a166c01]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2008/4/section/9) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
+[^c-d16fca9f2e614875fcf33e628a166c01]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2008/4/section/9) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
 
-[^key-51fae6e1228faa3a8b45da91d4523a08]: Commencement: [S. 10(1)](https://www.legislation.gov.uk/asp/2008/4/section/10/1)[(3)](https://www.legislation.gov.uk/asp/2008/4/section/10/3) in force at 1.10.2013 by [S.S.I. 2013/260](https://www.legislation.gov.uk/ssi/2013/260), [art. 2](https://www.legislation.gov.uk/ssi/2013/260/article/2)
+[^c-51fae6e1228faa3a8b45da91d4523a08]: Commencement: [S. 10(1)](https://www.legislation.gov.uk/asp/2008/4/section/10/1)[(3)](https://www.legislation.gov.uk/asp/2008/4/section/10/3) in force at 1.10.2013 by [S.S.I. 2013/260](https://www.legislation.gov.uk/ssi/2013/260), [art. 2](https://www.legislation.gov.uk/ssi/2013/260/article/2)
 
-[^key-7b632f1cdb0050951bc10c6d1af5c6e3]: Commencement: [S. 10(2)](https://www.legislation.gov.uk/asp/2008/4/section/10/2) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
+[^c-7b632f1cdb0050951bc10c6d1af5c6e3]: Commencement: [S. 10(2)](https://www.legislation.gov.uk/asp/2008/4/section/10/2) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
 
-[^key-070927c0f221f55733fb213848aac021]: Commencement: [S. 11(1)-(3)](https://www.legislation.gov.uk/asp/2008/4/section/11/1) in force at 1.10.2013 by [S.S.I. 2013/260](https://www.legislation.gov.uk/ssi/2013/260), [art. 2](https://www.legislation.gov.uk/ssi/2013/260/article/2)
+[^c-070927c0f221f55733fb213848aac021]: Commencement: [S. 11(1)-(3)](https://www.legislation.gov.uk/asp/2008/4/section/11/1) in force at 1.10.2013 by [S.S.I. 2013/260](https://www.legislation.gov.uk/ssi/2013/260), [art. 2](https://www.legislation.gov.uk/ssi/2013/260/article/2)
 
-[^key-f89f170e31c5fe6dc3a7d7683d00ffdc]: Commencement: [S. 11(4)](https://www.legislation.gov.uk/asp/2008/4/section/11/4) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
+[^c-f89f170e31c5fe6dc3a7d7683d00ffdc]: Commencement: [S. 11(4)](https://www.legislation.gov.uk/asp/2008/4/section/11/4) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
 
-[^key-8ac8992073f593f5d6d1e2f8e4557837]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2008/4/section/12) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
+[^c-8ac8992073f593f5d6d1e2f8e4557837]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2008/4/section/12) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
 
-[^key-f484b285cf25faf2b717136c8cd1ca97]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2008/4/section/13) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
+[^c-f484b285cf25faf2b717136c8cd1ca97]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2008/4/section/13) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
 
-[^key-0101112259f9a84a008bfa298c2025a5]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2008/4/section/14) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
+[^c-0101112259f9a84a008bfa298c2025a5]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2008/4/section/14) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
 
-[^key-72f4d8bd158305431eba739674fffbd6]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2008/4/section/15) in force at 1.10.2013 by [S.S.I. 2013/260](https://www.legislation.gov.uk/ssi/2013/260), [art. 2](https://www.legislation.gov.uk/ssi/2013/260/article/2)
+[^c-72f4d8bd158305431eba739674fffbd6]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2008/4/section/15) in force at 1.10.2013 by [S.S.I. 2013/260](https://www.legislation.gov.uk/ssi/2013/260), [art. 2](https://www.legislation.gov.uk/ssi/2013/260/article/2)
 
-[^key-14b1198b84a1f2817e4096343024ff73]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2008/4/section/16) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
+[^c-14b1198b84a1f2817e4096343024ff73]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2008/4/section/16) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
 
-[^key-2651462e4f0d9c6d947883c585ba89b5]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2008/4/section/17) in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
+[^c-2651462e4f0d9c6d947883c585ba89b5]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2008/4/section/17) in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
 
-[^key-6c99e93863f32d0514a2dc1478856387]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2008/4/section/18) in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
+[^c-6c99e93863f32d0514a2dc1478856387]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2008/4/section/18) in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
 
-[^key-5da7195ef908e35c3e6eb3a50e1f81e3]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2008/4/section/19) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
+[^c-5da7195ef908e35c3e6eb3a50e1f81e3]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2008/4/section/19) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
 
-[^key-704d2382a25a984256ac182b4b9fe1a1]: Commencement: [S. 20(1)-(3)](https://www.legislation.gov.uk/asp/2008/4/section/20/1) in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
+[^c-704d2382a25a984256ac182b4b9fe1a1]: Commencement: [S. 20(1)-(3)](https://www.legislation.gov.uk/asp/2008/4/section/20/1) in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
 
-[^key-2d8ff4c5e01e4fad17fefd7079a2561c]: Commencement: [S. 20(4)](https://www.legislation.gov.uk/asp/2008/4/section/20/4) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
+[^c-2d8ff4c5e01e4fad17fefd7079a2561c]: Commencement: [S. 20(4)](https://www.legislation.gov.uk/asp/2008/4/section/20/4) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
 
-[^key-fb2129c4570c24ba50e32b6bca90158c]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2008/4/section/21) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
+[^c-fb2129c4570c24ba50e32b6bca90158c]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2008/4/section/21) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
 
-[^key-90a84073b0e6d27f37b5dba15f84b38b]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2008/4/section/22) in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
+[^c-90a84073b0e6d27f37b5dba15f84b38b]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2008/4/section/22) in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
 
-[^key-584d3eda3b8f7005167fd78e8556f0a6]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2008/4/section/23) in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
+[^c-584d3eda3b8f7005167fd78e8556f0a6]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2008/4/section/23) in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
 
-[^key-0e51acfce8200ee17aece3d77dda098c]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2008/4/section/24) in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
+[^c-0e51acfce8200ee17aece3d77dda098c]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2008/4/section/24) in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
 
-[^key-6fd4f85dfae1cd8e91f5543463c67230]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2008/4/section/25) in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
+[^c-6fd4f85dfae1cd8e91f5543463c67230]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2008/4/section/25) in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
 
-[^key-abacbd26dd99e41528c830e89651abec]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2008/4/section/26) in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
+[^c-abacbd26dd99e41528c830e89651abec]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2008/4/section/26) in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
 
-[^key-ffca85ff939a97a17e3065f1d1e28fe9]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2008/4/section/27) in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
+[^c-ffca85ff939a97a17e3065f1d1e28fe9]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2008/4/section/27) in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
 
-[^key-eb8a4fe0d538f87330c4b83ee2dc4f8e]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2008/4/section/28) in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
+[^c-eb8a4fe0d538f87330c4b83ee2dc4f8e]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2008/4/section/28) in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
 
-[^key-4301283fea7bc5d0358be77d5ad65b27]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2008/4/section/29) in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
+[^c-4301283fea7bc5d0358be77d5ad65b27]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2008/4/section/29) in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
 
-[^key-78d16bcfaec2f3268d65b3d251973fc3]: Commencement: S. 30(1)(3) in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
+[^c-78d16bcfaec2f3268d65b3d251973fc3]: Commencement: S. 30(1)(3) in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
 
-[^key-55e6ab284c05c53bd2c17e8db9959974]: Textual amendment: Words in [s. 30(1)(b)](https://www.legislation.gov.uk/asp/2008/4/section/30/1/b) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 38(2)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/38/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-55e6ab284c05c53bd2c17e8db9959974]: Textual amendment: Words in [s. 30(1)(b)](https://www.legislation.gov.uk/asp/2008/4/section/30/1/b) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 38(2)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/38/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-38ead2c36986fa2ab1c74267f5245b41]: Commencement: S. 30(2) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
+[^c-38ead2c36986fa2ab1c74267f5245b41]: Commencement: S. 30(2) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
 
-[^key-63f5233bb5f505d310b071c6cfad59e6]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2008/4/section/31) in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
+[^c-63f5233bb5f505d310b071c6cfad59e6]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2008/4/section/31) in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
 
-[^key-a366ebfa2e8432d7d1d9b7f23fc72b2b]: Commencement: S. 32 in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
+[^c-a366ebfa2e8432d7d1d9b7f23fc72b2b]: Commencement: S. 32 in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
 
-[^key-2a973bd1fcb0fc46d991e9803b0aee20]: Textual amendment: [S. 32(3)](https://www.legislation.gov.uk/asp/2008/4/section/32/3)[(4)](https://www.legislation.gov.uk/asp/2008/4/section/32/4) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 22](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/22); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-2a973bd1fcb0fc46d991e9803b0aee20]: Textual amendment: [S. 32(3)](https://www.legislation.gov.uk/asp/2008/4/section/32/3)[(4)](https://www.legislation.gov.uk/asp/2008/4/section/32/4) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 22](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/22); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
 
-[^key-790a85d7903cc3ae5312b3c8224a83c6]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2008/4/section/33) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
+[^c-790a85d7903cc3ae5312b3c8224a83c6]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2008/4/section/33) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
 
-[^key-ce1d16d1b0cf10a3b6d389f49c5d0428]: Commencement: [S. 34(1)](https://www.legislation.gov.uk/asp/2008/4/section/34/1) in force at 1.10.2013 by [S.S.I. 2013/260](https://www.legislation.gov.uk/ssi/2013/260), [art. 2](https://www.legislation.gov.uk/ssi/2013/260/article/2)
+[^c-ce1d16d1b0cf10a3b6d389f49c5d0428]: Commencement: [S. 34(1)](https://www.legislation.gov.uk/asp/2008/4/section/34/1) in force at 1.10.2013 by [S.S.I. 2013/260](https://www.legislation.gov.uk/ssi/2013/260), [art. 2](https://www.legislation.gov.uk/ssi/2013/260/article/2)
 
-[^key-1ff910a41f3f0f7801f6a40c85c8811a]: Commencement: [S. 34(2)](https://www.legislation.gov.uk/asp/2008/4/section/34/2) in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
+[^c-1ff910a41f3f0f7801f6a40c85c8811a]: Commencement: [S. 34(2)](https://www.legislation.gov.uk/asp/2008/4/section/34/2) in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
 
-[^key-c1c234426a8065eb9e77b9a3b6e893b4]: Commencement: [S. 35(1)](https://www.legislation.gov.uk/asp/2008/4/section/35/1) in force at 1.10.2013 by [S.S.I. 2013/260](https://www.legislation.gov.uk/ssi/2013/260), [art. 2](https://www.legislation.gov.uk/ssi/2013/260/article/2)
+[^c-c1c234426a8065eb9e77b9a3b6e893b4]: Commencement: [S. 35(1)](https://www.legislation.gov.uk/asp/2008/4/section/35/1) in force at 1.10.2013 by [S.S.I. 2013/260](https://www.legislation.gov.uk/ssi/2013/260), [art. 2](https://www.legislation.gov.uk/ssi/2013/260/article/2)
 
-[^key-264859af77fb20ccbc88b89ca5c8be92]: Commencement: [S. 35(2)](https://www.legislation.gov.uk/asp/2008/4/section/35/2) in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
+[^c-264859af77fb20ccbc88b89ca5c8be92]: Commencement: [S. 35(2)](https://www.legislation.gov.uk/asp/2008/4/section/35/2) in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
 
-[^key-7d9fda6f647b7a070104d75aa54d62eb]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2008/4/section/36) in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
+[^c-7d9fda6f647b7a070104d75aa54d62eb]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2008/4/section/36) in force at 29.11.2012 by [S.S.I. 2012/261](https://www.legislation.gov.uk/ssi/2012/261), [art. 2](https://www.legislation.gov.uk/ssi/2012/261/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/261/schedule)
 
-[^key-bd72e2b5e713bc88f0a13ef196965e9b]: Commencement: S. 37 in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
+[^c-bd72e2b5e713bc88f0a13ef196965e9b]: Commencement: S. 37 in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
 
-[^key-b413c5f0301728355d71a381c78ab959]: Textual amendment: [S. 37(2)(c)](https://www.legislation.gov.uk/asp/2008/4/section/37/2/c) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 38(3)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/38/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-b413c5f0301728355d71a381c78ab959]: Textual amendment: [S. 37(2)(c)](https://www.legislation.gov.uk/asp/2008/4/section/37/2/c) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 38(3)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/38/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-6bb7200720ae2b6a9316895e2633de0e]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2008/4/section/38) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
+[^c-6bb7200720ae2b6a9316895e2633de0e]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2008/4/section/38) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
 
-[^key-799cf6a4b7c5f5d5f674f32ef1718235]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2008/4/section/39) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
+[^c-799cf6a4b7c5f5d5f674f32ef1718235]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2008/4/section/39) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
 
-[^key-37769220169f5a36fc87afc5b8671fd0]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2008/4/section/40) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
+[^c-37769220169f5a36fc87afc5b8671fd0]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2008/4/section/40) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
 
-[^key-ad655c20bd71e7f9044024947cfd48f9]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2008/4/section/41) in force at 20.6.2008 by [S.S.I. 2008/245](https://www.legislation.gov.uk/ssi/2008/245), [art. 2](https://www.legislation.gov.uk/ssi/2008/245/article/2)
+[^c-ad655c20bd71e7f9044024947cfd48f9]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2008/4/section/41) in force at 20.6.2008 by [S.S.I. 2008/245](https://www.legislation.gov.uk/ssi/2008/245), [art. 2](https://www.legislation.gov.uk/ssi/2008/245/article/2)
 
-[^key-afd59e23f4fb5005e84ef1390755a672]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2008/4/section/42) in force at 20.6.2008 by [S.S.I. 2008/245](https://www.legislation.gov.uk/ssi/2008/245), [art. 2](https://www.legislation.gov.uk/ssi/2008/245/article/2)
+[^c-afd59e23f4fb5005e84ef1390755a672]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2008/4/section/42) in force at 20.6.2008 by [S.S.I. 2008/245](https://www.legislation.gov.uk/ssi/2008/245), [art. 2](https://www.legislation.gov.uk/ssi/2008/245/article/2)
 
-[^key-60cd69d38734ed0f8caab375eddb3f19]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2008/4/section/44) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
+[^c-60cd69d38734ed0f8caab375eddb3f19]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2008/4/section/44) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
 
-[^key-25ffba39f01a403809adb7d56240aad7]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2008/4/section/45) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
+[^c-25ffba39f01a403809adb7d56240aad7]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2008/4/section/45) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
 
-[^key-0fc340ca18e31717188d0e4046926602]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2008/4/section/46) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
+[^c-0fc340ca18e31717188d0e4046926602]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2008/4/section/46) in force at 13.11.2009 by [S.S.I. 2009/377](https://www.legislation.gov.uk/ssi/2009/377), [art. 2](https://www.legislation.gov.uk/ssi/2009/377/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/377/schedule)
 
 [^M_P_f90e0fbd-b571-4909-965e-49532bd0e773]: Subordinate legislation: S. 50(2): 1.1.2015 appointed as the repeal day by [S.S.I. 2014/356](https://www.legislation.gov.uk/ssi/2014/356), [art. 2](https://www.legislation.gov.uk/ssi/2014/356/article/2)

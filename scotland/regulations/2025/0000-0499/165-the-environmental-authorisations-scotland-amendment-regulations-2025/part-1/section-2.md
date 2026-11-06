@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Interpretation[^key-4119107459ec1a3130a54e8bd19022c3]
+## 2. Interpretation[^c-4119107459ec1a3130a54e8bd19022c3]
 
 *Extent: S*
 
@@ -27,7 +27,7 @@ In these Regulations—
 
 ## Annotations
 
-[^key-4119107459ec1a3130a54e8bd19022c3]: Commencement: Reg. 2 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)
+[^c-4119107459ec1a3130a54e8bd19022c3]: Commencement: Reg. 2 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)
 
 [^f00002]: Footnote: [S.S.I. 2013/323](https://www.legislation.gov.uk/ssi/2013/323), amended by [S.S.I. 2015/211](https://www.legislation.gov.uk/ssi/2015/211), [S.S.I. 2017/389](https://www.legislation.gov.uk/ssi/2017/389), [S.S.I. 2019/26](https://www.legislation.gov.uk/ssi/2019/26) and [S.S.I. 2023/374](https://www.legislation.gov.uk/ssi/2023/374).
 

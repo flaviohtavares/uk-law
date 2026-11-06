@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)  The appropriate regulator[^key-8b26b5b58175132d7d9cc8696779786a] may give notice in writing (a “restriction notice”) to a person in the following circumstances.
+(1)  The appropriate regulator[^c-8b26b5b58175132d7d9cc8696779786a] may give notice in writing (a “restriction notice”) to a person in the following circumstances.
 
 (2) The circumstances are that—
 
 - (a) the person has control over a UK authorised person by virtue of holding shares or voting power; and
 - (b) in relation to the shares or voting power, the appropriate regulator has given the person a warning notice or a decision notice under section 189 or 191A or a final notice which confirms a decision notice given under section 189 or 191A.
 
-(2A)[^key-0e617333243c04e920cec9407eccca3b] Where the appropriate regulator is the PRA, it must consult the FCA before giving a restriction notice under this section.
+(2A)[^c-0e617333243c04e920cec9407eccca3b] Where the appropriate regulator is the PRA, it must consult the FCA before giving a restriction notice under this section.
 
 (2B) Where the appropriate regulator is the FCA, it must consult the PRA before giving a restriction notice under this section if—
 
@@ -41,7 +41,7 @@ summary: ''
 - (c) no further shares are to be issued in pursuance of any right of the holder of any such shares or voting power or in pursuance of any offer made to their holder;
 - (d) except in a liquidation, no payment is to be made of any sums due from the body corporate on any such shares, whether in respect of capital or otherwise.
 
-(3A)[^key-bf86afa2832bb0c035c5532ecea99101] Subsection (3)(a) and (b) does not apply where the voting power represented by the shares in question is suspended under section 190A(2).
+(3A)[^c-bf86afa2832bb0c035c5532ecea99101] Subsection (3)(a) and (b) does not apply where the voting power represented by the shares in question is suspended under section 190A(2).
 
 (4) A restriction notice takes effect—
 
@@ -61,8 +61,8 @@ summary: ''
 
 [^c2081646]: Textual amendment: Ss. 178-191G and cross-headings substituted (21.3.2009) for ss. 178-191 and cross-headings by [The Financial Services and Markets Act 2000 (Controllers) Regulations 2009 (S.I. 2009/534)](https://www.legislation.gov.uk/uksi/2009/534), [reg. 3](https://www.legislation.gov.uk/uksi/2009/534/regulation/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/534/schedule/1) (with [reg. 8](https://www.legislation.gov.uk/uksi/2009/534/regulation/8))
 
-[^key-8b26b5b58175132d7d9cc8696779786a]: Textual amendment: Words in Pt. 12 substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 26(2)](https://www.legislation.gov.uk/ukpga/2012/21/section/26/2), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-8b26b5b58175132d7d9cc8696779786a]: Textual amendment: Words in Pt. 12 substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 26(2)](https://www.legislation.gov.uk/ukpga/2012/21/section/26/2), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-0e617333243c04e920cec9407eccca3b]: Textual amendment: S. 191B(2A)(2B) inserted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 26(8)](https://www.legislation.gov.uk/ukpga/2012/21/section/26/8), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-0e617333243c04e920cec9407eccca3b]: Textual amendment: S. 191B(2A)(2B) inserted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 26(8)](https://www.legislation.gov.uk/ukpga/2012/21/section/26/8), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-bf86afa2832bb0c035c5532ecea99101]: Textual amendment: S. 191B(3A) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [33(3)](https://www.legislation.gov.uk/uksi/2016/1239/article/33/3)
+[^c-bf86afa2832bb0c035c5532ecea99101]: Textual amendment: S. 191B(3A) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [33(3)](https://www.legislation.gov.uk/uksi/2016/1239/article/33/3)

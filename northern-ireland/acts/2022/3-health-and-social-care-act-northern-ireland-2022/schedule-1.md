@@ -24,27 +24,27 @@ Section 2.
 
 ### Factories Act (Northern Ireland) 1965
 
-**1.**[^key-36f5fc8b02ec515ad91dd18a2f7d0aac][^key-f6ef65b8ceafa2022ec90bbba437fd57] In section 176(1) of the Factories Act (Northern Ireland) 1965, omit the definition of “Health and Social Services Board”.
+**1.**[^c-36f5fc8b02ec515ad91dd18a2f7d0aac][^c-f6ef65b8ceafa2022ec90bbba437fd57] In section 176(1) of the Factories Act (Northern Ireland) 1965, omit the definition of “Health and Social Services Board”.
 
 ### Children and Young Persons Act (Northern Ireland) 1968
 
-**2.**[^key-fbd1eed97ae51e6a4a031517797a85bf][^key-f2a55243d34a2fb6ac219f3a0657150e] In section 96(1) of the Children and Young Persons Act (Northern Ireland) 1968, omit “Board or”.
+**2.**[^c-fbd1eed97ae51e6a4a031517797a85bf][^c-f2a55243d34a2fb6ac219f3a0657150e] In section 96(1) of the Children and Young Persons Act (Northern Ireland) 1968, omit “Board or”.
 
 ### Superannuation (Northern Ireland) Order 1972
 
-**3.**[^key-bc77b33b7fc6c2ca89d85a4eecc806c8][^key-8594f610e879ff84d5c798d923c7eae4] In Schedule 1 to the Superannuation (Northern Ireland) Order 1972, omit the reference to the Regional Health and Social Care Board.
+**3.**[^c-bc77b33b7fc6c2ca89d85a4eecc806c8][^c-8594f610e879ff84d5c798d923c7eae4] In Schedule 1 to the Superannuation (Northern Ireland) Order 1972, omit the reference to the Regional Health and Social Care Board.
 
 ### Health and Personal Social Services (Northern Ireland) Order 1972
 
-**4.**[^key-c53c3ee97c46311e557bbd2ac8af4698][^key-058fefec91690c4229ee782abb1c9754] The 1972 Order is amended as follows.
+**4.**[^c-c53c3ee97c46311e557bbd2ac8af4698][^c-058fefec91690c4229ee782abb1c9754] The 1972 Order is amended as follows.
 
-**5.**[^key-8a5c51c2779dec4a79cfc14a7c4ec081][^key-29aa09c9116c7437d9879618a3e56122] In Article 2(2), after the definition of “Article 15B arrangements” insert—
+**5.**[^c-8a5c51c2779dec4a79cfc14a7c4ec081][^c-29aa09c9116c7437d9879618a3e56122] In Article 2(2), after the definition of “Article 15B arrangements” insert—
 
 > - authorised HSC trust” means an HSC trust that is exercising social care and children functions within the meaning of Article 10A of the Health and Personal Social Services (Northern Ireland) Order 1991;
 
 .
 
-**6.**[^key-d5eafdcc9417f5c0f68cc3ed4cde0c39][^key-c2f6b4dc5611ce5c07022dc215125cc1] (1) Article 15 is amended as follows.
+**6.**[^c-d5eafdcc9417f5c0f68cc3ed4cde0c39][^c-c2f6b4dc5611ce5c07022dc215125cc1] (1) Article 15 is amended as follows.
 
 (2) Before paragraph (1) insert—
 
@@ -75,7 +75,7 @@ Section 2.
 
 (9) In paragraph (7) (as inserted by section 121(2) of the Immigration and Asylum Act 1999) for “the Department” substitute “an HSC trust”.
 
-**7.**[^key-887a5a133ae410b4dc4aa99183dd5619][^key-207823316e02de7dfb16bbba53f7f679] (1) Article 15B is amended as follows.
+**7.**[^c-887a5a133ae410b4dc4aa99183dd5619][^c-207823316e02de7dfb16bbba53f7f679] (1) Article 15B is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -87,13 +87,13 @@ Section 2.
 
 (4) Omit paragraphs (4) and (5).
 
-**8.**[^key-39447b7114cb7ab9de95721ea2145be9][^key-253883a2446b34754ad815f078453449] (1) Article 15C is amended as follows.
+**8.**[^c-39447b7114cb7ab9de95721ea2145be9][^c-253883a2446b34754ad815f078453449] (1) Article 15C is amended as follows.
 
 (2) In paragraph (1), for “A Health and Social Services Board” substitute “The Department”.
 
 (3) In paragraph (2), in the definition of “HSC employee”, for “a Health and Social Services Board” substitute “the RBSO”.
 
-**9.**[^key-2b53cdbcdfedae94b64d6e5aa6a30f70][^key-5d85d91b90aa75e639e61f85486233cc] (1) Article 15D is amended as follows.
+**9.**[^c-2b53cdbcdfedae94b64d6e5aa6a30f70][^c-5d85d91b90aa75e639e61f85486233cc] (1) Article 15D is amended as follows.
 
 (2) In paragraphs (2) and (3), for “Health and Social Services Boards” substitute “the Department”.
 
@@ -123,13 +123,13 @@ Section 2.
 
 .
 
-**10.**[^key-9d7a0a82ad3c37f112288d385407fa70][^key-98e3124e047317cb8d93234204c87de5] Omit Article 17.
+**10.**[^c-9d7a0a82ad3c37f112288d385407fa70][^c-98e3124e047317cb8d93234204c87de5] Omit Article 17.
 
-**11.**[^key-a7c0bbf1b504f6fa901caee2cb186ff8][^key-31ce2cd64b21f4367eb6e78540047518] In Article 18(6), omit sub-paragraphs (a) and (b).
+**11.**[^c-a7c0bbf1b504f6fa901caee2cb186ff8][^c-31ce2cd64b21f4367eb6e78540047518] In Article 18(6), omit sub-paragraphs (a) and (b).
 
-**12.**[^key-31e9fbcdd82b4c4c8de6ba21d8e30de8][^key-ac43244fa4acde387f44dd44af58df6f] In Article 21(1), in sub-paragraphs (a) and (b), for “the Regional Board” substitute “the Department”.
+**12.**[^c-31e9fbcdd82b4c4c8de6ba21d8e30de8][^c-ac43244fa4acde387f44dd44af58df6f] In Article 21(1), in sub-paragraphs (a) and (b), for “the Regional Board” substitute “the Department”.
 
-**13.**[^key-71f6b74f48e54b0c22642ab2a4883d5c][^key-1df818873f020269b8a591dfa29d05d2] (1) Article 36 is amended as follows.
+**13.**[^c-71f6b74f48e54b0c22642ab2a4883d5c][^c-1df818873f020269b8a591dfa29d05d2] (1) Article 36 is amended as follows.
 
 (2) In paragraph (2A), for the words from “the ordinary residence” to the end substitute “whether a person is ordinarily resident in the operational area of an authorised HSC trust is to be determined by the trust.”.
 
@@ -155,12 +155,12 @@ Section 2.
 - (a) for “The Department” substitute “An HSC trust”;
 - (b) for “**the Department**” (in both places) substitute “the trust”.
 
-**14.**[^key-12d1904bbde10a22e0164a351b5a3a53][^key-d9e2df8d069b8e72d128340631fcc174] In Article 37—
+**14.**[^c-12d1904bbde10a22e0164a351b5a3a53][^c-d9e2df8d069b8e72d128340631fcc174] In Article 37—
 
 - (a) for “The Ministry” substitute “Each authorised HSC trust”;
 - (b) after “for persons” insert “within its operational area”.
 
-**15.**[^key-b03532bd06de218172ad24954809e9ab][^key-150220f49828426ec45078ad44f0add3] (1) Article 38 is amended as follows.
+**15.**[^c-b03532bd06de218172ad24954809e9ab][^c-150220f49828426ec45078ad44f0add3] (1) Article 38 is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -180,7 +180,7 @@ Section 2.
 
 (5) In paragraph (4), for “The Ministry” substitute “An HSC trust”.
 
-**16.**[^key-7d22190ffcf6ee2ba22aa220b16bda26][^key-5545e228799890e22d3a8afdfa181b4c] (1) Article 39 is amended as follows.
+**16.**[^c-7d22190ffcf6ee2ba22aa220b16bda26][^c-5545e228799890e22d3a8afdfa181b4c] (1) Article 39 is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -191,11 +191,11 @@ Section 2.
 
 (4) In paragraphs (3) and (4), for “the Ministry” substitute “the trust”.
 
-**17.**[^key-50eeaa7e19e19b9b2cf76a7318712419][^key-d9b5f231b1ee667733b62a20c69f6452] In Article 51, omit the words from “authorise” to “itself”.
+**17.**[^c-50eeaa7e19e19b9b2cf76a7318712419][^c-d9b5f231b1ee667733b62a20c69f6452] In Article 51, omit the words from “authorise” to “itself”.
 
-**18.**[^key-7b973edd966ad8b664a2849cd74eb9c5][^key-bdf98eeb4fcd023954aa0b59c47fca9d] In Article 53(1A), omit sub-paragraph (a).
+**18.**[^c-7b973edd966ad8b664a2849cd74eb9c5][^c-bdf98eeb4fcd023954aa0b59c47fca9d] In Article 53(1A), omit sub-paragraph (a).
 
-**19.**[^key-852c0bbb2c765a15d02996470462df35][^key-c7b80c6c5508ad09e0993c6c8c5d1ff6] (1) Article 55 is amended as follows.
+**19.**[^c-852c0bbb2c765a15d02996470462df35][^c-c7b80c6c5508ad09e0993c6c8c5d1ff6] (1) Article 55 is amended as follows.
 
 (2) In paragraph (2), for “A Health and Social Services Board” substitute “The Department”.
 
@@ -203,7 +203,7 @@ Section 2.
 
 (4) In paragraphs (4), (5) and (6), for “the Health and Social Services Board” substitute “the Department”.
 
-**20.**[^key-8add59db5191c4a83f2c5d2e6d9bb381][^key-a8cd03110fed4716a7b19602f9217fef] (1) Article 55A is amended as follows.
+**20.**[^c-8add59db5191c4a83f2c5d2e6d9bb381][^c-a8cd03110fed4716a7b19602f9217fef] (1) Article 55A is amended as follows.
 
 (2) In paragraph (1), for “a Health and Social Services Board” substitute “the Department”.
 
@@ -216,7 +216,7 @@ Section 2.
 
 (5) In paragraphs (6) and (7), for “the Health and Social Services Board” substitute “the Department”.
 
-**21.**[^key-4fc2f22225a915719eeb023213ed6979][^key-5552615e5323b83dc19737b762b73791] (1) Article 55B is amended as follows.
+**21.**[^c-4fc2f22225a915719eeb023213ed6979][^c-5552615e5323b83dc19737b762b73791] (1) Article 55B is amended as follows.
 
 (2) In paragraph (1), for “A Health and Social Services Board” substitute “The Department”.
 
@@ -229,7 +229,7 @@ Section 2.
 - (a) for “A Health and Social Services Board” substitute “The Department”;
 - (b) for “the Board” substitute “the Department”.
 
-**22.**[^key-9bb7d7495a9d6978a0f03fd728b0d02e][^key-009dbbaa0cc0e1cfda960837d7ba3107] (1) Article 56 is amended as follows.
+**22.**[^c-9bb7d7495a9d6978a0f03fd728b0d02e][^c-009dbbaa0cc0e1cfda960837d7ba3107] (1) Article 56 is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -240,15 +240,15 @@ Section 2.
 
 (4) In paragraph (3), for “Each Health and Social Services Board” substitute “The Department”.
 
-**23.**[^key-72fe3c6577f2843c8d06d060b2625380][^key-fd1b29ce8cb1ab92fe42248dcb66ee3a] (1) Article 57 is amended as follows.
+**23.**[^c-72fe3c6577f2843c8d06d060b2625380][^c-fd1b29ce8cb1ab92fe42248dcb66ee3a] (1) Article 57 is amended as follows.
 
 (2) In paragraph (1), for “A Health and Social Services Board” substitute “The Department”.
 
 (3) In paragraphs (3) and (5), for “the Health and Social Services Board” substitute “the Department”.
 
-**24.**[^key-c09535f470694d6b7b60713620dbe2d3][^key-a0c74eca473b392e45aadb9b149836b8] In Article 57B(1), for “A Health and Social Services Board” substitute “The Department”.
+**24.**[^c-c09535f470694d6b7b60713620dbe2d3][^c-a0c74eca473b392e45aadb9b149836b8] In Article 57B(1), for “A Health and Social Services Board” substitute “The Department”.
 
-**25.**[^key-582686675a1ee06c2ba2524a3dc12e9b][^key-c33111fb19c2e970d5df1b287111a6fd] (1) Article 57C is amended as follows.
+**25.**[^c-582686675a1ee06c2ba2524a3dc12e9b][^c-c33111fb19c2e970d5df1b287111a6fd] (1) Article 57C is amended as follows.
 
 (2) In paragraph (1), for “give directions as to” substitute “make a scheme providing for”.
 
@@ -272,9 +272,9 @@ Section 2.
 
 .
 
-**26.**[^key-59565f16285f7c45ab8f952f8cd51259][^key-f96fa25ba30dd7c3b65cd374b520194d] In Article 57E(4)(a), for “a Health and Social Services Board” substitute “the Department”.
+**26.**[^c-59565f16285f7c45ab8f952f8cd51259][^c-f96fa25ba30dd7c3b65cd374b520194d] In Article 57E(4)(a), for “a Health and Social Services Board” substitute “the Department”.
 
-**27.**[^key-82806101c16c1a2d5cc4300f07e7268d][^key-e484220a77ce1ac59b58d0f8784308b7] (1) Article 57F is amended as follows.
+**27.**[^c-82806101c16c1a2d5cc4300f07e7268d][^c-e484220a77ce1ac59b58d0f8784308b7] (1) Article 57F is amended as follows.
 
 (2) In paragraph (2)—
 
@@ -291,7 +291,7 @@ Section 2.
 
 .
 
-**28.**[^key-cf62c8c8f7c1b42c5b166c9621855700][^key-d9a06744f58d9801cb9d7e46fa32d7b9] (1) Article 57G is amended as follows.
+**28.**[^c-cf62c8c8f7c1b42c5b166c9621855700][^c-d9a06744f58d9801cb9d7e46fa32d7b9] (1) Article 57G is amended as follows.
 
 (2) In paragraphs (1), (2) and (3), for “a Health and Social Services Board” substitute “the Department”.
 
@@ -310,19 +310,19 @@ Section 2.
 
 (6) Omit paragraph (4).
 
-**29.**[^key-393e256b6c066b6a77039e1d52aef381][^key-17220c4bb2404091d075f7e49bf8e3fa] (1) Article 57H is amended as follows.
+**29.**[^c-393e256b6c066b6a77039e1d52aef381][^c-17220c4bb2404091d075f7e49bf8e3fa] (1) Article 57H is amended as follows.
 
 (2) In paragraph (1), for “A Health and Social Services Board” substitute “The Department”.
 
 (3) In paragraph (2), for “a Health and Social Services Board” and “the Board” substitute “the Department”.
 
-**30.**[^key-5d251b5f29a6e919abc7f0dae5c17569][^key-b3e4cfaa98177a415b9f43dc4e2c00d9] For Article 59 substitute—
+**30.**[^c-5d251b5f29a6e919abc7f0dae5c17569][^c-b3e4cfaa98177a415b9f43dc4e2c00d9] For Article 59 substitute—
 
 > **59.** Schedule 9 makes provision for the making of loans by the Department to practitioners providing primary medical services..Department to practitioners providing primary medical services.
 
 .
 
-**31.**[^key-4956e435aa98d8400153264eb41755c4][^key-100a1331f939c828582fab9c60faa924] (1) Article 61 is amended as follows.
+**31.**[^c-4956e435aa98d8400153264eb41755c4][^c-100a1331f939c828582fab9c60faa924] (1) Article 61 is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -343,7 +343,7 @@ Section 2.
 
 .
 
-**32.**[^key-052a5ddb323077ba7e94181da449d085][^key-78cb418efb341d33f28c076052b9e344] (1) Article 62 is amended as follows.
+**32.**[^c-052a5ddb323077ba7e94181da449d085][^c-78cb418efb341d33f28c076052b9e344] (1) Article 62 is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -361,7 +361,7 @@ Section 2.
 
 .
 
-**33.**[^key-e1b831e2fc3bed708c3153aa3f168451][^key-875d5610e4b90fb8ce978e502934780b] (1) Article 63 is amended as follows.
+**33.**[^c-e1b831e2fc3bed708c3153aa3f168451][^c-875d5610e4b90fb8ce978e502934780b] (1) Article 63 is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -374,7 +374,7 @@ Section 2.
 - (a) for “a Health and Social Services Board” substitute “the Department”;
 - (b) omit “in the Board’s area”.
 
-**34.**[^key-61b4998ccc9fa14b8c372ed4620c91bb][^key-114e6d08d907b59a7cb9f888f812cff5] (1) Article 63AA is amended as follows.
+**34.**[^c-61b4998ccc9fa14b8c372ed4620c91bb][^c-114e6d08d907b59a7cb9f888f812cff5] (1) Article 63AA is amended as follows.
 
 (2) In paragraph (2), for “a Health and Social Services Board” and “the Health and Social Services Board” substitute “the Department”.
 
@@ -394,7 +394,7 @@ Section 2.
 
 .
 
-**35.**[^key-e03efa89752626793822b8b056f1d248][^key-83bbbf09634252824aac4a1a8f93c2fd] For Articles 63A and 63B substitute—
+**35.**[^c-e03efa89752626793822b8b056f1d248][^c-83bbbf09634252824aac4a1a8f93c2fd] For Articles 63A and 63B substitute—
 
 > **63A. Additional pharmaceutical services**
 >
@@ -434,7 +434,7 @@ Section 2.
 
 .
 
-**36.**[^key-998691c1211b74020d069edb8fb08248][^key-7d0d721a2e8c5aa600f2a791d8f74124] (1) Article 64 is amended as follows.
+**36.**[^c-998691c1211b74020d069edb8fb08248][^c-7d0d721a2e8c5aa600f2a791d8f74124] (1) Article 64 is amended as follows.
 
 (2) In paragraphs (1) and (1A), for “a Health and Social Services Board” substitute “the Department”.
 
@@ -442,23 +442,23 @@ Section 2.
 
 (4) In paragraph (2), omit “a direction under”.
 
-**37.**[^key-331480641e39d6361600b53132e32c63][^key-39dbea6d2aa15324bd33cfb39d522f17] (1) Article 64C is amended as follows.
+**37.**[^c-331480641e39d6361600b53132e32c63][^c-39dbea6d2aa15324bd33cfb39d522f17] (1) Article 64C is amended as follows.
 
 (2) In paragraph (2), for “a Health and Social Services Board”, “the Board” and “that Board” substitute “the Department”.
 
 (3) In paragraph (3), in the definition of “indemnity cover”, for “a Health and Social Services Board” substitute “the Department”.
 
-**38.**[^key-b875f8a8b085685257a689bcc2c3196c][^key-cf2c796e9f065bd9fb2281e406ba9aff] Article 79 is omitted.
+**38.**[^c-b875f8a8b085685257a689bcc2c3196c][^c-cf2c796e9f065bd9fb2281e406ba9aff] Article 79 is omitted.
 
-**39.**[^key-b48b271bdc187380406788682676fe15][^key-5a90e42e552292042dfa6bf2d51a94d7] Article 80 is omitted.
+**39.**[^c-b48b271bdc187380406788682676fe15][^c-5a90e42e552292042dfa6bf2d51a94d7] Article 80 is omitted.
 
-**40.**[^key-97868328e9880dc566ae1f4878559cf5][^key-9afca6cae12f0eb6a5b2f61cf981fe91] (1) Article 81 is omitted so far as it relates to Health and Social Services Boards.
+**40.**[^c-97868328e9880dc566ae1f4878559cf5][^c-9afca6cae12f0eb6a5b2f61cf981fe91] (1) Article 81 is omitted so far as it relates to Health and Social Services Boards.
 
 (2) But that Article continues to apply to any property transferred to an HSC trust or the trustees for an HSC trust as mentioned in Article 16(8) of the 1991 Order.
 
-**41.**[^key-94b9819937b789097b8327b03b126f5d][^key-ca7fd4fa5093cc6d72c7d914b9671764] Article 82 is omitted.
+**41.**[^c-94b9819937b789097b8327b03b126f5d][^c-ca7fd4fa5093cc6d72c7d914b9671764] Article 82 is omitted.
 
-**42.**[^key-7b9aea77921ae81062bc84e29fbba203][^key-947feae13553bf8104dc1e7be7100722] (1) Article 83 is amended as follows.
+**42.**[^c-7b9aea77921ae81062bc84e29fbba203][^c-947feae13553bf8104dc1e7be7100722] (1) Article 83 is amended as follows.
 
 (2) In paragraph (1), omit “a Health and Social Services Board or”.
 
@@ -466,7 +466,7 @@ Section 2.
 
 (4) Omit paragraph (2).
 
-**43.**[^key-e4752e7528206d603035c8e2d0603d81][^key-507cf71f812c360ad97aee9b61315b27] (1) Article 85 is amended as follows.
+**43.**[^c-e4752e7528206d603035c8e2d0603d81][^c-507cf71f812c360ad97aee9b61315b27] (1) Article 85 is amended as follows.
 
 (2) In paragraph (1), omit “A Health and Social Services Board or”.
 
@@ -477,18 +477,18 @@ Section 2.
 
 (4) For the heading substitute “Power for certain health bodies to accept property on trust, etc”.
 
-**44.**[^key-366f2fd0aad3c5556b56ff467bdbcffa][^key-8b0a2a957fe1cb7902d57b0050a56ba9] (1) Article 86 is amended as follows.
+**44.**[^c-366f2fd0aad3c5556b56ff467bdbcffa][^c-8b0a2a957fe1cb7902d57b0050a56ba9] (1) Article 86 is amended as follows.
 
 (2) In paragraph (1)—
 
 - (a) in sub-paragraph (a), omit “Health and Social Services Boards or”;
 - (b) omit “a Health and Social Services Board,”.
 
-**45.**[^key-f64093530e098ab023a754c1afe6d9d2][^key-8f76fbbdb4785fed24b6eff7670c8731] In Article 91(6), omit sub-paragraph (a).
+**45.**[^c-f64093530e098ab023a754c1afe6d9d2][^c-8f76fbbdb4785fed24b6eff7670c8731] In Article 91(6), omit sub-paragraph (a).
 
-**46.**[^key-081e07ecd38a09ea19334da13f06c28d][^key-d9574529fde3be8aec341e5124b734f4] In Article 92B(3), omit sub-paragraph (a).
+**46.**[^c-081e07ecd38a09ea19334da13f06c28d][^c-d9574529fde3be8aec341e5124b734f4] In Article 92B(3), omit sub-paragraph (a).
 
-**47.**[^key-a0adb0c7b9cc915fa8a1366789fbd785][^key-d5f9b9fad99b048c564df199aa39114e] (1) Article 99 is amended as follows.
+**47.**[^c-a0adb0c7b9cc915fa8a1366789fbd785][^c-d5f9b9fad99b048c564df199aa39114e] (1) Article 99 is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -517,7 +517,7 @@ Section 2.
 
 (7) In the heading to the Article, for “Department” substitute “HSC trust”.
 
-**48.**[^key-96ddf577a2efdfda1941225006d8ff1a][^key-015784aba45ea450a1e55b618b10a5f2] (1) Article 101 is amended as follows.
+**48.**[^c-96ddf577a2efdfda1941225006d8ff1a][^c-015784aba45ea450a1e55b618b10a5f2] (1) Article 101 is amended as follows.
 
 (2) In paragraph (1), for “the Ministry” substitute “the appropriate HSC trust”.
 
@@ -529,7 +529,7 @@ Section 2.
 
 (4) In paragraphs (4) and (5), for “the Ministry” substitute “the trust”.
 
-**49.**[^key-b134d91fdedcbf09ae53d222a11c2b60][^key-9ba0ae359b14aecc5e706e5033866d33] (1) Article 101A is amended as follows.
+**49.**[^c-b134d91fdedcbf09ae53d222a11c2b60][^c-9ba0ae359b14aecc5e706e5033866d33] (1) Article 101A is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -544,7 +544,7 @@ Section 2.
 
 .
 
-**50.**[^key-2cac98b073602d76ddee03b2bee2596f][^key-d26681a528f70e02239ee96d1fc7af7b] (1) Schedule 6 is amended as follows.
+**50.**[^c-2cac98b073602d76ddee03b2bee2596f][^c-d26681a528f70e02239ee96d1fc7af7b] (1) Schedule 6 is amended as follows.
 
 (2) In paragraph 8—
 
@@ -557,7 +557,7 @@ Section 2.
 
 .
 
-**51.**[^key-3da191b5c8ba5001678d63a2c05e4374][^key-49cf15653fa427b55f89c25df4d4fe5a] (1) Schedule 9 is amended as follows.
+**51.**[^c-3da191b5c8ba5001678d63a2c05e4374][^c-49cf15653fa427b55f89c25df4d4fe5a] (1) Schedule 9 is amended as follows.
 
 (2) In paragraph 1, for the words from “The Ministry” to “Boards to” substitute “The Department may, in accordance with paragraphs 1A to 5,”.
 
@@ -608,7 +608,7 @@ Section 2.
   - (ii) for “the Ministry of Finance” substitute “the Department of Finance”;
   - (iii) for “**that Ministry**” (in each place) substitute “the Department of Finance”.
 
-**52.**[^key-88b12d7196e1fdd59c789fd10852bee0][^key-f3b6d6fe810978c2d294955b6ff6a274] (1) Schedule 10 is amended as follows.
+**52.**[^c-88b12d7196e1fdd59c789fd10852bee0][^c-f3b6d6fe810978c2d294955b6ff6a274] (1) Schedule 10 is amended as follows.
 
 (2) In paragraph 1(1), omit “and has never carried on the practice”.
 
@@ -618,7 +618,7 @@ Section 2.
 - (b) in sub-paragraph (3), for “Health and Social Services Board” and “Board” substitute “Department”;
 - (c) in sub-paragraphs (4), (6) and (7), for “the Health and Social Services Board” substitute “the Department”.
 
-**53.**[^key-131c050b8ce102d9166e28932394cbfa][^key-8a163eaa2b43b6a05815368b62dd3f91] (1) Schedule 11 is amended as follows.
+**53.**[^c-131c050b8ce102d9166e28932394cbfa][^c-8a163eaa2b43b6a05815368b62dd3f91] (1) Schedule 11 is amended as follows.
 
 (2) In paragraph 1(2), for “the Regional Board” substitute “the Department”.
 
@@ -649,11 +649,11 @@ Section 2.
 
 (9) In paragraph 17(1), for “Health and Social Services Boards” substitute “the Department”.
 
-**54.**[^key-d1ba8f4778d6c9ad2baff9453d1bfe45][^key-9dfc7675b059868310355cfb52a519c1] (1) Schedule 14 is omitted so far as it relates to Health and Social Services Boards.
+**54.**[^c-d1ba8f4778d6c9ad2baff9453d1bfe45][^c-9dfc7675b059868310355cfb52a519c1] (1) Schedule 14 is omitted so far as it relates to Health and Social Services Boards.
 
 (2) But that Schedule continues to apply to all endowments (and income thereof) transferred to an HSC trust or the trustees for an HSC trust as mentioned in Article 16(7) of the 1991 Order.
 
-**55.**[^key-752ccd3daaafd46e0d97ebba819c7e16][^key-cd1e9ad2642643cc705542a9eac0e496] (1) Schedule 15 is amended as follows.
+**55.**[^c-752ccd3daaafd46e0d97ebba819c7e16][^c-cd1e9ad2642643cc705542a9eac0e496] (1) Schedule 15 is amended as follows.
 
 (2) In paragraph 2, for “the Health and Social Services Boards” substitute “the Department”.
 
@@ -666,11 +666,11 @@ Section 2.
 
 ### Solicitors (Northern Ireland) Order 1976
 
-**56.**[^key-656f1fe54093b3286581c85fbf3f98dd][^key-2a4005a02e3764b5b9452aeca8988013] In Article 3(2) of the Solicitors (Northern Ireland) Order 1976, in the definition of “local authority”, omit “the Regional Health and Social Care Board,”.
+**56.**[^c-656f1fe54093b3286581c85fbf3f98dd][^c-2a4005a02e3764b5b9452aeca8988013] In Article 3(2) of the Solicitors (Northern Ireland) Order 1976, in the definition of “local authority”, omit “the Regional Health and Social Care Board,”.
 
 ### Pharmacy (Northern Ireland) Order 1976
 
-**57.**[^key-51751e0b055ca4ab60959104d5e17370][^key-ea3523ed2e01572781a2e5609322beb1] In Article 8AA(9) of the Pharmacy (Northern Ireland) Order 1976, for sub-paragraph (d) substitute—
+**57.**[^c-51751e0b055ca4ab60959104d5e17370][^c-ea3523ed2e01572781a2e5609322beb1] In Article 8AA(9) of the Pharmacy (Northern Ireland) Order 1976, for sub-paragraph (d) substitute—
 
 > - (d) the Department.
 
@@ -678,9 +678,9 @@ Section 2.
 
 ### Chronically Sick and Disabled Persons (Northern Ireland) Act 1978
 
-**58.**[^key-cd25d28b299d60916fbd4dfc9996a19f][^key-b1ce7ba16ab16753e52de80533e32980] The Chronically Sick and Disabled Persons (Northern Ireland) Act 1978 is amended as follows.
+**58.**[^c-cd25d28b299d60916fbd4dfc9996a19f][^c-b1ce7ba16ab16753e52de80533e32980] The Chronically Sick and Disabled Persons (Northern Ireland) Act 1978 is amended as follows.
 
-**59.**[^key-55d8843203fe3308de4f1344e0c33a42][^key-47025df34eed31cc7f1a1793d55bc2a8] (1) Section 1 is amended as follows.
+**59.**[^c-55d8843203fe3308de4f1344e0c33a42][^c-47025df34eed31cc7f1a1793d55bc2a8] (1) Section 1 is amended as follows.
 
 (2) In subsection (1), omit “by that Department”.
 
@@ -696,7 +696,7 @@ Section 2.
 
 .
 
-**60.**[^key-11ec488464437acd8d374c541d3eb989][^key-554182016fb60a81e82c7a6b28da4874] (1) Section 2 is amended as follows.
+**60.**[^c-11ec488464437acd8d374c541d3eb989][^c-554182016fb60a81e82c7a6b28da4874] (1) Section 2 is amended as follows.
 
 (2) The existing text of section 2 becomes subsection (1) of that section.
 
@@ -718,7 +718,7 @@ Section 2.
 
 .
 
-**61.**[^key-64f4f6bf6ba9b1b8fa5628fde0e72cbe][^key-6975805050dcf866a707d01d32b8248f] (1) Section 12 is amended as follows.
+**61.**[^c-64f4f6bf6ba9b1b8fa5628fde0e72cbe][^c-6975805050dcf866a707d01d32b8248f] (1) Section 12 is amended as follows.
 
 (2) In subsection (1), for “The Department of Health and Social Services for Northern Ireland” substitute “Each authorised HSC trust”.
 
@@ -732,29 +732,29 @@ Section 2.
 
 ### Health and Safety at Work (Northern Ireland) Order 1978
 
-**62.**[^key-f98eb3b935010cb9599abc079bb99580][^key-941dcc2087e1ad01bad0dea702e6a0d3] In Article 50 of the Health and Safety at Work (Northern Ireland) Order 1978—
+**62.**[^c-f98eb3b935010cb9599abc079bb99580][^c-941dcc2087e1ad01bad0dea702e6a0d3] In Article 50 of the Health and Safety at Work (Northern Ireland) Order 1978—
 
 - (a) for “Health and Social Services Board” substitute “Health and Social Care trust”;
 - (b) for “that Board” substitute “that trust”.
 
 ### Judgments Enforcement (Northern Ireland) Order 1981
 
-**63.**[^key-f0ceb6362d8b642c40f454cb0bcfd59d][^key-cdc7f333a8bc786b765aaa906e5238fa] In Article 54 of the Judgments Enforcement (Northern Ireland) Order 1981—
+**63.**[^c-f0ceb6362d8b642c40f454cb0bcfd59d][^c-cdc7f333a8bc786b765aaa906e5238fa] In Article 54 of the Judgments Enforcement (Northern Ireland) Order 1981—
 
 - (a) in paragraph (2), for “the Health and Social Services Board” substitute “the Health and Social Care trust”;
 - (b) in the heading, for “Health and Social Services Board” substitute “Health and Social Care trust”.
 
 ### Legal Aid, Advice and Assistance (Northern Ireland) Order 1981
 
-**64.**[^key-11e405eef43c8bf2033d3143d537e8ed][^key-0db8b6754e6ebc9cb8cb2592a549b9fa] Omit Article 10(5A)(a) of the Legal Aid, Advice and Assistance (Northern Ireland) Order 1981.
+**64.**[^c-11e405eef43c8bf2033d3143d537e8ed][^c-0db8b6754e6ebc9cb8cb2592a549b9fa] Omit Article 10(5A)(a) of the Legal Aid, Advice and Assistance (Northern Ireland) Order 1981.
 
 ### Diseases of Animals (Northern Ireland) Order 1981
 
-**65.**[^key-07a470df27300db57a3227f88be7e9da][^key-b5dfc54f4bc4a6c0d20c4e01ad10d45b] In Article 10(5) of the Diseases of Animals (Northern Ireland) Order 1981, for the words from “the Health and Social” to “Order 1972” substitute “the Regional Agency for Public Health and Social Well-being and the Health and Social Care trust”.
+**65.**[^c-07a470df27300db57a3227f88be7e9da][^c-b5dfc54f4bc4a6c0d20c4e01ad10d45b] In Article 10(5) of the Diseases of Animals (Northern Ireland) Order 1981, for the words from “the Health and Social” to “Order 1972” substitute “the Regional Agency for Public Health and Social Well-being and the Health and Social Care trust”.
 
 ### Dentists Act 1984
 
-**66.**[^key-c871a1a300b4d0b01af772719d85013d][^key-b1822655577a8a09b2caa092127375c9] (1) The Dentists Act 1984 is amended as follows.
+**66.**[^c-c871a1a300b4d0b01af772719d85013d][^c-b1822655577a8a09b2caa092127375c9] (1) The Dentists Act 1984 is amended as follows.
 
 (2) In section 26B(8)—
 
@@ -794,9 +794,9 @@ Section 2.
 
 ### Mental Health (Northern Ireland) Order 1986
 
-**67.**[^key-6e633221b3144e3feb8cd3e793dc1836][^key-a87d4fc7153f2ea5b806bf49526f0cec] The Mental Health (Northern Ireland) Order 1986 is amended as follows.
+**67.**[^c-6e633221b3144e3feb8cd3e793dc1836][^c-a87d4fc7153f2ea5b806bf49526f0cec] The Mental Health (Northern Ireland) Order 1986 is amended as follows.
 
-**68.**[^key-3568b620582e155c68b91e64bacf5834][^key-625513ef416ccfe96e9075384920c875] (1) Article 2 is amended as follows.
+**68.**[^c-3568b620582e155c68b91e64bacf5834][^c-625513ef416ccfe96e9075384920c875] (1) Article 2 is amended as follows.
 
 (2) In paragraph (2)—
 
@@ -811,28 +811,28 @@ Section 2.
 
 (3) In paragraph (2B), for the words from “by which functions” to the end of the paragraph substitute “that is exercising social care and children functions within the meaning of Article 10A of the Health and Personal Social Services (Northern Ireland) Order 1991.”.
 
-**69.**[^key-087679d9cca8612fd039b3bfca3af4b4][^key-e2dd409f4d840e34471122754ade4eec] In Article 8(3), omit “a Board or”.
+**69.**[^c-087679d9cca8612fd039b3bfca3af4b4][^c-e2dd409f4d840e34471122754ade4eec] In Article 8(3), omit “a Board or”.
 
-**70.**[^key-4d009a22301ac36bcf0b3f0ecc1816e3][^key-08c40ddc20e860f3d31519425f69ac9f] In Article 16(3)(f), omit “Board or”.
+**70.**[^c-4d009a22301ac36bcf0b3f0ecc1816e3][^c-08c40ddc20e860f3d31519425f69ac9f] In Article 16(3)(f), omit “Board or”.
 
-**71.**[^key-510471c033c57f7e397d681176eeb2f5][^key-f3619e1b5cefd59ff1cca6a78a3fbccc] In Article 22(1), omit “**Board,**” (in both places).
+**71.**[^c-510471c033c57f7e397d681176eeb2f5][^c-f3619e1b5cefd59ff1cca6a78a3fbccc] In Article 22(1), omit “**Board,**” (in both places).
 
-**72.**[^key-a6ab39509c8851f333c2d799c83e2dc6][^key-c283c7cb2b0ebea77679f0ea989cd2c5] In Article 25, omit “**a Board or**” (in both places).
+**72.**[^c-a6ab39509c8851f333c2d799c83e2dc6][^c-c283c7cb2b0ebea77679f0ea989cd2c5] In Article 25, omit “**a Board or**” (in both places).
 
-**73.**[^key-8798dddd667715ba78e20dbc7fb37f2c][^key-5391c8b59a3d19f26b5259661b988485] In Article 26(b), omit “Boards and”.
+**73.**[^c-8798dddd667715ba78e20dbc7fb37f2c][^c-5391c8b59a3d19f26b5259661b988485] In Article 26(b), omit “Boards and”.
 
-**74.**[^key-db976a17ad512c64365ac6ba9b9d9e42][^key-b90d30965a1a81bc8ac68c707a5f57df] (1) Article 28 is amended as follows.
+**74.**[^c-db976a17ad512c64365ac6ba9b9d9e42][^c-b90d30965a1a81bc8ac68c707a5f57df] (1) Article 28 is amended as follows.
 
 (2) In paragraphs (1) and (5), for “A Board or” substitute “An”.
 
 (3) In paragraph (4)(b), omit “the Board or”.
 
-**75.**[^key-918414cd14d5da9006f7329ee1dc7941][^key-3cce4af2bdcebf7343c9f9a2404b3177] In Article 33—
+**75.**[^c-918414cd14d5da9006f7329ee1dc7941][^c-3cce4af2bdcebf7343c9f9a2404b3177] In Article 33—
 
 - (a) for “a Board or” substitute “an”;
 - (b) omit “**Board or**” (in the second place).
 
-**76.**[^key-a6131d6a1361983a528418e13d0133d3][^key-1c33822836a45d4fa0fb35294d8a9e62] (1) Article 40 is amended as follows.
+**76.**[^c-a6131d6a1361983a528418e13d0133d3][^c-1c33822836a45d4fa0fb35294d8a9e62] (1) Article 40 is amended as follows.
 
 (2) In paragraphs (1) and (3), omit “Board or”.
 
@@ -840,7 +840,7 @@ Section 2.
 
 (4) Omit paragraph (6).
 
-**77.**[^key-aa3eb93812864ed4b860a520b6a1c796][^key-0a209f811432e07b30e424025c92cac6] (1) Article 42 is amended as follows.
+**77.**[^c-aa3eb93812864ed4b860a520b6a1c796][^c-0a209f811432e07b30e424025c92cac6] (1) Article 42 is amended as follows.
 
 (2) In paragraph (1), for “the Department” substitute “such authorised HSC trust as it may specify”.
 
@@ -850,13 +850,13 @@ Section 2.
 
 (5) In paragraph (9)(d), omit “the Board or”.
 
-**78.**[^key-4494275a6c91096806ce33e3ce2bc6b4][^key-aeb4ca01cbf422747eb4859e67351c0b] (1) Article 43 is amended as follows.
+**78.**[^c-4494275a6c91096806ce33e3ce2bc6b4][^c-aeb4ca01cbf422747eb4859e67351c0b] (1) Article 43 is amended as follows.
 
 (2) In paragraph (1), for “the Department” substitute “such authorised HSC trust as it may specify”.
 
 (3) In paragraph (3), for “the Department” substitute “the trust which it proposes to specify”.
 
-**79.**[^key-ce87627b777e5564d091d1ee2feb9a95][^key-43624303ca211b5849580ea960582531] (1) Article 44 is amended as follows.
+**79.**[^c-ce87627b777e5564d091d1ee2feb9a95][^c-43624303ca211b5849580ea960582531] (1) Article 44 is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -865,13 +865,13 @@ Section 2.
 
 (3) In paragraph (5), for “the Department” substitute “the trust which it proposes to specify”.
 
-**80.**[^key-157847f3878698d1aeeb9ae41cff666d][^key-3445468f87994b7dc6b653a4022d4e42] (1) Article 45 is amended as follows.
+**80.**[^c-157847f3878698d1aeeb9ae41cff666d][^c-3445468f87994b7dc6b653a4022d4e42] (1) Article 45 is amended as follows.
 
 (2) In paragraph (1), for “the Department” substitute “such authorised HSC trust as it may specify”.
 
 (3) In paragraph (3), for “the Department” substitute “the trust which it proposes to specify”.
 
-**81.**[^key-b1b6e05556fbfaff8a218fd73b48d90b][^key-40d3f8b63d99ed30443c785ceb552503] (1) Article 46 is amended as follows.
+**81.**[^c-b1b6e05556fbfaff8a218fd73b48d90b][^c-40d3f8b63d99ed30443c785ceb552503] (1) Article 46 is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -890,15 +890,15 @@ Section 2.
 
 (5) In paragraph (5), omit “Board,”.
 
-**82.**[^key-ba89523bf42204a0394271037aef243c][^key-44337910c17bad291b4e626ed528c547] In Article 48(3)(a), for “the Department” substitute “the HSC trust”.
+**82.**[^c-ba89523bf42204a0394271037aef243c][^c-44337910c17bad291b4e626ed528c547] In Article 48(3)(a), for “the Department” substitute “the HSC trust”.
 
-**83.**[^key-0163a4e7bd68e825a33b39bd0d3e3223][^key-2fe8376060c687c3945ab79ecf8267fa] In Article 50A(4), for “the Department” substitute “the authorised HSC trust in which the hospital is vested”.
+**83.**[^c-0163a4e7bd68e825a33b39bd0d3e3223][^c-2fe8376060c687c3945ab79ecf8267fa] In Article 50A(4), for “the Department” substitute “the authorised HSC trust in which the hospital is vested”.
 
-**84.**[^key-486feec515df7ee6831633851533eb91][^key-75d1b20c191e5c6240ee5993cda1ae8d] In Article 61(2), omit “Board or”.
+**84.**[^c-486feec515df7ee6831633851533eb91][^c-75d1b20c191e5c6240ee5993cda1ae8d] In Article 61(2), omit “Board or”.
 
-**85.**[^key-9d9e0801a33137f3a7d8dce8a2bedd40][^key-c21e7449b82d9e620367c84f04f1885b] In the heading to Article 73, for “Boards” substitute “responsible authorities”.
+**85.**[^c-9d9e0801a33137f3a7d8dce8a2bedd40][^c-c21e7449b82d9e620367c84f04f1885b] In the heading to Article 73, for “Boards” substitute “responsible authorities”.
 
-**86.**[^key-52bd19a08ccdde092ab0896a88ebd263][^key-ce31c169cbb08dd7adaa761fb919d63b] (1) Article 86(2) is amended as follows.
+**86.**[^c-52bd19a08ccdde092ab0896a88ebd263][^c-ce31c169cbb08dd7adaa761fb919d63b] (1) Article 86(2) is amended as follows.
 
 (2) In sub-paragraph (c)—
 
@@ -912,7 +912,7 @@ Section 2.
 
 (4) In sub-paragraph (e), omit “a Board,”.
 
-**87.**[^key-3886c6e4420f543c813c1c8577110340][^key-c4ab92a5352d1f0493698d29868683a6] (1) Article 107 is amended as follows.
+**87.**[^c-3886c6e4420f543c813c1c8577110340][^c-c4ab92a5352d1f0493698d29868683a6] (1) Article 107 is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -921,11 +921,11 @@ Section 2.
 
 (3) Omit paragraph (1A).
 
-**88.**[^key-677339f0b8996d09701585169498b3b4][^key-f65501f910f8d0309874ad92187152ef] In the heading to Part 9, for “AND BOARDS” substitute “, THE REGIONAL AGENCY AND HSC TRUSTS”.
+**88.**[^c-677339f0b8996d09701585169498b3b4][^c-f65501f910f8d0309874ad92187152ef] In the heading to Part 9, for “AND BOARDS” substitute “, THE REGIONAL AGENCY AND HSC TRUSTS”.
 
-**89.**[^key-e7f99b25f2642e507b99cf9442e138e3][^key-8d2f8b947e76c5a2d2f355d4cf36c946] In Article 111(1)(a), omit “Boards,”.
+**89.**[^c-e7f99b25f2642e507b99cf9442e138e3][^c-8d2f8b947e76c5a2d2f355d4cf36c946] In Article 111(1)(a), omit “Boards,”.
 
-**90.**[^key-ca7903d0b6a9c4f313a0fb71507a2d7a][^key-d511e27253abd839f745e582d5d7fa6a] (1) Article 112 is amended as follows.
+**90.**[^c-ca7903d0b6a9c4f313a0fb71507a2d7a][^c-d511e27253abd839f745e582d5d7fa6a] (1) Article 112 is amended as follows.
 
 (2) In paragraph (1), for “The Regional Health and Social Care Board” substitute “HSC trusts”.
 
@@ -933,7 +933,7 @@ Section 2.
 
 (4) In the heading, for “Boards” substitute “the Regional Agency and HSC trusts”.
 
-**91.**[^key-cfe9f20c910b8231c9db2045448f10c0][^key-5a32bd16803a56ac60a75bb20e8858dc] (1) Article 113 is amended as follows.
+**91.**[^c-cfe9f20c910b8231c9db2045448f10c0][^c-5a32bd16803a56ac60a75bb20e8858dc] (1) Article 113 is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -944,7 +944,7 @@ Section 2.
 
 (4) In the heading, for “Boards” substitute “HSC trusts”.
 
-**92.**[^key-cb03d22bb4c6ccff2cee44b751ca742d][^key-cc4491165adf4e92ebb5d9385fed8401] (1) Article 114 is amended as follows.
+**92.**[^c-cb03d22bb4c6ccff2cee44b751ca742d][^c-cc4491165adf4e92ebb5d9385fed8401] (1) Article 114 is amended as follows.
 
 (2) In paragraph (1), for “a Board” substitute “an HSC trust”.
 
@@ -952,7 +952,7 @@ Section 2.
 
 (4) In the heading, for “Boards” substitute “HSC trusts”.
 
-**93.**[^key-6d50a5c34ffced50817b02ed89cce7c1][^key-b1451d6e926e0a5f06210924f4ed3ac9] (1) Article 115 is amended as follows.
+**93.**[^c-6d50a5c34ffced50817b02ed89cce7c1][^c-b1451d6e926e0a5f06210924f4ed3ac9] (1) Article 115 is amended as follows.
 
 (2) In paragraph (1), for “A Board” substitute “An authorised HSC trust”.
 
@@ -967,7 +967,7 @@ Section 2.
 
 (6) In the heading, for “Boards” substitute “authorised HSC trusts”.
 
-**94.**[^key-9ec1f155f49a51ce166f66e45cf0cd5d][^key-cc76a3a193ff9542f95413d2fa4e1ae5] (1) Article 116 is amended as follows.
+**94.**[^c-9ec1f155f49a51ce166f66e45cf0cd5d][^c-cc76a3a193ff9542f95413d2fa4e1ae5] (1) Article 116 is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -987,9 +987,9 @@ Section 2.
 
 (7) In the heading, for “Boards” substitute “HSC trusts”.
 
-**95.**[^key-a2c25a51e1233f57d5c9e55b6addd6f3][^key-1508dbb394f6bff6af48630d036df660] In the heading to Article 117, for “Boards” substitute “responsible authorities”.
+**95.**[^c-a2c25a51e1233f57d5c9e55b6addd6f3][^c-1508dbb394f6bff6af48630d036df660] In the heading to Article 117, for “Boards” substitute “responsible authorities”.
 
-**96.**[^key-c65b0e3f67f53d9f21f065366e193b74][^key-48585059b7731a33006b3d7cc2dbfcf4] (1) Article 118 is amended as follows.
+**96.**[^c-c65b0e3f67f53d9f21f065366e193b74][^c-48585059b7731a33006b3d7cc2dbfcf4] (1) Article 118 is amended as follows.
 
 (2) In paragraph (1), for “a Board” substitute “an HSC trust”.
 
@@ -1004,21 +1004,21 @@ Section 2.
 
 (6) In the heading, for “Boards” substitute “HSC trusts”.
 
-**97.**[^key-f30754620d0de9637261881aaadb64ad][^key-49b000398b99bc952975f3e0c8c63e4e] In Article 121(1), omit “a member of the Board or”.
+**97.**[^c-f30754620d0de9637261881aaadb64ad][^c-49b000398b99bc952975f3e0c8c63e4e] In Article 121(1), omit “a member of the Board or”.
 
-**98.**[^key-dc7de3a119da415bab12f7d5670efecf][^key-3c07b8522f4a3b356d8e2c5607ca36f1] (1) Article 129 is amended as follows.
+**98.**[^c-dc7de3a119da415bab12f7d5670efecf][^c-3c07b8522f4a3b356d8e2c5607ca36f1] (1) Article 129 is amended as follows.
 
 (2) In paragraphs (1) and (2), omit “of a Board or”.
 
 (3) In paragraph (7), omit “Board or”.
 
-**99.**[^key-a5993dfbba788d82a54b84474df0d662][^key-f23a71a29fc2d5fd114557313ac17bf6] In Article 133(4), omit “, a Board”.
+**99.**[^c-a5993dfbba788d82a54b84474df0d662][^c-f23a71a29fc2d5fd114557313ac17bf6] In Article 133(4), omit “, a Board”.
 
-**100.**[^key-5423352115c922f1838404813de2118c][^key-f7a0b4527a6eb2b7d881d291118b6415] (1) In Part 1 of Schedule 2, paragraph 9(a) is amended as follows.
+**100.**[^c-5423352115c922f1838404813de2118c][^c-f7a0b4527a6eb2b7d881d291118b6415] (1) In Part 1 of Schedule 2, paragraph 9(a) is amended as follows.
 
 (2) For “the Department” substitute “the trust”.
 
-**101.**[^key-f1266032eba765d3a7ce1489abaebfd9][^key-c58cbc33f0dae813eadea8380e78aa25] (1) Paragraph 3 of Schedule 2A is amended as follows.
+**101.**[^c-f1266032eba765d3a7ce1489abaebfd9][^c-c58cbc33f0dae813eadea8380e78aa25] (1) Paragraph 3 of Schedule 2A is amended as follows.
 
 (2) In sub-paragraph (1)(a)—
 
@@ -1029,9 +1029,9 @@ Section 2.
 
 ### Adoption (Northern Ireland) Order 1987
 
-**102.**[^key-8f0e6f6b498420327662692e46d2300f][^key-47529a9948f194cdce47a16e7b8ae873] The Adoption (Northern Ireland) Order 1987 is amended as follows.
+**102.**[^c-8f0e6f6b498420327662692e46d2300f][^c-47529a9948f194cdce47a16e7b8ae873] The Adoption (Northern Ireland) Order 1987 is amended as follows.
 
-**103.**[^key-91b625ddcef26ef5813c28e6bad8c67f][^key-f86ff250f6eee3ceface6a140985122d] (1) Article 2 is amended as follows.
+**103.**[^c-91b625ddcef26ef5813c28e6bad8c67f][^c-f86ff250f6eee3ceface6a140985122d] (1) Article 2 is amended as follows.
 
 (2) In paragraph (2), omit the definition of “Board”.
 
@@ -1041,25 +1041,25 @@ Section 2.
 
 (5) In paragraph (5), for “a Board or” substitute “an”.
 
-**104.**[^key-b4316854a59651b4547f23d4a9d8095a][^key-ebed701d7c38fda5fe328726d9c163f5] (1) Article 3 is amended as follows.
+**104.**[^c-b4316854a59651b4547f23d4a9d8095a][^c-ebed701d7c38fda5fe328726d9c163f5] (1) Article 3 is amended as follows.
 
 (2) Omit paragraph (1)(bb).
 
 (3) In paragraph (3), omit “a Board,”.
 
-**105.**[^key-856aefbe72a4e65c87e3bb736131409e][^key-7bddc2a4093c6085ab055d6cbe0e57aa] (1) Article 8 is amended as follows.
+**105.**[^c-856aefbe72a4e65c87e3bb736131409e][^c-7bddc2a4093c6085ab055d6cbe0e57aa] (1) Article 8 is amended as follows.
 
 (2) In paragraph (1), for “**a Board or**” (in both places) substitute “an”.
 
 (3) In paragraph (2), omit “Board or”.
 
-**106.**[^key-090b4d22062781629a799f2c4f121201][^key-942c92a295500238be833d9e083914ab] In Article 11(3)(a)(i), for “a Board or” substitute “an”.
+**106.**[^c-090b4d22062781629a799f2c4f121201][^c-942c92a295500238be833d9e083914ab] In Article 11(3)(a)(i), for “a Board or” substitute “an”.
 
-**107.**[^key-d745bd9db440f208f0cee6e5d23710b3][^key-9adc175e1328f001e25934a714397356] In Article 13(3)(b), omit “Board or”.
+**107.**[^c-d745bd9db440f208f0cee6e5d23710b3][^c-9adc175e1328f001e25934a714397356] In Article 13(3)(b), omit “Board or”.
 
-**108.**[^key-be7744791f7d810005a2e29d18bebb9d][^key-4cfa2c188ded858b652440af7f0952f7] In Article 18(2A), for “a Board or” substitute “an”.
+**108.**[^c-be7744791f7d810005a2e29d18bebb9d][^c-4cfa2c188ded858b652440af7f0952f7] In Article 18(2A), for “a Board or” substitute “an”.
 
-**109.**[^key-817c345f510aa38b08f79c4de683e1ae][^key-1e321781679fd3a8c7577b19ee31ddb9] (1) Article 22 is amended as follows.
+**109.**[^c-817c345f510aa38b08f79c4de683e1ae][^c-1e321781679fd3a8c7577b19ee31ddb9] (1) Article 22 is amended as follows.
 
 (2) In paragraphs (1), (2) and (3), omit “Board or”.
 
@@ -1069,15 +1069,15 @@ Section 2.
 
 (5) In the heading, for “Board” substitute “HSC trust”.
 
-**110.**[^key-36c22d3dcce3a41f114b881fa93c622c][^key-134cee409007c8b2814c2e66b1f9c63e] (1) Article 23 is amended as follows.
+**110.**[^c-36c22d3dcce3a41f114b881fa93c622c][^c-134cee409007c8b2814c2e66b1f9c63e] (1) Article 23 is amended as follows.
 
 (2) Omit “**Board or**” (in both places).
 
 (3) In the heading, for “Board” substitute “HSC trust”.
 
-**111.**[^key-daeb55cda4834d366e501db50189f55c][^key-ecd1ffb9f345083a239a0b2eb2411946] In Article 28(2A), for “a Board or” substitute “an”.
+**111.**[^c-daeb55cda4834d366e501db50189f55c][^c-ecd1ffb9f345083a239a0b2eb2411946] In Article 28(2A), for “a Board or” substitute “an”.
 
-**112.**[^key-5e66e882c3f909581233e3c46de2b401][^key-5d0bc187478d7f61a21cf72ec3accb47] (1) Article 29 is amended as follows.
+**112.**[^c-5e66e882c3f909581233e3c46de2b401][^c-5d0bc187478d7f61a21cf72ec3accb47] (1) Article 29 is amended as follows.
 
 (2) In paragraph (2), omit “**Board or**” (in both places).
 
@@ -1095,7 +1095,7 @@ Section 2.
 
 (6) In paragraph (6), omit “Board or”.
 
-**113.**[^key-e32f876b3f52c914697eb3ab1556f38e][^key-78d208c394c66f4ff66b8c1933a6d09a] (1) Article 32 is amended as follows.
+**113.**[^c-e32f876b3f52c914697eb3ab1556f38e][^c-78d208c394c66f4ff66b8c1933a6d09a] (1) Article 32 is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -1107,9 +1107,9 @@ Section 2.
 - (a) for “a Board or” substitute “an”;
 - (b) omit “**Board or**” (in the second place).
 
-**114.**[^key-2865b043f681ea878f77caa01e5efa73][^key-bb581c6c0b3ac1b9cca34c64f608c413] In Article 33(1) and (3)(b), omit “Board or”.
+**114.**[^c-2865b043f681ea878f77caa01e5efa73][^c-bb581c6c0b3ac1b9cca34c64f608c413] In Article 33(1) and (3)(b), omit “Board or”.
 
-**115.**[^key-3b97c8dae0726ed3bca472c276af8580][^key-6543fc241872b9e38d6771421b651082] (1) Article 34 is amended as follows.
+**115.**[^c-3b97c8dae0726ed3bca472c276af8580][^c-6543fc241872b9e38d6771421b651082] (1) Article 34 is amended as follows.
 
 (2) In paragraph (1), omit “**Board or**” (in both places).
 
@@ -1120,47 +1120,47 @@ Section 2.
 
 (4) In the heading, for “Boards” substitute “HSC trusts”.
 
-**116.**[^key-a39da72aa415a3563c3285c8bb47da9f][^key-9e55baa0e0fcfadcd941e1955e0ce82b] (1) Article 36 is amended as follows.
+**116.**[^c-a39da72aa415a3563c3285c8bb47da9f][^c-9e55baa0e0fcfadcd941e1955e0ce82b] (1) Article 36 is amended as follows.
 
 (2) Omit “**Board or**” (in each place).
 
 (3) In the heading, for “Boards” substitute “HSC trusts”.
 
-**117.**[^key-cf56362746efb870f17396d7f7ad40d6][^key-76c8daecfe217ba57c712bfea8ea5a4e] In Article 37(1)(b), for “a Board or” substitute “an”.
+**117.**[^c-cf56362746efb870f17396d7f7ad40d6][^c-76c8daecfe217ba57c712bfea8ea5a4e] In Article 37(1)(b), for “a Board or” substitute “an”.
 
-**118.**[^key-465cfbc3915e8e4da50ccd30196798dd][^key-f929d2c98f12c7c73535d0fcdba2d5c1] In Article 54(3) and (5), omit “Board or”.
+**118.**[^c-465cfbc3915e8e4da50ccd30196798dd][^c-f929d2c98f12c7c73535d0fcdba2d5c1] In Article 54(3) and (5), omit “Board or”.
 
-**119.**[^key-7802f3c1b7aa33ebb9aee014872fb588][^key-d9bf4927b4505426c43aecff4cce5c2f] In Article 70, omit “Board or”.
+**119.**[^c-7802f3c1b7aa33ebb9aee014872fb588][^c-d9bf4927b4505426c43aecff4cce5c2f] In Article 70, omit “Board or”.
 
-**120.**[^key-16514f6357ac081954e7c99162cd23de][^key-ec6f2befc537116a93cc43106cacce94] In Article 71(1)(b) and (c), for “a Board or” substitute “an”.
+**120.**[^c-16514f6357ac081954e7c99162cd23de][^c-ec6f2befc537116a93cc43106cacce94] In Article 71(1)(b) and (c), for “a Board or” substitute “an”.
 
 ### Housing (Northern Ireland) Order 1988
 
-**121.**[^key-3dc791272ef2f939c40e6708d86b3752][^key-566bfe8e75ff1f065ecf541daa68d791] The Housing (Northern Ireland) Order 1988 is amended as follows.
+**121.**[^c-3dc791272ef2f939c40e6708d86b3752][^c-566bfe8e75ff1f065ecf541daa68d791] The Housing (Northern Ireland) Order 1988 is amended as follows.
 
-**122.**[^key-fa16f2c7944769a6db56895320ae126e][^key-316785b47fb6ff9fbfadd8a1da353523] (1) Article 6A is amended as follows.
+**122.**[^c-fa16f2c7944769a6db56895320ae126e][^c-316785b47fb6ff9fbfadd8a1da353523] (1) Article 6A is amended as follows.
 
 (2) In paragraph (2), omit “and the Regional Board”.
 
 (3) Omit paragraph (5)(b).
 
-**123.**[^key-516e0d1a17afe101f20c0130f9b374b1][^key-4bbaf2938c33d3130fefe5756291e89f] In Article 6B(2), omit paragraph (b) (but not the “or” at the end).
+**123.**[^c-516e0d1a17afe101f20c0130f9b374b1][^c-4bbaf2938c33d3130fefe5756291e89f] In Article 6B(2), omit paragraph (b) (but not the “or” at the end).
 
-**124.**[^key-681cc1b0018d902a236fd48cc430783d][^key-c9920fa9d0d8ba053cd28a7705133983] In Article 6C, omit the definition of “the Regional Board”.
+**124.**[^c-681cc1b0018d902a236fd48cc430783d][^c-c9920fa9d0d8ba053cd28a7705133983] In Article 6C, omit the definition of “the Regional Board”.
 
 ### Health and Medicines (Northern Ireland) Order 1988
 
-**125.**[^key-81c1d7b7536040ddfb907caba584b5f4][^key-fe750d4e7ed1cc5225451f4371ab1829] In Article 10(4) of the Health and Medicines (Northern Ireland) Order 1988, for “a direction” substitute “arrangements made”.
+**125.**[^c-81c1d7b7536040ddfb907caba584b5f4][^c-fe750d4e7ed1cc5225451f4371ab1829] In Article 10(4) of the Health and Medicines (Northern Ireland) Order 1988, for “a direction” substitute “arrangements made”.
 
 ### Disabled Persons (Northern Ireland) Act 1989
 
-**126.**[^key-405f15e44df0e931b06f91d8e72f78b0][^key-e61399457b45bd697f73cc2c9bb42a99] The Disabled Persons (Northern Ireland) Act 1989 is amended as follows.
+**126.**[^c-405f15e44df0e931b06f91d8e72f78b0][^c-e61399457b45bd697f73cc2c9bb42a99] The Disabled Persons (Northern Ireland) Act 1989 is amended as follows.
 
-**127.**[^key-6ab14ccc0885b880288214205961fca6][^key-b81d1f47e159f03c5e0587fbe73aef96] In section 4, for “the Board” substitute “the authority”.
+**127.**[^c-6ab14ccc0885b880288214205961fca6][^c-b81d1f47e159f03c5e0587fbe73aef96] In section 4, for “the Board” substitute “the authority”.
 
-**128.**[^key-174b30375519d940692044a0f52237b0][^key-3e65d5300b4266f442666b78f7443abb] In section 5(9), in the definition of “the appropriate officer”, for the words from “means” to the end of the definition substitute “means such officer as may be appointed for the purposes of this section by the HSC trust in whose operational area the child or person is for the time being ordinarily resident.”.
+**128.**[^c-174b30375519d940692044a0f52237b0][^c-3e65d5300b4266f442666b78f7443abb] In section 5(9), in the definition of “the appropriate officer”, for the words from “means” to the end of the definition substitute “means such officer as may be appointed for the purposes of this section by the HSC trust in whose operational area the child or person is for the time being ordinarily resident.”.
 
-**129.**[^key-1fe93158ea5ad8973143693243c8b08b][^key-143839aba2fc663628a492c12ec6d715] (1) Section 7 is amended as follows.
+**129.**[^c-1fe93158ea5ad8973143693243c8b08b][^c-143839aba2fc663628a492c12ec6d715] (1) Section 7 is amended as follows.
 
 (2) In subsections (1) to (3), for “Board or HSS trust” substitute “HSC trust”.
 
@@ -1183,9 +1183,9 @@ Section 2.
 
 (6) In subsection (8), for “A Board or HSS trust” substitute “An HSC trust”.
 
-**130.**[^key-f7843f926f559dadd5c00e2fcc67513b][^key-8c65830d689e421c20eb2d932e92a29e] In the heading to section 8, for “Board” substitute “relevant authority”.
+**130.**[^c-f7843f926f559dadd5c00e2fcc67513b][^c-8c65830d689e421c20eb2d932e92a29e] In the heading to section 8, for “Board” substitute “relevant authority”.
 
-**131.**[^key-a14edc81cee30936b5f4ee0e94fdb513][^key-16b7d8c70eff356bc87af7c293f41536] In section 11(1)—
+**131.**[^c-a14edc81cee30936b5f4ee0e94fdb513][^c-16b7d8c70eff356bc87af7c293f41536] In section 11(1)—
 
 - (a) omit the definition of “Board”;
 - (b) in the definition of “hospital accommodation”, for “HSS” substitute “HSC”;
@@ -1202,14 +1202,14 @@ Section 2.
 
 ### Police and Criminal Evidence (Northern Ireland) Order 1989
 
-**132.**[^key-14abdd633e59c1bffd879b16d7fcf06f][^key-23d8f296ef42988d02c4da0758ea996c] In Article 2(2) of the Police and Criminal Evidence (Northern Ireland) Order 1989, in the definition of “parent or guardian”—
+**132.**[^c-14abdd633e59c1bffd879b16d7fcf06f][^c-23d8f296ef42988d02c4da0758ea996c] In Article 2(2) of the Police and Criminal Evidence (Northern Ireland) Order 1989, in the definition of “parent or guardian”—
 
 - (a) omit “Health and Social Services Board or”;
 - (b) after “that” omit “Board or”.
 
 ### Children Act 1989
 
-**133.**[^key-9704f5d5043048f10c14d2f47d7afdbc][^key-da5ed9f4e5973dd24a954cc539a9f3f0] In Schedule 2 to the Children Act 1989, in paragraph 24(3), for paragraph (b) substitute—
+**133.**[^c-9704f5d5043048f10c14d2f47d7afdbc][^c-da5ed9f4e5973dd24a954cc539a9f3f0] In Schedule 2 to the Children Act 1989, in paragraph 24(3), for paragraph (b) substitute—
 
 > - (b) a Health and Social Care trust established under Article 10 of the Health and Personal Social Services (Northern Ireland) Order 1991.
 
@@ -1217,7 +1217,7 @@ Section 2.
 
 ### Opticians Act 1989
 
-**134.**[^key-d60c7ead236611e3305a2e4d1147351e][^key-af8d04c16a5704cb9f9bcd4b24f57f67] In section 27(3)(e) of the Opticians Act 1989, for sub-paragraph (iii) substitute—
+**134.**[^c-d60c7ead236611e3305a2e4d1147351e][^c-af8d04c16a5704cb9f9bcd4b24f57f67] In section 27(3)(e) of the Opticians Act 1989, for sub-paragraph (iii) substitute—
 
 > - (iii) has not been certified as sight-impaired or severely sight impaired and in consequence registered as sight-impaired or severely sight-impaired in a register maintained by or on behalf of the Department of Health in Northern Ireland.
 
@@ -1225,17 +1225,17 @@ Section 2.
 
 ### Health and Personal Social Services (Special Agencies) (Northern Ireland) Order 1990
 
-**135.**[^key-874b5b5bbbf080afc012528b5a24f26a][^key-3c19d76c0f020837e7e05ec534a67334] In Article 4(3) of the Health and Personal Social Services (Special Agencies) (Northern Ireland) Order 1990, for “a Health and Social Services Board” substitute “the Regional Agency for Public Health and Social Well-being”.
+**135.**[^c-874b5b5bbbf080afc012528b5a24f26a][^c-3c19d76c0f020837e7e05ec534a67334] In Article 4(3) of the Health and Personal Social Services (Special Agencies) (Northern Ireland) Order 1990, for “a Health and Social Services Board” substitute “the Regional Agency for Public Health and Social Well-being”.
 
 ### Health and Personal Social Services (Northern Ireland) Order 1991
 
-**136.**[^key-f8c9c4d31785b6c55b6b0479a3a15094][^key-817409ac2f9a44ba40f91928607716e6] The 1991 Order is amended as follows.
+**136.**[^c-f8c9c4d31785b6c55b6b0479a3a15094][^c-817409ac2f9a44ba40f91928607716e6] The 1991 Order is amended as follows.
 
-**137.**[^key-8efd49ae7b012832253bffdd95d2e99e][^key-5423a46944e971a601d9d0c7dea5cfe4] In Article 2(2), omit the definition of “the Regional Board”.
+**137.**[^c-8efd49ae7b012832253bffdd95d2e99e][^c-5423a46944e971a601d9d0c7dea5cfe4] In Article 2(2), omit the definition of “the Regional Board”.
 
-**138.**[^key-7eb05d472de050b74ccd78ef699ac981][^key-f86bfed23839b3dd07823dd532b93698] In Article 7(6), omit sub-paragraph (a).
+**138.**[^c-7eb05d472de050b74ccd78ef699ac981][^c-f86bfed23839b3dd07823dd532b93698] In Article 7(6), omit sub-paragraph (a).
 
-**139.**[^key-0d4ff275fa1d06ba80ae387fc7bdfb60][^key-535c7e46844fb80c649cbd406c75093d] In Article 8—
+**139.**[^c-0d4ff275fa1d06ba80ae387fc7bdfb60][^c-535c7e46844fb80c649cbd406c75093d] In Article 8—
 
 - (a) omit paragraph (2)(a);
 - (b) after paragraph (9) insert—
@@ -1249,9 +1249,9 @@ Section 2.
 
   .
 
-**140.**[^key-5a48a0e3f83c2ea5f90afcb769c64e21][^key-0716c5166dee3a5bb0a80a6ae75bd19c] In Article 8A(1), for “a Health and Social Services Board” substitute “the Department”.
+**140.**[^c-5a48a0e3f83c2ea5f90afcb769c64e21][^c-0716c5166dee3a5bb0a80a6ae75bd19c] In Article 8A(1), for “a Health and Social Services Board” substitute “the Department”.
 
-**141.**[^key-c8d3291cbb97859091e10045ca5a2717][^key-569b29c48acc702f7a613ce8c2e382f1] (1) Article 10 is amended as follows.
+**141.**[^c-c8d3291cbb97859091e10045ca5a2717][^c-569b29c48acc702f7a613ce8c2e382f1] (1) Article 10 is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -1268,7 +1268,7 @@ Section 2.
 - (a) omit “this Article,”;
 - (b) omit sub-paragraph (a).
 
-**142.**[^key-944eeb5e3a66ff368ab6515a95de8483][^key-c8bb2328ba0fafada3c3c0cbe9bc05e0] After Article 10 insert—
+**142.**[^c-944eeb5e3a66ff368ab6515a95de8483][^c-c8bb2328ba0fafada3c3c0cbe9bc05e0] After Article 10 insert—
 
 > **10A. Definition of social care and children functions”**
 >
@@ -1289,7 +1289,7 @@ Section 2.
 
 .
 
-**143.**[^key-c37911b79b3895b611cebca4bc57da17][^key-f7518489f34c0a62d43d9e11dbe98307] After Article 10A insert—
+**143.**[^c-c37911b79b3895b611cebca4bc57da17][^c-f7518489f34c0a62d43d9e11dbe98307] After Article 10A insert—
 
 > **10B. Certain functions of the Department to be exercisable on its behalf by HSC trusts**
 >
@@ -1324,7 +1324,7 @@ Section 2.
 
 .
 
-**144.**[^key-6b25e3041fecf7765e35db6754ed0589][^key-621eadb286d44e04d9c6f91755229773] (1) Article 21 is amended as follows.
+**144.**[^c-6b25e3041fecf7765e35db6754ed0589][^c-621eadb286d44e04d9c6f91755229773] (1) Article 21 is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -1335,15 +1335,15 @@ Section 2.
 
 (4) In paragraph (5), for “a Health and Social Services Board” substitute “the Department”.
 
-**145.**[^key-4cde47ed8cc3e7217d7c24582732144b][^key-61b99401791313e6a48dadccc0704221] (1) Article 23 is amended as follows.
+**145.**[^c-4cde47ed8cc3e7217d7c24582732144b][^c-61b99401791313e6a48dadccc0704221] (1) Article 23 is amended as follows.
 
 (2) In paragraph (1), omit “the Regional Board,”.
 
 (3) In consequence, in the heading to the Article, for “Boards” substitute “the Regional Agency”.
 
-**146.**[^key-9a2289283f6efb35317ece3878731a86][^key-f584c58a66e35735a33866fe27902514] In Article 24(2), omit sub-paragraph (a).
+**146.**[^c-9a2289283f6efb35317ece3878731a86][^c-f584c58a66e35735a33866fe27902514] In Article 24(2), omit sub-paragraph (a).
 
-**147.**[^key-00d73b8c215e571d054cce9b6d89bfe3][^key-080dae49c17a6d045a96352e118226da] (1) Article 33 is amended as follows.
+**147.**[^c-00d73b8c215e571d054cce9b6d89bfe3][^c-080dae49c17a6d045a96352e118226da] (1) Article 33 is amended as follows.
 
 (2) At the end of paragraph (1) add “; but this is subject to paragraph (1A).”.
 
@@ -1369,7 +1369,7 @@ Section 2.
 
 (5) In the heading, for “and directions” substitute “, directions and guidance”.
 
-**148.**[^key-e42e203e9fdf28fa34dbfe6f3e1333a3][^key-b5d8df97c86fe3cb8ae0ee64b7be8a27] (1) Schedule 3 is amended as follows.
+**148.**[^c-e42e203e9fdf28fa34dbfe6f3e1333a3][^c-b5d8df97c86fe3cb8ae0ee64b7be8a27] (1) Schedule 3 is amended as follows.
 
 (2) For paragraph 3A substitute—
 
@@ -1494,25 +1494,25 @@ Section 2.
 
 .
 
-**149.**[^key-7aba3767fd616d4817d54c13252f428c][^key-1bbe709f2ebc65ec194fb20b1a36713e] In Schedule 5, omit the amendment of section 11(1) of the Disabled Persons (Northern Ireland) Act 1989.
+**149.**[^c-7aba3767fd616d4817d54c13252f428c][^c-1bbe709f2ebc65ec194fb20b1a36713e] In Schedule 5, omit the amendment of section 11(1) of the Disabled Persons (Northern Ireland) Act 1989.
 
 ### Food Safety (Northern Ireland) Order 1991
 
-**150.**[^key-9ca6be4046e804c56833224f3a61ef00][^key-3cee47daf8d5c0a2e9d93d3359b124c0] In Article 8(9) of the Food Safety (Northern Ireland) Order 1991—
+**150.**[^c-9ca6be4046e804c56833224f3a61ef00][^c-3cee47daf8d5c0a2e9d93d3359b124c0] In Article 8(9) of the Food Safety (Northern Ireland) Order 1991—
 
 - (a) in sub-paragraph (b), for “the Health and Social Services Board” substitute “the Regional Agency for Public Health and Social Well-being”;
 - (b) omit sub-paragraph (c).
 
 ### Social Security Contributions and Benefits (Northern Ireland) Act 1992
 
-**151.**[^key-aeb2e7c223a8e75c2072cdcb1978b1d6][^key-807744295b0e5e2c611e7df4bcc1504e] In Schedule 9 to the Social Security Contributions and Benefits (Northern Ireland) Act 1992, in paragraph 1(2)—
+**151.**[^c-aeb2e7c223a8e75c2072cdcb1978b1d6][^c-807744295b0e5e2c611e7df4bcc1504e] In Schedule 9 to the Social Security Contributions and Benefits (Northern Ireland) Act 1992, in paragraph 1(2)—
 
 - (a) omit “a Health and Social Services Board or”;
 - (b) for the words from “a Health and Social Services trust” to the end substitute “a Health and Social Care trust.”.
 
 ### Social Security Administration (Northern Ireland) Act 1992
 
-**152.**[^key-a7f4e3d72af49792ea40f096b177f8de][^key-ee46a71fbd208654e8aaa2891914caeb] In section 14 of the Social Security Administration (Northern Ireland) Act 1992—
+**152.**[^c-a7f4e3d72af49792ea40f096b177f8de][^c-ee46a71fbd208654e8aaa2891914caeb] In section 14 of the Social Security Administration (Northern Ireland) Act 1992—
 
 - (a) in subsections (1) and (3), for “**Board**” (in each place) substitute “trust”;
 - (b) for subsection (4) substitute—
@@ -1524,7 +1524,7 @@ Section 2.
 
 ### Access to Health Records (Northern Ireland) Order 1993
 
-**153.**[^key-52b9b78dc6d59391770fbe11ec166a11][^key-71c55adf59a7c87da4ee96577223a5ab] (1) The Access to Health Records (Northern Ireland) Order 1993 is amended as follows.
+**153.**[^c-52b9b78dc6d59391770fbe11ec166a11][^c-71c55adf59a7c87da4ee96577223a5ab] (1) The Access to Health Records (Northern Ireland) Order 1993 is amended as follows.
 
 (2) In Article 2(2)—
 
@@ -1538,7 +1538,7 @@ Section 2.
 
 ### Health and Personal Social Services (Northern Ireland) Order 1994
 
-**154.**[^key-61814937680cd4392260961b87d805dc][^key-ee464bed93d44f7c14b2943018409d40] (1) The 1994 Order is amended as follows.
+**154.**[^c-61814937680cd4392260961b87d805dc][^c-ee464bed93d44f7c14b2943018409d40] (1) The 1994 Order is amended as follows.
 
 (2) Omit Articles 3 and 4.
 
@@ -1552,9 +1552,9 @@ Section 2.
 
 ### Children (Northern Ireland) Order 1995
 
-**155.**[^key-95013f7514af4c10a42f0353744612c2][^key-921b6fe26658f191b003a6abd16e42bf] The Children (Northern Ireland) Order 1995 is amended as follows.
+**155.**[^c-95013f7514af4c10a42f0353744612c2][^c-921b6fe26658f191b003a6abd16e42bf] The Children (Northern Ireland) Order 1995 is amended as follows.
 
-**156.**[^key-3ffe1f865a46a3e9ffd2a0d1441a8d01][^key-12632af12b916f01015f1d9b26173acc] (1) Article 2 is amended as follows.
+**156.**[^c-3ffe1f865a46a3e9ffd2a0d1441a8d01][^c-12632af12b916f01015f1d9b26173acc] (1) Article 2 is amended as follows.
 
 (2) In paragraph (2)—
 
@@ -1569,34 +1569,34 @@ Section 2.
 
 .
 
-**157.**[^key-366ed841000f191eb285dd009bdf4716][^key-081c2280b54fb366cd9b17b592477e0e] For Article 17A(3) substitute—
+**157.**[^c-366ed841000f191eb285dd009bdf4716][^c-081c2280b54fb366cd9b17b592477e0e] For Article 17A(3) substitute—
 
 > (3) An assessment under this Article is to be carried out in such manner, and is to take such form, as the authority considers appropriate; but this is subject to any directions given to the authority under paragraph 6 of Schedule 3 to the Health and Personal Social Services (Northern Ireland) Order 1991.
 
 .
 
-**158.**[^key-596a026221fd8e2c8faa84cacbd09898][^key-ac051a63f322fe6f02028456760540fd] For Article 18A(4) substitute—
+**158.**[^c-596a026221fd8e2c8faa84cacbd09898][^c-ac051a63f322fe6f02028456760540fd] For Article 18A(4) substitute—
 
 > (4) An assessment under this Article is to be carried out in such manner, and is to take such form, as the authority considers appropriate; but this is subject to any directions given to the authority under paragraph 6 of Schedule 3 to the Health and Personal Social Services (Northern Ireland) Order 1991.
 
 .
 
-**159.**[^key-019c04fead2741abeb0f83c1c8df3083][^key-c7af46b80db0217d7c3df49d7fdb8e56] Omit Article 46(3)(a).
+**159.**[^c-019c04fead2741abeb0f83c1c8df3083][^c-c7af46b80db0217d7c3df49d7fdb8e56] Omit Article 46(3)(a).
 
-**160.**[^key-d861cef171b824cf1b36d8c1c354b5da][^key-17b3ccaccbcd61eb3f328fbb5e739ea3] In Article 61(2), for the words from “functions exercisable on behalf of” to the end substitute “social care and children functions within the meaning of Article 10A of the Health and Personal Social Services (Northern Ireland) Order 1991 and functions exercisable by virtue of a delegation direction under Article 10B(1) of that Order).”.
+**160.**[^c-d861cef171b824cf1b36d8c1c354b5da][^c-17b3ccaccbcd61eb3f328fbb5e739ea3] In Article 61(2), for the words from “functions exercisable on behalf of” to the end substitute “social care and children functions within the meaning of Article 10A of the Health and Personal Social Services (Northern Ireland) Order 1991 and functions exercisable by virtue of a delegation direction under Article 10B(1) of that Order).”.
 
-**161.**[^key-fb1a7ca70518788dff0d483c28f75ada][^key-561c4e48a002d45a89a2b69d4615e715] Omit Article 66(11)(a).
+**161.**[^c-fb1a7ca70518788dff0d483c28f75ada][^c-561c4e48a002d45a89a2b69d4615e715] Omit Article 66(11)(a).
 
-**162.**[^key-6e92218b83a1bc9c0dfad71f83e9680a][^key-6d3b269c05f4bc72d2728b94cbf78974] In Article 121—
+**162.**[^c-6e92218b83a1bc9c0dfad71f83e9680a][^c-6d3b269c05f4bc72d2728b94cbf78974] In Article 121—
 
 - (a) in paragraph (2)(d), omit “Board or”;
 - (b) in paragraph (3)(a), omit “Board,”.
 
-**163.**[^key-e0693be5f35280d7519a8f577f761b6b][^key-ce272c69fe0818752d16aa44fe344459] In Article 149(5)(a), omit “Board or”.
+**163.**[^c-e0693be5f35280d7519a8f577f761b6b][^c-ce272c69fe0818752d16aa44fe344459] In Article 149(5)(a), omit “Board or”.
 
-**164.**[^key-48b5c75be4a2b9710b89ef5603dc0ae5][^key-3427aebb3c2cce36c6300083c56da95c] In Article 173(1), omit “**Board or**” (in each place).
+**164.**[^c-48b5c75be4a2b9710b89ef5603dc0ae5][^c-3427aebb3c2cce36c6300083c56da95c] In Article 173(1), omit “**Board or**” (in each place).
 
-**165.**[^key-477bad78f29e2867e2802fbc583120f9][^key-f07ffa5456b7caa0a9adf7349ae64a5a] (1) Article 174 is amended as follows.
+**165.**[^c-477bad78f29e2867e2802fbc583120f9][^c-f07ffa5456b7caa0a9adf7349ae64a5a] (1) Article 174 is amended as follows.
 
 (2) Omit paragraph (1).
 
@@ -1612,7 +1612,7 @@ Section 2.
 
 (5) In paragraphs (5) and (6), omit “Board or”.
 
-**166.**[^key-55ed0423ea6f6d05099b9b0d7264594a][^key-959132356109a2384b52e99721d5fec3] (1) In Schedule 2, paragraph 2A is amended as follows.
+**166.**[^c-55ed0423ea6f6d05099b9b0d7264594a][^c-959132356109a2384b52e99721d5fec3] (1) In Schedule 2, paragraph 2A is amended as follows.
 
 (2) In sub-paragraph (2)—
 
@@ -1636,14 +1636,14 @@ Section 2.
 
 ### Trade Union and Labour Relations (Northern Ireland) Order 1995
 
-**167.**[^key-8ede661cce4ba1721fd2f948cd8ba2b3][^key-14b189dfdf137a7468ad6ba0ba2738cf] In Article 144 of the Trade Union and Labour Relations (Northern Ireland) Order 1995—
+**167.**[^c-8ede661cce4ba1721fd2f948cd8ba2b3][^c-14b189dfdf137a7468ad6ba0ba2738cf] In Article 144 of the Trade Union and Labour Relations (Northern Ireland) Order 1995—
 
 - (a) for “**a Health and Social Services Board**” (in each place) substitute “the Department of Health”;
 - (b) for “**that Board**” (in both places) substitute “the Department of Health”.
 
 ### Education (Northern Ireland) Order 1996
 
-**168.**[^key-0cc67f2eb136fbccf7e5c5dd9c4dde83][^key-81c4c389d77d8c7a678e4733ae6cb27f] (1) The Education (Northern Ireland) Order 1996 is amended as follows.
+**168.**[^c-0cc67f2eb136fbccf7e5c5dd9c4dde83][^c-81c4c389d77d8c7a678e4733ae6cb27f] (1) The Education (Northern Ireland) Order 1996 is amended as follows.
 
 (2) In Article 12A (as set out in section 4 of the Special Educational Needs and Disability Act (Northern Ireland) 2016), in paragraph (4), omit paragraph (a) of the definition of “health and social services authority”.
 
@@ -1654,7 +1654,7 @@ Section 2.
 
 ### Employment Rights (Northern Ireland) Order 1996
 
-**169.**[^key-3d0668ab0ca5e7105658245cf3ae5275][^key-6412e6003ce39524b07a2f29e71ea6c6] (1) The Employment Rights (Northern Ireland) Order 1996 is amended as follows.
+**169.**[^c-3d0668ab0ca5e7105658245cf3ae5275][^c-6412e6003ce39524b07a2f29e71ea6c6] (1) The Employment Rights (Northern Ireland) Order 1996 is amended as follows.
 
 (2) In Article 14(9), after sub-paragraph (c) add—
 
@@ -1674,7 +1674,7 @@ Section 2.
 
 ### Criminal Justice (Northern Ireland) Order 1996
 
-**170.**[^key-83b9f60bc6f0052c141de3885fe752e9][^key-281f31e65c02482407864a563680fefd] (1) Article 2 of the Criminal Justice (Northern Ireland) Order 1996 is amended as follows.
+**170.**[^c-83b9f60bc6f0052c141de3885fe752e9][^c-281f31e65c02482407864a563680fefd] (1) Article 2 of the Criminal Justice (Northern Ireland) Order 1996 is amended as follows.
 
 (2) In paragraph (2)—
 
@@ -1685,13 +1685,13 @@ Section 2.
 
 ### Health Services (Primary Care) (Northern Ireland) Order 1997
 
-**171.**[^key-e3d432d0ab0f487cd6658426ee27efb2][^key-114d37e8acf82083ba83007649566b57] The Health Services (Primary Care) (Northern Ireland) Order 1997 is amended as follows.
+**171.**[^c-e3d432d0ab0f487cd6658426ee27efb2][^c-114d37e8acf82083ba83007649566b57] The Health Services (Primary Care) (Northern Ireland) Order 1997 is amended as follows.
 
-**172.**[^key-dd7224cae7f5288d42a7b452c982a5fe][^key-04cf9a265259484a564f4c6497c7052a] In Article 1(5), for “A board or” substitute “An”.
+**172.**[^c-dd7224cae7f5288d42a7b452c982a5fe][^c-04cf9a265259484a564f4c6497c7052a] In Article 1(5), for “A board or” substitute “An”.
 
-**173.**[^key-c035b8f382246bc86c17facb83bf9dbf][^key-e53095f6b02e4cc3093bea0cfb889ed9] In Article 2(3), omit the definition of “board”.
+**173.**[^c-c035b8f382246bc86c17facb83bf9dbf][^c-e53095f6b02e4cc3093bea0cfb889ed9] In Article 2(3), omit the definition of “board”.
 
-**174.**[^key-6ececb1a5417c8d3ea452a6bf306cfcd][^key-3e8fe4a2f93a042c967abf3bbccf86c8] (1) Article 3 is amended as follows.
+**174.**[^c-6ececb1a5417c8d3ea452a6bf306cfcd][^c-3e8fe4a2f93a042c967abf3bbccf86c8] (1) Article 3 is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -1710,13 +1710,13 @@ Section 2.
 
 (6) In paragraph (7), omit the definition of “personal medical services”.
 
-**175.**[^key-dd5c04e1f15cbcc3a7fa2db3432b7053][^key-053b0bd1b59693b13c8008f44bd75ec4] Omit Article 4.
+**175.**[^c-dd5c04e1f15cbcc3a7fa2db3432b7053][^c-053b0bd1b59693b13c8008f44bd75ec4] Omit Article 4.
 
-**176.**[^key-8a090151a249fe6cd031b1ad3c9d470c][^key-79870c01c257dfb49b788829e9a72172] In Article 5(2), for “a board” substitute “the Department”.
+**176.**[^c-8a090151a249fe6cd031b1ad3c9d470c][^c-79870c01c257dfb49b788829e9a72172] In Article 5(2), for “a board” substitute “the Department”.
 
-**177.**[^key-5fe0a481b8fe04643fbcaf92508fa18c][^key-ab0333c6862a1d9be4b04f4e6a1caf58] Omit Articles 6 and 7.
+**177.**[^c-5fe0a481b8fe04643fbcaf92508fa18c][^c-ab0333c6862a1d9be4b04f4e6a1caf58] Omit Articles 6 and 7.
 
-**178.**[^key-c97ae8d332e4b84b11770f0302d9de19][^key-96a45683bb21840d170e8e54c7f3e8b3] For Article 8 substitute—
+**178.**[^c-c97ae8d332e4b84b11770f0302d9de19][^c-96a45683bb21840d170e8e54c7f3e8b3] For Article 8 substitute—
 
 > **8. Implementation of pilot schemes**
 >
@@ -1733,9 +1733,9 @@ Section 2.
 
 .
 
-**179.**[^key-decb00437128b536955f6f1252e157e4][^key-c45f7f3d488a00311d34049bd9664fd9] In Article 9(3), omit sub-paragraph (a).
+**179.**[^c-decb00437128b536955f6f1252e157e4][^c-c45f7f3d488a00311d34049bd9664fd9] In Article 9(3), omit sub-paragraph (a).
 
-**180.**[^key-65f3b3ab8fb3abc70064cd9dd98adb47][^key-d29e827d8ee7900309b3006636d62336] (1) Article 10 is amended as follows.
+**180.**[^c-65f3b3ab8fb3abc70064cd9dd98adb47][^c-d29e827d8ee7900309b3006636d62336] (1) Article 10 is amended as follows.
 
 (2) In paragraph (1), for the words from “by directions” to the end of the paragraph substitute “vary a pilot scheme that has been implemented.”.
 
@@ -1754,7 +1754,7 @@ Section 2.
 
 (5) In paragraph (4), for the words from “give directions” to the end of the paragraph substitute “bring the scheme to an end.”.
 
-**181.**[^key-02feff59f209401cfe0d82ee3a29ea30][^key-957819c20a7a46903e2aee662ae46fa4] (1) Article 11 is amended as follows.
+**181.**[^c-02feff59f209401cfe0d82ee3a29ea30][^c-957819c20a7a46903e2aee662ae46fa4] (1) Article 11 is amended as follows.
 
 (2) In paragraph (1), omit the words from “, apart from Article 17(1)” to “its behalf),”.
 
@@ -1762,30 +1762,30 @@ Section 2.
 
 (4) Omit paragraph (3).
 
-**182.**[^key-b44bf7718eb8329749c7e85523c67653][^key-ef0fab5bb3c823a70b51b137b8aca715] Omit Articles 12, 13, 14 and 16.
+**182.**[^c-b44bf7718eb8329749c7e85523c67653][^c-ef0fab5bb3c823a70b51b137b8aca715] Omit Articles 12, 13, 14 and 16.
 
-**183.**[^key-b15e3505e83ac8305ecc7a6cf902e43d][^key-afe6aa851e86b7224c937d124f13a1b9] (1) Article 18 is amended as follows.
+**183.**[^c-b15e3505e83ac8305ecc7a6cf902e43d][^c-afe6aa851e86b7224c937d124f13a1b9] (1) Article 18 is amended as follows.
 
 (2) In paragraph (1), for “boards” substitute “the Department”.
 
 (3) In paragraph (3), for “**a board**” (in both places) substitute “the Department”.
 
-**184.**[^key-7035f00f31616455ce214ca94aec4994][^key-7baa8e55a4a73787f3e800829c61fb17] Omit Articles 27 and 28.
+**184.**[^c-7035f00f31616455ce214ca94aec4994][^c-7baa8e55a4a73787f3e800829c61fb17] Omit Articles 27 and 28.
 
-**185.**[^key-f45b4d86e97573c297ddb1b3794d7826][^key-271fbcbbecd06055922b9306ea8bef5f] In Article 31, omit paragraphs (4) and (5).
+**185.**[^c-f45b4d86e97573c297ddb1b3794d7826][^c-271fbcbbecd06055922b9306ea8bef5f] In Article 31, omit paragraphs (4) and (5).
 
-**186.**[^key-91d7fe031d405edcd380ef891fa1d55c][^key-1073de3bd9660834c701b29dc7849f17] Omit Schedule 1.
+**186.**[^c-91d7fe031d405edcd380ef891fa1d55c][^c-1073de3bd9660834c701b29dc7849f17] Omit Schedule 1.
 
 ### Freedom of Information Act 2000
 
-**187.**[^key-bbf6a76b4d96a25387a9ce9ed204d8cd][^key-024262d0e184be466a4dd4c13c467534] In Schedule 1 to the Freedom of Information Act 2000—
+**187.**[^c-bbf6a76b4d96a25387a9ce9ed204d8cd][^c-024262d0e184be466a4dd4c13c467534] In Schedule 1 to the Freedom of Information Act 2000—
 
 - (a) in paragraph 48, for “Health and Social Services Trust” substitute “Health and Social Care trust”;
 - (b) omit paragraph 51C.
 
 ### Criminal Justice and Court Services Act 2000
 
-**188.**[^key-ef711e6b2ef8b6f93bc28529c78d66e0][^key-fd355ff30a8c63fca34923c878656319] (1) Section 36 of the Criminal Justice and Court Services Act 2000 is amended as follows.
+**188.**[^c-ef711e6b2ef8b6f93bc28529c78d66e0][^c-fd355ff30a8c63fca34923c878656319] (1) Section 36 of the Criminal Justice and Court Services Act 2000 is amended as follows.
 
 (2) For subsection (8)(a) substitute—
 
@@ -1803,7 +1803,7 @@ Section 2.
 
 ### Health and Personal Social Services Act (Northern Ireland) 2001
 
-**189.**[^key-3137856914bb454e22f76396cd5010a1][^key-1c7fd13ba21117a2ef4ac3a718454eae] (1) The Health and Personal Social Services Act (Northern Ireland) 2001 is amended as follows.
+**189.**[^c-3137856914bb454e22f76396cd5010a1][^c-1c7fd13ba21117a2ef4ac3a718454eae] (1) The Health and Personal Social Services Act (Northern Ireland) 2001 is amended as follows.
 
 (2) In section 2(3)—
 
@@ -1819,7 +1819,7 @@ Section 2.
 
 ### Carers and Direct Payments Act (Northern Ireland) 2002
 
-**190.**[^key-33ee04f9e0a72e9ae806ce865abc4441][^key-12502f728010c511597ddd8b32992524] (1) The Carers and Direct Payments Act (Northern Ireland) 2002 is amended as follows.
+**190.**[^c-33ee04f9e0a72e9ae806ce865abc4441][^c-12502f728010c511597ddd8b32992524] (1) The Carers and Direct Payments Act (Northern Ireland) 2002 is amended as follows.
 
 (2) For section 1(4) substitute—
 
@@ -1835,18 +1835,18 @@ Section 2.
 
 ### Health and Personal Social Services Act (Northern Ireland) 2002
 
-**191.**[^key-129ddc62eaa3edfd8bde4741a264b092][^key-c54a4b28d855a83382848e646d31c05b] Omit section 1(3) of the Health and Personal Social Services Act (Northern Ireland) 2002.
+**191.**[^c-129ddc62eaa3edfd8bde4741a264b092][^c-c54a4b28d855a83382848e646d31c05b] Omit section 1(3) of the Health and Personal Social Services Act (Northern Ireland) 2002.
 
 ### Justice (Northern Ireland) Act 2002
 
-**192.**[^key-eb70a0ef14541e14c3aec1a4044614bb][^key-96b933b5070fef7f10de1215b18112ce] In section 46 of the Justice (Northern Ireland) Act 2002—
+**192.**[^c-eb70a0ef14541e14c3aec1a4044614bb][^c-96b933b5070fef7f10de1215b18112ce] In section 46 of the Justice (Northern Ireland) Act 2002—
 
 - (a) in subsection (1)(i), omit “Health and Social Services Boards and”;
 - (b) in subsection (5), omit “a Health and Social Services Board or”.
 
 ### Adoption and Children Act 2002
 
-**193.**[^key-a4e1b1f6d9393e3dd58bd6e30b3167ea][^key-6c28ec6d6fb003f5b0edb3959d7608a5] (1) The Adoption and Children Act 2002 is amended as follows.
+**193.**[^c-a4e1b1f6d9393e3dd58bd6e30b3167ea][^c-6c28ec6d6fb003f5b0edb3959d7608a5] (1) The Adoption and Children Act 2002 is amended as follows.
 
 (2) In section 63—
 
@@ -1861,13 +1861,13 @@ Section 2.
 
 ### Nationality, Immigration and Asylum Act 2002
 
-**194.**[^key-0b4f18e331f45db808dfac0ddfb84585][^key-ffc5c39646b2921913da61220f8ada60] (1) Section 46(7) of the Nationality, Immigration and Asylum Act 2002 is amended as follows.
+**194.**[^c-0b4f18e331f45db808dfac0ddfb84585][^c-ffc5c39646b2921913da61220f8ada60] (1) Section 46(7) of the Nationality, Immigration and Asylum Act 2002 is amended as follows.
 
 (2) In Article 15(7) of the 1972 Order as set out in that subsection, for “the Department” substitute “an HSC trust”.
 
 ### Marriage (Northern Ireland) Order 2003
 
-**195.**[^key-490afc50450c71477db0bd00f18e30a6][^key-13ecc589b69e2c9b5d2c64eb86b11ad6] (1) The Marriage (Northern Ireland) Order 2003 is amended as follows.
+**195.**[^c-490afc50450c71477db0bd00f18e30a6][^c-13ecc589b69e2c9b5d2c64eb86b11ad6] (1) The Marriage (Northern Ireland) Order 2003 is amended as follows.
 
 (2) In Article 22(2)(c), omit “Health and Social Services Board or”.
 
@@ -1875,7 +1875,7 @@ Section 2.
 
 ### Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003
 
-**196.**[^key-5cf0f1420834aa400cf99510d148366c][^key-acdad64287af0d2d0755897a30b180d2] (1) The Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003 is amended as follows.
+**196.**[^c-5cf0f1420834aa400cf99510d148366c][^c-acdad64287af0d2d0755897a30b180d2] (1) The Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003 is amended as follows.
 
 (2) In Article 2(2), in the definition of “director of social care”, for paragraph (a) substitute—
 
@@ -1895,11 +1895,11 @@ Section 2.
 
 ### Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003
 
-**197.**[^key-0957a6a52ba9cdeca12f5350627eb9ad][^key-fd75bd384c901a211bc6f2dffa61ff16] The Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003 is amended as follows.
+**197.**[^c-0957a6a52ba9cdeca12f5350627eb9ad][^c-fd75bd384c901a211bc6f2dffa61ff16] The Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003 is amended as follows.
 
-**198.**[^key-55bca58fdfe64f191a54712d7d7921b5][^key-27859171954e7fab949189a5ed48b674] In Article 4(1)(b), omit “Health and Social Services Boards,”.
+**198.**[^c-55bca58fdfe64f191a54712d7d7921b5][^c-27859171954e7fab949189a5ed48b674] In Article 4(1)(b), omit “Health and Social Services Boards,”.
 
-**199.**[^key-6c2f9488e0aff46f9a2bb8a54dc93d14][^key-f41433fe0a477e86836aba778ce843b6] In Article 21(3), for the words from “the Department” to the end of the paragraph substitute “the following persons of the making of the application—
+**199.**[^c-6c2f9488e0aff46f9a2bb8a54dc93d14][^c-f41433fe0a477e86836aba778ce843b6] In Article 21(3), for the words from “the Department” to the end of the paragraph substitute “the following persons of the making of the application—
 
 > - (a) the Department;
 > - (b) the HSC trust in whose operational area the establishment or agency in question is located; and
@@ -1907,36 +1907,36 @@ Section 2.
 
 .
 
-**200.**[^key-b326b4028c280283d58d452dceb36aaa][^key-d135a61b73dffda6f9e56ba7a66bca33] In Article 34(1)—
+**200.**[^c-b326b4028c280283d58d452dceb36aaa][^c-d135a61b73dffda6f9e56ba7a66bca33] In Article 34(1)—
 
 - (a) omit “Each Health and Social Services Board and”;
 - (b) for “them” substitute “that care”.
 
-**201.**[^key-641ce19b6332398b46e9ab2c14c03e0a][^key-4205945e8c80c77f0162bb05c8911fb7] In Article 35(9), omit “a Health and Social Services Board,”.
+**201.**[^c-641ce19b6332398b46e9ab2c14c03e0a][^c-4205945e8c80c77f0162bb05c8911fb7] In Article 35(9), omit “a Health and Social Services Board,”.
 
-**202.**[^key-99dca0c7a97879a8875d954d68d77a04][^key-b87ea62aa8402fbad5f6c4d00adaeb6f] In Article 36(1)—
+**202.**[^c-99dca0c7a97879a8875d954d68d77a04][^c-b87ea62aa8402fbad5f6c4d00adaeb6f] In Article 36(1)—
 
 - (a) omit “Each Health and Social Services Board and”;
 - (b) in sub-paragraph (a), omit “Board’s or”;
 - (c) in sub-paragraph (b), omit “Board or”.
 
-**203.**[^key-de5c881a4cd6df077a251d61db920a21][^key-aa74535b81c1ce12b25e509769145ddc] In Article 37(1), omit “Health and Social Services Boards and”.
+**203.**[^c-de5c881a4cd6df077a251d61db920a21][^c-aa74535b81c1ce12b25e509769145ddc] In Article 37(1), omit “Health and Social Services Boards and”.
 
-**204.**[^key-e617fc22d7fedb134f8c506984847ef3][^key-4d1b2f981511d59c391a15ee5320fb33] In Article 39(1)—
+**204.**[^c-e617fc22d7fedb134f8c506984847ef3][^c-4d1b2f981511d59c391a15ee5320fb33] In Article 39(1)—
 
 - (a) for “a Health and Social Services Board,” substitute “an”;
 - (b) omit “Board,”.
 
-**205.**[^key-a449a3ea058fc5cbb1cfe1cabc8e9819][^key-18d2ef6a5ba6fdfe3ac058dbc750b9ea] In Article 41—
+**205.**[^c-a449a3ea058fc5cbb1cfe1cabc8e9819][^c-18d2ef6a5ba6fdfe3ac058dbc750b9ea] In Article 41—
 
 - (a) in paragraph (1), for “a Health and Social Services Board,” substitute “an”;
 - (b) in the heading, for “Boards and HSC trusts, etc.” substitute “HSC trusts, special agencies and service providers”.
 
-**206.**[^key-6927000d0076d0612edf0000804845c4][^key-720bc3cdb0db07d7d4e371de65314bf0] In the heading to Part 5, omit “BOARDS AND”.
+**206.**[^c-6927000d0076d0612edf0000804845c4][^c-720bc3cdb0db07d7d4e371de65314bf0] In the heading to Part 5, omit “BOARDS AND”.
 
 ### Commissioner for Children and Young People (Northern Ireland) Order 2003
 
-**207.**[^key-1ae465fa55c03d6291486f43dc08c04c][^key-4f51e01b3e81fd2b97c8866e31144a6c] (1) The Commissioner for Children and Young People (Northern Ireland) Order 2003 is amended as follows.
+**207.**[^c-1ae465fa55c03d6291486f43dc08c04c][^c-4f51e01b3e81fd2b97c8866e31144a6c] (1) The Commissioner for Children and Young People (Northern Ireland) Order 2003 is amended as follows.
 
 (2) In Article 2(2), in the definition of “health and social care body”, omit paragraph (a).
 
@@ -1944,14 +1944,14 @@ Section 2.
 
 ### Domestic Violence, Crime and Victims Act 2004
 
-**208.**[^key-1992b9b2b372b6be7f10c8d5d63c9b62][^key-8ed41c7f7ca152b788e91e23dedfe63b] In section 9(4)(b) of the Domestic Violence, Crime and Victims Act 2004—
+**208.**[^c-1992b9b2b372b6be7f10c8d5d63c9b62][^c-8ed41c7f7ca152b788e91e23dedfe63b] In section 9(4)(b) of the Domestic Violence, Crime and Victims Act 2004—
 
 - (a) omit the words from “Health and Social Services Boards” to “(N.I. 14));”;
 - (b) for “Health and Social Services trusts” substitute “Health and Social Care trusts”.
 
 ### Civil Partnership Act 2004
 
-**209.**[^key-5f74327be2c92aa547a895312c651255][^key-18eae5cb2472c5266bf9d73c69f6d658] (1) The Civil Partnership Act 2004 is amended as follows.
+**209.**[^c-5f74327be2c92aa547a895312c651255][^c-18eae5cb2472c5266bf9d73c69f6d658] (1) The Civil Partnership Act 2004 is amended as follows.
 
 (2) In section 149(3)(b), for “Health and Social Services Board” substitute “Health and Social Care trust”.
 
@@ -1962,15 +1962,15 @@ Section 2.
 
 ### Emergency Workers (Obstruction) Act 2006
 
-**210.**[^key-bc6b39cde9d5a439c17f2b46e67716b9][^key-9551b7a601461d880d4430551ed4f82a] In the Emergency Workers (Obstruction) Act 2006, in section 1(5)(b), for “Health and Social Services trust or Health and Social Services Board” substitute “Health and Social Care trust”.
+**210.**[^c-bc6b39cde9d5a439c17f2b46e67716b9][^c-9551b7a601461d880d4430551ed4f82a] In the Emergency Workers (Obstruction) Act 2006, in section 1(5)(b), for “Health and Social Services trust or Health and Social Services Board” substitute “Health and Social Care trust”.
 
 ### Recovery of Health Services Charges (Northern Ireland) Order 2006
 
-**211.**[^key-31597ed6d560a1db02feb21cac21c88c][^key-de5778fcca25c9cf3487592a0d7120b2] In Article 17(3)(b) of the Recovery of Health Services Charges (Northern Ireland) Order 2006, omit “a Health and Social Services Board or”.
+**211.**[^c-31597ed6d560a1db02feb21cac21c88c][^c-de5778fcca25c9cf3487592a0d7120b2] In Article 17(3)(b) of the Recovery of Health Services Charges (Northern Ireland) Order 2006, omit “a Health and Social Services Board or”.
 
 ### Water and Sewerage Services (Northern Ireland) Order 2006
 
-**212.**[^key-161ec2fc09d19e35410d92563c79ca2c][^key-4d558564c467efa3e13105cbc9e94587] (1) Article 118 of the Water and Sewerage Services (Northern Ireland) Order 2006 is amended as follows.
+**212.**[^c-161ec2fc09d19e35410d92563c79ca2c][^c-4d558564c467efa3e13105cbc9e94587] (1) Article 118 of the Water and Sewerage Services (Northern Ireland) Order 2006 is amended as follows.
 
 (2) In paragraph (2), for the words from “the district council” to the end substitute “the persons set out in paragraph (2A).”.
 
@@ -1986,11 +1986,11 @@ Section 2.
 
 ### Corporate Manslaughter and Corporate Homicide Act 2007
 
-**213.**[^key-020b5c1c66c7eee6a9766ef73ca89fb2][^key-237129344db1276c237e7dfbbfd08ca2] In section 6(7)(d) of the Corporate Manslaughter and Corporate Homicide Act 2007, for “Health and Social Services trust or Health and Social Services Board” substitute “Health and Social Care trust”.
+**213.**[^c-020b5c1c66c7eee6a9766ef73ca89fb2][^c-237129344db1276c237e7dfbbfd08ca2] In section 6(7)(d) of the Corporate Manslaughter and Corporate Homicide Act 2007, for “Health and Social Services trust or Health and Social Services Board” substitute “Health and Social Care trust”.
 
 ### Safeguarding Vulnerable Groups (Northern Ireland) Order 2007
 
-**214.**[^key-d40d32fa18fa8553a252d5e4feb5ef0b][^key-903b67118375c3f804078f71c25aba53] (1) In Article 2 of the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007, the definition of “HSC body” is amended as follows.
+**214.**[^c-d40d32fa18fa8553a252d5e4feb5ef0b][^c-903b67118375c3f804078f71c25aba53] (1) In Article 2 of the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007, the definition of “HSC body” is amended as follows.
 
 (2) For “within the meaning of the Health and Social Care (Reform) Act (Northern Ireland) 2009” substitute “(see the Health and Social Care (Reform) Act (Northern Ireland) 2009 for the bodies mentioned in paragraphs (b) to (e))”.
 
@@ -2002,11 +2002,11 @@ Section 2.
 
 ### Health (Miscellaneous Provisions) Act (Northern Ireland) 2008
 
-**215.**[^key-bea8c85261703104ed70e6d90ee6cdfe][^key-6cb52d84f40df403945f3174b6404967] The Health (Miscellaneous Provisions) Act (Northern Ireland) 2008 is amended as follows.
+**215.**[^c-bea8c85261703104ed70e6d90ee6cdfe][^c-6cb52d84f40df403945f3174b6404967] The Health (Miscellaneous Provisions) Act (Northern Ireland) 2008 is amended as follows.
 
-**216.**[^key-994c537cf9f9ac4232c6f8ae6389aab9][^key-303be1f290c5e636acc2251c5f8267ad] (1) Section 2 (which inserts new Article 60A and substitutes new Articles 61 to 61F of the 1972 Order) is amended in accordance with paragraphs 217 to 223; and any reference in those paragraphs to a numbered Article is to that Article as set out in that section.
+**216.**[^c-994c537cf9f9ac4232c6f8ae6389aab9][^c-303be1f290c5e636acc2251c5f8267ad] (1) Section 2 (which inserts new Article 60A and substitutes new Articles 61 to 61F of the 1972 Order) is amended in accordance with paragraphs 217 to 223; and any reference in those paragraphs to a numbered Article is to that Article as set out in that section.
 
-**217.**[^key-a5bab7d4c4b4b3a1f5438f2adaa343a9][^key-87a35519bceaebfb8c3966ca2fff643b] (1) Article 60A is amended as follows.
+**217.**[^c-a5bab7d4c4b4b3a1f5438f2adaa343a9][^c-87a35519bceaebfb8c3966ca2fff643b] (1) Article 60A is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -2023,7 +2023,7 @@ Section 2.
 
 (5) Omit paragraph (4).
 
-**218.**[^key-132ab9048217a64e44ba0002c023d61d][^key-0bd2bc1b6567c960f232dbfebe655eed] (1) Article 61 is amended as follows.
+**218.**[^c-132ab9048217a64e44ba0002c023d61d][^c-0bd2bc1b6567c960f232dbfebe655eed] (1) Article 61 is amended as follows.
 
 (2) In paragraph (1), for “A Health and Social Services Board” substitute “The Department”.
 
@@ -2031,9 +2031,9 @@ Section 2.
 
 (4) In paragraph (4), omit sub-paragraph (b).
 
-**219.**[^key-e70aa386f52334d162760c409260110c][^key-f1a9b3c7c9dd38f04edcf405f07adb64] In Article 61B(1), for “A Health and Social Services Board” substitute “The Department”.
+**219.**[^c-e70aa386f52334d162760c409260110c][^c-f1a9b3c7c9dd38f04edcf405f07adb64] In Article 61B(1), for “A Health and Social Services Board” substitute “The Department”.
 
-**220.**[^key-77231eb39fdbb49db47f467f826345ab][^key-9aacd255dc8ecdf504948ecd491431de] (1) Article 61C is amended as follows.
+**220.**[^c-77231eb39fdbb49db47f467f826345ab][^c-9aacd255dc8ecdf504948ecd491431de] (1) Article 61C is amended as follows.
 
 (2) In paragraph (1), for “give directions as to” substitute “make a scheme providing for”.
 
@@ -2057,9 +2057,9 @@ Section 2.
 
 .
 
-**221.**[^key-43f531c505819af21b5ca2af03ba5b09][^key-99d31ccb29b2c2ce199c8b006f4e64d1] In Article 61D(3), for “a Health and Social Services Board” substitute “the Department”.
+**221.**[^c-43f531c505819af21b5ca2af03ba5b09][^c-99d31ccb29b2c2ce199c8b006f4e64d1] In Article 61D(3), for “a Health and Social Services Board” substitute “the Department”.
 
-**222.**[^key-20899bd6f931d943ad16d32338f39345][^key-7d081cc90170c390d1b0de400620923e] (1) Article 61E is amended as follows.
+**222.**[^c-20899bd6f931d943ad16d32338f39345][^c-7d081cc90170c390d1b0de400620923e] (1) Article 61E is amended as follows.
 
 (2) In paragraph (2)—
 
@@ -2076,13 +2076,13 @@ Section 2.
 
 .
 
-**223.**[^key-18a9d85be7d80bffccd8e7284333feb0][^key-df6fdedd9d7aae015de2564e54035259] (1) Article 61F is amended as follows.
+**223.**[^c-18a9d85be7d80bffccd8e7284333feb0][^c-df6fdedd9d7aae015de2564e54035259] (1) Article 61F is amended as follows.
 
 (2) In paragraphs (1) and (2), for “the Regional Board” substitute “the Department”.
 
 (3) In paragraph (3), for “, (3B) and (4)” substitute “and (3B)”.
 
-**224.**[^key-9a8aa6a3c05ee7618293c5a7afe4a2ae][^key-2dfaef7250d01b4a0d755ade168be303] In section 3—
+**224.**[^c-9a8aa6a3c05ee7618293c5a7afe4a2ae][^c-2dfaef7250d01b4a0d755ade168be303] In section 3—
 
 - (a) for “**a Health and Social Services Board**” (in both places) substitute “the Department”;
 - (b) in subsection (4), for the words from “the Department” to the end of the subsection substitute “a body specified in the order.”;
@@ -2095,11 +2095,11 @@ Section 2.
 
   .
 
-**225.**[^key-61d8792f1c5309f6b7a0e309f5663d03][^key-ddd791ff2c3290d1a9c1e951038de2a8] In section 6, for “a Health and Social Services Board” substitute “the Department”.
+**225.**[^c-61d8792f1c5309f6b7a0e309f5663d03][^c-ddd791ff2c3290d1a9c1e951038de2a8] In section 6, for “a Health and Social Services Board” substitute “the Department”.
 
 ### Criminal Justice (Northern Ireland) Order 2008
 
-**226.**[^key-409e3af9f6472b2e0606cbac818f3a56][^key-cac03372fe0b8d17bd9fc36e39a22480] (1) The Criminal Justice (Northern Ireland) Order 2008 is amended as follows.
+**226.**[^c-409e3af9f6472b2e0606cbac818f3a56][^c-cac03372fe0b8d17bd9fc36e39a22480] (1) The Criminal Justice (Northern Ireland) Order 2008 is amended as follows.
 
 (2) In Article 3(1), omit the definition of “HSS Board”.
 
@@ -2112,36 +2112,36 @@ Section 2.
 
 ### Sexual Offences (Northern Ireland) Order 2008
 
-**227.**[^key-8d31957828ca9c823a1890cdd10adf57][^key-47989cef837a1accb42485143e102322] In the Sexual Offences (Northern Ireland) Order 2008, in Article 55(3)—
+**227.**[^c-8d31957828ca9c823a1890cdd10adf57][^c-47989cef837a1accb42485143e102322] In the Sexual Offences (Northern Ireland) Order 2008, in Article 55(3)—
 
 - (a) omit sub-paragraph (a);
 - (b) in the words following sub-paragraph (e), omit “Board,”.
 
 ### Health and Social Care (Reform) Act (Northern Ireland) 2009
 
-**228.**[^key-932dbc07d9864207b521f25926587e01][^key-b25dbc5b3d2c44f1c0d6ac366956f58b] The Health and Social Care (Reform) Act (Northern Ireland) 2009 is amended as follows.
+**228.**[^c-932dbc07d9864207b521f25926587e01][^c-b25dbc5b3d2c44f1c0d6ac366956f58b] The Health and Social Care (Reform) Act (Northern Ireland) 2009 is amended as follows.
 
-**229.**[^key-314445ec01574c3bd448b9887bf415c4][^key-df50204a4f09f9df4e6dbb46a625ea98] In section 1(5), omit paragraph (a).
+**229.**[^c-314445ec01574c3bd448b9887bf415c4][^c-df50204a4f09f9df4e6dbb46a625ea98] In section 1(5), omit paragraph (a).
 
-**230.**[^key-0d3eb5a4b8db40178580105425e69a05][^key-23fd82d27b2db8eb8615d112b06e5560] In section 2(3)(h), omit “the Regional Board,”.
+**230.**[^c-0d3eb5a4b8db40178580105425e69a05][^c-23fd82d27b2db8eb8615d112b06e5560] In section 2(3)(h), omit “the Regional Board,”.
 
-**231.**[^key-6ae99bf744c8823082a07bc4e4ca6914][^key-64ea2868d3c9a59f38a8534ee1209580] In section 6(1), omit paragraph (a).
+**231.**[^c-6ae99bf744c8823082a07bc4e4ca6914][^c-64ea2868d3c9a59f38a8534ee1209580] In section 6(1), omit paragraph (a).
 
-**232.**[^key-c3f7aa54452f1d607e05a21e42a2b624][^key-6e5377874019ad9d38bafa5409eb252c] Omit sections 7 and 8 and the italic heading before section 7.
+**232.**[^c-c3f7aa54452f1d607e05a21e42a2b624][^c-6e5377874019ad9d38bafa5409eb252c] Omit sections 7 and 8 and the italic heading before section 7.
 
-**233.**[^key-a3ec543db8c597d83d6cbf526862586d][^key-5c7071eb54c5e7ae7d7e426c5c8ae515] In section 9, omit subsections (1), (3)(b), (6)(b) and (7).
+**233.**[^c-a3ec543db8c597d83d6cbf526862586d][^c-5c7071eb54c5e7ae7d7e426c5c8ae515] In section 9, omit subsections (1), (3)(b), (6)(b) and (7).
 
-**234.**[^key-ef9b81cb385c287ad0057a2fde105f1c][^key-e0e99a57b9fdcd8910a1ecf96f147a6c] Omit sections 10 and 11.
+**234.**[^c-ef9b81cb385c287ad0057a2fde105f1c][^c-e0e99a57b9fdcd8910a1ecf96f147a6c] Omit sections 10 and 11.
 
-**235.**[^key-9034971f2fa04259173617f3d2acb8a6][^key-f98e55fa5e91ef1035cfccc97494c7ad] In section 13(6)(b)—
+**235.**[^c-9034971f2fa04259173617f3d2acb8a6][^c-f98e55fa5e91ef1035cfccc97494c7ad] In section 13(6)(b)—
 
 - (a) omit “, the Regional Board and Local Commissioning Groups”;
 - (b) for “they” substitute “it”;
 - (c) for “their” substitute “its”.
 
-**236.**[^key-9acdbc66cfa4b4e1e056211f026a1dee][^key-5a362323b4a50d7188ac782c594226a4] In section 17(8), omit paragraph (b).
+**236.**[^c-9acdbc66cfa4b4e1e056211f026a1dee][^c-5a362323b4a50d7188ac782c594226a4] In section 17(8), omit paragraph (b).
 
-**237.**[^key-8328db740c4d7a65e4843aabfc471395][^key-6a4f7f1e6f6ab6fccb0db84388b99e5a] (1) Section 24 is amended as follows.
+**237.**[^c-8328db740c4d7a65e4843aabfc471395][^c-6a4f7f1e6f6ab6fccb0db84388b99e5a] (1) Section 24 is amended as follows.
 
 (2) Omit subsection (2).
 
@@ -2153,20 +2153,20 @@ Section 2.
 
 (4) In subsection (4), for “subsections (1) and (2) are” substitute “subsection (1) is”.
 
-**238.**[^key-ba6cdc2f76c159f112ebb0227a340786][^key-aae8d519bd0f8f124bf8efe12bfbda77] In section 27(2), omit paragraph (b).
+**238.**[^c-ba6cdc2f76c159f112ebb0227a340786][^c-aae8d519bd0f8f124bf8efe12bfbda77] In section 27(2), omit paragraph (b).
 
-**239.**[^key-698def4d546b3fa8fb24f766d21541b5][^key-1be6a707f24d1f0bb6467e1517684aff] In section 29(3), omit “or the Regional Board”.
+**239.**[^c-698def4d546b3fa8fb24f766d21541b5][^c-1be6a707f24d1f0bb6467e1517684aff] In section 29(3), omit “or the Regional Board”.
 
-**240.**[^key-0b58ce3545b989db15a315385f8d0719][^key-1743c8f365c74d13e0caa6c6f9da3cb4] In section 31, omit the definition of “the Regional Board”.
+**240.**[^c-0b58ce3545b989db15a315385f8d0719][^c-1743c8f365c74d13e0caa6c6f9da3cb4] In section 31, omit the definition of “the Regional Board”.
 
-**241.**[^key-f624a0437f4cd6316416389309371889][^key-33dbac616bcde385d159d7ac98cc086b] In Schedule 1 omit—
+**241.**[^c-f624a0437f4cd6316416389309371889][^c-33dbac616bcde385d159d7ac98cc086b] In Schedule 1 omit—
 
 - (a) paragraphs 1 to 7;
 - (b) paragraphs 8 to 11(1), except so far as those paragraphs apply to, or relate to, the Local Commissioning Groups and their members;
 - (c) paragraph 11(2);
 - (d) paragraphs 12 to 21.
 
-**242.**[^key-df87a9826e6b3ce4a17bbf1e888b8dee][^key-eef9e7414ae5b856842247ba341b1490] In Schedule 6 omit—
+**242.**[^c-df87a9826e6b3ce4a17bbf1e888b8dee][^c-eef9e7414ae5b856842247ba341b1490] In Schedule 6 omit—
 
 - (a) paragraph 3(49) and (50)(b);
 - (b) paragraph 13(1) and (8)(b);
@@ -2174,11 +2174,11 @@ Section 2.
 
 ### Commissioner for Older People Act (Northern Ireland) 2011
 
-**243.**[^key-6e1b0010941078d5012dcf5dca588808][^key-64410304135aae4cdfeb113f7531ca19] In section 27 of the Commissioner for Older People Act (Northern Ireland) 2011, in the definition of “health and social care body”, omit paragraph (a).
+**243.**[^c-6e1b0010941078d5012dcf5dca588808][^c-64410304135aae4cdfeb113f7531ca19] In section 27 of the Commissioner for Older People Act (Northern Ireland) 2011, in the definition of “health and social care body”, omit paragraph (a).
 
 ### Safeguarding Board Act (Northern Ireland) 2011
 
-**244.**[^key-b6022fc2ad4f146010301781fd785580][^key-d99d52acdeb4c3dadcdaebf03d6f7a8b] (1) The Safeguarding Board Act (Northern Ireland) 2011 is amended as follows.
+**244.**[^c-b6022fc2ad4f146010301781fd785580][^c-d99d52acdeb4c3dadcdaebf03d6f7a8b] (1) The Safeguarding Board Act (Northern Ireland) 2011 is amended as follows.
 
 (2) In section 1—
 
@@ -2200,15 +2200,15 @@ Section 2.
 
 ### Health and Social Care (Amendment) Act (Northern Ireland) 2014
 
-**245.**[^key-b22f379af1b41ae5301c6958fcf28658][^key-3a1be2ce9a8b968167c0dfdd6279ca0a] In section 3(1) of the Health and Social Care (Amendment) Act (Northern Ireland) 2014, omit “1,” and “the Regional Health and Social Care Board,”.
+**245.**[^c-b22f379af1b41ae5301c6958fcf28658][^c-3a1be2ce9a8b968167c0dfdd6279ca0a] In section 3(1) of the Health and Social Care (Amendment) Act (Northern Ireland) 2014, omit “1,” and “the Regional Health and Social Care Board,”.
 
 ### Modern Slavery Act 2015
 
-**246.**[^key-2928df1f27c9ecd9666c443f21c09ad0][^key-b99d4fccf3fe2563b1fd448e6eb10586] In Schedule 3 to the Modern Slavery Act 2015, omit the reference to the Regional Health and Social Care Board.
+**246.**[^c-2928df1f27c9ecd9666c443f21c09ad0][^c-b99d4fccf3fe2563b1fd448e6eb10586] In Schedule 3 to the Modern Slavery Act 2015, omit the reference to the Regional Health and Social Care Board.
 
 ### Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015
 
-**247.**[^key-64c2f97f79d7cc9288ccbd004e2a606d][^key-b1aed4268dc75b42b85730054af3b22a] In section 21 of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015—
+**247.**[^c-64c2f97f79d7cc9288ccbd004e2a606d][^c-b1aed4268dc75b42b85730054af3b22a] In section 21 of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015—
 
 - (a) in subsection (1), for “The Regional Health and Social Care Board” substitute “The Department”;
 - (b) in subsections (3) and (4)(e)(iv), for “the Regional Health and Social Care Board” substitute “the Department”;
@@ -2221,18 +2221,18 @@ Section 2.
 
 ### Children’s Services Co-operation Act (Northern Ireland) 2015
 
-**248.**[^key-2d4cd1239de2b37424fdefae47933183][^key-8964c3709a833e691e981f2de847d27c] In section 9 of the Children’s Services Co-operation Act (Northern Ireland) 2015—
+**248.**[^c-2d4cd1239de2b37424fdefae47933183][^c-8964c3709a833e691e981f2de847d27c] In section 9 of the Children’s Services Co-operation Act (Northern Ireland) 2015—
 
 - (a) in subsection (1), in the definition of “children’s authority”, omit paragraph (iv);
 - (b) in subsection (2), omit “the Regional Health and Social Care Board or”.
 
 ### Welfare Reform (Northern Ireland) Order 2015
 
-**249.**[^key-adf541543bcf4291c85e324d703fdca1][^key-a78b8463cf4b861d5bb470f1a9973238] In Article 120(8) of the Welfare Reform (Northern Ireland) Order 2015, in the definition of “relevant body”, omit paragraph (b).
+**249.**[^c-adf541543bcf4291c85e324d703fdca1][^c-a78b8463cf4b861d5bb470f1a9973238] In Article 120(8) of the Welfare Reform (Northern Ireland) Order 2015, in the definition of “relevant body”, omit paragraph (b).
 
 ### Public Services Ombudsman Act (Northern Ireland) 2016
 
-**250.**[^key-0c4be1d274741a903266626f275595af][^key-aff92753f2f5b6b1f82ccb8c899bdc36] (1) The Public Services Ombudsman Act (Northern Ireland) 2016 is amended as follows.
+**250.**[^c-0c4be1d274741a903266626f275595af][^c-aff92753f2f5b6b1f82ccb8c899bdc36] (1) The Public Services Ombudsman Act (Northern Ireland) 2016 is amended as follows.
 
 (2) In section 59, in the definition of “health and social care body”, omit paragraph (c).
 
@@ -2242,7 +2242,7 @@ Section 2.
 
 ### Special Educational Needs and Disability Act (Northern Ireland) 2016
 
-**251.**[^key-0f5e34acaf812b9d3ff9b83a3c8c726b][^key-0390f2de1a471033a896361621fd9203] (1) This paragraph applies if paragraph 168(3)(a) (amendment of Article 14 of the Education (Northern Ireland) Order 1996) comes into operation before the amendment made to that Article by subsection (4) of section 5 of the Special Educational Needs and Disability Act (Northern Ireland) 2016.
+**251.**[^c-0f5e34acaf812b9d3ff9b83a3c8c726b][^c-0390f2de1a471033a896361621fd9203] (1) This paragraph applies if paragraph 168(3)(a) (amendment of Article 14 of the Education (Northern Ireland) Order 1996) comes into operation before the amendment made to that Article by subsection (4) of section 5 of the Special Educational Needs and Disability Act (Northern Ireland) 2016.
 
 (2) That subsection is amended as follows—
 
@@ -2251,7 +2251,7 @@ Section 2.
 
 ### Mental Capacity Act (Northern Ireland) 2016
 
-**252.**[^key-486d183af2fcbcda29ddf6dfb84894bd][^key-99d490f267148e253ed14c693779786d] (1) The Mental Capacity Act (Northern Ireland) 2016 is amended as follows.
+**252.**[^c-486d183af2fcbcda29ddf6dfb84894bd][^c-99d490f267148e253ed14c693779786d] (1) The Mental Capacity Act (Northern Ireland) 2016 is amended as follows.
 
 (2) In section 120(3), for “the Regional Board” substitute “the Department”.
 
@@ -2269,11 +2269,11 @@ Section 2.
 
 ### Rural Needs Act (Northern Ireland) 2016
 
-**253.**[^key-7bc4c3b6a42750d3abc63ad30a8f7e90][^key-1c9ff8be284f8062a850250ab1d0c401] In the Schedule to the Rural Needs Act (Northern Ireland) 2016, omit the reference to the Regional Health and Social Care Board.
+**253.**[^c-7bc4c3b6a42750d3abc63ad30a8f7e90][^c-1c9ff8be284f8062a850250ab1d0c401] In the Schedule to the Rural Needs Act (Northern Ireland) 2016, omit the reference to the Regional Health and Social Care Board.
 
 ### Justice Act (Northern Ireland) 2016
 
-**254.**[^key-06e7fd5c5f6cf2ed57003ec5621c13fb][^key-eea0281a69b56784134704424e5eaf19] In section 44(2) of the Justice Act (Northern Ireland) 2016, for paragraph (h) substitute—
+**254.**[^c-06e7fd5c5f6cf2ed57003ec5621c13fb][^c-eea0281a69b56784134704424e5eaf19] In section 44(2) of the Justice Act (Northern Ireland) 2016, for paragraph (h) substitute—
 
 > - (h) to the Department of Health for the purposes of the exercise of any of the functions of that Department in relation to any matter arising in connection with an investigation under this Part;
 
@@ -2281,1042 +2281,1042 @@ Section 2.
 
 ### Health and Personal Social Services (Amendment) Act (Northern Ireland) 2016
 
-**255.**[^key-7f5099a8e95f4412dfe3c8495d4c4ad0][^key-23052ed07be9a446f7f17db7db063108] Omit section 6(2) of the Health and Personal Social Services (Amendment) Act (Northern Ireland) 2016.
+**255.**[^c-7f5099a8e95f4412dfe3c8495d4c4ad0][^c-23052ed07be9a446f7f17db7db063108] Omit section 6(2) of the Health and Personal Social Services (Amendment) Act (Northern Ireland) 2016.
 
 ### Health (Miscellaneous Provisions) Act (Northern Ireland) 2016
 
-**256.**[^key-fa8dc26faebf36e351b4f798815a6bb6][^key-96ef7c0d9621cb22b32df1aad4fd675c] Omit section 13(1) of the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016.
+**256.**[^c-fa8dc26faebf36e351b4f798815a6bb6][^c-96ef7c0d9621cb22b32df1aad4fd675c] Omit section 13(1) of the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016.
 
 ### Coronavirus Act 2020
 
-**257.**[^key-1f3b00e9b5f37a692a056f47bb80b2e8][^key-f91da739559eee728843e6fb6e5e9cd8] In paragraph 4(5) of Schedule 7 to the Coronavirus Act 2020, omit paragraph (b).
+**257.**[^c-1f3b00e9b5f37a692a056f47bb80b2e8][^c-f91da739559eee728843e6fb6e5e9cd8] In paragraph 4(5) of Schedule 7 to the Coronavirus Act 2020, omit paragraph (b).
 
 ## Annotations
 
-[^key-36f5fc8b02ec515ad91dd18a2f7d0aac]: Commencement: Sch. 1 para. 1 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-36f5fc8b02ec515ad91dd18a2f7d0aac]: Commencement: Sch. 1 para. 1 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-f6ef65b8ceafa2022ec90bbba437fd57]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/1) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-f6ef65b8ceafa2022ec90bbba437fd57]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/1) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-fbd1eed97ae51e6a4a031517797a85bf]: Commencement: Sch. 1 para. 2 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-fbd1eed97ae51e6a4a031517797a85bf]: Commencement: Sch. 1 para. 2 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-f2a55243d34a2fb6ac219f3a0657150e]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/2) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-f2a55243d34a2fb6ac219f3a0657150e]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/2) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-bc77b33b7fc6c2ca89d85a4eecc806c8]: Commencement: Sch. 1 para. 3 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-bc77b33b7fc6c2ca89d85a4eecc806c8]: Commencement: Sch. 1 para. 3 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-8594f610e879ff84d5c798d923c7eae4]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/3) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-8594f610e879ff84d5c798d923c7eae4]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/3) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-c53c3ee97c46311e557bbd2ac8af4698]: Commencement: Sch. 1 para. 4 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-c53c3ee97c46311e557bbd2ac8af4698]: Commencement: Sch. 1 para. 4 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-058fefec91690c4229ee782abb1c9754]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/4) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-058fefec91690c4229ee782abb1c9754]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/4) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-8a5c51c2779dec4a79cfc14a7c4ec081]: Commencement: Sch. 1 para. 5 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-8a5c51c2779dec4a79cfc14a7c4ec081]: Commencement: Sch. 1 para. 5 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-29aa09c9116c7437d9879618a3e56122]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/5) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-29aa09c9116c7437d9879618a3e56122]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/5) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-d5eafdcc9417f5c0f68cc3ed4cde0c39]: Commencement: Sch. 1 para. 6 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-d5eafdcc9417f5c0f68cc3ed4cde0c39]: Commencement: Sch. 1 para. 6 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-c2f6b4dc5611ce5c07022dc215125cc1]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/6) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-c2f6b4dc5611ce5c07022dc215125cc1]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/6) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-887a5a133ae410b4dc4aa99183dd5619]: Commencement: Sch. 1 para. 7 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-887a5a133ae410b4dc4aa99183dd5619]: Commencement: Sch. 1 para. 7 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-207823316e02de7dfb16bbba53f7f679]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/7) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-207823316e02de7dfb16bbba53f7f679]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/7) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-39447b7114cb7ab9de95721ea2145be9]: Commencement: Sch. 1 para. 8 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-39447b7114cb7ab9de95721ea2145be9]: Commencement: Sch. 1 para. 8 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-253883a2446b34754ad815f078453449]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/8) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-253883a2446b34754ad815f078453449]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/8) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-2b53cdbcdfedae94b64d6e5aa6a30f70]: Commencement: Sch. 1 para. 9 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-2b53cdbcdfedae94b64d6e5aa6a30f70]: Commencement: Sch. 1 para. 9 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-5d85d91b90aa75e639e61f85486233cc]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/9) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-5d85d91b90aa75e639e61f85486233cc]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/9) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-9d7a0a82ad3c37f112288d385407fa70]: Commencement: Sch. 1 para. 10 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-9d7a0a82ad3c37f112288d385407fa70]: Commencement: Sch. 1 para. 10 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-98e3124e047317cb8d93234204c87de5]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/10) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-98e3124e047317cb8d93234204c87de5]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/10) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-a7c0bbf1b504f6fa901caee2cb186ff8]: Commencement: Sch. 1 para. 11 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-a7c0bbf1b504f6fa901caee2cb186ff8]: Commencement: Sch. 1 para. 11 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-31ce2cd64b21f4367eb6e78540047518]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/11) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-31ce2cd64b21f4367eb6e78540047518]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/11) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-31e9fbcdd82b4c4c8de6ba21d8e30de8]: Commencement: Sch. 1 para. 12 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-31e9fbcdd82b4c4c8de6ba21d8e30de8]: Commencement: Sch. 1 para. 12 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-ac43244fa4acde387f44dd44af58df6f]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/12) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-ac43244fa4acde387f44dd44af58df6f]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/12) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-71f6b74f48e54b0c22642ab2a4883d5c]: Commencement: Sch. 1 para. 13 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-71f6b74f48e54b0c22642ab2a4883d5c]: Commencement: Sch. 1 para. 13 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-1df818873f020269b8a591dfa29d05d2]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/13) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-1df818873f020269b8a591dfa29d05d2]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/13) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-12d1904bbde10a22e0164a351b5a3a53]: Commencement: Sch. 1 para. 14 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-12d1904bbde10a22e0164a351b5a3a53]: Commencement: Sch. 1 para. 14 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-d9e2df8d069b8e72d128340631fcc174]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/14) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-d9e2df8d069b8e72d128340631fcc174]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/14) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-b03532bd06de218172ad24954809e9ab]: Commencement: Sch. 1 para. 15 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-b03532bd06de218172ad24954809e9ab]: Commencement: Sch. 1 para. 15 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-150220f49828426ec45078ad44f0add3]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/15) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-150220f49828426ec45078ad44f0add3]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/15) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-7d22190ffcf6ee2ba22aa220b16bda26]: Commencement: Sch. 1 para. 16 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-7d22190ffcf6ee2ba22aa220b16bda26]: Commencement: Sch. 1 para. 16 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-5545e228799890e22d3a8afdfa181b4c]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/16) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-5545e228799890e22d3a8afdfa181b4c]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/16) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-50eeaa7e19e19b9b2cf76a7318712419]: Commencement: Sch. 1 para. 17 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-50eeaa7e19e19b9b2cf76a7318712419]: Commencement: Sch. 1 para. 17 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-d9b5f231b1ee667733b62a20c69f6452]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/17) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-d9b5f231b1ee667733b62a20c69f6452]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/17) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-7b973edd966ad8b664a2849cd74eb9c5]: Commencement: Sch. 1 para. 18 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-7b973edd966ad8b664a2849cd74eb9c5]: Commencement: Sch. 1 para. 18 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-bdf98eeb4fcd023954aa0b59c47fca9d]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/18) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-bdf98eeb4fcd023954aa0b59c47fca9d]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/18) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-852c0bbb2c765a15d02996470462df35]: Commencement: Sch. 1 para. 19 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-852c0bbb2c765a15d02996470462df35]: Commencement: Sch. 1 para. 19 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-c7b80c6c5508ad09e0993c6c8c5d1ff6]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/19) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-c7b80c6c5508ad09e0993c6c8c5d1ff6]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/19) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-8add59db5191c4a83f2c5d2e6d9bb381]: Commencement: Sch. 1 para. 20 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-8add59db5191c4a83f2c5d2e6d9bb381]: Commencement: Sch. 1 para. 20 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-a8cd03110fed4716a7b19602f9217fef]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/20) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-a8cd03110fed4716a7b19602f9217fef]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/20) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-4fc2f22225a915719eeb023213ed6979]: Commencement: Sch. 1 para. 21 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-4fc2f22225a915719eeb023213ed6979]: Commencement: Sch. 1 para. 21 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-5552615e5323b83dc19737b762b73791]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/21) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-5552615e5323b83dc19737b762b73791]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/21) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-9bb7d7495a9d6978a0f03fd728b0d02e]: Commencement: Sch. 1 para. 22 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-9bb7d7495a9d6978a0f03fd728b0d02e]: Commencement: Sch. 1 para. 22 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-009dbbaa0cc0e1cfda960837d7ba3107]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/22) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-009dbbaa0cc0e1cfda960837d7ba3107]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/22) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-72fe3c6577f2843c8d06d060b2625380]: Commencement: Sch. 1 para. 23 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-72fe3c6577f2843c8d06d060b2625380]: Commencement: Sch. 1 para. 23 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-fd1b29ce8cb1ab92fe42248dcb66ee3a]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/23) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-fd1b29ce8cb1ab92fe42248dcb66ee3a]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/23) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-c09535f470694d6b7b60713620dbe2d3]: Commencement: Sch. 1 para. 24 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-c09535f470694d6b7b60713620dbe2d3]: Commencement: Sch. 1 para. 24 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-a0c74eca473b392e45aadb9b149836b8]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/24) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-a0c74eca473b392e45aadb9b149836b8]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/24) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-582686675a1ee06c2ba2524a3dc12e9b]: Commencement: Sch. 1 para. 25 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-582686675a1ee06c2ba2524a3dc12e9b]: Commencement: Sch. 1 para. 25 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-c33111fb19c2e970d5df1b287111a6fd]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/25) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-c33111fb19c2e970d5df1b287111a6fd]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/25) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-59565f16285f7c45ab8f952f8cd51259]: Commencement: Sch. 1 para. 26 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-59565f16285f7c45ab8f952f8cd51259]: Commencement: Sch. 1 para. 26 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-f96fa25ba30dd7c3b65cd374b520194d]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/26) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-f96fa25ba30dd7c3b65cd374b520194d]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/26) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-82806101c16c1a2d5cc4300f07e7268d]: Commencement: Sch. 1 para. 27 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-82806101c16c1a2d5cc4300f07e7268d]: Commencement: Sch. 1 para. 27 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-e484220a77ce1ac59b58d0f8784308b7]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/27) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-e484220a77ce1ac59b58d0f8784308b7]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/27) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-cf62c8c8f7c1b42c5b166c9621855700]: Commencement: Sch. 1 para. 28 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-cf62c8c8f7c1b42c5b166c9621855700]: Commencement: Sch. 1 para. 28 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-d9a06744f58d9801cb9d7e46fa32d7b9]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/28) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-d9a06744f58d9801cb9d7e46fa32d7b9]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/28) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-393e256b6c066b6a77039e1d52aef381]: Commencement: Sch. 1 para. 29 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-393e256b6c066b6a77039e1d52aef381]: Commencement: Sch. 1 para. 29 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-17220c4bb2404091d075f7e49bf8e3fa]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/29) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-17220c4bb2404091d075f7e49bf8e3fa]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/29) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-5d251b5f29a6e919abc7f0dae5c17569]: Commencement: Sch. 1 para. 30 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-5d251b5f29a6e919abc7f0dae5c17569]: Commencement: Sch. 1 para. 30 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-b3e4cfaa98177a415b9f43dc4e2c00d9]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/30) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-b3e4cfaa98177a415b9f43dc4e2c00d9]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/30) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-4956e435aa98d8400153264eb41755c4]: Commencement: Sch. 1 para. 31 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-4956e435aa98d8400153264eb41755c4]: Commencement: Sch. 1 para. 31 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-100a1331f939c828582fab9c60faa924]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/31) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-100a1331f939c828582fab9c60faa924]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/31) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-052a5ddb323077ba7e94181da449d085]: Commencement: Sch. 1 para. 32 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-052a5ddb323077ba7e94181da449d085]: Commencement: Sch. 1 para. 32 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-78cb418efb341d33f28c076052b9e344]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/32) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-78cb418efb341d33f28c076052b9e344]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/32) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-e1b831e2fc3bed708c3153aa3f168451]: Commencement: Sch. 1 para. 33 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-e1b831e2fc3bed708c3153aa3f168451]: Commencement: Sch. 1 para. 33 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-875d5610e4b90fb8ce978e502934780b]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/33) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-875d5610e4b90fb8ce978e502934780b]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/33) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-61b4998ccc9fa14b8c372ed4620c91bb]: Commencement: Sch. 1 para. 34 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-61b4998ccc9fa14b8c372ed4620c91bb]: Commencement: Sch. 1 para. 34 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-114e6d08d907b59a7cb9f888f812cff5]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/34) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-114e6d08d907b59a7cb9f888f812cff5]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/34) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-e03efa89752626793822b8b056f1d248]: Commencement: Sch. 1 para. 35 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-e03efa89752626793822b8b056f1d248]: Commencement: Sch. 1 para. 35 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-83bbbf09634252824aac4a1a8f93c2fd]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/35) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-83bbbf09634252824aac4a1a8f93c2fd]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/35) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-998691c1211b74020d069edb8fb08248]: Commencement: Sch. 1 para. 36 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-998691c1211b74020d069edb8fb08248]: Commencement: Sch. 1 para. 36 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-7d0d721a2e8c5aa600f2a791d8f74124]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/36) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-7d0d721a2e8c5aa600f2a791d8f74124]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/36) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-331480641e39d6361600b53132e32c63]: Commencement: Sch. 1 para. 37 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-331480641e39d6361600b53132e32c63]: Commencement: Sch. 1 para. 37 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-39dbea6d2aa15324bd33cfb39d522f17]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/37) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-39dbea6d2aa15324bd33cfb39d522f17]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/37) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-b875f8a8b085685257a689bcc2c3196c]: Commencement: Sch. 1 para. 38 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-b875f8a8b085685257a689bcc2c3196c]: Commencement: Sch. 1 para. 38 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-cf2c796e9f065bd9fb2281e406ba9aff]: Commencement: [Sch. 1 para. 38](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/38) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-cf2c796e9f065bd9fb2281e406ba9aff]: Commencement: [Sch. 1 para. 38](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/38) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-b48b271bdc187380406788682676fe15]: Commencement: Sch. 1 para. 39 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-b48b271bdc187380406788682676fe15]: Commencement: Sch. 1 para. 39 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-5a90e42e552292042dfa6bf2d51a94d7]: Commencement: [Sch. 1 para. 39](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/39) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-5a90e42e552292042dfa6bf2d51a94d7]: Commencement: [Sch. 1 para. 39](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/39) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-97868328e9880dc566ae1f4878559cf5]: Commencement: Sch. 1 para. 40 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-97868328e9880dc566ae1f4878559cf5]: Commencement: Sch. 1 para. 40 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-9afca6cae12f0eb6a5b2f61cf981fe91]: Commencement: [Sch. 1 para. 40](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/40) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-9afca6cae12f0eb6a5b2f61cf981fe91]: Commencement: [Sch. 1 para. 40](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/40) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-94b9819937b789097b8327b03b126f5d]: Commencement: Sch. 1 para. 41 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-94b9819937b789097b8327b03b126f5d]: Commencement: Sch. 1 para. 41 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-ca7fd4fa5093cc6d72c7d914b9671764]: Commencement: [Sch. 1 para. 41](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/41) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-ca7fd4fa5093cc6d72c7d914b9671764]: Commencement: [Sch. 1 para. 41](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/41) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-7b9aea77921ae81062bc84e29fbba203]: Commencement: Sch. 1 para. 42 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-7b9aea77921ae81062bc84e29fbba203]: Commencement: Sch. 1 para. 42 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-947feae13553bf8104dc1e7be7100722]: Commencement: [Sch. 1 para. 42](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/42) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-947feae13553bf8104dc1e7be7100722]: Commencement: [Sch. 1 para. 42](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/42) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-e4752e7528206d603035c8e2d0603d81]: Commencement: Sch. 1 para. 43 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-e4752e7528206d603035c8e2d0603d81]: Commencement: Sch. 1 para. 43 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-507cf71f812c360ad97aee9b61315b27]: Commencement: [Sch. 1 para. 43](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/43) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-507cf71f812c360ad97aee9b61315b27]: Commencement: [Sch. 1 para. 43](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/43) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-366f2fd0aad3c5556b56ff467bdbcffa]: Commencement: Sch. 1 para. 44 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-366f2fd0aad3c5556b56ff467bdbcffa]: Commencement: Sch. 1 para. 44 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-8b0a2a957fe1cb7902d57b0050a56ba9]: Commencement: [Sch. 1 para. 44](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/44) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-8b0a2a957fe1cb7902d57b0050a56ba9]: Commencement: [Sch. 1 para. 44](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/44) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-f64093530e098ab023a754c1afe6d9d2]: Commencement: Sch. 1 para. 45 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-f64093530e098ab023a754c1afe6d9d2]: Commencement: Sch. 1 para. 45 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-8f76fbbdb4785fed24b6eff7670c8731]: Commencement: [Sch. 1 para. 45](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/45) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-8f76fbbdb4785fed24b6eff7670c8731]: Commencement: [Sch. 1 para. 45](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/45) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-081e07ecd38a09ea19334da13f06c28d]: Commencement: Sch. 1 para. 46 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-081e07ecd38a09ea19334da13f06c28d]: Commencement: Sch. 1 para. 46 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-d9574529fde3be8aec341e5124b734f4]: Commencement: [Sch. 1 para. 46](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/46) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-d9574529fde3be8aec341e5124b734f4]: Commencement: [Sch. 1 para. 46](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/46) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-a0adb0c7b9cc915fa8a1366789fbd785]: Commencement: Sch. 1 para. 47 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-a0adb0c7b9cc915fa8a1366789fbd785]: Commencement: Sch. 1 para. 47 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-d5f9b9fad99b048c564df199aa39114e]: Commencement: [Sch. 1 para. 47](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/47) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-d5f9b9fad99b048c564df199aa39114e]: Commencement: [Sch. 1 para. 47](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/47) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-96ddf577a2efdfda1941225006d8ff1a]: Commencement: Sch. 1 para. 48 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-96ddf577a2efdfda1941225006d8ff1a]: Commencement: Sch. 1 para. 48 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-015784aba45ea450a1e55b618b10a5f2]: Commencement: [Sch. 1 para. 48](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/48) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-015784aba45ea450a1e55b618b10a5f2]: Commencement: [Sch. 1 para. 48](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/48) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-b134d91fdedcbf09ae53d222a11c2b60]: Commencement: Sch. 1 para. 49 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-b134d91fdedcbf09ae53d222a11c2b60]: Commencement: Sch. 1 para. 49 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-9ba0ae359b14aecc5e706e5033866d33]: Commencement: [Sch. 1 para. 49](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/49) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-9ba0ae359b14aecc5e706e5033866d33]: Commencement: [Sch. 1 para. 49](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/49) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-2cac98b073602d76ddee03b2bee2596f]: Commencement: Sch. 1 para. 50 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-2cac98b073602d76ddee03b2bee2596f]: Commencement: Sch. 1 para. 50 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-d26681a528f70e02239ee96d1fc7af7b]: Commencement: [Sch. 1 para. 50](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/50) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-d26681a528f70e02239ee96d1fc7af7b]: Commencement: [Sch. 1 para. 50](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/50) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-3da191b5c8ba5001678d63a2c05e4374]: Commencement: Sch. 1 para. 51 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-3da191b5c8ba5001678d63a2c05e4374]: Commencement: Sch. 1 para. 51 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-49cf15653fa427b55f89c25df4d4fe5a]: Commencement: [Sch. 1 para. 51](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/51) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-49cf15653fa427b55f89c25df4d4fe5a]: Commencement: [Sch. 1 para. 51](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/51) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-88b12d7196e1fdd59c789fd10852bee0]: Commencement: Sch. 1 para. 52 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-88b12d7196e1fdd59c789fd10852bee0]: Commencement: Sch. 1 para. 52 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-f3b6d6fe810978c2d294955b6ff6a274]: Commencement: [Sch. 1 para. 52](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/52) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-f3b6d6fe810978c2d294955b6ff6a274]: Commencement: [Sch. 1 para. 52](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/52) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-131c050b8ce102d9166e28932394cbfa]: Commencement: Sch. 1 para. 53 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-131c050b8ce102d9166e28932394cbfa]: Commencement: Sch. 1 para. 53 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-8a163eaa2b43b6a05815368b62dd3f91]: Commencement: [Sch. 1 para. 53](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/53) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-8a163eaa2b43b6a05815368b62dd3f91]: Commencement: [Sch. 1 para. 53](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/53) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-d1ba8f4778d6c9ad2baff9453d1bfe45]: Commencement: Sch. 1 para. 54 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-d1ba8f4778d6c9ad2baff9453d1bfe45]: Commencement: Sch. 1 para. 54 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-9dfc7675b059868310355cfb52a519c1]: Commencement: [Sch. 1 para. 54](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/54) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-9dfc7675b059868310355cfb52a519c1]: Commencement: [Sch. 1 para. 54](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/54) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-752ccd3daaafd46e0d97ebba819c7e16]: Commencement: Sch. 1 para. 55 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-752ccd3daaafd46e0d97ebba819c7e16]: Commencement: Sch. 1 para. 55 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-cd1e9ad2642643cc705542a9eac0e496]: Commencement: [Sch. 1 para. 55](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/55) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-cd1e9ad2642643cc705542a9eac0e496]: Commencement: [Sch. 1 para. 55](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/55) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-656f1fe54093b3286581c85fbf3f98dd]: Commencement: Sch. 1 para. 56 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-656f1fe54093b3286581c85fbf3f98dd]: Commencement: Sch. 1 para. 56 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-2a4005a02e3764b5b9452aeca8988013]: Commencement: [Sch. 1 para. 56](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/56) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-2a4005a02e3764b5b9452aeca8988013]: Commencement: [Sch. 1 para. 56](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/56) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-51751e0b055ca4ab60959104d5e17370]: Commencement: Sch. 1 para. 57 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-51751e0b055ca4ab60959104d5e17370]: Commencement: Sch. 1 para. 57 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-ea3523ed2e01572781a2e5609322beb1]: Commencement: [Sch. 1 para. 57](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/57) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-ea3523ed2e01572781a2e5609322beb1]: Commencement: [Sch. 1 para. 57](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/57) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-cd25d28b299d60916fbd4dfc9996a19f]: Commencement: Sch. 1 para. 58 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-cd25d28b299d60916fbd4dfc9996a19f]: Commencement: Sch. 1 para. 58 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-b1ce7ba16ab16753e52de80533e32980]: Commencement: [Sch. 1 para. 58](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/58) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-b1ce7ba16ab16753e52de80533e32980]: Commencement: [Sch. 1 para. 58](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/58) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-55d8843203fe3308de4f1344e0c33a42]: Commencement: Sch. 1 para. 59 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-55d8843203fe3308de4f1344e0c33a42]: Commencement: Sch. 1 para. 59 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-47025df34eed31cc7f1a1793d55bc2a8]: Commencement: [Sch. 1 para. 59](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/59) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-47025df34eed31cc7f1a1793d55bc2a8]: Commencement: [Sch. 1 para. 59](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/59) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-11ec488464437acd8d374c541d3eb989]: Commencement: Sch. 1 para. 60 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-11ec488464437acd8d374c541d3eb989]: Commencement: Sch. 1 para. 60 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-554182016fb60a81e82c7a6b28da4874]: Commencement: [Sch. 1 para. 60](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/60) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-554182016fb60a81e82c7a6b28da4874]: Commencement: [Sch. 1 para. 60](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/60) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-64f4f6bf6ba9b1b8fa5628fde0e72cbe]: Commencement: Sch. 1 para. 61 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-64f4f6bf6ba9b1b8fa5628fde0e72cbe]: Commencement: Sch. 1 para. 61 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-6975805050dcf866a707d01d32b8248f]: Commencement: [Sch. 1 para. 61](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/61) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-6975805050dcf866a707d01d32b8248f]: Commencement: [Sch. 1 para. 61](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/61) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-f98eb3b935010cb9599abc079bb99580]: Commencement: Sch. 1 para. 62 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-f98eb3b935010cb9599abc079bb99580]: Commencement: Sch. 1 para. 62 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-941dcc2087e1ad01bad0dea702e6a0d3]: Commencement: [Sch. 1 para. 62](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/62) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-941dcc2087e1ad01bad0dea702e6a0d3]: Commencement: [Sch. 1 para. 62](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/62) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-f0ceb6362d8b642c40f454cb0bcfd59d]: Commencement: Sch. 1 para. 63 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-f0ceb6362d8b642c40f454cb0bcfd59d]: Commencement: Sch. 1 para. 63 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-cdc7f333a8bc786b765aaa906e5238fa]: Commencement: [Sch. 1 para. 63](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/63) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-cdc7f333a8bc786b765aaa906e5238fa]: Commencement: [Sch. 1 para. 63](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/63) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-11e405eef43c8bf2033d3143d537e8ed]: Commencement: Sch. 1 para. 64 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-11e405eef43c8bf2033d3143d537e8ed]: Commencement: Sch. 1 para. 64 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-0db8b6754e6ebc9cb8cb2592a549b9fa]: Commencement: [Sch. 1 para. 64](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/64) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-0db8b6754e6ebc9cb8cb2592a549b9fa]: Commencement: [Sch. 1 para. 64](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/64) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-07a470df27300db57a3227f88be7e9da]: Commencement: Sch. 1 para. 65 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-07a470df27300db57a3227f88be7e9da]: Commencement: Sch. 1 para. 65 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-b5dfc54f4bc4a6c0d20c4e01ad10d45b]: Commencement: [Sch. 1 para. 65](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/65) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-b5dfc54f4bc4a6c0d20c4e01ad10d45b]: Commencement: [Sch. 1 para. 65](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/65) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-c871a1a300b4d0b01af772719d85013d]: Commencement: Sch. 1 para. 66 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-c871a1a300b4d0b01af772719d85013d]: Commencement: Sch. 1 para. 66 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-b1822655577a8a09b2caa092127375c9]: Commencement: [Sch. 1 para. 66](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/66) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-b1822655577a8a09b2caa092127375c9]: Commencement: [Sch. 1 para. 66](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/66) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-6e633221b3144e3feb8cd3e793dc1836]: Commencement: Sch. 1 para. 67 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-6e633221b3144e3feb8cd3e793dc1836]: Commencement: Sch. 1 para. 67 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-a87d4fc7153f2ea5b806bf49526f0cec]: Commencement: [Sch. 1 para. 67](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/67) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-a87d4fc7153f2ea5b806bf49526f0cec]: Commencement: [Sch. 1 para. 67](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/67) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-3568b620582e155c68b91e64bacf5834]: Commencement: Sch. 1 para. 68 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-3568b620582e155c68b91e64bacf5834]: Commencement: Sch. 1 para. 68 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-625513ef416ccfe96e9075384920c875]: Commencement: [Sch. 1 para. 68](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/68) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-625513ef416ccfe96e9075384920c875]: Commencement: [Sch. 1 para. 68](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/68) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-087679d9cca8612fd039b3bfca3af4b4]: Commencement: Sch. 1 para. 69 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-087679d9cca8612fd039b3bfca3af4b4]: Commencement: Sch. 1 para. 69 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-e2dd409f4d840e34471122754ade4eec]: Commencement: [Sch. 1 para. 69](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/69) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-e2dd409f4d840e34471122754ade4eec]: Commencement: [Sch. 1 para. 69](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/69) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-4d009a22301ac36bcf0b3f0ecc1816e3]: Commencement: Sch. 1 para. 70 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-4d009a22301ac36bcf0b3f0ecc1816e3]: Commencement: Sch. 1 para. 70 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-08c40ddc20e860f3d31519425f69ac9f]: Commencement: [Sch. 1 para. 70](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/70) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-08c40ddc20e860f3d31519425f69ac9f]: Commencement: [Sch. 1 para. 70](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/70) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-510471c033c57f7e397d681176eeb2f5]: Commencement: Sch. 1 para. 71 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-510471c033c57f7e397d681176eeb2f5]: Commencement: Sch. 1 para. 71 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-f3619e1b5cefd59ff1cca6a78a3fbccc]: Commencement: [Sch. 1 para. 71](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/71) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-f3619e1b5cefd59ff1cca6a78a3fbccc]: Commencement: [Sch. 1 para. 71](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/71) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-a6ab39509c8851f333c2d799c83e2dc6]: Commencement: Sch. 1 para. 72 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-a6ab39509c8851f333c2d799c83e2dc6]: Commencement: Sch. 1 para. 72 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-c283c7cb2b0ebea77679f0ea989cd2c5]: Commencement: [Sch. 1 para. 72](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/72) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-c283c7cb2b0ebea77679f0ea989cd2c5]: Commencement: [Sch. 1 para. 72](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/72) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-8798dddd667715ba78e20dbc7fb37f2c]: Commencement: Sch. 1 para. 73 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-8798dddd667715ba78e20dbc7fb37f2c]: Commencement: Sch. 1 para. 73 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-5391c8b59a3d19f26b5259661b988485]: Commencement: [Sch. 1 para. 73](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/73) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-5391c8b59a3d19f26b5259661b988485]: Commencement: [Sch. 1 para. 73](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/73) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-db976a17ad512c64365ac6ba9b9d9e42]: Commencement: Sch. 1 para. 74 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-db976a17ad512c64365ac6ba9b9d9e42]: Commencement: Sch. 1 para. 74 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-b90d30965a1a81bc8ac68c707a5f57df]: Commencement: [Sch. 1 para. 74](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/74) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-b90d30965a1a81bc8ac68c707a5f57df]: Commencement: [Sch. 1 para. 74](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/74) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-918414cd14d5da9006f7329ee1dc7941]: Commencement: Sch. 1 para. 75 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-918414cd14d5da9006f7329ee1dc7941]: Commencement: Sch. 1 para. 75 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-3cce4af2bdcebf7343c9f9a2404b3177]: Commencement: [Sch. 1 para. 75](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/75) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-3cce4af2bdcebf7343c9f9a2404b3177]: Commencement: [Sch. 1 para. 75](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/75) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-a6131d6a1361983a528418e13d0133d3]: Commencement: Sch. 1 para. 76 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-a6131d6a1361983a528418e13d0133d3]: Commencement: Sch. 1 para. 76 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-1c33822836a45d4fa0fb35294d8a9e62]: Commencement: [Sch. 1 para. 76](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/76) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-1c33822836a45d4fa0fb35294d8a9e62]: Commencement: [Sch. 1 para. 76](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/76) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-aa3eb93812864ed4b860a520b6a1c796]: Commencement: Sch. 1 para. 77 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-aa3eb93812864ed4b860a520b6a1c796]: Commencement: Sch. 1 para. 77 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-0a209f811432e07b30e424025c92cac6]: Commencement: [Sch. 1 para. 77](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/77) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-0a209f811432e07b30e424025c92cac6]: Commencement: [Sch. 1 para. 77](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/77) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-4494275a6c91096806ce33e3ce2bc6b4]: Commencement: Sch. 1 para. 78 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-4494275a6c91096806ce33e3ce2bc6b4]: Commencement: Sch. 1 para. 78 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-aeb4ca01cbf422747eb4859e67351c0b]: Commencement: [Sch. 1 para. 78](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/78) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-aeb4ca01cbf422747eb4859e67351c0b]: Commencement: [Sch. 1 para. 78](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/78) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-ce87627b777e5564d091d1ee2feb9a95]: Commencement: Sch. 1 para. 79 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-ce87627b777e5564d091d1ee2feb9a95]: Commencement: Sch. 1 para. 79 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-43624303ca211b5849580ea960582531]: Commencement: [Sch. 1 para. 79](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/79) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-43624303ca211b5849580ea960582531]: Commencement: [Sch. 1 para. 79](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/79) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-157847f3878698d1aeeb9ae41cff666d]: Commencement: Sch. 1 para. 80 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-157847f3878698d1aeeb9ae41cff666d]: Commencement: Sch. 1 para. 80 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-3445468f87994b7dc6b653a4022d4e42]: Commencement: [Sch. 1 para. 80](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/80) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-3445468f87994b7dc6b653a4022d4e42]: Commencement: [Sch. 1 para. 80](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/80) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-b1b6e05556fbfaff8a218fd73b48d90b]: Commencement: Sch. 1 para. 81 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-b1b6e05556fbfaff8a218fd73b48d90b]: Commencement: Sch. 1 para. 81 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-40d3f8b63d99ed30443c785ceb552503]: Commencement: [Sch. 1 para. 81](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/81) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-40d3f8b63d99ed30443c785ceb552503]: Commencement: [Sch. 1 para. 81](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/81) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-ba89523bf42204a0394271037aef243c]: Commencement: Sch. 1 para. 82 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-ba89523bf42204a0394271037aef243c]: Commencement: Sch. 1 para. 82 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-44337910c17bad291b4e626ed528c547]: Commencement: [Sch. 1 para. 82](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/82) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-44337910c17bad291b4e626ed528c547]: Commencement: [Sch. 1 para. 82](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/82) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-0163a4e7bd68e825a33b39bd0d3e3223]: Commencement: Sch. 1 para. 83 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-0163a4e7bd68e825a33b39bd0d3e3223]: Commencement: Sch. 1 para. 83 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-2fe8376060c687c3945ab79ecf8267fa]: Commencement: [Sch. 1 para. 83](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/83) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-2fe8376060c687c3945ab79ecf8267fa]: Commencement: [Sch. 1 para. 83](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/83) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-486feec515df7ee6831633851533eb91]: Commencement: Sch. 1 para. 84 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-486feec515df7ee6831633851533eb91]: Commencement: Sch. 1 para. 84 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-75d1b20c191e5c6240ee5993cda1ae8d]: Commencement: [Sch. 1 para. 84](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/84) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-75d1b20c191e5c6240ee5993cda1ae8d]: Commencement: [Sch. 1 para. 84](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/84) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-9d9e0801a33137f3a7d8dce8a2bedd40]: Commencement: Sch. 1 para. 85 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-9d9e0801a33137f3a7d8dce8a2bedd40]: Commencement: Sch. 1 para. 85 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-c21e7449b82d9e620367c84f04f1885b]: Commencement: [Sch. 1 para. 85](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/85) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-c21e7449b82d9e620367c84f04f1885b]: Commencement: [Sch. 1 para. 85](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/85) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-52bd19a08ccdde092ab0896a88ebd263]: Commencement: Sch. 1 para. 86 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-52bd19a08ccdde092ab0896a88ebd263]: Commencement: Sch. 1 para. 86 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-ce31c169cbb08dd7adaa761fb919d63b]: Commencement: [Sch. 1 para. 86](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/86) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-ce31c169cbb08dd7adaa761fb919d63b]: Commencement: [Sch. 1 para. 86](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/86) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-3886c6e4420f543c813c1c8577110340]: Commencement: Sch. 1 para. 87 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-3886c6e4420f543c813c1c8577110340]: Commencement: Sch. 1 para. 87 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-c4ab92a5352d1f0493698d29868683a6]: Commencement: [Sch. 1 para. 87](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/87) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-c4ab92a5352d1f0493698d29868683a6]: Commencement: [Sch. 1 para. 87](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/87) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-677339f0b8996d09701585169498b3b4]: Commencement: Sch. 1 para. 88 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-677339f0b8996d09701585169498b3b4]: Commencement: Sch. 1 para. 88 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-f65501f910f8d0309874ad92187152ef]: Commencement: [Sch. 1 para. 88](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/88) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-f65501f910f8d0309874ad92187152ef]: Commencement: [Sch. 1 para. 88](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/88) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-e7f99b25f2642e507b99cf9442e138e3]: Commencement: Sch. 1 para. 89 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-e7f99b25f2642e507b99cf9442e138e3]: Commencement: Sch. 1 para. 89 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-8d2f8b947e76c5a2d2f355d4cf36c946]: Commencement: [Sch. 1 para. 89](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/89) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-8d2f8b947e76c5a2d2f355d4cf36c946]: Commencement: [Sch. 1 para. 89](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/89) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-ca7903d0b6a9c4f313a0fb71507a2d7a]: Commencement: Sch. 1 para. 90 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-ca7903d0b6a9c4f313a0fb71507a2d7a]: Commencement: Sch. 1 para. 90 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-d511e27253abd839f745e582d5d7fa6a]: Commencement: [Sch. 1 para. 90](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/90) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-d511e27253abd839f745e582d5d7fa6a]: Commencement: [Sch. 1 para. 90](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/90) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-cfe9f20c910b8231c9db2045448f10c0]: Commencement: Sch. 1 para. 91 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-cfe9f20c910b8231c9db2045448f10c0]: Commencement: Sch. 1 para. 91 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-5a32bd16803a56ac60a75bb20e8858dc]: Commencement: [Sch. 1 para. 91](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/91) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-5a32bd16803a56ac60a75bb20e8858dc]: Commencement: [Sch. 1 para. 91](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/91) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-cb03d22bb4c6ccff2cee44b751ca742d]: Commencement: Sch. 1 para. 92 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-cb03d22bb4c6ccff2cee44b751ca742d]: Commencement: Sch. 1 para. 92 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-cc4491165adf4e92ebb5d9385fed8401]: Commencement: [Sch. 1 para. 92](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/92) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-cc4491165adf4e92ebb5d9385fed8401]: Commencement: [Sch. 1 para. 92](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/92) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-6d50a5c34ffced50817b02ed89cce7c1]: Commencement: Sch. 1 para. 93 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-6d50a5c34ffced50817b02ed89cce7c1]: Commencement: Sch. 1 para. 93 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-b1451d6e926e0a5f06210924f4ed3ac9]: Commencement: [Sch. 1 para. 93](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/93) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-b1451d6e926e0a5f06210924f4ed3ac9]: Commencement: [Sch. 1 para. 93](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/93) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-9ec1f155f49a51ce166f66e45cf0cd5d]: Commencement: Sch. 1 para. 94 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-9ec1f155f49a51ce166f66e45cf0cd5d]: Commencement: Sch. 1 para. 94 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-cc76a3a193ff9542f95413d2fa4e1ae5]: Commencement: [Sch. 1 para. 94](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/94) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-cc76a3a193ff9542f95413d2fa4e1ae5]: Commencement: [Sch. 1 para. 94](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/94) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-a2c25a51e1233f57d5c9e55b6addd6f3]: Commencement: Sch. 1 para. 95 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-a2c25a51e1233f57d5c9e55b6addd6f3]: Commencement: Sch. 1 para. 95 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-1508dbb394f6bff6af48630d036df660]: Commencement: [Sch. 1 para. 95](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/95) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-1508dbb394f6bff6af48630d036df660]: Commencement: [Sch. 1 para. 95](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/95) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-c65b0e3f67f53d9f21f065366e193b74]: Commencement: Sch. 1 para. 96 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-c65b0e3f67f53d9f21f065366e193b74]: Commencement: Sch. 1 para. 96 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-48585059b7731a33006b3d7cc2dbfcf4]: Commencement: [Sch. 1 para. 96](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/96) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-48585059b7731a33006b3d7cc2dbfcf4]: Commencement: [Sch. 1 para. 96](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/96) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-f30754620d0de9637261881aaadb64ad]: Commencement: Sch. 1 para. 97 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-f30754620d0de9637261881aaadb64ad]: Commencement: Sch. 1 para. 97 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-49b000398b99bc952975f3e0c8c63e4e]: Commencement: [Sch. 1 para. 97](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/97) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-49b000398b99bc952975f3e0c8c63e4e]: Commencement: [Sch. 1 para. 97](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/97) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-dc7de3a119da415bab12f7d5670efecf]: Commencement: Sch. 1 para. 98 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-dc7de3a119da415bab12f7d5670efecf]: Commencement: Sch. 1 para. 98 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-3c07b8522f4a3b356d8e2c5607ca36f1]: Commencement: [Sch. 1 para. 98](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/98) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-3c07b8522f4a3b356d8e2c5607ca36f1]: Commencement: [Sch. 1 para. 98](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/98) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-a5993dfbba788d82a54b84474df0d662]: Commencement: Sch. 1 para. 99 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-a5993dfbba788d82a54b84474df0d662]: Commencement: Sch. 1 para. 99 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-f23a71a29fc2d5fd114557313ac17bf6]: Commencement: [Sch. 1 para. 99](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/99) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-f23a71a29fc2d5fd114557313ac17bf6]: Commencement: [Sch. 1 para. 99](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/99) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-5423352115c922f1838404813de2118c]: Commencement: Sch. 1 para. 100 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-5423352115c922f1838404813de2118c]: Commencement: Sch. 1 para. 100 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-f7a0b4527a6eb2b7d881d291118b6415]: Commencement: [Sch. 1 para. 100](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/100) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-f7a0b4527a6eb2b7d881d291118b6415]: Commencement: [Sch. 1 para. 100](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/100) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-f1266032eba765d3a7ce1489abaebfd9]: Commencement: Sch. 1 para. 101 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-f1266032eba765d3a7ce1489abaebfd9]: Commencement: Sch. 1 para. 101 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-c58cbc33f0dae813eadea8380e78aa25]: Commencement: [Sch. 1 para. 101](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/101) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-c58cbc33f0dae813eadea8380e78aa25]: Commencement: [Sch. 1 para. 101](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/101) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-8f0e6f6b498420327662692e46d2300f]: Commencement: Sch. 1 para. 102 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-8f0e6f6b498420327662692e46d2300f]: Commencement: Sch. 1 para. 102 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-47529a9948f194cdce47a16e7b8ae873]: Commencement: [Sch. 1 para. 102](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/102) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-47529a9948f194cdce47a16e7b8ae873]: Commencement: [Sch. 1 para. 102](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/102) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-91b625ddcef26ef5813c28e6bad8c67f]: Commencement: Sch. 1 para. 103 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-91b625ddcef26ef5813c28e6bad8c67f]: Commencement: Sch. 1 para. 103 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-f86ff250f6eee3ceface6a140985122d]: Commencement: [Sch. 1 para. 103](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/103) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-f86ff250f6eee3ceface6a140985122d]: Commencement: [Sch. 1 para. 103](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/103) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-b4316854a59651b4547f23d4a9d8095a]: Commencement: Sch. 1 para. 104 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-b4316854a59651b4547f23d4a9d8095a]: Commencement: Sch. 1 para. 104 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-ebed701d7c38fda5fe328726d9c163f5]: Commencement: [Sch. 1 para. 104](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/104) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-ebed701d7c38fda5fe328726d9c163f5]: Commencement: [Sch. 1 para. 104](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/104) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-856aefbe72a4e65c87e3bb736131409e]: Commencement: Sch. 1 para. 105 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-856aefbe72a4e65c87e3bb736131409e]: Commencement: Sch. 1 para. 105 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-7bddc2a4093c6085ab055d6cbe0e57aa]: Commencement: [Sch. 1 para. 105](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/105) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-7bddc2a4093c6085ab055d6cbe0e57aa]: Commencement: [Sch. 1 para. 105](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/105) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-090b4d22062781629a799f2c4f121201]: Commencement: Sch. 1 para. 106 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-090b4d22062781629a799f2c4f121201]: Commencement: Sch. 1 para. 106 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-942c92a295500238be833d9e083914ab]: Commencement: [Sch. 1 para. 106](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/106) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-942c92a295500238be833d9e083914ab]: Commencement: [Sch. 1 para. 106](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/106) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-d745bd9db440f208f0cee6e5d23710b3]: Commencement: Sch. 1 para. 107 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-d745bd9db440f208f0cee6e5d23710b3]: Commencement: Sch. 1 para. 107 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-9adc175e1328f001e25934a714397356]: Commencement: [Sch. 1 para. 107](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/107) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-9adc175e1328f001e25934a714397356]: Commencement: [Sch. 1 para. 107](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/107) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-be7744791f7d810005a2e29d18bebb9d]: Commencement: Sch. 1 para. 108 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-be7744791f7d810005a2e29d18bebb9d]: Commencement: Sch. 1 para. 108 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-4cfa2c188ded858b652440af7f0952f7]: Commencement: [Sch. 1 para. 108](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/108) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-4cfa2c188ded858b652440af7f0952f7]: Commencement: [Sch. 1 para. 108](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/108) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-817c345f510aa38b08f79c4de683e1ae]: Commencement: Sch. 1 para. 109 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-817c345f510aa38b08f79c4de683e1ae]: Commencement: Sch. 1 para. 109 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-1e321781679fd3a8c7577b19ee31ddb9]: Commencement: [Sch. 1 para. 109](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/109) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-1e321781679fd3a8c7577b19ee31ddb9]: Commencement: [Sch. 1 para. 109](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/109) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-36c22d3dcce3a41f114b881fa93c622c]: Commencement: Sch. 1 para. 110 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-36c22d3dcce3a41f114b881fa93c622c]: Commencement: Sch. 1 para. 110 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-134cee409007c8b2814c2e66b1f9c63e]: Commencement: [Sch. 1 para. 110](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/110) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-134cee409007c8b2814c2e66b1f9c63e]: Commencement: [Sch. 1 para. 110](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/110) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-daeb55cda4834d366e501db50189f55c]: Commencement: Sch. 1 para. 111 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-daeb55cda4834d366e501db50189f55c]: Commencement: Sch. 1 para. 111 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-ecd1ffb9f345083a239a0b2eb2411946]: Commencement: [Sch. 1 para. 111](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/111) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-ecd1ffb9f345083a239a0b2eb2411946]: Commencement: [Sch. 1 para. 111](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/111) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-5e66e882c3f909581233e3c46de2b401]: Commencement: Sch. 1 para. 112 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-5e66e882c3f909581233e3c46de2b401]: Commencement: Sch. 1 para. 112 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-5d0bc187478d7f61a21cf72ec3accb47]: Commencement: [Sch. 1 para. 112](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/112) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-5d0bc187478d7f61a21cf72ec3accb47]: Commencement: [Sch. 1 para. 112](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/112) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-e32f876b3f52c914697eb3ab1556f38e]: Commencement: Sch. 1 para. 113 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-e32f876b3f52c914697eb3ab1556f38e]: Commencement: Sch. 1 para. 113 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-78d208c394c66f4ff66b8c1933a6d09a]: Commencement: [Sch. 1 para. 113](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/113) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-78d208c394c66f4ff66b8c1933a6d09a]: Commencement: [Sch. 1 para. 113](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/113) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-2865b043f681ea878f77caa01e5efa73]: Commencement: Sch. 1 para. 114 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-2865b043f681ea878f77caa01e5efa73]: Commencement: Sch. 1 para. 114 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-bb581c6c0b3ac1b9cca34c64f608c413]: Commencement: [Sch. 1 para. 114](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/114) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-bb581c6c0b3ac1b9cca34c64f608c413]: Commencement: [Sch. 1 para. 114](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/114) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-3b97c8dae0726ed3bca472c276af8580]: Commencement: Sch. 1 para. 115 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-3b97c8dae0726ed3bca472c276af8580]: Commencement: Sch. 1 para. 115 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-6543fc241872b9e38d6771421b651082]: Commencement: [Sch. 1 para. 115](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/115) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-6543fc241872b9e38d6771421b651082]: Commencement: [Sch. 1 para. 115](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/115) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-a39da72aa415a3563c3285c8bb47da9f]: Commencement: Sch. 1 para. 116 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-a39da72aa415a3563c3285c8bb47da9f]: Commencement: Sch. 1 para. 116 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-9e55baa0e0fcfadcd941e1955e0ce82b]: Commencement: [Sch. 1 para. 116](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/116) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-9e55baa0e0fcfadcd941e1955e0ce82b]: Commencement: [Sch. 1 para. 116](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/116) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-cf56362746efb870f17396d7f7ad40d6]: Commencement: Sch. 1 para. 117 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-cf56362746efb870f17396d7f7ad40d6]: Commencement: Sch. 1 para. 117 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-76c8daecfe217ba57c712bfea8ea5a4e]: Commencement: [Sch. 1 para. 117](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/117) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-76c8daecfe217ba57c712bfea8ea5a4e]: Commencement: [Sch. 1 para. 117](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/117) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-465cfbc3915e8e4da50ccd30196798dd]: Commencement: Sch. 1 para. 118 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-465cfbc3915e8e4da50ccd30196798dd]: Commencement: Sch. 1 para. 118 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-f929d2c98f12c7c73535d0fcdba2d5c1]: Commencement: [Sch. 1 para. 118](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/118) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-f929d2c98f12c7c73535d0fcdba2d5c1]: Commencement: [Sch. 1 para. 118](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/118) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-7802f3c1b7aa33ebb9aee014872fb588]: Commencement: Sch. 1 para. 119 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-7802f3c1b7aa33ebb9aee014872fb588]: Commencement: Sch. 1 para. 119 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-d9bf4927b4505426c43aecff4cce5c2f]: Commencement: [Sch. 1 para. 119](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/119) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-d9bf4927b4505426c43aecff4cce5c2f]: Commencement: [Sch. 1 para. 119](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/119) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-16514f6357ac081954e7c99162cd23de]: Commencement: Sch. 1 para. 120 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-16514f6357ac081954e7c99162cd23de]: Commencement: Sch. 1 para. 120 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-ec6f2befc537116a93cc43106cacce94]: Commencement: [Sch. 1 para. 120](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/120) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-ec6f2befc537116a93cc43106cacce94]: Commencement: [Sch. 1 para. 120](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/120) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-3dc791272ef2f939c40e6708d86b3752]: Commencement: Sch. 1 para. 121 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-3dc791272ef2f939c40e6708d86b3752]: Commencement: Sch. 1 para. 121 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-566bfe8e75ff1f065ecf541daa68d791]: Commencement: [Sch. 1 para. 121](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/121) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-566bfe8e75ff1f065ecf541daa68d791]: Commencement: [Sch. 1 para. 121](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/121) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-fa16f2c7944769a6db56895320ae126e]: Commencement: Sch. 1 para. 122 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-fa16f2c7944769a6db56895320ae126e]: Commencement: Sch. 1 para. 122 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-316785b47fb6ff9fbfadd8a1da353523]: Commencement: [Sch. 1 para. 122](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/122) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-316785b47fb6ff9fbfadd8a1da353523]: Commencement: [Sch. 1 para. 122](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/122) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-516e0d1a17afe101f20c0130f9b374b1]: Commencement: Sch. 1 para. 123 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-516e0d1a17afe101f20c0130f9b374b1]: Commencement: Sch. 1 para. 123 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-4bbaf2938c33d3130fefe5756291e89f]: Commencement: [Sch. 1 para. 123](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/123) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-4bbaf2938c33d3130fefe5756291e89f]: Commencement: [Sch. 1 para. 123](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/123) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-681cc1b0018d902a236fd48cc430783d]: Commencement: Sch. 1 para. 124 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-681cc1b0018d902a236fd48cc430783d]: Commencement: Sch. 1 para. 124 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-c9920fa9d0d8ba053cd28a7705133983]: Commencement: [Sch. 1 para. 124](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/124) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-c9920fa9d0d8ba053cd28a7705133983]: Commencement: [Sch. 1 para. 124](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/124) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-81c1d7b7536040ddfb907caba584b5f4]: Commencement: Sch. 1 para. 125 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-81c1d7b7536040ddfb907caba584b5f4]: Commencement: Sch. 1 para. 125 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-fe750d4e7ed1cc5225451f4371ab1829]: Commencement: [Sch. 1 para. 125](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/125) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-fe750d4e7ed1cc5225451f4371ab1829]: Commencement: [Sch. 1 para. 125](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/125) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-405f15e44df0e931b06f91d8e72f78b0]: Commencement: Sch. 1 para. 126 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-405f15e44df0e931b06f91d8e72f78b0]: Commencement: Sch. 1 para. 126 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-e61399457b45bd697f73cc2c9bb42a99]: Commencement: [Sch. 1 para. 126](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/126) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-e61399457b45bd697f73cc2c9bb42a99]: Commencement: [Sch. 1 para. 126](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/126) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-6ab14ccc0885b880288214205961fca6]: Commencement: Sch. 1 para. 127 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-6ab14ccc0885b880288214205961fca6]: Commencement: Sch. 1 para. 127 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-b81d1f47e159f03c5e0587fbe73aef96]: Commencement: [Sch. 1 para. 127](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/127) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-b81d1f47e159f03c5e0587fbe73aef96]: Commencement: [Sch. 1 para. 127](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/127) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-174b30375519d940692044a0f52237b0]: Commencement: Sch. 1 para. 128 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-174b30375519d940692044a0f52237b0]: Commencement: Sch. 1 para. 128 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-3e65d5300b4266f442666b78f7443abb]: Commencement: [Sch. 1 para. 128](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/128) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-3e65d5300b4266f442666b78f7443abb]: Commencement: [Sch. 1 para. 128](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/128) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-1fe93158ea5ad8973143693243c8b08b]: Commencement: Sch. 1 para. 129 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-1fe93158ea5ad8973143693243c8b08b]: Commencement: Sch. 1 para. 129 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-143839aba2fc663628a492c12ec6d715]: Commencement: [Sch. 1 para. 129](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/129) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-143839aba2fc663628a492c12ec6d715]: Commencement: [Sch. 1 para. 129](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/129) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-f7843f926f559dadd5c00e2fcc67513b]: Commencement: Sch. 1 para. 130 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-f7843f926f559dadd5c00e2fcc67513b]: Commencement: Sch. 1 para. 130 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-8c65830d689e421c20eb2d932e92a29e]: Commencement: [Sch. 1 para. 130](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/130) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-8c65830d689e421c20eb2d932e92a29e]: Commencement: [Sch. 1 para. 130](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/130) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-a14edc81cee30936b5f4ee0e94fdb513]: Commencement: Sch. 1 para. 131 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-a14edc81cee30936b5f4ee0e94fdb513]: Commencement: Sch. 1 para. 131 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-16b7d8c70eff356bc87af7c293f41536]: Commencement: [Sch. 1 para. 131](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/131) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-16b7d8c70eff356bc87af7c293f41536]: Commencement: [Sch. 1 para. 131](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/131) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-14abdd633e59c1bffd879b16d7fcf06f]: Commencement: Sch. 1 para. 132 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-14abdd633e59c1bffd879b16d7fcf06f]: Commencement: Sch. 1 para. 132 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-23d8f296ef42988d02c4da0758ea996c]: Commencement: [Sch. 1 para. 132](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/132) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-23d8f296ef42988d02c4da0758ea996c]: Commencement: [Sch. 1 para. 132](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/132) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-9704f5d5043048f10c14d2f47d7afdbc]: Commencement: Sch. 1 para. 133 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-9704f5d5043048f10c14d2f47d7afdbc]: Commencement: Sch. 1 para. 133 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-da5ed9f4e5973dd24a954cc539a9f3f0]: Commencement: [Sch. 1 para. 133](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/133) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-da5ed9f4e5973dd24a954cc539a9f3f0]: Commencement: [Sch. 1 para. 133](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/133) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-d60c7ead236611e3305a2e4d1147351e]: Commencement: Sch. 1 para. 134 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-d60c7ead236611e3305a2e4d1147351e]: Commencement: Sch. 1 para. 134 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-af8d04c16a5704cb9f9bcd4b24f57f67]: Commencement: [Sch. 1 para. 134](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/134) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-af8d04c16a5704cb9f9bcd4b24f57f67]: Commencement: [Sch. 1 para. 134](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/134) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-874b5b5bbbf080afc012528b5a24f26a]: Commencement: Sch. 1 para. 135 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-874b5b5bbbf080afc012528b5a24f26a]: Commencement: Sch. 1 para. 135 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-3c19d76c0f020837e7e05ec534a67334]: Commencement: [Sch. 1 para. 135](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/135) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-3c19d76c0f020837e7e05ec534a67334]: Commencement: [Sch. 1 para. 135](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/135) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-f8c9c4d31785b6c55b6b0479a3a15094]: Commencement: Sch. 1 para. 136 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-f8c9c4d31785b6c55b6b0479a3a15094]: Commencement: Sch. 1 para. 136 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-817409ac2f9a44ba40f91928607716e6]: Commencement: [Sch. 1 para. 136](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/136) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-817409ac2f9a44ba40f91928607716e6]: Commencement: [Sch. 1 para. 136](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/136) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-8efd49ae7b012832253bffdd95d2e99e]: Commencement: Sch. 1 para. 137 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-8efd49ae7b012832253bffdd95d2e99e]: Commencement: Sch. 1 para. 137 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-5423a46944e971a601d9d0c7dea5cfe4]: Commencement: [Sch. 1 para. 137](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/137) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-5423a46944e971a601d9d0c7dea5cfe4]: Commencement: [Sch. 1 para. 137](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/137) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-7eb05d472de050b74ccd78ef699ac981]: Commencement: Sch. 1 para. 138 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-7eb05d472de050b74ccd78ef699ac981]: Commencement: Sch. 1 para. 138 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-f86bfed23839b3dd07823dd532b93698]: Commencement: [Sch. 1 para. 138](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/138) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-f86bfed23839b3dd07823dd532b93698]: Commencement: [Sch. 1 para. 138](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/138) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-0d4ff275fa1d06ba80ae387fc7bdfb60]: Commencement: Sch. 1 para. 139 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-0d4ff275fa1d06ba80ae387fc7bdfb60]: Commencement: Sch. 1 para. 139 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-535c7e46844fb80c649cbd406c75093d]: Commencement: [Sch. 1 para. 139](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/139) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-535c7e46844fb80c649cbd406c75093d]: Commencement: [Sch. 1 para. 139](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/139) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-5a48a0e3f83c2ea5f90afcb769c64e21]: Commencement: Sch. 1 para. 140 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-5a48a0e3f83c2ea5f90afcb769c64e21]: Commencement: Sch. 1 para. 140 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-0716c5166dee3a5bb0a80a6ae75bd19c]: Commencement: [Sch. 1 para. 140](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/140) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-0716c5166dee3a5bb0a80a6ae75bd19c]: Commencement: [Sch. 1 para. 140](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/140) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-c8d3291cbb97859091e10045ca5a2717]: Commencement: Sch. 1 para. 141 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-c8d3291cbb97859091e10045ca5a2717]: Commencement: Sch. 1 para. 141 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-569b29c48acc702f7a613ce8c2e382f1]: Commencement: [Sch. 1 para. 141](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/141) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-569b29c48acc702f7a613ce8c2e382f1]: Commencement: [Sch. 1 para. 141](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/141) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-944eeb5e3a66ff368ab6515a95de8483]: Commencement: Sch. 1 para. 142 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-944eeb5e3a66ff368ab6515a95de8483]: Commencement: Sch. 1 para. 142 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-c8bb2328ba0fafada3c3c0cbe9bc05e0]: Commencement: [Sch. 1 para. 142](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/142) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-c8bb2328ba0fafada3c3c0cbe9bc05e0]: Commencement: [Sch. 1 para. 142](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/142) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-c37911b79b3895b611cebca4bc57da17]: Commencement: Sch. 1 para. 143 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-c37911b79b3895b611cebca4bc57da17]: Commencement: Sch. 1 para. 143 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-f7518489f34c0a62d43d9e11dbe98307]: Commencement: [Sch. 1 para. 143](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/143) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-f7518489f34c0a62d43d9e11dbe98307]: Commencement: [Sch. 1 para. 143](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/143) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-6b25e3041fecf7765e35db6754ed0589]: Commencement: Sch. 1 para. 144 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-6b25e3041fecf7765e35db6754ed0589]: Commencement: Sch. 1 para. 144 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-621eadb286d44e04d9c6f91755229773]: Commencement: [Sch. 1 para. 144](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/144) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-621eadb286d44e04d9c6f91755229773]: Commencement: [Sch. 1 para. 144](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/144) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-4cde47ed8cc3e7217d7c24582732144b]: Commencement: Sch. 1 para. 145 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-4cde47ed8cc3e7217d7c24582732144b]: Commencement: Sch. 1 para. 145 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-61b99401791313e6a48dadccc0704221]: Commencement: [Sch. 1 para. 145](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/145) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-61b99401791313e6a48dadccc0704221]: Commencement: [Sch. 1 para. 145](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/145) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-9a2289283f6efb35317ece3878731a86]: Commencement: Sch. 1 para. 146 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-9a2289283f6efb35317ece3878731a86]: Commencement: Sch. 1 para. 146 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-f584c58a66e35735a33866fe27902514]: Commencement: [Sch. 1 para. 146](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/146) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-f584c58a66e35735a33866fe27902514]: Commencement: [Sch. 1 para. 146](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/146) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-00d73b8c215e571d054cce9b6d89bfe3]: Commencement: Sch. 1 para. 147 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-00d73b8c215e571d054cce9b6d89bfe3]: Commencement: Sch. 1 para. 147 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-080dae49c17a6d045a96352e118226da]: Commencement: [Sch. 1 para. 147](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/147) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-080dae49c17a6d045a96352e118226da]: Commencement: [Sch. 1 para. 147](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/147) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-e42e203e9fdf28fa34dbfe6f3e1333a3]: Commencement: Sch. 1 para. 148 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-e42e203e9fdf28fa34dbfe6f3e1333a3]: Commencement: Sch. 1 para. 148 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-b5d8df97c86fe3cb8ae0ee64b7be8a27]: Commencement: [Sch. 1 para. 148](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/148) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-b5d8df97c86fe3cb8ae0ee64b7be8a27]: Commencement: [Sch. 1 para. 148](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/148) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-7aba3767fd616d4817d54c13252f428c]: Commencement: Sch. 1 para. 149 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-7aba3767fd616d4817d54c13252f428c]: Commencement: Sch. 1 para. 149 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-1bbe709f2ebc65ec194fb20b1a36713e]: Commencement: [Sch. 1 para. 149](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/149) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-1bbe709f2ebc65ec194fb20b1a36713e]: Commencement: [Sch. 1 para. 149](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/149) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-9ca6be4046e804c56833224f3a61ef00]: Commencement: Sch. 1 para. 150 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-9ca6be4046e804c56833224f3a61ef00]: Commencement: Sch. 1 para. 150 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-3cee47daf8d5c0a2e9d93d3359b124c0]: Commencement: [Sch. 1 para. 150](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/150) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-3cee47daf8d5c0a2e9d93d3359b124c0]: Commencement: [Sch. 1 para. 150](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/150) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-aeb2e7c223a8e75c2072cdcb1978b1d6]: Commencement: Sch. 1 para. 151 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-aeb2e7c223a8e75c2072cdcb1978b1d6]: Commencement: Sch. 1 para. 151 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-807744295b0e5e2c611e7df4bcc1504e]: Commencement: [Sch. 1 para. 151](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/151) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-807744295b0e5e2c611e7df4bcc1504e]: Commencement: [Sch. 1 para. 151](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/151) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-a7f4e3d72af49792ea40f096b177f8de]: Commencement: Sch. 1 para. 152 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-a7f4e3d72af49792ea40f096b177f8de]: Commencement: Sch. 1 para. 152 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-ee46a71fbd208654e8aaa2891914caeb]: Commencement: [Sch. 1 para. 152](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/152) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-ee46a71fbd208654e8aaa2891914caeb]: Commencement: [Sch. 1 para. 152](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/152) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-52b9b78dc6d59391770fbe11ec166a11]: Commencement: Sch. 1 para. 153 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-52b9b78dc6d59391770fbe11ec166a11]: Commencement: Sch. 1 para. 153 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-71c55adf59a7c87da4ee96577223a5ab]: Commencement: [Sch. 1 para. 153](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/153) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-71c55adf59a7c87da4ee96577223a5ab]: Commencement: [Sch. 1 para. 153](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/153) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-61814937680cd4392260961b87d805dc]: Commencement: Sch. 1 para. 154 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-61814937680cd4392260961b87d805dc]: Commencement: Sch. 1 para. 154 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-ee464bed93d44f7c14b2943018409d40]: Commencement: [Sch. 1 para. 154](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/154) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-ee464bed93d44f7c14b2943018409d40]: Commencement: [Sch. 1 para. 154](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/154) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-95013f7514af4c10a42f0353744612c2]: Commencement: Sch. 1 para. 155 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-95013f7514af4c10a42f0353744612c2]: Commencement: Sch. 1 para. 155 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-921b6fe26658f191b003a6abd16e42bf]: Commencement: [Sch. 1 para. 155](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/155) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-921b6fe26658f191b003a6abd16e42bf]: Commencement: [Sch. 1 para. 155](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/155) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-3ffe1f865a46a3e9ffd2a0d1441a8d01]: Commencement: Sch. 1 para. 156 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-3ffe1f865a46a3e9ffd2a0d1441a8d01]: Commencement: Sch. 1 para. 156 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-12632af12b916f01015f1d9b26173acc]: Commencement: [Sch. 1 para. 156](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/156) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-12632af12b916f01015f1d9b26173acc]: Commencement: [Sch. 1 para. 156](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/156) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-366ed841000f191eb285dd009bdf4716]: Commencement: Sch. 1 para. 157 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-366ed841000f191eb285dd009bdf4716]: Commencement: Sch. 1 para. 157 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-081c2280b54fb366cd9b17b592477e0e]: Commencement: [Sch. 1 para. 157](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/157) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-081c2280b54fb366cd9b17b592477e0e]: Commencement: [Sch. 1 para. 157](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/157) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-596a026221fd8e2c8faa84cacbd09898]: Commencement: Sch. 1 para. 158 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-596a026221fd8e2c8faa84cacbd09898]: Commencement: Sch. 1 para. 158 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-ac051a63f322fe6f02028456760540fd]: Commencement: [Sch. 1 para. 158](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/158) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-ac051a63f322fe6f02028456760540fd]: Commencement: [Sch. 1 para. 158](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/158) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-019c04fead2741abeb0f83c1c8df3083]: Commencement: Sch. 1 para. 159 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-019c04fead2741abeb0f83c1c8df3083]: Commencement: Sch. 1 para. 159 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-c7af46b80db0217d7c3df49d7fdb8e56]: Commencement: [Sch. 1 para. 159](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/159) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-c7af46b80db0217d7c3df49d7fdb8e56]: Commencement: [Sch. 1 para. 159](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/159) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-d861cef171b824cf1b36d8c1c354b5da]: Commencement: Sch. 1 para. 160 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-d861cef171b824cf1b36d8c1c354b5da]: Commencement: Sch. 1 para. 160 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-17b3ccaccbcd61eb3f328fbb5e739ea3]: Commencement: [Sch. 1 para. 160](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/160) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-17b3ccaccbcd61eb3f328fbb5e739ea3]: Commencement: [Sch. 1 para. 160](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/160) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-fb1a7ca70518788dff0d483c28f75ada]: Commencement: Sch. 1 para. 161 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-fb1a7ca70518788dff0d483c28f75ada]: Commencement: Sch. 1 para. 161 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-561c4e48a002d45a89a2b69d4615e715]: Commencement: [Sch. 1 para. 161](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/161) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-561c4e48a002d45a89a2b69d4615e715]: Commencement: [Sch. 1 para. 161](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/161) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-6e92218b83a1bc9c0dfad71f83e9680a]: Commencement: Sch. 1 para. 162 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-6e92218b83a1bc9c0dfad71f83e9680a]: Commencement: Sch. 1 para. 162 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-6d3b269c05f4bc72d2728b94cbf78974]: Commencement: [Sch. 1 para. 162](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/162) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-6d3b269c05f4bc72d2728b94cbf78974]: Commencement: [Sch. 1 para. 162](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/162) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-e0693be5f35280d7519a8f577f761b6b]: Commencement: Sch. 1 para. 163 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-e0693be5f35280d7519a8f577f761b6b]: Commencement: Sch. 1 para. 163 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-ce272c69fe0818752d16aa44fe344459]: Commencement: [Sch. 1 para. 163](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/163) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-ce272c69fe0818752d16aa44fe344459]: Commencement: [Sch. 1 para. 163](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/163) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-48b5c75be4a2b9710b89ef5603dc0ae5]: Commencement: Sch. 1 para. 164 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-48b5c75be4a2b9710b89ef5603dc0ae5]: Commencement: Sch. 1 para. 164 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-3427aebb3c2cce36c6300083c56da95c]: Commencement: [Sch. 1 para. 164](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/164) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-3427aebb3c2cce36c6300083c56da95c]: Commencement: [Sch. 1 para. 164](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/164) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-477bad78f29e2867e2802fbc583120f9]: Commencement: Sch. 1 para. 165 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-477bad78f29e2867e2802fbc583120f9]: Commencement: Sch. 1 para. 165 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-f07ffa5456b7caa0a9adf7349ae64a5a]: Commencement: [Sch. 1 para. 165](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/165) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-f07ffa5456b7caa0a9adf7349ae64a5a]: Commencement: [Sch. 1 para. 165](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/165) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-55ed0423ea6f6d05099b9b0d7264594a]: Commencement: Sch. 1 para. 166 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-55ed0423ea6f6d05099b9b0d7264594a]: Commencement: Sch. 1 para. 166 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-959132356109a2384b52e99721d5fec3]: Commencement: [Sch. 1 para. 166](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/166) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-959132356109a2384b52e99721d5fec3]: Commencement: [Sch. 1 para. 166](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/166) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-8ede661cce4ba1721fd2f948cd8ba2b3]: Commencement: Sch. 1 para. 167 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-8ede661cce4ba1721fd2f948cd8ba2b3]: Commencement: Sch. 1 para. 167 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-14b189dfdf137a7468ad6ba0ba2738cf]: Commencement: [Sch. 1 para. 167](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/167) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-14b189dfdf137a7468ad6ba0ba2738cf]: Commencement: [Sch. 1 para. 167](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/167) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-0cc67f2eb136fbccf7e5c5dd9c4dde83]: Commencement: Sch. 1 para. 168 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-0cc67f2eb136fbccf7e5c5dd9c4dde83]: Commencement: Sch. 1 para. 168 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-81c4c389d77d8c7a678e4733ae6cb27f]: Commencement: [Sch. 1 para. 168](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/168) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-81c4c389d77d8c7a678e4733ae6cb27f]: Commencement: [Sch. 1 para. 168](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/168) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-3d0668ab0ca5e7105658245cf3ae5275]: Commencement: Sch. 1 para. 169 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-3d0668ab0ca5e7105658245cf3ae5275]: Commencement: Sch. 1 para. 169 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-6412e6003ce39524b07a2f29e71ea6c6]: Commencement: [Sch. 1 para. 169](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/169) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-6412e6003ce39524b07a2f29e71ea6c6]: Commencement: [Sch. 1 para. 169](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/169) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-83b9f60bc6f0052c141de3885fe752e9]: Commencement: Sch. 1 para. 170 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-83b9f60bc6f0052c141de3885fe752e9]: Commencement: Sch. 1 para. 170 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-281f31e65c02482407864a563680fefd]: Commencement: [Sch. 1 para. 170](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/170) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-281f31e65c02482407864a563680fefd]: Commencement: [Sch. 1 para. 170](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/170) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-e3d432d0ab0f487cd6658426ee27efb2]: Commencement: Sch. 1 para. 171 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-e3d432d0ab0f487cd6658426ee27efb2]: Commencement: Sch. 1 para. 171 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-114d37e8acf82083ba83007649566b57]: Commencement: [Sch. 1 para. 171](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/171) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-114d37e8acf82083ba83007649566b57]: Commencement: [Sch. 1 para. 171](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/171) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-dd7224cae7f5288d42a7b452c982a5fe]: Commencement: Sch. 1 para. 172 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-dd7224cae7f5288d42a7b452c982a5fe]: Commencement: Sch. 1 para. 172 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-04cf9a265259484a564f4c6497c7052a]: Commencement: [Sch. 1 para. 172](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/172) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-04cf9a265259484a564f4c6497c7052a]: Commencement: [Sch. 1 para. 172](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/172) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-c035b8f382246bc86c17facb83bf9dbf]: Commencement: Sch. 1 para. 173 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-c035b8f382246bc86c17facb83bf9dbf]: Commencement: Sch. 1 para. 173 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-e53095f6b02e4cc3093bea0cfb889ed9]: Commencement: [Sch. 1 para. 173](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/173) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-e53095f6b02e4cc3093bea0cfb889ed9]: Commencement: [Sch. 1 para. 173](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/173) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-6ececb1a5417c8d3ea452a6bf306cfcd]: Commencement: Sch. 1 para. 174 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-6ececb1a5417c8d3ea452a6bf306cfcd]: Commencement: Sch. 1 para. 174 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-3e8fe4a2f93a042c967abf3bbccf86c8]: Commencement: [Sch. 1 para. 174](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/174) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-3e8fe4a2f93a042c967abf3bbccf86c8]: Commencement: [Sch. 1 para. 174](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/174) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-dd5c04e1f15cbcc3a7fa2db3432b7053]: Commencement: Sch. 1 para. 175 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-dd5c04e1f15cbcc3a7fa2db3432b7053]: Commencement: Sch. 1 para. 175 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-053b0bd1b59693b13c8008f44bd75ec4]: Commencement: [Sch. 1 para. 175](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/175) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-053b0bd1b59693b13c8008f44bd75ec4]: Commencement: [Sch. 1 para. 175](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/175) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-8a090151a249fe6cd031b1ad3c9d470c]: Commencement: Sch. 1 para. 176 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-8a090151a249fe6cd031b1ad3c9d470c]: Commencement: Sch. 1 para. 176 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-79870c01c257dfb49b788829e9a72172]: Commencement: [Sch. 1 para. 176](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/176) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-79870c01c257dfb49b788829e9a72172]: Commencement: [Sch. 1 para. 176](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/176) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-5fe0a481b8fe04643fbcaf92508fa18c]: Commencement: Sch. 1 para. 177 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-5fe0a481b8fe04643fbcaf92508fa18c]: Commencement: Sch. 1 para. 177 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-ab0333c6862a1d9be4b04f4e6a1caf58]: Commencement: [Sch. 1 para. 177](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/177) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-ab0333c6862a1d9be4b04f4e6a1caf58]: Commencement: [Sch. 1 para. 177](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/177) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-c97ae8d332e4b84b11770f0302d9de19]: Commencement: Sch. 1 para. 178 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-c97ae8d332e4b84b11770f0302d9de19]: Commencement: Sch. 1 para. 178 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-96a45683bb21840d170e8e54c7f3e8b3]: Commencement: [Sch. 1 para. 178](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/178) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-96a45683bb21840d170e8e54c7f3e8b3]: Commencement: [Sch. 1 para. 178](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/178) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-decb00437128b536955f6f1252e157e4]: Commencement: Sch. 1 para. 179 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-decb00437128b536955f6f1252e157e4]: Commencement: Sch. 1 para. 179 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-c45f7f3d488a00311d34049bd9664fd9]: Commencement: [Sch. 1 para. 179](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/179) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-c45f7f3d488a00311d34049bd9664fd9]: Commencement: [Sch. 1 para. 179](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/179) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-65f3b3ab8fb3abc70064cd9dd98adb47]: Commencement: Sch. 1 para. 180 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-65f3b3ab8fb3abc70064cd9dd98adb47]: Commencement: Sch. 1 para. 180 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-d29e827d8ee7900309b3006636d62336]: Commencement: [Sch. 1 para. 180](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/180) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-d29e827d8ee7900309b3006636d62336]: Commencement: [Sch. 1 para. 180](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/180) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-02feff59f209401cfe0d82ee3a29ea30]: Commencement: Sch. 1 para. 181 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-02feff59f209401cfe0d82ee3a29ea30]: Commencement: Sch. 1 para. 181 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-957819c20a7a46903e2aee662ae46fa4]: Commencement: [Sch. 1 para. 181](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/181) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-957819c20a7a46903e2aee662ae46fa4]: Commencement: [Sch. 1 para. 181](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/181) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-b44bf7718eb8329749c7e85523c67653]: Commencement: Sch. 1 para. 182 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-b44bf7718eb8329749c7e85523c67653]: Commencement: Sch. 1 para. 182 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-ef0fab5bb3c823a70b51b137b8aca715]: Commencement: [Sch. 1 para. 182](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/182) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-ef0fab5bb3c823a70b51b137b8aca715]: Commencement: [Sch. 1 para. 182](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/182) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-b15e3505e83ac8305ecc7a6cf902e43d]: Commencement: Sch. 1 para. 183 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-b15e3505e83ac8305ecc7a6cf902e43d]: Commencement: Sch. 1 para. 183 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-afe6aa851e86b7224c937d124f13a1b9]: Commencement: [Sch. 1 para. 183](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/183) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-afe6aa851e86b7224c937d124f13a1b9]: Commencement: [Sch. 1 para. 183](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/183) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-7035f00f31616455ce214ca94aec4994]: Commencement: Sch. 1 para. 184 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-7035f00f31616455ce214ca94aec4994]: Commencement: Sch. 1 para. 184 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-7baa8e55a4a73787f3e800829c61fb17]: Commencement: [Sch. 1 para. 184](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/184) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-7baa8e55a4a73787f3e800829c61fb17]: Commencement: [Sch. 1 para. 184](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/184) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-f45b4d86e97573c297ddb1b3794d7826]: Commencement: Sch. 1 para. 185 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-f45b4d86e97573c297ddb1b3794d7826]: Commencement: Sch. 1 para. 185 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-271fbcbbecd06055922b9306ea8bef5f]: Commencement: [Sch. 1 para. 185](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/185) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-271fbcbbecd06055922b9306ea8bef5f]: Commencement: [Sch. 1 para. 185](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/185) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-91d7fe031d405edcd380ef891fa1d55c]: Commencement: Sch. 1 para. 186 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-91d7fe031d405edcd380ef891fa1d55c]: Commencement: Sch. 1 para. 186 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-1073de3bd9660834c701b29dc7849f17]: Commencement: [Sch. 1 para. 186](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/186) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-1073de3bd9660834c701b29dc7849f17]: Commencement: [Sch. 1 para. 186](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/186) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-bbf6a76b4d96a25387a9ce9ed204d8cd]: Commencement: Sch. 1 para. 187 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-bbf6a76b4d96a25387a9ce9ed204d8cd]: Commencement: Sch. 1 para. 187 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-024262d0e184be466a4dd4c13c467534]: Commencement: [Sch. 1 para. 187](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/187) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-024262d0e184be466a4dd4c13c467534]: Commencement: [Sch. 1 para. 187](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/187) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-ef711e6b2ef8b6f93bc28529c78d66e0]: Commencement: Sch. 1 para. 188 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-ef711e6b2ef8b6f93bc28529c78d66e0]: Commencement: Sch. 1 para. 188 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-fd355ff30a8c63fca34923c878656319]: Commencement: [Sch. 1 para. 188](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/188) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-fd355ff30a8c63fca34923c878656319]: Commencement: [Sch. 1 para. 188](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/188) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-3137856914bb454e22f76396cd5010a1]: Commencement: Sch. 1 para. 189 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-3137856914bb454e22f76396cd5010a1]: Commencement: Sch. 1 para. 189 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-1c7fd13ba21117a2ef4ac3a718454eae]: Commencement: [Sch. 1 para. 189](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/189) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-1c7fd13ba21117a2ef4ac3a718454eae]: Commencement: [Sch. 1 para. 189](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/189) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-33ee04f9e0a72e9ae806ce865abc4441]: Commencement: Sch. 1 para. 190 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-33ee04f9e0a72e9ae806ce865abc4441]: Commencement: Sch. 1 para. 190 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-12502f728010c511597ddd8b32992524]: Commencement: [Sch. 1 para. 190](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/190) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-12502f728010c511597ddd8b32992524]: Commencement: [Sch. 1 para. 190](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/190) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-129ddc62eaa3edfd8bde4741a264b092]: Commencement: Sch. 1 para. 191 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-129ddc62eaa3edfd8bde4741a264b092]: Commencement: Sch. 1 para. 191 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-c54a4b28d855a83382848e646d31c05b]: Commencement: [Sch. 1 para. 191](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/191) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-c54a4b28d855a83382848e646d31c05b]: Commencement: [Sch. 1 para. 191](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/191) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-eb70a0ef14541e14c3aec1a4044614bb]: Commencement: Sch. 1 para. 192 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-eb70a0ef14541e14c3aec1a4044614bb]: Commencement: Sch. 1 para. 192 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-96b933b5070fef7f10de1215b18112ce]: Commencement: [Sch. 1 para. 192](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/192) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-96b933b5070fef7f10de1215b18112ce]: Commencement: [Sch. 1 para. 192](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/192) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-a4e1b1f6d9393e3dd58bd6e30b3167ea]: Commencement: Sch. 1 para. 193 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-a4e1b1f6d9393e3dd58bd6e30b3167ea]: Commencement: Sch. 1 para. 193 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-6c28ec6d6fb003f5b0edb3959d7608a5]: Commencement: [Sch. 1 para. 193](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/193) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-6c28ec6d6fb003f5b0edb3959d7608a5]: Commencement: [Sch. 1 para. 193](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/193) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-0b4f18e331f45db808dfac0ddfb84585]: Commencement: Sch. 1 para. 194 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-0b4f18e331f45db808dfac0ddfb84585]: Commencement: Sch. 1 para. 194 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-ffc5c39646b2921913da61220f8ada60]: Commencement: [Sch. 1 para. 194](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/194) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-ffc5c39646b2921913da61220f8ada60]: Commencement: [Sch. 1 para. 194](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/194) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-490afc50450c71477db0bd00f18e30a6]: Commencement: Sch. 1 para. 195 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-490afc50450c71477db0bd00f18e30a6]: Commencement: Sch. 1 para. 195 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-13ecc589b69e2c9b5d2c64eb86b11ad6]: Commencement: [Sch. 1 para. 195](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/195) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-13ecc589b69e2c9b5d2c64eb86b11ad6]: Commencement: [Sch. 1 para. 195](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/195) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-5cf0f1420834aa400cf99510d148366c]: Commencement: Sch. 1 para. 196 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-5cf0f1420834aa400cf99510d148366c]: Commencement: Sch. 1 para. 196 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-acdad64287af0d2d0755897a30b180d2]: Commencement: [Sch. 1 para. 196](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/196) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-acdad64287af0d2d0755897a30b180d2]: Commencement: [Sch. 1 para. 196](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/196) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-0957a6a52ba9cdeca12f5350627eb9ad]: Commencement: Sch. 1 para. 197 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-0957a6a52ba9cdeca12f5350627eb9ad]: Commencement: Sch. 1 para. 197 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-fd75bd384c901a211bc6f2dffa61ff16]: Commencement: [Sch. 1 para. 197](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/197) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-fd75bd384c901a211bc6f2dffa61ff16]: Commencement: [Sch. 1 para. 197](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/197) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-55bca58fdfe64f191a54712d7d7921b5]: Commencement: Sch. 1 para. 198 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-55bca58fdfe64f191a54712d7d7921b5]: Commencement: Sch. 1 para. 198 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-27859171954e7fab949189a5ed48b674]: Commencement: [Sch. 1 para. 198](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/198) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-27859171954e7fab949189a5ed48b674]: Commencement: [Sch. 1 para. 198](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/198) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-6c2f9488e0aff46f9a2bb8a54dc93d14]: Commencement: Sch. 1 para. 199 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-6c2f9488e0aff46f9a2bb8a54dc93d14]: Commencement: Sch. 1 para. 199 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-f41433fe0a477e86836aba778ce843b6]: Commencement: [Sch. 1 para. 199](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/199) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-f41433fe0a477e86836aba778ce843b6]: Commencement: [Sch. 1 para. 199](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/199) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-b326b4028c280283d58d452dceb36aaa]: Commencement: Sch. 1 para. 200 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-b326b4028c280283d58d452dceb36aaa]: Commencement: Sch. 1 para. 200 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-d135a61b73dffda6f9e56ba7a66bca33]: Commencement: [Sch. 1 para. 200](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/200) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-d135a61b73dffda6f9e56ba7a66bca33]: Commencement: [Sch. 1 para. 200](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/200) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-641ce19b6332398b46e9ab2c14c03e0a]: Commencement: Sch. 1 para. 201 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-641ce19b6332398b46e9ab2c14c03e0a]: Commencement: Sch. 1 para. 201 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-4205945e8c80c77f0162bb05c8911fb7]: Commencement: [Sch. 1 para. 201](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/201) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-4205945e8c80c77f0162bb05c8911fb7]: Commencement: [Sch. 1 para. 201](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/201) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-99dca0c7a97879a8875d954d68d77a04]: Commencement: Sch. 1 para. 202 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-99dca0c7a97879a8875d954d68d77a04]: Commencement: Sch. 1 para. 202 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-b87ea62aa8402fbad5f6c4d00adaeb6f]: Commencement: [Sch. 1 para. 202](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/202) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-b87ea62aa8402fbad5f6c4d00adaeb6f]: Commencement: [Sch. 1 para. 202](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/202) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-de5c881a4cd6df077a251d61db920a21]: Commencement: Sch. 1 para. 203 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-de5c881a4cd6df077a251d61db920a21]: Commencement: Sch. 1 para. 203 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-aa74535b81c1ce12b25e509769145ddc]: Commencement: [Sch. 1 para. 203](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/203) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-aa74535b81c1ce12b25e509769145ddc]: Commencement: [Sch. 1 para. 203](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/203) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-e617fc22d7fedb134f8c506984847ef3]: Commencement: Sch. 1 para. 204 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-e617fc22d7fedb134f8c506984847ef3]: Commencement: Sch. 1 para. 204 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-4d1b2f981511d59c391a15ee5320fb33]: Commencement: [Sch. 1 para. 204](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/204) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-4d1b2f981511d59c391a15ee5320fb33]: Commencement: [Sch. 1 para. 204](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/204) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-a449a3ea058fc5cbb1cfe1cabc8e9819]: Commencement: Sch. 1 para. 205 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-a449a3ea058fc5cbb1cfe1cabc8e9819]: Commencement: Sch. 1 para. 205 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-18d2ef6a5ba6fdfe3ac058dbc750b9ea]: Commencement: [Sch. 1 para. 205](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/205) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-18d2ef6a5ba6fdfe3ac058dbc750b9ea]: Commencement: [Sch. 1 para. 205](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/205) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-6927000d0076d0612edf0000804845c4]: Commencement: Sch. 1 para. 206 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-6927000d0076d0612edf0000804845c4]: Commencement: Sch. 1 para. 206 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-720bc3cdb0db07d7d4e371de65314bf0]: Commencement: [Sch. 1 para. 206](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/206) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-720bc3cdb0db07d7d4e371de65314bf0]: Commencement: [Sch. 1 para. 206](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/206) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-1ae465fa55c03d6291486f43dc08c04c]: Commencement: Sch. 1 para. 207 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-1ae465fa55c03d6291486f43dc08c04c]: Commencement: Sch. 1 para. 207 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-4f51e01b3e81fd2b97c8866e31144a6c]: Commencement: [Sch. 1 para. 207](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/207) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-4f51e01b3e81fd2b97c8866e31144a6c]: Commencement: [Sch. 1 para. 207](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/207) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-1992b9b2b372b6be7f10c8d5d63c9b62]: Commencement: Sch. 1 para. 208 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-1992b9b2b372b6be7f10c8d5d63c9b62]: Commencement: Sch. 1 para. 208 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-8ed41c7f7ca152b788e91e23dedfe63b]: Commencement: [Sch. 1 para. 208](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/208) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-8ed41c7f7ca152b788e91e23dedfe63b]: Commencement: [Sch. 1 para. 208](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/208) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-5f74327be2c92aa547a895312c651255]: Commencement: Sch. 1 para. 209 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-5f74327be2c92aa547a895312c651255]: Commencement: Sch. 1 para. 209 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-18eae5cb2472c5266bf9d73c69f6d658]: Commencement: [Sch. 1 para. 209](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/209) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-18eae5cb2472c5266bf9d73c69f6d658]: Commencement: [Sch. 1 para. 209](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/209) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-bc6b39cde9d5a439c17f2b46e67716b9]: Commencement: Sch. 1 para. 210 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-bc6b39cde9d5a439c17f2b46e67716b9]: Commencement: Sch. 1 para. 210 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-9551b7a601461d880d4430551ed4f82a]: Commencement: [Sch. 1 para. 210](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/210) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-9551b7a601461d880d4430551ed4f82a]: Commencement: [Sch. 1 para. 210](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/210) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-31597ed6d560a1db02feb21cac21c88c]: Commencement: Sch. 1 para. 211 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-31597ed6d560a1db02feb21cac21c88c]: Commencement: Sch. 1 para. 211 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-de5778fcca25c9cf3487592a0d7120b2]: Commencement: [Sch. 1 para. 211](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/211) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-de5778fcca25c9cf3487592a0d7120b2]: Commencement: [Sch. 1 para. 211](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/211) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-161ec2fc09d19e35410d92563c79ca2c]: Commencement: Sch. 1 para. 212 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-161ec2fc09d19e35410d92563c79ca2c]: Commencement: Sch. 1 para. 212 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-4d558564c467efa3e13105cbc9e94587]: Commencement: [Sch. 1 para. 212](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/212) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-4d558564c467efa3e13105cbc9e94587]: Commencement: [Sch. 1 para. 212](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/212) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-020b5c1c66c7eee6a9766ef73ca89fb2]: Commencement: Sch. 1 para. 213 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-020b5c1c66c7eee6a9766ef73ca89fb2]: Commencement: Sch. 1 para. 213 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-237129344db1276c237e7dfbbfd08ca2]: Commencement: [Sch. 1 para. 213](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/213) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-237129344db1276c237e7dfbbfd08ca2]: Commencement: [Sch. 1 para. 213](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/213) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-d40d32fa18fa8553a252d5e4feb5ef0b]: Commencement: Sch. 1 para. 214 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-d40d32fa18fa8553a252d5e4feb5ef0b]: Commencement: Sch. 1 para. 214 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-903b67118375c3f804078f71c25aba53]: Commencement: [Sch. 1 para. 214](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/214) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-903b67118375c3f804078f71c25aba53]: Commencement: [Sch. 1 para. 214](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/214) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-bea8c85261703104ed70e6d90ee6cdfe]: Commencement: Sch. 1 para. 215 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-bea8c85261703104ed70e6d90ee6cdfe]: Commencement: Sch. 1 para. 215 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-6cb52d84f40df403945f3174b6404967]: Commencement: [Sch. 1 para. 215](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/215) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-6cb52d84f40df403945f3174b6404967]: Commencement: [Sch. 1 para. 215](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/215) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-994c537cf9f9ac4232c6f8ae6389aab9]: Commencement: Sch. 1 para. 216 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-994c537cf9f9ac4232c6f8ae6389aab9]: Commencement: Sch. 1 para. 216 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-303be1f290c5e636acc2251c5f8267ad]: Commencement: [Sch. 1 para. 216](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/216) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-303be1f290c5e636acc2251c5f8267ad]: Commencement: [Sch. 1 para. 216](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/216) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-a5bab7d4c4b4b3a1f5438f2adaa343a9]: Commencement: Sch. 1 para. 217 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-a5bab7d4c4b4b3a1f5438f2adaa343a9]: Commencement: Sch. 1 para. 217 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-87a35519bceaebfb8c3966ca2fff643b]: Commencement: [Sch. 1 para. 217](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/217) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-87a35519bceaebfb8c3966ca2fff643b]: Commencement: [Sch. 1 para. 217](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/217) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-132ab9048217a64e44ba0002c023d61d]: Commencement: Sch. 1 para. 218 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-132ab9048217a64e44ba0002c023d61d]: Commencement: Sch. 1 para. 218 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-0bd2bc1b6567c960f232dbfebe655eed]: Commencement: [Sch. 1 para. 218](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/218) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-0bd2bc1b6567c960f232dbfebe655eed]: Commencement: [Sch. 1 para. 218](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/218) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-e70aa386f52334d162760c409260110c]: Commencement: Sch. 1 para. 219 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-e70aa386f52334d162760c409260110c]: Commencement: Sch. 1 para. 219 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-f1a9b3c7c9dd38f04edcf405f07adb64]: Commencement: [Sch. 1 para. 219](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/219) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-f1a9b3c7c9dd38f04edcf405f07adb64]: Commencement: [Sch. 1 para. 219](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/219) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-77231eb39fdbb49db47f467f826345ab]: Commencement: Sch. 1 para. 220 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-77231eb39fdbb49db47f467f826345ab]: Commencement: Sch. 1 para. 220 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-9aacd255dc8ecdf504948ecd491431de]: Commencement: [Sch. 1 para. 220](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/220) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-9aacd255dc8ecdf504948ecd491431de]: Commencement: [Sch. 1 para. 220](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/220) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-43f531c505819af21b5ca2af03ba5b09]: Commencement: Sch. 1 para. 221 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-43f531c505819af21b5ca2af03ba5b09]: Commencement: Sch. 1 para. 221 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-99d31ccb29b2c2ce199c8b006f4e64d1]: Commencement: [Sch. 1 para. 221](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/221) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-99d31ccb29b2c2ce199c8b006f4e64d1]: Commencement: [Sch. 1 para. 221](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/221) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-20899bd6f931d943ad16d32338f39345]: Commencement: Sch. 1 para. 222 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-20899bd6f931d943ad16d32338f39345]: Commencement: Sch. 1 para. 222 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-7d081cc90170c390d1b0de400620923e]: Commencement: [Sch. 1 para. 222](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/222) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-7d081cc90170c390d1b0de400620923e]: Commencement: [Sch. 1 para. 222](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/222) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-18a9d85be7d80bffccd8e7284333feb0]: Commencement: Sch. 1 para. 223 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-18a9d85be7d80bffccd8e7284333feb0]: Commencement: Sch. 1 para. 223 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-df6fdedd9d7aae015de2564e54035259]: Commencement: [Sch. 1 para. 223](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/223) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-df6fdedd9d7aae015de2564e54035259]: Commencement: [Sch. 1 para. 223](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/223) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-9a8aa6a3c05ee7618293c5a7afe4a2ae]: Commencement: Sch. 1 para. 224 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-9a8aa6a3c05ee7618293c5a7afe4a2ae]: Commencement: Sch. 1 para. 224 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-2dfaef7250d01b4a0d755ade168be303]: Commencement: [Sch. 1 para. 224](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/224) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-2dfaef7250d01b4a0d755ade168be303]: Commencement: [Sch. 1 para. 224](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/224) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-61d8792f1c5309f6b7a0e309f5663d03]: Commencement: Sch. 1 para. 225 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-61d8792f1c5309f6b7a0e309f5663d03]: Commencement: Sch. 1 para. 225 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-ddd791ff2c3290d1a9c1e951038de2a8]: Commencement: [Sch. 1 para. 225](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/225) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-ddd791ff2c3290d1a9c1e951038de2a8]: Commencement: [Sch. 1 para. 225](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/225) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-409e3af9f6472b2e0606cbac818f3a56]: Commencement: Sch. 1 para. 226 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-409e3af9f6472b2e0606cbac818f3a56]: Commencement: Sch. 1 para. 226 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-cac03372fe0b8d17bd9fc36e39a22480]: Commencement: [Sch. 1 para. 226](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/226) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-cac03372fe0b8d17bd9fc36e39a22480]: Commencement: [Sch. 1 para. 226](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/226) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-8d31957828ca9c823a1890cdd10adf57]: Commencement: Sch. 1 para. 227 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-8d31957828ca9c823a1890cdd10adf57]: Commencement: Sch. 1 para. 227 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-47989cef837a1accb42485143e102322]: Commencement: [Sch. 1 para. 227](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/227) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-47989cef837a1accb42485143e102322]: Commencement: [Sch. 1 para. 227](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/227) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-932dbc07d9864207b521f25926587e01]: Commencement: Sch. 1 para. 228 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-932dbc07d9864207b521f25926587e01]: Commencement: Sch. 1 para. 228 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-b25dbc5b3d2c44f1c0d6ac366956f58b]: Commencement: [Sch. 1 para. 228](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/228) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-b25dbc5b3d2c44f1c0d6ac366956f58b]: Commencement: [Sch. 1 para. 228](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/228) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-314445ec01574c3bd448b9887bf415c4]: Commencement: Sch. 1 para. 229 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-314445ec01574c3bd448b9887bf415c4]: Commencement: Sch. 1 para. 229 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-df50204a4f09f9df4e6dbb46a625ea98]: Commencement: [Sch. 1 para. 229](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/229) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-df50204a4f09f9df4e6dbb46a625ea98]: Commencement: [Sch. 1 para. 229](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/229) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-0d3eb5a4b8db40178580105425e69a05]: Commencement: Sch. 1 para. 230 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-0d3eb5a4b8db40178580105425e69a05]: Commencement: Sch. 1 para. 230 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-23fd82d27b2db8eb8615d112b06e5560]: Commencement: [Sch. 1 para. 230](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/230) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-23fd82d27b2db8eb8615d112b06e5560]: Commencement: [Sch. 1 para. 230](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/230) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-6ae99bf744c8823082a07bc4e4ca6914]: Commencement: Sch. 1 para. 231 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-6ae99bf744c8823082a07bc4e4ca6914]: Commencement: Sch. 1 para. 231 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-64ea2868d3c9a59f38a8534ee1209580]: Commencement: [Sch. 1 para. 231](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/231) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-64ea2868d3c9a59f38a8534ee1209580]: Commencement: [Sch. 1 para. 231](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/231) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-c3f7aa54452f1d607e05a21e42a2b624]: Commencement: Sch. 1 para. 232 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-c3f7aa54452f1d607e05a21e42a2b624]: Commencement: Sch. 1 para. 232 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-6e5377874019ad9d38bafa5409eb252c]: Commencement: [Sch. 1 para. 232](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/232) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-6e5377874019ad9d38bafa5409eb252c]: Commencement: [Sch. 1 para. 232](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/232) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-a3ec543db8c597d83d6cbf526862586d]: Commencement: Sch. 1 para. 233 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-a3ec543db8c597d83d6cbf526862586d]: Commencement: Sch. 1 para. 233 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-5c7071eb54c5e7ae7d7e426c5c8ae515]: Commencement: [Sch. 1 para. 233](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/233) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-5c7071eb54c5e7ae7d7e426c5c8ae515]: Commencement: [Sch. 1 para. 233](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/233) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-ef9b81cb385c287ad0057a2fde105f1c]: Commencement: Sch. 1 para. 234 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-ef9b81cb385c287ad0057a2fde105f1c]: Commencement: Sch. 1 para. 234 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-e0e99a57b9fdcd8910a1ecf96f147a6c]: Commencement: [Sch. 1 para. 234](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/234) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-e0e99a57b9fdcd8910a1ecf96f147a6c]: Commencement: [Sch. 1 para. 234](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/234) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-9034971f2fa04259173617f3d2acb8a6]: Commencement: Sch. 1 para. 235 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-9034971f2fa04259173617f3d2acb8a6]: Commencement: Sch. 1 para. 235 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-f98e55fa5e91ef1035cfccc97494c7ad]: Commencement: [Sch. 1 para. 235](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/235) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-f98e55fa5e91ef1035cfccc97494c7ad]: Commencement: [Sch. 1 para. 235](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/235) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-9acdbc66cfa4b4e1e056211f026a1dee]: Commencement: Sch. 1 para. 236 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-9acdbc66cfa4b4e1e056211f026a1dee]: Commencement: Sch. 1 para. 236 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-5a362323b4a50d7188ac782c594226a4]: Commencement: [Sch. 1 para. 236](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/236) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-5a362323b4a50d7188ac782c594226a4]: Commencement: [Sch. 1 para. 236](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/236) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-8328db740c4d7a65e4843aabfc471395]: Commencement: Sch. 1 para. 237 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-8328db740c4d7a65e4843aabfc471395]: Commencement: Sch. 1 para. 237 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-6a4f7f1e6f6ab6fccb0db84388b99e5a]: Commencement: [Sch. 1 para. 237](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/237) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-6a4f7f1e6f6ab6fccb0db84388b99e5a]: Commencement: [Sch. 1 para. 237](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/237) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-ba6cdc2f76c159f112ebb0227a340786]: Commencement: Sch. 1 para. 238 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-ba6cdc2f76c159f112ebb0227a340786]: Commencement: Sch. 1 para. 238 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-aae8d519bd0f8f124bf8efe12bfbda77]: Commencement: [Sch. 1 para. 238](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/238) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-aae8d519bd0f8f124bf8efe12bfbda77]: Commencement: [Sch. 1 para. 238](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/238) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-698def4d546b3fa8fb24f766d21541b5]: Commencement: Sch. 1 para. 239 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-698def4d546b3fa8fb24f766d21541b5]: Commencement: Sch. 1 para. 239 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-1be6a707f24d1f0bb6467e1517684aff]: Commencement: [Sch. 1 para. 239](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/239) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-1be6a707f24d1f0bb6467e1517684aff]: Commencement: [Sch. 1 para. 239](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/239) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-0b58ce3545b989db15a315385f8d0719]: Commencement: Sch. 1 para. 240 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-0b58ce3545b989db15a315385f8d0719]: Commencement: Sch. 1 para. 240 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-1743c8f365c74d13e0caa6c6f9da3cb4]: Commencement: [Sch. 1 para. 240](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/240) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-1743c8f365c74d13e0caa6c6f9da3cb4]: Commencement: [Sch. 1 para. 240](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/240) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-f624a0437f4cd6316416389309371889]: Commencement: Sch. 1 para. 241 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-f624a0437f4cd6316416389309371889]: Commencement: Sch. 1 para. 241 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-33dbac616bcde385d159d7ac98cc086b]: Commencement: [Sch. 1 para. 241](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/241) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-33dbac616bcde385d159d7ac98cc086b]: Commencement: [Sch. 1 para. 241](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/241) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-df87a9826e6b3ce4a17bbf1e888b8dee]: Commencement: Sch. 1 para. 242 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-df87a9826e6b3ce4a17bbf1e888b8dee]: Commencement: Sch. 1 para. 242 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-eef9e7414ae5b856842247ba341b1490]: Commencement: [Sch. 1 para. 242](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/242) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-eef9e7414ae5b856842247ba341b1490]: Commencement: [Sch. 1 para. 242](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/242) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-6e1b0010941078d5012dcf5dca588808]: Commencement: Sch. 1 para. 243 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-6e1b0010941078d5012dcf5dca588808]: Commencement: Sch. 1 para. 243 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-64410304135aae4cdfeb113f7531ca19]: Commencement: [Sch. 1 para. 243](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/243) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-64410304135aae4cdfeb113f7531ca19]: Commencement: [Sch. 1 para. 243](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/243) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-b6022fc2ad4f146010301781fd785580]: Commencement: Sch. 1 para. 244 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-b6022fc2ad4f146010301781fd785580]: Commencement: Sch. 1 para. 244 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-d99d52acdeb4c3dadcdaebf03d6f7a8b]: Commencement: [Sch. 1 para. 244](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/244) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-d99d52acdeb4c3dadcdaebf03d6f7a8b]: Commencement: [Sch. 1 para. 244](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/244) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-b22f379af1b41ae5301c6958fcf28658]: Commencement: Sch. 1 para. 245 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-b22f379af1b41ae5301c6958fcf28658]: Commencement: Sch. 1 para. 245 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-3a1be2ce9a8b968167c0dfdd6279ca0a]: Commencement: [Sch. 1 para. 245](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/245) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-3a1be2ce9a8b968167c0dfdd6279ca0a]: Commencement: [Sch. 1 para. 245](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/245) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-2928df1f27c9ecd9666c443f21c09ad0]: Commencement: Sch. 1 para. 246 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-2928df1f27c9ecd9666c443f21c09ad0]: Commencement: Sch. 1 para. 246 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-b99d4fccf3fe2563b1fd448e6eb10586]: Commencement: [Sch. 1 para. 246](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/246) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-b99d4fccf3fe2563b1fd448e6eb10586]: Commencement: [Sch. 1 para. 246](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/246) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-64c2f97f79d7cc9288ccbd004e2a606d]: Commencement: Sch. 1 para. 247 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-64c2f97f79d7cc9288ccbd004e2a606d]: Commencement: Sch. 1 para. 247 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-b1aed4268dc75b42b85730054af3b22a]: Commencement: [Sch. 1 para. 247](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/247) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-b1aed4268dc75b42b85730054af3b22a]: Commencement: [Sch. 1 para. 247](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/247) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-2d4cd1239de2b37424fdefae47933183]: Commencement: Sch. 1 para. 248 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-2d4cd1239de2b37424fdefae47933183]: Commencement: Sch. 1 para. 248 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-8964c3709a833e691e981f2de847d27c]: Commencement: [Sch. 1 para. 248](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/248) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-8964c3709a833e691e981f2de847d27c]: Commencement: [Sch. 1 para. 248](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/248) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-adf541543bcf4291c85e324d703fdca1]: Commencement: Sch. 1 para. 249 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-adf541543bcf4291c85e324d703fdca1]: Commencement: Sch. 1 para. 249 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-a78b8463cf4b861d5bb470f1a9973238]: Commencement: [Sch. 1 para. 249](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/249) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-a78b8463cf4b861d5bb470f1a9973238]: Commencement: [Sch. 1 para. 249](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/249) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-0c4be1d274741a903266626f275595af]: Commencement: Sch. 1 para. 250 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-0c4be1d274741a903266626f275595af]: Commencement: Sch. 1 para. 250 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-aff92753f2f5b6b1f82ccb8c899bdc36]: Commencement: [Sch. 1 para. 250](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/250) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-aff92753f2f5b6b1f82ccb8c899bdc36]: Commencement: [Sch. 1 para. 250](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/250) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-0f5e34acaf812b9d3ff9b83a3c8c726b]: Commencement: Sch. 1 para. 251 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-0f5e34acaf812b9d3ff9b83a3c8c726b]: Commencement: Sch. 1 para. 251 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-0390f2de1a471033a896361621fd9203]: Commencement: [Sch. 1 para. 251](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/251) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-0390f2de1a471033a896361621fd9203]: Commencement: [Sch. 1 para. 251](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/251) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-486d183af2fcbcda29ddf6dfb84894bd]: Commencement: Sch. 1 para. 252 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-486d183af2fcbcda29ddf6dfb84894bd]: Commencement: Sch. 1 para. 252 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-99d490f267148e253ed14c693779786d]: Commencement: [Sch. 1 para. 252](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/252) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-99d490f267148e253ed14c693779786d]: Commencement: [Sch. 1 para. 252](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/252) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-7bc4c3b6a42750d3abc63ad30a8f7e90]: Commencement: Sch. 1 para. 253 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-7bc4c3b6a42750d3abc63ad30a8f7e90]: Commencement: Sch. 1 para. 253 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-1c9ff8be284f8062a850250ab1d0c401]: Commencement: [Sch. 1 para. 253](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/253) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-1c9ff8be284f8062a850250ab1d0c401]: Commencement: [Sch. 1 para. 253](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/253) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-06e7fd5c5f6cf2ed57003ec5621c13fb]: Commencement: Sch. 1 para. 254 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-06e7fd5c5f6cf2ed57003ec5621c13fb]: Commencement: Sch. 1 para. 254 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-eea0281a69b56784134704424e5eaf19]: Commencement: [Sch. 1 para. 254](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/254) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-eea0281a69b56784134704424e5eaf19]: Commencement: [Sch. 1 para. 254](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/254) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-7f5099a8e95f4412dfe3c8495d4c4ad0]: Commencement: Sch. 1 para. 255 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-7f5099a8e95f4412dfe3c8495d4c4ad0]: Commencement: Sch. 1 para. 255 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-23052ed07be9a446f7f17db7db063108]: Commencement: [Sch. 1 para. 255](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/255) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-23052ed07be9a446f7f17db7db063108]: Commencement: [Sch. 1 para. 255](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/255) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-fa8dc26faebf36e351b4f798815a6bb6]: Commencement: Sch. 1 para. 256 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-fa8dc26faebf36e351b4f798815a6bb6]: Commencement: Sch. 1 para. 256 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-96ef7c0d9621cb22b32df1aad4fd675c]: Commencement: [Sch. 1 para. 256](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/256) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-96ef7c0d9621cb22b32df1aad4fd675c]: Commencement: [Sch. 1 para. 256](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/256) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-1f3b00e9b5f37a692a056f47bb80b2e8]: Commencement: Sch. 1 para. 257 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-1f3b00e9b5f37a692a056f47bb80b2e8]: Commencement: Sch. 1 para. 257 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-f91da739559eee728843e6fb6e5e9cd8]: Commencement: [Sch. 1 para. 257](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/257) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-f91da739559eee728843e6fb6e5e9cd8]: Commencement: [Sch. 1 para. 257](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/257) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)

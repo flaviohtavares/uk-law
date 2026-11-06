@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-In this Chapter references to the grossed up amount of a gift are to the amount of the gift grossed up by reference to the basic rate for the tax year in which the gift is made [^key-eebd033b94e91334698744a4fae828fe]... .
+In this Chapter references to the grossed up amount of a gift are to the amount of the gift grossed up by reference to the basic rate for the tax year in which the gift is made [^c-eebd033b94e91334698744a4fae828fe]... .
 
 ## Annotations
 
-[^key-eebd033b94e91334698744a4fae828fe]: Textual amendment: Words in s. 415 omitted (6.4.2018) by virtue of [The Scottish Rates of Income Tax (Consequential Amendments) Order 2018 (S.I. 2018/459)](https://www.legislation.gov.uk/uksi/2018/459), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/459/article/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2018/459/article/6/5)
+[^c-eebd033b94e91334698744a4fae828fe]: Textual amendment: Words in s. 415 omitted (6.4.2018) by virtue of [The Scottish Rates of Income Tax (Consequential Amendments) Order 2018 (S.I. 2018/459)](https://www.legislation.gov.uk/uksi/2018/459), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/459/article/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2018/459/article/6/5)

@@ -40,91 +40,91 @@ renewing the authorisation for the placing on the market of genetically modified
 
 (Text with EEA relevance) (revoked)
 
-[^key-20df67c86ffa63f69d614488ad032049]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-20df67c86ffa63f69d614488ad032049]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Genetically modified organism and unique identifier[^key-20df67c86ffa63f69d614488ad032049]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Renewal of the authorisation[^key-20df67c86ffa63f69d614488ad032049]
+## Article 1. Genetically modified organism and unique identifier[^c-20df67c86ffa63f69d614488ad032049]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Labelling[^key-20df67c86ffa63f69d614488ad032049]
+## Article 2. Renewal of the authorisation[^c-20df67c86ffa63f69d614488ad032049]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Monitoring for environmental effects[^key-20df67c86ffa63f69d614488ad032049]
+## Article 3. Labelling[^c-20df67c86ffa63f69d614488ad032049]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Community register[^key-20df67c86ffa63f69d614488ad032049]
+## Article 4. Monitoring for environmental effects[^c-20df67c86ffa63f69d614488ad032049]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Authorisation holder[^key-20df67c86ffa63f69d614488ad032049]
+## Article 5. Community register[^c-20df67c86ffa63f69d614488ad032049]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Validity[^key-20df67c86ffa63f69d614488ad032049]
+## Article 6. Authorisation holder[^c-20df67c86ffa63f69d614488ad032049]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Addressee[^key-20df67c86ffa63f69d614488ad032049]
+## Article 7. Validity[^c-20df67c86ffa63f69d614488ad032049]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-20df67c86ffa63f69d614488ad032049]
+## Article 8. Addressee[^c-20df67c86ffa63f69d614488ad032049]
 
-[^key-20df67c86ffa63f69d614488ad032049] (a)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-20df67c86ffa63f69d614488ad032049]
+
+[^c-20df67c86ffa63f69d614488ad032049] (a)
 
 **Applicant and authorisation holder:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-20df67c86ffa63f69d614488ad032049](b)
+[^c-20df67c86ffa63f69d614488ad032049](b)
 
 **Designation and specification of the products:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-20df67c86ffa63f69d614488ad032049](c)
+[^c-20df67c86ffa63f69d614488ad032049](c)
 
 **Labelling:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-20df67c86ffa63f69d614488ad032049](d)
+[^c-20df67c86ffa63f69d614488ad032049](d)
 
 **Method for detection:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-20df67c86ffa63f69d614488ad032049](e)
+[^c-20df67c86ffa63f69d614488ad032049](e)
 
 **Unique identifier:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-20df67c86ffa63f69d614488ad032049](f)
+[^c-20df67c86ffa63f69d614488ad032049](f)
 
 **Information required under Annex II to the Cartagena Protocol on Biosafety to the Convention on Biological Diversity:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-20df67c86ffa63f69d614488ad032049](g)
+[^c-20df67c86ffa63f69d614488ad032049](g)
 
 **Conditions or restrictions on the placing on the market, use or handling of the products:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-20df67c86ffa63f69d614488ad032049](h)
+[^c-20df67c86ffa63f69d614488ad032049](h)
 
 **Monitoring plan for environmental effects:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-20df67c86ffa63f69d614488ad032049](i)
+[^c-20df67c86ffa63f69d614488ad032049](i)
 
 **Post-market monitoring requirements for the use of the food for human consumption:**
 
@@ -134,4 +134,4 @@ renewing the authorisation for the placing on the market of genetically modified
 
 ## Annotations
 
-[^key-20df67c86ffa63f69d614488ad032049]: Textual amendment: Decision revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 6 para. 44](https://www.legislation.gov.uk/uksi/2025/361/schedule/6/paragraph/44) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-20df67c86ffa63f69d614488ad032049]: Textual amendment: Decision revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 6 para. 44](https://www.legislation.gov.uk/uksi/2025/361/schedule/6/paragraph/44) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

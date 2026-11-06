@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Any money or other article (other than a letter or other communication) sent to a convicted prisoner by post[^key-09249a812c310d2dcd647421cb782a48] shall be dealt with in accordance with the provisions of this rule, and the prisoner shall be informed of the manner in which it is dealt with.
+(1) Any money or other article (other than a letter or other communication) sent to a convicted prisoner by post[^c-09249a812c310d2dcd647421cb782a48] shall be dealt with in accordance with the provisions of this rule, and the prisoner shall be informed of the manner in which it is dealt with.
 
 (2) Any cash shall, at the discretion of the governor, be—
 
@@ -44,4 +44,4 @@ Provided that in relation to a prisoner committed to prison in default of paymen
 
 ## Annotations
 
-[^key-09249a812c310d2dcd647421cb782a48]: Textual amendment: Words in [rule 44(1)](https://www.legislation.gov.uk/uksi/1999/728/rule/44/1) substituted (26.3.2001) by [The Postal Services Act 2000 (Consequential Modifications No. 1) Order 2001 (S.I. 2001/1149)](https://www.legislation.gov.uk/uksi/2001/1149), [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1149/article/1/2), [Sch. 1 para. 130](https://www.legislation.gov.uk/uksi/2001/1149/schedule/1/paragraph/130)
+[^c-09249a812c310d2dcd647421cb782a48]: Textual amendment: Words in [rule 44(1)](https://www.legislation.gov.uk/uksi/1999/728/rule/44/1) substituted (26.3.2001) by [The Postal Services Act 2000 (Consequential Modifications No. 1) Order 2001 (S.I. 2001/1149)](https://www.legislation.gov.uk/uksi/2001/1149), [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1149/article/1/2), [Sch. 1 para. 130](https://www.legislation.gov.uk/uksi/2001/1149/schedule/1/paragraph/130)

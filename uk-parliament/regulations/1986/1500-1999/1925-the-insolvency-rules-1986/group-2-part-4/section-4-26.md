@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.26. Order of appointment[^key-0d70cf75165b448bf72b45049c725bb4]
+## 4.26. Order of appointment[^c-0d70cf75165b448bf72b45049c725bb4]
 
 *Extent: E+W*
 
@@ -24,25 +24,25 @@ summary: ''
 
 (2) The court shall, forthwith after the order is made, send sealed copies of the order as follows—
 
-- (a) if the official receiver is appointed, three[^key-e2bc46610b822cd2c0d53d74dfa5f578] copies to him;
+- (a) if the official receiver is appointed, three[^c-e2bc46610b822cd2c0d53d74dfa5f578] copies to him;
 - (b) if a person other than the official receiver is appointed—
-  - (i) three[^key-e6799f8907fb24625cb2ca75acd4881e] copies to that person, and
+  - (i) three[^c-e6799f8907fb24625cb2ca75acd4881e] copies to that person, and
   - (ii) one copy to the official receiver;
 - (c) if there is an administrative receiver acting in relation to the company, one copy to him.
 
-(3)[^key-ae96ce8b7a149048bbf261f68925f469] Of the three copies of the order sent to the official receiver under paragraph (2)(a), or to another person under paragraph (2)(b)(i)—
+(3)[^c-ae96ce8b7a149048bbf261f68925f469] Of the three copies of the order sent to the official receiver under paragraph (2)(a), or to another person under paragraph (2)(b)(i)—
 
 - (i) one shall in each case be sent by the recipient to the company, or if a liquidator has been appointed for the company’s voluntary winding-up, to him; and
 - (ii) one shall be sent with Form 4.15A to the registrar of companies.
 
 ## Annotations
 
-[^key-0d70cf75165b448bf72b45049c725bb4]: Commencement: [Rule 4.26](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.26) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-0d70cf75165b448bf72b45049c725bb4]: Commencement: [Rule 4.26](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.26) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00043]: Marginal citation: \[FORM 4.15\]
 
-[^key-e2bc46610b822cd2c0d53d74dfa5f578]: Textual amendment: Word in rule 4.26(2)(a) substituted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [21(a)(i)](https://www.legislation.gov.uk/uksi/2005/527/rule/21/a/i)
+[^c-e2bc46610b822cd2c0d53d74dfa5f578]: Textual amendment: Word in rule 4.26(2)(a) substituted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [21(a)(i)](https://www.legislation.gov.uk/uksi/2005/527/rule/21/a/i)
 
-[^key-e6799f8907fb24625cb2ca75acd4881e]: Textual amendment: Word in rule 4.26(2)(b)(i) substituted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [21(a)(ii)](https://www.legislation.gov.uk/uksi/2005/527/rule/21/a/ii)
+[^c-e6799f8907fb24625cb2ca75acd4881e]: Textual amendment: Word in rule 4.26(2)(b)(i) substituted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [21(a)(ii)](https://www.legislation.gov.uk/uksi/2005/527/rule/21/a/ii)
 
-[^key-ae96ce8b7a149048bbf261f68925f469]: Textual amendment: Rule 4.26(3) substituted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [21(b)](https://www.legislation.gov.uk/uksi/2005/527/rule/21/b)
+[^c-ae96ce8b7a149048bbf261f68925f469]: Textual amendment: Rule 4.26(3) substituted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [21(b)](https://www.legislation.gov.uk/uksi/2005/527/rule/21/b)

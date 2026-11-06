@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Time of application for first examinations and periodical tests[^key-398fe004adbc9d0d2a504222a7d88307]
+## 13. Time of application for first examinations and periodical tests[^c-398fe004adbc9d0d2a504222a7d88307]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-398fe004adbc9d0d2a504222a7d88307]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1988/1478/regulation/13) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)
+[^c-398fe004adbc9d0d2a504222a7d88307]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1988/1478/regulation/13) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)

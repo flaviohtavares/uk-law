@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Final pay[^key-dc78d0e26010913a38a52e73e4192777]
+## 20. Final pay[^c-dc78d0e26010913a38a52e73e4192777]
 
 *Extent: E+W+S*
 
@@ -54,4 +54,4 @@ it is to be determined using them.
 
 ## Annotations
 
-[^key-dc78d0e26010913a38a52e73e4192777]: Commencement: Reg. 20 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-dc78d0e26010913a38a52e73e4192777]: Commencement: Reg. 20 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

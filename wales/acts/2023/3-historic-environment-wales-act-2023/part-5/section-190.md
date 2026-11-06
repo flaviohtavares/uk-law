@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 190. Enforcement steps in relation to Crown land[^key-2895bcd42ec0f02cc92b8c68e00869b2][^key-79a319ffe9500e8d37b7106df95f57f8]
+## 190. Enforcement steps in relation to Crown land[^c-2895bcd42ec0f02cc92b8c68e00869b2][^c-79a319ffe9500e8d37b7106df95f57f8]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2895bcd42ec0f02cc92b8c68e00869b2]: Commencement: S. 190 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-2895bcd42ec0f02cc92b8c68e00869b2]: Commencement: S. 190 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-79a319ffe9500e8d37b7106df95f57f8]: Commencement: [S. 190](https://www.legislation.gov.uk/asc/2023/3/section/190) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-79a319ffe9500e8d37b7106df95f57f8]: Commencement: [S. 190](https://www.legislation.gov.uk/asc/2023/3/section/190) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

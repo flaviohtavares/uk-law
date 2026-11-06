@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74E. No relief where cash basis used to calculate losses[^key-8b3bfd355678cdea736f7dc8097b6433]
+## 74E. No relief where cash basis used to calculate losses[^c-8b3bfd355678cdea736f7dc8097b6433]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b3bfd355678cdea736f7dc8097b6433]: Textual amendment: [S. 74E and cross-heading](https://www.legislation.gov.uk/ukpga/2007/3/chapter/2/crossheading/restriction-on-sideways-relief-and-capital-gains-relief-where-cash-basis-applies) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 8(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/8/a), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
+[^c-8b3bfd355678cdea736f7dc8097b6433]: Textual amendment: [S. 74E and cross-heading](https://www.legislation.gov.uk/ukpga/2007/3/chapter/2/crossheading/restriction-on-sideways-relief-and-capital-gains-relief-where-cash-basis-applies) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 8(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/8/a), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))

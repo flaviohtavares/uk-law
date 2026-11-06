@@ -164,7 +164,7 @@ may appeal against the decision to a magistrates' court.
 (4) The amount of the fixed penalty payable to a principal litter authority under this paragraph—
 
 - (a) is the amount specified by the authority in relation to its area; or
-- (b)[^key-fc760281e62b9da8fc43433fc2dccb30] if no amount is so specified, is—
+- (b)[^c-fc760281e62b9da8fc43433fc2dccb30] if no amount is so specified, is—
   - (i) in England, £100, or
   - (ii) in Wales, £75.
 
@@ -202,4 +202,4 @@ is evidence of the facts stated.
 
 [^M_F_3f4bdbe5-0416-43cd-e9c2-c53ba6e3289c]: Textual amendment: Words in Sch. 3A para. 1(4)(a) omitted (14.3.2012 immediately before the Charities Act 2011 (c. 25) comes into force) by virtue of [The Charities (Pre-consolidation Amendments) Order 2011 (S.I. 2011/1396)](https://www.legislation.gov.uk/uksi/2011/1396), [art. 1](https://www.legislation.gov.uk/uksi/2011/1396/article/1), [Sch. paras. 37(1)](https://www.legislation.gov.uk/uksi/2011/1396/schedule/paragraph/37/1)[(2)(e)](https://www.legislation.gov.uk/uksi/2011/1396/schedule/paragraph/37/2/e)
 
-[^key-fc760281e62b9da8fc43433fc2dccb30]: Textual amendment: [Sch. 3A para. 7(4)(b)](https://www.legislation.gov.uk/ukpga/1990/43/schedule/3A/paragraph/7/4/b) substituted (1.4.2018) by [The Environmental Offences (Fixed Penalties) (England) Regulations 2017 (S.I. 2017/1050)](https://www.legislation.gov.uk/uksi/2017/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1050/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2017/1050/regulation/6/2)
+[^c-fc760281e62b9da8fc43433fc2dccb30]: Textual amendment: [Sch. 3A para. 7(4)(b)](https://www.legislation.gov.uk/ukpga/1990/43/schedule/3A/paragraph/7/4/b) substituted (1.4.2018) by [The Environmental Offences (Fixed Penalties) (England) Regulations 2017 (S.I. 2017/1050)](https://www.legislation.gov.uk/uksi/2017/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1050/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2017/1050/regulation/6/2)

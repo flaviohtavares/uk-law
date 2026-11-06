@@ -37,14 +37,14 @@ summary: ''
 
 (4) The amount of compensation under this section shall, in default of agreement made after the damage has been suffered, be determined by arbitration under this Act.
 
-(4A)[^key-a6374ada3bf90c5d17809e5e28a8f21b] Notwithstanding subsection (4) above, the tenant and landlord may instead refer for third party determination under this Act the question of the amount of compensation to which the tenant is entitled.
+(4A)[^c-a6374ada3bf90c5d17809e5e28a8f21b] Notwithstanding subsection (4) above, the tenant and landlord may instead refer for third party determination under this Act the question of the amount of compensation to which the tenant is entitled.
 
 (5) Where the right to kill and take the wild animals or birds that did the damage is vested in some person other than the landlord, the landlord shall be entitled to be indemnified by that other person against all claims for compensation under this section; and any question arising under this subsection shall be determined by arbitration under this Act.
 
-(6)[^key-3995580372fd3a60cc51a72c5b0a999f] Notwithstanding subsection (5) above, the landlord and the other person may instead refer for third party determination under this Act the questions arising between them under that subsection.
+(6)[^c-3995580372fd3a60cc51a72c5b0a999f] Notwithstanding subsection (5) above, the landlord and the other person may instead refer for third party determination under this Act the questions arising between them under that subsection.
 
 ## Annotations
 
-[^key-a6374ada3bf90c5d17809e5e28a8f21b]: Textual amendment: S. 20(4A) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e)[(3)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/a), [Sch. 4 para. 12(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/4/paragraph/12/2)
+[^c-a6374ada3bf90c5d17809e5e28a8f21b]: Textual amendment: S. 20(4A) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e)[(3)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/a), [Sch. 4 para. 12(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/4/paragraph/12/2)
 
-[^key-3995580372fd3a60cc51a72c5b0a999f]: Textual amendment: S. 20(6) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e)[(3)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/a), [Sch. 4 para. 12(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/4/paragraph/12/3)
+[^c-3995580372fd3a60cc51a72c5b0a999f]: Textual amendment: S. 20(6) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e)[(3)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/a), [Sch. 4 para. 12(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/4/paragraph/12/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 107. Bank liquidator deceased[^key-9c3b07ac520d81a4a993afcec7346165]
+## 107. Bank liquidator deceased[^c-9c3b07ac520d81a4a993afcec7346165]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c3b07ac520d81a4a993afcec7346165]: Commencement: Rule 107 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-9c3b07ac520d81a4a993afcec7346165]: Commencement: Rule 107 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Application for a statement of entitlement[^key-8a7f13f9e7d2d09bcfaa9fa617805d5f]
+## 143. Application for a statement of entitlement[^c-8a7f13f9e7d2d09bcfaa9fa617805d5f]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8a7f13f9e7d2d09bcfaa9fa617805d5f]: Commencement: [Reg. 143](https://www.legislation.gov.uk/uksi/2014/1964/regulation/143) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-8a7f13f9e7d2d09bcfaa9fa617805d5f]: Commencement: [Reg. 143](https://www.legislation.gov.uk/uksi/2014/1964/regulation/143) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
 [^f00079]: Footnote: Regulation 6(3) of [SI 1996/1847](https://www.legislation.gov.uk/uksi/1996/1847) provides that a member may not make a second application within this period unless the rules of the scheme provide otherwise.

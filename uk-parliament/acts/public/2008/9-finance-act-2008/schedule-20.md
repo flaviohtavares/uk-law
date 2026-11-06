@@ -24,7 +24,7 @@ Section 55
 
 ### Capital received in respect of lease to be treated as income
 
-**1.**[^key-2317d32e4f4aa5c41d6d93aaf20ee90e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-2317d32e4f4aa5c41d6d93aaf20ee90e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **2.** (1) In ITA 2007, after section 809 insert—
 
@@ -118,11 +118,11 @@ Section 55
 - (a) cases where there is first an obligation of the kind mentioned in subsection (1)(a) of section 809ZA of ITA 2007 on or after 13 December 2007, and
 - (b) capital payments within subsection (1)(b) of that section made on or after that date.
 
-(3) In relation to a case where the condition in paragraph (a) or (b) of section 809ZA(1) of ITA 2007 was met before 12 March 2008, sections 809ZA to 809ZF[^key-d1fdf8f58088cefc0dbda4494b5636a2] of that Act have effect as if—
+(3) In relation to a case where the condition in paragraph (a) or (b) of section 809ZA(1) of ITA 2007 was met before 12 March 2008, sections 809ZA to 809ZF[^c-d1fdf8f58088cefc0dbda4494b5636a2] of that Act have effect as if—
 
-- (a) for section 809ZF(3) to (5)[^key-157d35e40df8f4881d500f3911668005] there were substituted—
+- (a) for section 809ZF(3) to (5)[^c-157d35e40df8f4881d500f3911668005] there were substituted—
 
-  > (3)[^key-fdc033e2363debfe9adf732b6a0e1679] “Lease of plant or machinery”—
+  > (3)[^c-fdc033e2363debfe9adf732b6a0e1679] “Lease of plant or machinery”—
   >
   > - (a) includes an equipment lease within the meaning of Chapter 14 of Part 2 of CAA 2001, but
   > - (b) subject to that, does not include a lease of plant or machinery and other property.
@@ -136,11 +136,11 @@ Section 55
 
 ### Disposal events: grant of long funding lease
 
-**4.**[^key-c742182a4d6d32faa7b9ecdc02d3c955] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c742182a4d6d32faa7b9ecdc02d3c955] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Deemed disposals: plant or machinery used under long funding lease
 
-**5.**[^key-0ff9dfc6760ca331161544ec06d763ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-0ff9dfc6760ca331161544ec06d763ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Plant or machinery subject to a sale and finance leaseback or lease and finance leaseback
 
@@ -240,7 +240,7 @@ and the heading before that section accordingly becomes “ Sale and leaseback: 
 
 ### Lessors under long funding leases of plant or machinery
 
-**9.**[^key-6999f81c1bb1bef9eef8cfd4e6b8ac48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-6999f81c1bb1bef9eef8cfd4e6b8ac48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **10.** (1) Chapter 10A of Part 2 of ITTOIA 2005 (corresponding income tax rules) is amended as follows.
 
@@ -340,7 +340,7 @@ and the heading before that section accordingly becomes “ Sale and leaseback: 
 
 sub-paragraphs (2) to (10) apply in respect of lease B.
 
-(2) [^key-0eff7d5f4b13e7f30346e43969fd4ad4]... Section 148A of ITTOIA 2005 (rental earnings) does not apply in relation to a period of account within sub-paragraph (3).
+(2) [^c-0eff7d5f4b13e7f30346e43969fd4ad4]... Section 148A of ITTOIA 2005 (rental earnings) does not apply in relation to a period of account within sub-paragraph (3).
 
 (3) A period of account is within this sub-paragraph if—
 
@@ -356,15 +356,15 @@ sub-paragraphs (2) to (10) apply in respect of lease B.
 
 as would not reasonably be regarded as reflected in the rental earnings for that period of account.
 
-“Rental earnings” here has the same meaning as in [^key-51e6036a68082c3622f52ab963b83852]... section 148A of ITTOIA 2005.
+“Rental earnings” here has the same meaning as in [^c-51e6036a68082c3622f52ab963b83852]... section 148A of ITTOIA 2005.
 
 (6) If any rental is paid for a period (“the rental period”) which begins before the relevant date or is not wholly within the period of account, for the purposes of sub-paragraph (5) treat the amount of that rent as equal to the amount apportioned (on a time basis) in respect of so much of the rental period as falls on or after the relevant date and within the period of account.
 
-(7) The income treated as received by virtue of sub-paragraph (4) is in addition to any amount brought into account under [^key-5312a7d7084d5fd564bb05f762d78a6d]... section 148A(2) of ITTOIA 2005.
+(7) The income treated as received by virtue of sub-paragraph (4) is in addition to any amount brought into account under [^c-5312a7d7084d5fd564bb05f762d78a6d]... section 148A(2) of ITTOIA 2005.
 
-(8) [^key-22492612683b6cb762527cfab81c0212]... Section 148B of ITTOIA 2005 (exceptional items) does not apply in relation to any profit or loss arising on or after the relevant date.
+(8) [^c-22492612683b6cb762527cfab81c0212]... Section 148B of ITTOIA 2005 (exceptional items) does not apply in relation to any profit or loss arising on or after the relevant date.
 
-(9) If [^key-e72e20e94c38645cb05c8079e1a3e303]... section 148C of ITTOIA 2005 (lessor making termination payment) applies in respect of the termination of lease B on or after the relevant date, a deduction is allowed (in calculating the profits of the lessor) in respect of the sum paid to the lessee.
+(9) If [^c-e72e20e94c38645cb05c8079e1a3e303]... section 148C of ITTOIA 2005 (lessor making termination payment) applies in respect of the termination of lease B on or after the relevant date, a deduction is allowed (in calculating the profits of the lessor) in respect of the sum paid to the lessee.
 
 (10) The amount of that deduction is (if it would otherwise exceed that amount) limited to the total amount brought into account in respect of the lease by virtue of sub-paragraph (2) or (4).
 
@@ -473,26 +473,26 @@ as would not reasonably be regarded as reflected in the rental earnings for that
 
 ## Annotations
 
-[^key-2317d32e4f4aa5c41d6d93aaf20ee90e]: Textual amendment: [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/1) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-2317d32e4f4aa5c41d6d93aaf20ee90e]: Textual amendment: [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/1) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-d1fdf8f58088cefc0dbda4494b5636a2]: Textual amendment: Words in [Sch. 20 para. 2(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/2/3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 581(2)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/581/2/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-d1fdf8f58088cefc0dbda4494b5636a2]: Textual amendment: Words in [Sch. 20 para. 2(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/2/3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 581(2)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/581/2/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-157d35e40df8f4881d500f3911668005]: Textual amendment: Words in [Sch. 20 para. 2(3)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/2/3/a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 581(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/581/2/b/i) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-157d35e40df8f4881d500f3911668005]: Textual amendment: Words in [Sch. 20 para. 2(3)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/2/3/a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 581(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/581/2/b/i) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-fdc033e2363debfe9adf732b6a0e1679]: Textual amendment: Words in [Sch. 20 para. 2(3)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/2/3/a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 581(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/581/2/b/ii) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-fdc033e2363debfe9adf732b6a0e1679]: Textual amendment: Words in [Sch. 20 para. 2(3)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/2/3/a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 581(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/581/2/b/ii) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-c742182a4d6d32faa7b9ecdc02d3c955]: Textual amendment: [Sch. 20 para. 4](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/4) omitted (with effect in accordance with Sch. 32 para. 5(1) of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 32 para. 2](https://www.legislation.gov.uk/ukpga/2009/10/schedule/32/paragraph/2)
+[^c-c742182a4d6d32faa7b9ecdc02d3c955]: Textual amendment: [Sch. 20 para. 4](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/4) omitted (with effect in accordance with Sch. 32 para. 5(1) of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 32 para. 2](https://www.legislation.gov.uk/ukpga/2009/10/schedule/32/paragraph/2)
 
-[^key-0ff9dfc6760ca331161544ec06d763ad]: Textual amendment: [Sch. 20 para. 5](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/5) omitted (with effect in accordance with Sch. 32 para. 5(2) of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 32 para. 4](https://www.legislation.gov.uk/ukpga/2009/10/schedule/32/paragraph/4)
+[^c-0ff9dfc6760ca331161544ec06d763ad]: Textual amendment: [Sch. 20 para. 5](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/5) omitted (with effect in accordance with Sch. 32 para. 5(2) of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 32 para. 4](https://www.legislation.gov.uk/ukpga/2009/10/schedule/32/paragraph/4)
 
-[^key-6999f81c1bb1bef9eef8cfd4e6b8ac48]: Textual amendment: [Sch. 20 para. 9](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/9) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-6999f81c1bb1bef9eef8cfd4e6b8ac48]: Textual amendment: [Sch. 20 para. 9](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/9) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-0eff7d5f4b13e7f30346e43969fd4ad4]: Textual amendment: Words in [Sch. 20 para. 11(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/11/2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 581(3)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/581/3/a), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-0eff7d5f4b13e7f30346e43969fd4ad4]: Textual amendment: Words in [Sch. 20 para. 11(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/11/2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 581(3)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/581/3/a), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-51e6036a68082c3622f52ab963b83852]: Textual amendment: Words in [Sch. 20 para. 11(5)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/11/5) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 581(3)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/581/3/b), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-51e6036a68082c3622f52ab963b83852]: Textual amendment: Words in [Sch. 20 para. 11(5)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/11/5) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 581(3)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/581/3/b), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-5312a7d7084d5fd564bb05f762d78a6d]: Textual amendment: Words in [Sch. 20 para. 11(7)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/11/7) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 581(3)(c)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/581/3/c), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-5312a7d7084d5fd564bb05f762d78a6d]: Textual amendment: Words in [Sch. 20 para. 11(7)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/11/7) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 581(3)(c)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/581/3/c), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-22492612683b6cb762527cfab81c0212]: Textual amendment: Words in [Sch. 20 para. 11(8)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/11/8) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 581(3)(d)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/581/3/d), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-22492612683b6cb762527cfab81c0212]: Textual amendment: Words in [Sch. 20 para. 11(8)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/11/8) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 581(3)(d)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/581/3/d), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-e72e20e94c38645cb05c8079e1a3e303]: Textual amendment: Words in [Sch. 20 para. 11(9)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/11/9) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 581(3)(e)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/581/3/e), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-e72e20e94c38645cb05c8079e1a3e303]: Textual amendment: Words in [Sch. 20 para. 11(9)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/11/9) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 581(3)(e)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/581/3/e), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Benefit of the Order[^key-c77c3ec29ccadf54ea8b20ac2cf32a25]
+## 35. Benefit of the Order[^c-c77c3ec29ccadf54ea8b20ac2cf32a25]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Subject to article 36 (consent to transfer the benefit of the Order), the provis
 
 ## Annotations
 
-[^key-c77c3ec29ccadf54ea8b20ac2cf32a25]: Commencement: Art. 35 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-c77c3ec29ccadf54ea8b20ac2cf32a25]: Commencement: Art. 35 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 56. Service of notices[^key-04b9cbb3df8221d9a139d18f05ecb0e4]
+## 56. Service of notices[^c-04b9cbb3df8221d9a139d18f05ecb0e4]
 
 *Extent: E+W+S*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-04b9cbb3df8221d9a139d18f05ecb0e4]: Commencement: [Art. 56](https://www.legislation.gov.uk/uksi/2014/2935/article/56) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-04b9cbb3df8221d9a139d18f05ecb0e4]: Commencement: [Art. 56](https://www.legislation.gov.uk/uksi/2014/2935/article/56) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
 
 [^f00034]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30). There are amendments to this Act which are not relevant to this Order.

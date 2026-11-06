@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 217. Schemes for the transfer of key system assets.[^key-69c1dbdf11fb68828f92330a491e6c31]
+## 217. Schemes for the transfer of key system assets.[^c-69c1dbdf11fb68828f92330a491e6c31]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ may be made otherwise than in accordance with the terms of the PPP agreement or 
 
 ## Annotations
 
-[^key-69c1dbdf11fb68828f92330a491e6c31]: Commencement: S. 217 in force at 15.7.2003 by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/a)
+[^c-69c1dbdf11fb68828f92330a491e6c31]: Commencement: S. 217 in force at 15.7.2003 by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/a)

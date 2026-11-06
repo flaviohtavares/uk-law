@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 138. Manner of distributing assets[^key-99c930275dd632041a8b9f925dc4e56f]
+## 138. Manner of distributing assets[^c-99c930275dd632041a8b9f925dc4e56f]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.189 of the 1991 Rules.
 
 ## Annotations
 
-[^key-99c930275dd632041a8b9f925dc4e56f]: Commencement: Rule 138 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-99c930275dd632041a8b9f925dc4e56f]: Commencement: Rule 138 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

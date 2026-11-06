@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34B. Compensation for exercise of code rights[^key-3a538fd994de52a4602c4c74129c09e2]
+## 34B. Compensation for exercise of code rights[^c-3a538fd994de52a4602c4c74129c09e2]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a538fd994de52a4602c4c74129c09e2]: Textual amendment: [Ss. 34B](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/56/section/34B), [34C](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/56/section/34C) inserted (7.4.2026) by [Product Security and Telecommunications Infrastructure Act 2022 (c. 46)](https://www.legislation.gov.uk/ukpga/2022/46), [ss. 63](https://www.legislation.gov.uk/ukpga/2022/46/section/63), [79(2)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/2); [S.I. 2025/1326](https://www.legislation.gov.uk/uksi/2025/1326), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/1326/regulation/2/c) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2025/1326/regulation/3))
+[^c-3a538fd994de52a4602c4c74129c09e2]: Textual amendment: [Ss. 34B](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/56/section/34B), [34C](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/56/section/34C) inserted (7.4.2026) by [Product Security and Telecommunications Infrastructure Act 2022 (c. 46)](https://www.legislation.gov.uk/ukpga/2022/46), [ss. 63](https://www.legislation.gov.uk/ukpga/2022/46/section/63), [79(2)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/2); [S.I. 2025/1326](https://www.legislation.gov.uk/uksi/2025/1326), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/1326/regulation/2/c) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2025/1326/regulation/3))

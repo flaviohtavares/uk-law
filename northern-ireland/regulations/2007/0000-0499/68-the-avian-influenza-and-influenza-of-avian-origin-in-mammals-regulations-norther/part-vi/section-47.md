@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 47. Killing of poultry and other captive birds[^key-0fba8908745bc88c5689a51a7071c708]
+## 47. Killing of poultry and other captive birds[^c-0fba8908745bc88c5689a51a7071c708]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0fba8908745bc88c5689a51a7071c708]: Commencement: Reg. 47 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-0fba8908745bc88c5689a51a7071c708]: Commencement: Reg. 47 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

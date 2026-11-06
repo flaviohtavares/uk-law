@@ -57,7 +57,7 @@ if it appears to the Secretary of State that the repeal or, as the case may be, 
 
 #### 4. Consultation.
 
-Before making any building regulations that provide for the repeal or modification of any such provision the Secretary of State shall (without prejudice to the requirements as to consultation in section 120B(3)[^key-0b18b1bb3f94856f7677f4f0d673a42c] of this Act) consult any local authority[^c929441] who appear to him to be concerned.
+Before making any building regulations that provide for the repeal or modification of any such provision the Secretary of State shall (without prejudice to the requirements as to consultation in section 120B(3)[^c-0b18b1bb3f94856f7677f4f0d673a42c] of this Act) consult any local authority[^c929441] who appear to him to be concerned.
 
 ### Part II — Application of Part III of this Act
 
@@ -116,7 +116,7 @@ Part IV of this Act does not apply in relation to this Part of this Schedule, . 
 
 [^c929431]: Marginal citation: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37).
 
-[^key-0b18b1bb3f94856f7677f4f0d673a42c]: Textual amendment: Words in [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/1984/55/schedule/3/paragraph/4) substituted (1.4.2023) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)[(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c), [Sch. 5 para. 85](https://www.legislation.gov.uk/ukpga/2022/30/schedule/5/paragraph/85); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2023/362/regulation/2/2/c)
+[^c-0b18b1bb3f94856f7677f4f0d673a42c]: Textual amendment: Words in [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/1984/55/schedule/3/paragraph/4) substituted (1.4.2023) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)[(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c), [Sch. 5 para. 85](https://www.legislation.gov.uk/ukpga/2022/30/schedule/5/paragraph/85); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2023/362/regulation/2/2/c)
 
 [^c929441]: Textual amendment: Words substituted by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [s. 16](https://www.legislation.gov.uk/ukpga/1985/51/section/16), [Sch. 8 para. 14(4)](https://www.legislation.gov.uk/ukpga/1985/51/schedule/8/paragraph/14/4)(*b*)(i)
 

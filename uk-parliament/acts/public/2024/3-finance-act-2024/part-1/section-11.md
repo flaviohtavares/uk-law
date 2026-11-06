@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Extension of EIS relief and VCT relief to shares issued before 6 April 2035[^key-b7bccb07a6f6f27635c74f6d12fed1c4]
+## 11. Extension of EIS relief and VCT relief to shares issued before 6 April 2035[^c-b7bccb07a6f6f27635c74f6d12fed1c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ for “2025” substitute “2035”.
 
 ## Annotations
 
-[^key-b7bccb07a6f6f27635c74f6d12fed1c4]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2024/3/section/11) in force at 3.9.2024 by [S.I. 2024/897](https://www.legislation.gov.uk/uksi/2024/897), [reg. 2](https://www.legislation.gov.uk/uksi/2024/897/regulation/2)
+[^c-b7bccb07a6f6f27635c74f6d12fed1c4]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2024/3/section/11) in force at 3.9.2024 by [S.I. 2024/897](https://www.legislation.gov.uk/uksi/2024/897), [reg. 2](https://www.legislation.gov.uk/uksi/2024/897/regulation/2)

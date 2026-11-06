@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Duty to review operation of Chapter[^key-41e1b4834bcd03db6c1a7d9a5a2609fa]
+## 61. Duty to review operation of Chapter[^c-41e1b4834bcd03db6c1a7d9a5a2609fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) In carrying out the review the relevant Minister must consult—
 
-- (a) the Information Commission[^key-810185aa7f81be3ce57fade7f22b952b],
+- (a) the Information Commission[^c-810185aa7f81be3ce57fade7f22b952b],
 - (b) the Scottish Ministers,
 - (c) the Welsh Ministers,
 - (d) the Department of Finance in Northern Ireland, and
@@ -78,6 +78,6 @@ summary: ''
 
 ## Annotations
 
-[^key-41e1b4834bcd03db6c1a7d9a5a2609fa]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2017/30/section/61) in force at 1.5.2018 for E.W.S. by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(x)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/x)
+[^c-41e1b4834bcd03db6c1a7d9a5a2609fa]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2017/30/section/61) in force at 1.5.2018 for E.W.S. by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(x)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/x)
 
-[^key-810185aa7f81be3ce57fade7f22b952b]: Textual amendment: Words in [s. 61(3)](https://www.legislation.gov.uk/ukpga/2017/30/section/61/3) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 21(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/21/1)[(2)(h)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/21/2/h); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-810185aa7f81be3ce57fade7f22b952b]: Textual amendment: Words in [s. 61(3)](https://www.legislation.gov.uk/ukpga/2017/30/section/61/3) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 21(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/21/1)[(2)(h)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/21/2/h); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

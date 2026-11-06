@@ -46,17 +46,17 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with section 168(6) of that Act, a draft of this instrument has been laid before Parliament and approved by resolution of each House of Parliament.
 
-## 1. Citation, commencement, extent and application[^key-19417f616fc1152f1eefd595df4343ae]
+## 1. Citation, commencement, extent and application[^c-19417f616fc1152f1eefd595df4343ae]
 
 (1) These Regulations may be cited as the Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 and come into force on the day after the day on which they are made.
 
 (2) These Regulations extend to England and Wales and apply in England only.
 
-## 2. Amendment of the Building Safety (Leaseholder Protections) (Information etc.) (England) Regulations 2022[^key-efa5a63dc0a3cc733bff51cb67e72844]
+## 2. Amendment of the Building Safety (Leaseholder Protections) (Information etc.) (England) Regulations 2022[^c-efa5a63dc0a3cc733bff51cb67e72844]
 
 The Building Safety (Leaseholder Protections) (Information etc.) (England) Regulations 2022[^f00002] are amended in accordance with regulations 3 to 8.
 
-## 3. Amendment of regulation 1[^key-ba43dce9ff2714d253e5ed601b584cfc]
+## 3. Amendment of regulation 1[^c-ba43dce9ff2714d253e5ed601b584cfc]
 
 In regulation 1(3) (citation, commencement, extent, application and interpretation)—
 
@@ -72,7 +72,7 @@ In regulation 1(3) (citation, commencement, extent, application and interpretati
 
   .
 
-## 4. Amendment of regulation 2[^key-c35c9547de8ef1ba9c55a6e114a76023]
+## 4. Amendment of regulation 2[^c-c35c9547de8ef1ba9c55a6e114a76023]
 
 (1) In regulation 2 (remediation orders) after paragraph (1) insert—
 
@@ -93,7 +93,7 @@ In regulation 1(3) (citation, commencement, extent, application and interpretati
 
 .
 
-## 5. Amendment of regulation 3 and transitional provision[^key-0d57062a3725d74dff76d72d128ef51f]
+## 5. Amendment of regulation 3 and transitional provision[^c-0d57062a3725d74dff76d72d128ef51f]
 
 (1) Regulation 3 (recovery of amounts from other landlords under paragraph 2 of Schedule 8) is amended as follows.
 
@@ -153,7 +153,7 @@ In regulation 1(3) (citation, commencement, extent, application and interpretati
 
 .
 
-## 6. Amendment of regulation 4 and transitional provision[^key-aa6cd33374d16614eb5856541c8f50be]
+## 6. Amendment of regulation 4 and transitional provision[^c-aa6cd33374d16614eb5856541c8f50be]
 
 (1) Regulation 4 (recovery of amounts from other landlords: cases under paragraph 3 of Schedule 8) is amended as follows.
 
@@ -218,7 +218,7 @@ In regulation 1(3) (citation, commencement, extent, application and interpretati
 
 .
 
-## 7. Amendment of regulation 5 and transitional provision[^key-e123f8d7130020870e4bbd37e2fb2d44]
+## 7. Amendment of regulation 5 and transitional provision[^c-e123f8d7130020870e4bbd37e2fb2d44]
 
 (1) Regulation 5 (recovery of amounts from other landlords: other cases under Schedule 8) is amended as follows.
 
@@ -279,7 +279,7 @@ In regulation 1(3) (citation, commencement, extent, application and interpretati
 
 .
 
-## 8. Amendment of regulation 6[^key-9cf7ae9e66bed54c5720d690b58fa7f6]
+## 8. Amendment of regulation 6[^c-9cf7ae9e66bed54c5720d690b58fa7f6]
 
 (1) Regulation 6 (leaseholder deed of certificate: landlord’s steps and requirements for leaseholders) is amended as follows.
 
@@ -295,11 +295,11 @@ In regulation 1(3) (citation, commencement, extent, application and interpretati
 
 .
 
-## 9. Amendment of the Building Safety (Leaseholder Protections) (England) Regulations 2022[^key-9296b9970d51b6115ab8e15123e25510]
+## 9. Amendment of the Building Safety (Leaseholder Protections) (England) Regulations 2022[^c-9296b9970d51b6115ab8e15123e25510]
 
 The Building Safety (Leaseholder Protections) (England) Regulations 2022[^f00005] are amended in accordance with regulations 10 to 13.
 
-## 10. Amendment of regulation 1[^key-349d0b584b31c5b18c4f80dd62685aad]
+## 10. Amendment of regulation 1[^c-349d0b584b31c5b18c4f80dd62685aad]
 
 In regulation 1(3) (citation, commencement, extent, application and interpretation)—
 
@@ -322,7 +322,7 @@ In regulation 1(3) (citation, commencement, extent, application and interpretati
 
   .
 
-## 11. Amendment of regulation 6[^key-645c57fe4adfff6365b1e0facd570824]
+## 11. Amendment of regulation 6[^c-645c57fe4adfff6365b1e0facd570824]
 
 (1) Regulation 6 (landlord’s certificate) is amended as follows.
 
@@ -431,14 +431,14 @@ In regulation 1(3) (citation, commencement, extent, application and interpretati
 
 .
 
-## 12. Amendment of regulation 10[^key-568877f3fbcabbce7a13d47220820c94]
+## 12. Amendment of regulation 10[^c-568877f3fbcabbce7a13d47220820c94]
 
 In regulation 10(1) (application of service charge restrictions to non-residential leases)—
 
 - (a) omit “qualifying”;
 - (b) for “paragraphs (2) and (3)” substitute “paragraph (2)”.
 
-## 13. Substitution of Schedule 1[^key-8371a0650e9c00ce1df755da43b78614]
+## 13. Substitution of Schedule 1[^c-8371a0650e9c00ce1df755da43b78614]
 
 For Schedule 1 substitute the new Schedule 1 set out in the Schedule to these Regulations.
 
@@ -452,7 +452,7 @@ Department for Levelling Up, Housing and Communities
 
 4th August 2023
 
-## SCHEDULE[^key-cf4d2eab218f4bca5d15ddb4aa60ca51]
+## SCHEDULE[^c-cf4d2eab218f4bca5d15ddb4aa60ca51]
 
 Regulation 13
 
@@ -502,40 +502,40 @@ An impact assessment covering the leaseholder protection provisions in both the 
 
 [^f00001]: Footnote: [2022 c. 30](https://www.legislation.gov.uk/ukpga/2022/30).
 
-[^key-19417f616fc1152f1eefd595df4343ae]: Commencement: Reg. 1 in force at 5.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1)
+[^c-19417f616fc1152f1eefd595df4343ae]: Commencement: Reg. 1 in force at 5.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1)
 
-[^key-efa5a63dc0a3cc733bff51cb67e72844]: Commencement: Reg. 2 in force at 5.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1)
+[^c-efa5a63dc0a3cc733bff51cb67e72844]: Commencement: Reg. 2 in force at 5.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2022/859](https://www.legislation.gov.uk/uksi/2022/859).
 
-[^key-ba43dce9ff2714d253e5ed601b584cfc]: Commencement: Reg. 3 in force at 5.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1)
+[^c-ba43dce9ff2714d253e5ed601b584cfc]: Commencement: Reg. 3 in force at 5.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1)
 
 [^f00003]: Footnote: See section 117 of the Act for the definition of “relevant building”.
 
-[^key-c35c9547de8ef1ba9c55a6e114a76023]: Commencement: Reg. 4 in force at 5.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1)
+[^c-c35c9547de8ef1ba9c55a6e114a76023]: Commencement: Reg. 4 in force at 5.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1)
 
 [^f00004]: Footnote: [2008 c. 17](https://www.legislation.gov.uk/ukpga/2008/17).
 
-[^key-0d57062a3725d74dff76d72d128ef51f]: Commencement: Reg. 5 in force at 5.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1)
+[^c-0d57062a3725d74dff76d72d128ef51f]: Commencement: Reg. 5 in force at 5.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1)
 
-[^key-aa6cd33374d16614eb5856541c8f50be]: Commencement: Reg. 6 in force at 5.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1)
+[^c-aa6cd33374d16614eb5856541c8f50be]: Commencement: Reg. 6 in force at 5.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1)
 
-[^key-e123f8d7130020870e4bbd37e2fb2d44]: Commencement: Reg. 7 in force at 5.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1)
+[^c-e123f8d7130020870e4bbd37e2fb2d44]: Commencement: Reg. 7 in force at 5.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1)
 
-[^key-9cf7ae9e66bed54c5720d690b58fa7f6]: Commencement: Reg. 8 in force at 5.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1)
+[^c-9cf7ae9e66bed54c5720d690b58fa7f6]: Commencement: Reg. 8 in force at 5.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1)
 
-[^key-9296b9970d51b6115ab8e15123e25510]: Commencement: Reg. 9 in force at 5.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1)
+[^c-9296b9970d51b6115ab8e15123e25510]: Commencement: Reg. 9 in force at 5.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 2022/711](https://www.legislation.gov.uk/uksi/2022/711).
 
-[^key-349d0b584b31c5b18c4f80dd62685aad]: Commencement: Reg. 10 in force at 5.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1)
+[^c-349d0b584b31c5b18c4f80dd62685aad]: Commencement: Reg. 10 in force at 5.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1)
 
 [^f00006]: Footnote: See section 117 of the Act for the definition of “relevant building”.
 
-[^key-645c57fe4adfff6365b1e0facd570824]: Commencement: Reg. 11 in force at 5.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1)
+[^c-645c57fe4adfff6365b1e0facd570824]: Commencement: Reg. 11 in force at 5.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1)
 
-[^key-568877f3fbcabbce7a13d47220820c94]: Commencement: Reg. 12 in force at 5.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1)
+[^c-568877f3fbcabbce7a13d47220820c94]: Commencement: Reg. 12 in force at 5.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1)
 
-[^key-8371a0650e9c00ce1df755da43b78614]: Commencement: Reg. 13 in force at 5.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1)
+[^c-8371a0650e9c00ce1df755da43b78614]: Commencement: Reg. 13 in force at 5.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1)
 
-[^key-cf4d2eab218f4bca5d15ddb4aa60ca51]: Commencement: Sch. in force at 5.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1)
+[^c-cf4d2eab218f4bca5d15ddb4aa60ca51]: Commencement: Sch. in force at 5.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1)

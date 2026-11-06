@@ -26,7 +26,7 @@ Section 183
 
 *Extent: E+W+N.I.*
 
-#### 1. Amendments of the Sexual Offences Act [2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42)[^key-9531b4e9b51de95e1d841b1818d1ce15][^key-f6eef13e96b941c565cb1c5f8408f689]
+#### 1. Amendments of the Sexual Offences Act [2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42)[^c-9531b4e9b51de95e1d841b1818d1ce15][^c-f6eef13e96b941c565cb1c5f8408f689]
 
 (1) Section 136ZC of the Sexual Offences Act 2003 (variation of sexual harm prevention order by court in Northern Ireland) is amended as follows.
 
@@ -88,7 +88,7 @@ Section 183
 
   > - “**sexual harm prevention order**” includes a sexual harm prevention order made under section 11 or 12 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016.
 
-**2.**[^key-e207f723f65fb73a4b10ac9e1db6b628][^key-bb65438858ab1969212097e9c65dbb5d][^key-f6eef13e96b941c565cb1c5f8408f689] (1) Section 136ZD of the Sexual Offences Act 2003 (variation of sexual risk order by court in Northern Ireland) is amended as follows.
+**2.**[^c-e207f723f65fb73a4b10ac9e1db6b628][^c-bb65438858ab1969212097e9c65dbb5d][^c-f6eef13e96b941c565cb1c5f8408f689] (1) Section 136ZD of the Sexual Offences Act 2003 (variation of sexual risk order by court in Northern Ireland) is amended as follows.
 
 (2) In the heading, after “Variation” insert “, renewal or discharge”.
 
@@ -132,7 +132,7 @@ Section 183
 
 > - “**sexual risk order**” includes a sexual risk order made under section 27 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016.
 
-#### 3. Amendments of the Sentencing Code[^key-7932a1ebfbc30ce0ccd3f109a2acd041][^key-09931c235ce1bb383c2a2b4c5d452a6c]
+#### 3. Amendments of the Sentencing Code[^c-7932a1ebfbc30ce0ccd3f109a2acd041][^c-09931c235ce1bb383c2a2b4c5d452a6c]
 
 (1) Section 351 of the Sentencing Code (variation of sexual harm prevention order by court in Northern Ireland) is amended as follows.
 
@@ -165,7 +165,7 @@ Section 183
 
 ### PART 2 — Variation of order by court in Scotland
 
-#### 4. Amendments of the Sexual Offences Act [2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42)[^key-ae7ef9566bd2e9edde31a6e450185c85][^key-cc0398b4c608d7693f733fe6daf2e270]
+#### 4. Amendments of the Sexual Offences Act [2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42)[^c-ae7ef9566bd2e9edde31a6e450185c85][^c-cc0398b4c608d7693f733fe6daf2e270]
 
 After section 136ZD of the Sexual Offences Act 2003 insert—
 
@@ -292,7 +292,7 @@ After section 136ZD of the Sexual Offences Act 2003 insert—
 >   - (b) in relation to the renewal or variation of a risk of sexual harm order, means a person under 16;
 > - “harm” and “**vulnerable adult**”, in relation to the renewal or variation of a sexual risk order, have the meanings given by section 122B(1).
 
-#### 5. Amendments of the Sentencing Code[^key-baa00e68d9a3fff43e1335bab90e56a3][^key-31a89d83e09353a4462d2cfaf07b4f09]
+#### 5. Amendments of the Sentencing Code[^c-baa00e68d9a3fff43e1335bab90e56a3][^c-31a89d83e09353a4462d2cfaf07b4f09]
 
 *Extent: E+W+S*
 
@@ -353,7 +353,7 @@ After section 351 of the Sentencing Code insert—
 
 ### PART 3 — Variation of order by court in England and Wales
 
-**6.**[^key-e06fbda5589d9fb8e9b7770599901c21][^key-de211ce9958f239de79bc109bcaeedb4] After section 136ZF of the Sexual Offences Act 2003 (inserted by paragraph 4) insert—
+**6.**[^c-e06fbda5589d9fb8e9b7770599901c21][^c-de211ce9958f239de79bc109bcaeedb4] After section 136ZF of the Sexual Offences Act 2003 (inserted by paragraph 4) insert—
 
 > **136ZG. Variation, renewal or discharge of sexual harm prevention order made in Scotland by court in England and Wales**
 >
@@ -638,26 +638,26 @@ After section 351 of the Sentencing Code insert—
 
 ## Annotations
 
-[^key-9531b4e9b51de95e1d841b1818d1ce15]: Commencement: Sch. 18 para. 1 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-9531b4e9b51de95e1d841b1818d1ce15]: Commencement: Sch. 18 para. 1 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-f6eef13e96b941c565cb1c5f8408f689]: Commencement: [Sch. 18 para. 1](https://www.legislation.gov.uk/ukpga/2022/32/schedule/18/paragraph/1) in force at 31.3.2023 by [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(g)(i)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/g/i)
+[^c-f6eef13e96b941c565cb1c5f8408f689]: Commencement: [Sch. 18 para. 1](https://www.legislation.gov.uk/ukpga/2022/32/schedule/18/paragraph/1) in force at 31.3.2023 by [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(g)(i)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/g/i)
 
-[^key-e207f723f65fb73a4b10ac9e1db6b628]: Commencement: Sch. 18 para. 2 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-e207f723f65fb73a4b10ac9e1db6b628]: Commencement: Sch. 18 para. 2 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-bb65438858ab1969212097e9c65dbb5d]: Commencement: [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2022/32/schedule/18/paragraph/2) in force at 31.3.2023 by [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(g)(i)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/g/i)
+[^c-bb65438858ab1969212097e9c65dbb5d]: Commencement: [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2022/32/schedule/18/paragraph/2) in force at 31.3.2023 by [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(g)(i)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/g/i)
 
-[^key-7932a1ebfbc30ce0ccd3f109a2acd041]: Commencement: Sch. 18 para. 3 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-7932a1ebfbc30ce0ccd3f109a2acd041]: Commencement: Sch. 18 para. 3 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-09931c235ce1bb383c2a2b4c5d452a6c]: Commencement: [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2022/32/schedule/18/paragraph/3) in force at 31.3.2023 by [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(g)(i)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/g/i)
+[^c-09931c235ce1bb383c2a2b4c5d452a6c]: Commencement: [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2022/32/schedule/18/paragraph/3) in force at 31.3.2023 by [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(g)(i)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/g/i)
 
-[^key-ae7ef9566bd2e9edde31a6e450185c85]: Commencement: Sch. 18 para. 4 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-ae7ef9566bd2e9edde31a6e450185c85]: Commencement: Sch. 18 para. 4 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-cc0398b4c608d7693f733fe6daf2e270]: Commencement: [Sch. 18 para. 4](https://www.legislation.gov.uk/ukpga/2022/32/schedule/18/paragraph/4) in force at 31.3.2023 by [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(g)(ii)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/g/ii)
+[^c-cc0398b4c608d7693f733fe6daf2e270]: Commencement: [Sch. 18 para. 4](https://www.legislation.gov.uk/ukpga/2022/32/schedule/18/paragraph/4) in force at 31.3.2023 by [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(g)(ii)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/g/ii)
 
-[^key-baa00e68d9a3fff43e1335bab90e56a3]: Commencement: Sch. 18 para. 5 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-baa00e68d9a3fff43e1335bab90e56a3]: Commencement: Sch. 18 para. 5 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-31a89d83e09353a4462d2cfaf07b4f09]: Commencement: [Sch. 18 para. 5](https://www.legislation.gov.uk/ukpga/2022/32/schedule/18/paragraph/5) in force at 31.3.2023 by [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(g)(ii)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/g/ii)
+[^c-31a89d83e09353a4462d2cfaf07b4f09]: Commencement: [Sch. 18 para. 5](https://www.legislation.gov.uk/ukpga/2022/32/schedule/18/paragraph/5) in force at 31.3.2023 by [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(g)(ii)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/g/ii)
 
-[^key-e06fbda5589d9fb8e9b7770599901c21]: Commencement: Sch. 18 para. 6 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-e06fbda5589d9fb8e9b7770599901c21]: Commencement: Sch. 18 para. 6 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-de211ce9958f239de79bc109bcaeedb4]: Commencement: [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2022/32/schedule/18/paragraph/6) in force at 31.3.2023 for specified purposes by [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(g)(iii)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/g/iii)
+[^c-de211ce9958f239de79bc109bcaeedb4]: Commencement: [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2022/32/schedule/18/paragraph/6) in force at 31.3.2023 for specified purposes by [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(g)(iii)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/g/iii)

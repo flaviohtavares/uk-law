@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.37. Notice to creditors[^key-8a895144b5e13217cf87a83392c000ec]
+## 3.37. Notice to creditors[^c-8a895144b5e13217cf87a83392c000ec]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a895144b5e13217cf87a83392c000ec]: Commencement: [Rule 3.37](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.37) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-8a895144b5e13217cf87a83392c000ec]: Commencement: [Rule 3.37](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.37) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

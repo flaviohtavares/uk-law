@@ -54,7 +54,7 @@ summary: ''
 >
 > (3) An order in Council under this section shall not be made unless a draft of the Order has been laid before Parliament and approved by a resolution of each House of Parliament.
 
-(4)[^key-8f6f8f1946653030577cf95148e72d9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-8f6f8f1946653030577cf95148e72d9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -66,4 +66,4 @@ summary: ''
 
 [^c984149]: Marginal citation: [1965 c. 37](https://www.legislation.gov.uk/ukpga/1965/37).
 
-[^key-8f6f8f1946653030577cf95148e72d9f]: Textual amendment: [S. 3(4)](https://www.legislation.gov.uk/ukpga/1979/28/section/3/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-8f6f8f1946653030577cf95148e72d9f]: Textual amendment: [S. 3(4)](https://www.legislation.gov.uk/ukpga/1979/28/section/3/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)

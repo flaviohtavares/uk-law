@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — LICENSED SEED TESTING STATIONS[^key-54230c0d004b6f9146fe3055a782a20f]
+## SCHEDULE 4 — LICENSED SEED TESTING STATIONS[^c-54230c0d004b6f9146fe3055a782a20f]
 
 *Extent: E+W*
 
@@ -24,38 +24,38 @@ summary: ''
 
 Regulation 24(3)(c), 25(1) and (3), 26(2), (3) and (4), 27
 
-### PART I — Licensing of laboratories: matters to be taken into account[^key-54230c0d004b6f9146fe3055a782a20f]
+### PART I — Licensing of laboratories: matters to be taken into account[^c-54230c0d004b6f9146fe3055a782a20f]
 
-**1.**[^key-54230c0d004b6f9146fe3055a782a20f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-54230c0d004b6f9146fe3055a782a20f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-54230c0d004b6f9146fe3055a782a20f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-54230c0d004b6f9146fe3055a782a20f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-54230c0d004b6f9146fe3055a782a20f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-54230c0d004b6f9146fe3055a782a20f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — LSTS licence conditions[^key-54230c0d004b6f9146fe3055a782a20f]
+### PART II — LSTS licence conditions[^c-54230c0d004b6f9146fe3055a782a20f]
 
-**1.**[^key-54230c0d004b6f9146fe3055a782a20f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-54230c0d004b6f9146fe3055a782a20f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-54230c0d004b6f9146fe3055a782a20f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-54230c0d004b6f9146fe3055a782a20f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-54230c0d004b6f9146fe3055a782a20f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-54230c0d004b6f9146fe3055a782a20f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-54230c0d004b6f9146fe3055a782a20f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-54230c0d004b6f9146fe3055a782a20f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-54230c0d004b6f9146fe3055a782a20f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-54230c0d004b6f9146fe3055a782a20f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-54230c0d004b6f9146fe3055a782a20f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-54230c0d004b6f9146fe3055a782a20f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-54230c0d004b6f9146fe3055a782a20f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-54230c0d004b6f9146fe3055a782a20f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-54230c0d004b6f9146fe3055a782a20f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-54230c0d004b6f9146fe3055a782a20f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-54230c0d004b6f9146fe3055a782a20f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-54230c0d004b6f9146fe3055a782a20f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-54230c0d004b6f9146fe3055a782a20f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-54230c0d004b6f9146fe3055a782a20f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-54230c0d004b6f9146fe3055a782a20f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-54230c0d004b6f9146fe3055a782a20f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-54230c0d004b6f9146fe3055a782a20f]: Textual amendment: Regulations revoked (27.2.2012) by [The Seed Marketing (Wales) Regulations 2012 (S.I. 2012/245)](https://www.legislation.gov.uk/wsi/2012/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2012/245/regulation/1), [34(f)](https://www.legislation.gov.uk/wsi/2012/245/regulation/34/f) (with [reg. 4](https://www.legislation.gov.uk/wsi/2012/245/regulation/4))
+[^c-54230c0d004b6f9146fe3055a782a20f]: Textual amendment: Regulations revoked (27.2.2012) by [The Seed Marketing (Wales) Regulations 2012 (S.I. 2012/245)](https://www.legislation.gov.uk/wsi/2012/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2012/245/regulation/1), [34(f)](https://www.legislation.gov.uk/wsi/2012/245/regulation/34/f) (with [reg. 4](https://www.legislation.gov.uk/wsi/2012/245/regulation/4))

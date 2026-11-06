@@ -65,18 +65,18 @@ The Secretary of State, being a Minister designated for the purposes of section 
 In regulation 2(1) of the principal Regulations (interpretation)—
 
 - (a) the words “, unless the context otherwise requires” are omitted;
-- (b)[^key-e1ff895a0d70199884ae2f99467b3465] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-e1ff895a0d70199884ae2f99467b3465] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) after the definition of “Directive 2001/83”, there is inserted the following definitions—
 
   > “**Directive 2003/12**” means Commission Directive 2003/12 [^c5210501] of 3rd February 2003 on the reclassification of breast implants in the framework of Directive [93/42/EEC](https://www.legislation.gov.uk/eudr/1993/42) [^c5210511] concerning medical devices;
   >
-  > [^key-69ec67742f61f0e412b9d79b33592cab]...
+  > [^c-69ec67742f61f0e412b9d79b33592cab]...
 
   ;
 - (d) in the definition of “the Medical Devices Directives”, after “Directive 93/42” there is inserted “ , read with Directive 2003/32 ”;
-- (e)[^key-1ce0097979144acc693e3198cde7ad46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-1ce0097979144acc693e3198cde7ad46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) in the definition of “notified body”, for “Part V of” there is substituted “ Part V or ”; and
-- (g)[^key-33f1cd3e356665554c13c91e4419abc4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-33f1cd3e356665554c13c91e4419abc4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 3. Amendment of regulation 4 of the principal Regulations
 
@@ -104,11 +104,11 @@ In regulation 5(1) and (2) of the principal Regulations (interpretation of Part 
 
 In regulation 7 of the principal Regulations (classification of general medical devices), after “Directive 93/42”, at both places where this occurs, there is inserted “ , read with Directive 2003/12 ”.
 
-## 6. Amendment of regulation 13 of the principal Regulations[^key-cf6fceb81b56b0afe4d4abe9a5d33413]
+## 6. Amendment of regulation 13 of the principal Regulations[^c-cf6fceb81b56b0afe4d4abe9a5d33413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of regulation 17 of the principal Regulations[^key-f1e40a9c45d5a18a840d5684c8d00fc0]
+## 7. Amendment of regulation 17 of the principal Regulations[^c-f1e40a9c45d5a18a840d5684c8d00fc0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -120,7 +120,7 @@ In regulation 18 of the principal Regulations (UK notified bodies and the confor
 
 .
 
-## 9. New regulation 19A of the principal Regulations[^key-b41f305c1d97e6fcc843f635749d699d]
+## 9. New regulation 19A of the principal Regulations[^c-b41f305c1d97e6fcc843f635749d699d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -145,11 +145,11 @@ In Part V of the principal Regulations (notified bodies, conformity assessment b
 
 .
 
-## 13. Amendment of regulation 45 of the principal Regulations[^key-79c349259191ae5c6d91fcbb7c80a160]
+## 13. Amendment of regulation 45 of the principal Regulations[^c-79c349259191ae5c6d91fcbb7c80a160]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Amendment of regulation 47 of the principal Regulations[^key-ed8db0d1bf5468cfc66f4586dedce68f]
+## 14. Amendment of regulation 47 of the principal Regulations[^c-ed8db0d1bf5468cfc66f4586dedce68f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -157,7 +157,7 @@ In Part V of the principal Regulations (notified bodies, conformity assessment b
 
 In regulation 52(1) of the principal Regulations (interpretation of Part VI), the words “, unless the context otherwise requires” are omitted.
 
-## 16. Amendment of regulation 54 of the principal Regulations[^key-3061e4acb160c9b6e21e4a263bd79dcd]
+## 16. Amendment of regulation 54 of the principal Regulations[^c-3061e4acb160c9b6e21e4a263bd79dcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -201,26 +201,26 @@ Regulatory Impact Assessments in relation to these Regulations, and a Transposit
 
 [^c5210491]: Marginal citation: [S.I. 2002/618](https://www.legislation.gov.uk/uksi/2002/618).
 
-[^key-e1ff895a0d70199884ae2f99467b3465]: Textual amendment: Reg. 2(b) revoked (21.10.2013) by [The Medical Devices (Amendment) Regulations 2013 (S.I. 2013/2327)](https://www.legislation.gov.uk/uksi/2013/2327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/1/2), [21(a)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/21/a)
+[^c-e1ff895a0d70199884ae2f99467b3465]: Textual amendment: Reg. 2(b) revoked (21.10.2013) by [The Medical Devices (Amendment) Regulations 2013 (S.I. 2013/2327)](https://www.legislation.gov.uk/uksi/2013/2327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/1/2), [21(a)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/21/a)
 
 [^c5210501]: Marginal citation: OJ No. L 28, 4.2.2003, p.43.
 
 [^c5210511]: Marginal citation: OJ No. L 169, 12.7.1993, p.1; amended by Directive 98/79/EC (OJ No. L 331, 7.12.1998, p.1), Directive 2000/70/EC (OJ No. L 313, 13.12.2000, p.22) and Directive 2001/104/EC (OJ No. L 6, 10.1.2002, p.50).
 
-[^key-69ec67742f61f0e412b9d79b33592cab]: Textual amendment: Words in reg. 2(c) revoked (21.10.2013) by virtue of [The Medical Devices (Amendment) Regulations 2013 (S.I. 2013/2327)](https://www.legislation.gov.uk/uksi/2013/2327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/1/2), [21(a)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/21/a)
+[^c-69ec67742f61f0e412b9d79b33592cab]: Textual amendment: Words in reg. 2(c) revoked (21.10.2013) by virtue of [The Medical Devices (Amendment) Regulations 2013 (S.I. 2013/2327)](https://www.legislation.gov.uk/uksi/2013/2327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/1/2), [21(a)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/21/a)
 
-[^key-1ce0097979144acc693e3198cde7ad46]: Textual amendment: Reg. 2(e) revoked (21.10.2013) by [The Medical Devices (Amendment) Regulations 2013 (S.I. 2013/2327)](https://www.legislation.gov.uk/uksi/2013/2327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/1/2), [21(a)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/21/a)
+[^c-1ce0097979144acc693e3198cde7ad46]: Textual amendment: Reg. 2(e) revoked (21.10.2013) by [The Medical Devices (Amendment) Regulations 2013 (S.I. 2013/2327)](https://www.legislation.gov.uk/uksi/2013/2327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/1/2), [21(a)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/21/a)
 
-[^key-33f1cd3e356665554c13c91e4419abc4]: Textual amendment: Reg. 2(g) revoked (21.10.2013) by [The Medical Devices (Amendment) Regulations 2013 (S.I. 2013/2327)](https://www.legislation.gov.uk/uksi/2013/2327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/1/2), [21(a)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/21/a)
+[^c-33f1cd3e356665554c13c91e4419abc4]: Textual amendment: Reg. 2(g) revoked (21.10.2013) by [The Medical Devices (Amendment) Regulations 2013 (S.I. 2013/2327)](https://www.legislation.gov.uk/uksi/2013/2327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/1/2), [21(a)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/21/a)
 
-[^key-cf6fceb81b56b0afe4d4abe9a5d33413]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2003/1697/regulation/6) revoked (21.10.2013) by [The Medical Devices (Amendment) Regulations 2013 (S.I. 2013/2327)](https://www.legislation.gov.uk/uksi/2013/2327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/1/2), [21(b)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/21/b)
+[^c-cf6fceb81b56b0afe4d4abe9a5d33413]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2003/1697/regulation/6) revoked (21.10.2013) by [The Medical Devices (Amendment) Regulations 2013 (S.I. 2013/2327)](https://www.legislation.gov.uk/uksi/2013/2327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/1/2), [21(b)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/21/b)
 
-[^key-f1e40a9c45d5a18a840d5684c8d00fc0]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2003/1697/regulation/7) revoked (21.10.2013) by [The Medical Devices (Amendment) Regulations 2013 (S.I. 2013/2327)](https://www.legislation.gov.uk/uksi/2013/2327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/1/2), [21(c)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/21/c)
+[^c-f1e40a9c45d5a18a840d5684c8d00fc0]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2003/1697/regulation/7) revoked (21.10.2013) by [The Medical Devices (Amendment) Regulations 2013 (S.I. 2013/2327)](https://www.legislation.gov.uk/uksi/2013/2327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/1/2), [21(c)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/21/c)
 
-[^key-b41f305c1d97e6fcc843f635749d699d]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2003/1697/regulation/9) revoked (21.10.2013) by [The Medical Devices (Amendment) Regulations 2013 (S.I. 2013/2327)](https://www.legislation.gov.uk/uksi/2013/2327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/1/2), [21(d)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/21/d)
+[^c-b41f305c1d97e6fcc843f635749d699d]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2003/1697/regulation/9) revoked (21.10.2013) by [The Medical Devices (Amendment) Regulations 2013 (S.I. 2013/2327)](https://www.legislation.gov.uk/uksi/2013/2327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/1/2), [21(d)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/21/d)
 
-[^key-79c349259191ae5c6d91fcbb7c80a160]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2003/1697/regulation/13) revoked (21.10.2013) by [The Medical Devices (Amendment) Regulations 2013 (S.I. 2013/2327)](https://www.legislation.gov.uk/uksi/2013/2327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/1/2), [21(e)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/21/e)
+[^c-79c349259191ae5c6d91fcbb7c80a160]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2003/1697/regulation/13) revoked (21.10.2013) by [The Medical Devices (Amendment) Regulations 2013 (S.I. 2013/2327)](https://www.legislation.gov.uk/uksi/2013/2327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/1/2), [21(e)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/21/e)
 
-[^key-ed8db0d1bf5468cfc66f4586dedce68f]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2003/1697/regulation/14) revoked (21.10.2013) by [The Medical Devices (Amendment) Regulations 2013 (S.I. 2013/2327)](https://www.legislation.gov.uk/uksi/2013/2327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/1/2), [21(f)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/21/f)
+[^c-ed8db0d1bf5468cfc66f4586dedce68f]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2003/1697/regulation/14) revoked (21.10.2013) by [The Medical Devices (Amendment) Regulations 2013 (S.I. 2013/2327)](https://www.legislation.gov.uk/uksi/2013/2327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/1/2), [21(f)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/21/f)
 
-[^key-3061e4acb160c9b6e21e4a263bd79dcd]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2003/1697/regulation/16) revoked (21.10.2013) by [The Medical Devices (Amendment) Regulations 2013 (S.I. 2013/2327)](https://www.legislation.gov.uk/uksi/2013/2327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/1/2), [21(g)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/21/g)
+[^c-3061e4acb160c9b6e21e4a263bd79dcd]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2003/1697/regulation/16) revoked (21.10.2013) by [The Medical Devices (Amendment) Regulations 2013 (S.I. 2013/2327)](https://www.legislation.gov.uk/uksi/2013/2327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/1/2), [21(g)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/21/g)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 108. Limitation on variation[^key-a475fedb3a068a91ae8477eb79e7cc9e]
+## 108. Limitation on variation[^c-a475fedb3a068a91ae8477eb79e7cc9e]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ summary: ''
 
 - (a) unless as a result of the variation—
   - (i) the fundamental provision which the term incorporates would be incorporated without modification, or
-  - (ii) the fundamental provision which the term incorporates would not be incorporated or would be incorporated with modification, but [^key-765c5ce6671eb9b22f9faccedd6d2f21]... the effect of this would be that the position of the contract-holder is improved;
+  - (ii) the fundamental provision which the term incorporates would not be incorporated or would be incorporated with modification, but [^c-765c5ce6671eb9b22f9faccedd6d2f21]... the effect of this would be that the position of the contract-holder is improved;
 - (b) if the variation (regardless of whether it is within paragraph (a)) would render the fundamental term incompatible with a fundamental term which incorporates a fundamental provision to which subsection (2) applies.
 
 (4) A variation of a term of a secure contract is of no effect if it would render any term of the contract incompatible with a fundamental term (unless that fundamental term is also varied in accordance with this section in a way that would avoid the incompatibility).
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a475fedb3a068a91ae8477eb79e7cc9e]: Commencement: [S. 108](https://www.legislation.gov.uk/anaw/2016/1/section/108) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-a475fedb3a068a91ae8477eb79e7cc9e]: Commencement: [S. 108](https://www.legislation.gov.uk/anaw/2016/1/section/108) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-765c5ce6671eb9b22f9faccedd6d2f21]: Textual amendment: Words in [s. 108(3)(a)(ii)](https://www.legislation.gov.uk/anaw/2016/1/section/108/3/a/ii) omitted (7.6.2021) by virtue of [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 5 para. 2(2)](https://www.legislation.gov.uk/asc/2021/3/schedule/5/paragraph/2/2)
+[^c-765c5ce6671eb9b22f9faccedd6d2f21]: Textual amendment: Words in [s. 108(3)(a)(ii)](https://www.legislation.gov.uk/anaw/2016/1/section/108/3/a/ii) omitted (7.6.2021) by virtue of [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 5 para. 2(2)](https://www.legislation.gov.uk/asc/2021/3/schedule/5/paragraph/2/2)

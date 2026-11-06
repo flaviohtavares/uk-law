@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129A.[^M_I_7dc1cb3c-b7d6-43be-d2d7-6a38c9872d05][^key-4aabb607bfe8f7addf6ca442d3a9f276]
+## 129A.[^M_I_7dc1cb3c-b7d6-43be-d2d7-6a38c9872d05][^c-4aabb607bfe8f7addf6ca442d3a9f276]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ After Article 3A insert—
 
 [^M_I_7dc1cb3c-b7d6-43be-d2d7-6a38c9872d05]: Commencement: Reg. 129A in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-4aabb607bfe8f7addf6ca442d3a9f276]: Textual amendment: Reg. 129A inserted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(43)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/43)
+[^c-4aabb607bfe8f7addf6ca442d3a9f276]: Textual amendment: Reg. 129A inserted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(43)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/43)

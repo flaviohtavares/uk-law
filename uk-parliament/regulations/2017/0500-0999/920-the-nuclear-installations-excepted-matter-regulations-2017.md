@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by section 26(1)[^f00001] of the Nuclear Installations Act 1965[^f00002], makes the following Regulations.
 
-## 1. Citation and commencement[^key-27e5efbe894bce30649da88adcf391f4]
+## 1. Citation and commencement[^c-27e5efbe894bce30649da88adcf391f4]
 
 These Regulations may be cited as the Nuclear Installations (Excepted Matter) Regulations 2017 and come into force on 6th April 2018.
 
-## 2. Interpretation[^key-3053ae8b31cd8cc9e3e1d360da2e50d6]
+## 2. Interpretation[^c-3053ae8b31cd8cc9e3e1d360da2e50d6]
 
 In these Regulations—
 
@@ -58,9 +58,9 @@ In these Regulations—
 - “fissile material” means plutonium 239, plutonium 241, uranium 233, uranium 235 (where the mass of the isotope uranium 235 exceeds 1% of the total mass of all the uranium isotopes present), or any material containing any of them;
 - “the IAEA Regulations” means the 2012 Edition of the Regulations for the Safe Transport of Radioactive Material of the International Atomic Energy Agency[^f00003].
 
-## 3. Excepted matter[^key-9570b4b3e66429469ea13be3bc92b583]
+## 3. Excepted matter[^c-9570b4b3e66429469ea13be3bc92b583]
 
-(1) Nuclear matter that meets the requirements of paragraph (2), (3) or (4)[^key-f9b92c26bdacc65200caf52f484324fa] is prescribed as excepted matter for the purposes of the definition of that expression in section 26(1) of the Act.
+(1) Nuclear matter that meets the requirements of paragraph (2), (3) or (4)[^c-f9b92c26bdacc65200caf52f484324fa] is prescribed as excepted matter for the purposes of the definition of that expression in section 26(1) of the Act.
 
 (2) The requirement in this paragraph is that the nuclear matter is a substance consisting substantially of uranium in which—
 
@@ -74,9 +74,9 @@ In these Regulations—
 - (a) it was duly packed and labelled in accordance with the appropriate provisions of the IAEA Regulations (for nuclear matter that is fissile material, this requirement includes compliance with paragraphs 417(a) – (f) of the IAEA Regulations), and
 - (b) it did not exceed the activity limits prescribed in regulation 4.
 
-(4)[^key-25223031021aae04e942cad8b5c71f6e] The requirement in this paragraph is that the nuclear matter has been disposed of in an installation for the disposal of nuclear matter on an excluded disposal site.
+(4)[^c-25223031021aae04e942cad8b5c71f6e] The requirement in this paragraph is that the nuclear matter has been disposed of in an installation for the disposal of nuclear matter on an excluded disposal site.
 
-## 4. Prescribed activity limits[^key-4cb42a04b7cea92f9003b5c3f83ad99e]
+## 4. Prescribed activity limits[^c-4cb42a04b7cea92f9003b5c3f83ad99e]
 
 The activity limits for any one consignment of nuclear matter are—
 
@@ -84,7 +84,7 @@ The activity limits for any one consignment of nuclear matter are—
 - (b) for a consignment containing a mixture of radionuclides which are known, the limit determined by the formula set out in the Schedule, using paragraphs 405-406 of the IAEA Regulations to determine the A<sub>2</sub> values;
 - (c) for a consignment containing single radionuclides or mixtures of radionuclides which are not known or for which relevant data are not available, the limit determined by the formula set out in the Schedule, using paragraph 407 of the IAEA Regulations to determine the A<sub>2</sub> values.
 
-## 5. Review[^key-a7ac1bb3ee754b52b0dc1cd604d9b427]
+## 5. Review[^c-a7ac1bb3ee754b52b0dc1cd604d9b427]
 
 (1) The Secretary of State must from time to time—
 
@@ -109,7 +109,7 @@ The activity limits for any one consignment of nuclear matter are—
 - “the Convention on Third Party Liability” means the Convention on Third Party Liability in the Field of Nuclear Energy of 29th<sup> </sup>July 1960, as amended by the Additional Protocol of 28th January 1964, the Protocol of 16th November 1982, and the Protocol of 12th February 2004[^f00006];
 - “regulatory provision” has the same meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).
 
-## 6. Revocation of the Nuclear Installations (Excepted Matter) Regulations 1978[^key-a141dd79398f737a8ca44244ca06ef47]
+## 6. Revocation of the Nuclear Installations (Excepted Matter) Regulations 1978[^c-a141dd79398f737a8ca44244ca06ef47]
 
 The Nuclear Installations (Excepted Matter) Regulations 1978[^f00007] are revoked.
 
@@ -121,11 +121,11 @@ Department for Business, Energy and Industrial Strategy
 
 11th September 2017
 
-## SCHEDULE[^key-02c7a979c90a907db9dded816851d992]
+## SCHEDULE[^c-02c7a979c90a907db9dded816851d992]
 
 Regulation 4
 
-[^key-02c7a979c90a907db9dded816851d992]
+[^c-02c7a979c90a907db9dded816851d992]
 
 For the purpose of regulation 4(b) and (c), the following formula is to be used to determine the activity limit for a consignment of nuclear matter, where B(i) is the activity (in terabequerels) of the radionuclide i contained in radioactive material and A<sub>2</sub>(i) is the A<sub>2</sub> value for the radionuclide i—
 
@@ -153,30 +153,30 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00002]: Footnote: [1965 c. 57](https://www.legislation.gov.uk/ukpga/1965/57).
 
-[^key-27e5efbe894bce30649da88adcf391f4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2017/920/regulation/1) in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/920/regulation/1)
+[^c-27e5efbe894bce30649da88adcf391f4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2017/920/regulation/1) in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/920/regulation/1)
 
-[^key-3053ae8b31cd8cc9e3e1d360da2e50d6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/920/regulation/2) in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/920/regulation/1)
+[^c-3053ae8b31cd8cc9e3e1d360da2e50d6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/920/regulation/2) in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/920/regulation/1)
 
 [^f00003]: Footnote: The Regulations have been published in the safety standards series by the International Atomic Energy Agency (SSR-6) and are also available via www.iaea.org. A hard copy may be obtained, on request, from the Department for Business, Energy and Industrial Strategy, 1 Victoria Street, London, SW1H 0ET.
 
-[^key-9570b4b3e66429469ea13be3bc92b583]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2017/920/regulation/3) in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/920/regulation/1)
+[^c-9570b4b3e66429469ea13be3bc92b583]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2017/920/regulation/3) in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/920/regulation/1)
 
-[^key-f9b92c26bdacc65200caf52f484324fa]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2017/920/regulation/3/1) substituted (2.12.2025) by [The Nuclear Installations (Prescribed Conditions and Excepted Matter) Regulations 2025 (S.I. 2025/1171)](https://www.legislation.gov.uk/uksi/2025/1171), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1171/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2025/1171/regulation/3/2/a)
+[^c-f9b92c26bdacc65200caf52f484324fa]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2017/920/regulation/3/1) substituted (2.12.2025) by [The Nuclear Installations (Prescribed Conditions and Excepted Matter) Regulations 2025 (S.I. 2025/1171)](https://www.legislation.gov.uk/uksi/2025/1171), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1171/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2025/1171/regulation/3/2/a)
 
-[^key-25223031021aae04e942cad8b5c71f6e]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2017/920/regulation/3/4) inserted (2.12.2025) by [The Nuclear Installations (Prescribed Conditions and Excepted Matter) Regulations 2025 (S.I. 2025/1171)](https://www.legislation.gov.uk/uksi/2025/1171), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1171/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2025/1171/regulation/3/2/b)
+[^c-25223031021aae04e942cad8b5c71f6e]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2017/920/regulation/3/4) inserted (2.12.2025) by [The Nuclear Installations (Prescribed Conditions and Excepted Matter) Regulations 2025 (S.I. 2025/1171)](https://www.legislation.gov.uk/uksi/2025/1171), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1171/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2025/1171/regulation/3/2/b)
 
-[^key-4cb42a04b7cea92f9003b5c3f83ad99e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2017/920/regulation/4) in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/920/regulation/1)
+[^c-4cb42a04b7cea92f9003b5c3f83ad99e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2017/920/regulation/4) in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/920/regulation/1)
 
 [^f00004]: Footnote: A<sub>2</sub> refers to the radioactivity value in terabecquerels for radionuclides.
 
-[^key-a7ac1bb3ee754b52b0dc1cd604d9b427]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2017/920/regulation/5) in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/920/regulation/1)
+[^c-a7ac1bb3ee754b52b0dc1cd604d9b427]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2017/920/regulation/5) in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/920/regulation/1)
 
 [^f00005]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30(3) was amended by the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), section 19.
 
 [^f00006]: Footnote: The Protocol of 12th February 2004 has been published in the Miscellaneous Series No. 6 (2015), Cm. 9135; the Convention of 29th July 1960, as amended by the Additional Protocol of 28th January 1964, was published in the Treaty Series No. 69 (1968), Cmnd. 3755; the Protocol of 16th November 1982 was published in the Treaty Series No. 6 (1989), Cm. 659. The Protocols and Conventions are also available via UK Treaties Online (http://treaties.fco.gov.uk/treaties/treaty.htm). A hard copy may be obtained, on request, from the Department for Business, Energy and Industrial Strategy, 1 Victoria Street, London, SW1H 0ET.
 
-[^key-a141dd79398f737a8ca44244ca06ef47]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2017/920/regulation/6) in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/920/regulation/1)
+[^c-a141dd79398f737a8ca44244ca06ef47]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2017/920/regulation/6) in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/920/regulation/1)
 
 [^f00007]: Footnote: [S.I. 1978/1779](https://www.legislation.gov.uk/uksi/1978/1779).
 
-[^key-02c7a979c90a907db9dded816851d992]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2017/920/schedule) in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/920/regulation/1)
+[^c-02c7a979c90a907db9dded816851d992]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2017/920/schedule) in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/920/regulation/1)

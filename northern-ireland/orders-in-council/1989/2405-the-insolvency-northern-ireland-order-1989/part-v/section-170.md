@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 170. Fraud, etc., in anticipation of winding up[^key-decff1cd13e4e00dad78efe40dc45912][^key-4bfbce4a5ca7db569897a2179a686c6c][^key-5382c63d9681977c1c8e6a38bc2e3841][^key-5382c63d9681977c1c8e6a38bc2e3841]
+## 170. Fraud, etc., in anticipation of winding up[^c-decff1cd13e4e00dad78efe40dc45912][^c-4bfbce4a5ca7db569897a2179a686c6c][^c-5382c63d9681977c1c8e6a38bc2e3841][^c-5382c63d9681977c1c8e6a38bc2e3841]
 
 *Extent: N.I.*
 
@@ -46,10 +46,10 @@ shall be guilty of an offence.
 
 ## Annotations
 
-[^key-decff1cd13e4e00dad78efe40dc45912]: Modification: [Art. 170](https://www.legislation.gov.uk/nisi/1989/2405/article/170) modified (temp.) (retrospective to 27.4.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [Sch. 11 para. 8(1)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/8/1)[(2)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/8/2), [11](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/11) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-decff1cd13e4e00dad78efe40dc45912]: Modification: [Art. 170](https://www.legislation.gov.uk/nisi/1989/2405/article/170) modified (temp.) (retrospective to 27.4.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [Sch. 11 para. 8(1)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/8/1)[(2)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/8/2), [11](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/11) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
-[^key-4bfbce4a5ca7db569897a2179a686c6c]: Modification: [Art. 170](https://www.legislation.gov.uk/nisi/1989/2405/article/170) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [reg. 37A](https://www.legislation.gov.uk/uksi/2021/716/regulation/37A) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))
+[^c-4bfbce4a5ca7db569897a2179a686c6c]: Modification: [Art. 170](https://www.legislation.gov.uk/nisi/1989/2405/article/170) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [reg. 37A](https://www.legislation.gov.uk/uksi/2021/716/regulation/37A) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))
 
-[^key-5382c63d9681977c1c8e6a38bc2e3841]: Modification: [Pts. 1-5](https://www.legislation.gov.uk/nisi/1989/2405/part/1) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 1A para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1A/paragraph/3) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))
+[^c-5382c63d9681977c1c8e6a38bc2e3841]: Modification: [Pts. 1-5](https://www.legislation.gov.uk/nisi/1989/2405/part/1) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 1A para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1A/paragraph/3) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))
 
 [^c17599181]: Textual amendment: mod. by SR 2004/307

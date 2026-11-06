@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Debts of insolvent company to rank equally[^key-284a9ee1420bee2255be67713e0c67fc]
+## 40. Debts of insolvent company to rank equally[^c-284a9ee1420bee2255be67713e0c67fc]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Debts other than preferential debts rank equally between themselves in the posta
 
 ## Annotations
 
-[^key-284a9ee1420bee2255be67713e0c67fc]: Commencement: [Rule 40](https://www.legislation.gov.uk/uksi/2013/3208/rule/40) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-284a9ee1420bee2255be67713e0c67fc]: Commencement: [Rule 40](https://www.legislation.gov.uk/uksi/2013/3208/rule/40) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

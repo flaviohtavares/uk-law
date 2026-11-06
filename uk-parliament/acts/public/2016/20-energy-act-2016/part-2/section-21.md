@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Action by the OGA on a dispute reference[^key-0f800e0e967ebcff4329640b66c3b1d2]
+## 21. Action by the OGA on a dispute reference[^c-0f800e0e967ebcff4329640b66c3b1d2]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ are sanctionable in accordance with Chapter 5.
 
 ## Annotations
 
-[^key-0f800e0e967ebcff4329640b66c3b1d2]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2016/20/section/21) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-0f800e0e967ebcff4329640b66c3b1d2]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2016/20/section/21) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78A. Chief Inspector's powers of entry: childminder agencies[^key-135d96904659ea617bdcb713eb482bb1]
+## 78A. Chief Inspector's powers of entry: childminder agencies[^c-135d96904659ea617bdcb713eb482bb1]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ for any of the purposes in subsection (3).
 
 ## Annotations
 
-[^key-135d96904659ea617bdcb713eb482bb1]: Textual amendment: Ss. 78A, 78B inserted (1.4.2014 for specified purposes) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 49](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/49); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m)
+[^c-135d96904659ea617bdcb713eb482bb1]: Textual amendment: Ss. 78A, 78B inserted (1.4.2014 for specified purposes) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 49](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/49); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m)

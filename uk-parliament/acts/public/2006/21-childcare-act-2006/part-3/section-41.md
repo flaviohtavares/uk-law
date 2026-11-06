@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. The learning and development requirements[^key-70d4d44934a791968c0be6ff76229001]
+## 41. The learning and development requirements[^c-70d4d44934a791968c0be6ff76229001]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 
 - (a) the knowledge, skills and understanding which young children of different abilities and maturities are expected to have before the 1st September next following the day on which they attain the age of five (“early learning goals”);
 - (b) the matters, skills and processes which are required to be taught to young children of different abilities and maturities (“educational programmes”), and
-- (c) the arrangements which are required for assessing children for the specified purposes[^key-37d864bd60ebdcbde03c0a046229a093] (“assessment arrangements”).
+- (c) the arrangements which are required for assessing children for the specified purposes[^c-37d864bd60ebdcbde03c0a046229a093] (“assessment arrangements”).
 
 (3) The areas of learning and development are as follows—
 
@@ -39,7 +39,7 @@ summary: ''
 
 (4) The Secretary of State may by order amend subsection (3).
 
-(4A)[^key-9212c2f2f6b4d6644f3d7ec6d620bbf7] In subsection (2)(c) “ **the specified purposes** ” means—
+(4A)[^c-9212c2f2f6b4d6644f3d7ec6d620bbf7] In subsection (2)(c) “ **the specified purposes** ” means—
 
 - (a) the purpose of ascertaining what children have achieved in relation to the early learning goals, and
 - (b) such other purposes as the Secretary of State may by order specify.
@@ -53,8 +53,8 @@ summary: ''
 
 ## Annotations
 
-[^key-70d4d44934a791968c0be6ff76229001]: Commencement: S. 41 in force at 20.12.2006 by [S.I. 2006/3360](https://www.legislation.gov.uk/uksi/2006/3360), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/3360/article/2/c)
+[^c-70d4d44934a791968c0be6ff76229001]: Commencement: S. 41 in force at 20.12.2006 by [S.I. 2006/3360](https://www.legislation.gov.uk/uksi/2006/3360), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/3360/article/2/c)
 
-[^key-37d864bd60ebdcbde03c0a046229a093]: Textual amendment: Words in s. 41(2)(c) substituted (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 12 para. 39(2)](https://www.legislation.gov.uk/ukpga/2009/22/schedule/12/paragraph/39/2); [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-37d864bd60ebdcbde03c0a046229a093]: Textual amendment: Words in s. 41(2)(c) substituted (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 12 para. 39(2)](https://www.legislation.gov.uk/ukpga/2009/22/schedule/12/paragraph/39/2); [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
 
-[^key-9212c2f2f6b4d6644f3d7ec6d620bbf7]: Textual amendment: S. 41(4A) inserted (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 12 para. 39(3)](https://www.legislation.gov.uk/ukpga/2009/22/schedule/12/paragraph/39/3); [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-9212c2f2f6b4d6644f3d7ec6d620bbf7]: Textual amendment: S. 41(4A) inserted (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 12 para. 39(3)](https://www.legislation.gov.uk/ukpga/2009/22/schedule/12/paragraph/39/3); [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)

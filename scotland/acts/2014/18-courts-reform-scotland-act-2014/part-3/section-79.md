@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Proceedings in an all-Scotland sheriff court: transfer to simple procedure[^key-f6195794ccb1a2730d5590c5dd1c1bf1]
+## 79. Proceedings in an all-Scotland sheriff court: transfer to simple procedure[^c-f6195794ccb1a2730d5590c5dd1c1bf1]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6195794ccb1a2730d5590c5dd1c1bf1]: Commencement: S. 79 in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 10](https://www.legislation.gov.uk/ssi/2015/247/article/10) (as amended (28.11.2016) by [S.S.I. 2016/387](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 1 para. 8](https://www.legislation.gov.uk/ssi/2016/387/schedule/1/paragraph/8))
+[^c-f6195794ccb1a2730d5590c5dd1c1bf1]: Commencement: S. 79 in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 10](https://www.legislation.gov.uk/ssi/2015/247/article/10) (as amended (28.11.2016) by [S.S.I. 2016/387](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 1 para. 8](https://www.legislation.gov.uk/ssi/2016/387/schedule/1/paragraph/8))

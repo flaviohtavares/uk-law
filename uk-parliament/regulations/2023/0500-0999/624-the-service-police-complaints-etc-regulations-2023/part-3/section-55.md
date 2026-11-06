@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Procedure where conduct matter is revealed during investigation of DSI matter[^key-26c82cb5e1ec42c6fb8525ab3ffd25f3]
+## 55. Procedure where conduct matter is revealed during investigation of DSI matter[^c-26c82cb5e1ec42c6fb8525ab3ffd25f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,4 +80,4 @@ it must record the matter under regulation 22 as a conduct matter.
 
 ## Annotations
 
-[^key-26c82cb5e1ec42c6fb8525ab3ffd25f3]: Commencement: Reg. 55 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-26c82cb5e1ec42c6fb8525ab3ffd25f3]: Commencement: Reg. 55 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

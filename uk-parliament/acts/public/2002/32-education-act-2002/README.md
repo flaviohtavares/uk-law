@@ -33,7 +33,7 @@ An Act to make provision about education, training and childcare.
 
 \[24th July 2002\]
 
-B e it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-1defe22adcfa918a3d84e245a7b6f313][^key-627123d610628d15091c2f1ff2555e75][^key-a843988fbafcd8f1dd4077712dfba484]
+B e it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-1defe22adcfa918a3d84e245a7b6f313][^c-627123d610628d15091c2f1ff2555e75][^c-a843988fbafcd8f1dd4077712dfba484]
 
 ## Contents
 
@@ -65,7 +65,7 @@ B e it enacted by the Queen’s most Excellent Majesty, by and with the advice a
 - [Section 12 — Limits on powers conferred by section 11](part-1/section-12.md)
 - [Section 13 — General powers of Secretary of State in relation to companies](part-1/section-13.md)
 
-### Part 2 — Financial assistance for education and children etc[^key-9a232edeed07732c3dc156cb64f5a573]
+### Part 2 — Financial assistance for education and children etc[^c-9a232edeed07732c3dc156cb64f5a573]
 
 *Extent: E+W*
 
@@ -173,7 +173,7 @@ B e it enacted by the Queen’s most Excellent Majesty, by and with the advice a
 - [Section 58 — Power of Secretary of State to provide for governing body to consist of interim executive members](part-4/section-58.md)
 - [Section 59 — Governing bodies consisting of interim executive members](part-4/section-59.md)
 
-#### Local authorities[^key-0b83dc4852763b67d3e91bf8700f3c44]
+#### Local authorities[^c-0b83dc4852763b67d3e91bf8700f3c44]
 
 *Extent: E+W*
 
@@ -205,7 +205,7 @@ B e it enacted by the Queen’s most Excellent Majesty, by and with the advice a
 - [Section 74 — Proposals for establishment of federated school](part-5/section-74.md)
 - [Section 75 — Changes to existing procedures](part-5/section-75.md)
 
-### Part 6 — The curriculum in England[^key-72db0a0844b775141b2df07f7ad7d6d5][^key-5923b1a065cd2098e3d808d6ae3934ed][^c382127]
+### Part 6 — The curriculum in England[^c-72db0a0844b775141b2df07f7ad7d6d5][^c-5923b1a065cd2098e3d808d6ae3934ed][^c382127]
 
 *Extent: E+W*
 
@@ -365,7 +365,7 @@ B e it enacted by the Queen’s most Excellent Majesty, by and with the advice a
 - [Section 134 — Requirement to be registered: teachers in Wales](part-8/section-134.md)
 - [Section 135 — Head teachers](part-8/section-135.md)
 
-#### Induction periods: teachers in England[^key-36491703824b012c443cf5c2db4d1e84]
+#### Induction periods: teachers in England[^c-36491703824b012c443cf5c2db4d1e84]
 
 - [Section 135A — Requirement to serve induction period: teachers in England](part-8/section-135a.md)
 - [Section 135B — Induction periods: appeals](part-8/section-135b.md)
@@ -383,7 +383,7 @@ B e it enacted by the Queen’s most Excellent Majesty, by and with the advice a
 
 - [Section 141 — Health and fitness](part-8/section-141.md)
 
-#### Teacher misconduct etc: England[^key-ba97a4adca3a9d4bcda596bd60c72b67]
+#### Teacher misconduct etc: England[^c-ba97a4adca3a9d4bcda596bd60c72b67]
 
 - [Section 141A — Teachers to whom sections 141B to 141E apply](part-8/section-141a.md)
 - [Section 141AA — Meaning of “online education provider”](part-8/section-141aa.md)
@@ -392,7 +392,7 @@ B e it enacted by the Queen’s most Excellent Majesty, by and with the advice a
 - [Section 141D — Supply of information following dismissal, resignation etc](part-8/section-141d.md)
 - [Section 141E — Supply of information by contractor, agency etc](part-8/section-141e.md)
 
-#### Allegations of offences committed by teachers in England and Wales: reporting restrictions[^key-7bb167c826739cfbd60f70275e95c1b5]
+#### Allegations of offences committed by teachers in England and Wales: reporting restrictions[^c-7bb167c826739cfbd60f70275e95c1b5]
 
 - [Section 141F — Restrictions on reporting alleged offences by teachers](part-8/section-141f.md)
 - [Section 141G — Offence of breach of reporting restrictions](part-8/section-141g.md)
@@ -474,7 +474,7 @@ B e it enacted by the Queen’s most Excellent Majesty, by and with the advice a
 - [Section 166 — Appeals](part-10/section-166.md)
 - [Section 167 — Determination of appeals](part-10/section-167.md)
 
-##### Prohibition on participation in management of independent schools[^key-5a37e4effc66a21ab6373bb7ca85fb7e]
+##### Prohibition on participation in management of independent schools[^c-5a37e4effc66a21ab6373bb7ca85fb7e]
 
 *Extent: E+W*
 
@@ -507,7 +507,7 @@ B e it enacted by the Queen’s most Excellent Majesty, by and with the advice a
 
 *Extent: E+W*
 
-#### General duties of local authorities and governing bodies[^key-0b83dc4852763b67d3e91bf8700f3c44]
+#### General duties of local authorities and governing bodies[^c-0b83dc4852763b67d3e91bf8700f3c44]
 
 *Extent: E+W*
 
@@ -626,28 +626,28 @@ SCHEDULES
 
 ## Annotations
 
-[^key-1defe22adcfa918a3d84e245a7b6f313]: Modification: Act applied (1.4.2005) by [The Central Sussex College (Government) Regulations 2005 (S.I. 2005/397)](https://www.legislation.gov.uk/uksi/2005/397), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/397/schedule/2/paragraph/2)
+[^c-1defe22adcfa918a3d84e245a7b6f313]: Modification: Act applied (1.4.2005) by [The Central Sussex College (Government) Regulations 2005 (S.I. 2005/397)](https://www.legislation.gov.uk/uksi/2005/397), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/397/schedule/2/paragraph/2)
 
-[^key-627123d610628d15091c2f1ff2555e75]: Modification: Act modified (7.4.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 96(2)](https://www.legislation.gov.uk/ukpga/2005/18/section/96/2)
+[^c-627123d610628d15091c2f1ff2555e75]: Modification: Act modified (7.4.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 96(2)](https://www.legislation.gov.uk/ukpga/2005/18/section/96/2)
 
-[^key-a843988fbafcd8f1dd4077712dfba484]: Modification: Education Acts modified (temp.) (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/6/paragraph/3/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(bb)](https://www.legislation.gov.uk/uksi/2007/935/article/5/bb)
+[^c-a843988fbafcd8f1dd4077712dfba484]: Modification: Education Acts modified (temp.) (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/6/paragraph/3/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(bb)](https://www.legislation.gov.uk/uksi/2007/935/article/5/bb)
 
-[^key-9a232edeed07732c3dc156cb64f5a573]: Textual amendment: Words in Pt. 2 heading substituted (15.11.2004) by [Children Act 2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31), [ss. 59(5)](https://www.legislation.gov.uk/ukpga/2004/31/section/59/5), [67(7)(g)](https://www.legislation.gov.uk/ukpga/2004/31/section/67/7/g)
+[^c-9a232edeed07732c3dc156cb64f5a573]: Textual amendment: Words in Pt. 2 heading substituted (15.11.2004) by [Children Act 2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31), [ss. 59(5)](https://www.legislation.gov.uk/ukpga/2004/31/section/59/5), [67(7)(g)](https://www.legislation.gov.uk/ukpga/2004/31/section/67/7/g)
 
-[^key-0b83dc4852763b67d3e91bf8700f3c44]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/3)
+[^c-0b83dc4852763b67d3e91bf8700f3c44]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/3)
 
-[^key-72db0a0844b775141b2df07f7ad7d6d5]: Modification: [Pt. 6](https://www.legislation.gov.uk/ukpga/2002/32/part/6): power to amend conferred (1.4.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 35(4)(d)](https://www.legislation.gov.uk/ukpga/2017/16/section/35/4/d), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/f)
+[^c-72db0a0844b775141b2df07f7ad7d6d5]: Modification: [Pt. 6](https://www.legislation.gov.uk/ukpga/2002/32/part/6): power to amend conferred (1.4.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 35(4)(d)](https://www.legislation.gov.uk/ukpga/2017/16/section/35/4/d), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/f)
 
-[^key-5923b1a065cd2098e3d808d6ae3934ed]: Modification: [Pt. 6](https://www.legislation.gov.uk/ukpga/2002/32/part/6): power to amend conferred (1.4.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 34(6)(d)](https://www.legislation.gov.uk/ukpga/2017/16/section/34/6/d), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/e)
+[^c-5923b1a065cd2098e3d808d6ae3934ed]: Modification: [Pt. 6](https://www.legislation.gov.uk/ukpga/2002/32/part/6): power to amend conferred (1.4.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 34(6)(d)](https://www.legislation.gov.uk/ukpga/2017/16/section/34/6/d), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/e)
 
 [^c382127]: Modification: Pt. 6 modified (E.) (temp. from 1.10.2002) by [The Education Act 2002 (Modification of Provisions) (England) Regulations 2002 (S.I. 2002/2316)](https://www.legislation.gov.uk/uksi/2002/2316), [reg. 4](https://www.legislation.gov.uk/uksi/2002/2316/regulation/4)
 
 [^M_F_02684c10-5af1-4df2-da44-3b3b4ab2f930]: Textual amendment: Pt. 7 omitted (30.4.2021) by virtue of [Curriculum and Assessment (Wales) Act 2021 (asc 4)](https://www.legislation.gov.uk/asc/2021/4), [s. 84(1)](https://www.legislation.gov.uk/asc/2021/4/section/84/1), [Sch. 2 para. 45](https://www.legislation.gov.uk/asc/2021/4/schedule/2/paragraph/45) (with savings and transitional provisions in [S.I. 2022/111](https://www.legislation.gov.uk/uksi/2022/111), [regs. 1](https://www.legislation.gov.uk/uksi/2022/111/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/111/regulation/3))
 
-[^key-36491703824b012c443cf5c2db4d1e84]: Textual amendment: Ss. 135A-135C and cross-heading inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 9](https://www.legislation.gov.uk/ukpga/2011/21/section/9), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-36491703824b012c443cf5c2db4d1e84]: Textual amendment: Ss. 135A-135C and cross-heading inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 9](https://www.legislation.gov.uk/ukpga/2011/21/section/9), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-ba97a4adca3a9d4bcda596bd60c72b67]: Textual amendment: Ss. 141A-141E and cross-heading inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2011/21/section/8/1), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-ba97a4adca3a9d4bcda596bd60c72b67]: Textual amendment: Ss. 141A-141E and cross-heading inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2011/21/section/8/1), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-7bb167c826739cfbd60f70275e95c1b5]: Textual amendment: Ss. 141F-141H and cross-heading inserted (1.10.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 13(1)](https://www.legislation.gov.uk/ukpga/2011/21/section/13/1), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/2213](https://www.legislation.gov.uk/uksi/2012/2213), [art. 3](https://www.legislation.gov.uk/uksi/2012/2213/article/3)
+[^c-7bb167c826739cfbd60f70275e95c1b5]: Textual amendment: Ss. 141F-141H and cross-heading inserted (1.10.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 13(1)](https://www.legislation.gov.uk/ukpga/2011/21/section/13/1), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/2213](https://www.legislation.gov.uk/uksi/2012/2213), [art. 3](https://www.legislation.gov.uk/uksi/2012/2213/article/3)
 
-[^key-5a37e4effc66a21ab6373bb7ca85fb7e]: Textual amendment: Ss. 167A-167D and cross-heading inserted (12.10.2009 for W.) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 169](https://www.legislation.gov.uk/ukpga/2006/40/section/169), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2009/2545](https://www.legislation.gov.uk/uksi/2009/2545), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2009/2545/article/3/1/a)
+[^c-5a37e4effc66a21ab6373bb7ca85fb7e]: Textual amendment: Ss. 167A-167D and cross-heading inserted (12.10.2009 for W.) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 169](https://www.legislation.gov.uk/ukpga/2006/40/section/169), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2009/2545](https://www.legislation.gov.uk/uksi/2009/2545), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2009/2545/article/3/1/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Free distribution and discount of products[^key-acf082e9f6bbb1837bbed7caa2c2c46b][^key-df21ec6886129823da08558f99a93d60]
+## 65. Free distribution and discount of products[^c-acf082e9f6bbb1837bbed7caa2c2c46b][^c-df21ec6886129823da08558f99a93d60]
 
 *Extent: S*
 
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-acf082e9f6bbb1837bbed7caa2c2c46b]: Commencement: S. 65 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
+[^c-acf082e9f6bbb1837bbed7caa2c2c46b]: Commencement: S. 65 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
 
-[^key-df21ec6886129823da08558f99a93d60]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2026/18/section/65) in force at 29.10.2026 in so far as not already in force, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-df21ec6886129823da08558f99a93d60]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2026/18/section/65) in force at 29.10.2026 in so far as not already in force, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

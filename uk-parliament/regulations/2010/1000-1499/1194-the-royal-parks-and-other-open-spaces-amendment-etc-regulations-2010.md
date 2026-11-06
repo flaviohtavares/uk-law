@@ -42,13 +42,13 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 A draft of these Regulations has been laid before Parliament for a period of forty days pursuant to section 6 of the Statutory Instruments Act 1946, and that period has expired without either House resolving that the Regulations be not made.
 
-## 1. Citation, Commencement and Interpretation[^key-fd916773208c712b12853fdbcc529a68]
+## 1. Citation, Commencement and Interpretation[^c-fd916773208c712b12853fdbcc529a68]
 
 (1) These Regulations may be cited as The Royal Parks and Other Open Spaces (Amendment) etc. Regulations 2010 and shall come into force for the purposes of regulations 1 to 4 on 6th April 2010 and for all other purposes on 1st October 2010.
 
-(2)[^key-e1c329b079b7dae3f0b5a2dc1b6600a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e1c329b079b7dae3f0b5a2dc1b6600a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Royal Parks and Other Open Spaces Regulations 1997[^key-9127c5728130818f2538c041293e6d8a]
+## 2. Amendment of the Royal Parks and Other Open Spaces Regulations 1997[^c-9127c5728130818f2538c041293e6d8a]
 
 (1) The Royal Parks and Other Open Spaces Regulations 1997[^f00004] are amended in accordance with this regulation.
 
@@ -84,7 +84,7 @@ A draft of these Regulations has been laid before Parliament for a period of for
 
 .
 
-## 3. Amendment of the Greenwich Park (Vehicle Parking) Regulations 2000[^key-5fab8f4865a24a3fcd11e22062a687b0]
+## 3. Amendment of the Greenwich Park (Vehicle Parking) Regulations 2000[^c-5fab8f4865a24a3fcd11e22062a687b0]
 
 (1) The Greenwich Park (Vehicle Parking) Regulations 2000[^f00006] are amended in accordance with this regulation.
 
@@ -102,7 +102,7 @@ A draft of these Regulations has been laid before Parliament for a period of for
 
 .
 
-## 4. Amendment of the Hyde Park and The Regent’s Park (Vehicle Parking) Regulations 1995[^key-736bfc3d8a3cca3213c007a9da36417e]
+## 4. Amendment of the Hyde Park and The Regent’s Park (Vehicle Parking) Regulations 1995[^c-736bfc3d8a3cca3213c007a9da36417e]
 
 (1) The Hyde Park and The Regent’s Park (Vehicle Parking) Regulations 1995[^f00007] are amended in accordance with this regulation.
 
@@ -122,21 +122,21 @@ A draft of these Regulations has been laid before Parliament for a period of for
 
 .
 
-## 5. Bushy Park and Richmond Park Vehicle Parking Charges[^key-5581343130ae6466d9da72576c360d6d]
+## 5. Bushy Park and Richmond Park Vehicle Parking Charges[^c-5581343130ae6466d9da72576c360d6d]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Excess Charge[^key-5581343130ae6466d9da72576c360d6d]
+## 6. Excess Charge[^c-5581343130ae6466d9da72576c360d6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Exemptions[^key-5581343130ae6466d9da72576c360d6d]
+## 7. Exemptions[^c-5581343130ae6466d9da72576c360d6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. General[^key-5581343130ae6466d9da72576c360d6d]
+## 8. General[^c-5581343130ae6466d9da72576c360d6d]
 
 **No longer in force.**
 
@@ -176,22 +176,22 @@ Regulation 8 makes provision concerning the powers of constables, the recovery o
 
 [^f00003]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27).
 
-[^key-fd916773208c712b12853fdbcc529a68]: Commencement: Reg. 1 in force at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/1/1)
+[^c-fd916773208c712b12853fdbcc529a68]: Commencement: Reg. 1 in force at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/1/1)
 
-[^key-e1c329b079b7dae3f0b5a2dc1b6600a0]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/1/2) revoked (2.11.2010) by [The Royal Parks and Other Open Spaces (Amendment) (No.2) etc. Regulations 2010 (S.I. 2010/2695)](https://www.legislation.gov.uk/uksi/2010/2695), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2695/regulation/1), [2](https://www.legislation.gov.uk/uksi/2010/2695/regulation/2)
+[^c-e1c329b079b7dae3f0b5a2dc1b6600a0]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/1/2) revoked (2.11.2010) by [The Royal Parks and Other Open Spaces (Amendment) (No.2) etc. Regulations 2010 (S.I. 2010/2695)](https://www.legislation.gov.uk/uksi/2010/2695), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2695/regulation/1), [2](https://www.legislation.gov.uk/uksi/2010/2695/regulation/2)
 
-[^key-9127c5728130818f2538c041293e6d8a]: Commencement: Reg. 2 in force at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/1/1)
+[^c-9127c5728130818f2538c041293e6d8a]: Commencement: Reg. 2 in force at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 1997/1639](https://www.legislation.gov.uk/uksi/1997/1639), as amended by [S.I. 2004/1308](https://www.legislation.gov.uk/uksi/2004/1308).
 
 [^f00005]: Footnote: [1998 c.34](https://www.legislation.gov.uk/ukpga/1998/34), as amended by the [Greater London Authority Act 1999 c.29](https://www.legislation.gov.uk/ukpga/1999/29).
 
-[^key-5fab8f4865a24a3fcd11e22062a687b0]: Commencement: Reg. 3 in force at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/1/1)
+[^c-5fab8f4865a24a3fcd11e22062a687b0]: Commencement: Reg. 3 in force at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 2000/934](https://www.legislation.gov.uk/uksi/2000/934), as amended by [S.I. 2004/1307](https://www.legislation.gov.uk/uksi/2004/1307).
 
-[^key-736bfc3d8a3cca3213c007a9da36417e]: Commencement: Reg. 4 in force at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/1/1)
+[^c-736bfc3d8a3cca3213c007a9da36417e]: Commencement: Reg. 4 in force at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 1995/993](https://www.legislation.gov.uk/uksi/1995/993), as amended by [S.I. 1999/392](https://www.legislation.gov.uk/uksi/1999/392) and [S.I. 2004/1307](https://www.legislation.gov.uk/uksi/2004/1307).
 
-[^key-5581343130ae6466d9da72576c360d6d]: Textual amendment: [Regs. 5-8](https://www.legislation.gov.uk/uksi/2010/1194/regulation/5) revoked (2.11.2010) by [The Royal Parks and Other Open Spaces (Amendment) (No.2) etc. Regulations 2010 (S.I. 2010/2695)](https://www.legislation.gov.uk/uksi/2010/2695), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2695/regulation/1), [2](https://www.legislation.gov.uk/uksi/2010/2695/regulation/2)
+[^c-5581343130ae6466d9da72576c360d6d]: Textual amendment: [Regs. 5-8](https://www.legislation.gov.uk/uksi/2010/1194/regulation/5) revoked (2.11.2010) by [The Royal Parks and Other Open Spaces (Amendment) (No.2) etc. Regulations 2010 (S.I. 2010/2695)](https://www.legislation.gov.uk/uksi/2010/2695), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2695/regulation/1), [2](https://www.legislation.gov.uk/uksi/2010/2695/regulation/2)

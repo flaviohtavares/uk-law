@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Assured tenancies: power to convert[^key-241ae29185101a8b819024b8aef7d01f]
+## 51. Assured tenancies: power to convert[^c-241ae29185101a8b819024b8aef7d01f]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-241ae29185101a8b819024b8aef7d01f]: Commencement: S. 51 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-241ae29185101a8b819024b8aef7d01f]: Commencement: S. 51 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)

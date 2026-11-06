@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8.1. When this Part applies[^key-fe7b8aebcce3f4e2db6d4e009ebb2c69]
+## 8.1. When this Part applies[^c-fe7b8aebcce3f4e2db6d4e009ebb2c69]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Part applies in a magistrates’ court.
 
 ## Annotations
 
-[^key-fe7b8aebcce3f4e2db6d4e009ebb2c69]: Commencement: [Rule 8.1](https://www.legislation.gov.uk/uksi/2025/909/rule/8.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-fe7b8aebcce3f4e2db6d4e009ebb2c69]: Commencement: [Rule 8.1](https://www.legislation.gov.uk/uksi/2025/909/rule/8.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

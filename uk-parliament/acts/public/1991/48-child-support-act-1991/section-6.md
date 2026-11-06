@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Applications by those claiming or receiving benefit.[^key-1b1c33fa0b63b3a3e81df28d024f043b]
+## 6. Applications by those claiming or receiving benefit.[^c-1b1c33fa0b63b3a3e81df28d024f043b]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b1c33fa0b63b3a3e81df28d024f043b]: Textual amendment: S. 6 repealed (14.7.2008 for specified purposes, 27.10.2008 in so far as not already in force) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [ss. 15(a)](https://www.legislation.gov.uk/ukpga/2008/6/section/15/a), [62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3), [Sch. 8](https://www.legislation.gov.uk/ukpga/2008/6/schedule/8); [S.I. 2008/1476](https://www.legislation.gov.uk/uksi/2008/1476), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2008/1476/article/2/3/a)[(c)](https://www.legislation.gov.uk/uksi/2008/1476/article/2/3/c)[(4)](https://www.legislation.gov.uk/uksi/2008/1476/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2008/1476/article/2/5); [S.I. 2008/2548](https://www.legislation.gov.uk/uksi/2008/2548), [art. 3(a)](https://www.legislation.gov.uk/uksi/2008/2548/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/2548/article/4)) (see also [S.I. 2009/1314](https://www.legislation.gov.uk/uksi/2009/1314), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2009/1314/article/2/c/i) which brings the repeal of this section by Sch. 8 to the 2008 Act into force on 1.6.2009)
+[^c-1b1c33fa0b63b3a3e81df28d024f043b]: Textual amendment: S. 6 repealed (14.7.2008 for specified purposes, 27.10.2008 in so far as not already in force) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [ss. 15(a)](https://www.legislation.gov.uk/ukpga/2008/6/section/15/a), [62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3), [Sch. 8](https://www.legislation.gov.uk/ukpga/2008/6/schedule/8); [S.I. 2008/1476](https://www.legislation.gov.uk/uksi/2008/1476), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2008/1476/article/2/3/a)[(c)](https://www.legislation.gov.uk/uksi/2008/1476/article/2/3/c)[(4)](https://www.legislation.gov.uk/uksi/2008/1476/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2008/1476/article/2/5); [S.I. 2008/2548](https://www.legislation.gov.uk/uksi/2008/2548), [art. 3(a)](https://www.legislation.gov.uk/uksi/2008/2548/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/2548/article/4)) (see also [S.I. 2009/1314](https://www.legislation.gov.uk/uksi/2009/1314), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2009/1314/article/2/c/i) which brings the repeal of this section by Sch. 8 to the 2008 Act into force on 1.6.2009)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(A1)[^key-6126c9665fb9cd13d50effc7c0b878a1] This regulation applies to—
+(A1)[^c-6126c9665fb9cd13d50effc7c0b878a1] This regulation applies to—
 
 - (a) non-Real Time Information pension payers, and
 - (b) Real Time Information pension payers to whom HMRC has given a notice requiring the pension payer to send to HMRC Form P45 or Form P46(Pen) on the commencement of a new pensioner’s pension.
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6126c9665fb9cd13d50effc7c0b878a1]: Textual amendment: [Reg. 39(A1)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/39/A1) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2012/822/regulation/8)
+[^c-6126c9665fb9cd13d50effc7c0b878a1]: Textual amendment: [Reg. 39(A1)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/39/A1) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2012/822/regulation/8)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Supply of information and documents by parties[^key-7d9206a5dcb9d3baca2d1d53b0ed8138]
+## 18. Supply of information and documents by parties[^c-7d9206a5dcb9d3baca2d1d53b0ed8138]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d9206a5dcb9d3baca2d1d53b0ed8138]: Commencement: Reg. 18 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-7d9206a5dcb9d3baca2d1d53b0ed8138]: Commencement: Reg. 18 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

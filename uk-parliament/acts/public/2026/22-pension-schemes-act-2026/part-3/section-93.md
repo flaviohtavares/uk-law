@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Escalating penalty notices[^key-f0f6331bb529ac997fcbcb8b4f50d304]
+## 93. Escalating penalty notices[^c-f0f6331bb529ac997fcbcb8b4f50d304]
 
 *Extent: E+W+S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0f6331bb529ac997fcbcb8b4f50d304]: Commencement: S. 93 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-f0f6331bb529ac997fcbcb8b4f50d304]: Commencement: S. 93 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 251. Form and contents of application[^key-7caa56491ea6cac368cf5f01a0c78a27]
+## 251. Form and contents of application[^c-7caa56491ea6cac368cf5f01a0c78a27]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ An application to which this chapter applies—
 
 ## Annotations
 
-[^key-7caa56491ea6cac368cf5f01a0c78a27]: Commencement: [Rule 251](https://www.legislation.gov.uk/uksi/2011/1301/rule/251) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-7caa56491ea6cac368cf5f01a0c78a27]: Commencement: [Rule 251](https://www.legislation.gov.uk/uksi/2011/1301/rule/251) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

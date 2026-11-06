@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — Control and eradication of TSE in animals that are not bovine, ovine or caprine[^key-f255be8d4d38cd1c25610f24b9d544d0]
+## SCHEDULE 5 — Control and eradication of TSE in animals that are not bovine, ovine or caprine[^c-f255be8d4d38cd1c25610f24b9d544d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,26 +24,26 @@ summary: ''
 
 Regulation 5
 
-### 1. Notification[^key-f255be8d4d38cd1c25610f24b9d544d0]
+### 1. Notification[^c-f255be8d4d38cd1c25610f24b9d544d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Restriction of a notified animal[^key-f255be8d4d38cd1c25610f24b9d544d0]
+### 2. Restriction of a notified animal[^c-f255be8d4d38cd1c25610f24b9d544d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Slaughter of a suspect animal[^key-f255be8d4d38cd1c25610f24b9d544d0]
+### 3. Slaughter of a suspect animal[^c-f255be8d4d38cd1c25610f24b9d544d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Compensation[^key-f255be8d4d38cd1c25610f24b9d544d0]
+### 4. Compensation[^c-f255be8d4d38cd1c25610f24b9d544d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Retention of products and disposal[^key-f255be8d4d38cd1c25610f24b9d544d0]
+### 5. Retention of products and disposal[^c-f255be8d4d38cd1c25610f24b9d544d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f255be8d4d38cd1c25610f24b9d544d0]: Textual amendment: Regulations revoked (6.4.2010) by [The Transmissible Spongiform Encephalopathies (England) Regulations 2010 (S.I. 2010/801)](https://www.legislation.gov.uk/uksi/2010/801), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2010/801/regulation/1/c), [23(a)](https://www.legislation.gov.uk/uksi/2010/801/regulation/23/a)
+[^c-f255be8d4d38cd1c25610f24b9d544d0]: Textual amendment: Regulations revoked (6.4.2010) by [The Transmissible Spongiform Encephalopathies (England) Regulations 2010 (S.I. 2010/801)](https://www.legislation.gov.uk/uksi/2010/801), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2010/801/regulation/1/c), [23(a)](https://www.legislation.gov.uk/uksi/2010/801/regulation/23/a)

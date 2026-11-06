@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Compulsory acquisition of rights[^key-55d33d0ac78f4be56fdbbace972f6e34]
+## 18. Compulsory acquisition of rights[^c-55d33d0ac78f4be56fdbbace972f6e34]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55d33d0ac78f4be56fdbbace972f6e34]: Commencement: Art. 18 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-55d33d0ac78f4be56fdbbace972f6e34]: Commencement: Art. 18 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)

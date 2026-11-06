@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101G. Restrictions on power to give transfer notice.[^key-a1e11f36f6a17379c0af2f26f5ca5795][^key-665a3636dcd1ed2b8438c31258510388]
+## 101G. Restrictions on power to give transfer notice.[^c-a1e11f36f6a17379c0af2f26f5ca5795][^c-665a3636dcd1ed2b8438c31258510388]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ the member may not, if the scheme so provides, give a transfer notice in relatio
 
 ## Annotations
 
-[^key-a1e11f36f6a17379c0af2f26f5ca5795]: Textual amendment: [S. 101G](https://www.legislation.gov.uk/ukpga/1993/48/section/101G) substituted (3.3.2015 for specified purposes, 6.4.2015 in so far as not already in force) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(1)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/1/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/16) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-a1e11f36f6a17379c0af2f26f5ca5795]: Textual amendment: [S. 101G](https://www.legislation.gov.uk/ukpga/1993/48/section/101G) substituted (3.3.2015 for specified purposes, 6.4.2015 in so far as not already in force) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(1)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/1/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/16) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
 
-[^key-665a3636dcd1ed2b8438c31258510388]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/ukpga/1993/48/part/4A) inserted (11.11.1999 for specified purposes, 1.12.2000 in so far as not already in force) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [ss. 37](https://www.legislation.gov.uk/ukpga/1999/30/section/37), [89(5)(a)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/5/a); [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2000/1047/article/2/2/d), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2000/1047/schedule/part/4)
+[^c-665a3636dcd1ed2b8438c31258510388]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/ukpga/1993/48/part/4A) inserted (11.11.1999 for specified purposes, 1.12.2000 in so far as not already in force) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [ss. 37](https://www.legislation.gov.uk/ukpga/1999/30/section/37), [89(5)(a)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/5/a); [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2000/1047/article/2/2/d), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2000/1047/schedule/part/4)

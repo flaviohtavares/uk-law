@@ -32,7 +32,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION
 
-The Ozone Depleting Substances (Qualifications) (Amendment) Regulations 2008 (revoked)[^key-4ce8cf2596f3afdbda28bb984aa50529]
+The Ozone Depleting Substances (Qualifications) (Amendment) Regulations 2008 (revoked)[^c-4ce8cf2596f3afdbda28bb984aa50529]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 15th February 2008
 
-[^key-4ce8cf2596f3afdbda28bb984aa50529]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ce8cf2596f3afdbda28bb984aa50529]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4ce8cf2596f3afdbda28bb984aa50529]
+## 1. Citation and commencement[^c-4ce8cf2596f3afdbda28bb984aa50529]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-4ce8cf2596f3afdbda28bb984aa50529]
+## 2. Amendment[^c-4ce8cf2596f3afdbda28bb984aa50529]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4ce8cf2596f3afdbda28bb984aa50529]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ce8cf2596f3afdbda28bb984aa50529]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4ce8cf2596f3afdbda28bb984aa50529]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ce8cf2596f3afdbda28bb984aa50529]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4ce8cf2596f3afdbda28bb984aa50529]: Textual amendment: Regulations revoked (9.3.2009) by [The Ozone-Depleting Substances (Qualifications) Regulations 2009 (S.I. 2009/216)](https://www.legislation.gov.uk/uksi/2009/216), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/216/regulation/1/b), [12](https://www.legislation.gov.uk/uksi/2009/216/regulation/12)
+[^c-4ce8cf2596f3afdbda28bb984aa50529]: Textual amendment: Regulations revoked (9.3.2009) by [The Ozone-Depleting Substances (Qualifications) Regulations 2009 (S.I. 2009/216)](https://www.legislation.gov.uk/uksi/2009/216), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/216/regulation/1/b), [12](https://www.legislation.gov.uk/uksi/2009/216/regulation/12)

@@ -99,7 +99,7 @@ summary: ''
 > - (a) it has been supplied in circumstances in which there is reason to believe that it will be put to a particular use; and
 > - (b) that use is one which, if payment is not made under subsection (3) of section 13AA above, will contravene subsection (2) of that section.
 
-(5)[^key-b65296a453e7d5e5370c677383d4e9fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-b65296a453e7d5e5370c677383d4e9fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) This section shall have effect in relation to cases where kerosene is—
 
@@ -116,4 +116,4 @@ on or after such day as the Commissioners of Customs and Excise may by order mad
 
 [^c14609471]: Marginal citation: [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9).
 
-[^key-b65296a453e7d5e5370c677383d4e9fc]: Textual amendment: [S. 5(5)](https://www.legislation.gov.uk/ukpga/1996/8/section/5/5) omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 5 paras. 25(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/25/b), [26(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/26/b)
+[^c-b65296a453e7d5e5370c677383d4e9fc]: Textual amendment: [S. 5(5)](https://www.legislation.gov.uk/ukpga/1996/8/section/5/5) omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 5 paras. 25(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/25/b), [26(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/26/b)

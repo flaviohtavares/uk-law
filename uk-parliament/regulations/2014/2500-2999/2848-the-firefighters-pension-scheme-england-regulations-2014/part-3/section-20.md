@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Deferred membership[^key-3f9f3ff35dea34fe8308e4c322a70c91]
+## 20. Deferred membership[^c-3f9f3ff35dea34fe8308e4c322a70c91]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ A person (P) is a deferred member of this scheme in relation to a continuous per
 
 ## Annotations
 
-[^key-3f9f3ff35dea34fe8308e4c322a70c91]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2014/2848/regulation/20) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-3f9f3ff35dea34fe8308e4c322a70c91]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2014/2848/regulation/20) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

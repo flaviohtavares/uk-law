@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 179. Request for acceptance of a transfer payment[^key-cb0d13d34853bc423631ab09b0b92e77]
+## 179. Request for acceptance of a transfer payment[^c-cb0d13d34853bc423631ab09b0b92e77]
 
 *Extent: S*
 
@@ -28,7 +28,7 @@ summary: ''
   - (i) the pension scheme from which the transfer payment is to be made; and
   - (ii) the anticipated amount of the transfer payment;
 - (b) must meet any other conditions the scheme manager requires; and
-- (c)[^key-1539a4982d954115ecd177f9cebb6a73] subject to paragraph (3), must be made during the period of 12 months beginning with P’s first day of eligible service.
+- (c)[^c-1539a4982d954115ecd177f9cebb6a73] subject to paragraph (3), must be made during the period of 12 months beginning with P’s first day of eligible service.
 
 (3) The scheme manager may treat a transfer payment request as having been made earlier than it was if the scheme manager considers it reasonable to do so in the circumstances.
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cb0d13d34853bc423631ab09b0b92e77]: Commencement: Reg. 179 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-cb0d13d34853bc423631ab09b0b92e77]: Commencement: Reg. 179 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-1539a4982d954115ecd177f9cebb6a73]: Modification: [Reg. 179(2)(c)](https://www.legislation.gov.uk/ssi/2015/142/regulation/179/2/c) applied (with modifications) (1.10.2023) by [The Police Pensions (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/239)](https://www.legislation.gov.uk/ssi/2023/239), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/239/regulation/1/2), [43](https://www.legislation.gov.uk/ssi/2023/239/regulation/43)
+[^c-1539a4982d954115ecd177f9cebb6a73]: Modification: [Reg. 179(2)(c)](https://www.legislation.gov.uk/ssi/2015/142/regulation/179/2/c) applied (with modifications) (1.10.2023) by [The Police Pensions (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/239)](https://www.legislation.gov.uk/ssi/2023/239), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/239/regulation/1/2), [43](https://www.legislation.gov.uk/ssi/2023/239/regulation/43)

@@ -32,7 +32,7 @@ summary: ''
 
 ENERGY CONSERVATION
 
-The Boiler (Efficiency) (Amendment) Regulations 2006 (revoked)[^key-02749e403197891763f6f5ff5a84e8a7]
+The Boiler (Efficiency) (Amendment) Regulations 2006 (revoked)[^c-02749e403197891763f6f5ff5a84e8a7]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force
 
 21st February 2006
 
-[^key-02749e403197891763f6f5ff5a84e8a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-02749e403197891763f6f5ff5a84e8a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-02749e403197891763f6f5ff5a84e8a7]
+## 1. Citation and commencement[^c-02749e403197891763f6f5ff5a84e8a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Boiler (Efficiency) Regulations 1993[^key-02749e403197891763f6f5ff5a84e8a7]
+## 2. Amendment to the Boiler (Efficiency) Regulations 1993[^c-02749e403197891763f6f5ff5a84e8a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02749e403197891763f6f5ff5a84e8a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-02749e403197891763f6f5ff5a84e8a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02749e403197891763f6f5ff5a84e8a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-02749e403197891763f6f5ff5a84e8a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-02749e403197891763f6f5ff5a84e8a7]: Textual amendment: Regulations revoked (11.8.2007) by [The Ecodesign for Energy Using Products Regulations 2007 (S.I. 2007/2037)](https://www.legislation.gov.uk/uksi/2007/2037), [reg. 1](https://www.legislation.gov.uk/uksi/2007/2037/regulation/1), [Sch. 10](https://www.legislation.gov.uk/uksi/2007/2037/schedule/10)
+[^c-02749e403197891763f6f5ff5a84e8a7]: Textual amendment: Regulations revoked (11.8.2007) by [The Ecodesign for Energy Using Products Regulations 2007 (S.I. 2007/2037)](https://www.legislation.gov.uk/uksi/2007/2037), [reg. 1](https://www.legislation.gov.uk/uksi/2007/2037/regulation/1), [Sch. 10](https://www.legislation.gov.uk/uksi/2007/2037/schedule/10)

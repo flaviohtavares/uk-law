@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Statement of principles[^key-ba760cab30a7222494df02dd2414f2b7]
+## 35. Statement of principles[^c-ba760cab30a7222494df02dd2414f2b7]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba760cab30a7222494df02dd2414f2b7]: Commencement: [S. 35](https://www.legislation.gov.uk/nia/2016/4/section/35) in operation at 24.5.2021 by [S.R. 2021/113](https://www.legislation.gov.uk/nisr/2021/113), [art. 3](https://www.legislation.gov.uk/nisr/2021/113/article/3)
+[^c-ba760cab30a7222494df02dd2414f2b7]: Commencement: [S. 35](https://www.legislation.gov.uk/nia/2016/4/section/35) in operation at 24.5.2021 by [S.R. 2021/113](https://www.legislation.gov.uk/nisr/2021/113), [art. 3](https://www.legislation.gov.uk/nisr/2021/113/article/3)

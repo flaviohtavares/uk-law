@@ -33,7 +33,7 @@ the member of the Inspectorate must send a copy of the report together with the 
 
 - (a) to the Chief Inspector (unless the report was made by a member of the Inspectorate),
 - (b) to the head teacher of the school,
-- (c) to whichever of the local authority[^key-94ed0295e29907765ea29be5dd3e5cb4] and the governing body are not the appropriate authority,
+- (c) to whichever of the local authority[^c-94ed0295e29907765ea29be5dd3e5cb4] and the governing body are not the appropriate authority,
 - (d) in the case of a school having foundation governors, to the person who appoints them and (if different) to the appropriate appointing authority, and
 - (e) in such circumstances as may be prescribed, to such other persons (if any) as may be prescribed.
 
@@ -56,7 +56,7 @@ the member of the Inspectorate must send a copy of the report together with the 
 
 [^c19221041]: Modification: S. 38(2) applied (with modifications) (1.9.2006 for W.) by [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21), [Sch. 7 para. 6(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2000/21/schedule/7/paragraph/6/3/b/i) (as substituted by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [ss. 46](https://www.legislation.gov.uk/ukpga/2005/18/section/46), [125](https://www.legislation.gov.uk/ukpga/2005/18/section/125), [Sch. 5 para. 3(8)(c)](https://www.legislation.gov.uk/ukpga/2005/18/schedule/5/paragraph/3/8/c)); [S.I. 2006/1338](https://www.legislation.gov.uk/uksi/2006/1338), [art. 3](https://www.legislation.gov.uk/uksi/2006/1338/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1338/schedule/1)
 
-[^key-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
+[^c-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
 
 [^c19221721]: Modification: S. 38(4) applied (with modifications) (1.9.2006 for W.) by [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21), [Sch. 7 para. 13(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2000/21/schedule/7/paragraph/13/3/b/ii) (as substituted by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [ss. 46](https://www.legislation.gov.uk/ukpga/2005/18/section/46), [125](https://www.legislation.gov.uk/ukpga/2005/18/section/125), [Sch. 5 para. 3(14)(c)](https://www.legislation.gov.uk/ukpga/2005/18/schedule/5/paragraph/3/14/c)); [S.I. 2006/1338](https://www.legislation.gov.uk/uksi/2006/1338), [art. 3](https://www.legislation.gov.uk/uksi/2006/1338/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1338/schedule/1)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 112. Interim payments directions[^key-5b9bcbfff516c63a0891a535a6ec4511]
+## 112. Interim payments directions[^c-5b9bcbfff516c63a0891a535a6ec4511]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ his former employing authority may give an interim payments direction to the app
 
 ## Annotations
 
-[^key-5b9bcbfff516c63a0891a535a6ec4511]: Commencement: Reg. 112 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-5b9bcbfff516c63a0891a535a6ec4511]: Commencement: Reg. 112 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 206. Amendment of regulation 267 (submission of mock-ups of packaging and leaflets to licensing authority)[^key-e3ee0a3ef52115b7eeff9b5b6ae63489]
+## 206. Amendment of regulation 267 (submission of mock-ups of packaging and leaflets to licensing authority)[^c-e3ee0a3ef52115b7eeff9b5b6ae63489]
 
 *Extent: E+W+S+N.I.*
 
-In regulation 267 before “marketing authorisation”, in each place where it occurs, insert “UK”.[^key-5f030121ee60870dbb8e38a3e39b9fc6]
+In regulation 267 before “marketing authorisation”, in each place where it occurs, insert “UK”.[^c-5f030121ee60870dbb8e38a3e39b9fc6]
 
 ## Annotations
 
-[^key-e3ee0a3ef52115b7eeff9b5b6ae63489]: Commencement: Reg. 206 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-e3ee0a3ef52115b7eeff9b5b6ae63489]: Commencement: Reg. 206 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-5f030121ee60870dbb8e38a3e39b9fc6]: Textual amendment: Words in reg. 206 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 160](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/160)
+[^c-5f030121ee60870dbb8e38a3e39b9fc6]: Textual amendment: Words in reg. 206 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 160](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/160)

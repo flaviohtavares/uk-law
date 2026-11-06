@@ -47,7 +47,7 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
 
 ## PART 1 — General
 
-### 1. Title, application and commencement[^key-7fbebcd855dd22cc90a0338616592bea]
+### 1. Title, application and commencement[^c-7fbebcd855dd22cc90a0338616592bea]
 
 (1) The title of these Regulations is the Building (Amendment) (Wales) Regulations 2014.
 
@@ -59,15 +59,15 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
 
 ## PART 2 — Amendment of the Building Regulations 2010
 
-### 2. Amendment of the Building Regulations 2010[^key-3accd627deab144dddcc02f8f980b68a]
+### 2. Amendment of the Building Regulations 2010[^c-3accd627deab144dddcc02f8f980b68a]
 
 The Building Regulations 2010[^f00004] are amended as set out in Regulations 3 to 9.
 
-### 3. Interpretation[^key-65af7c92483e0c21224e9c8123c4f98c]
+### 3. Interpretation[^c-65af7c92483e0c21224e9c8123c4f98c]
 
 In regulation 2(1), in the definition of “energy efficiency requirements”, after “26,” insert “26A, 26B,”.
 
-### 4. Application of energy efficiency requirements[^key-769701c44d4273a04cb63021a0038b52]
+### 4. Application of energy efficiency requirements[^c-769701c44d4273a04cb63021a0038b52]
 
 In regulation 21—
 
@@ -78,7 +78,7 @@ In regulation 21—
   >
   > - (c) in which a fixed heating appliance has been provided to heat the conservatory or porch.
 
-### 5. New buildings: minimum energy performance requirements[^key-8b83ea99884085f63a53b3b77cf0208d]
+### 5. New buildings: minimum energy performance requirements[^c-8b83ea99884085f63a53b3b77cf0208d]
 
 After regulation 25B insert—
 
@@ -89,7 +89,7 @@ After regulation 25B insert—
 > - (a) new buildings (other than new dwellings), in the form of target primary energy consumption rates; and
 > - (b) new dwellings, in the form of target fabric performance values.
 
-### 6. Primary energy consumption rates and fabric performance values[^key-ddcbd0fbc258497a8a5b3da99db56673]
+### 6. Primary energy consumption rates and fabric performance values[^c-ddcbd0fbc258497a8a5b3da99db56673]
 
 After regulation 26, insert—
 
@@ -101,7 +101,7 @@ After regulation 26, insert—
 >
 > Where a dwelling is erected, it must not exceed the target fabric performance values for the dwelling which have been approved pursuant to regulation 25C(b).
 
-### 7. Primary energy consumption rate and fabric performance values calculations[^key-8e50ebaeab32e6c4648249d837cdeeaf]
+### 7. Primary energy consumption rate and fabric performance values calculations[^c-8e50ebaeab32e6c4648249d837cdeeaf]
 
 After regulation 27 insert—
 
@@ -149,7 +149,7 @@ After regulation 27 insert—
 >
 > (5) In this regulation, “specifications” means specifications used for the calculation of the fabric performance values.
 
-### 8. Consequential improvements to energy performance[^key-e9abe38463aa6c0eb69085be2d3cf38b]
+### 8. Consequential improvements to energy performance[^c-e9abe38463aa6c0eb69085be2d3cf38b]
 
 For regulation 28 (and the heading before it) substitute—
 
@@ -169,11 +169,11 @@ For regulation 28 (and the heading before it) substitute—
 >
 > (4) Nothing in paragraph (3) requires work to be carried out if it is not technically, functionally and economically feasible.
 
-### 9. Contravention of certain regulations not to be an offence[^key-e22c4917a0754a7f339ebca1a0395532]
+### 9. Contravention of certain regulations not to be an offence[^c-e22c4917a0754a7f339ebca1a0395532]
 
 In regulation 47, after “27,” insert “27A, 27B,”.
 
-### 10. Transitional provisions[^key-71986c7b8bef9b499a9142dd9949bc18]
+### 10. Transitional provisions[^c-71986c7b8bef9b499a9142dd9949bc18]
 
 (1) The amendments made by regulation 4 (in respect of the new regulation 21(4)(c) which it introduces to the Building Regulations 2010), regulation 6 and regulation 8 (in respect of the new regulation 28(2) which it introduces to the Building Regulations 2010) do not apply in any case where on the date these Regulations come into force—
 
@@ -184,15 +184,15 @@ In regulation 47, after “27,” insert “27A, 27B,”.
 
 ## PART 3 — Amendment of the Building (Approved Inspectors etc.) Regulations 2010
 
-### 11. Amendment of the Building (Approved Inspectors etc.) Regulations 2010[^key-87fab6bf56629a4f60d2b170ffb5ce1d]
+### 11. Amendment of the Building (Approved Inspectors etc.) Regulations 2010[^c-87fab6bf56629a4f60d2b170ffb5ce1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Functions of approved inspectors[^key-87fab6bf56629a4f60d2b170ffb5ce1d]
+### 12. Functions of approved inspectors[^c-87fab6bf56629a4f60d2b170ffb5ce1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Application of regulations 20, 25A, 27, 29, 37, 41, 42, 43 and 44 of the Building Regulations[^key-87fab6bf56629a4f60d2b170ffb5ce1d]
+### 13. Application of regulations 20, 25A, 27, 29, 37, 41, 42, 43 and 44 of the Building Regulations[^c-87fab6bf56629a4f60d2b170ffb5ce1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -220,28 +220,28 @@ A regulatory impact assessment has been prepared in relation to these Regulation
 
 [^f00002]: Footnote: The functions conferred on the Secretary of State by sections 1 and 34 of and paragraphs 1, 4, 7 and 10 of Schedule 1 to the Building Act 1984 were, so far as exercisable in relation to Wales, transferred to the Welsh Ministers by the Welsh Ministers (Transfer of Functions) (No. 2) Order 2009 ([S.I. 2009/3019](https://www.legislation.gov.uk/uksi/2009/3019)).
 
-[^key-7fbebcd855dd22cc90a0338616592bea]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2014/110/regulation/1) in force at 31.7.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/110/regulation/1/3)
+[^c-7fbebcd855dd22cc90a0338616592bea]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2014/110/regulation/1) in force at 31.7.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/110/regulation/1/3)
 
 [^f00003]: Footnote: [S.I. 2009/3019](https://www.legislation.gov.uk/uksi/2009/3019). The Welsh Ministers (Transfer of Functions) (No. 2) Order 2009 transferred certain functions conferred on the Secretary of State by or under the Building Act 1984, so far as exercisable in relation to Wales, to the Welsh Ministers. Article 3(a) of the Order provided that functions were not transferred so far as they were exercisable in relation to an excepted energy building as defined by the Schedule to the Order.
 
-[^key-3accd627deab144dddcc02f8f980b68a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2014/110/regulation/2) in force at 31.7.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/110/regulation/1/3)
+[^c-3accd627deab144dddcc02f8f980b68a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2014/110/regulation/2) in force at 31.7.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/110/regulation/1/3)
 
 [^f00004]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214); relevant amending instruments are [S.I. 2012/3119](https://www.legislation.gov.uk/uksi/2012/3119), [S.I. 2013/181](https://www.legislation.gov.uk/uksi/2013/181), [S.I. 2013/747 (W.89)](https://www.legislation.gov.uk/wsi/2013/747) and [S.I. 2013/1959](https://www.legislation.gov.uk/uksi/2013/1959).
 
-[^key-65af7c92483e0c21224e9c8123c4f98c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2014/110/regulation/3) in force at 31.7.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/110/regulation/1/3)
+[^c-65af7c92483e0c21224e9c8123c4f98c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2014/110/regulation/3) in force at 31.7.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/110/regulation/1/3)
 
-[^key-769701c44d4273a04cb63021a0038b52]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2014/110/regulation/4) in force at 31.7.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/110/regulation/1/3)
+[^c-769701c44d4273a04cb63021a0038b52]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2014/110/regulation/4) in force at 31.7.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/110/regulation/1/3)
 
-[^key-8b83ea99884085f63a53b3b77cf0208d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2014/110/regulation/5) in force at 31.7.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/110/regulation/1/3)
+[^c-8b83ea99884085f63a53b3b77cf0208d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2014/110/regulation/5) in force at 31.7.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/110/regulation/1/3)
 
-[^key-ddcbd0fbc258497a8a5b3da99db56673]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2014/110/regulation/6) in force at 31.7.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/110/regulation/1/3)
+[^c-ddcbd0fbc258497a8a5b3da99db56673]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2014/110/regulation/6) in force at 31.7.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/110/regulation/1/3)
 
-[^key-8e50ebaeab32e6c4648249d837cdeeaf]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2014/110/regulation/7) in force at 31.7.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/110/regulation/1/3)
+[^c-8e50ebaeab32e6c4648249d837cdeeaf]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2014/110/regulation/7) in force at 31.7.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/110/regulation/1/3)
 
-[^key-e9abe38463aa6c0eb69085be2d3cf38b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2014/110/regulation/8) in force at 31.7.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/110/regulation/1/3)
+[^c-e9abe38463aa6c0eb69085be2d3cf38b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2014/110/regulation/8) in force at 31.7.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/110/regulation/1/3)
 
-[^key-e22c4917a0754a7f339ebca1a0395532]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2014/110/regulation/9) in force at 31.7.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/110/regulation/1/3)
+[^c-e22c4917a0754a7f339ebca1a0395532]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2014/110/regulation/9) in force at 31.7.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/110/regulation/1/3)
 
-[^key-71986c7b8bef9b499a9142dd9949bc18]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2014/110/regulation/10) in force at 31.7.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/110/regulation/1/3)
+[^c-71986c7b8bef9b499a9142dd9949bc18]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2014/110/regulation/10) in force at 31.7.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/110/regulation/1/3)
 
-[^key-87fab6bf56629a4f60d2b170ffb5ce1d]: Textual amendment: Regs. 11-13 revoked (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/wsi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2), [42(2)(c)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/42/2/c)
+[^c-87fab6bf56629a4f60d2b170ffb5ce1d]: Textual amendment: Regs. 11-13 revoked (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/wsi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2), [42(2)(c)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/42/2/c)

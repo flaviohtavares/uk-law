@@ -35,10 +35,10 @@ summary: ''
 
 (4) The principal sum payable under the debenture, and the terms as to the payment of it and of interest on it, must be taken to be those so specified.
 
-(5) Statutory accounts are accounts prepared by a company for the purpose of any provision of the Companies Act 2006[^key-00aa6f797e86cf7d5d4fe6e31f0f3702] (including group accounts).
+(5) Statutory accounts are accounts prepared by a company for the purpose of any provision of the Companies Act 2006[^c-00aa6f797e86cf7d5d4fe6e31f0f3702] (including group accounts).
 
 ## Annotations
 
 [^c14879501]: Commencement: S. 59 wholly in force at 1.2.2001, see s. 275(1)(2) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-00aa6f797e86cf7d5d4fe6e31f0f3702]: Textual amendment: Words in s. 59(5) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 218(3)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/218/3) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-00aa6f797e86cf7d5d4fe6e31f0f3702]: Textual amendment: Words in s. 59(5) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 218(3)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/218/3) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))

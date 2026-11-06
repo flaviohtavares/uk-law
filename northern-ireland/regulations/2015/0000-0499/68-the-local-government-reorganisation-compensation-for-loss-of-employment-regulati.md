@@ -57,7 +57,7 @@ The Department of the Environment makes the following Regulations, in exercise o
 - “**CSCS**” means a Civil Service Compensation Scheme made and maintained by the Department of Finance and Personnel under Article 3 of the Superannuation (Northern Ireland) Order 1972;
 - “**employment**” does not include the office of councillor;
 - “**enhanced redundancy payment**” means statutory redundancy payment and compensation paid under these regulations;
-- “local government body” means—[^key-6d2199a68f1f87dcb630a8b9092f3e04]
+- “local government body” means—[^c-6d2199a68f1f87dcb630a8b9092f3e04]
   - (a) a council;
   - (b) a joint committee of a council which has been constituted as a body corporate; or
   - (c) the Local Government Staff Commission.
@@ -90,7 +90,7 @@ These Regulations apply to a person, determined by a local government body as en
 - (b) the Local Government (Boundaries) Act (Northern Ireland) 2008; or
 - (c) the Planning Act (Northern Ireland) 2011.
 
-## 5. Calculation of compensation payment[^key-341efed8ca1164a36d41066c1c1f49b0]
+## 5. Calculation of compensation payment[^c-341efed8ca1164a36d41066c1c1f49b0]
 
 (1) A person’s compensation payment is calculated by subtracting—
 
@@ -109,7 +109,7 @@ from that person’s enhanced redundancy payment.
 
 (1) Compensation payable in respect of a person by a local government body under these regulations shall not exceed either of the following amounts—
 
-- (a) the amount by which the enhanced redundancy payment exceeds 104 week' pay (as calculated for the purposes of the 1996 Order in accordance with Chapter “[^key-fdf2815de3e6efb6928943c0294614a5]IV of Part 1 of that Order).
+- (a) the amount by which the enhanced redundancy payment exceeds 104 week' pay (as calculated for the purposes of the 1996 Order in accordance with Chapter “[^c-fdf2815de3e6efb6928943c0294614a5]IV of Part 1 of that Order).
 - (b) the amount the enhanced redundancy package costs exceeds the eligible person's annual salary cost multiplied by 3.25.
 
 (2) For the purpose of this regulation enhanced redundancy package costs are:
@@ -188,7 +188,7 @@ A full regulatory impact assessment has not been produced for this Statutory Rul
 
 [^c22359821]: Marginal citation: [2014 c. 8 (N.I.)](https://www.legislation.gov.uk/nia/2014/8).
 
-[^key-6d2199a68f1f87dcb630a8b9092f3e04]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2015/68/regulation/2/1) substituted (2.7.2015) by [The Local Government Reorganisation (Compensation for Loss of Employment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/271)](https://www.legislation.gov.uk/nisr/2015/271), [regs. 1](https://www.legislation.gov.uk/nisr/2015/271/regulation/1), [3](https://www.legislation.gov.uk/nisr/2015/271/regulation/3)
+[^c-6d2199a68f1f87dcb630a8b9092f3e04]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2015/68/regulation/2/1) substituted (2.7.2015) by [The Local Government Reorganisation (Compensation for Loss of Employment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/271)](https://www.legislation.gov.uk/nisr/2015/271), [regs. 1](https://www.legislation.gov.uk/nisr/2015/271/regulation/1), [3](https://www.legislation.gov.uk/nisr/2015/271/regulation/3)
 
 [^c22359831]: Marginal citation: S.R. [2014 No. 188](https://www.legislation.gov.uk/ukcm/2014/188).
 
@@ -196,6 +196,6 @@ A full regulatory impact assessment has not been produced for this Statutory Rul
 
 [^c22359851]: Marginal citation: S.R. [1999 No. 409](https://www.legislation.gov.uk/ukcm/1999/409).
 
-[^key-341efed8ca1164a36d41066c1c1f49b0]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2015/68/regulation/5) substituted (2.7.2015) by [The Local Government Reorganisation (Compensation for Loss of Employment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/271)](https://www.legislation.gov.uk/nisr/2015/271), [regs. 1](https://www.legislation.gov.uk/nisr/2015/271/regulation/1), [4](https://www.legislation.gov.uk/nisr/2015/271/regulation/4)
+[^c-341efed8ca1164a36d41066c1c1f49b0]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2015/68/regulation/5) substituted (2.7.2015) by [The Local Government Reorganisation (Compensation for Loss of Employment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/271)](https://www.legislation.gov.uk/nisr/2015/271), [regs. 1](https://www.legislation.gov.uk/nisr/2015/271/regulation/1), [4](https://www.legislation.gov.uk/nisr/2015/271/regulation/4)
 
-[^key-fdf2815de3e6efb6928943c0294614a5]: Textual amendment: Word in [reg. 6(1)(a)](https://www.legislation.gov.uk/nisr/2015/68/regulation/6/1/a) substituted (2.7.2015) by [The Local Government Reorganisation (Compensation for Loss of Employment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/271)](https://www.legislation.gov.uk/nisr/2015/271), [regs. 1](https://www.legislation.gov.uk/nisr/2015/271/regulation/1), [5](https://www.legislation.gov.uk/nisr/2015/271/regulation/5)
+[^c-fdf2815de3e6efb6928943c0294614a5]: Textual amendment: Word in [reg. 6(1)(a)](https://www.legislation.gov.uk/nisr/2015/68/regulation/6/1/a) substituted (2.7.2015) by [The Local Government Reorganisation (Compensation for Loss of Employment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/271)](https://www.legislation.gov.uk/nisr/2015/271), [regs. 1](https://www.legislation.gov.uk/nisr/2015/271/regulation/1), [5](https://www.legislation.gov.uk/nisr/2015/271/regulation/5)

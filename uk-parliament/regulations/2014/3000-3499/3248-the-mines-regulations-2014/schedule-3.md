@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 74(1)
 
-### PART 1[^key-bc01ca94a19eac670ea67b73ecfc4b94]
+### PART 1[^c-bc01ca94a19eac670ea67b73ecfc4b94]
 
 <table>
 <thead>
@@ -65,7 +65,7 @@ Regulation 74(1)
 
 [^f00028]
 
-### PART 2[^key-984999991807499df543892b4b226f37]
+### PART 2[^c-984999991807499df543892b4b226f37]
 
 | Enactment | Extent of repeal |
 | --- | --- |
@@ -76,11 +76,11 @@ Regulation 74(1)
 
 ## Annotations
 
-[^key-bc01ca94a19eac670ea67b73ecfc4b94]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2014/3248/schedule/3/part/1) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-bc01ca94a19eac670ea67b73ecfc4b94]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2014/3248/schedule/3/part/1) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
 
 [^f00028]: Footnote: [1969 c.10](https://www.legislation.gov.uk/ukpga/1969/10).
 
-[^key-984999991807499df543892b4b226f37]: Commencement: [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2014/3248/schedule/3/part/2) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-984999991807499df543892b4b226f37]: Commencement: [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2014/3248/schedule/3/part/2) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
 
 [^f00029]: Footnote: [1992 c.53](https://www.legislation.gov.uk/ukpga/1992/53).
 

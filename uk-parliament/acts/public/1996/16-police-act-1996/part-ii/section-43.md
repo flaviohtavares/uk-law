@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Reports from police authorities.[^key-be7f0f25450963233ededcdfcfe238f7]
+## 43. Reports from police authorities.[^c-be7f0f25450963233ededcdfcfe238f7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be7f0f25450963233ededcdfcfe238f7]: Textual amendment: S. 43 omitted (16.1.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 81(c)](https://www.legislation.gov.uk/ukpga/2011/13/section/81/c), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [art. 9(1)](https://www.legislation.gov.uk/uksi/2011/3019/article/9/1)[(2)](https://www.legislation.gov.uk/uksi/2011/3019/article/9/2))
+[^c-be7f0f25450963233ededcdfcfe238f7]: Textual amendment: S. 43 omitted (16.1.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 81(c)](https://www.legislation.gov.uk/ukpga/2011/13/section/81/c), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [art. 9(1)](https://www.legislation.gov.uk/uksi/2011/3019/article/9/1)[(2)](https://www.legislation.gov.uk/uksi/2011/3019/article/9/2))

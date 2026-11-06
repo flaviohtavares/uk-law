@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Arrest without warrant[^key-b23670b5de21053819a7469f1a4e91b2]
+## 43. Arrest without warrant[^c-b23670b5de21053819a7469f1a4e91b2]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 
 (6) In calculating when the period of 24 hours mentioned in subsection (4) ends, Christmas Day, Good Friday and any Sunday are to be disregarded.
 
-(7) In this Part “**relevant judge**”, in relation to an injunction, means a judge of the court that granted the injunction, except that where—[^key-bb7f35419343ead688c1fc3f133c24b7]
+(7) In this Part “**relevant judge**”, in relation to an injunction, means a judge of the court that granted the injunction, except that where—[^c-bb7f35419343ead688c1fc3f133c24b7]
 
 - (a) the respondent is aged 18 or over, but
 - (b) the injunction was granted by a youth court,
@@ -41,6 +41,6 @@ it means a judge of the county court.
 
 ## Annotations
 
-[^key-b23670b5de21053819a7469f1a4e91b2]: Commencement: S. 43 in force at 31.1.2011 by [S.I. 2010/2988](https://www.legislation.gov.uk/uksi/2010/2988), [art. 2](https://www.legislation.gov.uk/uksi/2010/2988/article/2)
+[^c-b23670b5de21053819a7469f1a4e91b2]: Commencement: S. 43 in force at 31.1.2011 by [S.I. 2010/2988](https://www.legislation.gov.uk/uksi/2010/2988), [art. 2](https://www.legislation.gov.uk/uksi/2010/2988/article/2)
 
-[^key-bb7f35419343ead688c1fc3f133c24b7]: Textual amendment: Words in [s. 43(7)](https://www.legislation.gov.uk/ukpga/2009/26/section/43/7) substituted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 18(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/3), [61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6)); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/813/article/3/a)
+[^c-bb7f35419343ead688c1fc3f133c24b7]: Textual amendment: Words in [s. 43(7)](https://www.legislation.gov.uk/ukpga/2009/26/section/43/7) substituted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 18(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/3), [61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6)); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/813/article/3/a)

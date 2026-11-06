@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 73. Interim payments directions[^key-49dc99cd7ce7ea071a1dd7dc7de04082]
+## 73. Interim payments directions[^c-49dc99cd7ce7ea071a1dd7dc7de04082]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ his former employing authority may give an interim payments direction to the app
 
 ## Annotations
 
-[^key-49dc99cd7ce7ea071a1dd7dc7de04082]: Commencement: Reg. 73 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-49dc99cd7ce7ea071a1dd7dc7de04082]: Commencement: Reg. 73 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

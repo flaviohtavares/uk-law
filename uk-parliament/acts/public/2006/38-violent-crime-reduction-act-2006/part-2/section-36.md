@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Manufacture, import and sale of realistic imitation firearms[^key-42b91f6f342481492710c5a1b2712261]
+## 36. Manufacture, import and sale of realistic imitation firearms[^c-42b91f6f342481492710c5a1b2712261]
 
 *Extent: E+W+S*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42b91f6f342481492710c5a1b2712261]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2006/38/section/36) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 3(e)](https://www.legislation.gov.uk/uksi/2007/2180/article/3/e)
+[^c-42b91f6f342481492710c5a1b2712261]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2006/38/section/36) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 3(e)](https://www.legislation.gov.uk/uksi/2007/2180/article/3/e)

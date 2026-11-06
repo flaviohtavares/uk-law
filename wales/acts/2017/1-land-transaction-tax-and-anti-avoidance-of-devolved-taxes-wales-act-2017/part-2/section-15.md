@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Options and rights of pre-emption[^key-e870087718e003b8317c62e946f9a6db]
+## 15. Options and rights of pre-emption[^c-e870087718e003b8317c62e946f9a6db]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ is a land transaction distinct from any land transaction resulting from the exer
 
 ## Annotations
 
-[^key-e870087718e003b8317c62e946f9a6db]: Commencement: [S. 15](https://www.legislation.gov.uk/anaw/2017/1/section/15) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-e870087718e003b8317c62e946f9a6db]: Commencement: [S. 15](https://www.legislation.gov.uk/anaw/2017/1/section/15) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

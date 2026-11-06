@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 6A — DESIGNATED BODIES[^key-47ed44262b9c26376bcba27baa00a39d]
+## Schedule 6A — DESIGNATED BODIES[^c-47ed44262b9c26376bcba27baa00a39d]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ Section 33A
 
 ## Annotations
 
-[^key-47ed44262b9c26376bcba27baa00a39d]: Textual amendment: [Sch. 6A](https://www.legislation.gov.uk/ukpga/2023/32/schedule/6A) inserted (17.7.2026) by [The National Security Act 2023 (Designated Bodies) Regulations 2026 (S.I. 2026/847)](https://www.legislation.gov.uk/uksi/2026/847), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/847/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/847/schedule)
+[^c-47ed44262b9c26376bcba27baa00a39d]: Textual amendment: [Sch. 6A](https://www.legislation.gov.uk/ukpga/2023/32/schedule/6A) inserted (17.7.2026) by [The National Security Act 2023 (Designated Bodies) Regulations 2026 (S.I. 2026/847)](https://www.legislation.gov.uk/uksi/2026/847), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/847/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/847/schedule)

@@ -32,7 +32,7 @@ Regulation 3(2)(b)
 
 *Extent: E+W+S*
 
-**2.**[^M_E_84a4c64d-4e1c-43be-d3fc-b5731621cc09][^key-02209cc0e689896b443686630b979309] Marine equipment falling within the Merchant Shipping (Marine Equipment) Regulations 2025[^key-e3a84b26642d881df3fe6abe81ba3db7].
+**2.**[^M_E_84a4c64d-4e1c-43be-d3fc-b5731621cc09][^c-02209cc0e689896b443686630b979309] Marine equipment falling within the Merchant Shipping (Marine Equipment) Regulations 2025[^c-e3a84b26642d881df3fe6abe81ba3db7].
 
 *Extent: N.I.*
 
@@ -48,9 +48,9 @@ Regulation 3(2)(b)
 
 [^M_E_84a4c64d-4e1c-43be-d3fc-b5731621cc09]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-02209cc0e689896b443686630b979309]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2017/1206/schedule/1/paragraph/2) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 29 para. 46](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/46) (with [Sch. 29 para. 44](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/44)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-02209cc0e689896b443686630b979309]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2017/1206/schedule/1/paragraph/2) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 29 para. 46](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/46) (with [Sch. 29 para. 44](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/44)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e3a84b26642d881df3fe6abe81ba3db7]: Textual amendment: Word in [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2017/1206/schedule/1/paragraph/2) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/10) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
+[^c-e3a84b26642d881df3fe6abe81ba3db7]: Textual amendment: Word in [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2017/1206/schedule/1/paragraph/2) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/10) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
 
 [^M_E_3f4bd25a-6061-43c1-d7ea-55be7b86f64f]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 

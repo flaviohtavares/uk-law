@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) This regulation provides for the application of this Chapter where a person is entitled to more than one old service pension falling within regulation 115(1)(c) in any financial year[^key-139f74b143aa69019133f5bea52e6243] .
+(1) This regulation provides for the application of this Chapter where a person is entitled to more than one old service pension falling within regulation 115(1)(c) in any financial year[^c-139f74b143aa69019133f5bea52e6243] .
 
 (2) In regulation 117—
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-139f74b143aa69019133f5bea52e6243]: Textual amendment: Words in [reg. 122](https://www.legislation.gov.uk/nisr/2008/256/regulation/122) substituted (retrospective and with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/259)](https://www.legislation.gov.uk/nisr/2013/259), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/259/regulation/1/2), [33](https://www.legislation.gov.uk/nisr/2013/259/regulation/33)
+[^c-139f74b143aa69019133f5bea52e6243]: Textual amendment: Words in [reg. 122](https://www.legislation.gov.uk/nisr/2008/256/regulation/122) substituted (retrospective and with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/259)](https://www.legislation.gov.uk/nisr/2013/259), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/259/regulation/1/2), [33](https://www.legislation.gov.uk/nisr/2013/259/regulation/33)

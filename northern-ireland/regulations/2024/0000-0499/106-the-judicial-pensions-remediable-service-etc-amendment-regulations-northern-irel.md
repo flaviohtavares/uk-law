@@ -54,14 +54,14 @@ To the extent required by section 62 of PSPJOA 2022, these Regulations are made 
 
 In accordance with section 24(1)(c) of the 2014 Act, the Pension Board for the scheme of judicial office holders has stated that it considers these Regulations to be minor or wholly beneficial.
 
-## 1. Citation, commencement and extent[^key-6a600d38918ff6805708e1586af461c8]
+## 1. Citation, commencement and extent[^c-6a600d38918ff6805708e1586af461c8]
 
 These Regulations—
 
 - (a) may be cited as the Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024; and
 - (b) come into operation on 24th May 2024.
 
-## 2. Amendment of the Judicial Pensions Regulations (Northern Ireland) 2015[^key-8c0bd89a7a90119275f5bc9c0395594c]
+## 2. Amendment of the Judicial Pensions Regulations (Northern Ireland) 2015[^c-8c0bd89a7a90119275f5bc9c0395594c]
 
 (1) The Judicial Pensions Regulations (Northern Ireland) 2015[^f00005] are amended as follows.
 
@@ -180,7 +180,7 @@ These Regulations—
 
   .
 
-## 3. Amendment of the Judicial Pensions (Remediable Service etc.) Regulations (Northern Ireland) 2023[^key-b7b88f3956a44aff1a768ff2eb44d6b8]
+## 3. Amendment of the Judicial Pensions (Remediable Service etc.) Regulations (Northern Ireland) 2023[^c-b7b88f3956a44aff1a768ff2eb44d6b8]
 
 (1) The Judicial Pensions (Remediable Service etc.) Regulations (Northern Ireland) 2023[^f00011] are amended as follows.
 
@@ -375,9 +375,9 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00004]: Footnote: See section 75 of the PSPJOA 2022 for the meaning of “Treasury directions”.
 
-[^key-6a600d38918ff6805708e1586af461c8]: Commencement: Reg. 1 in operation at 24.5.2024, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b)
+[^c-6a600d38918ff6805708e1586af461c8]: Commencement: Reg. 1 in operation at 24.5.2024, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b)
 
-[^key-8c0bd89a7a90119275f5bc9c0395594c]: Commencement: Reg. 2 in operation at 24.5.2024, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b)
+[^c-8c0bd89a7a90119275f5bc9c0395594c]: Commencement: Reg. 2 in operation at 24.5.2024, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b)
 
 [^f00005]: Footnote: [S.R. 2015 No. 76](https://www.legislation.gov.uk/nisr/2015/76) as amended by [S.R. 2016 No. 138](https://www.legislation.gov.uk/nisr/2016/138), [S.R. 2019 No. 26](https://www.legislation.gov.uk/nisr/2019/26), [S.R. 2020 No. 10](https://www.legislation.gov.uk/nisr/2020/10), [S.R. 2022 No. 73](https://www.legislation.gov.uk/nisr/2022/73), [S.R. 2023 No. 63](https://www.legislation.gov.uk/nisr/2023/63) and [S.R. 2023 No. 107](https://www.legislation.gov.uk/nisr/2023/107).
 
@@ -391,6 +391,6 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00010]: Footnote: See section 68 of PSPJOA 2022 for provision about whether an “immediate detriment remedy” has been obtained.
 
-[^key-b7b88f3956a44aff1a768ff2eb44d6b8]: Commencement: Reg. 3 in operation at 24.5.2024, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b)
+[^c-b7b88f3956a44aff1a768ff2eb44d6b8]: Commencement: Reg. 3 in operation at 24.5.2024, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b)
 
 [^f00011]: Footnote: [S.R. 2023 No. 107](https://www.legislation.gov.uk/nisr/2023/107).

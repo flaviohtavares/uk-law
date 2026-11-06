@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Revocation of an exemption for a return point[^key-a55661e19d6872a93a4a9d2fdae9f9ab]
+## 23. Revocation of an exemption for a return point[^c-a55661e19d6872a93a4a9d2fdae9f9ab]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a55661e19d6872a93a4a9d2fdae9f9ab]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/ssi/2020/154/regulation/23) omitted (20.6.2025) by virtue of [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [22](https://www.legislation.gov.uk/ssi/2025/188/regulation/22)
+[^c-a55661e19d6872a93a4a9d2fdae9f9ab]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/ssi/2020/154/regulation/23) omitted (20.6.2025) by virtue of [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [22](https://www.legislation.gov.uk/ssi/2025/188/regulation/22)

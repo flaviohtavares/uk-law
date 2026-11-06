@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Referral of allegations etc. of impaired fitness to practise[^key-64731f2aa37d8e010d69546ba4963a8d]
+## 118. Referral of allegations etc. of impaired fitness to practise[^c-64731f2aa37d8e010d69546ba4963a8d]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64731f2aa37d8e010d69546ba4963a8d]: Commencement: [S. 118](https://www.legislation.gov.uk/anaw/2016/2/section/118) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-64731f2aa37d8e010d69546ba4963a8d]: Commencement: [S. 118](https://www.legislation.gov.uk/anaw/2016/2/section/118) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

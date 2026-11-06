@@ -22,7 +22,7 @@ summary: ''
 
 Article 2(1)
 
-### PART 1 — NSIP: THE CONSTRUCTION OF A RAIL FREIGHT INTERCHANGE[^key-178ffd84fc96faf239214813c558451a]
+### PART 1 — NSIP: THE CONSTRUCTION OF A RAIL FREIGHT INTERCHANGE[^c-178ffd84fc96faf239214813c558451a]
 
 **In the County of Northamptonshire and the District of South Northamptonshire and in the Borough of Northampton—**
 
@@ -139,7 +139,7 @@ Within the area of land described on the works plans as Works No. 7—
 - (f) construction of a shared use footway and cycleway alongside the A508; and
 - (g) relocation of existing communications mast and its associated access.
 
-### PART 2 — ASSOCIATED DEVELOPMENT[^key-3b09ecab2c1d1db94271f2a124ef3a0e]
+### PART 2 — ASSOCIATED DEVELOPMENT[^c-3b09ecab2c1d1db94271f2a124ef3a0e]
 
 **Associated development within the meaning of section 115(2) (development for which consent may be granted) of the 2008 Act comprising—**
 
@@ -328,6 +328,6 @@ The following further works provided that such works are not likely to give rise
 
 ## Annotations
 
-[^key-178ffd84fc96faf239214813c558451a]: Commencement: Sch. 1 Pt. 1 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-178ffd84fc96faf239214813c558451a]: Commencement: Sch. 1 Pt. 1 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-3b09ecab2c1d1db94271f2a124ef3a0e]: Commencement: Sch. 1 Pt. 2 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-3b09ecab2c1d1db94271f2a124ef3a0e]: Commencement: Sch. 1 Pt. 2 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)

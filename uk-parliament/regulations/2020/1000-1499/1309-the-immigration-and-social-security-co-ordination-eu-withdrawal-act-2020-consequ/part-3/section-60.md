@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Amendment of the State Pension Credit Regulations (Northern Ireland) 2003[^key-67a3705e66c567b8829413a5b8ba9511][^M_I_74283dfe-1b6f-42d9-8c80-bd0f2dbd360f]
+## 60. Amendment of the State Pension Credit Regulations (Northern Ireland) 2003[^c-67a3705e66c567b8829413a5b8ba9511][^M_I_74283dfe-1b6f-42d9-8c80-bd0f2dbd360f]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-67a3705e66c567b8829413a5b8ba9511]: Commencement: Reg. 60 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-67a3705e66c567b8829413a5b8ba9511]: Commencement: Reg. 60 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_74283dfe-1b6f-42d9-8c80-bd0f2dbd360f]: Commencement: Reg. 60 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

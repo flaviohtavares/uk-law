@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Offering commercial air transport flights[^key-765c538a4c6dff1a120621774ed240e6]
+## 12. Offering commercial air transport flights[^c-765c538a4c6dff1a120621774ed240e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A person must not hold anyone out (whether the person who is being held out is t
 
 ## Annotations
 
-[^key-765c538a4c6dff1a120621774ed240e6]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2015/870/article/12) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-765c538a4c6dff1a120621774ed240e6]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2015/870/article/12) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

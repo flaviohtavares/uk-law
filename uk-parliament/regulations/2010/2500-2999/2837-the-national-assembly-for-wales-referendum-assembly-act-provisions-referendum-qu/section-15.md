@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Accounts of the Welsh Ministers[^key-c67e7f985597fc14e5f14f81ded22335]
+## 15. Accounts of the Welsh Ministers[^c-c67e7f985597fc14e5f14f81ded22335]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c67e7f985597fc14e5f14f81ded22335]: Commencement: Art. 15 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-c67e7f985597fc14e5f14f81ded22335]: Commencement: Art. 15 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)

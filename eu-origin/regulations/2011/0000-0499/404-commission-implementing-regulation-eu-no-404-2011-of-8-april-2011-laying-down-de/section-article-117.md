@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-A copy of the inspection report referred to in Article 116 of this Regulation shall be sent to the operator no later than 15 working days after the completion of the inspection [^key-51b7e2581ace064fffd9bef498676aad]....
+A copy of the inspection report referred to in Article 116 of this Regulation shall be sent to the operator no later than 15 working days after the completion of the inspection [^c-51b7e2581ace064fffd9bef498676aad]....
 
 ## Annotations
 
-[^key-51b7e2581ace064fffd9bef498676aad]: Textual amendment: Words in [Art. 117](https://www.legislation.gov.uk/eur/2011/404/article/117) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(87)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/87); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-51b7e2581ace064fffd9bef498676aad]: Textual amendment: Words in [Art. 117](https://www.legislation.gov.uk/eur/2011/404/article/117) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(87)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/87); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

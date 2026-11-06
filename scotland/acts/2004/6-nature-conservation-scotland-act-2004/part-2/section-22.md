@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-af85cd1688a8cbae199f0f3e0fd0dc48] The Keeper of the Registers of Scotland (“the Keeper”) must keep a register containing—
+(1)[^c-af85cd1688a8cbae199f0f3e0fd0dc48] The Keeper of the Registers of Scotland (“the Keeper”) must keep a register containing—
 
 - (a) such information relating to SSSI notifications as may be required by regulations under subsection (3), and
 - (b) such information relating to—
@@ -29,9 +29,9 @@ summary: ''
 
   as may be so required.
 
-(2)[^key-af85cd1688a8cbae199f0f3e0fd0dc48] The Keeper must ensure that the register is, at all reasonable times, available for public inspection.
+(2)[^c-af85cd1688a8cbae199f0f3e0fd0dc48] The Keeper must ensure that the register is, at all reasonable times, available for public inspection.
 
-(3)[^key-bf84307faf963e0b470a9a862453eeef] The Scottish Ministers may by regulations make provision—
+(3)[^c-bf84307faf963e0b470a9a862453eeef] The Scottish Ministers may by regulations make provision—
 
 - (a) as to the form and manner in which the register is to be kept,
 - (b) as to the information which the register is to contain,
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-af85cd1688a8cbae199f0f3e0fd0dc48]: Commencement: S. 22(1)(2) in force at 30.6.2008 by [S.S.I. 2008/193](https://www.legislation.gov.uk/ssi/2008/193), [art. 2(b)](https://www.legislation.gov.uk/ssi/2008/193/article/2/b)
+[^c-af85cd1688a8cbae199f0f3e0fd0dc48]: Commencement: S. 22(1)(2) in force at 30.6.2008 by [S.S.I. 2008/193](https://www.legislation.gov.uk/ssi/2008/193), [art. 2(b)](https://www.legislation.gov.uk/ssi/2008/193/article/2/b)
 
-[^key-bf84307faf963e0b470a9a862453eeef]: Commencement: S. 22(3) in force at 2.6.2008 by [S.S.I. 2008/193](https://www.legislation.gov.uk/ssi/2008/193), [art. 2(a)](https://www.legislation.gov.uk/ssi/2008/193/article/2/a)
+[^c-bf84307faf963e0b470a9a862453eeef]: Commencement: S. 22(3) in force at 2.6.2008 by [S.S.I. 2008/193](https://www.legislation.gov.uk/ssi/2008/193), [art. 2(a)](https://www.legislation.gov.uk/ssi/2008/193/article/2/a)

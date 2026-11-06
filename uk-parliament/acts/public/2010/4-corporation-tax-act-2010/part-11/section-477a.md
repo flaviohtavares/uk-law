@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 477A. Claims in relation to gift aid relief[^key-528f3aa38decae4cf9d79c82cb188a48]
+## 477A. Claims in relation to gift aid relief[^c-528f3aa38decae4cf9d79c82cb188a48]
 
 *Extent: E+W+S+N.I.*
 
-(A1)[^key-6c7e8432cbabbc82b08e9e58031633a4] This section applies to claims for repayment of income tax treated as having been paid by virtue of—
+(A1)[^c-6c7e8432cbabbc82b08e9e58031633a4] This section applies to claims for repayment of income tax treated as having been paid by virtue of—
 
 - (a) section 471 (gifts qualifying for gift aid relief: charitable companies), or
 - (b) section 475 (gifts qualifying for gift aid relief: eligible bodies).
 
-(1) This section also[^key-1d86fd01d002cb0e11a22632f7146f1d] applies to claims for amounts to be exempt from tax by virtue of—
+(1) This section also[^c-1d86fd01d002cb0e11a22632f7146f1d] applies to claims for amounts to be exempt from tax by virtue of—
 
 - (a) section 472 (gifts qualifying for gift aid relief: charitable companies), or
 - (b) section 475 (gifts qualifying for gift aid relief: eligible bodies).
@@ -49,8 +49,8 @@ summary: ''
 
 ## Annotations
 
-[^key-528f3aa38decae4cf9d79c82cb188a48]: Textual amendment: S. 477A and cross-heading inserted (8.4.2010) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2010/13/schedule/8/paragraph/7)
+[^c-528f3aa38decae4cf9d79c82cb188a48]: Textual amendment: S. 477A and cross-heading inserted (8.4.2010) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2010/13/schedule/8/paragraph/7)
 
-[^key-6c7e8432cbabbc82b08e9e58031633a4]: Textual amendment: S. 477A(A1) inserted (retrospective to 8.4.2010) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 15 paras. 3(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/3/2), [17(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/17/1)
+[^c-6c7e8432cbabbc82b08e9e58031633a4]: Textual amendment: S. 477A(A1) inserted (retrospective to 8.4.2010) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 15 paras. 3(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/3/2), [17(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/17/1)
 
-[^key-1d86fd01d002cb0e11a22632f7146f1d]: Textual amendment: Word in s. 477A(1) inserted (retrospective to 8.4.2010) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 15 paras. 3(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/3/3), [17(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/17/1)
+[^c-1d86fd01d002cb0e11a22632f7146f1d]: Textual amendment: Word in s. 477A(1) inserted (retrospective to 8.4.2010) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 15 paras. 3(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/3/3), [17(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/17/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Rent factoring of leases of plant or machinery[^key-ed7031603c1c2430622593a835ce1903]
+## 135. Rent factoring of leases of plant or machinery[^c-ed7031603c1c2430622593a835ce1903]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed7031603c1c2430622593a835ce1903]: Textual amendment: S. 135 omitted (with effect in accordance with Sch. 25 para. 10 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 25 para. 9(3)(d)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/25/paragraph/9/3/d)
+[^c-ed7031603c1c2430622593a835ce1903]: Textual amendment: S. 135 omitted (with effect in accordance with Sch. 25 para. 10 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 25 para. 9(3)(d)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/25/paragraph/9/3/d)

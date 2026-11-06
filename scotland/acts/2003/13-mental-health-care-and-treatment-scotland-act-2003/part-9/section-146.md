@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 146. First review: responsible medical officer’s duty where extension proposed[^key-2e4638646a17f43878f91b2e3829f2d6]
+## 146. First review: responsible medical officer’s duty where extension proposed[^c-2e4638646a17f43878f91b2e3829f2d6]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ the responsible medical officer shall give notice to the mental health officer t
 
 ## Annotations
 
-[^key-2e4638646a17f43878f91b2e3829f2d6]: Commencement: S. 146 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-2e4638646a17f43878f91b2e3829f2d6]: Commencement: S. 146 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

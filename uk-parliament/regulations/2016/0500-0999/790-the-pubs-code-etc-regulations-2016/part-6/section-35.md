@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Right to refer proposed MRO rent to the independent assessor[^key-b3f4575fc8808f425e131f325d7bc0c5]
+## 35. Right to refer proposed MRO rent to the independent assessor[^c-b3f4575fc8808f425e131f325d7bc0c5]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3f4575fc8808f425e131f325d7bc0c5]: Textual amendment: [Reg. 35](https://www.legislation.gov.uk/uksi/2016/790/regulation/35) substituted (1.4.2022) by [The Small Business, Enterprise and Employment Act 2015 and Pubs Code etc. (Amendment) Regulations 2022 (S.I. 2022/341)](https://www.legislation.gov.uk/uksi/2022/341), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/341/regulation/1/1), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2022/341/schedule/2/paragraph/12) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/341/regulation/4))
+[^c-b3f4575fc8808f425e131f325d7bc0c5]: Textual amendment: [Reg. 35](https://www.legislation.gov.uk/uksi/2016/790/regulation/35) substituted (1.4.2022) by [The Small Business, Enterprise and Employment Act 2015 and Pubs Code etc. (Amendment) Regulations 2022 (S.I. 2022/341)](https://www.legislation.gov.uk/uksi/2022/341), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/341/regulation/1/1), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2022/341/schedule/2/paragraph/12) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/341/regulation/4))

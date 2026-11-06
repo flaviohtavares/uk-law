@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.28. Intimation[^key-1b4b39f0c76ee0bd3459597f053aaee9]
+## 3.28. Intimation[^c-1b4b39f0c76ee0bd3459597f053aaee9]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The local authority shall intimate the grant or refusal of an application to suc
 
 ## Annotations
 
-[^key-1b4b39f0c76ee0bd3459597f053aaee9]: Commencement: Rule 3.28 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-1b4b39f0c76ee0bd3459597f053aaee9]: Commencement: Rule 3.28 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

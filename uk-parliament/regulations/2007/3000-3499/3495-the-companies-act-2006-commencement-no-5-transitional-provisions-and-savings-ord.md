@@ -44,7 +44,7 @@ Coming into force in accordance with article 2
 
 The Secretary of State makes the following Order in exercise of the powers conferred by sections 1292, 1296 and 1300(2) of the Companies Act 2006[^f00001].
 
-## 1. Citation and interpretation[^key-0dcf5a58414081e2cfad5d51c8d3bdbf][^key-0dcf5a58414081e2cfad5d51c8d3bdbf]
+## 1. Citation and interpretation[^c-0dcf5a58414081e2cfad5d51c8d3bdbf][^c-0dcf5a58414081e2cfad5d51c8d3bdbf]
 
 (1) This Order may be cited as the Companies Act 2006 (Commencement No. 5, Transitional Provisions and Savings) Order 2007.
 
@@ -53,7 +53,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 - “the 1985 Act” means the Companies Act 1985[^f00002]; and
 - “the 1986 Order” means the Companies (Northern Ireland) Order 1986[^f00003].
 
-## 2. Coming into force[^key-164c542ef55300929271a7b51b0f87b6][^key-164c542ef55300929271a7b51b0f87b6]
+## 2. Coming into force[^c-164c542ef55300929271a7b51b0f87b6][^c-164c542ef55300929271a7b51b0f87b6]
 
 (1) The provisions of this Order come into force as follows.
 
@@ -74,7 +74,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 - (a) on 31st December 2007 so far as relating to the amendment made by paragraph 2(6) of that Schedule;
 - (b) on 14th January 2008 so far as relating to the other amendments made by that Schedule.
 
-## 3. Provisions of the Companies Act 2006 coming into force on 6th April 2008[^key-fbcd16f07ef17303277a39ab1fd065a9]
+## 3. Provisions of the Companies Act 2006 coming into force on 6th April 2008[^c-fbcd16f07ef17303277a39ab1fd065a9]
 
 (1) The following provisions of the Companies Act 2006 come into force on 6th April 2008—
 
@@ -123,11 +123,11 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 (5) Section 1284 of the Companies Act 2006 (extension of Companies Acts to Northern Ireland) comes into force on 6th April 2008 so far as necessary for the purposes of the provisions mentioned in paragraphs (1)(a) to (t), (2) and (3).
 
-## 4. Provisions of the Companies Act 2006 coming into force on 29th June 2008[^key-8ffa0c178b8bc4e508582fd38275a2a8]
+## 4. Provisions of the Companies Act 2006 coming into force on 29th June 2008[^c-8ffa0c178b8bc4e508582fd38275a2a8]
 
 Sections 1242 to 1244 of, and Schedule 12 to, the Companies Act 2006 (duties of third country auditors: information to be supplied by third country auditors) come into force on 29th June 2008.
 
-## 5. Provisions of the Companies Act 2006 coming into force on 1st October 2008[^key-e24ae12dff62e220efc07fcbab512790]
+## 5. Provisions of the Companies Act 2006 coming into force on 1st October 2008[^c-e24ae12dff62e220efc07fcbab512790]
 
 (1) The following provisions of the Companies Act 2006 come into force on 1st October 2008—
 
@@ -149,11 +149,11 @@ Sections 1242 to 1244 of, and Schedule 12 to, the Companies Act 2006 (duties of 
 
 (4) Section 1284 of the Companies Act 2006 (extension of Companies Acts to Northern Ireland) comes into force on 1st October 2008 so far as necessary for the purposes of the provisions mentioned in paragraphs (1) to (3).
 
-## 6. Transitional adaptations of provisions brought into force[^key-a20a4bcf896789a380c96b939a00779f][^key-b4564bbba4006a079ad3b172c47daebb][^key-3d674c14e572c0d109cc79fd020b8027]
+## 6. Transitional adaptations of provisions brought into force[^c-a20a4bcf896789a380c96b939a00779f][^c-b4564bbba4006a079ad3b172c47daebb][^c-3d674c14e572c0d109cc79fd020b8027]
 
 The provisions brought into force by articles 3 and 5 have effect subject to any transitional adaptations specified in Schedule 1 to this Order.
 
-## 7. Interpretation of company law provisions brought into force[^key-841099e86aaff60fe0fc2ea6f9084aa3]
+## 7. Interpretation of company law provisions brought into force[^c-841099e86aaff60fe0fc2ea6f9084aa3]
 
 (1) Where an expression in a company law provision brought into force by this Order (or in an adaptation made by this Order of such a provision)—
 
@@ -164,14 +164,14 @@ the expression has, for the purposes of the provision brought into force (or the
 
 (2) In paragraph (1) “company law provision” has the meaning given by section 2(2) of the Companies Act 2006.
 
-## 8. Repeals[^key-8fd228466b8cf2b469540b97d94e2273][^key-e46b1cd5862d15c2be0285f02c15fa08][^key-568e79bcb1125a78ebe4614f1d6af695]
+## 8. Repeals[^c-8fd228466b8cf2b469540b97d94e2273][^c-e46b1cd5862d15c2be0285f02c15fa08][^c-568e79bcb1125a78ebe4614f1d6af695]
 
 Sections 1284(2) and 1295 of, and Schedule 16 to, the Companies Act 2006 (repeals) come into force—
 
 - (a) on 6th April 2008 so far as relating to the repeal of the provisions specified in Schedule 2 to this Order;
 - (b) on 1st October 2008 so far as relating to the repeal of the provisions specified in Schedule 3 to this Order.
 
-## 9. Transitional provisions and savings[^key-8b368da17c030ba5de99b4e4a5de3dd7][^key-b800d0eedf2f611abdbc0df9eedbcd6e][^key-e2e57ec22f29f5d74995fc21ffda2d0c]
+## 9. Transitional provisions and savings[^c-8b368da17c030ba5de99b4e4a5de3dd7][^c-b800d0eedf2f611abdbc0df9eedbcd6e][^c-e2e57ec22f29f5d74995fc21ffda2d0c]
 
 (1) Schedule 4 to this Order contains transitional provisions and savings relating to the provisions (and repeals) brought into force by this Order.
 
@@ -179,14 +179,14 @@ Sections 1284(2) and 1295 of, and Schedule 16 to, the Companies Act 2006 (repeal
 
 (3) Where any provision of that Schedule authorises or requires the use of a form prescribed under the 1985 Act or 1986 Order, the power to prescribe the form continues to be exercisable (so that the prescribed form may be amended or replaced) so long as the use of the form continues to be authorised or required.
 
-(4) Until section 1068(1) comes into force, the provisions of section 707B of the[^key-4ea1cb330d81d61129ddbe17bd28c2f0] 1985 Act or Article 656B of the 1986 Order (delivery using electronic communications) apply in relation to documents required or authorised to be delivered to the registrar under the provisions of the Companies Act 2006 brought into force by this Order.
+(4) Until section 1068(1) comes into force, the provisions of section 707B of the[^c-4ea1cb330d81d61129ddbe17bd28c2f0] 1985 Act or Article 656B of the 1986 Order (delivery using electronic communications) apply in relation to documents required or authorised to be delivered to the registrar under the provisions of the Companies Act 2006 brought into force by this Order.
 
 ## 10. Revocation of spent transitional adaptations
 
 (1)[^M_I_a06a34e9-602b-4bc4-caf4-ad4ff6627a82] The following provisions (which make transitional adaptations that are no longer needed as a result of provisions brought into force by this Order on 6th April 2008) are revoked with effect from that date—
 
 - (a) in Schedule 1 to the Companies Act 2006 (Commencement No. 1, Transitional Provisions and Savings) Order 2006[^f00006], paragraphs 3, 5(2)(b), 5(3)(a)(ix), 5(3)(b), 10, 11 and 12(3);
-- (b)[^key-18f4d73e19ba5a63e1e2e8ef42323b1c] in Schedule 1 to the Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007[^f00007], paragraphs 3 to 5, 10, 13(2)(a) and 15 to 18.
+- (b)[^c-18f4d73e19ba5a63e1e2e8ef42323b1c] in Schedule 1 to the Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007[^f00007], paragraphs 3 to 5, 10, 13(2)(a) and 15 to 18.
 
 (2)[^M_I_d3a5dea0-14d7-4f00-9281-d2134f3c6fe9] The following provisions (which make transitional adaptations that are no longer needed as a result of provisions brought into force by this Order on 1st October 2008) are revoked with effect from that date—
 
@@ -194,13 +194,13 @@ Sections 1284(2) and 1295 of, and Schedule 16 to, the Companies Act 2006 (repeal
 - (b) in Schedule 1 to the Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007, paragraphs 6 to 9, 11 and 12;
 - (c) paragraph 11 of Schedule 1 to this Order.
 
-(3)[^key-4f7c2aa171cd4d27d073df5fb297f544][^key-54c1cf8dbe1e794354f48b271dd6264a][^key-3d26da846e1d8d843d1cc34f9b63f7ee] The revocation by this article of a spent transitional adaptation is subject to the same transitional provisions and savings as apply, in accordance with Schedule 4 to this Order, in relation to the repeal of the provisions of the 1985 Act or 1986 Order referred to in the adaptation.
+(3)[^c-4f7c2aa171cd4d27d073df5fb297f544][^c-54c1cf8dbe1e794354f48b271dd6264a][^c-3d26da846e1d8d843d1cc34f9b63f7ee] The revocation by this article of a spent transitional adaptation is subject to the same transitional provisions and savings as apply, in accordance with Schedule 4 to this Order, in relation to the repeal of the provisions of the 1985 Act or 1986 Order referred to in the adaptation.
 
-## 11. Amendments of earlier Orders[^key-d3be741e3cad15d51fb7cdc0baea9024][^key-c729a0f1491ad866a5e05d022632b1a4][^key-d3be741e3cad15d51fb7cdc0baea9024]
+## 11. Amendments of earlier Orders[^c-d3be741e3cad15d51fb7cdc0baea9024][^c-c729a0f1491ad866a5e05d022632b1a4][^c-d3be741e3cad15d51fb7cdc0baea9024]
 
 Schedule 5 to this Order contains amendments of earlier commencement Orders.
 
-## 12. Savings[^key-d82aab753af0c2602d796b83e59c4a46][^key-1539cf29f7d6954f769ee601a828f071][^key-a46e39ba23e6eddfcd57386c3782aa0e]
+## 12. Savings[^c-d82aab753af0c2602d796b83e59c4a46][^c-1539cf29f7d6954f769ee601a828f071][^c-a46e39ba23e6eddfcd57386c3782aa0e]
 
 (1) Nothing in this Order affects any provision of the 1985 Act or the 1986 Order as applied by the Limited Liability Partnerships Regulations 2001[^f00008] or the Limited Liability Partnerships Regulations (Northern Ireland) 2004[^f00009] to limited liability partnerships.
 
@@ -214,85 +214,85 @@ Department for Business, Enterprise and Regulatory Reform
 
 17th December 2007
 
-## SCHEDULE 1 — TRANSITIONAL ADAPTATIONS OF PROVISIONS BROUGHT INTO FORCE[^key-2042ffaf3ed06a38182a8f4576e2c2c1]
+## SCHEDULE 1 — TRANSITIONAL ADAPTATIONS OF PROVISIONS BROUGHT INTO FORCE[^c-2042ffaf3ed06a38182a8f4576e2c2c1]
 
 **No longer in force.**
 
 Article 6
 
-### PART 1 — PROVISIONS COMING INTO FORCE ON 6TH APRIL 2008[^key-2042ffaf3ed06a38182a8f4576e2c2c1]
+### PART 1 — PROVISIONS COMING INTO FORCE ON 6TH APRIL 2008[^c-2042ffaf3ed06a38182a8f4576e2c2c1]
 
-#### 1. Transactions with directors requiring approval of members (s.205)[^key-2042ffaf3ed06a38182a8f4576e2c2c1]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Directors’ liabilities: qualifying third party indemnity provision (s.234)[^key-2042ffaf3ed06a38182a8f4576e2c2c1]
+#### 1. Transactions with directors requiring approval of members (s.205)[^c-2042ffaf3ed06a38182a8f4576e2c2c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Company secretaries (ss.270 to 274)[^key-2042ffaf3ed06a38182a8f4576e2c2c1]
+#### 2. Directors’ liabilities: qualifying third party indemnity provision (s.234)[^c-2042ffaf3ed06a38182a8f4576e2c2c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-2042ffaf3ed06a38182a8f4576e2c2c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**5.**[^key-2042ffaf3ed06a38182a8f4576e2c2c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 6. Authentication of accounts and reports filed with registrar (ss.444 to 447 and 449)[^key-2042ffaf3ed06a38182a8f4576e2c2c1]
+#### 3. Company secretaries (ss.270 to 274)[^c-2042ffaf3ed06a38182a8f4576e2c2c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-2042ffaf3ed06a38182a8f4576e2c2c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2042ffaf3ed06a38182a8f4576e2c2c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-2042ffaf3ed06a38182a8f4576e2c2c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-2042ffaf3ed06a38182a8f4576e2c2c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-2042ffaf3ed06a38182a8f4576e2c2c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**10.**[^key-2042ffaf3ed06a38182a8f4576e2c2c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 11. Audit: indemnity for costs of successfully defending proceedings (s.533)[^key-2042ffaf3ed06a38182a8f4576e2c2c1]
+#### 6. Authentication of accounts and reports filed with registrar (ss.444 to 447 and 449)[^c-2042ffaf3ed06a38182a8f4576e2c2c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Authorised minimum: application of initial requirement (s.765)[^key-2042ffaf3ed06a38182a8f4576e2c2c1]
+**7.**[^c-2042ffaf3ed06a38182a8f4576e2c2c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^c-2042ffaf3ed06a38182a8f4576e2c2c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^c-2042ffaf3ed06a38182a8f4576e2c2c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^c-2042ffaf3ed06a38182a8f4576e2c2c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 11. Audit: indemnity for costs of successfully defending proceedings (s.533)[^c-2042ffaf3ed06a38182a8f4576e2c2c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Authorised minimum: application where shares denominated in different currencies etc (s.766)[^key-2042ffaf3ed06a38182a8f4576e2c2c1]
+#### 12. Authorised minimum: application of initial requirement (s.765)[^c-2042ffaf3ed06a38182a8f4576e2c2c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Distributions (ss.829 to 853)[^key-2042ffaf3ed06a38182a8f4576e2c2c1]
+#### 13. Authorised minimum: application where shares denominated in different currencies etc (s.766)[^c-2042ffaf3ed06a38182a8f4576e2c2c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-2042ffaf3ed06a38182a8f4576e2c2c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**16.**[^key-2042ffaf3ed06a38182a8f4576e2c2c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**17.**[^key-2042ffaf3ed06a38182a8f4576e2c2c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**18.**[^key-2042ffaf3ed06a38182a8f4576e2c2c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**19.**[^key-2042ffaf3ed06a38182a8f4576e2c2c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**20.**[^key-2042ffaf3ed06a38182a8f4576e2c2c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 21. Mergers and divisions of public companies (s.923)[^key-2042ffaf3ed06a38182a8f4576e2c2c1]
+#### 14. Distributions (ss.829 to 853)[^c-2042ffaf3ed06a38182a8f4576e2c2c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — PROVISIONS COMING INTO FORCE ON 1ST OCTOBER 2008[^key-2042ffaf3ed06a38182a8f4576e2c2c1]
+**15.**[^c-2042ffaf3ed06a38182a8f4576e2c2c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 22. Order requiring name to be changed following objection (s.73)[^key-2042ffaf3ed06a38182a8f4576e2c2c1]
+**16.**[^c-2042ffaf3ed06a38182a8f4576e2c2c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**17.**[^c-2042ffaf3ed06a38182a8f4576e2c2c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**18.**[^c-2042ffaf3ed06a38182a8f4576e2c2c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**19.**[^c-2042ffaf3ed06a38182a8f4576e2c2c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**20.**[^c-2042ffaf3ed06a38182a8f4576e2c2c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 21. Mergers and divisions of public companies (s.923)[^c-2042ffaf3ed06a38182a8f4576e2c2c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 23. Trading disclosures: minor variations in form of name (s.85)[^key-2042ffaf3ed06a38182a8f4576e2c2c1]
+### PART 2 — PROVISIONS COMING INTO FORCE ON 1ST OCTOBER 2008[^c-2042ffaf3ed06a38182a8f4576e2c2c1]
+
+#### 22. Order requiring name to be changed following objection (s.73)[^c-2042ffaf3ed06a38182a8f4576e2c2c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 24. Direction requiring company to appoint director (s.156)[^key-2042ffaf3ed06a38182a8f4576e2c2c1]
+#### 23. Trading disclosures: minor variations in form of name (s.85)[^c-2042ffaf3ed06a38182a8f4576e2c2c1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 24. Direction requiring company to appoint director (s.156)[^c-2042ffaf3ed06a38182a8f4576e2c2c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -300,7 +300,7 @@ Article 6
 
 Article 8(a)
 
-### PART 1 — GREAT BRITAIN[^key-27f1d3924ef116024c03697c6a784eed]
+### PART 1 — GREAT BRITAIN[^c-27f1d3924ef116024c03697c6a784eed]
 
 | Short title and chapter | Extent of repeal brought into force |
 | --- | --- |
@@ -354,7 +354,7 @@ Article 8(a)
 | Companies (Audit, Investigations and Community Enterprise) Act [2004 (c.27)](https://www.legislation.gov.uk/ukpga/2004/27) | Sections 1 to 10.<br>Section 11(1).<br>Sections 12 and 13.<br>Section 19(2).<br>Schedule 1.<br>In Schedule 2, paragraphs 1 to 3, 5, 10 and 24. |
 | Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33) | In Schedule 27, paragraphs 104, 105 and 128. |
 
-### PART 2 — NORTHERN IRELAND[^key-f6d55fdaff40ee59c7f25c6878ad844d]
+### PART 2 — NORTHERN IRELAND[^c-f6d55fdaff40ee59c7f25c6878ad844d]
 
 | Short title and chapter | Extent of repeal brought into force |
 | --- | --- |
@@ -399,7 +399,7 @@ Article 8(a)
 
 Article 8(b)
 
-### PART 1 — GREAT BRITAIN[^key-724dc2e13c2fe6241c8f6ee1a25539cd]
+### PART 1 — GREAT BRITAIN[^c-724dc2e13c2fe6241c8f6ee1a25539cd]
 
 | Short title and chapter | Extent of repeal brought into force |
 | --- | --- |
@@ -409,7 +409,7 @@ Article 8(b)
 | Business Names Act [1985 (c.7)](https://www.legislation.gov.uk/ukpga/1985/7) | Section 4, as it applies to companies. |
 | Companies (Audit, Investigations and Community Enterprise) Act [2004 (c.27)](https://www.legislation.gov.uk/ukpga/2004/27) | In Schedule 6, paragraph 8. |
 
-### PART 2 — NORTHERN IRELAND[^key-a34cdb06db80f7e29916530c0f638d58]
+### PART 2 — NORTHERN IRELAND[^c-a34cdb06db80f7e29916530c0f638d58]
 
 | Short title and chapter | Extent of repeal brought into force |
 | --- | --- |
@@ -429,7 +429,7 @@ Article 9
 
 ### PART 1 — PROVISIONS COMING INTO FORCE ON 6TH APRIL 2008
 
-#### 1. Execution of documents (s.44)[^key-269de0ec389c317512dcf55b6f012be3]
+#### 1. Execution of documents (s.44)[^c-269de0ec389c317512dcf55b6f012be3]
 
 (1) Section 44 of the Companies Act 2006 (execution of documents) applies in relation to the execution of documents on or after 6th April 2008.
 
@@ -437,13 +437,13 @@ Article 9
 
 (3) For the purposes of this paragraph a document signed by one authorised signatory before 6th April 2008 and by another on or after that date is treated as executed on or after 6th April 2008.
 
-#### 2. Register of members: removal of entries relating to former members (s.121)[^key-85eb4610848544653ff7e1fb3d5ae196]
+#### 2. Register of members: removal of entries relating to former members (s.121)[^c-85eb4610848544653ff7e1fb3d5ae196]
 
 (1) The power conferred by section 121 of the Companies Act 2006 (removal after ten years of entries relating to former members) is exercisable on and after 6th April 2008, whenever the period of ten years referred to in that provision expired.
 
-(2) A copy of any details that were included in the register immediately before that date and that are removed from the register under that power must be retained by the company until 6th April 2018[^key-987c0d026595f8d5e609c1273e8e00c9] or, if earlier, 20 years after the member concerned ceased to be a member.
+(2) A copy of any details that were included in the register immediately before that date and that are removed from the register under that power must be retained by the company until 6th April 2018[^c-987c0d026595f8d5e609c1273e8e00c9] or, if earlier, 20 years after the member concerned ceased to be a member.
 
-#### 3. Register of members: time limit for claims arising from entry (s.128)[^key-73bc6f328ec0726ae4627932bfbb624e]
+#### 3. Register of members: time limit for claims arising from entry (s.128)[^c-73bc6f328ec0726ae4627932bfbb624e]
 
 (1) Section 128 of the Companies Act 2006 (ten year time limit for claims arising from entry in register of members) applies to causes of action arising on or after 6th April 2008.
 
@@ -456,7 +456,7 @@ whichever expires first.
 
 (3) This is without prejudice to any lesser period of limitation (and, in Scotland, to any rule that the obligation giving rise to the liability prescribes before the expiry of that period).
 
-#### 4. Company secretaries (ss.270 to 274 and 280)[^key-aa242f76829d5ae4a41ab3cba30ea388]
+#### 4. Company secretaries (ss.270 to 274 and 280)[^c-aa242f76829d5ae4a41ab3cba30ea388]
 
 (1) A private company whose articles immediately before 6th April 2008 expressly required it to have a secretary is a company “with a secretary” for the purposes of section 270(2) until its articles are amended to remove the requirement.
 
@@ -467,26 +467,26 @@ whichever expires first.
 
 is not a provision expressly requiring the company to have a secretary.
 
-**5.**[^key-14bed5c0ded65ad9f3ec0a4904e36923] (1) Section 273 of the Companies Act 2006 (qualifications of secretaries of public companies) applies in relation to company secretaries appointed on or after 6th April 2008.
+**5.**[^c-14bed5c0ded65ad9f3ec0a4904e36923] (1) Section 273 of the Companies Act 2006 (qualifications of secretaries of public companies) applies in relation to company secretaries appointed on or after 6th April 2008.
 
 (2) Section 286 of the 1985 Act or Article 294 of the 1986 Order continues to apply in relation to company secretaries appointed before that date.
 
-#### 6. Accounts and reports (ss.380 to 389, 393 to 416, 418 to 462 and 464 to 474)[^key-acdba578572a6b92ab7aded22ba1c0e7]
+#### 6. Accounts and reports (ss.380 to 389, 393 to 416, 418 to 462 and 464 to 474)[^c-acdba578572a6b92ab7aded22ba1c0e7]
 
 (1) Sections 380 to 389, 393 to 416, 418 to 462 and 464 to 474 of the Companies Act 2006 (accounts and reports) apply to accounts and reports for financial years beginning on or after 6th April 2008.
 
 (2) The corresponding provisions of the 1985 Act or the 1986 Order continue to apply to accounts and reports for financial years beginning before that date.
 
-**7.**[^key-d05107f25331dc9ac5277cd9a24ae010] Any question whether—
+**7.**[^c-d05107f25331dc9ac5277cd9a24ae010] Any question whether—
 
 - (a) for the purposes of section 382, 383, 384(3) or 467(3) of the Companies Act 2006 a company or group qualified as small in a financial year beginning before 6th April 2008, or
 - (b) for the purposes of section 465 or 466 of that Act a company or group qualified as medium-sized in any such financial year,
 
 is to be determined by reference to the corresponding provisions of the 1985 Act or the 1986 Order.
 
-**8.**[^key-44259756028c39830d9c1f59371ae826] Until section 1068(1) of the Companies Act 2006 comes into force, the notice referred to in section 392 of that Act (notice of alteration of accounting reference date) must be given in the form prescribed for the purposes of section 225(1) of the 1985 Act or Article 233(1) of the 1986 Order.
+**8.**[^c-44259756028c39830d9c1f59371ae826] Until section 1068(1) of the Companies Act 2006 comes into force, the notice referred to in section 392 of that Act (notice of alteration of accounting reference date) must be given in the form prescribed for the purposes of section 225(1) of the 1985 Act or Article 233(1) of the 1986 Order.
 
-#### 9. Audit (ss.475 to 484 and 489 to 539)[^key-6ce796860c3fae36acfa3f5815f3844d]
+#### 9. Audit (ss.475 to 484 and 489 to 539)[^c-6ce796860c3fae36acfa3f5815f3844d]
 
 (1) In Chapter 1 of Part 16 of the Companies Act 2006 (requirement for audited accounts)—
 
@@ -498,14 +498,14 @@ is to be determined by reference to the corresponding provisions of the 1985 Act
 
 (3) In section 482 of the Companies Act 2006 (non-profit-making companies subject to public sector audit) as it applies in relation to accounts for financial years beginning on or after 1st April 2008 and before 6th April 2008, the reference to the requirements of Part 16 of that Act shall be read as a reference to the requirements of Part 7 of the 1985 Act or Part 8 of the 1986 Order.
 
-**10.**[^key-b3754cdb8ae848e9787e78a397ae4a37] (1) In Chapter 2 of Part 16 of that Act (appointment of auditors)—
+**10.**[^c-b3754cdb8ae848e9787e78a397ae4a37] (1) In Chapter 2 of Part 16 of that Act (appointment of auditors)—
 
 - (a) sections 489 and 490 (appointment of auditors by public companies) apply to appointments for financial years beginning on or after 6th April 2008;
 - (b) section 491 (term of office of auditors of public company) applies to auditors appointed for financial years beginning on or after that date.
 
 (2) Sections 384, 385, 387 and 388(1), (3) and (4) of the 1985 Act or Articles 392, 393, 395 and 396(1), (3) and (4) of the 1986 Order continue to apply to appointments by public companies for financial years beginning before that date.
 
-**11.**[^key-123b3b66781c63630e35f7ba9b246d01] (1) In that Chapter, the following provisions apply to auditors appointed for financial years beginning on or after 6th April 2008—
+**11.**[^c-123b3b66781c63630e35f7ba9b246d01] (1) In that Chapter, the following provisions apply to auditors appointed for financial years beginning on or after 6th April 2008—
 
 - section 492 (fixing of auditor’s remuneration),
 - section 493 (disclosure of terms of audit appointment), and
@@ -515,7 +515,7 @@ is to be determined by reference to the corresponding provisions of the 1985 Act
 
 (3) The repeal of section 390A of the 1985 Act and Article 398A of the 1986 Order (remuneration of auditors) does not affect the operation of any such resolution as is mentioned in paragraph 45 of Schedule 3 to the Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007.
 
-**12.**[^key-1e12e43b6480b48e21052e159f1444c8] (1) In Chapter 3 of Part 16 of that Act (functions of auditor)—
+**12.**[^c-1e12e43b6480b48e21052e159f1444c8] (1) In Chapter 3 of Part 16 of that Act (functions of auditor)—
 
 - (a) sections 495 to 498 (auditor’s report and duties of auditor) apply to auditors’ reports on accounts or reports for financial years beginning on or after 6th April 2008;
 - (b) sections 499 to 501 (rights of auditors) apply to auditors appointed for financial years beginning on or after that date;
@@ -527,7 +527,7 @@ is to be determined by reference to the corresponding provisions of the 1985 Act
 
 (4) Section 390 of the 1985 Act or Article 398 of the 1986 Order continues to apply to auditors appointed before that date.
 
-**13.**[^key-6b659025401b2119c330e34021efac98] (1) In Chapter 4 of Part 16 of that Act (removal, resignation, etc of auditors), sections 510 to 513 (removal of auditor) apply where notice of the intended resolution is given to the company on or after 6th April 2008.
+**13.**[^c-6b659025401b2119c330e34021efac98] (1) In Chapter 4 of Part 16 of that Act (removal, resignation, etc of auditors), sections 510 to 513 (removal of auditor) apply where notice of the intended resolution is given to the company on or after 6th April 2008.
 
 (2) Sections 391 and 391A of the 1985 Act or Articles 399 and 399A of the 1986 Order continue to apply where notice of the intended resolution is given to the company before that date.
 
@@ -535,36 +535,36 @@ is to be determined by reference to the corresponding provisions of the 1985 Act
 
 (4) In section 513 (rights of auditor removed from office) as it applies in relation to an auditor appointed before 6th April 2008, the reference to rights under section 502(2) shall be read as a reference to rights under section 390(1) of the 1985 Act or Article 398(1) of the 1986 Order.
 
-**14.**[^key-731c3f59bb3ad296de6a15842646c05a] (1) In that Chapter, sections 514 and 515 (failure to re-appoint auditor) apply to appointments for financial years beginning on or after 6th April 2008.
+**14.**[^c-731c3f59bb3ad296de6a15842646c05a] (1) In that Chapter, sections 514 and 515 (failure to re-appoint auditor) apply to appointments for financial years beginning on or after 6th April 2008.
 
 (2) Section 391A of the 1985 Act or Article 399A of the 1986 Order continues to apply to appointments for financial years beginning before that date.
 
-**15.**[^key-8a1578baf4514cef5d93d8f3c746e5aa] (1) In that Chapter, sections 516 to 518 (resignation of auditor) apply to resignations occurring on or after 6th April 2008.
+**15.**[^c-8a1578baf4514cef5d93d8f3c746e5aa] (1) In that Chapter, sections 516 to 518 (resignation of auditor) apply to resignations occurring on or after 6th April 2008.
 
 (2) Sections 392 and 392A of the 1985 Act or Articles 400 and 400A of the 1986 Order continue to apply to resignations occurring before that date.
 
-(3)[^key-4826e2ee89ec97375ea7927857dfe764] In section 518 (rights of resigning auditor) as it applies in relation to an auditor appointed before 6th April 2008, the reference to rights under section 502(2) shall be read as a reference to rights under section 390(1) of the 1985 Act or Article 398(1) of the 1986 Order.
+(3)[^c-4826e2ee89ec97375ea7927857dfe764] In section 518 (rights of resigning auditor) as it applies in relation to an auditor appointed before 6th April 2008, the reference to rights under section 502(2) shall be read as a reference to rights under section 390(1) of the 1985 Act or Article 398(1) of the 1986 Order.
 
-**16.**[^key-8e0d5ee816fcb7a49ed77fe8e9dd3a7e] (1) In that Chapter, sections 519 to 525 (statement by auditor ceasing to hold office) apply where the auditor ceases to hold office on or after 6th April 2008.
+**16.**[^c-8e0d5ee816fcb7a49ed77fe8e9dd3a7e] (1) In that Chapter, sections 519 to 525 (statement by auditor ceasing to hold office) apply where the auditor ceases to hold office on or after 6th April 2008.
 
 (2) Sections 394 and 394A of the 1985 Act or Articles 401A and 401B of the 1986 Order continue to apply where the auditor ceases to hold office before that date.
 
-**17.**[^key-0e549d618f9d1e8663a1637bab23db7f] (1) In that Chapter, section 526 (effect of casual vacancies) applies where the vacancy occurs on or after 6th April 2008.
+**17.**[^c-0e549d618f9d1e8663a1637bab23db7f] (1) In that Chapter, section 526 (effect of casual vacancies) applies where the vacancy occurs on or after 6th April 2008.
 
 (2) Section 388(2) of the 1985 Act or Article 396(2) of the 1986 Order continues to apply where the vacancy occurred before that date.
 
-**18.**[^key-e5beaf6d55e02430ce196e4955933d30] In Chapter 5 of Part 16 of that Act (quoted companies: right of members to raise audit concerns at accounts meeting), in section 527 (members’ powers to require website publication of audit concerns)—
+**18.**[^c-e5beaf6d55e02430ce196e4955933d30] In Chapter 5 of Part 16 of that Act (quoted companies: right of members to raise audit concerns at accounts meeting), in section 527 (members’ powers to require website publication of audit concerns)—
 
 - (a) subsection (1)(a) (matters relating to audit of company’s accounts) applies to accounts for financial years beginning on or after 6th April 2008, and
 - (b) subsection (1)(b) (matters relating to circumstances connected with an auditor of the company) applies to auditors appointed for financial years beginning on or after that date.
 
-**19.**[^key-1a376ea9d26e2a97b1d04cbb28c1c0c7] A resolution passed before 6th April 2008 authorising a liability limitation agreement is effective for the purposes of section 536 (authorisation of agreement by members of company) if it complies with the requirements of that section.
+**19.**[^c-1a376ea9d26e2a97b1d04cbb28c1c0c7] A resolution passed before 6th April 2008 authorising a liability limitation agreement is effective for the purposes of section 536 (authorisation of agreement by members of company) if it complies with the requirements of that section.
 
-#### 20. Debentures (ss.738 to 754)[^key-08e97a88cd6144e9e0a6f84ddae1269b]
+#### 20. Debentures (ss.738 to 754)[^c-08e97a88cd6144e9e0a6f84ddae1269b]
 
 Section 741 of the Companies Act 2006 (registration of allotment of debentures) applies to allotments of debentures made on or after 6th April 2008.
 
-**21.**[^key-2bd37c21b02c5149b3e0bbd6a1243a19] (1) Until regulations under section 1136 of the Companies Act 2006 come into force specifying a place for the purposes of section 743(1)(b), a company’s register of debenture holders may be kept—
+**21.**[^c-2bd37c21b02c5149b3e0bbd6a1243a19] (1) Until regulations under section 1136 of the Companies Act 2006 come into force specifying a place for the purposes of section 743(1)(b), a company’s register of debenture holders may be kept—
 
 - (a) at any office of the company at which the work of making it up is done, or
 - (b) if the company arranges with some other person for the making up of the register to be undertaken on its behalf by that other person, at the office of that other person at which the work is done,
@@ -573,11 +573,11 @@ provided that place is situated in the part of the United Kingdom in which the c
 
 (2) Until section 1068(1) of the Companies Act 2006 comes into force, the notice referred to in section 743(2) (notice of place where register of debenture holders is kept) must be given in the form prescribed for the purposes of section 190(5) of the 1985 Act or Article 199(3) of the 1986 Order.
 
-**22.**[^key-ff5fffd1c83e607ec6065c1fb569a8f3] (1) Sections 744 to 747 (register of debenture holders: right to inspect or require copy) and section 749 (right of debenture holder to copy of deed) of the Companies Act 2006 apply where the request is made on or after 6th April 2008.
+**22.**[^c-ff5fffd1c83e607ec6065c1fb569a8f3] (1) Sections 744 to 747 (register of debenture holders: right to inspect or require copy) and section 749 (right of debenture holder to copy of deed) of the Companies Act 2006 apply where the request is made on or after 6th April 2008.
 
 (2) Section 191(1) to (6) of the 1985 Act or Article 200(1) to (6) of the 1986 Order continue to apply to requests made before that date.
 
-**23.**[^key-72cc8308ac1c853d2b52a6c3cfa2ecc8] (1) Section 748 of the Companies Act 2006 (ten year time limit for claims arising from entry in register of debenture holders) applies to causes of action arising on or after 6th April 2008.
+**23.**[^c-72cc8308ac1c853d2b52a6c3cfa2ecc8] (1) Section 748 of the Companies Act 2006 (ten year time limit for claims arising from entry in register of debenture holders) applies to causes of action arising on or after 6th April 2008.
 
 (2) The time limit for causes of action arising before that date is—
 
@@ -588,19 +588,19 @@ whichever expires first.
 
 (3) This is without prejudice to any lesser period of limitation (and, in Scotland, to any rule that the obligation giving rise to the liability prescribes before the expiry of that period).
 
-#### 24. Prohibition of public offers by private companies (ss.755 to 759)[^key-317d05e5fcd95ee121e13476c8e0418c]
+#### 24. Prohibition of public offers by private companies (ss.755 to 759)[^c-317d05e5fcd95ee121e13476c8e0418c]
 
 (1) Sections 755 and 756 of the Companies Act 2006 (prohibition of public offers by private companies) apply to offers made on or after 6th April 2008.
 
 (2) Section 81 of the 1985 Act or Article 91 of the 1986 Order continues to apply to offers made before that date.
 
-**25.**[^key-2ba337a3f6ba01e561f0ee088b6c3d93] Sections 758 and 759 of the Companies Act 2006 (enforcement of prohibition: orders after contravention) apply to offers made on or after 6th April 2008.
+**25.**[^c-2ba337a3f6ba01e561f0ee088b6c3d93] Sections 758 and 759 of the Companies Act 2006 (enforcement of prohibition: orders after contravention) apply to offers made on or after 6th April 2008.
 
-#### 26. Minimum share capital requirement for public companies (ss.761 to 767)[^key-6f0cab58e202c16bfa2d9a17892be8e5]
+#### 26. Minimum share capital requirement for public companies (ss.761 to 767)[^c-6f0cab58e202c16bfa2d9a17892be8e5]
 
 A certificate issued under section 117 of the 1985 Act or Article 127 of the 1986 Order (public company share capital requirements) has effect on and after 6th April 2008 as if issued under section 761 of the Companies Act 2006.
 
-**27.**[^key-7c8ed187012388785365a543a8646336] (1) Section 762 of the Companies Act 2006 (procedure for obtaining trading certificate) applies to applications made on or after 6th April 2008.
+**27.**[^c-7c8ed187012388785365a543a8646336] (1) Section 762 of the Companies Act 2006 (procedure for obtaining trading certificate) applies to applications made on or after 6th April 2008.
 
 (2) Section 117(1) to (5) and (7A) of the 1985 Act or Article 127(1) to (5) and (7A) of the 1986 Order continue to apply to applications made before 6th April 2008.
 
@@ -609,7 +609,7 @@ A certificate issued under section 117 of the 1985 Act or Article 127 of the 198
 - (a) a statutory declaration is delivered to the registrar in accordance with section 117(2) of the 1985 Act or Article 127(2) of the 1986 Order, and
 - (b) the declaration was signed before that date.
 
-**28.**[^key-989323d31764d3ac4e4b2f0c37cfcf7f] (1) Until section 1068(1) of the Companies Act 2006 comes into force—
+**28.**[^c-989323d31764d3ac4e4b2f0c37cfcf7f] (1) Until section 1068(1) of the Companies Act 2006 comes into force—
 
 - (a) an application under section 762 of that Act must be in the form prescribed for the purposes of section 117(2) of the 1985 Act or Article 127(2) of the 1986 Order;
 - (b) the statement and information required by section 762(1)(a) to (c) must be provided on the form prescribed for the statutory declaration required by section 117(3) of the 1985 Act or Article 127(3) of the 1986 Order (but not in the form of a statutory declaration and disregarding so much of the form as requires other information);
@@ -624,32 +624,32 @@ A certificate issued under section 117 of the 1985 Act or Article 127 of the 198
 
 (5) Sub-paragraphs (1)(c), (3) and (4) above also apply in relation to the form prescribed for the purposes of section 43(3) of the 1985 Act or Article 53(3) of the 1986 Order (re-registration or private company as public) where a company seeks to satisfy the minimum share capital requirement in section 45(2)(a) of that Act or Article 55(2)(a) of that Order in euros.
 
-**29.**[^key-7aaf14b43740baa9897eda2ff47f0597] (1) Section 767 of the Companies Act 2006 (consequences of doing business etc without a trading certificate) applies in relation to things done on or after 6th April 2008.
+**29.**[^c-7aaf14b43740baa9897eda2ff47f0597] (1) Section 767 of the Companies Act 2006 (consequences of doing business etc without a trading certificate) applies in relation to things done on or after 6th April 2008.
 
 (2) Section 117(6), (7) and (8) of the 1985 Act or Article 127(6), (7) and (8) of the 1986 Order continue to apply in relation to things done before that date.
 
-#### 30. Certification and transfer of securities (ss.769 to 782)[^key-fdfdcfaeac1894af7c0e40f6ee0574cd]
+#### 30. Certification and transfer of securities (ss.769 to 782)[^c-fdfdcfaeac1894af7c0e40f6ee0574cd]
 
 Section 771 of the Companies Act 2006 (procedure on transfer being lodged) applies to transfers lodged with the company on or after 6th April 2008.
 
-**31.**[^key-dd785f6085f8b0d4f95a741daab5423d] Section 780 of the Companies Act 2006 (duty of company as to issue of certificates on surrender of share warrant) applies to share warrants surrendered on or after 6th April 2008.
+**31.**[^c-dd785f6085f8b0d4f95a741daab5423d] Section 780 of the Companies Act 2006 (duty of company as to issue of certificates on surrender of share warrant) applies to share warrants surrendered on or after 6th April 2008.
 
-#### 32. Request to inspect a company’s register of interests disclosed (ss.811(4), 812 and 814)[^key-afff9e3361bd56e244df15c92888862a]
+#### 32. Request to inspect a company’s register of interests disclosed (ss.811(4), 812 and 814)[^c-afff9e3361bd56e244df15c92888862a]
 
 Sections 811(4), 812 and 814 of the Companies Act 2006 (inspection of register of interests disclosed: further provision about requests) apply to requests under section 811 of that Act made on or after 6th April 2008.
 
-#### 33. Distributions (ss.829 to 853)[^key-841fe153f6d48ec3e63e3f41549d3ea2]
+#### 33. Distributions (ss.829 to 853)[^c-841fe153f6d48ec3e63e3f41549d3ea2]
 
 (1) Sections 829 to 853 of the Companies Act 2006 (distributions) apply to distributions made on or after 6th April 2008.
 
 (2) Sections 263 to 281 of the 1985 Act or Articles 271 to 289 of the 1986 Order continue to apply to distributions made before that date.
 
-**34.**[^key-41b2bfb32c59e41816ebd51c6a5b8126] Until section 1068(1) of the Companies Act 2006 comes into force—
+**34.**[^c-41b2bfb32c59e41816ebd51c6a5b8126] Until section 1068(1) of the Companies Act 2006 comes into force—
 
 - (a) the notice referred to in section 833(1)(a) (notice of intention to carry on business as investment company) must be in the form prescribed for the purposes of section 266(1) of the 1985 Act or Article 274(1) of the 1986 Order; and
 - (b) the notice referred to in section 833(4) (notice that company no longer wishes to be an investment company) must be in the form prescribed for the purposes of section 266(3) of the 1985 Act or Article 274(3) of the 1986 Order.
 
-**35.**[^key-a1c076a027db8abf3af0a98f38c61879] (1) The relevant accounts for the purposes of Chapter 2 of Part 23 of the Companies Act 2006 (justification of distribution by reference to accounts) may be accounts for financial years beginning before 6th April 2008 (to which the provisions of the 1985 Act or 1986 Order apply).
+**35.**[^c-a1c076a027db8abf3af0a98f38c61879] (1) The relevant accounts for the purposes of Chapter 2 of Part 23 of the Companies Act 2006 (justification of distribution by reference to accounts) may be accounts for financial years beginning before 6th April 2008 (to which the provisions of the 1985 Act or 1986 Order apply).
 
 (2) In that case the provisions of that Chapter and Chapter 3 of that Part (supplementary provisions) have effect with the following adaptations—
 
@@ -661,7 +661,7 @@ Sections 811(4), 812 and 814 of the Companies Act 2006 (inspection of register o
   - (iv) in subsection (4)(b)(i), for “section 423” substitute “section 238 of the Companies Act 1985 or Article 246 of the Companies (Northern Ireland) Order 1986”;
 - (c) in section 838—
   - (i) in subsection (4), for “sections 395 to 397” substitute “sections 226 to 226B of the Companies Act 1985 or Articles 234 to 234B of the Companies (Northern Ireland) Order 1986”;
-  - (ii) in subsection (5), for “section 414” substitute “ section[^key-9ca8128878c5244106296509affd0349] 233 of the Companies Act 1985 or Article 241 of the Companies (Northern Ireland) Order 1986”;
+  - (ii) in subsection (5), for “section 414” substitute “ section[^c-9ca8128878c5244106296509affd0349] 233 of the Companies Act 1985 or Article 241 of the Companies (Northern Ireland) Order 1986”;
   - (iii) in subsection (6), for “Part 35 of this Act” substitute “Part 24 of the Companies Act 1985 or Part 24 of the Companies (Northern Ireland) Order 1986”;
 - (d) in section 839—
   - (i) in subsection (4), for “sections 395 to 397” substitute “sections 226 to 226B of the Companies Act 1985 or Articles 234 to 234B of the Companies (Northern Ireland) Order 1986”;
@@ -671,13 +671,13 @@ Sections 811(4), 812 and 814 of the Companies Act 2006 (inspection of register o
 - (f) in section 844(3)(b)(i), for “the note required” to the end substitute “the note to the accounts required by paragraph 20 of Schedule 4 or paragraph 20 of Schedule 8 to the Companies Act 1985 or paragraph 20 of Schedule 4 or paragraph 20 of Schedule 8 to the Companies (Northern Ireland) Order 1986 (reasons for showing development costs as an asset)”;
 - (g) in section 846(2)(b), for “any provision of regulations under section 396” to the end substitute “paragraphs 12(a) and 34(3)(a) of Schedule 4 or paragraphs 12(a) or 34(3)(a) of Schedule 8 to the Companies Act 1985 or paragraphs 12(a) and 34(3)(a) of Schedule 4 or paragraphs 12(a) or 34(3)(a) of Schedule 8 to the Companies (Northern Ireland) Order 1986 (only realised profits to be included in or transferred to the profit and loss account)”.
 
-#### 36. Arrangements and reconstructions (ss.896 to 901)[^key-52c127e8b078adace6437f705ec6a6bf]
+#### 36. Arrangements and reconstructions (ss.896 to 901)[^c-52c127e8b078adace6437f705ec6a6bf]
 
 (1) Section 901 of the Companies Act 2006 (obligations of company with respect to articles etc) applies to orders of the court made on or after 6th April 2008, including orders made under section 425(2) or 427 of the 1985 Act or 418(2) or 420 of the 1986 Order.
 
 (2) Section 425(3) and (4) of the 1985 Act or Article 418(3) and (4) of the 1986 Order continues to apply to orders made before that date.
 
-#### 37. Statutory auditors (ss.1209 to 1241 and 1245 to 1264)[^key-6979765266bee9c92819a7b4b90d89c2]
+#### 37. Statutory auditors (ss.1209 to 1241 and 1245 to 1264)[^c-6979765266bee9c92819a7b4b90d89c2]
 
 (1) The following provisions of Chapter 2 of Part 42 of the Companies Act 2006 (statutory auditors: individuals and firms) apply to the appointment of auditors for financial years beginning on or after 6th April 2008—
 
@@ -687,22 +687,22 @@ Sections 811(4), 812 and 814 of the Companies Act 2006 (inspection of register o
 
 (2) Sections 25 to 28 of the Companies Act 1989[^f00010] or Articles 28 to 31 of the Companies (Northern Ireland) Order 1990[^f00011] continue to apply to auditors appointed for financial years beginning before that date.
 
-**38.**[^key-96898f709de4d3557582ccbf0e8cec19][^key-d025b25165a7044669933eb8cc77a767] (1) The following provisions of that Chapter apply in relation to the supervision and qualification of auditors appointed for financial years beginning on or after 6th April 2008—
+**38.**[^c-96898f709de4d3557582ccbf0e8cec19][^c-d025b25165a7044669933eb8cc77a767] (1) The following provisions of that Chapter apply in relation to the supervision and qualification of auditors appointed for financial years beginning on or after 6th April 2008—
 
 - (a) sections 1217 and 1218 and Schedule 10 (supervisory bodies);
 - (b) sections 1219 to 1222 and Schedule 11 (professional qualifications and qualifying bodies).
 
 (2) Sections 30 to 34 and 48 of, and Schedules 11 and 12 to, the Companies Act 1989 or Articles 33 to 36 and 50 of, and Schedules 11 and 12 to, the Companies (Northern Ireland) Order 1990 continue to apply in relation to the supervision and qualification of auditors appointed for financial years beginning before that date.
 
-(3) Any declaration by the Secretary of State in force under section 33 of the Companies Act 1989 or by the Department of Enterprise, Trade and Investment in force under[^key-bb883e7ede828f340a971ea34cd3ba57] Article 36 of the Companies (Northern Ireland) Order 1990 (approval of overseas qualifications) immediately before 6th April 2008 continues in force on and after that date as if made under section 1221 of the Companies Act 2006.
+(3) Any declaration by the Secretary of State in force under section 33 of the Companies Act 1989 or by the Department of Enterprise, Trade and Investment in force under[^c-bb883e7ede828f340a971ea34cd3ba57] Article 36 of the Companies (Northern Ireland) Order 1990 (approval of overseas qualifications) immediately before 6th April 2008 continues in force on and after that date as if made under section 1221 of the Companies Act 2006.
 
-**39.**[^key-3f9cadfadb2b2bdb0915160626793207] The repeal of sections 37 and 38 of the Companies Act 1989 (information to be provided to the Secretary of State) or Articles 39 and 40 of the Companies (Northern Ireland) Order 1990 (information to be provided to the Department of Enterprise, Trade and Investment) does not affect the operation of those provisions in relation to functions exercised under Part 2 of that Act or Part 3 of that Order on or after 6th April 2008.
+**39.**[^c-3f9cadfadb2b2bdb0915160626793207] The repeal of sections 37 and 38 of the Companies Act 1989 (information to be provided to the Secretary of State) or Articles 39 and 40 of the Companies (Northern Ireland) Order 1990 (information to be provided to the Department of Enterprise, Trade and Investment) does not affect the operation of those provisions in relation to functions exercised under Part 2 of that Act or Part 3 of that Order on or after 6th April 2008.
 
-**40.**[^key-6d771ced6d773da052acf1dd67a86cdb] (1) Section 1226(2) of the Companies Act 2006 (eligibility of Auditor General for appointment as statutory auditor) applies to appointment as a statutory auditor for financial years beginning on or after 1st April 2008.
+**40.**[^c-6d771ced6d773da052acf1dd67a86cdb] (1) Section 1226(2) of the Companies Act 2006 (eligibility of Auditor General for appointment as statutory auditor) applies to appointment as a statutory auditor for financial years beginning on or after 1st April 2008.
 
 (2) Sections 1229 and 1230 (supervision of Auditors General by the Independent Supervisor) apply accordingly.
 
-**41.**[^key-43e9b21814044880ffeb3e80de57d9d2] (1) The following provisions of Chapter 6 of Part 42 of the Companies Act 2006 (statutory auditors: supplementary and general provisions) apply to auditors, supervisory bodies or qualifying bodies to whom Chapters 2 to 5 of that Part apply—
+**41.**[^c-43e9b21814044880ffeb3e80de57d9d2] (1) The following provisions of Chapter 6 of Part 42 of the Companies Act 2006 (statutory auditors: supplementary and general provisions) apply to auditors, supervisory bodies or qualifying bodies to whom Chapters 2 to 5 of that Part apply—
 
 - (a) sections 1248 and 1249 (second audits);
 - (b) section 1250 (false and misleading statements);
@@ -715,11 +715,11 @@ Sections 811(4), 812 and 814 of the Companies Act 2006 (inspection of register o
 
 (3) The repeal of sections 52 to 54 of the Companies Act 1989 or Articles 54 to 56 of the Companies (Northern Ireland) Order 1990 (definitions) does not affect the operation of those provisions for the purposes of interpreting provisions of that Act or that Order that continue to apply on or after 6th April 2008.
 
-**42.**[^key-b5e469433e20db69574aa6c3636e7448] (1) The repeal of sections 46 and 46A of, and Schedule 13 to, the Companies Act 1989 (delegation of functions of Secretary of State) does not affect the operation of those provisions in relation to functions exercised under Part 2 of that Act on or after 6th April 2008.
+**42.**[^c-b5e469433e20db69574aa6c3636e7448] (1) The repeal of sections 46 and 46A of, and Schedule 13 to, the Companies Act 1989 (delegation of functions of Secretary of State) does not affect the operation of those provisions in relation to functions exercised under Part 2 of that Act on or after 6th April 2008.
 
 (2) The repeal of Articles 48 and 48A of, and Schedule 13 to, the Companies (Northern Ireland) Order 1990 (delegation of functions of Department of Enterprise, Trade and Investment) does not affect the operation of those provisions in relation to functions exercised under Part 3 of that Order on or after 6th April 2008.
 
-#### 43. Expenses of winding up (s. 1282)[^key-01eb6b089cab7fb1afd688e0e7e13b14]
+#### 43. Expenses of winding up (s. 1282)[^c-01eb6b089cab7fb1afd688e0e7e13b14]
 
 (1) The amendment made to the Insolvency Act 1986[^f00010] by section 1282(1) of the Companies Act 2006 (expenses of winding up) applies—
 
@@ -743,17 +743,17 @@ Sections 811(4), 812 and 814 of the Companies Act 2006 (inspection of register o
 - (b) to a members’ voluntary winding up for which the resolution is passed on or after 6th April 2008;
 - (c) to the winding up of a company by the court where the winding-up order is made on or after 6th April 2008, except where the order is made following a resolution for voluntary winding up passed by the company before 6th April 2008.
 
-#### 44. Repeal of provisions relating to prosecution of offences[^key-d7db46562ee20fb9b7153363668f242f]
+#### 44. Repeal of provisions relating to prosecution of offences[^c-d7db46562ee20fb9b7153363668f242f]
 
 The repeal of sections 732 to 734 of the 1985 Act or Articles 680 to 680B of the 1986 Order does not affect the operation of those provisions in relation to offences committed before 6th April 2008.
 
 ### PART 2 — PROVISIONS COMING INTO FORCE ON 29TH JUNE 2008
 
-**45.**[^key-82bb2b6192d3b8f173cfe454f4b5230e] Sections 1242 to 1244 of, and Schedule 12 to, the Companies Act 2006 (duties of third country auditors: information to be supplied by third country auditors) apply to third country auditors appointed for financial years beginning on or after 29th June 2008.
+**45.**[^c-82bb2b6192d3b8f173cfe454f4b5230e] Sections 1242 to 1244 of, and Schedule 12 to, the Companies Act 2006 (duties of third country auditors: information to be supplied by third country auditors) apply to third country auditors appointed for financial years beginning on or after 29th June 2008.
 
 ### PART 3 — PROVISIONS COMING INTO FORCE ON 1ST OCTOBER 2008
 
-#### 46. Requirement to have at least one director who is a natural person (s.155)[^key-c83a2429326ed530b1ec3afb92200320]
+#### 46. Requirement to have at least one director who is a natural person (s.155)[^c-c83a2429326ed530b1ec3afb92200320]
 
 If on 8th November 2006—
 
@@ -762,7 +762,7 @@ If on 8th November 2006—
 
 section 155 of the Companies Act 2006 (companies required to have at least one director who is a natural person) does not apply to the company until 1st October 2010.
 
-#### 47. Duty of directors to avoid conflicts of interest (s.175)[^key-1e0b7e2f5893613117d7599c18245056]
+#### 47. Duty of directors to avoid conflicts of interest (s.175)[^c-1e0b7e2f5893613117d7599c18245056]
 
 (1) Section 175 of the Companies Act 2006 (duty to avoid conflicts of interest) applies where the situation described in subsection (1) of that section arises on or after 1st October 2008.
 
@@ -777,7 +777,7 @@ section 155 of the Companies Act 2006 (companies required to have at least one d
 
 (5) For the purposes of section 30 of that Act (copies of resolutions to be forwarded to registrar) such a resolution passed before 1st October 2008 is treated as if passed on that date.
 
-#### 48. Declaration by directors of interest in proposed transaction or arrangement (s.177)[^key-a9ffdc53533a2ad5df0e219337187437]
+#### 48. Declaration by directors of interest in proposed transaction or arrangement (s.177)[^c-a9ffdc53533a2ad5df0e219337187437]
 
 (1) Section 177(1) of the Companies Act 2006 (duty of director to declare interest in proposed transaction or arrangement) applies where the duty to declare an interest arises on or after 1st October 2008.
 
@@ -785,11 +785,11 @@ section 155 of the Companies Act 2006 (companies required to have at least one d
 
 (3) For the purposes of section 177(3) of the Companies Act 2006 (previous declaration under that section proving or becoming inadequate), a declaration of interest in relation to a proposed transaction or arrangement made before 1st October 2008 under section 317 of the 1985 Act or Article 325 of the 1986 Order is treated on and after that date as if made under section 177 of the Companies Act 2006.
 
-#### 49. General duties of directors: approval by members (s.180(2))[^key-f03ad48762674efe7aa04dcd455ac3aa]
+#### 49. General duties of directors: approval by members (s.180(2))[^c-f03ad48762674efe7aa04dcd455ac3aa]
 
 The reference in section 180(2) of the Companies Act 2006 (exclusion of general duties where approval of members given) to approval given under Chapter 4 of Part 10 of that Act (transactions requiring approval of members) includes approval given by a resolution passed before 1st October 2007 that is effective by virtue of paragraph 6(2), 7(2), 8(2) or 12(2) of Schedule 3 to the Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007.
 
-#### 50. Declaration of interest in existing transaction or arrangement (ss.182 to 187)[^key-1c1c4ebb8495a8cc996837319408813b]
+#### 50. Declaration of interest in existing transaction or arrangement (ss.182 to 187)[^c-1c1c4ebb8495a8cc996837319408813b]
 
 (1) Sections 182 to 187 of the Companies Act 2006 (declaration by director of interest in existing transaction or arrangement) apply in relation to transactions or arrangements entered into by a company on or after 1st October 2008.
 
@@ -799,13 +799,13 @@ The reference in section 180(2) of the Companies Act 2006 (exclusion of general 
 
 (4) For the purposes of section 182(3) of the Companies Act 2006 (previous declaration under that section proving or becoming inadequate), a declaration of interest made before 1st October 2008 under section 317 of the 1985 Act or Article 325 of the 1986 Order is treated on and after that date as if made under section 182.
 
-#### 51. Repeal of prohibition on private companies giving financial assistance for acquisition of shares[^key-167b729cbf22277a89e8e9aa5664e1d2]
+#### 51. Repeal of prohibition on private companies giving financial assistance for acquisition of shares[^c-167b729cbf22277a89e8e9aa5664e1d2]
 
 (1) The repeal by this Order of sections 151 to 153 and 155 to 158 of the Companies Act 1985 or Articles 161 to 163 and 165 to 168 of the Companies (Northern Ireland) Order 1986 (financial assistance for acquisition of shares), to the extent specified in article 5(2) of this Order, applies in relation to financial assistance given on or after 1st October 2008.
 
 (2) This is so, in a case within section 151(2) or Article 161(2), even if the shares in question were acquired, and the liability in question incurred, before that date.
 
-**52.**[^key-14f8ab1edcd68a62c2be27237b20d008] (1) This paragraph applies to anything that would have been unlawful by reason of any rule of law if that rule had not ceased to have effect, or been modified, as a consequence of the enactment of—
+**52.**[^c-14f8ab1edcd68a62c2be27237b20d008] (1) This paragraph applies to anything that would have been unlawful by reason of any rule of law if that rule had not ceased to have effect, or been modified, as a consequence of the enactment of—
 
 - (a) any provision contained in section 151 to 153 or 155 to 158 of the 1985 Act or Article 161 to 163 or 165 to 168 of the 1986 Order (prohibition of financial assistance for acquisition of shares), or
 - (b) any former statutory provision substantially similar in effect to any such provision.
@@ -816,25 +816,25 @@ The reference in section 180(2) of the Companies Act 2006 (exclusion of general 
 
 Article 11
 
-### 1. Companies Act 2006 (Commencement No. 1, Transitional Provisions and Savings) Order 2006 ([S.I. 2006/3428 (C. 132)](https://www.legislation.gov.uk/uksi/2006/3428))[^key-983eb50e933e0fe9b504d76d4826e192]
+### 1. Companies Act 2006 (Commencement No. 1, Transitional Provisions and Savings) Order 2006 ([S.I. 2006/3428 (C. 132)](https://www.legislation.gov.uk/uksi/2006/3428))[^c-983eb50e933e0fe9b504d76d4826e192]
 
 In paragraph 2(4) of Schedule 5 to the Companies Act 2006 (Commencement No. 1, Transitional Provisions and Savings) Order 2006, for “are made” substitute “come into force”.
 
-### 2. Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 ([S.I. 2007/2194 (C. 84)](https://www.legislation.gov.uk/uksi/2007/2194))[^key-8d7cd90fb567997434b8a3d628489f70][^key-002c6319319fcb329c67ed42433a029a][^key-002c6319319fcb329c67ed42433a029a]
+### 2. Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 ([S.I. 2007/2194 (C. 84)](https://www.legislation.gov.uk/uksi/2007/2194))[^c-8d7cd90fb567997434b8a3d628489f70][^c-002c6319319fcb329c67ed42433a029a][^c-002c6319319fcb329c67ed42433a029a]
 
-(1)[^key-8d7cd90fb567997434b8a3d628489f70] The Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 is amended as follows.
+(1)[^c-8d7cd90fb567997434b8a3d628489f70] The Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 is amended as follows.
 
-(2)[^key-8d7cd90fb567997434b8a3d628489f70] In Part 1 of Schedule 2 omit the entry relating to section 734(1) of the Companies Act 1985[^key-181e69d2a952c3dc9c083923daa15ca6].
+(2)[^c-8d7cd90fb567997434b8a3d628489f70] In Part 1 of Schedule 2 omit the entry relating to section 734(1) of the Companies Act 1985[^c-181e69d2a952c3dc9c083923daa15ca6].
 
-(3)[^key-8d7cd90fb567997434b8a3d628489f70] In paragraphs 13(2) and 16(2) of Schedule 3, for “are made” substitute “come into force”.
+(3)[^c-8d7cd90fb567997434b8a3d628489f70] In paragraphs 13(2) and 16(2) of Schedule 3, for “are made” substitute “come into force”.
 
-(4)[^key-8d7cd90fb567997434b8a3d628489f70] In paragraph 23 of that Schedule (saving for extraordinary resolutions provided for under company’s memorandum or articles or under contract), make the existing provision sub-paragraph (1) and after it insert—
+(4)[^c-8d7cd90fb567997434b8a3d628489f70] In paragraph 23 of that Schedule (saving for extraordinary resolutions provided for under company’s memorandum or articles or under contract), make the existing provision sub-paragraph (1) and after it insert—
 
 > (2) Chapter 3 of Part 3 of the Companies Act 2006 (resolutions affecting a company’s constitution) applies to any such resolution.
 
 .
 
-(5)[^key-8d7cd90fb567997434b8a3d628489f70] After that paragraph insert—
+(5)[^c-8d7cd90fb567997434b8a3d628489f70] After that paragraph insert—
 
 > **23A.** (1) This paragraph applies where, immediately before 1st October 2007, the articles of a company provided that in the event of equality of votes on an ordinary resolution, whether on a show of hands or on a poll, the chairman should have a casting vote in addition to any other vote that the chairman might have.
 >
@@ -844,13 +844,13 @@ In paragraph 2(4) of Schedule 5 to the Companies Act 2006 (Commencement No. 1, T
 
 .
 
-(6)[^key-002c6319319fcb329c67ed42433a029a] In paragraph 32 of that Schedule, after sub-paragraph (3) add—
+(6)[^c-002c6319319fcb329c67ed42433a029a] In paragraph 32 of that Schedule, after sub-paragraph (3) add—
 
 > (4) A company is not to be treated as one whose articles expressly require it to hold an annual general meeting if immediately before 1st October 2007 there was in force in relation to the company a resolution under section 366A of the 1985 Act or Article 374A of the 1986 Order (election to dispense with annual general meetings).
 
 .
 
-(7)[^key-8d7cd90fb567997434b8a3d628489f70] After paragraph 51 of that Schedule insert—
+(7)[^c-8d7cd90fb567997434b8a3d628489f70] After paragraph 51 of that Schedule insert—
 
 > **52. Requirements as to form, authentication and manner of delivery**
 >
@@ -997,208 +997,208 @@ The provisions of the Companies Act 2006 in respect of which an entry is made in
 
 [^f00001]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-0dcf5a58414081e2cfad5d51c8d3bdbf]: Commencement: Art. 1 in force at made date
+[^c-0dcf5a58414081e2cfad5d51c8d3bdbf]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [1985 c.6](https://www.legislation.gov.uk/ukpga/1985/6).
 
 [^f00003]: Footnote: [S.I. 1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032).
 
-[^key-164c542ef55300929271a7b51b0f87b6]: Commencement: Art. 2 in force at made date
+[^c-164c542ef55300929271a7b51b0f87b6]: Commencement: Art. 2 in force at made date
 
-[^key-fbcd16f07ef17303277a39ab1fd065a9]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2007/3495/article/3) in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-fbcd16f07ef17303277a39ab1fd065a9]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2007/3495/article/3) in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
 [^f00004]: Footnote: Sections 384, 467 and 474 were amended by [S.I. 2007/2932](https://www.legislation.gov.uk/uksi/2007/2932), regulation 3.
 
 [^f00005]: Footnote: Sections 478, 481 and 539 were amended by [S.I. 2007/2932](https://www.legislation.gov.uk/uksi/2007/2932), regulation 3.
 
-[^key-8ffa0c178b8bc4e508582fd38275a2a8]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2007/3495/article/4) in force at 29.6.2008, see [art. 2(3)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/3)
+[^c-8ffa0c178b8bc4e508582fd38275a2a8]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2007/3495/article/4) in force at 29.6.2008, see [art. 2(3)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/3)
 
-[^key-e24ae12dff62e220efc07fcbab512790]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2007/3495/article/5) in force at 1.10.2008, see [art. 2(4)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/4)
+[^c-e24ae12dff62e220efc07fcbab512790]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2007/3495/article/5) in force at 1.10.2008, see [art. 2(4)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/4)
 
-[^key-a20a4bcf896789a380c96b939a00779f]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2007/3495/article/6) in force at 6.4.2008 for specified purposes, see [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/5/a)
+[^c-a20a4bcf896789a380c96b939a00779f]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2007/3495/article/6) in force at 6.4.2008 for specified purposes, see [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/5/a)
 
-[^key-b4564bbba4006a079ad3b172c47daebb]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2007/3495/article/6) in force at 29.6.2008 for specified purposes, see [art. 2(5)(b)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/5/b)
+[^c-b4564bbba4006a079ad3b172c47daebb]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2007/3495/article/6) in force at 29.6.2008 for specified purposes, see [art. 2(5)(b)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/5/b)
 
-[^key-3d674c14e572c0d109cc79fd020b8027]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2007/3495/article/6) in force at 1.10.2008 in so far as not already in force, see [art. 2(5)(c)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/5/c)
+[^c-3d674c14e572c0d109cc79fd020b8027]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2007/3495/article/6) in force at 1.10.2008 in so far as not already in force, see [art. 2(5)(c)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/5/c)
 
-[^key-841099e86aaff60fe0fc2ea6f9084aa3]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2007/3495/article/7) in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-841099e86aaff60fe0fc2ea6f9084aa3]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2007/3495/article/7) in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-8fd228466b8cf2b469540b97d94e2273]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2007/3495/article/8) in force at 6.4.2008 for specified purposes, see [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/5/a)
+[^c-8fd228466b8cf2b469540b97d94e2273]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2007/3495/article/8) in force at 6.4.2008 for specified purposes, see [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/5/a)
 
-[^key-e46b1cd5862d15c2be0285f02c15fa08]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2007/3495/article/8) in force at 29.6.2008 for specified purposes, see [art. 2(5)(b)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/5/b)
+[^c-e46b1cd5862d15c2be0285f02c15fa08]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2007/3495/article/8) in force at 29.6.2008 for specified purposes, see [art. 2(5)(b)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/5/b)
 
-[^key-568e79bcb1125a78ebe4614f1d6af695]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2007/3495/article/8) in force at 1.10.2008 in so far as not already in force, see [art. 2(5)(c)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/5/c)
+[^c-568e79bcb1125a78ebe4614f1d6af695]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2007/3495/article/8) in force at 1.10.2008 in so far as not already in force, see [art. 2(5)(c)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/5/c)
 
-[^key-8b368da17c030ba5de99b4e4a5de3dd7]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2007/3495/article/9) in force at 6.4.2008 for specified purposes, see [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/5/a)
+[^c-8b368da17c030ba5de99b4e4a5de3dd7]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2007/3495/article/9) in force at 6.4.2008 for specified purposes, see [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/5/a)
 
-[^key-b800d0eedf2f611abdbc0df9eedbcd6e]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2007/3495/article/9) in force at 29.6.2008 for specified purposes, see [art. 2(5)(b)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/5/b)
+[^c-b800d0eedf2f611abdbc0df9eedbcd6e]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2007/3495/article/9) in force at 29.6.2008 for specified purposes, see [art. 2(5)(b)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/5/b)
 
-[^key-e2e57ec22f29f5d74995fc21ffda2d0c]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2007/3495/article/9) in force at 1.10.2008 in so far as not already in force, see [art. 2(5)(c)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/5/c)
+[^c-e2e57ec22f29f5d74995fc21ffda2d0c]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2007/3495/article/9) in force at 1.10.2008 in so far as not already in force, see [art. 2(5)(c)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/5/c)
 
-[^key-4ea1cb330d81d61129ddbe17bd28c2f0]: Textual amendment: Word in art. 9(4) inserted (6.4.2008) by [The Companies Act 2006 (Commencement No. 6, Saving and Commencement Nos. 3 and 5 (Amendment)) Order 2008 (S.I. 2008/674)](https://www.legislation.gov.uk/uksi/2008/674), [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/674/article/2/3), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2008/674/schedule/3/paragraph/3) (with [art. 6](https://www.legislation.gov.uk/uksi/2008/674/article/6))
+[^c-4ea1cb330d81d61129ddbe17bd28c2f0]: Textual amendment: Word in art. 9(4) inserted (6.4.2008) by [The Companies Act 2006 (Commencement No. 6, Saving and Commencement Nos. 3 and 5 (Amendment)) Order 2008 (S.I. 2008/674)](https://www.legislation.gov.uk/uksi/2008/674), [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/674/article/2/3), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2008/674/schedule/3/paragraph/3) (with [art. 6](https://www.legislation.gov.uk/uksi/2008/674/article/6))
 
 [^M_I_a06a34e9-602b-4bc4-caf4-ad4ff6627a82]: Commencement: Art. 10(1) in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
 [^f00006]: Footnote: [S.I. 2006/3428 (C. 132)](https://www.legislation.gov.uk/uksi/2006/3428).
 
-[^key-18f4d73e19ba5a63e1e2e8ef42323b1c]: Modification: Art. 10(1)(b) modified (6.4.2008) by [The Companies Act 2006 (Commencement No. 6, Saving and Commencement Nos. 3 and 5 (Amendment)) Order 2008 (S.I. 2008/674)](https://www.legislation.gov.uk/uksi/2008/674), [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/674/article/2/3), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2008/674/schedule/3/paragraph/4) (with [art. 6](https://www.legislation.gov.uk/uksi/2008/674/article/6))
+[^c-18f4d73e19ba5a63e1e2e8ef42323b1c]: Modification: Art. 10(1)(b) modified (6.4.2008) by [The Companies Act 2006 (Commencement No. 6, Saving and Commencement Nos. 3 and 5 (Amendment)) Order 2008 (S.I. 2008/674)](https://www.legislation.gov.uk/uksi/2008/674), [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/674/article/2/3), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2008/674/schedule/3/paragraph/4) (with [art. 6](https://www.legislation.gov.uk/uksi/2008/674/article/6))
 
 [^f00007]: Footnote: [S.I. 2007/2194 (C. 84)](https://www.legislation.gov.uk/uksi/2007/2194).
 
 [^M_I_d3a5dea0-14d7-4f00-9281-d2134f3c6fe9]: Commencement: Art. 10(2) in force at 1.10.2008, see [art. 2(4)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/4)
 
-[^key-4f7c2aa171cd4d27d073df5fb297f544]: Commencement: Art. 10(3) in force at 6.4.2008 for specified purposes, see [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/5/a)
+[^c-4f7c2aa171cd4d27d073df5fb297f544]: Commencement: Art. 10(3) in force at 6.4.2008 for specified purposes, see [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/5/a)
 
-[^key-54c1cf8dbe1e794354f48b271dd6264a]: Commencement: Art. 10(3) in force at 29.6.2008 for specified purposes, see [art. 2(5)(b)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/5/b)
+[^c-54c1cf8dbe1e794354f48b271dd6264a]: Commencement: Art. 10(3) in force at 29.6.2008 for specified purposes, see [art. 2(5)(b)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/5/b)
 
-[^key-3d26da846e1d8d843d1cc34f9b63f7ee]: Commencement: Art. 10(3) in force at 1.10.2008 in so far as not already in force, see [art. 2(5)(c)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/5/c)
+[^c-3d26da846e1d8d843d1cc34f9b63f7ee]: Commencement: Art. 10(3) in force at 1.10.2008 in so far as not already in force, see [art. 2(5)(c)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/5/c)
 
-[^key-d3be741e3cad15d51fb7cdc0baea9024]: Commencement: Art. 11 in force at 31.12.2007 for specified purposes, see [art. 2(6)(a)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/6/a)
+[^c-d3be741e3cad15d51fb7cdc0baea9024]: Commencement: Art. 11 in force at 31.12.2007 for specified purposes, see [art. 2(6)(a)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/6/a)
 
-[^key-c729a0f1491ad866a5e05d022632b1a4]: Commencement: Art. 11 in force at 14.1.2008 in so far as not already in force, see [art. 2(6)(b)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/6/b)
+[^c-c729a0f1491ad866a5e05d022632b1a4]: Commencement: Art. 11 in force at 14.1.2008 in so far as not already in force, see [art. 2(6)(b)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/6/b)
 
-[^key-d82aab753af0c2602d796b83e59c4a46]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2007/3495/article/12) in force at 6.4.2008, see [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/5/a)
+[^c-d82aab753af0c2602d796b83e59c4a46]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2007/3495/article/12) in force at 6.4.2008, see [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/5/a)
 
-[^key-1539cf29f7d6954f769ee601a828f071]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2007/3495/article/12) in force at 29.6.2008 for specified purposes, see [art. 2(5)(b)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/5/b)
+[^c-1539cf29f7d6954f769ee601a828f071]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2007/3495/article/12) in force at 29.6.2008 for specified purposes, see [art. 2(5)(b)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/5/b)
 
-[^key-a46e39ba23e6eddfcd57386c3782aa0e]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2007/3495/article/12) in force at 1.10.2008 in so far as not already in force, see [art. 2(5)(c)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/5/c)
+[^c-a46e39ba23e6eddfcd57386c3782aa0e]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2007/3495/article/12) in force at 1.10.2008 in so far as not already in force, see [art. 2(5)(c)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/5/c)
 
 [^f00008]: Footnote: [S.I. 2001/1090](https://www.legislation.gov.uk/uksi/2001/1090).
 
 [^f00009]: Footnote: [S.R. (NI) 2004 No. 307](https://www.legislation.gov.uk/nisr/2004/307).
 
-[^key-2042ffaf3ed06a38182a8f4576e2c2c1]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2007/3495/schedule/1) revoked (1.10.2009) by [The Companies Act 2006 (Commencement No. 8, Transitional Provisions and Savings) Order 2008 (S.I. 2008/2860)](https://www.legislation.gov.uk/uksi/2008/2860), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2), [6](https://www.legislation.gov.uk/uksi/2008/2860/article/6) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions and savings in Sch. 2 are amended (1.10.2009) by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), [art. 18](https://www.legislation.gov.uk/uksi/2009/1802/article/18), [Sch.](https://www.legislation.gov.uk/uksi/2009/1802/schedule) and [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), [reg. 2](https://www.legislation.gov.uk/uksi/2009/2476/regulation/2))
+[^c-2042ffaf3ed06a38182a8f4576e2c2c1]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2007/3495/schedule/1) revoked (1.10.2009) by [The Companies Act 2006 (Commencement No. 8, Transitional Provisions and Savings) Order 2008 (S.I. 2008/2860)](https://www.legislation.gov.uk/uksi/2008/2860), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2), [6](https://www.legislation.gov.uk/uksi/2008/2860/article/6) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions and savings in Sch. 2 are amended (1.10.2009) by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), [art. 18](https://www.legislation.gov.uk/uksi/2009/1802/article/18), [Sch.](https://www.legislation.gov.uk/uksi/2009/1802/schedule) and [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), [reg. 2](https://www.legislation.gov.uk/uksi/2009/2476/regulation/2))
 
-[^key-27f1d3924ef116024c03697c6a784eed]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/3495/schedule/2/part/1) in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-27f1d3924ef116024c03697c6a784eed]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/3495/schedule/2/part/1) in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-f6d55fdaff40ee59c7f25c6878ad844d]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2007/3495/schedule/2/part/2) in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-f6d55fdaff40ee59c7f25c6878ad844d]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2007/3495/schedule/2/part/2) in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-724dc2e13c2fe6241c8f6ee1a25539cd]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2007/3495/schedule/3/part/1) in force at 1.10.2008, see [art. 2(4)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/4)
+[^c-724dc2e13c2fe6241c8f6ee1a25539cd]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2007/3495/schedule/3/part/1) in force at 1.10.2008, see [art. 2(4)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/4)
 
-[^key-a34cdb06db80f7e29916530c0f638d58]: Commencement: [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2007/3495/schedule/3/part/2) in force at 1.10.2008, see [art. 2(4)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/4)
+[^c-a34cdb06db80f7e29916530c0f638d58]: Commencement: [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2007/3495/schedule/3/part/2) in force at 1.10.2008, see [art. 2(4)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/4)
 
-[^key-269de0ec389c317512dcf55b6f012be3]: Commencement: Sch. 4 para. 1 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-269de0ec389c317512dcf55b6f012be3]: Commencement: Sch. 4 para. 1 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-85eb4610848544653ff7e1fb3d5ae196]: Commencement: Sch. 4 para. 2 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-85eb4610848544653ff7e1fb3d5ae196]: Commencement: Sch. 4 para. 2 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-987c0d026595f8d5e609c1273e8e00c9]: Textual amendment: Word in Sch. 4 para. 2(2) substituted (6.4.2008) by [The Companies Act 2006 (Commencement No. 6, Saving and Commencement Nos. 3 and 5 (Amendment)) Order 2008 (S.I. 2008/674)](https://www.legislation.gov.uk/uksi/2008/674), [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/674/article/2/3), [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/uksi/2008/674/schedule/3/paragraph/6/2)[(6)](https://www.legislation.gov.uk/uksi/2008/674/schedule/3/paragraph/6/6) (with [art. 6](https://www.legislation.gov.uk/uksi/2008/674/article/6))
+[^c-987c0d026595f8d5e609c1273e8e00c9]: Textual amendment: Word in Sch. 4 para. 2(2) substituted (6.4.2008) by [The Companies Act 2006 (Commencement No. 6, Saving and Commencement Nos. 3 and 5 (Amendment)) Order 2008 (S.I. 2008/674)](https://www.legislation.gov.uk/uksi/2008/674), [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/674/article/2/3), [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/uksi/2008/674/schedule/3/paragraph/6/2)[(6)](https://www.legislation.gov.uk/uksi/2008/674/schedule/3/paragraph/6/6) (with [art. 6](https://www.legislation.gov.uk/uksi/2008/674/article/6))
 
-[^key-73bc6f328ec0726ae4627932bfbb624e]: Commencement: Sch. 4 para. 3 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-73bc6f328ec0726ae4627932bfbb624e]: Commencement: Sch. 4 para. 3 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-aa242f76829d5ae4a41ab3cba30ea388]: Commencement: Sch. 4 para. 4 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-aa242f76829d5ae4a41ab3cba30ea388]: Commencement: Sch. 4 para. 4 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-14bed5c0ded65ad9f3ec0a4904e36923]: Commencement: Sch. 4 para. 5 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-14bed5c0ded65ad9f3ec0a4904e36923]: Commencement: Sch. 4 para. 5 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-acdba578572a6b92ab7aded22ba1c0e7]: Commencement: Sch. 4 para. 6 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-acdba578572a6b92ab7aded22ba1c0e7]: Commencement: Sch. 4 para. 6 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-d05107f25331dc9ac5277cd9a24ae010]: Commencement: Sch. 4 para. 7 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-d05107f25331dc9ac5277cd9a24ae010]: Commencement: Sch. 4 para. 7 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-44259756028c39830d9c1f59371ae826]: Commencement: Sch. 4 para. 8 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-44259756028c39830d9c1f59371ae826]: Commencement: Sch. 4 para. 8 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-6ce796860c3fae36acfa3f5815f3844d]: Commencement: Sch. 4 para. 9 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-6ce796860c3fae36acfa3f5815f3844d]: Commencement: Sch. 4 para. 9 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-b3754cdb8ae848e9787e78a397ae4a37]: Commencement: Sch. 4 para. 10 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-b3754cdb8ae848e9787e78a397ae4a37]: Commencement: Sch. 4 para. 10 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-123b3b66781c63630e35f7ba9b246d01]: Commencement: Sch. 4 para. 11 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-123b3b66781c63630e35f7ba9b246d01]: Commencement: Sch. 4 para. 11 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-1e12e43b6480b48e21052e159f1444c8]: Commencement: Sch. 4 para. 12 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-1e12e43b6480b48e21052e159f1444c8]: Commencement: Sch. 4 para. 12 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-6b659025401b2119c330e34021efac98]: Commencement: Sch. 4 para. 13 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-6b659025401b2119c330e34021efac98]: Commencement: Sch. 4 para. 13 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-731c3f59bb3ad296de6a15842646c05a]: Commencement: Sch. 4 para. 14 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-731c3f59bb3ad296de6a15842646c05a]: Commencement: Sch. 4 para. 14 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-8a1578baf4514cef5d93d8f3c746e5aa]: Commencement: Sch. 4 para. 15 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-8a1578baf4514cef5d93d8f3c746e5aa]: Commencement: Sch. 4 para. 15 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-4826e2ee89ec97375ea7927857dfe764]: Textual amendment: Sch. 4 para. 15(3) inserted (11.8.2008) by [The Companies Act 2006 (Commencement No. 7, Transitional Provisions and Savings) Order 2008 (S.I. 2008/1886)](https://www.legislation.gov.uk/uksi/2008/1886), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1886/article/1/2), [8](https://www.legislation.gov.uk/uksi/2008/1886/article/8)
+[^c-4826e2ee89ec97375ea7927857dfe764]: Textual amendment: Sch. 4 para. 15(3) inserted (11.8.2008) by [The Companies Act 2006 (Commencement No. 7, Transitional Provisions and Savings) Order 2008 (S.I. 2008/1886)](https://www.legislation.gov.uk/uksi/2008/1886), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1886/article/1/2), [8](https://www.legislation.gov.uk/uksi/2008/1886/article/8)
 
-[^key-8e0d5ee816fcb7a49ed77fe8e9dd3a7e]: Commencement: Sch. 4 para. 16 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-8e0d5ee816fcb7a49ed77fe8e9dd3a7e]: Commencement: Sch. 4 para. 16 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-0e549d618f9d1e8663a1637bab23db7f]: Commencement: Sch. 4 para. 17 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-0e549d618f9d1e8663a1637bab23db7f]: Commencement: Sch. 4 para. 17 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-e5beaf6d55e02430ce196e4955933d30]: Commencement: Sch. 4 para. 18 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-e5beaf6d55e02430ce196e4955933d30]: Commencement: Sch. 4 para. 18 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-1a376ea9d26e2a97b1d04cbb28c1c0c7]: Commencement: Sch. 4 para. 19 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-1a376ea9d26e2a97b1d04cbb28c1c0c7]: Commencement: Sch. 4 para. 19 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-08e97a88cd6144e9e0a6f84ddae1269b]: Commencement: Sch. 4 para. 20 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-08e97a88cd6144e9e0a6f84ddae1269b]: Commencement: Sch. 4 para. 20 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-2bd37c21b02c5149b3e0bbd6a1243a19]: Commencement: Sch. 4 para. 21 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-2bd37c21b02c5149b3e0bbd6a1243a19]: Commencement: Sch. 4 para. 21 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-ff5fffd1c83e607ec6065c1fb569a8f3]: Commencement: Sch. 4 para. 22 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-ff5fffd1c83e607ec6065c1fb569a8f3]: Commencement: Sch. 4 para. 22 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-72cc8308ac1c853d2b52a6c3cfa2ecc8]: Commencement: Sch. 4 para. 23 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-72cc8308ac1c853d2b52a6c3cfa2ecc8]: Commencement: Sch. 4 para. 23 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-317d05e5fcd95ee121e13476c8e0418c]: Commencement: Sch. 4 para. 24 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-317d05e5fcd95ee121e13476c8e0418c]: Commencement: Sch. 4 para. 24 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-2ba337a3f6ba01e561f0ee088b6c3d93]: Commencement: Sch. 4 para. 25 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-2ba337a3f6ba01e561f0ee088b6c3d93]: Commencement: Sch. 4 para. 25 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-6f0cab58e202c16bfa2d9a17892be8e5]: Commencement: Sch. 4 para. 26 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-6f0cab58e202c16bfa2d9a17892be8e5]: Commencement: Sch. 4 para. 26 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-7c8ed187012388785365a543a8646336]: Commencement: Sch. 4 para. 27 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-7c8ed187012388785365a543a8646336]: Commencement: Sch. 4 para. 27 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-989323d31764d3ac4e4b2f0c37cfcf7f]: Commencement: Sch. 4 para. 28 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-989323d31764d3ac4e4b2f0c37cfcf7f]: Commencement: Sch. 4 para. 28 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-7aaf14b43740baa9897eda2ff47f0597]: Commencement: Sch. 4 para. 29 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-7aaf14b43740baa9897eda2ff47f0597]: Commencement: Sch. 4 para. 29 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-fdfdcfaeac1894af7c0e40f6ee0574cd]: Commencement: Sch. 4 para. 30 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-fdfdcfaeac1894af7c0e40f6ee0574cd]: Commencement: Sch. 4 para. 30 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-dd785f6085f8b0d4f95a741daab5423d]: Commencement: Sch. 4 para. 31 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-dd785f6085f8b0d4f95a741daab5423d]: Commencement: Sch. 4 para. 31 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-afff9e3361bd56e244df15c92888862a]: Commencement: Sch. 4 para. 32 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-afff9e3361bd56e244df15c92888862a]: Commencement: Sch. 4 para. 32 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-841fe153f6d48ec3e63e3f41549d3ea2]: Commencement: Sch. 4 para. 33 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-841fe153f6d48ec3e63e3f41549d3ea2]: Commencement: Sch. 4 para. 33 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-41b2bfb32c59e41816ebd51c6a5b8126]: Commencement: Sch. 4 para. 34 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-41b2bfb32c59e41816ebd51c6a5b8126]: Commencement: Sch. 4 para. 34 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-a1c076a027db8abf3af0a98f38c61879]: Commencement: Sch. 4 para. 35 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-a1c076a027db8abf3af0a98f38c61879]: Commencement: Sch. 4 para. 35 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-9ca8128878c5244106296509affd0349]: Textual amendment: Word in Sch. 4 para. 35(2)(c)(ii) inserted (6.4.2008) by [The Companies Act 2006 (Commencement No. 6, Saving and Commencement Nos. 3 and 5 (Amendment)) Order 2008 (S.I. 2008/674)](https://www.legislation.gov.uk/uksi/2008/674), [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/674/article/2/3), [Sch. 3 para. 6(3)](https://www.legislation.gov.uk/uksi/2008/674/schedule/3/paragraph/6/3)[(6)](https://www.legislation.gov.uk/uksi/2008/674/schedule/3/paragraph/6/6) (with [art. 6](https://www.legislation.gov.uk/uksi/2008/674/article/6))
+[^c-9ca8128878c5244106296509affd0349]: Textual amendment: Word in Sch. 4 para. 35(2)(c)(ii) inserted (6.4.2008) by [The Companies Act 2006 (Commencement No. 6, Saving and Commencement Nos. 3 and 5 (Amendment)) Order 2008 (S.I. 2008/674)](https://www.legislation.gov.uk/uksi/2008/674), [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/674/article/2/3), [Sch. 3 para. 6(3)](https://www.legislation.gov.uk/uksi/2008/674/schedule/3/paragraph/6/3)[(6)](https://www.legislation.gov.uk/uksi/2008/674/schedule/3/paragraph/6/6) (with [art. 6](https://www.legislation.gov.uk/uksi/2008/674/article/6))
 
-[^key-52c127e8b078adace6437f705ec6a6bf]: Commencement: Sch. 4 para. 36 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-52c127e8b078adace6437f705ec6a6bf]: Commencement: Sch. 4 para. 36 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-6979765266bee9c92819a7b4b90d89c2]: Commencement: Sch. 4 para. 37 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-6979765266bee9c92819a7b4b90d89c2]: Commencement: Sch. 4 para. 37 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
 [^f00010]: Footnote: [1989 c.40](https://www.legislation.gov.uk/ukpga/1989/40).
 
 [^f00011]: Footnote: [S.I. 1990/593 (N.I. 5)](https://www.legislation.gov.uk/nisi/1990/593).
 
-[^key-96898f709de4d3557582ccbf0e8cec19]: Commencement: Sch. 4 para. 38 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-96898f709de4d3557582ccbf0e8cec19]: Commencement: Sch. 4 para. 38 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-d025b25165a7044669933eb8cc77a767]: Modification: [Sch. 4 para. 38](https://www.legislation.gov.uk/uksi/2007/3495/schedule/4/paragraph/38) excluded (15.11.2010) by [The Companies Act 2006 (Transfer of Audit Working Papers to Third Countries) Regulations 2010 (S.I. 2010/2537)](https://www.legislation.gov.uk/uksi/2010/2537), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2537/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2010/2537/regulation/8)
+[^c-d025b25165a7044669933eb8cc77a767]: Modification: [Sch. 4 para. 38](https://www.legislation.gov.uk/uksi/2007/3495/schedule/4/paragraph/38) excluded (15.11.2010) by [The Companies Act 2006 (Transfer of Audit Working Papers to Third Countries) Regulations 2010 (S.I. 2010/2537)](https://www.legislation.gov.uk/uksi/2010/2537), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2537/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2010/2537/regulation/8)
 
-[^key-bb883e7ede828f340a971ea34cd3ba57]: Textual amendment: Words in Sch. 4 para. 38(3) inserted (6.4.2008) by [The Companies Act 2006 (Commencement No. 6, Saving and Commencement Nos. 3 and 5 (Amendment)) Order 2008 (S.I. 2008/674)](https://www.legislation.gov.uk/uksi/2008/674), [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/674/article/2/3), [Sch. 3 para. 6(4)](https://www.legislation.gov.uk/uksi/2008/674/schedule/3/paragraph/6/4)[(6)](https://www.legislation.gov.uk/uksi/2008/674/schedule/3/paragraph/6/6) (with [art. 6](https://www.legislation.gov.uk/uksi/2008/674/article/6))
+[^c-bb883e7ede828f340a971ea34cd3ba57]: Textual amendment: Words in Sch. 4 para. 38(3) inserted (6.4.2008) by [The Companies Act 2006 (Commencement No. 6, Saving and Commencement Nos. 3 and 5 (Amendment)) Order 2008 (S.I. 2008/674)](https://www.legislation.gov.uk/uksi/2008/674), [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/674/article/2/3), [Sch. 3 para. 6(4)](https://www.legislation.gov.uk/uksi/2008/674/schedule/3/paragraph/6/4)[(6)](https://www.legislation.gov.uk/uksi/2008/674/schedule/3/paragraph/6/6) (with [art. 6](https://www.legislation.gov.uk/uksi/2008/674/article/6))
 
-[^key-3f9cadfadb2b2bdb0915160626793207]: Commencement: Sch. 4 para. 39 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-3f9cadfadb2b2bdb0915160626793207]: Commencement: Sch. 4 para. 39 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-6d771ced6d773da052acf1dd67a86cdb]: Commencement: Sch. 4 para. 40 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-6d771ced6d773da052acf1dd67a86cdb]: Commencement: Sch. 4 para. 40 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-43e9b21814044880ffeb3e80de57d9d2]: Commencement: Sch. 4 para. 41 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-43e9b21814044880ffeb3e80de57d9d2]: Commencement: Sch. 4 para. 41 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-b5e469433e20db69574aa6c3636e7448]: Commencement: Sch. 4 para. 42 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-b5e469433e20db69574aa6c3636e7448]: Commencement: Sch. 4 para. 42 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-01eb6b089cab7fb1afd688e0e7e13b14]: Textual amendment: Sch. 4 para. 43 substituted (6.4.2008) by [The Companies Act 2006 (Commencement No. 6, Saving and Commencement Nos. 3 and 5 (Amendment)) Order 2008 (S.I. 2008/674)](https://www.legislation.gov.uk/uksi/2008/674), [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/674/article/2/3), [Sch. 3 para. 6(5)](https://www.legislation.gov.uk/uksi/2008/674/schedule/3/paragraph/6/5)[(6)](https://www.legislation.gov.uk/uksi/2008/674/schedule/3/paragraph/6/6) (with [art. 6](https://www.legislation.gov.uk/uksi/2008/674/article/6))
+[^c-01eb6b089cab7fb1afd688e0e7e13b14]: Textual amendment: Sch. 4 para. 43 substituted (6.4.2008) by [The Companies Act 2006 (Commencement No. 6, Saving and Commencement Nos. 3 and 5 (Amendment)) Order 2008 (S.I. 2008/674)](https://www.legislation.gov.uk/uksi/2008/674), [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/674/article/2/3), [Sch. 3 para. 6(5)](https://www.legislation.gov.uk/uksi/2008/674/schedule/3/paragraph/6/5)[(6)](https://www.legislation.gov.uk/uksi/2008/674/schedule/3/paragraph/6/6) (with [art. 6](https://www.legislation.gov.uk/uksi/2008/674/article/6))
 
-[^key-d7db46562ee20fb9b7153363668f242f]: Commencement: Sch. 4 para. 44 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
+[^c-d7db46562ee20fb9b7153363668f242f]: Commencement: Sch. 4 para. 44 in force at 6.4.2008, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/2)
 
-[^key-82bb2b6192d3b8f173cfe454f4b5230e]: Commencement: [Sch. 4 para. 45](https://www.legislation.gov.uk/uksi/2007/3495/schedule/4/paragraph/45) in force at 29.6.2008, see [art. 2(3)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/3)
+[^c-82bb2b6192d3b8f173cfe454f4b5230e]: Commencement: [Sch. 4 para. 45](https://www.legislation.gov.uk/uksi/2007/3495/schedule/4/paragraph/45) in force at 29.6.2008, see [art. 2(3)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/3)
 
-[^key-c83a2429326ed530b1ec3afb92200320]: Commencement: Sch. 4 para. 46 in force at 1.10.2008, see [art. 2(4)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/4)
+[^c-c83a2429326ed530b1ec3afb92200320]: Commencement: Sch. 4 para. 46 in force at 1.10.2008, see [art. 2(4)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/4)
 
-[^key-1e0b7e2f5893613117d7599c18245056]: Commencement: Sch. 4 para. 47 in force at 1.10.2008, see [art. 2(4)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/4)
+[^c-1e0b7e2f5893613117d7599c18245056]: Commencement: Sch. 4 para. 47 in force at 1.10.2008, see [art. 2(4)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/4)
 
-[^key-a9ffdc53533a2ad5df0e219337187437]: Commencement: Sch. 4 para. 48 in force at 1.10.2008, see [art. 2(4)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/4)
+[^c-a9ffdc53533a2ad5df0e219337187437]: Commencement: Sch. 4 para. 48 in force at 1.10.2008, see [art. 2(4)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/4)
 
-[^key-f03ad48762674efe7aa04dcd455ac3aa]: Commencement: Sch. 4 para. 49 in force at 1.10.2008, see [art. 2(4)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/4)
+[^c-f03ad48762674efe7aa04dcd455ac3aa]: Commencement: Sch. 4 para. 49 in force at 1.10.2008, see [art. 2(4)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/4)
 
-[^key-1c1c4ebb8495a8cc996837319408813b]: Commencement: Sch. 4 para. 50 in force at 1.10.2008, see [art. 2(4)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/4)
+[^c-1c1c4ebb8495a8cc996837319408813b]: Commencement: Sch. 4 para. 50 in force at 1.10.2008, see [art. 2(4)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/4)
 
-[^key-167b729cbf22277a89e8e9aa5664e1d2]: Commencement: Sch. 4 para. 51 in force at 1.10.2008, see [art. 2(4)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/4)
+[^c-167b729cbf22277a89e8e9aa5664e1d2]: Commencement: Sch. 4 para. 51 in force at 1.10.2008, see [art. 2(4)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/4)
 
-[^key-14f8ab1edcd68a62c2be27237b20d008]: Commencement: Sch. 4 para. 52 in force at 1.10.2008, see [art. 2(4)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/4)
+[^c-14f8ab1edcd68a62c2be27237b20d008]: Commencement: Sch. 4 para. 52 in force at 1.10.2008, see [art. 2(4)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/4)
 
-[^key-983eb50e933e0fe9b504d76d4826e192]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2007/3495/schedule/5/paragraph/1) in force at 14.1.2008, see [art. 2(6)(b)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/6/b)
+[^c-983eb50e933e0fe9b504d76d4826e192]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2007/3495/schedule/5/paragraph/1) in force at 14.1.2008, see [art. 2(6)(b)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/6/b)
 
-[^key-8d7cd90fb567997434b8a3d628489f70]: Commencement: Sch. 5 para. 2(1)-(5)(7) in force at 14.1.2008, see [art. 2(6)(b)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/6/b)
+[^c-8d7cd90fb567997434b8a3d628489f70]: Commencement: Sch. 5 para. 2(1)-(5)(7) in force at 14.1.2008, see [art. 2(6)(b)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/6/b)
 
-[^key-002c6319319fcb329c67ed42433a029a]: Commencement: [Sch. 5 para. 2(6)](https://www.legislation.gov.uk/uksi/2007/3495/schedule/5/paragraph/2/6) in force at 31.12.2007, see [art. 2(6)(a)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/6/a)
+[^c-002c6319319fcb329c67ed42433a029a]: Commencement: [Sch. 5 para. 2(6)](https://www.legislation.gov.uk/uksi/2007/3495/schedule/5/paragraph/2/6) in force at 31.12.2007, see [art. 2(6)(a)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/6/a)
 
-[^key-181e69d2a952c3dc9c083923daa15ca6]: Textual amendment: Word in Sch. 5 para. 2(2) substituted (6.4.2008) by [The Companies Act 2006 (Commencement No. 6, Saving and Commencement Nos. 3 and 5 (Amendment)) Order 2008 (S.I. 2008/674)](https://www.legislation.gov.uk/uksi/2008/674), [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/674/article/2/3), [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2008/674/schedule/3/paragraph/7) (with [art. 6](https://www.legislation.gov.uk/uksi/2008/674/article/6))
+[^c-181e69d2a952c3dc9c083923daa15ca6]: Textual amendment: Word in Sch. 5 para. 2(2) substituted (6.4.2008) by [The Companies Act 2006 (Commencement No. 6, Saving and Commencement Nos. 3 and 5 (Amendment)) Order 2008 (S.I. 2008/674)](https://www.legislation.gov.uk/uksi/2008/674), [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/674/article/2/3), [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2008/674/schedule/3/paragraph/7) (with [art. 6](https://www.legislation.gov.uk/uksi/2008/674/article/6))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Creation[^c1967938][^key-9ee3b8f0bd5ac16a39368dbc3df1ec70][^key-3c68f22a98a67a7a2e9e0a2d1c51b421]
+## 6. Creation[^c1967938][^c-9ee3b8f0bd5ac16a39368dbc3df1ec70][^c-3c68f22a98a67a7a2e9e0a2d1c51b421]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ summary: ''
 
 [^c1967938]: Commencement: S. 6 partly in force; s. 6 not in force at Royal Assent see s. 56(1); s. 6(4) in force for certain purposes for W. at 12.8.2007 by [S.I. 2007/2386](https://www.legislation.gov.uk/uksi/2007/2386), [art. 2](https://www.legislation.gov.uk/uksi/2007/2386/article/2)
 
-[^key-9ee3b8f0bd5ac16a39368dbc3df1ec70]: Commencement: S. 6 in force at 1.10.2008 for specified purposes for E. by [S.I. 2008/1960](https://www.legislation.gov.uk/uksi/2008/1960), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2008/1960/article/2/1/b), [Sch.](https://www.legislation.gov.uk/uksi/2008/1960/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1960/article/3))
+[^c-9ee3b8f0bd5ac16a39368dbc3df1ec70]: Commencement: S. 6 in force at 1.10.2008 for specified purposes for E. by [S.I. 2008/1960](https://www.legislation.gov.uk/uksi/2008/1960), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2008/1960/article/2/1/b), [Sch.](https://www.legislation.gov.uk/uksi/2008/1960/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1960/article/3))
 
-[^key-3c68f22a98a67a7a2e9e0a2d1c51b421]: Commencement: S. 6 in force at 15.12.2014 for specified purposes for E. by [S.I. 2014/3026](https://www.legislation.gov.uk/uksi/2014/3026), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2014/3026/article/3/1/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2014/3026/article/5))
+[^c-3c68f22a98a67a7a2e9e0a2d1c51b421]: Commencement: S. 6 in force at 15.12.2014 for specified purposes for E. by [S.I. 2014/3026](https://www.legislation.gov.uk/uksi/2014/3026), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2014/3026/article/3/1/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2014/3026/article/5))

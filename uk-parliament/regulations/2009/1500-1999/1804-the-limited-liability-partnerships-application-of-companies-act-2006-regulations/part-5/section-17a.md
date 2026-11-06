@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17A. Alternative method of record-keeping (affected by repeal, see note) Notification of information about members[^key-1e2915de835ffeea1af295332bf555be][^key-a83a289bce8ad12f3d946d8cf4c93644]
+## 17A. Alternative method of record-keeping (affected by repeal, see note) Notification of information about members[^c-1e2915de835ffeea1af295332bf555be][^c-a83a289bce8ad12f3d946d8cf4c93644]
 
 *Extent: E+W+S+N.I.*
 
-Section 161A applies to *(affected by repeal, see note)*[^key-a83a289bce8ad12f3d946d8cf4c93644] LLPs *(affected by repeal, see note)*[^key-a83a289bce8ad12f3d946d8cf4c93644], modified so that it reads as follows— *(affected by repeal, see note)*[^key-a83a289bce8ad12f3d946d8cf4c93644]
+Section 161A applies to *(affected by repeal, see note)*[^c-a83a289bce8ad12f3d946d8cf4c93644] LLPs *(affected by repeal, see note)*[^c-a83a289bce8ad12f3d946d8cf4c93644], modified so that it reads as follows— *(affected by repeal, see note)*[^c-a83a289bce8ad12f3d946d8cf4c93644]
 
-> **161A. Alternative method of record-keeping (affected by repeal, see note)[^key-a83a289bce8ad12f3d946d8cf4c93644]**
+> **161A. Alternative method of record-keeping (affected by repeal, see note)[^c-a83a289bce8ad12f3d946d8cf4c93644]**
 >
-> Sections 162 to 165 must be read with Chapter 1A (which allows for an alternative method of record-keeping in the case of *(affected by repeal, see note)*[^key-a83a289bce8ad12f3d946d8cf4c93644] LLPs *(affected by repeal, see note)*[^key-a83a289bce8ad12f3d946d8cf4c93644]).
+> Sections 162 to 165 must be read with Chapter 1A (which allows for an alternative method of record-keeping in the case of *(affected by repeal, see note)*[^c-a83a289bce8ad12f3d946d8cf4c93644] LLPs *(affected by repeal, see note)*[^c-a83a289bce8ad12f3d946d8cf4c93644]).
 
 Sections 167G to 167L apply to LLPs, modified so that they read as follows—
 
@@ -92,12 +92,12 @@ Sections 167G to 167L apply to LLPs, modified so that they read as follows—
 >
 > (1) The required information about a member (or proposed member) who is an individual is—
 >
-> - (a)[^key-0d29351b2e216bfe367872e4484cd796] name and date of birth;
+> - (a)[^c-0d29351b2e216bfe367872e4484cd796] name and date of birth;
 > - (b) any relevant former names;
 > - (c) a service address (which may be stated as “The LLP’s registered office”);
 > - (d) usual residential address;
-> - (e) the part of the United Kingdom in which the individual is usually resident or, if the individual is usually resident in a country or state outside the United Kingdom, that country or state;[^key-bbba491b8117828307fb2cc2a142650b]
-> - (f)[^key-4f4f334e01f0a61b124738d0b8f0c95c] whether he is a designated member.
+> - (e) the part of the United Kingdom in which the individual is usually resident or, if the individual is usually resident in a country or state outside the United Kingdom, that country or state;[^c-bbba491b8117828307fb2cc2a142650b]
+> - (f)[^c-4f4f334e01f0a61b124738d0b8f0c95c] whether he is a designated member.
 >
 > (2) In subsection (1)(b) “**relevant former name**” means any former name other than—
 >
@@ -125,12 +125,12 @@ Sections 167G to 167L apply to LLPs, modified so that they read as follows—
 >
 > - (a) corporate or firm name;
 > - (b) principal office;
-> - (c)[^key-114d8655e58ef8bf8ece6aa5f64953c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (c)[^c-114d8655e58ef8bf8ece6aa5f64953c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 > - (d) in the case of a limited company that is a UK-registered company, the registered number;
 > - (e) in any other case, particulars of—
 >   - (i) the legal form of the body corporate or firm and the law by which it is governed, and
->   - (ii) if applicable, the register in which it is entered (including details of the state) and its registration number in that register;[^key-24cff442656de74b45635ea373499ca9]
-> - (f)[^key-6e4c0a9bde4a5b714605deecebfa8690] whether it is a designated member.
+>   - (ii) if applicable, the register in which it is entered (including details of the state) and its registration number in that register;[^c-24cff442656de74b45635ea373499ca9]
+> - (f)[^c-6e4c0a9bde4a5b714605deecebfa8690] whether it is a designated member.
 >
 > (2) In this section—
 >
@@ -153,18 +153,18 @@ Sections 167G to 167L apply to LLPs, modified so that they read as follows—
 
 ## Annotations
 
-[^key-1e2915de835ffeea1af295332bf555be]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/17A) inserted (30.6.2016) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016 (S.I. 2016/599)](https://www.legislation.gov.uk/uksi/2016/599), [reg. 1](https://www.legislation.gov.uk/uksi/2016/599/regulation/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2016/599/schedule/1/paragraph/2)
+[^c-1e2915de835ffeea1af295332bf555be]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/17A) inserted (30.6.2016) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016 (S.I. 2016/599)](https://www.legislation.gov.uk/uksi/2016/599), [reg. 1](https://www.legislation.gov.uk/uksi/2016/599/regulation/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2016/599/schedule/1/paragraph/2)
 
-[^key-a83a289bce8ad12f3d946d8cf4c93644]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/17A) substituted (18.11.2025 for specified purposes) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/2)[(4)(e)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/4/e), [6(2)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/6/2) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)(i)(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g/i/4)
+[^c-a83a289bce8ad12f3d946d8cf4c93644]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/17A) substituted (18.11.2025 for specified purposes) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/2)[(4)(e)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/4/e), [6(2)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/6/2) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)(i)(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g/i/4)
 
-[^key-0d29351b2e216bfe367872e4484cd796]: Textual amendment: Words in [reg. 17A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/17A) substituted (18.11.2025) by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/4/2/a/i); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
+[^c-0d29351b2e216bfe367872e4484cd796]: Textual amendment: Words in [reg. 17A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/17A) substituted (18.11.2025) by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/4/2/a/i); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
 
-[^key-bbba491b8117828307fb2cc2a142650b]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/17A): semicolon substituted for full stop (18.11.2025) by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/4/2/a/ii); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
+[^c-bbba491b8117828307fb2cc2a142650b]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/17A): semicolon substituted for full stop (18.11.2025) by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/4/2/a/ii); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
 
-[^key-4f4f334e01f0a61b124738d0b8f0c95c]: Textual amendment: Words in [reg. 17A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/17A) inserted (18.11.2025) by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [4(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/4/2/a/iii); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
+[^c-4f4f334e01f0a61b124738d0b8f0c95c]: Textual amendment: Words in [reg. 17A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/17A) inserted (18.11.2025) by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [4(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/4/2/a/iii); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
 
-[^key-114d8655e58ef8bf8ece6aa5f64953c7]: Textual amendment: Words in [reg. 17A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/17A) omitted (18.11.2025) by virtue of [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [4(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/4/2/b/i); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
+[^c-114d8655e58ef8bf8ece6aa5f64953c7]: Textual amendment: Words in [reg. 17A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/17A) omitted (18.11.2025) by virtue of [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [4(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/4/2/b/i); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
 
-[^key-24cff442656de74b45635ea373499ca9]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/17A): semicolon substituted for full stop (18.11.2025) by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [4(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/4/2/b/ii); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
+[^c-24cff442656de74b45635ea373499ca9]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/17A): semicolon substituted for full stop (18.11.2025) by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [4(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/4/2/b/ii); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
 
-[^key-6e4c0a9bde4a5b714605deecebfa8690]: Textual amendment: Words in [reg. 17A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/17A) inserted (18.11.2025) by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [4(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/4/2/b/iii); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
+[^c-6e4c0a9bde4a5b714605deecebfa8690]: Textual amendment: Words in [reg. 17A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/17A) inserted (18.11.2025) by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [4(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/4/2/b/iii); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)

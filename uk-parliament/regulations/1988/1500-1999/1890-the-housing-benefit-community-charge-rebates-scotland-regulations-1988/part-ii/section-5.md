@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Circumstances in which a person is to be treated as responsible or not responsible for another[^key-23e7297419a2e6c266681957ad22f037]
+## 5. Circumstances in which a person is to be treated as responsible or not responsible for another[^c-23e7297419a2e6c266681957ad22f037]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23e7297419a2e6c266681957ad22f037]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1988/1890/regulation/5) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-23e7297419a2e6c266681957ad22f037]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1988/1890/regulation/5) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

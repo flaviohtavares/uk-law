@@ -65,7 +65,7 @@ The Department of Agriculture, Environment and Rural Affairs, in exercise of the
 
 (2) Other terms used in these Regulations that are also used in Council Regulation 1782/2003, Council Regulation 73/2009 and Regulation 1307/2013 have the meaning that they bear in those Regulations.
 
-(3) Any reference in these Regulations to a Community instrument is a reference to that instrument as amended from time to time[^key-b6901fe1fd06cd2f22ae127d5218025f] .
+(3) Any reference in these Regulations to a Community instrument is a reference to that instrument as amended from time to time[^c-b6901fe1fd06cd2f22ae127d5218025f] .
 
 (4) A reference in these Regulations to anything done in writing or produced in written form includes a reference to an electronic communication which has been recorded and is consequently capable of being reproduced.
 
@@ -153,7 +153,7 @@ may be set off against the amount of any sum recoverable by the Department under
 
 (2) An authorised person may at all reasonable times, on producing, if so required, some duly authenticated document showing his authority, enter any land or premises, other than premises used solely for the purpose of a dwelling house, on which he has reasonable grounds to believe that documents or animals relating to an application are being kept.
 
-(3)[^key-0be936deff3f5db57586410c56f835b1] An authorised person entering any land or premises by virtue of this regulation may be accompanied by such other persons as the authorised person considers necessary.
+(3)[^c-0be936deff3f5db57586410c56f835b1] An authorised person entering any land or premises by virtue of this regulation may be accompanied by such other persons as the authorised person considers necessary.
 
 (4) An authorised person who enters any unoccupied premises must leave them as effectively secured as they were before entry.
 
@@ -268,7 +268,7 @@ Regulations 14 and 15 make it an offence to obstruct, fail to provide informatio
 
 [^c22868211]: Marginal citation: O.J. No. L 374, 20.12.2013, p. 608 as amended by Regulation (EU) 1310/2013 of the European Parliament and of the Council (O.J. No. L 347, 20.12.2013, p. 865)
 
-[^key-b6901fe1fd06cd2f22ae127d5218025f]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/nisr/2017/13/regulation/2/3) substituted (6.3.2019) by [The Agriculture (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/11)](https://www.legislation.gov.uk/nisr/2019/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/11/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2019/11/regulation/7)
+[^c-b6901fe1fd06cd2f22ae127d5218025f]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/nisr/2017/13/regulation/2/3) substituted (6.3.2019) by [The Agriculture (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/11)](https://www.legislation.gov.uk/nisr/2019/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/11/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2019/11/regulation/7)
 
 [^c22868221]: Marginal citation: [1954 c. 33](https://www.legislation.gov.uk/ukpga/1954/33)
 
@@ -278,7 +278,7 @@ Regulations 14 and 15 make it an offence to obstruct, fail to provide informatio
 
 [^c22868251]: Marginal citation: [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11)
 
-[^key-0be936deff3f5db57586410c56f835b1]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/nisr/2017/13/regulation/12/3) substituted (31.12.2020) by [The Agriculture, Food and Horse (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/347)](https://www.legislation.gov.uk/uksi/2019/347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/347/regulation/1), [12](https://www.legislation.gov.uk/uksi/2019/347/regulation/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0be936deff3f5db57586410c56f835b1]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/nisr/2017/13/regulation/12/3) substituted (31.12.2020) by [The Agriculture, Food and Horse (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/347)](https://www.legislation.gov.uk/uksi/2019/347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/347/regulation/1), [12](https://www.legislation.gov.uk/uksi/2019/347/regulation/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22868261]: Marginal citation: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675)
 

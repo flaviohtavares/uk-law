@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Appointment of local auditor[^key-f19402fba1d6c8c9b7b7ddbf2594976b][^key-19d69212a3a4edab2c273831898df620]
+## 7. Appointment of local auditor[^c-f19402fba1d6c8c9b7b7ddbf2594976b][^c-19d69212a3a4edab2c273831898df620]
 
 *Extent: E+W*
 
-(1)[^key-ebf9ba57e501ee5eeecf148f8ae0c804] A relevant authority must appoint a local auditor to audit its accounts for a financial year not later than 31 December in the preceding financial year.
+(1)[^c-ebf9ba57e501ee5eeecf148f8ae0c804] A relevant authority must appoint a local auditor to audit its accounts for a financial year not later than 31 December in the preceding financial year.
 
 (2) A relevant authority may appoint a local auditor to audit its accounts for more than one financial year; and in such a case—
 
@@ -47,7 +47,7 @@ summary: ''
 - (a) it may be exercised by both or all of them acting jointly or by such one or more of them as they may determine, and
 - (b) references (however expressed) to the local auditor by whom the function is or has been exercised are to the auditors by whom it is or has been exercised.
 
-(8)[^key-a800f753166337899e5b3054ba540e22] Schedule 3 makes further provision about the appointment of local auditors; and this section is subject to that Schedule and provision made under it. *(affected by repeal, see note)*[^key-a800f753166337899e5b3054ba540e22]
+(8)[^c-a800f753166337899e5b3054ba540e22] Schedule 3 makes further provision about the appointment of local auditors; and this section is subject to that Schedule and provision made under it. *(affected by repeal, see note)*[^c-a800f753166337899e5b3054ba540e22]
 
 (8) The Secretary of State may by regulations make provision about the appointment of a local auditor to audit the accounts of a health service body which is specified, or of a description specified, in the regulations.
 
@@ -58,10 +58,10 @@ summary: ''
 
 ## Annotations
 
-[^key-f19402fba1d6c8c9b7b7ddbf2594976b]: Commencement: S. 7(8) in force at 4.4.2014 for specified purposes by [S.I. 2014/900](https://www.legislation.gov.uk/uksi/2014/900), [art. 2(h)](https://www.legislation.gov.uk/uksi/2014/900/article/2/b)
+[^c-f19402fba1d6c8c9b7b7ddbf2594976b]: Commencement: S. 7(8) in force at 4.4.2014 for specified purposes by [S.I. 2014/900](https://www.legislation.gov.uk/uksi/2014/900), [art. 2(h)](https://www.legislation.gov.uk/uksi/2014/900/article/2/b)
 
-[^key-19d69212a3a4edab2c273831898df620]: Commencement: S. 7 in force at 1.4.2015 in so far as not already in force by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(f)](https://www.legislation.gov.uk/uksi/2015/841/article/3/f)
+[^c-19d69212a3a4edab2c273831898df620]: Commencement: S. 7 in force at 1.4.2015 in so far as not already in force by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(f)](https://www.legislation.gov.uk/uksi/2015/841/article/3/f)
 
-[^key-ebf9ba57e501ee5eeecf148f8ae0c804]: Modification: S. 7(1) modified (1.7.2022) by [The Health and Care Act 2022 (Commencement No. 2 and Transitional and Saving Provision) Regulations 2022 (S.I. 2022/734)](https://www.legislation.gov.uk/uksi/2022/734), [reg. 35](https://www.legislation.gov.uk/uksi/2022/734/regulation/35) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-ebf9ba57e501ee5eeecf148f8ae0c804]: Modification: S. 7(1) modified (1.7.2022) by [The Health and Care Act 2022 (Commencement No. 2 and Transitional and Saving Provision) Regulations 2022 (S.I. 2022/734)](https://www.legislation.gov.uk/uksi/2022/734), [reg. 35](https://www.legislation.gov.uk/uksi/2022/734/regulation/35) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-a800f753166337899e5b3054ba540e22]: Textual amendment: S. 7(8)(9) substituted for s. 7(8) (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 36 para. 3(8)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/36/paragraph/3/8)
+[^c-a800f753166337899e5b3054ba540e22]: Textual amendment: S. 7(8)(9) substituted for s. 7(8) (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 36 para. 3(8)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/36/paragraph/3/8)

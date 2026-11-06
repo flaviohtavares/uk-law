@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 72. Decisions upon further review[^key-b9b8d04575f91f4036e88d76fdb66b6f]
+## 72. Decisions upon further review[^c-b9b8d04575f91f4036e88d76fdb66b6f]
 
 *Extent: E+W+S*
 
@@ -26,15 +26,15 @@ summary: ''
 
 (3) In its application to a decision of a Review Board, the 52 week period referred to in regulation 69(5) (review of determinations) shall be calculated from the date that the appropriate authority either confirmed or revised its determination on review.
 
-(4)[^key-dcc2b02189c2a7100face9dcc4de6d5f] The Chairman of the Review Board shall—
+(4)[^c-dcc2b02189c2a7100face9dcc4de6d5f] The Chairman of the Review Board shall—
 
 - (a) record in writing all its decisions; and
 - (b) include in the record of every decision a statement of the reasons for such decisions and of its findings on questions of fact material thereto.
 
-(5)[^key-dcc2b02189c2a7100face9dcc4de6d5f] Within 7 days of the Review Board’s decision or, if that is not reasonably practicable, as soon as possible thereafter, a copy of the record of that decision made in accordance with this regulation shall be given or sent to every person affected.
+(5)[^c-dcc2b02189c2a7100face9dcc4de6d5f] Within 7 days of the Review Board’s decision or, if that is not reasonably practicable, as soon as possible thereafter, a copy of the record of that decision made in accordance with this regulation shall be given or sent to every person affected.
 
 ## Annotations
 
-[^key-b9b8d04575f91f4036e88d76fdb66b6f]: Commencement: [Reg. 72](https://www.legislation.gov.uk/uksi/1992/1814/regulation/72) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-b9b8d04575f91f4036e88d76fdb66b6f]: Commencement: [Reg. 72](https://www.legislation.gov.uk/uksi/1992/1814/regulation/72) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
-[^key-dcc2b02189c2a7100face9dcc4de6d5f]: Modification: [Reg. 72(4)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/72/4)[(5)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/72/5) applied (with modifications) (E.) (with application in accordance with reg. 3 of the amending S.I.) by [The Council Tax (Transitional Reduction Scheme) (England) Regulations 1993 (S.I. 1993/175)](https://www.legislation.gov.uk/uksi/1993/175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/175/regulation/1/1), [13(1)](https://www.legislation.gov.uk/uksi/1993/175/regulation/13/1)
+[^c-dcc2b02189c2a7100face9dcc4de6d5f]: Modification: [Reg. 72(4)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/72/4)[(5)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/72/5) applied (with modifications) (E.) (with application in accordance with reg. 3 of the amending S.I.) by [The Council Tax (Transitional Reduction Scheme) (England) Regulations 1993 (S.I. 1993/175)](https://www.legislation.gov.uk/uksi/1993/175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/175/regulation/1/1), [13(1)](https://www.legislation.gov.uk/uksi/1993/175/regulation/13/1)

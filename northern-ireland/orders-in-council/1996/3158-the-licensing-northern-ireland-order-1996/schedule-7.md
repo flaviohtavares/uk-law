@@ -33,7 +33,7 @@ Articles 30, 85.
 
 **4.** The notice mentioned in paragraph 2 shall be in such form and shall contain such information as may be prescribed by magistrates' courts rules.
 
-**4A.**[^key-ad9cbbd35238632b61ff8cc7717c394d] The district commander mentioned in paragraph 2(a) may appear at the hearing of the application to request that the licence be granted subject to the terms and conditions specified by the district commander.
+**4A.**[^c-ad9cbbd35238632b61ff8cc7717c394d] The district commander mentioned in paragraph 2(a) may appear at the hearing of the application to request that the licence be granted subject to the terms and conditions specified by the district commander.
 
 **5.** The sub-divisional commander mentioned in paragraph 2(a), the district council mentioned in paragraph 2(b) and any cautioner who has been given notice of the application under the provisions of paragraph 3, may appear at the hearing of the application and object to the granting of the licence on either of the following grounds—
 
@@ -44,4 +44,4 @@ Articles 30, 85.
 
 ## Annotations
 
-[^key-ad9cbbd35238632b61ff8cc7717c394d]: Textual amendment: [Sch. 7 para. 4A](https://www.legislation.gov.uk/nisi/1996/3158/schedule/7/paragraph/4A) inserted (6.4.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 22(1)](https://www.legislation.gov.uk/nia/2021/7/section/22/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
+[^c-ad9cbbd35238632b61ff8cc7717c394d]: Textual amendment: [Sch. 7 para. 4A](https://www.legislation.gov.uk/nisi/1996/3158/schedule/7/paragraph/4A) inserted (6.4.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 22(1)](https://www.legislation.gov.uk/nia/2021/7/section/22/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)

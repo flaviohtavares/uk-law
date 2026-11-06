@@ -32,8 +32,8 @@ summary: ''
 - (c) in Part VI, sections 55 to 57B[^c16335701] and 61 to 63,
 - (d) in Part VII, sections 66 to 68, and sections 69 and 70 so far as relating to those sections,
 - (e) Part VIII,
-- (eza)[^key-3678a9b579ee84293d07a757c4145ba2] Part 8A,
-- (ea)[^key-e65223d8d5b12327beae75ea2d911cd9] Part 8B,
+- (eza)[^c-3678a9b579ee84293d07a757c4145ba2] Part 8A,
+- (ea)[^c-e65223d8d5b12327beae75ea2d911cd9] Part 8B,
 - (f) in Part IX, sections 92 and 93 where they apply by virtue of section 92(4),
 - (g) Part X so far as relating to a dismissal which is treated as unfair—
   - (i)[^c16335711] by section 98B,[^c20081461] 99, 100, 101A(d) or 103, or by section 104 in its application in relation to time off under section 57A,
@@ -50,9 +50,9 @@ summary: ''
 
 [^c16335701]: Textual amendment: Words in s. 202(2)(c) substituted (15.12.1999) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [s. 9](https://www.legislation.gov.uk/ukpga/1999/26/section/9), [Sch. 4 Pt. III para. 36(b)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/4/part/III/paragraph/36/b); [S.I. 1999/2830](https://www.legislation.gov.uk/uksi/1999/2830), [art. 2(2)](https://www.legislation.gov.uk/uksi/1999/2830/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/1999/2830/schedule/1/part/II) (with [Sch. 3 paras. 10](https://www.legislation.gov.uk/uksi/1999/2830/schedule/3/paragraph/10), [11](https://www.legislation.gov.uk/uksi/1999/2830/schedule/3/paragraph/11))
 
-[^key-3678a9b579ee84293d07a757c4145ba2]: Textual amendment: S. 202(2)(eza) inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 9(7)](https://www.legislation.gov.uk/ukpga/2025/36/section/9/7), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(6)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/6)
+[^c-3678a9b579ee84293d07a757c4145ba2]: Textual amendment: S. 202(2)(eza) inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 9(7)](https://www.legislation.gov.uk/ukpga/2025/36/section/9/7), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(6)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/6)
 
-[^key-e65223d8d5b12327beae75ea2d911cd9]: Textual amendment: S. 202(2)(ea) inserted (4.12.2023) by [Carer’s Leave Act 2023 (c. 18)](https://www.legislation.gov.uk/ukpga/2023/18), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/18/section/3/3), [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2023/18/schedule/paragraph/14); [S.I. 2023/1283](https://www.legislation.gov.uk/uksi/2023/1283), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1283/regulation/2)
+[^c-e65223d8d5b12327beae75ea2d911cd9]: Textual amendment: S. 202(2)(ea) inserted (4.12.2023) by [Carer’s Leave Act 2023 (c. 18)](https://www.legislation.gov.uk/ukpga/2023/18), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/18/section/3/3), [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2023/18/schedule/paragraph/14); [S.I. 2023/1283](https://www.legislation.gov.uk/uksi/2023/1283), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1283/regulation/2)
 
 [^c16335711]: Textual amendment: S. 202(2)(g)(i) substituted (15.12.1999) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [s. 9](https://www.legislation.gov.uk/ukpga/1999/26/section/9), [Sch. 4 Pt. III para. 36(c)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/4/part/III/paragraph/36/c); [S.I. 1999/2830](https://www.legislation.gov.uk/uksi/1999/2830), [art. 2(2)](https://www.legislation.gov.uk/uksi/1999/2830/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/1999/2830/schedule/1/part/II) (with [Sch. 3 paras. 10](https://www.legislation.gov.uk/uksi/1999/2830/schedule/3/paragraph/10), [11](https://www.legislation.gov.uk/uksi/1999/2830/schedule/3/paragraph/11))
 

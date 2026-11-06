@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 105. Excessive contributions in pension-sharing cases: recovery orders[^key-0b943c9a6a59af220b42e5b2fcdd9272]
+## 105. Excessive contributions in pension-sharing cases: recovery orders[^c-0b943c9a6a59af220b42e5b2fcdd9272]
 
 *Extent: S*
 
@@ -59,4 +59,4 @@ is equal to the restoration amount.
 
 ## Annotations
 
-[^key-0b943c9a6a59af220b42e5b2fcdd9272]: Commencement: [S. 105](https://www.legislation.gov.uk/asp/2016/21/section/105) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-0b943c9a6a59af220b42e5b2fcdd9272]: Commencement: [S. 105](https://www.legislation.gov.uk/asp/2016/21/section/105) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

@@ -44,8 +44,8 @@ or to both.
 (6) A person guilty of an offence under subsection (4) is liable—
 
 - (a) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine, or to both,
-- (b) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-1b1d730d9b1c7fea90520311ded8885f] or to a fine not exceeding the statutory maximum, or to both.
+- (b) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-1b1d730d9b1c7fea90520311ded8885f] or to a fine not exceeding the statutory maximum, or to both.
 
 ## Annotations
 
-[^key-1b1d730d9b1c7fea90520311ded8885f]: Textual amendment: Words in [s. 204(6)(b)](https://www.legislation.gov.uk/ukpga/2006/41/section/204/6/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-1b1d730d9b1c7fea90520311ded8885f]: Textual amendment: Words in [s. 204(6)(b)](https://www.legislation.gov.uk/ukpga/2006/41/section/204/6/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table

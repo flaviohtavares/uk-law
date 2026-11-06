@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61B. The personal identifiers record[^key-f9eaa819b8eb1de883a9fe4143d05e01][^key-5fcd997269bdca2831707d9f9f1e32cd]
+## 61B. The personal identifiers record[^c-f9eaa819b8eb1de883a9fe4143d05e01][^c-5fcd997269bdca2831707d9f9f1e32cd]
 
 *Extent: S*
 
@@ -33,13 +33,13 @@ summary: ''
 
 (3) A returning officer may disclose information held in the personal identifiers record to–
 
-- (a) any candidate or agent attending proceedings on receipt of postal ballot papers, in accordance with and for the purposes referred to in regulation 85A[^key-f573c248cb9322c6a584267e83ed8d5b];
+- (a) any candidate or agent attending proceedings on receipt of postal ballot papers, in accordance with and for the purposes referred to in regulation 85A[^c-f573c248cb9322c6a584267e83ed8d5b];
 - (b) any person attending proceedings on receipt of postal ballot papers, who is entitled to do so by virtue of any of sections 6A to 6D of the Political Parties, Elections and Referendums Act 2000, but only to the extent required to permit them to observe the proceedings.
 
 ## Annotations
 
-[^key-f9eaa819b8eb1de883a9fe4143d05e01]: Modification: [Reg. 61B](https://www.legislation.gov.uk/uksi/2001/497/regulation/61B) modified (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 18](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/18)
+[^c-f9eaa819b8eb1de883a9fe4143d05e01]: Modification: [Reg. 61B](https://www.legislation.gov.uk/uksi/2001/497/regulation/61B) modified (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 18](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/18)
 
-[^key-5fcd997269bdca2831707d9f9f1e32cd]: Textual amendment: Reg. 61B inserted (8.2.2008) by [The Representation of the People (Scotland) (Amendment) Regulations 2008 (S.I. 2008/305)](https://www.legislation.gov.uk/uksi/2008/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/305/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2008/305/regulation/6)
+[^c-5fcd997269bdca2831707d9f9f1e32cd]: Textual amendment: Reg. 61B inserted (8.2.2008) by [The Representation of the People (Scotland) (Amendment) Regulations 2008 (S.I. 2008/305)](https://www.legislation.gov.uk/uksi/2008/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/305/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2008/305/regulation/6)
 
-[^key-f573c248cb9322c6a584267e83ed8d5b]: Textual amendment: Words in reg. 61B(3)(a) substituted (2.12.2015) by [The Representation of the People (Scotland) (Amendment) (No. 2) Regulations 2015 (S.I. 2015/1966)](https://www.legislation.gov.uk/uksi/2015/1966), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1966/regulation/1), [10](https://www.legislation.gov.uk/uksi/2015/1966/regulation/10)
+[^c-f573c248cb9322c6a584267e83ed8d5b]: Textual amendment: Words in reg. 61B(3)(a) substituted (2.12.2015) by [The Representation of the People (Scotland) (Amendment) (No. 2) Regulations 2015 (S.I. 2015/1966)](https://www.legislation.gov.uk/uksi/2015/1966), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1966/regulation/1), [10](https://www.legislation.gov.uk/uksi/2015/1966/regulation/10)

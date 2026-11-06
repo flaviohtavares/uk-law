@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Provision of services[^key-f6b697955700982f02497dde3cfd864d]
+## 16. Provision of services[^c-f6b697955700982f02497dde3cfd864d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Comptroller and Auditor General may provide services to any person in any pl
 
 ## Annotations
 
-[^key-f6b697955700982f02497dde3cfd864d]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2011/4/section/16) in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-f6b697955700982f02497dde3cfd864d]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2011/4/section/16) in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)

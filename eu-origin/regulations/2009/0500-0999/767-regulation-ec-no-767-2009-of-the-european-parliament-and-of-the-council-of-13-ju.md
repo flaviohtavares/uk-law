@@ -36,7 +36,7 @@ on the placing on the market and use of feed, amending European Parliament and C
 
 (Text with EEA relevance)
 
-[^key-41f753c50af4a9f43640e97a3236e5d5]
+[^c-41f753c50af4a9f43640e97a3236e5d5]
 
 THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
 
@@ -214,13 +214,13 @@ HAVE ADOPTED THIS REGULATION:
 
 ### Article 1. Objective
 
-The objective of this Regulation, in accordance with the general principles laid down in Regulation (EC) No 178/2002, is to harmonise the conditions for the placing on the market and the use of feed, in order to ensure a high level of feed safety and thus a high level of protection of public health, as well as to provide adequate information for users and consumers and to strengthen the effective functioning of the [^key-9b889775aa62716653b6a424c9689d82]... market.
+The objective of this Regulation, in accordance with the general principles laid down in Regulation (EC) No 178/2002, is to harmonise the conditions for the placing on the market and the use of feed, in order to ensure a high level of feed safety and thus a high level of protection of public health, as well as to provide adequate information for users and consumers and to strengthen the effective functioning of the [^c-9b889775aa62716653b6a424c9689d82]... market.
 
 ### Article 2. Scope
 
-1. This Regulation lays down rules on the placing on the market and use of feed for both food-producing and non-food producing animals within Great Britain[^key-a383a8458de95516152141256e2ae65d], including requirements for labelling, packaging and presentation.
+1. This Regulation lays down rules on the placing on the market and use of feed for both food-producing and non-food producing animals within Great Britain[^c-a383a8458de95516152141256e2ae65d], including requirements for labelling, packaging and presentation.
 
-2. This Regulation shall apply without prejudice to other [^key-b1080a51406de481970b3b6e7b477cdc]... provisions applicable in the field of animal nutrition, in particular:
+2. This Regulation shall apply without prejudice to other [^c-b1080a51406de481970b3b6e7b477cdc]... provisions applicable in the field of animal nutrition, in particular:
 
 - (a) Directive 90/167/EEC;
 - (b) Directive 2002/32/EC;
@@ -228,9 +228,9 @@ The objective of this Regulation, in accordance with the general principles laid
 - (d) Regulation (EC) No 1774/2002 of the European Parliament and of the Council of 3 October 2002 laying down health rules concerning animal by-products not intended for human consumption[^f00023];
 - (e) Regulation (EC) No 1829/2003 of the European Parliament and of the Council of 22 September 2003 on genetically modified food and feed[^f00024];
 - (f) Regulation (EC) No 1830/2003 of the European Parliament and of the Council of 22 September 2003 concerning the traceability and labelling of genetically modified organisms and the traceability of food and feed products produced from genetically modified organisms[^f00025];
-- (g) Regulation (EC) No 1831/2003; [^key-49d2ee99fe21f1e33eabf09f8f6922b0]...
+- (g) Regulation (EC) No 1831/2003; [^c-49d2ee99fe21f1e33eabf09f8f6922b0]...
 - (h) Council Regulation (EC) No 834/2007 of 28 June 2007 on organic production and labelling of organic products[^f00026].
-- (i)[^key-a2bfe9f5277dd7b44560af5714a982c1] in relation to England, the Genetic Technology (Precision Breeding) Act 2023 and regulations made under it.
+- (i)[^c-a2bfe9f5277dd7b44560af5714a982c1] in relation to England, the Genetic Technology (Precision Breeding) Act 2023 and regulations made under it.
 
 3. This Regulation shall not apply to water, either taken in directly by the animals or intentionally incorporated into feed. It shall, however, apply to feed designed to be administered in water.
 
@@ -246,10 +246,10 @@ The objective of this Regulation, in accordance with the general principles laid
 
 - (a) ‘feed-business operator’ means any natural or legal person responsible for ensuring that the requirements of this Regulation are met within the feed business under their control;
 - (b) ‘oral feeding of animals’ means the introduction of feed into an animal’s gastrointestinal tract through the mouth with the aim of meeting the animal’s nutritional needs and/or maintaining the productivity of normally healthy animals;
-- (c) ‘food-producing animal’ means any animal that is fed, bred or kept for the production of food for human consumption, including animals that are not used for human consumption, but that belong to a species that is normally used for human consumption in the Community or the United Kingdom[^key-4d48e93a3f168fe377d510c317e29c60];
+- (c) ‘food-producing animal’ means any animal that is fed, bred or kept for the production of food for human consumption, including animals that are not used for human consumption, but that belong to a species that is normally used for human consumption in the Community or the United Kingdom[^c-4d48e93a3f168fe377d510c317e29c60];
 - (d) ‘non-food producing animals’ means any animal that is fed, bred or kept but that is not used for human consumption, such as fur animals, pets and animals kept in laboratories, zoos or circuses;
 - (e) ‘fur animals’ means any non-food producing animal fed, bred or kept for the production of fur, and which is not used for human consumption;
-- (f) ‘pet’ or ‘pet animal’ means any non-food producing animal belonging to species fed, bred or kept, but not normally used for human consumption in the Community or the United Kingdom[^key-0f05d95a0a0e77ffa530bb31ded0a51d];
+- (f) ‘pet’ or ‘pet animal’ means any non-food producing animal belonging to species fed, bred or kept, but not normally used for human consumption in the Community or the United Kingdom[^c-0f05d95a0a0e77ffa530bb31ded0a51d];
 - (g) ‘feed materials’ means products of vegetable or animal origin, whose principal purpose is to meet animals’ nutritional needs, in their natural state, fresh or preserved, and products derived from the industrial processing thereof, and organic or inorganic substances, whether or not containing feed additives, which are intended for use in oral animal-feeding either directly as such, or after processing, or in the preparation of compound feed, or as carrier of premixtures;
 - (h) ‘compound feed’ means a mixture of at least two feed materials, whether or not containing feed additives, for oral animal-feeding in the form of complete or complementary feed;
 - (i) ‘complete feed’ means compound feed which, by reason of its composition, is sufficient for a daily ration;
@@ -265,7 +265,7 @@ The objective of this Regulation, in accordance with the general principles laid
 - (s) ‘labelling’ means the attribution of any words, particulars, trade marks, brand name, pictorial matter or symbol to a feed by placing this information on any medium referring to or accompanying such feed, such as packaging, container, notice, label, document, ring, collar or the Internet, including for advertising purposes;
 - (t) ‘label’ means any tag, brand, mark, pictorial or other descriptive matter, written, printed, stencilled, marked, embossed, impressed on, or attached to the packaging or the container of feed; and
 - (u) ‘presentation’ means the shape, appearance or packaging and the packaging materials used for the feed, further to the way in which it is arranged and the setting in which it is displayed.
-- (v)[^key-771ca43f3845ce6918d4ff83d9d3680c] “**prescribe**” means prescribe by regulations;
+- (v)[^c-771ca43f3845ce6918d4ff83d9d3680c] “**prescribe**” means prescribe by regulations;
 - (w) “**appropriate authority**” means—
   - (i) in relation to England, the Secretary of State;
   - (ii) in relation to Wales, the Welsh Ministers;
@@ -288,7 +288,7 @@ The requirements set out in Article 15 of Regulation (EC) No 178/2002 shall appl
 2. In addition to the requirements set out in paragraph 1 of this Article, feed business operators placing feed on the market shall ensure that the feed:
 
 - (a) is sound, genuine, unadulterated, fit for its purpose and of merchantable quality; and
-- (b) is labelled, packaged and presented in accordance with the provisions laid down in this Regulation and other applicable [^key-527a192ac69a6f8e70558e014daa9b92]... legislation.
+- (b) is labelled, packaged and presented in accordance with the provisions laid down in this Regulation and other applicable [^c-527a192ac69a6f8e70558e014daa9b92]... legislation.
 
 The requirements set out in Article 16 of Regulation (EC) No 178/2002 shall apply, *mutatis mutandis*, to feed for non-food producing animals.
 
@@ -306,11 +306,11 @@ The requirements set out in Article 16 of Regulation (EC) No 178/2002 shall appl
 
 1. Feed shall not contain or consist of materials whose placing on the market or use for animal nutritional purposes is restricted or prohibited. The list of such materials is set out in Annex III.
 
-2.[^key-84aca40a4e8688d82b226bccdb48e3eb] The appropriate authority may prescribe the list of materials whose placing on the market or use for animal nutritional purposes is restricted or prohibited taking into account in particular scientific evidence, technological developments or intelligence sharing systems or results of official controls pursuant to Regulation [(EC) No 882/2004](https://www.legislation.gov.uk/eur/2004/882).
+2.[^c-84aca40a4e8688d82b226bccdb48e3eb] The appropriate authority may prescribe the list of materials whose placing on the market or use for animal nutritional purposes is restricted or prohibited taking into account in particular scientific evidence, technological developments or intelligence sharing systems or results of official controls pursuant to Regulation [(EC) No 882/2004](https://www.legislation.gov.uk/eur/2004/882).
 
 ## CHAPTER 3 — PLACING ON THE MARKET OF SPECIFIC TYPES OF FEED
 
-### Article 7. Characteristics of types of feed[^key-812b8cf0d372bf1f785c7d2f54930005]
+### Article 7. Characteristics of types of feed[^c-812b8cf0d372bf1f785c7d2f54930005]
 
 The appropriate authority may, where necessary, prescribe whether a certain product constitutes feed for the purposes of this Regulation.
 
@@ -324,7 +324,7 @@ The appropriate authority may, where necessary, prescribe whether a certain prod
 
 Feed intended for particular nutritional purposes may only be marketed as such if its intended use is included in the list of intended uses established in accordance with Article 10 and if it meets the essential nutritional characteristics for the respective particular nutritional purpose set forth in that list.
 
-### Article 10. List of intended uses of feed intended for particular nutritional purposes[^key-14bb76de0d1ecb469f5ca75d0a36e687]
+### Article 10. List of intended uses of feed intended for particular nutritional purposes[^c-14bb76de0d1ecb469f5ca75d0a36e687]
 
 The appropriate authority may prescribe how the list of intended uses set out in Directive [2008/38/EC](https://www.legislation.gov.uk/eudr/2008/38) may be updated, to include—
 
@@ -343,7 +343,7 @@ The appropriate authority may prescribe how the list of intended uses set out in
 
 - (a) as to the intended use or characteristics of the feed, in particular, the nature, method of manufacture or production, properties, composition, quantity, durability, species or categories of animals for which it is intended;
 - (b) by attributing to the feed effects or characteristics that it does not possess or by suggesting that it possesses special characteristics when in fact all similar feeds possess such characteristics; or
-- (c)[^key-ec57943ff603097f999ce6ca0589d8a9] as to the compliance of the labelling with the Catalogue of Feed Materials and the Codes referred to in Articles 24 and 25.
+- (c)[^c-ec57943ff603097f999ce6ca0589d8a9] as to the compliance of the labelling with the Catalogue of Feed Materials and the Codes referred to in Articles 24 and 25.
 
 2. Feed materials or compound feed marketed in bulk or in unsealed packages or containers in accordance with Article 23(2) shall be accompanied by a document containing all mandatory labelling particulars required under this Regulation.
 
@@ -370,7 +370,7 @@ The appropriate authority may prescribe how the list of intended uses set out in
 1. The labelling and the presentation of feed materials and compound feed may draw particular attention to the presence or the absence of a substance in the feed, to a specific nutritional characteristic or process or to a specific function related to any of these, provided that the following conditions are met:
 
 - (a) the claim is objective, verifiable by the competent authorities and understandable by the user of the feed; and
-- (b)[^key-9bb74e66b5719b9c01dc8994effd8da6] the person responsible for the labelling provides, at the request of the competent authority, scientific substantiation of the claim, either by reference to publicly available scientific evidence or through documented company research. The scientific substantiation must be available at the time the feed is placed on the market. Purchasers must have the right to bring to the attention of the competent authority their doubts in respect of the truthfulness of the claim. Where the conclusion is reached that the claim is not sufficiently substantiated, the labelling in respect of such claim must be considered misleading for the purposes of Article 11. Where the competent authority has doubts regarding the scientific substantiation of the claim concerned, it may submit the issue to the appropriate authority.
+- (b)[^c-9bb74e66b5719b9c01dc8994effd8da6] the person responsible for the labelling provides, at the request of the competent authority, scientific substantiation of the claim, either by reference to publicly available scientific evidence or through documented company research. The scientific substantiation must be available at the time the feed is placed on the market. Purchasers must have the right to bring to the attention of the competent authority their doubts in respect of the truthfulness of the claim. Where the conclusion is reached that the claim is not sufficiently substantiated, the labelling in respect of such claim must be considered misleading for the purposes of Article 11. Where the competent authority has doubts regarding the scientific substantiation of the claim concerned, it may submit the issue to the appropriate authority.
 
 2. Without prejudice to paragraph 1, claims concerning optimisation of the nutrition and support or protection of the physiological conditions are permitted, unless they contain a claim of the type referred to in paragraph 3(a).
 
@@ -379,9 +379,9 @@ The appropriate authority may prescribe how the list of intended uses set out in
 - (a) it will prevent, treat or cure a disease, except for coccidiostats and histomonostats as authorised under Regulation (EC) No 1831/2003; this point shall not, however, apply to claims concerning nutritional imbalances provided that there is no pathological symptom associated therewith;
 - (b) it has a particular nutritional purpose, as provided for in the list of intended uses as referred to in Article 9, unless it satisfies the requirements laid down therein.
 
-4.[^key-f9b18a68b7bef2923bd69bfa7a57adc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.[^c-f9b18a68b7bef2923bd69bfa7a57adc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 14. Presentation of labelling particulars[^key-ec0702778dd8e30a00f24b248f62147a]
+### Article 14. Presentation of labelling particulars[^c-ec0702778dd8e30a00f24b248f62147a]
 
 1. The mandatory labelling particulars must be given in their entirety in a prominent place on the packaging, the container, on a label attached to it or on the accompanying document provided for in Article 11(2), in a conspicuous, clearly legible and indelible manner, in English or in English and Welsh.
 
@@ -406,8 +406,8 @@ A feed material or compound feed shall not be placed on the market unless the fo
 
 1. In addition to the requirements provided for in Article 15, the labelling of feed materials shall also include:
 
-- (a) the name of the feed material; the name shall be used in compliance with Article 24(2)[^key-18bb8b0af7edb3e64c6705d1eb2390c0]; and
-- (b)[^key-3e154138f4e89318cb6eba2938aefd2a] the compulsory declaration corresponding to the respective category as set out in the list in Annex 5; the compulsory declaration may be replaced by the particulars laid down in the Catalogue of Feed Materials referred to in Article 24 for each feed material in the respective category.
+- (a) the name of the feed material; the name shall be used in compliance with Article 24(2)[^c-18bb8b0af7edb3e64c6705d1eb2390c0]; and
+- (b)[^c-3e154138f4e89318cb6eba2938aefd2a] the compulsory declaration corresponding to the respective category as set out in the list in Annex 5; the compulsory declaration may be replaced by the particulars laid down in the Catalogue of Feed Materials referred to in Article 24 for each feed material in the respective category.
 
 2. In addition to the requirements provided for in paragraph 1, the labelling of feed materials shall include the following when additives are incorporated:
 
@@ -440,7 +440,7 @@ A feed material or compound feed shall not be placed on the market unless the fo
 
 3. In the event of any urgency relating to human or animal health or to the environment, and without prejudice to Directive 2004/48/EC, the competent authority may provide the purchaser with information that is available to it under Article 5(2), provided that, after having balanced the respective legitimate interests of the manufacturers and the purchasers, it concludes that the provision of such information is justified. If appropriate, the competent authority shall provide such information subject to the signing of a confidentiality clause by the purchaser.
 
-4.[^key-522405d7111766a93a3abbb3abd506c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.[^c-522405d7111766a93a3abbb3abd506c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Article 18. Additional mandatory labelling requirements for feed intended for particular nutritional purposes
 
@@ -457,7 +457,7 @@ On the label of pet food a free telephone number or other appropriate means of c
 - ((a)) the feed additives contained in the pet food; and
 - ((b)) the feed materials contained therein that are designated by category as referred to in Article 17(2)(c).
 
-### Article 20. Additional mandatory labelling requirements for non-compliant feed[^key-6350e32d611d61f5e495160515dd4bbd]
+### Article 20. Additional mandatory labelling requirements for non-compliant feed[^c-6350e32d611d61f5e495160515dd4bbd]
 
 1. In addition to the requirements laid down in Articles 15, 16, 17 and 18, feed which does not comply with the requirements set out in Annex 8, such as contaminated materials, must bear the labelling particulars laid down in that Annex.
 
@@ -479,13 +479,13 @@ On the label of pet food a free telephone number or other appropriate means of c
 
 7. For quantities of pet food sold in packages with several containers, the particulars referred to in Article 15(b), (c), (f) and (g) and Article 17(1)(b), (c), (e) and (f) may be given only on the outer packaging instead of on each container, provided that the combined total weight of the package does not exceed 10 kg.
 
-8.[^key-8285302a5e5cd7f1c8f58d23ba59b065] The appropriate authority may derogate from the provisions of this Regulation in respect of of feed intended for animals kept for scientific or experimental purposes on condition that such purpose is clearly indicated on the label.
+8.[^c-8285302a5e5cd7f1c8f58d23ba59b065] The appropriate authority may derogate from the provisions of this Regulation in respect of of feed intended for animals kept for scientific or experimental purposes on condition that such purpose is clearly indicated on the label.
 
 ### Article 22. Voluntary labelling
 
 1. In addition to the mandatory labelling requirements, the labelling of feed materials and compound feed may also include voluntary labelling particulars, provided that the general principles laid down in this Regulation are complied with.
 
-2.[^key-343fac2163261875b93ed8ebe830d399] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-343fac2163261875b93ed8ebe830d399] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Article 23. Packaging
 
@@ -501,9 +501,9 @@ On the label of pet food a free telephone number or other appropriate means of c
 - (f) quantities of compound feed not exceeding 50 kilograms in weight which are intended for the final user and are taken directly from a sealed package or container; and
 - (g) blocks or licks.
 
-## CHAPTER 5 — ... CATALOGUE OF FEED MATERIALS AND ... CODES OF GOOD LABELLING PRACTICE[^key-a1b851873de8675db740c366dd9187ca][^key-a1b851873de8675db740c366dd9187ca]
+## CHAPTER 5 — ... CATALOGUE OF FEED MATERIALS AND ... CODES OF GOOD LABELLING PRACTICE[^c-a1b851873de8675db740c366dd9187ca][^c-a1b851873de8675db740c366dd9187ca]
 
-### Article 24. Catalogue of feed materials[^key-6344754e573b0283eab947b14b07bb9a]
+### Article 24. Catalogue of feed materials[^c-6344754e573b0283eab947b14b07bb9a]
 
 1. A Catalogue of Feed Materials (the Catalogue) must be maintained by the appropriate authority. The Catalogue must include for each feed material listed at least the following particulars—
 
@@ -519,7 +519,7 @@ On the label of pet food a free telephone number or other appropriate means of c
 
 4. The appropriate authority may prescribe amendments to the Catalogue.
 
-### Article 25. Codes of good labelling practice[^key-39d11782900a500ba6e3d02df29776ca]
+### Article 25. Codes of good labelling practice[^c-39d11782900a500ba6e3d02df29776ca]
 
 1. The Food Safety Authority is to develop Codes of good labelling practice (the Codes), one for pet food and one for compound feed for food producing animals, which may include a section concerning compound feed for fur animals.
 
@@ -527,21 +527,21 @@ On the label of pet food a free telephone number or other appropriate means of c
 
 3. Use of the Codes by the feed business operators is voluntary. However, use of any of the Codes may be indicated on the labelling only on condition that all relevant provisions of such Code are complied with.
 
-### Article 26. Establishment of the Codes and amendments to the Community Catalogue and the Community Codes[^key-81c44f20eb6121899967f107b7ed67d1]
+### Article 26. Establishment of the Codes and amendments to the Community Catalogue and the Community Codes[^c-81c44f20eb6121899967f107b7ed67d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## CHAPTER 6 — GENERAL AND FINAL PROVISIONS
 
-### Article 27. Implementing measures[^key-1ea407414025be4c9b6cf54c6f88070a]
+### Article 27. Implementing measures[^c-1ea407414025be4c9b6cf54c6f88070a]
 
 The appropriate authority may prescribe amendments to the Annexes in order to adapt them in light of scientific and technological developments.
 
-### Article 28. Committee procedure[^key-79f814f9c6c129301b6ee288bc8480aa]
+### Article 28. Committee procedure[^c-79f814f9c6c129301b6ee288bc8480aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 28A. Regulations and devolved powers[^key-afb5525f7f4c84fe23ae78d9286e2885]
+### Article 28A. Regulations and devolved powers[^c-afb5525f7f4c84fe23ae78d9286e2885]
 
 (1.) Any power to make regulations under this Regulation—
 
@@ -599,7 +599,7 @@ Article 16 of Directive 70/524/EEC and Directives 79/373/EEC, 80/511/EEC, 82/471
 
 References to the repealed Directives and to the repealed Decision shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex IX.
 
-### Article 31. Penalties[^key-f8c23ccd732db49244413011ec941360]
+### Article 31. Penalties[^c-f8c23ccd732db49244413011ec941360]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -621,7 +621,7 @@ It shall apply from 1 September 2010.
 
 However, Articles 31 and 32 shall apply from the date of entry into force of this Regulation.
 
-[^key-9f2304dae0cd0da955713b173944af57]...
+[^c-9f2304dae0cd0da955713b173944af57]...
 
 ## ANNEX I — Technical provisions on impurities, milk replacer, feed materials for binding or denaturising, the ash level and moisture content as referred to in Article 4
 
@@ -672,7 +672,7 @@ Contents or levels indicated or to be declared relate to the weight of the feed,
 
 The numeric indication of dates shall follow the order of day, month and year and the format shall be indicated on the label by means of the following abbreviation: ‘DD/MM/YY’.
 
-3.[^key-c455788fb280d3caa80377a1316dbf3c]
+3.[^c-c455788fb280d3caa80377a1316dbf3c]
 
 In the designation of feed for pets, the expression ‘pet food’ shall be allowed.
 
@@ -709,7 +709,7 @@ Without affecting the analytical methods, for pet food the expression ‘crude p
 
 (1)
 
-The tolerances laid down in this Part include technical and analytical deviations. Once analytical tolerances covering measurement uncertainties and procedural variations are fixed [^key-3c88f140ecf641c59c8f94c86858dc37]..., the values set in point 2 should be adapted accordingly in order to cover only the technical tolerances.
+The tolerances laid down in this Part include technical and analytical deviations. Once analytical tolerances covering measurement uncertainties and procedural variations are fixed [^c-3c88f140ecf641c59c8f94c86858dc37]..., the values set in point 2 should be adapted accordingly in order to cover only the technical tolerances.
 
 (2)
 
@@ -979,7 +979,7 @@ Substances indicated under this heading, which are also sensory or nutritional a
 
 If the energy value and/or protein value are indicated, such indication shall be in accordance with Article 11 of Regulation (EC) No 882/2004.
 
-## ANNEX VIII — Specific provisions for the labelling of feed which does not comply with safety and marketing requirements under assimilated law as referred to in Article 20(1)[^key-10252041ab62be4651b1cb3a566be97f]
+## ANNEX VIII — Specific provisions for the labelling of feed which does not comply with safety and marketing requirements under assimilated law as referred to in Article 20(1)[^c-10252041ab62be4651b1cb3a566be97f]
 
 1\.
 
@@ -1058,7 +1058,7 @@ Without prejudice to point 1 and 2, former foodstuffs that need to be processed 
 
 ## Annotations
 
-[^key-41f753c50af4a9f43640e97a3236e5d5]: Modification: Regulation applied (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/959/schedule/1) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-41f753c50af4a9f43640e97a3236e5d5]: Modification: Regulation applied (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/959/schedule/1) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
 [^f00001]: Footnote: [OJ C 77, 31.3.2009, p. 84](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2009.077.01.0084.01.ENG).
 
@@ -1102,11 +1102,11 @@ Without prejudice to point 1 and 2, former foodstuffs that need to be processed 
 
 [^f00021]: Footnote: [OJ L 184, 17.7.1999, p. 23](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1999.184.01.0023.01.ENG).
 
-[^key-9b889775aa62716653b6a424c9689d82]: Textual amendment: Word in [Art. 1](https://www.legislation.gov.uk/eur/2009/767/article/1) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [93](https://www.legislation.gov.uk/uksi/2019/654/regulation/93); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9b889775aa62716653b6a424c9689d82]: Textual amendment: Word in [Art. 1](https://www.legislation.gov.uk/eur/2009/767/article/1) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [93](https://www.legislation.gov.uk/uksi/2019/654/regulation/93); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a383a8458de95516152141256e2ae65d]: Textual amendment: Words in Art. 2(1) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [94(a)](https://www.legislation.gov.uk/uksi/2019/654/regulation/94/a) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [12(17)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/12/17)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a383a8458de95516152141256e2ae65d]: Textual amendment: Words in Art. 2(1) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [94(a)](https://www.legislation.gov.uk/uksi/2019/654/regulation/94/a) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [12(17)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/12/17)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b1080a51406de481970b3b6e7b477cdc]: Textual amendment: Word in Art. 2(2) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [94(b)](https://www.legislation.gov.uk/uksi/2019/654/regulation/94/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b1080a51406de481970b3b6e7b477cdc]: Textual amendment: Word in Art. 2(2) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [94(b)](https://www.legislation.gov.uk/uksi/2019/654/regulation/94/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00022]: Footnote: [OJ L 147, 31.5.2001, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2001.147.01.0001.01.ENG).
 
@@ -1116,71 +1116,71 @@ Without prejudice to point 1 and 2, former foodstuffs that need to be processed 
 
 [^f00025]: Footnote: [OJ L 268, 18.10.2003, p. 24](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.268.01.0024.01.ENG).
 
-[^key-49d2ee99fe21f1e33eabf09f8f6922b0]: Textual amendment: Word in Art. 2(2)(g) omitted (13.11.2025) by virtue of [The Genetic Technology (Precision Breeding) Regulations 2025 (S.I. 2025/581)](https://www.legislation.gov.uk/uksi/2025/581), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/581/regulation/1/1), [Sch. 5 para. 7(2)(a)](https://www.legislation.gov.uk/uksi/2025/581/schedule/5/paragraph/7/2/a)
+[^c-49d2ee99fe21f1e33eabf09f8f6922b0]: Textual amendment: Word in Art. 2(2)(g) omitted (13.11.2025) by virtue of [The Genetic Technology (Precision Breeding) Regulations 2025 (S.I. 2025/581)](https://www.legislation.gov.uk/uksi/2025/581), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/581/regulation/1/1), [Sch. 5 para. 7(2)(a)](https://www.legislation.gov.uk/uksi/2025/581/schedule/5/paragraph/7/2/a)
 
 [^f00026]: Footnote: [OJ L 189, 20.7.2007, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.189.01.0001.01.ENG).
 
-[^key-a2bfe9f5277dd7b44560af5714a982c1]: Textual amendment: Art. 2(2)(i) inserted (13.11.2025) by [The Genetic Technology (Precision Breeding) Regulations 2025 (S.I. 2025/581)](https://www.legislation.gov.uk/uksi/2025/581), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/581/regulation/1/1), [Sch. 5 para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2025/581/schedule/5/paragraph/7/2/b)
+[^c-a2bfe9f5277dd7b44560af5714a982c1]: Textual amendment: Art. 2(2)(i) inserted (13.11.2025) by [The Genetic Technology (Precision Breeding) Regulations 2025 (S.I. 2025/581)](https://www.legislation.gov.uk/uksi/2025/581), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/581/regulation/1/1), [Sch. 5 para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2025/581/schedule/5/paragraph/7/2/b)
 
-[^key-4d48e93a3f168fe377d510c317e29c60]: Textual amendment: Words in Art. 3(2)(c) added (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [95(a)](https://www.legislation.gov.uk/uksi/2019/654/regulation/95/a) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [12(18)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/12/18)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4d48e93a3f168fe377d510c317e29c60]: Textual amendment: Words in Art. 3(2)(c) added (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [95(a)](https://www.legislation.gov.uk/uksi/2019/654/regulation/95/a) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [12(18)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/12/18)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0f05d95a0a0e77ffa530bb31ded0a51d]: Textual amendment: Words in Art. 3(2)(f) added (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [95(a)](https://www.legislation.gov.uk/uksi/2019/654/regulation/95/a) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [12(18)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/12/18)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0f05d95a0a0e77ffa530bb31ded0a51d]: Textual amendment: Words in Art. 3(2)(f) added (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [95(a)](https://www.legislation.gov.uk/uksi/2019/654/regulation/95/a) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [12(18)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/12/18)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-771ca43f3845ce6918d4ff83d9d3680c]: Textual amendment: Art. 3(2)(v)-(x) inserted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [95(b)](https://www.legislation.gov.uk/uksi/2019/654/regulation/95/b) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [12(18)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/12/18)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-771ca43f3845ce6918d4ff83d9d3680c]: Textual amendment: Art. 3(2)(v)-(x) inserted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [95(b)](https://www.legislation.gov.uk/uksi/2019/654/regulation/95/b) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [12(18)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/12/18)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-527a192ac69a6f8e70558e014daa9b92]: Textual amendment: Word in [Art. 4(2)(b)](https://www.legislation.gov.uk/eur/2009/767/article/4/2/b) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [96](https://www.legislation.gov.uk/uksi/2019/654/regulation/96); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-527a192ac69a6f8e70558e014daa9b92]: Textual amendment: Word in [Art. 4(2)(b)](https://www.legislation.gov.uk/eur/2009/767/article/4/2/b) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [96](https://www.legislation.gov.uk/uksi/2019/654/regulation/96); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-84aca40a4e8688d82b226bccdb48e3eb]: Textual amendment: Art. 6(2) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [97](https://www.legislation.gov.uk/uksi/2019/654/regulation/97) (as amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [12(19)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/12/19)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-84aca40a4e8688d82b226bccdb48e3eb]: Textual amendment: Art. 6(2) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [97](https://www.legislation.gov.uk/uksi/2019/654/regulation/97) (as amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [12(19)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/12/19)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-812b8cf0d372bf1f785c7d2f54930005]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/eur/2009/767/article/7) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [98](https://www.legislation.gov.uk/uksi/2019/654/regulation/98); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-812b8cf0d372bf1f785c7d2f54930005]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/eur/2009/767/article/7) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [98](https://www.legislation.gov.uk/uksi/2019/654/regulation/98); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-14bb76de0d1ecb469f5ca75d0a36e687]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/eur/2009/767/article/10) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [99](https://www.legislation.gov.uk/uksi/2019/654/regulation/99); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-14bb76de0d1ecb469f5ca75d0a36e687]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/eur/2009/767/article/10) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [99](https://www.legislation.gov.uk/uksi/2019/654/regulation/99); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ec57943ff603097f999ce6ca0589d8a9]: Textual amendment: [Art. 11(1)(c)](https://www.legislation.gov.uk/eur/2009/767/article/11/1/c) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [100](https://www.legislation.gov.uk/uksi/2019/654/regulation/100); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ec57943ff603097f999ce6ca0589d8a9]: Textual amendment: [Art. 11(1)(c)](https://www.legislation.gov.uk/eur/2009/767/article/11/1/c) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [100](https://www.legislation.gov.uk/uksi/2019/654/regulation/100); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00027]: Footnote: [OJ L 144, 4.6.1997, p. 19](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1997.144.01.0019.01.ENG).
 
-[^key-9bb74e66b5719b9c01dc8994effd8da6]: Textual amendment: [Art. 13(1)(b)](https://www.legislation.gov.uk/eur/2009/767/article/13/1/b) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [101(a)](https://www.legislation.gov.uk/uksi/2019/654/regulation/101/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9bb74e66b5719b9c01dc8994effd8da6]: Textual amendment: [Art. 13(1)(b)](https://www.legislation.gov.uk/eur/2009/767/article/13/1/b) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [101(a)](https://www.legislation.gov.uk/uksi/2019/654/regulation/101/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f9b18a68b7bef2923bd69bfa7a57adc2]: Textual amendment: [Art. 13(4)](https://www.legislation.gov.uk/eur/2009/767/article/13/4) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [101(b)](https://www.legislation.gov.uk/uksi/2019/654/regulation/101/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f9b18a68b7bef2923bd69bfa7a57adc2]: Textual amendment: [Art. 13(4)](https://www.legislation.gov.uk/eur/2009/767/article/13/4) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [101(b)](https://www.legislation.gov.uk/uksi/2019/654/regulation/101/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ec0702778dd8e30a00f24b248f62147a]: Textual amendment: [Art. 14](https://www.legislation.gov.uk/eur/2009/767/article/14) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [102](https://www.legislation.gov.uk/uksi/2019/654/regulation/102); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ec0702778dd8e30a00f24b248f62147a]: Textual amendment: [Art. 14](https://www.legislation.gov.uk/eur/2009/767/article/14) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [102](https://www.legislation.gov.uk/uksi/2019/654/regulation/102); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-18bb8b0af7edb3e64c6705d1eb2390c0]: Textual amendment: Word in [Art. 16(1)(a)](https://www.legislation.gov.uk/eur/2009/767/article/16/1/a) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [18(2)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/18/2)
+[^c-18bb8b0af7edb3e64c6705d1eb2390c0]: Textual amendment: Word in [Art. 16(1)(a)](https://www.legislation.gov.uk/eur/2009/767/article/16/1/a) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [18(2)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/18/2)
 
-[^key-3e154138f4e89318cb6eba2938aefd2a]: Textual amendment: [Art. 16(1)(b)](https://www.legislation.gov.uk/eur/2009/767/article/16/1/b) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [103](https://www.legislation.gov.uk/uksi/2019/654/regulation/103); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3e154138f4e89318cb6eba2938aefd2a]: Textual amendment: [Art. 16(1)(b)](https://www.legislation.gov.uk/eur/2009/767/article/16/1/b) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [103](https://www.legislation.gov.uk/uksi/2019/654/regulation/103); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-522405d7111766a93a3abbb3abd506c9]: Textual amendment: [Art. 17(4)](https://www.legislation.gov.uk/eur/2009/767/article/17/4) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [104](https://www.legislation.gov.uk/uksi/2019/654/regulation/104); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-522405d7111766a93a3abbb3abd506c9]: Textual amendment: [Art. 17(4)](https://www.legislation.gov.uk/eur/2009/767/article/17/4) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [104](https://www.legislation.gov.uk/uksi/2019/654/regulation/104); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6350e32d611d61f5e495160515dd4bbd]: Textual amendment: [Art. 20](https://www.legislation.gov.uk/eur/2009/767/article/20) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [105](https://www.legislation.gov.uk/uksi/2019/654/regulation/105); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6350e32d611d61f5e495160515dd4bbd]: Textual amendment: [Art. 20](https://www.legislation.gov.uk/eur/2009/767/article/20) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [105](https://www.legislation.gov.uk/uksi/2019/654/regulation/105); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8285302a5e5cd7f1c8f58d23ba59b065]: Textual amendment: [Art. 21(8)](https://www.legislation.gov.uk/eur/2009/767/article/21/8) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [106](https://www.legislation.gov.uk/uksi/2019/654/regulation/106); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8285302a5e5cd7f1c8f58d23ba59b065]: Textual amendment: [Art. 21(8)](https://www.legislation.gov.uk/eur/2009/767/article/21/8) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [106](https://www.legislation.gov.uk/uksi/2019/654/regulation/106); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-343fac2163261875b93ed8ebe830d399]: Textual amendment: [Art. 22(2)](https://www.legislation.gov.uk/eur/2009/767/article/22/2) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [107](https://www.legislation.gov.uk/uksi/2019/654/regulation/107); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-343fac2163261875b93ed8ebe830d399]: Textual amendment: [Art. 22(2)](https://www.legislation.gov.uk/eur/2009/767/article/22/2) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [107](https://www.legislation.gov.uk/uksi/2019/654/regulation/107); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a1b851873de8675db740c366dd9187ca]: Textual amendment: Word in Ch. 5 heading omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [108](https://www.legislation.gov.uk/uksi/2019/654/regulation/108); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a1b851873de8675db740c366dd9187ca]: Textual amendment: Word in Ch. 5 heading omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [108](https://www.legislation.gov.uk/uksi/2019/654/regulation/108); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6344754e573b0283eab947b14b07bb9a]: Textual amendment: Art. 24 substituted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [109](https://www.legislation.gov.uk/uksi/2019/654/regulation/109), [110](https://www.legislation.gov.uk/uksi/2019/654/regulation/110); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6344754e573b0283eab947b14b07bb9a]: Textual amendment: Art. 24 substituted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [109](https://www.legislation.gov.uk/uksi/2019/654/regulation/109), [110](https://www.legislation.gov.uk/uksi/2019/654/regulation/110); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-39d11782900a500ba6e3d02df29776ca]: Textual amendment: Art. 25 substituted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [111](https://www.legislation.gov.uk/uksi/2019/654/regulation/111), [112](https://www.legislation.gov.uk/uksi/2019/654/regulation/112); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-39d11782900a500ba6e3d02df29776ca]: Textual amendment: Art. 25 substituted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [111](https://www.legislation.gov.uk/uksi/2019/654/regulation/111), [112](https://www.legislation.gov.uk/uksi/2019/654/regulation/112); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-81c44f20eb6121899967f107b7ed67d1]: Textual amendment: [Art. 26](https://www.legislation.gov.uk/eur/2009/767/article/26) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [113](https://www.legislation.gov.uk/uksi/2019/654/regulation/113); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-81c44f20eb6121899967f107b7ed67d1]: Textual amendment: [Art. 26](https://www.legislation.gov.uk/eur/2009/767/article/26) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [113](https://www.legislation.gov.uk/uksi/2019/654/regulation/113); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1ea407414025be4c9b6cf54c6f88070a]: Textual amendment: [Art. 27](https://www.legislation.gov.uk/eur/2009/767/article/27) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [114](https://www.legislation.gov.uk/uksi/2019/654/regulation/114); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1ea407414025be4c9b6cf54c6f88070a]: Textual amendment: [Art. 27](https://www.legislation.gov.uk/eur/2009/767/article/27) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [114](https://www.legislation.gov.uk/uksi/2019/654/regulation/114); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-79f814f9c6c129301b6ee288bc8480aa]: Textual amendment: [Art. 28](https://www.legislation.gov.uk/eur/2009/767/article/28) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [115](https://www.legislation.gov.uk/uksi/2019/654/regulation/115); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-79f814f9c6c129301b6ee288bc8480aa]: Textual amendment: [Art. 28](https://www.legislation.gov.uk/eur/2009/767/article/28) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [115](https://www.legislation.gov.uk/uksi/2019/654/regulation/115); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-afb5525f7f4c84fe23ae78d9286e2885]: Textual amendment: Art. 28A inserted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [116](https://www.legislation.gov.uk/uksi/2019/654/regulation/116) (as amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [12(21)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/12/21)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-afb5525f7f4c84fe23ae78d9286e2885]: Textual amendment: Art. 28A inserted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [116](https://www.legislation.gov.uk/uksi/2019/654/regulation/116) (as amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [12(21)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/12/21)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00028]: Footnote: [OJ L 35, 8.2.2005, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.035.01.0001.01.ENG).’;
 
 [^f00029]: Footnote: [OJ L 229, 1.9.2009, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.229.01.0001.01.ENG).’.
 
-[^key-f8c23ccd732db49244413011ec941360]: Textual amendment: [Art. 31](https://www.legislation.gov.uk/eur/2009/767/article/31) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [117](https://www.legislation.gov.uk/uksi/2019/654/regulation/117); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f8c23ccd732db49244413011ec941360]: Textual amendment: [Art. 31](https://www.legislation.gov.uk/eur/2009/767/article/31) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [117](https://www.legislation.gov.uk/uksi/2019/654/regulation/117); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9f2304dae0cd0da955713b173944af57]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2009/767/signature) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [118](https://www.legislation.gov.uk/uksi/2019/654/regulation/118); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9f2304dae0cd0da955713b173944af57]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2009/767/signature) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [118](https://www.legislation.gov.uk/uksi/2019/654/regulation/118); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c455788fb280d3caa80377a1316dbf3c]: Textual amendment: [Annex 2](https://www.legislation.gov.uk/eur/2009/767/annex/II) point 3 inserted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [18(3)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/18/3)
+[^c-c455788fb280d3caa80377a1316dbf3c]: Textual amendment: [Annex 2](https://www.legislation.gov.uk/eur/2009/767/annex/II) point 3 inserted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [18(3)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/18/3)
 
 [^c000002]: Textual amendment: Substituted by [Commission Regulation (EU) 2018/1903 of 5 December 2018 correcting Annexes IV, VI and VII to Regulation (EC) No 767/2009 of the European Parliament and of the Council on the placing on the market and use of feed, and correcting certain language versions of Annexes II, IV, V and VI to that Regulation (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2018/1903).
 
@@ -1200,7 +1200,7 @@ Without prejudice to point 1 and 2, former foodstuffs that need to be processed 
 
 [^c000001]: Textual amendment: Substituted by [Commission Regulation (EU) 2017/2279 of 11 December 2017 amending Annexes II, IV, VI, VII and VIII to Regulation (EC) No 767/2009 of the European Parliament and of the Council on the placing on the market and use of feed (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2017/2279).
 
-[^key-3c88f140ecf641c59c8f94c86858dc37]: Textual amendment: Words in Annex 4 Pt. A point (1) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [120](https://www.legislation.gov.uk/uksi/2019/654/regulation/120); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3c88f140ecf641c59c8f94c86858dc37]: Textual amendment: Words in Annex 4 Pt. A point (1) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [120](https://www.legislation.gov.uk/uksi/2019/654/regulation/120); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00034]: Footnote: The tolerances are given either as an absolute percentage value (this value must be subtracted from/added to the declared content) or as a relative value marked with ‘ % ’ after the value (this percentage must be applied to the declared content to calculate the acceptable deviation).[^c000001][^c000005]
 
@@ -1212,6 +1212,6 @@ Without prejudice to point 1 and 2, former foodstuffs that need to be processed 
 
 [^f00038]: Footnote: In German language ‘ analytische Bestandteile ’ may be replaced by ‘ Inhaltsstoffe ’ . In Swedish language ‘ Analytiska beståndsdelar ’ may be replaced by ‘ Analyserat innehåll ’ .
 
-[^key-10252041ab62be4651b1cb3a566be97f]: Textual amendment: Word in [Annex 8](https://www.legislation.gov.uk/eur/2009/767/annex/VIII) heading substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 18](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/18)
+[^c-10252041ab62be4651b1cb3a566be97f]: Textual amendment: Word in [Annex 8](https://www.legislation.gov.uk/eur/2009/767/annex/VIII) heading substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 18](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/18)
 
 [^c000006]: Textual amendment: Inserted by [Commission Regulation (EU) 2017/2279 of 11 December 2017 amending Annexes II, IV, VI, VII and VIII to Regulation (EC) No 767/2009 of the European Parliament and of the Council on the placing on the market and use of feed (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2017/2279).

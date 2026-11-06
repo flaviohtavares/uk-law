@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Transitional, supplementary and incidental provisions[^key-30a507f0569c51ef3792efe71a84226d]
+## 5. Transitional, supplementary and incidental provisions[^c-30a507f0569c51ef3792efe71a84226d]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30a507f0569c51ef3792efe71a84226d]: Commencement: Art. 5 in force at 1.9.1999, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/2277/article/1/1)
+[^c-30a507f0569c51ef3792efe71a84226d]: Commencement: Art. 5 in force at 1.9.1999, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/2277/article/1/1)

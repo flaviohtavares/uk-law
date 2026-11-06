@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Temporary suspension of navigation in connection with the authorised development[^key-af6ff1bdf0aa3a76c05ea1964acc7245]
+## 23. Temporary suspension of navigation in connection with the authorised development[^c-af6ff1bdf0aa3a76c05ea1964acc7245]
 
 *Extent: E+W+S*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af6ff1bdf0aa3a76c05ea1964acc7245]: Commencement: Art. 23 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-af6ff1bdf0aa3a76c05ea1964acc7245]: Commencement: Art. 23 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

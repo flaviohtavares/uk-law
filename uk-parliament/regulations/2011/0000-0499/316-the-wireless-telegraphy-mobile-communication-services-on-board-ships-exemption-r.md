@@ -31,7 +31,7 @@ summary: ''
 
 Electronic Communications
 
-The Wireless Telegraphy (Mobile Communication Services on Board Ships) (Exemption) Regulations 2011 (revoked)[^key-eded71ac5acc4f79ac9a159ec425f6b6]
+The Wireless Telegraphy (Mobile Communication Services on Board Ships) (Exemption) Regulations 2011 (revoked)[^c-eded71ac5acc4f79ac9a159ec425f6b6]
 
 Made
 
@@ -41,32 +41,32 @@ Coming into force
 
 10th March 2011
 
-[^key-eded71ac5acc4f79ac9a159ec425f6b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eded71ac5acc4f79ac9a159ec425f6b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-eded71ac5acc4f79ac9a159ec425f6b6]
+## 1. Citation and commencement[^c-eded71ac5acc4f79ac9a159ec425f6b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-eded71ac5acc4f79ac9a159ec425f6b6]
+## 2. Interpretation[^c-eded71ac5acc4f79ac9a159ec425f6b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exemption[^key-eded71ac5acc4f79ac9a159ec425f6b6]
+## 3. Exemption[^c-eded71ac5acc4f79ac9a159ec425f6b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Terms, provisions and limitations[^key-eded71ac5acc4f79ac9a159ec425f6b6]
+## 4. Terms, provisions and limitations[^c-eded71ac5acc4f79ac9a159ec425f6b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-eded71ac5acc4f79ac9a159ec425f6b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eded71ac5acc4f79ac9a159ec425f6b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-eded71ac5acc4f79ac9a159ec425f6b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eded71ac5acc4f79ac9a159ec425f6b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-eded71ac5acc4f79ac9a159ec425f6b6]: Textual amendment: Regulations revoked (2.8.2017) by [The Wireless Telegraphy (Mobile Communication Services on Ships) (Exemption) Regulations 2017 (S.I. 2017/743)](https://www.legislation.gov.uk/uksi/2017/743), [regs. 1](https://www.legislation.gov.uk/uksi/2017/743/regulation/1), [2](https://www.legislation.gov.uk/uksi/2017/743/regulation/2)
+[^c-eded71ac5acc4f79ac9a159ec425f6b6]: Textual amendment: Regulations revoked (2.8.2017) by [The Wireless Telegraphy (Mobile Communication Services on Ships) (Exemption) Regulations 2017 (S.I. 2017/743)](https://www.legislation.gov.uk/uksi/2017/743), [regs. 1](https://www.legislation.gov.uk/uksi/2017/743/regulation/1), [2](https://www.legislation.gov.uk/uksi/2017/743/regulation/2)

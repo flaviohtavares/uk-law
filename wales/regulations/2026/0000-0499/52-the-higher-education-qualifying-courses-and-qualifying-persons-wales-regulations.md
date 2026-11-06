@@ -41,13 +41,13 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred on them by sections 32(4) and (9)(b) and 143(2) of the Tertiary Education and Research (Wales) Act 2022[^f00001], make the following Regulations.
 
-## 1. Title and coming into force[^key-c9bb9f85fcc952d9468607d4a9fc243f]
+## 1. Title and coming into force[^c-c9bb9f85fcc952d9468607d4a9fc243f]
 
 (1) The title of these Regulations is the Higher Education (Qualifying Courses and Qualifying Persons) (Wales) Regulations 2026.
 
 (2) These Regulations come into force on 1 April 2026.
 
-## 2. Interpretation[^key-da005e8be208d67c26c2c1ca45123f01]
+## 2. Interpretation[^c-da005e8be208d67c26c2c1ca45123f01]
 
 In these Regulations—
 
@@ -67,7 +67,7 @@ In these Regulations—
   | 1 July | On or after 1 July but before 1 August |
 - “**course of initial teacher training**” (“***cwrs hyfforddiant cychwynnol athrawon***”) includes such a course leading to a first degree.
 
-## 3. Qualifying course[^key-c5f54d7e6ae49146a9fb3b0e74ff6fb5]
+## 3. Qualifying course[^c-c5f54d7e6ae49146a9fb3b0e74ff6fb5]
 
 (1) A qualifying course, which is specified for the purposes of section 32(4) of the 2022 Act, is a course which—
 
@@ -82,7 +82,7 @@ In these Regulations—
     - (b) a course for the further training of teachers or youth and community workers,
     - (c) a first degree course,
     - (d) a course for the Diploma of Higher Education,
-    - (e) a course for the Higher National Diploma or Higher National Certificate of the Business and Technician Education Council, or the Diploma in Management Studies,[^key-00dd6051c37479dc60ea24b4867378c4]
+    - (e) a course for the Higher National Diploma or Higher National Certificate of the Business and Technician Education Council, or the Diploma in Management Studies,[^c-00dd6051c37479dc60ea24b4867378c4]
     - (f) a course for the Certificate in Education,
     - (g) a course in preparation for a professional examination at higher level, or
     - (h) a course providing education at a higher level (whether or not in preparation for an examination).
@@ -112,7 +112,7 @@ In these Regulations—
 - “**collaborating body**” (“***corff sy’n cydlafurio***”) has the meaning given by section 88(3), 89(4), 97(3), 104(2) or 105(4) of the 2022 Act, as the case may be;
 - “**registered provider**” (“***darparwr cofrestredig***”) means a provider which is registered in the register established and maintained by the Commission for Tertiary Education and Research under section 25 of the 2022 Act.
 
-## 4. Qualifying person[^key-05411da58dc9668b00652ade7181657f]
+## 4. Qualifying person[^c-05411da58dc9668b00652ade7181657f]
 
 (1) A qualifying person, who is specified for the purposes of section 32(9) of the 2022 Act, is a person who—
 
@@ -204,7 +204,7 @@ Minister for Further and Higher Education, under authority of the Cabinet Secret
 
 Regulation 4
 
-### 1. Interpretation[^key-72b565737ef4f1a027675142253d757d]
+### 1. Interpretation[^c-72b565737ef4f1a027675142253d757d]
 
 (1) For the purposes of this Schedule—
 
@@ -328,7 +328,7 @@ is to be considered to be ordinarily resident in the place from which the person
 - (b) Article 9 (personal scope) of the EEA EFTA separation agreement, or
 - (c) Article 10 (personal scope) of the Swiss citizens’ rights agreement.
 
-### 2. Persons who are settled in the United Kingdom[^key-1da7438adaa088703818007a85dd0624]
+### 2. Persons who are settled in the United Kingdom[^c-1da7438adaa088703818007a85dd0624]
 
 (1) A person who—
 
@@ -339,7 +339,7 @@ is to be considered to be ordinarily resident in the place from which the person
 
 (2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the United Kingdom and the Islands in accordance with paragraph 1(4).
 
-### 3. Persons settled in the United Kingdom from the Channel Islands, the Isle of Man and the Republic of Ireland[^key-f8aaf35d0f438f43d2854a1318835cf9]
+### 3. Persons settled in the United Kingdom from the Channel Islands, the Isle of Man and the Republic of Ireland[^c-f8aaf35d0f438f43d2854a1318835cf9]
 
 (1) A person—
 
@@ -350,7 +350,7 @@ is to be considered to be ordinarily resident in the place from which the person
 
 (2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the territory comprising the United Kingdom, the Islands and the Republic of Ireland in accordance with paragraph 1(4).
 
-### 4. Persons within the personal scope of citizens’ rights provisions etc.[^key-fc451c52789f4bdc5a2394f6ca9caf47]
+### 4. Persons within the personal scope of citizens’ rights provisions etc.[^c-fc451c52789f4bdc5a2394f6ca9caf47]
 
 (1) A person who—
 
@@ -379,7 +379,7 @@ is to be considered to be ordinarily resident in the place from which the person
 
 (4) In this paragraph “**relevant period**” has the meaning given by regulation 4 of the 2020 Citizens’ Rights Regulations.
 
-### 5. Refugees and their family members[^key-9c5944609b093012e5dd0c796cb324aa]
+### 5. Refugees and their family members[^c-9c5944609b093012e5dd0c796cb324aa]
 
 (1) A person who—
 
@@ -402,7 +402,7 @@ is to be considered to be ordinarily resident in the place from which the person
 - (d) is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since the refugee was given leave to remain in the United Kingdom, and
 - (e) is ordinarily resident in the United Kingdom on the first day of the first academic year of the course.
 
-### 6. Protected persons and their family members[^key-fd3ada7d43c6f4a5f5a984393eb9c07e]
+### 6. Protected persons and their family members[^c-fd3ada7d43c6f4a5f5a984393eb9c07e]
 
 (1) A protected person who is ordinarily resident in—
 
@@ -445,7 +445,7 @@ is to be considered to be ordinarily resident in the place from which the person
   - (a) leave to enter or remain on the grounds of humanitarian protection under paragraph 339C of the immigration rules, or
   - (b) leave to remain as a stateless person under the immigration rules.
 
-### 7. Protected partners and their children[^key-edda81e88dee629251daee6d1b864de9]
+### 7. Protected partners and their children[^c-edda81e88dee629251daee6d1b864de9]
 
 (1) A protected partner who is ordinarily resident in—
 
@@ -486,7 +486,7 @@ is to be considered to be ordinarily resident in the place from which the person
 
     In the case of a person granted leave to enter or remain before 5 October 2023, outside the immigration rules, on the basis that the person was a bereaved partner of a Gurkha discharged before 1 July 1997.
 
-### 8. Protected Ukrainian nationals and their family members[^key-843f14953e02be57e45ef6469f832035]
+### 8. Protected Ukrainian nationals and their family members[^c-843f14953e02be57e45ef6469f832035]
 
 (1) A protected Ukrainian national who is ordinarily resident in—
 
@@ -524,7 +524,7 @@ is to be considered to be ordinarily resident in the place from which the person
     - (i) was residing in Ukraine immediately before 1 January 2022, and
     - (ii) left Ukraine in connection with the Russian invasion which took place on 24 February 2022.
 
-### 9. Relevant Afghan citizens and their family members[^key-3c512adbea655056a90e7219070d08ab]
+### 9. Relevant Afghan citizens and their family members[^c-3c512adbea655056a90e7219070d08ab]
 
 (1) A relevant Afghan citizen who is ordinarily resident in—
 
@@ -559,7 +559,7 @@ is to be considered to be ordinarily resident in the place from which the person
   - (d) indefinite leave to enter or remain in the United Kingdom outside the immigration rules on the basis of the Afghan Citizens Resettlement Scheme, or
   - (e) indefinite leave to enter or remain in the United Kingdom outside the immigration rules on the basis of the Afghanistan Response Route[^f00022].
 
-### 10. Persons with leave to enter or remain and their family members[^key-02681ee9b0bcde3f09cc8af1529c9fc5]
+### 10. Persons with leave to enter or remain and their family members[^c-02681ee9b0bcde3f09cc8af1529c9fc5]
 
 (1) A person with leave to enter or remain who—
 
@@ -591,7 +591,7 @@ is to be considered to be ordinarily resident in the place from which the person
     - (v) been informed in writing by a person acting under the authority of the Secretary of State for the Home Department that, although P is not considered to qualify for leave to remain on the grounds of private or family life under the immigration rules, P has been granted leave to remain outside the rules on the grounds of Article 8 of the European Convention on Human Rights, and
   - (b) whose period of leave to enter or remain has not expired or has been renewed and the period for which it was renewed has not expired or in respect of whose leave to enter or remain an appeal is pending (within the meaning of section 104 of the Nationality, Immigration and Asylum Act 2002[^f00023]).
 
-### 11. Workers, employed persons and self-employed persons from the EEA and Switzerland etc. and their family members[^key-bbf5688fd22251c58f0e263dc74e8baf]
+### 11. Workers, employed persons and self-employed persons from the EEA and Switzerland etc. and their family members[^c-bbf5688fd22251c58f0e263dc74e8baf]
 
 (1) A person who—
 
@@ -607,7 +607,7 @@ is to be considered to be ordinarily resident in the place from which the person
 
 (2) Paragraph (b) of sub-paragraph (1) does not apply where the person falls within paragraph (a)(iv), (v) or (vi) of that sub-paragraph.
 
-### 12.[^key-98636886da5e412a4415e18a6b0a68ea]
+### 12.[^c-98636886da5e412a4415e18a6b0a68ea]
 
 (1) A person with protected rights or a frontier worker within the meaning of regulation 3 of the Citizens’ Rights (Frontier Workers) (EU Exit) Regulations 2020 who—
 
@@ -625,7 +625,7 @@ is to be considered to be ordinarily resident in the place from which the person
 
 (3) In this paragraph, a description of a person in sub-paragraph (1)(a)(i) is to be read as if it includes a relevant person of Northern Ireland who would, if that person were an EEA national or solely an EEA national, be an EEA migrant worker or an EEA self-employed person.
 
-### 13.[^key-c5973630660f2b7f0b451a8f84defcb7]
+### 13.[^c-c5973630660f2b7f0b451a8f84defcb7]
 
 (1) A person who—
 
@@ -637,7 +637,7 @@ is to be considered to be ordinarily resident in the place from which the person
 
 (3) Any description of person who would have fallen within this paragraph immediately before IP completion day is to be treated as falling within this paragraph on and after IP completion day.
 
-### 14.[^key-a6c3a686d648f07a05528e9f1ee82109]
+### 14.[^c-a6c3a686d648f07a05528e9f1ee82109]
 
 (1) A person with protected rights who—
 
@@ -650,7 +650,7 @@ is to be considered to be ordinarily resident in the place from which the person
 - (a) the reference to a “**national of a Member State**” is to be read as including a relevant person of Northern Ireland, and
 - (b) the reference to “**another Member State**” is to be read as including the United Kingdom and the references to “**that State**” construed accordingly.
 
-### 15. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere[^key-515ce328f62608e49097ed89ee97d3d8]
+### 15. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere[^c-515ce328f62608e49097ed89ee97d3d8]
 
 (1) A person who—
 
@@ -667,7 +667,7 @@ is to be considered to be ordinarily resident in the place from which the person
 
 (3) For the purposes of this paragraph, a person had the right of permanent residence if they had a right which arose under [Directive 2004/38](https://www.legislation.gov.uk/european/directive/2004/0038) to reside permanently in the United Kingdom without restriction.
 
-### 16.[^key-1ead62628477206069fe755eeb176a3d]
+### 16.[^c-1ead62628477206069fe755eeb176a3d]
 
 (1) A person who—
 
@@ -686,7 +686,7 @@ is to be considered to be ordinarily resident in the place from which the person
 
 (3) For the purposes of sub-paragraph (2), a person had the right of permanent residence if they had a right which arose under [Directive 2004/38](https://www.legislation.gov.uk/european/directive/2004/0038) to reside permanently in the United Kingdom without restriction.
 
-### 17. EU nationals etc.[^key-fdf230b2ab99bb22382be55512f497fb]
+### 17. EU nationals etc.[^c-fdf230b2ab99bb22382be55512f497fb]
 
 (1) A person who—
 
@@ -708,7 +708,7 @@ is to be considered to be ordinarily resident in the place from which the person
 
 (4) Any description of person who would have fallen within this paragraph immediately before IP completion day is to be treated as falling within this paragraph on and after IP completion day.
 
-### 18. EU nationals etc. with protected rights[^key-f81e6c42e55bc45556591c8882fb7c1f]
+### 18. EU nationals etc. with protected rights[^c-f81e6c42e55bc45556591c8882fb7c1f]
 
 (1) A person with protected rights—
 
@@ -727,7 +727,7 @@ is to be considered to be ordinarily resident in the place from which the person
 
 (3) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories in accordance with paragraph 1(4).
 
-### 19. United Kingdom nationals ordinarily resident in the EEA, Switzerland or the EU overseas territories before IP completion day[^key-4ead5548c74dbafa4d09032afafba7b4]
+### 19. United Kingdom nationals ordinarily resident in the EEA, Switzerland or the EU overseas territories before IP completion day[^c-4ead5548c74dbafa4d09032afafba7b4]
 
 (1) A person—
 
@@ -754,7 +754,7 @@ is to be considered to be ordinarily resident in the place from which the person
 
 (5) In this paragraph and paragraph 20, “**EU overseas territories**” means the Caribbean part of the Kingdom of the Netherlands (Aruba, Bonaire, Curaçao, Saba, Sint Eustatius and Sint Maarten); Faroe Islands; French Polynesia; French Southern and Antarctic Territories; Greenland; Mayotte; St Barthélemy; St Pierre et Miquelon; the Territory of New Caledonia and Dependences; and Wallis and Futuna.
 
-### 20. Irish citizens in the EEA and Switzerland[^key-c2f0d30d1dd3a7dde995dd4f94b9c16a]
+### 20. Irish citizens in the EEA and Switzerland[^c-c2f0d30d1dd3a7dde995dd4f94b9c16a]
 
 (1) A person—
 
@@ -772,7 +772,7 @@ is to be considered to be ordinarily resident in the place from which the person
 
 (3) “**EU overseas territories**” has the meaning given by paragraph 19(5).
 
-### 21. Settled persons from the British overseas territories[^key-3f7b7e7d7b8bce53c60ad0d343d9b702]
+### 21. Settled persons from the British overseas territories[^c-3f7b7e7d7b8bce53c60ad0d343d9b702]
 
 (1) Subject to sub-paragraphs (3) and (4), a person—
 
@@ -795,7 +795,7 @@ is to be considered to be ordinarily resident in the place from which the person
 
 (5) In this paragraph, “**specified British overseas territories**” means Anguilla; Bermuda; British Antarctic Territory; British Indian Ocean Territory; Cayman Islands; Falkland Islands; Gibraltar; Montserrat; Pitcairn, Henderson, Ducie and Oeno Islands; South Georgia and the South Sandwich Islands; St Helena; Ascension and Tristan da Cunha; Turks and Caicos Islands; and Virgin Islands.
 
-### 22. Family members of persons settled in the United Kingdom[^key-2ad3ca7773e2c6b83d72de4e42970568]
+### 22. Family members of persons settled in the United Kingdom[^c-2ad3ca7773e2c6b83d72de4e42970568]
 
 (1) A person—
 
@@ -806,7 +806,7 @@ is to be considered to be ordinarily resident in the place from which the person
 
 (2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the United Kingdom and the Islands in accordance with paragraph 1(4).
 
-### 23. Persons resident in Gibraltar[^key-b2aaf53be3b38505173d6e10f8105808]
+### 23. Persons resident in Gibraltar[^c-b2aaf53be3b38505173d6e10f8105808]
 
 (1) A person—
 
@@ -826,7 +826,7 @@ is to be considered to be ordinarily resident in the place from which the person
 
 (3) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories in accordance with paragraph 1(4).
 
-### 24. EU nationals ordinarily resident in the United Kingdom and the Islands[^key-5b5660308b6e85dc6d09bd298d90381a]
+### 24. EU nationals ordinarily resident in the United Kingdom and the Islands[^c-5b5660308b6e85dc6d09bd298d90381a]
 
 (1) A person who—
 
@@ -837,7 +837,7 @@ is to be considered to be ordinarily resident in the place from which the person
 
 (2) Where a state accedes to the European Union after the first day of the first academic year of the course and a person is a national of that state, the requirement in paragraph (a) of sub-paragraph (1) to be an EU national on the first day of the first academic year of the course is treated as being satisfied.
 
-### 25.[^key-7b835307a5f5e15522e3ebce3ada2488]
+### 25.[^c-7b835307a5f5e15522e3ebce3ada2488]
 
 A person with protected rights who—
 
@@ -846,7 +846,7 @@ A person with protected rights who—
 - (c) has been ordinarily resident in the United Kingdom and the Islands throughout the three-year period immediately preceding the first day of the first academic year of the course, and
 - (d) in a case where the person’s ordinary residence referred to in sub-paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories immediately prior to the period of ordinary residence referred to in sub-paragraph (c).
 
-### 26. Children of Swiss nationals[^key-1cefdc20d93c9143e848333b12df546a]
+### 26. Children of Swiss nationals[^c-1cefdc20d93c9143e848333b12df546a]
 
 (1) A person who—
 
@@ -857,7 +857,7 @@ A person with protected rights who—
 
 (2) Any description of person who would have fallen within this paragraph immediately before IP completion day is to be treated as falling within this paragraph on and after IP completion day.
 
-### 27.[^key-b1150313d499cf03c9ccb2aa31c53133]
+### 27.[^c-b1150313d499cf03c9ccb2aa31c53133]
 
 A person with protected rights who—
 
@@ -866,7 +866,7 @@ A person with protected rights who—
 - (c) has been ordinarily resident in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories throughout the three-year period preceding the first day of the first academic year of the course, and
 - (d) in a case where the person’s ordinary residence referred to in sub-paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland immediately prior to the period of ordinary residence referred to in sub-paragraph (c).
 
-### 28. Children of Turkish workers[^key-99f233a9a8390809824d9270a7ac58a4]
+### 28. Children of Turkish workers[^c-99f233a9a8390809824d9270a7ac58a4]
 
 (1) A person who—
 
@@ -879,7 +879,7 @@ A person with protected rights who—
 - (a) is ordinarily resident in the United Kingdom, and
 - (b) is, or has been, lawfully employed in the United Kingdom.
 
-### 29.[^key-9b66ef0a42eb1a83d5ff04479b866061]
+### 29.[^c-9b66ef0a42eb1a83d5ff04479b866061]
 
 (1) A person who—
 
@@ -915,15 +915,15 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2022 asc 1](https://www.legislation.gov.uk/asc/2022/1).
 
-[^key-c9bb9f85fcc952d9468607d4a9fc243f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2026/52/regulation/1) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1/2)
+[^c-c9bb9f85fcc952d9468607d4a9fc243f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2026/52/regulation/1) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1/2)
 
-[^key-da005e8be208d67c26c2c1ca45123f01]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2026/52/regulation/2) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
+[^c-da005e8be208d67c26c2c1ca45123f01]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2026/52/regulation/2) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
 
 [^f00002]: Footnote: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30).
 
-[^key-c5f54d7e6ae49146a9fb3b0e74ff6fb5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2026/52/regulation/3) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
+[^c-c5f54d7e6ae49146a9fb3b0e74ff6fb5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2026/52/regulation/3) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
 
-[^key-00dd6051c37479dc60ea24b4867378c4]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/3/2) substituted (31.3.2026) by [The Higher Education (Qualifying Courses and Qualifying Persons) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/90)](https://www.legislation.gov.uk/wsi/2026/90), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/90/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/90/regulation/2)
+[^c-00dd6051c37479dc60ea24b4867378c4]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/3/2) substituted (31.3.2026) by [The Higher Education (Qualifying Courses and Qualifying Persons) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/90)](https://www.legislation.gov.uk/wsi/2026/90), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/90/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/90/regulation/2)
 
 [^f00003]: Footnote: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30). Section 22 was amended by the [Learning and Skills Act 2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), section 146(2) and Schedule 11; the [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), paragraph 236 of Schedule 6; the [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), section 147(3); the [Higher Education Act 2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8), sections 42(1) and 43 and Schedule 7; the [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), section 257(2); the [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), section 76(1) and (2)(a); [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881), paragraph 6 of Schedule 1; and the [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), section 88.
 
@@ -931,7 +931,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00005]: Footnote: The Commission for Tertiary Education and Research was established by section 1 of the Tertiary Education and Research (Wales) Act 2022.
 
-[^key-05411da58dc9668b00652ade7181657f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2026/52/regulation/4) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
+[^c-05411da58dc9668b00652ade7181657f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2026/52/regulation/4) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
 
 [^f00006]: Footnote: [S.I. 2017/47 (W. 21)](https://www.legislation.gov.uk/wsi/2017/47), amended by [S.I. 2023/1349 (W. 243)](https://www.legislation.gov.uk/wsi/2023/1349); there are other amending instruments but none is relevant to these Regulations.
 
@@ -939,7 +939,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00008]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32).
 
-[^key-72b565737ef4f1a027675142253d757d]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/1) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
+[^c-72b565737ef4f1a027675142253d757d]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/1) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
 
 [^f00009]: Footnote: [S.I. 2020/1209](https://www.legislation.gov.uk/uksi/2020/1209), amended by [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309).
 
@@ -959,70 +959,70 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00017]: Footnote: Cm. 4904 and OJ No L 114, 30.4.2002, p. 6, to which there are amendments not relevant to these Regulations.
 
-[^key-1da7438adaa088703818007a85dd0624]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/2) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
+[^c-1da7438adaa088703818007a85dd0624]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/2) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
 
-[^key-f8aaf35d0f438f43d2854a1318835cf9]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/3) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
+[^c-f8aaf35d0f438f43d2854a1318835cf9]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/3) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
 
-[^key-fc451c52789f4bdc5a2394f6ca9caf47]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/4) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
+[^c-fc451c52789f4bdc5a2394f6ca9caf47]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/4) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
 
 [^f00018]: Footnote: [S.I. 2016/1052](https://www.legislation.gov.uk/uksi/2016/1052), revoked by the [Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (c. 20)](https://www.legislation.gov.uk/ukpga/2020/20), Schedule 1, paragraph 2(2).
 
-[^key-9c5944609b093012e5dd0c796cb324aa]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/5) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
+[^c-9c5944609b093012e5dd0c796cb324aa]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/5) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
 
-[^key-fd3ada7d43c6f4a5f5a984393eb9c07e]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/6) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
+[^c-fd3ada7d43c6f4a5f5a984393eb9c07e]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/6) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
 
 [^f00019]: Footnote: [2016 c. 19](https://www.legislation.gov.uk/ukpga/2016/19).
 
-[^key-edda81e88dee629251daee6d1b864de9]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/7) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
+[^c-edda81e88dee629251daee6d1b864de9]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/7) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
 
-[^key-843f14953e02be57e45ef6469f832035]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/8) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
+[^c-843f14953e02be57e45ef6469f832035]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/8) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
 
 [^f00020]: Footnote: Paragraph UKR 9.1 was deleted by the Statement of Changes in Immigration Rules laid before Parliament on 19 February 2024 (HC 556). An electronic copy of HC 556 is available at https://www.gov.uk/government/publications/statement-of-changes-to-the-immigration-rules-hc-556-19-february-2024.
 
 [^f00021]: Footnote: Paragraph 27.1 was deleted by the Statement of Changes in Immigration Rules laid before Parliament on 26 November 2024 (HC 334). An electronic copy of HC 334 is available at https://www.gov.uk/government/publications/statement-of-changes-to-the-immigration-rules-hc-334-26-november-2024.
 
-[^key-3c512adbea655056a90e7219070d08ab]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/9) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
+[^c-3c512adbea655056a90e7219070d08ab]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/9) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
 
 [^f00022]: Footnote: The Afghanistan Response Route was discontinued on 4 July 2025. Ministry of Defence guidance in relation to this route is available here: https://www.gov.uk/guidance/afghanistan-response-route.
 
-[^key-02681ee9b0bcde3f09cc8af1529c9fc5]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/10) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
+[^c-02681ee9b0bcde3f09cc8af1529c9fc5]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/10) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
 
 [^f00023]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41). Section 104 was amended by the [Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19), Schedule 2, paragraph 20; the [Immigration, Asylum and Nationality Act 2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), section 9; [S.I. 2010/21](https://www.legislation.gov.uk/uksi/2010/21), Schedule 1 paragraph 26; and the [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), Schedule 9, paragraph 47.
 
-[^key-bbf5688fd22251c58f0e263dc74e8baf]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/11) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
+[^c-bbf5688fd22251c58f0e263dc74e8baf]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/11) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
 
-[^key-98636886da5e412a4415e18a6b0a68ea]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/12) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
+[^c-98636886da5e412a4415e18a6b0a68ea]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/12) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
 
-[^key-c5973630660f2b7f0b451a8f84defcb7]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/13) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
+[^c-c5973630660f2b7f0b451a8f84defcb7]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/13) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
 
-[^key-a6c3a686d648f07a05528e9f1ee82109]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/14) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
+[^c-a6c3a686d648f07a05528e9f1ee82109]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/14) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
 
-[^key-515ce328f62608e49097ed89ee97d3d8]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/15) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
+[^c-515ce328f62608e49097ed89ee97d3d8]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/15) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
 
-[^key-1ead62628477206069fe755eeb176a3d]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/16) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
+[^c-1ead62628477206069fe755eeb176a3d]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/16) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
 
-[^key-fdf230b2ab99bb22382be55512f497fb]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/17) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
+[^c-fdf230b2ab99bb22382be55512f497fb]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/17) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
 
-[^key-f81e6c42e55bc45556591c8882fb7c1f]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/18) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
+[^c-f81e6c42e55bc45556591c8882fb7c1f]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/18) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
 
-[^key-4ead5548c74dbafa4d09032afafba7b4]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/19) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
+[^c-4ead5548c74dbafa4d09032afafba7b4]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/19) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
 
-[^key-c2f0d30d1dd3a7dde995dd4f94b9c16a]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/20) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
+[^c-c2f0d30d1dd3a7dde995dd4f94b9c16a]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/20) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
 
-[^key-3f7b7e7d7b8bce53c60ad0d343d9b702]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/21) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
+[^c-3f7b7e7d7b8bce53c60ad0d343d9b702]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/21) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
 
-[^key-2ad3ca7773e2c6b83d72de4e42970568]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/22) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
+[^c-2ad3ca7773e2c6b83d72de4e42970568]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/22) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
 
-[^key-b2aaf53be3b38505173d6e10f8105808]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/23) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
+[^c-b2aaf53be3b38505173d6e10f8105808]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/23) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
 
-[^key-5b5660308b6e85dc6d09bd298d90381a]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/24) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
+[^c-5b5660308b6e85dc6d09bd298d90381a]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/24) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
 
-[^key-7b835307a5f5e15522e3ebce3ada2488]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/25) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
+[^c-7b835307a5f5e15522e3ebce3ada2488]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/25) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
 
-[^key-1cefdc20d93c9143e848333b12df546a]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/26) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
+[^c-1cefdc20d93c9143e848333b12df546a]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/26) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
 
-[^key-b1150313d499cf03c9ccb2aa31c53133]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/27) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
+[^c-b1150313d499cf03c9ccb2aa31c53133]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/27) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
 
-[^key-99f233a9a8390809824d9270a7ac58a4]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/28) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
+[^c-99f233a9a8390809824d9270a7ac58a4]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/28) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
 
-[^key-9b66ef0a42eb1a83d5ff04479b866061]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/29) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)
+[^c-9b66ef0a42eb1a83d5ff04479b866061]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/wsi/2026/52/schedule/paragraph/29) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/52/regulation/1)

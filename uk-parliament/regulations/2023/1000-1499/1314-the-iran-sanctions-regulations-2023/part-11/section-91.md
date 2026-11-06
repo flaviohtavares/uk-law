@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Seizure power[^key-2c3ec2e3acda663da55a6c10eea68704]
+## 91. Seizure power[^c-2c3ec2e3acda663da55a6c10eea68704]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c3ec2e3acda663da55a6c10eea68704]: Commencement: Reg. 91 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-2c3ec2e3acda663da55a6c10eea68704]: Commencement: Reg. 91 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

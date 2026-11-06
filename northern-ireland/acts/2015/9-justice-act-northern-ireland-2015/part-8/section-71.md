@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 71. Offences[^key-97f479b7236841bc1fad8dd191f3683b]
+## 71. Offences[^c-97f479b7236841bc1fad8dd191f3683b]
 
 *Extent: N.I.*
 
@@ -57,4 +57,4 @@ a person commits such an offence on the first day on which the person first fail
 
 ## Annotations
 
-[^key-97f479b7236841bc1fad8dd191f3683b]: Commencement: [S. 71](https://www.legislation.gov.uk/nia/2015/9/section/71) in operation at 1.12.2016 by [S.R. 2016/417](https://www.legislation.gov.uk/nisr/2016/417), [art. 2(p)](https://www.legislation.gov.uk/nisr/2016/417/article/2/p)
+[^c-97f479b7236841bc1fad8dd191f3683b]: Commencement: [S. 71](https://www.legislation.gov.uk/nia/2015/9/section/71) in operation at 1.12.2016 by [S.R. 2016/417](https://www.legislation.gov.uk/nisr/2016/417), [art. 2(p)](https://www.legislation.gov.uk/nisr/2016/417/article/2/p)

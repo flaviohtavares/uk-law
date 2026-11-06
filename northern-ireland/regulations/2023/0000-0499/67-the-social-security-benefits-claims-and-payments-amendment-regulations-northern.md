@@ -44,7 +44,7 @@ The Department for Communities[^f00001] makes the following Regulations in exerc
 
 In accordance with section 150(1)(b) of the Social Security Administration (Northern Ireland) Act 1992, the Social Security Advisory Committee has agreed that the proposals in respect of these Regulations should not be referred to it.
 
-## 1. Citation, commencement, application and interpretation[^key-9dd4b7c80cb02623e1ce458ddbb1afe3]
+## 1. Citation, commencement, application and interpretation[^c-9dd4b7c80cb02623e1ce458ddbb1afe3]
 
 (1) These Regulations may be cited as the Social Security Benefits (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2023 and come into operation on 10th May 2023.
 
@@ -62,7 +62,7 @@ and to any decision made on such an application.
 - “**fuel item**” has the same meaning as in paragraph 6 of Schedule 8A to the 1987 Regulations or paragraph 8(8) of Schedule 5 to the 2016 Regulations;
 - “**supersession**” means a supersession decision under section 11 of the Social Security (Northern Ireland) Order 1998[^f00005].
 
-## 2. Amendment of the Social Security (Claims and Payments) Regulations[^key-f5209a6119c330d0f226f28338236f87]
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^c-f5209a6119c330d0f226f28338236f87]
 
 (1) The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 are amended in accordance with paragraph 2.
 
@@ -79,7 +79,7 @@ and to any decision made on such an application.
 
   .
 
-## 3. Amendment of the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payment) Regulations[^key-ca64fd8366bf84cbce6e2613f1d16d73]
+## 3. Amendment of the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payment) Regulations[^c-ca64fd8366bf84cbce6e2613f1d16d73]
 
 (1) The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) Regulations (Northern Ireland) 2016 are amended in accordance with paragraphs 2 to 5.
 
@@ -124,7 +124,7 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^f00002]: Footnote: [1992 c.8](https://www.legislation.gov.uk/ukpga/1992/8). Section 165(1) was amended by paragraph 49(2) of Schedule 3 to Social Security Contributions (Transfer of Functions, etc) (Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671)) and Section 18(5) of the National Insurance Contributions Act [2014 (c.7.)](https://www.legislation.gov.uk/ukpga/2014/7)
 
-[^key-9dd4b7c80cb02623e1ce458ddbb1afe3]: Commencement: Reg. 1 in operation at 10.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/67/regulation/1/1)
+[^c-9dd4b7c80cb02623e1ce458ddbb1afe3]: Commencement: Reg. 1 in operation at 10.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/67/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465)
 
@@ -132,6 +132,6 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^f00005]: Footnote: [S.R. 1998 No. 1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
 
-[^key-f5209a6119c330d0f226f28338236f87]: Commencement: Reg. 2 in operation at 10.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/67/regulation/1/1)
+[^c-f5209a6119c330d0f226f28338236f87]: Commencement: Reg. 2 in operation at 10.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/67/regulation/1/1)
 
-[^key-ca64fd8366bf84cbce6e2613f1d16d73]: Commencement: Reg. 3 in operation at 10.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/67/regulation/1/1)
+[^c-ca64fd8366bf84cbce6e2613f1d16d73]: Commencement: Reg. 3 in operation at 10.5.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/67/regulation/1/1)

@@ -33,41 +33,41 @@ A Measure to amend the New Parishes Measure 1943; to amend section 6 of the Chur
 
 \[18th March 2010\]
 
-## 1. Amendment of New Parishes Measure 1943[^key-ccbe122e060e5bb87560d0b8713dbd5f]
+## 1. Amendment of New Parishes Measure 1943[^c-ccbe122e060e5bb87560d0b8713dbd5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Church Commissioners Measure 1947[^key-8c5190ccc16dcb22f62a3450e6832cc6]
+## 2. Amendment of Church Commissioners Measure 1947[^c-8c5190ccc16dcb22f62a3450e6832cc6]
 
 In section 6(3B)(a) of the Church Commissioners Measure 1947 (10 & 11 Geo. 6 No. 2) for the words “section 11(2)” there shall be substituted the words “ paragraph (d) ”.
 
-## 3. Amendment of Church Funds Investment Measure 1958[^key-04e3fd318f118d7320495711da130ff5]
+## 3. Amendment of Church Funds Investment Measure 1958[^c-04e3fd318f118d7320495711da130ff5]
 
 In section 2 of the Church Funds Investment Measure 1958 (6 & 7 Eliz. 2 No. 1) paragraph (a) and, in paragraph (d), the words “the Central Board or” are hereby repealed.
 
-## 4. Amendment of Clergy Pensions Measure 1961[^key-77935e2853400165db0dba33b6db78da]
+## 4. Amendment of Clergy Pensions Measure 1961[^c-77935e2853400165db0dba33b6db78da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of Ecclesiastical Jurisdiction Measure 1963[^key-eb8aae62e4d9b0526b9a60c8b2c0fe7c]
+## 5. Amendment of Ecclesiastical Jurisdiction Measure 1963[^c-eb8aae62e4d9b0526b9a60c8b2c0fe7c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of Endowments and Glebe Measure 1976[^key-22721e60810157f00e98d0ce4bb241d8]
+## 6. Amendment of Endowments and Glebe Measure 1976[^c-22721e60810157f00e98d0ce4bb241d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of Pastoral Measure 1983[^key-de36c6f72292d9c9635f2a40c9797915][^key-744acbbc9da0e1d69793f63b44d74061]
+## 7. Amendment of Pastoral Measure 1983[^c-de36c6f72292d9c9635f2a40c9797915][^c-744acbbc9da0e1d69793f63b44d74061]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of National Institutions Measure 1998[^key-f7a4cb7d24de66e73ec3981a3bcf1c72]
+## 8. Amendment of National Institutions Measure 1998[^c-f7a4cb7d24de66e73ec3981a3bcf1c72]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Gifts to the Church of England[^key-70758bc2c792c78017fee809c1554c2e]
+## 9. Gifts to the Church of England[^c-70758bc2c792c78017fee809c1554c2e]
 
 Any gift which—
 
@@ -78,9 +78,9 @@ shall, in the absence of any contrary intention, be construed and take effect as
 
 ## 10. Cathedrals
 
-(1)[^key-833ff98755fdbbd961b71c6578d845a2][^key-e0e21455f81651f6d4c7c9f4f9cb7c42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-833ff98755fdbbd961b71c6578d845a2][^c-e0e21455f81651f6d4c7c9f4f9cb7c42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-a5cfff6dade57b4d4ff91bdcf35c3fe7] For section 43 of the Cathedrals Measure 1963 (1963 No. 2) there shall be substituted the following section—
+(2)[^c-a5cfff6dade57b4d4ff91bdcf35c3fe7] For section 43 of the Cathedrals Measure 1963 (1963 No. 2) there shall be substituted the following section—
 
 > **43. Further provisions as to Oxford**
 >
@@ -130,23 +130,23 @@ shall, in the absence of any contrary intention, be construed and take effect as
 
 .
 
-(3)[^key-d66a92583510c8971b51edbf6426cff2][^key-e0e21455f81651f6d4c7c9f4f9cb7c42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d66a92583510c8971b51edbf6426cff2][^c-e0e21455f81651f6d4c7c9f4f9cb7c42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of Commons Act 2006[^key-2f93abdb63683331f7b4288ae72262e5]
+## 11. Amendment of Commons Act 2006[^c-2f93abdb63683331f7b4288ae72262e5]
 
 In section 24(9) of the Commons Act 2006 (c. 26), for the words “Church Commissioners” there shall be substituted the words “ Diocesan Board of Finance for the diocese in which the land is situated ” and any Regulations made under that section shall have effect accordingly.
 
-## 12. Consequential amendments and repeals[^key-5c865f6b0cdd9b9043948a681a9148bf]
+## 12. Consequential amendments and repeals[^c-5c865f6b0cdd9b9043948a681a9148bf]
 
-(1)[^key-48e1bff504f7c1a7295bc51489ff4b63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-48e1bff504f7c1a7295bc51489ff4b63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-48e1bff504f7c1a7295bc51489ff4b63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-48e1bff504f7c1a7295bc51489ff4b63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-8fe1b078aefbe5e5b6004253599bf1b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8fe1b078aefbe5e5b6004253599bf1b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The enactments specified in Schedule 2 are hereby repealed to the extent specified in the second column of that Schedule.
 
-## 13. Citation, commencement and extent[^key-319eb2839d99adb64e2389c7412e767a]
+## 13. Citation, commencement and extent[^c-319eb2839d99adb64e2389c7412e767a]
 
 (1) This Measure may be cited as the Church of England (Miscellaneous Provisions) Measure 2010.
 
@@ -160,33 +160,33 @@ In section 24(9) of the Commons Act 2006 (c. 26), for the words “Church Commis
 
 SCHEDULES
 
-## SCHEDULE 1 — Amendment of New Parishes Measure 1943[^key-a9377f2e489576b374cd0dcf3e515e2e]
+## SCHEDULE 1 — Amendment of New Parishes Measure 1943[^c-a9377f2e489576b374cd0dcf3e515e2e]
 
 **No longer in force.**
 
 Section 1
 
-**1.**[^key-a9377f2e489576b374cd0dcf3e515e2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a9377f2e489576b374cd0dcf3e515e2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-a9377f2e489576b374cd0dcf3e515e2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a9377f2e489576b374cd0dcf3e515e2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-a9377f2e489576b374cd0dcf3e515e2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a9377f2e489576b374cd0dcf3e515e2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-a9377f2e489576b374cd0dcf3e515e2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-a9377f2e489576b374cd0dcf3e515e2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-a9377f2e489576b374cd0dcf3e515e2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-a9377f2e489576b374cd0dcf3e515e2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-a9377f2e489576b374cd0dcf3e515e2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-a9377f2e489576b374cd0dcf3e515e2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-a9377f2e489576b374cd0dcf3e515e2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-a9377f2e489576b374cd0dcf3e515e2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-a9377f2e489576b374cd0dcf3e515e2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-a9377f2e489576b374cd0dcf3e515e2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-a9377f2e489576b374cd0dcf3e515e2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-a9377f2e489576b374cd0dcf3e515e2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-a9377f2e489576b374cd0dcf3e515e2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-a9377f2e489576b374cd0dcf3e515e2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Repeals[^key-3875d33a335303fbceafe03da8c98605][^key-c6c1ababfcda415865b0fb978408bf03]
+## SCHEDULE 2 — Repeals[^c-3875d33a335303fbceafe03da8c98605][^c-c6c1ababfcda415865b0fb978408bf03]
 
 Section 12
 
@@ -197,46 +197,46 @@ Section 12
 
 ## Annotations
 
-[^key-ccbe122e060e5bb87560d0b8713dbd5f]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukcm/2010/1/section/1) repealed (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2018/8/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukcm/2018/8/schedule/2)); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-ccbe122e060e5bb87560d0b8713dbd5f]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukcm/2010/1/section/1) repealed (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2018/8/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukcm/2018/8/schedule/2)); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
 
-[^key-8c5190ccc16dcb22f62a3450e6832cc6]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2010/1/section/2) in force at 1.9.2010 by [S.I. 2010/2](https://www.legislation.gov.uk/ukci/2010/2), [art. 3](https://www.legislation.gov.uk/ukci/2010/2/article/3), [Sch. 2](https://www.legislation.gov.uk/ukci/2010/2/schedule/2)
+[^c-8c5190ccc16dcb22f62a3450e6832cc6]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2010/1/section/2) in force at 1.9.2010 by [S.I. 2010/2](https://www.legislation.gov.uk/ukci/2010/2), [art. 3](https://www.legislation.gov.uk/ukci/2010/2/article/3), [Sch. 2](https://www.legislation.gov.uk/ukci/2010/2/schedule/2)
 
-[^key-04e3fd318f118d7320495711da130ff5]: Commencement: [S. 3](https://www.legislation.gov.uk/ukcm/2010/1/section/3) in force at 1.7.2010 by [S.I. 2010/2](https://www.legislation.gov.uk/ukci/2010/2), [art. 2](https://www.legislation.gov.uk/ukci/2010/2/article/2), [Sch. 1](https://www.legislation.gov.uk/ukci/2010/2/schedule/1)
+[^c-04e3fd318f118d7320495711da130ff5]: Commencement: [S. 3](https://www.legislation.gov.uk/ukcm/2010/1/section/3) in force at 1.7.2010 by [S.I. 2010/2](https://www.legislation.gov.uk/ukci/2010/2), [art. 2](https://www.legislation.gov.uk/ukci/2010/2/article/2), [Sch. 1](https://www.legislation.gov.uk/ukci/2010/2/schedule/1)
 
-[^key-77935e2853400165db0dba33b6db78da]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukcm/2010/1/section/4) repealed (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-77935e2853400165db0dba33b6db78da]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukcm/2010/1/section/4) repealed (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
 
-[^key-eb8aae62e4d9b0526b9a60c8b2c0fe7c]: Textual amendment: S. 5 repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-eb8aae62e4d9b0526b9a60c8b2c0fe7c]: Textual amendment: S. 5 repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-22721e60810157f00e98d0ce4bb241d8]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukcm/2010/1/section/6) repealed (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2018/8/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukcm/2018/8/schedule/2)); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-22721e60810157f00e98d0ce4bb241d8]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukcm/2010/1/section/6) repealed (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2018/8/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukcm/2018/8/schedule/2)); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
 
-[^key-de36c6f72292d9c9635f2a40c9797915]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukcm/2010/1/section/7) repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Schs. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-de36c6f72292d9c9635f2a40c9797915]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukcm/2010/1/section/7) repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Schs. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
-[^key-744acbbc9da0e1d69793f63b44d74061]: Commencement: S. 7 in force at 1.9.2010 by [S.I. 2010/2](https://www.legislation.gov.uk/ukci/2010/2), [art. 3](https://www.legislation.gov.uk/ukci/2010/2/article/3), [Sch. 2](https://www.legislation.gov.uk/ukci/2010/2/schedule/2)
+[^c-744acbbc9da0e1d69793f63b44d74061]: Commencement: S. 7 in force at 1.9.2010 by [S.I. 2010/2](https://www.legislation.gov.uk/ukci/2010/2), [art. 3](https://www.legislation.gov.uk/ukci/2010/2/article/3), [Sch. 2](https://www.legislation.gov.uk/ukci/2010/2/schedule/2)
 
-[^key-f7a4cb7d24de66e73ec3981a3bcf1c72]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukcm/2010/1/section/8) repealed (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 18(1)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/18/1); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
+[^c-f7a4cb7d24de66e73ec3981a3bcf1c72]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukcm/2010/1/section/8) repealed (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 18(1)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/18/1); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
 
-[^key-70758bc2c792c78017fee809c1554c2e]: Commencement: [S. 9](https://www.legislation.gov.uk/ukcm/2010/1/section/9) in force at 1.7.2010 by [S.I. 2010/2](https://www.legislation.gov.uk/ukci/2010/2), [art. 2](https://www.legislation.gov.uk/ukci/2010/2/article/2), [Sch. 1](https://www.legislation.gov.uk/ukci/2010/2/schedule/1)
+[^c-70758bc2c792c78017fee809c1554c2e]: Commencement: [S. 9](https://www.legislation.gov.uk/ukcm/2010/1/section/9) in force at 1.7.2010 by [S.I. 2010/2](https://www.legislation.gov.uk/ukci/2010/2), [art. 2](https://www.legislation.gov.uk/ukci/2010/2/article/2), [Sch. 1](https://www.legislation.gov.uk/ukci/2010/2/schedule/1)
 
-[^key-833ff98755fdbbd961b71c6578d845a2]: Textual amendment: [S. 10(1)](https://www.legislation.gov.uk/ukcm/2010/1/section/10/1) omitted (coming into force in accordance with s. 53(6)(7) of the amending Measure) by virtue of [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukcm/2021/2/schedule/4/paragraph/31) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
+[^c-833ff98755fdbbd961b71c6578d845a2]: Textual amendment: [S. 10(1)](https://www.legislation.gov.uk/ukcm/2010/1/section/10/1) omitted (coming into force in accordance with s. 53(6)(7) of the amending Measure) by virtue of [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukcm/2021/2/schedule/4/paragraph/31) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
 
-[^key-e0e21455f81651f6d4c7c9f4f9cb7c42]: Commencement: S. 10(1)(3) in force at 1.7.2010 by [S.I. 2010/2](https://www.legislation.gov.uk/ukci/2010/2), [art. 2](https://www.legislation.gov.uk/ukci/2010/2/article/2), [Sch. 1](https://www.legislation.gov.uk/ukci/2010/2/schedule/1)
+[^c-e0e21455f81651f6d4c7c9f4f9cb7c42]: Commencement: S. 10(1)(3) in force at 1.7.2010 by [S.I. 2010/2](https://www.legislation.gov.uk/ukci/2010/2), [art. 2](https://www.legislation.gov.uk/ukci/2010/2/article/2), [Sch. 1](https://www.legislation.gov.uk/ukci/2010/2/schedule/1)
 
-[^key-a5cfff6dade57b4d4ff91bdcf35c3fe7]: Commencement: S. 10(2) in force at 1.9.2010 by [S.I. 2010/2](https://www.legislation.gov.uk/ukci/2010/2), [art. 3](https://www.legislation.gov.uk/ukci/2010/2/article/3), [Sch. 2](https://www.legislation.gov.uk/ukci/2010/2/schedule/2)
+[^c-a5cfff6dade57b4d4ff91bdcf35c3fe7]: Commencement: S. 10(2) in force at 1.9.2010 by [S.I. 2010/2](https://www.legislation.gov.uk/ukci/2010/2), [art. 3](https://www.legislation.gov.uk/ukci/2010/2/article/3), [Sch. 2](https://www.legislation.gov.uk/ukci/2010/2/schedule/2)
 
-[^key-d66a92583510c8971b51edbf6426cff2]: Textual amendment: S. 10(3) repealed (1.9.2011) by [Care of Cathedrals Measure 2011 (No. 1)](https://www.legislation.gov.uk/ukcm/2011/1), [s. 34(2)](https://www.legislation.gov.uk/ukcm/2011/1/section/34/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2011/1/schedule/3) (with [s. 31](https://www.legislation.gov.uk/ukcm/2011/1/section/31)); [S.I. 2011/2](https://www.legislation.gov.uk/ukci/2011/2), [art. 2](https://www.legislation.gov.uk/ukci/2011/2/article/2)
+[^c-d66a92583510c8971b51edbf6426cff2]: Textual amendment: S. 10(3) repealed (1.9.2011) by [Care of Cathedrals Measure 2011 (No. 1)](https://www.legislation.gov.uk/ukcm/2011/1), [s. 34(2)](https://www.legislation.gov.uk/ukcm/2011/1/section/34/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2011/1/schedule/3) (with [s. 31](https://www.legislation.gov.uk/ukcm/2011/1/section/31)); [S.I. 2011/2](https://www.legislation.gov.uk/ukci/2011/2), [art. 2](https://www.legislation.gov.uk/ukci/2011/2/article/2)
 
-[^key-2f93abdb63683331f7b4288ae72262e5]: Commencement: [S. 11](https://www.legislation.gov.uk/ukcm/2010/1/section/11) in force at 1.9.2010 by [S.I. 2010/2](https://www.legislation.gov.uk/ukci/2010/2), [art. 3](https://www.legislation.gov.uk/ukci/2010/2/article/3), [Sch. 2](https://www.legislation.gov.uk/ukci/2010/2/schedule/2)
+[^c-2f93abdb63683331f7b4288ae72262e5]: Commencement: [S. 11](https://www.legislation.gov.uk/ukcm/2010/1/section/11) in force at 1.9.2010 by [S.I. 2010/2](https://www.legislation.gov.uk/ukci/2010/2), [art. 3](https://www.legislation.gov.uk/ukci/2010/2/article/3), [Sch. 2](https://www.legislation.gov.uk/ukci/2010/2/schedule/2)
 
-[^key-5c865f6b0cdd9b9043948a681a9148bf]: Commencement: S. 12 in force at 1.9.2010 by [S.I. 2010/2](https://www.legislation.gov.uk/ukci/2010/2), [art. 3](https://www.legislation.gov.uk/ukci/2010/2/article/3), [Sch. 2](https://www.legislation.gov.uk/ukci/2010/2/schedule/2)
+[^c-5c865f6b0cdd9b9043948a681a9148bf]: Commencement: S. 12 in force at 1.9.2010 by [S.I. 2010/2](https://www.legislation.gov.uk/ukci/2010/2), [art. 3](https://www.legislation.gov.uk/ukci/2010/2/article/3), [Sch. 2](https://www.legislation.gov.uk/ukci/2010/2/schedule/2)
 
-[^key-48e1bff504f7c1a7295bc51489ff4b63]: Textual amendment: S. 12(1)(2) repealed (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2018/8/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukcm/2018/8/schedule/2)); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-48e1bff504f7c1a7295bc51489ff4b63]: Textual amendment: S. 12(1)(2) repealed (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2018/8/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukcm/2018/8/schedule/2)); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
 
-[^key-8fe1b078aefbe5e5b6004253599bf1b6]: Textual amendment: S. 12(3) repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Schs. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-8fe1b078aefbe5e5b6004253599bf1b6]: Textual amendment: S. 12(3) repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Schs. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
-[^key-319eb2839d99adb64e2389c7412e767a]: Commencement: [S. 13](https://www.legislation.gov.uk/ukcm/2010/1/section/13) in force at 1.7.2010 by [S.I. 2010/2](https://www.legislation.gov.uk/ukci/2010/2), [art. 2](https://www.legislation.gov.uk/ukci/2010/2/article/2), [Sch. 1](https://www.legislation.gov.uk/ukci/2010/2/schedule/1)
+[^c-319eb2839d99adb64e2389c7412e767a]: Commencement: [S. 13](https://www.legislation.gov.uk/ukcm/2010/1/section/13) in force at 1.7.2010 by [S.I. 2010/2](https://www.legislation.gov.uk/ukci/2010/2), [art. 2](https://www.legislation.gov.uk/ukci/2010/2/article/2), [Sch. 1](https://www.legislation.gov.uk/ukci/2010/2/schedule/1)
 
-[^key-a9377f2e489576b374cd0dcf3e515e2e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukcm/2010/1/schedule/1) repealed (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2018/8/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukcm/2018/8/schedule/2)); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-a9377f2e489576b374cd0dcf3e515e2e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukcm/2010/1/schedule/1) repealed (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2018/8/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukcm/2018/8/schedule/2)); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
 
-[^key-3875d33a335303fbceafe03da8c98605]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukcm/2010/1/schedule/2) in force at 1.9.2010 by [S.I. 2010/2](https://www.legislation.gov.uk/ukci/2010/2), [art. 3](https://www.legislation.gov.uk/ukci/2010/2/article/3), [Sch. 2](https://www.legislation.gov.uk/ukci/2010/2/schedule/2)
+[^c-3875d33a335303fbceafe03da8c98605]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukcm/2010/1/schedule/2) in force at 1.9.2010 by [S.I. 2010/2](https://www.legislation.gov.uk/ukci/2010/2), [art. 3](https://www.legislation.gov.uk/ukci/2010/2/article/3), [Sch. 2](https://www.legislation.gov.uk/ukci/2010/2/schedule/2)
 
-[^key-c6c1ababfcda415865b0fb978408bf03]: Modification: [Sch. 2](https://www.legislation.gov.uk/ukcm/2010/1/schedule/2) savings for effect of 2006 gsm 1 Sch. 5 para. 13 (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 18(2)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/18/2); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
+[^c-c6c1ababfcda415865b0fb978408bf03]: Modification: [Sch. 2](https://www.legislation.gov.uk/ukcm/2010/1/schedule/2) savings for effect of 2006 gsm 1 Sch. 5 para. 13 (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 18(2)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/18/2); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Council's right to address meetings[^key-466e5d1cfffab875d0cb2c0c8636711d]
+## 16. Council's right to address meetings[^c-466e5d1cfffab875d0cb2c0c8636711d]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ Where the Council is concerned about any matters relating to the financial suppo
 
 ## Annotations
 
-[^key-466e5d1cfffab875d0cb2c0c8636711d]: Commencement: S. 16 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-466e5d1cfffab875d0cb2c0c8636711d]: Commencement: S. 16 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)

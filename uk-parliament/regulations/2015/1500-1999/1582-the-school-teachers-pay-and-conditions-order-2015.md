@@ -32,7 +32,7 @@ summary: ''
 
 Education, England And Wales
 
-The School Teachers’ Pay and Conditions Order 2015 (revoked)[^key-aa2c9e03599c0d0b5e8f5b9cf8cb11ea]
+The School Teachers’ Pay and Conditions Order 2015 (revoked)[^c-aa2c9e03599c0d0b5e8f5b9cf8cb11ea]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 1st September 2015
 
-[^key-aa2c9e03599c0d0b5e8f5b9cf8cb11ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aa2c9e03599c0d0b5e8f5b9cf8cb11ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-aa2c9e03599c0d0b5e8f5b9cf8cb11ea]
+## 1. Citation, commencement, application and interpretation[^c-aa2c9e03599c0d0b5e8f5b9cf8cb11ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The Document[^key-aa2c9e03599c0d0b5e8f5b9cf8cb11ea]
+## 2. The Document[^c-aa2c9e03599c0d0b5e8f5b9cf8cb11ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-aa2c9e03599c0d0b5e8f5b9cf8cb11ea]
+## 3. Revocation[^c-aa2c9e03599c0d0b5e8f5b9cf8cb11ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aa2c9e03599c0d0b5e8f5b9cf8cb11ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aa2c9e03599c0d0b5e8f5b9cf8cb11ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-aa2c9e03599c0d0b5e8f5b9cf8cb11ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aa2c9e03599c0d0b5e8f5b9cf8cb11ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aa2c9e03599c0d0b5e8f5b9cf8cb11ea]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/1582) revoked (1.9.2016) by [The School Teachers’ Pay and Conditions Order 2016 (S.I. 2016/831)](https://www.legislation.gov.uk/uksi/2016/831), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/831/article/1/1), [3](https://www.legislation.gov.uk/uksi/2016/831/article/3)
+[^c-aa2c9e03599c0d0b5e8f5b9cf8cb11ea]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/1582) revoked (1.9.2016) by [The School Teachers’ Pay and Conditions Order 2016 (S.I. 2016/831)](https://www.legislation.gov.uk/uksi/2016/831), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/831/article/1/1), [3](https://www.legislation.gov.uk/uksi/2016/831/article/3)

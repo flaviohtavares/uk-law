@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32.15. Affidavit evidence[^key-f6979acdf25206cd6fd840ab6728c2a7]
+## 32.15. Affidavit evidence[^c-f6979acdf25206cd6fd840ab6728c2a7]
 
 *Extent: E+W*
 
@@ -24,10 +24,10 @@ summary: ''
 
 (2) Nothing in these Rules prevents a witness giving evidence by affidavit<sup>(GL)</sup> at a hearing other than the trial if he chooses to do so in a case where paragraph (1) does not apply, but the party putting forward the affidavit<sup>(GL)</sup> may not recover the additional cost of making it from any other party unless the court orders otherwise.
 
-(Rule 32.12 makes provision about the use of affidavits for purposes other than the proceedings in which they are served.)[^key-1f317ebacb6f9c265370604a2d8abaf8]
+(Rule 32.12 makes provision about the use of affidavits for purposes other than the proceedings in which they are served.)[^c-1f317ebacb6f9c265370604a2d8abaf8]
 
 ## Annotations
 
-[^key-f6979acdf25206cd6fd840ab6728c2a7]: Commencement: [Rule 32.15](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.15) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-f6979acdf25206cd6fd840ab6728c2a7]: Commencement: [Rule 32.15](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.15) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
-[^key-1f317ebacb6f9c265370604a2d8abaf8]: Textual amendment: Words in [rule 32.15](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.15) inserted (6.4.2021) by [The Civil Procedure (Amendment) Rules 2021 (S.I. 2021/117)](https://www.legislation.gov.uk/uksi/2021/117), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/117/rule/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2021/117/rule/8/2)
+[^c-1f317ebacb6f9c265370604a2d8abaf8]: Textual amendment: Words in [rule 32.15](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.15) inserted (6.4.2021) by [The Civil Procedure (Amendment) Rules 2021 (S.I. 2021/117)](https://www.legislation.gov.uk/uksi/2021/117), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/117/rule/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2021/117/rule/8/2)

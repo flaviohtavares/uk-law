@@ -32,7 +32,7 @@ summary: ''
 
 Social Security
 
-The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2013 (revoked)[^key-01659ed1d0f01c65d7f5e8b01b9cf119]
+The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2013 (revoked)[^c-01659ed1d0f01c65d7f5e8b01b9cf119]
 
 Made
 
@@ -42,28 +42,28 @@ Coming into operation
 
 1st April 2013
 
-[^key-01659ed1d0f01c65d7f5e8b01b9cf119]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-01659ed1d0f01c65d7f5e8b01b9cf119]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-01659ed1d0f01c65d7f5e8b01b9cf119]
+## 1. Citation and commencement[^c-01659ed1d0f01c65d7f5e8b01b9cf119]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Social Security (Claims and Payments) Regulations[^key-01659ed1d0f01c65d7f5e8b01b9cf119]
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^c-01659ed1d0f01c65d7f5e8b01b9cf119]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-01659ed1d0f01c65d7f5e8b01b9cf119]
+## 3. Revocation[^c-01659ed1d0f01c65d7f5e8b01b9cf119]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-01659ed1d0f01c65d7f5e8b01b9cf119]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-01659ed1d0f01c65d7f5e8b01b9cf119]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-01659ed1d0f01c65d7f5e8b01b9cf119]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-01659ed1d0f01c65d7f5e8b01b9cf119]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-01659ed1d0f01c65d7f5e8b01b9cf119]: Textual amendment: Regulations revoked (1.4.2014) by [The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/73)](https://www.legislation.gov.uk/nisr/2014/73),[regs. 1](https://www.legislation.gov.uk/nisr/2014/73/regulation/1), [3](https://www.legislation.gov.uk/nisr/2014/73/regulation/3)
+[^c-01659ed1d0f01c65d7f5e8b01b9cf119]: Textual amendment: Regulations revoked (1.4.2014) by [The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/73)](https://www.legislation.gov.uk/nisr/2014/73),[regs. 1](https://www.legislation.gov.uk/nisr/2014/73/regulation/1), [3](https://www.legislation.gov.uk/nisr/2014/73/regulation/3)

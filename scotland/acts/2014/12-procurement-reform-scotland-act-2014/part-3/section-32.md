@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Giving of reasons to unsuccessful participants[^key-d93f597488ff60a6375d7ac6c819d47c]
+## 32. Giving of reasons to unsuccessful participants[^c-d93f597488ff60a6375d7ac6c819d47c]
 
 *Extent: S*
 
-(1) This section applies to a regulated procurement (other than a higher value regulated procurement[^key-1f176956e2528ff57146867126199d15]).
+(1) This section applies to a regulated procurement (other than a higher value regulated procurement[^c-1f176956e2528ff57146867126199d15]).
 
 (2) A contracting authority must, as soon as reasonably practicable after deciding to exclude an economic operator from participating in the procurement process at any stage before the economic operator has submitted a tender, notify its decision to the economic operator.
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d93f597488ff60a6375d7ac6c819d47c]: Commencement: S. 32 in force at 18.4.2016 by [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 3](https://www.legislation.gov.uk/ssi/2016/30/article/3) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))
+[^c-d93f597488ff60a6375d7ac6c819d47c]: Commencement: S. 32 in force at 18.4.2016 by [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 3](https://www.legislation.gov.uk/ssi/2016/30/article/3) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))
 
-[^key-1f176956e2528ff57146867126199d15]: Textual amendment: Words in s. 32(1) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2020/468/regulation/3/3) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-1f176956e2528ff57146867126199d15]: Textual amendment: Words in s. 32(1) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2020/468/regulation/3/3) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))

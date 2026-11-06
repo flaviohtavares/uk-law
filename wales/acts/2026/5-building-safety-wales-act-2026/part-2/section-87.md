@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87. Requirement for duty holder to give information and documents to other persons[^key-ff1cabd42d91910e1a4b40b6b73ebc5f]
+## 87. Requirement for duty holder to give information and documents to other persons[^c-ff1cabd42d91910e1a4b40b6b73ebc5f]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff1cabd42d91910e1a4b40b6b73ebc5f]: Commencement: S. 87 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-ff1cabd42d91910e1a4b40b6b73ebc5f]: Commencement: S. 87 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. CCE prevention orders[^key-5bd2499403d8b14fbef5fa501cdcb81c]
+## 51. CCE prevention orders[^c-5bd2499403d8b14fbef5fa501cdcb81c]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ The order may in particular require the defendant to comply with section 56 (not
 
 ## Annotations
 
-[^key-5bd2499403d8b14fbef5fa501cdcb81c]: Commencement: S. 51 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-5bd2499403d8b14fbef5fa501cdcb81c]: Commencement: S. 51 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

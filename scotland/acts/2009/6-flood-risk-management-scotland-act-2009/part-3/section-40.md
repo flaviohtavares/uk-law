@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Regulations relating to flood risk management plans and local flood risk management plans[^key-89c45423022d4c2c5577ec910bf613db]
+## 40. Regulations relating to flood risk management plans and local flood risk management plans[^c-89c45423022d4c2c5577ec910bf613db]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89c45423022d4c2c5577ec910bf613db]: Commencement: S. 40 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-89c45423022d4c2c5577ec910bf613db]: Commencement: S. 40 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

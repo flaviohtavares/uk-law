@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Monitoring compliance with an undertaking[^key-36845a5fe5bc09d6845c51f7622d2648]
+## 80. Monitoring compliance with an undertaking[^c-36845a5fe5bc09d6845c51f7622d2648]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36845a5fe5bc09d6845c51f7622d2648]: Commencement: Reg. 80 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-36845a5fe5bc09d6845c51f7622d2648]: Commencement: Reg. 80 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

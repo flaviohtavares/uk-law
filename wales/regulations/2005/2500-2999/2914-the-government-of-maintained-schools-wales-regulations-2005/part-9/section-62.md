@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Publication of minutes and papers[^key-e3a27663bb1670f1a7b4e99cd69467c1][^key-9b6cda0efd29373068c0839c6d369f16]
+## 62. Publication of minutes and papers[^c-e3a27663bb1670f1a7b4e99cd69467c1][^c-9b6cda0efd29373068c0839c6d369f16]
 
 *Extent: E+W*
 
-[^key-9b6cda0efd29373068c0839c6d369f16]
+[^c-9b6cda0efd29373068c0839c6d369f16]
 
 (1) Subject to paragraph (2) the committee must, as soon as reasonably practicable, make available for inspection at the school by any interested person a copy of—
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e3a27663bb1670f1a7b4e99cd69467c1]: Commencement: Reg. 62 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-e3a27663bb1670f1a7b4e99cd69467c1]: Commencement: Reg. 62 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
 
-[^key-9b6cda0efd29373068c0839c6d369f16]: Modification: Pt. 9 applied (with modifications) (31.10.2005) by [The New Maintained Schools (Wales) Regulations 2005 (S.I. 2005/2912)](https://www.legislation.gov.uk/wsi/2005/2912), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/1/1), [41(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/41/1) (with [regs. 3(3)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/3/3), [41(2)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/41/2))
+[^c-9b6cda0efd29373068c0839c6d369f16]: Modification: Pt. 9 applied (with modifications) (31.10.2005) by [The New Maintained Schools (Wales) Regulations 2005 (S.I. 2005/2912)](https://www.legislation.gov.uk/wsi/2005/2912), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/1/1), [41(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/41/1) (with [regs. 3(3)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/3/3), [41(2)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/41/2))

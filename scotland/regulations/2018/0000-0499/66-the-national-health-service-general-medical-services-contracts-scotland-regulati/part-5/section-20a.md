@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## 20A. Requirement to provide vaccination services[^key-86ac7e6f555ca3dd13cf81424078f3a1]
+## 20A. Requirement to provide vaccination services[^c-86ac7e6f555ca3dd13cf81424078f3a1]
 
 (1) A contract must include terms which have the same effect as paragraph 1 of schedule 2A.
 
@@ -25,4 +25,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86ac7e6f555ca3dd13cf81424078f3a1]: Textual amendment: [Reg. 20A](https://www.legislation.gov.uk/ssi/2018/66/regulation/20A) inserted (18.10.2021) by [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [4](https://www.legislation.gov.uk/ssi/2021/302/regulation/4)
+[^c-86ac7e6f555ca3dd13cf81424078f3a1]: Textual amendment: [Reg. 20A](https://www.legislation.gov.uk/ssi/2018/66/regulation/20A) inserted (18.10.2021) by [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [4](https://www.legislation.gov.uk/ssi/2021/302/regulation/4)

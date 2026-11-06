@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Motor Vehicles (International Circulation) Order (Northern Ireland) 1990[^key-f311942c94b04292a407ec95e8f863b0]
+## 150. Motor Vehicles (International Circulation) Order (Northern Ireland) 1990[^c-f311942c94b04292a407ec95e8f863b0]
 
 *Extent: N.I.*
 
@@ -27,6 +27,6 @@ In the Motor Vehicles (International Circulation) Order (Northern Ireland) 1990[
 
 ## Annotations
 
-[^key-f311942c94b04292a407ec95e8f863b0]: Commencement: Reg. 150 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-f311942c94b04292a407ec95e8f863b0]: Commencement: Reg. 150 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00251]: Footnote: [S.R. (N.I.) 1990/190](https://www.legislation.gov.uk/nisr/1990/190)

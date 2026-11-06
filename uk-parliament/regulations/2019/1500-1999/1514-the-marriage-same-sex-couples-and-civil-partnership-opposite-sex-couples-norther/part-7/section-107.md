@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Pension Protection Fund (General and Miscellaneous Amendments) Regulations (Northern Ireland) 2006[^key-94c0ed5ee4270571786605be3dfb2ac7]
+## 107. Pension Protection Fund (General and Miscellaneous Amendments) Regulations (Northern Ireland) 2006[^c-94c0ed5ee4270571786605be3dfb2ac7]
 
 *Extent: N.I.*
 
@@ -27,6 +27,6 @@ In the Pension Protection Fund (General and Miscellaneous Amendments) Regulation
 
 ## Annotations
 
-[^key-94c0ed5ee4270571786605be3dfb2ac7]: Commencement: Reg. 107 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-94c0ed5ee4270571786605be3dfb2ac7]: Commencement: Reg. 107 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00170]: Footnote: [S.R. (N.I.) 2006/155](https://www.legislation.gov.uk/nisr/2006/155).

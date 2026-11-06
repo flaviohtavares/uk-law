@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Referendum campaign broadcasts.[^c10575021][^c20061451][^key-70754506b4a015c3d7bd232ec5df87fc][^key-6472a0a8cb406ddc4cc3e9b9c3de89da]
+## 127. Referendum campaign broadcasts.[^c10575021][^c20061451][^c-70754506b4a015c3d7bd232ec5df87fc][^c-6472a0a8cb406ddc4cc3e9b9c3de89da]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-5b6b1ac7d4ade84e6fafd97a4eb0d56a] A broadcaster shall not include in its broadcasting services any referendum campaign broadcast made on behalf of any person or body other than one designated in respect of the referendum in question under section 108.
+(1)[^c-5b6b1ac7d4ade84e6fafd97a4eb0d56a] A broadcaster shall not include in its broadcasting services any referendum campaign broadcast made on behalf of any person or body other than one designated in respect of the referendum in question under section 108.
 
 (2) In this section “**referendum campaign broadcast**” means any broadcast whose purpose (or main purpose) is or may reasonably be assumed to be—
 
@@ -33,8 +33,8 @@ summary: ''
 
 [^c20061451]: Modification: S. 127 applied (23.7.2004) by [The Regional Assembly and Local Government Referendums Order 2004 (S.I. 2004/1962)](https://www.legislation.gov.uk/uksi/2004/1962), [art. 7(1)](https://www.legislation.gov.uk/uksi/2004/1962/article/7/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2004/1962/schedule/3/part/1)
 
-[^key-70754506b4a015c3d7bd232ec5df87fc]: Modification: S. 127 applied (with modifications) (13.2.2013) by [The Scotland Act 1998 (Modification of Schedule 5) Order 2013 (S.I. 2013/242)](https://www.legislation.gov.uk/uksi/2013/242), [arts. 2](https://www.legislation.gov.uk/uksi/2013/242/article/2), [4(1)(a)](https://www.legislation.gov.uk/uksi/2013/242/article/4/1/a)[(2)](https://www.legislation.gov.uk/uksi/2013/242/article/4/2)
+[^c-70754506b4a015c3d7bd232ec5df87fc]: Modification: S. 127 applied (with modifications) (13.2.2013) by [The Scotland Act 1998 (Modification of Schedule 5) Order 2013 (S.I. 2013/242)](https://www.legislation.gov.uk/uksi/2013/242), [arts. 2](https://www.legislation.gov.uk/uksi/2013/242/article/2), [4(1)(a)](https://www.legislation.gov.uk/uksi/2013/242/article/4/1/a)[(2)](https://www.legislation.gov.uk/uksi/2013/242/article/4/2)
 
-[^key-6472a0a8cb406ddc4cc3e9b9c3de89da]: Modification: S. 127 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/43); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-6472a0a8cb406ddc4cc3e9b9c3de89da]: Modification: S. 127 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/43); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-5b6b1ac7d4ade84e6fafd97a4eb0d56a]: Modification: S. 127(1) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 11(4)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/11/4); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-5b6b1ac7d4ade84e6fafd97a4eb0d56a]: Modification: S. 127(1) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 11(4)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/11/4); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)

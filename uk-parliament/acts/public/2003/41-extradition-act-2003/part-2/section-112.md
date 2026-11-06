@@ -40,7 +40,7 @@ summary: ''
 - (c) at the end of the permitted period, which is 28 days starting with the day on which leave to appeal to the Supreme Court against the decision of the High Court on the appeal is granted, if no appeal to the Supreme Court is brought before the end of that period;
 - (d) when there is no further step that can be taken on behalf of the category 2 territory in relation to the appeal (ignoring any power of a court to grant leave to take a step out of time).
 
-(5)[^key-ed07530cf6c5c7d11d196e51ac5a30dd] The preceding provisions of this section do not apply to Scotland.
+(5)[^c-ed07530cf6c5c7d11d196e51ac5a30dd] The preceding provisions of this section do not apply to Scotland.
 
 ## Annotations
 
@@ -50,4 +50,4 @@ summary: ''
 
 [^c2088009]: Textual amendment: Words in s. 112 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4) , [ss. 40](https://www.legislation.gov.uk/ukpga/2005/4/section/40) , [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148) , [Sch. 9 para. 81(4)(h)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/81/4/h) ; [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604) , [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
-[^key-ed07530cf6c5c7d11d196e51ac5a30dd]: Textual amendment: S. 112(5) substituted (29.7.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) , [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2) , [Sch. 20 para. 24(1)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/24/1) (with [Sch. 20 para. 29](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/29) ); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682) , [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b) (with [art. 4(6)](https://www.legislation.gov.uk/uksi/2013/1682/article/4/6) )
+[^c-ed07530cf6c5c7d11d196e51ac5a30dd]: Textual amendment: S. 112(5) substituted (29.7.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) , [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2) , [Sch. 20 para. 24(1)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/24/1) (with [Sch. 20 para. 29](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/29) ); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682) , [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b) (with [art. 4(6)](https://www.legislation.gov.uk/uksi/2013/1682/article/4/6) )

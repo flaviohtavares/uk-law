@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48A. Minibuses and coaches to be fitted with additional seat belts when used in certain circumstances[^key-68140d1baf3b69efb3829e7e5ab25a07]
+## 48A. Minibuses and coaches to be fitted with additional seat belts when used in certain circumstances[^c-68140d1baf3b69efb3829e7e5ab25a07]
 
 *Extent: E+W+S*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) In paragraph (1), the reference to the appropriate number is a reference to the number of children being carried in the vehicle (excluding disabled children in wheelchairs).
 
-(3A)[^key-e7c0fa217606da650ced1e54d6665a96] For the purposes of this regulation a rearward-facing seat shall be treated as a forward-facing seat which meets the requirements of this regulation if the coach or minibus concerned was first used on or after 1st October 2001, and the rearward-facing seat complies with the requirements of regulations 46 and 47.
+(3A)[^c-e7c0fa217606da650ced1e54d6665a96] For the purposes of this regulation a rearward-facing seat shall be treated as a forward-facing seat which meets the requirements of this regulation if the coach or minibus concerned was first used on or after 1st October 2001, and the rearward-facing seat complies with the requirements of regulations 46 and 47.
 
 (4) Without prejudice to the generality of paragraph (2)(a), a group of children shall, for the purposes of this regulation, be regarded as being on an organised trip if they are being carried to or from their school or from one part of their school premises to another.
 
@@ -65,6 +65,6 @@ and paragraph (2) of regulation 48 shall apply for the purposes of sub-paragraph
 
 ## Annotations
 
-[^key-68140d1baf3b69efb3829e7e5ab25a07]: Textual amendment: [Reg. 48A](https://www.legislation.gov.uk/uksi/1986/1078/regulation/48A) inserted (10.2.1997) by [The Road Vehicles (Construction and Use) (Amendment) (No.2) Regulations 1996 (S.I. 1996/163)](https://www.legislation.gov.uk/uksi/1996/163), [regs. 2](https://www.legislation.gov.uk/uksi/1996/163/regulation/2), [5](https://www.legislation.gov.uk/uksi/1996/163/regulation/5)
+[^c-68140d1baf3b69efb3829e7e5ab25a07]: Textual amendment: [Reg. 48A](https://www.legislation.gov.uk/uksi/1986/1078/regulation/48A) inserted (10.2.1997) by [The Road Vehicles (Construction and Use) (Amendment) (No.2) Regulations 1996 (S.I. 1996/163)](https://www.legislation.gov.uk/uksi/1996/163), [regs. 2](https://www.legislation.gov.uk/uksi/1996/163/regulation/2), [5](https://www.legislation.gov.uk/uksi/1996/163/regulation/5)
 
-[^key-e7c0fa217606da650ced1e54d6665a96]: Textual amendment: [Reg. 48A(3A)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/48A/3A) inserted (1.10.2001) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 2001 (S.I. 2001/1043)](https://www.legislation.gov.uk/uksi/2001/1043), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1043/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2001/1043/regulation/6/2)
+[^c-e7c0fa217606da650ced1e54d6665a96]: Textual amendment: [Reg. 48A(3A)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/48A/3A) inserted (1.10.2001) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 2001 (S.I. 2001/1043)](https://www.legislation.gov.uk/uksi/2001/1043), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1043/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2001/1043/regulation/6/2)

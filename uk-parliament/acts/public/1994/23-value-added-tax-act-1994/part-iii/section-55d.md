@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55D. Deposit schemes: liability to account for VAT on deposit amounts[^key-cef52fa6bf6f20aa6c7477eb41f67396]
+## 55D. Deposit schemes: liability to account for VAT on deposit amounts[^c-cef52fa6bf6f20aa6c7477eb41f67396]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cef52fa6bf6f20aa6c7477eb41f67396]: Textual amendment: [Ss. 55B-55D](https://www.legislation.gov.uk/ukpga/1994/23/section/55B) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 315](https://www.legislation.gov.uk/ukpga/2023/30/section/315)
+[^c-cef52fa6bf6f20aa6c7477eb41f67396]: Textual amendment: [Ss. 55B-55D](https://www.legislation.gov.uk/ukpga/1994/23/section/55B) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 315](https://www.legislation.gov.uk/ukpga/2023/30/section/315)

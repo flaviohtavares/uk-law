@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**142.**[^key-9ac643dfa1982f97477169fde2429f7b] In section 1 of the Carers (Recognition and Services) Act 1995 (assessment of ability of carers to provide care: England and Wales)—
+**142.**[^c-9ac643dfa1982f97477169fde2429f7b] In section 1 of the Carers (Recognition and Services) Act 1995 (assessment of ability of carers to provide care: England and Wales)—
 
 - (a) in subsection (1)(a)[^f00158]—
   - (i) after “local authority”, where it first occurs, insert “in England”;
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9ac643dfa1982f97477169fde2429f7b]: Commencement: Reg. 142 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-9ac643dfa1982f97477169fde2429f7b]: Commencement: Reg. 142 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00158]: Footnote: Section 1(1)(a) was amended by [S.I. 2015/914](https://www.legislation.gov.uk/uksi/2015/914), Schedule, paragraph 56(1), (2)(a) and (b).
 

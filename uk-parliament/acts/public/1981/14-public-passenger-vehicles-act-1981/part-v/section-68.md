@@ -24,7 +24,7 @@ summary: ''
 
 (2) The provisions referred to in subsection (1) above are—
 
-- (a) sections 19(5), 20(4), 24(2) [^key-0641325d5580f5cf749faa43f8c35f75]..., 25(3), 26(2), . . . [^c2522261], 67 and 70(3); [^c2522271]. . .
+- (a) sections 19(5), 20(4), 24(2) [^c-0641325d5580f5cf749faa43f8c35f75]..., 25(3), 26(2), . . . [^c2522261], 67 and 70(3); [^c2522271]. . .
 - (b)[^c2522281] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3)[^c2522291] It shall be a defence for a person charged with an offence under any of the provisions of this Act mentioned in subsection (4) below to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of any offence under that provision.
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0641325d5580f5cf749faa43f8c35f75]: Textual amendment: Words in [s. 68(2)(a)](https://www.legislation.gov.uk/ukpga/1981/14/section/68/2/a) omitted (8.6.2015) by virtue of [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/1)
+[^c-0641325d5580f5cf749faa43f8c35f75]: Textual amendment: Words in [s. 68(2)(a)](https://www.legislation.gov.uk/ukpga/1981/14/section/68/2/a) omitted (8.6.2015) by virtue of [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/1)
 
 [^c2522261]: Textual amendment: “33(7), 40(6)” repealed by [Transport Act 1985 (c. 67, SIF 126)](https://www.legislation.gov.uk/ukpga/1985/67), [s. 139(3)](https://www.legislation.gov.uk/ukpga/1985/67/section/139/3), [Sch. 8](https://www.legislation.gov.uk/ukpga/1985/67/schedule/8)
 

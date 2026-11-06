@@ -32,7 +32,7 @@ summary: ''
 
 Legal Aid And Advice
 
-The Criminal Legal Assistance (Fees) (Scotland) Regulations 2011 (revoked)[^key-0c72dce51b9e814385dbcacab53f9b57]
+The Criminal Legal Assistance (Fees) (Scotland) Regulations 2011 (revoked)[^c-0c72dce51b9e814385dbcacab53f9b57]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 31st October 2011
 
-[^key-0c72dce51b9e814385dbcacab53f9b57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c72dce51b9e814385dbcacab53f9b57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0c72dce51b9e814385dbcacab53f9b57]
+## 1. Citation and commencement[^c-0c72dce51b9e814385dbcacab53f9b57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Application[^key-0c72dce51b9e814385dbcacab53f9b57]
+## 2. Application[^c-0c72dce51b9e814385dbcacab53f9b57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Criminal Legal Aid (Fixed Payments) (Scotland) Regulations 1999[^key-0c72dce51b9e814385dbcacab53f9b57]
+## 3. Amendment of the Criminal Legal Aid (Fixed Payments) (Scotland) Regulations 1999[^c-0c72dce51b9e814385dbcacab53f9b57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Criminal Legal Assistance (Fees and Information etc.) (Scotland) Regulations 2008[^key-0c72dce51b9e814385dbcacab53f9b57]
+## 4. Amendment of the Criminal Legal Assistance (Fees and Information etc.) (Scotland) Regulations 2008[^c-0c72dce51b9e814385dbcacab53f9b57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0c72dce51b9e814385dbcacab53f9b57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c72dce51b9e814385dbcacab53f9b57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0c72dce51b9e814385dbcacab53f9b57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c72dce51b9e814385dbcacab53f9b57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0c72dce51b9e814385dbcacab53f9b57]: Textual amendment: Regulations revoked (25.1.2018) by [The Criminal Legal Assistance (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/466)](https://www.legislation.gov.uk/ssi/2017/466), [regs. 1](https://www.legislation.gov.uk/ssi/2017/466/regulation/1), [11](https://www.legislation.gov.uk/ssi/2017/466/regulation/11)
+[^c-0c72dce51b9e814385dbcacab53f9b57]: Textual amendment: Regulations revoked (25.1.2018) by [The Criminal Legal Assistance (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/466)](https://www.legislation.gov.uk/ssi/2017/466), [regs. 1](https://www.legislation.gov.uk/ssi/2017/466/regulation/1), [11](https://www.legislation.gov.uk/ssi/2017/466/regulation/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 4 — Offences relating to EU emergency decisions[^key-106e2123d8cfe62939b0f3872a83ecd2]
+## SCHEDULE 4 — Offences relating to EU emergency decisions[^c-106e2123d8cfe62939b0f3872a83ecd2]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ Regulation 41(1)(g)
 
 ## Annotations
 
-[^key-106e2123d8cfe62939b0f3872a83ecd2]: Commencement: Sch. 4 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-106e2123d8cfe62939b0f3872a83ecd2]: Commencement: Sch. 4 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

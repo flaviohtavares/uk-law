@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Interference with contractual relationships so as to harm animal research organisation[^key-2437a395857255fdb76bf42335259bcb]
+## 145. Interference with contractual relationships so as to harm animal research organisation[^c-2437a395857255fdb76bf42335259bcb]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ but paragraph (b) does not include an act which is actionable on the ground only
 
 ## Annotations
 
-[^key-2437a395857255fdb76bf42335259bcb]: Commencement: [S. 145](https://www.legislation.gov.uk/ukpga/2005/15/section/145) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(t)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/t)
+[^c-2437a395857255fdb76bf42335259bcb]: Commencement: [S. 145](https://www.legislation.gov.uk/ukpga/2005/15/section/145) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(t)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/t)

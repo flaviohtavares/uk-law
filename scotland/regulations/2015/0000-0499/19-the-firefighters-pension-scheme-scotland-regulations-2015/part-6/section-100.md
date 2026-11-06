@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 100. Payment of pensions under this Part[^key-eff167ec2c7f03dd304be9d6dde4c9bc]
+## 100. Payment of pensions under this Part[^c-eff167ec2c7f03dd304be9d6dde4c9bc]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eff167ec2c7f03dd304be9d6dde4c9bc]: Commencement: [Reg. 100](https://www.legislation.gov.uk/ssi/2015/19/regulation/100) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-eff167ec2c7f03dd304be9d6dde4c9bc]: Commencement: [Reg. 100](https://www.legislation.gov.uk/ssi/2015/19/regulation/100) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

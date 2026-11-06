@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Alignment of days when licence required to supply[^key-089a732a043150e7c558479fd05f340a]
+## 23. Alignment of days when licence required to supply[^c-089a732a043150e7c558479fd05f340a]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-089a732a043150e7c558479fd05f340a]: Commencement: S. 23 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-089a732a043150e7c558479fd05f340a]: Commencement: S. 23 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 49. Amendment of the Personal Pension Schemes (Payments by Employers) Regulations[^key-5f9bb298b52b162a61da52b6d18e7a81]
+## 49. Amendment of the Personal Pension Schemes (Payments by Employers) Regulations[^c-5f9bb298b52b162a61da52b6d18e7a81]
 
 *Extent: N.I.*
 
@@ -24,7 +24,7 @@ For regulation 5 of the Personal Pension Schemes (Payments by Employers) Regulat
 
 > **5. Prescribed period for the purpose of calculating the due date for the payment of any contribution on behalf of an employee**
 >
-> (1) Except as provided in paragraph (2), the prescribed period for the purposes of section 107A(15)(b) (meaning of “due date” where a contribution payable under the direct payment arrangements falls to be paid on behalf of the employee) is the period of—[^key-71deb5f41f17d9d472a4e2a66c65f093]
+> (1) Except as provided in paragraph (2), the prescribed period for the purposes of section 107A(15)(b) (meaning of “due date” where a contribution payable under the direct payment arrangements falls to be paid on behalf of the employee) is the period of—[^c-71deb5f41f17d9d472a4e2a66c65f093]
 >
 > - (a) where the contribution payable under the direct payment arrangements is paid to the trustees or managers of the scheme by means of an electronic communication, 22 days, or
 > - (b) in any other case, 19 days,
@@ -49,11 +49,11 @@ For regulation 5 of the Personal Pension Schemes (Payments by Employers) Regulat
 
 ## Annotations
 
-[^key-5f9bb298b52b162a61da52b6d18e7a81]: Commencement: [Reg. 49](https://www.legislation.gov.uk/nisr/2010/122/regulation/49) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)
+[^c-5f9bb298b52b162a61da52b6d18e7a81]: Commencement: [Reg. 49](https://www.legislation.gov.uk/nisr/2010/122/regulation/49) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)
 
 [^f00023]: Footnote: [S.R. 2000 No. 349](https://www.legislation.gov.uk/nisr/2000/349)
 
-[^key-71deb5f41f17d9d472a4e2a66c65f093]: Textual amendment: Words in [reg. 49](https://www.legislation.gov.uk/nisr/2010/122/regulation/49) substituted (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/c), [2(24)(a)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/24)
+[^c-71deb5f41f17d9d472a4e2a66c65f093]: Textual amendment: Words in [reg. 49](https://www.legislation.gov.uk/nisr/2010/122/regulation/49) substituted (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/c), [2(24)(a)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/24)
 
 [^M_F_3b618732-381a-49bf-ff92-0b3a3922b98d]: Textual amendment: Words in reg. 49 substituted (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/c), [2(24)(b)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/24/b)
 

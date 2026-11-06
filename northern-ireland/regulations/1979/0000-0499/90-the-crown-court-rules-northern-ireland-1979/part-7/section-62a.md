@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62A. Record of telephone link before a nominated court[^key-074c8f54a0c56f0f057ab81070b0304c]
+## 62A. Record of telephone link before a nominated court[^c-074c8f54a0c56f0f057ab81070b0304c]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-074c8f54a0c56f0f057ab81070b0304c]: Textual amendment: [Rule 62A](https://www.legislation.gov.uk/nisr/1979/90/rule/62A) inserted (22.2.2021) by [The Crown Court (Amendment) Rules (Northern Ireland) 2021 (S.R. 2021/16)](https://www.legislation.gov.uk/nisr/2021/16), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/16/rule/1/2), [2(2)](https://www.legislation.gov.uk/nisr/2021/16/rule/2/2)
+[^c-074c8f54a0c56f0f057ab81070b0304c]: Textual amendment: [Rule 62A](https://www.legislation.gov.uk/nisr/1979/90/rule/62A) inserted (22.2.2021) by [The Crown Court (Amendment) Rules (Northern Ireland) 2021 (S.R. 2021/16)](https://www.legislation.gov.uk/nisr/2021/16), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/16/rule/1/2), [2(2)](https://www.legislation.gov.uk/nisr/2021/16/rule/2/2)

@@ -22,7 +22,7 @@ summary: ''
 
 Article 15
 
-### PART 1 — SPECIAL ROADS[^key-c6b67262e431a28225e26d9eed53f840]
+### PART 1 — SPECIAL ROADS[^c-c6b67262e431a28225e26d9eed53f840]
 
 | *(1)*<br>*Road* | *(2)*<br>*Extent* |
 | --- | --- |
@@ -38,7 +38,7 @@ Article 15
 | M25 southbound off-slip at M25 junction 29 | Between points 37/13 and 37/18 as shown on sheet 5 of the classification of roads plans. |
 | M25 southbound on-slip at M25 junction 29 | Between points 37/19 and 37/12 as shown on sheet 5 of the classification of roads plans. |
 
-### PART 2 — TRUNK ROADS[^key-adf137756b573cc3b9a7cdc77bba82f2]
+### PART 2 — TRUNK ROADS[^c-adf137756b573cc3b9a7cdc77bba82f2]
 
 | *(1)*<br>*Road* | *(2)*<br>*Extent* |
 | --- | --- |
@@ -79,14 +79,14 @@ Article 15
 | M25 northbound to M25 junction 29 link road | Between point 37/6 on sheet 4 and point 37/16 on sheet 5, as shown on sheets 4 and 5 of the classification of roads plans. |
 | M25 northbound to A127 westbound dedicated off-slip | Between points 37/20 and 37/21 as shown on sheet 5 of the classification of roads plans. |
 
-### PART 3 — GLA ROADS[^key-ddbfc1fc644040fa97bf643addedd5b4]
+### PART 3 — GLA ROADS[^c-ddbfc1fc644040fa97bf643addedd5b4]
 
 | *(1)*<br>*Road* | *(2)*<br>*Extent* |
 | --- | --- |
 | M25 to A127 westbound link (A127 westbound entry slip road from M25 junction 29) | Between point 37/16 and 37/8 as shown on sheet 5 of the classification of roads plans. |
 | A127 eastbound to M25 link (A127 eastbound exit slip road to M25 junction 29) | Between point 37/9 and 37/17 as shown on sheet 5 of the classification of roads plans. |
 
-### PART 4 — CLASSIFIED ROADS[^key-fa9ec57090ca8f5d6e3d86f527bc8c07]
+### PART 4 — CLASSIFIED ROADS[^c-fa9ec57090ca8f5d6e3d86f527bc8c07]
 
 | *(1)*<br>*Road* | *(2)*<br>*Extent* |
 | --- | --- |
@@ -119,7 +119,7 @@ Article 15
 | M25 southbound to A127 eastbound link | Between point 37/18 and 37/14 as shown on sheet 5 of the classification of roads plans. |
 | A127 westbound to M25 southbound link | Between point 37/11 and 37/19 as shown on sheet 5 of the classification of roads plans. |
 
-### PART 5 — UNCLASSIFIED ROADS[^key-4af9724c142698c7fde085bf6f80e2ce]
+### PART 5 — UNCLASSIFIED ROADS[^c-4af9724c142698c7fde085bf6f80e2ce]
 
 | *(1)*<br>*Road* | *(2)*<br>*Extent* |
 | --- | --- |
@@ -132,7 +132,7 @@ Article 15
 | Access roads off Muckingford Road | Between points 15/5 and 15/6, and between points 15/3 and 15/4, as shown on sheet 3 of the classification of roads plans. |
 | Woolings Close | Between points 28/1 and 31/1 as shown on sheet 3 of the classification of roads plans. |
 
-### PART 6 — OTHER PUBLIC RIGHTS OF WAY AND PERMISSIVE PATHS[^key-c2e481eae6820432a27f076385f17f05]
+### PART 6 — OTHER PUBLIC RIGHTS OF WAY AND PERMISSIVE PATHS[^c-c2e481eae6820432a27f076385f17f05]
 
 | *(1)*<br>*Road* | *(2)*<br>*Extent* |
 | --- | --- |
@@ -266,14 +266,14 @@ Article 15
 
 ## Annotations
 
-[^key-c6b67262e431a28225e26d9eed53f840]: Commencement: Sch. 5 Pt. 1 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-c6b67262e431a28225e26d9eed53f840]: Commencement: Sch. 5 Pt. 1 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-adf137756b573cc3b9a7cdc77bba82f2]: Commencement: Sch. 5 Pt. 2 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-adf137756b573cc3b9a7cdc77bba82f2]: Commencement: Sch. 5 Pt. 2 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-ddbfc1fc644040fa97bf643addedd5b4]: Commencement: Sch. 5 Pt. 3 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-ddbfc1fc644040fa97bf643addedd5b4]: Commencement: Sch. 5 Pt. 3 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-fa9ec57090ca8f5d6e3d86f527bc8c07]: Commencement: Sch. 5 Pt. 4 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-fa9ec57090ca8f5d6e3d86f527bc8c07]: Commencement: Sch. 5 Pt. 4 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-4af9724c142698c7fde085bf6f80e2ce]: Commencement: Sch. 5 Pt. 5 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-4af9724c142698c7fde085bf6f80e2ce]: Commencement: Sch. 5 Pt. 5 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-c2e481eae6820432a27f076385f17f05]: Commencement: Sch. 5 Pt. 6 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-c2e481eae6820432a27f076385f17f05]: Commencement: Sch. 5 Pt. 6 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)

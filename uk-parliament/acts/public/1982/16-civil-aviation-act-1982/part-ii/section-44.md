@@ -48,7 +48,7 @@ of easements or servitudes over land or of other rights in or in relation to lan
 - (b) if the relevant authority in whose favour the order was made is the CAA, the CAA, and[^c2536221]
 - (c) if the relevant authority in whose favour the order was made is a licence holder, the licence holder,
 
-shall pay such compensation to the persons interested in the land as may be just; and where any dispute arises as to whether compensation is payable under this subsection, or as to the amount of any such compensation, or as to the persons to whom it is payable, the dispute shall be referred to and determined by the appropriate tribunal[^key-448e99e8033f745bff57d4a3ecc2fb88].
+shall pay such compensation to the persons interested in the land as may be just; and where any dispute arises as to whether compensation is payable under this subsection, or as to the amount of any such compensation, or as to the persons to whom it is payable, the dispute shall be referred to and determined by the appropriate tribunal[^c-448e99e8033f745bff57d4a3ecc2fb88].
 
 (7)[^c2536231] The ownership of anything shall not be affected by reason only that it is placed on or under, or affixed, to, any land in pursuance of any such order.
 
@@ -93,7 +93,7 @@ and in this section and in Schedule 7 to this Act as it has effect with respect 
 
 [^c2536221]: Textual amendment: S. 44(6)(c) and the preceding word “and” inserted (1.4.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 36](https://www.legislation.gov.uk/ukpga/2000/38/section/36), [Sch. 4 para. 4(2)](https://www.legislation.gov.uk/ukpga/2000/38/schedule/4/paragraph/4/2) (with [s. 106](https://www.legislation.gov.uk/ukpga/2000/38/section/106)); [S.I. 2001/869](https://www.legislation.gov.uk/uksi/2001/869), [art. 2](https://www.legislation.gov.uk/uksi/2001/869/article/2)
 
-[^key-448e99e8033f745bff57d4a3ecc2fb88]: Textual amendment: Words in s. 44(6) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 153](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/153) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-448e99e8033f745bff57d4a3ecc2fb88]: Textual amendment: Words in s. 44(6) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 153](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/153) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
 [^c2536231]: Textual amendment: S. 44(7)(7A)(7B) substituted (1.4.2001) for s. 44(7) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 36](https://www.legislation.gov.uk/ukpga/2000/38/section/36), [Sch. 4 para. 4(3)](https://www.legislation.gov.uk/ukpga/2000/38/schedule/4/paragraph/4/3) (with [s. 106](https://www.legislation.gov.uk/ukpga/2000/38/section/106)); [S.I. 2001/869](https://www.legislation.gov.uk/uksi/2001/869), [art. 2](https://www.legislation.gov.uk/uksi/2001/869/article/2)
 

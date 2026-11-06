@@ -33,7 +33,7 @@ Acquisition Of Land, Wales
 
 Compensation
 
-The Home Loss Payments (Prescribed Amounts) (Wales) Regulations 2016 (revoked)[^key-53e544dbb2092764e7120943e26fc968]
+The Home Loss Payments (Prescribed Amounts) (Wales) Regulations 2016 (revoked)[^c-53e544dbb2092764e7120943e26fc968]
 
 Made
 
@@ -47,28 +47,28 @@ Coming into force
 
 5 December 2016
 
-[^key-53e544dbb2092764e7120943e26fc968]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-53e544dbb2092764e7120943e26fc968]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, application and interpretation[^key-53e544dbb2092764e7120943e26fc968]
+## 1. Title, commencement, application and interpretation[^c-53e544dbb2092764e7120943e26fc968]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revision of prescribed amounts for home loss payment[^key-53e544dbb2092764e7120943e26fc968]
+## 2. Revision of prescribed amounts for home loss payment[^c-53e544dbb2092764e7120943e26fc968]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation and savings[^key-53e544dbb2092764e7120943e26fc968]
+## 3. Revocation and savings[^c-53e544dbb2092764e7120943e26fc968]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-53e544dbb2092764e7120943e26fc968]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-53e544dbb2092764e7120943e26fc968]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-53e544dbb2092764e7120943e26fc968]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-53e544dbb2092764e7120943e26fc968]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-53e544dbb2092764e7120943e26fc968]: Textual amendment: Regulations revoked (4.12.2017) by [The Home Loss Payments (Prescribed Amounts) (Wales) Regulations 2017 (S.I. 2017/996)](https://www.legislation.gov.uk/uksi/2017/996), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/996/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2017/996/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2017/996/regulation/3/2))
+[^c-53e544dbb2092764e7120943e26fc968]: Textual amendment: Regulations revoked (4.12.2017) by [The Home Loss Payments (Prescribed Amounts) (Wales) Regulations 2017 (S.I. 2017/996)](https://www.legislation.gov.uk/uksi/2017/996), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/996/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2017/996/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2017/996/regulation/3/2))

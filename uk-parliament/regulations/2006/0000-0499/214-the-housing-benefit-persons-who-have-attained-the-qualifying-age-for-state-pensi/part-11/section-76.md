@@ -26,7 +26,7 @@ summary: ''
 - (a) the claimant had no entitlement to the whole or part of that rent allowance so paid to his landlord; and
 - (b) the overpayment of rent allowance resulting was recovered in whole or in part from that landlord.
 
-(2A)[^key-1b8580cfb496224a9fbd3023e1a574ab] In a case where—
+(2A)[^c-1b8580cfb496224a9fbd3023e1a574ab] In a case where—
 
 - (a) a relevant authority has determined a maximum rent ( LHA ) in accordance with regulation 13D; and
 - (b) the rent allowance exceeds the amount which the claimant is liable to pay his landlord by way of rent,
@@ -39,4 +39,4 @@ any payment of rent allowance made to a landlord pursuant to this regulation or 
 
 [^c1541123]: Marginal citation: *See* the [Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [regulation 7](https://www.legislation.gov.uk/uksi/2006/217/regulation/7) and Schedule 4, paragraph 2 for regulation 10A and Schedule A1 (claims by refugees).
 
-[^key-1b8580cfb496224a9fbd3023e1a574ab]: Textual amendment: Reg. 76(2A) inserted (with application in accordance with reg. 1(5)(6)(7) of the amending S.I.) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/3), [17(1)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/17/1)
+[^c-1b8580cfb496224a9fbd3023e1a574ab]: Textual amendment: Reg. 76(2A) inserted (with application in accordance with reg. 1(5)(6)(7) of the amending S.I.) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/3), [17(1)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/17/1)

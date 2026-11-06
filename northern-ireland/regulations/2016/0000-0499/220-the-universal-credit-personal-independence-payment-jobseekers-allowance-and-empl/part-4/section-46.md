@@ -54,11 +54,11 @@ summary: ''
 
 (10) For the purposes of paragraph (8) “**benefit week**” means a period of 7 days beginning or ending with such day as the Department may direct.
 
-(11)[^key-2d0754c3d3a54abbd2fb212483fd836b] The Department may pay arrears of employment and support allowance in instalments where—
+(11)[^c-2d0754c3d3a54abbd2fb212483fd836b] The Department may pay arrears of employment and support allowance in instalments where—
 
 - (a) the department considers it is necessary for protecting the interests of the claimant; and
 - (b) the claimant agrees that those arrears may be paid in instalments.
 
 ## Annotations
 
-[^key-2d0754c3d3a54abbd2fb212483fd836b]: Textual amendment: [Reg. 46(11)](https://www.legislation.gov.uk/nisr/2016/220/regulation/46/11) inserted (18.10.2021) by [The Social Security Benefits (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/267)](https://www.legislation.gov.uk/nisr/2021/267), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/267/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2021/267/regulation/3/4)
+[^c-2d0754c3d3a54abbd2fb212483fd836b]: Textual amendment: [Reg. 46(11)](https://www.legislation.gov.uk/nisr/2016/220/regulation/46/11) inserted (18.10.2021) by [The Social Security Benefits (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/267)](https://www.legislation.gov.uk/nisr/2021/267), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/267/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2021/267/regulation/3/4)

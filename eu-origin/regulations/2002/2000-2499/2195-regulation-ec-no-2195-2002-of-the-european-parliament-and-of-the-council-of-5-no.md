@@ -102,7 +102,7 @@ HAVE ADOPTED THIS REGULATION:
 
 3. The illustrative tables showing the correspondence between the CPV and the Statistical Classification of Products by Activity in the EEC (CPA), the Provisional Central Product Classification (CPC Prov.) of the United Nations, the General Industrial Classification of Economic Activities within the European Communities (NACE Rev. 1) and the Combined Nomenclature (CN) are set out in Annexes II, III, IV and V respectively.
 
-**Article 2.**[^key-2b6053cb9cfbe870219884aee3533b98] (1.) The Minister for the Cabinet Office may make regulations amending the Annexes to this Regulation.
+**Article 2.**[^c-2b6053cb9cfbe870219884aee3533b98] (1.) The Minister for the Cabinet Office may make regulations amending the Annexes to this Regulation.
 
 (2.) Regulations under this Article are to be made by statutory instrument.
 
@@ -110,7 +110,7 @@ HAVE ADOPTED THIS REGULATION:
 
 (4.) Regulations under this Article may make consequential, supplementary, incidental, transitional, transitory or saving provision.
 
-**Article 3.**[^key-2b6053cb9cfbe870219884aee3533b98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-2b6053cb9cfbe870219884aee3533b98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Article 4.** This Regulation shall enter into force on 16 December 2003.
 
@@ -9621,7 +9621,7 @@ MAIN VOCABULARY
 </tbody>
 </table>
 
-[^f00008][^f00008][^f00008][^f00008][^f00008][^f00009][^f00009][^f00009][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00011][^f00012][^f00013][^f00013][^f00013][^key-99d2def900ba771333ec6a42111345cb][^key-76c76fe173bea6f989c441e1bfbde9f0][^f00009][^f00009][^f00009][^f00009][^f00009]
+[^f00008][^f00008][^f00008][^f00008][^f00008][^f00009][^f00009][^f00009][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00010][^f00011][^f00012][^f00013][^f00013][^f00013][^c-99d2def900ba771333ec6a42111345cb][^c-76c76fe173bea6f989c441e1bfbde9f0][^f00009][^f00009][^f00009][^f00009][^f00009]
 
 SUPPLEMENTARY VOCABULARY
 
@@ -12596,7 +12596,7 @@ Group B: retail trade services for non-food
 </tbody>
 </table>
 
-[^f00014][^f00015][^f00015][^f00015][^f00015][^f00015][^f00015][^f00015][^f00016][^f00016][^f00016][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00018][^f00018][^f00018][^f00019][^f00019][^f00015][^f00015][^f00020][^f00020][^f00020][^f00020][^f00020][^key-fba27791cdccd1883399a5d4bd4c29ee][^key-90692661aeb5d0e32adbbd671bbd79d4][^f00016][^f00016][^f00016][^f00016][^f00016][^f00016]
+[^f00014][^f00015][^f00015][^f00015][^f00015][^f00015][^f00015][^f00015][^f00016][^f00016][^f00016][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00017][^f00018][^f00018][^f00018][^f00019][^f00019][^f00015][^f00015][^f00020][^f00020][^f00020][^f00020][^f00020][^c-fba27791cdccd1883399a5d4bd4c29ee][^c-90692661aeb5d0e32adbbd671bbd79d4][^f00016][^f00016][^f00016][^f00016][^f00016][^f00016]
 
 ## ANNEX IV — CORRESPONDENCE TABLE BETWEEN CPV AND NACE REV. 1
 
@@ -14905,7 +14905,7 @@ Group B: retail trade services for non-food
 
 [^f00006]: Footnote: [OJ L 184, 17.7.1999, p. 23](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1999.184.01.0023.01.ENG).
 
-[^key-2b6053cb9cfbe870219884aee3533b98]: Textual amendment: Art. 2 substituted for Arts. 2, 3 (31.12.2020) by [The Public Procurement (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1319)](https://www.legislation.gov.uk/uksi/2020/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2), [18(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/18/2) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/3), [4](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/4))
+[^c-2b6053cb9cfbe870219884aee3533b98]: Textual amendment: Art. 2 substituted for Arts. 2, 3 (31.12.2020) by [The Public Procurement (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1319)](https://www.legislation.gov.uk/uksi/2020/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2), [18(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/18/2) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/3), [4](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/4))
 
 [^M_F_534f98ce-8927-4bff-f58d-fdd799f059ad]: Textual amendment: Words in Signature omitted (31.12.2020) by [The Public Procurement (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1319)](https://www.legislation.gov.uk/uksi/2020/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2), [18(3)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/18/3) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/3), [4](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/4))
 
@@ -14933,9 +14933,9 @@ Group B: retail trade services for non-food
 
     Directive 2004/17/EC: except employment contracts.
 
-[^key-99d2def900ba771333ec6a42111345cb]: Textual amendment: Words in [Annex 1](https://www.legislation.gov.uk/eur/2002/2195/annex/I) substituted (29.6.2023) by [The Common Procurement Vocabulary (Amendment) Regulations 2023 (S.I. 2023/601)](https://www.legislation.gov.uk/uksi/2023/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/601/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/601/regulation/2/2/a)
+[^c-99d2def900ba771333ec6a42111345cb]: Textual amendment: Words in [Annex 1](https://www.legislation.gov.uk/eur/2002/2195/annex/I) substituted (29.6.2023) by [The Common Procurement Vocabulary (Amendment) Regulations 2023 (S.I. 2023/601)](https://www.legislation.gov.uk/uksi/2023/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/601/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/601/regulation/2/2/a)
 
-[^key-76c76fe173bea6f989c441e1bfbde9f0]: Textual amendment: Word in [Annex 1](https://www.legislation.gov.uk/eur/2002/2195/annex/I) substituted (29.6.2023) by [The Common Procurement Vocabulary (Amendment) Regulations 2023 (S.I. 2023/601)](https://www.legislation.gov.uk/uksi/2023/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/601/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/601/regulation/2/2/b)
+[^c-76c76fe173bea6f989c441e1bfbde9f0]: Textual amendment: Word in [Annex 1](https://www.legislation.gov.uk/eur/2002/2195/annex/I) substituted (29.6.2023) by [The Common Procurement Vocabulary (Amendment) Regulations 2023 (S.I. 2023/601)](https://www.legislation.gov.uk/uksi/2023/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/601/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/601/regulation/2/2/b)
 
 [^c000003]: Textual amendment: Deleted by [Commission Regulation (EC) No 213/2008 of 28 November 2007 amending Regulation (EC) No 2195/2002 of the European Parliament and of the Council on the Common Procurement Vocabulary (CPV) and Directives 2004/17/EC and 2004/18/EC of the European Parliament and of the Council on public procurement procedures, as regards the revision of the CPV (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2008/213).
 
@@ -14965,6 +14965,6 @@ Group B: retail trade services for non-food
 
     Directive 2004/17/EC: except employment contracts.
 
-[^key-fba27791cdccd1883399a5d4bd4c29ee]: Textual amendment: Words in [Annex 3](https://www.legislation.gov.uk/eur/2002/2195/annex/II) substituted (29.6.2023) by virtue of [The Common Procurement Vocabulary (Amendment) Regulations 2023 (S.I. 2023/601)](https://www.legislation.gov.uk/uksi/2023/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/601/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2023/601/regulation/2/3/a)
+[^c-fba27791cdccd1883399a5d4bd4c29ee]: Textual amendment: Words in [Annex 3](https://www.legislation.gov.uk/eur/2002/2195/annex/II) substituted (29.6.2023) by virtue of [The Common Procurement Vocabulary (Amendment) Regulations 2023 (S.I. 2023/601)](https://www.legislation.gov.uk/uksi/2023/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/601/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2023/601/regulation/2/3/a)
 
-[^key-90692661aeb5d0e32adbbd671bbd79d4]: Textual amendment: Word in [Annex 3](https://www.legislation.gov.uk/eur/2002/2195/annex/II) substituted (29.6.2023) by virtue of [The Common Procurement Vocabulary (Amendment) Regulations 2023 (S.I. 2023/601)](https://www.legislation.gov.uk/uksi/2023/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/601/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2023/601/regulation/2/3/b)
+[^c-90692661aeb5d0e32adbbd671bbd79d4]: Textual amendment: Word in [Annex 3](https://www.legislation.gov.uk/eur/2002/2195/annex/II) substituted (29.6.2023) by virtue of [The Common Procurement Vocabulary (Amendment) Regulations 2023 (S.I. 2023/601)](https://www.legislation.gov.uk/uksi/2023/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/601/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2023/601/regulation/2/3/b)

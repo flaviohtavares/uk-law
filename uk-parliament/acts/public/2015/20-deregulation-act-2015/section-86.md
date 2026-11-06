@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. CLC practitioner services bodies[^key-d09d695372081d78afdfaccae726fc52]
+## 86. CLC practitioner services bodies[^c-d09d695372081d78afdfaccae726fc52]
 
 *Extent: E+W+S*
 
@@ -144,4 +144,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d09d695372081d78afdfaccae726fc52]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2015/20/section/86) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/a)
+[^c-d09d695372081d78afdfaccae726fc52]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2015/20/section/86) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/a)

@@ -53,17 +53,17 @@ The Welsh Ministers consider that restrictions and requirements imposed by these
 
 In accordance with section 45R of that Act the Welsh Ministers are of the opinion that, by reason of urgency, it is necessary to make this instrument without a draft having been laid before, and approved by a resolution of, Senedd Cymru.
 
-## 1. Title and coming into force[^key-8a54befb605f1ace7f02019cee232399]
+## 1. Title and coming into force[^c-8a54befb605f1ace7f02019cee232399]
 
 (1) The title of these Regulations is the Health Protection (Coronavirus Restrictions and Functions of Local Authorities) (Amendment) (Wales) Regulations 2020.
 
 (2) These Regulations come into force at 6.00 p.m. on 4 December 2020.
 
-## 2. Amendment of the Health Protection (Coronavirus Restrictions) (No. 4) (Wales) Regulations 2020[^key-86414c30d446e73fc97f1aac32626fcd]
+## 2. Amendment of the Health Protection (Coronavirus Restrictions) (No. 4) (Wales) Regulations 2020[^c-86414c30d446e73fc97f1aac32626fcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) Regulations 2020[^key-2e905d6958acbca66a1f3ccba4507b9a]
+## 3. Amendment of the Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) Regulations 2020[^c-2e905d6958acbca66a1f3ccba4507b9a]
 
 (1) The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) Regulations 2020 [^c24417041] are amended as follows.
 
@@ -122,11 +122,11 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c24417001]: Marginal citation: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22). Sections 45C, 45F and 45P were inserted by section 129 of the [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14). The functions under these sections are conferred on “the appropriate Minister”. Under section 45T(6) of the 1984 Act the appropriate Minister, as respects Wales, is the Welsh Ministers.
 
-[^key-8a54befb605f1ace7f02019cee232399]: Commencement: Reg. 1 in force at 4.12.2020 at 6.00 p.m., see reg. 1(2)
+[^c-8a54befb605f1ace7f02019cee232399]: Commencement: Reg. 1 in force at 4.12.2020 at 6.00 p.m., see reg. 1(2)
 
-[^key-86414c30d446e73fc97f1aac32626fcd]: Textual amendment: Reg. 2 revoked (20.1.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) Regulations 2021 (S.I. 2021/57)](https://www.legislation.gov.uk/wsi/2021/57), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/57/regulation/1/2), [4(c)](https://www.legislation.gov.uk/wsi/2021/57/regulation/4/c)
+[^c-86414c30d446e73fc97f1aac32626fcd]: Textual amendment: Reg. 2 revoked (20.1.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) Regulations 2021 (S.I. 2021/57)](https://www.legislation.gov.uk/wsi/2021/57), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/57/regulation/1/2), [4(c)](https://www.legislation.gov.uk/wsi/2021/57/regulation/4/c)
 
-[^key-2e905d6958acbca66a1f3ccba4507b9a]: Commencement: Reg. 3 in force at 4.12.2020 at 6.00 p.m., see reg. 1(2)
+[^c-2e905d6958acbca66a1f3ccba4507b9a]: Commencement: Reg. 3 in force at 4.12.2020 at 6.00 p.m., see reg. 1(2)
 
 [^c24417041]: Marginal citation: [S.I. 2020/1011](https://www.legislation.gov.uk/uksi/2020/1011) (W. 225) as amended by [S.I. 2020/1100](https://www.legislation.gov.uk/uksi/2020/1100) (W. 250), [S.I. 2020/1149](https://www.legislation.gov.uk/uksi/2020/1149) (W. 261) and [S.I. 2020/1219](https://www.legislation.gov.uk/uksi/2020/1219) (W. 276).
 

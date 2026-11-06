@@ -46,11 +46,11 @@ Coming into force
 
 The Lord Chancellor makes the following Regulations in exercise of the powers in section 22(1) of the Family Law Reform Act 1969[^f00001].
 
-## 1. Citation and commencement[^key-5fe813841ae3f5619519a28fcb784cfc]
+## 1. Citation and commencement[^c-5fe813841ae3f5619519a28fcb784cfc]
 
 These Regulations may be cited as the Blood Tests (Evidence of Paternity) (Amendment) Regulations 2015 and come into force on 23rd November 2015.
 
-## 2. Amendment of the Blood Tests (Evidence of Paternity) Regulations 1971[^key-fd85dd569b067e8831dff56f46027785]
+## 2. Amendment of the Blood Tests (Evidence of Paternity) Regulations 1971[^c-fd85dd569b067e8831dff56f46027785]
 
 (1) The Blood Tests (Evidence of Paternity) Regulations 1971[^f00002] are amended as follows.
 
@@ -172,7 +172,7 @@ These Regulations may be cited as the Blood Tests (Evidence of Paternity) (Amend
   - (i) for “taken” substitute “obtained”; and
   - (ii) for “affixed” substitute “attached”.
 
-## 3. Review[^key-3851e065f115e0b8ae108f3ef1aba9b9]
+## 3. Review[^c-3851e065f115e0b8ae108f3ef1aba9b9]
 
 (1) The Secretary of State must from time to time—
 
@@ -220,9 +220,9 @@ No impact assessment has been produced for this instrument because no, or minima
 
 [^f00001]: Footnote: [1969 c. 46](https://www.legislation.gov.uk/ukpga/1969/46). Section 22 was amended by paragraph 23 of Schedule 2 to the Family Law Reform Act [1987 (c. 42)](https://www.legislation.gov.uk/ukpga/1987/42) and by section 82 of the Child Support, Pensions and Social Security Act [2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19). The powers were vested in the Lord Chancellor by article 3 of and Schedule 2 to the Transfer of Functions (Magistrates’ Courts and Family Law) Order 1992 ([S.I. 1992/709](https://www.legislation.gov.uk/uksi/1992/709)).
 
-[^key-5fe813841ae3f5619519a28fcb784cfc]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1834/regulation/1) in force at 23.11.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1834/regulation/1)
+[^c-5fe813841ae3f5619519a28fcb784cfc]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1834/regulation/1) in force at 23.11.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1834/regulation/1)
 
-[^key-fd85dd569b067e8831dff56f46027785]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1834/regulation/2) in force at 23.11.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1834/regulation/1)
+[^c-fd85dd569b067e8831dff56f46027785]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1834/regulation/2) in force at 23.11.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1834/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1971/1861](https://www.legislation.gov.uk/uksi/1971/1861).
 
@@ -250,4 +250,4 @@ No impact assessment has been produced for this instrument because no, or minima
 
 [^f00014]: Footnote: Form 1 in Schedule 1 was amended by [S.I. 2001/773](https://www.legislation.gov.uk/uksi/2001/773), [2008/972](https://www.legislation.gov.uk/uksi/2008/972) and [2014/879](https://www.legislation.gov.uk/uksi/2014/879).
 
-[^key-3851e065f115e0b8ae108f3ef1aba9b9]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1834/regulation/3) inserted (11.1.2016) by [The Blood Tests (Evidence of Paternity) (Amendment) (Review) Regulations 2015 (S.I. 2015/2048)](https://www.legislation.gov.uk/uksi/2015/2048), [regs. 1](https://www.legislation.gov.uk/uksi/2015/2048/regulation/1), [2](https://www.legislation.gov.uk/uksi/2015/2048/regulation/2)
+[^c-3851e065f115e0b8ae108f3ef1aba9b9]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1834/regulation/3) inserted (11.1.2016) by [The Blood Tests (Evidence of Paternity) (Amendment) (Review) Regulations 2015 (S.I. 2015/2048)](https://www.legislation.gov.uk/uksi/2015/2048), [regs. 1](https://www.legislation.gov.uk/uksi/2015/2048/regulation/1), [2](https://www.legislation.gov.uk/uksi/2015/2048/regulation/2)

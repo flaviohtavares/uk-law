@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Offences: emergency notices, etc.[^key-ae2f428ae27faafe762763aedd7ce6c6]
+## 40. Offences: emergency notices, etc.[^c-ae2f428ae27faafe762763aedd7ce6c6]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae2f428ae27faafe762763aedd7ce6c6]: Commencement: [Reg. 40](https://www.legislation.gov.uk/ssi/2017/282/regulation/40) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-ae2f428ae27faafe762763aedd7ce6c6]: Commencement: [Reg. 40](https://www.legislation.gov.uk/ssi/2017/282/regulation/40) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

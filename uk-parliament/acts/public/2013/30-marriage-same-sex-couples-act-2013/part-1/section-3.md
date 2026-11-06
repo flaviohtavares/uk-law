@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Marriage for which no opt-in necessary[^key-110bbd061d81446ab94386e2fed3c08d]
+## 3. Marriage for which no opt-in necessary[^c-110bbd061d81446ab94386e2fed3c08d]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ In Part 3 of the Marriage Act 1949, for section 26 substitute—
 
 ## Annotations
 
-[^key-110bbd061d81446ab94386e2fed3c08d]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2013/30/section/3) in force at 13.3.2014 by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/93/article/3/a)
+[^c-110bbd061d81446ab94386e2fed3c08d]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2013/30/section/3) in force at 13.3.2014 by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/93/article/3/a)

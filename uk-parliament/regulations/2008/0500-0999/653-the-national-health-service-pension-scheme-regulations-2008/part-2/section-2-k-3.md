@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.K.3. Service credited from the 1995 Section[^key-689c5d36d0edf6a08d1cd456a1c288ce]
+## 2.K.3. Service credited from the 1995 Section[^c-689c5d36d0edf6a08d1cd456a1c288ce]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ This is subject to paragraph (6) and regulation 2.K.13.
 
 ## Annotations
 
-[^key-689c5d36d0edf6a08d1cd456a1c288ce]: Textual amendment: [Ch. 2K](https://www.legislation.gov.uk/uksi/2008/653/chapter/2K) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [52](https://www.legislation.gov.uk/uksi/2009/2446/regulation/52)
+[^c-689c5d36d0edf6a08d1cd456a1c288ce]: Textual amendment: [Ch. 2K](https://www.legislation.gov.uk/uksi/2008/653/chapter/2K) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [52](https://www.legislation.gov.uk/uksi/2009/2446/regulation/52)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Revocations[^key-f05023a783386f1c8b8068edc52e1123]
+## SCHEDULE 2 — Revocations[^c-f05023a783386f1c8b8068edc52e1123]
 
 *Extent: E+W+S+N.I.*
 
@@ -78,4 +78,4 @@ Article 6(2)
 
 ## Annotations
 
-[^key-f05023a783386f1c8b8068edc52e1123]: Commencement: Sch. 2 in force at 3.11.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1)
+[^c-f05023a783386f1c8b8068edc52e1123]: Commencement: Sch. 2 in force at 3.11.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1)

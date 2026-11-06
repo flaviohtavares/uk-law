@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 863L. The AIFMD remuneration guidelines[^key-abc998cdb47022ee341c3bdcc3e63960]
+## 863L. The AIFMD remuneration guidelines[^c-abc998cdb47022ee341c3bdcc3e63960]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In sections 863I to 863K “**the AIFMD remuneration guidelines**” means the �
 
 ## Annotations
 
-[^key-abc998cdb47022ee341c3bdcc3e63960]: Textual amendment: Ss. 863H-863L and cross-heading inserted (with effect in accordance with Sch. 17 para. 21 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 para. 15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/15)
+[^c-abc998cdb47022ee341c3bdcc3e63960]: Textual amendment: Ss. 863H-863L and cross-heading inserted (with effect in accordance with Sch. 17 para. 21 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 para. 15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/15)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Motor Vehicles (Type Approval) Regulations 1980[^key-47351075cadd39485fecbb6c0812106d]
+## 23. Motor Vehicles (Type Approval) Regulations 1980[^c-47351075cadd39485fecbb6c0812106d]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,7 +71,7 @@ summary: ''
 
 ## Annotations
 
-[^key-47351075cadd39485fecbb6c0812106d]: Commencement: Reg. 23 in force at 26.3.2019, see reg. 1(2)
+[^c-47351075cadd39485fecbb6c0812106d]: Commencement: Reg. 23 in force at 26.3.2019, see reg. 1(2)
 
 [^c23620791]: Marginal citation: [S.I. 1980/1182](https://www.legislation.gov.uk/uksi/1980/1182), amended by [S.I. 1982/7](https://www.legislation.gov.uk/uksi/1982/7), 1986/1501, 1988/1103, 2011/1043.
 

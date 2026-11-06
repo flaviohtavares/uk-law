@@ -41,10 +41,10 @@ summary: ''
 
 (6) Sections 883 to 889 (provisions explaining when assets are treated as created or acquired) apply for the purposes of section 893 as they apply for the purposes of section 882.
 
-(6A)[^key-1cc92d7cef2f0065e94db70f8fd1cd35] Section 882(5A) to (5D) applies for the purposes of section 893 and this section.
+(6A)[^c-1cc92d7cef2f0065e94db70f8fd1cd35] Section 882(5A) to (5D) applies for the purposes of section 893 and this section.
 
 (7) Expressions used in this section have the same meaning as in section 893.
 
 ## Annotations
 
-[^key-1cc92d7cef2f0065e94db70f8fd1cd35]: Textual amendment: S. 894(6A) inserted (with effect in accordance with s. 52(5) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 52(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/52/3)
+[^c-1cc92d7cef2f0065e94db70f8fd1cd35]: Textual amendment: S. 894(6A) inserted (with effect in accordance with s. 52(5) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 52(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/52/3)

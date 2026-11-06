@@ -59,7 +59,7 @@ unless the application is to the effect mentioned in paragraph (a) or (c) above 
 
 (8) An application under this section with respect to any bodies corporate must be made by one of those bodies or by the person controlling them and must be made not less than 90 days before the date from which it is to take effect, or at such later time as the Commissioners may allow.
 
-(9) For the purposes of this section a body corporate shall be taken to control another body corporate if it is empowered by statute to control that body’s activities or if it is that body’s holding company within the meaning of section 1159 of and Schedule 6 to[^key-5ddeab156c687f1b8e9951352bf0dd1d] the [^c14453441]Companies Act 2006 ; and an individual or individuals shall be taken to control a body corporate if he or they, were he or they a company, would be that body’s holding company within the meaning of those provisions .
+(9) For the purposes of this section a body corporate shall be taken to control another body corporate if it is empowered by statute to control that body’s activities or if it is that body’s holding company within the meaning of section 1159 of and Schedule 6 to[^c-5ddeab156c687f1b8e9951352bf0dd1d] the [^c14453441]Companies Act 2006 ; and an individual or individuals shall be taken to control a body corporate if he or they, were he or they a company, would be that body’s holding company within the meaning of those provisions .
 
 ## Annotations
 
@@ -67,6 +67,6 @@ unless the application is to the effect mentioned in paragraph (a) or (c) above 
 
 [^c14453431]: Textual amendment: S. 63(1)(bb) inserted (19.3.1997) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 27(8)(b)](https://www.legislation.gov.uk/ukpga/1997/16/section/27/8/b)
 
-[^key-5ddeab156c687f1b8e9951352bf0dd1d]: Textual amendment: Words in s. 63(9) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2009 (S.I. 2009/1890)](https://www.legislation.gov.uk/uksi/2009/1890), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1890/article/1/1), [4(1)(b)](https://www.legislation.gov.uk/uksi/2009/1890/article/4/1/b)
+[^c-5ddeab156c687f1b8e9951352bf0dd1d]: Textual amendment: Words in s. 63(9) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2009 (S.I. 2009/1890)](https://www.legislation.gov.uk/uksi/2009/1890), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1890/article/1/1), [4(1)(b)](https://www.legislation.gov.uk/uksi/2009/1890/article/4/1/b)
 
 [^c14453441]: Marginal citation: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46BC. Brokering services relating to luxury goods[^key-e38b745774084e51f0ecc8e6809a554f][^key-9a0216487ba7cd61c1a6e0019c90a152]
+## 46BC. Brokering services relating to luxury goods[^c-e38b745774084e51f0ecc8e6809a554f][^c-9a0216487ba7cd61c1a6e0019c90a152]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e38b745774084e51f0ecc8e6809a554f]: Textual amendment: Regs. 46BA-46BC inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2023/1364/regulation/5)
+[^c-e38b745774084e51f0ecc8e6809a554f]: Textual amendment: Regs. 46BA-46BC inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2023/1364/regulation/5)
 
-[^key-9a0216487ba7cd61c1a6e0019c90a152]: Textual amendment: Pt. 5 Ch. 4B inserted (14.4.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 8) Regulations 2022 (S.I. 2022/452)](https://www.legislation.gov.uk/uksi/2022/452), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/452/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2022/452/regulation/4)
+[^c-9a0216487ba7cd61c1a6e0019c90a152]: Textual amendment: Pt. 5 Ch. 4B inserted (14.4.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 8) Regulations 2022 (S.I. 2022/452)](https://www.legislation.gov.uk/uksi/2022/452), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/452/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2022/452/regulation/4)

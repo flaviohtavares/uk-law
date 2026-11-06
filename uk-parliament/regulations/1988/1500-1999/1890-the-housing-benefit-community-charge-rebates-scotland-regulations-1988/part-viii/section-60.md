@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 60. Circumstances in which claims need not be made[^key-b015ae37c1d9033f02b777ea81033827]
+## 60. Circumstances in which claims need not be made[^c-b015ae37c1d9033f02b777ea81033827]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ he shall be treated as having made a claim for community charge rebate in respec
 
 ## Annotations
 
-[^key-b015ae37c1d9033f02b777ea81033827]: Commencement: Reg. 60 in force at 23.11.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-b015ae37c1d9033f02b777ea81033827]: Commencement: Reg. 60 in force at 23.11.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

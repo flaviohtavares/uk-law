@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 127. Court order for alteration of the register—form and service[^key-d304cb5dfb69d398e1afa8af25d99486]
+## 127. Court order for alteration of the register—form and service[^c-d304cb5dfb69d398e1afa8af25d99486]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d304cb5dfb69d398e1afa8af25d99486]: Modification: Rule 127 excluded (27.9.2004) by [THE COMMONHOLD (LAND REGISTRATION) RULES 2004 (S.I. 2004/1830)](https://www.legislation.gov.uk/uksi/2004/1830), [rules 1](https://www.legislation.gov.uk/uksi/2004/1830/rule/1), [3(2)](https://www.legislation.gov.uk/uksi/2004/1830/rule/3/2)
+[^c-d304cb5dfb69d398e1afa8af25d99486]: Modification: Rule 127 excluded (27.9.2004) by [THE COMMONHOLD (LAND REGISTRATION) RULES 2004 (S.I. 2004/1830)](https://www.legislation.gov.uk/uksi/2004/1830), [rules 1](https://www.legislation.gov.uk/uksi/2004/1830/rule/1), [3(2)](https://www.legislation.gov.uk/uksi/2004/1830/rule/3/2)

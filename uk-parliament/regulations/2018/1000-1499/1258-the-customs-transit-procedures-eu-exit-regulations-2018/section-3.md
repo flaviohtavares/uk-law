@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. TIR transit procedure[^key-522fd9012bb9cf6add6f3a437f0c5489]
+## 3. TIR transit procedure[^c-522fd9012bb9cf6add6f3a437f0c5489]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-522fd9012bb9cf6add6f3a437f0c5489]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/1258/regulation/3) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-522fd9012bb9cf6add6f3a437f0c5489]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/1258/regulation/3) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23714611]: Marginal citation: ECE/TRANS/WP.30.AC.2/95, paragraph 24; http://www.unece.org/tir/welcome.html. A hard copy may be inspected free of charge by arrangement with HM Revenue and Customs at 100 Parliament Street, London, SW1A 2BQ.

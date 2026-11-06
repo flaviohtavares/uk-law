@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Post-conviction powers[^key-1c5eb2fc7ab8a25c3989ba0909230feb]
+## 25. Post-conviction powers[^c-1c5eb2fc7ab8a25c3989ba0909230feb]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c5eb2fc7ab8a25c3989ba0909230feb]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2021/84/regulation/25) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-1c5eb2fc7ab8a25c3989ba0909230feb]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2021/84/regulation/25) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)

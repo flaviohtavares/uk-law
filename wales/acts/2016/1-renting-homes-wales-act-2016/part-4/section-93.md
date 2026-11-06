@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 93. Obligations under sections 91 and 92: supplementary[^key-89e1d645cb04fa52ce45236d771f6e5a]
+## 93. Obligations under sections 91 and 92: supplementary[^c-89e1d645cb04fa52ce45236d771f6e5a]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89e1d645cb04fa52ce45236d771f6e5a]: Commencement: [S. 93](https://www.legislation.gov.uk/anaw/2016/1/section/93) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-89e1d645cb04fa52ce45236d771f6e5a]: Commencement: [S. 93](https://www.legislation.gov.uk/anaw/2016/1/section/93) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

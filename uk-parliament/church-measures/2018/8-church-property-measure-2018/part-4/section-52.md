@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 52. Repeals and revocations[^key-53ed078e70f22d5903e3c529321c1646]
+## 52. Repeals and revocations[^c-53ed078e70f22d5903e3c529321c1646]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ The provisions specified in Schedule 3 are repealed or revoked to the extent so 
 
 ## Annotations
 
-[^key-53ed078e70f22d5903e3c529321c1646]: Commencement: [S. 52](https://www.legislation.gov.uk/ukcm/2018/8/section/52) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-53ed078e70f22d5903e3c529321c1646]: Commencement: [S. 52](https://www.legislation.gov.uk/ukcm/2018/8/section/52) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

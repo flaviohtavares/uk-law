@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Notice of liability[^key-84da3b42f668847724ab5e1cfbdc2cd3]
+## 67. Notice of liability[^c-84da3b42f668847724ab5e1cfbdc2cd3]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84da3b42f668847724ab5e1cfbdc2cd3]: Commencement: Reg. 67 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-84da3b42f668847724ab5e1cfbdc2cd3]: Commencement: Reg. 67 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45AA. Effect of working families' tax credit and disabled person's tax credit on earnings factor[^key-fca9da63cf3c75941e1aa2e7619bfc8f]
+## 45AA. Effect of working families' tax credit and disabled person's tax credit on earnings factor[^c-fca9da63cf3c75941e1aa2e7619bfc8f]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fca9da63cf3c75941e1aa2e7619bfc8f]: Textual amendment: S. 45AA inserted (with application in accordance with Sch. 4 para. 5(2)-(5) of the amending Act) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 4 para. 5(1)](https://www.legislation.gov.uk/ukpga/2008/30/schedule/4/paragraph/5/1); [S.I. 2011/3033](https://www.legislation.gov.uk/uksi/2011/3033), [art. 2(c)(v)](https://www.legislation.gov.uk/uksi/2011/3033/article/2/c/v)
+[^c-fca9da63cf3c75941e1aa2e7619bfc8f]: Textual amendment: S. 45AA inserted (with application in accordance with Sch. 4 para. 5(2)-(5) of the amending Act) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 4 para. 5(1)](https://www.legislation.gov.uk/ukpga/2008/30/schedule/4/paragraph/5/1); [S.I. 2011/3033](https://www.legislation.gov.uk/uksi/2011/3033), [art. 2(c)(v)](https://www.legislation.gov.uk/uksi/2011/3033/article/2/c/v)

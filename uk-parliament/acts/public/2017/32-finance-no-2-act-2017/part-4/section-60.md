@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-172f43f60fecfaf2080f5c22173afbf0] TMA 1970 is amended as set out in subsections (2) and (3).
+(1)[^c-172f43f60fecfaf2080f5c22173afbf0] TMA 1970 is amended as set out in subsections (2) and (3).
 
-(2)[^key-172f43f60fecfaf2080f5c22173afbf0] After section 12B insert—
+(2)[^c-172f43f60fecfaf2080f5c22173afbf0] After section 12B insert—
 
 > **Digital reporting and record-keeping**
 >
@@ -30,7 +30,7 @@ summary: ''
 >
 > Schedule A1 (digital reporting and record-keeping) has effect.
 
-(3)[^key-172f43f60fecfaf2080f5c22173afbf0] Before Schedule 1AA insert—
+(3)[^c-172f43f60fecfaf2080f5c22173afbf0] Before Schedule 1AA insert—
 
 > **SCHEDULE A1 — Digital reporting and record-keeping**
 >
@@ -270,9 +270,9 @@ summary: ''
 >
 > **Interpretation**
 >
-> **17.** (1)[^key-243806213b23e1c5fde18ad0bcd10a8d] Any power in this Schedule to require the provision of information includes power to require the provision of accounts, statements and documents relating to that information.
+> **17.** (1)[^c-243806213b23e1c5fde18ad0bcd10a8d] Any power in this Schedule to require the provision of information includes power to require the provision of accounts, statements and documents relating to that information.
 >
-> (2)[^key-8a7b08611e55a0f120ab5b5eec681a68] Where a partnership (“the reporting partnership”) includes a partner which is itself a partnership, references in this Schedule to a partner include an indirect partner in the reporting partnership.
+> (2)[^c-8a7b08611e55a0f120ab5b5eec681a68] Where a partnership (“the reporting partnership”) includes a partner which is itself a partnership, references in this Schedule to a partner include an indirect partner in the reporting partnership.
 >
 > Section 12AA(1C) (meaning of “indirect partner”) applies for the purposes of this sub-paragraph.
 >
@@ -301,8 +301,8 @@ summary: ''
 
 ## Annotations
 
-[^key-172f43f60fecfaf2080f5c22173afbf0]: Commencement: [S. 60(1)-(3)](https://www.legislation.gov.uk/ukpga/2017/32/section/60/1) in force at 1.4.2026 by [S.I. 2026/356](https://www.legislation.gov.uk/uksi/2026/356), [reg. 2](https://www.legislation.gov.uk/uksi/2026/356/regulation/2)
+[^c-172f43f60fecfaf2080f5c22173afbf0]: Commencement: [S. 60(1)-(3)](https://www.legislation.gov.uk/ukpga/2017/32/section/60/1) in force at 1.4.2026 by [S.I. 2026/356](https://www.legislation.gov.uk/uksi/2026/356), [reg. 2](https://www.legislation.gov.uk/uksi/2026/356/regulation/2)
 
-[^key-243806213b23e1c5fde18ad0bcd10a8d]: Textual amendment: Word in [s. 60](https://www.legislation.gov.uk/ukpga/2017/32/section/60) inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 6 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/6/paragraph/7/2/a)
+[^c-243806213b23e1c5fde18ad0bcd10a8d]: Textual amendment: Word in [s. 60](https://www.legislation.gov.uk/ukpga/2017/32/section/60) inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 6 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/6/paragraph/7/2/a)
 
-[^key-8a7b08611e55a0f120ab5b5eec681a68]: Textual amendment: Words in [s. 60](https://www.legislation.gov.uk/ukpga/2017/32/section/60) inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 6 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/6/paragraph/7/2/b)
+[^c-8a7b08611e55a0f120ab5b5eec681a68]: Textual amendment: Words in [s. 60](https://www.legislation.gov.uk/ukpga/2017/32/section/60) inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 6 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/6/paragraph/7/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Determination of applications for a variation[^c2172041][^key-9f22b7f8f04cfef710d344dcc77b6f43][^key-d11585090e42607044f219858f27190a]
+## 18. Determination of applications for a variation[^c2172041][^c-9f22b7f8f04cfef710d344dcc77b6f43][^c-d11585090e42607044f219858f27190a]
 
 *Extent: E+W+S*
 
@@ -40,9 +40,9 @@ summary: ''
 
 [^c2172041]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2008/6/section/18) partly in force; [s. 18](https://www.legislation.gov.uk/ukpga/2008/6/section/18) not in force at Royal Assent see [s. 62](https://www.legislation.gov.uk/ukpga/2008/6/section/62); [s. 18](https://www.legislation.gov.uk/ukpga/2008/6/section/18) in force for certain purposes at 10.12.2012 by [S.I. 2012/3042](https://www.legislation.gov.uk/uksi/2012/3042), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/3042/article/2/c)
 
-[^key-9f22b7f8f04cfef710d344dcc77b6f43]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2008/6/section/18) in force at 29.7.2013 for specified purposes by [S.I. 2013/1860](https://www.legislation.gov.uk/uksi/2013/1860), [arts. 2(c)](https://www.legislation.gov.uk/uksi/2013/1860/article/2/c), [3](https://www.legislation.gov.uk/uksi/2013/1860/article/3) (with [arts. 5](https://www.legislation.gov.uk/uksi/2013/1860/article/5), [7](https://www.legislation.gov.uk/uksi/2013/1860/article/7)) (as amended (24.6.2014) by S.I. 2014/1635, art. 7)
+[^c-9f22b7f8f04cfef710d344dcc77b6f43]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2008/6/section/18) in force at 29.7.2013 for specified purposes by [S.I. 2013/1860](https://www.legislation.gov.uk/uksi/2013/1860), [arts. 2(c)](https://www.legislation.gov.uk/uksi/2013/1860/article/2/c), [3](https://www.legislation.gov.uk/uksi/2013/1860/article/3) (with [arts. 5](https://www.legislation.gov.uk/uksi/2013/1860/article/5), [7](https://www.legislation.gov.uk/uksi/2013/1860/article/7)) (as amended (24.6.2014) by S.I. 2014/1635, art. 7)
 
-[^key-d11585090e42607044f219858f27190a]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2008/6/section/18) in force at 25.11.2013 in so far as not already in force by [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2947/article/2/a) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2013/2947/article/3))
+[^c-d11585090e42607044f219858f27190a]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2008/6/section/18) in force at 25.11.2013 in so far as not already in force by [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2947/article/2/a) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2013/2947/article/3))
 
 [^c2172044]: Textual amendment: Words in [s. 18](https://www.legislation.gov.uk/ukpga/2008/6/section/18) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 3(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/3/2), [Sch. para. 78(2)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/78/2)
 

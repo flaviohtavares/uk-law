@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 231. Abolition of Patients' Forums[^key-139c2031e5c77d7221c58e610bfede75]
+## 231. Abolition of Patients' Forums[^c-139c2031e5c77d7221c58e610bfede75]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-139c2031e5c77d7221c58e610bfede75]: Commencement: S. 231 in force at 1.4.2008 by [S.I. 2008/461](https://www.legislation.gov.uk/uksi/2008/461), [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/461/article/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/461/schedule)
+[^c-139c2031e5c77d7221c58e610bfede75]: Commencement: S. 231 in force at 1.4.2008 by [S.I. 2008/461](https://www.legislation.gov.uk/uksi/2008/461), [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/461/article/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/461/schedule)

@@ -16,22 +16,22 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52ZX. Meaning of relevant basic amount of council tax[^key-6e7ef88ffa521f0c646645ea0a191527]
+## 52ZX. Meaning of relevant basic amount of council tax[^c-6e7ef88ffa521f0c646645ea0a191527]
 
 *Extent: E+W*
 
-(1) Any reference in this Chapter to a billing authority's relevant basic amount of council tax for a financial year is a reference to the amount that would be calculated by it in relation to the year under section 31B(1) above if section 31A above did not require or permit it to take into account the amount of any precepts—[^key-89d9c3926a00b7453c9df31009a7f7d8]
+(1) Any reference in this Chapter to a billing authority's relevant basic amount of council tax for a financial year is a reference to the amount that would be calculated by it in relation to the year under section 31B(1) above if section 31A above did not require or permit it to take into account the amount of any precepts—[^c-89d9c3926a00b7453c9df31009a7f7d8]
 
 - (a) issued to it for the year by local precepting authorities, or
 - (b) anticipated by it in pursuance of regulations under section 41 above.
 
-(2) In the case of a major precepting authority other than [^key-92090853433b4dd1e1e6b7ba90bb22c0]... the Greater London Authority, any reference in this Chapter to the authority's relevant basic amount of council tax for a financial year is a reference to the amount calculated by it in relation to the year under section 42B(1) above.
+(2) In the case of a major precepting authority other than [^c-92090853433b4dd1e1e6b7ba90bb22c0]... the Greater London Authority, any reference in this Chapter to the authority's relevant basic amount of council tax for a financial year is a reference to the amount calculated by it in relation to the year under section 42B(1) above.
 
-(3)[^key-9acb3b201e0fa42ed9127632ac6a71f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9acb3b201e0fa42ed9127632ac6a71f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In the case of a major precepting authority that is the Greater London Authority, any reference in this Chapter to the authority's relevant basic amount of council tax for a financial year is a reference to—
 
-- (a)[^key-d6a504545865a345a7225abd8a6aecb6] the amount calculated by it in relation to the year under section 88(2) of the Greater London Authority Act 1999 (referred to in this Chapter as the Greater London Authority's unadjusted relevant basic amount of council tax for the year), or
+- (a)[^c-d6a504545865a345a7225abd8a6aecb6] the amount calculated by it in relation to the year under section 88(2) of the Greater London Authority Act 1999 (referred to in this Chapter as the Greater London Authority's unadjusted relevant basic amount of council tax for the year), or
 - (b) any amount calculated by it in relation to the year under section 89(3) of that Act (referred to in this Chapter as the Greater London Authority's adjusted relevant basic amount of council tax for the year).
 
 (5) Any reference in this Chapter to a local precepting authority's relevant basic amount of council tax for a financial year is a reference to the amount found by applying the formula—
@@ -54,12 +54,12 @@ T is the amount which is calculated by the billing authority to which the author
 
 ## Annotations
 
-[^key-6e7ef88ffa521f0c646645ea0a191527]: Textual amendment: Pt. 1 Ch. 4ZA inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 72(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/72/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/5); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/g) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2011/2896/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2011/2896/article/3/2))
+[^c-6e7ef88ffa521f0c646645ea0a191527]: Textual amendment: Pt. 1 Ch. 4ZA inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 72(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/72/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/5); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/g) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2011/2896/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2011/2896/article/3/2))
 
-[^key-89d9c3926a00b7453c9df31009a7f7d8]: Textual amendment: S. 52ZX(1)(a)(b) and words substituted for s. 52ZX(1)(a)(b) (30.1.2014) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [ss. 41(10)](https://www.legislation.gov.uk/ukpga/2014/2/section/41/10), [49(3)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/3)
+[^c-89d9c3926a00b7453c9df31009a7f7d8]: Textual amendment: S. 52ZX(1)(a)(b) and words substituted for s. 52ZX(1)(a)(b) (30.1.2014) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [ss. 41(10)](https://www.legislation.gov.uk/ukpga/2014/2/section/41/10), [49(3)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/3)
 
-[^key-92090853433b4dd1e1e6b7ba90bb22c0]: Textual amendment: Words in s. 52ZX(2) omitted (30.1.2014) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [ss. 41(11)](https://www.legislation.gov.uk/ukpga/2014/2/section/41/11), [49(3)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/3)
+[^c-92090853433b4dd1e1e6b7ba90bb22c0]: Textual amendment: Words in s. 52ZX(2) omitted (30.1.2014) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [ss. 41(11)](https://www.legislation.gov.uk/ukpga/2014/2/section/41/11), [49(3)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/3)
 
-[^key-9acb3b201e0fa42ed9127632ac6a71f3]: Textual amendment: S. 52ZX(3) omitted (30.1.2014) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [ss. 41(12)](https://www.legislation.gov.uk/ukpga/2014/2/section/41/12), [49(3)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/3)
+[^c-9acb3b201e0fa42ed9127632ac6a71f3]: Textual amendment: S. 52ZX(3) omitted (30.1.2014) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [ss. 41(12)](https://www.legislation.gov.uk/ukpga/2014/2/section/41/12), [49(3)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/3)
 
-[^key-d6a504545865a345a7225abd8a6aecb6]: Textual amendment: S. 52ZX(4)(a)(b) substituted (30.1.2014) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [ss. 41(13)](https://www.legislation.gov.uk/ukpga/2014/2/section/41/13), [49(3)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/3)
+[^c-d6a504545865a345a7225abd8a6aecb6]: Textual amendment: S. 52ZX(4)(a)(b) substituted (30.1.2014) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [ss. 41(13)](https://www.legislation.gov.uk/ukpga/2014/2/section/41/13), [49(3)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/3)

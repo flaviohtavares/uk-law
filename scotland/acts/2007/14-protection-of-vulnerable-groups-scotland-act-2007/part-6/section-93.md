@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 93. Meaning of “harm”[^key-fac09b98365387d4a55520b22354a871]
+## 93. Meaning of “harm”[^c-fac09b98365387d4a55520b22354a871]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ and references to being placed at risk of harm are to be construed accordingly.
 
 ## Annotations
 
-[^key-fac09b98365387d4a55520b22354a871]: Commencement: [S. 93](https://www.legislation.gov.uk/asp/2007/14/section/93) in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)
+[^c-fac09b98365387d4a55520b22354a871]: Commencement: [S. 93](https://www.legislation.gov.uk/asp/2007/14/section/93) in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)

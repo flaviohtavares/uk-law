@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Applicant to provide safety operations manual to regulator[^key-4f931334385be6d2e34a42c471f5d489]
+## 30. Applicant to provide safety operations manual to regulator[^c-4f931334385be6d2e34a42c471f5d489]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f931334385be6d2e34a42c471f5d489]: Commencement: Reg. 30 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-4f931334385be6d2e34a42c471f5d489]: Commencement: Reg. 30 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

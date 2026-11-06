@@ -32,7 +32,7 @@ summary: ''
 
 NATIONAL HEALTH SERVICE, ENGLAND AND WALES
 
-The Personal Injuries (NHS Charges) (Amounts) (Amendment) Regulations 2024 (revoked)[^key-514f10221eb2689c7a8b9cb7825ee64d]
+The Personal Injuries (NHS Charges) (Amounts) (Amendment) Regulations 2024 (revoked)[^c-514f10221eb2689c7a8b9cb7825ee64d]
 
 Made
 
@@ -46,26 +46,26 @@ Coming into force
 
 1st April 2024
 
-[^key-514f10221eb2689c7a8b9cb7825ee64d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-514f10221eb2689c7a8b9cb7825ee64d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and interpretation[^key-514f10221eb2689c7a8b9cb7825ee64d]
+## 1. Citation, commencement, extent and interpretation[^c-514f10221eb2689c7a8b9cb7825ee64d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Schedule 1 to the 2015 Regulations[^key-514f10221eb2689c7a8b9cb7825ee64d]
+## 2. Amendment of Schedule 1 to the 2015 Regulations[^c-514f10221eb2689c7a8b9cb7825ee64d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-514f10221eb2689c7a8b9cb7825ee64d]
+## 3. Revocation[^c-514f10221eb2689c7a8b9cb7825ee64d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-514f10221eb2689c7a8b9cb7825ee64d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-514f10221eb2689c7a8b9cb7825ee64d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-514f10221eb2689c7a8b9cb7825ee64d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-514f10221eb2689c7a8b9cb7825ee64d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-514f10221eb2689c7a8b9cb7825ee64d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/220) revoked (1.10.2024) by [The Personal Injuries (NHS Charges) (Amounts) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/895)](https://www.legislation.gov.uk/uksi/2024/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/895/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2024/895/regulation/3)
+[^c-514f10221eb2689c7a8b9cb7825ee64d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/220) revoked (1.10.2024) by [The Personal Injuries (NHS Charges) (Amounts) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/895)](https://www.legislation.gov.uk/uksi/2024/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/895/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2024/895/regulation/3)

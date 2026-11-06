@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Debtor application: incomplete application[^key-228ec5f683ff87fd77c718c383cf09aa]
+## 20. Debtor application: incomplete application[^c-228ec5f683ff87fd77c718c383cf09aa]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-228ec5f683ff87fd77c718c383cf09aa]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2016/21/section/20) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-228ec5f683ff87fd77c718c383cf09aa]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2016/21/section/20) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

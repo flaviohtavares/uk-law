@@ -42,9 +42,9 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(1).
 
-The Secretary of State, in exercise of the powers conferred by sections 143A and 213(2) of the Water Industry Act 1991[^f00001], makes the following Regulations.[^key-ae8f087c55152db0f3c40660802e0dd3]
+The Secretary of State, in exercise of the powers conferred by sections 143A and 213(2) of the Water Industry Act 1991[^f00001], makes the following Regulations.[^c-ae8f087c55152db0f3c40660802e0dd3]
 
-## 1. Citation, commencement, application, and interpretation[^key-a89939f2319d31809396e8daeee29fde]
+## 1. Citation, commencement, application, and interpretation[^c-a89939f2319d31809396e8daeee29fde]
 
 (1) These Regulations may be cited as the Water Industry (Charges) (Vulnerable Groups) (Consolidation) Regulations 2015 and come into force on 1st April 2015.
 
@@ -58,7 +58,7 @@ The Secretary of State, in exercise of the powers conferred by sections 143A and
 - “relevant sewerage undertaker” means, in relation to the premises, the undertaker to which the consumer is liable to pay charges in respect of sewerage services for the premises; and
 - “relevant water undertaker” means, in relation to the premises, the undertaker to which the consumer is liable to pay charges in respect of the supply of water for the premises.
 
-## 2. Special provision to be included in charges schemes[^key-1a7132a5c55a072cd19b0dab987ec77d]
+## 2. Special provision to be included in charges schemes[^c-1a7132a5c55a072cd19b0dab987ec77d]
 
 (1) Subject to regulation 5, any charges scheme must include special provision for providing assistance in accordance with these Regulations in relation to any premises for any consumer if—
 
@@ -107,7 +107,7 @@ The Secretary of State, in exercise of the powers conferred by sections 143A and
   - (ii) automatically replenishing a pond, or a swimming pool, with a capacity greater than 10,000 litres; and
 - (e) the consumer has applied for assistance and established their entitlement to it in accordance with regulation 4.
 
-## 3. Assistance to be provided[^key-b47d57e47d01a090f37759e11995f464]
+## 3. Assistance to be provided[^c-b47d57e47d01a090f37759e11995f464]
 
 (1) Subject to regulation 5, a water or sewerage undertaker’s charges scheme must ensure that the charges of any consumer who has established their entitlement to assistance in accordance with regulation 4 in relation to any premises—
 
@@ -122,7 +122,7 @@ The Secretary of State, in exercise of the powers conferred by sections 143A and
 
 (5) Where a consumer ceases to be eligible for assistance part way through the period of entitlement which would otherwise apply under paragraph (4), the consumer’s period of entitlement ends at the end of the billing period in which the consumer ceases to be eligible for assistance.
 
-## 4. Method of establishing entitlement to assistance[^key-99db968c4fc892448d9b102022548fed]
+## 4. Method of establishing entitlement to assistance[^c-99db968c4fc892448d9b102022548fed]
 
 (1) An application for assistance under these Regulations must be made by the consumer to the relevant water undertaker, except that where the area of that water undertaker is wholly or mainly in Wales the application must be made to the relevant sewerage undertaker.
 
@@ -170,7 +170,7 @@ and if during the year the water undertaker becomes aware that the consumer has 
 
 (12) Paragraph (11) does not apply in relation to the provision of a certificate under paragraph (7).
 
-## 5. Social tariffs[^key-35db3389e7a122978c256ec1ad231762]
+## 5. Social tariffs[^c-35db3389e7a122978c256ec1ad231762]
 
 A relevant water or sewerage undertaker’s obligation under regulation 2(1) to make special provision in its charges scheme for providing assistance in accordance with these Regulations is discharged if—
 
@@ -178,7 +178,7 @@ A relevant water or sewerage undertaker’s obligation under regulation 2(1) to 
 - (b) the social tariff is offered to individuals who would be able to establish an entitlement for assistance under regulations 2 and 4; and
 - (c) the social tariff reduces the charges by at least the same amount as the assistance that would be provided under regulation 3(1).
 
-## 6. Review[^key-5edef4c85970cbfc7c672edcdd1d3af6]
+## 6. Review[^c-5edef4c85970cbfc7c672edcdd1d3af6]
 
 (1) Before the end of the review period, the Secretary of State must—
 
@@ -194,7 +194,7 @@ A relevant water or sewerage undertaker’s obligation under regulation 2(1) to 
 
 (3) In this regulation, “review period” means the period of five years beginning with the day on which these Regulations come into force.
 
-## 7. Revocations[^key-6576a760093b1d39505edba95b7ab0e5]
+## 7. Revocations[^c-6576a760093b1d39505edba95b7ab0e5]
 
 The following Regulations are revoked—
 
@@ -223,15 +223,15 @@ An impact assessment has not been produced for this instrument as no impact is f
 
 [^f00001]: Footnote: [1991 c.56](https://www.legislation.gov.uk/ukpga/1991/56); section 143A was inserted by section 5 of the Water Industry Act [1999 (c.9)](https://www.legislation.gov.uk/ukpga/1999/9).
 
-[^key-ae8f087c55152db0f3c40660802e0dd3]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2015/365) applied (Isles of Scilly) (27.3.2020) by [The Isles of Scilly (Application of Water Legislation) Order 2020 (S.I. 2020/214)](https://www.legislation.gov.uk/uksi/2020/214), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/214/article/2/1), [5(t)](https://www.legislation.gov.uk/uksi/2020/214/article/5/t)
+[^c-ae8f087c55152db0f3c40660802e0dd3]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2015/365) applied (Isles of Scilly) (27.3.2020) by [The Isles of Scilly (Application of Water Legislation) Order 2020 (S.I. 2020/214)](https://www.legislation.gov.uk/uksi/2020/214), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/214/article/2/1), [5(t)](https://www.legislation.gov.uk/uksi/2020/214/article/5/t)
 
-[^key-a89939f2319d31809396e8daeee29fde]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/365/regulation/1) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/365/regulation/1/1)
+[^c-a89939f2319d31809396e8daeee29fde]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/365/regulation/1) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/365/regulation/1/1)
 
 [^f00002]: Footnote: The functions of the Secretary of State under section 143A of the Water Industry Act 1991 were transferred to the National Assembly for Wales in relation to water and sewerage undertakers whose areas are wholly or mainly in Wales, by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I 1999/672](https://www.legislation.gov.uk/uksi/1999/672)), art 2(a), Sch 1, as amended by the National Assembly for Wales (Transfer of Functions) Order 2000 ([SI 2000/253](https://www.legislation.gov.uk/uksi/2000/253)), art 4, Sch 3(e). The functions of the National Assembly for Wales were transferred to the Welsh Ministers by section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
 [^f00003]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-1a7132a5c55a072cd19b0dab987ec77d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/365/regulation/2) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/365/regulation/1/1)
+[^c-1a7132a5c55a072cd19b0dab987ec77d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/365/regulation/2) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/365/regulation/1/1)
 
 [^f00004]: Footnote: see section 123(1)(d) of the 1992 Act.
 
@@ -251,19 +251,19 @@ An impact assessment has not been produced for this instrument as no impact is f
 
 [^f00012]: Footnote: [2012 c.5](https://www.legislation.gov.uk/ukpga/2012/5); see section 3 of this Act.
 
-[^key-b47d57e47d01a090f37759e11995f464]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/365/regulation/3) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/365/regulation/1/1)
+[^c-b47d57e47d01a090f37759e11995f464]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/365/regulation/3) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/365/regulation/1/1)
 
 [^f00013]: Footnote: i.e. the Water Services Regulation Authority: see section 1A(1) of the Water Industry Act 1991, as inserted by section 34(1) of the Water Act [2003 (c.37)](https://www.legislation.gov.uk/ukpga/2003/37).
 
-[^key-99db968c4fc892448d9b102022548fed]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/365/regulation/4) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/365/regulation/1/1)
+[^c-99db968c4fc892448d9b102022548fed]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/365/regulation/4) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/365/regulation/1/1)
 
-[^key-35db3389e7a122978c256ec1ad231762]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/365/regulation/5) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/365/regulation/1/1)
+[^c-35db3389e7a122978c256ec1ad231762]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/365/regulation/5) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/365/regulation/1/1)
 
 [^f00014]: Footnote: [2010 c.29](https://www.legislation.gov.uk/ukpga/2010/29).
 
-[^key-5edef4c85970cbfc7c672edcdd1d3af6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/365/regulation/6) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/365/regulation/1/1)
+[^c-5edef4c85970cbfc7c672edcdd1d3af6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/365/regulation/6) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/365/regulation/1/1)
 
-[^key-6576a760093b1d39505edba95b7ab0e5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/365/regulation/7) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/365/regulation/1/1)
+[^c-6576a760093b1d39505edba95b7ab0e5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/365/regulation/7) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/365/regulation/1/1)
 
 [^f00015]: Footnote: [S.I. 1999/3441](https://www.legislation.gov.uk/uksi/1999/3441), amended by [S.I. 2000/519](https://www.legislation.gov.uk/uksi/2000/519), [S.I. 2003/552](https://www.legislation.gov.uk/uksi/2003/552) and [S.I. 2005/59](https://www.legislation.gov.uk/uksi/2005/59).
 

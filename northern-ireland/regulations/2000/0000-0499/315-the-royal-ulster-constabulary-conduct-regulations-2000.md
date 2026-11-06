@@ -45,11 +45,11 @@ The Secretary of State, in pursuance of Sections 25 and 26 of the Police Act (No
 
 ## Part I — General
 
-### 1. Citation and commencement[^key-9be409b23113a6663f6a06295f4e6b61]
+### 1. Citation and commencement[^c-9be409b23113a6663f6a06295f4e6b61]
 
 These Regulations may be cited as the Royal Ulster Constabulary (Conduct) Regulations 2000 and shall come into operation on 6th November 2000.
 
-### 2. Revocations and transitional provisions[^key-91340da9b1324ea07c49c4bd34960432]
+### 2. Revocations and transitional provisions[^c-91340da9b1324ea07c49c4bd34960432]
 
 (1) Subject to the provisions of paragraphs (3) and (4), the regulations mentioned in Schedule 1 are hereby revoked to the extent specified in column 3 of the Table therein.
 
@@ -63,11 +63,11 @@ These Regulations may be cited as the Royal Ulster Constabulary (Conduct) Regula
 
 (4) In the case of a report, complaint or allegation which relates to conduct by a member of the police force which occurred or commenced after 6th November 2000, these regulations shall apply.
 
-### 3. Regulations not to apply in the case of senior officers[^key-b55fd0d2645790f369f48e6f55891dfb]
+### 3. Regulations not to apply in the case of senior officers[^c-b55fd0d2645790f369f48e6f55891dfb]
 
 These Regulations shall not apply in relation to the conduct of the Chief Constable, a deputy chief constable or an assistant chief constable.
 
-### 4. Interpretation[^key-ddf49b8c0b21769c7c97184094701967]
+### 4. Interpretation[^c-ddf49b8c0b21769c7c97184094701967]
 
 In these Regulations, the following expressions have the meanings hereby assigned to them—
 
@@ -91,7 +91,7 @@ In these Regulations, the following expressions have the meanings hereby assigne
 
 ## Part II — Suspension and Investigation
 
-### 5. Suspension[^key-21807db9d6e408ae7d86a0889395dcec]
+### 5. Suspension[^c-21807db9d6e408ae7d86a0889395dcec]
 
 (1) Where there has been a report, allegation or complaint which indicates that the conduct of a member did not meet the appropriate standard, the Chief Constable may suspend the member concerned from duty and from his office of constable whether or not the matter has been investigated.
 
@@ -108,11 +108,11 @@ In these Regulations, the following expressions have the meanings hereby assigne
 
 (5) The Chief Constable may delegate his powers under this regulation to another senior officer.
 
-### 6. Suspension of investigations where there are outstanding criminal proceedings[^key-5e0e8567b318f40643a748fd1c6861c0]
+### 6. Suspension of investigations where there are outstanding criminal proceedings[^c-5e0e8567b318f40643a748fd1c6861c0]
 
 Where there are criminal proceedings outstanding against the member concerned, proceedings under these regulations, except the power to suspend under regulation 5, shall not take place unless the Chief Constable believes that in the exceptional circumstances of the case it would be appropriate for them to do so.
 
-### 7. Investigation[^key-aac9582e6ea4960955d2c0703e06fe0d]
+### 7. Investigation[^c-aac9582e6ea4960955d2c0703e06fe0d]
 
 (1) Subject to paragraph (2), where a report, complaint or allegation is received which indicates that the conduct of a member did not meet the appropriate standard the case may be referred to an officer, who shall satisfy the conditions in paragraph (3), to supervise the investigation of the case (the supervising member).
 
@@ -125,7 +125,7 @@ Where there are criminal proceedings outstanding against the member concerned, p
 - (c) at least one rank above that of the member concerned; and
 - (d) not an interested party.
 
-### 8. Appointment of investigating officer[^key-d753c5a397782d8d5f4f2dfe99449b73]
+### 8. Appointment of investigating officer[^c-d753c5a397782d8d5f4f2dfe99449b73]
 
 (1) The supervising member may appoint an investigating officer to investigate the case.
 
@@ -139,7 +139,7 @@ Where there are criminal proceedings outstanding against the member concerned, p
 
 (3) The provisions of this regulation are without prejudice to the powers of the Ombudsman with regard to the approval of the investigating officer under section 57(3) of the Act of 1998 or the appointment of an investigating officer of the Ombudsman under section 56(1) of the Act of 1998.
 
-### 9. Notice of investigation and giving of caution[^key-e26caf948d9d1ffecc5b20ffb2c8295e]
+### 9. Notice of investigation and giving of caution[^c-e26caf948d9d1ffecc5b20ffb2c8295e]
 
 The investigating officer shall, as soon as is practicable (without prejudicing his or any other investigation of the matter),—
 
@@ -152,7 +152,7 @@ The investigating officer shall, as soon as is practicable (without prejudicing 
 - (c) where he reasonably believes that the presence of any object, substance or mark found on the person of that member or in or on his clothing, footwear or otherwise in his possession or in any place in which the member was present at a time material to the subject matter of the report, complaint or allegation may be attributable to the member’s having breached the Code of Conduct, inform the member that he so believes and give him in writing the caution set out in paragraph 2, of Schedule 2,
 - (d) where he reasonably believes that the presence of that member at a place at or about the time the breach of the Code of Conduct was alleged to have been committed may be attributable to his involvement in that breach, inform the member that he so believes and give him in writing the caution set out in paragraph 3, of Schedule 2.
 
-### 10. Investigating Officer’s report[^key-2c5504eea2de47f217429da7e80219e3]
+### 10. Investigating Officer’s report[^c-2c5504eea2de47f217429da7e80219e3]
 
 (1) At the end of his investigation the investigating officer shall submit a written report on the case to the supervising member or to the Ombudsman.
 
@@ -161,7 +161,7 @@ The investigating officer shall, as soon as is practicable (without prejudicing 
 - (a) a statement of his belief that the case may be one in which regulation 39 applies and the grounds for that belief; and
 - (b) a written report on the case so far as it has been investigated.
 
-### 11. Procedures on receipt of investigating officer’s report[^key-a284fa7e2f6b37fd0c03c450d3785261]
+### 11. Procedures on receipt of investigating officer’s report[^c-a284fa7e2f6b37fd0c03c450d3785261]
 
 (1) Subject to paragraphs (2) and (3), on receipt of the investigating officer’s report the supervising member may refer the case to a hearing.
 
@@ -183,7 +183,7 @@ the supervising member shall refer the case to a hearing.
 
 (5) Proceedings at or in connection with a hearing to which a case is referred under this regulation shall, for the purposes of section 50 of the Act of 1998 be disciplinary proceedings.
 
-### 12. Withdrawal of case[^key-587d4f384d2c651064f5f28b63c74378]
+### 12. Withdrawal of case[^c-587d4f384d2c651064f5f28b63c74378]
 
 (1) At any time before the beginning of the hearing the supervising member may direct that the case be withdrawn, unless—
 
@@ -194,7 +194,7 @@ the supervising member shall refer the case to a hearing.
 
 ## Part III — Hearing
 
-### 13. Notice of hearing[^key-5a1471c85ec93038cd5b60d2d4c5f306]
+### 13. Notice of hearing[^c-5a1471c85ec93038cd5b60d2d4c5f306]
 
 (1) The supervising member shall ensure that, as soon as practicable, the member concerned is given written notice of a decision to refer the case to a hearing and that, not less than 28 days before the date of hearing, the member concerned is supplied with copies of—
 
@@ -205,11 +205,11 @@ the supervising member shall refer the case to a hearing.
 
 (3) In this regulation any reference to a copy of a statement shall, where it was not made in writing, be construed as a reference to a copy of an account thereof.
 
-### 14. Limitation on sanctions[^key-143e3609db7774aeb88e49eab9451470]
+### 14. Limitation on sanctions[^c-143e3609db7774aeb88e49eab9451470]
 
 No sanction may be imposed under regulation 31 unless the case has been referred to a hearing.
 
-### 15. Notification of hearing[^key-d97d807ab7a8f313066d6b9aaddc063a]
+### 15. Notification of hearing[^c-d97d807ab7a8f313066d6b9aaddc063a]
 
 (1) The supervising member shall ensure that at least 28 days in advance the member concerned is notified of the time, date and place of the hearing.
 
@@ -220,7 +220,7 @@ No sanction may be imposed under regulation 31 unless the case has been referred
 - (a) at the time he receives such a notice he is detained in pursuance of the sentence of a court in a prison or other institution to which the Prison Act (Northern Ireland) 1953[^f00007] applies, or has received a suspended sentence of imprisonment, and
 - (b) having been supplied under regulation 13 with the documents therein mentioned does not elect under regulation 16 to be legally represented at the hearing.
 
-### 16. Legal representation[^key-9f9938b859b61dc5fcf22350eba0c170]
+### 16. Legal representation[^c-9f9938b859b61dc5fcf22350eba0c170]
 
 (1) If the supervising member is of the opinion that the hearing should have available the sanctions of dismissal, requirement to resign or reduction in rank he shall cause the member concerned to be given notice in writing of the opportunity to elect to be legally represented at the hearing, at the same time as he is given notice under regulation 13.
 
@@ -237,7 +237,7 @@ No sanction may be imposed under regulation 31 unless the case has been referred
 
 (6) If an officer gives notice in accordance with regulation 17(1)(*b*) that he wishes to be legally represented, the case against him may be presented by counsel or a solicitor whether or not he is actually so represented.
 
-### 17. Procedure on receipt of notice[^key-3e786429adda9f27ef060b281328c8bc]
+### 17. Procedure on receipt of notice[^c-3e786429adda9f27ef060b281328c8bc]
 
 (1) The member concerned shall be invited to state in writing, within 14 days of the date on which he is notified that the last of the documents required by regulation 13(1) to be supplied to him have been so supplied—
 
@@ -249,7 +249,7 @@ No sanction may be imposed under regulation 31 unless the case has been referred
 
 (3) Nothing in this regulation shall require a hearing to be adjourned where a witness is unable or unwilling to attend the hearing.
 
-### 18. Officers conducting the hearing[^key-2349edb90e39f358325006f3b47eadda]
+### 18. Officers conducting the hearing[^c-2349edb90e39f358325006f3b47eadda]
 
 (1) Where a case is referred to a hearing it shall be heard by three police officers, appointed by the Chief Constable, who shall not be interested parties.
 
@@ -259,7 +259,7 @@ No sanction may be imposed under regulation 31 unless the case has been referred
 
 (4) Where the member concerned is a superintendent, the presiding officer will be assisted by two officers of the rank of assistant chief constable or commander.
 
-### 19. Documents to be supplied to the member concerned[^key-8b571fa5d9a46d7e650bd8bc6cf3c382]
+### 19. Documents to be supplied to the member concerned[^c-8b571fa5d9a46d7e650bd8bc6cf3c382]
 
 (1) Where the member concerned accepts, in accordance with regulation 17, that his conduct did not meet the appropriate standard, a summary of the facts of the case shall be prepared, a copy of which shall be supplied to the member concerned at least 14 days before the hearing.
 
@@ -267,14 +267,14 @@ No sanction may be imposed under regulation 31 unless the case has been referred
 
 (3) Where the member concerned does not accept that his conduct did not meet the appropriate standard no summary of facts shall be prepared.
 
-### 20. Documents to be supplied to the officers conducting the hearing[^key-85291e6a37e41d57eb0ef8c531da1bdf]
+### 20. Documents to be supplied to the officers conducting the hearing[^c-85291e6a37e41d57eb0ef8c531da1bdf]
 
 There shall be supplied to the officers conducting the hearing—
 
 - (a) a copy of the notice given under regulation 13; and
 - (b) where a summary of the facts has been prepared under regulation 19, a copy of that summary and of any response from the member concerned.
 
-### 21. Representation[^key-b646e49ffff4c2bc0f65d79709a0b121]
+### 21. Representation[^c-b646e49ffff4c2bc0f65d79709a0b121]
 
 (1) Unless the member concerned has given notice that he wishes to be legally represented under regulation 16, the supervising member shall appoint another member to present the case (the presenting officer).
 
@@ -282,13 +282,13 @@ There shall be supplied to the officers conducting the hearing—
 
 (3) The case of the member concerned may be conducted by the member in person or by a member of a police force selected by him or, if he has so elected in accordance with regulation 16, by counsel or solicitor.
 
-### 22. Conduct of hearing[^key-db5d2ff45e15085aba7c8735dedca99b]
+### 22. Conduct of hearing[^c-db5d2ff45e15085aba7c8735dedca99b]
 
 (1) The officers conducting the hearing may from time to time adjourn if it appears to them to be necessary or expedient to do so for the due hearing of the case.
 
 (2) Any decision of the officers conducting the hearing shall be based on a simple majority, but shall not indicate whether it was taken unanimously or by a majority.
 
-### 23. Procedures at hearing[^key-1e5ad6531bda0a60f0fdd7dc9b2a84df]
+### 23. Procedures at hearing[^c-1e5ad6531bda0a60f0fdd7dc9b2a84df]
 
 (1) Subject to the provisions of these regulations, the officers conducting the hearing shall determine their own procedures.
 
@@ -307,7 +307,7 @@ the officers conducting the hearing may draw such inferences from the failure or
 - (a) admitted by the member concerned; or
 - (b) proved by the person presenting the case on the balance of probabilities, to have failed to meet that standard.
 
-### 24. Non-attendance[^key-024a3e8b8f938912f1ad04eb1c0993a4]
+### 24. Non-attendance[^c-024a3e8b8f938912f1ad04eb1c0993a4]
 
 (1) The member concerned shall be ordered to attend the hearing.
 
@@ -317,7 +317,7 @@ the officers conducting the hearing may draw such inferences from the failure or
 
 (4) Where, owing to the absence of the member concerned, it is impossible to comply with any of the procedures set out in these regulations, that procedure shall be dispensed with.
 
-### 25. Attendance of complainant at hearing[^key-d80258661db07c1e8a80391041b98657]
+### 25. Attendance of complainant at hearing[^c-d80258661db07c1e8a80391041b98657]
 
 (1) This regulation shall apply where there has been a complaint against the member concerned.
 
@@ -331,7 +331,7 @@ the officers conducting the hearing may draw such inferences from the failure or
 
 (6) In this regulation a reference to the complainant is a reference to the originator of the complaint notwithstanding that it was transmitted to the Ombudsman by some other person or some other body.
 
-### 26. Attendance of others at hearing[^key-dd6d5f27feb469006ffb820c46d50ebd]
+### 26. Attendance of others at hearing[^c-dd6d5f27feb469006ffb820c46d50ebd]
 
 (1) Subject to regulation 25 paragraphs (2) and (3), the hearing shall be in private: provided that it shall be within the discretion of the presiding officer to allow any authorised officer of the Ombudsman, any solicitor or any such other persons as he considers desirable to attend the whole or such part of the hearing as he may think fit, subject to the consent of all parties to the hearing.
 
@@ -339,17 +339,17 @@ the officers conducting the hearing may draw such inferences from the failure or
 
 (3) The presiding officer may allow witnesses to be accompanied at the hearing by a friend or relative.
 
-### 27. Exclusion of public from hearing[^key-332f73c0466f2d2d62e883f19ca2fa0d]
+### 27. Exclusion of public from hearing[^c-332f73c0466f2d2d62e883f19ca2fa0d]
 
 Where it appears to the presiding officer that a witness may, in giving evidence, disclose information which, in the public interest, ought not be disclosed to a member of the public he shall require any member of the public including the complainant and any person allowed to accompany the complainant or any witness to withdraw while the evidence is given.
 
-### 28. Evidence at hearing[^key-5560739817d2a606468b92d6d7f51fec]
+### 28. Evidence at hearing[^c-5560739817d2a606468b92d6d7f51fec]
 
 (1) Any question as to whether any evidence is admissible, or whether any question should or should not be put to a witness, shall be determined by the presiding officer.
 
 (2) With the consent of the member concerned the presiding officer may allow any document to be adduced in evidence during the hearing notwithstanding that a copy thereof has not been supplied to the member concerned in accordance with regulation 13(1).
 
-### 29. Remission of cases[^key-a16054d7a15093ae746826fae75f596c]
+### 29. Remission of cases[^c-a16054d7a15093ae746826fae75f596c]
 
 (1) The hearing of the case—
 
@@ -369,11 +369,11 @@ be remitted by the presiding officer concerned to a police officer of equivalent
 
 (5) A case not falling within paragraph (2) may be remitted by the presiding officer in accordance with paragraph (1) if, either before or during the hearing, the presiding officer concerned considers remission appropriate.
 
-### 30. Record of hearing[^key-e2fe2d75d7120ba9658bdf57193f0255]
+### 30. Record of hearing[^c-e2fe2d75d7120ba9658bdf57193f0255]
 
 A verbatim record of the proceedings at the hearing shall be taken and, if the member concerned so requests within the time limit for any appeal and after he has lodged notice of appeal in accordance with regulation 5 of the Appeals Regulations, a transcript of the record or a copy thereof shall be supplied to him by the presiding officer.
 
-### 31. Sanctions[^key-37bf4eea522d73152d749af879921a1c]
+### 31. Sanctions[^c-37bf4eea522d73152d749af879921a1c]
 
 (1) Subject to the provisions of regulation 16 the officers conducting the hearing, or in a directed case, the Chief Constable may impose any of the following sanctions, namely—
 
@@ -389,20 +389,20 @@ A verbatim record of the proceedings at the hearing shall be taken and, if the m
 
 (3) A fine imposed under paragraph (1) shall be such that, if it were recoverable by way of deductions from the pay of the member concerned during the period of thirteen weeks following the imposition of the sanction, the aggregate sum which might be so deducted in respect of any one week (whether on account of one or more fines) would not exceed one seventh of his weekly pay.
 
-### 32. Personal record to be considered before sanction imposed[^key-e04cc3f8428dd23aafb050bc1b93b41e]
+### 32. Personal record to be considered before sanction imposed[^c-e04cc3f8428dd23aafb050bc1b93b41e]
 
 Where the question of the sanction to be imposed is being considered the officers conducting the hearing—
 
 - (a) shall have regard to the record of police service of the member concerned as shown on his personal record and may receive evidence from any witness whose evidence would, in the opinion of the officers conducting the hearing or member concerned assist in determining the question, and
 - (b) the member concerned, or his representative, shall be afforded an opportunity to make oral or, if appropriate, written representations as respects the question or to adduce evidence relevant thereto.
 
-### 33. Finding[^key-b0a1a04e4281fa3701fe9a80b5628645]
+### 33. Finding[^c-b0a1a04e4281fa3701fe9a80b5628645]
 
 The member concerned shall be informed orally, by the presiding officer, of the finding and of any sanction imposed at the conclusion of the hearing and shall be provided with a written notification and summary of the reasons within three working days.
 
 ## Part IV — Review
 
-### 34. Request for a review[^key-b4b6864aaa84582cd01bd2947468aef3]
+### 34. Request for a review[^c-b4b6864aaa84582cd01bd2947468aef3]
 
 (1) Where a sanction is imposed under regulation 31, the member concerned shall be entitled to request the Chief Constable to review the finding or the sanction imposed or both.
 
@@ -410,7 +410,7 @@ The member concerned shall be informed orally, by the presiding officer, of the 
 
 (3) The request for a review shall state the grounds on which the review is requested and whether a meeting is requested.
 
-### 35. Conduct of the review[^key-1f84190a772912cc984c1813cf3ca85b]
+### 35. Conduct of the review[^c-1f84190a772912cc984c1813cf3ca85b]
 
 (1) The Chief Constable shall, subject to paragraph (2), hold a meeting with the member concerned if requested to do so.
 
@@ -418,7 +418,7 @@ The member concerned shall be informed orally, by the presiding officer, of the 
 
 (3) Where a meeting is held the member concerned may be accompanied by a member and in a case where regulation 16 applies, by a solicitor or Counsel.
 
-### 36. Finding of the review[^key-e6c6074cac059c1f356cfcfc31d93c14]
+### 36. Finding of the review[^c-e6c6074cac059c1f356cfcfc31d93c14]
 
 (1) The member concerned shall be informed of the finding of the Chief Constable in writing within three days of completion of the review.
 
@@ -428,17 +428,17 @@ The member concerned shall be informed orally, by the presiding officer, of the 
 
 (4) Where as a result of the decision of the review, the member concerned is dismissed, required to resign or reduced in rank he shall be notified in writing of his right of appeal to a Police Appeals Tribunal, established in accordance with regulation 8 of the Royal Ulster Constabulary (Appeals) Regulations 2000.
 
-### 37. Hearing of review in absence of the Chief Constable[^key-b597f60f44a88dc34cd5311e45fef2e6]
+### 37. Hearing of review in absence of the Chief Constable[^c-b597f60f44a88dc34cd5311e45fef2e6]
 
 (1) Subject to paragraph (2), where the Chief Constable is an interested party or the circumstances in Section 20(1)(*a*) or (*b*) of the Act of 1998 apply, the review shall be conducted by the senior officer designated under Section 20(1) of the Act of 1998.
 
 (2) Where the designated senior officer is absent or an interested party, the review shall be conducted by the chief officer of a police force in Great Britain who has agreed to act in that capacity.
 
-### 38. Record of conduct proceedings[^key-3491d3f8a11ba552c4327c7d9c9fc1e8]
+### 38. Record of conduct proceedings[^c-3491d3f8a11ba552c4327c7d9c9fc1e8]
 
 The Chief Constable will cause a book of record to be kept in which shall be entered every case brought against a member of the police, together with the finding thereon and a record of the decision in any further proceedings in connection therewith.
 
-### 39. Special cases[^key-58e69bbb91d6300558fa20a4e99d59dd]
+### 39. Special cases[^c-58e69bbb91d6300558fa20a4e99d59dd]
 
 (1) This regulation applies to any case in which a report, a complaint or an allegation is made which indicates that the conduct of a member did not meet the appropriate standard and in respect of which the conditions specified in Part I of Schedule 3 are satisfied and his appropriate officer has issued a certificate under regulation 11(3)(*b*)(i).
 
@@ -456,7 +456,7 @@ Northern Ireland Office
 
 23rd October 2000
 
-## SCHEDULE 1 — Revocations[^key-42ed1aa91e05f318c48e9b7d886da98e]
+## SCHEDULE 1 — Revocations[^c-42ed1aa91e05f318c48e9b7d886da98e]
 
 Regulation 2(1)
 
@@ -476,9 +476,9 @@ Regulation 2(1)
 
 Regulation 9
 
-**1.**[^key-855d7c1618005100ec58385a03436339] You do not have to say anything, but I must caution you that if you do not mention when questioned something which you later rely on in any subsequent misconduct proceedings, it may harm your defence. You may, if you so desire, make a written or oral statement to the investigating officer or the chief constable. Anything you mention when questioned or any written or oral statement you make may be given in evidence at such misconduct proceedings.
+**1.**[^c-855d7c1618005100ec58385a03436339] You do not have to say anything, but I must caution you that if you do not mention when questioned something which you later rely on in any subsequent misconduct proceedings, it may harm your defence. You may, if you so desire, make a written or oral statement to the investigating officer or the chief constable. Anything you mention when questioned or any written or oral statement you make may be given in evidence at such misconduct proceedings.
 
-**2.**[^key-862973354d326218f9c1975d3329e8b2] On \[*date*\] at \[*time*\] at \[*place*\] there was:
+**2.**[^c-862973354d326218f9c1975d3329e8b2] On \[*date*\] at \[*time*\] at \[*place*\] there was:
 
 - (a) on your person
 - (b) in or on your clothing/footwear
@@ -491,7 +491,7 @@ a \[*state the object/substance/mark*\].
 - You do not have to say anything about \[*state the object/substance/mark*\], but I must caution you that if you fail or refuse to account for \[*state the object/substance/mark*\] then your failure or refusal may be treated in any subsequent misconduct proceedings as supporting any relevant evidence against you. If you do say anything it may be given in evidence at such misconduct proceedings.
 - I now ask you to account for \[*state the object/substance/mark*\]. Have you anything you wish to say?
 
-**3.**[^key-003034e0a35ee6e1740c970939e0e8d9] You were found on \[*day and date*\] at \[*place*\] at \[*time*\] which is at or about the time the Code of Conduct is alleged to have been breached.
+**3.**[^c-003034e0a35ee6e1740c970939e0e8d9] You were found on \[*day and date*\] at \[*place*\] at \[*time*\] which is at or about the time the Code of Conduct is alleged to have been breached.
 
 I believe your presence at \[*place*\] at that time may be due to your involvement in this breach of the Code of Conduct.
 
@@ -503,7 +503,7 @@ I now ask you to account for your presence on \[*day and date*\] at \[*place*\] 
 
 ### Part I — Conditions
 
-#### 1. Regulation 39[^key-7405d4e62843c87304a7f13da6330e9f]
+#### 1. Regulation 39[^c-7405d4e62843c87304a7f13da6330e9f]
 
 (l) The conditions referred to in regulation 39 are—
 
@@ -516,7 +516,7 @@ I now ask you to account for your presence on \[*day and date*\] at \[*place*\] 
 
 ### Part II — Modifications
 
-**2.**[^key-81bb1d5cac5772af0feb25af694ece2e] For regulations 12 and 13 there shall be substituted the following regulations:
+**2.**[^c-81bb1d5cac5772af0feb25af694ece2e] For regulations 12 and 13 there shall be substituted the following regulations:
 
 > **12.** At any time before the beginning of the hearing the appropriate officer may direct that the case be returned to the supervising member or Ombudsman as appropriate.
 >
@@ -535,7 +535,7 @@ I now ask you to account for your presence on \[*day and date*\] at \[*place*\] 
 > - (a) delivered to the member concerned personally, or
 > - (b) left with some person at, or sent by recorded delivery to, the address at which he is, with the approval of the chief constable, residing
 
-**3.**[^key-0cb3cbbb6009a9759bf6232fffebe8c3] For regulations 15 and 16 there shall be substituted the following regulations:
+**3.**[^c-0cb3cbbb6009a9759bf6232fffebe8c3] For regulations 15 and 16 there shall be substituted the following regulations:
 
 > **15.** The appropriate officer shall fix a date for the hearing which shall be not less than 21 and not more than 28 days from the date on which notice is given under regulation 13 and shall ensure that the member concerned is forthwith notified of the time, date and place of the hearing.
 >
@@ -543,7 +543,7 @@ I now ask you to account for your presence on \[*day and date*\] at \[*place*\] 
 
 .
 
-**4.**[^key-d66f9bd3903ed6ed8c8637e61a15cdc9] In regulation 17 (procedure on receipt of notice)—
+**4.**[^c-d66f9bd3903ed6ed8c8637e61a15cdc9] In regulation 17 (procedure on receipt of notice)—
 
 - (a) in paragraph (1), for the words from “on which he is notified” to the end there shall be substituted the words:
 
@@ -555,7 +555,7 @@ I now ask you to account for your presence on \[*day and date*\] at \[*place*\] 
   .
 - (b) sub-paragraph 1(*c*) and paragraphs (2) and (3) shall be omitted.
 
-**5.**[^key-b468bdf99b3b6abd0791e4ed194692c5] For regulation 18 there shall be substituted the following regulation:
+**5.**[^c-b468bdf99b3b6abd0791e4ed194692c5] For regulation 18 there shall be substituted the following regulation:
 
 > **l8.** (l) Subject to paragraph (2), a case which is referred to a hearing under regulation 11(3)(*b*)(i) shall be heard by the Chief Constable.
 >
@@ -563,13 +563,13 @@ I now ask you to account for your presence on \[*day and date*\] at \[*place*\] 
 
 .
 
-**6.**[^key-1792da60b3cd6db860c17db067a86ec3] Regulation 19 shall be omitted.
+**6.**[^c-1792da60b3cd6db860c17db067a86ec3] Regulation 19 shall be omitted.
 
-**7.**[^key-95c9b0d4a4eaa53caa352b5c2559ca1d] In regulation 20 (documents to be supplied to officers conducting the hearing), for “officers” there shall be substituted “officer” and for paragraphs (*a*) and (*b*) there shall be substituted the words “a copy of the notice given, and of any documents provided to the member concerned, under regulation 13”
+**7.**[^c-95c9b0d4a4eaa53caa352b5c2559ca1d] In regulation 20 (documents to be supplied to officers conducting the hearing), for “officers” there shall be substituted “officer” and for paragraphs (*a*) and (*b*) there shall be substituted the words “a copy of the notice given, and of any documents provided to the member concerned, under regulation 13”
 
-**8.**[^key-93f5637f9d2272736891227833292e05] In regulation 21 (representation), in paragraph (1) for “supervising” there shall be substituted “appropriate”.
+**8.**[^c-93f5637f9d2272736891227833292e05] In regulation 21 (representation), in paragraph (1) for “supervising” there shall be substituted “appropriate”.
 
-**9.**[^key-598083d535b1636a0ec8e2251b212ba6] For regulation 22 (conduct of hearing) there shall be substituted the following regulation—
+**9.**[^c-598083d535b1636a0ec8e2251b212ba6] For regulation 22 (conduct of hearing) there shall be substituted the following regulation—
 
 > **22.** The officer conducting the hearing may adjourn if it appears to him to be necessary or expedient to do so; but
 >
@@ -578,27 +578,27 @@ I now ask you to account for your presence on \[*day and date*\] at \[*place*\] 
 
 .
 
-**10.**[^key-2da7d10d118d0003a8fc7d8fd86f6d8c] In regulation 23 (procedures at hearing):
+**10.**[^c-2da7d10d118d0003a8fc7d8fd86f6d8c] In regulation 23 (procedures at hearing):
 
 - (a) for “officers” wherever occurring there shall be substituted “officer”; and
 - (b) in paragraph (1) there shall be substituted “his” for “their” and “procedure” for “procedures”.
 
-**11.**[^key-a1a0ed8771291ba3c1df8785ff6ca152] In regulation 24 paragraph 3 for “presiding officer” there shall be substituted “officer conducting the hearing”
+**11.**[^c-a1a0ed8771291ba3c1df8785ff6ca152] In regulation 24 paragraph 3 for “presiding officer” there shall be substituted “officer conducting the hearing”
 
-**12.**[^key-0bf2d62be82c727e01f09ae25e202ff3] In regulation 25 (attendance of complainant at hearing)—
+**12.**[^c-0bf2d62be82c727e01f09ae25e202ff3] In regulation 25 (attendance of complainant at hearing)—
 
 - (a) in paragraph (2) for the words “paragraphs (3) and (5)” there shall be substituted “paragraph (5)” and the words “while witnesses are being examined, or cross-examined,” shall be omitted;
 - (b) paragraphs (3) and (4) and, in paragraph (5), the words “subject as aforesaid,” shall be omitted; and
 - (c) for the words “presiding officer” wherever they occur there shall be substituted “officer conducting the hearing”.
 
-**13.**[^key-bd34b75c8d30821223d514dee1b7375f] In regulation 26 (attendance of others at hearing)—
+**13.**[^c-bd34b75c8d30821223d514dee1b7375f] In regulation 26 (attendance of others at hearing)—
 
 - (a) in paragraph (1) reference to paragraph (3) of regulation 25 shall be removed;
 - (b) paragraph (3) shall be omitted and for “presiding officer” there shall be substituted “officer conducting the hearing”.
 
-**14.**[^key-4ff2635352a032a74f202d016b9b3ac7] Regulation 27 shall be omitted.
+**14.**[^c-4ff2635352a032a74f202d016b9b3ac7] Regulation 27 shall be omitted.
 
-**15.**[^key-105a18fe21dae726d19333ce2afca238] In regulation 28 (evidence at hearing)—
+**15.**[^c-105a18fe21dae726d19333ce2afca238] In regulation 28 (evidence at hearing)—
 
 - (a) in paragraph (1), the words, “or whether any question should or should not be put to a witness”, shall be omitted;
 - (b) in paragraph (2), for “13(1)” there shall be substituted “13(1) or (4)”;
@@ -609,7 +609,7 @@ I now ask you to account for your presence on \[*day and date*\] at \[*place*\] 
 
   .
 
-**16.**[^key-f01d8c1a1429b4efe61fa46af98dcf64] In regulation 29 (remission of cases)—
+**16.**[^c-f01d8c1a1429b4efe61fa46af98dcf64] In regulation 29 (remission of cases)—
 
 - (a) paragraphs (2)(*b*), (3) and (4) shall be omitted;
 - (b) for the words “presiding officer” wherever they occur there shall be substituted “officer conducting the hearing”; and
@@ -619,26 +619,26 @@ I now ask you to account for your presence on \[*day and date*\] at \[*place*\] 
 
   .
 
-**17.**[^key-c0df0483d9eaecbdc1c633080e7e698a] In regulation 30 (record of hearing) for “presiding officer” there shall be substituted “officer conducting the hearing”.
+**17.**[^c-c0df0483d9eaecbdc1c633080e7e698a] In regulation 30 (record of hearing) for “presiding officer” there shall be substituted “officer conducting the hearing”.
 
-**18.**[^key-152c7ff2a89b9992f8880672fb653e68] In regulation 31(1) (sanctions) for “officers” there shall be substituted “officer”.
+**18.**[^c-152c7ff2a89b9992f8880672fb653e68] In regulation 31(1) (sanctions) for “officers” there shall be substituted “officer”.
 
-**19.**[^key-c2a4dd881e94a65a3ec63901002c056f] In regulation 32 (personal record to be considered before sanction imposed)—
+**19.**[^c-c2a4dd881e94a65a3ec63901002c056f] In regulation 32 (personal record to be considered before sanction imposed)—
 
 - (a) for “officers” there shall be substituted “officer”;
 - (b) in sub-paragraph (*a*) for the words from “may receive evidence” to the word “officers” there shall be substituted “may admit such documentary evidence as would in the opinion of the officer”; and
 - (c) in sub-paragraph (*b*) after the word “adduce” there shall be inserted “documentary”.
 
-**20.**[^key-dfef888af2b99bccf7c2b2ecd9204609] In regulation 33 (Finding) for “three working days” there shall be substituted “24 hours”.
+**20.**[^c-dfef888af2b99bccf7c2b2ecd9204609] In regulation 33 (Finding) for “three working days” there shall be substituted “24 hours”.
 
-**21.**[^key-f7c93164c94d073436f1878a4117413c] In regulation 34 (request for a review)—
+**21.**[^c-f7c93164c94d073436f1878a4117413c] In regulation 34 (request for a review)—
 
 - (a) in paragraph (1) for the words from “Chief Constable” to the end there shall be substituted “Chief Constable to refer the case to the chief officer of another force who has agreed to act in that capacity (“the reviewing officer”) to review the finding or the sanction imposed or both the finding and the sanction”; and
 - (b) in paragraph (2), the words appearing after Regulation 33 to the end shall be omitted.
 
-**22.**[^key-4b8d97a41b19768081664b8827d1abdf] In regulation 35 (conduct of the review), in paragraph (1) the words “Chief Constable” should be replaced by the words “reviewing officer”.
+**22.**[^c-4b8d97a41b19768081664b8827d1abdf] In regulation 35 (conduct of the review), in paragraph (1) the words “Chief Constable” should be replaced by the words “reviewing officer”.
 
-**23.**[^key-515c40841cf634d3902ecda1fae7427d] In regulation 36 (finding of the review)—
+**23.**[^c-515c40841cf634d3902ecda1fae7427d] In regulation 36 (finding of the review)—
 
 - (a) in paragraph (1), for “three days” there shall be substituted “24 hours”;
 - (b) the words “Chief Constable” shall be replaced with the words “reviewing officer” where they occur;
@@ -648,7 +648,7 @@ I now ask you to account for your presence on \[*day and date*\] at \[*place*\] 
 
   .
 
-**24.**[^key-db8fd8dbe9f5b5954aa6f30d824977bc] Regulation 37 shall be omitted.
+**24.**[^c-db8fd8dbe9f5b5954aa6f30d824977bc] Regulation 37 shall be omitted.
 
 ## SCHEDULE 4 — Code of Conduct for RUC Officers
 
@@ -656,57 +656,57 @@ I now ask you to account for your presence on \[*day and date*\] at \[*place*\] 
 - (b) This Code sets out the principles which guide police officers' conduct. It does not seek to restrict officers' discretion: rather it aims to define the parameters of conduct within which that discretion should be exercised. However, it is important to note that any breach of the principles in this Code may result in action being taken, which, in serious cases, could involve dismissal. In addition, the Police Ombudsman has powers in relation to disciplinary proceedings, for example, the Ombudsman can direct that charges can be brought and invoke a special procedure known as a Directed Tribunal.
 - (c) This Code applies to the conduct of members of the RUC in all ranks, and all members of the RUC Reserve, whether part-time or full-time whilst on duty, or off duty if the conduct is serious enough to indicate that an officer is not fit to be a police officer. It will be applied in a reasonable and objective manner. Due regard will be paid to the degree of negligence or deliberate fault and to the nature and circumstances of an officer’s conduct.
 
-### 1. Honesty and integrity[^key-c3011562cd4c5eb4e9a6c7abbfd72989]
+### 1. Honesty and integrity[^c-c3011562cd4c5eb4e9a6c7abbfd72989]
 
 It is of paramount importance that the public has faith in the honesty and integrity of police officers. Officers should therefore be open and truthful in their dealings; avoid being improperly beholden to any person or institution; and discharge their duties with integrity.
 
-### 2. Fairness and impartiality[^key-3c938d8454c96d5285429c6013d7b530]
+### 2. Fairness and impartiality[^c-3c938d8454c96d5285429c6013d7b530]
 
 Police officers have a particular responsibility to act with fairness and impartiality in all their dealings with the public and their colleagues. and to be seen to do so.
 
-### 3. Discrimination[^key-0933e2985184ecce1e3ef47cee2a1a87]
+### 3. Discrimination[^c-0933e2985184ecce1e3ef47cee2a1a87]
 
 Quite apart from any breach of the equality legislation, police officers must not discriminate against the public or their colleagues for any reason related to sex, marital status, religious belief, political opinion, disability, racial group, age, sexual orientation, or having or not having dependants. Discrimination may be direct, or indirect or take the form of intimidation.
 
 Note : “Racial Group means a group of persons defined by reference to colour, race, nationality or ethnic or national origins”.
 
-### 4. Politeness and tolerance[^key-ddb93a134cb7002467613b6b9df252bb]
+### 4. Politeness and tolerance[^c-ddb93a134cb7002467613b6b9df252bb]
 
 Officers should treat members of the public and colleagues with courtesy and respect, avoiding abusive and deriding attitudes or behaviour. In particular, officers must avoid: favouritism of an individual or group; all forms of harassment, victimisation or unlawful discrimination; and overbearing conduct to a colleague, particularly to one junior in rank or service.
 
-### 5. Use of force and abuse of authority[^key-7cc041ebea4880b5648a302307e1ade9]
+### 5. Use of force and abuse of authority[^c-7cc041ebea4880b5648a302307e1ade9]
 
 Officers must never knowingly use more force than is reasonable, nor should they abuse their authority.
 
-### 6. Performance of duties[^key-d2a37846ff9121a5704f5da84c07d3f5]
+### 6. Performance of duties[^c-d2a37846ff9121a5704f5da84c07d3f5]
 
 Officers should be conscientious and diligent in the performance of their duties. Officers should attend work promptly when rostered for duty.
 
-### 7. Lawful orders[^key-a00075d56e6f22d92d397e833edd37de]
+### 7. Lawful orders[^c-a00075d56e6f22d92d397e833edd37de]
 
 The police service is a disciplined body. Unless there is good and sufficient cause to do otherwise, officers must obey all lawful orders and abide by the provisions of RUC Regulations. Officers should support their colleagues in the execution of their lawful duties, and oppose any improper behaviour, reporting it where appropriate.
 
-### 8. Confidentiality[^key-405f830a7527b5ed29eaa2d1dc0800c4]
+### 8. Confidentiality[^c-405f830a7527b5ed29eaa2d1dc0800c4]
 
 Information which comes into the possession of the police should be treated as confidential. It should not be used for personal benefit and nor should it be divulged to other parties except in the proper course of police duty. Similarly, officers should respect, as confidential, information about force policy and operations unless authorised to disclose it in the course of their duties.
 
-### 9. Criminal Offences[^key-b848ea8c24fedfec4737ef274eddc640]
+### 9. Criminal Offences[^c-b848ea8c24fedfec4737ef274eddc640]
 
 Officers must report any proceedings for a criminal offence taken against them. A conviction for a criminal offence may result in further action being taken.
 
-### 10. Property[^key-6477fdfeaff5b4c0069b43996a8d64b3]
+### 10. Property[^c-6477fdfeaff5b4c0069b43996a8d64b3]
 
 Officers must exercise reasonable care to prevent loss or damage to property (excluding their own personal property but including police property).
 
-### 11. Sobriety[^key-b06ed8452f2702e45ecf47b07f894f25]
+### 11. Sobriety[^c-b06ed8452f2702e45ecf47b07f894f25]
 
 Whilst on duty[^f00008] officers must be sober[^f00009]. Officers should not consume alcohol when on duty unless specifically authorised to do so or it becomes necessary for the proper discharge of police duty.
 
-### 12. Appearance[^key-e356ddcb950c8b98e4eafbfbff9f4fe8]
+### 12. Appearance[^c-e356ddcb950c8b98e4eafbfbff9f4fe8]
 
 Unless on duties which dictate otherwise, officers should always be well turned out, clean and tidy whilst on duty in uniform or in plain clothes.
 
-### 13. General Conduct[^key-36174736529eb912facf330132dfbfc2]
+### 13. General Conduct[^c-36174736529eb912facf330132dfbfc2]
 
 Whether on or off duty, police officers should not behave in a way which is likely to bring discredit upon the police service.
 
@@ -728,17 +728,17 @@ Part IV provides for the officer concerned to have the finding of the hearing or
 
 [^f00001]: Footnote: [1998 c. 32 (N.I.)](https://www.legislation.gov.uk/ukpga/1998/32)
 
-[^key-9be409b23113a6663f6a06295f4e6b61]: Commencement: Reg. 1 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-9be409b23113a6663f6a06295f4e6b61]: Commencement: Reg. 1 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-91340da9b1324ea07c49c4bd34960432]: Commencement: Reg. 2 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-91340da9b1324ea07c49c4bd34960432]: Commencement: Reg. 2 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
 [^f00002]: Footnote: [S.R. 1988 No. 10](https://www.legislation.gov.uk/nisr/1988/10); relevant amendments were made by [S.R. 1989 No. 471](https://www.legislation.gov.uk/nisr/1989/471), [S.R. 1994 No. 48](https://www.legislation.gov.uk/nisr/1994/48), [S.R. 1994 No. 291](https://www.legislation.gov.uk/nisr/1994/291), [S.R. 1996 No. 253](https://www.legislation.gov.uk/nisr/1996/253), [S.R. 1996 No. 343](https://www.legislation.gov.uk/nisr/1996/343) and [S.R. 1997 No. 42](https://www.legislation.gov.uk/nisr/1997/42)
 
 [^f00003]: Footnote: [S.R. 1988 No. 8](https://www.legislation.gov.uk/nisr/1988/8) as amended by [S.R. 1989 No. 472](https://www.legislation.gov.uk/nisr/1989/472), [S.R. 1994 No. 49](https://www.legislation.gov.uk/nisr/1994/49), [S.R. 1994 No. 292](https://www.legislation.gov.uk/nisr/1994/292), [S.R. 1996 No. 254](https://www.legislation.gov.uk/nisr/1996/254), [S.R. 1996 No. 344](https://www.legislation.gov.uk/nisr/1996/344) and [S.R. 1997 No. 43](https://www.legislation.gov.uk/nisr/1997/43)
 
-[^key-b55fd0d2645790f369f48e6f55891dfb]: Commencement: Reg. 3 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-b55fd0d2645790f369f48e6f55891dfb]: Commencement: Reg. 3 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-ddf49b8c0b21769c7c97184094701967]: Commencement: Reg. 4 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-ddf49b8c0b21769c7c97184094701967]: Commencement: Reg. 4 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
 [^f00004]: Footnote: To be introduced concurrently with these regulations
 
@@ -746,160 +746,160 @@ Part IV provides for the officer concerned to have the finding of the hearing or
 
 [^f00006]: Footnote: [1967 c. 77](https://www.legislation.gov.uk/ukpga/1967/77)
 
-[^key-21807db9d6e408ae7d86a0889395dcec]: Commencement: Reg. 5 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-21807db9d6e408ae7d86a0889395dcec]: Commencement: Reg. 5 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-5e0e8567b318f40643a748fd1c6861c0]: Commencement: Reg. 6 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-5e0e8567b318f40643a748fd1c6861c0]: Commencement: Reg. 6 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-aac9582e6ea4960955d2c0703e06fe0d]: Commencement: Reg. 7 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-aac9582e6ea4960955d2c0703e06fe0d]: Commencement: Reg. 7 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-d753c5a397782d8d5f4f2dfe99449b73]: Commencement: Reg. 8 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-d753c5a397782d8d5f4f2dfe99449b73]: Commencement: Reg. 8 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-e26caf948d9d1ffecc5b20ffb2c8295e]: Commencement: Reg. 9 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-e26caf948d9d1ffecc5b20ffb2c8295e]: Commencement: Reg. 9 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-2c5504eea2de47f217429da7e80219e3]: Commencement: Reg. 10 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-2c5504eea2de47f217429da7e80219e3]: Commencement: Reg. 10 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-a284fa7e2f6b37fd0c03c450d3785261]: Commencement: Reg. 11 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-a284fa7e2f6b37fd0c03c450d3785261]: Commencement: Reg. 11 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-587d4f384d2c651064f5f28b63c74378]: Commencement: Reg. 12 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-587d4f384d2c651064f5f28b63c74378]: Commencement: Reg. 12 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-5a1471c85ec93038cd5b60d2d4c5f306]: Commencement: Reg. 13 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-5a1471c85ec93038cd5b60d2d4c5f306]: Commencement: Reg. 13 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-143e3609db7774aeb88e49eab9451470]: Commencement: Reg. 14 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-143e3609db7774aeb88e49eab9451470]: Commencement: Reg. 14 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-d97d807ab7a8f313066d6b9aaddc063a]: Commencement: Reg. 15 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-d97d807ab7a8f313066d6b9aaddc063a]: Commencement: Reg. 15 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
 [^f00007]: Footnote: [1953 c. 18](https://www.legislation.gov.uk/apni/1953/18) as modified by S.I. [1973/2163](https://www.legislation.gov.uk/uksi/1973/2163)
 
-[^key-9f9938b859b61dc5fcf22350eba0c170]: Commencement: Reg. 16 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-9f9938b859b61dc5fcf22350eba0c170]: Commencement: Reg. 16 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-3e786429adda9f27ef060b281328c8bc]: Commencement: Reg. 17 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-3e786429adda9f27ef060b281328c8bc]: Commencement: Reg. 17 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-2349edb90e39f358325006f3b47eadda]: Commencement: Reg. 18 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-2349edb90e39f358325006f3b47eadda]: Commencement: Reg. 18 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-8b571fa5d9a46d7e650bd8bc6cf3c382]: Commencement: Reg. 19 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-8b571fa5d9a46d7e650bd8bc6cf3c382]: Commencement: Reg. 19 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-85291e6a37e41d57eb0ef8c531da1bdf]: Commencement: Reg. 20 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-85291e6a37e41d57eb0ef8c531da1bdf]: Commencement: Reg. 20 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-b646e49ffff4c2bc0f65d79709a0b121]: Commencement: Reg. 21 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-b646e49ffff4c2bc0f65d79709a0b121]: Commencement: Reg. 21 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-db5d2ff45e15085aba7c8735dedca99b]: Commencement: Reg. 22 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-db5d2ff45e15085aba7c8735dedca99b]: Commencement: Reg. 22 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-1e5ad6531bda0a60f0fdd7dc9b2a84df]: Commencement: Reg. 23 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-1e5ad6531bda0a60f0fdd7dc9b2a84df]: Commencement: Reg. 23 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-024a3e8b8f938912f1ad04eb1c0993a4]: Commencement: Reg. 24 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-024a3e8b8f938912f1ad04eb1c0993a4]: Commencement: Reg. 24 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-d80258661db07c1e8a80391041b98657]: Commencement: Reg. 25 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-d80258661db07c1e8a80391041b98657]: Commencement: Reg. 25 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-dd6d5f27feb469006ffb820c46d50ebd]: Commencement: Reg. 26 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-dd6d5f27feb469006ffb820c46d50ebd]: Commencement: Reg. 26 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-332f73c0466f2d2d62e883f19ca2fa0d]: Commencement: Reg. 27 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-332f73c0466f2d2d62e883f19ca2fa0d]: Commencement: Reg. 27 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-5560739817d2a606468b92d6d7f51fec]: Commencement: Reg. 28 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-5560739817d2a606468b92d6d7f51fec]: Commencement: Reg. 28 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-a16054d7a15093ae746826fae75f596c]: Commencement: Reg. 29 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-a16054d7a15093ae746826fae75f596c]: Commencement: Reg. 29 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-e2fe2d75d7120ba9658bdf57193f0255]: Commencement: Reg. 30 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-e2fe2d75d7120ba9658bdf57193f0255]: Commencement: Reg. 30 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-37bf4eea522d73152d749af879921a1c]: Commencement: Reg. 31 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-37bf4eea522d73152d749af879921a1c]: Commencement: Reg. 31 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-e04cc3f8428dd23aafb050bc1b93b41e]: Commencement: Reg. 32 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-e04cc3f8428dd23aafb050bc1b93b41e]: Commencement: Reg. 32 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-b0a1a04e4281fa3701fe9a80b5628645]: Commencement: Reg. 33 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-b0a1a04e4281fa3701fe9a80b5628645]: Commencement: Reg. 33 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-b4b6864aaa84582cd01bd2947468aef3]: Commencement: Reg. 34 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-b4b6864aaa84582cd01bd2947468aef3]: Commencement: Reg. 34 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-1f84190a772912cc984c1813cf3ca85b]: Commencement: Reg. 35 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-1f84190a772912cc984c1813cf3ca85b]: Commencement: Reg. 35 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-e6c6074cac059c1f356cfcfc31d93c14]: Commencement: Reg. 36 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-e6c6074cac059c1f356cfcfc31d93c14]: Commencement: Reg. 36 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-b597f60f44a88dc34cd5311e45fef2e6]: Commencement: Reg. 37 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-b597f60f44a88dc34cd5311e45fef2e6]: Commencement: Reg. 37 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-3491d3f8a11ba552c4327c7d9c9fc1e8]: Commencement: Reg. 38 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-3491d3f8a11ba552c4327c7d9c9fc1e8]: Commencement: Reg. 38 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-58e69bbb91d6300558fa20a4e99d59dd]: Commencement: Reg. 39 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-58e69bbb91d6300558fa20a4e99d59dd]: Commencement: Reg. 39 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-42ed1aa91e05f318c48e9b7d886da98e]: Commencement: Sch. 1 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-42ed1aa91e05f318c48e9b7d886da98e]: Commencement: Sch. 1 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-855d7c1618005100ec58385a03436339]: Commencement: Sch. 2 para. 1 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-855d7c1618005100ec58385a03436339]: Commencement: Sch. 2 para. 1 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-862973354d326218f9c1975d3329e8b2]: Commencement: Sch. 2 para. 2 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-862973354d326218f9c1975d3329e8b2]: Commencement: Sch. 2 para. 2 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-003034e0a35ee6e1740c970939e0e8d9]: Commencement: Sch. 2 para. 3 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-003034e0a35ee6e1740c970939e0e8d9]: Commencement: Sch. 2 para. 3 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-7405d4e62843c87304a7f13da6330e9f]: Commencement: Sch. 3 para. 1 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-7405d4e62843c87304a7f13da6330e9f]: Commencement: Sch. 3 para. 1 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-81bb1d5cac5772af0feb25af694ece2e]: Commencement: Sch. 3 para. 2 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-81bb1d5cac5772af0feb25af694ece2e]: Commencement: Sch. 3 para. 2 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-0cb3cbbb6009a9759bf6232fffebe8c3]: Commencement: Sch. 3 para. 3 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-0cb3cbbb6009a9759bf6232fffebe8c3]: Commencement: Sch. 3 para. 3 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-d66f9bd3903ed6ed8c8637e61a15cdc9]: Commencement: Sch. 3 para. 4 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-d66f9bd3903ed6ed8c8637e61a15cdc9]: Commencement: Sch. 3 para. 4 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-b468bdf99b3b6abd0791e4ed194692c5]: Commencement: Sch. 3 para. 5 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-b468bdf99b3b6abd0791e4ed194692c5]: Commencement: Sch. 3 para. 5 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-1792da60b3cd6db860c17db067a86ec3]: Commencement: Sch. 3 para. 6 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-1792da60b3cd6db860c17db067a86ec3]: Commencement: Sch. 3 para. 6 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-95c9b0d4a4eaa53caa352b5c2559ca1d]: Commencement: Sch. 3 para. 7 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-95c9b0d4a4eaa53caa352b5c2559ca1d]: Commencement: Sch. 3 para. 7 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-93f5637f9d2272736891227833292e05]: Commencement: Sch. 3 para. 8 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-93f5637f9d2272736891227833292e05]: Commencement: Sch. 3 para. 8 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-598083d535b1636a0ec8e2251b212ba6]: Commencement: Sch. 3 para. 9 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-598083d535b1636a0ec8e2251b212ba6]: Commencement: Sch. 3 para. 9 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-2da7d10d118d0003a8fc7d8fd86f6d8c]: Commencement: Sch. 3 para. 10 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-2da7d10d118d0003a8fc7d8fd86f6d8c]: Commencement: Sch. 3 para. 10 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-a1a0ed8771291ba3c1df8785ff6ca152]: Commencement: Sch. 3 para. 11 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-a1a0ed8771291ba3c1df8785ff6ca152]: Commencement: Sch. 3 para. 11 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-0bf2d62be82c727e01f09ae25e202ff3]: Commencement: Sch. 3 para. 12 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-0bf2d62be82c727e01f09ae25e202ff3]: Commencement: Sch. 3 para. 12 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-bd34b75c8d30821223d514dee1b7375f]: Commencement: Sch. 3 para. 13 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-bd34b75c8d30821223d514dee1b7375f]: Commencement: Sch. 3 para. 13 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-4ff2635352a032a74f202d016b9b3ac7]: Commencement: Sch. 3 para. 14 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-4ff2635352a032a74f202d016b9b3ac7]: Commencement: Sch. 3 para. 14 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-105a18fe21dae726d19333ce2afca238]: Commencement: Sch. 3 para. 15 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-105a18fe21dae726d19333ce2afca238]: Commencement: Sch. 3 para. 15 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-f01d8c1a1429b4efe61fa46af98dcf64]: Commencement: Sch. 3 para. 16 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-f01d8c1a1429b4efe61fa46af98dcf64]: Commencement: Sch. 3 para. 16 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-c0df0483d9eaecbdc1c633080e7e698a]: Commencement: Sch. 3 para. 17 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-c0df0483d9eaecbdc1c633080e7e698a]: Commencement: Sch. 3 para. 17 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-152c7ff2a89b9992f8880672fb653e68]: Commencement: Sch. 3 para. 18 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-152c7ff2a89b9992f8880672fb653e68]: Commencement: Sch. 3 para. 18 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-c2a4dd881e94a65a3ec63901002c056f]: Commencement: Sch. 3 para. 19 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-c2a4dd881e94a65a3ec63901002c056f]: Commencement: Sch. 3 para. 19 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-dfef888af2b99bccf7c2b2ecd9204609]: Commencement: Sch. 3 para. 20 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-dfef888af2b99bccf7c2b2ecd9204609]: Commencement: Sch. 3 para. 20 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-f7c93164c94d073436f1878a4117413c]: Commencement: Sch. 3 para. 21 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-f7c93164c94d073436f1878a4117413c]: Commencement: Sch. 3 para. 21 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-4b8d97a41b19768081664b8827d1abdf]: Commencement: Sch. 3 para. 22 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-4b8d97a41b19768081664b8827d1abdf]: Commencement: Sch. 3 para. 22 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-515c40841cf634d3902ecda1fae7427d]: Commencement: Sch. 3 para. 23 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-515c40841cf634d3902ecda1fae7427d]: Commencement: Sch. 3 para. 23 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-db8fd8dbe9f5b5954aa6f30d824977bc]: Commencement: Sch. 3 para. 24 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-db8fd8dbe9f5b5954aa6f30d824977bc]: Commencement: Sch. 3 para. 24 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-c3011562cd4c5eb4e9a6c7abbfd72989]: Commencement: Sch. 4 para. 1 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-c3011562cd4c5eb4e9a6c7abbfd72989]: Commencement: Sch. 4 para. 1 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-3c938d8454c96d5285429c6013d7b530]: Commencement: Sch. 4 para. 2 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-3c938d8454c96d5285429c6013d7b530]: Commencement: Sch. 4 para. 2 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-0933e2985184ecce1e3ef47cee2a1a87]: Commencement: Sch. 4 para. 3 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-0933e2985184ecce1e3ef47cee2a1a87]: Commencement: Sch. 4 para. 3 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-ddb93a134cb7002467613b6b9df252bb]: Commencement: Sch. 4 para. 4 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-ddb93a134cb7002467613b6b9df252bb]: Commencement: Sch. 4 para. 4 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-7cc041ebea4880b5648a302307e1ade9]: Commencement: Sch. 4 para. 5 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-7cc041ebea4880b5648a302307e1ade9]: Commencement: Sch. 4 para. 5 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-d2a37846ff9121a5704f5da84c07d3f5]: Commencement: Sch. 4 para. 6 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-d2a37846ff9121a5704f5da84c07d3f5]: Commencement: Sch. 4 para. 6 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-a00075d56e6f22d92d397e833edd37de]: Commencement: Sch. 4 para. 7 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-a00075d56e6f22d92d397e833edd37de]: Commencement: Sch. 4 para. 7 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-405f830a7527b5ed29eaa2d1dc0800c4]: Commencement: Sch. 4 para. 8 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-405f830a7527b5ed29eaa2d1dc0800c4]: Commencement: Sch. 4 para. 8 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-b848ea8c24fedfec4737ef274eddc640]: Commencement: Sch. 4 para. 9 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-b848ea8c24fedfec4737ef274eddc640]: Commencement: Sch. 4 para. 9 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-6477fdfeaff5b4c0069b43996a8d64b3]: Commencement: Sch. 4 para. 10 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-6477fdfeaff5b4c0069b43996a8d64b3]: Commencement: Sch. 4 para. 10 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-b06ed8452f2702e45ecf47b07f894f25]: Commencement: Sch. 4 para. 11 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-b06ed8452f2702e45ecf47b07f894f25]: Commencement: Sch. 4 para. 11 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
 [^f00008]: Footnote: The onus to remain sober applies when the officer is off duty but has agreed to be available for recall to duty to deal with matters which might occur within the area(s) he/she has agreed to cover. It does not apply to the general 24-hour responsibility officers have for their own command area/department.
 
 [^f00009]: Footnote: An officer who is unexpectedly called out for duty should be able, at no risk of discredit, to say that he or she has had too much to drink.
 
-[^key-e356ddcb950c8b98e4eafbfbff9f4fe8]: Commencement: Sch. 4 para. 12 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-e356ddcb950c8b98e4eafbfbff9f4fe8]: Commencement: Sch. 4 para. 12 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
 
-[^key-36174736529eb912facf330132dfbfc2]: Commencement: Sch. 4 para. 13 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)
+[^c-36174736529eb912facf330132dfbfc2]: Commencement: Sch. 4 para. 13 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1)

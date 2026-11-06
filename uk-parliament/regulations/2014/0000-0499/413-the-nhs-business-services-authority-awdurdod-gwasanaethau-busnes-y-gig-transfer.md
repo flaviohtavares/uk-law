@@ -30,7 +30,7 @@ summary: ''
 
 National Health Service, England
 
-The NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) (Transfer of Staff to NHS England[^key-452181727621cf9a4489926f11dd8731] ) Regulations 2014
+The NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) (Transfer of Staff to NHS England[^c-452181727621cf9a4489926f11dd8731] ) Regulations 2014
 
 Made
 
@@ -48,7 +48,7 @@ The Secretary of State for Health in exercise of the powers conferred by section
 
 In accordance with paragraph 4(1) of Schedule 6 to that Act, the Secretary of State has consulted such bodies as the Secretary of State has recognised as representing persons who, in his opinion, are likely to be affected by the regulations.
 
-## 1. Citation, commencement and interpretation[^key-083190bb48e7a61b2316ef86911b4096]
+## 1. Citation, commencement and interpretation[^c-083190bb48e7a61b2316ef86911b4096]
 
 (1) These Regulations may be cited as the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) (Transfer of Staff to NHS England ) Regulations 2014 and come into force on 1st April 2014.
 
@@ -57,7 +57,7 @@ In accordance with paragraph 4(1) of Schedule 6 to that Act, the Secretary of St
 - “the Authority” means the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG)[^f00002]; and
 - “the transfer date” means the date these Regulations come into force.
 
-## 2. Transfer of officers from the Authority to NHS England[^key-0fda84b8de48848ad8a8e3a804ab7622]
+## 2. Transfer of officers from the Authority to NHS England[^c-0fda84b8de48848ad8a8e3a804ab7622]
 
 (1) This regulation applies to any person who—
 
@@ -108,12 +108,12 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 ## Annotations
 
-[^key-452181727621cf9a4489926f11dd8731]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-452181727621cf9a4489926f11dd8731]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^f00001]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41). Paragraph 3(8) of Schedule 6 to the National Health Service Act 2006 (“the 2006 Act”) was amended by section 55(1) of, and paragraph 23 of Schedule 4 to, the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7). By virtue of section 271(1) of the 2006 Act these powers are exercisable by the Secretary of State only in relation to England.
 
-[^key-083190bb48e7a61b2316ef86911b4096]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/413/regulation/1) in force at 1.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/413/regulation/1/1)
+[^c-083190bb48e7a61b2316ef86911b4096]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/413/regulation/1) in force at 1.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/413/regulation/1/1)
 
 [^f00002]: Footnote: The NHS Business Services Authority is a Special Health Authority established by the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) (Establishment and Constitution) Order 2005 ([S.I. 2005/2414](https://www.legislation.gov.uk/uksi/2005/2414), as amended by [S.I. 2006/632](https://www.legislation.gov.uk/uksi/2006/632), [2007/1201](https://www.legislation.gov.uk/uksi/2007/1201) and [2013/235](https://www.legislation.gov.uk/uksi/2013/235)).
 
-[^key-0fda84b8de48848ad8a8e3a804ab7622]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/413/regulation/2) in force at 1.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/413/regulation/1/1)
+[^c-0fda84b8de48848ad8a8e3a804ab7622]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/413/regulation/2) in force at 1.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/413/regulation/1/1)

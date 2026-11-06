@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 187. Repayment: adjustment of employee’s code[^key-4a749b3a7a6b5fbc1170b0bd78f6c927]
+## 187. Repayment: adjustment of employee’s code[^c-4a749b3a7a6b5fbc1170b0bd78f6c927]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a749b3a7a6b5fbc1170b0bd78f6c927]: Commencement: [Reg. 187](https://www.legislation.gov.uk/uksi/2003/2682/regulation/187) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)
+[^c-4a749b3a7a6b5fbc1170b0bd78f6c927]: Commencement: [Reg. 187](https://www.legislation.gov.uk/uksi/2003/2682/regulation/187) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 473. Meaning of “major interest”[^key-d946bc2a00b55cc204d3e0f480e3c4aa][^key-542f027c2782b2900ba819581f204c9e][^key-4e5eac5855cfaed5973f003d77485d79][^key-92496fbd8ecc6abc1a72947529f50b53][^key-cee79a6105ba4ae24ac4c716fa087b91][^key-4e5eac5855cfaed5973f003d77485d79]
+## 473. Meaning of “major interest”[^c-d946bc2a00b55cc204d3e0f480e3c4aa][^c-542f027c2782b2900ba819581f204c9e][^c-4e5eac5855cfaed5973f003d77485d79][^c-92496fbd8ecc6abc1a72947529f50b53][^c-cee79a6105ba4ae24ac4c716fa087b91][^c-4e5eac5855cfaed5973f003d77485d79]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 (3) The reference in subsection (2)(b) to interests, rights and powers does not include interests, rights or powers arising from shares held by a company if—
 
 - (a) a profit on a sale of the shares would be treated as a trading receipt of a trade carried on by the company, and
-- (b) the shares are not assets held by an insurance company for the purposes of its long-term business[^key-bf85a3303ef454244caadf7f833cb68d].
+- (b) the shares are not assets held by an insurance company for the purposes of its long-term business[^c-bf85a3303ef454244caadf7f833cb68d].
 
 (4) Section 474 makes provision about how this section operates where connected companies or partnerships are involved.
 
@@ -46,14 +46,14 @@ summary: ''
 
 ## Annotations
 
-[^key-d946bc2a00b55cc204d3e0f480e3c4aa]: Modification: S. 473 applied by 2010 c. 4, s. 937K(8) (as inserted (with effect in accordance with Sch. 16 para. 5 of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2010/13/schedule/16/paragraph/3))
+[^c-d946bc2a00b55cc204d3e0f480e3c4aa]: Modification: S. 473 applied by 2010 c. 4, s. 937K(8) (as inserted (with effect in accordance with Sch. 16 para. 5 of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2010/13/schedule/16/paragraph/3))
 
-[^key-542f027c2782b2900ba819581f204c9e]: Modification: S. 473 applied by 2010 c. 4, s. 938E(11) (as inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2011/11/schedule/5/paragraph/2))
+[^c-542f027c2782b2900ba819581f204c9e]: Modification: S. 473 applied by 2010 c. 4, s. 938E(11) (as inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2011/11/schedule/5/paragraph/2))
 
-[^key-4e5eac5855cfaed5973f003d77485d79]: Modification: Pt. 5 modified (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/2)[(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))
+[^c-4e5eac5855cfaed5973f003d77485d79]: Modification: Pt. 5 modified (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/2)[(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))
 
-[^key-92496fbd8ecc6abc1a72947529f50b53]: Modification: Ss. 473, 474 applied by 2010 c. 4, s. 357GD(11) (as inserted (with effect in accordance with Sch. 2 paras. 7, 8 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1))
+[^c-92496fbd8ecc6abc1a72947529f50b53]: Modification: Ss. 473, 474 applied by 2010 c. 4, s. 357GD(11) (as inserted (with effect in accordance with Sch. 2 paras. 7, 8 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1))
 
-[^key-cee79a6105ba4ae24ac4c716fa087b91]: Modification: Ss. 473, 474 applied by 2010 c. 4, s. 357BC(10) (as inserted (with effect in accordance with Sch. 2 paras. 7, 8 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1))
+[^c-cee79a6105ba4ae24ac4c716fa087b91]: Modification: Ss. 473, 474 applied by 2010 c. 4, s. 357BC(10) (as inserted (with effect in accordance with Sch. 2 paras. 7, 8 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1))
 
-[^key-bf85a3303ef454244caadf7f833cb68d]: Textual amendment: Words in s. 473(3)(b) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 161](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/161)
+[^c-bf85a3303ef454244caadf7f833cb68d]: Textual amendment: Words in s. 473(3)(b) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 161](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/161)

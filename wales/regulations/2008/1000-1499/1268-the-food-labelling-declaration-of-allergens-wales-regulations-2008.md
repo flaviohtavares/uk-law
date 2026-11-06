@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Food Labelling (Declaration of Allergens) (Wales) Regulations 2008 (revoked)[^key-8b1485e1f5fb4a61a0a3e888563dd913]
+The Food Labelling (Declaration of Allergens) (Wales) Regulations 2008 (revoked)[^c-8b1485e1f5fb4a61a0a3e888563dd913]
 
 Made
 
@@ -45,62 +45,62 @@ Coming into force
 
 31 May 2008
 
-[^key-8b1485e1f5fb4a61a0a3e888563dd913]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b1485e1f5fb4a61a0a3e888563dd913]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-8b1485e1f5fb4a61a0a3e888563dd913]
+## 1. Title, commencement and application[^c-8b1485e1f5fb4a61a0a3e888563dd913]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Food Labelling Regulations 1996[^key-8b1485e1f5fb4a61a0a3e888563dd913]
+## 2. Amendment of the Food Labelling Regulations 1996[^c-8b1485e1f5fb4a61a0a3e888563dd913]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-8b1485e1f5fb4a61a0a3e888563dd913]
+## 3. Revocations[^c-8b1485e1f5fb4a61a0a3e888563dd913]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1485e1f5fb4a61a0a3e888563dd913]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b1485e1f5fb4a61a0a3e888563dd913]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Content to be inserted as Schedule A1 to the Food Labelling Regulations 1996[^key-8b1485e1f5fb4a61a0a3e888563dd913]
+## SCHEDULE — Content to be inserted as Schedule A1 to the Food Labelling Regulations 1996[^c-8b1485e1f5fb4a61a0a3e888563dd913]
 
 Regulation 2(7)
 
-**“1.**[^key-8b1485e1f5fb4a61a0a3e888563dd913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**“1.**[^c-8b1485e1f5fb4a61a0a3e888563dd913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-8b1485e1f5fb4a61a0a3e888563dd913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-8b1485e1f5fb4a61a0a3e888563dd913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-8b1485e1f5fb4a61a0a3e888563dd913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-8b1485e1f5fb4a61a0a3e888563dd913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-8b1485e1f5fb4a61a0a3e888563dd913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-8b1485e1f5fb4a61a0a3e888563dd913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-8b1485e1f5fb4a61a0a3e888563dd913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-8b1485e1f5fb4a61a0a3e888563dd913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-8b1485e1f5fb4a61a0a3e888563dd913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-8b1485e1f5fb4a61a0a3e888563dd913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-8b1485e1f5fb4a61a0a3e888563dd913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-8b1485e1f5fb4a61a0a3e888563dd913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-8b1485e1f5fb4a61a0a3e888563dd913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-8b1485e1f5fb4a61a0a3e888563dd913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-8b1485e1f5fb4a61a0a3e888563dd913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-8b1485e1f5fb4a61a0a3e888563dd913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-8b1485e1f5fb4a61a0a3e888563dd913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-8b1485e1f5fb4a61a0a3e888563dd913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-8b1485e1f5fb4a61a0a3e888563dd913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-8b1485e1f5fb4a61a0a3e888563dd913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-8b1485e1f5fb4a61a0a3e888563dd913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-8b1485e1f5fb4a61a0a3e888563dd913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-8b1485e1f5fb4a61a0a3e888563dd913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-8b1485e1f5fb4a61a0a3e888563dd913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-8b1485e1f5fb4a61a0a3e888563dd913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-8b1485e1f5fb4a61a0a3e888563dd913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8b1485e1f5fb4a61a0a3e888563dd913]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b1485e1f5fb4a61a0a3e888563dd913]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8b1485e1f5fb4a61a0a3e888563dd913]: Textual amendment: Regulations revoked (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/wsi/2014/2303/schedule/6/part/1)
+[^c-8b1485e1f5fb4a61a0a3e888563dd913]: Textual amendment: Regulations revoked (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/wsi/2014/2303/schedule/6/part/1)

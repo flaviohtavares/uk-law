@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Publication of decisions and time for bringing challenge[^key-93fcf598ca969e335a1bcf873822e36a]
+## 41. Publication of decisions and time for bringing challenge[^c-93fcf598ca969e335a1bcf873822e36a]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93fcf598ca969e335a1bcf873822e36a]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2025/34/section/41) in force at 18.2.2026, see [s. 118(1)(x)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/x)
+[^c-93fcf598ca969e335a1bcf873822e36a]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2025/34/section/41) in force at 18.2.2026, see [s. 118(1)(x)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/x)

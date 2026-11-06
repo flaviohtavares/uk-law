@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-6dca88932d6f23d3134a99aeedcd704c]
+## 1. Citation and commencement[^c-6dca88932d6f23d3134a99aeedcd704c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Building Societies (Accounts and Related P
 
 ## Annotations
 
-[^key-6dca88932d6f23d3134a99aeedcd704c]: Commencement: Reg. 1 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-6dca88932d6f23d3134a99aeedcd704c]: Commencement: Reg. 1 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)

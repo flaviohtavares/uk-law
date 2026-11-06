@@ -36,13 +36,13 @@ summary: ''
   - (a) any such election at an ordinary election; or
   - (b) an election under section 16 of the 1999 Act (election to fill a vacancy in the office of Mayor of London);
 - “[^c14506401]**electoral area**” means
-  - (a) in England, any electoral division or ward or, in the case of a parish in which there are no wards, the parish, for which the election of councillors is held under the local government Act;[^key-ef2c472675e2af81181a0a32a22f586d]
+  - (a) in England, any electoral division or ward or, in the case of a parish in which there are no wards, the parish, for which the election of councillors is held under the local government Act;[^c-ef2c472675e2af81181a0a32a22f586d]
   - (aa) in Wales, any electoral ward of a county council or county borough council or community ward or, in the case of a community in which there are no wards, the community, for which the election of councillors is held under the local government Act;
   - (b) Greater London, in the case of—[^c14506421]
     - (i) any election of the Mayor of London; or
     - (ii) the election of the London members of the London Assembly at an ordinary election;
   - (c) any Assembly constituency for which the election of a constituency member of the London Assembly is held;
-- “ *(Extent: E+W+N.I.)*[^key-cd6b6939c532898436c4450006eba4f5]**EU citizen with retained rights *(Extent: E+W+N.I.)***” has the meaning given by section 203B; *(Extent: E+W+N.I.)*
+- “ *(Extent: E+W+N.I.)*[^c-cd6b6939c532898436c4450006eba4f5]**EU citizen with retained rights *(Extent: E+W+N.I.)***” has the meaning given by section 203B; *(Extent: E+W+N.I.)*
 - “**local authority**” means the Greater London Authority,[^c14506431] a county council a county borough council,[^c14506441], [^c14506451]. . . a district council, a London borough council [^c14506471] . . . or a parish or community council;
 - “**local government Act**” means the [^c14506481]Local Government Act 1972 [^c14506501] . . .;
 - “**local government area**” means Greater London,[^c14506511]a county county borough,[^c14506521], London borough [^c14506541]. . . , district, parish or community;
@@ -51,12 +51,12 @@ summary: ''
   - (b) any Authority election
 - “**London member**”, in relation to the London Assembly, has the same meaning as in the 1999 Act;
 - “ *(Extent: E+W+N.I.)***qualifying EU citizen *(Extent: E+W+N.I.)***” has the meaning given by section 203A; *(Extent: E+W+N.I.)*
-- “[^key-e9f22e0daf66399415a5c98142065e40]**qualifying foreign citizen**” means a person who—
+- “[^c-e9f22e0daf66399415a5c98142065e40]**qualifying foreign citizen**” means a person who—
   - is not a Commonwealth citizen, a citizen of the Republic of Ireland or a relevant citizen of the Union, and
   - either—
     - is not a person who requires leave under the Immigration Act 1971 to enter or remain in the United Kingdom, or
     - is such a person but for the time being has (or is, by virtue of any enactment, to be treated as having) any description of such leave.
-- “ *(Extent: W)*[^key-a94d3539ace105e71497a4f7401e365d]**simple majority system *(Extent: W)***” has the meaning given by section 6(1) of the Local Government and Elections (Wales) Act 2021; *(Extent: W)*
+- “ *(Extent: W)*[^c-a94d3539ace105e71497a4f7401e365d]**simple majority system *(Extent: W)***” has the meaning given by section 6(1) of the Local Government and Elections (Wales) Act 2021; *(Extent: W)*
 - ”single transferable vote system” has the meaning given by section 6(2) of the Local Government and Elections (Wales) Act 2021. *(Extent: W)*
 - “**the 1999 Act**” means the Greater London Authority Act 1999;
 
@@ -107,11 +107,11 @@ For the purposes of this subsection the Inner Temple and the Middle Temple shall
 
 [^c14506401]: Textual amendment: Definition of “electoral area” substituted by [Representation of the People Act 1985 (c. 50, SIF 42)](https://www.legislation.gov.uk/ukpga/1985/50), [s. 24](https://www.legislation.gov.uk/ukpga/1985/50/section/24), [Sch. 4 para. 71](https://www.legislation.gov.uk/ukpga/1985/50/schedule/4/paragraph/71)(*a*)
 
-[^key-ef2c472675e2af81181a0a32a22f586d]: Textual amendment: Words in s. 203(1) substituted (E.W.) (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 2(18)(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/2/18/a)
+[^c-ef2c472675e2af81181a0a32a22f586d]: Textual amendment: Words in s. 203(1) substituted (E.W.) (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 2(18)(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/2/18/a)
 
 [^c14506421]: Textual amendment: S. 203(1): in definition of “electoral area” para. (b)(c) added (14.12.1999) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 17](https://www.legislation.gov.uk/ukpga/1999/29/section/17), [Sch. 3 para. 39(1)(3)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/3/paragraph/39/1/3)' [S.I. 1999/3376](https://www.legislation.gov.uk/uksi/1999/3376), [art. 2](https://www.legislation.gov.uk/uksi/1999/3376/article/2)
 
-[^key-cd6b6939c532898436c4450006eba4f5]: Textual amendment: Words in [s. 203](https://www.legislation.gov.uk/ukpga/1983/2/section/203) inserted (E.W.N.I.) (1.11.2023 for specified purposes, 7.5.2024 in so far as not already in force) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(4)(b)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/4/b), [Sch. 8 para. 1(10)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/1/10); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [regs. 3(i)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/i), [5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b)
+[^c-cd6b6939c532898436c4450006eba4f5]: Textual amendment: Words in [s. 203](https://www.legislation.gov.uk/ukpga/1983/2/section/203) inserted (E.W.N.I.) (1.11.2023 for specified purposes, 7.5.2024 in so far as not already in force) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(4)(b)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/4/b), [Sch. 8 para. 1(10)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/1/10); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [regs. 3(i)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/i), [5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b)
 
 [^c14506431]: Textual amendment: S. 203(1): words in definition of “local authority” inserted (14.12.1999) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 17](https://www.legislation.gov.uk/ukpga/1999/29/section/17), [Sch. 3 para. 39(1)(4)(a)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/3/paragraph/39/1/4/a); [S.I. 1999/3376](https://www.legislation.gov.uk/uksi/1999/3376), [art. 2](https://www.legislation.gov.uk/uksi/1999/3376/article/2)
 
@@ -135,9 +135,9 @@ For the purposes of this subsection the Inner Temple and the Middle Temple shall
 
 [^c14506561]: Textual amendment: S. 203(1) definition of “local government area”: para. (b) and preceding word inserted (14.12.1999) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 17](https://www.legislation.gov.uk/ukpga/1999/29/section/17), [Sch. 3 para. 39(1)(4)(c)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/3/paragraph/39/1/4/c); [S.I. 1999/3376](https://www.legislation.gov.uk/uksi/1999/3376), [art. 2](https://www.legislation.gov.uk/uksi/1999/3376/article/2)
 
-[^key-e9f22e0daf66399415a5c98142065e40]: Textual amendment: Words in s. 203(1) (E.W.) inserted (1.6.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [ss. 12(2)](https://www.legislation.gov.uk/anaw/2020/1/section/12/2), [42(3)(a)](https://www.legislation.gov.uk/anaw/2020/1/section/42/3/a)
+[^c-e9f22e0daf66399415a5c98142065e40]: Textual amendment: Words in s. 203(1) (E.W.) inserted (1.6.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [ss. 12(2)](https://www.legislation.gov.uk/anaw/2020/1/section/12/2), [42(3)(a)](https://www.legislation.gov.uk/anaw/2020/1/section/42/3/a)
 
-[^key-a94d3539ace105e71497a4f7401e365d]: Textual amendment: Words in [s. 203(1)](https://www.legislation.gov.uk/ukpga/1983/2/section/203/1) inserted (E.W.) (6.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(6)(c)](https://www.legislation.gov.uk/asc/2021/1/section/175/6/c), [Sch. 2 para. 2(18)(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/2/18/b)
+[^c-a94d3539ace105e71497a4f7401e365d]: Textual amendment: Words in [s. 203(1)](https://www.legislation.gov.uk/ukpga/1983/2/section/203/1) inserted (E.W.) (6.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(6)(c)](https://www.legislation.gov.uk/asc/2021/1/section/175/6/c), [Sch. 2 para. 2(18)(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/2/18/b)
 
 [^c14506591]: Textual amendment: S. 203(1A)(1B) inserted (14.12.1999) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 17](https://www.legislation.gov.uk/ukpga/1999/29/section/17), [Sch. 3 para. 39(5)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/3/paragraph/39/5); [S.I. 1999/3376](https://www.legislation.gov.uk/uksi/1999/3376), [art. 2](https://www.legislation.gov.uk/uksi/1999/3376/article/2)
 

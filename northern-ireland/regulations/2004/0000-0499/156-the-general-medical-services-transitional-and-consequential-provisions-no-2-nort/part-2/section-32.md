@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Arrangements for GP Registrars[^key-c8aa2efe0d7128f462b3075131e96fff]
+## 32. Arrangements for GP Registrars[^c-c8aa2efe0d7128f462b3075131e96fff]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8aa2efe0d7128f462b3075131e96fff]: Textual amendment: [Art. 32](https://www.legislation.gov.uk/nisr/2004/156/article/32) revoked (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [14](https://www.legislation.gov.uk/nisr/2005/230/regulation/14)
+[^c-c8aa2efe0d7128f462b3075131e96fff]: Textual amendment: [Art. 32](https://www.legislation.gov.uk/nisr/2004/156/article/32) revoked (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [14](https://www.legislation.gov.uk/nisr/2005/230/regulation/14)

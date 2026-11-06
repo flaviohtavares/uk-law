@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.28. Cancellation of registration[^key-1e15edeed395be42471d48d569f3d65c]
+## 5.28. Cancellation of registration[^c-1e15edeed395be42471d48d569f3d65c]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e15edeed395be42471d48d569f3d65c]: Commencement: Rule 5.28 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-1e15edeed395be42471d48d569f3d65c]: Commencement: Rule 5.28 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

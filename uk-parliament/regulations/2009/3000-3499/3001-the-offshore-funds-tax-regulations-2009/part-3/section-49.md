@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Structure and application of this Part[^key-8cbc4f77add09aaf018d10d72e2be340]
+## 49. Structure and application of this Part[^c-8cbc4f77add09aaf018d10d72e2be340]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 - (d) Chapter 4 deals with the preparation of accounts;
 - (e) Chapter 5 deals with the computation of reportable income;
 - (f) Chapter 6 deals with transactions by certain reporting funds which are not treated as trading;
-- (fa)[^key-6e5b5851cc11e37d8d612de42f88d92c] Chapter 6A deals with transparent reporting funds;
+- (fa)[^c-6e5b5851cc11e37d8d612de42f88d92c] Chapter 6A deals with transparent reporting funds;
 - (g) Chapter 7 deals with reports to participants;
 - (h) Chapter 8 deals with the tax treatment of participants in reporting funds;
 - (i) Chapter 9 deals with the provision of information to HMRC;
@@ -38,20 +38,20 @@ summary: ''
 
 (2) This Part contains provisions applying to—
 
-- (a) funds that are not constant NAV funds (see Chapters 2 to 11), [^key-0012c396146aa3dbff7f2a854f977815]...
-- (aa)[^key-82ebfb7c4d6ed06adde21391108bcccc] transparent reporting funds (see Chapter 6A), and
+- (a) funds that are not constant NAV funds (see Chapters 2 to 11), [^c-0012c396146aa3dbff7f2a854f977815]...
+- (aa)[^c-82ebfb7c4d6ed06adde21391108bcccc] transparent reporting funds (see Chapter 6A), and
 - (b) constant NAV funds (see Chapter 12).
 
-(3)[^key-5ece84643c218a3cb79ba468a63d1def] Chapters 4 to 6 do not apply to transparent reporting funds.
+(3)[^c-5ece84643c218a3cb79ba468a63d1def] Chapters 4 to 6 do not apply to transparent reporting funds.
 
 ## Annotations
 
-[^key-8cbc4f77add09aaf018d10d72e2be340]: Textual amendment: Words in reg. 49 heading inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [22(2)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/22/2)
+[^c-8cbc4f77add09aaf018d10d72e2be340]: Textual amendment: Words in reg. 49 heading inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [22(2)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/22/2)
 
-[^key-6e5b5851cc11e37d8d612de42f88d92c]: Textual amendment: Reg. 49(1)(fa) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [22(3)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/22/3)
+[^c-6e5b5851cc11e37d8d612de42f88d92c]: Textual amendment: Reg. 49(1)(fa) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [22(3)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/22/3)
 
-[^key-0012c396146aa3dbff7f2a854f977815]: Textual amendment: Word in reg. 49(2)(a) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [22(4)(a)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/22/4/a)
+[^c-0012c396146aa3dbff7f2a854f977815]: Textual amendment: Word in reg. 49(2)(a) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [22(4)(a)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/22/4/a)
 
-[^key-82ebfb7c4d6ed06adde21391108bcccc]: Textual amendment: Reg. 49(2)(aa) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [22(4)(b)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/22/4/b)
+[^c-82ebfb7c4d6ed06adde21391108bcccc]: Textual amendment: Reg. 49(2)(aa) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [22(4)(b)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/22/4/b)
 
-[^key-5ece84643c218a3cb79ba468a63d1def]: Textual amendment: Reg. 49(3) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [22(5)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/22/5)
+[^c-5ece84643c218a3cb79ba468a63d1def]: Textual amendment: Reg. 49(3) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [22(5)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/22/5)

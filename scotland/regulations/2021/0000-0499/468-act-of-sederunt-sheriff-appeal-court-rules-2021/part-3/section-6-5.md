@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6.5. Order for intimation and answers[^key-993e74c67381fac9a759bad0f8f8a1f4]
+## 6.5. Order for intimation and answers[^c-993e74c67381fac9a759bad0f8f8a1f4]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-993e74c67381fac9a759bad0f8f8a1f4]: Commencement: Para. 6.5 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-993e74c67381fac9a759bad0f8f8a1f4]: Commencement: Para. 6.5 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 198. Appeals to tribunal[^key-7942ee4d322662fa504bc82a98960534]
+## 198. Appeals to tribunal[^c-7942ee4d322662fa504bc82a98960534]
 
 *Extent: S*
 
@@ -31,10 +31,10 @@ summary: ''
 - (e) a decision by the employer under regulation 105 (cancellation of ill-health pension: failure to receive appropriate medical treatment) as to whether a refusal to accept medical treatment is reasonable;
 - (f) a decision by the employer under regulation 97 (reduction of pension in case of default) to reduce the amount of pension payable to the member.
 
-(3) Regulation 215[^key-6e337fd2f966d04d11e124fe997861ae] (procedure on appeals to tribunal) sets out the procedure for appeals under this regulation.
+(3) Regulation 215[^c-6e337fd2f966d04d11e124fe997861ae] (procedure on appeals to tribunal) sets out the procedure for appeals under this regulation.
 
 ## Annotations
 
-[^key-7942ee4d322662fa504bc82a98960534]: Commencement: Reg. 198 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-7942ee4d322662fa504bc82a98960534]: Commencement: Reg. 198 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-6e337fd2f966d04d11e124fe997861ae]: Textual amendment: Words in [reg. 198(3)](https://www.legislation.gov.uk/ssi/2015/142/regulation/198/3) substituted (with effect from 1.4.2015) by [The Police Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/325)](https://www.legislation.gov.uk/ssi/2015/325), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/325/regulation/1/2), [10](https://www.legislation.gov.uk/ssi/2015/325/regulation/10)
+[^c-6e337fd2f966d04d11e124fe997861ae]: Textual amendment: Words in [reg. 198(3)](https://www.legislation.gov.uk/ssi/2015/142/regulation/198/3) substituted (with effect from 1.4.2015) by [The Police Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/325)](https://www.legislation.gov.uk/ssi/2015/325), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/325/regulation/1/2), [10](https://www.legislation.gov.uk/ssi/2015/325/regulation/10)

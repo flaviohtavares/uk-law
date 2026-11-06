@@ -31,7 +31,7 @@ summary: ''
 
 PLANNING
 
-Planning (General Development) (Amendment) Order (Northern Ireland) 2000 (revoked)[^key-e4db0a5f1f0ca1a197bb6b4f5ca716a6]
+Planning (General Development) (Amendment) Order (Northern Ireland) 2000 (revoked)[^c-e4db0a5f1f0ca1a197bb6b4f5ca716a6]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into operation
 
 1st May 2000
 
-[^key-e4db0a5f1f0ca1a197bb6b4f5ca716a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e4db0a5f1f0ca1a197bb6b4f5ca716a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e4db0a5f1f0ca1a197bb6b4f5ca716a6]
+## 1. Citation and commencement[^c-e4db0a5f1f0ca1a197bb6b4f5ca716a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Planning (General Development) Order (Northern Ireland) 1993[^key-e4db0a5f1f0ca1a197bb6b4f5ca716a6]
+## 2. Amendment of the Planning (General Development) Order (Northern Ireland) 1993[^c-e4db0a5f1f0ca1a197bb6b4f5ca716a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provision[^key-e4db0a5f1f0ca1a197bb6b4f5ca716a6]
+## 3. Transitional provision[^c-e4db0a5f1f0ca1a197bb6b4f5ca716a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e4db0a5f1f0ca1a197bb6b4f5ca716a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e4db0a5f1f0ca1a197bb6b4f5ca716a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e4db0a5f1f0ca1a197bb6b4f5ca716a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e4db0a5f1f0ca1a197bb6b4f5ca716a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e4db0a5f1f0ca1a197bb6b4f5ca716a6]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2000/113) revoked (1.4.2015) by [The Planning (General Development Procedure) Order (Northern Ireland) 2015 (S.R. 2015/72)](https://www.legislation.gov.uk/nisr/2015/72), [art. 1(1)](https://www.legislation.gov.uk/nisr/2015/72/article/1/1), [Sch. 4](https://www.legislation.gov.uk/nisr/2015/72/schedule/4)
+[^c-e4db0a5f1f0ca1a197bb6b4f5ca716a6]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2000/113) revoked (1.4.2015) by [The Planning (General Development Procedure) Order (Northern Ireland) 2015 (S.R. 2015/72)](https://www.legislation.gov.uk/nisr/2015/72), [art. 1(1)](https://www.legislation.gov.uk/nisr/2015/72/article/1/1), [Sch. 4](https://www.legislation.gov.uk/nisr/2015/72/schedule/4)

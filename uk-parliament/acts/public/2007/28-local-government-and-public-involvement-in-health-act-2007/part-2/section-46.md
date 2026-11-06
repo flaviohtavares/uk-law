@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Orders for elections by halves: councillors to be elected at ordinary elections[^key-64a325eef8b39ef05861041417350101]
+## 46. Orders for elections by halves: councillors to be elected at ordinary elections[^c-64a325eef8b39ef05861041417350101]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64a325eef8b39ef05861041417350101]: Commencement: S. 46 in force at 30.12.2007, see s. 245(2)
+[^c-64a325eef8b39ef05861041417350101]: Commencement: S. 46 in force at 30.12.2007, see s. 245(2)

@@ -31,7 +31,7 @@ summary: ''
 
 Public Health, Wales
 
-The Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 2) Regulations 2021 (revoked)[^key-06fc760e3394e58c97d756ed7eb51107]
+The Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 2) Regulations 2021 (revoked)[^c-06fc760e3394e58c97d756ed7eb51107]
 
 Made
 
@@ -45,43 +45,43 @@ Laid before Senedd Cymru
 
 at 12.30 p.m. on 18 January 2021
 
-[^key-06fc760e3394e58c97d756ed7eb51107]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-06fc760e3394e58c97d756ed7eb51107]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — General[^key-06fc760e3394e58c97d756ed7eb51107]
+## PART 1 — General[^c-06fc760e3394e58c97d756ed7eb51107]
 
-### 1. Title, coming into force and interpretation[^key-06fc760e3394e58c97d756ed7eb51107]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 2 — Amendments to the list of exempt countries and territories in Schedule 3 to the International Travel Regulations[^key-06fc760e3394e58c97d756ed7eb51107]
-
-### 2. Removal of countries and territories from the list of exempt countries and territories[^key-06fc760e3394e58c97d756ed7eb51107]
+### 1. Title, coming into force and interpretation[^c-06fc760e3394e58c97d756ed7eb51107]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Transitional provision in connection with regulation 2[^key-06fc760e3394e58c97d756ed7eb51107]
+## PART 2 — Amendments to the list of exempt countries and territories in Schedule 3 to the International Travel Regulations[^c-06fc760e3394e58c97d756ed7eb51107]
+
+### 2. Removal of countries and territories from the list of exempt countries and territories[^c-06fc760e3394e58c97d756ed7eb51107]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Amendment to Part 2 of Schedule 2 to the International Travel Regulations[^key-06fc760e3394e58c97d756ed7eb51107]
-
-### 4. Amendment to Part 2 of Schedule 2 to the International Travel Regulations (exempt persons)[^key-06fc760e3394e58c97d756ed7eb51107]
+### 3. Transitional provision in connection with regulation 2[^c-06fc760e3394e58c97d756ed7eb51107]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Amendment to Regulation 10 of the International Travel Regulations[^key-06fc760e3394e58c97d756ed7eb51107]
+## PART 3 — Amendment to Part 2 of Schedule 2 to the International Travel Regulations[^c-06fc760e3394e58c97d756ed7eb51107]
 
-### 5. Amendment to Regulation 10 of the International Travel Regulations (isolation requirements: exceptions)[^key-06fc760e3394e58c97d756ed7eb51107]
+### 4. Amendment to Part 2 of Schedule 2 to the International Travel Regulations (exempt persons)[^c-06fc760e3394e58c97d756ed7eb51107]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-06fc760e3394e58c97d756ed7eb51107]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART 4 — Amendment to Regulation 10 of the International Travel Regulations[^c-06fc760e3394e58c97d756ed7eb51107]
+
+### 5. Amendment to Regulation 10 of the International Travel Regulations (isolation requirements: exceptions)[^c-06fc760e3394e58c97d756ed7eb51107]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-06fc760e3394e58c97d756ed7eb51107]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-06fc760e3394e58c97d756ed7eb51107]EXPLANATORY NOTE
+[^c-06fc760e3394e58c97d756ed7eb51107]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -140,4 +140,4 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 ## Annotations
 
-[^key-06fc760e3394e58c97d756ed7eb51107]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2021/50) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 30](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/30)
+[^c-06fc760e3394e58c97d756ed7eb51107]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2021/50) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 30](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/30)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 97. Application for liability order[^key-f79a174c46a61c77849ebf92271cf867]
+## 97. Application for liability order[^c-f79a174c46a61c77849ebf92271cf867]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f79a174c46a61c77849ebf92271cf867]: Commencement: Reg. 97 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-f79a174c46a61c77849ebf92271cf867]: Commencement: Reg. 97 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
 
 [^f00044]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).

@@ -31,10 +31,10 @@ summary: ''
 
 of 11 March 2004 concerning a questionnaire for Member States reports on the implementation of Directive 2002/96/EC of the European Parliament and of the Council on waste electrical and electronic equipment (WEEE) (Text with EEA relevance) (notified under document number C(2004) 714) (revoked)
 
-[^key-1b8e1e5526cf0a25caa4edf381dc13b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b8e1e5526cf0a25caa4edf381dc13b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-1b8e1e5526cf0a25caa4edf381dc13b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-1b8e1e5526cf0a25caa4edf381dc13b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1b8e1e5526cf0a25caa4edf381dc13b9]: Textual amendment: Decision revoked (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2019/620/schedule/paragraph/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1b8e1e5526cf0a25caa4edf381dc13b9]: Textual amendment: Decision revoked (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2019/620/schedule/paragraph/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

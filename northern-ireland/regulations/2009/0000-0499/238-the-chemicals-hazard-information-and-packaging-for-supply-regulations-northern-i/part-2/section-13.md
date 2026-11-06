@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Transitional provisions for dangerous substances, dangerous preparations and certain specified preparations[^key-67cc807864cc6c001406886db2e4c9cb]
+## 13. Transitional provisions for dangerous substances, dangerous preparations and certain specified preparations[^c-67cc807864cc6c001406886db2e4c9cb]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67cc807864cc6c001406886db2e4c9cb]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/nisr/2009/238/regulation/13) revoked (1.6.2015) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2013 (S.R. 2013/206)](https://www.legislation.gov.uk/nisr/2013/206), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2013/206/regulation/2/1), [24(b)](https://www.legislation.gov.uk/nisr/2013/206/regulation/24/b) (with [regs. 3](https://www.legislation.gov.uk/nisr/2013/206/regulation/3), [19](https://www.legislation.gov.uk/nisr/2013/206/regulation/19))
+[^c-67cc807864cc6c001406886db2e4c9cb]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/nisr/2009/238/regulation/13) revoked (1.6.2015) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2013 (S.R. 2013/206)](https://www.legislation.gov.uk/nisr/2013/206), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2013/206/regulation/2/1), [24(b)](https://www.legislation.gov.uk/nisr/2013/206/regulation/24/b) (with [regs. 3](https://www.legislation.gov.uk/nisr/2013/206/regulation/3), [19](https://www.legislation.gov.uk/nisr/2013/206/regulation/19))

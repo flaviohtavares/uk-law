@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) An airport operator authorised in that behalf by the Department of Justice[^key-e53bec19b7a6b4c7b96a3c9aa4238a82] may appoint any person employed by the operator to be a constable on the airport managed by that operator.
+(1) An airport operator authorised in that behalf by the Department of Justice[^c-e53bec19b7a6b4c7b96a3c9aa4238a82] may appoint any person employed by the operator to be a constable on the airport managed by that operator.
 
-(2) An authorisation under this Article may be granted subject to such conditions as the appropriate authority[^key-596b7329f7e2047342fdcf93056db339] thinks fit.
+(2) An authorisation under this Article may be granted subject to such conditions as the appropriate authority[^c-596b7329f7e2047342fdcf93056db339] thinks fit.
 
-(2A)[^key-d148def6fec4c804ca16420051b640de] In this Article “appropriate authority” means—
+(2A)[^c-d148def6fec4c804ca16420051b640de] In this Article “appropriate authority” means—
 
 - (a) in relation to conditions which affect an excepted or reserved matter otherwise than incidentally, the Secretary of State; and
 - (b) otherwise, the Department of Justice;
@@ -49,11 +49,11 @@ the holding of the office of constable under this Article on any airport shall b
 
 ## Annotations
 
-[^key-e53bec19b7a6b4c7b96a3c9aa4238a82]: Textual amendment: Words in [art. 19(1)](https://www.legislation.gov.uk/nisi/1994/426/article/19/1) substituted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/7/2) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-e53bec19b7a6b4c7b96a3c9aa4238a82]: Textual amendment: Words in [art. 19(1)](https://www.legislation.gov.uk/nisi/1994/426/article/19/1) substituted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/7/2) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
 
-[^key-596b7329f7e2047342fdcf93056db339]: Textual amendment: Words in [art. 19(2)](https://www.legislation.gov.uk/nisi/1994/426/article/19/2) substituted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2012/2595/article/7/3) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-596b7329f7e2047342fdcf93056db339]: Textual amendment: Words in [art. 19(2)](https://www.legislation.gov.uk/nisi/1994/426/article/19/2) substituted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2012/2595/article/7/3) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
 
-[^key-d148def6fec4c804ca16420051b640de]: Textual amendment: [Art. 19(2A)](https://www.legislation.gov.uk/nisi/1994/426/article/19/2A)[(2B)](https://www.legislation.gov.uk/nisi/1994/426/article/19/2B) inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2012/2595/article/7/4) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-d148def6fec4c804ca16420051b640de]: Textual amendment: [Art. 19(2A)](https://www.legislation.gov.uk/nisi/1994/426/article/19/2A)[(2B)](https://www.legislation.gov.uk/nisi/1994/426/article/19/2B) inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2012/2595/article/7/4) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
 
 [^c5479601]: Textual amendment: [1996 NI 16](https://www.legislation.gov.uk/nisi/1996)
 

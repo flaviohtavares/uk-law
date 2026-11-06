@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Procedure for federation - small schools[^key-3ef0701730fef281d2039a1ae8c7f6b5]
+## 11. Procedure for federation - small schools[^c-3ef0701730fef281d2039a1ae8c7f6b5]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ef0701730fef281d2039a1ae8c7f6b5]: Commencement: Reg. 11 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-3ef0701730fef281d2039a1ae8c7f6b5]: Commencement: Reg. 11 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

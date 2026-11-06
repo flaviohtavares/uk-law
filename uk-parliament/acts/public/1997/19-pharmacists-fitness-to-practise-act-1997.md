@@ -31,15 +31,15 @@ Pharmacists (Fitness to Practise) Act 1997 (repealed)
 
 1997 c. 19
 
-[^key-1e2fe06868c7f6bdfd544fcaa4b5d4f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e2fe06868c7f6bdfd544fcaa4b5d4f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Fitness to practise.[^key-1e2fe06868c7f6bdfd544fcaa4b5d4f9]
+## 1. Fitness to practise.[^c-1e2fe06868c7f6bdfd544fcaa4b5d4f9]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Commencement.[^key-1e2fe06868c7f6bdfd544fcaa4b5d4f9]
+## 2. Commencement.[^c-1e2fe06868c7f6bdfd544fcaa4b5d4f9]
 
 *Extent: E+W+S*
 
@@ -47,7 +47,7 @@ Pharmacists (Fitness to Practise) Act 1997 (repealed)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Short title and extent.[^key-1e2fe06868c7f6bdfd544fcaa4b5d4f9]
+## 3. Short title and extent.[^c-1e2fe06868c7f6bdfd544fcaa4b5d4f9]
 
 *Extent: E+W+S*
 
@@ -57,38 +57,38 @@ Pharmacists (Fitness to Practise) Act 1997 (repealed)
 
 **Not yet in force.**
 
-## SCHEDULE — Fitness to Practise of Registered Pharmaceutical Chemists[^key-1e2fe06868c7f6bdfd544fcaa4b5d4f9]
+## SCHEDULE — Fitness to Practise of Registered Pharmaceutical Chemists[^c-1e2fe06868c7f6bdfd544fcaa4b5d4f9]
 
 Section 1.
 
-### Pharmacy Act 1954 (c. 61)[^key-1e2fe06868c7f6bdfd544fcaa4b5d4f9]
+### Pharmacy Act 1954 (c. 61)[^c-1e2fe06868c7f6bdfd544fcaa4b5d4f9]
 
 *Extent: E+W+S*
 
-**1.**[^key-1e2fe06868c7f6bdfd544fcaa4b5d4f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1e2fe06868c7f6bdfd544fcaa4b5d4f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-1e2fe06868c7f6bdfd544fcaa4b5d4f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1e2fe06868c7f6bdfd544fcaa4b5d4f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1e2fe06868c7f6bdfd544fcaa4b5d4f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1e2fe06868c7f6bdfd544fcaa4b5d4f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-1e2fe06868c7f6bdfd544fcaa4b5d4f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1e2fe06868c7f6bdfd544fcaa4b5d4f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Medicines Act 1968 (c. 67)[^key-1e2fe06868c7f6bdfd544fcaa4b5d4f9]
+### Medicines Act 1968 (c. 67)[^c-1e2fe06868c7f6bdfd544fcaa4b5d4f9]
 
-**5.**[^key-1e2fe06868c7f6bdfd544fcaa4b5d4f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-1e2fe06868c7f6bdfd544fcaa4b5d4f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### National Health Service Act 1977 (c. 49)[^key-1e2fe06868c7f6bdfd544fcaa4b5d4f9]
-
-*Extent: E+W+S*
-
-**6.**[^key-1e2fe06868c7f6bdfd544fcaa4b5d4f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### National Health Service (Scotland) Act 1978 (c. 29)[^key-1e2fe06868c7f6bdfd544fcaa4b5d4f9]
+### National Health Service Act 1977 (c. 49)[^c-1e2fe06868c7f6bdfd544fcaa4b5d4f9]
 
 *Extent: E+W+S*
 
-**7.**[^key-1e2fe06868c7f6bdfd544fcaa4b5d4f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-1e2fe06868c7f6bdfd544fcaa4b5d4f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### National Health Service (Scotland) Act 1978 (c. 29)[^c-1e2fe06868c7f6bdfd544fcaa4b5d4f9]
+
+*Extent: E+W+S*
+
+**7.**[^c-1e2fe06868c7f6bdfd544fcaa4b5d4f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1e2fe06868c7f6bdfd544fcaa4b5d4f9]: Textual amendment: Act repealed (30.3.2007) by [Pharmacists and Pharmacy Technicians Order 2007 (S.I. 2007/289)](https://www.legislation.gov.uk/uksi/2007/289), art. 1(2)(3), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2007/289/schedule/1/paragraph/6); commencing date as notified in The Gazette, published 23.3.2007
+[^c-1e2fe06868c7f6bdfd544fcaa4b5d4f9]: Textual amendment: Act repealed (30.3.2007) by [Pharmacists and Pharmacy Technicians Order 2007 (S.I. 2007/289)](https://www.legislation.gov.uk/uksi/2007/289), art. 1(2)(3), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2007/289/schedule/1/paragraph/6); commencing date as notified in The Gazette, published 23.3.2007

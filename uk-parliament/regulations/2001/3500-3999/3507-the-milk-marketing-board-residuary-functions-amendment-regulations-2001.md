@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE, ENGLAND AND WALES
 
-The Milk Marketing Board (Residuary Functions) (Amendment) Regulations 2001 (revoked)[^key-2efc45653e199888becef9c4392637b4]
+The Milk Marketing Board (Residuary Functions) (Amendment) Regulations 2001 (revoked)[^c-2efc45653e199888becef9c4392637b4]
 
 Made
 
@@ -45,38 +45,38 @@ Coming into force
 
 30th November 2001
 
-[^key-2efc45653e199888becef9c4392637b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2efc45653e199888becef9c4392637b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, extent, commencement and interpretation[^key-2efc45653e199888becef9c4392637b4]
+## 1. Title, extent, commencement and interpretation[^c-2efc45653e199888becef9c4392637b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-2efc45653e199888becef9c4392637b4]
+## 2. Amendment of the principal Regulations[^c-2efc45653e199888becef9c4392637b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-2efc45653e199888becef9c4392637b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-2efc45653e199888becef9c4392637b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-2efc45653e199888becef9c4392637b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2efc45653e199888becef9c4392637b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Supplementary and consequential provisions[^key-2efc45653e199888becef9c4392637b4]
+## 5. Supplementary and consequential provisions[^c-2efc45653e199888becef9c4392637b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-2efc45653e199888becef9c4392637b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-2efc45653e199888becef9c4392637b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-2efc45653e199888becef9c4392637b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-2efc45653e199888becef9c4392637b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-2efc45653e199888becef9c4392637b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-2efc45653e199888becef9c4392637b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2efc45653e199888becef9c4392637b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2efc45653e199888becef9c4392637b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2efc45653e199888becef9c4392637b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2efc45653e199888becef9c4392637b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2efc45653e199888becef9c4392637b4]: Textual amendment: Regulations revoked (1.7.2015) by [The Milk Marketing Board (England and Wales) (Revocations) Regulations 2015 (S.I. 2015/955)](https://www.legislation.gov.uk/uksi/2015/955), [regs. 1](https://www.legislation.gov.uk/uksi/2015/955/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2015/955/regulation/2/c)
+[^c-2efc45653e199888becef9c4392637b4]: Textual amendment: Regulations revoked (1.7.2015) by [The Milk Marketing Board (England and Wales) (Revocations) Regulations 2015 (S.I. 2015/955)](https://www.legislation.gov.uk/uksi/2015/955), [regs. 1](https://www.legislation.gov.uk/uksi/2015/955/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2015/955/regulation/2/c)

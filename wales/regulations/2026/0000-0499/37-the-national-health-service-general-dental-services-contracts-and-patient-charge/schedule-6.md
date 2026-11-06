@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 43
 
-### 1. The National Health Service (Dental Charges) (Wales) Regulations 2006[^key-e5ed4cd52ba0c9caf0f0e758645c9841]
+### 1. The National Health Service (Dental Charges) (Wales) Regulations 2006[^c-e5ed4cd52ba0c9caf0f0e758645c9841]
 
 (1) The 2006 (Charges) Regulations, are amended as follows.
 
@@ -36,7 +36,7 @@ Regulation 43
 
 > - (g) the provision of dental services under a general dental services contract under the National Health Service (General Dental Services Contracts and Patient Charges) (Wales) Regulations 2026.
 
-### 2. The National Health Service (Personal Dental Services Agreements) (Wales) 2006[^key-7470b78877cecf110461c03fdc931d18]
+### 2. The National Health Service (Personal Dental Services Agreements) (Wales) 2006[^c-7470b78877cecf110461c03fdc931d18]
 
 (1) The 2006 (PDS) Regulations are amended as follows.
 
@@ -167,8 +167,8 @@ Regulation 43
 
 ## Annotations
 
-[^key-e5ed4cd52ba0c9caf0f0e758645c9841]: Commencement: Sch. 6 para. 1 in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-e5ed4cd52ba0c9caf0f0e758645c9841]: Commencement: Sch. 6 para. 1 in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-7470b78877cecf110461c03fdc931d18]: Commencement: Sch. 6 para. 2 in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-7470b78877cecf110461c03fdc931d18]: Commencement: Sch. 6 para. 2 in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
 [^f00041]: Footnote: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42).

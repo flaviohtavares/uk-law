@@ -36,9 +36,9 @@ under regulation 2.D.8 in respect of the later service, the re-employed member i
 - (a) the member’s original tier 1 ill-health pension in respect of his earlier service, and
 - (b) a tier 1 or, as the case may be, tier 2 ill-health pension in respect of the later service.
 
-This is subject to paragraph (5).[^key-9832346dd1aabeb9366d8bd4cfe9a6fa]
+This is subject to paragraph (5).[^c-9832346dd1aabeb9366d8bd4cfe9a6fa]
 
-(5)[^key-b86552deb381ee6a1d95668d9b7c9a91] If the re-employed member—
+(5)[^c-b86552deb381ee6a1d95668d9b7c9a91] If the re-employed member—
 
 - (a) ceases to be entitled to a tier 1 ill-health pension in respect of the earlier service,
 - (b) becomes entitled to a tier 2 ill-health pension in respect of that earlier service in accordance with regulation 2.D.9(3), and
@@ -53,6 +53,6 @@ the re-employed member is entitled to the benefits set out in paragraph (6).
 
 ## Annotations
 
-[^key-9832346dd1aabeb9366d8bd4cfe9a6fa]: Textual amendment: Words in [reg. 2.G.5(4)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.G.5/4) inserted (1.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [48(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/48/a) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-9832346dd1aabeb9366d8bd4cfe9a6fa]: Textual amendment: Words in [reg. 2.G.5(4)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.G.5/4) inserted (1.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [48(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/48/a) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
 
-[^key-b86552deb381ee6a1d95668d9b7c9a91]: Textual amendment: [Reg. 2.G.5(5)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.G.5/5)[(6)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.G.5/6) added (1.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [48(b)](https://www.legislation.gov.uk/uksi/2009/381/regulation/48/b) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-b86552deb381ee6a1d95668d9b7c9a91]: Textual amendment: [Reg. 2.G.5(5)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.G.5/5)[(6)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.G.5/6) added (1.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [48(b)](https://www.legislation.gov.uk/uksi/2009/381/regulation/48/b) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))

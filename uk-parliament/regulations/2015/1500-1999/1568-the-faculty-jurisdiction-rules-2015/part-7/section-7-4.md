@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 7.4. Issue of faculty[^key-5cd4de94fc55fe7d3e4b3d5c0233eca7]
+## 7.4. Issue of faculty[^c-5cd4de94fc55fe7d3e4b3d5c0233eca7]
 
 *Extent: E*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5cd4de94fc55fe7d3e4b3d5c0233eca7]: Commencement: [Rule 7.4](https://www.legislation.gov.uk/uksi/2015/1568/article/7.4) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-5cd4de94fc55fe7d3e4b3d5c0233eca7]: Commencement: [Rule 7.4](https://www.legislation.gov.uk/uksi/2015/1568/article/7.4) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

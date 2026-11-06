@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 179. Payments due in respect of deceased persons[^key-919969514673f77a19ab48c81662305d]
+## 179. Payments due in respect of deceased persons[^c-919969514673f77a19ab48c81662305d]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ without the production of probate or letters of administration of the person’s
 
 ## Annotations
 
-[^key-919969514673f77a19ab48c81662305d]: Commencement: Reg. 179 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-919969514673f77a19ab48c81662305d]: Commencement: Reg. 179 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
 [^f00079]: Footnote: [1965 c. 32](https://www.legislation.gov.uk/ukpga/1965/32); there are amendments to section 6 which are not relevant to this instrument.

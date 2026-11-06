@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 173. Licensing: powers of entry and inspection for civilian employees[^key-84604c52c957ffee3c3a143b1d443fa4]
+## 173. Licensing: powers of entry and inspection for civilian employees[^c-84604c52c957ffee3c3a143b1d443fa4]
 
 *Extent: S*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84604c52c957ffee3c3a143b1d443fa4]: Commencement: [S. 173](https://www.legislation.gov.uk/asp/2010/13/section/173) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-84604c52c957ffee3c3a143b1d443fa4]: Commencement: [S. 173](https://www.legislation.gov.uk/asp/2010/13/section/173) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)

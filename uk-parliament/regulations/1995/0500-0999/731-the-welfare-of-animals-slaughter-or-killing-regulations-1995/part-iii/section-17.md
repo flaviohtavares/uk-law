@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17 (Extent: W) (affected by repeal, see note). The slaughter or killing of animals for the purpose of disease control (Extent: W) (affected by repeal, see note)[^key-f5df07cd6d2cffed61f0284b001945f4][^key-29e8ef3a5d57f823261f46df805d0311][^key-29e8ef3a5d57f823261f46df805d0311]
+## 17 (Extent: W) (affected by repeal, see note). The slaughter or killing of animals for the purpose of disease control (Extent: W) (affected by repeal, see note)[^c-f5df07cd6d2cffed61f0284b001945f4][^c-29e8ef3a5d57f823261f46df805d0311][^c-29e8ef3a5d57f823261f46df805d0311]
 
 *Extent: E+W+S*
 
-The slaughter or killing of any animal for the purpose of disease control shall be in accordance with Schedule 9. *(Extent: W)* *(affected by repeal, see note)*[^key-29e8ef3a5d57f823261f46df805d0311]
+The slaughter or killing of any animal for the purpose of disease control shall be in accordance with Schedule 9. *(Extent: W)* *(affected by repeal, see note)*[^c-29e8ef3a5d57f823261f46df805d0311]
 
 ## Annotations
 
-[^key-f5df07cd6d2cffed61f0284b001945f4]: Commencement: Reg. 17 in force at 1.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/731/regulation/1/1)
+[^c-f5df07cd6d2cffed61f0284b001945f4]: Commencement: Reg. 17 in force at 1.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/731/regulation/1/1)
 
-[^key-29e8ef3a5d57f823261f46df805d0311]: Textual amendment: Regulations revoked (W.) (20.5.2014) by [The Welfare of Animals at the Time of Killing (Wales) Regulations 2014 (S.I. 2014/951)](https://www.legislation.gov.uk/uksi/2014/951), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2014/951/regulation/1/c), [46(a)](https://www.legislation.gov.uk/uksi/2014/951/regulation/46/a); and revoked (E.) (5.11.2015) by [The Welfare of Animals at the Time of Killing (England) Regulations 2015 (S.I. 2015/1782)](https://www.legislation.gov.uk/uksi/2015/1782), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/1/4), [47(a)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/47/a)
+[^c-29e8ef3a5d57f823261f46df805d0311]: Textual amendment: Regulations revoked (W.) (20.5.2014) by [The Welfare of Animals at the Time of Killing (Wales) Regulations 2014 (S.I. 2014/951)](https://www.legislation.gov.uk/uksi/2014/951), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2014/951/regulation/1/c), [46(a)](https://www.legislation.gov.uk/uksi/2014/951/regulation/46/a); and revoked (E.) (5.11.2015) by [The Welfare of Animals at the Time of Killing (England) Regulations 2015 (S.I. 2015/1782)](https://www.legislation.gov.uk/uksi/2015/1782), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/1/4), [47(a)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/47/a)

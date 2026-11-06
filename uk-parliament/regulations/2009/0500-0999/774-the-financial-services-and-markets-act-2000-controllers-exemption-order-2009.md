@@ -56,13 +56,13 @@ In this Order—
 
 - “**the Act**” means the Financial Services and Markets Act 2000;
 - “**authorised building society**” means any UK authorised person [^c19630781] which is a building society within the meaning of section 119 of the Building Societies Act 1986 (interpretation)[^c19630791];
-- “[^key-2926d2f120c9e0fcbf618fd408ff3b5b]**managing agent**” has the meaning given in article 3 of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001;
+- “[^c-2926d2f120c9e0fcbf618fd408ff3b5b]**managing agent**” has the meaning given in article 3 of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001;
 - “**relevant friendly society**” means any UK authorised person which is a friendly society to which neither subsection (2) nor subsection (3) of section 37 of the Friendly Societies Act 1992 (restriction on combinations of business)[^c19630801] applies; and
 - “**relevant UK authorised person**” means a UK authorised person other than—
-  - (a) a credit institution which has permission under Part 4A of the Act to carry on the regulated activity of accepting deposits;[^key-1e1e35dfcfdd1f38c2ba1785816654f3]
+  - (a) a credit institution which has permission under Part 4A of the Act to carry on the regulated activity of accepting deposits;[^c-1e1e35dfcfdd1f38c2ba1785816654f3]
   - (b) an investment firm (as defined in section 424A of the Act);
   - (c) a management company (as defined in section 237(2) of the Act);
-  - (d) an insurance undertaking which includes for the purposes of this Order a managing agent; or[^key-d018333e847ad4ba64d4083ad9c1e43a]
+  - (d) an insurance undertaking which includes for the purposes of this Order a managing agent; or[^c-d018333e847ad4ba64d4083ad9c1e43a]
   - (e) a reinsurance undertaking.
 
 ## 3. Matters affecting calculations under this Order
@@ -74,7 +74,7 @@ For the purposes of calculations under this Order—
 
 ## 4. General exemption in respect of certain non-directive firms
 
-(1) This article provides exemptions from the obligations in sections 178 and 191D of the Act (notifying the regulators)[^key-96d3d7c33963a8083a3795f5468eb5c7][^c19630881] in relation to a person (“A”) who decides to acquire, increase, reduce or cease to have control over a relevant UK authorised person (“B”).
+(1) This article provides exemptions from the obligations in sections 178 and 191D of the Act (notifying the regulators)[^c-96d3d7c33963a8083a3795f5468eb5c7][^c19630881] in relation to a person (“A”) who decides to acquire, increase, reduce or cease to have control over a relevant UK authorised person (“B”).
 
 (2) This article does not apply where B is an authorised building society or a relevant friendly society.
 
@@ -111,12 +111,12 @@ For the purposes of calculations under this Order—
 
 (3) Where A decides to reduce or cease to have control over B, A is exempt from the obligation imposed by section 191D.
 
-## 6A. Specific exemptions in respect of consumer credit[^key-c27371be9f8c0c60c26628cbb22c0967]
+## 6A. Specific exemptions in respect of consumer credit[^c-c27371be9f8c0c60c26628cbb22c0967]
 
 (1) This article provides exemptions from the obligations in sections 178 and 191D of the Act in relation to a person (“A”) who decides to acquire, increase, reduce or cease to have control over a UK authorised person (“B”) who—
 
-- (a) carries on regulated activities which are relevant credit activities or activities to which, by virtue of section 39(1D) of[^key-6f3362a4babdaae040be0ed03b4a1020] the Act, sections 20(1) and (1A) and 23(1A) of the Act do not apply when carried on by B, and
-- (b)[^key-870a4f37bb97b87d0620c305d1af8dbb] does not carry on any other regulated activities.
+- (a) carries on regulated activities which are relevant credit activities or activities to which, by virtue of section 39(1D) of[^c-6f3362a4babdaae040be0ed03b4a1020] the Act, sections 20(1) and (1A) and 23(1A) of the Act do not apply when carried on by B, and
+- (b)[^c-870a4f37bb97b87d0620c305d1af8dbb] does not carry on any other regulated activities.
 
 (2) Where A decides to acquire or increase control over B, A is exempt from the obligation imposed by section 178 unless giving effect to the decision would result in A beginning to be in the position of holding—
 
@@ -135,28 +135,28 @@ For the purposes of calculations under this Order—
 - (a) an activity of the kind specified by article 36A of the Regulated Activities Order (credit broking) when carried on in the case specified in paragraph (6), (7) or (8),
 - (b) an activity of the kind specified by article 39D of that Order (debt adjusting) when carried on—
   - (i) in the case specified in paragraph (6), by a person who also carries on an activity of the kind specified by sub-paragraph (a),
-  - (ii) by a person in connection with an activity of the kind specified by sub-paragraph (d) or (e) and where that person[^key-4e3967e558ce538ce79358a40e9924b4] also carries on an activity of the kind specified by sub-paragraph (d) or (e), or
+  - (ii) by a person in connection with an activity of the kind specified by sub-paragraph (d) or (e) and where that person[^c-4e3967e558ce538ce79358a40e9924b4] also carries on an activity of the kind specified by sub-paragraph (d) or (e), or
   - (iii) by a not-for-profit body,
 - (c) an activity of the kind specified by article 39E of that Order (debt-counselling) when carried on—
   - (i) in the case specified in paragraph (6), by a person who also carries on an activity of the kind specified by sub-paragraph (a),
-  - (ii) by a person in connection with an activity of the kind specified by sub-paragraph (d) or (e) and where that person[^key-176771e578ed17f1366e538c59caf502] also carries on an activity of the kind specified by sub-paragraph (d) or (e), or
+  - (ii) by a person in connection with an activity of the kind specified by sub-paragraph (d) or (e) and where that person[^c-176771e578ed17f1366e538c59caf502] also carries on an activity of the kind specified by sub-paragraph (d) or (e), or
   - (iii) by a not-for-profit body,
 - (d) an activity of the kind specified by article 60B of that Order (regulated credit agreements) if—
   - (i) it is carried on by a supplier,
   - (ii) no charge (by way of interest or otherwise) is payable by the borrower in connection with the provision of credit under the regulated credit agreement, and
   - (iii) the regulated credit agreement is not a hire-purchase agreement or a conditional sale agreement,
 - (e) an activity of the kind specified by article 60N of that Order (regulated consumer hire agreements),
-- (f) an activity of the kind specified by article 89A of that Order (providing credit information services) where carried on by a person in connection with an activity of the kind specified by sub-paragraph (a) to (e) and where that person[^key-ebdc8c1984e4bbf1410f88a2409d5f9b] also carries on an activity of the kind specified by any of sub-paragraphs (a) to (e), or
+- (f) an activity of the kind specified by article 89A of that Order (providing credit information services) where carried on by a person in connection with an activity of the kind specified by sub-paragraph (a) to (e) and where that person[^c-ebdc8c1984e4bbf1410f88a2409d5f9b] also carries on an activity of the kind specified by any of sub-paragraphs (a) to (e), or
 - (g) an activity of the kind specified by article 64 of that Order (agreeing to carry on specified activities) so far as relevant to any activity of the kind specified by sub-paragraphs (a) to (f).
 
-(4A)[^key-f642b94b81578ff588e24c9e4b0e3a37] For the purposes of paragraph (4), any activity which the person carries on is to be disregarded if sections 20(1) and (1A) and 23(1A) of the Act do not apply to the carrying on of that activity by virtue of section 39(1D) of the Act.
+(4A)[^c-f642b94b81578ff588e24c9e4b0e3a37] For the purposes of paragraph (4), any activity which the person carries on is to be disregarded if sections 20(1) and (1A) and 23(1A) of the Act do not apply to the carrying on of that activity by virtue of section 39(1D) of the Act.
 
-(5) Except where the activity is carried on by a not-for-profit body,[^key-32179f001f82d9035c1264deaae9b500] an activity is not a relevant credit activity for the purposes of—
+(5) Except where the activity is carried on by a not-for-profit body,[^c-32179f001f82d9035c1264deaae9b500] an activity is not a relevant credit activity for the purposes of—
 
 - (a) sub-paragraphs (a) to (e) of paragraph (4), and
 - (b) sub-paragraph (g) of that paragraph so far at it relates to activities of the kind specified by any of those sub-paragraphs,
 
-if it relates to an agreement under which the obligation of the borrower to repay or the hirer to pay[^key-85a8c77a0158a2ba5a2b8d5b42815a8f] is secured, or is to be secured, by a legal or equitable[^key-cd900708266531581d4db104ccdf72d8] mortgage on land.
+if it relates to an agreement under which the obligation of the borrower to repay or the hirer to pay[^c-85a8c77a0158a2ba5a2b8d5b42815a8f] is secured, or is to be secured, by a legal or equitable[^c-cd900708266531581d4db104ccdf72d8] mortgage on land.
 
 (6) The case specified in this paragraph is where a supplier (other than a domestic premises supplier) carries on the activity for the purposes of, or in connection with, the sale of goods or supply of services by the supplier to a customer (who need not be the borrower under the credit agreement or the hirer under the consumer hire agreement).
 
@@ -164,7 +164,7 @@ if it relates to an agreement under which the obligation of the borrower to repa
 
 (8) The case specified in this paragraph is where activity relates to a consumer hire agreement where the good being hired is a vehicle.
 
-(9) For the purposes of this article[^key-daaa7106ca808628cd1b5b082ffbe8c9] —
+(9) For the purposes of this article[^c-daaa7106ca808628cd1b5b082ffbe8c9] —
 
 - “borrower” includes—
   - (a) any person providing a guarantee or indemnity under an agreement, and
@@ -217,43 +217,43 @@ An impact assessment of the effect of the changes made by this Order and the Fin
 
 [^c19630791]: Marginal citation: [1986 c.53](https://www.legislation.gov.uk/ukpga/1986/53). There are amendments to section 119 which are not relevant to this Order.
 
-[^key-2926d2f120c9e0fcbf618fd408ff3b5b]: Textual amendment: Words in art. 2 inserted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 30(b)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/30/b)
+[^c-2926d2f120c9e0fcbf618fd408ff3b5b]: Textual amendment: Words in art. 2 inserted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 30(b)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/30/b)
 
 [^c19630801]: Marginal citation: [1992 c.40](https://www.legislation.gov.uk/ukpga/1992/40). There are amendments to section 37 which are not relevant to this Order.
 
-[^key-1e1e35dfcfdd1f38c2ba1785816654f3]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2009/774/article/2) substituted (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [185](https://www.legislation.gov.uk/uksi/2019/632/regulation/185) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1e1e35dfcfdd1f38c2ba1785816654f3]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2009/774/article/2) substituted (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [185](https://www.legislation.gov.uk/uksi/2019/632/regulation/185) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d018333e847ad4ba64d4083ad9c1e43a]: Textual amendment: Words in art. 2 substituted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 30(a)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/30/a)
+[^c-d018333e847ad4ba64d4083ad9c1e43a]: Textual amendment: Words in art. 2 substituted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 30(a)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/30/a)
 
 [^c19630871]: Marginal citation: Section 184 of the Act was substituted [S.I. 2009/534](https://www.legislation.gov.uk/uksi/2009/534) (see [Regulation 3](https://www.legislation.gov.uk/uksi/2009/534/regulation/3) and Schedule 1).
 
-[^key-96d3d7c33963a8083a3795f5468eb5c7]: Textual amendment: Words in art. 4(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 166](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/166)
+[^c-96d3d7c33963a8083a3795f5468eb5c7]: Textual amendment: Words in art. 4(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 166](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/166)
 
 [^c19630881]: Marginal citation: Sections 178 was substituted and 191D inserted by [S.I. 2009/534](https://www.legislation.gov.uk/uksi/2009/534) (see [Regulation 3](https://www.legislation.gov.uk/uksi/2009/534/regulation/3) and Schedule 1).
 
 [^c19630891]: Marginal citation: See the Building Societies (Deferred Shares) Order 1991([S.I. 1991/701](https://www.legislation.gov.uk/uksi/1991/701)).
 
-[^key-c27371be9f8c0c60c26628cbb22c0967]: Textual amendment: Art. 6A inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [19](https://www.legislation.gov.uk/uksi/2013/1881/article/19)
+[^c-c27371be9f8c0c60c26628cbb22c0967]: Textual amendment: Art. 6A inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [19](https://www.legislation.gov.uk/uksi/2013/1881/article/19)
 
-[^key-6f3362a4babdaae040be0ed03b4a1020]: Textual amendment: Words in art. 6A(1)(a) inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [14(a)](https://www.legislation.gov.uk/uksi/2014/366/article/14/a)
+[^c-6f3362a4babdaae040be0ed03b4a1020]: Textual amendment: Words in art. 6A(1)(a) inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [14(a)](https://www.legislation.gov.uk/uksi/2014/366/article/14/a)
 
-[^key-870a4f37bb97b87d0620c305d1af8dbb]: Modification: Art. 6A(1)(b) modified (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 for remaining purposes) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [83(12)](https://www.legislation.gov.uk/uksi/2018/1253/article/83/12)
+[^c-870a4f37bb97b87d0620c305d1af8dbb]: Modification: Art. 6A(1)(b) modified (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 for remaining purposes) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [83(12)](https://www.legislation.gov.uk/uksi/2018/1253/article/83/12)
 
-[^key-4e3967e558ce538ce79358a40e9924b4]: Textual amendment: Words in art. 6A(4)(b)(ii) substituted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [14(b)(i)](https://www.legislation.gov.uk/uksi/2014/366/article/14/b/i)
+[^c-4e3967e558ce538ce79358a40e9924b4]: Textual amendment: Words in art. 6A(4)(b)(ii) substituted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [14(b)(i)](https://www.legislation.gov.uk/uksi/2014/366/article/14/b/i)
 
-[^key-176771e578ed17f1366e538c59caf502]: Textual amendment: Words in art. 6A(4)(c)(ii) substituted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [14(b)(i)](https://www.legislation.gov.uk/uksi/2014/366/article/14/b/i)
+[^c-176771e578ed17f1366e538c59caf502]: Textual amendment: Words in art. 6A(4)(c)(ii) substituted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [14(b)(i)](https://www.legislation.gov.uk/uksi/2014/366/article/14/b/i)
 
-[^key-ebdc8c1984e4bbf1410f88a2409d5f9b]: Textual amendment: Words in art. 6A(4)(f) substituted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [14(b)(ii)](https://www.legislation.gov.uk/uksi/2014/366/article/14/b/ii)
+[^c-ebdc8c1984e4bbf1410f88a2409d5f9b]: Textual amendment: Words in art. 6A(4)(f) substituted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [14(b)(ii)](https://www.legislation.gov.uk/uksi/2014/366/article/14/b/ii)
 
-[^key-f642b94b81578ff588e24c9e4b0e3a37]: Textual amendment: Art. 6A(4A) inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [14(c)](https://www.legislation.gov.uk/uksi/2014/366/article/14/c)
+[^c-f642b94b81578ff588e24c9e4b0e3a37]: Textual amendment: Art. 6A(4A) inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [14(c)](https://www.legislation.gov.uk/uksi/2014/366/article/14/c)
 
-[^key-32179f001f82d9035c1264deaae9b500]: Textual amendment: Words in art. 6A(5) substituted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [14(d)(i)](https://www.legislation.gov.uk/uksi/2014/366/article/14/d/i)
+[^c-32179f001f82d9035c1264deaae9b500]: Textual amendment: Words in art. 6A(5) substituted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [14(d)(i)](https://www.legislation.gov.uk/uksi/2014/366/article/14/d/i)
 
-[^key-85a8c77a0158a2ba5a2b8d5b42815a8f]: Textual amendment: Words in art. 6A(5) inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [14(d)(ii)(aa)](https://www.legislation.gov.uk/uksi/2014/366/article/14/d/ii/aa)
+[^c-85a8c77a0158a2ba5a2b8d5b42815a8f]: Textual amendment: Words in art. 6A(5) inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [14(d)(ii)(aa)](https://www.legislation.gov.uk/uksi/2014/366/article/14/d/ii/aa)
 
-[^key-cd900708266531581d4db104ccdf72d8]: Textual amendment: Words in art. 6A(5) inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [14(d)(ii)(bb)](https://www.legislation.gov.uk/uksi/2014/366/article/14/d/ii/bb)
+[^c-cd900708266531581d4db104ccdf72d8]: Textual amendment: Words in art. 6A(5) inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [14(d)(ii)(bb)](https://www.legislation.gov.uk/uksi/2014/366/article/14/d/ii/bb)
 
-[^key-daaa7106ca808628cd1b5b082ffbe8c9]: Textual amendment: Word in art. 6A(9) substituted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [14(e)](https://www.legislation.gov.uk/uksi/2014/366/article/14/e)
+[^c-daaa7106ca808628cd1b5b082ffbe8c9]: Textual amendment: Word in art. 6A(9) substituted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [14(e)](https://www.legislation.gov.uk/uksi/2014/366/article/14/e)
 
 [^c19630901]: Marginal citation: [S.I. 2001/2638](https://www.legislation.gov.uk/uksi/2001/2638).
 

@@ -48,13 +48,13 @@ The Secretary of State for Work and Pensions makes the following Regulations in 
 
 As these Regulations contain only provisions in consequence of an order under sections 150 and 150A[^f00003] of the Social Security Administration Act 1992 there is no requirement to consult the Social Security Advisory Committee in respect of them[^f00004].
 
-## 1. Citation, commencement and interpretation[^key-4ef9f4f57e0277c7b7bbd45a347e805a]
+## 1. Citation, commencement and interpretation[^c-4ef9f4f57e0277c7b7bbd45a347e805a]
 
 (1) These Regulations may be cited as the Social Security Benefits Up-rating Regulations 2008 and shall come into force on 7th April 2008.
 
 (2) In these Regulations, “the Up-rating Order” means the Social Security Benefits Up-rating Order 2008[^f00005].
 
-## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order[^key-78f11a5282e638664076df30b956b9aa]
+## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order[^c-78f11a5282e638664076df30b956b9aa]
 
 Section 155(3) of the Social Security Administration Act 1992 (effect of alteration of rates of benefit under Parts II to V of the Social Security Contributions and Benefits Act 1992) shall not apply if a question arises as to either—
 
@@ -63,22 +63,22 @@ Section 155(3) of the Social Security Administration Act 1992 (effect of alterat
 
 until that question has been determined in accordance with the provisions of the Social Security Act 1998[^f00006].
 
-## 3. Persons not ordinarily resident in Great Britain[^key-6aa62a6a32a8c78ef3ce51291b9c94ba]
+## 3. Persons not ordinarily resident in Great Britain[^c-6aa62a6a32a8c78ef3ce51291b9c94ba]
 
 Regulation 5 of the Social Security Benefit (Persons Abroad) Regulations 1975[^f00007] (application of disqualification in respect of up-rating of benefit) shall apply to any additional benefit payable by virtue of the Up-rating Order.
 
-## 4. Amendment of the Social Security Benefit (Dependency) Regulations 1977[^key-8ceb9fbd3913c1774e774763fa871d54]
+## 4. Amendment of the Social Security Benefit (Dependency) Regulations 1977[^c-8ceb9fbd3913c1774e774763fa871d54]
 
 In paragraph 2B of Schedule 2 to the Social Security Benefit (Dependency) Regulations 1977[^f00008] (increase of carer’s allowance for child dependants)—
 
 - (a) for “£180”, in both places where it occurs, substitute “£185”; and
 - (b) for “£24” substitute “£25”.
 
-## 5. Amendment of the Social Security (Claims and Payments) Regulations 1987[^key-4e0f1c8e574bd533d35cb6958aef54ee]
+## 5. Amendment of the Social Security (Claims and Payments) Regulations 1987[^c-4e0f1c8e574bd533d35cb6958aef54ee]
 
 In paragraph 4(2A) of Schedule 9 to the Social Security (Claims and Payments) Regulations 1987[^f00009] (deductions from benefit and direct payment to third parties) for “£20.45”, in each place where it occurs, substitute “£21.15”.
 
-## 6. Revocation[^key-5eb7adcdddd824ef88ba0fa0fafe64b2]
+## 6. Revocation[^c-5eb7adcdddd824ef88ba0fa0fafe64b2]
 
 The Social Security Benefits Up-rating Regulations 2007[^f00010] are revoked.
 
@@ -120,26 +120,26 @@ A full impact assessment has not been published for this instrument as no impact
 
 [^f00004]: Footnote: *See* paragraph 3 of Schedule 7 to the Social Security Administration Act 1992.
 
-[^key-4ef9f4f57e0277c7b7bbd45a347e805a]: Commencement: Reg. 1 in force at 7.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/667/regulation/1/1)
+[^c-4ef9f4f57e0277c7b7bbd45a347e805a]: Commencement: Reg. 1 in force at 7.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/667/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 2008/ 632](https://www.legislation.gov.uk/uksi/2008/632).
 
-[^key-78f11a5282e638664076df30b956b9aa]: Commencement: Reg. 2 in force at 7.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/667/regulation/1/1)
+[^c-78f11a5282e638664076df30b956b9aa]: Commencement: Reg. 2 in force at 7.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/667/regulation/1/1)
 
 [^f00006]: Footnote: [1998 c.14](https://www.legislation.gov.uk/ukpga/1998/14).
 
-[^key-6aa62a6a32a8c78ef3ce51291b9c94ba]: Commencement: Reg. 3 in force at 7.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/667/regulation/1/1)
+[^c-6aa62a6a32a8c78ef3ce51291b9c94ba]: Commencement: Reg. 3 in force at 7.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/667/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 1975/563](https://www.legislation.gov.uk/uksi/1975/563); relevant amending instruments are [S.I. 1977/342](https://www.legislation.gov.uk/uksi/1977/342), [1979/1432](https://www.legislation.gov.uk/uksi/1979/1432), [1988/435](https://www.legislation.gov.uk/uksi/1988/435), [1989/1642](https://www.legislation.gov.uk/uksi/1989/1642), [1990/621](https://www.legislation.gov.uk/uksi/1990/621), [1992/1700](https://www.legislation.gov.uk/uksi/1992/1700), [1994/1832](https://www.legislation.gov.uk/uksi/1994/1832), [2000/2876](https://www.legislation.gov.uk/uksi/2000/2876) and [2005/1551](https://www.legislation.gov.uk/uksi/2005/1551) and [2877](https://www.legislation.gov.uk/uksi/2005/2877).
 
-[^key-8ceb9fbd3913c1774e774763fa871d54]: Commencement: Reg. 4 in force at 7.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/667/regulation/1/1)
+[^c-8ceb9fbd3913c1774e774763fa871d54]: Commencement: Reg. 4 in force at 7.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/667/regulation/1/1)
 
 [^f00008]: Footnote: [S.I. 1977/343](https://www.legislation.gov.uk/uksi/1977/343). Paragraph 2B was inserted by [S.I. 1984/1699](https://www.legislation.gov.uk/uksi/1984/1699); relevant amending instruments are [S.I. 2002/2497](https://www.legislation.gov.uk/uksi/2002/2497) and [2007/775](https://www.legislation.gov.uk/uksi/2007/775).
 
-[^key-4e0f1c8e574bd533d35cb6958aef54ee]: Commencement: Reg. 5 in force at 7.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/667/regulation/1/1)
+[^c-4e0f1c8e574bd533d35cb6958aef54ee]: Commencement: Reg. 5 in force at 7.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/667/regulation/1/1)
 
 [^f00009]: Footnote: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968). Sub-paragraph (2A) was inserted by [S.I. 2003/2325](https://www.legislation.gov.uk/uksi/2003/2325); relevant amending instrument is [S.I. 2007/775](https://www.legislation.gov.uk/uksi/2007/775).
 
-[^key-5eb7adcdddd824ef88ba0fa0fafe64b2]: Commencement: Reg. 6 in force at 7.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/667/regulation/1/1)
+[^c-5eb7adcdddd824ef88ba0fa0fafe64b2]: Commencement: Reg. 6 in force at 7.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/667/regulation/1/1)
 
 [^f00010]: Footnote: [S.I. 2007/775](https://www.legislation.gov.uk/uksi/2007/775).

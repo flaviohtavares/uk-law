@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Eradicating slavery and human trafficking in supply chains[^key-b7447d817491ea373c2c96468cb06e12][^key-600b2a8c281dc0071cb8245e2160fd52]
+## 81. Eradicating slavery and human trafficking in supply chains[^c-b7447d817491ea373c2c96468cb06e12][^c-600b2a8c281dc0071cb8245e2160fd52]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b7447d817491ea373c2c96468cb06e12]: Commencement: S. 81 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-b7447d817491ea373c2c96468cb06e12]: Commencement: S. 81 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-600b2a8c281dc0071cb8245e2160fd52]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2022/31/section/81) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-600b2a8c281dc0071cb8245e2160fd52]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2022/31/section/81) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

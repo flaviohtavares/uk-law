@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) A credit union shall not be registered under this Order under a name which in the opinion of the FCA[^key-fe266e8091ddae0c10f8d9305eac10ef] is undesirable.
+(1) A credit union shall not be registered under this Order under a name which in the opinion of the FCA[^c-fe266e8091ddae0c10f8d9305eac10ef] is undesirable.
 
 (2) The name of every credit union shall contain the words “credit union” and the word “Limited” shall be the last word in that name.
 
@@ -49,10 +49,10 @@ and any person who contravenes this paragraph shall be guilty of an offence and 
 (6) Paragraph (5) does not apply to—
 
 - (a) the use by an officer or employee of a credit union of a title or descriptive expression indicating his office or post with the credit union; or
-- (b) the use with reference to an association or group of credit unions of a name which has been approved in writing by the FCA[^key-0c34903a8e331f8e4d49eb2339099dca] .
+- (b) the use with reference to an association or group of credit unions of a name which has been approved in writing by the FCA[^c-0c34903a8e331f8e4d49eb2339099dca] .
 
 ## Annotations
 
-[^key-fe266e8091ddae0c10f8d9305eac10ef]: Textual amendment: Word in art. 6(1) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 3 para. 2(d)](https://www.legislation.gov.uk/uksi/2018/323/schedule/3/paragraph/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
+[^c-fe266e8091ddae0c10f8d9305eac10ef]: Textual amendment: Word in art. 6(1) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 3 para. 2(d)](https://www.legislation.gov.uk/uksi/2018/323/schedule/3/paragraph/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
 
-[^key-0c34903a8e331f8e4d49eb2339099dca]: Textual amendment: Word in art. 6(6)(b) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 3 para. 2(d)](https://www.legislation.gov.uk/uksi/2018/323/schedule/3/paragraph/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
+[^c-0c34903a8e331f8e4d49eb2339099dca]: Textual amendment: Word in art. 6(6)(b) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 3 para. 2(d)](https://www.legislation.gov.uk/uksi/2018/323/schedule/3/paragraph/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))

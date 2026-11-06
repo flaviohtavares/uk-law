@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Visitor accommodation at premises within the area of more than one principal council[^key-88b129fa6fdabf9c233ad274788154ec]
+## 51. Visitor accommodation at premises within the area of more than one principal council[^c-88b129fa6fdabf9c233ad274788154ec]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where the premises at which visitor accommodation is provided are not wholly wit
 
 ## Annotations
 
-[^key-88b129fa6fdabf9c233ad274788154ec]: Commencement: S. 51 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-88b129fa6fdabf9c233ad274788154ec]: Commencement: S. 51 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

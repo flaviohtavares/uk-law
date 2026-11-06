@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Further assessment of rent conditions and report by local authority[^key-0333832c34e926afacc6498eff1b6232][^key-e56355be5edcbf658eb9aa99fb4957c7]
+## 5. Further assessment of rent conditions and report by local authority[^c-0333832c34e926afacc6498eff1b6232][^c-e56355be5edcbf658eb9aa99fb4957c7]
 
 *Extent: S*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0333832c34e926afacc6498eff1b6232]: Commencement: S. 5 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-0333832c34e926afacc6498eff1b6232]: Commencement: S. 5 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-e56355be5edcbf658eb9aa99fb4957c7]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2025/13/section/5) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-e56355be5edcbf658eb9aa99fb4957c7]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2025/13/section/5) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

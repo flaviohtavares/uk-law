@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 86. Special cases[^key-f95631caf9108d3a279f86af3f9753f1]
+## 86. Special cases[^c-f95631caf9108d3a279f86af3f9753f1]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Documents to be sent to the Secretary of State, the Lord Chancellor, the Attorne
 
 ## Annotations
 
-[^key-f95631caf9108d3a279f86af3f9753f1]: Commencement: [Rule 86](https://www.legislation.gov.uk/uksi/2024/1155/rule/86) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-f95631caf9108d3a279f86af3f9753f1]: Commencement: [Rule 86](https://www.legislation.gov.uk/uksi/2024/1155/rule/86) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

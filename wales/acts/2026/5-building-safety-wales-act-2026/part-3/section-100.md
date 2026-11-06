@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 100. Notices: supplementary[^key-9d6a6f823c9ff8ac9588590aa6d2ca68]
+## 100. Notices: supplementary[^c-9d6a6f823c9ff8ac9588590aa6d2ca68]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d6a6f823c9ff8ac9588590aa6d2ca68]: Commencement: S. 100 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-9d6a6f823c9ff8ac9588590aa6d2ca68]: Commencement: S. 100 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

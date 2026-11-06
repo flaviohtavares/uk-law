@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 139A. Treatment of loans for specific purposes[^key-abd8b0c4b146fefdd4a890283ce09348]
+## 139A. Treatment of loans for specific purposes[^c-abd8b0c4b146fefdd4a890283ce09348]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ A loan under the Education (Student Support) Regulations 2011 or regulations mad
 
 ## Annotations
 
-[^key-abd8b0c4b146fefdd4a890283ce09348]: Textual amendment: [Reg. 139A](https://www.legislation.gov.uk/uksi/2008/794/regulation/139A) substituted (1.4.2024) by [The Social Security and Universal Credit (Migration of Tax Credit Claimants and Miscellaneous Amendments) Regulations 2024 (S.I. 2024/341)](https://www.legislation.gov.uk/uksi/2024/341), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/341/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2024/341/regulation/5)
+[^c-abd8b0c4b146fefdd4a890283ce09348]: Textual amendment: [Reg. 139A](https://www.legislation.gov.uk/uksi/2008/794/regulation/139A) substituted (1.4.2024) by [The Social Security and Universal Credit (Migration of Tax Credit Claimants and Miscellaneous Amendments) Regulations 2024 (S.I. 2024/341)](https://www.legislation.gov.uk/uksi/2024/341), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/341/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2024/341/regulation/5)

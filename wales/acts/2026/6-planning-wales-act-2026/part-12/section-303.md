@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 303. Meaning of “statutory undertaker” and “statutory undertaking”[^key-3198242c84c4f2baa107a6dbb6e473cf]
+## 303. Meaning of “statutory undertaker” and “statutory undertaking”[^c-3198242c84c4f2baa107a6dbb6e473cf]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3198242c84c4f2baa107a6dbb6e473cf]: Commencement: S. 303 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-3198242c84c4f2baa107a6dbb6e473cf]: Commencement: S. 303 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

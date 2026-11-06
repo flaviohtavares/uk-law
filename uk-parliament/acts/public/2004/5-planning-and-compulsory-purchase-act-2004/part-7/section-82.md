@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 82. Urgent Crown development[^key-ae0f0b9e809c2c2742dc90ba43272f01][^key-ae60f33d59c9aa16981af3a58244cde3]
+## 82. Urgent Crown development[^c-ae0f0b9e809c2c2742dc90ba43272f01][^c-ae60f33d59c9aa16981af3a58244cde3]
 
 *Extent: E+W*
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ae0f0b9e809c2c2742dc90ba43272f01]: Commencement: S. 82 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-ae0f0b9e809c2c2742dc90ba43272f01]: Commencement: S. 82 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
 
-[^key-ae60f33d59c9aa16981af3a58244cde3]: Commencement: S. 82 in force at 7.6.2006 in so far as not already in force by [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/a)
+[^c-ae60f33d59c9aa16981af3a58244cde3]: Commencement: S. 82 in force at 7.6.2006 in so far as not already in force by [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/a)

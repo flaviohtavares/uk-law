@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Continuity of sexual offences law[^key-83df4603165176f60cb26a0b4046d594]
+## 55. Continuity of sexual offences law[^c-83df4603165176f60cb26a0b4046d594]
 
 *Extent: E+W+N.I.*
 
@@ -60,4 +60,4 @@ and, in relation to an offence falling within paragraphs (a) to (c), a reference
 
 ## Annotations
 
-[^key-83df4603165176f60cb26a0b4046d594]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2006/38/section/55) in force at 12.2.2007 by [S.I. 2007/74](https://www.legislation.gov.uk/uksi/2007/74), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/74/article/2/c)
+[^c-83df4603165176f60cb26a0b4046d594]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2006/38/section/55) in force at 12.2.2007 by [S.I. 2007/74](https://www.legislation.gov.uk/uksi/2007/74), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/74/article/2/c)

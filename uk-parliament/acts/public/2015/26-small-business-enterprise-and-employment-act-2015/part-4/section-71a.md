@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71A. Reports on avoidance[^key-88e46270d4c93fc0f61e76d2571d6c4f]
+## 71A. Reports on avoidance[^c-88e46270d4c93fc0f61e76d2571d6c4f]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88e46270d4c93fc0f61e76d2571d6c4f]: Textual amendment: [S. 71A](https://www.legislation.gov.uk/ukpga/2015/26/section/71A) inserted (21.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 40](https://www.legislation.gov.uk/ukpga/2016/12/section/40), [44(5)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/5); [S.I. 2016/695](https://www.legislation.gov.uk/uksi/2016/695), [art. 4(b)](https://www.legislation.gov.uk/uksi/2016/695/article/4/b)
+[^c-88e46270d4c93fc0f61e76d2571d6c4f]: Textual amendment: [S. 71A](https://www.legislation.gov.uk/ukpga/2015/26/section/71A) inserted (21.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 40](https://www.legislation.gov.uk/ukpga/2016/12/section/40), [44(5)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/5); [S.I. 2016/695](https://www.legislation.gov.uk/uksi/2016/695), [art. 4(b)](https://www.legislation.gov.uk/uksi/2016/695/article/4/b)

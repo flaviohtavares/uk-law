@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This section has effect in relation to any notice, directions or other document required or authorised by or under any provision of this Act or by the rules of a building society to be served on any person other than the FCA[^key-ba00f42b74a28eb47c0e2df6fa969ab6] and the PRA but subject, in the case of notices or other documents to be given or sent to members of a building society, to any provision of its rules.
+(1) This section has effect in relation to any notice, directions or other document required or authorised by or under any provision of this Act or by the rules of a building society to be served on any person other than the FCA[^c-ba00f42b74a28eb47c0e2df6fa969ab6] and the PRA but subject, in the case of notices or other documents to be given or sent to members of a building society, to any provision of its rules.
 
 (1A)[^c15517691] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -30,7 +30,7 @@ summary: ''
 - (b) by leaving it at his proper address; or
 - (c) by sending it by post to him at that address.
 
-(2A)[^key-0189376735ead9477af1742200d170dd] The reference in subsection (2)(a) to delivering a document to a person includes a reference to sending it electronically to an electronic address which that person has notified for the purpose in accordance with express provision made by this Act.
+(2A)[^c-0189376735ead9477af1742200d170dd] The reference in subsection (2)(a) to delivering a document to a person includes a reference to sending it electronically to an electronic address which that person has notified for the purpose in accordance with express provision made by this Act.
 
 (3) Any such document may—
 
@@ -51,10 +51,10 @@ and, in any other case, his last-known address (whether of his residence or of a
 
 ## Annotations
 
-[^key-ba00f42b74a28eb47c0e2df6fa969ab6]: Textual amendment: Words in s. 115(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 50](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/50) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-ba00f42b74a28eb47c0e2df6fa969ab6]: Textual amendment: Words in s. 115(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 50](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/50) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15517691]: Textual amendment: S. 115(1A) repealed (1.12.2001) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2(b)](https://www.legislation.gov.uk/uksi/2001/2617/article/2/b), [13(2)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2001/2617/schedule/4) (with [S. 13(3)](https://www.legislation.gov.uk/uksi/2001/2617/section/13/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/2617/schedule/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)
 
-[^key-0189376735ead9477af1742200d170dd]: Textual amendment: S. 115(2A) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [8](https://www.legislation.gov.uk/uksi/2003/404/article/8)
+[^c-0189376735ead9477af1742200d170dd]: Textual amendment: S. 115(2A) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [8](https://www.legislation.gov.uk/uksi/2003/404/article/8)
 
 [^c15517701]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

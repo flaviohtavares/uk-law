@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Penalty notices: general[^key-d20746632ed21095f853bbdf064e465b][^key-37415a58b0b0af5b8cf2b490a60fabf3]
+## 28. Penalty notices: general[^c-d20746632ed21095f853bbdf064e465b][^c-37415a58b0b0af5b8cf2b490a60fabf3]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ but this subsection is not to be taken as affecting the validity of a penalty no
 
 ## Annotations
 
-[^key-d20746632ed21095f853bbdf064e465b]: Commencement: S. 28 in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(i)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/i)
+[^c-d20746632ed21095f853bbdf064e465b]: Commencement: S. 28 in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(i)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/i)
 
-[^key-37415a58b0b0af5b8cf2b490a60fabf3]: Commencement: S. 28 in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(i)](https://www.legislation.gov.uk/uksi/2016/11/article/2/i)
+[^c-37415a58b0b0af5b8cf2b490a60fabf3]: Commencement: S. 28 in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(i)](https://www.legislation.gov.uk/uksi/2016/11/article/2/i)

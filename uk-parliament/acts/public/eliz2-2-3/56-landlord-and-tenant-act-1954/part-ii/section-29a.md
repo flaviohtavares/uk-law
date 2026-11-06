@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29A. Time limits for applications to court[^key-010fe00f7b41bf776aa89a06980ac01c]
+## 29A. Time limits for applications to court[^c-010fe00f7b41bf776aa89a06980ac01c]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ if it is made after the end of the statutory period.
 
 ## Annotations
 
-[^key-010fe00f7b41bf776aa89a06980ac01c]: Textual amendment: S. 29A inserted (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [10](https://www.legislation.gov.uk/uksi/2003/3096/article/10)
+[^c-010fe00f7b41bf776aa89a06980ac01c]: Textual amendment: S. 29A inserted (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [10](https://www.legislation.gov.uk/uksi/2003/3096/article/10)

@@ -41,11 +41,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred upon him by section 103(4)(b) of the Criminal Justice Act 2003[^f00001] hereby makes the following Order, a draft of which has been laid before and approved by a resolution of each House of Parliament:
 
-**1.**[^key-13c93d7ca6a88f33677204ffafea9a62] (1) This Order may be cited as the Criminal Justice Act 2003 (Categories of Offences) Order 2004 and shall come into force 14 days after the day on which it is made or on the day that sections 98 to 110 of the 2003 Act (Evidence of Bad Character) come into force, whichever is later.
+**1.**[^c-13c93d7ca6a88f33677204ffafea9a62] (1) This Order may be cited as the Criminal Justice Act 2003 (Categories of Offences) Order 2004 and shall come into force 14 days after the day on which it is made or on the day that sections 98 to 110 of the 2003 Act (Evidence of Bad Character) come into force, whichever is later.
 
 (2) In this Order “the 2003 Act” means the Criminal Justice Act 2003.
 
-**2.**[^key-a84df9f6a41e9fe7217c0104ffffc931] (1) The categories of offences set out in Parts 1 and 2 of the Schedule to this Order are hereby prescribed for the purposes of section 103(4)(b) of the 2003 Act.
+**2.**[^c-a84df9f6a41e9fe7217c0104ffffc931] (1) The categories of offences set out in Parts 1 and 2 of the Schedule to this Order are hereby prescribed for the purposes of section 103(4)(b) of the 2003 Act.
 
 (2) Two offences are of the same category as each other if they are included in the same Part of the Schedule.
 
@@ -63,104 +63,104 @@ Article 2
 
 ### PART 1 — THEFT CATEGORY
 
-**1.**[^key-adb12109ac4d3e188bb07dec39c5d71f] An offence under section 1 of the Theft Act 1968[^f00002] (theft).
+**1.**[^c-adb12109ac4d3e188bb07dec39c5d71f] An offence under section 1 of the Theft Act 1968[^f00002] (theft).
 
-**2.**[^key-645023c7add0e6bf464ee4e8f94ad8a0] An offence under section 8 of that Act (robbery).
+**2.**[^c-645023c7add0e6bf464ee4e8f94ad8a0] An offence under section 8 of that Act (robbery).
 
-**3.**[^key-2c71b16a56566a7114a4a98c95bf2cc3] An offence under section 9(1)(a) of that Act[^f00003] (burglary) if it was committed with intent to commit an offence of stealing anything in the building or part of a building in question.
+**3.**[^c-2c71b16a56566a7114a4a98c95bf2cc3] An offence under section 9(1)(a) of that Act[^f00003] (burglary) if it was committed with intent to commit an offence of stealing anything in the building or part of a building in question.
 
-**4.**[^key-e292e09b5f3c4c6f8090ab61d76def45] An offence under section 9(1)(b) of that Act (burglary) if the offender stole or attempted to steal anything in the building or that part of it.
+**4.**[^c-e292e09b5f3c4c6f8090ab61d76def45] An offence under section 9(1)(b) of that Act (burglary) if the offender stole or attempted to steal anything in the building or that part of it.
 
-**5.**[^key-8b3bd70d38cd63a5d60c19f134a96348] An offence under section 10 of that Act (aggravated burglary) if the offender committed a burglary described in paragraph 3 or 4 of this Part of the Schedule.
+**5.**[^c-8b3bd70d38cd63a5d60c19f134a96348] An offence under section 10 of that Act (aggravated burglary) if the offender committed a burglary described in paragraph 3 or 4 of this Part of the Schedule.
 
-**6.**[^key-124c7b7b82011cfcb0676fa6127b2818] An offence under section 12 of that Act[^f00004] (taking motor vehicle or other conveyance without authority).
+**6.**[^c-124c7b7b82011cfcb0676fa6127b2818] An offence under section 12 of that Act[^f00004] (taking motor vehicle or other conveyance without authority).
 
-**7.**[^key-7030116a012a1a464625ac4b41765b5f] An offence under section 12A of that Act[^f00005] (aggravated vehicle-taking).
+**7.**[^c-7030116a012a1a464625ac4b41765b5f] An offence under section 12A of that Act[^f00005] (aggravated vehicle-taking).
 
-**8.**[^key-754156b826eccc6ef482a77be0ffbc80] An offence under section 22 of that Act (handling stolen goods).
+**8.**[^c-754156b826eccc6ef482a77be0ffbc80] An offence under section 22 of that Act (handling stolen goods).
 
-**9.**[^key-3549ee0df2b6e3f854c3d4e14265a355] An offence under section 25 of that Act (going equipped for stealing).
+**9.**[^c-3549ee0df2b6e3f854c3d4e14265a355] An offence under section 25 of that Act (going equipped for stealing).
 
-**10.**[^key-498adefb458b0f403e9e5af530d9c730] An offence under section 3 of the Theft Act 1978[^f00006] (making off without payment).
+**10.**[^c-498adefb458b0f403e9e5af530d9c730] An offence under section 3 of the Theft Act 1978[^f00006] (making off without payment).
 
-**11.**[^key-0ba242724b3c128dc209030d9f88366a] An offence of–
+**11.**[^c-0ba242724b3c128dc209030d9f88366a] An offence of–
 
 - (a) aiding, abetting, counselling, procuring or inciting the commission of an offence specified in this Part of this Schedule; or
 - (b) attempting to commit an offence so specified.
 
 ### PART 2 — SEXUAL OFFENCES (PERSONS UNDER THE AGE OF 16) CATEGORY
 
-**1.**[^key-4c8fd09b9d74e5fe9839b519d352ffb4] An offence under section 1 of the Sexual Offences Act 1956[^f00007] (rape) if it was committed in relation to a person under the age of 16.
+**1.**[^c-4c8fd09b9d74e5fe9839b519d352ffb4] An offence under section 1 of the Sexual Offences Act 1956[^f00007] (rape) if it was committed in relation to a person under the age of 16.
 
-**2.**[^key-5e911fa06c827670a9c034946f15f279] An offence under section 5 of the Sexual Offences Act 1956[^f00008](intercourse with a girl under thirteen).
+**2.**[^c-5e911fa06c827670a9c034946f15f279] An offence under section 5 of the Sexual Offences Act 1956[^f00008](intercourse with a girl under thirteen).
 
-**3.**[^key-585ae3b533aa9547b7b3d02095c2cfd6] An offence under section 6 of that Act[^f00009] (intercourse with a girl under sixteen).
+**3.**[^c-585ae3b533aa9547b7b3d02095c2cfd6] An offence under section 6 of that Act[^f00009] (intercourse with a girl under sixteen).
 
-**4.**[^key-c87557a684c9d5123ef482f6e45e6c14] An offence under section 7 of that Act[^f00010] (intercourse with a defective) if it was committed in relation to a person under the age of 16.
+**4.**[^c-c87557a684c9d5123ef482f6e45e6c14] An offence under section 7 of that Act[^f00010] (intercourse with a defective) if it was committed in relation to a person under the age of 16.
 
-**5.**[^key-11f9d30f8adc60011afd75ce36445701] An offence under section 10 of that Act (incest by a man) if it was committed in relation to a person under the age of 16.
+**5.**[^c-11f9d30f8adc60011afd75ce36445701] An offence under section 10 of that Act (incest by a man) if it was committed in relation to a person under the age of 16.
 
-**6.**[^key-36ccd048451e59c4197261fea9b10011] An offence under section 11 of that Act (incest by a woman) if it was committed in relation to a person under the age of 16.
+**6.**[^c-36ccd048451e59c4197261fea9b10011] An offence under section 11 of that Act (incest by a woman) if it was committed in relation to a person under the age of 16.
 
-**7.**[^key-e57c9eecd4f1a971775104fe5a179680] An offence under section 12 of that Act[^f00011] (buggery) if it was committed in relation to a person under the age of 16.
+**7.**[^c-e57c9eecd4f1a971775104fe5a179680] An offence under section 12 of that Act[^f00011] (buggery) if it was committed in relation to a person under the age of 16.
 
-**8.**[^key-f3af97f02502990e0d7b8b6f923d7f81] An offence under section 13 of that Act[^f00012] (indecency between men) if it was committed in relation to a person under the age of 16.
+**8.**[^c-f3af97f02502990e0d7b8b6f923d7f81] An offence under section 13 of that Act[^f00012] (indecency between men) if it was committed in relation to a person under the age of 16.
 
-**9.**[^key-4dfe1dcd75d3f70adebf983636cde5eb] An offence under section 14 of that Act (indecent assault on a woman) if it was committed in relation to a person under the age of 16.
+**9.**[^c-4dfe1dcd75d3f70adebf983636cde5eb] An offence under section 14 of that Act (indecent assault on a woman) if it was committed in relation to a person under the age of 16.
 
-**10.**[^key-af5532a7800cf40c1e0437505cede7d8] An offence under section 15 of that Act (indecent assault on a man) if it was committed in relation to a person under the age of 16.
+**10.**[^c-af5532a7800cf40c1e0437505cede7d8] An offence under section 15 of that Act (indecent assault on a man) if it was committed in relation to a person under the age of 16.
 
-**11.**[^key-1fe714d9624ae52deae86034de17ff3d] An offence under section 128 of the Mental Health Act 1959[^f00013] (sexual intercourse with patients) if it was committed in relation to a person under the age of 16.
+**11.**[^c-1fe714d9624ae52deae86034de17ff3d] An offence under section 128 of the Mental Health Act 1959[^f00013] (sexual intercourse with patients) if it was committed in relation to a person under the age of 16.
 
-**12.**[^key-900a034b5d3d87692cf3bbccf4c888e6] An offence under section 1 of the Indecency with Children Act 1960[^f00014] (indecent conduct towards young child).
+**12.**[^c-900a034b5d3d87692cf3bbccf4c888e6] An offence under section 1 of the Indecency with Children Act 1960[^f00014] (indecent conduct towards young child).
 
-**13.**[^key-e4d8016d4bbf289d9163d2c229ffed2c] An offence under section 54 of the Criminal Law Act 1977[^f00015] (inciting a girl under 16 to have incestuous sexual intercourse).
+**13.**[^c-e4d8016d4bbf289d9163d2c229ffed2c] An offence under section 54 of the Criminal Law Act 1977[^f00015] (inciting a girl under 16 to have incestuous sexual intercourse).
 
-**14.**[^key-c87e9726c441799ff486109898b56381] An offence under section 3 of the Sexual Offences (Amendment) Act 2000[^f00016] (abuse of a position of trust) if it was committed in relation to a person under the age of 16.
+**14.**[^c-c87e9726c441799ff486109898b56381] An offence under section 3 of the Sexual Offences (Amendment) Act 2000[^f00016] (abuse of a position of trust) if it was committed in relation to a person under the age of 16.
 
-**15.**[^key-bbec43ab5dc5cfb5d25dddfc8437de93] An offence under section 1 of the Sexual Offences Act 2003[^f00017] (rape) if it was committed in relation to a person under the age of 16.
+**15.**[^c-bbec43ab5dc5cfb5d25dddfc8437de93] An offence under section 1 of the Sexual Offences Act 2003[^f00017] (rape) if it was committed in relation to a person under the age of 16.
 
-**16.**[^key-6a06736bdf9d3f4fece606a57220ec9e] An offence under section 2 of that Act (assault by penetration) if it was committed in relation to a person under the age of 16.
+**16.**[^c-6a06736bdf9d3f4fece606a57220ec9e] An offence under section 2 of that Act (assault by penetration) if it was committed in relation to a person under the age of 16.
 
-**17.**[^key-b12ff50a9914755b3353ac8bff3ddcd4] An offence under section 3 of that Act (sexual assault) if it was committed in relation to a person under the age of 16.
+**17.**[^c-b12ff50a9914755b3353ac8bff3ddcd4] An offence under section 3 of that Act (sexual assault) if it was committed in relation to a person under the age of 16.
 
-**18.**[^key-c3073bad35db4efb896a56d5c8c239b2] An offence under section 4 of that Act (causing a person to engage in sexual activity without consent) if it was committed in relation to a person under the age of 16.
+**18.**[^c-c3073bad35db4efb896a56d5c8c239b2] An offence under section 4 of that Act (causing a person to engage in sexual activity without consent) if it was committed in relation to a person under the age of 16.
 
-**19.**[^key-ac10fa7abf0ae8ce92e2cc41746cfa42] An offence under section 5 of the Sexual Offences Act 2003 (rape of a child under 13).
+**19.**[^c-ac10fa7abf0ae8ce92e2cc41746cfa42] An offence under section 5 of the Sexual Offences Act 2003 (rape of a child under 13).
 
-**20.**[^key-e310232baa0d4efb4fe53c90dd67c664] An offence under section 6 of that Act (assault of a child under 13 by penetration).
+**20.**[^c-e310232baa0d4efb4fe53c90dd67c664] An offence under section 6 of that Act (assault of a child under 13 by penetration).
 
-**21.**[^key-869a11c7f20d13b90879f7e817c3270e] An offence under section 7 of that Act (sexual assault of a child under 13).
+**21.**[^c-869a11c7f20d13b90879f7e817c3270e] An offence under section 7 of that Act (sexual assault of a child under 13).
 
-**22.**[^key-6f51f0883a4432f6a1e36ecaf2806cfa] An offence under section 8 of that Act (causing or inciting a child under 13 to engage in sexual activity).
+**22.**[^c-6f51f0883a4432f6a1e36ecaf2806cfa] An offence under section 8 of that Act (causing or inciting a child under 13 to engage in sexual activity).
 
-**23.**[^key-e457af456c1eb2c1bb09ef86e2352485] An offence under section 9 of that Act (sexual activity with a child).
+**23.**[^c-e457af456c1eb2c1bb09ef86e2352485] An offence under section 9 of that Act (sexual activity with a child).
 
-**24.**[^key-dbc5ceb0ef6756c12beea499bac6e5ab] An offence under section 10 of that Act (causing or inciting a child to engage in sexual activity).
+**24.**[^c-dbc5ceb0ef6756c12beea499bac6e5ab] An offence under section 10 of that Act (causing or inciting a child to engage in sexual activity).
 
-**25.**[^key-760b7a817ed950f8fdaf68373de13b1b] An offence under section 14 of that Act if doing it will involve the commission of an offence under any of sections 5 to 10[^key-686ab7bd6a92e96abc5ad540ef555aee] of that Act (arranging or facilitating the commission of a child sex offence).
+**25.**[^c-760b7a817ed950f8fdaf68373de13b1b] An offence under section 14 of that Act if doing it will involve the commission of an offence under any of sections 5 to 10[^c-686ab7bd6a92e96abc5ad540ef555aee] of that Act (arranging or facilitating the commission of a child sex offence).
 
-**26.**[^key-3365a34224afe7e1050c118c40bbae02] An offence under section 16 of that Act (abuse of position of trust: sexual activity with a child) if it was committed in relation to a person under the age of 16.
+**26.**[^c-3365a34224afe7e1050c118c40bbae02] An offence under section 16 of that Act (abuse of position of trust: sexual activity with a child) if it was committed in relation to a person under the age of 16.
 
-**27.**[^key-4a4363b9dc5bb4d06729ea1b4ea8e0fb] An offence under section 17 of that Act (abuse of position of trust: causing or inciting a child to engage in sexual activity) if it was committed in relation to a person under the age of 16.
+**27.**[^c-4a4363b9dc5bb4d06729ea1b4ea8e0fb] An offence under section 17 of that Act (abuse of position of trust: causing or inciting a child to engage in sexual activity) if it was committed in relation to a person under the age of 16.
 
-**28.**[^key-bfa8dadb542d8abefa5488ba6ee46c8a] An offence under section 25 of that Act (sexual activity with a child family member) if it was committed in relation to a person under the age of 16.
+**28.**[^c-bfa8dadb542d8abefa5488ba6ee46c8a] An offence under section 25 of that Act (sexual activity with a child family member) if it was committed in relation to a person under the age of 16.
 
-**29.**[^key-e204742c84f71ff6ee878602baaeee51] An offence under section 26 of that Act (inciting a child family member to engage in sexual activity) if it was committed in relation to a person under the age of 16.
+**29.**[^c-e204742c84f71ff6ee878602baaeee51] An offence under section 26 of that Act (inciting a child family member to engage in sexual activity) if it was committed in relation to a person under the age of 16.
 
-**30.**[^key-60533bd607932c198dcbcb4a52ed312f] An offence under section 30 of that Act (sexual activity with a person with a mental disorder impeding choice) if it was committed in relation to a person under the age of 16.
+**30.**[^c-60533bd607932c198dcbcb4a52ed312f] An offence under section 30 of that Act (sexual activity with a person with a mental disorder impeding choice) if it was committed in relation to a person under the age of 16.
 
-**31.**[^key-c711f097c5245b75b504fc958dfd8071] An offence under section 31 of that Act (causing or inciting a person with a mental disorder impeding choice to engage in sexual activity) if it was committed in relation to a person under the age of 16.
+**31.**[^c-c711f097c5245b75b504fc958dfd8071] An offence under section 31 of that Act (causing or inciting a person with a mental disorder impeding choice to engage in sexual activity) if it was committed in relation to a person under the age of 16.
 
-**32.**[^key-d875dcad9218c38a9c919a3972c09da4] An offence under section 34 of that Act (inducement, threat, or deception to procure activity with a person with a mental disorder) if it was committed in relation to a person under the age of 16.
+**32.**[^c-d875dcad9218c38a9c919a3972c09da4] An offence under section 34 of that Act (inducement, threat, or deception to procure activity with a person with a mental disorder) if it was committed in relation to a person under the age of 16.
 
-**33.**[^key-312bb6c4b9b7dd117d632884c98f5a07] An offence under section 35 of that Act (causing a person with a mental disorder to engage in or agree to engage in sexual activity by inducement, threat or deception) if it was committed in relation to a person under the age of 16.
+**33.**[^c-312bb6c4b9b7dd117d632884c98f5a07] An offence under section 35 of that Act (causing a person with a mental disorder to engage in or agree to engage in sexual activity by inducement, threat or deception) if it was committed in relation to a person under the age of 16.
 
-**34.**[^key-e7601dfca57803c8bcc77090dca64cc2] An offence under section 38 of that Act (care workers: sexual activity with a person with a mental disorder) if it was committed in relation to a person under the age of 16.
+**34.**[^c-e7601dfca57803c8bcc77090dca64cc2] An offence under section 38 of that Act (care workers: sexual activity with a person with a mental disorder) if it was committed in relation to a person under the age of 16.
 
-**35.**[^key-0d84a6e1ab3b9ea63a86af8a16e5fef6] An offence under section 39 of that Act (care workers: causing or inciting sexual activity) if it was committed in relation to a person under the age of 16.
+**35.**[^c-0d84a6e1ab3b9ea63a86af8a16e5fef6] An offence under section 39 of that Act (care workers: causing or inciting sexual activity) if it was committed in relation to a person under the age of 16.
 
-**36.**[^key-cc5b1a476dabda2e6d611ed1e8d40679] An offence of–
+**36.**[^c-cc5b1a476dabda2e6d611ed1e8d40679] An offence of–
 
 - (a) aiding, abetting, counselling, procuring or inciting the commission of an offence specified in this Part of this Schedule; or
 - (b) attempting to commit an offence so specified.
@@ -175,134 +175,134 @@ The categories prescribed by this Order are theft and sexual offences (persons u
 
 [^f00001]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44).
 
-[^key-13c93d7ca6a88f33677204ffafea9a62]: Commencement: Art. 1 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-13c93d7ca6a88f33677204ffafea9a62]: Commencement: Art. 1 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
-[^key-a84df9f6a41e9fe7217c0104ffffc931]: Commencement: Art. 2 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-a84df9f6a41e9fe7217c0104ffffc931]: Commencement: Art. 2 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
-[^key-adb12109ac4d3e188bb07dec39c5d71f]: Commencement: Sch. Pt. 1 para. 1 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-adb12109ac4d3e188bb07dec39c5d71f]: Commencement: Sch. Pt. 1 para. 1 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
 [^f00002]: Footnote: [1968 c. 60](https://www.legislation.gov.uk/ukpga/1968/60).
 
-[^key-645023c7add0e6bf464ee4e8f94ad8a0]: Commencement: Sch. Pt. 1 para. 2 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-645023c7add0e6bf464ee4e8f94ad8a0]: Commencement: Sch. Pt. 1 para. 2 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
-[^key-2c71b16a56566a7114a4a98c95bf2cc3]: Commencement: Sch. Pt. 1 para. 3 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-2c71b16a56566a7114a4a98c95bf2cc3]: Commencement: Sch. Pt. 1 para. 3 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
 [^f00003]: Footnote: Section 9 was amended by sections 139 and 140 of and paragraph 17 of Schedule 6 and Schedule 7 to the Sexual Offences Act [2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42); section 26(2) of the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53) and section 168(2) and paragraph 26 of Schedule 10 to the Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33).
 
-[^key-e292e09b5f3c4c6f8090ab61d76def45]: Commencement: Sch. Pt. 1 para. 4 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-e292e09b5f3c4c6f8090ab61d76def45]: Commencement: Sch. Pt. 1 para. 4 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
-[^key-8b3bd70d38cd63a5d60c19f134a96348]: Commencement: Sch. Pt. 1 para. 5 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-8b3bd70d38cd63a5d60c19f134a96348]: Commencement: Sch. Pt. 1 para. 5 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
-[^key-124c7b7b82011cfcb0676fa6127b2818]: Commencement: Sch. Pt. 1 para. 6 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-124c7b7b82011cfcb0676fa6127b2818]: Commencement: Sch. Pt. 1 para. 6 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
 [^f00004]: Footnote: Section 12 was amended by section 37(1) of the Criminal Justice Act [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33); section 119(2) and Part I of Schedule 7 to the Police and Criminal Evidence Act [1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60); section 37 of the Vehicles (Crime) Act [2001 (c. 3)](https://www.legislation.gov.uk/ukpga/2001/3).
 
-[^key-7030116a012a1a464625ac4b41765b5f]: Commencement: Sch. Pt. 1 para. 7 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-7030116a012a1a464625ac4b41765b5f]: Commencement: Sch. Pt. 1 para. 7 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
 [^f00005]: Footnote: Section 12A was inserted by section 2(1) of the Aggravated Vehicle-Taking Act [1992 (c. 11)](https://www.legislation.gov.uk/ukpga/1992/11) and was amended by section 285(1) of the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).
 
-[^key-754156b826eccc6ef482a77be0ffbc80]: Commencement: Sch. Pt. 1 para. 8 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-754156b826eccc6ef482a77be0ffbc80]: Commencement: Sch. Pt. 1 para. 8 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
-[^key-3549ee0df2b6e3f854c3d4e14265a355]: Commencement: Sch. Pt. 1 para. 9 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-3549ee0df2b6e3f854c3d4e14265a355]: Commencement: Sch. Pt. 1 para. 9 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
-[^key-498adefb458b0f403e9e5af530d9c730]: Commencement: Sch. Pt. 1 para. 10 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-498adefb458b0f403e9e5af530d9c730]: Commencement: Sch. Pt. 1 para. 10 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
 [^f00006]: Footnote: [1978 c. 31](https://www.legislation.gov.uk/ukpga/1978/31).
 
-[^key-0ba242724b3c128dc209030d9f88366a]: Commencement: Sch. Pt. 1 para. 11 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-0ba242724b3c128dc209030d9f88366a]: Commencement: Sch. Pt. 1 para. 11 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
-[^key-4c8fd09b9d74e5fe9839b519d352ffb4]: Commencement: Sch. Pt. 2 para. 1 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-4c8fd09b9d74e5fe9839b519d352ffb4]: Commencement: Sch. Pt. 2 para. 1 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
 [^f00007]: Footnote: [1956 c. 69](https://www.legislation.gov.uk/ukpga/1956/69); section 1 was substituted by section 142 of the Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33).
 
-[^key-5e911fa06c827670a9c034946f15f279]: Commencement: Sch. Pt. 2 para. 2 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-5e911fa06c827670a9c034946f15f279]: Commencement: Sch. Pt. 2 para. 2 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
 [^f00008]: Footnote: Sections 5 to 7 and 10 to 15 of the Sexual Offences Act [1956 (c. 69)](https://www.legislation.gov.uk/ukpga/1956/69); section 54 of the Criminal Law Act [1977 (c. 45)](https://www.legislation.gov.uk/ukpga/1977/45); section 1 of the Indecency with Children Act [1960 (c. 33)](https://www.legislation.gov.uk/ukpga/1960/33); section 128 of the Mental Health Act [1959 (c. 72)](https://www.legislation.gov.uk/ukpga/1959/72) and section 3 of the Sexual Offences (Amendment) Act [2000 (c. 44)](https://www.legislation.gov.uk/ukpga/2000/44) were repealed by sections 139 and 140 of and paragraph 11(a) of Schedule 6 and Schedule 7 to the Sexual Offences Act [2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42).
 
-[^key-585ae3b533aa9547b7b3d02095c2cfd6]: Commencement: Sch. Pt. 2 para. 3 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-585ae3b533aa9547b7b3d02095c2cfd6]: Commencement: Sch. Pt. 2 para. 3 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
 [^f00009]: Footnote: Section 6 was amended by section 10(1) and paragraph 14 of Schedule 2 to the Criminal Law Act [1967 (c. 80)](https://www.legislation.gov.uk/ukpga/1967/80).
 
-[^key-c87557a684c9d5123ef482f6e45e6c14]: Commencement: Sch. Pt. 2 para. 4 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-c87557a684c9d5123ef482f6e45e6c14]: Commencement: Sch. Pt. 2 para. 4 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
 [^f00010]: Footnote: Section 7 was substituted by section 127(1)(a) of the Mental Health Act [1959 (c. 72)](https://www.legislation.gov.uk/ukpga/1959/72).
 
-[^key-11f9d30f8adc60011afd75ce36445701]: Commencement: Sch. Pt. 2 para. 5 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-11f9d30f8adc60011afd75ce36445701]: Commencement: Sch. Pt. 2 para. 5 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
-[^key-36ccd048451e59c4197261fea9b10011]: Commencement: Sch. Pt. 2 para. 6 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-36ccd048451e59c4197261fea9b10011]: Commencement: Sch. Pt. 2 para. 6 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
-[^key-e57c9eecd4f1a971775104fe5a179680]: Commencement: Sch. Pt. 2 para. 7 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-e57c9eecd4f1a971775104fe5a179680]: Commencement: Sch. Pt. 2 para. 7 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
 [^f00011]: Footnote: Section 12 was amended by section 143 of the Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33); sections 1 and 2 of the Sexual Offences (Amendment) Act [2000 (c. 44)](https://www.legislation.gov.uk/ukpga/2000/44) and section 119 of and Part V of Schedule 6 to the Police and Criminal Evidence Act [1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60).
 
-[^key-f3af97f02502990e0d7b8b6f923d7f81]: Commencement: Sch. Pt. 2 para. 8 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-f3af97f02502990e0d7b8b6f923d7f81]: Commencement: Sch. Pt. 2 para. 8 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
 [^f00012]: Footnote: Section 13 was amended by section 2(2) of the Sexual Offences (Amendment) Act [2000 (c. 44)](https://www.legislation.gov.uk/ukpga/2000/44).
 
-[^key-4dfe1dcd75d3f70adebf983636cde5eb]: Commencement: Sch. Pt. 2 para. 9 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-4dfe1dcd75d3f70adebf983636cde5eb]: Commencement: Sch. Pt. 2 para. 9 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
-[^key-af5532a7800cf40c1e0437505cede7d8]: Commencement: Sch. Pt. 2 para. 10 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-af5532a7800cf40c1e0437505cede7d8]: Commencement: Sch. Pt. 2 para. 10 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
-[^key-1fe714d9624ae52deae86034de17ff3d]: Commencement: Sch. Pt. 2 para. 11 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-1fe714d9624ae52deae86034de17ff3d]: Commencement: Sch. Pt. 2 para. 11 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
 [^f00013]: Footnote: [1959 c. 72](https://www.legislation.gov.uk/ukpga/1959/72); section 128 was amended by section 129 of and paragraph 29 of Schedule 15 and Schedule 16 to the National Health Service Act [1977 (c. 49)](https://www.legislation.gov.uk/ukpga/1977/49); section 148 of and paragraph 15 of Schedule 3 to the Mental Health Act [1983 (c. 20)](https://www.legislation.gov.uk/ukpga/1983/20); and section 57 of and paragraph 2 of Schedule 1 to the Registered Homes Act [1984 (c. 23)](https://www.legislation.gov.uk/ukpga/1984/23) and section 116 of and paragraph 2 of Schedule 4 to the Care Standards Act [2000 (c. 14)](https://www.legislation.gov.uk/ukpga/2000/14).
 
-[^key-900a034b5d3d87692cf3bbccf4c888e6]: Commencement: Sch. Pt. 2 para. 12 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-900a034b5d3d87692cf3bbccf4c888e6]: Commencement: Sch. Pt. 2 para. 12 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
 [^f00014]: Footnote: [1960 c. 33](https://www.legislation.gov.uk/ukpga/1960/33); section 1 was amended by section 39 of the Criminal Justice and Court Services Act [2000 (c. 43)](https://www.legislation.gov.uk/ukpga/2000/43) and section 52 of the Crime (Sentences) Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44).
 
-[^key-e4d8016d4bbf289d9163d2c229ffed2c]: Commencement: Sch. Pt. 2 para. 13 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-e4d8016d4bbf289d9163d2c229ffed2c]: Commencement: Sch. Pt. 2 para. 13 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
 [^f00015]: Footnote: [1977 (c. 45)](https://www.legislation.gov.uk/ukpga/1977/45); section 54 was amended by section 119(2) and Schedule 7 to the Police and Criminal Evidence Act [1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60).
 
-[^key-c87e9726c441799ff486109898b56381]: Commencement: Sch. Pt. 2 para. 14 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-c87e9726c441799ff486109898b56381]: Commencement: Sch. Pt. 2 para. 14 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
 [^f00016]: Footnote: [2000 c. 44](https://www.legislation.gov.uk/ukpga/2000/44).
 
-[^key-bbec43ab5dc5cfb5d25dddfc8437de93]: Commencement: Sch. Pt. 2 para. 15 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-bbec43ab5dc5cfb5d25dddfc8437de93]: Commencement: Sch. Pt. 2 para. 15 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
 [^f00017]: Footnote: [2003 c. 42](https://www.legislation.gov.uk/ukpga/2003/42).
 
-[^key-6a06736bdf9d3f4fece606a57220ec9e]: Commencement: Sch. Pt. 2 para. 16 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-6a06736bdf9d3f4fece606a57220ec9e]: Commencement: Sch. Pt. 2 para. 16 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
-[^key-b12ff50a9914755b3353ac8bff3ddcd4]: Commencement: Sch. Pt. 2 para. 17 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-b12ff50a9914755b3353ac8bff3ddcd4]: Commencement: Sch. Pt. 2 para. 17 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
-[^key-c3073bad35db4efb896a56d5c8c239b2]: Commencement: Sch. Pt. 2 para. 18 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-c3073bad35db4efb896a56d5c8c239b2]: Commencement: Sch. Pt. 2 para. 18 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
-[^key-ac10fa7abf0ae8ce92e2cc41746cfa42]: Commencement: Sch. Pt. 2 para. 19 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-ac10fa7abf0ae8ce92e2cc41746cfa42]: Commencement: Sch. Pt. 2 para. 19 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
-[^key-e310232baa0d4efb4fe53c90dd67c664]: Commencement: Sch. Pt. 2 para. 20 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-e310232baa0d4efb4fe53c90dd67c664]: Commencement: Sch. Pt. 2 para. 20 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
-[^key-869a11c7f20d13b90879f7e817c3270e]: Commencement: Sch. Pt. 2 para. 21 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-869a11c7f20d13b90879f7e817c3270e]: Commencement: Sch. Pt. 2 para. 21 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
-[^key-6f51f0883a4432f6a1e36ecaf2806cfa]: Commencement: Sch. Pt. 2 para. 22 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-6f51f0883a4432f6a1e36ecaf2806cfa]: Commencement: Sch. Pt. 2 para. 22 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
-[^key-e457af456c1eb2c1bb09ef86e2352485]: Commencement: Sch. Pt. 2 para. 23 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-e457af456c1eb2c1bb09ef86e2352485]: Commencement: Sch. Pt. 2 para. 23 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
-[^key-dbc5ceb0ef6756c12beea499bac6e5ab]: Commencement: Sch. Pt. 2 para. 24 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-dbc5ceb0ef6756c12beea499bac6e5ab]: Commencement: Sch. Pt. 2 para. 24 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
-[^key-760b7a817ed950f8fdaf68373de13b1b]: Commencement: Sch. Pt. 2 para. 25 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-760b7a817ed950f8fdaf68373de13b1b]: Commencement: Sch. Pt. 2 para. 25 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
-[^key-686ab7bd6a92e96abc5ad540ef555aee]: Textual amendment: Words in [Sch. Pt. 2 para. 25](https://www.legislation.gov.uk/uksi/2004/3346/schedule/part/2/paragraph/25) substituted (28.3.2023) by [The Police, Crime, Sentencing and Courts Act 2022 (Consequential Provision) (England and Wales) Regulations 2023 (S.I. 2023/250)](https://www.legislation.gov.uk/uksi/2023/250), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/250/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2023/250/regulation/3)
+[^c-686ab7bd6a92e96abc5ad540ef555aee]: Textual amendment: Words in [Sch. Pt. 2 para. 25](https://www.legislation.gov.uk/uksi/2004/3346/schedule/part/2/paragraph/25) substituted (28.3.2023) by [The Police, Crime, Sentencing and Courts Act 2022 (Consequential Provision) (England and Wales) Regulations 2023 (S.I. 2023/250)](https://www.legislation.gov.uk/uksi/2023/250), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/250/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2023/250/regulation/3)
 
-[^key-3365a34224afe7e1050c118c40bbae02]: Commencement: Sch. Pt. 2 para. 26 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-3365a34224afe7e1050c118c40bbae02]: Commencement: Sch. Pt. 2 para. 26 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
-[^key-4a4363b9dc5bb4d06729ea1b4ea8e0fb]: Commencement: Sch. Pt. 2 para. 27 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-4a4363b9dc5bb4d06729ea1b4ea8e0fb]: Commencement: Sch. Pt. 2 para. 27 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
-[^key-bfa8dadb542d8abefa5488ba6ee46c8a]: Commencement: Sch. Pt. 2 para. 28 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-bfa8dadb542d8abefa5488ba6ee46c8a]: Commencement: Sch. Pt. 2 para. 28 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
-[^key-e204742c84f71ff6ee878602baaeee51]: Commencement: Sch. Pt. 2 para. 29 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-e204742c84f71ff6ee878602baaeee51]: Commencement: Sch. Pt. 2 para. 29 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
-[^key-60533bd607932c198dcbcb4a52ed312f]: Commencement: Sch. Pt. 2 para. 30 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-60533bd607932c198dcbcb4a52ed312f]: Commencement: Sch. Pt. 2 para. 30 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
-[^key-c711f097c5245b75b504fc958dfd8071]: Commencement: Sch. Pt. 2 para. 31 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-c711f097c5245b75b504fc958dfd8071]: Commencement: Sch. Pt. 2 para. 31 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
-[^key-d875dcad9218c38a9c919a3972c09da4]: Commencement: Sch. Pt. 2 para. 32 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-d875dcad9218c38a9c919a3972c09da4]: Commencement: Sch. Pt. 2 para. 32 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
-[^key-312bb6c4b9b7dd117d632884c98f5a07]: Commencement: Sch. Pt. 2 para. 33 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-312bb6c4b9b7dd117d632884c98f5a07]: Commencement: Sch. Pt. 2 para. 33 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
-[^key-e7601dfca57803c8bcc77090dca64cc2]: Commencement: Sch. Pt. 2 para. 34 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-e7601dfca57803c8bcc77090dca64cc2]: Commencement: Sch. Pt. 2 para. 34 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
-[^key-0d84a6e1ab3b9ea63a86af8a16e5fef6]: Commencement: Sch. Pt. 2 para. 35 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-0d84a6e1ab3b9ea63a86af8a16e5fef6]: Commencement: Sch. Pt. 2 para. 35 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
 
-[^key-cc5b1a476dabda2e6d611ed1e8d40679]: Commencement: Sch. Pt. 2 para. 36 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)
+[^c-cc5b1a476dabda2e6d611ed1e8d40679]: Commencement: Sch. Pt. 2 para. 36 in force at 29.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3346/article/1/1)

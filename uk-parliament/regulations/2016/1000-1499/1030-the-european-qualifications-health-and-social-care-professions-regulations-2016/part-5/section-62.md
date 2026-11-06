@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Amendment of article 13[^key-f7b5444e3de34796b6d86c8c107cb4f1]
+## 62. Amendment of article 13[^c-f7b5444e3de34796b6d86c8c107cb4f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f7b5444e3de34796b6d86c8c107cb4f1]: Commencement: Reg. 62 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-f7b5444e3de34796b6d86c8c107cb4f1]: Commencement: Reg. 62 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00046]: Footnote: There are amendments to article 13, but none are relevant to these Regulations.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Applications for registration where quality contracts scheme in force[^c2199632][^key-982dcdaf88918e5679e0a738511023b0]
+## 49. Applications for registration where quality contracts scheme in force[^c2199632][^c-982dcdaf88918e5679e0a738511023b0]
 
 *Extent: E+W*
 
@@ -98,4 +98,4 @@ summary: ''
 
 [^c2199632]: Commencement: S. 49 partly in force; s. 49 in force at Royal Assent for specified purposes, see s. 134(1)(c)
 
-[^key-982dcdaf88918e5679e0a738511023b0]: Commencement: S. 49 in force at 11.1.2010 in so far as not already in force by [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/2)
+[^c-982dcdaf88918e5679e0a738511023b0]: Commencement: S. 49 in force at 11.1.2010 in so far as not already in force by [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/2)

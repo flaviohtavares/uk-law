@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Appeals[^key-d6e68a0ad40744e2f8e243041e41c265]
+## 24. Appeals[^c-d6e68a0ad40744e2f8e243041e41c265]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ may appeal to the Department of Enterprise, Trade and Investment.
 
 ## Annotations
 
-[^key-d6e68a0ad40744e2f8e243041e41c265]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2007/247/regulation/24) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)
+[^c-d6e68a0ad40744e2f8e243041e41c265]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2007/247/regulation/24) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)

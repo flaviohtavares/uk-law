@@ -258,11 +258,11 @@ The 1996 Act is amended as follows.
 
 .
 
-**16.** In section 108 [^c20081171] (exclusion of right: qualifying period of employment) in subsection (3) cases where no qualifying period of employment is required) omit “or” at the end of paragraph (p)[^key-0cbcbcfc27f2b99042d7c940b6947f60] and after paragraph (q)[^key-cd22be437a0e2ab6f9f0c5034af3d9a6] insert—
+**16.** In section 108 [^c20081171] (exclusion of right: qualifying period of employment) in subsection (3) cases where no qualifying period of employment is required) omit “or” at the end of paragraph (p)[^c-0cbcbcfc27f2b99042d7c940b6947f60] and after paragraph (q)[^c-cd22be437a0e2ab6f9f0c5034af3d9a6] insert—
 
 > or
 >
-> - (r)[^key-66443aab623d903cb434ee2f007e4cee] paragraph (1) of regulation 17 of the Agency Workers Regulations 2010 applies.
+> - (r)[^c-66443aab623d903cb434ee2f007e4cee] paragraph (1) of regulation 17 of the Agency Workers Regulations 2010 applies.
 
 ### PART 2 — OTHER LEGISLATION
 
@@ -490,25 +490,25 @@ The European Cooperative Society (Involvement of Employees) Regulations 2006 [^c
 
 .
 
-#### 39. The Companies (Cross-Border Mergers) Regulations 2007[^key-6d323156c92b6cb565cdd469fa025d03]
+#### 39. The Companies (Cross-Border Mergers) Regulations 2007[^c-6d323156c92b6cb565cdd469fa025d03]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**40.**[^key-6d323156c92b6cb565cdd469fa025d03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**40.**[^c-6d323156c92b6cb565cdd469fa025d03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**41.**[^key-6d323156c92b6cb565cdd469fa025d03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41.**[^c-6d323156c92b6cb565cdd469fa025d03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**42.**[^key-6d323156c92b6cb565cdd469fa025d03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**42.**[^c-6d323156c92b6cb565cdd469fa025d03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**43.**[^key-6d323156c92b6cb565cdd469fa025d03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**43.**[^c-6d323156c92b6cb565cdd469fa025d03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**44.**[^key-6d323156c92b6cb565cdd469fa025d03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-6d323156c92b6cb565cdd469fa025d03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**45.**[^key-6d323156c92b6cb565cdd469fa025d03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**45.**[^c-6d323156c92b6cb565cdd469fa025d03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**46.**[^key-6d323156c92b6cb565cdd469fa025d03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**46.**[^c-6d323156c92b6cb565cdd469fa025d03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 47. The European Public Limited-Liability Company (Employee Involvement) (Great Britain) Regulations 2009
 
@@ -581,11 +581,11 @@ The European Public Limited-Liability Company (Employee Involvement) (Great Brit
 
 [^c20081171]: Marginal citation: Section 108(3) has been amended on a number of occasions to specify additional cases where the qualifying period does not apply.
 
-[^key-0cbcbcfc27f2b99042d7c940b6947f60]: Textual amendment: Words in Sch. 2 para. 16 substituted (1.9.2011) by [The Agency Workers (Amendment) Regulations 2011 (S.I. 2011/941)](https://www.legislation.gov.uk/uksi/2011/941), [regs. 1](https://www.legislation.gov.uk/uksi/2011/941/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2011/941/regulation/2/5/a)
+[^c-0cbcbcfc27f2b99042d7c940b6947f60]: Textual amendment: Words in Sch. 2 para. 16 substituted (1.9.2011) by [The Agency Workers (Amendment) Regulations 2011 (S.I. 2011/941)](https://www.legislation.gov.uk/uksi/2011/941), [regs. 1](https://www.legislation.gov.uk/uksi/2011/941/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2011/941/regulation/2/5/a)
 
-[^key-cd22be437a0e2ab6f9f0c5034af3d9a6]: Textual amendment: Words in Sch. 2 para. 16 substituted (1.9.2011) by [The Agency Workers (Amendment) Regulations 2011 (S.I. 2011/941)](https://www.legislation.gov.uk/uksi/2011/941), [regs. 1](https://www.legislation.gov.uk/uksi/2011/941/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2011/941/regulation/2/5/b)
+[^c-cd22be437a0e2ab6f9f0c5034af3d9a6]: Textual amendment: Words in Sch. 2 para. 16 substituted (1.9.2011) by [The Agency Workers (Amendment) Regulations 2011 (S.I. 2011/941)](https://www.legislation.gov.uk/uksi/2011/941), [regs. 1](https://www.legislation.gov.uk/uksi/2011/941/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2011/941/regulation/2/5/b)
 
-[^key-66443aab623d903cb434ee2f007e4cee]: Textual amendment: Word in Sch. 2 para. 16 substituted (1.9.2011) by [The Agency Workers (Amendment) Regulations 2011 (S.I. 2011/941)](https://www.legislation.gov.uk/uksi/2011/941), [regs. 1](https://www.legislation.gov.uk/uksi/2011/941/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2011/941/regulation/2/5/c)
+[^c-66443aab623d903cb434ee2f007e4cee]: Textual amendment: Word in Sch. 2 para. 16 substituted (1.9.2011) by [The Agency Workers (Amendment) Regulations 2011 (S.I. 2011/941)](https://www.legislation.gov.uk/uksi/2011/941), [regs. 1](https://www.legislation.gov.uk/uksi/2011/941/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2011/941/regulation/2/5/c)
 
 [^c20081181]: Marginal citation: [S.I. 1999/3242](https://www.legislation.gov.uk/uksi/1999/3242).
 
@@ -595,6 +595,6 @@ The European Public Limited-Liability Company (Employee Involvement) (Great Brit
 
 [^c20081211]: Marginal citation: [S.I. 2006/2059](https://www.legislation.gov.uk/uksi/2006/2059).
 
-[^key-6d323156c92b6cb565cdd469fa025d03]: Textual amendment: Sch. 2 paras. 39-46 omitted (31.12.2020) by virtue of [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 3 para. 30](https://www.legislation.gov.uk/uksi/2019/348/schedule/3/paragraph/30); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6d323156c92b6cb565cdd469fa025d03]: Textual amendment: Sch. 2 paras. 39-46 omitted (31.12.2020) by virtue of [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 3 para. 30](https://www.legislation.gov.uk/uksi/2019/348/schedule/3/paragraph/30); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c20081231]: Marginal citation: [S.I. 2009/2401](https://www.legislation.gov.uk/uksi/2009/2401).

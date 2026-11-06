@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1.29. Completion or termination of the arrangement[^key-be0e2a8ee1fd23396bc8a83ef49d4199]
+## 1.29. Completion or termination of the arrangement[^c-be0e2a8ee1fd23396bc8a83ef49d4199]
 
 *Extent: E+W*
 
@@ -26,10 +26,10 @@ summary: ''
 
 (3) The supervisor shall, within the 28 days mentioned above, send to the registrar of companies and to the court a copy of the notice to creditors and members under paragraph (1), together with a copy of the report under paragraph (2), and the supervisor shall not vacate office until after such copies have been sent.
 
-(4)[^key-cd32c5c70c72146850b233d2abec0cd6] In the report under paragraph (2), the supervisor shall include a statement as to the amount paid, if any, to unsecured creditors by virtue of the application of section 176A (prescribed part).
+(4)[^c-cd32c5c70c72146850b233d2abec0cd6] In the report under paragraph (2), the supervisor shall include a statement as to the amount paid, if any, to unsecured creditors by virtue of the application of section 176A (prescribed part).
 
 ## Annotations
 
-[^key-be0e2a8ee1fd23396bc8a83ef49d4199]: Textual amendment: Rule 1.29 substituted (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/article/1/1), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2002/2712/schedule/part/1/paragraph/19) (with [rule 3(2)](https://www.legislation.gov.uk/uksi/2002/2712/article/3/2))
+[^c-be0e2a8ee1fd23396bc8a83ef49d4199]: Textual amendment: Rule 1.29 substituted (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/article/1/1), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2002/2712/schedule/part/1/paragraph/19) (with [rule 3(2)](https://www.legislation.gov.uk/uksi/2002/2712/article/3/2))
 
-[^key-cd32c5c70c72146850b233d2abec0cd6]: Textual amendment: Rule 1.29(4) inserted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/part/1/paragraph/7)
+[^c-cd32c5c70c72146850b233d2abec0cd6]: Textual amendment: Rule 1.29(4) inserted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/part/1/paragraph/7)

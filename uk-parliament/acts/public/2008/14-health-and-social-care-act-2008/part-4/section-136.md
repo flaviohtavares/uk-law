@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Penalty: Northern Ireland[^c1942085][^key-2d2c6fb26274d1245c52a6789f941d64]
+## 136. Penalty: Northern Ireland[^c1942085][^c-2d2c6fb26274d1245c52a6789f941d64]
 
 *Extent: N.I.*
 
@@ -91,4 +91,4 @@ summary: ''
 
 [^c1942085]: Commencement: [S. 136](https://www.legislation.gov.uk/ukpga/2008/14/section/136) partly in force; [s. 136](https://www.legislation.gov.uk/ukpga/2008/14/section/136) in force for specified purposes at Royal Assent, see [s. 170](https://www.legislation.gov.uk/ukpga/2008/14/section/170)
 
-[^key-2d2c6fb26274d1245c52a6789f941d64]: Commencement: [S. 136](https://www.legislation.gov.uk/ukpga/2008/14/section/136) in force at 1.1.2009 in so far as not already in force by [S.I. 2008/3137](https://www.legislation.gov.uk/uksi/2008/3137), [art. 2](https://www.legislation.gov.uk/uksi/2008/3137/article/2)
+[^c-2d2c6fb26274d1245c52a6789f941d64]: Commencement: [S. 136](https://www.legislation.gov.uk/ukpga/2008/14/section/136) in force at 1.1.2009 in so far as not already in force by [S.I. 2008/3137](https://www.legislation.gov.uk/uksi/2008/3137), [art. 2](https://www.legislation.gov.uk/uksi/2008/3137/article/2)

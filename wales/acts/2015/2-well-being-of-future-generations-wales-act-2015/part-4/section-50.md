@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Performance indicators and standards[^c2253094][^key-5260a41508fb14d5fd95a5e8fe2b022c]
+## 50. Performance indicators and standards[^c2253094][^c-5260a41508fb14d5fd95a5e8fe2b022c]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 [^c2253094]: Commencement: [S. 50](https://www.legislation.gov.uk/anaw/2015/2/section/50) partly in force; [s. 50](https://www.legislation.gov.uk/anaw/2015/2/section/50) in force for specified purposes at 30.4.2015, see [s. 56(1)(b)](https://www.legislation.gov.uk/anaw/2015/2/section/56/1/b)
 
-[^key-5260a41508fb14d5fd95a5e8fe2b022c]: Commencement: [S. 50](https://www.legislation.gov.uk/anaw/2015/2/section/50) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-5260a41508fb14d5fd95a5e8fe2b022c]: Commencement: [S. 50](https://www.legislation.gov.uk/anaw/2015/2/section/50) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)

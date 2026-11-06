@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Water resources management schemes: other abstractors[^key-ba9096abdda811ca76c12d412f5c47da]
+## 28. Water resources management schemes: other abstractors[^c-ba9096abdda811ca76c12d412f5c47da]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ After section 20 of the WRA there is inserted—
 
 ## Annotations
 
-[^key-ba9096abdda811ca76c12d412f5c47da]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2003/37/section/28) in force at 1.10.2004 by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/b) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
+[^c-ba9096abdda811ca76c12d412f5c47da]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2003/37/section/28) in force at 1.10.2004 by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/b) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))

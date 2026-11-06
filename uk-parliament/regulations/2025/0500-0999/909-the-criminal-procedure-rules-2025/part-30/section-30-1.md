@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30.1. When this Part applies[^key-1a056631c98c69854daf7f8b49510559]
+## 30.1. When this Part applies[^c-1a056631c98c69854daf7f8b49510559]
 
 *Extent: E+W*
 
@@ -45,7 +45,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1a056631c98c69854daf7f8b49510559]: Commencement: [Rule 30.1](https://www.legislation.gov.uk/uksi/2025/909/rule/30.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-1a056631c98c69854daf7f8b49510559]: Commencement: [Rule 30.1](https://www.legislation.gov.uk/uksi/2025/909/rule/30.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00721]: Footnote: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15).
 

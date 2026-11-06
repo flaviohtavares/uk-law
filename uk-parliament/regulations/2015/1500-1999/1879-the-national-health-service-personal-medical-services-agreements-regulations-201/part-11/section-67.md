@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Subject to paragraph (2), the contractor must, at the request of NHS England[^key-9520329cffeb7671913a444ac58ebf84], produce to NHS England, or to a person authorised in writing by NHS England, or allow NHS England, or a person authorised in writing by NHS England, to access—
+(1) Subject to paragraph (2), the contractor must, at the request of NHS England[^c-9520329cffeb7671913a444ac58ebf84], produce to NHS England, or to a person authorised in writing by NHS England, or allow NHS England, or a person authorised in writing by NHS England, to access—
 
 - (a) any information which is reasonably required by NHS England for the purposes of or in connection with the agreement; and
 - (b) any other information which is reasonably required in connection with NHS England’s functions.
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

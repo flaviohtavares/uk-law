@@ -37,11 +37,11 @@ Made
 
 The Treasury, in exercise of the powers conferred on them by sections 431(2) and 428(3) of the Financial Services and Markets Act 2000[^f00001] (“the Act”), hereby make the following Order:
 
-## 1. Citation[^key-9d611f085a8b429dada274f092249f19]
+## 1. Citation[^c-9d611f085a8b429dada274f092249f19]
 
 This Order may be cited as the Financial Services and Markets Act 2000 (Commencement No. 7) Order 2001.
 
-## 2. Appointed day[^key-68684e559c43ad9e46e8eb731a90c242]
+## 2. Appointed day[^c-68684e559c43ad9e46e8eb731a90c242]
 
 (1) Except as otherwise provided by the following provisions of this article, 1st December 2001 (“the appointed day”) is the day appointed for the coming into force of all provisions of the Act, so far as not already in force.
 
@@ -106,9 +106,9 @@ The following provisions of the Act have been brought into force by commencement
 
 [^f00001]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-9d611f085a8b429dada274f092249f19]: Commencement: Art. 1 in force at made date
+[^c-9d611f085a8b429dada274f092249f19]: Commencement: Art. 1 in force at made date
 
-[^key-68684e559c43ad9e46e8eb731a90c242]: Commencement: Art. 2 in force at made date
+[^c-68684e559c43ad9e46e8eb731a90c242]: Commencement: Art. 2 in force at made date
 
 [^f00002]: Footnote: [1986 c. 60](https://www.legislation.gov.uk/ukpga/1986/60).
 

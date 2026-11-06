@@ -31,7 +31,7 @@ summary: ''
 
 (2) In subsection (5)(e) of that section, for the words from “where” to the end of the paragraph there shall be substituted “ where any part (or further part) of the consideration written off in the claimant’s accounts as a bad debt is subsequently received either by the claimant or, except in such circumstances as may be prescribed, by a person to whom has been assigned a right to receive the whole or any part of that consideration; ”.
 
-(3)[^key-5a3efa53611885bb823fdd5690172cd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5a3efa53611885bb823fdd5690172cd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4)[^c1126219] Until such day as the Commissioners may specify in regulations made under section 36 of that Act, Part XIX of the [^c1126220]Value Added Tax Regulations 1995 (bad debt relief), except regulation 171, shall be read as if a reference to a payment being received by the claimant were a reference to a payment being received either by the claimant or by a person to whom a right to receive it has been assigned.
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5a3efa53611885bb823fdd5690172cd7]: Textual amendment: [S. 15(3)](https://www.legislation.gov.uk/ukpga/1999/16/section/15/3) omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 113(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/113/2), [Sch. 36 para. 92(g)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/92/g) (with [Sch. 36 para. 38](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/38)); [S.I. 2009/404](https://www.legislation.gov.uk/uksi/2009/404), [art. 2](https://www.legislation.gov.uk/uksi/2009/404/article/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2009/404/article/12))
+[^c-5a3efa53611885bb823fdd5690172cd7]: Textual amendment: [S. 15(3)](https://www.legislation.gov.uk/ukpga/1999/16/section/15/3) omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 113(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/113/2), [Sch. 36 para. 92(g)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/92/g) (with [Sch. 36 para. 38](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/38)); [S.I. 2009/404](https://www.legislation.gov.uk/uksi/2009/404), [art. 2](https://www.legislation.gov.uk/uksi/2009/404/article/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2009/404/article/12))
 
 [^c1126219]: Textual amendment: S. 15(4) ceased to have effect (1.12.1999) by [S.I. 1999/3029](https://www.legislation.gov.uk/uksi/1999/3029), [reg. 5](https://www.legislation.gov.uk/uksi/1999/3029/regulation/5)
 

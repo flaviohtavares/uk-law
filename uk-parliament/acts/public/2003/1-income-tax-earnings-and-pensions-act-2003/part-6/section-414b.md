@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 414B. Exception in certain cases of foreign service as seafarer[^key-f9d819700e400547385b2c21cf537d4f]
+## 414B. Exception in certain cases of foreign service as seafarer[^c-f9d819700e400547385b2c21cf537d4f]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ or it would not have been so chargeable had there been any such emoluments.
 
 ## Annotations
 
-[^key-f9d819700e400547385b2c21cf537d4f]: Textual amendment: [Ss. 414B](https://www.legislation.gov.uk/ukpga/2003/1/section/414B), [414C](https://www.legislation.gov.uk/ukpga/2003/1/section/414C) inserted (with effect in accordance with s. 10(5) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 10(4)](https://www.legislation.gov.uk/ukpga/2018/3/section/10/4)
+[^c-f9d819700e400547385b2c21cf537d4f]: Textual amendment: [Ss. 414B](https://www.legislation.gov.uk/ukpga/2003/1/section/414B), [414C](https://www.legislation.gov.uk/ukpga/2003/1/section/414C) inserted (with effect in accordance with s. 10(5) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 10(4)](https://www.legislation.gov.uk/ukpga/2018/3/section/10/4)

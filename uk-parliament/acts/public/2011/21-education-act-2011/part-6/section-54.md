@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Consequential amendments: 16 to 19 Academies and alternative provision Academies[^key-bff5fd5208e1b6f7bdadaf729bc6fd1f]
+## 54. Consequential amendments: 16 to 19 Academies and alternative provision Academies[^c-bff5fd5208e1b6f7bdadaf729bc6fd1f]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bff5fd5208e1b6f7bdadaf729bc6fd1f]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2011/21/section/54) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-bff5fd5208e1b6f7bdadaf729bc6fd1f]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2011/21/section/54) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

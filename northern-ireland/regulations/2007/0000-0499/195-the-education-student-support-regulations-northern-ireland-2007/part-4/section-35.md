@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Previous course[^key-1a0f3c5a22bb047b81401a773e2a7d7d]
+## 35. Previous course[^c-1a0f3c5a22bb047b81401a773e2a7d7d]
 
 *Extent: N.I.*
 
-(1) Subject to the exceptions in paragraphs (3), (4) and (5), a “previous course” is any full-time higher education course or any part-time course for the initial training of teachers which the student began to attend or, in the case of a compressed degree course or a designated distance learning course[^key-c843b8cff43b2f70b9600865fe77c5e0], undertake before the current course and which meets any of the conditions in paragraph (2).
+(1) Subject to the exceptions in paragraphs (3), (4) and (5), a “previous course” is any full-time higher education course or any part-time course for the initial training of teachers which the student began to attend or, in the case of a compressed degree course or a designated distance learning course[^c-c843b8cff43b2f70b9600865fe77c5e0], undertake before the current course and which meets any of the conditions in paragraph (2).
 
 (2) The conditions are—
 
 - (a) the course was provided by an institution in the United Kingdom which was publicly funded for some or all of the academic years during which the student took the course;
 - (b) the course was provided by an institution in the Republic of Ireland and the student was funded under previous regulations for some or all of the academic years during which he took the course; or
-- (c) any scholarship, exhibition, bursary, grant, allowance or award of any description which was paid in respect of the student’s attendance on or, in the case of a designated distance learning course, undertaking[^key-c31dbc8ad098eb212919e5ef91db0ea5] the course to defray fees was from public funds or funds attributable to public funds.
+- (c) any scholarship, exhibition, bursary, grant, allowance or award of any description which was paid in respect of the student’s attendance on or, in the case of a designated distance learning course, undertaking[^c-c31dbc8ad098eb212919e5ef91db0ea5] the course to defray fees was from public funds or funds attributable to public funds.
 
 (3) A course which would otherwise be a previous course will not be treated as such if—
 
@@ -62,8 +62,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1a0f3c5a22bb047b81401a773e2a7d7d]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2007/195/regulation/35) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-1a0f3c5a22bb047b81401a773e2a7d7d]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2007/195/regulation/35) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-c843b8cff43b2f70b9600865fe77c5e0]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/nisr/2007/195/regulation/35/1) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [9(2)](https://www.legislation.gov.uk/nisr/2007/363/regulation/9/2)
+[^c-c843b8cff43b2f70b9600865fe77c5e0]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/nisr/2007/195/regulation/35/1) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [9(2)](https://www.legislation.gov.uk/nisr/2007/363/regulation/9/2)
 
-[^key-c31dbc8ad098eb212919e5ef91db0ea5]: Textual amendment: Words in [reg. 35(2)(b)](https://www.legislation.gov.uk/nisr/2007/195/regulation/35/2/b) inserted (21.9.2007) by virtue of [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2007/363/regulation/9/3)
+[^c-c31dbc8ad098eb212919e5ef91db0ea5]: Textual amendment: Words in [reg. 35(2)(b)](https://www.legislation.gov.uk/nisr/2007/195/regulation/35/2/b) inserted (21.9.2007) by virtue of [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2007/363/regulation/9/3)

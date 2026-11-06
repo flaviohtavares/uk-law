@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52. Effect of Order on temporary jetty harbour empowerment order[^key-1f016bb9d840965ed7a1b7d684b74e29]
+## 52. Effect of Order on temporary jetty harbour empowerment order[^c-1f016bb9d840965ed7a1b7d684b74e29]
 
 *Extent: E+W+S*
 
@@ -36,10 +36,10 @@ summary: ''
 (6) In the event that the temporary jetty harbour empowerment order is quashed—
 
 - (a) paragraphs (1) to (5) shall cease to have effect; and
-- (b) paragraph 46 of the First Schedule to[^key-66e3addc26ec5ae3c52ca00c8ce0e257] the agreement between NNB Generation Company Limited and West Somerset District Council dated 2nd December 2011 and known as the HEO bilateral agreement shall be abrogated in its entirety.
+- (b) paragraph 46 of the First Schedule to[^c-66e3addc26ec5ae3c52ca00c8ce0e257] the agreement between NNB Generation Company Limited and West Somerset District Council dated 2nd December 2011 and known as the HEO bilateral agreement shall be abrogated in its entirety.
 
 ## Annotations
 
-[^key-1f016bb9d840965ed7a1b7d684b74e29]: Commencement: Art. 52 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-1f016bb9d840965ed7a1b7d684b74e29]: Commencement: Art. 52 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
 
-[^key-66e3addc26ec5ae3c52ca00c8ce0e257]: Textual amendment: Words in [art. 52(6)(b)](https://www.legislation.gov.uk/uksi/2013/648/article/52/6/b) substituted (20.11.2013) by [The Hinkley Point C (Nuclear Generating Station) (Correction) Order 2013 (S.I. 2013/2938)](https://www.legislation.gov.uk/uksi/2013/2938), [art. 1](https://www.legislation.gov.uk/uksi/2013/2938/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/2938/schedule) Table 1
+[^c-66e3addc26ec5ae3c52ca00c8ce0e257]: Textual amendment: Words in [art. 52(6)(b)](https://www.legislation.gov.uk/uksi/2013/648/article/52/6/b) substituted (20.11.2013) by [The Hinkley Point C (Nuclear Generating Station) (Correction) Order 2013 (S.I. 2013/2938)](https://www.legislation.gov.uk/uksi/2013/2938), [art. 1](https://www.legislation.gov.uk/uksi/2013/2938/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/2938/schedule) Table 1

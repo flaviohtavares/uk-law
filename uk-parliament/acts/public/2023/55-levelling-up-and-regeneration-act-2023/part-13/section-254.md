@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 254. Extent[^key-75821634c6192585009b4d28e82efa16]
+## 254. Extent[^c-75821634c6192585009b4d28e82efa16]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75821634c6192585009b4d28e82efa16]: Commencement: S. 254 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)
+[^c-75821634c6192585009b4d28e82efa16]: Commencement: S. 254 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)

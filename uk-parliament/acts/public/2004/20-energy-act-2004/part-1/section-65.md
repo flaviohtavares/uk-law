@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Rank-related associations[^key-a37a2bf81177e1630e481dbccdb241c4]
+## 65. Rank-related associations[^c-a37a2bf81177e1630e481dbccdb241c4]
 
 *Extent: E+W+S*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a37a2bf81177e1630e481dbccdb241c4]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2004/20/section/65) in force at 1.4.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
+[^c-a37a2bf81177e1630e481dbccdb241c4]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2004/20/section/65) in force at 1.4.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)

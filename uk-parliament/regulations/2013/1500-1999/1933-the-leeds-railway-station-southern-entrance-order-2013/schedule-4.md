@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — STREET SUBJECT TO ALTERATION OF LAYOUT[^key-e113545ac0e2b8423fc8fc6911891f83]
+## SCHEDULE 4 — STREET SUBJECT TO ALTERATION OF LAYOUT[^c-e113545ac0e2b8423fc8fc6911891f83]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Articles 7 and 38
 
 ## Annotations
 
-[^key-e113545ac0e2b8423fc8fc6911891f83]: Commencement: Sch. 4 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-e113545ac0e2b8423fc8fc6911891f83]: Commencement: Sch. 4 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)

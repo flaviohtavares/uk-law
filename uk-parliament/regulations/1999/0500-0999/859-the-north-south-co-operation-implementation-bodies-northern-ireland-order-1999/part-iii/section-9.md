@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Grants to the body[^key-13aa9f09ae558ce058aa8352b2ed6e7d]
+## 9. Grants to the body[^c-13aa9f09ae558ce058aa8352b2ed6e7d]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13aa9f09ae558ce058aa8352b2ed6e7d]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/1999/859/article/9) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
+[^c-13aa9f09ae558ce058aa8352b2ed6e7d]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/1999/859/article/9) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)

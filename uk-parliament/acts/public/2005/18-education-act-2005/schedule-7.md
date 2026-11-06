@@ -24,11 +24,11 @@ Section 53
 
 ### Part 1 — Child minding and day care: amendments of Children Act 1989
 
-**1.**[^M_F_9607eaf5-dd6a-460d-effa-c77905fb886d][^key-82ad7e0a8aee41ffec573e62d625312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^M_F_9607eaf5-dd6a-460d-effa-c77905fb886d][^c-82ad7e0a8aee41ffec573e62d625312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **2.** Omit section 79P of the Children Act 1989 (early years child care inspectorate for England).
 
-**3.**[^key-f0646d1772b16a3366047d16af601e27][^c19141291] (1) Section 79Q of the Children Act 1989 (inspection of provision of child minding and day care in England) is amended as follows.
+**3.**[^c-f0646d1772b16a3366047d16af601e27][^c19141291] (1) Section 79Q of the Children Act 1989 (inspection of provision of child minding and day care in England) is amended as follows.
 
 (2) In subsection (1), for “provision” substitute “ provider ”.
 
@@ -55,7 +55,7 @@ Section 53
 
 (8) Omit subsection (7).
 
-**4.**[^key-3fcf339e5b7d7b3f448d6a70cb7cba7d][^c19141531] (1) Section 79R of the Children Act 1989 (c. 41) (reports of inspections) is amended as follows.
+**4.**[^c-3fcf339e5b7d7b3f448d6a70cb7cba7d][^c19141531] (1) Section 79R of the Children Act 1989 (c. 41) (reports of inspections) is amended as follows.
 
 (2) Omit subsections (1) and (2).
 
@@ -106,7 +106,7 @@ Section 53
 - (b) in paragraph (a), after “nursery education” insert “ not falling within paragraph (za) ”;
 - (c) for paragraph (b) substitute—
 
-  > - (b) nursery education which is provided by any other person under arrangements made with that person by a local authority[^key-94ed0295e29907765ea29be5dd3e5cb4] in pursuance of the duty imposed on the authority by section 118 and in consideration of financial assistance provided by the authority under the arrangements.
+  > - (b) nursery education which is provided by any other person under arrangements made with that person by a local authority[^c-94ed0295e29907765ea29be5dd3e5cb4] in pursuance of the duty imposed on the authority by section 118 and in consideration of financial assistance provided by the authority under the arrangements.
 
 (3) In sub-paragraph (2), for the words from “to whom” onwards substitute “ with whom a local authority are considering making arrangements in pursuance of the duty imposed on the authority by section 118 for the provision of nursery education in consideration of financial assistance provided by the authority under the arrangements ”.
 
@@ -145,12 +145,12 @@ Section 53
 
 (5) Omit sub-paragraph (4).
 
-(6) At the end insert— *(affected by repeal, see note)*[^key-818ab8caf26a9752b66bbb53fa1add88]
+(6) At the end insert— *(affected by repeal, see note)*[^c-818ab8caf26a9752b66bbb53fa1add88]
 
-> (5) In this Schedule “ *(affected by repeal, see note)*[^key-818ab8caf26a9752b66bbb53fa1add88]**well-being *(affected by repeal, see note)*[^key-818ab8caf26a9752b66bbb53fa1add88]**”—
+> (5) In this Schedule “ *(affected by repeal, see note)*[^c-818ab8caf26a9752b66bbb53fa1add88]**well-being *(affected by repeal, see note)*[^c-818ab8caf26a9752b66bbb53fa1add88]**”—
 >
-> - (a) in relation to children for whom nursery education is provided in England, is a reference to their well-being having regard to the matters mentioned in section 10(2) of the Children Act 2004, and *(affected by repeal, see note)*[^key-818ab8caf26a9752b66bbb53fa1add88]
-> - (b) in relation to children for whom such education is provided in Wales, is a reference to their well-being having regard to the matters mentioned in section 25(2) of that Act. *(affected by repeal, see note)*[^key-818ab8caf26a9752b66bbb53fa1add88]
+> - (a) in relation to children for whom nursery education is provided in England, is a reference to their well-being having regard to the matters mentioned in section 10(2) of the Children Act 2004, and *(affected by repeal, see note)*[^c-818ab8caf26a9752b66bbb53fa1add88]
+> - (b) in relation to children for whom such education is provided in Wales, is a reference to their well-being having regard to the matters mentioned in section 25(2) of that Act. *(affected by repeal, see note)*[^c-818ab8caf26a9752b66bbb53fa1add88]
 
 **11.**[^c19267411] In paragraph 3, before the “and” immediately following paragraph (a) insert—
 
@@ -328,13 +328,13 @@ Section 53
 
 [^M_F_9607eaf5-dd6a-460d-effa-c77905fb886d]: Textual amendment: Sch. 7 para. 1 repealed (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 184](https://www.legislation.gov.uk/ukpga/2006/40/section/184), [188](https://www.legislation.gov.uk/ukpga/2006/40/section/188), [Sch. 18 Pt. 5](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/5); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(ii)](https://www.legislation.gov.uk/uksi/2007/935/article/5/ii)
 
-[^key-82ad7e0a8aee41ffec573e62d625312b]: Textual amendment: Sch. 7 para. 1 repealed (1.9.2008 for E.) by [Childcare Act 2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21), [s. 109(2)](https://www.legislation.gov.uk/ukpga/2006/21/section/109/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2006/21/schedule/3/part/2); [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1))
+[^c-82ad7e0a8aee41ffec573e62d625312b]: Textual amendment: Sch. 7 para. 1 repealed (1.9.2008 for E.) by [Childcare Act 2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21), [s. 109(2)](https://www.legislation.gov.uk/ukpga/2006/21/section/109/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2006/21/schedule/3/part/2); [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1))
 
-[^key-f0646d1772b16a3366047d16af601e27]: Textual amendment: Sch. 7 para. 3 repealed (1.9.2008 for E.) by [Childcare Act 2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21), [s. 109(2)](https://www.legislation.gov.uk/ukpga/2006/21/section/109/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2006/21/schedule/3/part/2); [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1))
+[^c-f0646d1772b16a3366047d16af601e27]: Textual amendment: Sch. 7 para. 3 repealed (1.9.2008 for E.) by [Childcare Act 2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21), [s. 109(2)](https://www.legislation.gov.uk/ukpga/2006/21/section/109/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2006/21/schedule/3/part/2); [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1))
 
 [^c19141291]: Commencement: Sch. 7 para. 3 wholly in force at 3.10.2005; Sch. 7 para. 3 not in force at Royal Assent see s. 125; Sch. 7 para. 3(6) in force at 1.8.2005 by [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 2](https://www.legislation.gov.uk/uksi/2005/2034/article/2); Sch. 7 para. 3 in force at 3.10.2005 so far as not already in force by [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 7](https://www.legislation.gov.uk/uksi/2005/2034/article/7)
 
-[^key-3fcf339e5b7d7b3f448d6a70cb7cba7d]: Textual amendment: Sch. 7 para. 4 repealed (1.9.2008 for E.) by [Childcare Act 2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21), [s. 109(2)](https://www.legislation.gov.uk/ukpga/2006/21/section/109/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2006/21/schedule/3/part/2); [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1))
+[^c-3fcf339e5b7d7b3f448d6a70cb7cba7d]: Textual amendment: Sch. 7 para. 4 repealed (1.9.2008 for E.) by [Childcare Act 2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21), [s. 109(2)](https://www.legislation.gov.uk/ukpga/2006/21/section/109/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2006/21/schedule/3/part/2); [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1))
 
 [^c19141531]: Commencement: Sch. 7 para. 4 wholly in force at 3.10.2005; Sch. 7 para. 4 not in force at Royal Assent see s. 125; Sch. 7 para. 4(4) in force at 1.8.2005 by [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 2](https://www.legislation.gov.uk/uksi/2005/2034/article/2); Sch. 7 para. 4 in force at 3.10.2005 so far as not already in force by the said [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 7](https://www.legislation.gov.uk/uksi/2005/2034/article/7)
 
@@ -348,11 +348,11 @@ Section 53
 
 [^c19267341]: Commencement: Sch. 7 para. 9 partly in force; Sch. 7 para. 9 not in force at Royal Assent see s. 125; Sch. 7 para. 9 in force for W. at 1.9.2006 by [S.I. 2006/1338](https://www.legislation.gov.uk/uksi/2006/1338), [art. 3](https://www.legislation.gov.uk/uksi/2006/1338/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1338/schedule/1)
 
-[^key-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
+[^c-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
 
 [^c19267371]: Commencement: Sch. 7 para. 10 partly in force; Sch. 7 para. 10 not in force at Royal Assent see s. 125; Sch. 7 para. 10(1)-(5) and (for certain purposes) (6) in force for E. at 3.10.2005 by [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 6](https://www.legislation.gov.uk/uksi/2005/2034/article/6); Sch. 7 para. 10 in force for W. at 1.9.2006 by [S.I. 2006/1338](https://www.legislation.gov.uk/uksi/2006/1338), [art. 3](https://www.legislation.gov.uk/uksi/2006/1338/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1338/schedule/1)
 
-[^key-818ab8caf26a9752b66bbb53fa1add88]: Textual amendment: Sch. 7 para. 10(6) repealed (1.9.2008 for E.) by [Childcare Act 2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21), [s. 109(2)](https://www.legislation.gov.uk/ukpga/2006/21/section/109/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2006/21/schedule/3/part/2); [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1))
+[^c-818ab8caf26a9752b66bbb53fa1add88]: Textual amendment: Sch. 7 para. 10(6) repealed (1.9.2008 for E.) by [Childcare Act 2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21), [s. 109(2)](https://www.legislation.gov.uk/ukpga/2006/21/section/109/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2006/21/schedule/3/part/2); [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1))
 
 [^c19267411]: Commencement: Sch. 7 para. 11 wholly in force at 1.9.2006; Sch. 7 para. 11 not in force at Royal Assent see s. 125; Sch. 7 para. 11 in force for E. at 3.10.2005 by [S. I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 6](https://www.legislation.gov.uk/uksi/2005/2034/article/6); Sch. 7 para. 11 in force for W. at 1.9.2006 by [S. I. 2006/1338](https://www.legislation.gov.uk/uksi/2006/1338), [art. 3](https://www.legislation.gov.uk/uksi/2006/1338/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1338/schedule/1)
 

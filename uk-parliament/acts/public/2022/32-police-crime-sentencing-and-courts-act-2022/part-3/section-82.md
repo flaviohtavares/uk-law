@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Expedited public spaces protection orders[^key-30c484f39d04b114366ae5ee1f364bd8][^key-4d28d6421ac0f44ccb584a1c301f9188]
+## 82. Expedited public spaces protection orders[^c-30c484f39d04b114366ae5ee1f364bd8][^c-4d28d6421ac0f44ccb584a1c301f9188]
 
 *Extent: E+W*
 
@@ -181,6 +181,6 @@ summary: ''
 
 ## Annotations
 
-[^key-30c484f39d04b114366ae5ee1f364bd8]: Commencement: S. 82 in force at Royal Assent for specified purposes, see [s. 208(4)(n)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/n)
+[^c-30c484f39d04b114366ae5ee1f364bd8]: Commencement: S. 82 in force at Royal Assent for specified purposes, see [s. 208(4)(n)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/n)
 
-[^key-4d28d6421ac0f44ccb584a1c301f9188]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2022/32/section/82) in force at 28.6.2022 in so far as not already in force by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)
+[^c-4d28d6421ac0f44ccb584a1c301f9188]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2022/32/section/82) in force at 28.6.2022 in so far as not already in force by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)

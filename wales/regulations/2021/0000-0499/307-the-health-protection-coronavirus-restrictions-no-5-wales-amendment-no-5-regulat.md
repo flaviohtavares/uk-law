@@ -51,7 +51,7 @@ The Welsh Ministers consider that restrictions and requirements imposed by these
 
 In accordance with section 45R of that Act the Welsh Ministers are of the opinion that, by reason of urgency, it is necessary to make this instrument without a draft having been laid before, and approved by a resolution of, Senedd Cymru.
 
-## 1. Title and coming into force[^key-82459502fd333fdd6d1657eb3e3a690e]
+## 1. Title and coming into force[^c-82459502fd333fdd6d1657eb3e3a690e]
 
 (1) The title of these Regulations is the Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 5) Regulations 2021.
 
@@ -61,7 +61,7 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
 
 (4) Sub-paragraph (h) of regulation 2(8) comes into force on 22 March 2021.
 
-## 2. Amendment of the Health Protection (Coronavirus Restrictions) (No. 5) (Wales) Regulations 2020[^key-ee958ab5bdfb7c4b5c78cc8b857ff9db][^key-a78085bf74d47849185dc03282698637][^key-5270ae69d61bb351bdb2cc1288166ee8]
+## 2. Amendment of the Health Protection (Coronavirus Restrictions) (No. 5) (Wales) Regulations 2020[^c-ee958ab5bdfb7c4b5c78cc8b857ff9db][^c-a78085bf74d47849185dc03282698637][^c-5270ae69d61bb351bdb2cc1288166ee8]
 
 (1) The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) Regulations 2020 [^c24465931] are amended as follows.
 
@@ -330,7 +330,7 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
   > - (cc) paragraph 10 of Schedule 4 is to be read as if in sub-paragraph (2)(c), the words “for such a broadcast” were omitted;
 
   ;
-- (f)[^key-a78085bf74d47849185dc03282698637] for paragraph (cc) (as inserted above) substitute—
+- (f)[^c-a78085bf74d47849185dc03282698637] for paragraph (cc) (as inserted above) substitute—
 
   > - (cc) paragraph 10 of Schedule 4 is to be read as if—
   >   - (i) in sub-paragraph (2)(c), the words “for such a broadcast” were omitted;
@@ -350,7 +350,7 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
   >   > Indoor sports courts, indoor bowling greens and other indoor sports grounds or pitches.
 
   ;
-- (h)[^key-5270ae69d61bb351bdb2cc1288166ee8] after paragraph (g) insert—
+- (h)[^c-5270ae69d61bb351bdb2cc1288166ee8] after paragraph (g) insert—
 
   > - (h) paragraph 56 of Schedule 4 is to be read as if for “and petrol stations” there were substituted “ , petrol stations, garden centres and plant nurseries ”;
   > - (i) in relation to a supermarket or other shop that sells multiple types of goods—
@@ -361,11 +361,11 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
   >
   >   paragraph 57 of Schedule 4 is to be read as if the words “but only for the purposes of” to the end were omitted.
 
-## 3. Amendment and temporary modification of the Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) Regulations 2020[^key-d61df4996c9470be885978027f039e78]
+## 3. Amendment and temporary modification of the Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) Regulations 2020[^c-d61df4996c9470be885978027f039e78]
 
 (1) In regulation 3(1) of the Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) Regulations 2020 [^c24465971], for “31 March” substitute “ 28 May ”.
 
-(2)[^key-daecb3ac22535b296714103b4b18c16d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-daecb3ac22535b296714103b4b18c16d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Mark Drakeford
 
@@ -407,13 +407,13 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c24465921]: Marginal citation: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22). Sections 45C, 45F and 45P were inserted by section 129 of the [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14). The functions under these sections are conferred on “the appropriate Minister”. Under section 45T(6) of the 1984 Act the appropriate Minister, as respects Wales, is the Welsh Ministers.
 
-[^key-82459502fd333fdd6d1657eb3e3a690e]: Commencement: Reg. 1 in force immediately before the start of the day on 13.3.2021, see reg. 1(2)
+[^c-82459502fd333fdd6d1657eb3e3a690e]: Commencement: Reg. 1 in force immediately before the start of the day on 13.3.2021, see reg. 1(2)
 
-[^key-ee958ab5bdfb7c4b5c78cc8b857ff9db]: Commencement: Reg. 2(1)-(7)(8)(a)-(e)(g) in force immediately before the start of the day on 13.3.2021, see reg. 1(2)
+[^c-ee958ab5bdfb7c4b5c78cc8b857ff9db]: Commencement: Reg. 2(1)-(7)(8)(a)-(e)(g) in force immediately before the start of the day on 13.3.2021, see reg. 1(2)
 
-[^key-a78085bf74d47849185dc03282698637]: Commencement: Reg. 2(8)(f) in force at 15.3.2021, see reg. 1(3)
+[^c-a78085bf74d47849185dc03282698637]: Commencement: Reg. 2(8)(f) in force at 15.3.2021, see reg. 1(3)
 
-[^key-5270ae69d61bb351bdb2cc1288166ee8]: Commencement: Reg. 2(8)(h) in force at 22.3.2021, see reg. 1(4)
+[^c-5270ae69d61bb351bdb2cc1288166ee8]: Commencement: Reg. 2(8)(h) in force at 22.3.2021, see reg. 1(4)
 
 [^c24465931]: Marginal citation: [S.I. 2020/1609](https://www.legislation.gov.uk/uksi/2020/1609) (W. 335) as amended by [S.I. 2020/1610](https://www.legislation.gov.uk/uksi/2020/1610) (W. 336), [S.I. 2020/1623](https://www.legislation.gov.uk/uksi/2020/1623) (W. 340), [S.I. 2020/1645](https://www.legislation.gov.uk/uksi/2020/1645) (W. 345), [S.I. 2021/20](https://www.legislation.gov.uk/uksi/2021/20) (W. 7), [S.I. 2021/46](https://www.legislation.gov.uk/uksi/2021/46) (W. 10), [S.I. 2021/57](https://www.legislation.gov.uk/uksi/2021/57) (W. 13), [S.I. 2021/66](https://www.legislation.gov.uk/uksi/2021/66) (W. 15), [S.I. 2021/95](https://www.legislation.gov.uk/uksi/2021/95) (W. 26), [S.I. 2021/103](https://www.legislation.gov.uk/uksi/2021/103) (W. 28), [S.I. 2021/172](https://www.legislation.gov.uk/uksi/2021/172) (W. 40) and [S.I. 2021/210](https://www.legislation.gov.uk/uksi/2021/210) (W. 52).
 
@@ -423,8 +423,8 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c24465961]: Marginal citation: [2006 c. 47](https://www.legislation.gov.uk/ukpga/2006/47). Paragraph 7(3B) was inserted by section 66(2) of the [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9).
 
-[^key-d61df4996c9470be885978027f039e78]: Commencement: Reg. 3 in force immediately before the start of the day on 13.3.2021, see reg. 1(2)
+[^c-d61df4996c9470be885978027f039e78]: Commencement: Reg. 3 in force immediately before the start of the day on 13.3.2021, see reg. 1(2)
 
 [^c24465971]: Marginal citation: [S.I. 2020/1011](https://www.legislation.gov.uk/uksi/2020/1011) (W. 225) as amended by [S.I. 2020/1100](https://www.legislation.gov.uk/uksi/2020/1100) (W. 250), [S.I. 2020/1149](https://www.legislation.gov.uk/uksi/2020/1149) (W. 261), [S.I. 2020/1219](https://www.legislation.gov.uk/uksi/2020/1219) (W. 276), [S.I. 2020/1409](https://www.legislation.gov.uk/uksi/2020/1409) (W. 311), [S.I. 2020/1609](https://www.legislation.gov.uk/uksi/2020/1609) (W. 335) and [S.I. 2021/57](https://www.legislation.gov.uk/uksi/2021/57) (W. 13).
 
-[^key-daecb3ac22535b296714103b4b18c16d]: Textual amendment: Reg. 3(2) revoked (27.3.2021 immediately before the start of the day) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 6) Regulations 2021 (S.I. 2021/413)](https://www.legislation.gov.uk/wsi/2021/413), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/413/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2021/413/regulation/3)
+[^c-daecb3ac22535b296714103b4b18c16d]: Textual amendment: Reg. 3(2) revoked (27.3.2021 immediately before the start of the day) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 6) Regulations 2021 (S.I. 2021/413)](https://www.legislation.gov.uk/wsi/2021/413), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/413/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2021/413/regulation/3)

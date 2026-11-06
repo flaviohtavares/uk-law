@@ -27,31 +27,31 @@ summary: ''
 
 1986 No. 595 (N.I. 4)
 
-The Mental Health (Northern Ireland) Order 1986[^key-2a2444214e3309d4738b87ded06941c8][^key-29a8db235f82fdff302e3b5570ab0d3b][^key-885334c5b25555e8f8d67a4aaeb85a42]
+The Mental Health (Northern Ireland) Order 1986[^c-2a2444214e3309d4738b87ded06941c8][^c-29a8db235f82fdff302e3b5570ab0d3b][^c-885334c5b25555e8f8d67a4aaeb85a42]
 
-26th March 1986 [^c21783321][^c21783331][^key-2a2444214e3309d4738b87ded06941c8]
+26th March 1986 [^c21783321][^c21783331][^c-2a2444214e3309d4738b87ded06941c8]
 
 ## Contents
 
-### PART I — INTRODUCTORY[^key-0295bfa19a5bfd4b03ebb73e979a1f5a][^key-a691b0084cc80414821b28c96fbb3368]
+### PART I — INTRODUCTORY[^c-0295bfa19a5bfd4b03ebb73e979a1f5a][^c-a691b0084cc80414821b28c96fbb3368]
 
 *Extent: N.I.*
 
 - [Section 1 — Title and commencement](part-i/section-1.md)
 
-#### Interpretation of Order[^key-cc2ad6636bc424a0b09cb61820225299]
+#### Interpretation of Order[^c-cc2ad6636bc424a0b09cb61820225299]
 
 - [Section 2 — Interpretation](part-i/section-2.md)
 - [Section 3 — Definition of “mental disorder” and related expressions](part-i/section-3.md)
 
-#### General provisions about patients under 16[^key-74d6f6aa0693198d85f1782be11261d0]
+#### General provisions about patients under 16[^c-74d6f6aa0693198d85f1782be11261d0]
 
 - [Section 3A — Best interests of patient under 16](part-i/section-3a.md)
 - [Section 3B — Determination of a patient's best interests](part-i/section-3b.md)
 - [Section 3C — Independent Advocates](part-i/section-3c.md)
 - [Section 3D — In-patients under 16: duties of hospital managers](part-i/section-3d.md)
 
-### PART II — COMPULSORY ADMISSION TO HOSPITAL AND GUARDIANSHIP[^key-317c38dd44c2394019958227add9c7bf][^key-42056f7475fc7e2edadb439c11c20616]
+### PART II — COMPULSORY ADMISSION TO HOSPITAL AND GUARDIANSHIP[^c-317c38dd44c2394019958227add9c7bf][^c-42056f7475fc7e2edadb439c11c20616]
 
 #### Admission to hospital for assessment
 
@@ -154,7 +154,7 @@ The Mental Health (Northern Ireland) Order 1986[^key-2a2444214e3309d4738b87ded06
 - [Section 60 — Requirements as to written evidence](part-iii/section-60.md)
 - [Section 61 — Interpretation of Part III](part-iii/section-61.md)
 
-### PART IV — CONSENT TO TREATMENT[^key-d4cd140e7c6c670048d9d5b4177d39cd][^key-a8513dad76ae58b0d37aabaf6a0f0d30]
+### PART IV — CONSENT TO TREATMENT[^c-d4cd140e7c6c670048d9d5b4177d39cd][^c-a8513dad76ae58b0d37aabaf6a0f0d30]
 
 - [Section 62 — Patients to whom the provisions of this Part apply](part-iv/section-62.md)
 - [Section 63 — Treatment requiring consent and a second opinion](part-iv/section-63.md)
@@ -165,7 +165,7 @@ The Mental Health (Northern Ireland) Order 1986[^key-2a2444214e3309d4738b87ded06
 - [Section 68 — Urgent treatment](part-iv/section-68.md)
 - [Section 69 — Treatment not requiring consent](part-iv/section-69.md)
 
-### PART V — THE REVIEW TRIBUNAL[^key-3feda4ac42ce7504c17e4c23aba2148f]
+### PART V — THE REVIEW TRIBUNAL[^c-3feda4ac42ce7504c17e4c23aba2148f]
 
 *Extent: N.I.*
 
@@ -233,7 +233,7 @@ The Mental Health (Northern Ireland) Order 1986[^key-2a2444214e3309d4738b87ded06
 - [Section 108 — Procedure for notifications under Article 107](part-viii/section-108.md)
 - [Section 109 — Interpretation of Part VIII](part-viii/section-109.md)
 
-### PART IX — MISCELLANEOUS FUNCTIONS OF DEPARTMENT , THE REGIONAL AGENCY AND HSC TRUSTS[^key-ee670ab25a6dcf47a46ab49bb789aca1]
+### PART IX — MISCELLANEOUS FUNCTIONS OF DEPARTMENT , THE REGIONAL AGENCY AND HSC TRUSTS[^c-ee670ab25a6dcf47a46ab49bb789aca1]
 
 - [Section 110 — Provision of special accommodation by Department](part-ix/section-110.md)
 - [Section 111 — Code of Practice](part-ix/section-111.md)
@@ -300,32 +300,32 @@ SCHEDULES
 
 ## Annotations
 
-[^key-2a2444214e3309d4738b87ded06941c8]: Modification: Order modified (temp.) (2.4.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(2)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/2), [Sch. 10 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2020/7/schedule/10/paragraph/3/2/b) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88), [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2020/7/schedule/10/paragraph/2)); [S.R. 2020/58](https://www.legislation.gov.uk/nisr/2020/58), [reg. 2(c)](https://www.legislation.gov.uk/nisr/2020/58/regulation/2/c)
+[^c-2a2444214e3309d4738b87ded06941c8]: Modification: Order modified (temp.) (2.4.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(2)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/2), [Sch. 10 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2020/7/schedule/10/paragraph/3/2/b) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88), [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2020/7/schedule/10/paragraph/2)); [S.R. 2020/58](https://www.legislation.gov.uk/nisr/2020/58), [reg. 2(c)](https://www.legislation.gov.uk/nisr/2020/58/regulation/2/c)
 
-[^key-29a8db235f82fdff302e3b5570ab0d3b]: Modification: [Order](https://www.legislation.gov.uk/nisi/1986/595) expiry of earlier affecting provision 2020 c. 7, Sch. 10 paras. 3-13 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-29a8db235f82fdff302e3b5570ab0d3b]: Modification: [Order](https://www.legislation.gov.uk/nisi/1986/595) expiry of earlier affecting provision 2020 c. 7, Sch. 10 paras. 3-13 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
 
-[^key-885334c5b25555e8f8d67a4aaeb85a42]: Modification: [Order](https://www.legislation.gov.uk/nisi/1986/595) applied in part (17.4.2024) by [The Armed Forces (Appeals Against Review of Sentence) Regulations 2024 (S.I. 2024/619)](https://www.legislation.gov.uk/uksi/2024/619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/619/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2024/619/regulation/6/5)[(6)](https://www.legislation.gov.uk/uksi/2024/619/regulation/6/6), [29(6)](https://www.legislation.gov.uk/uksi/2024/619/regulation/29/6)[(7)](https://www.legislation.gov.uk/uksi/2024/619/regulation/29/7); S.I. 2024/562, [reg. 2](https://www.legislation.gov.uk/uksi/2024/562/regulation/2)
+[^c-885334c5b25555e8f8d67a4aaeb85a42]: Modification: [Order](https://www.legislation.gov.uk/nisi/1986/595) applied in part (17.4.2024) by [The Armed Forces (Appeals Against Review of Sentence) Regulations 2024 (S.I. 2024/619)](https://www.legislation.gov.uk/uksi/2024/619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/619/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2024/619/regulation/6/5)[(6)](https://www.legislation.gov.uk/uksi/2024/619/regulation/6/6), [29(6)](https://www.legislation.gov.uk/uksi/2024/619/regulation/29/6)[(7)](https://www.legislation.gov.uk/uksi/2024/619/regulation/29/7); S.I. 2024/562, [reg. 2](https://www.legislation.gov.uk/uksi/2024/562/regulation/2)
 
 [^c21783321]: Modification: Order: functions of Secretary of State transferred (12.4.2010) to Department of Justice by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [4(1)(2)](https://www.legislation.gov.uk/uksi/2010/976/article/4/1/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2010/976/schedule/1/paragraph/11) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 
 [^c21783331]: Modification: Order: functions of Lord Chancellor transferred (12.4.2010) to Department of Justice by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [15(1)](https://www.legislation.gov.uk/uksi/2010/976/article/15/1), [Sch. 17 para. 39](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/39) (with [arts. 15(6)](https://www.legislation.gov.uk/uksi/2010/976/article/15/6), [28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 
-[^key-0295bfa19a5bfd4b03ebb73e979a1f5a]: Modification: Pt. I applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/2), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
+[^c-0295bfa19a5bfd4b03ebb73e979a1f5a]: Modification: Pt. I applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/2), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
 
-[^key-a691b0084cc80414821b28c96fbb3368]: Modification: Pt. I applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/2), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
+[^c-a691b0084cc80414821b28c96fbb3368]: Modification: Pt. I applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/2), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
 
-[^key-cc2ad6636bc424a0b09cb61820225299]: Textual amendment: Art. 2 cross-heading inserted (2.12.2019) by [Mental Capacity Act (Northern Ireland) 2016 (c. 18)](https://www.legislation.gov.uk/nia/2016/18), [s. 307(2)](https://www.legislation.gov.uk/nia/2016/18/section/307/2), [Sch. 8 para. 2](https://www.legislation.gov.uk/nia/2016/18/schedule/8/paragraph/2) (with [ss. 285-287](https://www.legislation.gov.uk/nia/2016/18/section/285)); [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), art. 2)
+[^c-cc2ad6636bc424a0b09cb61820225299]: Textual amendment: Art. 2 cross-heading inserted (2.12.2019) by [Mental Capacity Act (Northern Ireland) 2016 (c. 18)](https://www.legislation.gov.uk/nia/2016/18), [s. 307(2)](https://www.legislation.gov.uk/nia/2016/18/section/307/2), [Sch. 8 para. 2](https://www.legislation.gov.uk/nia/2016/18/schedule/8/paragraph/2) (with [ss. 285-287](https://www.legislation.gov.uk/nia/2016/18/section/285)); [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), art. 2)
 
-[^key-74d6f6aa0693198d85f1782be11261d0]: Textual amendment: [Arts. 3A-3D](https://www.legislation.gov.uk/nisi/1986/595/article/3A) and cross-heading inserted (2.12.2019 for specified purposes) (but omit until "In-patients under 16: duties of hospital managers") by [Mental Capacity Act (Northern Ireland) 2016 (c. 18)](https://www.legislation.gov.uk/nia/2016/18), [s. 307(2)](https://www.legislation.gov.uk/nia/2016/18/section/307/2), [Sch. 8 para. 4](https://www.legislation.gov.uk/nia/2016/18/schedule/8/paragraph/4) (with [ss. 285-287](https://www.legislation.gov.uk/nia/2016/18/section/285)); [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3), [4](https://www.legislation.gov.uk/nisr/2019/163/article/4)) (as amended by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), art. 2)
+[^c-74d6f6aa0693198d85f1782be11261d0]: Textual amendment: [Arts. 3A-3D](https://www.legislation.gov.uk/nisi/1986/595/article/3A) and cross-heading inserted (2.12.2019 for specified purposes) (but omit until "In-patients under 16: duties of hospital managers") by [Mental Capacity Act (Northern Ireland) 2016 (c. 18)](https://www.legislation.gov.uk/nia/2016/18), [s. 307(2)](https://www.legislation.gov.uk/nia/2016/18/section/307/2), [Sch. 8 para. 4](https://www.legislation.gov.uk/nia/2016/18/schedule/8/paragraph/4) (with [ss. 285-287](https://www.legislation.gov.uk/nia/2016/18/section/285)); [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3), [4](https://www.legislation.gov.uk/nisr/2019/163/article/4)) (as amended by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), art. 2)
 
-[^key-317c38dd44c2394019958227add9c7bf]: Modification: Pt. 2 modified (temp.) (2.4.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(2)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/2), [Sch. 10 para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2020/7/schedule/10/paragraph/3/2/a) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88), [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2020/7/schedule/10/paragraph/2)); [S.R. 2020/58](https://www.legislation.gov.uk/nisr/2020/58), [art. 2(c)](https://www.legislation.gov.uk/nisr/2020/58/article/2/c)
+[^c-317c38dd44c2394019958227add9c7bf]: Modification: Pt. 2 modified (temp.) (2.4.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(2)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/2), [Sch. 10 para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2020/7/schedule/10/paragraph/3/2/a) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88), [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2020/7/schedule/10/paragraph/2)); [S.R. 2020/58](https://www.legislation.gov.uk/nisr/2020/58), [art. 2(c)](https://www.legislation.gov.uk/nisr/2020/58/article/2/c)
 
-[^key-42056f7475fc7e2edadb439c11c20616]: Modification: [Pt. II](https://www.legislation.gov.uk/nisi/1986/595/part/II) expiry of earlier affecting provision 2020 c. 7, Sch. 10 paras. 3-13 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-42056f7475fc7e2edadb439c11c20616]: Modification: [Pt. II](https://www.legislation.gov.uk/nisi/1986/595/part/II) expiry of earlier affecting provision 2020 c. 7, Sch. 10 paras. 3-13 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
 
-[^key-d4cd140e7c6c670048d9d5b4177d39cd]: Modification: [Pt. IV](https://www.legislation.gov.uk/nisi/1986/595/part/IV) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(4)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/4), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
+[^c-d4cd140e7c6c670048d9d5b4177d39cd]: Modification: [Pt. IV](https://www.legislation.gov.uk/nisi/1986/595/part/IV) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(4)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/4), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
 
-[^key-a8513dad76ae58b0d37aabaf6a0f0d30]: Modification: [Pt. IV](https://www.legislation.gov.uk/nisi/1986/595/part/IV) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(4)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/4), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
+[^c-a8513dad76ae58b0d37aabaf6a0f0d30]: Modification: [Pt. IV](https://www.legislation.gov.uk/nisi/1986/595/part/IV) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(4)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/4), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
 
-[^key-3feda4ac42ce7504c17e4c23aba2148f]: Textual amendment: [Pt. V](https://www.legislation.gov.uk/nisi/1986/595/part/V) heading substituted (2.12.2019) by [Mental Capacity Act (Northern Ireland) 2016 (c. 18)](https://www.legislation.gov.uk/nia/2016/18), [s. 307(2)](https://www.legislation.gov.uk/nia/2016/18/section/307/2), [Sch. 8 para. 38](https://www.legislation.gov.uk/nia/2016/18/schedule/8/paragraph/38) (with [ss. 285-287](https://www.legislation.gov.uk/nia/2016/18/section/285)); [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), art. 2)
+[^c-3feda4ac42ce7504c17e4c23aba2148f]: Textual amendment: [Pt. V](https://www.legislation.gov.uk/nisi/1986/595/part/V) heading substituted (2.12.2019) by [Mental Capacity Act (Northern Ireland) 2016 (c. 18)](https://www.legislation.gov.uk/nia/2016/18), [s. 307(2)](https://www.legislation.gov.uk/nia/2016/18/section/307/2), [Sch. 8 para. 38](https://www.legislation.gov.uk/nia/2016/18/schedule/8/paragraph/38) (with [ss. 285-287](https://www.legislation.gov.uk/nia/2016/18/section/285)); [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), art. 2)
 
-[^key-ee670ab25a6dcf47a46ab49bb789aca1]: Textual amendment: Words in [Pt. 9](https://www.legislation.gov.uk/nisi/1986/595/part/IX) heading substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 88](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/88); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-ee670ab25a6dcf47a46ab49bb789aca1]: Textual amendment: Words in [Pt. 9](https://www.legislation.gov.uk/nisi/1986/595/part/IX) heading substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 88](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/88); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)

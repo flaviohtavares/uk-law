@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-6b2e3b6117ddac203e03f943e6caca03] Subject to any exemption under this Act, it is an offence for a person to have in his possession, or to purchase or acquire, a shot gun without holding a certificate under this Act authorising him to possess shot guns.
+(1)[^c-6b2e3b6117ddac203e03f943e6caca03] Subject to any exemption under this Act, it is an offence for a person to have in his possession, or to purchase or acquire, a shot gun without holding a certificate under this Act authorising him to possess shot guns.
 
 (2) It is an offence for a person to fail to comply with a condition subject to which a shot gun certificate is held by him.
 
 ## Annotations
 
-[^key-6b2e3b6117ddac203e03f943e6caca03]: Modification: S. 2(1) excluded (22.3.2021) by [The Policing and Crime Act 2017 (Commencement No. 11 and Transitional Provisions) Regulations 2021 (S.I. 2021/282)](https://www.legislation.gov.uk/uksi/2021/282), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/282/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2021/282/regulation/3), [4](https://www.legislation.gov.uk/uksi/2021/282/regulation/4)
+[^c-6b2e3b6117ddac203e03f943e6caca03]: Modification: S. 2(1) excluded (22.3.2021) by [The Policing and Crime Act 2017 (Commencement No. 11 and Transitional Provisions) Regulations 2021 (S.I. 2021/282)](https://www.legislation.gov.uk/uksi/2021/282), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/282/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2021/282/regulation/3), [4](https://www.legislation.gov.uk/uksi/2021/282/regulation/4)

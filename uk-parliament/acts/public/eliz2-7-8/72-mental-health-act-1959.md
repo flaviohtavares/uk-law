@@ -51,11 +51,11 @@ An Act to repeal the Lunacy and Mental Treatment Acts 1890 to 1930, and the Ment
 
 (1)[^c1543674] For the purposes of subsection (8) of section twenty-one of the [^c1543675] National Assistance Act 1948 (which restricts the duties of local authorities in respect of the provision of accommodation under that section by reference to the provision authorised or required to be made under other enactments) no account shall be taken of the provision authorised or required to be made by local social services authorities[^c1543676] under paragraph 2 of Schedule 8 to the[^c1543677] [^c1543678] National Health Service Act 1977 , with respect to residential accommodation for persons who are or have been suffering from mental disorder.
 
-(2) The persons referred to in subsection (1) of section twenty-nine of the said Act of 1948 (which section enables local authorities to make arrangements for promoting the welfare of blind persons and other disabled persons described in the said subsection (1)) shall include mentally disordered persons of any description; and[^c1543679] for the purposes of subsection (6) of that section (which, among other things, excludes from that section the provision of accommodation or services required to be provided under the [^c1543680]National Health Service Act 1946), no account shall be taken of the provisions of Schedule 20 to the National Health Service Act 2006 or Schedule 15 to the National Health Service (Wales) Act 2006[^key-be4ca6708414314c76910a346f46a8fb], with respect to the provision of accommodation or services for such persons.
+(2) The persons referred to in subsection (1) of section twenty-nine of the said Act of 1948 (which section enables local authorities to make arrangements for promoting the welfare of blind persons and other disabled persons described in the said subsection (1)) shall include mentally disordered persons of any description; and[^c1543679] for the purposes of subsection (6) of that section (which, among other things, excludes from that section the provision of accommodation or services required to be provided under the [^c1543680]National Health Service Act 1946), no account shall be taken of the provisions of Schedule 20 to the National Health Service Act 2006 or Schedule 15 to the National Health Service (Wales) Act 2006[^c-be4ca6708414314c76910a346f46a8fb], with respect to the provision of accommodation or services for such persons.
 
 (3)[^c1543684] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) Nothing in this section shall be construed as requiring a local authority to make provision for the same purposes both under . . . [^c1543685] Part III of the [^c1543686]National Assistance Act 1948 and under[^c1543687] Schedule 20 to the National Health Service Act 2006 or Schedule 15 to the National Health Service (Wales) Act 2006[^key-1950f6550809d75eaae899e3a99bbcbb].
+(4) Nothing in this section shall be construed as requiring a local authority to make provision for the same purposes both under . . . [^c1543685] Part III of the [^c1543686]National Assistance Act 1948 and under[^c1543687] Schedule 20 to the National Health Service Act 2006 or Schedule 15 to the National Health Service (Wales) Act 2006[^c-1950f6550809d75eaae899e3a99bbcbb].
 
 #### 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c1543706]
 
@@ -161,11 +161,11 @@ An Act to repeal the Lunacy and Mental Treatment Acts 1890 to 1930, and the Ment
 
 #### 125, 126. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c1543742]
 
-#### 127. Amendment of Sexual Offences Act, 1956.[^key-a5a60285b2770d34d733627f60e34cf5]
+#### 127. Amendment of Sexual Offences Act, 1956.[^c-a5a60285b2770d34d733627f60e34cf5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 128. Sexual intercourse with patients.[^key-bc7f8518256101bbd76b32022630a855]
+#### 128. Sexual intercourse with patients.[^c-bc7f8518256101bbd76b32022630a855]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -205,9 +205,9 @@ An Act to repeal the Lunacy and Mental Treatment Acts 1890 to 1930, and the Ment
 
 (1) Where the Minister is of opinion, on complaint or otherwise, that a local social services authority[^c1543772] have failed to carry out functions conferred or imposed on the authority by or under this Act or have in carrying out those functions failed to comply with any regulations relating thereto, he may after such inquiry as he thinks fit make an order declaring the authority to be in default.
 
-(2) Section 68(4) of the National Health Service Act 2006, and section 28(4) of the National Health Service (Wales) Act 2006 (which relate[^key-a7fe87b236f4c53928b4cd4266c51b1c] to orders declaring, among others, a local authority to be in default under that Act) shall apply in relation to an order under this section as they apply in relation to an order under that section.
+(2) Section 68(4) of the National Health Service Act 2006, and section 28(4) of the National Health Service (Wales) Act 2006 (which relate[^c-a7fe87b236f4c53928b4cd4266c51b1c] to orders declaring, among others, a local authority to be in default under that Act) shall apply in relation to an order under this section as they apply in relation to an order under that section.
 
-#### 143. Inquiries.[^key-c8ada9c57eac2a1de74b642702330e01]
+#### 143. Inquiries.[^c-c8ada9c57eac2a1de74b642702330e01]
 
 *Extent: E+W*
 
@@ -229,7 +229,7 @@ An Act to repeal the Lunacy and Mental Treatment Acts 1890 to 1930, and the Ment
 
 *Extent: E+W+S*
 
-(1) Any power of the Minister [^key-6dabc5aea34a48b368df523d421c3ead]... to make regulations, orders or rules under this Act shall be exercisable by statutory instrument.
+(1) Any power of the Minister [^c-6dabc5aea34a48b368df523d421c3ead]... to make regulations, orders or rules under this Act shall be exercisable by statutory instrument.
 
 (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c1543780]
 
@@ -284,7 +284,7 @@ but except as aforesaid, and except so far as it relates to the interpretation o
 
 (1) This Act may be cited as the Mental Health Act 1959.
 
-(2)[^c1543792] Section 278(4) of the National Health Service Act 2006 (which provides for the application[^key-5e976652b057cfa1dffa69c352d34117] of that Act to the Isles of Scilly) shall have effect as if the references to that Act included references to this Act.
+(2)[^c1543792] Section 278(4) of the National Health Service Act 2006 (which provides for the application[^c-5e976652b057cfa1dffa69c352d34117] of that Act to the Isles of Scilly) shall have effect as if the references to that Act included references to this Act.
 
 SCHEDULES
 
@@ -352,11 +352,11 @@ Sections 149, 150, 152.
 
 | Enactment | Amendment |
 | --- | --- |
-| [^key-8cf465db5255a8cf94344548595a4b83]. . . | [^key-8cf465db5255a8cf94344548595a4b83]. . . |
+| [^c-8cf465db5255a8cf94344548595a4b83]. . . | [^c-8cf465db5255a8cf94344548595a4b83]. . . |
 |  | . . . [^c1543810] |
 |  | . . . [^c1543811] |
 | . . . [^c1543812] | . . . [^c1543812] |
-| [^key-8cf465db5255a8cf94344548595a4b83]. . . | [^key-8cf465db5255a8cf94344548595a4b83]. . . |
+| [^c-8cf465db5255a8cf94344548595a4b83]. . . | [^c-8cf465db5255a8cf94344548595a4b83]. . . |
 | . . . [^c1543814] | . . . [^c1543814] |
 | The Colonial Prisoners Removal Act, 1884, 47 & 48 Vict. c. 31. | In section ten, after subsection (2), there shall be added the following subsection—<br>> (3) Without prejudice to the foregoing provisions of this section, where a criminal lunatic is removed to England and Wales, then—<br>><br>> - (a) except where he is a criminal lunatic by virtue of having been convicted of an offence and afterwards certified or otherwise lawfully proved to be insane, the Secretary of State may give the like direction in respect of him under section seventy-one of the Mental Health Act, 1959, as may be given in the case of a person to whom that section applies;<br>> - (b) in the said excepted case, the Secretary of State may give the like direction in respect of him under section seventy-two of that Act (with or without a direction under section seventy-four thereof) as may be given in the case of a person serving a sentence of imprisonment with respect to whom the Secretary of State is satisfied as mentioned in subsection (1) of that section |
 
@@ -373,22 +373,22 @@ Sections 149, 150, 152.
 
 | Enactment | Amendment |
 | --- | --- |
-|  | [^key-8cf465db5255a8cf94344548595a4b83]. . . |
+|  | [^c-8cf465db5255a8cf94344548595a4b83]. . . |
 | The Law of Property Act, 1925, 15 & 16 Geo. 5. c. 20. | The following section shall be substituted for section twenty-two—<br>> **22. Conveyances on behalf of persons suffering from mental disorder and as to land held by them on trust for sale.**<br>><br>> (1) Where a legal estate in land (whether settled or not) is vested in a person suffering from mental disorder, either solely or jointly with any other person or persons, his receiver or (if no receiver is acting for him) any person authorised in that behalf shall, under an order of the authority having jurisdiction under Part VIII of the Mental Health Act, 1959, or of the court, or under any Statutory power, make or concur in making all requisite dispositions for conveying or creating a legal estate in his name and on his behalf.<br>><br>> (2) If land held on trust for sale is vested, either solely or jointly with any other person or persons, in a person who is incapable, by reason of mental disorder, of excercising his functions as trustee, a new trustee shall be appointed in the place of that person, or he shall be otherwise discharged from the trust, before the legal estate is dealt with under the trust for sale or under the powers vested in the trustees for sale. |
 
 | Enactment | Amendment |
 | --- | --- |
 |  | ... [^c1543875] |
 |  | ... [^c1543876] |
-|  | [^key-8cf465db5255a8cf94344548595a4b83]. . . |
+|  | [^c-8cf465db5255a8cf94344548595a4b83]. . . |
 
 | Enactment | Amendment |
 | --- | --- |
-| [^key-46fb3a1f6a066b90f51f3434185584c1]. . . | [^key-46fb3a1f6a066b90f51f3434185584c1]. . . |
+| [^c-46fb3a1f6a066b90f51f3434185584c1]. . . | [^c-46fb3a1f6a066b90f51f3434185584c1]. . . |
 | The Administration of Estates Act, 1925, 15 & 16 Geo. 5. c.23. | In section forty-one, in subsection (1), in paragaph (ii) of the proviso, for the words “a lunatic or defective” there shall be substituted the words “is incapable, by reason of mental disorder within the meaning of the Mental Health Act, 1959, of managing and administering his property and affairs” and the word “committee” shall be omitted, and in paragraph (iv) of the proviso, for the words from “committee” to “appointed” there shall be substituted the words “receiver is acting for a person suffering from mental disorder”, and for the words “lunatic or defective” in the second place where they occur there shall be substituted the words “said person”. |
 | . . . [^c1543818] | . . . [^c1543818] |
-| [^key-3ac5cec39af3e3843bcb4045408f98f1]. . . | [^key-3ac5cec39af3e3843bcb4045408f98f1]. . . |
-|  | [^key-3ac5cec39af3e3843bcb4045408f98f1]. . . |
+| [^c-3ac5cec39af3e3843bcb4045408f98f1]. . . | [^c-3ac5cec39af3e3843bcb4045408f98f1]. . . |
+|  | [^c-3ac5cec39af3e3843bcb4045408f98f1]. . . |
 | . . . [^c1543820] | . . . [^c1543820] |
 | . . . [^c1543822] | . . . [^c1543822] |
 | . . . [^c1543824] | . . . [^c1543824] |
@@ -397,7 +397,7 @@ Sections 149, 150, 152.
 | . . . [^c1543828] | . . . [^c1543828] |
 | . . . [^c1543829] | . . . [^c1543829] |
 | . . . [^c1543830] | . . . [^c1543830] |
-| [^key-8cf465db5255a8cf94344548595a4b83]. . . | [^key-8cf465db5255a8cf94344548595a4b83]. . . |
+| [^c-8cf465db5255a8cf94344548595a4b83]. . . | [^c-8cf465db5255a8cf94344548595a4b83]. . . |
 | . . . [^c1543832] | . . . [^c1543832] |
 | . . . [^c1543834] | . . . [^c1543834] |
 | . . . [^c1543836] | . . . [^c1543836] |
@@ -410,8 +410,8 @@ Sections 149, 150, 152.
 | The Sexual Offences Act,1956, 4 & 5 Eliz. 2. c. 69. | In the Second Schedule, in paragraph 1, in the fourth column, for the words “an idiot or imbecile” there shall be substituted the words “a defective”; in paragraph 11 in the first column, for the words “idiot or imbeclie” there shall be substituted the word “defective”; and in paragraph 14, in the fourth column, for the words “an idiot or imbecile” there shall be substituted the words “a defective”. |
 | . . . [^c1543850] | . . . [^c1543850] |
 | . . . [^c1543852] | . . . [^c1543852] |
-| [^key-8cf465db5255a8cf94344548595a4b83]. . . | [^key-8cf465db5255a8cf94344548595a4b83]. . . |
-| [^key-3ac5cec39af3e3843bcb4045408f98f1]. . . | [^key-3ac5cec39af3e3843bcb4045408f98f1]. . . |
+| [^c-8cf465db5255a8cf94344548595a4b83]. . . | [^c-8cf465db5255a8cf94344548595a4b83]. . . |
+| [^c-3ac5cec39af3e3843bcb4045408f98f1]. . . | [^c-3ac5cec39af3e3843bcb4045408f98f1]. . . |
 
 ### PART II — OTHER AMENDMENTS
 
@@ -427,7 +427,7 @@ Sections 149, 150, 152.
 | . . . [^c1543868] | . . . [^c1543868] |
 | . . . [^c1543854] | . . . [^c1543854] |
 | . . . [^c1543872] | . . . [^c1543872] |
-| [^key-3ac5cec39af3e3843bcb4045408f98f1]. . . | [^key-3ac5cec39af3e3843bcb4045408f98f1]. . . |
+| [^c-3ac5cec39af3e3843bcb4045408f98f1]. . . | [^c-3ac5cec39af3e3843bcb4045408f98f1]. . . |
 
 ## EIGHTH SCHEDULE[^c1543874][^c1543874]
 
@@ -461,7 +461,7 @@ Sections 149, 150, 152.
 
 [^c1543680]: Marginal citation: [1946 c. 81](https://www.legislation.gov.uk/ukpga/1946/81).
 
-[^key-be4ca6708414314c76910a346f46a8fb]: Textual amendment: Words in s. 8(2) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 23(a)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/23/a) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+[^c-be4ca6708414314c76910a346f46a8fb]: Textual amendment: Words in s. 8(2) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 23(a)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/23/a) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
 
 [^c1543684]: Textual amendment: S. 8(3) repealed (1.9.1992) by [Charities Act 1992 (c. 41)](https://www.legislation.gov.uk/ukpga/1992/41), [s. 78(2)](https://www.legislation.gov.uk/ukpga/1992/41/section/78/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/1992/41/schedule/7); [S.I. 1992/1900](https://www.legislation.gov.uk/uksi/1992/1900), [art. 2(1)](https://www.legislation.gov.uk/uksi/1992/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1992/1900/schedule/1)
 
@@ -471,7 +471,7 @@ Sections 149, 150, 152.
 
 [^c1543687]: Textual amendment: Words added by [National Health Service Act 1977 (c. 49)](https://www.legislation.gov.uk/ukpga/1977/49), [s. 129](https://www.legislation.gov.uk/ukpga/1977/49/section/129), [Sch. 15 para. 24(3)](https://www.legislation.gov.uk/ukpga/1977/49/schedule/15/paragraph/24/3)
 
-[^key-1950f6550809d75eaae899e3a99bbcbb]: Textual amendment: Words in s. 8(4) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 23(b)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/23/b) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+[^c-1950f6550809d75eaae899e3a99bbcbb]: Textual amendment: Words in s. 8(4) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 23(b)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/23/b) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
 
 [^c1543706]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/9) repealed (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108(7)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/7), [Sch.15](https://www.legislation.gov.uk/ukpga/1989/41/schedule/15) (with Sch. 14 paras. 1(1) and 27(4)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
@@ -547,9 +547,9 @@ Sections 149, 150, 152.
 
 [^c1543742]: Textual amendment: [Ss. 1–5](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/1), [10](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/10), [22](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/22), [25–35](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/25), [37–43](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/37), [45–60](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/45), [62–68](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/62), [70–76](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/70), [80](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/80), [81](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/81), [89](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/89), [90](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/90), [92–96](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/92), [99–119](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/99), [121–126](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/121), [129](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/129), [130](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/130), [132](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/132), [133](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/133), [135–141](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/135), [144(1)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/144/1)(*b*), 145(2), 147, 148, 149(3)–(5), 153, Schs. 1, 3, 5, Sch. 7 Pt. I entry relating to: ss. 48 and 49 of the [Fines and Recoveries Act 1983 (c. 74, SIF 98:3)](https://www.legislation.gov.uk/ukpga/1983/74), [Sch. 7 Part II](https://www.legislation.gov.uk/ukpga/1983/74/schedule/7) entries relating to: [Polish Resettlement Act 1947 (c. 19)](https://www.legislation.gov.uk/ukpga/1947/19), U.S.A. [Veterans' Pensions (Administration) Act 1949 (c. 45)](https://www.legislation.gov.uk/ukpga/1949/45) repealed by [Mental Health Act 1983 (c. 20, SIF 85)](https://www.legislation.gov.uk/ukpga/1983/20), [Sch. 6](https://www.legislation.gov.uk/ukpga/1983/20/schedule/6)
 
-[^key-a5a60285b2770d34d733627f60e34cf5]: Textual amendment: S. 127 repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/13), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
+[^c-a5a60285b2770d34d733627f60e34cf5]: Textual amendment: S. 127 repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/13), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
 
-[^key-bc7f8518256101bbd76b32022630a855]: Textual amendment: [S. 128](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/128) repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/13), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
+[^c-bc7f8518256101bbd76b32022630a855]: Textual amendment: [S. 128](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/128) repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/13), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
 
 [^c1543765]: Textual amendment: [Ss. 1–5](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/1), [10](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/10), [22](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/22), [25–35](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/25), [37–43](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/37), [45–60](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/45), [62–68](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/62), [70–76](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/70), [80](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/80), [81](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/81), [89](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/89), [90](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/90), [92–96](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/92), [99–119](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/99), [121–126](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/121), [129](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/129), [130](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/130), [132](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/132), [133](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/133), [135–141](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/135), [144(1)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/144/1)(*b*), 145(2), 147, 148, 149(3)–(5), 153, Schs. 1, 3, 5, Sch. 7 Pt. I entry relating to: ss. 48 and 49 of the [Fines and Recoveries Act 1983 (c. 74, SIF 98:3)](https://www.legislation.gov.uk/ukpga/1983/74), [Sch. 7 Part II](https://www.legislation.gov.uk/ukpga/1983/74/schedule/7) entries relating to: [Polish Resettlement Act 1947 (c. 19)](https://www.legislation.gov.uk/ukpga/1947/19), U.S.A. [Veterans' Pensions (Administration) Act 1949 (c. 45)](https://www.legislation.gov.uk/ukpga/1949/45) repealed by [Mental Health Act 1983 (c. 20, SIF 85)](https://www.legislation.gov.uk/ukpga/1983/20), [Sch. 6](https://www.legislation.gov.uk/ukpga/1983/20/schedule/6)
 
@@ -567,15 +567,15 @@ Sections 149, 150, 152.
 
 [^c1543772]: Textual amendment: Words substituted by [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 23 para. 9(2)](https://www.legislation.gov.uk/ukpga/1972/70/schedule/23/paragraph/9/2)
 
-[^key-a7fe87b236f4c53928b4cd4266c51b1c]: Textual amendment: Words in [s. 142(2)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/142/2) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/24) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+[^c-a7fe87b236f4c53928b4cd4266c51b1c]: Textual amendment: Words in [s. 142(2)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/142/2) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/24) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
 
-[^key-c8ada9c57eac2a1de74b642702330e01]: Textual amendment: S. 143 repealed (7.6.2005) by [Inquiries Act 2005 (c. 12)](https://www.legislation.gov.uk/ukpga/2005/12), [s. 51(1)](https://www.legislation.gov.uk/ukpga/2005/12/section/51/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2005/12/schedule/2/paragraph/5), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/12/schedule/3) (with [ss. 44](https://www.legislation.gov.uk/ukpga/2005/12/section/44), [50](https://www.legislation.gov.uk/ukpga/2005/12/section/50)); [S.I. 2005/1432](https://www.legislation.gov.uk/uksi/2005/1432), [art. 2](https://www.legislation.gov.uk/uksi/2005/1432/article/2)
+[^c-c8ada9c57eac2a1de74b642702330e01]: Textual amendment: S. 143 repealed (7.6.2005) by [Inquiries Act 2005 (c. 12)](https://www.legislation.gov.uk/ukpga/2005/12), [s. 51(1)](https://www.legislation.gov.uk/ukpga/2005/12/section/51/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2005/12/schedule/2/paragraph/5), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/12/schedule/3) (with [ss. 44](https://www.legislation.gov.uk/ukpga/2005/12/section/44), [50](https://www.legislation.gov.uk/ukpga/2005/12/section/50)); [S.I. 2005/1432](https://www.legislation.gov.uk/uksi/2005/1432), [art. 2](https://www.legislation.gov.uk/uksi/2005/1432/article/2)
 
 [^c1543778]: Textual amendment: [Ss. 1–5](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/1), [10](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/10), [22](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/22), [25–35](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/25), [37–43](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/37), [45–60](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/45), [62–68](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/62), [70–76](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/70), [80](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/80), [81](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/81), [89](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/89), [90](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/90), [92–96](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/92), [99–119](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/99), [121–126](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/121), [129](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/129), [130](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/130), [132](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/132), [133](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/133), [135–141](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/135), [144(1)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/144/1)(*b*), 145(2), 147, 148, 149(3)–(5), 153, Schs. 1, 3, 5, Sch. 7 Pt. I entry relating to: ss. 48 and 49 of the [Fines and Recoveries Act 1983 (c. 74, SIF 98:3)](https://www.legislation.gov.uk/ukpga/1983/74), [Sch. 7 Part II](https://www.legislation.gov.uk/ukpga/1983/74/schedule/7) entries relating to: [Polish Resettlement Act 1947 (c. 19)](https://www.legislation.gov.uk/ukpga/1947/19), U.S.A. [Veterans' Pensions (Administration) Act 1949 (c. 45)](https://www.legislation.gov.uk/ukpga/1949/45) repealed by [Mental Health Act 1983 (c. 20, SIF 85)](https://www.legislation.gov.uk/ukpga/1983/20), [Sch. 6](https://www.legislation.gov.uk/ukpga/1983/20/schedule/6)
 
 [^c1543779]: Textual amendment: [Ss. 44](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/44), [77](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/77), [78](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/78), [131(2)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/131/2), [134](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/134), [144(2)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/144/2), [146](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/146), [Sch. 7 Part II](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/schedule/7) entry relating to: [Representation of the People Act 1949 (c. 68)](https://www.legislation.gov.uk/ukpga/1949/68) repealed by [Mental Health (Amendment) Act 1982 (c. 51, SIF 85)](https://www.legislation.gov.uk/ukpga/1982/51), [Sch. 4 Pt. I](https://www.legislation.gov.uk/ukpga/1982/51/schedule/4/part/I)
 
-[^key-6dabc5aea34a48b368df523d421c3ead]: Textual amendment: Words in s. 145 repealed (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 51](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/51), [Sch. 18 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/4/schedule/18/part/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 paras. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e), [30(b)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/30/b)
+[^c-6dabc5aea34a48b368df523d421c3ead]: Textual amendment: Words in s. 145 repealed (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 51](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/51), [Sch. 18 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/4/schedule/18/part/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 paras. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e), [30(b)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/30/b)
 
 [^c1543780]: Textual amendment: Ss. 1–5, 10, 22, 25–35, 37–43, 45–60, 62–68, 70–76, 80, 81, 89, 90, 92–96, 99–119, 121–126, 129, 130, 132, 133, 135–141, 144(1)(*b*), 145(2), 147, 148, 149(3)–(5), 153, Schs. 1, 3, 5, Sch. 7 Pt. I entry relating to: ss. 48 and 49 of the [Fines and Recoveries Act 1983 (c. 74, SIF 98:3)](https://www.legislation.gov.uk/ukpga/1983/74), [Sch. 7 Part II](https://www.legislation.gov.uk/ukpga/1983/74/schedule/7) entries relating to: [Polish Resettlement Act 1947 (c. 19)](https://www.legislation.gov.uk/ukpga/1947/19), U.S.A. [Veterans' Pensions (Administration) Act 1949 (c. 45)](https://www.legislation.gov.uk/ukpga/1949/45) repealed by [Mental Health Act 1983 (c. 20, SIF 85)](https://www.legislation.gov.uk/ukpga/1983/20), [Sch. 6](https://www.legislation.gov.uk/ukpga/1983/20/schedule/6)
 
@@ -601,7 +601,7 @@ Sections 149, 150, 152.
 
 [^c1543792]: Modification: S. 154(2) extended by [Mental Health (Amendment) Act 1975 (c. 29)](https://www.legislation.gov.uk/ukpga/1975/29), [s. 2(4)](https://www.legislation.gov.uk/ukpga/1975/29/section/2/4)
 
-[^key-5e976652b057cfa1dffa69c352d34117]: Textual amendment: Words in [s. 154(2)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/154/2) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/25) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+[^c-5e976652b057cfa1dffa69c352d34117]: Textual amendment: Words in [s. 154(2)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/154/2) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/25) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
 
 [^c1543795]: Textual amendment: [Ss. 1–5](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/1), [10](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/10), [22](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/22), [25–35](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/25), [37–43](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/37), [45–60](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/45), [62–68](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/62), [70–76](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/70), [80](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/80), [81](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/81), [89](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/89), [90](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/90), [92–96](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/92), [99–119](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/99), [121–126](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/121), [129](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/129), [130](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/130), [132](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/132), [133](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/133), [135–141](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/135), [144(1)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/section/144/1)(*b*), 145(2), 147, 148, 149(3)–(5), 153, Schs. 1, 3, 5, Sch. 7 Pt. I entry relating to: ss. 48 and 49 of the [Fines and Recoveries Act 1983 (c. 74, SIF 98:3)](https://www.legislation.gov.uk/ukpga/1983/74), [Sch. 7 Part II](https://www.legislation.gov.uk/ukpga/1983/74/schedule/7) entries relating to: [Polish Resettlement Act 1947 (c. 19)](https://www.legislation.gov.uk/ukpga/1947/19), U.S.A. [Veterans' Pensions (Administration) Act 1949 (c. 45)](https://www.legislation.gov.uk/ukpga/1949/45) repealed by [Mental Health Act 1983 (c. 20, SIF 85)](https://www.legislation.gov.uk/ukpga/1983/20), [Sch. 6](https://www.legislation.gov.uk/ukpga/1983/20/schedule/6)
 
@@ -631,7 +631,7 @@ Sections 149, 150, 152.
 
 [^c1543809]: Modification: The text of Sch. 7 Pts. I and II is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and, except as specified, does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-8cf465db5255a8cf94344548595a4b83]: Textual amendment: Sch. 7 Pt. 1 entries repealed (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/9/schedule/7) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
+[^c-8cf465db5255a8cf94344548595a4b83]: Textual amendment: Sch. 7 Pt. 1 entries repealed (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/9/schedule/7) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
 
 [^c1543810]: Textual amendment: Ss. 1–5, 10, 22, 25–35, 37–43, 45–60, 62–68, 70–76, 80, 81, 89, 90, 92–96, 99–119, 121–126, 129, 130, 132, 133, 135–141, 144(1)(*b*), 145(2), 147, 148, 149(3)–(5), 153, Schs. 1, 3, 5, Sch. 7 Pt. I entry relating to: ss. 48 and 49 of the [Fines and Recoveries Act 1983 (c. 74, SIF 98:3)](https://www.legislation.gov.uk/ukpga/1983/74), [Sch. 7 Part II](https://www.legislation.gov.uk/ukpga/1983/74/schedule/7) entries relating to: [Polish Resettlement Act 1947 (c. 19)](https://www.legislation.gov.uk/ukpga/1947/19), U.S.A. [Veterans' Pensions (Administration) Act 1949 (c. 45)](https://www.legislation.gov.uk/ukpga/1949/45) repealed by [Mental Health Act 1983 (c. 20, SIF 85)](https://www.legislation.gov.uk/ukpga/1983/20), [Sch. 6](https://www.legislation.gov.uk/ukpga/1983/20/schedule/6)
 
@@ -647,11 +647,11 @@ Sections 149, 150, 152.
 
 [^c1543876]: Textual amendment: Sch. 7 entry relating to the Law of Property Act 1925 repealed (1.1.1997) by [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47), [ss. 25(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/2), [sch. 4](https://www.legislation.gov.uk/ukpga/1996/47/schedule/4) (with [s. 24(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/24/2)); [S.I.1996/2974](https://www.legislation.gov.uk/uksi/1996/2974), [art. 2](https://www.legislation.gov.uk/uksi/1996/2974/article/2)
 
-[^key-46fb3a1f6a066b90f51f3434185584c1]: Textual amendment: Sch. 7 entry repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-46fb3a1f6a066b90f51f3434185584c1]: Textual amendment: Sch. 7 entry repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
 [^c1543818]: Textual amendment: Sch. 7 Pt. I entry relating to: [Supreme Court of Judicature (Consolidation) Act 1925 (c. 49)](https://www.legislation.gov.uk/ukpga/1925/49) repealed by [Supreme Court Act 1981 (c. 54, SIF 37)](https://www.legislation.gov.uk/ukpga/1981/54), [Sch. 7](https://www.legislation.gov.uk/ukpga/1981/54/schedule/7)
 
-[^key-3ac5cec39af3e3843bcb4045408f98f1]: Textual amendment: Sch. 7 entry repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 8
+[^c-3ac5cec39af3e3843bcb4045408f98f1]: Textual amendment: Sch. 7 entry repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 8
 
 [^c1543820]: Textual amendment: Sch. 7 entry relating to the Public Health Act 1936 repealed with (saving) by [Nursing Homes Act 1975 (c. 37)](https://www.legislation.gov.uk/ukpga/1975/37), [s. 22(2)(3)](https://www.legislation.gov.uk/ukpga/1975/37/section/22/2/3), [Sch. 2 paras. 3](https://www.legislation.gov.uk/ukpga/1975/37/schedule/2/paragraph/3), [5](https://www.legislation.gov.uk/ukpga/1975/37/schedule/2/paragraph/5), [Sch. 3](https://www.legislation.gov.uk/ukpga/1975/37/schedule/3)
 

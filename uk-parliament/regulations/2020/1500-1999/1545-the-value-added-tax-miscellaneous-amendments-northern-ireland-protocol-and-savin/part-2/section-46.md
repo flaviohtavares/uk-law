@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46.[^key-1613b8ed78812767632914a5c5f34aed]
+## 46.[^c-1613b8ed78812767632914a5c5f34aed]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In regulation 29(2) [^c24395151] (claims for input tax)—-
 
 ## Annotations
 
-[^key-1613b8ed78812767632914a5c5f34aed]: Commencement: Reg. 46 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-1613b8ed78812767632914a5c5f34aed]: Commencement: Reg. 46 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395151]: Marginal citation: Relevantly amended by [S.I. 2003/1114](https://www.legislation.gov.uk/uksi/2003/1114) and [S.I. 2019/59](https://www.legislation.gov.uk/uksi/2019/59). The amendment made by the latter S.I. is not in force and is omitted by this instrument.

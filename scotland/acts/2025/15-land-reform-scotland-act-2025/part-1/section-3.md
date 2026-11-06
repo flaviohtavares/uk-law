@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Modifications in connection with section 2[^key-6770d02ce373724a871f6060ade13647]
+## 3. Modifications in connection with section 2[^c-6770d02ce373724a871f6060ade13647]
 
 *Extent: S*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6770d02ce373724a871f6060ade13647]: Commencement: S. 3 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-6770d02ce373724a871f6060ade13647]: Commencement: S. 3 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

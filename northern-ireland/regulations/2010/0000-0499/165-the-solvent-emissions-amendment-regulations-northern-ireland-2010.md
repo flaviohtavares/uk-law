@@ -32,7 +32,7 @@ summary: ''
 
 Environmental Protection
 
-The Solvent Emissions (Amendment) Regulations (Northern Ireland) 2010 (revoked)[^key-e9259a0faf0accbec83c69cec10396b4]
+The Solvent Emissions (Amendment) Regulations (Northern Ireland) 2010 (revoked)[^c-e9259a0faf0accbec83c69cec10396b4]
 
 Made
 
@@ -42,30 +42,30 @@ Coming into operation
 
 1st June 2010
 
-[^key-e9259a0faf0accbec83c69cec10396b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e9259a0faf0accbec83c69cec10396b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-e9259a0faf0accbec83c69cec10396b4]
+## 1. Citation and Commencement[^c-e9259a0faf0accbec83c69cec10396b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Solvent Emissions Regulations (Northern Ireland) 2004[^key-e9259a0faf0accbec83c69cec10396b4]
+## 2. Amendment to the Solvent Emissions Regulations (Northern Ireland) 2004[^c-e9259a0faf0accbec83c69cec10396b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Pollution Prevention and Control Regulations (Northern Ireland) 2003[^key-e9259a0faf0accbec83c69cec10396b4]
+## 3. Amendments to the Pollution Prevention and Control Regulations (Northern Ireland) 2003[^c-e9259a0faf0accbec83c69cec10396b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments to the Solvent Emissions Regulations (Northern Ireland) 2004 and the Pollution Prevention and Control Regulations (Northern Ireland) 2003[^key-e9259a0faf0accbec83c69cec10396b4]
+## 4. Amendments to the Solvent Emissions Regulations (Northern Ireland) 2004 and the Pollution Prevention and Control Regulations (Northern Ireland) 2003[^c-e9259a0faf0accbec83c69cec10396b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e9259a0faf0accbec83c69cec10396b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e9259a0faf0accbec83c69cec10396b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e9259a0faf0accbec83c69cec10396b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e9259a0faf0accbec83c69cec10396b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e9259a0faf0accbec83c69cec10396b4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/165) revoked (7.1.2014) by [The Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013 (S.R. 2013/160)](https://www.legislation.gov.uk/nisr/2013/160), [Sch. 17](https://www.legislation.gov.uk/nisr/2013/160/schedule/17) (with [reg. 5](https://www.legislation.gov.uk/nisr/2013/160/regulation/5))
+[^c-e9259a0faf0accbec83c69cec10396b4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/165) revoked (7.1.2014) by [The Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013 (S.R. 2013/160)](https://www.legislation.gov.uk/nisr/2013/160), [Sch. 17](https://www.legislation.gov.uk/nisr/2013/160/schedule/17) (with [reg. 5](https://www.legislation.gov.uk/nisr/2013/160/regulation/5))

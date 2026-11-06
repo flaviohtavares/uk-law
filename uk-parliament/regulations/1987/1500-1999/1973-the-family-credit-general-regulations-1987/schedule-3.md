@@ -24,7 +24,7 @@ Regulation 29(2)
 
 **1.** The dwelling, together with any garage, garden and outbuildings, normally occupied by the claimant as his home including any premises not so occupied which it is impracticable or unreasonable to sell separately, in particular, in Scotland, any croft land on which the dwelling is situated; but, notwithstanding regulation 10 (calculation of income and capital of members of claimant's family and of a polygamous marriage), only one dwelling shall be disregarded under this paragraph.
 
-**1A.**[^key-6b45f03a2a4781df4b2530f24b5295ae] (1) The dwelling, together with any garden, garage and outbuildings, which the claimant intends in due course to occupy as his home but which he currently does not so occupy solely because he resides in living accommodation which is for him job-related.
+**1A.**[^c-6b45f03a2a4781df4b2530f24b5295ae] (1) The dwelling, together with any garden, garage and outbuildings, which the claimant intends in due course to occupy as his home but which he currently does not so occupy solely because he resides in living accommodation which is for him job-related.
 
 (2) Notwithstanding regulation 10, only one dwelling shall be disregarded under this paragraph.
 
@@ -61,9 +61,9 @@ The living accommodation is provided for the claimant or his partner under a con
 
 **4.** Any premises occupied in whole or in part by a partner or relative (that is to say any close relative, grandparent, grandchild, uncle, aunt, nephew or niece) of any member of the family as his home[^M_F_64f1c736-e7a1-49a5-f2c1-3b717c4b646b], where that person is aged 60 or over or has been incapacitated for a continuous period of at least 13 weeks immediately preceding the date of the claim.
 
-**5.**[^key-187d6e2d27e9e964c5b2bd5cc8752977] Any future interest in property of any kind, other than land or premises in respect of which the claimant has granted a subsisting lease or tenancy, including sub-leases or sub-tenancies.
+**5.**[^c-187d6e2d27e9e964c5b2bd5cc8752977] Any future interest in property of any kind, other than land or premises in respect of which the claimant has granted a subsisting lease or tenancy, including sub-leases or sub-tenancies.
 
-**6.**[^key-03416f9c2747bbfecd4c684b3d599457] (1)[^M_F_df9cadec-b761-40a4-ab85-416b3e5bb477] The assets of any business owned in whole or in part by the claimant and for the purposes of which he is engaged as a self-employed earner or, if he has ceased to be so engaged, for such period as may be reasonable in the circumstances to allow for disposal of any such asset.
+**6.**[^c-03416f9c2747bbfecd4c684b3d599457] (1)[^M_F_df9cadec-b761-40a4-ab85-416b3e5bb477] The assets of any business owned in whole or in part by the claimant and for the purposes of which he is engaged as a self-employed earner or, if he has ceased to be so engaged, for such period as may be reasonable in the circumstances to allow for disposal of any such asset.
 
 (2)[^M_F_5515a5bf-e740-42b3-a31d-7a2714b52645] The assets of any business owned in whole or in part by the claimant where—
 
@@ -81,7 +81,7 @@ for a period of 26 weeks from the date on which the claimant last ceased to be e
 **8.** Any arrears of, or any concessionary payment made to compensate for arrears due to non-payment of—
 
 - (a) any payment specified in paragraphs 4, 6 or 7 of Schedule 2;
-- (b) an income-related benefit or income-based jobseeker’s allowance,[^key-f00f8342bf3a045a26b57c2286ad7236] or supplementary benefit under the Supplementary Benefits Act 1976 [^c2181005], family income supplement under the Family Income Supplements Act 1970 [^c2181006] or housing benefit under Part II of the Social Security and Housing Benefits Act 1982 [^c2181007],
+- (b) an income-related benefit or income-based jobseeker’s allowance,[^c-f00f8342bf3a045a26b57c2286ad7236] or supplementary benefit under the Supplementary Benefits Act 1976 [^c2181005], family income supplement under the Family Income Supplements Act 1970 [^c2181006] or housing benefit under Part II of the Social Security and Housing Benefits Act 1982 [^c2181007],
 - (c) any earnings top-up,[^M_F_d80a29d7-2348-4589-f507-6b25e7ee73da]
 
 but only for a period of 52 weeks from the date of the receipt of the arrears or of the concessionary payment.
@@ -98,7 +98,7 @@ which is to be used for the intended purpose, for a period of 26 weeks from the 
 - (a) deposited with a housing association as defined in section 1(1) of the Housing Associations Act 1985 [^c2181008] or section 338(1) of the Housing (Scotland) Act 1987 [^c2181009] as a condition of occupying the home;
 - (b) which was so deposited and which is to be used for the purchase of another home, for the period of 26 weeks or such longer period as is reasonable in the circumstances to complete the purchase.
 
-**11.** Any personal possessions except those which have been acquired by the claimant with the intention of reducing his capital in order to secure entitlement to working families' tax credit[^key-0fd55408d96d2845eefa654111e36eac] or to increase the amount of that benefit.
+**11.** Any personal possessions except those which have been acquired by the claimant with the intention of reducing his capital in order to secure entitlement to working families' tax credit[^c-0fd55408d96d2845eefa654111e36eac] or to increase the amount of that benefit.
 
 **12.** The value of the right to receive any income under an annuity and the surrender value (if any) of such an annuity.
 
@@ -112,7 +112,7 @@ which is to be used for the intended purpose, for a period of 26 weeks from the 
 
 **17.** Where any payment of capital falls to be made by instalments, the value of the right to receive any outstanding instalments.
 
-**18.**[^M_F_6866705a-fb43-4eec-98a4-8e847d70962c] Any payment made by a local authority in accordance with section 17, 23C, 24, 24A or 24B[^key-9dd8666536bce7e2257966881ae65c4b] of the Children Act 1989 or, as the case may be, section 12, 24 or 26 of the Social Work (Scotland) Act 1968 (provision of services for children and their families and advice and assistance to certain children).
+**18.**[^M_F_6866705a-fb43-4eec-98a4-8e847d70962c] Any payment made by a local authority in accordance with section 17, 23C, 24, 24A or 24B[^c-9dd8666536bce7e2257966881ae65c4b] of the Children Act 1989 or, as the case may be, section 12, 24 or 26 of the Social Work (Scotland) Act 1968 (provision of services for children and their families and advice and assistance to certain children).
 
 **19.**[^M_F_956cef97-2eee-4100-944b-c8fc76ccef9f] Any social fund payment made pursuant to Part III of the Act.
 
@@ -160,9 +160,9 @@ which is to be used for the intended purpose, for a period of 26 weeks from the 
 
 **24.** The value of the right to receive an occupational or personal[^M_F_a2dcc6ad-b28c-4ebf-d36a-41c321dcf002] pension.
 
-**24A.**[^key-bfcc5f90ce8b5339d94a84584a3bd645] The value of any funds held under a personal pension scheme or retirement annuity contract.
+**24A.**[^c-bfcc5f90ce8b5339d94a84584a3bd645] The value of any funds held under a personal pension scheme or retirement annuity contract.
 
-**25.** The value of the right to receive any rent except where the claimant has a reversionary interest in the property in respect of which rent is due.[^key-0666ae2858fae61b906cb9bcde08903f]
+**25.** The value of the right to receive any rent except where the claimant has a reversionary interest in the property in respect of which rent is due.[^c-0666ae2858fae61b906cb9bcde08903f]
 
 **26.**[^M_F_604d9f7d-374b-440d-b4d0-6daa973fb3c0] (1) Where a claimant has ceased to occupy what was formerly the dwelling occupied as the home following his estrangement or divorce from his former partner, that dwelling for a period of 26 weeks from the date on which he ceased to occupy that dwelling.
 
@@ -178,7 +178,7 @@ which is to be used for the intended purpose, for a period of 26 weeks from the 
 
 **31.**[^M_F_6f93056f-9709-4be8-adbc-380b8e0ab9e2] Any payment in kind made by a charity or under the Macfarlane (Special Payments) Trust[^M_F_ce19b7d9-45b7-4073-b41c-1dcab393f89f] , the Macfarlane (Special Payments) ([^M_F_5ef17bfc-5e44-48a3-82aa-8b3ea4f0a821]No. 2) Trust the Fund or the Independent Living (1993) Fund.[^M_F_daab0ac4-7301-4996-f914-6565ef27a994].
 
-**32.** £200 of any payment, or, if the payment is less than £200, the whole of any payment[^M_F_c72887ec-7d2a-41f2-894c-0cc83bf0c069] made under section 2 of the Employment and Training Act 1973 (functions of the Secretary of State) or section 2 of the Enterprise and New Towns (Scotland) Act 1990[^key-87368411c310ccd255129e55abfddf00] as a training bonus to a person participating in arrangements for training made under either of those sections[^key-760e76bc1066be218671e1f187917b28] but only for a period of 52 weeks from the date of the receipt of that payment[^M_F_06ef7e72-84a4-4dd5-97ab-369eb8e15e6d].
+**32.** £200 of any payment, or, if the payment is less than £200, the whole of any payment[^M_F_c72887ec-7d2a-41f2-894c-0cc83bf0c069] made under section 2 of the Employment and Training Act 1973 (functions of the Secretary of State) or section 2 of the Enterprise and New Towns (Scotland) Act 1990[^c-87368411c310ccd255129e55abfddf00] as a training bonus to a person participating in arrangements for training made under either of those sections[^c-760e76bc1066be218671e1f187917b28] but only for a period of 52 weeks from the date of the receipt of that payment[^M_F_06ef7e72-84a4-4dd5-97ab-369eb8e15e6d].
 
 **33.** Any payment made by the Secretary of State to compensate for the loss (in whole or in part) of entitlement to housing benefit.
 
@@ -210,7 +210,7 @@ but only for a period of 52 weeks from the date of receipt of the payment or rep
 
 **41.** Any payment made under regulation 9 to 11 or 13 of the Welfare Food Regulations 1988 (payments made in place of milk tokens or the supply of vitamins), but only for a period of 52 weeks from the date of receipt of the payment.
 
-**42.** Any payment made either by the Secretary of State for Justice[^key-7256f0db612b2bec6f157d90e0d56845] or by the Secretary of State for Scotland under a scheme established to assist relatives and other persons to visit persons in custody, but only for a period of 52 weeks from the date of receipt of the payment.
+**42.** Any payment made either by the Secretary of State for Justice[^c-7256f0db612b2bec6f157d90e0d56845] or by the Secretary of State for Scotland under a scheme established to assist relatives and other persons to visit persons in custody, but only for a period of 52 weeks from the date of receipt of the payment.
 
 **43.** Any arrears of special war widows payment which is disregarded under paragraph 43 of Schedule 2 (sums to be disregarded in the calculation of income other than earnings) or of any amount which is disregarded under paragraph 52, 53 or 54 of that Schedule.[^M_F_6ac8d969-778b-4c95-d9c7-c3a678bd4250], but only for a period of 52 weeks from the date of receipt of the arrears.
 
@@ -232,11 +232,11 @@ but only for a period of 52 weeks from the date of receipt of the payment or rep
 
 **49.**[^M_F_0092d6ae-ab75-4c66-ca7d-d22ebb24d8c9] Any payment to the claimant as holder of the Victoria Cross or George Cross.
 
-**50.**[^key-48adadd4449b1e397419a63c83024667] The amount of any back to work bonus payable by way of a jobseeker’s allowance or income support in accordance with section 26 of the Jobseekers Act 1995, or a corresponding payment under article 28 of the Jobseekers (Northern Ireland) Order 1995, but only for a period of 52 weeks from the date of receipt.
+**50.**[^c-48adadd4449b1e397419a63c83024667] The amount of any back to work bonus payable by way of a jobseeker’s allowance or income support in accordance with section 26 of the Jobseekers Act 1995, or a corresponding payment under article 28 of the Jobseekers (Northern Ireland) Order 1995, but only for a period of 52 weeks from the date of receipt.
 
 **51.** The amount of any child maintenance bonus payable by way of a jobseeker’s allowance or income support in accordance with section 10 of the Child Support Act 1995, or a corresponding payment under Article 4 of the Child Support (Northern Ireland) Order 1995, but only for a period of 52 weeks from the date of receipt.[^M_F_225a0689-b145-4146-9151-15897ace45ff]
 
-**52.**[^key-4a39aca8a71b8230cf144a5902789776] Any mandatory top-up payment made to a person pursuant to section 2 of the Employment and Training Act 1973 in respect of that person’s participation in—
+**52.**[^c-4a39aca8a71b8230cf144a5902789776] Any mandatory top-up payment made to a person pursuant to section 2 of the Employment and Training Act 1973 in respect of that person’s participation in—
 
 but only for a period of 52 weeks from the date of receipt of the payment.
 
@@ -251,22 +251,22 @@ but only for a period of 52 weeks from the date of receipt of the payment.
 
 but only for the period of 52 weeks from the date of receipt of the payment.
 
-**53.**[^key-355aa05eadeec38983a6eddb70239be2] Any discretionary payment to meet, or to help meet, special needs made to a person pursuant to section 2 of the Employment and Training Act 1973 in respect of that person’s participation in the Full-Time Education and Training Option of the New Deal as specified in regulation 75(1)(b)(ii) of the Jobseeker’s Allowance Regulations 1996 but only for a period of 52 weeks from the date of receipt of the payment.
+**53.**[^c-355aa05eadeec38983a6eddb70239be2] Any discretionary payment to meet, or to help meet, special needs made to a person pursuant to section 2 of the Employment and Training Act 1973 in respect of that person’s participation in the Full-Time Education and Training Option of the New Deal as specified in regulation 75(1)(b)(ii) of the Jobseeker’s Allowance Regulations 1996 but only for a period of 52 weeks from the date of receipt of the payment.
 
-**54.**[^key-22fc634e44ad23d494b1f00b615b24d4][^M_F_6355a876-80a9-4a0d-fc63-753084a2b032] In the case of a person who is receiving, or who has received, assistance under an employment programme specified in regulation 75(1)(a)(ii)(aa)(ii) of the Jobseeker’s Allowance Regulations 1996 (self-employment route of the Employment Option of the New Deal), any sum of capital which is acquired by that person for the purpose of establishing or carrying on the commercial activity in respect of which such assistance is or was received but only for a period of 52 weeks from the date on which that sum was acquired.
+**54.**[^c-22fc634e44ad23d494b1f00b615b24d4][^M_F_6355a876-80a9-4a0d-fc63-753084a2b032] In the case of a person who is receiving, or who has received, assistance under an employment programme specified in regulation 75(1)(a)(ii)(aa)(ii) of the Jobseeker’s Allowance Regulations 1996 (self-employment route of the Employment Option of the New Deal), any sum of capital which is acquired by that person for the purpose of establishing or carrying on the commercial activity in respect of which such assistance is or was received but only for a period of 52 weeks from the date on which that sum was acquired.
 
 **55.** Any discretionary payment made pursuant to section 2 of the Employment and Training Act 1973 to meet, or help meet, special needs of a person who is undertaking a qualifying course within the meaning specified in regulation 17A(7) of the Jobseeker’s Allowance Regulations 1996 but only for the period of 52 weeks from the date of receipt of that payment.[^M_F_a03817ad-8034-42e5-f593-2452b308cb7e]
 
-**56.** [^key-42d0d2da14e6528e7c9e6b52ef0eee0a]Any child care expenses reimbursed to the claimant in respect of his participation in the programme known as the intensive activity period of the New Deal pilots for 25 plus as defined for the purposes of the Social Security (New Deal Pilot) Regulations 2000 in regulation 2(1) of those Regulations, but only for a period of 52 weeks from the date of receipt of the payment.
+**56.** [^c-42d0d2da14e6528e7c9e6b52ef0eee0a]Any child care expenses reimbursed to the claimant in respect of his participation in the programme known as the intensive activity period of the New Deal pilots for 25 plus as defined for the purposes of the Social Security (New Deal Pilot) Regulations 2000 in regulation 2(1) of those Regulations, but only for a period of 52 weeks from the date of receipt of the payment.
 
-**57.** [^key-42d0d2da14e6528e7c9e6b52ef0eee0a]Any top-up payment made to a person (“the participant”) pursuant to—
+**57.** [^c-42d0d2da14e6528e7c9e6b52ef0eee0a]Any top-up payment made to a person (“the participant”) pursuant to—
 
 - (a) section 2 of the Employment and Training Act 1973 in respect of the participant’s participation in the intensive activity period of the New Deal pilots for 25 plus as defined for the purposes of the Social Security (New Deal Pilot) Regulations 2000 in regulation 2(1) of those Regulations (“the intensive activity period”); or
 - (b) a written arrangement entered into between the Secretary of State and the person who has arranged for the participant’s participation in the intensive activity period and which is made in respect of the participant’s participation in that period,
 
 but only for the period of 52 weeks beginning on the date of receipt of the payment.
 
-**58.** (1)[^key-26dbf5dd9e468f5cdb18240a6ba0d275] Any payment of a sports award for a period of 26 weeks from the date of receipt of that payment except to the extent that it has been made in respect of any one or more of the items specified in sub-paragraph (2).
+**58.** (1)[^c-26dbf5dd9e468f5cdb18240a6ba0d275] Any payment of a sports award for a period of 26 weeks from the date of receipt of that payment except to the extent that it has been made in respect of any one or more of the items specified in sub-paragraph (2).
 
 (2) The items specified for the purposes of sub-paragraph (1) are food, ordinary clothing or footwear, household fuel or housing costs of any member of the family or any council tax for which any member of the family is liable.
 
@@ -276,9 +276,9 @@ but only for the period of 52 weeks beginning on the date of receipt of the paym
 - “housing costs” do not include accommodation costs incurred as a consequence of living away from home whilst training for, or competing in, the sport in respect of which the award was made;
 - “ordinary clothing and footwear” means clothing or footwear for normal daily use but does not include school uniforms or clothing or footwear used solely for sporting activities.
 
-**59.** Any education maintenance allowance payable by virtue of regulations made under section 518 of the Education Act 1996 (payment of school expenses; grant of scholarships[^key-489fcdd10bb0e569c09c889bbba0ae58] etc. ) which is payable as a bonus payment at the end of an academic term but only for a period of 52 weeks from the date of receipt of that payment.
+**59.** Any education maintenance allowance payable by virtue of regulations made under section 518 of the Education Act 1996 (payment of school expenses; grant of scholarships[^c-489fcdd10bb0e569c09c889bbba0ae58] etc. ) which is payable as a bonus payment at the end of an academic term but only for a period of 52 weeks from the date of receipt of that payment.
 
-**60.** In the case of a claimant participating in an employment zone scheme, any payment made by an employment zone contractor to the claimant being—[^key-1fb850e7a2a72fddcf49271ff4cee0a0]
+**60.** In the case of a claimant participating in an employment zone scheme, any payment made by an employment zone contractor to the claimant being—[^c-1fb850e7a2a72fddcf49271ff4cee0a0]
 
 - (a) a training premium payable in respect of the claimant’s participation in the employment zone scheme; or
 - (b) a discretionary payment, being a fee, grant, loan or otherwise,
@@ -287,15 +287,15 @@ but only for the period of 52 weeks from the date of receipt of the payment.
 
 **61.** Any arrears of subsistence allowance paid as a lump sum but only for the period of 52 weeks from the date of receipt of the payment.
 
-**62.** Any payment made to a person under regulation 11 of the Housing Benefit (Payments to Reduce Under-occupation) Regulations 2000, but only for a period of 52 weeks from the date of payment.[^key-284617316993c1d8cf384bb85f224d7c]
+**62.** Any payment made to a person under regulation 11 of the Housing Benefit (Payments to Reduce Under-occupation) Regulations 2000, but only for a period of 52 weeks from the date of payment.[^c-284617316993c1d8cf384bb85f224d7c]
 
 **63.** Any training grant payable under the New Deal 50 Plus Employment Credit scheme pursuant to arrangements made under section 2(1) of the Employment and Training Act 1973, but only for a period of 52 weeks from the date of payment.
 
-**64.** Any payment by way of Job Grant pursuant to arrangements made under section 2(1) of the Employment and Training Act 1973, but only for a period of 52 weeks from the date of payment.[^key-0adb99f24a370622f53d075e4656fe4b]
+**64.** Any payment by way of Job Grant pursuant to arrangements made under section 2(1) of the Employment and Training Act 1973, but only for a period of 52 weeks from the date of payment.[^c-0adb99f24a370622f53d075e4656fe4b]
 
-**65.** Any payment of £10,000 made by the Secretary of State to the claimant as a person who was held prisoner by the Japanese during World War Two or as the spouse of such a person.[^key-1b2d4d36d21c3e6ad1e8436588b1cd93]
+**65.** Any payment of £10,000 made by the Secretary of State to the claimant as a person who was held prisoner by the Japanese during World War Two or as the spouse of such a person.[^c-1b2d4d36d21c3e6ad1e8436588b1cd93]
 
-**66.** (1)[^key-78266e893523d6cb29936a5dff1f20c5] Subject to sub-paragraph (2), the amount of any trust payment made to a claimant, or a member of a claimant’s family, who is—
+**66.** (1)[^c-78266e893523d6cb29936a5dff1f20c5] Subject to sub-paragraph (2), the amount of any trust payment made to a claimant, or a member of a claimant’s family, who is—
 
 - (a) a diagnosed person; or
 - (b) the diagnosed person’s partner, or the person who was his partner at the date of his death; or
@@ -342,25 +342,25 @@ but only to the extent that such payments do not exceed the total amount of any 
 - “residential accommodation”, “residential care home” and “nursing home” have the meanings given by regulation 2(1) of the Income Support (General) Regulations 1987;
 - “trust payment” means a payment under a relevant trust.
 
-**67.** Any ex-gratia payment made by the Secretary of State for Northern Ireland directly to the family of a victim of violence within the meaning given by section 1(4) of the Northern Ireland (Location of Victims' Remains) Act 1999.[^key-1ebe58fa58c2d331990612893f4b0474]
+**67.** Any ex-gratia payment made by the Secretary of State for Northern Ireland directly to the family of a victim of violence within the meaning given by section 1(4) of the Northern Ireland (Location of Victims' Remains) Act 1999.[^c-1ebe58fa58c2d331990612893f4b0474]
 
-**68.** Any discretionary housing payment paid pursuant to regulation 2(1) of the Discretionary Financial Assistance Regulations 2001.[^key-28fcd3123e2dd3a6aa3e8aa9ffea0fb8]
+**68.** Any discretionary housing payment paid pursuant to regulation 2(1) of the Discretionary Financial Assistance Regulations 2001.[^c-28fcd3123e2dd3a6aa3e8aa9ffea0fb8]
 
-**69.** (1)[^key-24817c1226026f2e38a9184e30140669] Where a payment has been made to the claimant or his partner by, or on behalf of, a government of a country outside the United Kingdom, either from its own resources or with contributions from any other organisation, by way of compensation for a victim of National Socialism, the amount of that payment.
+**69.** (1)[^c-24817c1226026f2e38a9184e30140669] Where a payment has been made to the claimant or his partner by, or on behalf of, a government of a country outside the United Kingdom, either from its own resources or with contributions from any other organisation, by way of compensation for a victim of National Socialism, the amount of that payment.
 
 (2) In sub-paragraph (1) the reference to a victim of National Socialism is a reference to a person who was required to work as a slave or forced labourer for National Socialists or their sympathisers during the Second World War, or suffered property loss, or suffered injury, or is the parent of a child who died, at the hands of National Socialists or their sympathisers during the Second World War.
 
 ## Annotations
 
-[^key-6b45f03a2a4781df4b2530f24b5295ae]: Textual amendment: Sch. 3 para. 1A inserted (with effect in accordance with reg. 1 of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 8) Regulations 2001 (S.I. 2001/3085)](https://www.legislation.gov.uk/uksi/2001/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2001/3085/regulation/1), [5](https://www.legislation.gov.uk/uksi/2001/3085/regulation/5)
+[^c-6b45f03a2a4781df4b2530f24b5295ae]: Textual amendment: Sch. 3 para. 1A inserted (with effect in accordance with reg. 1 of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 8) Regulations 2001 (S.I. 2001/3085)](https://www.legislation.gov.uk/uksi/2001/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2001/3085/regulation/1), [5](https://www.legislation.gov.uk/uksi/2001/3085/regulation/5)
 
 [^M_F_003bba59-3f92-437e-b673-0599be858853]: Textual amendment: Words in Sch. 3 para. 2 inserted (12.9.1988) by Family Credit (General) Amendment No. 3 Regulations 1988 ([S.I. 1988/1438](https://www.legislation.gov.uk/uksi/1988/1438)), reg. 1(1)(b), 9(a)
 
 [^M_F_64f1c736-e7a1-49a5-f2c1-3b717c4b646b]: Textual amendment: Words in Sch. 3 para. 4 inserted (12.9.1988) by Family Credit (General) Amendment No. 3 Regulations 1988 ([S.I. 1988/1438](https://www.legislation.gov.uk/uksi/1988/1438)), reg. 1(1)(b), 9(b)
 
-[^key-187d6e2d27e9e964c5b2bd5cc8752977]: Textual amendment: Sch. 3 para. 5 substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/b), [4(8)(a)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/4/8/a)
+[^c-187d6e2d27e9e964c5b2bd5cc8752977]: Textual amendment: Sch. 3 para. 5 substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/b), [4(8)(a)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/4/8/a)
 
-[^key-03416f9c2747bbfecd4c684b3d599457]: Modification: Sch. 3 para. 6 modified (temp. until 27.11.2001) (28.11.2000) by [The Social Security (New Deal Pilot) Regulations 2000 (S.I. 2000/3134)](https://www.legislation.gov.uk/uksi/2000/3134), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/1/1/b), [18(2)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/18/2), [(3)(c)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/18/3/c)
+[^c-03416f9c2747bbfecd4c684b3d599457]: Modification: Sch. 3 para. 6 modified (temp. until 27.11.2001) (28.11.2000) by [The Social Security (New Deal Pilot) Regulations 2000 (S.I. 2000/3134)](https://www.legislation.gov.uk/uksi/2000/3134), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/1/1/b), [18(2)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/18/2), [(3)(c)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/18/3/c)
 
 [^M_F_df9cadec-b761-40a4-ab85-416b3e5bb477]: Textual amendment: Sch. 3 para. 6(1) added (2.10.1990) Sch. 3 para. 6 renumbered as para. 6(1) by Family Credit (General) Amendment No. 2 Regulations 1990 ([S.I. 1990/1774](https://www.legislation.gov.uk/uksi/1990/1774)), reg. 1(1), 5(a)
 
@@ -368,7 +368,7 @@ but only to the extent that such payments do not exceed the total amount of any 
 
 [^M_F_e1f8f392-dda1-4c18-cad2-a7e15c28ef9e]: Textual amendment: Sch. 3 para. 6(3)(4) added (1.6.1998) by [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 1998 (S.I. 1998/1174)](https://www.legislation.gov.uk/uksi/1998/1174), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1991/1175/regulation/1/1), [7(7)](https://www.legislation.gov.uk/uksi/1991/1175/regulation/7/7)
 
-[^key-f00f8342bf3a045a26b57c2286ad7236]: Textual amendment: Words in Sch. 3 para. 8(b) inserted (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [8(6)(a)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/8/6/a)
+[^c-f00f8342bf3a045a26b57c2286ad7236]: Textual amendment: Words in Sch. 3 para. 8(b) inserted (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [8(6)(a)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/8/6/a)
 
 [^c2181005]: Marginal citation: [1976 c. 71](https://www.legislation.gov.uk/ukpga/1976/71).
 
@@ -382,13 +382,13 @@ but only to the extent that such payments do not exceed the total amount of any 
 
 [^c2181009]: Marginal citation: [1987 c. 26](https://www.legislation.gov.uk/ukpga/1987/26).
 
-[^key-0fd55408d96d2845eefa654111e36eac]: Textual amendment: Words in Sch. 3 para. 11 substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [26(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/1), [Sch. 1 para. 1(xxiii)](https://www.legislation.gov.uk/uksi/1999/2487/schedule/1/paragraph/1/xxiii)
+[^c-0fd55408d96d2845eefa654111e36eac]: Textual amendment: Words in Sch. 3 para. 11 substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [26(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/1), [Sch. 1 para. 1(xxiii)](https://www.legislation.gov.uk/uksi/1999/2487/schedule/1/paragraph/1/xxiii)
 
 [^M_F_1306bfef-43d4-42e8-fbe6-4b2d1057e57c]: Textual amendment: Sch. 3 para. 13 substituted (2.10.1990) by Family Credit (General) Amendment No. 2 Regulations 1990 ([S.I. 1990/1774](https://www.legislation.gov.uk/uksi/1990/1774)), reg. 1(1), 5(b)
 
 [^M_F_6866705a-fb43-4eec-98a4-8e847d70962c]: Textual amendment: Sch. 3 para. 18 substituted (7.4.1992) by [The Family Credit (General) Amendment Regulations 1992 (S.I. 1992/573)](https://www.legislation.gov.uk/uksi/1992/573), regs. 1(1), sch. para 4
 
-[^key-9dd8666536bce7e2257966881ae65c4b]: Textual amendment: Words in Sch. 3 para. 18 substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/14)](https://www.legislation.gov.uk/uksi/2002/14), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/14/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2002/14/regulation/5/2)
+[^c-9dd8666536bce7e2257966881ae65c4b]: Textual amendment: Words in Sch. 3 para. 18 substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/14)](https://www.legislation.gov.uk/uksi/2002/14), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/14/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2002/14/regulation/5/2)
 
 [^M_F_956cef97-2eee-4100-944b-c8fc76ccef9f]: Textual amendment: Sch. 3 para. 19 substituted (7.4.1992) by [The Family Credit (General) Amendment Regulations 1992 (S.I. 1992/573)](https://www.legislation.gov.uk/uksi/1992/573), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1991/1175/regulation/1/1), [14(a)](https://www.legislation.gov.uk/uksi/1991/1175/regulation/14/a)
 
@@ -422,9 +422,9 @@ but only to the extent that such payments do not exceed the total amount of any 
 
 [^M_F_a2dcc6ad-b28c-4ebf-d36a-41c321dcf002]: Textual amendment: Words in Sch. 3 para. 24 inserted (8.10.1991) by [The Family Credit (General) Amendment Regulations 1991 (S.I. 1991/1520)](https://www.legislation.gov.uk/uksi/1991/1520), reg. 1(1), 11
 
-[^key-bfcc5f90ce8b5339d94a84584a3bd645]: Textual amendment: Sch. 3 para. 24A inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/b), [4(8)(b)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/4/8/b)
+[^c-bfcc5f90ce8b5339d94a84584a3bd645]: Textual amendment: Sch. 3 para. 24A inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/b), [4(8)(b)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/4/8/b)
 
-[^key-0666ae2858fae61b906cb9bcde08903f]: Textual amendment: Words in Sch. 3 para. 25 added (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/b), [4(8)(c)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/4/8/c)
+[^c-0666ae2858fae61b906cb9bcde08903f]: Textual amendment: Words in Sch. 3 para. 25 added (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/b), [4(8)(c)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/4/8/c)
 
 [^M_F_604d9f7d-374b-440d-b4d0-6daa973fb3c0]: Textual amendment: Sch. 3 para. 26-30 added by Family Credit (General) Amendment No. 2 Regulations 1988 ([S.I. 1988/908](https://www.legislation.gov.uk/uksi/1988/908)), reg. 1(1), 2
 
@@ -440,9 +440,9 @@ but only to the extent that such payments do not exceed the total amount of any 
 
 [^M_F_c72887ec-7d2a-41f2-894c-0cc83bf0c069]: Textual amendment: Words in Sch. 3 para. 32 substituted (5.10.1993) by The Income-related [Benefits Schemes (Miscellaneous Amendments) (No. 4) Regulations 1993 (S.I. 1993/2119)](https://www.legislation.gov.uk/uksi/1993/2119), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b), [35(3)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/35/3)
 
-[^key-87368411c310ccd255129e55abfddf00]: Textual amendment: Words in Sch. 3 para. 32 inserted (1.4.1991) by [The Enterprise (Scotland) Consequential Amendments Order 1991 (S.I. 1991/387)](https://www.legislation.gov.uk/uksi/1991/387), [arts. 1](https://www.legislation.gov.uk/uksi/1991/387/article/1), [2](https://www.legislation.gov.uk/uksi/1991/387/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1991/387/schedule)
+[^c-87368411c310ccd255129e55abfddf00]: Textual amendment: Words in Sch. 3 para. 32 inserted (1.4.1991) by [The Enterprise (Scotland) Consequential Amendments Order 1991 (S.I. 1991/387)](https://www.legislation.gov.uk/uksi/1991/387), [arts. 1](https://www.legislation.gov.uk/uksi/1991/387/article/1), [2](https://www.legislation.gov.uk/uksi/1991/387/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1991/387/schedule)
 
-[^key-760e76bc1066be218671e1f187917b28]: Textual amendment: Words in Sch. 3 para. 32 substituted (1.4.1991) by [The Enterprise (Scotland) Consequential Amendments Order 1991 (S.I. 1991/387)](https://www.legislation.gov.uk/uksi/1991/387), [arts. 1](https://www.legislation.gov.uk/uksi/1991/387/article/1), [12(b)](https://www.legislation.gov.uk/uksi/1991/387/article/12/b)
+[^c-760e76bc1066be218671e1f187917b28]: Textual amendment: Words in Sch. 3 para. 32 substituted (1.4.1991) by [The Enterprise (Scotland) Consequential Amendments Order 1991 (S.I. 1991/387)](https://www.legislation.gov.uk/uksi/1991/387), [arts. 1](https://www.legislation.gov.uk/uksi/1991/387/article/1), [12(b)](https://www.legislation.gov.uk/uksi/1991/387/article/12/b)
 
 [^M_F_06ef7e72-84a4-4dd5-97ab-369eb8e15e6d]: Textual amendment: Words in Sch. 3 para. 32 added (5.12.1988) by Family Credit (General) Amendment No. 4 Regulations 1988 ([S.I. 1988/1970](https://www.legislation.gov.uk/uksi/1988/1970)), reg. 1(1), 12(b)
 
@@ -458,7 +458,7 @@ but only to the extent that such payments do not exceed the total amount of any 
 
 [^M_F_cdedcf52-2192-46db-93e4-ded918eebb83]: Textual amendment: Sch. 3 para. 40-43 added (2.10.1990) by Family Credit (General) Amendment No. 2 Regulations 1990 ([S.I. 1990/1774](https://www.legislation.gov.uk/uksi/1990/1774)), reg. 1(1), 5(c)
 
-[^key-7256f0db612b2bec6f157d90e0d56845]: Textual amendment: Word in [Sch. 3 para. 42](https://www.legislation.gov.uk/uksi/1987/1973/schedule/3/paragraph/42) substituted (22.8.2007) by [Secretary of State for Justice Order 2007 (S.I. 2007/2128)](https://www.legislation.gov.uk/uksi/2007/2128), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2128/article/1/2), [Sch. para. 14(3)](https://www.legislation.gov.uk/uksi/2007/2128/schedule/paragraph/14/3)
+[^c-7256f0db612b2bec6f157d90e0d56845]: Textual amendment: Word in [Sch. 3 para. 42](https://www.legislation.gov.uk/uksi/1987/1973/schedule/3/paragraph/42) substituted (22.8.2007) by [Secretary of State for Justice Order 2007 (S.I. 2007/2128)](https://www.legislation.gov.uk/uksi/2007/2128), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2128/article/1/2), [Sch. para. 14(3)](https://www.legislation.gov.uk/uksi/2007/2128/schedule/paragraph/14/3)
 
 [^M_F_6ac8d969-778b-4c95-d9c7-c3a678bd4250]: Textual amendment: Words in sch. 3 para. 43 inserted (4.10.1994) by The Income-related [Benefits Schemes (Miscellaneous Amendments) (No.5) Regulations 1994 (S.I. 1994/2139)](https://www.legislation.gov.uk/uksi/1994/2139), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1994/2139/regulation/1/1/b), [21(a)](https://www.legislation.gov.uk/uksi/1994/2139/regulation/21/a)
 
@@ -478,38 +478,38 @@ but only to the extent that such payments do not exceed the total amount of any 
 
 [^M_F_0092d6ae-ab75-4c66-ca7d-d22ebb24d8c9]: Textual amendment: Sch. 3 para. 49 added (9.4.1996) by The Income-related [Benefits Schemes (Miscellaneous Amendments) Regulations 1996 (S.I. 1996/462)](https://www.legislation.gov.uk/uksi/1996/462), [regs. 1(5)](https://www.legislation.gov.uk/uksi/1996/462/regulation/1/5), [11(3)](https://www.legislation.gov.uk/uksi/1996/462/regulation/11/3)
 
-[^key-48adadd4449b1e397419a63c83024667]: Textual amendment: Sch. 3 para. 50 added (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [8(6)(b)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/8/6/b)
+[^c-48adadd4449b1e397419a63c83024667]: Textual amendment: Sch. 3 para. 50 added (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [8(6)(b)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/8/6/b)
 
 [^M_F_225a0689-b145-4146-9151-15897ace45ff]: Textual amendment: Sch. 3 para. 51 added (7.4.1997) by [The Social Security (Child Maintenance Bonus) Regulations 1996 (S.I. 1996/3195)](https://www.legislation.gov.uk/uksi/1996/3195), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/462/regulation/1/1), [15(b)](https://www.legislation.gov.uk/uksi/1996/462/regulation/15/b)
 
-[^key-4a39aca8a71b8230cf144a5902789776]: Textual amendment: Sch. 3 para. 52 substituted (24.4.2001) by [The Tax Credits (New Deal Consequential Amendments) Regulations 2001 (S.I. 2001/1334)](https://www.legislation.gov.uk/uksi/2001/1334), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1334/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2001/1334/regulation/9/2)
+[^c-4a39aca8a71b8230cf144a5902789776]: Textual amendment: Sch. 3 para. 52 substituted (24.4.2001) by [The Tax Credits (New Deal Consequential Amendments) Regulations 2001 (S.I. 2001/1334)](https://www.legislation.gov.uk/uksi/2001/1334), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1334/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2001/1334/regulation/9/2)
 
-[^key-355aa05eadeec38983a6eddb70239be2]: Textual amendment: Words in Sch. 3 para. 53 added (5.1.1998) by [The Social Security Amendment (New Deal) Regulations 1997 (S.I. 1997/2863)](https://www.legislation.gov.uk/uksi/1997/2863), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/2863/regulation/1/1), [17(11)](https://www.legislation.gov.uk/uksi/1997/2863/regulation/17/11), [(12)(c)](https://www.legislation.gov.uk/uksi/1997/2863/regulation/17/12/c)
+[^c-355aa05eadeec38983a6eddb70239be2]: Textual amendment: Words in Sch. 3 para. 53 added (5.1.1998) by [The Social Security Amendment (New Deal) Regulations 1997 (S.I. 1997/2863)](https://www.legislation.gov.uk/uksi/1997/2863), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/2863/regulation/1/1), [17(11)](https://www.legislation.gov.uk/uksi/1997/2863/regulation/17/11), [(12)(c)](https://www.legislation.gov.uk/uksi/1997/2863/regulation/17/12/c)
 
-[^key-22fc634e44ad23d494b1f00b615b24d4]: Modification: Sch. 3 para. 54 modified (temp. until 27.11.2001) (28.11.2000) by [The Social Security (New Deal Pilot) Regulations 2000 (S.I. 2000/3134)](https://www.legislation.gov.uk/uksi/2000/3134), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/1/1/b), [18(2)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/18/2), [(3)(c)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/18/3/c)
+[^c-22fc634e44ad23d494b1f00b615b24d4]: Modification: Sch. 3 para. 54 modified (temp. until 27.11.2001) (28.11.2000) by [The Social Security (New Deal Pilot) Regulations 2000 (S.I. 2000/3134)](https://www.legislation.gov.uk/uksi/2000/3134), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/1/1/b), [18(2)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/18/2), [(3)(c)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/18/3/c)
 
 [^M_F_6355a876-80a9-4a0d-fc63-753084a2b032]: Textual amendment: Sch. 3 para. 54 added (1.6.1998) by [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 1998 (S.I. 1998/1174)](https://www.legislation.gov.uk/uksi/1998/1174), regs. 1(1), [7(11)](https://www.legislation.gov.uk/uksi/1998/1174/regulation/7/11)[7(12)](https://www.legislation.gov.uk/uksi/1998/1174/regulation/7/12)
 
 [^M_F_a03817ad-8034-42e5-f593-2452b308cb7e]: Textual amendment: Sch. 3 para. 55 added (24.9.1998) by [The Social Security Amendment (New Deal) (No.2) Regulations 1998 (S.I. 1998/2117)](https://www.legislation.gov.uk/uksi/1998/2117), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/462/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/1996/462/regulation/5/3/b)
 
-[^key-42d0d2da14e6528e7c9e6b52ef0eee0a]: Modification: Sch. 3 paras. 56 57 modified (temp. until 27.11.2001) (28.11.2000) by [The Social Security (New Deal Pilot) Regulations 2000 (S.I. 2000/3134)](https://www.legislation.gov.uk/uksi/2000/3134), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/1/1/b), [17(1)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/17/1), [(2)(c)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/17/2/c)
+[^c-42d0d2da14e6528e7c9e6b52ef0eee0a]: Modification: Sch. 3 paras. 56 57 modified (temp. until 27.11.2001) (28.11.2000) by [The Social Security (New Deal Pilot) Regulations 2000 (S.I. 2000/3134)](https://www.legislation.gov.uk/uksi/2000/3134), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/1/1/b), [17(1)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/17/1), [(2)(c)](https://www.legislation.gov.uk/uksi/2000/3134/regulation/17/2/c)
 
-[^key-26dbf5dd9e468f5cdb18240a6ba0d275]: Textual amendment: Sch. 3 para. 58 added (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security Amendment (Sports Awards) Regulations 1999 (S.I. 1999/2165)](https://www.legislation.gov.uk/uksi/1999/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2165/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/1999/2165/regulation/4/5)
+[^c-26dbf5dd9e468f5cdb18240a6ba0d275]: Textual amendment: Sch. 3 para. 58 added (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security Amendment (Sports Awards) Regulations 1999 (S.I. 1999/2165)](https://www.legislation.gov.uk/uksi/1999/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2165/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/1999/2165/regulation/4/5)
 
-[^key-489fcdd10bb0e569c09c889bbba0ae58]: Textual amendment: Sch. 3 para. 59 added (14.3.2000) by [The Tax Credits Schemes Amendment (Education Maintenance Allowance) Regulations 2000 (S.I. 2000/421)](https://www.legislation.gov.uk/uksi/2000/421), [regs. 1](https://www.legislation.gov.uk/uksi/2000/421/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/2000/421/regulation/4/1), [(2)(a)](https://www.legislation.gov.uk/uksi/2000/421/regulation/4/2/a)
+[^c-489fcdd10bb0e569c09c889bbba0ae58]: Textual amendment: Sch. 3 para. 59 added (14.3.2000) by [The Tax Credits Schemes Amendment (Education Maintenance Allowance) Regulations 2000 (S.I. 2000/421)](https://www.legislation.gov.uk/uksi/2000/421), [regs. 1](https://www.legislation.gov.uk/uksi/2000/421/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/2000/421/regulation/4/1), [(2)(a)](https://www.legislation.gov.uk/uksi/2000/421/regulation/4/2/a)
 
-[^key-1fb850e7a2a72fddcf49271ff4cee0a0]: Textual amendment: Sch. 3 para. 60 - Sch. 3 para. 61 added (with effect in accordance with reg. 1(1) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 2000 (S.I. 2000/795)](https://www.legislation.gov.uk/uksi/2000/795), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/795/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2000/795/regulation/4/3/b)
+[^c-1fb850e7a2a72fddcf49271ff4cee0a0]: Textual amendment: Sch. 3 para. 60 - Sch. 3 para. 61 added (with effect in accordance with reg. 1(1) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 2000 (S.I. 2000/795)](https://www.legislation.gov.uk/uksi/2000/795), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/795/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2000/795/regulation/4/3/b)
 
-[^key-284617316993c1d8cf384bb85f224d7c]: Textual amendment: Sch. 3 para. 62 - Sch. 3 para. 63 added (with effect in accordance with reg. 1(1) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 2000 (S.I. 2000/795)](https://www.legislation.gov.uk/uksi/2000/795), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/795/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2000/795/regulation/6/b)
+[^c-284617316993c1d8cf384bb85f224d7c]: Textual amendment: Sch. 3 para. 62 - Sch. 3 para. 63 added (with effect in accordance with reg. 1(1) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 2000 (S.I. 2000/795)](https://www.legislation.gov.uk/uksi/2000/795), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/795/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2000/795/regulation/6/b)
 
-[^key-0adb99f24a370622f53d075e4656fe4b]: Textual amendment: Words in Sch. 3 para. 64 added (with effect in accordance with reg. 9(3) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments No. 4) Regulations 2000 (S.I. 2000/2978)](https://www.legislation.gov.uk/uksi/2000/2978), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/2978/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2000/2978/regulation/9/2)
+[^c-0adb99f24a370622f53d075e4656fe4b]: Textual amendment: Words in Sch. 3 para. 64 added (with effect in accordance with reg. 9(3) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments No. 4) Regulations 2000 (S.I. 2000/2978)](https://www.legislation.gov.uk/uksi/2000/2978), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/2978/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2000/2978/regulation/9/2)
 
-[^key-1b2d4d36d21c3e6ad1e8436588b1cd93]: Textual amendment: Sch. 3 para. 65 added (with effect in accordance with reg. 4(3) of the amending S.I.) by [Tax Credit Schemes (Miscellaneous Amendments) Regulations 2001 (S.I. 2001/19)](https://www.legislation.gov.uk/uksi/2001/19), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/19/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2001/19/regulation/4/2)
+[^c-1b2d4d36d21c3e6ad1e8436588b1cd93]: Textual amendment: Sch. 3 para. 65 added (with effect in accordance with reg. 4(3) of the amending S.I.) by [Tax Credit Schemes (Miscellaneous Amendments) Regulations 2001 (S.I. 2001/19)](https://www.legislation.gov.uk/uksi/2001/19), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/19/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2001/19/regulation/4/2)
 
-[^key-78266e893523d6cb29936a5dff1f20c5]: Textual amendment: Sch. 3 para. 66 added (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 4) Regulations 2001 (S.I. 2001/1082)](https://www.legislation.gov.uk/uksi/2001/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/1082/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2001/1082/regulation/8)
+[^c-78266e893523d6cb29936a5dff1f20c5]: Textual amendment: Sch. 3 para. 66 added (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 4) Regulations 2001 (S.I. 2001/1082)](https://www.legislation.gov.uk/uksi/2001/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/1082/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2001/1082/regulation/8)
 
-[^key-1ebe58fa58c2d331990612893f4b0474]: Textual amendment: Sch. 3 para. 67 added (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 4) Regulations 2001 (S.I. 2001/1082)](https://www.legislation.gov.uk/uksi/2001/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/1082/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2001/1082/regulation/8)
+[^c-1ebe58fa58c2d331990612893f4b0474]: Textual amendment: Sch. 3 para. 67 added (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 4) Regulations 2001 (S.I. 2001/1082)](https://www.legislation.gov.uk/uksi/2001/1082), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/1082/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2001/1082/regulation/8)
 
-[^key-28fcd3123e2dd3a6aa3e8aa9ffea0fb8]: Textual amendment: Sch. 3 para. 68 added (with effect in accordance with art. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 6) Regulations 2001 (S.I. 2001/2220)](https://www.legislation.gov.uk/uksi/2001/2220), [art. 1](https://www.legislation.gov.uk/uksi/2001/2220/article/1)[reg. 5(2)](https://www.legislation.gov.uk/uksi/2001/2220/regulation/5/2)
+[^c-28fcd3123e2dd3a6aa3e8aa9ffea0fb8]: Textual amendment: Sch. 3 para. 68 added (with effect in accordance with art. 1(2) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 6) Regulations 2001 (S.I. 2001/2220)](https://www.legislation.gov.uk/uksi/2001/2220), [art. 1](https://www.legislation.gov.uk/uksi/2001/2220/article/1)[reg. 5(2)](https://www.legislation.gov.uk/uksi/2001/2220/regulation/5/2)
 
-[^key-24817c1226026f2e38a9184e30140669]: Textual amendment: Sch. 3 para. 69 inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [Tax Credits (Miscellaneous Amendments No. 9) Regulations 2001 (S.I. 2001/3454)](https://www.legislation.gov.uk/uksi/2001/3454), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/3454/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2001/3454/regulation/5)
+[^c-24817c1226026f2e38a9184e30140669]: Textual amendment: Sch. 3 para. 69 inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [Tax Credits (Miscellaneous Amendments No. 9) Regulations 2001 (S.I. 2001/3454)](https://www.legislation.gov.uk/uksi/2001/3454), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/3454/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2001/3454/regulation/5)

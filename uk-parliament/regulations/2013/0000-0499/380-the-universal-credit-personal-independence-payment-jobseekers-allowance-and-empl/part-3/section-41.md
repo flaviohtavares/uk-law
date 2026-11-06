@@ -31,8 +31,8 @@ summary: ''
 
 - (a) where the purchase of an annuity under a personal pension scheme or occupational pension scheme has been deferred, the amount of any income which is being withdrawn from the personal pension scheme or occupational pension scheme;
 - (b) in the case of—
-  - (i) a personal pension scheme or occupational pension scheme where income withdrawal is available, the rate of the annuity which may have been purchased with the funds held under the scheme[^key-0210278e923194841858a28eaf59428e]; or
-  - (ii) a personal pension scheme or occupational pension scheme where income withdrawal is not available, the rate of the annuity which might have been purchased with the fund[^key-5b0102919ca3ebe3ad8c1863f2141d5b] if the fund were held under a personal pension scheme or occupational pension scheme where income withdrawal was available,
+  - (i) a personal pension scheme or occupational pension scheme where income withdrawal is available, the rate of the annuity which may have been purchased with the funds held under the scheme[^c-0210278e923194841858a28eaf59428e]; or
+  - (ii) a personal pension scheme or occupational pension scheme where income withdrawal is not available, the rate of the annuity which might have been purchased with the fund[^c-5b0102919ca3ebe3ad8c1863f2141d5b] if the fund were held under a personal pension scheme or occupational pension scheme where income withdrawal was available,
 
 calculated by or on behalf of the pension fund holder by means of tables prepared from time to time by the Government Actuary which are appropriate for this purpose.
 
@@ -51,9 +51,9 @@ calculated by or on behalf of the pension fund holder by means of tables prepare
 
 ## Annotations
 
-[^key-0210278e923194841858a28eaf59428e]: Textual amendment: Words in [reg. 41(3)(b)(i)](https://www.legislation.gov.uk/uksi/2013/380/regulation/41/3/b/i) substituted (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 4) Regulations 2017 (S.I. 2017/1015)](https://www.legislation.gov.uk/uksi/2017/1015), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1015/regulation/1/2), [15(a)](https://www.legislation.gov.uk/uksi/2017/1015/regulation/15/a)
+[^c-0210278e923194841858a28eaf59428e]: Textual amendment: Words in [reg. 41(3)(b)(i)](https://www.legislation.gov.uk/uksi/2013/380/regulation/41/3/b/i) substituted (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 4) Regulations 2017 (S.I. 2017/1015)](https://www.legislation.gov.uk/uksi/2017/1015), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1015/regulation/1/2), [15(a)](https://www.legislation.gov.uk/uksi/2017/1015/regulation/15/a)
 
-[^key-5b0102919ca3ebe3ad8c1863f2141d5b]: Textual amendment: Words in [reg. 41(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/380/regulation/41/3/b/ii) substituted (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 4) Regulations 2017 (S.I. 2017/1015)](https://www.legislation.gov.uk/uksi/2017/1015), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1015/regulation/1/2), [15(b)](https://www.legislation.gov.uk/uksi/2017/1015/regulation/15/b)
+[^c-5b0102919ca3ebe3ad8c1863f2141d5b]: Textual amendment: Words in [reg. 41(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/380/regulation/41/3/b/ii) substituted (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 4) Regulations 2017 (S.I. 2017/1015)](https://www.legislation.gov.uk/uksi/2017/1015), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1015/regulation/1/2), [15(b)](https://www.legislation.gov.uk/uksi/2017/1015/regulation/15/b)
 
 [^c2167217]: Marginal citation: [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48). Section 1 was amended by section 239 of the [Pensions Act 2004 (c.35)](https://www.legislation.gov.uk/ukpga/2004/35) and paragraph 1 of Part 3(2) of Schedule 27 to the [Finance Act 2007 (c.11)](https://www.legislation.gov.uk/ukpga/2007/11).
 

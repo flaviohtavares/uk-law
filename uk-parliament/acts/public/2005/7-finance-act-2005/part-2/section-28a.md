@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28A. Disapplication of section 629 of ITTOIA 2005[^key-420f2dd98f611c6bf034aca4b63cd07c]
+## 28A. Disapplication of section 629 of ITTOIA 2005[^c-420f2dd98f611c6bf034aca4b63cd07c]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-420f2dd98f611c6bf034aca4b63cd07c]: Textual amendment: S. 28A inserted (with effect in accordance with Sch. 13 para. 36(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 13 para. 36(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/13/paragraph/36/1)
+[^c-420f2dd98f611c6bf034aca4b63cd07c]: Textual amendment: S. 28A inserted (with effect in accordance with Sch. 13 para. 36(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 13 para. 36(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/13/paragraph/36/1)

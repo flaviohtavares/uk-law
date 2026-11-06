@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1.25. Revocation or suspension of the arrangement[^key-157ab3f7f7369861b49392f81389c1d2]
+## 1.25. Revocation or suspension of the arrangement[^c-157ab3f7f7369861b49392f81389c1d2]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ Service on the directors may be effected by service of a single copy of the orde
 
 ## Annotations
 
-[^key-157ab3f7f7369861b49392f81389c1d2]: Commencement: [Rule 1.25](https://www.legislation.gov.uk/uksi/1986/1925/rule/1.25) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-157ab3f7f7369861b49392f81389c1d2]: Commencement: [Rule 1.25](https://www.legislation.gov.uk/uksi/1986/1925/rule/1.25) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00003]: Marginal citation: \[FORM 1.2\]

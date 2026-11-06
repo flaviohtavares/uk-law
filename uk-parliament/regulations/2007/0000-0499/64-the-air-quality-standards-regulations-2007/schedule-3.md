@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Alert and information thresholds[^key-485e3a5db5560debee05c99a8b7974dc]
+## SCHEDULE 3 — Alert and information thresholds[^c-485e3a5db5560debee05c99a8b7974dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,14 +24,14 @@ summary: ''
 
 Regulation 11(7)
 
-### PART 1 — Alert thresholds for nitrogen dioxide and sulphur dioxide[^key-485e3a5db5560debee05c99a8b7974dc]
+### PART 1 — Alert thresholds for nitrogen dioxide and sulphur dioxide[^c-485e3a5db5560debee05c99a8b7974dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Alert and information thresholds for ozone[^key-485e3a5db5560debee05c99a8b7974dc]
+### PART 2 — Alert and information thresholds for ozone[^c-485e3a5db5560debee05c99a8b7974dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-485e3a5db5560debee05c99a8b7974dc]: Textual amendment: Regulations revoked (11.6.2010) by [The Air Quality Standards Regulations 2010 (S.I. 2010/1001)](https://www.legislation.gov.uk/uksi/2010/1001), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/33), [33](https://www.legislation.gov.uk/uksi/2010/1001/regulation/33)
+[^c-485e3a5db5560debee05c99a8b7974dc]: Textual amendment: Regulations revoked (11.6.2010) by [The Air Quality Standards Regulations 2010 (S.I. 2010/1001)](https://www.legislation.gov.uk/uksi/2010/1001), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/33), [33](https://www.legislation.gov.uk/uksi/2010/1001/regulation/33)

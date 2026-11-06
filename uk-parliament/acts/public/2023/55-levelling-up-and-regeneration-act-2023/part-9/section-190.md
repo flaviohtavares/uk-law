@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 190. Power to require prospects of planning permission to be ignored[^key-68c7d49373fe33e3cef1e4fed947f547][^key-7b917e5356c17576458a77d60f94c6ec][^key-cc75d0ad5d9c3ca770e7c1f7b9469233]
+## 190. Power to require prospects of planning permission to be ignored[^c-68c7d49373fe33e3cef1e4fed947f547][^c-7b917e5356c17576458a77d60f94c6ec][^c-cc75d0ad5d9c3ca770e7c1f7b9469233]
 
 *Extent: E+W*
 
@@ -454,8 +454,8 @@ summary: ''
 
 ## Annotations
 
-[^key-68c7d49373fe33e3cef1e4fed947f547]: Commencement: S. 190 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-68c7d49373fe33e3cef1e4fed947f547]: Commencement: S. 190 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-7b917e5356c17576458a77d60f94c6ec]: Commencement: [S. 190](https://www.legislation.gov.uk/ukpga/2023/55/section/190) in force at 31.3.2024 for specified purposes for W. by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/l)
+[^c-7b917e5356c17576458a77d60f94c6ec]: Commencement: [S. 190](https://www.legislation.gov.uk/ukpga/2023/55/section/190) in force at 31.3.2024 for specified purposes for W. by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/l)
 
-[^key-cc75d0ad5d9c3ca770e7c1f7b9469233]: Commencement: [S. 190](https://www.legislation.gov.uk/ukpga/2023/55/section/190) in force at 30.4.2024 for E. by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 4](https://www.legislation.gov.uk/uksi/2024/92/regulation/4) (with [reg. 6(6)](https://www.legislation.gov.uk/uksi/2024/92/regulation/6/6))
+[^c-cc75d0ad5d9c3ca770e7c1f7b9469233]: Commencement: [S. 190](https://www.legislation.gov.uk/ukpga/2023/55/section/190) in force at 30.4.2024 for E. by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 4](https://www.legislation.gov.uk/uksi/2024/92/regulation/4) (with [reg. 6(6)](https://www.legislation.gov.uk/uksi/2024/92/regulation/6/6))

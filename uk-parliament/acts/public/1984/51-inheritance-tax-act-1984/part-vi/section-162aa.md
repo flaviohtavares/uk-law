@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162AA. Liabilities attributable to financing non-residents' foreign currency accounts[^key-08f46e205266c598e499c3a2f8eea4bc]
+## 162AA. Liabilities attributable to financing non-residents' foreign currency accounts[^c-08f46e205266c598e499c3a2f8eea4bc]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08f46e205266c598e499c3a2f8eea4bc]: Textual amendment: S. 162AA inserted (with effect in accordance with Sch. 25 para. 3(8) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 25 para. 3(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/25/paragraph/3/1)
+[^c-08f46e205266c598e499c3a2f8eea4bc]: Textual amendment: S. 162AA inserted (with effect in accordance with Sch. 25 para. 3(8) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 25 para. 3(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/25/paragraph/3/1)

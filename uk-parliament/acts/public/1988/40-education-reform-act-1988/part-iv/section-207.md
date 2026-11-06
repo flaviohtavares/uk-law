@@ -23,8 +23,8 @@ summary: ''
 (1) Her Majesty may at any time by Order in Council make such incidental, consequential or supplementary provision as appears to Her necessary or expedient—
 
 - (a) for the general purposes or any particular purposes of any exercise of the Commissioners’ powers under section 204 of this Act;
-- (b) in consequence of any exercise of those powers or for the purpose of giving full effect to any such exercise; [^key-8b3f08274f4ca0841195cbe51ec2cdba]...
-- (c)[^key-8b3f08274f4ca0841195cbe51ec2cdba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in consequence of any exercise of those powers or for the purpose of giving full effect to any such exercise; [^c-8b3f08274f4ca0841195cbe51ec2cdba]...
+- (c)[^c-8b3f08274f4ca0841195cbe51ec2cdba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) An Order in Council under this section may in particular amend, repeal or revoke (with or without savings) any provision of—
 
@@ -35,4 +35,4 @@ before the passing of this Act.
 
 ## Annotations
 
-[^key-8b3f08274f4ca0841195cbe51ec2cdba]: Textual amendment: S. 207(1)(c) and preceding word repealed (1.1.2005 for E., 1.1.2005 for W.) by [Higher Education Act 2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8), [s. 52(6)](https://www.legislation.gov.uk/ukpga/2004/8/section/52/6), [Sch. 7](https://www.legislation.gov.uk/ukpga/2004/8/schedule/7); [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 4](https://www.legislation.gov.uk/uksi/2004/2781/article/4); [S.I. 2004/3144](https://www.legislation.gov.uk/uksi/2004/3144), [art. 5](https://www.legislation.gov.uk/uksi/2004/3144/article/5), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2004/3144/schedule/part/2)
+[^c-8b3f08274f4ca0841195cbe51ec2cdba]: Textual amendment: S. 207(1)(c) and preceding word repealed (1.1.2005 for E., 1.1.2005 for W.) by [Higher Education Act 2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8), [s. 52(6)](https://www.legislation.gov.uk/ukpga/2004/8/section/52/6), [Sch. 7](https://www.legislation.gov.uk/ukpga/2004/8/schedule/7); [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 4](https://www.legislation.gov.uk/uksi/2004/2781/article/4); [S.I. 2004/3144](https://www.legislation.gov.uk/uksi/2004/3144), [art. 5](https://www.legislation.gov.uk/uksi/2004/3144/article/5), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2004/3144/schedule/part/2)

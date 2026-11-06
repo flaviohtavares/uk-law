@@ -25,9 +25,9 @@ summary: ''
 - (a) for inclusion in a pharmaceutical list as an NHS pharmacist; or
 - (b) from an NHS pharmacist included in such a list—
   - (i) to relocate to different pharmacy premises in the area of the relevant HWB, or
-  - (ii) to open, within the area of the relevant HWB, additional pharmacy premises at or[^key-9a57da4fdcd2fa361e92ba82678d5727] from which to provide pharmaceutical services,
+  - (ii) to open, within the area of the relevant HWB, additional pharmacy premises at or[^c-9a57da4fdcd2fa361e92ba82678d5727] from which to provide pharmaceutical services,
 
-where the applicant is seeking the listing of pharmacy premises which are in a controlled locality and NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] is required to notify the application under Part 3 of Schedule 2.
+where the applicant is seeking the listing of pharmacy premises which are in a controlled locality and NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] is required to notify the application under Part 3 of Schedule 2.
 
 (2) If paragraph (1) applies to an application (referred to in this regulation and regulation 42 as “A1”), subject to paragraph (5), NHS England must determine whether or not the “relevant location”, that is—
 
@@ -39,7 +39,7 @@ is, on basis of the circumstances that pertained on the day on which A1 was rece
 (3) Subject to regulation 43(2), the area within a 1.6 kilometre radius of a relevant location is a “reserved location” if—
 
 - (a) the number of individuals residing in that area who are on a patient list (which may be an aggregate number of patients on more than one patient list) is less than 2,750; and
-- (b) NHS England is not satisfied that if pharmaceutical services were provided at or from[^key-97b77ac1a04e1307c054d70471a4ffe0] the relevant location, the use of those services would be similar to, or greater than, the use that might be expected if the number of individuals residing in that area who are on a patient list were 2,750 or more.
+- (b) NHS England is not satisfied that if pharmaceutical services were provided at or from[^c-97b77ac1a04e1307c054d70471a4ffe0] the relevant location, the use of those services would be similar to, or greater than, the use that might be expected if the number of individuals residing in that area who are on a patient list were 2,750 or more.
 
 (4) Before making a determination under paragraph (2) (referred to in this regulation and regulation 42 as “D1”), NHS England must—
 
@@ -63,10 +63,10 @@ unless NHS England is satisfied that since the date on which the 5 year period s
 
 ## Annotations
 
-[^key-9a57da4fdcd2fa361e92ba82678d5727]: Textual amendment: Words in [reg. 41(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/349/regulation/41/1/b/ii) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [25(a)](https://www.legislation.gov.uk/uksi/2025/989/regulation/25/a)
+[^c-9a57da4fdcd2fa361e92ba82678d5727]: Textual amendment: Words in [reg. 41(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/349/regulation/41/1/b/ii) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [25(a)](https://www.legislation.gov.uk/uksi/2025/989/regulation/25/a)
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-97b77ac1a04e1307c054d70471a4ffe0]: Textual amendment: Words in [reg. 41(3)(b)](https://www.legislation.gov.uk/uksi/2013/349/regulation/41/3/b) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [25(b)](https://www.legislation.gov.uk/uksi/2025/989/regulation/25/b)
+[^c-97b77ac1a04e1307c054d70471a4ffe0]: Textual amendment: Words in [reg. 41(3)(b)](https://www.legislation.gov.uk/uksi/2013/349/regulation/41/3/b) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [25(b)](https://www.legislation.gov.uk/uksi/2025/989/regulation/25/b)
 
 [^c21646871]: Marginal citation: Prior to its revocation, regulation 18ZA was inserted by [S.I. 2005/1501](https://www.legislation.gov.uk/uksi/2005/1501).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Power to make passport fees regulations[^key-d569e2a00481bc2871b767343e03acb8]
+## 86. Power to make passport fees regulations[^c-d569e2a00481bc2871b767343e03acb8]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,4 +73,4 @@ and, for this purpose, “**arrangements**” includes arrangements for the conv
 
 ## Annotations
 
-[^key-d569e2a00481bc2871b767343e03acb8]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2016/19/section/86) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/o)
+[^c-d569e2a00481bc2871b767343e03acb8]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2016/19/section/86) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/o)

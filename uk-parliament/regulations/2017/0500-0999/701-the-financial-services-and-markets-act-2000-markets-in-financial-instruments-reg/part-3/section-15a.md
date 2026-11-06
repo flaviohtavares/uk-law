@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15A. FCA rules relating to position limits[^key-6abbf23f51294ed384e5966641725bd8]
+## 15A. FCA rules relating to position limits[^c-6abbf23f51294ed384e5966641725bd8]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6abbf23f51294ed384e5966641725bd8]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/uksi/2017/701/regulation/15A) inserted (29.10.2024 for specified purposes, 6.7.2026 in so far as not already in force) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 2 para. 45](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/45) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/2/3)); [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [regs. 3(c)(ii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/3/c/ii), [9(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/9/b/ii)
+[^c-6abbf23f51294ed384e5966641725bd8]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/uksi/2017/701/regulation/15A) inserted (29.10.2024 for specified purposes, 6.7.2026 in so far as not already in force) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 2 para. 45](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/45) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/2/3)); [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [regs. 3(c)(ii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/3/c/ii), [9(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/9/b/ii)

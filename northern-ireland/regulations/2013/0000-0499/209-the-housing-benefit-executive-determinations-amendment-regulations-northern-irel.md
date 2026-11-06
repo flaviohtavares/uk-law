@@ -68,7 +68,7 @@ Proposals in respect of these Regulations were not referred to the Social Securi
 
   .
 
-(4)[^key-008cd9b46dcf8193d3c36e8ec9f2d0fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-008cd9b46dcf8193d3c36e8ec9f2d0fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Sealed with the Official Seal of the Department for Social Development on 6th August 2013
 
@@ -102,4 +102,4 @@ They provide that from and including 2014, the LHA will be determined on 15th Ja
 
 [^c21879401]: Marginal citation: Paragraph (2) was substituted by regulation 2(3)(b) of S.R. [2012 No. 157](https://www.legislation.gov.uk/ukcm/2012/157)
 
-[^key-008cd9b46dcf8193d3c36e8ec9f2d0fe]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/nisr/2013/209/regulation/2/4) revoked (13.1.2014) by [The Housing Benefit (Executive Determinations and Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/303)](https://www.legislation.gov.uk/nisr/2013/303), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/303/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2013/303/regulation/3), [Sch.](https://www.legislation.gov.uk/nisr/2013/303/schedule)
+[^c-008cd9b46dcf8193d3c36e8ec9f2d0fe]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/nisr/2013/209/regulation/2/4) revoked (13.1.2014) by [The Housing Benefit (Executive Determinations and Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/303)](https://www.legislation.gov.uk/nisr/2013/303), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/303/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2013/303/regulation/3), [Sch.](https://www.legislation.gov.uk/nisr/2013/303/schedule)

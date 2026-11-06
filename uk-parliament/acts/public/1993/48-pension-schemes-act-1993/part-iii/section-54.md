@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Supervision: former appropriate personal pension schemes.[^key-bf2c69450a4c17e97bf5f34c0eaa1789]
+## 54. Supervision: former appropriate personal pension schemes.[^c-bf2c69450a4c17e97bf5f34c0eaa1789]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf2c69450a4c17e97bf5f34c0eaa1789]: Textual amendment: [S. 54](https://www.legislation.gov.uk/ukpga/1993/48/section/54) omitted (6.4.2012) by virtue of [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) Order 2011 (S.I. 2011/1730)](https://www.legislation.gov.uk/uksi/2011/1730), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/1730/article/1/2/b), [5(13)](https://www.legislation.gov.uk/uksi/2011/1730/article/5/13)
+[^c-bf2c69450a4c17e97bf5f34c0eaa1789]: Textual amendment: [S. 54](https://www.legislation.gov.uk/ukpga/1993/48/section/54) omitted (6.4.2012) by virtue of [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) Order 2011 (S.I. 2011/1730)](https://www.legislation.gov.uk/uksi/2011/1730), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/1730/article/1/2/b), [5(13)](https://www.legislation.gov.uk/uksi/2011/1730/article/5/13)

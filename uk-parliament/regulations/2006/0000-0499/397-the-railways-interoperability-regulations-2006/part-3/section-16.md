@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. EC declaration of conformity or of suitability for use[^key-adbae295fdffc67d2bec56f123f909be]
+## 16. EC declaration of conformity or of suitability for use[^c-adbae295fdffc67d2bec56f123f909be]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-adbae295fdffc67d2bec56f123f909be]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2006/397) revoked (16.1.2012) by [The Railways (Interoperability) Regulations 2011 (S.I. 2011/3066)](https://www.legislation.gov.uk/uksi/2011/3066), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/1/2), [47(1)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/47/1) (with [regs. 3](https://www.legislation.gov.uk/uksi/2011/3066/regulation/3), [47(2)-(6)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/47/2))
+[^c-adbae295fdffc67d2bec56f123f909be]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2006/397) revoked (16.1.2012) by [The Railways (Interoperability) Regulations 2011 (S.I. 2011/3066)](https://www.legislation.gov.uk/uksi/2011/3066), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/1/2), [47(1)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/47/1) (with [regs. 3](https://www.legislation.gov.uk/uksi/2011/3066/regulation/3), [47(2)-(6)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/47/2))

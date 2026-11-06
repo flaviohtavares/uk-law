@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Removal of obstructions other than vessels[^key-3e5fed709d51b39146ae815edeb2f3f3]
+## 49. Removal of obstructions other than vessels[^c-3e5fed709d51b39146ae815edeb2f3f3]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ the Agency may recover the deficiency or the whole of the expenses, as the case 
 
 ## Annotations
 
-[^key-3e5fed709d51b39146ae815edeb2f3f3]: Commencement: Art. 49 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-3e5fed709d51b39146ae815edeb2f3f3]: Commencement: Art. 49 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

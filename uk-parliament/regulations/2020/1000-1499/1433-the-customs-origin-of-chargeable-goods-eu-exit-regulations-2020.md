@@ -52,29 +52,29 @@ The Secretary of State has recommended that, in accordance with section 17(8) of
 
 ## PART 1 — Preliminary
 
-### 1. Citation and commencement[^key-20036b51f3bf7ca91959a818fc296ab8]
+### 1. Citation and commencement[^c-20036b51f3bf7ca91959a818fc296ab8]
 
 These Regulations may be cited as the Customs (Origin of Chargeable Goods) (EU Exit) Regulations 2020 and come into force on such day as the Treasury may by regulations under section 52 of the Act appoint.
 
-### 2. Interpretation[^key-5cb847d72b27100d3cfb51d0f6067f77]
+### 2. Interpretation[^c-5cb847d72b27100d3cfb51d0f6067f77]
 
 In these Regulations—
 
 - “**the Act**” means the Taxation (Cross-border Trade) Act 2018;
-- “**Rules of Origin**” means the document entitled “Rules of Origin: Special Rules for Determining Non-Preferential Origin, version 1.2 dated 12th April 2023[^key-1c869249ac14d05e142101c232a25c3f]” which comprises the following as are so named in that document—
+- “**Rules of Origin**” means the document entitled “Rules of Origin: Special Rules for Determining Non-Preferential Origin, version 1.2 dated 12th April 2023[^c-1c869249ac14d05e142101c232a25c3f]” which comprises the following as are so named in that document—
   - (a) Part One (goods wholly obtained in a single country or territory);
   - (b) Part Two (operations not constituting an important stage of manufacture);
   - (c) Part Three (accessories, spare parts or tools); and
   - (d) Part Four (product specific rules);
 - “**Second General Rule**” means the rule of origin of goods provided by section 17(3) of the Act.
 
-### 3. Effect[^key-a883c23dcab68111ae28ee4de8168fc2]
+### 3. Effect[^c-a883c23dcab68111ae28ee4de8168fc2]
 
 These Regulations have effect for the purposes of Part 1, except sections 9 and 10, of the Act.
 
 ## PART 2 — Provision in relation to the Second General Rule
 
-### 4. Processing that is not economically justified[^key-60e87e44ab535c734c60e77912bbe901]
+### 4. Processing that is not economically justified[^c-60e87e44ab535c734c60e77912bbe901]
 
 Processing of goods is not economically justified [^c24378511] only in cases where a person causes the goods to be processed to obtain a place of origin of the goods different from that which would otherwise have applied had the processing not occurred with the purpose of—
 
@@ -84,11 +84,11 @@ Processing of goods is not economically justified [^c24378511] only in cases whe
   - (ii) a prohibition on import; or
   - (iii) a tax, duty or charge.
 
-### 5. Materials that do not form part of the final composition of goods[^key-9c37da64d916cfeeba1897750a88f1bf]
+### 5. Materials that do not form part of the final composition of goods[^c-9c37da64d916cfeeba1897750a88f1bf]
 
 In determining whether or not goods are obtained in two or more countries or territories [^c24378521], regard must not be had to the country or territory of origin of materials that are used in the course of manufacture of the goods but do not form part of the final composition of the goods.
 
-### 6. Cases and containers[^key-d6f18968f0a33212975166e3863ed5fc]
+### 6. Cases and containers[^c-d6f18968f0a33212975166e3863ed5fc]
 
 (1) Paragraph (2) applies to goods (“rule 5 goods”) where, by virtue of rule 5 of Part Two (Goods Classification Table Rules of Interpretation) of the Tariff of the United Kingdom, cases or containers of rule 5 goods are classified with the goods.
 
@@ -96,7 +96,7 @@ In determining whether or not goods are obtained in two or more countries or ter
 
 (3) In paragraph (1), “**Tariff of the United Kingdom**” has the same meaning as it has in the Customs Tariff (Establishment) (EU Exit) Regulations 2020 [^c24378531].
 
-### 7. Origin determined by reference to value of materials[^key-a660f14b729db3a611672866ddd91eb7]
+### 7. Origin determined by reference to value of materials[^c-a660f14b729db3a611672866ddd91eb7]
 
 (1) Paragraph (2) applies to goods where—
 
@@ -112,21 +112,21 @@ In determining whether or not goods are obtained in two or more countries or ter
 
 ## PART 3 — Provision contained within the Rules of Origin
 
-### 8. Goods wholly obtained in a country or territory: specified cases[^key-96b699f4819af0cebab4156499c3ce2b]
+### 8. Goods wholly obtained in a country or territory: specified cases[^c-96b699f4819af0cebab4156499c3ce2b]
 
 Goods that fall within a description of goods given in Part One of the Rules of Origin are to be regarded as wholly obtained in a country or territory [^c24378541] according to the rule applicable to the goods set out in that Part.
 
-### 9. Operations not constituting an important stage of manufacture[^key-88f15f2082b64999b177baa858fc7380]
+### 9. Operations not constituting an important stage of manufacture[^c-88f15f2082b64999b177baa858fc7380]
 
 The operations set out in Part Two of the Rules of Origin which may be applied to goods do not constitute an important stage of manufacture [^c24378551].
 
-### 10. Accessories, spare parts and tools[^key-d5dc403cf95a1375542033d0f9bb8495]
+### 10. Accessories, spare parts and tools[^c-d5dc403cf95a1375542033d0f9bb8495]
 
 (1) Paragraph (2) applies to goods which are accessories, spare parts or tools that fall within a description of goods given in Part Three of the Rules of Origin and to which, were it not for this regulation, the Second General Rule would apply.
 
 (2) The goods are not to be regarded as originating in a country or territory according to the Second General Rule but instead as originating in a country or territory according to the rule applicable to the goods set out in Part Three of the Rules of Origin.
 
-### 11. Application of the product specific rules[^key-d52812e7d4b5535f42343fda8f928be3]
+### 11. Application of the product specific rules[^c-d52812e7d4b5535f42343fda8f928be3]
 
 (1) Paragraph (2) applies to goods that fall within a description of goods given in Part Four of the Rules of Origin and to which, were it not for this regulation, the Second General Rule would apply.
 
@@ -168,36 +168,36 @@ This instrument is one of a group of instruments covered by an overarching Tax I
 
 [^c24378491]: Marginal citation: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22).
 
-[^key-20036b51f3bf7ca91959a818fc296ab8]: Commencement: Reg. 1 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-20036b51f3bf7ca91959a818fc296ab8]: Commencement: Reg. 1 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-5cb847d72b27100d3cfb51d0f6067f77]: Commencement: Reg. 2 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-5cb847d72b27100d3cfb51d0f6067f77]: Commencement: Reg. 2 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-1c869249ac14d05e142101c232a25c3f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2020/1433/regulation/2) substituted (10.5.2023) by [The Customs Tariff (Preferential Trade Arrangements and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/433)](https://www.legislation.gov.uk/uksi/2023/433), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/433/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/433/regulation/4)
+[^c-1c869249ac14d05e142101c232a25c3f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2020/1433/regulation/2) substituted (10.5.2023) by [The Customs Tariff (Preferential Trade Arrangements and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/433)](https://www.legislation.gov.uk/uksi/2023/433), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/433/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/433/regulation/4)
 
-[^key-a883c23dcab68111ae28ee4de8168fc2]: Commencement: Reg. 3 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-a883c23dcab68111ae28ee4de8168fc2]: Commencement: Reg. 3 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-60e87e44ab535c734c60e77912bbe901]: Commencement: Reg. 4 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-60e87e44ab535c734c60e77912bbe901]: Commencement: Reg. 4 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24378511]: Marginal citation: The Second General Rule includes a requirement that processing of goods must be economically justified.
 
-[^key-9c37da64d916cfeeba1897750a88f1bf]: Commencement: Reg. 5 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-9c37da64d916cfeeba1897750a88f1bf]: Commencement: Reg. 5 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24378521]: Marginal citation: The Second General Rule applies if goods are obtained in two or more countries or territories.
 
-[^key-d6f18968f0a33212975166e3863ed5fc]: Commencement: Reg. 6 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-d6f18968f0a33212975166e3863ed5fc]: Commencement: Reg. 6 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24378531]: Marginal citation: [S.I. 2020/1430](https://www.legislation.gov.uk/uksi/2020/1430).
 
-[^key-a660f14b729db3a611672866ddd91eb7]: Commencement: Reg. 7 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-a660f14b729db3a611672866ddd91eb7]: Commencement: Reg. 7 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-96b699f4819af0cebab4156499c3ce2b]: Commencement: Reg. 8 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-96b699f4819af0cebab4156499c3ce2b]: Commencement: Reg. 8 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24378541]: Marginal citation: Section 17(2) of the Act provides that goods are to be regarded as originating from a country or territory if they are wholly obtained in the country or territory.
 
-[^key-88f15f2082b64999b177baa858fc7380]: Commencement: Reg. 9 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-88f15f2082b64999b177baa858fc7380]: Commencement: Reg. 9 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24378551]: Marginal citation: Section 17(4) of the Act provides that processing of goods is to be regarded as substantial only if it represents an important stage of manufacture or results in the manufacture of a new product.
 
-[^key-d5dc403cf95a1375542033d0f9bb8495]: Commencement: Reg. 10 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-d5dc403cf95a1375542033d0f9bb8495]: Commencement: Reg. 10 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-d52812e7d4b5535f42343fda8f928be3]: Commencement: Reg. 11 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-d52812e7d4b5535f42343fda8f928be3]: Commencement: Reg. 11 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)

@@ -24,7 +24,7 @@ Section 136
 
 ### Local Government, Planning and Land Act 1980 (c. 65)
 
-**1.**[^key-30744084fd195c538a1485ad41c1e312] In section 2(1) of the Local Government, Planning and Land Act 1980 (duty of authorities to publish information) after paragraph (b) insert—
+**1.**[^c-30744084fd195c538a1485ad41c1e312] In section 2(1) of the Local Government, Planning and Land Act 1980 (duty of authorities to publish information) after paragraph (b) insert—
 
 > - (ba) a parish council;
 > - (bb) a parish meeting of a parish which does not have a separate parish council;
@@ -34,7 +34,7 @@ Section 136
 
 ### Local Government Act 1999 (c. 27)
 
-**2.**[^key-64f67d9d13f92029224ecd577822f5b8] (1) The Local Government Act 1999 is amended as follows.
+**2.**[^c-64f67d9d13f92029224ecd577822f5b8] (1) The Local Government Act 1999 is amended as follows.
 
 (2) Before section 19 insert— “ Exclusion of non-commercial considerations ”.
 
@@ -56,7 +56,7 @@ Section 136
 
 ### Local Government Act 2003 (c. 26)
 
-**3.**[^key-76abe8fa48d7b1f0c5060ad5a7af657d] (1) The Local Government Act 2003 is amended as follows.
+**3.**[^c-76abe8fa48d7b1f0c5060ad5a7af657d] (1) The Local Government Act 2003 is amended as follows.
 
 (2) Omit sections 34 and 35 (best value grants to parishes and communities).
 
@@ -170,8 +170,8 @@ Section 136
 
 ## Annotations
 
-[^key-30744084fd195c538a1485ad41c1e312]: Commencement: Sch. 7 para. 1 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/a)
+[^c-30744084fd195c538a1485ad41c1e312]: Commencement: Sch. 7 para. 1 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/a)
 
-[^key-64f67d9d13f92029224ecd577822f5b8]: Commencement: Sch. 7 para. 2 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/a)
+[^c-64f67d9d13f92029224ecd577822f5b8]: Commencement: Sch. 7 para. 2 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/a)
 
-[^key-76abe8fa48d7b1f0c5060ad5a7af657d]: Commencement: Sch. 7 para. 3 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/a)
+[^c-76abe8fa48d7b1f0c5060ad5a7af657d]: Commencement: Sch. 7 para. 3 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/a)

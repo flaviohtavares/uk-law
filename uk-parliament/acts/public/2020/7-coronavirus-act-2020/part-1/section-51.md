@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Powers relating to potentially infectious persons[^key-a45402c662ef227321ddb3064b30c927]
+## 51. Powers relating to potentially infectious persons[^c-a45402c662ef227321ddb3064b30c927]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a45402c662ef227321ddb3064b30c927]: Textual amendment: [S. 51](https://www.legislation.gov.uk/ukpga/2020/7/section/51) expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-a45402c662ef227321ddb3064b30c927]: Textual amendment: [S. 51](https://www.legislation.gov.uk/ukpga/2020/7/section/51) expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45E. Mandatory licence conditions[^key-a0ad0f41fc9b6e8b305d0ff5885b8810]
+## 45E. Mandatory licence conditions[^c-a0ad0f41fc9b6e8b305d0ff5885b8810]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0ad0f41fc9b6e8b305d0ff5885b8810]: Textual amendment: Ss. 45E, 45F and cross-heading inserted (1.12.2015 for the insertion of s. 45E for specified purposes) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 80(2)](https://www.legislation.gov.uk/asp/2015/10/section/80/2), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2015/382](https://www.legislation.gov.uk/ssi/2015/382), [art. 2](https://www.legislation.gov.uk/ssi/2015/382/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/382/schedule)
+[^c-a0ad0f41fc9b6e8b305d0ff5885b8810]: Textual amendment: Ss. 45E, 45F and cross-heading inserted (1.12.2015 for the insertion of s. 45E for specified purposes) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 80(2)](https://www.legislation.gov.uk/asp/2015/10/section/80/2), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2015/382](https://www.legislation.gov.uk/ssi/2015/382), [art. 2](https://www.legislation.gov.uk/ssi/2015/382/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/382/schedule)

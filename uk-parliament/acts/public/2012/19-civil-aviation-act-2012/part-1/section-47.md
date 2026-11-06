@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Appeals against orders and penalties[^key-2d793b78ad61a9ade63c33e698ff8312]
+## 47. Appeals against orders and penalties[^c-2d793b78ad61a9ade63c33e698ff8312]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 3 (appeals against orders and penalties) has effect.
 
 ## Annotations
 
-[^key-2d793b78ad61a9ade63c33e698ff8312]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2012/19/section/47) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-2d793b78ad61a9ade63c33e698ff8312]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2012/19/section/47) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

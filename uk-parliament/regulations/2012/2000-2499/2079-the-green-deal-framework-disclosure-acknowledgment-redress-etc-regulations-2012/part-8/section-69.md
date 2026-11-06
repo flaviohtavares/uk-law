@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 69. Sanctions for breaches of the relevant requirements by green deal assessors and green deal certification bodies[^key-f4a51f4f222bfe230defaf8a7d595afd]
+## 69. Sanctions for breaches of the relevant requirements by green deal assessors and green deal certification bodies[^c-f4a51f4f222bfe230defaf8a7d595afd]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Where the Secretary of State is satisfied that there is a breach of the relevant
 
 ## Annotations
 
-[^key-f4a51f4f222bfe230defaf8a7d595afd]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/2012/2079/regulation/69) in force at 1.10.2012 for specified purposes and 28.1.2013 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/4)
+[^c-f4a51f4f222bfe230defaf8a7d595afd]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/2012/2079/regulation/69) in force at 1.10.2012 for specified purposes and 28.1.2013 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/4)

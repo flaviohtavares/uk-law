@@ -25,7 +25,7 @@ summary: ''
 - (a) begins on the first day of the period for which the claimant was previously entitled to an employment and support allowance; and
 - (b) subject to paragraphs (3), (4) and (5), ends on the day when the sum of the period for which the claimant was previously entitled to an employment and support allowance and the period for which the claimant is currently entitled to such an allowance is 13 weeks.
 
-(1A)[^key-145dfbbd0230467d8ed291995261c24b] For the purposes of paragraph (1), any period when the claimant was—
+(1A)[^c-145dfbbd0230467d8ed291995261c24b] For the purposes of paragraph (1), any period when the claimant was—
 
 - (a) entitled to a jobseeker’s allowance; and
 - (b) treated as capable of work or as not having limited capability for work under regulation 55ZA of the Jobseeker’s Allowance Regulations 1996 or regulation 46A of the Jobseeker’s Allowance Regulations 2013,
@@ -65,4 +65,4 @@ is to be treated as a period when the claimant was previously entitled to an emp
 
 ## Annotations
 
-[^key-145dfbbd0230467d8ed291995261c24b]: Textual amendment: [Reg. 6(1A)](https://www.legislation.gov.uk/uksi/2013/379/regulation/6/1A) inserted (30.3.2015) by [The Jobseeker's Allowance (Extended Period of Sickness) Amendment Regulations 2015 (S.I. 2015/339)](https://www.legislation.gov.uk/uksi/2015/339), [regs. 1](https://www.legislation.gov.uk/uksi/2015/339/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2015/339/regulation/5/3)
+[^c-145dfbbd0230467d8ed291995261c24b]: Textual amendment: [Reg. 6(1A)](https://www.legislation.gov.uk/uksi/2013/379/regulation/6/1A) inserted (30.3.2015) by [The Jobseeker's Allowance (Extended Period of Sickness) Amendment Regulations 2015 (S.I. 2015/339)](https://www.legislation.gov.uk/uksi/2015/339), [regs. 1](https://www.legislation.gov.uk/uksi/2015/339/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2015/339/regulation/5/3)

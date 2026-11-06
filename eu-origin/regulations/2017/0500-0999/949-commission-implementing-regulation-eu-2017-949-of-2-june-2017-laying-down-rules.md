@@ -91,12 +91,12 @@ This Regulation lays down rules for the configuration of the identification code
 
 The identification code for bovine animals shall be displayed on the means of identification as follows:
 
-- ((a)) the first element of the identification code must be the country code of the United Kingdom or[^key-ad76d2ded4404e937b8ae7bd90dda8d2] of the Member State where the means of identification was first applied, in the form of either the two-letter alpha code or the three-digit numeric code as listed in the Annex;
+- ((a)) the first element of the identification code must be the country code of the United Kingdom or[^c-ad76d2ded4404e937b8ae7bd90dda8d2] of the Member State where the means of identification was first applied, in the form of either the two-letter alpha code or the three-digit numeric code as listed in the Annex;
 - ((b)) the second element of the identification code must be a numeric individual animal code not exceeding 12 digits; however, Ireland, Spain, Italy, Portugal and the United Kingdom may maintain their system of an alphanumeric code for the 12 digits following the country code in respect of animals born until 31 December 1999 for Ireland, Spain, Italy and Portugal and for the United Kingdom in respect of animals born until 30 June 2000.
 
 ## Article 3. Computerised database
 
-The competent authority [^key-0301ba0a1dc46f791ca38fd4e71375db]... may record in the computerised database for bovine animals as provided for in Article 5 of Regulation (EC) No 1760/2000, an identification code in the form of either the two-letter alpha code or the three-digit numeric code referred to in Article 2(a) of this Regulation regardless of the country code displayed on the means of identification provided that full traceability of a bovine animal is ensured.
+The competent authority [^c-0301ba0a1dc46f791ca38fd4e71375db]... may record in the computerised database for bovine animals as provided for in Article 5 of Regulation (EC) No 1760/2000, an identification code in the form of either the two-letter alpha code or the three-digit numeric code referred to in Article 2(a) of this Regulation regardless of the country code displayed on the means of identification provided that full traceability of a bovine animal is ensured.
 
 ## Article 4. Amendments to Regulation (EC) No 911/2004
 
@@ -113,7 +113,7 @@ Regulation (EC) No 911/2004 is amended as follows:
 
 This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-f6574b2859a5e1b942f50ea8b822b36f]...
+[^c-f6574b2859a5e1b942f50ea8b822b36f]...
 
 Done at Brussels, 2 June 2017.
 
@@ -135,7 +135,7 @@ Country codes as referred to in Article 2:
 | Denmark | DK | 208 |
 | Germany | DE | 276 |
 | Estonia | EE | 233 |
-| Iceland[^key-5455fbe0081937d5ae7243a34426ad53] | IS | 352 |
+| Iceland[^c-5455fbe0081937d5ae7243a34426ad53] | IS | 352 |
 | Ireland | IE | 372 |
 | Greece | EL | 300 |
 | Spain | ES | 724 |
@@ -170,12 +170,12 @@ Country codes as referred to in Article 2:
 
 [^f00004]: Footnote: Commission Regulation (EC) No 911/2004 of 29 April 2004 implementing Regulation (EC) No 1760/2000 of the European Parliament and of the Council as regards eartags, passports and holding registers ([OJ L 163, 30.4.2004, p. 65](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.163.01.0065.01.ENG)).
 
-[^key-ad76d2ded4404e937b8ae7bd90dda8d2]: Textual amendment: Words in [Art. 2(a)](https://www.legislation.gov.uk/eur/2017/949/article/2/a) inserted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2019/814/regulation/9/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ad76d2ded4404e937b8ae7bd90dda8d2]: Textual amendment: Words in [Art. 2(a)](https://www.legislation.gov.uk/eur/2017/949/article/2/a) inserted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2019/814/regulation/9/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0301ba0a1dc46f791ca38fd4e71375db]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/2017/949/article/3) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2019/814/regulation/9/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0301ba0a1dc46f791ca38fd4e71375db]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/2017/949/article/3) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2019/814/regulation/9/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00005]: Footnote: Commission Implementing Regulation (EU) 2017/949 of 2 June 2017 laying down rules for the application of Regulation (EC) No 1760/2000 of the European Parliament and of the Council with regard to the configuration of the identification code for bovine animals and amending Commission Regulation (EC) No 911/2004 ([OJ L 143, 3.6.2017, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2017.143.01.0001.01.ENG)).’;
 
-[^key-f6574b2859a5e1b942f50ea8b822b36f]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2017/949/signature) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2019/814/regulation/9/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f6574b2859a5e1b942f50ea8b822b36f]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2017/949/signature) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2019/814/regulation/9/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5455fbe0081937d5ae7243a34426ad53]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2017/949/annex) added (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [9(5)](https://www.legislation.gov.uk/uksi/2019/814/regulation/9/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5455fbe0081937d5ae7243a34426ad53]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2017/949/annex) added (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [9(5)](https://www.legislation.gov.uk/uksi/2019/814/regulation/9/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

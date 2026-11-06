@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Meaning of driving without due care and attention[^key-ef9b81f32904f761067738025c78cca6][^key-1d8f07586f79e4b665f1ad45f96c2aea]
+## 30. Meaning of driving without due care and attention[^c-ef9b81f32904f761067738025c78cca6][^c-1d8f07586f79e4b665f1ad45f96c2aea]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ In the Road Traffic Act 1988, after section 3 insert—
 
 ## Annotations
 
-[^key-ef9b81f32904f761067738025c78cca6]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2006/49/section/30) in force at 24.9.2007 for specified purposes by [S.I. 2007/2472](https://www.legislation.gov.uk/uksi/2007/2472), [art. 2(h)](https://www.legislation.gov.uk/uksi/2007/2472/article/2/h)
+[^c-ef9b81f32904f761067738025c78cca6]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2006/49/section/30) in force at 24.9.2007 for specified purposes by [S.I. 2007/2472](https://www.legislation.gov.uk/uksi/2007/2472), [art. 2(h)](https://www.legislation.gov.uk/uksi/2007/2472/article/2/h)
 
-[^key-1d8f07586f79e4b665f1ad45f96c2aea]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2006/49/section/30) in force at 18.8.2008 in so far as not already in force by [S.I. 2008/1918](https://www.legislation.gov.uk/uksi/2008/1918), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/1918/article/2/c)
+[^c-1d8f07586f79e4b665f1ad45f96c2aea]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2006/49/section/30) in force at 18.8.2008 in so far as not already in force by [S.I. 2008/1918](https://www.legislation.gov.uk/uksi/2008/1918), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/1918/article/2/c)

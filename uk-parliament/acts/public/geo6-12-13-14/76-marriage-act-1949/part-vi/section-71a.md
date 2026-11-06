@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71A. Fees[^key-babd5ba6b329b31f8c0f466a2ad1b256]
+## 71A. Fees[^c-babd5ba6b329b31f8c0f466a2ad1b256]
 
 *Extent: E+W*
 
@@ -27,15 +27,15 @@ summary: ''
 - (c) the registration for the solemnization of marriages of a building certified as required by law as a place of religious worship, or the cancellation of such a registration;
 - (d) the authorisation of a person to be present at the solemnization of marriages in such a building;
 - (e) the presence of a superintendent registrar or registrar at a marriage (except in a case falling within section 51(1A));
-- (f)[^key-3c2a6d2cbe94940bb727d30fbada0105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-3c2a6d2cbe94940bb727d30fbada0105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) the carrying out of a search of—
   - (i) any marriage register book,
-  - (ii) any index kept in relation to the marriage register or[^key-643f18405fe77980a79d37b9380aeb4b] such a book, [^key-d0fdb32dd4ccc4a450da3fe6a0ba1bce]...
-  - (iii) certified copies of entries in such a book , or[^key-bb0bd2a7855500a8d896dadb6571efc3]
+  - (ii) any index kept in relation to the marriage register or[^c-643f18405fe77980a79d37b9380aeb4b] such a book, [^c-d0fdb32dd4ccc4a450da3fe6a0ba1bce]...
+  - (iii) certified copies of entries in such a book , or[^c-bb0bd2a7855500a8d896dadb6571efc3]
   - (iv) entries in the marriage register
-- (h) the provision of a certified copy, or other record of information, relating to an entry in the marriage register or[^key-b84acf084732828c73b48241160f32eb] a marriage register book;
+- (h) the provision of a certified copy, or other record of information, relating to an entry in the marriage register or[^c-b84acf084732828c73b48241160f32eb] a marriage register book;
 - (i) the issue of the Registrar General's licence under section 7 of the Marriage (Registrar General's Licence) Act 1970;
-- (ia)[^key-5b936e3412538e032ff54965067829b1] a correction to the marriage register or a marriage register book;
+- (ia)[^c-5b936e3412538e032ff54965067829b1] a correction to the marriage register or a marriage register book;
 - (j) such other marriage services as may be prescribed.
 
 (2) Regulations under this section may—
@@ -65,16 +65,16 @@ summary: ''
 
 ## Annotations
 
-[^key-babd5ba6b329b31f8c0f466a2ad1b256]: Textual amendment: S. 71A inserted (12.7.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/1); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-babd5ba6b329b31f8c0f466a2ad1b256]: Textual amendment: S. 71A inserted (12.7.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/1); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-3c2a6d2cbe94940bb727d30fbada0105]: Textual amendment: S. 71A(1)(f) omitted (27.3.2021 for specified purposes, 4.5.2021 in so far as not already in force) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2)[(5)(c)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/5/c), [Sch. 1 para. 42(2)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/42/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-3c2a6d2cbe94940bb727d30fbada0105]: Textual amendment: S. 71A(1)(f) omitted (27.3.2021 for specified purposes, 4.5.2021 in so far as not already in force) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2)[(5)(c)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/5/c), [Sch. 1 para. 42(2)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/42/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
-[^key-643f18405fe77980a79d37b9380aeb4b]: Textual amendment: Words in s. 71A(1)(g)(ii) inserted (27.3.2021 for specified purposes, 4.5.2021 in so far as not already in force) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2)[(5)(c)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/5/c), [Sch. 1 para. 42(3)(a)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/42/3/a) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-643f18405fe77980a79d37b9380aeb4b]: Textual amendment: Words in s. 71A(1)(g)(ii) inserted (27.3.2021 for specified purposes, 4.5.2021 in so far as not already in force) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2)[(5)(c)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/5/c), [Sch. 1 para. 42(3)(a)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/42/3/a) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
-[^key-d0fdb32dd4ccc4a450da3fe6a0ba1bce]: Textual amendment: Word in s. 71A(1)(g)(ii) omitted (27.3.2021 for specified purposes, 4.5.2021 in so far as not already in force) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2)[(5)(c)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/5/c), [Sch. 1 para. 42(3)(b)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/42/3/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-d0fdb32dd4ccc4a450da3fe6a0ba1bce]: Textual amendment: Word in s. 71A(1)(g)(ii) omitted (27.3.2021 for specified purposes, 4.5.2021 in so far as not already in force) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2)[(5)(c)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/5/c), [Sch. 1 para. 42(3)(b)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/42/3/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
-[^key-bb0bd2a7855500a8d896dadb6571efc3]: Textual amendment: S. 71A(1)(g)(iv) and word inserted (27.3.2021 for specified purposes, 4.5.2021 in so far as not already in force) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2)[(5)(c)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/5/c), [Sch. 1 para. 42(4)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/42/4) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-bb0bd2a7855500a8d896dadb6571efc3]: Textual amendment: S. 71A(1)(g)(iv) and word inserted (27.3.2021 for specified purposes, 4.5.2021 in so far as not already in force) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2)[(5)(c)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/5/c), [Sch. 1 para. 42(4)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/42/4) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
-[^key-b84acf084732828c73b48241160f32eb]: Textual amendment: Words in s. 71A(1)(h) inserted (27.3.2021 for specified purposes, 4.5.2021 in so far as not already in force) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2)[(5)(c)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/5/c), [Sch. 1 para. 42(5)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/42/5) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-b84acf084732828c73b48241160f32eb]: Textual amendment: Words in s. 71A(1)(h) inserted (27.3.2021 for specified purposes, 4.5.2021 in so far as not already in force) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2)[(5)(c)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/5/c), [Sch. 1 para. 42(5)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/42/5) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
-[^key-5b936e3412538e032ff54965067829b1]: Textual amendment: S. 71A(1)(ia) inserted (27.3.2021 for specified purposes, 4.5.2021 in so far as not already in force) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2)[(5)(c)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/5/c), [Sch. 1 para. 42(6)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/42/6) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-5b936e3412538e032ff54965067829b1]: Textual amendment: S. 71A(1)(ia) inserted (27.3.2021 for specified purposes, 4.5.2021 in so far as not already in force) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2)[(5)(c)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/5/c), [Sch. 1 para. 42(6)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/42/6) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))

@@ -31,7 +31,7 @@ summary: ''
   until he attains normal pension age; and in this definition “**benefits**” means—
 
   - (i) retirement benefit for the member himself at normal pension age, or
-  - (ii) benefit for the member’s wife, husband, civil partner, widow, widower or surviving civil partner[^key-962d65eb0d995678243e6a2c9b726e14], or dependants, or others, on his attaining that age or his later death, or
+  - (ii) benefit for the member’s wife, husband, civil partner, widow, widower or surviving civil partner[^c-962d65eb0d995678243e6a2c9b726e14], or dependants, or others, on his attaining that age or his later death, or
   - (iii) both such descriptions of benefit.
 
 (2) In this Act “**pensionable service**”, in relation to a scheme and a member of it, means, subject to subsection (3), service in relevant employment which qualifies the member (on the assumption that it continues for the appropriate period) for long service benefit under the scheme.
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-962d65eb0d995678243e6a2c9b726e14]: Textual amendment: Words in s. 66(1) substituted (5.12.2005) by [The Civil Partnership (Pensions and Benefit Payments) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 (S.R. 2005/434)](https://www.legislation.gov.uk/nisr/2005/434), [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/434/article/1/3), [Sch. para. 12](https://www.legislation.gov.uk/nisr/2005/434/schedule/paragraph/12)
+[^c-962d65eb0d995678243e6a2c9b726e14]: Textual amendment: Words in s. 66(1) substituted (5.12.2005) by [The Civil Partnership (Pensions and Benefit Payments) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 (S.R. 2005/434)](https://www.legislation.gov.uk/nisr/2005/434), [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/434/article/1/3), [Sch. para. 12](https://www.legislation.gov.uk/nisr/2005/434/schedule/paragraph/12)

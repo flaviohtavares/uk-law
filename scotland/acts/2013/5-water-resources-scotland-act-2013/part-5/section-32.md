@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Deemed contracts[^key-d80b5760feb46084f7cdd6c0432cd576][^key-a62bfa287cb919038ebe3f2eacd028d1]
+## 32. Deemed contracts[^c-d80b5760feb46084f7cdd6c0432cd576][^c-a62bfa287cb919038ebe3f2eacd028d1]
 
 *Extent: S*
 
@@ -94,6 +94,6 @@ After section 20 of the 2005 Act there is inserted—
 
 ## Annotations
 
-[^key-d80b5760feb46084f7cdd6c0432cd576]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2013/5/section/32) in force at 10.6.2013 for specified purposes by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-d80b5760feb46084f7cdd6c0432cd576]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2013/5/section/32) in force at 10.6.2013 for specified purposes by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
 
-[^key-a62bfa287cb919038ebe3f2eacd028d1]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2013/5/section/32) in force at 1.4.2016 in so far as not already in force by [S.S.I. 2016/14](https://www.legislation.gov.uk/ssi/2016/14), [art. 2](https://www.legislation.gov.uk/ssi/2016/14/article/2)
+[^c-a62bfa287cb919038ebe3f2eacd028d1]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2013/5/section/32) in force at 1.4.2016 in so far as not already in force by [S.S.I. 2016/14](https://www.legislation.gov.uk/ssi/2016/14), [art. 2](https://www.legislation.gov.uk/ssi/2016/14/article/2)

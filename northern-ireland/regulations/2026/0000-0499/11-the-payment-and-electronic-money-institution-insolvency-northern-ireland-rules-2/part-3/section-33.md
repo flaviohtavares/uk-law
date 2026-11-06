@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Notice to creditors and customers[^key-79b72f1a624f80dd0d10b0df825b466b]
+## 33. Notice to creditors and customers[^c-79b72f1a624f80dd0d10b0df825b466b]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79b72f1a624f80dd0d10b0df825b466b]: Commencement: [Rule 33](https://www.legislation.gov.uk/nisr/2026/11/rule/33) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-79b72f1a624f80dd0d10b0df825b466b]: Commencement: [Rule 33](https://www.legislation.gov.uk/nisr/2026/11/rule/33) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

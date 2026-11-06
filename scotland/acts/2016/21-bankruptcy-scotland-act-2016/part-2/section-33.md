@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Determination where amount of outlays and remuneration not agreed[^key-a6b1444d75f9a362d3ba784fb17ad1cd]
+## 33. Determination where amount of outlays and remuneration not agreed[^c-a6b1444d75f9a362d3ba784fb17ad1cd]
 
 *Extent: S*
 
 (1) This section applies where—
 
-- (a) AiB receives an application under section 31, [^key-665f0126a087af78a2f9ac9a7768b116]...
-- (aa)[^key-e3b0610e0ef7d2746ba9d8fdd9445c11] AiB is not the trustee, and
+- (a) AiB receives an application under section 31, [^c-665f0126a087af78a2f9ac9a7768b116]...
+- (aa)[^c-e3b0610e0ef7d2746ba9d8fdd9445c11] AiB is not the trustee, and
 - (b) the statement submitted by the trustee under section 32 indicates that the amount of the outlays and remuneration of the trustee is not agreed.
 
 (2) The trustee must—
@@ -41,8 +41,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a6b1444d75f9a362d3ba784fb17ad1cd]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2016/21/section/33) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-a6b1444d75f9a362d3ba784fb17ad1cd]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2016/21/section/33) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-665f0126a087af78a2f9ac9a7768b116]: Textual amendment: Word in [s. 33(1)](https://www.legislation.gov.uk/asp/2016/21/section/33/1) repealed (25.6.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 4(5)(a)](https://www.legislation.gov.uk/asp/2024/9/section/4/5/a), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2025/107/regulation/4))
+[^c-665f0126a087af78a2f9ac9a7768b116]: Textual amendment: Word in [s. 33(1)](https://www.legislation.gov.uk/asp/2016/21/section/33/1) repealed (25.6.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 4(5)(a)](https://www.legislation.gov.uk/asp/2024/9/section/4/5/a), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2025/107/regulation/4))
 
-[^key-e3b0610e0ef7d2746ba9d8fdd9445c11]: Textual amendment: [S. 33(1)(aa)](https://www.legislation.gov.uk/asp/2016/21/section/33/1/aa) inserted (25.6.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 4(5)(b)](https://www.legislation.gov.uk/asp/2024/9/section/4/5/b), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2025/107/regulation/4))
+[^c-e3b0610e0ef7d2746ba9d8fdd9445c11]: Textual amendment: [S. 33(1)(aa)](https://www.legislation.gov.uk/asp/2016/21/section/33/1/aa) inserted (25.6.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 4(5)(b)](https://www.legislation.gov.uk/asp/2024/9/section/4/5/b), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2025/107/regulation/4))

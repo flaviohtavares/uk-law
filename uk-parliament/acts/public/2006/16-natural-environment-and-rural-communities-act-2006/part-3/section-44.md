@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Enforcement powers in connection with pesticides[^key-2a9e02ca5133fe6967cff549504d50eb]
+## 44. Enforcement powers in connection with pesticides[^c-2a9e02ca5133fe6967cff549504d50eb]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a9e02ca5133fe6967cff549504d50eb]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2006/16/section/44) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-2a9e02ca5133fe6967cff549504d50eb]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2006/16/section/44) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

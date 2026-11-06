@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Compensation relating to powers under s. 40.[^key-434c2898d79df44e10eb06eb95158dbe]
+## 41. Compensation relating to powers under s. 40.[^c-434c2898d79df44e10eb06eb95158dbe]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ except where the damage is attributable to the fault of the person who sustained
 
 ## Annotations
 
-[^key-434c2898d79df44e10eb06eb95158dbe]: Modification: [S. 41](https://www.legislation.gov.uk/ukpga/2000/37/section/41) modified (12.1.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(2)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/d), [Sch. 20 para. 9(4)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/20/paragraph/9/4) (with [s. 308](https://www.legislation.gov.uk/ukpga/2009/23/section/308))
+[^c-434c2898d79df44e10eb06eb95158dbe]: Modification: [S. 41](https://www.legislation.gov.uk/ukpga/2000/37/section/41) modified (12.1.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(2)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/d), [Sch. 20 para. 9(4)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/20/paragraph/9/4) (with [s. 308](https://www.legislation.gov.uk/ukpga/2009/23/section/308))

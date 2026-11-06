@@ -30,7 +30,7 @@ summary: ''
 
 ROADS TRAFFIC AND VEHICLES
 
-Motor Vehicles (Construction and Use) (Amendment No. 2) Regulations (Northern Ireland) 1999 (revoked)[^key-8e58c4068b94df897ea5cfdc17a71af4]
+Motor Vehicles (Construction and Use) (Amendment No. 2) Regulations (Northern Ireland) 1999 (revoked)[^c-8e58c4068b94df897ea5cfdc17a71af4]
 
 Made
 
@@ -40,64 +40,64 @@ Coming into operation
 
 20th April 1999
 
-[^key-8e58c4068b94df897ea5cfdc17a71af4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8e58c4068b94df897ea5cfdc17a71af4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and application[^key-8e58c4068b94df897ea5cfdc17a71af4]
+## 1. Citation, commencement, interpretation and application[^c-8e58c4068b94df897ea5cfdc17a71af4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 2 (interpretation)[^key-8e58c4068b94df897ea5cfdc17a71af4]
+## 2. Amendment of regulation 2 (interpretation)[^c-8e58c4068b94df897ea5cfdc17a71af4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to regulation 6 (length)[^key-8e58c4068b94df897ea5cfdc17a71af4]
+## 3. Amendments to regulation 6 (length)[^c-8e58c4068b94df897ea5cfdc17a71af4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 10 (overhang)[^key-8e58c4068b94df897ea5cfdc17a71af4]
+## 4. Amendment of regulation 10 (overhang)[^c-8e58c4068b94df897ea5cfdc17a71af4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments to regulation 12 (turning circle-buses)[^key-8e58c4068b94df897ea5cfdc17a71af4]
+## 5. Amendments to regulation 12 (turning circle-buses)[^c-8e58c4068b94df897ea5cfdc17a71af4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendments to regulation 12A (turning circle-articulated vehicles other than those incorporating a car transporter)[^key-8e58c4068b94df897ea5cfdc17a71af4]
+## 6. Amendments to regulation 12A (turning circle-articulated vehicles other than those incorporating a car transporter)[^c-8e58c4068b94df897ea5cfdc17a71af4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendments to regulation 12B (turning circle-articulated vehicles incorporating a car transporter)[^key-8e58c4068b94df897ea5cfdc17a71af4]
+## 7. Amendments to regulation 12B (turning circle-articulated vehicles incorporating a car transporter)[^c-8e58c4068b94df897ea5cfdc17a71af4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Turning circle-heavy motor car[^key-8e58c4068b94df897ea5cfdc17a71af4]
+## 8. Turning circle-heavy motor car[^c-8e58c4068b94df897ea5cfdc17a71af4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of regulation 33 (speedometers)[^key-8e58c4068b94df897ea5cfdc17a71af4]
+## 9. Amendment of regulation 33 (speedometers)[^c-8e58c4068b94df897ea5cfdc17a71af4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of regulation 49 (rear under-run protection)[^key-8e58c4068b94df897ea5cfdc17a71af4]
+## 10. Amendment of regulation 49 (rear under-run protection)[^c-8e58c4068b94df897ea5cfdc17a71af4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. New regulation 71B (plate relating to dimensions)[^key-8e58c4068b94df897ea5cfdc17a71af4]
+## 11. New regulation 71B (plate relating to dimensions)[^c-8e58c4068b94df897ea5cfdc17a71af4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Amendments to Schedule 1 (Community Directives and ECE Regulations)[^key-8e58c4068b94df897ea5cfdc17a71af4]
+## 12. Amendments to Schedule 1 (Community Directives and ECE Regulations)[^c-8e58c4068b94df897ea5cfdc17a71af4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8e58c4068b94df897ea5cfdc17a71af4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8e58c4068b94df897ea5cfdc17a71af4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8e58c4068b94df897ea5cfdc17a71af4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8e58c4068b94df897ea5cfdc17a71af4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8e58c4068b94df897ea5cfdc17a71af4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/103) revoked (1.1.2000) by [Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999 (S.R. 1999/454)](https://www.legislation.gov.uk/nisr/1999/454), [regs. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1), [26](https://www.legislation.gov.uk/nisr/1999/454/regulation/26), [Sch. 19](https://www.legislation.gov.uk/nisr/1999/454/schedule/19)
+[^c-8e58c4068b94df897ea5cfdc17a71af4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/103) revoked (1.1.2000) by [Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999 (S.R. 1999/454)](https://www.legislation.gov.uk/nisr/1999/454), [regs. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1), [26](https://www.legislation.gov.uk/nisr/1999/454/regulation/26), [Sch. 19](https://www.legislation.gov.uk/nisr/1999/454/schedule/19)

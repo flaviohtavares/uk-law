@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 339. Commencement[^key-d136b262a1d4f0fea5a614d2f6ec7b4d]
+## 339. Commencement[^c-d136b262a1d4f0fea5a614d2f6ec7b4d]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d136b262a1d4f0fea5a614d2f6ec7b4d]: Commencement: S. 339 in force at Royal Assent, see [s. 339(2)(b)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/b)
+[^c-d136b262a1d4f0fea5a614d2f6ec7b4d]: Commencement: S. 339 in force at Royal Assent, see [s. 339(2)(b)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/b)

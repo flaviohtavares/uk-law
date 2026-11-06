@@ -40,9 +40,9 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### 1. Integration schemes: same local authority and Health Board area[^c2209887]
 
-(1)[^key-170776eb387e522f95f7656f72be8609] Subsection (2) applies where the area of a local authority is the same as the area of a Health Board.
+(1)[^c-170776eb387e522f95f7656f72be8609] Subsection (2) applies where the area of a local authority is the same as the area of a Health Board.
 
-(2)[^key-170776eb387e522f95f7656f72be8609] The local authority and the Health Board must jointly prepare an integration scheme for the area of the local authority.
+(2)[^c-170776eb387e522f95f7656f72be8609] The local authority and the Health Board must jointly prepare an integration scheme for the area of the local authority.
 
 (3) An integration scheme is a scheme setting out—
 
@@ -101,7 +101,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (16) In this section, “**Health Board**” means a Health Board constituted under section 2(1)(a) of the National Health Service (Scotland) Act 1978.
 
-#### 2. Integration schemes: two or more local authorities in Health Board area[^key-8c1ed69017a063124df16a7251ea6d6b]
+#### 2. Integration schemes: two or more local authorities in Health Board area[^c-8c1ed69017a063124df16a7251ea6d6b]
 
 (1) This section applies where the areas of two or more local authorities fall within the area of a Health Board.
 
@@ -123,7 +123,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) any other integration scheme that has been, or is being, prepared in relation to the area of the same Health Board, and
 - (b) the likely effect on the Health Board of both or all the schemes prepared under this section.
 
-#### 3. Considerations in preparing integration scheme[^key-c041cc78b2f4372e69a991ee481ade71]
+#### 3. Considerations in preparing integration scheme[^c-c041cc78b2f4372e69a991ee481ade71]
 
 (1) This section applies where a local authority and a Health Board are preparing an integration scheme.
 
@@ -132,7 +132,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) the integration planning principles (see section 4), and
 - (b) the national health and wellbeing outcomes (see section 5).
 
-#### 4. Integration planning principles[^key-92381439c39bc87e2f308a25c3828f24]
+#### 4. Integration planning principles[^c-92381439c39bc87e2f308a25c3828f24]
 
 (1) The integration planning principles are—
 
@@ -178,7 +178,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (j) non-commercial providers of social care,
 - (k) such persons having functions in relation to housing as the Scottish Ministers think fit.
 
-#### 6. Consultation[^key-34968bf0a6bb6e10b0df46eb96bff3f6]
+#### 6. Consultation[^c-34968bf0a6bb6e10b0df46eb96bff3f6]
 
 (1) This section applies where a local authority and a Health Board are required by section 1(2) or 2(2) to prepare an integration scheme.
 
@@ -189,7 +189,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) In finalising the integration scheme, the local authority and the Health Board must take account of any views expressed by virtue of subsection (2).
 
-#### 7. Approval of integration scheme[^key-accbe401dd5b27d226e31b19eeb658cd]
+#### 7. Approval of integration scheme[^c-accbe401dd5b27d226e31b19eeb658cd]
 
 (1) After complying with section 6 and before the prescribed day, a local authority and a Health Board must jointly submit an integration scheme to the Scottish Ministers for approval.
 
@@ -217,13 +217,13 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (8) A day specified under subsection (6) is to be treated as if it were the prescribed day for the purposes of the other provisions of this Act.
 
-#### 8. Publication of integration scheme[^key-b7d73f1c7d96bc2212e40371fcfd0d13]
+#### 8. Publication of integration scheme[^c-b7d73f1c7d96bc2212e40371fcfd0d13]
 
 As soon as practicable after an integration scheme is approved under section 7, the local authority and the Health Board must publish it.
 
 ### Implementation of integration scheme
 
-#### 9. Functions delegated to integration joint board[^key-68206af1dfa280459853097c25536038]
+#### 9. Functions delegated to integration joint board[^c-68206af1dfa280459853097c25536038]
 
 (1) This section applies where the Scottish Ministers approve under section 7 an integration scheme setting out that the integration model in section 1(4)(a) is to apply.
 
@@ -231,7 +231,7 @@ As soon as practicable after an integration scheme is approved under section 7, 
 
 (3) If the functions are not delegated on the day specified by virtue of section 29(4), they are delegated on the prescribed day.
 
-#### 10. Chief officer of integration joint board[^key-c6464354de66849b241da71b77eb18ad]
+#### 10. Chief officer of integration joint board[^c-c6464354de66849b241da71b77eb18ad]
 
 (1) An integration joint board is to appoint, as a member of staff, a chief officer.
 
@@ -253,7 +253,7 @@ As soon as practicable after an integration scheme is approved under section 7, 
 
 (7) The responsibilities of a chief officer are subject to the agreement of the Scottish Ministers.
 
-#### 11. Other staff of integration joint board[^key-2753cb501f35ef73aa872c50a972d888]
+#### 11. Other staff of integration joint board[^c-2753cb501f35ef73aa872c50a972d888]
 
 (1) The Scottish Ministers may by order make provision enabling integration joint boards to employ staff other than a chief officer.
 
@@ -278,7 +278,7 @@ As soon as practicable after an integration scheme is approved under section 7, 
   - (i) the constituent authorities in relation to that or those boards, and
   - (ii) that or those boards, to the extent then established.
 
-#### 12. Integration joint boards: further provision[^key-73b5476ab0fd98502b674e0df70601ea]
+#### 12. Integration joint boards: further provision[^c-73b5476ab0fd98502b674e0df70601ea]
 
 (1) The Scottish Ministers may by order make provision—
 
@@ -321,7 +321,7 @@ As soon as practicable after an integration scheme is approved under section 7, 
 - (b) social care professionals,
 - (c) such other groups of persons appearing to the Scottish Ministers to have an interest as may be prescribed.
 
-#### 13. Integration joint boards: finance and audit[^key-82e78de0e7725f1bd28d7d992eafb417]
+#### 13. Integration joint boards: finance and audit[^c-82e78de0e7725f1bd28d7d992eafb417]
 
 In section 106 of the Local Government (Scotland) Act 1973 (application of Part 7 of Act to bodies other than local authorities etc.)—
 
@@ -336,7 +336,7 @@ In section 106 of the Local Government (Scotland) Act 1973 (application of Part 
 
   .
 
-#### 14. Payments to integration joint boards in respect of delegated functions[^key-c3774053f0a199b630fbcd4c9f35d4c1]
+#### 14. Payments to integration joint boards in respect of delegated functions[^c-c3774053f0a199b630fbcd4c9f35d4c1]
 
 (1) Subsections (2) and (4) apply where—
 
@@ -349,7 +349,7 @@ In section 106 of the Local Government (Scotland) Act 1973 (application of Part 
 
 (4) Where an integration scheme contains provision of the type mentioned in section 1(3)(e), the Health Board must make a payment to the integration joint board of the amount determined in accordance with the method set out in the scheme in relation to each function delegated by it.
 
-#### 15. Functions delegated to local authority or Health Board[^key-cff128164af1ffa349997f5920115cb6]
+#### 15. Functions delegated to local authority or Health Board[^c-cff128164af1ffa349997f5920115cb6]
 
 (1) This section applies where the Scottish Ministers approve under section 7 an integration scheme setting out that the integration model in section 1(4)(b), (c) or (d) is to apply.
 
@@ -357,7 +357,7 @@ In section 106 of the Local Government (Scotland) Act 1973 (application of Part 
 
 (3) Before the functions are delegated, the local authority and the Health Board must jointly establish a committee (an “integration joint monitoring committee”) for the purpose of monitoring the carrying out of the integration functions for the area of the local authority.
 
-#### 16. Transfer of staff where functions delegated to local authority or Health Board[^key-5e3e0169c5ab52ab83a35fc7da38f7fa]
+#### 16. Transfer of staff where functions delegated to local authority or Health Board[^c-5e3e0169c5ab52ab83a35fc7da38f7fa]
 
 (1) The Scottish Ministers may by scheme make provision about the transfer of staff from a person who is to delegate functions under an integration scheme falling within subsection (4) to the person to whom the functions are to be delegated.
 
@@ -376,7 +376,7 @@ In section 106 of the Local Government (Scotland) Act 1973 (application of Part 
 - (a) the person who is to delegate functions under an integration scheme falling within subsection (4), and
 - (b) the person to whom the functions are to be delegated.
 
-#### 17. Integration joint monitoring committees: further provision[^key-f16ecf8af3e9c7df88648792d1619e2b]
+#### 17. Integration joint monitoring committees: further provision[^c-f16ecf8af3e9c7df88648792d1619e2b]
 
 (1) The Scottish Ministers may by order make provision about—
 
@@ -387,7 +387,7 @@ In section 106 of the Local Government (Scotland) Act 1973 (application of Part 
 
 (2) Without prejudice to section 69(1)(a), an order under subsection (1) may make different provision in relation to different integration joint monitoring committees.
 
-#### 18. Payments to Health Boards in respect of delegated functions[^key-52375dad70c0ceda654c58209f0159d5]
+#### 18. Payments to Health Boards in respect of delegated functions[^c-52375dad70c0ceda654c58209f0159d5]
 
 (1) Subsection (2) applies where—
 
@@ -396,7 +396,7 @@ In section 106 of the Local Government (Scotland) Act 1973 (application of Part 
 
 (2) The local authority must make a payment to the Health Board of the amount determined in accordance with the method that is set out in the scheme in relation to each function delegated to the Health Board.
 
-#### 19. Payments to local authorities in respect of delegated functions[^key-774c97aba7c12c8625d82534527c7ba8]
+#### 19. Payments to local authorities in respect of delegated functions[^c-774c97aba7c12c8625d82534527c7ba8]
 
 (1) This section applies where—
 
@@ -409,11 +409,11 @@ In section 106 of the Local Government (Scotland) Act 1973 (application of Part 
 
 (4) Each local authority which delegates functions to another local authority (the “lead authority”) under the scheme must make a payment to the lead authority of the amount determined in accordance with the method set out in the scheme in relation to each function delegated by the authority to the lead authority.
 
-#### 20. Power of Scottish Ministers to make provision giving effect to integration scheme[^key-154029f2a6598836667cb0026f8c5f15]
+#### 20. Power of Scottish Ministers to make provision giving effect to integration scheme[^c-154029f2a6598836667cb0026f8c5f15]
 
 The Scottish Ministers may by regulations make such provision as they think fit for the purpose of giving effect to provision included by virtue of section 1(3)(f) in integration schemes approved by them under section 7.
 
-#### 21. Transfer of staff: effect on contract of employment[^key-73c0f46993cb960198ed258d5b412219]
+#### 21. Transfer of staff: effect on contract of employment[^c-73c0f46993cb960198ed258d5b412219]
 
 (1) This section applies where by virtue of section 12(4), 16(1) or 48(3) a person is to be transferred from the employment of one person (“the original employer”) to another (“**the new employer**”).
 
@@ -438,7 +438,7 @@ The Scottish Ministers may by regulations make such provision as they think fit 
 
 (7) No such right arises by reason only that, by virtue of this section, the identity of the person's employer changes.
 
-#### 22. Co-operation[^key-926da1cb9df61b6148ed723f84f74683]
+#### 22. Co-operation[^c-926da1cb9df61b6148ed723f84f74683]
 
 (1) This section applies where the Scottish Ministers approve under section 7 one or more schemes prepared by virtue of section 2(3) or (4) in relation to the same Health Board.
 
@@ -449,7 +449,7 @@ The Scottish Ministers may by regulations make such provision as they think fit 
 - (a) each local authority,
 - (b) the Health Board.
 
-#### 23. Carrying out of functions conferred on officers of local authorities[^key-216fc6d967204f2b88e0b82576551226]
+#### 23. Carrying out of functions conferred on officers of local authorities[^c-216fc6d967204f2b88e0b82576551226]
 
 (1) This section applies where—
 
@@ -458,9 +458,9 @@ The Scottish Ministers may by regulations make such provision as they think fit 
 
 (2) Where the integration authority is an integration joint board, the prescribed function is deemed to have been conferred also on an officer of the Health Board and any other local authorities that are the constituent authorities of the integration joint board.
 
-(3) Where the integration authority is a local authority or Health Board, [^key-29d7aed458c7497dbe5d4ca3e2a73fdc]... the prescribed function is deemed to have been conferred also on an officer of the Health Board and any other local authority which prepared the integration scheme.
+(3) Where the integration authority is a local authority or Health Board, [^c-29d7aed458c7497dbe5d4ca3e2a73fdc]... the prescribed function is deemed to have been conferred also on an officer of the Health Board and any other local authority which prepared the integration scheme.
 
-#### 24. Carrying out of functions conferred on officers of Health Boards[^key-bb1dfa81b54df17db72b31eb257b5cf5]
+#### 24. Carrying out of functions conferred on officers of Health Boards[^c-bb1dfa81b54df17db72b31eb257b5cf5]
 
 (1) This section applies where—
 
@@ -469,11 +469,11 @@ The Scottish Ministers may by regulations make such provision as they think fit 
 
 (2) Where the integration authority is an integration joint board, the prescribed function is deemed to have been conferred also on an officer of the local authority or authorities that are the constituent authorities of the integration joint board.
 
-(3) Where the integration authority is a local authority or Health Board, [^key-0485021c20b9f0c49c5ab403c7667644]... the prescribed function is deemed to have been conferred also on an officer of the local authority or authorities which prepared the integration scheme.
+(3) Where the integration authority is a local authority or Health Board, [^c-0485021c20b9f0c49c5ab403c7667644]... the prescribed function is deemed to have been conferred also on an officer of the local authority or authorities which prepared the integration scheme.
 
 ### Carrying out of delegated functions
 
-#### 25. Effect of delegation of functions[^key-9aebb01e00a87530846d98ee863c950d]
+#### 25. Effect of delegation of functions[^c-9aebb01e00a87530846d98ee863c950d]
 
 (1) This section applies where a function is delegated in pursuance of an integration scheme.
 
@@ -485,13 +485,13 @@ The Scottish Ministers may by regulations make such provision as they think fit 
 
 (5) The Scottish Ministers may by order provide that an integration authority which is an integration joint board must or must not exercise a power of the type mentioned in subsection (3) in connection with the carrying out of a function specified in the order.
 
-#### 26. Directions by integration authority[^key-2890b11be3986852f007186d71f4eae4]
+#### 26. Directions by integration authority[^c-2890b11be3986852f007186d71f4eae4]
 
 (1) Where the integration authority is an integration joint board, it must give a direction to a constituent authority to carry out each function delegated to the integration authority.
 
-(2) Where, as mentioned in section 59(b) or (c),[^key-d21247790f7e508c50a6cf2b1fcf1e12] the integration authority is a local authority or a Health Board, it may give a direction to the Health Board or local authority which prepared the integration scheme by virtue of which it is the integration authority to carry out any function delegated to the integration authority.
+(2) Where, as mentioned in section 59(b) or (c),[^c-d21247790f7e508c50a6cf2b1fcf1e12] the integration authority is a local authority or a Health Board, it may give a direction to the Health Board or local authority which prepared the integration scheme by virtue of which it is the integration authority to carry out any function delegated to the integration authority.
 
-(2A)[^key-c6e1a4efc9286c058fd24cd990d17db3] Where, as mentioned in section 59(d)(i), the integration authority in relation to a particular function is a local authority or Health Board, the integration authority may give a direction to the Health Board or, as the case may be, the local authority which delegated the function to carry out the function.
+(2A)[^c-c6e1a4efc9286c058fd24cd990d17db3] Where, as mentioned in section 59(d)(i), the integration authority in relation to a particular function is a local authority or Health Board, the integration authority may give a direction to the Health Board or, as the case may be, the local authority which delegated the function to carry out the function.
 
 (3) A person to whom a direction under this section may be given must provide the integration authority with such information as the integration authority may reasonably require for the purpose of its deciding—
 
@@ -506,7 +506,7 @@ The Scottish Ministers may by regulations make such provision as they think fit 
 - (b) require each person to carry out the function in relation to an area specified in the direction,
 - (c) require each person to do particular things in relation to the function.
 
-#### 27. Section 26: supplementary[^key-0709a3fe414a7e883bd135a23cb6375f]
+#### 27. Section 26: supplementary[^c-0709a3fe414a7e883bd135a23cb6375f]
 
 (1) A direction under section 26—
 
@@ -540,7 +540,7 @@ The Scottish Ministers may by regulations make such provision as they think fit 
 
 (8) If the Scottish Ministers do not consider under subsection (7)(b) that the making of an order under subsection (6) would improve compliance with the integration delivery principles or contribute to achieving the national health and wellbeing outcomes in relation to the carrying out of any functions, they need not include those functions in the order.
 
-#### 28. Health funding: further provision[^key-1ee80ff15bcec7a2503fd8421cb86c75]
+#### 28. Health funding: further provision[^c-1ee80ff15bcec7a2503fd8421cb86c75]
 
 (1) This section applies where under section 14(3) or 19(2) a Health Board is required to set aside an amount in respect of certain functions delegated to an integration authority.
 
@@ -559,7 +559,7 @@ The Scottish Ministers may by regulations make such provision as they think fit 
 
 ### Strategic planning etc.
 
-#### 29. Requirement to prepare strategic plans[^key-597112e9f65c440d67f635f02e5535e0]
+#### 29. Requirement to prepare strategic plans[^c-597112e9f65c440d67f635f02e5535e0]
 
 (1) The integration authority for the area of a local authority must prepare strategic plans in accordance with this section.
 
@@ -583,7 +583,7 @@ The Scottish Ministers may by regulations make such provision as they think fit 
 - (a) in relation to an integration authority which is an integration joint board, the day on which functions are delegated to the authority by virtue of subsection (4) or, as the case may be, section 9(3),
 - (b) in relation to any other integration authority, the day on which functions are delegated by virtue of subsection (4) or, as the case may be, section 15(2) to, or to the constituent authorities of, the integration authority.
 
-#### 30. Considerations in preparing strategic plan[^key-b3c704163594fc601cf77daa4fd8e4b6]
+#### 30. Considerations in preparing strategic plan[^c-b3c704163594fc601cf77daa4fd8e4b6]
 
 (1) This section applies where an integration authority in relation to the area of a local authority is preparing a strategic plan.
 
@@ -599,7 +599,7 @@ The Scottish Ministers may by regulations make such provision as they think fit 
 
 (4) The references in subsections (3)(a) and (b) to a strategic plan are to a strategic plan relating to the same period as, or relating to part of the same period as, the strategic plan which is being prepared by the integration authority.
 
-#### 31. Integration delivery principles[^key-16bdd52a4b3392e10b11c8fe09398ed0]
+#### 31. Integration delivery principles[^c-16bdd52a4b3392e10b11c8fe09398ed0]
 
 (1) The integration delivery principles are—
 
@@ -620,7 +620,7 @@ The Scottish Ministers may by regulations make such provision as they think fit 
 
 (2) In subsection (1), “**service-users**” means persons to whom or in relation to whom the services are provided.
 
-#### 32. Establishment of strategic planning group[^key-f920be6f78d7d7db0570c76161f07e03]
+#### 32. Establishment of strategic planning group[^c-f920be6f78d7d7db0570c76161f07e03]
 
 (1) Before preparing its first strategic plan, an integration authority in relation to the area of a local authority is to establish a group (its “strategic planning group”) comprising—
 
@@ -668,7 +668,7 @@ The Scottish Ministers may by regulations make such provision as they think fit 
 
 (12) An integration authority may pay to members of its strategic planning group such expenses and allowances as the authority determines.
 
-#### 33. Preparation of strategic plan[^key-a832c44228b307355e39fe9a24141ee8]
+#### 33. Preparation of strategic plan[^c-a832c44228b307355e39fe9a24141ee8]
 
 (1) This section applies where an integration authority in relation to the area of a local authority is preparing a strategic plan.
 
@@ -701,7 +701,7 @@ The Scottish Ministers may by regulations make such provision as they think fit 
 
 (7) In finalising the strategic plan, the integration authority must take account of any views expressed by virtue of subsection (4)(c).
 
-#### 34. Provision of information for purpose of preparing strategic plan[^key-9d9aed3a32e9711440970b02d9b9643f]
+#### 34. Provision of information for purpose of preparing strategic plan[^c-9d9aed3a32e9711440970b02d9b9643f]
 
 (1) A constituent authority must provide an integration authority which is an integration joint board with such information as the authority may reasonably require for the purpose of preparing a strategic plan.
 
@@ -709,13 +709,13 @@ The Scottish Ministers may by regulations make such provision as they think fit 
 
 (3) That person is the local authority or the Health Board with which the integration authority prepared the integration scheme in pursuance of which the integration authority acquired its delegated functions.
 
-#### 35. Publication of strategic plans[^key-cf9946bdcb9143aeeaf08f71b1fd8884]
+#### 35. Publication of strategic plans[^c-cf9946bdcb9143aeeaf08f71b1fd8884]
 
 (1) As soon as practicable after the finalisation of the plan under section 33, an integration authority must publish its strategic plan.
 
 (2) At the same time as publishing a strategic plan, an integration authority must also publish a statement of the action which it took in pursuance of section 33.
 
-#### 36. Significant decisions outside strategic plan: public involvement[^key-30f35d0e11605b65516c00bc4b5aaaeb]
+#### 36. Significant decisions outside strategic plan: public involvement[^c-30f35d0e11605b65516c00bc4b5aaaeb]
 
 (1) This section applies where the integration authority for the area of a local authority—
 
@@ -731,9 +731,9 @@ The Scottish Ministers may by regulations make such provision as they think fit 
 
 (4) Those persons are users of the service which is being or may be provided.
 
-(5)[^key-be82fc599c122e909187ddcf382f4e43] This section does not apply where the integration authority for the area of a local authority falls within paragraph (d) of section 59.
+(5)[^c-be82fc599c122e909187ddcf382f4e43] This section does not apply where the integration authority for the area of a local authority falls within paragraph (d) of section 59.
 
-#### 37. Review of strategic plan[^key-b19a580166e73fdf65ffb0f5904b9c24]
+#### 37. Review of strategic plan[^c-b19a580166e73fdf65ffb0f5904b9c24]
 
 (1) An integration authority—
 
@@ -770,7 +770,7 @@ The Scottish Ministers may by regulations make such provision as they think fit 
   - (i) where a replacement strategic plan is prepared following a review under subsection (1), the day specified under subsection (9),
   - (ii) where no replacement strategic plan is prepared following such a review, the day on which the integration authority decides not to prepare a replacement strategic plan.
 
-#### 38. Requirement to prepare replacement strategic plan[^key-2eb4483118a2cde4195e6abaedc5eed1]
+#### 38. Requirement to prepare replacement strategic plan[^c-2eb4483118a2cde4195e6abaedc5eed1]
 
 (1) This section applies where the integration authority in relation to the area of a local authority is an integration joint board.
 
@@ -792,7 +792,7 @@ The Scottish Ministers may by regulations make such provision as they think fit 
 
 (7) Sections 30, 33, 34 and 35 apply in relation to a strategic plan prepared by virtue of subsection (2) as those sections apply in relation to a strategic plan prepared by virtue of section 29.
 
-#### 39. Strategic plan: annual financial statement[^key-61baeeaf2b6ad71cf78c9a2a9c9f7363]
+#### 39. Strategic plan: annual financial statement[^c-61baeeaf2b6ad71cf78c9a2a9c9f7363]
 
 (1) Each integration authority must publish an annual financial statement—
 
@@ -803,14 +803,14 @@ The Scottish Ministers may by regulations make such provision as they think fit 
 
 ### Carrying out of integration functions
 
-#### 40. Carrying out of integration functions: general[^key-1eb8a6e49d05bdb92ff3e638f1f18505]
+#### 40. Carrying out of integration functions: general[^c-1eb8a6e49d05bdb92ff3e638f1f18505]
 
 In carrying out an integration function for the area of a local authority, a person must have regard to—
 
 - (a) the integration delivery principles, and
 - (b) the national health and wellbeing outcomes.
 
-#### 41. Carrying out of integration functions: localities[^key-e4d617d126f29086795796346c7ed911]
+#### 41. Carrying out of integration functions: localities[^c-e4d617d126f29086795796346c7ed911]
 
 (1) This section applies where—
 
@@ -825,7 +825,7 @@ In carrying out an integration function for the area of a local authority, a per
 
 (5) The integration authority may pay to members of groups consulted under subsection (3) such expenses and allowances as the authority determines.
 
-#### 42. Integration authority: performance report[^key-ba77c86eca6f02587a16fa777d046d55]
+#### 42. Integration authority: performance report[^c-ba77c86eca6f02587a16fa777d046d55]
 
 (1) Each integration authority must prepare a performance report for the reporting year.
 
@@ -857,7 +857,7 @@ In carrying out an integration function for the area of a local authority, a per
   - (a) the period beginning with the date prescribed under section 9(3) or, as the case may be, 15(2) and ending on the first anniversary of that date, and
   - (b) each subsequent period of a year.
 
-#### 43. Reports[^key-63a960ed7ee5cb6398477d76c0dcd1b1]
+#### 43. Reports[^c-63a960ed7ee5cb6398477d76c0dcd1b1]
 
 (1) An integration joint monitoring committee may give reports to the integration authority on any aspect of the carrying out of the integration functions for the area of the local authority for which the integration joint monitoring committee is established.
 
@@ -878,7 +878,7 @@ In carrying out an integration function for the area of a local authority, a per
 
 ### Review of integration scheme
 
-#### 44. Review of integration scheme[^key-92e5e82c50a629a4b3a907f666a61fb6]
+#### 44. Review of integration scheme[^c-92e5e82c50a629a4b3a907f666a61fb6]
 
 (1) This section applies where an integration scheme has been approved by the Scottish Ministers under section 7.
 
@@ -895,7 +895,7 @@ In carrying out an integration function for the area of a local authority, a per
   - (i) where the local authority and the Health Board vary the scheme under section 46, the day specified under subsection (7) of that section,
   - (ii) where the local authority and the Health Board decide no changes to the scheme are necessary or desirable, the day on which that decision is made.
 
-#### 45. Requirement to review integration scheme[^key-641aed0cff70804ef941befa45dd1d5d]
+#### 45. Requirement to review integration scheme[^c-641aed0cff70804ef941befa45dd1d5d]
 
 (1) This section applies where an integration scheme has been approved by the Scottish Ministers under section 7.
 
@@ -907,7 +907,7 @@ In carrying out an integration function for the area of a local authority, a per
 
 (5) After taking account of any views of persons consulted under section 6 (as applied by subsection (3)), the local authority and the Health Board must decide whether any changes to the scheme are necessary or desirable.
 
-#### 46. Revised integration scheme[^key-adf84b4d755261cdac9592f80dabaa47]
+#### 46. Revised integration scheme[^c-adf84b4d755261cdac9592f80dabaa47]
 
 (1) This section applies where a local authority and a Health Board decide under section 44 or 45 that changes to an integration scheme are necessary or desirable.
 
@@ -936,7 +936,7 @@ In carrying out an integration function for the area of a local authority, a per
 
 (8) As soon as practicable after a revised integration scheme takes effect, the local authority and the Health Board must publish it.
 
-#### 47. New integration scheme[^key-863251796ee576fa833320cd93bc8ca3]
+#### 47. New integration scheme[^c-863251796ee576fa833320cd93bc8ca3]
 
 (1) This section applies where a local authority and a Health Board decide under section 44 or 45 that changes to an integration scheme are necessary or desirable.
 
@@ -949,7 +949,7 @@ In carrying out an integration function for the area of a local authority, a per
 
 (4) This Act applies in relation to a new integration scheme prepared by virtue of subsection (2) as it applies in relation to an integration scheme which requires to be prepared by section 1 or (as the case may be) 2(2).
 
-#### 48. Power to make provision in consequence of new integration scheme[^key-411d772dd454903a8ef6580a1e069f55]
+#### 48. Power to make provision in consequence of new integration scheme[^c-411d772dd454903a8ef6580a1e069f55]
 
 (1) This section applies where the Scottish Ministers approve an integration scheme which has been prepared by virtue of section 47.
 
@@ -993,13 +993,13 @@ In carrying out an integration function for the area of a local authority, a per
 
 (6) Subsections (1) to (3) apply despite any duty of confidentiality owed to any person in respect of the information by the person disclosing the information.
 
-#### 50. Grants to local authorities[^key-20871ea186e850be72b6c0d67370d0f9]
+#### 50. Grants to local authorities[^c-20871ea186e850be72b6c0d67370d0f9]
 
 (1) The Scottish Ministers may make a grant to a local authority in respect of costs incurred by the authority by virtue of this Part.
 
 (2) The payment of a grant under subsection (1) may be made subject to such conditions (including conditions as to repayment) as the Scottish Ministers may determine.
 
-#### 51. Default power of Scottish Ministers[^key-40dee2d44389f003ea344c36ea7f88ec]
+#### 51. Default power of Scottish Ministers[^c-40dee2d44389f003ea344c36ea7f88ec]
 
 (1) Subsection (2) applies where a local authority and a Health Board fail before the day prescribed for the purposes of section 7, or the day specified under subsection (3)(c) of that section, to submit an integration scheme for the approval of the Scottish Ministers under that section.
 
@@ -1011,7 +1011,7 @@ In carrying out an integration function for the area of a local authority, a per
 - (d) require the local authority and the Health Board to make such payments to the integration joint board as the Scottish Ministers may specify, and
 - (e) require the local authority and the Health Board to comply with such other requirements in relation to the functions as the Scottish Ministers may specify.
 
-#### 52. Directions[^key-1899c3b60a99f1ff42c47bfd4e33cc1d]
+#### 52. Directions[^c-1899c3b60a99f1ff42c47bfd4e33cc1d]
 
 (1) The Scottish Ministers may give directions to a local authority in relation to the carrying out of—
 
@@ -1050,7 +1050,7 @@ In carrying out an integration function for the area of a local authority, a per
 - (c) an integration joint board,
 - (d) an integration joint monitoring committee.
 
-#### 53A. Ethical commissioning guidance[^key-daf4f49cf70243212c24e77ff3d1893a]
+#### 53A. Ethical commissioning guidance[^c-daf4f49cf70243212c24e77ff3d1893a]
 
 (1) The Scottish Ministers must issue guidance under section 53 on ethical commissioning.
 
@@ -1061,7 +1061,7 @@ In carrying out an integration function for the area of a local authority, a per
 - (a) the persons mentioned in section 5(2), and
 - (b) each integration joint monitoring committee.
 
-#### 54. Social Care and Social Work Improvement Scotland[^key-215eba7bde857021553441d9dbc2896e]
+#### 54. Social Care and Social Work Improvement Scotland[^c-215eba7bde857021553441d9dbc2896e]
 
 In section 53 of the Public Services Reform (Scotland) Act 2010 (inspections by Social Care and Social Work Improvement Scotland)—
 
@@ -1096,7 +1096,7 @@ In section 53 of the Public Services Reform (Scotland) Act 2010 (inspections by 
 
   .
 
-#### 55. Healthcare Improvement Scotland[^key-308d4e15a55698f40ce9b34c9a8ea4a2]
+#### 55. Healthcare Improvement Scotland[^c-308d4e15a55698f40ce9b34c9a8ea4a2]
 
 (1) The National Health Service (Scotland) Act 1978 is amended as follows.
 
@@ -1166,7 +1166,7 @@ In section 53 of the Public Services Reform (Scotland) Act 2010 (inspections by 
 
   .
 
-#### 56. Joint inspections of health services and social services[^key-bcb8643f056c767141c0950cadef4d89]
+#### 56. Joint inspections of health services and social services[^c-bcb8643f056c767141c0950cadef4d89]
 
 (1) The Public Services Reform (Scotland) Act 2010 is amended as follows.
 
@@ -1214,7 +1214,7 @@ In section 53 of the Public Services Reform (Scotland) Act 2010 (inspections by 
 
 .
 
-#### 57. Amendments of section 56 of Local Government (Scotland) Act 1973[^key-aa53bad7d421e823102f596a1034f5eb]
+#### 57. Amendments of section 56 of Local Government (Scotland) Act 1973[^c-aa53bad7d421e823102f596a1034f5eb]
 
 In section 56 of the Local Government (Scotland) Act 1973 (arrangements for discharge of functions by local authorities)—
 
@@ -1229,7 +1229,7 @@ In section 56 of the Local Government (Scotland) Act 1973 (arrangements for disc
 
   .
 
-#### 58. Children's services planning[^key-de5d3bbd375f8478a087b4a8993a20ea]
+#### 58. Children's services planning[^c-de5d3bbd375f8478a087b4a8993a20ea]
 
 In section 7(1) of the Children and Young People (Scotland) Act 2014 (which makes provision for introductory matters relating to children's services planning), in the definition of “other service provider”, after paragraph (e), insert—
 
@@ -1237,7 +1237,7 @@ In section 7(1) of the Children and Young People (Scotland) Act 2014 (which make
 
 .
 
-#### 59. Meaning of “integration authority”[^key-ac5b93cec1a6de435c6fbf5679d9add8]
+#### 59. Meaning of “integration authority”[^c-ac5b93cec1a6de435c6fbf5679d9add8]
 
 For the purposes of this Part, the “integration authority” for the area of a local authority is—
 
@@ -1245,12 +1245,12 @@ For the purposes of this Part, the “integration authority” for the area of a
 - (b) where in pursuance of the integration scheme for the area functions are delegated in accordance with the integration model mentioned in section 1(4)(b), the Health Board to which the functions are delegated,
 - (c) where in pursuance of the integration scheme for the area functions are delegated in accordance with the integration model mentioned in section 1(4)(c), the local authority to which the functions are delegated,
 - (d) where in pursuance of the integration scheme for the area functions are delegated in accordance with the integration model mentioned in section 1(4)(d)
-  - (i)[^key-c6467d85372820ab53743f48efc478f5] in sections 23 to 28, 29(4) and (6)(b) and 41(1) and so far as relating to a particular function, the local authority or Health Board to which the function is delegated,
+  - (i)[^c-c6467d85372820ab53743f48efc478f5] in sections 23 to 28, 29(4) and (6)(b) and 41(1) and so far as relating to a particular function, the local authority or Health Board to which the function is delegated,
   - (ii) in any other section,
 
   the local authority and the Health Board to which the functions are delegated, acting jointly.
 
-#### 60. Meaning of “integration functions”[^key-e639f4818a137e56f540de76f2456e5b]
+#### 60. Meaning of “integration functions”[^c-e639f4818a137e56f540de76f2456e5b]
 
 (1) For the purposes of this Part, the “integration functions” for the area of a local authority are—
 
@@ -1267,13 +1267,13 @@ For the purposes of this Part, the “integration authority” for the area of a
 
 (2) In subsection (1), the references to the functions which are to be carried out in conjunction with delegated functions are to the functions set out in the integration scheme in pursuance of section 1(3)(c).
 
-#### 61. Meaning of “constituent authority”[^key-043f619cf0f49d3db05b9a513c44a0fe]
+#### 61. Meaning of “constituent authority”[^c-043f619cf0f49d3db05b9a513c44a0fe]
 
 For the purposes of this Part, each local authority and the Health Board which prepared the integration scheme in pursuance of which an integration joint board was, or is to be, established is a “**constituent authority**” in relation to that board.
 
 ## PART 2 — Shared services
 
-### 62. Shared services[^key-5bf41bca79847ed953f8a2c1c85883b7]
+### 62. Shared services[^c-5bf41bca79847ed953f8a2c1c85883b7]
 
 (1) The Common Services Agency for the Scottish Health Service (the “Agency”) may, with the consent of the Scottish Ministers, enter into arrangements with a person mentioned in subsection (2) under which the Agency provides, or secures the provision of, any goods or services for the person.
 
@@ -1285,7 +1285,7 @@ For the purposes of this Part, each local authority and the Health Board which p
 - (d) any Scottish public authority with mixed functions or no reserved functions,
 - (e) any government department,
 - (f) any cross-border public authority,
-- (g) any body corporate formed by a Health Board or by the Agency, or in the formation of which a Health Board or the Agency participated, by virtue of a delegation of the power in section 84B(1), (1A) or (2A)[^key-350efbc048d121557817bff3d6ba3910] of the National Health Service (Scotland) Act 1978 (joint ventures).
+- (g) any body corporate formed by a Health Board or by the Agency, or in the formation of which a Health Board or the Agency participated, by virtue of a delegation of the power in section 84B(1), (1A) or (2A)[^c-350efbc048d121557817bff3d6ba3910] of the National Health Service (Scotland) Act 1978 (joint ventures).
 
 (3) Services which may be provided under subsection (1) include in particular—
 
@@ -1310,7 +1310,7 @@ For the purposes of this Part, each local authority and the Health Board which p
   - (c) Healthcare Improvement Scotland,
 - “**Scottish public authority with mixed functions or no reserved functions**” means persons, bodies and office-holders (other than the Agency) listed in schedule 5 to the Public Services Reform (Scotland) Act 2010 (improvement of public functions: listed bodies) under the heading “*Scottish public authorities with mixed functions or no reserved functions*”.
 
-### 63. Section 62: consequential provision[^key-ae44e1fb5d78d3313b613d0bb8097ac8]
+### 63. Section 62: consequential provision[^c-ae44e1fb5d78d3313b613d0bb8097ac8]
 
 (1) The National Health Service (Scotland) Act 1978 is amended in accordance with subsections (2) and (3).
 
@@ -1339,11 +1339,11 @@ For the purposes of this Part, each local authority and the Health Board which p
 
 (4) In section 17(2) of the Patient Rights (Scotland) Act 2011, for “that Act” substitute “ the 1978 Act ”.
 
-### 64. Common Services Agency for the Scottish Health Service: residual liabilities[^key-7f5b970616151f7496b1847587a4b8f9]
+### 64. Common Services Agency for the Scottish Health Service: residual liabilities[^c-7f5b970616151f7496b1847587a4b8f9]
 
 In section 2(1) of the National Health Service (Residual Liabilities) Act 1996 (certain Scottish health bodies: duty to transfer residual liabilities on ceasing to exist), for “or a Special Health Board” substitute “ , a Special Health Board or the Common Services Agency for the Scottish Health Service ”.
 
-### 65. Extension of schemes for meeting losses and liabilities of health service bodies[^key-5d5999e0ef543d044d1bafd4d4c57e56]
+### 65. Extension of schemes for meeting losses and liabilities of health service bodies[^c-5d5999e0ef543d044d1bafd4d4c57e56]
 
 (1) Section 85B of the National Health Service (Scotland) Act 1978 (schemes for meeting losses and liabilities of health service bodies) is amended as follows.
 
@@ -1391,7 +1391,7 @@ In section 2(1) of the National Health Service (Residual Liabilities) Act 1996 (
 
 ## PART 3 — Health service: functions
 
-### 66. Scottish Ministers: power to form companies etc.[^key-0e463641dbda109e92a897d215fc061c]
+### 66. Scottish Ministers: power to form companies etc.[^c-0e463641dbda109e92a897d215fc061c]
 
 In section 84B of the National Health Service (Scotland) Act 1978 (joint ventures)—
 
@@ -1427,7 +1427,7 @@ In section 84B of the National Health Service (Scotland) Act 1978 (joint venture
   , and
 - (e) in subsection (3), the definition of “companies” is repealed.
 
-### 67. Health Boards: carrying out of functions[^key-7e5af395d9958b1e232299baf378b336]
+### 67. Health Boards: carrying out of functions[^c-7e5af395d9958b1e232299baf378b336]
 
 After section 12J of the National Health Service (Scotland) Act 1978, insert—
 
@@ -1496,19 +1496,19 @@ After section 12J of the National Health Service (Scotland) Act 1978, insert—
 
 ### 71. Repeals and revocation
 
-(1)[^key-692e21e5cea914057509bc5cb25a0fa5] Section 5A of the Social Work (Scotland) Act 1968 (which makes provision about local authority plans for community care services) is repealed.
+(1)[^c-692e21e5cea914057509bc5cb25a0fa5] Section 5A of the Social Work (Scotland) Act 1968 (which makes provision about local authority plans for community care services) is repealed.
 
-(2)[^key-692e21e5cea914057509bc5cb25a0fa5] Sections 4A and 4B of the National Health Service (Scotland) Act 1978 (which make provision about community health partnerships) are repealed.
+(2)[^c-692e21e5cea914057509bc5cb25a0fa5] Sections 4A and 4B of the National Health Service (Scotland) Act 1978 (which make provision about community health partnerships) are repealed.
 
-(3)[^key-692e21e5cea914057509bc5cb25a0fa5] Sections 15 to 17 of the Community Care and Health (Scotland) Act 2002 (which make provision about joint working among local authorities and certain health bodies) are repealed.
+(3)[^c-692e21e5cea914057509bc5cb25a0fa5] Sections 15 to 17 of the Community Care and Health (Scotland) Act 2002 (which make provision about joint working among local authorities and certain health bodies) are repealed.
 
-(4)[^key-692e21e5cea914057509bc5cb25a0fa5] Section 2 of the National Health Service Reform (Scotland) Act 2004 (which inserts sections 4A and 4B into the National Health Service (Scotland) Act 1978) is repealed.
+(4)[^c-692e21e5cea914057509bc5cb25a0fa5] Section 2 of the National Health Service Reform (Scotland) Act 2004 (which inserts sections 4A and 4B into the National Health Service (Scotland) Act 1978) is repealed.
 
-(5)[^key-2f572be5b9b464dda874c6b797cc4566] Section 17(1) of the Patient Rights (Scotland) Act 2011 is repealed.
+(5)[^c-2f572be5b9b464dda874c6b797cc4566] Section 17(1) of the Patient Rights (Scotland) Act 2011 is repealed.
 
-(6)[^key-692e21e5cea914057509bc5cb25a0fa5] Section 20 of the Social Care (Self-directed Support) (Scotland) Act 2013 (which amends section 15(4) of the Community Care and Health (Scotland) Act 2002) is repealed.
+(6)[^c-692e21e5cea914057509bc5cb25a0fa5] Section 20 of the Social Care (Self-directed Support) (Scotland) Act 2013 (which amends section 15(4) of the Community Care and Health (Scotland) Act 2002) is repealed.
 
-(7)[^key-2f572be5b9b464dda874c6b797cc4566] The Public Services Reform (Functions of the Common Services Agency for the Scottish Health Service) (Scotland) Order 2013 (S.S.I. 2013/220) is revoked.
+(7)[^c-2f572be5b9b464dda874c6b797cc4566] The Public Services Reform (Functions of the Common Services Agency for the Scottish Health Service) (Scotland) Order 2013 (S.S.I. 2013/220) is revoked.
 
 ### 72. Commencement
 
@@ -1531,14 +1531,14 @@ The short title of this Act is the Public Bodies (Joint Working) (Scotland) Act 
 - Sections [^M_F_28ee232c-681b-407a-ddaa-23a9f287f1d3]... 45 and 48 of the National Assistance Act 1948.
 - Section 3 of the Disabled Persons (Employment) Act 1958.
 - Section 11 of the Matrimonial Proceedings (Children) Act 1958.
-- Sections 1, 4, 5, 6B, 8, 10, 12, 12A, 12AZA, [^key-2b7ee6fbc2dac125e3ecf993fd13c82b]... 13 to 14, 27, 27ZA, 28, 29, 59, 78A, 80, 81, 83, 86 [^M_F_d97ba16d-4e89-4ab8-e541-662f605a9a4b]... of the Social Work (Scotland) Act 1968.
+- Sections 1, 4, 5, 6B, 8, 10, 12, 12A, 12AZA, [^c-2b7ee6fbc2dac125e3ecf993fd13c82b]... 13 to 14, 27, 27ZA, 28, 29, 59, 78A, 80, 81, 83, 86 [^M_F_d97ba16d-4e89-4ab8-e541-662f605a9a4b]... of the Social Work (Scotland) Act 1968.
 - Sections 34, 39, 40 and 50 of the Children Act 1975.
 - Section 24(1)[^M_F_ea01ca8f-ac0f-4214-c90f-a15e339e984e] of the Local Government and Planning (Scotland) Act 1982.
 - Sections 21, 22 and 23 of the Health and Social Services and Social Security Adjudications Act 1983.
 - Sections 3, 5, 6, 8, 9 and 10 of the Foster Children (Scotland) Act 1984.
 - Sections 2, 3, 7 and 8 of the Disabled Persons (Services, Consultation and Representation) Act 1986.
 - Sections 4, 5(1) and 5A(1)[^M_F_5c31869b-1bfe-4055-b29a-b397627f51f7] and Part II of the Housing (Scotland) Act 1987.
-- Sections 17, 19 to 23, 25[^key-ecbc7f6da725104784093f0d6e8c38b7] to 27, 29 to 32, 36, 38 and 76 of the Children (Scotland) Act 1995.
+- Sections 17, 19 to 23, 25[^c-ecbc7f6da725104784093f0d6e8c38b7] to 27, 29 to 32, 36, 38 and 76 of the Children (Scotland) Act 1995.
 - Sections 51, 203, 234B and 245A of the Criminal Procedure (Scotland) Act 1995.
 - Sections 10, 12, 37 and 39 to 45 of the Adults with Incapacity (Scotland) Act 2000.
 - Sections 1, 2, 5, 6, 8 and 92 of the Housing (Scotland) Act 2001.
@@ -1549,8 +1549,8 @@ The short title of this Act is the Public Bodies (Joint Working) (Scotland) Act 
 - Sections 1, 4, 5, 6, 9, 10, 11, 12, 19, 26, 45, 47, 48, 49, 51, 71, 80, 90, 99, 101 and 105 of the Adoption and Children (Scotland) Act 2007.
 - Sections 4 to 11, 14, 16, 18, 22, 40, 42 and 43 of the Adult Support and Protection (Scotland) Act 2007.
 - Sections 35, 37, 42, 44, 48, 49, 60, 131, 144, 145, 166, 167, 180, 183 and 184 of the Children's Hearings (Scotland) Act 2011.
-- Sections [^key-8f0652cf26759ff78127f8a18fb27eef]... 5 to 13, 16 and 19 of the Social Care (Self-directed Support) (Scotland) Act 2013.
-- Sections 6, 12, 21, 24, 25, 31, 34 and 35 of the Carers (Scotland) Act 2016.[^key-23ab1d6f415d043f1294f1ba87be7d70]
+- Sections [^c-8f0652cf26759ff78127f8a18fb27eef]... 5 to 13, 16 and 19 of the Social Care (Self-directed Support) (Scotland) Act 2013.
+- Sections 6, 12, 21, 24, 25, 31, 34 and 35 of the Carers (Scotland) Act 2016.[^c-23ab1d6f415d043f1294f1ba87be7d70]
 
 ### PART 2 — Functions conferred by virtue of enactments
 
@@ -1561,157 +1561,157 @@ The short title of this Act is the Public Bodies (Joint Working) (Scotland) Act 
 
 [^c2209887]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2014/9/section/1) partly in force; [s. 1(3)](https://www.legislation.gov.uk/asp/2014/9/section/1/3) - (16) in force at 2.4.2014, see [s.72(1)](https://www.legislation.gov.uk/asp/2014/9/section/72/1)
 
-[^key-170776eb387e522f95f7656f72be8609]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/asp/2014/9/section/1/1)[(2)](https://www.legislation.gov.uk/asp/2014/9/section/1/2) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-170776eb387e522f95f7656f72be8609]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/asp/2014/9/section/1/1)[(2)](https://www.legislation.gov.uk/asp/2014/9/section/1/2) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-8c1ed69017a063124df16a7251ea6d6b]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2014/9/section/2) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-8c1ed69017a063124df16a7251ea6d6b]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2014/9/section/2) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-c041cc78b2f4372e69a991ee481ade71]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2014/9/section/3) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-c041cc78b2f4372e69a991ee481ade71]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2014/9/section/3) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-92381439c39bc87e2f308a25c3828f24]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2014/9/section/4) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-92381439c39bc87e2f308a25c3828f24]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2014/9/section/4) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-34968bf0a6bb6e10b0df46eb96bff3f6]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2014/9/section/6) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-34968bf0a6bb6e10b0df46eb96bff3f6]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2014/9/section/6) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-accbe401dd5b27d226e31b19eeb658cd]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2014/9/section/7) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-accbe401dd5b27d226e31b19eeb658cd]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2014/9/section/7) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-b7d73f1c7d96bc2212e40371fcfd0d13]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2014/9/section/8) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-b7d73f1c7d96bc2212e40371fcfd0d13]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2014/9/section/8) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-68206af1dfa280459853097c25536038]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2014/9/section/9) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-68206af1dfa280459853097c25536038]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2014/9/section/9) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-c6464354de66849b241da71b77eb18ad]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2014/9/section/10) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-c6464354de66849b241da71b77eb18ad]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2014/9/section/10) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-2753cb501f35ef73aa872c50a972d888]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2014/9/section/11) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-2753cb501f35ef73aa872c50a972d888]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2014/9/section/11) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-73b5476ab0fd98502b674e0df70601ea]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2014/9/section/12) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-73b5476ab0fd98502b674e0df70601ea]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2014/9/section/12) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-82e78de0e7725f1bd28d7d992eafb417]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2014/9/section/13) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-82e78de0e7725f1bd28d7d992eafb417]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2014/9/section/13) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-c3774053f0a199b630fbcd4c9f35d4c1]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2014/9/section/14) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-c3774053f0a199b630fbcd4c9f35d4c1]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2014/9/section/14) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-cff128164af1ffa349997f5920115cb6]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2014/9/section/15) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-cff128164af1ffa349997f5920115cb6]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2014/9/section/15) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-5e3e0169c5ab52ab83a35fc7da38f7fa]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2014/9/section/16) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-5e3e0169c5ab52ab83a35fc7da38f7fa]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2014/9/section/16) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-f16ecf8af3e9c7df88648792d1619e2b]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2014/9/section/17) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-f16ecf8af3e9c7df88648792d1619e2b]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2014/9/section/17) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-52375dad70c0ceda654c58209f0159d5]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2014/9/section/18) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-52375dad70c0ceda654c58209f0159d5]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2014/9/section/18) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-774c97aba7c12c8625d82534527c7ba8]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2014/9/section/19) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-774c97aba7c12c8625d82534527c7ba8]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2014/9/section/19) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-154029f2a6598836667cb0026f8c5f15]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2014/9/section/20) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-154029f2a6598836667cb0026f8c5f15]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2014/9/section/20) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-73c0f46993cb960198ed258d5b412219]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2014/9/section/21) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-73c0f46993cb960198ed258d5b412219]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2014/9/section/21) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-926da1cb9df61b6148ed723f84f74683]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2014/9/section/22) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-926da1cb9df61b6148ed723f84f74683]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2014/9/section/22) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-216fc6d967204f2b88e0b82576551226]: Commencement: S. 23 in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-216fc6d967204f2b88e0b82576551226]: Commencement: S. 23 in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-29d7aed458c7497dbe5d4ca3e2a73fdc]: Textual amendment: Words in s. 23(3) repealed (28.11.2014) by [The Public Bodies (Joint Working) (Scotland) Act 2014 (Modifications) Order 2014 (S.S.I. 2014/342)](https://www.legislation.gov.uk/ssi/2014/342), [arts. 1](https://www.legislation.gov.uk/ssi/2014/342/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2014/342/article/2/2)
+[^c-29d7aed458c7497dbe5d4ca3e2a73fdc]: Textual amendment: Words in s. 23(3) repealed (28.11.2014) by [The Public Bodies (Joint Working) (Scotland) Act 2014 (Modifications) Order 2014 (S.S.I. 2014/342)](https://www.legislation.gov.uk/ssi/2014/342), [arts. 1](https://www.legislation.gov.uk/ssi/2014/342/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2014/342/article/2/2)
 
-[^key-bb1dfa81b54df17db72b31eb257b5cf5]: Commencement: S. 24 in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-bb1dfa81b54df17db72b31eb257b5cf5]: Commencement: S. 24 in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-0485021c20b9f0c49c5ab403c7667644]: Textual amendment: Words in s. 24(3) repealed (28.11.2014) by [The Public Bodies (Joint Working) (Scotland) Act 2014 (Modifications) Order 2014 (S.S.I. 2014/342)](https://www.legislation.gov.uk/ssi/2014/342), [arts. 1](https://www.legislation.gov.uk/ssi/2014/342/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2014/342/article/2/3)
+[^c-0485021c20b9f0c49c5ab403c7667644]: Textual amendment: Words in s. 24(3) repealed (28.11.2014) by [The Public Bodies (Joint Working) (Scotland) Act 2014 (Modifications) Order 2014 (S.S.I. 2014/342)](https://www.legislation.gov.uk/ssi/2014/342), [arts. 1](https://www.legislation.gov.uk/ssi/2014/342/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2014/342/article/2/3)
 
-[^key-9aebb01e00a87530846d98ee863c950d]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2014/9/section/25) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-9aebb01e00a87530846d98ee863c950d]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2014/9/section/25) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-2890b11be3986852f007186d71f4eae4]: Commencement: S. 26 in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-2890b11be3986852f007186d71f4eae4]: Commencement: S. 26 in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-d21247790f7e508c50a6cf2b1fcf1e12]: Textual amendment: Words in [s. 26(2)](https://www.legislation.gov.uk/asp/2014/9/section/26/2) inserted (28.11.2014) by [The Public Bodies (Joint Working) (Scotland) Act 2014 (Modifications) Order 2014 (S.S.I. 2014/342)](https://www.legislation.gov.uk/ssi/2014/342), [arts. 1](https://www.legislation.gov.uk/ssi/2014/342/article/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2014/342/article/2/4/a)
+[^c-d21247790f7e508c50a6cf2b1fcf1e12]: Textual amendment: Words in [s. 26(2)](https://www.legislation.gov.uk/asp/2014/9/section/26/2) inserted (28.11.2014) by [The Public Bodies (Joint Working) (Scotland) Act 2014 (Modifications) Order 2014 (S.S.I. 2014/342)](https://www.legislation.gov.uk/ssi/2014/342), [arts. 1](https://www.legislation.gov.uk/ssi/2014/342/article/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2014/342/article/2/4/a)
 
-[^key-c6e1a4efc9286c058fd24cd990d17db3]: Textual amendment: [S. 26(2A)](https://www.legislation.gov.uk/asp/2014/9/section/26/2A) inserted (28.11.2014) by [The Public Bodies (Joint Working) (Scotland) Act 2014 (Modifications) Order 2014 (S.S.I. 2014/342)](https://www.legislation.gov.uk/ssi/2014/342), [arts. 1](https://www.legislation.gov.uk/ssi/2014/342/article/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2014/342/article/2/4/b)
+[^c-c6e1a4efc9286c058fd24cd990d17db3]: Textual amendment: [S. 26(2A)](https://www.legislation.gov.uk/asp/2014/9/section/26/2A) inserted (28.11.2014) by [The Public Bodies (Joint Working) (Scotland) Act 2014 (Modifications) Order 2014 (S.S.I. 2014/342)](https://www.legislation.gov.uk/ssi/2014/342), [arts. 1](https://www.legislation.gov.uk/ssi/2014/342/article/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2014/342/article/2/4/b)
 
-[^key-0709a3fe414a7e883bd135a23cb6375f]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2014/9/section/27) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-0709a3fe414a7e883bd135a23cb6375f]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2014/9/section/27) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-1ee80ff15bcec7a2503fd8421cb86c75]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2014/9/section/28) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-1ee80ff15bcec7a2503fd8421cb86c75]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2014/9/section/28) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-597112e9f65c440d67f635f02e5535e0]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2014/9/section/29) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-597112e9f65c440d67f635f02e5535e0]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2014/9/section/29) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-b3c704163594fc601cf77daa4fd8e4b6]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2014/9/section/30) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-b3c704163594fc601cf77daa4fd8e4b6]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2014/9/section/30) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-16bdd52a4b3392e10b11c8fe09398ed0]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2014/9/section/31) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-16bdd52a4b3392e10b11c8fe09398ed0]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2014/9/section/31) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-f920be6f78d7d7db0570c76161f07e03]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2014/9/section/32) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-f920be6f78d7d7db0570c76161f07e03]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2014/9/section/32) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-a832c44228b307355e39fe9a24141ee8]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2014/9/section/33) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-a832c44228b307355e39fe9a24141ee8]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2014/9/section/33) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-9d9aed3a32e9711440970b02d9b9643f]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2014/9/section/34) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-9d9aed3a32e9711440970b02d9b9643f]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2014/9/section/34) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-cf9946bdcb9143aeeaf08f71b1fd8884]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2014/9/section/35) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-cf9946bdcb9143aeeaf08f71b1fd8884]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2014/9/section/35) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-30f35d0e11605b65516c00bc4b5aaaeb]: Commencement: S. 36 in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-30f35d0e11605b65516c00bc4b5aaaeb]: Commencement: S. 36 in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-be82fc599c122e909187ddcf382f4e43]: Textual amendment: [S. 36(5)](https://www.legislation.gov.uk/asp/2014/9/section/36/5) inserted (28.11.2014) by [The Public Bodies (Joint Working) (Scotland) Act 2014 (Modifications) Order 2014 (S.S.I. 2014/342)](https://www.legislation.gov.uk/ssi/2014/342), [arts. 1](https://www.legislation.gov.uk/ssi/2014/342/article/1), [2(5)](https://www.legislation.gov.uk/ssi/2014/342/article/2/5)
+[^c-be82fc599c122e909187ddcf382f4e43]: Textual amendment: [S. 36(5)](https://www.legislation.gov.uk/asp/2014/9/section/36/5) inserted (28.11.2014) by [The Public Bodies (Joint Working) (Scotland) Act 2014 (Modifications) Order 2014 (S.S.I. 2014/342)](https://www.legislation.gov.uk/ssi/2014/342), [arts. 1](https://www.legislation.gov.uk/ssi/2014/342/article/1), [2(5)](https://www.legislation.gov.uk/ssi/2014/342/article/2/5)
 
-[^key-b19a580166e73fdf65ffb0f5904b9c24]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2014/9/section/37) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-b19a580166e73fdf65ffb0f5904b9c24]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2014/9/section/37) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-2eb4483118a2cde4195e6abaedc5eed1]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2014/9/section/38) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-2eb4483118a2cde4195e6abaedc5eed1]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2014/9/section/38) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-61baeeaf2b6ad71cf78c9a2a9c9f7363]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2014/9/section/39) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-61baeeaf2b6ad71cf78c9a2a9c9f7363]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2014/9/section/39) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-1eb8a6e49d05bdb92ff3e638f1f18505]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2014/9/section/40) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-1eb8a6e49d05bdb92ff3e638f1f18505]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2014/9/section/40) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-e4d617d126f29086795796346c7ed911]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2014/9/section/41) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-e4d617d126f29086795796346c7ed911]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2014/9/section/41) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-ba77c86eca6f02587a16fa777d046d55]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2014/9/section/42) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-ba77c86eca6f02587a16fa777d046d55]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2014/9/section/42) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-63a960ed7ee5cb6398477d76c0dcd1b1]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2014/9/section/43) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-63a960ed7ee5cb6398477d76c0dcd1b1]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2014/9/section/43) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-92e5e82c50a629a4b3a907f666a61fb6]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2014/9/section/44) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-92e5e82c50a629a4b3a907f666a61fb6]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2014/9/section/44) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-641aed0cff70804ef941befa45dd1d5d]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2014/9/section/45) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-641aed0cff70804ef941befa45dd1d5d]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2014/9/section/45) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-adf84b4d755261cdac9592f80dabaa47]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2014/9/section/46) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-adf84b4d755261cdac9592f80dabaa47]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2014/9/section/46) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-863251796ee576fa833320cd93bc8ca3]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2014/9/section/47) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-863251796ee576fa833320cd93bc8ca3]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2014/9/section/47) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-411d772dd454903a8ef6580a1e069f55]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2014/9/section/48) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-411d772dd454903a8ef6580a1e069f55]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2014/9/section/48) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-20871ea186e850be72b6c0d67370d0f9]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2014/9/section/50) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-20871ea186e850be72b6c0d67370d0f9]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2014/9/section/50) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-40dee2d44389f003ea344c36ea7f88ec]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2014/9/section/51) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-40dee2d44389f003ea344c36ea7f88ec]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2014/9/section/51) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-1899c3b60a99f1ff42c47bfd4e33cc1d]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2014/9/section/52) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-1899c3b60a99f1ff42c47bfd4e33cc1d]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2014/9/section/52) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-daf4f49cf70243212c24e77ff3d1893a]: Textual amendment: [S. 53A](https://www.legislation.gov.uk/asp/2014/9/section/53A) inserted (7.1.2026) by [Care Reform (Scotland) Act 2025 (asp 9)](https://www.legislation.gov.uk/asp/2025/9), [ss. 18(2)](https://www.legislation.gov.uk/asp/2025/9/section/18/2), [39(2)](https://www.legislation.gov.uk/asp/2025/9/section/39/2); [S.S.I. 2025/388](https://www.legislation.gov.uk/ssi/2025/388), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/388/schedule/part/1)
+[^c-daf4f49cf70243212c24e77ff3d1893a]: Textual amendment: [S. 53A](https://www.legislation.gov.uk/asp/2014/9/section/53A) inserted (7.1.2026) by [Care Reform (Scotland) Act 2025 (asp 9)](https://www.legislation.gov.uk/asp/2025/9), [ss. 18(2)](https://www.legislation.gov.uk/asp/2025/9/section/18/2), [39(2)](https://www.legislation.gov.uk/asp/2025/9/section/39/2); [S.S.I. 2025/388](https://www.legislation.gov.uk/ssi/2025/388), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/388/schedule/part/1)
 
-[^key-215eba7bde857021553441d9dbc2896e]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2014/9/section/54) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-215eba7bde857021553441d9dbc2896e]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2014/9/section/54) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-308d4e15a55698f40ce9b34c9a8ea4a2]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2014/9/section/55) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-308d4e15a55698f40ce9b34c9a8ea4a2]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2014/9/section/55) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-bcb8643f056c767141c0950cadef4d89]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2014/9/section/56) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-bcb8643f056c767141c0950cadef4d89]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2014/9/section/56) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-aa53bad7d421e823102f596a1034f5eb]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2014/9/section/57) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-aa53bad7d421e823102f596a1034f5eb]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2014/9/section/57) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-de5d3bbd375f8478a087b4a8993a20ea]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2014/9/section/58) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-de5d3bbd375f8478a087b4a8993a20ea]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2014/9/section/58) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-ac5b93cec1a6de435c6fbf5679d9add8]: Commencement: S. 59 in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-ac5b93cec1a6de435c6fbf5679d9add8]: Commencement: S. 59 in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-c6467d85372820ab53743f48efc478f5]: Textual amendment: Words in s. 59(d) inserted (28.11.2014) by [The Public Bodies (Joint Working) (Scotland) Act 2014 (Modifications) Order 2014 (S.S.I. 2014/342)](https://www.legislation.gov.uk/ssi/2014/342), [arts. 1](https://www.legislation.gov.uk/ssi/2014/342/article/1), [2(6)](https://www.legislation.gov.uk/ssi/2014/342/article/2/6)
+[^c-c6467d85372820ab53743f48efc478f5]: Textual amendment: Words in s. 59(d) inserted (28.11.2014) by [The Public Bodies (Joint Working) (Scotland) Act 2014 (Modifications) Order 2014 (S.S.I. 2014/342)](https://www.legislation.gov.uk/ssi/2014/342), [arts. 1](https://www.legislation.gov.uk/ssi/2014/342/article/1), [2(6)](https://www.legislation.gov.uk/ssi/2014/342/article/2/6)
 
-[^key-e639f4818a137e56f540de76f2456e5b]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2014/9/section/60) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-e639f4818a137e56f540de76f2456e5b]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2014/9/section/60) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-043f619cf0f49d3db05b9a513c44a0fe]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2014/9/section/61) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-043f619cf0f49d3db05b9a513c44a0fe]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2014/9/section/61) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-5bf41bca79847ed953f8a2c1c85883b7]: Commencement: S. 62 in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-5bf41bca79847ed953f8a2c1c85883b7]: Commencement: S. 62 in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-350efbc048d121557817bff3d6ba3910]: Textual amendment: Words in [s. 62(2)(g)](https://www.legislation.gov.uk/asp/2014/9/section/62/2/g) inserted (28.11.2014) by [The Public Bodies (Joint Working) (Scotland) Act 2014 (Modifications) Order 2014 (S.S.I. 2014/342)](https://www.legislation.gov.uk/ssi/2014/342), [arts. 1](https://www.legislation.gov.uk/ssi/2014/342/article/1), [2(7)](https://www.legislation.gov.uk/ssi/2014/342/article/2/7)
+[^c-350efbc048d121557817bff3d6ba3910]: Textual amendment: Words in [s. 62(2)(g)](https://www.legislation.gov.uk/asp/2014/9/section/62/2/g) inserted (28.11.2014) by [The Public Bodies (Joint Working) (Scotland) Act 2014 (Modifications) Order 2014 (S.S.I. 2014/342)](https://www.legislation.gov.uk/ssi/2014/342), [arts. 1](https://www.legislation.gov.uk/ssi/2014/342/article/1), [2(7)](https://www.legislation.gov.uk/ssi/2014/342/article/2/7)
 
-[^key-ae44e1fb5d78d3313b613d0bb8097ac8]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2014/9/section/63) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-ae44e1fb5d78d3313b613d0bb8097ac8]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2014/9/section/63) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-7f5b970616151f7496b1847587a4b8f9]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2014/9/section/64) in force at 25.7.2014 by [S.S.I. 2014/202](https://www.legislation.gov.uk/ssi/2014/202), [art. 2](https://www.legislation.gov.uk/ssi/2014/202/article/2)
+[^c-7f5b970616151f7496b1847587a4b8f9]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2014/9/section/64) in force at 25.7.2014 by [S.S.I. 2014/202](https://www.legislation.gov.uk/ssi/2014/202), [art. 2](https://www.legislation.gov.uk/ssi/2014/202/article/2)
 
-[^key-5d5999e0ef543d044d1bafd4d4c57e56]: Commencement: S. 65 in force at 25.2.2015 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2A](https://www.legislation.gov.uk/ssi/2014/231/article/2A) (as inserted by S.S.I. 2015/44, art. 2)
+[^c-5d5999e0ef543d044d1bafd4d4c57e56]: Commencement: S. 65 in force at 25.2.2015 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2A](https://www.legislation.gov.uk/ssi/2014/231/article/2A) (as inserted by S.S.I. 2015/44, art. 2)
 
-[^key-0e463641dbda109e92a897d215fc061c]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2014/9/section/66) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-0e463641dbda109e92a897d215fc061c]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2014/9/section/66) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-7e5af395d9958b1e232299baf378b336]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2014/9/section/67) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-7e5af395d9958b1e232299baf378b336]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2014/9/section/67) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-692e21e5cea914057509bc5cb25a0fa5]: Commencement: [S. 71(1)-(4)](https://www.legislation.gov.uk/asp/2014/9/section/71/1) [(6)](https://www.legislation.gov.uk/asp/2014/9/section/71/6) in force at 1.4.2015 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 3](https://www.legislation.gov.uk/ssi/2014/231/article/3)
+[^c-692e21e5cea914057509bc5cb25a0fa5]: Commencement: [S. 71(1)-(4)](https://www.legislation.gov.uk/asp/2014/9/section/71/1) [(6)](https://www.legislation.gov.uk/asp/2014/9/section/71/6) in force at 1.4.2015 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 3](https://www.legislation.gov.uk/ssi/2014/231/article/3)
 
-[^key-2f572be5b9b464dda874c6b797cc4566]: Commencement: [S. 71(5)](https://www.legislation.gov.uk/asp/2014/9/section/71/5)[(7)](https://www.legislation.gov.uk/asp/2014/9/section/71/7) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-2f572be5b9b464dda874c6b797cc4566]: Commencement: [S. 71(5)](https://www.legislation.gov.uk/asp/2014/9/section/71/5)[(7)](https://www.legislation.gov.uk/asp/2014/9/section/71/7) in force at 22.9.2014 by [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
 [^M_F_28ee232c-681b-407a-ddaa-23a9f287f1d3]: Textual amendment: Words in sch. Pt. 1 repealed (28.11.2014) by [The Public Bodies (Joint Working) (Prescribed Local Authority Functions etc.) (Scotland) Regulations 2014 (S.S.I. 2014/345)](https://www.legislation.gov.uk/ssi/2014/345), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/345/regulation/1/1), [3(a)](https://www.legislation.gov.uk/ssi/2014/345/regulation/3/a)
 
-[^key-2b7ee6fbc2dac125e3ecf993fd13c82b]: Textual amendment: Words in sch. Pt. 1 repealed (1.4.2018) by [Carers (Scotland) Act 2016 (asp 9)](https://www.legislation.gov.uk/asp/2016/9), [s. 45(2)](https://www.legislation.gov.uk/asp/2016/9/section/45/2), [sch. para. 6(2)(a)](https://www.legislation.gov.uk/asp/2016/9/schedule/paragraph/6/2/a); [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152), [reg. 4](https://www.legislation.gov.uk/ssi/2017/152/regulation/4)
+[^c-2b7ee6fbc2dac125e3ecf993fd13c82b]: Textual amendment: Words in sch. Pt. 1 repealed (1.4.2018) by [Carers (Scotland) Act 2016 (asp 9)](https://www.legislation.gov.uk/asp/2016/9), [s. 45(2)](https://www.legislation.gov.uk/asp/2016/9/section/45/2), [sch. para. 6(2)(a)](https://www.legislation.gov.uk/asp/2016/9/schedule/paragraph/6/2/a); [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152), [reg. 4](https://www.legislation.gov.uk/ssi/2017/152/regulation/4)
 
 [^M_F_d97ba16d-4e89-4ab8-e541-662f605a9a4b]: Textual amendment: Words in sch. Pt. 1 repealed (28.11.2014) by [The Public Bodies (Joint Working) (Prescribed Local Authority Functions etc.) (Scotland) Regulations 2014 (S.S.I. 2014/345)](https://www.legislation.gov.uk/ssi/2014/345), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/345/regulation/1/1), [3(b)](https://www.legislation.gov.uk/ssi/2014/345/regulation/3/b)
 
@@ -1719,8 +1719,8 @@ The short title of this Act is the Public Bodies (Joint Working) (Scotland) Act 
 
 [^M_F_5c31869b-1bfe-4055-b29a-b397627f51f7]: Textual amendment: Words in sch. Pt. 1 substituted (28.11.2014) by [The Public Bodies (Joint Working) (Prescribed Local Authority Functions etc.) (Scotland) Regulations 2014 (S.S.I. 2014/345)](https://www.legislation.gov.uk/ssi/2014/345), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/345/regulation/1/1), [3(d)](https://www.legislation.gov.uk/ssi/2014/345/regulation/3/d)
 
-[^key-ecbc7f6da725104784093f0d6e8c38b7]: Textual amendment: Words in sch. Pt. 1 inserted (1.4.2018) by [Carers (Scotland) Act 2016 (asp 9)](https://www.legislation.gov.uk/asp/2016/9), [s. 45(2)](https://www.legislation.gov.uk/asp/2016/9/section/45/2), [sch. para. 6(2)(b)](https://www.legislation.gov.uk/asp/2016/9/schedule/paragraph/6/2/b); [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152), [reg. 4](https://www.legislation.gov.uk/ssi/2017/152/regulation/4)
+[^c-ecbc7f6da725104784093f0d6e8c38b7]: Textual amendment: Words in sch. Pt. 1 inserted (1.4.2018) by [Carers (Scotland) Act 2016 (asp 9)](https://www.legislation.gov.uk/asp/2016/9), [s. 45(2)](https://www.legislation.gov.uk/asp/2016/9/section/45/2), [sch. para. 6(2)(b)](https://www.legislation.gov.uk/asp/2016/9/schedule/paragraph/6/2/b); [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152), [reg. 4](https://www.legislation.gov.uk/ssi/2017/152/regulation/4)
 
-[^key-8f0652cf26759ff78127f8a18fb27eef]: Textual amendment: Word in sch. Pt. 1 omitted (1.4.2018) by virtue of [The Public Bodies (Joint Working) (Prescribed Local Authority Functions etc.) (Scotland) Amendment (No. 2) Regulations 2017 (S.S.I. 2017/449)](https://www.legislation.gov.uk/ssi/2017/449), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/449/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2017/449/regulation/2)
+[^c-8f0652cf26759ff78127f8a18fb27eef]: Textual amendment: Word in sch. Pt. 1 omitted (1.4.2018) by virtue of [The Public Bodies (Joint Working) (Prescribed Local Authority Functions etc.) (Scotland) Amendment (No. 2) Regulations 2017 (S.S.I. 2017/449)](https://www.legislation.gov.uk/ssi/2017/449), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/449/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2017/449/regulation/2)
 
-[^key-23ab1d6f415d043f1294f1ba87be7d70]: Textual amendment: Words in sch. Pt. 1 inserted (24.4.2017) by [Carers (Scotland) Act 2016 (asp 9)](https://www.legislation.gov.uk/asp/2016/9), [s. 45(2)](https://www.legislation.gov.uk/asp/2016/9/section/45/2), [sch. para. 6(2)(c)](https://www.legislation.gov.uk/asp/2016/9/schedule/paragraph/6/2/c); [S.S.I. 2017/94](https://www.legislation.gov.uk/ssi/2017/94), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2017/94/regulation/2/b)
+[^c-23ab1d6f415d043f1294f1ba87be7d70]: Textual amendment: Words in sch. Pt. 1 inserted (24.4.2017) by [Carers (Scotland) Act 2016 (asp 9)](https://www.legislation.gov.uk/asp/2016/9), [s. 45(2)](https://www.legislation.gov.uk/asp/2016/9/section/45/2), [sch. para. 6(2)(c)](https://www.legislation.gov.uk/asp/2016/9/schedule/paragraph/6/2/c); [S.S.I. 2017/94](https://www.legislation.gov.uk/ssi/2017/94), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2017/94/regulation/2/b)

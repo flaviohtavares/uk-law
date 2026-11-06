@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 65. The Register[^key-7ee794147e579245d75645d055a967c8]
+## 65. The Register[^c-7ee794147e579245d75645d055a967c8]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ee794147e579245d75645d055a967c8]: Textual amendment: Rule 65 substituted (2.3.2026) by [The Tribunal Procedure and Employment Tribunal Procedure (Amendment) Rules 2026 (S.I. 2026/115)](https://www.legislation.gov.uk/uksi/2026/115), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/115/rule/1/2), [8(13)](https://www.legislation.gov.uk/uksi/2026/115/rule/8/13)
+[^c-7ee794147e579245d75645d055a967c8]: Textual amendment: Rule 65 substituted (2.3.2026) by [The Tribunal Procedure and Employment Tribunal Procedure (Amendment) Rules 2026 (S.I. 2026/115)](https://www.legislation.gov.uk/uksi/2026/115), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/115/rule/1/2), [8(13)](https://www.legislation.gov.uk/uksi/2026/115/rule/8/13)

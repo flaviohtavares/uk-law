@@ -41,7 +41,7 @@ summary: ''
 - “**civilian subject to service discipline**” has the same meaning as in the Armed Forces Act 2006;
 - “**corresponding offence under the law of England and Wales**”, in relation to an offence under section 42 of that Act, has the meaning given by that section;
 - “**member of the provost staff**” means—
-  - (a) a service policeman (within the meaning given by section 375(1) of the Armed Forces Act 2006); or[^key-476adff7fabad2db4fc72dbbd69a8eab]
+  - (a) a service policeman (within the meaning given by section 375(1) of the Armed Forces Act 2006); or[^c-476adff7fabad2db4fc72dbbd69a8eab]
   - (b) a person lawfully exercising authority on behalf of a provost officer (within the meaning of that Act);
 - “**subject to service law**” has the same meaning as in that Act.
 
@@ -71,4 +71,4 @@ summary: ''
 
 [^c19211041]: Textual amendment: S. 184(3) substituted (28.3.2009 for certain purposes, 31.10.2009 in so far as it is not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 378(1)](https://www.legislation.gov.uk/ukpga/2006/52/section/378/1), [383](https://www.legislation.gov.uk/ukpga/2006/52/section/383), [Sch. 16 para. 117(4)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/117/4) [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3](https://www.legislation.gov.uk/uksi/2009/812/article/3); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-476adff7fabad2db4fc72dbbd69a8eab]: Textual amendment: Words in [s. 184(3)](https://www.legislation.gov.uk/ukpga/1988/52/section/184/3) substituted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2011/18/schedule/4/paragraph/1); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(e)](https://www.legislation.gov.uk/uksi/2012/669/article/4/e)
+[^c-476adff7fabad2db4fc72dbbd69a8eab]: Textual amendment: Words in [s. 184(3)](https://www.legislation.gov.uk/ukpga/1988/52/section/184/3) substituted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2011/18/schedule/4/paragraph/1); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(e)](https://www.legislation.gov.uk/uksi/2012/669/article/4/e)

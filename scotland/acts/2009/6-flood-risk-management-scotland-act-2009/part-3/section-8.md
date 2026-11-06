@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Flood risk management districts[^key-aa6bc55cbe71a9f89940e059c3b395b2]
+## 8. Flood risk management districts[^c-aa6bc55cbe71a9f89940e059c3b395b2]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ make copies of the order concerned and the map to which the order refers availab
 
 ## Annotations
 
-[^key-aa6bc55cbe71a9f89940e059c3b395b2]: Commencement: S. 8 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-aa6bc55cbe71a9f89940e059c3b395b2]: Commencement: S. 8 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

@@ -45,13 +45,13 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred by section 7(1) and (2) of the Wildlife and Countryside Act 1981[^f00001], make the following Regulations:
 
-## 1. Title, commencement and application[^key-ff0dc876ee70c2f322609d4effd34e23]
+## 1. Title, commencement and application[^c-ff0dc876ee70c2f322609d4effd34e23]
 
 (1) The title of these Regulations is the Wildlife and Countryside (Registration, Ringing and Marking of Certain Captive Birds) (Wales) Regulations 2011.
 
 (2) These Regulations come into force on 1 August 2011 and apply in relation to Wales.
 
-## 2. Interpretation[^key-6ec5111366c0ce1a6080c1df3e4fa033]
+## 2. Interpretation[^c-6ec5111366c0ce1a6080c1df3e4fa033]
 
 (1) In these Regulations—
 
@@ -64,7 +64,7 @@ The Welsh Ministers, in exercise of the powers conferred by section 7(1) and (2)
 
 (2) In these Regulations, any reference to a bird to which these Regulations apply is a reference to any bird included in Schedule 4 to the Act which any person keeps.
 
-## 3. Registration[^key-002273de05576ecb5a7b55cfdd792a25]
+## 3. Registration[^c-002273de05576ecb5a7b55cfdd792a25]
 
 (1) The Welsh Ministers must, for the purposes of section 7(1) of the Act, maintain a register of birds to which these Regulations apply which are kept at addresses in Wales.
 
@@ -80,7 +80,7 @@ The Welsh Ministers, in exercise of the powers conferred by section 7(1) and (2)
 
 (7) Upon being notified in accordance with regulation 4(1)(d)(ii) of a change in the address at which a registered bird will be kept, the Welsh Ministers must ensure that the new address is entered onto the register as the registered address for that bird.
 
-## 4. Termination[^key-e5df89cf7e46896d74dca1424e6488db]
+## 4. Termination[^c-e5df89cf7e46896d74dca1424e6488db]
 
 (1) A registration ceases to have effect—
 
@@ -105,7 +105,7 @@ The Welsh Ministers, in exercise of the powers conferred by section 7(1) and (2)
 - (i) in circumstances where the bird will not be kept continuously at its registered address, a period of 3 weeks; or
 - (ii) in circumstances where the bird will be kept continuously at its registered address, a period of 6 weeks.
 
-## 5. Birds registered on CITES register[^key-2c8157252c426400816c98fe1d3c0fe8]
+## 5. Birds registered on CITES register[^c-2c8157252c426400816c98fe1d3c0fe8]
 
 (1) Where a bird of a species listed in the Schedule is registered on the CITES register, it is treated as being registered in accordance with these Regulations for the purposes of section 7(1) of the Act.
 
@@ -114,18 +114,18 @@ The Welsh Ministers, in exercise of the powers conferred by section 7(1) and (2)
 (3) In this regulation—
 
 - “CITES” (“*CITES*”) means the Convention on International Trade in Endangered Species of Wild Fauna and Flora;
-- “CITES certificate” (“*tystysgrif CITES*”) means a certificate referred to in Article 10 of Council Regulation [(EC) No. 338/97](https://www.legislation.gov.uk/european/regulation/1997/0338) on the protection of species of wild fauna and flora by regulating trade therein[^f00003] , as last amended by Commission Regulation (EU) 2017/160[^key-e0f899666dfee4473098760ac04270d4] issued by the management authority for the United Kingdom[^f00004];
+- “CITES certificate” (“*tystysgrif CITES*”) means a certificate referred to in Article 10 of Council Regulation [(EC) No. 338/97](https://www.legislation.gov.uk/european/regulation/1997/0338) on the protection of species of wild fauna and flora by regulating trade therein[^f00003] , as last amended by Commission Regulation (EU) 2017/160[^c-e0f899666dfee4473098760ac04270d4] issued by the management authority for the United Kingdom[^f00004];
 - “CITES register” (“*cofrestr CITES*”) means any register of birds in respect of which a CITES certificate has been issued.
 
-## 6. Ringing and marking[^key-9265a14b891d43dac9d3ba1b24611efb]
+## 6. Ringing and marking[^c-9265a14b891d43dac9d3ba1b24611efb]
 
 (1) Every bird to which these Regulations apply must be ringed with a ring obtained from the Welsh Ministers.
 
-(2) Paragraph (1) does not apply in respect of birds marked in accordance with the specimen marking requirements of Article 66 of Commission Regulation [(EC) No. 865/2006](https://www.legislation.gov.uk/european/regulation/2006/0865) laying down detailed rules concerning the implementation of Council Regulation [(EC) No. 338/97](https://www.legislation.gov.uk/european/regulation/1997/0338) on the protection of species of wild fauna and flora by regulating trade therein[^f00005] , as last amended by Commission Regulation (EU) 2015/870[^key-7abc5b436dcd8154fb9f83d6cc50568c].
+(2) Paragraph (1) does not apply in respect of birds marked in accordance with the specimen marking requirements of Article 66 of Commission Regulation [(EC) No. 865/2006](https://www.legislation.gov.uk/european/regulation/2006/0865) laying down detailed rules concerning the implementation of Council Regulation [(EC) No. 338/97](https://www.legislation.gov.uk/european/regulation/1997/0338) on the protection of species of wild fauna and flora by regulating trade therein[^f00005] , as last amended by Commission Regulation (EU) 2015/870[^c-7abc5b436dcd8154fb9f83d6cc50568c].
 
 (3) Any person who rings a bird under paragraph (1) must complete a declaration of ringing on a form obtained from the Welsh Ministers and return that form to the Welsh Ministers.
 
-## 7. Revocations[^key-08973c3aa86546bafffd3fae4ce386e0]
+## 7. Revocations[^c-08973c3aa86546bafffd3fae4ce386e0]
 
 The following instruments are revoked—
 
@@ -138,11 +138,11 @@ Minister for the Environment and Sustainable Development, one of the Welsh Minis
 
 5 July 2011
 
-## SCHEDULE — BIRDS TO WHICH REGULATION 5 APPLIES[^key-26c7e4b4247a94b7540ba8f965102094]
+## SCHEDULE — BIRDS TO WHICH REGULATION 5 APPLIES[^c-26c7e4b4247a94b7540ba8f965102094]
 
 Regulation 5
 
-[^key-26c7e4b4247a94b7540ba8f965102094]
+[^c-26c7e4b4247a94b7540ba8f965102094]
 
 | *Common name* | *Scientific name* |
 | --- | --- |
@@ -173,34 +173,34 @@ A regulatory impact assessment has not been prepared for these Regulations.
 
 [^f00001]: Footnote: [1981. c.69](https://www.legislation.gov.uk/ukpga/1981/69). The functions of the Secretary of State contained in section 7 of the Wildlife and Countryside Act 1981, so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales by article 2 of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)). By virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), those functions have been transferred to the Welsh Ministers.
 
-[^key-ff0dc876ee70c2f322609d4effd34e23]: Commencement: Reg. 1 in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1653/regulation/1/2)
+[^c-ff0dc876ee70c2f322609d4effd34e23]: Commencement: Reg. 1 in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1653/regulation/1/2)
 
-[^key-6ec5111366c0ce1a6080c1df3e4fa033]: Commencement: Reg. 2 in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1653/regulation/1/2)
+[^c-6ec5111366c0ce1a6080c1df3e4fa033]: Commencement: Reg. 2 in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1653/regulation/1/2)
 
-[^key-002273de05576ecb5a7b55cfdd792a25]: Commencement: Reg. 3 in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1653/regulation/1/2)
+[^c-002273de05576ecb5a7b55cfdd792a25]: Commencement: Reg. 3 in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1653/regulation/1/2)
 
 [^f00002]: Footnote: Section 7(2A) was inserted into the Countryside and Wildlife Act 1981 by section 1(2) of the Birds (Registration Charges) Act [1997 (c. 55)](https://www.legislation.gov.uk/ukpga/1997/55).
 
-[^key-e5df89cf7e46896d74dca1424e6488db]: Commencement: Reg. 4 in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1653/regulation/1/2)
+[^c-e5df89cf7e46896d74dca1424e6488db]: Commencement: Reg. 4 in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1653/regulation/1/2)
 
-[^key-2c8157252c426400816c98fe1d3c0fe8]: Commencement: Reg. 5 in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1653/regulation/1/2)
+[^c-2c8157252c426400816c98fe1d3c0fe8]: Commencement: Reg. 5 in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1653/regulation/1/2)
 
 [^f00003]: Footnote: O.J. L 61, 3.3.1997, p.1. This Regulation was last amended by Commission Regulation (EU) No. 709/2010 (O.J. L 212, 12.8.2010, p.1).
 
-[^key-e0f899666dfee4473098760ac04270d4]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/wsi/2011/1653/regulation/5/3) inserted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [9(2)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/9/2)
+[^c-e0f899666dfee4473098760ac04270d4]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/wsi/2011/1653/regulation/5/3) inserted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [9(2)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/9/2)
 
 [^f00004]: Footnote: The Secretary of State for Environment, Food and Rural Affairs is the management authority for the United Kingdom having been designated under Article IX(1) of the Convention on International Trade in Endangered Species of Wild Fauna and Flora to carry out that function and to grant permits or certificates on behalf of the United Kingdom pursuant to that convention.
 
-[^key-9265a14b891d43dac9d3ba1b24611efb]: Commencement: Reg. 6 in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1653/regulation/1/2)
+[^c-9265a14b891d43dac9d3ba1b24611efb]: Commencement: Reg. 6 in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1653/regulation/1/2)
 
 [^f00005]: Footnote: O.J. L 166, 19.6.2006, p.1. This Regulation was last amended by Commission Regulation [(EC) No. 100/2008](https://www.legislation.gov.uk/european/regulation/2008/0100) (O.J. L 31, 5.2.2008, p.3).
 
-[^key-7abc5b436dcd8154fb9f83d6cc50568c]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/wsi/2011/1653/regulation/6/2) inserted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [9(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/9/3)
+[^c-7abc5b436dcd8154fb9f83d6cc50568c]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/wsi/2011/1653/regulation/6/2) inserted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [9(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/9/3)
 
-[^key-08973c3aa86546bafffd3fae4ce386e0]: Commencement: Reg. 7 in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1653/regulation/1/2)
+[^c-08973c3aa86546bafffd3fae4ce386e0]: Commencement: Reg. 7 in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1653/regulation/1/2)
 
 [^f00006]: Footnote: [S.I. 2003/3235 (W. 315)](https://www.legislation.gov.uk/wsi/2003/3235)
 
 [^f00007]: Footnote: [S.I. 2009/1733 (W. 161)](https://www.legislation.gov.uk/wsi/2009/1733).
 
-[^key-26c7e4b4247a94b7540ba8f965102094]: Commencement: Sch. in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1653/regulation/1/2)
+[^c-26c7e4b4247a94b7540ba8f965102094]: Commencement: Sch. in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1653/regulation/1/2)

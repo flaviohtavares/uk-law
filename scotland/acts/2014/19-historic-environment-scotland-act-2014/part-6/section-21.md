@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Local inquiries in relation to scheduled monuments etc.[^key-f721ee9e0169a7733515b6cf3a64f744][^key-cce495edb930f9b61a1ef9b8b5975d00]
+## 21. Local inquiries in relation to scheduled monuments etc.[^c-f721ee9e0169a7733515b6cf3a64f744][^c-cce495edb930f9b61a1ef9b8b5975d00]
 
 *Extent: S*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f721ee9e0169a7733515b6cf3a64f744]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2014/19/section/21) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-f721ee9e0169a7733515b6cf3a64f744]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2014/19/section/21) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-cce495edb930f9b61a1ef9b8b5975d00]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2014/19/section/21) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-cce495edb930f9b61a1ef9b8b5975d00]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2014/19/section/21) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)

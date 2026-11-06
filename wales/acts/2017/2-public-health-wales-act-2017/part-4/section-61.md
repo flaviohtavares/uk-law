@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Designation of individual for the purposes of section 58(3)[^key-fe4b6bd218ab5cc5627d6ee100d8e259]
+## 61. Designation of individual for the purposes of section 58(3)[^c-fe4b6bd218ab5cc5627d6ee100d8e259]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe4b6bd218ab5cc5627d6ee100d8e259]: Commencement: [S. 61](https://www.legislation.gov.uk/anaw/2017/2/section/61) in force at 29.8.2025 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/1248/article/3/a) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-fe4b6bd218ab5cc5627d6ee100d8e259]: Commencement: [S. 61](https://www.legislation.gov.uk/anaw/2017/2/section/61) in force at 29.8.2025 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/1248/article/3/a) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Major infrastructure projects[^key-26d7e5c80a4ccfa5fab44a4d88c83f2c][^key-f147bca60962ef6324d77e789b7b98df]
+## 44. Major infrastructure projects[^c-26d7e5c80a4ccfa5fab44a4d88c83f2c][^c-f147bca60962ef6324d77e789b7b98df]
 
 *Extent: E+W*
 
@@ -110,6 +110,6 @@ In the principal Act the following sections are inserted before section 77 (Refe
 
 ## Annotations
 
-[^key-26d7e5c80a4ccfa5fab44a4d88c83f2c]: Commencement: S. 44 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-26d7e5c80a4ccfa5fab44a4d88c83f2c]: Commencement: S. 44 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
 
-[^key-f147bca60962ef6324d77e789b7b98df]: Commencement: S. 44 in force at 24.8.2005 for E. so far as not already in force by [S.I. 2005/2081](https://www.legislation.gov.uk/uksi/2005/2081), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2081/article/2/b) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2005/2081/article/4/1))
+[^c-f147bca60962ef6324d77e789b7b98df]: Commencement: S. 44 in force at 24.8.2005 for E. so far as not already in force by [S.I. 2005/2081](https://www.legislation.gov.uk/uksi/2005/2081), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2081/article/2/b) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2005/2081/article/4/1))

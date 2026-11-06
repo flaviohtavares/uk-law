@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Repeal of provisions relating to supply of customer data[^M_I_376764c6-f382-4b38-ce03-9967f137a7b7][^key-890f511a40709e23ba8f71c7c4187654]
+## 24. Repeal of provisions relating to supply of customer data[^M_I_376764c6-f382-4b38-ce03-9967f137a7b7][^c-890f511a40709e23ba8f71c7c4187654]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Omit sections 89 to 91 of the Enterprise and Regulatory Reform Act 2013 (supply 
 
 [^M_I_376764c6-f382-4b38-ce03-9967f137a7b7]: Commencement: S. 24 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-890f511a40709e23ba8f71c7c4187654]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2025/18/section/24) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)
+[^c-890f511a40709e23ba8f71c7c4187654]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2025/18/section/24) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)

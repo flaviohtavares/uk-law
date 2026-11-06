@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Finance: exceptions from prohibitions[^key-2f732f426dd7fc520ec35d2f34544f57][^key-767f49fa70ecd886514f0f36ded4bf22]
+## 30. Finance: exceptions from prohibitions[^c-2f732f426dd7fc520ec35d2f34544f57][^c-767f49fa70ecd886514f0f36ded4bf22]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,15 +50,15 @@ summary: ''
 
 (8) The definition of “relevant institution” in paragraph (7) is to be read with section 22 of the Financial Services and Markets Act 2000 [^c24334651], any relevant order under that section [^c24334661] and Schedule 2 to that Act [^c24334671].
 
-(9)[^key-b4cc724a05b10ce35a47694c6193d791] For the purposes of paragraphs (1)(b), (5) and (6) and the definition of “frozen account” in paragraph (7), references to a designated person are to be read as including a person who is owned or controlled directly or indirectly (within the meaning of regulation 7) by the designated person.
+(9)[^c-b4cc724a05b10ce35a47694c6193d791] For the purposes of paragraphs (1)(b), (5) and (6) and the definition of “frozen account” in paragraph (7), references to a designated person are to be read as including a person who is owned or controlled directly or indirectly (within the meaning of regulation 7) by the designated person.
 
 (10) When determining for the purposes of paragraph (5) when a person (“**C**”) who is owned or controlled directly or indirectly (within the meaning of regulation 7) by the designated person (“**D**”) became a designated person, C is to be treated as having become a designated person at the same time as D.
 
 ## Annotations
 
-[^key-2f732f426dd7fc520ec35d2f34544f57]: Commencement: Reg. 30 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
+[^c-2f732f426dd7fc520ec35d2f34544f57]: Commencement: Reg. 30 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
 
-[^key-767f49fa70ecd886514f0f36ded4bf22]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2020/1278/regulation/30) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
+[^c-767f49fa70ecd886514f0f36ded4bf22]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2020/1278/regulation/30) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
 
 [^c24334621]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8). Section 142D was inserted by the [Financial Services (Banking Reform) Act 2013 (c.33)](https://www.legislation.gov.uk/ukpga/2013/33), [section 4(1)](https://www.legislation.gov.uk/ukpga/2013/33/section/4/1).
 
@@ -72,4 +72,4 @@ summary: ''
 
 [^c24334671]: Marginal citation: [Schedule 2](https://www.legislation.gov.uk/uksi/2020/1278/schedule/2) was amended by the [Regulation of Financial Services (Land Transactions) Act 2005 (c.24)](https://www.legislation.gov.uk/ukpga/2005/24), [section 1](https://www.legislation.gov.uk/ukpga/2005/24/section/1); the [Dormant Bank and Building Society Accounts Act 2008 (c.31)](https://www.legislation.gov.uk/ukpga/2008/31), [section 15](https://www.legislation.gov.uk/ukpga/2008/31/section/15) and Schedule 2, paragraph 1; the Financial Services Act 2012, sections 7(2) to (5) and 8; the Financial Guidance and Claims Act 2018, section 27(13); [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881); [S.I. 2018/135](https://www.legislation.gov.uk/uksi/2018/135); and it is prospectively amended by [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632).
 
-[^key-b4cc724a05b10ce35a47694c6193d791]: Textual amendment: [Reg. 30(9)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/30/9)[(10)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/30/10) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [29(4)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/29/4)
+[^c-b4cc724a05b10ce35a47694c6193d791]: Textual amendment: [Reg. 30(9)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/30/9)[(10)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/30/10) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [29(4)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/29/4)

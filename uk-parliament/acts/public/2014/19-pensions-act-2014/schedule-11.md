@@ -24,7 +24,7 @@ Section 15
 
 ### Family Law (Scotland) Act 1985 (c. 37)
 
-**1.**[^key-f6891fc977a79c69e5a87aa3ad307714] In section 27 of the Family Law (Scotland) Act 1985 (interpretation), in subsection (1), in the definition of “relevant state scheme rights”—
+**1.**[^c-f6891fc977a79c69e5a87aa3ad307714] In section 27 of the Family Law (Scotland) Act 1985 (interpretation), in subsection (1), in the definition of “relevant state scheme rights”—
 
 - (a) before paragraph (a) insert—
 
@@ -35,13 +35,13 @@ Section 15
 
 ### Social Security Contributions and Benefits Act 1992 (c. 4)
 
-**2.**[^key-6caec5ee83c87f6b6e07ca2e7f30dc9b] The Contributions and Benefits Act is amended as follows.
+**2.**[^c-6caec5ee83c87f6b6e07ca2e7f30dc9b] The Contributions and Benefits Act is amended as follows.
 
-**3.**[^key-aad1caefc1a2f02c0906f4297063c613] In section 21 (contribution conditions), in subsection (1), after “section 55A” insert “ or 55AA ”.
+**3.**[^c-aad1caefc1a2f02c0906f4297063c613] In section 21 (contribution conditions), in subsection (1), after “section 55A” insert “ or 55AA ”.
 
-**4.**[^key-ddc5e83563130703c9e107996590c073] In section 43 (persons entitled to more than one retirement pension), in subsection (6), after “section 55A” insert “ or 55AA ”.
+**4.**[^c-ddc5e83563130703c9e107996590c073] In section 43 (persons entitled to more than one retirement pension), in subsection (6), after “section 55A” insert “ or 55AA ”.
 
-**5.**[^key-1d09b54ac770c30dd4e7f9b5cbd33aee] (1) Section 55A (shared additional pension) is amended as follows.
+**5.**[^c-1d09b54ac770c30dd4e7f9b5cbd33aee] (1) Section 55A (shared additional pension) is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -56,7 +56,7 @@ Section 15
 
 (5) At the end of the heading insert “ because of an old state scheme pension credit ”.
 
-**6.**[^key-7740273f02c343128696d90b7d2baeb3] After section 55A insert—
+**6.**[^c-7740273f02c343128696d90b7d2baeb3] After section 55A insert—
 
 > **55AA. Shared additional pension because of a new state scheme pension credit**
 >
@@ -71,7 +71,7 @@ Section 15
 >
 > (4) In this section “**new state scheme pension credit**” means a credit under section 49A(2)(b) of the Welfare Reform and Pensions Act 1999.
 
-**7.**[^key-c72747950457be6b84ffc9669a1e24d4] (1) Section 55B (reduction of additional pension in Category A retirement pension: pension sharing) is amended as follows.
+**7.**[^c-c72747950457be6b84ffc9669a1e24d4] (1) Section 55B (reduction of additional pension in Category A retirement pension: pension sharing) is amended as follows.
 
 (2) In subsection (1)(a), for “a” substitute “ an old ”.
 
@@ -81,7 +81,7 @@ Section 15
 
 ### Social Security Administration Act 1992 (c. 5)
 
-**8.**[^key-7691417f8f51ca3ba71e6099da252efa] In the Administration Act, after section 148AC (inserted by Schedule 12 to this Act) insert—
+**8.**[^c-7691417f8f51ca3ba71e6099da252efa] In the Administration Act, after section 148AC (inserted by Schedule 12 to this Act) insert—
 
 > **148AD. Revaluation of new state scheme pension debits and credits**
 >
@@ -104,9 +104,9 @@ Section 15
 
 ### Welfare Reform and Pensions Act 1999 (c. 30)
 
-**9.**[^key-a2aafa4b108cf2d2ed95b6eb7ad48482] The Welfare Reform and Pensions Act 1999 is amended as follows.
+**9.**[^c-a2aafa4b108cf2d2ed95b6eb7ad48482] The Welfare Reform and Pensions Act 1999 is amended as follows.
 
-**10.**[^key-c0c2983d7c77b885b2c7b0c79c130e53] (1) Section 47 (shareable state scheme rights) is amended as follows.
+**10.**[^c-c0c2983d7c77b885b2c7b0c79c130e53] (1) Section 47 (shareable state scheme rights) is amended as follows.
 
 (2) After subsection (1) insert—
 
@@ -128,9 +128,9 @@ Section 15
 >
 > (5) In determining the rate of a state pension under section 4 of the Pensions Act 2014 for the purposes of this Chapter, ignore Schedule 6 to that Act (reduced rate elections: effect on rate of section 4 pension).
 
-**11.**[^key-75915121402ac045d6464140146b4fc1][^key-149bd725da77442a8b051c74e1c2f94c] In section 48 (activation of benefit sharing), in subsection (1), for the words from the beginning to “shareable state scheme rights” substitute “ Section 49 or 49A applies where any of the following has taken effect in relation to a person's shareable state scheme rights ”.
+**11.**[^c-75915121402ac045d6464140146b4fc1][^c-149bd725da77442a8b051c74e1c2f94c] In section 48 (activation of benefit sharing), in subsection (1), for the words from the beginning to “shareable state scheme rights” substitute “ Section 49 or 49A applies where any of the following has taken effect in relation to a person's shareable state scheme rights ”.
 
-**12.**[^key-fae6f28e9a5f6c55c79ba1380bdef45c] (1) Section 49 (creation of state scheme pension debits and credits) is amended as follows.
+**12.**[^c-fae6f28e9a5f6c55c79ba1380bdef45c] (1) Section 49 (creation of state scheme pension debits and credits) is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -161,7 +161,7 @@ Section 15
 
 (7) At the end of the heading insert “ : transferor in old state pension system or pension sharing activated before 6 April 2016 ”.
 
-**13.**[^key-c3d8041ca4c62919b2c80378a2dd6ee7] After section 49 insert—
+**13.**[^c-c3d8041ca4c62919b2c80378a2dd6ee7] After section 49 insert—
 
 > **49A. Creation of debits and credits: transferor in new state pension system and sharing activated on or after 6 April 2016**
 >
@@ -194,7 +194,7 @@ Section 15
 > - “**transferor**” means the person to whose rights the relevant order or provision relates;
 > - “**transferee**” means the person for whose benefit the relevant order or provision is made.
 
-**14.**[^key-184e8bab69350e605265c2bc7980b2b4] (1) Section 51 (interpretation) is amended as follows.
+**14.**[^c-184e8bab69350e605265c2bc7980b2b4] (1) Section 51 (interpretation) is amended as follows.
 
 (2) The current text becomes subsection (1).
 
@@ -213,7 +213,7 @@ Section 15
 
 ### State Pension Credit Act 2002 (c. 16)
 
-**15.**[^key-9cad73055181b338b4654800994bf196] In section 16 of the State Pension Credit Act 2002 (meaning of “retirement pension income”), in subsection (1), for paragraph (b) substitute—
+**15.**[^c-9cad73055181b338b4654800994bf196] In section 16 of the State Pension Credit Act 2002 (meaning of “retirement pension income”), in subsection (1), for paragraph (b) substitute—
 
 > - (b) a shared additional pension payable under—
 >   - (i) section 55A of either of those Acts, or
@@ -223,40 +223,40 @@ Section 15
 
 ### Gender Recognition Act 2004 (c. 7)
 
-**16.**[^key-c82739a3c29b2ab8e81af96da9a9ac19] In Schedule 5 to the Gender Recognition Act 2004 (benefits and pensions), in paragraph 9(1)(a) and (3), after “section 55A” insert “ or 55AA ”.
+**16.**[^c-c82739a3c29b2ab8e81af96da9a9ac19] In Schedule 5 to the Gender Recognition Act 2004 (benefits and pensions), in paragraph 9(1)(a) and (3), after “section 55A” insert “ or 55AA ”.
 
 ## Annotations
 
-[^key-f6891fc977a79c69e5a87aa3ad307714]: Commencement: Sch. 11 para. 1 in force at 6.4.2016, see s. 56(1)(4)
+[^c-f6891fc977a79c69e5a87aa3ad307714]: Commencement: Sch. 11 para. 1 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-6caec5ee83c87f6b6e07ca2e7f30dc9b]: Commencement: Sch. 11 para. 2 in force at 6.4.2016, see s. 56(1)(4)
+[^c-6caec5ee83c87f6b6e07ca2e7f30dc9b]: Commencement: Sch. 11 para. 2 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-aad1caefc1a2f02c0906f4297063c613]: Commencement: Sch. 11 para. 3 in force at 6.4.2016, see s. 56(1)(4)
+[^c-aad1caefc1a2f02c0906f4297063c613]: Commencement: Sch. 11 para. 3 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-ddc5e83563130703c9e107996590c073]: Commencement: Sch. 11 para. 4 in force at 6.4.2016, see s. 56(1)(4)
+[^c-ddc5e83563130703c9e107996590c073]: Commencement: Sch. 11 para. 4 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-1d09b54ac770c30dd4e7f9b5cbd33aee]: Commencement: Sch. 11 para. 5 in force at 6.4.2016, see s. 56(1)(4)
+[^c-1d09b54ac770c30dd4e7f9b5cbd33aee]: Commencement: Sch. 11 para. 5 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-7740273f02c343128696d90b7d2baeb3]: Commencement: Sch. 11 para. 6 in force at 6.4.2016, see s. 56(1)(4)
+[^c-7740273f02c343128696d90b7d2baeb3]: Commencement: Sch. 11 para. 6 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-c72747950457be6b84ffc9669a1e24d4]: Commencement: Sch. 11 para. 7 in force at 6.4.2016, see s. 56(1)(4)
+[^c-c72747950457be6b84ffc9669a1e24d4]: Commencement: Sch. 11 para. 7 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-7691417f8f51ca3ba71e6099da252efa]: Commencement: Sch. 11 para. 8 in force at 6.4.2016, see s. 56(1)(4)
+[^c-7691417f8f51ca3ba71e6099da252efa]: Commencement: Sch. 11 para. 8 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-a2aafa4b108cf2d2ed95b6eb7ad48482]: Commencement: Sch. 11 para. 9 in force at 6.4.2016, see s. 56(1)(4)
+[^c-a2aafa4b108cf2d2ed95b6eb7ad48482]: Commencement: Sch. 11 para. 9 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-c0c2983d7c77b885b2c7b0c79c130e53]: Commencement: Sch. 11 para. 10 in force at 6.4.2016, see s. 56(1)(4)
+[^c-c0c2983d7c77b885b2c7b0c79c130e53]: Commencement: Sch. 11 para. 10 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-75915121402ac045d6464140146b4fc1]: Commencement: [Sch. 11 para. 11](https://www.legislation.gov.uk/ukpga/2014/19/schedule/11/paragraph/11) in force at 5.2.2015 for specified purposes by [S.I. 2015/134](https://www.legislation.gov.uk/uksi/2015/134), [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/134/article/2/1)[(4)(k)](https://www.legislation.gov.uk/uksi/2015/134/article/2/4/k)
+[^c-75915121402ac045d6464140146b4fc1]: Commencement: [Sch. 11 para. 11](https://www.legislation.gov.uk/ukpga/2014/19/schedule/11/paragraph/11) in force at 5.2.2015 for specified purposes by [S.I. 2015/134](https://www.legislation.gov.uk/uksi/2015/134), [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/134/article/2/1)[(4)(k)](https://www.legislation.gov.uk/uksi/2015/134/article/2/4/k)
 
-[^key-149bd725da77442a8b051c74e1c2f94c]: Commencement: Sch. 11 para. 11 in force at 6.4.2016 so far as not brought into force earlier by an order, see s. 56(1)(4)
+[^c-149bd725da77442a8b051c74e1c2f94c]: Commencement: Sch. 11 para. 11 in force at 6.4.2016 so far as not brought into force earlier by an order, see s. 56(1)(4)
 
-[^key-fae6f28e9a5f6c55c79ba1380bdef45c]: Commencement: Sch. 11 para. 12 in force at 6.4.2016, see s. 56(1)(4)
+[^c-fae6f28e9a5f6c55c79ba1380bdef45c]: Commencement: Sch. 11 para. 12 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-c3d8041ca4c62919b2c80378a2dd6ee7]: Commencement: Sch. 11 para. 13 in force at 6.4.2016, see s. 56(1)(4)
+[^c-c3d8041ca4c62919b2c80378a2dd6ee7]: Commencement: Sch. 11 para. 13 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-184e8bab69350e605265c2bc7980b2b4]: Commencement: Sch. 11 para. 14 in force at 6.4.2016, see s. 56(1)(4)
+[^c-184e8bab69350e605265c2bc7980b2b4]: Commencement: Sch. 11 para. 14 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-9cad73055181b338b4654800994bf196]: Commencement: Sch. 11 para. 15 in force at 6.4.2016, see s. 56(1)(4)
+[^c-9cad73055181b338b4654800994bf196]: Commencement: Sch. 11 para. 15 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-c82739a3c29b2ab8e81af96da9a9ac19]: Commencement: Sch. 11 para. 16 in force at 6.4.2016, see s. 56(1)(4)
+[^c-c82739a3c29b2ab8e81af96da9a9ac19]: Commencement: Sch. 11 para. 16 in force at 6.4.2016, see s. 56(1)(4)

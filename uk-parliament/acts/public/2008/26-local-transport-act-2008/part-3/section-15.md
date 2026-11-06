@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Making a scheme: different dates for different facilities or standards etc[^key-b2c3894ac8bba42bf43e4796a68362ff][^key-6e22d7784bc8360fd13a01164ac8c638]
+## 15. Making a scheme: different dates for different facilities or standards etc[^c-b2c3894ac8bba42bf43e4796a68362ff][^c-6e22d7784bc8360fd13a01164ac8c638]
 
 *Extent: E+W*
 
@@ -69,6 +69,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b2c3894ac8bba42bf43e4796a68362ff]: Commencement: S. 15 in force at 6.4.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(2)](https://www.legislation.gov.uk/uksi/2009/107/article/4/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2009/107/schedule/5)
+[^c-b2c3894ac8bba42bf43e4796a68362ff]: Commencement: S. 15 in force at 6.4.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(2)](https://www.legislation.gov.uk/uksi/2009/107/article/4/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2009/107/schedule/5)
 
-[^key-6e22d7784bc8360fd13a01164ac8c638]: Commencement: S. 15 in force at 31.1.2010 for W. by [S.I. 2009/3294](https://www.legislation.gov.uk/uksi/2009/3294), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/3294/article/2/b)
+[^c-6e22d7784bc8360fd13a01164ac8c638]: Commencement: S. 15 in force at 31.1.2010 for W. by [S.I. 2009/3294](https://www.legislation.gov.uk/uksi/2009/3294), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/3294/article/2/b)

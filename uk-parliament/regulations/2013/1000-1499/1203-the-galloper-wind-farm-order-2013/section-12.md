@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Crown rights[^key-7e24f8eeea0934f5fe37da2dd853e3e8]
+## 12. Crown rights[^c-7e24f8eeea0934f5fe37da2dd853e3e8]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e24f8eeea0934f5fe37da2dd853e3e8]: Commencement: Art. 12 in force at 15.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1203/article/1)
+[^c-7e24f8eeea0934f5fe37da2dd853e3e8]: Commencement: Art. 12 in force at 15.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1203/article/1)

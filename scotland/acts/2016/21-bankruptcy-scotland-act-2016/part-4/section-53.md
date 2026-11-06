@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Functions of interim trustee[^key-13d2f168fe12df0d36650e65316fb8bd]
+## 53. Functions of interim trustee[^c-13d2f168fe12df0d36650e65316fb8bd]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13d2f168fe12df0d36650e65316fb8bd]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2016/21/section/53) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-13d2f168fe12df0d36650e65316fb8bd]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2016/21/section/53) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

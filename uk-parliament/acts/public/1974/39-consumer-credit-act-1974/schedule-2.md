@@ -27,7 +27,7 @@ Section 188(1).
 | Term | Defined in section | Illustrated by example(s) |
 | --- | --- | --- |
 | Advertisement | 189(1) | 2 |
-| [^key-d0bd648414cbd2d96addc647712f0e8a]. . . | [^key-d0bd648414cbd2d96addc647712f0e8a]. . . | [^key-d0bd648414cbd2d96addc647712f0e8a]. . . |
+| [^c-d0bd648414cbd2d96addc647712f0e8a]. . . | [^c-d0bd648414cbd2d96addc647712f0e8a]. . . | [^c-d0bd648414cbd2d96addc647712f0e8a]. . . |
 | Antecedent negotiations | 56 | 1, 2, 3, 4 |
 | Cancellable agreement | 67 | 4 |
 | Consumer credit agreement | 8 | 5, 6, 7, 15, 19, 21 |
@@ -90,7 +90,7 @@ Example 5
 
 *Facts.*E agrees to sell to F (an individual) an item of furniture in return for 24 monthly instalments of £10 payable in arrear. The property in the goods passes to F immediately.
 
-*Analysis.*This is a credit-sale agreement (see definition of “**credit-sale agreement** ” in section 189(1)). The credit provided amounts to £240 less the amount which constitutes the total charge for credit (within the meaning given by section 20)[^key-13dd77a642cbc41bc18701829b1faf1e]. (This amount is required to be deducted by section 9(4)). Accordingly the agreement falls within section 8(2) and is a consumer credit agreement.
+*Analysis.*This is a credit-sale agreement (see definition of “**credit-sale agreement** ” in section 189(1)). The credit provided amounts to £240 less the amount which constitutes the total charge for credit (within the meaning given by section 20)[^c-13dd77a642cbc41bc18701829b1faf1e]. (This amount is required to be deducted by section 9(4)). Accordingly the agreement falls within section 8(2) and is a consumer credit agreement.
 
 Example 6
 
@@ -224,11 +224,11 @@ The total rental under the modifying agreement is £1,850. Accordingly the modif
 
 ## Annotations
 
-[^key-d0bd648414cbd2d96addc647712f0e8a]: Textual amendment: Words in Sch. 2 Pt. I omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(65)(a)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/65/a)
+[^c-d0bd648414cbd2d96addc647712f0e8a]: Textual amendment: Words in Sch. 2 Pt. I omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(65)(a)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/65/a)
 
 [^c18823201]: Textual amendment: Words in Sch. 2 Pt. 1 repealed (6.4.2008 for certain purposes otherwise 31.10.2008) by [Consumer Credit Act 2006 (c. 14)](https://www.legislation.gov.uk/ukpga/2006/14), [ss. 70](https://www.legislation.gov.uk/ukpga/2006/14/section/70), [71(2)](https://www.legislation.gov.uk/ukpga/2006/14/section/71/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/14/schedule/4); [S.I. 2008/831](https://www.legislation.gov.uk/uksi/2008/831), [arts. 3(1)(2)](https://www.legislation.gov.uk/uksi/2008/831/article/3/1/2), [Schs. 2](https://www.legislation.gov.uk/uksi/2008/831/schedule/2), [3](https://www.legislation.gov.uk/uksi/2008/831/schedule/3) (as amended by [S.I. 2008/2444](https://www.legislation.gov.uk/uksi/2008/2444), [art. 2](https://www.legislation.gov.uk/uksi/2008/2444/article/2))
 
-[^key-13dd77a642cbc41bc18701829b1faf1e]: Textual amendment: Words in Sch. 2 Pt. II, Example 5 substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(65)(b)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/65/b)
+[^c-13dd77a642cbc41bc18701829b1faf1e]: Textual amendment: Words in Sch. 2 Pt. II, Example 5 substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(65)(b)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/65/b)
 
 [^c20970531]: Textual amendment: Sch. 2 Pt. II, Example 17: words omitted (1.2.2011) by virtue of [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 20(2)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/20/2), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101))
 

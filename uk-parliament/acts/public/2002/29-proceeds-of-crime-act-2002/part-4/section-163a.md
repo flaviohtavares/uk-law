@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163A. Orders for securing compliance with confiscation order[^key-37c28ddb588e05bef0eac058a37da936]
+## 163A. Orders for securing compliance with confiscation order[^c-37c28ddb588e05bef0eac058a37da936]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-37c28ddb588e05bef0eac058a37da936]: Textual amendment: S. 163A, 163B inserted (1.6.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 29](https://www.legislation.gov.uk/ukpga/2015/9/section/29), [88(3)(a)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/3/a) (with [s. 86(4)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/4)); [S.R. 2015/190](https://www.legislation.gov.uk/nisr/2015/190), [reg. 3(1)(c)](https://www.legislation.gov.uk/nisr/2015/190/regulation/3/1/c)
+[^c-37c28ddb588e05bef0eac058a37da936]: Textual amendment: S. 163A, 163B inserted (1.6.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 29](https://www.legislation.gov.uk/ukpga/2015/9/section/29), [88(3)(a)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/3/a) (with [s. 86(4)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/4)); [S.R. 2015/190](https://www.legislation.gov.uk/nisr/2015/190), [reg. 3(1)(c)](https://www.legislation.gov.uk/nisr/2015/190/regulation/3/1/c)

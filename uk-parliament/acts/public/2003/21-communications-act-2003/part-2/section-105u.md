@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105U. Enforcement of security duties: proposal for interim steps[^key-ed2a5af176791022060a4a4c74bc8e40]
+## 105U. Enforcement of security duties: proposal for interim steps[^c-ed2a5af176791022060a4a4c74bc8e40]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed2a5af176791022060a4a4c74bc8e40]: Textual amendment: [Ss. 105S-105V](https://www.legislation.gov.uk/ukpga/2003/21/section/105S) inserted (1.10.2022) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2021/31/section/7/2), [28(2)(b)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/2/b); [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)
+[^c-ed2a5af176791022060a4a4c74bc8e40]: Textual amendment: [Ss. 105S-105V](https://www.legislation.gov.uk/ukpga/2003/21/section/105S) inserted (1.10.2022) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2021/31/section/7/2), [28(2)(b)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/2/b); [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)

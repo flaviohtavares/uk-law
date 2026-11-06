@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Energy administrator’s proposals[^key-8681481f4e2cc7dde3934579efcd9f1e]
+## 20. Energy administrator’s proposals[^c-8681481f4e2cc7dde3934579efcd9f1e]
 
 *Extent: E+W*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8681481f4e2cc7dde3934579efcd9f1e]: Commencement: Rule 20 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-8681481f4e2cc7dde3934579efcd9f1e]: Commencement: Rule 20 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
 
 [^f00011]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45); section 176A inserted by the Enterprise Act [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40), section 252.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Extent[^key-573b35a57b82cebb543958744fee19a2]
+## 45. Extent[^c-573b35a57b82cebb543958744fee19a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-573b35a57b82cebb543958744fee19a2]: Commencement: S. 45 in force at Royal Assent, see [s. 46(1)(b)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/1/b)
+[^c-573b35a57b82cebb543958744fee19a2]: Commencement: S. 45 in force at Royal Assent, see [s. 46(1)(b)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/1/b)

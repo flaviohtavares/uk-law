@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76B. Power to request assistance etc. from TRA[^key-059d32666432f850c6f5dd0450e5ed8e]
+## 76B. Power to request assistance etc. from TRA[^c-059d32666432f850c6f5dd0450e5ed8e]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-059d32666432f850c6f5dd0450e5ed8e]: Textual amendment: [Regs. 76A](https://www.legislation.gov.uk/uksi/2019/450/regulation/76A), [76B](https://www.legislation.gov.uk/uksi/2019/450/regulation/76B) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2024/545/regulation/19) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-059d32666432f850c6f5dd0450e5ed8e]: Textual amendment: [Regs. 76A](https://www.legislation.gov.uk/uksi/2019/450/regulation/76A), [76B](https://www.legislation.gov.uk/uksi/2019/450/regulation/76B) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2024/545/regulation/19) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))

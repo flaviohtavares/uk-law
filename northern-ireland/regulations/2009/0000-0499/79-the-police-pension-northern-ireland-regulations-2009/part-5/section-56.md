@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 56. Payment by periodical contributions[^key-0de3c6a6bcc7bde296977829f4da2716]
+## 56. Payment by periodical contributions[^c-0de3c6a6bcc7bde296977829f4da2716]
 
 *Extent: N.I.*
 
@@ -57,4 +57,4 @@ specifying that the payments which are payable by him are to be payable in accor
 
 ## Annotations
 
-[^key-0de3c6a6bcc7bde296977829f4da2716]: Commencement: Reg. 56 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-0de3c6a6bcc7bde296977829f4da2716]: Commencement: Reg. 56 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

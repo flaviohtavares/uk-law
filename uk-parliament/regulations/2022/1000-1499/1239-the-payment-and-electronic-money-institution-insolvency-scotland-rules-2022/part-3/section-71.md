@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Quorum[^key-228899dd6de87b04bcefefb89b686028]
+## 71. Quorum[^c-228899dd6de87b04bcefefb89b686028]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A meeting of the creditors’ committee is duly constituted if due notice of it 
 
 ## Annotations
 
-[^key-228899dd6de87b04bcefefb89b686028]: Commencement: Rule 71 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-228899dd6de87b04bcefefb89b686028]: Commencement: Rule 71 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

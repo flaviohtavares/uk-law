@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Change of use relief: supplementary[^key-1308e8de80cd3a81a96c76380d4e3dc1]
+## 98. Change of use relief: supplementary[^c-1308e8de80cd3a81a96c76380d4e3dc1]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1308e8de80cd3a81a96c76380d4e3dc1]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2023/52/section/98) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-1308e8de80cd3a81a96c76380d4e3dc1]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2023/52/section/98) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Payments due in respect of deceased persons[^key-2ea4da364dc97c3990c044ebe50186f4]
+## 169. Payments due in respect of deceased persons[^c-2ea4da364dc97c3990c044ebe50186f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ without the production of probate or letters of administration of the person’s
 
 ## Annotations
 
-[^key-2ea4da364dc97c3990c044ebe50186f4]: Commencement: [Reg. 169](https://www.legislation.gov.uk/uksi/2014/2848/regulation/169) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-2ea4da364dc97c3990c044ebe50186f4]: Commencement: [Reg. 169](https://www.legislation.gov.uk/uksi/2014/2848/regulation/169) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
 [^f00062]: Footnote: [1965 c.32](https://www.legislation.gov.uk/ukpga/1965/32); there are amendments to section 6 which are not relevant to this instrument.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Publication of names of qualified applicants[^key-52e70908e1d0f3004358c32d08bcccc4]
+## 12. Publication of names of qualified applicants[^c-52e70908e1d0f3004358c32d08bcccc4]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52e70908e1d0f3004358c32d08bcccc4]: Commencement: Reg. 12 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-52e70908e1d0f3004358c32d08bcccc4]: Commencement: Reg. 12 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

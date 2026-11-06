@@ -771,7 +771,7 @@ Regulation 10
 > | Nitrite | 20 |  |
 > | Oxidisability | 50 | Note 8 |
 > | Pesticides | 30 | Note 9 |
-> | Polycyclic aromatic hydrocarbons | 50[^key-aeba6dd2a01d99799a80592d72e7e197] | Note 10 |
+> | Polycyclic aromatic hydrocarbons | 50[^c-aeba6dd2a01d99799a80592d72e7e197] | Note 10 |
 > | Selenium | 40 |  |
 > | Sodium | 15 |  |
 > | Sulphate | 15 |  |
@@ -841,7 +841,7 @@ Regulation 10
 > </tbody>
 > </table>
 >
-> [^f00027][^key-380ec547688ee1491e07e2b546798177][^f00028][^f00029][^f00030][^f00031]
+> [^f00027][^c-380ec547688ee1491e07e2b546798177][^f00028][^f00029][^f00030][^f00031]
 >
 > **PART C — Indicative dose**
 >
@@ -969,13 +969,13 @@ A business and regulatory impact assessment has been prepared for these Regulati
 
 [^f00025]: Footnote: This standard was approved by the European Committee for Standardization (CEN) on 15th July 2016. Under reference BS EN ISO 14189:2016, it is published as a UK standard by the British Standards Institution (ISBN 978 0 580 92184 1).
 
-[^key-aeba6dd2a01d99799a80592d72e7e197]: Textual amendment: Word in sch. 2 substituted (26.10.2017) by [The Public and Private Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/321)](https://www.legislation.gov.uk/ssi/2017/321), regs. 1, 3(3)(a)
+[^c-aeba6dd2a01d99799a80592d72e7e197]: Textual amendment: Word in sch. 2 substituted (26.10.2017) by [The Public and Private Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/321)](https://www.legislation.gov.uk/ssi/2017/321), regs. 1, 3(3)(a)
 
 [^f00026]: Footnote: Acrylamide, epichlorohydrin and vinyl chloride to be controlled by product specification.
 
 [^f00027]: Footnote: Acrylamide, epichlorohydrin and vinyl chloride to be controlled by product specification.
 
-[^key-380ec547688ee1491e07e2b546798177]: Textual amendment: Word in sch. 2 substituted (26.10.2017) by [The Public and Private Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/321)](https://www.legislation.gov.uk/ssi/2017/321), regs. 1, 3(3)(b)
+[^c-380ec547688ee1491e07e2b546798177]: Textual amendment: Word in sch. 2 substituted (26.10.2017) by [The Public and Private Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/321)](https://www.legislation.gov.uk/ssi/2017/321), regs. 1, 3(3)(b)
 
 [^f00028]: Footnote: This standard has been approved by the International Organization for Standardization (ISO). Under reference BS ISO 5725-1 to BS ISO 5725-6, these are published as UK standards by the British Standards Institution.
 

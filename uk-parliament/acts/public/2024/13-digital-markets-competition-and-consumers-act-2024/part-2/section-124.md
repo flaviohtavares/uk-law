@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Standard of review on appeals against interim measures directions[^key-9381e4e4ecf6d13edec70fc102c2ce60][^key-77a59968955f11ed05e487439274bac2]
+## 124. Standard of review on appeals against interim measures directions[^c-9381e4e4ecf6d13edec70fc102c2ce60][^c-77a59968955f11ed05e487439274bac2]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9381e4e4ecf6d13edec70fc102c2ce60]: Commencement: S. 124 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-9381e4e4ecf6d13edec70fc102c2ce60]: Commencement: S. 124 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-77a59968955f11ed05e487439274bac2]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2024/13/section/124) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/2) (with [Sch. paras. 3](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/3), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-77a59968955f11ed05e487439274bac2]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2024/13/section/124) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/2) (with [Sch. paras. 3](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/3), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108A. Safety directions[^key-031f4cc3a4fd1a31278cab09efbb5bc3]
+## 108A. Safety directions[^c-031f4cc3a4fd1a31278cab09efbb5bc3]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-031f4cc3a4fd1a31278cab09efbb5bc3]: Textual amendment: [S. 108A](https://www.legislation.gov.uk/ukpga/1995/21/section/108A) inserted (10.9.2003) by [Marine Safety Act 2003 (c. 16)](https://www.legislation.gov.uk/ukpga/2003/16), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2003/16/section/1/1), [4](https://www.legislation.gov.uk/ukpga/2003/16/section/4)
+[^c-031f4cc3a4fd1a31278cab09efbb5bc3]: Textual amendment: [S. 108A](https://www.legislation.gov.uk/ukpga/1995/21/section/108A) inserted (10.9.2003) by [Marine Safety Act 2003 (c. 16)](https://www.legislation.gov.uk/ukpga/2003/16), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2003/16/section/1/1), [4](https://www.legislation.gov.uk/ukpga/2003/16/section/4)

@@ -31,7 +31,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION, ENGLAND AND WALES
 
-The Pollution Prevention and Control (England and Wales) Regulations 2000 (revoked)[^key-aa772006de0fb17109dddf7f63b9b1eb]
+The Pollution Prevention and Control (England and Wales) Regulations 2000 (revoked)[^c-aa772006de0fb17109dddf7f63b9b1eb]
 
 Made
 
@@ -41,11 +41,11 @@ Coming into force
 
 1st August 2000
 
-[^key-aa772006de0fb17109dddf7f63b9b1eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aa772006de0fb17109dddf7f63b9b1eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — GENERAL[^key-aa772006de0fb17109dddf7f63b9b1eb]
+### PART I — GENERAL[^c-aa772006de0fb17109dddf7f63b9b1eb]
 
 *Extent: E+W*
 
@@ -60,7 +60,7 @@ Coming into force
 - [Section 7 — Applications](part-i/section-7.md)
 - [Section 8 — Discharge and scope of functions](part-i/section-8.md)
 
-### PART II — PERMITS[^key-aa772006de0fb17109dddf7f63b9b1eb]
+### PART II — PERMITS[^c-aa772006de0fb17109dddf7f63b9b1eb]
 
 *Extent: E+W*
 
@@ -81,7 +81,7 @@ Coming into force
 - [Section 21 — Revocation of permits](part-ii/section-21.md)
 - [Section 22 — Fees and charges in relation to local authority permits](part-ii/section-22.md)
 
-### PART III — ENFORCEMENT[^key-aa772006de0fb17109dddf7f63b9b1eb]
+### PART III — ENFORCEMENT[^c-aa772006de0fb17109dddf7f63b9b1eb]
 
 *Extent: E+W*
 
@@ -92,7 +92,7 @@ Coming into force
 - [Section 25 — Suspension notices](part-iii/section-25.md)
 - [Section 26 — Power of regulator to prevent or remedy pollution](part-iii/section-26.md)
 
-### PART IV — APPEALS[^key-aa772006de0fb17109dddf7f63b9b1eb]
+### PART IV — APPEALS[^c-aa772006de0fb17109dddf7f63b9b1eb]
 
 *Extent: E+W*
 
@@ -100,7 +100,7 @@ Coming into force
 
 - [Section 27 — Appeals to the Secretary of State](part-iv/section-27.md)
 
-### PART V — INFORMATION AND PUBLICITY[^key-aa772006de0fb17109dddf7f63b9b1eb]
+### PART V — INFORMATION AND PUBLICITY[^c-aa772006de0fb17109dddf7f63b9b1eb]
 
 *Extent: E+W*
 
@@ -111,7 +111,7 @@ Coming into force
 - [Section 30 — Exclusion from registers of information affecting national security](part-v/section-30.md)
 - [Section 31 — Exclusion from registers of certain confidential information](part-v/section-31.md)
 
-### PART VI — PROVISION AS TO OFFENCES[^key-aa772006de0fb17109dddf7f63b9b1eb]
+### PART VI — PROVISION AS TO OFFENCES[^c-aa772006de0fb17109dddf7f63b9b1eb]
 
 *Extent: E+W*
 
@@ -122,7 +122,7 @@ Coming into force
 - [Section 34 — Admissibility of evidence](part-vi/section-34.md)
 - [Section 35 — Power of court to order cause of offence to be remedied](part-vi/section-35.md)
 
-### PART VII — SECRETARY OF STATE'S POWERS[^key-aa772006de0fb17109dddf7f63b9b1eb]
+### PART VII — SECRETARY OF STATE'S POWERS[^c-aa772006de0fb17109dddf7f63b9b1eb]
 
 *Extent: E+W*
 
@@ -132,7 +132,7 @@ Coming into force
 - [Section 37 — Guidance to regulators](part-vii/section-37.md)
 - [Section 38 — Plans relating to emissions](part-vii/section-38.md)
 
-### PART VIII — CONSEQUENTIAL AMENDMENTS[^key-aa772006de0fb17109dddf7f63b9b1eb]
+### PART VIII — CONSEQUENTIAL AMENDMENTS[^c-aa772006de0fb17109dddf7f63b9b1eb]
 
 *Extent: E+W*
 
@@ -155,14 +155,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-aa772006de0fb17109dddf7f63b9b1eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aa772006de0fb17109dddf7f63b9b1eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-[^key-aa772006de0fb17109dddf7f63b9b1eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aa772006de0fb17109dddf7f63b9b1eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aa772006de0fb17109dddf7f63b9b1eb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2000/1973) revoked (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 22](https://www.legislation.gov.uk/uksi/2007/3538/schedule/22) (with transitional provisions and savings in [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69)) (and, to the extent that it is saved, Sch. 10 para. 37 and reg. 39 so far as it relates to that provision are further revoked (1.4.2010) by [S.I. 2010/490](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1))
+[^c-aa772006de0fb17109dddf7f63b9b1eb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2000/1973) revoked (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 22](https://www.legislation.gov.uk/uksi/2007/3538/schedule/22) (with transitional provisions and savings in [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69)) (and, to the extent that it is saved, Sch. 10 para. 37 and reg. 39 so far as it relates to that provision are further revoked (1.4.2010) by [S.I. 2010/490](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1))
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

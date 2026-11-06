@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 149. Order for examination, etc[^key-c410a956c20eba1dcf594a5cab514fc3]
+## 149. Order for examination, etc[^c-c410a956c20eba1dcf594a5cab514fc3]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c410a956c20eba1dcf594a5cab514fc3]: Commencement: Rule 149 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-c410a956c20eba1dcf594a5cab514fc3]: Commencement: Rule 149 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

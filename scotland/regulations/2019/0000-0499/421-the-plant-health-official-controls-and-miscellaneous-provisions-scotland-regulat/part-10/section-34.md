@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Interpretation[^key-74a45b74aa93aed530acdbe6dcb0532d]
+## 34. Interpretation[^c-74a45b74aa93aed530acdbe6dcb0532d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In this Part, “**premises**” includes any place, including land, building, v
 
 ## Annotations
 
-[^key-74a45b74aa93aed530acdbe6dcb0532d]: Commencement: Reg. 34 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
+[^c-74a45b74aa93aed530acdbe6dcb0532d]: Commencement: Reg. 34 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)

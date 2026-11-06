@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Priority of expenses of energy administration[^key-6e968c78566ecca101b7b7e9625cc0ff]
+## 35. Priority of expenses of energy administration[^c-6e968c78566ecca101b7b7e9625cc0ff]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e968c78566ecca101b7b7e9625cc0ff]: Commencement: Rule 35 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-6e968c78566ecca101b7b7e9625cc0ff]: Commencement: Rule 35 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 295. Electronic delivery - general[^key-1a2ee15f1f910a047a42d34638a8073f]
+## 295. Electronic delivery - general[^c-1a2ee15f1f910a047a42d34638a8073f]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a2ee15f1f910a047a42d34638a8073f]: Commencement: [Rule 295](https://www.legislation.gov.uk/uksi/2011/1301/rule/295) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-1a2ee15f1f910a047a42d34638a8073f]: Commencement: [Rule 295](https://www.legislation.gov.uk/uksi/2011/1301/rule/295) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

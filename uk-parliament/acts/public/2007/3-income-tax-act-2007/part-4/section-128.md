@@ -39,7 +39,7 @@ summary: ''
 
 (5) The claim must be made on or before the first anniversary of the normal self-assessment filing date for the loss-making year.
 
-(5A)[^key-bc71e9198c3814482e4e387a065bb4cc] No claim may be made in respect of the loss if and to the extent that it is made as a result of anything done in pursuance of arrangements the main purpose, or one of the main purposes, of which is the avoidance of tax.
+(5A)[^c-bc71e9198c3814482e4e387a065bb4cc] No claim may be made in respect of the loss if and to the extent that it is made as a result of anything done in pursuance of arrangements the main purpose, or one of the main purposes, of which is the avoidance of tax.
 
 (6) Nothing in this section prevents a person who makes a claim specifying a particular tax year in respect of a loss from making a further claim specifying the other tax year in respect of the unused part of the loss.
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc71e9198c3814482e4e387a065bb4cc]: Textual amendment: S. 128(5A) inserted (with effect in accordance with s. 68(2) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2009/10/section/68/1) (with [s. 68(3)](https://www.legislation.gov.uk/ukpga/2009/10/section/68/3))
+[^c-bc71e9198c3814482e4e387a065bb4cc]: Textual amendment: S. 128(5A) inserted (with effect in accordance with s. 68(2) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2009/10/section/68/1) (with [s. 68(3)](https://www.legislation.gov.uk/ukpga/2009/10/section/68/3))

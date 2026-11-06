@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Additional prescribed conditions relating to contracts with dental corporations[^key-f6ce9c269c289173b012f667d11afbe6]
+## 5. Additional prescribed conditions relating to contracts with dental corporations[^c-f6ce9c269c289173b012f667d11afbe6]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f6ce9c269c289173b012f667d11afbe6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2026/37/regulation/5) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-f6ce9c269c289173b012f667d11afbe6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2026/37/regulation/5) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
 [^f00025]: Footnote: Article 39 substitutes sections 43 and 44 of the 1984 Act with new sections 43, 43B, 44, 44A and 44B with effect from 19 July 2005.

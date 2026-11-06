@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Regulations under section 21: designation of existing body[^key-d8ed48f3f2e7cba8a0577d6426bc5b6e]
+## 22. Regulations under section 21: designation of existing body[^c-d8ed48f3f2e7cba8a0577d6426bc5b6e]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8ed48f3f2e7cba8a0577d6426bc5b6e]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2016/2/section/22) in operation at 1.4.2016 by [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-d8ed48f3f2e7cba8a0577d6426bc5b6e]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2016/2/section/22) in operation at 1.4.2016 by [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)

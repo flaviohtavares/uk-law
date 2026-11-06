@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Arrangements to vary or terminate a trust etc.[^key-6bbc5a6f45677d2301691b801752ea6f]
+## 58. Arrangements to vary or terminate a trust etc.[^c-6bbc5a6f45677d2301691b801752ea6f]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6bbc5a6f45677d2301691b801752ea6f]: Commencement: S. 58 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-6bbc5a6f45677d2301691b801752ea6f]: Commencement: S. 58 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

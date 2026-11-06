@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) Subject to paragraph (3),[^key-b9e4836057f0ea3629d9d87d967eb959] a temporary work agency shall be liable for any breach of regulation 5, to the extent that it is responsible for that breach.
+(1) Subject to paragraph (3),[^c-b9e4836057f0ea3629d9d87d967eb959] a temporary work agency shall be liable for any breach of regulation 5, to the extent that it is responsible for that breach.
 
-(2) [^key-8f098de779c5ee1e5d6b4af245c30544]...the hirer shall be liable for any breach of regulation 5, to the extent that it is responsible for that breach.
+(2) [^c-8f098de779c5ee1e5d6b4af245c30544]...the hirer shall be liable for any breach of regulation 5, to the extent that it is responsible for that breach.
 
 (3) A temporary work agency shall not be liable for a breach of regulation 5 where it is established that the temporary work agency—
 
-- (a)[^key-0b8e350577f88ee6a5599fc173c028a4] obtained, or has taken reasonable steps to obtain, relevant information from the hirer—
+- (a)[^c-0b8e350577f88ee6a5599fc173c028a4] obtained, or has taken reasonable steps to obtain, relevant information from the hirer—
   - (i) about the basic working and employment conditions in force in the hirer;
   - (ii) if needed to assess compliance with regulation 5, about the relevant terms and conditions under which an employee of the hirer is working where—
     - (aa) that employee is considered to be a comparable employee in relation to that agency worker for the purposes of regulation 5(4), and
@@ -39,7 +39,7 @@ summary: ''
 
 and to the extent that the temporary work agency is not liable under this provision, the hirer shall be liable.
 
-(4)[^key-f388f944a10fecd0c0177bb6b33a548f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f388f944a10fecd0c0177bb6b33a548f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Where more than one temporary work agency is a party to the proceedings, when deciding whether or not each temporary work agency is responsible in full or in part, the employment tribunal shall have regard to the extent to which each agency was responsible for the determination, or application, of any of the agency worker's basic working and employment conditions.
 
@@ -52,10 +52,10 @@ and to the extent that the temporary work agency is not liable under this provis
 
 ## Annotations
 
-[^key-b9e4836057f0ea3629d9d87d967eb959]: Textual amendment: Words in reg. 14(1) inserted (1.9.2011) by [The Agency Workers (Amendment) Regulations 2011 (S.I. 2011/941)](https://www.legislation.gov.uk/uksi/2011/941), [regs. 1](https://www.legislation.gov.uk/uksi/2011/941/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2011/941/regulation/2/4/a)
+[^c-b9e4836057f0ea3629d9d87d967eb959]: Textual amendment: Words in reg. 14(1) inserted (1.9.2011) by [The Agency Workers (Amendment) Regulations 2011 (S.I. 2011/941)](https://www.legislation.gov.uk/uksi/2011/941), [regs. 1](https://www.legislation.gov.uk/uksi/2011/941/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2011/941/regulation/2/4/a)
 
-[^key-8f098de779c5ee1e5d6b4af245c30544]: Textual amendment: Words in reg. 14(2) omitted (1.9.2011) by virtue of [The Agency Workers (Amendment) Regulations 2011 (S.I. 2011/941)](https://www.legislation.gov.uk/uksi/2011/941), [regs. 1](https://www.legislation.gov.uk/uksi/2011/941/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2011/941/regulation/2/4/b)
+[^c-8f098de779c5ee1e5d6b4af245c30544]: Textual amendment: Words in reg. 14(2) omitted (1.9.2011) by virtue of [The Agency Workers (Amendment) Regulations 2011 (S.I. 2011/941)](https://www.legislation.gov.uk/uksi/2011/941), [regs. 1](https://www.legislation.gov.uk/uksi/2011/941/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2011/941/regulation/2/4/b)
 
-[^key-0b8e350577f88ee6a5599fc173c028a4]: Textual amendment: Reg. 14(3)(a) substituted (1.9.2011) by [The Agency Workers (Amendment) Regulations 2011 (S.I. 2011/941)](https://www.legislation.gov.uk/uksi/2011/941), [regs. 1](https://www.legislation.gov.uk/uksi/2011/941/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2011/941/regulation/2/4/c)
+[^c-0b8e350577f88ee6a5599fc173c028a4]: Textual amendment: Reg. 14(3)(a) substituted (1.9.2011) by [The Agency Workers (Amendment) Regulations 2011 (S.I. 2011/941)](https://www.legislation.gov.uk/uksi/2011/941), [regs. 1](https://www.legislation.gov.uk/uksi/2011/941/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2011/941/regulation/2/4/c)
 
-[^key-f388f944a10fecd0c0177bb6b33a548f]: Textual amendment: Reg. 14(4) omitted (1.9.2011) by virtue of [The Agency Workers (Amendment) Regulations 2011 (S.I. 2011/941)](https://www.legislation.gov.uk/uksi/2011/941), [regs. 1](https://www.legislation.gov.uk/uksi/2011/941/regulation/1), [2(4)(d)](https://www.legislation.gov.uk/uksi/2011/941/regulation/2/4/d)
+[^c-f388f944a10fecd0c0177bb6b33a548f]: Textual amendment: Reg. 14(4) omitted (1.9.2011) by virtue of [The Agency Workers (Amendment) Regulations 2011 (S.I. 2011/941)](https://www.legislation.gov.uk/uksi/2011/941), [regs. 1](https://www.legislation.gov.uk/uksi/2011/941/regulation/1), [2(4)(d)](https://www.legislation.gov.uk/uksi/2011/941/regulation/2/4/d)

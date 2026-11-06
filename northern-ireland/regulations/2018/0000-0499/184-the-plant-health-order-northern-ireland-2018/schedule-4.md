@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 4 — Restrictions on the landing in and movement within Northern Ireland of relevant material[^key-b37e9440ba8259021a4d4c6e6755fd2e]
+## SCHEDULE 4 — Restrictions on the landing in and movement within Northern Ireland of relevant material[^c-b37e9440ba8259021a4d4c6e6755fd2e]
 
 *Extent: N.I.*
 
@@ -24,18 +24,18 @@ summary: ''
 
 Articles 3, 5(1), 12(1), 15(2), 19(1), 19(3), 21(1)
 
-### PART A — Relevant material, originating in third countries, which may only be landed in Northern Ireland if special requirements are complied with[^key-b37e9440ba8259021a4d4c6e6755fd2e]
+### PART A — Relevant material, originating in third countries, which may only be landed in Northern Ireland if special requirements are complied with[^c-b37e9440ba8259021a4d4c6e6755fd2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART B — Relevant material, from the European Union, which may only be introduced into or moved within Northern Ireland if special requirements are complied with[^key-b37e9440ba8259021a4d4c6e6755fd2e]
+### PART B — Relevant material, from the European Union, which may only be introduced into or moved within Northern Ireland if special requirements are complied with[^c-b37e9440ba8259021a4d4c6e6755fd2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART C — Relevant material which may only be landed in or moved within Northern Ireland (as a protected zone) if special requirements are complied with[^key-b37e9440ba8259021a4d4c6e6755fd2e]
+### PART C — Relevant material which may only be landed in or moved within Northern Ireland (as a protected zone) if special requirements are complied with[^c-b37e9440ba8259021a4d4c6e6755fd2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b37e9440ba8259021a4d4c6e6755fd2e]: Textual amendment: Order revoked (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2019 (S.R. 2019/230)](https://www.legislation.gov.uk/nisr/2019/230), [reg. 1](https://www.legislation.gov.uk/nisr/2019/230/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2019/230/schedule/6) (with [regs. 51-53](https://www.legislation.gov.uk/nisr/2019/230/regulation/51))
+[^c-b37e9440ba8259021a4d4c6e6755fd2e]: Textual amendment: Order revoked (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2019 (S.R. 2019/230)](https://www.legislation.gov.uk/nisr/2019/230), [reg. 1](https://www.legislation.gov.uk/nisr/2019/230/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2019/230/schedule/6) (with [regs. 51-53](https://www.legislation.gov.uk/nisr/2019/230/regulation/51))

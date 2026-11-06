@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-The more favourable treatment referred to in Article 24 shall not apply to any customs controls related to specific elevated threat levels or control obligations set out in other [^key-a9e578e1d2098e9fb4deaf5471cae27d]... legislation.
+The more favourable treatment referred to in Article 24 shall not apply to any customs controls related to specific elevated threat levels or control obligations set out in other [^c-a9e578e1d2098e9fb4deaf5471cae27d]... legislation.
 
 However, customs authorities shall carry out the necessary processing, formalities and controls for consignments declared by an AEOS as a matter of priority.
 
 ## Annotations
 
-[^key-a9e578e1d2098e9fb4deaf5471cae27d]: Textual amendment: Word in [Art. 25](https://www.legislation.gov.uk/eur/2015/2446/article/25) omitted (31.12.2020) by virtue of [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/1/2), [3(3)(d)](https://www.legislation.gov.uk/uksi/2019/715/regulation/3/3/d) (as amended by [S.I. 2020/1624](https://www.legislation.gov.uk/uksi/2020/1624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2020/1624/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a9e578e1d2098e9fb4deaf5471cae27d]: Textual amendment: Word in [Art. 25](https://www.legislation.gov.uk/eur/2015/2446/article/25) omitted (31.12.2020) by virtue of [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/1/2), [3(3)(d)](https://www.legislation.gov.uk/uksi/2019/715/regulation/3/3/d) (as amended by [S.I. 2020/1624](https://www.legislation.gov.uk/uksi/2020/1624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2020/1624/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject to regulation 58 and regulation 58A[^key-48fa4847b75597100d1c94c00a9ee742], the registering authority may refuse to register an applicant for registration in a register maintained under regulation 54 or 55 if—
+(1) Subject to regulation 58 and regulation 58A[^c-48fa4847b75597100d1c94c00a9ee742], the registering authority may refuse to register an applicant for registration in a register maintained under regulation 54 or 55 if—
 
 - (a) any requirement of, or imposed under, regulation 57 has not been complied with;
 - (b) it appears to the registering authority that any information provided pursuant to regulation 57 is false or misleading in a material particular;
@@ -47,7 +47,7 @@ summary: ''
   - (iii) the right to a review under regulation 94; and
   - (iv) the right to appeal under regulation 99.
 
-(3) Where the FCA is the registering authority, it must within the period specified in paragraph (3A)[^key-6262faafac655fa03096505c12441dfb], give the applicant notice of—
+(3) Where the FCA is the registering authority, it must within the period specified in paragraph (3A)[^c-6262faafac655fa03096505c12441dfb], give the applicant notice of—
 
 - (a) its decision to register the applicant; or
 - (b) the following matters—
@@ -55,7 +55,7 @@ summary: ''
   - (ii) the reasons for being minded to refuse to register the applicant; and
   - (iii) the right to make representations to it within a specified period (which may not be less than 28 days).
 
-(3A)[^key-2d3e363f30ab828557a44688638a1078] The period specified in this paragraph is—
+(3A)[^c-2d3e363f30ab828557a44688638a1078] The period specified in this paragraph is—
 
 - (i) where the applicant is a cryptoasset exchange provider or custodian wallet provider, 3 months, or
 - (ii) in any other case, 45 days,
@@ -72,7 +72,7 @@ beginning either with the date on which it receives the application or, where ap
 
 (5) The registering authority must, as soon as practicable after deciding to register a person, include that person in the relevant register.
 
-(6)[^key-84159eafe1c9d203e0b8f83496d310a0] Where—
+(6)[^c-84159eafe1c9d203e0b8f83496d310a0] Where—
 
 - (a) the registering authority decides not to register an applicant, the authority may, if it considers it proportionate to do so, publish such information about that decision as the authority considers appropriate;
 - (b) the FCA has received a notice under Part 12 of FSMA as modified by regulation 60B and Schedule 6B (changes in control of registered cryptoasset businesses) from a person who decides to acquire or increase control over a registered cryptoasset business and the FCA decides to object to the acquisition, the FCA may, if it considers it proportionate to do so, publish such information about that decision as the FCA considers appropriate.
@@ -83,14 +83,14 @@ beginning either with the date on which it receives the application or, where ap
 
 ## Annotations
 
-[^key-48fa4847b75597100d1c94c00a9ee742]: Textual amendment: Words in reg. 59(1) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(15)(a)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/15/a)
+[^c-48fa4847b75597100d1c94c00a9ee742]: Textual amendment: Words in reg. 59(1) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(15)(a)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/15/a)
 
 [^c23048471]: Marginal citation: [2000 c.11](https://www.legislation.gov.uk/ukpga/2000/11).
 
 [^c23048481]: Marginal citation: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).
 
-[^key-6262faafac655fa03096505c12441dfb]: Textual amendment: Words in reg. 59(3) substituted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(15)(b)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/15/b)
+[^c-6262faafac655fa03096505c12441dfb]: Textual amendment: Words in reg. 59(3) substituted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(15)(b)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/15/b)
 
-[^key-2d3e363f30ab828557a44688638a1078]: Textual amendment: Reg. 59(3A) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(15)(c)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/15/c)
+[^c-2d3e363f30ab828557a44688638a1078]: Textual amendment: Reg. 59(3A) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(15)(c)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/15/c)
 
-[^key-84159eafe1c9d203e0b8f83496d310a0]: Textual amendment: [Reg. 59(6)-(8)](https://www.legislation.gov.uk/uksi/2017/692/regulation/59/6) inserted (11.8.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/2/c), [12(2)](https://www.legislation.gov.uk/uksi/2022/860/regulation/12/2)
+[^c-84159eafe1c9d203e0b8f83496d310a0]: Textual amendment: [Reg. 59(6)-(8)](https://www.legislation.gov.uk/uksi/2017/692/regulation/59/6) inserted (11.8.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/2/c), [12(2)](https://www.legislation.gov.uk/uksi/2022/860/regulation/12/2)

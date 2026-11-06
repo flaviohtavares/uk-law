@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 104. Review and cancellation of enhanced upper tier ill-health pension[^key-d465e32c0423edf7f9bbc86688c9d5bd]
+## 104. Review and cancellation of enhanced upper tier ill-health pension[^c-d465e32c0423edf7f9bbc86688c9d5bd]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d465e32c0423edf7f9bbc86688c9d5bd]: Commencement: Reg. 104 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-d465e32c0423edf7f9bbc86688c9d5bd]: Commencement: Reg. 104 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

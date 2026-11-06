@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33B. Meaning of “replacement” in section 33A[^key-b586b148267f107b6ecea18649bffa71]
+## 33B. Meaning of “replacement” in section 33A[^c-b586b148267f107b6ecea18649bffa71]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ is more than 50% of the cost of replacing the integral feature at the time the i
 
 ## Annotations
 
-[^key-b586b148267f107b6ecea18649bffa71]: Textual amendment: Ss. 33A, 33B and cross-heading inserted (with effect in accordance with s. 73(6) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 73(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/73/2)
+[^c-b586b148267f107b6ecea18649bffa71]: Textual amendment: Ss. 33A, 33B and cross-heading inserted (with effect in accordance with s. 73(6) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 73(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/73/2)

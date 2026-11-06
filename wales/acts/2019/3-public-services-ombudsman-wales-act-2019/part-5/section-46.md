@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Alternative resolution of matters[^key-2801225f555987aadffd5f5621e6ae62]
+## 46. Alternative resolution of matters[^c-2801225f555987aadffd5f5621e6ae62]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2801225f555987aadffd5f5621e6ae62]: Commencement: [S. 46](https://www.legislation.gov.uk/anaw/2019/3/section/46) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-2801225f555987aadffd5f5621e6ae62]: Commencement: [S. 46](https://www.legislation.gov.uk/anaw/2019/3/section/46) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

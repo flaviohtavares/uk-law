@@ -42,7 +42,7 @@ summary: ''
 
 (7) In this regulation—
 
-- “accrued rights to guaranteed minimum pensions” is to be construed[^key-cc0bdadccafe6cbf0148745b88aa55a1] in accordance with section 20 of PSA 1993;
+- “accrued rights to guaranteed minimum pensions” is to be construed[^c-cc0bdadccafe6cbf0148745b88aa55a1] in accordance with section 20 of PSA 1993;
 - “**contracted-out employment**” has the meanings given in sections 8(1) and (1A) of PSA 1993 [^c22421311];
 - “**relevant pension**” means a phased retirement pension or retirement pension which becomes payable in respect of contracted-out employment before 6th April 1997.
 
@@ -60,6 +60,6 @@ summary: ''
 
 [^c22421301]: Marginal citation: Section 17 was amended by the [Child Support, Pensions and Social Security Act 2000 (c.19)](https://www.legislation.gov.uk/ukpga/2000/19), [Schedule 5](https://www.legislation.gov.uk/ukpga/2000/19/schedule/5); [S.I. 2005/2050](https://www.legislation.gov.uk/uksi/2005/2050); the [Pensions Act 2007 (c.22)](https://www.legislation.gov.uk/ukpga/2007/22), [section 14](https://www.legislation.gov.uk/ukpga/2007/22/section/14) and the [Marriage (Same Sex Couples) Act 2013 (c.30)](https://www.legislation.gov.uk/ukpga/2013/30), [Schedule 4](https://www.legislation.gov.uk/ukpga/2013/30/schedule/4).
 
-[^key-cc0bdadccafe6cbf0148745b88aa55a1]: Textual amendment: Words in [reg. 223(7)](https://www.legislation.gov.uk/uksi/2014/512/regulation/223/7) substituted (1.4.2015) by [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [27](https://www.legislation.gov.uk/uksi/2014/2652/regulation/27)
+[^c-cc0bdadccafe6cbf0148745b88aa55a1]: Textual amendment: Words in [reg. 223(7)](https://www.legislation.gov.uk/uksi/2014/512/regulation/223/7) substituted (1.4.2015) by [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [27](https://www.legislation.gov.uk/uksi/2014/2652/regulation/27)
 
 [^c22421311]: Marginal citation: Subsection (1A) was inserted by the Pensions Act 2007, Schedule 4.

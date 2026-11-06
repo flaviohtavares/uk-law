@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 55. Declaration of a low pathogenic avian influenza restricted zone[^key-0d1a28bb7ec58fcc9e3d45bc20157837]
+## 55. Declaration of a low pathogenic avian influenza restricted zone[^c-0d1a28bb7ec58fcc9e3d45bc20157837]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d1a28bb7ec58fcc9e3d45bc20157837]: Commencement: Reg. 55 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-0d1a28bb7ec58fcc9e3d45bc20157837]: Commencement: Reg. 55 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Illegal content risk assessment duties[^key-8f2c49c642807488a051718b3bd5db53][^key-8238f9dbfe5684b38f0842230d72d0dc]
+## 9. Illegal content risk assessment duties[^c-8f2c49c642807488a051718b3bd5db53][^c-8238f9dbfe5684b38f0842230d72d0dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8f2c49c642807488a051718b3bd5db53]: Commencement: S. 9 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-8f2c49c642807488a051718b3bd5db53]: Commencement: S. 9 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-8238f9dbfe5684b38f0842230d72d0dc]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2023/50/section/9) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/c)
+[^c-8238f9dbfe5684b38f0842230d72d0dc]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2023/50/section/9) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/c)

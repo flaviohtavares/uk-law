@@ -31,7 +31,7 @@ summary: ''
 - (e) the agreement made on 31st July 2008 and ending on 31st October 2015 between the Secretary of State for Health, UKSH South West Limited and UK Specialist Hospitals Limited for the provision of elective services and diagnostic services by UKSH South West Limited; and
 - (f) the agreement made on 26th September 2011 and ending on 16th October 2016 between the Secretary of State for Health, Clinicenta (Hertfordshire) Limited and Carillion plc for the provision of elective services and assessment and minor elective care services by Clinicenta (Hertfordshire) Limited.
 
-(3) NHS England[^key-c31464ebf700c58b40bc343c24a900bf] must arrange, to such extent as it considers necessary to meet all reasonable requirements, for the provision as part of the health service of the services to which each of the agreements specified in paragraph (2)(a) to (f) relates for the period beginning on 1st April 2013 and, in the case of each respective agreement, ending on the date on which that agreement comes to an end.
+(3) NHS England[^c-c31464ebf700c58b40bc343c24a900bf] must arrange, to such extent as it considers necessary to meet all reasonable requirements, for the provision as part of the health service of the services to which each of the agreements specified in paragraph (2)(a) to (f) relates for the period beginning on 1st April 2013 and, in the case of each respective agreement, ending on the date on which that agreement comes to an end.
 
 (4) In this regulation—
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c31464ebf700c58b40bc343c24a900bf]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-c31464ebf700c58b40bc343c24a900bf]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

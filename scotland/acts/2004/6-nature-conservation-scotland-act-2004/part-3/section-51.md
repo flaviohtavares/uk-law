@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Scottish Marine Wildlife Watching Code[^key-f6870df22eca0d264e2f91a630e11d7b]
+## 51. Scottish Marine Wildlife Watching Code[^c-f6870df22eca0d264e2f91a630e11d7b]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ consult such persons appearing to them to have an interest in marine wildlife wa
 
 ## Annotations
 
-[^key-f6870df22eca0d264e2f91a630e11d7b]: Commencement: S. 51 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(c)](https://www.legislation.gov.uk/ssi/2004/407/article/2/c)
+[^c-f6870df22eca0d264e2f91a630e11d7b]: Commencement: S. 51 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(c)](https://www.legislation.gov.uk/ssi/2004/407/article/2/c)

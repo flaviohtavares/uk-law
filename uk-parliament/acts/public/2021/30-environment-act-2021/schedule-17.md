@@ -24,7 +24,7 @@ Section 116
 
 ### PART 1 — Requirements
 
-#### 1. Meaning of “forest risk commodity”[^key-b7905ff16e2b1545867642481b4cbedc][^key-2c49e2d6b5d68da7bba7a7c580ec62b1]
+#### 1. Meaning of “forest risk commodity”[^c-b7905ff16e2b1545867642481b4cbedc][^c-2c49e2d6b5d68da7bba7a7c580ec62b1]
 
 (1) In this Schedule “**forest risk commodity**” means a commodity specified in regulations made by the Secretary of State.
 
@@ -42,7 +42,7 @@ Section 116
 
 (8) The requirement to consult in sub-paragraph (7) may be met by consultation carried out before this paragraph comes into force.
 
-#### 2. Prohibition on using illegally produced commodities[^key-921e04ba97740c6c64bca69da12a50d5][^key-2c14e7fb70f76ada3a916f286d3413a7]
+#### 2. Prohibition on using illegally produced commodities[^c-921e04ba97740c6c64bca69da12a50d5][^c-2c14e7fb70f76ada3a916f286d3413a7]
 
 (1) A regulated person in relation to a forest risk commodity must not use that commodity in their UK commercial activities unless relevant local laws were complied with in relation to that commodity.
 
@@ -74,7 +74,7 @@ Section 116
   - (i) that qualifies for the issue of an RTF certificate under article 17 of that Order, and
   - (ii) in respect of which an additional RTF certificate may be or has been issued under article 17A(4) of that Order.
 
-#### 3. Due diligence system[^key-42e9866a3be510749b5e030521ff613c][^key-4a80bcaf923bea889a563006176d2b23]
+#### 3. Due diligence system[^c-42e9866a3be510749b5e030521ff613c][^c-4a80bcaf923bea889a563006176d2b23]
 
 (1) A regulated person in relation to a forest risk commodity who uses that commodity or a product derived from that commodity in their UK commercial activities must establish and implement a due diligence system in relation to that commodity.
 
@@ -90,7 +90,7 @@ Section 116
 - (b) the criteria to be used in assessing risk;
 - (c) the ways in which risk may be mitigated.
 
-#### 4. Annual report on due diligence system[^key-fc03fad2fad33fa07f08d30e26920376][^key-496bd705a03cc33cecff97a37a5cd929]
+#### 4. Annual report on due diligence system[^c-fc03fad2fad33fa07f08d30e26920376][^c-496bd705a03cc33cecff97a37a5cd929]
 
 (1) A regulated person in relation to a forest risk commodity who uses that commodity or a product derived from that commodity in their UK commercial activities must, for each reporting period, provide the relevant authority with a report on the actions taken by the person to establish and implement a due diligence system in relation to that commodity as required by paragraph 3.
 
@@ -113,7 +113,7 @@ Section 116
 - (a) the period beginning with the day on which this paragraph comes fully into force and ending with the following 31 March, and
 - (b) each successive period of 12 months.
 
-#### 5. Exemption[^key-543510a1f95018293eba52873caa5893][^key-4561b0b50e931f7fc2b2408d41e4e2cf]
+#### 5. Exemption[^c-543510a1f95018293eba52873caa5893][^c-4561b0b50e931f7fc2b2408d41e4e2cf]
 
 (1) A regulated person in relation to a forest risk commodity is exempt from the Part 1 requirements in respect of their use of that commodity, or a product derived from that commodity, in their UK commercial activities during a reporting period if they satisfy the following two conditions.
 
@@ -153,13 +153,13 @@ and regulations under paragraph (b) may include provision for determining the am
 
 (10) The requirement to consult in sub-paragraph (9) may be met by consultation carried out before this paragraph comes into force.
 
-#### 6. Guidance[^key-0cc70ffcc8f695fc7be105d0d8bf7aec][^key-850c8a91035aa6a20efe5846c6674bef]
+#### 6. Guidance[^c-0cc70ffcc8f695fc7be105d0d8bf7aec][^c-850c8a91035aa6a20efe5846c6674bef]
 
 (1) The Secretary of State may issue guidance to an enforcement authority about the Part 1 requirements.
 
 (2) An enforcement authority must have regard to guidance issued under sub-paragraph (1) when exercising its functions under Part 2 of this Schedule.
 
-#### 7. Meaning of “regulated person”[^key-d5bc2994fc8bc9b5fdc87fecef1fe896][^key-f9e767d2d3c0c41c84d1ef79bf9740fd]
+#### 7. Meaning of “regulated person”[^c-d5bc2994fc8bc9b5fdc87fecef1fe896][^c-f9e767d2d3c0c41c84d1ef79bf9740fd]
 
 (1) In this Schedule “**regulated person**”, in relation to a forest risk commodity, means a person (other than an individual) who carries on commercial activities in the United Kingdom, and—
 
@@ -185,11 +185,11 @@ and whether an undertaking is a subsidiary of another undertaking is to be deter
 
 ### PART 2 — Enforcement
 
-#### 8. General power[^key-d4844b780896cea97aa956c7d8cbded6][^key-0459b444007d24dbc6d76fe5b14ef793]
+#### 8. General power[^c-d4844b780896cea97aa956c7d8cbded6][^c-0459b444007d24dbc6d76fe5b14ef793]
 
 The Secretary of State may by regulations (“Part 2 regulations”) make provision about the enforcement of requirements imposed by or under Part 1 of this Schedule (“Part 1 requirements”).
 
-#### 9. Powers to confer functions[^key-62c04246f00532f719137ea55366171b][^key-bc89856ef88fb05366d33e5391c8a0f3]
+#### 9. Powers to confer functions[^c-62c04246f00532f719137ea55366171b][^c-bc89856ef88fb05366d33e5391c8a0f3]
 
 (1) Part 2 regulations may include provision conferring functions on one or more persons specified in the regulations (each of whom is an “**enforcement authority**” for the purposes of this Schedule).
 
@@ -203,11 +203,11 @@ The Secretary of State may by regulations (“Part 2 regulations”) make provis
 - (a) to issue guidance about the exercise of its functions;
 - (b) to consult with specified persons before issuing such guidance.
 
-#### 10. Monitoring compliance[^key-312503ad85b099956e7790739791eb8e][^key-3e3fd8d1af4a0afd808937e11c163ba7]
+#### 10. Monitoring compliance[^c-312503ad85b099956e7790739791eb8e][^c-3e3fd8d1af4a0afd808937e11c163ba7]
 
 Part 2 regulations may include provision conferring on an enforcement authority the function of monitoring compliance with Part 1 requirements.
 
-#### 11. Records and information[^key-036a8a4de44540b3fb74e0ba95ca9268][^key-e8ed4b997fa1f6932f330bf95bf82c5c]
+#### 11. Records and information[^c-036a8a4de44540b3fb74e0ba95ca9268][^c-e8ed4b997fa1f6932f330bf95bf82c5c]
 
 Part 2 regulations may include provision—
 
@@ -215,7 +215,7 @@ Part 2 regulations may include provision—
 - (b) requiring persons on whom Part 1 requirements are imposed to provide records or other information to an enforcement authority;
 - (c) requiring an enforcement authority to make reports or provide information to the Secretary of State.
 
-#### 12. Powers of entry etc[^key-c6acb7e31688f4860e9f6a6c060889bd][^key-59a4d276991d1aa417b5535610247eae]
+#### 12. Powers of entry etc[^c-c6acb7e31688f4860e9f6a6c060889bd][^c-59a4d276991d1aa417b5535610247eae]
 
 (1) Part 2 regulations may include provision conferring on an enforcement authority powers of entry, inspection, examination, search and seizure.
 
@@ -230,7 +230,7 @@ Part 2 regulations may include provision—
 - (b) enter a private dwelling without the consent of the occupier;
 - (c) search and seize material.
 
-#### 13. Sanctions[^key-5e839e575b071d1c14b353f95bfedd7b][^key-b329fd263413bdc861fdf1e337597072]
+#### 13. Sanctions[^c-5e839e575b071d1c14b353f95bfedd7b][^c-b329fd263413bdc861fdf1e337597072]
 
 (1) Part 2 regulations may include provision—
 
@@ -255,19 +255,19 @@ a civil sanction may not be imposed on the regulated person in respect of the fa
 
 (4) In this paragraph “**civil sanction**” means a sanction of a kind for which provision may be made under Part 3 of the Regulatory Enforcement and Sanctions Act 2008 (fixed monetary penalties, discretionary requirements, stop notices and enforcement undertakings).
 
-**14.**[^key-e61d5e07fdd8fa054d0a20c2bdbec025][^key-66627de42828ef3d40de97d00056bb13] Part 2 regulations may include provision for the imposition of sanctions of that kind whether or not—
+**14.**[^c-e61d5e07fdd8fa054d0a20c2bdbec025][^c-66627de42828ef3d40de97d00056bb13] Part 2 regulations may include provision for the imposition of sanctions of that kind whether or not—
 
 - (a) the conduct in respect of which the sanction is imposed constitutes an offence, or
 - (b) the enforcement authority is a regulator for the purposes of Part 3 of the Regulatory Enforcement and Sanctions Act 2008.
 
-#### 15. Charges[^key-ab1a348e9b462b79560cbaa87f8ac99a][^key-f591794b187ed235656f58e9d4a826f8]
+#### 15. Charges[^c-ab1a348e9b462b79560cbaa87f8ac99a][^c-f591794b187ed235656f58e9d4a826f8]
 
 Part 2 regulations may include provision—
 
 - (a) requiring persons on whom Part 1 requirements are imposed to pay to an enforcement authority charges, as a means of recovering costs incurred by that enforcement authority in performing its functions;
 - (b) authorising a court or tribunal dealing with any matter relating to Part 1 requirements or Part 2 regulations to award to an enforcement authority costs incurred by it in performing its functions in relation to that matter.
 
-#### 16. Consultation requirement[^key-d84e030e07c63cc996ee6bdde1996f4f][^key-41f16ceed9e34b627f1e7578f5056986]
+#### 16. Consultation requirement[^c-d84e030e07c63cc996ee6bdde1996f4f][^c-41f16ceed9e34b627f1e7578f5056986]
 
 (1) Before making Part 2 regulations the Secretary of State must consult any persons the Secretary of State considers appropriate.
 
@@ -275,7 +275,7 @@ Part 2 regulations may include provision—
 
 ### PART 3 — General provisions
 
-#### 17. Review[^key-ffa1d2c1ae23e009b0a1b12abb79e80c][^key-4dfb1c74992fc37af63343afdc828da9]
+#### 17. Review[^c-ffa1d2c1ae23e009b0a1b12abb79e80c][^c-4dfb1c74992fc37af63343afdc828da9]
 
 (1) The Secretary of State must review the effectiveness of the Part 1 requirements and any Part 2 regulations (“relevant provisions”) in accordance with this paragraph.
 
@@ -300,7 +300,7 @@ Part 2 regulations may include provision—
 
 (6) A review is completed when the Secretary of State has laid and published the report.
 
-#### 18. Interpretation[^key-f9550055e2fa663e3bdcb67bd23b1e61][^key-c890e379aa3a075c4f9ae9ce4cdfa1ff]
+#### 18. Interpretation[^c-f9550055e2fa663e3bdcb67bd23b1e61][^c-c890e379aa3a075c4f9ae9ce4cdfa1ff]
 
 (1) In this Schedule—
 
@@ -325,74 +325,74 @@ Part 2 regulations may include provision—
 
 ## Annotations
 
-[^key-b7905ff16e2b1545867642481b4cbedc]: Commencement: Sch. 17 para. 1 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-b7905ff16e2b1545867642481b4cbedc]: Commencement: Sch. 17 para. 1 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-2c49e2d6b5d68da7bba7a7c580ec62b1]: Commencement: [Sch. 17 para. 1](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/1) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
+[^c-2c49e2d6b5d68da7bba7a7c580ec62b1]: Commencement: [Sch. 17 para. 1](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/1) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
 
-[^key-921e04ba97740c6c64bca69da12a50d5]: Commencement: Sch. 17 para. 2 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-921e04ba97740c6c64bca69da12a50d5]: Commencement: Sch. 17 para. 2 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-2c14e7fb70f76ada3a916f286d3413a7]: Commencement: [Sch. 17 para. 2](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/2) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
+[^c-2c14e7fb70f76ada3a916f286d3413a7]: Commencement: [Sch. 17 para. 2](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/2) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
 
-[^key-42e9866a3be510749b5e030521ff613c]: Commencement: Sch. 17 para. 3 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-42e9866a3be510749b5e030521ff613c]: Commencement: Sch. 17 para. 3 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-4a80bcaf923bea889a563006176d2b23]: Commencement: [Sch. 17 para. 3](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/3) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
+[^c-4a80bcaf923bea889a563006176d2b23]: Commencement: [Sch. 17 para. 3](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/3) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
 
-[^key-fc03fad2fad33fa07f08d30e26920376]: Commencement: Sch. 17 para. 4 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-fc03fad2fad33fa07f08d30e26920376]: Commencement: Sch. 17 para. 4 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-496bd705a03cc33cecff97a37a5cd929]: Commencement: [Sch. 17 para. 4](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/4) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
+[^c-496bd705a03cc33cecff97a37a5cd929]: Commencement: [Sch. 17 para. 4](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/4) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
 
-[^key-543510a1f95018293eba52873caa5893]: Commencement: Sch. 17 para. 5 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-543510a1f95018293eba52873caa5893]: Commencement: Sch. 17 para. 5 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-4561b0b50e931f7fc2b2408d41e4e2cf]: Commencement: [Sch. 17 para. 5](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/5) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
+[^c-4561b0b50e931f7fc2b2408d41e4e2cf]: Commencement: [Sch. 17 para. 5](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/5) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
 
-[^key-0cc70ffcc8f695fc7be105d0d8bf7aec]: Commencement: Sch. 17 para. 6 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-0cc70ffcc8f695fc7be105d0d8bf7aec]: Commencement: Sch. 17 para. 6 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-850c8a91035aa6a20efe5846c6674bef]: Commencement: [Sch. 17 para. 6](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/6) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
+[^c-850c8a91035aa6a20efe5846c6674bef]: Commencement: [Sch. 17 para. 6](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/6) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
 
-[^key-d5bc2994fc8bc9b5fdc87fecef1fe896]: Commencement: Sch. 17 para. 7 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-d5bc2994fc8bc9b5fdc87fecef1fe896]: Commencement: Sch. 17 para. 7 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-f9e767d2d3c0c41c84d1ef79bf9740fd]: Commencement: [Sch. 17 para. 7](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/7) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
+[^c-f9e767d2d3c0c41c84d1ef79bf9740fd]: Commencement: [Sch. 17 para. 7](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/7) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
 
-[^key-d4844b780896cea97aa956c7d8cbded6]: Commencement: Sch. 17 para. 8 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-d4844b780896cea97aa956c7d8cbded6]: Commencement: Sch. 17 para. 8 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-0459b444007d24dbc6d76fe5b14ef793]: Commencement: [Sch. 17 para. 8](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/8) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
+[^c-0459b444007d24dbc6d76fe5b14ef793]: Commencement: [Sch. 17 para. 8](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/8) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
 
-[^key-62c04246f00532f719137ea55366171b]: Commencement: Sch. 17 para. 9 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-62c04246f00532f719137ea55366171b]: Commencement: Sch. 17 para. 9 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-bc89856ef88fb05366d33e5391c8a0f3]: Commencement: [Sch. 17 para. 9](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/9) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
+[^c-bc89856ef88fb05366d33e5391c8a0f3]: Commencement: [Sch. 17 para. 9](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/9) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
 
-[^key-312503ad85b099956e7790739791eb8e]: Commencement: Sch. 17 para. 10 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-312503ad85b099956e7790739791eb8e]: Commencement: Sch. 17 para. 10 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-3e3fd8d1af4a0afd808937e11c163ba7]: Commencement: [Sch. 17 para. 10](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/10) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
+[^c-3e3fd8d1af4a0afd808937e11c163ba7]: Commencement: [Sch. 17 para. 10](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/10) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
 
-[^key-036a8a4de44540b3fb74e0ba95ca9268]: Commencement: Sch. 17 para. 11 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-036a8a4de44540b3fb74e0ba95ca9268]: Commencement: Sch. 17 para. 11 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-e8ed4b997fa1f6932f330bf95bf82c5c]: Commencement: [Sch. 17 para. 11](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/11) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
+[^c-e8ed4b997fa1f6932f330bf95bf82c5c]: Commencement: [Sch. 17 para. 11](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/11) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
 
-[^key-c6acb7e31688f4860e9f6a6c060889bd]: Commencement: Sch. 17 para. 12 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-c6acb7e31688f4860e9f6a6c060889bd]: Commencement: Sch. 17 para. 12 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-59a4d276991d1aa417b5535610247eae]: Commencement: [Sch. 17 para. 12](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/12) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
+[^c-59a4d276991d1aa417b5535610247eae]: Commencement: [Sch. 17 para. 12](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/12) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
 
-[^key-5e839e575b071d1c14b353f95bfedd7b]: Commencement: Sch. 17 para. 13 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-5e839e575b071d1c14b353f95bfedd7b]: Commencement: Sch. 17 para. 13 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-b329fd263413bdc861fdf1e337597072]: Commencement: [Sch. 17 para. 13](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/13) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
+[^c-b329fd263413bdc861fdf1e337597072]: Commencement: [Sch. 17 para. 13](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/13) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
 
-[^key-e61d5e07fdd8fa054d0a20c2bdbec025]: Commencement: Sch. 17 para. 14 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-e61d5e07fdd8fa054d0a20c2bdbec025]: Commencement: Sch. 17 para. 14 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-66627de42828ef3d40de97d00056bb13]: Commencement: [Sch. 17 para. 14](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/14) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
+[^c-66627de42828ef3d40de97d00056bb13]: Commencement: [Sch. 17 para. 14](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/14) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
 
-[^key-ab1a348e9b462b79560cbaa87f8ac99a]: Commencement: Sch. 17 para. 15 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-ab1a348e9b462b79560cbaa87f8ac99a]: Commencement: Sch. 17 para. 15 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-f591794b187ed235656f58e9d4a826f8]: Commencement: [Sch. 17 para. 15](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/15) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
+[^c-f591794b187ed235656f58e9d4a826f8]: Commencement: [Sch. 17 para. 15](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/15) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
 
-[^key-d84e030e07c63cc996ee6bdde1996f4f]: Commencement: Sch. 17 para. 16 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-d84e030e07c63cc996ee6bdde1996f4f]: Commencement: Sch. 17 para. 16 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-41f16ceed9e34b627f1e7578f5056986]: Commencement: [Sch. 17 para. 16](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/16) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
+[^c-41f16ceed9e34b627f1e7578f5056986]: Commencement: [Sch. 17 para. 16](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/16) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
 
-[^key-ffa1d2c1ae23e009b0a1b12abb79e80c]: Commencement: Sch. 17 para. 17 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-ffa1d2c1ae23e009b0a1b12abb79e80c]: Commencement: Sch. 17 para. 17 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-4dfb1c74992fc37af63343afdc828da9]: Commencement: [Sch. 17 para. 17](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/17) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
+[^c-4dfb1c74992fc37af63343afdc828da9]: Commencement: [Sch. 17 para. 17](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/17) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
 
-[^key-f9550055e2fa663e3bdcb67bd23b1e61]: Commencement: Sch. 17 para. 18 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-f9550055e2fa663e3bdcb67bd23b1e61]: Commencement: Sch. 17 para. 18 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-c890e379aa3a075c4f9ae9ce4cdfa1ff]: Commencement: [Sch. 17 para. 18](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/18) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)
+[^c-c890e379aa3a075c4f9ae9ce4cdfa1ff]: Commencement: [Sch. 17 para. 18](https://www.legislation.gov.uk/ukpga/2021/30/schedule/17/paragraph/18) in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/d)

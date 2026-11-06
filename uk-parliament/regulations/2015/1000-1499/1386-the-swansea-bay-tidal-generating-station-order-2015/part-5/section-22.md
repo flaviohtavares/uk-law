@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Permanent lights on tidal works[^key-496e1f1656fdc8fcd1585454e6391d0c]
+## 22. Permanent lights on tidal works[^c-496e1f1656fdc8fcd1585454e6391d0c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ After the completion of a tidal work, the undertaker must at the outer extremity
 
 ## Annotations
 
-[^key-496e1f1656fdc8fcd1585454e6391d0c]: Commencement: Art. 22 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-496e1f1656fdc8fcd1585454e6391d0c]: Commencement: Art. 22 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)

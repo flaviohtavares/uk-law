@@ -37,7 +37,7 @@ High Court Of Justiciary
 
 Sheriff Court
 
-The Court Fees (Miscellaneous Amendments) Scotland Order 2012 (revoked)[^key-1970d9ea52eddcb7b1e5754289becd5f]
+The Court Fees (Miscellaneous Amendments) Scotland Order 2012 (revoked)[^c-1970d9ea52eddcb7b1e5754289becd5f]
 
 Made
 
@@ -51,38 +51,38 @@ Coming into force
 
 9th December 2012
 
-[^key-1970d9ea52eddcb7b1e5754289becd5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1970d9ea52eddcb7b1e5754289becd5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1970d9ea52eddcb7b1e5754289becd5f]
+## 1. Citation and commencement[^c-1970d9ea52eddcb7b1e5754289becd5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Court of Session etc. Fees Amendment Order 2012[^key-1970d9ea52eddcb7b1e5754289becd5f]
+## 2. Amendment of the Court of Session etc. Fees Amendment Order 2012[^c-1970d9ea52eddcb7b1e5754289becd5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1970d9ea52eddcb7b1e5754289becd5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1970d9ea52eddcb7b1e5754289becd5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-1970d9ea52eddcb7b1e5754289becd5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1970d9ea52eddcb7b1e5754289becd5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-1970d9ea52eddcb7b1e5754289becd5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-1970d9ea52eddcb7b1e5754289becd5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of the High Court of Justiciary Fees Amendment Order 2012[^key-1970d9ea52eddcb7b1e5754289becd5f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 7. Amendment of the Sheriff Court Fees Amendment Order 2012[^key-1970d9ea52eddcb7b1e5754289becd5f]
+## 6. Amendment of the High Court of Justiciary Fees Amendment Order 2012[^c-1970d9ea52eddcb7b1e5754289becd5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1970d9ea52eddcb7b1e5754289becd5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 7. Amendment of the Sheriff Court Fees Amendment Order 2012[^c-1970d9ea52eddcb7b1e5754289becd5f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-1970d9ea52eddcb7b1e5754289becd5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1970d9ea52eddcb7b1e5754289becd5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1970d9ea52eddcb7b1e5754289becd5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1970d9ea52eddcb7b1e5754289becd5f]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2012/322) revoked (22.9.2015) by [The Court of Session etc. Fees Order 2015 (S.S.I. 2015/261)](https://www.legislation.gov.uk/ssi/2015/261), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/261/article/1), [sch. 4](https://www.legislation.gov.uk/ssi/2015/261/schedule/4)
+[^c-1970d9ea52eddcb7b1e5754289becd5f]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2012/322) revoked (22.9.2015) by [The Court of Session etc. Fees Order 2015 (S.S.I. 2015/261)](https://www.legislation.gov.uk/ssi/2015/261), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/261/article/1), [sch. 4](https://www.legislation.gov.uk/ssi/2015/261/schedule/4)

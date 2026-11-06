@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Market power determinations[^key-c0be83ecb2e1d4160573cdd6d3fe1a9a]
+## 7. Market power determinations[^c-c0be83ecb2e1d4160573cdd6d3fe1a9a]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ determination A ceases to have effect in relation to that part (but continues to
 
 ## Annotations
 
-[^key-c0be83ecb2e1d4160573cdd6d3fe1a9a]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2012/19/section/7) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-c0be83ecb2e1d4160573cdd6d3fe1a9a]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2012/19/section/7) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

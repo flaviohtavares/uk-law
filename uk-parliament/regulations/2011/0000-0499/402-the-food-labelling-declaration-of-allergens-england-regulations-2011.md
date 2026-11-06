@@ -32,7 +32,7 @@ summary: ''
 
 Food, England
 
-The Food Labelling (Declaration of Allergens) (England) Regulations 2011 (revoked)[^key-0af36372704acac6706c688e40ebdd44]
+The Food Labelling (Declaration of Allergens) (England) Regulations 2011 (revoked)[^c-0af36372704acac6706c688e40ebdd44]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 17th March 2011
 
-[^key-0af36372704acac6706c688e40ebdd44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0af36372704acac6706c688e40ebdd44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-0af36372704acac6706c688e40ebdd44]
+## 1. Title, application and commencement[^c-0af36372704acac6706c688e40ebdd44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Food Labelling Regulations 1996[^key-0af36372704acac6706c688e40ebdd44]
+## 2. Amendment of the Food Labelling Regulations 1996[^c-0af36372704acac6706c688e40ebdd44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-0af36372704acac6706c688e40ebdd44]
+## 3. Revocation[^c-0af36372704acac6706c688e40ebdd44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0af36372704acac6706c688e40ebdd44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0af36372704acac6706c688e40ebdd44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0af36372704acac6706c688e40ebdd44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0af36372704acac6706c688e40ebdd44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0af36372704acac6706c688e40ebdd44]: Textual amendment: Regulations revoked (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), reg. 1(5), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1) Entry 27
+[^c-0af36372704acac6706c688e40ebdd44]: Textual amendment: Regulations revoked (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), reg. 1(5), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1) Entry 27

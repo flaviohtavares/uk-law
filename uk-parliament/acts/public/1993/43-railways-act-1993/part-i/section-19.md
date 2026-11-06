@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^c14099961] The Office of Rail and Road[^key-5b97c2b43b52eb9f3246ec99cff02741] may, on the application of any person, give directions to an installation owner requiring him to enter into an installation access contract with the applicant for the purpose of enabling the beneficiary to obtain (whether for himself alone or for himself and, so far as may be applicable, associates of his) permission to use the installation owner’s network installation for the purpose of operating, on behalf of the Secretary of State, the network in which the network installation is comprised.
+(1)[^c14099961] The Office of Rail and Road[^c-5b97c2b43b52eb9f3246ec99cff02741] may, on the application of any person, give directions to an installation owner requiring him to enter into an installation access contract with the applicant for the purpose of enabling the beneficiary to obtain (whether for himself alone or for himself and, so far as may be applicable, associates of his) permission to use the installation owner’s network installation for the purpose of operating, on behalf of the Secretary of State, the network in which the network installation is comprised.
 
 (2) Directions shall not be given under subsection (1) above in the case of any network installation if and to the extent that, as a result of an obligation or duty owed by the installation owner which arose before the coming into force of this section, the consent of some other person is required by the installation owner before he may enter into the installation access contract.
 
@@ -49,7 +49,7 @@ and any installation access contract to which this subsection applies shall be v
 - (a) authorises the Office of Rail and Road to give directions to an installation owner requiring him to grant a lease of the whole or any part of his network installation; or
 - (b) prevents an installation owner from granting a lease of any land which consists of or includes the whole or any part of his network installation.
 
-(7) Any reference in this section to a person operating a network “**on behalf of the Secretary of State**” is a reference to his operating the network in pursuance of any agreement or other arrangements made by the Secretary of State, the Welsh Ministers[^key-f62fd1ada8da85848a34081fbaa033b8] for the purpose of performing a duty imposed upon him, or exercising a power conferred upon him, under or by virtue of this Part or Part 4 of the Railways Act 2005 (network modifications[^c18906951] etc.) to secure the operation of that network.
+(7) Any reference in this section to a person operating a network “**on behalf of the Secretary of State**” is a reference to his operating the network in pursuance of any agreement or other arrangements made by the Secretary of State, the Welsh Ministers[^c-f62fd1ada8da85848a34081fbaa033b8] for the purpose of performing a duty imposed upon him, or exercising a power conferred upon him, under or by virtue of this Part or Part 4 of the Railways Act 2005 (network modifications[^c18906951] etc.) to secure the operation of that network.
 
 (8) Any reference in this section to obtaining permission to use a network installation includes—
 
@@ -101,7 +101,7 @@ and in paragraph (b) above “**installation land**” means the land which cons
 
 [^c14099961]: Modification: S. 19(1) restricted (18.12.1996) by [1996 c. 61](https://www.legislation.gov.uk/ukpga/1996/61), [s. 17(4)](https://www.legislation.gov.uk/ukpga/1996/61/section/17/4)
 
-[^key-5b97c2b43b52eb9f3246ec99cff02741]: Textual amendment: Words in s. 19 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(aa)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/aa)
+[^c-5b97c2b43b52eb9f3246ec99cff02741]: Textual amendment: Words in s. 19 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(aa)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/aa)
 
 [^c14099981]: Textual amendment: Words in s. 19(3) repealed (1.2.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 274](https://www.legislation.gov.uk/ukpga/2000/38/section/274), [275(1)](https://www.legislation.gov.uk/ukpga/2000/38/section/275/1), [Sch. 31 Pt. IV](https://www.legislation.gov.uk/ukpga/2000/38/schedule/31/part/IV); [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to savings and transitional provisions in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
@@ -113,7 +113,7 @@ and in paragraph (b) above “**installation land**” means the land which cons
 
 [^c18780671]: Textual amendment: Word in s. 19 substituted (5.7.2004) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [ss. 16](https://www.legislation.gov.uk/ukpga/2003/20/section/16), [120](https://www.legislation.gov.uk/ukpga/2003/20/section/120), {Sch. 2 para. 3(b) Table}; [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 4(g)](https://www.legislation.gov.uk/uksi/2004/827/article/4/g)
 
-[^key-f62fd1ada8da85848a34081fbaa033b8]: Textual amendment: Words in s. 19(7) inserted (14.10.2018 at 2.00 a.m.) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/4)
+[^c-f62fd1ada8da85848a34081fbaa033b8]: Textual amendment: Words in s. 19(7) inserted (14.10.2018 at 2.00 a.m.) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/4)
 
 [^c18906951]: Textual amendment: Words in s. 19(7) inserted (1.12.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 54](https://www.legislation.gov.uk/ukpga/2005/14/section/54), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60), [Sch. 11 para. 3(b)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/3/b); [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule) (subject to the transitional and saving provisions in [arts. 3-7](https://www.legislation.gov.uk/uksi/2006/2911/article/3))
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 25. Evidence and contempt[^key-f5b0d966f4c1c7a0f30a7aca9ee4b48c]
+## 25. Evidence and contempt[^c-f5b0d966f4c1c7a0f30a7aca9ee4b48c]
 
 *Extent: E*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5b0d966f4c1c7a0f30a7aca9ee4b48c]: Commencement: [S. 25](https://www.legislation.gov.uk/ukcm/2018/3/section/25) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-f5b0d966f4c1c7a0f30a7aca9ee4b48c]: Commencement: [S. 25](https://www.legislation.gov.uk/ukcm/2018/3/section/25) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

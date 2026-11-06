@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 133. Regulatory committee[^key-4e282df09f45ff2de52202bd660ba1c6][^key-87355bfa0cf330546394c6bade4df5c0]
+## 133. Regulatory committee[^c-4e282df09f45ff2de52202bd660ba1c6][^c-87355bfa0cf330546394c6bade4df5c0]
 
 *Extent: S*
 
@@ -144,6 +144,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4e282df09f45ff2de52202bd660ba1c6]: Commencement: [S. 133](https://www.legislation.gov.uk/asp/2010/16/section/133) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-4e282df09f45ff2de52202bd660ba1c6]: Commencement: [S. 133](https://www.legislation.gov.uk/asp/2010/16/section/133) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
 
-[^key-87355bfa0cf330546394c6bade4df5c0]: Commencement: [S. 133](https://www.legislation.gov.uk/asp/2010/16/section/133) in force at 1.6.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 5(d)](https://www.legislation.gov.uk/ssi/2011/180/article/5/d)
+[^c-87355bfa0cf330546394c6bade4df5c0]: Commencement: [S. 133](https://www.legislation.gov.uk/asp/2010/16/section/133) in force at 1.6.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 5(d)](https://www.legislation.gov.uk/ssi/2011/180/article/5/d)

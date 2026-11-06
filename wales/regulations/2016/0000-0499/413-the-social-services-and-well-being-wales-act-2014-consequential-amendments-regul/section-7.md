@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**7.**[^key-1768d3aafbd4aed71e507ea6794b1d02] In section 1(replacement of application of poor law by certain provisions of the Act), omit the words from the first “and” to the end.
+**7.**[^c-1768d3aafbd4aed71e507ea6794b1d02] In section 1(replacement of application of poor law by certain provisions of the Act), omit the words from the first “and” to the end.
 
 ## Annotations
 
-[^key-1768d3aafbd4aed71e507ea6794b1d02]: Commencement: Reg. 7 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-1768d3aafbd4aed71e507ea6794b1d02]: Commencement: Reg. 7 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

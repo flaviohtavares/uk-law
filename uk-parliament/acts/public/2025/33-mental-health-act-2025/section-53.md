@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Power of Secretary of State to make consequential provision[^key-a8be5f84aebd1ad58272b8c5705518ad]
+## 53. Power of Secretary of State to make consequential provision[^c-a8be5f84aebd1ad58272b8c5705518ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8be5f84aebd1ad58272b8c5705518ad]: Commencement: S. 53 in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/2)
+[^c-a8be5f84aebd1ad58272b8c5705518ad]: Commencement: S. 53 in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Application of the 1981 Act[^key-842d4818b14839409a64c63bde5de536]
+## 27. Application of the 1981 Act[^c-842d4818b14839409a64c63bde5de536]
 
 *Extent: E+W+S*
 
@@ -42,7 +42,7 @@ summary: ''
 
 (9) In Schedule A1 (counter-notice requiring purchase of land not in general vesting declaration), for paragraph 1(2) substitute—
 
-> (2) But see article 28 (acquisition of subsoil or airspace only) of the Net Zero Teesside Order 2024[^key-e553d229c4cfbe3e631997b6aeedc5f9], which excludes the acquisition of subsoil or airspace only from this Schedule.
+> (2) But see article 28 (acquisition of subsoil or airspace only) of the Net Zero Teesside Order 2024[^c-e553d229c4cfbe3e631997b6aeedc5f9], which excludes the acquisition of subsoil or airspace only from this Schedule.
 
 .
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-842d4818b14839409a64c63bde5de536]: Commencement: Art. 27 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-842d4818b14839409a64c63bde5de536]: Commencement: Art. 27 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
 
-[^key-e553d229c4cfbe3e631997b6aeedc5f9]: Textual amendment: Words in [art. 27(9)](https://www.legislation.gov.uk/uksi/2024/174/article/27/9) inserted (21.12.2024) by [The Net Zero Teesside (Correction) Order 2024 (S.I. 2024/1384)](https://www.legislation.gov.uk/uksi/2024/1384), [art. 1](https://www.legislation.gov.uk/uksi/2024/1384/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1384/schedule) Table
+[^c-e553d229c4cfbe3e631997b6aeedc5f9]: Textual amendment: Words in [art. 27(9)](https://www.legislation.gov.uk/uksi/2024/174/article/27/9) inserted (21.12.2024) by [The Net Zero Teesside (Correction) Order 2024 (S.I. 2024/1384)](https://www.legislation.gov.uk/uksi/2024/1384), [art. 1](https://www.legislation.gov.uk/uksi/2024/1384/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1384/schedule) Table

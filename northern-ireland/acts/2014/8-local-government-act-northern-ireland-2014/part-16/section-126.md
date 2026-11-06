@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 126. Interpretation[^key-598d95480e6c5b67ad769fc3a1eeb2e5]
+## 126. Interpretation[^c-598d95480e6c5b67ad769fc3a1eeb2e5]
 
 *Extent: N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 - “**declaration**” means declaration in writing;
 - “**direction**” means direction in writing;
 - “**district**” has the same meaning as in the Local Government Act (Northern Ireland) 1972;
-- “**the Department**” means the Department for Communities[^key-4e62f3515347e47afff3091ed6ec8dec];
+- “**the Department**” means the Department for Communities[^c-4e62f3515347e47afff3091ed6ec8dec];
 - “**elected**” includes appointed, nominated or otherwise selected or returned;
 - “**external representative**”, in relation to a council, has the meaning given by section 10(4);
 - “**government department**” means a Northern Ireland department or a department of the Government of the United Kingdom;
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-598d95480e6c5b67ad769fc3a1eeb2e5]: Commencement: S. 126 in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-598d95480e6c5b67ad769fc3a1eeb2e5]: Commencement: S. 126 in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
 
-[^key-4e62f3515347e47afff3091ed6ec8dec]: Textual amendment: Words in [s. 126(1)](https://www.legislation.gov.uk/nia/2014/8/section/126/1) substituted (27.8.2021) by [Local Government (Meetings and Performance) Act (Northern Ireland) 2021 (c. 8)](https://www.legislation.gov.uk/nia/2021/8), [ss. 5](https://www.legislation.gov.uk/nia/2021/8/section/5), [6(1)](https://www.legislation.gov.uk/nia/2021/8/section/6/1)
+[^c-4e62f3515347e47afff3091ed6ec8dec]: Textual amendment: Words in [s. 126(1)](https://www.legislation.gov.uk/nia/2014/8/section/126/1) substituted (27.8.2021) by [Local Government (Meetings and Performance) Act (Northern Ireland) 2021 (c. 8)](https://www.legislation.gov.uk/nia/2021/8), [ss. 5](https://www.legislation.gov.uk/nia/2021/8/section/5), [6(1)](https://www.legislation.gov.uk/nia/2021/8/section/6/1)

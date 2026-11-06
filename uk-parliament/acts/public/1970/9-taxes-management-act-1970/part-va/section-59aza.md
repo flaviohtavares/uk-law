@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59AZA. Payments on account of capital gains tax: disposals of land etc[^key-db548e27e1da58dfcaf62dd5d4399d05]
+## 59AZA. Payments on account of capital gains tax: disposals of land etc[^c-db548e27e1da58dfcaf62dd5d4399d05]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For provision requiring payments to be made on account of capital gains tax, see
 
 ## Annotations
 
-[^key-db548e27e1da58dfcaf62dd5d4399d05]: Textual amendment: S. 59AZA inserted (with effect in accordance with Sch. 2 para. 32(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 2 para. 25(10)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/2/paragraph/25/10)
+[^c-db548e27e1da58dfcaf62dd5d4399d05]: Textual amendment: S. 59AZA inserted (with effect in accordance with Sch. 2 para. 32(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 2 para. 25(10)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/2/paragraph/25/10)

@@ -33,7 +33,7 @@ This Scottish Statutory Instrument has been made to correct errors in S.S.I. 200
 
 AGRICULTURE
 
-The Processed Animal Protein (Scotland) Amendment Regulations 2001 (revoked)[^key-258676e01cd8ab4906b257c92bade89a]
+The Processed Animal Protein (Scotland) Amendment Regulations 2001 (revoked)[^c-258676e01cd8ab4906b257c92bade89a]
 
 Made
 
@@ -47,24 +47,24 @@ Coming into force
 
 12th November 2001
 
-[^key-258676e01cd8ab4906b257c92bade89a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-258676e01cd8ab4906b257c92bade89a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-258676e01cd8ab4906b257c92bade89a]
+## 1. Citation and commencement[^c-258676e01cd8ab4906b257c92bade89a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Processed Animal Protein (Scotland) Regulations 2001[^key-258676e01cd8ab4906b257c92bade89a]
+## 2. Amendment of the Processed Animal Protein (Scotland) Regulations 2001[^c-258676e01cd8ab4906b257c92bade89a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-258676e01cd8ab4906b257c92bade89a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-258676e01cd8ab4906b257c92bade89a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-258676e01cd8ab4906b257c92bade89a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-258676e01cd8ab4906b257c92bade89a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-258676e01cd8ab4906b257c92bade89a]: Textual amendment: Regulations revoked (24.11.2006) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 (S.S.I. 2006/530)](https://www.legislation.gov.uk/ssi/2006/530), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/530/regulation/1), [sch. 10](https://www.legislation.gov.uk/ssi/2006/530/schedule/10)
+[^c-258676e01cd8ab4906b257c92bade89a]: Textual amendment: Regulations revoked (24.11.2006) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 (S.S.I. 2006/530)](https://www.legislation.gov.uk/ssi/2006/530), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/530/regulation/1), [sch. 10](https://www.legislation.gov.uk/ssi/2006/530/schedule/10)

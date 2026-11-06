@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89BA. Operating a pensions dashboard service[^key-c64f00ca8ef53b91ba550f024a9c9505][^key-f8d8e8dec0d867ac5eda3a1c76304af0]
+## 89BA. Operating a pensions dashboard service[^c-c64f00ca8ef53b91ba550f024a9c9505][^c-f8d8e8dec0d867ac5eda3a1c76304af0]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c64f00ca8ef53b91ba550f024a9c9505]: Textual amendment: Art. 89BA inserted (11.3.2024) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2024 (S.I. 2024/169)](https://www.legislation.gov.uk/uksi/2024/169), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/169/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2024/169/article/2/4)
+[^c-c64f00ca8ef53b91ba550f024a9c9505]: Textual amendment: Art. 89BA inserted (11.3.2024) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2024 (S.I. 2024/169)](https://www.legislation.gov.uk/uksi/2024/169), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/169/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2024/169/article/2/4)
 
-[^key-f8d8e8dec0d867ac5eda3a1c76304af0]: Textual amendment: Pt. 3A inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [8(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/8/2)
+[^c-f8d8e8dec0d867ac5eda3a1c76304af0]: Textual amendment: Pt. 3A inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [8(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/8/2)

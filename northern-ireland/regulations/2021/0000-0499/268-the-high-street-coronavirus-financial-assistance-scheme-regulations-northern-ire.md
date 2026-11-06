@@ -46,11 +46,11 @@ Accordingly, the Department for the Economy, makes the following Regulations in 
 
 In accordance with section 1(4) of that Act, the Executive Office[^f00002] approves the making of these Regulations.
 
-## 1. Citation and Commencement[^key-5c7e3e15539fe25a801ea0268c0c7ea0]
+## 1. Citation and Commencement[^c-5c7e3e15539fe25a801ea0268c0c7ea0]
 
 These regulations may be cited as the High Street (Coronavirus, Financial Assistance) Scheme Regulations (Northern Ireland) 2021 and come into operation on 24 September 2021.
 
-## 2. High Street (Coronavirus, Financial Assistance) Scheme[^key-850d3793ecb18228769246ad13cc3aac]
+## 2. High Street (Coronavirus, Financial Assistance) Scheme[^c-850d3793ecb18228769246ad13cc3aac]
 
 The Department for the Economy makes the Scheme set out in the Schedule.
 
@@ -80,7 +80,7 @@ Executive Office
 
 Regulation 2
 
-### 1. Citation and Interpretation[^key-bf78a00844b7191b9bc1764a750fd283]
+### 1. Citation and Interpretation[^c-bf78a00844b7191b9bc1764a750fd283]
 
 (1) This Scheme may be cited as the High Street (Coronavirus, Financial Assistance) Scheme.
 
@@ -96,11 +96,11 @@ Regulation 2
 - “**the Scheme**” means the High Street (Coronavirus, Financial Assistance) Scheme established pursuant to the Economic Recovery Action Plan published by the Department on 25 February 2021 and the determination;
 - “**spend period**” shall be construed in accordance with paragraph 8.
 
-### 2. Purpose of the Scheme[^key-6e5d7e2150edc66ae5e8d49908d637a5]
+### 2. Purpose of the Scheme[^c-6e5d7e2150edc66ae5e8d49908d637a5]
 
 The purpose of the Scheme is to provide financial assistance to mitigate (through the use of pre-paid cards) the effect of the exceptional circumstances referred to in the determination.
 
-### 3. The Scheme[^key-4918b795f676ed0edad6e66020488e94]
+### 3. The Scheme[^c-4918b795f676ed0edad6e66020488e94]
 
 (1) The Scheme-
 
@@ -112,7 +112,7 @@ The purpose of the Scheme is to provide financial assistance to mitigate (throug
 - (a) may make, with any person, such arrangements as it considers necessary or expedient for the purposes of, in consequence of, or for giving full effect to, the Scheme;
 - (b) in particular, may pay to a pre-paid card provider a sum equal to the initial stored value of the pre-paid cards that the provider provides under the Scheme.
 
-### 4. Eligible applicant[^key-f1112ed1332543bc895afdcb25bd2a4d]
+### 4. Eligible applicant[^c-f1112ed1332543bc895afdcb25bd2a4d]
 
 (1) A person is eligible for a pre-paid card if the person-
 
@@ -126,7 +126,7 @@ The purpose of the Scheme is to provide financial assistance to mitigate (throug
 
 (4) But a person is not eligible for a pre-card card if, when the application is made, the person is detained, or is liable to be detained, under a custodial sentence (within the meaning given by Article 4(1) of the Criminal Justice (Northern Ireland) Order 2008) or in pursuance of a committal or remand in custody awaiting trial or sentence.
 
-### 5. Application[^key-4deab3f6e61f8537c1cf17197364e391]
+### 5. Application[^c-4deab3f6e61f8537c1cf17197364e391]
 
 (1) An application for a pre-paid card must be made to the Department –
 
@@ -157,7 +157,7 @@ The purpose of the Scheme is to provide financial assistance to mitigate (throug
 
 (10) Publication under sub-paragraph (1)(b) or (9) is to be in such manner as the Department considers most appropriate for bringing the telephone number or the extension of the application period (as the case may be) to the attention of persons who may be affected by it.
 
-### 6. Review of rejected applications[^key-0c8b3aab07153d83a62c6ada2b45ecac]
+### 6. Review of rejected applications[^c-0c8b3aab07153d83a62c6ada2b45ecac]
 
 (1) Where an application has been rejected under paragraph 5, the applicant may request the Department to reconsider it.
 
@@ -184,11 +184,11 @@ The purpose of the Scheme is to provide financial assistance to mitigate (throug
 
 (8) If, in accordance with sub-paragraph (7), the Department does not arrange for a pre-paid card to be provided to an applicant, the Department must as soon as reasonably practicable notify the applicant in writing of that outcome.
 
-### 7. Distribution of cards[^key-c2cbaa0491e43cabcc8b23a7eef665d3]
+### 7. Distribution of cards[^c-c2cbaa0491e43cabcc8b23a7eef665d3]
 
 A pre-paid card shall be sent by ordinary post.
 
-### 8. Spend period[^key-e33a3cd6047c16e025e5d7be0887f910]
+### 8. Spend period[^c-e33a3cd6047c16e025e5d7be0887f910]
 
 (1) A pre-paid card may only be used during the period (“the spend period”) –
 
@@ -207,7 +207,7 @@ A pre-paid card shall be sent by ordinary post.
 
 (5) Publication under sub-paragraph (4) is to be in such manner as the Department considers most appropriate for bringing notice of the change to the attention of persons who may be affected by it.
 
-### 9. Use of card[^key-c1f5ef66444e9996c99c0adac73ac8af]
+### 9. Use of card[^c-c1f5ef66444e9996c99c0adac73ac8af]
 
 (1) The use of a pre-paid card under the Scheme shall be subject to such terms and conditions as shall be notified to the card holder by the pre-paid card provider.
 
@@ -215,7 +215,7 @@ A pre-paid card shall be sent by ordinary post.
 
 (3) A pre-paid card may be used in full or part payment of a purchase mentioned in sub-paragraph (2).
 
-### 10. Excluded uses[^key-ac6420fba9d23e84a2ec585aee166535]
+### 10. Excluded uses[^c-ac6420fba9d23e84a2ec585aee166535]
 
 (1) Arrangements made by the Department in connection with the Scheme may provide that a pre-paid card may not be used for excluded transactions (see sub-paragraph (2)).
 
@@ -228,7 +228,7 @@ A pre-paid card shall be sent by ordinary post.
 
 (4) Publication under sub-paragraph (3) is to be in such manner as the Department considers most appropriate for bringing the determination to the attention of persons who may be affected by it.
 
-### 11. Expiry of a pre-paid card[^key-b2222659bcf36f022cb21a2df07e1bfd]
+### 11. Expiry of a pre-paid card[^c-b2222659bcf36f022cb21a2df07e1bfd]
 
 A pre-paid card expires on the earliest of-
 
@@ -237,7 +237,7 @@ A pre-paid card expires on the earliest of-
 - (c) the day on which the spend period ends; and
 - (d) the day on which the Scheme ends.
 
-### 12. Recovery of sums spent by ineligible users[^key-b02f52b01d6a85f86b77131cf14bd8fe]
+### 12. Recovery of sums spent by ineligible users[^c-b02f52b01d6a85f86b77131cf14bd8fe]
 
 (1) Sub-paragraph (2) applies where -
 
@@ -247,7 +247,7 @@ A pre-paid card expires on the earliest of-
 
 (2) The Department may recover from the cardholder, as a civil debt, a sum equal to the amount mentioned in sub-paragraph (1)(b).
 
-### 13. Payment to be disregarded for social security[^key-9eff5abdb488f14db13ef88b9f0e1b67]
+### 13. Payment to be disregarded for social security[^c-9eff5abdb488f14db13ef88b9f0e1b67]
 
 The stored value of a pre-paid card shall not be taken into account in considering a person’s entitlement to a Social Fund payment, a discretionary support award or a payment under any of the following social security benefits-
 
@@ -259,7 +259,7 @@ The stored value of a pre-paid card shall not be taken into account in consideri
 - (f) universal credit; or
 - (g) state pension credit.
 
-### 14. Information[^key-183d2b16d53f52de4b4c30adb34d810c]
+### 14. Information[^c-183d2b16d53f52de4b4c30adb34d810c]
 
 (1) A public body may disclose any information to the Department if the disclosure is made for the purpose of enabling or assisting the Department to exercise a function under the Scheme.
 
@@ -279,7 +279,7 @@ The stored value of a pre-paid card shall not be taken into account in consideri
 
 (6) This paragraph does not affect any power to disclose that exists apart from this paragraph.
 
-## SCHEDULE — Merchant Category Codes[^key-9232148bc0e1c7a28981cec9d32f97c6]
+## SCHEDULE — Merchant Category Codes[^c-9232148bc0e1c7a28981cec9d32f97c6]
 
 |  |  |
 | --- | --- |
@@ -343,7 +343,7 @@ The stored value of a pre-paid card shall not be taken into account in consideri
 | 9223 | Bail And Bond Payments |
 | 9311 | Tax Payments |
 | 9399 | Government Services (Not Elsewhere Classified) |
-| [^key-8c2a5a5d79d189e783b6a8395f9f6a41]. . . | [^key-8c2a5a5d79d189e783b6a8395f9f6a41]. . . |
+| [^c-8c2a5a5d79d189e783b6a8395f9f6a41]. . . | [^c-8c2a5a5d79d189e783b6a8395f9f6a41]. . . |
 | 9405 | Intra / Government Transactions |
 | 9411 | Government Loan Payments |
 | 9700 | Automated Referral Service (For Visa Only) |
@@ -377,38 +377,38 @@ A Regulatory Impact Assessment has been prepared for these Regulations. An Expla
 
 [^f00002]: Footnote: Formerly the Office of the First Minister and the deputy First Minister: see section 1(1) and (11) of, and Schedule 1 to, the Departments Act (Northern Ireland) 2016 ([2016 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5)).
 
-[^key-5c7e3e15539fe25a801ea0268c0c7ea0]: Commencement: Reg. 1 in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
+[^c-5c7e3e15539fe25a801ea0268c0c7ea0]: Commencement: Reg. 1 in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
 
-[^key-850d3793ecb18228769246ad13cc3aac]: Commencement: Reg. 2 in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
+[^c-850d3793ecb18228769246ad13cc3aac]: Commencement: Reg. 2 in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
 
-[^key-bf78a00844b7191b9bc1764a750fd283]: Commencement: Sch. para. 1 in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
+[^c-bf78a00844b7191b9bc1764a750fd283]: Commencement: Sch. para. 1 in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
 
-[^key-6e5d7e2150edc66ae5e8d49908d637a5]: Commencement: Sch. para. 2 in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
+[^c-6e5d7e2150edc66ae5e8d49908d637a5]: Commencement: Sch. para. 2 in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
 
-[^key-4918b795f676ed0edad6e66020488e94]: Commencement: Sch. para. 3 in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
+[^c-4918b795f676ed0edad6e66020488e94]: Commencement: Sch. para. 3 in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
 
-[^key-f1112ed1332543bc895afdcb25bd2a4d]: Commencement: Sch. para. 4 in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
+[^c-f1112ed1332543bc895afdcb25bd2a4d]: Commencement: Sch. para. 4 in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
 
-[^key-4deab3f6e61f8537c1cf17197364e391]: Commencement: Sch. para. 5 in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
+[^c-4deab3f6e61f8537c1cf17197364e391]: Commencement: Sch. para. 5 in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
 
-[^key-0c8b3aab07153d83a62c6ada2b45ecac]: Commencement: Sch. para. 6 in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
+[^c-0c8b3aab07153d83a62c6ada2b45ecac]: Commencement: Sch. para. 6 in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
 
-[^key-c2cbaa0491e43cabcc8b23a7eef665d3]: Commencement: Sch. para. 7 in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
+[^c-c2cbaa0491e43cabcc8b23a7eef665d3]: Commencement: Sch. para. 7 in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
 
-[^key-e33a3cd6047c16e025e5d7be0887f910]: Commencement: Sch. para. 8 in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
+[^c-e33a3cd6047c16e025e5d7be0887f910]: Commencement: Sch. para. 8 in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
 
-[^key-c1f5ef66444e9996c99c0adac73ac8af]: Commencement: Sch. para. 9 in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
+[^c-c1f5ef66444e9996c99c0adac73ac8af]: Commencement: Sch. para. 9 in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
 
-[^key-ac6420fba9d23e84a2ec585aee166535]: Commencement: Sch. para. 10 in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
+[^c-ac6420fba9d23e84a2ec585aee166535]: Commencement: Sch. para. 10 in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
 
-[^key-b2222659bcf36f022cb21a2df07e1bfd]: Commencement: Sch. para. 11 in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
+[^c-b2222659bcf36f022cb21a2df07e1bfd]: Commencement: Sch. para. 11 in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
 
-[^key-b02f52b01d6a85f86b77131cf14bd8fe]: Commencement: Sch. para. 12 in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
+[^c-b02f52b01d6a85f86b77131cf14bd8fe]: Commencement: Sch. para. 12 in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
 
-[^key-9eff5abdb488f14db13ef88b9f0e1b67]: Commencement: Sch. para. 13 in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
+[^c-9eff5abdb488f14db13ef88b9f0e1b67]: Commencement: Sch. para. 13 in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
 
-[^key-183d2b16d53f52de4b4c30adb34d810c]: Commencement: Sch. para. 14 in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
+[^c-183d2b16d53f52de4b4c30adb34d810c]: Commencement: Sch. para. 14 in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
 
-[^key-9232148bc0e1c7a28981cec9d32f97c6]: Commencement: Sch. in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
+[^c-9232148bc0e1c7a28981cec9d32f97c6]: Commencement: Sch. in operation at 24.9.2021, see [reg. 1](https://www.legislation.gov.uk/nisr/2021/268/regulation/1)
 
-[^key-8c2a5a5d79d189e783b6a8395f9f6a41]: Textual amendment: Words in Sch. omitted (1.12.2021) by virtue of [The High Street (Coronavirus, Financial Assistance) Scheme (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/319)](https://www.legislation.gov.uk/nisr/2021/319), [regs. 1](https://www.legislation.gov.uk/nisr/2021/319/regulation/1), [3](https://www.legislation.gov.uk/nisr/2021/319/regulation/3)
+[^c-8c2a5a5d79d189e783b6a8395f9f6a41]: Textual amendment: Words in Sch. omitted (1.12.2021) by virtue of [The High Street (Coronavirus, Financial Assistance) Scheme (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/319)](https://www.legislation.gov.uk/nisr/2021/319), [regs. 1](https://www.legislation.gov.uk/nisr/2021/319/regulation/1), [3](https://www.legislation.gov.uk/nisr/2021/319/regulation/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Respect and sensitivity[^key-15e9515f59dcc8de7d0b258b97f39b66]
+## 18. Respect and sensitivity[^c-15e9515f59dcc8de7d0b258b97f39b66]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-15e9515f59dcc8de7d0b258b97f39b66]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2019/165/regulation/18) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
+[^c-15e9515f59dcc8de7d0b258b97f39b66]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2019/165/regulation/18) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
 
 [^c23552551]: Marginal citation: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15).

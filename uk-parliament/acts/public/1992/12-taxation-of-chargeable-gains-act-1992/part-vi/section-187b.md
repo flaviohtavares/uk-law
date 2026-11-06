@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 187B. Postponing gain or loss under section 185(2): interests in UK land[^key-da90014a5f8c67743be81acd880a6593]
+## 187B. Postponing gain or loss under section 185(2): interests in UK land[^c-da90014a5f8c67743be81acd880a6593]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da90014a5f8c67743be81acd880a6593]: Textual amendment: S. 187B substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 67](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/67)
+[^c-da90014a5f8c67743be81acd880a6593]: Textual amendment: S. 187B substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 67](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/67)

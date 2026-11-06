@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-**39A.**[^key-da06cb40f2cb53852d9bae42bf815d4d] (1) Every vehicle to which this regulation applies shall be designed and constructed for running on unleaded petrol.
+**39A.**[^c-da06cb40f2cb53852d9bae42bf815d4d] (1) Every vehicle to which this regulation applies shall be designed and constructed for running on unleaded petrol.
 
 (2) No person shall use or cause or permit to be used a vehicle to which this regulation applies on a road if it —
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da06cb40f2cb53852d9bae42bf815d4d]: Textual amendment: [Regs. 39A](https://www.legislation.gov.uk/uksi/1986/1078/regulation/39A), [39B](https://www.legislation.gov.uk/uksi/1986/1078/regulation/39B) inserted (1.10.1988) by [The Road Vehicles (Construction and Use) (Amendment) (No. 6) Regulations 1988 (S.I. 1988/1524)](https://www.legislation.gov.uk/uksi/1988/1524), [regs. 1](https://www.legislation.gov.uk/uksi/1988/1524/regulation/1), [5](https://www.legislation.gov.uk/uksi/1988/1524/regulation/5)
+[^c-da06cb40f2cb53852d9bae42bf815d4d]: Textual amendment: [Regs. 39A](https://www.legislation.gov.uk/uksi/1986/1078/regulation/39A), [39B](https://www.legislation.gov.uk/uksi/1986/1078/regulation/39B) inserted (1.10.1988) by [The Road Vehicles (Construction and Use) (Amendment) (No. 6) Regulations 1988 (S.I. 1988/1524)](https://www.legislation.gov.uk/uksi/1988/1524), [regs. 1](https://www.legislation.gov.uk/uksi/1988/1524/regulation/1), [5](https://www.legislation.gov.uk/uksi/1988/1524/regulation/5)

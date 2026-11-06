@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 122. Compensation for loss or damage caused by temporary stop notice[^key-8f17e2b6db98bffcff45eb20e41d05a0][^key-c560c6417c43295452471b2289be3580]
+## 122. Compensation for loss or damage caused by temporary stop notice[^c-8f17e2b6db98bffcff45eb20e41d05a0][^c-c560c6417c43295452471b2289be3580]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8f17e2b6db98bffcff45eb20e41d05a0]: Commencement: S. 122 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-8f17e2b6db98bffcff45eb20e41d05a0]: Commencement: S. 122 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-c560c6417c43295452471b2289be3580]: Commencement: [S. 122](https://www.legislation.gov.uk/asc/2023/3/section/122) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-c560c6417c43295452471b2289be3580]: Commencement: [S. 122](https://www.legislation.gov.uk/asc/2023/3/section/122) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

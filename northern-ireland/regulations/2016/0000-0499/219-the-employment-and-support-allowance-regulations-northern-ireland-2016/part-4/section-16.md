@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Certain claimants to be treated as having limited capability for work[^key-91368025ef548b6595ed8e46d64532f4]
+## 16. Certain claimants to be treated as having limited capability for work[^c-91368025ef548b6595ed8e46d64532f4]
 
 *Extent: N.I.*
 
@@ -54,7 +54,7 @@ summary: ''
 
 ## Annotations
 
-[^key-91368025ef548b6595ed8e46d64532f4]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2016/219/regulation/16) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-91368025ef548b6595ed8e46d64532f4]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2016/219/regulation/16) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
 
 [^f00043]: Footnote: Section 35(1) was substituted by Article 50(1) of the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)) and amended by paragraph 2(a) of Schedule 1 to the Social Security Act (Northern Ireland) [2002 (c. 10 (N.I.)](https://www.legislation.gov.uk/nia/2002/10)) and Article 68(2) of the Welfare Reform (Northern Ireland) Order 2015. Section 35B(1) was inserted by regulation 2(5) of [S.R. 2014 No. 102](https://www.legislation.gov.uk/nisr/2014/102) and amended by paragraph 16 of Schedule 1 to the National Insurance Contributions Act [2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5)
 

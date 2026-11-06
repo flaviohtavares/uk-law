@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Works to be executed. Inclined planes, &c.Alteration of course of rivers, &cDrains, &c.Warehouses, &c.Alterations and repairs. General power. Proviso as to damages.[^c5588841][^key-2752a815e4983970208bbe918486ae47]
+## 16. Works to be executed. Inclined planes, &c.Alteration of course of rivers, &cDrains, &c.Warehouses, &c.Alterations and repairs. General power. Proviso as to damages.[^c5588841][^c-2752a815e4983970208bbe918486ae47]
 
 *Extent: S*
 
@@ -34,7 +34,7 @@ Subject to the provisions and restrictions in this and the special Act, and any 
 
 [^c5588841]: Modification: S. 16 incorporated (21.5.1992) by [S.I. 1992/1267](https://www.legislation.gov.uk/uksi/1992/1267), [art. 4(1)](https://www.legislation.gov.uk/uksi/1992/1267/article/4/1)
 
-[^key-2752a815e4983970208bbe918486ae47]: Modification: [S. 16](https://www.legislation.gov.uk/ukpga/Vict/8-9/33/section/16) incorporated (28.12.2012) by [The Banchory and Crathes Light Railway Order 2012 (S.S.I. 2012/345)](https://www.legislation.gov.uk/ssi/2012/345), [arts. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1), [5(1)](https://www.legislation.gov.uk/ssi/2012/345/article/5/1)
+[^c-2752a815e4983970208bbe918486ae47]: Modification: [S. 16](https://www.legislation.gov.uk/ukpga/Vict/8-9/33/section/16) incorporated (28.12.2012) by [The Banchory and Crathes Light Railway Order 2012 (S.S.I. 2012/345)](https://www.legislation.gov.uk/ssi/2012/345), [arts. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1), [5(1)](https://www.legislation.gov.uk/ssi/2012/345/article/5/1)
 
 [^c5588851]: Textual amendment: Word repealed by [Roads (Scotland) Act 1984 (c. 54, SIF 108)](https://www.legislation.gov.uk/ukpga/1984/54), [s. 156(1)(3)](https://www.legislation.gov.uk/ukpga/1984/54/section/156/1/3), [Sch. 9 para. 3(5)](https://www.legislation.gov.uk/ukpga/1984/54/schedule/9/paragraph/3/5)(*a*), Sch. 11
 

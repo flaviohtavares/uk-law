@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82. Effect and enforcement of directions[^key-6b3d6b91711d885a88813d989d0bbf64][^key-3d6559c22dcc97cd6499a2e368e3e2ab]
+## 82. Effect and enforcement of directions[^c-6b3d6b91711d885a88813d989d0bbf64][^c-3d6559c22dcc97cd6499a2e368e3e2ab]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6b3d6b91711d885a88813d989d0bbf64]: Commencement: S. 82 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-6b3d6b91711d885a88813d989d0bbf64]: Commencement: S. 82 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-3d6559c22dcc97cd6499a2e368e3e2ab]: Commencement: [S. 82](https://www.legislation.gov.uk/asc/2022/1/section/82) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(dd)](https://www.legislation.gov.uk/wsi/2025/432/article/2/dd)
+[^c-3d6559c22dcc97cd6499a2e368e3e2ab]: Commencement: [S. 82](https://www.legislation.gov.uk/asc/2022/1/section/82) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(dd)](https://www.legislation.gov.uk/wsi/2025/432/article/2/dd)

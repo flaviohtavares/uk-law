@@ -32,7 +32,7 @@ summary: ''
 
 Financial Services
 
-The Short Selling (Notification Thresholds) Regulations 2021 (revoked)[^key-78f6b67c7363fd371ffc1a0ce2a1676d]
+The Short Selling (Notification Thresholds) Regulations 2021 (revoked)[^c-78f6b67c7363fd371ffc1a0ce2a1676d]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st February 2021
 
-[^key-78f6b67c7363fd371ffc1a0ce2a1676d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-78f6b67c7363fd371ffc1a0ce2a1676d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-78f6b67c7363fd371ffc1a0ce2a1676d]
+## 1. Citation and commencement[^c-78f6b67c7363fd371ffc1a0ce2a1676d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Article 5(2) of Regulation (EU) No 236/2012[^key-78f6b67c7363fd371ffc1a0ce2a1676d]
+## 2. Amendment of Article 5(2) of Regulation (EU) No 236/2012[^c-78f6b67c7363fd371ffc1a0ce2a1676d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-78f6b67c7363fd371ffc1a0ce2a1676d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-78f6b67c7363fd371ffc1a0ce2a1676d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-78f6b67c7363fd371ffc1a0ce2a1676d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-78f6b67c7363fd371ffc1a0ce2a1676d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-78f6b67c7363fd371ffc1a0ce2a1676d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/5) revoked (13.7.2026) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2026/587](https://www.legislation.gov.uk/uksi/2026/587), [reg. 2(d)(v)](https://www.legislation.gov.uk/uksi/2026/587/regulation/2/d/v)
+[^c-78f6b67c7363fd371ffc1a0ce2a1676d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/5) revoked (13.7.2026) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2026/587](https://www.legislation.gov.uk/uksi/2026/587), [reg. 2(d)(v)](https://www.legislation.gov.uk/uksi/2026/587/regulation/2/d/v)

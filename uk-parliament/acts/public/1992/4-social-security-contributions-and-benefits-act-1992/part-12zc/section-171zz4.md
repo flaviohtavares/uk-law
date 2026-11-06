@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171ZZ4. Part 12ZC: supplementary[^key-46094a9f522c6af0c405f8f1338e0429]
+## 171ZZ4. Part 12ZC: supplementary[^c-46094a9f522c6af0c405f8f1338e0429]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
     - (i) the condition in section 6(1)(b), or
     - (ii) the employee being under the age of 16;
 - “**local authority**” has the same meaning as in the Children Act 1989 (see section 105(1) of that Act);
-- “**local authority foster parent**” has the same meaning as in the Children Act 1989 (see section 105(1)[^key-2bd6e2cf0436abd8c751b2b6e3aada5e] of that Act);
+- “**local authority foster parent**” has the same meaning as in the Children Act 1989 (see section 105(1)[^c-2bd6e2cf0436abd8c751b2b6e3aada5e] of that Act);
 - “**maternity allowance period**” has the meaning given in section 35(2);
 - “**maternity pay period**” has the meaning given in section 165(1);
 - “**modifications**” includes additions, omissions and amendments, and related expressions are to be read accordingly;
@@ -77,6 +77,6 @@ regulations may make provision enabling the person to elect for all of those con
 
 ## Annotations
 
-[^key-46094a9f522c6af0c405f8f1338e0429]: Textual amendment: [Pt. 12ZC](https://www.legislation.gov.uk/ukpga/1992/4/part/12ZC) inserted (30.6.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 119(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/119/1), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/c)
+[^c-46094a9f522c6af0c405f8f1338e0429]: Textual amendment: [Pt. 12ZC](https://www.legislation.gov.uk/ukpga/1992/4/part/12ZC) inserted (30.6.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 119(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/119/1), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/c)
 
-[^key-2bd6e2cf0436abd8c751b2b6e3aada5e]: Textual amendment: Words in [s. 171ZZ4(1)](https://www.legislation.gov.uk/ukpga/1992/4/section/171ZZ4/1) substituted (E.W.) (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [139](https://www.legislation.gov.uk/wsi/2016/413/regulation/139)
+[^c-2bd6e2cf0436abd8c751b2b6e3aada5e]: Textual amendment: Words in [s. 171ZZ4(1)](https://www.legislation.gov.uk/ukpga/1992/4/section/171ZZ4/1) substituted (E.W.) (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [139](https://www.legislation.gov.uk/wsi/2016/413/regulation/139)

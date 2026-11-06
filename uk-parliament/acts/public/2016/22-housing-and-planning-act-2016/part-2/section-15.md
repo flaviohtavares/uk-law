@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Application and notice of intended proceedings[^key-8f126d550cc6cf20317ebba698fb3db6]
+## 15. Application and notice of intended proceedings[^c-8f126d550cc6cf20317ebba698fb3db6]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f126d550cc6cf20317ebba698fb3db6]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2016/22/section/15) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)
+[^c-8f126d550cc6cf20317ebba698fb3db6]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2016/22/section/15) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)

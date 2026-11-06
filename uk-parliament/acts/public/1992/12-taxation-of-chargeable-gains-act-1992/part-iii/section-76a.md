@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76A. Disposal of interest in settled property: deemed disposal of underlying assets.[^key-9922eb951eee72c31d7eaabc99e37a7c]
+## 76A. Disposal of interest in settled property: deemed disposal of underlying assets.[^c-9922eb951eee72c31d7eaabc99e37a7c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 4A to this Act has effect with respect to disposals for consideration o
 
 ## Annotations
 
-[^key-9922eb951eee72c31d7eaabc99e37a7c]: Textual amendment: S. 76A inserted (with application in accordance with s. 91(3) of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [s. 91(1)](https://www.legislation.gov.uk/ukpga/2000/17/section/91/1)
+[^c-9922eb951eee72c31d7eaabc99e37a7c]: Textual amendment: S. 76A inserted (with application in accordance with s. 91(3) of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [s. 91(1)](https://www.legislation.gov.uk/ukpga/2000/17/section/91/1)

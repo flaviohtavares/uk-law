@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33B. Section 33A: meaning of “live link”[^key-5001947544a5df99528acaaf59b47187][^key-af01f9421f5e9374414856a231f32d9a]
+## 33B. Section 33A: meaning of “live link”[^c-5001947544a5df99528acaaf59b47187][^c-af01f9421f5e9374414856a231f32d9a]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ and for this purpose any impairment of eyesight or hearing is to be disregarded.
 
 ## Annotations
 
-[^key-5001947544a5df99528acaaf59b47187]: Modification: Ss. 33A-33C applied (with modifications) (31.10.2009) by [The Court Martial Appeal Court (Evidence) Order 2009 (S.I. 2009/2569)](https://www.legislation.gov.uk/uksi/2009/2569), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2569/article/1), [4](https://www.legislation.gov.uk/uksi/2009/2569/article/4)
+[^c-5001947544a5df99528acaaf59b47187]: Modification: Ss. 33A-33C applied (with modifications) (31.10.2009) by [The Court Martial Appeal Court (Evidence) Order 2009 (S.I. 2009/2569)](https://www.legislation.gov.uk/uksi/2009/2569), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2569/article/1), [4](https://www.legislation.gov.uk/uksi/2009/2569/article/4)
 
-[^key-af01f9421f5e9374414856a231f32d9a]: Textual amendment: Ch. 1A inserted (15.1.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 47](https://www.legislation.gov.uk/ukpga/2006/48/section/47), [53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1); [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(h)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/h)
+[^c-af01f9421f5e9374414856a231f32d9a]: Textual amendment: Ch. 1A inserted (15.1.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 47](https://www.legislation.gov.uk/ukpga/2006/48/section/47), [53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1); [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(h)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/h)

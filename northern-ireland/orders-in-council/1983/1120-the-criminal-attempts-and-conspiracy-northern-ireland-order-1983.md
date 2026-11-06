@@ -73,7 +73,7 @@ then, for the purposes of paragraph (1), he shall be regarded as having had an i
 - (b) aiding, abetting, counselling, procuring or suborning the commission of an offence;
 - (ba)[^c2135188] an offence under section 13(1) of the Criminal Justice Act (Northern Ireland) 1966 (encouraging or assisting suicide);
 - (c) an offence under section 4 (1) (assisting offenders) of the Criminal Law Act (Northern Ireland) 1967[^c1693594];
-- (ca)[^key-1d385f2e4bfc1095f97f61bacf544431] an offence under section 184(1) of the Online Safety Act 2023 (encouraging or assisting serious self-harm);
+- (ca)[^c-1d385f2e4bfc1095f97f61bacf544431] an offence under section 184(1) of the Online Safety Act 2023 (encouraging or assisting serious self-harm);
 - (d) an offence under Article 8.
 
 ### 3A. Extended jurisdiction in relation to certain attempts[^c1693590]
@@ -339,7 +339,7 @@ proceedings under Article 9 for conspiracy to commit that offence shall not be i
 
 [^c1693594]: Textual amendment: [1967 c. 18 (N.I.)](https://www.legislation.gov.uk/apni/1967/18).
 
-[^key-1d385f2e4bfc1095f97f61bacf544431]: Textual amendment: [Art. 3(4)(ca)](https://www.legislation.gov.uk/nisi/1983/1120/article/3/4/ca) inserted (31.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1), [Sch. 14 para. 10](https://www.legislation.gov.uk/ukpga/2023/50/schedule/14/paragraph/10); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
+[^c-1d385f2e4bfc1095f97f61bacf544431]: Textual amendment: [Art. 3(4)(ca)](https://www.legislation.gov.uk/nisi/1983/1120/article/3/4/ca) inserted (31.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1), [Sch. 14 para. 10](https://www.legislation.gov.uk/ukpga/2023/50/schedule/14/paragraph/10); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
 
 [^c1693590]: Textual amendment: 1996 NI 24
 

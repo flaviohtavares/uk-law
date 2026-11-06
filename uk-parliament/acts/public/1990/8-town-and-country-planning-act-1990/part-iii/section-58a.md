@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58A. Permission in principle: general[^key-dbfa6d07a93d8a6f20631d20f925fec5]
+## 58A. Permission in principle: general[^c-dbfa6d07a93d8a6f20631d20f925fec5]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbfa6d07a93d8a6f20631d20f925fec5]: Textual amendment: S. 58A and cross-heading inserted (12.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 150(1)](https://www.legislation.gov.uk/ukpga/2016/22/section/150/1), [216(2)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/2/c)
+[^c-dbfa6d07a93d8a6f20631d20f925fec5]: Textual amendment: S. 58A and cross-heading inserted (12.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 150(1)](https://www.legislation.gov.uk/ukpga/2016/22/section/150/1), [216(2)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/2/c)

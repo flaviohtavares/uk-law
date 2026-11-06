@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52.10. Planning statutory review appeals[^key-80838474f749f7ae040b777947f28e75]
+## 52.10. Planning statutory review appeals[^c-80838474f749f7ae040b777947f28e75]
 
 *Extent: E+W*
 
 (1) Where permission to apply for a planning statutory review has been refused at a hearing in the High Court, an application for permission to appeal may be made to the Court of Appeal.
 
-(See Part 8 and Practice Direction 54D[^key-433c7f75c2044c25df2492604e5bbd81].)
+(See Part 8 and Practice Direction 54D[^c-433c7f75c2044c25df2492604e5bbd81].)
 
 (2) Where permission to apply for a planning statutory review has been refused by the High Court on the papers and recorded as totally without merit in accordance with rule 23.12, an application for permission to appeal may be made to the Court of Appeal.
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-80838474f749f7ae040b777947f28e75]: Textual amendment: Pt. 52 substituted (3.10.2016) by [The Civil Procedure (Amendment No. 3) Rules 2016 (S.I. 2016/788)](https://www.legislation.gov.uk/uksi/2016/788), [rule 2](https://www.legislation.gov.uk/uksi/2016/788/rule/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/788/schedule) (with [rule 16](https://www.legislation.gov.uk/uksi/2016/788/rule/16))
+[^c-80838474f749f7ae040b777947f28e75]: Textual amendment: Pt. 52 substituted (3.10.2016) by [The Civil Procedure (Amendment No. 3) Rules 2016 (S.I. 2016/788)](https://www.legislation.gov.uk/uksi/2016/788), [rule 2](https://www.legislation.gov.uk/uksi/2016/788/rule/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/788/schedule) (with [rule 16](https://www.legislation.gov.uk/uksi/2016/788/rule/16))
 
-[^key-433c7f75c2044c25df2492604e5bbd81]: Textual amendment: Words in rule 52.10 substituted (6.4.2022) by [The Civil Procedure (Amendment) Rules 2022 (S.I. 2022/101)](https://www.legislation.gov.uk/uksi/2022/101), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/101/rule/1/1), [15](https://www.legislation.gov.uk/uksi/2022/101/rule/15)
+[^c-433c7f75c2044c25df2492604e5bbd81]: Textual amendment: Words in rule 52.10 substituted (6.4.2022) by [The Civil Procedure (Amendment) Rules 2022 (S.I. 2022/101)](https://www.legislation.gov.uk/uksi/2022/101), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/101/rule/1/1), [15](https://www.legislation.gov.uk/uksi/2022/101/rule/15)

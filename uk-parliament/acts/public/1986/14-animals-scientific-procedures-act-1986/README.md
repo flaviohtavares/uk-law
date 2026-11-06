@@ -45,7 +45,7 @@ An Act to make new provision for the protection of animals used for experimental
 - [Section 2 — Regulated procedures.](section-2.md)
 - [Section 2A — Principles of replacement, reduction and refinement](section-2a.md)
 
-### Licensing of undertakings[^key-235fc56498efb44172b600a2a4c60a7d]
+### Licensing of undertakings[^c-235fc56498efb44172b600a2a4c60a7d]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,20 +68,20 @@ An Act to make new provision for the protection of animals used for experimental
 - [Section 5F — Retrospective assessment of programme of work](section-5f.md)
 - [Section 5G — Documents to be kept by Secretary of State](section-5g.md)
 
-### ...[^key-6278fc7471a66c6d451a2ecababd4c26]
+### ...[^c-6278fc7471a66c6d451a2ecababd4c26]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 6 — Scientific procedure establishments.](section-6.md)
 - [Section 7 — Breeding and supplying establishments.](section-7.md)
 
-### Licences: general provisions[^key-4bb9f4cb2f5e673abf002b187a76e562]
+### Licences: general provisions[^c-4bb9f4cb2f5e673abf002b187a76e562]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 8 — Fees.](section-8.md)
 
-### ...[^key-8846d8284bb44b84ac5f5f1df1050b3c]
+### ...[^c-8846d8284bb44b84ac5f5f1df1050b3c]
 
 *Extent: E+W+S+N.I.*
 
@@ -150,10 +150,10 @@ SCHEDULES
 
 [^c1016483]: Extent: Act extends to Northern Ireland but the operation of s. 29 is limited by application as mentioned in s. 29(2)
 
-[^key-235fc56498efb44172b600a2a4c60a7d]: Textual amendment: Ss. 2B, 2C and cross-heading inserted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2012/3039/regulation/6) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
+[^c-235fc56498efb44172b600a2a4c60a7d]: Textual amendment: Ss. 2B, 2C and cross-heading inserted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2012/3039/regulation/6) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
 
-[^key-6278fc7471a66c6d451a2ecababd4c26]: Textual amendment: S. 6 cross-heading omitted (1.1.2013) by virtue of [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [26(1)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/26/1) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
+[^c-6278fc7471a66c6d451a2ecababd4c26]: Textual amendment: S. 6 cross-heading omitted (1.1.2013) by virtue of [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [26(1)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/26/1) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
 
-[^key-4bb9f4cb2f5e673abf002b187a76e562]: Textual amendment: S. 8 cross-heading inserted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [26(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/26/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
+[^c-4bb9f4cb2f5e673abf002b187a76e562]: Textual amendment: S. 8 cross-heading inserted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [26(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/26/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
 
-[^key-8846d8284bb44b84ac5f5f1df1050b3c]: Textual amendment: S. 9 cross-heading omitted (1.1.2013) by virtue of [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [26(4)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/26/4) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
+[^c-8846d8284bb44b84ac5f5f1df1050b3c]: Textual amendment: S. 9 cross-heading omitted (1.1.2013) by virtue of [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [26(4)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/26/4) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))

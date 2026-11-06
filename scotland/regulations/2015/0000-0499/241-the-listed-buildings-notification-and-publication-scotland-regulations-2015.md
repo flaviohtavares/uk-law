@@ -46,7 +46,7 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 1A of the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and interpretation[^key-2c03a2c095b833bf8ec0c9665d436298]
+## 1. Citation, commencement and interpretation[^c-2c03a2c095b833bf8ec0c9665d436298]
 
 (1) These Regulations may be cited as the Listed Buildings (Notification and Publication) (Scotland) Regulations 2015 and come into force on 1st October 2015.
 
@@ -55,7 +55,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 - “the Act” means the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997; and
 - “the list” means the list of buildings of special architectural or historic interest compiled or approved under section 1[^f00002] of the Act.
 
-## 2. Application[^key-d251e9e483c96ace958d6c47298ded39]
+## 2. Application[^c-d251e9e483c96ace958d6c47298ded39]
 
 (1) These Regulations apply to any—
 
@@ -65,7 +65,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 made on or after 1st October 2015.
 
-## 3. Notification of inclusion in, amendment to or exclusion from the list[^key-28d45dc53b06dba26ab3c742974bc41e]
+## 3. Notification of inclusion in, amendment to or exclusion from the list[^c-28d45dc53b06dba26ab3c742974bc41e]
 
 (1) The notice for the purpose of section 1A(2) of the Act of the—
 
@@ -81,7 +81,7 @@ is to be given in accordance with this regulation and regulation 4.
 - (b) the occupier of the building; and
 - (c) the local authority in whose area the building is situated.
 
-(3) Notice under section 1A(2) of the Act is to be given as soon as is reasonably practicable after the inclusion of a building in the list or the exclusion[^key-a6258b47ab91d71cf17be062ef3c6150] of a building from the list or the amendment of an entry in the list relating to a building, as the case may be.
+(3) Notice under section 1A(2) of the Act is to be given as soon as is reasonably practicable after the inclusion of a building in the list or the exclusion[^c-a6258b47ab91d71cf17be062ef3c6150] of a building from the list or the amendment of an entry in the list relating to a building, as the case may be.
 
 (4) The notice must—
 
@@ -90,7 +90,7 @@ is to be given in accordance with this regulation and regulation 4.
 
 (5) In the case of the exclusion of a building from the list where that building has been demolished, the person prescribed for the purposes of section 1A(2)(a) of the Act is the local authority in whose area the building was situated.
 
-## 4. Service of notices[^key-9e97fcc5f2dff69470ac3b7f92286265]
+## 4. Service of notices[^c-9e97fcc5f2dff69470ac3b7f92286265]
 
 (1) Notice under section 1A of the Act may be served on or given to a person—
 
@@ -131,7 +131,7 @@ of a person to be notified, the notice is taken to be served if the requirements
 - “legible in all material respects” means that the information contained in the notice is available to that person to no lesser extent than it would be if served or given by means of a notice in printed form; and
 - “sent” includes served, submitted or given and cognate expressions are to be construed accordingly.
 
-## 5. Publication of the list[^key-033e227cd1194732d5a94a3106868969]
+## 5. Publication of the list[^c-033e227cd1194732d5a94a3106868969]
 
 (1) The list is to be published and made available for public inspection in accordance with this regulation.
 
@@ -159,20 +159,20 @@ These Regulations make provision in respect of the notification and publication 
 
 [^f00001]: Footnote: [1997 c.9](https://www.legislation.gov.uk/ukpga/1997/9). Section 1A was inserted by the Historic Environment Scotland Act [2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), schedule 3, paragraph 3. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-2c03a2c095b833bf8ec0c9665d436298]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/241/regulation/1) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/241/regulation/1/1)
+[^c-2c03a2c095b833bf8ec0c9665d436298]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/241/regulation/1) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/241/regulation/1/1)
 
 [^f00002]: Footnote: Section 1 was amended by the Historic Environment Scotland Act 2014, schedule 3, paragraph 2.
 
-[^key-d251e9e483c96ace958d6c47298ded39]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2015/241/regulation/2) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/241/regulation/1/1)
+[^c-d251e9e483c96ace958d6c47298ded39]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2015/241/regulation/2) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/241/regulation/1/1)
 
-[^key-28d45dc53b06dba26ab3c742974bc41e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2015/241/regulation/3) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/241/regulation/1/1)
+[^c-28d45dc53b06dba26ab3c742974bc41e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2015/241/regulation/3) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/241/regulation/1/1)
 
-[^key-a6258b47ab91d71cf17be062ef3c6150]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/ssi/2015/241/regulation/3/3) substituted (10.10.2015) by [The Scheduled Monuments and Listed Buildings (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/328)](https://www.legislation.gov.uk/ssi/2015/328), [regs. 1](https://www.legislation.gov.uk/ssi/2015/328/regulation/1), [5(2)](https://www.legislation.gov.uk/ssi/2015/328/regulation/5/2)
+[^c-a6258b47ab91d71cf17be062ef3c6150]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/ssi/2015/241/regulation/3/3) substituted (10.10.2015) by [The Scheduled Monuments and Listed Buildings (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/328)](https://www.legislation.gov.uk/ssi/2015/328), [regs. 1](https://www.legislation.gov.uk/ssi/2015/328/regulation/1), [5(2)](https://www.legislation.gov.uk/ssi/2015/328/regulation/5/2)
 
-[^key-9e97fcc5f2dff69470ac3b7f92286265]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2015/241/regulation/4) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/241/regulation/1/1)
+[^c-9e97fcc5f2dff69470ac3b7f92286265]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2015/241/regulation/4) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/241/regulation/1/1)
 
 [^f00003]: Footnote: [2000 c.26](https://www.legislation.gov.uk/ukpga/2000/26).
 
 [^f00004]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), Schedule 17, paragraph 158.
 
-[^key-033e227cd1194732d5a94a3106868969]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2015/241/regulation/5) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/241/regulation/1/1)
+[^c-033e227cd1194732d5a94a3106868969]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2015/241/regulation/5) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/241/regulation/1/1)

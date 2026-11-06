@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24B. Leasehold valuation tribunal: applications and fees.[^key-3db6b137048d260bb6c4f57c6f4d6186]
+## 24B. Leasehold valuation tribunal: applications and fees.[^c-3db6b137048d260bb6c4f57c6f4d6186]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3db6b137048d260bb6c4f57c6f4d6186]: Textual amendment: S. 24B repealed (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 14](https://www.legislation.gov.uk/ukpga/2002/15/schedule/14); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/iv), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2003/1986/schedule/1/part/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2004/669/article/2/c/iv), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2004/669/schedule/1/part/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2004/669/schedule/2))
+[^c-3db6b137048d260bb6c4f57c6f4d6186]: Textual amendment: S. 24B repealed (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 14](https://www.legislation.gov.uk/ukpga/2002/15/schedule/14); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/iv), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2003/1986/schedule/1/part/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2004/669/article/2/c/iv), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2004/669/schedule/1/part/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2004/669/schedule/2))

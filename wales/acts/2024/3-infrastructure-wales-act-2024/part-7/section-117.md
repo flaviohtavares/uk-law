@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 117. Power to issue temporary stop notice[^key-5d5bcfd0ada2c22268969511be866ea1][^key-b22d8fa4ddf14e29b5f84068a7cb19b1]
+## 117. Power to issue temporary stop notice[^c-5d5bcfd0ada2c22268969511be866ea1][^c-b22d8fa4ddf14e29b5f84068a7cb19b1]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5d5bcfd0ada2c22268969511be866ea1]: Commencement: S. 117 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-5d5bcfd0ada2c22268969511be866ea1]: Commencement: S. 117 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-b22d8fa4ddf14e29b5f84068a7cb19b1]: Commencement: [S. 117](https://www.legislation.gov.uk/asc/2024/3/section/117) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
+[^c-b22d8fa4ddf14e29b5f84068a7cb19b1]: Commencement: [S. 117](https://www.legislation.gov.uk/asc/2024/3/section/117) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)

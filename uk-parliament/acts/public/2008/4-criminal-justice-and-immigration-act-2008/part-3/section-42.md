@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Power to dismiss certain appeals following references by the CCRC: England and Wales[^key-47d356e44e5f5246a126b858a798c1a4]
+## 42. Power to dismiss certain appeals following references by the CCRC: England and Wales[^c-47d356e44e5f5246a126b858a798c1a4]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ After section 16B of the Criminal Appeal Act 1968 (c. 19) insert—
 
 ## Annotations
 
-[^key-47d356e44e5f5246a126b858a798c1a4]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2008/4/section/42) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/21)
+[^c-47d356e44e5f5246a126b858a798c1a4]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2008/4/section/42) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/21)

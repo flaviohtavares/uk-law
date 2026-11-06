@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Duty to maintain so as to provide support and shelter etc.[^key-dc70de2163a6fbb244997d5e48d24bb8]
+## 8. Duty to maintain so as to provide support and shelter etc.[^c-dc70de2163a6fbb244997d5e48d24bb8]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc70de2163a6fbb244997d5e48d24bb8]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2004/11/section/8) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/a)
+[^c-dc70de2163a6fbb244997d5e48d24bb8]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2004/11/section/8) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/a)

@@ -134,7 +134,7 @@ HAVE ADOPTED THIS REGULATION:
 
 ## Article 1. Subject matter
 
-This Regulation establishes [^key-ca8fc24d77de275688486663722dcfb7]... rules concerning the placing on the market of seal products.
+This Regulation establishes [^c-ca8fc24d77de275688486663722dcfb7]... rules concerning the placing on the market of seal products.
 
 ## Article 2. Definitions
 
@@ -142,10 +142,10 @@ For the purposes of this Regulation, the following definitions shall apply:
 
 - 1.. ‘seal’ means specimens of all species of pinnipeds (*Phocidae*, *Otariidae* and *Odobenidae*);
 - 2.. ‘seal product’ means all products, either processed or unprocessed, deriving or obtained from seals, including meat, oil, blubber, organs, raw fur skins and fur skins, tanned or dressed, including fur skins assembled in plates, crosses and similar forms, and articles made from fur skins;
-- 3.. ‘placing on the market’ means introducing onto the United Kingdom[^key-592610870f16b307fabc5c53f8819758] market, thereby making available to third parties, in exchange for payment;
+- 3.. ‘placing on the market’ means introducing onto the United Kingdom[^c-592610870f16b307fabc5c53f8819758] market, thereby making available to third parties, in exchange for payment;
 - 4.. ‘Inuit’ means indigenous members of the Inuit homeland, namely those arctic and subarctic areas where, presently or traditionally, Inuit have aboriginal rights and interests, recognised by Inuit as being members of their people and includes Inupiat, Yupik (Alaska), Inuit, Inuvialuit (Canada), Kalaallit (Greenland) and Yupik (Russia);
 - 4a.. ‘other indigenous communities’ means communities in independent countries who are regarded as indigenous on account of their descent from the populations which inhabited the country, or a geographical region to which the country belongs, at the time of conquest or colonisation or the establishment of present State boundaries and who, irrespective of their legal status, retain some or all of their own social, economic, cultural and political institutions;[^c000001]
-- 5.. ‘import’ means any entry of goods into the customs territory of the United Kingdom[^key-bcd910cf5350bd5a50d32e191086b695].
+- 5.. ‘import’ means any entry of goods into the customs territory of the United Kingdom[^c-bcd910cf5350bd5a50d32e191086b695].
 
 ## Article 3. Conditions for placing on the market[^c000002]
 
@@ -159,7 +159,7 @@ The conditions set out in the first subparagraph shall apply at the time or poin
 
 1a. At the time of its being placed on the market, a seal product shall be accompanied by a document attesting compliance with the conditions set out in paragraph 1 (‘attesting document’).
 
-An attesting document shall, upon request, be issued by a body recognised for that purpose by the Secretary of State[^key-c8673fcacad2c1fc7aea70e26aa6f673].
+An attesting document shall, upon request, be issued by a body recognised for that purpose by the Secretary of State[^c-c8673fcacad2c1fc7aea70e26aa6f673].
 
 Such recognised bodies shall be independent, competent to carry out their functions and subject to an external audit.
 
@@ -167,20 +167,20 @@ Such recognised bodies shall be independent, competent to carry out their functi
 
 3. The application of paragraphs 1 and 2 shall not undermine the achievement of the objective of this Regulation.
 
-4. The Secretary of State may make regulations[^key-ac8793fb9a2c5883e320ad4b346fb499] to further specify the administrative arrangements for the recognition of bodies that may attest to the compliance with the conditions set out in paragraph 1 of this Article and for the issuance and control of attesting documents, as well as the administrative provisions necessary for ensuring compliance with paragraph 2 of this Article. [^key-4db890df9d12d94b1f8e51794bc89116]...
+4. The Secretary of State may make regulations[^c-ac8793fb9a2c5883e320ad4b346fb499] to further specify the administrative arrangements for the recognition of bodies that may attest to the compliance with the conditions set out in paragraph 1 of this Article and for the issuance and control of attesting documents, as well as the administrative provisions necessary for ensuring compliance with paragraph 2 of this Article. [^c-4db890df9d12d94b1f8e51794bc89116]...
 
-5.[^key-7230f0dc726151a6a4ba9549b0b10436] The Secretary of State may, by regulations:
+5.[^c-7230f0dc726151a6a4ba9549b0b10436] The Secretary of State may, by regulations:
 
 - (a) prohibit the placing on the market of seal products derived from seals killed as a result of a seal hunt conducted primarily for commercial reasons; or
 - (b) limit the quantity of such products that may be placed on the market.
 
-6. The Secretary of State may[^key-ed670de6652493e8e90fb6b4ea479d5a] issue technical guidance notes setting out an indicative list of the codes of the Combined Nomenclature which may cover seal products subject to this Article. [^key-7e595c9e31d09a029dbcde410acd8e9b]...
+6. The Secretary of State may[^c-ed670de6652493e8e90fb6b4ea479d5a] issue technical guidance notes setting out an indicative list of the codes of the Combined Nomenclature which may cover seal products subject to this Article. [^c-7e595c9e31d09a029dbcde410acd8e9b]...
 
-## Article 4. Free movement[^key-023c5dd8ba7fb160325caba0813c16f8]
+## Article 4. Free movement[^c-023c5dd8ba7fb160325caba0813c16f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4a. Regulations[^key-958601467c939d0362a8f9d10cce4cf4]
+## Article 4a. Regulations[^c-958601467c939d0362a8f9d10cce4cf4]
 
 1. Regulations made by the Secretary of State under this Regulation are to be made by statutory instrument.
 
@@ -196,27 +196,27 @@ Such recognised bodies shall be independent, competent to carry out their functi
 - (a) such bodies or persons as appear to the Secretary of State to be representative of the interests likely to be substantially affected by the regulations;
 - (b) such other bodies or persons as the Secretary of State may consider appropriate.
 
-## Article 5. Committee procedure[^key-01881ea0675fb5e9b1342f9d0142df1d]
+## Article 5. Committee procedure[^c-01881ea0675fb5e9b1342f9d0142df1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5a. Information[^key-3f0fe8d856041efea91d20a956d5e4c9]
+## Article 5a. Information[^c-3f0fe8d856041efea91d20a956d5e4c9]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Penalties and enforcement[^key-3f0fe8d856041efea91d20a956d5e4c9]
+## Article 6. Penalties and enforcement[^c-3f0fe8d856041efea91d20a956d5e4c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Reporting[^key-3f0fe8d856041efea91d20a956d5e4c9]
+## Article 7. Reporting[^c-3f0fe8d856041efea91d20a956d5e4c9]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Entry into force and application[^key-90dfc3ca379cf98fc6b722a826aaeab6]
+## Article 8. Entry into force and application[^c-90dfc3ca379cf98fc6b722a826aaeab6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -236,34 +236,34 @@ This Regulation shall be binding in its entirety and directly applicable in all 
 
 [^f00006]: Footnote: [OJ L 184, 17.7.1999, p. 23](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1999.184.01.0023.01.ENG).
 
-[^key-ca8fc24d77de275688486663722dcfb7]: Textual amendment: Word in Art. 1 omitted (31.12.2020) by virtue of [The Seal Products (Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1034)](https://www.legislation.gov.uk/uksi/2018/1034), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1034/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/1034/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ca8fc24d77de275688486663722dcfb7]: Textual amendment: Word in Art. 1 omitted (31.12.2020) by virtue of [The Seal Products (Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1034)](https://www.legislation.gov.uk/uksi/2018/1034), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1034/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/1034/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-592610870f16b307fabc5c53f8819758]: Textual amendment: Words in Art. 2(3) substituted (31.12.2020) by [The Seal Products (Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1034)](https://www.legislation.gov.uk/uksi/2018/1034), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1034/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2018/1034/regulation/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-592610870f16b307fabc5c53f8819758]: Textual amendment: Words in Art. 2(3) substituted (31.12.2020) by [The Seal Products (Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1034)](https://www.legislation.gov.uk/uksi/2018/1034), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1034/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2018/1034/regulation/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Textual amendment: Inserted by [Regulation (EU) 2015/1775 of the European Parliament and of the Council of 6 October 2015 amending Regulation (EC) No 1007/2009 on trade in seal products and repealing Commission Regulation (EU) No 737/2010 (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2015/1775).
 
-[^key-bcd910cf5350bd5a50d32e191086b695]: Textual amendment: Words in Art. 2(5) substituted (31.12.2020) by [The Seal Products (Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1034)](https://www.legislation.gov.uk/uksi/2018/1034), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1034/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2018/1034/regulation/3/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bcd910cf5350bd5a50d32e191086b695]: Textual amendment: Words in Art. 2(5) substituted (31.12.2020) by [The Seal Products (Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1034)](https://www.legislation.gov.uk/uksi/2018/1034), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1034/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2018/1034/regulation/3/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000002]: Textual amendment: Substituted by [Regulation (EU) 2015/1775 of the European Parliament and of the Council of 6 October 2015 amending Regulation (EC) No 1007/2009 on trade in seal products and repealing Commission Regulation (EU) No 737/2010 (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2015/1775).
 
-[^key-c8673fcacad2c1fc7aea70e26aa6f673]: Textual amendment: Words in Art. 3(1a) substituted (31.12.2020) by [The Seal Products (Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1034)](https://www.legislation.gov.uk/uksi/2018/1034), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1034/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/1034/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c8673fcacad2c1fc7aea70e26aa6f673]: Textual amendment: Words in Art. 3(1a) substituted (31.12.2020) by [The Seal Products (Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1034)](https://www.legislation.gov.uk/uksi/2018/1034), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1034/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/1034/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ac8793fb9a2c5883e320ad4b346fb499]: Textual amendment: Words in Art. 3(4) substituted (31.12.2020) by [The Animals (Legislative Functions) (EU Exit) Regulations 2019 (S.I. 2019/588)](https://www.legislation.gov.uk/uksi/2019/588), [regs. 1](https://www.legislation.gov.uk/uksi/2019/588/regulation/1), [7(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/588/regulation/7/2/a/i) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/588/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ac8793fb9a2c5883e320ad4b346fb499]: Textual amendment: Words in Art. 3(4) substituted (31.12.2020) by [The Animals (Legislative Functions) (EU Exit) Regulations 2019 (S.I. 2019/588)](https://www.legislation.gov.uk/uksi/2019/588), [regs. 1](https://www.legislation.gov.uk/uksi/2019/588/regulation/1), [7(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/588/regulation/7/2/a/i) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/588/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4db890df9d12d94b1f8e51794bc89116]: Textual amendment: Words in Art. 3(4) omitted (31.12.2020) by [The Animals (Legislative Functions) (EU Exit) Regulations 2019 (S.I. 2019/588)](https://www.legislation.gov.uk/uksi/2019/588), [regs. 1](https://www.legislation.gov.uk/uksi/2019/588/regulation/1), [7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/588/regulation/7/2/a/ii) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/588/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4db890df9d12d94b1f8e51794bc89116]: Textual amendment: Words in Art. 3(4) omitted (31.12.2020) by [The Animals (Legislative Functions) (EU Exit) Regulations 2019 (S.I. 2019/588)](https://www.legislation.gov.uk/uksi/2019/588), [regs. 1](https://www.legislation.gov.uk/uksi/2019/588/regulation/1), [7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/588/regulation/7/2/a/ii) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/588/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7230f0dc726151a6a4ba9549b0b10436]: Textual amendment: Art. 3(5) substituted (31.12.2020) by [The Animals (Legislative Functions) (EU Exit) Regulations 2019 (S.I. 2019/588)](https://www.legislation.gov.uk/uksi/2019/588), [regs. 1](https://www.legislation.gov.uk/uksi/2019/588/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2019/588/regulation/7/2/b) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/588/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7230f0dc726151a6a4ba9549b0b10436]: Textual amendment: Art. 3(5) substituted (31.12.2020) by [The Animals (Legislative Functions) (EU Exit) Regulations 2019 (S.I. 2019/588)](https://www.legislation.gov.uk/uksi/2019/588), [regs. 1](https://www.legislation.gov.uk/uksi/2019/588/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2019/588/regulation/7/2/b) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/588/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ed670de6652493e8e90fb6b4ea479d5a]: Textual amendment: Words in Art. 3(6) substituted (31.12.2020) by [The Animals (Legislative Functions) (EU Exit) Regulations 2019 (S.I. 2019/588)](https://www.legislation.gov.uk/uksi/2019/588), [regs. 1](https://www.legislation.gov.uk/uksi/2019/588/regulation/1), [7(2)(c)(i)](https://www.legislation.gov.uk/uksi/2019/588/regulation/7/2/c/i) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/588/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ed670de6652493e8e90fb6b4ea479d5a]: Textual amendment: Words in Art. 3(6) substituted (31.12.2020) by [The Animals (Legislative Functions) (EU Exit) Regulations 2019 (S.I. 2019/588)](https://www.legislation.gov.uk/uksi/2019/588), [regs. 1](https://www.legislation.gov.uk/uksi/2019/588/regulation/1), [7(2)(c)(i)](https://www.legislation.gov.uk/uksi/2019/588/regulation/7/2/c/i) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/588/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7e595c9e31d09a029dbcde410acd8e9b]: Textual amendment: Words in Art. 3(6) omitted (31.12.2020) by virtue of [The Animals (Legislative Functions) (EU Exit) Regulations 2019 (S.I. 2019/588)](https://www.legislation.gov.uk/uksi/2019/588), [regs. 1](https://www.legislation.gov.uk/uksi/2019/588/regulation/1), [7(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/588/regulation/7/2/c/ii) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/588/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7e595c9e31d09a029dbcde410acd8e9b]: Textual amendment: Words in Art. 3(6) omitted (31.12.2020) by virtue of [The Animals (Legislative Functions) (EU Exit) Regulations 2019 (S.I. 2019/588)](https://www.legislation.gov.uk/uksi/2019/588), [regs. 1](https://www.legislation.gov.uk/uksi/2019/588/regulation/1), [7(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/588/regulation/7/2/c/ii) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/588/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-023c5dd8ba7fb160325caba0813c16f8]: Textual amendment: Art. 4 omitted (31.12.2020) by virtue of [The Seal Products (Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1034)](https://www.legislation.gov.uk/uksi/2018/1034), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1034/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2018/1034/regulation/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-023c5dd8ba7fb160325caba0813c16f8]: Textual amendment: Art. 4 omitted (31.12.2020) by virtue of [The Seal Products (Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1034)](https://www.legislation.gov.uk/uksi/2018/1034), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1034/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2018/1034/regulation/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-958601467c939d0362a8f9d10cce4cf4]: Textual amendment: Art. 4a substituted (31.12.2020) by [The Animals (Legislative Functions) (EU Exit) Regulations 2019 (S.I. 2019/588)](https://www.legislation.gov.uk/uksi/2019/588), [regs. 1](https://www.legislation.gov.uk/uksi/2019/588/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2019/588/regulation/7/3) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/588/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-958601467c939d0362a8f9d10cce4cf4]: Textual amendment: Art. 4a substituted (31.12.2020) by [The Animals (Legislative Functions) (EU Exit) Regulations 2019 (S.I. 2019/588)](https://www.legislation.gov.uk/uksi/2019/588), [regs. 1](https://www.legislation.gov.uk/uksi/2019/588/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2019/588/regulation/7/3) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/588/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-01881ea0675fb5e9b1342f9d0142df1d]: Textual amendment: Art. 5 omitted (31.12.2020) by virtue of [The Animals (Legislative Functions) (EU Exit) Regulations 2019 (S.I. 2019/588)](https://www.legislation.gov.uk/uksi/2019/588), [regs. 1](https://www.legislation.gov.uk/uksi/2019/588/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2019/588/regulation/7/4) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/588/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-01881ea0675fb5e9b1342f9d0142df1d]: Textual amendment: Art. 5 omitted (31.12.2020) by virtue of [The Animals (Legislative Functions) (EU Exit) Regulations 2019 (S.I. 2019/588)](https://www.legislation.gov.uk/uksi/2019/588), [regs. 1](https://www.legislation.gov.uk/uksi/2019/588/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2019/588/regulation/7/4) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/588/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3f0fe8d856041efea91d20a956d5e4c9]: Textual amendment: Arts. 5a-7 omitted (31.12.2020) by virtue of [The Seal Products (Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1034)](https://www.legislation.gov.uk/uksi/2018/1034), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1034/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2018/1034/regulation/3/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3f0fe8d856041efea91d20a956d5e4c9]: Textual amendment: Arts. 5a-7 omitted (31.12.2020) by virtue of [The Seal Products (Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1034)](https://www.legislation.gov.uk/uksi/2018/1034), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1034/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2018/1034/regulation/3/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-90dfc3ca379cf98fc6b722a826aaeab6]: Textual amendment: Art. 8 omitted (31.12.2020) by virtue of [The Seal Products (Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1034)](https://www.legislation.gov.uk/uksi/2018/1034), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1034/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2018/1034/regulation/3/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-90dfc3ca379cf98fc6b722a826aaeab6]: Textual amendment: Art. 8 omitted (31.12.2020) by virtue of [The Seal Products (Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1034)](https://www.legislation.gov.uk/uksi/2018/1034), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1034/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2018/1034/regulation/3/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -24,15 +24,15 @@ Section 18
 
 ### PART 1 — Notification requirements
 
-**1.**[^key-70cce6f3d13738f613b6852e6b5244f4] Chapter 4 of Part 16 of the Companies Act 2006 (audit: removal, resignation, etc of auditors) is amended in accordance with paragraphs 2 to 11.
+**1.**[^c-70cce6f3d13738f613b6852e6b5244f4] Chapter 4 of Part 16 of the Companies Act 2006 (audit: removal, resignation, etc of auditors) is amended in accordance with paragraphs 2 to 11.
 
-**2.**[^key-7268156bf86fc00c8d89f2919f948c99] Omit section 512 (notice to registrar of resolution removing auditor from office).
+**2.**[^c-7268156bf86fc00c8d89f2919f948c99] Omit section 512 (notice to registrar of resolution removing auditor from office).
 
-**3.**[^key-eb3258d9bfaab6218e37a58a54314c15] In section 516 (resignation of auditor), in subsection (2), for “The” substitute “ Where the company is a public interest company, the ”.
+**3.**[^c-eb3258d9bfaab6218e37a58a54314c15] In section 516 (resignation of auditor), in subsection (2), for “The” substitute “ Where the company is a public interest company, the ”.
 
-**4.**[^key-982444d9219a1348bfd05c2d4e97a9cc] Omit section 517 (notice to registrar of resignation of auditor).
+**4.**[^c-982444d9219a1348bfd05c2d4e97a9cc] Omit section 517 (notice to registrar of resignation of auditor).
 
-**5.**[^key-fd4d5e1818a66b68ff14b88b28165381] (1) Section 518 (rights of resigning auditor) is amended as follows.
+**5.**[^c-fd4d5e1818a66b68ff14b88b28165381] (1) Section 518 (rights of resigning auditor) is amended as follows.
 
 (2) In subsection (1), for the words from “auditor's notice of resignation” to the end of the subsection substitute
 
@@ -45,9 +45,9 @@ Section 18
 
 (4) In subsection (3), in the words after paragraph (b), for “circumstances connected with” substitute “ reasons for, and matters connected with, ”.
 
-**6.**[^key-ab655095ccb87df54f97797efc7eb0b1] In section 519 (statement by auditor to be deposited with company), in subsection (4), for “The statement required by this section” substitute “ A statement under this section ”.
+**6.**[^c-ab655095ccb87df54f97797efc7eb0b1] In section 519 (statement by auditor to be deposited with company), in subsection (4), for “The statement required by this section” substitute “ A statement under this section ”.
 
-**7.**[^key-9114ccb975734466cac194d25289a5b6] (1) Section 520 (company's duties in relation to statement under section 519) is amended as follows.
+**7.**[^c-9114ccb975734466cac194d25289a5b6] (1) Section 520 (company's duties in relation to statement under section 519) is amended as follows.
 
 (2) In subsection (1), for the words from “the statement” to the end of the subsection substitute “a company receives from an auditor (“A”) who is ceasing to hold office a statement under section 519 except where—
 
@@ -56,7 +56,7 @@ Section 18
 
 (3) In subsection (2), for “The” substitute “ Where this section applies, the ”.
 
-**8.**[^key-7b0dd516cc7804170d218c64344c2cc4] (1) Section 521 (copy of statement to be sent to registrar) is amended as follows.
+**8.**[^c-7b0dd516cc7804170d218c64344c2cc4] (1) Section 521 (copy of statement to be sent to registrar) is amended as follows.
 
 (2) Before subsection (1) insert—
 
@@ -67,7 +67,7 @@ Section 18
 
 (3) In subsection (1), for “Unless” substitute “ Where this section applies, unless ”.
 
-**9.**[^key-d7538a3610eafec5cba33b40d384143f] (1) Section 522 (duty of auditor to notify appropriate audit authority) is amended as follows.
+**9.**[^c-d7538a3610eafec5cba33b40d384143f] (1) Section 522 (duty of auditor to notify appropriate audit authority) is amended as follows.
 
 (2) For subsections (1) to (4) substitute—
 
@@ -75,7 +75,7 @@ Section 18
 
 (3) In the heading, for “notify” substitute “ send statement to ”.
 
-**10.**[^key-567fe48a7d96e7b0a21950792e963fb2] (1) Section 524 (information to be given to accounting authorities) is amended as follows.
+**10.**[^c-567fe48a7d96e7b0a21950792e963fb2] (1) Section 524 (information to be given to accounting authorities) is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -88,7 +88,7 @@ Section 18
 
 (4) In the heading, for “Information to be given” substitute “ Provision of information ”.
 
-**11.**[^key-7abe63f8ca7a7aded99450d8c215c10e] (1) Section 525 (meaning of “**appropriate audit authority**” and “**major audit**”) is amended as follows.
+**11.**[^c-7abe63f8ca7a7aded99450d8c215c10e] (1) Section 525 (meaning of “**appropriate audit authority**” and “**major audit**”) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -102,7 +102,7 @@ Section 18
 
 (4) In the heading, omit “and “major audit””.
 
-**12.**[^key-06dd1d8f8b6b0677d0e2d11d3d8ba668] (1) Schedule 8 to the Companies Act 2006 (index of defined expressions) is amended as follows.
+**12.**[^c-06dd1d8f8b6b0677d0e2d11d3d8ba668] (1) Schedule 8 to the Companies Act 2006 (index of defined expressions) is amended as follows.
 
 (2) Omit the entry for “major audit”.
 
@@ -122,11 +122,11 @@ Section 18
 
 ### PART 2 — Miscellaneous
 
-**13.**[^key-bb4538c2da5e224d9782555b4f2ee7fd] Chapter 4 of Part 16 of the Companies Act 2006 is further amended as follows.
+**13.**[^c-bb4538c2da5e224d9782555b4f2ee7fd] Chapter 4 of Part 16 of the Companies Act 2006 is further amended as follows.
 
 #### Failure to re-appoint auditor: special procedure requirements
 
-**14.**[^key-0adc5195536a8b78a4f8beca3a191b9a] (1) Section 514 (failure to re-appoint auditor: special procedure required for written resolution) is amended as follows.
+**14.**[^c-0adc5195536a8b78a4f8beca3a191b9a] (1) Section 514 (failure to re-appoint auditor: special procedure required for written resolution) is amended as follows.
 
 (2) For subsections (1) and (2) substitute—
 
@@ -146,7 +146,7 @@ Section 18
 
 (3) In subsection (3), for “The” substitute “ Where this section applies, the ”.
 
-**15.**[^key-20e325548ff45d76fd1294e922434c28] (1) Section 515 (failure to re-appoint auditor: special notice required for resolution at general meeting) is amended as follows.
+**15.**[^c-20e325548ff45d76fd1294e922434c28] (1) Section 515 (failure to re-appoint auditor: special notice required for resolution at general meeting) is amended as follows.
 
 (2) For subsections (1) and (2) substitute—
 
@@ -175,13 +175,13 @@ Section 18
 
 #### Replacement of references to documents being deposited at the company's registered office
 
-**16.**[^key-61d94c38b2b1bb3f30c9a99d25152e52] (1) Section 516 (resignation of auditor) is amended as follows.
+**16.**[^c-61d94c38b2b1bb3f30c9a99d25152e52] (1) Section 516 (resignation of auditor) is amended as follows.
 
 (2) In subsection (1), for the words from “depositing” to the end of the subsection substitute “ sending a notice to that effect to the company ”.
 
 (3) In subsection (3), for “deposited” substitute “ received ”.
 
-**17.**[^key-5dcb3b264bdf63732dfdda0552f86a80] (1) Section 518 (rights of resigning auditor) is amended as follows.
+**17.**[^c-5dcb3b264bdf63732dfdda0552f86a80] (1) Section 518 (rights of resigning auditor) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -190,54 +190,54 @@ Section 18
 
 (3) In subsection (5), for “of the deposit of” substitute “ on which the company receives ”.
 
-**18.**[^key-8dfc7568b7c6b7e54eabd3f78db567bb] (1) Section 519 (statement by auditor to be deposited with company) is amended as follows.
+**18.**[^c-8dfc7568b7c6b7e54eabd3f78db567bb] (1) Section 519 (statement by auditor to be deposited with company) is amended as follows.
 
 (2) In subsection (4), for “deposited” substitute “ sent ”.
 
 (3) In the heading, for “deposited with” substitute “ sent to ”.
 
-**19.**[^key-5b64975b5664d1c0d0f11c4e73898426] In section 520(2) (company's duties in relation to statement), for “deposit” substitute “ receipt ”.
+**19.**[^c-5b64975b5664d1c0d0f11c4e73898426] In section 520(2) (company's duties in relation to statement), for “deposit” substitute “ receipt ”.
 
-**20.**[^key-1ea0f2f168c7cb10a0577c86cd20bd49] In section 521(1) (copy of statement to be sent to registrar), for “deposited” substitute “ sent ”.
+**20.**[^c-1ea0f2f168c7cb10a0577c86cd20bd49] In section 521(1) (copy of statement to be sent to registrar), for “deposited” substitute “ sent ”.
 
 ## Annotations
 
-[^key-70cce6f3d13738f613b6852e6b5244f4]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/1) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
+[^c-70cce6f3d13738f613b6852e6b5244f4]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/1) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
 
-[^key-7268156bf86fc00c8d89f2919f948c99]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/2) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
+[^c-7268156bf86fc00c8d89f2919f948c99]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/2) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
 
-[^key-eb3258d9bfaab6218e37a58a54314c15]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/3) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
+[^c-eb3258d9bfaab6218e37a58a54314c15]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/3) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
 
-[^key-982444d9219a1348bfd05c2d4e97a9cc]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/4) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
+[^c-982444d9219a1348bfd05c2d4e97a9cc]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/4) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
 
-[^key-fd4d5e1818a66b68ff14b88b28165381]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/5) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
+[^c-fd4d5e1818a66b68ff14b88b28165381]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/5) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
 
-[^key-ab655095ccb87df54f97797efc7eb0b1]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/6) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
+[^c-ab655095ccb87df54f97797efc7eb0b1]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/6) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
 
-[^key-9114ccb975734466cac194d25289a5b6]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/7) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
+[^c-9114ccb975734466cac194d25289a5b6]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/7) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
 
-[^key-7b0dd516cc7804170d218c64344c2cc4]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/8) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
+[^c-7b0dd516cc7804170d218c64344c2cc4]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/8) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
 
-[^key-d7538a3610eafec5cba33b40d384143f]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/9) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
+[^c-d7538a3610eafec5cba33b40d384143f]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/9) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
 
-[^key-567fe48a7d96e7b0a21950792e963fb2]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/10) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
+[^c-567fe48a7d96e7b0a21950792e963fb2]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/10) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
 
-[^key-7abe63f8ca7a7aded99450d8c215c10e]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/11) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
+[^c-7abe63f8ca7a7aded99450d8c215c10e]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/11) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
 
-[^key-06dd1d8f8b6b0677d0e2d11d3d8ba668]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/12) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
+[^c-06dd1d8f8b6b0677d0e2d11d3d8ba668]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/12) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
 
-[^key-bb4538c2da5e224d9782555b4f2ee7fd]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/13) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
+[^c-bb4538c2da5e224d9782555b4f2ee7fd]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/13) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
 
-[^key-0adc5195536a8b78a4f8beca3a191b9a]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/14) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
+[^c-0adc5195536a8b78a4f8beca3a191b9a]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/14) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
 
-[^key-20e325548ff45d76fd1294e922434c28]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/15) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
+[^c-20e325548ff45d76fd1294e922434c28]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/15) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
 
-[^key-61d94c38b2b1bb3f30c9a99d25152e52]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/16) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
+[^c-61d94c38b2b1bb3f30c9a99d25152e52]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/16) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
 
-[^key-5dcb3b264bdf63732dfdda0552f86a80]: Commencement: [Sch. 5 para. 17](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/17) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
+[^c-5dcb3b264bdf63732dfdda0552f86a80]: Commencement: [Sch. 5 para. 17](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/17) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
 
-[^key-8dfc7568b7c6b7e54eabd3f78db567bb]: Commencement: [Sch. 5 para. 18](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/18) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
+[^c-8dfc7568b7c6b7e54eabd3f78db567bb]: Commencement: [Sch. 5 para. 18](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/18) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
 
-[^key-5b64975b5664d1c0d0f11c4e73898426]: Commencement: [Sch. 5 para. 19](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/19) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
+[^c-5b64975b5664d1c0d0f11c4e73898426]: Commencement: [Sch. 5 para. 19](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/19) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
 
-[^key-1ea0f2f168c7cb10a0577c86cd20bd49]: Commencement: [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/20) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
+[^c-1ea0f2f168c7cb10a0577c86cd20bd49]: Commencement: [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/20) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))

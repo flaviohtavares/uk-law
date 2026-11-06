@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 88. Complaints against the Regulator where no determination made before 1st April 2019[^key-d4145b6dec016a07a08d9b618bee2f4e][^key-d2ddac7453bd7512ca651173bac953ec]
+## 88. Complaints against the Regulator where no determination made before 1st April 2019[^c-d4145b6dec016a07a08d9b618bee2f4e][^c-d2ddac7453bd7512ca651173bac953ec]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d4145b6dec016a07a08d9b618bee2f4e]: Commencement: Art. 88 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-d4145b6dec016a07a08d9b618bee2f4e]: Commencement: Art. 88 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-d2ddac7453bd7512ca651173bac953ec]: Commencement: [Art. 88](https://www.legislation.gov.uk/uksi/2018/1253/article/88) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-d2ddac7453bd7512ca651173bac953ec]: Commencement: [Art. 88](https://www.legislation.gov.uk/uksi/2018/1253/article/88) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Exempted substances[^c22562431][^key-06b7b04787326f9b3267a542b7184ed2]
+## 3. Exempted substances[^c22562431][^c-06b7b04787326f9b3267a542b7184ed2]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^c22562431]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2016/2/section/3) in force at Royal Assent for specified purposes, see [s. 63(1)(b)](https://www.legislation.gov.uk/ukpga/2016/2/section/63/1/b)
 
-[^key-06b7b04787326f9b3267a542b7184ed2]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2016/2/section/3) in force at 26.5.2016 in so far as not already in force by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-06b7b04787326f9b3267a542b7184ed2]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2016/2/section/3) in force at 26.5.2016 in so far as not already in force by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

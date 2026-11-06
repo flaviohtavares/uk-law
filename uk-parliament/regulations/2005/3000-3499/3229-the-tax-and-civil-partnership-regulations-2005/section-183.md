@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 183. Income Tax (Trading and Other Income) Act 2005[^key-34f29037ddc41d64a5bf2d5d918c4b77]
+## 183. Income Tax (Trading and Other Income) Act 2005[^c-34f29037ddc41d64a5bf2d5d918c4b77]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Income Tax (Trading and Other Income) Act 2005[^f00051] is amended as follow
 
 ## Annotations
 
-[^key-34f29037ddc41d64a5bf2d5d918c4b77]: Commencement: Reg. 183 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-34f29037ddc41d64a5bf2d5d918c4b77]: Commencement: Reg. 183 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
 
 [^f00051]: Footnote: [2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5).

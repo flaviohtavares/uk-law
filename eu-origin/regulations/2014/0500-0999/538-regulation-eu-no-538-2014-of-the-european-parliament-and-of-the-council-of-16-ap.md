@@ -35,18 +35,18 @@ amending Regulation (EU) No 691/2011 on European environmental economic accounts
 
 (Text with EEA relevance) (revoked)
 
-[^key-1cb7a5915c4f9034e08f16aa4833d821]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1cb7a5915c4f9034e08f16aa4833d821]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-1cb7a5915c4f9034e08f16aa4833d821] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-1cb7a5915c4f9034e08f16aa4833d821] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-1cb7a5915c4f9034e08f16aa4833d821] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-1cb7a5915c4f9034e08f16aa4833d821] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1cb7a5915c4f9034e08f16aa4833d821]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1cb7a5915c4f9034e08f16aa4833d821]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-1cb7a5915c4f9034e08f16aa4833d821]
+## ANNEX[^c-1cb7a5915c4f9034e08f16aa4833d821]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1cb7a5915c4f9034e08f16aa4833d821]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 234](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/234); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1cb7a5915c4f9034e08f16aa4833d821]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 234](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/234); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

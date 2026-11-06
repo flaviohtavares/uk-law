@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259. Amendments of the Wireless Telegraphy Act 2006[^key-75b08204d8e1f51c6138f3a42f30c5f9]
+## 259. Amendments of the Wireless Telegraphy Act 2006[^c-75b08204d8e1f51c6138f3a42f30c5f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75b08204d8e1f51c6138f3a42f30c5f9]: Commencement: [S. 259](https://www.legislation.gov.uk/ukpga/2016/25/section/259) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(b)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/b) (with [reg. 20](https://www.legislation.gov.uk/uksi/2018/652/regulation/20))
+[^c-75b08204d8e1f51c6138f3a42f30c5f9]: Commencement: [S. 259](https://www.legislation.gov.uk/ukpga/2016/25/section/259) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(b)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/b) (with [reg. 20](https://www.legislation.gov.uk/uksi/2018/652/regulation/20))

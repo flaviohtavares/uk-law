@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-b16a9f811dd7b8cf6558f68003130602][^key-c90aaf1027195c5efe11dbec18719a04] The Statistics and Registration Service Act 2007 is amended as follows.
+(1)[^c-b16a9f811dd7b8cf6558f68003130602][^c-c90aaf1027195c5efe11dbec18719a04] The Statistics and Registration Service Act 2007 is amended as follows.
 
-(2)[^key-b16a9f811dd7b8cf6558f68003130602][^key-c90aaf1027195c5efe11dbec18719a04] After section 45 insert—
+(2)[^c-b16a9f811dd7b8cf6558f68003130602][^c-c90aaf1027195c5efe11dbec18719a04] After section 45 insert—
 
 > **45A. Information held by other public authorities**
 >
@@ -67,22 +67,22 @@ summary: ''
 >
 > (14) This section does not limit the circumstances in which information may be disclosed apart from this section.
 
-(3)[^key-6ce885339e64cd494b3eaf88e345c940] Omit—
+(3)[^c-6ce885339e64cd494b3eaf88e345c940] Omit—
 
 - (a) section 47 (power to authorise disclosure to the Board);
 - (b) section 48 (power to authorise disclosure to the Board: Scotland);
 - (c) section 49 (power to authorise disclosure to the Board: Northern Ireland).
 
-(4)[^key-b16a9f811dd7b8cf6558f68003130602][^key-c90aaf1027195c5efe11dbec18719a04] In section 54 (Data Protection Act 1998 and Human Rights Act 1998) for “47” substitute “ 50 ”.
+(4)[^c-b16a9f811dd7b8cf6558f68003130602][^c-c90aaf1027195c5efe11dbec18719a04] In section 54 (Data Protection Act 1998 and Human Rights Act 1998) for “47” substitute “ 50 ”.
 
-(5)[^key-b16a9f811dd7b8cf6558f68003130602][^key-c90aaf1027195c5efe11dbec18719a04] In section 65 (orders and regulations)—
+(5)[^c-b16a9f811dd7b8cf6558f68003130602][^c-c90aaf1027195c5efe11dbec18719a04] In section 65 (orders and regulations)—
 
 - (a) in subsection (4) omit “47(11),”,
 - (b) in subsection (5)(b) omit “47,”,
 - (c) in subsection (6)(b) omit “48 or”, and
 - (d) in subsection (9)(c) omit “49 or”.
 
-(6)[^key-b16a9f811dd7b8cf6558f68003130602][^key-c90aaf1027195c5efe11dbec18719a04] In section 67 (general interpretation) for the definition of “enactment” substitute—
+(6)[^c-b16a9f811dd7b8cf6558f68003130602][^c-c90aaf1027195c5efe11dbec18719a04] In section 67 (general interpretation) for the definition of “enactment” substitute—
 
 > “**enactment**” includes—
 >
@@ -95,8 +95,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b16a9f811dd7b8cf6558f68003130602]: Commencement: S. 79(1)(2)(4)-(6) in force at 31.7.2017 for E.W.S. by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/u)
+[^c-b16a9f811dd7b8cf6558f68003130602]: Commencement: S. 79(1)(2)(4)-(6) in force at 31.7.2017 for E.W.S. by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/u)
 
-[^key-c90aaf1027195c5efe11dbec18719a04]: Commencement: S. 79(1)(2)(4)-(6) in force at 1.5.2018 in so far as not already in force by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(kk)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/kk)
+[^c-c90aaf1027195c5efe11dbec18719a04]: Commencement: S. 79(1)(2)(4)-(6) in force at 1.5.2018 in so far as not already in force by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(kk)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/kk)
 
-[^key-6ce885339e64cd494b3eaf88e345c940]: Commencement: S. 79(3) in force at 1.5.2018 by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(kk)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/kk)
+[^c-6ce885339e64cd494b3eaf88e345c940]: Commencement: S. 79(3) in force at 1.5.2018 by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(kk)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/kk)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 111. Offences by bodies corporate[^key-a87ac7be7624335e886190fde3e0a91b]
+## 111. Offences by bodies corporate[^c-a87ac7be7624335e886190fde3e0a91b]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ the individual (as well as the body corporate, partnership or, as the case may b
 
 ## Annotations
 
-[^key-a87ac7be7624335e886190fde3e0a91b]: Commencement: [S. 111](https://www.legislation.gov.uk/asp/2011/9/section/111) in force at 1.4.2015 by [S.S.I. 2015/63](https://www.legislation.gov.uk/ssi/2015/63), [art. 2](https://www.legislation.gov.uk/ssi/2015/63/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/63/schedule)
+[^c-a87ac7be7624335e886190fde3e0a91b]: Commencement: [S. 111](https://www.legislation.gov.uk/asp/2011/9/section/111) in force at 1.4.2015 by [S.S.I. 2015/63](https://www.legislation.gov.uk/ssi/2015/63), [art. 2](https://www.legislation.gov.uk/ssi/2015/63/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/63/schedule)

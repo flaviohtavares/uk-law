@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Powers of entry[^key-ad43a8f082cb2d064011a953cac3fb33]
+## 33. Powers of entry[^c-ad43a8f082cb2d064011a953cac3fb33]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ the justice may by warrant signed by him authorise the inspector to enter the pr
 
 ## Annotations
 
-[^key-ad43a8f082cb2d064011a953cac3fb33]: Commencement: Reg. 33 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-ad43a8f082cb2d064011a953cac3fb33]: Commencement: Reg. 33 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

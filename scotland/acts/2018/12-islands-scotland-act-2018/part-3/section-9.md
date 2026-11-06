@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Reviews of decisions relating to island communities impact assessments[^key-811d7c16a8a65cbdd203c6e82732d9a9]
+## 9. Reviews of decisions relating to island communities impact assessments[^c-811d7c16a8a65cbdd203c6e82732d9a9]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-811d7c16a8a65cbdd203c6e82732d9a9]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2018/12/section/9) in force at 23.12.2020 by [S.S.I. 2020/346](https://www.legislation.gov.uk/ssi/2020/346), [reg. 2](https://www.legislation.gov.uk/ssi/2020/346/regulation/2)
+[^c-811d7c16a8a65cbdd203c6e82732d9a9]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2018/12/section/9) in force at 23.12.2020 by [S.S.I. 2020/346](https://www.legislation.gov.uk/ssi/2020/346), [reg. 2](https://www.legislation.gov.uk/ssi/2020/346/regulation/2)

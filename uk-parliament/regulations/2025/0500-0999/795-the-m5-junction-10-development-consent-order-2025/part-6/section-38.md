@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Removal of human remains[^key-3a30e27b20c4eb7a036e3a2a0035ddd5]
+## 38. Removal of human remains[^c-3a30e27b20c4eb7a036e3a2a0035ddd5]
 
 *Extent: E+W*
 
@@ -88,7 +88,7 @@ and in section 240(1) (provisions supplemental to sections 238 and 239) of the 1
 
 ## Annotations
 
-[^key-3a30e27b20c4eb7a036e3a2a0035ddd5]: Commencement: Art. 38 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-3a30e27b20c4eb7a036e3a2a0035ddd5]: Commencement: Art. 38 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
 [^f00076]: Footnote: [1857 c. 81](https://www.legislation.gov.uk/ukpga/1857/81). Section 25 was substituted by section 2 of the Church of England (Miscellaneous Provisions) Measure [2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1).
 

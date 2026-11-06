@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Defence representation for purposes of cross-examination.[^c9546041][^key-64929df502b8c86f608a18a5a914dbd7]
+## 38. Defence representation for purposes of cross-examination.[^c9546041][^c-64929df502b8c86f608a18a5a914dbd7]
 
 *Extent: E+W*
 
@@ -38,7 +38,7 @@ the court must consider whether it is necessary in the interests of justice for 
 
 (5) A person so appointed shall not be responsible to the accused.
 
-(6) Criminal Procedure Rules[^key-66eb29ad5fbc48cfa44173faed25ccc0] may make provision—
+(6) Criminal Procedure Rules[^c-66eb29ad5fbc48cfa44173faed25ccc0] may make provision—
 
 - (a) as to the time when, and the manner in which, subsection (2) is to be complied with;
 - (b) in connection with the appointment of a legal representative under subsection (4), and in particular for securing that a person so appointed is provided with evidence or other material relating to the proceedings.
@@ -57,9 +57,9 @@ the court must consider whether it is necessary in the interests of justice for 
 
 [^c9546041]: Commencement: S. 38 wholly in force at 4.9.2000; Pt. II Chs. 1-4 (ss. 16-52) in force for certain purposes at Royal Assent, see s. 68(4); s. 38 in force at 4.9.2000 by [S.I. 2000/2091](https://www.legislation.gov.uk/uksi/2000/2091), [art. 2(c)](https://www.legislation.gov.uk/uksi/2000/2091/article/2/c)
 
-[^key-64929df502b8c86f608a18a5a914dbd7]: Modification: S. 38 applied (with modifications) (31.10.2009) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) Order 2009 (S.I. 2009/2083)](https://www.legislation.gov.uk/uksi/2009/2083), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1), [5](https://www.legislation.gov.uk/uksi/2009/2083/article/5), [6](https://www.legislation.gov.uk/uksi/2009/2083/article/6)
+[^c-64929df502b8c86f608a18a5a914dbd7]: Modification: S. 38 applied (with modifications) (31.10.2009) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) Order 2009 (S.I. 2009/2083)](https://www.legislation.gov.uk/uksi/2009/2083), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1), [5](https://www.legislation.gov.uk/uksi/2009/2083/article/5), [6](https://www.legislation.gov.uk/uksi/2009/2083/article/6)
 
-[^key-66eb29ad5fbc48cfa44173faed25ccc0]: Textual amendment: Words in s. 38(6)(7) substituted (1.9.2004) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 384(f)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/384/f); [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066), [art. 2(c)(xix)](https://www.legislation.gov.uk/uksi/2004/2066/article/2/c/xix) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2066/article/3))
+[^c-66eb29ad5fbc48cfa44173faed25ccc0]: Textual amendment: Words in s. 38(6)(7) substituted (1.9.2004) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 384(f)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/384/f); [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066), [art. 2(c)(xix)](https://www.legislation.gov.uk/uksi/2004/2066/article/2/c/xix) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2066/article/3))
 
 [^c9546051]: Marginal citation: [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25).
 

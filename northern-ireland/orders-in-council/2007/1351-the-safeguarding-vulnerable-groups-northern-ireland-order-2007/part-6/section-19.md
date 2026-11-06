@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Articles 17 and 18: checks[^key-b2ff7df1085aec6622576bbb45728f0d]
+## 19. Articles 17 and 18: checks[^c-b2ff7df1085aec6622576bbb45728f0d]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2ff7df1085aec6622576bbb45728f0d]: Textual amendment: Art. 19 repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 88](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/88), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(aa)(v) (bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/aa/bb)
+[^c-b2ff7df1085aec6622576bbb45728f0d]: Textual amendment: Art. 19 repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 88](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/88), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(aa)(v) (bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/aa/bb)

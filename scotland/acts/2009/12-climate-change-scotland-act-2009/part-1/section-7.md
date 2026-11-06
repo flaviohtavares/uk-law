@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Advice before modifying annual targets etc.[^key-f241889fe1984bd8b0b39668faf50ff1]
+## 7. Advice before modifying annual targets etc.[^c-f241889fe1984bd8b0b39668faf50ff1]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f241889fe1984bd8b0b39668faf50ff1]: Textual amendment: Ss. 4-8 repealed (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [s. 32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2), [sch. para. 2](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-f241889fe1984bd8b0b39668faf50ff1]: Textual amendment: Ss. 4-8 repealed (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [s. 32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2), [sch. para. 2](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Amendment of the Genetically Modified Food and Feed (Amendment etc.) (EU Exit) Regulations 2019[^key-557f33b07eb8c4c4e8845930dd5475a3]
+## 17. Amendment of the Genetically Modified Food and Feed (Amendment etc.) (EU Exit) Regulations 2019[^c-557f33b07eb8c4c4e8845930dd5475a3]
 
 *Extent: E+W+S*
 
@@ -649,6 +649,6 @@ summary: ''
 
 ## Annotations
 
-[^key-557f33b07eb8c4c4e8845930dd5475a3]: Commencement: Reg. 17 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)
+[^c-557f33b07eb8c4c4e8845930dd5475a3]: Commencement: Reg. 17 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)
 
 [^c24375541]: Marginal citation: [S.I. 2019/705](https://www.legislation.gov.uk/uksi/2019/705).

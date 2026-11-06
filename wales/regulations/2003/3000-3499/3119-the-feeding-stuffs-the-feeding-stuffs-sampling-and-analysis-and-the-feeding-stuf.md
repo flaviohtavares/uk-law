@@ -41,55 +41,55 @@ Coming into force
 
 The National Assembly for Wales acting in exercise of the powers conferred by sections 66(1), 74A and 84 of the Agriculture Act 1970 [^c5192121] (as read with regulation 14 of the Food Standards Act 1999 (Transitional and Consequential Provisions and Savings) (England and Wales) Regulations 2000 [^c5192131] and articles 2 and 6 of the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 [^c5192141]) and now exercisable by it in relation to Wales [^c5192151], after consultation as required by section 84(1) of that Act and by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c5192161], and being designated [^c5192171] for the purposes of section 2(2) of the European Communities Act 1972 [^c5192181] in relation to the Common Agricultural Policy of the European Community, in exercise of the powers conferred on it by that last mentioned section (in so far as these Regulations cannot be made under the powers of the Agriculture Act 1970 specified above), makes the following Regulations:
 
-## 1. Title, application and commencement[^key-577a8c8d83a25e866894e027bc2de167]
+## 1. Title, application and commencement[^c-577a8c8d83a25e866894e027bc2de167]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Feeding Stuffs (Wales) Regulations 2001[^key-577a8c8d83a25e866894e027bc2de167]
+## 2. Amendment of the Feeding Stuffs (Wales) Regulations 2001[^c-577a8c8d83a25e866894e027bc2de167]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consequential amendments to the Feeding Stuffs (Wales) Regulations 2001[^key-577a8c8d83a25e866894e027bc2de167]
+## 3. Consequential amendments to the Feeding Stuffs (Wales) Regulations 2001[^c-577a8c8d83a25e866894e027bc2de167]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Consequential amendments to the Feeding Stuffs (Sampling and Analysis) Regulations 1999[^key-59948b7a404c0a396278088352a24584]
+## 4. Consequential amendments to the Feeding Stuffs (Sampling and Analysis) Regulations 1999[^c-59948b7a404c0a396278088352a24584]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-59948b7a404c0a396278088352a24584]
+## 5.[^c-59948b7a404c0a396278088352a24584]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-59948b7a404c0a396278088352a24584]
+## 6.[^c-59948b7a404c0a396278088352a24584]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Consequential amendments to the Feeding Stuffs (Enforcement) Regulations 1999[^key-59948b7a404c0a396278088352a24584]
+## 7. Consequential amendments to the Feeding Stuffs (Enforcement) Regulations 1999[^c-59948b7a404c0a396278088352a24584]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-59948b7a404c0a396278088352a24584]
+## 8.[^c-59948b7a404c0a396278088352a24584]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-59948b7a404c0a396278088352a24584]
+## 9.[^c-59948b7a404c0a396278088352a24584]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-59948b7a404c0a396278088352a24584]
+## 10.[^c-59948b7a404c0a396278088352a24584]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11.[^key-59948b7a404c0a396278088352a24584]
+## 11.[^c-59948b7a404c0a396278088352a24584]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -99,13 +99,13 @@ D.Elis-Thomas
 
 The Presiding Officer of the National Assembly
 
-## SCHEDULE — PART SUBSTITUTED FOR PART II OF THE TABLE SET OUT IN SCHEDULE 3 TO THE FEEDING STUFFS (WALES) REGULATIONS 2001[^key-577a8c8d83a25e866894e027bc2de167]
+## SCHEDULE — PART SUBSTITUTED FOR PART II OF THE TABLE SET OUT IN SCHEDULE 3 TO THE FEEDING STUFFS (WALES) REGULATIONS 2001[^c-577a8c8d83a25e866894e027bc2de167]
 
 **No longer in force.**
 
 **Regulation 2(2)**
 
-[^key-577a8c8d83a25e866894e027bc2de167]
+[^c-577a8c8d83a25e866894e027bc2de167]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -139,8 +139,8 @@ The Presiding Officer of the National Assembly
 
 [^c5192181]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-577a8c8d83a25e866894e027bc2de167]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2003/3119) revoked in so far as they amend the 2001 Regulations and so for all remaining purposes (25.1.2006) by [The Feeding Stuffs (Wales) Regulations 2006 (S.I. 2006/116)](https://www.legislation.gov.uk/wsi/2006/116), [Sch. 9](https://www.legislation.gov.uk/wsi/2006/116/schedule/9)
+[^c-577a8c8d83a25e866894e027bc2de167]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2003/3119) revoked in so far as they amend the 2001 Regulations and so for all remaining purposes (25.1.2006) by [The Feeding Stuffs (Wales) Regulations 2006 (S.I. 2006/116)](https://www.legislation.gov.uk/wsi/2006/116), [Sch. 9](https://www.legislation.gov.uk/wsi/2006/116/schedule/9)
 
-[^key-59948b7a404c0a396278088352a24584]: Textual amendment: [Regs. 4-11](https://www.legislation.gov.uk/wsi/2003/3119/regulation/4) revoked (1.1.2006) by [The Feed (Hygiene and Enforcement) (Wales) Regulations 2005 (S.I. 2005/3368)](https://www.legislation.gov.uk/wsi/2005/3368), [reg. 1](https://www.legislation.gov.uk/wsi/2005/3368/regulation/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2005/3368/schedule/2)
+[^c-59948b7a404c0a396278088352a24584]: Textual amendment: [Regs. 4-11](https://www.legislation.gov.uk/wsi/2003/3119/regulation/4) revoked (1.1.2006) by [The Feed (Hygiene and Enforcement) (Wales) Regulations 2005 (S.I. 2005/3368)](https://www.legislation.gov.uk/wsi/2005/3368), [reg. 1](https://www.legislation.gov.uk/wsi/2005/3368/regulation/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2005/3368/schedule/2)
 
 [^c5192271]: Marginal citation: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

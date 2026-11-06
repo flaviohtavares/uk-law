@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-e0cd48455ed7babbbba68643dd193c48]
+## 1. Citation and commencement[^c-e0cd48455ed7babbbba68643dd193c48]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the European Qualifications (Health and Social
 
 ## Annotations
 
-[^key-e0cd48455ed7babbbba68643dd193c48]: Commencement: Reg. 1 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-e0cd48455ed7babbbba68643dd193c48]: Commencement: Reg. 1 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

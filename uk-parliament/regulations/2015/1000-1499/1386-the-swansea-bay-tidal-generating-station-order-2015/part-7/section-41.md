@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Felling or lopping of trees[^key-924b76d15e00f2b9b71e2ffec7a080d1]
+## 41. Felling or lopping of trees[^c-924b76d15e00f2b9b71e2ffec7a080d1]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-924b76d15e00f2b9b71e2ffec7a080d1]: Commencement: Art. 41 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-924b76d15e00f2b9b71e2ffec7a080d1]: Commencement: Art. 41 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)

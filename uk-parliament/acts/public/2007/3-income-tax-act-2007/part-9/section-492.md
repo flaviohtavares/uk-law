@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 492. Cases where settlor has made more than one settlement[^key-6b2730921317c00498d67f7387fe1506]
+## 492. Cases where settlor has made more than one settlement[^c-6b2730921317c00498d67f7387fe1506]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b2730921317c00498d67f7387fe1506]: Textual amendment: Pt. 9 Ch. 6 omitted (6.4.2024 in relation to the tax year 2024-25 and subsequent tax years) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 2 paras. 13(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/13/2), [14(4)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/14/4)
+[^c-6b2730921317c00498d67f7387fe1506]: Textual amendment: Pt. 9 Ch. 6 omitted (6.4.2024 in relation to the tax year 2024-25 and subsequent tax years) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 2 paras. 13(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/13/2), [14(4)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/14/4)

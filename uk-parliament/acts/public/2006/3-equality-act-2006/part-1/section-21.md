@@ -28,7 +28,7 @@ summary: ''
 (2) A notice must specify—
 
 - (a) the unlawful act, and
-- (b) the provision of the Equality Act 2010[^key-f1aacd188cb7130b6a0a9d9d0ed4db4c] by virtue of which the act is unlawful.
+- (b) the provision of the Equality Act 2010[^c-f1aacd188cb7130b6a0a9d9d0ed4db4c] by virtue of which the act is unlawful.
 
 (3) A notice must inform the recipient of the effect of—
 
@@ -59,9 +59,9 @@ summary: ''
 (7) In subsection (5) “**the appropriate court or tribunal**” means—
 
 - (a) an employment tribunal, if a claim in respect of the alleged unlawful act could be made to it, or
-- (b) the county court[^key-fd23f991c3c16f3eae19b34e1cf3127e] (in England and Wales) or the sheriff (in Scotland), if a claim in respect of the alleged unlawful act could be made to it or to him.
+- (b) the county court[^c-fd23f991c3c16f3eae19b34e1cf3127e] (in England and Wales) or the sheriff (in Scotland), if a claim in respect of the alleged unlawful act could be made to it or to him.
 
-(8)[^key-5655c4b823f2664fb2d2259fd7caa146] Subsection (7) applies as though a claim could be made to an employment tribunal in respect of—
+(8)[^c-5655c4b823f2664fb2d2259fd7caa146] Subsection (7) applies as though a claim could be made to an employment tribunal in respect of—
 
 - (a) an alleged contravention of section 40A(1) of the Equality Act 2010 (duty to take reasonable steps to prevent harassment of employees), or
 - (b) an alleged contravention of section 111 or 112 of that Act which relates to a contravention of section 40A(1) of that Act.
@@ -70,8 +70,8 @@ summary: ''
 
 [^c2035033]: Modification: S. 21(1)(a) applied (with modifications) (1.10.2007) by [The Equality Act 2006 (Dissolution of Commissions and Consequential and Transitional Provisions) Order 2007 (S.I. 2007/2602)](https://www.legislation.gov.uk/uksi/2007/2602), [art. 5(3)](https://www.legislation.gov.uk/uksi/2007/2602/article/5/3)
 
-[^key-f1aacd188cb7130b6a0a9d9d0ed4db4c]: Textual amendment: Words in s. 21(2)(b) substituted (1.10.2010) by [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2010/15/section/216/3), [Sch. 26 para. 67](https://www.legislation.gov.uk/ukpga/2010/15/schedule/26/paragraph/67) (with [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2010/15/section/6/4), [205](https://www.legislation.gov.uk/ukpga/2010/15/section/205)); [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(15)(e)(vi)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/15/e/vi) (as amended (1.10.2010) by [S.I. 2010/2337](https://www.legislation.gov.uk/uksi/2010/2337), art. 2)
+[^c-f1aacd188cb7130b6a0a9d9d0ed4db4c]: Textual amendment: Words in s. 21(2)(b) substituted (1.10.2010) by [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2010/15/section/216/3), [Sch. 26 para. 67](https://www.legislation.gov.uk/ukpga/2010/15/schedule/26/paragraph/67) (with [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2010/15/section/6/4), [205](https://www.legislation.gov.uk/ukpga/2010/15/section/205)); [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(15)(e)(vi)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/15/e/vi) (as amended (1.10.2010) by [S.I. 2010/2337](https://www.legislation.gov.uk/uksi/2010/2337), art. 2)
 
-[^key-fd23f991c3c16f3eae19b34e1cf3127e]: Textual amendment: Words in s. 21(7)(b) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-fd23f991c3c16f3eae19b34e1cf3127e]: Textual amendment: Words in s. 21(7)(b) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-5655c4b823f2664fb2d2259fd7caa146]: Textual amendment: S. 21(8) inserted (26.10.2024) by [Worker Protection (Amendment of Equality Act 2010) Act 2023 (c. 51)](https://www.legislation.gov.uk/ukpga/2023/51), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2023/51/section/4/2), [5(3)](https://www.legislation.gov.uk/ukpga/2023/51/section/5/3)
+[^c-5655c4b823f2664fb2d2259fd7caa146]: Textual amendment: S. 21(8) inserted (26.10.2024) by [Worker Protection (Amendment of Equality Act 2010) Act 2023 (c. 51)](https://www.legislation.gov.uk/ukpga/2023/51), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2023/51/section/4/2), [5(3)](https://www.legislation.gov.uk/ukpga/2023/51/section/5/3)

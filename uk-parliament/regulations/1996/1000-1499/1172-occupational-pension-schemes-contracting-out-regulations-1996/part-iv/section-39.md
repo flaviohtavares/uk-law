@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Circumstances in which schemes may change mode of contracting-out.[^key-c6f9934fb0fa6143fea6c8346919d121]
+## 39. Circumstances in which schemes may change mode of contracting-out.[^c-c6f9934fb0fa6143fea6c8346919d121]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6f9934fb0fa6143fea6c8346919d121]: Textual amendment: Reg. 39 omitted (6.4.2012) by virtue of [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245) , [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2) , [4(11)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/4/11)
+[^c-c6f9934fb0fa6143fea6c8346919d121]: Textual amendment: Reg. 39 omitted (6.4.2012) by virtue of [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245) , [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2) , [4(11)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/4/11)

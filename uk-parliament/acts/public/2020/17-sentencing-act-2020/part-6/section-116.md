@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Reparation orders: interpretation[^key-d3c103b18da2c2533a9bfc6980aaefca]
+## 116. Reparation orders: interpretation[^c-d3c103b18da2c2533a9bfc6980aaefca]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-d3c103b18da2c2533a9bfc6980aaefca]: Commencement: S. 116 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-d3c103b18da2c2533a9bfc6980aaefca]: Commencement: S. 116 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

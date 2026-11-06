@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46Z23E. Technical assistance relating to uranium[^key-34627dff89ef4ab7752c8f6175e87bc1]
+## 46Z23E. Technical assistance relating to uranium[^c-34627dff89ef4ab7752c8f6175e87bc1]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34627dff89ef4ab7752c8f6175e87bc1]: Textual amendment: [Pt. 5 Ch. 4KA](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4KA) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2026/543/regulation/9)
+[^c-34627dff89ef4ab7752c8f6175e87bc1]: Textual amendment: [Pt. 5 Ch. 4KA](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4KA) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2026/543/regulation/9)

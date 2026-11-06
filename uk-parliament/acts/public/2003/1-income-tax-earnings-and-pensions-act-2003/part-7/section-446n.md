@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 446N. Securities subject to restriction during relevant period[^key-06868e59dcbada837872488b6e7fb1cd]
+## 446N. Securities subject to restriction during relevant period[^c-06868e59dcbada837872488b6e7fb1cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,12 +39,12 @@ summary: ''
 
 had been disregarded.
 
-(7)[^key-04e72f0d17281fa9fad13780d3e82529] If any of the employment income arising under section 426 by virtue of the chargeable event is foreign securities income within the meaning of section 41C, reduce the taxable amount mentioned in subsection (5) by the amount of the foreign securities income.
+(7)[^c-04e72f0d17281fa9fad13780d3e82529] If any of the employment income arising under section 426 by virtue of the chargeable event is foreign securities income within the meaning of section 41C, reduce the taxable amount mentioned in subsection (5) by the amount of the foreign securities income.
 
 (8) If any of the employment income that would have arisen (if the non-commercial interests mentioned in subsection (6) had been disregarded) under section 426 by virtue of the chargeable event would have been foreign securities income (within that meaning), reduce the taxable amount mentioned in subsection (6) by the amount of the foreign securities income.
 
 ## Annotations
 
-[^key-06868e59dcbada837872488b6e7fb1cd]: Textual amendment: Pt. 7 Ch. 3B inserted (16.4.2003 with effect in accordance with Sch. 22 para. 6(2)-(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 6(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/6/1)
+[^c-06868e59dcbada837872488b6e7fb1cd]: Textual amendment: Pt. 7 Ch. 3B inserted (16.4.2003 with effect in accordance with Sch. 22 para. 6(2)-(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 6(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/6/1)
 
-[^key-04e72f0d17281fa9fad13780d3e82529]: Textual amendment: [S. 446N(7)](https://www.legislation.gov.uk/ukpga/2003/1/section/446N/7)[(8)](https://www.legislation.gov.uk/ukpga/2003/1/section/446N/8) inserted (with effect in accordance with Sch. 7 para. 80 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 32](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/32)
+[^c-04e72f0d17281fa9fad13780d3e82529]: Textual amendment: [S. 446N(7)](https://www.legislation.gov.uk/ukpga/2003/1/section/446N/7)[(8)](https://www.legislation.gov.uk/ukpga/2003/1/section/446N/8) inserted (with effect in accordance with Sch. 7 para. 80 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 32](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/32)

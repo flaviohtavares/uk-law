@@ -44,11 +44,11 @@ Coming into operation
 
 The Department for Infrastructure[^f00001] makes the following Regulations in exercise of the powers conferred by Articles 61(6), 62, 75(8), 81(8) and (9) and 110(2) of the Road Traffic (Northern Ireland) Order 1995[^f00002] and now vested in it[^f00003].
 
-## 1. Citation and commencement[^key-6ac1111b4123348da20c6c4133222451]
+## 1. Citation and commencement[^c-6ac1111b4123348da20c6c4133222451]
 
 These Regulations may be cited as the Motor Vehicle Testing (Amendment) (Fees) Regulations (Northern Ireland) 2023 and shall come into operation on 1st October 2023.
 
-## 2. Amendment of the Motor Vehicle Testing Regulations[^key-ffded17a6171e8b3facc26a5ed158c10]
+## 2. Amendment of the Motor Vehicle Testing Regulations[^c-ffded17a6171e8b3facc26a5ed158c10]
 
 For Schedule 1 to the Motor Vehicle Testing Regulations (Northern Ireland) 2003[^f00004], substitute—
 
@@ -228,8 +228,8 @@ An Explanatory Memorandum and Regulatory Impact Assessment have been produced an
 
 [^f00003]: Footnote: *See* Article 8(1)(b) of, and Part 2 of Schedule 5 to, the Departments (Transfer of Functions) Order (Northern Ireland) 2016 ([S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76))
 
-[^key-6ac1111b4123348da20c6c4133222451]: Commencement: Reg. 1 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/130/regulation/1)
+[^c-6ac1111b4123348da20c6c4133222451]: Commencement: Reg. 1 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/130/regulation/1)
 
-[^key-ffded17a6171e8b3facc26a5ed158c10]: Commencement: Reg. 2 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/130/regulation/1)
+[^c-ffded17a6171e8b3facc26a5ed158c10]: Commencement: Reg. 2 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/130/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2003 No. 303](https://www.legislation.gov.uk/nisr/2003/303); Schedule 1 was substituted by regulation 2 of [S.R. 2005 No. 404](https://www.legislation.gov.uk/nisr/2005/404) and amended by regulation 4 of [S.R. 2007 No. 98](https://www.legislation.gov.uk/nisr/2007/98)
